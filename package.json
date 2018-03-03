@@ -1,0 +1,35 @@
+{
+  "name": "碧蓝幻想机翻",
+  "version": "0.1.2",
+  "description": "碧蓝幻想微风机翻团",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "proxy": "node ./proxy/start",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder",
+    "postinstall": "electron-builder install-app-deps",
+    "release": "build"
+  },
+  "author": "biuuu",
+  "license": "MIT",
+  "dependencies": {
+    "anyproxy": "^4.0.5",
+    "axios": "^0.17.1",
+    "chokidar": "^2.0.2",
+    "electron-updater": "^2.20.1",
+    "element-ui": "^2.2.1",
+    "glob": "^7.1.2",
+    "ip": "^1.1.5",
+    "lodash": "^4.17.5",
+    "papaparse": "^4.3.7",
+    "urijs": "^1.19.0",
+    "url-search-params": "^0.10.0",
+    "vue": "^2.5.13"
+  },
+  "devDependencies": {
+    "electron": "^1.8.2",
+    "electron-builder": "^20.2.0"
+  }
+}

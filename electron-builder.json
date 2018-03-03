@@ -1,0 +1,14 @@
+{
+  "appId": "com.danmu9.blhx",
+  "mac": {
+    "category": "public.app-category.utilities"
+  },
+  "files": ["!config.local.json", "!local${/*}"],
+  "asar": true,
+  "publish": "github",
+  "github": {
+    "provider": "github",
+    "repo": "BLHXJF",
+    "owner": "biuuu"
+  }
+}
