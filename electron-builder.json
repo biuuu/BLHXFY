@@ -1,12 +1,13 @@
 {
   "appId": "com.danmu9.blhx",
+  "productName": "碧蓝幻想机翻",
+  "copyright": "Copyright © 2018 biuuu",
   "mac": {
     "category": "public.app-category.utilities"
   },
   "files": ["!config.local.json", "!local${/*}"],
   "asar": true,
-  "publish": "github",
-  "github": {
+  "publish": {
     "provider": "github",
     "repo": "BLHXJF",
     "owner": "biuuu"
