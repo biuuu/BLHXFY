@@ -14,6 +14,7 @@ Vue.component('form-config', {
   data() {
     const config = JSON.parse(fs.readFileSync(configPath).toString('utf8'))
     return {
+      bthLoading: false,
       configForm: Object.assign({}, config),
       optionsApi: [
         { label: 'game.granbluefantasy.jp', value: 'game.granbluefantasy.jp' },
@@ -23,11 +24,13 @@ Vue.component('form-config', {
   },
   methods: {
     onSubmit () {
+      this.bthLoading = true
       if (this.configForm.port === this.configForm.webPort) {
         this.configForm.webPort = this.configForm.port + 1
       }
       saveConfig(this.configForm)
       ipcRenderer.send('update-config', this.configForm)
+      window.close()
     }
   },
   template: `
@@ -65,7 +68,7 @@ Vue.component('form-config', {
           inactive-text="关">
         </el-switch>
       </el-form-item>
-      <el-form-item label="代理web页面端口">
+      <el-form-item label="监控页端口">
         <el-input-number v-model="configForm.webPort" :min="0" :max="65535"></el-input-number>
       </el-form-item>
       <el-form-item label="前置代理">
@@ -78,8 +81,8 @@ Vue.component('form-config', {
       <el-form-item label="前置代理端口">
         <el-input-number :min="0" :max="65535" :disabled="!configForm.frontAgent" v-model="configForm.frontAgentPort"></el-input-number>
       </el-form-item>
-      <el-form-item>
-        <el-button type="primary" @click="onSubmit">启动代理</el-button>
+      <el-form-item size="normal">
+        <el-button type="primary" :loading="btnLoading" @click="onSubmit">保存配置</el-button>
       </el-form-item>
     </el-form>
   `

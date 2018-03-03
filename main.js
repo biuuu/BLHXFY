@@ -7,17 +7,30 @@ const CONFIG = require('./config')
 
 // 保持一个对于 window 对象的全局引用，如果你不这样做，
 // 当 JavaScript 对象被垃圾回收， window 会被自动地关闭
-let win
+let win, configWin
 
 ipcMain.on('update-config', (event, data) => {
   Object.assign(CONFIG, data)
-  console.log(CONFIG)
+})
+
+ipcMain.on('start-proxy', (event, data) => {
+  win.webContents.send('config-data', CONFIG)
   startProxy()
+  win.setSize(360, 300)
+})
+
+ipcMain.on('show-win-config', () => {
+  configWin = new BrowserWindow({ width: 360, height: 550, parent: win, modal: true })
+  configWin.loadURL((url.format({
+    pathname: path.join(__dirname, './renderer/win-config.html'),
+    protocol: 'file:',
+    slashes: true
+  })))
 })
 
 function createWindow () {
   // 创建浏览器窗口。
-  win = new BrowserWindow({width: 360, height: 300})
+  win = new BrowserWindow({width: 360, height: 200})
 
   // 然后加载应用的 index.html。
   win.loadURL(url.format({

@@ -14,5 +14,5 @@ yarn proxy
 ```
 或者作为 electron App 启动
 ```
-yarn starat
+yarn start
 ```

@@ -16,9 +16,9 @@ const config = {
   interceptTwitterWidgets: true,
 
   // 本地代理的端口
-  port: 9200,
+  port: 8001,
   webInterface: true,  // 是否启用 anyProxy 的 web 界面
-  webPort: 9201,    // anyProxy 的 web 界面端口
+  webPort: 8002,    // anyProxy 的 web 界面端口
 
   // 是否解析 https 请求
   proxyHttps: false,

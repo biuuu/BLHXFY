@@ -4,3 +4,4 @@ local/
 dist/
 test-script.js
 config.local.json
+electron-builder.local.json
