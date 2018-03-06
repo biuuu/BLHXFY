@@ -5,7 +5,7 @@ const { readCsv, replaceWords } = require('./index')
 const readScenario = async ({ filename, stable }, userName) => {
   const csvPath = stable 
     ? path.resolve(__dirname, '../data/scenario', `${filename}.csv`)
-    : path.resolve(process.cwd(), `local/scenario`, `${filename}.csv`)
+    : path.resolve(CONFIG.userDataPath, `local/scenario`, `${filename}.csv`)
   const list = await readCsv(csvPath)
   const transMap = new Map()
   list.forEach(item => {

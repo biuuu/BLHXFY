@@ -1,9 +1,10 @@
 const path = require('path')
 const { writeCsv, readCsv, sortByStr } = require('./index')
+const { userDataPath } = require('../config')
 
 const saveNames = async (names, lang) => {
   if (!lang) return
-  const FILE_PATH = path.resolve(process.cwd(), 'local/', `npc-name-${lang}.csv`)
+  const FILE_PATH = path.resolve(userDataPath, 'local/', `npc-name-${lang}.csv`)
   let list = []
   try {
     list = await readCsv(FILE_PATH)

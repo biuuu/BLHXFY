@@ -21,7 +21,7 @@ const replaceName = (content, userName) => {
 
 const saveScenario = async (map, data, filename, userName, lang) => {
   const info = scenarioState.map.get(filename)
-  const scenarioPath = path.resolve(process.cwd(), 'local/scenario/', `${filename}.csv`)
+  const scenarioPath = path.resolve(CONFIG.userDataPath, 'local/scenario/', `${filename}.csv`)
   const result = []
   if (!info) {
     data.forEach(item => {
@@ -56,7 +56,7 @@ const saveScenario = async (map, data, filename, userName, lang) => {
     if (info.en && info.jp) return
     if (info.en && lang === 'en') return
     if (info.jp && lang === 'jp') return
-    const existPath = path.resolve(process.cwd(), 'local/scenario/', `${info.filename}.csv`)
+    const existPath = path.resolve(CONFIG.userDataPath, 'local/scenario/', `${info.filename}.csv`)
     const list = await readCsv(existPath)
     const localMap = new Map()
     list.filter(row => row.id).forEach(row => {

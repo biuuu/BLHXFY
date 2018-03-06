@@ -29,7 +29,8 @@ const config = {
   frontAgentPort: 1080
 }
 
-const LOCAL_CONFIG_PATH = path.resolve(process.cwd(), 'local', 'config.json')
+const userDataPath = path.resolve(process.env.APPDATA, process.env.npm_package_name)
+const LOCAL_CONFIG_PATH = path.resolve(userDataPath, 'config.json')
 
 const getLocalConfig = () => {
   let localConfig = {}
@@ -49,5 +50,7 @@ const getLocalConfig = () => {
 }
 
 getLocalConfig()
+
+config.userDataPath = userDataPath
 
 module.exports = config

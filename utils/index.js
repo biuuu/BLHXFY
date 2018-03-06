@@ -38,14 +38,18 @@ const processResponseBody = async (params) => {
 }
 
 const readCsv = async (csvPath) => {
-  return new Promise((rev, rej) => {
-    fs.readFile(csvPath, 'utf-8', (err, data) => {
-      if (err) rej(err)
-      rev(data)
+  try {
+    const data = await new Promise((rev, rej) => {
+      fs.readFile(csvPath, 'utf-8', (err, data) => {
+        if (err) rej(err)
+        rev(data)
+      })
     })
-  }).then(data => {
     return CSV.parse(data.replace(/^\ufeff/, ''), { header: true }).data
-  })
+  } catch (err) {
+    console.error(`读取csv失败：${err.message}\n${err.stack}`)
+    return []
+  }
 }
 
 const writeFile = async (filePath, data, utf8bom = true) => {

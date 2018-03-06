@@ -17,7 +17,7 @@ const txtKeys = ['chapter_name', 'synopsis', 'detail', 'sel1_txt', 'sel2_txt']
 
 const replaceChar = (key, item, map) => {
   const name = item[key]
-  if (name && name !== 'null' && name !== '???') {
+  if (name && name !== 'null' && name !== '???' && name !== '？？？') {
     let trans = map.get(name)
     let _name = name
     if (/\s\d{1,2}$/.test(name)) {
