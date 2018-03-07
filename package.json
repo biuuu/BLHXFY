@@ -1,10 +1,9 @@
 {
   "name": "blhxfy",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "碧蓝幻想微风机翻团",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "electron .",
     "proxy": "node ./proxy/start",
     "pack": "electron-builder --dir",

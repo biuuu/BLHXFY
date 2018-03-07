@@ -24,7 +24,11 @@ ipcMain.on('start-proxy', (event, data) => {
 })
 
 ipcMain.on('show-win-config', () => {
-  configWin = new BrowserWindow({ width: 360, height: 550, parent: win, modal: true })
+  configWin = new BrowserWindow({ 
+    width: 360, height: 550, 
+    parent: win, modal: true,
+    icon: path.resolve(__dirname, './assets/icon.ico')
+  })
   configWin.loadURL((url.format({
     pathname: path.join(__dirname, './renderer/win-config.html'),
     protocol: 'file:',
@@ -47,7 +51,7 @@ function createWindow () {
   // 创建浏览器窗口。
   win = new BrowserWindow({
     width: 360, height: 200,
-    icon: __dirname + '/build/icon.ico'
+    icon: path.resolve(__dirname, './assets/icon.ico')
   })
 
   // 然后加载应用的 index.html。
