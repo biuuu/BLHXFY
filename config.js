@@ -2,6 +2,7 @@ const fs = require('fs')
 const path = require('path')
 const { dirname } = require('path')
 const mkdirp = require('mkdirp')
+const { USER_DATA_PATH } = require('./store/')
 
 const config = {
   // 游戏的主要数据接口
@@ -26,11 +27,20 @@ const config = {
   // 是否使用前置代理
   frontAgent: false,
   frontAgentHost: '127.0.0.1',
-  frontAgentPort: 1080
+  frontAgentPort: 1080,
+
+  transService: 'google',
+  baidu: {
+    appid: '',
+    appSecret: '' 
+  },
+  youdao: {
+    appKey: '',
+    appSecret: ''
+  }
 }
 
-const userDataPath = path.resolve(process.env.APPDATA, 'blhxjf')
-const LOCAL_CONFIG_PATH = path.resolve(userDataPath, 'config.json')
+const LOCAL_CONFIG_PATH = path.resolve(USER_DATA_PATH, 'config.json')
 
 const getLocalConfig = () => {
   let localConfig = {}
@@ -50,7 +60,5 @@ const getLocalConfig = () => {
 }
 
 getLocalConfig()
-
-config.userDataPath = userDataPath
 
 module.exports = config

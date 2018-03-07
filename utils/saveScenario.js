@@ -2,6 +2,7 @@ const scenarioState = require('../store/scenarioState')
 const path = require('path')
 const { readCsv, writeCsv, replaceWords } = require('./index')
 const CONFIG = require('../config')
+const { USER_DATA_PATH } = require('../store/')
 
 const txtKeys = ['chapter_name', 'synopsis', 'detail', 'sel1_txt', 'sel2_txt']
 
@@ -21,7 +22,7 @@ const replaceName = (content, userName) => {
 
 const saveScenario = async (map, data, filename, userName, lang) => {
   const info = scenarioState.map.get(filename)
-  const scenarioPath = path.resolve(CONFIG.userDataPath, 'local/scenario/', `${filename}.csv`)
+  const scenarioPath = path.resolve(USER_DATA_PATH, 'local/scenario/', `${filename}.csv`)
   const result = []
   if (!info) {
     data.forEach(item => {
@@ -56,7 +57,7 @@ const saveScenario = async (map, data, filename, userName, lang) => {
     if (info.en && info.jp) return
     if (info.en && lang === 'en') return
     if (info.jp && lang === 'jp') return
-    const existPath = path.resolve(CONFIG.userDataPath, 'local/scenario/', `${info.filename}.csv`)
+    const existPath = path.resolve(USER_DATA_PATH, 'local/scenario/', `${info.filename}.csv`)
     const list = await readCsv(existPath)
     const localMap = new Map()
     list.filter(row => row.id).forEach(row => {

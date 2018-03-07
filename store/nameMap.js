@@ -1,4 +1,5 @@
 const { readCsv, sortKeywords, writeCsv } = require('../utils/')
+const { USER_DATA_PATH } = require('../store/')
 const path = require('path')
 const chokidar = require('chokidar')
 const { debounce } = require('lodash')
@@ -12,14 +13,13 @@ const nameData = {
 }
 
 const cwd = process.cwd()
-const userDataPath = path.resolve(process.env.APPDATA, 'blhxjf')
 
 const NAME_EN_PATH = path.resolve(__dirname, '../data', 'npc-name-en.csv')
 const NAME_JP_PATH = path.resolve(__dirname, '../data', 'npc-name-jp.csv')
-const NAME_EN_PATH_LOCAL = path.resolve(userDataPath, 'local', 'npc-name-en.csv')
-const NAME_JP_PATH_LOCAL = path.resolve(userDataPath, 'local', 'npc-name-jp.csv')
+const NAME_EN_PATH_LOCAL = path.resolve(USER_DATA_PATH, 'local', 'npc-name-en.csv')
+const NAME_JP_PATH_LOCAL = path.resolve(USER_DATA_PATH, 'local', 'npc-name-jp.csv')
 const NOUN_PATH = path.resolve(__dirname, '../data', 'noun.csv')
-const NOUN_PATH_LOCAL = path.resolve(userDataPath, 'local', 'noun.csv')
+const NOUN_PATH_LOCAL = path.resolve(USER_DATA_PATH, 'local', 'noun.csv')
 
 const mergeList = async (pathLocal, pathStable, key = 'name') => {
   const list = []
@@ -79,10 +79,10 @@ const nounFileChange = debounce((file) => {
 
 setTimeout(() => {
   chokidar.watch(['local/npc-name-*.csv'], { 
-    cwd: userDataPath 
+    cwd: USER_DATA_PATH 
   }).on('change', nameFileChange)
   chokidar.watch(['local/noun.csv'], { 
-    cwd: userDataPath 
+    cwd: USER_DATA_PATH 
   }).on('change', nounFileChange)
 }, 3000)
 

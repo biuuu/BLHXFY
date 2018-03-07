@@ -2,7 +2,7 @@ const glob = require('glob')
 const path = require('path')
 const { readCsv } = require('../utils/')
 const chokidar = require('chokidar')
-const { userDataPath } = require('../config')
+const { USER_DATA_PATH } = require('../store')
 
 const scenarioMap = new Map()
 
@@ -12,7 +12,7 @@ const state = {
 }
 
 const readInfo = async (file, stable) => {
-  const csvPath = stable ? path.resolve(__dirname, '../', file) : path.resolve(userDataPath, file)
+  const csvPath = stable ? path.resolve(__dirname, '../', file) : path.resolve(USER_DATA_PATH, file)
   const list = await readCsv(csvPath)
   const filename = path.basename(file, '.csv')
   const rlist = list.reverse()
@@ -30,7 +30,7 @@ const readInfo = async (file, stable) => {
   }
 }
 
-glob('local/scenario/*.csv', { cwd: userDataPath }, (err, files) => {
+glob('local/scenario/*.csv', { cwd: USER_DATA_PATH }, (err, files) => {
   Promise.all(files.map(file => {
     return readInfo(file, false)
   })).then(() => {
@@ -46,7 +46,7 @@ glob('local/scenario/*.csv', { cwd: userDataPath }, (err, files) => {
 
 setTimeout(() => {
   chokidar.watch('local/scenario/*.csv', {
-    cwd: userDataPath
+    cwd: USER_DATA_PATH
   }).on('add', file => {
     readInfo(file)
   })

@@ -32,9 +32,23 @@ ipcMain.on('show-win-config', () => {
   })))
 })
 
+const shouldQuit = app.makeSingleInstance((commandLine, workingDirectory) => {
+  if (win) {
+    if (win.isMinimized()) win.restore()
+    win.focus()
+  }
+})
+
+if (shouldQuit) {
+  app.quit()
+}
+
 function createWindow () {
   // 创建浏览器窗口。
-  win = new BrowserWindow({width: 360, height: 200})
+  win = new BrowserWindow({
+    width: 360, height: 200,
+    icon: __dirname + '/build/icon.ico'
+  })
 
   // 然后加载应用的 index.html。
   win.loadURL(url.format({

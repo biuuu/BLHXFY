@@ -11,7 +11,10 @@ const saveNames = require('../../utils/saveNames')
 const saveScenario = require('../../utils/saveScenario')
 const readScenario = require('../../utils/readScenario')
 
-const transApi = googleTrans
+let transApi = googleTrans
+if (CONFIG.transService === 'youdao') transApi = youdaoTrans
+if (CONFIG.transService === 'baidu') transApi = baiduTrans
+
 const WORDS_LIMIT = 4500
 const txtKeys = ['chapter_name', 'synopsis', 'detail', 'sel1_txt', 'sel2_txt']
 
@@ -125,10 +128,12 @@ module.exports = async (data, uid, pathname) => {
       .catch(err => console.error(`保存剧情CSV失败：${err}\n${err.stack}`))
     }
   } else {
-    const transList = await transMulti(txtList, lang, userName)
+    const transList = CONFIG.transService 
+      ? await transMulti(txtList, lang, userName)
+      : []
     infoList.forEach((info, index) => {
       const obj = transMap.get(info.id) || {}
-      obj[info.type] = transList[index]
+      obj[info.type] = transList[index] || ''
       transMap.set(info.id, obj)
     })
     if (scenarioState.status === 'loaded') {

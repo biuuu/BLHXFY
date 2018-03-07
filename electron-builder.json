@@ -1,15 +1,19 @@
 {
-  "appId": "com.danmu9.blhx",
-  "productName": "GBF翻译",
+  "appId": "com.danmu9.blhxfy",
+  "productName": "碧蓝幻想翻译",
   "copyright": "Copyright © 2018 biuuu",
   "mac": {
     "category": "public.app-category.utilities"
   },
   "files": ["!config.local.json", "!local${/*}"],
   "asar": true,
-  "publish": {
+  "publish": [{
     "provider": "github",
-    "repo": "BLHXJF",
-    "owner": "biuuu"
+    "repo": "BLHXFY",
+    "owner": "biuuu",
+    "token": ""
+  }],
+  "nsis": {
+    "artifactName": "${productName}${version}.${ext}"
   }
 }
