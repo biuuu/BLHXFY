@@ -1,18 +1,18 @@
 const ElementUI = require('element-ui')
-const { ipcRenderer, shell } = require('electron')
+const { ipcRenderer, shell, remote } = require('electron')
 const ip = require('ip')
 const path = require('path')
 require('./form-config')
 Vue.use(ElementUI)
 
-const CSV_FOLDER_PATH = path.resolve(process.cwd(), 'local/*')
-let app
+const CSV_FOLDER_PATH = path.resolve(remote.app.getPath('userData'), 'local/*')
+let vueApp
 ipcRenderer.on('config-data', (evt, data) => {
-  app.port = data.port
-  app.webPort = data.webPort
+  vueApp.port = data.port
+  vueApp.webPort = data.webPort
 })
 
-app = new Vue({
+vueApp = new Vue({
   el: '#app',
   data: {
     started: false,

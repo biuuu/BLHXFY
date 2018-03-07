@@ -1,10 +1,14 @@
 const { app, BrowserWindow, ipcMain } = require('electron')
-const autoUpdater = require("electron-updater").autoUpdater
+const { autoUpdater } = require('electron-updater')
 const path = require('path')
 const url = require('url')
 const startProxy = require('./proxy/index')
 const CONFIG = require('./config')
+const log = require('electron-log')
 
+autoUpdater.logger = log
+autoUpdater.logger.transports.file.level = 'info'
+log.info('App starting...')
 // 保持一个对于 window 对象的全局引用，如果你不这样做，
 // 当 JavaScript 对象被垃圾回收， window 会被自动地关闭
 let win, configWin
@@ -75,5 +79,34 @@ app.on('activate', () => {
   }
 })
 
-// 在这文件，你可以续写应用剩下主进程代码。
-// 也可以拆分成几个文件，然后用 require 导入。
+function sendStatusToWindow(text) {
+  log.info(text)
+  win.webContents.send('message', text)
+}
+
+autoUpdater.on('checking-for-update', () => {
+  sendStatusToWindow('Checking for update...')
+})
+
+autoUpdater.on('update-available', (info) => {
+  sendStatusToWindow('Update available.')
+})
+
+autoUpdater.on('update-not-available', (info) => {
+  sendStatusToWindow('Update not available.')
+})
+
+autoUpdater.on('error', (err) => {
+  sendStatusToWindow('Error in auto-updater. ' + err)
+})
+
+autoUpdater.on('download-progress', (progressObj) => {
+  let log_message = "Download speed: " + progressObj.bytesPerSecond
+  log_message = log_message + ' - Downloaded ' + progressObj.percent + '%'
+  log_message = log_message + ' (' + progressObj.transferred + "/" + progressObj.total + ')'
+  sendStatusToWindow(log_message)
+})
+
+autoUpdater.on('update-downloaded', (info) => {
+  sendStatusToWindow('Update downloaded')
+})

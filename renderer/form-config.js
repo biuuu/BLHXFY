@@ -2,9 +2,9 @@ const fs = require('fs')
 const path = require('path')
 const { dirname } = require('path')
 const mkdirp = require('mkdirp')
-const { ipcRenderer } = require('electron')
+const { ipcRenderer, remote } = require('electron')
 
-const configPath = path.resolve(process.cwd(), 'local/config.json')
+const configPath = path.resolve(remote.app.getPath('userData'), 'config.json')
 
 const saveConfig = (config) => {
   fs.writeFileSync(configPath, JSON.stringify(config, null, 2))

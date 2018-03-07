@@ -29,7 +29,7 @@ const config = {
   frontAgentPort: 1080
 }
 
-const userDataPath = path.resolve(process.env.APPDATA, process.env.npm_package_name)
+const userDataPath = path.resolve(process.env.APPDATA, 'blhxjf')
 const LOCAL_CONFIG_PATH = path.resolve(userDataPath, 'config.json')
 
 const getLocalConfig = () => {

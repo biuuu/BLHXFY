@@ -12,7 +12,7 @@ const nameData = {
 }
 
 const cwd = process.cwd()
-const userDataPath = path.resolve(process.env.APPDATA, process.env.npm_package_name)
+const userDataPath = path.resolve(process.env.APPDATA, 'blhxjf')
 
 const NAME_EN_PATH = path.resolve(__dirname, '../data', 'npc-name-en.csv')
 const NAME_JP_PATH = path.resolve(__dirname, '../data', 'npc-name-jp.csv')

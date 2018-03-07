@@ -18,6 +18,7 @@
     "anyproxy": "^4.0.5",
     "axios": "^0.17.1",
     "chokidar": "^2.0.2",
+    "electron-log": "^2.2.14",
     "electron-updater": "^2.20.1",
     "element-ui": "^2.2.1",
     "glob": "^7.1.2",
