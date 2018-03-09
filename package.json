@@ -5,6 +5,7 @@
   "main": "main.js",
   "scripts": {
     "start": "electron .",
+    "dev": "cross-env NODE_ENV=development yarn proxy",
     "proxy": "node ./proxy/start",
     "pack": "electron-builder --dir",
     "dist": "electron-builder",
@@ -29,6 +30,7 @@
     "vue": "^2.5.13"
   },
   "devDependencies": {
+    "cross-env": "^5.1.3",
     "electron": "^1.8.2",
     "electron-builder": "^20.2.0"
   }
