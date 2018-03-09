@@ -7,7 +7,6 @@
     "start": "electron .",
     "dev": "cross-env NODE_ENV=development npm run proxy",
     "proxy": "node ./proxy/start",
-    "pack": "electron-builder --dir",
     "dist": "electron-builder",
     "postinstall": "electron-builder install-app-deps",
     "release": "build --config electron-builder.local.json"
