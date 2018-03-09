@@ -2,6 +2,7 @@
 node_modules/
 local/
 dist/
+userData/
 test-script.js
 config.local.json
 electron-builder.local.json
