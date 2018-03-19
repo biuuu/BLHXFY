@@ -5,6 +5,7 @@ const url = require('url')
 const startProxy = require('./proxy/index')
 const CONFIG = require('./config')
 const log = require('electron-log')
+const deleteCache = require('./utils/deleteCacheFile')
 
 autoUpdater.logger = log
 autoUpdater.logger.transports.file.level = 'info'
@@ -73,6 +74,9 @@ function createWindow () {
   })
 
   autoUpdater.checkForUpdatesAndNotify()
+  deleteCache(function (err) {
+    console.error(err)
+  })
 }
 
 // Electron 会在初始化后并准备
