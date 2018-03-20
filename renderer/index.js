@@ -13,6 +13,10 @@ ipcRenderer.on('config-data', (evt, data) => {
   vueApp.webPort = data.webPort
 })
 
+ipcRenderer.on('app-version', (evt, data) => {
+  vueApp.version = data
+})
+
 setInterval(() => {
   deleteCache(function (err) {
     if (err) console.error(err)
@@ -25,7 +29,11 @@ vueApp = new Vue({
     started: false,
     port: 8001,
     webPort: 8002,
-    ip: ip.address()
+    ip: ip.address(),
+    version: null
+  },
+  beforeMount () {
+    ipcRenderer.send('app-version')
   },
   methods: {
     openConfigWin () {

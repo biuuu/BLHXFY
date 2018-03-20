@@ -10,8 +10,7 @@ const deleteCache = require('./utils/deleteCacheFile')
 autoUpdater.logger = log
 autoUpdater.logger.transports.file.level = 'info'
 log.info('App starting...')
-// 保持一个对于 window 对象的全局引用，如果你不这样做，
-// 当 JavaScript 对象被垃圾回收， window 会被自动地关闭
+
 let win, configWin
 
 ipcMain.on('update-config', (event, data) => {
@@ -35,6 +34,10 @@ ipcMain.on('show-win-config', () => {
     protocol: 'file:',
     slashes: true
   })))
+})
+
+ipcMain.on('app-version', () => {
+  win.webContents.send('app-version', app.getVersion())
 })
 
 const shouldQuit = app.makeSingleInstance((commandLine, workingDirectory) => {
@@ -61,9 +64,6 @@ function createWindow () {
     protocol: 'file:',
     slashes: true
   }))
-
-  // 打开开发者工具。
-  // win.webContents.openDevTools()
 
   // 当 window 被关闭，这个事件会被触发。
   win.on('closed', () => {
