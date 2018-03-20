@@ -2,6 +2,7 @@ const ElementUI = require('element-ui')
 const { ipcRenderer, shell, remote } = require('electron')
 const ip = require('ip')
 const path = require('path')
+const deleteCache = require('../utils/deleteCacheFile')
 require('./form-config')
 Vue.use(ElementUI)
 
@@ -11,6 +12,12 @@ ipcRenderer.on('config-data', (evt, data) => {
   vueApp.port = data.port
   vueApp.webPort = data.webPort
 })
+
+setInterval(() => {
+  deleteCache(function (err) {
+    if (err) console.error(err)
+  }, true)
+}, 1000 * 60 * 60)
 
 vueApp = new Vue({
   el: '#app',

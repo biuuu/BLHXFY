@@ -1,4 +1,4 @@
-const { app, BrowserWindow, ipcMain } = require('electron')
+const { app, BrowserWindow, ipcMain, dialog } = require('electron')
 const { autoUpdater } = require('electron-updater')
 const path = require('path')
 const url = require('url')
@@ -75,7 +75,7 @@ function createWindow () {
 
   autoUpdater.checkForUpdatesAndNotify()
   deleteCache(function (err) {
-    console.error(err)
+    if (err) console.error(err)
   })
 }
 
@@ -131,4 +131,16 @@ autoUpdater.on('download-progress', (progressObj) => {
 
 autoUpdater.on('update-downloaded', (info) => {
   sendStatusToWindow('Update downloaded')
+  dialog.showMessageBox(win, {
+    type: 'question',
+    buttons: ['更新', '稍后'],
+    title: '应用更新',
+    message: '有新的更新，需要重启工具，要现在安装吗？',
+    cancelId: 1,
+    defaultId: 0
+  }, (response) => {
+    if (response === 0) {
+      app.quit()
+    }
+  })
 })
