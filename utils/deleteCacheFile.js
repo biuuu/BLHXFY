@@ -2,10 +2,12 @@ const rimraf = require('rimraf')
 const path = require('path')
 const os = require('os')
 
-let cachePath = path.resolve(os.homedir(), './.anyproxy/cache')
+const cachePath = path.resolve(os.homedir(), './.anyproxy/cache')
 module.exports = (cb, onlyFile) => {
+  let targetPath = cachePath
   if (onlyFile) {
-    cachePath += '/cache*/*'
+    targetPath = path.resolve(cachePath, './cache*/*')
   }
-  rimraf(cachePath, cb)
+  
+  rimraf(targetPath, cb)
 }
