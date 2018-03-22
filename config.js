@@ -7,6 +7,10 @@ const { USER_DATA_PATH } = require('./store/')
 const config = {
   // 游戏的主要数据接口
   apiHostNames: ['game.granbluefantasy.jp', 'gbf.game.mbga.jp'],
+  staticHostNames: [
+    'game-a.granbluefantasy.jp', 'game-a1.granbluefantasy.jp', 'game-a2.granbluefantasy.jp', 'game-a3.granbluefantasy.jp', 
+    'gbf.game-a.mbga.jp', 'gbf.game-a1.mbga.jp', 'gbf.game-a2.mbga.jp', 'gbf.game-a3.mbga.jp'
+  ],
   // 是否启用剧情翻译
   transScenario: true,
   // 是否启用常见短语翻译
@@ -20,6 +24,10 @@ const config = {
   port: 8001,
   webInterface: true,  // 是否启用 anyProxy 的 web 界面
   webPort: 8002,    // anyProxy 的 web 界面端口
+
+  // 是否启用静态文件 http 服务
+  staticServer: true,
+  staticPort: 8003,
 
   // 是否解析 https 请求
   proxyHttps: false,
@@ -47,16 +55,15 @@ const getLocalConfig = () => {
   try {
     const buffer = fs.readFileSync(LOCAL_CONFIG_PATH)
     localConfig = JSON.parse(buffer.toString())
+    Object.assign(config, localConfig)
   } catch (err) {
     if (err.code === 'ENOENT') {
       mkdirp(dirname(LOCAL_CONFIG_PATH), (err) => {
         if (err) return
-        fs.writeFileSync(LOCAL_CONFIG_PATH, JSON.stringify(config, null, 2))
       })
     }
   }
-
-  Object.assign(config, localConfig)
+  fs.writeFileSync(LOCAL_CONFIG_PATH, JSON.stringify(config, null, 2))
 }
 
 getLocalConfig()

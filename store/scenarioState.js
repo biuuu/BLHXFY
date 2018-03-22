@@ -46,7 +46,8 @@ glob('local/scenario/*.csv', { cwd: USER_DATA_PATH }, (err, files) => {
 
 setTimeout(() => {
   chokidar.watch('local/scenario/*.csv', {
-    cwd: USER_DATA_PATH
+    cwd: USER_DATA_PATH,
+    ignoreInitial: true
   }).on('add', file => {
     readInfo(file)
   })

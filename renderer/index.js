@@ -7,6 +7,8 @@ require('./form-config')
 Vue.use(ElementUI)
 
 const CSV_FOLDER_PATH = path.resolve(remote.app.getPath('userData'), 'local/*')
+const STATIC_FOLDER_PATH = path.resolve(remote.app.getPath('userData'), 'static/local/*')
+
 let vueApp
 ipcRenderer.on('config-data', (evt, data) => {
   vueApp.port = data.port
@@ -41,6 +43,9 @@ vueApp = new Vue({
     },
     openCsvFolder () {
       shell.showItemInFolder(CSV_FOLDER_PATH)
+    },
+    openStaticFolder () {
+      shell.showItemInFolder(STATIC_FOLDER_PATH)
     },
     openProxyWeb () {
       shell.openExternal(`http://localhost:${this.webPort}`)

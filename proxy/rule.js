@@ -6,8 +6,10 @@ const CONFIG = require('../config.js')
 const URI = require('urijs')
 const { processResponseBody } = require('../utils/')
 const users = require('../store/users')
+const staticMap = require('../store/staticMap')
 
 const apiHostNames = CONFIG.apiHostNames
+const staticHostNames = CONFIG.staticHostNames
 
 const searchSomething = (responseDetail, uri) => {
   const body = responseDetail.response.body.toString()
@@ -38,24 +40,43 @@ module.exports = {
         return { response: { statusCode: 200, header: {}, body: 'started' } }
       }
     }
-    if (CONFIG.frontAgent) {
-      newRequestOptions.hostname = CONFIG.frontAgentHost
-      newRequestOptions.port = CONFIG.frontAgentPort
-      newRequestOptions.path = requestDetail.url
-    }
+    
     const uri = URI(requestDetail.url)
     const pathname = uri.pathname()
+    const hostname = uri.hostname()
     const query = uri.search(true)
     if (CONFIG.interceptTwitterWidgets && requestDetail.url === 'http://platform.twitter.com/widgets.js') {
       return { response: { statusCode: 200, header: {}, body: '' } }
     }
     
-    if (pathname === '/rest/sound/btn_se') {
-      const user = users.get(query.uid)
-      if (user && !user.name) {
-        newRequestOptions.path = newRequestOptions.path.replace('/rest/sound/btn_se', '/profile/content/setting')
+    // 数据接口
+    if (apiHostNames.includes(hostname)) {
+      if (pathname === '/rest/sound/btn_se') {
+        const user = users.get(query.uid)
+        if (user && !user.name) {
+          newRequestOptions.path = newRequestOptions.path.replace('/rest/sound/btn_se', '/profile/content/setting')
+        }
       }
     }
+
+    // 静态文件
+    let toLocal = false
+    if (staticHostNames.includes(hostname)) {
+      const newPathname = pathname.replace('/assets_en/', '/assets/')
+      if (CONFIG.staticServer && staticMap.has(newPathname)) {
+        toLocal = true
+        newRequestOptions.hostname = '127.0.0.1'
+        newRequestOptions.port = CONFIG.staticPort
+        newRequestOptions.path = newRequestOptions.path.replace(pathname , `/${staticMap.get(newPathname)}`)
+      }
+    }
+    
+    if (CONFIG.frontAgent && !toLocal) {
+      newRequestOptions.hostname = CONFIG.frontAgentHost
+      newRequestOptions.port = CONFIG.frontAgentPort
+      newRequestOptions.path = requestDetail.url
+    }
+
     return requestDetail
   },
   async beforeSendResponse(requestDetail, responseDetail) {

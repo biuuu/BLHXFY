@@ -25,8 +25,10 @@ Vue.component('form-config', {
   methods: {
     onSubmit () {
       this.bthLoading = true
-      if (this.configForm.port === this.configForm.webPort) {
-        this.configForm.webPort = this.configForm.port + 1
+      const { port, webPort, staticPort } = this.configForm
+      if (port === webPort || port === staticPort || webPort === staticPort) {
+        this.configForm.webPort = port + 1
+        this.configForm.staticPort = port + 2
       }
       saveConfig(this.configForm)
       ipcRenderer.send('update-config', this.configForm)
@@ -70,6 +72,9 @@ Vue.component('form-config', {
       </el-form-item>
       <el-form-item label="监控页端口">
         <el-input-number v-model="configForm.webPort" :min="0" :max="65535"></el-input-number>
+      </el-form-item>
+      <el-form-item label="静态文件端口">
+        <el-input-number v-model="configForm.staticPort" :min="0" :max="65535"></el-input-number>
       </el-form-item>
       <el-form-item label="前置代理">
         <el-switch

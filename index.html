@@ -35,7 +35,8 @@
         </div>
         <div v-else>
           <h3>碧蓝幻想翻译启动！</h3>
-          <el-button icon="el-icon-document" size="small" @click="openCsvFolder">打开数据文件夹</el-button>
+          <el-button icon="el-icon-document" size="small" @click="openCsvFolder">打开数据目录</el-button>
+          <el-button icon="el-icon-document" size="small" @click="openStaticFolder">静态文件</el-button>
           <p>代理地址：<br>127.0.0.1:{{port}}（本机访问）
             <br>{{ip}}:{{port}}（局域网其它设备）</p>
           <p>查看代理监控：<a href="#" @click="openProxyWeb">http://localhost:{{webPort}}</a></p>
