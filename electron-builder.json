@@ -5,7 +5,7 @@
   "mac": {
     "category": "public.app-category.utilities"
   },
-  "files": ["!config.local.json", "!local${/*}"],
+  "files": ["!electron-builder.json", "!electron-builder.local.json", "!userData${/*}", "!.vscode${/*}"],
   "asar": true,
   "publish": [{
     "provider": "github",
