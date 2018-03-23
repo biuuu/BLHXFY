@@ -26,7 +26,7 @@
     "lodash": "^4.17.5",
     "papaparse": "^4.3.7",
     "rimraf": "^2.6.2",
-    "serve": "^6.5.3",
+    "st": "^1.2.2",
     "urijs": "^1.19.0",
     "url-search-params": "^0.10.0",
     "vue": "^2.5.13"

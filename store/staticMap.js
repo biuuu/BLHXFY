@@ -2,7 +2,7 @@ const glob = require('glob')
 const path = require('path')
 const chokidar = require('chokidar')
 const { STATIC_PATH } = require('../store')
-const serve = require('serve')
+const startServer = require('../utils/staticServer')
 const CONFIG = require('../config')
 const fse = require('fs-extra')
 const { app } = require('electron')
@@ -36,11 +36,6 @@ const collectFiles = (type, once) => {
 
 collectFiles('local')
 
-const server = serve(STATIC_PATH, {
-  port: CONFIG.staticPort,
-  cors: true
-})
-
 const watchFile = (type) => {
   chokidar.watch(`${type}/**/?*`, {
     cwd: STATIC_PATH,
@@ -71,5 +66,7 @@ setTimeout(() => {
   watchFile('local')
   watchFile('default')
 }, 3000)
+
+startServer(STATIC_PATH, CONFIG.staticPort)
 
 module.exports = staticMap

@@ -7,6 +7,7 @@
   },
   "files": ["!electron-builder.json", "!electron-builder.local.json", "!userData${/*}", "!.vscode${/*}"],
   "asar": true,
+  "asarUnpack": ["node_modules/serve${/*}", "node_modules/clipboardy${/*}", "node_modules/term-size${/*}"],
   "publish": [{
     "provider": "github",
     "repo": "BLHXFY",
