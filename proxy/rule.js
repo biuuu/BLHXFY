@@ -62,7 +62,7 @@ module.exports = {
     // 静态文件
     let toLocal = false
     if (staticHostNames.includes(hostname)) {
-      const newPathname = pathname.replace('/assets_en/', '/assets/')
+      const newPathname = pathname
       if (CONFIG.staticServer && staticMap.has(newPathname)) {
         toLocal = true
         newRequestOptions.hostname = '127.0.0.1'
