@@ -74,7 +74,8 @@ module.exports = {
     if (CONFIG.frontAgent && !toLocal) {
       newRequestOptions.hostname = CONFIG.frontAgentHost
       newRequestOptions.port = CONFIG.frontAgentPort
-      newRequestOptions.path = requestDetail.url
+      newRequestOptions.path = uri.origin() + newRequestOptions.path
+      
     }
 
     return requestDetail
