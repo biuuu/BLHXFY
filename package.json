@@ -7,9 +7,9 @@
     "start": "electron .",
     "dev": "cross-env NODE_ENV=development npm run proxy",
     "proxy": "node ./proxy/start",
-    "dist": "electron-builder",
+    "dist": "electron-builder --x64 --ia32",
     "postinstall": "electron-builder install-app-deps",
-    "release": "build --config electron-builder.local.json"
+    "release": "build --config electron-builder.local.json --x64 --ia32"
   },
   "author": "biuuu",
   "license": "MIT",
