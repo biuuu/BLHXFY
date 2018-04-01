@@ -6,6 +6,7 @@ const startProxy = require('./proxy/index')
 const CONFIG = require('./config')
 const log = require('electron-log')
 const deleteCache = require('./utils/deleteCacheFile')
+const checkCsvUpdate = require('./utils/updateCsv')
 
 autoUpdater.logger = log
 autoUpdater.logger.transports.file.level = 'info'
@@ -23,6 +24,7 @@ ipcMain.on('start-proxy', (event, data) => {
   win.setSize(360, 300)
 })
 
+    
 ipcMain.on('show-win-config', () => {
   configWin = new BrowserWindow({ 
     width: 360, height: 550, 
@@ -74,9 +76,12 @@ function createWindow () {
   })
 
   autoUpdater.checkForUpdatesAndNotify()
+
   deleteCache(function (err) {
     if (err) console.error(err)
   })
+
+  checkCsvUpdate(win)
 }
 
 // Electron 会在初始化后并准备
