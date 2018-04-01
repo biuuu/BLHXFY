@@ -14,7 +14,7 @@ try {
     fse.copySync(path.resolve(__dirname, '../data/static/default/'), path.resolve(STATIC_PATH, 'default/'))
   }
 } catch (e) {
-  console.err(e)
+  console.error(e)
 }
 
 const collectFiles = (type, once) => {
@@ -67,6 +67,6 @@ setTimeout(() => {
   watchFile('default')
 }, 3000)
 
-startServer(STATIC_PATH, CONFIG.staticPort)
+if (!app) startServer(STATIC_PATH, CONFIG.staticPort)
 
 module.exports = staticMap
