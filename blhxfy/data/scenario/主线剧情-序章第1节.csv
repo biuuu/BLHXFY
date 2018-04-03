@@ -1,0 +1,54 @@
+id,trans
+0-synopsis,少年在父亲留言的指引下，决定踏上前往天际的旅途。但与此同时，村里出现了一艘战舰，一位神秘少女向他寻求帮助。
+0,<span class='scene-font-katari'>——在被神遗弃的世界里，有一条龙的身影。</span>
+1,<span class='scene-font-katari'>其名巴哈姆特，司掌由破灭带来的创造。它贯彻自己的使命，使被抛弃的世界变得更为芳醇。</span>
+3,<span class='scene-font-katari'>然而，侵略者出现了。从远在天边的他界而来，他们被称为星之民。</span>
+4,<span class='scene-font-spword'>星之民</span><span class='scene-font-katari'>使用星晶兽，眨眼间征服了世界，长久以来将天空占为己有。</span>
+5,<span class='scene-font-katari'>然而，空之民亦在成长，终于从傲慢的星之民手中夺回了世界。日后，人们称之为霸空战争。</span>
+12,<span class='scene-font-katari'>此处，未完成的大地浮荡于云海。遭神遗弃的“天空世界”。</span>
+16,<span class='scene-font-katari'>现在，空与星的故事开启新的篇章。前路漫漫，当为其启程献上祝福——</span>
+22,——我说我说。你真的打算离开村子？
+23,<span class='scene-font-katari'>看起来像只蜥蜴的阿碧，此刻歪着头问道。</span>
+24,就算是你父亲留下的信提到了天空的彼方，可那种地方怎么到得了……
+24-sel1_txt,<span class='scene-font-katari'>肯定能抵达</span>
+24-sel2_txt,<span class='scene-font-katari'>我有计划</span>
+25,啊……你说<span class='scene-font-spword'>完整的空图</span>？据说是几百年前
+<span class='scene-font-spword'>星之民</span>绘制的那个……,
+26,要是真有那东西，肯定哪儿都能去啦。可那不只是个传说吗？
+27,不过，你既然都提出来了，肯定不听劝了。比起生活在这小村子里，肯定是那样有趣呀！嘿嘿。
+29,嗯……？喂、等一下，等一下！那，那是什么！？
+31,那东西……是别国的战舰吗！？怎么在咱这个荒僻的小村子里！
+36,什！？怎么了！？它刚刚爆炸了！
+40,<span class='scene-font-katari'>瞬间的闪光，深深烙于脑海。</span>
+40-sel1_txt,<span class='scene-font-katari'>刚才，有什么发光了……</span>
+41,什么？难道是军舰掉下的碎片着火了之类的？
+42,要是那东西……还在燃烧就掉进森林的话……
+42-sel1_txt,<span class='scene-font-katari'>我们去看看！</span>
+49,<span class='scene-font-katari'>森林中充满了庄严的静谧。</span>
+50,如果军舰掉了什么东西下来，那大概，在这附近……
+53,<span class='scene-font-4'>呀啊！</span>
+55,<span class='scene-font-katari'>与后退的人影撞了个满怀，原来是一位长发的少女。</span>
+56,<span class='scene-font-katari'>少女身姿纤弱，长发是美丽的碧蓝色。</span>
+57,好痛……
+58,…………！
+59,这个女孩是怎么了？没见过她呢……
+59-sel1_txt,<span class='scene-font-katari'>你没事吧？有没有受伤？</span>
+60,<span class='scene-font-4'>……那、那个！请、请救救我！</span>
+61,喂、喂喂……究竟发生了什么？
+62,那边的，给我站住！把剑放在脚边，举起双手！
+63,啊！！
+66,<span class='scene-font-katari'>少年看向声音的主人，认出他们身上的铠甲。那是凭武力支配其他国家，臭名昭著的“埃尔斯特帝国”的铠甲。</span>
+67,<span class='scene-font-katari'>帝国的士兵们出现在少女身后，看来他们是在追捕少女。</span>
+68,你们是谁啊！还想动手吗！？
+69,如果还想活命，就老老实实把那少女交出来。
+70,<span class='scene-font-katari'>“如果还想活命”——帝国士兵道出了和平度日的人绝不曾听过的话。</span>
+71,<span class='scene-font-katari'>露骨的敌意与杀意袭来，少年的双腿本能地战栗。</span>
+72,不……不要……！
+73,现在就放开那个女孩。我们也不想动粗。
+73-sel1_txt,<span class='scene-font-katari'>她向我求救了，我不能不管！</span>
+73-sel2_txt,<span class='scene-font-katari'>我不相信你们！</span>
+75,就是就是！你们别自说自话了！她明明非常害怕！
+77,切……真麻烦，那我们只能来硬的了。臭小鬼可别后悔！
+79,————！
+info,scene_tutorial00
+备注,ver-1: @nga 模糊君 uid-42788445 2018/4/3

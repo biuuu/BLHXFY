@@ -1,0 +1,9 @@
+.vscode/
+node_modules/
+local/
+data/static/local/
+dist/
+userData/
+test-script.js
+config.local.json
+electron-builder.local.json
