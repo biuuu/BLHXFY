@@ -5,7 +5,14 @@
   "mac": {
     "category": "public.app-category.utilities"
   },
-  "files": ["!electron-builder.json", "!electron-builder.local.json", "!userData${/*}", "!.vscode${/*}"],
+  "files": [
+    "!electron-builder.json", 
+    "!electron-builder.local.json", 
+    "!userData${/*}", 
+    "!.vscode${/*}",
+    "!data/scenario${/*}",
+    "!data/static${/*}"
+  ],
   "asar": true,
   "publish": [{
     "provider": "github",

@@ -27,7 +27,7 @@ ipcRenderer.on('app-version', (evt, data) => {
 
 setInterval(() => {
   deleteCache(function (err) {
-    if (err) console.error(err)
+    if (err) console.error(`${err.message}\n${err.stack}`)
   }, true)
 }, 1000 * 60 * 60)
 
