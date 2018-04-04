@@ -11,7 +11,6 @@ const config = {
     'game-a.granbluefantasy.jp', 'game-a1.granbluefantasy.jp', 'game-a2.granbluefantasy.jp', 'game-a3.granbluefantasy.jp', 
     'gbf.game-a.mbga.jp', 'gbf.game-a1.mbga.jp', 'gbf.game-a2.mbga.jp', 'gbf.game-a3.mbga.jp'
   ],
-  csvHost: "blhx.danmu9.com",
   // 是否启用剧情翻译
   transScenario: true,
   // 是否启用常见短语翻译
