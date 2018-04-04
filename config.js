@@ -21,6 +21,9 @@ const config = {
   // 是否拦截 http://platform.twitter.com/widgets.js
   interceptTwitterWidgets: true,
 
+  // 自动更新翻译数据包
+  autoUpdate: true,
+
   // 本地代理的端口
   port: 8001,
   webInterface: true,  // 是否启用 anyProxy 的 web 界面
