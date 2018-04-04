@@ -5,7 +5,7 @@ const baiduTrans = require('../../api/baidu')
 const users = require('../../store/users')
 const scenarioState = require('../../store/scenarioState')
 const CONFIG = require('../../config')
-const { nameData } = require('../../store/nameMap')
+const nameData = require('../../store/nameMap')
 const { removeHtmlTag, replaceWords, readCsv, writeCsv } = require('../../utils/')
 const saveNames = require('../../utils/saveNames')
 const saveScenario = require('../../utils/saveScenario')
@@ -62,7 +62,7 @@ const transMulti = async (list, lang, userName) => {
   const txtStr = []
   list.forEach(txt => {
     strTemp += txt
-    count += Buffer.byteLength(txt, 'utf8')
+    count += txt.length
     if (count > WORDS_LIMIT) {
       txtStr.push(strTemp)
       count = 0

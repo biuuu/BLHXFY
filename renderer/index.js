@@ -3,7 +3,6 @@ const { ipcRenderer, shell, remote } = require('electron')
 const ip = require('ip')
 const path = require('path')
 const deleteCache = require('../utils/deleteCacheFile')
-const startServer = require('../utils/staticServer')
 require('./form-config')
 Vue.use(ElementUI)
 
@@ -11,27 +10,18 @@ const CSV_FOLDER_PATH = path.resolve(remote.app.getPath('userData'), 'local/*')
 const STATIC_FOLDER_PATH = path.resolve(remote.app.getPath('userData'), 'static/local/*')
 
 let vueApp
-let staticServer
 ipcRenderer.on('config-data', (evt, data) => {
   vueApp.port = data.port
   vueApp.webPort = data.webPort
-  if (!staticServer) {
-    startServer(path.resolve(remote.app.getPath('userData'), 'static'), data.staticPort)
-    staticServer = 'on'
-  }
 })
 
 ipcRenderer.on('app-version', (evt, data) => {
   vueApp.version = data
 })
 
-ipcRenderer.on('update-csv', (evt, status) => {
-  vueApp.downloading = status
-})
-
 setInterval(() => {
   deleteCache(function (err) {
-    if (err) console.error(`${err.message}\n${err.stack}`)
+    if (err) console.error(err)
   }, true)
 }, 1000 * 60 * 60)
 
@@ -42,8 +32,7 @@ vueApp = new Vue({
     port: 8001,
     webPort: 8002,
     ip: ip.address(),
-    version: null,
-    downloading: false
+    version: null
   },
   beforeMount () {
     ipcRenderer.send('app-version')

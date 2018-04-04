@@ -1,12 +1,12 @@
 const path = require('path')
 const CONFIG = require('../config')
 const { readCsv, replaceWords } = require('./index')
-const { USER_DATA_PATH, dataPath } = require('../store/')
+const { USER_DATA_PATH } = require('../store/')
 
 const readScenario = async ({ filename, stable }, userName) => {
   const csvPath = stable 
-    ? path.resolve(await dataPath(), './scenario', `${filename}`)
-    : path.resolve(USER_DATA_PATH, `local/scenario`, `${filename}`)
+    ? path.resolve(__dirname, '../data/scenario', `${filename}.csv`)
+    : path.resolve(USER_DATA_PATH, `local/scenario`, `${filename}.csv`)
   const list = await readCsv(csvPath)
   const transMap = new Map()
   list.forEach(item => {

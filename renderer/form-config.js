@@ -63,14 +63,6 @@ Vue.component('form-config', {
           inactive-text="关">
         </el-switch>
       </el-form-item>
-      <el-form-item label="自动更新数据">
-        <el-switch
-          v-model="configForm.autoUpdate"
-          active-text="开"
-          inactive-text="关">
-        </el-switch>
-        <span style="margin-left:4px;font-size:12px;color:#f56c6c">重启后生效</span>
-      </el-form-item>
       <el-form-item label="解析HTTPS">
         <el-switch
           v-model="configForm.proxyHttps"

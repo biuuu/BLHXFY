@@ -6,7 +6,7 @@ const CONFIG = require('../config.js')
 const URI = require('urijs')
 const { processResponseBody } = require('../utils/')
 const users = require('../store/users')
-const { staticMap } = require('../store/staticMap')
+const staticMap = require('../store/staticMap')
 
 const apiHostNames = CONFIG.apiHostNames
 const staticHostNames = CONFIG.staticHostNames
@@ -91,11 +91,11 @@ module.exports = {
       if (CONFIG.transScenario && pathname.includes('scenario')) {
         result = await scenarioProcess(result, uid, pathname)
       }
-      if (pathname.includes('/content/')) {
-        // result = await phraseProcess(result)
-        // if (pathname.includes('/newindex/')) {
-        //   result = await newquestProcess(result)
-        // }
+      if (CONFIG.transPhrase && pathname.includes('/content/')) {
+        result = await phraseProcess(result)
+        if (pathname.includes('/newindex/')) {
+          result = await newquestProcess(result)
+        }
         if (pathname === '/profile/content/setting') {
           getUserName(result, uid)
         }
