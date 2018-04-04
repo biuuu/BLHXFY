@@ -46,18 +46,23 @@ const reCollectData = (packname) => {
 }
 
 const updatePkg = async (packname, win) => {
+  win.webContents.send('update-csv', true)
   const pkgUrl = `https://${CONFIG.csvHost}/blhxfy/${packname}`
   await fs.emptyDir(path.resolve(USER_DATA_PATH, 'tmpFile/'))
-  const dl = await download(win, pkgUrl, {
-    directory: path.resolve(USER_DATA_PATH, 'tmpFile/'),
-    filename: packname,
-    errorTitle: '更新翻译数据失败',
-    errorMessage: '下载 {filename} 已中断'
-  })
-  const manifestPath = path.resolve(USER_DATA_PATH, 'data/manifest.json')
-  await fs.ensureFile(manifestPath)
-  await fs.writeJson(manifestPath, { packname })
-  reCollectData(packname)
+  try {
+    const dl = await download(win, pkgUrl, {
+      directory: path.resolve(USER_DATA_PATH, 'tmpFile/'),
+      filename: packname,
+      errorTitle: '更新翻译数据失败',
+      errorMessage: '下载 {filename} 已中断'
+    })
+    const manifestPath = path.resolve(USER_DATA_PATH, 'data/manifest.json')
+    await fs.ensureFile(manifestPath)
+    await fs.writeJson(manifestPath, { packname })
+    reCollectData(packname)
+  } finally {
+    win.webContents.send('update-csv', false)
+  }
 }
 
 const checkUpdate = async (win) => {

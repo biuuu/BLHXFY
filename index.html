@@ -24,10 +24,20 @@
         font-size: 12px;
         color: #3688dc;
       }
+      #app .update {
+        position: absolute;
+        left: 10px;
+        bottom: 6px;
+        font-size: 12px;
+        color: #409eff;
+      }
+      #app .update i {
+        margin-right: 5px;
+      }
     </style>
   </head>
   <body>
-      <div id="app" style="">
+      <div id="app">
         <div v-if="!started">
           <el-button icon="el-icon-sort" plain type="primary" @click="startProxy">启动代理</el-button>
           <el-button icon="el-icon-edit" plain type="primary" @click="openConfigWin">修改配置</el-button>
@@ -41,6 +51,7 @@
             <br>{{ip}}:{{port}}（局域网其它设备）</p>
           <p>查看代理监控：<a href="#" @click="openProxyWeb">http://localhost:{{webPort}}</a></p>
         </div>
+        <span class="update" v-if="downloading"><i class="el-icon-loading"></i>正在更新翻译数据包...</span>
       </div>
     <script>
     const Vue = require('vue/dist/vue')
