@@ -16,3 +16,8 @@ yarn proxy
 ```
 yarn start
 ```
+
+打包成应用
+```
+yarn dist
+```
