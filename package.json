@@ -7,9 +7,9 @@
     "start": "electron .",
     "dev": "cross-env NODE_ENV=development npm run proxy",
     "proxy": "node ./proxy/start",
-    "dist": "electron-builder --x64 --ia32",
+    "dist": "rm -r dist/ && electron-builder",
     "postinstall": "electron-builder install-app-deps",
-    "release": "build --config electron-builder.local.json --x64 --ia32",
+    "release": "rm -r dist/ && build --config electron-builder.local.json",
     "packcsv": "gulp --gulpfile packCsv.js"
   },
   "author": "biuuu",

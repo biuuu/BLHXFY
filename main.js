@@ -27,7 +27,7 @@ ipcMain.on('start-proxy', (event, data) => {
     
 ipcMain.on('show-win-config', () => {
   configWin = new BrowserWindow({ 
-    width: 360, height: 550, 
+    width: 360, height: 590, 
     parent: win, modal: true,
     icon: path.resolve(__dirname, './assets/icon.ico')
   })
@@ -81,7 +81,9 @@ function createWindow () {
     if (err) console.error(`${err.message}\n${err.stack}`)
   })
 
-  checkCsvUpdate(win)
+  if (CONFIG.autoUpdate) {
+    checkCsvUpdate(win)
+  }
 }
 
 // Electron 会在初始化后并准备
