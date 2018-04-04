@@ -1,7 +1,6 @@
 const gulp = require('gulp')
 const md5File = require('md5-file')
 const del = require('del')
-const asar = require('asar')
 const fs = require('fs-extra')
 const CSV = require('papaparse')
 const path = require('path')
@@ -37,8 +36,8 @@ const collectCsv = function() {
         file.contents = newBuffer
         return callback(null, file)
     }
-});
-};
+  })
+}
 
 gulp.task('clean:dist', function () {
   return del([
