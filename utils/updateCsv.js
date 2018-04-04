@@ -74,7 +74,7 @@ const checkUpdate = async (win) => {
   }
   setTimeout(() => {
     checkUpdate(win)
-  }, 60 * 1000 * 10)
+  }, 60 * 1000)
 }
 
 module.exports = checkUpdate
