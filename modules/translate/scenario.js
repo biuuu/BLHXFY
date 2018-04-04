@@ -62,7 +62,7 @@ const transMulti = async (list, lang, userName) => {
   const txtStr = []
   list.forEach(txt => {
     strTemp += txt
-    count += Buffer.byteLength(txt, 'utf8')
+    count += txt.length
     if (count > WORDS_LIMIT) {
       txtStr.push(strTemp)
       count = 0
