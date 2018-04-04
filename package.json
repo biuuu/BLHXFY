@@ -1,6 +1,6 @@
 {
   "name": "blhxfy",
-  "version": "0.3.0",
+  "version": "0.2.8",
   "description": "碧蓝幻想微风机翻团",
   "main": "main.js",
   "scripts": {
@@ -16,9 +16,9 @@
   "license": "MIT",
   "dependencies": {
     "anyproxy": "^4.0.5",
+    "asar": "^0.14.3",
     "axios": "^0.17.1",
     "chokidar": "^2.0.2",
-    "decompress-zip": "^0.3.1",
     "del": "^3.0.0",
     "electron-dl": "^1.11.0",
     "electron-log": "^2.2.14",
@@ -42,7 +42,7 @@
     "gh-pages": "^1.1.0",
     "gulp": "^3.9.1",
     "gulp-md5": "^0.1.2",
-    "gulp-zip": "^4.1.0",
+    "md5-file": "^3.2.3",
     "through2": "^2.0.3"
   }
 }

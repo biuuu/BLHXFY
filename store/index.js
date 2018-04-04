@@ -35,7 +35,7 @@ exports.getPackname = getPackname
 exports.dataPath = async () => {
   const name = await getPackname()
   if (name) {
-    return path.resolve(app.getPath('userData'), `./data/`)
+    return path.resolve(app.getPath('userData'), `./data/${name}/`)
   }
   return path.resolve(__dirname, '../data/')
 }

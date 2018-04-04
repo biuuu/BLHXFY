@@ -7,65 +7,34 @@ const fs = require('fs-extra')
 const { getData, readNoun } = require('../store/nameMap')
 const { reCollectScenario } = require('../store/scenarioState')
 const { reCollectFiles } = require('../store/staticMap')
-const DecompressZip = require('decompress-zip')
 
-const decompressFile = (filename, target, cb) => {
-  var unzipper = new DecompressZip(filename)
- 
-  unzipper.on('error', function (err) {
-      console.error(err)
-  })
-  
-  unzipper.on('extract', function (log) {
-      console.log('Finished extracting')
-      cb && cb()
-  })
-  
-  // unzipper.on('progress', function (fileIndex, fileCount) {
-  //     console.log('Extracted file ' + (fileIndex + 1) + ' of ' + fileCount)
-  // })
-  
-  unzipper.extract({
-      path: target,
-      filter: function (file) {
-          return file.type !== "SymbolicLink"
-      }
-  })
-}
-
-const reCollectData = (packname) => {
-  const filename = path.resolve(USER_DATA_PATH, 'tmpFile/', packname)
-  const target = path.resolve(USER_DATA_PATH, 'data/')
-  decompressFile(filename, target, function () {
-    getData('en')
-    getData('jp')
-    readNoun()
-    reCollectScenario()
-    reCollectFiles()
-  })
+const reCollectData = () => {
+  getData('en')
+  getData('jp')
+  readNoun()
+  reCollectScenario()
+  reCollectFiles()
 }
 
 const updatePkg = async (packname, win) => {
   const pkgUrl = `https://${CONFIG.csvHost}/blhxfy/${packname}`
-  await fs.emptyDir(path.resolve(USER_DATA_PATH, 'tmpFile/'))
+  await fs.ensureDir(path.resolve(USER_DATA_PATH, 'data/'))
   const dl = await download(win, pkgUrl, {
-    directory: path.resolve(USER_DATA_PATH, 'tmpFile/'),
+    directory: path.resolve(USER_DATA_PATH, 'data/'),
     filename: packname,
     errorTitle: '更新翻译数据失败',
     errorMessage: '下载 {filename} 已中断'
   })
-  const manifestPath = path.resolve(USER_DATA_PATH, 'data/manifest.json')
-  await fs.ensureFile(manifestPath)
-  await fs.writeJson(manifestPath, { packname })
-  reCollectData(packname)
+  await fs.writeFile(path.resolve(USER_DATA_PATH, 'data/manifest.json'), JSON.stringify({ packname }, null, 2))
+  reCollectData()
 }
 
 const checkUpdate = async (win) => {
   const manifestUrl = `https://${CONFIG.csvHost}/blhxfy/manifest.json`
   try {
     const res = await axios.get(manifestUrl)
-    const packname = res.data.packname
-    const currentPackname = await getPackname()
+    const packname = res.data.filename
+    const currentPackname = getPackname()
     if (packname && packname !== currentPackname) {
       await updatePkg(packname, win)
     }
@@ -74,7 +43,7 @@ const checkUpdate = async (win) => {
   }
   setTimeout(() => {
     checkUpdate(win)
-  }, 60 * 1000)
+  }, 10 * 60 * 1000)
 }
 
 module.exports = checkUpdate

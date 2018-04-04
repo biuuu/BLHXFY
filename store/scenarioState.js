@@ -8,7 +8,7 @@ const scenarioMap = new Map()
 
 const reCollectScenario = async () => {
   const DATA_PATH = await dataPath()
-  const data = await readJson(path.resolve(DATA_PATH, 'scenario.json'))
+  const data = await readJson(path.resolve(DATA_PATH, 'manifest.json'))
   if (data) {
     for (let key in data) {
       scenarioMap.set(key, {
