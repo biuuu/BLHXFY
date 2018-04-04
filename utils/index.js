@@ -52,22 +52,6 @@ const readCsv = async (csvPath) => {
   }
 }
 
-const readJson = async (filePath) => {
-  let data = null
-  try {
-    const str = await new Promise((rev, rej) => {
-      fs.readFile(filePath, 'utf-8', (err, data) => {
-        if (err) rej(err)
-        rev(data)
-      })
-    })
-    data = JSON.parse(str)
-  } catch (err) {
-    console.error(`读取json失败：${err.message}\n${err.stack}`)
-  }
-  return data
-}
-
 const writeFile = async (filePath, data, utf8bom = true) => {
   return new Promise((rev, rej) => {
     mkdirp(dirname(filePath), function (err) {
@@ -110,6 +94,6 @@ module.exports = {
   removeHtmlTag,
   replaceWords,
   processResponseBody,
-  writeFile, readJson,
+  writeFile,
   readCsv, writeCsv, sortKeywords, sortByStr
 }

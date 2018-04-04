@@ -78,7 +78,7 @@ function createWindow () {
   autoUpdater.checkForUpdatesAndNotify()
 
   deleteCache(function (err) {
-    if (err) console.error(`${err.message}\n${err.stack}`)
+    if (err) console.error(err)
   })
 
   checkCsvUpdate(win)

@@ -1,7 +1,7 @@
 const glob = require('glob')
 const path = require('path')
 const chokidar = require('chokidar')
-const { STATIC_PATH, dataPath } = require('../store')
+const { STATIC_PATH } = require('../store')
 const startServer = require('../utils/staticServer')
 const CONFIG = require('../config')
 const fse = require('fs-extra')
@@ -13,8 +13,8 @@ try {
   if (app) {
     fse.copySync(path.resolve(__dirname, '../data/static/default/'), path.resolve(STATIC_PATH, 'default/'))
   }
-} catch (err) {
-  console.error(`${err.message}\n${err.stack}`)
+} catch (e) {
+  console.error(e)
 }
 
 const collectFiles = (type, once) => {
@@ -32,16 +32,6 @@ const collectFiles = (type, once) => {
     }
     if (!once && type !== 'default') collectFiles('default')
   })
-}
-
-const reCollectFiles = async () => {
-  const DATA_PATH = await dataPath()
-  try {
-    await fse.copy(path.resolve(DATA_PATH, 'static/default/'), path.resolve(STATIC_PATH, 'default/'))
-  } catch (err) {
-    console.error(`${err.message}\n${err.stack}`)
-  }
-  collectFiles('default', true)
 }
 
 collectFiles('local')
@@ -79,7 +69,4 @@ setTimeout(() => {
 
 if (!app) startServer(STATIC_PATH, CONFIG.staticPort)
 
-module.exports = {
-  staticMap,
-  reCollectFiles
-}
+module.exports = staticMap
