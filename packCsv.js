@@ -8,6 +8,7 @@ const path = require('path')
 const ghpages = require('gh-pages')
 const { writeFile } = require('./utils/')
 const CONFIG = require('./config')
+const zip = require('gulp-zip')
 
 const through = require('through2')
 
@@ -28,14 +29,11 @@ const collectCsv = function() {
           if (item.id === 'info') {
             scenarioMap[item.trans] = path.basename(file.path)
           }
-          return {
-            id: item.id,
-            trans: item.trans
-          }
+          return item
         })
         const newStr = CSV.unparse(newList)
         const newBuffer = Buffer.from(newStr)
-        // 或者, 你可以这样处理：
+
         file.contents = newBuffer
         return callback(null, file)
     }
@@ -64,20 +62,23 @@ gulp.task('move:scenario', ['clean:dist'], function () {
     .pipe(gulp.dest('./dist/blhxfy/data/scenario/'))
 })
 
-gulp.task('manifest', ['move:scenario'], function (done) {
-  fs.writeJson('./dist/blhxfy/data/manifest.json', scenarioMap, done)
+gulp.task('scenarioMap', ['move:scenario'], function (done) {
+  fs.writeJson('./dist/blhxfy/data/scenario.json', scenarioMap, done)
 })
 
-gulp.task('pack', ['move:static', 'move:normalcsv', 'move:scenario', 'manifest', 'cname'], function (done) {
-  asar.createPackage('./dist/blhxfy/data/', './dist/blhxfy/data.asar', done)
+gulp.task('pack', ['move:static', 'move:normalcsv', 'move:scenario', 'scenarioMap', 'cname'], function () {
+  // asar.createPackage('./dist/blhxfy/data/', './dist/blhxfy/data.asar', done)
+  return gulp.src('dist/blhxfy/data/**/*')
+    .pipe(zip('data.zip'))
+    .pipe(gulp.dest('dist/blhxfy/'))
 })
 
 gulp.task('md5', ['pack'], function (done) {
-  md5File('./dist/blhxfy/data.asar', (err, hash) => {
+  md5File('./dist/blhxfy/data.zip', (err, hash) => {
     if (err) throw err
-    fs.copy('./dist/blhxfy/data.asar', `./dist/blhxfy/data.${hash.slice(0,5)}.asar`, () => {
-      fs.writeJson('./dist/blhxfy/manifest.json', { filename: `data.${hash.slice(0,5)}.asar` }, () => {
-        fs.remove('./dist/blhxfy/data.asar', done)
+    fs.copy('./dist/blhxfy/data.zip', `./dist/blhxfy/data.${hash.slice(0,5)}.zip`, () => {
+      fs.writeJson('./dist/blhxfy/manifest.json', { packname: `data.${hash.slice(0,5)}.zip` }, () => {
+        fs.remove('./dist/blhxfy/data.zip', done)
       })
     })
   })
@@ -95,4 +96,4 @@ gulp.task('publish', ['md5'], function (done) {
   })
 })
 
-gulp.task('default', ['move:static', 'move:normalcsv', 'move:scenario', 'md5', 'pack', 'manifest', 'clean:dist', 'publish', 'cname']);
+gulp.task('default', ['move:static', 'move:normalcsv', 'move:scenario', 'md5', 'pack', 'scenarioMap', 'clean:dist', 'publish', 'cname']);
