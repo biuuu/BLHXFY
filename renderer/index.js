@@ -25,6 +25,10 @@ ipcRenderer.on('app-version', (evt, data) => {
   vueApp.version = data
 })
 
+ipcRenderer.on('update-csv', (evt, status) => {
+  vueApp.downloading = status
+})
+
 setInterval(() => {
   deleteCache(function (err) {
     if (err) console.error(`${err.message}\n${err.stack}`)
@@ -38,7 +42,8 @@ vueApp = new Vue({
     port: 8001,
     webPort: 8002,
     ip: ip.address(),
-    version: null
+    version: null,
+    downloading: false
   },
   beforeMount () {
     ipcRenderer.send('app-version')
