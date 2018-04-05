@@ -82,8 +82,8 @@ module.exports = {
   },
   async beforeSendResponse(requestDetail, responseDetail) {
     const uri = URI(requestDetail.url)
-    let result = null
-    result = searchSomething(responseDetail, uri)
+    let result = responseDetail
+    // result = searchSomething(responseDetail, uri)
     if (apiHostNames.includes(uri.hostname())) {
       // 处理剧情 response
       const pathname = uri.path()
