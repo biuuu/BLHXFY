@@ -89,11 +89,14 @@ const transMulti = async (list, lang, userName) => {
   }))
   return transStr.reduce((result, str) => {
     let _str = str
-    if (CONFIG.yourName) {
-      const expr = CONFIG.yourName.replace(/\?/g, '\\?').replace(/\./g, '\\.').replace(/\*/g, '\\*').replace(/\+/g, '\\+')
-      _str = _str.replace(new RegExp(expr, 'g'), userName)
+    if (str) {
+      if (CONFIG.yourName) {
+        const expr = CONFIG.yourName.replace(/\?/g, '\\?').replace(/\./g, '\\.').replace(/\*/g, '\\*').replace(/\+/g, '\\+')
+        _str = _str.replace(new RegExp(expr, 'g'), userName)
+      }
+      return result.concat(_str.split('\n'))
     }
-    return result.concat(_str.split('\n'))
+    return result
   }, [])
 }
 
@@ -137,7 +140,7 @@ module.exports = async (data, uid, pathname) => {
       transMap.set(info.id, obj)
     })
     if (scenarioState.status === 'loaded') {
-      saveScenario(transMap, cloneScenario(data), filename, userName, lang)
+      saveScenario(transMap, cloneScenario(data), filename, userName, lang, !transList.length)
       .catch(err => console.error(`保存剧情CSV失败：${err}\n${err.stack}`))
     }
   }

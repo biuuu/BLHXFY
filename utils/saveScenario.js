@@ -20,7 +20,7 @@ const replaceName = (content, userName) => {
   }
 }
 
-const saveScenario = async (map, data, filename, userName, lang) => {
+const saveScenario = async (map, data, filename, userName, lang, empty) => {
   const info = scenarioState.map.get(filename)
   const scenarioPath = path.resolve(USER_DATA_PATH, 'local/scenario/', `${filename}.csv`)
   const result = []
@@ -42,7 +42,7 @@ const saveScenario = async (map, data, filename, userName, lang) => {
       id: 'info', 
       en: lang === 'en' ? '1' : '', 
       jp: lang === 'jp' ? '1' : '',
-      trans: filename
+      trans: empty ? '' : filename
     }
     replaceName(result, userName)
     result.push(extraInfo)

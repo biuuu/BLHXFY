@@ -10,7 +10,7 @@ const getTransResult = (res) => {
 }
 
 
-const googleTrans = (keyword, lang = 'en') => {
+const googleTrans = async (keyword, lang = 'en') => {
   let query = new UrlSearchParams({
     client: 'gtx',
     sl: lang,
@@ -24,19 +24,23 @@ const googleTrans = (keyword, lang = 'en') => {
     query += `&dt=${item}`
   })
   const data = { q: keyword }
-  return axios.request({
-    url: `https://translate.google.cn/translate_a/single?${query}`,
-    params: data,
-    method: 'post',
-    headers: {
-      'referer': 'https://translate.google.cn',
-      'origin':'https://translate.google.cn',
-      'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.95 Safari/537.36,',
-    }
-  }).then(res => {
+  try {
+    const res = await axios.request({
+      url: `https://translate.google.cn/translate_a/single?${query}`,
+      params: data,
+      method: 'post',
+      headers: {
+        'referer': 'https://translate.google.cn',
+        'origin':'https://translate.google.cn',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.95 Safari/537.36,',
+      }
+    })
     const txt =  getTransResult(res)
     return txt.replace(/空空团/g, '骑空团').replace(/星星兽/g, '星晶兽')
-  })
+  } catch (err) {
+    console.error(`${err.message}\n${err.stack}`)
+    return ''
+  }
 }
 
 module.exports = googleTrans
