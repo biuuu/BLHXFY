@@ -23,8 +23,8 @@ const replaceChar = (key, item, map) => {
   if (name && name !== 'null' && name !== '???' && name !== '？？？') {
     let trans = map.get(name)
     let _name = name
-    if (/\s\d{1,2}$/.test(name)) {
-      const nameRst = name.match(/(.+)\s(\d{1,2})$/)
+    if (/\s[0-9０－９]{1,2}$/.test(name)) {
+      const nameRst = name.match(/(.+)\s([0-9０－９]{1,2})$/)
       trans = map.get(nameRst[1])
       _name = nameRst[1]
       if (trans) trans += nameRst[2]
