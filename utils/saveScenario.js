@@ -28,7 +28,7 @@ const saveScenario = async (map, data, filename, userName, lang, empty) => {
     data.forEach(item => {
       txtKeys.forEach(key => {
         const txt = item[key]
-        if (txt) {
+        if (txt) { 
           result.push({
             id: `${item.id}${key === 'detail' ? '' : '-' + key}`,
             en: lang === 'en' ? txt : '',
@@ -57,7 +57,7 @@ const saveScenario = async (map, data, filename, userName, lang, empty) => {
     if (info.en && info.jp) return
     if (info.en && lang === 'en') return
     if (info.jp && lang === 'jp') return
-    const existPath = path.resolve(USER_DATA_PATH, 'local/scenario/', `${info.filename}.csv`)
+    const existPath = path.resolve(USER_DATA_PATH, 'local/scenario/', `${info.filename}`)
     const list = await readCsv(existPath)
     const localMap = new Map()
     list.filter(row => row.id).forEach(row => {
