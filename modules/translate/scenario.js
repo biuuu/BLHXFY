@@ -31,7 +31,7 @@ const replaceChar = (key, item, map) => {
       _name = nameRst[1]
       if (trans) trans += nameRst[2]
     } else if (/'s\sVoice$/.test(name)) {
-      let nmKey = name.slice(0, name.length - 7)
+      let nmKey = name.slice(0, name.length - 8)
       trans = map.get(nmKey)
       if (trans) trans += '的声音'
     } else if (/の声$/.test(name)) {
