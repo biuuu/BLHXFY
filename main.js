@@ -147,7 +147,7 @@ autoUpdater.on('update-downloaded', (info) => {
     defaultId: 0
   }, (response) => {
     if (response === 0) {
-      app.quit()
+      autoUpdater.quitAndInstall()
     }
   })
 })
