@@ -122,7 +122,7 @@ const cloneScenario = (data) => {
 module.exports = async (data, uid, pathname) => {
   const pathRst = pathname.match(/\/scenario.*?\/(scene[^\/]+)\/?/)
   if (!pathRst || !pathRst[1]) return data
-  const filename = pathRst[1]
+  const scenarioName = pathRst[1]
   const currentUser = users.get(uid)
   const lang = currentUser ? currentUser.lang : 'en'
   const userName = currentUser ? currentUser.name : CONFIG.yourName
@@ -130,7 +130,7 @@ module.exports = async (data, uid, pathname) => {
   const { txtList, infoList } = collectTxt(data)
   let transMap = new Map()
 
-  const scenarioInfo = scenarioState.map.get(filename)
+  const scenarioInfo = scenarioState.map.get(scenarioName)
   if (
     scenarioState.status === 'loaded' 
     && scenarioInfo
@@ -138,7 +138,7 @@ module.exports = async (data, uid, pathname) => {
   ) {
     transMap = await readScenario(scenarioInfo, userName)
     if (!scenarioInfo.stable) {
-      saveScenario(transMap, cloneScenario(data), filename, userName, lang)
+      saveScenario(transMap, cloneScenario(data), scenarioName, userName, lang)
       .catch(err => console.error(`保存剧情CSV失败：${err}\n${err.stack}`))
     }
   } else {
@@ -151,7 +151,7 @@ module.exports = async (data, uid, pathname) => {
       transMap.set(info.id, obj)
     })
     if (scenarioState.status === 'loaded') {
-      saveScenario(transMap, cloneScenario(data), filename, userName, lang, !transList.length)
+      saveScenario(transMap, cloneScenario(data), scenarioName, userName, lang, !transList.length)
       .catch(err => console.error(`保存剧情CSV失败：${err}\n${err.stack}`))
     }
   }

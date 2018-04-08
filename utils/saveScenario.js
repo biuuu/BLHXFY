@@ -20,9 +20,9 @@ const replaceName = (content, userName) => {
   }
 }
 
-const saveScenario = async (map, data, filename, userName, lang, empty) => {
-  const info = scenarioState.map.get(filename)
-  const scenarioPath = path.resolve(USER_DATA_PATH, 'local/scenario/', `${filename}.csv`)
+const saveScenario = async (map, data, scenarioName, userName, lang, empty) => {
+  const info = scenarioState.map.get(scenarioName)
+  const scenarioPath = path.resolve(USER_DATA_PATH, 'local/scenario/', `${scenarioName}.csv`)
   const result = []
   if (!info) {
     data.forEach(item => {
@@ -42,16 +42,16 @@ const saveScenario = async (map, data, filename, userName, lang, empty) => {
       id: 'info', 
       en: lang === 'en' ? '1' : '', 
       jp: lang === 'jp' ? '1' : '',
-      trans: empty ? '' : filename
+      trans: empty ? '' : scenarioName
     }
     replaceName(result, userName)
     result.push(extraInfo)
     await writeCsv(scenarioPath, result)
-    scenarioState.map.set(filename, {
+    scenarioState.map.set(scenarioName, {
       en: extraInfo.en,
       jp: extraInfo.jp,
       trans: extraInfo.trans,
-      filename
+      filename: scenarioName + '.csv'
     })
   } else {
     if (info.en && info.jp) return
