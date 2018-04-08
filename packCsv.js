@@ -55,6 +55,11 @@ gulp.task('move:normalcsv', ['clean:dist'], function () {
     .pipe(gulp.dest('./dist/blhxfy/data/'))
 })
 
+gulp.task('move:html', ['clean:dist'], function () {
+  return gulp.src('./data/*.html')
+    .pipe(gulp.dest('./dist/blhxfy/data/'))
+})
+
 gulp.task('move:scenario', ['clean:dist'], function () {
   return gulp.src('./data/scenario/**/*.csv')
     .pipe(collectCsv())
@@ -65,7 +70,7 @@ gulp.task('scenarioMap', ['move:scenario'], function (done) {
   fs.writeJson('./dist/blhxfy/data/scenario.json', scenarioMap, done)
 })
 
-gulp.task('pack', ['move:static', 'move:normalcsv', 'move:scenario', 'scenarioMap', 'cname'], function () {
+gulp.task('pack', ['move:static', 'move:html', 'move:normalcsv', 'move:scenario', 'scenarioMap', 'cname'], function () {
   // asar.createPackage('./dist/blhxfy/data/', './dist/blhxfy/data.asar', done)
   return gulp.src('dist/blhxfy/data/**/*')
     .pipe(zip('data.zip'))
