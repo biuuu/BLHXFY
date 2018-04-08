@@ -16,7 +16,7 @@ if (CONFIG.transService === 'youdao') transApi = youdaoTrans
 if (CONFIG.transService === 'baidu') transApi = baiduTrans
 
 const WORDS_LIMIT = 4500
-const txtKeys = ['chapter_name', 'synopsis', 'detail', 'sel1_txt', 'sel2_txt']
+const txtKeys = ['chapter_name', 'synopsis', 'detail', 'sel1_txt', 'sel2_txt', 'sel3_txt', 'sel4_txt']
 
 const replaceChar = (key, item, map) => {
   const name = item[key]

@@ -4,7 +4,7 @@ const { readCsv, writeCsv, replaceWords } = require('./index')
 const CONFIG = require('../config')
 const { USER_DATA_PATH } = require('../store/')
 
-const txtKeys = ['chapter_name', 'synopsis', 'detail', 'sel1_txt', 'sel2_txt']
+const txtKeys = ['chapter_name', 'synopsis', 'detail', 'sel1_txt', 'sel2_txt', 'sel3_txt', 'sel4_txt']
 
 const replaceName = (content, userName) => {
   if (CONFIG.yourName && userName) {
