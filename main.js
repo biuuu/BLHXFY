@@ -7,6 +7,7 @@ const CONFIG = require('./config')
 const log = require('electron-log')
 const deleteCache = require('./utils/deleteCacheFile')
 const checkCsvUpdate = require('./utils/updateCsv')
+const setTrayIcon = require('./renderer/setTrayIcon')
 
 autoUpdater.logger = log
 autoUpdater.logger.transports.file.level = 'info'
@@ -74,6 +75,8 @@ function createWindow () {
     // 与此同时，你应该删除相应的元素。
     win = null
   })
+
+  setTrayIcon(win)
 
   autoUpdater.checkForUpdatesAndNotify()
 
