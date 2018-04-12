@@ -9,13 +9,7 @@ const { app } = require('electron')
 
 const staticMap = new Map()
 
-try {
-  if (app) {
-    fse.copySync(path.resolve(__dirname, '../data/static/default/'), path.resolve(STATIC_PATH, 'default/'))
-  }
-} catch (err) {
-  console.error(`${err.message}\n${err.stack}`)
-}
+fse.ensureDirSync(STATIC_PATH)
 
 const collectFiles = (type, once) => {
   glob(`${type}/**/*`, {
