@@ -1,6 +1,7 @@
 const { Menu, app, Tray } = require('electron')
 const path = require('path')
 
+let tray = null
 const setTrayIcon = (win) => {
   let isQuiting = false
   win.on('close', (event) => {
@@ -8,8 +9,8 @@ const setTrayIcon = (win) => {
       event.preventDefault()
       win.hide()
     }
-    return false
   })
+
   const contextMenu = Menu.buildFromTemplate([
     { 
       label: '显示', 
@@ -25,7 +26,7 @@ const setTrayIcon = (win) => {
       } 
     }
   ])
-  const tray = new Tray(path.resolve(__dirname, '../assets/icon.ico'))
+  tray = new Tray(path.resolve(__dirname, '../assets/icon.ico'))
   tray.setToolTip('碧蓝幻想翻译')
   tray.setContextMenu(contextMenu)
   tray.on('click', () => {
