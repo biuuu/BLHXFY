@@ -1,4 +1,4 @@
-const fs = require('fs')
+const fs = require('fs-extra')
 const path = require('path')
 const { dirname } = require('path')
 const mkdirp = require('mkdirp')
@@ -55,19 +55,9 @@ const config = {
 const LOCAL_CONFIG_PATH = path.resolve(USER_DATA_PATH, 'config.json')
 
 const getLocalConfig = () => {
-  let localConfig = {}
-  try {
-    const buffer = fs.readFileSync(LOCAL_CONFIG_PATH)
-    localConfig = JSON.parse(buffer.toString())
-    Object.assign(config, localConfig)
-  } catch (err) {
-    if (err.code === 'ENOENT') {
-      mkdirp(dirname(LOCAL_CONFIG_PATH), (err) => {
-        if (err) return
-      })
-    }
-  }
-  fs.writeFileSync(LOCAL_CONFIG_PATH, JSON.stringify(config, null, 2))
+  const localConfig = fs.readJsonSync(LOCAL_CONFIG_PATH, { throws: false })
+  Object.assign(config, localConfig)
+  fs.writeJsonSync(LOCAL_CONFIG_PATH, config, { spaces: 2 })
 }
 
 getLocalConfig()

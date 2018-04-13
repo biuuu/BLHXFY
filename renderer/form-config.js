@@ -1,4 +1,4 @@
-const fs = require('fs')
+const fs = require('fs-extra')
 const path = require('path')
 const { dirname } = require('path')
 const mkdirp = require('mkdirp')
@@ -7,12 +7,12 @@ const { ipcRenderer, remote } = require('electron')
 const configPath = path.resolve(remote.app.getPath('userData'), 'config.json')
 
 const saveConfig = (config) => {
-  fs.writeFileSync(configPath, JSON.stringify(config, null, 2))
+  fs.writeJsonSync(configPath, config, { spaces: 2 })
 }
 
 Vue.component('form-config', {
   data() {
-    const config = JSON.parse(fs.readFileSync(configPath).toString('utf8'))
+    const config = fs.readJsonSync(configPath, { throws: false })
     return {
       bthLoading: false,
       configForm: Object.assign({}, config),
@@ -38,7 +38,7 @@ Vue.component('form-config', {
   template: `
     <el-form ref="form" :model="configForm" label-width="120px" size="mini">
       <el-form-item label="代理端口">
-        <el-input-number v-model="configForm.port" :min="0" :max="65535"></el-input-number>
+        <el-input-number v-model="configForm.port" :min="1" :max="65535"></el-input-number>
       </el-form-item>
       <el-form-item label="游戏域名">
         <el-select
@@ -79,10 +79,10 @@ Vue.component('form-config', {
         </el-switch>
       </el-form-item>
       <el-form-item label="监控页端口">
-        <el-input-number v-model="configForm.webPort" :min="0" :max="65535"></el-input-number>
+        <el-input-number v-model="configForm.webPort" :min="1" :max="65535"></el-input-number>
       </el-form-item>
       <el-form-item label="静态文件端口">
-        <el-input-number v-model="configForm.staticPort" :min="0" :max="65535"></el-input-number>
+        <el-input-number v-model="configForm.staticPort" :min="1" :max="65535"></el-input-number>
       </el-form-item>
       <el-form-item label="前置代理">
         <el-switch
@@ -92,7 +92,7 @@ Vue.component('form-config', {
         </el-switch>
       </el-form-item>
       <el-form-item label="前置代理端口">
-        <el-input-number :min="0" :max="65535" :disabled="!configForm.frontAgent" v-model="configForm.frontAgentPort"></el-input-number>
+        <el-input-number :min="1" :max="65535" :disabled="!configForm.frontAgent" v-model="configForm.frontAgentPort"></el-input-number>
       </el-form-item>
       <el-form-item size="normal">
         <el-button type="primary" :loading="btnLoading" @click="onSubmit">保存配置</el-button>
