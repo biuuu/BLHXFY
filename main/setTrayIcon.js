@@ -12,18 +12,18 @@ const setTrayIcon = (win) => {
   })
 
   const contextMenu = Menu.buildFromTemplate([
-    { 
-      label: '显示', 
+    {
+      label: '显示',
       click:  function() {
         win.show()
-      } 
+      }
     },
-    { 
-      label: '退出', 
+    {
+      label: '退出',
       click:  function() {
         isQuiting = true
         app.quit()
-      } 
+      }
     }
   ])
   tray = new Tray(path.resolve(__dirname, '../assets/icon.ico'))
