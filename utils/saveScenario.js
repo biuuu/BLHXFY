@@ -27,8 +27,9 @@ const saveScenario = async (map, data, scenarioName, userName, lang, empty) => {
   if (!info) {
     data.forEach(item => {
       txtKeys.forEach(key => {
-        const txt = item[key]
+        let txt = item[key]
         if (txt) { 
+          txt = txt.replace(/\n/g, '')
           result.push({
             id: `${item.id}${key === 'detail' ? '' : '-' + key}`,
             en: lang === 'en' ? txt : '',
@@ -69,8 +70,9 @@ const saveScenario = async (map, data, scenarioName, userName, lang, empty) => {
     })
     data.forEach(item => {
       txtKeys.forEach(key => {
-        const txt = item[key]
+        let txt = item[key]
         if (txt) {
+          txt = txt.replace(/\n/g, '')
           const mKey = `${item.id}${key === 'detail' ? '' : '-' + key}`
           const obj = localMap.get(mKey)
           if (obj) {
