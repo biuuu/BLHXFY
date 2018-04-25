@@ -8,6 +8,7 @@ const deleteCache = require('../utils/deleteCacheFile')
 const checkCsvUpdate = require('../utils/updateCsv')
 const { app, BrowserWindow, ipcMain, dialog } = require('electron')
 const { autoUpdater } = require('electron-updater')
+const initGameWindow = require('./gameWindow')
 
 let win, configWin
 
@@ -33,7 +34,6 @@ const start = () => {
     startProxy()
     win.setSize(360, 300)
   })
-
 
   ipcMain.on('show-win-config', () => {
     configWin = new BrowserWindow({
@@ -61,7 +61,7 @@ const start = () => {
 
     // 然后加载应用的 index.html。
     win.loadURL(url.format({
-      pathname: path.join(__dirname, '../index.html'),
+      pathname: path.join(__dirname, '../renderer/index.html'),
       protocol: 'file:',
       slashes: true
     }))
@@ -73,6 +73,8 @@ const start = () => {
       // 与此同时，你应该删除相应的元素。
       win = null
     })
+
+    initGameWindow()
 
     setTrayIcon(win)
 

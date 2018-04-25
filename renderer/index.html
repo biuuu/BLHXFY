@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <title>碧蓝幻想翻译</title>
-    <link rel="stylesheet" href="./node_modules/element-ui/lib/theme-chalk/index.css">
+    <link rel="stylesheet" href="../node_modules/element-ui/lib/theme-chalk/index.css">
     <style>
       html, body {
         height: 100%;
@@ -41,6 +41,7 @@
         <div v-if="!started">
           <el-button icon="el-icon-sort" plain type="primary" @click="startProxy">启动代理</el-button>
           <el-button icon="el-icon-edit" plain type="primary" @click="openConfigWin">修改配置</el-button>
+          <el-button icon="el-icon-edit" plain type="success" @click="openGameWin">打开游戏</el-button>
           <span class="ver">v{{version}}</span>
         </div>
         <div v-else>
@@ -56,7 +57,7 @@
     <script>
     const Vue = require('vue/dist/vue')
     window.Vue = Vue
-    require('./renderer/')
+    require('./index.js')
     </script>
   </body>
 </html>

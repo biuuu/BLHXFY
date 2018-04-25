@@ -52,6 +52,9 @@ vueApp = new Vue({
     openConfigWin () {
       ipcRenderer.send('show-win-config')
     },
+    openGameWin () {
+      ipcRenderer.send('show-win-game')
+    },
     openCsvFolder () {
       shell.showItemInFolder(CSV_FOLDER_PATH)
     },
