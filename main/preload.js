@@ -4,6 +4,9 @@ window.addEventListener('load', () => {
   ::-webkit-scrollbar {
     display: none;
   }
+  .prt-head-current {
+    -webkit-app-region: drag;
+  }
   `
   document.head.appendChild(style)
 })
