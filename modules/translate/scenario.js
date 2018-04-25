@@ -38,7 +38,7 @@ const replaceChar = (key, item, map) => {
       let nmKey = name.slice(0, name.length - 2)
       trans = map.get(nmKey)
       if (trans) trans += '的声音'
-    } 
+    }
 
     if (trans) {
       item[key] = trans
@@ -85,7 +85,7 @@ const transMulti = async (list, lang, userName) => {
   if (strTemp) {
     txtStr.push(strTemp)
   }
-  
+
   const nameMap = lang !== 'jp' ? nameData['enNameMap'] : nameData['jpNameMap']
   const transStr = await Promise.all(txtStr.map(txt => {
     txt = removeHtmlTag(txt)
@@ -119,7 +119,7 @@ const cloneScenario = (data) => {
   return list
 }
 
-module.exports = async (data, uid, pathname) => {
+const transStart = async (data, uid, pathname) => {
   const pathRst = pathname.match(/\/scenario.*?\/(scene[^\/]+)\/?/)
   if (!pathRst || !pathRst[1]) return data
   const scenarioName = pathRst[1]
@@ -132,7 +132,7 @@ module.exports = async (data, uid, pathname) => {
 
   const scenarioInfo = scenarioState.map.get(scenarioName)
   if (
-    scenarioState.status === 'loaded' 
+    scenarioState.status === 'loaded'
     && scenarioInfo
     && (scenarioInfo.stable || scenarioInfo.trans)
   ) {
@@ -142,7 +142,7 @@ module.exports = async (data, uid, pathname) => {
       .catch(err => console.error(`保存剧情CSV失败：${err}\n${err.stack}`))
     }
   } else {
-    const transList = CONFIG.transService 
+    const transList = CONFIG.transService
       ? await transMulti(txtList, lang, userName)
       : []
     infoList.forEach((info, index) => {
@@ -155,7 +155,7 @@ module.exports = async (data, uid, pathname) => {
       .catch(err => console.error(`保存剧情CSV失败：${err}\n${err.stack}`))
     }
   }
-  
+
   let names = []
   data.forEach((item, index) => {
     let name1, name2, name3
@@ -177,6 +177,19 @@ module.exports = async (data, uid, pathname) => {
   return data
 }
 
+
+module.exports = async (res, uid, pathname) => {
+  if (!res) return res
+  if (Array.isArray(res)) {
+    return await transStart(res, uid, pathname)
+  } else if (Array.isArray(res.scene_list)) {
+    return Object.assign(res, {
+      scene_list: await transStart(res.scene_list, uid, pathname)
+    })
+  } else {
+    return res
+  }
+}
 // setTimeout(() => {
 //   transMulti(['wha of primal beasts... '], 'en', 'aaa').then(data => {
 //     console.log(data)
