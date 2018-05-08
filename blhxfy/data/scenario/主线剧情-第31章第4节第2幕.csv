@@ -1,0 +1,18 @@
+id,en,jp,trans
+0-chapter_name,,第31章　相反する決意,第31章 对立的决意
+0-synopsis,,黒騎士は、オルキスの捕えられている場所が、エルステが帝政に移る前の旧首都である、ラビ島の都市メフォラシュであろうと推測する。フリーシアが拠点に旧首都を選んだ理由について、何か意図がある事を匂わせる黒騎士だったが──,黑骑士推测欧尔基斯被关在埃尔斯特成为帝国前的旧首都，位于Ravi岛的Mephorash。她透露岛，芙莉西雅有意将据点选在旧首都。
+1,,うしっ！<br>このまま進めばじきに<br>グランサイファーが見えるはずだぜ。,好！再继续前进就能看到格兰塞法了。
+2,,そういや……<br>グランサイファーに乗り込んだら、<br>今度はどこに行くんだ？,说起来……乘上格兰塞法之后我们要去哪里？
+3,,オルキスちゃんの居る場所は、<br>お前が案内するって言ってたよな？,你说过要带我们去找欧尔基斯吧？
+4,,ああ……<br>恐らく人形はフリーシアと共に、<br><span class='scene-font-place'>ラビ島</span>の<span class='scene-font-place'>メフォラシュ</span>に居るはずだ。,没错……人偶大概和芙莉西雅一起，在<span class='scene-font-place'>Ravi岛</span>的<span class='scene-font-place'>Mephorash</span>。
+5,,<span class='scene-font-place'>メフォラシュ</span>……？<br><span class='scene-font-place'>エルステ帝国</span>の首都である、<br><span class='scene-font-place'>アガスティア</span>ではないのか？,<span class='scene-font-place'>Mephorash</span>？不是<span class='scene-font-place'>埃尔斯特帝国</span>首都<span class='scene-font-place'>Agastia</span>么？
+6,,首都さ……<br>いや、正確には首都だった街、だがな。,就是在首都……不，正确地说是曾经的首都。
+7,,<span class='scene-font-place'>メフォラシュ</span>というのは、<br>私が<span class='scene-font-place'>エルステ</span>に来る前……<br><span class='scene-font-place'>エルステ</span>が王国だった時代の首都だ。,<span class='scene-font-place'>Mephorash</span>是我来到<span class='scene-font-place'>埃尔斯特帝国</span>之前，<span class='scene-font-place'>埃尔斯特王国</span>时代的首都。
+8,,ふぅん……？<br>でも、どうしてそんな古い街にいるの？<br>いまの首都は違うんでしょ？,嗯……？为什么选在那么古老的城市呢？现在的首都比较新吧？
+9,,帝国の首都……<span class='scene-font-place'>アガスティア</span>は、<br>あの女にとっては、<br>何の意味もない場所だ。,帝国的首都<span class='scene-font-place'>Agasita</span>对那女人来说没有任何意义。
+10,,仮初の意味しか持たぬ街に、<br>奴が自らの拠点を置くとは、<br>考えがたいからな……,她不可能把据点选在对自己几乎没有意义的地方……
+11,,それじゃあ、<br>次はその、<br><span class='scene-font-place'>ラビ島</span>を目指せばいいんだな？,那我们接下来就去<span class='scene-font-place'>Ravi岛</span>吧？
+12,,そうだ……<br>ただ、もちろん、<br>ここを無事に抜けてからの話だがな。,没错……不过，那是顺利逃出这个岛以后的事情了。
+13,,黒騎士！<br>貴様、これ以上は進ませんぞ！,黑骑士！你往哪里逃！
+14,,敵に情けをかけてやれるほど、<br>私の心は広くない……<br>立ち塞がるというのなら、覚悟しろ！,我可没心胸宽广到对敌人手下留情……要挡路的话就给我觉悟吧！
+info,,1,scene_cp31_q4_s20
