@@ -2,7 +2,6 @@ const { app, BrowserWindow, ipcMain, dialog } = require('electron')
 const path = require('path')
 const { debounce } = require('lodash')
 const { session } = require('electron')
-const { default: installExtension } = require('electron-devtools-installer')
 const { saveConfig } = require('../utils/')
 const CONFIG = require('../config')
 const OPTION = CONFIG.gameWindow || {}
