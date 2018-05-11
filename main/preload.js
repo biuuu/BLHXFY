@@ -1,4 +1,9 @@
-const CONFIG = require('../config')
+const fs = require('fs-extra')
+const { ipcRenderer, remote } = require('electron')
+const path = require('path')
+
+const configPath = path.resolve(remote.app.getPath('userData'), 'config.json')
+const CONFIG = fs.readJsonSync(configPath, { throws: false })
 
 window.addEventListener('load', () => {
   if (!CONFIG.apiHostNames.includes(location.host)) return
@@ -24,6 +29,7 @@ window.addEventListener('load', () => {
 
   html body,
   html .prt-user-info .prt-info-profile .btn-user-name,
+  .prt-scene-comment, .prt-log-display,
   .pop-synopsis .prt-pop-synopsis span,
   html .prt-user-name .txt-user-name {
       font-family: yahei, "Microsoft Jhenghei", "Yu Gothic", "Meiryo", sans-serif !important;

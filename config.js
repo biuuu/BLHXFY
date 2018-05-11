@@ -42,7 +42,7 @@ const config = {
   frontAgentPort: 1080,
 
   gameWindow: {
-    width: 460, height: 748,
+    width: 465, height: 750,
     frame: true, alwaysOnTop: false,
     top: 50, left: 50
   },

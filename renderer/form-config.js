@@ -3,9 +3,12 @@ const path = require('path')
 const { dirname } = require('path')
 const mkdirp = require('mkdirp')
 const { ipcRenderer, remote } = require('electron')
-const { saveConfig } = require('../utils/')
 
 const configPath = path.resolve(remote.app.getPath('userData'), 'config.json')
+
+const saveConfig = (config) => {
+  fs.writeJsonSync(configPath, config, { spaces: 2 })
+}
 
 Vue.component('form-config', {
   data() {
