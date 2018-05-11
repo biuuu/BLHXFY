@@ -1,7 +1,8 @@
-const fs = require('fs')
+const fs = require('fs-extra')
 const { dirname } = require('path')
 const mkdirp = require('mkdirp')
 const CSV = require('papaparse')
+const { LOCAL_CONFIG_PATH } = require('../store/')
 
 const removeHtmlTag = (str) => {
   if (!/<[^>]{1,10}>/.test(str)) return str
@@ -72,7 +73,7 @@ const writeFile = async (filePath, data, utf8bom = true) => {
   return new Promise((rev, rej) => {
     mkdirp(dirname(filePath), function (err) {
       if (err) return rej(err)
-  
+
       fs.writeFile(filePath, (utf8bom ? '\ufeff' : '') + data, (e) => {
         if (e) rej(e)
         rev()
@@ -106,10 +107,15 @@ const sortByStr = (list, key = 'name') => {
   })
 }
 
+const saveConfig = (config) => {
+  fs.writeJsonSync(LOCAL_CONFIG_PATH, config, { spaces: 2 })
+}
+
 module.exports = {
   removeHtmlTag,
   replaceWords,
   processResponseBody,
   writeFile, readJson,
-  readCsv, writeCsv, sortKeywords, sortByStr
+  readCsv, writeCsv, sortKeywords, sortByStr,
+  saveConfig
 }

@@ -16,7 +16,7 @@ ipcRenderer.on('config-data', (evt, data) => {
   vueApp.port = data.port
   vueApp.webPort = data.webPort
   if (!staticServer) {
-    startServer(path.resolve(remote.app.getPath('userData'), 'static'), data.staticPort)
+    startServer(path.resolve(remote.app.getPath('userData'), 'data', 'static'), data.staticPort)
     staticServer = 'on'
   }
 })
@@ -51,6 +51,14 @@ vueApp = new Vue({
   methods: {
     openConfigWin () {
       ipcRenderer.send('show-win-config')
+    },
+    openWhat (type) {
+      if (type === 'static') {
+        this.openStaticFolder()
+      }
+    },
+    openGameWin () {
+      ipcRenderer.send('show-win-game')
     },
     openCsvFolder () {
       shell.showItemInFolder(CSV_FOLDER_PATH)
