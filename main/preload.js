@@ -15,7 +15,7 @@ window.addEventListener('load', () => {
   }
 
   @font-face {
-    font-family: 'vmLato';
+    font-family: 'yahei';
     font-style: normal;
     font-weight: 100;
     src: local('Microsoft Yahei');
@@ -26,7 +26,7 @@ window.addEventListener('load', () => {
   html .prt-user-info .prt-info-profile .btn-user-name,
   .pop-synopsis .prt-pop-synopsis span,
   html .prt-user-name .txt-user-name {
-      font-family: vmLato, "Microsoft Jhenghei", "Yu Gothic", "Meiryo", sans-serif !important;
+      font-family: yahei, "Microsoft Jhenghei", "Yu Gothic", "Meiryo", sans-serif !important;
   }
 
   div.skill-queue,
@@ -39,7 +39,7 @@ window.addEventListener('load', () => {
   div.watch-button,
   span.class-change-button,
   span.weapon-change-button {
-      font-family: vmLato, Tahoma, Verdana, sans-serif !important;
+      font-family: yahei, Tahoma, Verdana, sans-serif !important;
   }
 
   div.btn-command-back,
@@ -49,7 +49,7 @@ window.addEventListener('load', () => {
   div.prt-sub-command > div.btn-temporary,
   div.quick-button,
   div.quick-summon {
-      font-family: vmLato, Tahoma, Verdana, sans-serif !important;
+      font-family: yahei, Tahoma, Verdana, sans-serif !important;
   }
 
   div.txt-bp-remaining,
