@@ -7,13 +7,14 @@ const URI = require('urijs')
 const { processResponseBody } = require('../utils/')
 const users = require('../store/users')
 const { staticMap } = require('../store/staticMap')
+const getPac = require('./pac')
 
 const apiHostNames = CONFIG.apiHostNames
 const staticHostNames = CONFIG.staticHostNames
 
 const searchSomething = (responseDetail, uri) => {
   const body = responseDetail.response.body.toString()
-  
+
   return responseDetail
 }
 
@@ -39,8 +40,11 @@ module.exports = {
       if (newRequestOptions.path === '/' || newRequestOptions.path === '/favicon.ico') {
         return { response: { statusCode: 200, header: {}, body: 'started' } }
       }
+      if (newRequestOptions.path === '/pac') {
+        return { response: { statusCode: 200, header: {}, body: getPac(CONFIG)} }
+      }
     }
-    
+
     const uri = URI(requestDetail.url)
     const pathname = uri.pathname()
     const hostname = uri.hostname()
@@ -48,7 +52,7 @@ module.exports = {
     if (CONFIG.interceptTwitterWidgets && requestDetail.url === 'http://platform.twitter.com/widgets.js') {
       return { response: { statusCode: 200, header: {}, body: '' } }
     }
-    
+
     // 数据接口
     if (apiHostNames.includes(hostname)) {
       if (pathname === '/rest/sound/btn_se') {
@@ -70,12 +74,12 @@ module.exports = {
         newRequestOptions.path = newRequestOptions.path.replace(pathname , `/${staticMap.get(newPathname)}`)
       }
     }
-    
+
     if (CONFIG.frontAgent && !toLocal) {
       newRequestOptions.hostname = CONFIG.frontAgentHost
       newRequestOptions.port = CONFIG.frontAgentPort
       newRequestOptions.path = uri.origin() + newRequestOptions.path
-      
+
     }
 
     return requestDetail
@@ -107,7 +111,7 @@ module.exports = {
         getUserInfo(result.response.body.toString())
       }
     }
-    
+
     return result
   },
   *beforeDealHttpsRequest (requestDetail) {

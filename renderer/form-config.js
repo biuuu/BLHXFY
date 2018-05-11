@@ -3,12 +3,9 @@ const path = require('path')
 const { dirname } = require('path')
 const mkdirp = require('mkdirp')
 const { ipcRenderer, remote } = require('electron')
+const { saveConfig } = require('../utils/')
 
 const configPath = path.resolve(remote.app.getPath('userData'), 'config.json')
-
-const saveConfig = (config) => {
-  fs.writeJsonSync(configPath, config, { spaces: 2 })
-}
 
 Vue.component('form-config', {
   data() {
@@ -71,18 +68,18 @@ Vue.component('form-config', {
         </el-switch>
         <span style="margin-left:4px;font-size:12px;color:#f56c6c">重启后生效</span>
       </el-form-item>
-      <el-form-item label="解析HTTPS">
+      <el-form-item label="监控页端口">
+        <el-input-number v-model="configForm.webPort" :min="1" :max="65535"></el-input-number>
+      </el-form-item>
+      <el-form-item label="替换静态文件">
         <el-switch
-          v-model="configForm.proxyHttps"
+          v-model="configForm.staticServer"
           active-text="开"
           inactive-text="关">
         </el-switch>
       </el-form-item>
-      <el-form-item label="监控页端口">
-        <el-input-number v-model="configForm.webPort" :min="1" :max="65535"></el-input-number>
-      </el-form-item>
-      <el-form-item label="静态文件端口">
-        <el-input-number v-model="configForm.staticPort" :min="1" :max="65535"></el-input-number>
+      <el-form-item label="静态文件端口" v-show="configForm.staticServer">
+        <el-input-number v-model="configForm.staticPort" :disabled="!configForm.staticServer" :min="1" :max="65535"></el-input-number>
       </el-form-item>
       <el-form-item label="前置代理">
         <el-switch

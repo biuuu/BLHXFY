@@ -4,13 +4,16 @@ const fs = require('fs')
 
 const cwd = process.cwd()
 
-exports.USER_DATA_PATH = app 
+const USER_DATA_PATH = app
   ? path.resolve(app.getPath('userData'))
   : path.resolve(cwd, 'userData')
 
+exports.USER_DATA_PATH = USER_DATA_PATH
 exports.STATIC_PATH = app
   ? path.resolve(app.getPath('userData'), './static/')
   : path.resolve(cwd, './data/static/')
+
+exports.LOCAL_CONFIG_PATH = path.resolve(USER_DATA_PATH, 'config.json')
 
 const getPackname = async () => {
   if (!app) return null

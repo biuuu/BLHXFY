@@ -2,13 +2,13 @@ const fs = require('fs-extra')
 const path = require('path')
 const { dirname } = require('path')
 const mkdirp = require('mkdirp')
-const { USER_DATA_PATH } = require('./store/')
+const { LOCAL_CONFIG_PATH } = require('./store/')
 
 const config = {
   // 游戏的主要数据接口
   apiHostNames: ['game.granbluefantasy.jp', 'gbf.game.mbga.jp'],
   staticHostNames: [
-    'game-a.granbluefantasy.jp', 'game-a1.granbluefantasy.jp', 'game-a2.granbluefantasy.jp', 'game-a3.granbluefantasy.jp', 
+    'game-a.granbluefantasy.jp', 'game-a1.granbluefantasy.jp', 'game-a2.granbluefantasy.jp', 'game-a3.granbluefantasy.jp',
     'gbf.game-a.mbga.jp', 'gbf.game-a1.mbga.jp', 'gbf.game-a2.mbga.jp', 'gbf.game-a3.mbga.jp'
   ],
   csvHost: "blhx.danmu9.com",
@@ -30,7 +30,7 @@ const config = {
   webPort: 8002,    // anyProxy 的 web 界面端口
 
   // 是否启用静态文件 http 服务
-  staticServer: true,
+  staticServer: false,
   staticPort: 8003,
 
   // 是否解析 https 请求
@@ -41,10 +41,16 @@ const config = {
   frontAgentHost: '127.0.0.1',
   frontAgentPort: 1080,
 
+  gameWindow: {
+    width: 450, height: 740,
+    frame: true, alwaysOnTop: false,
+    top: 50, left: 50
+  },
+
   transService: 'google',
   baidu: {
     appid: '',
-    appSecret: '' 
+    appSecret: ''
   },
   youdao: {
     appKey: '',
@@ -52,11 +58,10 @@ const config = {
   }
 }
 
-const LOCAL_CONFIG_PATH = path.resolve(USER_DATA_PATH, 'config.json')
-
 const getLocalConfig = () => {
   const localConfig = fs.readJsonSync(LOCAL_CONFIG_PATH, { throws: false })
   Object.assign(config, localConfig)
+  config.staticServer = false
   fs.writeJsonSync(LOCAL_CONFIG_PATH, config, { spaces: 2 })
 }
 
