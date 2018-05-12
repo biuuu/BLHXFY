@@ -2,8 +2,7 @@ id,en,jp,trans
 0-chapter_name,,第13章　太古の森,第13章  太古之森
 0-synopsis,,<span>姬塔</span>一行はよろず屋へと乗り込むが、そこに黒騎士の姿はなく、謎の少女がひとりで黙々と食事をとっていた。,<span>姬塔</span>一行来到万事屋，却不见黑骑士的身影，只有神秘少女独自在其中默默用餐。
 1,,"<span class='scene-font-katari'>道を塞ぐ魔物を退けた姬塔達は</span><br>
-<span class='scene-font-katari'>ひっそりと佇むよろず屋へと飛び込んだ。</span>",
-<span class='scene-font-katari'>击退了挡路的魔兽，姬塔等人火速来到静静伫立于前方的万事屋。</span>,,,
+<span class='scene-font-katari'>ひっそりと佇むよろず屋へと飛び込んだ。</span>",<span class='scene-font-katari'>击退了挡路的魔兽，姬塔等人火速来到静静伫立于前方的万事屋。</span>
 2,,あ、いらっしゃ～い。,啊、欢迎光临～
 3,,"……あれ？　なぁんだ、<br>
 姬塔さん達でしたか～！",……咦？ 什么啊，原来是你们呐～！
@@ -50,3 +49,4 @@ id,en,jp,trans
 <span class='scene-font-katari'>奇妙な緊張感だけが漂っていた。</span>",<span class='scene-font-katari'>然而黑骑士并不在场，空气中有种奇妙的紧张感。</span>
 info,,1,scene_cp13_q4_s30
 备注,,,ver-1: @煌月夜 2018/4/15
+,,,

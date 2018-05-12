@@ -8,8 +8,7 @@ id,en,jp,trans
 見つかっていると思って<br>
 行動した方が良いだろう。",毕竟没有人会闲着来造访这个边境的岛屿。还是做好已经被发现的准备，谨慎行动为好。
 7,,"相も変わらず、砂と岩、か。<br>
-<span class='scene-font-place'>バルツ</span>はこんなんばっかだな。<br>",怎么还是沙地和岩石？
-<span class='scene-font-place'>Valtz</span>尽是这种地形啊。,,,
+<span class='scene-font-place'>バルツ</span>はこんなんばっかだな。<br>",怎么还是沙地和岩石？<br><span class='scene-font-place'>Valtz</span>尽是这种地形啊。
 8,,"なんか成り行きで来ちゃったけどさ<br>
 姬塔達は帝国を追ってる<br>
 ってことは、腕は立つの？",来这里找好像也是顺理成章，不过你们既然在追查帝国，那一定很厉害吧？
@@ -40,3 +39,4 @@ id,en,jp,trans
 あたしはそう思ったんだ。",所以，以后我也想成为那样的人。
 info,,1,scene_cp6_q2_s10
 备注,,,ver-1: @煌月夜 2018/4/6
+,,,

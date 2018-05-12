@@ -38,8 +38,7 @@ id,en,jp,trans
 <span class='scene-font-place'>ルーマシー群島</span>まで来るといい……",那么……如果想知道答案，就来<span class='scene-font-place'>Lumacie群島</span>……
 48,,"まぁ、そこで答えを得られるかは、<br>
 お前達次第だがな……<br>
-……もう行くぞ、人形。",至于能不能得到答案，还是要看你们自己了……<br>
-……走了，人偶。,,,
+……もう行くぞ、人形。",至于能不能得到答案，还是要看你们自己了……<br>……走了，人偶。
 49,,……またね。,……再见。
 50,,"<span class='scene-font-katari'>黒の騎士も、</span><br>
 <span class='scene-font-katari'>騎士に付き従う少女も</span><br>
@@ -63,3 +62,4 @@ id,en,jp,trans
 <span class='scene-font-katari'>舵を切るのだった。</span>",<span class='scene-font-katari'>姬塔等人朝着黑骑士留下的唯一路标继续航行。</span>
 info,,1,scene_cp12_q4_s30
 备注,,,ver-1: @煌月夜 2018/4/15
+,,,

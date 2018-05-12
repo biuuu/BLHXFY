@@ -6,8 +6,7 @@ id,en,jp,trans
 なかなか腕は立つじゃねぇか。",哦，辛苦你们了。你们几个，还挺能打的嘛。
 1,,"ふふんっ！<br>
 当然でしょ？<br>
-<span class='scene-font-place'>バルツ</span>の女は強いんだから！",哼哼！那是当然！
-<span class='scene-font-place'>Valtz</span>的女人都很强的。,,,
+<span class='scene-font-place'>バルツ</span>の女は強いんだから！",哼哼！那是当然！<br><span class='scene-font-place'>Valtz</span>的女人都很强的。
 2,,"お？　嬢ちゃんは<span class='scene-font-place'>バルツ</span>出身か。<br>
 けど油断は禁物だぜ？<br>
 ほれ、まだその辺にも残ってら。",小妹妹你是<span class='scene-font-place'>Valtz</span>人啊。但是不能大意哦，还有魔兽留着呢。
@@ -24,3 +23,4 @@ id,en,jp,trans
 面倒な話は後回しだぜ。",看，还有几个大家伙。话留着等会儿再讲。
 info,,1,scene_cp9_q2_s20
 备注,,,ver-1: @煌月夜 2018/4/9
+,,,

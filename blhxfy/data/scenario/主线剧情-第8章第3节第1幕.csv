@@ -34,8 +34,7 @@ id,en,jp,trans
 20,,道端に落ちていたドラフ族の骨……,路上看见的，牛角族人的白骨……
 21,,"あれはな、覇空戦争の折<br>
 <span class='scene-font-spword'>星の民</span>に奴隷にされた<br>
-我が同胞達よ。",那是霸空战争时期，被
-<span class='scene-font-spword'>星之民</span>奴役的，我的同胞们。,,,
+我が同胞達よ。",那是霸空战争时期，<br>被<span class='scene-font-spword'>星之民</span>奴役的，我的同胞们。
 22,,"<span class='scene-font-spword'>星の民</span>はここで星晶獣を作っておった。<br>
 今日のドラフの職人は、<br>
 ここの技術を盗んだドラフ達が起こりよ。",<span class='scene-font-spword'>星之民</span>在这里制造星晶兽。当年的牛角族人从这里盗走了<span class='scene-font-spword'>星之民</span>的技术，现在才会有这么多牛角族的工匠。
@@ -55,3 +54,4 @@ id,en,jp,trans
 ここから先はお前とて、容赦はせぬぞ。",该说的说完了。你们不得再前进。否则就算是你们，我也不会手下留情。
 info,,1,scene_cp8_q3_s10
 备注,,,ver-1: @煌月夜 2018/4/8
+,,,

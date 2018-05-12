@@ -61,8 +61,7 @@ id,en,jp,trans
 49,,"帝国はこんなひどいことを、<br>
 他の群島でもやってるわけ？",其他群岛上，帝国也做了这么过分的事吗？
 50,,"……私が知る限り、<br>
-<span class='scene-font-place'>エルステ帝国</span>に人道という言葉はない。</span>",……据我所知，
-<span class='scene-font-place'>埃尔斯特帝国</span>根本没有人道这一概念。,,,
+<span class='scene-font-place'>エルステ帝国</span>に人道という言葉はない。</span>",……据我所知，<br><span class='scene-font-place'>埃尔斯特帝国</span>根本没有人道这一概念。
 51,,"彼らが目的のため、<br>
 手段を選んだことなど、<br>
 かつて、一度たりともなかったな……",他们从来没有一次不是为达目的而不择手段。
@@ -128,3 +127,4 @@ id,en,jp,trans
 <span class='scene-font-katari'>次の島へと続く。</span>",<span class='scene-font-katari'>水之岛、</span><span class='scene-font-place'>Auguste</span>。<span class='scene-font-katari'>姬塔一行的旅途向下一个岛屿进发。</span>
 info,,1,scene_cp8_q4_s30
 备注,,,ver-1: @煌月夜 2018/4/8
+,,,

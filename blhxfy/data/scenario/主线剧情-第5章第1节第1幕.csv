@@ -3,8 +3,7 @@ id,en,jp,trans
 0-synopsis,,ドランク、スツルムからの手紙に従い、<span class='scene-font-place'>バルツ公国</span>を訪れた<span>姬塔</span>一行。鉄鋼業で栄えるドラフの島では、とある事件が<span>姬塔</span>達を待ち構えていた。,看了德朗克与斯特姆留下的信，<span>姬塔</span>一行来到了<span class='scene-font-place'>Valtz公国</span>。在这个靠钢铁产业繁荣发展的牛角族岛屿，早有事件等待着姬塔</span>等人。
 1,,"<span class='scene-font-katari'>謎の手紙と好奇心を道標に</span><br>
 <span class='scene-font-place'>バルツ公国</span><span class='scene-font-katari'>へと辿り着いた一同を、</span><br>
-<span class='scene-font-katari'>煙突の並ぶ赤茶けた大地が出迎えた。</span>",<span class='scene-font-katari'>在神秘信件与好奇心的指引下，一行人来到</span>
-<span class='scene-font-place'>Valtz公国。</span><span class='scene-font-katari'>迎接他们的是高耸的烟囱与棕红的土地。</span>,,,
+<span class='scene-font-katari'>煙突の並ぶ赤茶けた大地が出迎えた。</span>",<span class='scene-font-katari'>在神秘信件与好奇心的指引下，一行人来到</span><br><span class='scene-font-place'>Valtz公国。</span><span class='scene-font-katari'>迎接他们的是高耸的烟囱与棕红的土地。</span>
 4,,"ふ～ん、さすが群島界の工場、<br>
 活気があるねぇ。<br>
 ドラフ族の人が多いや。",嘿，不愧是群岛界的工厂，生机勃勃啊。这里牛角族的人可真多。
@@ -15,8 +14,7 @@ id,en,jp,trans
 ちょっと怖い感じです。",是啊，姬塔。我有点害怕。
 8,,"大公閣下が行方不明らしーな……<br>
 そういう話がちらほら聞こえてくるぜ。<br>
-<span class='scene-font-place'>エルステ帝国</span>にさらわれたって噂も……",好像是大公阁下失踪了……到处都在谈论这件事啊。还有传闻说是
-<span class='scene-font-place'>埃尔斯特帝国</span>抓走的。,,,
+<span class='scene-font-place'>エルステ帝国</span>にさらわれたって噂も……",好像是大公阁下失踪了……到处都在谈论这件事啊。还有传闻说是<br><span class='scene-font-place'>埃尔斯特帝国</span>抓走的。
 9,,帝国……！？,帝国……！？
 11,,"あれ、姬塔さんたち<br>
 ぼーっとしちゃって<br>
@@ -43,3 +41,4 @@ id,en,jp,trans
 そんな危ない仕事を……",你啊，怎么突然就给我们介绍这么危险的工作……
 info,,1,scene_cp5_q1_s10
 备注,,,ver-1: @煌月夜 2018/4/5
+,,,

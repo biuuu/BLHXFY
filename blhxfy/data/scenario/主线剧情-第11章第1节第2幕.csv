@@ -9,8 +9,7 @@ id,en,jp,trans
 体力を消耗したのだろう。<br>
 しっかり食べて回復するといい。",精神太集中又消耗了体力了吧。多吃点恢复一下。
 3,,"マイペースな連中だなぁ、おい。<br>
-<span class='scene-font-2'>こいつら、いつもこんな感じなのか？</span>",真是群我行我素的家伙啊喂。
-<span class='scene-font-2'>他们一直都是这样的吗？</span>,,,
+<span class='scene-font-2'>こいつら、いつもこんな感じなのか？</span>",真是群我行我素的家伙啊喂。<span class='scene-font-2'>他们一直都是这样的吗？</span>
 4,,"あたしが知ってる限りでは<br>
 だいたいこんな感じ……",据我所知，大多都是这个样子……
 7,,<span class='scene-font-4'>グオォォォン！</span>,<span class='scene-font-4'>咕哦哦哦哦！</span>
@@ -18,3 +17,4 @@ id,en,jp,trans
 また魔物どもがお出ましだぜ！",哎呀，看来休息也到此为止了。魔兽又出现了！
 info,,1,scene_cp11_q1_s20
 备注,,,ver-1: @煌月夜 2018/4/14
+,,,

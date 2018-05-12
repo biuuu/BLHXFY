@@ -22,8 +22,7 @@ id,en,jp,trans
 9,,"<span class='scene-font-place'>バルツ</span>に居た、<br>
 帝国の黒い騎士が……",在<span class='scene-font-place'>Valtz</span>见到的，帝国的黑骑士……
 10,,"帝国の……<br>
-<span class='scene-font-4'>黒騎士だとっ！？</span>",你说……
-<span class='scene-font-4'>帝国的黑骑士！？</span>,,,
+<span class='scene-font-4'>黒騎士だとっ！？</span>",你说……<span class='scene-font-4'>帝国的黑骑士！？</span>
 13,,"あっ！？　おい、待て！<br>
 どうしたんだオイゲン！<br>
 一人で突っ込むな！",啊！？ 喂、等等！你怎么了欧根！ 别一个人冲过去！
@@ -34,3 +33,4 @@ id,en,jp,trans
 なんだってんだ、一体！",可恶……！到底怎么回事啊！
 info,,1,scene_cp10_q3_s20
 备注,,,ver-1: @煌月夜 2018/4/13
+,,,
