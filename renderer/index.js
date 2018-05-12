@@ -57,6 +57,13 @@ vueApp = new Vue({
         this.openStaticFolder()
       }
     },
+    clearWhat (type) {
+      if (type === 'cache') {
+        ipcRenderer.send('clear-game-window', 'cache')
+      } else if (type === 'cookie') {
+        ipcRenderer.send('clear-game-window', 'cookie')
+      }
+    },
     openGameWin () {
       ipcRenderer.send('show-win-game')
     },

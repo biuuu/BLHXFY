@@ -16,6 +16,16 @@ module.exports = () => {
   const ses = session.fromPartition('persist:gameWindow')
   ses.setUserAgent('Mozilla/5.0 (Linux; Android 6.0.1; Nexus 7 Build/MOB30X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3071.115 Safari/537.36')
   
+  ipcMain.on('clear-game-window', (event, type) => {
+    if (type === 'cache') {
+      ses.clearCache(() => console.log('cache cleared'))
+    } else if (type === 'cookie') {
+      ses.clearStorageData({
+        storages: ['cookies']
+      }, () => console.log('cookies cleared'))
+    }
+  })
+
   ipcMain.on('show-win-game', () => {
     ses.setProxy({
       pacScript: `http://127.0.0.1:${CONFIG.port}/pac`,
@@ -76,6 +86,6 @@ module.exports = () => {
       gameWin = null
     })
 
-    gameWin.loadURL('http://game.granbluefantasy.jp')
+    gameWin.loadURL('http://game.granbluefantasy.jp/#mypage')
   })
 }
