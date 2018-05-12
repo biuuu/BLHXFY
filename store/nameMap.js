@@ -17,7 +17,7 @@ const cwd = process.cwd()
 const mergeList = async (pathLocal, pathStable, key = 'name') => {
   const list = []
   const tempMap = new Map()
-  let listLocal = await readCsv(pathLocal)
+  let listLocal = await readCsv(pathLocal, true)
   let listStable = await readCsv(pathStable)
   listStable.concat(listLocal).forEach(item => {
     if (!tempMap.get(item[key])) {

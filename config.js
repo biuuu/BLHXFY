@@ -62,6 +62,7 @@ const getLocalConfig = () => {
   const localConfig = fs.readJsonSync(LOCAL_CONFIG_PATH, { throws: false })
   Object.assign(config, localConfig)
   config.staticServer = false
+  fs.ensureFileSync(LOCAL_CONFIG_PATH)
   fs.writeJsonSync(LOCAL_CONFIG_PATH, config, { spaces: 2 })
 }
 

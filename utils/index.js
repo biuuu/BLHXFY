@@ -38,7 +38,7 @@ const processResponseBody = async (params) => {
   return res
 }
 
-const readCsv = async (csvPath) => {
+const readCsv = async (csvPath, silence) => {
   try {
     const data = await new Promise((rev, rej) => {
       fs.readFile(csvPath, 'utf-8', (err, data) => {
@@ -48,7 +48,9 @@ const readCsv = async (csvPath) => {
     })
     return CSV.parse(data.replace(/^\ufeff/, ''), { header: true }).data
   } catch (err) {
-    console.error(`读取csv失败：${err.message}\n${err.stack}`)
+    if (!silence) {
+      console.error(`读取csv失败：${err.message}\n${err.stack}`)
+    }
     return []
   }
 }
