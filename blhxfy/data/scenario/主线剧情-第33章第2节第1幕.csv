@@ -1,0 +1,20 @@
+id,en,jp,trans
+0-chapter_name,,第33章　奇妙な共闘,第33章  奇妙的共战
+0-synopsis,,無事にラビ島へと降りることに成功した姬塔一行。一同は砂漠にバルツを思い出しながら、遺跡のような古い街並みを眺める。そんな姬塔達に、黒騎士は魔物に注意するよう警告するのだった。,姬塔一行顺利降落在Ravi岛。沙漠让众人想起瓦尔茨，但这座城市像遗迹一般古老。黑骑士警告姬塔等人小心魔兽出现。
+0,,<span class='scene-font-katari'>黒騎士の言葉には</span><br><span class='scene-font-katari'>未だに含んでいるものがあり、</span><br><span class='scene-font-katari'>信じることに難色を示す者もいた。</span>,<span class='scene-font-katari'>虽然也有人认为黑骑士还向众人隐瞒了某些真相，不值得信任。</span>
+1,,<span class='scene-font-katari'>しかし、引き返すわけにもいかず、</span><br><span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>密かにラビ島へと降り立った。</span>,<span class='scene-font-katari'>然而失去退路的姬塔一行还是选择悄悄降落在Ravi岛。</span>
+4,,ここが<span class='scene-font-place'>ラビ島</span>……<br>なんだかちょっと<span class='scene-font-place'>バルツ</span>に似てるわね。,这里就是<span class='scene-font-place'>Ravi岛</span>……有点像<span class='scene-font-place'>瓦尔茨</span>呢……
+5,,<span class='scene-font-place'>バルツ</span>も砂ばっかだったもんなぁ。<br>しかもすっげぇ暑いし……<br>干からびるかと思ったぜ。,毕竟<span class='scene-font-place'>瓦尔茨</span>也都是沙漠。而且超热……那时还以为咱要被烤干了。
+6,,ふん……<br><span class='scene-font-place'>バルツ</span>の人達は、<br>あの暑さでへばるほどヤワじゃないの。,哼……<span class='scene-font-place'>瓦尔茨</span>人可没弱到因为那点温度就趴下呢。
+7,,どっかの軟弱なトカゲとは<br>全然違うんだから！,又不是某个软弱的蜥蜴！
+8,,んだとぉ！<br>オイラは軟弱じゃねーし、<br>トカゲでもねーっての！,你说啥！咱既不软弱，也不是蜥蜴！
+9,,ふふ……<br>こーら、喧嘩しないの。,呵呵……好了，不要吵架哦。
+10,,しかし、<br>ホントに古い街だなぁ……<br>こりゃ、街ってより遺跡だぜ。,不过这个城市真的很古老啊……看起来像遗迹一样。
+11,,ふん……<br>観光気分は結構だが、油断はするなよ。,哼……你们想观光也无所谓，但也不要大意了。
+12,,だな……<br>現在の首都ではないとはいえ、<br>ここは帝国の領内なのだから……,也是……就算不是现在的首都，这里也是帝国的领土啊……
+13,,いや……<br>その心配はまず必要ない。<br>それよりも……,不……你们不用担心被追捕。比起这个……
+14,,グオオオオッ！！,咕哦哦哦哦！！
+15,,なるほどな……<br>こりゃあ、油断のならねぇ街だぜ。,原来如此……在这个地方果然不能大意啊。
+16,,古い街だから、<br>防壁がほとんど、<br>機能してないのかもしれないわね。,毕竟是个古老的城市了，城墙之类的根本起不到作用。
+17,,ともかく、<br>餌食になってあげる必要はないわ。<br>応戦しましょう！　姬塔！,总之，我们没必要去喂饱那些魔兽呢。应战吧，姬塔！
+info,,1,scene_cp33_q2_s10
