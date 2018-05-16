@@ -22,7 +22,7 @@ module.exports = function ({ apiHostNames, staticHostNames, staticServer, frontA
           return "PROXY 127.0.0.1:${port}; DIRECT";
         }
         if (!${frontAgent} && (${condition3})) {
-          return "PROXY 127.0.0.1:1080; PROXY 127.0.0.1:8094; PROXY 127.0.0.1:8099; DIRECT";
+          return "PROXY 127.0.0.1:1080; PROXY 127.0.0.1:8094; PROXY 127.0.0.1:8123; PROXY 127.0.0.1:8099; DIRECT";
         }
         return "${result}";
       }
