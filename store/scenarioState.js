@@ -75,6 +75,9 @@ setTimeout(() => {
     ignoreInitial: true
   }).on('add', file => {
     readInfo(file)
+  }).on('unlink', file => {
+    const filename = path.basename(file, '.csv')
+    scenarioMap.delete(filename)
   })
 }, 5000)
 
