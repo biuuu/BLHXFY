@@ -8,7 +8,7 @@ require('./form-config')
 Vue.use(ElementUI)
 
 const CSV_FOLDER_PATH = path.resolve(remote.app.getPath('userData'), 'local/*')
-const STATIC_FOLDER_PATH = path.resolve(remote.app.getPath('userData'), 'static/local/*')
+const STATIC_FOLDER_PATH = path.resolve(remote.app.getPath('userData'), 'data/static/local/*')
 
 let vueApp
 let staticServer

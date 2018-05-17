@@ -11,24 +11,24 @@ const DecompressZip = require('decompress-zip')
 
 const decompressFile = (filename, target, cb) => {
   var unzipper = new DecompressZip(filename)
- 
+
   unzipper.on('error', function (err) {
       console.error(err)
   })
-  
+
   unzipper.on('extract', function (log) {
       console.log('Finished extracting')
       cb && cb()
   })
-  
+
   // unzipper.on('progress', function (fileIndex, fileCount) {
   //     console.log('Extracted file ' + (fileIndex + 1) + ' of ' + fileCount)
   // })
-  
+
   unzipper.extract({
       path: target,
       filter: function (file) {
-          return file.type !== "SymbolicLink"
+        return file.type !== "SymbolicLink"
       }
   })
 }
