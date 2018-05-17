@@ -29,12 +29,6 @@ const collectFiles = (type, once) => {
 }
 
 const reCollectFiles = async () => {
-  const DATA_PATH = await dataPath()
-  try {
-    await fse.copy(path.resolve(DATA_PATH, 'static/default/'), path.resolve(STATIC_PATH, 'default/'))
-  } catch (err) {
-    console.error(`${err.message}\n${err.stack}`)
-  }
   collectFiles('default', true)
 }
 
