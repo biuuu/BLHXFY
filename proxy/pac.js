@@ -18,6 +18,9 @@ module.exports = function ({ apiHostNames, staticHostNames, staticServer, frontA
   const getScript = (condition) => (conditionEx) => (result) => {
     const template = `
       function FindProxyForURL(url, host) {
+        if (isInNet(dnsResolve(host),"127.0.0.1","127.0.0.255")) {
+          return "DIRECT";
+        }
         if (${condition} || ${conditionEx}) {
           return "PROXY 127.0.0.1:${port}; DIRECT";
         }

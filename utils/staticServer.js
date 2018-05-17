@@ -5,7 +5,8 @@ const startServer = (stPath, port) => {
   http.createServer(
     st({
      path: stPath,
-     cors: true
+     cors: true,
+     cache: false
     })
   ).listen(port)
 }
