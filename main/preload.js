@@ -102,11 +102,13 @@ window.addEventListener('load', () => {
       bottom: 3px !important;
   }
   `
-  const link = document.createElement('link')
-  link.setAttribute('type', 'text/css')
-  link.setAttribute('rel', 'stylesheet')
-  link.setAttribute('href', `http://127.0.0.1:${CONFIG.staticPort}/style/ui-cover.css`)
-  document.head.prepend(link)
+  if (CONFIG.transUi) {
+    const link = document.createElement('link')
+    link.setAttribute('type', 'text/css')
+    link.setAttribute('rel', 'stylesheet')
+    link.setAttribute('href', `http://127.0.0.1:${CONFIG.staticPort}/style/ui-cover.css`)
+    document.head.prepend(link)
+  }
   document.head.prepend(style)
   const footer = document.createElement('footer')
   footer.id = 'treasure-footer'

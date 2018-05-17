@@ -63,6 +63,13 @@ Vue.component('form-config', {
           inactive-text="关">
         </el-switch>
       </el-form-item>
+      <el-form-item label="界面翻译">
+        <el-switch
+          v-model="configForm.transUi"
+          active-text="开"
+          inactive-text="关">
+        </el-switch>
+      </el-form-item>
       <el-form-item label="自动更新数据">
         <el-switch
           v-model="configForm.autoUpdate"

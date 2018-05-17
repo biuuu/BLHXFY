@@ -16,6 +16,8 @@ const config = {
   transScenario: true,
   // 是否启用常见短语翻译
   transPhrase: false,
+  // 否启用界面翻译
+  transUi: false,
   // 是否替换主角名字，不替换留空
   yourName: '姬塔',
   // 是否拦截 http://platform.twitter.com/widgets.js
