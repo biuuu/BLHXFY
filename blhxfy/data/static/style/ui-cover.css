@@ -1,0 +1,30 @@
+.prt-global-sub .txt-global-profile,
+.prt-global-sub .txt-global-archive,
+.prt-global-sub .txt-global-guild,
+.prt-global-sub .txt-global-item,
+.prt-global-sub .txt-global-shop,
+.prt-global-sub .txt-global-present,
+.prt-global-sub .txt-global-list,
+.prt-global-sub .txt-global-container,
+.prt-global-sub .txt-global-friend,
+.prt-global-sub .txt-global-world {
+  background-image: url(/image/btn-menu.png);
+}
+.prt-global-menu .prt-global-main .prt-global-party,
+.prt-global-menu .prt-global-main .prt-global-enhancement,
+.prt-global-menu .prt-global-main .prt-global-coopraid,
+.prt-global-menu .prt-global-main .prt-global-gacha,
+.prt-global-menu .prt-global-main .prt-global-quest {
+  background-image: url(/image/btn-menu.png);
+}
+
+.prt-user-scene .prt-link-multi .btn-link-multi,
+.prt-user-scene .prt-link-quest .btn-link-quest,
+.prt-user-scene .prt-link-multi .btn-link-multi.raid,
+.prt-user-scene .prt-link-multi .btn-link-multi.flg-guild,
+.prt-user-scene .prt-link-quest .btn-link-quest.raid,
+.prt-user-scene .prt-user-menu .prt-link-party,
+.prt-user-scene .prt-user-menu .prt-link-enhancement,
+.prt-user-scene .prt-user-menu .prt-link-gacha {
+  background-image: url(/image/btn-home-screen.png);
+}
