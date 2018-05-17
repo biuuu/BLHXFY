@@ -59,13 +59,6 @@ const watchFile = (type) => {
   }).on('error', error => console.error(`Watcher error: ${error}`))
 }
 
-fse.pathExists(path.resolve(STATIC_PATH, 'local'), (err, exists) => {
-  if (!exists) {
-    fse.copy(path.resolve(__dirname, '../assets/tips.png'), path.resolve(STATIC_PATH, 'local/assets/img/sp/quest/assist/parts/tips.png'))
-    staticMap.set('/assets/img/sp/quest/assist/parts/tips.png', 'local/assets/img/sp/quest/assist/parts/tips.png')
-  }
-})
-
 setTimeout(() => {
   watchFile('local')
   watchFile('default')
