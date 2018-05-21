@@ -30,7 +30,8 @@ const state = {
 const readInfo = async (file, stable) => {
   const csvPath = stable ? path.resolve(__dirname, '../data', file) : path.resolve(USER_DATA_PATH, file)
   const list = await readCsv(csvPath)
-  const filename = path.basename(file)
+  const filename = file.replace(/.*scenario[\\\/](.+)/, '$1')
+  console.log(file, filename)
   const rlist = list.reverse()
   for (let row of rlist) {
     if (row.id === 'info') {
@@ -57,7 +58,7 @@ glob('local/scenario/*.csv', { cwd: USER_DATA_PATH }, async (err, files) => {
   const DATA_PATH = await dataPath()
   const hasPack = await reCollectScenario()
   if (!hasPack) {
-    glob('scenario/*.csv', { cwd: DATA_PATH }, (err, files) => {
+    glob('scenario/**/*.csv', { cwd: DATA_PATH }, (err, files) => {
       Promise.all(files.map(file => {
         return readInfo(file, true)
       })).then(() => {
