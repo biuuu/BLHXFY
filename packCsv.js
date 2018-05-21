@@ -26,7 +26,7 @@ const collectCsv = function() {
         const list = CSV.parse(str.replace(/^\ufeff/, ''), { header: true }).data
         const newList = list.map(item => {
           if (item.id === 'info') {
-            scenarioMap[item.trans] = path.basename(file.path)
+            scenarioMap[item.trans] = path.relative(path.resolve(__dirname, 'data/scenario/'), file.path).replace('\\', '/')
           }
           return item
         })
