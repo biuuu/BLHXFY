@@ -31,7 +31,6 @@ const readInfo = async (file, stable) => {
   const csvPath = stable ? path.resolve(__dirname, '../data', file) : path.resolve(USER_DATA_PATH, file)
   const list = await readCsv(csvPath)
   const filename = file.replace(/.*scenario[\\\/](.+)/, '$1')
-  console.log(file, filename)
   const rlist = list.reverse()
   for (let row of rlist) {
     if (row.id === 'info') {

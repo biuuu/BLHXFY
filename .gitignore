@@ -8,3 +8,4 @@ test-script.js
 config.local.json
 electron-builder.local.json
 yarn-error.log
+npm-debug.log
