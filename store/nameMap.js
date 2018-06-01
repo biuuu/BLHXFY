@@ -20,7 +20,7 @@ const mergeList = async (pathLocal, pathStable, key = 'name') => {
   let listLocal = await readCsv(pathLocal, true)
   let listStable = await readCsv(pathStable)
   listStable.concat(listLocal).forEach(item => {
-    if (!tempMap.get(item[key])) {
+    if (item[key] && !tempMap.get(item[key])) {
       list.push(item)
       tempMap.set(item[key], item.trans)
     }
@@ -58,10 +58,12 @@ const readNoun = async () => {
   const NOUN_PATH_LOCAL = path.resolve(USER_DATA_PATH, 'local', 'noun.csv')
   let { list, listLocal } = await mergeList(NOUN_PATH_LOCAL, NOUN_PATH, 'keyword')
   sortKeywords(list, 'keyword').forEach(item => {
-    nounMap.set(item.keyword, {
-      trans: item.trans,
-      ignoreCase: !item.cs
-    })
+    if (item.keyword && item.keyword.trim()) {
+      nounMap.set(item.keyword, {
+        trans: item.trans,
+        ignoreCase: !item.cs
+      })
+    }
   })
   if (!listLocal.length) {
     writeCsv(NOUN_PATH_LOCAL, list)
@@ -80,16 +82,16 @@ const nounFileChange = debounce((file) => {
 }, 1000)
 
 setTimeout(() => {
-  chokidar.watch(['local/npc-name-*.csv'], { 
+  chokidar.watch(['local/npc-name-*.csv'], {
     cwd: USER_DATA_PATH
   }).on('change', nameFileChange)
-  chokidar.watch(['local/noun.csv'], { 
-    cwd: USER_DATA_PATH 
+  chokidar.watch(['local/noun.csv'], {
+    cwd: USER_DATA_PATH
   }).on('change', nounFileChange)
 }, 3000)
 
 module.exports = {
   getData,
   readNoun,
-  nameData 
+  nameData
 }
