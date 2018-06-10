@@ -1,0 +1,50 @@
+.txt-global-profile,
+.txt-global-archive,
+.txt-global-guild,
+.txt-global-item,
+.txt-global-shop,
+.txt-global-present,
+.txt-global-list,
+.txt-global-container,
+.txt-global-friend,
+.txt-global-world {
+  background: none;
+  display: inline-flex !important;
+  align-items: center;
+  justify-content: center;
+  color: #c3e6e7;
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.5), -1px -1px 1px rgba(0,0,0,0.5), -1px 1px 1px rgba(0,0,0,0.5), 1px -1px 1px rgba(0,0,0,0.5);
+  font-weight: bold;
+  font-size: 1.05em;
+  font-family: "Microsoft Jhenghei";
+}
+.txt-global-profile::after {
+  content: '个人资料'
+}
+.txt-global-archive::after {
+  content: '露莉亚日记'
+}
+.txt-global-guild::after {
+  content: '骑空团'
+}
+.txt-global-item::after {
+  content: '道具'
+}
+.txt-global-shop::after {
+  content: '商店'
+}
+.txt-global-present::after {
+  content: '礼物'
+}
+.txt-global-list::after {
+  content: '列表'
+}
+.txt-global-container::after {
+  content: '仓库'
+}
+.txt-global-friend::after {
+  content: '好友'
+}
+.txt-global-world::after {
+  content: '世界'
+}
