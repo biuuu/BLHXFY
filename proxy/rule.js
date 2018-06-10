@@ -2,6 +2,7 @@ const parseScenario = require('../modules/translate/scenario')
 const parsePhrase = require('../modules/translate/phrase')
 const parseNewquest = require('../modules/translate/new-quest')
 const { getUserInfo, getUserName } = require('../modules/info/user')
+const { transUI } = require('../modules/translate/ui-css')
 const CONFIG = require('../config.js')
 const URI = require('urijs')
 const { processResponseBody } = require('../utils/')
@@ -109,6 +110,9 @@ module.exports = {
       }
       if (pathname === '/') {
         getUserInfo(result.response.body.toString())
+        if (CONFIG.transUi) {
+          result = transUI(result, CONFIG)
+        }
       }
     }
 
