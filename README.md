@@ -54,8 +54,4 @@ yarn dist
 ```
 
 ## License
-<<<<<<< HEAD
 MIT
-=======
-MIT
->>>>>>> 61357abefa47582309a63972adaa84b32db3f2fe
