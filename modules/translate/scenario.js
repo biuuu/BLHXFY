@@ -124,7 +124,7 @@ const transStart = async (data, uid, pathname) => {
   if (!pathRst || !pathRst[1]) return data
   const scenarioName = pathRst[1]
   const currentUser = users.get(uid)
-  const lang = currentUser ? currentUser.lang : 'en'
+  const lang = currentUser ? currentUser.lang : 'jp'
   const userName = currentUser ? currentUser.name : CONFIG.yourName
   const nameMap = lang !== 'jp' ? nameData['enNameMap'] : nameData['jpNameMap']
   const { txtList, infoList } = collectTxt(data)

@@ -1,5 +1,5 @@
 const parseScenario = require('../modules/translate/scenario')
-const parsePhrase = require('../modules/translate/phrase')
+const parseLangMsg = require('../modules/translate/langMsg')
 const parseNewquest = require('../modules/translate/new-quest')
 const { getUserInfo, getUserName } = require('../modules/info/user')
 const { transUI } = require('../modules/translate/ui-css')
@@ -31,7 +31,7 @@ const processData = (handler, errMsg, isJson = true) => async (res, uid, pathnam
 }
 
 const scenarioProcess = processData(parseScenario, '翻译剧情遇到问题')
-const phraseProcess = processData(parsePhrase, '翻译langMsg遇到问题')
+const langMsgProcess = processData(parseLangMsg, '翻译langMsg遇到问题')
 const newquestProcess = processData(parseNewquest, '翻译下一章弹窗遇到问题')
 
 module.exports = {
@@ -97,7 +97,9 @@ module.exports = {
         result = await scenarioProcess(result, uid, pathname)
       }
       if (pathname.includes('/content/')) {
-        // result = await phraseProcess(result)
+        if (CONFIG.transLangMsg) {
+          result = await langMsgProcess(result, uid, pathname)
+        }
         // if (pathname.includes('/newindex/')) {
         //   result = await newquestProcess(result)
         // }
