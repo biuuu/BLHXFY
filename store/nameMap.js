@@ -1,4 +1,4 @@
-const { readCsv, sortKeywords, writeCsv } = require('../utils/')
+const { readCsv, sortKeywords, writeCsv, sortByStr } = require('../utils/')
 const { USER_DATA_PATH, dataPath } = require('../store/')
 const path = require('path')
 const chokidar = require('chokidar')
@@ -75,7 +75,7 @@ readNoun()
 
 const readMsg = async () => {
   const DATA_PATH = await dataPath()
-  const LANG_MSG_PATH = path.resolve(DATA_PATH, 'noun.csv')
+  const LANG_MSG_PATH = path.resolve(DATA_PATH, 'lang-msg.csv')
   const LANG_MSG_PATH_LOCAL = path.resolve(USER_DATA_PATH, 'local', 'lang-msg.csv')
   let { list, listLocal } = await mergeList(LANG_MSG_PATH_LOCAL, LANG_MSG_PATH, 'id')
   sortKeywords(list, 'id').forEach(item => {
@@ -88,7 +88,7 @@ const readMsg = async () => {
     }
   })
   if (!listLocal.length) {
-    writeCsv(LANG_MSG_PATH_LOCAL, list)
+    writeCsv(LANG_MSG_PATH_LOCAL, sortByStr(list, 'id').filter(item => !!item.id))
   }
 }
 

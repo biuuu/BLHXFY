@@ -16,7 +16,7 @@ const parseData = async (data, uid) => {
     const msg = langMsgMap.get(key)
     if (msg) {
       if ((!msg.en && lang === 'en') || (!msg.jp && lang === 'jp')) {
-        list.push({ id: key, msg: msgs[key].msg, trans: msg.trans })
+        msgs[key].msg && list.push({ id: key, msg: msgs[key].msg, trans: msg.trans })
       }
       if (msg.trans) {
         msgs[key].msg = msg.trans
