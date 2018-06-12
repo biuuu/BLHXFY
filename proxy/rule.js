@@ -97,7 +97,7 @@ module.exports = {
         result = await scenarioProcess(result, uid, pathname)
       }
       if (pathname.includes('/content/')) {
-        if (CONFIG.transLangMsg) {
+        if (CONFIG.transUi) {
           result = await langMsgProcess(result, uid, pathname)
         }
         // if (pathname.includes('/newindex/')) {
