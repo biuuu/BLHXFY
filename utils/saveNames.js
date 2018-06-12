@@ -22,7 +22,7 @@ const saveNames = async (names, lang) => {
       })
     }
   })
-  list = sortByStr(list, 'name')
+  list = sortByStr(list, 'name').filter(item => !!item.name)
   await writeCsv(FILE_PATH, list)
 }
 

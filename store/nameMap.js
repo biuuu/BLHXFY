@@ -7,9 +7,10 @@ const { debounce } = require('lodash')
 const enNameMap = new Map()
 const jpNameMap = new Map()
 const nounMap = new Map()
+const langMsgMap = new Map()
 
 const nameData = {
-  enNameMap, jpNameMap, nounMap
+  enNameMap, jpNameMap, nounMap, langMsgMap
 }
 
 const cwd = process.cwd()
@@ -72,6 +73,27 @@ const readNoun = async () => {
 
 readNoun()
 
+const readMsg = async () => {
+  const DATA_PATH = await dataPath()
+  const LANG_MSG_PATH = path.resolve(DATA_PATH, 'noun.csv')
+  const LANG_MSG_PATH_LOCAL = path.resolve(USER_DATA_PATH, 'local', 'lang-msg.csv')
+  let { list, listLocal } = await mergeList(LANG_MSG_PATH_LOCAL, LANG_MSG_PATH, 'id')
+  sortKeywords(list, 'id').forEach(item => {
+    if (item.id && item.id.trim()) {
+      langMsgMap.set(item.id, {
+        trans: item.trans,
+        en: item.en,
+        jp: item.jp
+      })
+    }
+  })
+  if (!listLocal.length) {
+    writeCsv(LANG_MSG_PATH_LOCAL, list)
+  }
+}
+
+readMsg()
+
 const nameFileChange = debounce((file) => {
   const lang = file.match(/-(en|jp)\.csv$/)[1]
   getData(lang)
@@ -81,17 +103,27 @@ const nounFileChange = debounce((file) => {
   readNoun()
 }, 1000)
 
+const msgFileChange = debounce((file) => {
+  readMsg()
+}, 1000)
+
 setTimeout(() => {
   chokidar.watch(['local/npc-name-*.csv'], {
     cwd: USER_DATA_PATH
   }).on('change', nameFileChange)
+
   chokidar.watch(['local/noun.csv'], {
     cwd: USER_DATA_PATH
   }).on('change', nounFileChange)
+
+  chokidar.watch(['local/lang-msg.csv'], {
+    cwd: USER_DATA_PATH
+  }).on('change', msgFileChange)
 }, 3000)
 
 module.exports = {
   getData,
   readNoun,
+  readMsg,
   nameData
 }
