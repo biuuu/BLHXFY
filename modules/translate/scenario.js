@@ -27,17 +27,17 @@ const replaceChar = (key, item, map) => {
     if (/\s?[\?？0-9０－９]{1,2}$/.test(name)) {
       // name with number or symbol
       const nameRst = name.match(/(.+)\s?([\?？0-9０－９]{1,2})$/)
-      trans = map.get(nameRst[1])
+      const _trans = map.get(nameRst[1])
       _name = nameRst[1]
-      if (trans) trans += nameRst[2]
+      if (_trans) trans = `${_trans}${nameRst[2]}`
     } else if (/'s\sVoice$/.test(name)) {
       let nmKey = name.slice(0, name.length - 8)
-      trans = map.get(nmKey)
-      if (trans) trans += '的声音'
+      const _trans = map.get(nmKey)
+      if (_trans) trans = `${_trans}的声音`
     } else if (/の声$/.test(name)) {
       let nmKey = name.slice(0, name.length - 2)
-      trans = map.get(nmKey)
-      if (trans) trans += '的声音'
+      const _trans = map.get(nmKey)
+      if (_trans) trans = `${_trans}的声音`
     }
 
     if (trans) {
