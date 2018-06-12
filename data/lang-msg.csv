@@ -1,123 +1,123 @@
 ﻿id,jp,en,trans
 air_space_1,空域図,Skydoms,空域图
 arcade_mode_1,アーケードモード,ARCADE MODE,
-arcarum_1,アーカルムの転世,Arcarum: The World Beyond,
-arcarum_10,確認,TP,
+arcarum_1,アーカルムの転世,Arcarum: The World Beyond,阿尔卡那的转世
+arcarum_10,確認,TP,确认通关
 arcarum_11,星導の天球儀,Globe of the Starways,
-arcarum_12,ステージクリア,Stage Cleared,
-arcarum_13,次のステージに進みますか？,Continue on to the next stage?,
-arcarum_14,チェックポイント到達,Checkpoint Reached,
-arcarum_15,アイテム,Items,
-arcarum_16,アイテム入手,Treasure,
-arcarum_17,強化発動,Status Effect,
-arcarum_18,？？？,???,
-arcarum_19,ステータス効果,Status Effects,
-arcarum_2,ポイント詳細情報,Arcapoint Details,
-arcarum_20,探索完了,Expedition,
-arcarum_21,チュートリアル完了,Tutorial Complete,
-arcarum_22,「アーカルムの転世」の<br>チュートリアルを完了しました。,You completed the Arcarum tutorial.,
-arcarum_23,確認,Note,
-arcarum_25,ポイント交換はチュートリアル完了後<br>解放されます。,Complete the tutorial to unlock the trader.,
-arcarum_26,アイテムを使用,Use Item,
-arcarum_27,称号獲得,Trophy Achieved,
-arcarum_28,他称号を%s個獲得しました,You got %s other trophy.,
-arcarum_29,進行中のクエストから撤退し、<br>探索を終了しました。,You retreated from the quest.<br>The expedition has ended.,
-arcarum_3,出発確認,Departure Check,
-arcarum_32,アイテム追加,New Item,
-arcarum_33,TPが0になったため<br>進行中のクエストから撤退し、<br>探索を終了しました。,You have no TP left.<br>The expedition has ended.,
-arcarum_34,通知設定,Reminder,
-arcarum_35,アイテム通知,Item Reminder,
-arcarum_36,簡易探索,Fast Expedition,
-arcarum_4,再開確認,Resume,
-arcarum_5,探索終了,Expedition,
-arcarum_6,探索を終了しました。,This expedition has ended.,
-arcarum_7,確認,Expedition,
-arcarum_8,%s個入手しました。,You got %s.,
-arcarum_9,移動不可,Impassable,
-arcarum_debuff_off_1,ステージ効果解除,Active Effect,
-arcarum_enemy_lock_1,アクイラ・キーストーン,Aquila Keythorn,
-arcarum_enhancement_1,アーカルム召喚石,Arcarum Series Summons,
-arcarum_enhancement_10,一括外し確認,Unequip All,
-arcarum_enhancement_11,全ての編成から装備を外します。<br>よろしいですか？<br><br><div class='txt-attention'>※メイン召喚石に装備している<br>場合は外れません</div>,This summon will be unequipped<br>from all parties.<br><br><div class='txt-attention'>Main summons won't be unequipped.</div>,
-arcarum_enhancement_12,一括外し,Unequip All,
-arcarum_enhancement_13,装備を外しました。,This summon was unequipped.,
-arcarum_enhancement_14,選択された召喚石は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,This summon is currently favorited.<br>Unfavorite it and try again.,
-arcarum_enhancement_15,入手,pick up this summon,
-arcarum_enhancement_16,上限解放,uncap this summon now,
-arcarum_enhancement_17,入手後の召喚石詳細を見る,Stats After Select,
-arcarum_enhancement_18,上限解放後の召喚石詳細を見る,Stats After Uncap,
-arcarum_enhancement_2,入手,Arcarum Summons,
-arcarum_enhancement_3,上限解放,Lvl Uncap,
-arcarum_enhancement_4,%s確認,%s,
-arcarum_enhancement_5,%s完了,%s,
-arcarum_enhancement_6,アイテム詳細,Item Details,
-arcarum_enhancement_7,ベース召喚石が条件を満たしていない、<br>倉庫に格納されている、もしくは<br>必要素材が不足しているため、<br>%sできません。,"You can't %s.<br>You don't have enough treasures,<br>the base summon is in your stash,<br>or other requirements haven't been met.",
-arcarum_enhancement_8,召喚石の所持数が最大に達しているため、<br>入手することができません。<br>所持数に空きを作ることで入手できるようになります。,You can't pick up this summon. Your inventory is full.,
-arcarum_inter_mission_1,インターミッションに突入したためバトルを終了します,,
-arcarum_open_difficulty_body_1,難易度HARDが解放されました。,Hard difficulty has been unlocked.,
-arcarum_open_difficulty_body_2,難易度EXTREMEが解放されました。,Extreme difficulty has been unlocked.,
-arcarum_open_difficulty_head_1,HARD解放,Unlocked,
-arcarum_open_difficulty_head_2,EXTREME解放,Unlocked,
+arcarum_12,ステージクリア,Stage Cleared,通关
+arcarum_13,次のステージに進みますか？,Continue on to the next stage?,是否前往下一关？
+arcarum_14,チェックポイント到達,Checkpoint Reached,抵达存档点
+arcarum_15,アイテム,Items,道具
+arcarum_16,アイテム入手,Treasure,获得道具
+arcarum_17,強化発動,Status Effect,发动强化效果
+arcarum_18,？？？,???,？？？
+arcarum_19,ステータス効果,Status Effects,状态效果
+arcarum_2,ポイント詳細情報,Arcapoint Details,点数详情
+arcarum_20,探索完了,Expedition,完成探索
+arcarum_21,チュートリアル完了,Tutorial Complete,教学关已完成
+arcarum_22,「アーカルムの転世」の<br>チュートリアルを完了しました。,You completed the Arcarum tutorial.,「阿尔卡那的转世」教学关已结束。
+arcarum_23,確認,Note,确认
+arcarum_25,ポイント交換はチュートリアル完了後<br>解放されます。,Complete the tutorial to unlock the trader.,点数兑换功能将在完成教学关后开启。
+arcarum_26,アイテムを使用,Use Item,使用道具
+arcarum_27,称号獲得,Trophy Achieved,获得称号
+arcarum_28,他称号を%s個獲得しました,You got %s other trophy.,以及其他%s个称号。
+arcarum_29,進行中のクエストから撤退し、<br>探索を終了しました。,You retreated from the quest.<br>The expedition has ended.,从进行中的任务中撤退，结束探索。
+arcarum_3,出発確認,Departure Check,确认出发
+arcarum_32,アイテム追加,New Item,增加道具
+arcarum_33,TPが0になったため<br>進行中のクエストから撤退し、<br>探索を終了しました。,You have no TP left.<br>The expedition has ended.,TP已为0，退出当前任务，结束探索。
+arcarum_34,通知設定,Reminder,通知设定
+arcarum_35,アイテム通知,Item Reminder,道具提醒
+arcarum_36,簡易探索,Fast Expedition,简易探索
+arcarum_4,再開確認,Resume,继续任务
+arcarum_5,探索終了,Expedition,结束探索
+arcarum_6,探索を終了しました。,This expedition has ended.,探索已结束
+arcarum_7,確認,Expedition,确认
+arcarum_8,%s個入手しました。,You got %s.,获得%s个
+arcarum_9,移動不可,Impassable,无法移动
+arcarum_debuff_off_1,ステージ効果解除,Active Effect,解除效果
+arcarum_enemy_lock_1,アクイラ・キーストーン,Aquila Keythorn,天鹰之柱
+arcarum_enhancement_1,アーカルム召喚石,Arcarum Series Summons,阿尔卡那召唤石
+arcarum_enhancement_10,一括外し確認,Unequip All,确定卸下全部装备
+arcarum_enhancement_11,全ての編成から装備を外します。<br>よろしいですか？<br><br><div class='txt-attention'>※メイン召喚石に装備している<br>場合は外れません</div>,This summon will be unequipped<br>from all parties.<br><br><div class='txt-attention'>Main summons won't be unequipped.</div>,确定卸下所有编成的装备吗？<div class='txt-attention'>※主召唤石除外</div>
+arcarum_enhancement_12,一括外し,Unequip All,卸下全部装备
+arcarum_enhancement_13,装備を外しました。,This summon was unequipped.,已卸下全部装备
+arcarum_enhancement_14,選択された召喚石は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,This summon is currently favorited.<br>Unfavorite it and try again.,该召唤石在保护中，无法选择。请取消保护后重试。
+arcarum_enhancement_15,入手,pick up this summon,获取
+arcarum_enhancement_16,上限解放,uncap this summon now,上限解放
+arcarum_enhancement_17,入手後の召喚石詳細を見る,Stats After Select,查看获取后的召唤石详情
+arcarum_enhancement_18,上限解放後の召喚石詳細を見る,Stats After Uncap,查看上限解放后的召唤石详情
+arcarum_enhancement_2,入手,Arcarum Summons,获取
+arcarum_enhancement_3,上限解放,Lvl Uncap,上限解放
+arcarum_enhancement_4,%s確認,%s,确认%s
+arcarum_enhancement_5,%s完了,%s,%s成功
+arcarum_enhancement_6,アイテム詳細,Item Details,道具详情
+arcarum_enhancement_7,ベース召喚石が条件を満たしていない、<br>倉庫に格納されている、もしくは<br>必要素材が不足しているため、<br>%sできません。,"You can't %s.<br>You don't have enough treasures,<br>the base summon is in your stash,<br>or other requirements haven't been met.",因召唤石未满足条件，或被收纳于仓库，或%s材料不足，%s失败。
+arcarum_enhancement_8,召喚石の所持数が最大に達しているため、<br>入手することができません。<br>所持数に空きを作ることで入手できるようになります。,You can't pick up this summon. Your inventory is full.,召唤石数量已满，无法获得新召唤石。请整理后重试。
+arcarum_inter_mission_1,インターミッションに突入したためバトルを終了します,,进入中场休息，战斗结束。
+arcarum_open_difficulty_body_1,難易度HARDが解放されました。,Hard difficulty has been unlocked.,HARD难度解放。
+arcarum_open_difficulty_body_2,難易度EXTREMEが解放されました。,Extreme difficulty has been unlocked.,EXTREME难度解放。
+arcarum_open_difficulty_head_1,HARD解放,Unlocked,HARD解放
+arcarum_open_difficulty_head_2,EXTREME解放,Unlocked,EXTREME解放
 arcarum_param_1,TP,TP,
-arcarum_point_1,ポイント詳細情報,Arcapoint Details,
-arcarum_quest_1,クエストの有効期限が切れました。<br><br>アーカルムの転世<br>クエスト 「%s1」<br><br>TPを%s2消費してバトルから撤退しました。,This quest is no longer available.<br><br>Arcarum: The World Beyond<br>%s1<br><br>%s2 TP was used to retreat from this quest.,
+arcarum_point_1,ポイント詳細情報,Arcapoint Details,点数详情
+arcarum_quest_1,クエストの有効期限が切れました。<br><br>アーカルムの転世<br>クエスト 「%s1」<br><br>TPを%s2消費してバトルから撤退しました。,This quest is no longer available.<br><br>Arcarum: The World Beyond<br>%s1<br><br>%s2 TP was used to retreat from this quest.,任务超时。从阿尔卡那的转世任务「%s1」消耗%s2TP撤退。
 arcarum_quest_10,・," / ",
 arcarum_quest_11,「%s」,%s,
 arcarum_quest_12,種族,,
-arcarum_quest_13,%sキャラ編成禁止,The following character types can't be<br>in your party: %s,
+arcarum_quest_13,%sキャラ編成禁止,The following character types can't be<br>in your party: %s,禁止出现%s角色
 arcarum_quest_14,," / ",
-arcarum_quest_2,クエストの有効期限が切れました。<br><br>アーカルムの転世<br>クエスト 「%s1」<br><br><span class='txt-retire-attention'>撤退に必要なTPが不足しているため<br>探索を終了しました。</span>,This quest is no longer available.<br><br>Arcarum: The World Beyond<br>%s1<br><br><span class='txt-retire-attention'>You don't have enough TP.<br>The expedition was ended.</span>,
-arcarum_quest_3,アーカルムの転世に戻る,Arcarum: The World Beyond,
-arcarum_quest_4,探索を終了した場合、チェックポイント以降の<br>進行状況は保存されません。<br><br><div class='txt-lose-attention'>本当に探索を終了しますか？</div>,Any progress from the last checkpoint<br>won't be saved.<br><br><span class='txt-lose-attention'>Are you sure you want to end this expedition?</span>,
-arcarum_quest_5,探索終了,Expedition,
-arcarum_quest_6,進行中のクエストから撤退し、<br>探索を終了しました。,You retreated from the quest.<br>The expedition has ended.,
-arcarum_quest_7,%sキャラ編成禁止,%s characters can't be used,
-arcarum_quest_8,%s属性キャラ編成禁止,The following elemental characters can't be<br>in your party: %s,
+arcarum_quest_2,クエストの有効期限が切れました。<br><br>アーカルムの転世<br>クエスト 「%s1」<br><br><span class='txt-retire-attention'>撤退に必要なTPが不足しているため<br>探索を終了しました。</span>,This quest is no longer available.<br><br>Arcarum: The World Beyond<br>%s1<br><br><span class='txt-retire-attention'>You don't have enough TP.<br>The expedition was ended.</span>,任务超时。阿尔卡那的转世任务「%s1」<span class='txt-retire-attention'>因剩余TP不足无法撤退，结束探索。</span>
+arcarum_quest_3,アーカルムの転世に戻る,Arcarum: The World Beyond,返回阿尔卡那的转世
+arcarum_quest_4,探索を終了した場合、チェックポイント以降の<br>進行状況は保存されません。<br><br><div class='txt-lose-attention'>本当に探索を終了しますか？</div>,Any progress from the last checkpoint<br>won't be saved.<br><br><span class='txt-lose-attention'>Are you sure you want to end this expedition?</span>,若结束探索，上一存档点以后的进度将消失。确定结束探索吗？
+arcarum_quest_5,探索終了,Expedition,探索结束
+arcarum_quest_6,進行中のクエストから撤退し、<br>探索を終了しました。,You retreated from the quest.<br>The expedition has ended.,从当前任务撤退，探索结束。
+arcarum_quest_7,%sキャラ編成禁止,%s characters can't be used,禁止出现%s角色
+arcarum_quest_8,%s属性キャラ編成禁止,The following elemental characters can't be<br>in your party: %s,禁止出现%s属性角色
 arcarum_quest_9,・," and ",
-arcarum_stage_effect_1,ステージ効果発動,Stage Effect Active,
-arcarum_stage_effect_2,ステータス「毒」発生,Poisoned,
-arcarum_stage_effect_3,奥義使用不可,Can't use charge attacks,
-arcarum_stage_effect_4,アビリティ使用不可,Can't use skills,
-arcarum_stage_effect_5,連続攻撃確率DOWN,Hit to multiattack rate,
-arcarum_tutorial_1,撤退確認,Tutorial,
-arcarum_tutorial_2,チュートリアル中のため<br>撤退できません。,You can't retreat.<br>The tutorial is still in progress.,
+arcarum_stage_effect_1,ステージ効果発動,Stage Effect Active,发动状态效果
+arcarum_stage_effect_2,ステータス「毒」発生,Poisoned,进入「中毒」状态
+arcarum_stage_effect_3,奥義使用不可,Can't use charge attacks,无法使用奥义
+arcarum_stage_effect_4,アビリティ使用不可,Can't use skills,无法使用技能
+arcarum_stage_effect_5,連続攻撃確率DOWN,Hit to multiattack rate,连续攻击概率DOWN
+arcarum_tutorial_1,撤退確認,Tutorial,确认撤退
+arcarum_tutorial_2,チュートリアル中のため<br>撤退できません。,You can't retreat.<br>The tutorial is still in progress.,教学关无法撤退。
 arcarum_tutorial_3,バトルから撤退し<br>チュートリアルを再開します。,You're about to retreat from this battle.<br>The tutorial will restart.,
-arcarum_tutorial_quest_1,撤退確認,Tutorial,
-arcarum_tutorial_quest_2,チュートリアル中のため<br>撤退できません。,You can't retreat.<br>The tutorial is still in progress.,
-arcarum_unopened_difficulty_1,難易度HARDは、難易度NORMALの<br>各ポイントをすべて踏破すると挑戦可能に<br>なります。,Hard difficulty will unlock after<br>all Normal points have been cleared.,
-arcarum_unopened_difficulty_2,難易度EXTREMEは、難易度HARDの<br>各ポイントをすべて踏破すると挑戦可能に<br>なります。,Extreme difficulty will unlock after<br>all Hard points have been cleared.,
-archaic_1,特殊武器,Weapon Series,
+arcarum_tutorial_quest_1,撤退確認,Tutorial,确认撤退
+arcarum_tutorial_quest_2,チュートリアル中のため<br>撤退できません。,You can't retreat.<br>The tutorial is still in progress.,教学关无法撤退。
+arcarum_unopened_difficulty_1,難易度HARDは、難易度NORMALの<br>各ポイントをすべて踏破すると挑戦可能に<br>なります。,Hard difficulty will unlock after<br>all Normal points have been cleared.,HARD难度将在NORMAL难度各路线通关后开启。
+arcarum_unopened_difficulty_2,難易度EXTREMEは、難易度HARDの<br>各ポイントをすべて踏破すると挑戦可能に<br>なります。,Extreme difficulty will unlock after<br>all Hard points have been cleared.,EXTREME难度将在HARD难度各路线通关后开启。
+archaic_1,特殊武器,Weapon Series,特殊武器
 archaic_10,武器選択,Weapon Select,武器选择
-archaic_11,選択された武器は装備中のため、<br>素材として選択できません。<br><br>装備を外した状態で選択してください。,Equipped weapons can't be absorbed.<br><br><br>Unequip and try again.,
-archaic_12,選択された武器は保護中のため、<br>素材として選択できません。<br><br>保護を外した状態で再度選択してください。,Favorited weapons can't be absorbed.<br><br><br>Unfavorite it and try again.,
-archaic_13,武器のさらなる強化をするために、<br>シェロちゃんの設備拡充に<br>ご協力ください～！,Looks like I'll need a new slot<br>to upgrade your weapon!<br>Could you help?,
-archaic_14,実行確認,Use Items,
-archaic_15,シェロカルテに設備拡充のための<br>素材を渡しますか？,Use these items<br>to create a slot?,
-archaic_16,実行完了,Use Items,
-archaic_17,シェロカルテに設備拡充のための<br>素材を渡しました。,Your items were used to create a slot.,
-archaic_18,シェロカルテに渡す<br>ルピ、もしくは必要素材が不足しています。,You don't have enough rupies or items.,
-archaic_19,必要数分の素材が選択されていません。,Not enough items have been selected.,
-archaic_2,アイテム詳細,Item Details,
-archaic_20,強化確認,Upgrade,
-archaic_21,強化完了,Upgrade,
-archaic_22,フェイトエピソード解放,Fate Episode Unlocked,
-archaic_23,必要素材が不足しているため、<br>強化ができません。,You don't have enough items to continue.,
-archaic_24,必要素材が不足しているため、<br>製作ができません。,You don't have enough items to continue.,
-archaic_25,設備拡充に戻る,Slot Creation,
-archaic_26,天星器一覧に戻る,Revenant Weapons,
-archaic_27,依代を複数所持しているため、<br>使用する依代を選択してください。,You have multiple relics.<br>Please select a relic to use.,
-archaic_28,貴重な武器への交換、製作は<br>こちらでできちゃいます～,Cast and trade for superior weapons here!,
-archaic_29,強化確認,Upgrade,
-archaic_3,製作確認,Forge,
-archaic_30,一括外し確認,Unequip all,
-archaic_31,全ての編成から装備を外します。<br>よろしいですか？,This item will be unequipped from all parties.,
-archaic_32,一括外し,Unequip all,
-archaic_33,装備を外しました。,This item was unequipped.,
-archaic_34,戦,PWR,
+archaic_11,選択された武器は装備中のため、<br>素材として選択できません。<br><br>装備を外した状態で選択してください。,Equipped weapons can't be absorbed.<br><br><br>Unequip and try again.,该武器已装备，无法作为素材。请解除装备后重试。
+archaic_12,選択された武器は保護中のため、<br>素材として選択できません。<br><br>保護を外した状態で再度選択してください。,Favorited weapons can't be absorbed.<br><br><br>Unfavorite it and try again.,该武器已被保护，无法作为素材。请取消保护后重试。
+archaic_13,武器のさらなる強化をするために、<br>シェロちゃんの設備拡充に<br>ご協力ください～！,Looks like I'll need a new slot<br>to upgrade your weapon!<br>Could you help?,为进一步强化武器，请帮助榭洛扩充设备~！
+archaic_14,実行確認,Use Items,确认使用
+archaic_15,シェロカルテに設備拡充のための<br>素材を渡しますか？,Use these items<br>to create a slot?,确定将素材交给榭洛科特扩充设备吗？完成
+archaic_16,実行完了,Use Items,完成
+archaic_17,シェロカルテに設備拡充のための<br>素材を渡しました。,Your items were used to create a slot.,已将素材交给榭洛科特扩充设备。
+archaic_18,シェロカルテに渡す<br>ルピ、もしくは必要素材が不足しています。,You don't have enough rupies or items.,交给榭洛科特的卢比或素材不足。
+archaic_19,必要数分の素材が選択されていません。,Not enough items have been selected.,素材未选择完全。
+archaic_2,アイテム詳細,Item Details,道具详情
+archaic_20,強化確認,Upgrade,确认强化
+archaic_21,強化完了,Upgrade,强化完成
+archaic_22,フェイトエピソード解放,Fate Episode Unlocked,人物剧情解放
+archaic_23,必要素材が不足しているため、<br>強化ができません。,You don't have enough items to continue.,素材不足，强化失败。
+archaic_24,必要素材が不足しているため、<br>製作ができません。,You don't have enough items to continue.,素材不足，制作失败。
+archaic_25,設備拡充に戻る,Slot Creation,返回设备扩充
+archaic_26,天星器一覧に戻る,Revenant Weapons,返回天星器一览
+archaic_27,依代を複数所持しているため、<br>使用する依代を選択してください。,You have multiple relics.<br>Please select a relic to use.,您持有多件依代，请选择本次使用的依代。
+archaic_28,貴重な武器への交換、製作は<br>こちらでできちゃいます～,Cast and trade for superior weapons here!,在这里能够兑换与制作贵重武器哦~
+archaic_29,強化確認,Upgrade,确认强化
+archaic_3,製作確認,Forge,确认制作
+archaic_30,一括外し確認,Unequip all,确定卸下所有装备
+archaic_31,全ての編成から装備を外します。<br>よろしいですか？,This item will be unequipped from all parties.,确定卸下所有编成的装备吗？
+archaic_32,一括外し,Unequip all,卸下所有装备
+archaic_33,装備を外しました。,This item was unequipped.,已卸下所有装备
+archaic_34,戦,PWR,战
 archaic_35,攻,ATK,
 archaic_36,Lv,Lvl,
 archaic_37,H,HP,
-archaic_4,製作完了,Forge,
+archaic_4,製作完了,Forge,制作完成
 archaic_5,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、製作ができません。,"This weapon can't be reforged now.<br>You don't have enough treasures,<br>or other requirements haven't been met.",
 archaic_6,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,This weapon is currently eqipped.<br>Unequip it and try again.,
 archaic_7,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,This weapon is currently favorited.<br>Unfavorite it and try again.,
