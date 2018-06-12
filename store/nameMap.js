@@ -88,7 +88,7 @@ const readMsg = async () => {
     }
   })
   if (!listLocal.length) {
-    writeCsv(LANG_MSG_PATH_LOCAL, sortByStr(list, 'id').filter(item => !!item.id))
+    // writeCsv(LANG_MSG_PATH_LOCAL, sortByStr(list, 'id').filter(item => !!item.id))
   }
 }
 
