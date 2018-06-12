@@ -15,7 +15,6 @@ const readScenario = async ({ filename, stable }, userName) => {
       const id = idArr[0]
       const type = idArr[1] || 'detail'
       const obj = transMap.get(id) || {}
-      console.log(CONFIG.displayName)
       obj[type] = replaceWords(item.trans, new Map([[CONFIG.yourName, CONFIG.displayName || userName || '古兰']]), 'zh')
       transMap.set(id, obj)
     }
