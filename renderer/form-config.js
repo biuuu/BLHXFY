@@ -78,9 +78,6 @@ Vue.component('form-config', {
         </el-switch>
         <span style="margin-left:4px;font-size:12px;color:#f56c6c">重启后生效</span>
       </el-form-item>
-      <el-form-item label="监控页端口">
-        <el-input-number v-model="configForm.webPort" :min="1" :max="65535"></el-input-number>
-      </el-form-item>
       <el-form-item label="替换静态文件">
         <el-switch
           v-model="configForm.staticServer"
