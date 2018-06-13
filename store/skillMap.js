@@ -1,0 +1,119 @@
+const glob = require('glob')
+const path = require('path')
+const { readCsv, readJson } = require('../utils/')
+const chokidar = require('chokidar')
+const { USER_DATA_PATH, dataPath } = require('./index')
+
+const skillMap = new Map()
+const skillNameMap = new Map()
+
+const skillKeys = [
+  ['special_skill', 'special'],
+  ['action_ability1', 'skill-1'],
+  ['action_ability2', 'skill-2'],
+  ['action_ability3', 'skill-3'],
+  ['action_ability4', 'skill-4'],
+  ['support_ability1', 'support-1'],
+  ['support_ability2', 'support-2'],
+  ['support_ability_of_npczenith', 'skill-lb']
+]
+
+const keys = skillKeys.map(item => item[1])
+
+const state = {
+  status: 'init',
+  skillMap, skillNameMap,
+  skillKeys
+}
+
+const reCollectSkill = async () => {
+  const DATA_PATH = await dataPath()
+  const data = await readJson(path.resolve(DATA_PATH, 'skill.json'))
+  if (data) {
+    for (let key in data) {
+      skillMap.set(key, {
+        filename: data[key],
+        stable: true
+      })
+    }
+    state.status = 'loaded'
+    return true
+  }
+  return false
+}
+
+state.reCollectSkill = reCollectSkill
+
+const readInfo = async (file, stable) => {
+  const csvPath = stable ? path.resolve(__dirname, '../data', file) : path.resolve(USER_DATA_PATH, file)
+  const list = await readCsv(csvPath)
+  const filename = file.replace(/.*skill[\\\/](.+)/, '$1')
+  let npcId, active
+  for (let row of list) {
+    if (row.id === 'npc') {
+      npcId = row.detail
+    } else if (row.id === 'active') {
+      if (row.name !== '0') {
+        active = true
+      }
+    }
+  }
+
+  for (let row of list) {
+    if (row.id === 'npc') {
+      skillMap.set(row.detail, {
+        stable, active,
+        filename
+      })
+    } else if ((stable || active) && keys.includes(row.id)) {
+      skillNameMap.set(row.name, {
+        nameTrans: row.nameTrans,
+        detail: row.detail
+      })
+    }
+  }
+
+}
+
+glob('local/skill/*.csv', { cwd: USER_DATA_PATH }, async (err, files) => {
+  try {
+    await Promise.all(files.map(file => {
+      return readInfo(file, false)
+    }))
+    state.status = 'loaded'
+  } catch (err) {
+    console.error(`${err.message}\n${err.stack}`)
+  }
+  const DATA_PATH = await dataPath()
+  const hasPack = await reCollectSkill()
+  if (!hasPack) {
+    glob('skill/**/*.csv', { cwd: DATA_PATH }, (err, files) => {
+      Promise.all(files.map(file => {
+        return readInfo(file, true)
+      })).then(() => {
+        state.status = 'loaded'
+      })
+    })
+  } else {
+    state.status = 'loaded'
+  }
+})
+
+setTimeout(() => {
+  chokidar.watch('local/skill/*.csv', {
+    cwd: USER_DATA_PATH,
+    ignoreInitial: true
+  }).on('add', file => {
+    readInfo(file)
+  }).on('change', file => {
+    readInfo(file)
+  }).on('unlink', file => {
+    const filename = path.basename(file, '.csv')
+    const key = filename.match(/.+-(\d+)$/)
+    if (key && key[1]) {
+      skillMap.delete(key[1])
+    }
+  })
+}, 5000)
+
+module.exports = state

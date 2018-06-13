@@ -13,7 +13,7 @@ const replaceWords = (str, map, lang = 'en') => {
   if (!str) return str
   let _str = str
   for (let [key, val] of map) {
-    if (!key || key.length < 2) continue
+    if (!key || key.length < 3) continue
     const expr = key.replace(/\?/g, '\\?').replace(/\./g, '\\.').replace(/\*/g, '\\*').replace(/\+/g, '\\+')
     const reStr = lang === 'en' ? `\\b${expr}\\b` : `${expr}`
     if (typeof val === 'string') {
@@ -104,8 +104,8 @@ const sortKeywords = (list, key = 'name') => {
 
 const sortByStr = (list, key = 'name') => {
   return list.sort((prev, next) => {
-    if (prev[key] > next[key]) return 1
-    else if (prev[key] < next[key]) return -1
+    if (prev[key] > next[key]) return -1
+    else if (prev[key] < next[key]) return 1
     else return 0
   })
 }
