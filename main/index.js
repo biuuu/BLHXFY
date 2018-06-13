@@ -35,7 +35,7 @@ const start = () => {
 
   ipcMain.on('show-win-config', () => {
     configWin = new BrowserWindow({
-      width: 360, height: 590,
+      width: 660, height: 310,
       parent: win, modal: true,
       icon: path.resolve(__dirname, '../assets/icon.ico')
     })
