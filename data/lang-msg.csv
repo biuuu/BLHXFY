@@ -2,7 +2,7 @@
 air_space_1,空域図,Skydoms,空域图
 arcade_mode_1,アーケードモード,ARCADE MODE,
 arcarum_1,アーカルムの転世,Arcarum: The World Beyond,阿尔卡那的转世
-arcarum_10,確認,TP,确认通关
+arcarum_10,確認,TP,确认
 arcarum_11,星導の天球儀,Globe of the Starways,
 arcarum_12,ステージクリア,Stage Cleared,通关
 arcarum_13,次のステージに進みますか？,Continue on to the next stage?,是否前往下一关？
@@ -37,10 +37,10 @@ arcarum_9,移動不可,Impassable,无法移动
 arcarum_debuff_off_1,ステージ効果解除,Active Effect,解除效果
 arcarum_enemy_lock_1,アクイラ・キーストーン,Aquila Keythorn,天鹰之柱
 arcarum_enhancement_1,アーカルム召喚石,Arcarum Series Summons,阿尔卡那召唤石
-arcarum_enhancement_10,一括外し確認,Unequip All,确定卸下全部装备
-arcarum_enhancement_11,全ての編成から装備を外します。<br>よろしいですか？<br><br><div class='txt-attention'>※メイン召喚石に装備している<br>場合は外れません</div>,This summon will be unequipped<br>from all parties.<br><br><div class='txt-attention'>Main summons won't be unequipped.</div>,确定卸下所有编成的装备吗？<div class='txt-attention'>※主召唤石除外</div>
-arcarum_enhancement_12,一括外し,Unequip All,卸下全部装备
-arcarum_enhancement_13,装備を外しました。,This summon was unequipped.,已卸下全部装备
+arcarum_enhancement_10,一括外し確認,Unequip All,卸下装备确认
+arcarum_enhancement_11,全ての編成から装備を外します。<br>よろしいですか？<br><br><div class='txt-attention'>※メイン召喚石に装備している<br>場合は外れません</div>,This summon will be unequipped<br>from all parties.<br><br><div class='txt-attention'>Main summons won't be unequipped.</div>,确定从所有编成中卸下该装备吗？？<div class='txt-attention'>※主召唤石不会自动解除装备</div>
+arcarum_enhancement_12,一括外し,Unequip All,一键卸下装备
+arcarum_enhancement_13,装備を外しました。,This summon was unequipped.,已卸下当前装备
 arcarum_enhancement_14,選択された召喚石は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,This summon is currently favorited.<br>Unfavorite it and try again.,该召唤石在保护中，无法选择。请取消保护后重试。
 arcarum_enhancement_15,入手,pick up this summon,获取
 arcarum_enhancement_16,上限解放,uncap this summon now,上限解放
@@ -48,7 +48,7 @@ arcarum_enhancement_17,入手後の召喚石詳細を見る,Stats After Select,�
 arcarum_enhancement_18,上限解放後の召喚石詳細を見る,Stats After Uncap,查看上限解放后的召唤石详情
 arcarum_enhancement_2,入手,Arcarum Summons,获取
 arcarum_enhancement_3,上限解放,Lvl Uncap,上限解放
-arcarum_enhancement_4,%s確認,%s,确认%s
+arcarum_enhancement_4,%s確認,%s,%s确认
 arcarum_enhancement_5,%s完了,%s,%s成功
 arcarum_enhancement_6,アイテム詳細,Item Details,道具详情
 arcarum_enhancement_7,ベース召喚石が条件を満たしていない、<br>倉庫に格納されている、もしくは<br>必要素材が不足しているため、<br>%sできません。,"You can't %s.<br>You don't have enough treasures,<br>the base summon is in your stash,<br>or other requirements haven't been met.",因召唤石未满足条件，或被收纳于仓库，或%s材料不足，%s失败。
@@ -81,18 +81,18 @@ arcarum_stage_effect_4,アビリティ使用不可,Can't use skills,无法使用
 arcarum_stage_effect_5,連続攻撃確率DOWN,Hit to multiattack rate,连续攻击概率DOWN
 arcarum_tutorial_1,撤退確認,Tutorial,确认撤退
 arcarum_tutorial_2,チュートリアル中のため<br>撤退できません。,You can't retreat.<br>The tutorial is still in progress.,教学关无法撤退。
-arcarum_tutorial_3,バトルから撤退し<br>チュートリアルを再開します。,You're about to retreat from this battle.<br>The tutorial will restart.,
+arcarum_tutorial_3,バトルから撤退し<br>チュートリアルを再開します。,You're about to retreat from this battle.<br>The tutorial will restart.,撤退并重新进入教学关。
 arcarum_tutorial_quest_1,撤退確認,Tutorial,确认撤退
 arcarum_tutorial_quest_2,チュートリアル中のため<br>撤退できません。,You can't retreat.<br>The tutorial is still in progress.,教学关无法撤退。
 arcarum_unopened_difficulty_1,難易度HARDは、難易度NORMALの<br>各ポイントをすべて踏破すると挑戦可能に<br>なります。,Hard difficulty will unlock after<br>all Normal points have been cleared.,HARD难度将在NORMAL难度各路线通关后开启。
 arcarum_unopened_difficulty_2,難易度EXTREMEは、難易度HARDの<br>各ポイントをすべて踏破すると挑戦可能に<br>なります。,Extreme difficulty will unlock after<br>all Hard points have been cleared.,EXTREME难度将在HARD难度各路线通关后开启。
 archaic_1,特殊武器,Weapon Series,特殊武器
 archaic_10,武器選択,Weapon Select,武器选择
-archaic_11,選択された武器は装備中のため、<br>素材として選択できません。<br><br>装備を外した状態で選択してください。,Equipped weapons can't be absorbed.<br><br><br>Unequip and try again.,该武器已装备，无法作为素材。请解除装备后重试。
+archaic_11,選択された武器は装備中のため、<br>素材として選択できません。<br><br>装備を外した状態で選択してください。,Equipped weapons can't be absorbed.<br><br><br>Unequip and try again.,该武器在编成中，无法作为素材。请解除装备后重试。
 archaic_12,選択された武器は保護中のため、<br>素材として選択できません。<br><br>保護を外した状態で再度選択してください。,Favorited weapons can't be absorbed.<br><br><br>Unfavorite it and try again.,该武器已被保护，无法作为素材。请取消保护后重试。
 archaic_13,武器のさらなる強化をするために、<br>シェロちゃんの設備拡充に<br>ご協力ください～！,Looks like I'll need a new slot<br>to upgrade your weapon!<br>Could you help?,为进一步强化武器，请帮助榭洛扩充设备~！
 archaic_14,実行確認,Use Items,确认使用
-archaic_15,シェロカルテに設備拡充のための<br>素材を渡しますか？,Use these items<br>to create a slot?,确定将素材交给榭洛科特扩充设备吗？完成
+archaic_15,シェロカルテに設備拡充のための<br>素材を渡しますか？,Use these items<br>to create a slot?,确定将素材交给榭洛科特扩充设备吗？
 archaic_16,実行完了,Use Items,完成
 archaic_17,シェロカルテに設備拡充のための<br>素材を渡しました。,Your items were used to create a slot.,已将素材交给榭洛科特扩充设备。
 archaic_18,シェロカルテに渡す<br>ルピ、もしくは必要素材が不足しています。,You don't have enough rupies or items.,交给榭洛科特的卢比或素材不足。
@@ -109,298 +109,298 @@ archaic_27,依代を複数所持しているため、<br>使用する依代を�
 archaic_28,貴重な武器への交換、製作は<br>こちらでできちゃいます～,Cast and trade for superior weapons here!,在这里能够兑换与制作贵重武器哦~
 archaic_29,強化確認,Upgrade,确认强化
 archaic_3,製作確認,Forge,确认制作
-archaic_30,一括外し確認,Unequip all,确定卸下所有装备
-archaic_31,全ての編成から装備を外します。<br>よろしいですか？,This item will be unequipped from all parties.,确定卸下所有编成的装备吗？
-archaic_32,一括外し,Unequip all,卸下所有装备
-archaic_33,装備を外しました。,This item was unequipped.,已卸下所有装备
+archaic_30,一括外し確認,Unequip all,卸下装备确认
+archaic_31,全ての編成から装備を外します。<br>よろしいですか？,This item will be unequipped from all parties.,确定从所有编成中卸下该装备吗？
+archaic_32,一括外し,Unequip all,一键卸下装备
+archaic_33,装備を外しました。,This item was unequipped.,已卸下当前装备
 archaic_34,戦,PWR,战
 archaic_35,攻,ATK,
 archaic_36,Lv,Lvl,
 archaic_37,H,HP,
 archaic_4,製作完了,Forge,制作完成
-archaic_5,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、製作ができません。,"This weapon can't be reforged now.<br>You don't have enough treasures,<br>or other requirements haven't been met.",
-archaic_6,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,This weapon is currently eqipped.<br>Unequip it and try again.,
-archaic_7,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,This weapon is currently favorited.<br>Unfavorite it and try again.,
-archaic_8,素材武器を選択してください,Select weapons to absorb.,
-archaic_9,武器製作に戻る,Weapons Upgrade,
+archaic_5,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、製作ができません。,"This weapon can't be reforged now.<br>You don't have enough treasures,<br>or other requirements haven't been met.",基础武器未满足条件，或素材不足，无法制作。
+archaic_6,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,This weapon is currently eqipped.<br>Unequip it and try again.,该武器在编成中，无法选择。请解除装备后重试。
+archaic_7,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,This weapon is currently favorited.<br>Unfavorite it and try again.,该武器已被保护，无法选择。请取消保护后重试。
+archaic_8,素材武器を選択してください,Select weapons to absorb.,请选择素材武器
+archaic_9,武器製作に戻る,Weapons Upgrade,返回武器制作
 archaic_bahamut_1,特殊武器,,
-archaic_bahamut_10,強化確認,,
-archaic_bahamut_11,強化完了,Upgrade,
-archaic_bahamut_12,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、強化ができません。,"This weapon can't be upgraded now.<br>You don't have enough treasures,<br>or other requirements haven't been met.",
-archaic_bahamut_13,ノヴムの覚醒に戻る,,
+archaic_bahamut_10,強化確認,,确认强化
+archaic_bahamut_11,強化完了,Upgrade,强化成功
+archaic_bahamut_12,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、強化ができません。,"This weapon can't be upgraded now.<br>You don't have enough treasures,<br>or other requirements haven't been met.",基础武器未满足条件，或素材不足，无法制作。
+archaic_bahamut_13,ノヴムの覚醒に戻る,,返回新星之觉醒
 archaic_bahamut_14,武器選択,,武器选择
-archaic_bahamut_15,天地開闢の器に戻る,,
-archaic_bahamut_16,強化確認,Upgrade,
-archaic_bahamut_17,一括外し確認,,
-archaic_bahamut_18,全ての編成から装備を外します。<br>よろしいですか？,,
-archaic_bahamut_19,一括外し,,
-archaic_bahamut_2,天地開闢の器 ‐バハムートウェポン誕生‐,,
-archaic_bahamut_20,装備を外しました。,,
-archaic_bahamut_21,フツルスの大成 -終焉の神器-,,
-archaic_bahamut_22,フツルスの大成に戻る,,
-archaic_bahamut_23,戦,,
+archaic_bahamut_15,天地開闢の器に戻る,,返回天地开辟之器
+archaic_bahamut_16,強化確認,Upgrade,确认强化
+archaic_bahamut_17,一括外し確認,,卸下装备确认
+archaic_bahamut_18,全ての編成から装備を外します。<br>よろしいですか？,,确定从所有编成中卸下该装备吗？
+archaic_bahamut_19,一括外し,,一键卸下装备
+archaic_bahamut_2,天地開闢の器 ‐バハムートウェポン誕生‐,,天地开辟之器 -巴哈姆特武器诞生-
+archaic_bahamut_20,装備を外しました。,,已卸下当前装备
+archaic_bahamut_21,フツルスの大成 -終焉の神器-,,选召之大成 -终焉之神器-
+archaic_bahamut_22,フツルスの大成に戻る,,返回选召之大成
+archaic_bahamut_23,戦,,战
 archaic_bahamut_24,攻,,
 archaic_bahamut_25,Lv,,
 archaic_bahamut_26,H,,
-archaic_bahamut_3,ノヴムの覚醒 ‐進化の道程‐,,
-archaic_bahamut_4,アイテム詳細,,
-archaic_bahamut_5,製作確認,,
-archaic_bahamut_6,製作完了,,
-archaic_bahamut_7,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、製作ができません。,,
-archaic_bahamut_8,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,,
-archaic_bahamut_9,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,,
+archaic_bahamut_3,ノヴムの覚醒 ‐進化の道程‐,,新星之觉醒 -进化之路-
+archaic_bahamut_4,アイテム詳細,,道具详情
+archaic_bahamut_5,製作確認,,确认制作
+archaic_bahamut_6,製作完了,,制作成功
+archaic_bahamut_7,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、製作ができません。,,基础武器未满足条件，或素材不足，无法制作。
+archaic_bahamut_8,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,,该武器在编成中，无法选择。请解除装备后重试。
+archaic_bahamut_9,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,,该武器已被保护，无法选择。请取消保护后重试。
 archaic_job_1,特殊武器,Weapon Series,
-archaic_job_10,依代を複数所持しているため、<br>使用する依代を選択してください。,You have multiple relics.<br>Please select a relic to use.,
-archaic_job_11,強化確認,Upgrade,
-archaic_job_12,一括外し確認,Unequip all,
-archaic_job_13,全ての編成から装備を外します。<br>よろしいですか？,This item will be unequipped from all parties.,
-archaic_job_14,一括外し,Unequip all,
-archaic_job_15,装備を外しました。,This item was unequipped.,
-archaic_job_16,戦,PWR,
+archaic_job_10,依代を複数所持しているため、<br>使用する依代を選択してください。,You have multiple relics.<br>Please select a relic to use.,您持有多件依代，请选择本次使用的依代。
+archaic_job_11,強化確認,Upgrade,确认强化
+archaic_job_12,一括外し確認,Unequip all,卸下装备确认
+archaic_job_13,全ての編成から装備を外します。<br>よろしいですか？,This item will be unequipped from all parties.,确定从所有编成中卸下该装备吗？
+archaic_job_14,一括外し,Unequip all,一键卸下装备
+archaic_job_15,装備を外しました。,This item was unequipped.,已卸下当前装备
+archaic_job_16,戦,PWR,战
 archaic_job_17,攻,ATK,
 archaic_job_18,Lv,Lvl,
 archaic_job_19,H,HP,
-archaic_job_2,英雄武器に戻る,Class Champion Weapons,
+archaic_job_2,英雄武器に戻る,Class Champion Weapons,返回英雄武器
 archaic_job_3,武器選択,Weapon Select,武器选择
-archaic_job_4,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,This weapon is equipped.<br>Unequip it and try again.,
-archaic_job_5,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,This weapon is currently favorited.<br>Unfavorite it and try again.,
-archaic_job_6,アイテム詳細,Item Details,
-archaic_job_7,製作確認,Forge,
-archaic_job_8,製作完了,Forge,
-archaic_job_9,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、製作ができません。,"This weapon can't be reforged now.<br>You don't have enough treasures,<br>or other requirements haven't been met.",
-archaic_numbers_1,強化後の武器詳細を見る,Stats After Upgrading,
-archaic_numbers_2,製作後の武器詳細を見る,Stats After Forging,
-archaic_omega_1,オメガウェポンの作成・強化,Forge Weapon,
-archaic_omega_10,強化確認,Upgrade,
-archaic_omega_13,無垢なる魂の回帰に戻る,Atma Recollection,
+archaic_job_4,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,This weapon is equipped.<br>Unequip it and try again.,该武器在编成中，无法选择。请解除装备后重试。
+archaic_job_5,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,This weapon is currently favorited.<br>Unfavorite it and try again.,该武器已被保护，无法选择。请取消保护后重试。
+archaic_job_6,アイテム詳細,Item Details,道具详情
+archaic_job_7,製作確認,Forge,确认制作
+archaic_job_8,製作完了,Forge,制作完成
+archaic_job_9,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、製作ができません。,"This weapon can't be reforged now.<br>You don't have enough treasures,<br>or other requirements haven't been met.",基础武器未满足条件，或素材不足，无法制作。
+archaic_numbers_1,強化後の武器詳細を見る,Stats After Upgrading,查看强化后的武器详情
+archaic_numbers_2,製作後の武器詳細を見る,Stats After Forging,查看制作后的武器详情
+archaic_omega_1,オメガウェポンの作成・強化,Forge Weapon,究极武器的制作·强化
+archaic_omega_10,強化確認,Upgrade,确认强化
+archaic_omega_13,無垢なる魂の回帰に戻る,Atma Recollection,返回污垢之魂的回归
 archaic_omega_14,武器選択,Weapon Select,武器选择
-archaic_omega_15,オメガの極点に戻る,Ultima Vertex,
-archaic_omega_17,一括外し確認,Unequip all,
-archaic_omega_18,全ての編成から装備を外します。<br>よろしいですか？,This item will be unequipped from all parties.,
-archaic_omega_19,一括外し,Unequip all,
-archaic_omega_2,無垢なる魂の回帰,Atma Recollection,
-archaic_omega_20,装備を外しました。,This item was unequipped.,
-archaic_omega_21,戦,PWR,
+archaic_omega_15,オメガの極点に戻る,Ultima Vertex,返回终焉之极点
+archaic_omega_17,一括外し確認,Unequip all,卸下装备确认
+archaic_omega_18,全ての編成から装備を外します。<br>よろしいですか？,This item will be unequipped from all parties.,确定从所有编成中卸下该装备吗？
+archaic_omega_19,一括外し,Unequip all,一键卸下装备
+archaic_omega_2,無垢なる魂の回帰,Atma Recollection,污垢之魂的回归
+archaic_omega_20,装備を外しました。,This item was unequipped.,已卸下当前装备
+archaic_omega_21,戦,PWR,战
 archaic_omega_22,攻,ATK,
 archaic_omega_23,Lv,Lvl,
 archaic_omega_24,H,HP,
-archaic_omega_3,オメガの極点,Ultima Vertex,
-archaic_omega_4,アイテム詳細,Item Details,
-archaic_omega_5,製作確認,Forge,
-archaic_omega_6,製作完了,Forge,
-archaic_omega_7,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、製作ができません。,"This weapon can't be reforged now.<br>You don't have enough treasures,<br>or other requirements haven't been met.",
-archaic_omega_8,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,This weapon is currently eqipped.<br>Unequip it and try again.,
-archaic_omega_9,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,This weapon is currently favorited.<br>Unfavorite it and try again.,
+archaic_omega_3,オメガの極点,Ultima Vertex,终焉之极点
+archaic_omega_4,アイテム詳細,Item Details,道具详情
+archaic_omega_5,製作確認,Forge,确认制作
+archaic_omega_6,製作完了,Forge,制作成功
+archaic_omega_7,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、製作ができません。,"This weapon can't be reforged now.<br>You don't have enough treasures,<br>or other requirements haven't been met.",基础武器未满足条件，或素材不足，无法制作
+archaic_omega_8,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,This weapon is currently eqipped.<br>Unequip it and try again.,该武器在编成中，无法选择。请解除装备后重试。
+archaic_omega_9,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,This weapon is currently favorited.<br>Unfavorite it and try again.,该武器已被保护，无法选择。请取消保护后重试。
 archaic_seraphic_1,特殊武器,,
-archaic_seraphic_10,%s完了,,
-archaic_seraphic_11,称号獲得,,
-archaic_seraphic_12,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、強化ができません。,,
-archaic_seraphic_13,称号獲得,,
+archaic_seraphic_10,%s完了,,%s成功
+archaic_seraphic_11,称号獲得,,获得称号
+archaic_seraphic_12,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、強化ができません。,,基础武器未满足条件，或素材不足，强化失败。
+archaic_seraphic_13,称号獲得,,获得称号
 archaic_seraphic_14,武器選択,,武器选择
-archaic_seraphic_15,%s確認,,
-archaic_seraphic_16,装備を外しました。,,
-archaic_seraphic_17,一括外し確認,,
-archaic_seraphic_18,全ての編成から装備を外します。<br>よろしいですか？,,
-archaic_seraphic_19,一括外し,,
-archaic_seraphic_2,セラフィックウェポン一覧,,
-archaic_seraphic_20,武器リストの所持数が最大に達しているため、武器の製作ができません。所持数に空きを作ることで製作できるようになります。,,
-archaic_seraphic_3,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、%sができません。,,
-archaic_seraphic_4,アイテム詳細,,
-archaic_seraphic_5,製作,,
-archaic_seraphic_6,上限解放,,
-archaic_seraphic_7,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、製作ができません。,,
-archaic_seraphic_8,装備を外しました。,,
-archaic_seraphic_9,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,,
+archaic_seraphic_15,%s確認,,确认%s
+archaic_seraphic_16,装備を外しました。,,已卸下当前装备
+archaic_seraphic_17,一括外し確認,,卸下装备确认
+archaic_seraphic_18,全ての編成から装備を外します。<br>よろしいですか？,,确定从所有编成中卸下该装备吗？
+archaic_seraphic_19,一括外し,,一键卸下装备
+archaic_seraphic_2,セラフィックウェポン一覧,,天司武器一览
+archaic_seraphic_20,武器リストの所持数が最大に達しているため、武器の製作ができません。所持数に空きを作ることで製作できるようになります。,,武器数量已满，无法获得新召唤石。请整理后重试。
+archaic_seraphic_3,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、%sができません。,,基础武器未满足条件，或素材不足，%s失败。
+archaic_seraphic_4,アイテム詳細,,道具详情
+archaic_seraphic_5,製作,,制作
+archaic_seraphic_6,上限解放,,上限解放
+archaic_seraphic_7,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、製作ができません。,,基础武器未满足条件，或素材不足，无法制作。
+archaic_seraphic_8,装備を外しました。,,已卸下当前装备
+archaic_seraphic_9,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,,该武器已被保护，无法选择。请取消保护后重试。
 archaic_xeno_1,特殊武器,,
-archaic_xeno_10,強化確認,,
-archaic_xeno_11,強化完了,,
-archaic_xeno_12,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、強化ができません。,,
+archaic_xeno_10,強化確認,,确认强化
+archaic_xeno_11,強化完了,,强化成功
+archaic_xeno_12,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、強化ができません。,,基础武器未满足条件，或素材不足，强化失败。
 archaic_xeno_14,武器選択,,武器选择
-archaic_xeno_15,六道武器一覧に戻る,,
-archaic_xeno_16,強化確認,,
-archaic_xeno_17,一括外し確認,,
-archaic_xeno_18,全ての編成から装備を外します。<br>よろしいですか？,,
-archaic_xeno_19,一括外し,,
-archaic_xeno_2,六道武器一覧,,
-archaic_xeno_20,装備を外しました。,,
-archaic_xeno_21,戦,,
+archaic_xeno_15,六道武器一覧に戻る,,返回六道武器一览
+archaic_xeno_16,強化確認,,确认强化
+archaic_xeno_17,一括外し確認,,卸下装备确认
+archaic_xeno_18,全ての編成から装備を外します。<br>よろしいですか？,,确定从所有编成中卸下该装备吗？
+archaic_xeno_19,一括外し,,一键卸下装备
+archaic_xeno_2,六道武器一覧,,六道武器一览
+archaic_xeno_20,装備を外しました。,,已卸下当前装备
+archaic_xeno_21,戦,,战
 archaic_xeno_22,攻,,
 archaic_xeno_23,Lv,,
 archaic_xeno_24,H,,
-archaic_xeno_3,ノヴムの覚醒 ‐進化の道程‐,,
-archaic_xeno_4,アイテム詳細,,
-archaic_xeno_5,製作確認,,
-archaic_xeno_6,製作完了,,
-archaic_xeno_7,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、製作ができません。,,
-archaic_xeno_8,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,,
-archaic_xeno_9,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,,
-archive_1,用語集,Archive,
-archive_10,シナリオパターン選択,Select Scenario,
-archive_11,ルリアノート,Journal,
-archive_2,信頼度,"Loyalty: ",
-archive_3,フェイト,Fate,
-archive_35,図鑑,Field Notes,
-archive_36,プロフィールに戻る,Profile,
-archive_37,ストーリー,Story,
-archive_38,オープニング,Opening,
-archive_39,旅立ち,Setting Off on an Adventure,
-archive_4,%sエピソード未クリア,%s Episode (Not Cleared),
-archive_40,エピソード1,Episode 1,
-archive_41,エピソード2,Episode 2,
-archive_42,エピソード3,Episode 3,
-archive_43,エピソード4,Episode 4,
+archaic_xeno_3,ノヴムの覚醒 ‐進化の道程‐,,新星之觉醒 -进化之路-
+archaic_xeno_4,アイテム詳細,,道具详情
+archaic_xeno_5,製作確認,,确认制作
+archaic_xeno_6,製作完了,,制作成功
+archaic_xeno_7,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、製作ができません。,,基础武器未满足条件，或素材不足，无法制作。
+archaic_xeno_8,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,,该武器在编成中，无法选择。请解除装备后重试。
+archaic_xeno_9,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,,该武器已被保护，无法选择。请取消保护后重试。
+archive_1,用語集,Archive,用语集
+archive_10,シナリオパターン選択,Select Scenario,选择剧情
+archive_11,ルリアノート,Journal,露丽亚日记
+archive_2,信頼度,"Loyalty: ",信赖度
+archive_3,フェイト,Fate,人物剧情
+archive_35,図鑑,Field Notes,图鉴
+archive_36,プロフィールに戻る,Profile,返回个人资料
+archive_37,ストーリー,Story,剧情
+archive_38,オープニング,Opening,序章
+archive_39,旅立ち,Setting Off on an Adventure,启程
+archive_4,%sエピソード未クリア,%s Episode (Not Cleared),%s该章未通关
+archive_40,エピソード1,Episode 1,第1章
+archive_41,エピソード2,Episode 2,第2章
+archive_42,エピソード3,Episode 3,第3章
+archive_43,エピソード4,Episode 4,第4章
 archive_44,降焔祭,Festival of Falling Flame,
 archive_45,臆病勇者と囚われの姫君,The Cowardly Hero and the Captive Princess,
 archive_46,不屈の勇者と熱砂の動乱,The Dauntless Hero and the Restless Sands,
-archive_47,プロローグ,Prologue,
-archive_48,ストーリーはありません,No stories.,
-archive_49,図鑑 武器一覧に戻る,Field Notes: Weapons,
-archive_5,%sエピソード解放,%s Episode Unlocked,
-archive_50,図鑑 召喚石一覧に戻る,Field Notes: Summons,
-archive_51,図鑑 キャラ一覧に戻る,Field Notes: People,
-archive_52,このエピソードは<br>イベントでの謎解きに対する解答が<br>「正解」か「不正解」かによって<br>一部内容が異なります。<br><br>どちらの内容で再生しますか？,The contents of this episode vary according to whether your puzzle answer is Incorrect or Correct.<br><br>Which version would you like to play?,
-archive_53,不正解,Incorrect,
-archive_54,正解,Correct,
+archive_47,プロローグ,Prologue,开幕
+archive_48,ストーリーはありません,No stories.,无剧情
+archive_49,図鑑 武器一覧に戻る,Field Notes: Weapons,返回图鉴 武器一览
+archive_5,%sエピソード解放,%s Episode Unlocked,%s剧情解放
+archive_50,図鑑 召喚石一覧に戻る,Field Notes: Summons,返回图鉴 召唤石一览
+archive_51,図鑑 キャラ一覧に戻る,Field Notes: People,返回图鉴 人物一览
+archive_52,このエピソードは<br>イベントでの謎解きに対する解答が<br>「正解」か「不正解」かによって<br>一部内容が異なります。<br><br>どちらの内容で再生しますか？,The contents of this episode vary according to whether your puzzle answer is Incorrect or Correct.<br><br>Which version would you like to play?,该剧情根据活动中玩家的回答是否正确有细微差异。请选择想要查看的剧情版本。
+archive_53,不正解,Incorrect,回答错误
+archive_54,正解,Correct,回答正确
 archive_55,メッセージ選択,View Message,
-archive_56,メインシナリオ,Main Quests,
-archive_6,%sエピソード解放条件,%s Episode Unlock Requirements,
-archive_9,アイテム獲得,Items,
-archive_back_btn_1,図鑑に戻る,Field Notes,
-assist_bonus_1,アシストボーナス,Assist Bonus,
+archive_56,メインシナリオ,Main Quests,主线剧情
+archive_6,%sエピソード解放条件,%s Episode Unlock Requirements,%s剧情解放条件
+archive_9,アイテム獲得,Items,获得道具
+archive_back_btn_1,図鑑に戻る,Field Notes,返回图鉴
+assist_bonus_1,アシストボーナス,Assist Bonus,等级加成
 battle_service_1,バトルサービス,Battle Supplements,
-battle_service_2,<br><span class='txt-red-color'>スコアが不足しています。</span>,<br><span class='txt-red-color'>You don't have enough points.</span>,
-battle_service_3,<br><span class='txt-red-color'>これ以上使用できません。</span>,<br><span class='txt-red-color'>You can't use this anymore.</span>,
-battle_service_4,<br><span class='txt-yellow-color'>あと%s回使用できます。</span>,<br><span class='txt-yellow-color'>You can use this %s more time.</span>,
-battle_service_5,<br><span class='txt-yellow-color'>あと%s回使用できます。</span>,<br><span class='txt-yellow-color'>You can use this %s more times.</span>,
-bookmark_1,お気に入り登録確認,Favorite,
-bookmark_2,お気に入りの登録数が最大数に達しているため、<br>登録ができませんでした。,Your favorites are full.<br>This quest couldn't be favorited.,
-bookmark_3,「%s1」<br>このクエストを登録しますか？<br><br>現在のお気に入り登録数<br>%s2/%s3,%s1<br>Favorite this quest?<br><br>Slots filled:<br>%s2/%s3,
-bookmark_4,お気に入りに登録しました。<br><br>現在のお気に入り登録数<br>%s1/%s2,This quest was added to your favorites:<br><br>Slots filled:<br>%s1/%s2,
-bookmark_quest_1,お気に入りクエスト登録,Favorite this quest?,
-bookmark_quest_2,これ以上登録できません,You can't favorite any more quests.,
-cannot_summon_1,このバトルでは召喚できません,Summons can't be used in this quest.,
+battle_service_2,<br><span class='txt-red-color'>スコアが不足しています。</span>,<br><span class='txt-red-color'>You don't have enough points.</span>,<br><span class='txt-red-color'>分数不足。</span>
+battle_service_3,<br><span class='txt-red-color'>これ以上使用できません。</span>,<br><span class='txt-red-color'>You can't use this anymore.</span>,<br><span class='txt-red-color'>无法使用。</span>
+battle_service_4,<br><span class='txt-yellow-color'>あと%s回使用できます。</span>,<br><span class='txt-yellow-color'>You can use this %s more time.</span>,<br><span class='txt-yellow-color'>剩余%s次。</span>
+battle_service_5,<br><span class='txt-yellow-color'>あと%s回使用できます。</span>,<br><span class='txt-yellow-color'>You can use this %s more times.</span>,<br><span class='txt-yellow-color'>剩余%s次。</span>
+bookmark_1,お気に入り登録確認,Favorite,添加收藏任务确认
+bookmark_2,お気に入りの登録数が最大数に達しているため、<br>登録ができませんでした。,Your favorites are full.<br>This quest couldn't be favorited.,收藏数已满，无法添加收藏。
+bookmark_3,「%s1」<br>このクエストを登録しますか？<br><br>現在のお気に入り登録数<br>%s2/%s3,%s1<br>Favorite this quest?<br><br>Slots filled:<br>%s2/%s3,「%s1」<br>是否收藏此任务？<br><br>现在的收藏数<br>%s2/%s3
+bookmark_4,お気に入りに登録しました。<br><br>現在のお気に入り登録数<br>%s1/%s2,This quest was added to your favorites:<br><br>Slots filled:<br>%s1/%s2,收藏成功。<br><br>现在的收藏数<br>%s1/%s2
+bookmark_quest_1,お気に入りクエスト登録,Favorite this quest?,是否收藏此任务
+bookmark_quest_2,これ以上登録できません,You can't favorite any more quests.,无法添加收藏
+cannot_summon_1,このバトルでは召喚できません,Summons can't be used in this quest.,此任务无法使用召唤石
 casino_1,カジノ,Casino,赌场
-casino_10,ゲーム終了,Forfeit,
-casino_11,%sを終了しました。,Forfeited %s,
-casino_12,ダブルアップの種類選択,Higher-or-Lower,
-casino_13,メンテナンス中,Under Maintenance,
-casino_14,メダル購入,Buy Chips,
-casino_15,通信中...,Connecting...,
-casino_16,メダル購入確認,Buy Chips,
-casino_17,メダル購入完了,Buy Chips,
-casino_18,購入しました。,You bought some chips.,
-casino_19,カジノTOP,Casino,
-casino_2,スロット,Slots,
-casino_20,メダルゲット,Chips,
-casino_21,景品交換,Casino Cage,
-casino_22,交換確認,Trade Treasure,
-casino_23,交換完了,Trade Treasure,
-casino_24,アイテム詳細,Item Details,
-casino_25,ジャックポット当選者,Jackpot Winners,
-casino_26,交換する,Trade,
+casino_10,ゲーム終了,Forfeit,结束游戏
+casino_11,%sを終了しました。,Forfeited %s,%s已结束
+casino_12,ダブルアップの種類選択,Higher-or-Lower,选择翻倍的牌类
+casino_13,メンテナンス中,Under Maintenance,维护中
+casino_14,メダル購入,Buy Chips,购买筹码
+casino_15,通信中...,Connecting...,连接中…
+casino_16,メダル購入確認,Buy Chips,购买筹码确认
+casino_17,メダル購入完了,Buy Chips,购买筹码成功
+casino_18,購入しました。,You bought some chips.,已购入。
+casino_19,カジノTOP,Casino,赌场首页
+casino_2,スロット,Slots,老虎机
+casino_20,メダルゲット,Chips,筹码
+casino_21,景品交換,Casino Cage,奖品兑换
+casino_22,交換確認,Trade Treasure,确认兑换
+casino_23,交換完了,Trade Treasure,兑换成功
+casino_24,アイテム詳細,Item Details,道具详情
+casino_25,ジャックポット当選者,Jackpot Winners,幸运榜
+casino_26,交換する,Trade,兑换
 casino_27,TOP,,
-casino_28,あと%s枚購入可能,%s more chip can be bought.,
-casino_3,ポーカー,Poker,
-casino_4,ビンゴ,Bingo,
-casino_5,ルール（%s),%s,
-casino_6,%sTOPに戻る,%s,
-casino_7,メダル不足,Chips,
-casino_8,メダルが足りません。<br>メダルは%sTOPで<br>購入することができます。,More chips are needed.<br>Buy chips on the %s screen.,
-casino_9,終了確認,Forfeit,
-casino_bingo_1,ビンゴ結果,Bingo,
-casino_bingo_2,メダルがありません。<br><br>1ゲーム最低%s枚必要です。,You need more chips.<br><br> %s chips are needed to place the minimum bet,
-casino_bingo_3,ビンゴゲーム中ですが退室しますか？<br>ゲームが終了した場合<br>もう一度ビンゴを選択すると<br>リザルトから始まります。,This game hasn't finished yet. The results screen will appear if the game finishes before you return.<br>Leave this room?,
-casino_bingo_4,ビンゴプレイ中,Bingo,
+casino_28,あと%s枚購入可能,%s more chip can be bought.,您还能购买%s枚筹码。
+casino_3,ポーカー,Poker,扑克
+casino_4,ビンゴ,Bingo,宾果
+casino_5,ルール（%s),%s,规则（%s)
+casino_6,%sTOPに戻る,%s,返回%s首页
+casino_7,メダル不足,Chips,筹码不足
+casino_8,メダルが足りません。<br>メダルは%sTOPで<br>購入することができます。,More chips are needed.<br>Buy chips on the %s screen.,筹码不足。请前往%s首页购入筹码。
+casino_9,終了確認,Forfeit,确认结束游戏
+casino_bingo_1,ビンゴ結果,Bingo,宾果
+casino_bingo_2,メダルがありません。<br><br>1ゲーム最低%s枚必要です。,You need more chips.<br><br> %s chips are needed to place the minimum bet,筹码不足。一局游戏至少需要%s枚筹码。
+casino_bingo_3,ビンゴゲーム中ですが退室しますか？<br>ゲームが終了した場合<br>もう一度ビンゴを選択すると<br>リザルトから始まります。,This game hasn't finished yet. The results screen will appear if the game finishes before you return.<br>Leave this room?,您在宾果游戏中，是否退出房间？若本局结束后您再次选择宾果，将首先看到本局结果页面。
+casino_bingo_4,ビンゴプレイ中,Bingo,宾果进行中
 casino_bingo_5,EXIT,QUIT,
-casino_bingo_6,メダルがありません。<br><br>1ゲーム最低%s枚必要です。,You need more chips.<br><br> %s chip is needed to place the minimum bet,
-casino_bingo_7,1ゲーム最低%s枚必要です。<br>追加BETすることもできます。,The minimum bet for this room is %s chip.<br>Tap Raise to increase the bet.,
-casino_poker_1,ポーカーを始めます,Tap Deal to play.,
-casino_poker_2,ダブルアップに挑戦しますか？,Play Higher-or-Lower?,
-casino_poker_3,%s回目のダブルアップ<div class='text2'>続けて挑戦しますか？</div>,"Round %s<div class=""text2"">Play another round?</div>",
-casino_poker_4,ホールドするカードを選択,Tap the cards you want to keep.,
-casino_poker_5,ポーカーTOPに戻りますか？,Return to the poker tables?,
-casino_poker_6,メダル不足,Chips,
-casino_poker_7,メダルがなくなりました。,You need more chips.,
-casino_poker_8,カジノへ,Casino,
+casino_bingo_6,メダルがありません。<br><br>1ゲーム最低%s枚必要です。,You need more chips.<br><br> %s chip is needed to place the minimum bet,筹码不足。一局游戏至少需要%s枚筹码。
+casino_bingo_7,1ゲーム最低%s枚必要です。<br>追加BETすることもできます。,The minimum bet for this room is %s chip.<br>Tap Raise to increase the bet.,一局游戏至少需要%s枚筹码。您可以提高赌注。
+casino_poker_1,ポーカーを始めます,Tap Deal to play.,开始扑克游戏。
+casino_poker_2,ダブルアップに挑戦しますか？,Play Higher-or-Lower?,是否继续挑战翻倍？
+casino_poker_3,%s回目のダブルアップ<div class='text2'>続けて挑戦しますか？</div>,"Round %s<div class=""text2"">Play another round?</div>",<div class='text2'>是否继续挑战</div>第%s次翻倍
+casino_poker_4,ホールドするカードを選択,Tap the cards you want to keep.,选择保留的手牌
+casino_poker_5,ポーカーTOPに戻りますか？,Return to the poker tables?,是否返回扑克首页？
+casino_poker_6,メダル不足,Chips,筹码不足。
+casino_poker_7,メダルがなくなりました。,You need more chips.,您的筹码不足。
+casino_poker_8,カジノへ,Casino,返回赌场
 casino_poker_9,EXIT,QUIT,
-casino_poker_no_game,ゲーム終了,Game Timeout,
-casino_slot_1,スロット,Slots,
-casino_slot_2,スロットTOPに戻りますか？,Return to the Slot Machines?,
-casino_slot_3,メダル不足,Chips,
-casino_slot_4,メダルがなくなりました。,You need more chips.,
-casino_slot_5,カジノへ,Casino,
+casino_poker_no_game,ゲーム終了,Game Timeout,游戏结束
+casino_slot_1,スロット,Slots,老虎机
+casino_slot_2,スロットTOPに戻りますか？,Return to the Slot Machines?,是否返回老虎机首页？
+casino_slot_3,メダル不足,Chips,筹码不足。
+casino_slot_4,メダルがなくなりました。,You need more chips.,您的筹码不足。
+casino_slot_5,カジノへ,Casino,返回赌场
 casino_slot_6,EXIT,QUIT,
-caution_pop_1,難易度「%s1」のクエストを<br>開始しているため<br>難易度「%s2」のクエストを<br>開始することが出来ません。<br><br>制限は毎日AM5:00にリセットされます。,This %s2 quest can't be played. A %s1-difficulty quest was started first.<br><br>Quest-difficulty selection resets each day at 5 a.m. (JST).,
-change_symbolmark_1,シンボルマーク変更,Change Icon,
-change_symbolmark_2,シンボルマークを変更しました。,You changed the icon for this party group.,
-cjs_npc_evolution_1,%sの\n最大Lvが%s→%sになった！,%s's level cap rose\nfrom %s to %s!,
-cjs_summon_evolution_1,%sの\n最大Lvが%s→%sになった！,%s's level cap rose\nfrom %s to %s!,
-comic_1,シナリオパターン選択,Choose Your Route,
+caution_pop_1,難易度「%s1」のクエストを<br>開始しているため<br>難易度「%s2」のクエストを<br>開始することが出来ません。<br><br>制限は毎日AM5:00にリセットされます。,This %s2 quest can't be played. A %s1-difficulty quest was started first.<br><br>Quest-difficulty selection resets each day at 5 a.m. (JST).,您已进行了「%s1」难度的当前任务，无法再进行「%s2」难度。<br><br>限制将于每天AM5：00重置（GMT+9）。
+change_symbolmark_1,シンボルマーク変更,Change Icon,变更标记
+change_symbolmark_2,シンボルマークを変更しました。,You changed the icon for this party group.,变更标记成功
+cjs_npc_evolution_1,%sの\n最大Lvが%s→%sになった！,%s's level cap rose\nfrom %s to %s!,%s的\n最大Lv由%s变为%s！
+cjs_summon_evolution_1,%sの\n最大Lvが%s→%sになった！,%s's level cap rose\nfrom %s to %s!,%s的\n最大Lv由%s变为%s！
+comic_1,シナリオパターン選択,Choose Your Route,选择剧情
 container_22,倉庫,Stash,仓库
 container_25,召喚石,Summons,召唤石
-container_26,移動先倉庫選択,Stash,
-container_28,選択した倉庫内がいっぱいのため<br>移動できません。,The stash you selected is full. Select another one.,
-container_29,倉庫名を変更,Rename,
-container_31,何も入力されていません。,You haven't typed anything.,
-container_32,倉庫名を変更,Rename,
-container_33,倉庫の名前を<br><br>,This stash has been renamed <br><br>,
-container_34,<br><br>に変更しました。,<br><br>,
+container_26,移動先倉庫選択,Stash,选择目标仓库
+container_28,選択した倉庫内がいっぱいのため<br>移動できません。,The stash you selected is full. Select another one.,该仓库已满，转移失败。
+container_29,倉庫名を変更,Rename,变更仓库名
+container_31,何も入力されていません。,You haven't typed anything.,输入为空
+container_32,倉庫名を変更,Rename,变更仓库名
+container_33,倉庫の名前を<br><br>,This stash has been renamed <br><br>,仓库名已变更为<br><br>
+container_34,<br><br>に変更しました。,<br><br>,<br><br>
 container_35,売却,Sell,出售
 container_36,武器,weapon,武器
 container_37,召喚石,summon,召唤石
-container_38,売却確認,Sell,
-container_40,売却,Sell,
-container_41,売却結果,Sell,
-container_42,移動させる,Move,
+container_38,売却確認,Sell,确认出售
+container_40,売却,Sell,出售
+container_41,売却結果,Sell,出售结果
+container_42,移動させる,Move,转移
 container_43,武器,Weapons,武器
 container_44,召喚石,Summons,召唤石
-container_45,移動,Move,
-container_65,倉庫TOP,Stash,
-container_66,倉庫を所持していません,Stash,
-container_67,ショップへ,Shop,
-container_68,戦,PWR,
+container_45,移動,Move,转移
+container_65,倉庫TOP,Stash,仓库首页
+container_66,倉庫を所持していません,Stash,无仓库
+container_67,ショップへ,Shop,商店
+container_68,戦,PWR,战
 container_69,攻,ATK,
 container_70,Lv,Lvl,
 container_71,H,HP,
-container_move_target_1,リスト,the Inventory,
-container_move_target_2,倉庫,another Stash,
-container_pop_1,リストに戻す,Add to Inventory,
-container_pop_10,以下の%sを売却しました。,You sold %s.,
-container_pop_11,所持ルピ　<span class='txt-lupi-after'>%s</span>ルピ,Held: <span class='txt-lupi-after'>%s</span> rupie,
-container_pop_2,所持数がいっぱいのため<br>移動できません。,Your inventory is full.,
-container_pop_3,倉庫に移す,Move to Stash,
-container_pop_4,倉庫がいっぱいのため<br>移動できません。,The stash you selected is full.,
-container_pop_5,売却価格　<span class='txt-sell-price'>%s</span>ルピ,Total: <span class='txt-sell-price'>%s</span> rupie,
-container_pop_6,所持ルピ　<span class='txt-lupi-before'>%s1</span> → <span class='txt-lupi-after'>%s2</span>ルピ,Held: <span class='txt-lupi-before'>%s1</span> &gt;&gt; <span class='txt-lupi-after'>%s2</span> rupie,
-container_pop_7,レア以上の%sを<br>売却しようとしています！,You're about to sell an R-SSR<br>%s.,
-container_pop_8,以下の%sを売却します。<br>よろしいですか？,Sell the %s below?,
-container_pop_9,ボーナス　獲得ルピ＋%s,Bonus: %s rupie,
+container_move_target_1,リスト,the Inventory,列表
+container_move_target_2,倉庫,another Stash,仓库
+container_pop_1,リストに戻す,Add to Inventory,返回列表
+container_pop_10,以下の%sを売却しました。,You sold %s.,出售以下%s
+container_pop_11,所持ルピ　<span class='txt-lupi-after'>%s</span>ルピ,Held: <span class='txt-lupi-after'>%s</span> rupie,所持卢比　<span class='txt-lupi-after'>%s</span>卢比
+container_pop_2,所持数がいっぱいのため<br>移動できません。,Your inventory is full.,所持数已满，转移失败。
+container_pop_3,倉庫に移す,Move to Stash,转移至仓库
+container_pop_4,倉庫がいっぱいのため<br>移動できません。,The stash you selected is full.,仓库已满，转移失败。
+container_pop_5,売却価格　<span class='txt-sell-price'>%s</span>ルピ,Total: <span class='txt-sell-price'>%s</span> rupie,售出价格　<span class='txt-sell-price'>%s</span>卢比
+container_pop_6,所持ルピ　<span class='txt-lupi-before'>%s1</span> → <span class='txt-lupi-after'>%s2</span>ルピ,Held: <span class='txt-lupi-before'>%s1</span> &gt;&gt; <span class='txt-lupi-after'>%s2</span> rupie,所持卢比　<span class='txt-lupi-before'>%s1</span> → <span class='txt-lupi-after'>%s2</span>卢比
+container_pop_7,レア以上の%sを<br>売却しようとしています！,You're about to sell an R-SSR<br>%s.,您将出售R以上%s！
+container_pop_8,以下の%sを売却します。<br>よろしいですか？,Sell the %s below?,是否出售以下%s？
+container_pop_9,ボーナス　獲得ルピ＋%s,Bonus: %s rupie,获得额外卢比＋%s
 container_select_item_1,武器,weapons,武器
 container_select_item_2,召喚石,summons,召唤石
 coopraid_1,共闘,Co-op,共斗
-coopraid_10,%s が解放されました！,Unlocked %s!,
-coopraid_100,AP・BPはMAXですが投稿しますか？,Your AP and EP are full. Tweet anyway?,
-coopraid_101,認証完了,Link Twitter Account,
-coopraid_102,Twitterとの連携を認証しました。,Your Granblue Fantasy account and Twitter account are now linked.,
-coopraid_103,禁止ワードが含まれています。,This message is invalid.,
+coopraid_10,%s が解放されました！,Unlocked %s!,%s已解放！
+coopraid_100,AP・BPはMAXですが投稿しますか？,Your AP and EP are full. Tweet anyway?,您的AP·BP已满，是否继续投稿？
+coopraid_101,認証完了,Link Twitter Account,认证成功。
+coopraid_102,Twitterとの連携を認証しました。,Your Granblue Fantasy account and Twitter account are now linked.,您已绑定推特账号。
+coopraid_103,禁止ワードが含まれています。,This message is invalid.,含有敏感词汇。
 coopraid_104,ルーム作成,Create a Room,创建房间
-coopraid_105,コメントが未入力です。,Type a message,
-coopraid_106,コメントは24文字までです。,Type up to 24 characters.,
-coopraid_107,禁止ワードが含まれています。,This message is invalid.,
+coopraid_105,コメントが未入力です。,Type a message,您未输入描述。
+coopraid_106,コメントは24文字までです。,Type up to 24 characters.,描述最多24字。
+coopraid_107,禁止ワードが含まれています。,This message is invalid.,含有敏感词汇。
 coopraid_108,ルーム情報変更,Room,房间信息更新
-coopraid_109,ルームチャット一覧,Room Chat,
-coopraid_11,ステージ解放,Stage Unlocked,
-coopraid_110,スタンプを送りました。,Sticker was sent.,
-coopraid_111,チャットを送りました。,Message was sent.,
-coopraid_112,共闘クエスト戦績,Co-op Log,
-coopraid_113,確認できるバトルはありません。,There is nothing here.,
-coopraid_114,ミッション報酬,Mission Rewards,
-coopraid_115,交換完了,Trade Treasure,
-coopraid_116,ミッション報酬のリセット,Mission Points,
-coopraid_117,ミッション報酬を全て受け取りました。<br>ミッション報酬在庫をリセットします。,All items have been traded for. Mission rewards will now be reset.,
-coopraid_118,ステータス,Progress,
-coopraid_119,参加する,Join a Room,
-coopraid_12,編成へ,Party,
+coopraid_109,ルームチャット一覧,Room Chat,房间聊天一览
+coopraid_11,ステージ解放,Stage Unlocked,解放关卡
+coopraid_110,スタンプを送りました。,Sticker was sent.,表情已发送。
+coopraid_111,チャットを送りました。,Message was sent.,聊天已发送。
+coopraid_112,共闘クエスト戦績,Co-op Log,共斗任务战绩
+coopraid_113,確認できるバトルはありません。,There is nothing here.,您有未确认结果的战斗。
+coopraid_114,ミッション報酬,Mission Rewards,任务报酬
+coopraid_115,交換完了,Trade Treasure,兑换成功
+coopraid_116,ミッション報酬のリセット,Mission Points,重置任务报酬
+coopraid_117,ミッション報酬を全て受け取りました。<br>ミッション報酬在庫をリセットします。,All items have been traded for. Mission rewards will now be reset.,您已兑换全部报酬。刷新任务报酬。
+coopraid_118,ステータス,Progress,进程
+coopraid_119,参加する,Join a Room,参加
+coopraid_12,編成へ,Party,编成
 coopraid_120,参加,Join,
 coopraid_121,マルチバトル撤退,Raid Battle,
 coopraid_122,マルチバトルから撤退しました。,You retreated from the raid battle.,
