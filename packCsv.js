@@ -66,6 +66,11 @@ gulp.task('move:scenario', ['clean:dist'], function () {
     .pipe(gulp.dest('./dist/blhxfy/data/scenario/'))
 })
 
+gulp.task('move:skill', ['clean:dist'], function () {
+  return gulp.src('./data/scenario/**/*.csv')
+    .pipe(gulp.dest('./dist/blhxfy/data/skill/'))
+})
+
 gulp.task('scenarioMap', ['move:scenario'], function (done) {
   fs.writeJson('./dist/blhxfy/data/scenario.json', scenarioMap, done)
 })
@@ -100,4 +105,4 @@ gulp.task('publish', ['md5'], function (done) {
   })
 })
 
-gulp.task('default', ['move:static', 'move:normalcsv', 'move:scenario', 'md5', 'pack', 'scenarioMap', 'clean:dist', 'publish', 'cname']);
+gulp.task('default', ['move:static', 'move:normalcsv', 'move:scenario', 'move:skill', 'md5', 'pack', 'scenarioMap', 'clean:dist', 'publish', 'cname']);

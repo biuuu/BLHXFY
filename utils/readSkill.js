@@ -4,6 +4,7 @@ const { readCsv } = require('./index')
 const { USER_DATA_PATH, dataPath } = require('../store/')
 const { skillKeys } = require('../store/skillMap')
 
+const keys = skillKeys.map(item => item[1])
 const readSkill = async (filename, stable) => {
   const csvPath = stable
     ? path.resolve(await dataPath(), 'skill', `${filename}`)
@@ -12,14 +13,16 @@ const readSkill = async (filename, stable) => {
   const transMap = new Map()
   list.forEach(item => {
     if (item.id) {
-      skillKeys.forEach((key, idx) => {
-        if (key[1] === item.id) {
-          transMap.set(key[0], {
-            name: item.nameTrans,
-            comment: item.detail
-          })
-        }
-      })
+      if (keys.includes(item.id)) {
+        transMap.set(item.id, {
+          name: item.name,
+          comment: item.detail
+        })
+      } else if (item.id === 'npc') {
+        transMap.set('npc', {
+          name: item.name
+        })
+      }
     }
   })
   return transMap

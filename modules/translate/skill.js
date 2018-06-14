@@ -9,15 +9,14 @@ const { skillMap, skillKeys } = skillState
 const keys = skillKeys
 
 const saveSkill = async (data) => {
-  if (!data || !data.id || !data.master || !data.master.name) return
+  if (!data || !data.id || !data.master || !data.master.name || !data.master.id) return
   const name = `${data.master.evo_name || data.master.name}-${data.id}.csv`
   const list = []
   const FILE_PATH = path.resolve(USER_DATA_PATH, 'local/skill/', name)
   list.push({
     id: 'npc',
     name: data.master.name,
-    nameTrans: '',
-    detail: data.id
+    detail: `${data.id}|${data.master.id}`
   })
 
   keys.forEach(key => {
@@ -31,10 +30,19 @@ const saveSkill = async (data) => {
   list.push({
     id: 'active',
     name: '0',
-    nameTrans: '',
     detail: ''
   })
   await writeCsv(FILE_PATH, list)
+}
+
+const getPlusStr = (str) => {
+  let plusStr = ''
+  let _str = str
+  while (_str.endsWith('+') || _str.endsWith('＋')) {
+    plusStr += '＋'
+    _str = _str.slice(0, _str.length - 1)
+  }
+  return plusStr
 }
 
 const transSkill = async (data, lang) => {
@@ -44,15 +52,35 @@ const transSkill = async (data, lang) => {
   if (skillData) {
     const { filename, stable, active } = skillData
     if (stable || active) {
-
       const transMap = await readSkill(filename, stable)
       keys.forEach(item => {
-        const key = item[0]
-        const trans = transMap.get(key)
+        const key1 = item[0]
+        const key2 = item[1]
+        if (!data[key1]) return
+        if (data[key1].recast_interval_comment) {
+          data[key1].recast_interval_comment = data[key1]
+            .recast_interval_comment
+            .replace('ターン', '回合').replace('turns', '回合')
+            .replace('turn', '回合').replace('Cooldown:', '使用间隔:').replace('使用間隔:', '使用间隔:')
+        }
+        if (data[key1].effect_time_comment) {
+          data[key1].effect_time_comment = data[key1]
+            .effect_time_comment
+            .replace('ターン', '回合').replace('turns', '回合')
+            .replace('turn', '回合')
+        }
+        const trans = transMap.get(key2)
         if (!trans) return
-        if (trans.name) data[key].name = trans.name
-        if (trans.comment) data[key].comment = trans.comment
+        if (trans.name) {
+          const str = getPlusStr(data[key1].name)
+          data[key1].name = trans.name + str
+        }
+        if (trans.comment) data[key1].comment = trans.comment
       })
+      if (data.master) {
+        const trans = transMap.get('npc')
+        if (trans && trans.name) data.master.name = trans.name
+      }
     }
   } else if (lang === 'jp') {
     saveSkill(data)

@@ -18,7 +18,7 @@ const skillKeys = [
   ['support_ability_of_npczenith', 'skill-lb']
 ]
 
-const keys = skillKeys.map(item => item[1])
+const keys = ['skill-1', 'skill-2', 'skill-3', 'skill-4', 'special']
 
 const state = {
   status: 'init',
@@ -48,10 +48,10 @@ const readInfo = async (file, stable) => {
   const csvPath = stable ? path.resolve(__dirname, '../data', file) : path.resolve(USER_DATA_PATH, file)
   const list = await readCsv(csvPath)
   const filename = file.replace(/.*skill[\\\/](.+)/, '$1')
-  let npcId, active
+  let npcId, active, masterId
   for (let row of list) {
     if (row.id === 'npc') {
-      npcId = row.detail
+      idArr = row.detail.split('|')
     } else if (row.id === 'active') {
       if (row.name !== '0') {
         active = true
@@ -59,20 +59,21 @@ const readInfo = async (file, stable) => {
     }
   }
 
+  if (!idArr.length || !idArr[0]) return
+  npcId = idArr[0]
+  masterId = idArr[1]
+  const skillData = {}
   for (let row of list) {
     if (row.id === 'npc') {
-      skillMap.set(row.detail, {
+      skillMap.set(npcId, {
         stable, active,
         filename
       })
     } else if ((stable || active) && keys.includes(row.id)) {
-      skillNameMap.set(row.name, {
-        nameTrans: row.nameTrans,
-        detail: row.detail
-      })
+      skillData[row.id] = row
     }
   }
-
+  skillNameMap.set(masterId, skillData)
 }
 
 glob('local/skill/*.csv', { cwd: USER_DATA_PATH }, async (err, files) => {
