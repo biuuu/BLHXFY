@@ -16,8 +16,8 @@
     在没有开启前置代理的情况下，这个窗口的数据等于直连到游戏服务器。
     在开启前置代理的情况下，这个窗口的所有HTTP请求都会发往前置代理。
 
-### 关于翻译
-对于已经有了翻译文本 (在这里：https://github.com/biuuu/BLHXFY/tree/master/data/scenario) 的剧情，会直接替换。
+### 关于剧情翻译
+对于已经有了翻译文本 （[scenario](https://github.com/biuuu/BLHXFY/tree/master/data/scenario)） 的剧情，会直接替换。
 
 对于还没翻译文本的剧情会使用 google 翻译进行机翻。
 
@@ -30,6 +30,16 @@
 
 参考：https://github.com/biuuu/BLHXFY/tree/master/data
 
+### 关于技能翻译
+已有的人物技能：[查看](https://github.com/biuuu/BLHXFY/tree/master/data/skill)
+
+类似剧情翻译，在游戏里查看人物技能时，会在本地数据目录下的skill文件夹生成对应的 csv 文件。（游戏语言必须是日语）
+
+编辑文件内容即可替换游戏里的技能显示。注意需要把 active 行的 0 改为 1，才会让这个文件生效。改回 0 则不会替换技能显示。
+
+提交技能翻译时可以删除 active 行。
+
+另外部分节能会有强化等级，比如 + 和 ++，但翻译始终只会显示一种，所以如果技能强化后有不同的描述，建议全部写上去。
 ## Devlopment
 全局安装 yarn
 ```
