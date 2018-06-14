@@ -1,5 +1,6 @@
 const parseScenario = require('../modules/translate/scenario')
 const parseLangMsg = require('../modules/translate/langMsg')
+const parseSkill = require('../modules/translate/skill')
 const parseNewquest = require('../modules/translate/new-quest')
 const { getUserInfo, getUserName } = require('../modules/info/user')
 const { transUI } = require('../modules/translate/ui-css')
@@ -32,6 +33,7 @@ const processData = (handler, errMsg, isJson = true) => async (res, uid, pathnam
 
 const scenarioProcess = processData(parseScenario, '翻译剧情遇到问题')
 const langMsgProcess = processData(parseLangMsg, '翻译langMsg遇到问题')
+const skillProcess = processData(parseSkill, '翻译技能遇到问题')
 const newquestProcess = processData(parseNewquest, '翻译下一章弹窗遇到问题')
 
 module.exports = {
@@ -95,8 +97,7 @@ module.exports = {
       const uid = uri.search(true).uid
       if (CONFIG.transScenario && pathname.includes('scenario')) {
         result = await scenarioProcess(result, uid, pathname)
-      }
-      if (pathname.includes('/content/')) {
+      } else if (pathname.includes('/content/')) {
         if (CONFIG.transUi) {
           result = await langMsgProcess(result, uid, pathname)
         }
@@ -106,14 +107,16 @@ module.exports = {
         if (pathname === '/profile/content/setting') {
           getUserName(result, uid)
         }
-      }
-      if (pathname === '/rest/sound/btn_se') {
+      } else if (pathname === '/rest/sound/btn_se') {
         result = getUserName(result, uid, 'btn_se')
-      }
-      if (pathname === '/') {
+      } else if (pathname === '/') {
         getUserInfo(result.response.body.toString())
         if (CONFIG.transUi) {
           result = transUI(result, CONFIG)
+        }
+      } else if (pathname.includes('/npc/npc/')) {
+        if (CONFIG.transUi) {
+          result = await skillProcess(result, uid, pathname)
         }
       }
     }

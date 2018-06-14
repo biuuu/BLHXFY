@@ -16,6 +16,7 @@ const reCollectScenario = async () => {
         stable: true
       })
     }
+    state.status = 'loaded'
     return true
   }
   return false
@@ -51,6 +52,7 @@ glob('local/scenario/*.csv', { cwd: USER_DATA_PATH }, async (err, files) => {
     await Promise.all(files.map(file => {
       return readInfo(file, false)
     }))
+    state.status = 'loaded'
   } catch (err) {
     console.error(`${err.message}\n${err.stack}`)
   }

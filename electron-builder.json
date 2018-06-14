@@ -6,11 +6,12 @@
     "category": "public.app-category.utilities"
   },
   "files": [
-    "!electron-builder.json", 
-    "!electron-builder.local.json", 
-    "!userData${/*}", 
+    "!electron-builder.json",
+    "!electron-builder.local.json",
+    "!userData${/*}",
     "!.vscode${/*}",
     "!data/scenario${/*}",
+    "!data/skill${/*}",
     "!data/static${/*}"
   ],
   "asar": true,
