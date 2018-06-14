@@ -12,8 +12,9 @@ const zip = require('gulp-zip')
 const through = require('through2')
 
 const scenarioMap = {}
+const skillMap = {}
 
-const collectCsv = function() {
+const collectCsv = function(type) {
   return through.obj(function(file, encoding, callback) {
     if (file.isNull()) {
         return callback(null, file);
@@ -24,12 +25,19 @@ const collectCsv = function() {
     } else if (file.isBuffer()) {
         const str = file.contents.toString()
         const list = CSV.parse(str.replace(/^\ufeff/, ''), { header: true }).data
-        const newList = list.map(item => {
-          if (item.id === 'info') {
-            scenarioMap[item.trans] = path.relative(path.resolve(__dirname, 'data/scenario/'), file.path).replace('\\', '/')
-          }
-          return item
-        })
+        let newList = null
+        if (type === 'scenario') {
+          newList = list.map(item => {
+            if (item.id === 'info') {
+              scenarioMap[item.trans] = path.relative(path.resolve(__dirname, 'data/scenario/'), file.path).replace('\\', '/')
+            }
+            return item
+          })
+        } else if (type === 'skill') {
+          newList = list.map(item => {
+            
+          })
+        }
         const newStr = CSV.unparse(newList)
         const newBuffer = Buffer.from(newStr)
 
@@ -62,17 +70,22 @@ gulp.task('move:html', ['clean:dist'], function () {
 
 gulp.task('move:scenario', ['clean:dist'], function () {
   return gulp.src('./data/scenario/**/*.csv')
-    .pipe(collectCsv())
+    .pipe(collectCsv('scenario'))
     .pipe(gulp.dest('./dist/blhxfy/data/scenario/'))
 })
 
 gulp.task('move:skill', ['clean:dist'], function () {
-  return gulp.src('./data/scenario/**/*.csv')
+  return gulp.src('./data/skill/**/*.csv')
+    .pipe(collectCsv('skill'))
     .pipe(gulp.dest('./dist/blhxfy/data/skill/'))
 })
 
 gulp.task('scenarioMap', ['move:scenario'], function (done) {
   fs.writeJson('./dist/blhxfy/data/scenario.json', scenarioMap, done)
+})
+
+gulp.task('skillMap', ['move:skill'], function (done) {
+  fs.writeJson('./dist/blhxfy/data/skill.json', skillMap, done)
 })
 
 gulp.task('pack', ['move:static', 'move:html', 'move:normalcsv', 'move:scenario', 'scenarioMap', 'cname'], function () {

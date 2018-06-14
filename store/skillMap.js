@@ -26,28 +26,7 @@ const state = {
   skillKeys
 }
 
-const reCollectSkill = async () => {
-  const DATA_PATH = await dataPath()
-  const data = await readJson(path.resolve(DATA_PATH, 'skill.json'))
-  if (data) {
-    for (let key in data) {
-      skillMap.set(key, {
-        filename: data[key],
-        stable: true
-      })
-    }
-    state.status = 'loaded'
-    return true
-  }
-  return false
-}
-
-state.reCollectSkill = reCollectSkill
-
-const readInfo = async (file, stable) => {
-  const csvPath = stable ? path.resolve(__dirname, '../data', file) : path.resolve(USER_DATA_PATH, file)
-  const list = await readCsv(csvPath)
-  const filename = file.replace(/.*skill[\\\/](.+)/, '$1')
+const setSkillMap = (list, stable) => {
   let npcId, active, masterId
   for (let row of list) {
     if (row.id === 'npc') {
@@ -63,17 +42,40 @@ const readInfo = async (file, stable) => {
   npcId = idArr[0]
   masterId = idArr[1]
   const skillData = {}
+  const fullData = {}
   for (let row of list) {
-    if (row.id === 'npc') {
-      skillMap.set(npcId, {
-        stable, active,
-        filename
-      })
-    } else if ((stable || active) && keys.includes(row.id)) {
-      skillData[row.id] = row
+    if (stable || active) {
+      if (keys.includes(row.id)) {
+        skillData[row.id] = row
+      }
+      fullData[row.id] = row
     }
   }
-  skillNameMap.set(masterId, skillData)
+  state.skillMap.set(npcId, fullData)
+  state.skillNameMap.set(masterId, skillData)
+}
+
+const reCollectSkill = async () => {
+  const DATA_PATH = await dataPath()
+  const data = await readJson(path.resolve(DATA_PATH, 'skill.json'))
+  if (data) {
+    for (let key in data) {
+      const csvPath = path.resolve(DATA_PATH, 'skill', data[key])
+      const list = await readCsv(csvPath)
+      setSkillMap(list, true)
+    }
+    state.status = 'loaded'
+    return true
+  }
+  return false
+}
+
+state.reCollectSkill = reCollectSkill
+
+const readInfo = async (file, stable) => {
+  const csvPath = stable ? path.resolve(__dirname, '../data', file) : path.resolve(USER_DATA_PATH, file)
+  const list = await readCsv(csvPath)
+  setSkillMap(list)
 }
 
 glob('local/skill/*.csv', { cwd: USER_DATA_PATH }, async (err, files) => {

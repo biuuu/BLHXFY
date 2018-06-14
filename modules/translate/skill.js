@@ -2,7 +2,6 @@ const { readCsv, writeCsv } = require('../../utils/')
 const path = require('path')
 const { USER_DATA_PATH } = require('../../store/')
 const skillState = require('../../store/skillMap')
-const readSkill = require('../../utils/readSkill')
 const users = require('../../store/users')
 
 const { skillMap, skillKeys } = skillState
@@ -50,37 +49,33 @@ const transSkill = async (data, lang) => {
   const npcId = `${data.id}`
   const skillData = skillMap.get(npcId)
   if (skillData) {
-    const { filename, stable, active } = skillData
-    if (stable || active) {
-      const transMap = await readSkill(filename, stable)
-      keys.forEach(item => {
-        const key1 = item[0]
-        const key2 = item[1]
-        if (!data[key1]) return
-        if (data[key1].recast_interval_comment) {
-          data[key1].recast_interval_comment = data[key1]
-            .recast_interval_comment
-            .replace('ターン', '回合').replace('turns', '回合')
-            .replace('turn', '回合').replace('Cooldown:', '使用间隔:').replace('使用間隔:', '使用间隔:')
-        }
-        if (data[key1].effect_time_comment) {
-          data[key1].effect_time_comment = data[key1]
-            .effect_time_comment
-            .replace('ターン', '回合').replace('turns', '回合')
-            .replace('turn', '回合')
-        }
-        const trans = transMap.get(key2)
-        if (!trans) return
-        if (trans.name) {
-          const str = getPlusStr(data[key1].name)
-          data[key1].name = trans.name + str
-        }
-        if (trans.comment) data[key1].comment = trans.comment
-      })
-      if (data.master) {
-        const trans = transMap.get('npc')
-        if (trans && trans.name) data.master.name = trans.name
+    keys.forEach(item => {
+      const key1 = item[0]
+      const key2 = item[1]
+      if (!data[key1]) return
+      if (data[key1].recast_interval_comment) {
+        data[key1].recast_interval_comment = data[key1]
+          .recast_interval_comment
+          .replace('ターン', '回合').replace('turns', '回合')
+          .replace('turn', '回合').replace('Cooldown:', '使用间隔:').replace('使用間隔:', '使用间隔:')
       }
+      if (data[key1].effect_time_comment) {
+        data[key1].effect_time_comment = data[key1]
+          .effect_time_comment
+          .replace('ターン', '回合').replace('turns', '回合')
+          .replace('turn', '回合')
+      }
+      const trans = skillData[key2]
+      if (!trans) return
+      if (trans.name) {
+        const str = getPlusStr(data[key1].name)
+        data[key1].name = trans.name + str
+      }
+      if (trans.detail) data[key1].comment = trans.detail
+    })
+    if (data.master) {
+      const trans = skillData['npc']
+      if (trans && trans.name) data.master.name = trans.name
     }
   } else if (lang === 'jp') {
     saveSkill(data)
