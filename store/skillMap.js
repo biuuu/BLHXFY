@@ -73,7 +73,8 @@ const reCollectSkill = async () => {
 state.reCollectSkill = reCollectSkill
 
 const readInfo = async (file, stable) => {
-  const csvPath = stable ? path.resolve(__dirname, '../data', file) : path.resolve(USER_DATA_PATH, file)
+  const DATA_PATH = await dataPath()
+  const csvPath = stable ? path.resolve(DATA_PATH, file) : path.resolve(USER_DATA_PATH, file)
   const list = await readCsv(csvPath)
   setSkillMap(list)
 }

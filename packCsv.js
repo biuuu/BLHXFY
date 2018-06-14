@@ -35,7 +35,13 @@ const collectCsv = function(type) {
           })
         } else if (type === 'skill') {
           newList = list.map(item => {
-            
+            if (item.id === 'npc') {
+              const idArr = item.detail.split('|')
+              if (idArr && idArr[0]) {
+                skillMap[idArr[0]] = path.relative(path.resolve(__dirname, 'data/skill/'), file.path).replace('\\', '/')
+              }
+            }
+            return item
           })
         }
         const newStr = CSV.unparse(newList)
@@ -118,4 +124,4 @@ gulp.task('publish', ['md5'], function (done) {
   })
 })
 
-gulp.task('default', ['move:static', 'move:normalcsv', 'move:scenario', 'move:skill', 'md5', 'pack', 'scenarioMap', 'clean:dist', 'publish', 'cname']);
+gulp.task('default', ['move:static', 'move:normalcsv', 'move:scenario', 'move:skill', 'md5', 'pack', 'scenarioMap', 'skillMap', 'clean:dist', 'publish', 'cname']);
