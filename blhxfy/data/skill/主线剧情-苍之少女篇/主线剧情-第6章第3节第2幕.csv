@@ -1,0 +1,26 @@
+id,en,jp,trans
+0-chapter_name,,第6章　想いは陽炎の如く,第六章  思念如幻炎
+0-synopsis,,廃鉱の奥深くに広がる研究施設の禍々しさに<span>姬塔</span>一行は戦慄し、大公の加担していた研究とは何だったのか思案を巡らせる。,废弃矿场深处陈列着研究设施，其凶貌使<span>姬塔</span>等人战栗。一行人思考着大公参与的究竟是什研究。
+0,,そろそろ終点らしいぜ？,好像快走到头了。
+1,,"しかし、なんだぁ？　ここは。<br>
+なんの研究をしてるんだ？",不过，这里究竟怎么回事？在搞什么研究呢？
+2,,"師匠は、<br>
+これを手伝っていたの……？",师父也参与进来了吗……？
+2-sel1_txt,,<span class='scene-font-katari'>星晶の研究かな</span>,<span class='scene-font-katari'>也许是在研究星晶</span>
+2-sel2_txt,,<span class='scene-font-katari'>鉱石の研究かな</span>,<span class='scene-font-katari'>也许是在研究矿石</span>
+3,,"<span class='scene-font-place'>バルツ</span>の大公も、<br>
+帝国と同じ研究をしてたってのか？",你是说<span class='scene-font-place'>Valtz</span>的大公，和帝国在做同一研究吗？
+4,,"ありえねぇ話じゃねぇが……<br>
+……恐ろしいもんだな、<br>
+<span class='scene-font-spword'>星の民</span>の遺産が持つ魔力ってのはよ……",也不是不可能啊……<span class='scene-font-spword'>星之民</span>遗产的魔力，是真的恐怖……
+5,,"それならこんな場所で、<br>
+ひっそり研究する必要は、<br>
+なかったんじゃねぇのか？",那没必要再这种地方悄悄研究啊？
+6,,"何か、人にバレちゃ<br>
+マズイ研究をしてたのだけは、<br>
+間違いねぇだろうな……",可以肯定，这是不能公之于众的研究……
+9,,"おい！<br>
+ボーっとするんじゃねぇぜ！<br>
+魔物だ！！",喂！别呆站着了！魔兽来了！！
+info,,1,scene_cp6_q3_s20
+备注,,,ver-1: @煌月夜 2018/4/6

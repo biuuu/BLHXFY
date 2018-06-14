@@ -1,0 +1,11 @@
+id,en,jp,trans
+0-chapter_name,,第37章　森に眠る歴史,第37章  林中沉眠的历史
+0-synopsis,,<span class='scene-font-place'>ルーマシー群島</span>へと降り立ち、一行はエルステ帝国宰相フリーシアの行方を追う。一行は、まずは<span class='scene-font-place'>ルーマシー群島</span>で宰相の姿を見たという秩序の騎空団の団員の元へと向かう。,一行人降落在<span class='scene-font-place'>Lumacie群岛</span>，寻找埃尔斯特帝国宰相芙莉西雅。众人决定先去目击芙莉西雅的秩序骑空团团员那里了解情况。
+0,,<span class='scene-font-katari'>鬱蒼とした木々が生い茂る</span><br><span class='scene-font-place'>ルーマシー群島</span><span class='scene-font-katari'>へと降り立った</span><br><span class='scene-font-katari'>姬塔一行。</span>,<span class='scene-font-katari'>姬塔等人降落在</span><span class='scene-font-place'>Lumacie群岛</span><span class='scene-font-katari'>苍郁的林中。</span>
+1,,<span class='scene-font-katari'>森は以前と変わることなく、</span><br><span class='scene-font-katari'>ただ静かに一行を出迎えた。</span>,<span class='scene-font-katari'>迎接众人的依旧是幽静的森林。</span>
+2,,本当、変わらないわ……この森は。<br>それがこの島の、<br>良いところでもあるんだけどね。,一点都没变啊……这片森林。也许这就是这座岛屿的优点吧。
+3,,さて……<br>それで、どうやってここから、<br>宰相サンを探す？,那么……我们要怎么寻找宰相？
+4,,闇雲に探すには、<br>この森はちょっと広すぎるぜ……,森林这么大，肯定不能乱找……
+5,,まずは宰相殿の姿を見たという、<br>秩序の騎空団の者を探そう。,先去见那位目击宰相的秩序骑空团团员吧。
+6,,目撃者がいるのなら、<br>その本人から話を聞くのが<br>一番確実だろうからな。,既然有目击者，那么去向他了解情况是最实际的办法。
+info,,1,scene_cp37_q3_s10
