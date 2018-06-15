@@ -401,202 +401,202 @@ coopraid_117,ミッション報酬を全て受け取りました。<br>ミッシ
 coopraid_118,ステータス,Progress,进程
 coopraid_119,参加する,Join a Room,参加
 coopraid_12,編成へ,Party,编成
-coopraid_120,参加,Join,
-coopraid_121,マルチバトル撤退,Raid Battle,
-coopraid_122,マルチバトルから撤退しました。,You retreated from the raid battle.,
-coopraid_123,クエスト[%s]の有効期限が切れました,%s is no longer available.,
-coopraid_124,クエストを開始できません,Quest,
-coopraid_125,退室したプレイヤーをサポーターに<br>設定しているメンバーがいるため<br>クエストを開始できません。,One of the players who left the room was<br>loaning a summon to another member.<br>You can't start the quest.,
-coopraid_126,以下の属性キャラがパーティに<br>編成されているため、このクエストを<br>開始することが出来ません。,The following elements can't<br>be used on this quest. Edit<br>your party and try again.,
-coopraid_127,以下のキャラがパーティに<br>編成されているため、このクエストを<br>開始することが出来ません。,The following characters can't<br>be used on this quest. Edit<br>your party and try again.,
-coopraid_128,以下の指定属性以外のキャラが<br>編成されているため、このクエストを<br>開始することが出来ません。,Only the following elements<br>can be used on this quest.<br>Edit your party and try again.,
-coopraid_129,%s属性キャラ<br>,%s characters<br>,
-coopraid_13,共闘クエストデイリーミッション,Co-op Quest Daily Missions,
-coopraid_130,以下のキャラがパーティに<br>編成されていないため、このクエストを<br>開始することが出来ません。,The following characters need<br>to be used on this quest. Edit<br>your party and try again.,
-coopraid_131,以下の指定レアリティの条件を<br>満たしていないため、このクエストを<br>開始することが出来ません。,The following rarity requirements<br>aren't being met. Edit<br>your party and try again.,
-coopraid_132,以下の指定種族の条件を<br>満たしていないため、このクエストを<br>開始することが出来ません。,You can't play this quest.<br>You must include the following<br>character types:,
-coopraid_133,※初回クリア時まで<br>,(Until it's cleared once.),
+coopraid_120,参加,Join,参加
+coopraid_121,マルチバトル撤退,Raid Battle,从多人战斗中撤退
+coopraid_122,マルチバトルから撤退しました。,You retreated from the raid battle.,已从多人战斗中撤退。
+coopraid_123,クエスト[%s]の有効期限が切れました,%s is no longer available.,任务[%s]已超时
+coopraid_124,クエストを開始できません,Quest,无法开始任务
+coopraid_125,退室したプレイヤーをサポーターに<br>設定しているメンバーがいるため<br>クエストを開始できません。,One of the players who left the room was<br>loaning a summon to another member.<br>You can't start the quest.,房间内有成员选择了已退出玩家的支援召唤石，任务无法开始。
+coopraid_126,以下の属性キャラがパーティに<br>編成されているため、このクエストを<br>開始することが出来ません。,The following elements can't<br>be used on this quest. Edit<br>your party and try again.,以下属性的人物在编成中，任务无法开始。
+coopraid_127,以下のキャラがパーティに<br>編成されているため、このクエストを<br>開始することが出来ません。,The following characters can't<br>be used on this quest. Edit<br>your party and try again.,以下人物在编成中，任务无法开始。
+coopraid_128,以下の指定属性以外のキャラが<br>編成されているため、このクエストを<br>開始することが出来ません。,Only the following elements<br>can be used on this quest.<br>Edit your party and try again.,以下属性以外的人物在编成中，人物无法开始。
+coopraid_129,%s属性キャラ<br>,%s characters<br>,%s属性人物
+coopraid_13,共闘クエストデイリーミッション,Co-op Quest Daily Missions,共斗每日任务
+coopraid_130,以下のキャラがパーティに<br>編成されていないため、このクエストを<br>開始することが出来ません。,The following characters need<br>to be used on this quest. Edit<br>your party and try again.,以下人物不在编成中，任务无法开始。
+coopraid_131,以下の指定レアリティの条件を<br>満たしていないため、このクエストを<br>開始することが出来ません。,The following rarity requirements<br>aren't being met. Edit<br>your party and try again.,编成未满足以下稀有度条件，任务无法开始。
+coopraid_132,以下の指定種族の条件を<br>満たしていないため、このクエストを<br>開始することが出来ません。,You can't play this quest.<br>You must include the following<br>character types:,编成未满足以下指定种族条件，任务无法开始。
+coopraid_133,※初回クリア時まで<br>,(Until it's cleared once.),※初次通关后解除限制
 coopraid_134,&lt;開始条件&gt;,&lt;Quest&gt;,
-coopraid_135,以下のクエスト開始条件を<br>満たしていないため、このクエストを<br>開始することが出来ません。,You don't meet the<br>requirements to play<br>this quest.,
-coopraid_136,マルチバトルで使用している編成は<br>チャレンジクエストでは使用できません。,You raid quest party can't be<br>used in challenge battles.,
-coopraid_137,挑戦条件を満たしていないため、<br>クエストを開始できません。<br><br>必要Rank: %s以上,You don't have the right rank to play this quest.<br><br>Required rank: %s,
-coopraid_138,AP使用確認,AP,
-coopraid_139,APが足りません,More AP Needed,
-coopraid_14,詳細,Details,
-coopraid_140,以下の条件を満たしていないため、<br>このクエストを開始する事ができません。,,
-coopraid_141,BP,EP,
-coopraid_142,送信完了,Message,
-coopraid_143,送信完了,Stickers,
-coopraid_144,クエストが開始されていますが、<br>以下の召喚石がパーティに編成されているため<br>クエストに参加できません。<br>パーティの編成をしてから<br>クエストに参加してください。,The following summons can't<br>be used on this quest.<br>Edit your party and try again.,
-coopraid_145,開始ボタンでクエストを開始します。,Tap Start to begin.,
+coopraid_135,以下のクエスト開始条件を<br>満たしていないため、このクエストを<br>開始することが出来ません。,You don't meet the<br>requirements to play<br>this quest.,未满足以下条件，任务无法开始。
+coopraid_136,マルチバトルで使用している編成は<br>チャレンジクエストでは使用できません。,You raid quest party can't be<br>used in challenge battles.,挑战任务无法使用多人战斗编成。
+coopraid_137,挑戦条件を満たしていないため、<br>クエストを開始できません。<br><br>必要Rank: %s以上,You don't have the right rank to play this quest.<br><br>Required rank: %s,未满足挑战条件，任务无法开始。
+coopraid_138,AP使用確認,AP,AP使用确认
+coopraid_139,APが足りません,More AP Needed,AP不足
+coopraid_14,詳細,Details,详情
+coopraid_140,以下の条件を満たしていないため、<br>このクエストを開始する事ができません。,,未满足以下条件，任务无法开始。
+coopraid_141,BP,EP,BP
+coopraid_142,送信完了,Message,已发送
+coopraid_143,送信完了,Stickers,已发送
+coopraid_144,クエストが開始されていますが、<br>以下の召喚石がパーティに編成されているため<br>クエストに参加できません。<br>パーティの編成をしてから<br>クエストに参加してください。,The following summons can't<br>be used on this quest.<br>Edit your party and try again.,以下召唤石在编成中，无法参加任务。请整理编成后重试。
+coopraid_145,開始ボタンでクエストを開始します。,Tap Start to begin.,请按开始键开始任务。
 coopraid_146,Error Code: %s<br>%s,Error Code: %s<br>%s,
-coopraid_15,対象クエスト,Quests,
+coopraid_15,対象クエスト,Quests,当前任务
 coopraid_16,ルーム,Room,房间
-coopraid_17,残り %s分,Closes in %s min,
-coopraid_18,残り %s秒,Closes in %s sec,
-coopraid_19,残り %s分%s秒,Closes in %s min %s sec,
-coopraid_2,確認できるバトルはありません。,There is nothing here.,
-coopraid_20,アイテムエフェクト確認,Item Effects,
-coopraid_21,挑戦するクエストを設定してください。,Select a quest.,
-coopraid_22,サポーターを選択してください。,Select a support summon.,
-coopraid_23,サポーターを選択してください。,There are no support summons for you to select.,
-coopraid_24,ルームメンバーの準備を待ちましょう。,The other players are getting ready.,
-coopraid_25,ルームメンバーの準備が整いました。<br>開始ボタンでクエストを開始します。,Everyone is ready.<br>Tap Start to begin.,
-coopraid_26,準備が整ったら準備OKを宣言しましょう。,Tap Ready when you are ready to start the quest.,
-coopraid_27,準備OKを宣言しました。<br>クエストの開始を待ちましょう。,You have tapped Ready.<br>Now wait for the quest to start.,
-coopraid_28,クエスト確認,Quest,
-coopraid_29,最大AP不足,AP,
-coopraid_3,入力確認,Quests,
-coopraid_30,クエストを実行するためのAPが<br>現在の最大APを上回っています。<br>APはRankを上げることで<br>最大値が上昇します。,This quest requires more AP than you can have yet.<br>Raise your rank to get more AP.,
-coopraid_31,クエスト変更,Cancel Quest,
-coopraid_32,他のプレイヤーにより<br>すでにクエストが設定されています。,Another player has already chosen a quest.,
-coopraid_33,設定したクエストを変更します。<br>よろしいですか？,Change the selected quest?,
-coopraid_34,クエストを取り下げました。,The quest was cancelled.,
-coopraid_35,準備OK,,
-coopraid_36,準備OKを宣言しました。,,
-coopraid_37,準備取り下げ,Quest,
-coopraid_38,クエスト準備を取り下げます。<br>よろしいですか？,You are about to cancel this quest. Proceed?,
-coopraid_39,準備を取り下げました。,,
+coopraid_17,残り %s分,Closes in %s min,剩余 %s分
+coopraid_18,残り %s秒,Closes in %s sec,剩余 %s秒
+coopraid_19,残り %s分%s秒,Closes in %s min %s sec,剩余 %s分%s秒
+coopraid_2,確認できるバトルはありません。,There is nothing here.,无待确认结果的战斗。
+coopraid_20,アイテムエフェクト確認,Item Effects,道具效果确认
+coopraid_21,挑戦するクエストを設定してください。,Select a quest.,请选择要挑战的任务。
+coopraid_22,サポーターを選択してください。,Select a support summon.,请选择支援召唤石。
+coopraid_23,サポーターを選択してください。,There are no support summons for you to select.,请选择支援召唤石。
+coopraid_24,ルームメンバーの準備を待ちましょう。,The other players are getting ready.,请等待房间内其他玩家准备。
+coopraid_25,ルームメンバーの準備が整いました。<br>開始ボタンでクエストを開始します。,Everyone is ready.<br>Tap Start to begin.,所有玩家准备完毕。
+coopraid_26,準備が整ったら準備OKを宣言しましょう。,Tap Ready when you are ready to start the quest.,若准备完毕，请按准备OK键。
+coopraid_27,準備OKを宣言しました。<br>クエストの開始を待ちましょう。,You have tapped Ready.<br>Now wait for the quest to start.,准备OK。请等待任务开始。
+coopraid_28,クエスト確認,Quest,任务确认
+coopraid_29,最大AP不足,AP,最大AP不足
+coopraid_3,入力確認,Quests,确认输入
+coopraid_30,クエストを実行するためのAPが<br>現在の最大APを上回っています。<br>APはRankを上げることで<br>最大値が上昇します。,This quest requires more AP than you can have yet.<br>Raise your rank to get more AP.,该任务消耗的AP超过现AP最大值。AP最大值会随等级提升而增加。
+coopraid_31,クエスト変更,Cancel Quest,变更任务
+coopraid_32,他のプレイヤーにより<br>すでにクエストが設定されています。,Another player has already chosen a quest.,其他玩家已设定任务。
+coopraid_33,設定したクエストを変更します。<br>よろしいですか？,Change the selected quest?,是否变更已选择的任务？
+coopraid_34,クエストを取り下げました。,The quest was cancelled.,已取消当前任务。
+coopraid_35,準備OK,,准备OK
+coopraid_36,準備OKを宣言しました。,,准备OK。
+coopraid_37,準備取り下げ,Quest,取消准备。
+coopraid_38,クエスト準備を取り下げます。<br>よろしいですか？,You are about to cancel this quest. Proceed?,是否取消当前任务？
+coopraid_39,準備を取り下げました。,,已取消当前任务。
 coopraid_4,&lt;禁止条件&gt;,&lt;Quest&gt;,
 coopraid_40,%s…,%s...,
-coopraid_41,強制退室確認,Remove Player,
-coopraid_42,強制退室,Remove Player,
-coopraid_43,強制退室完了,Done Removing Player,
-coopraid_44,強制退室を実行しました。,The player has been removed from the room.,
-coopraid_45,このメンバーはすでに退室しています。,This player already left.,
-coopraid_46,アイテム使用確認,Use Item,
-coopraid_47,回復量が取得できません,Can't get the amount for recovery.,
-coopraid_48,アイテム使用不可,This item can't be used.,
-coopraid_49,既に全回復しているため<br>アイテムを使用できません。,All players have full health.<br>This item wasn't used.,
-coopraid_5,クエストが開始されていますが、<br>以下のキャラがパーティに編成されているため<br>クエストに参加できません。<br>パーティの編成をしてから<br>クエストに参加してください。,"The quest has started, but there <br>is a character in your party <br>that can't be used in this quest.<br>Edit your party to participate.",
-coopraid_50,アイテムを使用しました。,You used an item.,
-coopraid_51,使用上限に達しているため<br>アイテムを使用できませんでした。,You can't use any more of this item.,
-coopraid_52,すでにクエストを開始しています。<br>アイテムを使用できません。,The quest has already started.<br>This item wasn't used.,
-coopraid_53,ルームが解散しました。<br>アイテムを使用できません。,This room has been closed.<br>The item wasn't used.,
-coopraid_54,60分が経過したため、共闘クエストを終了します。<br>アイテムを使用できません。,This room's time has ended.<br>The item wasn't used.,
-coopraid_55,解散確認,Room,
-coopraid_56,ルームを解散しますか？,Close this room?,
-coopraid_57,解散,Yes,
-coopraid_58,解散完了,Room,
-coopraid_59,ルームを解散しました。,You closed this room.,
-coopraid_6,確認,Room,
-coopraid_60,退室確認,Room,
-coopraid_61,ルームから退室しますか？,Leave this room?,
-coopraid_62,退室,Yes,
-coopraid_63,退室完了,Room,
-coopraid_64,ルームから退室しました。,You left this room.,
-coopraid_65,ルームメンバー全員が<br>準備OKを宣言しているため、<br>%sできません。,You can't %s. All players are ready to start.,
-coopraid_66,チャット(スタンプ),Stickers,
-coopraid_67,コメントを入力してください。,Type a message.,
-coopraid_68,%s文字以内で入力してください。,Type a message of up to %s characters.,
-coopraid_69,チャット,Chat,
-coopraid_7,オーナーにより解散が実行された、<br>または、ルームの制限時間を超過しました。,The room leader closed the room<br>or the room's time limit was exceeded.,
-coopraid_70,削除確認,Message Board,
-coopraid_71,削除完了,Message Board,
-coopraid_72,削除しました。,Message was deleted.,
-coopraid_73,削除失敗,Message Board,
-coopraid_74,削除できませんでした。,Message can't be deleted.,
-coopraid_75,交換確認,Trade Treasure,
-coopraid_76,交換する,Trade,
-coopraid_77,交換エラー,Trade Treasure,
-coopraid_78,交換できませんでした。,Technical issues are occurring. Treasure couldn't be traded.,
-coopraid_79,%s個入手しました。,You got %s.,
-coopraid_8,オーナーの要請により<br>ルームから退室しました。,You were removed from the room.,
-coopraid_80,本日の交換個数制限　残り%s個,Only %s more available today.,
-coopraid_81,残り%s個,%s more.,
+coopraid_41,強制退室確認,Remove Player,强制退出确认
+coopraid_42,強制退室,Remove Player,强制退出
+coopraid_43,強制退室完了,Done Removing Player,强制退出成功
+coopraid_44,強制退室を実行しました。,The player has been removed from the room.,强制退出执行成功。
+coopraid_45,このメンバーはすでに退室しています。,This player already left.,该玩家已退出房间。
+coopraid_46,アイテム使用確認,Use Item,道具使用确认
+coopraid_47,回復量が取得できません,Can't get the amount for recovery.,无法回复指定量HP
+coopraid_48,アイテム使用不可,This item can't be used.,无法使用该道具
+coopraid_49,既に全回復しているため<br>アイテムを使用できません。,All players have full health.<br>This item wasn't used.,所有玩家HP已满，无法使用该道具。
+coopraid_5,クエストが開始されていますが、<br>以下のキャラがパーティに編成されているため<br>クエストに参加できません。<br>パーティの編成をしてから<br>クエストに参加してください。,"The quest has started, but there <br>is a character in your party <br>that can't be used in this quest.<br>Edit your party to participate.",以下人物在编成中，无法参加任务。请整理编成后重试。
+coopraid_50,アイテムを使用しました。,You used an item.,道具已使用
+coopraid_51,使用上限に達しているため<br>アイテムを使用できませんでした。,You can't use any more of this item.,使用次数已达上限，无法使用该道具。
+coopraid_52,すでにクエストを開始しています。<br>アイテムを使用できません。,The quest has already started.<br>This item wasn't used.,任务已开始。无法使用该道具。
+coopraid_53,ルームが解散しました。<br>アイテムを使用できません。,This room has been closed.<br>The item wasn't used.,房间已解散。无法使用该道具。
+coopraid_54,60分が経過したため、共闘クエストを終了します。<br>アイテムを使用できません。,This room's time has ended.<br>The item wasn't used.,60分钟已到，共斗任务结束。无法使用该道具。
+coopraid_55,解散確認,Room,解散确认
+coopraid_56,ルームを解散しますか？,Close this room?,是否解散房间？
+coopraid_57,解散,Yes,解散
+coopraid_58,解散完了,Room,解散成功
+coopraid_59,ルームを解散しました。,You closed this room.,房间已解散。
+coopraid_6,確認,Room,确认
+coopraid_60,退室確認,Room,退出确认
+coopraid_61,ルームから退室しますか？,Leave this room?,是否退出当前房间？
+coopraid_62,退室,Yes,退出
+coopraid_63,退室完了,Room,已退出
+coopraid_64,ルームから退室しました。,You left this room.,您已退出房间。
+coopraid_65,ルームメンバー全員が<br>準備OKを宣言しているため、<br>%sできません。,You can't %s. All players are ready to start.,所有玩家准备OK，无法%s。
+coopraid_66,チャット(スタンプ),Stickers,聊天（表情）
+coopraid_67,コメントを入力してください。,Type a message.,请输入信息。
+coopraid_68,%s文字以内で入力してください。,Type a message of up to %s characters.,请输入%s字以内的信息。
+coopraid_69,チャット,Chat,聊天
+coopraid_7,オーナーにより解散が実行された、<br>または、ルームの制限時間を超過しました。,The room leader closed the room<br>or the room's time limit was exceeded.,房主已解散房间，或房间时限已过。
+coopraid_70,削除確認,Message Board,删除确认
+coopraid_71,削除完了,Message Board,删除成功
+coopraid_72,削除しました。,Message was deleted.,已删除
+coopraid_73,削除失敗,Message Board,删除失败
+coopraid_74,削除できませんでした。,Message can't be deleted.,删除失败
+coopraid_75,交換確認,Trade Treasure,兑换确认
+coopraid_76,交換する,Trade,兑换
+coopraid_77,交換エラー,Trade Treasure,兑换错误
+coopraid_78,交換できませんでした。,Technical issues are occurring. Treasure couldn't be traded.,兑换失败。
+coopraid_79,%s個入手しました。,You got %s.,获得%s个。
+coopraid_8,オーナーの要請により<br>ルームから退室しました。,You were removed from the room.,房主已将您请出房间。
+coopraid_80,本日の交換個数制限　残り%s個,Only %s more available today.,本日兑换个数限制 剩余%s个。
+coopraid_81,残り%s個,%s more.,%s个
 coopraid_82,（所持数　%s）,(Held: %s),
-coopraid_83,アイテム詳細,Item Details,
-coopraid_84,ルーム情報確認,Room Details,
-coopraid_85,誰でもOK,Anyone,
-coopraid_86,フレンド限定,Friends Only,
-coopraid_87,騎空団員限定,Crew Members Only,
-coopraid_88,パンデモニウム,Pandemonium,
-coopraid_89,ドロップ狙い,Item Hunting,
-coopraid_9,%s<br>%s が解放されました！,%s<br>%s is unlocked!,
-coopraid_90,デイリーミッション,Daily Mission,
-coopraid_91,設定なし,None,
+coopraid_83,アイテム詳細,Item Details,道具详情
+coopraid_84,ルーム情報確認,Room Details,房间信息确认
+coopraid_85,誰でもOK,Anyone,所有玩家
+coopraid_86,フレンド限定,Friends Only,仅好友
+coopraid_87,騎空団員限定,Crew Members Only,仅骑空团员
+coopraid_88,パンデモニウム,Pandemonium,万魔殿
+coopraid_89,ドロップ狙い,Item Hunting,掉宝
+coopraid_9,%s<br>%s が解放されました！,%s<br>%s is unlocked!,%s<br>%s已解放！
+coopraid_90,デイリーミッション,Daily Mission,每日任务
+coopraid_91,設定なし,None,暂无设定
 coopraid_92,[グラブル]共闘クエスト参加者募集！\nルームID：%s\n募集対象・目的：%s\n%s\n%s,I need people to fight with me in co-op quests! The room code is %s and the room type is %s. %s,
-coopraid_93,パソコンからのご利用について,Play on a Computer,
+coopraid_93,パソコンからのご利用について,Play on a Computer,关于电脑端使用的说明
 coopraid_94,Twitter投稿,Post to Twitter,
-coopraid_95,Twitter連携,Link Twitter Account,
-coopraid_96,Twitterに投稿しました。,The tweet was posted to Twitter.,
-coopraid_97,送信完了,Post to Twitter,
-coopraid_98,Twitterに投稿することでAP・BPが回復します。,Post to Twitter to recover AP and EP.,
-coopraid_99,投稿によるAP・BPの回復は、1日1回までとなります。<br>回数制限は毎朝AM5:00にリセットされます。,You can post to Twitter to restore AP and EP<br>once daily from 5 a.m. (JST).,
+coopraid_95,Twitter連携,Link Twitter Account,Twitter绑定
+coopraid_96,Twitterに投稿しました。,The tweet was posted to Twitter.,已分享至Twitter
+coopraid_97,送信完了,Post to Twitter,已分享
+coopraid_98,Twitterに投稿することでAP・BPが回復します。,Post to Twitter to recover AP and EP.,分享至推特可回复AP与BP。
+coopraid_99,投稿によるAP・BPの回復は、1日1回までとなります。<br>回数制限は毎朝AM5:00にリセットされます。,You can post to Twitter to restore AP and EP<br>once daily from 5 a.m. (JST).,推特分享回复AP·BP一日仅限一次。<br>每日AM5：00（GMT+9）重置。
 coopraid_index_pop_1,ルーム作成,Create a Room,创建房间
 coopraid_pop_title_1,CAUTION!,Quest,
-coopraid_pop_treasureraid_1,残り%s回挑戦できます。,This quest can be played %s more time.,
-coopraid_pop_treasureraid_2,%sへの挑戦,%s,
-coopraid_pop_treasureraid_3,マルチバトル撤退,Raid Battle,
-coopraid_pop_treasureraid_4,マルチバトルから撤退しました。,You retreated from the raid battle.,
-coopraid_search_room_1,絞り込んで表示する,Filter Room Posts,
-coupon_mcdonalds_title,キャンペーンについて,キャンペーンについて,
-datail_pushed_npc_1,推しキャラ設定,Star Character Settings,
-datail_pushed_npc_2,推しキャラ入れ替え,Change,
-datail_pushed_npc_3,推しキャラ設定の解除・入れ替えが<br>現在制限されています。<br>%sまで<br>解除・入れ替えをすることができません。,You can't star or unstar characters until %s.,
-datail_pushed_npc_4,推しキャラの設定を解除しました。,Character has been unstarred.,
-datail_pushed_npc_5,推しキャラ,Star Character,
-datail_pushed_npc_6,推しキャラ選択,Star Character,
-datail_pushed_npc_7,プロフィールに戻る,Profile,
+coopraid_pop_treasureraid_1,残り%s回挑戦できます。,This quest can be played %s more time.,还能挑战%s次。
+coopraid_pop_treasureraid_2,%sへの挑戦,%s,挑战%s
+coopraid_pop_treasureraid_3,マルチバトル撤退,Raid Battle,从多人战斗撤退
+coopraid_pop_treasureraid_4,マルチバトルから撤退しました。,You retreated from the raid battle.,已从多人战斗中撤退。
+coopraid_search_room_1,絞り込んで表示する,Filter Room Posts,筛选
+coupon_mcdonalds_title,キャンペーンについて,キャンペーンについて,关于活动
+datail_pushed_npc_1,推しキャラ設定,Star Character Settings,设定推荐人物
+datail_pushed_npc_2,推しキャラ入れ替え,Change,更换推荐人物
+datail_pushed_npc_3,推しキャラ設定の解除・入れ替えが<br>現在制限されています。<br>%sまで<br>解除・入れ替えをすることができません。,You can't star or unstar characters until %s.,您在%s前无法解除·更换推荐人物。
+datail_pushed_npc_4,推しキャラの設定を解除しました。,Character has been unstarred.,已解除推荐人物
+datail_pushed_npc_5,推しキャラ,Star Character,推荐人物
+datail_pushed_npc_6,推しキャラ選択,Star Character,选择推荐人物
+datail_pushed_npc_7,プロフィールに戻る,Profile,返回个人资料
 datail_to_npc_zenith_1,能力強化,Use Points,
 deal_1,,"%s1 scored <span class=""user-score"">%s2</span>.",
-deal_10,,Item Details,
-deal_11,,New Loot,
-deal_12,,Got Loot,
-deal_13,,Discard,
-deal_14,,Weapons,
-deal_15,,Share Chest,
-deal_16,,Are you sure you want to discard this weapon?,
-deal_17,,Share Chest,
-deal_18,,Share Chests,
-deal_19,,Share Chests,
-deal_2,,The share chest item has already been awarded.,
-deal_20,,Expired share chest battles have been removed from this list.,
-deal_3,,You've already picked a share chest.,
-deal_4,,Charge Attack:,
-deal_5,,Skill,
-deal_6,,Call,
-deal_7,,Aura,
-deal_8,,Pick a Chest,
-deal_9,,You earned a share chest item!,
-deal_rock_popup,未完了のディールまたは<br>ディール対象バトルが5件あるため<br>このバトルを開始することが出来ません。,,
+deal_10,,Item Details,道具详情
+deal_11,,New Loot,获得新道具
+deal_12,,Got Loot,已获得道具
+deal_13,,Discard,放弃
+deal_14,,Weapons,武器
+deal_15,,Share Chest,战利品
+deal_16,,Are you sure you want to discard this weapon?,是否放弃该武器？
+deal_17,,Share Chest,战利品
+deal_18,,Share Chests,战利品
+deal_19,,Share Chests,战利品
+deal_2,,The share chest item has already been awarded.,其他玩家已获得该战利品。
+deal_20,,Expired share chest battles have been removed from this list.,已删除失效战利品。
+deal_3,,You've already picked a share chest.,您已经选择过战利品。
+deal_4,,Charge Attack:,奥义
+deal_5,,Skill,技能
+deal_6,,Call,召唤石
+deal_7,,Aura,加护
+deal_8,,Pick a Chest,请选择想要的战利品
+deal_9,,You earned a share chest item!,您获得一件战利品！
+deal_rock_popup,未完了のディールまたは<br>ディール対象バトルが5件あるため<br>このバトルを開始することが出来ません。,,您还有未结束的蓝箱分配，或您还有5场掉落蓝箱的战斗未结束，无法开始当前战斗。
 deal_rock_popup_1,CAUTION!,Unable to Proceed,
-deal_rock_popup_2,未完了のディールまたは<br>ディール対象バトルが5件あるため<br>このバトルを開始することができません。,You can't start this battle. There are five unopened share chests or pending battles with share chests.,
-detail_1,強化する,Upgrade,
-detail_10,ボーナスリセット完了,Bonuses,
-detail_11,エレメント化,Reduce,
-detail_12,アイテム詳細,Item Details,
+deal_rock_popup_2,未完了のディールまたは<br>ディール対象バトルが5件あるため<br>このバトルを開始することができません。,You can't start this battle. There are five unopened share chests or pending battles with share chests.,您还有未结束的蓝箱分配，或您还有5场掉落蓝箱的战斗未结束，无法开始当前战斗。
+detail_1,強化する,Upgrade,强化
+detail_10,ボーナスリセット完了,Bonuses,重置技能点
+detail_11,エレメント化,Reduce,拆解
+detail_12,アイテム詳細,Item Details,道具详情
 detail_13,武器,weapon,武器
 detail_14,召喚石,summon,召唤石
-detail_15,エレメント化確認,Reduce,
-detail_16,エレメント化結果,Reduce,
-detail_17,アイテム獲得,Items,
-detail_18,リスト,Inventory,
-detail_19,リストに戻る,Inventory,
-detail_2,上限解放する,Uncap,
-detail_20,売却確認,Sell,
-detail_21,売却,Sell,
-detail_22,売却結果,Sell,
-detail_23,移動先倉庫選択,Stash,
-detail_24,選択した倉庫内がいっぱいのため<br>移動できません。,The stash you selected is full. Select another one.,
-detail_25,移動完了,Stash,
-detail_26,武器強化に戻る,Weapons Upgrade,
-detail_27,武器製作に戻る,Weapons Upgrade,
+detail_15,エレメント化確認,Reduce,确认拆解
+detail_16,エレメント化結果,Reduce,拆解结果
+detail_17,アイテム獲得,Items,获得道具
+detail_18,リスト,Inventory,列表
+detail_19,リストに戻る,Inventory,返回列表
+detail_2,上限解放する,Uncap,上限解放
+detail_20,売却確認,Sell,确认售出
+detail_21,売却,Sell,售出
+detail_22,売却結果,Sell,售出结果
+detail_23,移動先倉庫選択,Stash,选择目标仓库
+detail_24,選択した倉庫内がいっぱいのため<br>移動できません。,The stash you selected is full. Select another one.,该仓库已满，转移失败。
+detail_25,移動完了,Stash,转移成功
+detail_26,武器強化に戻る,Weapons Upgrade,返回武器强化
+detail_27,武器製作に戻る,Weapons Upgrade,返回武器制作
 detail_28,特殊武器,Weapon Series,
 detail_29,編成,Party,编成
-detail_3,保護設定,Favorite,
-detail_30,召喚石一覧に戻る,Summons,
-detail_31,キャンセル,Cancel,
-detail_32,装備する,Select,
-detail_33,メイン召喚石には除外中の<br>召喚石を設定することができません。<br><br>除外設定を解除して装備しました。,A summon can't be equipped as<br>a main summon while it is excluded<br>from auto select. It is now included.,
-detail_34,武器詳細,Weapons,
-detail_35,召喚石詳細,Summons,
-detail_36,キャラ詳細,Details,
-detail_37,プロフィールに戻る,Profile,
-detail_38,アイテム獲得,Items,
-detail_39,武器強化,Weapons Upgrade,
-detail_4,%s<br>保護しました。<br><br>保護を解除するまで<br>売却や強化素材にすることができません。,%s<br>has been favorited. It can't be sold<br>or absorbed until it is unfavorited.,
-detail_40,武器強化TOPに戻る,Weapons Upgrade,
+detail_3,保護設定,Favorite,保护设定
+detail_30,召喚石一覧に戻る,Summons,返回召唤石一览
+detail_31,キャンセル,Cancel,取消
+detail_32,装備する,Select,装备
+detail_33,メイン召喚石には除外中の<br>召喚石を設定することができません。<br><br>除外設定を解除して装備しました。,A summon can't be equipped as<br>a main summon while it is excluded<br>from auto select. It is now included.,自动编成时设为忽略的召唤石无法设为主召唤。请取消忽略后重试。
+detail_34,武器詳細,Weapons,武器详情
+detail_35,召喚石詳細,Summons,召唤石详情
+detail_36,キャラ詳細,Details,人物详情
+detail_37,プロフィールに戻る,Profile,返回个人资料
+detail_38,アイテム獲得,Items,获得道具
+detail_39,武器強化,Weapons Upgrade,武器强化
+detail_4,%s<br>保護しました。<br><br>保護を解除するまで<br>売却や強化素材にすることができません。,%s<br>has been favorited. It can't be sold<br>or absorbed until it is unfavorited.,已保护%s。在取消保护前无法作为强化素材使用。
+detail_40,武器強化TOPに戻る,Weapons Upgrade,返回武器强化TOP
 detail_41,召喚石強化,Summons Upgrade,召唤石强化
 detail_42,召喚石強化TOPに戻る,Summons Upgrade,
 detail_43,キャラ強化,Character Upgrade,角色强化
