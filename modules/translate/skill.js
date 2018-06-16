@@ -8,14 +8,14 @@ const { skillMap, skillKeys } = skillState
 const keys = skillKeys
 
 const saveSkill = async (data) => {
-  if (!data || !data.id || !data.master || !data.master.name || !data.master.id) return
-  const name = `${data.master.evo_name || data.master.name}-${data.id}.csv`
+  if (!data || !data.master || !data.master.name || !data.master.id) return
+  const name = `${data.master.evo_name || data.master.name}-${data.master.id}.csv`
   const list = []
   const FILE_PATH = path.resolve(USER_DATA_PATH, 'local/skill/', name)
   list.push({
     id: 'npc',
     name: data.master.name,
-    detail: `${data.id}|${data.master.id}`
+    detail: `${data.master.id}`
   })
 
   keys.forEach(key => {
@@ -45,8 +45,8 @@ const getPlusStr = (str) => {
 }
 
 const transSkill = async (data, lang) => {
-  if (skillState.status !== 'loaded' || !data.id) return data
-  const npcId = `${data.id}`
+  if (skillState.status !== 'loaded' || !data.master || !data.master.id) return data
+  const npcId = `${data.master.id}`
   const skillData = skillMap.get(npcId)
   if (skillData) {
     keys.forEach(item => {

@@ -5,6 +5,7 @@ const { getPackname, USER_DATA_PATH } = require('../store/')
 const path = require('path')
 const fs = require('fs-extra')
 const { getData, readNoun, readMsg } = require('../store/nameMap')
+const { reCollectSkill } = require('../store/skillMap')
 const { reCollectScenario } = require('../store/scenarioState')
 const { reCollectFiles } = require('../store/staticMap')
 const DecompressZip = require('decompress-zip')
@@ -44,6 +45,7 @@ const reCollectData = (packname) => {
     readMsg()
     reCollectScenario()
     reCollectFiles()
+    reCollectSkill()
   })
 }
 
