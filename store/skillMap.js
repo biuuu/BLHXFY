@@ -3,6 +3,8 @@ const path = require('path')
 const { readCsv, readJson } = require('../utils/')
 const chokidar = require('chokidar')
 const { USER_DATA_PATH, dataPath } = require('./index')
+const fse = require('fs-extra')
+const { debounce } = require('lodash')
 
 const skillMap = new Map()
 const skillNameMap = new Map()
@@ -27,7 +29,7 @@ const state = {
 }
 
 const setSkillMap = (list, stable) => {
-  let npcId, active, masterId
+  let npcId, active, idArr
   for (let row of list) {
     if (row.id === 'npc') {
       idArr = row.detail.split('|')
@@ -39,8 +41,7 @@ const setSkillMap = (list, stable) => {
   }
 
   if (!idArr.length || !idArr[0]) return
-  npcId = idArr[0]
-  masterId = idArr[1]
+  npcId = idArr[1] || idArr[0]
   const skillData = {}
   const fullData = {}
   for (let row of list) {
@@ -52,7 +53,7 @@ const setSkillMap = (list, stable) => {
     }
   }
   state.skillMap.set(npcId, fullData)
-  state.skillNameMap.set(masterId, skillData)
+  state.skillNameMap.set(npcId, skillData)
 }
 
 const reCollectSkill = async () => {
@@ -103,14 +104,18 @@ glob('local/skill/*.csv', { cwd: USER_DATA_PATH }, async (err, files) => {
   }
 })
 
+fse.ensureDirSync(path.resolve(USER_DATA_PATH, 'local/skill/'))
+
+const deReadInfo = debounce(readInfo, 500)
+
 setTimeout(() => {
   chokidar.watch('local/skill/*.csv', {
     cwd: USER_DATA_PATH,
     ignoreInitial: true
   }).on('add', file => {
-    readInfo(file)
+    deReadInfo(file)
   }).on('change', file => {
-    readInfo(file)
+    deReadInfo(file)
   }).on('unlink', file => {
     const filename = path.basename(file, '.csv')
     const key = filename.match(/.+-(\d+)$/)
