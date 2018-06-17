@@ -203,7 +203,7 @@ archaic_seraphic_17,一括外し確認,,卸下装备确认
 archaic_seraphic_18,全ての編成から装備を外します。<br>よろしいですか？,,确定从所有编成中卸下该装备吗？
 archaic_seraphic_19,一括外し,,一键卸下装备
 archaic_seraphic_2,セラフィックウェポン一覧,,天司武器一览
-archaic_seraphic_20,武器リストの所持数が最大に達しているため、武器の製作ができません。所持数に空きを作ることで製作できるようになります。,,武器数量已满，无法获得新召唤石。请整理后重试。
+archaic_seraphic_20,武器リストの所持数が最大に達しているため、武器の製作ができません。所持数に空きを作ることで製作できるようになります。,,武器数量已满，无法获得新武器。请整理后重试。
 archaic_seraphic_3,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、%sができません。,,基础武器未满足条件，或素材不足，%s失败。
 archaic_seraphic_4,アイテム詳細,,道具详情
 archaic_seraphic_5,製作,,制作
@@ -598,205 +598,205 @@ detail_39,武器強化,Weapons Upgrade,武器强化
 detail_4,%s<br>保護しました。<br><br>保護を解除するまで<br>売却や強化素材にすることができません。,%s<br>has been favorited. It can't be sold<br>or absorbed until it is unfavorited.,已保护%s。在取消保护前无法作为强化素材使用。
 detail_40,武器強化TOPに戻る,Weapons Upgrade,返回武器强化TOP
 detail_41,召喚石強化,Summons Upgrade,召唤石强化
-detail_42,召喚石強化TOPに戻る,Summons Upgrade,
-detail_43,キャラ強化,Character Upgrade,角色强化
-detail_44,キャラ強化TOPに戻る,Character Upgrade,
+detail_42,召喚石強化TOPに戻る,Summons Upgrade,返回召唤石强化首页
+detail_43,キャラ強化,Character Upgrade,人物强化
+detail_44,キャラ強化TOPに戻る,Character Upgrade,返回人物强化首页
 detail_45,武器上限解放,Uncap Weapon Level,武器上限解放
-detail_46,武器上限解放TOPに戻る,Uncap Weapon Level,
+detail_46,武器上限解放TOPに戻る,Uncap Weapon Level,返回武器上限解放首页
 detail_47,召喚石上限解放,Uncap Summon Level,召唤石上限解放
-detail_48,召喚石上限解放TOPに戻る,Uncap Summon Level,
+detail_48,召喚石上限解放TOPに戻る,Uncap Summon Level,返回召唤石上限解放首页
 detail_49,キャラ上限解放,Character Level Cap,角色上限解放
-detail_5,保護解除,Favorite,
-detail_50,キャラ上限解放TOPに戻る,Uncap Character Level,
-detail_51,固定召喚石,Support Summon,
-detail_52,固定召喚石選択,Select Support Summon,
-detail_53,設定する,Select,
-detail_54,設定を外す,Remove,
-detail_55,召喚石入れ替え,Change,
-detail_56,召喚石設定,Support Summon,
-detail_57,編成TOPに戻る,Party,
-detail_58,武器一覧に戻る,Weapons,
-detail_59,武器装備,Auto Select,
-detail_6,%s<br>保護を解除しました。<br><br>売却や強化素材に使用することができます。,%s<br>has been unfavorited. It can be sold or absorbed.,
-detail_60,キャラ一覧に戻る,Characters,
-detail_61,編成する,Select,
-detail_62,倉庫,Stash,
-detail_63,倉庫に戻る,Stash,
-detail_64,%sに戻る,%s,
-detail_65,リストに戻す,Return to Inventory,
-detail_66,倉庫へ移動しました,Moved to storage.,
-detail_67,リストへ移動しました,Moved to Inventory.,
-detail_68,武器移動,Move Weapon,
-detail_69,召喚石移動,Move Summon,
+detail_5,保護解除,Favorite,取消保护
+detail_50,キャラ上限解放TOPに戻る,Uncap Character Level,返回角色上限解放首页
+detail_51,固定召喚石,Support Summon,固定召唤石
+detail_52,固定召喚石選択,Select Support Summon,选择固定召唤石
+detail_53,設定する,Select,设定
+detail_54,設定を外す,Remove,解除设定
+detail_55,召喚石入れ替え,Change,更换召唤石
+detail_56,召喚石設定,Support Summon,召唤石设定
+detail_57,編成TOPに戻る,Party,返回编成首页
+detail_58,武器一覧に戻る,Weapons,返回武器一览
+detail_59,武器装備,Auto Select,武器装备
+detail_6,%s<br>保護を解除しました。<br><br>売却や強化素材に使用することができます。,%s<br>has been unfavorited. It can be sold or absorbed.,%s的保护已取消。可以售出或选为强化素材。
+detail_60,キャラ一覧に戻る,Characters,返回人物一览
+detail_61,編成する,Select,编成
+detail_62,倉庫,Stash,仓库
+detail_63,倉庫に戻る,Stash,返回仓库
+detail_64,%sに戻る,%s,返回%s
+detail_65,リストに戻す,Return to Inventory,返回列表
+detail_66,倉庫へ移動しました,Moved to storage.,已转移至仓库
+detail_67,リストへ移動しました,Moved to Inventory.,已转移至列表
+detail_68,武器移動,Move Weapon,转移武器
+detail_69,召喚石移動,Move Summon,转移召唤石
 detail_7,注意,Notes,
 detail_70,バレット確認,Bullet Casting,
-detail_71,装備外し確認,Unequip,
-detail_72,装備外し,Unequip,
-detail_73,装備を外しました。,This item was unequipped.,
+detail_71,装備外し確認,Unequip,解除装备确认
+detail_72,装備外し,Unequip,解除装备
+detail_73,装備を外しました。,This item was unequipped.,解除装备成功
 detail_74,メッセージ選択,View Message,
-detail_75,%s<br>保護しました。,%s<br>has been favorited.,
-detail_76,%s<br>保護を解除しました。,%s<br>has been unfavorited.,
-detail_77,所持ルピ　<span class='txt-held-lupi'>%s</span>ルピ,Held: <span class='txt-held-lupi'>%s</span> rupie,
-detail_78,確認,Change Skill,
-detail_79,一括外し確認,Unequip all,
-detail_8,ボーナスリセット確認,Bonuses,
-detail_80,全ての編成から装備を外します。<br>よろしいですか？,This item will be unequipped from all parties.,
-detail_81,一括外し,Unequip all,
-detail_82,装備を外しました。,This item was unequipped.,
-detail_83,スキル変更,Change Skill,
-detail_84,スキル変更確認,Change Skill,
-detail_85,スキル変更完了,Change Skill,
-detail_86,アイテム使用最終確認,Change Skill,
-detail_87,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外しますか？,This weapon is currently favorited.<br><br>Unfavorite it and try again?,
-detail_9,交換する,Trade,
+detail_75,%s<br>保護しました。,%s<br>has been favorited.,已保护<br>%s。
+detail_76,%s<br>保護を解除しました。,%s<br>has been unfavorited.,已取消保护<br>%s。
+detail_77,所持ルピ　<span class='txt-held-lupi'>%s</span>ルピ,Held: <span class='txt-held-lupi'>%s</span> rupie,所持卢比　<span class='txt-held-lupi'>%s</span>卢比
+detail_78,確認,Change Skill,确认
+detail_79,一括外し確認,Unequip all,卸下装备确认
+detail_8,ボーナスリセット確認,Bonuses,重置点数
+detail_80,全ての編成から装備を外します。<br>よろしいですか？,This item will be unequipped from all parties.,确定从所有编成中卸下该装备吗？
+detail_81,一括外し,Unequip all,一键卸下装备
+detail_82,装備を外しました。,This item was unequipped.,已卸下当前装备
+detail_83,スキル変更,Change Skill,变更技能
+detail_84,スキル変更確認,Change Skill,变更技能确认
+detail_85,スキル変更完了,Change Skill,变更技能成功
+detail_86,アイテム使用最終確認,Change Skill,使用道具最终确认
+detail_87,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外しますか？,This weapon is currently favorited.<br><br>Unfavorite it and try again?,该武器已被保护，无法选择。<br><br>是否取消保护？
+detail_9,交換する,Trade,兑换
 detail_common_1,装備,Equip,装备
 detail_common_2,武器,Weapons,武器
 detail_common_3,召喚石,Summons,召唤石
 detail_common_4,編成,Party,编成
 detail_common_5,キャラ,Characters,角色
-detail_common_6,該当の%sが存在しません。,There are no items that match %s.,
-detail_common_7,%s中のため<br>除外することができません。,The item couldn't be excluded because it may be equipped or favorited.,
-detail_common_8,予期しないエラーにより<br>除外することができませんでした。,This item couldn't be excluded<br>because there was an unexpected error.,
-detail_common_9,予期しないエラーにより<br>編成対象に含めることが<br>できませんでした。,This item couldn't be included in auto select<br>because there was an unexpected error.,
-detail_decompose_1,ルピ," rupie",
-detail_decompose_2,%sルピ,%s rupie,
-detail_fate_pop,フェイトエピソード,Fate Episodes,
-detail_fate_pop_2,フェイトエピソード解放条件,Fate Episodes,
-end_1,イベント終了,,
-end_8,台詞集,,
-end_9,台詞集では、<br>イベントストーリーをクリアしていると<br>イベントTOPで表示されていた<br>キャラクター、台詞、音声を楽しむことができます。,,
-enhancement_abstract_11,SSレア,SSR,
-enhancement_abstract_12,Sレア,SR,
-enhancement_abstract_13,レア,R,
-enhancement_abstract_14,素材確認,Upgrade,
-enhancement_abstract_15,強化結果,Congratulations!,
-enhancement_caution_1,%sの武器が含まれています！,An %s weapon will be absorbed.,
-enhancement_material_detail_1,素材詳細,Details,
+detail_common_6,該当の%sが存在しません。,There are no items that match %s.,不存在符合条件的%s。
+detail_common_7,%s中のため<br>除外することができません。,The item couldn't be excluded because it may be equipped or favorited.,该装备在%s中，无法在自动装备时跳过该装备。
+detail_common_8,予期しないエラーにより<br>除外することができませんでした。,This item couldn't be excluded<br>because there was an unexpected error.,发生未知错误，操作失败。
+detail_common_9,予期しないエラーにより<br>編成対象に含めることが<br>できませんでした。,This item couldn't be included in auto select<br>because there was an unexpected error.,发生未知错误，操作失败。
+detail_decompose_1,ルピ," rupie",卢比
+detail_decompose_2,%sルピ,%s rupie,%s卢比
+detail_fate_pop,フェイトエピソード,Fate Episodes,人物剧情
+detail_fate_pop_2,フェイトエピソード解放条件,Fate Episodes,人物剧情解放条件
+end_1,イベント終了,,活动结束
+end_8,台詞集,,台词集
+end_9,台詞集では、<br>イベントストーリーをクリアしていると<br>イベントTOPで表示されていた<br>キャラクター、台詞、音声を楽しむことができます。,,若您已经通关全部活动剧情，您可以在台词集中回放活动主页显示的人物、台词、配音。
+enhancement_abstract_11,SSレア,SSR,SSR
+enhancement_abstract_12,Sレア,SR,SR
+enhancement_abstract_13,レア,R,R
+enhancement_abstract_14,素材確認,Upgrade,素材确认
+enhancement_abstract_15,強化結果,Congratulations!,强化结果
+enhancement_caution_1,%sの武器が含まれています！,An %s weapon will be absorbed.,素材中含有%s武器！
+enhancement_material_detail_1,素材詳細,Details,素材详情
 enhancement_npc_1,キャラ強化,Character Upgrade,角色强化
-enhancement_npc_10,おすすめ一括強化設定,Auto Select,
-enhancement_npc_11,戦,PWR,
+enhancement_npc_10,おすすめ一括強化設定,Auto Select,推荐素材设定
+enhancement_npc_11,戦,PWR,战
 enhancement_npc_12,攻,ATK,
 enhancement_npc_13,Lv,Lvl,
 enhancement_npc_14,H,HP,
 enhancement_npc_15,Class,EM Lvl,
-enhancement_npc_2,アビリティ覚醒,Skill Enhanced,
-enhancement_npc_3,サポートアビリティ獲得,Support Skill Unlocked,
-enhancement_npc_4,アビリティ習得,Skill Unlocked,
-enhancement_npc_6,武器、召喚石の各素材と育成アイテムは<br>同時に選択することはできません。,Power-up items can't be absorbed at the<br>same time as summons or weapons.,
-enhancement_npc_7,すでに素材が選択されています,Upgrade,
-enhancement_npc_8,おすすめ強化,Auto Select,
-enhancement_npc_9,おすすめ素材がありません。,There are no matching absorbable materials.,
+enhancement_npc_2,アビリティ覚醒,Skill Enhanced,技能觉醒
+enhancement_npc_3,サポートアビリティ獲得,Support Skill Unlocked,习得辅助技能
+enhancement_npc_4,アビリティ習得,Skill Unlocked,习得技能
+enhancement_npc_6,武器、召喚石の各素材と育成アイテムは<br>同時に選択することはできません。,Power-up items can't be absorbed at the<br>same time as summons or weapons.,武器、召唤石素材与经验道具无法同时使用。
+enhancement_npc_7,すでに素材が選択されています,Upgrade,您已选择强化素材
+enhancement_npc_8,おすすめ強化,Auto Select,一键强化
+enhancement_npc_9,おすすめ素材がありません。,There are no matching absorbable materials.,无指定推荐素材
 enhancement_summon_1,召喚石強化,Summons Upgrade,召唤石强化
 enhancement_summon_10,Lv,Lvl,
 enhancement_summon_11,H,HP,
-enhancement_summon_2,倉庫に戻る,Stash,
-enhancement_summon_3,武器、召喚石の各素材と育成アイテムは<br>同時に選択することはできません。,Power-up items can't be absorbed at the<br>same time as summons or weapons.,
+enhancement_summon_2,倉庫に戻る,Stash,返回仓库
+enhancement_summon_3,武器、召喚石の各素材と育成アイテムは<br>同時に選択することはできません。,Power-up items can't be absorbed at the<br>same time as summons or weapons.,武器、召唤石素材与经验道具无法同时使用。
 enhancement_summon_4,すでに素材が選択されています,Upgrade,
-enhancement_summon_5,おすすめ強化,Auto Select,
-enhancement_summon_6,おすすめ素材がありません。,There are no matching absorbable materials.,
-enhancement_summon_7,おすすめ一括強化設定,Auto Select,
-enhancement_summon_8,戦,PWR,
+enhancement_summon_5,おすすめ強化,Auto Select,您已选择强化素材
+enhancement_summon_6,おすすめ素材がありません。,There are no matching absorbable materials.,无指定推荐素材
+enhancement_summon_7,おすすめ一括強化設定,Auto Select,推荐素材设定
+enhancement_summon_8,戦,PWR,战
 enhancement_summon_9,攻,ATK,
-enhancement_weapon_1,武器強化,Weapons Upgrade,
-enhancement_weapon_10,戦,PWR,
+enhancement_weapon_1,武器強化,Weapons Upgrade,武器强化
+enhancement_weapon_10,戦,PWR,战
 enhancement_weapon_11,攻,ATK,
 enhancement_weapon_12,Lv,Lvl,
 enhancement_weapon_13,H,HP,
-enhancement_weapon_14,アイテム使用,Use Item,
+enhancement_weapon_14,アイテム使用,Use Item,使用道具
 enhancement_weapon_15,武器選択,Weapon Select,武器选择
-enhancement_weapon_16,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,This weapon is currently favorited.<br>Unfavorite it and try again.,
-enhancement_weapon_17,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,This weapon is currently eqipped.<br>Unequip it and try again.,
-enhancement_weapon_18,スキル追加確認,Add Skill,
-enhancement_weapon_19,一度スキル追加したら戻すことはできませんできません。がよろしいですか,一度スキル追加したら戻すことはできませんできません。がよろしいですか,
-enhancement_weapon_2,倉庫に戻る,Stash,
-enhancement_weapon_20,スキル追加完了,Add Skill,
-enhancement_weapon_21,一括外し,Unequip all,
-enhancement_weapon_22,武器リストの所持数が最大に達しているため、武器の製作ができません。所持数に空きを作ることで製作できるようになります。,"You can't hold any more weapons. Make space in your inventory, then forge this weapon.",
-enhancement_weapon_23,アイテム使用最終確認,Use Item,
-enhancement_weapon_24,※武器Lv、スキルLvは引き継がれます<br>※スキル追加後、元に戻すことはできません,Weapon lvl and skill lvl will carry over.<br>Adding a skill can't be undone.,
-enhancement_weapon_25,一括外し確認,Unequip all,
-enhancement_weapon_26,全ての編成から装備を外します。<br>よろしいですか？,This item will be unequipped from all parties.,
-enhancement_weapon_27,一括外し,Unequip all,
-enhancement_weapon_28,装備を外しました。,This item was unequipped.,
-enhancement_weapon_29,アイテム使用確認,Use Item,
-enhancement_weapon_3,武器スキル習得,Weapon Skill Unlocked,
-enhancement_weapon_30,スキル変更確認,Change Skill,
-enhancement_weapon_31,スキル変更完了,Change Skill,
-enhancement_weapon_4,武器スキル覚醒,Weapon Skill Enhanced,
-enhancement_weapon_5,武器、召喚石の各素材と育成アイテムは<br>同時に選択することはできません。,Power-up items can't be absorbed at the<br>same time as summons or weapons.,
-enhancement_weapon_6,すでに素材が選択されています,Upgrade,
-enhancement_weapon_7,おすすめ強化,Auto Select,
-enhancement_weapon_8,おすすめ素材がありません。,There are no matching absorbable materials.,
-enhancement_weapon_9,おすすめ一括強化設定,Auto Select,
-enhancement_weapon_open_fate_1,クエスト解放,Quest Unlocked!,
+enhancement_weapon_16,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,This weapon is currently favorited.<br>Unfavorite it and try again.,该武器已被保护，无法选择。请取消保护后重试。
+enhancement_weapon_17,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,This weapon is currently eqipped.<br>Unequip it and try again.,该武器在编成中，无法选择。请解除装备后重试。
+enhancement_weapon_18,スキル追加確認,Add Skill,添加技能确认
+enhancement_weapon_19,一度スキル追加したら戻すことはできませんできません。がよろしいですか,一度スキル追加したら戻すことはできませんできません。がよろしいですか,技能添加后无法还原。确认添加技能吗？技能添加后无法还原。
+enhancement_weapon_2,倉庫に戻る,Stash,返回仓库
+enhancement_weapon_20,スキル追加完了,Add Skill,已添加技能
+enhancement_weapon_21,一括外し,Unequip all,一键卸下装备
+enhancement_weapon_22,武器リストの所持数が最大に達しているため、武器の製作ができません。所持数に空きを作ることで製作できるようになります。,"You can't hold any more weapons. Make space in your inventory, then forge this weapon.",武器数量已满，无法获得新武器。请整理后重试。
+enhancement_weapon_23,アイテム使用最終確認,Use Item,使用道具最终确认
+enhancement_weapon_24,※武器Lv、スキルLvは引き継がれます<br>※スキル追加後、元に戻すことはできません,Weapon lvl and skill lvl will carry over.<br>Adding a skill can't be undone.,※武器等级、技能等级不会重置※添加技能后无法还原。
+enhancement_weapon_25,一括外し確認,Unequip all,卸下装备确认
+enhancement_weapon_26,全ての編成から装備を外します。<br>よろしいですか？,This item will be unequipped from all parties.,确定从所有编成中卸下该装备吗？
+enhancement_weapon_27,一括外し,Unequip all,一键卸下装备
+enhancement_weapon_28,装備を外しました。,This item was unequipped.,已卸下当前装备
+enhancement_weapon_29,アイテム使用確認,Use Item,道具使用确认
+enhancement_weapon_3,武器スキル習得,Weapon Skill Unlocked,武器技能习得
+enhancement_weapon_30,スキル変更確認,Change Skill,技能变更确认
+enhancement_weapon_31,スキル変更完了,Change Skill,技能变更成功
+enhancement_weapon_4,武器スキル覚醒,Weapon Skill Enhanced,武器技能觉醒
+enhancement_weapon_5,武器、召喚石の各素材と育成アイテムは<br>同時に選択することはできません。,Power-up items can't be absorbed at the<br>same time as summons or weapons.,武器、召唤石素材与经验道具无法同时使用。
+enhancement_weapon_6,すでに素材が選択されています,Upgrade,您已选择强化素材
+enhancement_weapon_7,おすすめ強化,Auto Select,一键强化
+enhancement_weapon_8,おすすめ素材がありません。,There are no matching absorbable materials.,无指定推荐素材
+enhancement_weapon_9,おすすめ一括強化設定,Auto Select,推荐素材设定
+enhancement_weapon_open_fate_1,クエスト解放,Quest Unlocked!,任务解放
 evolution_npc_1,武器上限解放,Uncap Weapon Level,武器上限解放
 evolution_npc_10,攻,ATK,
 evolution_npc_11,Lv,Lvl,
 evolution_npc_12,H,HP,
 evolution_npc_13,Class,EM Lvl,
-evolution_npc_2,素材キャラを選択してください,Select a character to absorb.,
-evolution_npc_3,キャラ上限解放,Uncap Character Level,角色上限解放
-evolution_npc_4,キャラ上限解放TOPに戻る,Uncap Character Level,
-evolution_npc_5,上限解放結果,Congratulations!,
-evolution_npc_6,アイテム詳細,Item Details,
-evolution_npc_7,育成アイテム選択,Select Power-Ups,
-evolution_npc_8,アイテム使用確認,Use Item,
-evolution_npc_9,戦,PWR,
+evolution_npc_2,素材キャラを選択してください,Select a character to absorb.,请选择素材人物
+evolution_npc_3,キャラ上限解放,Uncap Character Level,人物上限解放
+evolution_npc_4,キャラ上限解放TOPに戻る,Uncap Character Level,返回人物上限解放首页
+evolution_npc_5,上限解放結果,Congratulations!,上限解放结果
+evolution_npc_6,アイテム詳細,Item Details,道具详情
+evolution_npc_7,育成アイテム選択,Select Power-Ups,选择上限解放道具
+evolution_npc_8,アイテム使用確認,Use Item,道具使用确认
+evolution_npc_9,戦,PWR,战
 evolution_summon_1,召喚石上限解放,Uncap Summon Level,召唤石上限解放
-evolution_summon_10,アイテム詳細,Item Details,
-evolution_summon_11,この組み合わせで上限解放しますか？<br>,Use this summon to raise the level cap?<br>,
-evolution_summon_12,戦,PWR,
+evolution_summon_10,アイテム詳細,Item Details,道具详情
+evolution_summon_11,この組み合わせで上限解放しますか？<br>,Use this summon to raise the level cap?<br>,确认使用当前素材来上限解放吗？
+evolution_summon_12,戦,PWR,战
 evolution_summon_13,攻,ATK,
 evolution_summon_14,Lv,Lvl,
 evolution_summon_15,H,HP,
-evolution_summon_2,素材召喚石を選択してください,Select a summon to absorb.,
-evolution_summon_3,素材にできる召喚石がありません,You don't have any summons to absorb.,
-evolution_summon_4,倉庫に戻る,Stash,
-evolution_summon_7,上限解放段階が高い装備を素材にしています！<br>また、これを素材にしても上限解放は一段階のみ行われます。<br><br>本当によろしいですか？,You're about to absorb a highly uncapped summon.<br>It will only uncap the absorbing summon some.<br><br>Continue?,
-evolution_summon_8,素材がすでに上限解放されています。<br>また、これを素材にしても上限解放は一段階のみ行われます。<br><br>本当によろしいですか？,You're about to absorb an uncapped summon.<br>The absorbing summon will only be uncapped some.<br><br>Continue?,
-evolution_summon_9,素材確認,,
+evolution_summon_2,素材召喚石を選択してください,Select a summon to absorb.,请选择素材召唤石
+evolution_summon_3,素材にできる召喚石がありません,You don't have any summons to absorb.,无可供上限解放的素材
+evolution_summon_4,倉庫に戻る,Stash,返回仓库
+evolution_summon_7,上限解放段階が高い装備を素材にしています！<br>また、これを素材にしても上限解放は一段階のみ行われます。<br><br>本当によろしいですか？,You're about to absorb a highly uncapped summon.<br>It will only uncap the absorbing summon some.<br><br>Continue?,素材中含有高阶召唤石！以此为素材只能解放一个阶段。是否继续？
+evolution_summon_8,素材がすでに上限解放されています。<br>また、これを素材にしても上限解放は一段階のみ行われます。<br><br>本当によろしいですか？,You're about to absorb an uncapped summon.<br>The absorbing summon will only be uncapped some.<br><br>Continue?,素材中含有高阶召唤石！以此为素材只能解放一个阶段。是否继续？
+evolution_summon_9,素材確認,,素材确认
 evolution_weapon_1,武器上限解放,Uncap Weapon Level,武器上限解放
-evolution_weapon_10,戦,PWR,
+evolution_weapon_10,戦,PWR,战
 evolution_weapon_11,攻,ATK,
 evolution_weapon_12,Lv,Lvl,
 evolution_weapon_13,H,HP,
-evolution_weapon_14,六道武器は最終上限解放を行うことで、<br><span class='txt-caution'>特殊武器強化「真化」を<br>行うことができなくなります。</span><br><br>最終上限解放を行いますか？,"Xeno weapons can either be fully uncapped or forged.<br><span class='txt-caution'>If you fully uncap your weapon, you can no longer forge it.</span><br><br>Uncap anyways?",
+evolution_weapon_14,六道武器は最終上限解放を行うことで、<br><span class='txt-caution'>特殊武器強化「真化」を<br>行うことができなくなります。</span><br><br>最終上限解放を行いますか？,"Xeno weapons can either be fully uncapped or forged.<br><span class='txt-caution'>If you fully uncap your weapon, you can no longer forge it.</span><br><br>Uncap anyways?",六道武器最终上限解放后，无法进行「真化」。是否继续最终上限解放？
 evolution_weapon_15,CAUTION!,CAUTION!,
-evolution_weapon_16,この組み合わせで上限解放しますか？<br>,Use this weapon to raise the level cap?<br>,
-evolution_weapon_3,素材武器を選択してください,Select a weapon to absorb.,
-evolution_weapon_4,素材にできる武器がありません,You don't have any weapons to absorb.,
-evolution_weapon_5,倉庫に戻る,Stash,
-evolution_weapon_6,上限解放段階が高い装備を素材にしています！<br>また、これを素材にしても上限解放は一段階のみ行われます。<br><br>本当によろしいですか？,You're about to absorb a highly uncapped weapon.<br>It will only uncap the absorbing weapon some.<br><br>Continue?,
-evolution_weapon_7,素材がすでに上限解放されています。<br>また、これを素材にしても上限解放は一段階のみ行われます。<br><br>本当によろしいですか？,You're about to absorb an uncapped weapon.<br>The absorbing weapon will only be uncapped some.<br><br>Continue?,
-evolution_weapon_8,素材確認,Upgrade,
-evolution_weapon_9,アイテム詳細,Item Details,
-friend_1,フレンド検索,Search,
-friend_10,取り消す,Cancel,
-friend_11,確認,Respond,
+evolution_weapon_16,この組み合わせで上限解放しますか？<br>,Use this weapon to raise the level cap?<br>,确认使用当前素材来上限解放吗？
+evolution_weapon_3,素材武器を選択してください,Select a weapon to absorb.,请选择素材武器
+evolution_weapon_4,素材にできる武器がありません,You don't have any weapons to absorb.,无可供上限解放的武器
+evolution_weapon_5,倉庫に戻る,Stash,返回仓库
+evolution_weapon_6,上限解放段階が高い装備を素材にしています！<br>また、これを素材にしても上限解放は一段階のみ行われます。<br><br>本当によろしいですか？,You're about to absorb a highly uncapped weapon.<br>It will only uncap the absorbing weapon some.<br><br>Continue?,素材中含有高阶武器！以此为素材只能解放一个阶段。是否继续？
+evolution_weapon_7,素材がすでに上限解放されています。<br>また、これを素材にしても上限解放は一段階のみ行われます。<br><br>本当によろしいですか？,You're about to absorb an uncapped weapon.<br>The absorbing weapon will only be uncapped some.<br><br>Continue?,素材中含有高阶武器！以此为素材只能解放一个阶段。是否继续？
+evolution_weapon_8,素材確認,Upgrade,素材确认
+evolution_weapon_9,アイテム詳細,Item Details,道具详情
+friend_1,フレンド検索,Search,搜索好友
+friend_10,取り消す,Cancel,取消
+friend_11,確認,Respond,确认
 friend_12,挨拶,Message Board,留言板
-friend_13,挨拶を入力してください。,Type a message.,
-friend_14,30文字以内で入力してください。,Messages can be up to 30 characters.,
-friend_15,送信完了,Message,
-friend_16,挨拶を送りました。,Message was sent.,
+friend_13,挨拶を入力してください。,Type a message.,请输入留言
+friend_14,30文字以内で入力してください。,Messages can be up to 30 characters.,请输入30字以内的留言。
+friend_15,送信完了,Message,已发送
+friend_16,挨拶を送りました。,Message was sent.,留言已发表
 friend_17,挨拶,Message Board,留言板
-friend_18,挨拶(スタンプ),Stickers,
-friend_19,スタンプを送りました。,Sticker was sent.,
-friend_2,%sさんに<br>申請しました。,Friend request sent<br>to %s,
+friend_18,挨拶(スタンプ),Stickers,留言（表情）
+friend_19,スタンプを送りました。,Sticker was sent.,表情已发送
+friend_2,%sさんに<br>申請しました。,Friend request sent<br>to %s,已申请添加玩家%s为好友。
 friend_20,挨拶,Message Board,留言板
-friend_21,申請中,Cancel Request,
-friend_22,%s<br><br>このプレイヤーへの申請を取り消しますか？,%s<br><br>You will cancel your friend request to this player.,
-friend_23,申請を取り消しました。,The friend request was cancelled.,
-friend_24,申請の取り消しに失敗しました。,The friend request couldn't be canceled.,
-friend_25,%s さんからの、<br>フレンド申請がきています。,You have a friend request<br>from %s,
-friend_26,%s さんからの、<br>フレンド申請を本当に却下しますか？,Decline friend request<br>from %s?,
-friend_27,フレンド申請を却下しました。,Friend request declined.,
-friend_28,フレンド申請の却下に失敗しました。,Friend request couldn't be declined.,
-friend_29,未承認,Pending,
-friend_3,フレンド申請,Friend Request,
-friend_30,%s さんには<br><br>これ以上フレンド登録できません！,%s<br><br> can't be added. Your friend list is full.,
-friend_31,申請は取り消されました。,Request was canceled.,
-friend_32,登録完了,Friend Request,
-friend_33,%s さんを<br><br>フレンド登録しました！,You added %s<br><br>as a friend.,
+friend_21,申請中,Cancel Request,申请中
+friend_22,%s<br><br>このプレイヤーへの申請を取り消しますか？,%s<br><br>You will cancel your friend request to this player.,%s<br><br>是否撤回向当前玩家发出的好友申请？
+friend_23,申請を取り消しました。,The friend request was cancelled.,好友申请已取消
+friend_24,申請の取り消しに失敗しました。,The friend request couldn't be canceled.,取消好友申请失败
+friend_25,%s さんからの、<br>フレンド申請がきています。,You have a friend request<br>from %s,玩家%s申请添加您为好友。
+friend_26,%s さんからの、<br>フレンド申請を本当に却下しますか？,Decline friend request<br>from %s?,是否拒绝玩家%s的好友申请？
+friend_27,フレンド申請を却下しました。,Friend request declined.,已拒绝
+friend_28,フレンド申請の却下に失敗しました。,Friend request couldn't be declined.,拒绝好友申请失败
+friend_29,未承認,Pending,未确认
+friend_3,フレンド申請,Friend Request,好友申请
+friend_30,%s さんには<br><br>これ以上フレンド登録できません！,%s<br><br> can't be added. Your friend list is full.,玩家%s好友数已满。
+friend_31,申請は取り消されました。,Request was canceled.,好友申请已取消。
+friend_32,登録完了,Friend Request,已添加好友
+friend_33,%s さんを<br><br>フレンド登録しました！,You added %s<br><br>as a friend.,您已添加玩家%s为好友！
 friend_34,挨拶,Message Board,留言板
 friend_4,招待済み,Invited,
 friend_5,すでに招待しています。,An invitation has already been sent.,
