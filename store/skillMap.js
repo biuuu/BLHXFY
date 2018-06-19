@@ -7,7 +7,6 @@ const fse = require('fs-extra')
 const { debounce } = require('lodash')
 
 const skillMap = new Map()
-const skillNameMap = new Map()
 
 const skillKeys = [
   ['special_skill', 'special'],
@@ -24,7 +23,7 @@ const keys = ['skill-1', 'skill-2', 'skill-3', 'skill-4', 'special']
 
 const state = {
   status: 'init',
-  skillMap, skillNameMap,
+  skillMap,
   skillKeys
 }
 
@@ -46,14 +45,10 @@ const setSkillMap = (list, stable) => {
   const fullData = {}
   for (let row of list) {
     if (stable || active) {
-      if (keys.includes(row.id)) {
-        skillData[row.id] = row
-      }
-      fullData[row.id] = row
+      skillData[row.id] = row
     }
   }
-  state.skillMap.set(npcId, fullData)
-  state.skillNameMap.set(npcId, skillData)
+  state.skillMap.set(npcId, skillData)
 }
 
 const reCollectSkill = async () => {

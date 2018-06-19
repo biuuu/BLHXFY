@@ -3,6 +3,7 @@ const path = require('path')
 const { USER_DATA_PATH } = require('../../store/')
 const skillState = require('../../store/skillMap')
 const users = require('../../store/users')
+const { cloneDeep } = require('lodash')
 
 const { skillMap, skillKeys } = skillState
 const keys = skillKeys
@@ -36,18 +37,21 @@ const saveSkill = async (data) => {
 
 const getPlusStr = (str) => {
   let plusStr = ''
+  let plusStr2 = ''
   let _str = str
   while (_str.endsWith('+') || _str.endsWith('＋')) {
     plusStr += '＋'
+    plusStr2 += '+'
     _str = _str.slice(0, _str.length - 1)
   }
-  return plusStr
+  return [plusStr, plusStr2]
 }
 
 const transSkill = async (data, lang) => {
   if (skillState.status !== 'loaded' || !data.master || !data.master.id) return data
   const npcId = `${data.master.id}`
   const skillData = skillMap.get(npcId)
+  const cData = cloneDeep(data)
   if (skillData) {
     keys.forEach(item => {
       const key1 = item[0]
@@ -65,11 +69,11 @@ const transSkill = async (data, lang) => {
           .replace('ターン', '回合').replace('turns', '回合')
           .replace('turn', '回合')
       }
-      const trans = skillData[key2]
+      const [plus1, plus2] = getPlusStr(data[key1].name)
+      const trans = skillData[key2 + plus2]
       if (!trans) return
       if (trans.name) {
-        const str = getPlusStr(data[key1].name)
-        data[key1].name = trans.name + str
+        data[key1].name = trans.name + plus1
       }
       if (trans.detail) data[key1].comment = trans.detail
     })
@@ -78,7 +82,7 @@ const transSkill = async (data, lang) => {
       if (trans && trans.name) data.master.name = trans.name
     }
   } else if (lang === 'jp') {
-    saveSkill(data)
+    saveSkill(cData)
   }
   return data
 }
