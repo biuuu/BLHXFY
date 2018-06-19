@@ -24,7 +24,24 @@ const keys = ['skill-1', 'skill-2', 'skill-3', 'skill-4', 'special']
 const state = {
   status: 'init',
   skillMap,
-  skillKeys
+  skillKeys,
+  commSkillMap: new Map()
+}
+
+const getCommSkillMap = async () => {
+  const DATA_PATH = await dataPath()
+  const csvPath = path.resolve(DATA_PATH, 'common-skill.csv')
+  const list = await readCsv(csvPath)
+  state.commSkillMap = new Map()
+  list.forEach(item => {
+    if (item.comment && item.trans) {
+      const comment = item.comment.trim()
+      const trans = item.trans.trim()
+      if (comment && trans) {
+        state.commSkillMap.set(comment, trans)
+      }
+    }
+  })
 }
 
 const setSkillMap = (list, stable) => {
@@ -54,6 +71,7 @@ const setSkillMap = (list, stable) => {
 const reCollectSkill = async () => {
   const DATA_PATH = await dataPath()
   const data = await readJson(path.resolve(DATA_PATH, 'skill.json'))
+  await getCommSkillMap()
   if (data) {
     for (let key in data) {
       const csvPath = path.resolve(DATA_PATH, 'skill', data[key])

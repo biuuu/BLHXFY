@@ -4,6 +4,7 @@ const { USER_DATA_PATH } = require('../../store/')
 const skillState = require('../../store/skillMap')
 const users = require('../../store/users')
 const { cloneDeep } = require('lodash')
+const transSkill = require('../../utils/transSkill')
 
 const { skillMap, skillKeys } = skillState
 const keys = skillKeys
@@ -47,11 +48,12 @@ const getPlusStr = (str) => {
   return [plusStr, plusStr2]
 }
 
-const transSkill = async (data, lang) => {
+const parseSkill = async (data, lang) => {
   if (skillState.status !== 'loaded' || !data.master || !data.master.id) return data
   const npcId = `${data.master.id}`
   const skillData = skillMap.get(npcId)
   const cData = cloneDeep(data)
+  const translated = new Map()
   if (skillData) {
     keys.forEach(item => {
       const key1 = item[0]
@@ -70,12 +72,18 @@ const transSkill = async (data, lang) => {
           .replace('turn', '回合')
       }
       const [plus1, plus2] = getPlusStr(data[key1].name)
-      const trans = skillData[key2 + plus2]
-      if (!trans) return
+      let trans = skillData[key2 + plus2]
+      if (!trans) {
+        trans = skillData[key2]
+        if (!trans) return
+      }
       if (trans.name) {
         data[key1].name = trans.name + plus1
       }
-      if (trans.detail) data[key1].comment = trans.detail
+      if (trans.detail) {
+        data[key1].comment = trans.detail
+        translated.set(key1, true)
+      }
     })
     if (data.master) {
       const trans = skillData['npc']
@@ -84,13 +92,21 @@ const transSkill = async (data, lang) => {
   } else if (lang === 'jp') {
     saveSkill(cData)
   }
+  keys.forEach(item => {
+    if (!translated.get(item[0])) {
+      const skill = data[item[0]]
+      if (skill) {
+        skill.comment = transSkill(skill.comment_en)
+      }
+    }
+  })
   return data
 }
 
 const parseData = async (data, uid) => {
   const currentUser = users.get(uid)
   const lang = currentUser ? currentUser.lang : 'jp'
-  const result = await transSkill(data, lang)
+  const result = await parseSkill(data, lang)
   return data
 }
 
