@@ -75,7 +75,7 @@ const reCollectSkill = async () => {
   const DATA_PATH = await dataPath()
   const data = await readJson(path.resolve(DATA_PATH, 'skill.json'))
   await getCommSkillMap()
-  autoTransCache.clear()
+  state.autoTransCache.clear()
   if (data) {
     for (let key in data) {
       const csvPath = path.resolve(DATA_PATH, 'skill', data[key])
