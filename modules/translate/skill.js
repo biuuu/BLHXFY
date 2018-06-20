@@ -96,7 +96,7 @@ const parseSkill = async (data, lang) => {
     if (!translated.get(item[0])) {
       const skill = data[item[0]]
       if (skill) {
-        skill.comment = transSkill(skill.comment_en)
+        skill.comment = transSkill(skill.comment)
       }
     }
   })

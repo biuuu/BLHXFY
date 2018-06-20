@@ -1,6 +1,6 @@
 const glob = require('glob')
 const path = require('path')
-const { readCsv, readJson } = require('../utils/')
+const { readCsv, readJson, sortKeywords } = require('../utils/')
 const chokidar = require('chokidar')
 const { USER_DATA_PATH, dataPath } = require('./index')
 const fse = require('fs-extra')
@@ -25,20 +25,23 @@ const state = {
   status: 'init',
   skillMap,
   skillKeys,
-  commSkillMap: new Map()
+  commSkillMap: new Map(),
+  autoTransCache: new Map()
 }
 
 const getCommSkillMap = async () => {
   const DATA_PATH = await dataPath()
   const csvPath = path.resolve(DATA_PATH, 'common-skill.csv')
   const list = await readCsv(csvPath)
+  const sortedList = sortKeywords(list, 'comment')
   state.commSkillMap = new Map()
-  list.forEach(item => {
+  sortedList.forEach(item => {
     if (item.comment && item.trans) {
       const comment = item.comment.trim()
       const trans = item.trans.trim()
+      const type = item.type.trim() || '1'
       if (comment && trans) {
-        state.commSkillMap.set(comment, trans)
+        state.commSkillMap.set(comment, { trans, type })
       }
     }
   })
@@ -72,6 +75,7 @@ const reCollectSkill = async () => {
   const DATA_PATH = await dataPath()
   const data = await readJson(path.resolve(DATA_PATH, 'skill.json'))
   await getCommSkillMap()
+  autoTransCache.clear()
   if (data) {
     for (let key in data) {
       const csvPath = path.resolve(DATA_PATH, 'skill', data[key])

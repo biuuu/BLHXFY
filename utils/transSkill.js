@@ -1,40 +1,48 @@
-const { commSkillMap } = require('../store/skillMap')
+const { commSkillMap, autoTransCache } = require('../store/skillMap')
 
-const parseSkill = (str) => {
-  const arr = str.split(' / ')
-  const result = arr.map(item => {
-    const _str = item.trim()
-    if (_str) {
-      return commSkillMap.get(_str)
-    }
-  })
-  return result.join('/')
+const elemtRE = '([光闇水火風土]|light|dark|water|wind|earth|fire)'
+const elemtMap = {
+  light: '光', '光': '光', 'dark': '暗', '闇': '暗', 'water': '水', '水': '水',
+  wind: '风', '風': '风', 'earth': '土', '土': '土', 'fire': '火', '火': '火'
 }
+const numRE = '(\\d{1,4})'
+const percentRE = '(\\d{1,4}%)'
 
-const parseNote = (str) => {
-  let _str = str
-  const arr = str.match(/(.*)<(\w+)[^>]+>\((.+)\)<\/\2>(.*)/)
-  if (arr) {
-    const str1 = parseSkill(arr[1])
-    const str2 = parseSkill(arr[3])
-    const str3 = parseSkill(arr[4])
-    _str = _str.replace(arr[1], str1).replace(arr[3], str2).replace(arr[4], str3)
-  }
-  _str = parseSkill(_str)
-  return _str
-}
-
-const parseTag = (html, handler) => {
-  const arr = html.match(/^<(\w+)[^>]+>(.+)<\/\1>$/)
-  if (arr && arr[2]) {
-    const result = parseTag(arr[2], handler)
-    return html.replace(arr[2], result)
-  }
-  return handler(html)
+const parseRegExp = (str) => {
+  return str.replace(/\(/g, '\\(')
+    .replace(/\)/g, '\\)').replace(/\$elemt/g, elemtRE)
+    .replace(/\$num/g, numRE)
+    .replace(/\$percent/g, percentRE)
 }
 
 const transSkill = (comment) => {
-  return parseTag(comment, parseNote)
+  if (autoTransCache.has(comment)) return autoTransCache.get(comment)
+  let result = comment
+  for (let [key, value] of commSkillMap) {
+    if (!key.trim()) continue
+    const { trans, type } = value
+    if (type === '1') {
+      const re = new RegExp(parseRegExp(key), 'gi')
+      result = result.replace(re, (...arr) => {
+        let _trans = trans
+        for (let i = 1; i < arr.length - 2; i++) {
+          let eleKey = arr[i].toLowerCase()
+          if (elemtMap[eleKey]) {
+            _trans = _trans.replace(`$${i}`, elemtMap[eleKey])
+          } else {
+            _trans = _trans.replace(`$${i}`, arr[i])
+          }
+        }
+        return _trans
+      })
+    } else if (type === '2') {
+      result = result.replace(key, trans)
+    } else if (type === '3') {
+      result = result.replace(`(${key})`, `(${trans})`)
+    }
+  }
+  autoTransCache.set(comment, result)
+  return result
 }
 
 module.exports = transSkill
