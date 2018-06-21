@@ -1,0 +1,31 @@
+comment,trans,type
+Massive $elemt DMG to a foe,$1属性伤害(特大),1
+$elemt属性ダメージ(特大),$1属性伤害(特大),1
+Boost to $elemt allies' critical hit rate,$1属性角色暴击率上升,1
+$elemt属性キャラのクリティカル確率UP,$1属性角色暴击率上升,1
+敵に$num～$num倍$elemt属性ダメージ,对敌方单体造成$1~$2倍$3属性伤害,1
+"$percent-$percent $elemt DMG to a foe",对敌方单体造成$1-$2的$3属性伤害,1
+自分のアビリティダメージ上限UP,提高自身技能伤害上限,2
+Boost to skill DMG cap,提高自身技能伤害上限,2
+累積,叠加,3
+Stackable,叠加,3
+追加ダメージ,追加伤害,2
+Bonus DMG,追加伤害,2
+敵に$elemt属性ダメージ,敌单体$1属性伤害,1
+$elemt DMG to a foe,敌单体$1属性伤害,1
+Hit to foe DEF,防御DOWN,2
+味方全体の全属性ダメージカット($percent),我方全体伤害减免$1,1
+$percent DMG cut to all allies,我方全体伤害减免$1,1
+Bonus boost to all allies' DEF,我方全体防御上升,3
+オーバードライブ時の敵に$num～$num倍$elemt属性ダメージ,对Overdrive状态的敌方单体造成$1~$2倍$3属性伤害,1
+モードゲージ減少,Mode bar减少,2
+$percent-$percent $elemt DMG to a foe in overdrive,对Overdrive状态的敌方单体造成$1-$2的$3属性伤害,1
+Hit to mode bar for a foe in overdrive,降低Overdrive状态敌方单体的Mode bar,2
+オーバードライブ時の敵からの被ダメージ減少,减少来自Overdrive状态的敌方的伤害,2
+毎ターンステータスUP,每回合状态UP,2
+被ダメージで解除,受到伤害后解除,2
+Cut to DMG from a foe in overdrive,减少来自Overdrive状态的敌方的伤害,2
+Boost to attack specs every turn,每回合提高攻击性能,2
+Ends upon taking DMG,受到伤害后解除,2
+バトル開始時にパーティの奥義ゲージUP,战斗开始时，我方全体奥义值上升,2
+Boost to allies' charge bar at battle start,战斗开始时，我方全体奥义值上升,2
