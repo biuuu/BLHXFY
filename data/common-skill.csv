@@ -61,3 +61,5 @@ $num-hit immunity to debuff for all allies,我方全体获得弱体无效($1回�
 Deal triple attacks for $num turns,$1回合内必定三连,1
 自分のHP回復,自身HP回复,2
 Restore HP,自身HP回复,2
+敵全体に$elemt属性伤害,对敌方全体造成$1属性伤害,1
+$elemt DMG to all foes,对敌方全体造成$1属性伤害,1
