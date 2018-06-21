@@ -1,6 +1,6 @@
 comment,trans,type
 Massive $elemt DMG to a foe,$1属性伤害(特大),1
-$elemt属性ダメージ(特大),$1属性伤害(特大),1
+$elemt属性ダメージ,$1属性伤害,1
 Boost to $elemt allies' critical hit rate,$1属性角色暴击率上升,1
 $elemt属性キャラのクリティカル確率UP,$1属性角色暴击率上升,1
 敵に$num～$num倍$elemt属性ダメージ,对敌方单体造成$1~$2倍$3属性伤害,1
@@ -11,21 +11,53 @@ Boost to skill DMG cap,提高自身技能伤害上限,2
 Stackable,叠加,3
 追加ダメージ,追加伤害,2
 Bonus DMG,追加伤害,2
-敵に$elemt属性ダメージ,敌单体$1属性伤害,1
-$elemt DMG to a foe,敌单体$1属性伤害,1
+敵に$elemt属性ダメージ,对敌方单体造成$1属性伤害,1
+$elemt DMG to a foe,对敌方单体造成$1属性伤害,1
 Hit to foe DEF,防御DOWN,2
 味方全体の全属性ダメージカット($percent),我方全体伤害减免$1,1
 $percent DMG cut to all allies,我方全体伤害减免$1,1
 Bonus boost to all allies' DEF,我方全体防御上升,3
-オーバードライブ時の敵に$num～$num倍$elemt属性ダメージ,对Overdrive状态的敌方单体造成$1~$2倍$3属性伤害,1
-モードゲージ減少,Mode bar减少,2
-$percent-$percent $elemt DMG to a foe in overdrive,对Overdrive状态的敌方单体造成$1-$2的$3属性伤害,1
-Hit to mode bar for a foe in overdrive,降低Overdrive状态敌方单体的Mode bar,2
-オーバードライブ時の敵からの被ダメージ減少,减少来自Overdrive状态的敌方的伤害,2
+オーバードライブ時の敵に$num～$num倍$elemt属性ダメージ,对 overdrive 状态的敌方单体造成$1~$2倍$3属性伤害,1
+モードゲージ減少,mode bar 减少,2
+$percent-$percent $elemt DMG to a foe in overdrive,对 overdrive 状态的敌方单体造成$1-$2的$3属性伤害,1
+Hit to mode bar for a foe in overdrive,降低 overdrive 状态敌方单体的 mode bar,2
+オーバードライブ時の敵からの被ダメージ減少,减少来自 overdrive 状态的敌方的伤害,2
 毎ターンステータスUP,每回合状态UP,2
 被ダメージで解除,受到伤害后解除,2
-Cut to DMG from a foe in overdrive,减少来自Overdrive状态的敌方的伤害,2
+Cut to DMG from a foe in overdrive,减少来自 overdrive 状态的敌方的伤害,2
 Boost to attack specs every turn,每回合提高攻击性能,2
 Ends upon taking DMG,受到伤害后解除,2
 バトル開始時にパーティの奥義ゲージUP,战斗开始时，我方全体奥义值上升,2
 Boost to allies' charge bar at battle start,战斗开始时，我方全体奥义值上升,2
+オーバードライブ時の敵からの被ダメージ軽減,降低来自 overdrive 状态的敌方的伤害,2
+Lessen DMG taken from foes in overdrive,降低来自 overdrive 状态的敌方的伤害,2
+自分の$elemt属性攻撃UP,提高自身$1属性攻击力,1
+Boost to $elemt ATK,提高自身$1属性攻击力,1
+味方全体の$elemt属性ダメージ軽減,我方全体受到的$1属性伤害降低,1
+Lessen allies' $elemt DMG,我方全体受到的$1属性伤害降低,1
+敵全体に灼熱効果/闇属性防御DOWN,敌全体灼热效果/暗属性耐性down,2
+Hit to all foes' dark DEF / Burn,敌全体灼热效果/暗属性耐性down,2
+効果中必ずトリプルアタック,效果内自身必定三连击,2
+Deal triple attacks while in effect,效果内自身必定三连击,2
+奥義ゲージを$num％消費,使用消耗$1％奥义,2
+Uses $num% of charge bar,使用消耗$1％奥义,3
+敵が灼熱状態の時、通常攻撃と奥義に追加伤害,敌人在灼热状态时，普通攻击和奥义追加伤害,2
+Bonus DMG for attacks against burned foes,敌人在灼热状态时，普通攻击和奥义追加伤害,2
+味方全体が灼熱状態の敵から受けるダメージを軽減,我方全体受到来自灼热状态的敌人的伤害降低,2
+Lessen DMG taken from burned foes for all allies,我方全体受到来自灼热状态的敌人的伤害降低,2
+敵の全ての攻撃を回避,回避敌人所有攻击,2
+Dodge all foe attacks,回避敌人所有攻击,2
+自分に与ダメージ上昇効果,获得伤害上升效果,2
+Boost to inflicted DMG,获得伤害上升效果,2
+自分のクリティカル確率UP,自身暴击率上升,2
+Big boost to critical hit rate,自身暴击率上升(大),2
+敵の攻防DOWN,降低目标的攻击和防御,2
+自分の攻防UP,提高自身的攻击和防御,2
+Hit to a foe's ATK and DEF,降低目标的攻击和防御,2
+Boost to ATK and DEF,提高自身的攻击和防御,2
+味方全体の弱体効果無効($num回),我方全体获得弱体无效($1回合),1
+$numターンの間自分が必ずトリプルアタック,$1回合内必定三连,1
+$num-hit immunity to debuff for all allies,我方全体获得弱体无效($1回合),1
+Deal triple attacks for $num turns,$1回合内必定三连,1
+自分のHP回復,自身HP回复,2
+Restore HP,自身HP回复,2
