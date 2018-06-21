@@ -1,13 +1,12 @@
 const glob = require('glob')
 const path = require('path')
-const { readCsv, readJson } = require('../utils/')
+const { readCsv, readJson, sortKeywords } = require('../utils/')
 const chokidar = require('chokidar')
 const { USER_DATA_PATH, dataPath } = require('./index')
 const fse = require('fs-extra')
 const { debounce } = require('lodash')
 
 const skillMap = new Map()
-const skillNameMap = new Map()
 
 const skillKeys = [
   ['special_skill', 'special'],
@@ -24,8 +23,28 @@ const keys = ['skill-1', 'skill-2', 'skill-3', 'skill-4', 'special']
 
 const state = {
   status: 'init',
-  skillMap, skillNameMap,
-  skillKeys
+  skillMap,
+  skillKeys,
+  commSkillMap: new Map(),
+  autoTransCache: new Map()
+}
+
+const getCommSkillMap = async () => {
+  const DATA_PATH = await dataPath()
+  const csvPath = path.resolve(DATA_PATH, 'common-skill.csv')
+  const list = await readCsv(csvPath)
+  const sortedList = sortKeywords(list, 'comment')
+  state.commSkillMap = new Map()
+  sortedList.forEach(item => {
+    if (item.comment && item.trans) {
+      const comment = item.comment.trim()
+      const trans = item.trans.trim()
+      const type = item.type.trim() || '1'
+      if (comment && trans) {
+        state.commSkillMap.set(comment, { trans, type })
+      }
+    }
+  })
 }
 
 const setSkillMap = (list, stable) => {
@@ -46,19 +65,17 @@ const setSkillMap = (list, stable) => {
   const fullData = {}
   for (let row of list) {
     if (stable || active) {
-      if (keys.includes(row.id)) {
-        skillData[row.id] = row
-      }
-      fullData[row.id] = row
+      skillData[row.id] = row
     }
   }
-  state.skillMap.set(npcId, fullData)
-  state.skillNameMap.set(npcId, skillData)
+  state.skillMap.set(npcId, skillData)
 }
 
 const reCollectSkill = async () => {
   const DATA_PATH = await dataPath()
   const data = await readJson(path.resolve(DATA_PATH, 'skill.json'))
+  await getCommSkillMap()
+  state.autoTransCache.clear()
   if (data) {
     for (let key in data) {
       const csvPath = path.resolve(DATA_PATH, 'skill', data[key])

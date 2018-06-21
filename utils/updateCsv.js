@@ -38,6 +38,7 @@ const reCollectData = (packname) => {
   const filename = path.resolve(USER_DATA_PATH, 'tmpFile/', packname)
   const target = path.resolve(USER_DATA_PATH, 'data/')
   fs.emptyDirSync(path.resolve(target, 'scenario'))
+  fs.emptyDirSync(path.resolve(target, 'skill'))
   decompressFile(filename, target, function () {
     getData('en')
     getData('jp')

@@ -104,8 +104,8 @@ const sortKeywords = (list, key = 'name') => {
 
 const sortByStr = (list, key = 'name') => {
   return list.sort((prev, next) => {
-    if (prev[key] > next[key]) return -1
-    else if (prev[key] < next[key]) return 1
+    if (prev[key] > next[key]) return 1
+    else if (prev[key] < next[key]) return -1
     else return 0
   })
 }
