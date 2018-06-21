@@ -798,281 +798,281 @@ friend_31,申請は取り消されました。,Request was canceled.,好友申�
 friend_32,登録完了,Friend Request,已添加好友
 friend_33,%s さんを<br><br>フレンド登録しました！,You added %s<br><br>as a friend.,您已添加玩家%s为好友！
 friend_34,挨拶,Message Board,留言板
-friend_4,招待済み,Invited,
-friend_5,すでに招待しています。,An invitation has already been sent.,
-friend_6,フレンド数 %s/%s 人,Friends: %s/%s,
-friend_7,申請人数 %s人,Requested: %s,
-friend_8,フレンド一覧,Friend List,
-friend_9,挨拶する,Message,
-gachaSetting_1,便利設定,,
-gachaSetting_2,自動売却条件設定,,
-gacha_1,ガチャ結果,Draw,
-gacha_10,チケットが足りません,You don't have enough tickets.,
-gacha_11,レジェンドガチャ,Premium Draw,
-gacha_12,ガチャを引くことができません。<br>恐れいりますが、再読み込みをしてから<br>もう一度お試しください。,The Premium draw is unavailable.<br>Please reload the screen and then<br>try again.,
-gacha_13,通信処理中,Communicating,
-gacha_14,通信処理を行っています。<br>アイテムは、処理が完了すると<br>プレゼントリストへ贈られます。<br>少し待ってから、プレゼントリストを<br>確認してください。," your loot will appear on the Crate screen. Please wait",
-gacha_15,本当にリセットしますか？,Refill the box?,
-gacha_16,ボックスをリセットしました<br><br>%s,You refilled the box.<br><br>%s,
-gacha_17,このキャンペーンは終了しました。,This draw has ended.,
-gacha_18,ガチャ出現キャラ一覧,All Included Characters,
-gacha_19,出現装備一覧,All Included Content,
-gacha_2,%s連ガチャセットを購入,Get Another %s-Part Draw,
-gacha_20,プロフィールに戻る,Profile,
-gacha_21,武器紹介,Weapons,
-gacha_22,出現装備一覧に戻る,All Weapons,
-gacha_23,注意事項・詳細,Notes,
-gacha_24,フェイトエピソード紹介,Fate Episodes,
-gacha_25,提供割合,Draw Rates,
-gacha_26,更新確認,Reloading,
-gacha_27,5時を経過したためガチャTOPページへ遷移します。,Five hours have passed. The Draw screen will now appear.,
-gacha_28,このキャンペーンは終了しました。,This draw has ended.,
-gacha_29,エピソード解放,Episode Unlocked,
-gacha_3,更新確認,Reloading,
-gacha_30,攻撃力 %s,ATK %s,
-gacha_31,奥義 %s,Charge Attack %s,
-gacha_32,召喚 %s,Sommon %s,
+friend_4,招待済み,Invited,已邀请
+friend_5,すでに招待しています。,An invitation has already been sent.,您已向该玩家发出过邀请。
+friend_6,フレンド数 %s/%s 人,Friends: %s/%s,好友人数 %s/%s 人
+friend_7,申請人数 %s人,Requested: %s,申请人数 %s人
+friend_8,フレンド一覧,Friend List,好友列表
+friend_9,挨拶する,Message,留言
+gachaSetting_1,便利設定,,快捷设定
+gachaSetting_2,自動売却条件設定,,自动出售设定
+gacha_1,ガチャ結果,Draw,扭蛋结果
+gacha_10,チケットが足りません,You don't have enough tickets.,扭蛋券不足
+gacha_11,レジェンドガチャ,Premium Draw,高级卡池
+gacha_12,ガチャを引くことができません。<br>恐れいりますが、再読み込みをしてから<br>もう一度お試しください。,The Premium draw is unavailable.<br>Please reload the screen and then<br>try again.,抽取失败。<br>请刷新后重试。
+gacha_13,通信処理中,Communicating,连接中
+gacha_14,通信処理を行っています。<br>アイテムは、処理が完了すると<br>プレゼントリストへ贈られます。<br>少し待ってから、プレゼントリストを<br>確認してください。," your loot will appear on the Crate screen. Please wait",正在连接。系统将在处理成功后将该道具发往您的礼物列表。请稍后收取。
+gacha_15,本当にリセットしますか？,Refill the box?,确认重置卡池吗？
+gacha_16,ボックスをリセットしました<br><br>%s,You refilled the box.<br><br>%s,重置卡池成功<br><br>%s
+gacha_17,このキャンペーンは終了しました。,This draw has ended.,活动已结束
+gacha_18,ガチャ出現キャラ一覧,All Included Characters,查看卡池中出现的所有人物
+gacha_19,出現装備一覧,All Included Content,查看卡池中出现的所有装备
+gacha_2,%s連ガチャセットを購入,Get Another %s-Part Draw,您已购买%s连扭蛋套餐
+gacha_20,プロフィールに戻る,Profile,返回个人资料
+gacha_21,武器紹介,Weapons,武器介绍
+gacha_22,出現装備一覧に戻る,All Weapons,返回出现装备查看页
+gacha_23,注意事項・詳細,Notes,注意事项·详情
+gacha_24,フェイトエピソード紹介,Fate Episodes,人物剧情介绍
+gacha_25,提供割合,Draw Rates,出现概率
+gacha_26,更新確認,Reloading,确认更新
+gacha_27,5時を経過したためガチャTOPページへ遷移します。,Five hours have passed. The Draw screen will now appear.,已过去5小时，返回扭蛋首页。
+gacha_28,このキャンペーンは終了しました。,This draw has ended.,活动已结束
+gacha_29,エピソード解放,Episode Unlocked,人物剧情解放
+gacha_3,更新確認,Reloading,确认更新
+gacha_30,攻撃力 %s,ATK %s,攻击力 %s
+gacha_31,奥義 %s,Charge Attack %s,奥义 %s
+gacha_32,召喚 %s,Sommon %s,召唤%s
 gacha_33,キャンペーン当選,Congratulations!,
 gacha_34,キャンペーン,Exclusive Offer,
-gacha_35,召喚石紹介,Summon Details,
-gacha_36,キャラ紹介,Character Details,
+gacha_35,召喚石紹介,Summon Details,召唤石介绍
+gacha_36,キャラ紹介,Character Details,人物介绍
 gacha_37,キャンペーン,Exclusive Offer,
-gacha_38,購入確認,Trade,
-gacha_39,交換確認,Trade Treasure,
-gacha_4,5時を経過したためガチャTOPページへ遷移します。,Five hours have passed. The Draw screen will now appear.,
-gacha_40,1個入手しました。,You got 1.,
-gacha_41,交換完了,Trade Treasure,
-gacha_42,交換エラー,Trade Treasure,
-gacha_43,交換できませんでした。,Technical issues are occurring. Treasure couldn't be traded.,
-gacha_44,ガチャ,Draw,
-gacha_45,※初回限定ガチャは通常のレジェンド10連ガチャとは提供割合、およびキャンペーン内容が異なります。,• The draw rates and details for the Welcome draw and Premium 10-part draw are different.,
-gacha_46,5時を経過したため画面を更新します。,Five hours have passed. This screen will reload.,
-gacha_47,初回限定で10連ガチャが<br>無料で引けます！,Welcome to Granblue Fantasy! Here's a free 10-part draw!,
-gacha_48,初回限定ガチャ,Welcome Draw,
-gacha_49,宝晶石ガチャ,Crystal,
-gacha_5,使用確認,Draw,
-gacha_50,レジェンドガチャ提供割合（出現率）,Premium Draw Draw Rates,
-gacha_51,Sレア以上確定ガチャ提供割合（出現率）,SR Draw Draw Rates,
-gacha_52,SSレア確定ガチャ提供割合（出現率）,SSR Draw Draw Rates,
-gacha_53,レジェンドガチャ出現一覧,All Included Items,
-gacha_54,Sレア以上確定ガチャ出現一覧,All Included Items,
-gacha_55,SSレア確定ガチャ出現一覧,All Included Items,
-gacha_56,レジェンド10連ガチャ,Premium 10-part draw,
-gacha_57,(W)スターレジェンド10連ガチャ,Star Premium 10-part draw,
-gacha_58,Sレア以上確定ガチャ,SR-SSR,
-gacha_59,SSレア確定ガチャ,SSR,
-gacha_6,宝晶石ガチャ,Draw with Crystals,
-gacha_60,出現装備一覧に戻る,All Summons,
-gacha_61,レジェンド10連ガチャ,Premium 10-Part Draw,
-gacha_62,(W)スターレジェンド10連ガチャ,Star Premium 10-Part Draw,
-gacha_7,宝晶石が足りません<br>所持宝晶石：%s,You don't have enough crystals.<br>Crystals held: %s,
-gacha_8,チケットを利用します。<br>よろしいですか？,Use a ticket?,
-gacha_9,チケットガチャ,Ticket Draw,
-gacha_apper_1,初心者限定ガチャ提供割合（出現率）,Beginner's Draw Draw Rates,
-gacha_apper_2,初心者限定ガチャ出現一覧,All Included Items,
-gacha_ceiling_1,装備品獲得,Trade Sparks,
-gacha_ceiling_2,装備品獲得の確認,Choose Item,
-gacha_ceiling_3,装備品がプレゼントに送られました。,This was sent to the Crate screen.,
-gacha_ceiling_4,'獲得エラー,Error,
-gacha_ceiling_5,'獲得できませんでした。,You can't get any items,
-gacha_index_1,ヘルプ,Help,
-gacha_index_2,ご利用の前に,Cerulean Sparks,
-gacha_index_3,レジェンドガチャが更新されました,Updated Premium Draw,
+gacha_38,購入確認,Trade,确认购买
+gacha_39,交換確認,Trade Treasure,确认兑换
+gacha_4,5時を経過したためガチャTOPページへ遷移します。,Five hours have passed. The Draw screen will now appear.,已过去5小时，返回扭蛋首页。
+gacha_40,1個入手しました。,You got 1.,您已获得1个。
+gacha_41,交換完了,Trade Treasure,兑换成功
+gacha_42,交換エラー,Trade Treasure,兑换错误
+gacha_43,交換できませんでした。,Technical issues are occurring. Treasure couldn't be traded.,兑换失败
+gacha_44,ガチャ,Draw,扭蛋
+gacha_45,※初回限定ガチャは通常のレジェンド10連ガチャとは提供割合、およびキャンペーン内容が異なります。,• The draw rates and details for the Welcome draw and Premium 10-part draw are different.,※初回限定扭蛋的出现概率以及内容与普通10连不同。
+gacha_46,5時を経過したため画面を更新します。,Five hours have passed. This screen will reload.,已过去5小时，返回扭蛋首页。
+gacha_47,初回限定で10連ガチャが<br>無料で引けます！,Welcome to Granblue Fantasy! Here's a free 10-part draw!,您可以免费抽取初回限定10连扭蛋！
+gacha_48,初回限定ガチャ,Welcome Draw,初回限定卡池
+gacha_49,宝晶石ガチャ,Crystal,宝晶石卡池
+gacha_5,使用確認,Draw,确认使用
+gacha_50,レジェンドガチャ提供割合（出現率）,Premium Draw Draw Rates,高级卡池提供概率
+gacha_51,Sレア以上確定ガチャ提供割合（出現率）,SR Draw Draw Rates,必出SR以上卡池提供概率
+gacha_52,SSレア確定ガチャ提供割合（出現率）,SSR Draw Draw Rates,必出SSR卡池提供概率
+gacha_53,レジェンドガチャ出現一覧,All Included Items,高级卡池提供装备一览
+gacha_54,Sレア以上確定ガチャ出現一覧,All Included Items,必出SR以上卡池提供装备一览
+gacha_55,SSレア確定ガチャ出現一覧,All Included Items,必出SSR卡池提供装备一览
+gacha_56,レジェンド10連ガチャ,Premium 10-part draw,高级10连卡池
+gacha_57,(W)スターレジェンド10連ガチャ,Star Premium 10-part draw,必得10连卡池
+gacha_58,Sレア以上確定ガチャ,SR-SSR,必出SR以上卡池
+gacha_59,SSレア確定ガチャ,SSR,必出SSR卡池
+gacha_6,宝晶石ガチャ,Draw with Crystals,宝晶石卡池
+gacha_60,出現装備一覧に戻る,All Summons,返回出现装备查看页
+gacha_61,レジェンド10連ガチャ,Premium 10-Part Draw,高级10连卡池
+gacha_62,(W)スターレジェンド10連ガチャ,Star Premium 10-Part Draw,必得10连卡池
+gacha_7,宝晶石が足りません<br>所持宝晶石：%s,You don't have enough crystals.<br>Crystals held: %s,您的宝晶石不足<br>所持宝晶石：%s
+gacha_8,チケットを利用します。<br>よろしいですか？,Use a ticket?,是否使用扭蛋券？
+gacha_9,チケットガチャ,Ticket Draw,扭蛋券卡池
+gacha_apper_1,初心者限定ガチャ提供割合（出現率）,Beginner's Draw Draw Rates,新手限定卡池提供概率
+gacha_apper_2,初心者限定ガチャ出現一覧,All Included Items,新手限定卡池提供装备一览
+gacha_ceiling_1,装備品獲得,Trade Sparks,获得新装备
+gacha_ceiling_2,装備品獲得の確認,Choose Item,确认获得新装备
+gacha_ceiling_3,装備品がプレゼントに送られました。,This was sent to the Crate screen.,装备已送往您的礼物列表
+gacha_ceiling_4,'獲得エラー,Error,获取失败
+gacha_ceiling_5,'獲得できませんでした。,You can't get any items,获取失败
+gacha_index_1,ヘルプ,Help,帮助
+gacha_index_2,ご利用の前に,Cerulean Sparks,使用须知
+gacha_index_3,レジェンドガチャが更新されました,Updated Premium Draw,高级卡池已更新
 gacha_index_4,蒼光の御印,Cerulean Sparks,
 gacha_index_5,蒼光の輝石,Cerulean Stones,
 gacha_index_6,蒼光の御印,cerulean spark,
 gacha_index_7,蒼光の輝石,cerulean stone,
 gacha_index_8,蒼光の御印,cerulean sparks,
 gacha_index_9,蒼光の輝石,cerulean stones,
-gacha_normal_1,ガチャ結果,Draw,
-gacha_normal_2,使用確認,Draw,
-gacha_normal_3,チケットを利用します。<br>よろしいですか？,Use a ticket?,
-gacha_normal_4,チケットガチャ,Ticket Draw,
-gacha_normal_5,ガチャを引くことができません。<br>恐れいりますが、再読み込みをしてから<br>もう一度お試しください。,'The Ticket draw is unavailable.<br>Please reload the screen and then<br>try again.,
-gacha_normal_6,通信処理中,Communicating,
-gacha_normal_7,通信処理を行っています。<br>アイテムは、処理が完了すると<br>プレゼントリストへ贈られます。<br>少し待ってから、プレゼントリストを<br>確認してください。," your loot will appear on the Crate screen. Please wait",
-gacha_result_1,,Help,
-get_score_1,ポイント獲得,Points Gained,
-get_score_2,獲得ポイント,Points Gained,
-get_suppression_1,制圧力獲得,Might marks earned,
-get_suppression_2,獲得制圧力,Might Marks,
-guild_main_1,騎空団団員リスト（解雇）,Remove Crew Member,
-guild_main_10,所持ルピより多く入力されています。,You can't donate more rupies than you have.,
-guild_main_100,団長任命,Captain Assignment,
-guild_main_101,騎空団チャット,Crew Chat,
-guild_main_102,チャット(スタンプ),Chat Stickers,
-guild_main_103,送信完了,Message,
-guild_main_105,%s文字以内で入力してください。,Messages can be up to %s characters.,
-guild_main_106,チャットを送りました。,Message was sent.,
-guild_main_107,禁止ワードが含まれています。,This message is invalid.,
-guild_main_108,チャット,Chat,
-guild_main_109,削除確認,Message Board,
-guild_main_11,寄付ルピを入力してください。,Enter an amount of rupies to donate.,
-guild_main_110,削除完了,Message Board,
-guild_main_111,削除しました。,Message was deleted.,
-guild_main_112,削除失敗,Message Board,
-guild_main_113,削除できませんでした。,Message can't be deleted.,
-guild_main_114,スタンプを送りました。,Sticker was sent.,
-guild_main_115,騎空団イベント戦績,Crew Event Results,
-guild_main_116,騎空団サポート,Crew Skills,
-guild_main_117,騎空団サポートが発動しました。,Crew skills activated.,
-guild_main_118,発動中の騎空団サポート,Active Crew Skills,
-guild_main_119,%sへ入団申請中,Applied to %s,
-guild_main_12,騎空団ランキング,Crew Ranking,
-guild_main_120,[ %s]<br>への申請を取り下げますか？,Cancel your application to<br>[ %s ]?,
-guild_main_122,[ %s]に入団申請をしました。,Application was sent to[ %s ].,
-guild_main_123,騎空団管理,Crew Settings,
-guild_main_124,%sを退団しました,%s left the crew.,
-guild_main_125,騎空団名変更,Edit Crew Name,
-guild_main_126,何も入力されていません。,You haven't typed anything.,
-guild_main_128,騎空団名称変更完了,Edit Crew Name,
-guild_main_129,騎空団の名称を変更しました。,The crew's name was changed.,
-guild_main_13,騎空団NEWS,Crew News,
-guild_main_130,紹介文の編集,Edit Greeting,
-guild_main_131,騎空団紹介文変更完了,Edit Greeting,
-guild_main_132,騎空団紹介文を変更しました。,The greeting was changed.,
-guild_main_133,騎空団の解散,Disband Crew,
-guild_main_134,%sを解散しました。,%s was disbanded.,
-guild_main_135,アサルトタイム,Strike Time,
-guild_main_136,アサルトタイム設定完了,Strike Time Settings Complete,
-guild_main_137,役職の権限,Permissions,
-guild_main_138,チャット通知設定,Chat Notifications,
-guild_main_139,チャット通知設定完了,Chat notification settings were saved.,
-guild_main_14,ジュークボックス,Jukebox,
-guild_main_140,設定しました。,Your changes have been saved.,
-guild_main_141,アサルトタイムについて,About Strike Time,
-guild_main_142,入団条件設定,Scout Settings,
-guild_main_143,団長が二週間ログインしなかった為、<br />あなたが団長になりました。<br />団長を他の人に移譲する場合は<br />騎空団管理より行ってください。,"The captain has not logged in for 2 weeks,<br>so you have been assigned captain<br>To assign a different captain, go to<br>Crew Settings.",
-guild_main_144,チャット機能の有効化,Enable Chat,
-guild_main_145,利用制限,Message Board,
-guild_main_146,先の利用から5秒経過すると<br>再度利用可能です。,Messages and stickers can<br>be sent again in 5 seconds.,
-guild_main_147,チャット(スタンプ),Chat Stickers,
-guild_main_148,エラーにより送信できませんでした。,An error occurred. Message couldn't be sent.,
-guild_main_149,1文字以上入力してください。,Type at least 1 character.,
-guild_main_15,次の曲の演奏ができるのは,"The crew theme can be reset in ",
-guild_main_150,%s文字以内で入力してください。,Messages can be up to %s characters.,
-guild_main_151,送信完了,Chat,
+gacha_normal_1,ガチャ結果,Draw,扭蛋结果
+gacha_normal_2,使用確認,Draw,确认使用
+gacha_normal_3,チケットを利用します。<br>よろしいですか？,Use a ticket?,是否使用扭蛋券
+gacha_normal_4,チケットガチャ,Ticket Draw,扭蛋券卡池
+gacha_normal_5,ガチャを引くことができません。<br>恐れいりますが、再読み込みをしてから<br>もう一度お試しください。,'The Ticket draw is unavailable.<br>Please reload the screen and then<br>try again.,抽取失败。<br>请刷新后重试。
+gacha_normal_6,通信処理中,Communicating,连接中
+gacha_normal_7,通信処理を行っています。<br>アイテムは、処理が完了すると<br>プレゼントリストへ贈られます。<br>少し待ってから、プレゼントリストを<br>確認してください。," your loot will appear on the Crate screen. Please wait",正在连接。系统将在处理成功后将该道具发往您的礼物列表。请稍后收取。
+gacha_result_1,,Help,帮助
+get_score_1,ポイント獲得,Points Gained,获得点数
+get_score_2,獲得ポイント,Points Gained,获得点数
+get_suppression_1,制圧力獲得,Might marks earned,获得制压力
+get_suppression_2,獲得制圧力,Might Marks,获得制压力
+guild_main_1,騎空団団員リスト（解雇）,Remove Crew Member,骑空团团员列表（解雇）
+guild_main_10,所持ルピより多く入力されています。,You can't donate more rupies than you have.,您输入的数值超过您所持卢比总数。
+guild_main_100,団長任命,Captain Assignment,任命团长
+guild_main_101,騎空団チャット,Crew Chat,骑空团聊天室
+guild_main_102,チャット(スタンプ),Chat Stickers,聊天（表情）
+guild_main_103,送信完了,Message,已发送
+guild_main_105,%s文字以内で入力してください。,Messages can be up to %s characters.,请输入%s字以内的信息。
+guild_main_106,チャットを送りました。,Message was sent.,已发送。
+guild_main_107,禁止ワードが含まれています。,This message is invalid.,含有敏感词。
+guild_main_108,チャット,Chat,聊天
+guild_main_109,削除確認,Message Board,确认删除
+guild_main_11,寄付ルピを入力してください。,Enter an amount of rupies to donate.,请输入您捐赠的金额。
+guild_main_110,削除完了,Message Board,删除成功
+guild_main_111,削除しました。,Message was deleted.,已删除。
+guild_main_112,削除失敗,Message Board,删除失败
+guild_main_113,削除できませんでした。,Message can't be deleted.,删除失败。
+guild_main_114,スタンプを送りました。,Sticker was sent.,已发送表情。
+guild_main_115,騎空団イベント戦績,Crew Event Results,骑空团活动战绩
+guild_main_116,騎空団サポート,Crew Skills,骑空团支援效果
+guild_main_117,騎空団サポートが発動しました。,Crew skills activated.,骑空团支援效果已发动
+guild_main_118,発動中の騎空団サポート,Active Crew Skills,发动中的骑空团支援效果
+guild_main_119,%sへ入団申請中,Applied to %s,您已申请加入%s
+guild_main_12,騎空団ランキング,Crew Ranking,骑空团排行榜
+guild_main_120,[ %s]<br>への申請を取り下げますか？,Cancel your application to<br>[ %s ]?,您确定取消加入<br>[ %s]吗？
+guild_main_122,[ %s]に入団申請をしました。,Application was sent to[ %s ].,您已申请加入[ %s]。
+guild_main_123,騎空団管理,Crew Settings,骑空团管理
+guild_main_124,%sを退団しました,%s left the crew.,%s已退团
+guild_main_125,騎空団名変更,Edit Crew Name,骑空团名变更
+guild_main_126,何も入力されていません。,You haven't typed anything.,输入为空
+guild_main_128,騎空団名称変更完了,Edit Crew Name,变更骑空团名称成功
+guild_main_129,騎空団の名称を変更しました。,The crew's name was changed.,骑空团名称已变更。
+guild_main_13,騎空団NEWS,Crew News,骑空团新闻
+guild_main_130,紹介文の編集,Edit Greeting,编辑介绍文
+guild_main_131,騎空団紹介文変更完了,Edit Greeting,编辑骑空团介绍文成功
+guild_main_132,騎空団紹介文を変更しました。,The greeting was changed.,骑空团介绍文已变更
+guild_main_133,騎空団の解散,Disband Crew,解散骑空团
+guild_main_134,%sを解散しました。,%s was disbanded.,%s已解散。
+guild_main_135,アサルトタイム,Strike Time,总出动时间
+guild_main_136,アサルトタイム設定完了,Strike Time Settings Complete,总出动时间设置完毕
+guild_main_137,役職の権限,Permissions,职位权限
+guild_main_138,チャット通知設定,Chat Notifications,聊天通知设定
+guild_main_139,チャット通知設定完了,Chat notification settings were saved.,聊天通知设定完毕
+guild_main_14,ジュークボックス,Jukebox,点唱机
+guild_main_140,設定しました。,Your changes have been saved.,设定完毕
+guild_main_141,アサルトタイムについて,About Strike Time,关于总出动时间
+guild_main_142,入団条件設定,Scout Settings,入团条件设定
+guild_main_143,団長が二週間ログインしなかった為、<br />あなたが団長になりました。<br />団長を他の人に移譲する場合は<br />騎空団管理より行ってください。,"The captain has not logged in for 2 weeks,<br>so you have been assigned captain<br>To assign a different captain, go to<br>Crew Settings.",原团长已两周未登入，<br />您成为了新团长。<br />若想将团长一职移交他人，<br />请在骑空团管理中设置。
+guild_main_144,チャット機能の有効化,Enable Chat,起动聊天功能
+guild_main_145,利用制限,Message Board,关于聊天
+guild_main_146,先の利用から5秒経過すると<br>再度利用可能です。,Messages and stickers can<br>be sent again in 5 seconds.,发送消息后须经5秒<br>进行下一次消息发送。
+guild_main_147,チャット(スタンプ),Chat Stickers,聊天（表情）
+guild_main_148,エラーにより送信できませんでした。,An error occurred. Message couldn't be sent.,发生错误。消息发送失败。
+guild_main_149,1文字以上入力してください。,Type at least 1 character.,请至少输入1字。
+guild_main_15,次の曲の演奏ができるのは,"The crew theme can be reset in ",以下期限后才能重新设定骑空团背景音乐
+guild_main_150,%s文字以内で入力してください。,Messages can be up to %s characters.,请输入%s字以内的信息。
+guild_main_151,送信完了,Chat,已发送
 guild_main_152,Lv,"Lvl ",
-guild_main_153,レア以上の武器を<br>素材にしようとしています！,An R–SSR weapon<br>is about to be absorbed.,
-guild_main_154,レア以上の武器を<br>素材にしようとしています！,R–SSR weapons<br>are about to be absorbed.,
-guild_main_155,戦,PWR,
+guild_main_153,レア以上の武器を<br>素材にしようとしています！,An R–SSR weapon<br>is about to be absorbed.,素材中含有稀有武器！
+guild_main_154,レア以上の武器を<br>素材にしようとしています！,R–SSR weapons<br>are about to be absorbed.,素材中含有稀有武器！
+guild_main_155,戦,PWR,战
 guild_main_156,攻,ATK,
 guild_main_157,Lv,Lvl,
 guild_main_158,H,HP,
 guild_main_159,",",", ",
-guild_main_16,後です。,.,
+guild_main_16,後です。,.,后
 guild_main_17,0分,0 min,
-guild_main_18,"%s日 ",%s d,
-guild_main_19,"%s時間 ",%s h,
-guild_main_2,解雇する団員がいません。,There are no members to remove.,
+guild_main_18,"%s日 ",%s d,%s天
+guild_main_19,"%s時間 ",%s h,%s小时
+guild_main_2,解雇する団員がいません。,There are no members to remove.,没有可移除的团员。
 guild_main_20,%s分,%s m,
-guild_main_21,スカウトリスト,Scout List,
-guild_main_22,団員スカウト,Scout,
-guild_main_23,<span style='%s'>%s</span>さんをスカウトしました,<span style='%s'>%s</span> was scouted.,
-guild_main_24,このプレイヤーは、<br>第4章 をクリアしていないため、<br>スカウトできません。,This player can't be<br>scouted because they<br>haven't cleared chapter four yet.,
-guild_main_25,団員人数が上限に達しているため、<br>スカウトできませんでした。<br><br>団員を解雇するか、<br>スカウトを取り下げてください。,This player can't be scouted because<br>your crew is full. Either remove a crew<br>member or cancel scouting.,
-guild_main_26,人数上限です,Scout,
-guild_main_27,現在の役職が変更されたため、<br>スカウトできませんでした<br><br>騎空団TOPへ戻ります。,You can't scout because your position<br>in the crew has changed.<br>The Crew screen will now appear.,
-guild_main_28,スカウトできません,Scout,
-guild_main_29,既にスカウト済みです。,has already been scouted.,
-guild_main_3,団員を解雇,Remove Member,
-guild_main_30,現在他の騎空団からスカウトされているためスカウトできません。<br><br>時間を置いてもう一度スカウトしてください。<br>,has already been scouted by another crew.<br><br>Please try again at a later time.<br>,
-guild_main_31,既に入団待ち状態です。,has already been scouted.,
-guild_main_32,現在他の騎空団の入団待ち状態です。,has already been sent a scout request.,
-guild_main_33,既に同じ騎空団に所属しています。,is already in your crew.,
-guild_main_34,同じ騎空団に入団申請を出しています。,is already in your crew.,
-guild_main_35,スカウトできません。<br><br>時間を置いてもう一度スカウトしてください。,Unable to scout.<br><br>Please try again at a later time.,
-guild_main_36,コメントを入力してください。,Type a message.,
-guild_main_37,<div class='prt-scout-msg prt-popup-frame'>%s</div>このメッセージを送り、スカウトしますか？,<div class='prt-scout-msg prt-popup-frame'>%s</div>Send this player a message to scout them?,
-guild_main_38,エラー,Error,
-guild_main_39,招待済み,Invited,
-guild_main_4,解雇,Remove,
-guild_main_40,すでに招待しています。,An invitation has already been sent.,
-guild_main_41,騎空艇パーツ,Airship Parts,
-guild_main_42,解放される騎空団サポート,Buy Airship Part,
-guild_main_43,騎空艇強化,Airship Upgrade,
-guild_main_44,武器で強化する,Upgrade with Weapons,
-guild_main_45,強化結果,Congratulations!,
-guild_main_46,おすすめ強化,Upgrade Using Auto Select,
-guild_main_47,おすすめ素材がありません。,There are no matching absorbable materials.,
-guild_main_48,おすすめ一括強化設定,Auto Select,
-guild_main_49,騎空艇,Airship,
-guild_main_5,団員を解雇しました。,The crew member was removed.,
-guild_main_50,騎空艇詳細,Airship Info,
-guild_main_51,騎空団サポート一覧,Available Crew Skills,
-guild_main_52,改造パーツで強化する,,
-guild_main_53,ルピで強化する,,
-guild_main_54,騎空団検索リスト,Crew List,
-guild_main_55,該当騎空団がありません,No Matches,
-guild_main_56,騎空団申請,Crew Application,
-guild_main_57,騎空団を利用するには、<br>第4章 をクリアする必要があります。,You must clear chapter 4<br>to join a crew.,
-guild_main_58,[ %s ]に入団申請をしました。,Application was sent to[ %s ].,
-guild_main_59,申請中の騎空団id,Crew ID (Applied),
-guild_main_6,騎空艇リスト,Airship List,
-guild_main_60,騎空団,Crew,
-guild_main_61,Rankを指定しない,No Minimum Rank,
-guild_main_62,Rank10以上,Rank 10 or higher,
+guild_main_21,スカウトリスト,Scout List,邀请列表
+guild_main_22,団員スカウト,Scout,邀请入团
+guild_main_23,<span style='%s'>%s</span>さんをスカウトしました,<span style='%s'>%s</span> was scouted.,已邀请<span style='%s'>%s</span>
+guild_main_24,このプレイヤーは、<br>第4章 をクリアしていないため、<br>スカウトできません。,This player can't be<br>scouted because they<br>haven't cleared chapter four yet.,该玩家未通关第4章，无法邀请。
+guild_main_25,団員人数が上限に達しているため、<br>スカウトできませんでした。<br><br>団員を解雇するか、<br>スカウトを取り下げてください。,This player can't be scouted because<br>your crew is full. Either remove a crew<br>member or cancel scouting.,团员人数已满，邀请失败。请移除团员，或取消本次邀请。
+guild_main_26,人数上限です,Scout,人数已满
+guild_main_27,現在の役職が変更されたため、<br>スカウトできませんでした<br><br>騎空団TOPへ戻ります。,You can't scout because your position<br>in the crew has changed.<br>The Crew screen will now appear.,您的职位发生改变，无法发送邀请。返回骑空团首页。
+guild_main_28,スカウトできません,Scout,邀请失败
+guild_main_29,既にスカウト済みです。,has already been scouted.,您已向该玩家发出过邀请。
+guild_main_3,団員を解雇,Remove Member,解雇团员
+guild_main_30,現在他の騎空団からスカウトされているためスカウトできません。<br><br>時間を置いてもう一度スカウトしてください。<br>,has already been scouted by another crew.<br><br>Please try again at a later time.<br>,该玩家已被其他骑空团邀请。<br><br>请稍后再试。
+guild_main_31,既に入団待ち状態です。,has already been scouted.,您已向该玩家发出过邀请。
+guild_main_32,現在他の騎空団の入団待ち状態です。,has already been sent a scout request.,该玩家已被其他骑空团邀请。
+guild_main_33,既に同じ騎空団に所属しています。,is already in your crew.,该玩家已在您的骑空团。
+guild_main_34,同じ騎空団に入団申請を出しています。,is already in your crew.,该玩家已在您的骑空团。
+guild_main_35,スカウトできません。<br><br>時間を置いてもう一度スカウトしてください。,Unable to scout.<br><br>Please try again at a later time.,邀请失败。<br><br>请稍后再试。
+guild_main_36,コメントを入力してください。,Type a message.,请输入留言。
+guild_main_37,<div class='prt-scout-msg prt-popup-frame'>%s</div>このメッセージを送り、スカウトしますか？,<div class='prt-scout-msg prt-popup-frame'>%s</div>Send this player a message to scout them?,<div class='prt-scout-msg prt-popup-frame'>%s</div>是否发送该留言，邀请该玩家入团？
+guild_main_38,エラー,Error,错误
+guild_main_39,招待済み,Invited,已邀请
+guild_main_4,解雇,Remove,解雇
+guild_main_40,すでに招待しています。,An invitation has already been sent.,您已向该玩家发出过邀请。
+guild_main_41,騎空艇パーツ,Airship Parts,骑空艇部件
+guild_main_42,解放される騎空団サポート,Buy Airship Part,解放新的骑空团支援效果
+guild_main_43,騎空艇強化,Airship Upgrade,骑空团强化
+guild_main_44,武器で強化する,Upgrade with Weapons,使用武器强化
+guild_main_45,強化結果,Congratulations!,强化结果
+guild_main_46,おすすめ強化,Upgrade Using Auto Select,一键强化
+guild_main_47,おすすめ素材がありません。,There are no matching absorbable materials.,无指定推荐素材
+guild_main_48,おすすめ一括強化設定,Auto Select,推荐素材设定
+guild_main_49,騎空艇,Airship,骑空艇
+guild_main_5,団員を解雇しました。,The crew member was removed.,已移除该团员
+guild_main_50,騎空艇詳細,Airship Info,骑空艇详情
+guild_main_51,騎空団サポート一覧,Available Crew Skills,骑空团支援效果一览
+guild_main_52,改造パーツで強化する,,使用改造部件强化
+guild_main_53,ルピで強化する,,使用卢比强化
+guild_main_54,騎空団検索リスト,Crew List,骑空团成员检索
+guild_main_55,該当騎空団がありません,No Matches,找不到该成员
+guild_main_56,騎空団申請,Crew Application,骑空团申请
+guild_main_57,騎空団を利用するには、<br>第4章 をクリアする必要があります。,You must clear chapter 4<br>to join a crew.,骑空团功能将在第4章通关后解放。
+guild_main_58,[ %s ]に入団申請をしました。,Application was sent to[ %s ].,您已申请加入[ %s ]。
+guild_main_59,申請中の騎空団id,Crew ID (Applied),申请中的骑空艇id
+guild_main_6,騎空艇リスト,Airship List,骑空艇列表
+guild_main_60,騎空団,Crew,骑空团
+guild_main_61,Rankを指定しない,No Minimum Rank,无等级限制
+guild_main_62,Rank10以上,Rank 10 or higher,Rank10以上
 guild_main_63,Rank20以上,Rank 20 or higher,
 guild_main_64,Rank30以上,Rank 30 or higher,
-guild_main_65,プレイスタイルを設定しない,Any Gaming Style,
-guild_main_66,楽しくプレイ,Just For Fun,
-guild_main_67,マイペースにプレイ,Easy Pace,
-guild_main_68,静かにプレイ,Stealth Players,
-guild_main_69,積極的にイベントに参加,Full Event Participation,
-guild_main_7,騎空団サポート発動中,Crew Skills Active,
-guild_main_70,マイページに戻る,Home,
-guild_main_71,申請中の騎空団TOPに戻る,Crew,
-guild_main_72,騎空団検索画面に戻る,Crew Search,
-guild_main_73,騎空団TOP,Crew,
-guild_main_74,騎空団申請取り下げ,Cancel Application,
-guild_main_75,[ %s ]<br>への申請を取り下げますか？,Cancel your application to<br>[ %s ]?,
-guild_main_76,[ %s]への申請を取り下げました。,Your application to [ %s] was canceled.,
-guild_main_77,騎空団スカウト受理,Accept Scout Request,
-guild_main_78,騎空団申請不可,Can't Apply,
-guild_main_79,騎空団結成,Form Crew,
-guild_main_8,騎空艇の購入,Buy Airship,
-guild_main_80,騎空団名が入力されていません。<br>騎空団名を入力してください。,The crew name is not typed.<br>Please type the crew name.,
-guild_main_81,騎空団名は10文字以内で入力してください。,Crew name can be up to 10 characters.,
-guild_main_82,[ %s ] <br>この名前で騎空団を結成します。,Your crew name is<br>%s.,
-guild_main_83,騎空団 団員リスト,Crew Member List,
-guild_main_84,入団待ちの人はいません。,No applicants.,
-guild_main_85,スカウト中の人はいません。,No one is being scouted.,
-guild_main_86,役職設定,Change Position,
-guild_main_87,役職変更できません。,Can't change position.,
-guild_main_88,このプレイヤーは既に退団しているため、<br>役職を変更できませんでした。,"This player has already left the crew,<br>so their position couldn't be changed.",
-guild_main_89,入団待ち,Applicants,
-guild_main_9,ルピを寄付する,Donate Rupies,
-guild_main_90,入団を本当に拒否しますか？,Dismiss this scout request?,
-guild_main_91,入団申請,Apply,
-guild_main_92,入団申請依頼を拒否しました。,Dismissed this player's application to your crew.,
-guild_main_93,入団を拒否することができませんでした,Application couldn't be dismissed.,
-guild_main_94,スカウト,Scout,
-guild_main_95,このプレイヤーのスカウトを取り下げますか？,Cancel the scout request for this player?,
-guild_main_96,模様替え,Change Background,
-guild_main_97,あと,"Reset in: ",
-guild_main_98,騎空団団員リスト（任命）,Assign Crew Member,
+guild_main_65,プレイスタイルを設定しない,Any Gaming Style,无游戏频率限制
+guild_main_66,楽しくプレイ,Just For Fun,随便玩玩
+guild_main_67,マイペースにプレイ,Easy Pace,量力而行
+guild_main_68,静かにプレイ,Stealth Players,默默肝耘
+guild_main_69,積極的にイベントに参加,Full Event Participation,古战场警察
+guild_main_7,騎空団サポート発動中,Crew Skills Active,骑空团支援效果发动中
+guild_main_70,マイページに戻る,Home,返回主页
+guild_main_71,申請中の騎空団TOPに戻る,Crew,返回申请中的骑空团主页
+guild_main_72,騎空団検索画面に戻る,Crew Search,返回骑空团搜索页
+guild_main_73,騎空団TOP,Crew,骑空团主页
+guild_main_74,騎空団申請取り下げ,Cancel Application,取消申请
+guild_main_75,[ %s ]<br>への申請を取り下げますか？,Cancel your application to<br>[ %s ]?,是否取消申请加入[ %s ]？
+guild_main_76,[ %s]への申請を取り下げました。,Your application to [ %s] was canceled.,已取消申请
+guild_main_77,騎空団スカウト受理,Accept Scout Request,接受骑空团邀请
+guild_main_78,騎空団申請不可,Can't Apply,无法申请
+guild_main_79,騎空団結成,Form Crew,创建骑空团
+guild_main_8,騎空艇の購入,Buy Airship,购买骑空艇
+guild_main_80,騎空団名が入力されていません。<br>騎空団名を入力してください。,The crew name is not typed.<br>Please type the crew name.,骑空团名为空。<br>卿输入骑空团名。
+guild_main_81,騎空団名は10文字以内で入力してください。,Crew name can be up to 10 characters.,请输入10字以内的骑空团名。
+guild_main_82,[ %s ] <br>この名前で騎空団を結成します。,Your crew name is<br>%s.,是否命名为<br>%s？
+guild_main_83,騎空団 団員リスト,Crew Member List,骑空团 团员列表
+guild_main_84,入団待ちの人はいません。,No applicants.,无申请入团的玩家。
+guild_main_85,スカウト中の人はいません。,No one is being scouted.,无邀请中的玩家。
+guild_main_86,役職設定,Change Position,职位设定
+guild_main_87,役職変更できません。,Can't change position.,无法变更职位。
+guild_main_88,このプレイヤーは既に退団しているため、<br>役職を変更できませんでした。,"This player has already left the crew,<br>so their position couldn't be changed.",该玩家已退团，<br>无法变更职位。
+guild_main_89,入団待ち,Applicants,入团申请
+guild_main_9,ルピを寄付する,Donate Rupies,捐赠团费
+guild_main_90,入団を本当に拒否しますか？,Dismiss this scout request?,是否拒绝入团邀请？
+guild_main_91,入団申請,Apply,入团申请
+guild_main_92,入団申請依頼を拒否しました。,Dismissed this player's application to your crew.,您已拒绝加入。
+guild_main_93,入団を拒否することができませんでした,Application couldn't be dismissed.,拒绝失败
+guild_main_94,スカウト,Scout,邀请
+guild_main_95,このプレイヤーのスカウトを取り下げますか？,Cancel the scout request for this player?,是否取消邀请该玩家？
+guild_main_96,模様替え,Change Background,变更背景
+guild_main_97,あと,"Reset in: ",还剩
+guild_main_98,騎空団団員リスト（任命）,Assign Crew Member,骑空团团员列表（任命）
 help_1,HELP,Help,
-island_1,空域間の移動,Travel Skydoms,
+island_1,空域間の移動,Travel Skydoms,选择空域
 item_1,アイテム,Items,道具
-item_10,チケット,Tickets,
-item_11,アイテム使用確認,Use Item,
-item_12,回復量が取得できません,Can't get the amount for recovery.,
-item_13,バトル中のパーティがいます,You have a party in battle right now.,
-item_14,既に全回復しているためアイテムを使用できません,All players have full health so your item wasn't used.,
-item_15,チケット使用確認,Use Ticket,
-item_16,大事なもの,Wonders,
-item_2,これ以上強化できません。,This bonus has full stars.,
-item_23,アイテムについて,About Items,
-item_26,アイテム詳細,Item Details,
-item_27,アイテム使用結果,Use Item,
-item_28,BP,EP,
-item_3,これ以上上限解放できません。,The level cap can't be raised any higher.,
-item_4,レ・フィーエ,,
-item_5,セブンス・ペイン,,
-item_6,アイテム一覧,Item List,
-item_7,回復アイテム,Recovery Items,
-item_8,育成アイテム,Power-Ups,
-item_9,トレジャー,Treasure,
+item_10,チケット,Tickets,扭蛋券
+item_11,アイテム使用確認,Use Item,确认使用道具
+item_12,回復量が取得できません,Can't get the amount for recovery.,无法回复指定量HP
+item_13,バトル中のパーティがいます,You have a party in battle right now.,您还处于战斗中
+item_14,既に全回復しているためアイテムを使用できません,All players have full health so your item wasn't used.,所有玩家HP已满，无法使用该道具。
+item_15,チケット使用確認,Use Ticket,确认使用
+item_16,大事なもの,Wonders,宝物
+item_2,これ以上強化できません。,This bonus has full stars.,无法继续强化
+item_23,アイテムについて,About Items,关于道具
+item_26,アイテム詳細,Item Details,道具详情
+item_27,アイテム使用結果,Use Item,道具使用结果
+item_28,BP,EP,BP
+item_3,これ以上上限解放できません。,The level cap can't be raised any higher.,无法继续上限解放
+item_4,レ・フィーエ,,宝石姬
+item_5,セブンス・ペイン,,七色伤痛
+item_6,アイテム一覧,Item List,道具一览
+item_7,回復アイテム,Recovery Items,回复道具
+item_8,育成アイテム,Power-Ups,经验/上限解放道具
+item_9,トレジャー,Treasure,物品素材
 job_skillitem_01,特殊武器,,
 job_weapon_icon_1,剣,Sabre,
 job_weapon_icon_10,刀,Katana,
@@ -1088,116 +1088,116 @@ latter_ending,,additional story's ending,
 limited_1,サイコー！FANTASY,,
 limited_10,個," ",
 limited_11,人,,
-limited_12,%sがパーティに加入しました。,,
-limited_13,本日の交換個数制限　残り%s,Only %s more available today.,
-limited_14,残り%s,,
+limited_12,%sがパーティに加入しました。,,%s已成为伙伴
+limited_13,本日の交換個数制限　残り%s,Only %s more available today.,今日的兑换个数限制 还剩%s
+limited_14,残り%s,,还剩%s
 limited_15,（所持数　%s）,(Held: %s),
-limited_16,アイテム詳細,Item Details,
-limited_17,獲得キャラクター,,
-limited_18,交換確認,Trade Treasure,
-limited_19,本日の交換個数制限　残り%s個,Only %s more available today.,
-limited_2,時限クエスト出現,,
-limited_20,残り%s個,%s more.,
-limited_21,ほっほっほっほ。受け取っておくれ。,,
-limited_22,%sにこれをあげよう,,
-limited_23,これは、わしからのお礼じゃよ。,,
-limited_24,良い子には贈り物をあげんとな。,,
-limited_25,%s達へのプレゼントじゃよ。,,
-limited_26,プレゼントリストに送られました。,,
-limited_27,コラボキャンペーン,,
-limited_28,報酬受取,,
-limited_29,次のページへは移動できません,,
-limited_3,交換確認,Trade Treasure,
-limited_30,PC版からの移動が制限されているページの為<br>このボタンからのページ移動はできません。,,
-limited_31,クエスト再開,Resume Quests,
-limited_32,マルチバトル撤退,Raid Battle,
-limited_33,マルチバトルから撤退しました。,You retreated from the raid battle.,
-limited_34,クエスト撤退,Retreat,
-limited_35,進行中のクエストから撤退しました。,You retreated from the quest.,
-limited_36,<br><br>未クリアクエストのため、<br>AP%sが返却されました。<br><br>AP: %s→<span class='txt-after-ap'>%s</span>,<br><br>This is an uncleared quest. <br>AP will be returned: %s<br><br>%s&gt;&gt;<span class='txt-after-ap'>%s</span>,
-limited_37,撤退確認,Retreat,
-limited_4,仲間にする,,
-limited_5,交換する,Trade,
-limited_6,交換エラー,Trade Treasure,
-limited_7,交換できませんでした。,Technical issues are occurring. Treasure couldn't be traded.,
-limited_8,交換完了,Trade Treasure,
-limited_9,%s個入手しました。,You got %s.,
-limited_time_1,ホワイトデーの贈り物,,
-limited_title_1,追加された称号,New Trophies,
-limited_title_2,称号確認,Display Trophy,
-limited_title_3,称号設定完了,Display Trophy,
-limited_title_4,称号を設定しました。,You displayed a trophy.,
-lineup_1,全てのアイテムと交換しました。,You've traded for all remaining items.,
+limited_16,アイテム詳細,Item Details,道具详情
+limited_17,獲得キャラクター,,获得人物
+limited_18,交換確認,Trade Treasure,确认兑换
+limited_19,本日の交換個数制限　残り%s個,Only %s more available today.,今日的兑换个数限制 还剩%s
+limited_2,時限クエスト出現,,限时任务出现
+limited_20,残り%s個,%s more.,还剩%s个
+limited_21,ほっほっほっほ。受け取っておくれ。,,吼~吼~吼~吼。收下吧。
+limited_22,%sにこれをあげよう,,送给%s这个吧。
+limited_23,これは、わしからのお礼じゃよ。,,这是我给你们的礼物。
+limited_24,良い子には贈り物をあげんとな。,,是你们这些好孩子应得的。
+limited_25,%s達へのプレゼントじゃよ。,,你们就收下吧。
+limited_26,プレゼントリストに送られました。,,已发送到礼物列表
+limited_27,コラボキャンペーン,,联动
+limited_28,報酬受取,,报酬收取
+limited_29,次のページへは移動できません,,无法前往下一页
+limited_3,交換確認,Trade Treasure,确认兑换
+limited_30,PC版からの移動が制限されているページの為<br>このボタンからのページ移動はできません。,,PC版无法查看此页，点击该按钮无法前往下一页。
+limited_31,クエスト再開,Resume Quests,回归任务
+limited_32,マルチバトル撤退,Raid Battle,从多人战斗中撤退
+limited_33,マルチバトルから撤退しました。,You retreated from the raid battle.,已从多人战斗中撤退。
+limited_34,クエスト撤退,Retreat,从任务中撤退
+limited_35,進行中のクエストから撤退しました。,You retreated from the quest.,已从当前任务撤退
+limited_36,<br><br>未クリアクエストのため、<br>AP%sが返却されました。<br><br>AP: %s→<span class='txt-after-ap'>%s</span>,<br><br>This is an uncleared quest. <br>AP will be returned: %s<br><br>%s&gt;&gt;<span class='txt-after-ap'>%s</span>,<br><br>因您未成功通关该任务，<br>消耗的%sAP已回复。<br><br>AP: %s→<span class='txt-after-ap'>%s</span>
+limited_37,撤退確認,Retreat,确认撤退
+limited_4,仲間にする,,招募该伙伴
+limited_5,交換する,Trade,确认兑换
+limited_6,交換エラー,Trade Treasure,兑换错误
+limited_7,交換できませんでした。,Technical issues are occurring. Treasure couldn't be traded.,兑换失败
+limited_8,交換完了,Trade Treasure,兑换成功
+limited_9,%s個入手しました。,You got %s.,获得%s个。
+limited_time_1,ホワイトデーの贈り物,,白色情人节的礼物
+limited_title_1,追加された称号,New Trophies,新称号
+limited_title_2,称号確認,Display Trophy,称号确认
+limited_title_3,称号設定完了,Display Trophy,称号设定成功
+limited_title_4,称号を設定しました。,You displayed a trophy.,已设定该称号。
+lineup_1,全てのアイテムと交換しました。,You've traded for all remaining items.,您已兑换剩余的全部道具
 listall_1,武器,Weapons,武器
 listall_10,Lv,Lvl,
 listall_11,H,HP,
 listall_12,Class,EM Lvl,
-listall_13,倉庫に移動,Move to Stash,
+listall_13,倉庫に移動,Move to Stash,转移至仓库
 listall_2,召喚石,Summons,召唤石
-listall_3,倉庫に移す,Move to Stash,
-listall_4,移動完了,Stash,
-listall_5,リスト,Inventory,
-listall_6,移動先倉庫選択,Stash,
-listall_7,選択した倉庫内がいっぱいのため<br>移動できません。,The stash you selected is full. Select another one.,
-listall_8,戦,PWR,
+listall_3,倉庫に移す,Move to Stash,转移至仓库
+listall_4,移動完了,Stash,转移成功
+listall_5,リスト,Inventory,列表
+listall_6,移動先倉庫選択,Stash,选择目标仓库
+listall_7,選択した倉庫内がいっぱいのため<br>移動できません。,The stash you selected is full. Select another one.,该仓库已满，转移失败。
+listall_8,戦,PWR,战
 listall_9,攻,ATK,
 listall_move_1,武器,weapon,武器
 listall_move_2,召喚石,summon,召唤石
 listall_move_3,武器,weapons,武器
 listall_move_4,召喚石,summons,召唤石
-listall_pop_1,倉庫に移す,Move to Stash,
-listall_pop_2,倉庫がいっぱいのため<br>移動できません。,The stash you selected is full.,
-listall_pushed_1,プロフィール,Profile,
-listall_pushed_2,推しキャラ選択,Star Character,
-lobby_approval_pop_1,マルチバトル承認,Ready Check,
-lobby_authority_pop_1,クエスト権変更,Quest Setter Permissions,
-lobby_authority_pop_2,%sにクエスト権を変更しますか？,Change %s's quest setter permissions?,
-lobby_authority_pop_3,%sにクエスト権を変更しました,You changed %s's quest setter permissions.,
-lobby_authority_title_1,クエスト権変更,Quest Setters,
-lobby_chat_pop_1,チャット(スタンプ),Chat Stickers,
-lobby_chat_pop_10,削除しました。,Message was deleted.,
-lobby_chat_pop_11,スタンプを送りました。,Sticker was sent.,
-lobby_chat_pop_12,削除失敗,Message Board,
-lobby_chat_pop_13,削除できませんでした。,Message can't be deleted.,
-lobby_chat_pop_2,禁止ワードが含まれています。,This message is invalid.,
-lobby_chat_pop_3,チャット,Chat,
-lobby_chat_pop_4,コメントを入力してください。,Type a message.,
-lobby_chat_pop_5,%s文字以内で入力してください。,Messages can be up to %s characters.,
-lobby_chat_pop_6,送信完了,Chat,
-lobby_chat_pop_7,チャットを送りました。,Message was sent.,
-lobby_chat_pop_8,削除確認,Message Board,
-lobby_chat_pop_9,削除完了,Message Board,
-lobby_chat_title_1,共闘チャット,Co-op Chat,
-lobby_entry_error_1,コメントは24文字までです。,Type up to 24 characters.,
-lobby_entry_error_2,禁止ワードが含まれています。,This message is invalid.,
+listall_pop_1,倉庫に移す,Move to Stash,转移至仓库
+listall_pop_2,倉庫がいっぱいのため<br>移動できません。,The stash you selected is full.,该仓库已满，转移失败。
+listall_pushed_1,プロフィール,Profile,个人资料
+listall_pushed_2,推しキャラ選択,Star Character,选择推荐角色
+lobby_approval_pop_1,マルチバトル承認,Ready Check,多人战斗准备
+lobby_authority_pop_1,クエスト権変更,Quest Setter Permissions,变更任务设定权
+lobby_authority_pop_2,%sにクエスト権を変更しますか？,Change %s's quest setter permissions?,变更%s的任务设定权？
+lobby_authority_pop_3,%sにクエスト権を変更しました,You changed %s's quest setter permissions.,%s的任务设定权已变更
+lobby_authority_title_1,クエスト権変更,Quest Setters,任务设定权
+lobby_chat_pop_1,チャット(スタンプ),Chat Stickers,聊天（表情）
+lobby_chat_pop_10,削除しました。,Message was deleted.,已删除
+lobby_chat_pop_11,スタンプを送りました。,Sticker was sent.,已发送
+lobby_chat_pop_12,削除失敗,Message Board,删除失败
+lobby_chat_pop_13,削除できませんでした。,Message can't be deleted.,删除失败
+lobby_chat_pop_2,禁止ワードが含まれています。,This message is invalid.,含有敏感词。
+lobby_chat_pop_3,チャット,Chat,聊天
+lobby_chat_pop_4,コメントを入力してください。,Type a message.,请输入信息。
+lobby_chat_pop_5,%s文字以内で入力してください。,Messages can be up to %s characters.,请输入%s字以内的信息。
+lobby_chat_pop_6,送信完了,Chat,已发送
+lobby_chat_pop_7,チャットを送りました。,Message was sent.,消息已发送。
+lobby_chat_pop_8,削除確認,Message Board,确认删除
+lobby_chat_pop_9,削除完了,Message Board,删除成功
+lobby_chat_title_1,共闘チャット,Co-op Chat,共斗聊天
+lobby_entry_error_1,コメントは24文字までです。,Type up to 24 characters.,请输入24字以内的信息。
+lobby_entry_error_2,禁止ワードが含まれています。,This message is invalid.,含有敏感词。
 lobby_entry_title_1,ルーム作成,Create a Room,创建房间
 lobby_entry_title_2,ルーム情報変更,Room,房间信息更新
-lobby_force_leave_pop_1,強制退室,Remove Player,
-lobby_force_leave_pop_10,強制退室は却下されました。,An approval request to remove a player has been denied.,
-lobby_force_leave_pop_2,強制退室確認,Remove Player,
-lobby_force_leave_pop_3,強制退室完了,Done Removing Player,
-lobby_force_leave_pop_4,強制退室を実行しました。,The player has been removed from the room.,
-lobby_force_leave_pop_5,強制退室承認中,Remove Player,
-lobby_force_leave_pop_6,強制退室承認依頼,Approval Request,
-lobby_force_leave_pop_7,強制退室成立,Remove Player,
-lobby_force_leave_pop_8,%sさんを強制退室しました。,%s has been removed from the room.,
-lobby_force_leave_pop_9,強制退室不成立,Remove Player,
+lobby_force_leave_pop_1,強制退室,Remove Player,强制退出
+lobby_force_leave_pop_10,強制退室は却下されました。,An approval request to remove a player has been denied.,强制退出请求被拒绝。
+lobby_force_leave_pop_2,強制退室確認,Remove Player,强制退出确认
+lobby_force_leave_pop_3,強制退室完了,Done Removing Player,强制退出成功
+lobby_force_leave_pop_4,強制退室を実行しました。,The player has been removed from the room.,强制退出执行成功。
+lobby_force_leave_pop_5,強制退室承認中,Remove Player,强制退出请求正在审核
+lobby_force_leave_pop_6,強制退室承認依頼,Approval Request,同意强制退出
+lobby_force_leave_pop_7,強制退室成立,Remove Player,强制退出请求通过
+lobby_force_leave_pop_8,%sさんを強制退室しました。,%s has been removed from the room.,%s已退出房间。
+lobby_force_leave_pop_9,強制退室不成立,Remove Player,强制退出请求失败
 lobby_index_1,<span class='txt-current-num'>%s1</span>/<span class='txt-max-num'>%s2</span>参加中,Players: <span class='txt-current-num'>%s1</span> / <span class='txt-max-num'>%s2</span>,
-lobby_index_count_1,残り %s分,Closes in %s min,
-lobby_index_count_2,残り %s秒,Closes in %s sec,
-lobby_index_count_3,残り %s分%s秒,Closes in %s min %s sec,
-lobby_index_pop_1,ルーム情報確認,Room Details,
-lobby_index_pop_10,認証完了,Link Twitter Account,
-lobby_index_pop_11,Twitterとの連携を認証しました。,Your Granblue Fantasy account and Twitter account are now linked.,
-lobby_index_pop_12,誰でもOK,Anyone,
-lobby_index_pop_13,フレンド限定,Friends Only,
-lobby_index_pop_14,騎空団員限定,Crew Members Only,
-lobby_index_pop_15,設定なし,None,
-lobby_index_pop_16,承認あり,Ready Check Enabled,
-lobby_index_pop_17,承認なし,Ready Check Disabled,
+lobby_index_count_1,残り %s分,Closes in %s min,剩余 %s分
+lobby_index_count_2,残り %s秒,Closes in %s sec,剩余 %s秒
+lobby_index_count_3,残り %s分%s秒,Closes in %s min %s sec,剩余 %s分%s秒
+lobby_index_pop_1,ルーム情報確認,Room Details,房间信息确认
+lobby_index_pop_10,認証完了,Link Twitter Account,绑定成功
+lobby_index_pop_11,Twitterとの連携を認証しました。,Your Granblue Fantasy account and Twitter account are now linked.,您已绑定推特账号。
+lobby_index_pop_12,誰でもOK,Anyone,所有玩家
+lobby_index_pop_13,フレンド限定,Friends Only,仅好友
+lobby_index_pop_14,騎空団員限定,Crew Members Only,仅骑空团员
+lobby_index_pop_15,設定なし,None,无设定
+lobby_index_pop_16,承認あり,Ready Check Enabled,需确认准备
+lobby_index_pop_17,承認なし,Ready Check Disabled,无需确认准备
 lobby_index_pop_18,[グラブル]マルチバトル参加者募集！\nルームID：%s\n募集対象：%s\n参戦人数：%s人\n%s\n%s\n%s,Join my Granblue Fantasy raid room!\nRoom ID: %s\nPlayer Type: %s\nLimit: %s\n%s\n%s\n%s,
-lobby_index_pop_2,パソコンからのご利用について,Play on a Computer,
-lobby_index_pop_20,クエスト選択,Select Quest,
+lobby_index_pop_2,パソコンからのご利用について,Play on a Computer,关于电脑端的使用
+lobby_index_pop_20,クエスト選択,Select Quest,选择任务
 lobby_index_pop_21,クエスト確認,Quest,
 lobby_index_pop_22,最大AP不足,AP,
 lobby_index_pop_23,クエストを実行するためのAPが<br>現在の最大APを上回っています。<br>APはRankを上げることで<br>最大値が上昇します。,This quest requires more AP than you can have yet.<br>Raise your rank to get more AP.,
