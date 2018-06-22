@@ -1031,7 +1031,7 @@ guild_main_77,騎空団スカウト受理,Accept Scout Request,接受骑空团�
 guild_main_78,騎空団申請不可,Can't Apply,无法申请
 guild_main_79,騎空団結成,Form Crew,创建骑空团
 guild_main_8,騎空艇の購入,Buy Airship,购买骑空艇
-guild_main_80,騎空団名が入力されていません。<br>騎空団名を入力してください。,The crew name is not typed.<br>Please type the crew name.,骑空团名为空。<br>卿输入骑空团名。
+guild_main_80,騎空団名が入力されていません。<br>騎空団名を入力してください。,The crew name is not typed.<br>Please type the crew name.,骑空团名为空。<br>请输入骑空团名。
 guild_main_81,騎空団名は10文字以内で入力してください。,Crew name can be up to 10 characters.,请输入10字以内的骑空团名。
 guild_main_82,[ %s ] <br>この名前で騎空団を結成します。,Your crew name is<br>%s.,是否命名为<br>%s？
 guild_main_83,騎空団 団員リスト,Crew Member List,骑空团 团员列表
