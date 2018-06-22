@@ -10,11 +10,11 @@ const getTransResult = (res) => {
 }
 
 
-const googleTrans = async (keyword, lang = 'en') => {
+const googleTrans = async (keyword, lang = 'en', to = 'zh-CN') => {
   let query = new UrlSearchParams({
     client: 'gtx',
     sl: lang,
-    tl: 'zh-CN',
+    tl: to,
     hl: 'zh-CN',
     ie:'UTF-8',
     oe:'UTF-8'

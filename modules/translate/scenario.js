@@ -96,7 +96,8 @@ const transMulti = async (list, lang, userName) => {
       if (!/^\w+$/.test(userName)) _lang = 'unknown'
       txt = replaceWords(txt, new Map([[userName, CONFIG.yourName]]), _lang)
     }
-    return transApi(txt, lang)
+    const targetLang = CONFIG.lang === 'hans' ? 'zh-CN' : 'zh-TW'
+    return transApi(txt, lang, targetLang)
   }))
   return transStr.reduce((result, str) => {
     let _str = str
