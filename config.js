@@ -1,8 +1,16 @@
 const fs = require('fs-extra')
 const path = require('path')
-const { dirname } = require('path')
+const { app } = require('electron')
 const mkdirp = require('mkdirp')
-const { LOCAL_CONFIG_PATH } = require('./store/')
+
+const { dirname } = path
+const cwd = process.cwd()
+
+const USER_DATA_PATH = app
+  ? path.resolve(app.getPath('userData'))
+  : path.resolve(cwd, 'userData')
+
+const LOCAL_CONFIG_PATH = path.resolve(USER_DATA_PATH, 'config.json')
 
 const config = {
   // 游戏的主要数据接口
@@ -19,6 +27,7 @@ const config = {
   // 替换用的主角名字
   yourName: '姬塔',
   displayName: '',
+  lang: 'auto',
   // 是否拦截 http://platform.twitter.com/widgets.js
   interceptTwitterWidgets: true,
 
@@ -62,6 +71,9 @@ const config = {
 const getLocalConfig = () => {
   const localConfig = fs.readJsonSync(LOCAL_CONFIG_PATH, { throws: false })
   Object.assign(config, localConfig)
+  if (config.lang === 'auto') {
+    config.lang = app && (app.getLocale() === 'zh-TW') ? 'hant' : 'hans'
+  }
   fs.ensureFileSync(LOCAL_CONFIG_PATH)
   fs.writeJsonSync(LOCAL_CONFIG_PATH, config, { spaces: 2 })
 }

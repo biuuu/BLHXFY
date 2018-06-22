@@ -1,4 +1,5 @@
 ## 翻译数据
+查看 [繁體數據](https://github.com/biuuu/BLHXFY-HANT)
 ### 关于剧情翻译
 scenario 目录下为所有剧情文件，感谢所有提供翻译朋友的无私贡献。
 

@@ -1,14 +1,11 @@
 const { download } = require('electron-dl')
 const CONFIG = require('../config')
 const axios = require('axios')
-const { getPackname, USER_DATA_PATH } = require('../store/')
+const { getPackname, USER_DATA_PATH, DATA_DIR_NAME } = require('../store/')
 const path = require('path')
 const fs = require('fs-extra')
-const { getData, readNoun, readMsg } = require('../store/nameMap')
-const { reCollectSkill } = require('../store/skillMap')
-const { reCollectScenario } = require('../store/scenarioState')
-const { reCollectFiles } = require('../store/staticMap')
 const DecompressZip = require('decompress-zip')
+const reCollectAll = require('./reCollectData')
 
 const decompressFile = (filename, target, cb) => {
   var unzipper = new DecompressZip(filename)
@@ -36,23 +33,16 @@ const decompressFile = (filename, target, cb) => {
 
 const reCollectData = (packname) => {
   const filename = path.resolve(USER_DATA_PATH, 'tmpFile/', packname)
-  const target = path.resolve(USER_DATA_PATH, 'data/')
+  const target = path.resolve(USER_DATA_PATH, DATA_DIR_NAME)
   fs.emptyDirSync(path.resolve(target, 'scenario'))
   fs.emptyDirSync(path.resolve(target, 'skill'))
-  decompressFile(filename, target, function () {
-    getData('en')
-    getData('jp')
-    readNoun()
-    readMsg()
-    reCollectScenario()
-    reCollectFiles()
-    reCollectSkill()
-  })
+  decompressFile(filename, target, reCollectAll)
 }
 
 const updatePkg = async (packname, win) => {
   win.webContents.send('update-csv', true)
-  const pkgUrl = `https://${CONFIG.csvHost}/blhxfy/${packname}`
+  const CSV_HOST = CONFIG.lang === 'hans' ? 'blhx.danmu9.com' : 'blhx-hant.danmu9.com'
+  const pkgUrl = `https://${CSV_HOST}/blhxfy/${packname}`
   await fs.emptyDir(path.resolve(USER_DATA_PATH, 'tmpFile/'))
   try {
     const dl = await download(win, pkgUrl, {
@@ -61,7 +51,7 @@ const updatePkg = async (packname, win) => {
       errorTitle: '更新翻译数据失败',
       errorMessage: '下载 {filename} 已中断'
     })
-    const manifestPath = path.resolve(USER_DATA_PATH, 'data/manifest.json')
+    const manifestPath = path.resolve(USER_DATA_PATH, `${DATA_DIR_NAME}/manifest.json`)
     await fs.ensureFile(manifestPath)
     await fs.writeJson(manifestPath, { packname })
     reCollectData(packname)
@@ -71,7 +61,8 @@ const updatePkg = async (packname, win) => {
 }
 
 const checkUpdate = async (win) => {
-  const manifestUrl = `https://${CONFIG.csvHost}/blhxfy/manifest.json`
+  const CSV_HOST = CONFIG.lang === 'hans' ? 'blhx.danmu9.com' : 'blhx-hant.danmu9.com'
+  const manifestUrl = `https://${CSV_HOST}/blhxfy/manifest.json`
   try {
     const res = await axios.get(manifestUrl)
     const packname = res.data.packname

@@ -6,6 +6,7 @@ const CONFIG = require('../config')
 const log = require('electron-log')
 const deleteCache = require('../utils/deleteCacheFile')
 const checkCsvUpdate = require('../utils/updateCsv')
+const reCollectAll = require('../utils/reCollectData')
 const { app, BrowserWindow, ipcMain, dialog } = require('electron')
 const autoUpdate = require('./autoUpdate')
 const initGameWindow = require('./gameWindow')
@@ -24,6 +25,10 @@ const start = () => {
   log.info('App starting...')
 
   ipcMain.on('update-config', (event, data) => {
+    if (data.lang !== CONFIG.lang) {
+      app.relaunch()
+      app.exit(0)
+    }
     Object.assign(CONFIG, data)
   })
 
@@ -63,6 +68,10 @@ const start = () => {
       protocol: 'file:',
       slashes: true
     }))
+
+    win.webContents.on('did-finish-load', () => {
+      win.webContents.send('config-data', CONFIG)
+    })
 
     // 当 window 被关闭，这个事件会被触发。
     win.on('closed', () => {
