@@ -3,13 +3,6 @@
 ### 关于剧情翻译
 scenario 目录下为所有剧情文件，感谢所有提供翻译朋友的无私贡献。
 
-目前已有的主线剧情都由 [@煌月夜](https://github.com/KoutsukiYakou) 翻译。
-
-已有的角色剧情来自
-[@poss2018](https://github.com/poss2018)、
-[@路米斯](https://github.com/toloomis)、
-[@mirror0420](https://github.com/mirror0420)。
-
 如果你想提交新的翻译文件，请在 scenario 目录点击 Create new file 按钮，
 
 如果发现有问题的翻译，或者可以改进的地方，请直接点击文件然后点击右上角的“笔图标”进行修改。
@@ -46,5 +39,17 @@ scenario 目录下为所有剧情文件，感谢所有提供翻译朋友的无�
 
 专用名词默认忽略大小写，要区分大小写则在cs列加个1。
 
+## 剧情列表
+### 主线剧情
+* 苍之少女篇  -  [@煌月夜](https://github.com/KoutsukiYakou)
+### 活动剧情和 SIDE STORY
+* 若き義勇の振るう剣  -  [@mirror0420](https://github.com/mirror0420)
+* リペイント·ザ·メモリー  -  @「灰の冠」
+### 角色剧情
+* 兰斯洛特  -  [@poss2018](https://github.com/poss2018)
+* 圣德芬  -  [@poss2018](https://github.com/poss2018)
+* 巴洛瓦  -  @告夫
+* 瓦姬拉  -  [@路米斯](https://github.com/toloomis)
+* 露娜露  -  [@mirror0420](https://github.com/mirror0420)
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />翻译文本采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可

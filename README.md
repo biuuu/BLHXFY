@@ -64,4 +64,5 @@ yarn dist
 ```
 
 ## License
-MIT
+The code is [MIT](https://github.com/biuuu/BLHXFY/blob/master/LICENSE) licensed,
+but the translation text has another License. see [details](https://github.com/biuuu/BLHXFY/tree/master/data)
