@@ -39,27 +39,24 @@
 
 提交技能翻译时可以删除 active 行。
 
-另外部分技能会有强化等级，比如 + 和 ++，但翻译始终只会显示一种，所以如果技能强化后有不同的描述，建议全部写上去。
-## Devlopment
-全局安装 yarn
-```
-npm install -g yarn
-```
-用 yarn 安装模块
-```
-yarn install
-```
-启动代理服务器
-```
-yarn proxy
-```
-或者作为 electron App 启动
-```
-yarn start
-```
+另外部分技能会有强化等级，比如 + 和 ++，则可以手动加上如 skill-1+ 这样的 ID 来显示不同的翻译。
 
-打包成应用
-```
+## Devlopment
+
+```bash
+# 全局安装 yarn
+npm install -g yarn
+
+# 用 yarn 安装模块
+yarn install
+
+# 启动代理服务器
+yarn proxy
+
+# 或者作为 electron App 启动
+yarn start
+
+# 打包成应用
 yarn dist
 ```
 

@@ -40,12 +40,12 @@ scenario 目录下为所有剧情文件，感谢所有提供翻译朋友的无�
 专用名词默认忽略大小写，要区分大小写则在cs列加个1。
 
 ## 剧情列表
-### 主线剧情
+##### 主线剧情
 * 苍之少女篇  -  [@煌月夜](https://github.com/KoutsukiYakou)
-### 活动剧情和 SIDE STORY
+##### 活动剧情和 SIDE STORY
 * 若き義勇の振るう剣  -  [@mirror0420](https://github.com/mirror0420)
 * リペイント·ザ·メモリー  -  @「灰の冠」
-### 角色剧情
+##### 角色剧情
 * 兰斯洛特  -  [@poss2018](https://github.com/poss2018)
 * 圣德芬  -  [@poss2018](https://github.com/poss2018)
 * 巴洛瓦  -  @告夫
