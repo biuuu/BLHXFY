@@ -1,0 +1,20 @@
+﻿id,en,jp,trans
+0-chapter_name,,第2話　悪夢か現か,第二章 是恶梦还是现实
+0-synopsis,,騎空艇の操舵士を志すラカムは、星晶獣ミスラの力によって友人ノアがいなければ騎空艇を飛ばすことができなくなる。ラカムはノアを探して島々を巡るものの、再会することができないまま老境にさしかかり、自らの半生を振り返るのだった。,从小想要成为操舵士的拉卡姆，因受到星晶兽米斯拉能力的影响，如果不和好友诺亚一同的话就无法起航。拉卡姆为寻找诺亚辗转各个岛屿，却直到老去也没能再会。
+5,,<span class='scene-font-kokoro'>（ガキの頃、俺は友達と約束した……</span><br><span class='scene-font-kokoro'>俺が操舵する騎空艇で</span><br><span class='scene-font-kokoro'>一緒に旅をしようと。）</span>,（在小的时候，我和朋友约好了……由我来驾驶骑空艇，一起旅行。）
+6,,<span class='scene-font-kokoro'>（ガロンゾで育った奴にはありがちな、</span><br><span class='scene-font-kokoro'>騎空士という夢が</span><br><span class='scene-font-kokoro'>言わせた言葉だった。）</span>,（这是在伽罗宋长大的家伙们常说的，想成为骑空士的话）
+7,,<span class='scene-font-kokoro'>（だがそのありきたりな約束は、</span><br><span class='scene-font-kokoro'>俺にとって呪いになった。）</span>,（然而那平凡无奇的约定，成为了我的诅咒）
+13,,<span class='scene-font-kokoro'>（遂に自分の手で舵を取り、</span><br><span class='scene-font-kokoro'>騎空艇を飛び立たせようとした</span><br><span class='scene-font-kokoro'>その日……呪いは発現した。）</span.,（在终于亲手握住舵盘，驾驶骑空艇起航的那一天……我发觉了诅咒。）</ SPAN。
+14,,<span class='scene-font-kokoro'>（俺の操縦にも騎空艇にも</span><br><span class='scene-font-kokoro'>何も問題はないのに、</span><br><span class='scene-font-kokoro'>騎空艇は飛び立てなかったんだ。）</span>,（我的操作也好骑空艇也好，明明什么问题都没有，但就是飞不起来）
+17,,<span class='scene-font-kokoro'>（ガロンゾに存在する</span><br><span class='scene-font-kokoro'>絶対遵守の力を持つ星晶獣ミスラ……</span><br><span class='scene-font-kokoro'>それが、幼い約束を呪いにした。）</span>,（在伽罗宋的，持有绝对遵守之力的星晶兽米斯拉……将幼稚的约定变为了诅咒。）
+18,,<span class='scene-font-kokoro'>（俺は、約束を交わした友達と</span><br><span class='scene-font-kokoro'>一緒でなければ</span><br><span class='scene-font-kokoro'>飛び立つことができない……）</span>,（我如果不是和定下约定的朋友一起的话，就无法起航……）
+19,,<span class='scene-font-kokoro'>（……それに気づいた頃には、</span><br><span class='scene-font-kokoro'>既に彼はガロンゾにはいなかった。）</span>,（当我意识到这一点时，他已经不在伽罗宋了。）
+20,,<span class='scene-font-kokoro'>（物心ついた時からの</span><br><span class='scene-font-kokoro'>操舵士という夢を叶えるため、</span><br><span class='scene-font-kokoro'>俺は彼を探す旅に出た……）</span>,（为了实现我从懂事开始就想成为操舵士的梦想，我踏上了寻找他的旅程……）
+23,,<span class='scene-font-kokoro'>（ノア、という名前ひとつを手掛かりに</span><br><span class='scene-font-kokoro'>俺はあらゆる島へ足を延ばした。）</span>,（诺亚，只有这个名字作为线索，我走遍了所有岛屿）
+26,,<span class='scene-font-kokoro'>（自分の操舵する騎空艇で</span><br><span class='scene-font-kokoro'>島々を訪れることができるなら</span><br><span class='scene-font-kokoro'>どんなにか幸せだろう……）</span>,（如果可以自己驾驶骑空艇造访各个岛屿的话，该是多么幸福的事情啊……）
+29,,<span class='scene-font-kokoro'>（そんなことを考えながら、</span><br><span class='scene-font-kokoro'>島を渡りノアを探し続けた。）</span>,（我一边想着这样的事情，一边渡岛寻找诺亚）
+32,,<span class='scene-font-kokoro'>（探して……</span><br><span class='scene-font-kokoro'>探して……</span><br><span class='scene-font-kokoro'>……探して。）</span>,（一直找……一直找…………一直找）
+38,,<span class='scene-font-kokoro'>（……そうして、俺は年を取り……</span><br><span class='scene-font-kokoro'>……今や、もう……）</span>,（……就这样，我老了……现在已经…….）
+39,,<span class='scene-font-kokoro'>（俺の人生は、いったい何だったのか。</span><br><span class='scene-font-kokoro'>俺は何のために生きて来たのか……）</span>,（我的人生，到底算什么啊。我是为了什么才活到现在的啊……）
+40,,<span class='scene-font-kokoro'>（……答える者は、誰もいない……）</span>,（……可以回答我的人，一个也没有……）
+info,,1,scene_evt160531_cp2_q2_s10
