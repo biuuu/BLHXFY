@@ -1,8 +1,12 @@
+const ip = require('ip')
+
 const someHostList = [
   'www.google.com',
   'csp.withgoogle.com',
   'www.gstatic.com'
 ]
+
+const localIp = ip.address()
 
 module.exports = function ({ apiHostNames, staticHostNames, staticServer, frontAgent, port, frontAgentHost, frontAgentPort }) {
   const condition1 = apiHostNames.map(name => {
@@ -21,11 +25,14 @@ module.exports = function ({ apiHostNames, staticHostNames, staticServer, frontA
         if (isInNet(dnsResolve(host),"127.0.0.1","127.0.0.255")) {
           return "DIRECT";
         }
+        if (shExpMatch(host, "${localIp}")) {
+          return "DIRECT";
+        }
         if (${condition} || ${conditionEx}) {
-          return "PROXY 127.0.0.1:${port}; DIRECT";
+          return "PROXY ${localIp}:${port}; DIRECT";
         }
         if (!${frontAgent} && (${condition3})) {
-          return "PROXY 127.0.0.1:1080; PROXY 127.0.0.1:8094; PROXY 127.0.0.1:8123; PROXY 127.0.0.1:8099; DIRECT";
+          return "PROXY ${localIp}:1080; PROXY ${localIp}:8094; PROXY ${localIp}:8123; PROXY ${localIp}:8099; PROXY ${localIp}:8080; DIRECT";
         }
         return "${result}";
       }
@@ -40,7 +47,7 @@ module.exports = function ({ apiHostNames, staticHostNames, staticServer, frontA
     script = script('false')
   }
   if (frontAgent) {
-    script = script(`PROXY ${frontAgentHost}:${frontAgentPort}; DIRECT`)
+    script = script(`PROXY ${localIp}:${frontAgentPort}; DIRECT`)
   } else {
     script = script('DIRECT')
   }
