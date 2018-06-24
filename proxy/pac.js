@@ -22,17 +22,17 @@ module.exports = function ({ apiHostNames, staticHostNames, staticServer, frontA
   const getScript = (condition) => (conditionEx) => (result) => {
     const template = `
       function FindProxyForURL(url, host) {
-        if (isInNet(dnsResolve(host),"127.0.0.1","127.0.0.255")) {
+        if (isInNet(dnsResolve(host),"127.0.0.1","255.255.255.0")) {
           return "DIRECT";
         }
         if (shExpMatch(host, "${localIp}")) {
           return "DIRECT";
         }
         if (${condition} || ${conditionEx}) {
-          return "PROXY ${localIp}:${port}; DIRECT";
+          return "PROXY ${localIp}:${port};DIRECT";
         }
         if (!${frontAgent} && (${condition3})) {
-          return "PROXY ${localIp}:1080; PROXY ${localIp}:8094; PROXY ${localIp}:8123; PROXY ${localIp}:8099; PROXY ${localIp}:8080; DIRECT";
+          return "PROXY 127.0.0.1:1080; ${localIp}:1080; PROXY ${localIp}:8094; PROXY ${localIp}:8123; PROXY ${localIp}:8099; PROXY ${localIp}:8080; DIRECT";
         }
         return "${result}";
       }
@@ -47,7 +47,7 @@ module.exports = function ({ apiHostNames, staticHostNames, staticServer, frontA
     script = script('false')
   }
   if (frontAgent) {
-    script = script(`PROXY ${localIp}:${frontAgentPort}; DIRECT`)
+    script = script(`PROXY 127.0.0.1:${frontAgentPort}; PROXY ${localIp}:${frontAgentPort}; DIRECT`)
   } else {
     script = script('DIRECT')
   }
