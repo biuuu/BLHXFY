@@ -31,6 +31,9 @@ module.exports = function ({ apiHostNames, staticHostNames, staticServer, frontA
         if (${condition} || ${conditionEx}) {
           return "PROXY ${localIp}:${port};DIRECT";
         }
+        if (${frontAgent} && (${condition2})) {
+          return "PROXY ${localIp}:${frontAgentPort}; PROXY 127.0.0.1:${frontAgentPort}; DIRECT"
+        }
         if (!${frontAgent} && (${condition3})) {
           return "PROXY 127.0.0.1:1080; ${localIp}:1080; PROXY ${localIp}:8094; PROXY ${localIp}:8123; PROXY ${localIp}:8099; PROXY ${localIp}:8080; DIRECT";
         }
