@@ -52,7 +52,7 @@ module.exports = function ({ apiHostNames, staticHostNames, staticServer, frontA
   if (frontAgent) {
     script = script(`PROXY 127.0.0.1:${frontAgentPort}; PROXY ${localIp}:${frontAgentPort}; DIRECT`)
   } else {
-    script = script('DIRECT')
+    script = script(`DIRECT; PROXY 127.0.0.1:${frontAgentPort}; PROXY ${localIp}:${frontAgentPort}`)
   }
   return script
 }
