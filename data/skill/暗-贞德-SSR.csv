@@ -1,0 +1,8 @@
+﻿id,name,detail
+npc,ジャンヌダルク,3040080000
+special, 颠倒・变换,闇屬性伤害(特大)/ 我方全体闇屬性攻撃UP/光屬性伤害减免(20%)
+skill-1, 反向・逆转, 敌人的防禦DOWN(25%)/给予自己不净効果
+skill-1+, 反向・逆转+,敌人的防禦DOWN(30%)/给予自己不净効果
+skill-2, 煽动,6回合内状态不断改变
+skill-3, 永恒・混沌,<div class=prt-text-small>给予自己不死身効果/第5回合时战斗不能 <br><span class=text-blue>◆HP完全回复时解除/HP最大时不能使用</span></div>
+support-1, 黑暗・圣少女,自己的HP越少攻撃力越高
