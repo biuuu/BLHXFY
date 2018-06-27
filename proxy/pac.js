@@ -35,7 +35,7 @@ module.exports = function ({ apiHostNames, staticHostNames, staticServer, frontA
           return "PROXY ${localIp}:${frontAgentPort}; PROXY 127.0.0.1:${frontAgentPort}; DIRECT"
         }
         if (!${frontAgent} && (${condition3})) {
-          return "PROXY 127.0.0.1:1080; ${localIp}:1080; PROXY ${localIp}:8094; PROXY ${localIp}:8123; PROXY ${localIp}:8099; PROXY ${localIp}:8080; DIRECT";
+          return "${localIp}:1080; PROXY ${localIp}:8094; PROXY ${localIp}:8123; PROXY ${localIp}:8099; PROXY ${localIp}:8080; PROXY 127.0.0.1:1080; DIRECT";
         }
         return "${result}";
       }
@@ -50,9 +50,9 @@ module.exports = function ({ apiHostNames, staticHostNames, staticServer, frontA
     script = script('false')
   }
   if (frontAgent) {
-    script = script(`PROXY 127.0.0.1:${frontAgentPort}; PROXY ${localIp}:${frontAgentPort}; DIRECT`)
+    script = script(`PROXY ${localIp}:${frontAgentPort}; PROXY 127.0.0.1:${frontAgentPort}; DIRECT`)
   } else {
-    script = script(`DIRECT; PROXY 127.0.0.1:${frontAgentPort}; PROXY ${localIp}:${frontAgentPort}`)
+    script = script(`DIRECT; PROXY ${localIp}:${frontAgentPort}; PROXY 127.0.0.1:${frontAgentPort}`)
   }
   return script
 }
