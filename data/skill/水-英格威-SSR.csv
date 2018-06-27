@@ -1,0 +1,9 @@
+﻿id,name,detail
+npc,イングヴェイ,3040088000
+special, 赤色・热血・守护者,水屬性伤害(特大)/奥义值UP(50%)
+skill-1, 来者不拒, 吸收队友的奥义值来转换成自己的奥义值
+skill-2,THE・WILD, 不经回合进行一次普通攻撃
+skill-3,NO・MERCY,自己的暴击机率UP/水屬性追撃効果
+support-1, 硬汉子,<div class=prt-text-small>使用奥义时进入硬汉模式/再次使用奥义时解除/硬汉模式中性能UP　<span class=text-blue>◆毎回合消耗奥义值来维持硬汉模式</span></div>
+support-2, 境界线,自己的HP越少防禦力越高
+skill-lb,LB技能,"受到伤害时有机率会进行反击(★★★15%,1倍)"

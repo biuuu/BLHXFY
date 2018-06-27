@@ -28,6 +28,9 @@ module.exports = function ({ apiHostNames, staticHostNames, staticServer, frontA
         if (shExpMatch(host, "${localIp}")) {
           return "DIRECT";
         }
+        if (shExpMatch(host, "${localIp}")) {
+          return "DIRECT";
+        }
         if (${condition} || ${conditionEx}) {
           return "PROXY ${localIp}:${port};DIRECT";
         }

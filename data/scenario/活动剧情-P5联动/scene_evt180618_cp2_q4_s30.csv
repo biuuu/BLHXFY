@@ -1,0 +1,20 @@
+﻿id,en,jp,trans
+0-chapter_name,,Warping World,翘曲的世界
+0-synopsis,,敵を倒した姬塔達とジョーカー達。調査のためにグランサイファーの艇尾側の扉を開くと、そこには<span class='scene-font-place'>ザンクティンゼル</span>の風景が広がっており、一行は呆然とするのだった。,人们打倒迎来的敌人后，为做调查打开了船尾的房门，看到的却是赞库提因泽，大家都惊的呆住了。
+10,,オオ、オオオォ……！,………………！
+11,,くそっ！　次から次へと……！,可恶！<br>没完没了地……！
+15,,<span class='scene-font-4'>おらあッ！</span>,<span class='scene-font-4'>看招！</span>
+21,,あぶねえ……！<br>気をつけな！,好险……！<br>小心啊！
+22,,悪ぃ、助かった。<br>グランサイファーで暴れられて<br>また動揺しちまってた……,抱歉！得救了。<br>看到格兰赛法被这么糟蹋我就……
+23,,気持ちはわかるぜ。<br>自分の大切なモン好き勝手されたら<br>冷静じゃいられねぇよ。,我理解你的心情。<br>自己重要的东西被人随意<br>糟践肯定冷静不下来。
+24,,しかし、こんなところにまで<br>敵が潜んでいるとは……,不过，<br>竟然连这种地方都潜伏着敌人……
+25,,ビィさんが心配です……<br>早く探しましょう！,我很担心碧……<br>赶快去找它吧！
+26,,よし、じゃあとりあえず<br>ひとつひとつ部屋を<br>開けてみるぞ。,好，总之先一个一个房间地确认吧。
+27,,<span class='scene-font-katari'>一行は警戒しつつ、</span><br><span class='scene-font-katari'>艇内の様子を調べるため</span><br><span class='scene-font-katari'>艇尾側の扉を開く。</span>,<span class='scene-font-katari'>众人一边警戒着，<br>一边从船尾开始打开房间。</span>
+33,,<span class='scene-font-katari'>だが、その先に見えた光景に</span><br><span class='scene-font-katari'>一行は呆然とするしかないのだった。</span>,<span class='scene-font-katari'>但接下来呈现在面前的<br>画面令所有人都惊呆了。</span>
+34,,っ！？<br>そんな馬鹿な……,！？<br>这不可能吧……
+34-sel1_txt,,<span class='scene-font-katari'>見覚えがある……</span>,<span class='scene-font-katari'>我记得这里</span>
+34-sel2_txt,,<span class='scene-font-katari'>ザンクティンゼル……？</span>,<span class='scene-font-katari'>赞库提因泽……？</span>
+35,,<span class='scene-font-katari'>扉の向こうには</span><br><span class='scene-font-katari'>姬塔の故郷の村――</span>,<span class='scene-font-katari'>门对面的，<br>是姬塔的故乡——</span>
+36,,<span class='scene-font-katari'>旅のはじまりの地、</span><br><span class='scene-font-place'>ザンクティンゼル</span><span class='scene-font-katari'>が</span><br><span class='scene-font-katari'>広がっていた。</span>,<span class='scene-font-katari'>旅程开始的地方，<br><span class='scene-font-place'>赞库提因泽。</span></span>
+info,,1,scene_evt180618_cp2_q4_s30
