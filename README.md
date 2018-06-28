@@ -50,11 +50,11 @@ npm install -g yarn
 # 用 yarn 安装模块
 yarn install
 
-# 启动代理服务器
-yarn proxy
-
-# 或者作为 electron App 启动
+# 作为 electron App 启动
 yarn start
+
+# 或者直接启动代理服务器（不推荐，有些代码逻辑未兼容）
+yarn proxy
 
 # 打包成应用
 yarn dist
