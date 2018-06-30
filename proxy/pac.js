@@ -6,6 +6,13 @@ const someHostList = [
   'www.gstatic.com'
 ]
 
+const gameExtraHostList = [
+  'cdn-connect.mobage.jp',
+  'cdn-widget.mobage.jp',
+  'connect.mobage.jp',
+  'platform.twitter.com'
+]
+
 const localIp = ip.address()
 
 module.exports = function ({ apiHostNames, staticHostNames, staticServer, frontAgent, port, frontAgentHost, frontAgentPort }) {
@@ -16,6 +23,9 @@ module.exports = function ({ apiHostNames, staticHostNames, staticServer, frontA
     return `shExpMatch(host, "${name}")`
   }).join('||')
   const condition3 = someHostList.map(name => {
+    return `shExpMatch(host, "${name}")`
+  }).join('||')
+  const condition4 = gameExtraHostList.map(name => {
     return `shExpMatch(host, "${name}")`
   }).join('||')
 
@@ -31,7 +41,7 @@ module.exports = function ({ apiHostNames, staticHostNames, staticServer, frontA
         if (${condition} || ${conditionEx}) {
           return "PROXY ${localIp}:${port};DIRECT";
         }
-        if (${frontAgent} && (${condition2})) {
+        if (${frontAgent} && (${condition2} || ${condition4} || ${condition3})) {
           return "PROXY ${localIp}:${frontAgentPort}; PROXY 127.0.0.1:${frontAgentPort}; DIRECT"
         }
         if (!${frontAgent} && (${condition3})) {
@@ -50,7 +60,7 @@ module.exports = function ({ apiHostNames, staticHostNames, staticServer, frontA
     script = script('false')
   }
   if (frontAgent) {
-    script = script(`PROXY ${localIp}:${frontAgentPort}; PROXY 127.0.0.1:${frontAgentPort}; DIRECT`)
+    script = script(`DIRECT; PROXY ${localIp}:${frontAgentPort}; PROXY 127.0.0.1:${frontAgentPort}`)
   } else {
     script = script(`DIRECT; PROXY ${localIp}:${frontAgentPort}; PROXY 127.0.0.1:${frontAgentPort}`)
   }
