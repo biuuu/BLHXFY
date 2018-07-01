@@ -1,9 +1,21 @@
 const ip = require('ip')
 
 const someHostList = [
-  'www.google.com',
+  '*.google.com',
+  '*.twitter.com',
+  'twitter.com',
   'csp.withgoogle.com',
-  'www.gstatic.com'
+  '*.google-analytics.com',
+  'www.gstatic.com',
+  'dmm.com',
+  '*.dmm.com'
+]
+
+const gameExtraHostList = [
+  'cdn-connect.mobage.jp',
+  'cdn-widget.mobage.jp',
+  'connect.mobage.jp',
+  'platform.twitter.com'
 ]
 
 const localIp = ip.address()
@@ -18,6 +30,9 @@ module.exports = function ({ apiHostNames, staticHostNames, staticServer, frontA
   const condition3 = someHostList.map(name => {
     return `shExpMatch(host, "${name}")`
   }).join('||')
+  const condition4 = gameExtraHostList.map(name => {
+    return `shExpMatch(host, "${name}")`
+  }).join('||')
 
   const getScript = (condition) => (conditionEx) => (result) => {
     const template = `
@@ -25,13 +40,13 @@ module.exports = function ({ apiHostNames, staticHostNames, staticServer, frontA
         if (isInNet(dnsResolve(host),"127.0.0.1","255.255.255.0")) {
           return "DIRECT";
         }
-        if (shExpMatch(host, "${localIp}")) {
+        if (shExpMatch(host, "${localIp}") || isPlainHostName(host)) {
           return "DIRECT";
         }
         if (${condition} || ${conditionEx}) {
           return "PROXY ${localIp}:${port};DIRECT";
         }
-        if (${frontAgent} && (${condition2})) {
+        if (${frontAgent} && (${condition2} || ${condition4} || ${condition3})) {
           return "PROXY ${localIp}:${frontAgentPort}; PROXY 127.0.0.1:${frontAgentPort}; DIRECT"
         }
         if (!${frontAgent} && (${condition3})) {
@@ -50,7 +65,7 @@ module.exports = function ({ apiHostNames, staticHostNames, staticServer, frontA
     script = script('false')
   }
   if (frontAgent) {
-    script = script(`PROXY ${localIp}:${frontAgentPort}; PROXY 127.0.0.1:${frontAgentPort}; DIRECT`)
+    script = script(`DIRECT; PROXY ${localIp}:${frontAgentPort}; PROXY 127.0.0.1:${frontAgentPort}`)
   } else {
     script = script(`DIRECT; PROXY ${localIp}:${frontAgentPort}; PROXY 127.0.0.1:${frontAgentPort}`)
   }
