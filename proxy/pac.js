@@ -1,9 +1,14 @@
 const ip = require('ip')
 
 const someHostList = [
-  'www.google.com',
+  '*.google.com',
+  '*.twitter.com',
+  'twitter.com',
   'csp.withgoogle.com',
-  'www.gstatic.com'
+  '*.google-analytics.com',
+  'www.gstatic.com',
+  'dmm.com',
+  '*.dmm.com'
 ]
 
 const gameExtraHostList = [
@@ -35,7 +40,7 @@ module.exports = function ({ apiHostNames, staticHostNames, staticServer, frontA
         if (isInNet(dnsResolve(host),"127.0.0.1","255.255.255.0")) {
           return "DIRECT";
         }
-        if (shExpMatch(host, "${localIp}")) {
+        if (shExpMatch(host, "${localIp}") || isPlainHostName(host)) {
           return "DIRECT";
         }
         if (${condition} || ${conditionEx}) {
