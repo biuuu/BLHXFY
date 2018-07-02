@@ -1675,7 +1675,7 @@ quest_39,クエストを実行するためのAPが現在の<br>最大APを上回
 quest_4,未確認のバトルはありません。,There aren't any pending battles now.,无未确认结果的战斗。
 quest_40,おまかせ編成確認,Auto Select,自动编成确认
 quest_41,このクエストから撤退しました。,You withdrew from this quest.<br><br>,您已从当前任务中撤退。
-quest_42,<br><br>未クリアクエストのため、<br>AP%sが返却されました。<br><br>AP: %s→<span class='txt-after-ap'>%s</span>,<br><br>This is an uncleared quest. <br>AP will be returned: %s<br><br>%s&gt;&gt;<span class='txt-after-ap'>%s</span>,,<br><br>任务失败，返还%sAP。
+quest_42,<br><br>未クリアクエストのため、<br>AP%sが返却されました。<br><br>AP: %s→<span class='txt-after-ap'>%s</span>,<br><br>This is an uncleared quest. <br>AP will be returned: %s<br><br>%s&gt;&gt;<span class='txt-after-ap'>%s</span>,<br><br>任务失败，返还%sAP。
 quest_43,クエスト撤退確認,Quest,撤退确认
 quest_44,進行中のクエストがあります。<br>島を移動するには<br>進行中のクエストから撤退する必要があります。<br><br>クエストから撤退しますか？,%s is in progress. You must first retreat before travelling to another island.,您有进行中的任务。前往其他岛屿需要先从当前任务中撤退。<br><br>是否撤退？
 quest_45,カジノ艇,Casino Liner,移动赌场
