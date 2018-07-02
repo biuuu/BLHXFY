@@ -2260,7 +2260,7 @@ sort_filter_44,刀/楽器/弓/格闘/銃〜,"Katana, Harp, Bow, Gun, etc.",
 sort_filter_45,武器種順:Ａ,Weapon Group A,武器顺序：A
 sort_filter_46,剣/短剣/槍/斧/杖〜,"Sabre, Dagger, Spear, Axe, Staff, etc.",
 sort_filter_47,属性順:Ｂ,Element Group B,属性顺序：B
-sort_filter_48,闇/光/風/土/水/火,"Dark, Light, Wind, Earth, Water, Fire",,暗/光/风/土/水/火
+sort_filter_48,闇/光/風/土/水/火,"Dark, Light, Wind, Earth, Water, Fire",暗/光/风/土/水/火
 sort_filter_49,属性順:Ａ,Element Group A,属性顺序：A
 sort_filter_5,属性,Element,
 sort_filter_50,火/水/土/風/光/闇,"Fire, Water, Earth, Wind, Light, Dark",火/水/土/风/光/暗
