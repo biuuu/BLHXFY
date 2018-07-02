@@ -502,7 +502,7 @@ coopraid_77,交換エラー,Trade Treasure,兑换错误
 coopraid_78,交換できませんでした。,Technical issues are occurring. Treasure couldn't be traded.,兑换失败。
 coopraid_79,%s個入手しました。,You got %s.,获得%s个。
 coopraid_8,オーナーの要請により<br>ルームから退室しました。,You were removed from the room.,房主已将您请出房间。
-coopraid_80,本日の交換個数制限　残り%s個,Only %s more available today.,本日兑换个数限制 剩余%s个。
+coopraid_80,本日の交換個数制限　残り%s個,Only %s more available today.,今日的兑换个数限制 还剩%s个
 coopraid_81,残り%s個,%s more.,%s个
 coopraid_82,（所持数　%s）,(Held: %s),
 coopraid_83,アイテム詳細,Item Details,道具详情
@@ -516,8 +516,8 @@ coopraid_9,%s<br>%s が解放されました！,%s<br>%s is unlocked!,%s<br>%s�
 coopraid_90,デイリーミッション,Daily Mission,每日任务
 coopraid_91,設定なし,None,暂无设定
 coopraid_92,[グラブル]共闘クエスト参加者募集！\nルームID：%s\n募集対象・目的：%s\n%s\n%s,I need people to fight with me in co-op quests! The room code is %s and the room type is %s. %s,
-coopraid_93,パソコンからのご利用について,Play on a Computer,关于电脑端使用的说明
-coopraid_94,Twitter投稿,Post to Twitter,
+coopraid_93,パソコンからのご利用について,Play on a Computer,关于电脑端的使用
+coopraid_94,Twitter投稿,Post to Twitter,分享至推特
 coopraid_95,Twitter連携,Link Twitter Account,绑定Twitter
 coopraid_96,Twitterに投稿しました。,The tweet was posted to Twitter.,已分享至Twitter
 coopraid_97,送信完了,Post to Twitter,已分享
@@ -1095,7 +1095,7 @@ limited_15,（所持数　%s）,(Held: %s),
 limited_16,アイテム詳細,Item Details,道具详情
 limited_17,獲得キャラクター,,获得人物
 limited_18,交換確認,Trade Treasure,确认兑换
-limited_19,本日の交換個数制限　残り%s個,Only %s more available today.,今日的兑换个数限制 还剩%s
+limited_19,本日の交換個数制限　残り%s個,Only %s more available today.,今日的兑换个数限制 还剩%s个
 limited_2,時限クエスト出現,,限时任务出现
 limited_20,残り%s個,%s more.,还剩%s个
 limited_21,ほっほっほっほ。受け取っておくれ。,,吼~吼~吼~吼。收下吧。
@@ -1207,7 +1207,7 @@ lobby_index_pop_26,クエスト[%s]の有効期限が切れました,%s is no lo
 lobby_index_pop_27,クエストを開始できません,Quest,任务无法开始
 lobby_index_pop_28,退室したプレイヤーをサポーターに<br>設定しているメンバーがいるため<br>クエストを開始できません。,One of the players who left the room was<br>loaning a summon to another member.<br>You can't start the quest.,房间内有成员选择了已退出玩家的支援召唤石，任务无法开始。
 lobby_index_pop_29,CAUTION!,Quest,
-lobby_index_pop_3,Twitter投稿,Post to Twitter,
+lobby_index_pop_3,Twitter投稿,Post to Twitter,分享至推特
 lobby_index_pop_30,挑戦条件を満たしていないため、<br>クエストを開始できません。<br><br>必要Rank: %s以上,You don't have the right rank to play this quest.<br><br>Required rank: %s,未满足挑战条件，任务无法开始。<br><br>必要Rank: %s以上
 lobby_index_pop_31,AP使用確認,AP,AP使用确认
 lobby_index_pop_32,APが足りません,More AP Needed,AP使用确认
@@ -1406,7 +1406,7 @@ pop_can_not_multi_battle_1,%s1をクリアすることで<br>%s2が仲間に加�
 pop_common_auto_setting_1,自動売却・騎空艇の自動強化設定,Auto-Sell and Auto-Upgrade Settings,自动出售·骑空艇自动强化设定
 pop_common_auto_setting_2,条件設定,Settings,条件设定
 pop_common_auto_setting_3,設定条件,Auto-Upgrade Settings,设定条件
-pop_common_auto_setting_4,騎空団の強化はメインクエスト第4章クリア後から<br>「騎空団」に入団することで設定が可能です。,Auto-upgrade can only be used when you are in a crew. You can start or join a crew after clearing chapter 4 of the main quest.,骑空团强化功能将在主线剧情第4章通关、「騎空団」后加入开启。
+pop_common_auto_setting_4,騎空団の強化はメインクエスト第4章クリア後から<br>「騎空団」に入団することで設定が可能です。,Auto-upgrade can only be used when you are in a crew. You can start or join a crew after clearing chapter 4 of the main quest.,骑空团强化功能将在主线剧情第4章通关、加入「騎空団」后开启。
 pop_custom_auto_setting_1,騎空艇の自動強化,Airship Upgraded,骑空艇自动强化
 pop_disabled_item,特別な上限解放,Can't Uncap,使用失败
 pop_guild_info_1,騎空団情報,Crew Details,骑空团情报
@@ -1457,7 +1457,7 @@ present_39,,Unload,整理
 present_4,現在の所持召喚石数,Current Summons Held,当前召唤石总数
 present_40,,No matching loot.,
 present_41,設定,Unload Loot,设定
-present_42,,You are about to sell <span class='txt-orange'>SR items</span>.<br><br>Proceed?,该设定包含<span class='txt-orange'>SR装备</span>。是否继续？
+present_42,,You are about to sell <span class='txt-orange'>SR items</span>.<br><br>Proceed?,自动出售设定中包含该设定包含<span class='txt-orange'>SR装备</span>。<br><br>是否继续？
 present_43,武器,Weapons,武器
 present_44,売却完了,Sell,出售成功
 present_45,%sを売却,Sell %s,已售出%s
@@ -1492,7 +1492,7 @@ profile_101,投稿によるAP・BPの回復は、1日1回までとなります�
 profile_102,<br>AP・BPはMAXですが投稿しますか？,<br>Your AP and EP are full. Tweet anyway?,您的AP·BP已满，是否继续投稿？
 profile_103,Twitter投稿,Post to Twitter,分享至推特
 profile_104,Twitterに投稿しました。,The tweet was posted to Twitter.,已分享至Twitter
-profile_105,Twitter投稿により<br>AP・BPが回復しました。,Your AP and EP have recovered.,分享至推特可回复AP与BP。
+profile_105,Twitter投稿により<br>AP・BPが回復しました。,Your AP and EP have recovered.,AP·BP已回复。
 profile_106,送信完了,Post to Twitter,已分享
 profile_107,宝晶原石を使う,Use origin crystals,使用宝晶原石
 profile_108,正しく数を入力してください。,Enter the correct number.,请输入正确数值。
@@ -1675,7 +1675,7 @@ quest_39,クエストを実行するためのAPが現在の<br>最大APを上回
 quest_4,未確認のバトルはありません。,There aren't any pending battles now.,无未确认结果的战斗。
 quest_40,おまかせ編成確認,Auto Select,自动编成确认
 quest_41,このクエストから撤退しました。,You withdrew from this quest.<br><br>,您已从当前任务中撤退。
-quest_42,<br><br>未クリアクエストのため、<br>AP%sが返却されました。<br><br>AP: %s→<span class='txt-after-ap'>%s</span>,<br><br>This is an uncleared quest. <br>AP will be returned: %s<br><br>%s&gt;&gt;<span class='txt-after-ap'>%s</span>,,<br><br>任务失败，返还%sAP。
+quest_42,<br><br>未クリアクエストのため、<br>AP%sが返却されました。<br><br>AP: %s→<span class='txt-after-ap'>%s</span>,<br><br>This is an uncleared quest. <br>AP will be returned: %s<br><br>%s&gt;&gt;<span class='txt-after-ap'>%s</span>,<br><br>任务失败，返还%sAP。
 quest_43,クエスト撤退確認,Quest,撤退确认
 quest_44,進行中のクエストがあります。<br>島を移動するには<br>進行中のクエストから撤退する必要があります。<br><br>クエストから撤退しますか？,%s is in progress. You must first retreat before travelling to another island.,您有进行中的任务。前往其他岛屿需要先从当前任务中撤退。<br><br>是否撤退？
 quest_45,カジノ艇,Casino Liner,移动赌场
@@ -1827,8 +1827,8 @@ raid_55,敵が倒されたため、<br>このバトルは終了しました。,T
 raid_56,<br>楽器や歌による攻撃でゲージが大幅DOWN！,<br>Harp and song attacks supercharge the bar!,<br>通过乐器或歌声发动的攻击能使Mode条大幅下降！
 raid_57,<br>発動までのチャージターンが短縮された！,<br>The charge bar now fills in fewer turns!,<br>发动前的缓冲回合数缩短！
 raid_58,オーバードライブ発動！</br>モンスターが強力な技の発動準備に入った！%s%s,Overdrive took effect!</br>The foe is preparing a special attack! %s%s,OVERDRIVE！</br>敌人准备发动强力攻击！
-raid_59,ブレイク発生！</br>モンスターが技を使用できなくなった！</br>さらに味方のダブル・トリプルアタック発動率アップ！,Break took effect!</br>The foe can't use its special attack.</br>Allies' multiattack rate is boosted!,
-raid_6,%sがダブルアタック,%s made a double attack.,BREAK！</br>敌人无法使用强力攻击！</br>我方DA率UP！
+raid_59,ブレイク発生！</br>モンスターが技を使用できなくなった！</br>さらに味方のダブル・トリプルアタック発動率アップ！,Break took effect!</br>The foe can't use its special attack.</br>Allies' multiattack rate is boosted!,BREAK！</br>敌人无法使用强力攻击！</br>我方DA·TA率UP！
+raid_6,%sがダブルアタック,%s made a double attack.,%s二连击！
 raid_60,召喚不可,Summon,无法召唤
 raid_61,主人公が召喚不可状態<br>のため召喚できません。,You aren't able to use summons now.,主人公当前无法发动召唤。
 raid_62,ブーストアイテム獲得,Power-ups,获得经验道具
@@ -1850,7 +1850,7 @@ raid_76,トリート,Treats,
 raid_77,アビリティ使用による獲得%sが上限に達しているため、これ以上%sを獲得できません,You have %s honors. You can't get any more honors from the use of this skill.,技能贡献%s已达上限，无法再获得%s。
 raid_78,ターン," turn",回合
 raid_79,秒," sec",秒
-raid_8,バトルログ,Battle Log,历史攻击
+raid_8,バトルログ,Battle Log,战斗日志
 raid_80,時間切れのため、<br>このバトルは終了しました。,This battle has ended.<br>Time ran out.,任务超时，战斗结束。
 raid_81,発動中のフィールド効果,Active Field Effects,发动中的场地效果。
 raid_82,アビリティ使用,Skill,使用技能
@@ -1974,9 +1974,9 @@ result_sidestory_1,ストーリー解放,Story Unlocked!,剧情解放
 result_skin_exp_1,熟練度,Proficiency,熟练度
 result_trajectory_title,軌跡の雫 新着情報,Journey Drops,轨迹水滴
 result_zenith_1,Limit Bonus 解放,,
-revenge_bonus_1,リベンジボーナス,Rebound Bonus,重开加成
+revenge_bonus_1,リベンジボーナス,Rebound Bonus,再挑战加成
 revenge_bonus_2,進行中のクエストから撤退しました。,You retreated from the quest.,已从当前任务中撤退
-revenge_bonus_select_1,リベンジボーナス確認,Rebound Bonus,确认重开加成
+revenge_bonus_select_1,リベンジボーナス確認,Rebound Bonus,确认再挑战加成
 revival002_exception_title,なァ……,Heyo,呐……
 reward_1,アイテム詳細,,道具详情
 reward_2,報酬受取,,收取奖励
@@ -1998,406 +1998,406 @@ seasonmessage_valentine_5,チョコ受け取り,For You,接受巧克力
 seasonmessage_valentine_6,バレンタインチョコ購入,Chocolate Shack,购买情人节巧克力
 seasonmessage_valentine_7,購入完了,Chocolate Shack,购买成功
 seasonmessage_valentine_8,購入エラー,Chocolate Shack,发生错误
-seasonmessage_valentine_9,購入できませんでした,You can't buy any chocolate. Try again later.,
-seasonmessage_white_1,ホワイトデーの贈り物購入,Gift Shack,
-seasonmessage_white_2,購入完了,Gift Shack,
-seasonmessage_white_3,購入エラー,Gift Shack,
-seasonmessage_white_4,購入できませんでした,You can't buy any gifts. Try again later.,
-seasonmessage_white_5,女性キャラからメッセージを受け取るには、<br>性別を男性にする必要があります。,The main character needs to be male to see White Day cut scenes with female characters.,
-seasonmessage_white_6,男性キャラからメッセージを受け取るには、<br>性別を女性にする必要があります。,The main character needs to be female to see White Day cut scenes with male characters.,
-seasonmessage_white_7,贈り物受け取り,For You,
-seasonmessage_white_8,ハッピーホワイトデー！,Happy White Day!,
-sell_stash_filter_1,整頓,Unload,
-sell_stash_filter_10,移動,Move,
-sell_stash_filter_11,売却完了,Sell,
-sell_stash_filter_12,倉庫に移動,Move to Stash,
-sell_stash_filter_13,倉庫があれば武器や召喚石を<br>倉庫1つあたり200個まで保管できます<br><br>倉庫は%s、宝晶石で<br>購入することができます,A stash can hold 200 weapons or summons.<br>Stashes can be bought with %s or crystals.,
-sell_stash_filter_14,モバコイン,MobaCoin,
-sell_stash_filter_15,グラブルコイン,Granblue Coins,
-sell_stash_filter_16,ショップへ,Shop,
-sell_stash_filter_17,移動先倉庫選択,Move to Stash,
-sell_stash_filter_18,選択した倉庫内がいっぱいのため、<br>移動できません。,The stash you selected is full.<br>Select another one.,
-sell_stash_filter_19,移動完了,Stash,
-sell_stash_filter_2,条件にあうプレゼントが<br>ありませんでした,No matching loot.,
-sell_stash_filter_20,リスト,Inventory,
-sell_stash_filter_21,プレゼントリスト,Crate,
-sell_stash_filter_22,条件にあう武器が<br>ありませんでした,There are no matching weapons.,
-sell_stash_filter_23,条件にあう召喚石が<br>ありませんでした,There are no matching summons.,
-sell_stash_filter_24,売却確認,Sell,
-sell_stash_filter_25,所持ルピ　<span class='txt-held-lupi'>%s</span>ルピ,Held: <span class='txt-held-lupi'>%s</span> rupie,
-sell_stash_filter_26,ボーナス　獲得ルピ＋%s,Bonus: %s rupie,
+seasonmessage_valentine_9,購入できませんでした,You can't buy any chocolate. Try again later.,购买失败
+seasonmessage_white_1,ホワイトデーの贈り物購入,Gift Shack,购买白色情人节礼物
+seasonmessage_white_2,購入完了,Gift Shack,购买成功
+seasonmessage_white_3,購入エラー,Gift Shack,发生错误
+seasonmessage_white_4,購入できませんでした,You can't buy any gifts. Try again later.,购买失败
+seasonmessage_white_5,女性キャラからメッセージを受け取るには、<br>性別を男性にする必要があります。,The main character needs to be male to see White Day cut scenes with female characters.,只有性别设定为男性时才能与女性角色进行白色情人节对话。
+seasonmessage_white_6,男性キャラからメッセージを受け取るには、<br>性別を女性にする必要があります。,The main character needs to be female to see White Day cut scenes with male characters.,只有性别设定为女性时才能与男性角色进行白色情人节对话。
+seasonmessage_white_7,贈り物受け取り,For You,接受礼物
+seasonmessage_white_8,ハッピーホワイトデー！,Happy White Day!,白色情人节快乐！
+sell_stash_filter_1,整頓,Unload,整顿
+sell_stash_filter_10,移動,Move,转移
+sell_stash_filter_11,売却完了,Sell,出售成功
+sell_stash_filter_12,倉庫に移動,Move to Stash,转移至仓库
+sell_stash_filter_13,倉庫があれば武器や召喚石を<br>倉庫1つあたり200個まで保管できます<br><br>倉庫は%s、宝晶石で<br>購入することができます,A stash can hold 200 weapons or summons.<br>Stashes can be bought with %s or crystals.,每个仓库能够收纳武器或召唤石共200个<br><br>您可以通过%s或者宝晶石购买仓库
+sell_stash_filter_14,モバコイン,MobaCoin,MobaCoin
+sell_stash_filter_15,グラブルコイン,Granblue Coins,Granblue Coins
+sell_stash_filter_16,ショップへ,Shop,前往商店
+sell_stash_filter_17,移動先倉庫選択,Move to Stash,选择目标仓库
+sell_stash_filter_18,選択した倉庫内がいっぱいのため、<br>移動できません。,The stash you selected is full.<br>Select another one.,该仓库已满，转移失败。
+sell_stash_filter_19,移動完了,Stash,转移成功
+sell_stash_filter_2,条件にあうプレゼントが<br>ありませんでした,No matching loot.,没有符合条件的礼物
+sell_stash_filter_20,リスト,Inventory,列表
+sell_stash_filter_21,プレゼントリスト,Crate,礼物列表
+sell_stash_filter_22,条件にあう武器が<br>ありませんでした,There are no matching weapons.,没有符合条件的武器
+sell_stash_filter_23,条件にあう召喚石が<br>ありませんでした,There are no matching summons.,没有符合条件的召唤石
+sell_stash_filter_24,売却確認,Sell,确认售出
+sell_stash_filter_25,所持ルピ　<span class='txt-held-lupi'>%s</span>ルピ,Held: <span class='txt-held-lupi'>%s</span> rupie,所持卢比　<span class='txt-held-lupi'>%s</span>卢比
+sell_stash_filter_26,ボーナス　獲得ルピ＋%s,Bonus: %s rupie,	获得额外卢比＋%s
 sell_stash_filter_27,所持ルピ　%s1 → <span class='txt-lupi-after'>%s2</span>ルピ,Held: %s1 &gt;&gt; <span class='txt-lupi-after'>%s2</span> rupie,
-sell_stash_filter_28,所持ルピ　<span class='txt-yellow'>%s</span>ルピ,Held: <span class='txt-yellow'>%s</span> rupie,
-sell_stash_filter_29,%s1%s2個移動しました,%s2 %s1 was stashed.,
+sell_stash_filter_28,所持ルピ　<span class='txt-yellow'>%s</span>ルピ,Held: <span class='txt-yellow'>%s</span> rupie,所持卢比　%s1 → <span class='txt-lupi-after'>%s2</span>卢比
+sell_stash_filter_29,%s1%s2個移動しました,%s2 %s1 was stashed.,转移%s1%s2个
 sell_stash_filter_3,CAUTION!,CAUTION!,
-sell_stash_filter_30,移動する%sがありませんでした,There are no matching %s to stash.,
-sell_stash_filter_4,<span class='txt-orange'>Sレア</span>が売却設定されています。<br><br>本当によろしいですか？<br><br>,You are about to sell <span class='txt-orange'>SR items</span>.<br><br>Proceed?,
-sell_stash_filter_5,%sを売却,Sell %s,
-sell_stash_filter_6,%sを倉庫に移動,Stash %s,
+sell_stash_filter_30,移動する%sがありませんでした,There are no matching %s to stash.,无符合条件的%s可转移
+sell_stash_filter_4,<span class='txt-orange'>Sレア</span>が売却設定されています。<br><br>本当によろしいですか？<br><br>,You are about to sell <span class='txt-orange'>SR items</span>.<br><br>Proceed?,自动出售设定中包含该设定包含<span class='txt-orange'>SR装备</span>。<br><br>是否继续？
+sell_stash_filter_5,%sを売却,Sell %s,出售%s
+sell_stash_filter_6,%sを倉庫に移動,Stash %s,转移%s至仓库
 sell_stash_filter_7,武器,weapons,武器
 sell_stash_filter_8,召喚石,summons,召唤石
-sell_stash_filter_9,売却,Sell,
-setting_1,設定,Game Settings,
-setting_10,絵柄入れ替え,Replace,
-setting_11,%s番目と%s番目のスタンプの<br>表示順を入れ替えます。,You will replace sticker %s<br>with sticker %s.,
-setting_12,このスタンプを%s番目に設定します。,This sticker will be set to position %s.,
-setting_13,条件設定,Settings,
-setting_14,設定条件,Auto-Upgrade Settings,
-setting_15,騎空団の強化はメインクエスト第4章クリア後から<br>「騎空団」に入団することで設定が可能です。,Auto-upgrade can only be used when you are in a crew. You can start or join a crew after clearing chapter 4 of the main quest.,
-setting_2,設定しました。,Your changes have been saved.,
-setting_3,認証を解除しました。,Your Granblue Fantasy account and Twitter account are no longer linked.,
-setting_4,計算中,Calculating...,
-setting_5,スタンプセット編集,Edit Sticker Set,
-setting_6,スタンプの移動先を選んでください,Select where to move the sticker.,
-setting_7,%s番目に設定する絵柄を選んでください,Tap a sticker to replace sticker %s.,
-setting_8,%s番目に設定しているスタンプを<br>%s番目に移動します。,You will move this sticker from<br>position %s to %s.,
-setting_9,順番変更,Change Order,
-setting_title_1,映像設定,Graphics,
-setting_title_10,PCブラウザ版設定,Browser Version Settings,
-setting_title_2,サウンド設定,Sound,
-setting_title_3,バトル設定,Battle,
-setting_title_4,チャット・スタンプ設定,Chat/Stickers,
-setting_title_5,マイページ設定,Home Screen,
-setting_title_6,公開設定,Privacy,
-setting_title_7,連携設定,Linked Accounts,
-setting_title_8,便利設定,Miscellaneous,
-setting_title_9,アプリ版専用設定,App Settings,
+sell_stash_filter_9,売却,Sell,出售
+setting_1,設定,Game Settings,设定
+setting_10,絵柄入れ替え,Replace,表情替换
+setting_11,%s番目と%s番目のスタンプの<br>表示順を入れ替えます。,You will replace sticker %s<br>with sticker %s.,调换%s号表情与%s号表情的位置。
+setting_12,このスタンプを%s番目に設定します。,This sticker will be set to position %s.,设定该表情为%s号表情。
+setting_13,条件設定,Settings,条件设定
+setting_14,設定条件,Auto-Upgrade Settings,设定条件
+setting_15,騎空団の強化はメインクエスト第4章クリア後から<br>「騎空団」に入団することで設定が可能です。,Auto-upgrade can only be used when you are in a crew. You can start or join a crew after clearing chapter 4 of the main quest.,骑空团强化功能将在主线剧情第4章通关、加入「骑空团」后开启。
+setting_2,設定しました。,Your changes have been saved.,设定完毕
+setting_3,認証を解除しました。,Your Granblue Fantasy account and Twitter account are no longer linked.,取消绑定
+setting_4,計算中,Calculating...,计算中……
+setting_5,スタンプセット編集,Edit Sticker Set,编辑表情
+setting_6,スタンプの移動先を選んでください,Select where to move the sticker.,选择表情移动位置
+setting_7,%s番目に設定する絵柄を選んでください,Tap a sticker to replace sticker %s.,选择替换%s号表情的其他表情
+setting_8,%s番目に設定しているスタンプを<br>%s番目に移動します。,You will move this sticker from<br>position %s to %s.,将当前%s号表情将移动至%s号位。
+setting_9,順番変更,Change Order,变更顺序
+setting_title_1,映像設定,Graphics,显示设定
+setting_title_10,PCブラウザ版設定,Browser Version Settings,PC游览器版设定
+setting_title_2,サウンド設定,Sound,声音设定
+setting_title_3,バトル設定,Battle,战斗设定
+setting_title_4,チャット・スタンプ設定,Chat/Stickers,聊天·表情设定
+setting_title_5,マイページ設定,Home Screen,主页设定
+setting_title_6,公開設定,Privacy,公开设定
+setting_title_7,連携設定,Linked Accounts,绑定设定
+setting_title_8,便利設定,Miscellaneous,偏好设定
+setting_title_9,アプリ版専用設定,App Settings,APP版专用设定
 shop_1,ショップ,Shop,商店
-shop_10,交換できませんでした。,Technical issues are occurring. Treasure couldn't be traded.,
-shop_11,交換完了,Trade Treasure,
-shop_12,<br>（現在の上限 %s）,<br>(Current limit: %s）,
-shop_13,バトルに戻る,Battle,
-shop_14,個,,
-shop_15,%s1%s2交換しました。%s3,You exchanged for %s1%s2%s3.,
-shop_16,購入完了,Buy,
+shop_10,交換できませんでした。,Technical issues are occurring. Treasure couldn't be traded.,兑换失败
+shop_11,交換完了,Trade Treasure,兑换成功
+shop_12,<br>（現在の上限 %s）,<br>(Current limit: %s）,<br>（现在的上限 %s）
+shop_13,バトルに戻る,Battle,继续战斗
+shop_14,個,,个
+shop_15,%s1%s2交換しました。%s3,You exchanged for %s1%s2%s3.,已兑换%s1%s2。
+shop_16,購入完了,Buy,购买成功
 shop_17,1月6日 8:59,"Jan 6, 9 a.m. (JST)",
-shop_18,ホリデーセール,Holiday Sale,
-shop_19,アイテム詳細,Item Details,
-shop_3,グラブルコインショップ,Granblue Coin Shop,
-shop_4,回復アイテムはこちらですよ～<br>所持数拡張もおススメです～,Try out my recovery items<br>and inventory slots!,
-shop_5,宝晶石ショップ,Crystal Shop,
+shop_18,ホリデーセール,Holiday Sale,假期特惠
+shop_19,アイテム詳細,Item Details,道具详情
+shop_3,グラブルコインショップ,Granblue Coin Shop,Granblue Coin Shop
+shop_4,回復アイテムはこちらですよ～<br>所持数拡張もおススメです～,Try out my recovery items<br>and inventory slots!,在这里可以购买回复道具哦~也可以扩大背包容量~
+shop_5,宝晶石ショップ,Crystal Shop,宝晶石商店
 shop_56,ショップ,Shop,商店
-shop_6,集めた宝晶石で<br>便利なアイテムをゲットです～,Get great items<br>with the crystals you've collected!,
-shop_7,交換確認,Trade Treasure,
-shop_8,購入確認,Trade,
-shop_9,交換エラー,Trade Treasure,
+shop_6,集めた宝晶石で<br>便利なアイテムをゲットです～,Get great items<br>with the crystals you've collected!,用宝晶石购买便利的道具~
+shop_7,交換確認,Trade Treasure,兑换确认
+shop_8,購入確認,Trade,购买确认
+shop_9,交換エラー,Trade Treasure,兑换错误
 shop_archaic_1,特殊武器,,
-shop_archaic_2,と～っても貴重な武器のレプリカと<br>交換ができちゃいます～,,
-shop_exchange_1,トレジャー交換,Treasure,
-shop_exchange_10,セット," ",
-shop_exchange_11,個," ",
-shop_exchange_12,%sがパーティに加入しました。,%s joined you!,
-shop_exchange_13,%s1%s2入手しました。<br>獲得した報酬はプレゼントリスト(期限なし)に<br>送られます。,You got %s1.<br>Loot will be sent to the No Limit tab of your crate.,
-shop_exchange_14,%s1%s2入手しました。,You got %s1.,
-shop_exchange_15,本日の交換%s1数制限　残り%s2%s3,There are %s2%s1 more available today.,
-shop_exchange_16,残り%s1%s2,%s1%s2 left,
+shop_archaic_2,と～っても貴重な武器のレプリカと<br>交換ができちゃいます～,,在这里可以兑换超~级贵重武器的复制品~
+shop_exchange_1,トレジャー交換,Treasure,物品兑换
+shop_exchange_10,セット," "," "
+shop_exchange_11,個," ",个
+shop_exchange_12,%sがパーティに加入しました。,%s joined you!,%s已成为伙伴
+shop_exchange_13,%s1%s2入手しました。<br>獲得した報酬はプレゼントリスト(期限なし)に<br>送られます。,You got %s1.<br>Loot will be sent to the No Limit tab of your crate.,获得%s1%s2。<br>奖励已发送至无期限礼物列表。
+shop_exchange_14,%s1%s2入手しました。,You got %s1.,获得%s1%s2
+shop_exchange_15,本日の交換%s1数制限　残り%s2%s3,There are %s2%s1 more available today.,今日的兑换%s1限制 还剩%s2%s3
+shop_exchange_16,残り%s1%s2,%s1%s2 left,还剩%s1%s2
 shop_exchange_17,（所持数　%s）,(Held: %s),
-shop_exchange_18,ルピの所持限界を超えてしまうため<br>売却できません。,You can't sell this. You have too many rupies.,
-shop_exchange_19,所持数が不足しているため<br>売却できません。,You don't have enough to sell.,
-shop_exchange_2,冒険で手に入れたトレジャーと<br>アイテムの交換ができちゃいます～,I'll trade you for treasures<br>you find on your adventure.,
-shop_exchange_20,売却確認,Sell,
-shop_exchange_21,売却,Sell,
-shop_exchange_22,売却不可,Sell,
-shop_exchange_23,売却完了,Sell,
-shop_exchange_24,%s個売却しました。,%s were sold.,
-shop_exchange_25,確認,Skills,
-shop_exchange_26,進行中のクエストがあります。<br>島を移動する場合はクエストから撤退し<br>途中経過を破棄する必要があります。,<%= title %> is in progress. You must first retreat before travelling to another island.,
-shop_exchange_27,アイテム詳細,Item Details,
-shop_exchange_28,武勲・栄誉の輝き交換,Pendant Trade,
-shop_exchange_29,輝きはマルチバトルに参加すれば<br>手に入れることができますよ～,Collect pendants from raid battles and trade them here!,
-shop_exchange_3,交換確認,Trade Treasure,
-shop_exchange_30,本日の交換%s1数制限　残り%s2%s3,There is %s2%s1 more available today.,
-shop_exchange_31,バハムートの鉤爪交換,Trade Bahamut Claws,
-shop_exchange_32,サモン・クレイドル交換,Trade Summon Cradle,
-shop_exchange_33,SGFポイント交換,GSR Point Trade,
-shop_exchange_4,仲間にする,Add to Party,
-shop_exchange_5,交換する,Trade,
-shop_exchange_6,交換エラー,Trade Treasure,
-shop_exchange_7,交換できませんでした。,Technical issues are occurring. Treasure couldn't be traded.,
-shop_exchange_8,交換完了,Trade Treasure,
+shop_exchange_18,ルピの所持限界を超えてしまうため<br>売却できません。,You can't sell this. You have too many rupies.,您的卢比满额，无法出售。
+shop_exchange_19,所持数が不足しているため<br>売却できません。,You don't have enough to sell.,所持不足，无法出售。
+shop_exchange_2,冒険で手に入れたトレジャーと<br>アイテムの交換ができちゃいます～,I'll trade you for treasures<br>you find on your adventure.,在这里可以用冒险中获得的物品和道具兑换商品哦~
+shop_exchange_20,売却確認,Sell,确认出售
+shop_exchange_21,売却,Sell,出售
+shop_exchange_22,売却不可,Sell,无法出售
+shop_exchange_23,売却完了,Sell,出售成功
+shop_exchange_24,%s個売却しました。,%s were sold.,售出%s个
+shop_exchange_25,確認,Skills,确认
+shop_exchange_26,進行中のクエストがあります。<br>島を移動する場合はクエストから撤退し<br>途中経過を破棄する必要があります。,<%= title %> is in progress. You must first retreat before travelling to another island.,您有进行中的任务。前往其他岛屿会自动从任务中撤退。
+shop_exchange_27,アイテム詳細,Item Details,道具详情
+shop_exchange_28,武勲・栄誉の輝き交換,Pendant Trade,武勋·荣誉的光辉交换
+shop_exchange_29,輝きはマルチバトルに参加すれば<br>手に入れることができますよ～,Collect pendants from raid battles and trade them here!,光辉可以通过参加多人战斗获得哦~
+shop_exchange_3,交換確認,Trade Treasure,确认兑换
+shop_exchange_30,本日の交換%s1数制限　残り%s2%s3,There is %s2%s1 more available today.,今日的兑换%s1限制 还剩%s2%s3
+shop_exchange_31,バハムートの鉤爪交換,Trade Bahamut Claws,兑换巴哈姆特的勾爪
+shop_exchange_32,サモン・クレイドル交換,Trade Summon Cradle,兑换劣化神石
+shop_exchange_33,SGFポイント交換,GSR Point Trade,SGF点数兑换
+shop_exchange_4,仲間にする,Add to Party,招募伙伴
+shop_exchange_5,交換する,Trade,兑换
+shop_exchange_6,交換エラー,Trade Treasure,兑换错误
+shop_exchange_7,交換できませんでした。,Technical issues are occurring. Treasure couldn't be traded.,兑换失败
+shop_exchange_8,交換完了,Trade Treasure,兑换成功
 shop_exchange_9,人," ",
-shop_exchange_ceiling_1,蒼光の輝石交換,Trade Cerulean Stones,
-shop_exchange_ceiling_2,手に入れた蒼光の輝石と<br>アイテムの交換ができちゃいます〜,I'll trade you for cerulean stones<br>that you collect on your adventure.,
+shop_exchange_ceiling_1,蒼光の輝石交換,Trade Cerulean Stones,苍光辉石兑换
+shop_exchange_ceiling_2,手に入れた蒼光の輝石と<br>アイテムの交換ができちゃいます〜,I'll trade you for cerulean stones<br>that you collect on your adventure.,在这里可以用苍光辉石兑换道具哦~
 shop_exchange_do_1,ディフェンドオーダー,Defense Order,
-shop_exchange_do_2,作成する,Trade,
+shop_exchange_do_2,作成する,Trade,兑换
 shop_exchange_do_3,作成エラー,Item Trade,
 shop_exchange_do_4,作成できませんでした。,Can't trade for item.,
 shop_exchange_do_5,作成完了,Item Trade,
 shop_exchange_do_6,本日の作成%s1数制限　残り%s2%s3,Only %s2 more available today.,
 shop_exchange_do_7,防戦アイテム作成,Item Trade,
 shop_exchange_links_1,リンクス交換チケット,Links Pick Ticket,
-shop_exchange_moon_1,ムーン交換,Trade Moons,
-shop_exchange_moon_2,シェロカルテの特別交換券,Siero's Special Pick Tickets,
-shop_exchange_moon_3,%s個入手しました。,You got %s.,
-shop_exchange_moon_4,%sルピ入手しました。," You got %s rupies.",
-shop_exchange_moon_5,%sJP入手しました。,You got %s CP.,
-shop_exchange_pop_1,発動中のよろず屋サポート,Current Shop Skills,
-shop_exchange_pop_2,発動確認,Select Length,
-shop_exchange_pop_3,よろず屋サポート,Shop Skill,
-shop_exchange_pop_4,軌跡の雫が足りません。,You don't have enough journey drops.,
-shop_exchange_present_1,プレゼントリストに送られました。,Loot will appear in your crate.,
-shop_exchange_trajectory_1,軌跡の雫ショップ,Journey Drops,
-shop_exchange_trajectory_2,冒険をすればするほど<br>その軌跡が形になるそうですよ〜,Mark how far you've come with<br>handy-dandy journey drops!,
-shop_exchange_trajectory_3,軌跡の雫 新着情報,Journey Drops,
-shop_exchange_trajectory_4,軌跡の雫,Journey Drops,
-shop_exchange_trajectory_5,よろず屋サポート効果UPキャンペーン,Shop Skill Boost,
-shop_exchange_trajectory_common_1,快適な空の旅への支度は、よろず屋にお任せください～,Swing back by Siero's for all your skyfaring needs!,
-shop_exchange_trajectory_common_2,シェロちゃんとよろず屋を今後ともご贔屓に～！,Come on back to the Knickknack Shack!,
-shop_exchange_trajectory_type1_1,「騎空士の道は一日にしてならず」ですよ～<br>頑張ってくださいね～,Great crews aren't built in a day! Keep it up!,
-shop_exchange_trajectory_type1_2,準備完了です～<br>張り切っていきましょ～！,"You're ready to go!<br>Go, go, go!",
-shop_exchange_trajectory_type2_1,いってらっしゃ～い！<br>旅のご無事を祈っています～,I'm rooting for you! Good luck out there!,
-shop_exchange_trajectory_type2_2,今日は絶好の冒険日和ですね～,It's another great day for adventure!,
-shop_exchange_trajectory_type3_1,装備品の強化は、今日から頑張りましょう～<br>なんて……うぷぷぷ,Boosting your upgrade percent? I agree 100 percent!,
-shop_exchange_trajectory_type3_2,装備品のことなら、そう！ビィさんに～<br>なんて……<br>うぷぷぷ,Let Vyrn upturn<br>your EXP earned!,
-shop_exchange_trajectory_type4_1,装備品の強化も、<br>よろず屋に、よろ～ず！<br>うぷぷぷ,Grand successes sure are grand! Hehe.,
-shop_exchange_trajectory_type4_2,大成功したら、シェロちゃんに見せいこう～！<br>うぷぷぷ,"If you get a showstopper, stop and show me!",
-shop_exchange_trajectory_type5_1,お金は大切にしましょうね～<br>お金はおっかね～！<br>ですので～,"Money is funny but<br>don't drop it, sonny!",
-shop_exchange_trajectory_type5_2,お金を拾ったら披露しましょう～拾うだけに。<br>うぷぷぷ,Sharing is caring!<br>Let us treasure<br>your treasure!,
-shop_exchange_trajectory_type6_1,今日はなにか良いことが起きる予感がしますね～,I have a feeling something great is coming!,
-shop_exchange_trajectory_type6_2,お宝を見つけたからといって、油断してはいけませんよ～,"X marks the spot,<br>but don't become<br>the mark!",
+shop_exchange_moon_1,ムーン交換,Trade Moons,月亮交换
+shop_exchange_moon_2,シェロカルテの特別交換券,Siero's Special Pick Tickets,榭洛科特的特别交换券
+shop_exchange_moon_3,%s個入手しました。,You got %s.,已获得%s个。
+shop_exchange_moon_4,%sルピ入手しました。," You got %s rupies.",已获得%s卢比。
+shop_exchange_moon_5,%sJP入手しました。,You got %s CP.,已获得%sJP。
+shop_exchange_pop_1,発動中のよろず屋サポート,Current Shop Skills,发动中的万事屋支援效果
+shop_exchange_pop_2,発動確認,Select Length,发动确认
+shop_exchange_pop_3,よろず屋サポート,Shop Skill,万事屋支援效果
+shop_exchange_pop_4,軌跡の雫が足りません。,You don't have enough journey drops.,轨迹水滴不足
+shop_exchange_present_1,プレゼントリストに送られました。,Loot will appear in your crate.,已发送至礼物列表
+shop_exchange_trajectory_1,軌跡の雫ショップ,Journey Drops,轨迹水滴商店
+shop_exchange_trajectory_2,冒険をすればするほど<br>その軌跡が形になるそうですよ〜,Mark how far you've come with<br>handy-dandy journey drops!,多多冒险才会形成轨迹哦~
+shop_exchange_trajectory_3,軌跡の雫 新着情報,Journey Drops,轨迹水滴
+shop_exchange_trajectory_4,軌跡の雫,Journey Drops,轨迹水滴
+shop_exchange_trajectory_5,よろず屋サポート効果UPキャンペーン,Shop Skill Boost,万事屋支援效果UP活动
+shop_exchange_trajectory_common_1,快適な空の旅への支度は、よろず屋にお任せください～,Swing back by Siero's for all your skyfaring needs!,舒适的旅行，就交给万事屋吧~
+shop_exchange_trajectory_common_2,シェロちゃんとよろず屋を今後ともご贔屓に～！,Come on back to the Knickknack Shack!,以后也多多惠顾哦~！
+shop_exchange_trajectory_type1_1,「騎空士の道は一日にしてならず」ですよ～<br>頑張ってくださいね～,Great crews aren't built in a day! Keep it up!,有句话叫「成功的骑空士不是一蹴而就的」~继续加油哦~
+shop_exchange_trajectory_type1_2,準備完了です～<br>張り切っていきましょ～！,"You're ready to go!<br>Go, go, go!",准备好了~加油吧~！
+shop_exchange_trajectory_type2_1,いってらっしゃ～い！<br>旅のご無事を祈っています～,I'm rooting for you! Good luck out there!,一路平安！祝你好运哦~
+shop_exchange_trajectory_type2_2,今日は絶好の冒険日和ですね～,It's another great day for adventure!,今天很适合冒险哦~
+shop_exchange_trajectory_type3_1,装備品の強化は、今日から頑張りましょう～<br>なんて……うぷぷぷ,Boosting your upgrade percent? I agree 100 percent!,从今天起努力强化装备吧~……呵呵呵
+shop_exchange_trajectory_type3_2,装備品のことなら、そう！ビィさんに～<br>なんて……<br>うぷぷぷ,Let Vyrn upturn<br>your EXP earned!,要给阿碧也买一套装备吗？开玩笑啦……呵呵呵
+shop_exchange_trajectory_type4_1,装備品の強化も、<br>よろず屋に、よろ～ず！<br>うぷぷぷ,Grand successes sure are grand! Hehe.,装备强化也交给万事屋吧！呵呵呵
+shop_exchange_trajectory_type4_2,大成功したら、シェロちゃんに見せいこう～！<br>うぷぷぷ,"If you get a showstopper, stop and show me!",大成功的时候要让榭洛也看看哦~！
+shop_exchange_trajectory_type5_1,お金は大切にしましょうね～<br>お金はおっかね～！<br>ですので～,"Money is funny but<br>don't drop it, sonny!",金钱不是万能的~没有钱是万万不能的~！
+shop_exchange_trajectory_type5_2,お金を拾ったら披露しましょう～拾うだけに。<br>うぷぷぷ,Sharing is caring!<br>Let us treasure<br>your treasure!,捡到钱不能隐瞒哦~要告诉别人你捡到钱啦。呵呵呵
+shop_exchange_trajectory_type6_1,今日はなにか良いことが起きる予感がしますね～,I have a feeling something great is coming!,感觉今天会有好事发生呢~
+shop_exchange_trajectory_type6_2,お宝を見つけたからといって、油断してはいけませんよ～,"X marks the spot,<br>but don't become<br>the mark!",发现宝藏的时候也不能大意哦~
 shop_omega_1,特殊武器,,
-shop_pop_1,一部コンテンツについて,Regarding Certain Content,
-shop_skycompass_1,グラパス,,
-shop_skycompass_2,連携確認,,
-shop_skycompass_3,ページを開けません。アドレスが無効です。,,
-shop_title,モバコインショップ,MobaCoin Shop,
-shop_title_dmm,DMMポイントショップ,DMM Coin Shop,
-shop_title_g,グリーコインショップ,GREE Coin Shop,
-shop_title_yahoo,グラブルコインショップ,Granblue Coin Shop,
-sidestory_archive_1,ストーリー図鑑,,
-sidestory_archive_2,確認条件,,
-sidestory_campaign_1,キャンペーンについて,,
-sidestory_index_1,サイドストーリー,,
-sidestory_navi_1,バトル前,,
-sidestory_navi_2,討伐章,,
-sidestory_navi_3,戦貨,,
-sidestory_navi_4,貢献度,,
-sidestory_navi_5,台詞集,,
-sidestory_quest_1,クエスト,,
-sidestory_quest_2,クエスト解放,,
-sidestory_quest_3,謎解きクエスト,,
-sidestory_title_1,追加された称号,,
-sidestory_title_2,称号確認,,
-sidestory_title_3,称号設定完了,,
-sidestory_title_4,称号を設定しました。,,
-sidestory_title_5,ストーリー称号,,
-sidestory_top_1,獲得キャラクター,,
-sidestory_top_10,%s1%s2入手しました。,,
-sidestory_top_11,%sがパーティに加入しました。,,
-sidestory_top_12,本日の交換%s1数制限　残り%s2%s3,,
-sidestory_top_13,残り%s1%s2,,
+shop_pop_1,一部コンテンツについて,Regarding Certain Content,关于部分内容
+shop_skycompass_1,グラパス,,GrablueSkyCompass
+shop_skycompass_2,連携確認,,绑定确认
+shop_skycompass_3,ページを開けません。アドレスが無効です。,,无法打开页面。地址无效。
+shop_title,モバコインショップ,MobaCoin Shop,MobaCoin Shop
+shop_title_dmm,DMMポイントショップ,DMM Coin Shop,DMM Coin Shop
+shop_title_g,グリーコインショップ,GREE Coin Shop,GREE Coin Shop
+shop_title_yahoo,グラブルコインショップ,Granblue Coin Shop,Granblue Coin Shop
+sidestory_archive_1,ストーリー図鑑,,故事图鉴
+sidestory_archive_2,確認条件,,确认条件
+sidestory_campaign_1,キャンペーンについて,,活动详情
+sidestory_index_1,サイドストーリー,,番外故事
+sidestory_navi_1,バトル前,,战斗前
+sidestory_navi_2,討伐章,,讨伐张
+sidestory_navi_3,戦貨,,战货
+sidestory_navi_4,貢献度,,贡献度
+sidestory_navi_5,台詞集,,台词集
+sidestory_quest_1,クエスト,,任务
+sidestory_quest_2,クエスト解放,,任务解放
+sidestory_quest_3,謎解きクエスト,,解谜任务
+sidestory_title_1,追加された称号,,新称号
+sidestory_title_2,称号確認,,称号确认
+sidestory_title_3,称号設定完了,,称号设定成功
+sidestory_title_4,称号を設定しました。,,称号设定成功
+sidestory_title_5,ストーリー称号,,剧情称号
+sidestory_top_1,獲得キャラクター,,获得新同伴
+sidestory_top_10,%s1%s2入手しました。,,获得%s1%s2
+sidestory_top_11,%sがパーティに加入しました。,,%s已成为同伴
+sidestory_top_12,本日の交換%s1数制限　残り%s2%s3,,今日的兑换%s1限制 还剩%s2%s3
+sidestory_top_13,残り%s1%s2,,还剩%s1%s2
 sidestory_top_14,（所持数　%s）,,
-sidestory_top_15,アイテム詳細,,
-sidestory_top_17,クエスト解放,,
-sidestory_top_18,ルピ,,
-sidestory_top_19,本日の交換%s1数制限　残り%s2%s3,,
-sidestory_top_2,交換確認,,
-sidestory_top_20,台詞集解放,,
-sidestory_top_21,台詞集,,
-sidestory_top_23,クエストに挑戦可能となりました。,,
-sidestory_top_24,%sを入手しました。,,
+sidestory_top_15,アイテム詳細,,道具详情
+sidestory_top_17,クエスト解放,,任务解放
+sidestory_top_18,ルピ,,卢比
+sidestory_top_19,本日の交換%s1数制限　残り%s2%s3,,今日的兑换%s1限制 还剩%s2%s3
+sidestory_top_2,交換確認,,确认兑换
+sidestory_top_20,台詞集解放,,台词集解放
+sidestory_top_21,台詞集,,台词集
+sidestory_top_23,クエストに挑戦可能となりました。,,任务限制解除，可以挑战任务
+sidestory_top_24,%sを入手しました。,,已获得%s
 sidestory_top_25,加入条件,,
-sidestory_top_26,プレゼントリストに送られました。,,
-sidestory_top_3,交換する,,
-sidestory_top_4,仲間にする,,
-sidestory_top_5,個,,
+sidestory_top_26,プレゼントリストに送られました。,,已发送至礼物列表
+sidestory_top_3,交換する,,兑换
+sidestory_top_4,仲間にする,,招募伙伴
+sidestory_top_5,個,,个
 sidestory_top_6,人,,
-sidestory_top_7,交換エラー,,
-sidestory_top_8,交換できませんでした。,,
-sidestory_top_9,交換完了,,
-sort_filter_1,未選択,Select Filter,
-sort_filter_10,スキルレベル,Skill Lvl,
-sort_filter_100,キャラの属性:火/水〜,CHRCTR Element Group A,
-sort_filter_101,キャラの属性:闇/光〜,CHRCTR Element Group B,
-sort_filter_102,キャラのタイプ:A,Style Group A,
-sort_filter_103,キャラのタイプ:B,Style Group B,
-sort_filter_104,属性:火/水〜,Element Group A,
-sort_filter_105,属性:闇/光〜,Element Group B,
-sort_filter_106,種類:剣/短剣〜,WPN Group A,
-sort_filter_107,種類:刀/楽器〜,WPN Group B,
+sidestory_top_7,交換エラー,,兑换错误
+sidestory_top_8,交換できませんでした。,,兑换失败
+sidestory_top_9,交換完了,,兑换成功
+sort_filter_1,未選択,Select Filter,未选择
+sort_filter_10,スキルレベル,Skill Lvl,技能等级
+sort_filter_100,キャラの属性:火/水〜,CHRCTR Element Group A,人物属性:火/水〜
+sort_filter_101,キャラの属性:闇/光〜,CHRCTR Element Group B,人物属性:暗/光〜
+sort_filter_102,キャラのタイプ:A,Style Group A,人物类型
+sort_filter_103,キャラのタイプ:B,Style Group B,人物类型
+sort_filter_104,属性:火/水〜,Element Group A,属性:火/水〜
+sort_filter_105,属性:闇/光〜,Element Group B,属性:暗/光〜
+sort_filter_106,種類:剣/短剣〜,WPN Group A,种类：剑/短剑〜
+sort_filter_107,種類:刀/楽器〜,WPN Group B,种类：刀/乐器〜
 sort_filter_108,LB Class:高,EM Lvl (High),
-sort_filter_109,LB Class:高い順,EM Lvl (Highest),
+sort_filter_109,LB Class:高い順,EM Lvl (Highest),LB Class:从高到低
 sort_filter_11,Ｌｖ:高,Lvl (High),
 sort_filter_110,LB Class:低,EM Lvl (Low),
-sort_filter_111,LB Class:低い順,EM Lvl (Lowest),
+sort_filter_111,LB Class:低い順,EM Lvl (Lowest),LB Class:从低到高
 sort_filter_112,LB Class,EM Lvl,
-sort_filter_12,Ｌｖ:高い順,Lvl (Highest),
-sort_filter_13,Ｌｖ:低,Lvl (Low),
-sort_filter_14,Ｌｖ:低い順,Lvl (Lowest),
-sort_filter_15,戦力:高,PWR (High),
-sort_filter_16,戦力:高い順,PWR (Highest),
-sort_filter_17,戦力:低,PWR (Low),
-sort_filter_18,戦力:低い順,PWR (Lowest),
-sort_filter_19,攻撃力:高,ATK (High),
-sort_filter_2,攻撃力,ATK,
-sort_filter_20,攻撃力:高い順,ATK (Highest),
-sort_filter_21,攻撃力:低,ATK (Low),
-sort_filter_22,攻撃力:低い順,ATK (Lowest),
-sort_filter_23,ＨＰ:高,HP (High),
-sort_filter_24,ＨＰ:高い順,HP (Highest),
-sort_filter_25,ＨＰ:低,HP (Low),
-sort_filter_26,ＨＰ:低い順,HP (Lowest),
-sort_filter_27,レア度:高,Rarity (High),
-sort_filter_28,レア度:高い順,Rarity (Highest),
-sort_filter_29,レア度:低,Rarity (Low),
-sort_filter_3,戦力,PWR,
-sort_filter_30,レア度:低い順,Rarity (Lowest),
-sort_filter_31,上限解放:高,Uncapped (More),
-sort_filter_32,上限解放段階:高い順,Uncapped (More),
-sort_filter_33,上限解放:低,Uncapped (Less),
-sort_filter_34,上限解放段階:低い順,Uncapped (Less),
-sort_filter_35,スキルLv:高,Skill Level (High),
-sort_filter_36,武器スキルLv:高い順,Skill Level (Highest),
-sort_filter_37,スキルLv:低,Skill Level (Low),
-sort_filter_38,武器スキルLv:低い順,Skill Level (Lowest),
-sort_filter_39,最近入手,Got (Recent),
-sort_filter_4,レア度,Rarity,
-sort_filter_40,最近入手した順,Got (Recent),
-sort_filter_41,昔に入手,Got (Not Recent),
-sort_filter_42,昔に入手した順,Got (Not Recent),
-sort_filter_43,武器種順:Ｂ,Weapon Group B,
+sort_filter_12,Ｌｖ:高い順,Lvl (Highest),LV：从高到低
+sort_filter_13,Ｌｖ:低,Lvl (Low),LV：低
+sort_filter_14,Ｌｖ:低い順,Lvl (Lowest),LV：从低到高
+sort_filter_15,戦力:高,PWR (High),战力:高
+sort_filter_16,戦力:高い順,PWR (Highest),战力:从高到低
+sort_filter_17,戦力:低,PWR (Low),战力:低
+sort_filter_18,戦力:低い順,PWR (Lowest),战力：从低到高
+sort_filter_19,攻撃力:高,ATK (High),攻击力：高
+sort_filter_2,攻撃力,ATK,攻击力
+sort_filter_20,攻撃力:高い順,ATK (Highest),攻击力:从高到低
+sort_filter_21,攻撃力:低,ATK (Low),攻击力：低
+sort_filter_22,攻撃力:低い順,ATK (Lowest),攻击力：从低到高
+sort_filter_23,ＨＰ:高,HP (High),HP：高
+sort_filter_24,ＨＰ:高い順,HP (Highest),HP:从高到低
+sort_filter_25,ＨＰ:低,HP (Low),HP：低
+sort_filter_26,ＨＰ:低い順,HP (Lowest),HP从低到高
+sort_filter_27,レア度:高,Rarity (High),稀有度:高
+sort_filter_28,レア度:高い順,Rarity (Highest),稀有度:从高到低
+sort_filter_29,レア度:低,Rarity (Low),稀有度:低
+sort_filter_3,戦力,PWR,战力
+sort_filter_30,レア度:低い順,Rarity (Lowest),稀有度:从低到高
+sort_filter_31,上限解放:高,Uncapped (More),上限解放：高
+sort_filter_32,上限解放段階:高い順,Uncapped (More),上限解放阶段：从高到低
+sort_filter_33,上限解放:低,Uncapped (Less),上限解放：低
+sort_filter_34,上限解放段階:低い順,Uncapped (Less),上限解放阶段：从低到高
+sort_filter_35,スキルLv:高,Skill Level (High),技能LV：高
+sort_filter_36,武器スキルLv:高い順,Skill Level (Highest),武器技能LV：从高到低
+sort_filter_37,スキルLv:低,Skill Level (Low),技能LV：低
+sort_filter_38,武器スキルLv:低い順,Skill Level (Lowest),技能LV：从低到高
+sort_filter_39,最近入手,Got (Recent),最近获得
+sort_filter_4,レア度,Rarity,稀有度
+sort_filter_40,最近入手した順,Got (Recent),最近获得
+sort_filter_41,昔に入手,Got (Not Recent),过去获得
+sort_filter_42,昔に入手した順,Got (Not Recent),过去获得
+sort_filter_43,武器種順:Ｂ,Weapon Group B,武器顺序：B
 sort_filter_44,刀/楽器/弓/格闘/銃〜,"Katana, Harp, Bow, Gun, etc.",
-sort_filter_45,武器種順:Ａ,Weapon Group A,
+sort_filter_45,武器種順:Ａ,Weapon Group A,武器顺序：A
 sort_filter_46,剣/短剣/槍/斧/杖〜,"Sabre, Dagger, Spear, Axe, Staff, etc.",
-sort_filter_47,属性順:Ｂ,Element Group B,
-sort_filter_48,闇/光/風/土/水/火,"Dark, Light, Wind, Earth, Water, Fire",
-sort_filter_49,属性順:Ａ,Element Group A,
+sort_filter_47,属性順:Ｂ,Element Group B,属性顺序：B
+sort_filter_48,闇/光/風/土/水/火,"Dark, Light, Wind, Earth, Water, Fire",暗/光/风/土/水/火
+sort_filter_49,属性順:Ａ,Element Group A,属性顺序：A
 sort_filter_5,属性,Element,
-sort_filter_50,火/水/土/風/光/闇,"Fire, Water, Earth, Wind, Light, Dark",
-sort_filter_51,ソート設定,Sort,
-sort_filter_52,並び替えて表示する,Change Order,
-sort_filter_53,絞り込んで表示する,Filter,
-sort_filter_54,武器の最大攻撃力:高い順,Weapon Max ATK (Highest),
-sort_filter_55,武器の最大攻撃力:低い順,Weapon Max ATK (Lowest),
-sort_filter_56,武器の最大HP:高い順,Weapon Max HP (Highest),
-sort_filter_57,武器の最大HP:低い順,Weapon Max HP (Lowest),
-sort_filter_58,武器の属性:火/水〜,"Weapon Element (Fire, Water, etc.)",
-sort_filter_59,武器の属性:闇/光〜,"Weapon Element (Dark, Light, etc.)",
-sort_filter_6,入手,New,
-sort_filter_60,武器の種類:剣/短剣〜,"Sabre, Dagger, Spear, Axe, Staff, etc.",
-sort_filter_61,武器の種類:刀/楽器〜,"Katana, Harp, Bow, Gun, etc.",
-sort_filter_62,キャラの最大攻撃力:高い順,Character Max ATK (Highest),
-sort_filter_63,キャラの最大攻撃力:低い順,Character Max ATK (Lowest),
-sort_filter_64,キャラの最大HP:高い順,Character Max HP (Highest),
-sort_filter_65,キャラの最大HP:低い順,Character Max HP (Lowest),
-sort_filter_66,キャラの属性:火/水〜,"Character Element (Fire, Water, etc.)",
-sort_filter_67,キャラの属性:闇/光〜,"Character Element (Dark, Light, etc.)",
-sort_filter_68,キャラのタイプ:バランス/攻撃〜,"Character Style (BAL, ATK, etc.)",
-sort_filter_69,キャラのタイプ:特殊/回復〜,"Character Style (SPEC, HEAL, etc.)",
-sort_filter_7,レベル,Level,
-sort_filter_70,最大攻撃力:高い順,Max ATK (Highest),
-sort_filter_71,最大攻撃力:低い順,Max ATK (Lowest),
-sort_filter_72,最大HP:高い順,Max HP (Highest),
-sort_filter_73,最大HP:低い順,Max HP (Lowest),
-sort_filter_74,属性:火/水〜,"Fire, Water, Earth, Wind, Light, Dark",
-sort_filter_75,属性:闇/光〜,"Dark, Light, Wind, Earth, Water, Fire",
-sort_filter_76,種類:剣/短剣〜,"Sabre, Dagger, Spear, Axe, Staff, etc.",
-sort_filter_77,種類:刀/楽器〜,"Katana, Harp, Bow, Gun, etc.",
+sort_filter_50,火/水/土/風/光/闇,"Fire, Water, Earth, Wind, Light, Dark",火/水/土/风/光/暗
+sort_filter_51,ソート設定,Sort,查找设定
+sort_filter_52,並び替えて表示する,Change Order,改变顺序查找
+sort_filter_53,絞り込んで表示する,Filter,缩小范围查找
+sort_filter_54,武器の最大攻撃力:高い順,Weapon Max ATK (Highest),武器最大攻击力：从高到低
+sort_filter_55,武器の最大攻撃力:低い順,Weapon Max ATK (Lowest),武器最大攻击力：从低到高
+sort_filter_56,武器の最大HP:高い順,Weapon Max HP (Highest),武器最大HP：从高到低
+sort_filter_57,武器の最大HP:低い順,Weapon Max HP (Lowest),武器最大HP：从低到高
+sort_filter_58,武器の属性:火/水〜,"Weapon Element (Fire, Water, etc.)",武器属性:火/水〜
+sort_filter_59,武器の属性:闇/光〜,"Weapon Element (Dark, Light, etc.)",武器属性:暗/光〜
+sort_filter_6,入手,New,获得
+sort_filter_60,武器の種類:剣/短剣〜,"Sabre, Dagger, Spear, Axe, Staff, etc.",武器种类:剑/短剑〜
+sort_filter_61,武器の種類:刀/楽器〜,"Katana, Harp, Bow, Gun, etc.",武器种类:刀/乐器〜
+sort_filter_62,キャラの最大攻撃力:高い順,Character Max ATK (Highest),人物最大攻击力：从高到低
+sort_filter_63,キャラの最大攻撃力:低い順,Character Max ATK (Lowest),人物最大攻击力：从低到高
+sort_filter_64,キャラの最大HP:高い順,Character Max HP (Highest),人物最大HP：从高到低
+sort_filter_65,キャラの最大HP:低い順,Character Max HP (Lowest),人物最大HP：从低到高
+sort_filter_66,キャラの属性:火/水〜,"Character Element (Fire, Water, etc.)",人物属性:火/水〜
+sort_filter_67,キャラの属性:闇/光〜,"Character Element (Dark, Light, etc.)",人物属性：暗/光〜
+sort_filter_68,キャラのタイプ:バランス/攻撃〜,"Character Style (BAL, ATK, etc.)",人物类型：平衡/攻击〜
+sort_filter_69,キャラのタイプ:特殊/回復〜,"Character Style (SPEC, HEAL, etc.)",人物类型：特殊/回复〜
+sort_filter_7,レベル,Level,LV
+sort_filter_70,最大攻撃力:高い順,Max ATK (Highest),最大攻击力：从高到低
+sort_filter_71,最大攻撃力:低い順,Max ATK (Lowest),最大攻击力：从低到高
+sort_filter_72,最大HP:高い順,Max HP (Highest),最大HP：从高到低
+sort_filter_73,最大HP:低い順,Max HP (Lowest),最大HP：从低到高
+sort_filter_74,属性:火/水〜,"Fire, Water, Earth, Wind, Light, Dark",属性:火/水〜
+sort_filter_75,属性:闇/光〜,"Dark, Light, Wind, Earth, Water, Fire",属性:暗/光〜
+sort_filter_76,種類:剣/短剣〜,"Sabre, Dagger, Spear, Axe, Staff, etc.",种类:剑/短剑〜
+sort_filter_77,種類:刀/楽器〜,"Katana, Harp, Bow, Gun, etc.",种类:刀/乐器〜
 sort_filter_78,HP,HP,
-sort_filter_79,武器攻撃力,Weapon Max ATK,
+sort_filter_79,武器攻撃力,Weapon Max ATK,武器攻击力
 sort_filter_8,上限解放,Level Cap,
 sort_filter_80,武器HP,Weapon Max HP,
 sort_filter_81,武器属性,Weapon Element,
-sort_filter_82,キャラ攻撃力,Character Max ATK,
-sort_filter_83,キャラHP,Character Max HP,
-sort_filter_84,キャラ属性,Character Element,
-sort_filter_85,キャラタイプ,Character Style,
-sort_filter_86,最大攻撃力,Max ATK,
+sort_filter_82,キャラ攻撃力,Character Max ATK,人物攻击力
+sort_filter_83,キャラHP,Character Max HP,人物HP
+sort_filter_84,キャラ属性,Character Element,人物属性
+sort_filter_85,キャラタイプ,Character Style,人物类型
+sort_filter_86,最大攻撃力,Max ATK,最大攻击力
 sort_filter_87,最大HP,Max HP,
-sort_filter_88,武器の最大攻撃力:高,WPN Max ATK (Highest),
-sort_filter_89,武器の最大攻撃力:低,WPN Max ATK (Lowest),
-sort_filter_9,武器種,Group,
-sort_filter_90,武器の最大HP:高い順,WPN Max HP (Highest),
-sort_filter_91,武器の最大HP:低い順,WPN Max HP (Lowest),
-sort_filter_92,武器の属性:火/水〜,WPN Element Group A,
-sort_filter_93,武器の属性:闇/光〜,WPN Element Group B,
-sort_filter_94,武器の種類:剣/短剣〜,WPN Group A,
-sort_filter_95,武器の種類:刀/楽器〜,WPN Group B,
-sort_filter_96,キャラの最大攻撃力:高,CHRCTR Max ATK (Highest),
-sort_filter_97,キャラの最大攻撃力:低,CHRCTR Max ATK (Lowest),
-sort_filter_98,キャラの最大HP:高い順,CHRCTR Max HP (Highest),
-sort_filter_99,キャラの最大HP:低い順,CHRCTR Max HP (Lowest),
-start_recast_1,使用可能: %sターン後,Ready in %s turn,
-start_recast_2,使用可能,Ready,
-start_recast_3,使用済み,Already used,
-summon_lyria_1,ルリアが召喚不可状態<br>のため召喚できません。,You aren't able to use summons now.,
-summon_lyria_2,ルリアが倒れたため召喚できません。,Lyria has been knocked out. You can't use summons.,
-survival_mode_1,サバイバルモード,SURVIVAL MODE,
-title_1,称号設定,Display a Trophy,
-title_10,該当する報酬がありません。,No rewards available.,
+sort_filter_88,武器の最大攻撃力:高,WPN Max ATK (Highest),武器最大攻击力：高
+sort_filter_89,武器の最大攻撃力:低,WPN Max ATK (Lowest),武器最大攻击力：低
+sort_filter_9,武器種,Group,武器种类
+sort_filter_90,武器の最大HP:高い順,WPN Max HP (Highest),武器最大HP：从高到低
+sort_filter_91,武器の最大HP:低い順,WPN Max HP (Lowest),武器最大HP：从低到高
+sort_filter_92,武器の属性:火/水〜,WPN Element Group A,武器属性:火/水〜
+sort_filter_93,武器の属性:闇/光〜,WPN Element Group B,武器属性:暗/光〜
+sort_filter_94,武器の種類:剣/短剣〜,WPN Group A,武器种类:剑/短剑〜
+sort_filter_95,武器の種類:刀/楽器〜,WPN Group B,武器种类:刀/乐器〜
+sort_filter_96,キャラの最大攻撃力:高,CHRCTR Max ATK (Highest),人物最大攻击力：高
+sort_filter_97,キャラの最大攻撃力:低,CHRCTR Max ATK (Lowest),人物最大攻击力：低
+sort_filter_98,キャラの最大HP:高い順,CHRCTR Max HP (Highest),人物最大HP：从高到低
+sort_filter_99,キャラの最大HP:低い順,CHRCTR Max HP (Lowest),人物最大HP：从低到高
+start_recast_1,使用可能: %sターン後,Ready in %s turn,%s回合后可使用
+start_recast_2,使用可能,Ready,可使用
+start_recast_3,使用済み,Already used,已使用
+summon_lyria_1,ルリアが召喚不可状態<br>のため召喚できません。,You aren't able to use summons now.,露丽亚当前无法发动召唤。
+summon_lyria_2,ルリアが倒れたため召喚できません。,Lyria has been knocked out. You can't use summons.,露丽亚已倒下，无法召唤
+survival_mode_1,サバイバルモード,SURVIVAL MODE,生存模式
+title_1,称号設定,Display a Trophy,称号设定
+title_10,該当する報酬がありません。,No rewards available.,无报酬
 title_11,%s件,%s,
-title_12,報酬受取,Pick Up Loot,
-title_13,所持数がいっぱいです,You can't hold any more items.,
-title_14,所持数が限界のため、<br>受け取ることが出来ません。,You can't pick up rewards because you've<br> reached the maximum amount you can hold.,
-title_15,謎解きトップへ,Event Home,
-title_16,称号設定完了,Display Trophy,
-title_17,称号を設定しました。,You displayed a trophy.,
-title_18,イベント称号,Event Trophies,
-title_19,フェイトエピソード解放,Fate Episode Unlocked,
-title_2,称号設定完了,Display Trophy,
-title_20,獲得キャラクター,New Characters,
-title_3,称号を設定しました。,You displayed a trophy.,
-title_4,追加された称号,New Trophies,
+title_12,報酬受取,Pick Up Loot,收取报酬
+title_13,所持数がいっぱいです,You can't hold any more items.,您的所持已达上限
+title_14,所持数が限界のため、<br>受け取ることが出来ません。,You can't pick up rewards because you've<br> reached the maximum amount you can hold.,所持已达上限，无法收取。
+title_15,謎解きトップへ,Event Home,返回解谜首页
+title_16,称号設定完了,Display Trophy,称号设定成功
+title_17,称号を設定しました。,You displayed a trophy.,称号设定成功
+title_18,イベント称号,Event Trophies,活动称号
+title_19,フェイトエピソード解放,Fate Episode Unlocked,人物剧情解放
+title_2,称号設定完了,Display Trophy,称号设定成功
+title_20,獲得キャラクター,New Characters,获得新人物
+title_3,称号を設定しました。,You displayed a trophy.,称号设定成功
+title_4,追加された称号,New Trophies,新称号
 title_5,称号,Trophies,
-title_6,称号確認,Display Trophy,
-title_7,称号設定完了,Display a Trophy,
-title_8,称号を設定しました。,You displayed a trophy.,
-title_9,称号報酬,Trophy Rewards,
-user_1,新着情報,News,
-user_10,騎空団サポート,Crew Skills,
-user_11,称号獲得,Trophy Achieved,
-user_12,レビュー書き込み,Write a Review!,
-user_13,レビューを書くと、<br>「レジェンドガチャチケット」1枚<br>を獲得できます。<br>レジェンドガチャチケットは<br>プレゼントリストに送られます。,Write a review to get one Premium<br>draw ticket. The draw ticket will<br>appear in your crate.,
-user_14,アイテム獲得！,Item Received,
-user_15,%s<br>を手に入れたぜ！,Look what you got:<br>%s!,
+title_6,称号確認,Display Trophy,称号确认
+title_7,称号設定完了,Display a Trophy,称号设定成功
+title_8,称号を設定しました。,You displayed a trophy.,称号设定成功
+title_9,称号報酬,Trophy Rewards,称号报酬
+user_1,新着情報,News,最新咨询
+user_10,騎空団サポート,Crew Skills,骑空团支援效果
+user_11,称号獲得,Trophy Achieved,获得新称号
+user_12,レビュー書き込み,Write a Review!,评分
+user_13,レビューを書くと、<br>「レジェンドガチャチケット」1枚<br>を獲得できます。<br>レジェンドガチャチケットは<br>プレゼントリストに送られます。,Write a review to get one Premium<br>draw ticket. The draw ticket will<br>appear in your crate.,评分后将获得「高级卡池扭蛋券」1张。高级卡池扭蛋券将发送至礼物列表
+user_14,アイテム獲得！,Item Received,获得新道具
+user_15,%s<br>を手に入れたぜ！,Look what you got:<br>%s!,获得%s！
 user_16,所持上限,Inventory Full,
-user_17,所持上限に達しているので、これ以上所持できません。,You already have the maximum number that can be held at once. You can't carry any more.,
-user_18,天星器交換チケットを使用できます。,Revenant weapon exchange ticket available!,
-user_19,超得！！スタートダッシュガチャセットが<br />購入できます。,Deeply discounted Beginner's draw set on sale!,
-user_2,編成することができなくなりました,This can't be equipped anymore.,
-user_20,サプライズ！！スペシャルガチャセットが<br />購入できます。,Surprise Special draw set on sale!,
-user_21,無料ガチャが引けます。,Draw once for free!,
-user_22,フェイトエピソードがあります！,You have new fate episodes!,
-user_23,フレンド申請が来ています。,You have a friend request!,
-user_24,招待チャットを送信して、報酬GET！！,Invite a friend to Granblue Fantasy and get loot!,
-user_25,騎空団に入団申請が来ています。,Someone applied to your crew!,
-user_26,称号報酬が獲得出来ます。,You got a new trophy!,
-user_27,%sが購入できます。,"%s is now available. ",
-user_28,騎空団%sからのスカウトがあります。,You were scouted by %s!,
-user_29,未確認バトルがあります。,Check your raid battles!,
-user_3,イベント終了,Event Concluded,
-user_30,未確認の共闘バトルがあります。,Check your co-op battles!,
-user_31,未確認のイベント共闘バトルがあります。,Check your co-op event battles!,
-user_32,挨拶が%s件あります。,There is %s message on your message board.,
-user_33,キャンペーンの当選結果が来ています。,You were selected!,
-user_34,誕生日が未設定です。,Enter your birthday.,
-user_35,お誕生日おめでとうございます！,Happy Birthday from Granblue Fantasy!,
-user_36,レビュー書き込みで報酬を獲得できます。,Write a review and get some loot.,
-user_37,アプリケーションに新しいバージョンがあります。,There is an newer version of this app.,
-user_38,会員登録をするとニックネームを変更できます。,Register with Mobage to change your nickname.,
-user_39,お誕生日おめでとうございます！,Happy Birthday from Granblue Fantasy!,
+user_17,所持上限に達しているので、これ以上所持できません。,You already have the maximum number that can be held at once. You can't carry any more.,所持已达上限，无法收取。
+user_18,天星器交換チケットを使用できます。,Revenant weapon exchange ticket available!,您可以使用天星器兑换券。
+user_19,超得！！スタートダッシュガチャセットが<br />購入できます。,Deeply discounted Beginner's draw set on sale!,新手超得！！现在可以购买新手特别扭蛋券！
+user_2,編成することができなくなりました,This can't be equipped anymore.,该装备无法再编入编成
+user_20,サプライズ！！スペシャルガチャセットが<br />購入できます。,Surprise Special draw set on sale!,大惊喜！！现在可以购买特别扭蛋券！
+user_21,無料ガチャが引けます。,Draw once for free!,可以进行免费扭蛋。
+user_22,フェイトエピソードがあります！,You have new fate episodes!,有未通关的人物剧情！
+user_23,フレンド申請が来ています。,You have a friend request!,有未处理的好友申请！
+user_24,招待チャットを送信して、報酬GET！！,Invite a friend to Granblue Fantasy and get loot!,邀请朋友加入碧蓝幻想，可获奖励！
+user_25,騎空団に入団申請が来ています。,Someone applied to your crew!,有未处理的骑空团入团申请。
+user_26,称号報酬が獲得出来ます。,You got a new trophy!,有未领取的称号报酬。
+user_27,%sが購入できます。,"%s is now available. ",现在可以购买%s。
+user_28,騎空団%sからのスカウトがあります。,You were scouted by %s!,骑空团%s向你发出邀请。
+user_29,未確認バトルがあります。,Check your raid battles!,有未确认结果的战斗。
+user_3,イベント終了,Event Concluded,活动结束
+user_30,未確認の共闘バトルがあります。,Check your co-op battles!,有未确认结果的共斗任务。
+user_31,未確認のイベント共闘バトルがあります。,Check your co-op event battles!,有未确认结果的活动共斗任务。
+user_32,挨拶が%s件あります。,There is %s message on your message board.,有%s人在你的主页留言。
+user_33,キャンペーンの当選結果が来ています。,You were selected!,你在活动中当选！
+user_34,誕生日が未設定です。,Enter your birthday.,未设定生日
+user_35,お誕生日おめでとうございます！,Happy Birthday from Granblue Fantasy!,生日快乐！
+user_36,レビュー書き込みで報酬を獲得できます。,Write a review and get some loot.,评分可获得奖励。
+user_37,アプリケーションに新しいバージョンがあります。,There is an newer version of this app.,APP有新版本。
+user_38,会員登録をするとニックネームを変更できます。,Register with Mobage to change your nickname.,登录梦宝谷会员后可变更昵称。
+user_39,お誕生日おめでとうございます！,Happy Birthday from Granblue Fantasy!,生日快乐！
 user_4,プレゼント,Crate,礼物
-user_40,<span class='txt-birthday'>%s1%s2日は%s3さんの誕生日です！</span>マイページやルリアノートで、<br>特定のキャラクターからあなたの誕生日の<br>お祝いメッセージを聞くことができます。,<span class='txt-birthday'>%s1 %s2 is %s3's birthday!</span>Certain characters will have a special birthday message for you on the Home screen and in your Journal.,
-user_41,読み込みエラー:e001\nお手数ですが、ページを再読み込みしてください。,Loading error :e001\nPlease tap the Reload button.,
-user_42,発動中の騎空団サポート,Active Crew Skills,
-user_43,初回限定で10連ガチャが<br>無料で引けます！,Welcome to Granblue Fantasy! Here's a free 10-part draw!,
-user_44,初回限定ガチャ,Welcome Draw,
-user_45,第2章「操舵士の決意」をクリアすることで<br />ラカムが仲間に加わります。<br />クエストを進行しますか？,Clear Chapter 2: A Helmsman's Resolve.<br />Rackam will join your party then.<br />Play this quest?,
-user_46,クエストを進めよう！,Play the Quest!,
-user_47,カジノ艇,Casino Liner,
-user_48,パソコンからのご利用について,Play on a Computer,
-user_49,Twitterに投稿することでAP・BPが回復します。,Post to Twitter to recover AP and EP.,
-user_5,新着情報,News,
-user_50,Twitter投稿,Post to Twitter,
-user_51,Twitter連携,Link Twitter Account,
-user_52,Twitterに投稿しました。,The tweet was posted to Twitter.,
-user_53,Twitter投稿により<br>AP・BPが回復しました。,Your AP and EP have recovered.,
-user_54,送信完了,Post to Twitter,
-user_55,Twitterに投稿することでAP・BPが回復します。,Post to Twitter to recover AP and EP.,
-user_56,認証完了,Link Twitter Account,
-user_57,Twitterとの連携を認証しました。,Your Granblue Fantasy account and Twitter account are now linked.,
-user_58,次のページへは移動できません,Inaccessible Screen,
-user_59,PC版からの移動が制限されているページの為<br>このボタンからのページ移動はできません。,The button you tapped leads to a screen that can't be accessed from a computer.,
+user_40,<span class='txt-birthday'>%s1%s2日は%s3さんの誕生日です！</span>マイページやルリアノートで、<br>特定のキャラクターからあなたの誕生日の<br>お祝いメッセージを聞くことができます。,<span class='txt-birthday'>%s1 %s2 is %s3's birthday!</span>Certain characters will have a special birthday message for you on the Home screen and in your Journal.,<span class='txt-birthday'>%s1%s2日是你的生日！</span>在主页和露丽亚日记中可以听到大家对你的生日祝福。
+user_41,読み込みエラー:e001\nお手数ですが、ページを再読み込みしてください。,Loading error :e001\nPlease tap the Reload button.,读取失败：e001\n请刷新页面。
+user_42,発動中の騎空団サポート,Active Crew Skills,发动中的骑空团支援效果
+user_43,初回限定で10連ガチャが<br>無料で引けます！,Welcome to Granblue Fantasy! Here's a free 10-part draw!,可以免费抽取初回限定10连扭蛋！
+user_44,初回限定ガチャ,Welcome Draw,初回限定卡池
+user_45,第2章「操舵士の決意」をクリアすることで<br />ラカムが仲間に加わります。<br />クエストを進行しますか？,Clear Chapter 2: A Helmsman's Resolve.<br />Rackam will join your party then.<br />Play this quest?,完成第2章「操舵士の決意」章节后，拉卡姆将成为新伙伴。<br>是否进行此任务？
+user_46,クエストを進めよう！,Play the Quest!,进行任务吧！
+user_47,カジノ艇,Casino Liner,移动赌场
+user_48,パソコンからのご利用について,Play on a Computer,关于电脑端的使用
+user_49,Twitterに投稿することでAP・BPが回復します。,Post to Twitter to recover AP and EP.,分享至推特可回复AP与BP。
+user_5,新着情報,News,最新咨询
+user_50,Twitter投稿,Post to Twitter,分享至推特
+user_51,Twitter連携,Link Twitter Account,绑定Twitter
+user_52,Twitterに投稿しました。,The tweet was posted to Twitter.,已分享至Twitter
+user_53,Twitter投稿により<br>AP・BPが回復しました。,Your AP and EP have recovered.,AP·BP已回复。
+user_54,送信完了,Post to Twitter,已分享
+user_55,Twitterに投稿することでAP・BPが回復します。,Post to Twitter to recover AP and EP.,分享至推特可回复AP与BP。
+user_56,認証完了,Link Twitter Account,绑定成功。
+user_57,Twitterとの連携を認証しました。,Your Granblue Fantasy account and Twitter account are now linked.,您已绑定推特账号。
+user_58,次のページへは移動できません,Inaccessible Screen,无法前往下一页
+user_59,PC版からの移動が制限されているページの為<br>このボタンからのページ移動はできません。,The button you tapped leads to a screen that can't be accessed from a computer.,PC版无法查看此页，点击该按钮无法前往下一页。
 user_6,48時間限定！<br>超得！！スタートダッシュガチャセットが購入できます！,48 hours only!<br>Deeply discounted Beginner's draw set!,
 user_60,投稿によるAP・BPの回復は、1日1回までとなります。<br>回数制限は毎朝AM5:00にリセットされます。,You can post to Twitter to restore AP and EP<br>once daily from 5 a.m. (JST).,
 user_61,AP・BPはMAXですが投稿しますか？,Your AP and EP are full. Tweet anyway?,
