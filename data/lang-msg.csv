@@ -531,6 +531,8 @@ coopraid_pop_treasureraid_3,マルチバトル撤退,Raid Battle,从多人战斗
 coopraid_pop_treasureraid_4,マルチバトルから撤退しました。,You retreated from the raid battle.,已从多人战斗中撤退。
 coopraid_search_room_1,絞り込んで表示する,Filter Room Posts,筛选
 coupon_mcdonalds_title,キャンペーンについて,キャンペーンについて,关于活动
+daily_mission_1,デイリーミッション,,
+daily_mission_2,"下記日時にデイリーミッションの<br>追加を予定しております。<br><br><span class=""txt-orange"">%s</span>",,
 datail_pushed_npc_1,推しキャラ設定,Star Character Settings,设定推荐人物
 datail_pushed_npc_2,推しキャラ入れ替え,Change,更换推荐人物
 datail_pushed_npc_3,推しキャラ設定の解除・入れ替えが<br>現在制限されています。<br>%sまで<br>解除・入れ替えをすることができません。,You can't star or unstar characters until %s.,您在%s前无法解除·更换推荐人物。
@@ -804,6 +806,16 @@ friend_6,フレンド数 %s/%s 人,Friends: %s/%s,好友人数 %s/%s 人
 friend_7,申請人数 %s人,Requested: %s,申请人数 %s人
 friend_8,フレンド一覧,Friend List,好友列表
 friend_9,挨拶する,Message,留言
+friend_summon_attr1,火属性固定召喚石,,
+friend_summon_attr2,水属性固定召喚石,,
+friend_summon_attr3,土属性固定召喚石,,
+friend_summon_attr4,風属性固定召喚石,,
+friend_summon_attr5,光属性固定召喚石,,
+friend_summon_attr6,闇属性固定召喚石,,
+friend_summon_attr7,フリー固定召喚石,,
+friend_summon_detail,サポーター専用召喚石詳細,,
+friend_summon_list,サポーター専用召喚石一覧,,
+friend_summon_private,サポーター召喚石が非公開設定です,,
 gachaSetting_1,便利設定,,快捷设定
 gachaSetting_2,自動売却条件設定,,自动出售设定
 gacha_1,ガチャ結果,Draw,扭蛋结果
@@ -868,6 +880,12 @@ gacha_62,(W)スターレジェンド10連ガチャ,Star Premium 10-Part Draw,必
 gacha_7,宝晶石が足りません<br>所持宝晶石：%s,You don't have enough crystals.<br>Crystals held: %s,您的宝晶石不足<br>所持宝晶石：%s
 gacha_8,チケットを利用します。<br>よろしいですか？,Use a ticket?,是否使用扭蛋券？
 gacha_9,チケットガチャ,Ticket Draw,扭蛋券卡池
+gacha_appear_10draw_1,%s10連ガチャ,,
+gacha_appear_10draw_2,%s10連ガチャ,,
+gacha_appear_draw,%s属性SSレア確定ガチャ,,
+gacha_appear_list,%sガチャ出現一覧,,
+gacha_appear_normal_legend,レジェンドガチャ,,
+gacha_appear_ratio,%sガチャ提供割合（出現率）,,
 gacha_apper_1,初心者限定ガチャ提供割合（出現率）,Beginner's Draw Draw Rates,新手限定卡池提供概率
 gacha_apper_2,初心者限定ガチャ出現一覧,All Included Items,新手限定卡池提供装备一览
 gacha_ceiling_1,装備品獲得,Trade Sparks,获得新装备
@@ -875,6 +893,7 @@ gacha_ceiling_2,装備品獲得の確認,Choose Item,确认获得新装备
 gacha_ceiling_3,装備品がプレゼントに送られました。,This was sent to the Crate screen.,装备已送往您的礼物列表
 gacha_ceiling_4,'獲得エラー,Error,获取失败
 gacha_ceiling_5,'獲得できませんでした。,You can't get any items,获取失败
+gacha_confirm_select_title,購入確認,,
 gacha_index_1,ヘルプ,Help,帮助
 gacha_index_2,ご利用の前に,Cerulean Sparks,使用须知
 gacha_index_3,レジェンドガチャが更新されました,Updated Premium Draw,高级卡池已更新
@@ -892,6 +911,35 @@ gacha_normal_5,ガチャを引くことができません。<br>恐れいりま�
 gacha_normal_6,通信処理中,Communicating,连接中
 gacha_normal_7,通信処理を行っています。<br>アイテムは、処理が完了すると<br>プレゼントリストへ贈られます。<br>少し待ってから、プレゼントリストを<br>確認してください。," your loot will appear on the Crate screen. Please wait",正在连接。系统将在处理成功后将该道具发往您的礼物列表。请稍后收取。
 gacha_result_1,,Help,帮助
+gacha_typeup_legendgacha_1,%s属性出現UPガチャ,,
+gacha_typeup_legendgacha_2,%s属性出現UPガチャ,,
+gacha_typeup_legendgacha_list,%s属性出現UPガチャ出現一覧,,
+game_1,トップページ,,
+game_10,AP・BPはMAXですが投稿しますか？,,
+game_11,Twitter投稿,,
+game_12,Twitter連携,,
+game_13,Twitterに投稿しました。,,
+game_14,Twitter投稿により<br>AP・BPが回復しました。,,
+game_15,送信完了,,
+game_16,認証完了,,
+game_17,Twitterとの連携を認証しました。,,
+game_18,次のページへは移動できません,,
+game_19,PC版からの移動が制限されているページの為<br>このボタンからのページ移動はできません。,,
+game_2,設定の変更,,
+game_20,Error Code: %s<br>%s,,
+game_3,アカウント制裁措置の実施について,,
+game_4,アカウント制裁措置の実施についての説明,,
+game_5,アプリ版キャッシュ設定,,
+game_6,キャッシュクリアを行いました。,,
+game_7,パソコンからのご利用について,,
+game_8,Twitterに投稿することでAP・BPが回復します。,,
+game_9,投稿によるAP・BPの回復は、1日1回までとなります。<br>回数制限は毎朝AM5:00にリセットされます。,,
+game_pop_1,一部コンテンツについて,,
+game_pop_2,Game Logout,,
+game_pop_3,現在のゲームログイン状態を解除します。<br>チュートリアル進行中の場合は、進行状況がリセットされます。<br>プラットフォームのログイン状態は保持されます。<br><br>よろしいですか？,,
+game_pop_ca_expired,ChromeApps版について,,
+game_pop_ca_expired_btn_1,AndApp版,,
+game_pop_ca_expired_btn_2,PCブラウザ版,,
 get_score_1,ポイント獲得,Points Gained,获得点数
 get_score_2,獲得ポイント,Points Gained,获得点数
 get_suppression_1,制圧力獲得,Might marks earned,获得制压力
@@ -1270,6 +1318,7 @@ new_pose_1,新規POSE追加,New Pose Unlocked,解锁新姿态
 notice_sidestory_campaign_1,サイドストーリーキャンペーン開催！<br>サイドストーリーを遊んで<br>仲間キャラとSSレア武器をGET！,Side Story Campaign!<br>Play the side stories to recruit characters<br>and get SSR weapons!,番外故事活动开始！<br>阅读番外故事，获得新同伴与SSR武器！
 notice_sidestory_unlock_title,キャンペーンについて,Side Story Campaign,活动详情
 open_fate_1,エピソード解放,Episode Unlocked,人物剧情解放
+over_monthly_payment_limit_title,購入金額通知,,
 party_1,編成,Party,编成
 party_10,ジョブ一覧に戻る,Classes,返回职业一览
 party_101,メイン武器に『%s』を<br>装備しているため、<br>スキン変更はできません。,Outfit can't be changed while %s<br>is equipped as your main weapon.,您将『%s』设为了主手武器，无法变更皮肤。
@@ -1290,7 +1339,7 @@ party_117,Class,EM Lvl,
 party_118,セットできるベースアビリティは<br>2つまでです,You can only set up to 2 base skills,您只能设定两种基础技能。
 party_12,セット中のEXアビリティと同じ<br>アビリティが存在する為、<br>セット中のEXアビリティは解除されました。,The subskill has been removed<br>because it's already a skill<br>for this class.,现有技能中已存在该技能，故当前EX技能已解除。
 party_13,スキン変更解禁,Outfits,解锁皮肤变更
-party_14,%sのジョブスキンが<br>変更できるようになりました！<br><br>ジョブの見た目を変更できます。,You can now change into the %s outfit.<br><br>You can change your class outfit., 您可以变更%s的职业皮肤了！您可以改变职业外观。
+party_14,%sのジョブスキンが<br>変更できるようになりました！<br><br>ジョブの見た目を変更できます。,You can now change into the %s outfit.<br><br>You can change your class outfit.," 您可以变更%s的职业皮肤了！您可以改变职业外观。"
 party_15,スキン変更,Outfits,变更皮肤
 party_16,%s1の見た目を<br><br><span class='txt-color-orange'>%s2</span><br><br>に変更しました。,You changed into the %s2 outfit.,%s的外观已变更为<span class='txt-color-orange'>%s2</span>。
 party_18,EXアビリティ,Subskill,SX技能
@@ -1752,11 +1801,19 @@ quest_extra_2,チャレンジクエスト,Challenge Quest,挑战任务
 quest_limitation_job_1,以下の条件を満たしていないため、<br>このクエストを開始することができません。,,未满足以下开始条件，无法开始任务。
 quest_limitation_summon_1,以下の召喚石がパーティに<br>編成されているため、このクエストを<br>開始することが出来ません。,The following summons can't<br>be used on this quest.<br>Edit your party and try again.,以下召唤石在编成中，无法参加任务。请整理编成后重试。
 quest_limitation_summon_2,&lt;禁止条件&gt;,Remove these summons from your party:,
+quest_list_sub_1,%sへの挑戦,,
+quest_list_sub_2,"以下のクエスト開始条件を<br>満たしていないため、このクエストを<br>開始することが出来ません。<br><br><div class=ng""><開始条件>""",,
+quest_list_sub_3,バトルのないクエストのため、<br>イベントスキップ設定をONにしている状態で<br>クエストを開始することが出来ません。<br><br>イベントスキップ設定をOFFにすることで<br>クエストを開始することが出来ます。,,
+quest_list_sub_6,アサルトタイムについて,,
+quest_list_sub_7,イベントクエスト解放,,
+quest_list_sub_8,マルチバトル解放,,
+quest_list_sub_9,信頼度エピソード,,
 quest_lobby_pop_1,クエストを開始できません,Quest,无法开始任务
 quest_no_skill,このクエストでは、装備中の武器のスキル、召喚石の加護効果が適用されない特殊制限バトルになります。,Weapon skills and summon auras don't take effect in this quest.,该任务中，装备武器技能以及召唤石加护效果无效。
 quest_numbers_fate_1,このクエストでは、装備中の武器のスキル、召喚石の加護効果、騎空団サポートが適用されない特殊制限バトルになります。,"Weapon skills, summon auras, and crew skills don't take effect in this quest.",该任务中，装备武器技能、召唤石加护效果、骑空团支援效果无效。
 quest_solo_multi_pop_1,イベントマルチバトル,Event Raid Battles,活动多人战斗
 quest_start_numbers_name_1,メイン武器に「%s」を装備,Equip %s as your main weapon to start this quest.,装备主手武器「%s」
+quest_sub_1,イベントクエスト,,
 quest_supporter_1,,,
 quest_supporter_2,火,fire,
 quest_supporter_3,水,water,
@@ -2037,6 +2094,8 @@ sell_stash_filter_6,%sを倉庫に移動,Stash %s,转移%s至仓库
 sell_stash_filter_7,武器,weapons,武器
 sell_stash_filter_8,召喚石,summons,召唤石
 sell_stash_filter_9,売却,Sell,出售
+set_poses_1,推しキャラTwitter投稿画像,,
+set_poses_2,推しキャラTwitter投稿で使用する<br>POSEを設定できます。,,
 setting_1,設定,Game Settings,设定
 setting_10,絵柄入れ替え,Replace,表情替换
 setting_11,%s番目と%s番目のスタンプの<br>表示順を入れ替えます。,You will replace sticker %s<br>with sticker %s.,调换%s号表情与%s号表情的位置。
@@ -2173,6 +2232,7 @@ sidestory_navi_2,討伐章,,讨伐张
 sidestory_navi_3,戦貨,,战货
 sidestory_navi_4,貢献度,,贡献度
 sidestory_navi_5,台詞集,,台词集
+sidestory_navi_6,次回予告！,,
 sidestory_quest_1,クエスト,,任务
 sidestory_quest_2,クエスト解放,,任务解放
 sidestory_quest_3,謎解きクエスト,,解谜任务
@@ -2205,6 +2265,12 @@ sidestory_top_6,人,,
 sidestory_top_7,交換エラー,,兑换错误
 sidestory_top_8,交換できませんでした。,,兑换失败
 sidestory_top_9,交換完了,,兑换成功
+solotreasure_navi_1,バトル前,,
+solotreasure_navi_2,討伐章,,
+solotreasure_navi_3,戦貨,,
+solotreasure_navi_4,貢献度,,
+solotreasure_top_20,台詞集解放,,
+solotreasure_top_21,台詞集,,
 sort_filter_1,未選択,Select Filter,未选择
 sort_filter_10,スキルレベル,Skill Lvl,技能等级
 sort_filter_100,キャラの属性:火/水〜,CHRCTR Element Group A,人物属性:火/水〜
@@ -2320,6 +2386,8 @@ sort_filter_99,キャラの最大HP:低い順,CHRCTR Max HP (Lowest),人物最�
 start_recast_1,使用可能: %sターン後,Ready in %s turn,%s回合后可使用
 start_recast_2,使用可能,Ready,可使用
 start_recast_3,使用済み,Already used,已使用
+staticpage_1,課金アイテム確認,,
+staticpage_2,ストーリーTOPに戻る,,
 summon_lyria_1,ルリアが召喚不可状態<br>のため召喚できません。,You aren't able to use summons now.,露丽亚当前无法发动召唤。
 summon_lyria_2,ルリアが倒れたため召喚できません。,Lyria has been knocked out. You can't use summons.,露丽亚已倒下，无法召唤
 survival_mode_1,サバイバルモード,SURVIVAL MODE,生存模式
@@ -2343,6 +2411,20 @@ title_6,称号確認,Display Trophy,称号确认
 title_7,称号設定完了,Display a Trophy,称号设定成功
 title_8,称号を設定しました。,You displayed a trophy.,称号设定成功
 title_9,称号報酬,Trophy Rewards,称号报酬
+top_10,台詞集,,
+top_11,"イベントTOPにて<br>「台詞集」が解放されました。<br><br><span class=""txt-orange"">台詞集では、イベントTOPで表示されている<br>キャラクター、台詞、音声を楽しむことができます。</span>",,
+top_12,ストーリーを全てクリアすると<br>確認できるようになります。<br>,,
+top_4,時限クエスト出現,,
+top_5,クエスト解放,,
+top_6,エクストラストーリー解放,,
+top_7,獲得キャラクター,,
+top_8,アシストボーナス,,
+top_9,"アシストボーナスで<br>イベントを有利に進めよう！<br><br>イベントのマルチバトルでは、<br>現在のRankに応じて攻撃力・最大HPに<br>以下のボーナスがつきます。<div class=""txt-effetct""><div>攻撃力・最大HP %s%UP (Rank%sまで)</div></div>",,
+trialbattle_1,トライアルバトル,,
+trialbattle_2,獲得キャラクター,,
+trialbattle_3,確認,,
+trialbattle_npc_1,キャラ紹介,,
+unclear_multi_comment_1,<div class='txt-unclear-comment'>マルチバトルをクリアすると物語は結末へ……！</div>,,
 user_1,新着情報,News,最新咨询
 user_10,騎空団サポート,Crew Skills,骑空团支援效果
 user_11,称号獲得,Trophy Achieved,获得新称号
