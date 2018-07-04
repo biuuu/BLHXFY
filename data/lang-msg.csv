@@ -1675,17 +1675,17 @@ quest_119,必要なRankに達していないため<br>参戦出来ません。,Y
 quest_12,&lt;禁止条件&gt;,&lt;Quest&gt;,
 quest_120,未確認バトル,Pending Battles,未确认战斗
 quest_121,バトル履歴,Battle Log,战斗履历
-quest_124,剣,,
-quest_125,短剣,,
-quest_126,槍,,
-quest_127,斧,,
-quest_128,杖,,
-quest_129,銃,,
+quest_124,剣,,剑
+quest_125,短剣,,短剑
+quest_126,槍,,枪
+quest_127,斧,,斧
+quest_128,杖,,杖
+quest_129,銃,,铳
 quest_13,以下の属性キャラがパーティに<br>編成されているため、このクエストを<br>開始することが出来ません。,The following elements can't<br>be used on this quest. Edit<br>your party and try again.,这个任务不能使用以下属性的角色。请编辑队伍后再试。
-quest_130,格闘,,
-quest_131,弓,,
-quest_132,楽器,,
-quest_133,刀,,
+quest_130,格闘,,格斗
+quest_131,弓,,弓
+quest_132,楽器,,乐器
+quest_133,刀,,刀
 quest_134,セットを所持していません,Save Party,无预设
 quest_135,CAUTION!,Quest,
 quest_136,1度参戦したのでこれ以上は<br>参戦することができません。,,您已进行过该任务，无法再次进行。
@@ -2322,9 +2322,9 @@ sort_filter_40,最近入手した順,Got (Recent),最近获得
 sort_filter_41,昔に入手,Got (Not Recent),过去获得
 sort_filter_42,昔に入手した順,Got (Not Recent),过去获得
 sort_filter_43,武器種順:Ｂ,Weapon Group B,武器顺序：B
-sort_filter_44,刀/楽器/弓/格闘/銃〜,"Katana, Harp, Bow, Gun, etc.",
+sort_filter_44,刀/楽器/弓/格闘/銃〜,"Katana, Harp, Bow, Gun, etc.",刀/乐器/弓/格斗/铳〜
 sort_filter_45,武器種順:Ａ,Weapon Group A,武器顺序：A
-sort_filter_46,剣/短剣/槍/斧/杖〜,"Sabre, Dagger, Spear, Axe, Staff, etc.",
+sort_filter_46,剣/短剣/槍/斧/杖〜,"Sabre, Dagger, Spear, Axe, Staff, etc.",剑/短剑/枪/斧/杖〜
 sort_filter_47,属性順:Ｂ,Element Group B,属性顺序：B
 sort_filter_48,闇/光/風/土/水/火,"Dark, Light, Wind, Earth, Water, Fire",暗/光/风/土/水/火
 sort_filter_49,属性順:Ａ,Element Group A,属性顺序：A
@@ -2469,7 +2469,7 @@ user_46,クエストを進めよう！,Play the Quest!,进行任务吧！
 user_47,カジノ艇,Casino Liner,移动赌场
 user_48,パソコンからのご利用について,Play on a Computer,关于电脑端的使用
 user_49,Twitterに投稿することでAP・BPが回復します。,Post to Twitter to recover AP and EP.,分享至推特可回复AP与BP。
-user_5,新着情報,News,最新咨询
+user_5,新着情報,News,最新资讯
 user_50,Twitter投稿,Post to Twitter,分享至推特
 user_51,Twitter連携,Link Twitter Account,绑定Twitter
 user_52,Twitterに投稿しました。,The tweet was posted to Twitter.,已分享至Twitter
