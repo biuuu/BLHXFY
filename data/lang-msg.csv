@@ -1792,7 +1792,7 @@ quest_adventure_1,スキップ確認,Skip Side-Scrolling Scene,跳过
 quest_adventure_2,アドベンチャーパートをスキップしますか？<br><span class='color-yellow'>スキップしてもアイテムは入手できます。</span>,You are about to skip this side-scrolling scene.<br><span class='color-yellow'>You can still receive items you might pick up.</span>,确认跳过冒险环节吗？<br><span class='color-yellow'>依旧能够获得道具。</span>
 quest_adventure_3,アイテム入手,Items Picked Up,获得道具
 quest_airspace_guide_1,空域間の移動,Travel Skydoms,切换空域
-quest_assist_pop_1,救援依頼表示設定,Battle Filter,筛选救援委托
+quest_assist_pop_1,救援依頼表示設定,Battle Filter,筛选救援请求
 quest_assist_pop_2,イベント「%s」を表示します<br><br>※非表示に戻すことは出来ません,You're about to unhide requests from the %s event.<br><br>This can't be undone.,显示活动「%s」的任务。br><br>※该操作无法撤销。
 quest_do_1,防衛指令確認,Your Defense Order,
 quest_do_2,CAUTION!,Defense Order,
@@ -1838,8 +1838,8 @@ raid_12,読み込み中,Loading...,读取中……
 raid_13,アイテムを使用,Use Item,使用道具
 raid_14,使用できるメンバーがいません。,This can't be used on any members.,没有可以使用该道具的成员
 raid_15,バトルメニュー,Battle Menu,战斗菜单
-raid_16,救援依頼,Request Backup,救援委托
-raid_17,救援依頼を送りました。,You requested backup.,救援委托已发送
+raid_16,救援依頼,Request Backup,救援请求
+raid_17,救援依頼を送りました。,You requested backup.,救援请求已发送
 raid_18,マイページに戻る,Home,返回主页
 raid_19,イベントTOPに戻る,Event,返回活动主页
 raid_2,アイテム選択,Select Items,选择道具
@@ -1872,7 +1872,7 @@ raid_43,メイン召喚でないため加護は発動しません,This isn't you
 raid_44,召喚不可,Summon,无法召唤
 raid_45,主人公が倒れたため召喚できません。,You have been knocked out. You can't use summons.,主人公已倒下，无法召唤
 raid_46,注意事項,Notes,注意事项
-raid_47,これ以上救援依頼を出せません。,You can't request any more backup.,无法再发送救援委托。
+raid_47,これ以上救援依頼を出せません。,You can't request any more backup.,无法再发送救援请求。
 raid_48,スタンプ,Stickers,表情
 raid_49,チャット,Chat,聊天
 raid_50,マルチバトルログ,Raid Log,历史攻击
