@@ -48,3 +48,53 @@
 .txt-global-world::after {
   content: '世界'
 }
+
+/* buttons */
+body .btn-usual-close::after {
+  content: "关闭";
+}
+body .btn-usual-cancel::after {
+  content: "取消";
+}
+body .prt-buttons .btn-remove.party-npc::after,
+body .prt-buttons-enhance .btn-remove.party-npc::after {
+  content: "移出队伍";
+}
+body .prt-buttons .btn-change.party-npc::after,
+body .prt-buttons-enhance .btn-change.party-npc::after {
+  content: "替换角色";
+}
+body #pop-deck .prt-register .btn-usual-register::after {
+  content: "复制到这个队伍";
+}
+body .btn-control[data-buton-name="イベントTOPへ"]::after {
+  content: "回到活动";
+}
+body .btn-retry[data-buton-name="もう一度挑戦"]::after {
+  content: "再次挑战";
+}
+body .btn-control[data-buton-name="クエストリストへ"]::after {
+  content: "回到任务列表";
+}
+#pop-deck .prt-select .btn-deck-cancel,
+.prt-zenith-button .btn-zenith,
+.prt-set-poses .btn-set-poses,
+.prt-enhance-button .btn-enhance {
+  font-size: 0 !important;
+}
+.prt-enhance-button .btn-enhance::after {
+  content: "强化";
+  font-size: 12px;
+}
+.prt-set-poses .btn-set-poses::after {
+  content: "皮肤 · POSE 切换设置";
+  font-size: 12px;
+}
+.prt-zenith-button .btn-zenith::after {
+  content: "能力强化";
+  font-size: 12px;
+}
+#pop-deck .prt-select .btn-deck-cancel::after {
+  content: "取消";
+  font-size: 12px;
+}
