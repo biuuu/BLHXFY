@@ -76,6 +76,8 @@ body .btn-retry[data-buton-name="もう一度挑戦"]::after {
 body .btn-control[data-buton-name="クエストリストへ"]::after {
   content: "回到任务列表";
 }
+
+.prt-job-button .btn-job-change,
 #pop-deck .prt-select .btn-deck-cancel,
 .prt-zenith-button .btn-zenith,
 .prt-set-poses .btn-set-poses,
@@ -96,5 +98,9 @@ body .btn-control[data-buton-name="クエストリストへ"]::after {
 }
 #pop-deck .prt-select .btn-deck-cancel::after {
   content: "取消";
+  font-size: 12px;
+}
+.prt-job-button .btn-job-change::after {
+  content: "职业详情";
   font-size: 12px;
 }
