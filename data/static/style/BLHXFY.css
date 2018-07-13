@@ -76,7 +76,68 @@ body .btn-retry[data-buton-name="もう一度挑戦"]::after {
 body .btn-control[data-buton-name="クエストリストへ"]::after {
   content: "回到任务列表";
 }
+body .btn-usual-dismiss::after {
+  content: "解散队伍";
+}
+body .cnt-index .btn-usual-asset::after {
+  content: "编队设置";
+}
+body .cnt-material-bottombox .btn-add::after {
+  content: "素材选择";
+}
+body .cnt-material-bottombox .btn-synthesis::after {
+  content: "开始强化";
+}
+body .prt-retraction-button .prt-retraction-quest .btn-retraction-quest::after {
+  content: "更换任务";
+}
+body .pop-synopsis .btn-usual-ok::after {
+  content: '跳过';
+}
+body .pop-get-skypiece .btn-usual-ok::after {
+  content: '露莉亚日记';
+}
+body .pop-get-skypiece .btn-usual-cancel::after {
+  content: '关闭';
+}
+body .prt-material-button .btn-usual-material::after {
+  content: "制作页面";
+}
 
+.btn-usual-text[data-href="quest/assist/unclaimed"],
+#tab-multi, #tab-event, #tab-id,
+.btn-sell[data-item-id],
+.btn-decompose[data-href^="decompose/"],
+.btn-sell[data-location-href^="sell/"],
+.prt-move-container .btn-container,
+#tab-npc, #tab-weapon, #tab-summon, #tab-skin,
+.prt-error-infomation .btn-mypage,
+.btn-set-lock, .btn-set-filter,
+.btn-evolution[data-location-href^="evolution/"],
+.prt-condition .btn-quest,
+#main_story_tab, #event_story_tab, #coop_story_tab,
+.cnt-archive-top .btn-story,
+.cnt-archive-top .btn-archive-list,
+.cnt-archive-top .btn-library,
+.btn-title[data-href="title/add/advent/"],
+.btn-gacha-attention,
+.btn-usual-appearance[data-href^="gacha/appear/legend/"],
+.prt-gacha-topic .btn-release-list,
+.btn-character[data-location-href^="gacha"] .prt-character-small,
+#tab-legend, #tab-lupi,
+#member-list-tabs, #chat-list-tabs, #item-list-tabs,
+.prt-order-button .btn-order-sell,
+.prt-order-button .btn-order-container,
+.cnt-present .btn-tabs,
+.btn-get-all,
+.cnt-base-status .btn-base-chenge,
+.prt-recommend-buttons .btn-recommend,
+.prt-current-job .btn-job-change,
+.prt-current-job .btn-ability-list,
+.cnt-extra-lb .btn-select-augment-item,
+.btn-reset-bonus[data-location-href^="zenith/reset_bonus/"],
+.prt-symbolmark .btn-symbolmark-l,
+.prt-npc .btn-index-all-setting,
 .prt-job-button .btn-job-change,
 #pop-deck .prt-select .btn-deck-cancel,
 .prt-zenith-button .btn-zenith,
@@ -103,4 +164,218 @@ body .btn-control[data-buton-name="クエストリストへ"]::after {
 .prt-job-button .btn-job-change::after {
   content: "职业详情";
   font-size: 12px;
+}
+.prt-npc .btn-index-all-setting::after {
+  content: "自动编队";
+  font-size: 12px;
+}
+.prt-symbolmark .btn-symbolmark-l::after {
+  content: "修改队伍图标";
+  font-size: 12px;
+}
+.btn-reset-bonus[data-location-href^="zenith/reset_bonus/"]::after {
+  content: "能力重置";
+  font-size: 12px;
+}
+.cnt-extra-lb .btn-select-augment-item::after {
+  content: "EX Limit Bonus 解放";
+  font-size: 12px;
+}
+.prt-current-job .btn-job-change::after {
+  content: "更换职业";
+  font-size: 12px;
+}
+.prt-current-job .btn-ability-list::after {
+  content: "职业状态";
+  font-size: 12px;
+}
+.prt-recommend-buttons .btn-recommend::after {
+  content: "自动选择";
+  font-size: 12px;
+}
+.cnt-base-status .btn-base-chenge::after {
+  font-size: 12px;
+}
+.cnt-base-status .btn-base-chenge[data-location-href^="enhancement/npc/base/"]::after {
+  content: "更换角色";
+}
+.cnt-base-status .btn-base-chenge[data-location-href^="enhancement/weapon/base/"]::after {
+  content: "更换武器";
+}
+.cnt-base-status .btn-base-chenge[data-location-href^="enhancement/summon/base/"]::after {
+  content: "更换召唤石";
+}
+.cnt-base-status .btn-base-chenge[data-location-href^="evolution/npc/base/"]::after {
+  content: "更换角色";
+}
+.cnt-base-status .btn-base-chenge[data-location-href^="evolution/weapon/base/"]::after {
+  content: "更换武器";
+}
+.cnt-base-status .btn-base-chenge[data-location-href^="evolution/summon/base/"]::after {
+  content: "更换召唤石";
+}
+.btn-get-all::after {
+  content: "批量领取";
+  font-size: 12px;
+}
+.cnt-present .btn-tabs::after {
+  font-size: 14px;
+}
+.cnt-present .btn-tabs.infinite::before {
+  content: "无期限";
+  font-size: 14px;
+}
+.cnt-present .btn-tabs.termed::after {
+  content: "有期限";
+}
+.cnt-present .btn-tabs.history::after {
+  content: "领取记录";
+}
+.prt-order-button .btn-order-sell[data-category="summon"]::after {
+  content: "出售召唤石";
+  font-size: 12px;
+}
+.prt-order-button .btn-order-sell[data-category="weapon"]::after {
+  content: "出售武器";
+  font-size: 12px;
+}
+.prt-order-button .btn-order-container[data-category="summon"]::after {
+  content: "召唤石移到仓库";
+  font-size: 12px;
+}
+.prt-order-button .btn-order-container[data-category="weapon"]::after {
+  content: "武器移到仓库";
+  font-size: 12px;
+}
+#member-list-tabs::after {
+  content: "队友";
+  font-size: 14px;
+}
+#chat-list-tabs::after {
+  content: "聊天";
+  font-size: 14px;
+}
+#item-list-tabs::after {
+  content: "道具";
+  font-size: 14px;
+}
+#tab-legend::after {
+  content: "传说";
+  font-size: 14px;
+}
+#tab-lupi::after {
+  content: "金币/其他";
+  font-size: 14px;
+}
+.btn-character[data-location-href^="gacha"] .prt-character-small::after {
+  content: "角色详情";
+  font-size: 10px;
+}
+.prt-gacha-topic .btn-release-list::after {
+  content: "查看当前卡池角色列表";
+  font-size: 12px;
+}
+.btn-usual-appearance[data-href^="gacha/appear/legend/"]::after {
+  content: "出现概率";
+  font-size: 12px;
+}
+.btn-gacha-attention::after {
+  content: "抽卡帮助";
+  font-size: 12px;
+}
+.btn-title[data-href="title/add/advent/"]::after {
+  content: "活动称号";
+  font-size: 12px;
+}
+.cnt-archive-top .btn-story::after {
+  content: "故事";
+  font-size: 14px;
+}
+.cnt-archive-top .btn-archive-list::after {
+  content: "图鉴";
+  font-size: 14px;
+}
+.cnt-archive-top .btn-library::after {
+  content: "用语集";
+  font-size: 14px;
+}
+#main_story_tab::after {
+  font-size: 12px;
+  content: "主线剧情";
+}
+#event_story_tab::after {
+  font-size: 12px;
+  content: "活动";
+}
+#coop_story_tab::after {
+  font-size: 12px;
+  content: "其他";
+}
+.prt-condition .btn-quest::after {
+  font-size: 12px;
+  content: "开始任务";
+}
+.btn-evolution[data-location-href^="evolution/"]::after {
+  font-size: 12px;
+  content: "上限解放";
+}
+.btn-set-lock::after {
+  font-size: 12px;
+  content: "保护";
+}
+.btn-set-filter::after {
+  font-size: 12px;
+  content: "从自动编成的对象里排除";
+}
+.prt-error-infomation .btn-mypage::after {
+  font-size: 12px;
+  content: "主页";
+}
+#tab-npc::after {
+  font-size: 12px;
+  content: "角色";
+}
+#tab-weapon::after {
+  font-size: 12px;
+  content: "武器";
+}
+#tab-summon::after {
+  font-size: 12px;
+  content: "召唤石";
+}
+#tab-skin::after {
+  font-size: 12px;
+  content: "皮肤";
+}
+.prt-move-container .btn-container::after {
+  font-size: 12px;
+  content: "存入仓库";
+}
+.btn-sell[data-location-href^="sell/"]::after {
+  font-size: 12px;
+  content: "批量出售";
+}
+.btn-sell[data-item-id]::after {
+  font-size: 12px;
+  content: "出售";
+}
+.btn-decompose[data-href^="decompose/"]::after {
+  font-size: 12px;
+  content: "批量分解";
+}
+#tab-multi::after {
+  font-size: 14px;
+  content: "团队本";
+}
+#tab-event::after {
+  font-size: 14px;
+  content: "活动";
+}
+#tab-id::after {
+  font-size: 14px;
+  content: "输入ID";
+}
+.btn-usual-text[data-href="quest/assist/unclaimed"]::after {
+  font-size: 12px;
+  content: "未确认的战斗";
 }
