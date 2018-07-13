@@ -625,7 +625,7 @@ detail_61,編成する,Select,编成
 detail_62,倉庫,Stash,仓库
 detail_63,倉庫に戻る,Stash,返回仓库
 detail_64,%sに戻る,%s,返回%s
-detail_65,リストに戻す,Return to Inventory,返回列表
+detail_65,リストに戻す,Return to Inventory,从仓库取出
 detail_66,倉庫へ移動しました,Moved to storage.,已转移至仓库
 detail_67,リストへ移動しました,Moved to Inventory.,已转移至列表
 detail_68,武器移動,Move Weapon,转移武器
@@ -818,7 +818,7 @@ friend_summon_list,サポーター専用召喚石一覧,,
 friend_summon_private,サポーター召喚石が非公開設定です,,
 gachaSetting_1,便利設定,,快捷设定
 gachaSetting_2,自動売却条件設定,,自动出售设定
-gacha_1,ガチャ結果,Draw,扭蛋结果
+gacha_1,ガチャ結果,Draw,抽卡结果
 gacha_10,チケットが足りません,You don't have enough tickets.,扭蛋券不足
 gacha_11,レジェンドガチャ,Premium Draw,高级卡池
 gacha_12,ガチャを引くことができません。<br>恐れいりますが、再読み込みをしてから<br>もう一度お試しください。,The Premium draw is unavailable.<br>Please reload the screen and then<br>try again.,抽取失败。<br>请刷新后重试。
@@ -829,7 +829,7 @@ gacha_16,ボックスをリセットしました<br><br>%s,You refilled the box.
 gacha_17,このキャンペーンは終了しました。,This draw has ended.,活动已结束
 gacha_18,ガチャ出現キャラ一覧,All Included Characters,查看卡池中出现的所有人物
 gacha_19,出現装備一覧,All Included Content,查看卡池中出现的所有装备
-gacha_2,%s連ガチャセットを購入,Get Another %s-Part Draw,您已购买%s连扭蛋套餐
+gacha_2,%s連ガチャセットを購入,Get Another %s-Part Draw,您已购买%s连抽卡套餐
 gacha_20,プロフィールに戻る,Profile,返回个人资料
 gacha_21,武器紹介,Weapons,武器介绍
 gacha_22,出現装備一覧に戻る,All Weapons,返回出现装备查看页
@@ -837,7 +837,7 @@ gacha_23,注意事項・詳細,Notes,注意事项·详情
 gacha_24,フェイトエピソード紹介,Fate Episodes,人物剧情介绍
 gacha_25,提供割合,Draw Rates,出现概率
 gacha_26,更新確認,Reloading,确认更新
-gacha_27,5時を経過したためガチャTOPページへ遷移します。,Five hours have passed. The Draw screen will now appear.,已过去5小时，返回扭蛋首页。
+gacha_27,5時を経過したためガチャTOPページへ遷移します。,Five hours have passed. The Draw screen will now appear.,已过去5小时，返回抽卡首页。
 gacha_28,このキャンペーンは終了しました。,This draw has ended.,活动已结束
 gacha_29,エピソード解放,Episode Unlocked,人物剧情解放
 gacha_3,更新確認,Reloading,确认更新
@@ -851,15 +851,15 @@ gacha_36,キャラ紹介,Character Details,人物介绍
 gacha_37,キャンペーン,Exclusive Offer,
 gacha_38,購入確認,Trade,确认购买
 gacha_39,交換確認,Trade Treasure,确认兑换
-gacha_4,5時を経過したためガチャTOPページへ遷移します。,Five hours have passed. The Draw screen will now appear.,已过去5小时，返回扭蛋首页。
+gacha_4,5時を経過したためガチャTOPページへ遷移します。,Five hours have passed. The Draw screen will now appear.,已过去5小时，返回抽卡首页。
 gacha_40,1個入手しました。,You got 1.,您已获得1个。
 gacha_41,交換完了,Trade Treasure,兑换成功
 gacha_42,交換エラー,Trade Treasure,兑换错误
 gacha_43,交換できませんでした。,Technical issues are occurring. Treasure couldn't be traded.,兑换失败
-gacha_44,ガチャ,Draw,扭蛋
-gacha_45,※初回限定ガチャは通常のレジェンド10連ガチャとは提供割合、およびキャンペーン内容が異なります。,• The draw rates and details for the Welcome draw and Premium 10-part draw are different.,※初回限定扭蛋的出现概率以及内容与普通10连不同。
-gacha_46,5時を経過したため画面を更新します。,Five hours have passed. This screen will reload.,已过去5小时，返回扭蛋首页。
-gacha_47,初回限定で10連ガチャが<br>無料で引けます！,Welcome to Granblue Fantasy! Here's a free 10-part draw!,您可以免费抽取初回限定10连扭蛋！
+gacha_44,ガチャ,Draw,抽卡
+gacha_45,※初回限定ガチャは通常のレジェンド10連ガチャとは提供割合、およびキャンペーン内容が異なります。,• The draw rates and details for the Welcome draw and Premium 10-part draw are different.,※初回限定抽卡的出现概率以及内容与普通10连不同。
+gacha_46,5時を経過したため画面を更新します。,Five hours have passed. This screen will reload.,已过去5小时，返回抽卡首页。
+gacha_47,初回限定で10連ガチャが<br>無料で引けます！,Welcome to Granblue Fantasy! Here's a free 10-part draw!,您可以免费抽取初回限定10连抽卡！
 gacha_48,初回限定ガチャ,Welcome Draw,初回限定卡池
 gacha_49,宝晶石ガチャ,Crystal,宝晶石卡池
 gacha_5,使用確認,Draw,确认使用
@@ -903,7 +903,7 @@ gacha_index_6,蒼光の御印,cerulean spark,
 gacha_index_7,蒼光の輝石,cerulean stone,
 gacha_index_8,蒼光の御印,cerulean sparks,
 gacha_index_9,蒼光の輝石,cerulean stones,
-gacha_normal_1,ガチャ結果,Draw,扭蛋结果
+gacha_normal_1,ガチャ結果,Draw,抽卡结果
 gacha_normal_2,使用確認,Draw,确认使用
 gacha_normal_3,チケットを利用します。<br>よろしいですか？,Use a ticket?,是否使用扭蛋券
 gacha_normal_4,チケットガチャ,Ticket Draw,扭蛋券卡池
@@ -1368,26 +1368,26 @@ party_39,%sの見た目を<br>,Your %s's outfit<br>will change to,%s的外观已
 party_4,装備する,Select,装备
 party_40,現在設定しているスキンです。<br><br>変更したいスキンを選んでください。,This is your current outfit.<br><br>Select the outfit you want to wear.,这是当前的皮肤。<br><br>请选择您想要显示的皮肤。
 party_42,マイページ,Home,主页
-party_43,マイページで表示するPOSEを設定できます。,Select a Home screen pose,选择主页显示的姿势。
+party_43,マイページで表示するPOSEを設定できます。,Select a Home screen pose,选择主页显示的POSE。
 party_44,リスト,Inventory,列表
-party_45,リストで使用するPOSEを設定できます。,Select an Inventory pose,选择列表显示的姿势。
+party_45,リストで使用するPOSEを設定できます。,Select an Inventory pose,选择列表显示的POSE。
 party_46,編成・詳細,Party,编成·详情
-party_47,編成・詳細で使用する<br>POSEを設定できます。,Select a party pose,选择编成·详情页显示的姿势。
+party_47,編成・詳細で使用する<br>POSEを設定できます。,Select a party pose,选择编成·详情页显示的POSE。
 party_48,バトル,Battle,战斗
-party_49,バトル中のキャラクターアイコンで使用する<br>POSEを設定できます。,Select a battle pose,选择战斗中显示的姿势。
+party_49,バトル中のキャラクターアイコンで使用する<br>POSEを設定できます。,Select a battle pose,选择战斗中显示的POSE。
 party_5,武器装備,Select a Weapon,武器装备
 party_50,バトル中キャラクター,"Battle ",战斗
-party_51,バトル中のキャラクターアニメーションで使用するPOSEを設定できます。,Select a sprite pose,选择战斗正人物动画的姿势。
-party_52,選択したPOSEによって、バトルのアニメーションや一部エフェクトが変化します。一部特殊な演出のアビリティ使用時はPOSEが反映されない場合があります。,Battle animations and visual effects will change based on the sprite pose. The sprite pose might change briefly when certain skills with special animations are used.,不同的姿势有不同的战斗动画及效果。个别使用特殊动画的技能不会反应您选择的姿势。
+party_51,バトル中のキャラクターアニメーションで使用するPOSEを設定できます。,Select a sprite pose,选择战斗正人物动画的POSE。
+party_52,選択したPOSEによって、バトルのアニメーションや一部エフェクトが変化します。一部特殊な演出のアビリティ使用時はPOSEが反映されない場合があります。,Battle animations and visual effects will change based on the sprite pose. The sprite pose might change briefly when certain skills with special animations are used.,不同的POSE有不同的战斗动画及效果。个别使用特殊动画的技能不会反应您选择的POSE。
 party_53,奥義,Charge Attack,奥义
-party_54,奥義のカットインで使用する<br>POSEを設定できます。,Select a charge attack pose,选择发动奥义时显示的姿势。
+party_54,奥義のカットインで使用する<br>POSEを設定できます。,Select a charge attack pose,选择发动奥义时显示的POSE。
 party_55,チェインバースト,Chain Burst,奥义连锁
-party_56,チェインバーストで使用する<br>POSEを設定できます。,Select a chain burst pose,选择奥义连锁显示的姿势。
+party_56,チェインバーストで使用する<br>POSEを設定できます。,Select a chain burst pose,选择奥义连锁显示的POSE。
 party_57,キャラ詳細に戻る,Character Stats,返回人物详情
 party_58,設定しました。,Your changes have been saved.,设定成功
 party_59,変更できませんでした。<br>マイページに移動します。,Your changes couldn't be made.<br>The Home screen will appear.,设定失败。返回主页。
 party_6,ジョブ詳細,Classes,职业详情
-party_60,スキン・POSE切り替え,Change Outfits and Poses,变更皮肤·姿势
+party_60,スキン・POSE切り替え,Change Outfits and Poses,变更皮肤·POSE
 party_61,スキン切り替え,Change Outfit,变更皮肤
 party_62,スキンを選択してください,Select an outfit.,请选择皮肤
 party_63,なし,None,无
@@ -1442,15 +1442,15 @@ party_asset_8,セット上限に達しているため、<br>編成を登録で�
 party_asset_9,セットを所持していません,Save Party,无预设
 party_assumed_damage_1,予測ダメージ,Estimated DMG,预测伤害
 party_pop_get_limited_1,ジョブ取得,Unlock Class,获得职业
-party_set_pose_1,スキン・POSE切り替え設定,Outfit and Pose Settings,皮肤·姿势变更设定
+party_set_pose_1,スキン・POSE切り替え設定,Outfit and Pose Settings,皮肤 · POSE 切换设置
 party_set_pose_2,リスト,Inventory,列表
-party_set_pose_3,リストで使用するPOSEを設定できます。,Select an Inventory pose,选择列表显示的姿势。
+party_set_pose_3,リストで使用するPOSEを設定できます。,Select an Inventory pose,选择列表显示的POSE。
 party_set_pose_4,編成,Party,编成
-party_set_pose_5,編成で使用するPOSEを設定できます。,Select a Party pose,选择编成显示的姿势。
+party_set_pose_5,編成で使用するPOSEを設定できます。,Select a Party pose,选择编成显示的POSE。
 party_set_pose_6,キャラクター詳細,Character Details,人物详情
-party_set_pose_7,キャラクター詳細で使用するPOSEを設定できます。,Select a Character Details pose,选择人物详情页显示的姿势。
-party_set_pose_8,選択したPOSEによって、バトル中のボイスが変化する場合があります。「バトル中キャラクター」の設定によっては奥義などの演出とボイスが一致しない場合があります。,"The character's battle voice might change based on the battle pose. Other battle voices for this character, such as charge attack calls, might not match the battle pose if certain sprite poses have been set.",不同的姿势可能有不同的战斗语音。语音可能与「战斗」一栏所设定的奥义动画不匹配。
-party_set_pose_9,選択したPOSEによって、バトルリザルト画面でのリミットボーナスクラス上昇時の演出が連動して変化します。,The Extended Mastery animation for level increase that displays on the Battle Results screen will change based on the pose.,战斗结果页面的LB级别上升动画按照设定姿势显示。
+party_set_pose_7,キャラクター詳細で使用するPOSEを設定できます。,Select a Character Details pose,选择人物详情页显示的POSE。
+party_set_pose_8,選択したPOSEによって、バトル中のボイスが変化する場合があります。「バトル中キャラクター」の設定によっては奥義などの演出とボイスが一致しない場合があります。,"The character's battle voice might change based on the battle pose. Other battle voices for this character, such as charge attack calls, might not match the battle pose if certain sprite poses have been set.",不同的POSE可能有不同的战斗语音。语音可能与「战斗」一栏所设定的奥义动画不匹配。
+party_set_pose_9,選択したPOSEによって、バトルリザルト画面でのリミットボーナスクラス上昇時の演出が連動して変化します。,The Extended Mastery animation for level increase that displays on the Battle Results screen will change based on the pose.,战斗结果页面的LB级别上升动画按照设定POSE显示。
 pop_can_not_multi_battle_1,%s1をクリアすることで<br>%s2が仲間に加わります。<br>クエストを進行しますか？,Clear Chapter %s1<br>and %s2 will join your party.<br>Play this quest?,完成%s1章节后，%s2将成为新伙伴。<br>是否进行此任务？
 pop_common_auto_setting_1,自動売却・騎空艇の自動強化設定,Auto-Sell and Auto-Upgrade Settings,自动出售·骑空艇自动强化设定
 pop_common_auto_setting_2,条件設定,Settings,条件设定
@@ -1484,14 +1484,14 @@ present_19,編成,Party,编成
 present_2,%s個,%s,%s个
 present_20,リスト,Inventory,列表
 present_21,アイテム,Items,道具
-present_22,ガチャ,Draw,扭蛋
+present_22,ガチャ,Draw,抽卡
 present_23,碧空の結晶,Blue Sky Crystal,碧空的结晶
 present_24,ショップ,Shop,商店
 present_25,ブックメーカー,Bookmaker,作家
 present_26,うねる影塊,Meandering Shadow,扭曲的黑影
 present_27,イベントTOP,Event Home,活动主页
 present_28,ショップ,Shop,商店
-present_29,ラッキーガチャ,Lucky Draw,幸运扭蛋
+present_29,ラッキーガチャ,Lucky Draw,幸运抽卡
 present_3,現在の所持武器数,Current Weapons Held,当前武器总数
 present_30,上限解放,Level Cap,
 present_31,交換する,Trade,兑换
@@ -2438,7 +2438,7 @@ user_18,天星器交換チケットを使用できます。,Revenant weapon exch
 user_19,超得！！スタートダッシュガチャセットが<br />購入できます。,Deeply discounted Beginner's draw set on sale!,新手超得！！现在可以购买新手特别扭蛋券！
 user_2,編成することができなくなりました,This can't be equipped anymore.,该装备无法再编入编成
 user_20,サプライズ！！スペシャルガチャセットが<br />購入できます。,Surprise Special draw set on sale!,大惊喜！！现在可以购买特别扭蛋券！
-user_21,無料ガチャが引けます。,Draw once for free!,可以进行免费扭蛋。
+user_21,無料ガチャが引けます。,Draw once for free!,可以进行免费抽卡。
 user_22,フェイトエピソードがあります！,You have new fate episodes!,有未通关的人物剧情！
 user_23,フレンド申請が来ています。,You have a friend request!,有未处理的好友申请！
 user_24,招待チャットを送信して、報酬GET！！,Invite a friend to Granblue Fantasy and get loot!,邀请朋友加入碧蓝幻想，可获奖励！
@@ -2462,7 +2462,7 @@ user_4,プレゼント,Crate,礼物
 user_40,<span class='txt-birthday'>%s1%s2日は%s3さんの誕生日です！</span>マイページやルリアノートで、<br>特定のキャラクターからあなたの誕生日の<br>お祝いメッセージを聞くことができます。,<span class='txt-birthday'>%s1 %s2 is %s3's birthday!</span>Certain characters will have a special birthday message for you on the Home screen and in your Journal.,<span class='txt-birthday'>%s1%s2日是你的生日！</span>在主页和露丽亚日记中可以听到大家对你的生日祝福。
 user_41,読み込みエラー:e001\nお手数ですが、ページを再読み込みしてください。,Loading error :e001\nPlease tap the Reload button.,读取失败：e001\n请刷新页面。
 user_42,発動中の騎空団サポート,Active Crew Skills,发动中的骑空团支援效果
-user_43,初回限定で10連ガチャが<br>無料で引けます！,Welcome to Granblue Fantasy! Here's a free 10-part draw!,可以免费抽取初回限定10连扭蛋！
+user_43,初回限定で10連ガチャが<br>無料で引けます！,Welcome to Granblue Fantasy! Here's a free 10-part draw!,可以免费抽取初回限定10连抽卡！
 user_44,初回限定ガチャ,Welcome Draw,初回限定卡池
 user_45,第2章「操舵士の決意」をクリアすることで<br />ラカムが仲間に加わります。<br />クエストを進行しますか？,Clear Chapter 2: A Helmsman's Resolve.<br />Rackam will join your party then.<br />Play this quest?,完成第2章「操舵士の決意」章节后，拉卡姆将成为新伙伴。<br>是否进行此任务？
 user_46,クエストを進めよう！,Play the Quest!,进行任务吧！
