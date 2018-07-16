@@ -255,8 +255,9 @@ body .pop-set-sort-filter .btn-usual-ok::after {
   content: "无期限";
   font-size: 14px;
 }
-.cnt-present .btn-tabs.termed::after {
+.cnt-present .btn-tabs.termed::before {
   content: "有期限";
+  font-size: 14px;
 }
 .cnt-present .btn-tabs.history::after {
   content: "领取记录";
