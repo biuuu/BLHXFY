@@ -1,3 +1,4 @@
+@charset "UTF-8";
 .txt-global-profile,
 .txt-global-archive,
 .txt-global-guild,
@@ -76,6 +77,12 @@ body .btn-retry[data-buton-name="もう一度挑戦"]::after {
 body .btn-control[data-buton-name="クエストリストへ"]::after {
   content: "回到任务列表";
 }
+body .btn-control[data-buton-name="探索に戻る"]::after {
+  content: "继续探索";
+}
+body .btn-control[data-buton-name="ルームへ"]::after {
+  content: "回到房间";
+}
 body .btn-usual-dismiss::after {
   content: "解散队伍";
 }
@@ -103,11 +110,34 @@ body .pop-get-skypiece .btn-usual-cancel::after {
 body .prt-material-button .btn-usual-material::after {
   content: "制作页面";
 }
+body .pop-confirm-start-stage .btn-usual-ok:after {
+  content: '开始探索';
+}
+body .btn-unclaimed[data-buton-name="未確認バトルへ"]::after {
+  content: "未确认的战斗";
+}
+body .pop-next-stage .prt-popup-footer .btn-usual-ok:after {
+  content: '前进';
+}
+body .pop-confirm-retire .prt-popup-footer .btn-usual-ok:after, .pop-confirm-quest-retire .prt-popup-footer .btn-usual-ok:after {
+  content: '结束探索';
+}
+body .pop-check-point .prt-popup-footer .btn-usual-ok:after {
+  content: 'アーカルムTOP';
+}
+body .pop-confirm .prt-popup-footer .btn-usual-ok.exchange:after {
+  content: '交换';
+}
 
+#cnt-arcarum-stage .cnt-division-list .prt-division-list .btn-move-division,
+#btn-bug-list,
+.prt-set-pushed .btn-set-pushed,
+.cnt-detail .btn-container,
 .btn-usual-text[data-href="quest/assist/unclaimed"],
 #tab-multi, #tab-event, #tab-id,
 .btn-sell[data-item-id],
 .btn-decompose[data-href^="decompose/"],
+.btn-decompose[data-href^="detail/decompose/"],
 .btn-sell[data-location-href^="sell/"],
 .prt-move-container .btn-container,
 #tab-npc, #tab-weapon, #tab-summon, #tab-skin,
@@ -196,22 +226,13 @@ body .prt-material-button .btn-usual-material::after {
 .cnt-base-status .btn-base-chenge::after {
   font-size: 12px;
 }
-.cnt-base-status .btn-base-chenge[data-location-href^="enhancement/npc/base/"]::after {
+.cnt-base-status .btn-base-chenge[data-location-href*="npc"]::after {
   content: "更换角色";
 }
-.cnt-base-status .btn-base-chenge[data-location-href^="enhancement/weapon/base/"]::after {
+.cnt-base-status .btn-base-chenge[data-location-href*="/weapon"]::after {
   content: "更换武器";
 }
-.cnt-base-status .btn-base-chenge[data-location-href^="enhancement/summon/base/"]::after {
-  content: "更换召唤石";
-}
-.cnt-base-status .btn-base-chenge[data-location-href^="evolution/npc/base/"]::after {
-  content: "更换角色";
-}
-.cnt-base-status .btn-base-chenge[data-location-href^="evolution/weapon/base/"]::after {
-  content: "更换武器";
-}
-.cnt-base-status .btn-base-chenge[data-location-href^="evolution/summon/base/"]::after {
+.cnt-base-status .btn-base-chenge[data-location-href*="/summon"]::after {
   content: "更换召唤石";
 }
 .btn-get-all::after {
@@ -351,6 +372,10 @@ body .prt-material-button .btn-usual-material::after {
   font-size: 12px;
   content: "存入仓库";
 }
+.cnt-detail .btn-container::after {
+  font-size: 12px;
+  content: "存入仓库";
+}
 .btn-sell[data-location-href^="sell/"]::after {
   font-size: 12px;
   content: "批量出售";
@@ -363,9 +388,13 @@ body .prt-material-button .btn-usual-material::after {
   font-size: 12px;
   content: "批量分解";
 }
+.btn-decompose[data-href^="detail/decompose/"]::after {
+  font-size: 12px;
+  content: "分解";
+}
 #tab-multi::after {
   font-size: 14px;
-  content: "团队本";
+  content: "多人战";
 }
 #tab-event::after {
   font-size: 14px;
@@ -378,4 +407,16 @@ body .prt-material-button .btn-usual-material::after {
 .btn-usual-text[data-href="quest/assist/unclaimed"]::after {
   font-size: 12px;
   content: "未确认的战斗";
+}
+.prt-set-pushed .btn-set-pushed::after {
+  font-size: 12px;
+  content: "设定为喜欢的角色";
+}
+#btn-bug-list::after {
+  font-size: 12px;
+  content: "已知 BUG";
+}
+#cnt-arcarum-stage .cnt-division-list .prt-division-list .btn-move-division::after {
+  font-size: 12px;
+  content: "移动";
 }
