@@ -77,6 +77,9 @@ body .btn-retry[data-buton-name="もう一度挑戦"]::after {
 body .btn-control[data-buton-name="クエストリストへ"]::after {
   content: "回到任务列表";
 }
+body .btn-control[data-buton-name="フェイト一覧へ"]::after {
+  content: "返回 Fate 列表";
+}
 body .btn-control[data-buton-name="探索に戻る"]::after {
   content: "继续探索";
 }
@@ -137,7 +140,32 @@ body .pop-filter-enhancement .btn-usual-ok::after, .pop-filter-setting .btn-usua
 body .pop-set-sort-filter .btn-usual-ok::after {
   content: '显示';
 }
+body .prt-buttons .btn-remove::after, .prt-buttons-enhance .btn-remove::after {
+  content: "移除装备";
+}
+body .prt-buttons .btn-change.party-weapon::after, .prt-buttons-enhance .btn-change.party-weapon::after {
+  content: "更换武器";
+}
+body .prt-buttons .btn-remove-cancel::after,
+body .prt-buttons .btn-back-cancel::after,
+body .prt-buttons-enhance .btn-remove-cancel::after,
+body .prt-buttons-enhance .btn-back-cancel::after {
+  content: "取消";
+}
+body .prt-buttons .btn-base-change::after,
+body .prt-buttons .btn-material-change::after,
+body .prt-buttons-enhance .btn-base-change::after,
+body .prt-buttons-enhance .btn-material-change::after {
+  content: "变更";
+}
+body #pop .popRestartQuest .prt-popup-body .prt-select .btn-usual-ok::after {
+  content: '继续';
+}
+body .pop-result-withdraw .btn-usual-ok::after {
+  content: "撤退";
+}
 
+.popRestartQuest .btn-withdraw,
 #cnt-arcarum-stage .cnt-division-list .prt-division-list .btn-move-division,
 #btn-bug-list,
 .prt-set-pushed .btn-set-pushed,
@@ -147,6 +175,8 @@ body .pop-set-sort-filter .btn-usual-ok::after {
 .btn-sell[data-item-id],
 .btn-decompose[data-href^="decompose/"],
 .btn-decompose[data-href^="detail/decompose/"],
+.btn-decompose[data-location-href^="decompose/"],
+.btn-decompose[data-location-href^="detail/decompose/"],
 .btn-sell[data-location-href^="sell/"],
 .prt-move-container .btn-container,
 #tab-npc, #tab-weapon, #tab-summon, #tab-skin,
@@ -157,6 +187,7 @@ body .pop-set-sort-filter .btn-usual-ok::after {
 #main_story_tab, #event_story_tab, #coop_story_tab,
 .cnt-archive-top .btn-story,
 .cnt-archive-top .btn-archive-list,
+.prt-follow-button-enhance .btn-follow-again,
 .cnt-archive-top .btn-library,
 .btn-title[data-href="title/add/advent/"],
 .btn-gacha-attention,
@@ -170,6 +201,7 @@ body .pop-set-sort-filter .btn-usual-ok::after {
 .cnt-present .btn-tabs,
 .btn-get-all,
 .cnt-base-status .btn-base-chenge,
+.prt-follow-button-enhance .btn-follow-base,
 .prt-recommend-buttons .btn-recommend,
 .prt-current-job .btn-job-change,
 .prt-current-job .btn-ability-list,
@@ -235,6 +267,9 @@ body .pop-set-sort-filter .btn-usual-ok::after {
 .cnt-base-status .btn-base-chenge::after {
   font-size: 12px;
 }
+.prt-follow-button-enhance .btn-follow-base::after {
+  font-size: 12px;
+}
 .cnt-base-status .btn-base-chenge[data-location-href*="npc"]::after {
   content: "更换角色";
 }
@@ -242,6 +277,19 @@ body .pop-set-sort-filter .btn-usual-ok::after {
   content: "更换武器";
 }
 .cnt-base-status .btn-base-chenge[data-location-href*="/summon"]::after {
+  content: "更换召唤石";
+}
+.prt-follow-button-enhance .btn-follow-again::after {
+  content: "继续强化";
+  font-size: 12px;
+}
+.prt-follow-button-enhance .btn-follow-base[data-location-href*="npc"]::after {
+  content: "更换角色";
+}
+.prt-follow-button-enhance .btn-follow-base[data-location-href*="/weapon"]::after {
+  content: "更换武器";
+}
+.prt-follow-button-enhance .btn-follow-base[data-location-href*="/summon"]::after {
   content: "更换召唤石";
 }
 .btn-get-all::after {
@@ -398,7 +446,15 @@ body .pop-set-sort-filter .btn-usual-ok::after {
   font-size: 12px;
   content: "批量分解";
 }
+.btn-decompose[data-location-href^="decompose/"]::after {
+  font-size: 12px;
+  content: "批量分解";
+}
 .btn-decompose[data-href^="detail/decompose/"]::after {
+  font-size: 12px;
+  content: "分解";
+}
+.btn-decompose[data-location-href^="detail/decompose/"]::after {
   font-size: 12px;
   content: "分解";
 }
@@ -429,4 +485,8 @@ body .pop-set-sort-filter .btn-usual-ok::after {
 #cnt-arcarum-stage .cnt-division-list .prt-division-list .btn-move-division::after {
   font-size: 12px;
   content: "移动";
+}
+.popRestartQuest .btn-withdraw::after {
+  font-size: 12px;
+  content: "撤退";
 }
