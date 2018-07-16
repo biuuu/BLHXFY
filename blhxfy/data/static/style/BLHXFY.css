@@ -157,6 +157,7 @@ body .pop-set-sort-filter .btn-usual-ok::after {
 #main_story_tab, #event_story_tab, #coop_story_tab,
 .cnt-archive-top .btn-story,
 .cnt-archive-top .btn-archive-list,
+.prt-follow-button-enhance .btn-follow-again,
 .cnt-archive-top .btn-library,
 .btn-title[data-href="title/add/advent/"],
 .btn-gacha-attention,
@@ -170,6 +171,7 @@ body .pop-set-sort-filter .btn-usual-ok::after {
 .cnt-present .btn-tabs,
 .btn-get-all,
 .cnt-base-status .btn-base-chenge,
+.prt-follow-button-enhance .btn-follow-base,
 .prt-recommend-buttons .btn-recommend,
 .prt-current-job .btn-job-change,
 .prt-current-job .btn-ability-list,
@@ -235,6 +237,9 @@ body .pop-set-sort-filter .btn-usual-ok::after {
 .cnt-base-status .btn-base-chenge::after {
   font-size: 12px;
 }
+.prt-follow-button-enhance .btn-follow-base::after {
+  font-size: 12px;
+}
 .cnt-base-status .btn-base-chenge[data-location-href*="npc"]::after {
   content: "更换角色";
 }
@@ -242,6 +247,19 @@ body .pop-set-sort-filter .btn-usual-ok::after {
   content: "更换武器";
 }
 .cnt-base-status .btn-base-chenge[data-location-href*="/summon"]::after {
+  content: "更换召唤石";
+}
+.prt-follow-button-enhance .btn-follow-again::after {
+  content: "继续强化";
+  font-size: 12px;
+}
+.prt-follow-button-enhance .btn-follow-base[data-location-href*="npc"]::after {
+  content: "更换角色";
+}
+.prt-follow-button-enhance .btn-follow-base[data-location-href*="/weapon"]::after {
+  content: "更换武器";
+}
+.prt-follow-button-enhance .btn-follow-base[data-location-href*="/summon"]::after {
   content: "更换召唤石";
 }
 .btn-get-all::after {
