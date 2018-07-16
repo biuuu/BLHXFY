@@ -128,6 +128,15 @@ body .pop-check-point .prt-popup-footer .btn-usual-ok:after {
 body .pop-confirm .prt-popup-footer .btn-usual-ok.exchange:after {
   content: '交换';
 }
+body .pop-filter-enhancement .btn-usual-cancel::after, .pop-filter-setting .btn-usual-cancel::after {
+    content: '返回排序设置';
+}
+body .pop-filter-enhancement .btn-usual-ok::after, .pop-filter-setting .btn-usual-ok::after {
+  content: '选择完成';
+}
+body .pop-set-sort-filter .btn-usual-ok::after {
+  content: '显示';
+}
 
 #cnt-arcarum-stage .cnt-division-list .prt-division-list .btn-move-division,
 #btn-bug-list,
