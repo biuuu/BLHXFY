@@ -169,7 +169,6 @@ body .pop-result-withdraw .btn-usual-ok::after {
 #cnt-arcarum-stage .cnt-division-list .prt-division-list .btn-move-division,
 #btn-bug-list,
 .prt-set-pushed .btn-set-pushed,
-.cnt-detail .btn-container,
 .btn-usual-text[data-href="quest/assist/unclaimed"],
 #tab-multi, #tab-event, #tab-id,
 .btn-sell[data-item-id],
@@ -279,8 +278,12 @@ body .pop-result-withdraw .btn-usual-ok::after {
 .cnt-base-status .btn-base-chenge[data-location-href*="/summon"]::after {
   content: "更换召唤石";
 }
-.prt-follow-button-enhance .btn-follow-again::after {
+.prt-module-enhancement .btn-follow-again::after {
   content: "继续强化";
+  font-size: 12px;
+}
+.prt-module-evolution .btn-follow-again::after {
+  content: "继续上限解放";
   font-size: 12px;
 }
 .prt-follow-button-enhance .btn-follow-base[data-location-href*="npc"]::after {
@@ -427,10 +430,6 @@ body .pop-result-withdraw .btn-usual-ok::after {
   content: "皮肤";
 }
 .prt-move-container .btn-container::after {
-  font-size: 12px;
-  content: "存入仓库";
-}
-.cnt-detail .btn-container::after {
   font-size: 12px;
   content: "存入仓库";
 }
