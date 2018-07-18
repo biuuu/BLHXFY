@@ -170,6 +170,11 @@ body .pop-usual.pop-raid-extra4 .btn-usual-cancel::after,
 body .pop-usual.pop-raid-extra5 .btn-usual-cancel::after {
   content: '关闭';
 }
+body .pop-confirm-continue-quest.pop-usual .prt-popup-footer .btn-usual-ok::after,
+body .pop-confirm-continue-quest.pop-usual .pop-room-detail.pop-usual .prt-popup-footer .btn-usual-join::after,
+body .pop-room-detail.pop-usual .pop-confirm-continue-quest.pop-usual .prt-popup-footer .btn-usual-join::after {
+  content: '参加';
+}
 
 .popRestartQuest .btn-withdraw,
 #cnt-arcarum-stage .cnt-division-list .prt-division-list .btn-move-division,
