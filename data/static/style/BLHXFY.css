@@ -164,6 +164,12 @@ body #pop .popRestartQuest .prt-popup-body .prt-select .btn-usual-ok::after {
 body .pop-result-withdraw .btn-usual-ok::after {
   content: "撤退";
 }
+body .pop-raid-extra.pop-usual .btn-usual-cancel::after,
+body .pop-usual.pop-raid-extra2 .btn-usual-cancel::after,
+body .pop-usual.pop-raid-extra4 .btn-usual-cancel::after,
+body .pop-usual.pop-raid-extra5 .btn-usual-cancel::after {
+  content: '关闭';
+}
 
 .popRestartQuest .btn-withdraw,
 #cnt-arcarum-stage .cnt-division-list .prt-division-list .btn-move-division,
@@ -278,8 +284,12 @@ body .pop-result-withdraw .btn-usual-ok::after {
 .cnt-base-status .btn-base-chenge[data-location-href*="/summon"]::after {
   content: "更换召唤石";
 }
-.prt-follow-button-enhance .btn-follow-again::after {
+.prt-module-enhancement .btn-follow-again::after {
   content: "继续强化";
+  font-size: 12px;
+}
+.prt-module-evolution .btn-follow-again::after {
+  content: "继续上限解放";
   font-size: 12px;
 }
 .prt-follow-button-enhance .btn-follow-base[data-location-href*="npc"]::after {
