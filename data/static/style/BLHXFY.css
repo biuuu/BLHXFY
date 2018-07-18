@@ -169,7 +169,6 @@ body .pop-result-withdraw .btn-usual-ok::after {
 #cnt-arcarum-stage .cnt-division-list .prt-division-list .btn-move-division,
 #btn-bug-list,
 .prt-set-pushed .btn-set-pushed,
-.cnt-detail .btn-container,
 .btn-usual-text[data-href="quest/assist/unclaimed"],
 #tab-multi, #tab-event, #tab-id,
 .btn-sell[data-item-id],
@@ -427,10 +426,6 @@ body .pop-result-withdraw .btn-usual-ok::after {
   content: "皮肤";
 }
 .prt-move-container .btn-container::after {
-  font-size: 12px;
-  content: "存入仓库";
-}
-.cnt-detail .btn-container::after {
   font-size: 12px;
   content: "存入仓库";
 }
