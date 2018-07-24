@@ -102,7 +102,7 @@ body .prt-retraction-button .prt-retraction-quest .btn-retraction-quest::after {
   content: "更换任务";
 }
 body .pop-synopsis .btn-usual-ok::after {
-  content: '跳过';
+  content: '确定';
 }
 body .pop-get-skypiece .btn-usual-ok::after {
   content: '露莉亚日记';
