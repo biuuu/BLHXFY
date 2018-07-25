@@ -26,7 +26,7 @@ const replaceChar = (key, item, map) => {
 
     if (/\s?[\?？0-9０－９]{1,2}$/.test(name)) {
       // name with number or symbol
-      const nameRst = name.match(/(.+)\s?([\?？0-9０－９]{1,2})$/)
+      const nameRst = name.match(/(.+?)\s?([\?？0-9０－９]{1,2})$/)
       const _trans = map.get(nameRst[1])
       _name = nameRst[1]
       if (_trans) trans = `${_trans}${nameRst[2]}`
