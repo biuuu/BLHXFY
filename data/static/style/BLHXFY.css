@@ -102,7 +102,7 @@ body .prt-retraction-button .prt-retraction-quest .btn-retraction-quest::after {
   content: "更换任务";
 }
 body .pop-synopsis .btn-usual-ok::after {
-  content: '跳过';
+  content: '确定';
 }
 body .pop-get-skypiece .btn-usual-ok::after {
   content: '露莉亚日记';
@@ -182,22 +182,20 @@ body .pop-room-detail.pop-usual .pop-confirm-continue-quest.pop-usual .prt-popup
 .prt-set-pushed .btn-set-pushed,
 .btn-usual-text[data-href="quest/assist/unclaimed"],
 #tab-multi, #tab-event, #tab-id,
-.btn-sell[data-item-id],
 .btn-decompose[data-href^="decompose/"],
-.btn-decompose[data-href^="detail/decompose/"],
 .btn-decompose[data-location-href^="decompose/"],
 .btn-decompose[data-location-href^="detail/decompose/"],
 .btn-sell[data-location-href^="sell/"],
 .prt-move-container .btn-container,
 #tab-npc, #tab-weapon, #tab-summon, #tab-skin,
 .prt-error-infomation .btn-mypage,
-.btn-set-lock, .btn-set-filter,
 .btn-evolution[data-location-href^="evolution/"],
 .prt-condition .btn-quest,
 #main_story_tab, #event_story_tab, #coop_story_tab,
 .cnt-archive-top .btn-story,
 .cnt-archive-top .btn-archive-list,
 .prt-follow-button-enhance .btn-follow-again,
+.prt-follow-button .btn-follow-again,
 .cnt-archive-top .btn-library,
 .btn-title[data-href="title/add/advent/"],
 .btn-gacha-attention,
@@ -412,14 +410,6 @@ body .pop-room-detail.pop-usual .pop-confirm-continue-quest.pop-usual .prt-popup
   font-size: 12px;
   content: "上限解放";
 }
-.btn-set-lock::after {
-  font-size: 12px;
-  content: "保护";
-}
-.btn-set-filter::after {
-  font-size: 12px;
-  content: "从自动编成的对象里排除";
-}
 .prt-error-infomation .btn-mypage::after {
   font-size: 12px;
   content: "主页";
@@ -448,10 +438,6 @@ body .pop-room-detail.pop-usual .pop-confirm-continue-quest.pop-usual .prt-popup
   font-size: 12px;
   content: "批量出售";
 }
-.btn-sell[data-item-id]::after {
-  font-size: 12px;
-  content: "出售";
-}
 .btn-decompose[data-href^="decompose/"]::after {
   font-size: 12px;
   content: "批量分解";
@@ -459,10 +445,6 @@ body .pop-room-detail.pop-usual .pop-confirm-continue-quest.pop-usual .prt-popup
 .btn-decompose[data-location-href^="decompose/"]::after {
   font-size: 12px;
   content: "批量分解";
-}
-.btn-decompose[data-href^="detail/decompose/"]::after {
-  font-size: 12px;
-  content: "分解";
 }
 .btn-decompose[data-location-href^="detail/decompose/"]::after {
   font-size: 12px;
