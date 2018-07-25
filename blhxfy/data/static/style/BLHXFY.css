@@ -182,10 +182,8 @@ body .pop-room-detail.pop-usual .pop-confirm-continue-quest.pop-usual .prt-popup
 .prt-set-pushed .btn-set-pushed,
 .btn-usual-text[data-href="quest/assist/unclaimed"],
 #tab-multi, #tab-event, #tab-id,
-.btn-decompose[data-href^="decompose/"],
 .btn-decompose[data-location-href^="decompose/"],
 .btn-decompose[data-location-href^="detail/decompose/"],
-.btn-sell[data-location-href^="sell/"],
 .prt-move-container .btn-container,
 #tab-npc, #tab-weapon, #tab-summon, #tab-skin,
 .prt-error-infomation .btn-mypage,
@@ -433,14 +431,6 @@ body .pop-room-detail.pop-usual .pop-confirm-continue-quest.pop-usual .prt-popup
 .prt-move-container .btn-container::after {
   font-size: 12px;
   content: "存入仓库";
-}
-.btn-sell[data-location-href^="sell/"]::after {
-  font-size: 12px;
-  content: "批量出售";
-}
-.btn-decompose[data-href^="decompose/"]::after {
-  font-size: 12px;
-  content: "批量分解";
 }
 .btn-decompose[data-location-href^="decompose/"]::after {
   font-size: 12px;
