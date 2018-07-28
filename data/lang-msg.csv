@@ -564,6 +564,22 @@ deal_9,,You earned a share chest item!,您获得一件战利品！
 deal_rock_popup,未完了のディールまたは<br>ディール対象バトルが5件あるため<br>このバトルを開始することが出来ません。,,您还有未结束的蓝箱分配，或您还有5场掉落蓝箱的战斗未结束，无法开始当前战斗。
 deal_rock_popup_1,CAUTION!,Unable to Proceed,
 deal_rock_popup_2,未完了のディールまたは<br>ディール対象バトルが5件あるため<br>このバトルを開始することができません。,You can't start this battle. There are five unopened share chests or pending battles with share chests.,您还有未结束的蓝箱分配，或您还有5场掉落蓝箱的战斗未结束，无法开始当前战斗。
+decompose_1,エレメント化,Reduce Multiple,批量分解
+decompose_10,アイテム詳細,Item Details,道具详情
+decompose_11,エレメント化確認,Reduce,分解确认
+decompose_12,エレメント化結果,Reduce,分解结果
+decompose_13,<span class='txt-rarity-name'>SSレア</span>の%sが含まれています！,An <span class='txt-rarity-name'>SSR</span> %s will be reduced.,<span class='txt-rarity-name'>SSR</span> %s将被分解！
+decompose_14,以下の%sをエレメントに変換します。,The following %s will be reduced.,以下%s将被分解
+decompose_15,これらの%sは失われますが、<br>よろしいですか？,You will lose this %s. Proceed?,这个%s会失去<br>没问题吗？
+decompose_16,%sがエレメントに変換され<br>プレゼントリストに送られました。,The %s was reduced. Items were sent to your crate.,%s已被分解<br>道具已发送到你的邮箱。
+decompose_2,武器,weapon,武器
+decompose_3,召喚石,summon,召唤石
+decompose_4,戦,PWR,战
+decompose_5,攻,ATK,攻
+decompose_6,Lv,Lvl,Lv
+decompose_7,H,HP,HP
+decompose_8,ルピ," rupie",卢比
+decompose_9,%sルピ,%s rupie,%s卢比
 detail_1,強化する,Upgrade,强化
 detail_10,ボーナスリセット完了,Bonuses,重置技能点
 detail_11,エレメント化,Reduce,拆解
@@ -1875,7 +1891,7 @@ raid_46,注意事項,Notes,注意事项
 raid_47,これ以上救援依頼を出せません。,You can't request any more backup.,无法再发送救援请求。
 raid_48,スタンプ,Stickers,表情
 raid_49,チャット,Chat,聊天
-raid_50,マルチバトルログ,Raid Log,历史攻击
+raid_50,マルチバトルログ,Raid Log,战斗日志
 raid_51,敵が<span class'red'>OVERDRIVE</span>した！,"A foe's <span class""red"">overdrive</span> took effect!",敌人<span class'red'>OVERDRIVE</span>！
 raid_52,敵が<span class'yellow'>BREAK</span>した！,"A foe's <span class""yellow"">break</span> took effect!",敌人<span class'yellow'>BREAK</span>！
 raid_53,ログがありません,There is nothing here.,无数据。
