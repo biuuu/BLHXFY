@@ -1,0 +1,9 @@
+id,name,detail
+npc,卡门莉娜,3040042000
+special,恐惧暗影,风属性伤害(特大)/我方全体获得幻影效果（1次）
+skill-1,战箍,对敌方全体造成风属性伤害/防御DOWN/连续攻击率DOWN(大)
+skill-2,万花筒,敌方单体的最大蓄力计数点加1
+skill-3,全知觉,敌方全体对削弱效果的抗性DOWN
+support-1,巨星,削弱效果抗性UP
+skill-lb,LB技能,自身无削弱效果时连击率UP
+active,1,

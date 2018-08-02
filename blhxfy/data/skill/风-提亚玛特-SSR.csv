@@ -1,0 +1,10 @@
+id,name,detail
+npc,提亚玛特,3040152000
+special,高空闪电,风属性伤害(特大)/自身三连击率UP
+skill-1,丰收之风,<div class=prt-text-small>我方全体攻击UP(中)/防御UP(中)/奥义值上升量UP　<span class=text-blue>◆消耗10%奥义值</span></div>
+skill-2,撕裂风暴,<div class=prt-text-small>对敌方全体造成风属性伤害/攻击下降(大)　<span class=text-blue>◆对攻击下降状态的敌人伤害上限UP</span></div>
+skill-3,风之斗篷,我方全体免疫削弱效果(1次)/获得幻影效果(1次)
+support-1,风之守护者,自身附有幻影效果时，攻击性能UP
+support-2,魂之指引,对土属性敌人的伤害UP
+skill-lb,LB技能,自身无削弱效果时，三连击率UP
+active,1,

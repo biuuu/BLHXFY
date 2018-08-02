@@ -1,0 +1,10 @@
+id,name,detail
+npc,贞德,3040154000
+special,稀世佳人,风属性伤害(特大)/我方全体风属性攻击UP/土属性伤害减免(20%)
+skill-1,反向潮流,敌方单体防御DOWN/風属性防御DOWN
+skill-2,救赎,回复我方单体HP/防御效果/剩余HP越多，攻击强化量越大
+skill-3,勇气之旗帜,我方全体攻击UP/奥义值UP(10%)
+support-1,圣女贞德,暴击率UP
+support-2,不屈之意志,剩余HP越多，连击率越大
+skill-lb,LB技能,使用技能「勇气之旗帜」可回复HP
+active,1,
