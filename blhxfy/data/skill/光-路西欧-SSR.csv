@@ -1,0 +1,11 @@
+id,name,detail
+npc,路西欧,3040106000
+special,失乐园,<span class=prt-text-small>光属性伤害(特大)/自身光属性攻击离UP/下一次使用「死灰复燃」时，技能发动2次</span>
+skill-1,夏娃的劝诱,我方全体获得屏障效果/攻击UP(中)/防御UP(中)
+skill-2,死灰复燃,对敌方单体造成8倍光属性伤害
+skill-2+,死灰复燃,对敌方单体造成9倍光属性伤害
+skill-3,觉醒,<div class=prt-text-small>自身获得光属性追击效果/三连击率UP/暗属性伤害减免(75%)/削弱效果抗性UP</div>
+support-1,启明星,随回合数增加，自身光属性攻攻击UP/暗属性防御DOWN
+support-2,神圣正义之翼,每回合连击率UP<br><span class=text-blue>◆受到伤害后解除</span>
+skill-lb,LB技能,奥义发动时回复我方全体HP
+active,1,
