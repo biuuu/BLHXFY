@@ -1,0 +1,9 @@
+﻿id,name,detail
+npc,泽塔,3040028000
+special,日珥之枪,火属性伤害(特大)/自身暴击率UP
+skill-1,阿贝斯之枪,对敌方单体造成火属性伤害/赋予敌人标记「阿贝斯之缚」
+skill-2,狂想曲,<div class=prt-text-small>自身攻击大幅UP，获得盐伤效果(仅针对附有「阿贝斯之缚」的敌人/1次)　<span class=text-blue>◆敌人Break时UP</span></div>
+skill-3,千炎,对敌方全体造成2.5～3.5倍火属性伤害/维持敌人的Break状态
+support-1,阿贝斯的契约者,对Break状态的敌人攻击UP
+skill-lb,LB技能,盐伤效果中三连击率UP
+active,1,
