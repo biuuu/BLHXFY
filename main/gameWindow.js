@@ -14,7 +14,7 @@ module.exports = () => {
   //   .catch((err) => console.log('An error occurred: ', err))
   let gameWin = null
   const ses = session.fromPartition('persist:gameWindow')
-  ses.setUserAgent('Mozilla/5.0 (Linux; Android 6.0.1; Nexus 7 Build/MOB30X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3071.115 Safari/537.36')
+  ses.setUserAgent('Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1')
 
   ipcMain.on('clear-game-window', (event, type) => {
     if (type === 'cache') {
