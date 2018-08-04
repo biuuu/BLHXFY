@@ -1,0 +1,12 @@
+id,name,detail
+npc,席尔瓦,3040049000
+special,致命子弹/葬送之击（终突）,水属性伤害(特大)/（终突后）自身回避率UP
+skill-1,鹰眼,<div class=prt-text-small>自身奥义伤害UP/奥义伤害上限UP/奥义连击伤害UP/防御DOWN</div>
+skill-2,战术家,自身暴击率UP
+skill-3,必死之敌,自身可即时发动奥义
+skill-3+,必死之敌,自身可即时发动奥义/奥义附加额外伤害
+skill-4,制胜一击,<div class=prt-text-small>与候补成员替换3回合<br><span class=text-blue>◆替换后进行掩护射击/无法再次使用</span></div>
+support-1,沉静的威压,奥义值上升量UP
+support-2,坚守阵地,奥义能够击中幻影或回避状态的敌人。
+skill-lb,LB技能,倒下的敌人数量越多，攻击力越高
+active,1,

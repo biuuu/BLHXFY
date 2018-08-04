@@ -1,0 +1,9 @@
+id,name,detail
+npc,维恩,3040117000
+special,狮爪狩猎,水属性伤害(特大)/自身防御UP
+skill-1,敌武摧毁II,对敌方单体造成水属性伤害/攻击DOWN/火属性攻击DOWN
+skill-2,击破,<div class=prt-text-small>自身HP越少，攻击UP/敌对心UP(累积)　<span class=text-blue>◆消耗自身最大HP的40%</span></div>
+skill-3,灵魂勃发,<div class=prt-text-small>回复自身HP，净化自身所有削弱效果/性能大幅UP　<span class=text-blue>◆只能在濒死状态使用/消耗全部奥义值</span></div>
+support-1,绝不屈服！,第一次无法战斗时以HP1继续战斗
+skill-lb,LB技能,HP少于一半时，防御UP
+active,1,
