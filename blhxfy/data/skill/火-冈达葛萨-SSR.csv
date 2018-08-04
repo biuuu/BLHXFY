@@ -1,0 +1,10 @@
+id,name,detail
+npc,冈达葛萨,3040052000
+special,莲天红我正拳突刺,火属性伤害(特大)/自身暴击率UP　<span class=text-blue>◆消去古今无双流效果</span>
+skill-1,破天道,赋予敌方全体日晕效果
+skill-2,印可掌,获得反击效果(回避·受伤时/4次)
+skill-3,无明白昼,我方全体火属性攻击UP/二连击率UP
+support-1,古今無双流,得意武器为「格斗」的角色二连击率UP
+support-2,古今独歩大拳豪,每次攻击赋予自身1层古今无双流效果　<span class=text-blue>◆古今无双流效果等级越高，攻击UP/奥义性能UP</span>
+skill-lb,LB技能,普攻时有几率获得攻击UP效果（累积）
+active,1,

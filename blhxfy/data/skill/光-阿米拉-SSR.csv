@@ -6,6 +6,6 @@ skill-2,The Power Within,<div class=prt-text-small>吸收敌人mode条与我方�
 skill-3,半神半魔,获得暗属性特性　<span class=text-blue>◆消耗100％奥义值</span>
 support-1,单翼的悪魔,奥义值上升量UP
 support-2,隐秘之钥,半神半魔时攻防UP/必定连击/削弱效果免疫/伤害无效化(1次)
-skill-lb,LB技能,对单体敌人进行攻击后有几率获得攻击UP效果（累积）
+skill-lb,LB技能,普攻时有几率获得攻击UP效果（累积）
 active,1,
 ,,

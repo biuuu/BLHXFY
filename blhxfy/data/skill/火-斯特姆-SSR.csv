@@ -1,0 +1,10 @@
+id,name,detail
+npc,斯特姆,3040115000
+special,地狱使者,火属性伤害(特大)/下一次使用「闪电突袭」时，技能发动2次
+skill-1,闪电突袭,<div class=prt-text-small>对敌方单体造成4～5倍火属性伤害/灼烧效果　<span class=text-blue>◆对灼烧状态的敌人伤害上限UP</span></div>
+skill-2,剑刃转换,<div class=prt-text-small>切换普攻的附加效果（蓝色，有几率使敌方防御DOWN/红色，有几率使自身攻击UP）</div>
+skill-3,再强化,攻击UP/连击率UP/回避率UP　<span class=text-blue>◆消耗20％奥义值</span>
+support-1,压制之刃,单次攻击与二连击时追加火属性伤害
+support-2,果敢之刃,普攻时有几率使自身攻击UP(累積)/或使敌人防御DOWN(累积)　<span class=text-blue>◆通过技能「剑刃转换」进行切换</span>
+skill-lb,LB技能,通过普攻赋予效果的成功率UP
+active,1,

@@ -1,0 +1,11 @@
+id,name,detail
+npc,拉卡姆,3040059000
+special,毁灭穿刺,火属性伤害(特大)/奥义值UP(30%)
+skill-1,焰流,<div class=prt-text-small>对敌方单体造成火属性伤害/自身获得焰流效果(累积)<br><span class=text-blue>◆消耗15％奥义值</span></div>
+skill-1+,焰流,<div class=prt-text-small>对敌方单体造成火属性伤害/自身获得焰流效果(累积)<br><span class=text-blue>◆消耗10％奥义值</span></div>
+skill-2,持久战II,<div class=prt-text-small>使OD状态的敌人mode条减少(战栗效果)/自身对敌mode条减少量UP</div>
+skill-3,双倍节奏,效果中必定连击/自身获得双倍节奏效果
+support-1,高超的技术,普攻有几率击中敌方全体
+support-2,累积的惩戒,<div class=prt-text-small>技能「焰流」使用次数越多，自身攻击/奥义连击伤害/奥义连击伤害上限/奥义伤害上限UP<span class=text-blue>　◆奥义发动后重置</span></div>
+skill-lb,LB技能,焰流效果延长
+active,1,
