@@ -1,0 +1,12 @@
+id,name,detail
+npc,卡里奥斯特罗,3040009000
+special,大炼金术,伤害(特大)/（终突后）回复量上升50%，回复力上升50%
+skill-1,瓦解,对敌方全体造成土属性伤害/防御DOWN
+skill-2,幻灯,<div class=prt-text-small>净化自身1个削弱效果/暴击率UP/特殊強化(连击率UP/攻防UP)</div>
+skill-2+,幻灯,<div class=prt-text-small>净化自身1个削弱效果/暴击率UP/特殊強化(连击率UP/攻防UP)</div>
+skill-2++,幻灯,<div class=prt-text-small>净化我方全体1个削弱效果/我方全体暴击率UP/特殊強化(连击率UP/攻防UP)</div>
+skill-3,强化,回复我方全体HP/获得再生效果
+support-1,世界第一可爱☆,削弱效果抗性UP
+support-2,备用的躯体,战斗开始时，获得自动复活效果
+skill-lb,LB技能,受伤时有极小概率回复HP
+active,1,
