@@ -1,0 +1,9 @@
+﻿id,name,detail
+npc,艾奇尔巴,3040017000
+special,轰霸晓天,火属性伤害（特大）/防御大幅UP
+skill-1,刚毅,成为攻击目标/自身防御UP/反击效果（受伤时/3次）
+skill-2,转应,自身HP越少，技能伤害越高
+skill-3,轲遇突智,自身HP越少，攻击强化量越大/HP吸收效果
+support-1,豪放磊落,敌对心UP/防御UP
+skill-lb,LB技能,受伤时有极小概率反击
+active,1,
