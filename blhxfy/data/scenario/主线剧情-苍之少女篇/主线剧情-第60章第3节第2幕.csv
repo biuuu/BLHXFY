@@ -49,7 +49,7 @@ id,en,jp,trans
 53,,けっ……<br>オレ達は最初っから、<br>そのつもりだったっつーの……,呃……我们从一开始就是这个打算啊……
 54,,でも、これで文字通り、<br>道が開けましたね！,不过，这么一来路总算通了！
 55,,えっと……<br>あ、ありがとう……<br>ヒゲの軍人さん……,那个……谢谢你哦……留胡子的军人先生……
-56,,貴様らに礼を言われる筋合いは<br>ありませんネェ……<br>いいからさっさと行くんですヨォ。,我可没有为什么做过什么……好了赶紧去吧。
+56,,貴様らに礼を言われる筋合いは<br>ありませんネェ……<br>いいからさっさと行くんですヨォ。,我可没有为你们做过什么……好了赶紧去吧。
 57,,<span class='scene-font-katari'>ポンメルンの言葉に促され、</span><br><span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>タワーの中へと駆けこむ。</span>,<span class='scene-font-katari'>在伯梅伦的催促下，姬塔一行进入了高塔。</span>
 58,,<span class='scene-font-katari'>タワーに足を踏み入れた一行の背中に、</span><br><span class='scene-font-katari'>ポンメルンの無愛想な声が届く。</span>,<span class='scene-font-katari'>他们的背后传来伯梅伦冷淡的声音。</span>
 59,,そうそう……<br>そこの子供に、<br>ひとつ言い忘れてましたネェ……,对了对了……我有话对那边的小鬼说……
@@ -59,3 +59,4 @@ id,en,jp,trans
 63,,<span class='scene-font-katari'>それだけ告げると、</span><br><span class='scene-font-katari'>一行は一気にタワーの中を走り始める。</span>,<span class='scene-font-katari'>说完，一行人开始在塔内奔跑。</span
 64,,<span class='scene-font-katari'>その背後でポンメルンは、</span><br><span class='scene-font-katari'>やれやれ、というように、</span><br><span class='scene-font-katari'>自らの髭を撫でるのだった。</span>,<span class='scene-font-katari'>伯梅伦则留在原地，心情复杂地捋着自己的胡子。</span>
 info,,1,scene_cp60_q3_s20
+,,,

@@ -29,7 +29,7 @@ id,en,jp,trans
 27,,んん～……<br>それはどうかなぁ……,嗯~……这个，也说不准啊……
 28,,なに……？,什么……？
 29,,<span class='scene-font-katari'>ドランクは睨むように空の彼方を見る。</span><br><span class='scene-font-katari'>どこまでも続く青空には、</span><br><span class='scene-font-katari'>いまだ幾つもの火種が残っていた。</span>,<span class='scene-font-katari'>德朗克盯着远方的天空。无边无际的苍穹中，还残留着多处火种。</span>
-34,,――エルステは、<br>かような結末を迎えたか。,——这就是埃尔斯特的结局。
+34,,――エルステは、<br>かような結末を迎えたか。,——这就是埃尔斯特的结局么。
 35,,こちら、<br>黒の騎士への処罰は如何致しますか？,请问，要如何处置黑骑士？
 36,,いらん……必要ない。<br>過程はどうあれ、<br>奴はあの女の暴走を止めたのだ。,无需处置……不管过程如何，她成功阻止了那个女人的暴走。
 37,,もしアーカーシャが<br>あの女の思惑通り起動しておれば、<br>被害は想像を絶するものだった……,如果阿卡夏如那女人所愿起动，那么后果将不堪设想……
@@ -66,3 +66,4 @@ id,en,jp,trans
 73,,<span class='scene-font-katari'>いまだ辿り得ぬ空の彼方。</span><br><span class='scene-font-katari'>天駆ける騎士達は互いに思惑を巡らせる。</span>,<span class='scene-font-katari'>在众人还无法触及的远方，驰骋全空的骑士们各自斟酌着内心的想法。</span>
 74,,<span class='scene-font-katari'>物語は続く――――</span>,<span class='scene-font-katari'>故事还在继续————</span>
 info,,1,scene_after_s10
+,,,
