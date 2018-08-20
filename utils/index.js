@@ -18,7 +18,7 @@ const replaceWords = (str, map, lang = 'en') => {
     const reStr = lang === 'en' ? `\\b${expr}\\b` : `${expr}`
     if (typeof val === 'string') {
       _str = _str.replace(new RegExp(reStr, 'g'), val)
-    } else if (val) {
+    } else if (val && val.trans && !val.noun) {
       if (val.ignoreCase) {
         _str = _str.replace(new RegExp(reStr, 'gi'), val.trans)
       } else {

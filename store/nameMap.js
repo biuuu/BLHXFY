@@ -15,6 +15,36 @@ const nameData = {
 
 const cwd = process.cwd()
 
+const nameWithScenario = (list, key = 'name') => {
+  const newList = []
+  const keys = []
+  list.forEach(item => {
+    const existIdx = keys.indexOf(item[key])
+    if (existIdx !== -1) {
+      const obj = newList[existIdx]
+      if (item.scenario) {
+        obj[item.scenario] = item
+        obj.scenarios.push(item.scenario)
+      } else {
+        obj.trans = item.trans
+        obj.noun = !!item.noun
+      }
+    } else {
+      const obj = { [key]: item[key], scenarios: [] }
+      if (item.scenario) {
+        obj[item.scenario] = item
+        obj.scenarios.push(item.scenario)
+      } else {
+        obj.trans = item.trans
+        obj.noun = !!item.noun
+      }
+      newList.push(obj)
+      keys.push(item[key])
+    }
+  })
+  return newList
+}
+
 const mergeList = async (pathLocal, pathStable, key = 'name') => {
   const list = []
   const tempMap = new Map()
@@ -29,6 +59,20 @@ const mergeList = async (pathLocal, pathStable, key = 'name') => {
   return { list, listLocal }
 }
 
+const mergeNpcList = async (pathLocal, pathStable, key = 'name') => {
+  const list = []
+  const tempMap = new Map()
+  let listLocal = nameWithScenario(await readCsv(pathLocal, true))
+  let listStable = nameWithScenario(await readCsv(pathStable))
+  listStable.concat(listLocal).forEach(item => {
+    if (item[key] && !tempMap.get(item[key])) {
+      list.push(item)
+      tempMap.set(item[key], true)
+    }
+  })
+  return list
+}
+
 const getData = async (lang) => {
   const DATA_PATH = await dataPath()
   const NAME_EN_PATH = path.resolve(DATA_PATH, 'npc-name-en.csv')
@@ -38,10 +82,10 @@ const getData = async (lang) => {
 
   const pathLocal = lang === 'en' ? NAME_EN_PATH_LOCAL : NAME_JP_PATH_LOCAL
   const pathStable = lang === 'en' ? NAME_EN_PATH : NAME_JP_PATH
-  const { list } = await mergeList(pathLocal, pathStable)
+  const list = await mergeNpcList(pathLocal, pathStable)
   const result = new Map()
   sortKeywords(list).forEach(item => {
-    result.set(item.name, item.trans)
+    result.set(item.name, item)
   })
   if (lang === 'en') {
     nameData['enNameMap'] = result
