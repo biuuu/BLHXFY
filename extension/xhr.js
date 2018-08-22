@@ -1,3 +1,5 @@
+import translate from './translate'
+
 // The following code are inspired by viramate/external.js
 // intercept xhr request and modify the response
 const XHR = XMLHttpRequest
@@ -14,8 +16,8 @@ function log (data) {
 function getXhrState(xhr) {
   let result = stateMap.get(xhr)
   if (!result) {
-      result = {}
-      stateMap.set(xhr, result)
+    result = {}
+    stateMap.set(xhr, result)
   }
   if (!result.readyStateListeners) {
     result.readyStateListeners = []
@@ -27,18 +29,27 @@ function getXhrState(xhr) {
   return result
 }
 
-const translation = async function (state) {
-  console.log(state)
-  return new Promise(rev => {
-    setTimeout(rev, 3000)
-  })
-}
 
-const customOnLoad = function (evt) {
+
+const customOnLoad = async function (evt) {
   let state
   try {
     state = getXhrState(this)
     state.onLoadEvent = evt
+    Object.defineProperties(this, {
+      response: {
+        get () {
+          return state.result
+        }
+      },
+      responseText: {
+        get () {
+          return state.result
+        }
+      }
+    })
+    await translate(state)
+    state.onload && state.onload.call(this, state.onLoadEvent)
   } catch (err) {
     log(err)
   }
@@ -50,8 +61,6 @@ const customOnReadyStateChange = async function () {
     state = getXhrState(this)
     if (this.readyState == XHR.DONE) {
       state.onComplete.call(this, state)
-      await translation(state)
-      state.onload && state.onload.call(this, state.onLoadEvent)
     }
   } catch (err) {
     log(err)

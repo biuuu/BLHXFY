@@ -105,7 +105,7 @@ gulp.task('md5', ['pack'], function (done) {
   md5File('./dist/blhxfy/data.zip', (err, hash) => {
     if (err) throw err
     fs.copy('./dist/blhxfy/data.zip', `./dist/blhxfy/data.${hash.slice(0,5)}.zip`, () => {
-      fs.writeJson('./dist/blhxfy/manifest.json', { packname: `data.${hash.slice(0,5)}.zip` }, () => {
+      fs.writeJson('./dist/blhxfy/manifest.json', { packname: `data.${hash.slice(0,5)}.zip`, hash }, () => {
         fs.remove('./dist/blhxfy/data.zip', done)
       })
     })
