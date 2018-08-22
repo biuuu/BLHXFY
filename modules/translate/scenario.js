@@ -41,7 +41,7 @@ const getNameTrans = (name, map, scenarioName) => {
 }
 
 const replaceChar = (key, item, map, scenarioName) => {
-  const name = item[key]
+  const name = item[key] ? item[key].trim() : null
   if (name && name !== 'null' && name !== '???' && name !== '？？？') {
     let trans = getNameTrans(name, map, scenarioName)
     let _name = name
