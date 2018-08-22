@@ -15,9 +15,10 @@ const saveNames = async (names, lang) => {
   }
   const nameList = list.map(item => item.name)
   names.forEach(name => {
-    if (!nameList.includes(name)) {
+    const _name = name.trim()
+    if (!nameList.includes(_name)) {
       list.push({
-        name,
+        name: _name,
         trans: ''
       })
     }
