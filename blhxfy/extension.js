@@ -344,7 +344,7 @@
     return store[key] || (store[key] = value !== undefined ? value : {});
   })('versions', []).push({
     version: _core.version,
-    mode: _library ? 'pure' : 'global',
+    mode: 'global',
     copyright: '© 2018 Denis Pushkarev (zloirock.ru)'
   });
   });
@@ -2942,9 +2942,14 @@
   var ee = new events();
   var origin = 'https://blhx.danmu9.com';
   var iframe = document.createElement('iframe');
-  iframe.src = "".concat(origin, "/lecia.html");
+  iframe.src = "".concat(origin, "/blhxfy/lecia.html");
   iframe.style.display = 'none';
   document.body.appendChild(iframe);
+  var link = document.createElement('link');
+  link.type = 'text/css';
+  link.rel = 'stylesheet';
+  link.href = "".concat(origin, "/blhxfy/data/static/style/BLHXFY.css");
+  document.head.appendChild(link);
   var lecia = iframe.contentWindow;
   var load = new Promise(function (rev) {
     ee.once('loaded', rev);
