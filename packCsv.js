@@ -80,7 +80,7 @@ gulp.task('move:html', ['clean:dist'], function () {
 
 gulp.task('move:lecia', ['clean:dist'], function () {
   return gulp.src('./extension/lecia.html')
-    .pipe(gulp.dest('./dist/'))
+    .pipe(gulp.dest('./dist/blhxfy/'))
 })
 
 gulp.task('move:scenario', ['clean:dist'], function () {
@@ -151,7 +151,7 @@ gulp.task('extension', ['clean:dist'], async function () {
   })
 
   await bundle.write({
-    file: './dist/extension.js',
+    file: './dist/blhxfy/extension.js',
     format: 'umd',
     name: 'blhxfy',
   })
@@ -168,5 +168,5 @@ gulp.task('default', [
   'skillMap',
   'clean:dist',
   'cname',
-
+  'publish'
 ])

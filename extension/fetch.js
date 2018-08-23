@@ -4,9 +4,15 @@ var ee = new EventEmitter()
 const origin = 'https://blhx.danmu9.com'
 
 const iframe = document.createElement('iframe')
-iframe.src = `${origin}/lecia.html`
+iframe.src = `${origin}/blhxfy/lecia.html`
 iframe.style.display = 'none'
 document.body.appendChild(iframe)
+
+const link = document.createElement('link')
+link.type = 'text/css'
+link.rel = 'stylesheet'
+link.href = `${origin}/blhxfy/data/static/style/BLHXFY.css`
+document.head.appendChild(link)
 
 const lecia = iframe.contentWindow
 
