@@ -8,7 +8,11 @@ const ghpages = require('gh-pages')
 const { writeFile } = require('./utils/')
 const CONFIG = require('./config')
 const zip = require('gulp-zip')
-
+const rollup = require('rollup')
+const babel = require('rollup-plugin-babel')
+const nodeBti = require('rollup-plugin-node-builtins')
+const cmjs = require('rollup-plugin-commonjs')
+const resolve = require('rollup-plugin-node-resolve')
 const through = require('through2')
 
 const scenarioMap = {}
@@ -17,11 +21,11 @@ const skillMap = {}
 const collectCsv = function(type) {
   return through.obj(function(file, encoding, callback) {
     if (file.isNull()) {
-        return callback(null, file);
+        return callback(null, file)
     }
 
     if (file.isStream()) {
-        this.emit('error', new PluginError(PLUGIN_NAME, 'Streams not supported!'));
+        this.emit('error', new PluginError(PLUGIN_NAME, 'Streams not supported!'))
     } else if (file.isBuffer()) {
         const str = file.contents.toString()
         const list = CSV.parse(str.replace(/^\ufeff/, ''), { header: true }).data
@@ -74,6 +78,11 @@ gulp.task('move:html', ['clean:dist'], function () {
     .pipe(gulp.dest('./dist/blhxfy/data/'))
 })
 
+gulp.task('move:lecia', ['clean:dist'], function () {
+  return gulp.src('./extension/lecia.html')
+    .pipe(gulp.dest('./dist/'))
+})
+
 gulp.task('move:scenario', ['clean:dist'], function () {
   return gulp.src('./data/scenario/**/*.csv')
     .pipe(collectCsv('scenario'))
@@ -94,7 +103,7 @@ gulp.task('skillMap', ['move:skill'], function (done) {
   fs.writeJson('./dist/blhxfy/data/skill.json', skillMap, done)
 })
 
-gulp.task('pack', ['move:static', 'move:html', 'move:normalcsv', 'move:scenario', 'scenarioMap', 'cname'], function () {
+gulp.task('pack', ['move:static', 'move:lecia', 'move:html', 'extension', 'move:normalcsv', 'move:scenario', 'scenarioMap', 'cname'], function () {
   // asar.createPackage('./dist/blhxfy/data/', './dist/blhxfy/data.asar', done)
   return gulp.src('dist/blhxfy/data/**/*')
     .pipe(zip('data.zip'))
@@ -124,4 +133,40 @@ gulp.task('publish', ['md5'], function (done) {
   })
 })
 
-gulp.task('default', ['move:static', 'move:normalcsv', 'move:scenario', 'move:skill', 'md5', 'pack', 'scenarioMap', 'skillMap', 'clean:dist', 'publish', 'cname']);
+gulp.task('extension', ['clean:dist'], async function () {
+  const bundle = await rollup.rollup({
+    input: './extension/xhr.js',
+    plugins: [
+      resolve({ preferBuiltins: false }),
+      cmjs(),
+      babel({
+        exclude: 'node_modules/**',
+        presets: [['@babel/preset-env', {
+          modules: false,
+          useBuiltIns: 'usage'
+        }]]
+      }),
+
+    ]
+  })
+
+  await bundle.write({
+    file: './dist/extension.js',
+    format: 'umd',
+    name: 'blhxfy',
+  })
+})
+
+gulp.task('default', [
+  'move:static',
+  'move:normalcsv',
+  'move:scenario',
+  'move:skill',
+  'md5',
+  'pack',
+  'scenarioMap',
+  'skillMap',
+  'clean:dist',
+  'cname',
+
+])

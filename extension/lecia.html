@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Your fairy tale</title>
+  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+  <script>
+    var gbfHost = ['game.granbluefantasy.jp', 'gbf.game.mbga.jp']
+    function receiveMessage (event) {
+      var originHost = event.origin.replace(/^https?:\/\//, '')
+      if (gbfHost.indexOf(originHost) === -1) return
+      if (event.data && event.data.type === 'fetch' && event.data.url) {
+        axios.get(event.data.url)
+        .then(function (response) {
+          event.source.postMessage({
+            type: 'response',
+            flag: event.data.flag,
+            data: response.data
+          }, event.origin)
+        }).catch(function (err) {
+          event.source.postMessage({
+            type: 'response',
+            flag: event.data.flag,
+            error: err
+          }, event.origin)
+        })
+      }
+    }
+    window.addEventListener("message", receiveMessage, false)
+    window.addEventListener("load", function () {
+      window.parent && window.parent.postMessage({
+        type: 'loaded'
+      }, '*')
+    }, false)
+  </script>
+</head>
+<body>
+</body>
+</html>
