@@ -16,8 +16,8 @@ const config = {
   // 游戏的主要数据接口
   apiHostNames: ['game.granbluefantasy.jp', 'gbf.game.mbga.jp'],
   staticHostNames: [
-    'game-a.granbluefantasy.jp', 'game-a1.granbluefantasy.jp', 'game-a2.granbluefantasy.jp', 'game-a3.granbluefantasy.jp',
-    'gbf.game-a.mbga.jp', 'gbf.game-a1.mbga.jp', 'gbf.game-a2.mbga.jp', 'gbf.game-a3.mbga.jp'
+    'game-a.granbluefantasy.jp', 'game-a1.granbluefantasy.jp', 'game-a2.granbluefantasy.jp', 'game-a3.granbluefantasy.jp', 'game-a4.granbluefantasy.jp', 'game-a5.granbluefantasy.jp',
+    'gbf.game-a.mbga.jp', 'gbf.game-a1.mbga.jp', 'gbf.game-a2.mbga.jp', 'gbf.game-a3.mbga.jp', 'gbf.game-a4.mbga.jp', 'gbf.game-a5.mbga.jp'
   ],
   csvHost: "blhx.danmu9.com",
   // 是否启用剧情翻译
@@ -70,6 +70,9 @@ const config = {
 
 const getLocalConfig = () => {
   const localConfig = fs.readJsonSync(LOCAL_CONFIG_PATH, { throws: false })
+  if (localConfig && localConfig.staticHostNames && !localConfig.staticHostNames.includes('game-a5.granbluefantasy.jp')) {
+    localConfig.staticHostNames = config.staticHostNames
+  }
   Object.assign(config, localConfig)
   if (config.lang === 'auto') {
     config.lang = app && (app.getLocale() === 'zh-TW') ? 'hant' : 'hans'
