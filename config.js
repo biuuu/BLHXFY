@@ -70,6 +70,9 @@ const config = {
 
 const getLocalConfig = () => {
   const localConfig = fs.readJsonSync(LOCAL_CONFIG_PATH, { throws: false })
+  if (localConfig && localConfig.staticHostNames && !localConfig.staticHostNames.includes('game-a5.granbluefantasy.jp')) {
+    localConfig.staticHostNames = config.staticHostNames
+  }
   Object.assign(config, localConfig)
   if (config.lang === 'auto') {
     config.lang = app && (app.getLocale() === 'zh-TW') ? 'hant' : 'hans'
