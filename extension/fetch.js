@@ -1,7 +1,7 @@
 import EventEmitter  from 'events'
+import { origin } from './config'
 
 var ee = new EventEmitter()
-const origin = 'https://blhx.danmu9.com'
 
 const iframe = document.createElement('iframe')
 iframe.src = `${origin}/blhxfy/lecia.html`
@@ -33,10 +33,17 @@ const fetch = async (pathname) => {
       if (data.err) {
         rej(err)
       } else {
-        rev(data)
+        rev(data.data)
       }
     })
   })
+}
+
+const getHash = fetch('/blhxfy/manifest.json')
+
+const fetchWithHash = async (pathname) => {
+  const { hash } = await getHash
+  return fetch(`${pathname}?lecia=${hash}`)
 }
 
 const receiveMessage = (event) => {
@@ -52,4 +59,4 @@ const receiveMessage = (event) => {
 
 window.addEventListener("message", receiveMessage, false)
 
-export default fetch
+export default fetchWithHash
