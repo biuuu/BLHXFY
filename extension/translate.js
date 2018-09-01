@@ -1,4 +1,3 @@
-import fetch from './fetch'
 import URI from 'urijs'
 import transScenario from './modules/scenario'
 
@@ -15,10 +14,11 @@ export default async function translate(state) {
   } catch (err) {
     isJSON = false
   }
-  console.log(pathname, hostname, hash)
   if (apiHosts.indexOf(hostname) === -1) return
   if (pathname.includes('scenario')) {
-    result = transScenario(data)
+    data = await transScenario(data, pathname)
+  } else {
+    return
   }
-  state.result = isJSON ? JSON.stringify(result) : result
+  state.result = isJSON ? JSON.stringify(data) : data
 }

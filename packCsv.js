@@ -133,18 +133,19 @@ gulp.task('publish', ['md5'], function (done) {
   })
 })
 
+const extensionVer = '0.1'
 const extensionBanner = `// ==UserScript==
 // @name         碧蓝幻想翻译
 // @namespace    https://github.com/biuuu/BLHXFY
-// @version      0.0.1
+// @version      ${extensionVer}
 // @description  碧蓝幻想的汉化脚本，提交新翻译请到 https://github.com/biuuu/BLHXFY
 // @icon         http://game.granbluefantasy.jp/favicon.ico
 // @author       biuuu
 // @match        *://game.granbluefantasy.jp/
 // @match        *://gbf.game.mbga.jp/
-// @run-at       document-start
+// @run-at       document-body
 // @grant        none
-// @updateURL    https://blhx.danmu9.com/blhxfy/extension.js
+// @updateURL    https://blhx.danmu9.com/blhxfy/extension.user.js
 // @supportURL   https://github.com/biuuu/BLHXFY/issues
 // ==/UserScript==`
 gulp.task('extension', ['clean:dist', 'extensionEx'], async function () {
@@ -164,7 +165,7 @@ gulp.task('extension', ['clean:dist', 'extensionEx'], async function () {
   })
 
   await bundle.write({
-    file: './dist/blhxfy/extension.js',
+    file: './dist/blhxfy/extension.user.js',
     format: 'umd',
     name: 'blhxfy',
     banner: extensionBanner
@@ -174,15 +175,15 @@ gulp.task('extension', ['clean:dist', 'extensionEx'], async function () {
 const extensionBanner2 = `// ==UserScript==
 // @name         碧蓝幻想翻译兼容版
 // @namespace    https://github.com/biuuu/BLHXFY
-// @version      0.0.1
+// @version      ${extensionVer}
 // @description  碧蓝幻想的汉化脚本，提交新翻译请到 https://github.com/biuuu/BLHXFY
 // @icon         http://game.granbluefantasy.jp/favicon.ico
 // @author       biuuu
 // @match        *://game.granbluefantasy.jp/
 // @match        *://gbf.game.mbga.jp/
-// @run-at       document-start
+// @run-at       document-body
 // @grant        none
-// @updateURL    https://blhx.danmu9.com/blhxfy/extension.es5.js
+// @updateURL    https://blhx.danmu9.com/blhxfy/extension.es5.user.js
 // @supportURL   https://github.com/biuuu/BLHXFY/issues
 // ==/UserScript==`
 
@@ -203,7 +204,7 @@ gulp.task('extensionEx', ['clean:dist'], async function () {
   })
 
   await bundle.write({
-    file: './dist/blhxfy/extension.es5.js',
+    file: './dist/blhxfy/extension.es5.user.js',
     format: 'umd',
     name: 'blhxfy',
     banner: extensionBanner2

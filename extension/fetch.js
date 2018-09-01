@@ -1,6 +1,7 @@
 import EventEmitter  from 'events'
-import { origin } from './config'
+import config from './config'
 
+const { origin } = config
 var ee = new EventEmitter()
 
 const iframe = document.createElement('iframe')
@@ -20,7 +21,7 @@ const load = new Promise(rev => {
   ee.once('loaded', rev)
 })
 
-const fetch = async (pathname) => {
+const fetchData = async (pathname) => {
   await load
   const url = pathname
   const flag = Math.random()
@@ -39,11 +40,15 @@ const fetch = async (pathname) => {
   })
 }
 
-const getHash = fetch('/blhxfy/manifest.json')
+const getHash = fetchData('/blhxfy/manifest.json')
+  .then(data => {
+    config.hash = data.hash
+    return data.hash
+  })
 
 const fetchWithHash = async (pathname) => {
-  const { hash } = await getHash
-  return fetch(`${pathname}?lecia=${hash}`)
+  const hash = await getHash
+  return fetchData(`${pathname}?lecia=${hash}`)
 }
 
 const receiveMessage = (event) => {

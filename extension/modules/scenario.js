@@ -1,4 +1,28 @@
+import getNameData from '../store/name-npc'
+import parseCsv from '../utils/parseCsv'
+import fetchData from '../fetch'
+
 const txtKeys = ['chapter_name', 'synopsis', 'detail', 'sel1_txt', 'sel2_txt', 'sel3_txt', 'sel4_txt']
+
+const getScenario = async (name) => {
+  const scenarioData = await fetchData('/blhxfy/data/scenario.json')
+  const pathname = scenarioData[name]
+  if (!pathname) return false
+  const data = await fetchData(`/blhxfy/data/scenario/${pathname}`)
+  const list = parseCsv(data)
+  const transMap = new Map()
+  list.forEach(item => {
+    if (item.id) {
+      const idArr = item.id.split('-')
+      const id = idArr[0]
+      const type = idArr[1] || 'detail'
+      const obj = transMap.get(id) || {}
+      obj[type] = item.trans
+      transMap.set(id, obj)
+    }
+  })
+  return transMap
+}
 
 const getNameTrans = (name, map, scenarioName) => {
   const item = map.get(name)
@@ -57,9 +81,11 @@ const transStart = async (data, pathname) => {
   if (!pathRst || !pathRst[1]) return data
   const scenarioName = pathRst[1]
   const userName = '123'
+  const nameData = await getNameData()
   const nameMap = Game.lang !== 'jp' ? nameData['enNameMap'] : nameData['jpNameMap']
 
-  let transMap = new Map()
+  const transMap = await getScenario(scenarioName)
+  if (!transMap) return data
 
   data.forEach((item, index) => {
     let name1, name2, name3
