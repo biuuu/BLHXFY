@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         碧蓝幻想翻译兼容版
 // @namespace    https://github.com/biuuu/BLHXFY
-// @version      0.1
+// @version      0.2
 // @description  碧蓝幻想的汉化脚本，提交新翻译请到 https://github.com/biuuu/BLHXFY
 // @icon         http://game.granbluefantasy.jp/favicon.ico
 // @author       biuuu
@@ -9254,7 +9254,7 @@
 
             case 7:
               nameData = _context2.sent;
-              nameMap = Game.lang !== 'jp' ? nameData['enNameMap'] : nameData['jpNameMap'];
+              nameMap = Game.lang !== 'ja' ? nameData['enNameMap'] : nameData['jpNameMap'];
               _context2.next = 11;
               return getScenario(scenarioName);
 

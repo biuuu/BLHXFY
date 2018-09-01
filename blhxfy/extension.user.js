@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         碧蓝幻想翻译
 // @namespace    https://github.com/biuuu/BLHXFY
-// @version      0.1
+// @version      0.2
 // @description  碧蓝幻想的汉化脚本，提交新翻译请到 https://github.com/biuuu/BLHXFY
 // @icon         http://game.granbluefantasy.jp/favicon.ico
 // @author       biuuu
@@ -5820,7 +5820,7 @@
 	  if (!pathRst || !pathRst[1]) return data;
 	  const scenarioName = pathRst[1];
 	  const nameData = await getNameData();
-	  const nameMap = Game.lang !== 'jp' ? nameData['enNameMap'] : nameData['jpNameMap'];
+	  const nameMap = Game.lang !== 'ja' ? nameData['enNameMap'] : nameData['jpNameMap'];
 	  const transMap = await getScenario(scenarioName);
 	  if (!transMap) return data;
 	  data.forEach((item, index) => {
