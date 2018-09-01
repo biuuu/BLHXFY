@@ -133,7 +133,7 @@ gulp.task('publish', ['md5'], function (done) {
   })
 })
 
-const extensionVer = '0.1'
+const extensionVer = '0.2'
 const extensionBanner = `// ==UserScript==
 // @name         碧蓝幻想翻译
 // @namespace    https://github.com/biuuu/BLHXFY

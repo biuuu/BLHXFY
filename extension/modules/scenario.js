@@ -82,7 +82,7 @@ const transStart = async (data, pathname) => {
   const scenarioName = pathRst[1]
   const userName = '123'
   const nameData = await getNameData()
-  const nameMap = Game.lang !== 'jp' ? nameData['enNameMap'] : nameData['jpNameMap']
+  const nameMap = Game.lang !== 'ja' ? nameData['enNameMap'] : nameData['jpNameMap']
 
   const transMap = await getScenario(scenarioName)
   if (!transMap) return data
