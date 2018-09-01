@@ -1,0 +1,30 @@
+﻿id,en,jp,trans
+0-synopsis,,ある夜、ツッパって生きる若者達の集団、“烈弩宇威愚”は、とある乗り物に跨り、排気音を響かせながら田舎道を駆ける。しかしその行く手を塞ぐように、“宿命夜想曲”と呼ばれる集団が“烈弩宇威愚”を待ち構えていた。“烈弩宇威愚”の面々は怯むことなく、自分達の集会を邪魔する“宿命夜想曲”に挑みかかるのだった。,某夜，一群叛逆少年组成的团体“烈弩宇威愚” ，乘着一种轰响着排气声的交通工具在田间道路奔驰。然而，另一个名为“宿命夜想曲”的集团挡住了“烈弩宇威愚”的去路。但“烈弩宇威愚”的成员毫不畏惧，向“宿命夜想曲”发起挑战。
+6,,<span class='scene-font-katari'>──闇夜に一筋の光が走った。</span>,<span class='scene-font-katari'>——黑暗中，驰过一束光芒。</span>
+13,,<span class='scene-font-katari'>それを合図に幾重もの光束が</span><br><span class='scene-font-katari'>群れを成し、</span><br><span class='scene-font-katari'>周囲を煌々と照らし出す。</span>,<span class='scene-font-katari'>以此为信号，四周又亮起几重光束，成群结队地照亮了周遭的黑暗。</span>
+14,,<span class='scene-font-katari'>唸りをあげる排気音は、</span><br><span class='scene-font-katari'>まるで壮大な交響曲のように鳴り響き、</span><br><span class='scene-font-katari'>若者達の心を躍らせる。</span>,<span class='scene-font-katari'>低吼的排气声宛如壮大的交响曲，让少年们感到雀跃。</span>
+15,,<span class='scene-font-katari'>社会に対してツッパって生きる者達……</span>,<span class='scene-font-katari'>这群对社会产生叛逆的少年……</span>
+16,,<span class='scene-font-katari'>彼らは徒党を組み、</span><br><span class='scene-font-spword'>“烈弩宇威愚”（レッドウイング）</span><span class='scene-font-katari'>と</span><br><span class='scene-font-katari'>名乗っていた。</span>,<span class='scene-font-katari'>组成了帮派“烈弩宇威愚”（Red Wing）。</span>
+17,,<span class='scene-font-4'>お前ェら！</span><br><span class='scene-font-4'>出発すっぞおおッ！！</span><br><span class='scene-font-4'>気合入れてけええッ！！</span>,<span class='scene-font-4'>你们这些家伙！准备好了没！！都给我拿出点干劲啊！！</span>
+18,,<span class='scene-font-4'>うおおおおッ！！</span>,<span class='scene-font-4'>哦哦哦哦哦！！</span>
+19,,<span class='scene-font-4'>いーやっほおおっ！！</span><br>バリバリだぜええ！！,<span class='scene-font-4'>嘿呀——！！</span>状态好着呢！！
+20,,ど、どうしたんスか、<br>タイガくぅん？<br>ムリくりなテンションッスけどォ……？,怎、怎么了，大河君？你好像有点勉强……？
+21,,リンタロウ、<br>そっとしておいてやんなァ……,伦太郎，别问这么多了……
+22,,あッ！？　またフられたんスかッ！？<br>ハァ……<br>軟派なことばっかしてっから……,啊！？ 你又被甩了！？唉……谁让你总是优柔寡断的……
+23,,う、うう……アキナちゃ～ん！,呜、呜呜……明菜~！
+24,,か～ッ……ダッセェ……<br>やっぱ、硬派にいかなきゃダメッス！,啊~……太逊了……你得硬气一点啊！
+25,,ね、ツバサくぅん！！,你说呢，翼君！！
+26,,<span class='scene-font-4'>──って、うええッ！？</span><br>あ、あれ……なんスかね……？,<span class='scene-font-4'>——呃，咦咦！？</span>那、那是啥啊……？
+27,,あン？,啊？
+32,,<span class='scene-font-katari'>リンタロウが指差す先には、</span><br><span class='scene-font-katari'>田舎道を塞いだ幾つもの灯りが</span><br><span class='scene-font-katari'>野獣の目の如く鈍く光っている。</span>,<span class='scene-font-katari'>伦太郎所指的方向，有几点灯光挡在田间道路中央，如野兽的眼睛一般散发出混沌的光芒。</span>
+33,,<span class='scene-font-katari'>それらが虎視眈々と</span><br><span class='scene-font-katari'>“烈弩宇威愚”を狙っているのは</span><br><span class='scene-font-katari'>誰の目にも明らかだった。</span>,<span class='scene-font-katari'>在场的人都知道，有谁会这样虎视眈眈地盯上“烈弩宇威愚”。</span>
+34,,あァ！？　あれ、<span class='scene-font-spword'>“宿命夜想曲”</span><br><span class='scene-font-spword'>（デスティニーノクターン）</span>ッス！！<br>解散したって聞いてたんスけど……,啊啊！？那不是<span class='scene-font-spword'>“宿命夜想曲”</span>嘛！！可我听说他们解散了……
+35,,へッ、どこの誰だろうと、<br>オレらの集会を邪魔する奴ァ……,哼，不管是何方神圣，敢妨碍我们的集会……
+36,,<span class='scene-font-4'>ぶっ潰す！！</span>,<span class='scene-font-4'>就把他们击溃！！</span>
+37,,ぎゃははっ！<br>憂さ晴らしにはもってこいだべ！,啊哈哈！刚好让我发泄一下情绪！
+38,,おうよッ！<br>やってやるぜええッ！！,就是！谁怕谁啊！
+39,,<span class='scene-font-katari'>彼らは夜を無軌道に駆け抜ける。</span><br><span class='scene-font-katari'>その目的は花々の色のように様々だ。</span>,<span class='scene-font-katari'>他们在夜色中尽情地奔驰，每个人的目的亦各尽不同。</span>
+40,,<span class='scene-font-katari'>心を躍らせる為に。</span><br><span class='scene-font-katari'>鬱憤を晴らす為に。</span>,<span class='scene-font-katari'>有人寻求刺激。有人排遣郁愤。</span>
+41,,<span class='scene-font-katari'>はたまた、</span><br><span class='scene-font-katari'>己の小さな世界をぶち破る為に。</span>,<span class='scene-font-katari'>有人想要打破自己狭小的世界。</span>
+42,,<span class='scene-font-katari'>“蒼空の向こう側”を目指して──</span>,<span class='scene-font-katari'>飞驰向苍穹的彼方——</span>
+info,,1,scene_evt180831_cp0_q1_s10
