@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         碧蓝幻想翻译兼容版
 // @namespace    https://github.com/biuuu/BLHXFY
-// @version      0.0.1
+// @version      0.1
 // @description  碧蓝幻想的汉化脚本，提交新翻译请到 https://github.com/biuuu/BLHXFY
 // @icon         http://game.granbluefantasy.jp/favicon.ico
 // @author       biuuu
 // @match        *://game.granbluefantasy.jp/
 // @match        *://gbf.game.mbga.jp/
-// @run-at       document-start
+// @run-at       document-body
 // @grant        none
 // @updateURL    https://blhx.danmu9.com/blhxfy/extension.es5.user.js
 // @supportURL   https://github.com/biuuu/BLHXFY/issues
@@ -1178,8 +1178,19 @@
     };
   }
 
-  function _readOnlyError(name) {
-    throw new Error("\"" + name + "\" is read-only");
+  function _defineProperty(obj, key, value) {
+    if (key in obj) {
+      Object.defineProperty(obj, key, {
+        value: value,
+        enumerable: true,
+        configurable: true,
+        writable: true
+      });
+    } else {
+      obj[key] = value;
+    }
+
+    return obj;
   }
 
   var _wks = createCommonjsModule(function (module) {
@@ -2100,1057 +2111,6 @@
         : $indexOf(this, searchElement, arguments[1]);
     }
   });
-
-  // 7.3.20 SpeciesConstructor(O, defaultConstructor)
-
-
-  var SPECIES$1 = _wks('species');
-  var _speciesConstructor = function (O, D) {
-    var C = _anObject(O).constructor;
-    var S;
-    return C === undefined || (S = _anObject(C)[SPECIES$1]) == undefined ? D : _aFunction(S);
-  };
-
-  // fast apply, http://jsperf.lnkit.com/fast-apply/5
-  var _invoke = function (fn, args, that) {
-    var un = that === undefined;
-    switch (args.length) {
-      case 0: return un ? fn()
-                        : fn.call(that);
-      case 1: return un ? fn(args[0])
-                        : fn.call(that, args[0]);
-      case 2: return un ? fn(args[0], args[1])
-                        : fn.call(that, args[0], args[1]);
-      case 3: return un ? fn(args[0], args[1], args[2])
-                        : fn.call(that, args[0], args[1], args[2]);
-      case 4: return un ? fn(args[0], args[1], args[2], args[3])
-                        : fn.call(that, args[0], args[1], args[2], args[3]);
-    } return fn.apply(that, args);
-  };
-
-  var process = _global.process;
-  var setTask = _global.setImmediate;
-  var clearTask = _global.clearImmediate;
-  var MessageChannel = _global.MessageChannel;
-  var Dispatch = _global.Dispatch;
-  var counter = 0;
-  var queue = {};
-  var ONREADYSTATECHANGE = 'onreadystatechange';
-  var defer, channel, port;
-  var run = function () {
-    var id = +this;
-    // eslint-disable-next-line no-prototype-builtins
-    if (queue.hasOwnProperty(id)) {
-      var fn = queue[id];
-      delete queue[id];
-      fn();
-    }
-  };
-  var listener = function (event) {
-    run.call(event.data);
-  };
-  // Node.js 0.9+ & IE10+ has setImmediate, otherwise:
-  if (!setTask || !clearTask) {
-    setTask = function setImmediate(fn) {
-      var args = [];
-      var i = 1;
-      while (arguments.length > i) args.push(arguments[i++]);
-      queue[++counter] = function () {
-        // eslint-disable-next-line no-new-func
-        _invoke(typeof fn == 'function' ? fn : Function(fn), args);
-      };
-      defer(counter);
-      return counter;
-    };
-    clearTask = function clearImmediate(id) {
-      delete queue[id];
-    };
-    // Node.js 0.8-
-    if (_cof(process) == 'process') {
-      defer = function (id) {
-        process.nextTick(_ctx(run, id, 1));
-      };
-    // Sphere (JS game engine) Dispatch API
-    } else if (Dispatch && Dispatch.now) {
-      defer = function (id) {
-        Dispatch.now(_ctx(run, id, 1));
-      };
-    // Browsers with MessageChannel, includes WebWorkers
-    } else if (MessageChannel) {
-      channel = new MessageChannel();
-      port = channel.port2;
-      channel.port1.onmessage = listener;
-      defer = _ctx(port.postMessage, port, 1);
-    // Browsers with postMessage, skip WebWorkers
-    // IE8 has postMessage, but it's sync & typeof its postMessage is 'object'
-    } else if (_global.addEventListener && typeof postMessage == 'function' && !_global.importScripts) {
-      defer = function (id) {
-        _global.postMessage(id + '', '*');
-      };
-      _global.addEventListener('message', listener, false);
-    // IE8-
-    } else if (ONREADYSTATECHANGE in _domCreate('script')) {
-      defer = function (id) {
-        _html.appendChild(_domCreate('script'))[ONREADYSTATECHANGE] = function () {
-          _html.removeChild(this);
-          run.call(id);
-        };
-      };
-    // Rest old browsers
-    } else {
-      defer = function (id) {
-        setTimeout(_ctx(run, id, 1), 0);
-      };
-    }
-  }
-  var _task = {
-    set: setTask,
-    clear: clearTask
-  };
-
-  var macrotask = _task.set;
-  var Observer = _global.MutationObserver || _global.WebKitMutationObserver;
-  var process$1 = _global.process;
-  var Promise$1 = _global.Promise;
-  var isNode = _cof(process$1) == 'process';
-
-  var _microtask = function () {
-    var head, last, notify;
-
-    var flush = function () {
-      var parent, fn;
-      if (isNode && (parent = process$1.domain)) parent.exit();
-      while (head) {
-        fn = head.fn;
-        head = head.next;
-        try {
-          fn();
-        } catch (e) {
-          if (head) notify();
-          else last = undefined;
-          throw e;
-        }
-      } last = undefined;
-      if (parent) parent.enter();
-    };
-
-    // Node.js
-    if (isNode) {
-      notify = function () {
-        process$1.nextTick(flush);
-      };
-    // browsers with MutationObserver, except iOS Safari - https://github.com/zloirock/core-js/issues/339
-    } else if (Observer && !(_global.navigator && _global.navigator.standalone)) {
-      var toggle = true;
-      var node = document.createTextNode('');
-      new Observer(flush).observe(node, { characterData: true }); // eslint-disable-line no-new
-      notify = function () {
-        node.data = toggle = !toggle;
-      };
-    // environments with maybe non-completely correct, but existent Promise
-    } else if (Promise$1 && Promise$1.resolve) {
-      // Promise.resolve without an argument throws an error in LG WebOS 2
-      var promise = Promise$1.resolve(undefined);
-      notify = function () {
-        promise.then(flush);
-      };
-    // for other environments - macrotask based on:
-    // - setImmediate
-    // - MessageChannel
-    // - window.postMessag
-    // - onreadystatechange
-    // - setTimeout
-    } else {
-      notify = function () {
-        // strange IE + webpack dev server bug - use .call(global)
-        macrotask.call(_global, flush);
-      };
-    }
-
-    return function (fn) {
-      var task = { fn: fn, next: undefined };
-      if (last) last.next = task;
-      if (!head) {
-        head = task;
-        notify();
-      } last = task;
-    };
-  };
-
-  // 25.4.1.5 NewPromiseCapability(C)
-
-
-  function PromiseCapability(C) {
-    var resolve, reject;
-    this.promise = new C(function ($$resolve, $$reject) {
-      if (resolve !== undefined || reject !== undefined) throw TypeError('Bad Promise constructor');
-      resolve = $$resolve;
-      reject = $$reject;
-    });
-    this.resolve = _aFunction(resolve);
-    this.reject = _aFunction(reject);
-  }
-
-  var f$4 = function (C) {
-    return new PromiseCapability(C);
-  };
-
-  var _newPromiseCapability = {
-  	f: f$4
-  };
-
-  var _perform = function (exec) {
-    try {
-      return { e: false, v: exec() };
-    } catch (e) {
-      return { e: true, v: e };
-    }
-  };
-
-  var navigator = _global.navigator;
-
-  var _userAgent = navigator && navigator.userAgent || '';
-
-  var _promiseResolve = function (C, x) {
-    _anObject(C);
-    if (_isObject(x) && x.constructor === C) return x;
-    var promiseCapability = _newPromiseCapability.f(C);
-    var resolve = promiseCapability.resolve;
-    resolve(x);
-    return promiseCapability.promise;
-  };
-
-  var SPECIES$2 = _wks('species');
-
-  var _setSpecies = function (KEY) {
-    var C = _global[KEY];
-    if (_descriptors && C && !C[SPECIES$2]) _objectDp.f(C, SPECIES$2, {
-      configurable: true,
-      get: function () { return this; }
-    });
-  };
-
-  var task = _task.set;
-  var microtask = _microtask();
-
-
-
-
-  var PROMISE = 'Promise';
-  var TypeError$1 = _global.TypeError;
-  var process$2 = _global.process;
-  var versions = process$2 && process$2.versions;
-  var v8 = versions && versions.v8 || '';
-  var $Promise = _global[PROMISE];
-  var isNode$1 = _classof(process$2) == 'process';
-  var empty = function () { /* empty */ };
-  var Internal, newGenericPromiseCapability, OwnPromiseCapability, Wrapper;
-  var newPromiseCapability = newGenericPromiseCapability = _newPromiseCapability.f;
-
-  var USE_NATIVE = !!function () {
-    try {
-      // correct subclassing with @@species support
-      var promise = $Promise.resolve(1);
-      var FakePromise = (promise.constructor = {})[_wks('species')] = function (exec) {
-        exec(empty, empty);
-      };
-      // unhandled rejections tracking support, NodeJS Promise without it fails @@species test
-      return (isNode$1 || typeof PromiseRejectionEvent == 'function')
-        && promise.then(empty) instanceof FakePromise
-        // v8 6.6 (Node 10 and Chrome 66) have a bug with resolving custom thenables
-        // https://bugs.chromium.org/p/chromium/issues/detail?id=830565
-        // we can't detect it synchronously, so just check versions
-        && v8.indexOf('6.6') !== 0
-        && _userAgent.indexOf('Chrome/66') === -1;
-    } catch (e) { /* empty */ }
-  }();
-
-  // helpers
-  var isThenable = function (it) {
-    var then;
-    return _isObject(it) && typeof (then = it.then) == 'function' ? then : false;
-  };
-  var notify = function (promise, isReject) {
-    if (promise._n) return;
-    promise._n = true;
-    var chain = promise._c;
-    microtask(function () {
-      var value = promise._v;
-      var ok = promise._s == 1;
-      var i = 0;
-      var run = function (reaction) {
-        var handler = ok ? reaction.ok : reaction.fail;
-        var resolve = reaction.resolve;
-        var reject = reaction.reject;
-        var domain = reaction.domain;
-        var result, then, exited;
-        try {
-          if (handler) {
-            if (!ok) {
-              if (promise._h == 2) onHandleUnhandled(promise);
-              promise._h = 1;
-            }
-            if (handler === true) result = value;
-            else {
-              if (domain) domain.enter();
-              result = handler(value); // may throw
-              if (domain) {
-                domain.exit();
-                exited = true;
-              }
-            }
-            if (result === reaction.promise) {
-              reject(TypeError$1('Promise-chain cycle'));
-            } else if (then = isThenable(result)) {
-              then.call(result, resolve, reject);
-            } else resolve(result);
-          } else reject(value);
-        } catch (e) {
-          if (domain && !exited) domain.exit();
-          reject(e);
-        }
-      };
-      while (chain.length > i) run(chain[i++]); // variable length - can't use forEach
-      promise._c = [];
-      promise._n = false;
-      if (isReject && !promise._h) onUnhandled(promise);
-    });
-  };
-  var onUnhandled = function (promise) {
-    task.call(_global, function () {
-      var value = promise._v;
-      var unhandled = isUnhandled(promise);
-      var result, handler, console;
-      if (unhandled) {
-        result = _perform(function () {
-          if (isNode$1) {
-            process$2.emit('unhandledRejection', value, promise);
-          } else if (handler = _global.onunhandledrejection) {
-            handler({ promise: promise, reason: value });
-          } else if ((console = _global.console) && console.error) {
-            console.error('Unhandled promise rejection', value);
-          }
-        });
-        // Browsers should not trigger `rejectionHandled` event if it was handled here, NodeJS - should
-        promise._h = isNode$1 || isUnhandled(promise) ? 2 : 1;
-      } promise._a = undefined;
-      if (unhandled && result.e) throw result.v;
-    });
-  };
-  var isUnhandled = function (promise) {
-    return promise._h !== 1 && (promise._a || promise._c).length === 0;
-  };
-  var onHandleUnhandled = function (promise) {
-    task.call(_global, function () {
-      var handler;
-      if (isNode$1) {
-        process$2.emit('rejectionHandled', promise);
-      } else if (handler = _global.onrejectionhandled) {
-        handler({ promise: promise, reason: promise._v });
-      }
-    });
-  };
-  var $reject = function (value) {
-    var promise = this;
-    if (promise._d) return;
-    promise._d = true;
-    promise = promise._w || promise; // unwrap
-    promise._v = value;
-    promise._s = 2;
-    if (!promise._a) promise._a = promise._c.slice();
-    notify(promise, true);
-  };
-  var $resolve = function (value) {
-    var promise = this;
-    var then;
-    if (promise._d) return;
-    promise._d = true;
-    promise = promise._w || promise; // unwrap
-    try {
-      if (promise === value) throw TypeError$1("Promise can't be resolved itself");
-      if (then = isThenable(value)) {
-        microtask(function () {
-          var wrapper = { _w: promise, _d: false }; // wrap
-          try {
-            then.call(value, _ctx($resolve, wrapper, 1), _ctx($reject, wrapper, 1));
-          } catch (e) {
-            $reject.call(wrapper, e);
-          }
-        });
-      } else {
-        promise._v = value;
-        promise._s = 1;
-        notify(promise, false);
-      }
-    } catch (e) {
-      $reject.call({ _w: promise, _d: false }, e); // wrap
-    }
-  };
-
-  // constructor polyfill
-  if (!USE_NATIVE) {
-    // 25.4.3.1 Promise(executor)
-    $Promise = function Promise(executor) {
-      _anInstance(this, $Promise, PROMISE, '_h');
-      _aFunction(executor);
-      Internal.call(this);
-      try {
-        executor(_ctx($resolve, this, 1), _ctx($reject, this, 1));
-      } catch (err) {
-        $reject.call(this, err);
-      }
-    };
-    // eslint-disable-next-line no-unused-vars
-    Internal = function Promise(executor) {
-      this._c = [];             // <- awaiting reactions
-      this._a = undefined;      // <- checked in isUnhandled reactions
-      this._s = 0;              // <- state
-      this._d = false;          // <- done
-      this._v = undefined;      // <- value
-      this._h = 0;              // <- rejection state, 0 - default, 1 - handled, 2 - unhandled
-      this._n = false;          // <- notify
-    };
-    Internal.prototype = _redefineAll($Promise.prototype, {
-      // 25.4.5.3 Promise.prototype.then(onFulfilled, onRejected)
-      then: function then(onFulfilled, onRejected) {
-        var reaction = newPromiseCapability(_speciesConstructor(this, $Promise));
-        reaction.ok = typeof onFulfilled == 'function' ? onFulfilled : true;
-        reaction.fail = typeof onRejected == 'function' && onRejected;
-        reaction.domain = isNode$1 ? process$2.domain : undefined;
-        this._c.push(reaction);
-        if (this._a) this._a.push(reaction);
-        if (this._s) notify(this, false);
-        return reaction.promise;
-      },
-      // 25.4.5.1 Promise.prototype.catch(onRejected)
-      'catch': function (onRejected) {
-        return this.then(undefined, onRejected);
-      }
-    });
-    OwnPromiseCapability = function () {
-      var promise = new Internal();
-      this.promise = promise;
-      this.resolve = _ctx($resolve, promise, 1);
-      this.reject = _ctx($reject, promise, 1);
-    };
-    _newPromiseCapability.f = newPromiseCapability = function (C) {
-      return C === $Promise || C === Wrapper
-        ? new OwnPromiseCapability(C)
-        : newGenericPromiseCapability(C);
-    };
-  }
-
-  _export(_export.G + _export.W + _export.F * !USE_NATIVE, { Promise: $Promise });
-  _setToStringTag($Promise, PROMISE);
-  _setSpecies(PROMISE);
-  Wrapper = _core[PROMISE];
-
-  // statics
-  _export(_export.S + _export.F * !USE_NATIVE, PROMISE, {
-    // 25.4.4.5 Promise.reject(r)
-    reject: function reject(r) {
-      var capability = newPromiseCapability(this);
-      var $$reject = capability.reject;
-      $$reject(r);
-      return capability.promise;
-    }
-  });
-  _export(_export.S + _export.F * (_library || !USE_NATIVE), PROMISE, {
-    // 25.4.4.6 Promise.resolve(x)
-    resolve: function resolve(x) {
-      return _promiseResolve(_library && this === Wrapper ? $Promise : this, x);
-    }
-  });
-  _export(_export.S + _export.F * !(USE_NATIVE && _iterDetect(function (iter) {
-    $Promise.all(iter)['catch'](empty);
-  })), PROMISE, {
-    // 25.4.4.1 Promise.all(iterable)
-    all: function all(iterable) {
-      var C = this;
-      var capability = newPromiseCapability(C);
-      var resolve = capability.resolve;
-      var reject = capability.reject;
-      var result = _perform(function () {
-        var values = [];
-        var index = 0;
-        var remaining = 1;
-        _forOf(iterable, false, function (promise) {
-          var $index = index++;
-          var alreadyCalled = false;
-          values.push(undefined);
-          remaining++;
-          C.resolve(promise).then(function (value) {
-            if (alreadyCalled) return;
-            alreadyCalled = true;
-            values[$index] = value;
-            --remaining || resolve(values);
-          }, reject);
-        });
-        --remaining || resolve(values);
-      });
-      if (result.e) reject(result.v);
-      return capability.promise;
-    },
-    // 25.4.4.4 Promise.race(iterable)
-    race: function race(iterable) {
-      var C = this;
-      var capability = newPromiseCapability(C);
-      var reject = capability.reject;
-      var result = _perform(function () {
-        _forOf(iterable, false, function (promise) {
-          C.resolve(promise).then(capability.resolve, reject);
-        });
-      });
-      if (result.e) reject(result.v);
-      return capability.promise;
-    }
-  });
-
-  // Copyright Joyent, Inc. and other Node contributors.
-
-  var R = typeof Reflect === 'object' ? Reflect : null;
-  var ReflectApply = R && typeof R.apply === 'function'
-    ? R.apply
-    : function ReflectApply(target, receiver, args) {
-      return Function.prototype.apply.call(target, receiver, args);
-    };
-
-  var ReflectOwnKeys;
-  if (R && typeof R.ownKeys === 'function') {
-    ReflectOwnKeys = R.ownKeys;
-  } else if (Object.getOwnPropertySymbols) {
-    ReflectOwnKeys = function ReflectOwnKeys(target) {
-      return Object.getOwnPropertyNames(target)
-        .concat(Object.getOwnPropertySymbols(target));
-    };
-  } else {
-    ReflectOwnKeys = function ReflectOwnKeys(target) {
-      return Object.getOwnPropertyNames(target);
-    };
-  }
-
-  function ProcessEmitWarning(warning) {
-    if (console && console.warn) console.warn(warning);
-  }
-
-  var NumberIsNaN = Number.isNaN || function NumberIsNaN(value) {
-    return value !== value;
-  };
-
-  function EventEmitter() {
-    EventEmitter.init.call(this);
-  }
-  var events = EventEmitter;
-
-  // Backwards-compat with node 0.10.x
-  EventEmitter.EventEmitter = EventEmitter;
-
-  EventEmitter.prototype._events = undefined;
-  EventEmitter.prototype._eventsCount = 0;
-  EventEmitter.prototype._maxListeners = undefined;
-
-  // By default EventEmitters will print a warning if more than 10 listeners are
-  // added to it. This is a useful default which helps finding memory leaks.
-  var defaultMaxListeners = 10;
-
-  Object.defineProperty(EventEmitter, 'defaultMaxListeners', {
-    enumerable: true,
-    get: function() {
-      return defaultMaxListeners;
-    },
-    set: function(arg) {
-      if (typeof arg !== 'number' || arg < 0 || NumberIsNaN(arg)) {
-        throw new RangeError('The value of "defaultMaxListeners" is out of range. It must be a non-negative number. Received ' + arg + '.');
-      }
-      defaultMaxListeners = arg;
-    }
-  });
-
-  EventEmitter.init = function() {
-
-    if (this._events === undefined ||
-        this._events === Object.getPrototypeOf(this)._events) {
-      this._events = Object.create(null);
-      this._eventsCount = 0;
-    }
-
-    this._maxListeners = this._maxListeners || undefined;
-  };
-
-  // Obviously not all Emitters should be limited to 10. This function allows
-  // that to be increased. Set to zero for unlimited.
-  EventEmitter.prototype.setMaxListeners = function setMaxListeners(n) {
-    if (typeof n !== 'number' || n < 0 || NumberIsNaN(n)) {
-      throw new RangeError('The value of "n" is out of range. It must be a non-negative number. Received ' + n + '.');
-    }
-    this._maxListeners = n;
-    return this;
-  };
-
-  function $getMaxListeners(that) {
-    if (that._maxListeners === undefined)
-      return EventEmitter.defaultMaxListeners;
-    return that._maxListeners;
-  }
-
-  EventEmitter.prototype.getMaxListeners = function getMaxListeners() {
-    return $getMaxListeners(this);
-  };
-
-  EventEmitter.prototype.emit = function emit(type) {
-    var args = [];
-    for (var i = 1; i < arguments.length; i++) args.push(arguments[i]);
-    var doError = (type === 'error');
-
-    var events = this._events;
-    if (events !== undefined)
-      doError = (doError && events.error === undefined);
-    else if (!doError)
-      return false;
-
-    // If there is no 'error' event listener then throw.
-    if (doError) {
-      var er;
-      if (args.length > 0)
-        er = args[0];
-      if (er instanceof Error) {
-        // Note: The comments on the `throw` lines are intentional, they show
-        // up in Node's output if this results in an unhandled exception.
-        throw er; // Unhandled 'error' event
-      }
-      // At least give some kind of context to the user
-      var err = new Error('Unhandled error.' + (er ? ' (' + er.message + ')' : ''));
-      err.context = er;
-      throw err; // Unhandled 'error' event
-    }
-
-    var handler = events[type];
-
-    if (handler === undefined)
-      return false;
-
-    if (typeof handler === 'function') {
-      ReflectApply(handler, this, args);
-    } else {
-      var len = handler.length;
-      var listeners = arrayClone(handler, len);
-      for (var i = 0; i < len; ++i)
-        ReflectApply(listeners[i], this, args);
-    }
-
-    return true;
-  };
-
-  function _addListener(target, type, listener, prepend) {
-    var m;
-    var events;
-    var existing;
-
-    if (typeof listener !== 'function') {
-      throw new TypeError('The "listener" argument must be of type Function. Received type ' + typeof listener);
-    }
-
-    events = target._events;
-    if (events === undefined) {
-      events = target._events = Object.create(null);
-      target._eventsCount = 0;
-    } else {
-      // To avoid recursion in the case that type === "newListener"! Before
-      // adding it to the listeners, first emit "newListener".
-      if (events.newListener !== undefined) {
-        target.emit('newListener', type,
-                    listener.listener ? listener.listener : listener);
-
-        // Re-assign `events` because a newListener handler could have caused the
-        // this._events to be assigned to a new object
-        events = target._events;
-      }
-      existing = events[type];
-    }
-
-    if (existing === undefined) {
-      // Optimize the case of one listener. Don't need the extra array object.
-      existing = events[type] = listener;
-      ++target._eventsCount;
-    } else {
-      if (typeof existing === 'function') {
-        // Adding the second element, need to change to array.
-        existing = events[type] =
-          prepend ? [listener, existing] : [existing, listener];
-        // If we've already got an array, just append.
-      } else if (prepend) {
-        existing.unshift(listener);
-      } else {
-        existing.push(listener);
-      }
-
-      // Check for listener leak
-      m = $getMaxListeners(target);
-      if (m > 0 && existing.length > m && !existing.warned) {
-        existing.warned = true;
-        // No error code for this since it is a Warning
-        // eslint-disable-next-line no-restricted-syntax
-        var w = new Error('Possible EventEmitter memory leak detected. ' +
-                            existing.length + ' ' + String(type) + ' listeners ' +
-                            'added. Use emitter.setMaxListeners() to ' +
-                            'increase limit');
-        w.name = 'MaxListenersExceededWarning';
-        w.emitter = target;
-        w.type = type;
-        w.count = existing.length;
-        ProcessEmitWarning(w);
-      }
-    }
-
-    return target;
-  }
-
-  EventEmitter.prototype.addListener = function addListener(type, listener) {
-    return _addListener(this, type, listener, false);
-  };
-
-  EventEmitter.prototype.on = EventEmitter.prototype.addListener;
-
-  EventEmitter.prototype.prependListener =
-      function prependListener(type, listener) {
-        return _addListener(this, type, listener, true);
-      };
-
-  function onceWrapper() {
-    var args = [];
-    for (var i = 0; i < arguments.length; i++) args.push(arguments[i]);
-    if (!this.fired) {
-      this.target.removeListener(this.type, this.wrapFn);
-      this.fired = true;
-      ReflectApply(this.listener, this.target, args);
-    }
-  }
-
-  function _onceWrap(target, type, listener) {
-    var state = { fired: false, wrapFn: undefined, target: target, type: type, listener: listener };
-    var wrapped = onceWrapper.bind(state);
-    wrapped.listener = listener;
-    state.wrapFn = wrapped;
-    return wrapped;
-  }
-
-  EventEmitter.prototype.once = function once(type, listener) {
-    if (typeof listener !== 'function') {
-      throw new TypeError('The "listener" argument must be of type Function. Received type ' + typeof listener);
-    }
-    this.on(type, _onceWrap(this, type, listener));
-    return this;
-  };
-
-  EventEmitter.prototype.prependOnceListener =
-      function prependOnceListener(type, listener) {
-        if (typeof listener !== 'function') {
-          throw new TypeError('The "listener" argument must be of type Function. Received type ' + typeof listener);
-        }
-        this.prependListener(type, _onceWrap(this, type, listener));
-        return this;
-      };
-
-  // Emits a 'removeListener' event if and only if the listener was removed.
-  EventEmitter.prototype.removeListener =
-      function removeListener(type, listener) {
-        var list, events, position, i, originalListener;
-
-        if (typeof listener !== 'function') {
-          throw new TypeError('The "listener" argument must be of type Function. Received type ' + typeof listener);
-        }
-
-        events = this._events;
-        if (events === undefined)
-          return this;
-
-        list = events[type];
-        if (list === undefined)
-          return this;
-
-        if (list === listener || list.listener === listener) {
-          if (--this._eventsCount === 0)
-            this._events = Object.create(null);
-          else {
-            delete events[type];
-            if (events.removeListener)
-              this.emit('removeListener', type, list.listener || listener);
-          }
-        } else if (typeof list !== 'function') {
-          position = -1;
-
-          for (i = list.length - 1; i >= 0; i--) {
-            if (list[i] === listener || list[i].listener === listener) {
-              originalListener = list[i].listener;
-              position = i;
-              break;
-            }
-          }
-
-          if (position < 0)
-            return this;
-
-          if (position === 0)
-            list.shift();
-          else {
-            spliceOne(list, position);
-          }
-
-          if (list.length === 1)
-            events[type] = list[0];
-
-          if (events.removeListener !== undefined)
-            this.emit('removeListener', type, originalListener || listener);
-        }
-
-        return this;
-      };
-
-  EventEmitter.prototype.off = EventEmitter.prototype.removeListener;
-
-  EventEmitter.prototype.removeAllListeners =
-      function removeAllListeners(type) {
-        var listeners, events, i;
-
-        events = this._events;
-        if (events === undefined)
-          return this;
-
-        // not listening for removeListener, no need to emit
-        if (events.removeListener === undefined) {
-          if (arguments.length === 0) {
-            this._events = Object.create(null);
-            this._eventsCount = 0;
-          } else if (events[type] !== undefined) {
-            if (--this._eventsCount === 0)
-              this._events = Object.create(null);
-            else
-              delete events[type];
-          }
-          return this;
-        }
-
-        // emit removeListener for all listeners on all events
-        if (arguments.length === 0) {
-          var keys = Object.keys(events);
-          var key;
-          for (i = 0; i < keys.length; ++i) {
-            key = keys[i];
-            if (key === 'removeListener') continue;
-            this.removeAllListeners(key);
-          }
-          this.removeAllListeners('removeListener');
-          this._events = Object.create(null);
-          this._eventsCount = 0;
-          return this;
-        }
-
-        listeners = events[type];
-
-        if (typeof listeners === 'function') {
-          this.removeListener(type, listeners);
-        } else if (listeners !== undefined) {
-          // LIFO order
-          for (i = listeners.length - 1; i >= 0; i--) {
-            this.removeListener(type, listeners[i]);
-          }
-        }
-
-        return this;
-      };
-
-  function _listeners(target, type, unwrap) {
-    var events = target._events;
-
-    if (events === undefined)
-      return [];
-
-    var evlistener = events[type];
-    if (evlistener === undefined)
-      return [];
-
-    if (typeof evlistener === 'function')
-      return unwrap ? [evlistener.listener || evlistener] : [evlistener];
-
-    return unwrap ?
-      unwrapListeners(evlistener) : arrayClone(evlistener, evlistener.length);
-  }
-
-  EventEmitter.prototype.listeners = function listeners(type) {
-    return _listeners(this, type, true);
-  };
-
-  EventEmitter.prototype.rawListeners = function rawListeners(type) {
-    return _listeners(this, type, false);
-  };
-
-  EventEmitter.listenerCount = function(emitter, type) {
-    if (typeof emitter.listenerCount === 'function') {
-      return emitter.listenerCount(type);
-    } else {
-      return listenerCount.call(emitter, type);
-    }
-  };
-
-  EventEmitter.prototype.listenerCount = listenerCount;
-  function listenerCount(type) {
-    var events = this._events;
-
-    if (events !== undefined) {
-      var evlistener = events[type];
-
-      if (typeof evlistener === 'function') {
-        return 1;
-      } else if (evlistener !== undefined) {
-        return evlistener.length;
-      }
-    }
-
-    return 0;
-  }
-
-  EventEmitter.prototype.eventNames = function eventNames() {
-    return this._eventsCount > 0 ? ReflectOwnKeys(this._events) : [];
-  };
-
-  function arrayClone(arr, n) {
-    var copy = new Array(n);
-    for (var i = 0; i < n; ++i)
-      copy[i] = arr[i];
-    return copy;
-  }
-
-  function spliceOne(list, index) {
-    for (; index + 1 < list.length; index++)
-      list[index] = list[index + 1];
-    list.pop();
-  }
-
-  function unwrapListeners(arr) {
-    var ret = new Array(arr.length);
-    for (var i = 0; i < ret.length; ++i) {
-      ret[i] = arr[i].listener || arr[i];
-    }
-    return ret;
-  }
-
-  var config = {
-    origin: 'https://blhx.danmu9.com',
-    apiHosts: ['game.granbluefantasy.jp', 'gbf.game.mbga.jp'],
-    hash: ''
-  };
-
-  var origin = config.origin;
-  var ee = new events();
-  var iframe = document.createElement('iframe');
-  iframe.src = "".concat(origin, "/blhxfy/lecia.html");
-  iframe.style.display = 'none';
-  document.body.appendChild(iframe);
-  var link = document.createElement('link');
-  link.type = 'text/css';
-  link.rel = 'stylesheet';
-  link.href = "".concat(origin, "/blhxfy/data/static/style/BLHXFY.css");
-  document.head.appendChild(link);
-  var lecia = iframe.contentWindow;
-  var load = new Promise(function (rev) {
-    ee.once('loaded', rev);
-  });
-
-  var fetch$1 =
-  /*#__PURE__*/
-  function () {
-    var _ref = _asyncToGenerator(
-    /*#__PURE__*/
-    regeneratorRuntime.mark(function _callee(pathname) {
-      var url, flag;
-      return regeneratorRuntime.wrap(function _callee$(_context) {
-        while (1) {
-          switch (_context.prev = _context.next) {
-            case 0:
-              _context.next = 2;
-              return load;
-
-            case 2:
-              url = pathname;
-              flag = Math.random();
-              lecia.postMessage({
-                type: 'fetch',
-                url: url,
-                flag: flag
-              }, origin);
-              return _context.abrupt("return", new Promise(function (rev, rej) {
-                ee.once("response".concat(flag), function (data) {
-                  if (data.err) {
-                    rej(err);
-                  } else {
-                    rev(data.data);
-                  }
-                });
-              }));
-
-            case 6:
-            case "end":
-              return _context.stop();
-          }
-        }
-      }, _callee, this);
-    }));
-
-    return function fetch(_x) {
-      return _ref.apply(this, arguments);
-    };
-  }();
-
-  var getHash = fetch$1('/blhxfy/manifest.json').then(function (data) {
-    return config.hash = data.hash;
-  });
-
-  var fetchWithHash =
-  /*#__PURE__*/
-  function () {
-    var _ref2 = _asyncToGenerator(
-    /*#__PURE__*/
-    regeneratorRuntime.mark(function _callee2(pathname) {
-      var _ref3, hash;
-
-      return regeneratorRuntime.wrap(function _callee2$(_context2) {
-        while (1) {
-          switch (_context2.prev = _context2.next) {
-            case 0:
-              _context2.next = 2;
-              return getHash;
-
-            case 2:
-              _ref3 = _context2.sent;
-              hash = _ref3.hash;
-              return _context2.abrupt("return", fetch$1("".concat(pathname, "?lecia=").concat(hash)));
-
-            case 5:
-            case "end":
-              return _context2.stop();
-          }
-        }
-      }, _callee2, this);
-    }));
-
-    return function fetchWithHash(_x2) {
-      return _ref2.apply(this, arguments);
-    };
-  }();
-
-  var receiveMessage = function receiveMessage(event) {
-    if (event.origin !== origin) return;
-
-    if (event.data && event.data.type) {
-      if (event.data.type === 'response') {
-        ee.emit("response".concat(event.data.flag), event.data);
-      } else if (event.data.type === 'loaded') {
-        ee.emit('loaded');
-      }
-    }
-  };
-
-  window.addEventListener("message", receiveMessage, false);
 
   var punycode = createCommonjsModule(function (module, exports) {
   (function(root) {
@@ -6520,10 +5480,10 @@
     };
   });
 
-  var f$5 = _wks;
+  var f$4 = _wks;
 
   var _wksExt = {
-  	f: f$5
+  	f: f$4
   };
 
   var defineProperty = _objectDp.f;
@@ -6554,12 +5514,12 @@
 
   var hiddenKeys = _enumBugKeys.concat('length', 'prototype');
 
-  var f$6 = Object.getOwnPropertyNames || function getOwnPropertyNames(O) {
+  var f$5 = Object.getOwnPropertyNames || function getOwnPropertyNames(O) {
     return _objectKeysInternal(O, hiddenKeys);
   };
 
   var _objectGopn = {
-  	f: f$6
+  	f: f$5
   };
 
   // fallback for IE11 buggy Object.getOwnPropertyNames with iframe and window
@@ -6578,12 +5538,12 @@
     }
   };
 
-  var f$7 = function getOwnPropertyNames(it) {
+  var f$6 = function getOwnPropertyNames(it) {
     return windowNames && toString$1.call(it) == '[object Window]' ? getWindowNames(it) : gOPN(_toIobject(it));
   };
 
   var _objectGopnExt = {
-  	f: f$7
+  	f: f$6
   };
 
   // ECMAScript 6 symbols shim
@@ -6626,7 +5586,7 @@
   var AllSymbols = _shared('symbols');
   var OPSymbols = _shared('op-symbols');
   var ObjectProto$1 = Object[PROTOTYPE$2];
-  var USE_NATIVE$1 = typeof $Symbol == 'function';
+  var USE_NATIVE = typeof $Symbol == 'function';
   var QObject = _global.QObject;
   // Don't use setters in Qt Script, https://github.com/zloirock/core-js/issues/173
   var setter = !QObject || !QObject[PROTOTYPE$2] || !QObject[PROTOTYPE$2].findChild;
@@ -6649,7 +5609,7 @@
     return sym;
   };
 
-  var isSymbol = USE_NATIVE$1 && typeof $Symbol.iterator == 'symbol' ? function (it) {
+  var isSymbol = USE_NATIVE && typeof $Symbol.iterator == 'symbol' ? function (it) {
     return typeof it == 'symbol';
   } : function (it) {
     return it instanceof $Symbol;
@@ -6716,7 +5676,7 @@
   };
 
   // 19.4.1.1 Symbol([description])
-  if (!USE_NATIVE$1) {
+  if (!USE_NATIVE) {
     $Symbol = function Symbol() {
       if (this instanceof $Symbol) throw TypeError('Symbol is not a constructor!');
       var tag = _uid(arguments.length > 0 ? arguments[0] : undefined);
@@ -6747,7 +5707,7 @@
     };
   }
 
-  _export(_export.G + _export.W + _export.F * !USE_NATIVE$1, { Symbol: $Symbol });
+  _export(_export.G + _export.W + _export.F * !USE_NATIVE, { Symbol: $Symbol });
 
   for (var es6Symbols = (
     // 19.4.2.2, 19.4.2.3, 19.4.2.4, 19.4.2.6, 19.4.2.8, 19.4.2.9, 19.4.2.10, 19.4.2.11, 19.4.2.12, 19.4.2.13, 19.4.2.14
@@ -6756,7 +5716,7 @@
 
   for (var wellKnownSymbols = _objectKeys(_wks.store), k = 0; wellKnownSymbols.length > k;) _wksDefine(wellKnownSymbols[k++]);
 
-  _export(_export.S + _export.F * !USE_NATIVE$1, 'Symbol', {
+  _export(_export.S + _export.F * !USE_NATIVE, 'Symbol', {
     // 19.4.2.1 Symbol.for(key)
     'for': function (key) {
       return _has(SymbolRegistry, key += '')
@@ -6772,7 +5732,7 @@
     useSimple: function () { setter = false; }
   });
 
-  _export(_export.S + _export.F * !USE_NATIVE$1, 'Object', {
+  _export(_export.S + _export.F * !USE_NATIVE, 'Object', {
     // 19.1.2.2 Object.create(O [, Properties])
     create: $create,
     // 19.1.2.4 Object.defineProperty(O, P, Attributes)
@@ -6788,7 +5748,7 @@
   });
 
   // 24.3.2 JSON.stringify(value [, replacer [, space]])
-  $JSON && _export(_export.S + _export.F * (!USE_NATIVE$1 || _fails(function () {
+  $JSON && _export(_export.S + _export.F * (!USE_NATIVE || _fails(function () {
     var S = $Symbol();
     // MS Edge converts symbol values to JSON as {}
     // WebKit converts symbol values to JSON as null
@@ -6900,6 +5860,16 @@
       return $forEach(this, callbackfn, arguments[1]);
     }
   });
+
+  var SPECIES$1 = _wks('species');
+
+  var _setSpecies = function (KEY) {
+    var C = _global[KEY];
+    if (_descriptors && C && !C[SPECIES$1]) _objectDp.f(C, SPECIES$1, {
+      configurable: true,
+      get: function () { return this; }
+    });
+  };
 
   var dP$2 = _objectDp.f;
 
@@ -7079,7 +6049,1046 @@
     }
   });
 
-  var hash = config.hash;
+  // 7.3.20 SpeciesConstructor(O, defaultConstructor)
+
+
+  var SPECIES$2 = _wks('species');
+  var _speciesConstructor = function (O, D) {
+    var C = _anObject(O).constructor;
+    var S;
+    return C === undefined || (S = _anObject(C)[SPECIES$2]) == undefined ? D : _aFunction(S);
+  };
+
+  // fast apply, http://jsperf.lnkit.com/fast-apply/5
+  var _invoke = function (fn, args, that) {
+    var un = that === undefined;
+    switch (args.length) {
+      case 0: return un ? fn()
+                        : fn.call(that);
+      case 1: return un ? fn(args[0])
+                        : fn.call(that, args[0]);
+      case 2: return un ? fn(args[0], args[1])
+                        : fn.call(that, args[0], args[1]);
+      case 3: return un ? fn(args[0], args[1], args[2])
+                        : fn.call(that, args[0], args[1], args[2]);
+      case 4: return un ? fn(args[0], args[1], args[2], args[3])
+                        : fn.call(that, args[0], args[1], args[2], args[3]);
+    } return fn.apply(that, args);
+  };
+
+  var process = _global.process;
+  var setTask = _global.setImmediate;
+  var clearTask = _global.clearImmediate;
+  var MessageChannel = _global.MessageChannel;
+  var Dispatch = _global.Dispatch;
+  var counter = 0;
+  var queue = {};
+  var ONREADYSTATECHANGE = 'onreadystatechange';
+  var defer, channel, port;
+  var run = function () {
+    var id = +this;
+    // eslint-disable-next-line no-prototype-builtins
+    if (queue.hasOwnProperty(id)) {
+      var fn = queue[id];
+      delete queue[id];
+      fn();
+    }
+  };
+  var listener = function (event) {
+    run.call(event.data);
+  };
+  // Node.js 0.9+ & IE10+ has setImmediate, otherwise:
+  if (!setTask || !clearTask) {
+    setTask = function setImmediate(fn) {
+      var args = [];
+      var i = 1;
+      while (arguments.length > i) args.push(arguments[i++]);
+      queue[++counter] = function () {
+        // eslint-disable-next-line no-new-func
+        _invoke(typeof fn == 'function' ? fn : Function(fn), args);
+      };
+      defer(counter);
+      return counter;
+    };
+    clearTask = function clearImmediate(id) {
+      delete queue[id];
+    };
+    // Node.js 0.8-
+    if (_cof(process) == 'process') {
+      defer = function (id) {
+        process.nextTick(_ctx(run, id, 1));
+      };
+    // Sphere (JS game engine) Dispatch API
+    } else if (Dispatch && Dispatch.now) {
+      defer = function (id) {
+        Dispatch.now(_ctx(run, id, 1));
+      };
+    // Browsers with MessageChannel, includes WebWorkers
+    } else if (MessageChannel) {
+      channel = new MessageChannel();
+      port = channel.port2;
+      channel.port1.onmessage = listener;
+      defer = _ctx(port.postMessage, port, 1);
+    // Browsers with postMessage, skip WebWorkers
+    // IE8 has postMessage, but it's sync & typeof its postMessage is 'object'
+    } else if (_global.addEventListener && typeof postMessage == 'function' && !_global.importScripts) {
+      defer = function (id) {
+        _global.postMessage(id + '', '*');
+      };
+      _global.addEventListener('message', listener, false);
+    // IE8-
+    } else if (ONREADYSTATECHANGE in _domCreate('script')) {
+      defer = function (id) {
+        _html.appendChild(_domCreate('script'))[ONREADYSTATECHANGE] = function () {
+          _html.removeChild(this);
+          run.call(id);
+        };
+      };
+    // Rest old browsers
+    } else {
+      defer = function (id) {
+        setTimeout(_ctx(run, id, 1), 0);
+      };
+    }
+  }
+  var _task = {
+    set: setTask,
+    clear: clearTask
+  };
+
+  var macrotask = _task.set;
+  var Observer = _global.MutationObserver || _global.WebKitMutationObserver;
+  var process$1 = _global.process;
+  var Promise$1 = _global.Promise;
+  var isNode = _cof(process$1) == 'process';
+
+  var _microtask = function () {
+    var head, last, notify;
+
+    var flush = function () {
+      var parent, fn;
+      if (isNode && (parent = process$1.domain)) parent.exit();
+      while (head) {
+        fn = head.fn;
+        head = head.next;
+        try {
+          fn();
+        } catch (e) {
+          if (head) notify();
+          else last = undefined;
+          throw e;
+        }
+      } last = undefined;
+      if (parent) parent.enter();
+    };
+
+    // Node.js
+    if (isNode) {
+      notify = function () {
+        process$1.nextTick(flush);
+      };
+    // browsers with MutationObserver, except iOS Safari - https://github.com/zloirock/core-js/issues/339
+    } else if (Observer && !(_global.navigator && _global.navigator.standalone)) {
+      var toggle = true;
+      var node = document.createTextNode('');
+      new Observer(flush).observe(node, { characterData: true }); // eslint-disable-line no-new
+      notify = function () {
+        node.data = toggle = !toggle;
+      };
+    // environments with maybe non-completely correct, but existent Promise
+    } else if (Promise$1 && Promise$1.resolve) {
+      // Promise.resolve without an argument throws an error in LG WebOS 2
+      var promise = Promise$1.resolve(undefined);
+      notify = function () {
+        promise.then(flush);
+      };
+    // for other environments - macrotask based on:
+    // - setImmediate
+    // - MessageChannel
+    // - window.postMessag
+    // - onreadystatechange
+    // - setTimeout
+    } else {
+      notify = function () {
+        // strange IE + webpack dev server bug - use .call(global)
+        macrotask.call(_global, flush);
+      };
+    }
+
+    return function (fn) {
+      var task = { fn: fn, next: undefined };
+      if (last) last.next = task;
+      if (!head) {
+        head = task;
+        notify();
+      } last = task;
+    };
+  };
+
+  // 25.4.1.5 NewPromiseCapability(C)
+
+
+  function PromiseCapability(C) {
+    var resolve, reject;
+    this.promise = new C(function ($$resolve, $$reject) {
+      if (resolve !== undefined || reject !== undefined) throw TypeError('Bad Promise constructor');
+      resolve = $$resolve;
+      reject = $$reject;
+    });
+    this.resolve = _aFunction(resolve);
+    this.reject = _aFunction(reject);
+  }
+
+  var f$7 = function (C) {
+    return new PromiseCapability(C);
+  };
+
+  var _newPromiseCapability = {
+  	f: f$7
+  };
+
+  var _perform = function (exec) {
+    try {
+      return { e: false, v: exec() };
+    } catch (e) {
+      return { e: true, v: e };
+    }
+  };
+
+  var navigator = _global.navigator;
+
+  var _userAgent = navigator && navigator.userAgent || '';
+
+  var _promiseResolve = function (C, x) {
+    _anObject(C);
+    if (_isObject(x) && x.constructor === C) return x;
+    var promiseCapability = _newPromiseCapability.f(C);
+    var resolve = promiseCapability.resolve;
+    resolve(x);
+    return promiseCapability.promise;
+  };
+
+  var task = _task.set;
+  var microtask = _microtask();
+
+
+
+
+  var PROMISE = 'Promise';
+  var TypeError$1 = _global.TypeError;
+  var process$2 = _global.process;
+  var versions = process$2 && process$2.versions;
+  var v8 = versions && versions.v8 || '';
+  var $Promise = _global[PROMISE];
+  var isNode$1 = _classof(process$2) == 'process';
+  var empty = function () { /* empty */ };
+  var Internal, newGenericPromiseCapability, OwnPromiseCapability, Wrapper;
+  var newPromiseCapability = newGenericPromiseCapability = _newPromiseCapability.f;
+
+  var USE_NATIVE$1 = !!function () {
+    try {
+      // correct subclassing with @@species support
+      var promise = $Promise.resolve(1);
+      var FakePromise = (promise.constructor = {})[_wks('species')] = function (exec) {
+        exec(empty, empty);
+      };
+      // unhandled rejections tracking support, NodeJS Promise without it fails @@species test
+      return (isNode$1 || typeof PromiseRejectionEvent == 'function')
+        && promise.then(empty) instanceof FakePromise
+        // v8 6.6 (Node 10 and Chrome 66) have a bug with resolving custom thenables
+        // https://bugs.chromium.org/p/chromium/issues/detail?id=830565
+        // we can't detect it synchronously, so just check versions
+        && v8.indexOf('6.6') !== 0
+        && _userAgent.indexOf('Chrome/66') === -1;
+    } catch (e) { /* empty */ }
+  }();
+
+  // helpers
+  var isThenable = function (it) {
+    var then;
+    return _isObject(it) && typeof (then = it.then) == 'function' ? then : false;
+  };
+  var notify = function (promise, isReject) {
+    if (promise._n) return;
+    promise._n = true;
+    var chain = promise._c;
+    microtask(function () {
+      var value = promise._v;
+      var ok = promise._s == 1;
+      var i = 0;
+      var run = function (reaction) {
+        var handler = ok ? reaction.ok : reaction.fail;
+        var resolve = reaction.resolve;
+        var reject = reaction.reject;
+        var domain = reaction.domain;
+        var result, then, exited;
+        try {
+          if (handler) {
+            if (!ok) {
+              if (promise._h == 2) onHandleUnhandled(promise);
+              promise._h = 1;
+            }
+            if (handler === true) result = value;
+            else {
+              if (domain) domain.enter();
+              result = handler(value); // may throw
+              if (domain) {
+                domain.exit();
+                exited = true;
+              }
+            }
+            if (result === reaction.promise) {
+              reject(TypeError$1('Promise-chain cycle'));
+            } else if (then = isThenable(result)) {
+              then.call(result, resolve, reject);
+            } else resolve(result);
+          } else reject(value);
+        } catch (e) {
+          if (domain && !exited) domain.exit();
+          reject(e);
+        }
+      };
+      while (chain.length > i) run(chain[i++]); // variable length - can't use forEach
+      promise._c = [];
+      promise._n = false;
+      if (isReject && !promise._h) onUnhandled(promise);
+    });
+  };
+  var onUnhandled = function (promise) {
+    task.call(_global, function () {
+      var value = promise._v;
+      var unhandled = isUnhandled(promise);
+      var result, handler, console;
+      if (unhandled) {
+        result = _perform(function () {
+          if (isNode$1) {
+            process$2.emit('unhandledRejection', value, promise);
+          } else if (handler = _global.onunhandledrejection) {
+            handler({ promise: promise, reason: value });
+          } else if ((console = _global.console) && console.error) {
+            console.error('Unhandled promise rejection', value);
+          }
+        });
+        // Browsers should not trigger `rejectionHandled` event if it was handled here, NodeJS - should
+        promise._h = isNode$1 || isUnhandled(promise) ? 2 : 1;
+      } promise._a = undefined;
+      if (unhandled && result.e) throw result.v;
+    });
+  };
+  var isUnhandled = function (promise) {
+    return promise._h !== 1 && (promise._a || promise._c).length === 0;
+  };
+  var onHandleUnhandled = function (promise) {
+    task.call(_global, function () {
+      var handler;
+      if (isNode$1) {
+        process$2.emit('rejectionHandled', promise);
+      } else if (handler = _global.onrejectionhandled) {
+        handler({ promise: promise, reason: promise._v });
+      }
+    });
+  };
+  var $reject = function (value) {
+    var promise = this;
+    if (promise._d) return;
+    promise._d = true;
+    promise = promise._w || promise; // unwrap
+    promise._v = value;
+    promise._s = 2;
+    if (!promise._a) promise._a = promise._c.slice();
+    notify(promise, true);
+  };
+  var $resolve = function (value) {
+    var promise = this;
+    var then;
+    if (promise._d) return;
+    promise._d = true;
+    promise = promise._w || promise; // unwrap
+    try {
+      if (promise === value) throw TypeError$1("Promise can't be resolved itself");
+      if (then = isThenable(value)) {
+        microtask(function () {
+          var wrapper = { _w: promise, _d: false }; // wrap
+          try {
+            then.call(value, _ctx($resolve, wrapper, 1), _ctx($reject, wrapper, 1));
+          } catch (e) {
+            $reject.call(wrapper, e);
+          }
+        });
+      } else {
+        promise._v = value;
+        promise._s = 1;
+        notify(promise, false);
+      }
+    } catch (e) {
+      $reject.call({ _w: promise, _d: false }, e); // wrap
+    }
+  };
+
+  // constructor polyfill
+  if (!USE_NATIVE$1) {
+    // 25.4.3.1 Promise(executor)
+    $Promise = function Promise(executor) {
+      _anInstance(this, $Promise, PROMISE, '_h');
+      _aFunction(executor);
+      Internal.call(this);
+      try {
+        executor(_ctx($resolve, this, 1), _ctx($reject, this, 1));
+      } catch (err) {
+        $reject.call(this, err);
+      }
+    };
+    // eslint-disable-next-line no-unused-vars
+    Internal = function Promise(executor) {
+      this._c = [];             // <- awaiting reactions
+      this._a = undefined;      // <- checked in isUnhandled reactions
+      this._s = 0;              // <- state
+      this._d = false;          // <- done
+      this._v = undefined;      // <- value
+      this._h = 0;              // <- rejection state, 0 - default, 1 - handled, 2 - unhandled
+      this._n = false;          // <- notify
+    };
+    Internal.prototype = _redefineAll($Promise.prototype, {
+      // 25.4.5.3 Promise.prototype.then(onFulfilled, onRejected)
+      then: function then(onFulfilled, onRejected) {
+        var reaction = newPromiseCapability(_speciesConstructor(this, $Promise));
+        reaction.ok = typeof onFulfilled == 'function' ? onFulfilled : true;
+        reaction.fail = typeof onRejected == 'function' && onRejected;
+        reaction.domain = isNode$1 ? process$2.domain : undefined;
+        this._c.push(reaction);
+        if (this._a) this._a.push(reaction);
+        if (this._s) notify(this, false);
+        return reaction.promise;
+      },
+      // 25.4.5.1 Promise.prototype.catch(onRejected)
+      'catch': function (onRejected) {
+        return this.then(undefined, onRejected);
+      }
+    });
+    OwnPromiseCapability = function () {
+      var promise = new Internal();
+      this.promise = promise;
+      this.resolve = _ctx($resolve, promise, 1);
+      this.reject = _ctx($reject, promise, 1);
+    };
+    _newPromiseCapability.f = newPromiseCapability = function (C) {
+      return C === $Promise || C === Wrapper
+        ? new OwnPromiseCapability(C)
+        : newGenericPromiseCapability(C);
+    };
+  }
+
+  _export(_export.G + _export.W + _export.F * !USE_NATIVE$1, { Promise: $Promise });
+  _setToStringTag($Promise, PROMISE);
+  _setSpecies(PROMISE);
+  Wrapper = _core[PROMISE];
+
+  // statics
+  _export(_export.S + _export.F * !USE_NATIVE$1, PROMISE, {
+    // 25.4.4.5 Promise.reject(r)
+    reject: function reject(r) {
+      var capability = newPromiseCapability(this);
+      var $$reject = capability.reject;
+      $$reject(r);
+      return capability.promise;
+    }
+  });
+  _export(_export.S + _export.F * (!USE_NATIVE$1), PROMISE, {
+    // 25.4.4.6 Promise.resolve(x)
+    resolve: function resolve(x) {
+      return _promiseResolve(this, x);
+    }
+  });
+  _export(_export.S + _export.F * !(USE_NATIVE$1 && _iterDetect(function (iter) {
+    $Promise.all(iter)['catch'](empty);
+  })), PROMISE, {
+    // 25.4.4.1 Promise.all(iterable)
+    all: function all(iterable) {
+      var C = this;
+      var capability = newPromiseCapability(C);
+      var resolve = capability.resolve;
+      var reject = capability.reject;
+      var result = _perform(function () {
+        var values = [];
+        var index = 0;
+        var remaining = 1;
+        _forOf(iterable, false, function (promise) {
+          var $index = index++;
+          var alreadyCalled = false;
+          values.push(undefined);
+          remaining++;
+          C.resolve(promise).then(function (value) {
+            if (alreadyCalled) return;
+            alreadyCalled = true;
+            values[$index] = value;
+            --remaining || resolve(values);
+          }, reject);
+        });
+        --remaining || resolve(values);
+      });
+      if (result.e) reject(result.v);
+      return capability.promise;
+    },
+    // 25.4.4.4 Promise.race(iterable)
+    race: function race(iterable) {
+      var C = this;
+      var capability = newPromiseCapability(C);
+      var reject = capability.reject;
+      var result = _perform(function () {
+        _forOf(iterable, false, function (promise) {
+          C.resolve(promise).then(capability.resolve, reject);
+        });
+      });
+      if (result.e) reject(result.v);
+      return capability.promise;
+    }
+  });
+
+  // Copyright Joyent, Inc. and other Node contributors.
+
+  var R = typeof Reflect === 'object' ? Reflect : null;
+  var ReflectApply = R && typeof R.apply === 'function'
+    ? R.apply
+    : function ReflectApply(target, receiver, args) {
+      return Function.prototype.apply.call(target, receiver, args);
+    };
+
+  var ReflectOwnKeys;
+  if (R && typeof R.ownKeys === 'function') {
+    ReflectOwnKeys = R.ownKeys;
+  } else if (Object.getOwnPropertySymbols) {
+    ReflectOwnKeys = function ReflectOwnKeys(target) {
+      return Object.getOwnPropertyNames(target)
+        .concat(Object.getOwnPropertySymbols(target));
+    };
+  } else {
+    ReflectOwnKeys = function ReflectOwnKeys(target) {
+      return Object.getOwnPropertyNames(target);
+    };
+  }
+
+  function ProcessEmitWarning(warning) {
+    if (console && console.warn) console.warn(warning);
+  }
+
+  var NumberIsNaN = Number.isNaN || function NumberIsNaN(value) {
+    return value !== value;
+  };
+
+  function EventEmitter() {
+    EventEmitter.init.call(this);
+  }
+  var events = EventEmitter;
+
+  // Backwards-compat with node 0.10.x
+  EventEmitter.EventEmitter = EventEmitter;
+
+  EventEmitter.prototype._events = undefined;
+  EventEmitter.prototype._eventsCount = 0;
+  EventEmitter.prototype._maxListeners = undefined;
+
+  // By default EventEmitters will print a warning if more than 10 listeners are
+  // added to it. This is a useful default which helps finding memory leaks.
+  var defaultMaxListeners = 10;
+
+  Object.defineProperty(EventEmitter, 'defaultMaxListeners', {
+    enumerable: true,
+    get: function() {
+      return defaultMaxListeners;
+    },
+    set: function(arg) {
+      if (typeof arg !== 'number' || arg < 0 || NumberIsNaN(arg)) {
+        throw new RangeError('The value of "defaultMaxListeners" is out of range. It must be a non-negative number. Received ' + arg + '.');
+      }
+      defaultMaxListeners = arg;
+    }
+  });
+
+  EventEmitter.init = function() {
+
+    if (this._events === undefined ||
+        this._events === Object.getPrototypeOf(this)._events) {
+      this._events = Object.create(null);
+      this._eventsCount = 0;
+    }
+
+    this._maxListeners = this._maxListeners || undefined;
+  };
+
+  // Obviously not all Emitters should be limited to 10. This function allows
+  // that to be increased. Set to zero for unlimited.
+  EventEmitter.prototype.setMaxListeners = function setMaxListeners(n) {
+    if (typeof n !== 'number' || n < 0 || NumberIsNaN(n)) {
+      throw new RangeError('The value of "n" is out of range. It must be a non-negative number. Received ' + n + '.');
+    }
+    this._maxListeners = n;
+    return this;
+  };
+
+  function $getMaxListeners(that) {
+    if (that._maxListeners === undefined)
+      return EventEmitter.defaultMaxListeners;
+    return that._maxListeners;
+  }
+
+  EventEmitter.prototype.getMaxListeners = function getMaxListeners() {
+    return $getMaxListeners(this);
+  };
+
+  EventEmitter.prototype.emit = function emit(type) {
+    var args = [];
+    for (var i = 1; i < arguments.length; i++) args.push(arguments[i]);
+    var doError = (type === 'error');
+
+    var events = this._events;
+    if (events !== undefined)
+      doError = (doError && events.error === undefined);
+    else if (!doError)
+      return false;
+
+    // If there is no 'error' event listener then throw.
+    if (doError) {
+      var er;
+      if (args.length > 0)
+        er = args[0];
+      if (er instanceof Error) {
+        // Note: The comments on the `throw` lines are intentional, they show
+        // up in Node's output if this results in an unhandled exception.
+        throw er; // Unhandled 'error' event
+      }
+      // At least give some kind of context to the user
+      var err = new Error('Unhandled error.' + (er ? ' (' + er.message + ')' : ''));
+      err.context = er;
+      throw err; // Unhandled 'error' event
+    }
+
+    var handler = events[type];
+
+    if (handler === undefined)
+      return false;
+
+    if (typeof handler === 'function') {
+      ReflectApply(handler, this, args);
+    } else {
+      var len = handler.length;
+      var listeners = arrayClone(handler, len);
+      for (var i = 0; i < len; ++i)
+        ReflectApply(listeners[i], this, args);
+    }
+
+    return true;
+  };
+
+  function _addListener(target, type, listener, prepend) {
+    var m;
+    var events;
+    var existing;
+
+    if (typeof listener !== 'function') {
+      throw new TypeError('The "listener" argument must be of type Function. Received type ' + typeof listener);
+    }
+
+    events = target._events;
+    if (events === undefined) {
+      events = target._events = Object.create(null);
+      target._eventsCount = 0;
+    } else {
+      // To avoid recursion in the case that type === "newListener"! Before
+      // adding it to the listeners, first emit "newListener".
+      if (events.newListener !== undefined) {
+        target.emit('newListener', type,
+                    listener.listener ? listener.listener : listener);
+
+        // Re-assign `events` because a newListener handler could have caused the
+        // this._events to be assigned to a new object
+        events = target._events;
+      }
+      existing = events[type];
+    }
+
+    if (existing === undefined) {
+      // Optimize the case of one listener. Don't need the extra array object.
+      existing = events[type] = listener;
+      ++target._eventsCount;
+    } else {
+      if (typeof existing === 'function') {
+        // Adding the second element, need to change to array.
+        existing = events[type] =
+          prepend ? [listener, existing] : [existing, listener];
+        // If we've already got an array, just append.
+      } else if (prepend) {
+        existing.unshift(listener);
+      } else {
+        existing.push(listener);
+      }
+
+      // Check for listener leak
+      m = $getMaxListeners(target);
+      if (m > 0 && existing.length > m && !existing.warned) {
+        existing.warned = true;
+        // No error code for this since it is a Warning
+        // eslint-disable-next-line no-restricted-syntax
+        var w = new Error('Possible EventEmitter memory leak detected. ' +
+                            existing.length + ' ' + String(type) + ' listeners ' +
+                            'added. Use emitter.setMaxListeners() to ' +
+                            'increase limit');
+        w.name = 'MaxListenersExceededWarning';
+        w.emitter = target;
+        w.type = type;
+        w.count = existing.length;
+        ProcessEmitWarning(w);
+      }
+    }
+
+    return target;
+  }
+
+  EventEmitter.prototype.addListener = function addListener(type, listener) {
+    return _addListener(this, type, listener, false);
+  };
+
+  EventEmitter.prototype.on = EventEmitter.prototype.addListener;
+
+  EventEmitter.prototype.prependListener =
+      function prependListener(type, listener) {
+        return _addListener(this, type, listener, true);
+      };
+
+  function onceWrapper() {
+    var args = [];
+    for (var i = 0; i < arguments.length; i++) args.push(arguments[i]);
+    if (!this.fired) {
+      this.target.removeListener(this.type, this.wrapFn);
+      this.fired = true;
+      ReflectApply(this.listener, this.target, args);
+    }
+  }
+
+  function _onceWrap(target, type, listener) {
+    var state = { fired: false, wrapFn: undefined, target: target, type: type, listener: listener };
+    var wrapped = onceWrapper.bind(state);
+    wrapped.listener = listener;
+    state.wrapFn = wrapped;
+    return wrapped;
+  }
+
+  EventEmitter.prototype.once = function once(type, listener) {
+    if (typeof listener !== 'function') {
+      throw new TypeError('The "listener" argument must be of type Function. Received type ' + typeof listener);
+    }
+    this.on(type, _onceWrap(this, type, listener));
+    return this;
+  };
+
+  EventEmitter.prototype.prependOnceListener =
+      function prependOnceListener(type, listener) {
+        if (typeof listener !== 'function') {
+          throw new TypeError('The "listener" argument must be of type Function. Received type ' + typeof listener);
+        }
+        this.prependListener(type, _onceWrap(this, type, listener));
+        return this;
+      };
+
+  // Emits a 'removeListener' event if and only if the listener was removed.
+  EventEmitter.prototype.removeListener =
+      function removeListener(type, listener) {
+        var list, events, position, i, originalListener;
+
+        if (typeof listener !== 'function') {
+          throw new TypeError('The "listener" argument must be of type Function. Received type ' + typeof listener);
+        }
+
+        events = this._events;
+        if (events === undefined)
+          return this;
+
+        list = events[type];
+        if (list === undefined)
+          return this;
+
+        if (list === listener || list.listener === listener) {
+          if (--this._eventsCount === 0)
+            this._events = Object.create(null);
+          else {
+            delete events[type];
+            if (events.removeListener)
+              this.emit('removeListener', type, list.listener || listener);
+          }
+        } else if (typeof list !== 'function') {
+          position = -1;
+
+          for (i = list.length - 1; i >= 0; i--) {
+            if (list[i] === listener || list[i].listener === listener) {
+              originalListener = list[i].listener;
+              position = i;
+              break;
+            }
+          }
+
+          if (position < 0)
+            return this;
+
+          if (position === 0)
+            list.shift();
+          else {
+            spliceOne(list, position);
+          }
+
+          if (list.length === 1)
+            events[type] = list[0];
+
+          if (events.removeListener !== undefined)
+            this.emit('removeListener', type, originalListener || listener);
+        }
+
+        return this;
+      };
+
+  EventEmitter.prototype.off = EventEmitter.prototype.removeListener;
+
+  EventEmitter.prototype.removeAllListeners =
+      function removeAllListeners(type) {
+        var listeners, events, i;
+
+        events = this._events;
+        if (events === undefined)
+          return this;
+
+        // not listening for removeListener, no need to emit
+        if (events.removeListener === undefined) {
+          if (arguments.length === 0) {
+            this._events = Object.create(null);
+            this._eventsCount = 0;
+          } else if (events[type] !== undefined) {
+            if (--this._eventsCount === 0)
+              this._events = Object.create(null);
+            else
+              delete events[type];
+          }
+          return this;
+        }
+
+        // emit removeListener for all listeners on all events
+        if (arguments.length === 0) {
+          var keys = Object.keys(events);
+          var key;
+          for (i = 0; i < keys.length; ++i) {
+            key = keys[i];
+            if (key === 'removeListener') continue;
+            this.removeAllListeners(key);
+          }
+          this.removeAllListeners('removeListener');
+          this._events = Object.create(null);
+          this._eventsCount = 0;
+          return this;
+        }
+
+        listeners = events[type];
+
+        if (typeof listeners === 'function') {
+          this.removeListener(type, listeners);
+        } else if (listeners !== undefined) {
+          // LIFO order
+          for (i = listeners.length - 1; i >= 0; i--) {
+            this.removeListener(type, listeners[i]);
+          }
+        }
+
+        return this;
+      };
+
+  function _listeners(target, type, unwrap) {
+    var events = target._events;
+
+    if (events === undefined)
+      return [];
+
+    var evlistener = events[type];
+    if (evlistener === undefined)
+      return [];
+
+    if (typeof evlistener === 'function')
+      return unwrap ? [evlistener.listener || evlistener] : [evlistener];
+
+    return unwrap ?
+      unwrapListeners(evlistener) : arrayClone(evlistener, evlistener.length);
+  }
+
+  EventEmitter.prototype.listeners = function listeners(type) {
+    return _listeners(this, type, true);
+  };
+
+  EventEmitter.prototype.rawListeners = function rawListeners(type) {
+    return _listeners(this, type, false);
+  };
+
+  EventEmitter.listenerCount = function(emitter, type) {
+    if (typeof emitter.listenerCount === 'function') {
+      return emitter.listenerCount(type);
+    } else {
+      return listenerCount.call(emitter, type);
+    }
+  };
+
+  EventEmitter.prototype.listenerCount = listenerCount;
+  function listenerCount(type) {
+    var events = this._events;
+
+    if (events !== undefined) {
+      var evlistener = events[type];
+
+      if (typeof evlistener === 'function') {
+        return 1;
+      } else if (evlistener !== undefined) {
+        return evlistener.length;
+      }
+    }
+
+    return 0;
+  }
+
+  EventEmitter.prototype.eventNames = function eventNames() {
+    return this._eventsCount > 0 ? ReflectOwnKeys(this._events) : [];
+  };
+
+  function arrayClone(arr, n) {
+    var copy = new Array(n);
+    for (var i = 0; i < n; ++i)
+      copy[i] = arr[i];
+    return copy;
+  }
+
+  function spliceOne(list, index) {
+    for (; index + 1 < list.length; index++)
+      list[index] = list[index + 1];
+    list.pop();
+  }
+
+  function unwrapListeners(arr) {
+    var ret = new Array(arr.length);
+    for (var i = 0; i < ret.length; ++i) {
+      ret[i] = arr[i].listener || arr[i];
+    }
+    return ret;
+  }
+
+  var config = {
+    origin: 'https://blhx.danmu9.com',
+    apiHosts: ['game.granbluefantasy.jp', 'gbf.game.mbga.jp'],
+    hash: ''
+  };
+
+  var origin = config.origin;
+  var ee = new events();
+  var iframe = document.createElement('iframe');
+  iframe.src = "".concat(origin, "/blhxfy/lecia.html");
+  iframe.style.display = 'none';
+  document.body.appendChild(iframe);
+  var link = document.createElement('link');
+  link.type = 'text/css';
+  link.rel = 'stylesheet';
+  link.href = "".concat(origin, "/blhxfy/data/static/style/BLHXFY.css");
+  document.head.appendChild(link);
+  var lecia = iframe.contentWindow;
+  var load = new Promise(function (rev) {
+    ee.once('loaded', rev);
+  });
+
+  var fetchData =
+  /*#__PURE__*/
+  function () {
+    var _ref = _asyncToGenerator(
+    /*#__PURE__*/
+    regeneratorRuntime.mark(function _callee(pathname) {
+      var url, flag;
+      return regeneratorRuntime.wrap(function _callee$(_context) {
+        while (1) {
+          switch (_context.prev = _context.next) {
+            case 0:
+              _context.next = 2;
+              return load;
+
+            case 2:
+              url = pathname;
+              flag = Math.random();
+              lecia.postMessage({
+                type: 'fetch',
+                url: url,
+                flag: flag
+              }, origin);
+              return _context.abrupt("return", new Promise(function (rev, rej) {
+                ee.once("response".concat(flag), function (data) {
+                  if (data.err) {
+                    rej(err);
+                  } else {
+                    rev(data.data);
+                  }
+                });
+              }));
+
+            case 6:
+            case "end":
+              return _context.stop();
+          }
+        }
+      }, _callee, this);
+    }));
+
+    return function fetchData(_x) {
+      return _ref.apply(this, arguments);
+    };
+  }();
+
+  var getHash = fetchData('/blhxfy/manifest.json').then(function (data) {
+    config.hash = data.hash;
+    return data.hash;
+  });
+
+  var fetchWithHash =
+  /*#__PURE__*/
+  function () {
+    var _ref2 = _asyncToGenerator(
+    /*#__PURE__*/
+    regeneratorRuntime.mark(function _callee2(pathname) {
+      var hash;
+      return regeneratorRuntime.wrap(function _callee2$(_context2) {
+        while (1) {
+          switch (_context2.prev = _context2.next) {
+            case 0:
+              _context2.next = 2;
+              return getHash;
+
+            case 2:
+              hash = _context2.sent;
+              return _context2.abrupt("return", fetchData("".concat(pathname, "?lecia=").concat(hash)));
+
+            case 4:
+            case "end":
+              return _context2.stop();
+          }
+        }
+      }, _callee2, this);
+    }));
+
+    return function fetchWithHash(_x2) {
+      return _ref2.apply(this, arguments);
+    };
+  }();
+
+  var receiveMessage = function receiveMessage(event) {
+    if (event.origin !== origin) return;
+
+    if (event.data && event.data.type) {
+      if (event.data.type === 'response') {
+        ee.emit("response".concat(event.data.flag), event.data);
+      } else if (event.data.type === 'loaded') {
+        ee.emit('loaded');
+      }
+    }
+  };
+
+  window.addEventListener("message", receiveMessage, false);
+
   var data = null;
 
   var getLocalData = function getLocalData(type) {
@@ -7090,7 +7099,7 @@
       if (!str) return false;
       data = JSON.parse(str);
 
-      if (data.hash !== hash) {
+      if (data.hash !== config.hash) {
         data = null;
         localStorage.removeItem('blhxfy:data');
         return false;
@@ -7106,7 +7115,7 @@
 
   var setLocalData = function setLocalData(type, value) {
     if (!data) data = {
-      hash: hash
+      hash: config.hash
     };
     data[type] = value;
     var str = JSON.stringify(data);
@@ -8957,6 +8966,44 @@
   var jpNameMap = new Map();
   var loaded = false;
 
+  var nameWithScenario = function nameWithScenario(list) {
+    var key = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : 'name';
+    var newList = [];
+    var keys = [];
+    list.forEach(function (item) {
+      var existIdx = keys.indexOf(item[key]);
+
+      if (existIdx !== -1) {
+        var obj = newList[existIdx];
+
+        if (item.scenario) {
+          obj[item.scenario] = item;
+          obj.scenarios.push(item.scenario);
+        } else {
+          obj.trans = item.trans;
+          obj.noun = !!item.noun;
+        }
+      } else {
+        var _obj2;
+
+        var _obj = (_obj2 = {}, _defineProperty(_obj2, key, item[key]), _defineProperty(_obj2, "scenarios", []), _obj2);
+
+        if (item.scenario) {
+          _obj[item.scenario] = item;
+
+          _obj.scenarios.push(item.scenario);
+        } else {
+          _obj.trans = item.trans;
+          _obj.noun = !!item.noun;
+        }
+
+        newList.push(_obj);
+        keys.push(item[key]);
+      }
+    });
+    return newList;
+  };
+
   var getNameData =
   /*#__PURE__*/
   function () {
@@ -8989,7 +9036,7 @@
               setLocalData('nameEn', nameEn);
 
             case 8:
-              if (nameEn) {
+              if (nameJp) {
                 _context.next = 13;
                 break;
               }
@@ -9002,15 +9049,15 @@
               setLocalData('nameJp', nameJp);
 
             case 13:
-              listEn = parseCsv(nameEn);
-              listJp = parseCsv(nameJp);
+              listEn = nameWithScenario(parseCsv(nameEn));
+              listJp = nameWithScenario(parseCsv(nameJp));
               sortKeywords(listEn).forEach(function (item) {
                 enNameMap.set(item.name, item);
               });
               sortKeywords(listJp).forEach(function (item) {
                 jpNameMap.set(item.name, item);
               });
-              loaded = (_readOnlyError("loaded"), true);
+              loaded = true;
 
             case 18:
               return _context.abrupt("return", {
@@ -9045,15 +9092,24 @@
           switch (_context.prev = _context.next) {
             case 0:
               _context.next = 2;
-              return fetch('/blhxfy/data/scenario.json');
+              return fetchWithHash('/blhxfy/data/scenario.json');
 
             case 2:
               scenarioData = _context.sent;
               pathname = scenarioData[name];
-              _context.next = 6;
-              return fetch("/blhxfy/data/scenario/".concat(pathname));
+
+              if (pathname) {
+                _context.next = 6;
+                break;
+              }
+
+              return _context.abrupt("return", false);
 
             case 6:
+              _context.next = 8;
+              return fetchWithHash("/blhxfy/data/scenario/".concat(pathname));
+
+            case 8:
               data = _context.sent;
               list = parseCsv(data);
               transMap = new Map();
@@ -9063,12 +9119,13 @@
                   var id = idArr[0];
                   var type = idArr[1] || 'detail';
                   var obj = transMap.get(id) || {};
+                  obj[type] = item.trans;
                   transMap.set(id, obj);
                 }
               });
               return _context.abrupt("return", transMap);
 
-            case 11:
+            case 13:
             case "end":
               return _context.stop();
           }
@@ -9203,6 +9260,15 @@
 
             case 11:
               transMap = _context2.sent;
+
+              if (transMap) {
+                _context2.next = 14;
+                break;
+              }
+
+              return _context2.abrupt("return", data);
+
+            case 14:
               data.forEach(function (item, index) {
                 var name1, name2, name3;
                 name1 = replaceChar('charcter1_name', item, nameMap, scenarioName);
@@ -9218,7 +9284,7 @@
               });
               return _context2.abrupt("return", data);
 
-            case 14:
+            case 16:
             case "end":
               return _context2.stop();
           }
@@ -9311,23 +9377,34 @@
                 isJSON = false;
               }
 
-              console.log(pathname, hostname);
-
               if (!(apiHosts.indexOf(hostname) === -1)) {
-                _context.next = 9;
+                _context.next = 8;
                 break;
               }
 
               return _context.abrupt("return");
 
-            case 9:
-              if (pathname.includes('scenario')) {
-                result = transScenario(data);
+            case 8:
+              if (!pathname.includes('scenario')) {
+                _context.next = 14;
+                break;
               }
 
-              state.result = isJSON ? JSON.stringify(result) : result;
+              _context.next = 11;
+              return transScenario(data, pathname);
 
             case 11:
+              data = _context.sent;
+              _context.next = 15;
+              break;
+
+            case 14:
+              return _context.abrupt("return");
+
+            case 15:
+              state.result = isJSON ? JSON.stringify(data) : data;
+
+            case 16:
             case "end":
               return _context.stop();
           }
