@@ -477,9 +477,6 @@ body .pop-room-detail.pop-usual .pop-confirm-continue-quest.pop-usual .prt-popup
 body .prt-scene-comment .prt-message-area {
   padding: 20px 15px 0 25px;
 }
-::-webkit-scrollbar {
-  display: none;
-}
 
 @font-face {
   font-family: 'yahei';
