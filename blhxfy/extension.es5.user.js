@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         碧蓝幻想翻译兼容版
 // @namespace    https://github.com/biuuu/BLHXFY
-// @version      0.2
+// @version      0.3
 // @description  碧蓝幻想的汉化脚本，提交新翻译请到 https://github.com/biuuu/BLHXFY
 // @icon         http://game.granbluefantasy.jp/favicon.ico
 // @author       biuuu
@@ -362,7 +362,7 @@
     return store[key] || (store[key] = value !== undefined ? value : {});
   })('versions', []).push({
     version: _core.version,
-    mode: 'global',
+    mode: _library ? 'pure' : 'global',
     copyright: '© 2018 Denis Pushkarev (zloirock.ru)'
   });
   });
@@ -5780,6 +5780,18 @@
   // 24.3.3 JSON[@@toStringTag]
   _setToStringTag(_global.JSON, 'JSON', true);
 
+  // @@replace logic
+  _fixReWks('replace', 2, function (defined, REPLACE, $replace) {
+    // 21.1.3.14 String.prototype.replace(searchValue, replaceValue)
+    return [function replace(searchValue, replaceValue) {
+      var O = defined(this);
+      var fn = searchValue == undefined ? undefined : searchValue[REPLACE];
+      return fn !== undefined
+        ? fn.call(searchValue, O, replaceValue)
+        : $replace.call(String(O), searchValue, replaceValue);
+    }, $replace];
+  });
+
   // @@split logic
   _fixReWks('split', 2, function (defined, SPLIT, $split) {
     var isRegExp = _isRegexp;
@@ -6493,10 +6505,10 @@
       return capability.promise;
     }
   });
-  _export(_export.S + _export.F * (_library || !USE_NATIVE$1), PROMISE, {
+  _export(_export.S + _export.F * (!USE_NATIVE$1), PROMISE, {
     // 25.4.4.6 Promise.resolve(x)
     resolve: function resolve(x) {
-      return _promiseResolve(_library && this === Wrapper ? $Promise : this, x);
+      return _promiseResolve(this, x);
     }
   });
   _export(_export.S + _export.F * !(USE_NATIVE$1 && _iterDetect(function (iter) {
@@ -6975,7 +6987,46 @@
   var config = {
     origin: 'https://blhx.danmu9.com',
     apiHosts: ['game.granbluefantasy.jp', 'gbf.game.mbga.jp'],
-    hash: ''
+    hash: '',
+    userName: '姬塔'
+  };
+
+  var data = null;
+
+  var getLocalData = function getLocalData(type) {
+    if (data) return data[type];
+
+    try {
+      var str = localStorage.getItem('blhxfy:data');
+      if (!str) return false;
+      data = JSON.parse(str);
+
+      if (data.hash !== config.hash) {
+        data = null;
+        localStorage.removeItem('blhxfy:data');
+        return false;
+      }
+
+      return data[type];
+    } catch (err) {
+      console.error(err);
+    }
+
+    return false;
+  };
+
+  var setLocalData = function setLocalData(type, value) {
+    if (!data) data = {
+      hash: config.hash
+    };
+    data[type] = value;
+    var str = JSON.stringify(data);
+
+    try {
+      localStorage.setItem('blhxfy:data', str);
+    } catch (err) {
+      console.error(err);
+    }
   };
 
   var origin = config.origin;
@@ -7041,6 +7092,7 @@
 
   var getHash = fetchData('/blhxfy/manifest.json').then(function (data) {
     config.hash = data.hash;
+    getLocalData('hash');
     return data.hash;
   });
 
@@ -7088,56 +7140,6 @@
   };
 
   window.addEventListener("message", receiveMessage, false);
-
-  var data = null;
-
-  var getLocalData = function getLocalData(type) {
-    if (data) return data[type];
-
-    try {
-      var str = localStorage.getItem('blhxfy:data');
-      if (!str) return false;
-      data = JSON.parse(str);
-
-      if (data.hash !== config.hash) {
-        data = null;
-        localStorage.removeItem('blhxfy:data');
-        return false;
-      }
-
-      return data[type];
-    } catch (err) {
-      console.error(err);
-    }
-
-    return false;
-  };
-
-  var setLocalData = function setLocalData(type, value) {
-    if (!data) data = {
-      hash: config.hash
-    };
-    data[type] = value;
-    var str = JSON.stringify(data);
-
-    try {
-      localStorage.setItem('blhxfy:data', str);
-    } catch (err) {
-      console.error(err);
-    }
-  };
-
-  // @@replace logic
-  _fixReWks('replace', 2, function (defined, REPLACE, $replace) {
-    // 21.1.3.14 String.prototype.replace(searchValue, replaceValue)
-    return [function replace(searchValue, replaceValue) {
-      var O = defined(this);
-      var fn = searchValue == undefined ? undefined : searchValue[REPLACE];
-      return fn !== undefined
-        ? fn.call(searchValue, O, replaceValue)
-        : $replace.call(String(O), searchValue, replaceValue);
-    }, $replace];
-  });
 
   var papaparse = createCommonjsModule(function (module, exports) {
   /*@license
@@ -9119,7 +9121,7 @@
                   var id = idArr[0];
                   var type = idArr[1] || 'detail';
                   var obj = transMap.get(id) || {};
-                  obj[type] = item.trans;
+                  obj[type] = item.trans.replace(/姬塔/g, config.userName);
                   transMap.set(id, obj);
                 }
               });
@@ -9249,26 +9251,26 @@
 
             case 3:
               scenarioName = pathRst[1];
-              _context2.next = 7;
+              _context2.next = 6;
               return getNameData();
 
-            case 7:
+            case 6:
               nameData = _context2.sent;
               nameMap = Game.lang !== 'ja' ? nameData['enNameMap'] : nameData['jpNameMap'];
-              _context2.next = 11;
+              _context2.next = 10;
               return getScenario(scenarioName);
 
-            case 11:
+            case 10:
               transMap = _context2.sent;
 
               if (transMap) {
-                _context2.next = 14;
+                _context2.next = 13;
                 break;
               }
 
               return _context2.abrupt("return", data);
 
-            case 14:
+            case 13:
               data.forEach(function (item, index) {
                 var name1, name2, name3;
                 name1 = replaceChar('charcter1_name', item, nameMap, scenarioName);
@@ -9284,7 +9286,7 @@
               });
               return _context2.abrupt("return", data);
 
-            case 16:
+            case 15:
             case "end":
               return _context2.stop();
           }
@@ -9351,6 +9353,23 @@
     return _ref3.apply(this, arguments);
   }
 
+  var getUserName = function getUserName(data) {
+    var html = decodeURIComponent(data.data);
+    var rgs = html.match(/<span\sclass="txt-user-name">([^<]+)<\/span>/);
+
+    if (rgs && rgs[1]) {
+      config.userName = rgs[1];
+      localStorage.setItem('blhxfy:name', rgs[1]);
+    }
+  };
+
+  var getLocalName = function getLocalName() {
+    var name = localStorage.getItem('blhxfy:name');
+    if (name) config.userName = name;
+  };
+
+  getLocalName();
+
   var apiHosts = ['game.granbluefantasy.jp', 'gbf.game.mbga.jp'];
   function translate(_x) {
     return _translate.apply(this, arguments);
@@ -9395,16 +9414,26 @@
 
             case 11:
               data = _context.sent;
-              _context.next = 15;
+              _context.next = 19;
               break;
 
             case 14:
+              if (!pathname.includes('/profile/content/index/')) {
+                _context.next = 18;
+                break;
+              }
+
+              getUserName(data);
+              _context.next = 19;
+              break;
+
+            case 18:
               return _context.abrupt("return");
 
-            case 15:
+            case 19:
               state.result = isJSON ? JSON.stringify(data) : data;
 
-            case 16:
+            case 20:
             case "end":
               return _context.stop();
           }

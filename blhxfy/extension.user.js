@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         碧蓝幻想翻译
 // @namespace    https://github.com/biuuu/BLHXFY
-// @version      0.2
+// @version      0.3
 // @description  碧蓝幻想的汉化脚本，提交新翻译请到 https://github.com/biuuu/BLHXFY
 // @icon         http://game.granbluefantasy.jp/favicon.ico
 // @author       biuuu
@@ -3746,7 +3746,46 @@
 	const config = {
 	  origin: 'https://blhx.danmu9.com',
 	  apiHosts: ['game.granbluefantasy.jp', 'gbf.game.mbga.jp'],
-	  hash: ''
+	  hash: '',
+	  userName: '姬塔'
+	};
+
+	let data = null;
+
+	const getLocalData = type => {
+	  if (data) return data[type];
+
+	  try {
+	    const str = localStorage.getItem('blhxfy:data');
+	    if (!str) return false;
+	    data = JSON.parse(str);
+
+	    if (data.hash !== config.hash) {
+	      data = null;
+	      localStorage.removeItem('blhxfy:data');
+	      return false;
+	    }
+
+	    return data[type];
+	  } catch (err) {
+	    console.error(err);
+	  }
+
+	  return false;
+	};
+
+	const setLocalData = (type, value) => {
+	  if (!data) data = {
+	    hash: config.hash
+	  };
+	  data[type] = value;
+	  const str = JSON.stringify(data);
+
+	  try {
+	    localStorage.setItem('blhxfy:data', str);
+	  } catch (err) {
+	    console.error(err);
+	  }
 	};
 
 	const {
@@ -3789,6 +3828,7 @@
 
 	const getHash = fetchData('/blhxfy/manifest.json').then(data => {
 	  config.hash = data.hash;
+	  getLocalData('hash');
 	  return data.hash;
 	});
 
@@ -3810,44 +3850,6 @@
 	};
 
 	window.addEventListener("message", receiveMessage, false);
-
-	let data = null;
-
-	const getLocalData = type => {
-	  if (data) return data[type];
-
-	  try {
-	    const str = localStorage.getItem('blhxfy:data');
-	    if (!str) return false;
-	    data = JSON.parse(str);
-
-	    if (data.hash !== config.hash) {
-	      data = null;
-	      localStorage.removeItem('blhxfy:data');
-	      return false;
-	    }
-
-	    return data[type];
-	  } catch (err) {
-	    console.error(err);
-	  }
-
-	  return false;
-	};
-
-	const setLocalData = (type, value) => {
-	  if (!data) data = {
-	    hash: config.hash
-	  };
-	  data[type] = value;
-	  const str = JSON.stringify(data);
-
-	  try {
-	    localStorage.setItem('blhxfy:data', str);
-	  } catch (err) {
-	    console.error(err);
-	  }
-	};
 
 	var papaparse = createCommonjsModule(function (module, exports) {
 	/*@license
@@ -5740,7 +5742,7 @@
 	      const id = idArr[0];
 	      const type = idArr[1] || 'detail';
 	      const obj = transMap.get(id) || {};
-	      obj[type] = item.trans;
+	      obj[type] = item.trans.replace(/姬塔/g, config.userName);
 	      transMap.set(id, obj);
 	    }
 	  });
@@ -5851,6 +5853,23 @@
 	  }
 	}
 
+	const getUserName = data => {
+	  const html = decodeURIComponent(data.data);
+	  const rgs = html.match(/<span\sclass="txt-user-name">([^<]+)<\/span>/);
+
+	  if (rgs && rgs[1]) {
+	    config.userName = rgs[1];
+	    localStorage.setItem('blhxfy:name', rgs[1]);
+	  }
+	};
+
+	const getLocalName = () => {
+	  const name = localStorage.getItem('blhxfy:name');
+	  if (name) config.userName = name;
+	};
+
+	getLocalName();
+
 	const apiHosts = ['game.granbluefantasy.jp', 'gbf.game.mbga.jp'];
 	async function translate(state) {
 	  const uri = URI(state.url);
@@ -5869,6 +5888,8 @@
 
 	  if (pathname.includes('scenario')) {
 	    data = await transScenario(data, pathname);
+	  } else if (pathname.includes('/profile/content/index/')) {
+	    getUserName(data);
 	  } else {
 	    return;
 	  }
