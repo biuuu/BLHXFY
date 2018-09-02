@@ -362,7 +362,7 @@
     return store[key] || (store[key] = value !== undefined ? value : {});
   })('versions', []).push({
     version: _core.version,
-    mode: _library ? 'pure' : 'global',
+    mode: 'global',
     copyright: '© 2018 Denis Pushkarev (zloirock.ru)'
   });
   });
@@ -9414,214 +9414,219 @@
     return _translate.apply(this, arguments);
   }
 
-  // intercept xhr request and modify the response
+  var main = function main() {
+    if (window.blhxfy) return; // The following code are inspired by viramate/external.js
+    // intercept xhr request and modify the response
 
-  var XHR = XMLHttpRequest;
-  var originOpen = XHR.prototype.open;
-  var originSend = XHR.prototype.send;
-  var originAddEventListener = XHR.prototype.addEventListener;
-  var stateMap = new WeakMap();
+    var XHR = XMLHttpRequest;
+    var originOpen = XHR.prototype.open;
+    var originSend = XHR.prototype.send;
+    var originAddEventListener = XHR.prototype.addEventListener;
+    var stateMap = new WeakMap();
 
-  function log(data) {
-    console.error(data);
-  }
-
-  function getXhrState(xhr) {
-    var result = stateMap.get(xhr);
-
-    if (!result) {
-      result = {};
-      stateMap.set(xhr, result);
+    function log(data) {
+      console.error(data);
     }
 
-    if (!result.readyStateListeners) {
-      result.readyStateListeners = [];
+    function getXhrState(xhr) {
+      var result = stateMap.get(xhr);
+
+      if (!result) {
+        result = {};
+        stateMap.set(xhr, result);
+      }
+
+      if (!result.readyStateListeners) {
+        result.readyStateListeners = [];
+      }
+
+      if (!result.loadListeners) {
+        result.loadListeners = [];
+      }
+
+      return result;
     }
 
-    if (!result.loadListeners) {
-      result.loadListeners = [];
-    }
-
-    return result;
-  }
-
-  var customOnLoad =
-  /*#__PURE__*/
-  function () {
-    var _ref = _asyncToGenerator(
+    var customOnLoad =
     /*#__PURE__*/
-    regeneratorRuntime.mark(function _callee(evt) {
-      var state;
-      return regeneratorRuntime.wrap(function _callee$(_context) {
-        while (1) {
-          switch (_context.prev = _context.next) {
-            case 0:
-              _context.prev = 0;
-              state = getXhrState(this);
-              state.onLoadEvent = evt;
-              Object.defineProperties(this, {
-                response: {
-                  get: function get() {
-                    return state.result;
-                  }
-                },
-                responseText: {
-                  get: function get() {
-                    return state.result;
-                  }
-                }
-              });
-              _context.next = 6;
-              return translate(state);
-
-            case 6:
-              state.onload && state.onload.call(this, state.onLoadEvent);
-              _context.next = 12;
-              break;
-
-            case 9:
-              _context.prev = 9;
-              _context.t0 = _context["catch"](0);
-              log(_context.t0);
-
-            case 12:
-            case "end":
-              return _context.stop();
-          }
-        }
-      }, _callee, this, [[0, 9]]);
-    }));
-
-    return function customOnLoad(_x) {
-      return _ref.apply(this, arguments);
-    };
-  }();
-
-  var customOnReadyStateChange =
-  /*#__PURE__*/
-  function () {
-    var _ref2 = _asyncToGenerator(
-    /*#__PURE__*/
-    regeneratorRuntime.mark(function _callee2() {
-      var state,
-          i,
-          l,
-          _args2 = arguments;
-      return regeneratorRuntime.wrap(function _callee2$(_context2) {
-        while (1) {
-          switch (_context2.prev = _context2.next) {
-            case 0:
-              try {
+    function () {
+      var _ref = _asyncToGenerator(
+      /*#__PURE__*/
+      regeneratorRuntime.mark(function _callee(evt) {
+        var state;
+        return regeneratorRuntime.wrap(function _callee$(_context) {
+          while (1) {
+            switch (_context.prev = _context.next) {
+              case 0:
+                _context.prev = 0;
                 state = getXhrState(this);
-
-                if (this.readyState == XHR.DONE) {
-                  state.onComplete.call(this, state);
-                }
-              } catch (err) {
-                log(err);
-              }
-
-              try {
-                for (i = 0, l = state.readyStateListeners.length; i < l; i++) {
-                  try {
-                    state.readyStateListeners[i].apply(this, _args2);
-                  } catch (err) {
-                    log(err);
+                state.onLoadEvent = evt;
+                Object.defineProperties(this, {
+                  response: {
+                    get: function get() {
+                      return state.result;
+                    }
+                  },
+                  responseText: {
+                    get: function get() {
+                      return state.result;
+                    }
                   }
-                }
-              } catch (err) {
-                log(err);
-              }
+                });
+                _context.next = 6;
+                return translate(state);
 
-            case 2:
-            case "end":
-              return _context2.stop();
+              case 6:
+                state.onload && state.onload.call(this, state.onLoadEvent);
+                _context.next = 12;
+                break;
+
+              case 9:
+                _context.prev = 9;
+                _context.t0 = _context["catch"](0);
+                log(_context.t0);
+
+              case 12:
+              case "end":
+                return _context.stop();
+            }
           }
-        }
-      }, _callee2, this);
-    }));
+        }, _callee, this, [[0, 9]]);
+      }));
 
-    return function customOnReadyStateChange() {
-      return _ref2.apply(this, arguments);
+      return function customOnLoad(_x) {
+        return _ref.apply(this, arguments);
+      };
+    }();
+
+    var customOnReadyStateChange =
+    /*#__PURE__*/
+    function () {
+      var _ref2 = _asyncToGenerator(
+      /*#__PURE__*/
+      regeneratorRuntime.mark(function _callee2() {
+        var state,
+            i,
+            l,
+            _args2 = arguments;
+        return regeneratorRuntime.wrap(function _callee2$(_context2) {
+          while (1) {
+            switch (_context2.prev = _context2.next) {
+              case 0:
+                try {
+                  state = getXhrState(this);
+
+                  if (this.readyState == XHR.DONE) {
+                    state.onComplete.call(this, state);
+                  }
+                } catch (err) {
+                  log(err);
+                }
+
+                try {
+                  for (i = 0, l = state.readyStateListeners.length; i < l; i++) {
+                    try {
+                      state.readyStateListeners[i].apply(this, _args2);
+                    } catch (err) {
+                      log(err);
+                    }
+                  }
+                } catch (err) {
+                  log(err);
+                }
+
+              case 2:
+              case "end":
+                return _context2.stop();
+            }
+          }
+        }, _callee2, this);
+      }));
+
+      return function customOnReadyStateChange() {
+        return _ref2.apply(this, arguments);
+      };
+    }();
+
+    function customOnComplete(state) {
+      if (state.done) return;
+      state.done = performance.now();
+      state.result = this.response || this.responseText;
+      state.response = this.response;
+      state.responseType = this.responseType;
+
+      if (state.responseType === "" || state.responseType === "text") {
+        state.responseText = this.responseText;
+      }
+
+      state.status = this.status;
+      state.statusText = this.statusText;
+      state.contentType = this.getResponseHeader('content-type');
+    }
+
+    XHR.prototype.open = function open(method, url, async, user, password) {
+      try {
+        var state = getXhrState(this);
+        state.method = method;
+        state.url = url;
+      } catch (err) {
+        log(err);
+      }
+
+      originAddEventListener.call(this, "readystatechange", customOnReadyStateChange, false);
+      var result = originOpen.apply(this, arguments);
+      return result;
     };
-  }();
 
-  function customOnComplete(state) {
-    if (state.done) return;
-    state.done = performance.now();
-    state.result = this.response || this.responseText;
-    state.response = this.response;
-    state.responseType = this.responseType;
+    XHR.prototype.addEventListener = function addEventListener(eventName, listener, useCapture) {
+      try {
+        var state = getXhrState(this);
 
-    if (state.responseType === "" || state.responseType === "text") {
-      state.responseText = this.responseText;
-    }
-
-    state.status = this.status;
-    state.statusText = this.statusText;
-    state.contentType = this.getResponseHeader('content-type');
-  }
-
-  XHR.prototype.open = function open(method, url, async, user, password) {
-    try {
-      var state = getXhrState(this);
-      state.method = method;
-      state.url = url;
-    } catch (err) {
-      log(err);
-    }
-
-    originAddEventListener.call(this, "readystatechange", customOnReadyStateChange, false);
-    var result = originOpen.apply(this, arguments);
-    return result;
-  };
-
-  XHR.prototype.addEventListener = function addEventListener(eventName, listener, useCapture) {
-    try {
-      var state = getXhrState(this);
-
-      if (eventName === "readystatechange") {
-        state.readyStateListeners.push(listener);
-        return true;
+        if (eventName === "readystatechange") {
+          state.readyStateListeners.push(listener);
+          return true;
+        }
+      } catch (err) {
+        log(err);
       }
-    } catch (err) {
-      log(err);
-    }
 
-    var result = originAddEventListener.apply(this, arguments);
-    return result;
-  };
+      var result = originAddEventListener.apply(this, arguments);
+      return result;
+    };
 
-  XHR.prototype.send = function send(data) {
-    var state = null;
+    XHR.prototype.send = function send(data) {
+      var state = null;
 
-    try {
-      state = getXhrState(this);
+      try {
+        state = getXhrState(this);
 
-      if (state.url) {
-        state.sent = performance.now();
-        state.data = data;
-        state.onComplete = customOnComplete;
-        state.onload = this.onload;
-        this.onload = customOnLoad;
+        if (state.url) {
+          state.sent = performance.now();
+          state.data = data;
+          state.onComplete = customOnComplete;
+          state.onload = this.onload;
+          this.onload = customOnLoad;
+        }
+      } catch (err) {
+        log(err);
       }
-    } catch (err) {
-      log(err);
-    }
 
-    originSend.call(this, data);
+      originSend.call(this, data);
+    };
+
+    XHR.prototype.open.toString = function toString() {
+      return originOpen.toString();
+    };
+
+    XHR.prototype.addEventListener.toString = function toString() {
+      return originAddEventListener.toString();
+    };
+
+    XHR.prototype.send.toString = function toString() {
+      return originSend.toString();
+    };
   };
 
-  XHR.prototype.open.toString = function toString() {
-    return originOpen.toString();
-  };
-
-  XHR.prototype.addEventListener.toString = function toString() {
-    return originAddEventListener.toString();
-  };
-
-  XHR.prototype.send.toString = function toString() {
-    return originSend.toString();
-  };
+  main();
 
 })));
