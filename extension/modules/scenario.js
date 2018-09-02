@@ -1,6 +1,7 @@
 import getNameData from '../store/name-npc'
 import parseCsv from '../utils/parseCsv'
 import fetchData from '../fetch'
+import config from '../config'
 
 const txtKeys = ['chapter_name', 'synopsis', 'detail', 'sel1_txt', 'sel2_txt', 'sel3_txt', 'sel4_txt']
 
@@ -17,7 +18,7 @@ const getScenario = async (name) => {
       const id = idArr[0]
       const type = idArr[1] || 'detail'
       const obj = transMap.get(id) || {}
-      obj[type] = item.trans
+      obj[type] = item.trans.replace(/姬塔/g, config.userName)
       transMap.set(id, obj)
     }
   })
@@ -80,7 +81,6 @@ const transStart = async (data, pathname) => {
   const pathRst = pathname.match(/\/scenario.*?\/(scene[^\/]+)\/?/)
   if (!pathRst || !pathRst[1]) return data
   const scenarioName = pathRst[1]
-  const userName = '123'
   const nameData = await getNameData()
   const nameMap = Game.lang !== 'ja' ? nameData['enNameMap'] : nameData['jpNameMap']
 

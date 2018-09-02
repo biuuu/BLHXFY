@@ -1,5 +1,6 @@
 import URI from 'urijs'
 import transScenario from './modules/scenario'
+import getUserName from './store/name-user'
 
 const apiHosts = ['game.granbluefantasy.jp', 'gbf.game.mbga.jp']
 
@@ -17,6 +18,8 @@ export default async function translate(state) {
   if (apiHosts.indexOf(hostname) === -1) return
   if (pathname.includes('scenario')) {
     data = await transScenario(data, pathname)
+  } else if (pathname.includes('/profile/content/index/')) {
+    getUserName(data)
   } else {
     return
   }
