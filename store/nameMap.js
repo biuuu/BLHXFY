@@ -124,7 +124,12 @@ const readMsg = async () => {
   let { list, listLocal } = await mergeList(LANG_MSG_PATH_LOCAL, LANG_MSG_PATH, 'id')
   sortKeywords(list, 'id').forEach(item => {
     if (item.id && item.id.trim()) {
-      langMsgMap.set(item.id, {
+      item.en && langMsgMap.set(`${item.id}${item.en}`, {
+        trans: item.trans,
+        en: item.en,
+        jp: item.jp
+      })
+      item.jp && langMsgMap.set(`${item.id}${item.jp}`, {
         trans: item.trans,
         en: item.en,
         jp: item.jp
