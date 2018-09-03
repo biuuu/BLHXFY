@@ -3,8 +3,7 @@ import { getLocalData, setLocalData } from './local-data'
 import parseCsv from '../utils/parseCsv'
 import sortKeywords from '../utils/sortKeywords'
 
-const enNameMap = new Map()
-const jpNameMap = new Map()
+const langMsgMap = new Map()
 let loaded = false
 
 const nameWithScenario = (list, key = 'name') => {
@@ -37,21 +36,31 @@ const nameWithScenario = (list, key = 'name') => {
   return newList
 }
 
-const getNameData = async () => {
+const getLangMsgData = async () => {
   if (!loaded) {
-    const nameEn = await fetchData('/blhxfy/data/npc-name-en.csv')
-    const nameJp = await fetchData('/blhxfy/data/npc-name-jp.csv')
-    const listEn = nameWithScenario(parseCsv(nameEn))
-    const listJp = nameWithScenario(parseCsv(nameJp))
-    sortKeywords(listEn).forEach(item => {
-      enNameMap.set(item.name, item)
-    })
-    sortKeywords(listJp).forEach(item => {
-      jpNameMap.set(item.name, item)
+    let langMsg = getLocalData('langMsg')
+    if (!langMsg) {
+      langMsg = await fetchData('/blhxfy/data/lang-msg.csv')
+      setLocalData('langMsg', langMsg)
+    }
+    const list = parseCsv(langMsg)
+    list.forEach(item => {
+      if (item.id && item.id.trim()) {
+        item.en && langMsgMap.set(`${item.id}${item.en}`, {
+          trans: item.trans,
+          en: item.en,
+          jp: item.jp
+        })
+        item.jp && langMsgMap.set(`${item.id}${item.jp}`, {
+          trans: item.trans,
+          en: item.en,
+          jp: item.jp
+        })
+      }
     })
     loaded = true
   }
-  return { enNameMap, jpNameMap }
+  return langMsgMap
 }
 
-export default getNameData
+export default getLangMsgData

@@ -10,7 +10,6 @@ const CONFIG = require('./config')
 const zip = require('gulp-zip')
 const rollup = require('rollup')
 const babel = require('rollup-plugin-babel')
-const nodeBti = require('rollup-plugin-node-builtins')
 const cmjs = require('rollup-plugin-commonjs')
 const resolve = require('rollup-plugin-node-resolve')
 const through = require('through2')
@@ -133,7 +132,7 @@ gulp.task('publish', ['md5'], function (done) {
   })
 })
 
-const extensionVer = '0.3'
+const extensionVer = require('./extension/version.json').ver
 const extensionBanner = `// ==UserScript==
 // @name         碧蓝幻想翻译
 // @namespace    https://github.com/biuuu/BLHXFY

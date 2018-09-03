@@ -1,6 +1,6 @@
 {
   "name": "blhxfy",
-  "version": "0.6.5",
+  "version": "0.6.6",
   "description": "碧蓝幻想微风机翻团",
   "main": "main.js",
   "scripts": {
@@ -21,6 +21,7 @@
     "anyproxy": "^4.0.5",
     "axios": "^0.17.1",
     "chokidar": "^2.0.4",
+    "comma-separated-values": "^3.6.4",
     "core-js": "^2.5.7",
     "decompress-zip": "^0.3.1",
     "del": "^3.0.0",
@@ -41,7 +42,6 @@
     "rollup": "^0.64.1",
     "rollup-plugin-babel": "^4.0.0-beta.8",
     "rollup-plugin-commonjs": "^9.1.5",
-    "rollup-plugin-node-builtins": "^2.1.2",
     "rollup-plugin-node-resolve": "^3.3.0",
     "st": "^1.2.2",
     "urijs": "^1.19.0",

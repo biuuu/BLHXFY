@@ -1,8 +1,8 @@
-import CSV from 'papaparse'
+import CSV from 'comma-separated-values'
 
 const parseCsv = (str) => {
   try {
-    return CSV.parse(str.replace(/^\ufeff/, ''), { header: true }).data
+    return CSV.parse(str.replace(/^\ufeff/, ''), { header: true })
   } catch (err) {
     console.error(err)
     return {}
