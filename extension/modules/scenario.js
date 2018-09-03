@@ -18,7 +18,7 @@ const getScenario = async (name) => {
       const id = idArr[0]
       const type = idArr[1] || 'detail'
       const obj = transMap.get(id) || {}
-      obj[type] = item.trans.replace(/姬塔/g, config.userName)
+      obj[type] = item.trans ? item.trans.replace(/姬塔/g, config.userName) : false
       transMap.set(id, obj)
     }
   })
