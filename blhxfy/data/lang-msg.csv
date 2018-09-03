@@ -1716,7 +1716,7 @@ quest_143,開始条件を満たしていないため<br>このクエストを開
 quest_15,以下のキャラがパーティに<br>編成されているため、このクエストを<br>開始することが出来ません。,The following characters can't<br>be used on this quest. Edit<br>your party and try again.,以下人物在编成中，任务无法开始。
 quest_16,以下の指定属性以外のキャラが<br>編成されているため、このクエストを<br>開始することが出来ません。,Only the following elements<br>can be used on this quest.<br>Edit your party and try again.,以下属性以外的人物在编成中，任务无法开始。
 quest_17,選択中のパーティにGuestキャラが編成されているため、このクエストを開始することができません。<br><br>進行中のクエストをクリアまたは撤退することで、開始できるようになります。,You play can't this battle. There is a guest character in your party. First clear this quest or retreat.,该编成含有Guest人物，无法开始任务。<br><br>请完成进行中的任务或者撤退后开始。
-quest_18,以下のキャラがパーティに<br>編成されていないため、このクエストを<br>開始することが出来ません。,The following characters need<br>to be used on this quest. Edit<br>your party and try again.,以下人物在编成中，任务无法开始。
+quest_18,以下のキャラがパーティに<br>編成されていないため、このクエストを<br>開始することが出来ません。,The following characters need<br>to be used on this quest. Edit<br>your party and try again.,以下人物不在编成中，任务无法开始。
 quest_19,以下の指定レアリティの条件を<br>満たしていないため、このクエストを<br>開始することが出来ません。,The following rarity requirements<br>aren't being met. Edit<br>your party and try again.,编成未满足以下稀有度条件，任务无法开始。
 quest_2,古戦場の魔物のお出ましだぁ！<br>騎空団の仲間と協力して倒そうぜぇ！,It's the Unite and Fight monsters!<br>Work with your crew to destroy them!,古战场魔兽出现！和骑空团成员一起打败它们吧！
 quest_20,以下の指定種族の条件を<br>満たしていないため、このクエストを<br>開始することが出来ません。,You can't play this quest. You must include the following character types:,编成未满足以下指定种族条件，任务无法开始。
