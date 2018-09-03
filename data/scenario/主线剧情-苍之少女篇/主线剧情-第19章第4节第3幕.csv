@@ -18,18 +18,18 @@
 崩れるぞ、こりゃあ。",看来打得有些过火了……建筑要塌了啊。
 12,,"く、崩れるぞ、って……<br>
 なら、早く逃げなきゃ！<br>
-姬塔も！　ルリアも！　早く！",要、要塌了……那赶紧逃吧！ 姬塔！ 露丽亚！ 快点！
+姬塔も！　ルリアも！　早く！",要、要塌了……那赶紧逃吧！ 姬塔！ 露莉亚！ 快点！
 13,,"カタリナ……もう帰ろう？<br>
 私達の騎空艇へ……私達の空へ。",卡塔莉娜……回来吧？回我们的骑空艇……回到我们的天空。
 18,,"こいつぁ、いよいよやべぇぞ……！<br>
 急げ！　姬塔！",这下真的不妙了……！赶快跑吧！ 姬塔！
-18-sel1_txt,,<span class='scene-font-katari'>行こう！　ルリア！</span>,<span class='scene-font-katari'>走吧！　露丽亚！</span>
+18-sel1_txt,,<span class='scene-font-katari'>行こう！　ルリア！</span>,<span class='scene-font-katari'>走吧！　露莉亚！</span>
 18-sel2_txt,,<span class='scene-font-katari'>いまは避難だ！</span>,<span class='scene-font-katari'>先避难吧！</span>
 19,,"ま、待って！<br>
 まだカタリナが……！",等、等一下！卡塔莉娜还没……！
 20,,で、でも、カタリナが……！,可、可是，卡塔莉娜她……！
 21,,カタリナ！　はやく、こっちへ！,卡塔莉娜！ 快来这里！
-22,,……ありがとう、ルリア。,……谢谢你，露丽亚。
+22,,……ありがとう、ルリア。,……谢谢你，露莉亚。
 23,,え……？,什么……？
 29,,"<span class='scene-font-katari'>直後、大きく天井が崩落し、</span><br>
 <span class='scene-font-katari'>姬塔一行は、</span><br>
@@ -62,5 +62,5 @@
 ただいま、みんな。",所以……我回来了，各位。
 44,,"<span class='scene-font-katari'>そう告げたカタリナは<br>
 <span class='scene-font-katari'>ルリアの手を取り、</span><br>
-<span class='scene-font-katari'>静かに微笑んだ。</span>",<span class='scene-font-katari'>卡塔莉娜说着，握住露丽亚的手，静静地微笑。</span>
+<span class='scene-font-katari'>静かに微笑んだ。</span>",<span class='scene-font-katari'>卡塔莉娜说着，握住露莉亚的手，静静地微笑。</span>
 info,,1,scene_cp19_q4_s30

@@ -1,5 +1,5 @@
 ﻿id,en,jp,trans
-0-synopsis,,ポンメルン大尉の繰り出すヒドラによって致命傷を負った<span>姬塔</span>を、自らと同期させることで命を救ったことを明かすルリア。<span>姬塔</span>はルリアと文字通りの一心同体となる。,伯梅伦上尉利用海德拉，让<span>姬塔</span>受了致命伤，而露丽亚告诉<span>姬塔</span>，她通过与<span>姬塔</span>同步从而挽回一命。<span>姬塔</span>与露丽亚成了字面意义上的一心同体。
+0-synopsis,,ポンメルン大尉の繰り出すヒドラによって致命傷を負った<span>姬塔</span>を、自らと同期させることで命を救ったことを明かすルリア。<span>姬塔</span>はルリアと文字通りの一心同体となる。,伯梅伦上尉利用海德拉，让<span>姬塔</span>受了致命伤，而露莉亚告诉<span>姬塔</span>，她通过与<span>姬塔</span>同步从而挽回一命。<span>姬塔</span>与露莉亚成了字面意义上的一心同体。
 1,,始原の竜……,原初之龙……
 3,,闇の炎の子……,暗炎之子……
 4,,汝の名は――,"汝名为——"
@@ -19,7 +19,7 @@
 早く傷の手当てをしないと……！！",来这边！姬塔！看来你的意识还很清醒，但还是要尽快治疗伤口……！！
 30,,"<span class='scene-font-katari'>謎の少女ルリアの力により</span><br>
 <span class='scene-font-katari'>星晶獣を召喚し、ヒドラを</span><br>
-<span class='scene-font-katari'>打ち倒した姬塔。</span>",<span class='scene-font-katari'>多亏了神秘少女露丽亚召唤出星晶兽，姬塔终于打倒了海德拉。</span>
+<span class='scene-font-katari'>打ち倒した姬塔。</span>",<span class='scene-font-katari'>多亏了神秘少女露莉亚召唤出星晶兽，姬塔终于打倒了海德拉。</span>
 31,,"<span class='scene-font-katari'>帝国の男がうろたえている</span><br>
 <span class='scene-font-katari'>隙を突き、カタリナの誘導で</span><br>
 <span class='scene-font-katari'>森の外へと脱出したのだった。</span>",<span class='scene-font-katari'>趁着帝国上尉惊慌失措，一行人在卡塔莉娜的带领下逃出了森林。</span>
@@ -36,10 +36,10 @@
 全滅したんじゃねーのかよ？",而且，星晶兽不是在几百年前的霸空战争中全灭了吗？
 37,,"ルリアの力だ。<br>
 この子は<span class='scene-font-spword'>星の民</span>にしか従わぬ<br>
-星晶獣を操ることができる。",这是露丽亚的能力。她能够操纵只服从<span class='scene-font-spword'>星之民</span>的星晶兽。
+星晶獣を操ることができる。",这是露莉亚的能力。她能够操纵只服从<span class='scene-font-spword'>星之民</span>的星晶兽。
 38,,…………,…………
 39,,"そして……<br>
-“これ”もルリアの力なのだろうか……",不过……“这”也是露丽亚的能力吗……
+“これ”もルリアの力なのだろうか……",不过……“这”也是露莉亚的能力吗……
 40,,"<span class='scene-font-katari'>そう言ってカタリナは</span><br>
 <span class='scene-font-katari'>訝しげに姬塔を見る。</span>",<span class='scene-font-katari'>说着，卡塔莉娜惊讶地看向姬塔。</span>
 41,,"<span class='scene-font-katari'>破れた衣服からは肌が覗くものの、</span><br>
@@ -89,7 +89,7 @@
 あの帝国の騎士なんだろ？",可以吗？你姑且还算是帝国的骑士吧？
 61,,"聞いていたろう？<br>
 私が帝国を裏切って<br>
-ルリアを逃がしたんだ。",你也听到了吧？我背叛了帝国，带着露丽亚潜逃了。
+ルリアを逃がしたんだ。",你也听到了吧？我背叛了帝国，带着露莉亚潜逃了。
 62,,"話はあとだ！<br>
 さぁ、構えろ！　敵が来るぞ！",等会儿再讲！快，准备好！敌人攻过来了！
 info,,1,scene_tutorial02
