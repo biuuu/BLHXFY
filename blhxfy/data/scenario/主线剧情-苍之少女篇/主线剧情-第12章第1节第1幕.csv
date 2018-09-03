@@ -1,6 +1,6 @@
 id,en,jp,trans
 0-chapter_name,,第12章　大瀑布の決戦,第十二章  大瀑布决战
-0-synopsis,,<span class='scene-font-place'>アウギュステ大瀑布</span>へと急ぐ<span>姬塔</span>一行。その道中、ルリアの力に不安を持ったオイゲンは、自らの内に秘めたリヴァイアサンへの恩を語る。,<span>姬塔</span>一行赶向<span class='scene-font-place'>Auguste大瀑布</span>。途中，对露丽亚的力量感到不安的欧根，告诉众人利维坦曾有恩于他。
+0-synopsis,,<span class='scene-font-place'>アウギュステ大瀑布</span>へと急ぐ<span>姬塔</span>一行。その道中、ルリアの力に不安を持ったオイゲンは、自らの内に秘めたリヴァイアサンへの恩を語る。,<span>姬塔</span>一行赶向<span class='scene-font-place'>Auguste大瀑布</span>。途中，对露莉亚的力量感到不安的欧根，告诉众人利维坦曾有恩于他。
 0,,"<span class='scene-font-katari'>星晶獣リヴァイアサンを止めるため</span><br>
 <span class='scene-font-katari'>一同は、</span><span class='scene-font-place'>アウギュステ大瀑布</span><span class='scene-font-katari'>を目指す。</span>",<span class='scene-font-katari'>为了阻止星晶兽利维坦，一行人前往</span><span class='scene-font-place'>Auguste大瀑布</span><span class='scene-font-katari'>。</span>
 1,,"――なぁ、姬塔よぉ。<br>
@@ -26,3 +26,4 @@ id,en,jp,trans
 でけぇ恩があるからな……",我欠那片海……欠守护这里的利维坦一个很大的恩情……
 info,,1,scene_cp12_q1_s10
 备注,,,ver-1: @煌月夜 2018/4/15
+,,,

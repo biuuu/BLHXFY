@@ -36,7 +36,7 @@ id,en,jp,trans
 33,,あ、そうだ姬塔！,啊，就是那个啊姬塔！
 34,,オイラ達も、もっと強くなれるように<br>念入りにお参りしとかねぇとな！,为了变得更强，我们也要认真地进行参拜！
 35,,ふふっ、じゃあ私は予定通り、<br>皆がずっと元気でいられますようにって<br>お祈りしますね！,呵呵，那么我会按照预定，祈求大家能一直健康！
-36,,ははっ！<br>頼んだぜ、ルリア！,哈哈！拜托你了，露丽亚！
+36,,ははっ！<br>頼んだぜ、ルリア！,哈哈！拜托你了，露莉亚！
 42,,それにしても、闘神、だったか？,话说回来，说是斗神呢？
 43,,犬神宮の十二神将さんのことですね。,是指犬神宮的十二神将呢。
 44,,そんな風に呼ばれるなんて<br>いったい、どんな奴なんだろうな。,被这样称呼，到底是个怎样的家伙呢。
@@ -59,7 +59,7 @@ id,en,jp,trans
 68,,なんだ！？,什么！ ？
 69,,<span class='scene-font-katari'>今にも衝突しようとしていた</span><br><span class='scene-font-katari'>男達の間に降ってきた影。</span>,一个黑影落在了冲突人群之间。
 72,,…………,............
-73,,<span class='scene-font-katari'>それはルリアの背丈ほどの体高を持つ、</span><br><span class='scene-font-katari'>巨大な犬だった。</span>,那是一只和露丽亚一样高的大狗。
+73,,<span class='scene-font-katari'>それはルリアの背丈ほどの体高を持つ、</span><br><span class='scene-font-katari'>巨大な犬だった。</span>,那是一只和露莉亚一样高的大狗。
 74,,なんだ、この犬は……？,这只狗是...？
 75,,…………,............
 76,,<span class='scene-font-katari'>犬は、吠えるわけでも唸るわけでも</span><br><span class='scene-font-katari'>なかったが、妙な存在感で</span><br><span class='scene-font-katari'>そこにたたずんでいる。</span>,大狗既不吠也不吼，这个奇异的存在就这么在那里立着。
@@ -193,7 +193,7 @@ id,en,jp,trans
 220,,ふふ、大丈夫ですよ～<br>ほーら、すごく大人しいです～,呼呼，没关系的〜瞧，超老实的〜
 221,,ありがとう！<br>嬉しい！,谢谢！好开心啊！
 222,,ふふ、ヴァジラちゃんにガルちゃん、<br>よろしくお願いしますね！,呼呼，瓦姬拉酱和卡鲁酱，有请多多指教！
-224,,<span class='scene-font-katari'>ルリアは、にこにこと笑いながら</span><br><span class='scene-font-katari'>ガルジャナの首筋を撫でた。</span>,露丽亚笑眯眯地摸着卡鲁的脖颈。
+224,,<span class='scene-font-katari'>ルリアは、にこにこと笑いながら</span><br><span class='scene-font-katari'>ガルジャナの首筋を撫でた。</span>,露莉亚笑眯眯地摸着卡鲁的脖颈。
 225,,ははっ！<br>ガルはわしの一番の部下で、<br>仲間で家族で最高の相棒なんだ！,哈哈！卡鲁是我的最好的部下，也是我的最好的伙伴、家人和朋友！
 226,,お！<br>オイラと姬塔も<br>最高の相棒だよな！,哦！我和姬塔也是最好的伙伴！
 227,,あーズルいです！<br>私もですー！,啊真是狡猾啊！我也是啊！
@@ -201,3 +201,4 @@ id,en,jp,trans
 229,,<span class='scene-font-katari'>こうして、十二神将のヴァジラと</span><br><span class='scene-font-katari'>その相棒ガルジャナが</span><br><span class='scene-font-katari'>仲間に加わる。</span>,就这样，十二神将的瓦姬拉和她的伙伴卡鲁加纳加入为了队友。
 230,,<span class='scene-font-katari'>また一段と賑やかになった</span><br><span class='scene-font-katari'>グランサイファーは、新しい年に</span><br><span class='scene-font-katari'>高鳴る期待と共に旅立つのだった。</span>,变得更加热闹的格兰赛法，新的一年也满怀热情地出发了。
 info,,1,scene_fate_chr433_ep1
+,,,

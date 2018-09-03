@@ -1,7 +1,7 @@
 id,en,jp,trans
 0-chapter_name,,第40章　謀略の果て,第40章  谋略终结
 0-synopsis,,フリーシアの操るユグドラシル・マリスに追い詰められ絶体絶命の姬塔達。その間に立ち塞がるように、謎の星晶獣が姿を現した。そして謎の星晶獣との衝突により、ユグドラシル・マリスは活動の限界を迎える。その隙をついて艇に雪崩れ込み、島からの脱出をはかる一行。しかし、ロゼッタはこの場に残るという。そしてロゼッタがビィに全てを託した瞬間、グランサイファーは自我を持ったかのように、ロゼッタを残して飛び立つのであった。,芙莉西雅操纵伊格德拉西尔・恶意将众人逼入绝境。此时，又有另一神秘的星晶兽出现与伊格德拉西尔・恶意冲突，限制其活动。众人趁机乘上骑空艇准备离岛。然而萝赛塔表示她要留在这里，并将一切托付给了阿碧。这时格兰塞法像拥有意识一般自动起飞，将萝赛塔留在了岛上。
-0,,<span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>ルリアとオルキスを連れ、</span><br><span class='scene-font-katari'>神殿の入口まで駆け戻る。</span>,<span class='scene-font-katari'>姬塔一行带着露丽亚与欧尔基斯返回神殿的入口。</span>
+0,,<span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>ルリアとオルキスを連れ、</span><br><span class='scene-font-katari'>神殿の入口まで駆け戻る。</span>,<span class='scene-font-katari'>姬塔一行带着露莉亚与欧尔基斯返回神殿的入口。</span>
 1,,カ、カタリナ……<br>私、いったい何を……？,卡、卡塔莉娜……我、到底做了什么……？
 2,,…………,…………
 3,,詳しい話は後だ！<br>とにかくいまはここから逃げ……,到时候再说！先从这里逃走……
@@ -11,7 +11,7 @@ id,en,jp,trans
 8,,奴らを捕えろ！<br>ユグドラシル・マリス！,抓住他们！伊格德拉西尔・恶意！
 9,,――――！！,————！！
 10,,くっ……<br>またあの星晶獣を……！？,呃……她又召唤那只星晶兽……！？
-11,,この際、多少の負傷はやむをえません。<br>オルキスもルリアも、<br>生きてさえいれば……,事到如今，损失一些战力也没办法。只要欧尔基斯和露丽亚活着……
+11,,この際、多少の負傷はやむをえません。<br>オルキスもルリアも、<br>生きてさえいれば……,事到如今，损失一些战力也没办法。只要欧尔基斯和露莉亚活着……
 12,,それはちょっとひどいんじゃないの？,你这样是不是有些过分了？
 15,,――――,————
 16,,こ、この星晶獣は……！？,这、这只星晶兽是……！？
@@ -42,3 +42,4 @@ id,en,jp,trans
 45,,<span class='scene-font-katari'>こうしてグランサイファーは、</span><br><span class='scene-font-katari'>ロゼッタをルーマシー群島に残し、</span><br><span class='scene-font-katari'>大空へと舞い上がる。</span>,<span class='scene-font-katari'>格兰塞法起航，只留下萝赛塔一人在Lumacie群岛。</span>
 46,,<span class='scene-font-katari'>数々の傷を残しながらも、</span><br><span class='scene-font-katari'>一行はルーマシー群島を</span><br><span class='scene-font-katari'>脱出するのだった。</span>,<span class='scene-font-katari'>就这样，满身疮痍的众人顺利逃离了Lumacie群岛。</span>
 info,,1,scene_cp40_q4_s30
+,,,

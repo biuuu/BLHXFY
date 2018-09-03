@@ -20,7 +20,7 @@ id,en,jp,trans
 23,,絶対に勝てない相手に<br>人は努力をしねぇからなぁ……,毕竟面对绝对赢不了的对手，人是不会努力的……
 24,,そ、そんな……,怎、怎么会……
 26,,<span class='scene-font-katari'>ガンダルヴァの人智を超えた力を前に</span><br><span class='scene-font-katari'>一行はなすすべなく、</span><br><span class='scene-font-katari'>次々と仲間が倒れていく。</span>,<span class='scene-font-katari'>健达缚超凡的力量让同伴接连倒下。</span>
-27,,<span class='scene-font-katari'>そうして気づけば立っているのは、</span><br><span class='scene-font-katari'>姬塔、ビィ、ルリア、</span><br><span class='scene-font-katari'>そしてリーシャだけとなっていた。</span>,<span class='scene-font-katari'>顷刻间，只留下姬塔、阿碧、露丽亚和莉夏还安然无恙。</span>
+27,,<span class='scene-font-katari'>そうして気づけば立っているのは、</span><br><span class='scene-font-katari'>姬塔、ビィ、ルリア、</span><br><span class='scene-font-katari'>そしてリーシャだけとなっていた。</span>,<span class='scene-font-katari'>顷刻间，只留下姬塔、阿碧、露莉亚和莉夏还安然无恙。</span>
 29,,さて……<br>残るはお前らだけだな。<br>なかなか楽しませてもらったぜ。,那么……只剩下你们几个了。这一战真是畅快啊。
 30,,くっ……,唔……
 31,,お前ら、頑張ったほうだぜ。<br>間違いなく一線を越えた強さに<br>足を踏み入れつつある。,你们算是最努力的了。和其他人相比无疑是更高境界的强者。
@@ -41,3 +41,4 @@ id,en,jp,trans
 49,,全空を股にかける化物の血……<br>その血の誇りを、<br>このオレ様に見せてみろ！！,驰骋全空的怪物的血脉……让我看看啊，你们的骄傲！！
 50,,やろう……姬塔。<br>私はもう絶対に逃げない……<br>絶対に……負けたりしない！！,一起上吧……姬塔。我不会再逃避了……绝对……不会输了！！
 info,,1,scene_cp44_q4_s10
+,,,

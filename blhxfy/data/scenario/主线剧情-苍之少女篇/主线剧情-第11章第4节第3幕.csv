@@ -33,7 +33,7 @@ id,en,jp,trans
 リヴァイアサンはおそらく<br>
 ダメージによって暴走状態にある。",是这样啊……！利维坦大概是因为损伤才进入暴走状态。
 21,,"それをルリアの力で、<br>
-治めてしまえば……",那么以露丽亚的能力使它平静下来……
+治めてしまえば……",那么以露莉亚的能力使它平静下来……
 22,,"……いや、しかし、<br>
 リヴァイアサンはいったい<br>
 どこに居るんだ？",……可是，利维坦究竟在哪儿呢？
@@ -52,3 +52,4 @@ id,en,jp,trans
 <span class='scene-font-katari'>瀑布にその巨体を顕現させつつあった。</span>",<span class='scene-font-katari'>大星晶兽成了即将毁灭</span><span class='scene-font-place'>Auguste</span><span class='scene-font-katari'>的灾难，其巨硕的身体正于瀑布中渐渐现形。</span>
 info,,1,scene_cp11_q4_s30
 备注,,,ver-1: @煌月夜 2018/4/14
+,,,

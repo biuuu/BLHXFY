@@ -1,9 +1,9 @@
 id,en,jp,trans
 0-chapter_name,,第4章　決戦、嵐の守護神,第4章  决战  狂风守护神
-0-synopsis,,ルリアの力によって星晶獣ティアマトを治め、<span class='scene-font-place'>ポート・ブリーズ</span>を襲う嵐を止めることを決意した<span>姬塔</span>一行。ルリアが感じるという星晶獣の息吹を頼りに、ティアマトの元へと向かっていく。,<span>姬塔</span>一行决定依靠露丽亚的能力使星晶兽提亚玛特安定下来，平息威胁<span class='scene-font-place'>微风港</span>的暴风雨。追寻着露丽亚感受到的星晶兽气息，一行人向提亚玛特所在之处前进。
+0-synopsis,,ルリアの力によって星晶獣ティアマトを治め、<span class='scene-font-place'>ポート・ブリーズ</span>を襲う嵐を止めることを決意した<span>姬塔</span>一行。ルリアが感じるという星晶獣の息吹を頼りに、ティアマトの元へと向かっていく。,<span>姬塔</span>一行决定依靠露莉亚的能力使星晶兽提亚玛特安定下来，平息威胁<span class='scene-font-place'>微风港</span>的暴风雨。追寻着露莉亚感受到的星晶兽气息，一行人向提亚玛特所在之处前进。
 0,,"<span class='scene-font-katari'>ルリアが感じるという、</span><br>
 <span class='scene-font-katari'>星の力と星晶獣の息吹を頼りに、</span><br>
-<span class='scene-font-katari'>姬塔は嵐の中を進む。</span>",<span class='scene-font-katari'>追寻着露丽亚感受到的星晶兽气息，姬塔等人在暴风雨中前行。</span>
+<span class='scene-font-katari'>姬塔は嵐の中を進む。</span>",<span class='scene-font-katari'>追寻着露莉亚感受到的星晶兽气息，姬塔等人在暴风雨中前行。</span>
 1,,近いです……どんどん強くなってる。,很近了……感觉越来越强了。
 2,,"頼んだぜ、嬢ちゃん……<br>
 嬢ちゃんのことは、<br>
@@ -27,3 +27,4 @@ id,en,jp,trans
 皆、気を引き締めていくぞ！",嗨，魔兽出来了。大家绷紧神经迎击吧！
 info,,1,scene_cp4_q1_s10
 备注,,,ver-1: @煌月夜 2018/4/4
+,,,

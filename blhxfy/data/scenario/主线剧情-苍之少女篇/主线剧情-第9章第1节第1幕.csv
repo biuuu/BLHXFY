@@ -1,6 +1,6 @@
 id,en,jp,trans
 0-chapter_name,,第9章　雲上の水平線,第9章  云端水平线
-0-synopsis,,ザカ大公の話から、黒騎士を追って降り立った<span class='scene-font-place'>アウギュステ列島</span>で、ルリアは不思議な気配を感じ取る。しかし、それを確かめる間もなく、謎の傭兵が一同に襲いかかってきた。,听了扎卡大公的话，一行人追着黑骑士来到<span class='scene-font-place'>Auguste列岛</span>。露丽亚在这里感到一种不可思议的气息，然而还未来得及确认就遭到了神秘佣兵的袭击。
+0-synopsis,,ザカ大公の話から、黒騎士を追って降り立った<span class='scene-font-place'>アウギュステ列島</span>で、ルリアは不思議な気配を感じ取る。しかし、それを確かめる間もなく、謎の傭兵が一同に襲いかかってきた。,听了扎卡大公的话，一行人追着黑骑士来到<span class='scene-font-place'>Auguste列岛</span>。露莉亚在这里感到一种不可思议的气息，然而还未来得及确认就遭到了神秘佣兵的袭击。
 1,,"<span class='scene-font-katari'>黒騎士を追って辿り着いた</span><br>
 <span class='scene-font-place'>アウギュステ列島</span><span class='scene-font-katari'>。</span>",<span class='scene-font-katari'>一行人追着黑骑士来到</span><span class='scene-font-place'>Auguste列岛</span>。
 2,,"<span class='scene-font-katari'>そこは清らかな水を湛える</span><br>
@@ -16,7 +16,7 @@ id,en,jp,trans
 12,,う、うん……,嗯、嗯……
 13,,"どうした、ルリア？<br>
 <span class='scene-font-place'>アウギュステ</span>に着いてから<br>
-ずっと難しい顔をしているが……",怎么了，露丽亚？到<span class='scene-font-place'>Auguste</span>之后一直愁眉苦脸的……
+ずっと難しい顔をしているが……",怎么了，露莉亚？到<span class='scene-font-place'>Auguste</span>之后一直愁眉苦脸的……
 14,,"うん……えっとね？<br>
 ずっと星晶獣の気配がするんだけど<br>
 それがなんだか変な感じで……",嗯……那个，我一直能感觉到星晶兽的气息，但又感觉很奇怪……
@@ -43,3 +43,4 @@ id,en,jp,trans
 逃げるぞ！　姬塔！",现在不是冷静分析的时候！ 逃了！姬塔！
 info,,1,scene_cp9_q1_s10
 备注,,,ver-1: @煌月夜 2018/4/9
+,,,
