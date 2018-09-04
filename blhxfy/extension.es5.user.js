@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         碧蓝幻想翻译兼容版
 // @namespace    https://github.com/biuuu/BLHXFY
-// @version      0.5.0
+// @version      0.5.1
 // @description  碧蓝幻想的汉化脚本，提交新翻译请到 https://github.com/biuuu/BLHXFY
 // @icon         http://game.granbluefantasy.jp/favicon.ico
 // @author       biuuu
@@ -6543,10 +6543,10 @@
       return capability.promise;
     }
   });
-  _export(_export.S + _export.F * (!USE_NATIVE$1), PROMISE, {
+  _export(_export.S + _export.F * (_library || !USE_NATIVE$1), PROMISE, {
     // 25.4.4.6 Promise.resolve(x)
     resolve: function resolve(x) {
-      return _promiseResolve(this, x);
+      return _promiseResolve(_library && this === Wrapper ? $Promise : this, x);
     }
   });
   _export(_export.S + _export.F * !(USE_NATIVE$1 && _iterDetect(function (iter) {
