@@ -6543,10 +6543,10 @@
       return capability.promise;
     }
   });
-  _export(_export.S + _export.F * (_library || !USE_NATIVE$1), PROMISE, {
+  _export(_export.S + _export.F * (!USE_NATIVE$1), PROMISE, {
     // 25.4.4.6 Promise.resolve(x)
     resolve: function resolve(x) {
-      return _promiseResolve(_library && this === Wrapper ? $Promise : this, x);
+      return _promiseResolve(this, x);
     }
   });
   _export(_export.S + _export.F * !(USE_NATIVE$1 && _iterDetect(function (iter) {
@@ -9917,11 +9917,7 @@
                   if (!data[key1]) return;
 
                   if (data[key1].recast_interval_comment) {
-                    data[key1].recast_interval_comment = data[key1].recast_interval_comment.replace('ターン', '回合').replace('turns', '回合').replace('turn', '回合').replace('Cooldown:', '使用间隔:').replace('使用間隔:', '使用间隔:');
-                  }
-
-                  if (data[key1].effect_time_comment) {
-                    data[key1].effect_time_comment = data[key1].effect_time_comment.replace('ターン', '回合').replace('turns', '回合').replace('turn', '回合');
+                    data[key1].recast_comment = data[key1].recast_comment.replace('ターン', '回合').replace('turns', '回合').replace('turn', '回合').replace('Cooldown:', '使用间隔:').replace('使用間隔:', '使用间隔:');
                   }
 
                   var _getPlusStr = getPlusStr(data[key1].name),

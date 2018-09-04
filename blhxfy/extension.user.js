@@ -6063,11 +6063,7 @@
 	      if (!data[key1]) return;
 
 	      if (data[key1].recast_interval_comment) {
-	        data[key1].recast_interval_comment = data[key1].recast_interval_comment.replace('ターン', '回合').replace('turns', '回合').replace('turn', '回合').replace('Cooldown:', '使用间隔:').replace('使用間隔:', '使用间隔:');
-	      }
-
-	      if (data[key1].effect_time_comment) {
-	        data[key1].effect_time_comment = data[key1].effect_time_comment.replace('ターン', '回合').replace('turns', '回合').replace('turn', '回合');
+	        data[key1].recast_comment = data[key1].recast_comment.replace('ターン', '回合').replace('turns', '回合').replace('turn', '回合').replace('Cooldown:', '使用间隔:').replace('使用間隔:', '使用间隔:');
 	      }
 
 	      const [plus1, plus2] = getPlusStr(data[key1].name);
