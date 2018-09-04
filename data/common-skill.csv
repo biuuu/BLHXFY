@@ -55,9 +55,9 @@ Big boost to critical hit rate,自身暴击率上升(大),2
 自分の攻防UP,提高自身的攻击和防御,2
 Hit to a foe's ATK and DEF,降低目标的攻击和防御,2
 Boost to ATK and DEF,提高自身的攻击和防御,2
-味方全体の弱体効果無効($num回),我方全体获得弱体无效($1回合),1
+味方全体の弱体効果無効($num回),我方全体获得负面效果免疫($1回合),1
 $numターンの間自分が必ずトリプルアタック,$1回合内必定三连,1
-$num-hit immunity to debuff for all allies,我方全体获得弱体无效($1回合),1
+$num-hit immunity to debuff for all allies,我方全体免疫负面效果($1回合),1
 Deal triple attacks for $num turns,$1回合内必定三连,1
 自分のHP回復,自身HP回复,2
 Restore HP,自身HP回复,2
