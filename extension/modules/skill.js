@@ -71,16 +71,10 @@ const parseSkill = async (data) => {
       const key2 = item[1]
       if (!data[key1]) return
       if (data[key1].recast_interval_comment) {
-        data[key1].recast_interval_comment = data[key1]
-          .recast_interval_comment
+        data[key1].recast_comment = data[key1]
+          .recast_comment
           .replace('ターン', '回合').replace('turns', '回合')
           .replace('turn', '回合').replace('Cooldown:', '使用间隔:').replace('使用間隔:', '使用间隔:')
-      }
-      if (data[key1].effect_time_comment) {
-        data[key1].effect_time_comment = data[key1]
-          .effect_time_comment
-          .replace('ターン', '回合').replace('turns', '回合')
-          .replace('turn', '回合')
       }
       const [plus1, plus2] = getPlusStr(data[key1].name)
       let trans = skillData[key2 + plus2]
