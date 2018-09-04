@@ -13,6 +13,7 @@
   display: inline-flex !important;
   align-items: center;
   justify-content: center;
+  height: 20px;
   color: #c3e6e7;
   text-shadow: 1px 1px 1px rgba(0,0,0,0.5), -1px -1px 1px rgba(0,0,0,0.5), -1px 1px 1px rgba(0,0,0,0.5), 1px -1px 1px rgba(0,0,0,0.5);
   font-weight: bold;
