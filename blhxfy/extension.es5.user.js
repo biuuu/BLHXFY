@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         碧蓝幻想翻译兼容版
 // @namespace    https://github.com/biuuu/BLHXFY
-// @version      0.4.3
+// @version      0.5.0
 // @description  碧蓝幻想的汉化脚本，提交新翻译请到 https://github.com/biuuu/BLHXFY
 // @icon         http://game.granbluefantasy.jp/favicon.ico
 // @author       biuuu
@@ -1191,6 +1191,44 @@
     }
 
     return obj;
+  }
+
+  function _slicedToArray(arr, i) {
+    return _arrayWithHoles(arr) || _iterableToArrayLimit(arr, i) || _nonIterableRest();
+  }
+
+  function _arrayWithHoles(arr) {
+    if (Array.isArray(arr)) return arr;
+  }
+
+  function _iterableToArrayLimit(arr, i) {
+    var _arr = [];
+    var _n = true;
+    var _d = false;
+    var _e = undefined;
+
+    try {
+      for (var _i = arr[Symbol.iterator](), _s; !(_n = (_s = _i.next()).done); _n = true) {
+        _arr.push(_s.value);
+
+        if (i && _arr.length === i) break;
+      }
+    } catch (err) {
+      _d = true;
+      _e = err;
+    } finally {
+      try {
+        if (!_n && _i["return"] != null) _i["return"]();
+      } finally {
+        if (_d) throw _e;
+      }
+    }
+
+    return _arr;
+  }
+
+  function _nonIterableRest() {
+    throw new TypeError("Invalid attempt to destructure non-iterable instance");
   }
 
   var _wks = createCommonjsModule(function (module) {
@@ -9473,6 +9511,471 @@
     return _transLangMsg.apply(this, arguments);
   }
 
+  var ENDS_WITH = 'endsWith';
+  var $endsWith = ''[ENDS_WITH];
+
+  _export(_export.P + _export.F * _failsIsRegexp(ENDS_WITH), 'String', {
+    endsWith: function endsWith(searchString /* , endPosition = @length */) {
+      var that = _stringContext(this, searchString, ENDS_WITH);
+      var endPosition = arguments.length > 1 ? arguments[1] : undefined;
+      var len = _toLength(that.length);
+      var end = endPosition === undefined ? len : Math.min(_toLength(endPosition), len);
+      var search = String(searchString);
+      return $endsWith
+        ? $endsWith.call(that, search, end)
+        : that.slice(end - search.length, end) === search;
+    }
+  });
+
+  var dP$4 = _objectDp.f;
+  var gOPN$2 = _objectGopn.f;
+
+
+  var $RegExp = _global.RegExp;
+  var Base = $RegExp;
+  var proto$1 = $RegExp.prototype;
+  var re1 = /a/g;
+  var re2 = /a/g;
+  // "new" creates a new object, old webkit buggy here
+  var CORRECT_NEW = new $RegExp(re1) !== re1;
+
+  if (_descriptors && (!CORRECT_NEW || _fails(function () {
+    re2[_wks('match')] = false;
+    // RegExp constructor can alter flags and IsRegExp works correct with @@match
+    return $RegExp(re1) != re1 || $RegExp(re2) == re2 || $RegExp(re1, 'i') != '/a/i';
+  }))) {
+    $RegExp = function RegExp(p, f) {
+      var tiRE = this instanceof $RegExp;
+      var piRE = _isRegexp(p);
+      var fiU = f === undefined;
+      return !tiRE && piRE && p.constructor === $RegExp && fiU ? p
+        : _inheritIfRequired(CORRECT_NEW
+          ? new Base(piRE && !fiU ? p.source : p, f)
+          : Base((piRE = p instanceof $RegExp) ? p.source : p, piRE && fiU ? _flags.call(p) : f)
+        , tiRE ? this : proto$1, $RegExp);
+    };
+    var proxy = function (key) {
+      key in $RegExp || dP$4($RegExp, key, {
+        configurable: true,
+        get: function () { return Base[key]; },
+        set: function (it) { Base[key] = it; }
+      });
+    };
+    for (var keys = gOPN$2(Base), i$1 = 0; keys.length > i$1;) proxy(keys[i$1++]);
+    proto$1.constructor = $RegExp;
+    $RegExp.prototype = proto$1;
+    _redefine(_global, 'RegExp', $RegExp);
+  }
+
+  _setSpecies('RegExp');
+
+  var skillMap = new Map();
+  var skillKeys = [['special_skill', 'special'], ['action_ability1', 'skill-1'], ['action_ability2', 'skill-2'], ['action_ability3', 'skill-3'], ['action_ability4', 'skill-4'], ['support_ability1', 'support-1'], ['support_ability2', 'support-2'], ['support_ability_of_npczenith', 'skill-lb']];
+  var state = {
+    status: 'init',
+    cStatus: 'init',
+    skillMap: skillMap,
+    skillKeys: skillKeys,
+    skillData: null,
+    commSkillMap: new Map(),
+    autoTransCache: new Map()
+  };
+
+  var getCommSkillMap =
+  /*#__PURE__*/
+  function () {
+    var _ref = _asyncToGenerator(
+    /*#__PURE__*/
+    regeneratorRuntime.mark(function _callee() {
+      var csvData, list, sortedList;
+      return regeneratorRuntime.wrap(function _callee$(_context) {
+        while (1) {
+          switch (_context.prev = _context.next) {
+            case 0:
+              if (!(state.cStatus === 'loaded')) {
+                _context.next = 2;
+                break;
+              }
+
+              return _context.abrupt("return");
+
+            case 2:
+              _context.next = 4;
+              return fetchWithHash('/blhxfy/data/common-skill.csv');
+
+            case 4:
+              csvData = _context.sent;
+              _context.next = 7;
+              return parseCsv(csvData);
+
+            case 7:
+              list = _context.sent;
+              sortedList = sortKeywords(list, 'comment');
+              sortedList.forEach(function (item) {
+                if (item.comment && item.trans) {
+                  var comment = item.comment.trim();
+                  var trans = item.trans.trim();
+                  var type = item.type.trim() || '1';
+
+                  if (comment && trans) {
+                    state.commSkillMap.set(comment, {
+                      trans: trans,
+                      type: type
+                    });
+                  }
+                }
+              });
+              state.cStatus = 'loaded';
+
+            case 11:
+            case "end":
+              return _context.stop();
+          }
+        }
+      }, _callee, this);
+    }));
+
+    return function getCommSkillMap() {
+      return _ref.apply(this, arguments);
+    };
+  }();
+
+  var setSkillMap = function setSkillMap(list) {
+    var stable = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : true;
+    var npcId, active, idArr;
+    var _iteratorNormalCompletion = true;
+    var _didIteratorError = false;
+    var _iteratorError = undefined;
+
+    try {
+      for (var _iterator = list[Symbol.iterator](), _step; !(_iteratorNormalCompletion = (_step = _iterator.next()).done); _iteratorNormalCompletion = true) {
+        var row = _step.value;
+
+        if (row.id === 'npc') {
+          idArr = row.detail.split('|');
+        } else if (row.id === 'active') {
+          if (row.name !== '0') {
+            active = true;
+          }
+        }
+      }
+    } catch (err) {
+      _didIteratorError = true;
+      _iteratorError = err;
+    } finally {
+      try {
+        if (!_iteratorNormalCompletion && _iterator.return != null) {
+          _iterator.return();
+        }
+      } finally {
+        if (_didIteratorError) {
+          throw _iteratorError;
+        }
+      }
+    }
+
+    if (!idArr.length || !idArr[0]) return;
+    npcId = idArr[1] || idArr[0];
+    var skillData = {};
+    var _iteratorNormalCompletion2 = true;
+    var _didIteratorError2 = false;
+    var _iteratorError2 = undefined;
+
+    try {
+      for (var _iterator2 = list[Symbol.iterator](), _step2; !(_iteratorNormalCompletion2 = (_step2 = _iterator2.next()).done); _iteratorNormalCompletion2 = true) {
+        var _row = _step2.value;
+
+        if (stable || active) {
+          skillData[_row.id] = _row;
+        }
+      }
+    } catch (err) {
+      _didIteratorError2 = true;
+      _iteratorError2 = err;
+    } finally {
+      try {
+        if (!_iteratorNormalCompletion2 && _iterator2.return != null) {
+          _iterator2.return();
+        }
+      } finally {
+        if (_didIteratorError2) {
+          throw _iteratorError2;
+        }
+      }
+    }
+
+    state.skillMap.set(npcId, skillData);
+  };
+
+  var getSkillData =
+  /*#__PURE__*/
+  function () {
+    var _ref2 = _asyncToGenerator(
+    /*#__PURE__*/
+    regeneratorRuntime.mark(function _callee2(npcId) {
+      var csvName, csvData, list;
+      return regeneratorRuntime.wrap(function _callee2$(_context2) {
+        while (1) {
+          switch (_context2.prev = _context2.next) {
+            case 0:
+              _context2.next = 2;
+              return getCommSkillMap();
+
+            case 2:
+              if (state.skillData) {
+                _context2.next = 6;
+                break;
+              }
+
+              _context2.next = 5;
+              return fetchWithHash('/blhxfy/data/skill.json');
+
+            case 5:
+              state.skillData = _context2.sent;
+
+            case 6:
+              csvName = state.skillData[npcId];
+
+              if (!csvName) {
+                _context2.next = 13;
+                break;
+              }
+
+              _context2.next = 10;
+              return fetchWithHash("/blhxfy/data/skill/".concat(csvName));
+
+            case 10:
+              csvData = _context2.sent;
+              list = parseCsv(csvData);
+              setSkillMap(list);
+
+            case 13:
+              return _context2.abrupt("return", state);
+
+            case 14:
+            case "end":
+              return _context2.stop();
+          }
+        }
+      }, _callee2, this);
+    }));
+
+    return function getSkillData(_x) {
+      return _ref2.apply(this, arguments);
+    };
+  }();
+
+  var elemtRE = '([光闇水火風土]|light|dark|water|wind|earth|fire)';
+  var elemtMap = {
+    light: '光',
+    '光': '光',
+    'dark': '暗',
+    '闇': '暗',
+    'water': '水',
+    '水': '水',
+    wind: '风',
+    '風': '风',
+    'earth': '土',
+    '土': '土',
+    'fire': '火',
+    '火': '火'
+  };
+  var numRE = '(\\d{1,4})';
+  var percentRE = '(\\d{1,4}%)';
+
+  var parseRegExp = function parseRegExp(str) {
+    return str.replace(/\(/g, '\\(').replace(/\)/g, '\\)').replace(/\$elemt/g, elemtRE).replace(/\$num/g, numRE).replace(/\$percent/g, percentRE);
+  };
+
+  var transSkill = function transSkill(comment, _ref) {
+    var commSkillMap = _ref.commSkillMap,
+        autoTransCache = _ref.autoTransCache;
+    if (autoTransCache.has(comment)) return autoTransCache.get(comment);
+    var result = comment;
+    var _iteratorNormalCompletion = true;
+    var _didIteratorError = false;
+    var _iteratorError = undefined;
+
+    try {
+      var _loop = function _loop() {
+        var _step$value = _slicedToArray(_step.value, 2),
+            key = _step$value[0],
+            value = _step$value[1];
+
+        if (!key.trim()) return "continue";
+        var trans = value.trans,
+            type = value.type;
+
+        if (type === '1') {
+          var re = new RegExp(parseRegExp(key), 'gi');
+          result = result.replace(re, function () {
+            var _trans = trans;
+
+            for (var _len = arguments.length, arr = new Array(_len), _key = 0; _key < _len; _key++) {
+              arr[_key] = arguments[_key];
+            }
+
+            for (var i = 1; i < arr.length - 2; i++) {
+              var eleKey = arr[i].toLowerCase();
+
+              if (elemtMap[eleKey]) {
+                _trans = _trans.replace("$".concat(i), elemtMap[eleKey]);
+              } else {
+                _trans = _trans.replace("$".concat(i), arr[i]);
+              }
+            }
+
+            return _trans;
+          });
+        } else if (type === '2') {
+          result = result.replace(key, trans);
+        } else if (type === '3') {
+          result = result.replace("(".concat(key, ")"), "(".concat(trans, ")"));
+        }
+      };
+
+      for (var _iterator = commSkillMap[Symbol.iterator](), _step; !(_iteratorNormalCompletion = (_step = _iterator.next()).done); _iteratorNormalCompletion = true) {
+        var _ret = _loop();
+
+        if (_ret === "continue") continue;
+      }
+    } catch (err) {
+      _didIteratorError = true;
+      _iteratorError = err;
+    } finally {
+      try {
+        if (!_iteratorNormalCompletion && _iterator.return != null) {
+          _iterator.return();
+        }
+      } finally {
+        if (_didIteratorError) {
+          throw _iteratorError;
+        }
+      }
+    }
+
+    autoTransCache.set(comment, result);
+    return result;
+  };
+
+  var getPlusStr = function getPlusStr(str) {
+    var plusStr = '';
+    var plusStr2 = '';
+    var _str = str;
+
+    while (_str.endsWith('+') || _str.endsWith('＋')) {
+      plusStr += '＋';
+      plusStr2 += '+';
+      _str = _str.slice(0, _str.length - 1);
+    }
+
+    return [plusStr, plusStr2];
+  };
+
+  var parseSkill =
+  /*#__PURE__*/
+  function () {
+    var _ref2 = _asyncToGenerator(
+    /*#__PURE__*/
+    regeneratorRuntime.mark(function _callee(data) {
+      var npcId, skillState, skillData, translated, keys, trans;
+      return regeneratorRuntime.wrap(function _callee$(_context) {
+        while (1) {
+          switch (_context.prev = _context.next) {
+            case 0:
+              if (!(!data.master || !data.master.id)) {
+                _context.next = 2;
+                break;
+              }
+
+              return _context.abrupt("return", data);
+
+            case 2:
+              npcId = "".concat(data.master.id);
+              _context.next = 5;
+              return getSkillData(npcId);
+
+            case 5:
+              skillState = _context.sent;
+
+              if (skillState) {
+                _context.next = 8;
+                break;
+              }
+
+              return _context.abrupt("return", data);
+
+            case 8:
+              skillData = skillState.skillMap.get(npcId);
+              translated = new Map();
+              keys = skillState.skillKeys;
+
+              if (skillData) {
+                keys.forEach(function (item) {
+                  var key1 = item[0];
+                  var key2 = item[1];
+                  if (!data[key1]) return;
+
+                  if (data[key1].recast_interval_comment) {
+                    data[key1].recast_interval_comment = data[key1].recast_interval_comment.replace('ターン', '回合').replace('turns', '回合').replace('turn', '回合').replace('Cooldown:', '使用间隔:').replace('使用間隔:', '使用间隔:');
+                  }
+
+                  if (data[key1].effect_time_comment) {
+                    data[key1].effect_time_comment = data[key1].effect_time_comment.replace('ターン', '回合').replace('turns', '回合').replace('turn', '回合');
+                  }
+
+                  var _getPlusStr = getPlusStr(data[key1].name),
+                      _getPlusStr2 = _slicedToArray(_getPlusStr, 2),
+                      plus1 = _getPlusStr2[0],
+                      plus2 = _getPlusStr2[1];
+
+                  var trans = skillData[key2 + plus2];
+
+                  if (!trans) {
+                    trans = skillData[key2];
+                    if (!trans) return;
+                  }
+
+                  if (trans.name) {
+                    data[key1].name = trans.name + plus1;
+                  }
+
+                  if (trans.detail) {
+                    data[key1].comment = trans.detail;
+                    translated.set(key1, true);
+                  }
+                });
+
+                if (data.master) {
+                  trans = skillData['npc'];
+                  if (trans && trans.name) data.master.name = trans.name;
+                }
+              }
+
+              keys.forEach(function (item) {
+                if (!translated.get(item[0])) {
+                  var skill = data[item[0]];
+
+                  if (skill) {
+                    skill.comment = transSkill(skill.comment, skillState);
+                  }
+                }
+              });
+              return _context.abrupt("return", data);
+
+            case 14:
+            case "end":
+              return _context.stop();
+          }
+        }
+      }, _callee, this);
+    }));
+
+    return function parseSkill(_x) {
+      return _ref2.apply(this, arguments);
+    };
+  }();
+
   var getUserName = function getUserName(data) {
     var html = decodeURIComponent(data.data);
     var rgs = html.match(/<span\sclass="txt-user-name">([^<]+)<\/span>/);
@@ -9534,7 +10037,7 @@
 
             case 11:
               data = _context.sent;
-              _context.next = 22;
+              _context.next = 28;
               break;
 
             case 14:
@@ -9552,16 +10055,30 @@
 
             case 18:
               data = _context.sent;
-              _context.next = 22;
+              _context.next = 28;
               break;
 
             case 21:
+              if (!pathname.includes('/npc/npc/')) {
+                _context.next = 27;
+                break;
+              }
+
+              _context.next = 24;
+              return parseSkill(data);
+
+            case 24:
+              data = _context.sent;
+              _context.next = 28;
+              break;
+
+            case 27:
               return _context.abrupt("return");
 
-            case 22:
+            case 28:
               state.result = isJSON ? JSON.stringify(data) : data;
 
-            case 23:
+            case 29:
             case "end":
               return _context.stop();
           }
