@@ -362,7 +362,7 @@
     return store[key] || (store[key] = value !== undefined ? value : {});
   })('versions', []).push({
     version: _core.version,
-    mode: 'global',
+    mode: _library ? 'pure' : 'global',
     copyright: '© 2018 Denis Pushkarev (zloirock.ru)'
   });
   });
@@ -6543,10 +6543,10 @@
       return capability.promise;
     }
   });
-  _export(_export.S + _export.F * (!USE_NATIVE$1), PROMISE, {
+  _export(_export.S + _export.F * (_library || !USE_NATIVE$1), PROMISE, {
     // 25.4.4.6 Promise.resolve(x)
     resolve: function resolve(x) {
-      return _promiseResolve(this, x);
+      return _promiseResolve(_library && this === Wrapper ? $Promise : this, x);
     }
   });
   _export(_export.S + _export.F * !(USE_NATIVE$1 && _iterDetect(function (iter) {
