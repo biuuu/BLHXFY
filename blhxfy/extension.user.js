@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         碧蓝幻想翻译
 // @namespace    https://github.com/biuuu/BLHXFY
-// @version      0.5.1
+// @version      0.5.2
 // @description  碧蓝幻想的汉化脚本，提交新翻译请到 https://github.com/biuuu/BLHXFY
 // @icon         http://game.granbluefantasy.jp/favicon.ico
 // @author       biuuu
@@ -5909,7 +5909,7 @@
 	  const list = await parseCsv(csvData);
 	  const sortedList = sortKeywords(list, 'comment');
 	  sortedList.forEach(item => {
-	    if (item.comment && item.trans) {
+	    if (item.comment && item.trans && item.type) {
 	      const comment = item.comment.trim();
 	      const trans = item.trans.trim();
 	      const type = item.type.trim() || '1';
