@@ -487,36 +487,11 @@ body .prt-scene-comment .prt-message-area {
   unicode-range: U+3000-303F, U+FF00-FFEF;
 }
 
-html body,
-html .prt-user-info .prt-info-profile .btn-user-name,
 .prt-scene-comment, .prt-log-display,
-.pop-synopsis .prt-pop-synopsis span,
-html .prt-user-name .txt-user-name {
+.prt-user-name .txt-user-name {
     font-family: yahei, "Microsoft Jhenghei", "Yu Gothic", "Meiryo", sans-serif !important;
 }
 
-div.skill-queue,
-div.debuff-timers,
-div.buff-timers,
-div.lis-ability > div:first-child,
-div.lis-ability-state,
-div.number-container,
-div.raid.joined:after,
-div.watch-button,
-span.class-change-button,
-span.weapon-change-button {
-    font-family: yahei, Tahoma, Verdana, sans-serif !important;
-}
-
-div.btn-command-back,
-div.btn-attack-start,
-div.btn-lock,
-div.btn-command-summon,
-div.prt-sub-command > div.btn-temporary,
-div.quick-button,
-div.quick-summon {
-    font-family: yahei, Tahoma, Verdana, sans-serif !important;
-}
 body .prt-detail-protection .prt-box .comment-m,
 body .prt-detail-skill .prt-box .comment-m,
 body .prt-detail-special .prt-box .comment-m,
