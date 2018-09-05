@@ -486,7 +486,7 @@ body .prt-scene-comment .prt-message-area {
 }
 
 @font-face {
-  font-family: 'yahei';
+  font-family: 'yaheiSymbol';
   font-style: normal;
   font-weight: normal;
   src: local('Microsoft Yahei');
@@ -498,47 +498,11 @@ body .prt-scene-comment .prt-message-area {
   font-style: normal;
   font-weight: normal;
   src: local('Yu Gothic');
-  unicode-range: U+30A0-30FF, U+3040-309F, U+31F0-31FF;
+  unicode-range: U+30A0-30FF, U+3040-309F, U+31F0-31FF, U+0020-0204;
 }
 
-html body,
-html .prt-user-info .prt-info-profile .btn-user-name,
-.pop-synopsis .prt-pop-synopsis span {
-  font-family: jpkana, "Microsoft Jhenghei", "Yu Gothic", "Meiryo", sans-serif !important;
-}
-
+.prt-user-info .prt-info-profile .btn-user-name,
 .prt-scene-comment, .prt-log-display,
-html .prt-user-name .txt-user-name {
-  font-family: yahei, "Microsoft Jhenghei", "Yu Gothic", "Meiryo", sans-serif !important;
-}
-
-div.skill-queue,
-div.debuff-timers,
-div.buff-timers,
-div.lis-ability > div:first-child,
-div.lis-ability-state,
-div.number-container,
-div.raid.joined:after,
-div.watch-button,
-span.class-change-button,
-span.weapon-change-button {
-    font-family: Tahoma, Verdana, sans-serif !important;
-}
-
-div.btn-command-back,
-div.btn-attack-start,
-div.btn-lock,
-div.btn-command-summon,
-div.prt-sub-command > div.btn-temporary,
-div.quick-button,
-div.quick-summon {
-    font-family: Tahoma, Verdana, sans-serif !important;
-}
-body .prt-detail-protection .prt-box .comment-m,
-body .prt-detail-skill .prt-box .comment-m,
-body .prt-detail-special .prt-box .comment-m,
-body .prt-detail-summon .prt-box .comment-m,
-body .prt-detail-action .prt-box .comment-m,
-body .prt-detail-support .prt-box .comment-m {
-  font-size: 12px;
+.prt-user-name .txt-user-name {
+  font-family: jpkana, yaheiSymbol, "Microsoft Jhenghei", "Yu Gothic", "Meiryo", sans-serif !important;
 }
