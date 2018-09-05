@@ -21,8 +21,8 @@ id,en,jp,trans
 18,Forgotten? I've... forgotten something?,忘れる……？<br>私は……何かを忘れているのか？,忘记了？我......忘记了什么？
 19,Are you saying you can explain this unease I feel?,君は……<br>いま私が抱える言い知れぬ不安の正体を<br>知っているのか？,难道你......知道我胸中这股不安的真相是什么吗？
 20,"It's like, there's a hole in my heart. As if something's missing.",どこか胸に穴が開いたような……<br>何かが足りないような……<br>そんな気がするんだ。,就像心里开了一个洞，有什么东西没有填进去那样的感觉。
-20-sel1_txt,You need Lyria.,<span class='scene-font-katari'>ルリアが必要</span>,你需要露莉亚。
-20-sel2_txt,She's what's missing.,<span class='scene-font-katari'>この子がその穴を埋める</span>,她就是你心中缺少的那一部分。
+20-sel1_txt,You need Lyria.,<span class='scene-font-katari'>ルリアが必要</span>,你需要露莉亚
+20-sel2_txt,She's what's missing.,<span class='scene-font-katari'>この子がその穴を埋める</span>,她就是你心中缺少的那一部分
 21,Lyria? Who is that?,ルリア……？<br>それは……？,露莉亚？那是谁？
 22,Katalina!,カタリナっ……！,卡塔莉娜！
 23,"Lyria hugs Katalina, clinging tightly to her armor.",<span class='scene-font-katari'>ルリアはカタリナに抱き着き、</span><br><span class='scene-font-katari'>その身体を覆う鎧にすがりつく。</span>,<span class='scene-font-katari'>露莉亚抱住了卡塔莉娜，将那副被铠甲包裹的身体抱住不放。
@@ -71,3 +71,4 @@ id,en,jp,trans
 67,There may be information coming in already about the two of them.,もしかすると、<br>それぞれ何らかの情報が<br>入っているかもしれません。,可能已经有关于他们两个的信息了。
 68,"The gang agrees, and they head toward the Crew of Enforcers' station, driving back monsters along the way.",<span class='scene-font-katari'>黄金の騎士の言葉に一行は納得し、</span><br><span class='scene-font-katari'>強風の中襲いくる魔物を蹴散らしながら、</span><br><span class='scene-font-katari'>秩序の騎空団の駐屯所へと戻る。</span>,<span class='scene-font-katari'>接受了黄金骑士提议的众人，击退了在狂风中来袭的魔物，回到秩序骑空团的驻扎所去了。
 info,1,1,scene_cp68_q3_s10
+,,,

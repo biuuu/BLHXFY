@@ -1,0 +1,53 @@
+id,en,jp,trans
+0-chapter_name,75: Trial of Ice and Wind,第75章　極地の試練,第75章极地的试炼
+0-synopsis,Monika informs Lecia that she received a request to capture the crew and disband them within the borders of Phantagrande.,ひとりアマルティア島へと戻ったリーシャ。モニカがリーシャを呼び戻した理由は、七曜の騎士のひとりからイスタバイオン王国を経由して寄せられた依頼であるという。その内容は、空域内での影響力を強めた姬塔の騎空団を捕えて解散させよというものであり、しかしファータ・グランデ空域を出れば不問にするともとれる内容に二人は不穏な意図を感じるのだった。,莉夏独自返回了阿玛提亚岛。莫妮卡将莉夏召回的原因是从某位七曜骑士经由伊斯塔拜昂王国向秩序骑空团发出了该委托，委托内容虽然是将在该空域影响力巨大的姬塔的骑空团逮捕并使之解散，但是如果他们离开了法塔空域就不再过问，对于这一内容两人感觉有种不对劲的预感。	
+0,姬塔 and the crew trudge on through the wind and snow of Silverwind Stretch. Meanwhile...,<span class='scene-font-katari'>姬塔一行が、</span><br><span class='scene-font-katari'>風雪吹きすさぶ</span><br><span class='scene-font-place'>白風の境</span><span class='scene-font-katari'>を進んでいたその頃。</span>,<span class='scene-font-katari'>正当姬塔等人在风雪交加的</span><span class='scene-font-place'>白风之境</span><span class='scene-font-katari'>上前进时。</span>
+3,"Lecia arrives on Amalthea Island, where an officer of small stature is waiting to greet her.",<span class='scene-font-place'>アマルティア島</span><span class='scene-font-katari'>に到着した</span><br><span class='scene-font-katari'>リーシャを乗せた騎空艇を、</span><br><span class='scene-font-katari'>小さな影が出迎えていた。</span>,<span class='scene-font-katari'>莉夏已经乘坐骑空艇降落到了</span><span class='scene-font-place'>阿玛提亚岛</span><span class='scene-font-katari'>上，此时一个小小的身影出来迎接。</span>
+4,Lecia! Glad you made it. Sorry for calling you here without disclosing the details.,リーシャ！　よく来てくれた……<br>事情も知らせず、<br>無理を言ってすまなかったな。,莉夏，你能来真是太好了！很抱歉没有告诉你实情就提出了这个强人所难的要求。
+5,"Monika, what's going on here? Is it about my father?",モニカさん……<br>いったい何があったんですか？<br>まさか父さんが……？,莫妮卡到底发生什么了？难道说父亲大人他...
+6,"No, Captain Walfried has nothing to do with it... I think.",いや、ヴァルフリート団長は<br>関係ない……ハズだ。,不，和瓦佛利特团长没关系...应该是这样的。
+7,You think?,……ハズ？,......应该？
+8,We can't talk here. Let's get inside first.,とにかくここでは話しにくい。<br>まずは中に入ってくれ。,总之这里不便说，先进里面去吧。
+13,"After a quick check of their surroundings, they enter a room. Monika takes a deep breath and begins speaking.",<span class='scene-font-katari'>周囲を確認しながら部屋に入り、</span><br><span class='scene-font-katari'>一度大きく息を吐いてから、</span><br><span class='scene-font-katari'>モニカは話し始める。</span>,<span class='scene-font-katari'>确认周围之后，两人走进屋中，莫妮卡先是大大吐了口气，然后说道。</span>
+14,The truth is that a few days ago a certain request made its way to the Fourth Fleet.,実は数日前、<br>ある依頼が第四騎空艇団に<br>舞い込んできてな……,事实上几天前传来了一个给我们第四骑空艇团的委托。
+15,"Because of this request, I've had you return, Lecia.",今回、リーシャに<br>わざわざ戻ってきてもらったのは、<br>この依頼が原因なんだ。,这次特意让莉夏回来也是因为委托的原因。
+16,So does this request have something to do with me?,それは……<br>その依頼が何か、<br>私に関わるものなんですか？,那个委托和我有什么关系吗？
+17,No. Not exactly.,いいや逆だ。,不，相反。
+18,Not exactly?,逆？,相反？
+19,Monika glances around cautiously before continuing.,<span class='scene-font-katari'>モニカは、</span><br><span class='scene-font-katari'>用心深く確認するように、</span><br><span class='scene-font-katari'>周囲に目線を飛ばす。</span>,<span class='scene-font-katari'>莫妮卡十分谨慎地环视了周围。</span>
+20,"The request, you see, is that we capture 姬塔's crew and force them to disband.",依頼というのはだな……<br>姬塔達の騎空団を捕まえ、<br>解散させてほしい、というものなんだ。,所谓的依赖......就是要抓捕姬塔的骑空团并且让其解散。
+21,What! Who requested that? A supporter of the Erste Empire?,なっ……！<br>だ、誰がそんな依頼を……<br><span class='scene-font-place'>エルステ帝国</span>の残党でしょうか……,什么！？谁提出了这样的委托......是<span class='scene-font-place'>埃尔斯特帝国</span>的残党吗？
+22,"If it were a person like that, I wouldn't be a bundle of nerves right now.",そういう連中からの依頼であれば、<br>私もここまで慌てたりはしないさ。,如果是那些家伙的委托，我也不至于这么慌了。
+23,But this request has come from a Luminary Knight by way of the Istavion Kingdom.,だがこの依頼は、<br>イスタバイオン王国経由で、<br>七曜の騎士から届いた依頼なんだ。,但这个委托，是经由伊斯塔拜恩王国，从七曜骑士那里发出的委托。
+24,Istavion?,イスタバイオン……,伊斯塔拜恩......
+25,It's a kingdom in a faraway skydom called Oarlyegrande.,アウライ・グランデという、<br>彼方の空域にある王国の名だ。,是位于奥莱格兰德大空域——一个遥远空域中的某个王国的名字。
+26,This request crossed skydoms to come all the way to the Fourth Fleet.,そんな国から、わざわざ空域を越えて、<br>このファータ・グランデの<br>第四騎空艇団に依頼が来たんだ。,那个国家特意跨越空域，向在法塔格兰德空域的我们第四骑空艇团发出了委托。
+27,And let's not forget it originates from a Luminary Knight.,それも、<br>七曜の騎士からの依頼、<br>というお墨付きでな。,而且也有七曜骑士所发出该委托的认证。
+28,Do you know which Luminary sent it?,その七曜の騎士というのは、<br>どなたの事なんですか？,那个七曜骑士，是谁呢？
+29,"With a troubled look on her face, Monika puts a hand to her head.",<span class='scene-font-katari'>リーシャが問うと、</span><br><span class='scene-font-katari'>モニカは困ったように</span><br><span class='scene-font-katari'>頭に手を当てる。</span>,<span class='scene-font-katari'>莉夏的问题让莫妮卡困扰地用手撑着脑袋。</span>
+30,I have no idea. Ultimately the envoy from Istavion Kingdom wouldn't tell us anything.,それがわからんのだ……<br>イスタバイオン王国の使者も、<br>結局教えてはくれなかった。,我也不知道，伊斯塔拜恩王国的使者最后也没有告诉我。
+31,Except we do know that the request comes with a condition.,加えてこの依頼には、<br>奇妙な条件があってな……,加之这个委托还有个奇怪的条件。
+32,A condition?,条件？,条件？
+33,"Yes. When pursuing the crew, we must act only within the boundaries of the Phantagrande Skydom.",ああ……この手配に関しては、<br>ファータ・グランデ空域内に<br>限定してほしい、と続きがあるんだ。,是的，关于我们的追捕行动，是仅限于法塔格兰德空域内的。
+34,That does sound pretty strange.,それは確かに……おかしな話ですね。,这确实......是很奇怪的要求呢。
+35,Monika and Lecia both rack their brains for answers.,<span class='scene-font-katari'>モニカと一緒になって、</span><br><span class='scene-font-katari'>リーシャも首を捻る。</span>,<span class='scene-font-katari'>莫妮卡和莉夏一样陷入思考。</span>
+36,The Crew of Enforcers could easily coordinate with fleets in every skydom to carry out a search.,秩序の騎空団なら、<br>各空域の騎空艇団と連携を取ることで、<br>空域を跨る捜査が出来るのに……,秩序骑空团明明可以联系各空域的骑空艇团，进行跨空域的搜查的。
+37,If they really wanted 姬塔's crew to be captured and disbanded...,本当に姬塔さん達の<br>騎空団を捕まえて、<br>解散させたいんだとしたら……,真的要抓捕姬塔他们的骑空团，并让他们解散的话......
+38,It'd make more sense to allow cooperation between fleets in every skydom and not just Phantagrande.,ファータ・グランデ空域内に限定せず、<br>全空指名手配を依頼するべきなのに……,就不应该限定在法塔格兰德空域，而是委托我们在全空追捕才对。
+39,That's right. I kept thinking it was sort of strange.,そこなんだ……<br>私がずっと奇妙に思っていたのは。,就是这个！我一直觉得很奇怪。
+40,Though I have heard the potential reasoning behind it.,一応、理由も聞いてはいるんだがな。,姑且，我已经听说过原因。
+41,Monika pulls out a missive and begins to read.,<span class='scene-font-katari'>モニカは懐から</span><br><span class='scene-font-katari'>一枚の書状を取り出して、</span><br><span class='scene-font-katari'>読み上げる。</span>,<span class='scene-font-katari'>莫妮卡从怀中取出一张书信并读了起来。</span>
+42,The centripetal force of the crew that overthrew the Erste Empire is extraordinary...,<span class='scene-font-place'>エルステ帝国</span>を打倒した<br>かの騎空団の求心力は、<br>もはや並々ならぬものであり……,击败<span class='scene-font-place'>埃尔斯特帝国</span>的那个骑空团的向心力已经异乎寻常。
+43,And it threatens to disrupt order within Phantagrande Skydom. As such we request that this crew be disbanded.,ファータ・グランデ空域の<br>秩序を乱しかねないため、<br>かの騎空団の解散を依頼したい。,为了保证法塔空域的秩序不被扰乱，委托你们将其解散。
+44,"Furthermore, as this crew is not regarded as dangerous in other skydoms...",そして、その他の空域における<br>かの騎空団の知名度は<br>危険視するほどではないため……,而且，在其他空域该骑空团的知名度还没有上升到危急的状况。
+45,We request that planning and execution be limited to the Phantagrande Skydom... it says.,ファータ・グランデ空域内においてのみ、<br>指名手配をかけてほしい……とな。,所以希望仅限于法塔格兰德空域以内追捕他们。
+46,"After reading the missive, Monika takes a moment to pause before speaking again.",<span class='scene-font-katari'>書状を読み切り、</span><br><span class='scene-font-katari'>モニカは一息をつく。</span>,<span class='scene-font-katari'>读完书信后，莫妮卡吸了口气。</span>
+47,"Lecia, what do you make of all this?",リーシャ……<br>お前はこの依頼、どう思う？,莉夏，你对这个委托怎么想？
+48,Something seems off about it. As if there's another motive they're not sharing with us.,違和感があります……<br>まるでその書状には書かれていない<br>目的があるような……,有违和感，就好像藏着一个没有明写出的目的。
+49,Right. Maybe you can interpret it like this instead.,そうだ……<br>この依頼、こう読みかえることは<br>出来ないだろうか。,是的，这个委托也可以这么理解吧。
+50,"If they escape Phantagrande, then they won't be persecuted.",ファータ・グランデ空域を脱出すれば、<br>罪には問わない、とな。,如果他们离开法塔格兰德空域，就不问其罪。
+51,In other words someone is trying to chase 姬塔's crew out of Phantagrande?,つまり、誰かが姬塔さん達を<br>ファータ・グランデ空域から<br>追い出そうとしている……？,也就是说有人想让姬塔他们离开法塔格兰德空域吗？
+52,Or perhaps someone is trying to lead that captain and crew to another skydom.,もしくは姬塔達を、<br>別の空域へと導こうとしている、<br>ということだな。,或者也有可能是将姬塔他们引导到其他空域去。
+53,"Monika and Lecia stand there for a moment, each with a puzzled look.",<span class='scene-font-katari'>至った結論に、</span><br><span class='scene-font-katari'>モニカとリーシャは揃って首を傾げる。</span>,<span class='scene-font-katari'>莫妮卡和莉夏静驻，对于得到的结论思考着。</span>
+54,Both of them are anxious at the possibility of someone sinister acting behind the scenes.,<span class='scene-font-katari'>しかし、密かに世界を操る</span><br><span class='scene-font-katari'>その何者かの暗躍に、</span><br><span class='scene-font-katari'>二人は薄ら寒いものを感じるのだった。</span>,<span class='scene-font-katari'>但是对于秘密操纵着世界的某个人的幕后活跃，两人都感到有点不寒而栗。</span>
+info,1,1,scene_cp75_q1_s10

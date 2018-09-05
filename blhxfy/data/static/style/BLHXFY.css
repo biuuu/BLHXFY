@@ -176,7 +176,11 @@ body .pop-confirm-continue-quest.pop-usual .pop-room-detail.pop-usual .prt-popup
 body .pop-room-detail.pop-usual .pop-confirm-continue-quest.pop-usual .prt-popup-footer .btn-usual-join::after {
   content: '参加';
 }
+body .cnt-order-box .cnt-btn-bottombox .btn-evolution:not(.disapprove)::after {
+  content: "上限解放";
+}
 
+.prt-module-evolution .btn-follow-base[data-location-href*="npc"],
 .popRestartQuest .btn-withdraw,
 #cnt-arcarum-stage .cnt-division-list .prt-division-list .btn-move-division,
 #btn-bug-list,
@@ -277,8 +281,10 @@ body .pop-room-detail.pop-usual .pop-confirm-continue-quest.pop-usual .prt-popup
 .prt-follow-button-enhance .btn-follow-base::after {
   font-size: 12px;
 }
+.prt-module-evolution .btn-follow-base[data-location-href*="npc"]::after,
 .cnt-base-status .btn-base-chenge[data-location-href*="npc"]::after {
   content: "更换角色";
+  font-size: 12px;
 }
 .cnt-base-status .btn-base-chenge[data-location-href*="/weapon"]::after {
   content: "更换武器";
@@ -294,7 +300,7 @@ body .pop-room-detail.pop-usual .pop-confirm-continue-quest.pop-usual .prt-popup
   content: "继续上限解放";
   font-size: 12px;
 }
-.prt-follow-button-enhance .btn-follow-base[data-location-href*="npc"]::after {
+.prt-follow-button-enhance .btn-follow-base[data-location-href*="/npc"]::after {
   content: "更换角色";
 }
 .prt-follow-button-enhance .btn-follow-base[data-location-href*="/weapon"]::after {

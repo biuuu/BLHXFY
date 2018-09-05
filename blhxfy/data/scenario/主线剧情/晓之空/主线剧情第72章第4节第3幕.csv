@@ -1,0 +1,19 @@
+id,en,jp,trans
+0-chapter_name,,第72章　騒乱のアガスティア,第72章混乱的阿加丝提亚
+0-synopsis,,突如現れた帝国軍の一団に疑問を抱く姬塔一行らは、それを指揮する男の姿を見つけ驚愕する。姬塔一行だとは知らずに“アガスティアの市民の為に戦った騎空団”の元へ挨拶にやって来るポンメルン大尉。互いの思わぬ再会に、双方共に驚きを隠せないのだった。,突然现身的帝国军令姬塔一行十分困惑，而其中的指挥官见到众人也感到震惊。听说了“为阿加丝提亚市民而战的骑空团”消息但并不知道其实就是姬塔他们的伯梅伦大尉赶到这里问候。因为是出乎意料的再会，双方都惊呆了。
+0,,<span class='scene-font-katari'>突如現れた帝国兵らしき一団と共闘し、</span><br><span class='scene-font-katari'>ならず者や不埒な兵達を退ける</span><br><span class='scene-font-katari'>姬塔一行。</span>,<span class='scene-font-katari'>姬塔等人与突然现身的帝国军一同战斗，击退了暴徒们。</span>
+1,,<span class='scene-font-katari'>しかし、一行は</span><span class='scene-font-place'>アガスティア</span><span class='scene-font-katari'>を</span><br><span class='scene-font-katari'>無法地帯と聞いていたため、</span><br><span class='scene-font-katari'>統制のとれたその一団に疑問を抱く。</span>,<span class='scene-font-katari'>因为先前听说</span><span class='scene-font-place'>阿加丝提亚</span><span class='scene-font-katari'>已经成为法外地带，姬塔等人对眼前这些有纪律性的部队仍然抱有疑问。</span>
+2,,<span class='scene-font-katari'>そんな折、軍靴の音と共に</span><br><span class='scene-font-katari'>部下を従えたひとりの男が</span><br><span class='scene-font-katari'>姿を現すのだった。</span>,<span class='scene-font-katari'>就在那时，伴随着军靴的声音，统率着这支部队的男人出现了。</span>
+3,,――以上が北側地区の状況になります。,——以上就是北侧地区的状况报告。
+4,,暴徒の増え方が<br>思わしくありませんネェ……,真是不希望暴徒继续这样增加呢。
+5,,西側地区の部隊から、<br>こちらの地区に応援を……,西侧地区的部队也来支援一下这边吧。
+6,,あ……あの人……！？,啊......那个人......！？
+7,,<span class='scene-font-katari'>男は部下にいくつかの指示を出すと、</span><br><span class='scene-font-katari'>改めて姬塔一行に向き直り、</span><br><span class='scene-font-katari'>頭を下げる。</span>,<span class='scene-font-katari'>男子向部下发出指令后，低着头转向姬塔这边。</span>
+8,,それで……貴方達ですネェ？<br><span class='scene-font-place'>アガスティア</span>の市民のため、<br>戦ってくださった騎空団というのは……,就是你们吧，传闻为<span class='scene-font-place'>阿加丝提亚</span>市民战斗的骑空团。
+9,,この度の件について、<br>吾輩、ポンメルン・ベットナー大尉から、<br>改めて御礼を……,关于这件事由我伯梅伦·贝特纳重新感谢诸位。
+10,,ポ……ポンメルン大尉……,伯...伯梅伦大尉...
+11,,<span class='scene-font-katari'>声に顔を上げた男は、</span><br><span class='scene-font-katari'>驚愕の表情で姬塔一行を見る。</span>,<span class='scene-font-katari'>听到声音后这位男子抬起了头，以惊愕的表情看着姬塔等人。</span>
+12,,な……！？<br>ど、どうして貴様らが<br><span class='scene-font-place'>アガスティア</span>に居るんですネェ……！？,什...为什么你们会在<span class='scene-font-place'>阿加丝提亚</span>这里啊？
+13,,<span class='scene-font-katari'>幾度となく刃を交えた</span><br><span class='scene-font-katari'>元エルステ帝国軍大尉ポンメルンと</span><br><span class='scene-font-katari'>再会する姬塔一行。</span>,<span class='scene-font-katari'>姬塔等人与曾经与之数次交手的原帝国军大尉伯梅伦再会了。</span>
+14,,<span class='scene-font-katari'>幾度となく重ねられた邂逅も、</span><br><span class='scene-font-katari'>こうして一つの結末へと</span><br><span class='scene-font-katari'>動き始めるのだった。</span>,<span class='scene-font-katari'>而这数次的遭遇，将带领他们走向未来的某个结局。</span>
+info,,1,scene_cp72_q4_s30
