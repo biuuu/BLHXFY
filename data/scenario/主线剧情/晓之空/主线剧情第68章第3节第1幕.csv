@@ -1,4 +1,4 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-chapter_name,68: What Was Lost,第68章　失われたもの,68：失去之物
 0-synopsis,"姬塔 and company arrive at a port to find Katalina and Eugen. Katalina doesn't remember Lyria, but feels relieved somehow at their meeting. Unable to find Io and Lecia there, the crew continues their search.",ダイダロイトベルトの外縁で、騎空艇に乗り込もうとするカタリナとオイゲンを見つける姬塔一行。カタリナはルリアの記憶を失っていたものの、ルリアを大切に思っていた感情だけは確かに残っていた。それを聞き、感極まった様子でカタリナに抱き着くルリア。カタリナ、オイゲンと合流した一行は、イオ、リーシャを見つけるべく捜索を続ける。,碎石环的外缘，姬塔等人找到了正想登上骑空艇的卡塔莉娜和欧根两人。卡塔莉娜失去了与露莉亚有关的记忆，但是她心中露莉亚仍然是最重要的人的感情还残留着。听到这句话的露莉亚，感动至极地抱住了卡塔莉娜。与卡塔莉娜、欧根合流的一行人，继续搜索伊欧和莉夏的下落。
 0,"姬塔 and company are searching for Katalina, Io, Eugen, and Lecia who've gone missing.",<span class='scene-font-katari'>消えたカタリナ、イオ、オイゲン、</span><br><span class='scene-font-katari'>リーシャを探す姬塔一行。</span>,<span class='scene-font-katari'>正在寻找行踪不明的卡塔莉娜、伊欧、欧根、莉夏的众人，
@@ -21,8 +21,8 @@
 18,Forgotten? I've... forgotten something?,忘れる……？<br>私は……何かを忘れているのか？,忘记了？我......忘记了什么？
 19,Are you saying you can explain this unease I feel?,君は……<br>いま私が抱える言い知れぬ不安の正体を<br>知っているのか？,难道你......知道我胸中这股不安的真相是什么吗？
 20,"It's like, there's a hole in my heart. As if something's missing.",どこか胸に穴が開いたような……<br>何かが足りないような……<br>そんな気がするんだ。,就像心里开了一个洞，有什么东西没有填进去那样的感觉。
-20-sel1_txt,You need Lyria.,<span class='scene-font-katari'>ルリアが必要</span>,你需要露莉亚。
-20-sel2_txt,She's what's missing.,<span class='scene-font-katari'>この子がその穴を埋める</span>,她就是你心中缺少的那一部分。
+20-sel1_txt,You need Lyria.,<span class='scene-font-katari'>ルリアが必要</span>,你需要露莉亚
+20-sel2_txt,She's what's missing.,<span class='scene-font-katari'>この子がその穴を埋める</span>,她就是你心中缺少的那一部分
 21,Lyria? Who is that?,ルリア……？<br>それは……？,露莉亚？那是谁？
 22,Katalina!,カタリナっ……！,卡塔莉娜！
 23,"Lyria hugs Katalina, clinging tightly to her armor.",<span class='scene-font-katari'>ルリアはカタリナに抱き着き、</span><br><span class='scene-font-katari'>その身体を覆う鎧にすがりつく。</span>,<span class='scene-font-katari'>露莉亚抱住了卡塔莉娜，将那副被铠甲包裹的身体抱住不放。
