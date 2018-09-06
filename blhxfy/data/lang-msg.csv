@@ -570,7 +570,7 @@ decompose_11,エレメント化確認,Reduce,分解确认
 decompose_12,エレメント化結果,Reduce,分解结果
 decompose_13,<span class='txt-rarity-name'>SSレア</span>の%sが含まれています！,An <span class='txt-rarity-name'>SSR</span> %s will be reduced.,<span class='txt-rarity-name'>SSR</span> %s将被分解！
 decompose_14,以下の%sをエレメントに変換します。,The following %s will be reduced.,以下%s将被分解
-decompose_15,これらの%sは失われますが、<br>よろしいですか？,You will lose this %s. Proceed?,这个%s会失去<br>没问题吗？
+decompose_15,これらの%sは失われますが、<br>よろしいですか？,You will lose this %s. Proceed?,你会失去这些%s<br>没问题吗？
 decompose_16,%sがエレメントに変換され<br>プレゼントリストに送られました。,The %s was reduced. Items were sent to your crate.,%s已被分解<br>道具已发送到你的邮箱。
 decompose_2,武器,weapon,武器
 decompose_3,召喚石,summon,召唤石
