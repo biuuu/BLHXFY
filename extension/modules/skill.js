@@ -70,7 +70,7 @@ const parseSkill = async (data) => {
       const key1 = item[0]
       const key2 = item[1]
       if (!data[key1]) return
-      if (data[key1].recast_interval_comment) {
+      if (data[key1].recast_comment) {
         data[key1].recast_comment = data[key1]
           .recast_comment
           .replace('ターン', '回合').replace('turns', '回合')

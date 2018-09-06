@@ -127,7 +127,7 @@ body .pop-confirm-retire .prt-popup-footer .btn-usual-ok:after, .pop-confirm-que
   content: '结束探索';
 }
 body .pop-check-point .prt-popup-footer .btn-usual-ok:after {
-  content: 'アーカルムTOP';
+  content: '塔罗牌首页';
 }
 body .pop-confirm .prt-popup-footer .btn-usual-ok.exchange:after {
   content: '交换';
@@ -176,7 +176,13 @@ body .pop-confirm-continue-quest.pop-usual .pop-room-detail.pop-usual .prt-popup
 body .pop-room-detail.pop-usual .pop-confirm-continue-quest.pop-usual .prt-popup-footer .btn-usual-join::after {
   content: '参加';
 }
+body .cnt-order-box .cnt-btn-bottombox .btn-evolution:not(.disapprove)::after {
+  content: "上限解放";
+}
 
+.prt-module-evolution, .btn-cancel,
+.prt-module-evolution, .btn-decompose-confirm,
+.prt-module-evolution .btn-follow-base[data-location-href*="npc"],
 .popRestartQuest .btn-withdraw,
 #cnt-arcarum-stage .cnt-division-list .prt-division-list .btn-move-division,
 #btn-bug-list,
@@ -235,6 +241,7 @@ body .pop-room-detail.pop-usual .pop-confirm-continue-quest.pop-usual .prt-popup
   content: "能力强化";
   font-size: 12px;
 }
+.prt-module-evolution, .btn-cancel::after,
 #pop-deck .prt-select .btn-deck-cancel::after {
   content: "取消";
   font-size: 12px;
@@ -277,8 +284,10 @@ body .pop-room-detail.pop-usual .pop-confirm-continue-quest.pop-usual .prt-popup
 .prt-follow-button-enhance .btn-follow-base::after {
   font-size: 12px;
 }
+.prt-module-evolution .btn-follow-base[data-location-href*="npc"]::after,
 .cnt-base-status .btn-base-chenge[data-location-href*="npc"]::after {
   content: "更换角色";
+  font-size: 12px;
 }
 .cnt-base-status .btn-base-chenge[data-location-href*="/weapon"]::after {
   content: "更换武器";
@@ -294,7 +303,7 @@ body .pop-room-detail.pop-usual .pop-confirm-continue-quest.pop-usual .prt-popup
   content: "继续上限解放";
   font-size: 12px;
 }
-.prt-follow-button-enhance .btn-follow-base[data-location-href*="npc"]::after {
+.prt-follow-button-enhance .btn-follow-base[data-location-href*="/npc"]::after {
   content: "更换角色";
 }
 .prt-follow-button-enhance .btn-follow-base[data-location-href*="/weapon"]::after {
@@ -437,6 +446,7 @@ body .pop-room-detail.pop-usual .pop-confirm-continue-quest.pop-usual .prt-popup
   font-size: 12px;
   content: "批量分解";
 }
+.prt-module-evolution, .btn-decompose-confirm:after,
 .btn-decompose[data-location-href^="detail/decompose/"]::after {
   font-size: 12px;
   content: "分解";
@@ -480,48 +490,23 @@ body .prt-scene-comment .prt-message-area {
 }
 
 @font-face {
-  font-family: 'yahei';
+  font-family: 'yaheiSymbol';
   font-style: normal;
-  font-weight: 100;
+  font-weight: normal;
   src: local('Microsoft Yahei');
   unicode-range: U+3000-303F, U+FF00-FFEF;
 }
 
-html body,
-html .prt-user-info .prt-info-profile .btn-user-name,
+@font-face {
+  font-family: 'jpkana';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Yu Gothic');
+  unicode-range: U+30A0-30FF, U+3040-309F, U+31F0-31FF, U+0020-0204;
+}
+
+.prt-user-info .prt-info-profile .btn-user-name,
 .prt-scene-comment, .prt-log-display,
-.pop-synopsis .prt-pop-synopsis span,
-html .prt-user-name .txt-user-name {
-    font-family: yahei, "Microsoft Jhenghei", "Yu Gothic", "Meiryo", sans-serif !important;
-}
-
-div.skill-queue,
-div.debuff-timers,
-div.buff-timers,
-div.lis-ability > div:first-child,
-div.lis-ability-state,
-div.number-container,
-div.raid.joined:after,
-div.watch-button,
-span.class-change-button,
-span.weapon-change-button {
-    font-family: yahei, Tahoma, Verdana, sans-serif !important;
-}
-
-div.btn-command-back,
-div.btn-attack-start,
-div.btn-lock,
-div.btn-command-summon,
-div.prt-sub-command > div.btn-temporary,
-div.quick-button,
-div.quick-summon {
-    font-family: yahei, Tahoma, Verdana, sans-serif !important;
-}
-body .prt-detail-protection .prt-box .comment-m,
-body .prt-detail-skill .prt-box .comment-m,
-body .prt-detail-special .prt-box .comment-m,
-body .prt-detail-summon .prt-box .comment-m,
-body .prt-detail-action .prt-box .comment-m,
-body .prt-detail-support .prt-box .comment-m {
-  font-size: 12px;
+.prt-user-name .txt-user-name {
+  font-family: jpkana, yaheiSymbol, "Microsoft Jhenghei", "Yu Gothic", "Meiryo", sans-serif !important;
 }

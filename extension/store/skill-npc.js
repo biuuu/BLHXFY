@@ -34,7 +34,7 @@ const getCommSkillMap = async () => {
   const list = await parseCsv(csvData)
   const sortedList = sortKeywords(list, 'comment')
   sortedList.forEach(item => {
-    if (item.comment && item.trans) {
+    if (item.comment && item.trans && item.type) {
       const comment = item.comment.trim()
       const trans = item.trans.trim()
       const type = item.type.trim() || '1'

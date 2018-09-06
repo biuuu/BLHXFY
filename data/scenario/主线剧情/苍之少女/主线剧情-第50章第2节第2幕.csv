@@ -1,0 +1,20 @@
+﻿id,en,jp,trans
+0-chapter_name,,第50章　再会と試練,
+0-synopsis,,ビィは、ヴァルフリートと親しい仲であったようだ。それを知ったリーシャは、ヴァルフリートの手記にビィに関する記述があった事に納得する。「小さな赤き竜」と「蒼の少女」が決して相容れない事を示す内容に頭を悩ませるリーシャ。その苦しげな表情に気付かれたリーシャは、場を取り繕うように魔物に戦いを挑む。,莉夏心想，既然阿碧对其父非常熟悉，那么其父手记上的内容也就说得过去了。然而，「幼小的红龙」与「蓝发少女」水火不容这一内容还是让她感到困惑。在众人注意到她凝重的表情之后，她仿佛掩饰一般向魔兽发起攻击。
+0,,しっかし、ビィよ……<br>記憶が封印される前のお前は、<br>何者だったんだ？,可是啊，阿碧……在你的记忆被封印之前，你是什么来头啊？
+1,,星晶獣を抑える力があって、<br>七曜の騎士のひとりと面識があって……<br>いったい何やってたんだよ？,又有抑制星晶兽的能力，又认识七曜骑士……你到底干了什么不得了的事情？
+2,,んなこと、<br>オイラだってわかんねぇやぃ！,那种事咱也不知道！
+3,,ただ、なんかこう……<br>そんな大層な奴と<br>話してた感じじゃねーんだよなぁ……,可是，怎么说呢……咱并没觉得自己在和大人物谈话……
+4,,こう……<br>いまみてーにラカムとかと<br>話すような感じで……,嗯……那感觉就像现在在和拉卡姆说话一样……
+5,,<span class='scene-font-kokoro'>（父さんはビィくんと</span><br><span class='scene-font-kokoro'>会ったことがあった……）</span>,<span class='scene-font-kokoro'>（父亲遇见过阿碧……）</span>
+6,,<span class='scene-font-kokoro'>（これが事実なら、</span><br><span class='scene-font-kokoro'>父さんの手記にビィくんのことが</span><br><span class='scene-font-kokoro'>書かれていたのも頷ける）</span>,<span class='scene-font-kokoro'>（如果这是事实的话，就能解释父亲的手记为什么会提到阿碧。）</span>
+7,,<span class='scene-font-kokoro'>（けど……</span><br><span class='scene-font-kokoro'>そうなると父さんは、</span><br><span class='scene-font-kokoro'>ルリアとも会ったことが……？）</span>,<span class='scene-font-kokoro'>（可是……这么说的话，父亲也见到过露莉亚吗……？）</span>
+8,,<span class='scene-font-kokoro'>（ルリアも</span><br><span class='scene-font-kokoro'>帝国に捕えられる以前の記憶は</span><br><span class='scene-font-kokoro'>はっきりしないみたいだし……）</span>,<span class='scene-font-kokoro'>（露莉亚好像也记不清她被帝国抓走之前的事情……）</span>
+9,,<span class='scene-font-kokoro'>（「小さな赤き竜」と「蒼の少女」……</span><br><span class='scene-font-kokoro'>ビィくんとルリア……</span><br><span class='scene-font-kokoro'>ふたりの過去にいったい何が……？）</span>,<span class='scene-font-kokoro'>（「幼小的红龙」与「蓝发少女」……阿碧和露莉亚究竟经历过什么……？）</span>
+10,,どうしたんですか？<br>リーシャさん。,你怎么了，莉夏？
+11,,うわっ！？<br>ル、ルリア……,呜哇！？露、露莉亚……
+12,,大丈夫ですか？<br>なんだかすっごく<br>難しい顔してましたけど……,你没事吧？感觉表情好严肃的样子……
+13,,はは……そ、そうですか？<br>そんな顔してるつもりは、<br>なかったんですけど……,哈哈……是、是吗？我自己完全没感觉……
+14,,あっ、ほらっ！<br>向こうに魔物が現れたみたいです！<br>私達も急ぎましょう！,啊！看那边！好像有魔兽！我们也快点吧！
+16,,あっ！　待ってくださーい！<br>リーシャさーんっ！,啊！请等一下！莉夏！
+info,,1,scene_cp50_q2_s20
