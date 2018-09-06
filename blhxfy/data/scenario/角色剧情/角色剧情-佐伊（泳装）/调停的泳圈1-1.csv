@@ -1,0 +1,23 @@
+id,en,jp,trans
+0-chapter_name,,調停のフロート,调停的泳圈
+0-synopsis,,砂浜を歩いていた姬塔一行は海でイルカを模した浮き輪に乗る二人組を見つける。一行が不思議そうに見ていると二人組は、乗っていた乗り物がライドフロートと呼ばれるものであることを説明してくれる。一行は興味を抱くが、ライドフロートは売り切れてしまったのだという。一行が落胆していると、突如海辺の方から悲鳴が上がる。,姬塔一行在沙滩漫步，看见两个人在海中乘着海豚模样的泳圈游玩。看着众人好奇的样子，二人组告诉他们这叫做骑乘泳圈。一行人虽有兴致尝试，却得知骑乘泳圈已经断货。众人正感失落，突然听见海边传来一声悲鸣。
+0,,<span class='scene-font-katari'>ゾーイと遊ぶため、</span><br><span class='scene-font-katari'>砂浜を歩いていた一行は、</span><br><span class='scene-font-katari'>あるものを見つけ足を止める。</span>,<span class='scene-font-katari'>这天，姬塔等人和佐伊一起在沙滩漫步，突然因某样东西停下了脚步。</span>
+1,,<span class='scene-font-katari'>海でイルカに乗り、</span><br><span class='scene-font-katari'>波乗りをする</span><br><span class='scene-font-katari'>二人組を見つけたのだ。</span>,<span class='scene-font-katari'>海边有两个人在乘着海豚冲浪。</span>
+2,,わぁ～～～！！<br>すごいすごい！<br>イルカさんに乗ってますよ！,哇~~~！！好厉害好厉害！他们在乘着小海豚冲浪呢！
+3,,んん？　いや、あれ……<br>よく見るとちげぇぞ？<br>なんだありゃ……？,嗯？不对，那个……仔细看的话不是海豚哎。到底是什么……？
+4,,<span class='scene-font-katari'>一行が凝視すると、二人組が</span><br><span class='scene-font-katari'>乗っているのはイルカを模した</span><br><span class='scene-font-katari'>浮き輪だということがわかる。</span>,<span class='scene-font-katari'>众人定睛一看，原来那两人乘的是海豚模样的泳圈。</span>
+5,,なんだあれは……？<br>サーフィンではないようだが……,那是什么……？好像并不是冲浪……
+6,,<span class='scene-font-katari'>一行が興味深げに観察していると、</span><br><span class='scene-font-katari'>それに気付いたのか</span><br><span class='scene-font-katari'>二人組が浜辺に上がってきた。</span>,<span class='scene-font-katari'>这时，二人组似乎察觉到饶有兴致的姬塔一行，结束了活动回到海滩上来。</span>
+7,,<span class='scene-font-katari'>二人組の一人、</span><br><span class='scene-font-katari'>青年が軽々と浮き輪を抱え、</span><br><span class='scene-font-katari'>一行に見せてくれた。</span>,<span class='scene-font-katari'>其中一个青年提着泳圈向姬塔等人介绍。</span>
+8,,ふふふ……これはね、<br>『ライドフロート』っていうんだ。<br>最新のマリンスポーツさ！,呵呵……这叫做『骑乘泳圈』，是最新的海上运动！
+9,,大会が開催されるほど、<br>人気になり始めてるスポーツなのよ。,人气火爆到举行大赛哦。
+10,,へぇ～！<br>オイラ達もやってみてぇなぁ！<br>どこで買えるんだ？,真的吗~？咱们也想试试啊！在哪里可以买到呢？
+11,,あー……それがね。<br>元々生産数が少なかったらしくて、<br>今はどこも売り切れみたいなんだ。,啊……这个……其实本来生产的就不多，现在已经断货了。
+12,,ええ～……<br>そ、そうなんですか……<br>イルカさん、乗りたかったな……,什么~……这、这样啊……我也想乘小海豚的……
+13,,手に入らないのなら<br>仕方ないさ。まぁ……確かに、<br>私もイルカさんに乗りたかったが……,既然买不到就没办法了。嗯……虽然我也很想试试……
+14,,<span class='scene-font-katari'>一行が落胆していると、</span><br><span class='scene-font-katari'>突如、海辺のほうから悲鳴が上がる。</span>,<span class='scene-font-katari'>正当姬塔等人感到失落时，海边突然传来一声悲鸣。</span>
+16,,た、助けてくれ！！<br>ひっ……！！,救、救命啊！！咿……！！
+18,,…………！,
+20,,あ、アイツ！？<br>あそこは魔物がでる<br>海域じゃねぇか！？,那、那家伙！？怎么去到有魔兽出没的海域了！？
+21,,あのままでは危険だな……<br>急ごう。姬塔。,这样下去太危险了……赶快去救人吧，姬塔。
+info,,1,scene_chr307_q1_s10
