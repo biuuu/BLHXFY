@@ -20,28 +20,36 @@ const startTrans = async (data) => {
   return data
 }
 
+const replaceSkill = async (data) => {
+  if (data.action_ability) {
+    data.action_ability = await startTrans(data.action_ability)
+  }
+  if (data.support_ability) {
+    data.support_ability = await startTrans(data.support_ability)
+  }
+  return data
+}
+
 const transSkill = async (data, pathname) => {
   if (/\/party\/job\/\d+\//.test(pathname)) {
     if (data.job) {
-      if (data.job.action_ability) {
-        data.job.action_ability = await startTrans(data.job.action_ability)
-      }
-      if (data.job.support_ability) {
-        data.job.support_ability = await startTrans(data.job.support_ability)
-      }
+      data.job = await replaceSkill(data.job)
     }
   } else if (pathname.includes('/party_ability_subaction/')) {
     if (data.list) {
       data.list = await startTrans(data.list)
     }
   } else if (/\/party\/ability_list\/\d+\//.test(pathname)) {
-    if (data.action_ability) {
-      data.action_ability = await startTrans(data.action_ability)
+    data = await replaceSkill(data)
+  } else if (/\/party\/job_info\/\d+\//) {
+    if (data.after_job_master) {
+      data.after_job_master = await replaceSkill(data.after_job_master)
     }
-    if (data.support_ability) {
-      data.support_ability = await startTrans(data.support_ability)
+    if (data.before_job_info) {
+      data.before_job_info = await replaceSkill(data.before_job_info)
     }
   }
+  return data
 }
 
 export default transSkill

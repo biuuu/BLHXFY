@@ -17,6 +17,7 @@ const getSkillData = async (id) => {
         })
       }
     })
+    loaded = true
   }
 
   const trans = skillMap.get(id)
