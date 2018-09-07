@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         碧蓝幻想翻译
 // @namespace    https://github.com/biuuu/BLHXFY
-// @version      0.5.3
+// @version      0.6.0
 // @description  碧蓝幻想的汉化脚本，提交新翻译请到 https://github.com/biuuu/BLHXFY
 // @icon         http://game.granbluefantasy.jp/favicon.ico
 // @author       biuuu
@@ -3817,8 +3817,8 @@
 	  }, origin);
 	  return new Promise((rev, rej) => {
 	    ee.once(`response${flag}`, function (data) {
-	      if (data.err) {
-	        rej(err);
+	      if (data.error) {
+	        rej(data.error);
 	      } else {
 	        rev(data.data);
 	      }
@@ -6102,6 +6102,93 @@
 	  return data;
 	};
 
+	const skillMap$1 = new Map();
+	let loaded$2 = false;
+
+	const getSkillData$1 = async id => {
+	  if (!loaded$2) {
+	    const csv = await fetchWithHash('/blhxfy/data/job-skill.csv');
+	    const list = parseCsv(csv);
+	    list.forEach(item => {
+	      if (item && item.id) {
+	        const _id = item.id.trim();
+
+	        if (_id) skillMap$1.set(_id, {
+	          name: item.name.trim(),
+	          detail: item.detail.trim()
+	        });
+	      }
+	    });
+	    loaded$2 = true;
+	  }
+
+	  const trans = skillMap$1.get(id);
+	  return trans;
+	};
+
+	function replaceTurn (str) {
+	  return str.replace('ターン', '回合').replace('turns', '回合').replace('turn', '回合').replace('Cooldown:', '使用间隔:').replace('使用間隔:', '使用间隔:');
+	}
+
+	const startTrans = async data => {
+	  for (let key in data) {
+	    if (data[key]) {
+	      const trans = await getSkillData$1(data[key].action_id);
+
+	      if (trans) {
+	        data[key].name = trans.name;
+	        data[key].comment = trans.detail;
+	      }
+
+	      if (data[key].recast_comment) {
+	        data[key].recast_comment = replaceTurn(data[key].recast_comment);
+	      }
+
+	      if (data[key].turn_comment) {
+	        data[key].turn_comment = replaceTurn(data[key].turn_comment);
+	      }
+	    }
+	  }
+
+	  return data;
+	};
+
+	const replaceSkill = async data => {
+	  if (data.action_ability) {
+	    data.action_ability = await startTrans(data.action_ability);
+	  }
+
+	  if (data.support_ability) {
+	    data.support_ability = await startTrans(data.support_ability);
+	  }
+
+	  return data;
+	};
+
+	const transSkill$1 = async (data, pathname) => {
+	  if (/\/party\/job\/\d+\//.test(pathname)) {
+	    if (data.job) {
+	      data.job = await replaceSkill(data.job);
+	    }
+	  } else if (pathname.includes('/party_ability_subaction/')) {
+	    if (data.list) {
+	      data.list = await startTrans(data.list);
+	    }
+	  } else if (/\/party\/ability_list\/\d+\//.test(pathname)) {
+	    data = await replaceSkill(data);
+	  } else {
+	    if (data.after_job_master) {
+	      data.after_job_master = await replaceSkill(data.after_job_master);
+	    }
+
+	    if (data.before_job_info) {
+	      data.before_job_info = await replaceSkill(data.before_job_info);
+	    }
+	  }
+
+	  return data;
+	};
+
 	const getUserName = data => {
 	  const html = decodeURIComponent(data.data);
 	  const rgs = html.match(/<span\sclass="txt-user-name">([^<]+)<\/span>/);
@@ -6145,6 +6232,8 @@
 	    data = await transLangMsg(data, pathname);
 	  } else if (pathname.includes('/npc/npc/')) {
 	    data = await parseSkill(data);
+	  } else if (pathname.includes('/party_ability_subaction/') || pathname.includes('/party/job/') || pathname.includes('/party/ability_list/') || pathname.includes('/party/job_info/')) {
+	    data = await transSkill$1(data, pathname);
 	  } else {
 	    return;
 	  }
@@ -6205,7 +6294,13 @@
 
 	        }
 	      });
-	      await translate(state);
+
+	      try {
+	        await translate(state);
+	      } catch (_err) {
+	        console.error(_err);
+	      }
+
 	      state.onload && state.onload.call(this, state.onLoadEvent);
 	    } catch (err) {
 	      log(err);

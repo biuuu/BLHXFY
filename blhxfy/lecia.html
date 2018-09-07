@@ -23,7 +23,7 @@
           event.source.postMessage({
             type: 'response',
             flag: event.data.flag,
-            error: err
+            error: err.message
           }, event.origin)
         })
       }

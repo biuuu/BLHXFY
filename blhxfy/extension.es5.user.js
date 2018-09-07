@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         碧蓝幻想翻译兼容版
 // @namespace    https://github.com/biuuu/BLHXFY
-// @version      0.5.3
+// @version      0.6.0
 // @description  碧蓝幻想的汉化脚本，提交新翻译请到 https://github.com/biuuu/BLHXFY
 // @icon         http://game.granbluefantasy.jp/favicon.ico
 // @author       biuuu
@@ -7107,8 +7107,8 @@
               }, origin);
               return _context.abrupt("return", new Promise(function (rev, rej) {
                 ee.once("response".concat(flag), function (data) {
-                  if (data.err) {
-                    rej(err);
+                  if (data.error) {
+                    rej(data.error);
                   } else {
                     rev(data.data);
                   }
@@ -9972,6 +9972,284 @@
     };
   }();
 
+  var skillMap$1 = new Map();
+  var loaded$2 = false;
+
+  var getSkillData$1 =
+  /*#__PURE__*/
+  function () {
+    var _ref = _asyncToGenerator(
+    /*#__PURE__*/
+    regeneratorRuntime.mark(function _callee(id) {
+      var csv, list, trans;
+      return regeneratorRuntime.wrap(function _callee$(_context) {
+        while (1) {
+          switch (_context.prev = _context.next) {
+            case 0:
+              if (loaded$2) {
+                _context.next = 7;
+                break;
+              }
+
+              _context.next = 3;
+              return fetchWithHash('/blhxfy/data/job-skill.csv');
+
+            case 3:
+              csv = _context.sent;
+              list = parseCsv(csv);
+              list.forEach(function (item) {
+                if (item && item.id) {
+                  var _id = item.id.trim();
+
+                  if (_id) skillMap$1.set(_id, {
+                    name: item.name.trim(),
+                    detail: item.detail.trim()
+                  });
+                }
+              });
+              loaded$2 = true;
+
+            case 7:
+              trans = skillMap$1.get(id);
+              return _context.abrupt("return", trans);
+
+            case 9:
+            case "end":
+              return _context.stop();
+          }
+        }
+      }, _callee, this);
+    }));
+
+    return function getSkillData(_x) {
+      return _ref.apply(this, arguments);
+    };
+  }();
+
+  function replaceTurn (str) {
+    return str.replace('ターン', '回合').replace('turns', '回合').replace('turn', '回合').replace('Cooldown:', '使用间隔:').replace('使用間隔:', '使用间隔:');
+  }
+
+  var startTrans =
+  /*#__PURE__*/
+  function () {
+    var _ref = _asyncToGenerator(
+    /*#__PURE__*/
+    regeneratorRuntime.mark(function _callee(data) {
+      var key, trans;
+      return regeneratorRuntime.wrap(function _callee$(_context) {
+        while (1) {
+          switch (_context.prev = _context.next) {
+            case 0:
+              _context.t0 = regeneratorRuntime.keys(data);
+
+            case 1:
+              if ((_context.t1 = _context.t0()).done) {
+                _context.next = 12;
+                break;
+              }
+
+              key = _context.t1.value;
+
+              if (!data[key]) {
+                _context.next = 10;
+                break;
+              }
+
+              _context.next = 6;
+              return getSkillData$1(data[key].action_id);
+
+            case 6:
+              trans = _context.sent;
+
+              if (trans) {
+                data[key].name = trans.name;
+                data[key].comment = trans.detail;
+              }
+
+              if (data[key].recast_comment) {
+                data[key].recast_comment = replaceTurn(data[key].recast_comment);
+              }
+
+              if (data[key].turn_comment) {
+                data[key].turn_comment = replaceTurn(data[key].turn_comment);
+              }
+
+            case 10:
+              _context.next = 1;
+              break;
+
+            case 12:
+              return _context.abrupt("return", data);
+
+            case 13:
+            case "end":
+              return _context.stop();
+          }
+        }
+      }, _callee, this);
+    }));
+
+    return function startTrans(_x) {
+      return _ref.apply(this, arguments);
+    };
+  }();
+
+  var replaceSkill =
+  /*#__PURE__*/
+  function () {
+    var _ref2 = _asyncToGenerator(
+    /*#__PURE__*/
+    regeneratorRuntime.mark(function _callee2(data) {
+      return regeneratorRuntime.wrap(function _callee2$(_context2) {
+        while (1) {
+          switch (_context2.prev = _context2.next) {
+            case 0:
+              if (!data.action_ability) {
+                _context2.next = 4;
+                break;
+              }
+
+              _context2.next = 3;
+              return startTrans(data.action_ability);
+
+            case 3:
+              data.action_ability = _context2.sent;
+
+            case 4:
+              if (!data.support_ability) {
+                _context2.next = 8;
+                break;
+              }
+
+              _context2.next = 7;
+              return startTrans(data.support_ability);
+
+            case 7:
+              data.support_ability = _context2.sent;
+
+            case 8:
+              return _context2.abrupt("return", data);
+
+            case 9:
+            case "end":
+              return _context2.stop();
+          }
+        }
+      }, _callee2, this);
+    }));
+
+    return function replaceSkill(_x2) {
+      return _ref2.apply(this, arguments);
+    };
+  }();
+
+  var transSkill$1 =
+  /*#__PURE__*/
+  function () {
+    var _ref3 = _asyncToGenerator(
+    /*#__PURE__*/
+    regeneratorRuntime.mark(function _callee3(data, pathname) {
+      return regeneratorRuntime.wrap(function _callee3$(_context3) {
+        while (1) {
+          switch (_context3.prev = _context3.next) {
+            case 0:
+              if (!/\/party\/job\/\d+\//.test(pathname)) {
+                _context3.next = 7;
+                break;
+              }
+
+              if (!data.job) {
+                _context3.next = 5;
+                break;
+              }
+
+              _context3.next = 4;
+              return replaceSkill(data.job);
+
+            case 4:
+              data.job = _context3.sent;
+
+            case 5:
+              _context3.next = 29;
+              break;
+
+            case 7:
+              if (!pathname.includes('/party_ability_subaction/')) {
+                _context3.next = 14;
+                break;
+              }
+
+              if (!data.list) {
+                _context3.next = 12;
+                break;
+              }
+
+              _context3.next = 11;
+              return startTrans(data.list);
+
+            case 11:
+              data.list = _context3.sent;
+
+            case 12:
+              _context3.next = 29;
+              break;
+
+            case 14:
+              if (!/\/party\/ability_list\/\d+\//.test(pathname)) {
+                _context3.next = 20;
+                break;
+              }
+
+              _context3.next = 17;
+              return replaceSkill(data);
+
+            case 17:
+              data = _context3.sent;
+              _context3.next = 29;
+              break;
+
+            case 20:
+
+              if (!data.after_job_master) {
+                _context3.next = 25;
+                break;
+              }
+
+              _context3.next = 24;
+              return replaceSkill(data.after_job_master);
+
+            case 24:
+              data.after_job_master = _context3.sent;
+
+            case 25:
+              if (!data.before_job_info) {
+                _context3.next = 29;
+                break;
+              }
+
+              _context3.next = 28;
+              return replaceSkill(data.before_job_info);
+
+            case 28:
+              data.before_job_info = _context3.sent;
+
+            case 29:
+              return _context3.abrupt("return", data);
+
+            case 30:
+            case "end":
+              return _context3.stop();
+          }
+        }
+      }, _callee3, this);
+    }));
+
+    return function transSkill(_x3, _x4) {
+      return _ref3.apply(this, arguments);
+    };
+  }();
+
   var getUserName = function getUserName(data) {
     var html = decodeURIComponent(data.data);
     var rgs = html.match(/<span\sclass="txt-user-name">([^<]+)<\/span>/);
@@ -10033,7 +10311,7 @@
 
             case 11:
               data = _context.sent;
-              _context.next = 28;
+              _context.next = 34;
               break;
 
             case 14:
@@ -10051,7 +10329,7 @@
 
             case 18:
               data = _context.sent;
-              _context.next = 28;
+              _context.next = 34;
               break;
 
             case 21:
@@ -10065,16 +10343,30 @@
 
             case 24:
               data = _context.sent;
-              _context.next = 28;
+              _context.next = 34;
               break;
 
             case 27:
+              if (!(pathname.includes('/party_ability_subaction/') || pathname.includes('/party/job/') || pathname.includes('/party/ability_list/') || pathname.includes('/party/job_info/'))) {
+                _context.next = 33;
+                break;
+              }
+
+              _context.next = 30;
+              return transSkill$1(data, pathname);
+
+            case 30:
+              data = _context.sent;
+              _context.next = 34;
+              break;
+
+            case 33:
               return _context.abrupt("return");
 
-            case 28:
+            case 34:
               state.result = isJSON ? JSON.stringify(data) : data;
 
-            case 29:
+            case 35:
             case "end":
               return _context.stop();
           }
@@ -10143,25 +10435,35 @@
                     }
                   }
                 });
-                _context.next = 6;
+                _context.prev = 4;
+                _context.next = 7;
                 return translate(state);
 
-              case 6:
-                state.onload && state.onload.call(this, state.onLoadEvent);
+              case 7:
                 _context.next = 12;
                 break;
 
               case 9:
                 _context.prev = 9;
-                _context.t0 = _context["catch"](0);
-                log(_context.t0);
+                _context.t0 = _context["catch"](4);
+                console.error(_context.t0);
 
               case 12:
+                state.onload && state.onload.call(this, state.onLoadEvent);
+                _context.next = 18;
+                break;
+
+              case 15:
+                _context.prev = 15;
+                _context.t1 = _context["catch"](0);
+                log(_context.t1);
+
+              case 18:
               case "end":
                 return _context.stop();
             }
           }
-        }, _callee, this, [[0, 9]]);
+        }, _callee, this, [[0, 15], [4, 9]]);
       }));
 
       return function customOnLoad(_x) {
