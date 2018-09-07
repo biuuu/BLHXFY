@@ -1,6 +1,7 @@
 import URI from 'urijs'
 import transScenario from './modules/scenario'
 import transLangMsg from './modules/langMsg'
+import transSkill from './modules/skill'
 import getUserName from './store/name-user'
 
 const apiHosts = ['game.granbluefantasy.jp', 'gbf.game.mbga.jp']
@@ -24,6 +25,8 @@ export default async function translate(state) {
       getUserName(data)
     }
     data = await transLangMsg(data, pathname)
+  } else if (pathname.includes('/npc/npc/')) {
+    data = await transSkill(data)
   } else {
     return
   }
