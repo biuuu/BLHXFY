@@ -50,7 +50,11 @@ const main = () => {
           }
         }
       })
-      await translate(state)
+      try {
+        await translate(state)
+      } catch (_err) {
+        console.error(_err)
+      }
       state.onload && state.onload.call(this, state.onLoadEvent)
     } catch (err) {
       log(err)

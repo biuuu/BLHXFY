@@ -32,8 +32,8 @@ const fetchData = async (pathname) => {
   }, origin)
   return new Promise((rev, rej) => {
     ee.once(`response${flag}`, function (data) {
-      if (data.err) {
-        rej(err)
+      if (data.error) {
+        rej(data.error)
       } else {
         rev(data.data)
       }

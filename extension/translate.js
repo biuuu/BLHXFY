@@ -1,7 +1,8 @@
 import URI from 'urijs'
 import transScenario from './modules/scenario'
 import transLangMsg from './modules/langMsg'
-import transSkill from './modules/skill'
+import transNpcSkill from './modules/skill-npc'
+import transJobSkill from './modules/skill-job'
 import getUserName from './store/name-user'
 
 const apiHosts = ['game.granbluefantasy.jp', 'gbf.game.mbga.jp']
@@ -26,7 +27,13 @@ export default async function translate(state) {
     }
     data = await transLangMsg(data, pathname)
   } else if (pathname.includes('/npc/npc/')) {
-    data = await transSkill(data)
+    data = await transNpcSkill(data)
+  } else if (
+  pathname.includes('/party_ability_subaction/') ||
+  pathname.includes('/party/job/') ||
+  pathname.includes('/party/ability_list/') ||
+  pathname.includes('/party/job_info/')) {
+    data = await transJobSkill(data, pathname)
   } else {
     return
   }
