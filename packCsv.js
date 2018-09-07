@@ -221,5 +221,5 @@ gulp.task('default', [
   'skillMap',
   'clean:dist',
   'cname',
-  'publish'
+
 ])
