@@ -1,0 +1,11 @@
+id,name,detail
+npc,索恩,3040031000
+special,星之猎人,光属性伤害(特大)/在下次发动双尾目之钳的时候追加麻痹效果/友方全体的暴击率上升
+skill-1,赫尔墨斯之光,回避所有敌人的攻击/攻击上升(特大)/技能伤害上限上升
+skill-2,双尾目之祸,给与敌人全体各种各样的弱体效果/即死效果
+skill-3,双尾目之钳,<div class=prt-text-small>根据敌人全体弱体效果的数量给予伤害　<span class=text-blue>◆敌人的数量越少威力越大</span></div>
+skill-4,二王的斗争,<div class=prt-text-small>延长敌人全体弱体效果的时间/根据敌人全体弱体效果的数量给予相应次数的伤害（最多10次）　<span class=text-blue>◆不能再次使用</span></div>
+support-1,魔眼的猎人,普通攻击必定对敌人全体进行攻击/敌人的数量越少自己的攻击力越高
+support-2,孤高的狙击手,敌人的数量越少弱体成功率越高
+skill-lb,LB技能,回避成功时给予敌人全体光属性伤害
+active,0,
