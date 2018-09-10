@@ -16,10 +16,10 @@ id,en,jp,trans
 22,,みんな、よく頑張ってくれた。<br>今回も街に大きな被害が<br>出ずにすんだようだ。,大家今天都很努力。<br>这次城市也没有受到很大的损害。
 23,,しっかし、ナンパな兄ちゃんも<br>結構やるもんだな！,话说回来，搭讪小哥也<br>真是厉害呢！
 24,,な……ナンパだって！？,搭……搭讪！？
-25,,え？　だって初対面で<br>ルリア口説いたりしてたじゃねえか。,诶？因为你第一次见到露利亚<br>就去撩别人啊。
+25,,え？　だって初対面で<br>ルリア口説いたりしてたじゃねえか。,诶？因为你第一次见到露莉亚<br>就去撩别人啊。
 26,,大神さん……<br>やっぱり<br>そういうつもりだったんですね？,大神先生……<br>果然你是那个目的吗？
 27,,ち、違うんださくらくん！<br>だからあれはレニやアイリスと……！,不、不是这样的樱君！<br>我都说了那是想到蕾妮和爱丽丝了……！
-28,,<span class='scene-font-katari'>さくらに詰め寄られた大神は、</span><br><span class='scene-font-katari'>ルリアの境遇が彼女らに重なっただけと</span><br><span class='scene-font-katari'>しどろもどろになって弁解する。</span><br>,<span class='scene-font-katari'>被樱追问的大神辩解说是</span><br><span class='scene-font-katari'>露利亚的境遇与她们重合了这才口出此言。</span><br><span class='scene-font-katari'></span><br>
+28,,<span class='scene-font-katari'>さくらに詰め寄られた大神は、</span><br><span class='scene-font-katari'>ルリアの境遇が彼女らに重なっただけと</span><br><span class='scene-font-katari'>しどろもどろになって弁解する。</span><br>,<span class='scene-font-katari'>被樱追问的大神辩解说是</span><br><span class='scene-font-katari'>露莉亚的境遇与她们重合了这才口出此言。</span><br><span class='scene-font-katari'></span><br>
 29,,ふーん……<br>必死になって否定するところが<br>ますます怪しい……,哼……<br>这么拼命地辩解<br>反而更加可疑……
 30,,さ、さくらくん、<br>勘弁してくれよ……,樱、樱君，<br>你就饶了我吧……
 31,,みなさ～ん！<br>降魔の生息地らしき場所の<br>噂が入ってきましたよ～,各位～！<br>我听到了貌似降魔栖息地的传闻咯～
@@ -27,10 +27,10 @@ id,en,jp,trans
 33,,ふふふ～<br>シェロちゃんの情報網は<br>全空を駆け抜けちゃうんですよ～,呼呼呼～<br>我小榭洛的情报网可是遍布全空域哦～
 34,,それで、どこなんですか？<br>降魔の発生地って……,于是在什么地方？<br>你说的降魔的发生地……
 35,,どうも、アガスティア上空での<br>目撃情報が不自然に多いらしくて～,据说阿加斯蒂亚上空的<br>目击情报有很多不自然的地方～
-36,,アガスティア……<br>エルステの首都か……,阿加斯蒂亚……<br>艾尔斯特的首都吗……
+36,,アガスティア……<br>エルステの首都か……,阿加斯蒂亚……<br>艾尔斯提的首都吗……
 37,,大きな軍事国家っていう話でしたね。<br>人々の怨念を使って<br>降魔を生み出しているのかも……,之前听说是个巨大的军事国家吧。<br>那有可能利用人们的怨念来制作降魔……
 38,,にしても、<br>そんな噂が今更流れてくるって<br>なんか気持ちわりい感じがするな。,说起来，<br>这样的传言现在才流出来，<br>总感觉让人不舒服啊。
-39,,確かに……<br>この島がエルステとの交流を<br>断っているわけでもないのに……,确实……<br>这个岛又不是与艾尔斯特中断了交流……
+39,,確かに……<br>この島がエルステとの交流を<br>断っているわけでもないのに……,确实……<br>这个岛又不是与艾尔斯提中断了交流……
 40,,そうなんですよ～<br>そこが私も奇妙に思っている所で～,就是说啊～<br>我也觉得这一点很奇怪～
 41,,誰かが情報操作している可能性は<br>大いにありますね～<br>ひょっとすると、罠という事も～,看来有人进行情报操作的可能性很大呢～<br>说不定是个陷阱～
 42,,うーん……長くこう着している状態だ。<br>あえて踊らされるのもひとつの手だが、<br>どう思う？　姬塔くん。,嗯……现在的形势也十分胶着。<br>将计就计也不失为一个手段，<br>你怎么看？姬塔君。
@@ -77,7 +77,7 @@ id,en,jp,trans
 100,,帝国華撃団?降魔討伐隊、出撃！,帝国华击团·降魔讨伐队！出击！
 101,,<span class='scene-font-4'>了解！</span>,<span class='scene-font-4'>了解！</span>
 102,,<span class='scene-font-katari'>かくして姬塔達は</span><br><span class='scene-font-katari'>葵叉丹の本拠地と思われる</span><br><span class='scene-font-katari'>アガスティアへと向かうのであった。</span>,<span class='scene-font-katari'>于是姬塔一行人</span><br><span class='scene-font-katari'>去向了被视作是葵叉丹大本营的阿加斯蒂亚。</span><br><span class='scene-font-katari'></span>
-105,,<span class='scene-font-katari'>エルステ帝国の首都</span><br><span class='scene-font-katari'>アガスティアへと乗り込んだ一行。</span><br><span class='scene-font-katari'>そこは文字通り降魔の巣となっていた。</span>,<span class='scene-font-katari'>一行人攻入了艾尔斯特帝国的首都阿加斯蒂亚。</span><br><span class='scene-font-katari'>那里如同字面意思，已经成为了降魔的巢穴。</span><br><span class='scene-font-katari'></span>
+105,,<span class='scene-font-katari'>エルステ帝国の首都</span><br><span class='scene-font-katari'>アガスティアへと乗り込んだ一行。</span><br><span class='scene-font-katari'>そこは文字通り降魔の巣となっていた。</span>,<span class='scene-font-katari'>一行人攻入了艾尔斯提帝国的首都阿加斯蒂亚。</span><br><span class='scene-font-katari'>那里如同字面意思，已经成为了降魔的巢穴。</span><br><span class='scene-font-katari'></span>
 106,,降魔はあの塔の中央から<br>出てきている……　恐らく叉丹は<br>あそこを根城にしているんだ。,降魔从那个塔的中央出来……<br>恐怕叉丹现在将那当成据点了。
 107,,あの数の降魔は<br>さすがに相手できません。<br>敵は無視して走り抜けましょう。,这么大数量降魔<br>我们不能正面对抗。<br>无视掉敌人穿过去吧。
 108,,そうだな……<br>中枢の叉丹を叩けば<br>操られている降魔も姿を消すだろう。,是啊……<br>如果消灭作为中枢的叉丹，<br>他操纵的降魔应该都会消失。
