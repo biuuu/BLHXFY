@@ -927,29 +927,29 @@ gacha_normal_5,ガチャを引くことができません。<br>恐れいりま�
 gacha_normal_6,通信処理中,Communicating,连接中
 gacha_normal_7,通信処理を行っています。<br>アイテムは、処理が完了すると<br>プレゼントリストへ贈られます。<br>少し待ってから、プレゼントリストを<br>確認してください。," your loot will appear on the Crate screen. Please wait",正在连接。系统将在处理成功后将该道具发往您的礼物列表。请稍后收取。
 gacha_result_1,,Help,帮助
-gacha_typeup_legendgacha_1,%s属性出現UPガチャ,,
-gacha_typeup_legendgacha_2,%s属性出現UPガチャ,,
-gacha_typeup_legendgacha_list,%s属性出現UPガチャ出現一覧,,
-game_1,トップページ,,
-game_10,AP・BPはMAXですが投稿しますか？,,
-game_11,Twitter投稿,,
-game_12,Twitter連携,,
-game_13,Twitterに投稿しました。,,
-game_14,Twitter投稿により<br>AP・BPが回復しました。,,
-game_15,送信完了,,
-game_16,認証完了,,
-game_17,Twitterとの連携を認証しました。,,
-game_18,次のページへは移動できません,,
-game_19,PC版からの移動が制限されているページの為<br>このボタンからのページ移動はできません。,,
-game_2,設定の変更,,
+gacha_typeup_legendgacha_1,%s属性出現UPガチャ,,%s属性出现率UP卡池
+gacha_typeup_legendgacha_2,%s属性出現UPガチャ,,%s属性出现率UP卡池
+gacha_typeup_legendgacha_list,%s属性出現UPガチャ出現一覧,,%s属性出现率UP卡池一览
+game_1,トップページ,,首页
+game_10,AP・BPはMAXですが投稿しますか？,,您的AP·BP已满，是否继续投稿？
+game_11,Twitter投稿,,分享至Twitter
+game_12,Twitter連携,,绑定Twitter
+game_13,Twitterに投稿しました。,,已分享至推特
+game_14,Twitter投稿により<br>AP・BPが回復しました。,,AP·BP已回复。
+game_15,送信完了,,已发送
+game_16,認証完了,,验证成功
+game_17,Twitterとの連携を認証しました。,,已成功绑定Twitter
+game_18,次のページへは移動できません,,无法前往下一页
+game_19,PC版からの移動が制限されているページの為<br>このボタンからのページ移動はできません。,,PC版无法查看此页，点击该按钮无法前往下一页。
+game_2,設定の変更,,变更设定
 game_20,Error Code: %s<br>%s,,
-game_3,アカウント制裁措置の実施について,,
-game_4,アカウント制裁措置の実施についての説明,,
-game_5,アプリ版キャッシュ設定,,
-game_6,キャッシュクリアを行いました。,,
-game_7,パソコンからのご利用について,,
+game_3,アカウント制裁措置の実施について,,关于违规账号的处罚
+game_4,アカウント制裁措置の実施についての説明,,关于违规账号的处罚
+game_5,アプリ版キャッシュ設定,,APP版缓存设定
+game_6,キャッシュクリアを行いました。,,已清除缓存
+game_7,パソコンからのご利用について,,	关于电脑端的使用
 game_8,Twitterに投稿することでAP・BPが回復します。,,
-game_9,投稿によるAP・BPの回復は、1日1回までとなります。<br>回数制限は毎朝AM5:00にリセットされます。,,
+game_9,投稿によるAP・BPの回復は、1日1回までとなります。<br>回数制限は毎朝AM5:00にリセットされます。,,推特分享回复AP·BP一日仅限一次。<br>每日AM5：00（GMT+9）重置。
 game_pop_1,一部コンテンツについて,,
 game_pop_2,Game Logout,,
 game_pop_3,現在のゲームログイン状態を解除します。<br>チュートリアル進行中の場合は、進行状況がリセットされます。<br>プラットフォームのログイン状態は保持されます。<br><br>よろしいですか？,,
@@ -2496,66 +2496,66 @@ user_56,認証完了,Link Twitter Account,绑定成功。
 user_57,Twitterとの連携を認証しました。,Your Granblue Fantasy account and Twitter account are now linked.,您已绑定推特账号。
 user_58,次のページへは移動できません,Inaccessible Screen,无法前往下一页
 user_59,PC版からの移動が制限されているページの為<br>このボタンからのページ移動はできません。,The button you tapped leads to a screen that can't be accessed from a computer.,PC版无法查看此页，点击该按钮无法前往下一页。
-user_6,48時間限定！<br>超得！！スタートダッシュガチャセットが購入できます！,48 hours only!<br>Deeply discounted Beginner's draw set!,
-user_60,投稿によるAP・BPの回復は、1日1回までとなります。<br>回数制限は毎朝AM5:00にリセットされます。,You can post to Twitter to restore AP and EP<br>once daily from 5 a.m. (JST).,
-user_61,AP・BPはMAXですが投稿しますか？,Your AP and EP are full. Tweet anyway?,
-user_62,プレゼントリストに送られました。,Loot sent to your crate.,
-user_63,挨拶が%s件あります。,There are %s messages on your message board.,
-user_64,未確定のディールがあります,You have an unopened share chest.,
-user_65,未確認のディールがあります,You have an unopened share chest.,
-user_66,"日 "," day ",
-user_67,"時間 "," hour ",
+user_6,48時間限定！<br>超得！！スタートダッシュガチャセットが購入できます！,48 hours only!<br>Deeply discounted Beginner's draw set!,48小时限定！现在可以购买新手特别扭蛋券！
+user_60,投稿によるAP・BPの回復は、1日1回までとなります。<br>回数制限は毎朝AM5:00にリセットされます。,You can post to Twitter to restore AP and EP<br>once daily from 5 a.m. (JST).,推特分享回复AP·BP一日仅限一次。<br>每日AM5：00（GMT+9）重置。
+user_61,AP・BPはMAXですが投稿しますか？,Your AP and EP are full. Tweet anyway?,	您的AP·BP已满，是否继续投稿？
+user_62,プレゼントリストに送られました。,Loot sent to your crate.,已发送至礼物列表
+user_63,挨拶が%s件あります。,There are %s messages on your message board.,您收到了%s条留言
+user_64,未確定のディールがあります,You have an unopened share chest.,您有未确认的蓝箱
+user_65,未確認のディールがあります,You have an unopened share chest.,您有未确认的蓝箱
+user_66,"日 "," day ",天
+user_67,"時間 "," hour ",小时
 user_68,"分 "," min ",
 user_69,秒," sec",秒
-user_7,人のフレンドと、<br>," friends and <br>",
-user_70,輝き詳細情報,Pendant Details,
-user_73,他称号を%s個獲得しました,You got %s other trophy.,
+user_7,人のフレンドと、<br>," friends and <br>",名好友
+user_70,輝き詳細情報,Pendant Details,光辉详情
+user_73,他称号を%s個獲得しました,You got %s other trophy.,获得其他%s个称号
 user_74,Error Code: %s<br>%s,Error Code: %s<br>%s,
-user_75,LinksMateについて,LinksMate,
-user_8,"人の他プレイヤーのサポートに選ばれました。<br><br>報酬として "," other players borrowed your summon.<br><br>You received ",
-user_9,ルピ を受け取りました！," rupies as a reward!",
-user_anniversary_notification_1,4thAnniversaryガチャセットが購入できます。,4th Birthday draw set now on sale!,
-user_endroll_1,ルリアノート,Journal,
-user_free_legend_roulette_1,無料で10連ガチャが引けます！,You can draw the 10-part draw for free!,
-user_journal_update_npc,獲得キャラクター,You Got A New Character!,
-user_limited_time_1,ホワイトデーの贈り物,,
-user_limited_time_2,購入完了,,
-user_limited_time_3,ハッピーホワイトデー！,,
-user_news_1,Anniversaryスキンセットが購入できます。,Buy birthday outfit sets!,
-user_pop_1,発動中のサポート,Current Skills,
-user_pop_2,よろず屋サポート,Shop Skills,
+user_75,LinksMateについて,LinksMate,关于LinkMate
+user_8,"人の他プレイヤーのサポートに選ばれました。<br><br>報酬として "," other players borrowed your summon.<br><br>You received ","名玩家使用了您的召唤支援，获得"
+user_9,ルピ を受け取りました！," rupies as a reward!",卢比
+user_anniversary_notification_1,4thAnniversaryガチャセットが購入できます。,4th Birthday draw set now on sale!,可购买4周年抽卡券套餐！
+user_endroll_1,ルリアノート,Journal,露莉亚日记
+user_free_legend_roulette_1,無料で10連ガチャが引けます！,You can draw the 10-part draw for free!,可进行免费十连抽卡！
+user_journal_update_npc,獲得キャラクター,You Got A New Character!,获得新人物
+user_limited_time_1,ホワイトデーの贈り物,,白色情人节的礼物
+user_limited_time_2,購入完了,,购买成功
+user_limited_time_3,ハッピーホワイトデー！,,白色情人节快乐！
+user_news_1,Anniversaryスキンセットが購入できます。,Buy birthday outfit sets!,可购买周年庆皮肤套餐！
+user_pop_1,発動中のサポート,Current Skills,发动中的支援效果
+user_pop_2,よろず屋サポート,Shop Skills,万事屋支援效果
 user_selectablecampaign_1,応募可能なキャンペーンがあります。,応募可能なキャンペーンがあります。,
 user_selectablecampaign_2,えらべるグラブル！お中元キャンペーン,えらべるグラブル！お中元キャンペーン,
 user_selectablecampaign_3,「えらべるグラブル！お中元キャンペーン」<br>開催中です！<br>お知らせやキャンペーンバナーから応募できます。,「えらべるグラブル！お中元キャンペーン」<br>開催中です！<br>お知らせやキャンペーンバナーから応募できます。,
 user_selectablecampaign_4,えらべるグラブル！お中元キャンペーンに当選しました！,You've won a prize!,
 user_selectablecampaign_5,えらべるグラブル！お中元キャンペーン,Choose Your Granblue Giveaway,
 user_selectablecampaign_6,新着情報をご確認ください。<br>「えらべるグラブル！お中元キャンペーン」に当選しています。<br>※既にご確認済の場合はご容赦ください。,Winners for the Choose Your Granblue giveaway have been selected. Check the News screen to see if you've won.,
-user_trajectory_1,軌跡の雫,Journey Drops,
-user_trajectory_2,よろず屋サポートの効果を<br>最大<span>Lv.%s1</span>まで発動できます。<br>最大<span>%s2つ</span>まで同時に発動できます。,Shop skills can be used up to <span>level %s1</span>.<br>Up to <span>%s2 shop skill</span> can be active at a time.,
-weapon_detail_1,武器詳細,Weapon Details,
-weapon_skin_1,武器スキン設定,Choose a Skin,
-weapon_skin_2,武器スキン,Choose a Skin,
-zenith_1,リミットアビリティ習得,Extended Mastery Skills,
-zenith_10,能力強化を行っていません。<br>能力強化は、LBまたはジェムを<br>使用することで行うことができます。,There are no starred extended mastery bonuses.<br>Use EMP or gems to add stars.,
-zenith_11,能力強化一覧,Extended Mastery Bonuses,
-zenith_12,能力強化,Use Points,
-zenith_13,能力強化を行っていません。<br>能力強化は、LBまたはジェムを<br>使用することで行うことができます。,There are no starred extended mastery bonuses.<br>Use EMP or gems to add stars.,
+user_trajectory_1,軌跡の雫,Journey Drops,轨迹水滴
+user_trajectory_2,よろず屋サポートの効果を<br>最大<span>Lv.%s1</span>まで発動できます。<br>最大<span>%s2つ</span>まで同時に発動できます。,Shop skills can be used up to <span>level %s1</span>.<br>Up to <span>%s2 shop skill</span> can be active at a time.,万事屋支援效果最高<span>Lv.%s1</span>，最多同时发动<span>%s2个</span>。
+weapon_detail_1,武器詳細,Weapon Details,武器详情
+weapon_skin_1,武器スキン設定,Choose a Skin,设定武器皮肤
+weapon_skin_2,武器スキン,Choose a Skin,武器皮肤
+zenith_1,リミットアビリティ習得,Extended Mastery Skills,习得附加技能
+zenith_10,能力強化を行っていません。<br>能力強化は、LBまたはジェムを<br>使用することで行うことができます。,There are no starred extended mastery bonuses.<br>Use EMP or gems to add stars.,未强化能力。您可以用LB或者晶石来强化能力。
+zenith_11,能力強化一覧,Extended Mastery Bonuses,能力强化一览
+zenith_12,能力強化,Use Points,能力强化
+zenith_13,能力強化を行っていません。<br>能力強化は、LBまたはジェムを<br>使用することで行うことができます。,There are no starred extended mastery bonuses.<br>Use EMP or gems to add stars.,未强化能力。您可以用LB或者晶石来强化能力。
 zenith_14,LB,EMP,
-zenith_15,使用確認,,
-zenith_16,能力強化,,
-zenith_17,ステータス上書き確認,,
+zenith_15,使用確認,,使用确认
+zenith_16,能力強化,,能力强化
+zenith_17,ステータス上書き確認,,确认覆盖
 zenith_18,%s　,,
 zenith_19,%s1%s2,,
-zenith_2,習得できるリミットアビリティはありません,No skills.,
+zenith_2,習得できるリミットアビリティはありません,No skills.,无可习得的附加能力
 zenith_20,%s,,
 zenith_21,%s1%s2%s3,,
 zenith_22,+,,
 zenith_23,Lv,,
 zenith_24,%,,
-zenith_3,変換確認,Get EMP,
-zenith_4,変換する,Trade,
-zenith_5,ジェム,Gems,
-zenith_6,ジェムの入手,Get Gems,
-zenith_7,LB入手,Get EMP,
-zenith_8,能力リセット,Reset Bonuses,
-zenith_9,リセットする,Reset,
+zenith_3,変換確認,Get EMP,兑换确认
+zenith_4,変換する,Trade,兑换
+zenith_5,ジェム,Gems,晶石
+zenith_6,ジェムの入手,Get Gems,获得晶石
+zenith_7,LB入手,Get EMP,获得LB
+zenith_8,能力リセット,Reset Bonuses,重置能力
+zenith_9,リセットする,Reset,重置
