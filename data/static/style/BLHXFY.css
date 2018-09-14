@@ -81,6 +81,9 @@ body .btn-control[data-buton-name="クエストリストへ"]::after {
 body .btn-control[data-buton-name="フェイト一覧へ"]::after {
   content: "返回 Fate 列表";
 }
+body .btn-control[data-buton-name="エクストラクエストへ"]::after {
+  content: "返回常驻任务";
+}
 body .btn-control[data-buton-name="探索に戻る"]::after {
   content: "继续探索";
 }
