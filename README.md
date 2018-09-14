@@ -1,12 +1,12 @@
 # 碧蓝幻想微风机翻团
 ## 简介
-下载：https://github.com/biuuu/BLHXFY/releases 
+下载：https://github.com/biuuu/BLHXFY/releases
 
 (下载最新的exe文件安装即可，可能会被 smart screen 拦截，点“更多信息”可以继续安装)
 
 原理是建立一个本地http代理服务器，替换剧情文本。在浏览器里使用需要手动配置代理，默认端口8001
 
-如果使用 SwitchyOmega 等代理管理插件，可以新建个 PAC 情景模式，地址填 http://127.0.0.1:8001/pac 
+如果使用 SwitchyOmega 等代理管理插件，可以新建个 PAC 情景模式，地址填 http://127.0.0.1:8001/pac
 
 如果修改过默认的 8001 端口，则地址里的 8001 改成对应的数字
 
@@ -15,7 +15,7 @@
 使用前置代理后，数据会通过 工具 -> 其他代理 -> 游戏服务器 的顺序发送，这样就相当于工具和加速一起生效了
 
 ### 关于剧情翻译
-对于已经有了翻译文本 （[scenario](https://github.com/biuuu/BLHXFY/tree/master/data/scenario)） 的剧情，会直接替换。
+对于已经有了翻译文本 （[scenario](https://github.com/BLHXFY-Group/BLHXFY/tree/master/data/scenario)） 的剧情，会直接替换。
 
 对于还没翻译文本的剧情会使用 google 翻译进行机翻。
 
@@ -26,10 +26,10 @@
 
 不会使用 Git 可以直接用 github 的 web 界面来上传文件和发起 pull request。
 
-参考：https://github.com/biuuu/BLHXFY/tree/master/data
+参考：https://github.com/BLHXFY-Group/BLHXFY/tree/master/data
 
 ### 关于技能翻译
-已有的人物技能：[查看](https://github.com/biuuu/BLHXFY/tree/master/data/skill)
+已有的人物技能：[查看](https://github.com/BLHXFY-Group/BLHXFY/tree/master/data/skill)
 
 类似剧情翻译，在游戏里查看人物技能时，会在本地数据目录下的skill文件夹生成对应的 csv 文件。（游戏语言必须是日语）
 
