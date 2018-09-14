@@ -1953,7 +1953,7 @@ raid_trial_2,注意事項,Trial Battles,注意事项
 reset_quest_1,クエスト取り下げ,Cancel Quest,取消任务
 reset_quest_2,設定したクエストを取り下げます。<br>よろしいですか？,You're about to cancel this quest. Proceed?,是否取消当前设定的任务？
 reset_quest_3,クエストを取り下げました。,The quest was cancelled.,任务已取消
-result_1,獲得したアイテムやルピの所持数が上限に達している場合、<br>自動で期限ありプレゼントに送られます。,"If you can't hold any more items or rupies,<br>extras are sent to your crate.",当您所持的道具或卢比数量已达上限，战利品将自动发送至限时礼物列表。
+result_1,獲得したアイテムやルピの所持数が上限に達している場合、<br>自動で期限ありプレゼントに送られます。,"If you can't hold any more items or rupies,<br>extras are sent to your crate.",当您所持的道具或卢比数量已达上限，<br>战利品将自动发送至限时礼物列表。
 result_10,「," ",
 result_11,」<br>このクエストを登録しますか？<br><br>現在のお気に入り登録数<br>,<br>Favorite this quest?<br><br>Slots filled:<br>,」<br>是否收藏此任务？<br><br>现在的收藏数<br>
 result_12,お気に入り登録確認,Favorite,	添加收藏任务确认
