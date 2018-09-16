@@ -1,0 +1,43 @@
+﻿id,en,jp,trans
+0-chapter_name,80: An Unfamiliar Sky,第80章　見知らぬ空,第80章 陌生的天空
+0-synopsis,Vyrn awakens 姬塔 and they search for their missing crew. They soon discover that they've arrived on an island in Nalhegrande Skydom.,ビィに身体を揺すられ、目を覚ます姬塔。目の前に広がる景色に心当たりがない姬塔は、瘴流域に飲まれ、見知らぬ土地に来てしまった事を理解すると、ビィと共に現状を把握する為、周囲を探索する。そして、ここがナル・グランデ空域であると知ると、離れ離れになってしまった仲間達の身を案じるのだった。,碧摇着姬塔的身体让其醒来。对眼前的景色毫无印象的姬塔理解了被瘴流域吞噬然后来到陌生土地的事。姬塔与碧一同确认了状况后在附近探索。然后知道了这里就是纳尔格兰德空域，碧和姬塔开始挂念分散的其他伙伴的情况。
+0,Hey! Come on! You've gotta wake up!,――なぁ！　おい！<br>目ぇ覚ませって！,呐！喂！快睁开眼吧！
+1,姬塔 comes to after a firm shaking.,<span class='scene-font-katari'>必死に身体を揺らす小さな力に、</span><br><span class='scene-font-katari'>姬塔は</span><br><span class='scene-font-katari'>ゆっくりと意識を取り戻す。</span>,<span class='scene-font-katari'>碧用它那微小的力气拼命摇着姬塔的身体，姬塔慢慢取回了意识。</span>
+2,"Stunned silent for a moment, 姬塔 takes in the unfamiliar surroundings.",<span class='scene-font-katari'>記憶に続く景色との</span><br><span class='scene-font-katari'>あまりに大きな違いに、</span><br><span class='scene-font-katari'>姬塔は言葉を失う。</span>,<span class='scene-font-katari'>眼前之景与记忆中最后一刻的景色完全不同，姬塔哑然失声。</span>
+3,No amount of blinking or eye-rubbing makes the sight before 姬塔 any clearer.,<span class='scene-font-katari'>しかし、何度瞼をこすろうと、</span><br><span class='scene-font-katari'>目の前に広がる風景に変化はなかった。</span>,<span class='scene-font-katari'>但是，无论怎样擦眼睛，眼前那开阔的景象也没有变化。</span>
+4,"Hey, are you all right? You're not hurt or anything, are you?",おい、大丈夫か……？<br>怪我とかしてねぇよな？,喂，你没事吧？没有受伤吧？
+4-sel1_txt,Where are we?,<span class='scene-font-katari'>ここはどこ？</span>,这是哪？
+4-sel2_txt,Who are you?,<span class='scene-font-katari'>君はだれ？</span>,你是谁？
+5,"Beats me... Doesn't look like any island we've ever seen before, right?",オイラもわかんねーんだ……<br>こんな島、<br>いままで見たことないよな？,我也不知道啊，这座岛过去从没见过。
+6,At first we were in Silverwind Stretch. All covered in white...,オイラ達、<br>そこら中真っ白な、<br><span class='scene-font-place'>白風の境</span>に居たよな……？,我们之前是在一片雪白的<span class='scene-font-place'>白风之境</span>那一带吧？
+7,What! No way... You've forgotten who I am?,んなっ！？　う、嘘だろ……<br>オイラのこと<br>忘れちまったってのか……？,嗯呐！？骗人的吧，你忘记了我的事了吗？
+8,"It's me! Vyrn! You're kidding, right? You remember me, don't ya? Don't ya?",オ、オイラだよ！　ビィだよ！<br>冗談だろ？　覚えてるよな？　なっ？,是我啊！是碧啊！你肯定是在开玩笑的吧？肯定还记得我的吧，呐？
+9,Vyrn is on the verge of tears as 姬塔 scrambles to reassure him it was only a joke.,<span class='scene-font-katari'>いまにも泣きそうなビィに、</span><br><span class='scene-font-katari'>姬塔は慌てて、</span><br><span class='scene-font-katari'>冗談であることを告げる。</span>,<span class='scene-font-katari'>碧像是要哭出来，姬塔慌忙地解释只是开个玩笑。</span>
+10,You had me going there... I guess you're all right if you're fine enough to joke like that.,勘弁してくれよ……<br>こんな状況で冗談が言えるなんて、<br>ちょっと肝が据わりすぎだぜ……,放过我吧...这样的情况下还开玩笑，你沉着过头了吧。
+11,姬塔 apologizes and the two get back to piecing together how they got here.,<span class='scene-font-katari'>姬塔はビィに謝罪すると、</span><br><span class='scene-font-katari'>改めて自分達の置かれている</span><br><span class='scene-font-katari'>状況について考える。</span>,<span class='scene-font-katari'>姬塔向碧好好道歉之后，重新思考现在所处的状况。</span>
+12,At first we were in Silverwind Stretch. All covered in white...,オイラ達、<br>そこら中真っ白な、<br><span class='scene-font-place'>白風の境</span>に居たよな……？,我们之前是在一片雪白的<span class='scene-font-place'>白风之境</span>那一带吧？
+13,"Then we climbed the mountain, crossed through the Grim Basin... And we reached the peak in the end.",んで、山を登って、瘴流域を通って……<br>なんだかんだで、<br>山頂まで登りきったんだよな。,然后我们登上山峰，穿过瘴流域，这样那样之后就登上了山顶。
+14,"We were looking out at the Nalhegrande Skydom from the peak, and that's when the Grim Basin suddenly closed up behind us... ",それで……<br>山頂からナル・グランデ空域を見てたら、<br>通ってきた瘴流域が、突然閉じて……,然后我们从山顶眺望纳尔格兰德空域，之前通过了的瘴流域突然关闭了...
+15,"姬塔 nods again as Vyrn speaks, both recalling the final moment on the mountaintop at the same time.",<span class='scene-font-katari'>ビィの言葉に姬塔は頷き、</span><br><span class='scene-font-katari'>ビィとほぼ同時に、</span><br><span class='scene-font-katari'>己の身に何が起きたかを思い出す。</span>,<span class='scene-font-katari'>姬塔对碧的回忆连连点头，然后几乎与碧同时想起了什么。</span>
+16,We were all swallowed up by the Grim Basin...,オイラ達……<br>皆一緒に、<br>瘴流域に飲まれたんだ……,然后我们都被瘴流域吞进去了。
+17,...,…………,...
+18,Where did everyone else go? Where's Lyria? And Katalina? Is it only me and you here?,他の皆はどこ行ったんだ……？<br>ルリアは？　姐さんは？<br>ここにはオイラ達しか居ねーのか？,其他人去哪儿了？露莉亚在哪里？卡塔莉娜呢？只有我和你在这里吗？
+18-sel1_txt,I just don't know...,<span class='scene-font-katari'>わからない……</span>,我也不知道
+18-sel2_txt,Let's look for them.,<span class='scene-font-katari'>探してみよう</span>,去找他们吧
+19,"Seeing the discouraged look on 姬塔's face, Vyrn feels a bit guilty.",<span class='scene-font-katari'>力無くうな垂れる姬塔に、</span><br><span class='scene-font-katari'>ビィは慌てて謝罪する。</span>,<span class='scene-font-katari'>看到姬塔那副无力而沮丧的表情，碧慌忙道歉。</span>
+20,Yeah... I'm sorry. I guess I forgot I'm not the only one who's worried.,そ、そうだよな……<br>すまねぇ……<br>不安なのは、オイラだけじゃねーよな。,是的...对不住，并不是只有我感到不安的...
+21,Maybe everyone's looking for us too. Let's walk around and check out the area!,もしかしたら、向こうも向こうで、<br>オイラ達を探してるかもしれねーし、<br>ちょっと近くを歩いてみようぜ！,说不定他们也从他们那边找我们了，我们在这附近稍微走走看吧！
+22,You're right! Standing around won't do us any good!,そうだな！<br>じっと待ってたって、<br>始まらねーや！,确实，一直待在这什么都改变不了。
+23,"For now let's walk around the area, but not too far.",とりあえず、<br>道に迷わない程度に、<br>辺りを歩いてみようぜ！,总之先在附近不至于迷路的范围内走走看。
+24,姬塔 and Vyrn remain cautious of their surroundings as they investigate the island.,<span class='scene-font-katari'>周囲を警戒しながら、</span><br><span class='scene-font-katari'>見知らぬ島を探索する</span><br><span class='scene-font-katari'>姬塔とビィ。</span>,<span class='scene-font-katari'>姬塔和碧警戒着周围，在这座陌生的岛屿开始了探索。</span>
+30,They reach a clearing and face the span of sky that spreads outside the island.,<span class='scene-font-katari'>やがてふたりは、</span><br><span class='scene-font-katari'>やや開けた場所で</span><br><span class='scene-font-katari'>島の外に広がる空を目の当たりにする。</span>,<span class='scene-font-katari'>不久两个人来到一个稍微开阔些的地方，在那可以看到岛外广阔的天空。</span>
+43,This is the same sky we saw from the top of the mountain...,これ……<br>あの山の頂上で見たのと、<br>同じ空だよな……,这里和从那个山顶上所看到的是同一片天空吧。
+44,Which means we must've landed in Nalhegrande Skydom.,ってことはやっぱり、<br>オイラ達、ナル・グランデ空域に<br>来ちまったってことか……,也就是说我们果然来到纳尔格兰德空域了吗。
+45,"姬塔 looks around in awe, nodding absently at Vyrn.",<span class='scene-font-katari'>目の前の空に呆然としながらも、</span><br><span class='scene-font-katari'>姬塔は、</span><br><span class='scene-font-katari'>ビィに頷きを返す。</span>,<span class='scene-font-katari'>姬塔看到这片天空有些呆住地向碧点头。</span>
+46,I wonder which island in Nalhegrande we're on...,オイラ達が居るのは、<br>ナル・グランデの、<br>なんていう島なんだ……？,我们现在所在的是纳尔格兰德空域的哪座岛啊？
+47,Vyrn stares on in silence with 姬塔.,<span class='scene-font-katari'>当然、</span><br><span class='scene-font-katari'>姬塔がそれを知る由もなく、</span><br><span class='scene-font-katari'>ふたりはただ呆然と空を眺める。</span>,<span class='scene-font-katari'>当然姬塔也并不知晓，于是两个人只是呆呆地望着天空。</span>
+48,It was exciting to see this skydom when we were all together.,皆一緒だった時は、<br>この空を見て、<br>すっげぇワクワクしたのに……,大家还在一起的时候，看到这片天空明明是那么地激动。
+49,"But looking at it now, I feel anxious and lonely somehow...",同じ空を見て、<br>こんなに不安で心細くなるなんてな……,但是现在看着同一片天空，心中竟然如此不安。
+50,"With no clue where to begin, they remain quiet and still.",<span class='scene-font-katari'>何の手がかりも持たない</span><br><span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>ただ広大な空を眺めることしか出来ない。</span>,<span class='scene-font-katari'>姬塔和碧毫无线索，只是眺望着这片无垠的天空而没有其他办法。</span>
+51,The infinite sky before them that once brought the joy of adventure is now overshadowed by a sense of uncertainty.,<span class='scene-font-katari'>冒険を感じさせる空の広さは、</span><br><span class='scene-font-katari'>いまはただただ、姬塔達の</span><br><span class='scene-font-katari'>不安を煽るのだった。</span>,<span class='scene-font-katari'>天空的广阔曾让他们想在其中冒险，但现在却煽动着他们的不安。</span>
+info,1,1,scene_cp80_q2_s10
