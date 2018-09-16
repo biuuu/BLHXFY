@@ -1,0 +1,67 @@
+﻿id,en,jp,trans
+0-chapter_name,80: An Unfamiliar Sky,第80章　見知らぬ空,第80章 陌生的天空
+0-synopsis,"In search of locals, 姬塔 and Vyrn decide to set off for a giant structure in the distance. But after following a voice nearby, they get involved in a quarrel between a young man and outlaws.",自分達がナル・グランデ空域にいることを確認した姬塔とビィは、情報を集める為、遠くに見える大きな建物に向かう。しかしその途中、姬塔達は青年が盗賊達と争っている現場に遭遇する。青年は姬塔達を見るとすぐに、援軍が来たと嘘を並べ立て、盗賊達を脅す。しかしそれが、火に油を注ぐ結果となり、盗賊達は青年だけでなく、姬塔達にも襲い掛かってくるのだった。,姬塔和碧确认了已经身处纳尔格兰德空域一事。为了收集情报，他们向可以望见的远处一栋巨大的建筑物靠近。但是途中姬塔与碧遇见一个青年与盗贼们的互斗现场。青年见到姬塔与碧，谎称自己援军已到来威胁盗贼们。但是那却火上浇油一般导致盗贼们没有袭击青年，反而向姬塔与碧袭来。
+0,"Having discovered that they've arrived somewhere in Nalhegrande Skydom, 姬塔 and crew decide to return to where they woke up.",<span class='scene-font-katari'>いま自分達がナル・グランデ空域に</span><br><span class='scene-font-katari'>居ることを確認した姬塔達は、</span><br><span class='scene-font-katari'>ひとまず、元居た場所へと戻ってくる。</span>,<span class='scene-font-katari'>姬塔与碧确认了自己所在的地方就是纳尔格兰德空域，于是他们先回到了原来的位置。</span>
+1,"All right then... What do we do now, 姬塔?",さて……<br>とりあえず、これからどうする？<br>姬塔。,好啦。总之得想想接下来该干什么，姬塔。
+1-sel1_txt,Let's find somebody.,<span class='scene-font-katari'>人を探そう</span>,去找人
+1-sel2_txt,Let's find a village.,<span class='scene-font-katari'>村を探そう</span>,去找村子
+2,You said it! We're gonna need clues to find our crew!,そうだな！<br>他の奴らを探すにしても、<br>とにかく情報が必要だもんな！,说得对！要找到其他人的话首先需要情报！
+3,And asking around is the best way to get those clues!,情報を集めるなら、<br>人に聞くのが一番だぜ！,要收集情报的话最好的办法就是去向别人打听咯！
+4,Which means we gotta find a place where people might be...,となると、<br>まずは人の集まってそうな場所を<br>探さねーと……,就是说我们得先去找人们聚集的地方。
+5,"You're right. Before we do anything, we need to find a good place to stop and think.",確かに……<br>何をするにも、まずは<br>腰を据えられる場所を探さねーとな。,确实。不管接下来做什么，首先要找到一个寄身之所。
+6,Which means we'll have to check for a village nearby...,となると、<br>この近くに村は……,也就是说得先找个附近的村落。
+13,Vyrn flies high into the air and looks around for any signs of settlements.,<span class='scene-font-katari'>村を探すため、</span><br><span class='scene-font-katari'>ビィは高く飛び上がり、</span><br><span class='scene-font-katari'>周囲を見渡す。</span>,<span class='scene-font-katari'>碧飞到空中，为了寻找村子望向周围。</span>
+14,Hm? What's that over there?,ん……？<br>なんだぁ、あれ……,嗯？那是什么？
+15,"Hey, 姬塔! Can you see that? What do you think it is?",なぁなぁ！　姬塔！<br>あれ、見えるか？<br>なんだと思う？,呐呐，姬塔！你看得见那个吗？你觉得那是什么？
+18,In the distance a structure that could be mistaken for a mountain rises into the sky.,<span class='scene-font-katari'>ビィの声が示す方向を見ると、</span><br><span class='scene-font-katari'>そこには山と見紛うほど</span><br><span class='scene-font-katari'>巨大な建造物がそびえていた。</span>,<span class='scene-font-katari'>向碧所指的方向看去有一栋巨大的让人容易错看成山的建筑物。</span>
+25,That thing's huge... How'd we miss it until now?,デッケぇよな……<br>慌ててていままで気付かなかったぜ……,好大呀...之前慌慌张张的都没注意到。
+26,"Hey, 姬塔. Just what do you think that is?",なぁ、姬塔は、<br>あれ、なんだと思う？,呐，姬塔，你觉得那个是什么？
+26-sel1_txt,I guess it's a castle.,<span class='scene-font-katari'>お城かな</span>,也许是座城堡
+26-sel2_txt,Maybe a secret base?,<span class='scene-font-katari'>秘密基地かも</span>,也许是秘密基地
+26-sel3_txt,It's awesome is what it is!,<span class='scene-font-katari'>カッコイイ……！</span>,太酷了！
+27,"Yeah, it does sort of look like a castle!",確かに、どことなく城っぽいよな！,是啊，确实怎么看都像是一座城堡呀！
+28,"So there's gotta be plenty of people there, right?",ってことは、<br>あそこになら、<br>人がたくさんいるんじゃねーか？,也就是说那里会有很多人的吧？
+29,"Heh-heh... Well, I'll admit that sounds pretty exciting!",へへっ……まぁ、こんな状況だけど、<br>確かにちょっと<br>ワクワクする見た目だよな！,嘿嘿...嘛，虽然身处这样的状况，但是确实看上去还是让人有点小激动的！
+30,"And if it really is a base, there's no doubt we can meet people there!",けど、<br>もし基地としてまだ使われてるなら、<br>あそこに行けば、人に会えるかもな！,但是，如果那里是作为基地在使用，去那里也就能碰见人了吧！
+31,You can say that again! It looks like something straight out of a fairy tale!,だよなぁ！！<br>こう、ロマンの塊、<br>って感じがして……,是呀！看上去就像是故事里的东西，有这样的感觉呢。
+32,Oops! But now's not the time for guessing!,って、いまはそんなこと<br>話してる場合じゃねーぜ！,但是，现在不是说这种话的时候吧！
+33,We can say for sure that it's man-made and not some natural structure.,とりあえず、自然のものじゃなくて、<br>誰かがここに建てたのは、<br>間違いねーよな。,总之可以肯定这并非天然造物，一定是有谁建造了它。
+34,"That means it must be used for something! So if we go there, we might find some people, right?",作った以上、何かに使ってるんだろうし、<br>あそこに行けば、<br>人に会えるんじゃねーか？,既然是建造的，也就会使用到什么东西，去那里的话不就可以碰到一些人了吗？
+35,姬塔 nods eagerly in agreement.,<span class='scene-font-katari'>ビィの言葉に</span><br><span class='scene-font-katari'>頷きを返す姬塔。</span>,<span class='scene-font-katari'>对碧的话姬塔点头回应。</span>
+36,All right! Then let's hurry on over to that big old building...,よっしゃ！<br>そんじゃ、早いとこ、<br>あのデッケぇ建物に……,好嘞！那么赶紧去那栋大大的建筑那边...
+37,That's it! Enough with your games!,<span class='scene-font-4'>――んのっ！</span><br><span class='scene-font-4'>テメェ、人をおちょくんのも、</span><br><span class='scene-font-4'>いい加減にしろよ！</span>,<span class='scene-font-4'>够了！你这家伙，戏弄人可要注意点分寸！</span>
+38,姬塔 and Vyrn exchange looks at the sudden echo of an angry voice.,<span class='scene-font-katari'>突如響き渡った怒声に、</span><br><span class='scene-font-katari'>姬塔とビィは</span><br><span class='scene-font-katari'>顔を見合わせる。</span>,<span class='scene-font-katari'>听到突然传来的怒斥声，姬塔和碧面面相觑。</span>
+39,"Say, that was a person's voice, right? He sounded pretty ticked off...",おい、いまの……人の声だよな？<br>それになんかスッゲー怒ってたけど……,喂，刚刚...是人的声音吗？而且还是怒气max的声音...
+39-sel1_txt,Let's check it out.,<span class='scene-font-katari'>見に行こう</span>,去看看吧
+39-sel2_txt,Let's leave them alone.,<span class='scene-font-katari'>放っておこう</span>,别管了
+40,"Yeah! It might be turning into a fight, so we'd better go and stop it!",だな！　もしかしたら、<br>喧嘩になってるかもしれねーし、<br>注意していこうぜ！,是啊！说不定这样下去会打起来的，稍微小心点吧！
+41,"Come on, you know we can't do that...",いや、<br>そーいうわけにもいかねーだろ……,不是，也不能那样做的吧...
+42,"Something bad might be going down over there, and if we can help them, then maybe they'll help us!",なんかヤバそうな雰囲気だったし、<br>それに、この島について、<br>色々教えてもらえるかもしれねーぜ！,都传来那样糟糕的氛围了，而且说不定能了解到这座岛各种各样的事情呢！
+43,They set off in the opposite direction of the giant structure to find the source of the commotion.,<span class='scene-font-katari'>謎の巨大建造物とは</span><br><span class='scene-font-katari'>逆方向になってしまうものの、</span><br><span class='scene-font-katari'>ふたりは声の聞こえたほうへ向かう。</span>,<span class='scene-font-katari'>两人听到了声音后向着迷之巨大建筑的反方向走去了。</span>
+46,Answer me right now! What were you doing here?,いますぐ答えろ！<br>お前、ここで何してた！？,快回答我！你到底在这干嘛！
+47,"Come now. Don't get so angry, all right? There's no point in getting all riled up about it.",――まぁまぁ、<br>そうカッカするなよ、な？<br>怒ったっていいことないぜ？,冷静点，别那么生气好吗？发怒也不是什么好事。
+48,That's a lot coming from the guy who's stirrin' up trouble!,オレ達がここまでなるほど、<br>怒らせたのはお前だろうが！,把我们搞得这么气的人不是你嘛！
+49,"Well, a secret's a secret. That's why I was trying not to get caught in the first place!",だって、言えねぇモンは言えねぇもん。<br>だからコソコソしてたんだぜ？,因为不能说的就是不能说啊，所以我才偷偷潜入的。
+50,"Then you come along, all high and mighty, demanding that I tell you what I was doing... Gimme a break!",それを意気揚々と見つけて、<br>何してたか教えろー<br>って言われてもさぁ……空気読めよ！,然后你们得意洋洋地发现了我，说了“快说，你要干什么”这样的话，真是ky啊。
+51,"Look, you... Forget it. There's no reasoning with this guy. And he's annoying to boot...",おまっ……！<br>くそ、こいつ話にならねぇ……<br>しかも、メンドくせぇ……,你...！可恶，没什么和这家伙好说的，而且这也太烦了吧！
+52,What do we do? Is it worth it to bring him to Tzar?,どうする？<br>キングのところに<br>連れて行くにしても……,怎么办？就算带去老大那里...
+53,"While watching the scene from the shadows, 姬塔 and Vyrn accidentally lock eyes with the outlaws.",<span class='scene-font-katari'>影から様子をうかがっていた</span><br><span class='scene-font-katari'>姬塔とビィは、</span><br><span class='scene-font-katari'>不意に盗賊と目が合ってしまう。</span>,<span class='scene-font-katari'>姬塔和碧从暗处观察情况，然后不小心和盗贼的眼神对上了。</span>
+54,Hey! Who are you?,っ！？<br>なんだお前ら……！,っ！？你们在搞什么啊！
+55,"Tch... A backup force! You planned this all along, didn't you?",ちっ……援軍か！？<br>お前、これを狙ってたな！？,ちっ……是援军吗！？你这家伙是打算这样！？
+56,Now j-just hold on here! We're not here for backup or anything...,ちょ、ちょっと待てよ！<br>別にオイラ達、そんなんじゃ……,等，等等哟！我们才不是...
+57,Heh-heh... What a shame!,ふっふっふ……<br>残念だったなぁ！,ふっふっふ……真是可惜！
+58,!,！？,！
+61,Your time's up now that this little fella and his ultimate dragon are here!,史上最強のドラゴンを従える、<br>彼が駆けつけた以上、<br>お前達の命運もここまでだっ！！,将史上最强的龙作为随从的他赶到了的话，你们的小命就到此为止了！
+61-sel1_txt,Say what?,<span class='scene-font-katari'>は？</span>,哈？
+61-sel2_txt,What dragon?,<span class='scene-font-katari'>ドラゴン……？</span>,什么龙...？
+62,Your time's up now that this little lady and her ultimate dragon are here!,史上最強のドラゴンを従える、<br>彼女が駆けつけた以上、<br>お前達の命運もここまでだっ！,将史上最强的龙作为随从的她赶到了的话，你们的小命就到此为止了！
+62-sel1_txt,Say what?,<span class='scene-font-katari'>は？</span>,哈？
+62-sel2_txt,What dragon?,<span class='scene-font-katari'>ドラゴン……？</span>,什么龙...？
+63,What are you talking about! We've got nothin' to do with whatever you're—,な、なに言ってやがんだ！？<br>オイラ達、<br>そいつの事なんて知らな――,你在说什么呢！？我们并不知道那样的——
+65,The young man swiftly covers Vyrn's mouth with his hand.,<span class='scene-font-katari'>いつの間にか傍らに立っていた青年に、</span><br><span class='scene-font-katari'>ビィは口をふさがれる。</span>,<span class='scene-font-katari'>那个青年不知何时迅速走到旁边捂住了碧的嘴。</span>
+66,Just play along... Because it seems these guys aren't gonna let you off the hook either.,まぁまぁ……<br>どうせこいつら、<br>君達のことも逃がす気ないからさ。,嘛嘛，反正这些家伙也不会让你们离开的。
+67,"Hey, that's last question you should be asking here! Of course I'm a dragon!",いや、そこ、<br>疑問挟むとこじゃねーだろ！？<br>オイラ、ドラゴンだからな！？,不是，那里不应该打问号的吧！？我的确是龙啦！？
+68,You are? I only said that to try and pull a bluff on these guys...,マジで！？<br>ハッタリかまそうと思って、<br>言ってみただけだったんだけど……,真的啊！？我只是想到什么就说什么，虚张声势一下而已。
+70,"Fools... I don't know what's going on, but you're muddling things up!",くそ……<br>なんか知らんが<br>ごちゃごちゃしやがって……！,可恶！虽然不知道什么情况，但现在被你们搞得乱七八糟的！
+71,I don't care anymore! We'll quiet each of you the best way we know how! Prepare yourselves!,この際、もうなんでもいい！<br>全員まとめて、大人しくしてもらうぞ！<br>覚悟しろ！！,既已至此，什么都不管了！所有人一起上，让他们老实下来！做好觉悟啊！
+info,1,1,scene_cp80_q3_s10
