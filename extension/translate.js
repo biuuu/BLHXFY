@@ -3,6 +3,7 @@ import transScenario from './modules/scenario'
 import transLangMsg from './modules/langMsg'
 import transNpcSkill from './modules/skill-npc'
 import transJobSkill from './modules/skill-job'
+import transHTML from './modules/content-html'
 import getUserName from './store/name-user'
 
 const apiHosts = ['game.granbluefantasy.jp', 'gbf.game.mbga.jp']
@@ -26,6 +27,7 @@ export default async function translate(state) {
       getUserName(data)
     }
     data = await transLangMsg(data, pathname)
+    data = await transHTML(data, pathname)
   } else if (pathname.includes('/npc/npc/') || pathname.includes('/archive/npc_detail')) {
     data = await transNpcSkill(data, pathname)
   } else if (
