@@ -1,4 +1,5 @@
 import getSkillData from '../store/skill-npc'
+import replaceTurn from '../utils/replaceTurn'
 
 const elemtRE = '([光闇水火風土]|light|dark|water|wind|earth|fire)'
 const elemtMap = {
@@ -57,9 +58,16 @@ const getPlusStr = (str) => {
   return [plusStr, plusStr2]
 }
 
-const parseSkill = async (data) => {
-  if (!data.master || !data.master.id) return data
-  const npcId = `${data.master.id}`
+const parseSkill = async (data, pathname) => {
+  let npcId
+  if (pathname.includes('/npc/npc/')) {
+    if (!data.master || !data.master.id) return data
+    npcId = `${data.master.id}`
+  } else if (pathname.includes('/archive/npc_detail')) {
+    if (!data.id) return data
+    npcId = data.id
+  }
+
   const skillState = await getSkillData(npcId)
   if (!skillState) return data
   const skillData = skillState.skillMap.get(npcId)
@@ -69,30 +77,39 @@ const parseSkill = async (data) => {
     keys.forEach(item => {
       const key1 = item[0]
       const key2 = item[1]
-      if (!data[key1]) return
-      if (data[key1].recast_comment) {
-        data[key1].recast_comment = data[key1]
-          .recast_comment
-          .replace('ターン', '回合').replace('turns', '回合')
-          .replace('turn', '回合').replace('Cooldown:', '使用间隔:').replace('使用間隔:', '使用间隔:')
+      let ability = data[key1]
+      if (!ability) {
+        if (!data.ability) return
+        ability = data.ability[key1]
+        if (!ability) return
       }
-      const [plus1, plus2] = getPlusStr(data[key1].name)
+      if (ability.recast_comment) {
+        ability.recast_comment = replaceTurn(ability.recast_comment)
+      }
+      const [plus1, plus2] = getPlusStr(ability.name)
       let trans = skillData[key2 + plus2]
       if (!trans) {
         trans = skillData[key2]
         if (!trans) return
       }
       if (trans.name) {
-        data[key1].name = trans.name + plus1
+        ability.name = trans.name + plus1
       }
       if (trans.detail) {
-        data[key1].comment = trans.detail
+        ability.comment = trans.detail
         translated.set(key1, true)
       }
     })
     if (data.master) {
       const trans = skillData['npc']
       if (trans && trans.name) data.master.name = trans.name
+    } else if (data.name) {
+      const trans = skillData['npc']
+      if (trans) data.name = trans.name
+    }
+    if (data.comment) {
+      const trans = skillData['intro']
+      if (trans) data.comment = trans.detail
     }
   }
   keys.forEach(item => {
