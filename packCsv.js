@@ -140,8 +140,8 @@ const extensionBanner = `// ==UserScript==
 // @description  碧蓝幻想的汉化脚本，提交新翻译请到 https://github.com/biuuu/BLHXFY
 // @icon         http://game.granbluefantasy.jp/favicon.ico
 // @author       biuuu
-// @match        *://game.granbluefantasy.jp/
-// @match        *://gbf.game.mbga.jp/
+// @match        *://game.granbluefantasy.jp/*
+// @match        *://gbf.game.mbga.jp/*
 // @run-at       document-body
 // @grant        none
 // @updateURL    https://blhx.danmu9.com/blhxfy/extension.user.js
@@ -178,8 +178,8 @@ const extensionBanner2 = `// ==UserScript==
 // @description  碧蓝幻想的汉化脚本，提交新翻译请到 https://github.com/biuuu/BLHXFY
 // @icon         http://game.granbluefantasy.jp/favicon.ico
 // @author       biuuu
-// @match        *://game.granbluefantasy.jp/
-// @match        *://gbf.game.mbga.jp/
+// @match        *://game.granbluefantasy.jp/*
+// @match        *://gbf.game.mbga.jp/*
 // @run-at       document-body
 // @grant        none
 // @updateURL    https://blhx.danmu9.com/blhxfy/extension.es5.user.js
