@@ -26,8 +26,8 @@ export default async function translate(state) {
       getUserName(data)
     }
     data = await transLangMsg(data, pathname)
-  } else if (pathname.includes('/npc/npc/')) {
-    data = await transNpcSkill(data)
+  } else if (pathname.includes('/npc/npc/') || pathname.includes('/archive/npc_detail')) {
+    data = await transNpcSkill(data, pathname)
   } else if (
   pathname.includes('/party_ability_subaction/') ||
   pathname.includes('/party/job/') ||
