@@ -51,7 +51,7 @@ const getLangMsgData = async () => {
           en: item.en,
           jp: item.jp
         })
-        item.jp && langMsgMap.set(`${item.id}${item.jp}`, {
+        item.jp && langMsgMap.set(`${item.jp}`, {
           trans: item.trans,
           en: item.en,
           jp: item.jp
