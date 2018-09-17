@@ -1,4 +1,6 @@
-path,html,trans
-/party/content/job/,"<div class=""btn-tabs"">アビリティ</div>",<div class=btn-tabs>技能</div>
-/party/content/job/,"<div class=""btn-tabs"">サポート</div>",<div class=btn-tabs>被动</div>
-/party/content/job/,"<div class=""btn-tabs"">ボーナス</div>",<div class=btn-tabs>加成</div>
+path,html,trans,count
+/party/content/job/,"<div class=""btn-tabs"">アビリティ</div>",<div class=btn-tabs>技能</div>,
+/party/content/job/,"<div class=""btn-tabs"">サポート</div>",<div class=btn-tabs>被动</div>,
+/party/content/job/,"<div class=""btn-tabs"">ボーナス</div>",<div class=btn-tabs>加成</div>,
+/party/content/job/,LBを割り振ることで、ジョブを強化することができます。,可通过分配LB点数强化职业能力。,
+/party/content/job/,JOB Lv20でこのジョブのLimit Bonusが解禁され<br>能力を強化することができます。,JOB Lv20后可解锁该职业的Limit Bonus<br>并对其进行强化。,
