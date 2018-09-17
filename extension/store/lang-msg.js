@@ -1,7 +1,6 @@
 import fetchData from '../fetch'
 import { getLocalData, setLocalData } from './local-data'
 import parseCsv from '../utils/parseCsv'
-import sortKeywords from '../utils/sortKeywords'
 
 const langMsgMap = new Map()
 let loaded = false
