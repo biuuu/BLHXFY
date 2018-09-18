@@ -45,8 +45,6 @@ export default async function transHTML(data, pathname) {
   } catch (err) {
     return data
   }
-  console.info(pathname)
-  console.log(html)
   if (pathname.includes('/archive/content/library/')) {
     html = await replaceArchive(html)
   } else {
