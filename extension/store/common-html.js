@@ -18,7 +18,7 @@ const getCommHtmlData = async () => {
       const pathname = trim(item.path)
       const html = trim(item.html)
       const trans = trim(item.trans)
-      const times = (item.times | 0) || 1
+      const times = (item.count | 0) || 1
       if (pathname && html && trans) {
         if (htmlMap.has(pathname)) {
           htmlMap.get(pathname).push({ html, trans, times })

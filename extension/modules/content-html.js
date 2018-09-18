@@ -7,10 +7,14 @@ const replaceHTML = async (html, pathname) => {
     if (pathname.includes(key)) {
       list.forEach(item => {
         for (let i = 0; i < item.times; i++) {
-          _html = _html.replace(item.html, item.trans)
+          let newHtml = _html.replace(item.html, item.trans)
+          if (newHtml !== _html) {
+            _html = newHtml
+          } else {
+            break
+          }
         }
       })
-      break
     }
   }
   return _html
@@ -24,6 +28,8 @@ export default async function transHTML(data, pathname) {
   } catch (err) {
     return data
   }
+  console.info(pathname)
+  console.log(html)
   html = await replaceHTML(html, pathname)
   data.data = encodeURIComponent(html)
   return data
