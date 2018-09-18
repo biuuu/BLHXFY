@@ -7,7 +7,7 @@ const replaceHTML = async (html, pathname) => {
     if (pathname.includes(key)) {
       list.forEach(item => {
         for (let i = 0; i < item.times; i++) {
-          let newHtml = _html.replace(item.html, item.trans)
+          let newHtml = _html.replace(item.text, item.trans)
           if (newHtml !== _html) {
             _html = newHtml
           } else {
