@@ -10,21 +10,16 @@ const trim = (str) => {
   return str.trim()
 }
 
-const getCommHtmlData = async () => {
+const getArchiveData = async () => {
   if (!loaded) {
-    const csv = await fetchData('/blhxfy/data/common-html.csv')
+    const csv = await fetchData('/blhxfy/data/archive.csv')
     const list = parseCsv(csv)
     sortKeywords(list, 'text').forEach(item => {
-      const pathname = trim(item.path)
       const text = trim(item.text)
       const trans = trim(item.trans)
       const times = (item.count | 0) || 1
-      if (pathname && text && trans) {
-        if (htmlMap.has(pathname)) {
-          htmlMap.get(pathname).push({ text, trans, times })
-        } else {
-          htmlMap.set(pathname, [{ text, trans, times }])
-        }
+      if (text && trans) {
+        htmlMap.set(text, { trans, times })
       }
     })
     loaded = true
@@ -33,4 +28,4 @@ const getCommHtmlData = async () => {
   return htmlMap
 }
 
-export default getCommHtmlData
+export default getArchiveData
