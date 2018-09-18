@@ -3,20 +3,22 @@ import config from './config'
 import { getLocalData } from './store/local-data'
 
 const { origin } = config
-var ee = new EventEmitter()
+let ee = new EventEmitter()
+let lecia
 
-const iframe = document.createElement('iframe')
-iframe.src = `${origin}/blhxfy/lecia.html`
-iframe.style.display = 'none'
-document.body.appendChild(iframe)
+window.addEventListener('load', () => {
+  const iframe = document.createElement('iframe')
+  iframe.src = `${origin}/blhxfy/lecia.html`
+  iframe.style.display = 'none'
+  document.body.appendChild(iframe)
+  lecia = iframe.contentWindow
+})
 
 const link = document.createElement('link')
 link.type = 'text/css'
 link.rel = 'stylesheet'
 link.href = `${origin}/blhxfy/data/static/style/BLHXFY.css`
 document.head.appendChild(link)
-
-const lecia = iframe.contentWindow
 
 const load = new Promise(rev => {
   ee.once('loaded', rev)
