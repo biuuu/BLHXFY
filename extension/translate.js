@@ -4,6 +4,8 @@ import transLangMsg from './modules/langMsg'
 import transNpcSkill from './modules/skill-npc'
 import transJobSkill from './modules/skill-job'
 import transHTML from './modules/content-html'
+import transTownInfo from './modules/town-info'
+import transIslandInfo from './modules/island-info'
 import getUserName from './store/name-user'
 
 const apiHosts = ['game.granbluefantasy.jp', 'gbf.game.mbga.jp']
@@ -28,6 +30,9 @@ export default async function translate(state) {
     }
     data = await transLangMsg(data, pathname)
     data = await transHTML(data, pathname)
+    if (pathname.includes('/user/content/index')) {
+      data = await transTownInfo(data, pathname)
+    }
   } else if (pathname.includes('/npc/npc/') || pathname.includes('/archive/npc_detail')) {
     data = await transNpcSkill(data, pathname)
   } else if (
@@ -36,6 +41,8 @@ export default async function translate(state) {
   pathname.includes('/party/ability_list/') ||
   pathname.includes('/party/job_info/')) {
     data = await transJobSkill(data, pathname)
+  } else if (pathname.includes('/island/init')) {
+    data = await transIslandInfo(data, pathname)
   } else {
     return
   }
