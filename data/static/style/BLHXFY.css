@@ -524,7 +524,7 @@ body .prt-scene-comment .prt-message-area {
   white-space: pre-line;
   border-radius: 12px;
   box-shadow: #00000085 0px 0 6px 4px;
-  padding: 8px 12px;
+  padding: 12px;
   display: inline-flex;
   min-height: 22px;
   background-color: #e4dbc6fa;
