@@ -514,3 +514,27 @@ body .prt-scene-comment .prt-message-area {
 .prt-user-name .txt-user-name {
   font-family: jpkana, yaheiSymbol, "Microsoft Jhenghei", "Yu Gothic", "Meiryo", sans-serif !important;
 }
+
+#box-sub-blhxfy {
+  position: absolute;
+  top: 324px;
+  left: 50%;
+  width: 253px;
+  align-items: center;
+  white-space: pre-line;
+  border-radius: 12px;
+  box-shadow: #00000085 0px 0 6px 4px;
+  padding: 8px 12px;
+  display: inline-flex;
+  min-height: 22px;
+  background-color: #e4dbc6fa;
+  z-index: 99;
+  border: 1px solid #54545447;
+  transform: translate(-50%, -50%);
+  line-height: 16px;
+  color: #211e1a;
+  font-size: 12px;
+  transition: opacity 0.5s;
+  opacity: 0;
+  pointer-events: none;
+}
