@@ -530,7 +530,7 @@ body .prt-scene-comment .prt-message-area {
   background-color: #e4dbc6fa;
   z-index: 99;
   border: 1px solid #54545447;
-  transform: translate(-50%, -50%);
+  transform: translate3d(-50%, -50%, 0);
   line-height: 16px;
   color: #211e1a;
   font-size: 12px;
