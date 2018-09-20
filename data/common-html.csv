@@ -4,3 +4,24 @@ path,text,trans,count
 /party/content/job/,"<div class=""btn-tabs"">ボーナス</div>",<div class=btn-tabs>加成</div>,
 /party/content/job/,LBを割り振ることで、ジョブを強化することができます。,可通过分配LB点数强化职业能力。,
 /party/content/job/,JOB Lv20でこのジョブのLimit Bonusが解禁され<br>能力を強化することができます。,JOB Lv20后可解锁该职业的Limit Bonus<br>并对其进行强化。,
+/quest/content/newassist,強敵のお出ましだぜぇー！,强大的敌人出现啦！,
+/quest/content/newassist,他の騎空士たちと協力して戦うんだ！,和其他的骑空士一起合力战斗吧！,
+/quest/content/newassist,バトル一覧,战斗一览,2
+/quest/content/newassist,未確認バトル一覧,未结算的战斗,
+/quest/content/newassist,バトル履歴,战斗日志,
+/quest/content/newassist,参戦IDを入力してマルチバトルに<br>参戦します。,输入多人战的参战ID<br>即刻参战,
+/quest/content/newassist,※IDは大文字と小文字を区別しません。,※ID的字母不用区分大小写。,
+/quest/content/newassist,未確認バトルの確認期限は、バトル終了から1週間経過後の最初の土曜日までとなります。,未结算的战斗截止日期为战斗结束一周后的第一个星期六。,
+/quest/content/newassist,期限を過ぎると、確認及び報酬の受け取りができなくなりますのでご注意ください。,请注意，截止日期后您将无法结算战斗和获取奖励。,
+/quest/content/newassist,見に行こうぜぇー！,快去看看吧！,
+/quest/content/newassist,強敵を倒したみたいだな！,又有强敌被打倒啦！,
+/quest/content/newassist,未確認バトルが5件以上残っている場合、クエストの開始・マルチバトルへの参加ができなくなります。,如果积累了5场或更多未结算的战斗，你将无法发起任务或参加多人战。,
+/quest/content/newassist,マルチバトル一覧,多人战列表,2
+/quest/content/newassist,<span class='txt-request-name'><%= n.attributes.called_user_name %></span>さんからの救援依頼,来自<span class='txt-request-name'><%= n.attributes.called_user_name %></span>的救援请求,
+/quest/content/newassist,<span class='txt-request-name'><%= raid['called_user_name'] %></span>さんからの救援依頼,来自<span class='txt-request-name'><%= raid['called_user_name'] %></span>的救援请求,
+/quest/content,クエストリストへ,返回任务列表,
+content,マイページに戻る,返回Mypage,
+/archive/content/story,その他,其他,2
+/archive/content/story,メインシナリオ,主线剧情,2
+/archive/content/story,イベント,活动,2
+/quest/content/supporter_raid,サポーター召喚石選択,选择支援召唤石,
