@@ -106,6 +106,10 @@ id,name,detail
 200071,月光,自己的奥义槽变换为MP
 200081,黑暗,<div class=prt-text-small>敌方全体的攻击性能DOWN/弱体耐性DOWN <span class=text-blue>◆只能在黑猫阵或天眼阵中使用/解除该效果时再使用间隔延长3回合</span></div>
 200061,特制炸弹,<div class=prt-text-small>自己的连续攻击率UP/暴击率UP<span class=text-blue><br>◆消耗MP3</span></div>
+4594,シールドワイア,敵にスロウ効果/自分の攻撃UP/防御DOWN
+1096,アーマーブレイクII,敵に自属性ダメージ/防御DOWN
+9292,レイジIV,<div class=prt-text-small>参戦者の攻撃UP(大)/味方全体のダメージ上限UP　<span class=text-blue>◆奥義ゲージを30％消費</span></div>
+51,ランページII,自分の連続攻撃確率UP(大)/防御DOWN
 ,,C1
 60,一骑加势,自己可以立即发动奥义
 30001,进攻开始,二连击概率UP
