@@ -17,6 +17,9 @@ path,text,trans,count
 /quest/content/newassist,強敵を倒したみたいだな！,又有强敌被打倒啦！,
 /quest/content/newassist,未確認バトルが5件以上残っている場合、クエストの開始・マルチバトルへの参加ができなくなります。,如果积累了5场或更多未结算的战斗，你将无法发起任务或参加多人战。,
 /quest/content/newassist,マルチバトル一覧,多人战列表,2
+/quest/content/newassist,「四象降臨」へ,返回「四象降临」,
+/quest/content/newassist,を開始するには<%= point_name %>が<%= quest_ap - sp %>足りません。,需要<%= quest_ap - sp %><%= point_name %>来开始。,
+/quest/content/newassist,アイテムを使用して<%= point_name %>を回復しますか？,使用道具恢复<%= point_name %>？,
 /quest/content/newassist,<span class='txt-request-name'><%= n.attributes.called_user_name %></span>さんからの救援依頼,来自<span class='txt-request-name'><%= n.attributes.called_user_name %></span>的救援请求,
 /quest/content/newassist,<span class='txt-request-name'><%= raid['called_user_name'] %></span>さんからの救援依頼,来自<span class='txt-request-name'><%= raid['called_user_name'] %></span>的救援请求,
 /quest/content,クエストリストへ,返回任务列表,
