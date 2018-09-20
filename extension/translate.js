@@ -7,7 +7,7 @@ import transHTML from './modules/content-html'
 import transTownInfo from './modules/town-info'
 import transIslandInfo from './modules/island-info'
 import showVoiceSub from './modules/voice-sub'
-import getUserName from './store/name-user'
+import { getUserName, setUserName } from './store/name-user'
 
 const apiHosts = ['game.granbluefantasy.jp', 'gbf.game.mbga.jp']
 const voiceHosts = ['game-a5.granbluefantasy.jp', 'gbf.game-a5.mbga.jp']
@@ -25,6 +25,7 @@ export default async function translate(state) {
   }
   if (apiHosts.indexOf(hostname) !== -1) {
     if (pathname.includes('scenario')) {
+      setUserName()
       data = await transScenario(data, pathname)
     } else if (pathname.includes('/content/')) {
       if (pathname.includes('/profile/content/index/')) {

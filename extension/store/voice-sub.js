@@ -15,11 +15,10 @@ const getTownData = async () => {
     const list = parseCsv(csv)
     list.forEach(item => {
       const path = trim(item.path)
-      const jp = trim(item.jp)
       const trans = trim(item.trans)
       const duration = trim(item.duration) || 10
       if (path && trans) {
-        voiceMap.set(path, { trans, jp, duration })
+        voiceMap.set(path, { trans, duration })
       }
     })
     loaded = true

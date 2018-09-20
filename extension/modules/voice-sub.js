@@ -69,6 +69,7 @@ export default async function showVoiceSub(data, pathname, type) {
     require(['model/sound'], function (sound) {
       let playVoice = sound.prototype.playVoice
       sound.prototype.playVoice = function (src, force) {
+        if (!Game.setting.sound_flag) return
         showSub(src)
         playVoice.call(this, src, force)
       }
