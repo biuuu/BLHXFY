@@ -122,7 +122,7 @@ body .pop-confirm-start-stage .btn-usual-ok:after {
   content: '开始探索';
 }
 body .btn-unclaimed[data-buton-name="未確認バトルへ"]::after {
-  content: "未确认的战斗";
+  content: "未结算的战斗";
 }
 body .pop-next-stage .prt-popup-footer .btn-usual-ok:after {
   content: '前进';
@@ -469,7 +469,7 @@ body .cnt-order-box .cnt-btn-bottombox .btn-evolution:not(.disapprove)::after {
 }
 .btn-usual-text[data-href="quest/assist/unclaimed"]::after {
   font-size: 12px;
-  content: "未确认的战斗";
+  content: "未结算的战斗";
 }
 .prt-set-pushed .btn-set-pushed::after {
   font-size: 12px;

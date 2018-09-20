@@ -2178,8 +2178,8 @@ shop_exchange_24,%s個売却しました。,%s were sold.,售出%s个
 shop_exchange_25,確認,Skills,确认
 shop_exchange_26,進行中のクエストがあります。<br>島を移動する場合はクエストから撤退し<br>途中経過を破棄する必要があります。,<%= title %> is in progress. You must first retreat before travelling to another island.,您有进行中的任务。前往其他岛屿会自动从任务中撤退。
 shop_exchange_27,アイテム詳細,Item Details,道具详情
-shop_exchange_28,武勲・栄誉の輝き交換,Pendant Trade,武勋·荣誉的光辉交换
-shop_exchange_29,輝きはマルチバトルに参加すれば<br>手に入れることができますよ～,Collect pendants from raid battles and trade them here!,光辉可以通过参加多人战斗获得哦~
+shop_exchange_28,武勲・栄誉の輝き交換,Pendant Trade,武勋·荣誉的辉光交换
+shop_exchange_29,輝きはマルチバトルに参加すれば<br>手に入れることができますよ～,Collect pendants from raid battles and trade them here!,辉光可以通过参加多人战斗获得哦~
 shop_exchange_3,交換確認,Trade Treasure,确认兑换
 shop_exchange_30,本日の交換%s1数制限　残り%s2%s3,There is %s2%s1 more available today.,今日的兑换%s1限制 还剩%s2%s3
 shop_exchange_31,バハムートの鉤爪交換,Trade Bahamut Claws,兑换巴哈姆特的勾爪
@@ -2508,7 +2508,7 @@ user_67,"時間 "," hour ",小时
 user_68,"分 "," min ",
 user_69,秒," sec",秒
 user_7,人のフレンドと、<br>," friends and <br>",名好友
-user_70,輝き詳細情報,Pendant Details,光辉详情
+user_70,輝き詳細情報,Pendant Details,辉光详情
 user_73,他称号を%s個獲得しました,You got %s other trophy.,获得其他%s个称号
 user_74,Error Code: %s<br>%s,Error Code: %s<br>%s,
 user_75,LinksMateについて,LinksMate,关于LinkMate
