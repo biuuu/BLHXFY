@@ -9,6 +9,23 @@ const getUserName = (data) => {
   }
 }
 
+const setUserName = () => {
+  if (!config.userName && Game.userId) {
+    require(['model/content'], function(mc) {
+      let req = new mc({
+          controller: "profile",
+          action: "index",
+          param: {
+            user_id: Game.userId
+          }
+      })
+      req.fetch()
+    })
+    config.userName = '姬塔'
+    localStorage.setItem('blhxfy:name', config.userName)
+  }
+}
+
 const getLocalName = () => {
   const name = localStorage.getItem('blhxfy:name')
   if (name) config.userName = name
@@ -16,4 +33,4 @@ const getLocalName = () => {
 
 getLocalName()
 
-export default getUserName
+export { getUserName, setUserName }
