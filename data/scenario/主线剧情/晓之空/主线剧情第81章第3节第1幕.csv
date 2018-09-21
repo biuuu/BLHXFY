@@ -1,6 +1,6 @@
 ﻿id,en,jp,trans
 0-chapter_name,81: King of the Outlaws,第81章　盗賊王,第81章　盗賊王
-0-synopsis,"The outlaws force Cain, 姬塔, and the crew to follow them to their den. The gang leader Reinhardtzar explains that they're all ex-soldiers from a corrupted, fallen country and that he wants to build a country safe for all. Cain angrily opposes his plan as it means war against other kingdoms and deaths of innocent people.",盗賊団のアジトに連行されるカインと姬塔達。その道中、姬塔達はラインハルザ率いる盗賊団が元々はトリッド王国の正規軍であり、今は、弱い立場の者でも生きていける国作りを目指していると聞かされる。カインはその考えを真っ向から非難するも、ラインハルザは顔色一つ変えず、「お前の思う理想の王ってのは、なんだ？」と問うのだった。,凯恩和姬塔等人正在被带去盗贼据点的路上，姬塔等人意外知晓了莱茵哈萨率领的盗贼团原来是特利得王国的正规军，而现在他想建立一个让弱者可以生存的国家。凯恩对于这一设想认真地提出了非议，莱茵哈萨脸色毫无改变，反问道“对你而言理想的王是怎样的”。
+0-synopsis,"The outlaws force Cain, 姬塔, and the crew to follow them to their den. The gang leader Reinhardtzar explains that they're all ex-soldiers from a corrupted, fallen country and that he wants to build a country safe for all. Cain angrily opposes his plan as it means war against other kingdoms and deaths of innocent people.",盗賊団のアジトに連行されるカインと姬塔達。その道中、姬塔達はラインハルザ率いる盗賊団が元々はトリッド王国の正規軍であり、今は、弱い立場の者でも生きていける国作りを目指していると聞かされる。カインはその考えを真っ向から非難するも、ラインハルザは顔色一つ変えず、「お前の思う理想の王ってのは、なんだ？」と問うのだった。,该隐和姬塔等人正在被带去盗贼据点的路上，姬塔等人意外知晓了莱茵哈萨率领的盗贼团原来是特利得王国的正规军，而现在他想建立一个让弱者可以生存的国家。该隐对于这一设想认真地提出了非议，莱茵哈萨脸色毫无改变，反问道“对你而言理想的王是怎样的”。
 0,"Cain, 姬塔, and the crew, led by Reinhardtzar's gang, walk the path to the den.",<span class='scene-font-katari'>姬塔達とカインは、</span><br><span class='scene-font-katari'>ラインハルザ率いる盗賊団に囲まれ、</span><br><span class='scene-font-katari'>彼らのアジトへの道を進む。</span>,<span class='scene-font-katari'>姬塔等人被莱茵哈萨统率的盗贼团包围着走向他们的据点。</span>
 1,...,…………,...
 2,I wonder what's going to happen to us...,はぁ……<br>この先、どうなっちまうんだ？<br>オイラ達……,哈...接下来我们会被怎么样啊...
@@ -14,19 +14,19 @@
 10,Humph...,くっ……,くっ……
 11,"Reinhardtzar continues speaking, seemingly amused by Katalina's stern reaction.",<span class='scene-font-katari'>険しい表情をするカタリナに対し、</span><br><span class='scene-font-katari'>むしろ上機嫌そうに</span><br><span class='scene-font-katari'>ラインハルザは続ける。</span>,<span class='scene-font-katari'>卡塔莉娜露出了可怕的表情，莱茵哈萨更加愉悦地说道。</span>
 12,Don't look so disappointed. I think you guys have got some amazing strength.,そう悔しそうな顔をするな。<br>お前らの実力は認めてんだ。,别露出那副失望的表情嘛，我也认可你们的实力。
-13,"You kicked around my men within an inch of their lives, but you didn't take them. That's no small feat.",うちの連中を蹴散らしておきながら、<br>全員キッチリ命までは取らねぇ。<br>ホント、大したモンだ。,打散了我们的人还没有取走任何人的性命，身手真是了不得。  
+13,"You kicked around my men within an inch of their lives, but you didn't take them. That's no small feat.",うちの連中を蹴散らしておきながら、<br>全員キッチリ命までは取らねぇ。<br>ホント、大したモンだ。,打散了我们的人还没有取走任何人的性命，身手真是了不得。
 14,Reinhardtzar nods pleasantly to himself before suddenly clapping his hands together.,<span class='scene-font-katari'>ひとり頷き感心すると、</span><br><span class='scene-font-katari'>ラインハルザは切り替えるように</span><br><span class='scene-font-katari'>一つ、手を打つ。</span>,<span class='scene-font-katari'>莱茵哈萨钦佩地点头，然后像是转换状态一般拍了拍手。</span>
 15,That poses the question...<br>Why don't you folks become my allies?,で、だ……ここからが本題だ。<br>お前ら、オレの仲間にならないか。,所以说...接下来切入正题，你们愿意当我的伙伴吗？
 16,You need even more allies than the ones you've got here? Are you trying to build an army or something?,これだけ数がいて、<br>まだ足りないっての？<br>ホントに一個師団でも作るつもりかよ。,你们都已经有这么多人了还嫌不够吗？真的是打算组建一支师团吗？
 17,Yeah... I guess you could say that.,まぁ……そんなところだな。,嘛，就是这么回事。
 18,Beg your pardon?,なに……？,什么？
-19,"Cain glares at Reinhardtzar, but he seems unbothered by it and continues to speak.",<span class='scene-font-katari'>睨むようにするカインに対し、</span><br><span class='scene-font-katari'>しかし、臆することなく、</span><br><span class='scene-font-katari'>ラインハルザは言葉を続ける。</span>,<span class='scene-font-katari'>凯恩瞪着莱茵哈萨，而对方却毫不畏缩地继续说下去。</span>
+19,"Cain glares at Reinhardtzar, but he seems unbothered by it and continues to speak.",<span class='scene-font-katari'>睨むようにするカインに対し、</span><br><span class='scene-font-katari'>しかし、臆することなく、</span><br><span class='scene-font-katari'>ラインハルザは言葉を続ける。</span>,<span class='scene-font-katari'>该隐瞪着莱茵哈萨，而对方却毫不畏缩地继续说下去。</span>
 20,I want to build a country. But for that I need more power.,オレは……国を作る。<br>そのために、もっと力が必要なんだ。,我想建立一个国家，为此我还需要更多的力量。
 21,"I'd said that we're all ex-soldiers, right?",言ったよな、<br>オレ達が全員元国軍だって。,我刚说过我们都是原王国军吧。
 22,"Before Merkmal, we were formally enlisted in the military of a certain country, defending it against foreign enemies.",この<span class='scene-font-place'>メルクマール島</span>に流れ着く前、<br>オレ達はある国の正規軍として、<br>国を外敵から守っていた。,漂泊到<span class='scene-font-place'>美克马尔岛</span>之前，我们作为某个国家的正规军，御敌于国门之外。
 23,But one day our country collapsed.,だが、ある日突然、<br>オレ達の国は崩れ去った。,但突然有一天，我们的国家崩坏了。
 24,Not from an outside attack though. It was already rotten from the core. We didn't realize it until it was too late.,外からの攻撃じゃねぇ、<br>内側が腐ってたんだ。<br>オレ達は最後までそれに気付けなかった。,不是因为外部的攻击，而是因为内部的腐败。我们直到最后才注意到这件事。
-25,Suddenly Cain's eyes grow wide in surprise.,<span class='scene-font-katari'>それを聞き、</span><br><span class='scene-font-katari'>カインは驚いたように目を見開く。</span>,<span class='scene-font-katari'>听说这件事后，凯恩震惊地瞪大了眼。</span>
+25,Suddenly Cain's eyes grow wide in surprise.,<span class='scene-font-katari'>それを聞き、</span><br><span class='scene-font-katari'>カインは驚いたように目を見開く。</span>,<span class='scene-font-katari'>听说这件事后，该隐震惊地瞪大了眼。</span>
 26,Does that mean... you're from Torhid Kingdom?,それじゃあ……<br>お前、トリッド王国の……？,难道说...你是特利得王国的...
 27,"That's right. From the look on your face, I'm guessing you know something about it.",そうだよ。<br>その様子じゃ、お前も関係者か？,没错，看样子你也是相关人士啊。
 28,...,…………,...
@@ -58,7 +58,7 @@
 54,So? You'd say we're a threat to the village still?,これでも……<br>オレ達が村を虐げてる、ってのか。,即便如此，还认为我们威胁着村子吗。
 55,Humph... But it's not just that...,くっ……<br>し、しかしだな……,くっ……但是...
 56,I'll say you're a threat.,虐げてる、と俺は思うぜ。,我还是认为你们是村子的威胁。
-57,Cain interrupts without hesitation.,<span class='scene-font-katari'>カインは臆することなく、</span><br><span class='scene-font-katari'>キッパリとラインハルザに告げる。</span>,<span class='scene-font-katari'>凯恩直言不讳地告知莱茵哈萨。</span>
+57,Cain interrupts without hesitation.,<span class='scene-font-katari'>カインは臆することなく、</span><br><span class='scene-font-katari'>キッパリとラインハルザに告げる。</span>,<span class='scene-font-katari'>该隐直言不讳地告知莱茵哈萨。</span>
 58,"The way you tell it, a ruler's job is to bully the citizens.",お前、そんな言い方したら、<br>王様は国民いじめるのが<br>仕事みたいじゃねーか。,你这样的说法就仿佛是，国王的工作就是欺负国民一样。
 59,This coexistence you're talking about might work as a system.,お前の言ってることは、<br>そりゃ、制度としては<br>共存出来てるかもしれねぇけどさ。,你所说的东西也许可以制度化之后与体制共存。
 60,"But no matter how you look at it, those villagers live in fear of you.",村の奴ら、<br>やっぱりお前らのことも、<br>怖がってたと思うぜ。,我觉得村里的人果然还是在害怕着你们。
@@ -68,7 +68,7 @@
 64,Sorry?,へっ……？,诶？
 65,What makes a good ruler to you? What sort of ruler keeps people happy and smiling?,お前の思う理想の王ってのは、なんだ。<br>皆を笑顔に、幸せに出来る王ってのは、<br>どんな存在なんだ？,对你而言理想的王是怎样的。让人民都能欢笑和幸福的王是一种怎样的存在？
 66,...,っ…………,...
-67,Cain grows silent all at once. His defiance from earlier begins to dissipate.,<span class='scene-font-katari'>滔々とラインハルザに</span><br><span class='scene-font-katari'>相対していたカインは、</span><br><span class='scene-font-katari'>不意に返すべき言葉を見失う。</span>,<span class='scene-font-katari'>莱茵哈萨咄咄逼人地问道，而凯恩却意外地无法回答。</span>
+67,Cain grows silent all at once. His defiance from earlier begins to dissipate.,<span class='scene-font-katari'>滔々とラインハルザに</span><br><span class='scene-font-katari'>相対していたカインは、</span><br><span class='scene-font-katari'>不意に返すべき言葉を見失う。</span>,<span class='scene-font-katari'>莱茵哈萨咄咄逼人地问道，而该隐却意外地无法回答。</span>
 68,It's all right if you don't know the answer right now.,今はまとまらないのなら、<br>それで構わない。,现在不知道答案的话没有关系。
 69,"But if you happen to find it, let me hear it. I'm curious...",ただ、もし、見つけられたのなら……<br>聞かせてみろよ、興味がある。,但是，如果你找到了答案，也让我听听吧，我很感兴趣。
 70,"With nothing left to say, the crew follows behind Reinhardtzar as they continue their trek to the outlaw den.",<span class='scene-font-katari'>そう告げるラインハルザに、</span><br><span class='scene-font-katari'>誰も返す言葉を持たぬまま、</span><br><span class='scene-font-katari'>一行はアジトへと進んでいくのだった。</span>,<span class='scene-font-katari'>莱茵哈萨说完，谁都没有回答；就这样一行人继续赶往据点。</span>

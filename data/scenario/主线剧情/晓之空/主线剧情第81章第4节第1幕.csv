@@ -1,6 +1,6 @@
 ﻿id,en,jp,trans
 0-chapter_name,81: King of the Outlaws,第81章　盗賊王,第81章 盗贼王
-0-synopsis,"Reinhardtzar invites Cain, 姬塔, and the crew to join his gang. The crew refuses, choosing to look for their friends. Cain refuses, opposing the consequences of Reinhardtzar's dream of a new country. They try to leave, but Reinhardtzar's men stand in their way.",盗賊団のアジトに到着して早々、ラインハルザはメルクマール島を国として独立させるつもりだと話し、カインと姬塔達に「手を貸してくれ」と申し出る。しかし姬塔達は旅の途中であり、他の仲間を放っておけないと断る。カインはラインハルザの理想を認めつつも争い事の火種となることを懸念し、申し出を撥ね付けると、姬塔達と共にアジトを抜け出そうとするのだった。,到达盗贼团据点后，莱茵哈萨很快提出让美克马尔岛作为国家独立而借力于姬塔等人的事。但是姬塔等人正在旅途中，而且也绝不能置其他伙伴于不顾。凯恩担心莱茵哈萨的理想会成为纷争的火种，主动拒绝了他的请求，和姬塔等人一同离开据点。
+0-synopsis,"Reinhardtzar invites Cain, 姬塔, and the crew to join his gang. The crew refuses, choosing to look for their friends. Cain refuses, opposing the consequences of Reinhardtzar's dream of a new country. They try to leave, but Reinhardtzar's men stand in their way.",盗賊団のアジトに到着して早々、ラインハルザはメルクマール島を国として独立させるつもりだと話し、カインと姬塔達に「手を貸してくれ」と申し出る。しかし姬塔達は旅の途中であり、他の仲間を放っておけないと断る。カインはラインハルザの理想を認めつつも争い事の火種となることを懸念し、申し出を撥ね付けると、姬塔達と共にアジトを抜け出そうとするのだった。,到达盗贼团据点后，莱茵哈萨很快提出让美克马尔岛作为国家独立而借力于姬塔等人的事。但是姬塔等人正在旅途中，而且也绝不能置其他伙伴于不顾。该隐担心莱茵哈萨的理想会成为纷争的火种，主动拒绝了他的请求，和姬塔等人一同离开据点。
 2,"Surrounded by outlaws, 姬塔 and the crew are invited into their den.",<span class='scene-font-katari'>盗賊達に包囲されながら、</span><br><span class='scene-font-katari'>姬塔達は</span><br><span class='scene-font-katari'>アジトへと招き入れられる。</span>,<span class='scene-font-katari'>姬塔等人被盗贼们包围着带到了他们的据点中。</span>
 3,Sitting at the throne is Reinhardtzar who begins to address them.,<span class='scene-font-katari'>そうして玉座に座り、</span><br><span class='scene-font-katari'>姬塔達と</span><br><span class='scene-font-katari'>相対したラインハルザは、再び問う。</span>,<span class='scene-font-katari'>而坐在王座上的莱茵哈萨再次对姬塔等人发问。</span>
 4,So hear me out.,じゃあ、改めて聞こうか。,那么再问你们一次。
@@ -29,12 +29,12 @@
 25,I knew there was more to you than meets the eye...,やっぱり、<br>ただモンじゃねぇんだな……,果然你们不是等闲之辈啊。
 26,And you? What will you do?,それで？<br>お前はどうする？,所以，你打算怎么办？
 27,...,…………,...
-28,There's a hint of determination in Cain's expression as he slowly lifts his head.,<span class='scene-font-katari'>問われ、カインは決意を秘めた様子で、</span><br><span class='scene-font-katari'>ゆっくりと顔を上げる。</span>,<span class='scene-font-katari'>被提问时，凯恩像是已经下定决心，慢慢地抬起头。</span>
+28,There's a hint of determination in Cain's expression as he slowly lifts his head.,<span class='scene-font-katari'>問われ、カインは決意を秘めた様子で、</span><br><span class='scene-font-katari'>ゆっくりと顔を上げる。</span>,<span class='scene-font-katari'>被提问时，该隐像是已经下定决心，慢慢地抬起头。</span>
 29,I want to... stop you.,俺は……お前を止めたい。,我要...阻止你。
 30,Stop me?,止める……？,阻止我？
 31,I get what you've been saying. And I'll admit that your ideals aren't bad either.,お前の言ってることはわかった。<br>お前の理想も、<br>そう悪いもんじゃないと思う。,你所说的我已经理解了，你的理想并不是不好的东西。
 32,It's just... I don't want to see any more deaths.,だけど俺……<br>もう誰も死なせたくねーんだ。,但是我不想再看到任何人死了。
-33,Cain speaks as if the words are spilling from his very heart.,<span class='scene-font-katari'>ぽつりと、</span><br><span class='scene-font-katari'>まるで唯一の本音を漏らすように、</span><br><span class='scene-font-katari'>カインは告げる。</span>,<span class='scene-font-katari'>凯恩像是透露出自己唯一的心声一般嘟囔一声。</span>
+33,Cain speaks as if the words are spilling from his very heart.,<span class='scene-font-katari'>ぽつりと、</span><br><span class='scene-font-katari'>まるで唯一の本音を漏らすように、</span><br><span class='scene-font-katari'>カインは告げる。</span>,<span class='scene-font-katari'>该隐像是透露出自己唯一的心声一般嘟囔一声。</span>
 34,In truth Nalhegrande is turning to shambles now.,いま、ナル・グランデは、<br>確かに荒れ放題だ。,现在纳尔格兰德确实在日渐混乱。
 35,But it's not only Idelva and Rhem you have to worry about. Istavion in Oarlyegrande will get involved in this as well.,イデルバにレムだけじゃない。<br>アウライ・グランデの<br>イスタバイオンまで絡んできてやがる。,不仅是伊迪尔瓦和雷姆，奥莱格兰德大空域的伊斯塔拜恩也纠缠了进来。
 36,Perhaps new countries are being built as we speak.,いま、こうしてる間にも、<br>新しい国が<br>生まれようとしてるのかもしれねぇ。,也许就在我们谈话期间都有新国家诞生也说不定。
@@ -45,10 +45,10 @@
 41,"I see no reason to justify people dying, and I don't want to find one either.",俺は人に死んでいい理由があるなんて<br>思えねぇし思いたくねぇ。,我实在找不到让人民去送死的理由，也不想找到。
 42,It's always about pride or some excuse for control or whatever... The list goes on forever.,支配の正当性だとか、<br>プライドだとか色々あるけどさ……<br>全部、生きててナンボだろ。,统治的正统性也好，荣耀感等等很多东西也好，这些都是活着才有价值的吧。
 43,That's why I can't let you get away with this.,だから……<br>俺はお前を見過ごすことは出来ねぇよ。,所以我不能让你对此视而不见。
-44,"On hearing Cain's avowal, Reinhardtzar makes a peculiar face.",<span class='scene-font-katari'>カインの宣言を聞き、</span><br><span class='scene-font-katari'>ラインハルザは眉をひそめる。</span>,<span class='scene-font-katari'>听到凯恩的宣言，莱茵哈萨眉头紧皱。</span>
+44,"On hearing Cain's avowal, Reinhardtzar makes a peculiar face.",<span class='scene-font-katari'>カインの宣言を聞き、</span><br><span class='scene-font-katari'>ラインハルザは眉をひそめる。</span>,<span class='scene-font-katari'>听到该隐的宣言，莱茵哈萨眉头紧皱。</span>
 45,Your conviction is quite... crude.,ずいぶんと……泥臭い信念だな。,真是土气的信念啊。
 46,"Then that's a compliment! Dirt is crude too, but it's a source of life. From dirt we grow trees that bear fruit to nourish ourselves.",泥の匂い、上等だろ。泥は命の源だぜ。<br>泥から畑が生まれて、<br>俺達はそれ食って生きてんだからさ。,泥土的气味可是很棒的。泥土是生命之源，泥土上产生了田地，而我们依靠着它产出的食物生存。
-47,Cain's relaxed demeanor returns as he calls out to 姬塔 and the crew with his usual grin.,<span class='scene-font-katari'>ようやく</span><br><span class='scene-font-katari'>いつもの調子を取り戻したカインは、</span><br><span class='scene-font-katari'>笑顔で姬塔達に向き直る。</span>,<span class='scene-font-katari'>终于恢复到平常基调的凯恩朝着姬塔等人微笑。</span>
+47,Cain's relaxed demeanor returns as he calls out to 姬塔 and the crew with his usual grin.,<span class='scene-font-katari'>ようやく</span><br><span class='scene-font-katari'>いつもの調子を取り戻したカインは、</span><br><span class='scene-font-katari'>笑顔で姬塔達に向き直る。</span>,<span class='scene-font-katari'>终于恢复到平常基调的该隐朝着姬塔等人微笑。</span>
 48,So let's go! There's nothing else keeping us here.,ってわけで、行こうぜ。<br>もう、これ以上、<br>ここに居る理由ねーもん。,所以我们走吧，已经没有继续呆在这里的理由了。
 49,"Well, okay... But...",お、おお……<br>けどよぅ……,哦，哦...但是...
 50,You think you can escape? You're completely surrounded.,逃げられると、思ってんのか？<br>この人数に囲まれておいて。,被这么多人包围了起来，你们认为自己能跑的掉吗？
