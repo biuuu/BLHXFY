@@ -213,8 +213,3 @@ module.exports = async (res, uid, pathname) => {
     return res
   }
 }
-// setTimeout(() => {
-//   transMulti(['wha of primal beasts... '], 'en', 'aaa').then(data => {
-//     console.log(data)
-//   })
-// },3000)

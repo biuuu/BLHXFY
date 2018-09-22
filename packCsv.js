@@ -147,7 +147,7 @@ const extensionBanner = `// ==UserScript==
 // @updateURL    https://blhx.danmu9.com/blhxfy/extension.user.js
 // @supportURL   https://github.com/biuuu/BLHXFY/issues
 // ==/UserScript==`
-gulp.task('extension', ['clean:dist', 'extensionEx'], async function () {
+gulp.task('extension', ['clean:dist', 'extensionEx', 'extensionIOS'], async function () {
   const bundle = await rollup.rollup({
     input: './extension/xhr.js',
     plugins: [
@@ -157,6 +157,7 @@ gulp.task('extension', ['clean:dist', 'extensionEx'], async function () {
         exclude: 'node_modules/**',
         presets: [['@babel/preset-env', {
           modules: false,
+          useBuiltIns: 'usage',
           targets: '> 3%'
         }]]
       })
@@ -196,7 +197,8 @@ gulp.task('extensionEx', ['clean:dist'], async function () {
         exclude: 'node_modules/**',
         presets: [['@babel/preset-env', {
           modules: false,
-          useBuiltIns: 'usage'
+          useBuiltIns: 'usage',
+          targets: 'since 2015'
         }]]
       })
     ]
@@ -207,6 +209,30 @@ gulp.task('extensionEx', ['clean:dist'], async function () {
     format: 'umd',
     name: 'blhxfy',
     banner: extensionBanner2
+  })
+})
+
+gulp.task('extensionIOS', ['clean:dist'], async function () {
+  const bundle = await rollup.rollup({
+    input: './extension/xhr.js',
+    plugins: [
+      resolve({ preferBuiltins: false }),
+      cmjs(),
+      babel({
+        exclude: 'node_modules/**',
+        presets: [['@babel/preset-env', {
+          modules: false,
+          useBuiltIns: 'usage',
+          targets: 'last 3 iOS versions'
+        }]]
+      })
+    ]
+  })
+
+  await bundle.write({
+    file: './dist/blhxfy/extension.ios.user.js',
+    format: 'umd',
+    name: 'blhxfy'
   })
 })
 
