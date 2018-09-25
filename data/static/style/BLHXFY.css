@@ -526,11 +526,11 @@ body .prt-scene-comment .prt-message-area {
   box-shadow: #00000085 0px 0 6px 4px;
   padding: 12px;
   display: inline-flex;
-  min-height: 22px;
+  min-height: 24px;
   background-color: #e4dbc6fa;
   z-index: 99;
-  border: 1px solid #54545447;
-  transform: translate3d(-50%, -50%, 0);
+  transform: translate(-50%, -50%);
+  backface-visibility: hidden;
   line-height: 16px;
   color: #211e1a;
   font-size: 12px;

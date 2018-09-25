@@ -124,6 +124,11 @@ gulp.task('cname', ['clean:dist'], function () {
   return writeFile('./dist/CNAME', CONFIG.csvHost)
 })
 
+gulp.task('rewrite-script', ['clean:dist'], function () {
+  return writeFile('./dist/blhxfy/game-config.js', `document.write('<script src="http://game-a3.granbluefantasy.jp/assets/' + Game.version + '/js/config.js?lyria"></script>')
+document.write('<script src="https://blhx.danmu9.com/blhxfy/extension.ios.user.js"></script>')`)
+})
+
 gulp.task('publish', ['md5'], function (done) {
   ghpages.publish('dist', {
     add: false
@@ -147,16 +152,17 @@ const extensionBanner = `// ==UserScript==
 // @updateURL    https://blhx.danmu9.com/blhxfy/extension.user.js
 // @supportURL   https://github.com/biuuu/BLHXFY/issues
 // ==/UserScript==`
-gulp.task('extension', ['clean:dist', 'extensionEx'], async function () {
+gulp.task('extension', ['clean:dist', 'extensionEx', 'extensionIOS', 'rewrite-script'], async function () {
   const bundle = await rollup.rollup({
     input: './extension/xhr.js',
     plugins: [
       resolve({ preferBuiltins: false }),
-      cmjs(),
+      cmjs({ ignore: ['stream'] }),
       babel({
         exclude: 'node_modules/**',
         presets: [['@babel/preset-env', {
           modules: false,
+          useBuiltIns: 'usage',
           targets: '> 3%'
         }]]
       })
@@ -165,7 +171,7 @@ gulp.task('extension', ['clean:dist', 'extensionEx'], async function () {
 
   await bundle.write({
     file: './dist/blhxfy/extension.user.js',
-    format: 'umd',
+    format: 'iife',
     name: 'blhxfy',
     banner: extensionBanner
   })
@@ -191,12 +197,13 @@ gulp.task('extensionEx', ['clean:dist'], async function () {
     input: './extension/xhr.js',
     plugins: [
       resolve({ preferBuiltins: false }),
-      cmjs(),
+      cmjs({ ignore: ['stream'] }),
       babel({
         exclude: 'node_modules/**',
         presets: [['@babel/preset-env', {
           modules: false,
-          useBuiltIns: 'usage'
+          useBuiltIns: 'usage',
+          targets: 'since 2015'
         }]]
       })
     ]
@@ -204,9 +211,33 @@ gulp.task('extensionEx', ['clean:dist'], async function () {
 
   await bundle.write({
     file: './dist/blhxfy/extension.es5.user.js',
-    format: 'umd',
+    format: 'iife',
     name: 'blhxfy',
     banner: extensionBanner2
+  })
+})
+
+gulp.task('extensionIOS', ['clean:dist'], async function () {
+  const bundle = await rollup.rollup({
+    input: './extension/xhr.js',
+    plugins: [
+      resolve({ preferBuiltins: false }),
+      cmjs({ ignore: ['stream'] }),
+      babel({
+        exclude: 'node_modules/**',
+        presets: [['@babel/preset-env', {
+          modules: false,
+          useBuiltIns: 'usage',
+          targets: 'last 3 iOS versions'
+        }]]
+      })
+    ]
+  })
+
+  await bundle.write({
+    file: './dist/blhxfy/extension.ios.user.js',
+    format: 'iife',
+    name: 'blhxfy'
   })
 })
 

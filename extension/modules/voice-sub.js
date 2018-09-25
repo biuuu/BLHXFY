@@ -1,4 +1,5 @@
 import getVoiceData from '../store/voice-sub'
+import config from '../config'
 
 const voiceList = []
 
@@ -39,7 +40,11 @@ const setSubBox = (text, duration) => {
     box = createBox()
     cont.appendChild(box)
   }
-  box.innerText = text.replace(/\\n/g, '\n')
+  let _text = text
+  if (config.userName && config.userName !== '姬塔') {
+    _text = _text.replace(/团长/g, config.userName)
+  }
+  box.innerText = _text.replace(/\\n/g, '\n')
   setTimeout(() => {
     box.style.opacity = 1
     box.style.pointerEvents = 'auto'

@@ -14,11 +14,13 @@ window.addEventListener('load', () => {
   lecia = iframe.contentWindow
 })
 
-const link = document.createElement('link')
-link.type = 'text/css'
-link.rel = 'stylesheet'
-link.href = `${origin}/blhxfy/data/static/style/BLHXFY.css`
-document.head.appendChild(link)
+const insertCSS = (hash) => {
+  const link = document.createElement('link')
+  link.type = 'text/css'
+  link.rel = 'stylesheet'
+  link.href = `${origin}/blhxfy/data/static/style/BLHXFY.css?lecia=${hash}`
+  document.head.appendChild(link)
+}
 
 const load = new Promise(rev => {
   ee.once('loaded', rev)
@@ -47,6 +49,7 @@ const getHash = fetchData('/blhxfy/manifest.json')
   .then(data => {
     config.hash = data.hash
     getLocalData('hash')
+    insertCSS(data.hash)
     return data.hash
   })
 
@@ -65,6 +68,7 @@ const receiveMessage = (event) => {
     }
   }
 }
+
 
 window.addEventListener("message", receiveMessage, false)
 
