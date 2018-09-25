@@ -48,3 +48,5 @@ document.write('<script src="https://blhx.danmu9.com/blhxfy/extension.ios.user.j
 
 甚至 Android 上也可以用这个方案，这样你就不必一定要在 yandex 浏览器上使用汉化插件了。不过这里并不支持加载 viramate 等
 Chrome 扩展。
+
+注：目前脚本不兼容 uiwebview，因此使用上面的方案一定要在浏览器里打开游戏，用游戏的 APP 会 Loading。
