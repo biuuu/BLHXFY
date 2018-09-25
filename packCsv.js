@@ -125,7 +125,7 @@ gulp.task('cname', ['clean:dist'], function () {
 })
 
 gulp.task('rewrite-script', ['clean:dist'], function () {
-  return writeFile('./dist/blhxfy/game-config.js', `document.write('<script src="http://game-a3.granbluefantasy.jp/assets/' + Game.version + '/js/config.js?lyria"></script>')
+  return writeFile('./dist/blhxfy/game-config.js', `${require('./extension/game-config.js')}
 document.write('<script src="https://blhx.danmu9.com/blhxfy/extension.ios.user.js"></script>')`)
 })
 

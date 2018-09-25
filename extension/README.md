@@ -34,7 +34,7 @@ TO: https://blhx.danmu9.com/blhxfy/game-config.js
 
 可以看到`https://blhx.danmu9.com/blhxfy/game-config.js`的内容是这样的：
 ```
-document.write('<script src="http://game-a3.granbluefantasy.jp/assets/' + Game.version + '/js/config.js?lyria"></script>')
+---游戏 config.js 原有代码---
 document.write('<script src="https://blhx.danmu9.com/blhxfy/extension.ios.user.js"></script>')
 ```
 这样也就相当于额外加载了汉化插件。
