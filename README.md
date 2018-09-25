@@ -1,4 +1,10 @@
 # 碧蓝幻想微风机翻团
+## 前言
+目前大部分功能已通过浏览器插件的方式实现，甚至比原来的客户端程序有更多的功能。
+非翻译人员强烈建议直接使用插件，关于插件的使用说明：https://github.com/biuuu/BLHXFY/tree/master/extension
+
+如果你有兴趣加入翻译，请再往下看。
+
 ## 简介
 下载：https://github.com/biuuu/BLHXFY/releases
 
