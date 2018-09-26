@@ -79,10 +79,10 @@ body .btn-retry[data-buton-name="もう一度挑戦"]::after {
   content: "再次挑战";
 }
 body .btn-control[data-buton-name="クエストリストへ"]::after {
-  content: "任务列表";
+  content: "返回任务列表";
 }
 body .btn-control[data-buton-name="フェイト一覧へ"]::after {
-  content: "Fate列表";
+  content: "返回Fate列表";
 }
 body .prt-button-area .btn-control[data-buton-name="エクストラクエストへ"]::after {
   content: "选择任务";
