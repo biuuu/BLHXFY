@@ -57,8 +57,6 @@ const setSubBox = (text, duration) => {
 }
 
 const showSub = async (src) => {
-  // const rgs = pathname.match(/\/assets\/sound\/([^.]+)\.[\w\d]+$/)
-  // if (!rgs || !rgs[1]) return
   hideBox()
   const voice = src.replace(/\.[\w\d]+$/, '')
   if (!voiceList.includes(voice)) return
