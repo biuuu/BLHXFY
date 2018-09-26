@@ -26,20 +26,22 @@
 
 这里提供一个思路：利用一些代理 APP 提供的 URL 重写功能，将游戏本身的一个脚本重定向到我们指定的脚本来加载汉化插件。
 
-例如编辑 Shadowrocket 的配置，点击“添加URL重写”，然后写入下面的文本：
+例如编辑 Shadowrocket 的配置，点击“添加URL重写”，然后按下面的格式添加规则：
 ```
 URL: ^http://(game-a3.granbluefantasy.jp|gbf.game-a3.mbga.jp)/assets/\d+?/js/config.js$
 TO: https://blhx.danmu9.com/blhxfy/game-config.js
 ```
+这会将游戏的 config.js 重定向到 https://blhx.danmu9.com/blhxfy/game-config.js
 
 可以看到`https://blhx.danmu9.com/blhxfy/game-config.js`的内容是这样的：
 ```
 document.write('<script src="http://game-a3.granbluefantasy.jp/assets/' + Game.version + '/js/config.js?lyria"></script>')
 document.write('<script src="https://blhx.danmu9.com/blhxfy/extension.ios.user.js"></script>')
 ```
-这样也就相当于额外加载了汉化插件。
+里面加载了游戏原来的 config.js 并且额外加载了一个汉化插件的 js 文件，这样也就相当于额外加载了汉化插件。
 
-如果你没有什么代理服务器但也想用这个 URL 重写，则需要将配置里的其他规则清空，代理服务器随便写一个不存在的即可。
+不过 Shadowrocket 毕竟是用来连接代理服务器的。
+如果你没有什么代理服务器只想直连，同时也想用这个 URL 重写，则需要将配置里的其他规则清空，代理服务器随便写一个不存在的即可。
 
 这里提供一个已清空的配置文件：https://blhx.danmu9.com/blhxfy/data/static/blhxfy-without-proxy.conf 用 Shadowrocket 可以直接导入。
 
@@ -49,4 +51,4 @@ document.write('<script src="https://blhx.danmu9.com/blhxfy/extension.ios.user.j
 甚至 Android 上也可以用这个方案，这样你就不必一定要在 yandex 浏览器上使用汉化插件了。不过这里并不支持加载 viramate 等
 Chrome 扩展。
 
-注：目前脚本不兼容 uiwebview，因此使用上面的方案一定要在浏览器里打开游戏，用游戏的 APP 会 Loading。
+注：目前脚本不兼容 uiwebview，因此使用上面的方案一定要在浏览器里打开游戏，用 iOS 的碧蓝幻想 APP 会卡 Loading。
