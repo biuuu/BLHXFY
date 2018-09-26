@@ -13,7 +13,7 @@ id,name,detail
 4120,箭雨,对所有目标造成自身属性伤害
 4121,箭雨II,对所有目标造成自身属性伤害/攻击力下降（小）
 5122,箭雨III,对所有目标造成自身属性伤害/攻击力下降（大）
-4500,蓄能解放,<div class=prt-text-small>根据自身的奥义槽造成自身属性伤害/攻击力UP/防御力UP/对自身造成伤害</div>
+4500,蓄能解放,<div class=prt-text-small>根据自身的奥义值造成自身属性伤害/攻击力UP/防御力UP/对自身造成伤害</div>
 4512,共鸣电流,对目标造成自身属性伤害/自身的技能伤害UP（累积）
 7070,风魔手里剑,<div class=prt-text-small>对目标造成自身属性伤害/根据印记发动追加效果<span class=prt-text-small> 刀：自身再次使用忍术的冷却时间缩短 格斗：自身的二连攻击概率UP/攻击力UP</span></div>
 7100,胧,<div class=prt-text-small>对目标造成自身属性伤害 <span class=text-blue>刀：给予自身失明效果/二连攻击概率UP 格斗：自身的攻击UP/奥义充能上升量UP</span></div>
@@ -41,7 +41,7 @@ id,name,detail
 266,调停之歌,我方全体的二连击概率UP（大）★装备乐器时性能UP
 270,罗喉阿修罗阵,自己的奥义充能上升量UP
 302,守护,给予自己守护效果
-612,护盾,自己的防御力UP/敌对心UP<span class=text-blue>◆消费30点奥义槽</span>
+612,护盾,自己的防御力UP/敌对心UP<span class=text-blue>◆消费30点奥义值</span>
 7010,冥想,<div class=prt-text-small>自己的攻击力UP/暴击率UP/负面效果全部解除<span class=text-blue>◆消费30点奥义充能</span></div>
 7020,鸦雀无声,<div class=prt-text-small>自己的防御力UP<span class=text-blue> 刀：给予自己幻影效果（1回）/自己的攻击力DOWN 弓：自己的攻击力UP/连续攻击概率DOWN/奥义充能DOWN</span></div>
 7233,他心阵,<div class=prt-text-small>将自己的HP转换为奥义充能<span class=text-blue><br>◆HP变为当前的一半</span></div>
@@ -77,39 +77,39 @@ id,name,detail
 243,练气,自己的攻击UP（累积）
 390,一字架势,敌对心UP/反击发动时反击次数UP(2次)
 4122,箭雨III,对敌方全体造成自属性伤害/攻击DOWN(大)
-1530,稳定瞄准,对敌人赋予稳定瞄准效果/奥义槽UP
+1530,稳定瞄准,对敌人赋予稳定瞄准效果/奥义值UP
 200101,理智射击,对敌方全体造成自属性伤害/自属性防御DOWN
 6200,交换,自己与后方1名队员进行交换
 6205,战术指令,将任意两人的位置交换
 3570,干扰,我方全体的回避率UP/暴击率UP
 1148,暮光领域,赋予战斗场地暮光领域效果
 1910,催眠曲,给予敌人睡眠效果/减豆　★装备乐器时性能UP
-702,震圆,根据参战者的数量，我方全体攻防UP
+702,声震四方,根据参战者的数量，我方全体攻防UP
 3327,死亡之歌,敌方全体的防御DOWN/自属性防御DOWN
 3334,解放的歌声,给与我方全体死之祝福/活性效果
-3335,深渊呼唤,<div class=prt-text-small>我方全体的连续攻击率UP/奥义槽上升量DOWN　★乐器装备时性能UP</div>
+3335,深渊呼唤,<div class=prt-text-small>我方全体的连续攻击率UP/奥义值上升量DOWN　★乐器装备时性能UP</div>
 5061,地滑,降低目标的防御
 249,英灵化,每回合攻击力UP <span class=text-blue>◆受到伤害解除</span>
 7110,焙烙玉,5回合后对敌方全体造成自属性伤害
 3108,烟消云散,回避敌人所有攻击
 200121,斩钉截铁,给予自己毅力效果/反击效果(受到伤害/2次)/敌对心UP
 200141,三明,我方单体的三连击率UP
-200161,节奏共振,我方单体的奥义槽UP(40%)
-200171,单人舞,自己的奥义槽上升量UP/敌对心UP
+200161,节奏共振,我方单体的奥义值UP(40%)
+200171,单人舞,自己的奥义值上升量UP/敌对心UP
 200181,驱动,<div class=prt-text-small>机械同伴启动时、自己的HP变换为能量<br><span class=text-blue>◆HP变为现在的一半</span></div>
 200201,大鹫返,反击效果(回避・受到伤害/2次)
-200211,无明斩,<div class=prt-text-small>效果中回合进行时进行3次攻击行动<br><span class=text-blue>◆消耗奥义槽40%</span></div>
-200221,烈刀一闪,<div class=prt-text-small>对敌人造成自属性伤害/自己的奥义性能UP<br><span class=text-blue>◆消耗奥义槽60%</span></div>
+200211,无明斩,<div class=prt-text-small>效果中回合进行时进行3次攻击行动<br><span class=text-blue>◆消耗奥义值40%</span></div>
+200221,烈刀一闪,<div class=prt-text-small>对敌人造成自属性伤害/自己的奥义性能UP<br><span class=text-blue>◆消耗奥义值60%</span></div>
 200021,刃击,根据装备的剑、刀数量对敌方造成大伤害
 200031,双击,<div class=prt-text-small>给予自己自属性追击效果/自属性攻击UP/通常攻击时的剑气消耗效果的命中率UP</div>
 200041,獠牙,<div class=prt-text-small>自己的攻击性能UP/效果中受到伤害时剑气消耗效果不会发动<br><span class=text-blue>◆再使用时解除效果</span></div>
-200071,月光,自己的奥义槽变换为MP
+200071,月光,自己的奥义值变换为MP
 200081,黑暗,<div class=prt-text-small>敌方全体的攻击性能DOWN/弱体耐性DOWN <span class=text-blue>◆只能在黑猫阵或天眼阵中使用/解除该效果时再使用间隔延长3回合</span></div>
 200061,特制炸弹,<div class=prt-text-small>自己的连续攻击率UP/暴击率UP<span class=text-blue><br>◆消耗MP3</span></div>
-4594,シールドワイア,敵にスロウ効果/自分の攻撃UP/防御DOWN
-1096,アーマーブレイクII,敵に自属性ダメージ/防御DOWN
-9292,レイジIV,<div class=prt-text-small>参戦者の攻撃UP(大)/味方全体のダメージ上限UP　<span class=text-blue>◆奥義ゲージを30％消費</span></div>
-51,ランページII,自分の連続攻撃確率UP(大)/防御DOWN
+4594,飞盾,目标减豆效果/自己的攻击UP/防御DOWN
+1096,装甲破坏II,对目标造成自身属性伤害/防御DOWN
+9292,呐喊IV,<div class=prt-text-small>所有参战者的攻击力UP(大)/我方全体伤害上限UP　<span class=text-blue>◆消耗30%奥义值</span></div>
+51,加速II,自己的连续攻击概率UP(大)/防御DOWN
 ,,C1
 60,一骑加势,自己可以立即发动奥义
 30001,进攻开始,二连击概率UP
