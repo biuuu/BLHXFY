@@ -1,6 +1,7 @@
 import fetchData from '../fetch'
 import parseCsv from '../utils/parseCsv'
 import sortKeywords from '../utils/sortKeywords'
+import { getLocalData, setLocalData } from './local-data'
 
 const htmlMap = new Map()
 let loaded = false
@@ -12,7 +13,11 @@ const trim = (str) => {
 
 const getCommHtmlData = async () => {
   if (!loaded) {
-    const csv = await fetchData('/blhxfy/data/common-html.csv')
+    let csv = getLocalData('common-html')
+    if (!csv) {
+      csv = await fetchData('/blhxfy/data/common-html.csv')
+      setLocalData('common-html', csv)
+    }
     const list = parseCsv(csv)
     sortKeywords(list, 'text').forEach(item => {
       const pathname = trim(item.path)
