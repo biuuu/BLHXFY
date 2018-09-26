@@ -84,6 +84,9 @@ body .btn-control[data-buton-name="クエストリストへ"]::after {
 body .btn-control[data-buton-name="フェイト一覧へ"]::after {
   content: "返回Fate列表";
 }
+body #cnt-room-alter .prt-entry-frame .prt-entry .btn-entry-room::after {
+  content: "开始招募";
+}
 body .prt-button-area .btn-control[data-buton-name="エクストラクエストへ"]::after {
   content: "选择任务";
   font-size: 12px;
