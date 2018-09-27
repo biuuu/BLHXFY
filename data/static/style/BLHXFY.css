@@ -69,6 +69,9 @@ body .prt-buttons-enhance .btn-change.party-npc::after {
 body #pop-deck .prt-register .btn-usual-register::after {
   content: "复制到这个队伍";
 }
+body .prt-daily-popup .prt-player-info .btn-usual-lineup::after {
+  content: "任务报酬确认";
+}
 body .btn-control[data-buton-name="イベントTOPへ"]::after {
   content: "回到活动";
 }
@@ -76,13 +79,16 @@ body .btn-retry[data-buton-name="もう一度挑戦"]::after {
   content: "再次挑战";
 }
 body .btn-control[data-buton-name="クエストリストへ"]::after {
-  content: "回到任务列表";
+  content: "返回任务列表";
 }
 body .btn-control[data-buton-name="フェイト一覧へ"]::after {
-  content: "返回 Fate 列表";
+  content: "返回Fate列表";
 }
-body .btn-control[data-buton-name="エクストラクエストへ"]::after {
-  content: "重新选择任务";
+body #cnt-room-alter .prt-entry-frame .prt-entry .btn-entry-room::after {
+  content: "开始招募";
+}
+body .prt-button-area .btn-control[data-buton-name="エクストラクエストへ"]::after {
+  content: "选择任务";
   font-size: 12px;
 }
 body .btn-control[data-buton-name="探索に戻る"]::after {

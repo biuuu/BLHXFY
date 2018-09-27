@@ -49,3 +49,42 @@ content,マイページに戻る,返回Mypage,
 /user/content/index,栄誉の輝き,荣誉之辉光,
 /user/content/index,騎空団ボーナス,骑空团奖励,
 /user/content/index,アーカルムポイント,塔罗牌点数,
+/lobby/content/room,初回消費なし,初次无消耗,3
+/lobby/content/room,あと<%= can_quest_start_count %>回挑戦します（全<%= max_quest_start_count %>回）,还剩<%= can_quest_start_count %>回挑战（一共<%= max_quest_start_count %>回）,
+/lobby/content/room,このクエストに挑戦します。,准备挑战这个任务,2
+/lobby/content/room,マルチバトルの難易度を選択してください,请选择多人战的难度级别,
+/lobby/content/room,イベントを選択してください,请选择一个活动副本,
+/lobby/content/room,サポーターを選択してください。,请选择支援召唤石,3
+/lobby/content/room,サポーターに選択できるメンバーがいません。,没有可供选择召唤石的成员,2
+/lobby/content/room,<%= set_user.name %> Rank <%= set_user.rank %> が選択,<%= set_user.name %> Rank <%= set_user.rank %> 选择任务,2
+/lobby/content/room,募集Rankやコメントを変更できます,可以更改等级限制和房间简介,
+/lobby/content/room,Rank制限なし,无Rank限制,3
+/lobby/content/room,ルームID,房间ID,
+/lobby/content/room,募集リスト,募集列表,
+/lobby/content/room,掲載しない,隐藏,
+/lobby/content/room,掲載する,显示,
+/lobby/content/room,ボタンを押すとすぐに反映されます,按下按钮后会立即生效,
+/lobby/content/room,メンバーが定員に達しているため掲載できません,房间已满，无法显示到募集列表,
+/lobby/content/room,LINEに投稿する,发布到LINE,
+/lobby/content/room,Twitterに投稿する,发布到Twitter,
+/lobby/content/room_alter,ルーム情報の変更,更改房间信息,
+/lobby/content/room_alter,マルチバトルで募集する仲間の条件と、<br>コメント(24文字以内)を入力してください。,请选择招募队友的条件<br>此外你还可以输入一段房间简介(24字以内)。,
+/lobby/content/room_alter,入力した内容でマルチバトルの仲間を募集します。,根据输入的内容来招募多人战队友,
+/lobby/content/room_alter,マルチバトル選択,多人战选择,
+/lobby/content/room_alter,※NORMALのルームではHIGH LEVELの<br>クエストは選べません。HIGH LEVELのルームでは<br>HIGH LEVEL以外のクエストは選べません。,※在NORMAL房间里无法选择<br>HIGH LEVEL任务。在HIGH LEVEL房间里<br>无法选择HIGH LEVEL以外的任务,
+/lobby/content/room_alter,募集Rank,募集Rank,
+/lobby/content/room_alter,制限なし,无限制,3
+/lobby/content/room_alter,誰でもOK,谁都可以,2
+/lobby/content/room_alter,フレンド限定,好友限定,2
+/lobby/content/room_alter,騎空団員限定,骑空团员限定,2
+/lobby/content/room_alter,連続クエスト設定,连续战斗设定,2
+/lobby/content/room_alter,設定なし,未设定,2
+/lobby/content/room_alter,参戦人数,参战人数,
+/lobby/content/room_alter,人までのマルチバトル,人的多人战斗,11
+/lobby/content/room_alter,※ルーム作成後は参戦人数を減らせません。,※房间创建后无法降低参战人数,2
+/lobby/content/room_alter,バトル開始承認,开始战斗的确认,
+/lobby/content/room_alter,承認あり,需要确认,2
+/lobby/content/room_alter,承認なし,无需确认,2
+/lobby/content/room_alter,コメント,描述,
+/lobby/content/room_alter,24文字以内で入力してください。,请输入24字以内的简介,
+/lobby/content/room_alter,募集の投稿・掲載,募集的投稿・发布,
