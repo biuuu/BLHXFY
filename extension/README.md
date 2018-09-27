@@ -26,7 +26,7 @@
 
 这里提供一个思路：利用一些代理 APP 提供的 URL 重写功能，将游戏本身的一个脚本重定向到我们指定的脚本来加载汉化插件。
 
-例如编辑 Shadowrocket 的配置，点击“添加URL重写”，然后按下面的格式添加规则：
+例如编辑 Shadowrocket （不是国区搜到的那个12元的，原版已在国区下架，需到外服购买） 的配置，点击“添加URL重写”，然后按下面的格式添加规则：
 ```
 URL: ^http://(game-a3.granbluefantasy.jp|gbf.game-a3.mbga.jp)/assets/\d+?/js/config.js$
 TO: https://blhx.danmu9.com/blhxfy/game-config.js
