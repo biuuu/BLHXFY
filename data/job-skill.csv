@@ -15,8 +15,8 @@ id,name,detail
 5122,箭雨III,对所有目标造成自身属性伤害/攻击力下降（大）
 4500,蓄能解放,<div class=prt-text-small>根据自身的奥义值造成自身属性伤害/攻击力UP/防御力UP/对自身造成伤害</div>
 4512,共鸣电流,对目标造成自身属性伤害/自身的技能伤害UP（累积）
-7070,风魔手里剑,<div class=prt-text-small>对目标造成自身属性伤害/根据印记发动追加效果<span class=prt-text-small> 刀：自身再次使用忍术的冷却时间缩短 格斗：自身的二连攻击概率UP/攻击力UP</span></div>
-7100,胧,<div class=prt-text-small>对目标造成自身属性伤害 <span class=text-blue>刀：给予自身失明效果/二连攻击概率UP 格斗：自身的攻击UP/奥义充能上升量UP</span></div>
+7070,风魔手里剑,<div class=prt-text-small>对目标造成自身属性伤害/根据印记发动追加效果<span class=text-blue> 刀：自身再次使用忍术的冷却时间缩短<br>格斗：自身的二连攻击概率UP/攻击力UP</span></div>
+7100,胧,<div class=prt-text-small>对目标造成自身属性伤害 <br><span class=text-blue>刀：给予自身失明效果/二连攻击概率UP<br>格斗：自身的攻击UP/奥义充能上升量UP</span></div>
 152,吟游之歌,给予我方全体再生效果★装备乐器时性能UP
 3021,净化,解除所有参战者的一个负面效果
 3030,重生,复活我方一个角色
