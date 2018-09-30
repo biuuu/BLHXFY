@@ -196,7 +196,7 @@ id,name,detail
 285,刽子手强袭,防守反击效果（受到伤害/3次）自己的防御力UP/敌对心UP
 30090,接受的美学,攻击力UP/只有一次受到战斗不能的状态时HP最多减少至1
 ,,
-9525,降临解放,<div class=prt-text-small>对目标造成8倍的自身属性伤害/回避所有攻击/攻击力UP（特大）<br><span class=text-blue>◆回避时追加效果：给予全体目标自身属性伤害/失明效果</span></div>
+9525,降临解放,<div class=prt-text-small>对目标造成8倍的自身属性伤害/回避所有攻击/攻击力UP（特大）<span class=text-blue>◆回避时追加效果：给予全体目标自身属性伤害/失明效果</span></div>
 35705,暗夜的猎手,对弱体状态的敌人攻击力UP/负面效果[失明]无效
 ,,
 3304,喝彩,<div class=prt-text-small>所有参战者的恢复性能UP（累积）/自身属性攻击力UP★装备乐器时性能UP</div>
