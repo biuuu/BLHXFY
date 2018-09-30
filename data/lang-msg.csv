@@ -1866,7 +1866,7 @@ raid_23,アイテム使用確認,Use Item,道具使用
 raid_24,アイテム使用不可,This item can't be used.,无法使用该道具
 raid_25,閉じる,Close,关闭
 raid_26,撤退する,Retreat,撤退
-raid_27,参戦メンバーの応援,Salute Participants,未剩余玩家应援
+raid_27,参戦メンバーの応援,Salute Participants,给战斗中的队友加油
 raid_28,応援する,Salute,应援
 raid_29,応援,Salute,应援
 raid_3,なし,None,无
