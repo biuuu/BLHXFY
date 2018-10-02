@@ -32,6 +32,7 @@ URL: ^http://(game-a3.granbluefantasy.jp|gbf.game-a3.mbga.jp)/assets/\d+?/js/con
 TO: https://blhx.danmu9.com/blhxfy/game-config.js
 ```
 这会将游戏的 config.js 重定向到 https://blhx.danmu9.com/blhxfy/game-config.js
+（因为游戏的 js 文件会被浏览器缓存，你可能需要清除缓存才能看到效果）
 
 可以看到`https://blhx.danmu9.com/blhxfy/game-config.js`的内容是这样的：
 ```
