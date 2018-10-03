@@ -118,6 +118,9 @@ body .pop-synopsis .btn-usual-ok::after {
 body .pop-get-skypiece .btn-usual-ok::after {
   content: '露莉亚日记';
 }
+body .pop-search-room.pop-usual .prt-popup-footer .btn-search-start::after {
+  content: "显示";
+}
 body .pop-get-skypiece .btn-usual-cancel::after {
   content: '关闭';
 }
