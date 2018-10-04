@@ -1,0 +1,66 @@
+﻿id,en,jp,trans
+0-synopsis,,ある日、騎空艇でククル、シルヴァ、クムユが、シルヴァの狙撃銃の手入れと調整に勤しんでいた。姬塔達も加わり整備を終え、片づけを始めたところへガラドアが飛び込んでくる。ククルの父親である銃工房の親方と一緒に武器防具ギルドの会合にでていたというガラドアは、ククルとクムユに「お前達の両親が離婚するかもしれない」と衝撃的な言葉を告げるのだった。,这天，库库鲁、席尔瓦、库姆优三人在骑空艇上保养席尔瓦的狙击枪，姬塔也加入其中。等保养结束，众人开始收拾时，加拉德亚突然冲了进来。本应和库库鲁的父亲，火枪工坊的老板一起去武器防具行会集会的加拉德亚，告诉库库鲁和库姆优，她们的双亲可能会离婚。
+1,,<span class='scene-font-katari'>良く晴れたある日のこと。</span><br><span class='scene-font-katari'>停泊した騎空艇の甲板で</span><br><span class='scene-font-katari'>姬塔は足を止める。</span>,<span class='scene-font-katari'>这一天阳光明媚。停泊在港口的骑空艇上，姬塔来到甲板，停下脚步。</span>
+2,,<span class='scene-font-katari'>そこでは、シルヴァとククルが</span><br><span class='scene-font-katari'>細かな道具を並べて</span><br><span class='scene-font-katari'>何かの作業を進めていた。</span>,<span class='scene-font-katari'>席尔瓦和库库鲁正摆弄着一些精密的工具。</span>
+3,,おはよう、姬塔。<br>昨日はよく眠れたかい？,早上好，姬塔。昨晚睡得好吗？
+5,,……そうか、なら良かった。,……是么，那太好了。
+6,,昨日の依頼、<br>けっこう大変だったもんね。<br>今日はゆっくりできそう？,昨天的委托超累人的。<br>今天总可以悠闲地休息了吧？
+7,,はい！<br>今日は依頼を受けるのは<br>お休みってことになりました。,是的！今天的委托就是好好休息哦！
+8,,それは何よりだ。<br>働きづめで疲労を溜めすぎると<br>手違いに繋がるからな。,那再好不过了。连续工作积累的疲劳会让人出现失误。
+9,,……とか言ってるシルヴァ姉も<br>根を詰めがちなんだから<br>気をつけなきゃダメだよ？,……话是这么说，席尔瓦姐那么容易较真，也要好好注意才行哦？
+10,,う……気をつけるとしよう。,唔……我尽量。
+16,,<span class='scene-font-katari'>覇空戦争時代に端を発するとも言われる</span><br><span class='scene-font-katari'>長い歴史を持つ銃工房……</span><br><span class='scene-font-katari'>その跡取り娘がククルである。</span>,<span class='scene-font-katari'>库库鲁是一个火枪工坊的继承人。据说工坊建立在霸空战争时代，历史非常悠久。</span>
+17,,<span class='scene-font-katari'>彼女は姬塔の</span><br><span class='scene-font-katari'>空の果てを目指すという大きな目標に</span><br><span class='scene-font-katari'>感動し、騎空団に仲間入りした。</span>,<span class='scene-font-katari'>她听说姬塔的目标是天空的尽头，非常感动，于是加入了骑空团。</span>
+23,,<span class='scene-font-katari'>銃器の手入れや新しい武器の開発など、</span><br><span class='scene-font-katari'>職人としての確かな技術を活かし</span><br><span class='scene-font-katari'>騎空団でも活躍している。</span>,<span class='scene-font-katari'>她在骑空团里负责保养枪械，开发新武器，作为枪械专家活跃着。</span>
+29,,<span class='scene-font-katari'>狙撃手のシルヴァは</span><br><span class='scene-font-katari'>狙撃の修行のため故郷を出て、</span><br><span class='scene-font-katari'>銃工房に居候していた過去を持つ。</span>,<span class='scene-font-katari'>狙击手席尔瓦为狙击修行而离开故乡，曾在火枪工坊寄居过一段时间。</span>
+35,,<span class='scene-font-katari'>銃工房の娘のククルとは</span><br><span class='scene-font-katari'>実の姉妹以上に仲が良く、</span><br><span class='scene-font-katari'>互いを信頼し合う仲である。</span>,<span class='scene-font-katari'>她与火枪工坊的女儿库库鲁比亲生姐妹更为亲密，信赖着彼此。</span>
+41,,<span class='scene-font-katari'>故郷</span><span class='scene-font-place'>メフォラシュ</span><span class='scene-font-katari'>を帝国に封鎖された</span><br><span class='scene-font-katari'>という経緯から、シルヴァは</span><br><span class='scene-font-katari'>帝国と敵対する姬塔達に協力。</span>,<span class='scene-font-katari'>因故乡</span><span class='scene-font-place'>美佛拉修</span><span class='scene-font-katari'>被帝国封锁，她答应协助与帝国敌对的姬塔一行。</span>
+42,,<span class='scene-font-katari'>以降、姬塔達にとって</span><br><span class='scene-font-katari'>頼りになる仲間として騎空団に加わり</span><br><span class='scene-font-katari'>共に旅を続けていた。</span>,<span class='scene-font-katari'>事后她加入了骑空团，成为了一名可靠的同伴，与一行人共同旅行。</span>
+48,,そんで、ふたりとも何やってんだ？<br>床に並べてるのは……ええと、<br>たぶん銃のパーツ……だよな。,说起来，你们在做什么？地上放着的是……呃，是枪的零件……吧。
+49,,シルヴァ姉の狙撃銃の<br>お手入れと調整をしてるんだ。,我们在保养席尔瓦姐的狙击枪。
+50,,ちょいと複雑な構造だし、<br>新しい技術も使ってる銃だから<br>細かいところまで見ておきたくて。,这支枪构造有些复杂，也使用了新技术，所以我想检查下每个细节。
+51,,ふわぁ……シルヴァさんの銃って<br>こんなにたくさんのパーツで<br>できてたんですね……！,哇……席尔瓦的枪原来是由这么多部件组成的……！
+52,,<span class='scene-font-katari'>ルリアとビィ、姬塔は</span><br><span class='scene-font-katari'>興味津々で</span><br><span class='scene-font-katari'>並べられたパーツを眺める。</span>,<span class='scene-font-katari'>露丽亚、碧和姬塔饶有兴趣地观察地上的零件。</span>
+54,,ククル姉ちゃ～ん！<br>新しいグリスの壺、<br>持ってきたですよ！,库库鲁姐~！我拿来了新的润滑油！
+55,,ありがとクムユ！<br>こっちに置いてもらえる？,谢谢啦，库姆优！<br>能帮我放在这边吗？
+56,,あい！,好！
+63,,<span class='scene-font-katari'>銃工房の養女であり、</span><br><span class='scene-font-katari'>ククルが溺愛する妹であるクムユ。</span>,<span class='scene-font-katari'>库姆优是火枪工坊的养女，库库鲁溺爱的妹妹。</span>
+64,,<span class='scene-font-katari'>彼女は些細なことに驚いてしまう</span><br><span class='scene-font-katari'>臆病な自分を嘆き、</span><br><span class='scene-font-katari'>心を鍛えるため騎空団に加わった。</span>,<span class='scene-font-katari'>她觉得自己老是因为一些小事就吓一跳，太胆小了，于是为了锻炼勇气而加入骑空团。</span>
+70,,<span class='scene-font-katari'>姬塔達との数々の冒険を経て</span><br><span class='scene-font-katari'>彼女は少しずつ落ち着きを</span><br><span class='scene-font-katari'>身に着けつつあるのだった。</span>,<span class='scene-font-katari'>和姬塔一行经历了各种冒险后，她也渐渐变得沉着起来。</span>
+76,,あれ？<br>どこへ行くんですか、<br>姬塔？,咦？<br>你去哪里，姬塔？
+78,,銃を持ってくる……？,去拿枪……？
+79,,あ、一緒にお手入れするんですね！,啊，是要和她们一起保养枪支吧！
+80,,おっ！<br>いいね、一緒にやろ！,哦！好呀，一起来吧！
+81,,細かい掃除は依頼がない日でないと<br>難しいからな。,毕竟只有在这种没有委托的日子才有时间做精细的清理啊。
+82,,お掃除、クムユもお手伝いするですよ！,库姆优也来帮忙清理！
+88,,<span class='scene-font-katari'>自分の銃を持ってきた</span><br><span class='scene-font-katari'>姬塔も加わり、</span><br><span class='scene-font-katari'>一同は銃の手入れに勤しむ。</span>,<span class='scene-font-katari'>姬塔也加入了保养枪支的行列。</span>
+91,,……ふぅ！<br>あらかた終わったかな！,……呼！<br>大抵上完成了！
+92,,お疲れ様でした！<br>あっという間に組み上がって、<br>まるで魔法みたいです……！,辛苦了！<br>一下子就组装起来了，像魔法一样呢……！
+94,,うぅ、小せぇパーツが多いもんだから<br>目が痛ぇですよ……,呜、有好多小零件，看得我眼睛好疼……
+95,,目薬をさそうか、<br>取ってくるよ。,要滴眼药水吗？我去拿吧。
+97,,<span class='scene-font-4'>てぇへんだ！！</span><br><span class='scene-font-4'>てぇへんだ～！！</span>,<span class='scene-font-4'>不好了！！</span><br><span class='scene-font-4'>不好了～！！</span>
+98,,<span class='scene-font-katari'>甲板を片づけ始めた姬塔は、</span><br><span class='scene-font-katari'>発着場から響く声を聴きとる。</span>,<span class='scene-font-katari'>姬塔一行刚开始收拾甲板，就听见港口方向有声音传来。</span>
+99,,この声は……<br>ガラドアさん！？,这声音是……<br>加拉德亚先生！？
+102,,<span class='scene-font-katari'>息せき切らせたガラドアは、</span><br><span class='scene-font-katari'>慌てた様子で甲板へと昇ってきた。</span>,<span class='scene-font-katari'>气喘吁吁的加拉德亚慌忙跳上甲板。</span>
+103,,<span class='scene-font-katari'>ガラドアは姬塔や</span><br><span class='scene-font-katari'>ククル、クムユとも面識のある</span><br><span class='scene-font-katari'>高名な武具職人である。</span>,<span class='scene-font-katari'>加拉德亚是姬塔、库库鲁和库姆优认识的著名武具匠。</span>
+104,,<span class='scene-font-katari'>息せき切らせたガラドアは、</span><br><span class='scene-font-katari'>慌てた様子で甲板へと昇ってきた。</span>,<span class='scene-font-katari'>气喘吁吁的加拉德亚慌忙跳上甲板。</span>
+105,,ぜぇ、はぁ……<br>と、とにかくてぇへんなんだ……！,哈、哈……<br>总、总之、出大事了……！
+106,,ガラドアさんが<br>そんなに慌てるなんて……<br>一体なにがあったの？,加拉德亚先生这么慌张……<br>到底出什么事了？
+107,,確か、お父ちゃんと一緒に<br>武器防具の工房が集まったギルドの<br>会合に出てた……んだよね？,我记得，你和我爸一起去武器防具工坊的行会集会了吧？
+108,,あ、ああ……<br>それなんだが……,是啊，没错……<br>就是关于这个……
+110,,はい、ガラドアさん！<br>お水ですよ、飲んでください！,加拉德亚先生！先喝杯水吧！
+111,,こりゃありがてぇ。,谢谢了。
+112,,ごくごくっ……ぷはぁ！,咕咚咕咚……哈！
+113,,いいか、ククル、クムユ。<br>とにかく一回、<br>銃工房に帰んな！,听好了，库库鲁，库姆优。你们先回去火枪工坊看看吧！
+114,,ふぇっ？,咦？
+115,,……まさか、お父ちゃんか<br>お母ちゃんに何かあったの！？,……难道说，爸爸妈妈出了什么事！？
+116,,あの、あのな……,那、那个……
+117,,……すぅ～……はぁ～……,……吸～……呼～……
+118,,お前さん達の両親が……,你爸妈……
+119,,<span class='scene-font-4'>……離婚しちまうかも</span><br><span class='scene-font-4'>しれねぇんだ！！</span>,<span class='scene-font-4'>……可能要</span><br><span class='scene-font-4'>离婚了！！</span>
+120,,は……？,啊……？
+121,,んなっ……！？,什么……！？
+122,,<span class='scene-font-4'>なんだってぇ～！？</span>,<span class='scene-font-4'>你说什么～！？</span>
+123,,<span class='scene-font-katari'>ガラドアの思わぬ言葉に</span><br><span class='scene-font-katari'>驚きの声を上げるククル、クムユ、</span><br><span class='scene-font-katari'>そしてシルヴァ。</span>,<span class='scene-font-katari'>听了加拉德亚意想不到的回答，库库鲁，库姆优，席尔瓦三人都不禁惊讶出声。</span>
+124,,<span class='scene-font-katari'>ククル達の両親と顔見知りである</span><br><span class='scene-font-katari'>姬塔達もまた、あまりにも</span><br><span class='scene-font-katari'>意外な言葉に顔を見合わせるのだった。</span>,<span class='scene-font-katari'>对库库鲁的父母有所了解的姬塔一行也疑惑地面面相觑。</span>
+info,,1,scene_evt180930_cp0_q1_s10
