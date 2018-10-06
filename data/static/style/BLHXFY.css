@@ -231,7 +231,6 @@ body .cnt-order-box .cnt-btn-bottombox .btn-evolution:not(.disapprove)::after {
 .prt-recommend-buttons .btn-recommend,
 .prt-current-job .btn-job-change,
 .prt-current-job .btn-ability-list,
-.cnt-extra-lb .btn-select-augment-item,
 .btn-reset-bonus[data-location-href^="zenith/reset_bonus/"],
 .prt-symbolmark .btn-symbolmark-l,
 .prt-npc .btn-index-all-setting,
@@ -273,10 +272,6 @@ body .cnt-order-box .cnt-btn-bottombox .btn-evolution:not(.disapprove)::after {
 }
 .btn-reset-bonus[data-location-href^="zenith/reset_bonus/"]::after {
   content: "能力重置";
-  font-size: 12px;
-}
-.cnt-extra-lb .btn-select-augment-item::after {
-  content: "EX Limit Bonus 解放";
   font-size: 12px;
 }
 .prt-current-job .btn-job-change::after {
