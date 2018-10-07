@@ -140,7 +140,7 @@ body .pop-confirm-retire .prt-popup-footer .btn-usual-ok:after, .pop-confirm-que
   content: '结束探索';
 }
 body .pop-check-point .prt-popup-footer .btn-usual-ok:after {
-  content: '塔罗牌首页';
+  content: '塔罗首页';
 }
 body .pop-confirm .prt-popup-footer .btn-usual-ok.exchange:after {
   content: '交换';
