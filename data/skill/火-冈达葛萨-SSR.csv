@@ -1,6 +1,8 @@
 id,name,detail
 npc,冈达葛萨,3040052000
 special,莲天红我正拳突刺,火属性伤害(特大)/自身暴击率UP（30%几率造成1.3倍伤害）<span class=text-blue>◆消去古今无双流效果</span>
+special-怒髪驚天正拳突き,怒发惊天正拳突刺,火属性伤害(特大)/自身暴击率UP（30%几率造成1.3倍伤害）/格挡效果<span class=text-blue>◆消去古今无双流效果</span>
+special-Fist of Hair-Raising Fury,怒发惊天正拳突刺,火属性伤害(特大)/自身暴击率UP（30%几率造成1.3倍伤害）/格挡效果<span class=text-blue>◆消去古今无双流效果</span>
 skill-1,破天道,赋予敌方全体日晕效果
 skill-灼滅・破天道,灼灭・破天道,赋予敌方全体日晕效果/对敌方全体造成5倍火属性伤害
 skill-Infernal Skybreaker,灼灭・破天道,赋予敌方全体日晕效果/对敌方全体造成5倍火属性伤害
