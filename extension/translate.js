@@ -7,6 +7,7 @@ import transHTML from './modules/content-html'
 import transTownInfo from './modules/town-info'
 import transIslandInfo from './modules/island-info'
 import transChat from './modules/chat-preset'
+import transBuff from './modules/buff'
 import showVoiceSub from './modules/voice-sub'
 import { getUserName, setUserName } from './store/name-user'
 
@@ -52,6 +53,8 @@ export default async function translate(state) {
       await showVoiceSub(data, pathname, 'list')
     } else if (pathname.includes('/rest/multiraid/start.json')) {
       data = await transChat(data)
+    } else if (/\/rest\/multiraid\/condition\/\d+\/\d\/\d\.json/.test(pathname)) {
+      await transBuff(data.condition)
     } else {
       return
     }

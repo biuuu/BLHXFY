@@ -1,5 +1,6 @@
 import getSkillData from '../store/skill-npc'
 import replaceTurn from '../utils/replaceTurn'
+import transBuff from './buff'
 
 const elemtRE = '([光闇水火風土]|light|dark|water|wind|earth|fire)'
 const elemtMap = {
@@ -74,14 +75,17 @@ const parseSkill = async (data, pathname) => {
   const translated = new Map()
   const keys = skillState.skillKeys
   if (skillData) {
-    keys.forEach(item => {
+    for (let item of keys) {
       const key1 = item[0]
       const key2 = item[1]
       let ability = data[key1]
       if (!ability) {
-        if (!data.ability) return
+        if (!data.ability) continue
         ability = data.ability[key1]
-        if (!ability) return
+        if (!ability) continue
+      }
+      if (ability.ability_detail) {
+        await transBuff(ability.ability_detail)
       }
       if (ability.recast_comment) {
         ability.recast_comment = replaceTurn(ability.recast_comment)
@@ -90,7 +94,7 @@ const parseSkill = async (data, pathname) => {
       let trans = skillData[key2 + plus2]
       if (!trans) {
         trans = skillData[key2]
-        if (!trans) return
+        if (!trans) continue
       }
       if (trans.name) {
         ability.name = trans.name + plus1
@@ -99,7 +103,8 @@ const parseSkill = async (data, pathname) => {
         ability.comment = trans.detail
         translated.set(key1, true)
       }
-    })
+    }
+
     if (data.master) {
       const trans = skillData['npc']
       if (trans && trans.name) data.master.name = trans.name

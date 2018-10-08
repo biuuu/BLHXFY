@@ -1,5 +1,6 @@
 import getSkillData from '../store/skill-job'
 import replaceTurn from '../utils/replaceTurn'
+import transBuff from './buff'
 
 const startTrans = async (data) => {
   for (let key in data) {
@@ -14,6 +15,9 @@ const startTrans = async (data) => {
       }
       if (data[key].turn_comment) {
         data[key].turn_comment = replaceTurn(data[key].turn_comment)
+      }
+      if (data[key].ability_detail) {
+        await transBuff(data[key].ability_detail)
       }
     }
   }
