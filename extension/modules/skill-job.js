@@ -41,12 +41,16 @@ const transSkill = async (data, pathname) => {
     }
   } else if (/\/party\/ability_list\/\d+\//.test(pathname)) {
     data = await replaceSkill(data)
-  } else if (/\/party\/job_info\/\d+\//) {
+  } else if (/\/party\/job_info\/\d+\//.test(pathname)) {
     if (data.after_job_master) {
       data.after_job_master = await replaceSkill(data.after_job_master)
     }
     if (data.before_job_info) {
       data.before_job_info = await replaceSkill(data.before_job_info)
+    }
+  } else if (/\/zenith\/ability_list\/\d+/.test(pathname)) {
+    if (data.ability_list) {
+      data.list = await startTrans(data.ability_list)
     }
   }
   return data

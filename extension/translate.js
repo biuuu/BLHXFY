@@ -43,6 +43,7 @@ export default async function translate(state) {
       pathname.includes('/party_ability_subaction/') ||
       pathname.includes('/party/job/') ||
       pathname.includes('/party/ability_list/') ||
+      pathname.includes('/zenith/ability_list/') ||
       pathname.includes('/party/job_info/')) {
       data = await transJobSkill(data, pathname)
     } else if (pathname.includes('/island/init')) {
