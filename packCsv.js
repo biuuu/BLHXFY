@@ -72,6 +72,11 @@ gulp.task('move:normalcsv', ['clean:dist'], function () {
     .pipe(gulp.dest('./dist/blhxfy/data/'))
 })
 
+gulp.task('move:etccsv', ['clean:dist'], function () {
+  return gulp.src('./data/etc/*.csv')
+    .pipe(gulp.dest('./dist/blhxfy/data/'))
+})
+
 gulp.task('move:html', ['clean:dist'], function () {
   return gulp.src('./data/*.html')
     .pipe(gulp.dest('./dist/blhxfy/data/'))
@@ -244,6 +249,7 @@ gulp.task('extensionIOS', ['clean:dist'], async function () {
 gulp.task('default', [
   'move:static',
   'move:normalcsv',
+  'move:etccsv',
   'move:scenario',
   'move:skill',
   'md5',
