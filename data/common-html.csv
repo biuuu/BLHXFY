@@ -126,9 +126,9 @@ content,マイページに戻る,返回Mypage,
 /arcarum/content/stage,この場所に移動します,移动到这个地点,3
 /arcarum/content/stage,TPが0のため移動できません,TP为0无法继续前进了,2
 /arcarum/content/stage,移動する,移动,4
-/arcarum/content/stage,セフィラの封門石,塞菲拉的封门石,
+/arcarum/content/stage,セフィラの封門石,,
 /arcarum/content/stage,結界が奥地への進行を阻んでいる,结界阻止你继续向深处前进,
-/arcarum/content/stage,アクイラ・キーストーン,阿尔卡那基石,
+/arcarum/content/stage,アクイラ・キーストーン,,
 /arcarum/content/stage,星導の天球儀,星导天球仪,
 /arcarum/content/stage,挑戦するアーカルムシリーズを変更できます。,可以变更想要挑战的塔罗系列BOSS,
 /arcarum/content/stage,この場所には何もないようだ,这里好像什么都没有,
@@ -145,7 +145,7 @@ content,マイページに戻る,返回Mypage,
 /arcarum/content/stage,回復アイテム,回复道具,
 /arcarum/content/stage,を使用します,已使用,
 /arcarum/content/stage,の効果が発動中のため<br>使用できません,的效果已存在<br>无法再使用了,
-/arcarum/content/stage,TPを消費してアクイラ・キーストーンを<br>破壊しますか？,是否消费TP破坏<br>阿尔卡那基石？,2
+/arcarum/content/stage,TPを消費してアクイラ・キーストーンを<br>破壊しますか？,,2
 /arcarum/content/stage,星導の天球儀を使用して、<br>挑戦するアーカルムシリーズを変更します。,使用星导天球仪，<br>变更挑战的塔罗BOSS。,
 /arcarum/content/stage,挑戦するアーカルムシリーズを選択してください,请选择想要挑战的塔罗BOSS,
 /arcarum/content/stage,所持数が不足しています,持有数量不足,
