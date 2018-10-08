@@ -133,6 +133,12 @@ body .pop-confirm-start-stage .btn-usual-ok:after {
 body .btn-unclaimed[data-buton-name="未確認バトルへ"]::after {
   content: "未结算的战斗";
 }
+body .pop-condition .prt-condition-list .lis-conditon .prt-detail .txt-remain::before {
+  content: "还剩";
+}
+body .pop-condition .prt-condition-list .lis-conditon .prt-detail .turn::after {
+  content: "回合";
+}
 body .pop-next-stage .prt-popup-footer .btn-usual-ok:after {
   content: '前进';
 }
