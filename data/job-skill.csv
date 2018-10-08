@@ -171,7 +171,7 @@ id,name,detail
 4301,过载引导II,<div class=prt-text-small>对目标造成自身属性伤害<br><span class=text-blue>枪：维持Break状态<br>斧：减少状态条</span></div>
 30049,危险扳机,共鸣电流造成的伤害UP
 ,,C4
-66,一骑加势III,自己可以立即发动奥义/攻击力UP/奥义连锁的伤害UP
+66,一骑加势III,自己可以立即发动奥义/攻击力UP/奥义连击的伤害UP
 30083,斗争本能,二连击概率UP/HP最大值UP
 30084,逆袭,低概率防守反击效果（回避/1次）
 ,,
@@ -237,11 +237,11 @@ id,name,detail
 30069,钥匙环,能够装备最大8个暗器<br><span class=text-blue>◆根据暗器的种类技能效果产生变化</span>
 30070,幻惑舞步,低概率回避所有攻击
 ,,
-3349,极点,我方全体的奥义伤害UP/奥义伤害上限UP/奥义连锁的上限UP
+3349,极点,我方全体的奥义伤害UP/奥义伤害上限UP/奥义连击的上限UP
 3348,热烈峻严,<div class=prt-text-small>将奥义充能分配给自己以外的我方全员/奥义充能上升量UP　<span class=text-blue>◆消费30点奥义充能</span></div>
 3341,斗志的残响,对全体目标造成自身属性的防御力DOWN　<span class=text-blue>◆消费奥义充能20点</span>
 30102,叩响太鼓,减少伤害的同时提升连续攻击概率
-30103,祭囃子,<div class=prt-text-small>根据连锁数量奥义充能上升/给予我方全体热气效果/使用斗志的残响时，根据参战者的数量我方全体的攻击力UP防御力UP</div>
+30103,祭囃子,<div class=prt-text-small>根据连击数奥义充能上升/给予我方全体热气效果/使用斗志的残响时，根据参战者的数量我方全体的攻击力UP防御力UP</div>
 ,,
 9551,吸引·萨尔萨舞,回避所有攻击/自己的连续攻击概率UP <span class=text-blue>◆最大HP减少10%</span>
 9552,主舞·古典舞,<div class=prt-text-small>效果中我方全体角色的攻击行动变为与自己相同<br><span class=text-blue>◆战斗开始3回合后可以使用</span></div>
