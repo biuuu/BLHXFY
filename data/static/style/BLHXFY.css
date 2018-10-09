@@ -139,6 +139,9 @@ body .pop-condition .prt-condition-list .lis-conditon .prt-detail .txt-remain::b
 body .pop-condition .prt-condition-list .lis-conditon .prt-detail .turn::after {
   content: "回合";
 }
+body .pop-condition .prt-condition-list .lis-conditon .prt-detail .turn.one::after {
+  content: "回合";
+}
 body .pop-next-stage .prt-popup-footer .btn-usual-ok:after {
   content: '前进';
 }
