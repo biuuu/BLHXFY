@@ -1,4 +1,12 @@
 path,text,trans,count
+/content,個,个,55
+/content,あと,还有,30
+/content,本日,今天,30
+/content,在庫,库存,10
+/content,その他,其他,10
+/conte,活动,10
+/content,残り,还剩,20
+/content,マイページに戻る,返回Mypage,
 /party/content/job/,"<div class=""btn-tabs"">アビリティ</div>",<div class=btn-tabs>技能</div>,
 /party/content/job/,"<div class=""btn-tabs"">サポート</div>",<div class=btn-tabs>被动</div>,
 /party/content/job/,"<div class=""btn-tabs"">ボーナス</div>",<div class=btn-tabs>加成</div>,
@@ -23,10 +31,7 @@ path,text,trans,count
 /quest/content/newassist,<span class='txt-request-name'><%= n.attributes.called_user_name %></span>さんからの救援依頼,来自<span class='txt-request-name'><%= n.attributes.called_user_name %></span>的救援请求,
 /quest/content/newassist,<span class='txt-request-name'><%= raid['called_user_name'] %></span>さんからの救援依頼,来自<span class='txt-request-name'><%= raid['called_user_name'] %></span>的救援请求,
 /quest/content,クエストリストへ,返回任务列表,
-content,マイページに戻る,返回Mypage,
-/archive/content/story,その他,其他,2
 /archive/content/story,メインシナリオ,主线剧情,2
-/archive/content/story,イベント,活动,2
 /quest/content/supporter_raid,サポーター召喚石選択,选择支援召唤石,
 /user/content/index,で認証中,已认证,2
 /user/content/index,テキスト入力,输入内容,2
@@ -53,7 +58,7 @@ content,マイページに戻る,返回Mypage,
 /lobby/content/room,あと<%= can_quest_start_count %>回挑戦します（全<%= max_quest_start_count %>回）,还剩<%= can_quest_start_count %>回挑战（一共<%= max_quest_start_count %>回）,
 /lobby/content/room,このクエストに挑戦します。,准备挑战这个任务,2
 /lobby/content/room,マルチバトルの難易度を選択してください,请选择多人战的难度级别,
-/lobby/content/room,イベントを選択してください,请选择一个活动副本,
+/lobby/content/roを選択してください,请选择一个活动副本,
 /lobby/content/room,サポーターを選択してください。,请选择支援召唤石,3
 /lobby/content/room,サポーターに選択できるメンバーがいません。,没有可供选择召唤石的成员,2
 /lobby/content/room,<%= set_user.name %> Rank <%= set_user.rank %> が選択,<%= set_user.name %> Rank <%= set_user.rank %> 选择任务,2
@@ -180,9 +185,37 @@ content,マイページに戻る,返回Mypage,
 /shop_exchange/content/list,神撃、究極の竜,神击、究极之龙,
 /shop_exchange/content/list,四象降臨,四象降临,
 /shop_exchange/content/list,究竟の証,究竟之证,
-/shop_exchange/content/list,その他,其他,
-/shop_exchange/content/list,残り,剩余,14
-/shop_exchange/content/list,個,个,55
 /shop_exchange/content/list,ショップTOPへ,返回商店首页,
-/shop_exchange/content/list,イベント一覧に戻る,回到活动列表,
+/shop_exchange/content/li一覧に戻る,回到活动列表,
 /shop_exchange/content/list,マグナアニマ,玛格纳精魄,
+/shop_exchange/content/list,制限なし,没有限制,2
+/shop_exchange/content/list,交換する,交换,4
+/shop/content/index,いらっしゃ～い！　旅支度はシェロちゃんにお任せ～！,欢迎光临～！　旅行的准备就交给我榭洛酱吧～！,
+/item/content/index,アイテム,道具,6
+/item/content/index,空図の欠片,空图碎片,
+/item/content/index,大事なもの,重要物品,4
+/item/content/index,ショップへ,去商店,
+/profile/content/index,挨拶<,留言<,
+/profile/content/index,ステータス,状态,
+/profile/content/index,ポイント,点数,2
+/profile/content/index,フレンド,好友,2
+/profile/content/index,仲間キャラ,同伴,2
+/profile/content/index,サポーター専用,支援专用,
+/profile/content/index,召喚石,召唤石,10
+/profile/content/index,推しキャラ,喜欢的角色,
+/profile/content/index,コメントが設定されていません,还没有填写任何备注,
+/profile/content/index,アチーブメント,成就,2
+/quest/content/newextra/normal,デイリー,日常,
+/quest/content/newextra/normal,クエストリストに戻る,返回任务列表,
+/quest/content/newextra/normal,何だかスゲェお宝のニオイがするぜ,好像有不得了的宝物呢,
+/quest/content/newextra/normal,腕試しにチャレンジしてみようぜぇー,去挑战一下看看吧,
+/archive/content/top,旅の記録をつけてるんですよ～　フフッ,我做了旅行的记录哦～ 呵呵,
+/archive/content/top,いろんなことがありましたね！　これからはどんな事が起きるかな～,过去发生了很多事情呢！　将来还会发生什么样的事呢～,
+/archive/content/top,私のノート！　見たいですか？,我的日记！　你想看吗？,
+/archive/content/top,カタリナに頼まれて武器のことも記録してるんです。結構おもしろいです！,卡塔莉娜还拜托我做了武器的记录。很有趣哦！,
+/friend/content/index,フレンド,好友,
+/friend/content/index,申請中,申请中,
+/friend/content/index,フレンド検索,好友搜索,
+/friend/content/index,未承認,未同意,
+/user/content/index,イベント・キャンペーン,活动,
+/user/content/index,お知らせ・アップデート,公告・更新,
