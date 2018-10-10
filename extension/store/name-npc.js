@@ -42,10 +42,10 @@ const getNameData = async () => {
     const nameJp = await fetchData('/blhxfy/data/npc-name-jp.csv')
     const listEn = nameWithScenario(parseCsv(nameEn))
     const listJp = nameWithScenario(parseCsv(nameJp))
-    sortKeywords(listEn).forEach(item => {
+    sortKeywords(listEn, 'name').forEach(item => {
       enNameMap.set(item.name, item)
     })
-    sortKeywords(listJp).forEach(item => {
+    sortKeywords(listJp, 'name').forEach(item => {
       jpNameMap.set(item.name, item)
     })
     loaded = true

@@ -7,9 +7,9 @@ const sortKeywords = (list, key = 'EMPTY') => {
       valNext = next[key]
     }
     if (valNext && valPrev) {
-      if (valNext.includes(valPrev)) {
+      if (valNext.length > valPrev.length) {
         return 1
-      } else if (valPrev.includes(valNext)) {
+      } else if (valPrev.length > valNext.length) {
         return -1
       }
     }
