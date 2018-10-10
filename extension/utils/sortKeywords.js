@@ -1,9 +1,15 @@
-const sortKeywords = (list, key = 'name') => {
+const sortKeywords = (list, key = 'EMPTY') => {
   return list.sort((prev, next) => {
-    if (next[key] && prev[key]) {
-      if (next[key].includes(prev[key])) {
+    let valPrev = prev
+    let valNext = next
+    if (key !== 'EMPTY') {
+      valPrev = prev[key]
+      valNext = next[key]
+    }
+    if (valNext && valPrev) {
+      if (valNext.includes(valPrev)) {
         return 1
-      } else if (prev[key].includes(next[key])) {
+      } else if (valPrev.includes(valNext)) {
         return -1
       }
     }
