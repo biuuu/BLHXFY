@@ -2,6 +2,7 @@ import getNameData from '../store/name-npc'
 import parseCsv from '../utils/parseCsv'
 import fetchData from '../fetch'
 import config from '../config'
+import insertToolHtml from '../story/insertToolHtml'
 
 const txtKeys = ['chapter_name', 'synopsis', 'detail', 'sel1_txt', 'sel2_txt', 'sel3_txt', 'sel4_txt']
 
@@ -96,6 +97,7 @@ const replaceChar = (key, item, map, scenarioName) => {
 const transStart = async (data, pathname) => {
   const pathRst = pathname.match(/\/scenario.*?\/(scene[^\/]+)\/?/)
   if (!pathRst || !pathRst[1]) return data
+  insertToolHtml()
   const scenarioName = pathRst[1]
   const nameData = await getNameData()
   const nameMap = Game.lang !== 'ja' ? nameData['enNameMap'] : nameData['jpNameMap']

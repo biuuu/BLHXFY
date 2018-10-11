@@ -5,11 +5,12 @@ let data = null
 const getLocalData = (type) => {
   if (data) return data[type]
   try {
-    const str = localStorage.getItem('blhxfy:data')
+    const str = sessionStorage.getItem('blhxfy:data')
     if (!str) return false
     data = JSON.parse(str)
     if (data.hash !== config.hash) {
       data = null
+      sessionStorage.removeItem('blhxfy:data')
       localStorage.removeItem('blhxfy:data')
       return false
     }
@@ -25,7 +26,7 @@ const setLocalData = (type, value) => {
   data[type] = value
   const str = JSON.stringify(data)
   try {
-    localStorage.setItem('blhxfy:data', str)
+    sessionStorage.setItem('blhxfy:data', str)
   } catch (err) {
     console.error(err)
   }

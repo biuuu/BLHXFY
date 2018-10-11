@@ -1,7 +1,6 @@
 import translate from './translate'
 
-const main = () => {
-  if (window.blhxfy) return
+const start = () => {
   // The following code are inspired by viramate/external.js
   // intercept xhr request and modify the response
   const XHR = XMLHttpRequest
@@ -153,4 +152,4 @@ const main = () => {
   }
 }
 
-main()
+export default start
