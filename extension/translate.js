@@ -53,7 +53,7 @@ export default async function translate(state) {
       await showVoiceSub(data, pathname, 'list')
     } else if (pathname.includes('/rest/multiraid/start.json')) {
       data = await transChat(data)
-    } else if (/\/rest\/multiraid\/condition\/\d+\/\d\/\d\.json/.test(pathname)) {
+    } else if (/\/rest\/.*?raid\/condition\/\d+\/\d\/\d\.json/.test(pathname)) {
       await transBuff(data.condition)
     } else {
       return

@@ -1,4 +1,4 @@
-import getSkillData from '../store/skill-npc'
+import getSkillData, { skillKeys } from '../store/skill-npc'
 import replaceTurn from '../utils/replaceTurn'
 import transBuff from './buff'
 
@@ -59,6 +59,21 @@ const getPlusStr = (str) => {
   return [plusStr, plusStr2]
 }
 
+const parseBuff = async (data) => {
+  for (let item of skillKeys) {
+    const key = item[0]
+    let ability = data[key]
+    if (!ability) {
+      if (!data.ability) continue
+      ability = data.ability[key]
+      if (!ability) continue
+    }
+    if (ability.ability_detail) {
+      await transBuff(ability.ability_detail)
+    }
+  }
+}
+
 const parseSkill = async (data, pathname) => {
   let npcId
   if (pathname.includes('/npc/npc/')) {
@@ -68,6 +83,8 @@ const parseSkill = async (data, pathname) => {
     if (!data.id) return data
     npcId = data.id
   }
+
+  await parseBuff(data)
 
   const skillState = await getSkillData(npcId)
   if (!skillState) return data
@@ -84,9 +101,7 @@ const parseSkill = async (data, pathname) => {
         ability = data.ability[key1]
         if (!ability) continue
       }
-      if (ability.ability_detail) {
-        await transBuff(ability.ability_detail)
-      }
+
       if (ability.recast_comment) {
         ability.recast_comment = replaceTurn(ability.recast_comment)
       }

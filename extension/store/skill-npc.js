@@ -83,3 +83,4 @@ const getSkillData = async (npcId) => {
 }
 
 export default getSkillData
+export { skillKeys }
