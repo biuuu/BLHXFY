@@ -1,0 +1,145 @@
+﻿id,en,jp,trans
+0-synopsis,,白竜騎士団の入団試験日、孤児院を出て王都フェードラッヘにやって来たふたりの少年、アーサーとモルドレッド。腹ごなしに入った飲食店で、ふたりは持ち合わせが足りず食い逃げしようとするが、ちょうど現れた本物の食い逃げ犯を捕まえる。様子を見ていたランスロットはふたりを称え、その場の支払いを持つが、「騎士道精神」無き者に騎士になる資格は無い、と忠告する。,白龙骑士团入团测试当天，两个少年——亚瑟和莫德雷德离开了孤儿院，来到王都菲德拉赫。二人为了饱腹来到一家餐馆，发现身上带的钱加起来也无法支付账单后正打算逃单，却出手抓住了另一个吃霸王餐的人。兰斯洛特恰好在旁目睹一切，表示愿意为二人买单，但忠告二人如果没有「骑士精神」是无法成为骑士的。
+1,,<span class='scene-font-katari'>ここは王都フェードラッヘの城下町。</span><br><span class='scene-font-katari'>大勢の人々が行き交い活気づく大通りを</span><br><span class='scene-font-katari'>二人の少年が歩いている。</span>,<span class='scene-font-katari'>王都菲德拉赫城中。两名少年行走在人来人往的大街上。</span>
+2,,<span class='scene-font-katari'>もの珍しそうに目を輝かせて</span><br><span class='scene-font-katari'>辺りを見回す金髪の少年と</span>,<span class='scene-font-katari'>一名满眼新奇打量四周的金发少年。</span>
+3,,<span class='scene-font-katari'>一歩引いた様子の黒髪の少年。</span>,<span class='scene-font-katari'>以及一名略显谨慎的黑发少年。</span>
+4,,うわぁ～！<br>王都って噂通り人だらけだなぁ～！,哇~！<br>王都和传闻中一样，真的到处都是人啊~！
+5,,あんまりキョロキョロしてると<br>イナカモンだってナメられるぞ。,你这样东张西望的，别人会看不起你这个没见过世面的乡下人的。
+6,,……ん？　くんくん……！,……嗯？ 嗅嗅……！
+7,,あの食堂からいい匂いがする！,那边的餐厅传来的味道好香！
+8,,おい……聞いてんのか？<br>飯より先にやることが──,喂……你在听我说话吗？<br>在吃饭之前我们还有要做的事——
+11,,…………,
+12,,……まぁ、あそこで<br>先に腹ごしらえしてもいいか……,……算了。<br>先去那边填饱肚子也行……
+13,,へへっ！<br>そうこなくっちゃ！,嘿嘿！<br>就得这样！
+19,,<span class='scene-font-katari'>お客でガヤガヤと賑わう</span><br><span class='scene-font-katari'>昼下がりの食堂。</span>,<span class='scene-font-katari'>晌午时分，两人来到这家宾客满座的餐馆。</span>
+20,,いやー、いよいよ今日からだなぁ<br>ランちゃん。,哎呀，今天终于要开始了啊，兰酱。
+21,,なんとか間に合ってよかった。,能赶上真是太好了。
+22,,ランちゃん、この日のために<br>色んな人を説得したりして、<br>ホント頑張ってたもんな～,你为了今天到处说服各种人，真的很努力啊~
+23,,これもお前の協力のおかげだ、<br>ありがとう、ヴェイン。,也多亏了你帮忙，多谢了，维恩。
+24,,わはははっ！　いいってことよ！<br>後でジークフリートさんや<br>パーさんにもお礼しないとな！,啊哈哈哈！ 没什么！<br>我们还得向齐格飞先生和帕先生道谢呢！
+25,,そうだな。,是啊。
+26,,ここんところ王都も<br>騒がしかったからな～,毕竟最近王都也不太平啊~
+27,,ああ、イザベラの暗躍に始まり、<br>ウェールズの騒動も収まって──,嗯，经历了伊莎贝拉的阴谋，还有维尔兹家的骚乱……
+28,,王都の緊張した空気も<br>ようやく落ち着いたな。,王都紧张的气氛也总算消散了。
+29,,だからこそ、<br>今のうちに騎士団を<br>強化しとくべきだよな～,所以得趁现在强化骑士团的战力才行啊~
+30,,これを機に優秀な<br>人材が集まってくれると良いんだが……,要是能借此机会招募到优秀的人才就好了……
+33,,<span class='scene-font-katari'>ランスロットとヴェインの</span><br><span class='scene-font-katari'>すぐ後ろで、先ほどの二人の少年が</span><br><span class='scene-font-katari'>食事をとっていた。</span>,<span class='scene-font-katari'>就在兰斯洛特与维恩的后方，方才的两名少年已经饱餐一顿。</span>
+35,,あ～っ！　食べた食べたぁ。<br>こんなウマいパンはじめてかも。,啊~！啊~！吃饱了吃饱了。<br>好像是第一次吃到这么好吃的面包。
+36,,よし、そろそろ時間も<br>迫ってるし行くか。,好了，时间也差不多了，我们走吧。
+38,,あ……,啊……
+39,,どうした？,怎么了？
+40,,お金が……,钱……
+41,,……足りないのか？,……钱不够？
+42,,仕方ねーな。<br>オレの財布から多めに<br>払っといていいぞ。,真没办法。<br>先用我的钱付吧。
+43,,見て……<br>この値段見て……？,看啊……<br>要这个价……！
+44,,なっ！　王都の飯屋って<br>こんなに高いのかよ……,什么！ 王都的餐馆价格这么贵的吗……
+45,,どうする……？,怎么办……？
+46,,くそっ……どうするって<br>時間もないし、やるしか<br>方法がないだろ？,可恶……你说怎么办？<br>已经没时间了，只能跑了呗？
+47,,でも……俺達騎士になるから<br>もうやらないって──,可是……我们要成为骑士的，不是说好要改过自新的吗——
+48,,ああ……<br>だからこれで最後だ……,是啊……<br>所以这是最后一次……
+49,,うん……,嗯……
+50,,<span class='scene-font-katari'>二人はお互いの目を見て</span><br><span class='scene-font-katari'>こくりと頷き合う。</span>,<span class='scene-font-katari'>两人看着彼此，轻轻点头。</span>
+51,,<span class='scene-font-2'>よし……じゃあ、あの店員が</span><br><span class='scene-font-2'>奥に行ったら出るぞ。</span>,<span class='scene-font-2'>那好……等那个店员去里面，我们就走。</span>
+52,,<span class='scene-font-2'>わかった。</span>,<span class='scene-font-2'>好。</span>
+53,,<span class='scene-font-2'>よし、今だ。</span><br><span class='scene-font-2'>いくぞ。</span>,<span class='scene-font-2'>就是现在。走了。</span>
+54,,<span class='scene-font-2'>……！</span>,
+55,,<span class='scene-font-katari'>二人の少年は堂々とした様子で</span><br><span class='scene-font-katari'>入り口の方へ歩いていく。</span>,<span class='scene-font-katari'>两名少年毫不畏缩地朝大门走去。</span>
+57,,<span class='scene-font-4'>ちょっと！</span><br><span class='scene-font-4'>食い逃げよ～っ！</span>,<span class='scene-font-4'>喂！有人吃霸王餐~！</span>
+58,,<span class='scene-font-4'>！！</span>,
+59,,<span class='scene-font-4'>くそっ！</span><br>バレたか！,<span class='scene-font-4'>可恶啊！</span><br>暴露了！
+61,,あっ、逃げるわ！<br>早く誰か捕まえて～っ！,啊，他要逃了！<br>有没有人快把他抓住~！
+62,,ヴェイン。,维恩。
+63,,あいよランちゃん！,好嘞兰酱！
+64,,<span class='scene-font-katari'>ランスロットとヴェインが</span><br><span class='scene-font-katari'>食い逃げを捕まえようとした瞬間、</span><br><span class='scene-font-katari'>二つの小さな影が躍り出た。</span>,<span class='scene-font-katari'>正当兰斯洛特和维恩准备抓住逃单的客人，两个小小的身影冲了出来。</span>
+67,,<span class='scene-font-4'>だあっ！</span>,<span class='scene-font-4'>哈啊！</span>
+68,,<span class='scene-font-4'>ぐあっ！</span>,<span class='scene-font-4'>呃啊！</span>
+70,,ほらよ。,看招。
+71,,<span class='scene-font-katari'>金髪の少年が食い逃げ犯に足をかけて</span><br><span class='scene-font-katari'>転倒したところを、黒髪の少年が</span><br><span class='scene-font-katari'>締め上げて身柄を拘束する。</span>,<span class='scene-font-katari'>金发少年一脚绊到逃单人，黑发少年立即上前封住了他的行动。</span>
+72,,<span class='scene-font-katari'>息の合ったコンビネーションに</span><br><span class='scene-font-katari'>店内の人々が思わず歓声を上げた。</span>,<span class='scene-font-katari'>一通默契的配合引来了店内顾客的欢呼。</span>
+73,,く……くそっ！<br>なんだこの汚ねぇクソガキ共は！,可、……可恶！<br>你们这俩邋遢的臭小孩怎么回事！
+74,,<span class='scene-font-4'>なんだと、テメェ！</span>,<span class='scene-font-4'>你说什么！</span>
+75,,そこまでだ。<br>もう勝負はついている。,够了。<br>胜负已分。
+76,,<span class='scene-font-katari'>こぶしを振り下ろそうとした</span><br><span class='scene-font-katari'>黒髪の少年を</span><br><span class='scene-font-katari'>制止するランスロット。</span>,<span class='scene-font-katari'>兰斯洛特上前制止了黑发少年准备挥下的拳头。</span>
+77,,ヒュ～！　元気いいな少年達！<br>後は俺達に任せてくれ！,呼~！你们动作可真快！<br>接下来交给我们吧！
+78,,……アンタらはドチラ様？,……你们是谁啊？
+79,,この店の常連だよ。<br>怪我はなかったか？,是这家店的常客。<br>你们没受伤吧？
+80,,うん、大丈夫。,嗯，没有。
+81,,しっかしさっきの連携、<br>ふたりとも若いのにやるねぇ～！,不过，你们刚才配合得真不错，年纪轻轻已经有两下子了啊~！
+82,,まぁ……<br>別にこれくらいフツーだろ。,还行吧……<br>这不是挺普通的么。
+83,,ああ！　なんたって俺達、<br>騎士になるんだからな！,嗯！ 毕竟我们要成为骑士的！
+84,,<span class='scene-font-katari'>騎士という言葉を聞いた</span><br><span class='scene-font-katari'>ランスロットは、</span><br><span class='scene-font-katari'>急に真剣な表情に変わる。</span>,<span class='scene-font-katari'>听到骑士二字，兰斯洛特的表情立即严肃起来。</span>
+85,,そうか……騎士になるのか。<br>君たち、名前は？,是么……你们要成为骑士啊。<br>你们叫什么名字？
+86,,……まずはアンタが先に名乗れって。,……你先报上名来吧。
+87,,これは失礼。<br>俺はランスロットだ。,是我失礼了。<br>我叫兰斯洛特。
+88,,俺はヴェイン！<br>ヨロシクな！,我叫维恩！<br>多指教咯！
+89,,俺はアーサー！,我叫亚瑟！
+90,,モルドレッドだ。,莫德雷德。
+91,,<span class='scene-font-katari'>アーサーとモルドレッドの名前を</span><br><span class='scene-font-katari'>聞いて穏やかに微笑むランスロット。</span>,<span class='scene-font-katari'>听了亚瑟与莫德雷德的名字，兰斯洛特浮起淡淡的笑容。</span>
+92,,モルドレッド、アーサー<br>ところで、もうお会計は済ませたか？,话说回来，莫德雷德，亚瑟，你们结完账了吗？
+93,,……えっ？,……咦？
+94,,お、お会計……？,结、结账……？
+95,,そうか……<br>その様子だとまだだったか？,是么……<br>看样子还没有呢。
+96,,あ、ああ……,嗯……
+97,,今払おうと思ってたところだ！,我们正想结账呢！
+98,,そうそう！,没错！
+99,,えっと……財布財布……,呃……钱包在哪……
+100,,……ヴェイン、景気づけに<br>ふたりのお会計を<br>俺達で払ってやろう。,……维恩，要不我们帮他们把账结了吧。
+101,,ははっ！　そりゃいい考えだな！,哈哈！这个主意不错！
+102,,あっ！　おばちゃん！<br>この二人のメシ代さぁ、<br>俺達のおごりにするからつけといて！,阿姨！<br>那两人的账单我们来付！
+103,,あいよヴェインちゃん！<br>ランスロットさん！<br>今日もお仕事頑張ってね！,好嘞维恩仔！<br>兰斯洛特！<br>今天的工作也要加油哦！
+104,,はい、また。,好的，那再见了。
+105,,ありがとおばちゃん！<br>またご飯食べに来るぜー！,谢谢阿姨！<br>我们改天再来！
+106,,<span class='scene-font-katari'>モルドレッドとアーサーは</span><br><span class='scene-font-katari'>ばつが悪そうにうつむく。</span>,<span class='scene-font-katari'>莫德雷德和亚瑟有些羞愧地低下了头。</span>
+107,,最後に一つ……<br>ふたりに助言をしておこう。,对了……最后再给你们一个忠告。
+108,,もし君たちが本気で騎士を目指すなら、<br>「騎士道精神」を忘れないことだ。,如果你们当真要成为骑士，就不要忘了「骑士精神」。
+109,,「騎士道精神」無き者に……<br>騎士になる資格は無い。,没有「骑士精神」……就没有资格成为骑士。
+110,,<span class='scene-font-katari'>モルドレッドとアーサーの顔を見て</span><br><span class='scene-font-katari'>真剣に語りかけるランスロット。</span>,<span class='scene-font-katari'>兰斯洛特看着莫德雷德和亚瑟的脸，认真地说道。</span>
+111,,おっと……そろそろ時間だ……<br>行くぞ、ヴェイン。,哎……时间差不多了……<br>走吧，维恩。
+112,,ああ！<br>それじゃあ二人とも、またな！,哦！那你们两个，再见咯！
+113,,<span class='scene-font-katari'>そのまま食い逃げ犯を連行して</span><br><span class='scene-font-katari'>城の方へ向かう</span><br><span class='scene-font-katari'>ランスロットとヴェイン。</span>,<span class='scene-font-katari'>说着，兰斯洛特和维恩带着逃单的犯人向城堡的方向走去。</span>
+114,,…………なんだアイツ。<br>偉そうにお説教かよ。,…………那家伙怎么回事。<br>想对我们说教啊。
+115,,な、なんか知らないけど<br>ラッキー……,虽、虽然不太清楚，但是我们太幸运了……
+116,,ツイてるな。<br>幸先いいぞ、これは。,是啊。<br>这是个好兆头。
+117,,<span class='scene-font-katari'>立ち尽くす二人は</span><br><span class='scene-font-katari'>ランスロットとヴェインの背中を</span><br><span class='scene-font-katari'>眺めていた。</span>,<span class='scene-font-katari'>两人站在原地目送兰斯洛特和维恩的背影远去。</span>
+118,,<span class='scene-font-katari'>道すがら兵士たちと挨拶を交わす</span><br><span class='scene-font-katari'>様子を見て、アーサーは首をかしげる。</span>,<span class='scene-font-katari'>看着他们沿途与士兵互相问候的样子，亚瑟有些好奇地问道。</span>
+119,,あの二人、騎士なのかな……？<br>フェードラッヘの。,他们两个，是骑士吗……？菲德拉赫的骑士？
+120,,さぁな……ん、待てよ。<br>ランスロットって言えば、<br>白竜騎士団の団長と同じ名前か？,谁知道……唔，等一下。<br>白龙骑士团的团长是不是就叫兰斯洛特？
+121,,えっ？<br>じゃああの人が団長……,咦？<br>那刚才那个人就是团长……？
+122,,まさか！　偶然同じ名前なだけだろ？<br>それよりオレ達も早く行こうぜ！,怎么会！ 碰巧重名吧？<br>比起这个，我们赶紧出发吧！
+123,,おうっ！,哦！
+129,,<span class='scene-font-katari'>食堂を出たふたりは、</span><br><span class='scene-font-katari'>他の受験生の流れに沿って</span><br><span class='scene-font-katari'>城の方角へ歩を進める。</span>,<span class='scene-font-katari'>两人走出餐馆，随着参加考试的人群向城堡走去。</span>
+135,,<span class='scene-font-katari'>城の前では、白竜騎士団員が</span><br><span class='scene-font-katari'>試験会場への案内をしている。</span>,<span class='scene-font-katari'>城堡前有一些白龙骑士团的团员负责带领考生前往会场。</span>
+136,,<span class='scene-font-katari'>ふたりは立ち止まり、</span><br><span class='scene-font-katari'>横に並び眼前の城を見上げた。</span>,<span class='scene-font-katari'>两名少年停下脚步，仰望眼前的城堡。</span>
+137,,うわー<br>城、でっかぁ……,哇——城堡好大啊……
+138,,なんだよ……ビビってんのか？,怎么……你怕了？
+139,,ん～……,唔~……
+140,,なんかワクワクするかな！,感觉好兴奋哦！
+141,,だよな。その調子だ。,没错，这样才行。
+142,,<span class='scene-font-katari'>モルドレッドとアーサーは、</span><br><span class='scene-font-katari'>腰に下げられた袋の中に手を</span><br><span class='scene-font-katari'>伸ばして何かを握りしめる。</span>,<span class='scene-font-katari'>莫德雷德和亚瑟从腰间的袋子里掏出了某物，紧紧攥在手中。</span>
+148,,モルドレッド、アーサー……<br>これはね、院のみんなで作ったお守り。<br>持って行って……,莫德雷德，亚瑟……<br>这是孤儿院的大家一起做的护身符。<br>你们带去吧……
+149,,ありがとう、シスター,谢谢你，修女。
+150,,ありがと。,谢了。
+151,,それじゃ、みんな……<br>行ってくるね！,那，大家再见……<br>我们走了！
+152,,うっ……ううっ……<br>行ってらっしゃい。,呜……呜……<br>路上小心。
+153,,ひぐっ……<br>いってらっしゃ～い……！,呜……<br>一路平安~……！
+154,,<span class='scene-font-katari'>二人の姿を泣きながら見送る</span><br><span class='scene-font-katari'>シスターと子供たち。</span>,<span class='scene-font-katari'>修女和其他孩子们哭着送别两人。</span>
+155,,あ～あ、だから見送りなんて<br>オレは嫌だったんだよ……<br>絶対湿っぽくなるんだから。,啊～所以我不想让你们送……<br>搞得这么伤感。
+156,,でも……<br>俺はお別れの挨拶は<br>ちゃんとしたい。,可是……<br>我想和大家好好道别。
+157,,ああ、わかってるよ。<br>だからしてるだろ？,我知道啊。<br>所以不是搞了吗？
+158,,……あ、どうしよう。<br>なんか少しさみしくなって来たかも……,……啊，怎么办。<br>感觉有些寂寞了……
+159,,あーあー<br>オマエは残ってもいいんだぞ？,啊——<br>那你留下也行啊？
+160,,いいや！<br>俺は絶対王都で騎士団長になる！,不行！<br>我绝对要成为王都的骑士团长！
+161,,ふふっ……ふたりとも<br>それだけ元気なら安心ね。,呵呵……你们两个这么精神，我们就放心了。
+162,,王都に着いたら<br>まず手紙を書くのよ？<br>それから……,到了王都要给我们写信哦？<br>还有……
+163,,……シスター<br>オレ達出発できなくなるから<br>もう行くよ？,……修女，这样下去我们没法出发了，可以放我们走了吗？
+164,,ああ！<br>俺達ふたりなら心配いらないからさ！,嗯！<br>我们两个没问题的，不用担心我们！
+165,,私のかわいい子供たちに<br>幸多からんことを……,但愿我的好孩子们能够一切顺利……
+166,,<span class='scene-font-katari'>孤児院の前でシスターと</span><br><span class='scene-font-katari'>子供たちに別れを告げた二人は、</span><br><span class='scene-font-katari'>王都に向かって一歩踏み出した。</span>,<span class='scene-font-katari'>两人在孤儿院前与修女孩子们告别后，便向王都启程。</span>
+172,,いくぞ、アーサー,走了，亚瑟。
+173,,うん……！,嗯……！
+174,,どっちが早く騎士団長に<br>なれるか勝負だ！,来比比谁先成为骑士团长吧！
+175,,望むところだ。<br>ぜってぇ負けねぇ。,正合我意。<br>我不会输的。
+176,,俺だって、負けるもんか！,我也不会输的！
+177,,<span class='scene-font-katari'>二人の少年は、</span><br><span class='scene-font-katari'>王都の騎士になるための一歩を</span><br><span class='scene-font-katari'>今、踏み出したのだった。</span>,<span class='scene-font-katari'>两名少年以成为王都的骑士为目标迈出了脚步。</span>
+178,,<span class='scene-font-katari'>雲一つない快晴の空は、</span><br><span class='scene-font-katari'>白竜騎士団入団試験の</span><br><span class='scene-font-katari'>開催日を祝うかのようだった。</span>,<span class='scene-font-katari'>万里无云的天空像在祝福白龙骑士团入团测验的首日。</span>
+info,,1,scene_evt171130_cp0_q1_s10
