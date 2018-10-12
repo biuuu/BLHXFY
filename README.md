@@ -1,9 +1,13 @@
 # 碧蓝幻想微风机翻团
 ## 前言
 目前大部分功能已通过浏览器插件的方式实现，甚至比原来的客户端程序有更多的功能。
-非翻译人员强烈建议直接使用插件，关于插件的使用说明：https://github.com/biuuu/BLHXFY/tree/master/extension
+非翻译人员强烈建议直接使用插件，关于插件的使用说明：https://github.com/biuuu/BLHXFY/blob/master/extension/README.md
 
 如果你有兴趣加入翻译，请再往下看。
+
+请停一下，由于插件 v0.12.0 更新了提取和预览剧情的功能，所以做剧情翻译也不必下载下面的工具了，直接使用插件就可以。
+
+但下面关于剧情翻译的说明仍然值得看一下。
 
 ## 简介
 下载：https://github.com/biuuu/BLHXFY/releases
