@@ -4,16 +4,20 @@ import fetchData from '../fetch'
 import config from '../config'
 import insertToolHtml from '../story/insertToolHtml'
 import cloneDeep  from 'lodash/cloneDeep'
+import { getPreviewCsv } from '../utils/'
 
 const txtKeys = ['chapter_name', 'synopsis', 'detail', 'sel1_txt', 'sel2_txt', 'sel3_txt', 'sel4_txt']
 
 const getScenario = async (name) => {
-  const scenarioData = await fetchData('/blhxfy/data/scenario.json')
-  const pathname = scenarioData[name]
-  if (!pathname) {
-    return { transMap: null, csv: '' }
+  let csv = getPreviewCsv(name)
+  if (!csv) {
+    const scenarioData = await fetchData('/blhxfy/data/scenario.json')
+    const pathname = scenarioData[name]
+    if (!pathname) {
+      return { transMap: null, csv: '' }
+    }
+    csv = await fetchData(`/blhxfy/data/scenario/${pathname}`)
   }
-  const csv = await fetchData(`/blhxfy/data/scenario/${pathname}`)
   const list = parseCsv(csv)
   const transMap = new Map()
   list.forEach(item => {

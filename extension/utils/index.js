@@ -34,4 +34,28 @@ const replaceWords = (str, map, lang = 'en') => {
   return _str
 }
 
-export { trim, tryDownload, replaceWords }
+const getPreview = () => {
+  const str = sessionStorage.getItem('blhxfy:preview')
+  let data = []
+  if (str) {
+    try {
+      data = JSON.parse(str)
+    } catch (e) {
+      console.error(e)
+    }
+  }
+  return data
+}
+
+const getPreviewCsv = (name) => {
+  const data = getPreview()
+  let csv = ''
+  for (let item of data) {
+    if (item.name === name) {
+      csv =  item.csv
+    }
+  }
+  return csv
+}
+
+export { trim, tryDownload, replaceWords, getPreview, getPreviewCsv }

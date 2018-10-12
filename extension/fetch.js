@@ -1,6 +1,5 @@
 import EventEmitter  from 'events'
 import config from './config'
-import { getLocalData } from './store/local-data'
 
 const { origin } = config
 let ee = new EventEmitter()
@@ -45,13 +44,13 @@ const fetchData = async (pathname) => {
   })
 }
 
-const getHash = fetchData('/blhxfy/manifest.json')
-  .then(data => {
-    config.hash = data.hash
-    getLocalData('hash')
-    insertCSS(data.hash)
-    return data.hash
-  })
+const getHash = fetchData('/blhxfy/manifest.json').then(data => data.hash)
+
+getHash.then(hash => {
+  config.hash = hash
+  insertCSS(hash)
+  return hash
+})
 
 const fetchWithHash = async (pathname) => {
   const hash = await getHash
@@ -73,3 +72,4 @@ const receiveMessage = (event) => {
 window.addEventListener("message", receiveMessage, false)
 
 export default fetchWithHash
+export { getHash }

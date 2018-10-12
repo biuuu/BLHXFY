@@ -1,14 +1,16 @@
 import config from '../config'
+import { getHash } from '../fetch'
 
 let data = null
 
-const getLocalData = (type) => {
+const getLocalData = async (type) => {
   if (data) return data[type]
+  const hash = await getHash
   try {
     const str = sessionStorage.getItem('blhxfy:data')
     if (!str) return false
     data = JSON.parse(str)
-    if (data.hash !== config.hash) {
+    if (data.hash !== hash) {
       data = null
       sessionStorage.removeItem('blhxfy:data')
       localStorage.removeItem('blhxfy:data')
