@@ -3,15 +3,18 @@ import parseCsv from '../utils/parseCsv'
 import fetchData from '../fetch'
 import config from '../config'
 import insertToolHtml from '../story/insertToolHtml'
+import cloneDeep  from 'lodash/cloneDeep'
 
 const txtKeys = ['chapter_name', 'synopsis', 'detail', 'sel1_txt', 'sel2_txt', 'sel3_txt', 'sel4_txt']
 
 const getScenario = async (name) => {
   const scenarioData = await fetchData('/blhxfy/data/scenario.json')
   const pathname = scenarioData[name]
-  if (!pathname) return false
-  const data = await fetchData(`/blhxfy/data/scenario/${pathname}`)
-  const list = parseCsv(data)
+  if (!pathname) {
+    return { transMap: null, csv: '' }
+  }
+  const csv = await fetchData(`/blhxfy/data/scenario/${pathname}`)
+  const list = parseCsv(csv)
   const transMap = new Map()
   list.forEach(item => {
     if (item.id) {
@@ -23,7 +26,7 @@ const getScenario = async (name) => {
       transMap.set(id, obj)
     }
   })
-  return transMap
+  return { transMap, csv }
 }
 
 const getNameTrans = (name, map, scenarioName) => {
@@ -94,18 +97,29 @@ const replaceChar = (key, item, map, scenarioName) => {
   }
 }
 
+const scenarioCache = {
+  data: null,
+  name: '',
+  hasTrans: false,
+  csv: ''
+}
+
 const transStart = async (data, pathname) => {
   const pathRst = pathname.match(/\/scenario.*?\/(scene[^\/]+)\/?/)
   if (!pathRst || !pathRst[1]) return data
   insertToolHtml()
   const scenarioName = pathRst[1]
+  scenarioCache.data = cloneDeep(data)
+  scenarioCache.name = scenarioName
+  scenarioCache.hasTrans = false
+  const { transMap, csv } = await getScenario(scenarioName)
+  if (!transMap) return data
+  scenarioCache.hasTrans = true
+  scenarioCache.csv = csv
   const nameData = await getNameData()
   const nameMap = Game.lang !== 'ja' ? nameData['enNameMap'] : nameData['jpNameMap']
 
-  const transMap = await getScenario(scenarioName)
-  if (!transMap) return data
-
-  data.forEach((item, index) => {
+  data.forEach((item) => {
     let name1, name2, name3
     name1 = replaceChar('charcter1_name', item, nameMap, scenarioName)
     name2 = replaceChar('charcter2_name', item, nameMap, scenarioName)
@@ -134,3 +148,5 @@ export default async function (data, pathname) {
     return data
   }
 }
+
+export { scenarioCache }
