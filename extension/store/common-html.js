@@ -13,7 +13,7 @@ const trim = (str) => {
 
 const getCommHtmlData = async () => {
   if (!loaded) {
-    let csv = getLocalData('common-html')
+    let csv = await getLocalData('common-html')
     if (!csv) {
       csv = await fetchData('/blhxfy/data/common-html.csv')
       setLocalData('common-html', csv)

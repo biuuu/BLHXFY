@@ -10,7 +10,7 @@ const buffMap = {
 let loaded = false
 
 const getData = async (type) => {
-  let csv = getLocalData(type)
+  let csv = await getLocalData(type)
   if (!csv) {
     csv = await fetchData(`/blhxfy/data/${type}.csv`)
     setLocalData(type, csv)

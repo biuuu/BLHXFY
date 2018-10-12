@@ -12,7 +12,7 @@ const trim = (str) => {
 
 const getChatData = async () => {
   if (!loaded) {
-    let csv = getLocalData('chat-preset')
+    let csv = await getLocalData('chat-preset')
     if (!csv) {
       csv = await fetchData('/blhxfy/data/chat-preset.csv')
       setLocalData('chat-preset', csv)

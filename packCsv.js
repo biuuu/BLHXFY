@@ -159,7 +159,7 @@ const extensionBanner = `// ==UserScript==
 // ==/UserScript==`
 gulp.task('extension', ['clean:dist', 'extensionEx', 'extensionIOS', 'rewrite-script'], async function () {
   const bundle = await rollup.rollup({
-    input: './extension/xhr.js',
+    input: './extension/main.js',
     plugins: [
       resolve({ preferBuiltins: false }),
       cmjs({ ignore: ['stream'] }),
@@ -199,7 +199,7 @@ const extensionBanner2 = `// ==UserScript==
 
 gulp.task('extensionEx', ['clean:dist'], async function () {
   const bundle = await rollup.rollup({
-    input: './extension/xhr.js',
+    input: './extension/main.js',
     plugins: [
       resolve({ preferBuiltins: false }),
       cmjs({ ignore: ['stream'] }),
@@ -224,7 +224,7 @@ gulp.task('extensionEx', ['clean:dist'], async function () {
 
 gulp.task('extensionIOS', ['clean:dist'], async function () {
   const bundle = await rollup.rollup({
-    input: './extension/xhr.js',
+    input: './extension/main.js',
     plugins: [
       resolve({ preferBuiltins: false }),
       cmjs({ ignore: ['stream'] }),

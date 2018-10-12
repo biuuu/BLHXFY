@@ -37,7 +37,7 @@ const nameWithScenario = (list, key = 'name') => {
 
 const getLangMsgData = async () => {
   if (!loaded) {
-    let langMsg = getLocalData('langMsg')
+    let langMsg = await getLocalData('langMsg')
     if (!langMsg) {
       langMsg = await fetchData('/blhxfy/data/lang-msg.csv')
       setLocalData('langMsg', langMsg)
