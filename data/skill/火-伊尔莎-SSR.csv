@@ -1,5 +1,5 @@
 ﻿id,name,detail
-npc,伊尔莎,3040177000
+npc,伊鲁萨,3040177000
 special,爆裂抹杀,火属性伤害(特大)/敌方mode条减少
 skill-1,噬影者,对敌方全体造成火属性伤害/命中率DOWN
 skill-2,未来新星,<div class=prt-text-small>对敌方全体造成5倍火属性伤害/防御DOWN(累积)<span class=text-blue><br>◆3回合内回合结束时对敌扫射对星炸裂穿甲弹</span></div>
