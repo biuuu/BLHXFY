@@ -2403,7 +2403,7 @@ start_recast_1,使用可能: %sターン後,Ready in %s turn,%s回合后可使�
 start_recast_2,使用可能,Ready,可使用
 start_recast_3,使用済み,Already used,已使用
 staticpage_1,課金アイテム確認,,
-staticpage_2,ストーリーTOPに戻る,,
+staticpage_2,ストーリーTOPに戻る,回到剧情TOP,
 summon_lyria_1,ルリアが召喚不可状態<br>のため召喚できません。,You aren't able to use summons now.,露丽亚当前无法发动召唤。
 summon_lyria_2,ルリアが倒れたため召喚できません。,Lyria has been knocked out. You can't use summons.,露丽亚已倒下，无法召唤
 survival_mode_1,サバイバルモード,SURVIVAL MODE,生存模式
