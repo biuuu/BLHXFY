@@ -2169,7 +2169,7 @@ shop_exchange_16,残り%s1%s2,%s1%s2 left,还剩%s1%s2
 shop_exchange_17,（所持数　%s）,(Held: %s),
 shop_exchange_18,ルピの所持限界を超えてしまうため<br>売却できません。,You can't sell this. You have too many rupies.,您的卢比满额，无法出售。
 shop_exchange_19,所持数が不足しているため<br>売却できません。,You don't have enough to sell.,所持不足，无法出售。
-shop_exchange_2,冒険で手に入れたトレジャーと<br>アイテムの交換ができちゃいます～,I'll trade you for treasures<br>you find on your adventure.,在这里可以用冒险中获得的物品和道具兑换商品哦~
+shop_exchange_2,冒険で手に入れたトレジャーと<br>アイテムの交換ができちゃいます～,I'll trade you for treasures<br>you find on your adventure.,在这里可以用冒险中获得的物品<br>和道具兑换商品哦~
 shop_exchange_20,売却確認,Sell,确认出售
 shop_exchange_21,売却,Sell,出售
 shop_exchange_22,売却不可,Sell,无法出售
@@ -2403,7 +2403,7 @@ start_recast_1,使用可能: %sターン後,Ready in %s turn,%s回合后可使�
 start_recast_2,使用可能,Ready,可使用
 start_recast_3,使用済み,Already used,已使用
 staticpage_1,課金アイテム確認,,
-staticpage_2,ストーリーTOPに戻る,,
+staticpage_2,ストーリーTOPに戻る,回到剧情TOP,
 summon_lyria_1,ルリアが召喚不可状態<br>のため召喚できません。,You aren't able to use summons now.,露丽亚当前无法发动召唤。
 summon_lyria_2,ルリアが倒れたため召喚できません。,Lyria has been knocked out. You can't use summons.,露丽亚已倒下，无法召唤
 survival_mode_1,サバイバルモード,SURVIVAL MODE,生存模式

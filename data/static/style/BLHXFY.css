@@ -536,11 +536,11 @@ body .prt-scene-comment .prt-message-area {
   align-items: center;
   white-space: pre-line;
   border-radius: 12px;
-  box-shadow: #00000085 0px 0 6px 4px;
+  box-shadow: rgba(0,0,0,0.5) 0px 0 6px 4px;
   padding: 12px;
   display: inline-flex;
   min-height: 24px;
-  background-color: #e4dbc6fa;
+  background-color: rgba(228, 219, 198, 0.96);
   z-index: 99;
   transform: translate(-50%, -50%);
   backface-visibility: hidden;

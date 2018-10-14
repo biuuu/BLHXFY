@@ -3,14 +3,14 @@ id,en,jp,trans
 0-synopsis,,エリカ達の活躍により、一同は街に現れた降魔を一掃する。さらには葵叉丹の妖力の計測にも成功し、エリカの描いた真っ黒な絵から、葵叉丹の本拠地がアガスティアであることが判明する。こうして姬塔達は、大神、エリカと共に、葵叉丹の本拠地へと乗り込むことを決める。,因为艾丽卡等人的努力，在街道上出现的降魔被一扫而空。而且对葵叉丹的妖力测量也获得成功，从艾丽卡画下的纯黑的图画里，众人获知葵叉丹的大本营处于阿加斯蒂亚。于是姬塔一行人和大神、艾丽卡一同决定奔向葵叉丹的大本营。
 0,,<span class='scene-font-katari'>エリカ達の活躍により、</span><br><span class='scene-font-katari'>街に出没した降魔達は撃退された。</span>,<span class='scene-font-katari'>由于艾丽卡等人的努力，</span><br><span class='scene-font-katari'>街道上出现的降魔悉数被击退。</span>
 1,,<span class='scene-font-katari'>敵に居場所を悟られた大神達であったが</span><br><span class='scene-font-katari'>叉丹と接触できたのは幸運とも言えた。</span>,<span class='scene-font-katari'>对于大神等人来讲虽然被敌人得知了所在地，</span><br><span class='scene-font-katari'>但是能够与叉丹进行接触可谓幸运。</span>
-2,,<span class='scene-font-katari'>これまで計測に失敗していた</span><br><span class='scene-font-katari'>葵叉丹の妖力を掴む事に</span><br><span class='scene-font-katari'>遂に成功したのである。</span>,<span class='scene-font-katari'>因为至今为止都失败了的</span><br><span class='scene-font-katari'>对葵叉丹的妖力的测量</span><br><span class='scene-font-katari'>终于在这次获得了成功。</span>
-3,,叉丹の妖力を計測できたのはいいが<br>整備ができていないから、<br>妖力計の精度が落ちているな……,叉丹の妖力を計測できたのはいいが<br>整備ができていないから、<br>妖力計の精度が落ちているな……
+2,,<span class='scene-font-katari'>これまで計測に失敗していた</span><br><span class='scene-font-katari'>葵叉丹の妖力を掴む事に</span><br><span class='scene-font-katari'>遂に成功したのである。</span>,<span class='scene-font-katari'>因为至今为止都失败了的</span><br><span class='scene-font-katari'>对葵叉丹的妖力测量</span><br><span class='scene-font-katari'>终于在这次获得了成功。</span>
+3,,叉丹の妖力を計測できたのはいいが<br>整備ができていないから、<br>妖力計の精度が落ちているな……,虽然成功对叉丹的妖力进行计测<br>由于没有整备的缘故，<br>妖力计的精度下降了……
 4,,…………,…………
 5,,エリカくん？<br>どうしたんだい？<br>妖力計と睨み合って……,艾丽卡君？<br>你怎么了？<br>一直盯着妖力计……
 6,,むむむむむ……！,姆姆姆姆姆……！
 7,,はいはーい！<br>わたし、わかっちゃいました！,好的好的！<br>我明白了！
 8,,エリカくん！？<br>何が分かったんだい？,艾丽卡君！？<br>你明白什么了？
-9,,神さまの奇跡です！,明白了神的奇迹！
+9,,神さまの奇跡です！,这是神的奇迹！
 10,,今、ちょっとだけ<br>サンタさんの偽物のいる場所が<br>見えたんです。,刚才我看到一眼<br>那个假圣诞老人的所在地了。
 11,,なんだってぇ！？,你说什么！？
 12,,すぐに絵を描きますね！<br>えっと、紙とペン、紙とペン……,我马上画下来！<br>纸和笔、纸和笔……
@@ -34,7 +34,7 @@ id,en,jp,trans
 31-sel1_txt,,<span class='scene-font-katari'>粉骨砕身の覚悟でがんばります</span>,<span class='scene-font-katari'>我会怀着粉身碎骨的觉悟努力的</span>
 31-sel2_txt,,<span class='scene-font-katari'>自信はないけど、やってみるよ</span>,<span class='scene-font-katari'>虽然没什么自信，我会试试看</span>
 34,,ははは！　いい言葉を知ってるな！<br>よろしくな、姬塔くん。,哈哈哈！你还懂这个好词儿！<br>拜托你了，姬塔君。
-35,,<span class='scene-font-katari'>空域にはびこる降魔の脅威が長引けば、</span><br><span class='scene-font-katari'>星の島に向かう旅も</span><br><span class='scene-font-katari'>上手くはこばないだろう。</span>,<span class='scene-font-katari'>如果在空域中降魔的威胁持续下去的话，</span><br><span class='scene-font-katari'>恐怕去向星之岛的旅行也不会顺利。</span><br><span class='scene-font-katari'></span>
+35,,<span class='scene-font-katari'>空域にはびこる降魔の脅威が長引けば、</span><br><span class='scene-font-katari'>星の島に向かう旅も</span><br><span class='scene-font-katari'>上手くはこばないだろう。</span>,<span class='scene-font-katari'>如果在空域中降魔的威胁持续下去的话，</span><br><span class='scene-font-katari'>恐怕去星之岛的旅行也不会顺利。</span><br><span class='scene-font-katari'></span>
 36,,<span class='scene-font-katari'>その事を思い、</span><br><span class='scene-font-katari'>姬塔は力強くうなずいた。</span>,<span class='scene-font-katari'>想到这里，</span><br><span class='scene-font-katari'>姬塔重重地点了头。</span>
 37,,お？　自信がないだなんて<br>珍しいじゃねえか。<br>気が進まねえってのか？,哦？你说你没自信可真稀奇。<br>不是很想去吗？
 38,,そうですね……その気持ちも<br>わかります。あの降魔という魔物、<br>ちょっと、怖いですもんね……,说的是呢……我懂你那种感觉。<br>毕竟那个叫降魔的魔物有点恐怖……
