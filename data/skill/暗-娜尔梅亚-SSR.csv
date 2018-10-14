@@ -1,7 +1,7 @@
 ﻿id,name,detail
 npc,娜尔梅亚,3040063000
 special,蝴蝶刃·源氏舞/蝴蝶刃·神乐舞,暗属性伤害（特大）/（源氏）强化攻击UP效果/（神乐）解除防御DOWN效果
-special-胡蝶刃改·源氏舞,蝴蝶刃改·源氏舞/蝴蝶刃改·神乐舞,<div class=prt-text-small>暗属性伤害（特大）/（源氏）强化攻击UP效果，暗攻30%UP/（神乐）解除防御DOWN效果，幻影（2次）</div>
+special-胡蝶刃改・源氏舞,蝴蝶刃改·源氏舞/蝴蝶刃改·神乐舞,<div class=prt-text-small>暗属性伤害（特大）/（源氏）强化攻击UP效果，暗攻30%UP/（神乐）解除防御DOWN效果，幻影（2次）</div>
 special-Dawnfly Dance II,<div class=prt-text-small>蝴蝶刃改·源氏舞/蝴蝶刃改·神乐舞,暗属性伤害（特大）/（源氏）强化攻击UP效果，暗攻30%UP/（神乐）解除防御DOWN效果，幻影（2次）</div>
 skill-1,蝴蝶刃,切换架势/追加敌方弱点属性伤害 <span class=text-blue>◆每次切换攻击UP/防御DOWN/2回合内无法使用技能</span>
 skill-1+,蝴蝶刃,切换架势/追加敌方弱点属性伤害 <span class=text-blue>◆每次切换攻击UP/防御DOWN/1回合无法使用技能</span>
