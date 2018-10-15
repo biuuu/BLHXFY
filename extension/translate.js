@@ -8,6 +8,7 @@ import transTownInfo from './modules/town-info'
 import transIslandInfo from './modules/island-info'
 import transChat from './modules/chat-preset'
 import transBuff from './modules/buff'
+import pageIndex from './modules/page-index'
 import showVoiceSub from './modules/voice-sub'
 import { getUserName, setUserName } from './store/name-user'
 
@@ -37,6 +38,7 @@ export default async function translate(state) {
       data = await transHTML(data, pathname)
       if (pathname.includes('/user/content/index')) {
         data = await transTownInfo(data, pathname)
+        data = await pageIndex(data, pathname)
       }
     } else if (pathname.includes('/npc/npc/') || pathname.includes('/archive/npc_detail')) {
       data = await transNpcSkill(data, pathname)
