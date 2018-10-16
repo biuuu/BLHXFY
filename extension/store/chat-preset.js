@@ -3,6 +3,7 @@ import parseCsv from '../utils/parseCsv'
 import { getLocalData, setLocalData } from './local-data'
 
 const chatMap = new Map()
+const nChatMap = new Map()
 let loaded = false
 
 const trim = (str) => {
@@ -20,15 +21,24 @@ const getChatData = async () => {
     const list = parseCsv(csv)
     list.forEach(item => {
       const id = trim(item.id)
+      const text = trim(item.text)
       const trans = trim(item.trans)
       if (id && trans) {
-        chatMap.set(id, trans)
+        if (/\d+-n/.test(id)) {
+          const rgs = id.match(/(\d+)-n/)
+          const _id = rgs[1]
+          nChatMap.set(_id, {
+            text, trans
+          })
+        } else {
+          chatMap.set(id, trans)
+        }
       }
     })
     loaded = true
   }
 
-  return chatMap
+  return { chatMap, nChatMap }
 }
 
 export default getChatData
