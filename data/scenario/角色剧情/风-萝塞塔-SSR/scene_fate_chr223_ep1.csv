@@ -15,8 +15,8 @@ id,en,jp,trans
 12,,あら、そんな関係に見える？<br>……ふぅん、恋は盲目ねぇ。,哎呀，看起来是那样的关系吗？……哼嗯~爱情使人盲目呢。
 13,,じゃあどうして！？<br>僕は心から貴女を愛してるんだ！,那是为什么！？我发自内心地爱着您！
 14,,愛、ね……<br>それじゃ、さようなら。,爱、呢……那么，再见了。
-20,,<span class='scene-font-katari'>休息と物資の補充を兼ね、</span><br><span class='scene-font-katari'>ある島に数日ほど滞在している一行。</span>,为了休息和补充物资，一行人在岛上停留了数日。
-21,,<span class='scene-font-katari'>姬塔とビィは、</span><br><span class='scene-font-katari'>ロゼッタと共に食糧を買い、</span><br><span class='scene-font-katari'>グランサイファーに戻ることにした。</span>,姬塔与碧还有萝塞塔一起买了食物，准备返回格兰塞法。
+20,,<span class='scene-font-katari'>休息と物資の補充を兼ね、</span><br><span class='scene-font-katari'>ある島に数日ほど滞在している一行。</span>,<span class='scene-font-katari'>为了休息和补充物资，一行人在岛上停留了数日。</span>
+21,,<span class='scene-font-katari'>姬塔とビィは、</span><br><span class='scene-font-katari'>ロゼッタと共に食糧を買い、</span><br><span class='scene-font-katari'>グランサイファーに戻ることにした。</span>,<span class='scene-font-katari'>姬塔与碧还有萝塞塔一起买了食物，准备返回格兰塞法。</span>
 22,,ねぇ、そろそろ休憩しない？<br>なんだか喉が渇いちゃったわ。,呐，差不多休息一下吧？感觉有点口渴了。
 23,,おいおい……<br>さっき休んだばっかだろ？<br>もう疲れちまったのかよ。,喂喂……才刚刚休息完吧？这就累了吗。
 24,,だってぇ、か弱い乙女なんだもの。<br>それに姬塔さんとの逢瀬、<br>もっと楽しみたいじゃない？,那是因为，我是柔弱地少女哦。而且和姬塔地幽会我想更加享受的哦？
@@ -95,6 +95,6 @@ id,en,jp,trans
 104,,ふふ、負けたわ。<br>それもいいかもしれないわね。,呵呵，是我输了。那样也好也说不定呢。
 105,,おおっ！<br>そ、それでは……！？,哦哦！这、这么说……！？
 106,,え……<br>マ、マジかよ……！<br>ロゼッタが結婚……！？,诶……真的假的……！萝塞塔要结婚……！？
-107,,<span class='scene-font-katari'>かつて求婚された男性の、</span><br><span class='scene-font-katari'>再度の申し出に応えたロゼッタ。</span>,萝塞塔回应了曾经那个求婚男性的再一次请求。
-108,,<span class='scene-font-katari'>彼女は本当に結婚する気なのか。</span><br><span class='scene-font-katari'>驚いたビィは一行に伝えるため、</span><br><span class='scene-font-katari'>慌てて取って返すのだった……</span>,她真的是想结婚吗，惊讶的碧为了把这件事传达给大家，慌慌张张的回去了……
+107,,<span class='scene-font-katari'>かつて求婚された男性の、</span><br><span class='scene-font-katari'>再度の申し出に応えたロゼッタ。</span>,<span class='scene-font-katari'>萝塞塔回应了曾经那个求婚男性的再一次请求。</span>
+108,,<span class='scene-font-katari'>彼女は本当に結婚する気なのか。</span><br><span class='scene-font-katari'>驚いたビィは一行に伝えるため、</span><br><span class='scene-font-katari'>慌てて取って返すのだった……</span>,<span class='scene-font-katari'>她真的是想结婚吗，惊讶的碧为了把这件事传达给大家，慌慌张张的回去了……</span>
 info,,1,scene_fate_chr223_ep1
