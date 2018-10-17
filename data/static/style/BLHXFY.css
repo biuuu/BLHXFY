@@ -72,6 +72,9 @@ body #pop-deck .prt-register .btn-usual-register::after {
 body .prt-user-status .prt-user-bp .txt-bp-remaining::before {
   content: "还有";
 }
+body .prt-user-status .prt-user-stamina .txt-stamina-remaining::before {
+  content: "还有";
+}
 body .prt-daily-popup .prt-player-info .btn-usual-lineup::after {
   content: "任务报酬确认";
 }
