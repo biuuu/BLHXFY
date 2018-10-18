@@ -115,9 +115,6 @@ body .cnt-material-bottombox .btn-add::after {
 body .cnt-material-bottombox .btn-synthesis::after {
   content: "开始强化";
 }
-body .prt-retraction-button .prt-retraction-quest .btn-retraction-quest::after {
-  content: "更换任务";
-}
 body .pop-synopsis .btn-usual-ok::after {
   content: '确定';
 }
