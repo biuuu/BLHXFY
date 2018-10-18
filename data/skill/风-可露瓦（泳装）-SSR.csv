@@ -1,10 +1,10 @@
 ﻿id,name,detail
 npc,柯露瓦,3040127000
 special,白色丝线,延长可露瓦赋予我方全体的特殊强化效果 <span class=text-blue>◆消耗全部丝线</span>
-skill-1,夏日弧线,我方风属性单体特殊强化（攻击20%UP/二连击率UP）<span class=text-blue>◆消耗1丝线</span>
-skill-2,沁凉冰丝,我方全体风属性角色特殊强化（防御10%UP/受到的伤害有几率减半）<span class=text-blue>◆消耗4丝线</span>
+skill-1,夏日弧线,我方风属性单体特殊强化(攻击20%UP/二连击率UP)<span class=text-blue>◆消耗1丝线</span>
+skill-2,沁凉冰丝,我方全体风属性角色特殊强化(防御10%UP/受到的伤害有几率减半)<span class=text-blue>◆消耗4丝线</span>
 skill-3,夏日模特,不发动普攻/回合结束时奥义值20%UP/回复2丝线<span class=text-blue>◆效果中防御30%DOWN/再使用时解除</span>
-support-1,纺线,每回合回复1丝线（最大10）
+support-1,纺线,每回合回复1丝线(最大10)
 support-2,新作发表,攻击力20%DOWN，敌对心DOWN
 skill-lb,LB技能,减轻我方全体受到的土属性伤害
 intro,,

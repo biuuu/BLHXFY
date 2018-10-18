@@ -1,6 +1,6 @@
 ﻿id,name,detail
 npc,席尔瓦,3040049000
-special,致命子弹/葬送之击（终突）,水属性伤害(特大)/（终突后）自身回避率UP
+special,致命子弹/葬送之击(终突),水属性伤害(特大)/(终突后)自身回避率UP
 skill-1,鹰眼,<div class=prt-text-small>自身奥义伤害UP/奥义伤害上限UP/奥义连击伤害UP/防御DOWN</div>
 skill-2,战术家,自身暴击率UP
 skill-3,必死之敌,自身可即时发动奥义
