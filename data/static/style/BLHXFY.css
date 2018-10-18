@@ -211,7 +211,6 @@ body .cnt-order-box .cnt-btn-bottombox .btn-evolution:not(.disapprove)::after {
 .popRestartQuest .btn-withdraw,
 #cnt-arcarum-stage .cnt-division-list .prt-division-list .btn-move-division,
 #btn-bug-list,
-.prt-set-pushed .btn-set-pushed,
 .btn-usual-text[data-href="quest/assist/unclaimed"],
 #tab-multi, #tab-event, #tab-id,
 .btn-decompose[data-location-href^="decompose/"],
@@ -486,10 +485,6 @@ body .cnt-order-box .cnt-btn-bottombox .btn-evolution:not(.disapprove)::after {
 .btn-usual-text[data-href="quest/assist/unclaimed"]::after {
   font-size: 12px;
   content: "未结算的战斗";
-}
-.prt-set-pushed .btn-set-pushed::after {
-  font-size: 12px;
-  content: "设定为喜欢的角色";
 }
 #btn-bug-list::after {
   font-size: 12px;
