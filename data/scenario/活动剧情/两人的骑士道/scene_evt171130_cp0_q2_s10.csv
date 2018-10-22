@@ -22,7 +22,7 @@ id,en,jp,trans
 32,,<span class='scene-font-katari'>他の受験生達と話している所に</span><br><span class='scene-font-katari'>ランスロットとヴェインと</span><br><span class='scene-font-katari'>姬塔達が集まってくる。</span>,<span class='scene-font-katari'>兰斯洛特、维恩、姬塔也聚了过来。</span>
 34,,お前達、良くやったな。,你们几个做的很好。
 35,,ああ！　<br>みんなのおかげで助かったぜ！,是啊！　<br>多亏有你们！
-35-sel1_txt,,<span class='scene-font-katari'><span class='scene-font-katari'>お疲れ様でした</span></span>,<span class='scene-font-katari'><span class='scene-font-katari'>辛苦你们了。</span></span>
+35-sel1_txt,,<span class='scene-font-katari'><span class='scene-font-katari'>お疲れ様でした</span></span>,<span class='scene-font-katari'><span class='scene-font-katari'>辛苦你们了</span></span>
 35-sel2_txt,,<span class='scene-font-katari'><span class='scene-font-katari'>カッコよかったよ</span></span>,<span class='scene-font-katari'><span class='scene-font-katari'>你们很帅哦</span></span>
 36,,ホント……<br>姬塔さんもお疲れ様でした。,真的……<br>姬塔也辛苦了。
 37,,でも……三人とも……<br>やっぱすごいです！,不过……<br>你们三个还真帅啊！
@@ -68,7 +68,7 @@ id,en,jp,trans
 87,,陛下……<br>こちらが名簿になります。,陛下，这是名单。
 89,,うむ……それではこれより。<br>白竜騎士団入団試験の<br>合格者を発表する。,嗯……现在公布白龙骑士团<br>入团试验的合格名单。
 90,,名を呼ばれた者は<br>元気に返事をしてくれ。,被叫到名字的人<br>请好好回答我。
-91,,では、読みあげる！<br>合格者――,那么现在开始！<br>合格者――
+91,,では、読みあげる！<br>合格者――,那么现在开始！<br>合格者——
 92,,<span class='scene-font-katari'>合格者の名前が呼ばれていく中、</span><br><span class='scene-font-katari'>ひよこ班の面々は次第に</span><br><span class='scene-font-katari'>緊張で表情が強張っていく。が――</span>,<span class='scene-font-katari'>在读着合格者名字的声音中，</span><br><span class='scene-font-katari'>鸡仔班的成员表情越发地紧张。</span>
 93,,合格者、アーサー,合格者，亚瑟。
 94,,っ！！<br>はいっ！,啊！！<br>到！
@@ -76,10 +76,10 @@ id,en,jp,trans
 96,,はいっ！,到！
 97,,合格者、トネリロ。,合格者，托涅利罗。
 98,,はっ、はいぃっ！,到，到！
-99,,合格者、クルス。,到，到！
-100,,はい。,到，到！
+99,,合格者、クルス。,合格者，库鲁斯。
+100,,はい。,啊，到！
 101,,合格者、ヘンリー,合格者，亨利。
-102,,はいっ！,合格者，亨利。
+102,,はいっ！,到！
 103,,以上の者、24名を……<br>白竜騎士団入団試験の<br>合格者とする。,以上24名……<br>就是白龙骑士团入团<br>试验的合格人选。
 104,,<span class='scene-font-katari'>瞬間、会場中に歓声が</span><br><span class='scene-font-katari'>巻き起こるのだった。</span>,<span class='scene-font-katari'>会场中瞬间响起一片欢呼声。</span>
 106,,<span class='scene-font-4'>うぉーっ！</span><br><span class='scene-font-4'>合格おめでとう！</span>,<span class='scene-font-4'>呜哦！</span><br><span class='scene-font-4'>恭喜你们通过试验！</span>
