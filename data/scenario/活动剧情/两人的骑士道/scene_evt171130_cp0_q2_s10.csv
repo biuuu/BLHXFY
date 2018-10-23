@@ -1,0 +1,157 @@
+id,en,jp,trans
+0-chapter_name,,エンディング,结局
+0-synopsis,,骨竜の脅威を退け、数日後、アーサー、モルドレッド、トネリロ、クルス、ヘンリーの五人は無事に入団試験に合格する。晴れて騎士見習いとなったアーサーとモルドレッドは、それぞれ強い騎士団長になりたいと願うが、心の中では僅かに異なる理想を描いていた。一方その頃、ランスロットとヴェインは山の調査中に不気味な魔法陣を発見し、不穏な動きを予感するのだった。,治退骨龙的威胁，数日后，亚瑟、莫德雷德、托涅利罗、库鲁斯、亨利五人顺利在入团试验中和哥。成功成为实习骑士的亚瑟和莫德雷德各怀成为骑士团长的心愿，在心中描绘着不同的理想。另一方，兰斯洛特与维恩在山中调查出奇怪的魔法阵，预感到了有什么阴谋在暗动。
+1,,<span class='scene-font-4'>フシャァァッァア！</span>,<span class='scene-font-4'>呼吓！</span>
+2,,<span class='scene-font-4'>はぁぁぁぁぁぁっ！</span>,<span class='scene-font-4'>哈啊啊啊啊！</span>
+4,,<span class='scene-font-4'>うぉぉぉぉぉっ！</span>,<span class='scene-font-4'>呜哦啊啊啊啊！</span>
+9,,<span class='scene-font-katari'>ランスロットとヴェインに合わせて、</span><br><span class='scene-font-katari'>ボーンドラゴンの頭蓋骨に</span><br><span class='scene-font-katari'>波状攻撃を叩き込む姬塔。</span>,<span class='scene-font-katari'>姬塔与兰斯洛特和维恩联手，</span><br><span class='scene-font-katari'>打碎了骨龙的头骨。</span>
+10,,…………,…………
+18,,<span class='scene-font-katari'>頭蓋骨を粉砕された骨竜は、</span><br><span class='scene-font-katari'>みるみる全身が崩れ、</span><br><span class='scene-font-katari'>砂に還るのだった。</span>,<span class='scene-font-katari'>头骨被击碎的骨龙终于全身崩溃，</span><br><span class='scene-font-katari'>化作了一团散沙。</span>
+19,,良かった……<br>これでようやくお前も眠れるね……,太好了……<br>这样你也能安息了……
+20,,<span class='scene-font-katari'>あふれていた骸の騎士たちも</span><br><span class='scene-font-katari'>いつの間にか消え失せ、辺りには静寂が</span><br><span class='scene-font-katari'>訪れていた。</span>,<span class='scene-font-katari'>骑士骸骨也尽数消失，</span><br><span class='scene-font-katari'>周围回归寂静。</span>
+21,,<span class='scene-font-katari'>ふと、緊張の糸が切れたように</span><br><span class='scene-font-katari'>その場にへたり込むアーサー達の元に</span><br><span class='scene-font-katari'>みんなが集まってくる。</span>,<span class='scene-font-katari'>看危险终于散去，</span><br><span class='scene-font-katari'>同伴们都急忙跑到亚瑟身边。</span>
+23,,アーサー！　怪我してない？,亚瑟！　你没受伤吧！
+24,,ああ！　この通り元気！,没，我和往常一样！
+25,,……終わったな。,结束了啊……
+26,,<span class='scene-font-katari'>今度こそ何事もなく</span><br><span class='scene-font-katari'>戦闘が終わって</span><br><span class='scene-font-katari'>安堵した様子のクルス。</span>,<span class='scene-font-katari'>这次终于真的平安了，</span><br><span class='scene-font-katari'>库鲁斯露出放松的表情。</span>
+27,,ああ……なんとかな。,是啊……总算结束了。
+28,,ふん……俺達の援護のおかげで<br>助かったようなもんだからな。<br>感謝しろよ？,哼……多亏了我们帮忙，<br>你们可得好好谢我们！
+29,,はいはい、わかったわかった。<br>恩着せがましいやつだな……,是是，知道啦。<br>你还真是喜欢听人说这些啊。
+30,,恩着せがましいとはなんだ！<br>事実だろう！,什么叫喜欢听人说！<br>这是事实吧！
+31,,ありがとありがとー,谢啦谢啦。
+32,,<span class='scene-font-katari'>他の受験生達と話している所に</span><br><span class='scene-font-katari'>ランスロットとヴェインと</span><br><span class='scene-font-katari'>姬塔達が集まってくる。</span>,<span class='scene-font-katari'>兰斯洛特、维恩、姬塔也聚了过来。</span>
+34,,お前達、良くやったな。,你们几个做的很好。
+35,,ああ！　<br>みんなのおかげで助かったぜ！,是啊！　<br>多亏有你们！
+35-sel1_txt,,<span class='scene-font-katari'><span class='scene-font-katari'>お疲れ様でした</span></span>,<span class='scene-font-katari'><span class='scene-font-katari'>辛苦你们了</span></span>
+35-sel2_txt,,<span class='scene-font-katari'><span class='scene-font-katari'>カッコよかったよ</span></span>,<span class='scene-font-katari'><span class='scene-font-katari'>你们很帅哦</span></span>
+36,,ホント……<br>姬塔さんもお疲れ様でした。,真的……<br>姬塔也辛苦了。
+37,,でも……三人とも……<br>やっぱすごいです！,不过……<br>你们三个还真帅啊！
+38,,えっ……？<br>カッコいいですか俺？,诶……？<br>我很帅吗？
+39,,あ、ありがとうございます！,谢，谢谢！
+40,,でも……三人とも……<br>やっぱすごいです！,不过……<br>你们三个还真帅啊！
+41,,だな！<br>やっぱ桁違いに強いです！,是吧！<br>比我们强太多了！
+42,,ふっ……<br>お前たちも努力すれば<br>これぐらいになれるさ。,哈……<br>你们好好努力也可以做到的。
+43,,そうだそうだ！<br>俺でも強くなれたんだから<br>絶対強くなれるって！,是啊是啊！<br>我都可以变的这么强，<br>你们也绝对能行的！
+44,,へへっ！<br>でもお前らの活躍も<br>なかなかだったぜ？,嘿嘿！<br>不过你们也很活跃！
+45,,はい……みんなで力を合わせて<br>一生懸命戦ってすごかったです！,是的！大家一起拼命战斗，<br>真的很厉害。
+46,,それは、みんなのおかげです！,那也是多亏了大家的协助！
+47,,ああ……<br>途中で囲まれて、<br>そのまま終わってたな……,是啊……<br>我们中途被包围，<br>还以为要完蛋了……
+48,,でも……<br>命令違反してごめんなさい……,不过……<br>我们违抗了团长的命令，对不起……
+49,,お前達は命令には背いたが、<br>騎士として本当に大事なものを守った。<br>今回の件に関しては、目を瞑ろう。,你们虽然违背了命令，<br>但身为骑士真的守护了重要的东西。<br>所以这件事就不再计较了。
+50,,とにかく、皆が無事で良かった。,总之，大家没事就好。
+51,,俺はお前たちが戻ってきて、<br>あん時は結構感動したんだぜ！,我看到你们回来的<br>时候可是很感动哦！
+52,,その仲間を思う心を<br>忘れず、大切にな。,你们也要好好记住这份守护同伴的心，<br>千万不要忘了。
+53,,はい……大切に……<br>しま……す……,是……我会的……
+55,,おいアーサー！<br>どうした！,喂，亚瑟你怎么了！
+56,,大丈夫だ。<br>疲れて眠っただけのようだ。,没事的。<br>看样子只是累的睡着了。
+57,,すぅ……すぅ……,呼……呼……
+58,,こいつは俺がおぶっていくから、<br>このまま寝かせておいてやろうぜ。,我来背这家伙回去睡觉。
+59,,では、皆の者。<br>これより下山するぞ！,那么各位，我们下山吧！
+60,,<span class='scene-font-katari'>こうして、波乱含みの登山試験は、</span><br><span class='scene-font-katari'>なんとか終わりを告げるのだった。</span>,<span class='scene-font-katari'>就这样，</span><br><span class='scene-font-katari'>登山试验总算是告一段落。</span>
+68,,<span class='scene-font-katari'>それから数日後──</span>,<span class='scene-font-katari'>几天后——</span>
+69,,<span class='scene-font-katari'>玉座の間に緊張の面持ちで</span><br><span class='scene-font-katari'>整列する受験生達。</span>,<span class='scene-font-katari'>王宫内，</span><br><span class='scene-font-katari'>考生们神情紧张地排列成队伍。</span>
+70,,うぅん……<br>むにゃむにゃ……,呜……<br>呼噜呼噜……
+71,,こんな時にまで寝られるなんて<br>オマエやっぱすげぇよ……,这种地方你也能睡着，<br>你果然很厉害啊……
+72,,んあ……？<br>起きて、ますよ……,啊？<br>我醒……着呢……
+73,,あーもー仕方ねーな。<br>ミントのハーブで<br>ツボを押してやるよっ！,没办法……<br>只能涂薄荷按穴道了！
+75,,<span class='scene-font-4'>はぅあっ！？</span><br>ふぐぅぅぅぅぅ……<br>きっくぅぅうぅぅ！,<span class='scene-font-4'>哈哇！？</span><br>吸……！呜呜呜……
+76,,うぅ……僕……<br>おなか痛くなってきた。,唔唔……<br>我紧张的肚子都痛了……
+77,,……今更緊張したところで、<br>もう合否は決まっている。,你合不合格早已经定下来了，<br>现在用不着紧张。
+78,,そ……そうだよね！<br>もう決まってるんだよね！,也……也是啊！<br>已经决定了啊！
+79,,<span class='scene-font-2'>おい静かにしろ！</span><br><span class='scene-font-2'>陛下が来られたぞ！</span>,<span class='scene-font-2'>喂，小点声！</span><br><span class='scene-font-2'>陛下来了！</span>
+81,,<span class='scene-font-katari'>受験生達の前に恭しく</span><br><span class='scene-font-katari'>姿を現したカール国王。</span>,<span class='scene-font-katari'>卡尔国王出现在考生们面前。</span>
+82,,うぅ～なんだか<br>私まで緊張してきました……,唔唔……<br>连我都开始紧张了……
+83,,おいおい……<br>オイラ達まで緊張してどうすんだよ。,喂喂……<br>连我们都紧张的话可怎么办啊。
+84,,<span class='scene-font-katari'>緊張した面持ちで受験生達を</span><br><span class='scene-font-katari'>見守る姬塔達。</span>,<span class='scene-font-katari'>姬塔一行人看着紧张的考生们。</span>
+85,,皆の者、<br>此度は長期間の試験に耐え、<br>よくぞこの日を迎えた。,各位，<br>你们经受了长时间的考验，<br>终于等到这一天。
+86,,この日を迎えたということだけで<br>諸君は胸を張ってもらって良い。,光是迎来这一天，<br>你们也可以引以为豪了。
+87,,陛下……<br>こちらが名簿になります。,陛下，这是名单。
+89,,うむ……それではこれより。<br>白竜騎士団入団試験の<br>合格者を発表する。,嗯……现在公布白龙骑士团<br>入团试验的合格名单。
+90,,名を呼ばれた者は<br>元気に返事をしてくれ。,被叫到名字的人<br>请好好回答我。
+91,,では、読みあげる！<br>合格者――,那么现在开始！<br>合格者——
+92,,<span class='scene-font-katari'>合格者の名前が呼ばれていく中、</span><br><span class='scene-font-katari'>ひよこ班の面々は次第に</span><br><span class='scene-font-katari'>緊張で表情が強張っていく。が――</span>,<span class='scene-font-katari'>在读着合格者名字的声音中，</span><br><span class='scene-font-katari'>鸡仔班的成员表情越发地紧张。</span>
+93,,合格者、アーサー,合格者，亚瑟。
+94,,っ！！<br>はいっ！,啊！！<br>到！
+95,,合格者、モルドレッド。,合格者，莫德雷德。
+96,,はいっ！,到！
+97,,合格者、トネリロ。,合格者，托涅利罗。
+98,,はっ、はいぃっ！,到，到！
+99,,合格者、クルス。,合格者，库鲁斯。
+100,,はい。,啊，到！
+101,,合格者、ヘンリー,合格者，亨利。
+102,,はいっ！,到！
+103,,以上の者、24名を……<br>白竜騎士団入団試験の<br>合格者とする。,以上24名……<br>就是白龙骑士团入团<br>试验的合格人选。
+104,,<span class='scene-font-katari'>瞬間、会場中に歓声が</span><br><span class='scene-font-katari'>巻き起こるのだった。</span>,<span class='scene-font-katari'>会场中瞬间响起一片欢呼声。</span>
+106,,<span class='scene-font-4'>うぉーっ！</span><br><span class='scene-font-4'>合格おめでとう！</span>,<span class='scene-font-4'>呜哦！</span><br><span class='scene-font-4'>恭喜你们通过试验！</span>
+107,,うぅ……ひよこ班の<br>みんなが合格するなんて！,呜呜……鸡仔班的<br>成员都合格了！
+108,,おっ……俺は……<br>俺は班長としてこんなに<br>嬉しいことはない～！,我，我作为班长<br>实在太高兴了！
+109,,ヴェ、ヴェインばんじょう！<br>あぁ、ありがどうごじゃいます～！,维，维恩班长！<br>谢，谢谢您~！
+110,,ははは！<br>アーサーのヤツ泣きすぎだろ。,哈哈哈！<br>亚瑟你哭的太厉害了吧！
+111,,僕まで合格できるなんて……<br>信じられない……,不敢相信……<br>竟然连我都合格了……
+112,,当然だろう。<br>お前も良く頑張っていた。,那不是理所当然的吗？<br>你也是很努力的。
+113,,う……うんっ！,啊……嗯！
+114,,<span class='scene-font-katari'>互いに肩を抱き合って</span><br><span class='scene-font-katari'>合格を喜びあう、</span><br><span class='scene-font-katari'>ひよこ班の面々。</span>,<span class='scene-font-katari'>鸡仔班的各位互相恭喜。</span>
+115,,これでお前たちはひよこ班から<br>晴れてにわとり班に昇格したわけだな！,这样鸡仔班就能升格<br>为大鸡班了啊！
+116,,これでやっとたまごがうめますね～！,这样就终于能下蛋了啊……！
+117,,ああ！　たまごがうめるな～！,是啊！　可以下鸡蛋了啊！
+118,,<span class='scene-font-katari'>その時、ヘンリーが</span><br><span class='scene-font-katari'>アーサーとモルドレッドを</span><br><span class='scene-font-katari'>呼び出すのだった。</span>,<span class='scene-font-katari'>这时</span><br><span class='scene-font-katari'>亨利把亚瑟和莫德雷德叫了出来。</span>
+123,,ヘンリーも合格おめでとう～！,亨利，也恭喜你能合格！
+124,,あ、ああ……<br>ありがとうな。,啊……谢，谢谢啊……
+125,,で、なんだよオマエ？<br>またちょっかい<br>出しにきたのか？,那么，你想干嘛？<br>又要管我们的闲事吗？
+126,,ちっ……違う！,不……不是啊！
+127,,その……なんだ……<br>今までの事をきちんと<br>謝れて無かったからな…,那个……怎么说呢……<br>我还一直没正式和你们道过歉……
+128,,その……お前達を<br>馬鹿にして悪かった……な。<br>この通り、謝る……ごめん。,那个……之前把你们当笨蛋，<br>对不起了……就是这样，<br>我是来道歉的……抱歉。
+129,,うん！　わかった！<br>わざわざ謝ってくれてありがとう！,嗯！我知道了！<br>谢谢你专门跑过来道歉！
+130,,そんなこと……<br>もう気にしてねーよ。,那种事……<br>我早就不在意了。
+131,,はっ……ははははっ！　<br>これからは、俺の正式な<br>ライバルとして認めてやる！,哈……哈哈哈哈！<br>那从现在起，我就正式把你们<br>当成我的竞争对手了！
+132,,はぁ……<br>オマエ全然反省してねーのな。,哈啊……<br>你这是完全没在反省啊。
+133,,おお！　ライバルかぁー！,呜哦！竞争对手啊！
+134,,そうだ！<br>お前らよりも先に<br>俺が騎士団長になってやる！,就是这样！<br>我一定会在你们前面<br>成为骑士团长的！
+135,,はっ……<br>オマエなんかに負けねーよ。,哈……<br>我们可不会输给你！
+136,,おお！<br>みんなで騎士団長になろうぜ！,哦哦！<br>就让我们成为骑士团长吧！
+137,,そんなにたくさん騎士団長に<br>なれるわけねーだろ。,骑士团长没有那么多人选吧。
+138,,ふっ……さすが俺のライバル。,哼！不愧是我的竞争对手。
+139,,それぐらい強気じゃないと<br>張合いも無いからな！,要是你们态度没有这么坚决<br>我还觉得没意思呢！
+140,,……ヘンリー<br>なんか前と雰囲気変わったね！,……总感觉亨利好像<br>和以前不太一样了！
+141,,……オマエ、<br>もしかして友達いないの？,你小子是不是<br>没交过朋友啊？
+142,,そ、そんなことはない！<br>さらばだ！　我がライバルたちよ！,怎，怎么会！<br>别了！我的竞争对手们！
+148,,<span class='scene-font-katari'>合格者達を眺める</span><br><span class='scene-font-katari'>姬塔達の元に現れる</span><br><span class='scene-font-katari'>ランスロットとヴェイン。</span>,<span class='scene-font-katari'>兰斯洛特和维恩来到姬塔一行人面前。</span>
+150,,姬塔達にも<br>色々と迷惑をかけてしまって<br>すまなかったな。,姬塔，这次也给你们<br>添了不少麻烦，<br>真是抱歉。
+151,,気にすんなって！<br>なかなか見どころのあるやつらが<br>集まって良かったな！！,别在意！<br>这次旅途也让我们看到了<br>不少有意思的东西呢！
+152,,いや～<br>今回もまた助けられちまったな！<br>ありがとな、姬塔！,呀~<br>这次也受你们的帮助了！<br>多谢啦，姬塔！
+153,,ふふっ……私達も一緒に合格を<br>見届けられて嬉しいです！<br>ねっ、姬塔！,嘿嘿~我们能看着大家<br>通过试验非常开心！<br>对吧姬塔！
+154,,<span class='scene-font-katari'>合格者達の晴れやかな表情に</span><br><span class='scene-font-katari'>思わず笑顔になる姬塔。</span>,<span class='scene-font-katari'>姬塔看着合格者开心的笑颜，</span><br><span class='scene-font-katari'>也露出了笑容。</span>
+155,,<span class='scene-font-katari'>ランスロットは改まった様子で</span><br><span class='scene-font-katari'>モルドレッドとアーサーに声をかける。</span>,<span class='scene-font-katari'>兰斯洛特重整姿态，</span><br><span class='scene-font-katari'>找到亚瑟和莫德雷德。</span>
+156,,ふたりとも……合格おめでとう。,恭喜你们合格。
+157,,ありがとうございます！,谢谢您！
+158,,モルドレッドとアーサーのことは、<br>他の受験生達の間で話題に出るが──,莫德雷德和亚瑟你们<br>在考生之间引起了话题——
+159,,皆から、<br>とても信頼されているようだな。,看来大家都很信任你们。
+160,,身を挺して仲間を守った<br>君たちふたりには、確かな<br>「騎士道精神」が宿っていたようだ。,能够挺身守护同伴的你们<br>确实有着「骑士道精神」。
+161,,ぜひ、騎士団長を目指して<br>これからも研鑽に励んでくれ。,接下来请务必以成为骑士团长<br>为目标好好锻炼自己。
+163,,はいっ！,是！
+164,,<span class='scene-font-katari'>その場を立ち去るランスロットの</span><br><span class='scene-font-katari'>背中をふたりはずっと</span><br><span class='scene-font-katari'>眺めているのだった。</span>,<span class='scene-font-katari'>两人盯着兰斯洛特离开的背影。</span>
+165,,俺もあんな風になりたいな！,我也好想成为那样的人啊！
+166,,ああ、オレもだ。,是啊，我也是。
+167,,<span class='scene-font-kokoro'>（あんな風に、皆を守れる</span><br><span class='scene-font-kokoro'>強い騎士団長に、俺はなりたい）</span>,<span class='scene-font-kokoro'>（我想成为那样强大，</span><br><span class='scene-font-kokoro'>可以保护他人的骑士团长。）</span>
+168,,<span class='scene-font-kokoro'>（そして、皆が安心して</span><br><span class='scene-font-kokoro'>笑顔でいられるようにするんだ）</span>,<span class='scene-font-kokoro'>（让大家都能安心地露出笑容。）</span>
+169,,<span class='scene-font-kokoro'>（あんな風に、誰よりも</span><br><span class='scene-font-kokoro'>強い騎士団長に、オレはなってやる）</span>,<span class='scene-font-kokoro'>（我要成为那样不输任何人的骑士团长。）</span>
+170,,<span class='scene-font-kokoro'>（そして、変えてやる。</span><br><span class='scene-font-kokoro'>もう二度とオレ達みたいな戦災孤児が</span><br><span class='scene-font-kokoro'>生まれない、良い世界に……）</span>,<span class='scene-font-kokoro'>（然后改变这个世界，</span><br><span class='scene-font-kokoro'>让这个世界变的不再</span><br><span class='scene-font-kokoro'>因战争出现孤儿……）</span>
+171,,モルドレッド！<br>どっちが早く騎士団長に<br>なれるか勝負だ！,莫德雷德！<br>我们比比谁先当上骑士团长吧！
+172,,ふっ……望むところだ。<br>オマエには負けないぜ、<br>アーサー！,嘿~正有此意。<br>我可不会输给你哦，<br>亚瑟！
+173,,<span class='scene-font-katari'>こうして、合格者達は気持ちを新たに</span><br><span class='scene-font-katari'>騎士見習いの新生活に胸を躍らす。</span>,<span class='scene-font-katari'>就这样，合格者们作为骑士实习生，</span><br><span class='scene-font-katari'>开始了新的生活。</span>
+174,,<span class='scene-font-katari'>彼らが結んだ同期の絆は、この先、</span><br><span class='scene-font-katari'>どんな試練が待ち受けていようとも</span><br><span class='scene-font-katari'>共に乗り越える原動力となるだろう。</span>,<span class='scene-font-katari'>他们之间结成的羁绊，</span><br><span class='scene-font-katari'>一定会成为以后跨越任何试练的动力吧。</span>
+185,,<span class='scene-font-katari'>合格発表日から数日後。</span><br><span class='scene-font-katari'>ランスロットとヴェインは</span><br><span class='scene-font-katari'>再び古竜の祠を訪れている。</span>,<span class='scene-font-katari'>合格发表日的几天后。</span><br><span class='scene-font-katari'>兰斯洛特和维恩重新来到古龙祠堂。</span>
+191,,<span class='scene-font-katari'>崩れた石碑周辺を</span><br><span class='scene-font-katari'>隈なく調べるふたり。</span>,<span class='scene-font-katari'>他们在粉碎的石碑周边调查着。</span>
+193,,ん……ヴェイン、見てくれ。<br>これは魔法陣か……？,嗯？维恩你看。<br>这是魔法阵……？
+195,,ランちゃんランちゃん！<br>ここの岩肌にも書いてあるぜ？,兰酱兰酱！<br>这边的石头上也有！
+196,,こんな魔法陣はみたことないな……<br>いったい誰が何のために……,这种魔法阵没有见过……<br>到底是谁画的，<br>又是为了什么……？
+197,,これがあのホネホネが暴れた<br>原因なのか？,难道说上次的暴乱就是这个造成的？
+198,,分からないが、<br>ひとまず帰って報告しよう。,还不清楚，<br>总之先回去报告吧。
+199,,ああ……<br>でもなんかすっきりしなくて<br>薄気味悪いよな。,啊啊……<br>不过不弄清楚的话<br>感觉很不舒服啊。
+200,,<span class='scene-font-kokoro'>（邪教の類かわからないが……</span><br><span class='scene-font-kokoro'>人に害を与える目的なのは確かだ）</span>,<span class='scene-font-kokoro'>（虽然还不清楚这是不是邪教的魔法阵，</span><br><span class='scene-font-kokoro'>但至少可以确定这是为了害人画上去的。）</span>
+201,,<span class='scene-font-kokoro'>（この国に巣食う病巣が、</span><br><span class='scene-font-kokoro'>まだ残っているというのか……？）</span>,<span class='scene-font-kokoro'>（难道这个国家还残留着祸根吗……？）</span>
+208,,<span class='scene-font-katari'>少年達が騎士を目指し、</span><br><span class='scene-font-katari'>未来への希望の光を灯らせる一方で、</span><br><span class='scene-font-katari'>空を絶望の闇で染めんとする影在り――</span>,<span class='scene-font-katari'>少年们以骑士为目标，</span><br><span class='scene-font-katari'>即将成为未来的希望之光。</span>
+209,,<span class='scene-font-katari'>世界が闇に包まれたとしても、</span><br><span class='scene-font-katari'>彼らが胸に宿した光は</span><br><span class='scene-font-katari'>救世の導となるだろうか。</span>,<span class='scene-font-katari'>即使世界被黑暗覆盖，</span><br><span class='scene-font-katari'>他们胸中的光芒会成为</span><br><span class='scene-font-katari'>救世的引导吗？</span>
+210,,<span class='scene-font-katari'>今はまだ、それは誰も知らない。</span><br><span class='scene-font-katari'>運命は静かにその刻を待つ――</span>,<span class='scene-font-katari'>现在还无人知晓。</span><br><span class='scene-font-katari'>命运正静静等待着那一刻——</span>
+215,,　<br>　<br><span class='scene-font-katari'>　　　　　　　　　　　　　──終わり</span>,　<br>　<br><span class='scene-font-katari'>　　　　　　　　　　　　　──结局</span>
+info,,1,scene_evt171130_cp0_q2_s10

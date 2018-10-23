@@ -1,0 +1,9 @@
+﻿id,name,detail
+npc,斑特,3040094000
+special,血腥刀尖,暗属性伤害(特大)/回避率UP
+skill-1,孤立,6次暗属性伤害，目标随机/连击率DOWN
+skill-2,高贵血统,觉醒，性能大幅UP<span class=text-blue>◆受伤2次后解除，虚弱1回合</span>
+skill-3,猩红屠手,敌方单体增加1最大计数点/我方全体奥义伤害30%UP
+support-1,血腥之刃,有极小概率根据自身普攻伤害回复HP
+skill-lb,LB技能,回避成功时，自身攻击UP(累积，上限30%)
+,,
