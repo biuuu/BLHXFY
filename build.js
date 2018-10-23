@@ -5,8 +5,6 @@ const fs = require('fs-extra')
 const CSV = require('papaparse')
 const path = require('path')
 const ghpages = require('gh-pages')
-const { writeFile } = require('./utils/')
-const CONFIG = require('./config')
 const zip = require('gulp-zip')
 const rollup = require('rollup')
 const babel = require('rollup-plugin-babel')
@@ -16,6 +14,9 @@ const through = require('through2')
 
 const scenarioMap = {}
 const skillMap = {}
+const CONFIG = {
+  csvHost: 'blhx.danmu9.com'
+}
 
 const collectCsv = function(type) {
   return through.obj(function(file, encoding, callback) {
@@ -83,7 +84,7 @@ gulp.task('move:html', ['clean:dist'], function () {
 })
 
 gulp.task('move:lecia', ['clean:dist'], function () {
-  return gulp.src('./extension/lecia.html')
+  return gulp.src('./src/lecia.html')
     .pipe(gulp.dest('./dist/blhxfy/'))
 })
 
@@ -107,8 +108,22 @@ gulp.task('skillMap', ['move:skill'], function (done) {
   fs.writeJson('./dist/blhxfy/data/skill.json', skillMap, done)
 })
 
-gulp.task('pack', ['move:static', 'move:lecia', 'move:html', 'extension', 'move:normalcsv', 'move:scenario', 'scenarioMap', 'cname'], function () {
-  // asar.createPackage('./dist/blhxfy/data/', './dist/blhxfy/data.asar', done)
+gulp.task('cname', ['clean:dist'], function () {
+  return fs.outputFile('./dist/CNAME', CONFIG.csvHost)
+})
+
+gulp.task('pack', [
+  'move:static',
+  'move:lecia',
+  'move:html',
+  'move:etccsv',
+  'move:normalcsv',
+  'move:scenario',
+  'move:skill',
+  'scenarioMap',
+  'skillMap',
+  'cname'
+], function () {
   return gulp.src('dist/blhxfy/data/**/*')
     .pipe(zip('data.zip'))
     .pipe(gulp.dest('dist/blhxfy/'))
@@ -125,24 +140,12 @@ gulp.task('md5', ['pack'], function (done) {
   })
 })
 
-gulp.task('cname', ['clean:dist'], function () {
-  return writeFile('./dist/CNAME', CONFIG.csvHost)
-})
-
 gulp.task('rewrite-script', ['clean:dist'], function () {
-  return writeFile('./dist/blhxfy/game-config.js', `document.write('<script src="http://game-a3.granbluefantasy.jp/assets' + (Game.lang === 'en' ? '_en' : '') + '/' + Game.version + '/js/config.js?lyria"></script>')
+  return fs.outputFile('./dist/blhxfy/game-config.js', `document.write('<script src="http://game-a3.granbluefantasy.jp/assets' + (Game.lang === 'en' ? '_en' : '') + '/' + Game.version + '/js/config.js?lyria"></script>')
 document.write('<script src="https://blhx.danmu9.com/blhxfy/extension.ios.user.js"></script>')`)
 })
 
-gulp.task('publish', ['md5'], function (done) {
-  ghpages.publish('dist', {
-    add: false
-  }, function () {
-    done()
-  })
-})
-
-const extensionVer = require('./extension/version.json').ver
+const extensionVer = require('./package.json').version
 const extensionBanner = `// ==UserScript==
 // @name         碧蓝幻想翻译
 // @namespace    https://github.com/biuuu/BLHXFY
@@ -159,7 +162,7 @@ const extensionBanner = `// ==UserScript==
 // ==/UserScript==`
 gulp.task('extension', ['clean:dist', 'extensionEx', 'extensionIOS', 'rewrite-script'], async function () {
   const bundle = await rollup.rollup({
-    input: './extension/main.js',
+    input: './src/main.js',
     plugins: [
       resolve({ preferBuiltins: false }),
       cmjs({ ignore: ['stream'] }),
@@ -199,7 +202,7 @@ const extensionBanner2 = `// ==UserScript==
 
 gulp.task('extensionEx', ['clean:dist'], async function () {
   const bundle = await rollup.rollup({
-    input: './extension/main.js',
+    input: './src/main.js',
     plugins: [
       resolve({ preferBuiltins: false }),
       cmjs({ ignore: ['stream'] }),
@@ -224,7 +227,7 @@ gulp.task('extensionEx', ['clean:dist'], async function () {
 
 gulp.task('extensionIOS', ['clean:dist'], async function () {
   const bundle = await rollup.rollup({
-    input: './extension/main.js',
+    input: './src/main.js',
     plugins: [
       resolve({ preferBuiltins: false }),
       cmjs({ ignore: ['stream'] }),
@@ -246,17 +249,14 @@ gulp.task('extensionIOS', ['clean:dist'], async function () {
   })
 })
 
+gulp.task('publish', ['md5', 'extension'], function (done) {
+  ghpages.publish('dist', {
+    add: false
+  }, function () {
+    done()
+  })
+})
+
 gulp.task('default', [
-  'move:static',
-  'move:normalcsv',
-  'move:etccsv',
-  'move:scenario',
-  'move:skill',
-  'md5',
-  'pack',
-  'scenarioMap',
-  'skillMap',
-  'clean:dist',
-  'cname',
   'publish'
 ])

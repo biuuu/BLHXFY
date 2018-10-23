@@ -1,15 +1,14 @@
 # 碧蓝幻想微风机翻团
 ## 前言
-目前大部分功能已通过浏览器插件的方式实现，甚至比原来的客户端程序有更多的功能。
-非翻译人员强烈建议直接使用插件，关于插件的使用说明：https://github.com/biuuu/BLHXFY/blob/master/extension/README.md
+从 v1.0.0 开始，项目里的 electron 版 App 相关代码被移除（原有代码查看 archive 分支），只保留用户脚本相关代码。
 
-如果你有兴趣加入翻译，请再往下看。
+今后将只更新和维护用户脚本（即汉化插件），下面的工具不再维护和更新。做剧情翻译也建议使用汉化插件来完成。
 
-请停一下，由于插件 v0.12.0 更新了提取和预览剧情的功能，所以做剧情翻译也不必下载下面的工具了，直接使用插件就可以。
-
-但下面关于剧情翻译的说明仍然值得看一下。
+关于插件的使用说明：https://github.com/biuuu/BLHXFY/blob/master/extension/README.md
 
 ## 简介
+（注意：下面的工具已不再更新和维护，建议使用浏览器汉化插件）
+
 下载：https://github.com/biuuu/BLHXFY/releases
 
 (下载最新的exe文件安装即可，可能会被 smart screen 拦截，点“更多信息”可以继续安装)
@@ -56,14 +55,11 @@ npm install -g yarn
 # 用 yarn 安装模块
 yarn install
 
-# 作为 electron App 启动
-yarn start
+# 构建用户脚本
+yarn build
 
-# 或者直接启动代理服务器（不推荐，有些代码逻辑未兼容）
-yarn proxy
-
-# 打包成应用
-yarn dist
+# 打包CSV和构建用户脚本，并push到当前repo的gh-pages分支
+yarn deploy
 ```
 
 ## License

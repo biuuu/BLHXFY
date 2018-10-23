@@ -1,1 +1,0 @@
-const start = require('./main/')
