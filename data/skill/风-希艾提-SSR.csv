@@ -10,7 +10,7 @@ skill-2,无限创造,10次0.6~0.7倍风属性伤害，目标随机
 skill-2+,无限创造,10次0.6~0.7倍风属性伤害，目标随机
 skill-2++,无限创造,10次0.6~0.7倍风属性伤害，目标随机/自身奥义值30%UP
 skill-3,狮心,我方全体可即时发动奥义 <span class=text-blue>◆消耗3层剑光</span>
-skill-3,七曜之辉光,<div class=prt-text-small>剑光Lv3以上时，我方全体奥义伤害100%UP/奥义上限90%UP(不消耗剑光)<span class=text-blue>◆无法再次使用</span></div>
+skill-3,七星之辉光,<div class=prt-text-small>剑光Lv3以上时，我方全体奥义伤害100%UP/奥义上限90%UP(不消耗剑光)<span class=text-blue>◆无法再次使用</span></div>
 support-1,天星剑王,我方全体奥义伤害50%UP/根据剑光等级获得强化
 support-1+,天星剑王,我方全体奥义伤害50%UP/奥义上限10%UP/根据剑光等级获得强化
 support-2,王中之王,对土属性敌人伤害20%UP
