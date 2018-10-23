@@ -4,7 +4,7 @@
 
 今后将只更新和维护用户脚本（即汉化插件），下面的工具不再维护和更新。做剧情翻译也建议使用汉化插件来完成。
 
-关于插件的使用说明：https://github.com/biuuu/BLHXFY/blob/master/extension/README.md
+关于插件的使用说明：https://github.com/biuuu/BLHXFY/blob/master/src/README.md
 
 ## 简介
 （注意：下面的工具已不再更新和维护，建议使用浏览器汉化插件）
