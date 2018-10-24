@@ -1,4 +1,4 @@
-import getSkillData, { skillKeys } from '../store/skill-npc'
+import getSkillData, { skillKeys, getLocalSkillData } from '../store/skill-npc'
 import replaceTurn from '../utils/replaceTurn'
 import transBuff from './buff'
 
@@ -74,6 +74,21 @@ const parseBuff = async (data) => {
   }
 }
 
+const previewSkill = (npcId) => {
+  $('#cnt-detail')
+  .off('click.blhxfy')
+  .on('click.blhxfy', '.prt-evolution-star>div:eq(1)', function () {
+    const csv = window.prompt('粘贴要预览的技能翻译CSV文本')
+    if (csv) {
+      sessionStorage.setItem('blhxfy:skill-preview', jSON.stringify({
+        id: npcId,
+        csv: csv
+      }))
+      window.reload()
+    }
+  })
+}
+
 const parseSkill = async (data, pathname) => {
   let npcId
   if (pathname.includes('/npc/npc/')) {
@@ -85,9 +100,12 @@ const parseSkill = async (data, pathname) => {
   }
 
   await parseBuff(data)
+  previewSkill(npcId)
 
-  const skillState = await getSkillData(npcId)
-  if (!skillState) return data
+  let skillState = getLocalSkillData(npcId)
+  if (!skillState) {
+    skillState = await getSkillData(npcId)
+  }
   const skillData = skillState.skillMap.get(npcId)
   const translated = new Map()
   const keys = skillState.skillKeys
