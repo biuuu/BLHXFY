@@ -1,5 +1,7 @@
 import EventEmitter  from 'events'
 import config from './config'
+import DOMPurify from 'dompurify'
+import isString from 'lodash/isString'
 
 const { origin } = config
 let ee = new EventEmitter()
@@ -54,7 +56,11 @@ getHash.then(hash => {
 
 const fetchWithHash = async (pathname) => {
   const hash = await getHash
-  return fetchData(`${pathname}?lecia=${hash}`)
+  const data = await fetchData(`${pathname}?lecia=${hash}`)
+  if (isString(data)) {
+    return DOMPurify.sanitize(data)
+  }
+  return data
 }
 
 const receiveMessage = (event) => {

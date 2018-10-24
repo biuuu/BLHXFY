@@ -1,3 +1,5 @@
+import DOMPurify from 'dompurify'
+
 const trim = (str) => {
   if (!str) return ''
   return str.trim()
@@ -52,7 +54,7 @@ const getPreviewCsv = (name) => {
   let csv = ''
   for (let item of data) {
     if (item.name === name) {
-      csv =  item.csv
+      csv =  DOMPurify.sanitize(item.csv)
     }
   }
   return csv
