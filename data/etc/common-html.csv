@@ -7,9 +7,9 @@ path,text,trans,count
 /content,イベント,活动,10
 /content,残り,还剩,20
 /content,マイページに戻る,返回Mypage,
-/party/content/job/,<div class="btn-tabs">アビリティ</div>,<div class=btn-tabs>技能</div>,
-/party/content/job/,<div class="btn-tabs">サポート</div>,<div class=btn-tabs>被动</div>,
-/party/content/job/,<div class="btn-tabs">ボーナス</div>,<div class=btn-tabs>加成</div>,
+/party/content/job/,"<div class=""btn-tabs"">アビリティ</div>",<div class=btn-tabs>技能</div>,
+/party/content/job/,"<div class=""btn-tabs"">サポート</div>",<div class=btn-tabs>被动</div>,
+/party/content/job/,"<div class=""btn-tabs"">ボーナス</div>",<div class=btn-tabs>加成</div>,
 /party/content/job/,LBを割り振ることで、ジョブを強化することができます。,可通过分配LB点数强化职业能力。,
 /party/content/job/,JOB Lv20でこのジョブのLimit Bonusが解禁され<br>能力を強化することができます。,JOB Lv20后可解锁该职业的Limit Bonus<br>并对其进行强化。,
 /quest/content/newassist,強敵のお出ましだぜぇー！,强大的敌人出现啦！,
@@ -60,7 +60,7 @@ path,text,trans,count
 /lobby/content/room,あと<%= can_quest_start_count %>回挑戦します（全<%= max_quest_start_count %>回）,还剩<%= can_quest_start_count %>回挑战（一共<%= max_quest_start_count %>回）,
 /lobby/content/room,このクエストに挑戦します。,准备挑战这个任务,2
 /lobby/content/room,マルチバトルの難易度を選択してください,请选择多人战的难度级别,
-/lobby/content/roを選択してください,请选择一个活动副本,
+/lobby/content/room,を選択してください,请选择一个活动副本,
 /lobby/content/room,サポーターを選択してください。,请选择支援召唤石,3
 /lobby/content/room,サポーターに選択できるメンバーがいません。,没有可供选择召唤石的成员,2
 /lobby/content/room,<%= set_user.name %> Rank <%= set_user.rank %> が選択,<%= set_user.name %> Rank <%= set_user.rank %> 选择任务,2
