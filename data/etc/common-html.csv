@@ -1,12 +1,4 @@
 path,text,trans,count
-/content,個,个,55
-/content,あと,还有,30
-/content,本日,今天,30
-/content,在庫,库存,10
-/content,その他,其他,10
-/content,イベント,活动,10
-/content,残り,还剩,20
-/content,マイページに戻る,返回Mypage,
 /party/content/job/,"<div class=""btn-tabs"">アビリティ</div>",<div class=btn-tabs>技能</div>,
 /party/content/job/,"<div class=""btn-tabs"">サポート</div>",<div class=btn-tabs>被动</div>,
 /party/content/job/,"<div class=""btn-tabs"">ボーナス</div>",<div class=btn-tabs>加成</div>,
@@ -232,7 +224,7 @@ path,text,trans,count
 /result,イベントTOPへ,回到活动,2
 /result,総貢献度,总贡献度,3
 /result,総ダメージ,总伤害,4
-/result,獲得アイテムはありません,没有获得道具,
+/result,獲得アイテムはありません,无掉落,
 /result,獲得アイテムが各種自動設定に使用されました,获得的道具会被各种自动设定所使用,
 /result,四象の輝き,四象之辉光,3
 /result,｢四象の輝き｣の所持上限に達しているため<br>｢四象の輝き｣を獲得することができませんでした。,｢四象辉光｣点数已达持有上限<br>因此无法再继续获得｢四象辉光｣点数了,4
@@ -283,3 +275,11 @@ path,text,trans,count
 /party/content/list_subaction,リミットアビリティ,LB技能,
 /party/content/list_subaction,ベースアビリティ,基础技能,
 /quest/content/scene,このお話のあらすじ,这一节的故事梗概,
+/content,個,个,55
+/content,あと,还有,30
+/content,本日,今天,30
+/content,在庫,库存,10
+/content,その他,其他,10
+/content,イベント,活动,10
+/content,残り,还剩,20
+/content,マイページに戻る,返回首页,
