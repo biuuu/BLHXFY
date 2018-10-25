@@ -11,6 +11,7 @@ path,text,trans,count
 /quest/content/newassist,バトル履歴,战斗日志,
 /quest/content/newassist,参戦IDを入力してマルチバトルに<br>参戦します。,输入多人战的参战ID<br>即刻参战,
 /quest/content/newassist,※IDは大文字と小文字を区別しません。,※ID的字母不用区分大小写。,
+/quest/content/newassist,参加する,加入战斗,
 /quest/content/newassist,未確認バトルの確認期限は、バトル終了から1週間経過後の最初の土曜日までとなります。,未结算的战斗截止日期为战斗结束一周后的第一个星期六。,
 /quest/content/newassist,期限を過ぎると、確認及び報酬の受け取りができなくなりますのでご注意ください。,请注意，截止日期后您将无法结算战斗和获取奖励。,
 /quest/content/newassist,見に行こうぜぇー！,快去看看吧！,
@@ -24,6 +25,14 @@ path,text,trans,count
 /quest/content/newassist,アイテムを使用して<%= point_name %>を回復しますか？,使用道具恢复<%= point_name %>？,
 /quest/content/newassist,<span class='txt-request-name'><%= n.attributes.called_user_name %></span>さんからの救援依頼,来自<span class='txt-request-name'><%= n.attributes.called_user_name %></span>的救援请求,
 /quest/content/newassist,<span class='txt-request-name'><%= raid['called_user_name'] %></span>さんからの救援依頼,来自<span class='txt-request-name'><%= raid['called_user_name'] %></span>的救援请求,
+/quest/content/newassist,イベントストーリーを開始することで<br>マルチバトルに参加できるようになります。,开始活动剧情后即可参加多人战斗,
+/quest/content/newassist,参加できるイベントマルチバトルはありません,没有可以加入的活动副本,
+/quest/content/newassist,クエストへ,回到任务,2
+/quest/content/newassist,イベントマルチバトルは、イベントクエストを進めていくと発生します,活动副本会在推进活动任务后出现,
+/quest/content/newassist,参加条件を満たしていない場合、この一覧には表示されません,如果不符合参与条件，则不会出现在此列表中,2
+/quest/content/newassist,参加できるマルチバトルはありません。,没有可以加入的副本,
+/quest/content/newassist,マルチバトルは、クエストを進めていくと発生します,副本会在推进任务后出现,
+/quest/content/newassist,イベントマルチバトルの救援依頼を表示するか<br>どうかそれぞれ設定することができます,可以设置是否显示活动副本的救援请求,2
 /quest/content,クエストリストへ,返回任务列表,
 /archive/content/story,メインシナリオ,主线剧情,2
 /quest/content/supporter_raid,サポーター召喚石選択,选择支援召唤石,
@@ -261,6 +270,8 @@ path,text,trans,count
 /result,リサイクル化自動設定,自动回收的设定,
 /result,武器の所持数,武器持有数量,
 /result,召喚石の所持数,召唤石持有数量,
+/result,このバトルで獲得できる報酬はありません,这场战斗没有可以获取的奖励,
+/result,クエストリストへ,返回任务列表,
 /result,この設定をすることで、獲得した装備を<br>自動的に売却、または騎空艇強化に使用できます,这个按钮的设置可以让你在获得<br>装备时自动出售或强化骑空艇,
 /result,リサイクル化に使用する装備を選択してください,请选择用于回收的装备,
 /result,ボーナス値やスキル付きの装備は使用されません,不会使用带有技能的武器和带有加号的装备,
