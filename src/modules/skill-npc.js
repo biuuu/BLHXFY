@@ -1,6 +1,7 @@
 import getSkillData, { skillKeys, getLocalSkillData } from '../store/skill-npc'
 import replaceTurn from '../utils/replaceTurn'
 import transBuff from './buff'
+import { splitSingleLineSkill } from '../utils/'
 
 const elemtRE = '([光闇水火風土]|light|dark|water|wind|earth|fire)'
 const elemtMap = {
@@ -80,11 +81,16 @@ const previewSkill = (npcId) => {
   .on('click.blhxfy', '.prt-evolution-star>div:eq(1)', function () {
     const csv = window.prompt('粘贴要预览的技能翻译CSV文本')
     if (csv) {
-      sessionStorage.setItem('blhxfy:skill-preview', jSON.stringify({
+      sessionStorage.setItem('blhxfy:skill-preview', JSON.stringify({
         id: npcId,
-        csv: csv
+        csv: splitSingleLineSkill(csv)
       }))
-      window.reload()
+      location.reload()
+    }
+  }).on('click.blhxfy', '.prt-evolution-star>div:eq(2)', function () {
+    if (confirm('清除技能预览？')) {
+      sessionStorage.removeItem('blhxfy:skill-preview')
+      location.reload()
     }
   })
 }

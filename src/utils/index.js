@@ -60,4 +60,14 @@ const getPreviewCsv = (name) => {
   return csv
 }
 
-export { trim, tryDownload, replaceWords, getPreview, getPreviewCsv }
+const splitSingleLineSkill = (csv) => {
+  return csv.replace(/\s(skill|special|npc|support|intro|,|active)/g, '\n$1')
+}
+
+export { trim,
+  tryDownload,
+  replaceWords,
+  getPreview,
+  getPreviewCsv,
+  splitSingleLineSkill
+}
