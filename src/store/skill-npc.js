@@ -82,5 +82,27 @@ const getSkillData = async (npcId) => {
   return state
 }
 
+const getLocalSkillData = (npcId) => {
+  const str = sessionStorage.getItem('blhxfy:skill-preview')
+  if (str) {
+    try {
+      const data = JSON.parse(str)
+      if (data.id === npcId) {
+        const list = parseCsv(data.csv)
+        list.forEach(item => {
+          if (item.id === 'npc') {
+            item.detail = npcId
+          }
+        })
+        setSkillMap(list)
+        return state
+      }
+    } catch (err) {
+      console.error(err)
+    }
+  }
+  return false
+}
+
 export default getSkillData
-export { skillKeys }
+export { skillKeys, getLocalSkillData }

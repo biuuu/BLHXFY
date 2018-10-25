@@ -20,16 +20,16 @@ const getCommHtmlData = async () => {
     }
     const list = parseCsv(csv)
     const tempMap = new Map()
-    sortKeywords(list, 'text').forEach(item => {
+    sortKeywords(list, 'text').forEach((item, index) => {
       const pathname = trim(item.path)
       const text = trim(item.text)
       const trans = trim(item.trans)
       const times = (item.count | 0) || 1
       if (pathname && text && trans) {
         if (tempMap.has(pathname)) {
-          tempMap.get(pathname).push({ text, trans, times })
+          tempMap.get(pathname).push({ text, trans, times, index })
         } else {
-          tempMap.set(pathname, [{ text, trans, times }])
+          tempMap.set(pathname, [{ text, trans, times, index }])
         }
       }
     })

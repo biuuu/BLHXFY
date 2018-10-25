@@ -3,21 +3,25 @@ import getArchiveData from '../store/archive'
 
 const replaceHTML = async (html, pathname) => {
   let _html = html
+  let theList = []
   const htmlMap = await getCommHtmlData()
   for (let [key, list] of htmlMap.entries()) {
     if (pathname.includes(key)) {
-      list.forEach(item => {
-        for (let i = 0; i < item.times; i++) {
-          let newHtml = _html.replace(item.text, item.trans)
-          if (newHtml !== _html) {
-            _html = newHtml
-          } else {
-            break
-          }
-        }
-      })
+      theList = theList.concat(list)
     }
   }
+  theList
+  .sort((prev, next) => prev.index - next.index)
+  .forEach(item => {
+    for (let i = 0; i < item.times; i++) {
+      let newHtml = _html.replace(item.text, item.trans)
+      if (newHtml !== _html) {
+        _html = newHtml
+      } else {
+        break
+      }
+    }
+  })
   return _html
 }
 
