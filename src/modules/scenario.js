@@ -115,7 +115,7 @@ const transStart = async (data, pathname) => {
   if (pathRst[1].includes('birthday')) {
     let rst = pathname.match(/\/[^/]*?scenario.*?\/(scene.+)$/)
     if (!rst || !rst[1]) return data
-    sNameTemp = rst[1]
+    sNameTemp = rst[1].replace(/\//g, '_')
   }
   insertToolHtml()
   const scenarioName = sNameTemp
