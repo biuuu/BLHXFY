@@ -1,8 +1,8 @@
 ﻿id,en,jp,trans
 0-chapter_name,,ユーリ編 猫を巡る旅路,尤利篇 围绕着猫的旅途
 0-synopsis,,ある日、グランサイファーに迷い込んだ猫を預ける為、猫の集まる島、マルコ島に向かった一行。一行は、案内を求め立ち寄ったよろず屋で「ルル」という猫を探す青年ユーリと出会う。シェロカルテの提案でユーリの猫探しを手伝うことになった一行が、ユーリと共に猫のたまり場へ向かうと、そこでならず者に絡まれ、島から猫が消える事件の犯人だと勘違いされてしまう。,某日，为了将混上船的猫交人保管，一行人前往有很多猫聚集的岛——马尔科岛。为了找人带路，众人前往万事屋，在那里遇见了正在寻找一只名叫“路路”的猫的青年尤利。在榭洛卡尔提的提议下众人决定帮助尤利找猫，然而跟尤利一起前往猫的聚集处的时候被流氓缠上，被误会成了猫从岛上消失的事件的犯人。
-0,,<span class='scene-font-katari'>騎空艇グランサイファーで、</span><br><span class='scene-font-katari'>どこまでも広がる青空を進む</span><br><span class='scene-font-katari'>姬塔一行。</span>,姬塔一行人乘坐骑空艇格兰赛法在无尽的青空下前进。
-1,,<span class='scene-font-katari'>オイゲンは工具を手に</span><br><span class='scene-font-katari'>機関室から出てくると</span><br><span class='scene-font-katari'>大きく息をついた。</span>,欧根手上拿着工具从机关室走了出来，随后重重地叹了口气。
+0,,<span class='scene-font-katari'>騎空艇グランサイファーで、</span><br><span class='scene-font-katari'>どこまでも広がる青空を進む</span><br><span class='scene-font-katari'>姬塔一行。</span>,<span class='scene-font-katari'>姬塔一行人乘坐骑空艇格兰赛法在无尽的青空下前进。</span>
+1,,<span class='scene-font-katari'>オイゲンは工具を手に</span><br><span class='scene-font-katari'>機関室から出てくると</span><br><span class='scene-font-katari'>大きく息をついた。</span>,<span class='scene-font-katari'>欧根手上拿着工具从机关室走了出来，随后重重地叹了口气。</span>
 2,,ふぅ……<br>ちっとメンテナンス不足が原因で、<br>変な音が出てたみてぇだな。,呼……大概因为保养有点不到位，所以发出了奇怪的声音了吧。
 3,,きっちり全体に手を入れてきたから、<br>これでしばらくは大丈夫だろ！,我已经好好地全部修理了一番，这下应该有一段时间没问题了。
 4,,わぁ！<br>ありがとうございます！<br>オイゲンさん！,哇！谢谢你！欧根先生！
@@ -32,8 +32,8 @@
 28,,おいおい……<br>ルリアの奴、<br>なんかやけに目が輝いてねーか？,喂喂……露莉亚这家伙，好像两眼发光非常兴奋啊？
 29,,ははっ！<br>まぁ、ともかく、そいつをウチで<br>預かってるわけにゃいかねぇからな。,哈哈！不管怎么说，我们是不可能养它的。
 30,,息抜きがてら、<br>ちょいと寄り道していこうじゃねぇか。<br>なっ！　姬塔！,就当去散散心，绕个弯路去那边看看吧。你看呢，姬塔！
-36,,<span class='scene-font-katari'>猫の集まる島、マルコ島に到着した</span><br><span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>案内を求め、よろず屋へと向かう。</span>,姬塔一行人到达了猫聚集的岛，马尔科岛。为了寻找带路人，众人前往万事屋。
-37,,<span class='scene-font-katari'>するとそこには、</span><br><span class='scene-font-katari'>シェロカルテと話し込む</span><br><span class='scene-font-katari'>先客の姿があった。</span>,在那里看到先到的客人在跟榭洛卡尔提谈话。
+36,,<span class='scene-font-katari'>猫の集まる島、マルコ島に到着した</span><br><span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>案内を求め、よろず屋へと向かう。</span>,<span class='scene-font-katari'>姬塔一行人到达了猫聚集的岛，马尔科岛。为了寻找带路人，众人前往万事屋。</span>
+37,,<span class='scene-font-katari'>するとそこには、</span><br><span class='scene-font-katari'>シェロカルテと話し込む</span><br><span class='scene-font-katari'>先客の姿があった。</span>,<span class='scene-font-katari'>在那里看到先到的客人在跟榭洛卡尔提谈话。</span>
 38,,それで名前は「ルル」っつって、<br>こーんな大きさの猫なんだが……,所以说它是名字叫“路路”的，大概这么大的猫……
 39,,ほうほうほう……<br>そのルルさんが<br>迷子になっちゃってるわけですね～,嗯嗯嗯……这个路路迷路了啊~
 40,,ああ。あんたはこの辺りじゃ<br>かなり顔が広いんだろ？,是啊。你在这附近交际很广泛吧？
@@ -63,18 +63,18 @@
 64,,ったく……<br>ずるい紹介の仕方してくれるぜ……<br>なぁ？,真是的……好狡猾的介绍方式啊……对吧？
 65,,まぁ、こう言われちゃ、<br>オイラ達が、<br>断わるわけにはいかねーよな！,被这么说了，我们怎么可能拒绝啊！
 66,,ありがたい話だが、いいのか？<br>こちとらたいして払えねえぞ？,事情是很让人高兴，不过真的好吗？我这边可付不出多少钱啊？
-66-sel1_txt,,<span class='scene-font-katari'>もちろん</span>,当然。
-66-sel2_txt,,<span class='scene-font-katari'>どうしようかな……</span>,怎么办呢……
+66-sel1_txt,,<span class='scene-font-katari'>もちろん</span>,<span class='scene-font-katari'>当然。</span>
+66-sel2_txt,,<span class='scene-font-katari'>どうしようかな……</span>,<span class='scene-font-katari'>怎么办呢……</span>
 67,,んじゃ、ありがたく<br>お言葉に甘えさせてもらうとするか。,那么，很荣幸地接受你的好意。
 68,,無理することはねえさ。<br>あんたらにもあんたらの<br>都合ってもんがあるだろうしな。,不用勉强的，你们也有你们自己的事吧。
 69,,いや、オレ達の都合ってんなら、<br>ここは是非にでも、<br>協力させて欲しいところだな。,不，我们的事的话，反而想务必让我们帮忙呢。
 70,,なぁ、姬塔……<br>あのよろず屋からの紹介だぞ？,呐，姬塔……这是那个万事屋介绍来的啊？
 71,,知らない仲じゃねぇんだ。<br>ここは顔を立ててやろうじゃねぇか。,也不是不认识的人，这里就给她个面子吧。
-72,,<span class='scene-font-katari'>オイゲンの言葉に、</span><br><span class='scene-font-katari'>姬塔は頷く。</span>,姬塔点头同意欧根的话。
+72,,<span class='scene-font-katari'>オイゲンの言葉に、</span><br><span class='scene-font-katari'>姬塔は頷く。</span>,<span class='scene-font-katari'>姬塔点头同意欧根的话。</span>
 73,,いいのか？<br>んじゃ、お言葉に甘えさせてもらう<br>とするか。,这样好吗？那就接受你的好意了
 74,,オレはユーリ。ユーリ・ローウェル。<br>ウィンドル王国所属の騎士だ。<br>よろしくな。,我叫尤利，尤利·罗威尔，所属温德尔王国的骑士。请多指教。
-75,,<span class='scene-font-katari'>迷い猫をシェロカルテに預けた一行は、</span><br><span class='scene-font-katari'>ユーリと共によろず屋を出る。</span>,一行人将迷路的猫交给榭洛卡尔提照顾，与尤利一起走出万事屋。
-76,,<span class='scene-font-katari'>そして、島に点在する</span><br><span class='scene-font-katari'>いくつかの猫のたまり場を、</span><br><span class='scene-font-katari'>ユーリと共に巡っていくが……</span>,然后跟尤利一起逛了一下分布在岛上的几个猫的聚集处……
+75,,<span class='scene-font-katari'>迷い猫をシェロカルテに預けた一行は、</span><br><span class='scene-font-katari'>ユーリと共によろず屋を出る。</span>,<span class='scene-font-katari'>一行人将迷路的猫交给榭洛卡尔提照顾，与尤利一起走出万事屋。</span>
+76,,<span class='scene-font-katari'>そして、島に点在する</span><br><span class='scene-font-katari'>いくつかの猫のたまり場を、</span><br><span class='scene-font-katari'>ユーリと共に巡っていくが……</span>,<span class='scene-font-katari'>然后跟尤利一起逛了一下分布在岛上的几个猫的聚集处……</span>
 77,,おう、お前だな？<br>何やらカワイコちゃんを探してる<br>怪しい奴らってのは……,喂，是你吧？在找小可爱的可疑人物……
 78,,いや、オレが探してるのは、<br>ただのちょいとばかし<br>太めな猫なんだが……,不，我在找的是有点胖的猫……
 79,,てめぇ！！<br>言うに事欠いて、カワイコちゃんを<br>デブ猫呼ばわりたぁ上等じゃねぇか！,你这家伙！！说话不说清楚，居然把小可爱说成胖猫，不能忍！
