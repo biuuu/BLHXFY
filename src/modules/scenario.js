@@ -154,6 +154,10 @@ export default async function (data, pathname) {
     return Object.assign(data, {
       scene_list: await transStart(data.scene_list, pathname)
     })
+  } else if (Array.isArray(data.scenario)) {
+    return Object.assign(data, {
+      scenario: await transStart(data.scenario, pathname)
+    })
   } else {
     return data
   }
