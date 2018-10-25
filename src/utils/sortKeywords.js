@@ -6,14 +6,15 @@ const sortKeywords = (list, key = 'EMPTY') => {
       valPrev = prev[key]
       valNext = next[key]
     }
-    if (valNext && valPrev) {
-      if (valNext.length > valPrev.length) {
-        return 1
-      } else if (valPrev.length > valNext.length) {
-        return -1
-      }
+    if (!valNext) valNext = ''
+    if (!valPrev) valPrev = ''
+    if (valNext.length > valPrev.length) {
+      return 1
+    } else if (valPrev.length > valNext.length) {
+      return -1
+    } else {
+      return 0
     }
-    return 0
   })
 }
 
