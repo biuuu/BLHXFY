@@ -109,10 +109,16 @@ const scenarioCache = {
 }
 
 const transStart = async (data, pathname) => {
-  const pathRst = pathname.match(/\/scenario.*?\/(scene[^\/]+)\/?/)
+  const pathRst = pathname.match(/\/[^/]*?scenario.*?\/(scene[^\/]+)\/?/)
   if (!pathRst || !pathRst[1]) return data
+  let sNameTemp = pathRst[1]
+  if (pathRst[1].includes('birthday')) {
+    let rst = pathname.match(/\/[^/]*?scenario.*?\/(scene.+)$/)
+    if (!rst || !rst[1]) return data
+    sNameTemp = rst[1]
+  }
   insertToolHtml()
-  const scenarioName = pathRst[1]
+  const scenarioName = sNameTemp
   scenarioCache.data = cloneDeep(data)
   scenarioCache.name = scenarioName
   scenarioCache.hasTrans = false
