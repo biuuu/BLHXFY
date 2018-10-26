@@ -1,6 +1,7 @@
 import fetchData from '../fetch'
 import parseCsv from '../utils/parseCsv'
 import sortKeywords from '../utils/sortKeywords'
+import DOMPurify from 'dompurify'
 
 const skillMap = new Map()
 
@@ -88,7 +89,8 @@ const getLocalSkillData = (npcId) => {
     try {
       const data = JSON.parse(str)
       if (data.id === npcId) {
-        const list = parseCsv(data.csv)
+        const csv = DOMPurify.sanitize(data.csv)
+        const list = parseCsv(csv)
         list.forEach(item => {
           if (item.id === 'npc') {
             item.detail = npcId
