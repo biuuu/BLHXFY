@@ -7,14 +7,6 @@ const { origin } = config
 let ee = new EventEmitter()
 let lecia
 
-window.addEventListener('load', () => {
-  const iframe = document.createElement('iframe')
-  iframe.src = `${origin}/blhxfy/lecia.html`
-  iframe.style.display = 'none'
-  document.body.appendChild(iframe)
-  lecia = iframe.contentWindow
-})
-
 const insertCSS = (name, hash) => {
   const link = document.createElement('link')
   link.type = 'text/css'
@@ -37,10 +29,18 @@ const timeoutStyle = () => {
 }
 
 const load = new Promise((rev, rej) => {
-  let timer = setTimeout(() => {
-    rej('加载lecia.html超时')
-    timeoutStyle()
-  }, config.timeout * 1000)
+  let timer
+  window.addEventListener('load', () => {
+    const iframe = document.createElement('iframe')
+    iframe.src = `${origin}/blhxfy/lecia.html`
+    iframe.style.display = 'none'
+    document.body.appendChild(iframe)
+    lecia = iframe.contentWindow
+    timer = setTimeout(() => {
+      rej('加载lecia.html超时')
+      timeoutStyle()
+    }, config.timeout * 1000)
+  })
   ee.once('loaded', () => {
     clearTimeout(timer)
     rev()
