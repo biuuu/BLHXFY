@@ -1,10 +1,10 @@
-import start from './xhr'
+import injectXHR from './xhr'
 import dlStoryCsv from './story/dlStoryCsv'
 import previewCsv from './story/previewCsv'
 
 const main = () => {
   if (window.blhxfy) return
-  start()
+  injectXHR()
   window.blhxfy = {
     dlStoryCsv, previewCsv
   }

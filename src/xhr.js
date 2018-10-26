@@ -1,6 +1,6 @@
 import translate from './translate'
 
-const start = () => {
+const injectXHR = () => {
   // The following code are inspired by viramate/external.js
   // intercept xhr request and modify the response
   const XHR = XMLHttpRequest
@@ -33,31 +33,26 @@ const start = () => {
 
 
   const customOnLoad = async function (evt) {
-    let state
-    try {
-      state = getXhrState(this)
-      state.onLoadEvent = evt
-      Object.defineProperties(this, {
-        response: {
-          get () {
-            return state.result
-          }
-        },
-        responseText: {
-          get () {
-            return state.result
-          }
+    const state = getXhrState(this)
+    state.onLoadEvent = evt
+    Object.defineProperties(this, {
+      response: {
+        get () {
+          return state.result
         }
-      })
-      try {
-        await translate(state)
-      } catch (_err) {
-        console.error(_err)
+      },
+      responseText: {
+        get () {
+          return state.result
+        }
       }
-      state.onload && state.onload.call(this, state.onLoadEvent)
+    })
+    try {
+      await translate(state)
     } catch (err) {
       log(err)
     }
+    state.onload && state.onload.call(this, state.onLoadEvent)
   }
 
   const customOnReadyStateChange = async function () {
@@ -152,4 +147,4 @@ const start = () => {
   }
 }
 
-export default start
+export default injectXHR

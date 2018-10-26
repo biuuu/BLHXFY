@@ -15,16 +15,36 @@ window.addEventListener('load', () => {
   lecia = iframe.contentWindow
 })
 
-const insertCSS = (hash) => {
+const insertCSS = (name, hash) => {
   const link = document.createElement('link')
   link.type = 'text/css'
   link.rel = 'stylesheet'
-  link.href = `${origin}/blhxfy/data/static/style/BLHXFY.css?lecia=${hash}`
+  link.href = `${origin}/blhxfy/data/static/style/${name}.css?lecia=${hash}`
   document.head.appendChild(link)
 }
 
-const load = new Promise(rev => {
-  ee.once('loaded', rev)
+let timeoutStyleInserted = false
+const timeoutStyle = () => {
+  if (timeoutStyleInserted) return
+  timeoutStyleInserted = true
+  const style = document.createElement('style')
+  style.innerHTML = `
+  .wrapper .cnt-global-header .prt-head-current {
+    color: #ff6565;
+  }
+  `
+  document.head.appendChild(style)
+}
+
+const load = new Promise((rev, rej) => {
+  let timer = setTimeout(() => {
+    rej('加载lecia.html超时')
+    timeoutStyle()
+  }, config.timeout * 1000)
+  ee.once('loaded', () => {
+    clearTimeout(timer)
+    rev()
+  })
 })
 
 const fetchData = async (pathname) => {
@@ -36,7 +56,12 @@ const fetchData = async (pathname) => {
     url, flag
   }, origin)
   return new Promise((rev, rej) => {
+    let timer = setTimeout(() => {
+      rej(`加载${pathname}超时`)
+      timeoutStyle()
+    }, config.timeout * 1000)
     ee.once(`response${flag}`, function (data) {
+      clearTimeout(timer)
       if (data.error) {
         rej(data.error)
       } else {
@@ -50,7 +75,7 @@ const getHash = fetchData('/blhxfy/manifest.json').then(data => data.hash)
 
 getHash.then(hash => {
   config.hash = hash
-  insertCSS(hash)
+  insertCSS('BLHXFY', hash)
   return hash
 })
 
