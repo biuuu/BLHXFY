@@ -6,6 +6,7 @@ const template = `
   top: 104px;
 }
 #blhxfy-setting-modal {
+  display: none;
   position: absolute;
   top: 0;
   left: 0;
@@ -27,11 +28,13 @@ const template = `
   font-family: sans-serif;
   color: #4d6671;
 }
+#blhxfy-setting-modal.show {
+  display: block;
+}
 #blhxfy-setting-modal input[type=text]::placeholder {
   color: #aaa;
 }
 </style>
-<div class="btn-usual-text" id="btn-setting-blhxfy">汉化插件设置</div>
 <div id="blhxfy-setting-modal">
 <div class="cnt-setting">
 	<div class="prt-setting-header"><img class="img-header" src="https://blhx.danmu9.com/blhxfy/data/static/image/setting-header.jpg" alt="header_public"></div>
@@ -46,11 +49,34 @@ const template = `
 					<li>留空则使用默认的数据源</li>
 				</ul>
 				<div class="prt-button-l">
-          <input id="friend-allow-flag" type="text" value="" placeholder="https://blhx.danmu9.com">
+          <input id="origin-setting-blhxfy" oninput="window.blhxfy.setting('origin', this.value)" type="text" value="" placeholder="https://blhx.danmu9.com">
         </div>
       </div>
       <div class="txt-setting-lead">
         ※使用第三方数据源有风险，请选择可以信任的数据源。
+      </div>
+
+      <div class="prt-setting-article">
+				<div class="txt-article-title">主角名</div>
+				<ul class="txt-article-lead">
+					<li>剧情里显示的主角名字，留空则使用你自己的昵称</li>
+				</ul>
+				<div class="prt-button-l">
+          <input id="username-setting-blhxfy" oninput="window.blhxfy.setting('username', this.value)" type="text" value="" placeholder="请输入主角名">
+				</div>
+      </div>
+
+      <div class="prt-setting-article">
+				<div class="txt-article-title">剧情CSV文件快捷下载</div>
+				<ul class="txt-article-lead">
+					<li>激活后在 SKIP 的时候自动下载剧情CSV</li>
+				</ul>
+				<div class="prt-button-l">
+					<div>
+						<input id="auto-download-setting-blhxfy" onchange="window.blhxfy.setting('auto-download', this.checked)" type="checkbox" value="">
+						<label for="auto-download-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">自动下载CSV</label>
+					</div>
+        </div>
       </div>
 
 			<div class="prt-setting-article">
@@ -60,11 +86,14 @@ const template = `
 				</ul>
 				<div class="prt-button-l">
 					<div>
-						<input id="friend-request-flag" type="checkbox" value="">
-						<label for="friend-request-flag" class="btn-usual-setting-new adjust-font-s">底部工具栏</label>
+						<input id="bottom-toolbar-setting-blhxfy" onchange="window.blhxfy.setting('bottom-toolbar', this.checked)" type="checkbox" value="">
+						<label for="bottom-toolbar-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">底部工具栏</label>
 					</div>
 				</div>
-			</div>
+      </div>
+      <div class="txt-setting-lead">
+        ※修改的设置在刷新页面后生效
+      </div>
 		</div>
 	</div>
 
@@ -77,5 +106,5 @@ const template = `
 </div>
 `
 export default function (html) {
-  return html.replace('<div class="cnt-setting">', `${template}<div class="cnt-setting">`)
+  return html.replace('<div class="cnt-setting">', `${template}<div class="cnt-setting"><div class="cnt-setting"><div class="btn-usual-text" id="btn-setting-blhxfy" onclick="window.blhxfy.setting(\'show\')">汉化插件设置</div>`)
 }

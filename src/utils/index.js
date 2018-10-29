@@ -64,10 +64,17 @@ const splitSingleLineSkill = (csv) => {
   return csv.replace(/\s(skill|special|npc|support|intro|,|active)/g, '\n$1')
 }
 
+const isDomain = (str) => {
+  if (!/^https?:\/\//.test(str)) return false
+  if (/\s/.test(str.trim())) return false
+  return true
+}
+
 export { trim,
   tryDownload,
   replaceWords,
   getPreview,
   getPreviewCsv,
-  splitSingleLineSkill
+  splitSingleLineSkill,
+  isDomain
 }
