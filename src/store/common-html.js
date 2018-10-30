@@ -2,14 +2,11 @@ import fetchData from '../fetch'
 import parseCsv from '../utils/parseCsv'
 import sortKeywords from '../utils/sortKeywords'
 import { getLocalData, setLocalData } from './local-data'
+import filter from '../utils/XSSFilter'
+import { trim } from '../utils/'
 
 const htmlMap = new Map()
 let loaded = false
-
-const trim = (str) => {
-  if (!str) return ''
-  return str.trim()
-}
 
 const getCommHtmlData = async () => {
   if (!loaded) {
@@ -23,7 +20,7 @@ const getCommHtmlData = async () => {
     sortKeywords(list, 'text').forEach((item, index) => {
       const pathname = trim(item.path)
       const text = trim(item.text)
-      const trans = trim(item.trans)
+      const trans = filter(trim(item.trans))
       const times = (item.count | 0) || 1
       if (pathname && text && trans) {
         if (tempMap.has(pathname)) {

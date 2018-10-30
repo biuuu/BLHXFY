@@ -2,6 +2,7 @@ import fetchData from '../fetch'
 import parseCsv from '../utils/parseCsv'
 import { trim } from '../utils/'
 import { getLocalData, setLocalData } from './local-data'
+import filter from '../utils/XSSFilter'
 
 const buffMap = {
   buff: new Map(),
@@ -18,7 +19,7 @@ const getData = async (type) => {
   const list = parseCsv(csv)
   list.forEach(item => {
     const detail = trim(item.detail)
-    const trans = trim(item.trans)
+    const trans = filter(trim(item.trans))
     if (detail && trans) {
       buffMap[type].set(detail, trans)
     }

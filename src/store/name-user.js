@@ -1,4 +1,5 @@
 import config from '../config'
+import filter from '../utils/XSSFilter'
 
 const getUserName = (data) => {
   const html = decodeURIComponent(data.data)
@@ -28,7 +29,7 @@ const setUserName = () => {
 
 const getLocalName = () => {
   const name = localStorage.getItem('blhxfy:name')
-  if (name) config.userName = name
+  if (name) config.userName = filter(name)
 }
 
 getLocalName()

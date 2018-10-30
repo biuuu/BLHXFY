@@ -31,15 +31,19 @@ export default async function translate(state) {
       setUserName()
       data = await transScenario(data, pathname)
     } else if (pathname.includes('/content/')) {
-      if (pathname.includes('/profile/content/index/')) {
-        getUserName(data)
+      try {
+        if (pathname.includes('/profile/content/index/')) {
+          getUserName(data)
+        }
+        data = await transLangMsg(data, pathname)
+        if (pathname.includes('/user/content/index')) {
+          data = await transTownInfo(data, pathname)
+          data = await pageIndex(data, pathname)
+        }
+      } catch (err) {
+        console.error(err)
       }
-      data = await transLangMsg(data, pathname)
       data = await transHTML(data, pathname)
-      if (pathname.includes('/user/content/index')) {
-        data = await transTownInfo(data, pathname)
-        data = await pageIndex(data, pathname)
-      }
     } else if (pathname.includes('/npc/npc/') || pathname.includes('/archive/npc_detail')) {
       data = await transNpcSkill(data, pathname)
     } else if (

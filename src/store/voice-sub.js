@@ -1,13 +1,10 @@
 import fetchData from '../fetch'
 import parseCsv from '../utils/parseCsv'
+import { trim } from '../utils/'
+import filter from '../utils/XSSFilter'
 
 const voiceMap = new Map()
 let loaded = false
-
-const trim = (str) => {
-  if (!str) return ''
-  return str.trim()
-}
 
 const getTownData = async () => {
   if (!loaded) {
@@ -15,7 +12,7 @@ const getTownData = async () => {
     const list = parseCsv(csv)
     list.forEach(item => {
       const path = trim(item.path)
-      const trans = trim(item.trans)
+      const trans = filter(trim(item.trans))
       const duration = trim(item.duration) || 10
       if (path && trans) {
         voiceMap.set(path, { trans, duration })

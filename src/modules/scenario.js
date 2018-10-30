@@ -3,8 +3,10 @@ import parseCsv from '../utils/parseCsv'
 import fetchData from '../fetch'
 import config from '../config'
 import insertToolHtml from '../story/insertToolHtml'
+import autoDownloadCsv from '../setting/autoDownloadCsv'
 import cloneDeep  from 'lodash/cloneDeep'
 import { getPreviewCsv } from '../utils/'
+import filter from '../utils/XSSFilter'
 
 const txtKeys = ['chapter_name', 'synopsis', 'detail', 'sel1_txt', 'sel2_txt', 'sel3_txt', 'sel4_txt']
 
@@ -26,7 +28,7 @@ const getScenario = async (name) => {
       const id = idArr[0]
       const type = idArr[1] || 'detail'
       const obj = transMap.get(id) || {}
-      obj[type] = item.trans ? item.trans.replace(/姬塔/g, config.userName) : false
+      obj[type] = item.trans ? filter(item.trans.replace(/姬塔/g, config.userName)) : false
       transMap.set(id, obj)
     }
   })
@@ -118,6 +120,7 @@ const transStart = async (data, pathname) => {
     sNameTemp = rst[1].replace(/\//g, '_')
   }
   insertToolHtml()
+  autoDownloadCsv()
   const scenarioName = sNameTemp
   scenarioCache.data = cloneDeep(data)
   scenarioCache.name = scenarioName

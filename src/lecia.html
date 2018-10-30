@@ -38,7 +38,7 @@
       }
     }
     window.addEventListener("message", receiveMessage, false)
-    window.addEventListener("load", function () {
+    window.addEventListener('load', function () {
       window.parent && window.parent.postMessage({
         type: 'loaded'
       }, '*')
