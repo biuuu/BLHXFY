@@ -1,15 +1,12 @@
 import fetchData from '../fetch'
 import parseCsv from '../utils/parseCsv'
 import { getLocalData, setLocalData } from './local-data'
+import filter from '../utils/XSSFilter'
+import { trim } from '../utils/'
 
 const chatMap = new Map()
 const nChatMap = new Map()
 let loaded = false
-
-const trim = (str) => {
-  if (!str) return ''
-  return str.trim()
-}
 
 const getChatData = async () => {
   if (!loaded) {
@@ -22,7 +19,7 @@ const getChatData = async () => {
     list.forEach(item => {
       const id = trim(item.id)
       const text = trim(item.text)
-      const trans = trim(item.trans)
+      const trans = filter(trim(item.trans))
       if (id && trans) {
         if (/\d+-n/.test(id)) {
           const rgs = id.match(/(\d+)-n/)

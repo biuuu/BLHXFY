@@ -1,7 +1,8 @@
 import fetchData from '../fetch'
 import parseCsv from '../utils/parseCsv'
 import sortKeywords from '../utils/sortKeywords'
-import DOMPurify from 'dompurify'
+import filter from '../utils/XSSFilter'
+import { trim } from '../utils/'
 
 const skillMap = new Map()
 
@@ -35,9 +36,9 @@ const getCommSkillMap = async () => {
   const sortedList = sortKeywords(list, 'comment')
   sortedList.forEach(item => {
     if (item.comment && item.trans && item.type) {
-      const comment = item.comment.trim()
-      const trans = item.trans.trim()
-      const type = item.type.trim() || '1'
+      const comment = trim(item.comment)
+      const trans = filter(trim(item.trans))
+      const type = trim(item.type) || '1'
       if (comment && trans) {
         state.commSkillMap.set(comment, { trans, type })
       }
@@ -77,7 +78,7 @@ const getSkillData = async (npcId) => {
   const csvName = state.skillData[npcId]
   if (csvName) {
     const csvData = await fetchData(`/blhxfy/data/skill/${csvName}`)
-    const list = parseCsv(csvData)
+    const list = parseCsv(filter(csvData))
     setSkillMap(list)
   }
   return state
@@ -89,7 +90,7 @@ const getLocalSkillData = (npcId) => {
     try {
       const data = JSON.parse(str)
       if (data.id === npcId) {
-        const csv = DOMPurify.sanitize(data.csv)
+        const csv = filter(data.csv)
         const list = parseCsv(csv)
         list.forEach(item => {
           if (item.id === 'npc') {

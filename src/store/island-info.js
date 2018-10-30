@@ -1,13 +1,10 @@
 import fetchData from '../fetch'
 import parseCsv from '../utils/parseCsv'
+import filter from '../utils/XSSFilter'
+import { trim } from '../utils/'
 
 const islandMap = new Map()
 let loaded = false
-
-const trim = (str) => {
-  if (!str) return ''
-  return str.trim()
-}
 
 const getIslandData = async () => {
   if (!loaded) {
@@ -15,8 +12,8 @@ const getIslandData = async () => {
     const list = parseCsv(csv)
     list.forEach(item => {
       const id = trim(item.id)
-      const name = trim(item.name)
-      const detail = trim(item.detail)
+      const name = filter(trim(item.name))
+      const detail = filter(trim(item.detail))
       if (id && name) {
         islandMap.set(id, { name, detail })
         if (id === 'skydom') {

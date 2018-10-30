@@ -1,6 +1,8 @@
 import fetchData from '../fetch'
 import parseCsv from '../utils/parseCsv'
 import sortKeywords from '../utils/sortKeywords'
+import filter from '../utils/XSSFilter'
+import { trim } from '../utils/'
 
 const enNameMap = new Map()
 const jpNameMap = new Map()
@@ -17,7 +19,7 @@ const nameWithScenario = (list, key = 'name') => {
         obj[item.scenario] = item
         obj.scenarios.push(item.scenario)
       } else {
-        obj.trans = item.trans
+        obj.trans = filter(trim(item.trans))
         obj.noun = !!item.noun
       }
     } else {
@@ -26,7 +28,7 @@ const nameWithScenario = (list, key = 'name') => {
         obj[item.scenario] = item
         obj.scenarios.push(item.scenario)
       } else {
-        obj.trans = item.trans
+        obj.trans = filter(trim(item.trans))
         obj.noun = !!item.noun
       }
       newList.push(obj)

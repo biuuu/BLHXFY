@@ -1,5 +1,6 @@
 import getCommHtmlData from '../store/common-html'
 import getArchiveData from '../store/archive'
+import insertSettingHtml from '../setting/insertHtml'
 
 const replaceHTML = async (html, pathname) => {
   let _html = html
@@ -49,10 +50,17 @@ export default async function transHTML(data, pathname) {
   } catch (err) {
     return data
   }
-  if (pathname.includes('/archive/content/library/')) {
-    html = await replaceArchive(html)
-  } else {
-    html = await replaceHTML(html, pathname)
+  try {
+    if (pathname.includes('/archive/content/library/')) {
+      html = await replaceArchive(html)
+    } else {
+      html = await replaceHTML(html, pathname)
+    }
+  } catch (err) {
+    console.error(err)
+  }
+  if (pathname.includes('/setting/content/index/index')) {
+    html = insertSettingHtml(html)
   }
   data.data = encodeURIComponent(html)
   return data

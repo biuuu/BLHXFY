@@ -1,5 +1,7 @@
 import fetchData from '../fetch'
 import parseCsv from '../utils/parseCsv'
+import filter from '../utils/XSSFilter'
+import { trim } from '../utils/'
 
 const skillMap = new Map()
 let loaded = false
@@ -10,10 +12,10 @@ const getSkillData = async (id) => {
     const list = parseCsv(csv)
     list.forEach(item => {
       if (item && item.id) {
-        const _id = item.id.trim()
+        const _id = trim(item.id)
         if (_id) skillMap.set(_id, {
-          name: item.name.trim(),
-          detail: item.detail.trim()
+          name: filter(trim(item.name)),
+          detail: filter(trim(item.detail))
         })
       }
     })

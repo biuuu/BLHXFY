@@ -1,13 +1,10 @@
 import fetchData from '../fetch'
 import parseCsv from '../utils/parseCsv'
+import { trim } from '../utils/'
+import filter from '../utils/XSSFilter'
 
 const townMap = new Map()
 let loaded = false
-
-const trim = (str) => {
-  if (!str) return ''
-  return str.trim()
-}
 
 const getTownData = async () => {
   if (!loaded) {
@@ -15,9 +12,9 @@ const getTownData = async () => {
     const list = parseCsv(csv)
     list.forEach(item => {
       const id = trim(item.id)
-      const name = trim(item.name)
-      const detail = trim(item.detail)
-      const vyrn = trim(item.vyrn)
+      const name = filter(trim(item.name))
+      const detail = filter(trim(item.detail))
+      const vyrn = filter(trim(item.vyrn))
       if (id && name) {
         townMap.set(id, { name, detail, vyrn })
       }

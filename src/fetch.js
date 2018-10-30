@@ -82,9 +82,6 @@ getHash.then(hash => {
 const fetchWithHash = async (pathname) => {
   const hash = await getHash
   const data = await fetchData(`${pathname}?lecia=${hash}`)
-  if (!pathname.includes('common-html') && !pathname.includes('lang-msg') && isString(data)) {
-    return DOMPurify.sanitize(data)
-  }
   return data
 }
 
