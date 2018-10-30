@@ -9,7 +9,7 @@ const replaceName = (content, userName) => {
   if (userName) {
     content.forEach(item => {
       if (item.id === 'info') return
-      ;['en', 'jp'].forEach(key => {
+      ;['en', 'jp', 'trans'].forEach(key => {
         if (!item[key]) return
         let _lang = key
         if (!/^\w+$/.test(userName)) _lang = 'unknown'
