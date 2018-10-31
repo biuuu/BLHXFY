@@ -1,4 +1,4 @@
-import { scenarioCache } from '../modules/scenario'
+import { scenarioCache, replaceChar } from '../modules/scenario'
 import { tryDownload, replaceWords } from '../utils/'
 import CONFIG from '../config'
 import CSV from 'papaparse'
@@ -9,9 +9,9 @@ const replaceName = (content, userName) => {
   if (userName) {
     content.forEach(item => {
       if (item.id === 'info') return
-      ;['en', 'jp', 'trans'].forEach(key => {
+      ;['name', 'text', 'trans'].forEach(key => {
         if (!item[key]) return
-        let _lang = key
+        let _lang = Game.lang
         if (!/^\w+$/.test(userName)) _lang = 'unknown'
         item[key] = replaceWords(item[key], new Map([[userName, '姬塔']]), _lang)
       })
@@ -22,14 +22,19 @@ const replaceName = (content, userName) => {
 const dataToCsv = (data, fill) => {
   const result = []
   data.forEach(item => {
+    const name = item.charcter1_name
+    replaceChar('charcter1_name', item, scenarioCache.nameMap, scenarioCache.name)
+    const transName = item.charcter1_name
+    const hasTransName = name !== transName
     txtKeys.forEach(key => {
       let txt = item[key]
+      let hasName = key === 'detail' && name && name !== 'null'
       if (txt) {
         txt = txt.replace(/\n/g, '')
         result.push({
           id: `${item.id}${key === 'detail' ? '' : '-' + key}`,
-          en: Game.lang === 'en' ? txt : '',
-          jp: Game.lang === 'ja' ? txt : '',
+          name: hasName ? `${name}${hasTransName ? '/' + transName : ''}` : '',
+          text: txt,
           trans: fill ? txt : ''
         })
       }
@@ -37,8 +42,8 @@ const dataToCsv = (data, fill) => {
   })
   const extraInfo = {
     id: 'info',
-    en: Game.lang === 'en' ? '1' : '',
-    jp: Game.lang === 'ja' ? '1' : '',
+    name: '',
+    text: '',
     trans: scenarioCache.name
   }
   replaceName(result, CONFIG.userName)

@@ -107,7 +107,8 @@ const scenarioCache = {
   data: null,
   name: '',
   hasTrans: false,
-  csv: ''
+  csv: '',
+  nameMap: null
 }
 
 const transStart = async (data, pathname) => {
@@ -126,11 +127,12 @@ const transStart = async (data, pathname) => {
   scenarioCache.name = scenarioName
   scenarioCache.hasTrans = false
   const { transMap, csv } = await getScenario(scenarioName)
+  const nameData = await getNameData()
+  const nameMap = Game.lang !== 'ja' ? nameData['enNameMap'] : nameData['jpNameMap']
+  scenarioCache.nameMap = nameMap
   if (!transMap) return data
   scenarioCache.hasTrans = true
   scenarioCache.csv = csv
-  const nameData = await getNameData()
-  const nameMap = Game.lang !== 'ja' ? nameData['enNameMap'] : nameData['jpNameMap']
 
   data.forEach((item) => {
     let name1, name2, name3
@@ -166,4 +168,4 @@ export default async function (data, pathname) {
   }
 }
 
-export { scenarioCache }
+export { scenarioCache, replaceChar }
