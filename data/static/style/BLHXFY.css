@@ -51,6 +51,9 @@
   content: '世界'
 }
 
+.prt-battle-id {
+  user-select: text;
+}
 /* buttons */
 body .btn-usual-close::after {
   content: "关闭";
