@@ -24,7 +24,7 @@ const keyMap = new Map([
   ['origin', 'origin'],
   ['auto-download', 'autoDownload'],
   ['bottom-toolbar', 'bottomToolbar'],
-  ['username', 'userName']
+  ['username', 'displayName']
 ])
 
 const setting = (type, value) => {
@@ -38,10 +38,8 @@ const setting = (type, value) => {
       }
     }
     $('#blhxfy-setting-modal').addClass('show')
-  } else if (type === 'origin' || type === 'auto-download' || type === 'bottom-toolbar') {
+  } else if (type === 'origin' || type === 'auto-download' || type === 'bottom-toolbar' || type === 'username') {
     saveToLocalstorage(keyMap.get(type), value)
-  } else if (type === 'username') {
-    localStorage.setItem('blhxfy:name', value)
   }
 }
 
