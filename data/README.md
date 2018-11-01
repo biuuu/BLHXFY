@@ -4,6 +4,11 @@ scenario 目录下为所有剧情文件，感谢所有提供翻译朋友的无�
 如果你想提交新的翻译文件，请在对应目录点击 Upload files 按钮，然后选择文件上传。由于网页上无法直接创建中文目录，你也可以直接把改好名字的文件夹拖过来上传。
 
 如果发现有问题的翻译，或者可以改进的地方，请直接点击文件然后点击右上角的“笔图标”进行修改。
+
+建议上传前在csv里加上自己的ID。可以在文件末尾加一行，id写成备注就行，注意半角逗号数量跟前面一致。具体格式不限，能让人看出是你翻译的就行。这样也不会影响汉化，插件会忽略这行信息。
+还有一个选择是在剧情简介里加上你的id，这样别人想skip时，可能就会被你帅气的昵称所震慑，不敢妄动。
+如果你懒得加就算了，只是我要找到译者比较困难。
+
 ```
 对于未加入 BLHXFY-Group 的翻译人员，希望直接上传文件或者需要一次提交多个文件的话，
 先打开 https://github.com/BLHXFY-Group/BLHXFY ，然后点右上角的 Fork 按钮，这时你自己的账号下就有了一个同名的项目。
@@ -33,12 +38,6 @@ scenario 目录下为所有剧情文件，感谢所有提供翻译朋友的无�
 
 目前代码库里已有英文名：https://github.com/BLHXFY-Group/BLHXFY/blob/master/data/npc-name-en.csv 以及日文名：https://github.com/BLHXFY-Group/BLHXFY/blob/master/data/npc-name-jp.csv
 
-### 机翻的名词替换
-为了提高机翻的效果，对一些专用名词进行了替换(只支持英文版)，
-
-统一放到了这个文件：https://github.com/BLHXFY-Group/BLHXFY/blob/master/data/noun.csv (这里面是我随便写的翻译，可能不准确，有问题请直接修改或发issue)
-
-专用名词默认忽略大小写，要区分大小写则在cs列加个1。
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />翻译文本采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可

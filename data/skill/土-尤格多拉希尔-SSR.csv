@@ -1,5 +1,5 @@
 ﻿id,name,detail
-npc,ユグドラシル,3040125000
+npc,尤格多拉希尔,3040125000
 special,世界轴,土属性伤害(特大)/奥义值UP(20%)
 skill-1,小小的花儿・诺恩,<div class=prt-text-small>我方全体攻撃UP(20%)/防御UP(20%)/奥义值上升量UP(+20%)<span class=text-blue>　◆消耗10%奥义值</span></div>
 skill-1+,小小的花儿・诺恩,<div class=prt-text-small>我方全体攻撃UP(25%)/防御UP(25%)/奥义值上升量UP(+25%)<span class=text-blue>　◆消耗10%奥义值</span></div>

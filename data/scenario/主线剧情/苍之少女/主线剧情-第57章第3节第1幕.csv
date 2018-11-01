@@ -1,11 +1,11 @@
 ﻿id,en,jp,trans
 0-chapter_name,,第57章　決戦への導き,第57章  决战前夕
-0-synopsis,,フリーシアの計画を止めるため、再び<span class='scene-font-place'>帝都アガスティア</span>を目指す姬塔一行。大勢の帝国兵全てを相手にするのではなく、フリーシアの計画の要となっている装置「リアクター」のみを狙い、帝都中央の「タワー」に潜入することを一行は決める。帝国戦艦の目を欺くべく、浮力消失高度ギリギリの低空飛行で<span class='scene-font-place'>帝都アガスティア</span>へと進む。,姬塔一行为阻止芙莉西雅的计划，再次向<span class='scene-font-place'>帝国首都Agastia</span>进发。此行并非要与全体帝国兵力对峙，而是潜入首都中心的「高塔」破坏计划的核心装置「反应器」。格兰塞法为了躲避帝国战舰的监控，降至浮力快要消失的极限高度低空飞行至<span class='scene-font-place'>帝国首都Agastia</span>。
-0,,<span class='scene-font-katari'>フリーシアの計画を止めるため、</span><br><span class='scene-font-katari'>姬塔一行は踵を返し、</span><br><span class='scene-font-katari'>再び</span><span class='scene-font-place'>帝都アガスティア</span><span class='scene-font-katari'>を目指す。</span>,<span class='scene-font-katari'>姬塔一行为阻止芙莉西雅的计划，再次向</span><span class='scene-font-place'>帝国首都Agastia</span><span class='scene-font-katari'>进发。</span>
+0-synopsis,,フリーシアの計画を止めるため、再び<span class='scene-font-place'>帝都アガスティア</span>を目指す姬塔一行。大勢の帝国兵全てを相手にするのではなく、フリーシアの計画の要となっている装置「リアクター」のみを狙い、帝都中央の「タワー」に潜入することを一行は決める。帝国戦艦の目を欺くべく、浮力消失高度ギリギリの低空飛行で<span class='scene-font-place'>帝都アガスティア</span>へと進む。,姬塔一行为阻止芙莉西雅的计划，再次向<span class='scene-font-place'>帝国首都阿加丝提亚</span>进发。此行并非要与全体帝国兵力对峙，而是潜入首都中心的「高塔」破坏计划的核心装置「反应器」。格兰塞法为了躲避帝国战舰的监控，降至浮力快要消失的极限高度低空飞行至<span class='scene-font-place'>帝国首都阿加丝提亚</span>。
+0,,<span class='scene-font-katari'>フリーシアの計画を止めるため、</span><br><span class='scene-font-katari'>姬塔一行は踵を返し、</span><br><span class='scene-font-katari'>再び</span><span class='scene-font-place'>帝都アガスティア</span><span class='scene-font-katari'>を目指す。</span>,<span class='scene-font-katari'>姬塔一行为阻止芙莉西雅的计划，再次向</span><span class='scene-font-place'>帝国首都阿加丝提亚</span><span class='scene-font-katari'>进发。</span>
 1,,<span class='scene-font-katari'>周囲に警戒しながら</span><br><span class='scene-font-katari'>ゆっくり進むグランサイファーの中で、</span><br><span class='scene-font-katari'>ラカムは不安げな声をあげる。</span>,<span class='scene-font-katari'>缓慢前行的格兰塞法上，众人警戒着周遭的动静。此时，拉卡姆不安地说道。</span>
 2,,しっかし……<br>あの宰相サンの計画を<br>止めるとは言ったものの……,可是啊……说是要阻止那个宰相的计划……
 3,,さすがに俺達だけじゃあ、<br>正面切っては戦えねぇよな……,就凭我们几个人，不可能正面挑战她……
-4,,帝国は<span class='scene-font-place'>アガスティア</span>に、<br>万単位の兵を駐屯させているはずです。,帝国在<span class='scene-font-place'>Agastia</span>应该有几万驻军。
+4,,帝国は<span class='scene-font-place'>アガスティア</span>に、<br>万単位の兵を駐屯させているはずです。,帝国在<span class='scene-font-place'>阿加丝提亚</span>应该有几万驻军。
 5,,姬塔さん達が戦ったのは、<br>おそらくそのほんの一部ですね……,刚才我们遭遇的，大概是很小的一部分……
 6,,うげ……<br>姐さん達が駆けつけてくれなきゃ、<br>オイラ達本当にヤバかったよな……,呃……要是刚才阿姐他们没赶过来，咱们可就真的完蛋了……
 7,,あれでほんの一部っつぅのは……<br>わかっちゃあいるが<br>気が重い話だなぁ、おい……,我也知道那些肯定只是一小部分……但听你这么一说还真是笑不出来……
@@ -18,7 +18,7 @@
 14,,通称「リアクター」は、<br>帝都中央の<br>帝国府官邸に設置されています。,通称「反应器」。它被放置在首都正中央的帝国首都官邸。
 15,,「タワー」か……,在「高塔」里……？
 16,,タワー……？,高塔……？
-17,,<span class='scene-font-place'>アガスティア</span>の帝国府官邸の事だな。<br>その形状から、<br>「タワー」と呼ばれることもあるんだ。,就是指<span class='scene-font-place'>Agastia</span>的帝国首都官邸。因为它的形状像一座塔，很多时候人们就这样叫它。
+17,,<span class='scene-font-place'>アガスティア</span>の帝国府官邸の事だな。<br>その形状から、<br>「タワー」と呼ばれることもあるんだ。,就是指<span class='scene-font-place'>阿加丝提亚</span>的帝国首都官邸。因为它的形状像一座塔，很多时候人们就这样叫它。
 18,,あそこにそのリアクターとやらが<br>設置されているのなら、<br>わかりやすいことこの上ないが……,如果反应器在那里，事情就简单了……
 19,,リアクターの場所を知っている<br>貴様が造反した以上、<br>奴はリアクターをどこかへ隠すだろうな。,可是知道反应器位置的你已经谋反，不知道她会把反应器转移到哪里去。
 20,,いえ、それは不可能です。,不，这是不可能的。

@@ -33,7 +33,7 @@ id,en,jp,trans
 29,"When you say it like that, it stings a little!",うぐっ……<br>そう言われちまうと痛いぜ……,呜咕，被这么说的话还是有点心痛的。
 30,"Ah, I see. I get it. But, if that's the case...",そうか……<br>しかし、そうですね、<br>それならばもう……,原来如此啊。但是，这样一来，也就......
 31,Baragona looks knowingly at Rosetta.,<span class='scene-font-katari'>バラゴナは何かを確認するように、</span><br><span class='scene-font-katari'>ロゼッタを見やる。</span>,<span class='scene-font-katari'>巴拉戈纳像是在确认着什么似的，望向了萝赛塔。</span>
-32,"I suppose it will be fine. After all, they've learned much more since we first met in Lumacie.",ふふ……いいんじゃないかしら？<br><span class='scene-font-place'>ルーマシー</span>で初めて出会った時と違って、<br>この子達ももう、色々知ってるもの。,嗯，不是挺好的吗？与在<span class='scene-font-place'>鲁玛西</span>初次见面时不同，这群孩子已经知道了很多事了哦？
+32,"I suppose it will be fine. After all, they've learned much more since we first met in Lumacie.",ふふ……いいんじゃないかしら？<br><span class='scene-font-place'>ルーマシー</span>で初めて出会った時と違って、<br>この子達ももう、色々知ってるもの。,嗯，不是挺好的吗？与在<span class='scene-font-place'>露玛茜</span>初次见面时不同，这群孩子已经知道了很多事了哦？
 33,Much more. Even about him.,それこそ……あの人についても、ね。,这也是......有关于那个男人的事呢。
 34,"Huh? Hey, what are you talking about? Who?",え？<br>ね、ねぇ……何の話？<br>あの人って？,咦？呐，你们在说什么话题呢？那个人是？
 35,"I wonder, could I have a bit of your time?",少しばかり、<br>お時間をいただけますかな？,请问可以稍稍占用一下诸位的时间吗？
@@ -51,14 +51,14 @@ id,en,jp,trans
 47,Father...,父さんが……,父亲大人吗...
 48,"The captain taught me to use a sword. He had undeniable strength, and was blessed with more talent than technique.",私は彼から剣を教わりました。<br>問答無用の強さを持つ彼は、<br>技術というより才能の塊でしたが……,我从姬塔父亲那里学得了剑技，强大到不讲道理的他，与其说是技术了得，不如说是才赋異稟。
 49,"Regardless, I would copy his moves, ask him to teach me, and even spar with him, eventually improving myself.",それでも彼から技を盗み、<br>時に教えを乞い、時に剣を交え……<br>そうやって私は剣の腕を磨いたのです。,即便如此，我还是偷学了他的剑技，时而让他教我，时而与他比试，总算是磨练了自己的剑技。
-50,Some time passed. I was appointed the Scarlet Knight and given duties to fulfill on Lumacie.,そうして時は流れ……<br>私は緋色の騎士の名を拝命し、<br><span class='scene-font-place'>ルーマシー</span>で任務にあたっていました。,就这样时间流逝，很久之后我被赐名绯之骑士，去<span class='scene-font-place'>鲁玛西</span>执行任务了。
+50,Some time passed. I was appointed the Scarlet Knight and given duties to fulfill on Lumacie.,そうして時は流れ……<br>私は緋色の騎士の名を拝命し、<br><span class='scene-font-place'>ルーマシー</span>で任務にあたっていました。,就这样时间流逝，很久之后我被赐名绯之骑士，去<span class='scene-font-place'>露玛茜</span>执行任务了。
 51,"One day, he appeared before me. And he had a message.",そんな折に……<br>彼が再び私の前に姿を現したのです。<br>再会した彼は、私にこう言いました。,就在那个时候，他再次在我面前出现了。再会时的他，是这么对我说的。
 52,"He said that someday, I may cross paths with his child.",いつか自分の子供が、<br>お前を訪ねて来るだろう……,总有一天，他自己的孩子与我会有交集的吧。
 53,And if his child is joined by a blue-haired young girl named Lyria...,もし、その時、<br>隣に蒼い髪をしたルリアという<br>少女の姿があったなら……,如果那个时候，他的身边有着一位苍蓝色头发，名为露莉亚的少女的话。
 54,...then a harsh fate awaits them. He asked me to test their strength.,ふたりには過酷な運命が待つことになる。<br>だから、ふたりの力を<br>試してやってほしい、と……,那就意味着前方将是无比残酷的命运等待着他，所以想让我一定要试一试他们两人的力量。
 55,"You mean, when you challenged us, it was just a part of 姬塔's father's plan?",ってことは……あんときの勝負は、<br>姬塔の親父さんに<br>仕組まれてた、ってのか？,你的意思是，那时你挑起的比试，是姬塔的老爸安排下来的吗？
 56,"He said if you showed no sign of promise, then I should separate the two of you.",彼はこうも言いました……<br>力を試した上で見込みが無ければ、<br>ふたりを引き離してくれ、と……,他如此说道，如果比试之后觉得他们的可能性尚且不足的话，就将两人分开。
-57,That's why I had you fight me when we first met on Lumacie.,だから私は、<br><span class='scene-font-place'>ルーマシー</span>で初めてお会いした際、<br>剣を交えさせてもらったのです。,这就是为什么在<span class='scene-font-place'>鲁玛西</span>初次相遇时，我要与你举剑交手。
+57,That's why I had you fight me when we first met on Lumacie.,だから私は、<br><span class='scene-font-place'>ルーマシー</span>で初めてお会いした際、<br>剣を交えさせてもらったのです。,这就是为什么在<span class='scene-font-place'>露玛茜</span>初次相遇时，我要与你举剑交手。
 58,So that's why you wanted to battle!,あの勝負には、<br>こんな裏があったのね……,那次比试的背后还有这样的内幕呢。
 59,You two brilliantly displayed more strength than I had imagined.,君達は見事に、<br>私が思う以上の力を<br>見せてくれました……,你们十分出色地让我看到了予想以上的力量。
 60,"And now we cross paths once again, and you're more powerful than ever.",そうしていま、<br>私は一層の成長を重ねた君達に、<br>再び巡り会った……,然后现在，我与实力更上一层楼的你们再度相遇了。

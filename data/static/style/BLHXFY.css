@@ -51,6 +51,11 @@
   content: '世界'
 }
 
+.txt-info-content,
+.txt-room-id,
+.prt-battle-id {
+  user-select: text !important;
+}
 /* buttons */
 body .btn-usual-close::after {
   content: "关闭";

@@ -12,7 +12,7 @@
 <span class='scene-font-katari'>去って行った。</span>",<span class='scene-font-katari'>伯梅伦拖着负伤的身体追着帝国主力部队离开。</span>
 13,,"ふぅ……これで帝国の連中は<br>
 軒並み<span class='scene-font-place'>アウギュステ</span>から<br>
-逃げてったみてぇだな。",呼……看来帝国的家伙们一个个都从<span class='scene-font-place'>Auguste</span>逃走了啊。
+逃げてったみてぇだな。",呼……看来帝国的家伙们一个个都从<span class='scene-font-place'>奥古斯特</span>逃走了啊。
 14,,"そりゃ当然だろう……<br>
 やばいことになってるぜ、こいつァ。",那是当然……事情变得棘手起来了。
 15,,"さっき仲間から伝令があった。<br>
@@ -49,6 +49,6 @@
 行こうぜ、この島を救いに。",那就这样决定了。为了拯救这个岛，出发吧。
 27,,"<span class='scene-font-katari'>いまや</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>を滅ぼす</span><br>
 <span class='scene-font-katari'>厄災となった大星晶獣は</span><br>
-<span class='scene-font-katari'>瀑布にその巨体を顕現させつつあった。</span>",<span class='scene-font-katari'>大星晶兽成了即将毁灭</span><span class='scene-font-place'>Auguste</span><span class='scene-font-katari'>的灾难，其巨硕的身体正于瀑布中渐渐现形。</span>
+<span class='scene-font-katari'>瀑布にその巨体を顕現させつつあった。</span>",<span class='scene-font-katari'>大星晶兽成了即将毁灭</span><span class='scene-font-place'>奥古斯特</span><span class='scene-font-katari'>的灾难，其巨硕的身体正于瀑布中渐渐现形。</span>
 info,,1,scene_cp11_q4_s30
 备注,,,ver-1: @煌月夜 2018/4/14
