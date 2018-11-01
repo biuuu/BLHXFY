@@ -1,12 +1,12 @@
 ﻿id,en,jp,trans
 0-chapter_name,,第20章　のぞむ空,第20章  冀愿的天空
-0-synopsis,,シュヴァリエの力と空図の欠片を手に入れた姬塔一行。解放されたヴィーラとも和解し、戦いで傷ついたグランサイファーを修理すべく、姬塔一行は次の針路をガロンゾに決めるのだった。,姬塔一行得到了星晶兽「修瓦利耶」的力量与空图，也和获得解放的维拉达成了和解。众人为修理在战斗中损伤的格兰塞法，决定前往下一个目的地Golonzo。
+0-synopsis,,シュヴァリエの力と空図の欠片を手に入れた姬塔一行。解放されたヴィーラとも和解し、戦いで傷ついたグランサイファーを修理すべく、姬塔一行は次の針路をガロンゾに決めるのだった。,姬塔一行得到了星晶兽「修瓦利耶」的力量与空图，也和获得解放的维拉达成了和解。众人为修理在战斗中损伤的格兰塞法，决定前往下一个目的地加隆佐。
 1,,"<span class='scene-font-katari'>姬塔一行は、</span><br>
 <span class='scene-font-katari'>星晶獣シュヴァリエを、</span><br>
 <span class='scene-font-katari'>再び退けることに成功した。</span>",<span class='scene-font-katari'>姬塔一行再次成功击退星晶兽「修瓦利耶」。</span>
 5,,"<span class='scene-font-katari'>そして、その力の一部と</span><br>
 <span class='scene-font-spword'>空図の欠片</span><span class='scene-font-katari'>を吸収し、</span><br>
-<span class='scene-font-katari'>アルビオン城の客室へと戻っていた。</span>",<span class='scene-font-katari'>吸收了它的一部分力量，得到了空图，众人回到Albion城堡的客房。</span>
+<span class='scene-font-katari'>アルビオン城の客室へと戻っていた。</span>",<span class='scene-font-katari'>吸收了它的一部分力量，得到了空图，众人回到阿尔比恩城堡的客房。</span>
 7,,"カタリナさーん！<br>
 ヴィーラさん、目を覚ましましたよ！",卡塔莉娜小姐！维拉小姐已经醒来了哦！
 8,,そうか……今、行く。,是么……我现在就去。
@@ -74,10 +74,10 @@
 ここまで進んできたからな……",不……一路走到这里都在被帝国追赶……
 47,,"出来ることなら<br>
 黒騎士とオルキスの行方を追いたいが、<br>
-手がかりが何もなくてな……",我们想要尽可能追踪黑骑士和欧尔基斯，但是没有任何线索……
+手がかりが何もなくてな……",我们想要尽可能追踪黑骑士和欧尔姬丝，但是没有任何线索……
 48,,"でしたら！<br>
 いま少しアルビオンで、<br>
-お休みになってはいかがでしょう？",这样的话！先在Albion休息几日如何呢？
+お休みになってはいかがでしょう？",这样的话！先在阿尔比恩休息几日如何呢？
 49,,"不肖、このヴィーラが、<br>
 お姉様に付きっきりで、<br>
 最高のおもてなしを……",我维拉会全程陪同姐姐大人，让您享受最高级别的招待……
@@ -99,12 +99,12 @@
 どうにもならねぇってことか……",靠我们的维修技术已经没办法再做什么了么……
 56,,"<span class='scene-font-place'>ガロンゾ</span>っつー<br>
 島まで行きゃあ、<br>
-専門的な修理が受けられるはずだ。",去一个叫做<span class='scene-font-place'>Golonzo</span>的岛上，应该就有专业的修理师。
+専門的な修理が受けられるはずだ。",去一个叫做<span class='scene-font-place'>加隆佐</span>的岛上，应该就有专业的修理师。
 57,,"だから、この先の旅は、<br>
 まずそこに寄ってから、だな。",所以，接下来的旅途行程，都要等去过那里之后了。
 58,,"<span class='scene-font-place'>ガロンゾ</span>！？<br>
 そ、それって、<br>
-荒くれ者が集まるっていう……？",<span class='scene-font-place'>Golonzo</span>！？听说是一个到处都是混混的地方……？
+荒くれ者が集まるっていう……？",<span class='scene-font-place'>加隆佐</span>！？听说是一个到处都是混混的地方……？
 59,,"ちったぁ騒がしい連中が多いが、<br>
 まぁ、根は悪い奴らじゃねぇよ。<br>
 なぁ？　ラカム。",是有些吵闹的家伙，不过不是什么坏人啊。对吧？拉卡姆。
@@ -112,7 +112,7 @@
 オイゲンのおっさんほど、<br>
 あの島に馴染めねぇなぁ……",不……我远远不如欧根大叔了解那座岛啊……
 61,,"<span class='scene-font-place'>ガロンゾ</span>……<br>
-その島の名前、どこかで……",<span class='scene-font-place'>Golonzo</span>……好像在哪里听过这个岛的名字……
+その島の名前、どこかで……",<span class='scene-font-place'>加隆佐</span>……好像在哪里听过这个岛的名字……
 62,,"まぁ、良い意味でも悪い意味でも、<br>
 有名な島だからな。<br>
 どっかで小耳にはさんだんだろう。",嗨，这是个褒义上贬义上都很有名的岛啊。肯定是在哪儿听说过吧。
@@ -121,12 +121,12 @@
 その名前を口にしていたような……",不……我记得，埃尔斯特那个矮小的将军，好像提到了这个名字……
 64,,"なんだって……？<br>
 じゃあ、帝国が今度は、<br>
-<span class='scene-font-place'>ガロンゾ</span>でなにかを……？",你说什么……？帝国这次又要在<span class='scene-font-place'>Golonzo</span>做什么了吗？
+<span class='scene-font-place'>ガロンゾ</span>でなにかを……？",你说什么……？帝国这次又要在<span class='scene-font-place'>加隆佐</span>做什么了吗？
 65,,"とにかく行ってみるっきゃねぇぜ！<br>
 これで次の目的地は決まったな！",总之不去看看可不知道啊！接下来的目的地就这么定了！
 66,,"<span class='scene-font-katari'>グランサイファーを修理し、</span><br>
 <span class='scene-font-katari'>帝国の暗躍を探るため、</span><br>
-<span class='scene-font-katari'>一行は</span><span class='scene-font-place'>ガロンゾ</span><span class='scene-font-katari'>へと舵を切る。</span>",<span class='scene-font-katari'>众人为修理格兰塞法以及调查帝国的动作，向</span><span class='scene-font-place'>Golonzo</span><span class='scene-font-katari'>驶去。</span>
+<span class='scene-font-katari'>一行は</span><span class='scene-font-place'>ガロンゾ</span><span class='scene-font-katari'>へと舵を切る。</span>",<span class='scene-font-katari'>众人为修理格兰塞法以及调查帝国的动作，向</span><span class='scene-font-place'>加隆佐</span><span class='scene-font-katari'>驶去。</span>
 71,,"<span class='scene-font-katari'>しかし、果てなく続く空には、</span><br>
 <span class='scene-font-katari'>不穏な空気が満ちはじめていた。</span>",<span class='scene-font-katari'>头顶无尽的天空，充斥着不安的氛围。</span>
 info,,1,scene_cp20_q4_s30

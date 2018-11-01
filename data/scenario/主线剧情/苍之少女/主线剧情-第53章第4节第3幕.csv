@@ -1,7 +1,7 @@
 ﻿id,en,jp,trans
 0-chapter_name,,第53章　再起への標,第53章  重振旗鼓
-0-synopsis,,<span class=‘scene-font-place’>アガスティア島</span>の異様な力を気にするルリアを見て、黒騎士アポロニアとドランクは少数選抜による島内潜入を提案する。広く顔が知られていない者を選別し、まず一行は近くの離島へと降り立つ。,听露莉亚说<span class='scene-font-place'>Agastia</span>有股异样的力量，黑骑士阿波罗尼亚与德朗克提出选少数人潜入岛中。众人选出一些不起眼的成员降落在孤岛上。
-0,,<span class='scene-font-katari'>姬塔一行は魔物を追い払い、</span><br><span class='scene-font-katari'>改めて</span><span class='scene-font-place'>アガスティア島</span><span class='scene-font-katari'>の様子を伺う。</span>,<span class='scene-font-katari'>姬塔一行赶走魔兽后，再次远眺<span class='scene-font-place'>Agastia岛</span><span class='scene-font-katari'>。</span>
+0-synopsis,,<span class=‘scene-font-place’>アガスティア島</span>の異様な力を気にするルリアを見て、黒騎士アポロニアとドランクは少数選抜による島内潜入を提案する。広く顔が知られていない者を選別し、まず一行は近くの離島へと降り立つ。,听露莉亚说<span class='scene-font-place'>阿加丝提亚</span>有股异样的力量，黑骑士阿波罗尼亚与德朗克提出选少数人潜入岛中。众人选出一些不起眼的成员降落在孤岛上。
+0,,<span class='scene-font-katari'>姬塔一行は魔物を追い払い、</span><br><span class='scene-font-katari'>改めて</span><span class='scene-font-place'>アガスティア島</span><span class='scene-font-katari'>の様子を伺う。</span>,<span class='scene-font-katari'>姬塔一行赶走魔兽后，再次远眺<span class='scene-font-place'>阿加丝提亚岛</span><span class='scene-font-katari'>。</span>
 1,,それで？<br>貴様らはいったいどうしたいんだ？,然后呢？你们究竟打算怎么做？
 2,,私は……気になります。<br>この気配が、いったい何なのか……<br>危ないものじゃないのかどうか……,我……我很在意。这股气息究竟是什么……是不是很危险……
 3,,けど、<br>これ以上グランサイファーを近づけちゃ、<br>間違いなく連中に見つかっちまうぜ？,可是，格兰塞法要是再靠近肯定会被他们发现的。
@@ -21,7 +21,7 @@
 17,,<span class='scene-font-katari'>ドランクは慣れた手つきで、</span><br><span class='scene-font-katari'>ルリアに変装を施す。</span>,<span class='scene-font-katari'>德朗克非常熟练地给露莉亚变装。</span>
 19,,わぁ……！<br>確かにこれなら、<br>私だってすぐにはわからないですね！,哇……！的确，这样的话就不会马上发现是我了！
 20,,ルリア……似合ってる。,露莉亚……很适合你。
-21,,ふふ……<br>ありがとう、オルキスちゃん。,呵呵……谢谢你，欧尔基斯。
+21,,ふふ……<br>ありがとう、オルキスちゃん。,呵呵……谢谢你，欧尔姬丝。
 22,,準備が出来たのなら行くぞ。<br>いまは時間が惜しい。,准备好了就走。时间紧迫。
 23,,ま、待て、黒騎士……,等、等一下，黑骑士……
 24,,なんだ？,怎么了？
@@ -33,5 +33,5 @@
 30,,ああ……<br>何があろうと、<br>必ず守り通して見せよう。,嗯……不管发生什么，我都会保护好她。
 31,,ふん……,哼……
 32,,<span class='scene-font-katari'>黒騎士とカタリナは、</span><br><span class='scene-font-katari'>互いの大切なもののために、</span><br><span class='scene-font-katari'>固く約束を交わす。</span>,<span class='scene-font-katari'>黑骑士与卡塔莉娜约定会保护好彼此最重要的人。</span>
-33,,<span class='scene-font-katari'>こうして、</span><br><span class='scene-font-place'>アガスティア</span><span class='scene-font-katari'>の離島に降り立ち、</span><br><span class='scene-font-katari'>一行は帝都への潜入を試みるのだった。</span>,<span class='scene-font-katari'>于是姬塔等人降落在<span class='scene-font-katari'>Agastia</span>旁的孤岛，尝试潜入首都。</span>
+33,,<span class='scene-font-katari'>こうして、</span><br><span class='scene-font-place'>アガスティア</span><span class='scene-font-katari'>の離島に降り立ち、</span><br><span class='scene-font-katari'>一行は帝都への潜入を試みるのだった。</span>,<span class='scene-font-katari'>于是姬塔等人降落在<span class='scene-font-katari'>阿加丝提亚</span>旁的孤岛，尝试潜入首都。</span>
 info,,1,scene_cp53_q4_s30

@@ -1,7 +1,7 @@
 ﻿id,en,jp,trans
 0-chapter_name,70: Erste Kingdom,第70章　エルステ王国,70：埃尔斯特王国
 0-synopsis,"姬塔 and crew find Orchis and Adam alive and well. Orchis says that Erste was once given a map piece, and Adam believes the only person with more information is Freesia.",<span class='scene-font-place'>ラビ島</span>に降り立った姬塔一行は、女王となったオルキス、アダムと再会を果たす。空図の欠片を探していることを告げるとオルキスは、エルステはその昔、星の民から七曜の座と<span class='scene-font-spword'>空図の欠片</span>の一つを預けられたという話を聞いたことがあると話す。アダムは、それ以上の情報を持ち得る、かつてエルステの中枢に居た人物の一人、フリーシアの元へと姬塔一行を案内すると告げるのだった。,来到</span><span class='scene-font-place'>拉比岛</span>的姬塔一行人再次见到了亚当和已经成为女王的奥尔琪斯。他们将正在寻找空图碎片一事告诉了奥尔琪斯，但她仅仅只是听说过曾经埃尔斯特从星之民那里可以获得七曜之座或者是<span class='scene-font-spword'>空图碎片</span>中的一个。亚当提示过去埃尔斯特的中枢之一芙莉西雅可能拥有更多的情报，于是便带着众人前往被关押的芙莉西雅那里。
-0,姬塔 and company arrive in Ravi Island and head for the Palace of Elijah Chelm.,<span class='scene-font-place'>ラビ島</span><span class='scene-font-katari'>に降り立った姬塔一行は、</span><br><span class='scene-font-katari'>まっすぐに</span><span class='scene-font-place'>メフォラシュ</span><span class='scene-font-katari'>の中心にある</span><br><span class='scene-font-katari'>エリヤ・ヘルム宮殿へと向かう。</span>,<span class='scene-font-katari'>姬塔和同伴抵达</span><span class='scene-font-place'>拉比岛</span><span class='scene-font-katari'>，没多久就前往</span><span class='scene-font-place'>梅芙拉修</span><span class='scene-font-katari'>的中心，埃利亚·海姆王宫。
+0,姬塔 and company arrive in Ravi Island and head for the Palace of Elijah Chelm.,<span class='scene-font-place'>ラビ島</span><span class='scene-font-katari'>に降り立った姬塔一行は、</span><br><span class='scene-font-katari'>まっすぐに</span><span class='scene-font-place'>メフォラシュ</span><span class='scene-font-katari'>の中心にある</span><br><span class='scene-font-katari'>エリヤ・ヘルム宮殿へと向かう。</span>,<span class='scene-font-katari'>姬塔和同伴抵达</span><span class='scene-font-place'>拉比岛</span><span class='scene-font-katari'>，没多久就前往</span><span class='scene-font-place'>美佛拉修</span><span class='scene-font-katari'>的中心，埃利亚·海姆王宫。
 1,Two silhouetted figures appear from the palace.,<span class='scene-font-katari'>宮殿では二つの影が、</span><br><span class='scene-font-katari'>姬塔一行を出迎えたのだった。</span>,<span class='scene-font-katari'>宫殿中有两人出来迎接。
 4,"It's good to see you again, 姬塔.",お久しぶりです。<br>姬塔さん。,许久不见。
 5,Ha-ha! Pleasure to meet you... for me at least.,ふふっ……<br>私は一応、初めましてになるのかな？,ふふっ……于我而言应该是初次见面吧。
@@ -28,11 +28,11 @@
 26,Katalina senses the heaviness in the air and quickly changes the subject.,<span class='scene-font-katari'>そんなオルキスに対し、</span><br><span class='scene-font-katari'>やや思案した様子で、</span><br><span class='scene-font-katari'>カタリナは本題を切り出す。</span>,<span class='scene-font-katari'>卡塔莉娜见到这样的奥尔琪斯，稍稍考虑一下，然后切换了话题。
 27,"By the way, Orchis, or should I say, Your Highness?",ところで……<br>オルキス……女王陛下と<br>お呼びしたほうが良いだろうか？,说起来，我们是不是应该称呼奥尔琪斯你为女王陛下好一些？
 28,"Oh um, there's no need to be formal.",あ、えっと……<br>お気遣いなく……,啊，各位请不要介意这一点。
-29,Thank you. Then I'd like to talk to you about why we're here.,ありがとう……<br>それで今回、私達が<span class='scene-font-place'>メフォラシュ</span>に来た<br>目的なんだが……,谢谢。这次我们来到</span><span class='scene-font-place'>梅芙拉修</span>的目的其实是......
+29,Thank you. Then I'd like to talk to you about why we're here.,ありがとう……<br>それで今回、私達が<span class='scene-font-place'>メフォラシュ</span>に来た<br>目的なんだが……,谢谢。这次我们来到</span><span class='scene-font-place'>美佛拉修</span>的目的其实是......
 30,Would you know of any ancient primal beasts on this island?,この島には、<br>古くから伝わる<br>星晶獣などは居ないだろうか？,这岛上有自古以来就存在的星晶兽吗？
 31,Hm... Primal beasts...,星晶獣ですか……？,星晶兽吗？
 32,Or something like a guardian deity whose aura influences the land.,この地に強く影響を与えている、<br>守り神と呼ばれるような存在とか……,对这片土地有着强烈影响的，也可以称之为守护神一般存在之类的。
-33,A guardian deity? Mephorash has always seen golems as the guardian deities of the cities and its people.,守り神……<br><span class='scene-font-place'>メフォラシュ</span>は昔から、<br>ゴーレムが都市や人の守り神なんです。,守护神的话......在</span><span class='scene-font-place'>梅芙拉修</span>，自古以来人偶就是城市和人民的守护神。
+33,A guardian deity? Mephorash has always seen golems as the guardian deities of the cities and its people.,守り神……<br><span class='scene-font-place'>メフォラシュ</span>は昔から、<br>ゴーレムが都市や人の守り神なんです。,守护神的话......在</span><span class='scene-font-place'>美佛拉修</span>，自古以来人偶就是城市和人民的守护神。
 34,It seems it's been that way since before the War.,それは、<br>覇空戦争の前から、<br>ずっと変わらないみたいで……,从霸空战争之前开始这一点就未曾改变过。
 35,The primal beast Deus Ex Machina was bestowed on Erste by the the Astrals.,エルステは星の民から、<br>星晶獣デウス・エクス・マキナを<br>賜っていましたが……,埃尔斯特虽然从星之民那里得到了星晶兽机械降神......
 36,"But since it was sealed with a unique power, I suppose it has no effect on the island.",特殊な封印を施されておりましたので、<br>この地に影響を与えていた、<br>ということはないでしょうね。,但是因为它受到了特殊的封印，所以可以说没有对这里造成怎样的影响。

@@ -9,10 +9,10 @@
 6,"Are you all right, Lyria?<br>Looks like we can't stick around here for long.",大丈夫か？　ルリア。<br>あまり長居は出来なさそうだな……,还好吧，露莉亚？这里可不是能长期停留的地方呢。
 7,姬塔 and the crew meet the fierce winds and snow of Silverwind Stretch.,<span class='scene-font-katari'>風雪吹きすさぶ</span><span class='scene-font-place'>白風の境</span><span class='scene-font-katari'>に降り立った</span><br><span class='scene-font-katari'>姬塔一行。</span>,<span class='scene-font-katari'>姬塔等人降落到了</span><span class='scene-font-place'>白风之境</span><span class='scene-font-katari'>上。</span>
 8,The crew is taken aback by the harsh environment.,<span class='scene-font-katari'>そのあまりにも過酷な環境に、</span><br><span class='scene-font-katari'>皆一様に眉をしかめていた。</span>,<span class='scene-font-katari'>在这种极其严酷的环境中，众人皱起眉头。</span>
-9,Orchid glances over at the crystal sphere in Sturm's hand.,<span class='scene-font-katari'>そんな中、</span><br><span class='scene-font-katari'>オーキスはスツルムの握る珠を覗きこむ。</span>,<span class='scene-font-katari'>此时，奥琪斯盯着斯图姆手中所握的珠子。</span>
+9,Orchid glances over at the crystal sphere in Sturm's hand.,<span class='scene-font-katari'>そんな中、</span><br><span class='scene-font-katari'>オーキスはスツルムの握る珠を覗きこむ。</span>,<span class='scene-font-katari'>此时，奥琪斯盯着斯特姆手中所握的珠子。</span>
 10,But the light is pointing somewhere in the distance.,でも光……<br>この奥を指してる。,但是光芒，指向这深处。
 11,Yeah. Drang must be up ahead.,そうだな……<br>ドランクはこの先に居るはずだ。,是的，德朗克应该就在这前方。
-12,Sturm gazes at a giant snow-covered mountain rising into the clouds.,<span class='scene-font-katari'>そう言ってスツルムが見やる先には、</span><br><span class='scene-font-katari'>雪に覆われた巨大な山がそびえ立つ。</span>,<span class='scene-font-katari'>斯图姆视线的前方，耸立着被白雪覆盖的大山。</span>
+12,Sturm gazes at a giant snow-covered mountain rising into the clouds.,<span class='scene-font-katari'>そう言ってスツルムが見やる先には、</span><br><span class='scene-font-katari'>雪に覆われた巨大な山がそびえ立つ。</span>,<span class='scene-font-katari'>斯特姆视线的前方，耸立着被白雪覆盖的大山。</span>
 13,Yikes... We're gonna climb that thing? That's the biggest mountain I've ever seen!,うへぇ……この山を登るってのかよ。<br>オイラ、こんなデッカイ山、<br>初めて見るぜ……,呜诶......要登上这座山吗，我还是第一次见到这么大的山脉呢。
 14,And in a snowstorm like this we could easily get lost.,これだけ吹雪いていると、<br>お互い、すぐ近くに居ても<br>はぐれちゃいそうね……,这样的暴雪中，即便是大家离的很近也很容易走散呢。
 15,"Before we climb, it may be best to decide on a meeting place in case there's trouble.",山を登り始める前に、<br>どこか困ったときの集合地点を<br>決めておいた方がいいんじゃないかしら。,登山以前，先决定一个遇到麻烦时的集合场所吧。
@@ -39,7 +39,7 @@
 37,"Not all of them are the same, you know. There are big ones, little ones, and some in between.",魔物にも個体差はあるわ。<br>大きな子も小さな子も、<br>それぞれね。,魔物也有个体差别的，大的小的，各种各样。
 38,Even those of the same type are never the exact same size.,種類が同じでも、<br>まったく同じ大きさの子なんて、<br>そうそう居ないものよ。,尽管种类相同，但是大小完全一样的可几乎没有哦。
 39,This goes beyond size here! It's like a whole other species!,これはそういう限度を超えてんだろ！<br>もうほとんど別の魔物じゃねぇか！,这已经超出限度了吧？完全是别的魔物了吧？
-40,"While 姬塔 and the crew stand there flustered, Sturm coolly pulls out her blade.",<span class='scene-font-katari'>狼狽える姬塔達に対し、</span><br><span class='scene-font-katari'>スツルムは冷静に刃を抜く。</span>,<span class='scene-font-katari'>与慌张的姬塔相对，斯图姆冷静地拔剑。</span>
+40,"While 姬塔 and the crew stand there flustered, Sturm coolly pulls out her blade.",<span class='scene-font-katari'>狼狽える姬塔達に対し、</span><br><span class='scene-font-katari'>スツルムは冷静に刃を抜く。</span>,<span class='scene-font-katari'>与慌张的姬塔相对，斯特姆冷静地拔剑。</span>
 41,"Who cares? Whatever monster stands in our way, we'll still take it down.",関係ない……<br>どんな魔物だろうと、<br>邪魔なら排除する。,没关系，无论是怎样的魔物，要妨碍我的话就排除掉。
 43,"Let's move, 姬塔. Don't be scared of this big bully!",いくぞ、姬塔……<br>こんなやつ、ただデカいだけだ。<br>大きさに気圧されるなよ……！,上吧，姬塔！这样的家伙徒有大小而已，可别被体型吓倒了哦！
 info,1,1,scene_cp74_q4_s10

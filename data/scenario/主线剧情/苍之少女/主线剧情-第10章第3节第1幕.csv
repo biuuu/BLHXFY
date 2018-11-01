@@ -6,7 +6,7 @@
 <span class='scene-font-katari'>帝国軍の待つザニス高地へと向かう。</span>",<span class='scene-font-katari'>从法拉口中得到情报的姬塔一行向帝国军驻扎的Tzannis高地前进。</span>
 2,,"わぁ……！<br>
 すごい！　遠くに青く見えるあれ！<br>
-あれが<span class='scene-font-place'>アウギュステ</span>の海？",哇……！好棒！ 远远看去一片湛蓝哎！ 那就是<span class='scene-font-place'>Auguste</span>的大海吗？
+あれが<span class='scene-font-place'>アウギュステ</span>の海？",哇……！好棒！ 远远看去一片湛蓝哎！ 那就是<span class='scene-font-place'>奥古斯特</span>的大海吗？
 3,,"イオは遠足気分だな……<br>
 持ってき過ぎたおやつは没収だぜ？",看来伊欧是来郊游的……零食带太多了，咱要没收多余的部分。
 4,,"うっさい、トカゲ！<br>
@@ -34,6 +34,6 @@
 リヴァイアサンの気配が変わらない……",呐，姬塔，我觉得好奇怪……我们离刚才的地方那么远了，利维坦的气息却完全没变……
 13,,"まるで、<br>
 <span class='scene-font-place'>アウギュステ</span>全体が<br>
-リヴァイアサンに包まれてるみたい……",好像整个<span class='scene-font-place'>Auguste</span>都被利维坦包围了似的……
+リヴァイアサンに包まれてるみたい……",好像整个<span class='scene-font-place'>奥古斯特</span>都被利维坦包围了似的……
 info,,1,scene_cp10_q3_s10
 备注,,,ver-1: @煌月夜 2018/4/13

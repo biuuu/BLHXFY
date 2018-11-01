@@ -1,7 +1,7 @@
 ﻿id,en,jp,trans
 0-chapter_name,,第58章　それぞれの思惑,第58章  各自的决意
-0-synopsis,,隠し港から<span class='scene-font-place'>帝都アガスティア</span>へ潜入する姬塔一行。しかし、そこにはすでに宰相フリーシアが待ち構えており、一行は敵に囲まれてしまう。フリーシアはこのまま引き下がるよう姬塔達に勧告するが、フリーシアの計画で世界が危機に陥ると知っている一行はこれに反発。アダムは自ら囮を引き受け、一行に早くリアクターのあるタワーを目指すよう促す。,姬塔一行通过秘密港口潜入了<span class='scene-font-place'>帝国首都Agastia</span>。然而宰相早就有所准备，带兵包围了众人。芙莉西雅劝众人就此打道回府，但众人知晓她的计划威胁到整个世界，自然不会答应。亚当再次留下拖住敌人，催促众人赶快前往高塔破坏反应器。
-0,,<span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>帝国から離反したアダムの指示を受け、</span><br><span class='scene-font-katari'>最下層より</span><span class='scene-font-place'>アガスティア</span><span class='scene-font-katari'>に再び侵入する。</span>,<span class='scene-font-katari'>姬塔一行在亚当的带领下通过</span><span class='scene-font-place'>Agastia</span><span class='scene-font-katari'>最下层的秘密港口进入首都。</span>
+0-synopsis,,隠し港から<span class='scene-font-place'>帝都アガスティア</span>へ潜入する姬塔一行。しかし、そこにはすでに宰相フリーシアが待ち構えており、一行は敵に囲まれてしまう。フリーシアはこのまま引き下がるよう姬塔達に勧告するが、フリーシアの計画で世界が危機に陥ると知っている一行はこれに反発。アダムは自ら囮を引き受け、一行に早くリアクターのあるタワーを目指すよう促す。,姬塔一行通过秘密港口潜入了<span class='scene-font-place'>帝国首都阿加丝提亚</span>。然而宰相早就有所准备，带兵包围了众人。芙莉西雅劝众人就此打道回府，但众人知晓她的计划威胁到整个世界，自然不会答应。亚当再次留下拖住敌人，催促众人赶快前往高塔破坏反应器。
+0,,<span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>帝国から離反したアダムの指示を受け、</span><br><span class='scene-font-katari'>最下層より</span><span class='scene-font-place'>アガスティア</span><span class='scene-font-katari'>に再び侵入する。</span>,<span class='scene-font-katari'>姬塔一行在亚当的带领下通过</span><span class='scene-font-place'>阿加丝提亚</span><span class='scene-font-katari'>最下层的秘密港口进入首都。</span>
 3,,<span class='scene-font-katari'>しかし、隠し港に騎空艇を泊め、</span><br><span class='scene-font-katari'>艇を降りた一行を待ち構えていたのは、</span><br><span class='scene-font-katari'>思いもよらない光景だった。</span>,<span class='scene-font-katari'>然而，待姬塔一行靠港下船后，却见到一番意想不到的光景。</span>
 4,,さぁ……<br>全員武器を捨て、<br>両手を頭の後ろで組みなさい。,好了……全都给我扔掉武器，双手抱头。
 5,,…………,
@@ -15,14 +15,14 @@
 13,,さぁ、武器を捨て、手を後ろに組み、<br>大人しく艇に戻りなさい……<br>さもなくば……,好了，把武器扔掉，双手抱头，乖乖回到你们的船上……否则……
 14,,<span class='scene-font-katari'>フリーシアの腕の動きに合わせ、</span><br><span class='scene-font-katari'>姬塔一行を取り囲む兵達は、</span><br><span class='scene-font-katari'>改めて己の武器を握り直す。</span>,<span class='scene-font-katari'>周围的士兵们配合芙莉西雅一齐将武器对准众人。</span>
 15,,<span class='scene-font-katari'>しかし、</span><br><span class='scene-font-katari'>一行と行動を共にする男の姿を見て、</span><br><span class='scene-font-katari'>兵達の間にも疑問と衝撃が走るのだった。</span>,<span class='scene-font-katari'>然而，看到亚当亦在其中，士兵们都开始产生疑问。</span>
-16,,あれ……アダム大将だよな？<br>帝国を裏切って侵入者を手引きして、<br><span class='scene-font-place'>アガスティア</span>で捕まったはずじゃ……,咦……那是亚当上将吧？他不是背叛了帝国带入侵者进入<span class='scene-font-place'>Agastia</span>，已经被捕了么……
-17,,いま……<span class='scene-font-place'>アガスティア</span>の外から、<br>騎空艇に乗ってきたよな……<br>まさか脱獄したのか……？,他……现在怎么又乘着骑空艇从外面来到<span class='scene-font-place'>Agastia</span>……难道已经越狱了……？
+16,,あれ……アダム大将だよな？<br>帝国を裏切って侵入者を手引きして、<br><span class='scene-font-place'>アガスティア</span>で捕まったはずじゃ……,咦……那是亚当上将吧？他不是背叛了帝国带入侵者进入<span class='scene-font-place'>阿加丝提亚</span>，已经被捕了么……
+17,,いま……<span class='scene-font-place'>アガスティア</span>の外から、<br>騎空艇に乗ってきたよな……<br>まさか脱獄したのか……？,他……现在怎么又乘着骑空艇从外面来到<span class='scene-font-place'>阿加丝提亚</span>……难道已经越狱了……？
 18,,んな馬鹿な！<br>ここに来る前だって、<br>警報なんて全然……,怎么可能！我们来这里之前可没听到什么警报……
 19,,なぁ……オレの聞き間違いじゃなきゃ、<br>いまアンタ、<br>艇に戻れって言わなかったか？,喂……要是我没听错，你刚才是叫我们回船上吗？
-20,,その通りです。<br>そのまま騎空艇に戻り、<br>即刻この<span class='scene-font-place'>アガスティア</span>を去りなさい。,没错。就这样回到船上，马上离开<span class='scene-font-place'>Agastia</span>。
+20,,その通りです。<br>そのまま騎空艇に戻り、<br>即刻この<span class='scene-font-place'>アガスティア</span>を去りなさい。,没错。就这样回到船上，马上离开<span class='scene-font-place'>阿加丝提亚</span>。
 21,,私にはもう<br>貴方達を害する理由はありません。,我便没有理由再加害你们。
 22,,無益に戦うくらいならば、<br>このまま、<br>引き下がっていただきたいのです。,比起毫无意义的战斗，还是请你们识相地打道回府吧。
-23,,それは……<br>もはや計画に、<br>ルリアもオルキスも必要ないからか？,也就是说……你的计划已经不需要露莉亚和欧尔基斯了吗？
+23,,それは……<br>もはや計画に、<br>ルリアもオルキスも必要ないからか？,也就是说……你的计划已经不需要露莉亚和欧尔姬丝了吗？
 24,,ふん……<br>そこまで知っているのなら、<br>話は早い……,哼……既然你们都知道，说起来就简单了……
 25,,貴方も誇りある空の世界の住人ならば、<br>空が正しい歴史を取り戻す瞬間を、<br>大人しく待っていてはどうですか？,如果你也是个有尊严的空之民，那就老老实实地等这个世界夺回正确的历史如何？
 26,,それは出来ません……<br>アーカーシャを使うことの危険性は、<br>貴女もよく知っているはずです。,我做不到……使用阿卡夏有多危险，你也应该知道。
@@ -73,6 +73,6 @@
 70,,お気になさらずに……<br>それが私の役目ですから。,别在意我……这就是我的使命。
 71,,ふん……,哼……
 72,,わかった……<br>ならば私達は<br>早々にここを脱出しよう。,我明白了……那我们赶紧离开这里吧。
-73,,そして目指すは、<br><span class='scene-font-place'>アガスティア</span>中央のタワー……,目的地是<span class='scene-font-place'>Agastia</span>中央的高塔……
+73,,そして目指すは、<br><span class='scene-font-place'>アガスティア</span>中央のタワー……,目的地是<span class='scene-font-place'>阿加丝提亚</span>中央的高塔……
 74,,星晶獣と魔晶を利用した<br>対都市エネルギー変換装置……<br>リアクターだ！,破坏由星晶兽和魔晶能量转换装置组成的反应器！
 info,,1,scene_cp58_q2_s10

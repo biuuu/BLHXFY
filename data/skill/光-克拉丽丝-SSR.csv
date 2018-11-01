@@ -6,4 +6,3 @@ skill-2,光解,<div class=prt-text-small>敌方单体光属性防御DOWN(25%)　
 skill-3,原子分解,<div class=prt-text-small>根据敌方HP给敌人造成无属性伤害/消去1个强化效果　<span class=text-blue>◆消费1层存在崩坏，我方全体伤害提升(敌MHP1%，上限5000)</span></div>
 support-1,克拉丽丝，状态绝佳☆,防御力低(20%DOWN)，但存在崩坏有剩余时攻击力UP(20%)<span class=text-blue>◆战斗开始时，存在崩坏为3(最大3)<span>
 skill-lb,LB技能,自身无负面效果时，赋予敌方负面效果的成功率UP
-active,1,
