@@ -1,0 +1,22 @@
+﻿id,name,text,trans
+0-chapter_name,,第3話 メインディッシュを求めて,第3话 寻求主餐
+0-synopsis,,閉店後、新たなメインディッシュについて考える姬塔達。パーシヴァルの提案により、獰猛な性質だが美味しく希少な「魔鯛」という白身魚をメインディッシュに使うことにする。一行は早速魔鯛を釣りに行こうとするが、「下準備が必要だ」というパーシヴァルに連れられてひとまず<span class='scene-font-place'>アウギュステ</span>へ向かうのだった。,打烊后，姬塔一行开始讨论新主餐的问题，最终决定采纳帕西瓦尔的提议，使用性情凶猛但肉质鲜美的稀有魔兽「魔鲷」作为主餐食材。众人打算尽早前去钓魔鲷，但帕西瓦尔表示需要先做准备，带着众人前往<span class='scene-font-place'>奥古斯特</span>。
+1,,<span class='scene-font-katari'>閉店後、スタッフ達が帰った後、</span><br><span class='scene-font-katari'>新たなメインディッシュについて</span><br><span class='scene-font-katari'>知恵を絞り合う姬塔達。</span>,<span class='scene-font-katari'>等到营业结束，员工们都回去后，姬塔一行开始绞尽脑汁思考新主餐的问题。</span>
+2,,<span class='scene-font-katari'>だが、なかなか決定的な</span><br><span class='scene-font-katari'>アイデアが出ず、話し合いは</span><br><span class='scene-font-katari'>難航するのであった。</span>,<span class='scene-font-katari'>然而，没有人想到特别好的主意，讨论迟迟没有进展。</span>
+3,パーシヴァル/帕西瓦尔,やはりメインは、<br>食べごたえのある<br>肉か魚が良いだろう。,主餐的话，还得是够分量的肉或者鱼才行吧。
+4,ヴェイン/维恩,そうだな、<br>やっぱり定番が嬉しいよな～,是啊，大家应该更希望吃到主流的菜品~
+5,パーシヴァル/帕西瓦尔,魚なら、<br>この時期は魔鯛という<br>白身魚がおすすめだ。,如果是鱼的话，这个时节的魔鲷非常不错。
+6,ビィ/碧,なんだその魔鯛ってのは？,魔鲷是什么？
+7,パーシヴァル/帕西瓦尔,俺も片手で数えるほどしか<br>食べたことの無い希少な魚だ。,是一种非常稀有的鱼，我也只吃过不上五次。
+8,パーシヴァル/帕西瓦尔,獰猛な性質のため養殖には向かず、<br>市場に出回るのは<br>天然の魔鯛しかいない。,它们性情凶猛，不适合养殖，所以能买到的全都是野生魔鲷。
+9,パーシヴァル/帕西瓦尔,一般的な魔鯛の旬は春ごろと<br>言われているが、食通の間では<br>秋の魔鯛の方が珍重されている。,一般认为吃魔鲷的时节是在春天，但美食家们认为秋季的魔鲷更是珍品。
+10,パーシヴァル/帕西瓦尔,なぜなら秋の魔鯛は、厳しい冬を<br>乗り越えるために餌をよく食べて<br>脂が乗り美味だと言われているからだ。,据说是因为秋季的魔鲷会为了准备过冬而频繁进食，所以肉质更加肥美。
+11,ルリア/露莉亚,へぇ～！<br>パーシヴァルさんって<br>本当に物知りなんですね！,哇~！<br>帕西瓦尔先生懂的好多！
+12,ジークフリート/齐格飞,食い気が強いなら、この時期は<br>釣り上げやすいということだな。,秋天的魔鲷食欲更旺盛，也就说明更容易被人钓上来。
+13,ジークフリート/齐格飞,ただし、そんな危険を冒してまで<br>船を出してくれる漁師がいるかだな。,不过，也不知道有没有渔人愿意冒这么大的险去钓魔鲷。
+14,パーシヴァル/帕西瓦尔,<span class='scene-font-place'>アウギュステ</span>の漁協組合には<br>少し伝手があってな……<br>船の手配は俺に任せてくれ。,我在<span class='scene-font-place'>奥古斯特</span>渔协认识一些人……<br>船只的安排就交给我把。
+15,ランスロット/兰斯洛特,じゃ、早速魔鯛を釣りに行こうぜ！,那我们马上出发钓魔鲷吧！
+16,パーシヴァル/帕西瓦尔,待て、その前に下準備が必要だ。<br>ひとまず<span class='scene-font-place'>アウギュステ</span>へ向かうぞ。,等等。在那之前，我们需要做些准备。<br>总之先去<span class='scene-font-place'>奥古斯特</span>。
+17,,<span class='scene-font-katari'>何か考えがある様子のパーシヴァルに</span><br><span class='scene-font-katari'>連れられて</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>へ向かう</span><br><span class='scene-font-katari'>姬塔達。</span>,<span class='scene-font-katari'>帕西瓦尔似乎有所考量，带着姬塔一行前往</span><span class='scene-font-place'>奥古斯特</span><span class='scene-font-katari'>。</span>
+18,,<span class='scene-font-katari'>大きな危険が伴う魔鯛釣りに挑戦する</span><br><span class='scene-font-katari'>姬塔達は、果たして無事に</span><br><span class='scene-font-katari'>釣り上げることが出来るのだろうか？</span>,<span class='scene-font-katari'>他们究竟能否成功钓上危险的魔鲷呢？</span>
+info,,,scene_evt181031_cp3_q2_s10
