@@ -6,7 +6,8 @@
   "scripts": {
     "build": "gulp --gulpfile build.js extension",
     "packcsv": "gulp --gulpfile build.js md5",
-    "deploy": "gulp --gulpfile build.js"
+    "deploy": "gulp --gulpfile build.js",
+    "dpyorigin": "node ./script/index.js"
   },
   "author": "biuuu",
   "license": "MIT",
@@ -35,6 +36,7 @@
     "rollup-plugin-babel": "^4.0.0-beta.8",
     "rollup-plugin-commonjs": "^9.1.5",
     "rollup-plugin-node-resolve": "^3.3.0",
+    "shelljs": "^0.8.2",
     "through2": "^2.0.3"
   }
 }
