@@ -36,7 +36,7 @@ scenario 目录下为所有剧情文件，感谢所有提供翻译朋友的无�
 关于角色名，遇到未翻译的名字也会在数据目录下生成对应的csv(npc-name-en.csv和npc-name-jp.csv)，
 在里面填上对应名字游戏里就会替换了。
 
-目前代码库里已有英文名：https://github.com/BLHXFY-Group/BLHXFY/blob/master/data/npc-name-en.csv 以及日文名：https://github.com/BLHXFY-Group/BLHXFY/blob/master/data/npc-name-jp.csv
+这里是目前代码库里已有的[日文名](https://github.com/BLHXFY-Group/BLHXFY/blob/master/data/npc-name-jp.csv) 以及 [英文名](https://github.com/BLHXFY-Group/BLHXFY/blob/master/data/npc-name-en.csv)
 
 
 ## License
