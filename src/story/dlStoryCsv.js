@@ -1,5 +1,5 @@
 import { scenarioCache, replaceChar } from '../modules/scenario'
-import { tryDownload, replaceWords } from '../utils/'
+import { tryDownload, replaceWords, removeTag } from '../utils/'
 import CONFIG from '../config'
 import CSV from 'papaparse'
 
@@ -22,9 +22,9 @@ const replaceName = (content, userName) => {
 const dataToCsv = (data, fill) => {
   const result = []
   data.forEach(item => {
-    const name = item.charcter1_name
+    const name = removeTag(item.charcter1_name)
     replaceChar('charcter1_name', item, scenarioCache.nameMap, scenarioCache.name)
-    const transName = item.charcter1_name
+    const transName = removeTag(item.charcter1_name)
     const hasTransName = name !== transName
     txtKeys.forEach(key => {
       let txt = item[key]

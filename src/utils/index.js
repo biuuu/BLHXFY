@@ -5,7 +5,7 @@ const trim = (str) => {
   return str.trim()
 }
 
-var tryDownload = function (content, filename) {
+const tryDownload = (content, filename) => {
   const eleLink = document.createElement('a')
   eleLink.download = filename
   eleLink.style.display = 'none'
@@ -14,6 +14,13 @@ var tryDownload = function (content, filename) {
   document.body.appendChild(eleLink)
   eleLink.click()
   document.body.removeChild(eleLink)
+}
+
+const removeTag = (html) => {
+  if (html.startsWith('<')) {
+    return html.replace(/^<[^>]+>([^<]*)<\/[^>]+>/, '$1')
+  }
+  return html
 }
 
 const replaceWords = (str, map, lang = 'en') => {
@@ -76,5 +83,6 @@ export { trim,
   getPreview,
   getPreviewCsv,
   splitSingleLineSkill,
-  isDomain
+  isDomain,
+  removeTag
 }
