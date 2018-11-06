@@ -1,0 +1,22 @@
+﻿id,name,text,trans
+0-chapter_name,,第5話 更なる新メニュー誕生,第5話 更进一步的新菜单诞生
+0-synopsis,,無事にメイグイファの蕾を手に入れた姬塔達は、ビストロ・フェードラッヘに戻りお茶を入れる。メイグイファの花茶もカフェメニューに加わり、ビストロ・フェードラッヘの評判はンナギ上りに上がっていくのだった。,平安获得玫瑰花花苞的姬塔一行人回到菲德拉赫料理店泡了茶。随后玫瑰花茶也加入了饮品菜单，菲德拉赫料理店的评价也直线上升。
+1,,<span class='scene-font-katari'>無事にメイグイファの蕾を</span><br><span class='scene-font-katari'>手に入れた姬塔達。</span>,<span class='scene-font-katari'>姬塔等人平安获得了玫瑰花花苞。</span>
+2,,<span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>ビストロ・フェードラッヘの厨房に</span><br><span class='scene-font-katari'>戻って、早速お茶を淹れるのだった。</span>,<span class='scene-font-katari'>众人回到菲德拉赫料理店，在厨房里泡起了茶。</span>
+3,ヴェイン/维恩,ポットにお湯を入れて<br>事前に温めておきます。,在壶里倒入开水，事先温热一下。
+4,ヴェイン/维恩,温まったポットの中に<br>メイグイファの蕾を入れて<br>お湯を注ぎます。,温热好的壶里加入玫瑰花苞，再倒入开水。
+6,ヴェイン/维恩,蕾が開いたら、飲み頃なので、<br>香りを楽しみながら頂きます。,等花苞开放了就可以喝了。一边品味香味一边喝。
+7,,<span class='scene-font-katari'>皆のカップにお茶を</span><br><span class='scene-font-katari'>注いでいくヴェイン。</span>,<span class='scene-font-katari'>维恩在大家的杯子里倒上茶。</span>
+12,ヴェイン/维恩,さぁ、召し上がれ！,来，喝吧！
+13,ランスロット/兰斯洛特,ん～！　すっきりと<br>甘い後味で飲みやすいな！,嗯～！余味清爽甜美，很容易喝啊！
+14,パーシヴァル/帕西瓦尔,ああ、魔物の見た目とは<br>裏腹に上品な味わいだな。,是啊，与它魔物的外形相反，味道很优雅。
+15,ジークフリート/齐格飞,これなら食後の茶として<br>楽しんでもらえそうだな。,这个的话可以作为餐后茶让大家好好享受。
+16,ヴェイン/维恩,へへっ！<br>みんなが気に入ってくれた<br>みたいで嬉しいぜ！,嘿嘿！大家都很中意这茶，我很高兴！
+17,ルリア/露莉亚,お花も可愛くて<br>素敵です！,花也很可爱，好极了！
+18,ビィ/碧,これでカフェメニューも完成だな！,这样一来饮品菜单也完成了啊！
+19,,<span class='scene-font-katari'>メイグイファの花茶の追加によって、</span><br><span class='scene-font-katari'>カフェメニューが完成を迎えた。</span>,<span class='scene-font-katari'>通过追加玫瑰花茶，饮品菜单终于完成了。</span>
+24,ジャック,本当に、何から何まで<br>ありがとうございます！,真的是，从头到尾都谢谢各位了！
+25,ジャック,おかげで客足も伸びて、<br>連日大盛況ですよ！,托各位的福，客流量有大幅增长，连日来都是盛况空前！
+26,,<span class='scene-font-katari'>こうして、</span><br><span class='scene-font-katari'>ビストロ・フェードラッヘの評判は</span><br><span class='scene-font-katari'>ンナギ上りに上がっていくのだった。</span>,<span class='scene-font-katari'>就这样，料理店菲德拉赫的评价直线上升。</span>
+info,,,scene_evt181031_cp5_q4_s30
+备注,,,翻译：shala9999

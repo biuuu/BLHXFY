@@ -1,0 +1,71 @@
+﻿id,name,text,trans
+0-chapter_name,,第6話 最後の追い込み,
+0-synopsis,,グルメイベントの終了とサヴァラン訪問日が近づいてきたある日。ビストロ・フェードラッヘの売り上げが二位になったことがジャックから知らされる。喜ぶ一行だったが、何故か古参のスタッフが営業時間を過ぎても店に現れない。ビストロ・フェードラッヘはさながら戦場のように忙しく、一行は協力しながらスタッフ不在の穴を必死に埋め働くのだった。,距离美食家活动结束、萨瓦兰再次造访之日不远的某一天，杰克得知菲德拉赫餐厅的排名上升到了第二名。众人喜出望外，却发现老店员们过了开店时间也久久没有出现。今天的菲德拉赫餐厅是繁忙的战场，众人为填补店员的空缺拼命地工作。
+7,,<span class='scene-font-katari'>グルメイベントの終了と</span><br><span class='scene-font-katari'>美食家のサヴァランの訪問日が</span><br><span class='scene-font-katari'>迫ってきたとある日。</span>,<span class='scene-font-katari'>距离美食家活动结束、萨瓦兰再次造访之日不远的某一天。</span>
+8,,<span class='scene-font-katari'>ビストロ・フェードラッヘの</span><br><span class='scene-font-katari'>店長・ジャックが</span><br><span class='scene-font-katari'>姬塔達を呼び集めた。</span>,<span class='scene-font-katari'>菲德拉赫餐厅的杰克店长召集了姬塔一行。</span>
+9,ジャック/杰克,皆さん……<br>聞いてください！,各位……<br>听我说！
+10,ジャック/杰克,ビストロ・フェードラッヘの売り上げが<br>とうとう二位になりました！,菲德拉赫餐厅的营业额排名，终于变成第二名了！
+11,ビィ/碧,おお！<br>二位ってすごいじゃねぇか！,哦哦！<br>第二名，好厉害啊！
+12,ルリア/露莉亚,このまま行けば<br>優勝できますね！,再努力一下就能获胜了吧！
+13,ヴェイン/维恩,<span class='scene-font-4'>いよっしゃあ！</span><br>みんな頑張ろうぜ！,<span class='scene-font-4'>好耶！</span><br>大家再加把劲！
+14,パーシヴァル/帕西瓦尔,客足は順調に増えてはいるが、<br>もうあと一押し欲しいな。,虽然客人在增加，但店里最好还是能有一道经典的招牌菜。
+15,ランスロット/兰斯洛特,ああ、一位になるには、<br>まだ何かが足りていないんだ。,嗯。要赶上第一名，总觉得还需要别的什么。
+16,パーシヴァル/帕西瓦尔,やはり……<br>魔鯛のポワレに続いて話題となる<br>メインの肉料理が必要だ。,果然……<br>除了香煎魔鲷，我们还需要一道能够成为话题的肉类主餐。
+17,ジークフリート/齐格飞,メインの肉料理か……,肉类主餐么……
+18,ヴェイン/维恩,そういえば、<br>今日なんかスタッフ達が<br>来るの遅くないか？,说起来，今天店员们还没来吗？
+19,ジャック/杰克,そういえば、いつもなら<br>もう皆さん集まってますね。,对哦，如果是平时的话，他们现在应该已经到齐了。
+20,,<span class='scene-font-katari'>だが、その日スタッフ達は、</span><br><span class='scene-font-katari'>営業時間を過ぎても</span><br><span class='scene-font-katari'>一向に集まらない。</span>,<span class='scene-font-katari'>然而，一直到餐厅开始营业，店员们都没有出现。</span>
+21,,<span class='scene-font-katari'>姬塔達は、いつもよりも</span><br><span class='scene-font-katari'>少ない人数で、混雑時の店を</span><br><span class='scene-font-katari'>回さなくてはならないのだった。</span>,<span class='scene-font-katari'>姬塔一行必须以比平日更少的人员撑过用餐高峰期。</span>
+27,ランスロット/兰斯洛特,五番のオーダー、前菜にキッシュとパテ<br>スープにポルチニド茸とポロポロ鳥、<br>メインは魔鯛のポワレ二つ！,五号桌点的单，前菜乳蛋饼加肉派，汤要蘑菇汤和野鸟汤，主餐两份魔鲷。
+28,<span class='scene-font-1'>ヴェイン・ジークフリート</span>,<span class='scene-font-4'>ウィ！</span>,<span class='scene-font-4'>好！</span>
+29,ヴェイン/维恩,ランちゃん！<br>三番テーブルの料理上がってるよ！,兰酱！<br>三号桌的菜好了！
+30,ランスロット/兰斯洛特,了解！,好的！
+34,,<span class='scene-font-katari'>姬塔達がギリギリの状況の中</span><br><span class='scene-font-katari'>店の入口には新たな客が</span><br><span class='scene-font-katari'>次々と訪れるのだった。</span>,<span class='scene-font-katari'>众人手忙脚乱之中，店门口还不断出现新的客人。</span>
+35,客１,すみませーん！<br>四人なんですけど入れますかー？,打扰一下！<br>请问有没有四个人的位子？
+36,客２,お水もらえますか？,能给我倒杯水吗？
+37,客３,メニューお願いします！,请给我看一下菜单！
+38,客４,あ、お会計いいですか？,啊，我要买单了。
+39,ランスロット/兰斯洛特,……ぐっ！<br>これ以上は俺一人では<br>さすがに対応しきれない。,……唔！<br>我一个人实在应付不过来了。
+40,,<span class='scene-font-katari'>混雑時のビストロ・フェードラッヘは</span><br><span class='scene-font-katari'>さながら激戦の戦場の様であった。</span>,<span class='scene-font-katari'>混乱中的菲德拉赫餐厅宛如激战中的战场。</span>
+41,ランスロット/兰斯洛特,<span class='scene-font-kokoro'>（戦場とは明確に違う</span><br><span class='scene-font-kokoro'>次々と押し寄せる</span><br><span class='scene-font-kokoro'>お客様からの要求……）</span>,<span class='scene-font-kokoro'>（和战场明显不同的是，客人们源源不断的要求……）</span>
+42,ランスロット/兰斯洛特,<span class='scene-font-kokoro'>（お客様の食事ペースを読んで</span><br><span class='scene-font-kokoro'>料理をサーブする先見性、</span><br><span class='scene-font-kokoro'>その他の細かいサービス……）</span>,<span class='scene-font-kokoro'>（根据客人用餐的速度掌握上菜和其他服务的节奏……）</span>
+43,ランスロット/兰斯洛特,<span class='scene-font-kokoro'>（分かっていたことだが、</span><br><span class='scene-font-kokoro'>ここは俺の知っている</span><br><span class='scene-font-kokoro'>どの戦場とも違う……）</span>,<span class='scene-font-kokoro'>（我很明白这一点，但这里和我所经历过的每一个战场都不同……）</span>
+44,ランスロット/兰斯洛特,<span class='scene-font-kokoro'>（不測の事態を予期できなかった</span><br><span class='scene-font-kokoro'>俺の見通しが甘かった様だ……</span><br><span class='scene-font-kokoro'>すまない、みんな……！）</span>,<span class='scene-font-kokoro'>（没办法预料意外情况，是我太天真了么……抱歉了，大家……！）</span>
+46,,<span class='scene-font-katari'>ランスロットが天を仰ぎかけたその時、</span><br><span class='scene-font-katari'>後ろから落ち着いた声が聞こえてくる。</span>,<span class='scene-font-katari'>正当兰斯洛特仰天叹息时，他听见背后传来冷静的声音。</span>
+47,パーシヴァル/帕西瓦尔,ランスロット、<br>ここは俺に任せて<br>お前は接客に行け。,兰斯洛特，你去门口接待客人。
+48,ランスロット/兰斯洛特,パーシヴァル……！<br>本当に任せて大丈夫なのか？,帕西瓦尔……！<br>这里交给你真的没问题吧？
+49,パーシヴァル/帕西瓦尔,ふっ……この俺がお前の期待を、<br>今まで一度でも<br>裏切ったことがあったか？,哼……我有哪一次辜负过你的期望么？
+50,ランスロット/兰斯洛特,……！<br>ははっ、言ってくれるぜ！<br>それじゃあ、頼んだぞ！,……！<br>哈哈，你真能说！<br>那就拜托你了！
+51,,<span class='scene-font-katari'>ハイタッチを交わして</span><br><span class='scene-font-katari'>スイッチするランスロットと</span><br><span class='scene-font-katari'>パーシヴァル。</span>,<span class='scene-font-katari'>兰斯洛特和帕西瓦尔击掌交接。</span>
+52,,<span class='scene-font-katari'>ランスロットはそのまま</span><br><span class='scene-font-katari'>入口のお客の対応に向かう。</span>,<span class='scene-font-katari'>兰斯洛特前往店门口接待新来的客人。</span>
+53,ランスロット/兰斯洛特,いらっしゃいませ、<br>何名様ですか？,欢迎光临，请问几位用餐？
+54,,<span class='scene-font-katari'>パーシヴァルは料理を</span><br><span class='scene-font-katari'>器用に腕に乗せると、</span><br><span class='scene-font-katari'>テーブルの客の元へ向かう。</span>,<span class='scene-font-katari'>帕西瓦尔稳稳地端起料理送往客人的餐桌。</span>
+55,パーシヴァル/帕西瓦尔,三番テーブルのお客様、<br>お待たせ致しました。,三号桌的各位客人，久等了。
+56,,<span class='scene-font-katari'>素早く反転したパーシヴァルは、</span><br><span class='scene-font-katari'>水差しとメニューと伝票を手に</span><br><span class='scene-font-katari'>それぞれのお客のテーブルへ向かう。</span>,<span class='scene-font-katari'>上完菜后帕西瓦尔立即折返，拿起水壶菜单账单赶向各桌的客人。</span>
+57,パーシヴァル/帕西瓦尔,お客様、<br>お水を失礼致します。,这位客人，我来帮你加水。
+58,客２,ああ、ありがとう。,啊，谢谢你。
+59,パーシヴァル/帕西瓦尔,こちら、<br>メニューになります。,这是我们的菜单。
+60,客３,どうも、<br>注文が決まったらまた呼ぶよ。,谢了，等我想好了再叫你。
+61,パーシヴァル/帕西瓦尔,お会計、<br>お待たせ致しました。,久等了，这是您的账单。
+62,客４,忙しそうなのに悪いね。<br>彼女が席を立ってるうちに<br>お会計を済ませたくてさ。,不好意思啊，你们这么忙。<br>她想要在离席之前结账，麻烦你了。
+66,,<span class='scene-font-katari'>その頃、厨房では</span><br><span class='scene-font-katari'>姬塔達が</span><br><span class='scene-font-katari'>仕込みを手伝っていた。</span>,<span class='scene-font-katari'>此时，姬塔等人在厨房帮忙切菜。</span>
+67,ビィ/碧,くそぉ……<br>仕込みが全然追いつかねぇぜ！,可恶……<br>速度完全跟不上啊！
+68,ルリア/露莉亚,ビィさん！　姬塔！<br>諦めずに頑張りましょう！,碧！ 姬塔！<br>不要气馁，继续加油吧！
+69,,<span class='scene-font-katari'>姬塔達が</span><br><span class='scene-font-katari'>悪戦苦闘していると、</span><br><span class='scene-font-katari'>そこにジークフリートが現れる。</span>,<span class='scene-font-katari'>正当姬塔等人陷入苦战时，齐格飞来到他们身边。</span>
+70,ジークフリート/齐格飞,姬塔、ビィ、ルリア、<br>良く頑張ったな……<br>後は俺に任せろ。,姬塔，碧，露莉亚，辛苦你们了……<br>之后就交给我吧。
+71,ジークフリート/齐格飞,<span class='scene-font-4'>はぁぁぁぁぁぁ……</span>,<span class='scene-font-4'>哈啊啊啊啊啊……</span>
+73,ジークフリート/齐格飞,<span class='scene-font-4'>我が牛刀にて菜を断たん……！</span>,<span class='scene-font-4'>在我的牛刀下断裂吧……！</span>
+77,,<span class='scene-font-katari'>掛け声を叫ぶと同時に、</span><br><span class='scene-font-katari'>大量の仕込みを瞬く間に</span><br><span class='scene-font-katari'>片づけるジークフリート。</span>,<span class='scene-font-katari'>话音落下，齐格飞瞬间就切好了大量的菜。</span>
+78,ビィ/碧,な、なんだってぇ！<br>あんなにあった大量の野菜達が<br>一瞬でバラバラに……！,什、什么！<br>那么多蔬菜一瞬间就切完了……！
+79,ルリア/露莉亚,ま、魔鯛も綺麗な切り身になってます！,魔、魔鲷也已经变成鱼排了！
+80,ヴェイン/维恩,うおおーっ！<br>すげーぜジークフリートさん！<br>そんな奥義を隠し持ってたなんて！,哦哦！<br>太厉害了，齐格飞先生！<br>你还藏着这样的奥义啊！
+81,ジークフリート/齐格飞,ふっ……ヴェイン、<br>お前が基礎の技を<br>俺に叩きこんでくれたお蔭だ。,呵呵……维恩，这也多亏你有教我基础的刀工。
+82,ジークフリート/齐格飞,さぁ、姬塔！<br>これらの食材をヴェインに<br>渡してくれるか。,好了，姬塔！<br>把这些食材递给维恩吧。
+82-sel1_txt,,<span class='scene-font-katari'>はいっ！</span>,<span class='scene-font-katari'>好的！</span>
+83,ヴェイン/维恩,また危ないところを<br>ジークフリートさんに<br>助けられちまったな！,齐格飞先生又拯救了我们的危机啊！
+84,,<span class='scene-font-katari'>息の合った連係で店を回す</span><br><span class='scene-font-katari'>本気の姬塔達を見て</span><br><span class='scene-font-katari'>驚きを隠せないジャック。</span>,<span class='scene-font-katari'>姬塔等人默契的配合让杰克震惊不已。</span>
+85,ジャック/杰克,す……すごい……<br>多くの言葉を交わさずとも<br>互いが互いのサポートをしている！,太……太厉害了……<br>他们根本就不需要说什么，就能默契地互相配合！
+86,ジャック/杰克,これが姬塔さん達の<br>本気だったのか……！,这就是他们真正的实力吗……！
+87,ジャック/杰克,この人達は、<br>もう一流のプロの料理人だ……！,这些人已经是一流的料理人了……！
+88,,<span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>古参のスタッフ不在の穴を埋めるため、</span><br><span class='scene-font-katari'>休みなく働き続けるのだった。</span>,<span class='scene-font-katari'>为了填补老店员们的空缺，姬塔一行不停地工作着。</span>
+info,,,scene_evt181031_cp6_q1_s10

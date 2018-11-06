@@ -38,7 +38,7 @@ arcarum_debuff_off_1,ステージ効果解除,Active Effect,解除效果
 arcarum_enemy_lock_1,アクイラ・キーストーン,Aquila Keythorn,天鹰之柱
 arcarum_enhancement_1,アーカルム召喚石,Arcarum Series Summons,阿尔卡那召唤石
 arcarum_enhancement_10,一括外し確認,Unequip All,卸下装备确认
-arcarum_enhancement_11,全ての編成から装備を外します。<br>よろしいですか？<br><br><div class='txt-attention'>※メイン召喚石に装備している<br>場合は外れません</div>,This summon will be unequipped<br>from all parties.<br><br><div class='txt-attention'>Main summons won't be unequipped.</div>,确定从所有编成中卸下该装备吗？？<div class='txt-attention'>※主召唤石不会自动解除装备</div>
+arcarum_enhancement_11,全ての編成から装備を外します。<br>よろしいですか？<br><br><div class='txt-attention'>※メイン召喚石に装備している<br>場合は外れません</div>,This summon will be unequipped<br>from all parties.<br><br><div class='txt-attention'>Main summons won't be unequipped.</div>,确定从所有队伍中卸下该装备吗？？<div class='txt-attention'>※主召唤石不会自动解除装备</div>
 arcarum_enhancement_12,一括外し,Unequip All,一键卸下装备
 arcarum_enhancement_13,装備を外しました。,This summon was unequipped.,已卸下当前装备
 arcarum_enhancement_14,選択された召喚石は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,This summon is currently favorited.<br>Unfavorite it and try again.,该召唤石在保护中，无法选择。请取消保护后重试。
@@ -88,7 +88,7 @@ arcarum_unopened_difficulty_1,難易度HARDは、難易度NORMALの<br>各ポイ
 arcarum_unopened_difficulty_2,難易度EXTREMEは、難易度HARDの<br>各ポイントをすべて踏破すると挑戦可能に<br>なります。,Extreme difficulty will unlock after<br>all Hard points have been cleared.,EXTREME难度将在HARD难度各路线通关后开启。
 archaic_1,特殊武器,Weapon Series,特殊武器
 archaic_10,武器選択,Weapon Select,武器选择
-archaic_11,選択された武器は装備中のため、<br>素材として選択できません。<br><br>装備を外した状態で選択してください。,Equipped weapons can't be absorbed.<br><br><br>Unequip and try again.,该武器在编成中，无法作为素材。请解除装备后重试。
+archaic_11,選択された武器は装備中のため、<br>素材として選択できません。<br><br>装備を外した状態で選択してください。,Equipped weapons can't be absorbed.<br><br><br>Unequip and try again.,该武器在队伍中，无法作为素材。请解除装备后重试。
 archaic_12,選択された武器は保護中のため、<br>素材として選択できません。<br><br>保護を外した状態で再度選択してください。,Favorited weapons can't be absorbed.<br><br><br>Unfavorite it and try again.,该武器已被保护，无法作为素材。请取消保护后重试。
 archaic_13,武器のさらなる強化をするために、<br>シェロちゃんの設備拡充に<br>ご協力ください～！,Looks like I'll need a new slot<br>to upgrade your weapon!<br>Could you help?,为进一步强化武器，请帮助榭洛扩充设备~！
 archaic_14,実行確認,Use Items,确认使用
@@ -110,7 +110,7 @@ archaic_28,貴重な武器への交換、製作は<br>こちらでできちゃ�
 archaic_29,強化確認,Upgrade,确认强化
 archaic_3,製作確認,Forge,确认制作
 archaic_30,一括外し確認,Unequip all,卸下装备确认
-archaic_31,全ての編成から装備を外します。<br>よろしいですか？,This item will be unequipped from all parties.,确定从所有编成中卸下该装备吗？
+archaic_31,全ての編成から装備を外します。<br>よろしいですか？,This item will be unequipped from all parties.,确定从所有队伍中卸下该装备吗？
 archaic_32,一括外し,Unequip all,一键卸下装备
 archaic_33,装備を外しました。,This item was unequipped.,已卸下当前装备
 archaic_34,戦,PWR,战
@@ -119,7 +119,7 @@ archaic_36,Lv,Lvl,
 archaic_37,H,HP,
 archaic_4,製作完了,Forge,制作完成
 archaic_5,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、製作ができません。,"This weapon can't be reforged now.<br>You don't have enough treasures,<br>or other requirements haven't been met.",基础武器未满足条件，或素材不足，无法制作。
-archaic_6,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,This weapon is currently eqipped.<br>Unequip it and try again.,该武器在编成中，无法选择。请解除装备后重试。
+archaic_6,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,This weapon is currently eqipped.<br>Unequip it and try again.,该武器在队伍中，无法选择。请解除装备后重试。
 archaic_7,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,This weapon is currently favorited.<br>Unfavorite it and try again.,该武器已被保护，无法选择。请取消保护后重试。
 archaic_8,素材武器を選択してください,Select weapons to absorb.,请选择素材武器
 archaic_9,武器製作に戻る,Weapons Upgrade,返回武器制作
@@ -132,7 +132,7 @@ archaic_bahamut_14,武器選択,,武器选择
 archaic_bahamut_15,天地開闢の器に戻る,,返回天地开辟之器
 archaic_bahamut_16,強化確認,Upgrade,确认强化
 archaic_bahamut_17,一括外し確認,,卸下装备确认
-archaic_bahamut_18,全ての編成から装備を外します。<br>よろしいですか？,,确定从所有编成中卸下该装备吗？
+archaic_bahamut_18,全ての編成から装備を外します。<br>よろしいですか？,,确定从所有队伍中卸下该装备吗？
 archaic_bahamut_19,一括外し,,一键卸下装备
 archaic_bahamut_2,天地開闢の器 ‐バハムートウェポン誕生‐,,天地开辟之器 -巴哈姆特武器诞生-
 archaic_bahamut_20,装備を外しました。,,已卸下当前装备
@@ -147,13 +147,13 @@ archaic_bahamut_4,アイテム詳細,,道具详情
 archaic_bahamut_5,製作確認,,确认制作
 archaic_bahamut_6,製作完了,,制作成功
 archaic_bahamut_7,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、製作ができません。,,基础武器未满足条件，或素材不足，无法制作。
-archaic_bahamut_8,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,,该武器在编成中，无法选择。请解除装备后重试。
+archaic_bahamut_8,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,,该武器在队伍中，无法选择。请解除装备后重试。
 archaic_bahamut_9,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,,该武器已被保护，无法选择。请取消保护后重试。
 archaic_job_1,特殊武器,Weapon Series,
 archaic_job_10,依代を複数所持しているため、<br>使用する依代を選択してください。,You have multiple relics.<br>Please select a relic to use.,您持有多件依代，请选择本次使用的依代。
 archaic_job_11,強化確認,Upgrade,确认强化
 archaic_job_12,一括外し確認,Unequip all,卸下装备确认
-archaic_job_13,全ての編成から装備を外します。<br>よろしいですか？,This item will be unequipped from all parties.,确定从所有编成中卸下该装备吗？
+archaic_job_13,全ての編成から装備を外します。<br>よろしいですか？,This item will be unequipped from all parties.,确定从所有队伍中卸下该装备吗？
 archaic_job_14,一括外し,Unequip all,一键卸下装备
 archaic_job_15,装備を外しました。,This item was unequipped.,已卸下当前装备
 archaic_job_16,戦,PWR,战
@@ -162,7 +162,7 @@ archaic_job_18,Lv,Lvl,
 archaic_job_19,H,HP,
 archaic_job_2,英雄武器に戻る,Class Champion Weapons,返回英雄武器
 archaic_job_3,武器選択,Weapon Select,武器选择
-archaic_job_4,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,This weapon is equipped.<br>Unequip it and try again.,该武器在编成中，无法选择。请解除装备后重试。
+archaic_job_4,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,This weapon is equipped.<br>Unequip it and try again.,该武器在队伍中，无法选择。请解除装备后重试。
 archaic_job_5,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,This weapon is currently favorited.<br>Unfavorite it and try again.,该武器已被保护，无法选择。请取消保护后重试。
 archaic_job_6,アイテム詳細,Item Details,道具详情
 archaic_job_7,製作確認,Forge,确认制作
@@ -176,7 +176,7 @@ archaic_omega_13,無垢なる魂の回帰に戻る,Atma Recollection,返回污�
 archaic_omega_14,武器選択,Weapon Select,武器选择
 archaic_omega_15,オメガの極点に戻る,Ultima Vertex,返回终焉之极点
 archaic_omega_17,一括外し確認,Unequip all,卸下装备确认
-archaic_omega_18,全ての編成から装備を外します。<br>よろしいですか？,This item will be unequipped from all parties.,确定从所有编成中卸下该装备吗？
+archaic_omega_18,全ての編成から装備を外します。<br>よろしいですか？,This item will be unequipped from all parties.,确定从所有队伍中卸下该装备吗？
 archaic_omega_19,一括外し,Unequip all,一键卸下装备
 archaic_omega_2,無垢なる魂の回帰,Atma Recollection,污垢之魂的回归
 archaic_omega_20,装備を外しました。,This item was unequipped.,已卸下当前装备
@@ -189,7 +189,7 @@ archaic_omega_4,アイテム詳細,Item Details,道具详情
 archaic_omega_5,製作確認,Forge,确认制作
 archaic_omega_6,製作完了,Forge,制作成功
 archaic_omega_7,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、製作ができません。,"This weapon can't be reforged now.<br>You don't have enough treasures,<br>or other requirements haven't been met.",基础武器未满足条件，或素材不足，无法制作
-archaic_omega_8,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,This weapon is currently eqipped.<br>Unequip it and try again.,该武器在编成中，无法选择。请解除装备后重试。
+archaic_omega_8,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,This weapon is currently eqipped.<br>Unequip it and try again.,该武器在队伍中，无法选择。请解除装备后重试。
 archaic_omega_9,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,This weapon is currently favorited.<br>Unfavorite it and try again.,该武器已被保护，无法选择。请取消保护后重试。
 archaic_seraphic_1,特殊武器,,
 archaic_seraphic_10,%s完了,,%s成功
@@ -200,7 +200,7 @@ archaic_seraphic_14,武器選択,,武器选择
 archaic_seraphic_15,%s確認,,确认%s
 archaic_seraphic_16,装備を外しました。,,已卸下当前装备
 archaic_seraphic_17,一括外し確認,,卸下装备确认
-archaic_seraphic_18,全ての編成から装備を外します。<br>よろしいですか？,,确定从所有编成中卸下该装备吗？
+archaic_seraphic_18,全ての編成から装備を外します。<br>よろしいですか？,,确定从所有队伍中卸下该装备吗？
 archaic_seraphic_19,一括外し,,一键卸下装备
 archaic_seraphic_2,セラフィックウェポン一覧,,天司武器一览
 archaic_seraphic_20,武器リストの所持数が最大に達しているため、武器の製作ができません。所持数に空きを作ることで製作できるようになります。,,武器数量已满，无法获得新武器。请整理后重试。
@@ -219,7 +219,7 @@ archaic_xeno_14,武器選択,,武器选择
 archaic_xeno_15,六道武器一覧に戻る,,返回六道武器一览
 archaic_xeno_16,強化確認,,确认强化
 archaic_xeno_17,一括外し確認,,卸下装备确认
-archaic_xeno_18,全ての編成から装備を外します。<br>よろしいですか？,,确定从所有编成中卸下该装备吗？
+archaic_xeno_18,全ての編成から装備を外します。<br>よろしいですか？,,确定从所有队伍中卸下该装备吗？
 archaic_xeno_19,一括外し,,一键卸下装备
 archaic_xeno_2,六道武器一覧,,六道武器一览
 archaic_xeno_20,装備を外しました。,,已卸下当前装备
@@ -232,7 +232,7 @@ archaic_xeno_4,アイテム詳細,,道具详情
 archaic_xeno_5,製作確認,,确认制作
 archaic_xeno_6,製作完了,,制作成功
 archaic_xeno_7,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、製作ができません。,,基础武器未满足条件，或素材不足，无法制作。
-archaic_xeno_8,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,,该武器在编成中，无法选择。请解除装备后重试。
+archaic_xeno_8,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,,该武器在队伍中，无法选择。请解除装备后重试。
 archaic_xeno_9,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,,该武器已被保护，无法选择。请取消保护后重试。
 archive_1,用語集,Archive,用语集
 archive_10,シナリオパターン選択,Select Scenario,选择剧情
@@ -394,31 +394,31 @@ coopraid_110,スタンプを送りました。,Sticker was sent.,表情已发送
 coopraid_111,チャットを送りました。,Message was sent.,聊天已发送。
 coopraid_112,共闘クエスト戦績,Co-op Log,共斗任务战绩
 coopraid_113,確認できるバトルはありません。,There is nothing here.,您有未确认结果的战斗。
-coopraid_114,ミッション報酬,Mission Rewards,任务报酬
+coopraid_114,ミッション報酬,Mission Rewards,任务奖励
 coopraid_115,交換完了,Trade Treasure,兑换成功
-coopraid_116,ミッション報酬のリセット,Mission Points,重置任务报酬
-coopraid_117,ミッション報酬を全て受け取りました。<br>ミッション報酬在庫をリセットします。,All items have been traded for. Mission rewards will now be reset.,您已兑换全部报酬。刷新任务报酬。
+coopraid_116,ミッション報酬のリセット,Mission Points,重置任务奖励
+coopraid_117,ミッション報酬を全て受け取りました。<br>ミッション報酬在庫をリセットします。,All items have been traded for. Mission rewards will now be reset.,您已兑换全部奖励。刷新任务奖励。
 coopraid_118,ステータス,Progress,进程
 coopraid_119,参加する,Join a Room,参加
-coopraid_12,編成へ,Party,编成
+coopraid_12,編成へ,Party,队伍
 coopraid_120,参加,Join,参加
 coopraid_121,マルチバトル撤退,Raid Battle,从多人战斗中撤退
 coopraid_122,マルチバトルから撤退しました。,You retreated from the raid battle.,已从多人战斗中撤退。
 coopraid_123,クエスト[%s]の有効期限が切れました,%s is no longer available.,任务[%s]已超时
 coopraid_124,クエストを開始できません,Quest,无法开始任务
 coopraid_125,退室したプレイヤーをサポーターに<br>設定しているメンバーがいるため<br>クエストを開始できません。,One of the players who left the room was<br>loaning a summon to another member.<br>You can't start the quest.,房间内有成员选择了已退出玩家的支援召唤石，任务无法开始。
-coopraid_126,以下の属性キャラがパーティに<br>編成されているため、このクエストを<br>開始することが出来ません。,The following elements can't<br>be used on this quest. Edit<br>your party and try again.,以下属性的人物在编成中，任务无法开始。
-coopraid_127,以下のキャラがパーティに<br>編成されているため、このクエストを<br>開始することが出来ません。,The following characters can't<br>be used on this quest. Edit<br>your party and try again.,以下人物在编成中，任务无法开始。
-coopraid_128,以下の指定属性以外のキャラが<br>編成されているため、このクエストを<br>開始することが出来ません。,Only the following elements<br>can be used on this quest.<br>Edit your party and try again.,以下属性以外的人物在编成中，任务无法开始。
+coopraid_126,以下の属性キャラがパーティに<br>編成されているため、このクエストを<br>開始することが出来ません。,The following elements can't<br>be used on this quest. Edit<br>your party and try again.,以下属性的人物在队伍中，任务无法开始。
+coopraid_127,以下のキャラがパーティに<br>編成されているため、このクエストを<br>開始することが出来ません。,The following characters can't<br>be used on this quest. Edit<br>your party and try again.,以下人物在队伍中，任务无法开始。
+coopraid_128,以下の指定属性以外のキャラが<br>編成されているため、このクエストを<br>開始することが出来ません。,Only the following elements<br>can be used on this quest.<br>Edit your party and try again.,以下属性以外的人物在队伍中，任务无法开始。
 coopraid_129,%s属性キャラ<br>,%s characters<br>,%s属性人物
 coopraid_13,共闘クエストデイリーミッション,Co-op Quest Daily Missions,共斗每日任务
-coopraid_130,以下のキャラがパーティに<br>編成されていないため、このクエストを<br>開始することが出来ません。,The following characters need<br>to be used on this quest. Edit<br>your party and try again.,以下人物不在编成中，任务无法开始。
-coopraid_131,以下の指定レアリティの条件を<br>満たしていないため、このクエストを<br>開始することが出来ません。,The following rarity requirements<br>aren't being met. Edit<br>your party and try again.,编成未满足以下稀有度条件，任务无法开始。
-coopraid_132,以下の指定種族の条件を<br>満たしていないため、このクエストを<br>開始することが出来ません。,You can't play this quest.<br>You must include the following<br>character types:,编成未满足以下指定种族条件，任务无法开始。
+coopraid_130,以下のキャラがパーティに<br>編成されていないため、このクエストを<br>開始することが出来ません。,The following characters need<br>to be used on this quest. Edit<br>your party and try again.,以下人物不在队伍中，任务无法开始。
+coopraid_131,以下の指定レアリティの条件を<br>満たしていないため、このクエストを<br>開始することが出来ません。,The following rarity requirements<br>aren't being met. Edit<br>your party and try again.,队伍未满足以下稀有度条件，任务无法开始。
+coopraid_132,以下の指定種族の条件を<br>満たしていないため、このクエストを<br>開始することが出来ません。,You can't play this quest.<br>You must include the following<br>character types:,队伍未满足以下指定种族条件，任务无法开始。
 coopraid_133,※初回クリア時まで<br>,(Until it's cleared once.),※初次通关后解除限制
 coopraid_134,&lt;開始条件&gt;,&lt;Quest&gt;,
 coopraid_135,以下のクエスト開始条件を<br>満たしていないため、このクエストを<br>開始することが出来ません。,You don't meet the<br>requirements to play<br>this quest.,未满足以下条件，任务无法开始。
-coopraid_136,マルチバトルで使用している編成は<br>チャレンジクエストでは使用できません。,You raid quest party can't be<br>used in challenge battles.,挑战任务无法使用多人战斗编成。
+coopraid_136,マルチバトルで使用している編成は<br>チャレンジクエストでは使用できません。,You raid quest party can't be<br>used in challenge battles.,挑战任务无法使用多人战斗队伍。
 coopraid_137,挑戦条件を満たしていないため、<br>クエストを開始できません。<br><br>必要Rank: %s以上,You don't have the right rank to play this quest.<br><br>Required rank: %s,未满足挑战条件，任务无法开始。
 coopraid_138,AP使用確認,AP,AP使用确认
 coopraid_139,APが足りません,More AP Needed,AP不足
@@ -427,7 +427,7 @@ coopraid_140,以下の条件を満たしていないため、<br>このクエス
 coopraid_141,BP,EP,BP
 coopraid_142,送信完了,Message,已发送
 coopraid_143,送信完了,Stickers,已发送
-coopraid_144,クエストが開始されていますが、<br>以下の召喚石がパーティに編成されているため<br>クエストに参加できません。<br>パーティの編成をしてから<br>クエストに参加してください。,The following summons can't<br>be used on this quest.<br>Edit your party and try again.,以下召唤石在编成中，无法参加任务。请整理编成后重试。
+coopraid_144,クエストが開始されていますが、<br>以下の召喚石がパーティに編成されているため<br>クエストに参加できません。<br>パーティの編成をしてから<br>クエストに参加してください。,The following summons can't<br>be used on this quest.<br>Edit your party and try again.,以下召唤石在队伍中，无法参加任务。请整理队伍后重试。
 coopraid_145,開始ボタンでクエストを開始します。,Tap Start to begin.,请按开始键开始任务。
 coopraid_146,Error Code: %s<br>%s,Error Code: %s<br>%s,
 coopraid_15,対象クエスト,Quests,当前任务
@@ -468,7 +468,7 @@ coopraid_46,アイテム使用確認,Use Item,道具使用确认
 coopraid_47,回復量が取得できません,Can't get the amount for recovery.,无法回复指定量HP
 coopraid_48,アイテム使用不可,This item can't be used.,无法使用该道具
 coopraid_49,既に全回復しているため<br>アイテムを使用できません。,All players have full health.<br>This item wasn't used.,所有玩家HP已满，无法使用该道具。
-coopraid_5,クエストが開始されていますが、<br>以下のキャラがパーティに編成されているため<br>クエストに参加できません。<br>パーティの編成をしてから<br>クエストに参加してください。,"The quest has started, but there <br>is a character in your party <br>that can't be used in this quest.<br>Edit your party to participate.",以下人物在编成中，无法参加任务。请整理编成后重试。
+coopraid_5,クエストが開始されていますが、<br>以下のキャラがパーティに編成されているため<br>クエストに参加できません。<br>パーティの編成をしてから<br>クエストに参加してください。,"The quest has started, but there <br>is a character in your party <br>that can't be used in this quest.<br>Edit your party to participate.",以下人物在队伍中，无法参加任务。请整理队伍后重试。
 coopraid_50,アイテムを使用しました。,You used an item.,道具已使用
 coopraid_51,使用上限に達しているため<br>アイテムを使用できませんでした。,You can't use any more of this item.,使用次数已达上限，无法使用该道具。
 coopraid_52,すでにクエストを開始しています。<br>アイテムを使用できません。,The quest has already started.<br>This item wasn't used.,任务已开始。无法使用该道具。
@@ -601,12 +601,12 @@ detail_25,移動完了,Stash,转移成功
 detail_26,武器強化に戻る,Weapons Upgrade,返回武器强化
 detail_27,武器製作に戻る,Weapons Upgrade,返回武器制作
 detail_28,特殊武器,Weapon Series,
-detail_29,編成,Party,编成
+detail_29,編成,Party,队伍
 detail_3,保護設定,Favorite,保护设定
 detail_30,召喚石一覧に戻る,Summons,返回召唤石一览
 detail_31,キャンセル,Cancel,取消
 detail_32,装備する,Select,装备
-detail_33,メイン召喚石には除外中の<br>召喚石を設定することができません。<br><br>除外設定を解除して装備しました。,A summon can't be equipped as<br>a main summon while it is excluded<br>from auto select. It is now included.,自动编成时设为忽略的召唤石无法设为主召唤。请取消忽略后重试。
+detail_33,メイン召喚石には除外中の<br>召喚石を設定することができません。<br><br>除外設定を解除して装備しました。,A summon can't be equipped as<br>a main summon while it is excluded<br>from auto select. It is now included.,自动组队时设为忽略的召唤石无法设为主召唤。请取消忽略后重试。
 detail_34,武器詳細,Weapons,武器详情
 detail_35,召喚石詳細,Summons,召唤石详情
 detail_36,キャラ詳細,Details,人物详情
@@ -632,12 +632,12 @@ detail_53,設定する,Select,设定
 detail_54,設定を外す,Remove,解除设定
 detail_55,召喚石入れ替え,Change,更换召唤石
 detail_56,召喚石設定,Support Summon,召唤石设定
-detail_57,編成TOPに戻る,Party,返回编成首页
+detail_57,編成TOPに戻る,Party,返回队伍首页
 detail_58,武器一覧に戻る,Weapons,返回武器一览
 detail_59,武器装備,Auto Select,武器装备
 detail_6,%s<br>保護を解除しました。<br><br>売却や強化素材に使用することができます。,%s<br>has been unfavorited. It can be sold or absorbed.,%s的保护已取消。可以售出或选为强化素材。
 detail_60,キャラ一覧に戻る,Characters,返回人物一览
-detail_61,編成する,Select,编成
+detail_61,編成する,Select,选择
 detail_62,倉庫,Stash,仓库
 detail_63,倉庫に戻る,Stash,返回仓库
 detail_64,%sに戻る,%s,返回%s
@@ -658,7 +658,7 @@ detail_77,所持ルピ　<span class='txt-held-lupi'>%s</span>ルピ,Held: <span
 detail_78,確認,Change Skill,确认
 detail_79,一括外し確認,Unequip all,卸下装备确认
 detail_8,ボーナスリセット確認,Bonuses,重置点数
-detail_80,全ての編成から装備を外します。<br>よろしいですか？,This item will be unequipped from all parties.,确定从所有编成中卸下该装备吗？
+detail_80,全ての編成から装備を外します。<br>よろしいですか？,This item will be unequipped from all parties.,确定从所有队伍中卸下该装备吗？
 detail_81,一括外し,Unequip all,一键卸下装备
 detail_82,装備を外しました。,This item was unequipped.,已卸下当前装备
 detail_83,スキル変更,Change Skill,变更技能
@@ -670,7 +670,7 @@ detail_9,交換する,Trade,兑换
 detail_common_1,装備,Equip,装备
 detail_common_2,武器,Weapons,武器
 detail_common_3,召喚石,Summons,召唤石
-detail_common_4,編成,Party,编成
+detail_common_4,編成,Party,队伍
 detail_common_5,キャラ,Characters,角色
 detail_common_6,該当の%sが存在しません。,There are no items that match %s.,不存在符合条件的%s。
 detail_common_7,%s中のため<br>除外することができません。,The item couldn't be excluded because it may be equipped or favorited.,该装备在%s中，无法在自动装备时跳过该装备。
@@ -723,7 +723,7 @@ enhancement_weapon_13,H,HP,
 enhancement_weapon_14,アイテム使用,Use Item,使用道具
 enhancement_weapon_15,武器選択,Weapon Select,武器选择
 enhancement_weapon_16,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,This weapon is currently favorited.<br>Unfavorite it and try again.,该武器已被保护，无法选择。请取消保护后重试。
-enhancement_weapon_17,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,This weapon is currently eqipped.<br>Unequip it and try again.,该武器在编成中，无法选择。请解除装备后重试。
+enhancement_weapon_17,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,This weapon is currently eqipped.<br>Unequip it and try again.,该武器在装备中，无法选择。请解除装备后重试。
 enhancement_weapon_18,スキル追加確認,Add Skill,添加技能确认
 enhancement_weapon_19,一度スキル追加したら戻すことはできませんできません。がよろしいですか,一度スキル追加したら戻すことはできませんできません。がよろしいですか,技能添加后无法还原。确认添加技能吗？技能添加后无法还原。
 enhancement_weapon_2,倉庫に戻る,Stash,返回仓库
@@ -733,7 +733,7 @@ enhancement_weapon_22,武器リストの所持数が最大に達しているた�
 enhancement_weapon_23,アイテム使用最終確認,Use Item,使用道具最终确认
 enhancement_weapon_24,※武器Lv、スキルLvは引き継がれます<br>※スキル追加後、元に戻すことはできません,Weapon lvl and skill lvl will carry over.<br>Adding a skill can't be undone.,※武器等级、技能等级不会重置※添加技能后无法还原。
 enhancement_weapon_25,一括外し確認,Unequip all,卸下装备确认
-enhancement_weapon_26,全ての編成から装備を外します。<br>よろしいですか？,This item will be unequipped from all parties.,确定从所有编成中卸下该装备吗？
+enhancement_weapon_26,全ての編成から装備を外します。<br>よろしいですか？,This item will be unequipped from all parties.,确定从所有队伍中卸下该装备吗？
 enhancement_weapon_27,一括外し,Unequip all,一键卸下装备
 enhancement_weapon_28,装備を外しました。,This item was unequipped.,已卸下当前装备
 enhancement_weapon_29,アイテム使用確認,Use Item,道具使用确认
@@ -1169,7 +1169,7 @@ limited_24,良い子には贈り物をあげんとな。,,是你们这些好孩�
 limited_25,%s達へのプレゼントじゃよ。,,你们就收下吧。
 limited_26,プレゼントリストに送られました。,,已发送到礼物列表
 limited_27,コラボキャンペーン,,联动
-limited_28,報酬受取,,报酬收取
+limited_28,報酬受取,,奖励收取
 limited_29,次のページへは移動できません,,无法前往下一页
 limited_3,交換確認,Trade Treasure,确认兑换
 limited_30,PC版からの移動が制限されているページの為<br>このボタンからのページ移動はできません。,,PC版无法查看此页，点击该按钮无法前往下一页。
@@ -1335,7 +1335,7 @@ notice_sidestory_campaign_1,サイドストーリーキャンペーン開催！<
 notice_sidestory_unlock_title,キャンペーンについて,Side Story Campaign,活动详情
 open_fate_1,エピソード解放,Episode Unlocked,人物剧情解放
 over_monthly_payment_limit_title,購入金額通知,,
-party_1,編成,Party,编成
+party_1,編成,Party,队伍
 party_10,ジョブ一覧に戻る,Classes,返回职业一览
 party_101,メイン武器に『%s』を<br>装備しているため、<br>スキン変更はできません。,Outfit can't be changed while %s<br>is equipped as your main weapon.,您将『%s』设为了主手武器，无法变更皮肤。
 party_102,JP,CP,
@@ -1363,7 +1363,7 @@ party_19,セット出来るEXアビリティがありません。,There are no m
 party_2,武器一覧に戻る,Weapons,返回武器一览
 party_20,ボーナス確認,Bonuses,确认加成数据
 party_21,Limit Bonus解禁,Extended Mastery,技能点数解锁
-party_23,編成する,Select,编成
+party_23,編成する,Select,选择
 party_24,全タイプ,All Styles,所有类型
 party_25,ジョブチェンジ,Switch Class,更换职业
 party_26,ジョブ変更確認,Switch Class,更换职业确认
@@ -1372,8 +1372,8 @@ party_28,アビリティ詳細,Skills,技能详情
 party_29,EXアビリティ解除,Subskill,EX技能解除
 party_3,キャンセル,Cancel,取消
 party_30,このジョブでは設定できない<br>EXアビリティのため解除しました。,The subskill has been removed<br>it doesn't match this class.,该职业无法使用的EX技能已被移除。
-party_31,編成確認,Reequip,编成确认
-party_32,編成で武器を確認しますか？,Reequip weapons to match this class?,是否前往编成确认武器？
+party_31,編成確認,Reequip,选择武器
+party_32,編成で武器を確認しますか？,Reequip weapons to match this class?,是否返回队伍选择主手武器？
 party_33,確認する,Yes,确定
 party_34,ジョブ一覧,Unlocked Classes,职业一览
 party_35,未取得ジョブ一覧,Locked Classes,未获得职业一览
@@ -1387,8 +1387,8 @@ party_42,マイページ,Home,主页
 party_43,マイページで表示するPOSEを設定できます。,Select a Home screen pose,选择主页显示的POSE。
 party_44,リスト,Inventory,列表
 party_45,リストで使用するPOSEを設定できます。,Select an Inventory pose,选择列表显示的POSE。
-party_46,編成・詳細,Party,编成·详情
-party_47,編成・詳細で使用する<br>POSEを設定できます。,Select a party pose,选择编成·详情页显示的POSE。
+party_46,編成・詳細,Party,队伍·详情
+party_47,編成・詳細で使用する<br>POSEを設定できます。,Select a party pose,选择队伍·详情页显示的POSE。
 party_48,バトル,Battle,战斗
 party_49,バトル中のキャラクターアイコンで使用する<br>POSEを設定できます。,Select a battle pose,选择战斗中显示的POSE。
 party_5,武器装備,Select a Weapon,武器装备
@@ -1418,11 +1418,11 @@ party_71,EXアビリティを解除しますか？,Remove subskill?,是否解除
 party_72,EXアビリティ解除,Remove Subskill,解除EX技能
 party_73,解除する,Remove,解除
 party_74,習得可能ステータス一覧,Class Stats,查看可习得加成
-party_75,おまかせ編成しました。,You used auto select to form a party!,自动编成完毕。
-party_76,おまかせ編成,Auto Select,自动编成
-party_77,武器を一括装備しました。,Weapons have been auto selected.,武器自动编成完毕。
-party_78,武器装備,Auto Select,武器自动编成
-party_79,召喚石を一括装備しました。,Summons have been auto selected,召唤石自动编成完毕。
+party_75,おまかせ編成しました。,You used auto select to form a party!,自动组队完毕。
+party_76,おまかせ編成,Auto Select,自动组队
+party_77,武器を一括装備しました。,Weapons have been auto selected.,武器自动装备完毕。
+party_78,武器装備,Auto Select,武器自动装备
+party_79,召喚石を一括装備しました。,Summons have been auto selected,召唤石自动装备完毕。
 party_8,ジョブの取得条件,Requirements,职业获得条件
 party_80,召喚石装備,Select a Summon,召唤石装备
 party_81,%s<br>を装備しました。,%s was equipped,已装备%s。
@@ -1432,9 +1432,9 @@ party_84,キャラ入れ替え,Switch Out,更换人物
 party_85,武器装備,Select a Weapon,武器装备
 party_86,召喚石装備,Select a Summon,召唤石装备
 party_87,発動中のスキル,Weapon Skills,武器技能
-party_88,おまかせ編成確認,Auto Select,自动编成确认
-party_89,武器おまかせ装備確認,Auto Select,武器自动编成确认
-party_9,編成TOPに戻る,Party,返回编成首页
+party_88,おまかせ編成確認,Auto Select,自动组队确认
+party_89,武器おまかせ装備確認,Auto Select,武器自动装备确认
+party_9,編成TOPに戻る,Party,返回队伍首页
 party_90,召喚石おまかせ装備確認,Auto Select,召唤石自动装备
 party_91,ヒント,Help,帮助
 party_92,パーティ解散,Disband Party,解散队伍
@@ -1443,26 +1443,26 @@ party_94,ボーナス確認,Bonuses,确认加成数据
 party_95,%sに\nジョブチェンジした!!,Your class is now\n %s!,您的职业变更为\n %s！！
 party_96,バレット確認,Bullets,
 party_97,登録先編成セット選択,Save Party,选择预设
-party_98,%sの編成内容を<br>セット%sに登録しました。,%s was saved<br>in slot %s,%s的编成内容已保存为预设%s。
-party_99,セット上限に達しているため、<br>編成を登録できませんでした。,There aren't enough slots to save this party.,预设数量已达上限，编成保存失败。
-party_asset_1,登録編成名を変更,Set Name,变更预设编成名称
+party_98,%sの編成内容を<br>セット%sに登録しました。,%s was saved<br>in slot %s,%s的队伍已保存<br>为预设%s。
+party_99,セット上限に達しているため、<br>編成を登録できませんでした。,There aren't enough slots to save this party.,预设数量已达上限，队伍保存失败。
+party_asset_1,登録編成名を変更,Set Name,变更预设队伍名称
 party_asset_10,保管所について,About Temporary Slots,关于保管所
 party_asset_11,スキル詳細,Skill Details,技能详情
 party_asset_2,何も入力されていません。,You haven't typed anything.,输入为空
-party_asset_3,登録編成の名前を<br>%s<br>に変更しました。,This party's name is now<br>%s.,预设编成名称变更为<br>%s
+party_asset_3,登録編成の名前を<br>%s<br>に変更しました。,This party's name is now<br>%s.,预设队伍名称变更为<br>%s
 party_asset_4,編成登録,Save Party,保存预设
 party_asset_5,登録先編成セット選択,Save Party,选择预设
 party_asset_6,バレット確認,Load Bullet,
-party_asset_7,%sの編成内容を<br>セット%sに登録しました。,Party %s was saved in<br>slot %s,%s的编成内容已保存为预设%s。
-party_asset_8,セット上限に達しているため、<br>編成を登録できませんでした。,There aren't enough slots to save this party.,预设数量已达上限，编成保存失败。
+party_asset_7,%sの編成内容を<br>セット%sに登録しました。,Party %s was saved in<br>slot %s,%s的队伍已保存<br>为预设%s。
+party_asset_8,セット上限に達しているため、<br>編成を登録できませんでした。,There aren't enough slots to save this party.,预设数量已达上限，队伍保存失败。
 party_asset_9,セットを所持していません,Save Party,无预设
 party_assumed_damage_1,予測ダメージ,Estimated DMG,预测伤害
 party_pop_get_limited_1,ジョブ取得,Unlock Class,获得职业
 party_set_pose_1,スキン・POSE切り替え設定,Outfit and Pose Settings,皮肤 · POSE 切换设置
 party_set_pose_2,リスト,Inventory,列表
 party_set_pose_3,リストで使用するPOSEを設定できます。,Select an Inventory pose,选择列表显示的POSE。
-party_set_pose_4,編成,Party,编成
-party_set_pose_5,編成で使用するPOSEを設定できます。,Select a Party pose,选择编成显示的POSE。
+party_set_pose_4,編成,Party,队伍
+party_set_pose_5,編成で使用するPOSEを設定できます。,Select a Party pose,选择队伍显示的POSE。
 party_set_pose_6,キャラクター詳細,Character Details,人物详情
 party_set_pose_7,キャラクター詳細で使用するPOSEを設定できます。,Select a Character Details pose,选择人物详情页显示的POSE。
 party_set_pose_8,選択したPOSEによって、バトル中のボイスが変化する場合があります。「バトル中キャラクター」の設定によっては奥義などの演出とボイスが一致しない場合があります。,"The character's battle voice might change based on the battle pose. Other battle voices for this character, such as charge attack calls, might not match the battle pose if certain sprite poses have been set.",不同的POSE可能有不同的战斗语音。语音可能与「战斗」一栏所设定的奥义动画不匹配。
@@ -1484,7 +1484,7 @@ pop_setting_twitter_1,Twitter連携,Link Twitter Account,绑定Twitter
 pop_setting_twitter_2,認証完了,Link Twitter Account,绑定成功
 pop_setting_twitter_3,Twitterとの連携を認証しました。,Your Granblue Fantasy account and Twitter account are now linked.,您已绑定推特账号。
 pop_skill_boost_1,スキルブースト,Survival Boost,技能强化
-pop_startatonce_no_ap_1,AP消費のないクエストを開始します。<br>特別な編成で挑むクエストのため<br>サポーター召喚石の選択はありません。,No AP is required for this quest.<br>Support summons aren't available here.,该任务不消耗AP。<br>您将以特殊编成挑战该任务，无法选择支援召唤石。
+pop_startatonce_no_ap_1,AP消費のないクエストを開始します。<br>特別な編成で挑むクエストのため<br>サポーター召喚石の選択はありません。,No AP is required for this quest.<br>Support summons aren't available here.,该任务不消耗AP。<br>您将以特殊队伍挑战该任务，无法选择支援召唤石。
 pop_treasure_title,トレジャー,Treasure,物品
 present_1,プレゼントリスト,Crate,礼物
 present_10,プレゼントの受取期限が過ぎています。,This item has expired.,该礼物已过期
@@ -1496,7 +1496,7 @@ present_15,引換券,Draw Tickets,兑换券
 present_16,ベッティングカード,Betting Cards,下注卡
 present_17,スキン,Outfit,皮肤
 present_18,強化,Upgrade,强化
-present_19,編成,Party,编成
+present_19,編成,Party,队伍
 present_2,%s個,%s,%s个
 present_20,リスト,Inventory,列表
 present_21,アイテム,Items,道具
@@ -1686,7 +1686,7 @@ quest_114,バトルポイントが足りません。<br>マイページに戻り
 quest_115,このバトルは参加可能人数上限に達しています。<br>マイページに戻ります。,This raid battle is already full.<br>The Home screen will now appear.,参战人数已达上限，返回主页。
 quest_116,TGS限定イベントに<br>チェックインしていないため<br>参加できません。,"This event is only playable at the Tokyo Game Show.<br>You haven't checked in, so you can't play.",东京游戏展限定任务。您未参加东京游戏展，无法开始任务。
 quest_117,不明なエラーです。<br>マイページに戻ります。,An unknown issue has occurred.<br>The Home screen will now appear.,出现未知错误，返回主页。
-quest_118,編成,Party,编成
+quest_118,編成,Party,队伍
 quest_119,必要なRankに達していないため<br>参戦出来ません。,You can't play this battle. Your rank isn't high enough.,等级不足<br>无法加入战斗。
 quest_12,&lt;禁止条件&gt;,&lt;Quest&gt;,
 quest_120,未確認バトル,Pending Battles,未确认战斗
@@ -1713,24 +1713,24 @@ quest_140,このクエストはあと%s回挑戦できます。,This quest can b
 quest_141,敵の弱点属性について,Elemental Damage,敌方弱点属性
 quest_142,クエスト撤退,Retreat,撤退
 quest_143,開始条件を満たしていないため<br>このクエストを開始することが出来ません。,First satisfy the requirements to start this quest.,未满足开始条件，无法开始任务。
-quest_15,以下のキャラがパーティに<br>編成されているため、このクエストを<br>開始することが出来ません。,The following characters can't<br>be used on this quest. Edit<br>your party and try again.,以下人物在编成中，任务无法开始。
-quest_16,以下の指定属性以外のキャラが<br>編成されているため、このクエストを<br>開始することが出来ません。,Only the following elements<br>can be used on this quest.<br>Edit your party and try again.,以下属性以外的人物在编成中，任务无法开始。
-quest_17,選択中のパーティにGuestキャラが編成されているため、このクエストを開始することができません。<br><br>進行中のクエストをクリアまたは撤退することで、開始できるようになります。,You play can't this battle. There is a guest character in your party. First clear this quest or retreat.,该编成含有Guest人物，无法开始任务。<br><br>请完成进行中的任务或者撤退后开始。
-quest_18,以下のキャラがパーティに<br>編成されていないため、このクエストを<br>開始することが出来ません。,The following characters need<br>to be used on this quest. Edit<br>your party and try again.,以下人物不在编成中，任务无法开始。
-quest_19,以下の指定レアリティの条件を<br>満たしていないため、このクエストを<br>開始することが出来ません。,The following rarity requirements<br>aren't being met. Edit<br>your party and try again.,编成未满足以下稀有度条件，任务无法开始。
+quest_15,以下のキャラがパーティに<br>編成されているため、このクエストを<br>開始することが出来ません。,The following characters can't<br>be used on this quest. Edit<br>your party and try again.,以下人物在队伍中，任务无法开始。
+quest_16,以下の指定属性以外のキャラが<br>編成されているため、このクエストを<br>開始することが出来ません。,Only the following elements<br>can be used on this quest.<br>Edit your party and try again.,以下属性以外的人物在队伍中，任务无法开始。
+quest_17,選択中のパーティにGuestキャラが編成されているため、このクエストを開始することができません。<br><br>進行中のクエストをクリアまたは撤退することで、開始できるようになります。,You play can't this battle. There is a guest character in your party. First clear this quest or retreat.,该队伍含有Guest人物，无法开始任务。<br><br>请完成进行中的任务或者撤退后开始。
+quest_18,以下のキャラがパーティに<br>編成されていないため、このクエストを<br>開始することが出来ません。,The following characters need<br>to be used on this quest. Edit<br>your party and try again.,以下人物不在队伍中，任务无法开始。
+quest_19,以下の指定レアリティの条件を<br>満たしていないため、このクエストを<br>開始することが出来ません。,The following rarity requirements<br>aren't being met. Edit<br>your party and try again.,队伍未满足以下稀有度条件，任务无法开始。
 quest_2,古戦場の魔物のお出ましだぁ！<br>騎空団の仲間と協力して倒そうぜぇ！,It's the Unite and Fight monsters!<br>Work with your crew to destroy them!,古战场魔兽出现！和骑空团成员一起打败它们吧！
-quest_20,以下の指定種族の条件を<br>満たしていないため、このクエストを<br>開始することが出来ません。,You can't play this quest. You must include the following character types:,编成未满足以下指定种族条件，任务无法开始。
+quest_20,以下の指定種族の条件を<br>満たしていないため、このクエストを<br>開始することが出来ません。,You can't play this quest. You must include the following character types:,队伍未满足以下指定种族条件，任务无法开始。
 quest_21,※初回クリア時まで<br>,(Until it's cleared once.),※初次通关后解除限制
 quest_22,&lt;開始条件&gt;,&lt;Quest&gt;,&lt;开始条件&gt
 quest_23,以下のクエスト開始条件を<br>満たしていないため、このクエストを<br>開始することが出来ません。,You don't meet the<br>requirements to play<br>this quest.,未满足开始条件，无法开始任务。
 quest_24,必要なアイテムが不足しているため<br>このクエストを開始することが出来ません。,You don't have enough of the required<br>items to play this quest.,所需道具不足，任务无法开始。
-quest_25,マルチバトルで使用している編成は<br>チャレンジクエストでは使用できません。,You raid quest party can't be<br>used in challenge battles.,挑战任务无法使用多人战斗编成。
+quest_25,マルチバトルで使用している編成は<br>チャレンジクエストでは使用できません。,You raid quest party can't be<br>used in challenge battles.,挑战任务无法使用多人战斗队伍。
 quest_26,おすすめ編成,Auto Select,自动编队
 quest_27,おまかせ編成完了,Auto Select,自动编队
 quest_28,おまかせ編成しました。,You used auto select to form a party!,自动编队完成
 quest_29,パーティ編成変更,Party,编队变更
 quest_3,消費なし,None Used,没有消耗
-quest_30,現在のパーティ編成を変更しますか？,Change your party members?,是否修改当前编成？
+quest_30,現在のパーティ編成を変更しますか？,Change your party members?,是否修改当前队伍？
 quest_31,APが足りません,Not Enough AP,AP 不足
 quest_32,クエストリスト,Quest,任务列表
 quest_33,AP使用確認,Use AP,使用 AP
@@ -1738,7 +1738,7 @@ quest_37,サポーターの召喚石が変更されました。<br>再度サポ�
 quest_38,最大AP不足,Not Enough AP,最大AP不足
 quest_39,クエストを実行するためのAPが現在の<br>最大APを上回っています。<br><br>APはRankを上げることで最大値が<br>上昇します。,This quest requires more AP than you can have yet.<br>Raise your rank to get more AP.,该任务消耗的AP超过现AP最大值。AP最大值会随等级提升而增加。
 quest_4,未確認のバトルはありません。,There aren't any pending battles now.,无未确认结果的战斗。
-quest_40,おまかせ編成確認,Auto Select,自动编成确认
+quest_40,おまかせ編成確認,Auto Select,自动组队确认
 quest_41,このクエストから撤退しました。,You withdrew from this quest.<br><br>,您已从当前任务中撤退。
 quest_42,<br><br>未クリアクエストのため、<br>AP%sが返却されました。<br><br>AP: %s→<span class='txt-after-ap'>%s</span>,<br><br>This is an uncleared quest. <br>AP will be returned: %s<br><br>%s&gt;&gt;<span class='txt-after-ap'>%s</span>,<br><br>任务失败，返还%sAP。
 quest_43,クエスト撤退確認,Quest,撤退确认
@@ -1802,7 +1802,7 @@ quest_97,クエストクリア,Quest Clear,任务完成
 quest_98,獲得アイテムを清算してクエストを終了します。,"The items that you get will be totalled, and the quest will end.",清算获得的道具并结束任务。
 quest_99,Rank%sに達していないため<br>このクエストを開始することが出来ません。,Only players rank %s or higher can start this quest.,等级不满Rank%s，无法开始此任务。
 quest_abstract_1,クエスト確認,Quest,任务确认
-quest_abstract_2,APを%s消費してクエストを開始します。<br>特別な編成で挑むクエストのため<br>サポーター召喚石の選択はありません。,Use %s AP to start this quest?<br>Support summons aren't available here.,该任务将消耗%sAP。<br>您将以特殊编成挑战该任务，无法选择支援召唤石。
+quest_abstract_2,APを%s消費してクエストを開始します。<br>特別な編成で挑むクエストのため<br>サポーター召喚石の選択はありません。,Use %s AP to start this quest?<br>Support summons aren't available here.,该任务将消耗%sAP。<br>您将以特殊队伍挑战该任务，无法选择支援召唤石。
 quest_abstract_3,AP%sを消費してクエストを開始します。<br>バトルがないクエストのため<br>サポーター召喚石の選択はありません。,There's no battle in this %s-AP quest.<br>No support summon is used.,该任务将消耗%sAP。<br>因任务中无战斗环节，无法选择支援召唤石。
 quest_adventure_1,スキップ確認,Skip Side-Scrolling Scene,跳过
 quest_adventure_2,アドベンチャーパートをスキップしますか？<br><span class='color-yellow'>スキップしてもアイテムは入手できます。</span>,You are about to skip this side-scrolling scene.<br><span class='color-yellow'>You can still receive items you might pick up.</span>,确认跳过冒险环节吗？<br><span class='color-yellow'>依旧能够获得道具。</span>
@@ -1815,7 +1815,7 @@ quest_do_2,CAUTION!,Defense Order,
 quest_extra_1,エクストラクエスト出現時間終了,Special Quest,任务出现时间结束
 quest_extra_2,チャレンジクエスト,Challenge Quest,挑战任务
 quest_limitation_job_1,以下の条件を満たしていないため、<br>このクエストを開始することができません。,,未满足以下开始条件，无法开始任务。
-quest_limitation_summon_1,以下の召喚石がパーティに<br>編成されているため、このクエストを<br>開始することが出来ません。,The following summons can't<br>be used on this quest.<br>Edit your party and try again.,以下召唤石在编成中，无法参加任务。请整理编成后重试。
+quest_limitation_summon_1,以下の召喚石がパーティに<br>編成されているため、このクエストを<br>開始することが出来ません。,The following summons can't<br>be used on this quest.<br>Edit your party and try again.,以下召唤石在队伍中，无法参加任务。请整理队伍后重试。
 quest_limitation_summon_2,&lt;禁止条件&gt;,Remove these summons from your party:,
 quest_list_sub_1,%sへの挑戦,,
 quest_list_sub_2,"以下のクエスト開始条件を<br>満たしていないため、このクエストを<br>開始することが出来ません。<br><br><div class=ng""><開始条件>""",,
@@ -1995,7 +1995,7 @@ result_44,クエストコンプリート報酬,Completion Loot,任务奖励
 result_46,クエストコンプリート報酬,Quest Completion Reward,任务奖励
 result_47,RANK上限解放,Rank Uncapped,等级上限解放
 result_48,デイリーミッション,Daily Missions,每日任务
-result_49,達成報酬,Loot Won,达成报酬
+result_49,達成報酬,Loot Won,达成奖励
 result_5,通信に問題が発生したため<br>クエスト結果画面を表示できませんでした。<br>経験値や報酬は正常に獲得しています。<br><br>お手数ですがマイページから<br>ゲームを再開してください。,There has been an issue with communicating with the server.<br>The quest results screen couldn't be shown<br>You will still receive EXP and loot.<br><br>Please return to the Home screen<br>and try again.,网络连接出现问题，无法显示任务结果页面。<br>您已正常获得经验值与任务奖励。<br><br>请返回主页重新进入游戏。
 result_50,イベントボーナス,Event Bonus,活动加成
 result_51,未解放のクエストだったため<br>クリア報酬とイベントボーナスは<br>得られませんでした。,"The quest wasn't unlocked.<br>You get no event bonus or<br>rewards for clearing. ",该任务未解放。您未获得通关奖励与活动加成。
@@ -2408,9 +2408,9 @@ summon_lyria_1,ルリアが召喚不可状態<br>のため召喚できません�
 summon_lyria_2,ルリアが倒れたため召喚できません。,Lyria has been knocked out. You can't use summons.,露丽亚已倒下，无法召唤
 survival_mode_1,サバイバルモード,SURVIVAL MODE,生存模式
 title_1,称号設定,Display a Trophy,称号设定
-title_10,該当する報酬がありません。,No rewards available.,无报酬
+title_10,該当する報酬がありません。,No rewards available.,无奖励
 title_11,%s件,%s,
-title_12,報酬受取,Pick Up Loot,收取报酬
+title_12,報酬受取,Pick Up Loot,收取奖励
 title_13,所持数がいっぱいです,You can't hold any more items.,您的所持已达上限
 title_14,所持数が限界のため、<br>受け取ることが出来ません。,You can't pick up rewards because you've<br> reached the maximum amount you can hold.,所持已达上限，无法收取。
 title_15,謎解きトップへ,Event Home,返回解谜首页
@@ -2426,7 +2426,7 @@ title_5,称号,Trophies,
 title_6,称号確認,Display Trophy,称号确认
 title_7,称号設定完了,Display a Trophy,称号设定成功
 title_8,称号を設定しました。,You displayed a trophy.,称号设定成功
-title_9,称号報酬,Trophy Rewards,称号报酬
+title_9,称号報酬,Trophy Rewards,称号奖励
 top_10,台詞集,,
 top_11,"イベントTOPにて<br>「台詞集」が解放されました。<br><br><span class=""txt-orange"">台詞集では、イベントTOPで表示されている<br>キャラクター、台詞、音声を楽しむことができます。</span>",,
 top_12,ストーリーを全てクリアすると<br>確認できるようになります。<br>,,
@@ -2452,14 +2452,14 @@ user_16,所持上限,Inventory Full,
 user_17,所持上限に達しているので、これ以上所持できません。,You already have the maximum number that can be held at once. You can't carry any more.,所持已达上限，无法收取。
 user_18,天星器交換チケットを使用できます。,Revenant weapon exchange ticket available!,您可以使用天星器兑换券。
 user_19,超得！！スタートダッシュガチャセットが<br />購入できます。,Deeply discounted Beginner's draw set on sale!,新手超得！！现在可以购买新手特别扭蛋券！
-user_2,編成することができなくなりました,This can't be equipped anymore.,该装备无法再编入编成
+user_2,編成することができなくなりました,This can't be equipped anymore.,这个已经不能再装备更多了
 user_20,サプライズ！！スペシャルガチャセットが<br />購入できます。,Surprise Special draw set on sale!,大惊喜！！现在可以购买特别扭蛋券！
 user_21,無料ガチャが引けます。,Draw once for free!,可以进行免费抽卡。
 user_22,フェイトエピソードがあります！,You have new fate episodes!,有未通关的人物剧情！
 user_23,フレンド申請が来ています。,You have a friend request!,有未处理的好友申请！
 user_24,招待チャットを送信して、報酬GET！！,Invite a friend to Granblue Fantasy and get loot!,邀请朋友加入碧蓝幻想，可获奖励！
 user_25,騎空団に入団申請が来ています。,Someone applied to your crew!,有未处理的骑空团入团申请。
-user_26,称号報酬が獲得出来ます。,You got a new trophy!,有未领取的称号报酬。
+user_26,称号報酬が獲得出来ます。,You got a new trophy!,有未领取的称号奖励。
 user_27,%sが購入できます。,"%s is now available. ",现在可以购买%s。
 user_28,騎空団%sからのスカウトがあります。,You were scouted by %s!,骑空团%s向你发出邀请。
 user_29,未確認バトルがあります。,Check your raid battles!,有未确认结果的战斗。

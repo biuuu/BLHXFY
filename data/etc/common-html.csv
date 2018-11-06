@@ -197,7 +197,7 @@ path,text,trans,count
 /item/content/index,空図の欠片,空图碎片,
 /item/content/index,大事なもの,重要物品,4
 /item/content/index,ショップへ,去商店,
-/profile/content/index,挨拶<,留言<,
+/profile/content/index,<div class="prt-talk-title">挨拶</div>,<div class="prt-talk-title">留言</div>,
 /profile/content/index,ステータス,状态,
 /profile/content/index,ポイント,点数,2
 /profile/content/index,フレンド,好友,2
