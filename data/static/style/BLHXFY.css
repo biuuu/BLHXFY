@@ -210,7 +210,7 @@ body .cnt-order-box .cnt-btn-bottombox .btn-evolution:not(.disapprove)::after {
   content: "上限解放";
 }
 
-.prt-module-evolution, .btn-cancel,
+.prt-module-evolution .btn-cancel,
 .prt-module-evolution, .btn-decompose-confirm,
 .prt-module-evolution .btn-follow-base[data-location-href*="npc"],
 .popRestartQuest .btn-withdraw,
