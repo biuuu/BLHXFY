@@ -269,7 +269,7 @@ body .cnt-order-box .cnt-btn-bottombox .btn-evolution:not(.disapprove)::after {
   content: "能力强化";
   font-size: 12px;
 }
-.prt-module-evolution, .btn-cancel::after,
+.prt-module-evolution .btn-cancel::after,
 #pop-deck .prt-select .btn-deck-cancel::after {
   content: "取消";
   font-size: 12px;
