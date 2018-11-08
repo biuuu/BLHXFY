@@ -1,6 +1,7 @@
 import './bottomToolbar'
 import './insertMeta'
 import './removeScroller'
+import './hideSidebar'
 import debounce from 'lodash/debounce'
 import isPlainObject from 'lodash/isPlainObject'
 import config from '../config'
@@ -26,7 +27,8 @@ const keyMap = new Map([
   ['auto-download', 'autoDownload'],
   ['bottom-toolbar', 'bottomToolbar'],
   ['username', 'displayName'],
-  ['remove-scroller', 'removeScroller']
+  ['remove-scroller', 'removeScroller'],
+  ['hide-sidebar', 'hideSidebar']
 ])
 
 const setting = (type, value) => {

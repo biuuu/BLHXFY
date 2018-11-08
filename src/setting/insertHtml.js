@@ -80,11 +80,15 @@ const template = `
       </div>
 
 			<div class="prt-setting-article">
-				<div class="txt-article-title">隐藏网页滚动条</div>
+				<div class="txt-article-title">UI设置</div>
 				<div class="prt-button-l">
 					<div>
 						<input id="remove-scroller-setting-blhxfy" onchange="window.blhxfy.setting('remove-scroller', this.checked)" type="checkbox" value="">
 						<label for="remove-scroller-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">隐藏滚动条</label>
+					</div>
+					<div>
+						<input id="hide-sidebar-setting-blhxfy" onchange="window.blhxfy.setting('hide-sidebar', this.checked)" type="checkbox" value="">
+						<label for="hide-sidebar-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">隐藏侧边栏</label>
 					</div>
 				</div>
 			</div>

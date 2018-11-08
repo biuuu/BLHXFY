@@ -13,7 +13,9 @@ const config = {
   timeout: 8,
   autoDownload: false,
   bottomToolbar: false,
-  removeScroller: true
+  removeScroller: true,
+  hideSidebar: false,
+  localHash: ''
 }
 
 const getLocalConfig = () => {
@@ -24,7 +26,7 @@ const getLocalConfig = () => {
   if (isDomain(origin)) {
     config.origin = origin.trim()
   }
-  const keys = ['autoDownload', 'bottomToolbar', 'displayName', 'removeScroller']
+  const keys = ['autoDownload', 'bottomToolbar', 'displayName', 'removeScroller', 'hideSidebar']
   keys.forEach(key => {
     let value = setting[key]
     if (isString(value)) value = filter(value.trim())
@@ -34,6 +36,14 @@ const getLocalConfig = () => {
   })
 }
 
+const getLocalHash = () => {
+  const str = sessionStorage.getItem('blhxfy:data')
+  const data = JSON.parse(str)
+  config.localHash = data.hash
+  return data.hash
+}
+
 getLocalConfig()
+getLocalHash()
 
 export default config

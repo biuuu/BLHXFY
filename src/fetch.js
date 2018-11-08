@@ -7,11 +7,12 @@ const { origin } = config
 let ee = new EventEmitter()
 let lecia
 
-const insertCSS = (name, hash) => {
+const insertCSS = (name) => {
+
   const link = document.createElement('link')
   link.type = 'text/css'
   link.rel = 'stylesheet'
-  link.href = `${origin}/blhxfy/data/static/style/${name}.css?lecia=${hash}`
+  link.href = `${origin}/blhxfy/data/static/style/${name}.css?lecia=${config.hash || config.localHash}`
   document.head.appendChild(link)
 }
 
@@ -75,7 +76,7 @@ const getHash = fetchData('/blhxfy/manifest.json').then(data => data.hash)
 
 getHash.then(hash => {
   config.hash = hash
-  insertCSS('BLHXFY', hash)
+  insertCSS('BLHXFY')
   return hash
 })
 
@@ -100,4 +101,4 @@ const receiveMessage = (event) => {
 window.addEventListener("message", receiveMessage, false)
 
 export default fetchWithHash
-export { getHash }
+export { getHash, insertCSS }
