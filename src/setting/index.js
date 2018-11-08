@@ -1,5 +1,6 @@
 import './bottomToolbar'
 import './insertMeta'
+import './removeScroller'
 import debounce from 'lodash/debounce'
 import isPlainObject from 'lodash/isPlainObject'
 import config from '../config'
@@ -24,7 +25,8 @@ const keyMap = new Map([
   ['origin', 'origin'],
   ['auto-download', 'autoDownload'],
   ['bottom-toolbar', 'bottomToolbar'],
-  ['username', 'displayName']
+  ['username', 'displayName'],
+  ['remove-scroller', 'removeScroller']
 ])
 
 const setting = (type, value) => {
@@ -38,7 +40,7 @@ const setting = (type, value) => {
       }
     }
     $('#blhxfy-setting-modal').addClass('show')
-  } else if (type === 'origin' || type === 'auto-download' || type === 'bottom-toolbar' || type === 'username') {
+  } else {
     saveToLocalstorage(keyMap.get(type), value)
   }
 }

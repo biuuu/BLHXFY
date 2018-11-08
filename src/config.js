@@ -1,5 +1,6 @@
 import { isDomain } from './utils/'
 import isString from 'lodash/isString'
+import isBoolean from 'lodash/isBoolean'
 import isPlainObject from 'lodash/isPlainObject'
 import filter from './utils/XSSFilter'
 
@@ -11,7 +12,8 @@ const config = {
   displayName: '',
   timeout: 8,
   autoDownload: false,
-  bottomToolbar: false
+  bottomToolbar: false,
+  removeScroller: true
 }
 
 const getLocalConfig = () => {
@@ -22,11 +24,11 @@ const getLocalConfig = () => {
   if (isDomain(origin)) {
     config.origin = origin.trim()
   }
-  const keys = ['autoDownload', 'bottomToolbar', 'displayName']
+  const keys = ['autoDownload', 'bottomToolbar', 'displayName', 'removeScroller']
   keys.forEach(key => {
     let value = setting[key]
     if (isString(value)) value = filter(value.trim())
-    if (value) {
+    if (isBoolean(value) || value) {
       config[key] = value
     }
   })
