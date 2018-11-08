@@ -94,8 +94,8 @@ const html = `
 <div id="blhxfy-story-tool">
   <button onclick="window.blhxfy.dlStoryCsv()" title="下载未翻译的剧情文本">原文</button>
   <button onclick="window.blhxfy.dlStoryCsv('fill')" title="下载用原文填充trans列的剧情文本">填充</button>
-  <button onclick="window.blhxfy.dlStoryCsv('trans')" title="下载带翻译的剧情文本">译文</button>
-  <button onclick="window.blhxfy.previewCsv('show')" title="填写已翻译的剧情文本来预览">预览</button>
+  <button onclick="window.blhxfy.dlStoryCsv('trans')" title="下载已翻译的剧情文本">译文</button>
+  <button onclick="window.blhxfy.previewCsv('show')" title="填写翻译好的剧情文本来预览">预览</button>
 </div>
 <div id="blhxfy-story-input">
   <div class="blhxfy-preview-tool">

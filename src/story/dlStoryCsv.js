@@ -19,7 +19,7 @@ const replaceName = (content, userName) => {
   }
 }
 
-const dataToCsv = (data, fill) => {
+const dataToCsv = (data, fill, isTrans) => {
   const result = []
   data.forEach(item => {
     const name = removeTag(item.charcter1_name)
@@ -31,11 +31,20 @@ const dataToCsv = (data, fill) => {
       let hasName = key === 'detail' && name && name !== 'null'
       if (txt) {
         txt = txt.replace(/\n/g, '')
+        let trans = ''
+        if (isTrans) {
+          const obj = scenarioCache.transMap.get(item.id)
+          if (obj && obj[`${key}-origin`]) {
+            trans = obj[`${key}-origin`]
+          }
+        } else if (fill) {
+          trans = txt
+        }
         result.push({
           id: `${item.id}${key === 'detail' ? '' : '-' + key}`,
           name: hasName ? `${name}${hasTransName ? '/' + transName : ''}` : '',
           text: txt,
-          trans: fill ? txt : ''
+          trans
         })
       }
     })
@@ -56,7 +65,7 @@ export default function (type = 'normal') {
     tryDownload(dataToCsv(scenarioCache.data), scenarioCache.name + '.csv')
   } else if (type === 'trans') {
     if (scenarioCache.hasTrans) {
-      tryDownload(scenarioCache.csv, scenarioCache.name + '.csv')
+      tryDownload(dataToCsv(scenarioCache.data, false, true), scenarioCache.originName)
     } else {
       alert('这个章节还没有翻译。')
     }

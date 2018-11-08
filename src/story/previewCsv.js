@@ -12,7 +12,7 @@ const setLocalData = (name, csv) => {
     }
   }
   if (!exist) {
-    if (data.length >= 3) {
+    if (data.length >= 5) {
       data.shift()
     }
     data.push({

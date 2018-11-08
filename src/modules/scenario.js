@@ -10,6 +10,24 @@ import filter from '../utils/XSSFilter'
 
 const txtKeys = ['chapter_name', 'synopsis', 'detail', 'sel1_txt', 'sel2_txt', 'sel3_txt', 'sel4_txt']
 
+const scenarioCache = {
+  data: null,
+  name: '',
+  originName: '',
+  hasTrans: false,
+  csv: '',
+  nameMap: null,
+  transMap: null
+}
+
+const getFilename = (pathname) => {
+  const rgs = pathname.match(/([^\/\\]+)$/)
+  if (rgs && rgs[1]) {
+    return rgs[1]
+  }
+  return pathname
+}
+
 const getScenario = async (name) => {
   let csv = getPreviewCsv(name)
   if (!csv) {
@@ -18,6 +36,7 @@ const getScenario = async (name) => {
     if (!pathname) {
       return { transMap: null, csv: '' }
     }
+    scenarioCache.originName = getFilename(pathname)
     csv = await fetchData(`/blhxfy/data/scenario/${pathname}`)
   }
   const list = parseCsv(csv)
@@ -29,6 +48,7 @@ const getScenario = async (name) => {
       const type = idArr[1] || 'detail'
       const obj = transMap.get(id) || {}
       obj[type] = item.trans ? filter(item.trans.replace(/姬塔/g, config.displayName || config.userName)) : false
+      obj[`${type}-origin`] = item.trans
       transMap.set(id, obj)
     }
   })
@@ -103,14 +123,6 @@ const replaceChar = (key, item, map, scenarioName) => {
   }
 }
 
-const scenarioCache = {
-  data: null,
-  name: '',
-  hasTrans: false,
-  csv: '',
-  nameMap: null
-}
-
 const transStart = async (data, pathname) => {
   const pathRst = pathname.match(/\/[^/]*?scenario.*?\/(scene[^\/]+)\/?/)
   if (!pathRst || !pathRst[1]) return data
@@ -126,6 +138,7 @@ const transStart = async (data, pathname) => {
   scenarioCache.data = cloneDeep(data)
   scenarioCache.name = scenarioName
   scenarioCache.hasTrans = false
+  scenarioCache.originName = ''
   const { transMap, csv } = await getScenario(scenarioName)
   const nameData = await getNameData()
   const nameMap = Game.lang !== 'ja' ? nameData['enNameMap'] : nameData['jpNameMap']
@@ -133,6 +146,7 @@ const transStart = async (data, pathname) => {
   if (!transMap) return data
   scenarioCache.hasTrans = true
   scenarioCache.csv = csv
+  scenarioCache.transMap = transMap
 
   data.forEach((item) => {
     let name1, name2, name3

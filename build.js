@@ -33,7 +33,7 @@ const collectCsv = function(type) {
         if (type === 'scenario') {
           newList = list.map(item => {
             if (item.id === 'info') {
-              scenarioMap[item.trans] = path.relative(path.resolve(__dirname, 'data/scenario/'), file.path).replace('\\', '/')
+              scenarioMap[item.trans] = path.relative(path.resolve(__dirname, 'data/scenario/'), file.path).replace(/\\/g, '/')
             }
             return item
           })
@@ -42,7 +42,7 @@ const collectCsv = function(type) {
             if (item.id === 'npc') {
               const idArr = item.detail.split('|')
               if (idArr && idArr[0]) {
-                skillMap[idArr[0]] = path.relative(path.resolve(__dirname, 'data/skill/'), file.path).replace('\\', '/')
+                skillMap[idArr[0]] = path.relative(path.resolve(__dirname, 'data/skill/'), file.path).replace(/\\/g, '/')
               }
             }
             return item
