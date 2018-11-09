@@ -1729,7 +1729,7 @@ quest_26,おすすめ編成,Auto Select,自动编队
 quest_27,おまかせ編成完了,Auto Select,自动编队
 quest_28,おまかせ編成しました。,You used auto select to form a party!,自动编队完成
 quest_29,パーティ編成変更,Party,编队变更
-quest_3,消費なし,None Used,没有消耗
+quest_3,消費なし,None Used,无消耗
 quest_30,現在のパーティ編成を変更しますか？,Change your party members?,是否修改当前队伍？
 quest_31,APが足りません,Not Enough AP,AP 不足
 quest_32,クエストリスト,Quest,任务列表
