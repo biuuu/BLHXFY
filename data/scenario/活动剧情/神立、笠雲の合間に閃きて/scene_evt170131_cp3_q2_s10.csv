@@ -1,0 +1,52 @@
+id,name,text,trans
+0-chapter_name,,第3話 もうひとりのユリウス,第3话 另一个尤里乌斯
+0-synopsis,,アルベールは、異形と化したユリウスから聞こえる２つの声に迷った末、『天雷剣』を手に『星の零涙』を破壊する。すると、自由を得た星晶獣がユリウスと同化し、王を殺害してしまう。『星の零涙』は『星の眼』へと姿を変え禍々しく光を蓄えだし、その一方で『天雷剣』もまたアルベールを主と認め、光輝きはじめる。ユリウスは『天雷剣』をアルベールに預けておくと言い、再会を約し姿を消してしまうのだった。,阿尔贝尔对尤里乌斯传来的两个声音感到迷茫，最后还是用『天雷剑』破坏了『星泪』。星晶兽获得了自由，与尤里乌斯同化并杀害了国王。『星泪』化为『星之眼』，闪烁着诡异的光芒，而『天雷剑』也认定阿尔贝尔是它的主人，开始发光。尤里乌斯表示『天雷剑』暂时交给阿尔贝尔保管，日后还有机会相见，随后便消失了。
+1,,<span class='scene-font-katari'>異形と化したユリウスから</span><br><span class='scene-font-katari'>聞こえる２つの声。</span>,<span class='scene-font-katari'>化为怪物的尤里乌斯传来两个声音。</span>
+2,,<span class='scene-font-katari'>アルベールはどちらを信じるべきか、</span><br><span class='scene-font-katari'>選択をつきつけられる。</span>,<span class='scene-font-katari'>阿尔贝尔被迫在两者之间做出选择。</span>,
+3,,<span class='scene-font-katari'>永遠とも思える一瞬が過ぎ……</span>,<span class='scene-font-katari'>在近乎永远的一瞬间过后……</span>
+13,アルベール/阿尔贝尔,<span class='scene-font-4'>……ハッ！</span>,<span class='scene-font-4'>……哈！</span>
+14,,<span class='scene-font-katari'>……アルベールは、『天雷剣』を抜き</span><br><span class='scene-font-katari'>『星の零涙』を破壊した。</span>,<span class='scene-font-katari'>……阿尔贝尔拔出『天雷剑』破坏了『星泪』。</span>
+15,レヴィオン王,おお……！　見事だ！<br>よくやったぞ、アルベールよ……！,哦哦……！好啊！<br>干得漂亮，阿尔贝尔……！
+16,レヴィオン王,フハハ……ハハハハ……！,哈哈哈……哈哈哈哈……！
+17,アルベール/阿尔贝尔,ユリウス……お前は……<br>誰よりも、レヴィオン王国に<br>尽くしてきた……,尤里乌斯……<br>你对雷维翁王国鞠躬尽瘁……
+18,アルベール/阿尔贝尔,お前ならば……きっと<br>星晶獣と化した自分を始末しろと……<br>そう、言うだろう……！,真正的你……肯定会让我把化为星晶兽的你除掉的吧……！
+19,ユリウス,…………,
+20,レヴィオン王,フハハハハハ！,哈哈哈哈哈哈！
+22,レヴィオン王,ぶげっ……！,呃……！
+24,アルベール/阿尔贝尔,<span class='scene-font-4'>陛下っ！？</span>,<span class='scene-font-4'>陛下！？</span>
+25,,<span class='scene-font-katari'>叫んだアルベールが見たのは</span><br><span class='scene-font-katari'>ユリウスによって</span><br><span class='scene-font-katari'>致命傷を与えられた王の姿だった。</span>,<span class='scene-font-katari'>阿尔贝尔出声时，国王已在尤里乌斯的攻击下身中致命伤。</span>
+26,ユリウス,ックク……<br>クハハハ………,哼哼……<br>哈哈哈哈……
+27,ユリウス,<span class='scene-font-4'>ハハハハハ……！</span>,<span class='scene-font-4'>哈哈哈哈哈……！</span>,
+28,アルベール/阿尔贝尔,馬鹿な……<br>何故……！,怎么会这样……<br>为什么……！
+29,ユリウス,ああ……！　いい気分だ……！<br>生まれ変わったよう、とは<br>このことかな……！,啊……！感觉真好……！<br>如焕新生，形容的就是这个感觉吧……！
+30,,<span class='scene-font-katari'>破壊された『星の零涙』から</span><br><span class='scene-font-katari'>禍々しく溢れた光が柱となり、</span><br><span class='scene-font-katari'>城を砕く。</span>,<span class='scene-font-katari'>被破坏的『星泪』射出诡异的光柱，击毁了城堡。</span>
+35,,<span class='scene-font-katari'>裂け目からのぞいた漆黒の空には</span><br><span class='scene-font-katari'>『星の眼』が浮かんでいた。</span>,<span class='scene-font-katari'>从墙体的裂缝间可以看到，『星之眼』正漂浮在漆黑的空中。</span>
+36,アルベール/阿尔贝尔,……何故だ！　何故……！,为什么……？为什么……！
+37,ユリウス,何故、王を殺したか？,为什么要杀王？
+38,ユリウス,それとも、<br>何故君に『星の零涙』の封印を<br>破壊させたか、かい？,还是，为什么要让你破坏『星泪』的封印？
+39,ユリウス,君は言ったな……私ならば、<br>星晶獣となり王国に仇なす存在となった<br>己を、殺せと頼むはずだと……,你刚才说了吧……真正的尤里乌斯肯定会让你把化为星晶兽、企图加害王国的我除掉……
+40,ユリウス,<span class='scene-font-4'>クハッ、ハハハハハ……！</span>,<span class='scene-font-4'>哈哈、哈哈哈哈哈……！</span>,
+41,ユリウス,君が、私の<br>何を知っていたというんだ？,你懂我的什么啊？
+42,アルベール/阿尔贝尔,ユリウス……！<br>貴様……！,尤里乌斯……！<br>你……！
+44,アルベール/阿尔贝尔,……すべては、<br>このために仕組んだことか……！,……一切都是为了这个吗……！？
+45,アルベール/阿尔贝尔,俺に、『星の零涙』の封印を壊させ、<br>王を倒し……,让我破坏『星泪』的封印，杀害国王……
+46,アルベール/阿尔贝尔,すべては、その星晶獣の力を<br>手に入れるためだったのかっ！！,都是为了获得星晶兽的力量吗！？
+47,アルベール/阿尔贝尔,お前を友と思うなら……<br>この剣をふるうなと忠告したことも<br>嘘か……！,那句话……如果我还把你当朋友就不要挥剑……<br>那也是假的吗……！？
+48,アルベール/阿尔贝尔,<span class='scene-font-4'>答えろっ……！</span>,<span class='scene-font-4'>回答我……！</span>
+54,ユリウス,……いいや、もちろん本当だったとも。<br>醜い本音、友としての忠告……<br>どちらも真実だった。,……不，那当然是真话。<br>我丑恶的真实想法，和作为朋友给你的忠告……<br>两者都是真实。
+55,ユリウス,だが、選んだのは君だ。,但是，做出选择的是你。
+56,ユリウス,君にとって、どちらの私が本物か……<br>教えてくれてありがたかったよ、<br>親友殿。,对你来说，哪一个我才是真的……<br>还要谢谢你告诉我答案，我的挚友啊。
+57,アルベール/阿尔贝尔,<span class='scene-font-4'>ユリウス……！</span>,<span class='scene-font-4'>尤里乌斯……！</span>
+63,アルベール/阿尔贝尔,貴様だけは……<br>必ず、俺がこの手で討つ……！,只有你……<br>我必须亲手讨伐……！
+65,,<span class='scene-font-katari'>アルベールが手にしたままだった</span><br><span class='scene-font-katari'>『天雷剣』が、激しい光を放ち始める。</span>,<span class='scene-font-katari'>这时，阿尔贝尔手中的『天雷剑』突然发出刺眼的光芒。</span>
+72,ユリウス,ほう……どうやら、『天雷剣』は<br>君を主と認めたらしい。,嚯……看来『天雷剑』认同你作为它的主人了。
+73,ユリウス,星の力を秘めた剣……<br>このまま君に持たせておくのは<br>問題がありすぎる、が……,蕴含星之力的剑……<br>留在你手上实在是隐患，不过……
+74,ユリウス,残念ながら、私の力も<br>まだ完全とは言いがたいのでね……,很遗憾，我的力量也不完全……
+75,,<span class='scene-font-katari'>ユリウスの言葉に呼応するように</span><br><span class='scene-font-katari'>『星の眼』が</span><br><span class='scene-font-katari'>禍々しい光を蓄えはじめる。</span>,<span class='scene-font-katari'>尤里乌斯的话似乎成了信号，『星之眼』开始积蓄诡异的光芒。</span>
+87,,<span class='scene-font-katari'>ユリウスは『星の眼』が放つ</span><br><span class='scene-font-katari'>禍々しい光と一体となり</span><br><span class='scene-font-katari'>上空へと浮かびあがった。</span>,<span class='scene-font-katari'>尤里乌斯与『星之眼』的光芒融为一体，浮上天空。</span>
+88,アルベール/阿尔贝尔,ユリウス！？　待て……！<br>どこへ行くつもりだ！？,尤里乌斯！？ 等等……！<br>你要去哪里！？
+89,ユリウス,また会おう、雷迅卿……,再会吧，雷迅卿……
+90,ユリウス,それまで、『天雷剣』は<br>君に預けておくよ……！,『天雷剑』就暂时交给你保管吧……！
+91,,<span class='scene-font-katari'>鋭い視線を向けるアルベールに</span><br><span class='scene-font-katari'>冷たく微笑むと、その姿を</span><br><span class='scene-font-katari'>闇の中へと晦ませるのだった。</span>,<span class='scene-font-katari'>在阿尔贝尔的怒视下，尤里乌斯只是冷冷地笑着，消失在黑暗中。</span>
+100,アルベール/阿尔贝尔,<span class='scene-font-4'>ユリウス……！</span>,<span class='scene-font-4'>尤里乌斯……！</span>
+info,,,scene_evt170131_cp3_q2_s10
