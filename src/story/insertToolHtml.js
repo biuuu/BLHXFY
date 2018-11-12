@@ -1,3 +1,7 @@
+import { settingHtml } from '../setting/insertHtml'
+
+const extraHtml = settingHtml.replace('data-href="setting"', 'onclick="window.blhxfy.setting(\'hide\')"').replace('返回设置', '返回剧情')
+
 const html = `
 <style>
 #blhxfy-story-tool {
@@ -96,6 +100,7 @@ const html = `
   <button onclick="window.blhxfy.dlStoryCsv('fill')" title="下载用原文填充trans列的剧情文本">填充</button>
   <button onclick="window.blhxfy.dlStoryCsv('trans')" title="下载已翻译的剧情文本">译文</button>
   <button onclick="window.blhxfy.previewCsv('show')" title="填写翻译好的剧情文本来预览">预览</button>
+  <button onclick="window.blhxfy.setting('show')" title="插件设置">设置</button>
 </div>
 <div id="blhxfy-story-input">
   <div class="blhxfy-preview-tool">
@@ -105,6 +110,8 @@ const html = `
   <p>请将编辑好的剧情文本粘贴到文本框<a onclick="window.blhxfy.previewCsv('clear')" title="清除预览文本">清空</a></p>
   <textarea placeholder="剧情文本"></textarea>
 </div>
+<link type="text/css" rel="stylesheet" href="${Game.cssUri}/setting/index.css">
+${extraHtml}
 `
 export default function () {
   const cont = $('.cnt-quest-scene')

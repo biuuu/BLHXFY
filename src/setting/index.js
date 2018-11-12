@@ -42,6 +42,8 @@ const setting = (type, value) => {
       }
     }
     $('#blhxfy-setting-modal').addClass('show')
+  } else if (type === 'hide') {
+    $('#blhxfy-setting-modal').removeClass('show')
   } else {
     saveToLocalstorage(keyMap.get(type), value)
   }

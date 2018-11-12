@@ -122,3 +122,5 @@ const template = `
 export default function (html) {
   return html.replace('<div class="cnt-setting">', `${template}<div class="cnt-setting"><div class="cnt-setting"><div class="btn-usual-text" id="btn-setting-blhxfy" onclick="window.blhxfy.setting(\'show\')">汉化插件设置</div>`)
 }
+
+export { template as settingHtml }
