@@ -436,7 +436,7 @@ body .cnt-order-box .cnt-btn-bottombox .btn-evolution:not(.disapprove)::after {
 }
 .prt-condition .btn-quest::after {
   font-size: 12px;
-  content: "开始任务";
+  content: "解锁任务";
 }
 .btn-evolution[data-location-href^="evolution/"]::after {
   font-size: 12px;
