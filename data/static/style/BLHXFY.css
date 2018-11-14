@@ -554,3 +554,8 @@ body .prt-scene-comment .prt-message-area {
   opacity: 0;
   pointer-events: none;
 }
+
+/* image */
+body .prt-chat-show .prt-global-chat-log .btn-chat-log {
+  background-image: url(/blhxfy/data/static/image/btn-chat-log.png)
+}
