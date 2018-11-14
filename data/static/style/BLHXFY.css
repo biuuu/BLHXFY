@@ -436,7 +436,7 @@ body .cnt-order-box .cnt-btn-bottombox .btn-evolution:not(.disapprove)::after {
 }
 .prt-condition .btn-quest::after {
   font-size: 12px;
-  content: "开始任务";
+  content: "解锁任务";
 }
 .btn-evolution[data-location-href^="evolution/"]::after {
   font-size: 12px;
@@ -553,4 +553,9 @@ body .prt-scene-comment .prt-message-area {
   transition: opacity 0.5s;
   opacity: 0;
   pointer-events: none;
+}
+
+/* image */
+body .prt-chat-show .prt-global-chat-log .btn-chat-log {
+  background-image: url(/blhxfy/data/static/image/btn-chat-log.png)
 }
