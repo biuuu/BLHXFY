@@ -156,7 +156,8 @@ const extensionBanner = `// ==UserScript==
 // @match        *://game.granbluefantasy.jp/*
 // @match        *://gbf.game.mbga.jp/*
 // @run-at       document-body
-// @grant        none
+// @grant        GM_xmlhttpRequest
+// @connect      translate.google.cn
 // @updateURL    https://blhx.danmu9.com/blhxfy/extension.user.js
 // @supportURL   https://github.com/biuuu/BLHXFY/issues
 // ==/UserScript==`
@@ -195,7 +196,8 @@ const extensionBanner2 = `// ==UserScript==
 // @match        *://game.granbluefantasy.jp/*
 // @match        *://gbf.game.mbga.jp/*
 // @run-at       document-body
-// @grant        none
+// @grant        GM_xmlhttpRequest
+// @connect      translate.google.cn
 // @updateURL    https://blhx.danmu9.com/blhxfy/extension.es5.user.js
 // @supportURL   https://github.com/biuuu/BLHXFY/issues
 // ==/UserScript==`

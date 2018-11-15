@@ -10,6 +10,7 @@ const config = {
   hash: '',
   userName: '',
   displayName: '',
+  defaultName: '姬塔',
   timeout: 8,
   autoDownload: false,
   bottomToolbar: false,

@@ -5,11 +5,11 @@ import setting from './setting/'
 
 const main = () => {
   if (window.blhxfy) return
-  injectXHR()
   window.blhxfy = {
     dlStoryCsv, previewCsv,
     setting
   }
+  injectXHR()
 }
 
 main()

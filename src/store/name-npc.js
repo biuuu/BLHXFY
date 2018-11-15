@@ -6,6 +6,7 @@ import { trim } from '../utils/'
 
 const enNameMap = new Map()
 const jpNameMap = new Map()
+const nounMap = new Map()
 let loaded = false
 
 const nameWithScenario = (list, key = 'name') => {
@@ -42,17 +43,29 @@ const getNameData = async () => {
   if (!loaded) {
     const nameEn = await fetchData('/blhxfy/data/npc-name-en.csv')
     const nameJp = await fetchData('/blhxfy/data/npc-name-jp.csv')
+    const noun = await fetchData('/blhxfy/data/noun.csv')
     const listEn = nameWithScenario(parseCsv(nameEn))
     const listJp = nameWithScenario(parseCsv(nameJp))
+    const listNoun = parseCsv(noun)
     sortKeywords(listEn, 'name').forEach(item => {
       enNameMap.set(item.name, item)
     })
     sortKeywords(listJp, 'name').forEach(item => {
       jpNameMap.set(item.name, item)
     })
+    sortKeywords(listNoun, 'keyword').forEach(item => {
+      const keyword = trim(item.keyword)
+      const trans = filter(trim(item.trans))
+      if (keyword && trans) {
+        nounMap.set(keyword, {
+          trans,
+          ignoreCase: !item.cs
+        })
+      }
+    })
     loaded = true
   }
-  return { enNameMap, jpNameMap }
+  return { enNameMap, jpNameMap, nounMap }
 }
 
 export default getNameData

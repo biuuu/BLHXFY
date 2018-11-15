@@ -5,10 +5,12 @@ import config from '../config'
 import insertToolHtml from '../story/insertToolHtml'
 import autoDownloadCsv from '../setting/autoDownloadCsv'
 import cloneDeep  from 'lodash/cloneDeep'
-import { getPreviewCsv } from '../utils/'
+import { getPreviewCsv, replaceWords, removeHtmlTag } from '../utils/'
 import filter from '../utils/XSSFilter'
+import transApi from '../utils/translation'
 
 const txtKeys = ['chapter_name', 'synopsis', 'detail', 'sel1_txt', 'sel2_txt', 'sel3_txt', 'sel4_txt']
+const WORDS_LIMIT = 4500
 
 const scenarioCache = {
   data: null,
@@ -26,6 +28,69 @@ const getFilename = (pathname) => {
     return rgs[1]
   }
   return pathname
+}
+
+const collectTxt = (data) => {
+  const txtList = []
+  const infoList = []
+  const getTxt = (obj, key) => {
+    const txt = obj[key]
+    if (txt) {
+      txtList.push(txt.replace(/\n/g, '').trim())
+      infoList.push({
+        id: obj.id, type: key
+      })
+    }
+  }
+  data.forEach(item => {
+    txtKeys.forEach(key => getTxt(item, key))
+  })
+  return { txtList, infoList }
+}
+
+const transMulti = async (list, nameMap, nounMap) => {
+  let count = 0
+  let strTemp = ''
+  const txtStr = []
+  const userName = config.userName
+  const lang = Game.lang
+  list.forEach(txt => {
+    strTemp += txt
+    count += new Blob([txt]).size
+    if (count > WORDS_LIMIT) {
+      txtStr.push(strTemp)
+      count = 0
+      strTemp = ''
+    } else {
+      strTemp += '\n'
+    }
+  })
+  if (strTemp) {
+    txtStr.push(strTemp)
+  }
+
+  const transStr = await Promise.all(txtStr.map(txt => {
+    txt = removeHtmlTag(txt)
+    txt = replaceWords(txt, nameMap, lang)
+    txt = replaceWords(txt, nounMap, lang)
+    if (userName && lang === 'en') {
+      let _lang = lang
+      if (!/^\w+$/.test(userName)) _lang = 'unknown'
+      txt = replaceWords(txt, new Map([[userName, config.defaultName]]), _lang)
+    }
+    const targetLang = config.lang !== 'hant' ? 'zh-CN' : 'zh-TW'
+    return transApi(txt, lang, targetLang)
+  }))
+  return transStr.reduce((result, str) => {
+    let _str = str
+    if (str) {
+      if (userName) {
+        _str = _str.replace(new RegExp(config.defaultName, 'g'), userName)
+      }
+      return result.concat(_str.split('\n'))
+    }
+    return result
+  }, [])
 }
 
 const getScenario = async (name) => {
@@ -47,7 +112,7 @@ const getScenario = async (name) => {
       const id = idArr[0]
       const type = idArr[1] || 'detail'
       const obj = transMap.get(id) || {}
-      obj[type] = item.trans ? filter(item.trans.replace(/姬塔/g, config.displayName || config.userName)) : false
+      obj[type] = item.trans ? filter(item.trans.replace(new RegExp(config.defaultName, 'g'), config.displayName || config.userName)) : false
       obj[`${type}-origin`] = item.trans
       transMap.set(id, obj)
     }
@@ -139,14 +204,24 @@ const transStart = async (data, pathname) => {
   scenarioCache.name = scenarioName
   scenarioCache.hasTrans = false
   scenarioCache.originName = ''
-  const { transMap, csv } = await getScenario(scenarioName)
+  let { transMap, csv } = await getScenario(scenarioName)
   const nameData = await getNameData()
   const nameMap = Game.lang !== 'ja' ? nameData['enNameMap'] : nameData['jpNameMap']
   scenarioCache.nameMap = nameMap
-  if (!transMap) return data
-  scenarioCache.hasTrans = true
-  scenarioCache.csv = csv
-  scenarioCache.transMap = transMap
+  if (!transMap) {
+    transMap = new Map()
+    const { txtList, infoList } = collectTxt(data)
+    const transList = await transMulti(txtList, nameMap, nameData['nounMap'])
+    infoList.forEach((info, index) => {
+      const obj = transMap.get(info.id) || {}
+      obj[info.type] = transList[index] || ''
+      transMap.set(info.id, obj)
+    })
+  } else {
+    scenarioCache.hasTrans = true
+    scenarioCache.csv = csv
+    scenarioCache.transMap = transMap
+  }
 
   data.forEach((item) => {
     let name1, name2, name3
