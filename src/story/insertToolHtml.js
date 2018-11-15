@@ -1,6 +1,6 @@
 import { settingHtml } from '../setting/insertHtml'
 
-const extraHtml = settingHtml.replace('data-href="setting"', 'onclick="window.blhxfy.setting(\'hide\')"').replace('返回设置', '返回剧情')
+const extraHtml = settingHtml.replace('data-href="setting"', 'onclick="window.blhxfy.sendEvent(\'setting\', \'hide\')"').replace('返回设置', '返回剧情')
 
 const html = `
 <style>
@@ -96,18 +96,18 @@ const html = `
 }
 </style>
 <div id="blhxfy-story-tool">
-  <button onclick="window.blhxfy.dlStoryCsv()" title="下载未翻译的剧情文本">原文</button>
-  <button onclick="window.blhxfy.dlStoryCsv('fill')" title="下载用原文填充trans列的剧情文本">填充</button>
-  <button onclick="window.blhxfy.dlStoryCsv('trans')" title="下载已翻译的剧情文本">译文</button>
-  <button onclick="window.blhxfy.previewCsv('show')" title="填写翻译好的剧情文本来预览">预览</button>
-  <button onclick="window.blhxfy.setting('show')" title="插件设置">设置</button>
+  <button onclick="window.blhxfy.sendEvent('dlStoryCsv')" title="下载未翻译的剧情文本">原文</button>
+  <button onclick="window.blhxfy.sendEvent('dlStoryCsv', 'fill')" title="下载用原文填充trans列的剧情文本">填充</button>
+  <button onclick="window.blhxfy.sendEvent('dlStoryCsv', 'trans')" title="下载已翻译的剧情文本">译文</button>
+  <button onclick="window.blhxfy.sendEvent('previewCsv', 'show')" title="填写翻译好的剧情文本来预览">预览</button>
+  <button onclick="window.blhxfy.sendEvent('setting', 'show')" title="插件设置">设置</button>
 </div>
 <div id="blhxfy-story-input">
   <div class="blhxfy-preview-tool">
-    <button onclick="window.blhxfy.previewCsv('hide')">取消</button>
-    <button onclick="window.blhxfy.previewCsv('save')" title="保存预览文本并刷新页面">保存</button>
+    <button onclick="window.blhxfy.sendEvent('previewCsv', 'hide')">取消</button>
+    <button onclick="window.blhxfy.sendEvent('previewCsv', 'save')" title="保存预览文本并刷新页面">保存</button>
   </div>
-  <p>请将编辑好的剧情文本粘贴到文本框<a onclick="window.blhxfy.previewCsv('clear')" title="清除预览文本">清空</a></p>
+  <p>请将编辑好的剧情文本粘贴到文本框<a onclick="window.blhxfy.sendEvent('previewCsv', 'clear')" title="清除预览文本">清空</a></p>
   <textarea placeholder="剧情文本"></textarea>
 </div>
 <link type="text/css" rel="stylesheet" href="${Game.cssUri}/setting/index.css">

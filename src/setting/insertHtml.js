@@ -49,7 +49,7 @@ const template = `
 					<li>留空则使用默认的数据源</li>
 				</ul>
 				<div class="prt-button-l">
-          <input id="origin-setting-blhxfy" oninput="window.blhxfy.setting('origin', this.value)" type="text" value="" placeholder="https://blhx.danmu9.com">
+          <input id="origin-setting-blhxfy" oninput="window.blhxfy.sendEvent('setting', 'origin', this.value)" type="text" value="" placeholder="https://blhx.danmu9.com">
         </div>
       </div>
       <div class="txt-setting-lead">
@@ -62,7 +62,7 @@ const template = `
 					<li>剧情里显示的主角名字，留空则使用你自己的昵称</li>
 				</ul>
 				<div class="prt-button-l">
-          <input id="username-setting-blhxfy" oninput="window.blhxfy.setting('username', this.value)" type="text" value="" placeholder="请输入主角名">
+          <input id="username-setting-blhxfy" oninput="window.blhxfy.sendEvent('setting', 'username', this.value)" type="text" value="" placeholder="请输入主角名">
 				</div>
       </div>
 
@@ -73,7 +73,7 @@ const template = `
 				</ul>
 				<div class="prt-button-l">
 					<div>
-						<input id="auto-download-setting-blhxfy" onchange="window.blhxfy.setting('auto-download', this.checked)" type="checkbox" value="">
+						<input id="auto-download-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'auto-download', this.checked)" type="checkbox" value="">
 						<label for="auto-download-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">自动下载CSV</label>
 					</div>
         </div>
@@ -83,11 +83,11 @@ const template = `
 				<div class="txt-article-title">UI设置</div>
 				<div class="prt-button-l">
 					<div>
-						<input id="remove-scroller-setting-blhxfy" onchange="window.blhxfy.setting('remove-scroller', this.checked)" type="checkbox" value="">
+						<input id="remove-scroller-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'remove-scroller', this.checked)" type="checkbox" value="">
 						<label for="remove-scroller-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">隐藏滚动条</label>
 					</div>
 					<div>
-						<input id="hide-sidebar-setting-blhxfy" onchange="window.blhxfy.setting('hide-sidebar', this.checked)" type="checkbox" value="">
+						<input id="hide-sidebar-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'hide-sidebar', this.checked)" type="checkbox" value="">
 						<label for="hide-sidebar-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">隐藏侧边栏</label>
 					</div>
 				</div>
@@ -100,7 +100,7 @@ const template = `
 				</ul>
 				<div class="prt-button-l">
 					<div>
-						<input id="bottom-toolbar-setting-blhxfy" onchange="window.blhxfy.setting('bottom-toolbar', this.checked)" type="checkbox" value="">
+						<input id="bottom-toolbar-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'bottom-toolbar', this.checked)" type="checkbox" value="">
 						<label for="bottom-toolbar-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">底部工具栏</label>
 					</div>
 				</div>
@@ -120,7 +120,7 @@ const template = `
 </div>
 `
 export default function (html) {
-  return html.replace('<div class="cnt-setting">', `${template}<div class="cnt-setting"><div class="cnt-setting"><div class="btn-usual-text" id="btn-setting-blhxfy" onclick="window.blhxfy.setting(\'show\')">汉化插件设置</div>`)
+  return html.replace('<div class="cnt-setting">', `${template}<div class="cnt-setting"><div class="cnt-setting"><div class="btn-usual-text" id="btn-setting-blhxfy" onclick="window.blhxfy.sendEvent('setting', 'show')">汉化插件设置</div>`)
 }
 
 export { template as settingHtml }
