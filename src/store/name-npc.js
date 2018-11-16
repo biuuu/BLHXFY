@@ -61,12 +61,7 @@ const getNameData = async () => {
 const getNounData = async () => {
   if (!nounLoaded) {
     const noun = await fetchData('/blhxfy/data/noun.csv')
-    // const nounFix = await fetchData('/blhxfy/data/noun-fix.csv')
-    const nounFix = `text,fix
-空空团,骑空团
-星星兽,星晶兽
-Eeek,惊
-    `
+    const nounFix = await fetchData('/blhxfy/data/noun-fix.csv')
     const listNoun = parseCsv(noun)
     const listNounFix = parseCsv(nounFix)
 

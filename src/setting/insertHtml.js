@@ -68,6 +68,9 @@ const template = `
 
 			<div class="prt-setting-article">
 				<div class="txt-article-title">机翻设置</div>
+				<ul class="txt-article-lead">
+					<li>仅在脚本通过油猴插件加载时有效</li>
+				</ul>
 				<div class="prt-button">
 					<div>
 						<input id="trans-jp-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'trans-jp', this.checked)" type="checkbox" value="">
@@ -96,7 +99,7 @@ const template = `
 			<div class="prt-setting-article">
 				<div class="txt-article-title">UI设置</div>
 				<ul class="txt-article-lead">
-					<li>可以隐藏Mobage侧边栏/显示底部工具栏</li>
+					<li>可以隐藏Mobage侧边栏（PC网页）/显示底部工具栏（手机浏览器中）</li>
 				</ul>
 				<div class="prt-button">
 					<div>
