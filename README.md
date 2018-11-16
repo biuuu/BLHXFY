@@ -28,6 +28,8 @@
 
 2. 在取得 google 翻译返回的文本后，对其中出现的异常翻译进行修复，对应的文件是[noun-fix.csv](https://github.com/BLHXFY-Group/BLHXFY/blob/master/data/etc/noun-fix.csv)。
 
+注：在第1步还会替换已有的角色名翻译（npc-name-en.csv 和 npc-name-jp.csv）。
+
 如果你在使用机翻时发现有需要替换的名词，或需要修正的翻译，请提交到这两个文件里。
 ## Devlopment
 
