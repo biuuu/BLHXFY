@@ -36,7 +36,7 @@ const googleTrans = async (keyword, lang = 'en', to = 'zh-CN') => {
       }
     })
     const txt =  getTransResult(res)
-    return txt.replace(/空空团/g, '骑空团').replace(/星星兽/g, '星晶兽')
+    return txt
   } catch (err) {
     console.error(`${err.message}\n${err.stack}`)
     return ''

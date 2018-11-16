@@ -1,4 +1,4 @@
-import getNameData from '../store/name-npc'
+import getNameData, { getNounData } from '../store/name-npc'
 import parseCsv from '../utils/parseCsv'
 import fetchData from '../fetch'
 import config from '../config'
@@ -48,7 +48,7 @@ const collectTxt = (data) => {
   return { txtList, infoList }
 }
 
-const transMulti = async (list, nameMap, nounMap) => {
+const transMulti = async (list, nameMap, nounMap, nounFixMap) => {
   let count = 0
   let strTemp = ''
   const txtStr = []
@@ -81,11 +81,15 @@ const transMulti = async (list, nameMap, nounMap) => {
     const targetLang = config.lang !== 'hant' ? 'zh-CN' : 'zh-TW'
     return transApi(txt, lang, targetLang)
   }))
+
   return transStr.reduce((result, str) => {
     let _str = str
     if (str) {
       if (userName) {
         _str = _str.replace(new RegExp(config.defaultName, 'g'), userName)
+      }
+      for (let [text, fix] of nounFixMap) {
+        _str = _str.replace(new RegExp(text, 'g'), fix)
       }
       return result.concat(_str.split('\n'))
     }
@@ -209,14 +213,19 @@ const transStart = async (data, pathname) => {
   const nameMap = Game.lang !== 'ja' ? nameData['enNameMap'] : nameData['jpNameMap']
   scenarioCache.nameMap = nameMap
   if (!transMap) {
-    transMap = new Map()
-    const { txtList, infoList } = collectTxt(data)
-    const transList = await transMulti(txtList, nameMap, nameData['nounMap'])
-    infoList.forEach((info, index) => {
-      const obj = transMap.get(info.id) || {}
-      obj[info.type] = transList[index] || ''
-      transMap.set(info.id, obj)
-    })
+    if ((config.transJp && Game.lang === 'ja') || (config.transEn && Game.lang === 'en')) {
+      const { nounMap, nounFixMap } = await getNounData()
+      transMap = new Map()
+      const { txtList, infoList } = collectTxt(data)
+      const transList = await transMulti(txtList, nameMap, nounMap, nounFixMap)
+      infoList.forEach((info, index) => {
+        const obj = transMap.get(info.id) || {}
+        obj[info.type] = transList[index] || ''
+        transMap.set(info.id, obj)
+      })
+    } else {
+      return data
+    }
   } else {
     scenarioCache.hasTrans = true
     scenarioCache.csv = csv

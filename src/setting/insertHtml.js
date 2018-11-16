@@ -64,7 +64,21 @@ const template = `
 				<div class="prt-button-l">
           <input id="username-setting-blhxfy" oninput="window.blhxfy.sendEvent('setting', 'username', this.value)" type="text" value="" placeholder="请输入主角名">
 				</div>
-      </div>
+			</div>
+
+			<div class="prt-setting-article">
+				<div class="txt-article-title">机翻设置</div>
+				<div class="prt-button">
+					<div>
+						<input id="trans-jp-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'trans-jp', this.checked)" type="checkbox" value="">
+						<label for="trans-jp-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">日语机翻</label>
+					</div>
+					<div>
+						<input id="trans-en-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'trans-en', this.checked)" type="checkbox" value="">
+						<label for="trans-en-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">英语机翻</label>
+					</div>
+				</div>
+			</div>
 
       <div class="prt-setting-article">
 				<div class="txt-article-title">剧情CSV文件快捷下载</div>
@@ -81,7 +95,10 @@ const template = `
 
 			<div class="prt-setting-article">
 				<div class="txt-article-title">UI设置</div>
-				<div class="prt-button-l">
+				<ul class="txt-article-lead">
+					<li>可以隐藏Mobage侧边栏/显示底部工具栏</li>
+				</ul>
+				<div class="prt-button">
 					<div>
 						<input id="remove-scroller-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'remove-scroller', this.checked)" type="checkbox" value="">
 						<label for="remove-scroller-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">隐藏滚动条</label>
@@ -90,27 +107,18 @@ const template = `
 						<input id="hide-sidebar-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'hide-sidebar', this.checked)" type="checkbox" value="">
 						<label for="hide-sidebar-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">隐藏侧边栏</label>
 					</div>
-				</div>
-			</div>
-
-			<div class="prt-setting-article">
-				<div class="txt-article-title">显示底部工具栏</div>
-				<ul class="txt-article-lead">
-					<li>在手机浏览器上也显示底部工具栏</li>
-				</ul>
-				<div class="prt-button-l">
 					<div>
 						<input id="bottom-toolbar-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'bottom-toolbar', this.checked)" type="checkbox" value="">
 						<label for="bottom-toolbar-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">底部工具栏</label>
 					</div>
 				</div>
-      </div>
+			</div>
+
       <div class="txt-setting-lead">
         ※修改的设置在刷新页面后生效
       </div>
 		</div>
 	</div>
-
 
 	<div class="prt-lead-link">
 		<div class="lis-lead-prev" data-href="setting"><div class="atx-lead-link">返回设置</div></div>

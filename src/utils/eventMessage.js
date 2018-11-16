@@ -3,7 +3,7 @@ import dlStoryCsv from '../story/dlStoryCsv'
 import previewCsv from '../story/previewCsv'
 
 export default function () {
-  document.addEventListener('DOMContentLoaded', function () {
+  window.addEventListener('load', function () {
     const script = document.createElement('script')
     script.innerHTML = `
     window.blhxfy || (window.blhxfy = {})
@@ -21,7 +21,6 @@ export default function () {
     document.head.appendChild(script)
     document.body.addEventListener('blhxfy:message', function (e) {
       const { name, type, data } = e.detail
-      console.log(name, type, data)
       if (name === 'setting') {
         setting(type, data)
       } else if (name === 'dlStoryCsv') {

@@ -181,7 +181,7 @@ gulp.task('extension', ['clean:dist', 'extensionEx', 'extensionIOS', 'rewrite-sc
   await bundle.write({
     file: './dist/blhxfy/extension.user.js',
     format: 'iife',
-    name: 'blhxfy',
+    name: 'blhxfyex',
     banner: extensionBanner
   })
 })
@@ -222,7 +222,7 @@ gulp.task('extensionEx', ['clean:dist'], async function () {
   await bundle.write({
     file: './dist/blhxfy/extension.es5.user.js',
     format: 'iife',
-    name: 'blhxfy',
+    name: 'blhxfyex',
     banner: extensionBanner2
   })
 })

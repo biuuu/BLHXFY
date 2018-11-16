@@ -7,7 +7,9 @@ import { trim } from '../utils/'
 const enNameMap = new Map()
 const jpNameMap = new Map()
 const nounMap = new Map()
+const nounFixMap = new Map()
 let loaded = false
+let nounLoaded = false
 
 const nameWithScenario = (list, key = 'name') => {
   const newList = []
@@ -43,16 +45,31 @@ const getNameData = async () => {
   if (!loaded) {
     const nameEn = await fetchData('/blhxfy/data/npc-name-en.csv')
     const nameJp = await fetchData('/blhxfy/data/npc-name-jp.csv')
-    const noun = await fetchData('/blhxfy/data/noun.csv')
     const listEn = nameWithScenario(parseCsv(nameEn))
     const listJp = nameWithScenario(parseCsv(nameJp))
-    const listNoun = parseCsv(noun)
     sortKeywords(listEn, 'name').forEach(item => {
       enNameMap.set(item.name, item)
     })
     sortKeywords(listJp, 'name').forEach(item => {
       jpNameMap.set(item.name, item)
     })
+    loaded = true
+  }
+  return { enNameMap, jpNameMap }
+}
+
+const getNounData = async () => {
+  if (!nounLoaded) {
+    const noun = await fetchData('/blhxfy/data/noun.csv')
+    // const nounFix = await fetchData('/blhxfy/data/noun-fix.csv')
+    const nounFix = `text,fix
+空空团,骑空团
+星星兽,星晶兽
+Eeek,惊
+    `
+    const listNoun = parseCsv(noun)
+    const listNounFix = parseCsv(nounFix)
+
     sortKeywords(listNoun, 'keyword').forEach(item => {
       const keyword = trim(item.keyword)
       const trans = filter(trim(item.trans))
@@ -63,9 +80,17 @@ const getNameData = async () => {
         })
       }
     })
-    loaded = true
+    sortKeywords(listNounFix, 'text').forEach(item => {
+      const text = trim(item.text)
+      const fix = filter(trim(item.fix))
+      if (text && fix) {
+        nounFixMap.set(text, fix)
+      }
+    })
+    nounLoaded = true
   }
-  return { enNameMap, jpNameMap, nounMap }
+  return { nounMap, nounFixMap }
 }
 
 export default getNameData
+export { getNounData }

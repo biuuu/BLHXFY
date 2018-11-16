@@ -16,7 +16,9 @@ const config = {
   bottomToolbar: false,
   removeScroller: true,
   hideSidebar: false,
-  localHash: ''
+  localHash: '',
+  transJp: false,
+  transEn: true
 }
 
 const getLocalConfig = () => {
@@ -27,7 +29,10 @@ const getLocalConfig = () => {
   if (isDomain(origin)) {
     config.origin = origin.trim()
   }
-  const keys = ['autoDownload', 'bottomToolbar', 'displayName', 'removeScroller', 'hideSidebar']
+  const keys = [
+    'autoDownload', 'bottomToolbar', 'displayName', 'removeScroller', 'hideSidebar',
+    'transJp', 'transEn'
+  ]
   keys.forEach(key => {
     let value = setting[key]
     if (isString(value)) value = filter(value.trim())
