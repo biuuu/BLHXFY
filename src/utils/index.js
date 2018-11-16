@@ -23,6 +23,11 @@ const removeTag = (html) => {
   return html
 }
 
+const removeHtmlTag = (str) => {
+  if (!/<[^>]{1,10}>/.test(str)) return str
+  return str.replace(/<br\s?\/?>/g, '').replace(/<(\w{1,7})[^>]*>([^<]*)<\/\1>/g, '$2')
+}
+
 const replaceWords = (str, map, lang = 'en') => {
   if (!str) return str
   let _str = str
@@ -77,12 +82,14 @@ const isDomain = (str) => {
   return true
 }
 
-export { trim,
+export {
+  trim,
   tryDownload,
   replaceWords,
   getPreview,
   getPreviewCsv,
   splitSingleLineSkill,
   isDomain,
-  removeTag
+  removeTag,
+  removeHtmlTag
 }

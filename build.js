@@ -156,7 +156,8 @@ const extensionBanner = `// ==UserScript==
 // @match        *://game.granbluefantasy.jp/*
 // @match        *://gbf.game.mbga.jp/*
 // @run-at       document-body
-// @grant        none
+// @grant        GM_xmlhttpRequest
+// @connect      translate.google.cn
 // @updateURL    https://blhx.danmu9.com/blhxfy/extension.user.js
 // @supportURL   https://github.com/biuuu/BLHXFY/issues
 // ==/UserScript==`
@@ -180,7 +181,7 @@ gulp.task('extension', ['clean:dist', 'extensionEx', 'extensionIOS', 'rewrite-sc
   await bundle.write({
     file: './dist/blhxfy/extension.user.js',
     format: 'iife',
-    name: 'blhxfy',
+    name: 'blhxfyex',
     banner: extensionBanner
   })
 })
@@ -195,7 +196,8 @@ const extensionBanner2 = `// ==UserScript==
 // @match        *://game.granbluefantasy.jp/*
 // @match        *://gbf.game.mbga.jp/*
 // @run-at       document-body
-// @grant        none
+// @grant        GM_xmlhttpRequest
+// @connect      translate.google.cn
 // @updateURL    https://blhx.danmu9.com/blhxfy/extension.es5.user.js
 // @supportURL   https://github.com/biuuu/BLHXFY/issues
 // ==/UserScript==`
@@ -220,7 +222,7 @@ gulp.task('extensionEx', ['clean:dist'], async function () {
   await bundle.write({
     file: './dist/blhxfy/extension.es5.user.js',
     format: 'iife',
-    name: 'blhxfy',
+    name: 'blhxfyex',
     banner: extensionBanner2
   })
 })

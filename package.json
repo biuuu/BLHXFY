@@ -1,6 +1,6 @@
 {
   "name": "blhxfy",
-  "version": "1.1.10",
+  "version": "1.2.0",
   "description": "碧蓝幻想汉化脚本",
   "main": "./src/main.js",
   "scripts": {
@@ -18,7 +18,8 @@
     "lodash": "^4.17.5",
     "papaparse": "^4.3.7",
     "rollup": "^0.64.1",
-    "urijs": "^1.19.0"
+    "urijs": "^1.19.0",
+    "url-search-params": "^1.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0-rc.2",

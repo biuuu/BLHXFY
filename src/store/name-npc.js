@@ -6,7 +6,10 @@ import { trim } from '../utils/'
 
 const enNameMap = new Map()
 const jpNameMap = new Map()
+const nounMap = new Map()
+const nounFixMap = new Map()
 let loaded = false
+let nounLoaded = false
 
 const nameWithScenario = (list, key = 'name') => {
   const newList = []
@@ -55,4 +58,34 @@ const getNameData = async () => {
   return { enNameMap, jpNameMap }
 }
 
+const getNounData = async () => {
+  if (!nounLoaded) {
+    const noun = await fetchData('/blhxfy/data/noun.csv')
+    const nounFix = await fetchData('/blhxfy/data/noun-fix.csv')
+    const listNoun = parseCsv(noun)
+    const listNounFix = parseCsv(nounFix)
+
+    sortKeywords(listNoun, 'keyword').forEach(item => {
+      const keyword = trim(item.keyword)
+      const trans = filter(trim(item.trans))
+      if (keyword && trans) {
+        nounMap.set(keyword, {
+          trans,
+          ignoreCase: !item.cs
+        })
+      }
+    })
+    sortKeywords(listNounFix, 'text').forEach(item => {
+      const text = trim(item.text)
+      const fix = filter(trim(item.fix))
+      if (text && fix) {
+        nounFixMap.set(text, fix)
+      }
+    })
+    nounLoaded = true
+  }
+  return { nounMap, nounFixMap }
+}
+
 export default getNameData
+export { getNounData }

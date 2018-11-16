@@ -28,7 +28,9 @@ const keyMap = new Map([
   ['bottom-toolbar', 'bottomToolbar'],
   ['username', 'displayName'],
   ['remove-scroller', 'removeScroller'],
-  ['hide-sidebar', 'hideSidebar']
+  ['hide-sidebar', 'hideSidebar'],
+  ['trans-jp', 'transJp'],
+  ['trans-en', 'transEn']
 ])
 
 const setting = (type, value) => {
@@ -44,6 +46,10 @@ const setting = (type, value) => {
     $('#blhxfy-setting-modal').addClass('show')
   } else if (type === 'hide') {
     $('#blhxfy-setting-modal').removeClass('show')
+  } else if (type === 'language') {
+    require(['view/setting/index'], function (sett) {
+      sett.prototype.onChangePostAsyncInput({ currentTarget: value.target})
+    })
   } else {
     saveToLocalstorage(keyMap.get(type), value)
   }

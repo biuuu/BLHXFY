@@ -14,6 +14,23 @@
 代码和翻译数据都部署在 github pages 上，使用了 cloudflare 的 CDN。
 
 关于跨域获取翻译数据，使用了 postMessage 的方案，似乎因此不兼容 iOS 上的碧蓝幻想 App，但可以在浏览器里正常使用。
+
+# 关于机翻
+如果当前剧情还没有人提交翻译的话，插件可以使用 google 翻译进行机翻。
+
+默认英文版开启机翻，日语版关闭。你可以在游戏的设置界面或者剧情的Log里找到汉化插件设置按钮。在里面可以调整是否使用机翻。
+
+日语版的机翻往往会出现奇怪的结果，英语版会相对好一点。
+
+另外插件使用了两个步骤来提升机翻的效果：
+
+1. 在将要翻译的文本提交到 google 翻译之前，对一些专用名词进行替换。对应的文件是[noun.csv](https://github.com/BLHXFY-Group/BLHXFY/blob/master/data/etc/noun.csv)，其中前两列是名词和替换，第三列表示是否区分大小写。
+
+2. 在取得 google 翻译返回的文本后，对其中出现的异常翻译进行修复，对应的文件是[noun-fix.csv](https://github.com/BLHXFY-Group/BLHXFY/blob/master/data/etc/noun-fix.csv)。
+
+注：在第1步还会替换已有的角色名翻译（npc-name-en.csv 和 npc-name-jp.csv）。
+
+如果你在使用机翻时发现有需要替换的名词，或需要修正的翻译，请提交到这两个文件里。
 ## Devlopment
 
 ```bash
