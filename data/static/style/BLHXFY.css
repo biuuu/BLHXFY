@@ -559,3 +559,7 @@ body .prt-scene-comment .prt-message-area {
 body .prt-chat-show .prt-global-chat-log .btn-chat-log {
   background-image: url(/blhxfy/data/static/image/btn-chat-log.png)
 }
+body #cnt-room-index .prt-room-members .prt-view-menu .prt-global-chat-log .btn-chat-log {
+  background: url(/blhxfy/data/static/image/btn-chat-log-coop.png) no-repeat 0 1px;
+  background-size: 265px 27px;
+}
