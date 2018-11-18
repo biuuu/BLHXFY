@@ -1,4 +1,5 @@
 import request from './request'
+import './fix-url-search-params'
 import UrlSearchParams from 'url-search-params'
 
 const getTransResult = (data) => {
