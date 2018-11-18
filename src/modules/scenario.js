@@ -71,7 +71,9 @@ const transMulti = async (list, nameMap, nounMap, nounFixMap) => {
 
   const transStr = await Promise.all(txtStr.map(txt => {
     txt = removeHtmlTag(txt)
-    txt = replaceWords(txt, nameMap, lang)
+    if (lang === 'en') {
+      txt = replaceWords(txt, nameMap, lang)
+    }
     txt = replaceWords(txt, nounMap, lang)
     if (userName && lang === 'en') {
       let _lang = lang
