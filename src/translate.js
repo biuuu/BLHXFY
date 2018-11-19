@@ -63,6 +63,8 @@ export default async function translate(state) {
       data = await transChat(data)
     } else if (/\/rest\/.*?raid\/condition\/\d+\/\d\/\d\.json/.test(pathname)) {
       await transBuff(data.condition)
+    } else if (pathname.includes('/user/status')) {
+      data = replaceHour(data, 'user')
     } else {
       return
     }

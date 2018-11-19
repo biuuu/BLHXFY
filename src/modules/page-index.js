@@ -28,10 +28,14 @@ const pageIndex = async (data) => {
   return data
 }
 
-const replaceHour = (data) => {
+const replaceHour = (data, type) => {
   let status
   try {
-    status = data.option.user_status
+    if (type === 'user') {
+      status = data.status
+    } else {
+      status = data.option.user_status
+    }
   } catch (e) {
     return data
   }
