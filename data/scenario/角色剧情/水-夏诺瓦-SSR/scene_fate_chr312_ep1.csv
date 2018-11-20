@@ -49,8 +49,8 @@
 57,Vyrn/碧,That's one way to do it!,哦！还有这种方法啊。
 58,Lyria/露莉亚,"It's a test of the memories you two share, Vyrn!",这是对你们两个回忆的考验，阿碧！
 59,Vyrn/碧,"Okay, here goes! Ready?",好，接下来就开始了，做好准备了吗！
-60,Vyrn/碧,What's my favorite way to eat apples?,我最喜欢的吃苹果的方式是——什么？
-61,Vyrn/碧,"(I'm countin' on you, 姬塔. The real you should know the answer.)",拜托了，姬塔，如果是你的话一定知道正确答案的。
+60,Vyrn/碧,What's my favorite way to eat apples?,我最喜欢吃哪种用苹果做的东西？
+61,Vyrn/碧,"(I'm countin' on you, 姬塔. The real you should know the answer.)",（拜托了，姬塔，如果是你的话一定知道正确答案的。)
 61-sel1_txt,,Apple juice!,苹果汁！
 61-sel2_txt,,Apple pie!,苹果派！
 61-sel3_txt,,Apple jam!,苹果酱！
@@ -76,9 +76,9 @@
 80,Katalina/卡塔莉娜,Huh? That's the real 姬塔?,什么？那个才是真正的姬塔？
 81,Lyria/露莉亚,What makes you so sure?,但是，为什么那边是真的呢？
 82,,The 姬塔 who had come from the cabin finally speaks.,从舱室里出来的姬塔终于说话了。
-83,,The answer to Vyrn's question is silence.,阿碧的问题，答案就是没有答案。
+83,,The answer to Vyrn's question is silence.,阿碧的问题没有答案。
 84,Vyrn/碧,Yep! 姬塔 passed the test without saying a thing!,没错，回答那个问题的方式就是不要回答！
-85,Vyrn/碧,You wanna know what I like the best? Raw apples!,我最喜欢的吃苹果方式，当然是生吃啦！
+85,Vyrn/碧,You wanna know what I like the best? Raw apples!,我最喜欢的当然是生吃苹果！
 86,,"The other 姬塔, the one who been there the whole time, shows no surprise at Vyrn's answer.",另一个姬塔，一直和他们在一起的那个，对于阿碧的解答没有任何惊讶。
 87,Vyrn/碧,"The jig is up, Phantom Thief! Show yourself!",喂，怪盗夏诺瓦，乖乖现出真身吧！
 88,,"As soon as Vyrn finishes, the other 姬塔 leaps into the air before alighting nimbly on the edge of the airship.",阿碧话音刚落，那个姬塔就敏捷地跳到空中，在飞空艇的边缘上站定。
@@ -125,3 +125,4 @@
 138,,姬塔 lets out a deep sigh.,姬塔深深地叹了口气。
 139,,And that's how 姬塔 came to be followed by Chat Noir.,这就是姬塔被夏诺瓦缠上的起源。
 info,,,scene_fate_chr312_ep1
+备注,,,翻译人：Marco

@@ -556,7 +556,8 @@ body .prt-scene-comment .prt-message-area {
 }
 
 /* image */
-body .prt-chat-show .prt-global-chat-log .btn-chat-log {
+body .prt-chat-show .prt-global-chat-log .btn-chat-log,
+body .prt-global-chat-log .btn-chat-log {
   background-image: url(/blhxfy/data/static/image/btn-chat-log.png)
 }
 body #cnt-room-index .prt-room-members .prt-view-menu .prt-global-chat-log .btn-chat-log {

@@ -380,7 +380,7 @@ container_select_item_2,召喚石,summons,召唤石
 coopraid_1,共闘,Co-op,共斗
 coopraid_10,%s が解放されました！,Unlocked %s!,%s已解放！
 coopraid_100,AP・BPはMAXですが投稿しますか？,Your AP and EP are full. Tweet anyway?,您的AP·BP已满，是否继续投稿？
-coopraid_101,認証完了,Link Twitter Account,绑定成功。
+coopraid_101,認証完了,Link Twitter Account,认证成功
 coopraid_102,Twitterとの連携を認証しました。,Your Granblue Fantasy account and Twitter account are now linked.,您已绑定推特账号。
 coopraid_103,禁止ワードが含まれています。,This message is invalid.,含有敏感词汇。
 coopraid_104,ルーム作成,Create a Room,创建房间
@@ -2492,7 +2492,7 @@ user_52,Twitterに投稿しました。,The tweet was posted to Twitter.,已分�
 user_53,Twitter投稿により<br>AP・BPが回復しました。,Your AP and EP have recovered.,AP·BP已回复。
 user_54,送信完了,Post to Twitter,已分享
 user_55,Twitterに投稿することでAP・BPが回復します。,Post to Twitter to recover AP and EP.,分享至推特可回复AP与BP。
-user_56,認証完了,Link Twitter Account,绑定成功。
+user_56,認証完了,Link Twitter Account,认证成功
 user_57,Twitterとの連携を認証しました。,Your Granblue Fantasy account and Twitter account are now linked.,您已绑定推特账号。
 user_58,次のページへは移動できません,Inaccessible Screen,无法前往下一页
 user_59,PC版からの移動が制限されているページの為<br>このボタンからのページ移動はできません。,The button you tapped leads to a screen that can't be accessed from a computer.,PC版无法查看此页，点击该按钮无法前往下一页。

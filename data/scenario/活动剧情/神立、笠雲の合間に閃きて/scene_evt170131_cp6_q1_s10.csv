@@ -1,0 +1,23 @@
+id,name,text,trans
+0-chapter_name,,第6話 真実,第6话 真相
+0-synopsis,,姬塔達が魔物を倒す中、ルリアは苦しみつつも星晶獣を吸収しようとし、遂に何かを引っ張り出すことに成功する。すると、たちまちルリアとユリウスとの間で魔力が溢れ出し、広間に充満する。その時、姬塔達は何処からか響くユリウスの声を聞く。その声は星晶獣にしみ込んだ、ユリウスの想いの欠片であった。,在姬塔等人与魔兽战斗战斗时，露莉亚忍受着痛苦努力吸收星晶兽的力量，终于成功。随后，露莉亚和尤里乌斯之间溢出了大量魔力，充满了整个谒见厅。这时，姬塔等人听到尤里乌斯的声音不知从何处传来。那是渗入星晶兽之中的，尤里乌斯的记忆。
+2,,<span class='scene-font-katari'>星晶獣に取り込まれたユリウスは</span><br><span class='scene-font-katari'>姬塔達をも取り込まんと</span><br><span class='scene-font-katari'>数多の触手と魔物を差し向けてきた。</span>,<span class='scene-font-katari'>被星晶兽附身的尤里乌斯企图吸收姬塔等人，操纵大量触手和魔兽攻击众人。</span>
+3,,<span class='scene-font-katari'>魔物達を姬塔達が倒す中、</span><br><span class='scene-font-katari'>ルリアはユリウスに取り憑いた</span><br><span class='scene-font-katari'>星晶獣を吸収しようと試みる。</span>,<span class='scene-font-katari'>在姬塔等人与魔兽战斗战斗时，露莉亚忍受着痛苦努力吸收星晶兽的力量。</span>
+11,ルリア/露莉亚,…………！,
+12,ビィ/碧,ルリア……<br>なんか顔色悪くねぇか？,露莉亚……<br>你脸色好差哦……
+13,ルリア/露莉亚,い、今……<br>ユリウスさんと、星晶獣の力を<br>引っ張り合って……いて……,现、现在……<br>我和尤里乌斯都在争抢星晶兽的力量……
+14,ルリア/露莉亚,うぅ……<br>でも、も、もうちょっと……！,呜呜……<br>但是、就、差一点……！
+15,アルベール/阿尔贝尔,ルリア！<br>無理はするなよ！？,露莉亚！<br>不要勉强自己！！
+16,ルリア/露莉亚,い、いえ……！<br>大丈夫、で……,不……！<br>我没事、的……
+18,ルリア/露莉亚,……きゃああっ！！,……啊啊啊！！
+19,ビィ/碧,ルリア！？,露莉亚！？
+20,,<span class='scene-font-katari'>衝撃を受けたように</span><br><span class='scene-font-katari'>悲鳴を上げたルリアを、</span><br><span class='scene-font-katari'>咄嗟に姬塔が支える。</span>,<span class='scene-font-katari'>露莉亚受到冲击发出尖叫。姬塔马上伸手扶住她。</span>
+21,,<span class='scene-font-katari'>ルリアとユリウスの間で、</span><br><span class='scene-font-katari'>溢れた魔力が</span><br><span class='scene-font-katari'>玉座の間に充満した。</span>,<span class='scene-font-katari'>露莉亚和尤里乌斯之间溢出了大量魔力，充满了整个谒见厅。</span>
+22,？？？,……は……の……,……我……的……
+23,アルベール/阿尔贝尔,この声……！？,这声音是……！？
+24,,<span class='scene-font-katari'>聴こえてきた声に、</span><br><span class='scene-font-katari'>アルベールは思わず</span><br><span class='scene-font-katari'>玉座のユリウスを仰ぎ見る。</span>,<span class='scene-font-katari'>听见这声音，阿尔贝尔马上看向王座上的尤里乌斯。</span>
+25,マイム/麦姆,話しては……おられませんよね？<br>ですが、確かにこの声……,他……没有说话呢。<br>可是，这的确是他的声音……
+26,アルベール/阿尔贝尔,お前にも聞こえるか、マイム……<br>一体これは……！？,你也听见了吗，麦姆……？<br>这到底是……！？
+27,ルリア/露莉亚,……たぶん、これは……<br>星晶獣の力に染み込んだ、<br>ユリウスさんの……,……大概是……<br>尤里乌斯渗入星晶兽之中的……
+28,ルリア/露莉亚,……想いの、欠片……,……记忆的、碎片……
+info,,,scene_evt170131_cp6_q1_s10
