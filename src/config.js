@@ -18,7 +18,8 @@ const config = {
   hideSidebar: false,
   localHash: '',
   transJp: false,
-  transEn: true
+  transEn: true,
+  keepBgm: false
 }
 
 const getLocalConfig = () => {
@@ -31,7 +32,7 @@ const getLocalConfig = () => {
   }
   const keys = [
     'autoDownload', 'bottomToolbar', 'displayName', 'removeScroller', 'hideSidebar',
-    'transJp', 'transEn'
+    'transJp', 'transEn', 'keepBgm'
   ]
   keys.forEach(key => {
     let value = setting[key]

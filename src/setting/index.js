@@ -2,6 +2,7 @@ import './bottomToolbar'
 import './insertMeta'
 import './removeScroller'
 import './hideSidebar'
+import './keepBgm'
 import debounce from 'lodash/debounce'
 import isPlainObject from 'lodash/isPlainObject'
 import config from '../config'
@@ -30,7 +31,8 @@ const keyMap = new Map([
   ['remove-scroller', 'removeScroller'],
   ['hide-sidebar', 'hideSidebar'],
   ['trans-jp', 'transJp'],
-  ['trans-en', 'transEn']
+  ['trans-en', 'transEn'],
+  ['keep-bgm', 'keepBgm']
 ])
 
 const setting = (type, value) => {

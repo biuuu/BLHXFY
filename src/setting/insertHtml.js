@@ -94,6 +94,19 @@ const template = `
 						<label for="auto-download-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">自动下载CSV</label>
 					</div>
         </div>
+			</div>
+
+			<div class="prt-setting-article">
+				<div class="txt-article-title">BGM设置</div>
+				<ul class="txt-article-lead">
+					<li>激活后在浏览器失去焦点后继续播放游戏声音</li>
+				</ul>
+				<div class="prt-button-l">
+					<div>
+						<input id="keep-bgm-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'keep-bgm', this.checked)" type="checkbox" value="">
+						<label for="keep-bgm-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">保持BGM播放</label>
+					</div>
+        </div>
       </div>
 
 			<div class="prt-setting-article">
