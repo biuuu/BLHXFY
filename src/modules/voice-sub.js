@@ -57,6 +57,7 @@ const setSubBox = (text, duration) => {
 }
 
 const showSub = async (src) => {
+  if (!src) return
   hideBox()
   const voice = src.replace(/\.[\w\d]+$/, '')
   if (!voiceList.includes(voice)) return

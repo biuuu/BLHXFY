@@ -81,11 +81,11 @@ const injectXHR = () => {
   function customOnComplete(state) {
     if (state.done) return
     state.done = performance.now()
-    state.result = this.response || this.responseText
     state.response = this.response
     state.responseType = this.responseType
     if ((state.responseType === "") || (state.responseType === "text")) {
       state.responseText = this.responseText
+      state.result = this.response || this.responseText
     }
     state.status = this.status
     state.statusText = this.statusText
