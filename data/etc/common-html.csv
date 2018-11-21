@@ -26,13 +26,13 @@ path,text,trans,count
 /quest/content/newassist,<span class='txt-request-name'><%= n.attributes.called_user_name %></span>さんからの救援依頼,来自<span class='txt-request-name'><%= n.attributes.called_user_name %></span>的救援请求,
 /quest/content/newassist,<span class='txt-request-name'><%= raid['called_user_name'] %></span>さんからの救援依頼,来自<span class='txt-request-name'><%= raid['called_user_name'] %></span>的救援请求,
 /quest/content/newassist,イベントストーリーを開始することで<br>マルチバトルに参加できるようになります。,开始活动剧情后即可参加多人战斗,
-/quest/content/newassist,参加できるイベントマルチバトルはありません,没有可以加入的活动副本,
+/quest/content/newassist,参加できるイベントマルチバトルはありません,没有可以加入的活动多人战,
 /quest/content/newassist,クエストへ,回到任务,2
-/quest/content/newassist,イベントマルチバトルは、イベントクエストを進めていくと発生します,活动副本会在推进活动任务后出现,
+/quest/content/newassist,イベントマルチバトルは、イベントクエストを進めていくと発生します,活动多人战会在推进活动任务后出现,
 /quest/content/newassist,参加条件を満たしていない場合、この一覧には表示されません,如果不符合参与条件，则不会出现在此列表中,2
-/quest/content/newassist,参加できるマルチバトルはありません。,没有可以加入的副本,
-/quest/content/newassist,マルチバトルは、クエストを進めていくと発生します,副本会在推进任务后出现,
-/quest/content/newassist,イベントマルチバトルの救援依頼を表示するか<br>どうかそれぞれ設定することができます,可以设置是否显示活动副本的救援请求,2
+/quest/content/newassist,参加できるマルチバトルはありません。,没有可以加入的多人战,
+/quest/content/newassist,マルチバトルは、クエストを進めていくと発生します,多人战会在推进任务后出现,
+/quest/content/newassist,イベントマルチバトルの救援依頼を表示するか<br>どうかそれぞれ設定することができます,可以设置是否显示活动多人战的救援请求,2
 /quest/content,クエストリストへ,返回任务列表,
 /archive/content/story,メインシナリオ,主线剧情,2
 /quest/content/supporter_raid,サポーター召喚石選択,选择支援召唤石,
@@ -61,7 +61,7 @@ path,text,trans,count
 /lobby/content/room,あと<%= can_quest_start_count %>回挑戦します（全<%= max_quest_start_count %>回）,还剩<%= can_quest_start_count %>回挑战（一共<%= max_quest_start_count %>回）,
 /lobby/content/room,このクエストに挑戦します。,准备挑战这个任务,2
 /lobby/content/room,マルチバトルの難易度を選択してください,请选择多人战的难度级别,
-/lobby/content/room,を選択してください,请选择一个活动副本,
+/lobby/content/room,を選択してください,请选择,
 /lobby/content/room,サポーターを選択してください。,请选择支援召唤石,3
 /lobby/content/room,サポーターに選択できるメンバーがいません。,没有可供选择召唤石的成员,2
 /lobby/content/room,<%= set_user.name %> Rank <%= set_user.rank %> が選択,<%= set_user.name %> Rank <%= set_user.rank %> 选择任务,2
@@ -114,7 +114,7 @@ path,text,trans,count
 /coopraid/content/offer,クエスト設定者がバトルを開始すると<br>ルームメンバーも自動的にバトルに参戦します,当任务设定者开始战斗时，房间成员自动加入战斗,2
 /coopraid/content/offer,この募集に参加します。,加入这个房间,2
 /coopraid/content/offer,参加条件を満たしていないため、<br>参加できません。,因不满足加入的条件<br>无法加入房间,2
-/coopraid/content/offer,マルチバトル難易度,副本难度,
+/coopraid/content/offer,マルチバトル難易度,多人战难度,
 /coopraid/content/offer,募集対象,募集对象,
 /coopraid/content/offer,フレンド限定,好友限定,
 /coopraid/content/offer,騎空団員限定,骑空団员限定,
