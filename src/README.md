@@ -13,6 +13,7 @@
 3. 译文：下载已翻译的 CSV 文件，如果有的话
 4. 预览：弹出一个文本框，粘贴翻译好的剧情文本即可预览。但同时只会缓存5个预览章节，超过后会清除多余的预览。
 
+具体如何使用插件翻译剧情或汉化界面请查看 [说明](https://github.com/BLHXFY-Group/BLHXFY/blob/master/data/README.md)。
 ## 使用
 ### PC端
 1. 建议使用 Chrome，首先安装 [Tampermonkey](https://tampermonkey.net/) 扩展
