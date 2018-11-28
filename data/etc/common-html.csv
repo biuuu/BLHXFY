@@ -165,7 +165,6 @@ path,text,trans,count
 /arcarum/content/stage,探索を終了しますか,要结束探索吗,
 /arcarum/content/stage,探索を終了した場合、チェックポイント以降の<br>進行状況は保存されません。,如选择结束探索，存档点之后的进度将不会被保存。,
 /arcarum/content/stage,本当に探索を終了しますか,确定要结束探索吗,
-/shop_exchange/content/list,全て,全部,3
 /shop_exchange/content/list,>交換可能,>可以交换,2
 /shop_exchange/content/list,回復アイテム,回复道具,2
 /shop_exchange/content/list,育成アイテム,育成道具,
@@ -292,9 +291,11 @@ path,text,trans,count
 /content,ヘルプへ,帮助,30
 /content,在庫,库存,10
 /content,その他,其他,10
+/content,全て,全部,10
 /content,送信する,发送,10
 /content,イベント,活动,10
 /content,残り,还剩,20
+/content,報酬,报酬,20
 /content,マイページに戻る,返回首页,
 /detail/content/detail,LB取得でClassUP,LB获得ClassUP,
 /content,奥義,奥义,15
@@ -362,7 +363,6 @@ raid/,タッチするとオートアタックが有効になります,通过点�
 /quest/content,フェイトエピソード一覧,Fate章节列表,
 /quest/content/newfate,たまには寄り道もイイかもなぁ,偶尔换条路走走也不错哦,
 /quest/content/newfate,意外な発見があるんじゃねーか,说不定会有什么新发现呢,
-/quest/content/newfate,全て,全部,3
 /quest/content/newfate,SSレア,SSR,2
 /quest/content/newfate,Sレア,SR,4
 /quest/content/newfate,レア,R,4
@@ -378,3 +378,17 @@ raid/,タッチするとオートアタックが有効になります,通过点�
 /guild_main,役職,职务,
 /guild_main,合計寄付ルピ,卢比捐赠总额,
 /guild_main,記録,记录,
+/advent/top,四象を討伐して水晶を輝かせよう,通过四象的讨伐让水晶闪耀,
+/advent/top,水晶は静かに佇んでいる,水晶安静地伫立于此,
+/advent/top,水晶は沈黙を保っている,水晶保持着沉默,
+/advent/top,水晶から微かな力を感じる,水晶有力量隐隐传出,
+/advent/top,水晶が微かな光を灯した,水晶之中微光闪烁,
+/advent/top,水晶に光が灯っている,水晶开始发光,
+/advent/top,水晶が淡い光を放っている,水晶散发出淡淡的光芒,
+/advent/top,水晶が強い光を放っている,水晶散发着强烈的光芒,
+/advent/top,水晶が輝きだした,水晶正在闪耀,
+/advent/top,水晶の放つ輝きが強くなった,水晶闪耀着强烈的光芒,
+/advent/top,水晶が眩い輝きを放っている,水晶闪耀着炫目的光芒,
+/advent/top,水晶は神しく光り輝いている,水晶绽放着神一般的光彩,
+/advent/top,バトル,战斗,20
+/advent/top,四象降臨,四象降临,2
