@@ -31,3 +31,15 @@ export default function () {
     })
   })
 }
+
+window.blhx || (window.blhx = {})
+window.blhx.sendEvent = function (name, type, data) {
+  var event = new CustomEvent('blhxfy:message', {
+    detail: {
+      type: type,
+      data: data,
+      name: name
+    }
+  })
+  document.body.dispatchEvent(event)
+}
