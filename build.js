@@ -10,6 +10,7 @@ const rollup = require('rollup')
 const babel = require('rollup-plugin-babel')
 const cmjs = require('rollup-plugin-commonjs')
 const resolve = require('rollup-plugin-node-resolve')
+const json = require('rollup-plugin-json')
 const through = require('through2')
 
 const scenarioMap = {}
@@ -158,6 +159,7 @@ const extensionBanner = `// ==UserScript==
 // @run-at       document-body
 // @grant        GM_xmlhttpRequest
 // @connect      translate.google.cn
+// @connect      api.interpreter.caiyunai.com
 // @updateURL    https://blhx.danmu9.com/blhxfy/extension.user.js
 // @supportURL   https://github.com/biuuu/BLHXFY/issues
 // ==/UserScript==`
@@ -167,6 +169,7 @@ gulp.task('extension', ['clean:dist', 'extensionEx', 'extensionIOS', 'rewrite-sc
     plugins: [
       resolve({ preferBuiltins: false }),
       cmjs({ ignore: ['stream'] }),
+      json(),
       babel({
         exclude: 'node_modules/**',
         presets: [['@babel/preset-env', {
@@ -198,6 +201,7 @@ const extensionBanner2 = `// ==UserScript==
 // @run-at       document-body
 // @grant        GM_xmlhttpRequest
 // @connect      translate.google.cn
+// @connect      api.interpreter.caiyunai.com
 // @updateURL    https://blhx.danmu9.com/blhxfy/extension.es5.user.js
 // @supportURL   https://github.com/biuuu/BLHXFY/issues
 // ==/UserScript==`
@@ -208,6 +212,7 @@ gulp.task('extensionEx', ['clean:dist'], async function () {
     plugins: [
       resolve({ preferBuiltins: false }),
       cmjs({ ignore: ['stream'] }),
+      json(),
       babel({
         exclude: 'node_modules/**',
         presets: [['@babel/preset-env', {
@@ -233,6 +238,7 @@ gulp.task('extensionIOS', ['clean:dist'], async function () {
     plugins: [
       resolve({ preferBuiltins: false }),
       cmjs({ ignore: ['stream'] }),
+      json(),
       babel({
         exclude: 'node_modules/**',
         presets: [['@babel/preset-env', {

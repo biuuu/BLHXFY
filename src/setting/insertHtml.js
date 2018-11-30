@@ -73,12 +73,23 @@ const template = `
 				</ul>
 				<div class="prt-button">
 					<div>
-						<input id="trans-jp-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'trans-jp', this.checked)" type="checkbox" value="">
-						<label for="trans-jp-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">日语机翻</label>
+						<input id="trans-ja-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'trans-ja', this.checked)" type="checkbox" value="">
+						<label for="trans-ja-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">日语机翻</label>
 					</div>
 					<div>
 						<input id="trans-en-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'trans-en', this.checked)" type="checkbox" value="">
 						<label for="trans-en-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">英语机翻</label>
+					</div>
+				</div>
+				<div class="prt-button">
+					<div class="prt-select-box">
+						<div id="trans-api-setting-blhxfy-pulldown" class="prt-list-pulldown btn-sort">
+							<div id="trans-api-setting-blhxfy-txt" class="txt-selected">彩云小译</div>
+							<select id="trans-api-setting-blhxfy" class="frm-list-select" onchange="window.blhxfy.sendEvent('setting', 'trans-api', this.value)">
+								<option value="caiyun" selected="">彩云小译</option>
+								<option value="google">Google翻译</option>
+							</select>
+						</div>
 					</div>
 				</div>
 			</div>

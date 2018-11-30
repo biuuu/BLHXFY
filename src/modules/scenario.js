@@ -71,14 +71,20 @@ const transMulti = async (list, nameMap, nounMap, nounFixMap) => {
 
   const transStr = await Promise.all(txtStr.map(txt => {
     txt = removeHtmlTag(txt)
-    if (lang === 'en') {
-      txt = replaceWords(txt, nameMap, lang)
+    if (config.transApi === 'google') {
+      if (lang === 'en') {
+        txt = replaceWords(txt, nameMap, lang)
+      }
+      txt = replaceWords(txt, nounMap, lang)
     }
-    txt = replaceWords(txt, nounMap, lang)
-    if (userName && lang === 'en') {
+    if (userName) {
       let _lang = lang
       if (!/^\w+$/.test(userName)) _lang = 'unknown'
-      txt = replaceWords(txt, new Map([[userName, config.defaultName]]), _lang)
+      if (lang === 'en') {
+        txt = replaceWords(txt, new Map([[userName, config.defaultEnName]]), _lang)
+      } else {
+        txt = replaceWords(txt, new Map([[userName, config.defaultName]]), _lang)
+      }
     }
     const targetLang = config.lang !== 'hant' ? 'zh-CN' : 'zh-TW'
     return transApi(txt, lang, targetLang)
@@ -87,8 +93,13 @@ const transMulti = async (list, nameMap, nounMap, nounFixMap) => {
   return transStr.reduce((result, str) => {
     let _str = str
     if (str) {
-      if (userName) {
-        _str = _str.replace(new RegExp(config.defaultName, 'g'), userName)
+      if (config.displayName || userName) {
+        const name = config.displayName || userName
+        if (lang === 'en') {
+          _str = _str.replace(new RegExp(config.defaultEnName, 'g'), name)
+        } else {
+          _str = _str.replace(new RegExp(config.defaultName, 'g'), name)
+        }
       }
       for (let [text, fix] of nounFixMap) {
         _str = _str.replace(new RegExp(text, 'g'), fix)
@@ -215,14 +226,24 @@ const transStart = async (data, pathname) => {
   const nameMap = Game.lang !== 'ja' ? nameData['enNameMap'] : nameData['jpNameMap']
   scenarioCache.nameMap = nameMap
   if (!transMap) {
-    if ((config.transJp && Game.lang === 'ja') || (config.transEn && Game.lang === 'en')) {
+    if ((config.transJa && Game.lang === 'ja') || (config.transEn && Game.lang === 'en')) {
       const { nounMap, nounFixMap } = await getNounData()
       transMap = new Map()
       const { txtList, infoList } = collectTxt(data)
       const transList = await transMulti(txtList, nameMap, nounMap, nounFixMap)
+      let transNotice = false
+      const transApiName = {
+        google: ['Google翻译', 'https://translate.google.cn'],
+        caiyun: ['彩云小译', 'http://www.caiyunapp.com/fanyi/']
+      }
+      const apiData = transApiName[config.transApi]
       infoList.forEach((info, index) => {
         const obj = transMap.get(info.id) || {}
         obj[info.type] = transList[index] || ''
+        if (!transNotice && info.type === 'detail' && obj[info.type]) {
+          obj[info.type] = `<span class='scene-font-katari'>本节内容为<a target="_blank" style="color:#9ccd4e" href="${apiData[1]}">${apiData[0]}</a>机翻<br>${obj[info.type]}</span>`
+          transNotice = true
+        }
         transMap.set(info.id, obj)
       })
     } else {

@@ -3,6 +3,7 @@ import isString from 'lodash/isString'
 import isBoolean from 'lodash/isBoolean'
 import isPlainObject from 'lodash/isPlainObject'
 import filter from './utils/XSSFilter'
+import { version } from '../package.json'
 
 const config = {
   origin: 'https://blhx.danmu9.com',
@@ -11,15 +12,18 @@ const config = {
   userName: '',
   displayName: '',
   defaultName: '姬塔',
+  defaultEnName: 'Djeeta',
+  transApi: 'caiyun',
   timeout: 8,
   autoDownload: false,
   bottomToolbar: false,
   removeScroller: true,
   hideSidebar: false,
   localHash: '',
-  transJp: false,
+  transJa: true,
   transEn: true,
-  keepBgm: false
+  keepBgm: false,
+  version: version
 }
 
 const getLocalConfig = () => {
@@ -32,7 +36,7 @@ const getLocalConfig = () => {
   }
   const keys = [
     'autoDownload', 'bottomToolbar', 'displayName', 'removeScroller', 'hideSidebar',
-    'transJp', 'transEn', 'keepBgm'
+    'transJa', 'transEn', 'keepBgm', 'transApi'
   ]
   keys.forEach(key => {
     let value = setting[key]
