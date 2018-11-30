@@ -30,9 +30,10 @@ const keyMap = new Map([
   ['username', 'displayName'],
   ['remove-scroller', 'removeScroller'],
   ['hide-sidebar', 'hideSidebar'],
-  ['trans-jp', 'transJp'],
+  ['trans-ja', 'transJa'],
   ['trans-en', 'transEn'],
-  ['keep-bgm', 'keepBgm']
+  ['keep-bgm', 'keepBgm'],
+  ['trans-api', 'transApi']
 ])
 
 const setting = (type, value) => {
@@ -41,6 +42,10 @@ const setting = (type, value) => {
       const ipt = $(`#${id}-setting-blhxfy`)
       if (ipt.attr('type') === 'checkbox') {
         ipt[0].checked = config[key]
+      } else if (ipt[0].tagName.toUpperCase() === 'SELECT') {
+        ipt.val(config[key])
+        const text = ipt.find('option:selected').text()
+        $(`#${id}-setting-blhxfy-txt`).text(text)
       } else {
         ipt.val(config[key])
       }
@@ -53,6 +58,10 @@ const setting = (type, value) => {
       sett.prototype.onChangePostAsyncInput({ currentTarget: value.target})
     })
   } else {
+    if (type === 'trans-api') {
+      const text = $('#trans-api-setting-blhxfy').find('option:selected').text()
+      $('#trans-api-setting-blhxfy-txt').text(text)
+    }
     saveToLocalstorage(keyMap.get(type), value)
   }
 }
