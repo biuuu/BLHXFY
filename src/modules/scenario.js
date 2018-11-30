@@ -241,7 +241,7 @@ const transStart = async (data, pathname) => {
         const obj = transMap.get(info.id) || {}
         obj[info.type] = transList[index] || ''
         if (!transNotice && info.type === 'detail' && obj[info.type]) {
-          obj[info.type] = `<span class='scene-font-katari'>（本节由<a target="_blank" style="color:#9ccd4e" href="${apiData[1]}">${apiData[0]}</a>机翻）</span><br>${obj[info.type]}`
+          obj[info.type] = `（本节由<a target="_blank" style="color:#9ccd4e" href="${apiData[1]}">${apiData[0]}</a>机翻）<br>${obj[info.type]}`
           transNotice = true
         }
         transMap.set(info.id, obj)
