@@ -11,10 +11,10 @@
 8,Lyria/露莉亚,Grr...,唔……
 9,,"Being pushed further into a corner with every action Vyrn takes, Lyria stares at the Go board with intense concentration.",露莉亚逐渐被阿碧逼进死角，她紧张而专注地盯着围棋盘。
 10,,"However, seeing that nothing short of miraculous intervention could possibly save her from the bottomless quagmire, Lyria is now ready to throw in the towel.",但是，露莉亚意识到已经没有什么办法可以挽救目前的败局了，只好弃子认输。
-11,Lyria/露莉亚,Sigh... looks like this is it for me. I give up.,唉……看来我就到此位置了，我认输。
-12,Vyrn/碧,"Booyah! You know, I think I might be able to go places with this Go thing if I keep at it!",嘿嘿！我觉得这样下去的话能成为围棋大师了！
+11,Lyria/露莉亚,Sigh... looks like this is it for me. I give up.,唉……看来我就到此为止了，我认输。
+12,Vyrn/碧,"Booyah! You know, I think I might be able to go places with this Go thing if I keep at it!",嘿嘿！我觉得这样下去的话我能成为围棋大师了！
 13,Sevilbarra,"Perhaps so, Vyrn. You play with the finesse of a true master.",也说不定呐，阿碧的风格很有大师的感觉。
-14,Sevilbarra,"You did well too, Lyria. There is no need to feel discouraged. Practice makes perfect as they say.",露莉亚也干得很不错，不用这么沮丧哟，人们都说熟能生巧嘛！
+14,Sevilbarra,"You did well too, Lyria. There is no need to feel discouraged. Practice makes perfect as they say.",露莉亚也下得很不错，不用这么沮丧哟，人们都说熟能生巧嘛！
 16,,Sevilbarra demonstrates a possible countermove Lyria could have made for a dramatic comeback.,萨比尔巴拉示范了能让露莉亚绝地反击的一手。
 17,Lyria/露莉亚,"Aah, why didn't I think of that!",哇，我没想到有这一手呢！
 18,Lyria/露莉亚,"Vyrn, play me again!",阿碧，再来一局吧！
@@ -22,7 +22,7 @@
 20,Lyria/露莉亚,I don't want to stay a loser! That'd be no fun!,但是我不想一直输下去了，这样一点都不好玩！
 21,Lyria/露莉亚,"Please, Vyrn!",所以说，拜托了，阿碧！
 22,Sevilbarra,"Haha, Lyria hates losing a lot more than I thought.",啊哈哈，露莉亚比我想象中的还不认输呢。
-23,,"Seeing Lyria plead to Vyrn for a rematch, Sevilbarra recalls a nostalgic memory.",看着露莉亚恳求阿碧再来一局，萨比尔瓦拉想起了过去。
+23,,"Seeing Lyria plead to Vyrn for a rematch, Sevilbarra recalls a nostalgic memory.",看着露莉亚恳求阿碧再来一局，萨比尔巴拉想起了过去。
 24,Sevilbarra,"(Keralbarra... You never liked losing either, Little Sis...)",（库拉芭拉……妹妹你也从来不认输啊……）
 30,,"On one bright, sunny day, Sevilbarra and Keralbarra are playing Go on a dojo bench.",那一天，阳光明媚，萨比尔巴拉和库拉芭拉正在道场中下围棋。
 31,,"No matter how many times they go at it, Keralbarra loses every time and is pouting over the fact.",但是不论下了多少局，库拉芭拉还是一直在输，并且不甘心就这样一直输下去。
@@ -48,7 +48,7 @@
 54,,A gentle expression plays on Sevilbarra's countenance.,萨比尔巴拉露出了温柔的表情。
 55,Vyrn/碧,"Say, Straw Hat Guy, what kind of a person was your lil' sis anyway?",呐，草帽头小哥，你的妹妹是一个什么样的人呢？
 56,Sevilbarra,Hm... I'd say she was really strong-minded... and hated losing more than anything else.,嗯……她非常倔强，是很不服输的一个人。
-57,Sevilbarra,"Be it Go, sword fighting, or whatever activity you threw at her, she wouldn't give until she came out on top. It was always exhausting to be on the receiving end of her competitive nature.",围棋也好剑术也好，一定坚持要赢才行呐，每次都要累死我了。
+57,Sevilbarra,"Be it Go, sword fighting, or whatever activity you threw at her, she wouldn't give until she came out on top. It was always exhausting to be on the receiving end of her competitive nature.",围棋也好剑术也好，一定坚持要赢才行呐，每次都要被她不服输的天性累死了。
 58,Vyrn/碧,"Oh, yeah, yeah. I know that feeling.",嗯嗯，我懂。
 59,Lyria/露莉亚,Vyrn!,阿碧？
 60,Sevilbarra,She was a fast learner though.,不过也因为如此，她学什么都非常快。
@@ -78,7 +78,7 @@
 93,,The crew sets out to meet Sevastien of the holy knights.,众人出发去见圣骑士团的塞巴斯蒂安。
 94,Sevilbarra,"Ah, 姬塔. Sorry, I was lost in thought.",啊，姬塔，抱歉，我稍微有点出神。
 95,Sevilbarra,I really appreciate you going out of your way to consult the Lumiel...,真是太麻烦你了，还特地和卢米埃骑士团写信去咨询。
-96,Sevilbarra,All so that I can have my justice...,然后我就可以完成我的心愿……
+96,Sevilbarra,All so that I can have my justice...,让我可以完成我的心愿……
 97,Sevilbarra,"Your kindness truly knows no bounds, 姬塔!",姬塔这一次的帮助，真是想象不到的大呢！
 97-sel1_txt,,You sure you're not trying too hard?,你没有在勉强自己吧？
 98,Sevilbarra,"No worries, I'm definitely not forcing this smile. I just feel... strangely relaxed somehow.",不用担心，我并没有在勉强自己笑出来，我只是……微妙地觉得很放松。
