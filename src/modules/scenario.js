@@ -93,6 +93,9 @@ const transMulti = async (list, nameMap, nounMap, nounFixMap) => {
   return transStr.reduce((result, str) => {
     let _str = str
     if (str) {
+      for (let [text, fix] of nounFixMap) {
+        _str = _str.replace(new RegExp(text, 'g'), fix)
+      }
       if (config.displayName || userName) {
         const name = config.displayName || userName
         if (lang === 'en') {
@@ -100,9 +103,6 @@ const transMulti = async (list, nameMap, nounMap, nounFixMap) => {
         } else {
           _str = _str.replace(new RegExp(config.defaultName, 'g'), name)
         }
-      }
-      for (let [text, fix] of nounFixMap) {
-        _str = _str.replace(new RegExp(text, 'g'), fix)
       }
       return result.concat(_str.split('\n'))
     }

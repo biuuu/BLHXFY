@@ -70,7 +70,7 @@ const caiyunTrans = async (keyword, lang = 'en') => {
       }
     })
     const txt =  res.target.join('\n')
-    return txt.replace(/姬塔们/g, '姬塔一行')
+    return txt
   } catch (err) {
     console.error(`${err.message}\n${err.stack}`)
     return ''

@@ -77,7 +77,7 @@ const getNounData = async () => {
     })
     sortKeywords(listNounFix, 'text').forEach(item => {
       const text = trim(item.text)
-      const fix = filter(trim(item.fix))
+      const fix = filter(trim(item.fixed))
       if (text && fix) {
         nounFixMap.set(text, fix)
       }
