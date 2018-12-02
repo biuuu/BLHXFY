@@ -1,0 +1,34 @@
+﻿id,name,text,trans
+0-chapter_name,,5: With Condolences to None,传达不到的哀痛
+0-synopsis,,"Having arrived at Sevilbarra's hometown, 姬塔 and company pay a visit to Krelkulkil's estate, home to a family that has sealed demon blades for generations. The elder suggests they keep Corwell in confinement and invites the crew in to talk.",到达了萨比尔巴拉故乡的姬塔一行人拜访了卡拉库拉奇尔的故居，那里至今仍然居住着世代研究妖刀的家族，长老迎接了众人并看到克洛威尔的情况后，把克洛威尔关进牢房里，并邀请众人进入房间详谈。
+7,,The crew brings the captured Corwell to Sevilbarra's island.,众人带着被抓住的克洛威尔来到萨比尔巴拉故乡的岛屿。
+13,,Sevilbarra leads the group to an estate in a town not too far from port. This will serve as a rendezvous point with the holy knights.,萨比尔巴拉带领众人来到一个距离港口不远的城镇中，打算办完事后在那里和圣骑士团汇合。
+15,Sevilbarra/萨比尔巴拉,"I don't want to get caught up in nostalgia, but I just can't help myself.",虽然现在不是犯乡愁的时候……但是真是怀念啊……
+16,Sevilbarra/萨比尔巴拉,"I thought more things might've changed, but the feeling around town's still the same.",城市的变化比我想象中的还要大。
+17,Lyria/露莉亚,Is your house in this town too?,萨比尔巴拉先生的房子也在这个城市吗？
+18,Sevilbarra/萨比尔巴拉,"No, my house is located in a village on the far side of the mountains.",不，我住的地方在山另一边的村子里呢。
+19,Sevilbarra/萨比尔巴拉,I'd often poke my head into this town for matters relating to the demon blade though.,不过因为妖刀的关系，我也多少来过这个城市。
+20,Sevilbarra/萨比尔巴拉,"Let's hurry along. There's no way to hide the fact that we're transporting a criminal, so we should move with purpose.",好了，快点走吧，带着一个罪人可是很显眼的，稍微加快步伐吧。
+27,Sevilbarra/萨比尔巴拉,I can see it up ahead. There's the spellmaster's house where Krelkulkil used to live.,可以看到了，那里就是研究妖刀的咒术师的家，卡拉库拉奇尔的故居。
+28,Lyria/露莉亚,Wow! What a grand mansion!,哇，真是好大的宅邸啊！
+29,Sevilbarra/萨比尔巴拉,This is the family responsible for shaping the island as it is today. They're quite distinguished.,他们算是引领这个岛发展至今的家族，嘛也就是所谓的名家吧。
+31,Elder/老人,Sevilbarra!,萨比尔巴拉！
+32,Sevilbarra/萨比尔巴拉,Elder.,长老。
+33,Elder/老人,"You came back safe and sound. The man you spoke of in the letter... That's him, isn't it?",你能平安回来实在太好了。信中提到的那个男人……就是他吗？
+34,Sevilbarra/萨比尔巴拉,Mm-hm.,啊……是的。
+35,Corwell/克洛威尔,Uunh...,……啊……啊……
+36,Elder/老人,The demon blade's corruption is advanced. I see symptoms of the terminal stage. He can't even string together a cohesive sentence.,妖刀的侵蚀程度很深，已经算得上是末期，连基本的对话都无法建立了。
+37,Lyria/露莉亚,Terminal stage...,末期……
+38,Elder/老人,"I find this hard to put into words. Here is the man for whom we can never have enough hatred, yet to see him like this is just—",多么……难以启齿啊，对于我们来说这个男人是不共戴天的仇敌，但是看到他现在这个样子——
+39,Sevilbarra/萨比尔巴拉,We're holding on to him for the purpose of handing over to the Lumiel Order of Holy Knights.,直到把他交给卢米埃圣骑士团之前，我们先把他囚禁着。
+40,Elder/老人,"Ah, say no more. We'll keep him in a confinement cell.",啊，说的也是。把他关进牢房里应该比较好吧。
+41,Vyrn/碧,You mean like a jail? Why would you guys ever need something like that?,牢……牢房？为什么连这种东西都有啊？
+42,Elder/老人,"Since the olden days, my family has passed down demon blade sealing arts while continuing to study the blades' properties.",本家自古以来，就在一边传授妖刀的封印术，一边研究妖刀本身的性质。
+43,Elder/老人,We've become quite knowledgeable in how to exorcise demon blades from those who brought harm to others after being enraptured by the weapon.,关于怎么样从被妖刀控制而带来灾祸的人手中夺取妖刀，并使之调伏的知识还是有的。
+44,Elder/老人,"Once we separate the blade from someone with minor corruption, they're kept in cells so that they may come back to their senses.",对于一些被妖刀侵蚀了部分神志的人来说，为了使他们在被与妖刀分离后恢复清醒，需要将他们关在牢房里。
+45,Vyrn/碧,"I see... Sounds kinda harsh, but I'll trust your judgment!",是这样吗……虽然听上去有些吃惊，但是我相信长老的说法！
+46,Sevilbarra/萨比尔巴拉,"Elder, I wish to remove my family's demon blade from this man's grasp. Can it be done?",长老，这家伙无论如何都不松开妖刀，有什么方法吗？
+47,Elder/老人,"It's not rare for someone to cling to the demon blade to the bitter end, but we have methods for dealing with that.",对妖刀存留执念的人并不少见，不过我们也有应付的流传咒术。
+48,Elder/老人,But first let's get you all inside. Gabbing in the doorway will get us nowhere.,但是，让我们先进去说话吧，站在大门口继续交谈也没什么意义。
+49,Lyria/露莉亚,"Okay! Pardon our intrusion, Elder.",啊，是这样呢，打扰了，长老先生。
+info,,,scene_evt181130_cp5_q1_s10
