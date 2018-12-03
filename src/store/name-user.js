@@ -22,7 +22,7 @@ const setUserName = () => {
       })
       req.fetch()
     })
-    config.userName = '姬塔'
+    config.userName = '古兰'
     localStorage.setItem('blhxfy:name', config.userName)
   }
 }
