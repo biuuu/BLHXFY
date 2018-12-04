@@ -32,7 +32,7 @@ id,en,jp,trans
 35,Mmm mmm! This is delicious!,んむっ……！<br>お、美味しいです、これ！,哦！嗯...这个真好吃！
 36,"I guess you'd call this a taste of home, 姬塔!",これが姬塔の、<br>フルサトノアジ、なんですね！,这就是姬塔家乡的味道呀！
 37,"To us, this is the best tasting food we've ever known! Right, 姬塔?",オイラ達にとっちゃ、<br>懐かしい味だけどな！<br>なぁ！　姬塔！,对于我们来说，这也是十分令人怀念的味道啊！是吧，姬塔！
-38,"This'll go well with some wine, I bet. Should've brought myself a few good bottles from Auguste.",こっちぁ、良い酒の肴になりそうだ……<br><span class='scene-font-place'>アウギュステ</span>から、<br>良いのを何本か持ってくりゃよかったな。,哈！再来些酒水就好了啊，想当初就应该从<span class='scene-font-place'>奥古斯特</span>那里带来一些的。
+38,"This'll go well with some wine, I bet. Should've brought myself a few good bottles from 奥古斯特.",こっちぁ、良い酒の肴になりそうだ……<br><span class='scene-font-place'>アウギュステ</span>から、<br>良いのを何本か持ってくりゃよかったな。,哈！再来些酒水就好了啊，想当初就应该从<span class='scene-font-place'>奥古斯特</span>那里带来一些的。
 39,The food here's different from anything I've had. On Valtz or anywhere else.,この島のお料理……<br><span class='scene-font-place'>バルツ</span>とも、<br>いままで行ったどの島とも違うのね。,这个岛的料理，和<span class='scene-font-place'>瓦尔茨</span>，以及我们去过的各个岛都不一样呢。
 40,"Isn't it, though? The island's small, but we grow some rare veggies here.",ふふ……でしょう？<br>小さな島だけど、<br>この島にしかない野菜も多いのよ。,呵呵......是吧？虽然只是一个很小的岛，但也有不少只有这里才有的蔬菜呢。
 41,"Anyways, to think you've gone off and captained a crew of fine skyfarers...",しかし……<br>こうも立派な騎空団を率いて<br>帰ってくるとは……,但是，真没想到带着如此优秀的骑空团回到家乡呀！
@@ -99,7 +99,7 @@ id,en,jp,trans
 100,Those who form pacts become the divine protector of the island and can bring out its true power.,島と契約を結んだ星晶獣は、<br>その島の守り神となる代わりに、<br>その島では絶対的な力を発揮するわ。,与岛屿签订契约的星晶兽，作为这座岛屿的保护神，在这个岛上可以发挥出其真正的力量。
 101,"Not only that, but its power as a guardian can greatly affect the island.",それだけじゃなく、<br>守護神となった星晶獣の力は、<br>島に大きな影響を及ぼすの。,不仅如此，成为守护神的星晶兽的力量也会对岛屿产生很大的影响。
 102,"I gotcha. So Tiamat's protection accounts for the wind in Port Breeze, huh?",なるほどな……その星晶獣の力の影響を、<br><span class='scene-font-place'>ポート・ブリーズ</span>では<br>ティアマトの加護って呼んでたわけか。,我明白了，这种星晶兽之力的影响就可以解释在<span class='scene-font-place'>微风港群岛</span>的提亚马特的加护了吧。
-103,"And the seas of Auguste are tied to Leviathan... Well, it makes sense!",<span class='scene-font-place'>アウギュステ</span>の海と、<br>リヴァイアサンの関係は……<br>まぁ、言うまでもねぇか。,也可以解释<span class='scene-font-place'>奥古斯特</span>的海与利维坦之间的关系了吧，就是这么回事吗。
+103,"And the seas of 奥古斯特 are tied to Leviathan... Well, it makes sense!",<span class='scene-font-place'>アウギュステ</span>の海と、<br>リヴァイアサンの関係は……<br>まぁ、言うまでもねぇか。,也可以解释<span class='scene-font-place'>奥古斯特</span>的海与利维坦之间的关系了吧，就是这么回事吗。
 104,"But, what about Luminiera's power on 阿尔比恩?",しかし、<span class='scene-font-place'>アルビオン</span>の<br>シュヴァリエのような例は……？,但是，<span class='scene-font-place'>阿尔比昂</span>的修瓦利耶怎么说呢？
 105,"Of course, there are a few exceptions.",もちろん、ある程度の例外はあるわ。,当然，也有一些例外。
 106,"Nevertheless, each primal beast with a map piece has a powerful connection to its island.",けれど共通している事として、<br>空図の欠片を持つ星晶獣は、<br>各々島と強い繋がりを持っているの。,然而，作为共同点的是，持有空图碎片的星晶兽，都与各个岛之间维持着很强的联系。
