@@ -564,11 +564,3 @@ body #cnt-room-index .prt-room-members .prt-view-menu .prt-global-chat-log .btn-
   background: url(/blhxfy/data/static/image/btn-chat-log-coop.png) no-repeat 0 1px;
   background-size: 265px 27px;
 }
-
-body .cnt-setting [id^=prt-setting-index] .btn-setting-graphics {
-  background: url(/blhxfy/data/static/image/setting-thumb.png?404) no-repeat 0 -189px;
-}
-
-body .cnt-setting [id^=prt-setting-index] .location-href {
-  background-size: 92px auto;
-}
