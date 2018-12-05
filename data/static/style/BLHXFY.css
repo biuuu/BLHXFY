@@ -74,6 +74,12 @@ body .prt-buttons-enhance .btn-change.party-npc::after {
 body div#pop-deck div.prt-register div.btn-usual-register::after {
   content: "复制当前队伍配置到此队伍" !important;
 }
+body .pop-cleared-episode .btn-episode-event::after {
+  content: '只看剧情';
+}
+body .btn-usual-questlist::after {
+  content: "去任务列表";
+}
 body .prt-user-status .prt-user-bp .txt-bp-remaining::before {
   content: "还有";
 }
