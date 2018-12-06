@@ -1,6 +1,6 @@
 ﻿id,en,jp,trans
 0-chapter_name,,第20章　のぞむ空,第20章  冀愿的天空
-0-synopsis,,シュヴァリエの力と空図の欠片を手に入れた姬塔一行。解放されたヴィーラとも和解し、戦いで傷ついたグランサイファーを修理すべく、姬塔一行は次の針路をガロンゾに決めるのだった。,姬塔一行得到了星晶兽「修瓦利耶」的力量与空图，也和获得解放的维拉达成了和解。众人为修理在战斗中损伤的格兰塞法，决定前往下一个目的地加隆佐。
+0-synopsis,,シュヴァリエの力と空図の欠片を手に入れた姬塔一行。解放されたヴィーラとも和解し、戦いで傷ついたグランサイファーを修理すべく、姬塔一行は次の針路をガロンゾに決めるのだった。,姬塔一行得到了星晶兽「修瓦利耶」的力量与空图，也和获得解放的维拉达成了和解。众人为修理在战斗中损伤的格兰赛法，决定前往下一个目的地加隆佐。
 1,,"<span class='scene-font-katari'>姬塔一行は、</span><br>
 <span class='scene-font-katari'>星晶獣シュヴァリエを、</span><br>
 <span class='scene-font-katari'>再び退けることに成功した。</span>",<span class='scene-font-katari'>姬塔一行再次成功击退星晶兽「修瓦利耶」。</span>
@@ -88,7 +88,7 @@
 せっかくだから、<br>
 ゆっくりしてけばいいじゃない！",嗯？ 怎么了吗？这不是难得嘛，悠闲几天也挺好的！
 52,,"シュヴァリエを倒すときに、<br>
-グランサイファーでだいぶ無理したろ？",在我们对付星晶兽「修瓦利耶」的时候，让格兰塞法硬来了吧？
+グランサイファーでだいぶ無理したろ？",在我们对付星晶兽「修瓦利耶」的时候，让格兰赛法硬来了吧？
 53,,"それに、<br>
 ここまでの距離を飛んだダメージも、<br>
 機体全体に溜まってやがる。",而且一路走来承受的所有损伤也还都留在船体上。
@@ -126,7 +126,7 @@
 これで次の目的地は決まったな！",总之不去看看可不知道啊！接下来的目的地就这么定了！
 66,,"<span class='scene-font-katari'>グランサイファーを修理し、</span><br>
 <span class='scene-font-katari'>帝国の暗躍を探るため、</span><br>
-<span class='scene-font-katari'>一行は</span><span class='scene-font-place'>ガロンゾ</span><span class='scene-font-katari'>へと舵を切る。</span>",<span class='scene-font-katari'>众人为修理格兰塞法以及调查帝国的动作，向</span><span class='scene-font-place'>加隆佐</span><span class='scene-font-katari'>驶去。</span>
+<span class='scene-font-katari'>一行は</span><span class='scene-font-place'>ガロンゾ</span><span class='scene-font-katari'>へと舵を切る。</span>",<span class='scene-font-katari'>众人为修理格兰赛法以及调查帝国的动作，向</span><span class='scene-font-place'>加隆佐</span><span class='scene-font-katari'>驶去。</span>
 71,,"<span class='scene-font-katari'>しかし、果てなく続く空には、</span><br>
 <span class='scene-font-katari'>不穏な空気が満ちはじめていた。</span>",<span class='scene-font-katari'>头顶无尽的天空，充斥着不安的氛围。</span>
 info,,1,scene_cp20_q4_s30

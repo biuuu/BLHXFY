@@ -1,0 +1,47 @@
+﻿id,name,text,trans
+0-chapter_name,,6: And a Spring Forever Gone,无法来临的春天
+0-synopsis,,"Krelkulkil's life force continues to be drained as he runs through the forest. Sevilbarra catches up and vows to destroy his demon blade, but Krelkulkil has no intention of letting go. The rest of the crew soon arrives and assists Sevilbarra.",卡拉库拉奇尔的身心在他奔跑着的同时也被妖刀不断侵蚀着，追赶上来的萨比尔巴拉想要斩断妖刀，但是卡拉库拉奇尔表示绝对不会放手，于是赶上来的众人试图用武力强行夺取妖刀。
+2,Krelkulkil/卡拉库拉奇尔,...,……
+3,Krelkulkil/卡拉库拉奇尔,Ugh...,唔……啊！
+4,,The fleeing Harvin trips over a tree root buried under the snow and takes a tumble in the dark forest.,在黑暗的森林里，卡拉库拉奇尔被脚下的树根绊倒在地上。
+5,,"He tries to prop himself up using the katana he had violently ripped from Corwell, but his strength betrays him, and he sinks back into the snow.",他试图用从克洛威尔那里夺过来的妖刀支撑身体，但是因为没有力气而倒在雪地中。
+6,Krelkulkil/卡拉库拉奇尔,Not yet...,还没……
+7,Krelkulkil/卡拉库拉奇尔,I can still...,还没有……
+8,Krelkulkil/卡拉库拉奇尔,...,……
+15,Krelkulkil/卡拉库拉奇尔,Hm. Good. That should do.,哟……好了，做好了。
+16,Krelkulkil/卡拉库拉奇尔,"It's a little crooked, though you can't fault me for that considering how long it's been since I last did this.",稍微有点歪歪扭扭的，好久没有做这个了。
+17,Keralbarra/库拉芭拉,...,……
+18,Krelkulkil/卡拉库拉奇尔,"Say, Keralbarra, do you know the symbolism behind white clovers?",库拉芭拉，你知道白诘草的花语吗？
+19,Krelkulkil/卡拉库拉奇尔,"There are a couple of concepts, but I know of one in particular.",花语有不少，不过其中有一个是——
+20,Krelkulkil/卡拉库拉奇尔,It's <span class='scene-font-italic'>togetherness.</span>,“成为我的所有”。
+21,Krelkulkil/卡拉库拉奇尔,So I want you to have this.,所以……给你这个。
+22,,Krelkulkil places a crown of clovers onto Keralbarra's head.,卡拉库拉奇尔将白诘草花冠轻轻放在库拉芭拉头上。
+23,Krelkulkil/卡拉库拉奇尔,Keralbarra.,库拉芭拉。
+24,Krelkulkil/卡拉库拉奇尔,Will you marry me?,能成为……我的新娘吗？
+25,Keralbarra/库拉芭拉,...,……
+26,Krelkulkil/卡拉库拉奇尔,Keralbarra?,库拉芭拉？
+27,Krelkulkil/卡拉库拉奇尔,Huh? Why...,咦……为什么……怎么……
+28,Krelkulkil/卡拉库拉奇尔,Why can't I remember your face?,你的脸……不记得了……
+35,Krelkulkil/卡拉库拉奇尔,...!,……！
+36,Krelkulkil/卡拉库拉奇尔,Keralbarra! Keralbarra! Keralbarra!,库拉芭拉，库拉芭拉……库拉芭拉！
+37,Krelkulkil/卡拉库拉奇尔,"I promised to save you, promised to make you happy, promised to make you smile, promises, promises, promises!",我答应过保护你，帮助你，让你幸福，为了你，为了你的微笑，我，我，我……！
+38,Krelkulkil/卡拉库拉奇尔,Yaaagh!,啊啊……啊啊啊啊啊！
+40,Sevilbarra/萨比尔巴拉,Krelkulkil!,卡拉库拉奇尔！
+41,Krelkulkil/卡拉库拉奇尔,Raaagh!,啊啊啊啊啊啊啊啊啊啊啊！
+42,Sevilbarra/萨比尔巴拉,"Hold it together, Krelkulkil!",卡拉库拉奇尔，坚持住！
+43,Sevilbarra/萨比尔巴拉,You're going to die if you don't listen to me! Throw away the demon blade! Quickly!,再这样下去的话你会死的，快松开妖刀！
+44,Krelkulkil/卡拉库拉奇尔,Never! I'll never relinquish it! Especially not now!,不要！我绝对不会放手，尤其是现在！
+45,Sevilbarra/萨比尔巴拉,You're above the demon blade!,妖刀什么的不可能比你的生命更重要！
+46,Sevilbarra/萨比尔巴拉,Get rid of it! I will destroy it!,把手拿开，由我来斩断！
+47,Sevilbarra/萨比尔巴拉,Then this will all be over!,然后就结束了……！
+48,Krelkulkil/卡拉库拉奇尔,There is no end!,才不会结束！
+51,Sevilbarra/萨比尔巴拉,Ergh!,唔呃！
+53,Vyrn/碧,姬塔! I heard Straw Hat Guy's voice coming from over there!,姬塔！从这边传来了斗笠小哥的声音！
+54,Lyria/露莉亚,Sevilbarra! Krelkulkil!,萨比尔巴拉先生！卡拉库拉奇尔先生！
+55,Sevilbarra/萨比尔巴拉,姬塔! Vyrn! Lyria!,碧！露莉亚！
+57,Lyria/露莉亚,Sevilbarra!,萨比尔巴拉先生！
+58,Osada/阿贞,Bruv Krelkulkil!,卡拉库拉奇尔小哥！
+59,Sevilbarra/萨比尔巴拉,"I have to get the demon blade away from him! Lend me your aid, 姬塔!",我必须从卡拉库拉奇尔手中夺走妖刀，帮帮我，姬塔！
+60,Vyrn/碧,"We got your back! Let's do this, 姬塔!",交给我们吧，我们上，姬塔！
+61,Krelkulkil/卡拉库拉奇尔,Over my. Dead. Bodyyy!,想得美……！
+info,,,scene_evt181130_cp6_q4_s20

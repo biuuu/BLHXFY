@@ -71,8 +71,14 @@ body .prt-buttons .btn-change.party-npc::after,
 body .prt-buttons-enhance .btn-change.party-npc::after {
   content: "替换角色";
 }
-body #pop-deck .prt-register .btn-usual-register::after {
-  content: "复制到这个队伍";
+body div#pop-deck div.prt-register div.btn-usual-register::after {
+  content: "复制当前队伍配置到此队伍" !important;
+}
+body .pop-cleared-episode .btn-episode-event::after {
+  content: '只看剧情';
+}
+body .btn-usual-questlist::after {
+  content: "去任务列表";
 }
 body .prt-user-status .prt-user-bp .txt-bp-remaining::before {
   content: "还有";
@@ -563,4 +569,37 @@ body .prt-global-chat-log .btn-chat-log {
 body #cnt-room-index .prt-room-members .prt-view-menu .prt-global-chat-log .btn-chat-log {
   background: url(/blhxfy/data/static/image/btn-chat-log-coop.png) no-repeat 0 1px;
   background-size: 265px 27px;
+}
+
+body .cnt-setting [id^=prt-setting-index] .btn-setting-graphics {
+  background: url(/blhxfy/data/static/image/setting-thumb.png?lacia) no-repeat 0 -180px;
+  background-size: 92px auto;
+}
+body .cnt-setting [id^=prt-setting-index] .btn-setting-sound {
+  background: url(/blhxfy/data/static/image/setting-thumb.png?lacia) no-repeat 0 -360px;
+  background-size: 92px auto;
+}
+body .cnt-setting [id^=prt-setting-index] .btn-setting-battle {
+  background: url(/blhxfy/data/static/image/setting-thumb.png?lacia) no-repeat 0 0;
+  background-size: 92px auto;
+}
+body .cnt-setting [id^=prt-setting-index] .btn-setting-chat {
+  background: url(/blhxfy/data/static/image/setting-thumb.png?lacia) no-repeat 0 -300px;
+  background-size: 92px auto;
+}
+body .cnt-setting [id^=prt-setting-index] .btn-setting-mypage {
+  background: url(/blhxfy/data/static/image/setting-thumb.png?lacia) no-repeat 0 -60px;
+  background-size: 92px auto;
+}
+body .cnt-setting [id^=prt-setting-index] .btn-setting-public {
+  background: url(/blhxfy/data/static/image/setting-thumb.png?lacia) no-repeat 0 -240px;
+  background-size: 92px auto;
+}
+body .cnt-setting [id^=prt-setting-index] .btn-setting-useful {
+  background: url(/blhxfy/data/static/image/setting-thumb.png?lacia) no-repeat 0 -420px;
+  background-size: 92px auto;
+}
+body .cnt-setting [id^=prt-setting-index] .btn-setting-questuseful {
+  background: url(/blhxfy/data/static/image/setting-thumb.png?lacia) no-repeat 0 -120px;
+  background-size: 92px auto;
 }

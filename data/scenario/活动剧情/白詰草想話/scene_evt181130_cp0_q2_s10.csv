@@ -1,0 +1,97 @@
+﻿id,name,text,trans
+0-chapter_name,,Ending,结局
+0-synopsis,,"Sevilbarra subdues Krelkulkil and knocks the demon blade out of his hands. The latter pleads for mercy, contesting that Keralbarra's soul is trapped within the blade and might still be saved. Sevilbarra loses composure for a moment, giving Krelkulkil the chance to snatch the demon blade back and make off. Sevilbarra is now more determined than ever to track down his friend to prevent any further tragedy.",萨比尔巴拉打败了卡拉库拉奇尔，将妖刀从他的手中打飞。但是卡拉库拉奇尔恳求萨比尔巴拉不要折断妖刀，因为库拉芭拉的灵魂就被困在妖刀中，并且有可能得救，趁着萨比尔巴拉分神的一瞬间，卡拉库拉奇尔将妖刀夺回逃走了。从那以后，萨比尔巴拉更加坚定了寻找卡拉库拉奇尔并阻止任何可能的悲剧的决心。
+1,Sevilbarra/萨比尔巴拉,Teyaah!,斩啊啊啊啊啊！
+7,Krelkulkil/卡拉库拉奇尔,Gah!,唔！
+8,,Sevilbarra's all-out blow sends the demon blade flying from Krelkulkil's hand. The blade sticks out from a snowbank a few paces away.,萨比尔巴拉倾尽全力的一击将妖刀从卡拉库拉奇尔手中弹飞，落到几步以外的雪地上。
+10,Sevilbarra/萨比尔巴拉,I'm putting an end to this.,这样就结束了。
+11,Krelkulkil/卡拉库拉奇尔,"You can't, Sevilbarra!",不行，萨比尔巴拉！
+14,,"Sevilbarra goes to pull the blade from the snow, but Krelkulkil clings to the samurai to stop him.",萨比尔巴拉正想从雪中拔出妖刀，但卡拉库拉奇尔紧紧抓住了他。
+15,Sevilbarra/萨比尔巴拉,"Let go of me, Krelkulkil! You're attached to the blade because you're under its spell!",放手，卡拉库拉奇尔！你这个样子，是因为被妖刀迷惑了心智！
+16,Sevilbarra/萨比尔巴拉,Destroying every trace of it is for the best!,这种东西，赶快把它折断才是最好的！
+17,Krelkulkil/卡拉库拉奇尔,That's not it!,不对！
+18,Sevilbarra/萨比尔巴拉,Stop being stubborn!,执迷不悟！
+19,Krelkulkil/卡拉库拉奇尔,Keralbarra exists inside the blade!,这里面有库拉芭拉！
+20,Sevilbarra/萨比尔巴拉,Wha... What did you say?,……什么？说什么呢。
+21,Krelkulkil/卡拉库拉奇尔,"You remember what that blade's power is, don't you? The more souls it takes, the sharper it becomes!",萨比尔巴拉，你知道那振妖刀的能力吧，只要越是斩杀，刀刃就越是锋利。
+22,Sevilbarra/萨比尔巴拉,"Yes, but that's just its X factor!",那个，那个妖刀其中的【何物】的力量吧！
+23,Krelkulkil/卡拉库拉奇尔,No! That's not all it is!,不只是这个！
+24,Krelkulkil/卡拉库拉奇尔,The grudge of each soul taken by the blade is added to its edge!,这振妖刀把杀死的人的灵魂吸收进去，并通过不断折磨他们而产生怨念来增强刀刃！
+25,Sevilbarra/萨比尔巴拉,Which makes it dangerous!,那就……！
+26,Sevilbarra/萨比尔巴拉,Now is the time to destroy it for good! It's brought enough suffering to Keralbarra and countless others!,更要折断这振妖刀了！如果库拉芭拉，还有其他人……被囚禁在这把妖刀所带来的痛苦中的话！
+27,Krelkulkil/卡拉库拉奇尔,"If we use the sliver extracting technique, we can pull Keralbarra's soul from the demon blade!",如果对这振妖刀使用抽取【何物的碎片】的咒术，就能把库拉芭拉的灵魂从妖刀中抽取出来！
+28,Krelkulkil/卡拉库拉奇尔,"Think about it, Sevilbarra! We can <span class='scene-font-italic'>save</span> her!",我们能救她！
+29,Sevilbarra/萨比尔巴拉,...!,……！
+30,Krelkulkil/卡拉库拉奇尔,You can't stop me!,所以！
+34,,"Sevilbarra drops his guard for just an instant. That's all Krelkulkil needs to push the other Harvin away, grab the demon blade, and take off running.",趁着萨比尔巴拉愣神的一瞬间，卡拉库拉奇尔推开了他，将妖刀抓在手里，不顾一切地向前奔跑。
+35,Krelkulkil/卡拉库拉奇尔,...!,……！
+38,Osada/阿贞,Bruv Krelkulkil!,卡拉库拉奇尔小哥！
+39,Osada/阿贞,Bruv... Wait...,小哥！等等……
+40,Garoza/加罗萨,Osada...,阿贞……
+41,Sevilbarra/萨比尔巴拉,Damn it!,……该死！
+42,Sevilbarra/萨比尔巴拉,How could I let myself be taken in like that?,我居然会动摇什么的……！
+43,Lyria/露莉亚,Sevilbarra...,萨比尔巴拉先生。
+44,Sevilbarra/萨比尔巴拉,Demon blades sow misery throughout the skies. They're a curse that affects wielders and victims alike!,妖刀对于整个世界都只会带来不幸，不管是对于使用者，还是对于受害者，那种东西都是诅咒！
+45,Sevilbarra/萨比尔巴拉,Why didn't I notice it sooner?,为什么我不早点察觉到这一点呢！
+46,Sevilbarra/萨比尔巴拉,Why didn't I destroy it when I had the chance? If only I had—,为什么我不立刻折断它呢！这样的话……！
+47,Lyria/露莉亚,Sevilbarra!,萨比尔巴拉先生！
+48,Lyria/露莉亚,"If Krelkulkil's right, then your sister and others are still suffering inside the demon blade!",如果卡拉库拉奇尔先生说的话是正确的，现在你妹妹的灵魂正被困在妖刀中受到折磨！
+49,Lyria/露莉亚,There are souls that need saving! Like Keralbarra and Krelkulkil!,让我们来帮助他们吧！你的妹妹，其他人，还有卡拉库拉奇尔先生也是……！
+50,Sevilbarra/萨比尔巴拉,Lyria...,露莉亚……
+51,,Sevilbarra sinks to his knees from emotional stress. 姬塔 offers him a supportive hand.,姬塔向颓然跪倒的萨比尔巴拉伸出手。
+52,Sevilbarra/萨比尔巴拉,姬塔...,姬塔……
+53,Sevilbarra/萨比尔巴拉,That's right. I have a mission to accomplish. Now is not the time to break down and cry.,没错，我还有任务没有完成，现在不是我放弃的时候。
+54,Sevilbarra/萨比尔巴拉,The demon blade mustn't be allowed to spread more tragedy!,为了阻止妖刀带来更多的悲剧，这次一定要！
+55,,"Everyone gives a firm nod, and they begin to search for Krelkulkil who has disappeared.",姬塔众人互相点头，开始四处寻找卡拉库拉奇尔。
+56,,"But he's nowhere to be found, as if swallowed up by the snow.",但是他的身影就像是被雪吞没了一样毫无踪迹。
+62,,姬塔 and company inform the elder of what came to pass and prepare to depart for the next island to look for Krelkulkil.,姬塔众人向长老传达了事情的结果，由于卡拉库拉奇尔可能已经去了其他的岛屿，所以他们准备离开。
+68,Lyria/露莉亚,"If we find anything about Krelkulkil, we'll send you a letter, Osada.",阿贞，如果我们找到了任何有关卡拉库拉奇尔先生的消息，会给阿贞写信的。
+69,Osada/阿贞,Thank you. Pops and I will keep looking on our end.,谢谢你们了，我和老爸也会四处寻找他的。
+70,Garoza/加罗萨,Huh? Me too?,哎，我也要？
+71,Osada/阿贞,"Problem, Pops?",……老爸。
+72,Garoza/加罗萨,"It was just a joke, Osada! You don't need to give me the stink eye, geez!",阿贞，开个玩笑啦，真的！所以别那样看着我啦……
+73,,"After leaving Garoza and Osada, the crew returns to the airship and takes to the skies.",离开了加罗萨和阿贞，众人登上骑空艇踏上了天空的旅程。
+78,,A few days later the Lumiel Order of Holy Knights arrives at the elder's estate to retrieve Corwell's body.,几天后，卢米埃圣骑士团来到长老的宅邸认领克洛威尔的遗体。
+79,Sevastien/塞瓦斯提安,I'm afraid what I'm about to say may not mean much at this point.,虽然现在说这话已经有点晚了。
+80,Sevastien/塞瓦斯提安,"Had the punishment for breaking the holy knights' austere policies not been so inflexible, perhaps this boy wouldn't have strayed from the path of righteousness.",如果没有圣骑士团苛刻的方针和刻板的镇压，他就不会走上这般邪路。
+81,Sevastien/塞瓦斯提安,"Were that the case, I dare say the victims would still be alive today.",不走上邪路，那些受害人也不会死去。
+82,Sevastien/塞瓦斯提安,"As a member of the order, it is one of my deepest regrets.",作为圣骑士团的一员，我深感遗憾。
+83,Elder/老人,"It's a waste of time crying over ""what-ifs."" The fact is it happened the way it did.",往事已经发生了，遗憾也没有什么意义了。
+84,Sevastien/塞瓦斯提安,Right you are. But what stands out to me is the aftermath of this all.,如您所说，不过，我关心的是在那之后的事情……
+85,Sevastien/塞瓦斯提安,Corwell's collection of demon blades and magic swords followed his ship to the bottom of the sky.,克洛威尔收集的妖刀和魔剑，和他的骑空艇一起坠落到天空的底部了。
+86,Sevastien/塞瓦斯提安,The only solace I can take from the result of this incident is that those weapons won't be able to claim any new victims.,那些武器不会再次为祸世间，或许也是值得高兴的成果吧。
+87,Elder/老人,I pray you are right on that matter.,我也希望是这样的。
+88,,Sevastien offers final words of thanks. The holy knights lift Corwell's coffin and leave the estate.,塞瓦斯提安向老人表达了最后的谢意，随后圣骑士团和克洛威尔的棺材一起离开了宅邸。
+93,Elder/老人,"They fell to the bottom of the sky... What a waste. What a research boon they would have been, or dare I say...",坠落到天空的底部吗……真是可惜啊，如果用在研究上的话，或许……
+94,Elder/老人,"Bah, it doesn't matter anymore.",这也是，无法改变的事啊。
+100,Sevilbarra/萨比尔巴拉,Keralbarra.,库拉芭拉……
+106,Sevilbarra/萨比尔巴拉,It's a good thing the clovers are still in bloom. We need them as materials.,还是白诘草开放的季节实在是太好了，这样就不会缺少材料了。
+107,Sevilbarra/萨比尔巴拉,"Good lord, the ceremony is tomorrow and yet your luggage continues to grow heavier by the hour.",哎呀哎呀，明天就是典礼了，到现在行李变得越来越沉是怎么回事啊。
+108,Keralbarra/库拉芭拉,"Just when I thought I was done, I went to tidy up the storehouse, and so many memories came flooding back.",最后一次清理仓库的时候，发现了很多令人怀念的东西啊。
+109,Sevilbarra/萨比尔巴拉,"Yeah, there's quite a bit of nostalgia tucked away in there. Like the yukata Mother made for you when you were younger.",嘛，的确有不少令人怀念的东西，就像你小时候妈妈给你做的浴衣。
+110,Sevilbarra/萨比尔巴拉,It'd look lovely on my future niece.,正好如果我的侄女出生了就给她穿上好了。
+111,Keralbarra/库拉芭拉,Mm-hm. I'll make sure I pass it down to her.,嗯，我会这么做的。
+112,Sevilbarra/萨比尔巴拉,"Now that you and the storehouse are taken care of, your brother here can retire in peace!",仓库和你的行李都收拾好了，哥哥终于可以休息了！
+113,Keralbarra/库拉芭拉,Brother...,哥哥。
+114,Sevilbarra/萨比尔巴拉,Yes?,嗯？怎么了？
+115,Keralbarra/库拉芭拉,"Once I'm wed, I worry that there'll be no one to nag you.",我担心自己嫁人以后，就没有人照顾哥哥了。
+116,Keralbarra/库拉芭拉,Do you or your disciples know how to cook? Can you do your own laundry? Do you know how to use dried seaweed? And you can't put off cleaning the dojo—,你能给弟子们做饭吗？能洗衣服吗？紫菜的制作方法知道吗？还得打扫道场，还有……
+117,Sevilbarra/萨比尔巴拉,Hahaha! On the contrary it's going to be fun not having a fusspot around.,哈哈哈哈，没有你在我身边说这说那，说不定我还挺开心呢！
+118,Sevilbarra/萨比尔巴拉,"Krelkulkil's in for the ride of his life. He's a nice guy, which is why I think he'll have his work cut out for him.",卡拉库拉奇尔以后一定会很辛苦的，那家伙说不定因为善良而比我更辛苦呢！
+119,Keralbarra/库拉芭拉,"Come on, Brother. Why are you always so flippant!",真是，老哥到这个时候了，还在油嘴滑舌的！
+120,Sevilbarra/萨比尔巴拉,What I'm trying to say is you don't have to worry about me.,不用担心我了，你就放心吧。
+121,Keralbarra/库拉芭拉,But...,但是……
+122,Sevilbarra/萨比尔巴拉,Keralbarra. Our dear mother once said she named you after white clovers.,库拉芭拉，我们去世的母亲说过，你的名字是来源于白诘草。
+123,Keralbarra/库拉芭拉,Yeah.,嗯。
+124,Sevilbarra/萨比尔巴拉,Clovers are a symbol of good fortune.,白诘草的花语是“幸运”。
+125,Sevilbarra/萨比尔巴拉,So go grab that good fortune you deserve as your name implies. That's the best I have to offer as your older brother.,所以抓住好运气，快乐起来吧，那是哥哥能给你的一切了。
+126,Keralbarra/库拉芭拉,Thank you!,嗯！
+132,Sevilbarra/萨比尔巴拉,"Good fortune, huh?",幸运，吗。
+133,Sevilbarra/萨比尔巴拉,...,……
+134,Sevilbarra/萨比尔巴拉,"Hey, Keralbarra. Did you know there's another meaning behind white clovers?",库拉芭拉，白诘草的花语，其实还有一个……
+135,Sevilbarra/萨比尔巴拉,It's quite different from fortune. And that would be...,那就是……那是……
+136,Sevilbarra/萨比尔巴拉,Revenge.,“复仇”……
+142,,A few words offered to a dearly departed sister are delivered on the updrafts stirred by the Grandcypher as it flies through the sky.,对逝去的妹妹所说的低吟，卷入飞翔的格兰赛法周围的风中。
+143,,"Sullen snow, innocent and pure, falls from sorrowful clouds of winter, paving the way to the future in white.",悲伤的雪花飞舞着，从冷冬的阴云中旋转而出，将未来的路隐藏在纯白之中。
+145,,The End,结局。
+info,,,scene_evt181130_cp0_q2_s10
