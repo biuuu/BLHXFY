@@ -1,7 +1,7 @@
 ﻿id,en,jp,trans
 0-chapter_name,,第57章　決戦への導き,第57章  决战前夕
-0-synopsis,,騎空艇グランサイファーで仲間達と合流する姬塔。お互いに情報を共有するものの、明らかにアダムの存在が矛盾してしまう。アダムは姬塔一行に対し改めて、エルステ帝国に引導を渡してくれるよう願う。世界の危機を止めるため、一行はその願いに応じるも、未だオルキスを巡り黒騎士との衝突は続く。,姬塔等人回到格兰塞法与同伴们交换情报，发现亚当同时存在于两个地方。而亚当再次请求众人送埃尔斯特帝国最后一程。众人为了制止这场世界规模的危机，答应了他的请求。但在有关欧尔姬丝的问题上，众人和黑骑士之间还存在着冲突。
-0,,<span class='scene-font-place'>帝都アガスティア</span><span class='scene-font-katari'>から距離を取り、</span><br><span class='scene-font-katari'>静かな空を進むグランサイファー。</span>,<span class='scene-font-katari'>格兰塞法驶离</span><span class='scene-font-place'>帝国首都阿加丝提亚</span><span class='scene-font-katari'>，在静谧的空中航行。</span>
+0-synopsis,,騎空艇グランサイファーで仲間達と合流する姬塔。お互いに情報を共有するものの、明らかにアダムの存在が矛盾してしまう。アダムは姬塔一行に対し改めて、エルステ帝国に引導を渡してくれるよう願う。世界の危機を止めるため、一行はその願いに応じるも、未だオルキスを巡り黒騎士との衝突は続く。,姬塔等人回到格兰赛法与同伴们交换情报，发现亚当同时存在于两个地方。而亚当再次请求众人送埃尔斯特帝国最后一程。众人为了制止这场世界规模的危机，答应了他的请求。但在有关欧尔姬丝的问题上，众人和黑骑士之间还存在着冲突。
+0,,<span class='scene-font-place'>帝都アガスティア</span><span class='scene-font-katari'>から距離を取り、</span><br><span class='scene-font-katari'>静かな空を進むグランサイファー。</span>,<span class='scene-font-katari'>格兰赛法驶离</span><span class='scene-font-place'>帝国首都阿加丝提亚</span><span class='scene-font-katari'>，在静谧的空中航行。</span>
 1,,<span class='scene-font-katari'>その甲板では、ビィとオイゲンが、</span><br><span class='scene-font-katari'>驚きの声をあげていた。</span>,<span class='scene-font-katari'>阿碧和欧根来到甲板上，不禁发出惊讶的声音。</span>
 2,,おまっ……！<br>え、あれ？<br>オ、オイラが何か勘違いしてんのか？,你……！咦？咱、是不是搞错了什么？
 3,,いやぁ……<br>確かにあの場を<br>任せてきちまったと思うんだが……,不对啊……我记得那时你为了掩护我们逃走……
@@ -10,11 +10,11 @@
 6,,姬塔さん達はこの方と、<br>面識があるんですか？,姬塔，你们也遇见过他吗？
 7,,面識があるも何も……<br>こいつは<span class='scene-font-place'>アガスティア</span>で我々に<br>全ての事の真相を明かし……,岂止是遇见……他在<span class='scene-font-place'>阿加丝提亚</span>把所有的真相都告诉我们了……
 8,,その後、帝国兵から我々を逃がすために、<br>奴らに捕まったものだと<br>思っていたのだがな……,而且他还掩护我们逃走……我还以为他已经被帝国抓了……
-9,,<span class='scene-font-place'>アガスティア</span><span class='scene-font-katari'>潜入組と、</span><br><span class='scene-font-katari'>グランサイファー待機組は、</span><br><span class='scene-font-katari'>それぞれ何があったのかを共有する。</span>,<span class='scene-font-katari'>潜入</span><span class='scene-font-place'>阿加丝提亚</span><span class='scene-font-katari'>的小队和留在格兰塞法的小队互相交换了各自的情报。</span>
+9,,<span class='scene-font-place'>アガスティア</span><span class='scene-font-katari'>潜入組と、</span><br><span class='scene-font-katari'>グランサイファー待機組は、</span><br><span class='scene-font-katari'>それぞれ何があったのかを共有する。</span>,<span class='scene-font-katari'>潜入</span><span class='scene-font-place'>阿加丝提亚</span><span class='scene-font-katari'>的小队和留在格兰赛法的小队互相交换了各自的情报。</span>
 10,,<span class='scene-font-katari'>しかし、そんな中で、</span><br><span class='scene-font-katari'>明らかに矛盾するひとりの男の存在に、</span><br><span class='scene-font-katari'>皆は首をかしげるのだった。</span>,<span class='scene-font-katari'>然而，两方的说辞中明显存在矛盾。这让众人都觉得奇怪。</span>
 11,,…………,
 12,,聞けば聞くほどおかしな状況だな……,越听越奇怪啊……
-13,,彼がグランサイファーを訪ねてきたのは、<br><span class='scene-font-place'>アガスティア</span>で姬塔達と、<br>出会った頃のはずなんだが……,他造访格兰塞法和在<span class='scene-font-place'>阿加丝提亚</span>遇见你们应该是同一时间段……
+13,,彼がグランサイファーを訪ねてきたのは、<br><span class='scene-font-place'>アガスティア</span>で姬塔達と、<br>出会った頃のはずなんだが……,他造访格兰赛法和在<span class='scene-font-place'>阿加丝提亚</span>遇见你们应该是同一时间段……
 14,,おいおい……<br>まさかとは思うけど、<br>何か企んでんじゃねぇよな……？,喂喂……你该不会有什么阴谋吧……？
 15,,で、でも！<br>この人、<span class='scene-font-place'>アガスティア</span>で、<br>あたし達のこと助けてくれたし……,可、可是！他在<span class='scene-font-place'>阿加丝提亚</span>还救了我们……
 16,,姬塔さん達の元へ<br>駆けつけることが出来たのも、<br>彼が隠し港を教えてくれたからですね。,我们能够及时赶到你们那里，也多亏他告诉了我们秘密港口的位置。

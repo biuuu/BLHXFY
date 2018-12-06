@@ -1,8 +1,8 @@
 ﻿id,en,jp,trans
 0-chapter_name,,第54章　崩壊の狼煙,第54章  崩毁的狼烟
-0-synopsis,,姬塔一行が帝都へ向かう中、グランサイファーに残った面々は気が気でなかった。特にルリアと常に共にあったカタリナは落ち着きなく右往左往と歩き回ってしまう。ラカム、リーシャ、オルキスはそんな彼女を姬塔達がついているから大丈夫だと励ます。しかしこの時、グランサイファーに一隻の怪しい小型艇が近づいていた。,在姬塔一行前往首都时，留在格兰塞法的众人也感到坐立不安。无法见到露莉亚的卡塔莉娜更是在甲板上来回踱步。拉卡姆、莉夏和欧尔姬丝安慰她露莉亚有姬塔等人保护，一定会平安无事。而这时，一艘可疑的小型艇正在接近格兰塞法。
+0-synopsis,,姬塔一行が帝都へ向かう中、グランサイファーに残った面々は気が気でなかった。特にルリアと常に共にあったカタリナは落ち着きなく右往左往と歩き回ってしまう。ラカム、リーシャ、オルキスはそんな彼女を姬塔達がついているから大丈夫だと励ます。しかしこの時、グランサイファーに一隻の怪しい小型艇が近づいていた。,在姬塔一行前往首都时，留在格兰赛法的众人也感到坐立不安。无法见到露莉亚的卡塔莉娜更是在甲板上来回踱步。拉卡姆、莉夏和欧尔姬丝安慰她露莉亚有姬塔等人保护，一定会平安无事。而这时，一艘可疑的小型艇正在接近格兰赛法。
 0,,<span class='scene-font-katari'>姬塔達が、</span><br><span class='scene-font-katari'>順調に帝都へと向かっていた</span><br><span class='scene-font-katari'>その頃……</span>,<span class='scene-font-katari'>在姬塔等人不断向首都挺进的同时……</span>
-3,,<span class='scene-font-katari'>グランサイファーでは、</span><br><span class='scene-font-katari'>カタリナが忙しなく</span><br><span class='scene-font-katari'>辺りを歩き回っていた。</span>,<span class='scene-font-katari'>格兰塞法上，卡塔莉娜正在焦急地来回踱步。</span>
+3,,<span class='scene-font-katari'>グランサイファーでは、</span><br><span class='scene-font-katari'>カタリナが忙しなく</span><br><span class='scene-font-katari'>辺りを歩き回っていた。</span>,<span class='scene-font-katari'>格兰赛法上，卡塔莉娜正在焦急地来回踱步。</span>
 4,,…………,
 5,,やれやれ……<br>なかなか珍しい光景だな、こりゃ……,哎呀……她这个样子还真难得一见……
 6,,あ、あの……<br>カタリナさん……<br>ひとまず落ち着きませんか？,那、那个……卡塔莉娜……先冷静点吧？
@@ -38,6 +38,6 @@
 37,,ちっ……<br>なーんか胡散くせぇな……,切……感觉很可疑啊……
 38,,念のため、<br>もうちょい<span class='scene-font-place'>アガスティア</span>から<br>距離を取っとくか……,保险起见，我们离<span class='scene-font-place'>阿加丝提亚</span>再远一些吧……
 39,,…………,
-40,,<span class='scene-font-katari'>ラカムは舵を切り、</span><br><span class='scene-font-katari'>謎の小型艇から距離を置くよう</span><br><span class='scene-font-katari'>グランサイファーを動かす。</span>,<span class='scene-font-katari'>拉卡姆驾驶格兰塞法与神秘的小型艇保持距离。</span>
-41,,<span class='scene-font-katari'>しかし、謎の小型艇は確実に、</span><br><span class='scene-font-katari'>グランサイファーとの距離を</span><br><span class='scene-font-katari'>詰めつつあるのだった。</span>,<span class='scene-font-katari'>然而，这艘小型骑空艇还是与格兰塞法越来越近。</span>
+40,,<span class='scene-font-katari'>ラカムは舵を切り、</span><br><span class='scene-font-katari'>謎の小型艇から距離を置くよう</span><br><span class='scene-font-katari'>グランサイファーを動かす。</span>,<span class='scene-font-katari'>拉卡姆驾驶格兰赛法与神秘的小型艇保持距离。</span>
+41,,<span class='scene-font-katari'>しかし、謎の小型艇は確実に、</span><br><span class='scene-font-katari'>グランサイファーとの距離を</span><br><span class='scene-font-katari'>詰めつつあるのだった。</span>,<span class='scene-font-katari'>然而，这艘小型骑空艇还是与格兰赛法越来越近。</span>
 info,,1,scene_cp54_q3_s10

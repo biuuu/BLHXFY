@@ -1,7 +1,7 @@
 ﻿id,en,jp,trans
 0-chapter_name,,花創の淑女,创花淑女
 0-synopsis,,とある街で、魔法で無数の花を生み出す女性、レナに出会う姬塔一行。一行が星晶獣と戦いながら旅を続けていることにレナは興味を持つ。自らにかけられた花を咲かせ続けなければ体が植物化していく魔法を解くため、レナはルリアの誘いを受け、一行の旅に加わることを決める。,姬塔一行在某个地方遇见了一位能用魔法创造出无数花朵的女性蕾娜。听说姬塔一行在旅途中与各种各样的星晶兽战斗，蕾娜表示出兴趣，并坦白她身中一种魔法，必须不停让花开放，否则她自身会渐渐变成植物。为了解除魔法，蕾娜接受了露莉亚的邀请加入骑空团。
-0,,<span class='scene-font-katari'>グランサイファーの整備のために</span><br><span class='scene-font-katari'>とある街を訪れた姬塔一行。</span>,<span class='scene-font-katari'>姬塔一行为保养格兰塞法来到了某座城市。</span>
+0,,<span class='scene-font-katari'>グランサイファーの整備のために</span><br><span class='scene-font-katari'>とある街を訪れた姬塔一行。</span>,<span class='scene-font-katari'>姬塔一行为保养格兰赛法来到了某座城市。</span>
 1,,<span class='scene-font-katari'>ラカム達が部品の調達に</span><br><span class='scene-font-katari'>出ている間、</span><br><span class='scene-font-katari'>食糧の買い出しをしていたのだが……</span>,<span class='scene-font-katari'>拉卡姆等人前去购置零件，而姬塔他们负责购买食品……</span>
 2,,ごきげんよう。<br>お花はいかが？<br>お嬢ちゃん。,贵安，要买朵花吗，小妹妹？
 3,,わぁ！　素敵なお花！,哇！好好看的花！
@@ -113,6 +113,6 @@
 115,,私達の騎空艇を、<br>レナさんのお花で<br>思いっきり可愛くしてください！,请蕾娜用花尽情装点我们的骑空艇吧！
 116,,うふふ、飾り甲斐がありそうねぇ～<br>じゃあ、行きましょうか♪,呵呵，看来值得下一番工夫呢~<br>那么我们走吧♪
 117,,……今日は良い日だわぁ。<br>幸せひとつ、見つけちゃった♪,……今天真幸运呢。<br>又找到了一件幸福的事♪
-118,,<span class='scene-font-katari'>ルリアのわがままにウィンクで応え、</span><br><span class='scene-font-katari'>グランサイファーへと向かうレナ。</span><br><span class='scene-font-katari'>騎空艇を前に、レナは杖を振るった。</span>,<span class='scene-font-katari'>蕾娜眨眼答应露莉亚任性的请求，和姬塔等人一起回到格兰塞法。在骑空艇前，蕾娜挥下魔杖。</span>
+118,,<span class='scene-font-katari'>ルリアのわがままにウィンクで応え、</span><br><span class='scene-font-katari'>グランサイファーへと向かうレナ。</span><br><span class='scene-font-katari'>騎空艇を前に、レナは杖を振るった。</span>,<span class='scene-font-katari'>蕾娜眨眼答应露莉亚任性的请求，和姬塔等人一起回到格兰赛法。在骑空艇前，蕾娜挥下魔杖。</span>
 119,,<span class='scene-font-katari'>山盛りの花で飾り付けられた騎空艇を</span><br><span class='scene-font-katari'>見て、調達から戻ったラカムは</span><br><span class='scene-font-katari'>腰を抜かすのであった。</span>,<span class='scene-font-katari'>等到拉卡姆归来见到满是山花的骑空艇，不禁大吃一惊。</span>
 info,,1,scene_fate_chr091_ep1
