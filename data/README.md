@@ -19,7 +19,7 @@ scenario 目录存放所有剧情文本。
 
 这里是目前代码库里已有的[日文名](https://github.com/BLHXFY-Group/BLHXFY/blob/master/data/npc-name-jp.csv) 以及 [英文名](https://github.com/BLHXFY-Group/BLHXFY/blob/master/data/npc-name-en.csv)
 
-修改或添加角色名也请参考下面的说明。
+要修改或添加角色名的话，直接改上面这两个文件就可以。
 
 ### 角色技能翻译
 skill 目录下是所有的角色技能，随便打开一个文件可以看到格式很简单。
