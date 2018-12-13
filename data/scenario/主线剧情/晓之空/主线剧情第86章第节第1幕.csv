@@ -1,0 +1,63 @@
+id,name,text,trans
+0-chapter_name,,第86章　千里眼の賢者,第86章 千里眼的贤者
+0-synopsis,,<span class='scene-font-place'>首都ルクスリエース</span>に戻った数日後、 フォリアが姬塔達を玉座の間に呼び出す。フォリアは、「千里眼の賢者」と呼ばれる男を味方に引き入れるため<span class='scene-font-place'>クルーガー島</span>に向かうよう姬塔達に依頼する。姬塔達は、一時的にでもイデルバの一員となることに引っかかりを感じるが、離散した仲間の情報を賢者から聞けるかもしれないと、依頼を受けるのだった。,回到<span class='scene-font-place'>首都卢克西里厄斯</span>数日后，芙莉亚召见姬塔等人，委托他们去<span class='scene-font-place'>克尔加岛</span>拉拢「千里眼的贤者」。虽然为伊迪尔瓦效力并非众人的本意，但为了向贤者打听其他同伴的下落，姬塔一行还是接受了委托。
+1,カタリナ/卡塔莉娜,千里眼の賢者……？,千里眼的贤者……？
+2,フォリア/芙莉亚,うむ……<br>このナル・グランデにはな、<br>そう呼ばれる男がおるのじゃ。,唔……<br>在这个纳尔·格兰德，有一个男人号称千里眼的贤者。
+3,,<span class='scene-font-katari'>イデルバ国王フォリアから期待に応え、</span><br><span class='scene-font-katari'>その力を認められた姬塔一行。</span>,<span class='scene-font-katari'>姬塔一行通过了试炼，伊迪尔瓦国王芙莉亚认同了众人的实力。</span>
+4,,<span class='scene-font-place'>首都ルクスリエース</span><span class='scene-font-katari'>に戻った数日後、</span><br><span class='scene-font-katari'>姬塔達はフォリアから</span><br><span class='scene-font-katari'>呼び出され、玉座の間を訪れていた。</span>,<span class='scene-font-katari'>回到</span><span class='scene-font-place'>首都卢克西里厄斯</span><span class='scene-font-katari'>后数日，芙莉亚再次召见众人。</span>
+5,フォリア/芙莉亚,これがまた、実に厄介な男でな……<br>その異名に違わず、<br>あらゆることを見透かしてきよる。,他是个非常难对付的男人……<br>名副其实，能够看穿一切。
+6,フォリア/芙莉亚,以前、妾自ら、奴の元まで<br>出向いたこともあったが、<br>早々に妾の正体を見破りおっての。,妾身曾经亲自拜访过他，他早早地识破了妾身的身份。
+7,フォリア/芙莉亚,こちらがあ奴で遊ぶどころか、<br>礼を尽くして丁重に<br>出迎えられてしもうたわ。,别说陪妾身游玩了，他竟对妾身大礼相迎。
+8,カタリナ/卡塔莉娜,それは、一国家の君主に対して、<br>至極真っ当な対応のような気が……,可是，对于一国之君，我想这是理所应当的态度吧。
+9,フォリア/芙莉亚,で、あろうな。<br>じゃが、妾が面白くない。<br>正しい、正しくないなど、二の次じゃ。,是这样，没错。<br>但是，妾身不喜欢。<br>应不应当，是次要的。
+9-sel1_txt,,<span class='scene-font-katari'>（暴君だ……！）</span>,<span class='scene-font-katari'>（暴君啊……！）</span>
+9-sel2_txt,,<span class='scene-font-katari'>（面倒な人だ……！）</span>,<span class='scene-font-katari'>（真麻烦……！）</span>
+10,ハクタク/白泽,我が王の戯れ言はいいとして、<br>しかし、我々の手に余る相手である、<br>ということは事実です。,先不管陛下的一番戏言。<br>我们的确拿他毫无办法，这是事实。
+11,フォリア/芙莉亚,ふん……まったくじゃな。<br>タチが悪い、という点では、<br>そこなカインをも上回る。,哼……没错。<br>他比那边的该隐还恶劣呢。
+12,カイン/该隐,あれー……<br>俺、結構真面目に<br>仕事こなしてたと思うんだけどなー……,咦……<br>我感觉我做事还挺认真的啊……
+13,フォリア/芙莉亚,そこじゃ。<br>なまじ頭が回るからこそ、タチが悪い。,你啊，就知道耍小聪明，所以才恶劣。
+14,フォリア/芙莉亚,あの島で、トリッド王国時代より<br>独立を保ち続けてきただけのことはある、<br>ということじゃな。,他们在那座岛上，从特利德王国时代一来就一直保持独立。
+15,フォリア/芙莉亚,あの島には、<br>かの賢者とその弟子達しか、<br>生活しておらん。,岛上只有贤者和他的弟子居住。
+16,フォリア/芙莉亚,国と呼ぶには貧相な……<br>呼べてもせいぜいが<br>村といったところじゃろう。,称之为国家就太抬举他了……<br>勉勉强强称之为村庄吧。
+17,フォリア/芙莉亚,しかし、かの賢者は星晶獣の力を駆使し、<br>あらゆる国の侵略や誘いを、<br>拒み続けてきたのじゃ。,然而，那贤者能够操控星晶兽，抵御了各国的侵略，拒绝了各方的邀请。
+18,ルリア/露莉亚,え……？<br>じゃあ、その、<br>賢者さんっていうのは……,咦……？<br>那，那位贤者是……
+18-sel1_txt,,<span class='scene-font-katari'>星の民？</span>,<span class='scene-font-katari'>星之民？</span>
+18-sel2_txt,,<span class='scene-font-katari'>星晶獣？</span>,<span class='scene-font-katari'>星晶兽？</span>
+19,フォリア/芙莉亚,いや……あの島の賢者を受け継ぐために、<br>これといった特別な出自は<br>必要ないらしい。,不……贤者的继承人并不受任何出身的限制。
+20,フォリア/芙莉亚,しかし、だからこそ、<br>我がイデルバに誘うに値する。,但是正因如此，我们伊迪尔瓦才要拉拢他。
+21,フォリア/芙莉亚,それに、賢者とその弟子達が住む<br><span class='scene-font-place'>クルーガー島</span>は、<br>この<span class='scene-font-place'>グロース島</span>の目と鼻の先じゃ。,而且，贤者及其弟子所在的<span class='scene-font-place'>克尔加岛</span>，与<span class='scene-font-place'>古洛斯岛</span>毗邻。
+22,フォリア/芙莉亚,いまは侵略の意思は無いようじゃが、<br>いつ、星晶獣の力を使って<br>我々の寝首をかこうとするやもわからぬ。,就算他们目前没有侵略的企图，但也有某天突然驱使星晶兽袭击的可能。
+23,フォリア/芙莉亚,ナル・グランデの統一を進める上で、<br>なんとしても、かの賢者は<br>味方に引き入れておく必要があるのじゃ。,为了纳尔·格兰德的统一，我国必须拉拢千里眼的贤者。
+24,,<span class='scene-font-katari'>そこまで説明した</span><br><span class='scene-font-katari'>フォリアの後を継ぐように</span><br><span class='scene-font-katari'>今度はハクタクが口を開く。</span>,<span class='scene-font-katari'>继芙莉亚的说明之后，白泽又补充道。</span>
+25,ハクタク/白泽,いままで我が国では、<br><span class='scene-font-place'>クルーガー島</span>に幾度となく<br>遣いを送っています。,至今，我国已多次排遣使者前往<span class='scene-font-place'>克尔加岛</span>。
+26,ハクタク/白泽,しかし、その全てが、<br>交渉の余地すらなく<br>断られてしまっているのです。,但是对方每次都果断拒绝，完全没有交涉的余地。
+27,ハクタク/白泽,そこで、千里眼の賢者と同じく、<br>星晶獣の力を借りることの出来る<br>ルリア様達ならば……,所以我们想，如果和他一样能够借用星晶兽之力的露莉亚和你们几个去的话……
+28,ハクタク/白泽,かの賢者も興味を示し、<br>我々の話に応じてくれるやもしれません。,千里眼的贤者或许也会表现出兴趣，进而答应我们的请求也说不定。
+29,フォリア/芙莉亚,うむ……<br>そこでお主らには、<br><span class='scene-font-place'>クルーガー島</span>への遣いを頼みたいのじゃ。,唔……<br>所以，妾身想委托各位作为使者前往<span class='scene-font-place'>克尔加岛</span>。
+30,,<span class='scene-font-katari'>フォリアからの頼みを聞いた一行は、</span><br><span class='scene-font-katari'>その内容に、しばし思案する。</span>,<span class='scene-font-katari'>听完芙莉亚的委托内容，众人稍作思索。</span>
+31,カタリナ/卡塔莉娜,なるほど……<br>事情はわかりましたが、<br>しかし……,原来如此……<br>我明白事情的原委了，可是……
+32,カイン/该隐,ああ……<br>これはもう、前回のような、<br>イデルバ王国内の問題じゃない。,嗯……<br>和上次不同，这已经不是伊迪尔瓦王国内的问题了。
+33,カイン/该隐,<span class='scene-font-place'>クルーガー島</span>へ向かうことは、<br>他国への干渉……,前往<span class='scene-font-place'>克尔加岛</span>是对别国的干涉……
+34,カイン/该隐,つまり、姬塔達には、<br>イデルバ王国軍の一員として、<br>動いてもらうことになる。,也就是说，姬塔你们要作为伊迪尔瓦王国军的一员行动。
+35,フォリア/芙莉亚,つまりはお主らが、一時的とはいえ、<br>イデルバの名を負うことを、<br>良しとするかじゃな。,各位如果接受委托，就会暂时成为我伊迪尔瓦的一员。看各位能否接受了。
+35-sel1_txt,,<span class='scene-font-katari'>…………</span>,
+36,ビィ/碧,なぁ、どうする、姬塔……？,怎么办啊，姬塔……？
+37,ビィ/碧,オイラ達、騎空団、ってことを考えると、<br>確かにちょっと、<br>もやっとする部分があるよな……,想到咱们是个骑空团，就觉得这样不太妥当……
+38,ルリア/露莉亚,でも……<br>その賢者さんが、<br>なんでも知ってる人なら……,但是……<br>如果那位贤者真的什么都知道……
+39,ルリア/露莉亚,もしかすると、離ればなれになってる<br>騎空団の皆のことを、<br>教えてもらえるかもしれません。,说不定能告诉我们其他同伴都在哪里。
+40,ルリア/露莉亚,それに、<span class='scene-font-spword'>星の民</span>じゃないのに、<br>星晶獣の力が使える、っていうのも、<br>すごく気になるんです。,而且我也很在意。他明明不是<span class='scene-font-spword'>星之民</span>却能使用星晶兽的力量。
+41,カタリナ/卡塔莉娜,ふむ……ビィ君の言うことも、<br>ルリアの言うことも、<br>どちらも正しい。,唔……碧和露莉亚说的都有道理。
+42,カタリナ/卡塔莉娜,姬塔……君はどう思う？<br>この依頼、受けるかどうかは、<br>君の判断に任せよう。,姬塔……你怎么想？<br>要不要接受这个委托，由你来决定。
+42-sel1_txt,,<span class='scene-font-katari'>いまは仲間が心配</span>,<span class='scene-font-katari'>我比较担心同伴们</span>
+42-sel2_txt,,<span class='scene-font-katari'>得られる情報は多そう</span>,<span class='scene-font-katari'>感觉能得到很多情报</span>
+43,ビィ/碧,まぁ、確かに……<br>いまはとにかく早く、<br>他の奴らと合流しねーとな！,也是啊……<br>我们现在得优先和其他人汇合才行！
+44,ルリア/露莉亚,はい……いまの私達は、<br>この空域についても、それ以外でも、<br>知らないことばっかりですし……,是的……我们现在对于这个空域和其他事情都知道的太少了……
+45,フォリア/芙莉亚,ふむ……<br>話はまとまった様じゃが、<br>改めて聞くぞ。,唔……<br>看来你们已经商量好了，妾身再问一遍。
+46,フォリア/芙莉亚,千里眼の賢者の島……<br><span class='scene-font-place'>クルーガー島</span>へ、行ってくれるか、<br>姬塔よ。,你们能为我国前往千里眼贤者的岛屿……<span class='scene-font-place'>克尔加岛</span>么？
+46-sel1_txt,,<span class='scene-font-katari'>任せてください</span>,<span class='scene-font-katari'>交给我们吧</span>
+46-sel2_txt,,<span class='scene-font-katari'>頑張ってきます</span>,<span class='scene-font-katari'>我们会努力的</span>
+47,フォリア/芙莉亚,くくく……良い返事じゃ。<br>期待しておるぞ。,呵呵……不错的回答。<br>妾身期待你们的好消息。
+48,カイン/该隐,そう畏まらなくても大丈夫だって！<br>俺達も一緒に付いて行くからさ。,不用太担心啦！<br>我们也会一起去的。
+49,,<span class='scene-font-katari'>こうして、国王フォリアからの</span><br><span class='scene-font-katari'>勅命を受けた姬塔一行。</span>,<span class='scene-font-katari'>姬塔一行接受了国王芙莉亚的勅令。</span>
+50,,<span class='scene-font-katari'>一行は、</span><br><span class='scene-font-katari'>イデルバ兵を連れたカイン達と共に、</span><br><span class='scene-font-katari'>賢者が待つという</span><span class='scene-font-place'>クルーガー島</span><span class='scene-font-katari'>へと進む。</span>,<span class='scene-font-katari'>他们跟随该隐率领的伊迪尔瓦兵一同已前往贤者所在的</span><span class='scene-font-place'>克尔加岛</span><span class='scene-font-katari'>。</span>
+info,,,scene_cp86_q1_s10
