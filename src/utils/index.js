@@ -23,9 +23,12 @@ const removeTag = (html) => {
   return html
 }
 
+let removeHtmlTagCount = 0
 const removeHtmlTag = (str) => {
-  if (!/<[^>]{1,10}>/.test(str)) return str
-  return str.replace(/<br\s?\/?>/g, '').replace(/<(\w{1,7})[^>]*>([^<]*)<\/\1>/g, '$2')
+  removeHtmlTagCount++
+  if (!/<(\w{1,7})[^>]*>/.test(str) || removeHtmlTagCount > 2) return str
+  const _str = str.replace(/<br\s?\/?>/g, '').replace(/<(\w{1,7})[^>]*>([^<]*)<\/\1>/g, '$2')
+  return removeHtmlTag(_str)
 }
 
 const replaceWords = (str, map, lang = 'en') => {
