@@ -23,12 +23,11 @@ const removeTag = (html) => {
   return html
 }
 
-let removeHtmlTagCount = 0
-const removeHtmlTag = (str) => {
-  removeHtmlTagCount++
-  if (!/<(\w{1,7})[^>]*>/.test(str) || removeHtmlTagCount > 2) return str
+const removeHtmlTag = (str, count = 0) => {
+  count++
+  if (!/<(\w{1,7})[^>]*>/.test(str) || count > 2) return str
   const _str = str.replace(/<br\s?\/?>/g, '').replace(/<(\w{1,7})[^>]*>([^<]*)<\/\1>/g, '$2')
-  return removeHtmlTag(_str)
+  return removeHtmlTag(_str, count)
 }
 
 const replaceWords = (str, map, lang = 'en') => {
