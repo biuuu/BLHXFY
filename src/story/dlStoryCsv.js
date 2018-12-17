@@ -3,7 +3,7 @@ import { tryDownload, replaceWords, removeTag } from '../utils/'
 import CONFIG from '../config'
 import CSV from 'papaparse'
 
-const txtKeys = ['chapter_name', 'synopsis', 'detail', 'sel1_txt', 'sel2_txt', 'sel3_txt', 'sel4_txt']
+const txtKeys = ['chapter_name', 'synopsis', 'detail', 'sel1_txt', 'sel2_txt', 'sel3_txt', 'sel4_txt', 'sel5_txt', 'sel6_txt']
 
 const replaceName = (content, userName) => {
   if (userName) {

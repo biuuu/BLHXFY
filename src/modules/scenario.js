@@ -9,7 +9,7 @@ import { getPreviewCsv, replaceWords, removeHtmlTag } from '../utils/'
 import filter from '../utils/XSSFilter'
 import transApi from '../utils/translation'
 
-const txtKeys = ['chapter_name', 'synopsis', 'detail', 'sel1_txt', 'sel2_txt', 'sel3_txt', 'sel4_txt']
+const txtKeys = ['chapter_name', 'synopsis', 'detail', 'sel1_txt', 'sel2_txt', 'sel3_txt', 'sel4_txt', 'sel5_txt', 'sel6_txt']
 const WORDS_LIMIT = 4500
 
 const scenarioCache = {
