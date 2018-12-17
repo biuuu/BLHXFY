@@ -41,7 +41,7 @@ const setSubBox = (text, duration) => {
     cont.appendChild(box)
   }
   let _text = text
-  if (config.userName && config.userName !== '姬塔') {
+  if (config.userName && (config.userName !== '姬塔' || config.userName !== '古兰')) {
     _text = _text.replace(/团长/g, config.userName)
   }
   box.innerText = _text.replace(/\\n/g, '\n')
