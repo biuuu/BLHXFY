@@ -76,13 +76,15 @@ const transMulti = async (list, nameMap, nounMap, nounFixMap) => {
         txt = replaceWords(txt, nameMap, lang)
       }
       txt = replaceWords(txt, nounMap, lang)
+    } else if (config.transApi === 'caiyun') {
+      txt = txt.replace(/─/g, '—').replace(/何故/g, 'なぜ').replace(/ビィ/g, '碧').replace(/Vyrn\b/g, 'Bj')
     }
     if (userName) {
       let _lang = lang
       if (!/^\w+$/.test(userName)) _lang = 'unknown'
       if (lang === 'en') {
         txt = replaceWords(txt, new Map([[userName, config.defaultEnName]]), _lang)
-      } else {
+      } else if (config.transApi !== 'google') {
         txt = replaceWords(txt, new Map([[userName, config.defaultName]]), _lang)
       }
     }
