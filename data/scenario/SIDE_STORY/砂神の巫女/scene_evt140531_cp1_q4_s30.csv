@@ -1,6 +1,6 @@
 ﻿id,en,jp,trans
 0-chapter_name,,第1話 雨の中の邂逅,第1话 雨中的邂逅
-0-synopsis,,サラとボレミアは、砂神の巫女とその護衛という関係だった。ふたりはこの島に集中豪雨をもたらす雨神・マナウィダンを封印する使命を負っていた。サラに道中の護衛を頼まれた一行は、その旅路に同行することとなるのだった。,萨拉和波雷米亚，原来是沙神的巫女与护卫的关系。两人在为该岛带来暴雨的雨神・玛娜维丹的封印使命中落败。被委托担任萨拉路途中护卫的一行人，意味着旅途变为了同行。
+0-synopsis,,サラとボレミアは、砂神の巫女とその護衛という関係だった。ふたりはこの島に集中豪雨をもたらす雨神・マナウィダンを封印する使命を負っていた。サラに道中の護衛を頼まれた一行は、その旅路に同行することとなるのだった。,莎拉和波雷米亚，原来是沙神的巫女与护卫的关系。两人在为该岛带来暴雨的雨神・玛娜维丹的封印使命中落败。被委托担任莎拉路途中护卫的一行人，意味着旅途变为了同行。
 1,,……ぐすっ……よ、よかったぁ……<br>ボ、ボレミアさん……っぐ<br>ぶ、無事だったんだね……,……呜呜……太，太好了呢……<br>波，波雷米亚……原来平安无事……
 2,,……ふん……砂神の巫女よ。<br>そんなことでいちいち泣くな……<br>もっと強く心を持て。,……嗯……沙神的巫女啊。<br>不用每次都为了这种事情哭泣……<br>要变得更加坚强。
 3,,は、はい……えぐっ。<br>す、すみません……,好，好的……呜呜……<br>对，对不起……
@@ -36,6 +36,6 @@
 35,,ふっ、一度言い出したら聞かないぞ？<br>我々も同行してよろしいかな、<br>ボレミア殿？,呵，君子一言驷马难追。<br>我们同行也是可以的对吧，<br>波雷米亚殿下？
 36,,勝手にしろ。<br>安請け合いして命を落としても<br>知らんからな。,随你们便。<br>随口答应后丢了小命<br>可不管我的事。
 37,,……皆さん……ありがとうございます。<br>どうぞよろしくお願い致します……,……大家……谢谢你们。<br>请多关照了……
-38,,<span class='scene-font-katari'>こうして、姬塔一行は、</span><br><span class='scene-font-katari'>砂神の巫女、サラの願いにより</span><br><span class='scene-font-katari'>護衛を引き受けることになった。</span>,<span class='scene-font-katari'>于是，姬塔一行人，</span><br><span class='scene-font-katari'>因沙神的巫女萨拉的请求，</span><br><span class='scene-font-katari'>接受了护卫的工作。</span>
-39,,<span class='scene-font-katari'>だが、サラの内に秘められた</span><br><span class='scene-font-katari'>悲しき宿命の因果を</span><br><span class='scene-font-katari'>この時はまだ知る由もなかった。</span>,<span class='scene-font-katari'>可是，由萨拉体内那秘藏起来的力量</span><br><span class='scene-font-katari'>所编织的悲哀宿命的因果，</span><br><span class='scene-font-katari'>此刻还不得而知。</span>
+38,,<span class='scene-font-katari'>こうして、姬塔一行は、</span><br><span class='scene-font-katari'>砂神の巫女、サラの願いにより</span><br><span class='scene-font-katari'>護衛を引き受けることになった。</span>,<span class='scene-font-katari'>于是，姬塔一行人，</span><br><span class='scene-font-katari'>因沙神的巫女莎拉的请求，</span><br><span class='scene-font-katari'>接受了护卫的工作。</span>
+39,,<span class='scene-font-katari'>だが、サラの内に秘められた</span><br><span class='scene-font-katari'>悲しき宿命の因果を</span><br><span class='scene-font-katari'>この時はまだ知る由もなかった。</span>,<span class='scene-font-katari'>可是，由莎拉体内那秘藏起来的力量</span><br><span class='scene-font-katari'>所编织的悲哀宿命的因果，</span><br><span class='scene-font-katari'>此刻还不得而知。</span>
 info,,1,scene_evt140531_cp1_q4_s30
