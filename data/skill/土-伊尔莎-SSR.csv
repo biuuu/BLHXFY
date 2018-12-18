@@ -1,5 +1,5 @@
 ﻿id,name,detail
-npc,伊鲁萨,3040148000
+npc,伊尔莎,3040148000
 special,爆裂抹消,土属性伤害(特大)/敌方二连击率DOWN/装填所有子弹
 skill-1,圣洁地狱,对敌方单体造成无属性伤害(5%敌HP)/赋予敌方恐怖效果/装填所有子弹 <span class=text-blue>◆仅能在子弹为0时使用</span>
 skill-2,赞美诗,对敌方单体造成土属性伤害/敌方防御25%DOWN <span class=text-blue>◆消耗1子弹</span>
