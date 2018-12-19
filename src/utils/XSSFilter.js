@@ -7,6 +7,7 @@ const whiteList = [
   `来自<span class='txt-request-name'><%= raid['called_user_name'] %></span>的救援请求`,
   '还剩<%= can_quest_start_count %>回挑战（一共<%= max_quest_start_count %>回）',
   '<%= set_user.name %> Rank <%= set_user.rank %> 选择任务',
+  '更改第<%= stamp.priority %>个表情',
   '<%= title %>'
 ]
 
