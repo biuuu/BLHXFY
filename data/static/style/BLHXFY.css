@@ -97,6 +97,9 @@ body .prt-daily-popup .prt-player-info .btn-usual-lineup::after {
 body .btn-control[data-buton-name="イベントTOPへ"]::after {
   content: "回到活动";
 }
+body .prt-mypage-box .prt-button-mypage .prt-input-mypage-button:checked+.btn-mypage-enhancement:after {
+  content: "选择中";
+}
 body .btn-retry[data-buton-name="もう一度挑戦"]::after {
   content: "再次挑战";
 }
@@ -290,7 +293,7 @@ body .cnt-order-box .cnt-btn-bottombox .btn-evolution:not(.disapprove)::after {
   font-size: 12px;
 }
 .prt-npc .btn-index-all-setting::after {
-  content: "自动编队";
+  content: "自动组队";
   font-size: 12px;
 }
 .prt-symbolmark .btn-symbolmark-l::after {

@@ -1,5 +1,5 @@
 ﻿id,name,detail
-npc,艾塞尔,3040039000
+npc,艾瑟尔,3040039000
 special,死神之舞,火属性伤害(特大)/盲暗效果
 special-ダンス・クレマシオン,葬火之舞,火属性伤害(特大)/天盖花效果/我方全体技能伤害上限20%UP
 special-Dance of Incineration,葬火之舞,火属性伤害(特大)/天盖花效果/我方全体技能伤害上限20%UP
@@ -15,4 +15,3 @@ support-1,魔弹射手,掉宝效果必定成功/掉宝几率5%UP
 support-1+,魔弹射手,<div class=prt-text-small>掉宝效果必定成功/掉宝几率10%UP/对Break状态的敌人必定1.1倍暴击</div>
 support-2,调停之人,对风属性敌人伤害20%UP
 skill-lb,LB技能,攻击力随掉宝等级上升
-,,

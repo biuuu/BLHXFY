@@ -1,13 +1,13 @@
 ﻿id,en,jp,trans
 0-chapter_name,,出撃前日,出击前日
-0-synopsis,,ある日、イルザの定例の報告中、「組織」の司令官のもとに不穏な知らせが入る。イルザと契約者候補の訓練兵にある任務を言い渡した司令官の言動に、イルザは違和感を持つ。その後、イルザは気持ちを切り替える儀式を行うと、鬼教官として訓練場へ向かう。兵達を叱咤激励し、決して過ぎた無理をさせぬよう気を配りながら、イルザの厳しい訓練は日没まで続くのだった。,某日，在伊鲁萨进行定期报告的时候，“组织”的司令官收到了一个危险的消息。司令官向伊鲁萨及契约者候补的训练兵交代了某个任务，对于他的行为，伊鲁萨感觉到了一丝违和。随后伊鲁萨进行了切换心情的仪式，重新化身鬼教官前往训练场。叱咤激励士兵，也同时注意不让他们太过勉强，伊鲁萨的这严格的训练一直持续到日落。
-1,,<span class='scene-font-katari'>組織のとある一室で</span><br><span class='scene-font-katari'>イルザは担当している訓練兵について</span><br><span class='scene-font-katari'>定例の報告をしていた。</span>,<span class='scene-font-katari'>在组织的某个房间里，伊鲁萨正针对她负责的训练兵进行定期报告。</span>
+0-synopsis,,ある日、イルザの定例の報告中、「組織」の司令官のもとに不穏な知らせが入る。イルザと契約者候補の訓練兵にある任務を言い渡した司令官の言動に、イルザは違和感を持つ。その後、イルザは気持ちを切り替える儀式を行うと、鬼教官として訓練場へ向かう。兵達を叱咤激励し、決して過ぎた無理をさせぬよう気を配りながら、イルザの厳しい訓練は日没まで続くのだった。,某日，在伊尔莎进行定期报告的时候，“组织”的司令官收到了一个危险的消息。司令官向伊尔莎及契约者候补的训练兵交代了某个任务，对于他的行为，伊尔莎感觉到了一丝违和。随后伊尔莎进行了切换心情的仪式，重新化身鬼教官前往训练场。叱咤激励士兵，也同时注意不让他们太过勉强，伊尔莎的这严格的训练一直持续到日落。
+1,,<span class='scene-font-katari'>組織のとある一室で</span><br><span class='scene-font-katari'>イルザは担当している訓練兵について</span><br><span class='scene-font-katari'>定例の報告をしていた。</span>,<span class='scene-font-katari'>在组织的某个房间里，伊尔莎正针对她负责的训练兵进行定期报告。</span>
 2,,……以上が先日行った<br>銃撃試験の合格者となります。,……这些是前几天枪击试验的合格者。
 3,,委細承知した。,详细情况我了解了。
 4,,<span class='scene-font-katari'>カーテン越しに姿を隠した男は</span><br><span class='scene-font-katari'>淡々と言葉を返す。</span>,<span class='scene-font-katari'>藏身在幕布后的男人淡淡地回答道。</span>
 5,,ところで、以前お前が言っていた<br>武器の契約者の候補についての<br>報告はないのか？,话说回来，以前你提到过的武器契约者候补的事，有没有报告？
 6,,リストに纏めております。<br>こちらです。,已经整理到清单里了。请看这个。
-7,,<span class='scene-font-katari'>イルザは持っていたリストを</span><br><span class='scene-font-katari'>カーテンの下に差し出す。</span>,<span class='scene-font-katari'>伊鲁萨将手上的清单从幕布下递给对方。</span>
+7,,<span class='scene-font-katari'>イルザは持っていたリストを</span><br><span class='scene-font-katari'>カーテンの下に差し出す。</span>,<span class='scene-font-katari'>伊尔莎将手上的清单从幕布下递给对方。</span>
 9,,ふむ……３名か。,嗯……3人啊。
 10,,いずれも私の試験を突破した者であり、<br>特筆するような問題はありません。,都是突破了我的试验的人，没有什么特别需要注意的问题。
 11,,特にリストの一番上の訓練兵は<br>己を高めようという向上心が一際強く、<br>契約者として相応しい素質を感じます。,特别是名单最上面的训练兵，自我提高的向上心很强，我感觉他有作为契约者的素质。
@@ -19,7 +19,7 @@
 19,,<span class='scene-font-kokoro'>（前は武器が関わると</span><br><span class='scene-font-kokoro'>もっと大騒ぎになったものだがな）</span>,<span class='scene-font-kokoro'>（以前事情只要跟武器有关就会变得很麻烦）</span>
 20,,<span class='scene-font-kokoro'>（今では上層部の興味は</span><br><span class='scene-font-kokoro'>温室育ちの新設隊にしかないらしい。</span><br><span class='scene-font-kokoro'>時代も変わるものだな）</span>,<span class='scene-font-kokoro'>（而现在上级好像只对在温室里成长的新设部队有兴趣。时代变了啊）</span>
 21,,……ん。,……嗯。
-22,,<span class='scene-font-katari'>伝声機から“敵”という言葉が聞こえ、</span><br><span class='scene-font-katari'>耳をそばだてるイルザ。</span>,<span class='scene-font-katari'>从传声机里听到“敌人”这个词，伊鲁萨竖起耳朵听了起来。</span>
+22,,<span class='scene-font-katari'>伝声機から“敵”という言葉が聞こえ、</span><br><span class='scene-font-katari'>耳をそばだてるイルザ。</span>,<span class='scene-font-katari'>从传声机里听到“敌人”这个词，伊尔莎竖起耳朵听了起来。</span>
 23,,<span class='scene-font-katari'>伝声機から漏れ出る音に集中するものの</span><br><span class='scene-font-katari'>ノイズ混じりの言葉は殆ど聞き取れず</span><br><span class='scene-font-katari'>内容を知ることは出来なかった。</span>,<span class='scene-font-katari'>虽然集中精神去听了传声机里传出来的声音，但话里混杂着杂音，基本上听不清楚，无法分辨内容。</span>
 24,,うーむ……<br>……やはり、そう来たか……,嗯…… ……果然，这样了啊……
 25,,<span class='scene-font-kokoro'>（司令官殿が</span><br><span class='scene-font-kokoro'>あんなに思い悩んでいるとは珍しい）</span>,<span class='scene-font-kokoro'>（司令官阁下会这样烦恼真是少见）</span>
@@ -32,12 +32,12 @@
 33,,報告がなければ訓練に戻れ。,没有报告了的话就回去继续训练。
 34,,はっ！<br>失礼します。,遵命！那么失陪了。
 35,,<span class='scene-font-kokoro'>（さすがに話してはくれまいか）</span>,<span class='scene-font-kokoro'>（果然不会告诉我啊）</span>
-36,,<span class='scene-font-katari'>敬礼をし、</span><br><span class='scene-font-katari'>イルザは執務室の扉へ向かう。</span>,<span class='scene-font-katari'>敬过礼后，伊鲁萨走向办公室大门。</span>
-37,,<span class='scene-font-katari'>司令官はふと何か思いついた様子で</span><br><span class='scene-font-katari'>カーテンの隙間からイルザの腰にある</span><br><span class='scene-font-katari'>銃「ニバス」に目を向けるのだった。</span>,<span class='scene-font-katari'>司令官像是突然想起了什么，透过幕布的间隙看向了伊鲁萨挂在腰间的铳“尼巴斯”。</span>
+36,,<span class='scene-font-katari'>敬礼をし、</span><br><span class='scene-font-katari'>イルザは執務室の扉へ向かう。</span>,<span class='scene-font-katari'>敬过礼后，伊尔莎走向办公室大门。</span>
+37,,<span class='scene-font-katari'>司令官はふと何か思いついた様子で</span><br><span class='scene-font-katari'>カーテンの隙間からイルザの腰にある</span><br><span class='scene-font-katari'>銃「ニバス」に目を向けるのだった。</span>,<span class='scene-font-katari'>司令官像是突然想起了什么，透过幕布的间隙看向了伊尔莎挂在腰间的铳“尼巴斯”。</span>
 38,,いや……<br>待て、教官。,不……等等，教官。
 39,,……？,……？
 40,,はっ、司令官殿。,是，司令官阁下。
-41,,<span class='scene-font-katari'>イルザは素早く</span><br><span class='scene-font-katari'>カーテンの前へ戻る。</span>,<span class='scene-font-katari'>伊鲁萨迅速回到了幕前。</span>
+41,,<span class='scene-font-katari'>イルザは素早く</span><br><span class='scene-font-katari'>カーテンの前へ戻る。</span>,<span class='scene-font-katari'>伊尔莎迅速回到了幕前。</span>
 42,,先程、契約者候補のひとりを<br>実戦に投入したいと言っていたな？,刚才你说过，想把契约者候补中的一人投入实战吧？
 43,,ちょうどいい任務がある。<br>明日、その訓練兵と一緒に行け。,正好有一个很好的任务。明天你和那个训练兵一起去。
 44,,承知しました。<br>どのような任務でしょうか？,了解了。请问是什么样的任务？
@@ -49,16 +49,16 @@
 50,,契約者候補は貴重だ。<br>危険な任務に行かせはしない。,契约者候补是很贵重的。我不会让他们去参加危险的任务的。
 51,,一日も早く一人前になってもらうため、<br>契約者の背中を見て学んでほしい。<br>私はただそう思っただけだ。,为了让他们能够尽快独当一面，希望他们能看着契约者的背影跟着学习。我只是这么想而已。
 52,,…………,…………
-53,,<span class='scene-font-katari'>親切すぎると</span><br><span class='scene-font-katari'>イルザは考えていた。</span>,<span class='scene-font-katari'>伊鲁萨觉得他太过亲切了。</span>
+53,,<span class='scene-font-katari'>親切すぎると</span><br><span class='scene-font-katari'>イルザは考えていた。</span>,<span class='scene-font-katari'>伊尔莎觉得他太过亲切了。</span>
 54,,<span class='scene-font-katari'>新設隊優遇の風潮を考えても</span><br><span class='scene-font-katari'>契約者のことを思って任務を与える</span><br><span class='scene-font-katari'>のは不自然だと彼女は思った。</span>,<span class='scene-font-katari'>即使考虑到优待新设部队的潮流，她也觉得为契约者着想给予他们任务是很不自然的事。</span>
 55,,<span class='scene-font-kokoro'>（だが、まだ組織の切り札は契約者だ。</span><br><span class='scene-font-kokoro'>我々に万が一のことがあれば、</span><br><span class='scene-font-kokoro'>組織にとっても大きな損失になる）</span>,<span class='scene-font-kokoro'>（但是，组织的王牌仍然是契约者。如果我们有什么万一，对组织来说也会是巨大的损失）</span>
 56,,<span class='scene-font-kokoro'>（フン……</span><br><span class='scene-font-kokoro'>さすがに私の思い過ごしか……）</span>,<span class='scene-font-kokoro'>（嗯…….大概是我多想了吧……）</span>
 57,,承知しました。<br>ご配慮、感謝します。,了解了。感谢您的关怀。
 58,,では、訓練に戻れ。,那么，回去训练吧。
 59,,はっ。,遵命。
-65,,<span class='scene-font-katari'>執務室を後にしたイルザは</span><br><span class='scene-font-katari'>誰もいない準備室の鏡の前で</span><br><span class='scene-font-katari'>髪を結び直す。</span>,<span class='scene-font-katari'>离开办公室的伊鲁萨在无人的准备室的镜子前重新扎了下头发。</span>
+65,,<span class='scene-font-katari'>執務室を後にしたイルザは</span><br><span class='scene-font-katari'>誰もいない準備室の鏡の前で</span><br><span class='scene-font-katari'>髪を結び直す。</span>,<span class='scene-font-katari'>离开办公室的伊尔莎在无人的准备室的镜子前重新扎了下头发。</span>
 66,,…………,…………
-67,,<span class='scene-font-katari'>鏡に映った自分の目を見ながら、</span><br><span class='scene-font-katari'>イルザは厳しい表情で</span><br><span class='scene-font-katari'>まじないのように呟き始める。</span>,<span class='scene-font-katari'>看着映在镜子里的自己的眼睛，伊鲁萨像是在念咒语一般，表情严肃地开始嘟囔。</span>
+67,,<span class='scene-font-katari'>鏡に映った自分の目を見ながら、</span><br><span class='scene-font-katari'>イルザは厳しい表情で</span><br><span class='scene-font-katari'>まじないのように呟き始める。</span>,<span class='scene-font-katari'>看着映在镜子里的自己的眼睛，伊尔莎像是在念咒语一般，表情严肃地开始嘟囔。</span>
 68,,嫌われることを恐れるな。<br>お前は彼らの訓練官だ。,不要害怕被人讨厌。你是他们的训练官。
 69,,憎まれ恐れられ、学ばせろ。<br>生き残るための覚悟を教えろ。,让他们学习被憎恨，被恐惧。把生存下去的觉悟教给他们。
 70,,<span class='scene-font-katari'>訓練兵を教育することは</span><br><span class='scene-font-katari'>生易しいことではない。</span>,<span class='scene-font-katari'>教育训练兵并不是件容易的事。</span>
@@ -70,9 +70,9 @@
 76,,覚悟なき者を決して許すな。<br>覚悟を知るまで決して見放すな。,绝对不要原谅那些没有觉悟的人。在他们知道觉悟之前绝对不要放弃他们。
 77,,覚悟ある者に心を許すな。<br>歪んだ覚悟は真っ直ぐ正せ。,不要放心那些有觉悟的人。扭曲的觉悟要马上纠正。
 78,,…………,…………
-79,,<span class='scene-font-katari'>定めた言葉を全て言い終え、</span><br><span class='scene-font-katari'>イルザは自分の頬をピシャリと叩く。</span>,<span class='scene-font-katari'>说完所有约定好的言语后，伊鲁萨啪嚓一声拍了一下自己的脸。</span>
+79,,<span class='scene-font-katari'>定めた言葉を全て言い終え、</span><br><span class='scene-font-katari'>イルザは自分の頬をピシャリと叩く。</span>,<span class='scene-font-katari'>说完所有约定好的言语后，伊尔莎啪嚓一声拍了一下自己的脸。</span>
 80,,さて……<br>ウジ虫どもの甘ったれクソ根性を<br>叩き直しに行くぞ。,接下来……就去把那些蛆虫的任性脾气彻底纠正过来吧。
-81,,<span class='scene-font-katari'>顎をツンと突き上げて言うと、</span><br><span class='scene-font-katari'>イルザは訓練に必要な道具を抱えて</span><br><span class='scene-font-katari'>準備室を出て行った。</span>,<span class='scene-font-katari'>伊鲁萨抬起下巴说完这些后，抱着训练所需的道具走出了准备室。</span>
+81,,<span class='scene-font-katari'>顎をツンと突き上げて言うと、</span><br><span class='scene-font-katari'>イルザは訓練に必要な道具を抱えて</span><br><span class='scene-font-katari'>準備室を出て行った。</span>,<span class='scene-font-katari'>伊尔莎抬起下巴说完这些后，抱着训练所需的道具走出了准备室。</span>
 88,,<span class='scene-font-4'>整列しろ、ウジ虫ども！！！</span>,<span class='scene-font-4'>列队，蛆虫们！！！</span>
 89,,<span class='scene-font-4'>はっ！</span><br><span class='scene-font-4'>教官殿！</span>,<span class='scene-font-4'>遵命！教官阁下！</span>
 91,,先刻は試験ご苦労だった。,刚才的考试辛苦你们了。
@@ -82,8 +82,8 @@
 95,,巣穴から這い出たと思えば<br>子供に踏みつぶされるような<br>役立たずのクソだ。,我还以为你们爬出巢穴自立了，结果还是那种能被孩子踩烂的排不上用场的屎。
 96,,クソを積んだだけのクソ集団……<br>まるでそびえたつクソだ。<br>肥溜めでハエに集られるクソより醜い。,只是屎堆积起来形成的屎集团……就像耸立的屎山。比粪坑里爬满苍蝇的屎还要丑陋。
 97,,<span class='scene-font-4'>どうなってやがる？</span><br>そんなにクソに塗れたいなら出て行け！<br>田舎帰ってイモの養分にでもなってろ！,<span class='scene-font-4'>你们到底怎么回事？那么想身上涂满粪的话就给我滚！滚回乡下去当土豆的养分吧！</span>
-98,,<span class='scene-font-katari'>イルザの怒涛の啖呵に</span><br><span class='scene-font-katari'>訓練兵達は唇を真一文字に結び</span><br><span class='scene-font-katari'>顔を強張らせる。</span>,<span class='scene-font-katari'>沐浴着伊鲁萨怒涛般的斥责，训练兵们紧闭双唇，表情坚硬。</span>
-99,,<span class='scene-font-katari'>イルザは忙しなく歩き続けながら</span><br><span class='scene-font-katari'>整列させた訓練兵達の顔を</span><br><span class='scene-font-katari'>ひとりひとり見据えるのだった。</span>,<span class='scene-font-katari'>伊鲁萨不慌不忙走着，一边盯着每一个列队士兵的表情。</span>
+98,,<span class='scene-font-katari'>イルザの怒涛の啖呵に</span><br><span class='scene-font-katari'>訓練兵達は唇を真一文字に結び</span><br><span class='scene-font-katari'>顔を強張らせる。</span>,<span class='scene-font-katari'>沐浴着伊尔莎怒涛般的斥责，训练兵们紧闭双唇，表情坚硬。</span>
+99,,<span class='scene-font-katari'>イルザは忙しなく歩き続けながら</span><br><span class='scene-font-katari'>整列させた訓練兵達の顔を</span><br><span class='scene-font-katari'>ひとりひとり見据えるのだった。</span>,<span class='scene-font-katari'>伊尔莎不慌不忙走着，一边盯着每一个列队士兵的表情。</span>
 100,,今日は基礎錬だ！<br>まずは腕立て伏せ300回！,今天做基础训练！首先做300次俯卧撑！
 101,,そのクソ以下の心身を<br>徹底的に叩き直せ！<br>始め！,把你们那连屎都不如的身心彻底纠正过来！开始！
 102,,<span class='scene-font-4'>はっ！</span>,<span class='scene-font-4'>是！</span>
@@ -126,5 +126,5 @@
 151,,貴様、肘を痛めているな！？<br>誰が腕を壊すまでやれと言った？<br>倉庫の周りを走っていろ！,你这家伙，手肘受伤了吧！？谁叫你做到弄坏手腕的？给我绕仓库跑！
 152,,は、はっ！<br>行ってきます、教官殿！,是、是！我去了，教官阁下！
 154,,…………<br><span class='scene-font-kokoro'>（無理と我慢の区別のつかない奴が</span><br><span class='scene-font-kokoro'>いるから、訓練も楽じゃない）</span>,<span class='scene-font-kokoro'>…………（就因为有无法区分勉强和忍耐的人在，所以训练也不容易）</span>
-155,,<span class='scene-font-katari'>こうしてイルザの厳しい訓練は</span><br><span class='scene-font-katari'>日没まで続けられるのだった。</span>,<span class='scene-font-katari'>就这样，伊鲁萨的严格训练一直持续到日落。</span>
+155,,<span class='scene-font-katari'>こうしてイルザの厳しい訓練は</span><br><span class='scene-font-katari'>日没まで続けられるのだった。</span>,<span class='scene-font-katari'>就这样，伊尔莎的严格训练一直持续到日落。</span>
 info,,1,scene_fate_chr434_ep1
