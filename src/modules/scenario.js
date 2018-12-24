@@ -33,19 +33,34 @@ const getFilename = (pathname) => {
 const collectTxt = (data) => {
   const txtList = []
   const infoList = []
-  const getTxt = (obj, key) => {
+  const getTxt = (obj, key, index) => {
     const txt = obj[key]
     if (txt) {
       txtList.push(txt.replace(/\n/g, '').trim())
       infoList.push({
-        id: obj.id, type: key
+        id: obj.id, type: key, index
       })
     }
   }
-  data.forEach(item => {
-    txtKeys.forEach(key => getTxt(item, key))
+  data.forEach((item, index) => {
+    txtKeys.forEach(key => getTxt(item, key, index))
   })
   return { txtList, infoList }
+}
+
+const getStartIndex = (data) => {
+  const findStart = (item, index) => {
+    if (!item) return false
+    if (item.detail) {
+      return index
+    } else if (item.next) {
+      const next = (item.next | 0) || -1
+      return findStart(data[next], next)
+    } else {
+      return findStart(data[index + 1], index + 1)
+    }
+  }
+  return findStart(data[0], 0)
 }
 
 const transMulti = async (list, nameMap, nounMap, nounFixMap) => {
@@ -232,6 +247,7 @@ const transStart = async (data, pathname) => {
       const { nounMap, nounFixMap } = await getNounData()
       transMap = new Map()
       const { txtList, infoList } = collectTxt(data)
+      const startIndex = getStartIndex(data)
       const transList = await transMulti(txtList, nameMap, nounMap, nounFixMap)
       let transNotice = false
       const transApiName = {
@@ -242,7 +258,7 @@ const transStart = async (data, pathname) => {
       infoList.forEach((info, index) => {
         const obj = transMap.get(info.id) || {}
         obj[info.type] = transList[index] || ''
-        if (!transNotice && info.type === 'detail' && obj[info.type]) {
+        if (!transNotice && info.index === startIndex) {
           obj[info.type] = `(本节由<a target="_blank" style="color:#9ccd4e" href="${apiData[1]}">${apiData[0]}</a>机翻，点右上Log设置关闭)<br>${obj[info.type]}`
           transNotice = true
         }
