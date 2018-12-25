@@ -63,6 +63,8 @@ etc 目录下还有 buff.csv 和 debuff.csv 对应一些技能的效果说明。
 
 如果发现有问题的翻译，或者可以改进的地方，请直接点击文件然后点击右上角的“笔图标”进行修改。
 
+**有很多人可能搞不清楚 Fork 和 Pull request，也可以直接发邮件到 umisuna@qq.com ，我来帮你上传。**
+
 ```
 对于未加入 BLHXFY-Group 的翻译人员，希望直接上传文件或者需要一次提交多个文件的话，
 先打开 https://github.com/BLHXFY-Group/BLHXFY ，然后点右上角的 Fork 按钮，这时你自己的账号下就有了一个同名的项目。
