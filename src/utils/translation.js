@@ -40,7 +40,9 @@ const googleTrans = async (keyword, lang = 'en', to = 'zh-CN') => {
     const txt =  getTransResult(res)
     return txt
   } catch (err) {
-    console.error(`${err.message}\n${err.stack}`)
+    if (err !== 'GM_XHR MISSING') {
+      console.error(`${err.message}\n${err.stack}`)
+    }
     return ''
   }
 }
@@ -71,7 +73,9 @@ const caiyunTrans = async (keyword, lang = 'en') => {
     const txt =  res.target.join('\n')
     return txt
   } catch (err) {
-    console.error(`${err.message}\n${err.stack}`)
+    if (err !== 'GM_XHR MISSING') {
+      console.error(`${err.message}\n${err.stack}`)
+    }
     return ''
   }
 }

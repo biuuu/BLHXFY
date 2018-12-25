@@ -3,7 +3,7 @@ const CROSS_DOMAIN_REQ = !!window.GM_xmlhttpRequest
 const request = (url, option) => {
   const { method = 'GET', headers, responseType = 'json', data } = option
   return new Promise((rev, rej) => {
-    if (!CROSS_DOMAIN_REQ) return rej('need tampermonkey to send request')
+    if (!CROSS_DOMAIN_REQ) return rej('GM_XHR MISSING')
     window.GM_xmlhttpRequest({
       method, url, headers, responseType, data,
       onload ({ status, responseText, statusText }) {
