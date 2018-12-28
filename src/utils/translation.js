@@ -69,7 +69,7 @@ const caiyunTrans = async (keyword, lang = 'en') => {
         'origin':'http://www.caiyunapp.com',
         'X-Authorization': 'token cy4fgbil24jucmh8jfr5'
       }
-    })
+    }, 'caiyun')
     const txt =  res.target.join('\n')
     return txt
   } catch (err) {

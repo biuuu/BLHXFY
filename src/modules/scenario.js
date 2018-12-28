@@ -69,7 +69,8 @@ const transMulti = async (list, nameMap, nounMap, nounFixMap, caiyunPrefixMap) =
   const txtStr = []
   const userName = config.userName
   const lang = Game.lang
-  list.forEach(txt => {
+  const _list = removeHtmlTag(list.join('\n')).split('\n')
+  _list.forEach(txt => {
     strTemp += txt
     count += new Blob([txt]).size
     if (count > WORDS_LIMIT) {
@@ -85,7 +86,6 @@ const transMulti = async (list, nameMap, nounMap, nounFixMap, caiyunPrefixMap) =
   }
 
   const transStr = await Promise.all(txtStr.map(txt => {
-    txt = removeHtmlTag(txt)
     if (config.transApi === 'google') {
       if (lang === 'en') {
         txt = replaceWords(txt, nameMap, lang)
@@ -116,7 +116,7 @@ const transMulti = async (list, nameMap, nounMap, nounFixMap, caiyunPrefixMap) =
       }
       if (config.displayName || userName) {
         const name = config.displayName || userName
-        _str = _str.replace(new RegExp(config.defaultName, 'g'), name)
+        _str = _str.replace(new RegExp(`${config.defaultName}(先生|小姐)?`, 'g'), name)
       }
       return result.concat(_str.split('\n'))
     }

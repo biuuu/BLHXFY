@@ -1,9 +1,19 @@
 const CROSS_DOMAIN_REQ = !!window.GM_xmlhttpRequest
 
-const request = (url, option) => {
+const request = (url, option, type) => {
   const { method = 'GET', headers, responseType = 'json', data } = option
+  if (!CROSS_DOMAIN_REQ && type === 'caiyun') {
+    return fetch(url, {
+      body: data,
+      headers, method,
+      mode: 'cors',
+      referrer: 'no-referrer'
+    }).then(res => res.json())
+  }
   return new Promise((rev, rej) => {
-    if (!CROSS_DOMAIN_REQ) return rej('GM_XHR MISSING')
+    if (!CROSS_DOMAIN_REQ) {
+      return rej('GM_XHR MISSING')
+    }
     window.GM_xmlhttpRequest({
       method, url, headers, responseType, data,
       onload ({ status, responseText, statusText }) {
