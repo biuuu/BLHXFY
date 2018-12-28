@@ -63,7 +63,7 @@ const getStartIndex = (data) => {
   return findStart(data[0], 0)
 }
 
-const transMulti = async (list, nameMap, nounMap, nounFixMap) => {
+const transMulti = async (list, nameMap, nounMap, nounFixMap, caiyunPrefixMap) => {
   let count = 0
   let strTemp = ''
   const txtStr = []
@@ -92,7 +92,8 @@ const transMulti = async (list, nameMap, nounMap, nounFixMap) => {
       }
       txt = replaceWords(txt, nounMap, lang)
     } else if (config.transApi === 'caiyun') {
-      txt = txt.replace(/─/g, '—').replace(/何故/g, 'なぜ').replace(/ビィ/g, '碧').replace(/Vyrn\b/g, 'Bj')
+      txt = replaceWords(txt, caiyunPrefixMap, lang)
+      txt = txt.replace(/─/g, '—')
     }
     if (userName) {
       let _lang = lang
@@ -115,11 +116,7 @@ const transMulti = async (list, nameMap, nounMap, nounFixMap) => {
       }
       if (config.displayName || userName) {
         const name = config.displayName || userName
-        if (lang === 'en') {
-          _str = _str.replace(new RegExp(config.defaultEnName, 'g'), name)
-        } else {
-          _str = _str.replace(new RegExp(config.defaultName, 'g'), name)
-        }
+        _str = _str.replace(new RegExp(config.defaultName, 'g'), name)
       }
       return result.concat(_str.split('\n'))
     }
@@ -244,11 +241,11 @@ const transStart = async (data, pathname) => {
   scenarioCache.nameMap = nameMap
   if (!transMap) {
     if ((config.transJa && Game.lang === 'ja') || (config.transEn && Game.lang === 'en')) {
-      const { nounMap, nounFixMap } = await getNounData()
+      const { nounMap, nounFixMap, caiyunPrefixMap } = await getNounData()
       transMap = new Map()
       const { txtList, infoList } = collectTxt(data)
       const startIndex = getStartIndex(data)
-      const transList = await transMulti(txtList, nameMap, nounMap, nounFixMap)
+      const transList = await transMulti(txtList, nameMap, nounMap, nounFixMap, caiyunPrefixMap)
       let transNotice = false
       const transApiName = {
         google: ['Google翻译', 'https://translate.google.cn'],
