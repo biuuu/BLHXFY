@@ -1,6 +1,6 @@
 ﻿id,en,jp,trans
 0-chapter_name,,第4章　決戦、嵐の守護神,第4章  决战  狂风守护神
-0-synopsis,,ティアマトを治めた<span>姬塔</span>一行は、群島から手を振るシェロを見つけ、よろず屋に届けられたという手紙を受け取る。その手紙の内容に、今度は<span class='scene-font-place'>バルツ公国</span>へと針路を取る。,成功使提亚玛特安定下来后，<span>姬塔</span>一行找到了站在群岛上向他们挥手的榭洛，收下了寄到万事屋的一封信件。看过信的内容后，一行人决定前往<span class='scene-font-place'>瓦尔茨公国</span>。
+0-synopsis,,ティアマトを治めた<span>姬塔</span>一行は、群島から手を振るシェロを見つけ、よろず屋に届けられたという手紙を受け取る。その手紙の内容に、今度は<span class='scene-font-place'>バルツ公国</span>へと針路を取る。,成功使提亚玛特安定下来后，<span>姬塔</span>一行找到了站在群岛上向他们挥手的榭洛，收下了寄到万事屋的一封信件。看过信的内容后，一行人决定前往<span class='scene-font-place'>瓦尔兹公国</span>。
 1,,"はぁ……はぁ……<br>
 ったく……<br>
 なかなかやるじゃねぇか……",哈……哈……还挺能打的嘛……
@@ -81,15 +81,15 @@
 38,,"<span class='scene-font-katari'>その手紙の内容は、</span><br>
 <span class='scene-font-katari'>これ以上ないほど簡潔だった。</span>",<span class='scene-font-katari'>信的内容无比简洁。</span>
 39,,"<span class='scene-font-gray'>『</span><span class='scene-font-place'>バルツ公国</span><span class='scene-font-gray'>へ行け』</span>か……<br>
-なんだこりゃ？",<span class='scene-font-gray'>『去</span><span class='scene-font-place'>瓦尔茨公国</span><span class='scene-font-gray'>』</span>么……这算什么？
+なんだこりゃ？",<span class='scene-font-gray'>『去</span><span class='scene-font-place'>瓦尔兹公国</span><span class='scene-font-gray'>』</span>么……这算什么？
 40,,"<span class='scene-font-place'>バルツ公国</span>か……<br>
 確か、この近くのドラフの島だな。<br>
-鉄鋼業で栄えていたはずだ。",<span class='scene-font-place'>瓦尔茨公国</span>么……好像是离这里很近的一个牛角族岛屿。靠钢铁产业繁荣发展。
+鉄鋼業で栄えていたはずだ。",<span class='scene-font-place'>瓦尔兹公国</span>么……好像是离这里很近的一个牛角族岛屿。靠钢铁产业繁荣发展。
 41,,"恩返しってこたぁ、<br>
 手紙の内容は、オイラ達にとって、<br>
 プラスになるってことだよな？",既然他们说是报恩，信的内容总归是对咱们有利的吧？
 42,,"ってことは、<br>
-<span class='scene-font-place'>バルツ</span>に向かったほうがいいのか？",那咱们就去<span class='scene-font-place'>瓦尔茨公国</span>？
+<span class='scene-font-place'>バルツ</span>に向かったほうがいいのか？",那咱们就去<span class='scene-font-place'>瓦尔兹公国</span>？
 43,,"わからないな……<br>
 彼らをそこまで、<br>
 信用していいものか……",我不知道……我们能够信任他们么……
@@ -102,7 +102,7 @@
 好奇心で針路を決めるもんだぜ！",那就决定了！天空之旅，就靠好奇心决定前进的方向！
 47,,"<span class='scene-font-katari'>手紙の言葉に、</span><br>
 <span class='scene-font-katari'>姬塔達は、</span><br>
-<span class='scene-font-place'>バルツ公国</span><span class='scene-font-katari'>へと舵を切る。</span>",<span class='scene-font-katari'>因为这封信，姬塔等人转舵驶向<span class='scene-font-place'>瓦尔茨公国</span>。</span>
+<span class='scene-font-place'>バルツ公国</span><span class='scene-font-katari'>へと舵を切る。</span>",<span class='scene-font-katari'>因为这封信，姬塔等人转舵驶向<span class='scene-font-place'>瓦尔兹公国</span>。</span>
 48,,"<span class='scene-font-katari'>そこでは、</span><br>
 <span class='scene-font-katari'>空と星にまつわる更なる事件が、</span><br>
 <span class='scene-font-katari'>姬塔を待ち受けるのだった。</span>",<span class='scene-font-katari'>围绕空与星进一步展开的事件，在那里等待着姬塔。</span>
