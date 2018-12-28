@@ -8,6 +8,7 @@ const enNameMap = new Map()
 const jpNameMap = new Map()
 const nounMap = new Map()
 const nounFixMap = new Map()
+const caiyunPrefixMap = new Map()
 let loaded = false
 let nounLoaded = false
 
@@ -62,8 +63,10 @@ const getNounData = async () => {
   if (!nounLoaded) {
     const noun = await fetchData('/blhxfy/data/noun.csv')
     const nounFix = await fetchData('/blhxfy/data/noun-fix.csv')
+    const caiyunPrefix = await fetchData('/blhxfy/data/caiyun-prefix.csv')
     const listNoun = parseCsv(noun)
     const listNounFix = parseCsv(nounFix)
+    const listCaiyunPrefix = parseCsv(caiyunPrefix)
 
     sortKeywords(listNoun, 'keyword').forEach(item => {
       const keyword = trim(item.keyword)
@@ -82,9 +85,16 @@ const getNounData = async () => {
         nounFixMap.set(text, fix)
       }
     })
+    sortKeywords(listCaiyunPrefix, 'text').forEach(item => {
+      const text = trim(item.text)
+      const fix = filter(trim(item.fixed))
+      if (text && fix) {
+        caiyunPrefixMap.set(text, fix)
+      }
+    })
     nounLoaded = true
   }
-  return { nounMap, nounFixMap }
+  return { nounMap, nounFixMap, caiyunPrefixMap }
 }
 
 export default getNameData
