@@ -1,0 +1,134 @@
+id,name,text,trans
+0-chapter_name,,第1話 与えられ、奪われる,第1话 被给予，被夺取
+0-synopsis,,第零拠点にてベアトリクス達の前に現れたのは、数々の武器や道具を開発してきた第零拠点の統括者、アランドゥーズだった。暴走する危険性があるというベアトリクス達の契約した武器、「封印武器」を研究のために預かると言われ、一同は「封印武器」を手放す。一方その頃、月の剥片に不時着し重傷を負ったカシウスは、虫のような機械を呼び出すと意識を失うのだった。,第零据点，出现在贝阿朵丽丝等人面前的是第零据点的负责人阿兰多斯，他告诉众人他们契约的武器「封印武器」有暴走的危险，应暂时上交以供研究。此时，卡西乌斯坠落在月之碎片身受重伤。他召唤出虫形的机械后便失去了意识。
+1,,<span class='scene-font-katari'>一方、その頃、</span><br><span class='scene-font-katari'>第零拠点にて──</span>,<span class='scene-font-katari'>第零据点——</span>
+2,,<span class='scene-font-katari'>突如として現れた</span><br><span class='scene-font-katari'>強面の老人に驚愕し、</span><br><span class='scene-font-katari'>緊張した様子を見せるイルザ。</span>,<span class='scene-font-katari'>伊尔莎因老人的出现感到惊愕和紧张。</span>
+3,,<span class='scene-font-katari'>戸惑うベアトリクスは、</span><br><span class='scene-font-katari'>バザラガ、ユーステスまで</span><br><span class='scene-font-katari'>緊張していることに気が付く。</span>,<span class='scene-font-katari'>贝阿朵丽丝并不明白原因，但她发现巴萨拉卡和尤斯提斯也在紧张。</span>
+4,ベアトリクス/贝阿朵丽丝,な、なぁゼタ。<br>あの人一体、何者なんだ？,泽、泽塔。<br>那个人到底是谁？
+5,ゼタ/泽塔,さぁ？<br>でも、まさか……,不知道。<br>也许是……
+6,イルザ/伊尔莎,その、まさかだ……,就是你想的那样……
+7,イルザ/伊尔莎,この方は<br>第零拠点の研究者や開発者、<br>科学者を纏める最高責任者。,这位就是第零据点研究开发人员的最高负责人。
+8,イルザ/伊尔莎,アランドゥーズ殿だ。,阿兰多斯阁下。
+9,ベアトリクス/贝阿朵丽丝,<span class='scene-font-4'>ええっ！？</span><br>じゃあこの人がトップなのか？,<span class='scene-font-4'>咦！？</span>那他就是这里的老大吗？
+10,アランドゥーズ,トップ、か。,老大，么。
+11,アランドゥーズ,確かにそうかもしれないが、<br>俺は君達よりもただ長く、<br>この組織にいるだけだ。,可以这样说。但是，只不过我在组织的时间比你们都久而已。
+12,アランドゥーズ,こんな死にぞこないに<br>萎縮する必要はない。,不需要对我这样的老头太拘谨。
+13,イルザ/伊尔莎,言っておくが、真に受けて<br>妙な口をきくなよ、癇癪玉。,我先警告你，摔炮，别把这话当真结果说出一些奇怪的来话。
+14,イルザ/伊尔莎,この方は多くの偉業を<br>成し遂げてきたのだからな。,这位大人筑起了许多伟业。
+15,ベアトリクス/贝阿朵丽丝,偉業？<br>一体なにしてきたんだ？,伟业？<br>他究竟做了什么？
+16,ユーステス/尤斯缇斯,組織の武器や道具の大抵は、<br>アランドゥーズの発明だ。,组织的武器和工具，大多都是阿兰多斯发明的。
+17,ユーステス/尤斯缇斯,この伝声機も例外ではない。,这个传声机也不例外。
+18,バザラガ/巴萨拉卡,それに以前の事件で、<br>ゼタにつけられた監視装置を<br>開発したとも聞いている。,我听说因为之前那件事装在泽塔身上的监视装置也是他开发的。
+19,,<span class='scene-font-katari'>バザラガの言葉を聞き、</span><br><span class='scene-font-katari'>ゼタは過去の出来事を思い返す。</span>,<span class='scene-font-katari'>听了巴萨拉卡的话，泽塔回想起往事。</span>
+21,ユーステス/尤斯缇斯,左手を出せ、ゼタ。,把左手伸出来，泽塔。
+22,,<span class='scene-font-katari'>ユーステスに促され、</span><br><span class='scene-font-katari'>怪訝な顔で手を差し出すゼタ。</span>,<span class='scene-font-katari'>在尤斯缇斯的催促下，泽塔一脸诧异地伸出左手。</span>
+23,,<span class='scene-font-katari'>すると、ゼタの手首に鉄の輪が</span><br><span class='scene-font-katari'>はめられた。</span>,<span class='scene-font-katari'>随后她的手腕被套上了一个铁圈。</span>
+24,ゼタ/泽塔,……何これ。,……这是什么？
+25,イルザ/伊尔莎,監視装置だ。<br>グロウノス紛失の関係者は<br>これから居場所と行動を監視される。,监视装置。<br>古洛诺斯丢失一事的相关人员都会被监视位置和行动。
+27,ゼタ/泽塔,この人が、あれを……,那是，他发明的……？
+28,バザラガ/巴萨拉卡,それに、かつてグルザレッザが<br>盗み出した星晶獣を制御する<br>装置をも作り上げたそうだ。,还有，之前古扎雷萨偷走的，能够支配星晶兽装置也是他做的。
+29,ベアトリクス/贝阿朵丽丝,星晶獣を制御する装置？,支配星晶兽的装置？
+30,,<span class='scene-font-katari'>そう呟いたベアトリクスは</span><br><span class='scene-font-katari'>オダヅモッキーという荒くれ者集団と</span><br><span class='scene-font-katari'>対峙した過去のことを思い返す。</span>,<span class='scene-font-katari'>说着，贝阿朵丽丝回想起曾经与一个叫做”妄人帮“的混混集团对峙的情形。</span>
+32,グルザレッザ,ヌハハハッ！！<br>そうだ……！！　怯えろ！！<br>貴様らはそちら側だ！！,哈哈哈哈！<br>没错……！！怕了吧！！<br>你们才是那边的！！
+33,,<span class='scene-font-katari'>不敵にグルザレッザは笑うと、</span><br><span class='scene-font-katari'>懐から妖しき輝きを放つ結晶体を</span><br><span class='scene-font-katari'>取り出して一行に見せる。</span>,<span class='scene-font-katari'>古扎雷萨狂笑着取出一些散发着诡异光芒的晶体。</span>
+34,ベアトリクス/贝阿朵丽丝,な、なんだよそれ……！,那、那是什么……！
+35,グルザレッザ,これは星晶獣を制御する能力を持つ……<br>組織が作り上げた制御装置よ……！,这是能够支配星晶兽的……组织做出来的装置啊……！
+37,ベアトリクス/贝阿朵丽丝,あっ！！　ア・ウンとかいう<br>星晶獣を操ってたアレか！？,啊！！ 是操纵叫什么阿吽的星晶兽的！？
+38,ユーステス/尤斯缇斯,最近では……<br>完全自律型の魔導人形の開発にも<br>成功したようだ。,最近……<br>似乎还成功开发出了完全自律的魔导人偶。
+39,,<span class='scene-font-katari'>ユーステスはそう呟くと、</span><br><span class='scene-font-katari'>アランドゥーズの周りに居る</span><br><span class='scene-font-katari'>魔導人形を指差す。</span>,<span class='scene-font-katari'>尤斯缇斯说着将阿兰多斯身边的魔导人偶指给贝阿朵丽丝看。</span>
+40,,<span class='scene-font-katari'>無骨な人型の機械は、</span><br><span class='scene-font-katari'>静かに一行にお辞儀をした。</span>,<span class='scene-font-katari'>其貌不扬的人型机械向众人静静行礼。</span>
+41,魔導人形,…………,
+42,ゼタ/泽塔,完全自律型って、<br>命令しなくても勝手に動くってこと？<br>とんでもないわね……,完全自律，你是说没有命令它也会自己行动？<br>太了不起了……
+43,ユーステス/尤斯缇斯,それだけではない。,不仅如此。
+44,ベアトリクス/贝阿朵丽丝,<span class='scene-font-4'>うえぇ！？</span><br>ま、まだあるのか！？,<span class='scene-font-4'>咦！？</span><br>还、还有吗！？
+45,ユーステス/尤斯缇斯,アランドゥーズは<br>現在の組織の形を作った、<br>創始者の一人だ。,阿兰多斯是组织创始人中的一员。
+46,ゼタ/泽塔,<span class='scene-font-4'>そ、創始者ぁ！？</span>,<span class='scene-font-4'>创、创始人！？</span>
+47,ベアトリクス/贝阿朵丽丝,めちゃくちゃ偉い人じゃないか！<br>じいちゃんにしか見えないのに……,那可是位大人物啊！<br>虽然看起来就像普通的老爷爷……
+48,イルザ/伊尔莎,お、おい、癇癪玉！！<br>言ったそばから<br>なんて口をきくんだ！,喂、喂、你这摔炮！！<br>我刚嘱咐过你！
+49,ベアトリクス/贝阿朵丽丝,ひいっ！,咦！
+50,イルザ/伊尔莎,申し訳ありません。<br>私の教え子がとんだご無礼を……,十分抱歉。<br>我的学生太没礼貌了……
+51,アランドゥーズ,じいちゃん、か。<br>孫でも出来た気分だな。,老爷爷、么。<br>听着就好像我有孙子孙女了一样。
+52,アランドゥーズ,別になんと呼ぼうが構わん。<br>さっきも言ったが、俺に<br>萎縮する必要など全くない。,你们叫我什么都行。<br>刚才我也说过了，你们没必要在我面前感到拘谨。
+53,アランドゥーズ,俺はただ少しだけ人よりも<br>自分の好きなことをしてきただけだ。,我只是比常人更能投入到自己喜欢的事物中去罢了。
+54,アランドゥーズ,重鎮や創始者など持て囃されるが、<br>蓋を開けてみれば、俺はただの<br>机に齧りついているだけの老人だ。,大家都抬举我称我为大人物，创始者，其实我只是个在桌前埋头研究的老头子而已。
+55,アランドゥーズ,だからつまらぬことで萎縮するな。<br>肩の力を抜いてくれ。,所以不需要那么紧张。<br>放松一点吧。
+56,ベアトリクス/贝阿朵丽丝,お、おお？<br>なんか顔に似合わず、<br>謙虚なじいちゃんだな。,哦、哦？<br>和看起来不同，他还挺谦虚的嘛。
+57,ゼタ/泽塔,そうね、意外。<br>もっと偏屈だと思ってた。,是啊，真意外。<br>还以为会更乖僻一点的。
+58,イルザ/伊尔莎,<span class='scene-font-4'>お前達！！</span>,<span class='scene-font-4'>你们两个！！</span>
+59,ゼタ・ベアトリクス,<span class='scene-font-4'>す、すみません！</span>,<span class='scene-font-4'>对、对不起！</span>
+60,アランドゥーズ,フフ、若いな。<br>賑やかでいい。,呵呵，年轻真好啊。<br>热热闹闹的。
+61,イルザ/伊尔莎,申し訳ありません……,十分抱歉……
+62,アランドゥーズ,構わんよ。<br>むしろいい気休めになる。<br>普段は味わえぬ新鮮な気分だ。,没关系。<br>对我来说也是一种放松。<br>这是我平时无法接触到的新鲜空气啊。
+63,ユーステス/尤斯缇斯,アランドゥーズ。,阿兰多斯。
+64,アランドゥーズ,うん？,嗯？
+65,ユーステス/尤斯缇斯,お前が直接出てきたんだ。<br>それほど重大な話ということか。,既然你都出来了，可见事情有多重要。
+66,,<span class='scene-font-katari'>アランドゥーズは鷹揚に頷くと、</span><br><span class='scene-font-katari'>彼の周りに居た魔導人形が、</span><br><span class='scene-font-katari'>あるものを取り出して見せる。</span>,<span class='scene-font-katari'>阿兰多斯从容地点头。随后他身边的魔导人偶取出了某样东西。</span>
+67,,<span class='scene-font-katari'>一行はそれを目撃し、</span><br><span class='scene-font-katari'>大きく目を見開いた。</span>,<span class='scene-font-katari'>看到它后，众人不约而同地瞪大眼睛。</span>
+68,バザラガ/巴萨拉卡,それは、グロウノスか……！？,这是，古洛诺斯吗……！？
+69,ゼタ/泽塔,あの時、<br>完璧に壊れたはずじゃ……,那时候不是完全破坏了吗……
+70,アランドゥーズ,研究の結果、<br>完全修復に成功したのだ。,经过研究之后已经完全修复成功了。
+71,アランドゥーズ,バザラガ。<br>お前の鎧と同じ原理だったよ。,巴萨拉卡。<br>和你的铠甲是同样的原理。
+72,バザラガ/巴萨拉卡,ほう。,哦？
+73,ゼタ/泽塔,そういえばアンタ。<br>いつの間にか<br>いつもの格好に戻ってたわね。,说起来，你不知什么时候就换回之前的打扮了啊。
+74,バザラガ/巴萨拉卡,魔術医によれば、俺の細胞に<br>融合したグロウノスの機械細胞が、<br>鎧を元の形状へ修復したらしい。,根据魔术医师的说法，古洛诺斯的机械细胞和我的细胞融合，进而修复了铠甲。
+75,アランドゥーズ,その脅威的な自己修復能力が、<br>壊れたグロウノスにも<br>微弱だが、残っていた。,那近乎具有威胁性的自我修复能力在古洛诺斯内部还有残留。
+76,アランドゥーズ,それを利用し、<br>グロウノスを元の武器の形へ<br>再生させることができたんだ。,利用它，我成功使古洛诺斯复原成原来的武器了。
+77,アランドゥーズ,もっとも……<br>「元」が武器だったのかどうかは<br>今となっては疑わしいがな。,不过……<br>它「本来」究竟是不是武器，现在也说不好。
+78,アランドゥーズ,ああ、それと<br>所謂機神の再封印は出来なかった。,对了 ，机神的再次封印失败了。
+79,バザラガ/巴萨拉卡,まだ暴走の危険性があるのか。,所以还有暴走的危险性吗？
+80,アランドゥーズ,こいつは今、眠っているだけだ。<br>いつまた機神の姿に戻るかは分からん。,它只是在休眠而已。<br>不知道何时会变回机神。
+81,アランドゥーズ,次に暴走をしたとき、<br>また抑えられる保証はどこにもない。,无法保证它下次暴走的时候我们能否抑制它。
+82,アランドゥーズ,それはグロウノスだけでなく、<br>君達が持つ<span class='scene-font-spword'>“封印武器”</span>にも、<br>言えることだ。,而且，不只是古洛诺斯，你们的<span class='scene-font-spword'>“封印武器”</span>也一样。
+83,イルザ/伊尔莎,「封印武器」？,
+84,アランドゥーズ,便宜上、契約者の武器を<br>そう呼称させてもらっている。,我是这么简称你们契约者的武器的。
+85,アランドゥーズ,完全に封印が出来ていない現状、<br>皮肉めいたものに<br>なってしまっているがな。,虽然封印根本就不完全，这么叫也有些讽刺。
+86,アランドゥーズ,兎にも角にも、早急に<br>再封印及び完全封印の方法を<br>見つけださなければならないのだ。,总之，我必须尽快找出再封印与完全封印的方法。
+87,イルザ/伊尔莎,なるほど。<br>なぜ我々がここに呼ばれたのか、<br>大体、予測がつきました。,原来如此。<br>我大概知道你为什么叫我们来了。
+88,ユーステス/尤斯缇斯,研究のために、<br>「封印武器」が必要なんだな。,为了进行研究，「封印武器」是必要的吧。
+89,アランドゥーズ,話が早くて助かるよ。<br>ユーステス、イルザ。,你们能理解实在是太好了，尤斯缇斯，伊尔莎。
+90,アランドゥーズ,研究しようにも今は<br>研究材料が全く足りない。,现在就算我想研究，也没有材料供我研究。
+91,アランドゥーズ,君達の「封印武器」を<br>俺に一度預けてくれないか。,能把你们的「封印武器」暂时交给我吗？
+92,アランドゥーズ,研究が進めば、すぐにでも<br>返却することを約束しよう。,我保证只要研究有一点进展，就会把它们还给你们。
+93,ベアトリクス/贝阿朵丽丝,ええ～？<br>そんなこと急に言われてもなぁ。,咦～？<br>可是好突然啊。
+94,ゼタ/泽塔,ま～、しょうがないわね。<br>好きに使って。,嗨，也没办法。<br>拿去尽情研究吧。
+96,イルザ/伊尔莎,そう言った事情ならば、<br>致し方ありません。<br>どうぞ、お使い下さい。,也只有这样了。<br>请拿去用吧。
+98,ユーステス/尤斯缇斯,…………,
+101,ベアトリクス/贝阿朵丽丝,<span class='scene-font-4'>って、お前ら！？</span><br>なに簡単に渡してるんだよ！,<span class='scene-font-4'>喂、你们！？</span><br>怎么这么干脆地就交出去了！
+102,ゼタ/泽塔,だから、<br>しょうがないって言ったでしょ。<br>研究のためなんだからさ。,所以说了，没办法嘛。<br>这是为了研究。
+103,ベアトリクス/贝阿朵丽丝,そ、そりゃ、<br>そうかもしれないけど、でも……,这、这个嘛，的确……可是……
+104,,<span class='scene-font-katari'>悩むベアトリクスに</span><br><span class='scene-font-katari'>ユーステスは近づき、耳打ちをした。</span>,<span class='scene-font-katari'>这时，尤斯缇斯凑到贝阿朵丽丝耳边小声说道。</span>
+105,ユーステス/尤斯缇斯,今は従っておけ。,现在先听他的。
+106,ベアトリクス/贝阿朵丽丝,えっ……？,咦……？
+107,ユーステス/尤斯缇斯,理由は後で話す。<br>……いいな。,理由之后再说。<br>……懂了吧？
+108,ベアトリクス/贝阿朵丽丝,あ、ああ。,嗯……
+109,,<span class='scene-font-katari'>ユーステスの言葉を受け入れ、</span><br><span class='scene-font-katari'>ベアトリクスは渋々、</span><br><span class='scene-font-katari'>エムブラスクの剣を魔導人形に渡す。</span>,<span class='scene-font-katari'>贝阿朵丽丝听从尤斯缇斯的话，将艾伯拉斯克之剑交给了魔导人偶。</span>
+110,アランドゥーズ,感謝する。<br>君達の英断を無駄にしないよう、<br>全力で研究を進めよう。,谢谢你们。<br>我一定会不辜负你们明智的选择全力研究的。
+111,アランドゥーズ,では、これで失礼するよ。,那么，我先失陪了。
+112,,<span class='scene-font-katari'>アランドゥーズは一礼すると、</span><br><span class='scene-font-katari'>魔導人形と共に部屋を後にする。</span>,<span class='scene-font-katari'>阿兰多斯和众人道别后，带着魔导人偶离开了房间。</span>
+113,,<span class='scene-font-katari'>その時、ベアトリクスは</span><br><span class='scene-font-katari'>一瞬だけエムブラスクの剣が</span><br><span class='scene-font-katari'>光ったように見えた。</span>,<span class='scene-font-katari'>这时，贝阿朵丽丝似乎看见艾伯拉斯克之剑发出了瞬间的闪光。</span>
+114,ベアトリクス/贝阿朵丽丝,あっ……,啊……
+115,,<span class='scene-font-katari'>遠ざかっていくエムブラスクの剣を、</span><br><span class='scene-font-katari'>ベアトリクスは</span><br><span class='scene-font-katari'>悲しそうに見つめるのだった。</span>,<span class='scene-font-katari'>她悲伤地注视着远去的艾伯拉斯克之剑。</span>
+120,,<span class='scene-font-katari'>ベアトリクス達が武器を</span><br><span class='scene-font-katari'>アランドゥーズに預けてから</span><br><span class='scene-font-katari'>しばらく時が過ぎた頃──</span>,<span class='scene-font-katari'>贝阿朵丽丝等人上交武器后过了一段时间——</span>
+121,,<span class='scene-font-katari'>過去に暴走したグロウノスと</span><br><span class='scene-font-katari'>激しい戦闘を繰り広げた場である、</span><br><span class='scene-font-katari'>月の剥片に異常が起きていた。</span>,<span class='scene-font-katari'>古洛诺斯当初暴走、众人与之激战的地点——月之碎片出现了异常状况。</span>
+129,,<span class='scene-font-katari'>一瞬、空が煌めいたかと思えば、</span><br><span class='scene-font-katari'>巨大な隕石が落下してきたのだ。</span>,<span class='scene-font-katari'>天空一闪，巨大的陨石坠下。</span>
+134,,<span class='scene-font-katari'>隕石は地面に激突すると、</span><br><span class='scene-font-katari'>爆音を立てて、砕けた。</span>,<span class='scene-font-katari'>陨石与地面剧烈撞击后碎裂，发出巨大的爆炸声。</span>
+135,,<span class='scene-font-katari'>すると、砕けた隕石の中から</span><br><span class='scene-font-katari'>球状の巨大な機械が出現する。</span>,<span class='scene-font-katari'>粉碎的陨石中出现了一台球状的机械。</span>
+136,,<span class='scene-font-katari'>球状の機械はところどころ破損し、</span><br><span class='scene-font-katari'>黒煙を立ち昇らせていた。</span>,<span class='scene-font-katari'>球状机械四处都有破损，扬起了黑烟。</span>
+143,カシウス,ゴホッ、クッ……<br>はぁ……はぁ……！！,咳咳……<br>哈……哈……！！
+144,,<span class='scene-font-katari'>機械の一部の外壁が蹴破られると</span><br><span class='scene-font-katari'>満身創痍といった様子の青年が</span><br><span class='scene-font-katari'>姿を現す。</span>,<span class='scene-font-katari'>机械的外壁被踢破，一个满身疮痍的青年爬了出来。</span>
+151,,<span class='scene-font-katari'>青年が這い出ると、</span><br><span class='scene-font-katari'>しばらくして機械は爆散した。</span>,<span class='scene-font-katari'>青年出来后不久，机械就爆炸了。</span>
+152,カシウス,チッ、整備ミスか……？<br>まあいい、これより任務を遂行する。,切，维护出了差错吗……？<br>算了。开始执行任务。
+153,カシウス,ｽｲﾄﾅ ﾄｿﾆｶﾁｶﾆﾗﾐ.,Resu scitation.
+154,,<span class='scene-font-katari'>震える腕で青年は、</span><br><span class='scene-font-katari'>手にしていた槍を天高く掲げた。</span>,<span class='scene-font-katari'>青年用颤抖的手高举长枪。</span>
+155,,<span class='scene-font-katari'>しかし、何の反応も起きず、</span><br><span class='scene-font-katari'>青年は不機嫌そうに舌打ちをする。</span>,<span class='scene-font-katari'>然而什么都没有发生。青年不快地咋舌。</span>
+156,カシウス,反応がない……,没有反应……
+157,,<span class='scene-font-katari'>小さく呟いたカシウスの</span><br><span class='scene-font-katari'>視界が揺れ始める。</span>,<span class='scene-font-katari'>卡西乌斯小声说着，发觉自己的视野在摇晃。</span>
+158,,<span class='scene-font-katari'>ふと、青年は頭部から大量に</span><br><span class='scene-font-katari'>出血をしていることに気が付く。</span>,<span class='scene-font-katari'>他才察觉到自己的头部大量出血。</span>
+159,カシウス,ぐっ……出血が激しい……<br>意識を……保つのも、限界か……,唔……出血量太大……<br>维持清醒也……到极限了么……
+160,カシウス,なら、ば……,那么……
+161,,<span class='scene-font-katari'>朦朧とする意識の中、</span><br><span class='scene-font-katari'>青年は宙に輪を描くように</span><br><span class='scene-font-katari'>槍を振るった。</span>,<span class='scene-font-katari'>意识朦胧中，青年举起长枪在空中描画。</span>
+162,,<span class='scene-font-katari'>するとしばらくして、</span><br><span class='scene-font-katari'>空から大量の虫のような、</span><br><span class='scene-font-katari'>気味の悪い機械が姿を現す。</span>,<span class='scene-font-katari'>随后空中出现了大量虫形的诡异机械。</span>
+164,？？？,キチキチキチ！！,吱——！！
+165,カシウス,うっ……,呜……
+167,,<span class='scene-font-katari'>大量の虫が降りてくるのを</span><br><span class='scene-font-katari'>確認した青年は、とうとう</span><br><span class='scene-font-katari'>意識を失ってしまうのだった。</span>,<span class='scene-font-katari'>确认群虫的降临后，青年终于失去了意识。</span>
+info,,,scene_evt181231_cp1_q4_s10
