@@ -142,7 +142,7 @@ gulp.task('md5', ['pack'], function (done) {
 })
 
 gulp.task('rewrite-script', ['clean:dist'], function () {
-  return fs.outputFile('./dist/blhxfy/game-config.js', `document.write('<script src="http://game-a3.granbluefantasy.jp/assets' + (Game.lang === 'en' ? '_en' : '') + '/' + Game.version + '/js/config.js?lyria"></script>')
+  return fs.outputFile('./dist/blhxfy/game-config.js', `document.write('<script src="' + Game.jsUri + '/config.js?lyria"></script>')
 document.write('<script src="https://blhx.danmu9.com/blhxfy/extension.ios.user.js"></script>')`)
 })
 
