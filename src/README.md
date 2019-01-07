@@ -39,7 +39,7 @@
 
 例如编辑 Shadowrocket （不是国区搜到的那个12元的，原版已在国区下架，需到外服购买） 的配置，点击“添加URL重写”，然后按下面的格式添加规则：
 ```
-URL: ^http://(game-a3\.granbluefantasy\.jp|gbf\.game-a3\.mbga\.jp)/assets(_en)?/\d+/js/config.js$
+URL: ^http://(game-a3\.granbluefantasy\.jp|gbf\.game-a3\.mbga\.jp)/assets(_en)?/\d+/js[^/]*/config\.js$
 TO: https://blhx.danmu9.com/blhxfy/game-config.js
 ```
 这会将游戏的 config.js 重定向到 https://blhx.danmu9.com/blhxfy/game-config.js
@@ -58,7 +58,7 @@ document.write('<script src="https://blhx.danmu9.com/blhxfy/extension.ios.user.j
 这里提供一个已清空的配置文件：https://blhx.danmu9.com/blhxfy/data/static/blhxfy-without-proxy.conf 用 Shadowrocket 可以直接导入。
 
 不限于 Shadowrocket ，你有其他支持 URL 重写的 APP 都可以尝试这个办法，
-只需要将 `^http://(game-a3\.granbluefantasy\.jp|gbf\.game-a3\.mbga\.jp)/assets(_en)?/\d+/js/config.js$` 重定向到 `https://blhx.danmu9.com/blhxfy/game-config.js`
+只需要将 `^http://(game-a3\.granbluefantasy\.jp|gbf\.game-a3\.mbga\.jp)/assets(_en)?/\d+/js[^/]*/config\.js$` 重定向到 `https://blhx.danmu9.com/blhxfy/game-config.js`
 
 甚至 Android 上也可以用这个方案，这样你就不必一定要在 yandex 浏览器上使用汉化插件了。不过这里并不支持加载 viramate 等
 Chrome 扩展。
