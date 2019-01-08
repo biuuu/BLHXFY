@@ -1,0 +1,78 @@
+id,name,text,trans
+0-chapter_name,,第3話 敵か、味方か,第三话 是敌是友
+0-synopsis,,カシウスの治療のためにイルザの輸送艇へ向かいユーステス達に合流した一行だったが、虫の大群に襲われてしまう。攻撃を受け墜落しかけた輸送艇だが、カシウスの的確な対処により危機を乗り切る。その後、第零拠点が襲撃を受けていると連絡を受けた一行は、第零拠点へ急行するのだった。,为了治疗卡西乌斯一行人前往伊尔莎的运输艇与尤斯缇斯汇合，却遭到了大量机械虫的袭击。卡西乌斯用极其精准的操作使众人脱离了坠机的危机。在那之后一行人得知第零据点也遭受了袭击而急忙赶去支援。
+7,,<span class='scene-font-katari'>ベアトリクスはカシウスに</span><br><span class='scene-font-katari'>組織の治療を施してやるべく、</span><br><span class='scene-font-katari'>イルザの輸送艇へ向かった。</span>,<span class='scene-font-katari'>贝阿朵丽丝为了让卡西乌斯接受组织的治疗而前往伊尔莎的运输艇。</span>
+8,,<span class='scene-font-katari'>ベアトリクスを除く、組織の</span><br><span class='scene-font-katari'>メンバーは既に揃っており、</span><br><span class='scene-font-katari'>一行は彼らに事情を説明した。</span>,<span class='scene-font-katari'>除了贝阿朵丽丝的组织成员已经集合，一行人向他们说明了情况。</span>
+9,ユーステス/尤斯缇斯,成程。<br>結局、虫の出所は掴めず<br>代わりに怪我人を保護したのか。,原来如此，结果还是没有发现虫子的发生源，但是救了个人回来吗。
+10,ベアトリクス/贝阿朵丽丝,コイツさ。<br>どうも墜落のショックで記憶が<br>変になっちゃったみたいなんだ。,就是这家伙啦，好像脑袋被撞到了记忆有点模糊。
+11,ベアトリクス/贝阿朵丽丝,組織の魔術医とか、<br>治療技術とかで治してやれないか？,能让组织的魔术医生什么的治一下吗？
+12,ユーステス/尤斯缇斯,診察してみないとわからんだろうが、<br>治療するかどうかは別の話だな。,诊断一下没问题，治疗就另当别论了。
+13,ルリア/露莉亚,ええっ！？<br>ど、どうしてですか！？,唉？为什么呀？
+14,ユーステス/尤斯缇斯,素性も分からない男を<br>組織の支部に連れて行くような<br>危険を冒すわけにいかない。,不能让来历不明的男人进入组织支部里，太危险了。
+15,カシウス,…………,…………
+16,,<span class='scene-font-katari'>ユーステス達が</span><br><span class='scene-font-katari'>懐疑的な視線を寄せる中──</span>,<span class='scene-font-katari'>在尤斯缇斯一行对卡西乌斯投向怀疑的目光时，</span>
+18,,<span class='scene-font-katari'>突如として、</span><br><span class='scene-font-katari'>大きな衝撃が艇を襲った。</span>,<span class='scene-font-katari'>运输艇忽然遭受了巨大的冲击。</span>
+19,イルザ/伊尔莎,何が起きた！<br>報告しろ！,发生什么了？快报告！
+20,,<span class='scene-font-katari'>即座にイルザが伝声機を取ると、</span><br><span class='scene-font-katari'>彼女の部下の慌てた声が響く。</span>,<span class='scene-font-katari'>伊尔莎立即抓起了传声机，里面传来了部下慌张的声音。</span>
+21,イルザの部下１,<span class='scene-font-gray scene-font-4'>教官！！　て、敵襲です！</span><br><span class='scene-font-gray scene-font-4'>数え切れないほどの虫が！！</span><br><span class='scene-font-gray scene-font-4'>艇に纏わりついてます！！</span>,教官！！是敌人的袭击！数不清的机械虫子正缠绕着运输艇！</span>
+22,イルザの部下１,<span class='scene-font-gray scene-font-4'>現在、総力をもって応戦中！</span>,现在正在全力应战中！
+24,イルザの部下１,<span class='scene-font-gray scene-font-4'>クッソ！　この虫共め……！！</span><br><span class='scene-font-gray scene-font-4'>喰らえええええっ！！</span>,可恶！这些破虫子……!吃我一发！！！</span>
+25,イルザ/伊尔莎,いいぞ、そのままクソ程撃ち続けろ！<br>虫を艇にこれ以上近づけるな！！<br>我々もすぐに加勢する！,干得漂亮！继续往死里打！不要让虫子们接近运输船！我们马上就去增援！
+26,イルザの部下１,<span class='scene-font-gray scene-font-4'>イエス・マム！！</span>,<span class='scene-font-gray scene-font-4'>是，长官！</span>
+27,イルザの部下１,<span class='scene-font-gray scene-font-4'>おらおらおらおらぁ！！</span>,<span class='scene-font-gray scene-font-4'>欧啦欧啦欧啦欧啦！！</span>
+29,イルザ/伊尔莎,ユーステス！<br>今すぐ、迎撃するぞ！<br>狙撃を頼めるか！,现在开始战斗！尤斯缇斯，能狙击吗！
+30,ユーステス/尤斯缇斯,ああ、任せてくれ。,交给我吧。
+31,イルザ/伊尔莎,仔犬！　癇癪玉！<br>鎧チキン！<br>お前達も砲台や機銃を使え！,小狗！小摔炮！大铠鸡！你们也上炮台！
+32,イルザ/伊尔莎,群がる小汚いクソ虫共に<br>鉛玉を大量にご馳走してやれ！,用炮弹给我把这帮小臭虫喂饱了！
+33,３人,了解！,了解！
+34,ルリア/露莉亚,わ、私達も手伝いましょう！<br>姬塔！,我，我们也去帮忙吧，姬塔！
+35,,<span class='scene-font-katari'>姬塔は頷き、</span><br><span class='scene-font-katari'>艇の側面に備え付けられた</span><br><span class='scene-font-katari'>銃架を利用し、虫を撃ち始める。</span>,<span class='scene-font-katari'>姬塔点了点头，利用运输船侧面的机关枪扫射机械虫。</span>
+43,,<span class='scene-font-katari'>砲台や艇の側面にある銃架から</span><br><span class='scene-font-katari'>雨のように弾丸や魔法が飛び、</span><br><span class='scene-font-katari'>虫を攻撃する。</span>,<span class='scene-font-katari'>炮台和机关枪的子弹如暴雨一般倾泻到机械虫群。</span>
+47,,<span class='scene-font-katari'>しばらく続いた一行による</span><br><span class='scene-font-katari'>銃撃の嵐は艇の周りに居た虫を</span><br><span class='scene-font-katari'>全て呑み込み、駆逐した。</span>,<span class='scene-font-katari'>片刻间运输艇周围的机械虫被扫射一空。</span>
+48,,<span class='scene-font-katari'>しかし、虫による攻撃を</span><br><span class='scene-font-katari'>全て防げたわけではなく、</span><br><span class='scene-font-katari'>艇は損傷し、黒煙を上げていた。</span>,<span class='scene-font-katari'>但是虫群的攻击还是对运输艇造成了损伤。</span>
+53,,<span class='scene-font-katari'>交戦後、一行は</span><br><span class='scene-font-katari'>揺れ動く艇を移動し、</span><br><span class='scene-font-katari'>操縦席のあるデッキに来ていた。</span>,<span class='scene-font-katari'>交战后的运输艇摇摇欲坠，一行人来到了操纵室。</span>
+54,イルザ/伊尔莎,何をしている！！<br>すぐに艇を安定させろ！,你在干什么！还不快稳住运输艇！
+55,操縦士,し、しかし！　装置がなに一つ、<br>言うことを聞いてくれません！,但、但是操纵装置完全不听使唤！
+56,バザラガ/巴萨拉卡,なにかが破損したか？,是哪里坏了吗？
+57,操縦士,このまま高度が下がり続ければ！<br>ふ、浮力消失高度に<br>到達してしまいます！,再往下掉的话就要离开浮力区域了！
+58,ゼタ/泽塔,は！？　それって、<br>墜落するってこと……！？,哈？也就是说要坠机了……！？
+59,ベアトリクス/贝阿朵丽丝,<span class='scene-font-4'>ええええっ！？</span>,唉唉唉唉！？
+60,ゼタ/泽塔,ベアちょっと落ち着いて！<br>ああ、もう！　どうすれば……！,贝阿冷静一下！啊真是的！该怎么办啊！
+61,カシウス,ふむ。,唔。
+62,,<span class='scene-font-katari'>一行が混乱する中、</span><br><span class='scene-font-katari'>カシウスは手に持つ槍の柄で</span><br><span class='scene-font-katari'>数回、床を叩いた。</span>,<span class='scene-font-katari'>在众人混乱不堪的时候，卡西乌斯用手中的枪柄敲了敲地板。</span>
+63,カシウス,なるほど。,原来如此。
+64,,<span class='scene-font-katari'>カシウスは頷くと、</span><br><span class='scene-font-katari'>操縦席へと近づいていく。</span>,<span class='scene-font-katari'>卡西乌斯点了点头，然后前往操纵席。
+65,カシウス,代われ。,换我上。
+66,操縦士,<span class='scene-font-4'>は！？</span>,哈！？</span>
+67,イルザ/伊尔莎,何をするつもりだ！？,你想干什么！?
+68,カシウス,この状況を打開する。<br>具体的な方法や意図を説明している暇は<br>今は無い。,我会帮你们摆脱困境。现在没时间说明具体的操作方法。
+69,カシウス,助かりたいならば、<br>俺に代われ。,想要得救就让我操作运输艇。
+70,操縦士,そ、そんなこと言われても……,你这样说我也很难办啊……
+71,イルザ/伊尔莎,いいだろう。<br>そこまで言うんだ。<br>代わってやれ。,好吧，他都说到这份上了，你让他来试试。
+72,操縦士,りょ、了解！,了、了解！
+73,,<span class='scene-font-katari'>混乱する操縦士を</span><br><span class='scene-font-katari'>カシウスは退かせ、</span><br><span class='scene-font-katari'>操縦席に座り、機械を弄り始める。</span>,<span class='scene-font-katari'>卡西乌斯坐在操纵席上开始摆弄着机械。</span>
+74,ユーステス/尤斯缇斯,直せるのか？,能修好吗？
+75,,<span class='scene-font-katari'>カシウスは問いに答えず、</span><br><span class='scene-font-katari'>大量のスイッチを素早く押した後</span><br><span class='scene-font-katari'>操舵輪を巧みに操作してみせた。</span>,<span class='scene-font-katari'>他并没有回答，而是快速精确地敲打大量的按钮让众人见识到了绝妙的操纵技巧。</span>
+76,,<span class='scene-font-katari'>しばらくすると徐々に</span><br><span class='scene-font-katari'>艇の揺れは収まり始めた。</span>,<span class='scene-font-katari'>过了一会，运输艇渐渐地安定了下来。</span>
+77,操縦士,こ、高度安定！<br>墜落を免れた……のか？,高、高度安定了！得救了....吗？
+78,イルザの部下１,やった！　やったぁ！<br>助かったぞぉ！,太好了！太好了！得救了啊喂！
+79,ルリア/露莉亚,よ、よかったです……<br>どうなってしまうかと……,太好了...我还以为会出什么事....
+80,ベアトリクス/贝阿朵丽丝,凄いじゃないか、カシウス！<br>お前、どうやったんだ！？,卡西乌斯好厉害啊！你怎么办到的！？
+81,カシウス,３番及び５番の羽根を回転させる<br>圧力が不足し、シャフトの挙動が<br>不安定になっていた。,3号和5号的机翼的压力不足导致了轴承不稳。
+82,カシウス,故にいくつかのバルブを閉鎖し、<br>破損した羽根の動力を他に回し、<br>一時的に安定させた。,所以我关闭了几个真空管，让受损机翼的动力转移到其他部分暂时缓解了坠落。
+83,ゼタ/泽塔,へぇー……<br>ありがと、とにかく助かったわ。,原来如此……谢谢，总之帮大忙了。
+84,ベアトリクス/贝阿朵丽丝,もしかしてお前、<br>腕利きのメカニックだったとか？,难道你是很厉害的机械师吗？
+85,カシウス,…………,…………
+86,イルザ/伊尔莎,おかげで部下が助かった。<br>礼を言う。,谢谢你救了我的部下。
+87,カシウス,墜落は回避したかった。<br>死んでしまうからな。,我只是想回避坠机罢了，不然我也会死。
+88,イルザ/伊尔莎,そうだが……,虽然你这么说……
+89,,<span class='scene-font-katari'>イルザが穏やかに呟くと、</span><br><span class='scene-font-katari'>彼女の伝声機とユーステスの</span><br><span class='scene-font-katari'>伝声機が同時に着信を告げる。</span>,<span class='scene-font-katari'>伊尔莎还没说完，她和尤斯缇斯的传声机突然一起响了起来。</span>
+90,,<span class='scene-font-katari'>目を合わせたふたりが</span><br><span class='scene-font-katari'>通信に出ると、慌てふためく</span><br><span class='scene-font-katari'>男の大声が響いた。</span>,<span class='scene-font-katari'>他们接通传声机的时候，操纵室外传来了慌乱的叫声。</span>
+91,イルザの部下３,<span class='scene-font-gray scene-font-4'>イルザ教官！！</span><br><span class='scene-font-gray scene-font-4'>こちら第零拠点！！</span><br><span class='scene-font-gray scene-font-4'>しゅ、襲撃を受けています！</span>,<span class='scene-font-gray scene-font-4'>伊尔莎教官！这里是第零据点！我们正在遭受袭击！</span>
+92,イルザ/伊尔莎,チッ、またか……<br>どこのクソだ今度は！？,切、又来了……这次是哪边的混账！
+93,バザラガ/巴萨拉卡,マズいな。<br>あの拠点に常駐している<br>戦闘員は少ないはずだ。,不妙啊。那个据点的战斗人员很少。
+94,イルザ/伊尔莎,あの場所へすぐに<br>駆けつけられる戦闘員は<br>我々だけか……！,能立即支援的战斗人员只有我们吗...！
+95,イルザ/伊尔莎,ユーステス、緊急事態だ。<br>カシウスを乗せたまま、<br>第零拠点へ向かう！,尤斯缇斯，事关紧急，我们就这样带着卡西乌斯前往第零据点！
+96,ユーステス/尤斯缇斯,了解した。,了解。
+97,,<span class='scene-font-katari'>こうして一行は、</span><br><span class='scene-font-katari'>第零拠点へと急行する。</span>,<span class='scene-font-katari'>就这样一行人火速前往第零据点。</span>
+info,,,scene_evt181231_cp3_q1_s10

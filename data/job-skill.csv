@@ -37,7 +37,7 @@ id,name,detail
 220,超加速,我方全体的连续攻击概率UP
 221,二重冲击,<div class=prt-text-small>效果中必定连续攻击<br><span class=text-blue>枪：所有参战者的二连击概率UP（小)<br>斧：目标的二连击概率DOWN（小）</span></div>
 223,二重冲击,<div class=prt-text-small>效果中必定连续攻击<br><span class=text-blue>枪：所有参战者的二连击概率UP（中）<br>斧：目标的二连击概率DOWN（中）</span></div>
-222,三重冲击,<div class=prt-text-small>效果中必定三连击<br><span class=text-blue>枪：所有参战者的二连击概率UP（大）<br>斧：目标的二连击概率DOWN（大）</span></div>
+222,三重冲击,<div class=prt-text-small>效果中必定三连击<br><span class=text-blue>枪：所有参战者的连击概率UP（大）<br>斧：目标的连击概率DOWN（大）</span></div>
 266,调停之歌,我方全体的二连击概率UP（大）★装备乐器时性能UP
 270,罗喉阿修罗阵,自己的奥义充能上升量UP
 302,守护,给予自己守护效果
@@ -138,7 +138,7 @@ id,name,detail
 3090,前奏曲,我方全体的恢复性能UP ★装备乐器时性能UP
 30046,启奏,OVER DRIVE时目标对我方造成的伤害减少
 ,,
-4300,过载引导,<div class=prt-text-small>对目标造成自身属性伤害<br><span class=text-blue>枪：维持Break状态<br>斧：减少状态条</span></div>
+4300,过载引导,<div class=prt-text-small>对目标造成自身属性伤害<br><span class=text-blue>枪：维持Break状态<br>斧：减少OD条</span></div>
 30048,长柄好手,装备枪时攻击力UP<br>装备斧时防御力UP
 ,,C3
 62,一骑加势II,自己可以立即发动奥义/攻击力UP
@@ -168,7 +168,7 @@ id,name,detail
 3091,前奏曲II,所有参战者的恢复性能UP(累积) ★装备乐器时性能UP
 30047,合奏,调停之歌的二连击概率UP 使用前奏曲II时根据参战者的数量给予我方全体攻击力UP防御力UP
 ,,
-4301,过载引导II,<div class=prt-text-small>对目标造成自身属性伤害<br><span class=text-blue>枪：维持Break状态<br>斧：减少状态条</span></div>
+4301,过载引导II,<div class=prt-text-small>对目标造成自身属性伤害<br><span class=text-blue>枪：维持Break状态<br>斧：减少OD条</span></div>
 30049,危险扳机,共鸣电流造成的伤害UP
 ,,C4
 66,一骑加势III,自己可以立即发动奥义/攻击力UP/奥义连击的伤害UP
@@ -203,7 +203,7 @@ id,name,detail
 30100,神秘奇袭,受到目标OVER DRIVE时的伤害减少/我方全体对弱点属性的对象的弱体成功率UP
 30101,齐奏,<div class=prt-text-small>调停之歌的二连击概率UP<br>使用喝彩时根据参战者的人数我方全体攻击力UP防御力UP</div>
 ,,
-9537,雷光水明,<div class=prt-text-small>对目标造成自身属性伤害　<span class=text-blue>枪：维持Break状态/所有参战者的技能伤害UP 斧：减少状态条/我方全体的奥义伤害UP</span></div>
+9537,雷光水明,<div class=prt-text-small>对目标造成自身属性伤害　<span class=text-blue>枪：维持Break状态/所有参战者的技能伤害UP 斧：减少OD条/我方全体的奥义值UP</span></div>
 30097,动于水下之物，生于云海之物,攻击力UP/防御力UP<br>枪装备时连续攻击概率UP<br>斧装备时在单次攻击时追加自身属性伤害
 ,,EX1
 3110,炼成：治愈膏药,生成治愈膏药

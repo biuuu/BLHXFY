@@ -1,0 +1,35 @@
+id,name,text,trans
+0-chapter_name,,第1話 与えられ、奪われる,第1话 被给予，被夺取
+0-synopsis,,ベアトリクス達が招集を受けている頃、空と星の世界から遠く離れた異世界にて、無機質で巨大な空間を訪れたカシウス。「フォッシルの民」に敗北したという機神セスラカの「エニグマメモリ」の回収を命じられ、「ノイン」と呼ばれる槍を受領したカシウスは、任務のために降下用のポッドに向かうのだった。,当贝阿朵丽丝等人受到召集时，在空与星之外的异世界，卡西乌斯来到一个无机质的巨大空间。他奉命回收败给「化石之民」的机神塞斯拉卡的「英格玛记忆」，受领名为诺因的长枪后向执行任务用的降落舱走去。
+2,,<span class='scene-font-katari'>その頃、空と星の世界から</span><br><span class='scene-font-katari'>遠く離れた異世界にて──</span>,<span class='scene-font-katari'>同一时间，在空与星之外的异世界——</span>
+3,,<span class='scene-font-katari'>錆声の老人から</span><br><span class='scene-font-katari'>呼び出されたカシウスは、</span><br><span class='scene-font-katari'>無機質で巨大な広間に訪れていた。</span>,<span class='scene-font-katari'>受到老人的指名，卡西乌斯来到一个无机质的巨大空间。</span>
+4,,<span class='scene-font-katari'>しばらくすると、</span><br><span class='scene-font-katari'>機械が駆動する音が鳴り響き、</span><br><span class='scene-font-katari'>部屋の中央から光が伸びる。</span>,<span class='scene-font-katari'>没过多久，周围响起机械的轰鸣，房间中亮起了光。</span>
+16,,<span class='scene-font-katari'>光は徐々に形を変え、</span><br><span class='scene-font-katari'>やがてひとりの老人の姿を象った。</span>,<span class='scene-font-katari'>光线变换着形状，最后显现出一个老人的形象。</span>
+17,錆声の老人,エージェント・カシウス。<br>よく来たな。,卡西乌斯特工，你来了。
+18,錆声の老人,では早速だが、<br>特殊任務について話をしよう。,那么我们来谈谈特殊任务的事吧。
+19,錆声の老人,フォッシルの民にセスラカが<br>敗北したことは知っているな？,你应该知道，塞斯拉卡败在弗西尔之民手下吧？
+20,カシウス,耳にはしている。<br>が、疑わしいと思っていた。<br>通常、有り得ない事だからな。,听说过。<br>但我怀疑其真实性。<br>一般来讲这是不可能的。
+21,錆声の老人,だが事実だ。<br>そして敗北の原因は不明のまま。,但这是事实。<br>塞斯拉卡败北的原因至今不明。
+22,錆声の老人,原因不明のままでは次の戦いでも<br>敗北の可能性が残されてしまう。<br>リスクヘッジをしなければならない。,既然没有查明原因，那么下一次战斗也可能败北。<br>必须想办法降低风险。
+23,錆声の老人,すぐにでもセスラカの<br><span class='scene-font-spword'>“エニグマメモリ”</span>に記録された、<br>戦闘データを研究する必要がある。,我们需要尽快拿到塞斯拉卡留在<span class='scene-font-spword'>“英格玛记忆”</span>中的战斗数据。
+24,カシウス,つまり、回収が俺の任務か。,那么，我的任务就是回收么。
+25,,<span class='scene-font-katari'>カシウスの言葉に老人は頷くと、</span><br><span class='scene-font-katari'>ゆっくりと手を上にあげる。</span>,<span class='scene-font-katari'>老人点头，随后慢慢抬起手。</span>
+26,,<span class='scene-font-katari'>すると、その動作に</span><br><span class='scene-font-katari'>連動するように床から</span><br><span class='scene-font-katari'>１本の槍が迫り上がってくる。</span>,<span class='scene-font-katari'>配合他的动作，一把长枪从房间的地板下升起。</span>
+27,錆声の老人,<span class='scene-font-spword'>“ノイン”</span>。<br>機関の知識と技術の集大成だ。,<span class='scene-font-spword'>“诺因”</span>。<br>这是机关的知识与技术的集大成之作。
+28,錆声の老人,フォッシルやレリックの技術で<br>製造された機械ならば、<br>大抵は操作することが出来る。,化石之民和遗迹之民制造的机械，它大抵上都能控制。
+29,錆声の老人,さらに、<span class='scene-font-spword'>“認証コード”</span>を口にすれば、<br>機神の「エニグマメモリ」に<br>直接アクセスし、操作が可能となる。,而且，只要说出<span class='scene-font-spword'>“认证码”</span>，它就能直接访问机神的「英格玛记忆」，进行进一步操作。
+30,カシウス,ほう、興味深い。,嚯，真有趣。
+31,錆声の老人,これを貴様に授けよう。<br>今回の任務の助けになるはずだ。,我就把它交给你了。<br>应该能在这次任务中帮上你。
+32,,<span class='scene-font-katari'>カシウスはノインを手に取ると、</span><br><span class='scene-font-katari'>頭の中に認証コードと思しき、</span><br><span class='scene-font-katari'>文字列が浮かぶ。</span>,<span class='scene-font-katari'>卡西乌斯握住诺因的瞬间，脑中就浮现出了认证码的文字排列。</span>
+33,,<span class='scene-font-katari'>文字列を理解したカシウスは、</span><br><span class='scene-font-katari'>何度か頷いて見せた。</span>,<span class='scene-font-katari'>卡西乌斯理解了文字的意思，点了几下头。</span>
+34,カシウス,ノイン、認証コード。<br>どちらも確かに受け取った。,诺因和认证码，我都收到了。
+35,錆声の老人,では、すぐにでも<br>フォッシルに出発するがいい。,那么，你立刻出发去化石之地吧。
+36,カシウス,了解した。,明白。
+37,錆声の老人,エージェント・カシウス。<br>活躍に期待しているぞ。,卡西乌斯特工，我期待你的表现。
+40,,<span class='scene-font-katari'>老人を象った光は</span><br><span class='scene-font-katari'>そう口にすると消滅した。</span>,<span class='scene-font-katari'>说完，老人的投影就消失了。</span>
+41,,<span class='scene-font-katari'>それを見届けたカシウスは、</span><br><span class='scene-font-katari'>与えられたノインを手に、</span><br><span class='scene-font-katari'>ポッドへと向かう。</span>,<span class='scene-font-katari'>看老人中断了通讯，卡西乌斯带着诺因向降落舱走去。</span>
+42,,<span class='scene-font-katari'>扉を開ける最中、</span><br><span class='scene-font-katari'>カシウスは僅かに表情を和らげた。</span>,<span class='scene-font-katari'>开门离开时，卡西乌斯的表情稍稍缓和。</span>
+43,カシウス,フォッシルやレリック、か。,化石之民，遗迹之民，么。
+44,カシウス,フッ……興味深い。,呵……有点意思。
+45,,<span class='scene-font-katari'>カシウスの呟きは、</span><br><span class='scene-font-katari'>部屋の扉が閉まる音と共に</span><br><span class='scene-font-katari'>消えていった。</span>,<span class='scene-font-katari'>卡西乌斯的声音和关门声一起消失。</span>
+info,,,scene_evt181231_cp1_q3_s10

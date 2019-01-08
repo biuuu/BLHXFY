@@ -1,0 +1,28 @@
+id,name,text,trans
+0-chapter_name,,第1話 与えられ、奪われる,第1话 被给予，被夺取
+0-synopsis,,異形との戦いを終えた青年は、無機質な部屋へと帰還する。しかしひと時の休息の間もなく通信が入り、カシウスと呼ばれるその青年は新たな任務を受けるため部屋を出ていくのだった。,青年结束了与异形的战斗，回到毫无生活气息的房间中。然而，名叫卡西乌斯的青年还来不及休息片刻，再次接到新的任务，离开了房间。
+1,,<span class='scene-font-katari'>異形との戦闘後、青年は</span><br><span class='scene-font-katari'>無機質な真っ白い自室に</span><br><span class='scene-font-katari'>帰還していた。</span>,<span class='scene-font-katari'>青年结束了与异形的战斗，回到一片纯白，毫无生活气息的房间中。</span>
+2,,<span class='scene-font-katari'>武器を置いた青年は一息つくと、</span><br><span class='scene-font-katari'>部屋に置かれた唯一の娯楽である</span><br><span class='scene-font-katari'>書物へと手を伸ばす。</span>,<span class='scene-font-katari'>青年放下武器，伸手去取房中唯一的娱乐项目——书。</span>
+3,,<span class='scene-font-katari'>小さな白黒の正方形で構成された、</span><br><span class='scene-font-katari'>幾何学模様に似た記号がいくつも</span><br><span class='scene-font-katari'>描かれた頁を青年は読み始める。</span>,<span class='scene-font-katari'>翻开的书页上只有几个黑白小正方形构成的几何学符号。青年开始了阅读。</span>
+4,,<span class='scene-font-katari'>記号を青年は理解しているのか、</span><br><span class='scene-font-katari'>時たま、興味深げに頷いて見せた。</span>,<span class='scene-font-katari'>青年似乎能够理解符号的意思，偶尔会饶有兴味地点头表示赞同。</span>
+7,,<span class='scene-font-katari'>青年が頁を捲ろうとした時、</span><br><span class='scene-font-katari'>無機質な音が部屋に響いた。</span>,<span class='scene-font-katari'>在青年准备翻页时，房中想起了机械的声音。</span>
+8,,<span class='scene-font-katari'>音の発生源は青年の耳飾りであり、</span><br><span class='scene-font-katari'>彼はそれを摩る。</span>,<span class='scene-font-katari'>声音来自青年的耳饰。他抬手摩擦耳饰的表面。</span>
+9,？？？,ﾁｷｲﾐｶ ｿﾁﾄﾄﾆﾅﾄ.,Agent Cassius.
+10,？？？,…………,
+11,,<span class='scene-font-katari'>頭に響く無機質な音に青年は、</span><br><span class='scene-font-katari'>小さく息を吐き、</span><br><span class='scene-font-katari'>さらにチョーカーを摩った。</span>,<span class='scene-font-katari'>听着耳中的机械音，他叹了口气，这次摸了摸领边。</span>
+12,,<span class='scene-font-katari'>すると音は徐々に</span><br><span class='scene-font-katari'>とある言語へと変わり始める。</span>,<span class='scene-font-katari'>随后机械音变成了某种语言。</span>
+13,？？？,エージェント・カシウス。<br>おめでとうございます。,卡西乌斯特工。<br>祝贺您。
+14,？？？,貢献値が一定の数値を越えたため、<br>σ１８からα９に<br>昇格が認められました。,您的贡献值达到一定值，由σ18级别升至α9。
+15,？？？,今後はα９専用の生活プラントの使用、<br>及び１等級娯楽食の提供が行われます。,今后可使用α9专用的生活设施，等级1的娱乐餐饮。
+16,？？？,また追加の娯楽用品の要求も許可され、<br>１日の自由時間の延長、<br>及び休暇の申請が──,另外，您可以申请追加娱乐用品，也可1天延长自由时间，或申请休假——
+17,,<span class='scene-font-katari'>音声にカシウスと呼ばれた青年は</span><br><span class='scene-font-katari'>機械的に鳴り響く機械音声の言葉を</span><br><span class='scene-font-katari'>淡々と聞き続ける。</span>,<span class='scene-font-katari'>名为卡西乌斯的青年淡淡地听机械音长篇大论。</span>
+18,,<span class='scene-font-katari'>すると、突然音声は止まり、</span><br><span class='scene-font-katari'>柔和とは程遠い、荘厳な錆声が響いた。</span>,<span class='scene-font-katari'>随后，机械音突然中止，响起一个老人低沉而严肃的声音。</span>
+21,錆声の老人,<span class='scene-font-gray'>カシウス。</span><br><span class='scene-font-gray'>多言語変換機の調子はどうだ。</span><br><span class='scene-font-gray'>全てフォッシルの言葉に聞こえるか。</span>,<span class='scene-font-gray'>卡西乌斯。多语种转换机怎么样？听起来像不像化石之民的语言？</span>
+22,カシウス,問題ない。回りくどく、<br>非合理極まりない言語だ。<br>だが、興味深い。,没问题。虽然啰嗦得不可理喻。<br>但是很有趣。
+23,錆声の老人,<span class='scene-font-gray'>ほう。</span><br><span class='scene-font-gray'>貴様らしい感想だな。</span>,<span class='scene-font-gray'>哦？真像你会有的感想啊。</span>
+24,錆声の老人,<span class='scene-font-gray'>カシウスよ。その好奇心、</span><br><span class='scene-font-gray'>満たしてみたいとは思わないか？</span>,<span class='scene-font-gray'>卡西乌斯，想不想去满足你的好奇心？</span>
+25,錆声の老人,<span class='scene-font-gray'>昇格の祝い代わりと言ってはなんだが</span><br><span class='scene-font-gray'>特殊任務を任せたい。</span>,<span class='scene-font-gray'>虽然你刚升级就要麻烦你了，我有特殊的任务想交给你。</span>
+26,錆声の老人,<span class='scene-font-gray'>詳細は機関で言い渡す。</span>,<span class='scene-font-gray'>详细情况到机关再说。</span>
+29,カシウス,フッ。,哼。
+31,,<span class='scene-font-katari'>カシウスは小さく呟くと、</span><br><span class='scene-font-katari'>本を置き、部屋を出るのだった。</span>,<span class='scene-font-gray'>卡西乌斯低声笑道，放下书离开了房间。</span>
+info,,,scene_evt181231_cp1_q1_s30

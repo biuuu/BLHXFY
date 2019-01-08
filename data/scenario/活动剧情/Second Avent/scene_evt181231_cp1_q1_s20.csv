@@ -1,0 +1,14 @@
+id,name,text,trans
+0-chapter_name,,第1話 与えられ、奪われる,第1话 被给予，被夺取
+0-synopsis,,異形に背後から襲いかかられた青年はその攻撃を難なく避けると、一撃のもとに異形を消滅させる。仲間の死を目の当たりにした異形は、それに興奮した様子で青年に襲い掛かるのだった。,青年躲开了异形的攻击，反身进攻消灭了异形。目睹了同伴的死，其他异形也激昂地向青年袭来。
+1,？？？,…………,
+2,,<span class='scene-font-katari'>その場を去ろうとする青年の背後に</span><br><span class='scene-font-katari'>黒い影の如き異形が迫っていた。</span>,<span class='scene-font-katari'>青年正打算离开时，一只异形如黑影一般靠近他的身后。</span>
+3,,<span class='scene-font-katari'>異形は青年の首をめがけ</span><br><span class='scene-font-katari'>音も無くその腕を鋭く振り下ろす。</span>,<span class='scene-font-katari'>异形瞄准了青年的颈部，无声且迅速地挥下它的手臂。</span>
+10,,<span class='scene-font-katari'>だが、突如として</span><br><span class='scene-font-katari'>異形の目の前から青年が消えた。</span>,<span class='scene-font-katari'>然而，青年从它眼前消失了。</span>
+12,？？？,────……！？,
+16,,<span class='scene-font-katari'>戸惑うように身体から光を発した</span><br><span class='scene-font-katari'>異形は、いつの間にか背後へ</span><br><span class='scene-font-katari'>移動していた青年に攻撃を受ける。</span>,<span class='scene-font-katari'>异形身上发出了疑惑的光芒，下一秒便被神不知鬼不觉移动到其身后的青年击中。</span>
+17,？？？,……────,
+30,？？？,────……！！,
+31,,<span class='scene-font-katari'>仲間が殺められたためか、</span><br><span class='scene-font-katari'>異形は興奮したかのような様子で、</span><br><span class='scene-font-katari'>身体を点滅させた。</span>,<span class='scene-font-katari'>目睹同伴被杀，其他异形也都激昂起来，身上不停闪烁着光芒。</span>
+33,？？？,ﾓﾆﾄﾄﾆﾗﾐ ﾄｶﾁｽｶ.,Mission start.
+info,,,scene_evt181231_cp1_q1_s20
