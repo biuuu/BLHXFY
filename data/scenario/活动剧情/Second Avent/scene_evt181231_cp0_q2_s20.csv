@@ -1,0 +1,52 @@
+id,name,text,trans
+0-chapter_name,,エンディング,结局
+0-synopsis,,ゼタ、バザラガの「封印武器」の解放による攻撃、そしてベアトリクスの一撃によりヴァ―サタイルは倒された。その後、カシウスは捕虜として、そしてそれ以上にヴァーサタイルを倒す協力をしてくれた恩人として、治療を受ける間、組織に留まることになる。月への帰還は叶わないものの、己の故郷と多くが異なる空の世界に、カシウスは僅かに心躍らせるのだった。,泽塔和巴萨拉卡解放「封印武器」进行攻击，再加上贝阿朵丽丝的一击终于击败了巴萨泰尔。随后，卡西乌斯作为俘虏，并且更重要的是协助击败巴萨泰尔的恩人，留在组织里接受治疗。虽然没有能够回归月球，但是对于这个与自己故乡大不相同的世界，卡西乌斯也稍微有一点小兴奋。
+5,ヴァーサタイル,グゴァ、ガガガ……,呜嘎、嘎嘎嘎……
+6,,<span class='scene-font-katari'>一行の総攻撃を受け、</span><br><span class='scene-font-katari'>弱り切ったヴァーサタイルは、</span><br><span class='scene-font-katari'>体勢を崩し、動きを止める。</span>,<span class='scene-font-katari'>承受了一行人的总攻击，</span><br><span class='scene-font-katari'>虚弱到极点的巴萨泰尔</span><br><span class='scene-font-katari'>终于失去平衡，停止了活动。</span>
+7,カシウス/卡西乌斯,今だ……！<br>「封印武器」を解放しろ！,就是现在……！<br>解放「封印武器」！
+8,,<span class='scene-font-katari'>カシウスの合図と同時に</span><br><span class='scene-font-katari'>バザラガとゼタは</span><br><span class='scene-font-katari'>「封印武器」を構える。</span>,<span class='scene-font-katari'>就在卡西乌斯发出号令的同时，</span><br><span class='scene-font-katari'>泽塔和巴萨拉卡举起了「封印武器」。</span>
+9,バザラガ/巴萨拉卡,ゼタ、いいか。<br>よく聞け。,泽塔，注意。<br>听好了。
+10,バザラガ/巴萨拉卡,武器を握った手から<br>神経を繋げ、武器と身体が<br>一体になるイメージをしろ。,把武器握在手里，<br>想象武器和神经连接，<br>与身体成为一体。
+11,バザラガ/巴萨拉卡,イメージできたら、<br>あとはこう口にしろ。,想象完毕了的话，<br>就嘴里念诵这个。
+12,バザラガ/巴萨拉卡,──ﾓﾗｼｲ:ｺｲﾁﾄｶ.,──ﾓﾗｼｲ:ｺｲﾁﾄｶ.(mode:beast.)
+13,ゼタ/泽塔,はぁ？　なんて！？,哈啊？你说啥？
+14,バザラガ/巴萨拉卡,“ﾓﾗｼｲ:ｺｲﾁﾄｶ.”だ。,说“ﾓﾗｼｲ:ｺｲﾁﾄｶ.”。
+15,ゼタ/泽塔,なにそれ、それ言わなきゃだめなの？,啥玩意啊，非得要说这个才行吗？
+16,イルザ/伊尔莎,何をしている、ボサボサするな！<br>鎧チキンと仔犬らしく<br>ここに来て怖気づいたか！？,你们在干什么，磨磨唧唧的！<br>像大铠鸡和小狗崽一样<br>事到如今开始缩卵了吗！？
+17,バザラガ/巴萨拉卡,……いくぞ！,……上吧！
+19,ゼタ/泽塔,ちょっと！！,等下啦！
+21,,<span class='scene-font-katari'>先行したバザラガは</span><br><span class='scene-font-katari'>グロウノスを構え、</span><br><span class='scene-font-katari'>ヴァーサタイルに飛び掛かる。</span>,<span class='scene-font-katari'>先行出发的巴萨拉卡举起古洛诺斯，</span><br><span class='scene-font-katari'>向巴萨泰尔飞扑过去。</span>
+22,,<span class='scene-font-katari'>戸惑いつつもゼタは</span><br><span class='scene-font-katari'>その後を追うようにして、</span><br><span class='scene-font-katari'>ヴァーサタイルとの間合いを詰めた。</span>,<span class='scene-font-katari'>泽塔虽然还一头雾水，</span><br><span class='scene-font-katari'>还是紧随其后，</span><br><span class='scene-font-katari'>缩短与巴萨泰尔的距离。</span>
+24,バザラガ/巴萨拉卡,<span class='scene-font-4'>大鎌グロウノス！！</span>,<span class='scene-font-4'>大镰古洛诺斯！！</span>
+25,ゼタ/泽塔,<span class='scene-font-4'>アルベスの槍よ！！</span>,<span class='scene-font-4'>阿尔贝斯之枪啊！！</span>
+26,バザラガ/巴萨拉卡,星の獣の血を啜り、<br>その魂を刃となせ！,啜饮星之兽的血，<br>以其魂魄铸汝刀刃！
+27,ゼタ/泽塔,我らが信条、<br>示し、貫くための牙となれ！,吾等信条，<br>将其揭示、化为贯通的利牙！
+28,バザラガ/巴萨拉卡,ﾓﾗｼｲ:ｺｲﾁﾄｶ.,ﾓﾗｼｲ:ｺｲﾁﾄｶ.(mode:beast.)
+29,,<span class='scene-font-katari'>バザラガの口から人の耳では</span><br><span class='scene-font-katari'>聞き取れない言葉が滑り出す。</span>,<span class='scene-font-katari'>巴萨拉卡的口中，</span><br><span class='scene-font-katari'>发出了人类的耳朵</span><br><span class='scene-font-katari'>无法捕捉的语言。</span>
+30,,<span class='scene-font-katari'>すると鎌が禍々しく変形し、</span><br><span class='scene-font-katari'>それに同調するかのように</span><br><span class='scene-font-katari'>バザラガの鎧も変形していく。</span>,<span class='scene-font-katari'>然后镰刀的外形开始</span><br><span class='scene-font-katari'>变得妖异，而像是与其同步一样，</span><br><span class='scene-font-katari'>巴萨拉卡的铠甲也随之变形。</span>
+41,バザラガ/巴萨拉卡,ぐっ……おぉ……！<br><span class='scene-font-4'>おおおおオオっ！！</span>,呜……哦哦……！<br><span class='scene-font-4'>喔哦哦哦哦哦哦！！</span>
+42,ゼタ/泽塔,……っ！,……！
+43,ゼタ/泽塔,あーーっ、もう！<br>いきなり発音できるわけない！,啊，不管了啦！<br>那种发音鬼才能一下子念得出来啦！
+44,ゼタ/泽塔,アルベスッ！！<br>アンタの力、貸してちょうだい！！,阿尔贝斯！<br>总之把你的力量借给我啊！！
+57,ヴァーサタイル,ゴッ……ガ……！,呃……嘎……！
+58,バザラガ/巴萨拉卡,<span class='scene-font-4'>オオオオオォォォッ！！</span>,<span class='scene-font-4'>喔哦哦哦哦哦哦哦！！</span>
+59,ゼタ/泽塔,<span class='scene-font-4'>だああああぁぁぁッ！！</span>,<span class='scene-font-4'>哈啊啊啊啊啊啊啊！！</span>
+73,,<span class='scene-font-katari'>解放されたグロウノスの攻撃と</span><br><span class='scene-font-katari'>ゼタの渾身の攻撃の応酬で</span><br><span class='scene-font-katari'>身を竦めるヴァーサタイル。</span>,<span class='scene-font-katari'>随着解放后的古洛诺斯的攻击</span><br><span class='scene-font-katari'>与泽塔全力的攻击，</span><br><span class='scene-font-katari'>巴萨泰尔开始畏缩。</span>
+74,イルザ/伊尔莎,いけるか！？,能行吗！？
+75,バザラガ/巴萨拉卡,<span class='scene-font-4'>ォォオオオアアアッッ！！！</span>,<span class='scene-font-4'>哦哦哦哦哦哦哦哦！！！</span>
+82,,<span class='scene-font-katari'>グロウノスの力に呑まれつつあるのか</span><br><span class='scene-font-katari'>バザラガの闘争心と攻撃の手は</span><br><span class='scene-font-katari'>徐々に異様さを増していく。</span>,<span class='scene-font-katari'>像是逐渐被古洛诺斯吞噬一样，</span><br><span class='scene-font-katari'>巴萨拉卡的斗争心与攻击方式</span><br><span class='scene-font-katari'>慢慢变得异样起来。</span>
+83,バザラガ/巴萨拉卡,<span class='scene-font-4'>ぐぬぅぅゥウアアアッッ！！！</span>,<span class='scene-font-4'>唔啊啊啊啊啊啊！！！</span>
+86,ゼタ/泽塔,バザラガ！！<br>あんた、これ以上は……！,巴萨拉卡！！<br>你再这样下去的话……！
+87,ヴァーサタイル,ガッ……グガァ……！！,嘎……呃啊……！！
+92,ベアトリクス/贝阿朵丽丝,<span class='scene-font-4'>バザラガーっ！</span>,<span class='scene-font-4'>巴萨拉卡——！</span>
+99,バザラガ/巴萨拉卡,…………,…………
+101,ゼタ/泽塔,くっ……！,呜……！
+102,カシウス/卡西乌斯,ゼタ！<br>なんとしても武器を解放しろ！<br>攻撃の手を止めるな！,泽塔！<br>无论如何都要解放武器！<br>不要停下攻击！
+103,ゼタ/泽塔,わかってる！！,我知道啊！！
+104,ヴァーサタイル,ゴグガ……ガッ……,呜嘎……嘎啊……
+105,,<span class='scene-font-katari'>バザラガが付けた傷痕が</span><br><span class='scene-font-katari'>みるみる再生していく様子を見て</span><br><span class='scene-font-katari'>ゼタの中で何かが音を立てて切れた。</span>,<span class='scene-font-katari'>眼见刚才巴萨拉卡所制造的伤痕</span><br><span class='scene-font-katari'>以肉眼可见的速度开始再生，</span><br><span class='scene-font-katari'>泽塔感觉自己脑子里有什么东西绷断了。</span>
+110,ゼタ/泽塔,こんちくしょおおおおおおッ！！！！,给老娘见鬼去吧啊啊啊啊啊！！！！
+130,,<span class='scene-font-katari'>アルベスの槍が青白い光に包まれる</span><br><span class='scene-font-katari'>と同時に、ゼタの周囲に無数の光の槍が</span><br><span class='scene-font-katari'>出現し、ヴァーサタイルに突き刺さる。</span>,<span class='scene-font-katari'>阿尔贝斯之枪被蓝白色的光辉所包裹，</span><br><span class='scene-font-katari'>同时，在泽塔的周围出现了无数的光之枪，</span><br><span class='scene-font-katari'>向着巴萨泰尔穿刺而去。</span>
+135,ゼタ/泽塔,<span class='scene-font-4'>アルベスの槍よ！！</span>,<span class='scene-font-4'>阿尔贝斯之枪啊！！</span>
+136,ゼタ/泽塔,<span class='scene-font-4'>その力を示せぇぇーーッ！！！</span>,<span class='scene-font-4'>揭示你的力量吧——！！！</span>
+info,,,scene_evt181231_cp0_q2_s20
