@@ -37,7 +37,7 @@ id,name,detail
 220,超加速,我方全体的连续攻击概率UP
 221,二重冲击,<div class=prt-text-small>效果中必定连续攻击<br><span class=text-blue>枪：所有参战者的二连击概率UP（小)<br>斧：目标的二连击概率DOWN（小）</span></div>
 223,二重冲击,<div class=prt-text-small>效果中必定连续攻击<br><span class=text-blue>枪：所有参战者的二连击概率UP（中）<br>斧：目标的二连击概率DOWN（中）</span></div>
-222,三重冲击,<div class=prt-text-small>效果中必定三连击<br><span class=text-blue>枪：所有参战者的二连击概率UP（大）<br>斧：目标的二连击概率DOWN（大）</span></div>
+222,三重冲击,<div class=prt-text-small>效果中必定三连击<br><span class=text-blue>枪：所有参战者的连击概率UP（大）<br>斧：目标的连击概率DOWN（大）</span></div>
 266,调停之歌,我方全体的二连击概率UP（大）★装备乐器时性能UP
 270,罗喉阿修罗阵,自己的奥义充能上升量UP
 302,守护,给予自己守护效果
