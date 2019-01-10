@@ -1,0 +1,76 @@
+id,name,text,trans
+0-synopsis,,,在某个安静的夜晚，收到科露瓦联谊邀请的罗艾因、艾尔塞姆、托莫伊怀着期待的心情进入了店内。醉的一塌糊涂的拉姆蕾塔和拘谨过头的斯黛拉已经先到了。罗艾因一行人因为完全找不到切入的话题而不得不去厕所召开紧急作战会议。此时姗姗来迟的科露瓦终于到达，共计男女6人的团内联谊会也开始了。
+0,,,<span class='scene-font-katari'>这是在，某个安静的夜晚里发生的事情──</span>
+1,３人,,<span class='scene-font-4'>噫噫————</span><br><span class='scene-font-4'>呀吼——哈哈！</span>
+2,,,<span class='scene-font-katari'>安静的夜晚，</span><br><span class='scene-font-katari'>被尖锐的叫声</span><br><span class='scene-font-katari'>打破了。</span>
+3,ローアイン,,来了。
+4,エルセム,,来了来了！
+5,トモイ,,桃花运真的要来了！
+6,,,<span class='scene-font-katari'>他们为什么会如此兴奋呢。</span>
+7,,,<span class='scene-font-katari'>因为他们要迎来人生的转机了——</span><br><span class='scene-font-katari'>していた。そのきっかけは、</span><br><span class='scene-font-katari'>さかのぼること約半日──</span>
+13,コルワ,,喂喂，罗艾因呀。<br>今晚，你们三个过来陪一下我们吧。
+14,コルワ,,要干什么？<br>那个……
+20,３人,,<span class='scene-font-4'>是！联！谊！呀！<br><span class='scene-font-4'>万岁！</span>
+21,,,<span class='scene-font-katari'>发出高昂的叫声，兴致勃勃的三人。</span><br><span class='scene-font-katari'>好像是为了发散心中那无处安放的热情一般，</span><br><span class='scene-font-katari'>上下扭动着身体──</span>
+22,ローアイン,,要上了兄弟们！<br>讲真今天真的是要く<br>动用浑身解数了哦！
+23,２人,,<span class='scene-font-4'>唔哦哦哦哦哦ー！</span>
+29,,,<span class='scene-font-katari'>三人前往的是某间酒馆。</span><br><span class='scene-font-katari'>三人仿佛是面对着战场一般，</span><br><span class='scene-font-katari'>站在酒馆的木质大门前。</span>
+30,３人,,…………
+31,,,<span class='scene-font-katari'>终于下定决心的罗艾因一行</span><br><span class='scene-font-katari'>打开了大门──</span>
+37,３人,,…………
+38,スーテラ,,…………
+39,ラムレッダ,,唔喵……<br>我不想干了啦……
+40,ローアイン,,呀，斯黛拉。<br>要不要点些喝的呀？
+41,スーテラ,,<span class='scene-font-4'>不用！　可以了！</span><br>我这杯还没喝完呢！
+42,エルセム,,呀，斯黛拉。<br>我来帮你夹点沙拉吧？
+43,スーテラ,,<span class='scene-font-4'>不用！　可以了！</span><br>我自己也能夹菜，不用您费心了！
+44,トモイ,,呀，斯黛拉。<br>不如换一下位置坐坐吧？
+45,スーテラ,,<span class='scene-font-4'>不用！　可以了！</span><br>现在这个座位完全没问题！
+46,３人,,…………
+47,ラムレッダ,,唔喵……什么嘛……我要把男人……<br>用这个酒瓶打爆……呕……<br>让他们血流满地喵……
+48,,,<span class='scene-font-katari'>在餐桌等着他们的是，</span><br><span class='scene-font-katari'>醉得一塌糊涂倒头就睡的拉姆蕾塔，</span><br><span class='scene-font-katari'>以及拘谨过头的斯黛拉。</span>
+49,,,<span class='scene-font-katari'>三人为了打开话题</span><br><span class='scene-font-katari'>不停地展示着自己，但是</span><br><span class='scene-font-katari'>全部被回避掉了。</span>
+50,エルセム,,<span class='scene-font-2'>喂喂喂罗艾因！</span><br><span class='scene-font-2'>我们从一开始就吃瘪了啊！</span><br><span class='scene-font-2'>现在这个尴尬的氛围咋办啊！</span>
+51,ローアイン,,<span class='scene-font-2'>吵死了笨蛋！　给我闭嘴！</span><br><span class='scene-font-2'>我都听不到斯黛拉酱在说啥了！</span>
+52,トモイ,,<span class='scene-font-2'>这样不行啊……</span><br><span class='scene-font-2'>如果不赶紧找个地方开个作战会议的话……</span>
+53,トモイ,,……啊！　我去摘个花哦？
+54,ローアイン,,啊，我也去摘个花。
+55,エルセム,,啊，我也去我也去。
+56,スーテラ,,摘花……？<br>啊啊，去洗手间是吧。<br>我懂了。
+57,３人,,<span class='scene-font-4'>那，失礼啦——！</span>
+63,ローアイン,,好好好。<br>那么第一届<br>紧急超MTG（会议）开始……
+64,３人,,<span class='scene-font-4'>yeah——</span>
+65,ローアイン,,可恶……！　这咋办啊！<br>哪个环节出了问题呢，<br>完全搞不懂……！
+66,トモイ,,斯黛拉酱应该不是讨厌联谊吧？<br>倒不如说我感觉到她干劲满满呢？<br>所以是我们的问题咯？
+67,エルセム,,是吧。讲真有点不在状态啊……<br>「搭讪卡塔莉娜的<br>罗艾因现象」居然在这里出现了啊！
+68,エルセム,,真不妙啊。<br>如果不赶紧做点啥的话<br>就白瞎了我们的努力了啊。
+69,ローアイン,,不用你说我也知道。<br>明明我把恋爱白书上记载的撩妹技巧<br>全部使出来了啊。
+70,エルセム,,等等！<br>在赶紧看一次恋爱白书吧。
+71,トモイ,,……不对、等一下，艾尔亲。<br>难道说这是，书上的经验和实际<br>完全不同的情况？
+72,エルセム,,原来如此ー
+73,トモイ,,我们也旅行了很多次了吧？　书上的情报と<br>和实物完全不一样的。<br>比如说，星晶兽啥的。
+74,ローアイン,,啊ー、就像扎卡大公，画像上<br>那么恐怖<br>实际上是个很喜欢小孩的老头这样的差距？
+75,トモイ,,所以恋爱白书估计也是这样。<br>经过那么长时间，书上写的<br>那些有用的经验都失传了。
+76,エルセム,,……不是吧……居然是这种情况啊……<br>那我们应该信什么啊……
+77,ローアイン,,这种时候，姬塔她<br>不都会先硬着头皮上的嘛？<br>不如也试着硬上吧。
+78,トモイ,,这样。嘛总是先试试？<br>不放弃地<br>去寻找突破口呗。
+79,トモイ,,总之要在科露瓦来之前<br>把气氛炒热起来呀，联谊要是<br>没有气氛就完了。
+80,ローアイン,,啊啊。<br>科露露她好像因为工作所以迟到了来着？
+81,エルセム,,说是这么说。<br>科瓦瓦酱过来之前<br>怎么搞呀？
+82,トモイ,,说道时间我们这边问题也很大啊。<br>好说歹说现在也是在吃饭吧？　一直在厕所里<br>死活不出来是不是很没礼貌啊。
+83,エルセム,,是呢……<br>如果他们觉得莫名其妙的话<br>气氛怎么样也炒不起来的吧。
+84,ローアイン,,可恶……<br>说起来你们起的科露瓦酱的昵称<br>也是乱七八糟的，真不妙啊……
+85,スーテラ,,呵呵呵……<br>还是有点害羞……。
+86,３人,,…………！
+87,ローアイン,,等等，刚刚斯黛拉酱是不是笑了呀？<br>今天第一次笑诶！
+88,エルセム,,<span class='scene-font-4'>喂喂喂！</span><br>难道是被奇怪的家伙<br>搭讪了吗！
+89,トモイ,,拉姆亲也是醉的一塌糊涂<br>问题很大啊！
+90,ローアイン,,总之先打起精神<br>把斯黛拉酱救出来！<br>兄弟们，走你！
+92,２人,,<span class='scene-font-4'>走你！</span>
+98,コルワ,,呵呵，是这样吗？　很像你的风格呀，<br>就这样就可以了。<br>……说起来汉子们都去哪了？
+102,ローアイン,,<span class='scene-font-kokoro'>（无论是谁……！</span><br><span class='scene-font-kokoro'>斯黛拉酱和拉姆亲</span><br><span class='scene-font-kokoro'>由我来守护！）</span>
+107,コルワ,,啊，来了来了！<br>对不起，刚刚工作才结束！
+108,３人,,<span class='scene-font-4'>瓦酱！</span>
+109,,,<span class='scene-font-katari'>就这样，大型事故现场的氛围</span><br><span class='scene-font-katari'>因为科露瓦的出现</span><br><span class='scene-font-katari'>而终于有所缓和了。</span>
+110,,,<span class='scene-font-katari'>由这6位男女组成的，</span><br><span class='scene-font-katari'>格兰塞法内部联谊会。</span><br><span class='scene-font-katari'>究竟会迎来怎样的结局呢。</span>
+info,,,scene_evt170401_cp0_q1_s10
