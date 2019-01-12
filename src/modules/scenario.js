@@ -17,6 +17,7 @@ const scenarioCache = {
   name: '',
   originName: '',
   hasTrans: false,
+  hasAutoTrans: false,
   csv: '',
   nameMap: null,
   transMap: null
@@ -234,6 +235,8 @@ const transStart = async (data, pathname) => {
   scenarioCache.data = cloneDeep(data)
   scenarioCache.name = scenarioName
   scenarioCache.hasTrans = false
+  scenarioCache.hasAutoTrans = false
+  scenarioCache.transMap = null
   scenarioCache.originName = ''
   let { transMap, csv } = await getScenario(scenarioName)
   const nameData = await getNameData()
@@ -261,6 +264,10 @@ const transStart = async (data, pathname) => {
         }
         transMap.set(info.id, obj)
       })
+      if (transList.length > 0) {
+        scenarioCache.hasAutoTrans = true
+        scenarioCache.transMap = transMap
+      }
     } else {
       return data
     }

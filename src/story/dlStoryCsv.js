@@ -19,7 +19,7 @@ const replaceName = (content, userName) => {
   }
 }
 
-const dataToCsv = (data, fill, isTrans) => {
+const dataToCsv = (data, fill, isTrans, isAutoTrans) => {
   const result = []
   data.forEach(item => {
     const name = removeTag(item.charcter1_name)
@@ -36,6 +36,11 @@ const dataToCsv = (data, fill, isTrans) => {
           const obj = scenarioCache.transMap.get(item.id)
           if (obj && obj[`${key}-origin`]) {
             trans = obj[`${key}-origin`]
+          }
+        } else if (isAutoTrans) {
+          const obj = scenarioCache.transMap.get(item.id)
+          if (obj && obj[key]) {
+            trans = obj[key]
           }
         } else if (fill) {
           trans = txt
@@ -67,7 +72,13 @@ export default function (type = 'normal') {
     if (scenarioCache.hasTrans) {
       tryDownload(dataToCsv(scenarioCache.data, false, true), scenarioCache.originName)
     } else {
-      alert('这个章节还没有翻译。')
+      if (scenarioCache.hasAutoTrans) {
+        if (confirm('这个章节还没有翻译，是否下载含有机翻文本的文件。')) {
+          tryDownload(dataToCsv(scenarioCache.data, false, false, true), scenarioCache.name + '.csv')
+        }
+      } else {
+        alert('这个章节还没有翻译。')
+      }
     }
   } else if (type === 'fill') {
     tryDownload(dataToCsv(scenarioCache.data, true), scenarioCache.name + '.csv')
