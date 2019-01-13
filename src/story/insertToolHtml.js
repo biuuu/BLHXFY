@@ -51,8 +51,9 @@ const html = `
   display: block;
   position: absolute;
   top: 26px;
-  left: 0;
-  width: 100%;
+  left: 50%;
+  width: 180px;
+  margin-left: -90px;
   z-index: 9999;
   text-align: center;
 }
