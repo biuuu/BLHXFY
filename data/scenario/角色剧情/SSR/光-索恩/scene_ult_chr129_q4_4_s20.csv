@@ -1,0 +1,15 @@
+id,en,jp,trans
+0-chapter_name,,その威を示し、王たれと,王者，示其威也。
+0-synopsis,,ソーンが放った魔力を通じて、彼女が二王弓に操られているわけではないと知ったフュンフ。仲間を襲う事は、他ならぬソーン自身の意思だったとわかり、思わず泣き出してしまう。話も聞いてくれないソーンの様子を見て、フュンフはその場から立ち去る。二王弓の「王への道にためらいが？」という問いに、ソーンは「次の獲物の事を考えていたのよ」と返すのだった。,通过索恩放出的魔力，得知她其实并没有被二王弓操纵的芬芙。明白索恩袭击同伴并非其他原因，而是出于自己的意志时，芬芙不禁哭了出来。看着对自己的话充耳不闻的索恩，芬芙只好离开。面对二王弓「你难道对王者之道产生了犹豫吗？」的质问，索恩回答道「只是再考虑下一个猎物的事情」。
+7,,きゅう……,唔……
+9,,…………,…………
+10,,なんで……！？<br>なんでソーンがこんな事するの！<br>これ、ソーンが望んでる事なの！？,为什么……！？<br>为什么索恩要做这样的事！<br>这些都是索恩所期望的吗！？
+11,,<span class='scene-font-katari'>ソーンが放った魔力を通じて、</span><br><span class='scene-font-katari'>彼女が</span><span class='scene-font-spword'>二王弓</span><span class='scene-font-katari'>に操られているわけでは</span><br><span class='scene-font-katari'>ないと知ったフュンフ。</span>,<span class='scene-font-katari'>通过索恩放出的魔力，</span><br><span class='scene-font-katari'>芬芙明白了她其实并没有被</span><span class='scene-font-spword'>二王弓</span><span class='scene-font-katari'>所操纵。</span>
+12,,<span class='scene-font-katari'>仲間を襲う事は、他ならぬソーン自身の</span><br><span class='scene-font-katari'>意思だったとわかり、</span><br><span class='scene-font-katari'>思わず泣き出してしまう。</span>,<span class='scene-font-katari'>在知道索恩袭击同伴并非其他原因，</span><br><span class='scene-font-katari'>而是出于自己的意志时，</span><br><span class='scene-font-katari'>芬芙不禁哭了出来。</span>
+13,,あちし、こんなソーン嫌だ！<br>普通のソーンがいい！,我讨厌这样的索恩！<br>普通的索恩更好！
+14,,普通……？<br>とっくの昔……生まれた時から<br>普通なんて知らないわよ。じゃあね。,普通……？<br>很久以前……从我出生开始<br>就不知道什么是普通哟。再见。
+15,,あちしの話も聞いてくれなくなって……<br>あちしソーンの事、嫌いだーっ！<br>もう知らないぞ！　バカバカバカーっ！,变得连我的话都听不进去了……<br>我讨厌索恩ー！<br>再也不管你了！　笨蛋笨蛋笨蛋ー！
+18,,…………,…………
+20,,<span class='scene-font-gray'>どうした？</span><br><span class='scene-font-gray'>よもや王への道にためらいが？</span>,<span class='scene-font-gray'>怎么了？</span><br><span class='scene-font-gray'>你难道对王者之道产生了犹豫吗？</span>
+21,,……さあね。<br>次の獲物の事を考えていたのよ。,……谁知道呐。<br>该考虑下个猎物的事情了。
+info,,1,scene_ult_chr129_q4_4_s20

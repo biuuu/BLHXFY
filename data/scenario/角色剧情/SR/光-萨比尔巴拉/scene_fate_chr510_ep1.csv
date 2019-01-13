@@ -1,0 +1,91 @@
+id,name,text,trans
+0-chapter_name,,A Lead at Last,终于赢过你。
+0-synopsis,,"Watching Vyrn and Lyria contest each other in a game of Go brings back many heartfelt memories for Sevilbarra. Some time later the crew heads out to Lumiel, where there is word of the man who slew Sevilbarra's little sister.",看着阿碧和露莉亚的围棋对战让萨比尔巴拉想起了很多深刻的回忆，不久后他们动身前往卢米埃，那里有关于杀害了萨比尔巴拉妹妹的男人相关的情报。
+1,,On one pleasant afternoon...,在一个令人惬意的午后……
+2,,"姬塔 and company are resting up at an inn after completing a mission, each whiling away the time until dinner is served.",姬塔和团员们完成委托后在一个小酒馆里休息，消磨着晚饭前的时光。
+3,,Vyrn and Lyria are facing off in Go—a board game that Sevilbarra taught them how to play.,阿碧和露莉亚正在进行围棋对战，这是一种萨比尔巴拉教给他们玩的一种桌面游戏。
+4,,Sevilbarra and 姬塔 quietly watch as the two players waver between hope and despair with every move made.,萨比尔巴拉和姬塔安静地看着两个对战者，伴随着每次落子，两人的表情在希望和绝望之间不断切换。
+5,Lyria/露莉亚,Hmm...,嗯……
+6,Sevilbarra,(Vyrn got her good... But she's still got options.),（阿碧刚才那一手很妙哦，不过露莉亚也还有反击的机会。）
+7,Vyrn/碧,"Hehehe... How 'bout it, Lyria? Ready to call it quits yet?",嘿嘿嘿，怎么样，露莉亚，准备投降了吗？
+8,Lyria/露莉亚,Grr...,唔……
+9,,"Being pushed further into a corner with every action Vyrn takes, Lyria stares at the Go board with intense concentration.",露莉亚逐渐被阿碧逼进死角，她紧张而专注地盯着围棋盘。
+10,,"However, seeing that nothing short of miraculous intervention could possibly save her from the bottomless quagmire, Lyria is now ready to throw in the towel.",但是，露莉亚意识到已经没有什么办法可以挽救目前的败局了，只好弃子认输。
+11,Lyria/露莉亚,Sigh... looks like this is it for me. I give up.,唉……看来我就到此为止了，我认输。
+12,Vyrn/碧,"Booyah! You know, I think I might be able to go places with this Go thing if I keep at it!",嘿嘿！我觉得这样下去的话我能成为围棋大师了！
+13,Sevilbarra,"Perhaps so, Vyrn. You play with the finesse of a true master.",也说不定呐，阿碧的风格很有大师的感觉。
+14,Sevilbarra,"You did well too, Lyria. There is no need to feel discouraged. Practice makes perfect as they say.",露莉亚也下得很不错，不用这么沮丧哟，人们都说熟能生巧嘛！
+16,,Sevilbarra demonstrates a possible countermove Lyria could have made for a dramatic comeback.,萨比尔巴拉示范了能让露莉亚绝地反击的一手。
+17,Lyria/露莉亚,"Aah, why didn't I think of that!",哇，我没想到有这一手呢！
+18,Lyria/露莉亚,"Vyrn, play me again!",阿碧，再来一局吧！
+19,Vyrn/碧,"Whoa, now... The next one would be our tenth match...",喂喂，再来的话就是第10局啦。
+20,Lyria/露莉亚,I don't want to stay a loser! That'd be no fun!,但是我不想一直输下去了，这样一点都不好玩！
+21,Lyria/露莉亚,"Please, Vyrn!",所以说，拜托了，阿碧！
+22,Sevilbarra,"Haha, Lyria hates losing a lot more than I thought.",啊哈哈，露莉亚比我想象中的还不认输呢。
+23,,"Seeing Lyria plead to Vyrn for a rematch, Sevilbarra recalls a nostalgic memory.",看着露莉亚恳求阿碧再来一局，萨比尔巴拉想起了过去。
+24,Sevilbarra,"(Keralbarra... You never liked losing either, Little Sis...)",（库拉芭拉……妹妹你也从来不认输啊……）
+30,,"On one bright, sunny day, Sevilbarra and Keralbarra are playing Go on a dojo bench.",那一天，阳光明媚，萨比尔巴拉和库拉芭拉正在道场中下围棋。
+31,,"No matter how many times they go at it, Keralbarra loses every time and is pouting over the fact.",但是不论下了多少局，库拉芭拉还是一直在输，并且不甘心就这样一直输下去。
+32,Keralbarra,Aww... Not again!,嗯……又输了！
+33,Sevilbarra,You've got a lot to learn before you can even stand a chance against me.,距离你能有机会打败我还需要个一百年呢。
+34,,"Not one to take provocation lightly, Keralbarra quips while clearing the board.",没有理会哥哥的打趣，库拉芭拉很快收拾好了棋盘。
+35,Keralbarra,"One more game, Brother!",哥，再来一局！
+36,Sevilbarra,"Really now, how many more times are we gonna go through this? I'm ready to take a break...",喂喂，还要再来一局吗？饶了我吧……
+37,Keralbarra,"Please, just once more!",拜托了，就最后一局！
+38,Keralbarra,"If you can beat me again, I'll make you anything you want for lunch tomorrow!",如果这一次你还是打败我了，明天的午饭我就给你做你想吃的任何东西！
+39,Sevilbarra,"Fine, fine. But this'll be the last one for the day!",知道了知道了，最后一局了哦。
+40,Keralbarra,"Yay! Love you, Brother!",太好了！哥哥最棒了！
+46,Sevilbarra,...,呵……
+47,,A curious 姬塔 questions the meaning of Sevilbarra's grin.,姬塔好奇地问萨比尔巴拉笑中的含义。
+47-sel1_txt,,Everything okay?,一切都好吗？
+47-sel2_txt,,Wanna take Vyrn's place?,想替阿碧玩吗？
+48,Sevilbarra,"Ah, it's nothing... Watching Lyria and Vyrn got me thinking about my little sister.",啊，没什么，看着阿碧和露莉亚让我想起了自己的妹妹。
+49,Sevilbarra,"Haha, I think I'll pass. After all, this could turn into an infinite loop where Lyria won't stop till she's won.",哈哈，我就不必了，毕竟在露莉亚赢之前对决是不会停止的。
+50,Vyrn/碧,"Gah, tell me that ain't true!",诶？开玩笑的吧！
+51,Lyria/露莉亚,"Mm-hm, he's right! We're doing this until I win!",没错！直到我赢之前都不会停下来的！
+52,Vyrn/碧,"Bwuh, I hate my life...",啊，好讨厌的感觉啊……
+53,Sevilbarra,Haha... Watching you two reminds me of my little sister.,哈哈，看到你们两个让我想起了自己妹妹的事情。
+54,,A gentle expression plays on Sevilbarra's countenance.,萨比尔巴拉露出了温柔的表情。
+55,Vyrn/碧,"Say, Straw Hat Guy, what kind of a person was your lil' sis anyway?",呐，斗笠小哥，你的妹妹是一个什么样的人呢？
+56,Sevilbarra,Hm... I'd say she was really strong-minded... and hated losing more than anything else.,嗯……她非常倔强，是很不服输的一个人。
+57,Sevilbarra,"Be it Go, sword fighting, or whatever activity you threw at her, she wouldn't give until she came out on top. It was always exhausting to be on the receiving end of her competitive nature.",围棋也好剑术也好，一定坚持要赢才行呐，每次都要被她不服输的天性累死了。
+58,Vyrn/碧,"Oh, yeah, yeah. I know that feeling.",嗯嗯，我懂。
+59,Lyria/露莉亚,Vyrn!,阿碧？
+60,Sevilbarra,She was a fast learner though.,不过也因为如此，她学什么都非常快。
+61,Sevilbarra,"She was still really young when our mom passed away. Ever since then, she took it upon herself to see that everything in the house was in order.",我们的母亲在她很小的时候就去世了，在那之后是她把家里的一切都弄得妥妥当当的。
+62,Sevilbarra,"Keralbarra handled the everyday chores, from cooking to laundry, to knitting, to tidying up the dojo...",她什么家务都干得很好，做饭，洗衣服，缝补，清理道场……
+63,Sevilbarra,I'd even say it's thanks to her that the dojo lasted as long as it did.,要我说道场能一直存续下去都是库拉芭拉的功劳。
+64,Sevilbarra,"If you asked my sis, she'd say she was just doing her best to take care of me. You don't know how much I looked up to her...",如果你问她的话，她会说只是在尽力照顾我而已，真是的，你们都不知道我有多依赖她……
+65,Vyrn/碧,"Heh, I wouldn't have taken you for the type to let someone else wear the pants in the house, Straw Hat Guy.",诶，我第一眼看到斗笠小哥的时候，觉得你是那种肯定不会让别人掌管家事的那种类型。
+66,Sevilbarra,"Hahah, a doting little sister's always going to win out in the end.",哈哈，有这么优秀的妹妹，哥哥当然是要让步了。
+67,,"The nostalgic Sevilbarra calls to mind her precious, carefree smile.",萨比尔巴拉想起了妹妹珍贵的，天真无邪的笑容。
+70,Keralbarra,Brother!,哥哥！
+73,Sevilbarra,...,……
+74,Vyrn/碧,Hm? What's wrong?,嗯？怎么了？
+75,Sevilbarra,"Nah, don't worry about it.",呀，没什么。
+76,,"Sevilbarra's expression grows stern as he turns his back to the crew, leaving no trace of the softness he showed earlier.",萨比尔巴拉表情重归严肃，转过身去背对着众人，一点都看不出刚才温柔的痕迹。
+77,Sevilbarra,(Keralbarra...),库拉芭拉……
+78,Lyria/露莉亚,...,……
+79,,"Seeing their Harvin friend overcome with grief, 姬塔 and company choose to let the silence sink in.",看到朋友受到过去带来的深深悲痛，姬塔众人陷入了沉默。
+80,,Sevilbarra notices their thoughtfulness and returns the favor with a smile.,萨比尔巴拉注意到了他们的关心，用微笑回应他们。
+81,Sevilbarra,Sorry about that. Didn't mean to worry you.,一不小心就让你们担心了，抱歉啊。
+82,Lyria/露莉亚,Erm... We're the ones who should be sorry for asking you all these questions without even considering your feelings...,那个……我们才是，没有顾及到你的感受就问了那些问题……
+83,Sevilbarra,Nothing to be sorry about. I just tend to get sentimental easily.,没什么要道歉的，我只是稍微有那么一点容易陷入感性罢了。
+84,,Sevilbarra lightens the mood with a softening of his expression.,萨比尔巴拉用轻快的表情来缓解气氛。
+85,,"Although Lyria ends up relinquishing her request for a rematch with Vyrn, she takes the opportunity to talk Go strategy with Sevilbarra.",露莉亚放弃了与阿碧的重赛，找了个机会与萨比尔巴拉谈论起围棋的技巧。
+91,,Some time later...,一段时间过后……
+92,Sevilbarra,"The Lumiel Order of Holy Knights, eh...",卢米埃圣骑士团……吗。
+93,,The crew sets out to meet Sevastien of the holy knights.,众人出发去见圣骑士团的塞瓦斯蒂安。
+94,Sevilbarra,"Ah, 姬塔. Sorry, I was lost in thought.",啊，姬塔，抱歉，我稍微有点出神。
+95,Sevilbarra,I really appreciate you going out of your way to consult the Lumiel...,真是太麻烦你了，还特地和卢米埃骑士团写信去咨询。
+96,Sevilbarra,All so that I can have my justice...,让我可以完成我的心愿……
+97,Sevilbarra,"Your kindness truly knows no bounds, 姬塔!",姬塔这一次的帮助，真是想象不到的大呢！
+97-sel1_txt,,You sure you're not trying too hard?,你没有在勉强自己吧？
+98,Sevilbarra,"No worries, I'm definitely not forcing this smile. I just feel... strangely relaxed somehow.",不用担心，我并没有在勉强自己笑出来，我只是……微妙地觉得很放松。
+99,Sevilbarra,You can rest assured that I won't go all murdery after hearing what Sevastien has to say.,我保证，听完塞瓦斯蒂安的话之后，不会突然就愤怒地要去杀谁的。
+100,Sevilbarra,(The calm before a storm maybe...),（当然也说不定是暴风雨前的宁静……吧）
+101,Sevilbarra,It's getting chilly. Looks like it might snow.,好冷啊，是不是快要下雪了啊。
+102,,"Standing beside each other on deck, Sevilbarra and 姬塔 look to the vast blue horizon before them.",萨比尔巴拉和姬塔互相挨着站在甲板上，看着眼前蔚蓝色的天空。
+103,,The Harvin samurai gets a vague sensation that his tale may very well come to an end somewhere beyond the snowy clouds billowing in sight.,哈文族武士隐隐感觉到自己的故事将会在眼前这片翻涌的雪云中迎来终结。
+info,,,scene_fate_chr510_ep1
+备注,,Marco

@@ -1,0 +1,37 @@
+id,name,text,trans
+0-chapter_name,,Awaiting Easterly Winds,等待东风
+0-synopsis,,"Awoken from the terrifying dream by his own bloodcurdling scream, Sevilbarra recalls his conversation with the elder. The next morning he keeps his gloomy thoughts to himself, readying his heart for the eventual confrontation with Krelkulkil.",从血染的噩梦中醒来后，萨比尔巴拉想起了与长老的对话，第二天清晨他怀着忧郁的心情，等待与卡拉库拉奇尔的最终对决。
+3,Sevilbarra/萨比尔巴拉,Krelkulkil! Keralbarra!,卡拉库拉奇尔！库拉芭拉！
+4,,"Having awoken to his own agonizing screams, Sevilbarra realizes that it was all a nightmare.",被自己叫声吵醒的萨比尔巴拉意识到刚才的一切都是梦境。
+5,Sevilbarra/萨比尔巴拉,(What a dream...),（这个梦真是……）
+6,,"The sensation of having cut down Krelkulkil still fresh in his arms, Sevilbarra clutches his head in anguish.",打倒卡拉库拉奇尔的感觉还残留在手上，萨比尔巴拉痛苦地抱住了头。
+7,Sevilbarra/萨比尔巴拉,"(Where are you, Krelkulkil... And what could you possibly be doing now...)",（卡拉库拉奇尔……你现在，在哪里，做什么……）
+10,Sevilbarra/萨比尔巴拉,Elder... What can I do to save Krelkulkil?,长老，我要怎么做才能拯救卡拉库拉奇尔呢？
+11,Sevilbarra/萨比尔巴拉,The only way I can atone now is to at least pull <span class='scene-font-italic'>him</span> out of the mess...,至少，就算只有那个家伙……
+12,Elder/老人,I'm sorry to say it's too late for Krelkulkil... He's used the demon blade far too much.,很遗憾，他使用了太多妖刀的力量，现在已经太晚了。
+13,Elder/老人,He's reached a state where we can no longer do anything for him.,凭我们的力量，已经无能为力了。
+16,Sevilbarra/萨比尔巴拉,(The demon blade continues to drain Krelkulkil of his life force.),（妖刀还在继续侵蚀着卡拉库拉奇尔的身心）
+17,Sevilbarra/萨比尔巴拉,(Even with the sealing technique... I am not sure how long he can remain himself...),（就算有封印术……也不知道他能保持自我到什么时候）
+18,Sevilbarra/萨比尔巴拉,"(Rationality lost, heart broken, memory wiped—perhaps it won't be much longer until he begins thrashing about, catering only to his most basic and savage instincts.)",（理智丧失，心灵破碎，记忆忘却，情感混乱……可能他很快就要到达这个地步了。）
+19,Sevilbarra/萨比尔巴拉,(Like Corwell...),（就像科尔威尔一样……）
+20,Sevilbarra/萨比尔巴拉,(When that time comes... what is there that I could possibly do for him?),（到那个时候……我能对他做什么呢？）
+21,,Sevilbarra clenches his fists and gazes up at the ceiling through the darkness.,在黑暗的房间里，萨比尔巴拉凝望着天花板握紧了拳头。
+27,,The next morning 姬塔 and company say their goodbyes to the elder and depart from the island.,第二天，姬塔和众人告别长老并离开了岛屿。
+33,,"Sevilbarra stands quietly on deck, his hair fluttering wildly against the strong winds.",萨比尔巴拉静静地站在甲板上，任狂风吹乱他的头发。
+34,Sevilbarra/萨比尔巴拉,...,……
+35,,姬塔 calls to the Harvin out of concern.,姬塔有些担心他的状况。
+35-sel1_txt,,Are you okay?,你还好吗？
+35-sel2_txt,,You're not alone.,你并不孤单。
+36,Sevilbarra/萨比尔巴拉,"Oh, I'll be fine. Sorry if I made you worry.",啊，我很好，抱歉让你担心了。
+37,Sevilbarra/萨比尔巴拉,I was just... thinking about the answer to something.,我只是……在思考某个问题的答案……
+38,Sevilbarra/萨比尔巴拉,Which is silly considering the answer's already right in front of me in a way...,当然，答案其实已经很明显了。
+39,Sevilbarra/萨比尔巴拉,You're right... I have all of you in the crew.,你说得对，我还有你们。
+40,Sevilbarra/萨比尔巴拉,"(Mm-hm... <span class='scene-font-italic'>I'm</span> not alone, but...)",（没错，<span class='scene-font-italic'>我</span>不是一个人，但是……）
+41,,The Harvin samurai shelves his concerns in his heart and flashes 姬塔 a faint smile.,萨比尔巴拉强忍内心的忧伤，向姬塔平静地微笑。
+42,Sevilbarra/萨比尔巴拉,"Your kindness knows no bounds, 姬塔, but perhaps that's why you're our captain.",我的意思是，你真是太善良了，姬塔，或许正因为这样你才是我们的团长。
+43,Sevilbarra/萨比尔巴拉,I pray that part of you never changes.,我希望你能就这样一直善良下去。
+44,Sevilbarra/萨比尔巴拉,(But kindness is not an option for me.),（但是我，不能温柔）
+45,Sevilbarra/萨比尔巴拉,"(Krelkulkil... If you should ever fall to depravity, I swear to take you down by my own hand...)",（卡拉库拉奇尔，如果你堕落入邪道……我就亲自用这双手……）
+46,,Sevilbarra continues the adventure with 姬塔 and company in hopes of one day tracking down Krelkulkil.,萨比尔巴拉为了追寻卡拉库拉奇尔的踪迹而继续和姬塔一起冒险。
+47,,Only time will tell of what may come of that final confrontation.,现在还没有人知道，等待着的结局——
+info,,,scene_chr510_q2_s30

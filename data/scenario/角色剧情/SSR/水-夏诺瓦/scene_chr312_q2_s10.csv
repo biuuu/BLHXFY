@@ -1,0 +1,18 @@
+id,name,text,trans
+0-chapter_name,,The Art of Thievery,怪盗的艺术
+0-synopsis,,"They arrive at a hideout used in underworld affairs. Two suspicious men appear with the stolen jewels, and the crew moves to take them back.",众人来到一个隐蔽的地下设施，发现携带者被盗珠宝的两个可疑男人，众人立刻动身将他们打倒并带走。
+0,,Chat Noir leads the party to an empty room that seems to be purposely hidden from the public.,夏诺瓦引领众人来到一个被隐蔽的很好的空房间中。
+1,Vyrn/碧,What is this place?,这里是哪儿啊？
+2,Chat Noir,This is a hideout used by people in the underground world.,这里是地下世界人们所使用的隐匿处。
+3,Lyria/露莉亚,This is kind of exciting! I wonder what we're going to find here.,有点让人兴奋啊，真好奇在这里能找到些什么呢？
+4,Chat Noir,"Well, we'll have to wait and see. Hm? Sounds like we're not alone.",只要等着瞧就好了，嗯？看来还有别人在这里。
+6,,The party hides in the shadows and watch as two suspicious men walk into the room.,众人躲藏在影子里，发现有两个可疑男子走进了房间。
+7,Suspicious Man 1/可疑男子1,Hehehe! I can't believe how great this is going!,哈哈哈，没想到咱们还真是大大的赚到了啊！
+8,Suspicious Man 2/可疑男子2,"Yeah, I never thought we'd get our hands on these treasures!",对啊，没想到居然真的能拿到这些宝物。
+9,,Each man pulls a jewel from a pocket hidden in their clothing.,两个人都从衣服的暗兜中拿出了一块宝石。
+10,Vyrn/碧,Don't tell me those jewels are—,难道说，他们拿着的宝石是——
+11,Chat Noir,"Yes, those are the stolen jewels we're after.",没错，那就是被偷走的宝石。
+12,Lyria/露莉亚,But how did you know they would be here?,但是你是怎么知道他们会来这里的呢？
+13,Chat Noir,"Oh, I have my ways.",我有很多方法的。
+14,Chat Noir,"Now then. What say we get those jewels back, shall we?",那么，让我们先把那些宝石拿回来吧。
+info,,,scene_chr312_q2_s10

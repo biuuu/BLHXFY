@@ -1,0 +1,79 @@
+id,name,text,trans
+0-chapter_name,,"You and Me, No Matter What",你和我的羁绊
+0-synopsis,,"Just as Vane and Lancelot defeat the monsters, the sky begins to thunder. They find a cave for shelter from the rain and start a fire. They talk about their friendship and their trust in each other during tough scrapes. But soon enough a monster appears from within the cave.",就在维恩和兰斯洛特打败魔物之后，天空中开始响起雷声。他们找到了一个避雨的山洞并生起了火。二人聊起了它们之间的友谊和在各种艰难环境下的信赖，但是很快山洞中就出现了一个魔物。
+2,Vane/维恩,Pant... Pant... I think we got them.,咳……这应该是最后一个了。
+3,Lancelot/兰斯洛特,This area must be monster territory.,看起来这里应该是魔物的领地呢。
+4,,"As soon as the two knights defeat the monsters, the clouds above darken and thunder starts to roar. A storm threatens.",就在两位骑士打到了魔物的时候，云彩开始变暗，天空响起雷声，暴风雨即将来临。
+6,Vane/维恩,"Oh, come on! Can't two guys catch a break?",可恶！麻烦一个接着一个的！
+7,Lancelot/兰斯洛特,Vane! We need to find shelter before the rain finds us!,维恩！必须在下雨前找到一个避雨的地方！
+8,Vane/维恩,Ditto! Lean on me—I'll be your crutch.,好！兰酱，靠在我的肩膀上，我来支撑你！
+9,Lancelot/兰斯洛特,Much obliged. Let's follow the river for now.,多谢，先沿着河找吧。
+13,,Lancelot limps along with Vane's help.,兰斯洛特在维恩的帮助下前行。
+14,,Before long they come across a cave large enough to accommodate them.,他们成功地在下雨前找到一个足以容纳他们两人的山洞。
+17,Vane/维恩,Whew! We made it! And not a drop of rain on us!,咻，不管怎么说总算是没被雨浇到啊。
+18,Lancelot/兰斯洛特,Not a moment too soon either.,呀咧呀咧，真是千钧一发呢。
+19,Vane/维恩,"It might be a little dark and damp in here, but it looks like we're finally safe.",虽然这里又黑又潮湿，但是看上去我们终于安全了。
+20,Lancelot/兰斯洛特,The sun's setting as well. It might be best to spend the night here.,外面的天色也暗下来了，看来今天只能在这里过夜了。
+21,Vane/维恩,You're right! Wouldn't want to wander down the mountain when it's pitch black out there.,没错，天黑的时候在山林里胡乱行走浪费体力就不好了。
+22,Lancelot/兰斯洛特,Perhaps we should use the rest of the kindling to make a fire while there's still light.,那么就趁着还有光，用剩下的干草生火吧。
+23,Vane/维恩,Right! I'm on it!,哦！
+24,Lancelot/兰斯洛特,Haha.,哈哈。
+25,Vane/维恩,Hm? What's so funny?,嗯？我做了什么好笑的事情吗？
+26,Lancelot/兰斯洛特,"Oh, nothing. I was just thinking about how dependable you've been today.",不是，我是在想，今天的维恩真是可靠啊。
+27,Vane/维恩,Really? Aren't I always like this?,真的吗？我一直以来都是这个样子的吧。
+28,Vane/维恩,Wait. Does that mean I'm usually <span class='scene-font-italic'>not</span> dependable?,不是，平时的我是有多不靠谱啊？
+29,Lancelot/兰斯洛特,"No, no! That's not what I meant at all!",不是不是，我不是那个意思。
+30,Vane/维恩,"I guess...<br>I just really wanted this hike to go well, y'know?",哈哈，不过嘛，今天的登山真是成功啊。
+31,Lancelot/兰斯洛特,Mm. As did I.,嗯，我也是这么觉得的。
+32,Vane/维恩,I'm... sorry things turned out like this.,结果变成这个样子，真是抱歉啊……
+33,Lancelot/兰斯洛特,Why're you apologizing? This isn't anyone's fault.,为什么你要道歉啊？变成这个样子不是任何人的错。
+34,Vane/维恩,"Well, you have a point. But, I dunno, I can't help but feel responsible somehow.<br>Oh! I got a flame!",嗯，你说的也对，但是不知道怎么回事我觉得我有责任……哦！火升起来了！
+35,Lancelot/兰斯洛特,"Great going, Vane!",干得好，维恩！
+36,Vane/维恩,This baby's going to be a roaring fire in no time! Sit tight!,这个火还需要一点照顾才能烧起来，稍等一下哦。
+37,Vane/维恩,Huff! Huff!,呼，呼！
+39,Vane/维恩,Yes! Just in time before dark!,不错！总算是在天黑之前赶上啦。
+41,Vane/维恩,Argh! I just realized I'm starving!,可恶，这个时候才感觉到肚子好饿啊！
+42,Lancelot/兰斯洛特,"Pff! Haha! Here, have this.",噗，哈哈，给，来吃这个吧。
+43,Vane/维恩,Huh? You brought emergency rations?,诶？这是什么？应急口粮？
+44,Vane/维恩,"You're the man, Lancey! Thanks!",太好啦谢谢你兰酱！那么我就不客气……
+45,Vane/维恩,"W-wait, wait, wait. Do you have one for yourself?",等等，兰酱的那一份呢？
+46,Lancelot/兰斯洛特,Don't worry about me. I'm not too hungry right now.,嗯？我那一份就不用担心了，反正我现在肚子也不饿。
+47,Vane/维恩,"No, you gotta eat! We'll split it!",不行不行，给你分一半。
+48,,Vane tears the dried snack in two.,维恩将干粮掰成两半。
+49,Vane/维恩,Here! Take it!,拿好，兰酱的份。
+50,Lancelot/兰斯洛特,"Heh. Thank you, Vane.",谢谢你，维恩。
+51,Vane/维恩,"Haha. Hey, <span class='scene-font-italic'>I</span> should be thanking <span class='scene-font-italic'>you</span> here.",嘿嘿，这里是我要谢谢兰酱。
+52,Lancelot/兰斯洛特,Vane... Do you remember?,维恩，你还记得吗？
+53,Vane/维恩,Hm? Remember what?,嗯？记得什么？
+54,Lancelot/兰斯洛特,That time when we were kids and went to play in the woods. We got ourselves so lost.,小时候我们一起在森林里玩耍，结果迷路了的那件事。
+55,Vane/维恩,"Huh? Oh, <span class='scene-font-italic'>that</span>! Yeah, I was so scared.",嗯？啊，是有哦，那个时候我可害怕啦。
+56,Vane/维恩,"I was crying my eyes out like there was no tomorrow. Man, I was such a baby.",那个时候我哭的可厉害啦，想起来还挺丢人啊。
+57,Vane/维恩,But you didn't cry. Not even once. You looked after me the whole way through.,但是兰酱一次都没有哭，全程一直在照顾着我。
+58,Vane/维恩,I don't know what I would've done without you.,如果不是和兰酱一起出去的话真不知道该怎么办了。
+59,Lancelot/兰斯洛特,No.,不是的。
+60,Vane/维恩,Huh?,诶？
+61,Lancelot/兰斯洛特,"No, Vane. You've got it all wrong. The only reason I didn't cry was because I had you with me.",不是的，维恩，我之所以没有哭，是因为有你陪伴在我身边。
+62,Lancelot/兰斯洛特,It's not that I was strong because I wasn't scared. There was simply nothing to fear as long as we were together.,我知道只要有你在身边，不管多大的困难我们都能一起跨越。
+63,Lancelot/兰斯洛特,Vane. It's <span class='scene-font-italic'>I</span> who would've been helpless without <span class='scene-font-italic'>you</span>.,维恩，那个时候无助的是我啊。
+64,Vane/维恩,Lancey...,兰酱……
+65,,The two stare at each other. Lancelot is the first to break the silence.,两人互相对视着，兰斯洛特率先打破了沉默。
+66,Lancelot/兰斯洛特,"Hahaha. And if I recall, you were hungry that time as well. I split my food with you then, just like now.",哈哈哈，而且如果我记得没错的话，那个时候你肚子饿了，我就像现在这样把自己的食物给了你。
+67,Vane/维恩,"What, seriously? Looks like I haven't changed one bit!",诶真的吗？我这不是一点都没有成长吗！
+68,Lancelot/兰斯洛特,"Hahaha, you certainly haven't.",哈哈哈，你真是一点都没有变呢。
+69,Lancelot/兰斯洛特,Even back then you insisted we split the food. You wouldn't budge until we did.,因为那个时候你也坚持把一半的食物分给我。
+70,Vane/维恩,"One day I want to be strong enough to protect you, Lancey!",怎么说呢，有一天我会强大到可以保护兰酱嘛！
+71,,Sounds of movement start to echo from deep within the cave.,洞穴深处响起移动的声音。
+73,Vane/维恩,...!<br>Lance! Something's coming!,兰酱！有什么东西过来了！
+74,Lancelot/兰斯洛特,"Yes, it seems we're not alone in here. I'll take care of—",嗯，看来我们并不是独自在这里，这里就由我……
+75,Vane/维恩,Leave this to me!,交给我吧！
+76,Lancelot/兰斯洛特,Vane! You can't do this alone!,维恩！你一个人不行的！
+77,Vane/维恩,I can't let you fight in the condition you're in!,兰酱才是，这种状况不能战斗的吧。
+78,Lancelot/兰斯洛特,"Wha! No, but I can still—",什！这种状况不是——
+79,Vane/维恩,"You think I can't tell, but I can. You've been hiding how bad your leg hurts. You can barely walk, but you've been putting on a brave face for me.",其实你的腿一直很疼都走不了路了吧，但是一直为了我而硬撑着，难道我会看不出来吗。
+80,Lancelot/兰斯洛特,Ngh! That's—,呃！那是——
+81,Vane/维恩,Lancelot! I'm not that kid in the woods anymore.,兰斯洛特！我已经不再是那个时候森林里的孩子了。
+82,Lancelot/兰斯洛特,But... Vane...,维恩，你……
+83,Vane/维恩,This time... it's my turn to protect you!,所以这一次，轮到我来保护你！
+86,Monster/魔物,Grraaar!,嘎啊啊啊啊啊！
+87,Vane/维恩,"Sorry we woke you up, little guy, but I'm gonna have to tuck you back into bed!",吵醒你真是对不起啊，虽然很抱歉，但是要请你再一次睡过去了！
+info,,,scene_chr370_q3_s10

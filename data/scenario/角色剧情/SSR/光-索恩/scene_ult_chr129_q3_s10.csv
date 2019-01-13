@@ -1,0 +1,24 @@
+id,en,jp,trans
+0-chapter_name,,射手の王,羿王
+0-synopsis,,姬塔達の協力を得て、ソーンは二王弓の力の解放に必要な素材を集め終わる。しかしソーンは喜びもせず、暗い表情で二王弓に語りかける。ソーンの声に応えて喋り出した二王弓に驚く姬塔達だが、ソーンは姬塔達の様子にはまったく関心を示さない。そして、二王弓がソーンに与えた次の試練は、二王弓自身との戦いだった。,在姬塔们的帮助下，索恩终于将解放二王弓真正力量的素材收集完了。然而索恩并没有露出喜悦的表情，却一脸阴沉的她开始向二王弓说话。对于在听到二王弓回答索恩的声音时瞠目结舌的姬塔们，索恩表现出一副事不关己的样子。接着，二王弓给与索恩试炼，试炼的内容就是打倒二王弓本身。
+0,,…………,…………
+1,,<span class='scene-font-katari'>素材を集めたソーンの顔に浮かぶのは、</span><br><span class='scene-font-katari'>喜びでも達成感でもない、</span><br><span class='scene-font-katari'>暗い表情だった。</span>,<span class='scene-font-katari'>在收集了所有素材之后，</span><br><span class='scene-font-katari'>浮现在索恩脸上的并非喜悦亦非成就感，</span><br><span class='scene-font-katari'>而是阴暗的表情。</span>
+2,,な……なぁ、ソーンよぉ。<br>欲しがってた物が<br>全部そろったって事だけど……,呐……啊，索恩。<br>你想要的东西已经全部<br>收集到了……
+3,,ええ。,嗯。
+4,,……そうでしょう？　<span class='scene-font-spword'>二王弓</span>。,……是吧？　<span class='scene-font-spword'>二王弓</span>。
+6,,<span class='scene-font-gray'>然り。</span><br><span class='scene-font-gray'>我が力、解放の準備は整った。</span>,<span class='scene-font-gray'>然也。</span><br><span class='scene-font-gray'>余力解之日已至。</span>
+7,,え……ええっ！？<br>この声は！？,诶……诶诶！？<br>这个声音是！？
+8,,なんだよ！？<br>に……<span class='scene-font-spword'>二王弓</span>が喋りだしたぞ！,怎么回事！？<br>二……<span class='scene-font-spword'>二王弓</span>竟然说话了！
+9,,ソーンさん、これって何が……,索恩姐，这到底是什么回事……
+10,,それで？　次は何？,所以，接下来要干什么？
+12,,<span class='scene-font-gray'>汝に試練を与える。</span><br><span class='scene-font-gray'>射手の王たる力を示せ。</span>,<span class='scene-font-gray'>与汝试炼，以示近王之力。</span>
+13,,いいわ。,好啊。
+15,,<span class='scene-font-gray'>我が放つ星穿ちの矢、</span><br><span class='scene-font-gray'>全て撃ち落してみせよ。</span>,<span class='scene-font-gray'>余贯星之矢，悉数接之。</span>
+16,,ふうん？<br>ずいぶんと簡単なのね。,嘿？<br>竟然这么简单啊。
+17,,どうなってやがんだ？<br>ソーンに、オイラ達がまるで見えてねえ<br>みたいだけど……,这到底是在干什么啊？<br>索恩好像完全看不见我们一样……
+22,,<span class='scene-font-4'>ひゃあっ！？</span>,<span class='scene-font-4'>呀啊！？</span>
+23,,凄い力……<br>貴方を倒してこの手にすれば、<br>私が……射手の王になるのね。,如此强大的力量……<br>如果打到你的话，<br>我……就会成为射手之王。
+24,,人ならざる者……<br>十天衆さえ超えた、<br>本物の化け物に……,成为超越人类……<br>超越十天众的，<br>真正的怪物……
+26,,<span class='scene-font-gray'>然り。</span>,<span class='scene-font-gray'>然也。</span>
+30,,いくわよ。<br>私の力を示すわ。,我要上了。<br>见识一下我的力量吧。
+info,,1,scene_ult_chr129_q3_s10

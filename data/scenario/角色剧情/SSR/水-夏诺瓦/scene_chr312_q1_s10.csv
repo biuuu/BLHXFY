@@ -1,0 +1,19 @@
+id,name,text,trans
+0-chapter_name,,The Art of Thievery,怪盗的艺术
+0-synopsis,,The crew tackles two simultaneous requests to recover stolen jewels for the countries of Akoku and Ukoka. Chat Noir offers his services and takes them to a location that might provide clues to help them complete their tasks.,团员们同时接到了Akoku和Ukoka两个国家关于追回被盗珠宝的委托，夏诺瓦提出要帮助他们并带领团员来到一个有可能遗留下有关于被盗珠宝线索的地方。
+0,,"Some time later, 姬塔 and company receive two requests of a peculiar nature.",有一次，姬塔和团员们接到了两个十分独特的委托。
+1,,"The first request comes from the country of Akoku. Their national jewel has been stolen by their neighboring country, Ukoka, and they want it returned.",第一个委托来自于Akoku国，委托的内容是追回被邻国Ukoka盗走的国宝钻石。
+2,,"The second request comes from the country of Ukoka. Their national jewel has been stolen by their neighboring country, Akoku, and they want it returned.",第二个委托来自于Ukoka国，委托的内容是追回被邻国Akoku盗走的国宝钻石。
+3,,"These incidents threaten to trigger a conflict between the two countries, who already have a history of animosity.",这两个国家本就积怨已久，这次事件更是让两国关系上升到剑拔弩张的紧张气氛。
+4,Lyria/露莉亚,Hrm. Doesn't it seem strange to get two requests that are almost exactly the same?,嗯……同时接到两个几乎相同的委托，真是不可思议呢。
+5,Vyrn/碧,Obviously. There's gotta be a reason for this.,很明显，这其中有什么蹊跷吧。
+7,Chat Noir,"Heh heh. That's quite a conundrum, I dare say.",哼哼，看样子你们遇到难题了呢。
+8,Lyria/露莉亚,Yeek! Chat Noir?,呼啊啊！夏诺瓦先生？
+9,Vyrn/碧,Whoa! Where did you come from?,喂喂，你是从哪儿冒出来的啊？
+10,Chat Noir,"Wherever enigmas appear, I shan't be far behind.",只要有谜题的地方，我就会紧随其后。
+11,Lyria/露莉亚,That's amazing! How do you do that?,好厉害啊，你是怎么做到的呢？
+12,Chat Noir,"Ahem. I can't tell you that, Lyria.",嗯咳咳，这我不能告诉你，露莉亚。
+13,Chat Noir,"Now then, I believe I have a clue for you. Would you be so kind as to follow me?",比起这个，我相信我有解开这个谜题的线索，你们愿意跟我来吗？
+14,,姬塔 nods in approval.,姬塔点头表示同意。
+15,Chat Noir,Thank you. Let's be on our way.,谢谢你信任我，那么我们赶快出发吧。
+info,,,scene_chr312_q1_s10

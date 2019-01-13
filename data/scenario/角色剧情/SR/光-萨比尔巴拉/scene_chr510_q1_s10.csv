@@ -1,0 +1,57 @@
+id,name,text,trans
+0-chapter_name,,Awaiting Easterly Winds,等待东风
+0-synopsis,,"At the elder's estate, Sevilbarra inquires about possible methods for saving Keralbarra's soul from the demon blade, but the elder explains that it is no easy feat. As for Krelkulkil, there's no coming back from what the blade has turned him into. ",在长老家中，萨比尔巴拉咨询了关于从妖刀中拯救库拉芭拉灵魂的方法，但是长老解释说这不是一件简单的事情，至于卡拉库拉奇尔，如今已经没有什么能够阻止妖刀侵蚀他了。
+2,,"After a fierce battle with the crew, Krelkulkil goes into hiding again after getting his hands on a certain demon blade.",经过与众人的一番苦战后，卡拉库拉奇尔最终得到了妖刀，不知所踪。
+8,,"It is from this point on that Sevilbarra makes it his life's goal to purge the world of the vile blades, which serve only to plunge the world into misfortune.",从那个时候开始，萨比尔巴拉将“斩断这把只会给世间带来不幸的妖刀”作为自己的人生目标。
+14,,The crew once again makes for the elder's estate to report on this turn of events.,众人回到长老那里禀报事情的结果。
+15,Elder/老人,So I see Krelkulkil has made himself scarce...,所以卡拉库拉奇尔消失了吗……
+16,Sevilbarra,Forgive me for being so powerless.,力有不逮，十分抱歉。
+17,Elder/老人,"It's not your fault, Sevilbarra. No one could have stopped him.",不，这不是你的错，萨比尔巴拉，那个时候没有人能够阻止他。
+18,Elder/老人,"If there ever was a chance to, it would have been when he took off with just a single demon blade in hand...",只有当他手持一把妖刀的时候，才有机会能够战胜他。
+19,Sevilbarra,I have to ask...,有件事我想问一下……
+20,Sevilbarra,Was the blade that Krelkulkil made off with... the one passed down in my family?,卡拉库拉奇尔带走的那把妖刀……就是我家族里传下来的那把——
+21,Sevilbarra,"The one known for a killing edge that gets sharper with every soul it cuts down, condemning its victims to an eternity of anguish...",是通过折磨被斩杀之人的灵魂，吸收它们的怨念而获得更加强大的力量的妖刀，没错吧。
+22,Elder/老人,"That is correct. A few generations back it was kept in this home for some time, giving my family a chance to confirm its nature.",没错，我家的先祖曾经保管过那把刀，并且研究了它的特性。
+23,Vyrn/碧,What I don't get is how Straw Hat Guy didn't know that.,但是斗笠小哥不知道这一点我很奇怪哦。
+24,Elder/老人,The mere knowledge of the fact wouldn't help matters much.,就算事先知道这一点也并不会改变现在的状况。
+25,Elder/老人,"Considering that Sevilbarra's generation only had to keep it safe, simply knowing that it was a dangerous artifact was sufficient.",考虑到萨比尔巴拉那一代人只是负责守护它的安全，所以知道这是非常危险的物品即可。
+26,Sevilbarra,Krelkulkil mentioned that if we can apply the extraction technique to the demon blade...,卡拉库拉奇尔提到如果对妖刀施放【特定】的咒术……
+27,Sevilbarra,It may be possible to rescue Keralbarra's soul from within.,就可以将库拉芭拉被囚禁在其中的灵魂解救出来。
+28,Elder/老人,...,……
+29,Sevilbarra,Do you think that's really possible?,这种事，真的可能发生吗？
+30,Sevilbarra,"And supposing we do pull it off, what happens to the freed soul?",而且假设我们将灵魂抽取出来，被解放出来的灵魂又会怎么样呢？
+35,Sevilbarra,Would it be a situation similar to that alchemist in our crew...,会不会像骑空团里的炼金术师那样……
+41,Sevilbarra,"Where if an alchemic bodily vessel is prepared beforehand, resurrection would be possible?",如果利用炼金术事先准备好躯体的话，是不是就可以将灵魂放入其中实现复活呢？
+42,,"The elder grows silent, a solemn expression covering his face.",长老沉默着，一言不发。
+43,Sevilbarra,...,……
+44,Elder/老人,Come with me.,跟我来。
+45,,The crew curiously follows behind the elder.,众人好奇地跟在长老身后。
+51,,姬塔 and company arrive at a cellar located on the premises.,姬塔众人来到长老家中的一间地下室。
+52,,"Lying inside are experimental apparatuses, along with various types of demon blades, all neatly arranged.",地下室里整齐地摆放着从未见过的各种实验器材，和各种不同形制的妖刀。
+53,Elder/老人,The blades in here each possess a different <span class='scene-font-italic'>attribute.</span>,在这里的每一把刀刃都具有独特的<span class='scene-font-italic'>力量.</span>
+54,Elder/老人,"By employing a special technique, we can extract a portion of that <span class='scene-font-italic'>attribute.</span>",通过特定的方法，就能够将<span class='scene-font-italic'>力量</span>的一部分抽取出来。
+57,Lyria/露莉亚,You mean like that monster we fought in the garden?,就像是我们曾经战斗过的那种魔物吗？
+63,Elder/老人,Indeed. But bear in mind that it can be drawn out only because it governs a part of the demon blade's inner nature.,没错，但是这种被抽取出来的部分其实也包含着妖刀核心的一部分。
+64,Elder/老人,"By <span class='scene-font-italic'>attribute,</span> I am referring to the captive soul that lies within.",将被囚禁的灵魂取出来，也是一种<span class='scene-font-italic'>力量</span>。
+65,Elder/老人,"Even if we're able to draw it out, whether the soul is strong enough to survive the process...",就算我们能够将灵魂取出来，是否能够坚持走完剩下的流程……
+66,Elder/老人,Remains an unknown factor.,这一切都是未知数。
+67,Sevilbarra,"Unknown, eh...",未知……
+68,Elder/老人,Which is why I wouldn't get my hopes too high. The extraction technique was born out of an inordinate amount of trial and error.,这也就是我为什么不抱太大希望，提取力量这种技术本就是经过大量试验和失败而得到的。
+69,Elder/老人,"Even if that demon blade were in our possession this very moment, successfully pulling off the technique immediately would be no easy feat.",就算那把妖刀现在就在这里，也很难马上就研究出取出灵魂的方法。
+70,,姬塔 and company droop their shoulders in disappointment.,姬塔众人听到长老的话颓丧地耸起肩膀。
+71,Sevilbarra,"I see. We appreciate the explanation, Elder.",我知道了，长老，谢谢你的解释。
+72,Elder/老人,Keralbarra was a sweet young lady... 'Tis a real shame what happened to her.,库拉芭拉是一个很优秀的年轻人……关于发生在她身上的一切，我感到很遗憾。
+73,Sevilbarra,Elder... what can I do to save Krelkulkil?,长老，我要怎么做才能拯救卡拉库拉奇尔呢？
+74,Sevilbarra,The only way I can atone now is to at least pull <span class='scene-font-italic'>him</span> out of the mess...,至少，就算只有<span class='scene-font-italic'>那家伙</span> ……
+75,Elder/老人,I'm sorry to say it's too late for Krelkulkil... He's used the demon blade far too much.,很遗憾，卡拉库拉奇尔使用了太多妖刀的力量，已经太晚了。
+76,Elder/老人,He's reached a state where we can no longer do anything for him.,正如我之前所说，凭我们的力量已经……无能为力了。
+77,Vyrn/碧,"Now that's just straight-up coldhearted! We're talking about your grandson here, for goodness sake!",喂，这可是你的孙子啊，这么说是不是有点过分。
+78,Vyrn/碧,You're not even gonna <span class='scene-font-italic'>try</span> to keep up with the research on demon blades?,难道你连 <span class='scene-font-italic'>尝试</span>去研究妖刀都放弃了吗？ 
+79,Elder/老人,...,……
+80,Sevilbarra,"Vyrn. Cool it, will you?",阿碧，冷静一下。
+81,Sevilbarra,The elder has spent much of his life studying the sealing technique. He sees things that we don't.,长老几乎一生都在研究封印术，比我们知道的肯定要多。
+82,Sevilbarra,It's not our place to blame him.,我们不能责备他。
+83,,Sevilbarra admonishes Vyrn for coming down so hard on the elder.,萨比尔巴拉劝说阿碧不要责怪长老。
+84,,Yet the feeling of helplessness that overcomes everyone lingers on.,但是，弥漫在众人心头的无助感无法散去。
+85,,"The elder suggests that the exhausted crew members stay the night, then shuffles off.",长老建议疲惫的众人先留住一晚，然后就离开了。
+info,,,scene_chr510_q1_s10

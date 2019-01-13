@@ -1,0 +1,26 @@
+id,name,text,trans
+0-chapter_name,,"You and Me, No Matter What",你和我的羁绊
+0-synopsis,,"After a picnic on the mountaintop, 姬塔 and company descend the mountain. They hear shouts for help coming from nearby and rush over to find monsters attacking defenseless hikers.",结束了山顶的野餐后，姬塔和同伴们开始下山。他们听到附近有求救的声音，赶过去发现有魔物在袭击毫无防备能力的登山者。
+0,,"Vane, Lancelot, 姬塔, and company return from their mountaintop picnic.",维恩，兰斯洛特，姬塔他们从山顶的野餐中返回。
+1,Lyria/露莉亚,The view from the peak and those pretty pink flowers were amazing! What a wonderful place that was!,那些可爱的粉红花瓣，还有山顶的景色都太美了，真是个有趣的地方呢！
+2,Vyrn/碧,"Ditto! If I had my way, I would've stayed a little longer.",啊，如果可以的话，真想待的更久一点呢！
+3,Vane/维恩,"Sorry about that! Believe me, I wanted to stay longer myself, but leaving while the weather's on our side is the safest thing to do.",抱歉抱歉，我也想说慢慢来，但是山上的天气有时候很危险哦。
+4,Vane/维恩,"Going down the mountain's more dangerous than up, and you never know when the weather might change around here.",而且下山的路途中不知道什么时候天气就会变化了，有点担心所以还是稍微早点离开吧。
+5,Lancelot/兰斯洛特,Vane's right. Leaving early means that we're prepared for any trouble that might come up along the way.,嗯，正如维恩所说，这样就留出充足的准备时间，如果遇到什么事情也可以做好准备。
+6,Vane/维恩,"Don't worry—we'll come again next year! Right, 姬塔?",明年我们再一起过来吧，呐，姬塔？
+7,,姬塔 gives a firm nod in answer.,姬塔肯定地点头。
+8,,"Just then, the group hears shrill screams pierce through the air.",就在这时，他们听到一声尖叫撕破天空。
+9,Vane/维恩,Whoa! Speaking of trouble!,呃！刚才的声音是……
+10,Lancelot/兰斯洛特,Hurry! It came from this way!,快点，这边！
+12,Vane/维恩,"Can you come with us, everyone?",团长你们可以一起过来吗？
+13,Vyrn/碧,Bet on it! We can keep up!,交给我们吧！我们也一起过去！
+14,Lyria/露莉亚,We will! Don't worry about us! This path shouldn't be too hard for us to cross.,是的！不用担心我们，这种程度的山路对于我们已经不是问题了！
+15,,姬塔 nods eagerly.,姬塔也点头肯定。
+16,Vane/维恩,Okay! Stay close!,好的！那么跟紧我一起来！
+21,,"After pushing their way through the rough path, the group finds two people cornered at the edge of a cliff by vicious monsters.",经过了难走的山路，他们发现有两个人被魔物逼到悬崖的边缘。
+22,Frightened Man,Eeek! G-get away!,不，不要过来！
+23,Frightened Woman,Help! Someone! Anyone!,有谁来，谁来帮帮我们！
+33,Lancelot/兰斯洛特,"We're here to help! Ready, Vane?",已经没问题了！维恩！准备好战斗吗？
+35,Vane/维恩,"Ready, Lancey!<br>Everyone, cover us!",没问题兰酱！拜托你们掩护了！
+36,Vane/维恩,Let's roll!,战斗开始！
+info,,,scene_chr370_q1_s10
