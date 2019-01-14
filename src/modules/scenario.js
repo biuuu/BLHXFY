@@ -207,6 +207,18 @@ const replaceChar = (key, item, map, scenarioName) => {
       let nmKey = name.slice(0, name.length - 2)
       const _trans = getNameTrans(nmKey, map, scenarioName)
       if (_trans) trans = `${_trans}的声音`
+    } else if (!trans && /・/.test(name)) {
+      const arr = _name.split('・')
+      trans = arr.map(nm => {
+        const rst = getNameTrans(nm, map, scenarioName)
+        return rst || nm
+      }).join('・')
+    } else if (!trans && /\band\b/i.test(name)) {
+      const arr = _name.split(' and ')
+      trans = arr.map(nm => {
+        const rst = getNameTrans(nm, map, scenarioName)
+        return rst || nm
+      }).join('・')
     }
 
     if (trans) {
@@ -215,7 +227,7 @@ const replaceChar = (key, item, map, scenarioName) => {
       }
       item[key] = trans
     } else if (trans !== '') {
-      return _name
+      return name
     }
   }
 }
