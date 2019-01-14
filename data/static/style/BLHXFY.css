@@ -94,6 +94,9 @@ body .prt-user-status .prt-user-stamina .txt-stamina-remaining::before {
 body .prt-daily-popup .prt-player-info .btn-usual-lineup::after {
   content: "任务报酬确认";
 }
+body .list-innner-present .lis-present .prt-right-box .prt-detail-box .prt-present-btn .btn-present-get::after {
+  content: "领取";
+}
 body .btn-control[data-buton-name="イベントTOPへ"]::after {
   content: "回到活动";
 }
