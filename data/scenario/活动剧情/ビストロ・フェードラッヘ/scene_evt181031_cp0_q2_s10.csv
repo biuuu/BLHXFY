@@ -78,7 +78,7 @@ id,name,text,trans
 142,サヴァラン,あえてドラッヘントラウトに<br>ドラッヘンボアなどという<br>珍妙な食材を合わせてきたのか。,特地选用德拉狠鳟鱼<br>和德拉狠野猪之类<br>珍惜食材制作的么。
 143,サヴァラン,だが、珍しい食材で奇を衒おうが、<br>私の口に合わなければ<br>そこで終わりだと思うがいい。,但、只是用珍稀食材引人注目、<br>而不和我胃口的话<br>到时就当是结束吧。
 144,,<span class='scene-font-katari'>ぶつぶつと呟きながらも</span><br><span class='scene-font-katari'>優雅な所作で前菜を</span><br><span class='scene-font-katari'>口に運ぶサヴァラン。</span>,<span class='scene-font-katari'>尽管喋喋不休也仍用</span><br><span class='scene-font-katari'>优雅的动作将前菜</span><br><span class='scene-font-katari'>送入口中的萨瓦兰。</span>
-145,サヴァラン,はむっ……もぐもぐ……,哈姆っ……咀嚼咀嚼……
+145,サヴァラン,はむっ……もぐもぐ……,哈姆……咀嚼咀嚼……
 147,サヴァラン,こっこれは！<br>なんて素朴で優しい味なんだ！<br>だが素朴なだけではない！,这 这是！<br>何等朴素而又温和的味道！<br>但又不仅仅是朴素！
 148,サヴァラン,しっかりと練り上げられたプロの味だ！<br>むぅ、これは奇妙な感覚だ……！,这是经过千锤百炼才能做出的专业的味道！<br>姆、这真是奇妙的感觉……！
 149,サヴァラン,ドラッヘントラウトと<br>ドラッヘンボアが味にリズムと<br>コントラストをつけている。,在德拉很鳟鱼与<br>德拉很野猪的味道上赋予了韵律<br>与色彩的对比。
@@ -238,13 +238,13 @@ id,name,text,trans
 355,,<span class='scene-font-katari'>恐る恐るヘクトアイズプリンを</span><br><span class='scene-font-katari'>掬って一口食べるサヴァラン。</span>,<span class='scene-font-katari'>小心翼翼地舀起一勺</span><br><span class='scene-font-katari'>百目怪布丁并品尝的萨瓦兰。</span>
 357,サヴァラン,な……なんだこの<br>口当たりの滑らかさと<br>舌を包み込む濃厚さは……！,这……这口感与爽滑到<br>包裹住舌头的浓厚度<br>是怎么回事啊……！
 358,サヴァラン,これほどまでに美味なプリンは<br>今までどんなパティシエからも<br>出されたことがないぞ！,这样美味的布丁<br>至今为止哪一位糕点师<br>都不曾做出来！
-359,サヴァラン,今なお新しい食材に挑戦し、<br>先人に続いて食の地平を切り開く<br>その姿勢、素晴らしい！,至今仍向新的食材挑战、<br>紧接着先人的脚步开辟食之地平线的く<br>那份姿态、太出色了！
+359,サヴァラン,今なお新しい食材に挑戦し、<br>先人に続いて食の地平を切り開く<br>その姿勢、素晴らしい！,至今仍向新的食材挑战、<br>紧接着先人的脚步开辟食之地平线的<br>那份姿态、太出色了！
 360,ジークフリート/齐格飞,ありがとうございます。,非常感谢。
 361,ランスロット/兰斯洛特,<span class='scene-font-2'>ジークフリートさん！</span><br><span class='scene-font-2'>いつの間にこんなものを！</span>,<span class='scene-font-2'>齐格飞先生！</span><br><span class='scene-font-2'>您什么时候做出这种！</span>
 362,ジークフリート/齐格飞,<span class='scene-font-2'>以前からヘクトアイズは</span><br><span class='scene-font-2'>濃厚なプリンの様な食感で</span><br><span class='scene-font-2'>ウマそうだと思っていたのでな。</span>,<span class='scene-font-2'>从以前开始我就觉得</span><br><span class='scene-font-2'>百目怪的口感就像是浓厚的布丁一样</span><br><span class='scene-font-2'>很好吃的样子。</span>
 363,ジークフリート/齐格飞,<span class='scene-font-2'>たった今、</span><br><span class='scene-font-2'>長年の疑問が晴れて、</span><br><span class='scene-font-2'>すっきりした心持ちだ。</span>,<span class='scene-font-2'>就在刚才、</span><br><span class='scene-font-2'>我常年的疑问得到了解答、</span><br><span class='scene-font-2'>心里很是舒畅啊。</span>
 364,ランスロット/兰斯洛特,<span class='scene-font-2'>え……ええーっ？</span><br><span class='scene-font-2'>今初めて調理したんですかー！</span><br><span class='scene-font-2'>しかも他人にぃぃ！</span>,<span class='scene-font-2'>诶……诶诶ー？</span><br><span class='scene-font-2'>您刚才是第一次做吗！</span><br><span class='scene-font-2'>而且还是给别人！</span>
-365,ジークフリート/齐格飞,<span class='scene-font-2'>ああ……</span><br><span class='scene-font-2'>自信があったんだが、</span><br><span class='scene-font-2'>ダメだったのか？</span>,<span class='scene-font-2'>ああ……</span><br><span class='scene-font-2'>我很有自信的但、</span><br><span class='scene-font-2'>失败了吗？</span>
+365,ジークフリート/齐格飞,<span class='scene-font-2'>ああ……</span><br><span class='scene-font-2'>自信があったんだが、</span><br><span class='scene-font-2'>ダメだったのか？</span>,<span class='scene-font-2'>啊……</span><br><span class='scene-font-2'>我很有自信的但</span><br><span class='scene-font-2'>失败了吗？</span>
 366,,<span class='scene-font-katari'>厨房から事の成り行きを</span><br><span class='scene-font-katari'>見守っていたヴェイン達も</span><br><span class='scene-font-katari'>ほっと胸をなでおろす。</span>,<span class='scene-font-katari'>在厨房观察情况的</span><br><span class='scene-font-katari'>维恩们也</span><br><span class='scene-font-katari'>放下了心中的石头。</span>
 367,ヴェイン/维恩,ははは！<br>さすがジークフリートさんだぜ！,哈哈哈！<br>不愧是齐格飞先生！
 368,パーシヴァル/帕西瓦尔,まさか即席でプリンまで<br>作ってしまうとはな……,没想到马上就把布丁<br>都做好了……
@@ -279,7 +279,7 @@ id,name,text,trans
 400,パーシヴァル/帕西瓦尔,やれやれ……<br>これで一安心だな。,真是真是……<br>这样就暂且安心了。
 401,ジークフリート/齐格飞,ああ。<br>何とも不思議な経験だった。,啊啊。<br>何等不可思议的经验。
 402,ルリア/露莉亚,お客さん達も、<br>みんな喜んでくれてます～！,客人们、<br>大家也都很高兴～！
-403,ビィ/碧,はははっ！<br>今日はパーティーだな！,哈哈哈っ！<br>今天要开派对呢！
+403,ビィ/碧,はははっ！<br>今日はパーティーだな！,哈哈哈！<br>今天要开派对呢！
 404,給仕スタッフの男,うぅ……良かった……,呜呜……太好了……
 405,給仕スタッフの女,や……やった……<br>私達、優勝したんだね。,讨……讨厌……<br>我们、优胜了呢。
 406,厨房スタッフの男,ははは……！<br>何も泣くことないだろう！,哈哈哈……！<br>也没必要哭吧！
