@@ -1,0 +1,173 @@
+id,name,text,trans
+0-chapter_name,,エンディング,
+0-synopsis,,巨大化したサイコヴィーラに立ち向かったのは、エルセムを逃がしたい一心で駆け付けたユグドラシルだった。エルセムは、古代の技術により鋼の巨人となり、ついにユグドラシルとともにサイコヴィーラを打ち倒すのだった……という夢を見ていた一同。メーテラが店を訪れると、６人とも眠りについていた。メーテラは、目を覚ましたスーテラと昨晩の懇親会の感想を語り合うのだった。,面对巨大化精神力维拉挺身而出的是，想让艾尔塞姆平安逃走而赶来的尤格多拉希尔。艾尔塞姆使用古代技术变身为钢之巨人，和尤格多拉希尔一起打败了精神力维拉……这是众人做的一场梦。等美黛拉来到店里时，6个人都睡着了。美黛拉和斯黛拉一起聊着昨晚联谊的感想。
+1,サイコヴィーラ,お姉様を……よくも……,竟敢对……姐姐大人……
+2,サイコヴィーラ,<span class='scene-font-4'>チャラ男……！</span><br><span class='scene-font-4'>コロス……！</span>,<span class='scene-font-4'>渣男……！全宰了……！</span>
+3,ローアイン/罗艾因,<span class='scene-font-4'>おいおいおいおいおい！</span><br>なんかっべー事になってんぞ！,<span class='scene-font-4'>喂喂喂喂喂！</span><br>感觉事情不妙啊！
+4,エルセム/艾尔塞姆,<span class='scene-font-place'>アマルティア</span>の街ごと食って<br>めっちゃデカくなってるし……！,它把<span class='scene-font-place'>阿玛提亚</span>的街道都吞了变得越来越大了……！
+5,トモイ/托莫伊,こりゃサイズ感的に勝ち目ねーぞ！<br>ラムちょ運んで逃げるべ！,光看体型我们就没胜算啊！<br>快带着拉姆亲一起赶紧逃吧！
+11,サイコヴィーラ,<span class='scene-font-4'>チャラ男……！</span><br><span class='scene-font-4'>死すべし……！</span>,<span class='scene-font-4'>渣男……！都去死……！</span>
+12,サイコヴィーラ,<span class='scene-font-4'>チャラ男……！</span><br><span class='scene-font-4'>虐殺すべし……！</span>,<span class='scene-font-4'>渣男……！全部虐杀……！</span>
+13,ローアイン/罗艾因,っべーな……モリモリ食って<br>どんどん成長してんぞ、アレ……！,不妙啊……它越吃越大了……！
+14,エルセム/艾尔塞姆,おいおい……<br>ちょっと巨大すぎんだろ……<br>なんだありゃ、城かよ！,喂喂……<br>这也太大了吧……<br>变成城堡大小了！
+15,トモイ/托莫伊,とりまグラサイ行くべ！<br>この島もうダメだわ！<br>逃げんぞ！,总之先回格兰赛法！<br>这座岛已经完了！<br>快逃！
+18,スーテラ/斯黛拉,あの……！<br>サイコヴィーラが<br>ローアイン殿達に狙いを！,那个……！<br>精神力维拉冲着罗艾因你们来了！
+21,サイコヴィーラ,お姉様……,姐姐大人……
+22,サイコヴィーラ,<span class='scene-font-4'>お姉様お姉様お姉様……！</span>,<span class='scene-font-4'>姐姐大人姐姐大人姐姐大人……！</span>
+23,ラムレッダ/拉姆蕾塔,こ……こっち来たにゃ！,来……来了喵！
+24,３人,<span class='scene-font-4'>うおおおおおおい！？</span>,<span class='scene-font-4'>哦哦哦哦哦！？</span>
+26,コルワ/可露瓦,…………！？,
+32,エルセム/艾尔塞姆,コルワちゃん……！<br>怪我ねーっすか！,可露瓦……！<br>你没受伤吧！
+33,コルワ/可露瓦,だ、大丈夫……,没、没事……
+34,コルワ/可露瓦,でも、なんでサイコヴィーラが<br>止まったの？,可是，为什么精神力维拉突然不动了？
+35,,<span class='scene-font-katari'>そして一同は、巨大な影が</span><br><span class='scene-font-katari'>自分達を覆っている事に気付く。</span>,<span class='scene-font-katari'>众人这才发现自己被巨大的影子所覆盖。</span>
+36,エルセム/艾尔塞姆,こりゃ……まさか！,这……难道是！
+37,ユグドラシル/尤格多拉希尔,…………！,
+38,エルセム/艾尔塞姆,<span class='scene-font-4'>ゆぐゆぐ！？</span><br>なんでここに！,<span class='scene-font-4'>尤格尤格！？</span><br>为什么会在这里！？
+39,ユグドラシル/尤格多拉希尔,…………,
+40,エルセム/艾尔塞姆,まさか……まさか俺に会いに……！？<br><span class='scene-font-place'>ルーマシー</span>からはるばる来たのかよ！,难道说……是来见我的……！？专程从<br><span class='scene-font-place'>露玛茜</span>来的吗！？
+41,ユグドラシル/尤格多拉希尔,…………！,
+42,エルセム/艾尔塞姆,何する気よゆぐゆぐ！<br>それ危ねえから離れろし！,你在干什么啊尤格尤格！<br>很危险的，快点走开！
+43,ユグドラシル/尤格多拉希尔,…………,
+44,,<span class='scene-font-katari'>コルワをかばうように立つ</span><br><span class='scene-font-katari'>エルセムを見て、ユグドラシルは</span><br><span class='scene-font-katari'>何かを察した表情を浮かべる。</span>,<span class='scene-font-katari'>看到艾尔塞姆保护可露瓦的样子，尤格多拉希尔察觉到了什么。</span>
+45,ユグドラシル/尤格多拉希尔,…………♪,
+46,エルセム/艾尔塞姆,え……,咦……
+47,,<span class='scene-font-katari'>そしてユグドラシルは微笑み、</span><br><span class='scene-font-katari'>何かを言い残してサイコヴィーラへと</span><br><span class='scene-font-katari'>向き合うのだった。</span>,<span class='scene-font-katari'>尤格多拉希尔笑着说了什么，随后就向精神力维拉走去。</span>
+48,エルセム/艾尔塞姆,エル……セム……幸せに……！？,艾尔……塞姆……你要幸福……！？
+49,ユグドラシル/尤格多拉希尔,<span class='scene-font-4'>…………！！</span>,
+50,エルセム/艾尔塞姆,何する気だゆぐゆぐ！<br>やめろ……！,你要做什么尤格尤格！？<br>快住手……！
+51,エルセム/艾尔塞姆,<span class='scene-font-4'>やめろーーーーーっ！</span>,<span class='scene-font-4'>住手啊————！</span>
+52,ユグドラシル/尤格多拉希尔,<span class='scene-font-4'>────！</span>,
+61,ユグドラシル/尤格多拉希尔,<span class='scene-font-4'>…………！</span>,
+67,サイコヴィーラ,<span class='scene-font-4'>ぐああああっ！</span>,<span class='scene-font-4'>啊啊啊啊啊啊！</span>
+68,,<span class='scene-font-katari'>ユグドラシルは捨て身の覚悟で</span><br><span class='scene-font-katari'>サイコヴィーラに立ち向かう。</span>,<span class='scene-font-katari'>尤格多拉希尔做好牺牲的准备面对精神力维拉。</span>
+71,,<span class='scene-font-katari'>両者の戦いに手を出そうにも</span><br><span class='scene-font-katari'>自分はあまりに小さく──エルセムは、</span><br><span class='scene-font-katari'>それをただ眺める事しかできずにいた。</span>,<span class='scene-font-katari'>就算想要插手，他也太过渺小——艾尔塞姆只有旁观的份。</span>
+72,エルセム/艾尔塞姆,なんて……<br>なんてちっぽけなんだ、俺……,我是……<br>我是多么渺小……
+73,エルセム/艾尔塞姆,目の前でゆぐゆぐが傷ついてんのに……<br>なんで何もできねえんだよ……,尤格尤格在我眼前受伤……<br>我却什么都做不到……
+74,ユグドラシル/尤格多拉希尔,<span class='scene-font-4'>…………！</span>,
+75,サイコヴィーラ,<span class='scene-font-4'>邪魔を……</span><br><span class='scene-font-4'>するなぁぁぁ！</span>,<span class='scene-font-4'>给我……滚开啊啊啊！</span>
+76,ユグドラシル/尤格多拉希尔,<span class='scene-font-4'>…………！</span>,
+80,,<span class='scene-font-katari'>おびただしい数の建物を巻き込み、</span><br><span class='scene-font-katari'>装甲と触手を削りあいながら</span><br><span class='scene-font-katari'>両者の戦いは続く。</span>,<span class='scene-font-katari'>装甲与触手的激战卷入了大量建筑。</span>
+81,,<span class='scene-font-katari'>力は互角のように見えた。しかし……</span><br><span class='scene-font-katari'>ユグドラシルがその身を変えるため、</span><br><span class='scene-font-katari'>無理に抱いた憎悪には限りがあった。</span>,<span class='scene-font-katari'>两边看起来不分上下……但是，尤格多拉希尔为了维持现在的状态，逼着自己心怀憎恶。</span>
+87,ユグドラシル/尤格多拉希尔,…………！,
+88,エルセム/艾尔塞姆,<span class='scene-font-4'>ゆぐゆぐ！</span><br><span class='scene-font-4'>今行くからな！</span>,<span class='scene-font-4'>尤格尤格！我来了！</span>
+89,,<span class='scene-font-katari'>一度は膝をついたユグドラシルだが、</span><br><span class='scene-font-katari'>ふたたび立ち上がって</span><br><span class='scene-font-katari'>サイコヴィーラに立ち向かう。</span>,<span class='scene-font-katari'>跪倒在地的尤格多拉希尔再次站起来与精神力维拉战斗。</span>
+90,,<span class='scene-font-katari'>己の身を盾にサイコヴィーラの攻撃を</span><br><span class='scene-font-katari'>食い止めるユグドラシル。その口が</span><br><span class='scene-font-katari'>エルセムに告げる。「逃げて」と……</span>,<span class='scene-font-katari'>它用自己的身体挡住精神力维拉的攻击，告诉艾尔塞姆「快逃」……</span>
+91,エルセム/艾尔塞姆,逃げろって……<br>でも、俺……！,快逃……<br>可是、我……！
+92,ローアイン/罗艾因,行ってＤｏすんだバカ！<br>サイズ感的にどうしようもねえべ！,你去有什么用啊白痴！<br>我们这个大小什么都做不了！
+93,エルセム/艾尔塞姆,いやねーべ！<br>あの状態のゆぐゆぐ放っといて<br>逃げるとかねーべ！,不行！<br>我不能丢下那样的尤格尤格自己逃走！
+94,トモイ/托莫伊,駄目だろ……エルっちになんかあったら<br>ゆぐゆぐの気持ち……<br>無駄になっちまうべ！,别去了……要是艾尔亲有个三长两短……<br>不就浪费了尤格尤格的心意吗！？
+95,ローアイン/罗艾因,もう、逃げるしかねえんだよ……<br>俺ら……！,我们能做的……<br>就只有逃了……！
+96,エルセム/艾尔塞姆,<span class='scene-font-2'>あ……あ……</span>,<span class='scene-font-2'>啊……啊……</span>
+97,エルセム/艾尔塞姆,<span class='scene-font-4'>ぅエあぁアアアアアっ！？</span>,<span class='scene-font-4'>呃啊啊啊啊啊啊！？</span>
+99,ローアイン/罗艾因,ば、ちょ待てよ！<br>グラサイ停めてんのそっちじゃねえ！,喂，等一下！<br>格兰赛法不在那边！
+107,ローアイン/罗艾因,エルっち来たのこっちで合ってる！？,你确定艾尔亲到这边来了吗！？
+108,トモイ/托莫伊,アレだわ！<br>ほんのり新しい整髪料の香りするから<br>間違いねえべ！,那个！<br>能闻到一点点新发胶的味道，肯定没错的！
+109,ローアイン/罗艾因,クッソ……！<br>何しでかす気だよ！<br>エルっち！,真是的……！<br>到底想干嘛啊艾尔亲！
+110,？？？,<span class='scene-font-4'>うおおおお</span><br><span class='scene-font-4'>ッシャオラァァアーーーッ！</span>,<span class='scene-font-4'>噢噢噢噢哦哦哦——！</span>
+112,ローアイン/罗艾因,ちょ待て……<br>なんだこの揺れ！,等等……<br>这个震动是！
+113,トモイ/托莫伊,なんか……<br>奥の方で目覚めてっぞ！,好像是从里面……！
+117,サイコヴィーラ,<span class='scene-font-4'>チャラ男！</span><br><span class='scene-font-4'>チャラ男を！</span><br><span class='scene-font-4'>抹殺……抹殺ゥゥゥゥ！</span>,<span class='scene-font-4'>渣男！渣男！抹杀……抹杀！</span>
+118,ユグドラシル/尤格多拉希尔,…………！,
+119,,<span class='scene-font-katari'>満身創痍のユグドラシル。</span><br><span class='scene-font-katari'>もはや彼女に抵抗する力は</span><br><span class='scene-font-katari'>残されていなかった。</span>,<span class='scene-font-katari'>尤格多拉希尔满身疮痍，她已经没有抵抗的余力了。</span>
+120,ユグドラシル/尤格多拉希尔,…………,
+121,,<span class='scene-font-katari'>それでも……エルセム達が</span><br><span class='scene-font-katari'>その場を離れたことを知り、</span><br><span class='scene-font-katari'>安堵の表情を浮かべ、目を閉じる。</span>,<span class='scene-font-katari'>然而……她知道艾尔塞姆已经离开，所以放心地闭上了眼睛。</span>
+122,,<span class='scene-font-katari'>そして、抵抗の意思をなくした</span><br><span class='scene-font-katari'>ユグドラシルへ、サイコヴィーラは</span><br><span class='scene-font-katari'>とどめの一撃を繰り出した──</span>,<span class='scene-font-katari'>随后，精神力维拉向不再抵抗的尤格多拉希尔使出最后一击。</span>
+129,ユグドラシル/尤格多拉希尔,…………！？,
+130,？？？,ワリ……遅くなったわ……,抱歉……我来晚了……
+131,,<span class='scene-font-katari'>サイコヴィーラの攻撃を食い止めたのは</span><br><span class='scene-font-katari'>白き鋼の巨体であった。</span>,<span class='scene-font-katari'>挡住精神力维拉攻击的是，银白色钢铁的巨体。</span>
+132,サイコヴィーラ,チャラ……男……,渣……男……
+133,サイコヴィーラ,<span class='scene-font-4'>チャラ男ォォォォ！</span>,<span class='scene-font-4'>渣男啊啊啊啊！</span>
+134,鋼の巨人,<span class='scene-font-4'>来いやオラァァァ！</span><br><span class='scene-font-4'>俺が相手だッシャオイイイイ！</span>,<span class='scene-font-4'>放马过来！我来做你的对手！</span>
+135,ユグドラシル/尤格多拉希尔,…………！？,
+136,,<span class='scene-font-katari'>状況が飲み込めず目を白黒させる</span><br><span class='scene-font-katari'>ユグドラシルへ、鋼の巨人の頭に乗った</span><br><span class='scene-font-katari'>何かから声がかけられる。</span>,<span class='scene-font-katari'>还没弄明白发生了什么的尤格多拉希尔听到乘在钢之巨人上的人对她说道。</span>
+137,ローアイン/罗艾因,へいゆぐゆぐ！<br>今度は俺らが助ける番的な！？,嘿，尤格尤格！<br>这次换我们来救你了！
+138,トモイ/托莫伊,っべーわコレ！<br>鋼鉄の巨人に乗っちゃうとか<br>マジ男の子の夢あふれまくりだわ！,不得了啊！<br>驾驶钢铁巨人什么的，充满了男人的梦想啊！
+139,ユグドラシル/尤格多拉希尔,…………,
+140,,<span class='scene-font-katari'>茫然と、ローアインらの声を聞く</span><br><span class='scene-font-katari'>ユグドラシル。その目は、</span><br><span class='scene-font-katari'>エルセムの姿を探しているようだ。</span>,<span class='scene-font-katari'>尤格多拉希尔一脸茫然地听着罗艾因等人的感想，随后开始寻找艾尔塞姆。</span>
+141,鋼の巨人,あ、俺、こっちこっち。<br>わりかし見た目変わってっけど。,啊，我在这里，这里。<br>虽然外表整个变了。
+142,ユグドラシル/尤格多拉希尔,…………！？,
+143,鋼の巨人,俺、やっとデカくなれたわ……,我，终于变大了……
+144,ユグドラシル/尤格多拉希尔,…………！？,
+145,鋼の巨人,古代の技術あるべ？<br>アレでオレを改造したってワケよ。<br>マジかっこいいべ？,用那啥的古代技术把我自己改造了啊。<br>是不是很帅？
+146,ユグドラシル/尤格多拉希尔,…………,
+147,,<span class='scene-font-katari'>なぜ、そんなことを……</span><br><span class='scene-font-katari'>ユグドラシルの表情は、</span><br><span class='scene-font-katari'>そう物語る。</span>,<span class='scene-font-katari'>尤格多拉希尔用表情询问他为什么这么做。</span>
+148,鋼の巨人,だってさ、ゆぐゆぐ……<br>ナオンに守られて俺だけ逃げるとか<br>最高にだっせえし。,因为啊，尤格尤格……<br>在女森的保护下逃走什么的，逊死了。
+149,鋼の巨人,でも、こっからさ……<br>挽回させてもらっちゃうぜオイー！,不过，从现在开始……<br>我们来挽回一切！
+150,鋼の巨人,<span class='scene-font-4'>ローアイン！</span><br><span class='scene-font-4'>トモちゃん！</span><br><span class='scene-font-4'>バイブスアゲてくぞ！</span>,<span class='scene-font-4'>罗艾因！托莫亲！燃起来！！</span>
+151,３人,<span class='scene-font-4'>いくぜオイー！</span>,<span class='scene-font-4'>上了啊啊啊！</span>
+152,サイコヴィーラ,<span class='scene-font-4'>……チャラ男ォォォォ！</span>,<span class='scene-font-4'>……渣男——！</span>
+156,,<span class='scene-font-katari'>両者の応酬は島を揺るがし、</span><br><span class='scene-font-katari'>大気を震わせ、</span><br><span class='scene-font-katari'>漂う雲さえ吹き飛ばした。</span>,<span class='scene-font-katari'>两者的战斗扰乱了鸟的飞行，震撼了大气，甚至吹散了周边的浮云。</span>
+157,鋼の巨人,クッソ……！<br>さすがヴィーラちゃんの思念、<br>マジつええ……！,可恶……！<br>不愧是维拉的执念，太强了吧……！
+161,鋼の巨人,<span class='scene-font-4'>ぐがっ！</span>,<span class='scene-font-4'>呃啊！</span>
+169,ローアイン/罗艾因,クッソ……！<br>直……撃……<br>貰っちまった……！,可恶……！<br>受到了……直击……！
+170,トモイ/托莫伊,あが……が……！,啊啊……！
+171,鋼の巨人,ヤッベ……！<br>左腕と……左足……！<br>動かねえ……！,糟了……！<br>左手……和左脚……！<br>动不了……！
+172,サイコヴィーラ,くっひひ……！<br>コロス……コロス……！<br><span class='scene-font-4'>チャラ男、コロス！</span>,嘻嘻……！<br>杀了……杀了……！<br><span class='scene-font-4'>杀了渣男！</span>
+173,鋼の巨人,クソ、早く……立ち上がんねえと……！,该死的，快点……站起来……！
+174,鋼の巨人,頼むローアイン！　トモちゃん！<br>バイブス……アゲてくれ！,拜托了罗艾因！ 托莫亲！<br>再一次……燃起来！
+175,ローアイン・トモイ/罗艾因・托莫伊,<span class='scene-font-4'>オッケェーイ……！</span>,<span class='scene-font-4'>OK——……！</span>
+176,ローアイン/罗艾因,あソレ……あソレ……！,嘿呀……嘿呀……！
+177,３人,<span class='scene-font-4'>あ……</span><span class='scene-font-4'>ソレソレソレソレ……！</span>,<span class='scene-font-4'>嘿……呀啊啊啊啊……！</span>
+178,鋼の巨人,<span class='scene-font-4'>ガチめの……！</span>,<span class='scene-font-4'>钢铁的……！</span>
+179,ローアイン・トモイ/罗艾因・托莫伊,<span class='scene-font-4'>体に……！</span>,<span class='scene-font-4'>身体……！</span>
+180,鋼の巨人,<span class='scene-font-4'>漢の……！</span>,<span class='scene-font-4'>男人的……！</span>
+181,ローアイン・トモイ/罗艾因・托莫伊,<span class='scene-font-4'>魂……！</span>,<span class='scene-font-4'>气魄……！</span>
+182,鋼の巨人,<span class='scene-font-4'>ギガントボディーで……！</span>,<span class='scene-font-4'>用这巨人的身体……！</span>
+183,ローアイン・トモイ/罗艾因・托莫伊,<span class='scene-font-4'>決めちゃって……！</span>,<span class='scene-font-4'>一决胜负吧……！</span>
+184,３人,<span class='scene-font-4'>ホレたナオンの！</span><br><span class='scene-font-4'>スマイル守れや！</span><br><span class='scene-font-4'>エモってねえで立ち上がるァ！</span>,<span class='scene-font-4'>守护，心爱的女森的笑容！别在那儿磨叽了！站起来！</span>
+185,ローアイン・トモイ/罗艾因・托莫伊,<span class='scene-font-4'>ワッショイ！</span>,<span class='scene-font-4'>上啊！</span>
+186,３人,<span class='scene-font-4'>うおおおおおおお……！</span>,<span class='scene-font-4'>噢噢噢噢哦哦哦……！</span>
+188,鋼の巨人,クソ……左腕のバイブスが<br>まだエモいんだけど！<br>さすがに片腕じゃ剣振れねえ……！,可恶……左手还提不起劲！<br>一只手挥不动剑啊……！
+189,鋼の巨人,こうなりゃ……<br>ごめん……ゆぐゆぐ！<br>俺に力を貸してくれ！,这样的话……<br>抱歉……尤格尤格！<br>借给我力量吧！
+190,ユグドラシル/尤格多拉希尔,…………！,
+191,鋼の巨人,やっぱ俺、ひとりじゃダメ的な……<br>隣にゆぐゆぐいなきゃ、<br>デケエ壁、越えらんねーわ……,果然，我一个人是不行的……<br>只有在尤格尤格身边，才能跨越最大的障碍……
+192,ユグドラシル/尤格多拉希尔,…………！,
+193,鋼の巨人,いくぜ、ゆぐゆぐ……<br>これが……,上了，尤格尤格……<br>这就是……
+194,鋼の巨人,<span class='scene-font-4'>俺達の、はじめての……</span><br><span class='scene-font-4'>共同作業だーッッ！</span>,<span class='scene-font-4'>我们、最初的……合作！</span>
+199,サイコヴィーラ,ちゃ……<br><span class='scene-font-4'>チャラ男ォォォォ！</span>,渣……<br><span class='scene-font-4'>渣男啊啊啊啊！</span>
+201,鋼の巨人,終わったな……,结束了……
+202,？？？,女子の力と漢気の持つ力……<br>これほどとは……,女子的力量和男人的气魄……<br>没想到如此的强大……
+203,？？？,姉様に一歩でも近づくため……<br>いえ、何より私自身のために<br>これからも女子の力の修行に励まねば……,为了更加接近姐姐大人……<br>不，更是为了我自己，我也要努力修行女子之力……
+204,ユグドラシル/尤格多拉希尔,…………,
+205,鋼の巨人,え？　俺が元の体に戻れるかって……<br>無理くね？　しらねーけど。,咦？ 我能不能变回原来的样子……<br>不行？ 我也不知道。
+206,ユグドラシル/尤格多拉希尔,…………,
+207,鋼の巨人,ま、そんな顔すんなし！<br>だってさ……,别露出这种表情嘛！<br>因为……
+208,鋼の巨人,俺達……<br>もうサイズ感、一緒じゃん？,这下我们……<br>差不多大了？
+209,ユグドラシル/尤格多拉希尔,…………！,
+210,ユグドラシル/尤格多拉希尔,…………♪,
+211,,<span class='scene-font-katari'>こうして──</span>,<span class='scene-font-katari'>于是——</span>
+212,,<span class='scene-font-katari'>激しい戦いを生き抜いたエルセムと</span><br><span class='scene-font-katari'>ユグドラシルは、熱くかたい抱擁を</span><br><span class='scene-font-katari'>交わしたのであった。</span>,<span class='scene-font-katari'>在激战中获得胜利的艾尔塞姆和尤格多拉希尔紧紧地拥抱在一起。</span>
+218,ローアイン/罗艾因,くかー……,呼哈……
+219,エルセム/艾尔塞姆,すぴー……ゆぐ、ゆぐ……,呼……尤格、尤格……
+220,トモイ/托莫伊,……フゴッ！,……嗝！
+221,コルワ/可露瓦,くー……すー……,呼……呼……
+222,スーテラ/斯黛拉,んう……これが……懇親会……,唔……这就是……联谊……
+223,ラムレッダ/拉姆蕾塔,むにゃむにゃ……,唔喵……
+224,,<span class='scene-font-katari'>長い夜が明け、日が昇ろうとしていた。</span><br><span class='scene-font-katari'>夜を明かして喋った全員が眠り始めた頃</span><br><span class='scene-font-katari'>ひとりの女性が店を訪れる。</span>,<span class='scene-font-katari'>黎明时分，全员都开始打瞌睡时，一名女性来到了店里。</span>
+227,メーテラ/美黛拉,ふぁ……疲れた。<br>ねえお兄さん。なんか目の覚める飲み物<br>ちょうだい。,哈……好累。<br>这位小哥，给我来点清爽的饮料吧。
+228,店員/店员,はい、少々お待ちを。,好的，请稍等。
+229,メーテラ/美黛拉,今日のアレはどうなったかね……って。,今天的那个怎么样了……喂。
+230,６人,<span class='scene-font-4'>くかー……</span>,<span class='scene-font-4'>呼哈……</span>
+231,メーテラ/美黛拉,あはは……寝てんじゃん。<br>ちょっとスーテラ、風邪ひくよ？,啊哈哈……都睡着了。<br>斯黛拉，你这样会感冒的。
+232,スーテラ/斯黛拉,ん……う……,唔……嗯……
+233,スーテラ/斯黛拉,あねさま……？,姐姐大人……？
+234,メーテラ/美黛拉,徹夜で喋ってたの？<br>よくやるねえ。,你们整晚都在聊天吗？<br>真有你们的。
+235,スーテラ/斯黛拉,いつの間にか……<br>眠ってしまっていたようです……<br>くぁ……,好像不知不觉……<br>就睡着了……<br>哈……
+241,メーテラ/美黛拉,で、どうだった？<br>楽しかった？　懇親会。,于是，联谊有趣吗？
+242,スーテラ/斯黛拉,はい。<br>今まで体験したことのない事ばかりで<br>いい刺激になりました。,是的。<br>至今没有过这种体验，感觉很刺激。
+243,メーテラ/美黛拉,そっか。で、女子力の方は？<br>ちゃんと上がった？,是么。<br>那女子力呢？有提升吗？
+244,スーテラ/斯黛拉,正直に言って、まだ私には<br>女子の力というものがよくわかりません。,说实话，我还不太了解究竟什么是女子之力。
+245,スーテラ/斯黛拉,でも……<br>成長はできたと思います。,不过……<br>我觉得自己应该有所成长了。
+246,メーテラ/美黛拉,へぇ、珍しい。<br>あんたがはっきりそう言うなんてさ。,哎呀真意外。<br>你竟然会这么确定地说。
+247,スーテラ/斯黛拉,ふふ。あまりにもたくさんの事が<br>学べたので。,呵呵，因为我学到了很多。
+248,スーテラ/斯黛拉,……姉様。,……姐姐大人。
+249,メーテラ/美黛拉,何？,怎么了？
+250,スーテラ/斯黛拉,ありがとうございました。,谢谢你。
+251,メーテラ/美黛拉,あはは。いいのいいの。<br>じゃ、次は……彼氏作るか。,啊哈哈。没什么没什么。<br>那下次……你去交个男朋友吧？
+252,スーテラ/斯黛拉,そうですね……真面目で、誠実で……<br>罵倒されることに喜びを見出さない方が<br>見つかれば……ですかね。,是呢……如果能找到一个认真诚实……<br>喜欢挨骂的人……就好了。
+253,メーテラ/美黛拉,何それ。<br>ちょっと詳しく聞かせなさい。,那是什么啊。<br>说详细点。
+254,,<span class='scene-font-katari'>眠りについた皆を横目に、</span><br><span class='scene-font-katari'>姉妹が今日の感想を喋りだす。</span>,<span class='scene-font-katari'>看着沉睡的其他人，姐妹两人聊着她们的感想。</span>
+255,,<span class='scene-font-katari'>スーテラにとって、今日の懇親会は</span><br><span class='scene-font-katari'>なかなか楽しいものだったようだ。</span>,<span class='scene-font-katari'>看来对斯黛拉来说，这是一次非常有趣的联谊。</span>
+256,,<span class='scene-font-katari'>「粧して臨めよ花戦」</span><br><span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　　　　　　　　  　　　────完</span>,
+info,,,scene_evt170401_cp0_q2_s10
