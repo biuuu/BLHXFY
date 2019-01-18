@@ -226,7 +226,7 @@ body .pop-room-detail.pop-usual .pop-confirm-continue-quest.pop-usual .prt-popup
 body .cnt-order-box .cnt-btn-bottombox .btn-evolution:not(.disapprove)::after {
   content: "上限解放";
 }
-
+.btn-reset[data-gacha-name="戦貨ガチャ"],
 .prt-module-evolution .btn-cancel,
 .prt-module-evolution, .btn-decompose-confirm,
 .prt-module-evolution .btn-follow-base[data-location-href*="npc"],
@@ -280,6 +280,10 @@ body .cnt-order-box .cnt-btn-bottombox .btn-evolution:not(.disapprove)::after {
 }
 .prt-set-poses .btn-set-poses::after {
   content: "皮肤 · POSE 切换设置";
+  font-size: 12px;
+}
+.btn-reset[data-gacha-name="戦貨ガチャ"]::after {
+  content: "重置战货池";
   font-size: 12px;
 }
 .prt-zenith-button .btn-zenith::after {

@@ -610,3 +610,5 @@ raid/,タッチするとオートアタックが有効になります,通过点�
 /quest/content/supporter,召喚石を使用できないバトルです,这是无法使用召唤石的战斗,
 /quest/content/supporter,通常と同じく加護効果は得られます,可以获得平时一样的加护效果,
 /quest/content/supporter,おまかせ編成,自动组队,
+/teamraid,活动期間中一度だけ天星器を変更可能です,活动期间可以最多更换一次选择的天星器,
+/teamraid,天星器を変更する,更换天星器,
