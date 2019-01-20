@@ -1,0 +1,14 @@
+id,name,text,trans
+0-chapter_name,,第5話 ザベられても折れねー心,第5话 被当成空气也不气馁的心
+0-synopsis,,追試を終えて、解放されたローアイン達。生徒をかばって自らが傷つくことも「むしろ、ご褒美でゴザルよ」というジンの漢ぶりに、ローアイン達は改めて胸をきゅんとさせる。かくして、ジンは不良達を更生させた超教官として、アルビオンに名を残す事になるのだった。,追加测验结束，罗艾因等人终于可以走了。仁为了庇护学生自己受伤仍然表示「这根本就是奖赏啊」的男人气概再次让罗艾因等人心生好感。于是，仁作为让不良学生改过自新的超级教官在阿尔比昂学园成为了传说。
+0,ジン,ふう……<br>これで追試は終わりか。<br>皆、大事ないか？,呼……<br>这么一来追加测验也结束了。<br>大家都没事吧？
+1,ローアイン/罗艾因,いや俺らより<br>ジン先大丈夫っすか？,不，别管我们几个，仁老师你呢？
+2,エルセム/艾尔塞姆,いやマジ助かったッス。<br>いやマジイケメンッス。,得救了。<br>仁老师你太帅了。
+3,トモイ/托莫伊,つかジン先、怪我してるッスよ。,话说仁老师，你受伤了。
+4,ジン,フ……この傷は生徒のために受けた物。<br>ましてイザベラ殿の追試で受けた傷など<br>……むしろ、ご褒美でゴザルよ。,呵呵……这是我为了保护学生而受的伤，更是在伊莎贝拉阁下的测验中受的伤……对我来说，这根本就是奖赏。
+5,ローアイン/罗艾因,<span class='scene-font-kokoro'>（俺ら、ジン先の事</span><br><span class='scene-font-kokoro'>あんだけディスってたのによ……）</span>,<span class='scene-font-kokoro'>（我们几个一直在diss仁老师……）</span>
+6,エルセム/艾尔塞姆,<span class='scene-font-kokoro'>（まさかケガしてまで</span><br><span class='scene-font-kokoro'>俺らの事助けてくれるとか……）</span>,<span class='scene-font-kokoro'>（没想到他不惜受伤也要帮我们……）</span>
+7,トモイ/托莫伊,<span class='scene-font-kokoro'>（この先公、ホンモノの漢じゃん……）</span>,<span class='scene-font-kokoro'>（这老师是真汉子啊……）</span>
+8,３人,<span class='scene-font-kokoro'>（きゅん……）</span>,<span class='scene-font-kokoro'>（哇……）</span>
+9,,<span class='scene-font-katari'>かくして、ジンは</span><br><span class='scene-font-katari'>不良達を更生させた超教官として</span><br><span class='scene-font-place'>アルビオン</span><span class='scene-font-katari'>に名を残す事になる──</span>,<span class='scene-font-katari'>于是，仁作为让不良学生改过自新的超级教官在阿尔比昂学园成为了传说——</span>
+info,,,scene_evt170401_cp5_q4_s30

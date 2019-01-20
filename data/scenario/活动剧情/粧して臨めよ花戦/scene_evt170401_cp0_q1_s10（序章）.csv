@@ -7,7 +7,7 @@ id,name,text,trans
 4,エルセム/艾尔塞姆,こりゃ来てんべ！,来了来了！
 5,トモイ/托莫伊,いやマジで流れきてっし！,桃花运真的要来了！
 6,,<span class='scene-font-katari'>彼らが騒ぐのにはわけがある。</span>,<span class='scene-font-katari'>他们为什么会如此兴奋呢。</span>
-7,,<span class='scene-font-katari'>３人は人生の転機を迎えようと</span><br><span class='scene-font-katari'>していた。そのきっかけは、</span><br><span class='scene-font-katari'>さかのぼること約半日──</span>,<span class='scene-font-katari'>因为他们要迎来人生的转机了——</span><br><span class='scene-font-katari'>していた。そのきっかけは、</span><br><span class='scene-font-katari'>さかのぼること約半日──</span>
+7,,<span class='scene-font-katari'>３人は人生の転機を迎えようと</span><br><span class='scene-font-katari'>していた。そのきっかけは、</span><br><span class='scene-font-katari'>さかのぼること約半日──</span>,<span class='scene-font-katari'>因为他们要迎来人生的转机了——</span><br><span class='scene-font-katari'></span><br><span class='scene-font-katari'>大约在半天之前……</span>
 13,コルワ/可露瓦,ねえ、ローアイン君達。<br>今夜、みんなで私に付き合ってよ。,喂喂，罗艾因呀。<br>今晚，你们三个过来陪一下我们吧。
 14,コルワ/可露瓦,何にって？<br>それは……,要干什么？<br>那个……
 20,３人,<span class='scene-font-4'>合コンンンンン……！<br><span class='scene-font-4'>的なヤツ！　ウェーイス！</span>,<span class='scene-font-4'>是！联！谊！呀！<br><span class='scene-font-4'>万岁！</span>
@@ -46,7 +46,7 @@ id,name,text,trans
 68,エルセム/艾尔塞姆,っべーぞコレ。<br>早くなんとかしねーと<br>俺らのメンタルもたねーぞ。,真不妙啊。<br>如果不赶紧做点啥的话<br>就白瞎了我们的努力了啊。
 69,ローアイン/罗艾因,っつってもっべーぞマジ。<br>恋愛白書に載ってる手<br>全部使い果たしてっし。,不用你说我也知道。<br>明明我把恋爱白书上记载的撩妹技巧<br>全部使出来了啊。
 70,エルセム/艾尔塞姆,待ってろ！<br>ちょ、秒で恋愛白書見直すわ。,等等！<br>在赶紧看一次恋爱白书吧。
-71,トモイ/托莫伊,……いや、ちょ待てエルっち。<br>もしかしてこれ、伝承と実態が<br>違ってるパティーンじゃねえ？,……不对、等一下，艾尔亲。<br>难道说这是，书上的经验和实际<br>完全不同的情况？
+71,トモイ/托莫伊,……いや、ちょ待てエルっち。<br>もしかしてこれ、伝承と実態が<br>違ってるパティーンじゃねえ？,……不对，等一下，艾尔亲。<br>难道说这是，书上的经验和实际<br>完全不同的情况？
 72,エルセム/艾尔塞姆,なる……ありえるー,原来如此……
 73,トモイ/托莫伊,旅あるあるだべ？　書物の情報と<br>実物で全然イメージちげえ感じ。<br>アレよ、星晶獣とか。,我们也旅行了很多次了吧？　书上的情报<br>和实物完全不一样的。<br>比如说，星晶兽啥的。
 74,ローアイン/罗艾因,あー、ザカさんの肖像画とか<br>マジ怖いけど<br>本人は子供に超優しい的なギャップ？,啊，就像扎卡大公，画像上<br>那么恐怖<br>实际上是个很喜欢小孩的老头这样的差距？

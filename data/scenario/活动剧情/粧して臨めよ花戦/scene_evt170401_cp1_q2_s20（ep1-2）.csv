@@ -14,7 +14,7 @@ id,name,text,trans
 24,トモイ/托莫伊,<span class='scene-font-4'>ッゼ！</span><br><span class='scene-font-4'>おめらその話すんなし！</span>,<span class='scene-font-4'>啧！</span><br><span class='scene-font-4'>你们别说那件事了！</span>
 25,ローアイン/罗艾因,<span class='scene-font-4'>ぶはははは！</span><br>怒んな怒んな！,<span class='scene-font-4'>哈哈哈哈！</span><br>别生气呀别生气呀！
 26,ラムレッダ/拉姆蕾塔,…………,…………
-28,コルワ/可露瓦,<span class='scene-font-4'>男子！　ちゃんと話聞く！</span>,<span class='scene-font-4'>汉子们！　给我好好听她说话！</span>
+28,コルワ/可露瓦,<span class='scene-font-4'>男子！　ちゃんと話聞く！</span>,<span class='scene-font-4'>男生们！　给我好好听她说话！</span>
 29,ローアイン/罗艾因,あ、すみません。うるさくして。,啊，对不起。弄的那么吵。
 30,エルセム/艾尔塞姆,調子に乗りました、すみません。,太得意忘形了，对不起。
 31,トモイ/托莫伊,<span class='scene-font-kokoro'>（俺悪くない……）</span>,<span class='scene-font-kokoro'>（怪我咯……？）</span>
@@ -29,7 +29,7 @@ id,name,text,trans
 45,青年,…………,…………
 46,レダ美,ちょっとラムレッダ！<br>そのくしゃみはダメ！,喂拉姆蕾塔！<br>怎么能打喷嚏呢！
 47,ラム子,あらららら～<br>イケメンが引いちゃってるの～,啊啦啦啦啦～<br>帅哥都被吓到了呢
-48,羅無,<span class='scene-font-gray'>くっはははは！</span><br><span class='scene-font-gray'>豪快、豪快！</span><br><span class='scene-font-gray'>娘らしからぬくさめよ！</span>,<span class='scene-font-gray'>哼哈哈哈哈！</span><br><span class='scene-font-gray'>豪快、豪快！</span><br><span class='scene-font-gray'>真不像大老娘们！</span>
+48,羅無,<span class='scene-font-gray'>くっはははは！</span><br><span class='scene-font-gray'>豪快、豪快！</span><br><span class='scene-font-gray'>娘らしからぬくさめよ！</span>,<span class='scene-font-gray'>哼哈哈哈哈！</span><br><span class='scene-font-gray'>豪快，豪快！</span><br><span class='scene-font-gray'>真不像大老娘们！</span>
 49,ラムレッダ/拉姆蕾塔,うう……<br>出ちゃったモンは仕方ないにゃ！,呜呜……<br>忍不住打喷嚏有什么办法喵！
 50,青年,風邪、ですか？,感冒，了吗？
 51,ラムレッダ/拉姆蕾塔,え……えへへ……<br>最近、冷えるからかにゃ……,诶……诶嘿嘿……<br>最近不是降温了喵……
