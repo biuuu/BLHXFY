@@ -1,6 +1,6 @@
 id,name,text,trans
 0-chapter_name,,第1話 熱き勝負師,第1话 热情的赌徒
-0-synopsis,,祭の夜を、思い思いに楽しむ 姬塔一行。街中を歩いていた一行は、“参加無料のカード勝負”が酒場で開かれているという貼り紙を見つける。一行は、勝負に勝ったら10万ルピがもらえるという内容に、心を躍らせながら酒場へ向かうのだった。,在节日的夜晚，姬塔一行人正尽情享受着节日的乐趣。在街上散步的一行人发现了在酒馆举行的"免费参加纸牌比赛"的贴纸，上面写着赢了的话可以得到10万卢比。于是一行人激动的朝酒馆走去。
+0-synopsis,,祭の夜を、思い思いに楽しむ 姬塔一行。街中を歩いていた一行は、“参加無料のカード勝負”が酒場で開かれているという貼り紙を見つける。一行は、勝負に勝ったら10万ルピがもらえるという内容に、心を躍らせながら酒場へ向かうのだった。,在节日的夜晚，姬塔一行人正尽情享受着节日的乐趣。在街上散步的一行人发现了在酒馆举行的“免费参加纸牌比赛”的贴纸，上面写着赢了的话可以得到10万卢比。于是一行人激动的朝酒馆走去。
 0,,<span class='scene-font-katari'>降焔祭でにぎわう街を</span><br><span class='scene-font-katari'>思い思いに楽しむ姬塔達。</span>,<span class='scene-font-katari'>在降焔祭热闹的街道上尽情享受的姬塔一行人。</span>
 1,,<span class='scene-font-katari'>そして、ここでも</span><br><span class='scene-font-katari'>シェロカルテのよろず屋は</span><br><span class='scene-font-katari'>大盛況の様子──</span>,<span class='scene-font-katari'>于此同时，榭洛科特的小屋也是非常热闹的样子——</span>
 2,シェロカルテ/榭洛科特,はいは～い！<br>さあさ、道行く旅人さん、<br>寄ってらっしゃい見てらっしゃい～！,嗨~嗨~！<br>来吧~，路上的旅行者，过来看看吧~！
@@ -14,7 +14,7 @@ id,name,text,trans
 10,ビィ/碧,なぁなぁ、姬塔！<br><span class='scene-font-place'>ザンクティンゼル</span>には、こんな大きな<br>祭はなかったな。ワクワクするぜ！,呐呐，姬塔！<br>在<span class='scene-font-place'>赞克汀泽</span>可没有这么大的节日啊。真令人兴奋！
 11,ビィ/碧,……ん？,……嗯？
 12,ビィ/碧,なぁ、あれ見ろよ！<br>あの貼り紙！,呐，看那个！那张贴纸！
-13,,<span class='scene-font-katari'>そこには、“参加無料のカード勝負”が</span><br><span class='scene-font-katari'>酒場で開かれているとの</span><br><span class='scene-font-katari'>告知がされていた。</span>,<span class='scene-font-katari'>在那里，众人看到了在酒吧里可以"参加免费纸牌游戏"的广告。</span>
+13,,<span class='scene-font-katari'>そこには、“参加無料のカード勝負”が</span><br><span class='scene-font-katari'>酒場で開かれているとの</span><br><span class='scene-font-katari'>告知がされていた。</span>,<span class='scene-font-katari'>在那里，众人看到了在酒吧里可以“参加免费纸牌游戏”的广告。</span>
 14,ビィ/碧,ウッヒャァ！<br>勝負に勝ったら10万ルピだって！？,唔呀！<br>赢了比赛可以获得十万卢比！？
 15,ビィ/碧,やってみようぜ！,我们去试试吧！
 16,カタリナ/卡塔莉娜,こらこら、そんなうまい話が……,喂，那么好的事……
