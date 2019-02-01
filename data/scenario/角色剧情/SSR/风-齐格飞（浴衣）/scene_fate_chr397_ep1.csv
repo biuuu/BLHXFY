@@ -1,0 +1,116 @@
+id,name,text,trans
+0-chapter_name,,風に流れる,随风漂泊
+0-synopsis,,バカンスで<span class='scene-font-place'>アウギュステ列島</span>を訪れている姬塔一行。しかし、ジークフリートは鎧姿のままで、観光客に怯えられてしまう。一行がジークフリートに似合う夏らしい衣装を探していたところ、ジンに遭遇する。事情を聞いたジンは、故郷に伝わる夏の略装であるユカタヴィラを薦める。一行の協力のもと、ジークフリートは試着を重ね、遂に至高の一着を選び出すのだった。,姬塔一行人来到<span class='scene-font-place'>奥古斯特列岛</span>度假。但是，因为齐格飞一直身着铠甲、吓到了其他的游客。就在一行人正帮着齐格飞寻找适合夏天穿的衣服时，遇到了仁。了解了事情经过的仁、将自己故乡的传统服饰浴衣推荐给了齐格飞。一行人齐心协力、齐格飞经过反复的试穿，精挑细选后，终于选出了一件最合适的浴衣。
+2,齐格飞,…………,…………
+3,,<span class='scene-font-place'>アウギュステ列島</span><span class='scene-font-katari'>の島のひとつ</span><br><span class='scene-font-katari'>ベンディク島でのバカンスを満喫中の</span><br><span class='scene-font-katari'>ジークフリートと姬塔一行。</span>,在<span class='scene-font-place'>奥古斯特列岛</span><span class='scene-font-katari'>其中的贝斯提耶岛上，齐格飞与姬塔一行人正在享受度假时光。</span>
+4,,<span class='scene-font-katari'>だがジークフリートは、相変わらず</span><br><span class='scene-font-katari'>バカンスとは程遠い無骨な鎧を纏い</span><br><span class='scene-font-katari'>浜辺を警戒しているのだった。</span>,<span class='scene-font-katari'>但齐格飞还是一如既往，</span><br><span class='scene-font-katari'>尽管是假日，他仍身着一副不和适宜的铠甲，警戒着海滨的状况。</span>
+5,齐格飞,ふむ……<br>ここも特に異常は無いな。,嗯……<br>这边也没什么异常。
+6,観光客１,ひっ……<br>なっ、なんだあの鎧男は！,咿……<br>什，什么啊那个铠甲男！
+7,観光客２,ここはリゾート地だぞ……<br>なんであんなに物々しい<br>恰好なんだ？,这儿可是旅游胜地啊……<br>干嘛穿得那么戒备森严？
+8,碧,おいおい……<br>ジークフリートのやつ、<br>また怖がられてるぜ。,喂喂……<br>齐格飞那家伙，<br>又吓到别人了啊。
+9,露莉亚,はい……<br>何か問題に巻き込まれないと<br>良いんですが。,是的……<br>希望他别被卷进什么麻烦事才好。
+10,,<span class='scene-font-katari'>観光客の反応を聞いた姬塔達は</span><br><span class='scene-font-katari'>ジークフリートを心配して声をかける。</span>,<span class='scene-font-katari'>听到了观光客的反应后，</span><br><span class='scene-font-katari'>姬塔他们因为担心齐格飞，去和他打了声招呼。</span>
+11,齐格飞,ん……？<br>どうした姬塔達。,嗯……？<br>怎么了姬塔。
+12,碧,なぁなぁ……せっかくバカンスに<br>来たんだしよ、ジークフリートも<br>もっとこう、リラックスしたらどうだ？,呐呐……难得能来度假，<br>齐格飞也稍微放松一点怎么样？
+13,齐格飞,リラックス、か……だがいつ外敵が<br>現れるかわからん状況だからな。,放松，吗……但是也说不准<br>外敌什么时候就出现了。
+14,露莉亚,あの……でも……<br>その鎧は暑くないんですか？,那个……但是……<br>穿那件铠甲不会很热吗？
+15,齐格飞,ふっ……この程度の暑さ、<br>俺にとってはどうということはない。,哼……这点程度、<br>对我来说不算什么。
+16,齐格飞,む……？　姬塔まで<br>そんな顔をしてどうした？,嗯……？　怎么连姬塔也一副这样的表情？
+17,,<span class='scene-font-katari'>姬塔は、観光客が</span><br><span class='scene-font-katari'>その姿を不審がっていたことを</span><br><span class='scene-font-katari'>ジークフリートに伝える。</span>,<span class='scene-font-katari'>姬塔告诉齐格飞</span><br><span class='scene-font-katari'>观光客们觉得他这幅样子非常可疑。</span>
+18,齐格飞,ふむ……一般人を<br>怯えさせてしまっていたとは……,嗯……没想到居然吓到了一般民众……
+19,齐格飞,ううむ……それは本意ではない。<br>とはいえどうしたものか……,嗯……这并非我的本意。<br>话虽如此，应该怎么办呢……
+20,,<span class='scene-font-katari'>姬塔はジークフリートの</span><br><span class='scene-font-katari'>夏に相応しい衣装を共に探すことを</span><br><span class='scene-font-katari'>提案する。</span>,<span class='scene-font-katari'>姬塔提案，和齐格飞一起去找适合夏天穿的衣服。</span>
+21,齐格飞,そうか……それは助かる。<br>よろしく頼む、姬塔。,是吗……那真是帮了大忙了。<br>拜托你了，姬塔。
+22,,<span class='scene-font-katari'>こうして姬塔達は</span><br><span class='scene-font-katari'>ジークフリートの衣装を探しに</span><br><span class='scene-font-katari'>買い物に出かけるのだった。</span>,<span class='scene-font-katari'>就这样姬塔他们为了给齐格飞找衣服，动身前去购物</span>
+28,,<span class='scene-font-katari'>海辺に並ぶ土産物屋を訪れた</span><br><span class='scene-font-katari'>姬塔達とジークフリート。</span>,<span class='scene-font-katari'>姬塔他们和齐格飞一起</span><br><span class='scene-font-katari'>来到了沿海的纪念品店。</span>
+29,碧,なぁなぁ！<br>意外とこういう派手な柄パンツなんか<br>似合うんじゃねぇか？,呐呐！<br>这种花纹很夸张的短裤会不会<br>意外地很适合啊？
+30,齐格飞,ふむ……がらぱんつ……か。<br>涼しげでいいんじゃないか？,嗯……花纹短裤……吗。<br>看着很凉快，挺好的不是吗？
+31,碧,う～ん……<br>でもジークフリートには<br>サイズが厳しそうかぁ～？,呃……<br>但是对于齐格飞来说<br>这个尺寸不太行吧~？
+32,齐格飞,確かに……<br>丁度いいサイズを探すというのも<br>なかなか難しいんだな。,确实……<br>要找完全合身的尺寸也相当困难啊。
+33,露莉亚,あっ！　これなんかどうですか？<br>このワンちゃん柄のシャツ！,啊！那这种怎么样？<br>这个印着小狗花纹的衬衫！
+34,齐格飞,ワンちゃん……<br>犬は好きだぞ。,小狗……<br>我很喜欢狗哦。
+35,露莉亚,んー……<br>やっぱりジークフリートさんには、<br>ちょっとかわいらしすぎますかね？,嗯ー……<br>果然这个对于齐格飞先生来说，<br>还是有点太可爱了吧？
+36,齐格飞,……そういうものか。<br>奥深いんだな。,……是这样啊。<br>真是深奥呢。
+37,,<span class='scene-font-katari'>それぞれがジークフリートに</span><br><span class='scene-font-katari'>似合いそうな衣装を探しているが、</span><br><span class='scene-font-katari'>相応しい一着が見つからずに難航する。</span>,<span class='scene-font-katari'>虽然大家都在寻找可能适合</span><br><span class='scene-font-katari'>但是真正合适的一件都没有找到，</span><br><span class='scene-font-katari'>陷入僵局。</span>
+42,,<span class='scene-font-katari'>姬塔とビィ、ルリアは</span><br><span class='scene-font-katari'>それぞれ衣装選びに熱中しているうちに</span><br><span class='scene-font-katari'>半刻が経っていた。</span>,<span class='scene-font-katari'>姬塔和碧，露莉亚，</span><br><span class='scene-font-katari'>因为太过专注于挑选衣服</span><br><span class='scene-font-katari'>没注意到已经过去了半个小时。</span>
+43,碧,……あれ？<br>ジークフリートのヤツ<br>どこにいったんだ？,……啊咧？<br>齐格飞那家伙去哪里了？
+44,露莉亚,そういえば……<br>いつの間にかいなくなっちゃいました。,说起来……<br>不知道什么时候就不见了。
+45,碧,おいおい……<br>まさか迷子になってねぇだろうな？,喂喂……<br>ま该不会是迷路了吧？
+46,,<span class='scene-font-katari'>ジークフリートの名前を</span><br><span class='scene-font-katari'>呼ぶ姬塔達。</span>,<span class='scene-font-katari'>姬塔他们开始呼唤齐格飞的名字。</span><br><span class='scene-font-katari'> </span>
+48,齐格飞,姬塔、<br>俺はここにいるぞ。,姬塔，<br>我在这里。
+49,,<span class='scene-font-katari'>何かを手にしたジークフリートが</span><br><span class='scene-font-katari'>姬塔達の前に姿を現す。</span>,<span class='scene-font-katari'>齐格飞的手里好像拿着什么，</span><br><span class='scene-font-katari'>出现在了姬塔一行人面前。</span>
+50,齐格飞,向こうで店員に<br>現品限りの特価品とやらを<br>渡されてな。,那边的店员给我的，<br>現说是清仓大甩卖的特价品。
+51,齐格飞,この、ぶーめらんぱんつと<br>にじいろのふんどし──,这个、紧身短泳裤和<br>彩色兜裆布──
+52,齐格飞,姬塔は<br>どちらが俺に相応しいと思う？,姬塔觉得<br>姬塔觉得哪个比较适合我？
+53,,<span class='scene-font-katari'>際どい衣装を両手に</span><br><span class='scene-font-katari'>満面の笑みで問いかける</span><br><span class='scene-font-katari'>ジークフリート。</span>,<span class='scene-font-katari'>齐格飞手拿两件很危险的衣物，</span><br><span class='scene-font-katari'>笑容满面地问道</span><br><span class='scene-font-katari'> </span>
+53-sel1_txt,,<span class='scene-font-katari'>……ぱんつ？</span>,<span class='scene-font-katari'>……短泳裤？</span>
+53-sel2_txt,,<span class='scene-font-katari'>ふ……ふんどし？</span>,<span class='scene-font-katari'>兜……兜裆布？</span>
+54,齐格飞,ふっ……わかった。<br>ではそこの試着室で<br>これを着てみよう。,嗯……我知道了。<br>那么我马上去试衣间试试看。
+55,,<span class='scene-font-katari'>そう言い残して</span><br><span class='scene-font-katari'>試着室に消える</span><br><span class='scene-font-katari'>ジークフリート。</span>,<span class='scene-font-katari'>这样说着，</span><br><span class='scene-font-katari'>齐格飞走进了试衣间。</span><br><span class='scene-font-katari'> </span>
+60,,<span class='scene-font-katari'>しばらくして、</span><br><span class='scene-font-katari'>試着室の中から声がする。</span>,<span class='scene-font-katari'>过了一会儿，</span><br><span class='scene-font-katari'>试衣间里传出声音。</span>
+61,齐格飞,どうだ？,怎么样？
+62,露莉亚,はい！<br>なんだかキリッとしていて<br>カッコいいと思います！,是！<br>感觉十分贴身<br>我觉得非常帅！
+63,碧,ああ！　確かにキリッとしてる──,啊啊！　确实是很贴身——
+64,碧,のかぁ……？　<br>確かに男らしい感じはするけどよ……,吗……？　<br>感觉很有男人味倒是真的……
+65,齐格飞,ふむ……<br>ではこれにするか。,嗯……<br>那就这一件吧。
+66,齐格飞,ああ……この布地から<br>何か作り手の魂の<br>様な物を感じる。,啊啊……从这个布料中可以感受到<br>能感觉到某种和匠人精神一样的东西。
+67,,<span class='scene-font-katari'>そう言い残して</span><br><span class='scene-font-katari'>試着室に消える</span><br><span class='scene-font-katari'>ジークフリート。</span>,<span class='scene-font-katari'>这样说着，</span><br><span class='scene-font-katari'>齐格飞走进了试衣间。</span><br><span class='scene-font-katari'> </span>
+72,,<span class='scene-font-katari'>しばらくして、</span><br><span class='scene-font-katari'>試着室の中から声がする。</span>,<span class='scene-font-katari'>过了一会儿，</span><br><span class='scene-font-katari'>试衣间里传出声音。</span>
+73,齐格飞,できたぞ？<br>どうだ。,穿好了？<br>怎么样。
+74,露莉亚,なんだかビシッとしていて<br>自由な感じがします！,感觉很贴身<br>有种自由的感觉！
+75,碧,そうだな！　何者にもとらわれない<br>自由への強い渇望が──,是啊！　不会被任何人所阻碍<br>对自由的强烈渴望──
+76,碧,ってオイラは何を言ってんだ……？,喂你说什么呢……？
+77,齐格飞,ふっ……<br>ではこれで決まりだな。,嗯……<br>那就这一件吧。
+82,,<span class='scene-font-katari'>ジークフリートが</span><br><span class='scene-font-katari'>商品を手にお会計を</span><br><span class='scene-font-katari'>しようとしていると──</span>,<span class='scene-font-katari'>正当齐格飞拿着商品</span><br><span class='scene-font-katari'>准备买单的时候</span><br><span class='scene-font-katari'> </span>
+85,仁,ん……？<br>これは姬塔殿達ではないか！<br>こんなところでいったい何を？,嗯……？<br>这不是姬塔阁下一行吗！<br>在这里做什么呢？
+86,,<span class='scene-font-katari'>姬塔達はジークフリートに</span><br><span class='scene-font-katari'>相応しい衣装を探していたことを</span><br><span class='scene-font-katari'>ジンに打ち明ける。</span>,<span class='scene-font-katari'>姬塔告诉仁</span><br><span class='scene-font-katari'>他们正在找适合齐格飞的衣服。</span><br><span class='scene-font-katari'> </span>
+87,仁,ふむ……大体の事情は相分かった。<br>であれば、某がジークフリート殿に<br>相応しい店を紹介しよう。,嗯……我知道了。<br>既然如此，那就由在下介绍一家<br>适合齐格飞阁下的店铺吧。
+88,碧,おお！　本当か！<br>そりゃ助かるぜ！,哦哦！真的吗！<br>真是帮大忙了！
+89,仁,さぁさぁ、善は急げだ！<br>某の後について来てくれ！,好了好了，好事不宜迟！<br>快随在下来！
+90,齐格飞,ああ、わかった。,啊啊，我知道了。
+91,,<span class='scene-font-katari'>姬塔一行は</span><br><span class='scene-font-katari'>商品をお店に戻して</span><br><span class='scene-font-katari'>土産物屋を後にする。</span>,<span class='scene-font-katari'>姬塔一行人</span><br><span class='scene-font-katari'>把商品还给了店员</span><br><span class='scene-font-katari'>离开了纪念品店。</span>
+96,碧,結局さっきの店では<br>見つからなかったなぁ……,结果在刚刚的店里<br>还是没能找到啊……
+97,露莉亚,でも、ジークフリートさんは、<br>何だか楽しそうですね？,但是，齐格飞先生好像挺高兴的呢？
+98,齐格飞,ああ……普段このように衣装を<br>真剣に選ぶことも無いからな。,啊啊……毕竟平常也没有能像这样<br>认真挑选衣物的机会啊。
+99,齐格飞,これはこれで<br>とても有意義な時間だった。,这也算是<br>度过了一段很有意义的时光了。
+100,,<span class='scene-font-katari'>姬塔達はジンに案内されて</span><br><span class='scene-font-katari'>とある店を訪れるのだった。</span>,<span class='scene-font-katari'>姬塔他们在仁的带领下</span><br><span class='scene-font-katari'>来到了某家店铺。</span>
+105,齐格飞,ジン殿、この店は？,仁阁下，这家店是？
+106,仁,ここはユカタヴィラの<br>専門店だ。,这里是浴衣专卖店。
+107,露莉亚,ユカタヴィラ？<br>ってなんですか？,浴衣？那是什么？
+108,仁,良くぞ聞いてくれた。<br>ユカタヴィラは某の故郷に伝わる<br>夏に着る略装の事だ。,问得好。<br>浴衣是在下的故乡那里<br>一种传统的夏日便服。
+109,仁,絹を織って作られていて<br>肌触りと通気性がよく、<br>夏を過ごすにはもってこいでな。,由丝绸编制而成，<br>手感和透气性能都很好，<br>对于夏天来说再适合不过了。
+110,仁,風流な見た目からも<br>ジークフリート殿に<br>似合うと思うぞ。,外观也十分风雅，<br>我认为很符合齐格飞阁下的形象哦。
+111,齐格飞,そんな物があるとは……<br>ジン殿の心遣いに感謝する。,竟然还有这种服饰……<br>我对仁阁下的这份用心感激不尽。
+112,仁,いやいや、気にしないでくれ！<br>さぁ、ジークフリート殿に相応しい<br>一着を見つけようではないか！,没有没有，请别在意！<br>来，快点为齐格飞阁下挑选一件<br>合适的吧！
+113,碧・露莉亚,<span class='scene-font-4'>おーっ！</span>,<span class='scene-font-4'>哦——！</span>
+114,,<span class='scene-font-katari'>こうして姬塔達は、</span><br><span class='scene-font-katari'>ジークフリートの至高の一着を</span><br><span class='scene-font-katari'>協力して探し始めるのであった。</span>,<span class='scene-font-katari'>就这样姬塔他们，</span><br><span class='scene-font-katari'>开始为寻找齐格飞的专属浴衣</span><br><span class='scene-font-katari'>忙碌起来。</span>
+119,,<span class='scene-font-katari'>柄や素材を吟味しつつ</span><br><span class='scene-font-katari'>ユカタヴィラに相応しい小物も</span><br><span class='scene-font-katari'>選ぼうと店内を駆け回る一行。</span>,<span class='scene-font-katari'>一行人一边斟酌花纹和材质</span><br><span class='scene-font-katari'>一边在店里来回寻找</span><br><span class='scene-font-katari'>适合浴衣的小装饰品。</span>
+120,碧,おっ！<br>この柄なんかどうだ？<br>似合いそうだぜ！,哦！<br>这个花纹的怎么样！<br>感觉很合适！
+121,露莉亚,はい！<br>それにこの生地なら<br>涼しそうです！,是的！<br>而且这个布料质地<br>也感觉很凉爽！
+122,仁,ああ！<br>いよいよ候補が絞られてきたな！,啊啊！<br>终于决定候选了！
+123,齐格飞,ふっ……<br>次はどれを着ればいいんだ？,嗯……<br>接下来要穿哪一件好呢？
+124,,<span class='scene-font-katari'>試着室を何度出入りしたか分からないが、</span><br><span class='scene-font-katari'>その間もジークフリートは</span><br><span class='scene-font-katari'>不思議と楽しそうな表情を浮かべていた。</span>,<span class='scene-font-katari'>虽然已经不知道进出了试衣间多少次，</span><br><span class='scene-font-katari'>齐格飞的脸上始终不可思议地</span><br><span class='scene-font-katari'>流露出很快乐的表情。</span>
+129,,<span class='scene-font-katari'>そうして選び出した奇跡の一着を</span><br><span class='scene-font-katari'>身にまとったジークフリートが、</span><br><span class='scene-font-katari'>终于要现身之时——</span>,<span class='scene-font-katari'>经过一番精挑细选，</span><br><span class='scene-font-katari'>身当身着那奇迹一般浴衣的齐格飞，</span><br><span class='scene-font-katari'>いよいよ姿を現す時が来た──</span>
+130,碧,へへっ！<br>ようやくこのユカタヴィラで<br>決まりそうだな！,嘿嘿！<br>看样子终于能做最终决定了呢！
+131,露莉亚,はい！　私も今までで<br>一番似合ってる気がします！,是的！我也觉得<br>这是一直以来最适合的一件！
+132,仁,某も、これ以上のものは無いと<br>自信を持って試着室に入ってもらった。,在下也是，可以自信地说这是<br>一件不二之选，才让他去试穿的。
+133,,<span class='scene-font-katari'>姬塔も期待しながら</span><br><span class='scene-font-katari'>ジークフリートの登場を</span><br><span class='scene-font-katari'>今か今かと待っていた。</span>,<span class='scene-font-katari'>姬塔也一边期待着</span><br><span class='scene-font-katari'>一边兴致勃勃地等待着</span><br><span class='scene-font-katari'>齐格飞的登场。</span>
+134,,<span class='scene-font-katari'>その時、ジークフリートの</span><br><span class='scene-font-katari'>入った試着室がゴソゴソと</span><br><span class='scene-font-katari'>動きを見せるのだった。</span>,<span class='scene-font-katari'就在这时，齐格飞正在使用的试衣间</span><br><span class='scene-font-katari'>传出了嘎吱嘎吱的响声。</span>
+135,碧,とうとう終わったみたいだぜ！,看样子是穿好了呢！
+136,露莉亚,あそこはジークフリートさんの<br>入った試着室です！,那间是齐格飞先生用的试衣间！
+137,仁,さぁ……どうだ？,来吧……怎么样？
+145,齐格飞,待たせたな。,久等了。
+146,碧,おぉ……,哦哦……
+147,露莉亚,わぁ……,哇啊……
+148,仁,あぁ……,啊啊……
+153,齐格飞,ふむ……<br>これなら帯剣もできるので<br>ちょうどいいな。,嗯……<br>这样的话也能佩剑<br>正好合适。
+154,齐格飞,どうだ姬塔。<br>似合っているか？,怎么样姬塔。<br>合适吗？
+154-sel1_txt,,<span class='scene-font-katari'>すごく似合ってるよ！</span>,<span class='scene-font-katari'>特别特别合适！！</span>
+155,碧,バッチリじゃねぇか！<br>なんか様になり過ぎて<br>驚いちまったぜ！,也太好看了吧！<br>简直就是给你量身定制的<br>吓了我一跳！
+156,露莉亚,はいっ！<br>すごく良く似合ってます！<br>とってもカッコいいです！,是的！<br>真的非常非常适合您！<br>真是帅极了！
+157,仁,某の目に狂いはなかったな！<br>これなら協力した甲斐が<br>あったというものだ！,看来在下的眼光没错！<br>能这样帮上你们也值了！
+158,齐格飞,ふっ……<br>そこまで称賛されたら<br>さすがに照れるな。,呵……<br>被称赞到这份上<br>还是有点让人害羞啊。
+159,齐格飞,ありがとう姬塔、<br>みんな。,谢谢你们，姬塔，<br>各位。
+160,,<span class='scene-font-katari'>その時、ジークフリートと</span><br><span class='scene-font-katari'>姬塔達の間を</span><br><span class='scene-font-katari'>そっと風が流れて行く。</span>,<span class='scene-font-katari'>那时，在齐格飞与姬塔他们之间</span><br><span class='scene-font-katari'>阵阵微风静静吹过，流动。</span>
+161,,<span class='scene-font-katari'>頬を撫でる涼やかな風は、</span><br><span class='scene-font-katari'>夏の夕暮れ時の訪れを</span><br><span class='scene-font-katari'>静かに感じさせるのだった。</span>,<span class='scene-font-katari'>那轻抚着脸颊的凉爽微风，</span><br><span class='scene-font-katari'>让人沉浸在</span><br><span class='scene-font-katari'>夏日夕阳来时的静谧之中。</span>
+info,,,scene_fate_chr397_ep1
