@@ -13,6 +13,8 @@ const config = {
   displayName: '',
   defaultName: '姬塔',
   defaultEnName: 'Djeeta',
+  font: '',
+  fontBold: false,
   transApi: 'caiyun',
   timeout: 8,
   autoDownload: false,
@@ -36,7 +38,7 @@ const getLocalConfig = () => {
   }
   const keys = [
     'autoDownload', 'bottomToolbar', 'displayName', 'removeScroller', 'hideSidebar',
-    'transJa', 'transEn', 'keepBgm', 'transApi'
+    'transJa', 'transEn', 'keepBgm', 'transApi', 'font', 'fontBold'
   ]
   keys.forEach(key => {
     let value = setting[key]

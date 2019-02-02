@@ -4,6 +4,7 @@ import './removeScroller'
 import './hideSidebar'
 import './keepBgm'
 import './settingBtnText'
+import './scenarioFont'
 import debounce from 'lodash/debounce'
 import isPlainObject from 'lodash/isPlainObject'
 import config from '../config'
@@ -34,7 +35,9 @@ const keyMap = new Map([
   ['trans-ja', 'transJa'],
   ['trans-en', 'transEn'],
   ['keep-bgm', 'keepBgm'],
-  ['trans-api', 'transApi']
+  ['trans-api', 'transApi'],
+  ['font', 'font'],
+  ['font-bold', 'fontBold']
 ])
 
 const setting = (type, value) => {

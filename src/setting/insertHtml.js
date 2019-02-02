@@ -69,9 +69,18 @@ const template = `
 			<div class="prt-setting-article">
 				<div class="txt-article-title">机翻设置</div>
 				<ul class="txt-article-lead">
-					<li>仅在脚本通过油猴插件加载时有效</li>
+					<li>在一些使用场景下，可能不会生效</li>
 				</ul>
 				<div class="prt-button">
+					<div class="prt-select-box" style="margin:0 6px 0 0">
+						<div style="width:103px" id="trans-api-setting-blhxfy-pulldown" class="prt-list-pulldown btn-sort">
+							<div id="trans-api-setting-blhxfy-txt" class="txt-selected">彩云小译</div>
+							<select id="trans-api-setting-blhxfy" class="frm-list-select" onchange="window.blhxfy.sendEvent('setting', 'trans-api', this.value)">
+								<option value="caiyun" selected="">彩云小译</option>
+								<option value="google">Google翻译</option>
+							</select>
+						</div>
+					</div>
 					<div>
 						<input id="trans-ja-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'trans-ja', this.checked)" type="checkbox" value="">
 						<label for="trans-ja-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">日语机翻</label>
@@ -81,18 +90,25 @@ const template = `
 						<label for="trans-en-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">英语机翻</label>
 					</div>
 				</div>
+			</div>
+
+			<div class="prt-setting-article">
+				<div class="txt-article-title">字体设置</div>
+				<ul class="txt-article-lead">
+					<li>剧情文本使用的字体。</li>
+				</ul>
 				<div class="prt-button">
-					<div class="prt-select-box">
-						<div id="trans-api-setting-blhxfy-pulldown" class="prt-list-pulldown btn-sort">
-							<div id="trans-api-setting-blhxfy-txt" class="txt-selected">彩云小译</div>
-							<select id="trans-api-setting-blhxfy" class="frm-list-select" onchange="window.blhxfy.sendEvent('setting', 'trans-api', this.value)">
-								<option value="caiyun" selected="">彩云小译</option>
-								<option value="google">Google翻译</option>
-							</select>
-						</div>
+					<input style="width:180px;margin-right:10px" id="font-setting-blhxfy" oninput="window.blhxfy.sendEvent('setting', 'font', this.value)" type="text" value="" placeholder="请输入字体">
+					<div>
+						<input id="font-bold-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'font-bold', this.checked)" type="checkbox" value="">
+						<label style="top:2px" for="font-bold-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">加粗</label>
 					</div>
 				</div>
 			</div>
+
+			<div class="txt-setting-lead">
+        ※格式同CSS的font-family，默认使用微软正黑体。填 none 则不修改字体，显示游戏默认字体效果。
+      </div>
 
       <div class="prt-setting-article">
 				<div class="txt-article-title">剧情CSV文件快捷下载</div>
