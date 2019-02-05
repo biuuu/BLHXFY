@@ -1,6 +1,6 @@
 id,name,text,trans
 0-chapter_name,,第1話 光,第1話 光
-0-synopsis,,災厄の噂を聞き、その原因と解決方法を探るため、各地に散って調査する事になった一行。 姬塔、ビィ、ルリア、カタリナは叡智の殿堂で関連書物を読み漁っていた。司書のア姬塔ャと民俗学者のヨハンの協力も得て、姬塔達は浮力と『四大元素』の関係について知るのだった。,听到了关于灾难的传闻，为了探寻原因和寻找解决方法，一行人分散至各地开始调查。 姬塔、碧、露莉亚、卡塔莉娜前往睿智的殿堂翻阅相关的书籍。在管理员阿露夏和民俗学者约翰的帮助下，了解到了浮力与『四大元素』的关系。
+0-synopsis,,災厄の噂を聞き、その原因と解決方法を探るため、各地に散って調査する事になった一行。 姬塔、ビィ、ルリア、カタリナは叡智の殿堂で関連書物を読み漁っていた。司書のア姬塔ャと民俗学者のヨハンの協力も得て、姬塔達は浮力と『四大元素』の関係について知るのだった。,听到了关于灾厄的传闻，为了探寻原因和寻找解决方法，一行人分散至各地开始调查。 姬塔、碧、露莉亚、卡塔莉娜前往睿智的殿堂翻阅相关的书籍。在管理员阿露夏和民俗学者约翰的帮助下，了解到了浮力与『四大元素』的关系。
 1,,<span class='scene-font-katari'>大図書館、叡智の殿堂。</span><br><span class='scene-font-katari'>そこに姬塔達の姿があり、</span><br><span class='scene-font-katari'>難しい顔で書物を読み込んでいた。</span>,<span class='scene-font-katari'>大图书馆，睿智的殿堂。<br>那里有着姬塔一行人满面为<br>难读着书物的身影。<span class='scene-font-katari'>
 2,ビィ/碧,う～ん？<br>浮力とは島に含まれる物質と、<br>大気中の物質による生成物で……,嗯？浮力是由蕴含在岛上的物质，<br>和大气中的物质所形成……
 3,ルリア/露莉亚,え～っと？<br>星晶獣とは兵器でありつつも、<br>議論の余地を残す機能もあり……,那个~星晶兽不仅是兵器，<br>还有其他值得探讨的功能……
@@ -11,14 +11,14 @@ id,name,text,trans
 10,カタリナ/卡塔莉娜,大丈夫か、ふたりとも？<br>無理をせず読み進めればいいんだ。,你们两个没事吧？<br>不用勉强自己读下去的。
 11,ビィ/碧,でもよぉ、つい焦っちまうぜ。<br>団員達も各地で調査してるしよ……,但是啊，我忍不住着急。<br>团员们都在各地调查……
 12,ルリア/露莉亚,そうですね……<br>それに、この星晶獣の気配……<br>私もちゃんと役に立たないと！,是啊……<br>而且，这个星晶兽的气息……<br>我也必须帮上忙才行！
-13,,<span class='scene-font-katari'>災厄の噂を知った一行は、</span><br><span class='scene-font-katari'>その解決方法を探るため、</span><br><span class='scene-font-katari'>まずは原因を調査する事になった。</span>,<span class='scene-font-katari'>听到关于灾难的传闻一行人，<br>为寻找解决办法首先调查其原因。</span>
-14,,<span class='scene-font-katari'>ラカム達は</span><span class='scene-font-place'>ポート・ブリーズ</span><span class='scene-font-katari'>に、</span><br><span class='scene-font-katari'>イオ達は</span><span class='scene-font-place'>フレイメル</span><span class='scene-font-katari'>に向かうなど、</span><br><span class='scene-font-katari'>各地で並行して情報を集める中……</span>,<span class='scene-font-katari'>拉卡姆他们去了<span class='scene-font-place'>珀特·布里兹</span>，<br>伊欧她们去了<span class='scene-font-place'>弗雷梅尔</span>，<br>分头行动收集线索……</span>
+13,,<span class='scene-font-katari'>災厄の噂を知った一行は、</span><br><span class='scene-font-katari'>その解決方法を探るため、</span><br><span class='scene-font-katari'>まずは原因を調査する事になった。</span>,<span class='scene-font-katari'>听到关于灾厄的传闻一行人，<br>为寻找解决办法首先调查其原因。</span>
+14,,<span class='scene-font-katari'>ラカム達は</span><span class='scene-font-place'>ポート・ブリーズ</span><span class='scene-font-katari'>に、</span><br><span class='scene-font-katari'>イオ達は</span><span class='scene-font-place'>フレイメル</span><span class='scene-font-katari'>に向かうなど、</span><br><span class='scene-font-katari'>各地で並行して情報を集める中……</span>,<span class='scene-font-katari'>拉卡姆他们去了<span class='scene-font-place'>微风港</span>，<br>伊欧她们去了<span class='scene-font-place'>弗雷梅尔</span>，<br>分头行动收集线索……</span>
 15,,<span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>全空の書物を所蔵している大図書館で、</span><br><span class='scene-font-spword'>『浮力と星晶獣』</span><span class='scene-font-katari'>の関係を探っている。</span>,<span class='scene-font-katari'>姬塔一行则在收藏了全空书物的大图书馆<br>内查询『浮力与星晶兽』的关系。</span>
 16,カタリナ/卡塔莉娜,星晶獣の気配か……<br>やはり今も感じ取っているのか？,星晶兽的气息吗……<br>现在也能感觉到吗？
 17,ルリア/露莉亚,うん、もうずっとだよ。<br>どこにいても薄い静かな気配があるの。,嗯，一直都在。<br>无论到哪里都能感到淡淡的气息。
 18,ビィ/碧,でも、やっぱり変だよなぁ。<br>気配はするのに星晶獣はいねぇってよ。,不过很奇怪啊。<br>能感觉到气息却见不到星晶兽。
 19,カタリナ/卡塔莉娜,だがルリアの感知は、<br>一見してわからない場合であっても、<br>いつもなんらかの形で当たっている。,但是露莉亚的感知，<br>就算起初有些莫名，<br>但总是会用各种形式灵验。
-20,カタリナ/卡塔莉娜,災厄と同時期に発生した謎の気配……<br>きっと何か重要な糸口になるはずさ。,和灾难同时出现的谜之气息……<br>肯定是什么关键的线索。
+20,カタリナ/卡塔莉娜,災厄と同時期に発生した謎の気配……<br>きっと何か重要な糸口になるはずさ。,和灾厄同时出现的谜之气息……<br>肯定是什么关键的线索。
 23,ア姬塔ャ,皆さーん！<br>他の本も持って来ましたよ……っと！,各位——！<br>我把其他书也拿过来了……哎！
 25,ルリア/露莉亚,ア姬塔ャさん！<br>すみません、ありがとうございます。,阿露夏！<br>麻烦你了，谢谢。
 26,ビィ/碧,うひゃあ……！<br>助かるけど、あと何冊あるんだよ……,呜哇……！<br>虽然帮上大忙了，<br>但究竟还有几本啊……
@@ -31,7 +31,7 @@ id,name,text,trans
 35,ヨハン,そうか、なるほど……！<br>なかなか一理ある学説だぞ！,这样啊，原来如此……！<br>这个学说相当有道理！
 36,ルリア/露莉亚,ヨ、ヨハンさん？<br>何か情報が見つかったんですか？,约，约翰？<br>你发现了什么情报吗？
 37,ヨハン,ここの頁です！<br><span class='scene-font-spword'>星の民</span>の遺跡と瘴流域の位置に関して、<br>ある法則性が考察されているんですよ！,看这页！关于<span class='scene-font-spword'>星之民</span>的遗迹<br>和瘴流域的位置，<br>有考察到某些规律！
-38,ビィ/碧,ふ～ん？<br>で、災厄となんの関係があるんだ？,唔？<br>那么和灾难有什么关系吗？
+38,ビィ/碧,ふ～ん？<br>で、災厄となんの関係があるんだ？,唔？<br>那么和灾厄有什么关系吗？
 39,ヨハン,<span class='scene-font-4'>関係ありません！</span><br>ああ、さすが叡智の殿堂です……！,<span class='scene-font-4'>没有关系！</span><br>啊啊，不愧是睿智的殿堂……！
 42,,<span class='scene-font-katari'>好奇心旺盛なヨハン。</span><br><span class='scene-font-spword'>星の民</span><span class='scene-font-katari'>の知識などが豊富なため、</span><br><span class='scene-font-katari'>今回同行して貰う事になったが……</span>,<span class='scene-font-katari'>好奇心旺盛的约翰。</span><br><span class='scene-font-spword'>星之民</span><span class='scene-font-katari'>相关的知识非常丰富，</span><br><span class='scene-font-katari'>因此这次也一起同行……</span>
 43,,<span class='scene-font-katari'>旅する民俗学者ヨハン。</span><br><span class='scene-font-spword'>星の民</span><span class='scene-font-katari'>の秘密などを求めて、</span><br><span class='scene-font-katari'>古代遺跡を巡る青年である。</span>,<span class='scene-font-katari'>旅途中的民俗学者约翰。<br>是为寻求关于<span class='scene-font-spword'>星之民</span>等知识，<br>遍寻古代遗迹的青年。</span>
@@ -42,7 +42,7 @@ id,name,text,trans
 48,ルリア/露莉亚,よんだい……？,四大……？
 49,ビィ/碧,ふきんこう……？,不均衡……？
 50,ヨハン,ああ、では進捗も兼ねて説明を。<br>まあ僕も専門ではないんですけどね。,啊啊，那我说明并总结一下。<br>虽然这不是我的专长。
-51,ヨハン,まず、この災厄の原因は浮力の消失。<br>浮力とは、島を浮かせる力の事です。,首先，这次灾难的原因是浮力的消失。<br>浮力是指让岛屿漂浮的力量。
+51,ヨハン,まず、この災厄の原因は浮力の消失。<br>浮力とは、島を浮かせる力の事です。,首先，这次灾厄的原因是浮力的消失。<br>浮力是指让岛屿漂浮的力量。
 52,ヨハン,どのように浮かせているかというと、<br>仮説では等分に配列した四大元素が、<br>競合と調和を同時に成す事で均衡を……,要说为什么能浮起来，<br>举例说就是是等分配比的四大元素，<br>在竞争和调和的同时保持均衡……
 53,ルリア/露莉亚,ふむふむ……？<br>げんきのとうぶんがきんこう……？,唔唔……？<br>元气的等分和均衡……？
 54,ア姬塔ャ,あ、えっと、元素ですね。<br>目に見えないほど微小な物質の事です。,啊，那个，是元素。<br>是一种肉眼不可见的微小物质。

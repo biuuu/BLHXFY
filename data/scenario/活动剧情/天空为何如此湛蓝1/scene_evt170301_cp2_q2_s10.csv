@@ -1,7 +1,7 @@
 id,name,text,trans
 0-chapter_name,,第2話 空,第2話 空
-0-synopsis,,ポート・ブリーズの街では、ラカムが悪党に「賞金首」として追われていた。リチャードとテレーズの助太刀によって危機を脱するが、そこでラカムは、デマに惑わされた富豪がグランサイファーの騎空団に賞金を懸けた事を知る。いてもたってもいられない心地になったラカムは、姬塔達と合流するため走り出す。,在珀特·布里兹的街道中，拉卡姆正被恶党们当做「通缉犯」追赶。得到理查德的帮忙而脱离危机，拉卡姆得知有富豪被谣言蛊惑而悬赏捉拿格兰赛法的骑空团，坐立不安的他为与姬塔一行汇合而跑了出去。
-1,,<span class='scene-font-katari'>姬塔達が不時着した頃、</span><br><span class='scene-font-place'>ポート・ブリーズ</span><span class='scene-font-katari'>の市街地では……</span>,<span class='scene-font-katari'>在姬塔一行紧急降落时，</span><br><span class='scene-font-place'>珀特·布里兹</span><span class='scene-font-katari'>的街道上……</span>
+0-synopsis,,ポート・ブリーズの街では、ラカムが悪党に「賞金首」として追われていた。リチャードとテレーズの助太刀によって危機を脱するが、そこでラカムは、デマに惑わされた富豪がグランサイファーの騎空団に賞金を懸けた事を知る。いてもたってもいられない心地になったラカムは、姬塔達と合流するため走り出す。,在微风港的街道中，拉卡姆正被恶党们当做「通缉犯」追赶。得到理查德的帮忙而脱离危机，拉卡姆得知有富豪被谣言蛊惑而悬赏捉拿格兰赛法的骑空团，坐立不安的他为与姬塔一行汇合而跑了出去。
+1,,<span class='scene-font-katari'>姬塔達が不時着した頃、</span><br><span class='scene-font-place'>ポート・ブリーズ</span><span class='scene-font-katari'>の市街地では……</span>,<span class='scene-font-katari'>在姬塔一行紧急降落时，</span><br><span class='scene-font-place'>微风港</span><span class='scene-font-katari'>的街道上……</span>
 4,ラカム/拉卡姆,ああ、クソッ……！<br>１億ルピってなんだよ！？,啊啊，可恶……！<br>1亿卢比是怎么回事啊！？
 8,悪党１,いたぞ、賞金首だ！<br>逃がすなよ、回り込め！,找到了，是通缉犯！<br>别让他跑了，包抄！
 10,悪党２,この、ちょこまかと……！<br>面倒クセェ、オラオラオラ！,这混蛋，这么急急忙忙的……！<br>真麻烦，欧拉欧拉欧拉！
@@ -25,9 +25,9 @@ id,name,text,trans
 40,リチャード,屋根の上さ。<br>手間賃は１万ルピでいいぞ。,房顶上。<br>工钱给1万卢比就可以了哦。
 41,ラカム/拉卡姆,変わんねぇヤツ……<br>で、ここは誰のヤサなんだ？,你这家伙还是没变……<br>这儿是谁的地盘？
 42,リチャード,なじみの喫茶店の店長だ。<br>ギャンブルで揉めた時に、<br>たまに避難させてもらっている。,和我很熟的咖啡馆店长的。<br>我赌钱起纠纷时偶尔会来避难。
-45,,<span class='scene-font-katari'>ニヤリと笑うリチャード。</span><br><span class='scene-font-katari'>今回ラカムの調査に同行する形で、</span><br><span class='scene-font-katari'>縁のある</span><span class='scene-font-place'>ポート・ブリーズ</span><span class='scene-font-katari'>に来ていた。</span>,<span class='scene-font-katari'>一脸笑嘻嘻的理查德。</span><br><span class='scene-font-katari'>这次与拉卡姆一起调查，</span><br><span class='scene-font-katari'>来到了</span><span class='scene-font-place'>珀特·布里兹</span><span class='scene-font-katari'>。</span>
-46,,<span class='scene-font-katari'>	天才ギャンブラーのリチャード。</span><br><span class='scene-font-katari'>以前</span><span class='scene-font-place'>ポート・ブリーズ</span><span class='scene-font-katari'>で開催された、</span><br><span class='scene-font-katari'>降焔祭で一行と知り合った男である。</span>,<span class='scene-font-katari'>	天才赌徒理查德。</span><br><span class='scene-font-katari'>以前在</span><span class='scene-font-place'>珀特·布里兹</span><span class='scene-font-katari'>开办的降焰祭中与一行人结识。</span>
-47,,<span class='scene-font-katari'>災厄の調査で訪れたラカムと再会し、</span><br><span class='scene-font-katari'>その縁で協力する事になったのだった。 <br></span>,<span class='scene-font-katari'>与回来调查灾难的拉卡姆再次见面，</span><br><span class='scene-font-katari'>因此来帮忙。 <br></span>
+45,,<span class='scene-font-katari'>ニヤリと笑うリチャード。</span><br><span class='scene-font-katari'>今回ラカムの調査に同行する形で、</span><br><span class='scene-font-katari'>縁のある</span><span class='scene-font-place'>ポート・ブリーズ</span><span class='scene-font-katari'>に来ていた。</span>,<span class='scene-font-katari'>一脸笑嘻嘻的理查德。</span><br><span class='scene-font-katari'>这次与拉卡姆一起调查，</span><br><span class='scene-font-katari'>来到了</span><span class='scene-font-place'>微风港</span><span class='scene-font-katari'>。</span>
+46,,<span class='scene-font-katari'>	天才ギャンブラーのリチャード。</span><br><span class='scene-font-katari'>以前</span><span class='scene-font-place'>ポート・ブリーズ</span><span class='scene-font-katari'>で開催された、</span><br><span class='scene-font-katari'>降焔祭で一行と知り合った男である。</span>,<span class='scene-font-katari'>	天才赌徒理查德。</span><br><span class='scene-font-katari'>以前在</span><span class='scene-font-place'>微风港</span><span class='scene-font-katari'>开办的降焰祭中与一行人结识。</span>
+47,,<span class='scene-font-katari'>災厄の調査で訪れたラカムと再会し、</span><br><span class='scene-font-katari'>その縁で協力する事になったのだった。 <br></span>,<span class='scene-font-katari'>与回来调查灾厄的拉卡姆再次见面，</span><br><span class='scene-font-katari'>因此来帮忙。 <br></span>
 48,ラカム/拉卡姆,はぁ……<br>だが、面倒な事になっちまったぜ。<br>妙なデマのせいで調査も出来ねぇ。,哈啊……<br>但可真是够麻烦的。<br>因为那奇怪的谣言都没法调查了。
 49,リチャード,まぁ所詮はチンピラ集団さ。<br>連中が飽きるか、デマが収まるか、<br>その時まで身を隠すことにしよう。,不过是一群小混混，<br>等他们放弃或者谣言消失之前先藏着吧。
 50,ラカム/拉卡姆,そんなに待てるかよ。<br>全空の一大事かもしんねぇんだぞ？,怎么可能等啊。<br>说不定这是全空最重要的事啊！
@@ -43,16 +43,16 @@ id,name,text,trans
 61,テレーズ,し、しーっ……<br>おふたりとも、おしずかに……<br>まださっきの輩が倉庫の前に……,嘘，嘘……<br>你们两个安静……<br>刚刚那些人还在仓库前面……
 62,リチャード,テテテ、テレーズさん！<br>はい、もちろんわかっていますとも！,特特特，特蕾兹！<br>好的，我明白！
 63,ラカム/拉卡姆,はぁ……<br>やっぱりな。,哈啊……<br>果然啊。
-66,,<span class='scene-font-katari'>おずおずと扉の前で佇むテレーズ。</span><br><span class='scene-font-katari'>彼女もまたラカムの調査に付き合い、</span><br><span class='scene-font-katari'>縁のある</span><span class='scene-font-place'>ポート・ブリーズ</span><span class='scene-font-katari'>に来ていた。</span>,<span class='scene-font-katari'>一脸胆怯地站在门前的特蕾兹。</span><br><span class='scene-font-katari'>她也为给拉卡姆帮忙来到</span><span class='scene-font-place'>珀特·布里兹</span><span class='scene-font-katari'>。</span>
+66,,<span class='scene-font-katari'>おずおずと扉の前で佇むテレーズ。</span><br><span class='scene-font-katari'>彼女もまたラカムの調査に付き合い、</span><br><span class='scene-font-katari'>縁のある</span><span class='scene-font-place'>ポート・ブリーズ</span><span class='scene-font-katari'>に来ていた。</span>,<span class='scene-font-katari'>一脸胆怯地站在门前的特蕾兹。</span><br><span class='scene-font-katari'>她也为给拉卡姆帮忙来到</span><span class='scene-font-place'>微风港</span><span class='scene-font-katari'>。</span>
 67,,<span class='scene-font-katari'>カジノなどの闘技場で活躍する、</span><br><span class='scene-font-katari'>人気女性デュエリストのテレーズ。</span>,<span class='scene-font-katari'>在赌场等斗技场活跃的人气</span><br><span class='scene-font-katari'>女性决斗者特蕾兹。</span>
 68,,<span class='scene-font-katari'>一行とはかつて降焔祭で知り合い、</span><br><span class='scene-font-katari'>今回ラカムに協力する事になった。</span>,<span class='scene-font-katari'>在曾经的降焰祭中与一行人结识，</span><br><span class='scene-font-katari'>这次在为拉卡姆帮忙。</span>
 69,テレーズ,え、ええと……<br>そ、その、賞金についても……<br>街の人達に話を聞いて来ました。,那，那个……<br>关，关于这个悬赏……<br>我从街上的人那里打听到了。
 70,テレーズ,なぜかグランサイファーの騎空団は、<br>全員に賞金が懸けられているようで……,不知道为什么格兰赛法的<br>骑空团全员都被悬赏了……
 71,ラカム/拉卡姆,ぜ、全員だと？<br>ずいぶんとまぁ乱暴な話だな……,全，全员？<br>这也太胡来了……
-72,テレーズ,あ、蒼い髪の少女が……<br>この災厄に関係している……,听，听说苍发的少女……<br>和这场灾难有关系……
+72,テレーズ,あ、蒼い髪の少女が……<br>この災厄に関係している……,听，听说苍发的少女……<br>和这场灾厄有关系……
 73,テレーズ,根も葉もない風説ですが……<br>星晶獣を操る力の事も噂になっていて、<br>どこかの富豪が本気にしたみたいです。,虽说是空穴来风的谣言……<br>但能操纵星晶兽的事也在流传，<br>因此不知哪儿的富豪似乎下定了决心。
 74,リチャード,なるほど……<br>節操のないブルジョワが、<br>ついでに見境も失ったか。,原来如此……<br>没节操的富豪连辨识度都没了啊。
-75,テレーズ,ひ、酷い話ですよね……<br>災厄で切迫しているんでしょうけど……,很，很过分哈……<br>虽然可能是因为灾难太紧张……
+75,テレーズ,ひ、酷い話ですよね……<br>災厄で切迫しているんでしょうけど……,很，很过分哈……<br>虽然可能是因为灾厄太紧张……
 76,リチャード,情状酌量の余地はないね。<br>落ち着いたら俺が毟り取ってやる。,根本没有酌情判断的余地啊。<br>等事件告一段落我要把他的钱都抢了。
 77,リチャード,だがまぁ、賞金騒動の原因はわかった。<br>やはり今は辛抱して時期を見計らおう。,不过，总算弄明白悬赏骚动的原因了。<br>现在果然应该耐心等待时机。
 78,ラカム/拉卡姆,…………,…………
