@@ -1,5 +1,5 @@
 id,en,jp,trans
-0-chapter_name,,第111章　境界の世界,第111章　世界
+0-chapter_name,,第111章　境界の世界,第111章　边界的世界
 0-synopsis,,グレートウォール崩壊後、イスタバイオン王国の宮殿で、真王は全空の統一を進める決意を新たにする。その傍らには、白騎士?紫の騎士?緑の騎士と共に、巫女と呼ばれる女性が佇んでいた。一方、モニカとリーシャは行方知れずとなったPlayer達の身を案じていた。ふたりはPlayer達を信じ、いま自分達に出来ることをしようと前を向くのだった。,グレートウォール崩壊後、イスタバイオン王国の宮殿で、真王は全空の統一を進める決意を新たにする。その傍らには、白騎士?紫の騎士?緑の騎士と共に、巫女と呼ばれる女性が佇んでいた。一方、モニカとリーシャは行方知れずとなったPlayer達の身を案じていた。ふたりはPlayer達を信じ、いま自分達に出来ることをしようと前を向くのだった。
 1,,<span class='scene-font-spword'>“栄光”</span><span class='scene-font-katari'>のアウライ?グランデ大空域。</span>,<span class='scene-font-spword'>“荣耀”</span><span class='scene-font-katari'>的奥莱・格兰德大空域。</span>
 2,,<span class='scene-font-katari'>この巨大な空域を牛耳る</span><br><span class='scene-font-katari'>イスタバイオン王国の宮殿では、</span><br><span class='scene-font-katari'>ひとりの男が思案にふけっていた。</span>,<span class='scene-font-katari'>在支配着这片巨大空域的</span><br><span class='scene-font-katari'>伊斯塔维恩王国的宮殿中，</span><br><span class='scene-font-katari'>一位男子沉浸在思考之中。</span>
@@ -67,4 +67,4 @@ id,en,jp,trans
 94,,<span class='scene-font-katari'>くすぶっていた不安を</span><br><span class='scene-font-katari'>確かな信頼でぬぐったリーシャは、</span><br><span class='scene-font-katari'>モニカの言葉に力強く応える。</span>,<span class='scene-font-katari'>以确切的信任</span><br><span class='scene-font-katari'>打消了涌现的不安的丽霞，</span><br><span class='scene-font-katari'>铿锵有力地回应了莫妮卡的话语。</span>
 95,,<span class='scene-font-katari'>いまの状況に歯がゆさを感じながらも、</span><br><span class='scene-font-katari'>リーシャはただ一心に、</span><br><span class='scene-font-katari'>Player達の無事を祈るのだった。</span>,<span class='scene-font-katari'>即使明白目前的状况不如人意，</span><br><span class='scene-font-katari'>丽霞也一心地，</span><br><span class='scene-font-katari'>为姬塔他们的平安祈福。</span>
 info,,1,scene_cp111_q1_s10
-,,,
+comment,,,本节翻译：菜“秒”
