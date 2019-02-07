@@ -8,6 +8,7 @@ import cloneDeep  from 'lodash/cloneDeep'
 import { getPreviewCsv, replaceWords, removeHtmlTag } from '../utils/'
 import filter from '../utils/XSSFilter'
 import transApi from '../utils/translation'
+import setFont from '../setting/scenarioFont'
 
 const txtKeys = ['chapter_name', 'synopsis', 'detail', 'sel1_txt', 'sel2_txt', 'sel3_txt', 'sel4_txt', 'sel5_txt', 'sel6_txt']
 const WORDS_LIMIT = 4500
@@ -287,6 +288,10 @@ const transStart = async (data, pathname) => {
     scenarioCache.hasTrans = true
     scenarioCache.csv = csv
     scenarioCache.transMap = transMap
+  }
+
+  if (scenarioCache.hasAutoTrans || scenarioCache.hasTrans) {
+    setFont()
   }
 
   data.forEach((item) => {

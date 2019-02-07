@@ -546,6 +546,11 @@ body .prt-scene-comment .prt-message-area {
   unicode-range: U+30A0-30FF, U+3040-309F, U+31F0-31FF, U+0020-0204;
 }
 
+@font-face {
+  font-family: 'FZShuiYJW';
+  src: url('/blhxfy/data/static/font/FZShuiYJW.TTF');
+}
+
 .prt-user-info .prt-info-profile .btn-user-name,
 .prt-user-name .txt-user-name {
   font-family: jpkana, yaheiSymbol, "Microsoft Jhenghei", "Yu Gothic", "Meiryo", sans-serif !important;

@@ -2,8 +2,8 @@ import config from '../config'
 
 const insertCSS = fontValue => {
   const style = document.createElement('style')
-  style.innerHTML = `.prt-scene-comment, .prt-log-display, .btn-select-baloon {
-    font-family: ${fontValue} !important;
+  style.innerHTML = `.prt-scene-comment, .prt-pop-synopsis, .prt-log-display, .btn-select-baloon {
+    font-family: ${fontValue}, nickname_scene, "FOT-ニューシネマA Std D", "Average Sans", sans-serif !important;
   }`
   document.head.appendChild(style)
 }
@@ -18,11 +18,11 @@ const setBold = () => {
 
 const scenarioFont = () => {
   if (!config.font) {
-    insertCSS('jpkana, yaheiSymbol, "Microsoft Jhenghei", "Yu Gothic", "Meiryo", sans-serif')
+    insertCSS('jpkana, FZShuiYJW, "Microsoft Jhenghei", "Yu Gothic", "Meiryo", sans-serif')
   } else if (config.font !== 'none') {
     insertCSS(config.font)
   }
   if (config.fontBold) setBold()
 }
 
-scenarioFont()
+export default scenarioFont
