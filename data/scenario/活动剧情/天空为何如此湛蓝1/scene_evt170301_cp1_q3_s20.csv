@@ -22,7 +22,7 @@ id,name,text,trans
 27,謎の物体,──────！,──────！
 32,,<span class='scene-font-katari'>謎の物体が放った光により、</span><br><span class='scene-font-katari'>中央の大きな柱が崩れ落ち、</span><br><span class='scene-font-katari'>仲間達を四隅に吹き飛ばした。</span>,<span class='scene-font-katari'>迷之物体放出光，</span><br><span class='scene-font-katari'>轰倒了中间的大柱子，</span><br><span class='scene-font-katari'>同伴们被吹散到了四处。</span>
 33,,<span class='scene-font-katari'>姬塔は前後不覚の中、</span><br><span class='scene-font-katari'>側に倒れていたカタリナを揺り起こす。</span>,<span class='scene-font-katari'>姬塔不省人事时被倒在一旁的</span><br><span class='scene-font-katari'>卡塔莉娜摇了起来。</span>
-34,カタリナ/卡塔莉娜,姬塔、皆は……？<br>そうか、柱の向こう側に……,姬塔，其他人呢……？<br>啊，在柱子的另一侧……
+34,カタリナ/卡塔莉娜,姬塔、皆は……？<br>そうか、柱の向こう側に……,姬塔，其他人呢……？<br>是吗，在柱子的另一侧……
 35,カタリナ/卡塔莉娜,ルリア……？<br>ルリア、どこにいる！？,露莉亚……？<br>露莉亚，你在哪儿！？
 36,ルリア/露莉亚,ゴホッゴホッ……<br>わ、私はここだよ！<br>ビィさんも一緒に──,咳咳……<br>我，我在这里！碧也一起──
 37,謎の物体,──────！,──────！
@@ -31,7 +31,7 @@ id,name,text,trans
 45,,<span class='scene-font-katari'>パラパラと屋根の残骸が降る中、</span><br><span class='scene-font-katari'>カタリナはルリアに覆い被さり、</span><br><span class='scene-font-katari'>その身を盾にして守っているが……</span>,<span class='scene-font-katari'>屋顶的碎片纷纷扬扬地下落，</span><br><span class='scene-font-katari'>卡塔莉娜护住露莉亚，</span><br><span class='scene-font-katari'>用自己的身体当做护盾……</span>
 46,カタリナ/卡塔莉娜,はぁ……はぁ……！<br>ふたりとも、怪我はないか？,哈啊……哈啊……！<br>你们两个，没受伤吧？
 47,ビィ/碧,助かったぜ、姐さん！<br>オイラもルリアも大丈夫だぜ！,谢谢了，大姐！<br>我和露莉亚都没事！
-48,ルリア/露莉亚,うん、ありがと──,嗯，谢──
+48,ルリア/露莉亚,うん、ありがと──,嗯，谢谢──
 49,ルリア/露莉亚,……っ！<br>カタリナ、その足の怪我……！？,……！<br>卡塔莉娜，你的脚伤……！？
 50,カタリナ/卡塔莉娜,はは……<br>大した事はない、掠り傷さ……<br>だが少々足手まといになるな。,哈哈……<br>没什么大不了的，擦伤而已……<br>只是行动会有些不方便。
 51,カタリナ/卡塔莉娜,姬塔、ルリアを頼む。<br>この場所では奴が有利だろう。<br>まずは街の広場に出て、その後──,姬塔，露莉亚拜托你了。<br>这里应该对它比较有利。<br>你们先去街上的广场，然后──
