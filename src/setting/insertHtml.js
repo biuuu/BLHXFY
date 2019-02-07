@@ -107,7 +107,7 @@ const template = `
 			</div>
 
 			<div class="txt-setting-lead">
-        ※格式同CSS的font-family，默认使用微软正黑体。填 none 则不修改字体，显示游戏默认字体效果。
+        ※格式同CSS的font-family。填 none 则不修改字体，显示游戏默认字体效果。
       </div>
 
       <div class="prt-setting-article">
