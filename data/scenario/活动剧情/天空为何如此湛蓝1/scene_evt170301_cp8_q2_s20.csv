@@ -1,0 +1,40 @@
+id,name,text,trans
+0-chapter_name,,竜の試練,竜の試練
+0-synopsis,,『竜の試練』を乗り越えた姬塔達。満足そうなルシフェルと別れて目を覚ますと、ビィとルリアも口を揃えて「変な夢を見た」と言い、不思議な心地になる。しかし姬塔の手には一枚の真っ白い羽根が握られており、あの夢は確かに現実だった事を思わせるのだった。,姬塔一行成功跨越了『龙之试炼』，与心满意足的路西菲尔道别后醒来。碧和露莉亚都说做了奇怪的梦，感觉很不可思议。然而姬塔手中那根雪白的羽毛，仿佛在告诫她那不是梦而是现实。
+2,,<span class='scene-font-katari'>ルシフェルのいう、</span><br><span class='scene-font-spword'>『竜の試練』</span><span class='scene-font-katari'>を乗り越えた一行。</span>,<span class='scene-font-katari'>一行人成功地跨越了</span><span class='scene-font-katari'>路西菲尔的</span><br><span class='scene-font-spword'>『龙之试炼』</span><span class='scene-font-katari'>。</span>
+3,,<span class='scene-font-katari'>激戦による疲労困憊の中、</span><br><span class='scene-font-katari'>ルシフェルは穏やかに微笑んでいた。</span>,<span class='scene-font-katari'>看着因激战而变得疲劳困乏的人们，</span><br><span class='scene-font-katari'>路西菲尔露出了平和的微笑。</span>
+4,ルシフェル/路西菲尔,そうか……,这样啊……
+5,ルシフェル/路西菲尔,仲間と高め合い、庇い合い、<br>個では到達できぬ力と覚悟に至る……,与伙伴们相互进步，相互帮助，<br>达到一个人无法达到的力量与觉悟……
+6,ルシフェル/路西菲尔,人間は……<br>空の進化は此処まで成ったか……,人类……<br>空之进化已经到这种程度了吗？
+7,ルシフェル/路西菲尔,…………,…………
+7-sel1_txt,,<span class='scene-font-katari'>嬉しそうだね</span>,<span class='scene-font-katari'>你似乎很开心</span>
+7-sel2_txt,,<span class='scene-font-katari'>試練は終わった？</span>,<span class='scene-font-katari'>试练结束了？</span>
+8,ルシフェル/路西菲尔,ああ、私の数千年の悲願だ。<br>いつかきちんと説明しよう。,啊啊，这是我几千年来的夙愿。<br>以后再向你说明吧。
+9,ルシフェル/路西菲尔,その時は君と今夜の事を、<br>改めて喜び合いたいものだ……,到那时，<br>我想再次与你庆祝今晚的事情。
+10,ルシフェル/路西菲尔,ああ、終わった筈だ。<br>おめでとう、君には最大限の賛辞を。,啊啊，该结束了。<br>恭喜你，给予你最大限度的赞美。
+11,ルシフェル/路西菲尔,では、また会おう。<br>その日まで君達の旅路に祝福を──,那么，再会了。<br>直到那天到来，<br>为你们的旅途献上祝福──
+19,ルシフェル/路西菲尔,…………,…………
+20,ルシフェル/路西菲尔,<span class='scene-font-spword'>特異点</span>は揃い、<br>世界は動きつつある……<br>我々も決着をつけねばなるまい。,<span class='scene-font-spword'>特异点</span>出现，<br>世界开始动摇……<br>我们也必须要有个了断。
+21,ルシフェル/路西菲尔,そうだろう？<br>我が友、ルシファーよ──,是吧？<br>我的友人，路西法啊——
+31,,<span class='scene-font-katari'>早朝のグランサイファー……</span>,<span class='scene-font-katari'>清晨的格兰塞法上……</span>
+32,,<span class='scene-font-katari'>姬塔が起きると、</span><br><span class='scene-font-katari'>ビィとルリアが眠そうに挨拶する。</span>,<span class='scene-font-katari'>姬塔起床后，</span><br><span class='scene-font-katari'>碧和露莉亚边打着哈欠边打招呼。</span>
+33,ビィ/碧,ふぁ～あ……,呼~啊……
+34,ビィ/碧,おぅ、遅かったなぁ……<br>今朝は全員、寝坊だぜ。,啊，你好晚啊……<br>今早全员都睡懒觉了啊。
+35,ルリア/露莉亚,はわぁ～あ……<br>昨日のパーティで、<br>騒ぎ過ぎちゃいましたね。,呼啊……<br>应该是昨晚派对上玩的太过火了吧。
+36,ビィ/碧,そうかもなぁ……<br>オイラは変な夢のせいで、<br>疲れちまったんだけどよ？,也许是吧……<br>不过我倒是因为做了<br>奇怪的梦弄的很累。
+37,ルリア/露莉亚,あ！<br>そういえば私も夢を見ました。<br>何も覚えてないんですけど……,啊！<br>话说回来我也做梦了，<br>虽然什么都想不起来了……
+38,ビィ/碧,そうなのか？<br>オイラもなんかぼんやりしててよ……,是吗？<br>我也是有点迷迷糊糊的……
+39,ビィ/碧,うん？<br>なぁなぁ、姬塔。<br>その手に何を握ってるんだ？,嗯？呐呐姬塔，<br>你手上握着的是什么？
+40,,<span class='scene-font-katari'>ビィに言われて、</span><br><span class='scene-font-katari'>不意に手を広げる姬塔。</span>,<span class='scene-font-katari'>听到碧的话，</span><br><span class='scene-font-katari'>姬塔摊开手。</span>
+41,,<span class='scene-font-katari'>するとそこには、</span><br><span class='scene-font-katari'>一枚の真っ白い羽根が握られていた。</span>,<span class='scene-font-katari'>然后看到手上握着</span><br><span class='scene-font-katari'>一根洁白的羽毛。</span>
+42,ルリア/露莉亚,わあぁ～……！<br>とっても綺麗な羽根ですね！<br>虹色にキラキラ光ってます！,哇啊啊……！<br>好漂亮的羽毛啊！<br>亮晶晶地闪着虹色的光！
+43,ビィ/碧,ほんとだぜ！<br>まるで宝石みたいだなぁ。<br>こんなもんどこで拾ったんだよ？,真的啊！<br>简直像宝石一样，<br>你是在哪儿捡到这种东西的？
+44,,<span class='scene-font-katari'>首を傾げる姬塔。</span><br><span class='scene-font-katari'>目を輝かせるルリアに、</span><br><span class='scene-font-katari'>その羽根をあげる事にした。</span>,<span class='scene-font-katari'>姬塔歪了歪头，</span><br><span class='scene-font-katari'>把羽毛递给了双目放光的露莉亚。</span>
+48,ルリア/露莉亚,えへへ……<br>ありがとうございます！,诶嘿嘿……<br>谢谢你！
+49,ルリア/露莉亚,ど、どうですか？<br>似合ってるかなぁ……？,怎，怎么样？<br>合适吗……？
+50,,<span class='scene-font-katari'>災厄にまつわる一連の騒動は、</span><br><span class='scene-font-katari'>こうしてひとまずの決着を見せる。</span>,<span class='scene-font-katari'>围绕这场灾厄的骚动，</span><br><span class='scene-font-katari'>终于暂时迎来了结局。</span>
+51,,<span class='scene-font-katari'>原初の星晶獣……</span><br><span class='scene-font-katari'>天司長ルシフェル……</span><br><span class='scene-font-katari'>そして星の研究者……</span>,<span class='scene-font-katari'>原初的星晶兽……</span><br><span class='scene-font-katari'>天司长路西菲尔……</span><br><span class='scene-font-katari'>还有星之研究者……</span>
+52,,<span class='scene-font-katari'>今後の旅路に不安はよぎるものの、</span><br><span class='scene-font-katari'>それでも一行の心はどこか弾んでいた。</span>,<span class='scene-font-katari'>尽管对今后的旅途仍有不安，</span><br><span class='scene-font-katari'>但一行人内心依旧充满激情。</span>
+53,,<span class='scene-font-katari'>この空は広く蒼く、</span><br><span class='scene-font-katari'>どこまでも果てしないのだと。</span>,<span class='scene-font-katari'>即使这片天空广阔无垠，</span><br><span class='scene-font-katari'>无论到哪儿都没有尽头。</span>
+55,,<span class='scene-font-katari'>「どうして空は蒼いのか」</span><br>　<br><span class='scene-font-katari'>　　　　　　　　　　　────完</span>,<span class='scene-font-katari'>「天空为何如此湛蓝」</span><br>　<br><span class='scene-font-katari'>　　　　　　　　　　　────完</span>
+info,,,scene_evt170301_cp8_q2_s20

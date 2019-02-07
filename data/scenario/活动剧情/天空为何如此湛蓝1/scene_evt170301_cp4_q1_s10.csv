@@ -1,13 +1,13 @@
 id,name,text,trans
 0-chapter_name,,第4話 星,第4話 星
-0-synopsis,,アウギュステに辿り着いたSSS、ビィ、ルリア、シェロカルテ、そしてミカエル。ユーリの案内で病院に行き、怪我をしたオイゲンを見舞うと、そこで人間の看護師の姿に化けていた水の天司ガブリエルと出会う。,SSS、碧、露莉亚、榭洛科特、和米迦勒来到奥玖斯特，在尤利的带领下来到医院，探望受伤的欧根。在那里见到了化身为人类护士的水天司加百列。
+0-synopsis,,アウギュステに辿り着いたSSS、ビィ、ルリア、シェロカルテ、そしてミカエル。ユーリの案内で病院に行き、怪我をしたオイゲンを見舞うと、そこで人間の看護師の姿に化けていた水の天司ガブリエルと出会う。,SSS、碧、露莉亚、榭洛科特、和米迦勒来到奥古斯特，在尤利的带领下来到医院，探望受伤的欧根。在那里见到了化身为人类护士的水天司加百列。
 1,？？？,空……<br>一面に広がる倦んだ蒼……,天空……<br>一片无尽延伸的湛蓝……
 2,？？？,なぁ、ルシフェル。<br>君の司る<span class='scene-font-spword'>『進化』</span>に意味はあったか？,呐，路西菲尔。<br>你掌管的<span class='scene-font-spword'>『进化』</span>真的有意义吗？
 3,？？？,本当はわかっているんだろう。<br>そんなものただの幻想に過ぎないと。,其实你知道的吧？<br>那种东西不过是幻想。
 4,？？？,さて、どうする？<br>この期に及んで黙って見ている気か？,接下来，你要怎么办？<br>事到如今还要沉默地旁观吗？
 5,？？？,いいさ、そのまま観察していろ。<br>空の終焉と<span class='scene-font-spword'>『天の世界』</span>の誕生を──,也好，就这样观察着吧。<br>天空的终焉与<span class='scene-font-spword'>『天之世界』</span>的诞生──
 11,,<span class='scene-font-katari'>窮地を脱したSSS達は、</span><br><span class='scene-font-katari'>アリーザの母親の人脈と財力により、</span><br><span class='scene-font-katari'>臨時の連絡艇に同乗する事が出来た。</span>,<span class='scene-font-katari'>脱离了险地的SSS一行人，</span><br><span class='scene-font-katari'>靠着阿丽莎母亲的人脉和财力，</span><br><span class='scene-font-katari'>搭上了临时联络船。</span>
-12,,<span class='scene-font-katari'>下位天司の掃討のため、</span><br><span class='scene-font-place'>フレイメル</span><span class='scene-font-katari'>に残るイオ達と別れて、</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>に着いたのだったが……</span>,<span class='scene-font-katari'>与为扫除下位天司而留在</span><span class='scene-font-place'>弗雷梅尔</span><br><span class='scene-font-katari'>的伊欧她们分别，<br>来到了</span><span class='scene-font-place'>奥玖斯特……</span><span class='scene-font-katari'>……</span>
+12,,<span class='scene-font-katari'>下位天司の掃討のため、</span><br><span class='scene-font-place'>フレイメル</span><span class='scene-font-katari'>に残るイオ達と別れて、</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>に着いたのだったが……</span>,<span class='scene-font-katari'>与为扫除下位天司而留在</span><span class='scene-font-place'>弗雷梅尔</span><br><span class='scene-font-katari'>的伊欧她们分别，<br>来到了</span><span class='scene-font-place'>奥古斯特……</span><span class='scene-font-katari'>……</span>
 13,,<span class='scene-font-katari'>しかし早々に思わぬ情報を聞き、</span><br><span class='scene-font-katari'>そのまま急いで病院に向かっていた──</span>,<span class='scene-font-katari'>一行人很快就收到了意想不到的情报，</span><br><span class='scene-font-katari'>急忙去往医院——</span>
 20,ルリア/露莉亚,……オイゲンさんっ！,……欧根！
 21,ビィ/碧,なぁ、看護師の姉ちゃん！<br>この病室にオイゲンってヤツいねぇか？<br>商人達を守ったおっさんなんだけどよ！,呐，护士姐姐！<br>这个病房有没有一个叫欧根的人？<br>是保护商人们的大叔！
@@ -22,8 +22,8 @@ id,name,text,trans
 30,ユーリ/尤利,す、すみません。<br>たまたま街で皆さんを目にして、<br>勢い余ってしまったというか……,对，对不起。<br>因为刚好被街上的人看到，<br>事态就被夸大了……
 31,ルリア/露莉亚,もう、ビックリしちゃいましたよ。<br>でもユーリさんも元気で良かったです。,真是的，我们都吓到啦。<br>不过尤利也没事真的太好了。
 32,ユーリ/尤利,はい。<br>皆さんも、ご無事で何よりです。,是的。<br>各位也是，平安就好。
-35,,<span class='scene-font-katari'>ユーリはオイゲンと共に、</span><br><span class='scene-font-katari'>かつて帝国兵として駐屯していた、</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>に来ていたのだった。</span>,<span class='scene-font-katari'>尤利和欧根曾经一起作为</span><br><span class='scene-font-katari'>帝国兵驻扎在</span><span class='scene-font-place'>奥玖斯特</span><span class='scene-font-katari'>。</span>
-36,,<span class='scene-font-katari'>元帝国兵の少年ユーリ。</span><br><span class='scene-font-katari'>一行とは以前</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>で起きた、</span><br><span class='scene-font-katari'>星晶獣にまつわる事件で知り合った。</span>,<span class='scene-font-katari'>原帝国兵少年尤利。</span><br><span class='scene-font-katari'>曾因以前在</span><span class='scene-font-place'>奥玖斯特</span><span class='scene-font-katari'>发生过的<br>星晶兽事件与一行人结识。</span>
+35,,<span class='scene-font-katari'>ユーリはオイゲンと共に、</span><br><span class='scene-font-katari'>かつて帝国兵として駐屯していた、</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>に来ていたのだった。</span>,<span class='scene-font-katari'>尤利和欧根曾经一起作为</span><br><span class='scene-font-katari'>帝国兵驻扎在</span><span class='scene-font-place'>奥古斯特</span><span class='scene-font-katari'>。</span>
+36,,<span class='scene-font-katari'>元帝国兵の少年ユーリ。</span><br><span class='scene-font-katari'>一行とは以前</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>で起きた、</span><br><span class='scene-font-katari'>星晶獣にまつわる事件で知り合った。</span>,<span class='scene-font-katari'>原帝国兵少年尤利。</span><br><span class='scene-font-katari'>曾因以前在</span><span class='scene-font-place'>奥古斯特</span><span class='scene-font-katari'>发生过的<br>星晶兽事件与一行人结识。</span>
 37,,<span class='scene-font-katari'>その後は軍を脱走して、</span><br><span class='scene-font-katari'>帝国の横暴を止めるため、</span><br><span class='scene-font-katari'>一行と共に行動するなどしていたが……</span>,<span class='scene-font-katari'>后来脱离军队，</span><br><span class='scene-font-katari'>为阻止帝国的暴行曾和</span><br><span class='scene-font-katari'>一行人共同行动过……</span>
 38,,<span class='scene-font-katari'>今回はオイゲンに随行する形で、</span><br><span class='scene-font-katari'>災厄の調査をする事になったのだった。</span>,<span class='scene-font-katari'>这次则是跟随欧根来调查灾厄的事。</span>
 39,ビィ/碧,でも、やるじゃねぇか！<br>あのワッカ達を全滅させたんだろ？,不过你们很厉害啊！<br>那些圈圈被你们全灭了吧？
