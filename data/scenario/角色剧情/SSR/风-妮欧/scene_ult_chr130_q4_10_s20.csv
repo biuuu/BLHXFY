@@ -1,0 +1,38 @@
+id,name,text,trans
+0-chapter_name,,ふたりの歩調,ふたりの歩調
+0-synopsis,,互いに我を忘れて演奏していた姬塔とニオ。艇へ戻った２人を待っていたのは、ウーノだった。演奏を聴いて安心したと語るウーノは、ニオが力を失ったという噂についても方策を立て、「また何か困った事があれば、今度は私にも相談してほしい」と言い残して立ち去る。ニオは、姬塔達以外に甘えるのはちょっと怖いと語り、姬塔の胸に耳を寄せて安堵の表情を浮かべるのだった。,互いに我を忘れて演奏していた姬塔とニオ。艇へ戻った２人を待っていたのは、ウーノだった。演奏を聴いて安心したと語るウーノは、ニオが力を失ったという噂についても方策を立て、「また何か困った事があれば、今度は私にも相談してほしい」と言い残して立ち去る。ニオは、姬塔達以外に甘えるのはちょっと怖いと語り、姬塔の胸に耳を寄せて安堵の表情を浮かべるのだった。
+2,妮欧,<span class='scene-font-kokoro'>（聴こえる……</span><br><span class='scene-font-kokoro'>あなたの心が、指先が、鼓動が、</span><br><span class='scene-font-kokoro'>全身が奏でる旋律が……）</span>,<span class='scene-font-kokoro'>（听到了……你的心，你的手指，你的心跳，你全身演奏着的旋律……）</span>
+3,妮欧,<span class='scene-font-kokoro'>（同音で、和音で、短く休符を挟んで、</span><br><span class='scene-font-kokoro'>また、同音で……）</span>,<span class='scene-font-kokoro'>（同音，和音，短的休止符，然后，再来同音……）</span>
+4,妮欧,<span class='scene-font-kokoro'>（あなたと、すべてが調和している。</span><br><span class='scene-font-kokoro'>心が直接繋がっているみたいに……</span><br><span class='scene-font-kokoro'>なんて、心地いい……）</span>,<span class='scene-font-kokoro'>（跟你，一切都调和在了一起。就像是心直接联系起来了一样……总感觉，好舒服……）</span>
+5,,<span class='scene-font-katari'>姬塔もまた、不思議な感覚に</span><br><span class='scene-font-katari'>とらわれていた。自分の頭の中が全て</span><br><span class='scene-font-katari'>ニオに聴かれているような──</span>,<span class='scene-font-katari'>姬塔也一样有了不可思议的感觉。就像是在自己的脑海中听到了妮欧的一切一样──</span>
+6,,<span class='scene-font-katari'>そしてニオの考えが全て手に取るように</span><br><span class='scene-font-katari'>解る。彼女が次に何を望むのかも。</span><br><span class='scene-font-katari'>それに従い姬塔は弦を爪弾く。</span>,<span class='scene-font-katari'>然后对妮欧的想法也尽数了解了一样。姬塔顺从着她接下来的愿望，按她所想地拨动着琴弦。</span>
+7,,<span class='scene-font-katari'>無我の境地とでもいうのか、</span><br><span class='scene-font-katari'>ただひたすらに互いの求める音を、</span><br><span class='scene-font-katari'>時間も忘れて鳴らし続けた。</span>,<span class='scene-font-katari'>仿佛处身于无我的境地一般，两人忘掉了时间，不断地奏鸣着彼此所追求的声音。</span>
+12,妮欧,ふふ……楽しかった。,呼呼……好开心。
+13,,<span class='scene-font-katari'>最後の一音を弾き終え、</span><br><span class='scene-font-katari'>額に汗を浮かせて微笑むニオ。</span><br><span class='scene-font-katari'>姬塔も笑顔でそれに応えた。</span>,<span class='scene-font-katari'></span>
+15,妮欧,……わかる？<br>もう、私は大丈夫。,……明白吧？我已经，完全没事了。
+16,妮欧,ふふ、ありがとう姬塔。<br>全部あなたのおかげだよ。,呼呼，多谢你姬塔。<br>这一切都是多亏了你哦。
+17,,<span class='scene-font-katari'>満足したふたりは、</span><br><span class='scene-font-katari'>連れだって艇へと戻る。</span>,<span class='scene-font-katari'>心满意足了的两人一起回到了船上。</span>
+23,乌诺,やあ。,好啊。
+24,妮欧,ウーノ。,乌诺。
+25,乌诺,ここからでも聞こえてきた。<br>素晴らしい演奏だったよ。,真是美妙的演奏啊，在这里也能听到。
+26,乌诺,この様子ならもう心配はないようだね。<br>これで他の十天衆達も安心するだろう。,现在这样的话就不需要担心了吧。这样一来其他的十天众也安心了吧。
+27,妮欧,うん。もう、大丈夫。,嗯，已经没问题了。
+28,乌诺,さて、それじゃあ私も<br>最後の仕上げといこうか。,那，这样一来我也有个最后的工作要做了吗。
+29,妮欧,仕上げ……？,工作……？
+30,乌诺,商人のコネを使ってね。<br>ニオの噂を流させてもらうよ。,要用商人的关系网，把妮欧你的传闻散播出去。
+31,乌诺,「十天衆ニオ。<br>その力は今や大星晶獣さえ<br>羽虫のように墜とす」,「十天众妮欧。现在她的力量就连大星晶兽都能像拍死虫子一样击坠。」
+32,乌诺,「襲撃しようなどと考えた者は、<br>もれなく抹殺されるだろう」……とね。,「想要去袭击她的人，毫无疑问会被抹杀掉」……这样。
+33,妮欧,私、そんな事しない。,我，又没做过这种事。
+34,乌诺,宣伝というのは、<br>多少は大袈裟にしておくものさ。<br>さて、それでは私は行くよ。,宣传这种事多少都是有点夸大的。那么，我也该走了。
+35,乌诺,いいパートナーに出会ったね、ニオ。<br>十天衆の創始者として、<br>それだけ深い絆は羨ましい。,你真的遇到了好搭档啊，妮欧。作为十天众的创始人，也很羡慕你们那深厚的羁绊。
+36,乌诺,また何か困った事があれば、<br>今度は私にも相談してほしい。<br>では。,希望你以后再遇到什么烦恼的事的话，这次能来跟我商量。再见了。
+37,,<span class='scene-font-katari'>そう言い残し、ウーノは立ち去った。</span>,<span class='scene-font-katari'>留下这样的话，乌诺走了。</span>
+38,妮欧,…………,…………
+39,,<span class='scene-font-katari'>物憂げにうつむくニオへ、</span><br><span class='scene-font-katari'>どうしたのかと尋ねる姬塔。</span>,<span class='scene-font-katari'>妮欧看起来有点郁郁寡欢，姬塔用不解的表情看着她。</span>
+40,妮欧,十天衆がみんな頼りになるのは<br>知ってる。でも、姬塔達以外に<br>甘えるのはちょっと怖い。,虽然早就知道十天众的大家是很可靠的。但是，被姬塔你们以外的人关心总感觉有点可怕。
+41,妮欧,身を任せたくなる旋律と、<br>そうでないのがあるのかな。,是因为还不是能够让人全身心托付进去的旋律吗。
+43,,<span class='scene-font-katari'>そう言って、ニオは少し体を浮かせて</span><br><span class='scene-font-katari'>姬塔の胸に耳を寄せる。</span>,<span class='scene-font-katari'>那样说着的妮欧，让身体漂浮起来了少许，偎依在姬塔的胸前。</span>
+44,妮欧,こんな風に旋律を聴きたい相手は<br>他にいないから。,毕竟能够像这样让我想要倾听旋律的人，除了你以外就没有了。
+45,,<span class='scene-font-katari'>そのまま、目を閉じて</span><br><span class='scene-font-katari'>心地よさ気に姬塔の胸に</span><br><span class='scene-font-katari'>響く旋律に聴き入るニオ。</span>,<span class='scene-font-katari'>妮欧就那样闭上眼睛，舒服地倾听着在姬塔胸中响着的旋律。</span>
+46,,<span class='scene-font-katari'>その不思議な聴覚がもたらした災難。</span><br><span class='scene-font-katari'>それを経て安堵の表情を浮かべるニオに</span><br><span class='scene-font-katari'>姬塔も安心するのであった。</span>,<span class='scene-font-katari'>那不可思议的听觉会带来灾难。看着跨越了那个，浮现出了安稳表情的妮欧，姬塔也安心了。</span>
+info,,,scene_ult_chr130_q4_10_s20

@@ -1,0 +1,31 @@
+id,name,text,trans
+0-chapter_name,,竜の試練,竜の試練
+0-synopsis,,各地の復旧が終わり、グランサイファーに戻って来た姬塔の騎空団の団員達。旅の再開を祝してパーティを開いた夜、姬塔の夢の中にルシフェルが現れる。ルシフェルは『大いなる存在』の代理として、改めて特異点の力と覚悟を知るため、姬塔達に『竜の試練』を課すのだった。,各地的复原工作结束后，骑空团团员们都回到了格兰赛法。为庆祝重新开始冒险而举行了派对。晚上，路西菲尔出现在姬塔的梦中，作为《巨大的存在》的代理人，为再次确认其作为特异点的力量与觉悟，对姬塔一行发出了『龙之试炼』。
+1,ビィ/碧,むにゃむにゃ……<br>そのリンゴぉ……オイラのぉ……,唔呼呼……<br>那个苹果……是我的……
+2,ルリア/露莉亚,すぅ……すぅ……<br>いぇい……いぇい……いぇい……,呼……呼……<br>耶……耶……耶……
+3,,<span class='scene-font-katari'>災厄から幾許かの月日が経ち、</span><br><span class='scene-font-katari'>島々の復旧作業が終わった頃……</span>,<span class='scene-font-katari'>灾厄过去有一段时间了，</span><br><span class='scene-font-katari'>各岛的修复工作已经完成……</span>
+4,,<span class='scene-font-katari'>グランサイファーに団員達が戻り、</span><br><span class='scene-font-katari'>ついに旅を再開できる事になった。</span>,<span class='scene-font-katari'>团员们都各自回到了格兰塞法上，</span><br><span class='scene-font-katari'>旅途终于可以再次开始。</span>
+5,,<span class='scene-font-katari'>その日の夜は皆で、</span><br><span class='scene-font-katari'>再出発を祝したパーティを開き、</span><br><span class='scene-font-katari'>おおいにはしゃいで盛り上がると……</span>,<span class='scene-font-katari'>那天晚上，</span><br><span class='scene-font-katari'>大家为庆祝再次启程开了派对，</span><br><span class='scene-font-katari'>玩的非常尽兴……</span>
+6,,<span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>遊び疲れた子供のように、</span><br><span class='scene-font-katari'>いつの間にか眠っていたのだった。</span>,<span class='scene-font-katari'>大家就像孩子一样，</span><br><span class='scene-font-katari'>玩累了便不知不觉睡着了。</span>
+7,,<span class='scene-font-katari'>だが──</span>,<span class='scene-font-katari'>这时——</span>
+14,,<span class='scene-font-katari'>ここは……？</span><br><span class='scene-font-katari'>夢でも見ているのだろうか？</span>,<span class='scene-font-katari'>这里是……？</span><br><span class='scene-font-katari'>是在做梦吗？</span>
+15,？？？,夢ではない。<br>無論、現実とも言い難いが。,并不是梦。<br>当然，也不能说是现实。
+17,ルシフェル/路西菲尔,今晩は。<br>突然の事で驚かせてしまったか。<br>この空間に招待したのは、私だ。,晚上好。<br>如此突然吓到你了吗？<br>邀请你到这个空间的是我。
+18,ルシフェル/路西菲尔,先日は天司達および、<br>サンダルフォンが迷惑を掛けた。,前些日子天司们和<br>圣德芬给你添麻烦了。
+19,ルシフェル/路西菲尔,空の民には心より謝罪を……<br>そして君には感謝と敬意を表したい。,我由衷地向空之民道歉……<br>并且想像你表示感谢和敬意。
+19-sel1_txt,,<span class='scene-font-katari'>気にしないで</span>,<span class='scene-font-katari'>不用在意</span>
+19-sel2_txt,,<span class='scene-font-katari'>用事は終わり？</span>,<span class='scene-font-katari'>说完了吗？</span>
+20,ルシフェル/路西菲尔,そうか……<br>そう言って貰えると、<br>彼等も安堵するだろう。,是吗……<br>你这样说，他们也会安心吧。
+21,ルシフェル/路西菲尔,ああ、私の用事は終わった。,啊啊，我的事说完了。
+22,ルシフェル/路西菲尔,では今宵の本題だ。<br>あの時の事は覚えているか、君は……,接下来是今晚的主题。<br>还记得那时的事吗？你……
+23,ルシフェル/路西菲尔,ああ、こう言えば思い出せるか？<br>この世界の行末を左右する<span class='scene-font-spword'>特異点</span>よ。,啊，这样说你能想起来吧？<br>左右这个世界结局的<span class='scene-font-spword'>特异点</span>啊。
+24,ルシフェル/路西菲尔,君は大いなる存在と語り、<br><span class='scene-font-spword'>特異点</span>としての力と覚悟を問われた。,你和巨大的存在对话，<br>被询问是否拥有作为<br><span class='scene-font-spword'>特异点</span>的力量与觉悟。
+25,ルシフェル/路西菲尔,そして、こう答えた筈だ。<br>……<span class='scene-font-spword'>『仲間』</span>の存在が君の力であると。,然后你这样回答，<br><span class='scene-font-spword'>『同伴』</span>的存在就是你的力量。
+26,ルシフェル/路西菲尔,その仲間が全て揃った今日、<br>あの時の言葉を証明して貰いたいのだ。,在这些同伴全部聚集的今天，<br>我想让你证明那时的话。
+33,,<span class='scene-font-katari'>ルシフェルが指を鳴らすと、</span><br><span class='scene-font-katari'>霧が晴れたように視界が晴れ、</span><br><span class='scene-font-katari'>そばの丘に仲間達の姿が見えた。</span>,<span class='scene-font-katari'>路西菲尔打了个响指，</span><br><span class='scene-font-katari'>眼前像雾气消散一般的清晰起来，</span><br><span class='scene-font-katari'>并看到旁边山丘上同伴们的影子。</span>
+34,ビィ/碧,うん……？<br>なんだぁ、ここは？<br>オイラ夢ん中にいるのか？,嗯……？<br>这里怎么回事？<br>我在做梦吗？
+35,ルリア/露莉亚,でも皆さん揃ってて……<br>なんだか妙にちゃんとしてますよ……？,但是大家都在……<br>感觉有点奇妙……？
+36,ルリア/露莉亚,あ、おーい、姬塔！,啊，喂，姬塔！
+37,ルシフェル/路西菲尔,フ、舞台は整った……<br>それでは始めようか。,呵，舞台准备完毕……<br>那么开始吧。
+38,ルシフェル/路西菲尔,力と覚悟の証明……<br><span class='scene-font-4 scene-font-spword'>『竜の試練』</span><span class='scene-font-4'>を──！</span>,力量与觉悟的证明……<br><span class='scene-font-4 scene-font-spword'>『龙之试练』</span><span class='scene-font-4'>——！</span>
+info,,,scene_evt170301_cp8_q1_s10
