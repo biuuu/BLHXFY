@@ -15,6 +15,8 @@ const through = require('through2')
 
 const scenarioMap = {}
 const skillMap = {}
+const voiceList = []
+const voiceListKey = []
 const CONFIG = {
   csvHost: 'blhx.danmu9.com'
 }
@@ -47,6 +49,13 @@ const collectCsv = function(type) {
               }
             }
             return item
+          })
+        } else if (type === 'voice') {
+          list.map(item => {
+            if (!voiceListKey.includes(item.path)) {
+              voiceListKey.push(item.path)
+              voiceList.push(item)
+            }
           })
         }
         const newStr = CSV.unparse(newList)
@@ -89,7 +98,7 @@ gulp.task('move:lecia', ['clean:dist'], function () {
     .pipe(gulp.dest('./dist/blhxfy/'))
 })
 
-gulp.task('move:scenario', ['clean:dist'], function () {
+gulp.task('move:scenario', ['merge:voice'], function () {
   return gulp.src('./data/scenario/**/*.csv')
     .pipe(collectCsv('scenario'))
     .pipe(gulp.dest('./dist/blhxfy/data/scenario/'))
@@ -99,6 +108,24 @@ gulp.task('move:skill', ['clean:dist'], function () {
   return gulp.src('./data/skill/**/*.csv')
     .pipe(collectCsv('skill'))
     .pipe(gulp.dest('./dist/blhxfy/data/skill/'))
+})
+
+gulp.task('move:voice', ['move:normalcsv'], function () {
+  return gulp.src('./data/voice.csv')
+    .pipe(collectCsv('voice'))
+    .pipe(gulp.dest('./dist/blhxfy/data/'))
+})
+
+gulp.task('merge:voice', ['move:voice'], function () {
+  return gulp.src('./data/scenario/**/voice.csv')
+    .pipe(collectCsv('voice'))
+})
+
+gulp.task('save:voice', ['move:scenario'], function (done) {
+  const voiceStr = CSV.unparse(voiceList)
+  fs.writeFile('./dist/blhxfy/data/voice.csv', voiceStr, function () {
+    fs.writeFile('./dist/blhxfy/data/voice-mypage.csv', voiceStr, done)
+  })
 })
 
 gulp.task('scenarioMap', ['move:scenario'], function (done) {
