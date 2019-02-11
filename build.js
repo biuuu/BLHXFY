@@ -32,32 +32,40 @@ const collectCsv = function(type) {
     } else if (file.isBuffer()) {
         const str = file.contents.toString()
         const list = CSV.parse(str.replace(/^\ufeff/, ''), { header: true }).data
-        let newList = null
+        let newList = []
         if (type === 'scenario') {
-          newList = list.map(item => {
+          list.forEach(item => {
             if (item.id === 'info') {
               scenarioMap[item.trans] = path.relative(path.resolve(__dirname, 'data/scenario/'), file.path).replace(/\\/g, '/')
             }
-            return item
+            if (item.id) {
+              newList.push(item)
+            }
           })
         } else if (type === 'skill') {
-          newList = list.map(item => {
+          list.forEach(item => {
             if (item.id === 'npc') {
               const idArr = item.detail.split('|')
               if (idArr && idArr[0]) {
                 skillMap[idArr[0]] = path.relative(path.resolve(__dirname, 'data/skill/'), file.path).replace(/\\/g, '/')
               }
             }
-            return item
+            if (item.id) {
+              newList.push(item)
+            }
           })
         } else if (type === 'voice') {
-          list.map(item => {
-            if (!voiceListKey.includes(item.path)) {
+          list.forEach(item => {
+            if (!voiceListKey.includes(item.path) && item.path) {
               voiceListKey.push(item.path)
               voiceList.push(item)
             }
+            if (item.path) {
+              newList.push(item)
+            }
           })
         }
+
         const newStr = CSV.unparse(newList)
         const newBuffer = Buffer.from(newStr)
 
@@ -119,6 +127,7 @@ gulp.task('move:voice', ['move:normalcsv'], function () {
 gulp.task('merge:voice', ['move:voice'], function () {
   return gulp.src('./data/scenario/**/voice.csv')
     .pipe(collectCsv('voice'))
+    .pipe(gulp.dest('./dist/blhxfy/data/'))
 })
 
 gulp.task('save:voice', ['move:scenario'], function (done) {
@@ -148,6 +157,7 @@ gulp.task('pack', [
   'move:normalcsv',
   'move:scenario',
   'move:skill',
+  'save:voice',
   'scenarioMap',
   'skillMap',
   'cname'
