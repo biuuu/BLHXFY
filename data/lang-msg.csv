@@ -2062,9 +2062,9 @@ seasonmessage_1,メッセージ選択,View Message,
 seasonmessage_2,モルフェ,Morphe,墨菲
 seasonmessage_3,ヴェトル,Phoebe,菲托尔
 seasonmessage_4,性別について,Playing as Male / Female,关于性别
-seasonmessage_valentine_1,女性キャラからメッセージを受け取るには、<br>性別を男性にする必要があります。,The main character needs to be male to see Valentine's Day cut scenes with female characters.,只有性别设置为男性时才能与女性角色进行情人节对话。
+seasonmessage_valentine_1,女性キャラからメッセージを受け取るには、<br>性別を男性にする必要があります。,The main character needs to be male to see Valentine's Day cut scenes with female characters.,只有性别设置为男性时<br>才能与女性角色进行对话。
 seasonmessage_valentine_10,ハッピーバレンタイン！,Happy Valentine's Day!,
-seasonmessage_valentine_2,男性キャラからメッセージを受け取るには、<br>性別を女性にする必要があります。,The main character needs to be female to see Valentine's Day cut scenes with male characters.,只有性别设置为女性时才能与男性角色进行情人节对话。
+seasonmessage_valentine_2,男性キャラからメッセージを受け取るには、<br>性別を女性にする必要があります。,The main character needs to be female to see Valentine's Day cut scenes with male characters.,只有性别设置为女性时<br>才能与男性角色进行对话。
 seasonmessage_valentine_3,性別確認,Character Cut Scenes,性别确认
 seasonmessage_valentine_4,受け渡し確認,Give Item,确认送礼
 seasonmessage_valentine_5,チョコ受け取り,For You,接受巧克力
@@ -2076,8 +2076,8 @@ seasonmessage_white_1,ホワイトデーの贈り物購入,Gift Shack,购买白�
 seasonmessage_white_2,購入完了,Gift Shack,购买成功
 seasonmessage_white_3,購入エラー,Gift Shack,发生错误
 seasonmessage_white_4,購入できませんでした,You can't buy any gifts. Try again later.,购买失败
-seasonmessage_white_5,女性キャラからメッセージを受け取るには、<br>性別を男性にする必要があります。,The main character needs to be male to see White Day cut scenes with female characters.,只有性别设置为男性时才能与女性角色进行白色情人节对话。
-seasonmessage_white_6,男性キャラからメッセージを受け取るには、<br>性別を女性にする必要があります。,The main character needs to be female to see White Day cut scenes with male characters.,只有性别设置为女性时才能与男性角色进行白色情人节对话。
+seasonmessage_white_5,女性キャラからメッセージを受け取るには、<br>性別を男性にする必要があります。,The main character needs to be male to see White Day cut scenes with female characters.,只有性别设置为男性时<br>才能与女性角色进行对话。
+seasonmessage_white_6,男性キャラからメッセージを受け取るには、<br>性別を女性にする必要があります。,The main character needs to be female to see White Day cut scenes with male characters.,只有性别设置为女性时<br>才能与男性角色进行对话。
 seasonmessage_white_7,贈り物受け取り,For You,接受礼物
 seasonmessage_white_8,ハッピーホワイトデー！,Happy White Day!,白色情人节快乐！
 sell_stash_filter_1,整頓,Unload,整顿
