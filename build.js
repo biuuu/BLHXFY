@@ -12,6 +12,7 @@ const cmjs = require('rollup-plugin-commonjs')
 const resolve = require('rollup-plugin-node-resolve')
 const json = require('rollup-plugin-json')
 const through = require('through2')
+const { version } = require('./package.json')
 
 const scenarioMap = {}
 const skillMap = {}
@@ -170,7 +171,7 @@ gulp.task('pack', [
 gulp.task('md5', ['pack'], function (done) {
   md5File('./dist/blhxfy/data.zip', (err, hash) => {
     if (err) throw err
-    fs.writeJson('./dist/blhxfy/manifest.json', { packname: `data.${hash.slice(0,5)}.zip`, hash }, () => {
+    fs.writeJson('./dist/blhxfy/manifest.json', { packname: `data.${hash.slice(0,5)}.zip`, hash, version }, () => {
       fs.remove('./dist/blhxfy/data.zip', done)
     })
   })

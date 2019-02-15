@@ -72,13 +72,16 @@ const fetchData = async (pathname) => {
   })
 }
 
-const getHash = fetchData('/blhxfy/manifest.json').then(data => data.hash)
+const getHash = fetchData('/blhxfy/manifest.json')
 
-getHash.then(hash => {
-  config.hash = hash
-  insertCSS('BLHXFY')
-  return hash
-})
+getHash.then(data => {
+    config.newVersion = data.version
+    return data.hash
+  }).then(hash => {
+    config.hash = hash
+    insertCSS('BLHXFY')
+    return hash
+  })
 
 const fetchWithHash = async (pathname) => {
   const hash = await getHash
