@@ -1,0 +1,55 @@
+id,name,text,trans
+0-chapter_name,,第5話 首,第5話 首
+0-synopsis,,五感を失った瀕死のルシフェルを胸に抱き、呆然とするサンダルフォンは対話にならぬ対話を重ねた。そして最後の最後で発したルシフェルの言葉は、サンダルフォンの心の根底を揺さぶり、覆し、サンダルフォンは天司長の力と意思をルシフェルから継承したのだった。,圣德芬抱住失去五感濒死的路西菲尔，呆滞的他与无法形成的对话交流着。路西菲尔在最后的最后吐露的话语动摇了他的内心，随后，他继承了天司长的力量与意志。
+2,,<span class='scene-font-katari'>サンダルフォンの目には、</span><br><span class='scene-font-katari'>ルシフェルの残骸が映っていた。</span>,<span class='scene-font-katari'>映入圣德芬眼帘的，</span><br><span class='scene-font-katari'>是路西菲尔的残骸。</span>
+8,,<span class='scene-font-katari'>彼は無意識の内に歩み寄り、</span><br><span class='scene-font-katari'>震える膝を抑えて床に突き、</span><br><span class='scene-font-katari'>何か考えるより先に残骸を胸に抱いた。</span>,<span class='scene-font-katari'>他无意识地走过去，</span><br><span class='scene-font-katari'>颤抖的双腿抵在地上，还没来得</span><br><span class='scene-font-katari'>及思考就先把残骸抱在了胸前。</span>
+9,サンダルフォン/圣德芬,何故だ……<br>何があったというんだ！？,为什么……<br>到底发生了什么！？
+10,ルシフェル/路西菲尔,<span class='scene-font-gray'>誰か……</span><br><span class='scene-font-gray'>いるのか……？</span>,<span class='scene-font-gray'>有谁……</span><br><span class='scene-font-gray'>在这里吗……？</span>
+11,サンダルフォン/圣德芬,ルシフェル！<br>俺だ、サンダルフォンだ！,路西菲尔！<br>是我，是圣德芬！
+12,ルシフェル/路西菲尔,<span class='scene-font-gray'>私は五感を失った……</span><br><span class='scene-font-gray'>何も見えず、何も聞こえず……</span><br><span class='scene-font-gray'>故に方法を吟味する余裕はない。</span>,<span class='scene-font-gray'>我五感尽失……</span><br><span class='scene-font-gray'>看不见，听不见……</span><br><span class='scene-font-gray'>因此无法斟酌对策。</span>
+13,サンダルフォン/圣德芬,なんだと……？<br>誰がアンタに……再生は……！？,什么……？<br>是谁把你……能再生吗……！？
+14,ルシフェル/路西菲尔,<span class='scene-font-gray'>カナンに辿り着いた者よ。</span><br><span class='scene-font-gray'>君、あるいは君達に頼みたい事がある。</span>,<span class='scene-font-gray'>抵达迦南之人啊。</span><br><span class='scene-font-gray'>我有事拜托于你，或是你们。</span>
+15,ルシフェル/路西菲尔,<span class='scene-font-gray'>サンダルフォンという者に、</span><br><span class='scene-font-gray'>私の言葉を伝えて貰いたい。</span>,<span class='scene-font-gray'>希望能把我的话传达给<br>名为圣德芬的人。</span>
+16,ルシフェル/路西菲尔,<span class='scene-font-gray'>天司長の座と力を君に継承すると。</span>,<span class='scene-font-gray'>将天司长的身份与力量继承给你。</span>
+17,サンダルフォン/圣德芬,…………ッ！,…………！
+18,ルシフェル/路西菲尔,<span class='scene-font-gray'>私達は災厄の罰を受けねばならない。</span>,<span class='scene-font-gray'>我们必须要接受引发灾厄的惩罚。</span>
+19,ルシフェル/路西菲尔,<span class='scene-font-gray'>故に私は滅び、</span><br><span class='scene-font-gray'>君は空の世界を守るため生きるのだ。</span>,<span class='scene-font-gray'>因此我将毁灭，</span><br><span class='scene-font-gray'>你则为保护空之世界活下去。</span>
+20,ルシフェル/路西菲尔,<span class='scene-font-gray'>生き続けて、</span><br><span class='scene-font-gray'>いつか天司長としての最後の務め……</span>,<span class='scene-font-gray'>活下去，有朝一日完成</span><br><span class='scene-font-gray'>天司长最后的职务……</span>
+21,ルシフェル/路西菲尔,<span class='scene-font-spword'>『ルシファーの遺産』</span><br><span class='scene-font-gray'>を破壊して欲しい。</span>,<span class='scene-font-gray'>去破坏</span><span class='scene-font-spword'>『路西法的遗产』</span>。
+22,サンダルフォン/圣德芬,何を……<br>何を言っている……？,什么……<br>你在说什么……？
+29,サンダルフォン/圣德芬,災厄は俺の……<br>どうしてアンタはいつも……！,灾厄明明是我……<br>为什么你总是……！
+30,サンダルフォン/圣德芬,勝手に背負って勝手に決めて勝手に……,擅自承担，擅自做决定，擅自……
+31,サンダルフォン/圣德芬,<span class='scene-font-4'>死ぬな！</span>,<span class='scene-font-4'>不许死啊！</span>
+32,ルシフェル/路西菲尔,<span class='scene-font-spword'>『ルシファーの遺産』</span><span class='scene-font-gray'>は邪悪だ。</span><br><span class='scene-font-gray'>空の世界にとって、</span><br><span class='scene-font-gray'>創世以来最大の脅威となる。</span>,<span class='scene-font-spword'>『路西法的遗产』</span><span class='scene-font-gray'>是邪恶的。</span><br><span class='scene-font-gray'>是空之世界创世以来最大的威胁。</span>
+33,ルシフェル/路西菲尔,<span class='scene-font-gray'>ルシファーから奪い、封印していたが</span><br><span class='scene-font-gray'>こうなっては覚醒も近いだろう。</span><br><span class='scene-font-gray'>だから、どうか……</span>,<span class='scene-font-gray'>虽然我从路西法那里夺来并封印，</span><br><span class='scene-font-gray'>但事已至此应该很快就要觉醒了吧。</span><br><span class='scene-font-gray'>所以，请务必……</span>
+34,ルシフェル/路西菲尔,<span class='scene-font-gray'>全て終わった暁には、</span><br><span class='scene-font-gray'>君の役割は君自身が決めると良い。</span>,<span class='scene-font-gray'>等到一切结束迎来黎明，</span><br><span class='scene-font-gray'>就由你自己决定自身的职责吧。</span>
+35,ルシフェル/路西菲尔,<span class='scene-font-gray'>空の世界は常に進化を遂げている……</span><br><span class='scene-font-gray'>私達天司もまた役割を自然に還元して、</span><br><span class='scene-font-gray'>ただの命として生きる事も良いだろう。</span>,<span class='scene-font-gray'>空之世界在不断进化着……</span><br><span class='scene-font-gray'>我们天司将职责还给自然，</span><br><span class='scene-font-gray'>只单纯作为生命活着也不错吧。</span>
+36,サンダルフォン/圣德芬,<span class='scene-font-4'>世界、世界、世界……！</span><br>そんな事はどうでもいい！,<span class='scene-font-4'>世界，世界，世界……！</span><br>那种事怎样都好！
+37,サンダルフォン/圣德芬,俺に天司長の力を与えてみろ！<br>その世界を滅茶苦茶にしてやるぞ！,你敢把天司长的力量给我试试！<br>我一定要把这个世界搅的天翻地覆！
+38,サンダルフォン/圣德芬,それが嫌なら──,如果你不想这样——
+39,ルシフェル/路西菲尔,<span class='scene-font-gray'>ゥ……ア……</span>,<span class='scene-font-gray'>呃……啊……</span>
+40,サンダルフォン/圣德芬,お、おい！<br>ルシフェル！？,喂，喂！<br>路西菲尔！？
+41,ルシフェル/路西菲尔,<span class='scene-font-gray'>もう……</span><br><span class='scene-font-gray'>時間は限られているようだ……</span>,<span class='scene-font-gray'>看来……</span><br><span class='scene-font-gray'>我的时限已经到了……</span>
+42,サンダルフォン/圣德芬,…………ッ！,…………！
+43,サンダルフォン/圣德芬,どうして最期まで……<br>世界の事より自分の事は厭わないのか！,为什么直到最后你都……<br>比起世界的事，<br>你就不烦恼自己的事吗！
+44,サンダルフォン/圣德芬,アンタ自身の言葉はないのか！？<br><span class='scene-font-4'>なあ！！</span>,你就没有自己的话吗！？<br><span class='scene-font-4'>说啊！！</span>
+45,ルシフェル/路西菲尔,<span class='scene-font-gray'>……伝言は以上だ、頼む。</span>,<span class='scene-font-gray'>传言就是这些……拜托了。</span>
+47,サンダルフォン/圣德芬,…………,…………
+56,ルシフェル/路西菲尔,<span class='scene-font-gray'>アァ……</span>,<span class='scene-font-gray'>啊……</span>
+57,ルシフェル/路西菲尔,<span class='scene-font-gray'>どうして……</span><br><span class='scene-font-gray'>どうして空は蒼いのか……</span>,<span class='scene-font-gray'>为什么……</span><br><span class='scene-font-gray'>为什么天空如此湛蓝……</span>
+58,サンダルフォン/圣德芬,何……？,什么……？
+59,ルシフェル/路西菲尔,<span class='scene-font-gray'>人は幾千年も問い続けた……</span><br><span class='scene-font-gray'>原理を教えても問い続ける……</span>,<span class='scene-font-gray'>人类数千年来都在发问……</span><br><span class='scene-font-gray'>即使告知了原理也在持续问着……</span>
+60,ルシフェル/路西菲尔,<span class='scene-font-gray'>私は……思った……</span><br><span class='scene-font-gray'>「問い」は「願い」なのだと……</span>,<span class='scene-font-gray'>我……想过了……</span><br><span class='scene-font-gray'>「提问」代表「愿望」……</span>
+61,ルシフェル/路西菲尔,<span class='scene-font-gray'>何かに焦がれて、誰かに惹かれて……</span><br><span class='scene-font-gray'>手にしては喜び、届かずには泣いて……</span>,<span class='scene-font-gray'>向往着什么，被谁所吸引……</span><br><span class='scene-font-gray'>得到了会开心，无法传达会哭泣……</span>
+62,ルシフェル/路西菲尔,<span class='scene-font-gray'>なぜ、どうして、どうすれば……</span><br><span class='scene-font-gray'>願い続ける事が、進化の道筋なのだ……</span>,<span class='scene-font-gray'>为何，为什么，怎么办……</span><br><span class='scene-font-gray'>持续愿望着，便是进化之道……</span>
+63,サンダルフォン/圣德芬,問い……願い……,提问……愿望……
+64,ルシフェル/路西菲尔,<span class='scene-font-gray'>私の問い……は……</span><br><span class='scene-font-gray'>もう一度あの中庭で……君と珈琲を……</span>,<span class='scene-font-gray'>我的提问……是……</span><br><span class='scene-font-gray'>再一次在那个庭院……</span><br><span class='scene-font-gray'>与你共饮咖啡……</span>
+65,ルシフェル/路西菲尔,<span class='scene-font-gray'>…………──</span>,<span class='scene-font-gray'>圣德，芬……</span>
+66,サンダルフォン/圣德芬,…………ッ！,…………！
+67,サンダルフォン/圣德芬,嘘だ……<br>嘘でしょう……？,骗人的……<br>骗人的吧……？
+68,サンダルフォン/圣德芬,だって貴方は完璧で、<br>皆を導いて皆に愛されて……,您那么完美，<br>引导着大家，被大家爱戴……
+69,サンダルフォン/圣德芬,その貴方がどうして……！？,那样的您为什么会……！？
+97,サンダルフォン/圣德芬,…………,…………
+98,サンダルフォン/圣德芬,俺の背に……<br>貴方の羽は白すぎる……,您的羽翼对我来说，太过洁白……
+99,サンダルフォン/圣德芬,ルシフェル……──,路西菲尔……大人……——
+info,,,scene_evt180228_cp5_q3_s10
