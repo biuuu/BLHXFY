@@ -170,8 +170,32 @@ const template = `
 </div>
 </div>
 `
+const templateForWheel = `
+<style>
+#blhxfy-setting-modal {
+	height: 100%;
+	overflow: auto;
+}
+</style>
+`
+const wheelStopPg = (e) => {
+	e.stopImmediatePropagation()
+}
 export default function (html) {
-  return html.replace('<div class="cnt-setting">', `${template}<div class="cnt-setting"><div class="cnt-setting"><div class="btn-usual-text" id="btn-setting-blhxfy" onclick="window.blhxfy.sendEvent('setting', 'show')">汉化插件设置</div>`)
+	html = html.replace('<div class="cnt-setting">', `${template}<div class="cnt-setting"><div class="cnt-setting"><div class="btn-usual-text" id="btn-setting-blhxfy" onclick="window.blhxfy.sendEvent('setting', 'show')">汉化插件设置</div>`)
+	if (location.hash !== '#setting') {
+		html = html.replace('<div class="btn-usual-text" id="btn-setting-blhxfy"', `${templateForWheel}<div class="btn-usual-text" id="btn-setting-blhxfy"`)
+		setTimeout(() => {
+			const modal = document.getElementById('blhxfy-setting-modal')
+			modal.removeEventListener('wheel', wheelStopPg)
+			modal.removeEventListener('DOMMouseScroll', wheelStopPg)
+			modal.removeEventListener('mousewheel', wheelStopPg)
+			modal.addEventListener('wheel', wheelStopPg, false)
+			modal.addEventListener('DOMMouseScroll', wheelStopPg, false)
+			modal.addEventListener('mousewheel', wheelStopPg, false)
+		}, 1000)
+	}
+	return html
 }
 
 export { template as settingHtml }
