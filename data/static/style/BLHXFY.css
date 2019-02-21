@@ -556,6 +556,10 @@ body .prt-scene-comment .prt-message-area {
   font-family: jpkana, yaheiSymbol, "Microsoft Jhenghei", "Yu Gothic", "Meiryo", sans-serif !important;
 }
 
+.contents .scene-font-gray {
+  color: #b0aead
+}
+
 #box-sub-blhxfy {
   position: absolute;
   top: 324px;
