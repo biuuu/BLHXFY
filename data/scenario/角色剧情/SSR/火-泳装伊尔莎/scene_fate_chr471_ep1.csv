@@ -14,14 +14,14 @@ id,en,jp,trans
 13,,少し先の話になりますが、帰省するため<br>休暇をいただきたいと思います。<br>承認していただけますか？,虽然是一段时间以后的事，为了回家探亲我想申请休假，能请您批准吗？
 14,,わかった、<br>心身の整備も仕事のうちだ。<br>しっかり休め。,我明白了，身心的维护也是工作的一部分。好好休息吧。
 15,,はっ！,是！
-16,,<span class='scene-font-kokoro'>（休暇か……</span><br><span class='scene-font-kokoro'>取れるものなら</span><br><span class='scene-font-kokoro'>私も取りたいが……）</span>,<span class='scene-font-kokoro'>（休假啊......如果能申请的到话我也想申请啊......）</span>
-17,,<span class='scene-font-kokoro'>（既に予定はぎっしりだ。</span><br><span class='scene-font-kokoro'>訓練で</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-kokoro'>に出向く事に</span><br><span class='scene-font-kokoro'>なっているとはいえ、仕事は仕事……）</span>,<span class='scene-font-kokoro'>（计划已经排满了，虽然为了训练要前往奥格斯提，但工作就是工作......）</span>
-18,,<span class='scene-font-2'>私も、海でゆっくりバカンスしたい……</span>,<span class='scene-font-2'>我也想在海边好好休假啊......</span>
-19,,はぁ……？<br>……教官殿にも、<br>そういう一面があったのですね。,咦......？ ......教官阁下也有这样的一面啊。
-20,,<span class='scene-font-kokoro'>（しまった……）</span>,<span class='scene-font-kokoro'>（糟糕......）</span>
-21,,<span class='scene-font-kokoro'>（……何をやっているんだ、私は……！</span><br><span class='scene-font-kokoro'>訓練兵に親近感を与えてどうする！）</span>,<span class='scene-font-kokoro'>（......我在做什么......！怎么能给受训士兵亲近感！）</span>
+16,,<span class='scene-font-kokoro'>（休暇か……</span><br><span class='scene-font-kokoro'>取れるものなら</span><br><span class='scene-font-kokoro'>私も取りたいが……）</span>,<span class='scene-font-kokoro'>（休假啊……如果能申请的到话我也想申请啊……）</span>
+17,,<span class='scene-font-kokoro'>（既に予定はぎっしりだ。</span><br><span class='scene-font-kokoro'>訓練で</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-kokoro'>に出向く事に</span><br><span class='scene-font-kokoro'>なっているとはいえ、仕事は仕事……）</span>,<span class='scene-font-kokoro'>（计划已经排满了，虽然为了训练要前往奥格斯提，但工作就是工作……）</span>
+18,,<span class='scene-font-2'>私も、海でゆっくりバカンスしたい……</span>,<span class='scene-font-2'>我也想在海边好好休假啊……</span>
+19,,はぁ……？<br>……教官殿にも、<br>そういう一面があったのですね。,咦……？ ……教官阁下也有这样的一面啊。
+20,,<span class='scene-font-kokoro'>（しまった……）</span>,<span class='scene-font-kokoro'>（糟糕……）</span>
+21,,<span class='scene-font-kokoro'>（……何をやっているんだ、私は……！</span><br><span class='scene-font-kokoro'>訓練兵に親近感を与えてどうする！）</span>,<span class='scene-font-kokoro'>（……我在做什么……！怎么能给受训士兵亲近感！）</span>
 22,,何の話をしている？<br>私は何も言っていないし、<br>お前は何も聞いていない。,你在说什么？我什么都没说，你也什么都没听到。
-23,,……いいな？,......听懂了吗？
+23,,……いいな？,……听懂了吗？
 24,,は……はっ！,是……是！
 25,,フン……<br>わかればいい。,哼....明白就好。
 26,,申請書を持って準備室に来い。<br>担当教官のハンコをくれてやる。,带着申请表到准备室来，我给你盖个主管教官的章。
@@ -35,23 +35,23 @@ id,en,jp,trans
 45,,<span class='scene-font-katari'>店の奥から店主が現れ、</span><br><span class='scene-font-katari'>イルザがじっと見ている水着を</span><br><span class='scene-font-katari'>ショーウィンドウから下ろす。</span>,<span class='scene-font-katari'>店主从商店后面出现，将伊尔莎一直盯着的泳装从橱窗里撤下。</span>
 46,,っ！　まさか……,！难道是....！
 53,,はい、お釣りをどうぞ。<br>お買い上げありがとうございました！,请拿好找零。谢谢惠顾！
-55,,やはりか……,果然......
+55,,やはりか……,果然……
 56,,いらっしゃいませ。<br>どのような物をお探しですか？,欢迎光临。请问您在找什么样的衣服？
 57,,あの女性が買っていった水着が<br>欲しかったのだが、<br>同じ物はないだろうか？,我想买刚刚那位女性买走的泳装，请问有没有同样款式的？
-58,,すみません……<br>あれは、人気デザイナーのコルワさんが<br>手掛けた一点物なんです。,很抱歉......那是当红设计师可露瓦小姐亲手制作的唯一一件服装。
-59,,そうだったのか……,是这样啊......
+58,,すみません……<br>あれは、人気デザイナーのコルワさんが<br>手掛けた一点物なんです。,很抱歉……那是当红设计师可露瓦小姐亲手制作的唯一一件服装。
+59,,そうだったのか……,是这样啊……
 60,,他のデザイナーの水着にはなりますが、<br>人気商品も多数ご用意しております。<br>宜しければご覧になりませんか？,虽然是其他设计师设计的泳装，弊店准备有很多受欢迎的商品。如果方便的话您要不要看一下？
 61,,ああ、是非。,嗯，务必让我看下。
 67,,<span class='scene-font-katari'>店主に案内されるまま</span><br><span class='scene-font-katari'>イルザは人気デザイナーの手掛けた</span><br><span class='scene-font-katari'>オリジナルの水着を見ていく。</span>,<span class='scene-font-katari'>伊尔莎在店主带领下看了当红设计师亲自制作的原创泳装。</span>
 68,,<span class='scene-font-kokoro'>（どれも目を見張る物ばかりだな。</span><br><span class='scene-font-kokoro'>しかし、ショーウィンドウにあった</span><br><span class='scene-font-kokoro'>あの一着に代わる物はこの中にない）</span>,<span class='scene-font-kokoro'>（每件都是让人眼前一亮的作品。但是里面没有一件可以代替橱窗里的那一件。）</span>
-69,,<span class='scene-font-kokoro'>（惜しい事をした……</span><br><span class='scene-font-kokoro'>これも管理職の宿命か……）</span>,<span class='scene-font-kokoro'>（太可惜了......这也是管理人员的命运吗......）</span>
-70,,はぁ……,唉......
-71,,いかがですか、お客様。<br>店にあるものでしたら、こちらの<br>黒い水着もお似合いかと存じますが……,客人您觉得如何呢？弊店的商品里，我觉得这边这件黑色的泳装很适合您......
-72,,ありがとう。<br>形は好みだが、<br>色は白と決めていてな……,谢谢你。形状我很喜欢，但我已经决定要白色的......
-73,,<span class='scene-font-kokoro'>（一度出直すか……</span><br><span class='scene-font-kokoro'>どうもあの一着が脳裏に焼きついて</span><br><span class='scene-font-kokoro'>何を見てもピンとこない）</span>,<span class='scene-font-kokoro'>（还是下次再来吧......那件泳装留下的印象太深了，其他看什么都不来电。）</span>
+69,,<span class='scene-font-kokoro'>（惜しい事をした……</span><br><span class='scene-font-kokoro'>これも管理職の宿命か……）</span>,<span class='scene-font-kokoro'>（太可惜了……这也是管理人员的命运吗……）</span>
+70,,はぁ……,唉……
+71,,いかがですか、お客様。<br>店にあるものでしたら、こちらの<br>黒い水着もお似合いかと存じますが……,客人您觉得如何呢？弊店的商品里，我觉得这边这件黑色的泳装很适合您……
+72,,ありがとう。<br>形は好みだが、<br>色は白と決めていてな……,谢谢你。形状我很喜欢，但我已经决定要白色的……
+73,,<span class='scene-font-kokoro'>（一度出直すか……</span><br><span class='scene-font-kokoro'>どうもあの一着が脳裏に焼きついて</span><br><span class='scene-font-kokoro'>何を見てもピンとこない）</span>,<span class='scene-font-kokoro'>（还是下次再来吧……那件泳装留下的印象太深了，其他看什么都不来电。）</span>
 76,,ご免ください！<br>遅くなってすみません。,有人吗！很抱歉，迟到了。
 77,,ごめんなさい、<br>私達の依頼が長引いて<br>到着が遅くなってしまいました。,对不起，我们的委托拖的时间太长导致来的晚了。
-78,,<span class='scene-font-kokoro'>（ん？　この声は……）</span>,<span class='scene-font-kokoro'>（嗯？这个声音是......）</span>
+78,,<span class='scene-font-kokoro'>（ん？　この声は……）</span>,<span class='scene-font-kokoro'>（嗯？这个声音是……）</span>
 79,,お待ちしておりました！<br>閉店時間に間に合ってよかったです。,我一直在等您！很高兴及时赶上关门时间。
 80,,ご注文いただいた品はこちらです。<br>状態をチェックしていただいても<br>よろしいかしら？,您订购的商品在这里。可以请您检查一下状态吗？
 82,,やはり姬塔達だったか。<br>元気にしていたか？,果然是姬塔你们啊？最近还好吗？
@@ -69,11 +69,11 @@ id,en,jp,trans
 113,,任務だから厳しくしているだけだ。<br>仕事を終えれば服も買うし、<br>甘い物を食べる事だってある。,因为是任务所以才严厉的。工作结束了的话我也会买东西，也会去吃甜食。
 114,,ところで、姬塔達は<br>何故この島に来たんだ？,话说回来，你们为什么来这个岛？
 115,,仕立て屋の姉ちゃんの依頼で<br>服を納品しに来たんだ。,我们是应裁缝姐姐的要求来送衣服的。
-116,,彼女……<br>仕立て屋なのか。,她......是裁缝？
+116,,彼女……<br>仕立て屋なのか。,她……是裁缝？
 117,,<span class='scene-font-katari'>イルザは店主と話をする</span><br><span class='scene-font-katari'>コルワに目を向ける。</span>,<span class='scene-font-katari'>伊尔莎将目光转向正在和店主交谈的可露瓦。</span>
 118,,状態はどれも問題ありません。<br>それにしても、コルワさんのデザインは<br>本当にどれも素敵ですね！,每件衣服状态都很好，没有问题。话说回来，可露瓦小姐的设计真是每件都很棒！
 119,,ご好評いただけているようで光栄です。<br>次のオーダーも<br>尽力させていただきますね！,能受好评我觉得很荣幸。下次订单我也会尽力完成的！
-120,,コルワ……？,可露瓦......？
+120,,コルワ……？,可露瓦……？
 121,,あの水着を作ったデザイナーなのか！？,制作了那件泳装的设计师吗！？
 122,,<span class='scene-font-katari'>コルワの名前を聞いた瞬間</span><br><span class='scene-font-katari'>イルザは顔色を変えて</span><br><span class='scene-font-katari'>店主とコルワのそばへ駆け寄る。</span>,<span class='scene-font-katari'>听到可露瓦的名字以后，伊尔莎瞬间变了脸色，赶到店主和可露瓦身边。</span>
 123,,すまない、<br>少しいいだろうか？,抱歉打扰一下，方便说话吗？
@@ -93,33 +93,33 @@ id,en,jp,trans
 137,,うーん、そうですね……,嗯……我想想……
 138,,急なお願いだという事は<br>重々承知だが、<br>やはり厳しいだろうか？,我知道这个委托很突然，是不是真的很难做到？
 139,,恐れ入りますが、<br>少々お待ちください。,对不起，请稍等。
-140,,……もう他は仕上がっているし、<br>お針子さんの手は……<br>うん、ここで空くわ。,......其他的订单已经完成了，缝工也......嗯，这时候会空出来。
-141,,イメージさえ固まれば……,只要形象固定下来......
-142,,……うん、一着いける！,......嗯，可以再做一件！
+140,,……もう他は仕上がっているし、<br>お針子さんの手は……<br>うん、ここで空くわ。,……其他的订单已经完成了，缝工也……嗯，这时候会空出来。
+141,,イメージさえ固まれば……,只要形象固定下来……
+142,,……うん、一着いける！,……嗯，可以再做一件！
 143,,大丈夫です、オーダーメイドの方<br>引き受けさせていただきます！,没关系，我接受您的订单！
-144,,……！<br>ありがとう！,......！谢谢！
+144,,……！<br>ありがとう！,……！谢谢！
 145,,<span class='scene-font-katari'>コルワは白紙のページを開き、</span><br><span class='scene-font-katari'>羽根ペンで必要事項を書き連ねる。</span>,<span class='scene-font-katari'>可露瓦把笔记本翻到空白页，用羽毛笔开始列举必要事项。</span>
 146,,折角のオーダーメイドですもの、<br>デザインに関して何か<br>ご要望があればお聞かせください。,难得遇到手工订制，如果您对设计有什么要求的话请说。
 147,,先ほどご覧になった一着に、<br>何か加えたい部分は<br>ございませんでしたか？,刚才您看到的那件泳装，以那件为基础有没有什么想要添加的部分？
-148,,願ったり叶ったりだ。<br>実はここがこうだったらより好みだと<br>考えていた部分があってな……,这正合我心意。其实有几个部分我有些想法，这样改会更加符合我的口味......
+148,,願ったり叶ったりだ。<br>実はここがこうだったらより好みだと<br>考えていた部分があってな……,这正合我心意。其实有几个部分我有些想法，这样改会更加符合我的口味……
 149,,<span class='scene-font-katari'>イルザは店にあったコルワ作の</span><br><span class='scene-font-katari'>水着を並べ、細かな装飾について</span><br><span class='scene-font-katari'>要望を伝える。</span>,<span class='scene-font-katari'>伊尔莎将店里可露瓦制作的泳装并列排开，向她说明装饰上的细节。</span>
 150,,胸元はこの水着のように<br>網目になっているものがいい。<br>水色のラインは金色にしてほしい。,胸部我希望可以像这种泳衣一样是网状的。这个水色的线条改成金色。
 151,,かしこまりました。<br>腰回りの形はいかがでしょう？<br>今少しすっきりさせてもお似合いかと。,明白了。腰围的形状怎么样？把它改的更简洁一点我觉得也挺适合您。
 152,,少し丈を短くしてほしい。<br>薄手の生地にしてもらいたいが<br>出来そうか？,我希望可以缩短一点。能不能用轻薄的面料？
 153,,ええ！　勿論です。<br>布のサンプルをご覧になりますか？<br>好みをお聞かせ願えればと。,当然可以。你想看布料的样品吗？我想知道您的喜好。
 154,,サンプルを持ち歩いているのか？<br>ありがたい、拝見しよう。,你带着样品吗？谢天谢地，让我看看吧。
-155,,……ふむ、これは手触りが……,......嗯，这个触感有点......
+155,,……ふむ、これは手触りが……,……嗯，这个触感有点……
 156,,イルザさん、<br>すごいこだわりですね！,伊尔莎小姐，非常讲究呢！
 157,,むしろ、オーダーメイドして<br>もらえる事になって<br>よかったんじゃねぇか？,不如说，泳装能定制让她觉得很高兴吧？
 158,,<span class='scene-font-katari'>イルザとコルワの打ち合わせは</span><br><span class='scene-font-katari'>閉店間際まで続けられた。</span>,<span class='scene-font-katari'>伊尔莎和可露瓦的交流一直持续到关店。</span>
 169,,<span class='scene-font-katari'>そして暫く経った後、</span><br><span class='scene-font-katari'>完成した水着を店主から受け取った</span><br><span class='scene-font-katari'>イルザは自室で試着してみた。</span>,<span class='scene-font-katari'>过了几天，伊尔莎从店主处收到完成的泳装，在自己的房间进行了试穿。</span>
-185,,ふふふ、素晴らしい……<br>完璧じゃないか！,呵呵呵，精彩......简直完美！
+185,,ふふふ、素晴らしい……<br>完璧じゃないか！,呵呵呵，精彩……简直完美！
 186,,<span class='scene-font-kokoro'>（こちらのマントもいい具合だ。</span><br><span class='scene-font-kokoro'>これなら、私の銃ニバスを</span><br><span class='scene-font-kokoro'>提げていても問題ない）</span>,<span class='scene-font-kokoro'>（这边的斗篷也很好，如果有这个，带上我的枪尼巴斯应该也没什么问题）</span>
 187,,<span class='scene-font-katari'>姿見鏡の前に立ち、</span><br><span class='scene-font-katari'>イルザは様々なポーズを取って</span><br><span class='scene-font-katari'>コーディネートをチェックする。</span>,<span class='scene-font-katari'>伊尔莎站在镜子前，摆出各种姿势检查搭配。</span>
 188,,<span class='scene-font-kokoro'>（仕事が長引いてコルワ殿の到着時間に</span><br><span class='scene-font-kokoro'>間に合わなかった事が惜しまれる。</span><br><span class='scene-font-kokoro'>店で直接会って礼が言いたかった）</span>,<span class='scene-font-kokoro'>（工作时间拖长导致我没赶上可露瓦阁下到店里的时间，太可惜了，我还想在店里向她亲自道谢的。）</span>
 189,,<span class='scene-font-kokoro'>（せめて手紙でも書こう。</span><br><span class='scene-font-kokoro'>でなければ私の気持ちが収まらん）</span>,<span class='scene-font-kokoro'>（至少写封信道谢好了，不然我过意不去。）</span>
 190,,<span class='scene-font-katari'>イルザは便箋を選び、</span><br><span class='scene-font-katari'>姬塔姬塔と感謝の思いを書き連ねる。</span>,<span class='scene-font-katari'>伊尔莎选好信纸，不断写下她的感激之情。</span>
 191,,<span class='scene-font-kokoro'>（こんな素晴らしい水着がありながら</span><br><span class='scene-font-kokoro'>リゾート地に行って休みを取らないのは</span><br><span class='scene-font-kokoro'>勿体なさすぎる）</span>,<span class='scene-font-kokoro'>（有这么出色的泳装却不能去休假地休假也太浪费了）</span>
-192,,<span class='scene-font-kokoro'>（決めたぞ……</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-kokoro'>での訓練後に休暇を取る。</span><br><span class='scene-font-kokoro'>１日だけでも、絶対だ！）</span>,<span class='scene-font-kokoro'>（我决定了......一定要在奥格斯提的训练结束后休假。就算只有一天，也绝对要休！）</span>
+192,,<span class='scene-font-kokoro'>（決めたぞ……</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-kokoro'>での訓練後に休暇を取る。</span><br><span class='scene-font-kokoro'>１日だけでも、絶対だ！）</span>,<span class='scene-font-kokoro'>（我决定了……一定要在奥格斯提的训练结束后休假。就算只有一天，也绝对要休！）</span>
 193,,<span class='scene-font-katari'>手紙を書きながらイルザは</span><br><span class='scene-font-katari'>固く決意するのだった。</span>,<span class='scene-font-katari'>伊尔莎一边写信，一边下决心。</span>
 info,,1,scene_fate_chr471_ep1

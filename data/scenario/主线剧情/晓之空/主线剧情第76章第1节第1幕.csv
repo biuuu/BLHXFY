@@ -2,15 +2,15 @@
 0-chapter_name,76: A Crew Divided,第76章　分かたれた仲間,76：四散的骑空团
 0-synopsis,"Drang attempts to escape from the Istavion Troop fortress, but Anissida appears before he can reach the exit. She calmly advises him to stay in his cell, and after Drang sees the fearsome landscape, he walks back without a peep.",捕えられていた牢から抜け出し砦の出口を目指すドランクの前にアニシダが現れる。逃亡を図るドランクを捕まえるかと思いきや、アニシダは余裕の態度を見せながら出口への道を譲る。不可解に思いながらもドランクが砦の扉を開けると、目の前には想像を絶する光景が広がっていた。アニシダの余裕を理解したドランクは、何かを思案しながら再び牢へと戻るのだった。,德朗克试图从被关押的牢狱离开，以据点出口为目的地的他遇到了在那出现的阿妮西达。尝试逃狱的德朗克以为自己会再度被捕，但是阿妮西达却游刃有余地让出了通向出口的路。德朗克感到不可思议地打开了据点的大门，无法预想的景象展现在了他面前。德朗克这才理解了阿妮西达的余裕从何而来，若有所思的他回到了牢中。
 1,"Hey, you found him yet?",おい、見つかったか！？,喂，找到他了吗？
-2,Nope. He hasn't come this way...,いや、こっちにはいない……,不，他没往这边来......
+2,Nope. He hasn't come this way...,いや、こっちにはいない……,不，他没往这边来……
 3,Blast it! Where did that Erune go?,くそ……<br>どこに逃げたんだ、<br>あのエルーンは……！,可恶！那个狐族的家伙到底去哪儿了？
 4,The fortress is bustling with soldiers in a frenzied search.,<span class='scene-font-katari'>その砦の内部は、</span><br><span class='scene-font-katari'>奔走する兵士達によって、</span><br><span class='scene-font-katari'>慌ただしさに包まれていた。</span>,<span class='scene-font-katari'>据点的内部，士兵们慌忙地四处奔走。</span>
 5,The Erune detained by Captain Anissida and Captain Hailak was being held in a prison cell.,<span class='scene-font-katari'>砦の牢には、アニシダ大尉、</span><br><span class='scene-font-katari'>ハイラック少尉の両名が連行した、</span><br><span class='scene-font-katari'>エルーンの男が投獄されていた。</span>,<span class='scene-font-katari'>这座大牢之前关押着阿妮西达大尉和海拉克少尉两人带来的狐族男子。</span>
 6,"But when the guard turned his back, their prisoner vanished the very next moment.",<span class='scene-font-katari'>しかし、看守が目を離した隙を突き、</span><br><span class='scene-font-katari'>エルーンの男は、</span><br><span class='scene-font-katari'>煙のように消え失せてしまったのだった。</span>,<span class='scene-font-katari'>但是趁着看守的不注意，狐族男像是化为烟雾从那里逃脱了。</span>
 7,"He couldn't have left the fortress already, could he?",まさか、<br>すでにこの砦から逃げたのか……？,难道说已经从这个据点离开了吗？
-8,"No, there's no way that he...",いや、それは……,不，那是没办法的......
+8,"No, there's no way that he...",いや、それは……,不，那是没办法的……
 9,Hey! You know I just saw that Erune chap near the exit...,ねぇねぇ、さっき出口の近くで、<br>そのエルーンを<br>見かけたんだけどさぁ……,ねぇねぇ，刚才在出口附近看到那个狐族男了。
-10,What! Then we'd better hurry...<br>Wait! It's you!,なにっ！？<br>じゃあ、我々もすぐに……<br>なっ！？　お、お前……っ！！,什么！那我们快点......等等！你是......
+10,What! Then we'd better hurry...<br>Wait! It's you!,なにっ！？<br>じゃあ、我々もすぐに……<br>なっ！？　お、お前……っ！！,什么！那我们快点……等等！你是……
 14,Nghh!,がはっ！？,嘎哈！
 16,Drang knocks out both soldiers at once before taking a hard long look in the direction they were headed.,<span class='scene-font-katari'>二人の兵士を気絶させると、</span><br><span class='scene-font-katari'>ドランクは兵士の</span><br><span class='scene-font-katari'>向かおうとしていた方向を睨む。</span>,<span class='scene-font-katari'>德朗克击晕了两名士兵，看向了士兵目光所示的方向。</span>
 17,"So the exit's that way, eh?",あっちが出口ね……,那边就是出口呢。
@@ -38,7 +38,7 @@
 47,But I doubt even you could've guessed what's beyond that door.,でも、流石のアンタも、<br>これは想定してなかったろ？,但是就算是你也没猜到门外面的情况吧。
 48,"When I first heard there was a fortress out here, I couldn't believe my ears.",こんな場所に砦があるって<br>聞かされた時は、<br>正直、アタシも耳を疑ったからね……,我第一次听到这个地方有据点的时候，说实话，也在怀疑自己的耳朵是不是出毛病了。
 49,Anissida closes the fortress door as she speaks.,<span class='scene-font-katari'>アニシダはドランクの前で、</span><br><span class='scene-font-katari'>何事もなかったかのように、</span><br><span class='scene-font-katari'>砦の扉を閉める。</span>,<span class='scene-font-katari'>像是什么都没发生似的，阿妮西达关上了据点的大门。</span>
-50,"Ah... Yes, I see now! That's why you were playing it cool, eh?",な……る、ほどねぇ～……<br>その余裕は、<br>こういうことだったんだ？,原...来如此呢~......那份余裕就是因为这么回事吗。
+50,"Ah... Yes, I see now! That's why you were playing it cool, eh?",な……る、ほどねぇ～……<br>その余裕は、<br>こういうことだったんだ？,原...来如此呢~……那份余裕就是因为这么回事吗。
 51,You got it. Didn't I tell you? It's for your own good.,正解。<br>だから言ったろ？<br>やめておいたほうが身のためだって。,你说对了。所以我不是说了吗，为自己着想还是别这么干。
 52,"I know the soup's not to your liking, but you can't escape. So just stick around and behave.",スープはお気に召さないみたいだけど、<br>アンタじゃ逃げられないんだ、<br>大人しくしてなよ。,虽然这里的汤确实不合你口味，但是你也跑不掉，老老实实呆在这吧。
 53,"Anissida then steps in line behind Drang, as if she's ready to escort him back to his cell.",<span class='scene-font-katari'>そう言ってアニシダは、</span><br><span class='scene-font-katari'>追い立てるようにドランクの背後に回る。</span>,<span class='scene-font-katari'>阿妮西达如此说道，然后她站在了德朗克身后，打算把他押解回牢房。</span>

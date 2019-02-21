@@ -3,8 +3,8 @@ id,en,jp,trans
 0-synopsis,"姬塔 and company cross blades with Baragona. Pleased with their strength, Baragona gives them his regards and says he must return to his duties. Knowing they won't be able to meet the Blue Knight here, the crew decides to head to Amalthea. The next morning, however, some of the crew don't show at breakfast. When they go to awaken them, they find Rackam with no memory of 姬塔 or the rest of the crew.",バラゴナと刃を交えた姬塔一行。どうにもバラゴナには及ばないが、その強さに満足げな笑みを浮かべたバラゴナは、任務へと戻っていく。その後、碧の騎士と会うことが出来ないと知った一行は<span class='scene-font-place'>アマルティア</span>へと戻ることを決めるが、その翌朝、朝食の時間になっても一部の仲間達は姿を現さず、さらにラカムからは姬塔達の記憶が失われていたのだった。,与巴拉戈纳全力交手的姬塔等人，无论如何都不及巴拉戈纳的力量。但是对于众人的强大感到满足的巴拉戈纳脸上浮现了笑容，然后回到自己任务中去了。在那之后，知道了无法与碧之骑士会面的一行人决定返回阿玛提亚岛。返程的清早，到了早饭时间还有一部分伙伴没有现身，而拉卡姆甚至失去了姬塔等人有关的的记忆！
 1,"姬塔 and company face-off against the Scarlet Knight Baragona, one of the Luminary Knights.",<span class='scene-font-katari'>七曜の騎士がひとり、</span><br><span class='scene-font-katari'>緋色の騎士バラゴナに</span><br><span class='scene-font-katari'>勝負を挑んだ姬塔一行。</span>,<span class='scene-font-katari'>姬塔一行人挑战七曜骑士之一的绯之骑士巴拉戈纳。</span>
 2,"Using teamwork, the crew diverts Baragona's guard and 姬塔 strikes him at full power.",<span class='scene-font-katari'>姬塔の渾身の一撃が、</span><br><span class='scene-font-katari'>仲間達が生み出した隙を突き、</span><br><span class='scene-font-katari'>バラゴナを襲う。</span>,<span class='scene-font-katari'>姬塔利用伙伴们创造出的机会用尽全力击中了巴拉戈纳。</span>
-3,Hargh!,むっ……！,嗯......！
-9,"Whew... Well, that was impressive.",ふ……いや、やはり大したものだ。,呼......呀，真是不得了啊。
+3,Hargh!,むっ……！,嗯……！
+9,"Whew... Well, that was impressive.",ふ……いや、やはり大したものだ。,呼……呀，真是不得了啊。
 10,"Tch... That wasn't bad, but we still can't hold a candle to you.",ちっ……<br>わかっちゃあいたが、<br>まだまだ足元にも及ばねぇか……？,虽然还不坏，但是还是相差很远吗。
 11,Baragona seems pleased as he sheathes his blade.,<span class='scene-font-katari'>上機嫌そうな笑みを浮かべると、</span><br><span class='scene-font-katari'>バラゴナは自らの剣を納める。</span>, <span class='scene-font-katari'>看起来很高兴的巴拉戈纳自行收起了剑。
 12,I wouldn't say that. You're growing so powerful that you'll catch up to him in no time.,そんなことはありません。<br>貴方達の力は確実に、<br>あの人の域にまで近づきつつあります。,没有这回事。你们的力量确确实实正在逐渐接近那个人的领域。
@@ -12,7 +12,7 @@ id,en,jp,trans
 14,,,就是说，以我们骑空团全体之力，总算是可以和姬塔的父亲相提并论了吗？
 15,"So, you're saying we're only a match for 姬塔's father if we fight him as a team?",つ、つまり……騎空団全体の力で<br>ようやく姬塔の父君ひとりと<br>比べることが出来る、ということか……？,就是说，以我们骑空团全体之力，总算是可以和姬塔的父亲相提并论了吗？
 16,Hey! Isn't that kind of unfair?,なにそれ……！<br>そんなの反則じゃないの！？,这算什么啊！这不犯规了吗？
-17,"That's what everyone said about him, too! That he's unfair and rash.",ふふ……あの人と戦った相手は、<br>皆そう言ってたわ……<br>理不尽だ、ありえない、って……,呵呵......和那个人战斗过的对手都是这么说的呀，不讲道理啊，不可能啊之类的。
+17,"That's what everyone said about him, too! That he's unfair and rash.",ふふ……あの人と戦った相手は、<br>皆そう言ってたわ……<br>理不尽だ、ありえない、って……,呵呵……和那个人战斗过的对手都是这么说的呀，不讲道理啊，不可能啊之类的。
 18,"But if we can't win alone, we'll just have to get stronger together!",でも……ひとりの力で勝てなくたって、<br>それなら、<br>みんなで強くなればいいんです！,但是一个人的力量赢不了的话，大家一起足够强大就可以了。
 19,Yep! That's our strategy!,だなっ！<br>これがオイラ達の戦い方だぜ！,是呀！这就是我们的战斗方式。
 20,Then I look forward to seeing you again.,ふふ……<br>再び相見えるのが、<br>待ち遠しくなってしまいますね。,哈哈，我已经等不及下一次再见了呢。
@@ -34,7 +34,7 @@ id,en,jp,trans
 47,Later that night...,<span class='scene-font-katari'>その夜――</span>,<span class='scene-font-katari'>那天晚上...
 48,"Unseen in the dark, a knight glares out at the rocky island chain.",<span class='scene-font-katari'>闇夜に紛れるようにして、</span><br><span class='scene-font-katari'>ひとりの騎士が、</span><br><span class='scene-font-katari'>歪な列島を睨みつけていた。</span>,<span class='scene-font-katari'>与黑夜一体的独自一人的骑士，注视着这座扭曲的岛屿。</span>
 49,There's no mistaking it.,……間違いない。,没有错。
-50,This... is going to get ugly.,これは……マズイことになったな。,这......恐怕变成了麻烦的事态了。
+50,This... is going to get ugly.,これは……マズイことになったな。,这……恐怕变成了麻烦的事态了。
 51,Her murmurs go unheard as they fade into the fog of the night.,<span class='scene-font-katari'>その呟きは夜霧に紛れ、</span><br><span class='scene-font-katari'>誰の耳にも届くことなく、</span><br><span class='scene-font-katari'>空へと散っていく。</span>,<span class='scene-font-katari'>这句话也溶进了黑夜之中，没有传到任何人的耳中，在空中消散了。</span>
 57,"Morning has come, so 姬塔 and company prepare to leave the station.",<span class='scene-font-katari'>そうして姬塔一行は、</span><br><span class='scene-font-katari'>秩序の騎空団の駐屯所で、</span><br><span class='scene-font-katari'>朝を迎えるが……</span>,<span class='scene-font-katari'>然后姬塔一行人就在秩序骑空团的驻扎所中迎来了清晨。</span>
 60,Huh? Is this everybody?,あれ……これだけか？,咦？只有这么几个人吗？
