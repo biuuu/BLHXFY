@@ -102,8 +102,9 @@ gulp.task('move:html', ['clean:dist'], function () {
     .pipe(gulp.dest('./dist/blhxfy/data/'))
 })
 
-gulp.task('move:lecia', ['clean:dist'], function () {
-  return gulp.src('./src/lecia.html')
+gulp.task('move:lacia', ['clean:dist'], function () {
+  fs.copySync('./src/lacia.html', './dist/blhxfy/lecia.html')
+  return gulp.src('./src/lacia.html')
     .pipe(gulp.dest('./dist/blhxfy/'))
 })
 
@@ -152,7 +153,7 @@ gulp.task('cname', ['clean:dist'], function () {
 
 gulp.task('pack', [
   'move:static',
-  'move:lecia',
+  'move:lacia',
   'move:html',
   'move:etccsv',
   'move:normalcsv',
