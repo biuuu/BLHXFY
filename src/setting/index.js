@@ -22,6 +22,7 @@ const saveToLocalstorage = (key, value) => {
     data = {}
   }
   data[key] = value
+  config[key] = value
   localStorage.setItem('blhxfy:setting', JSON.stringify(data))
 }
 
@@ -37,13 +38,15 @@ const keyMap = new Map([
   ['keep-bgm', 'keepBgm'],
   ['trans-api', 'transApi'],
   ['font', 'font'],
-  ['font-bold', 'fontBold']
+  ['font-bold', 'fontBold'],
+  ['plain-text', 'plainText']
 ])
 
 const setting = (type, value) => {
   if (type === 'show') {
     for (let [id, key] of keyMap) {
       const ipt = $(`#${id}-setting-blhxfy`)
+      if (!ipt.length) continue
       if (ipt.attr('type') === 'checkbox') {
         ipt[0].checked = config[key]
       } else if (ipt[0].tagName.toUpperCase() === 'SELECT') {
@@ -70,6 +73,6 @@ const setting = (type, value) => {
   }
 }
 
-const dbSetting = debounce(setting, 500)
+const dbSetting = debounce(setting, 300)
 
 export default dbSetting

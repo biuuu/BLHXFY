@@ -17,6 +17,7 @@ const config = {
   fontBold: false,
   transApi: 'caiyun',
   timeout: 8,
+  plainText: false,
   autoDownload: false,
   bottomToolbar: false,
   removeScroller: true,
@@ -38,7 +39,7 @@ const getLocalConfig = () => {
   }
   const keys = [
     'autoDownload', 'bottomToolbar', 'displayName', 'removeScroller', 'hideSidebar',
-    'transJa', 'transEn', 'keepBgm', 'transApi', 'font', 'fontBold'
+    'transJa', 'transEn', 'keepBgm', 'transApi', 'font', 'fontBold', 'plainText'
   ]
   keys.forEach(key => {
     let value = setting[key]
