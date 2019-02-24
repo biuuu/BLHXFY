@@ -189,6 +189,8 @@ body .pop-filter-enhancement .btn-usual-ok::after,
 .pop-filter-setting .btn-usual-ok::after {
   content: '选择完成';
 }
+body #lis-inner-weapon .btn-item.selected::before,
+body #lis-inner-summon .btn-item.selected::before,
 body .prt-listup .prt-list-item .btn-item.selected::before {
   content: '选择中';
 }
@@ -568,6 +570,10 @@ body .prt-scene-comment .prt-message-area {
 
 .contents .scene-font-gray {
   color: #b0aead
+}
+
+body .prt-request-info .txt-request {
+  overflow: visible;
 }
 
 #box-sub-blhxfy {
