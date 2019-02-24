@@ -179,11 +179,21 @@ body .pop-check-point .prt-popup-footer .btn-usual-ok:after {
 body .pop-confirm .prt-popup-footer .btn-usual-ok.exchange:after {
   content: '交换';
 }
-body .pop-filter-enhancement .btn-usual-cancel::after, .pop-filter-setting .btn-usual-cancel::after {
+body .pop-sort-enhancement .btn-usual-cancel::after,
+body .pop-filter-enhancement .btn-usual-cancel::after,
+.pop-filter-setting .btn-usual-cancel::after {
     content: '返回排序设置';
 }
-body .pop-filter-enhancement .btn-usual-ok::after, .pop-filter-setting .btn-usual-ok::after {
+body .pop-sort-enhancement .btn-usual-ok::after,
+body .pop-filter-enhancement .btn-usual-ok::after,
+.pop-filter-setting .btn-usual-ok::after {
   content: '选择完成';
+}
+body .prt-listup .prt-list-item .btn-item.selected::before {
+  content: '选择中';
+}
+body .pop-recommend-setting.pop-usual .prt-popup-footer .btn-usual-ok::after {
+  content: '设置';
 }
 body .pop-set-sort-filter .btn-usual-ok::after {
   content: '显示';
