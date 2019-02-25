@@ -63,6 +63,13 @@ export default async function translate(state) {
     } else if (pathname.includes('/rest/multiraid/start.json')) {
       data = await transChat(data)
       data = await transBattle(data)
+    } else if (
+      pathname.includes('/rest/multiraid/ability_result.json')
+      || pathname.includes('/rest/multiraid/temporary_item_result.json')
+      || pathname.includes('/rest/multiraid/normal_attack_result.json')
+      || pathname.includes('/rest/multiraid/summon_result.json')
+    ) {
+      data = await transBattle(data, 'result')
     } else if (/\/rest\/.*?raid\/condition\/\d+\/\d\/\d\.json/.test(pathname)) {
       await transBuff(data.condition)
     } else if (pathname.includes('/user/status')) {

@@ -18,10 +18,17 @@ const getSkillData = async (id) => {
     list.forEach(item => {
       if (item && item.id) {
         const _id = trim(item.id)
-        if (_id) skillMap.set(_id, {
-          name: filter(trim(item.name)),
-          detail: filter(trim(item.detail))
-        })
+        const _en = trim(item.en)
+        const _ja = trim(item.ja)
+        if (_id) {
+          const value = {
+            name: filter(trim(item.name)),
+            detail: filter(trim(item.detail))
+          }
+          skillMap.set(_id, value)
+          if (_ja) skillMap.set(_ja, value)
+          if (_en) skillMap.set(_en, value)
+        }
       }
     })
     loaded = true

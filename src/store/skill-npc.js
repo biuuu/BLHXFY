@@ -3,6 +3,7 @@ import parseCsv from '../utils/parseCsv'
 import sortKeywords from '../utils/sortKeywords'
 import filter from '../utils/XSSFilter'
 import { trim } from '../utils/'
+import { getLocalData, setLocalData } from './local-data'
 
 const skillMap = new Map()
 
@@ -22,6 +23,7 @@ const keys = ['skill-1', 'skill-2', 'skill-3', 'skill-4', 'special']
 const state = {
   status: 'init',
   cStatus: 'init',
+  locSkMap: false,
   skillMap,
   skillKeys,
   skillData: null,
@@ -45,6 +47,22 @@ const getCommSkillMap = async () => {
     }
   })
   state.cStatus = 'loaded'
+}
+
+const saveSkillMap = async (skillMap) => {
+  const arr = [...skillMap].slice(-20)
+  setLocalData('skill-npc', JSON.stringify(arr))
+}
+
+const getSkillMap = () => {
+  const str = getLocalData('skill-npc')
+  try {
+    const arr = JSON.parse(str)
+    state.skillMap = new Map(arr)
+    state.locSkMap = true
+  } catch (e) {
+
+  }
 }
 
 const setSkillMap = (list, stable = true) => {
@@ -71,7 +89,8 @@ const setSkillMap = (list, stable = true) => {
 }
 
 const getSkillData = async (npcId) => {
-  await getCommSkillMap()
+  if (!state.locSkMap) getSkillMap()
+  if (state.skillMap.has(npcId)) return state
   if (!state.skillData) {
     state.skillData = await fetchData('/blhxfy/data/skill.json')
   }
@@ -108,4 +127,4 @@ const getLocalSkillData = (npcId) => {
 }
 
 export default getSkillData
-export { skillKeys, getLocalSkillData }
+export { skillKeys, getLocalSkillData, getCommSkillMap }

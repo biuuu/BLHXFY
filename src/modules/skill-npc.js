@@ -1,4 +1,4 @@
-import getSkillData, { skillKeys, getLocalSkillData } from '../store/skill-npc'
+import getSkillData, { skillKeys, getLocalSkillData, getCommSkillMap } from '../store/skill-npc'
 import replaceTurn from '../utils/replaceTurn'
 import transBuff from './buff'
 import { splitSingleLineSkill } from '../utils/'
@@ -174,6 +174,7 @@ const parseSkill = async (data, pathname) => {
     if (!translated.get(item[0])) {
       const skill = data[item[0]]
       if (skill) {
+        await getCommSkillMap()
         skill.comment = transSkill(skill.comment, skillState)
       }
     }
