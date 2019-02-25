@@ -1,5 +1,6 @@
 import fetchData from '../fetch'
 import parseCsv from '../utils/parseCsv'
+import { getLocalData, setLocalData } from './local-data'
 import filter from '../utils/XSSFilter'
 import { trim } from '../utils/'
 
@@ -8,7 +9,11 @@ let loaded = false
 
 const getSkillData = async (id) => {
   if (!loaded) {
-    const csv = await fetchData('/blhxfy/data/job-skill.csv')
+    let csv = await getLocalData('job-skill')
+    if (!csv) {
+      csv = await fetchData('/blhxfy/data/job-skill.csv')
+      setLocalData('job-skill', csv)
+    }
     const list = parseCsv(csv)
     list.forEach(item => {
       if (item && item.id) {

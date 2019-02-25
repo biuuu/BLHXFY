@@ -7,6 +7,7 @@ import transHTML from './modules/content-html'
 import transTownInfo from './modules/town-info'
 import transIslandInfo from './modules/island-info'
 import transChat from './modules/chat-preset'
+import transBattle from './modules/battle'
 import transBuff from './modules/buff'
 import pageIndex, { replaceHour } from './modules/page-index'
 import showVoiceSub from './modules/voice-sub'
@@ -61,6 +62,7 @@ export default async function translate(state) {
       await showVoiceSub(data, pathname, 'list')
     } else if (pathname.includes('/rest/multiraid/start.json')) {
       data = await transChat(data)
+      data = await transBattle(data)
     } else if (/\/rest\/.*?raid\/condition\/\d+\/\d\/\d\.json/.test(pathname)) {
       await transBuff(data.condition)
     } else if (pathname.includes('/user/status')) {
