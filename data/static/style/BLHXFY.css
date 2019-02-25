@@ -206,6 +206,18 @@ body .prt-buttons .btn-remove::after, .prt-buttons-enhance .btn-remove::after {
 body .prt-buttons .btn-change.party-weapon::after, .prt-buttons-enhance .btn-change.party-weapon::after {
   content: "更换武器";
 }
+body .btn-tweet-post:after {
+  content: '发送';
+}
+body .pop-start-assist .btn-check.all::before {
+  content: '全体';
+}
+body .pop-start-assist .btn-check.friend::before {
+  content: '好友';
+}
+body .pop-start-assist .btn-check.guild::before {
+  content: '骑空团';
+}
 body .prt-buttons .btn-remove-cancel::after,
 body .prt-buttons .btn-back-cancel::after,
 body .prt-buttons-enhance .btn-remove-cancel::after,
