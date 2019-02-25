@@ -1,0 +1,67 @@
+﻿id,name,text,trans
+0-chapter_name,,虚の穴,虚之穴
+0-synopsis,,ゴーレム達を倒し、崖下へ転がり落ちる部品には、フュリアスが研究する光る石、すなわち結晶の破片も混ざっていた。石を追って立ち去るフュリアスと帝国兵達。依頼を果たした姬塔一行は、今度はルナの捜索へと向かう。一方、眠り込んでいたルナの元には光る石が転がってきていた。綺麗な石にはしゃぐルナの傍らで虚空に穴が開く。ルナは中から現れた髑髏の剣士モルディカイと邂逅するのだった。,打败魔偶们后，弗里亚斯研究的发光石头，也就是结晶的碎片滚下了悬崖。弗里亚斯命令帝国兵们找回石头而离开。完成委托的姬塔一行这次出发前去寻找露娜。发光的石头滚落到熟睡的露娜身边，在她身旁打开了一个洞。露娜遇见了从洞里出现的骷髅剑士莫迪凯。
+0,ゴーレム,────！！,────！！
+4,アリサ/亚丽莎,ふぅっ！<br>姬塔さん！<br>やったね！,呼！姬塔！太好了！
+5,フュリアス/弗里亚斯,ボクのゴーレムが……！,我的魔偶……！
+6,ビィ/碧,へへん！<br>どんなもんだってんだ！,嘿嘿！也不过如此嘛！
+7,,<span class='scene-font-katari'>倒れたゴーレムから飛び散った部品が</span><br><span class='scene-font-katari'>崖下へと転がっていく。</span>,<span class='scene-font-katari'>从魔偶中飞出的零件都向悬崖下滚落。</span>
+8,,<span class='scene-font-katari'>その中に光る物があるのを見て</span><br><span class='scene-font-katari'>フュリアスの顔色が変わった。</span>,<span class='scene-font-katari'>弗里亚斯看到里面发光的东西，脸色大变。</span>
+9,フュリアス/弗里亚斯,…………！<br>石が！,……！石头！
+10,フュリアス/弗里亚斯,ふ……ふざけんなよ！<br>おい！　お前ら！<br>あの石なくなっちゃったじゃないか！,别……别开玩笑了！喂！你们几个！那个石头要没了！
+11,フュリアス/弗里亚斯,他の実験もしたかったんだからな！<br>探して来いよ！,我还想做别的实验啊！快去找回来！
+12,帝国兵/帝国士兵,は……はっ！,是……是的！
+15,フュリアス/弗里亚斯,あれが割れたりしたら<br>全部パーなんだぞ！<br>おい！　聞いてんのかよ！,那个坏了的话，我们全都要完蛋！喂！听到了吗？
+17,,<span class='scene-font-katari'>姬塔らには目もくれず、</span><br><span class='scene-font-katari'>帝国軍の面々はゴーレムから飛び出した</span><br><span class='scene-font-katari'>石を追って走り出した。</span>,<span class='scene-font-katari'>帝国军们对姬塔一行视而不见，向着魔偶中飞出的石头追了上去。</span>
+18,ビィ/碧,とりあえず、よろず屋の依頼は<br>これで果たしたって事で<br>いいのかな……,总之，万事屋的委托算是完成了吧……
+19,ルリア/露莉亚,そうですね……未知の魔物の正体は、<br>わからず仕舞いでしたけど……<br>でも、出てくる原因はわかりましたし。,是这样呢……虽然不知道未知魔物的本体是什么，但出现的原因已经知道了。
+20,ビィ/碧,よし！<br>あとはルナってガキンチョ<br>見つけなきゃな！,好了！接下来就该去找那个叫露娜的小鬼了！
+21,ルリア/露莉亚,あっ！<br>それから、アリサさん達が<br>元の場所に帰る方法を見つけないと！,啊！还有，我们得找到亚里莎小姐回去的方法！
+22,アリサ/亚丽莎,うん！　頑張るよ！,嗯！我会努力的！
+28,ルナ/露娜,くぅ……すぅ……,咕……呜……
+30,ルナ/露娜,<span class='scene-font-4'>きゃっ！？</span>,呀！？
+31,,<span class='scene-font-katari'>頭痛に苦しむうち、ルナは</span><br><span class='scene-font-katari'>座り込んで眠ってしまっていた。</span>,<span class='scene-font-katari'>头痛欲裂的露娜坐着睡着了。</span>
+32,,<span class='scene-font-katari'>その膝に何かがぶつかり、</span><br><span class='scene-font-katari'>ルナは驚いて飛び起きる。</span>,<span class='scene-font-katari'>有什么东西碰到了她的膝盖，露娜吓得跳了起来。</span>
+33,ルナの父,<span class='scene-font-gray'>ルナ、おはよう。</span><br><span class='scene-font-gray'>よく眠れたかい？</span>,露娜，早上好。<span class='scene-font-gray'>睡得好吗？</span>
+34,ルナの母,<span class='scene-font-gray'>ふふふ。</span><br><span class='scene-font-gray'>疲れはとれたかしら。</span>,<span class='scene-font-gray'>呵呵。你感觉好点了吗。</span>
+35,ルナ/露娜,パパ、ママ！,爸爸、妈妈！
+36,ルナの母,<span class='scene-font-gray'>あら、どうしたのルナ。</span><br><span class='scene-font-gray'>そんな顔して……</span>,<span class='scene-font-gray'>哎呀，怎么了，露娜。怎么这种表情……</span>
+37,ルナ/露娜,……あのね。<br>ルナ、パパとママがどこかに<br>いっちゃったのかと思ったの。,……那个。露娜，以为爸爸妈妈都不见了。
+38,ルナの父,<span class='scene-font-gray'>はは、そんなわけはないだろう？</span><br><span class='scene-font-gray'>パパとママは、</span><br><span class='scene-font-gray'>ルナとずうっと一緒だよ。</span>,<span class='scene-font-gray'>哈哈，那不会的吧？爸爸妈妈一直和露娜在一起呢。</span>
+39,ルナの母,<span class='scene-font-gray'>怖い夢でも見たのかしら。</span><br><span class='scene-font-gray'>かわいそうに……</span>,<span class='scene-font-gray'>是不是做了什么噩梦。可怜的孩子……</span>
+40,ルナ/露娜,えへへ……もう大丈夫だよ！<br>パパとママの顔を見たら、<br>元気になったよ！,欸嘿嘿……已经没事了！看到爸爸妈妈的面容，我感觉好多了！
+41,,<span class='scene-font-katari'>父と母の姿をみとめ、</span><br><span class='scene-font-katari'>笑顔を浮かべるルナ。</span>,<span class='scene-font-katari'>露娜微笑着看着父母</span>
+43,,<span class='scene-font-katari'>ふと、そんなルナの目に</span><br><span class='scene-font-katari'>何か光る物がとまった。</span>,<span class='scene-font-katari'>突然，露娜的看到了一个闪光的东西。</span>
+44,ルナ/露娜,…………ん？<br>これ、なんだろう？,…………嗯？这是什么？
+45,,<span class='scene-font-katari'>ルナの膝の上にあったのは、</span><br><span class='scene-font-katari'>ぼんやりと光を放つ</span><br><span class='scene-font-katari'>透明な石だった。</span>,<span class='scene-font-katari'>露娜膝盖上的是一块发出朦胧光芒的透明石头。</span>
+46,ルナ/露娜,わぁ……！<br>ねえ、パパ、ママ！<br>この石、キレイだよ！,哇……！呐，爸爸、妈妈！这块石头好漂亮！
+47,ルナの父,<span class='scene-font-gray'>すごいぞ、ルナ。</span><br><span class='scene-font-gray'>よく見つけたね。</span>,<span class='scene-font-gray'>很美丽呢，露娜，真亏你能发现。</span>
+48,ルナ/露娜,ねえ、パパ！　ママ！<br>この石、持って帰ってもいい？<br>今日のお散歩のお土産にしたいな！,呐，爸爸！妈妈！我能把这块石头带回去吗？我想把它作为今天散步的纪念品！
+49,ルナの母,<span class='scene-font-gray'>ふふふ。</span><br><span class='scene-font-gray'>えぇ、もちろんいいわよ。</span>,呵呵。当然可以。
+50,ルナ/露娜,やったぁ！<br>これ、キラキラしててキレイ！ <br>……なんで光ってるのかな？,太好了！这个，闪闪发光的好漂亮！……为什么会发光呢？
+51,,<span class='scene-font-katari'>興味深げに石を弄ぶルナ。</span><br><span class='scene-font-katari'>そのうちに……</span>,<span class='scene-font-katari'>露娜好奇地把玩着石头。就在此时……</span>
+53,ルナ/露娜,あっ……！,啊……！
+54,,<span class='scene-font-katari'>光る石を取り落としてしまい、</span><br><span class='scene-font-katari'>追いかける。</span>,<span class='scene-font-katari'>会发光的石头掉落到地上，露娜追了上去。</span>
+57,,<span class='scene-font-katari'>光る石は岩の上に落ち、</span><br><span class='scene-font-katari'>かちんと音をたてた。そして……</span>,<span class='scene-font-katari'>发光的石头落在岩石上，发出“噶”的一声。然后……</span>
+58,ルナ/露娜,……あれ？<br>石がもっと光ってる……,……咦？石头更亮了……
+65,？？？,……ここが、新たな決闘の場か。,……这里就是，新的决斗场吗。
+66,ルナ/露娜,おじさん、誰？,叔叔，你是谁？
+69,？？？,私を呼び出したのは、貴様か。,是你把我叫出来的吗。
+70,ルナ/露娜,きさま？<br>ルナはルナだよ。<br>おじさんは？,你？露娜就是露娜啊。叔叔呢？
+71,モルディカイ/莫迪凯,我が名はモルディカイ……<br>終わりなき決闘を求める者。,我的名字是莫迪凯……一个追求无尽决斗的人。
+72,ルナ/露娜,もるでぃ、かい……<br>言いにくいなぁ。,modi、kai……好绕口啊。
+73,ルナ/露娜,モルちゃんって呼ぶね！,叫你小莫迪吧！
+74,モルディカイ/莫迪凯,…………,…………
+75,ルナ/露娜,ねぇ、モルちゃんって変だね。<br>顔、骨みたいだし。あ、もしかして<br>モルちゃんって、死んでるの？,呐，小莫迪看起来好奇怪。脸看起来都是骨头。啊，难道小莫迪已经死了？
+76,モルディカイ/莫迪凯,我はかつて死したる者。<br>肉は朽ち、骨の身となれど、<br>我が決闘の道は続く。,我曾是死者。虽肉已腐朽，骨化此身，但我的决斗之路还在继续。
+77,ルナ/露娜,よくわかんないけど……<br>モルちゃん、死んでるんだよね？<br>わぁい！　じゃあルナのお友達だね！,虽然不是很明白……但小莫迪是已经死了吧？哇！那你就是露娜的朋友呢！
+78,モルディカイ/莫迪凯,決闘の相手は何処だ。<br>私の宿敵は……何処だ……,决斗的对手在哪。我的宿敌……在哪……
+79,ルナ/露娜,ねえ、モルちゃん！<br>モルちゃんもルナと一緒に<br>お散歩しよう！,呐，小莫迪！和露娜一起散步吧！
+80,モルディカイ/莫迪凯,…………,…………
+81,,<span class='scene-font-katari'>目の前にいるルナを気にも留めず</span><br><span class='scene-font-katari'>歩き出すモルディカイ。</span>,<span class='scene-font-katari'>莫迪凯没有在意眼前的露娜，自顾自的往前走。</span>
+82,ルナ/露娜,ふふ！<br>モルちゃん待って待って！,呵呵！小莫迪等等、等等！
+84,,<span class='scene-font-katari'>ルナはモルディカイに駆け寄り、</span><br><span class='scene-font-katari'>笑ってその手を握った。</span>,<span class='scene-font-katari'>露娜跑向莫迪凯，笑着握住他的手。</span>
+85,ルナ/露娜,モルちゃん、一緒にお散歩だね！,小莫迪，一起散步吧！
+86,モルディカイ/莫迪凯,さあ、決闘に向かおうか。,走，去决斗吧。
+87,,<span class='scene-font-katari'>虚空より現れた髑髏の剣士、</span><br><span class='scene-font-katari'>モルディカイ。</span><br><span class='scene-font-katari'>その虚ろな目に映るものとは──</span>,<span class='scene-font-katari'>从虚空中出现的骷髅剑士莫迪凯，他那空洞的眼中所看到的是——</span>
+info,,,scene_evt20170222_cp4_q1_s30
