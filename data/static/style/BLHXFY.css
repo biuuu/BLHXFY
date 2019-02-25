@@ -206,6 +206,9 @@ body .prt-buttons .btn-remove::after, .prt-buttons-enhance .btn-remove::after {
 body .prt-buttons .btn-change.party-weapon::after, .prt-buttons-enhance .btn-change.party-weapon::after {
   content: "更换武器";
 }
+body .pop-mypage .prt-popup-footer .btn-usual-ok::after {
+  content: '去主页';
+}
 body .btn-tweet-post:after {
   content: '发送';
 }
