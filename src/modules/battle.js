@@ -22,6 +22,8 @@ export default async function battle(data, mode) {
   } else {
     ability = data.ability
     spms = data.skip_special_motion_setting
+    data.temporary_potion_all_name = '群体回复药水'
+    data.temporary_potion_one_name = '治疗药水'
   }
   if (isArray(spms)) {
     spms.forEach(item => {

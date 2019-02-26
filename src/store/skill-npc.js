@@ -54,12 +54,26 @@ const saveSkillMap = async (skillMap) => {
   setLocalData('skill-npc', JSON.stringify(arr))
 }
 
-const getSkillMap = () => {
-  const str = getLocalData('skill-npc')
+const getSkillMap = async () => {
+  const str = await getLocalData('skill-npc')
   try {
     const arr = JSON.parse(str)
     state.skillMap = new Map(arr)
     state.locSkMap = true
+  } catch (e) {
+
+  }
+}
+
+const saveSkillPath = async (skillData) => {
+  setLocalData('skill-path', JSON.stringify(skillData))
+}
+
+const getSkillPath = async () => {
+  const str = await getLocalData('skill-path')
+  try {
+    const data = JSON.parse(str)
+    state.skillData = data
   } catch (e) {
 
   }
@@ -90,10 +104,12 @@ const setSkillMap = (list, stable = true) => {
 }
 
 const getSkillData = async (npcId) => {
-  if (!state.locSkMap) getSkillMap()
+  if (!state.locSkMap) await getSkillMap()
   if (state.skillMap.has(npcId)) return state
+  await getSkillPath()
   if (!state.skillData) {
     state.skillData = await fetchData('/blhxfy/data/skill.json')
+    saveSkillPath(state.skillData)
   }
   const csvName = state.skillData[npcId]
   if (csvName) {
