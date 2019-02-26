@@ -76,7 +76,7 @@ const collectNpcSkill = (skillData) => {
   }
 }
 
-const battle = async function battle(data, mode) {
+const battle = async function (data, mode) {
   let ability
   let scenario
   let spms

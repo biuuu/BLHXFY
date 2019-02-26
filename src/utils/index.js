@@ -108,13 +108,13 @@ const getPlusStr = (str) => {
   return [plusStr, plusStr2, _str]
 }
 
-const race = (func) => {
+const race = (func, delay = 300) => {
   return function (...args) {
     const promise1 = func(...args)
     const promise2 = new Promise(rev => {
       setTimeout(() => {
         rev(args[0])
-      }, 300)
+      }, delay)
     })
     return Promise.race([promise1, promise2])
   }
