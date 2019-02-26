@@ -4,6 +4,7 @@ import isObject from 'lodash/isObject'
 import isArray from 'lodash/isArray'
 import replaceTurn from '../utils/replaceTurn'
 import getNpcSkillData, { skillKeys, getLocalSkillData, getCommSkillMap } from '../store/skill-npc'
+import { getPlusStr } from '../utils/'
 
 const skillTemp = new Map()
 const posMap = new Map()
@@ -35,21 +36,50 @@ export default async function battle(data, mode) {
           for (let key in item.list) {
             let arr = item.list[key]
             let skill = arr[0]
-            if (skill && skill['ability-id']) {
+            if (skill && skill['ability-name']) {
               const name = skill['ability-name']
               const trans = await getSkillData(name)
               if (trans) {
                 if (!skillTemp.has(name)) skillTemp.set(name, trans)
-                name = trans.name
+                skill['ability-name'] = trans.name
                 skill['text-data'] = trans.detail
               }
               skill['duration-type'] = replaceTurn(skill['duration-type'])
             }
           }
         } else if (item.mode === 'npc') {
-          const npcId = spms.get(item.pos)
+          const npcId = posMap.get(item.pos)
           const state = await getNpcSkillData(npcId)
-          const skillDate = state.skillMap.get(npcId)
+          const skillData = state.skillMap.get(npcId)
+          if (skillData && isObject(item.list)) {
+            let index = 0
+            for (let key in item.list) {
+              index++
+              let arr = item.list[key]
+              let skill = arr[0]
+              if (skill && skill['ability-name']) {
+                const name = skill['ability-name']
+                if (skillData[`skill-${name}`]) {
+                  const trans = skillData[`skill-${name}`]
+                  if (trans) {
+                    if (!skillTemp.has(name)) skillTemp.set(name, trans)
+                    skill['ability-name'] = trans.name
+                    skill['text-data'] = trans.detail
+                  }
+                } else {
+                  const [plus1, plus2] = getPlusStr(name)
+                  let trans = skillData[`skill-${index}${plus2}`]
+                  if (!trans) trans = skillData[`skill-${index}`]
+                  if (trans) {
+                    if (!skillTemp.has(name)) skillTemp.set(name, trans)
+                    skill['ability-name'] = `${trans.name}${plus1}`
+                    skill['text-data'] = trans.detail
+                  }
+                  skill['duration-type'] = replaceTurn(skill['duration-type'])
+                }
+              }
+            }
+          }
         }
       }
     }
@@ -60,8 +90,9 @@ export default async function battle(data, mode) {
       if (item) {
         if (item.cmd === 'ability' && item.name) {
           const trans = skillTemp.get(item.name)
+          const [plus1] = getPlusStr(item.name)
           if (trans) {
-            item.name= trans.name
+            item.name = trans.name + plus1
             item.comment = trans.detail
           }
         }

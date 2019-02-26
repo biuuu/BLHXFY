@@ -86,6 +86,7 @@ const setSkillMap = (list, stable = true) => {
     }
   }
   state.skillMap.set(npcId, skillData)
+  saveSkillMap(state.skillMap)
 }
 
 const getSkillData = async (npcId) => {
