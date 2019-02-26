@@ -212,6 +212,9 @@ body .pop-mypage .prt-popup-footer .btn-usual-ok::after {
 body .btn-tweet-post:after {
   content: '发送';
 }
+body .btn-usual-trajectory::after {
+  content: "轨迹水滴商店";
+}
 body .pop-start-assist .btn-check.all::before {
   content: '全体';
 }
