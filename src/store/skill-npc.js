@@ -59,6 +59,12 @@ const getSkillMap = async () => {
   try {
     const arr = JSON.parse(str)
     state.skillMap = new Map(arr)
+    for (let [key, item] of state.skillMap) {
+      for (let _key in item) {
+        item[_key].name =filter(trim(item[_key].name))
+        item[_key].detail =filter(trim(item[_key].detail))
+      }
+    }
     state.locSkMap = true
   } catch (e) {
 

@@ -5,6 +5,7 @@ import isArray from 'lodash/isArray'
 import replaceTurn from '../utils/replaceTurn'
 import getNpcSkillData from '../store/skill-npc'
 import { getPlusStr, removeHtmlTag, race } from '../utils/'
+import CONFIG from '../config'
 
 const skillTemp = new Map()
 const posMap = new Map()
@@ -30,38 +31,41 @@ const mutationCallback = (mutationsList) => {
   }
 }
 
+const viraSkillTitleFunc = () => {
+  const list = $('.lis-ability')
+  if (list.length) {
+    count = 0
+    if (!observered) {
+      const targetNode = document.querySelector('.prt-command')
+      const observer = new MutationObserver(mutationCallback)
+      observer.observe(targetNode, obConfig)
+      observered = true
+    }
+    list.each(function () {
+      const $elem = $(this)
+      const title = $elem.attr('title')
+      if (!title) return
+      const name = title.split('\n')[0]
+      const trans = skillTemp.get(name)
+      if (trans) {
+        const [plus1] = getPlusStr(name)
+        const sName = trans.name + plus1
+        const detail = removeHtmlTag(trans.detail.replace(/<br\s?\/?>/gi, '\n'))
+        $elem.attr('title', title.replace(/^([\s\S]+)Cooldown:\s(\d+)\sturn\(s\)$/, `${sName}\n${detail}\n使用间隔：$2 回合`))
+      } else {
+        $elem.attr('title', title.replace(/^([\s\S]+)Cooldown:\s(\d+)\sturn\(s\)$/, `$1使用间隔：$2 回合`))
+      }
+    })
+  } else if (count < 20) {
+    count++
+    viraSkillTitle()
+  }
+}
+
 const viraSkillTitle = () => {
   clearTimeout(timer)
-  timer = setTimeout(() => {
-    const list = $('.lis-ability')
-    if (list.length) {
-      count = 0
-      if (!observered) {
-        const targetNode = document.querySelector('.prt-command')
-        const observer = new MutationObserver(mutationCallback)
-        observer.observe(targetNode, obConfig)
-        observered = true
-      }
-      list.each(function () {
-        const $elem = $(this)
-        const title = $elem.attr('title')
-        if (!title) return
-        const name = title.split('\n')[0]
-        const trans = skillTemp.get(name)
-        if (trans) {
-          const [plus1] = getPlusStr(name)
-          const sName = trans.name + plus1
-          const detail = removeHtmlTag(trans.detail.replace(/<br\s?\/?>/gi, '\n'))
-          $elem.attr('title', title.replace(/^([\s\S]+)Cooldown:\s(\d+)\sturn\(s\)$/, `${sName}\n${detail}\n使用间隔：$2 回合`))
-        } else {
-          $elem.attr('title', title.replace(/^([\s\S]+)Cooldown:\s(\d+)\sturn\(s\)$/, `$1使用间隔：$2 回合`))
-        }
-      })
-    } else if (count < 20) {
-      count++
-      viraSkillTitle()
-    }
-  }, 500)
+  viraSkillTitleFunc()
+  timer = setTimeout(viraSkillTitleFunc, 500)
 }
 
 
@@ -77,6 +81,7 @@ const collectNpcSkill = (skillData) => {
 }
 
 const battle = async function battle(data, mode) {
+  if (!CONFIG.battleTrans) return data
   let ability
   let scenario
   let spms
