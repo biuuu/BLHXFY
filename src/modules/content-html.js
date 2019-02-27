@@ -1,6 +1,7 @@
 import getCommHtmlData from '../store/common-html'
 import getArchiveData from '../store/archive'
 import insertSettingHtml from '../setting/insertHtml'
+import { race } from '../utils'
 
 const replaceHTML = async (html, pathname) => {
   let _html = html
@@ -66,7 +67,7 @@ const getHtml = async (encodedHtml, pathname) => {
   return encodeURIComponent(html)
 }
 
-export default async function transHTML(data, pathname) {
+const transHTML = async function (data, pathname) {
   if (data.data) {
     data.data = await getHtml(data.data, pathname)
   }
@@ -83,3 +84,5 @@ export default async function transHTML(data, pathname) {
   }
   return data
 }
+
+export default race(transHTML)

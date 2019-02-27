@@ -17,6 +17,7 @@ const config = {
   fontBold: false,
   transApi: 'caiyun',
   timeout: 8,
+  delay: 300,
   plainText: false,
   autoDownload: false,
   bottomToolbar: false,
