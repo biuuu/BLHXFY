@@ -33,7 +33,7 @@ const removeNotMatchedHtmlTag = (str) => {
 const removeNormalHtmlTag = (str, count = 0) => {
   count++
   if (!/<(\w{1,7})[^>]*>/.test(str) || count > 2) return str
-  const _str = str.replace(/<br\s?\/?>/g, '').replace(/<(\w{1,7})[^>]*>([^<]*)<\/\1>/g, '$2')
+  const _str = str.replace(/<br\s?\/?>/ig, '').replace(/<(\w{1,7})[^>]*>([^<]*)<\/\1>/g, '$2')
   return removeNormalHtmlTag(_str, count)
 }
 
@@ -96,6 +96,30 @@ const isDomain = (str) => {
   return true
 }
 
+const getPlusStr = (str) => {
+  let plusStr = ''
+  let plusStr2 = ''
+  let _str = str
+  while (_str.endsWith('+') || _str.endsWith('＋')) {
+    plusStr += '＋'
+    plusStr2 += '+'
+    _str = _str.slice(0, _str.length - 1)
+  }
+  return [plusStr, plusStr2, _str]
+}
+
+const race = (func) => {
+  return function (...args) {
+    const promise1 = func(...args)
+    const promise2 = new Promise(rev => {
+      setTimeout(() => {
+        rev(args[0])
+      }, 300)
+    })
+    return Promise.race([promise1, promise2])
+  }
+}
+
 export {
   trim,
   tryDownload,
@@ -105,5 +129,7 @@ export {
   splitSingleLineSkill,
   isDomain,
   removeTag,
-  removeHtmlTag
+  removeHtmlTag,
+  getPlusStr,
+  race
 }

@@ -1,7 +1,7 @@
-import getSkillData, { skillKeys, getLocalSkillData } from '../store/skill-npc'
+import getSkillData, { skillKeys, getLocalSkillData, getCommSkillMap } from '../store/skill-npc'
 import replaceTurn from '../utils/replaceTurn'
 import transBuff from './buff'
-import { splitSingleLineSkill } from '../utils/'
+import { splitSingleLineSkill, getPlusStr } from '../utils/'
 
 const elemtRE = '([光闇水火風土]|light|dark|water|wind|earth|fire)'
 const elemtMap = {
@@ -46,18 +46,6 @@ const transSkill = (comment, { commSkillMap, autoTransCache }) => {
   }
   autoTransCache.set(comment, result)
   return result
-}
-
-const getPlusStr = (str) => {
-  let plusStr = ''
-  let plusStr2 = ''
-  let _str = str
-  while (_str.endsWith('+') || _str.endsWith('＋')) {
-    plusStr += '＋'
-    plusStr2 += '+'
-    _str = _str.slice(0, _str.length - 1)
-  }
-  return [plusStr, plusStr2]
 }
 
 const parseBuff = async (data) => {
@@ -170,6 +158,8 @@ const parseSkill = async (data, pathname) => {
       if (trans && trans.detail) data.comment = trans.detail
     }
   }
+
+  await getCommSkillMap()
   keys.forEach(item => {
     if (!translated.get(item[0])) {
       const skill = data[item[0]]

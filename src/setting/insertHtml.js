@@ -111,6 +111,19 @@ const template = `
       </div>
 
       <div class="prt-setting-article">
+				<div class="txt-article-title">战斗界面的技能翻译</div>
+				<ul class="txt-article-lead">
+					<li>激活后在汉化战斗界面的技能按钮</li>
+				</ul>
+				<div class="prt-button-l">
+					<div>
+						<input id="battle-trans-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'battle-trans', this.checked)" type="checkbox" value="">
+						<label for="battle-trans-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">启用</label>
+					</div>
+        </div>
+			</div>
+
+			<div class="prt-setting-article">
 				<div class="txt-article-title">剧情CSV文件快捷下载</div>
 				<ul class="txt-article-lead">
 					<li>激活后在 SKIP 的时候自动下载剧情CSV</li>
@@ -170,8 +183,32 @@ const template = `
 </div>
 </div>
 `
+const templateForWheel = `
+<style>
+#blhxfy-setting-modal {
+	height: 100%;
+	overflow: auto;
+}
+</style>
+`
+const wheelStopPg = (e) => {
+	e.stopImmediatePropagation()
+}
 export default function (html) {
-  return html.replace('<div class="cnt-setting">', `${template}<div class="cnt-setting"><div class="cnt-setting"><div class="btn-usual-text" id="btn-setting-blhxfy" onclick="window.blhxfy.sendEvent('setting', 'show')">汉化插件设置</div>`)
+	html = html.replace('<div class="cnt-setting">', `${template}<div class="cnt-setting"><div class="cnt-setting"><div class="btn-usual-text" id="btn-setting-blhxfy" onclick="window.blhxfy.sendEvent('setting', 'show')">汉化插件设置</div>`)
+	if (location.hash !== '#setting') {
+		html = html.replace('<div class="btn-usual-text" id="btn-setting-blhxfy"', `${templateForWheel}<div class="btn-usual-text" id="btn-setting-blhxfy"`)
+		setTimeout(() => {
+			const modal = document.getElementById('blhxfy-setting-modal')
+			modal.removeEventListener('wheel', wheelStopPg)
+			modal.removeEventListener('DOMMouseScroll', wheelStopPg)
+			modal.removeEventListener('mousewheel', wheelStopPg)
+			modal.addEventListener('wheel', wheelStopPg, false)
+			modal.addEventListener('DOMMouseScroll', wheelStopPg, false)
+			modal.addEventListener('mousewheel', wheelStopPg, false)
+		}, 1000)
+	}
+	return html
 }
 
 export { template as settingHtml }

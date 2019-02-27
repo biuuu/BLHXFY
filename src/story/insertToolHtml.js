@@ -1,4 +1,5 @@
 import { settingHtml } from '../setting/insertHtml'
+import config from '../config'
 
 const extraHtml = settingHtml.replace('data-href="setting"', 'onclick="window.blhxfy.sendEvent(\'setting\', \'hide\')"').replace('返回设置', '返回剧情')
 
@@ -114,10 +115,22 @@ const html = `
 }
 .language-setting-blhxfy select {
   border: none;
-    border-radius: 2px;
+  border-radius: 2px;
+}
+.blhxfy-story-plaintext {
+  position: absolute;
+  right: -33px;
+  top: 8px;
+  color: #fff;
+  width: auto !important;
+  font-size: 8px;
 }
 </style>
 <div id="blhxfy-story-tool">
+  <div class="blhxfy-story-plaintext">
+    <input id="plain-text-blhxfy" type="checkbox" onchange="window.blhxfy.sendEvent('setting', 'plain-text', this.checked)">
+    <label for="plain-text-blhxfy" style="padding-left:2px" title="勾选后，下载的csv文件会去掉里面的html代码">纯文本</label>
+  </div>
   <div>
     <button onclick="window.blhxfy.sendEvent('dlStoryCsv')" title="下载未翻译的剧情文本">原文</button>
     <button onclick="window.blhxfy.sendEvent('dlStoryCsv', 'fill')" title="下载用原文填充trans列的剧情文本">填充</button>
@@ -154,5 +167,6 @@ export default function () {
     cont.prepend(html)
     const langVal = { ja: 1, en: 2 }
     $('#language-type-blhxfy').val(langVal[Game.lang])
+    $('#plain-text-blhxfy')[0].checked = config.plainText
   }
 }

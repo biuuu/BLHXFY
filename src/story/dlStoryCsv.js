@@ -1,7 +1,9 @@
 import { scenarioCache, replaceChar } from '../modules/scenario'
-import { tryDownload, replaceWords, removeTag } from '../utils/'
+import { tryDownload, replaceWords, removeTag, removeHtmlTag } from '../utils/'
 import CONFIG from '../config'
 import CSV from 'papaparse'
+import config from '../config';
+import cloneDeep  from 'lodash/cloneDeep'
 
 const txtKeys = ['chapter_name', 'synopsis', 'detail', 'sel1_txt', 'sel2_txt', 'sel3_txt', 'sel4_txt', 'sel5_txt', 'sel6_txt']
 
@@ -21,7 +23,8 @@ const replaceName = (content, userName) => {
 
 const dataToCsv = (data, fill, isTrans, isAutoTrans) => {
   const result = []
-  data.forEach(item => {
+  const _data = cloneDeep(data)
+  _data.forEach(item => {
     const name = removeTag(item.charcter1_name)
     replaceChar('charcter1_name', item, scenarioCache.nameMap, scenarioCache.name)
     const transName = removeTag(item.charcter1_name)
@@ -45,6 +48,12 @@ const dataToCsv = (data, fill, isTrans, isAutoTrans) => {
         } else if (fill) {
           trans = txt
         }
+
+        if (CONFIG.plainText) {
+          txt = removeHtmlTag(txt)
+          trans = removeHtmlTag(trans)
+        }
+
         result.push({
           id: `${item.id}${key === 'detail' ? '' : '-' + key}`,
           name: hasName ? `${name}${hasTransName ? '/' + transName : ''}` : '',
@@ -70,7 +79,7 @@ export default function (type = 'normal') {
     tryDownload(dataToCsv(scenarioCache.data), scenarioCache.name + '.csv')
   } else if (type === 'trans') {
     if (scenarioCache.hasTrans) {
-      tryDownload(dataToCsv(scenarioCache.data, false, true), scenarioCache.originName)
+      tryDownload(dataToCsv(scenarioCache.data, false, true), scenarioCache.originName || `${scenarioCache.name}.csv`)
     } else {
       if (scenarioCache.hasAutoTrans) {
         if (confirm('这个章节还没有翻译，是否下载含有机翻文本的文件。')) {
