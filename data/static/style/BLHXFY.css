@@ -179,11 +179,23 @@ body .pop-check-point .prt-popup-footer .btn-usual-ok:after {
 body .pop-confirm .prt-popup-footer .btn-usual-ok.exchange:after {
   content: '交换';
 }
-body .pop-filter-enhancement .btn-usual-cancel::after, .pop-filter-setting .btn-usual-cancel::after {
+body .pop-sort-enhancement .btn-usual-cancel::after,
+body .pop-filter-enhancement .btn-usual-cancel::after,
+.pop-filter-setting .btn-usual-cancel::after {
     content: '返回排序设置';
 }
-body .pop-filter-enhancement .btn-usual-ok::after, .pop-filter-setting .btn-usual-ok::after {
+body .pop-sort-enhancement .btn-usual-ok::after,
+body .pop-filter-enhancement .btn-usual-ok::after,
+.pop-filter-setting .btn-usual-ok::after {
   content: '选择完成';
+}
+body #lis-inner-weapon .btn-item.selected::before,
+body #lis-inner-summon .btn-item.selected::before,
+body .prt-listup .prt-list-item .btn-item.selected::before {
+  content: '选择中';
+}
+body .pop-recommend-setting.pop-usual .prt-popup-footer .btn-usual-ok::after {
+  content: '设置';
 }
 body .pop-set-sort-filter .btn-usual-ok::after {
   content: '显示';
@@ -193,6 +205,24 @@ body .prt-buttons .btn-remove::after, .prt-buttons-enhance .btn-remove::after {
 }
 body .prt-buttons .btn-change.party-weapon::after, .prt-buttons-enhance .btn-change.party-weapon::after {
   content: "更换武器";
+}
+body .pop-mypage .prt-popup-footer .btn-usual-ok::after {
+  content: '去主页';
+}
+body .btn-tweet-post:after {
+  content: '发送';
+}
+body .btn-usual-trajectory::after {
+  content: "轨迹水滴商店";
+}
+body .pop-start-assist .btn-check.all::before {
+  content: '全体';
+}
+body .pop-start-assist .btn-check.friend::before {
+  content: '好友';
+}
+body .pop-start-assist .btn-check.guild::before {
+  content: '骑空团';
 }
 body .prt-buttons .btn-remove-cancel::after,
 body .prt-buttons .btn-back-cancel::after,
@@ -554,6 +584,14 @@ body .prt-scene-comment .prt-message-area {
 .prt-user-info .prt-info-profile .btn-user-name,
 .prt-user-name .txt-user-name {
   font-family: jpkana, yaheiSymbol, "Microsoft Jhenghei", "Yu Gothic", "Meiryo", sans-serif !important;
+}
+
+.contents .scene-font-gray {
+  color: #b0aead
+}
+
+body .prt-request-info .txt-request {
+  overflow: visible;
 }
 
 #box-sub-blhxfy {

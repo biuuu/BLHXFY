@@ -7,7 +7,7 @@ id,name,text,trans
 5,,<span class='scene-font-katari'>皆が状況に戸惑う中、</span><br><span class='scene-font-katari'>姬塔は不意に、</span><br><span class='scene-font-katari'>不審な物音を耳にする。</span>,<span class='scene-font-katari'>正当大家为这状况而迷惑时，姬塔突然听到了可疑的声音。</span>
 5-sel1_txt,,<span class='scene-font-katari'>変な音が……？</span>,有什么奇怪的声音？
 5-sel2_txt,,<span class='scene-font-katari'>他にも誰か……？</span>,有什么人在？
-6,ラカム/拉卡姆,…………,......
+6,ラカム/拉卡姆,…………,……
 7,,<span class='scene-font-katari'>眉をひそめるラカムを見て、</span><br><span class='scene-font-katari'>カインは弾かれたように声を上げる。</span>,<span class='scene-font-katari'>看到拉卡姆皱起眉头，该隐突然想说些什么。</span>
 8,カイン/该隐,っ……！　そうか……！,对了！
 9,カイン/该隐,レム王国客将ラカム！<br>昨夜の襲撃の参考人として、<br>あんたを拘束させてもらうぜ。,雷姆王国客将拉卡姆！你是昨晚袭击事件的嫌疑人，现在必须将你拘捕起来！

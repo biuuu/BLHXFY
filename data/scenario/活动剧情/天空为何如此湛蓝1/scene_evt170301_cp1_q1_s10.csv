@@ -1,7 +1,7 @@
 id,name,text,trans
 0-chapter_name,,第1話 光,第1話 光
 0-synopsis,,災厄の噂を聞き、その原因と解決方法を探るため、各地に散って調査する事になった一行。 姬塔、ビィ、ルリア、カタリナは叡智の殿堂で関連書物を読み漁っていた。司書のア姬塔ャと民俗学者のヨハンの協力も得て、姬塔達は浮力と『四大元素』の関係について知るのだった。,听到了关于灾厄的传闻，为了探寻原因和寻找解决方法，一行人分散至各地开始调查。 姬塔、碧、露莉亚、卡塔莉娜前往睿智的殿堂翻阅相关的书籍。在管理员阿露夏和民俗学者约翰的帮助下，了解到了浮力与『四大元素』的关系。
-1,,<span class='scene-font-katari'>大図書館、叡智の殿堂。</span><br><span class='scene-font-katari'>そこに姬塔達の姿があり、</span><br><span class='scene-font-katari'>難しい顔で書物を読み込んでいた。</span>,<span class='scene-font-katari'>大图书馆，睿智的殿堂。<br>那里有着姬塔一行人满面为<br>难读着书物的身影。<span class='scene-font-katari'>
+1,,<span class='scene-font-katari'>大図書館、叡智の殿堂。</span><br><span class='scene-font-katari'>そこに姬塔達の姿があり、</span><br><span class='scene-font-katari'>難しい顔で書物を読み込んでいた。</span>,<span class='scene-font-katari'>大图书馆，睿智的殿堂。<br>那里有着姬塔一行人<br>满面为难读着书物的身影。</span>
 2,ビィ/碧,う～ん？<br>浮力とは島に含まれる物質と、<br>大気中の物質による生成物で……,嗯？浮力是由蕴含在岛上的物质，<br>和大气中的物质所形成……
 3,ルリア/露莉亚,え～っと？<br>星晶獣とは兵器でありつつも、<br>議論の余地を残す機能もあり……,那个~星晶兽不仅是兵器，<br>还有其他值得探讨的功能……
 4,ビィ/碧,大気中のブッシツにおいても、<br>ヨーショのヨーソを置き換えるとぉ……,在大气的元素中，<br>如果把关键的碘元素进行置换……
@@ -22,7 +22,7 @@ id,name,text,trans
 23,ア姬塔ャ,皆さーん！<br>他の本も持って来ましたよ……っと！,各位——！<br>我把其他书也拿过来了……哎！
 25,ルリア/露莉亚,ア姬塔ャさん！<br>すみません、ありがとうございます。,阿露夏！<br>麻烦你了，谢谢。
 26,ビィ/碧,うひゃあ……！<br>助かるけど、あと何冊あるんだよ……,呜哇……！<br>虽然帮上大忙了，<br>但究竟还有几本啊……
-27,ア姬塔ャ,探せばまだまだあるはずですよ。<br>本の事なら私に任せて下さいね！,仔细找的话还有好多呢。<br>和书有关的事就交给我吧！  
+27,ア姬塔ャ,探せばまだまだあるはずですよ。<br>本の事なら私に任せて下さいね！,仔细找的话还有好多呢。<br>和书有关的事就交给我吧！
 30,,<span class='scene-font-katari'>生き生きとするア姬塔ャ。</span><br><span class='scene-font-katari'>叡智の殿堂の司書という事もあって、</span><br><span class='scene-font-katari'>今回は書物の案内をして貰っていた。</span>,<span class='scene-font-katari'>很有活力的阿露夏，<br>她是睿智殿堂的图书管理员，<br>这次负责寻找书物。</span>
 31,,<span class='scene-font-katari'>叡智の殿堂の司書ア姬塔ャ。</span><br><span class='scene-font-katari'>様々な分野の知識が豊富な少女である。</span>,<span class='scene-font-katari'>睿智殿堂的图书管理员阿露夏，<br>是众多领域知识都很丰富的少女。</span>
 32,,<span class='scene-font-katari'>今回姬塔達の事情を聞き、</span><br><span class='scene-font-katari'>協力をして貰える事になったのだった。</span>,<span class='scene-font-katari'>听说了这次的事后前来协助。</span>

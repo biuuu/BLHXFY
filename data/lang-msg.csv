@@ -1393,7 +1393,7 @@ party_48,バトル,Battle,战斗
 party_49,バトル中のキャラクターアイコンで使用する<br>POSEを設定できます。,Select a battle pose,选择战斗中显示的POSE。
 party_5,武器装備,Select a Weapon,武器装备
 party_50,バトル中キャラクター,"Battle ",战斗
-party_51,バトル中のキャラクターアニメーションで使用するPOSEを設定できます。,Select a sprite pose,选择战斗正人物动画的POSE。
+party_51,バトル中のキャラクターアニメーションで使用するPOSEを設定できます。,Select a sprite pose,选择战斗中人物动画的POSE。
 party_52,選択したPOSEによって、バトルのアニメーションや一部エフェクトが変化します。一部特殊な演出のアビリティ使用時はPOSEが反映されない場合があります。,Battle animations and visual effects will change based on the sprite pose. The sprite pose might change briefly when certain skills with special animations are used.,不同的POSE有不同的战斗动画及效果。个别使用特殊动画的技能不会反应您选择的POSE。
 party_53,奥義,Charge Attack,奥义
 party_54,奥義のカットインで使用する<br>POSEを設定できます。,Select a charge attack pose,选择发动奥义时显示的POSE。
@@ -2033,7 +2033,7 @@ result_8,お気に入りの登録数が最大数に達しているため、<br>�
 result_80,ディール対象アイテム獲得,Share Chest Item,获得分配奖励
 result_81,他称号を%s個獲得しました,You got %s other trophy.,获得其他%s个称号
 result_9,お気に入り登録確認,Favorite,添加收藏任务确认
-result_aliza_1,アリーザの一言,Aliza's Advice,亚丽莎的建议
+result_aliza_1,アリーザの一言,Aliza's Advice,亚里莎的建议
 result_auto_custom_1,強化詳細,Airship Upgrade,强化详情
 result_auto_custom_2,使用アイテム,Used Items,使用道具
 result_auto_sell_1,武器 × %s,%s weapon,
