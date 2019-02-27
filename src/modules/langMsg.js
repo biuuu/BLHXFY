@@ -1,7 +1,6 @@
 import getLangMsgData from '../store/lang-msg'
-import { race } from '../utils'
 
-const transLangMsg = async function (data, pathname) {
+export default async function transLangMsg(data, pathname) {
   if (!data.option || !data.option.langMsg) return data
   const lang = Game.lang
   const msgs = data.option.langMsg
@@ -14,5 +13,3 @@ const transLangMsg = async function (data, pathname) {
   }
   return data
 }
-
-export default race(transLangMsg)
