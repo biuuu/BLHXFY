@@ -22,6 +22,7 @@ const config = {
   bottomToolbar: false,
   removeScroller: true,
   hideSidebar: false,
+  battleTrans: true,
   localHash: '',
   transJa: true,
   transEn: true,
@@ -39,7 +40,7 @@ const getLocalConfig = () => {
   }
   const keys = [
     'autoDownload', 'bottomToolbar', 'displayName', 'removeScroller', 'hideSidebar',
-    'transJa', 'transEn', 'keepBgm', 'transApi', 'font', 'fontBold', 'plainText'
+    'transJa', 'transEn', 'keepBgm', 'transApi', 'font', 'fontBold', 'plainText', 'battleTrans'
   ]
   keys.forEach(key => {
     let value = setting[key]

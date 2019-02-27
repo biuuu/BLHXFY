@@ -96,6 +96,30 @@ const isDomain = (str) => {
   return true
 }
 
+const getPlusStr = (str) => {
+  let plusStr = ''
+  let plusStr2 = ''
+  let _str = str
+  while (_str.endsWith('+') || _str.endsWith('＋')) {
+    plusStr += '＋'
+    plusStr2 += '+'
+    _str = _str.slice(0, _str.length - 1)
+  }
+  return [plusStr, plusStr2, _str]
+}
+
+const race = (func) => {
+  return function (...args) {
+    const promise1 = func(...args)
+    const promise2 = new Promise(rev => {
+      setTimeout(() => {
+        rev(args[0])
+      }, 300)
+    })
+    return Promise.race([promise1, promise2])
+  }
+}
+
 export {
   trim,
   tryDownload,
@@ -105,5 +129,7 @@ export {
   splitSingleLineSkill,
   isDomain,
   removeTag,
-  removeHtmlTag
+  removeHtmlTag,
+  getPlusStr,
+  race
 }

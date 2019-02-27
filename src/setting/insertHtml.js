@@ -111,6 +111,19 @@ const template = `
       </div>
 
       <div class="prt-setting-article">
+				<div class="txt-article-title">战斗界面的技能翻译</div>
+				<ul class="txt-article-lead">
+					<li>激活后在汉化战斗界面的技能按钮</li>
+				</ul>
+				<div class="prt-button-l">
+					<div>
+						<input id="battle-trans-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'battle-trans', this.checked)" type="checkbox" value="">
+						<label for="battle-trans-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">启用</label>
+					</div>
+        </div>
+			</div>
+
+			<div class="prt-setting-article">
 				<div class="txt-article-title">剧情CSV文件快捷下载</div>
 				<ul class="txt-article-lead">
 					<li>激活后在 SKIP 的时候自动下载剧情CSV</li>

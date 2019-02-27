@@ -39,7 +39,8 @@ const keyMap = new Map([
   ['trans-api', 'transApi'],
   ['font', 'font'],
   ['font-bold', 'fontBold'],
-  ['plain-text', 'plainText']
+  ['plain-text', 'plainText'],
+  ['battle-trans', 'battleTrans']
 ])
 
 const setting = (type, value) => {
