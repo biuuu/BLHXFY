@@ -3,9 +3,10 @@ npc,玛琪拉,3040107000
 special,金牙神然,土属性伤害(特大)/我方全体获得5层「鼓音」
 special-画鳥点睛,画鸟点睛,土属性伤害(特大)/我方全体获得5层「鼓音」
 special-As Free as a Bird,画鸟点睛,土属性伤害(特大)/我方全体获得5层「鼓音」
-skill-1,鼓舞激励,我方全体根据鼓音总层数获得强化效果(不可消去)<br><span class=text-blue>　◆「鼓音」效果清除</span>
+skill-1,鼓舞激励,<div class=prt-text-small>我方全体根据鼓音总层数获得强化效果(不可消去)<br><span class=text-blue>　◆「鼓音」效果清除</span></div>
 skill-2,云散鸟没,敌单体土属性伤害/防御DOWN(10%)/土属性防御DOWN(20%)
 skill-2+,云散鸟没,敌单体土属性伤害/防御DOWN(15%)/土属性防御DOWN(25%)
 skill-3,花鸟风月,我方全体的攻击UP(25%)/土属性追击効果(20%)
 support-1,鸟神宫之主,<div class=prt-text-small>我方全体根据对敌人的伤害次数获得「鼓音」效果(最大10层)<br><span class=text-blue>◆「鼓音」的层数越高「鼓舞激励」的效果越强</span></div>
 skill-lb,LB技能,我方全体一定概率回避敌方所有攻击(每级技能1%)
+intro,西之守护神,
