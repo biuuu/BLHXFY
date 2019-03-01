@@ -3,10 +3,15 @@ import replaceTurn from '../utils/replaceTurn'
 import transBuff from './buff'
 import { splitSingleLineSkill, getPlusStr } from '../utils/'
 
-const elemtRE = '([光闇水火風土]|light|dark|water|wind|earth|fire)'
+const elemtRE = '([光闇水火風土無]|light|dark|water|wind|earth|fire|plain)'
 const elemtMap = {
-  light: '光', '光': '光', 'dark': '暗', '闇': '暗', 'water': '水', '水': '水',
-  wind: '风', '風': '风', 'earth': '土', '土': '土', 'fire': '火', '火': '火'
+  light: '光', '光': '光',
+  dark: '暗', '闇': '暗',
+  water: '水', '水': '水',
+  wind: '风', '風': '风',
+  earth: '土', '土': '土',
+  fire: '火', '火': '火',
+  plain: '无', '無': '无'
 }
 const numRE = '(\\d{1,4})'
 const percentRE = '(\\d{1,4}%)'
@@ -39,7 +44,12 @@ const transSkill = (comment, { commSkillMap, autoTransCache }) => {
         return _trans
       })
     } else if (type === '2') {
-      result = result.replace(key, trans)
+      let res, i = 0
+      while (res !== result && i < 10) {
+        res = result
+        result = result.replace(key, trans)
+        i++
+      }
     } else if (type === '3') {
       result = result.replace(`(${key})`, `(${trans})`)
     }
