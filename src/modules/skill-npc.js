@@ -13,8 +13,8 @@ const elemtMap = {
   fire: '火', '火': '火',
   plain: '无', '無': '无'
 }
-const numRE = '(\\d{1,4})'
-const percentRE = '(\\d{1,4}%)'
+const numRE = '(\\d{1,10}\\.?\\d{0,4}?)'
+const percentRE = '(\\d{1,10}\\.?\\d{0,4}?[%％])'
 
 const parseRegExp = (str) => {
   return str.replace(/\(/g, '\\(')
