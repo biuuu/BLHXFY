@@ -14,9 +14,7 @@ const getSkillData = async (id) => {
       csv = await fetchData('/blhxfy/data/job-skill.csv')
       setLocalData('job-skill', csv)
     }
-    let n=performance.now()
     const list = parseCsv(csv)
-    console.log('csv', performance.now()-n)
     list.forEach(item => {
       if (item && item.id) {
         const _id = trim(item.id)

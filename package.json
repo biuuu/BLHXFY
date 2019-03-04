@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "core-js": "^2.5.7",
-    "dompurify": "^1.0.8",
+    "dompurify": "^1.0.10",
     "events": "^3.0.0",
     "lodash": "^4.17.5",
     "papaparse": "^4.3.7",

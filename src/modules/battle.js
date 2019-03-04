@@ -78,7 +78,6 @@ const collectNpcSkill = (skillData) => {
 }
 
 const battle = async function battle(data, mode) {
-  let now = performance.now()
   if (!CONFIG.battleTrans) return data
   let ability
   let scenario
@@ -102,7 +101,6 @@ const battle = async function battle(data, mode) {
   }
 
   await getCommSkillMap()
-  console.log(performance.now()-now, 'before skill')
   // translate skill
   if (isObject(ability)) {
     for (let abKey in ability) {
@@ -180,7 +178,6 @@ const battle = async function battle(data, mode) {
       }
     }
   }
-  console.log(performance.now()-now, 'before special skill')
   // translate speciall skill
   if (mode !== 'result' && data.player && isArray(data.player.param)) {
     const param = data.player.param
@@ -230,7 +227,6 @@ const battle = async function battle(data, mode) {
       }
     }
   }
-  console.log(performance.now()-now, 'before summon')
   // translate summon
   if (data.summon && isArray(data.summon)) {
     for (let item of data.summon) {
@@ -249,7 +245,6 @@ const battle = async function battle(data, mode) {
     data.supporter.detail = await transSkill(data.supporter.detail, skillState)
     data.supporter.protection = await transSkill(data.supporter.protection, skillState)
   }
-  console.log(performance.now()-now, 'before scenario')
   // translate scenario
   if (scenario) {
     for (let scKey in scenario) {
@@ -281,7 +276,6 @@ const battle = async function battle(data, mode) {
   }
 
   viraSkillTitle()
-  console.log(performance.now()-now)
   return data
 }
 

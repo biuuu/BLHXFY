@@ -76,8 +76,8 @@ const getSkillMap = async () => {
     state.skillMap = new Map(arr)
     for (let [key, item] of state.skillMap) {
       for (let _key in item) {
-        item[_key].name =filter(trim(item[_key].name))
-        item[_key].detail =filter(trim(item[_key].detail))
+        item[_key].name = filter(trim(item[_key].name))
+        item[_key].detail = filter(trim(item[_key].detail))
       }
     }
     state.locSkMap = true
@@ -144,10 +144,8 @@ const setSkillMap = (list, stable = true) => {
 }
 
 const getSkillData = async (npcId) => {
-  let now=performance.now()
   if (!state.locSkMap) await getSkillMap()
   if (!state.locASMap) await getAutoTrans()
-  console.log(performance.now()-now,'getskill')
   if (state.skillMap.has(npcId)) return state
   await getSkillPath()
   if (!state.skillData) {
