@@ -4,6 +4,7 @@ import sortKeywords from '../utils/sortKeywords'
 import filter from '../utils/XSSFilter'
 import { trim } from '../utils/'
 import { getLocalData, setLocalData } from './local-data'
+import debounce from 'lodash/debounce'
 
 const skillMap = new Map()
 
@@ -24,6 +25,7 @@ const state = {
   status: 'init',
   cStatus: 'init',
   locSkMap: false,
+  locASMap: false,
   skillMap,
   skillKeys,
   skillData: null,
@@ -35,7 +37,11 @@ const state = {
 
 const getCommSkillMap = async () => {
   if (state.cStatus === 'loaded') return
-  const csvData = await fetchData('/blhxfy/data/common-skill.csv')
+  let csvData = await getLocalData('comm-skill')
+  if (!csvData) {
+    csvData = await fetchData('/blhxfy/data/common-skill.csv')
+    setLocalData('comm-skill', csvData)
+  }
   const list = await parseCsv(csvData)
   const sortedList = sortKeywords(list, 'comment')
   let nounArr = []
@@ -80,6 +86,25 @@ const getSkillMap = async () => {
   }
 }
 
+const saveAutoTrans = debounce(() => {
+  const arr = [...state.autoTransCache].slice(-80)
+  setLocalData('auto-trans', JSON.stringify(arr))
+}, 500)
+
+const getAutoTrans = async () => {
+  const str = await getLocalData('auto-trans')
+  try {
+    const arr = JSON.parse(str)
+    state.autoTransCache = new Map(arr)
+    for (let [key, item] of state.autoTransCache) {
+      state.autoTransCache.set(key, filter(trim(item)))
+    }
+    state.locASMap = true
+  } catch (e) {
+
+  }
+}
+
 const saveSkillPath = async (skillData) => {
   setLocalData('skill-path', JSON.stringify(skillData))
 }
@@ -119,7 +144,10 @@ const setSkillMap = (list, stable = true) => {
 }
 
 const getSkillData = async (npcId) => {
+  let now=performance.now()
   if (!state.locSkMap) await getSkillMap()
+  if (!state.locASMap) await getAutoTrans()
+  console.log(performance.now()-now,'getskill')
   if (state.skillMap.has(npcId)) return state
   await getSkillPath()
   if (!state.skillData) {
@@ -159,4 +187,4 @@ const getLocalSkillData = (npcId) => {
 }
 
 export default getSkillData
-export { skillKeys, getLocalSkillData, getCommSkillMap }
+export { skillKeys, getLocalSkillData, getCommSkillMap, saveAutoTrans, state as skillState }

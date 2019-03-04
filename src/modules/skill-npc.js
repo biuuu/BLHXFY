@@ -1,4 +1,4 @@
-import getSkillData, { skillKeys, getLocalSkillData, getCommSkillMap } from '../store/skill-npc'
+import getSkillData, { skillKeys, getLocalSkillData, getCommSkillMap, saveAutoTrans } from '../store/skill-npc'
 import replaceTurn from '../utils/replaceTurn'
 import transBuff from './buff'
 import { splitSingleLineSkill, getPlusStr, trim } from '../utils/'
@@ -58,6 +58,7 @@ const transSkill = (comment, { commSkillMap, nounMap, nounRE, autoTransCache }) 
     }
   }
   autoTransCache.set(comment, result)
+  saveAutoTrans()
   return result
 }
 
@@ -185,4 +186,5 @@ const parseSkill = async (data, pathname) => {
   return data
 }
 
+export { transSkill }
 export default parseSkill
