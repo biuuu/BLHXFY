@@ -15,9 +15,8 @@ const elemtMap = {
 }
 const numRE = '(\\d{1,10}\\.?\\d{0,4}?)'
 const percentRE = '(\\d{1,10}\\.?\\d{0,4}?[%％])'
-const nounRE = '(.{1,20}?)'
 
-const parseRegExp = (str) => {
+const parseRegExp = (str, nounRE) => {
   return str.replace(/\(/g, '\\(')
     .replace(/\)/g, '\\)').replace(/\$elemt/g, elemtRE)
     .replace(/\$num/g, numRE)
@@ -25,22 +24,22 @@ const parseRegExp = (str) => {
     .replace(/\$noun/g, nounRE)
 }
 
-const transSkill = (comment, { commSkillMap, autoTransCache }) => {
+const transSkill = (comment, { commSkillMap, nounMap, nounRE, autoTransCache }) => {
   if (autoTransCache.has(comment)) return autoTransCache.get(comment)
   let result = comment
   for (let [key, value] of commSkillMap) {
     if (!trim(key)) continue
     const { trans, type } = value
     if (type === '1') {
-      const re = new RegExp(parseRegExp(key), 'gi')
+      const re = new RegExp(parseRegExp(key, nounRE), 'gi')
       result = result.replace(re, (...arr) => {
         let _trans = trans
         for (let i = 1; i < arr.length - 2; i++) {
           let eleKey = arr[i].toLowerCase()
           if (elemtMap[eleKey]) {
             _trans = _trans.replace(`$${i}`, elemtMap[eleKey])
-          } else if (commSkillMap.has(eleKey)) {
-            _trans = _trans.replace(`$${i}`, commSkillMap.get(eleKey))
+          } else if (nounMap.has(eleKey)) {
+            _trans = _trans.replace(`$${i}`, nounMap.get(eleKey))
           } else {
             _trans = _trans.replace(`$${i}`, arr[i])
           }
