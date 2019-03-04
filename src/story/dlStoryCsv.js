@@ -2,7 +2,6 @@ import { scenarioCache, replaceChar } from '../modules/scenario'
 import { tryDownload, replaceWords, removeTag, removeHtmlTag } from '../utils/'
 import CONFIG from '../config'
 import CSV from 'papaparse'
-import config from '../config';
 import cloneDeep  from 'lodash/cloneDeep'
 
 const txtKeys = ['chapter_name', 'synopsis', 'detail', 'sel1_txt', 'sel2_txt', 'sel3_txt', 'sel4_txt', 'sel5_txt', 'sel6_txt']
