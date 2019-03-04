@@ -1,7 +1,7 @@
 import getSkillData, { skillKeys, getLocalSkillData, getCommSkillMap } from '../store/skill-npc'
 import replaceTurn from '../utils/replaceTurn'
 import transBuff from './buff'
-import { splitSingleLineSkill, getPlusStr } from '../utils/'
+import { splitSingleLineSkill, getPlusStr, trim } from '../utils/'
 
 const elemtRE = '([光闇水火風土無]|light|dark|water|wind|earth|fire|plain)'
 const elemtMap = {
@@ -15,19 +15,21 @@ const elemtMap = {
 }
 const numRE = '(\\d{1,10}\\.?\\d{0,4}?)'
 const percentRE = '(\\d{1,10}\\.?\\d{0,4}?[%％])'
+const nounRE = '(.{1,20}?)'
 
 const parseRegExp = (str) => {
   return str.replace(/\(/g, '\\(')
     .replace(/\)/g, '\\)').replace(/\$elemt/g, elemtRE)
     .replace(/\$num/g, numRE)
     .replace(/\$percent/g, percentRE)
+    .replace(/\$noun/g, nounRE)
 }
 
 const transSkill = (comment, { commSkillMap, autoTransCache }) => {
   if (autoTransCache.has(comment)) return autoTransCache.get(comment)
   let result = comment
   for (let [key, value] of commSkillMap) {
-    if (!key.trim()) continue
+    if (!trim(key)) continue
     const { trans, type } = value
     if (type === '1') {
       const re = new RegExp(parseRegExp(key), 'gi')
@@ -37,6 +39,8 @@ const transSkill = (comment, { commSkillMap, autoTransCache }) => {
           let eleKey = arr[i].toLowerCase()
           if (elemtMap[eleKey]) {
             _trans = _trans.replace(`$${i}`, elemtMap[eleKey])
+          } else if (commSkillMap.has(eleKey)) {
+            _trans = _trans.replace(`$${i}`, commSkillMap.get(eleKey))
           } else {
             _trans = _trans.replace(`$${i}`, arr[i])
           }
@@ -94,6 +98,7 @@ const previewSkill = (npcId) => {
 }
 
 const parseSkill = async (data, pathname) => {
+  if (Game.lang === 'en') return data
   let npcId
   if (pathname.includes('/npc/npc/')) {
     if (!data.master || !data.master.id) return data
