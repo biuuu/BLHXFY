@@ -1,7 +1,7 @@
 import getSkillData, { skillKeys, getLocalSkillData, getCommSkillMap } from '../store/skill-npc'
 import replaceTurn from '../utils/replaceTurn'
 import transBuff from './buff'
-import { splitSingleLineSkill, getPlusStr } from '../utils/'
+import { splitSingleLineSkill, getPlusStr, trim } from '../utils/'
 
 const elemtRE = '([光闇水火風土無]|light|dark|water|wind|earth|fire|plain)'
 const elemtMap = {
@@ -16,27 +16,30 @@ const elemtMap = {
 const numRE = '(\\d{1,10}\\.?\\d{0,4}?)'
 const percentRE = '(\\d{1,10}\\.?\\d{0,4}?[%％])'
 
-const parseRegExp = (str) => {
+const parseRegExp = (str, nounRE) => {
   return str.replace(/\(/g, '\\(')
     .replace(/\)/g, '\\)').replace(/\$elemt/g, elemtRE)
     .replace(/\$num/g, numRE)
     .replace(/\$percent/g, percentRE)
+    .replace(/\$noun/g, nounRE)
 }
 
-const transSkill = (comment, { commSkillMap, autoTransCache }) => {
+const transSkill = (comment, { commSkillMap, nounMap, nounRE, autoTransCache }) => {
   if (autoTransCache.has(comment)) return autoTransCache.get(comment)
   let result = comment
   for (let [key, value] of commSkillMap) {
-    if (!key.trim()) continue
+    if (!trim(key)) continue
     const { trans, type } = value
     if (type === '1') {
-      const re = new RegExp(parseRegExp(key), 'gi')
+      const re = new RegExp(parseRegExp(key, nounRE), 'gi')
       result = result.replace(re, (...arr) => {
         let _trans = trans
         for (let i = 1; i < arr.length - 2; i++) {
           let eleKey = arr[i].toLowerCase()
           if (elemtMap[eleKey]) {
             _trans = _trans.replace(`$${i}`, elemtMap[eleKey])
+          } else if (nounMap.has(eleKey)) {
+            _trans = _trans.replace(`$${i}`, nounMap.get(eleKey))
           } else {
             _trans = _trans.replace(`$${i}`, arr[i])
           }
@@ -94,6 +97,7 @@ const previewSkill = (npcId) => {
 }
 
 const parseSkill = async (data, pathname) => {
+  if (Game.lang === 'en') return data
   let npcId
   if (pathname.includes('/npc/npc/')) {
     if (!data.master || !data.master.id) return data

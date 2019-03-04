@@ -28,7 +28,9 @@ const state = {
   skillKeys,
   skillData: null,
   commSkillMap: new Map(),
-  autoTransCache: new Map()
+  autoTransCache: new Map(),
+  nounMap: new Map(),
+  nounRE: ''
 }
 
 const getCommSkillMap = async () => {
@@ -36,16 +38,23 @@ const getCommSkillMap = async () => {
   const csvData = await fetchData('/blhxfy/data/common-skill.csv')
   const list = await parseCsv(csvData)
   const sortedList = sortKeywords(list, 'comment')
+  let nounArr = []
   sortedList.forEach(item => {
     if (item.comment && item.trans && item.type) {
       const comment = trim(item.comment)
       const trans = filter(trim(item.trans))
       const type = trim(item.type) || '1'
       if (comment && trans) {
-        state.commSkillMap.set(comment, { trans, type })
+        if (type === '4') {
+          state.nounMap.set(comment, trans)
+          nounArr.push(comment)
+        } else {
+          state.commSkillMap.set(comment, { trans, type })
+        }
       }
     }
   })
+  if (nounArr.length) state.nounRE = `(${nounArr.join('|')})`
   state.cStatus = 'loaded'
 }
 
