@@ -17,7 +17,7 @@
     "lodash": "^4.17.11",
     "papaparse": "^4.3.7",
     "urijs": "^1.19.0",
-    "@ungap/url-search-params": "^0.1.2"
+    "url-search-params": "^1.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0-rc.2",
@@ -30,11 +30,11 @@
     "minimatch": "^3.0.2",
     "gulp-zip": "^4.1.0",
     "md5-file": "^4.0.0",
-    "rollup": "^0.64.1",
+    "rollup": "^1.4.1",
     "rollup-plugin-babel": "^4.0.0-beta.8",
     "rollup-plugin-commonjs": "^9.1.5",
     "rollup-plugin-json": "^3.1.0",
-    "rollup-plugin-node-resolve": "^3.3.0",
+    "rollup-plugin-node-resolve": "^4.0.1",
     "shelljs": "^0.8.2",
     "through2": "^2.0.3"
   }

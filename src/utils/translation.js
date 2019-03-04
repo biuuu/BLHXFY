@@ -1,6 +1,6 @@
 import request from './request'
 import './fix-url-search-params'
-import UrlSearchParams from '@ungap/url-search-params'
+import UrlSearchParams from 'url-search-params'
 import config from '../config'
 
 const getTransResult = (data) => {
