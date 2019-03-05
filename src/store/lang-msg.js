@@ -16,14 +16,15 @@ const getLangMsgData = async () => {
     }
     const list = parseCsv(langMsg)
     list.forEach(item => {
+      let trans = filter(item.trans)
       if (trim(item.id)) {
         item.en && langMsgMap.set(`${item.id}${item.en}`, {
-          trans: filter(item.trans),
+          trans,
           en: item.en,
           jp: item.jp
         })
         item.jp && langMsgMap.set(`${item.jp}`, {
-          trans: filter(item.trans),
+          trans,
           en: item.en,
           jp: item.jp
         })

@@ -1,37 +1,46 @@
-import getSkillData, { skillKeys, getLocalSkillData, getCommSkillMap } from '../store/skill-npc'
+import getSkillData, { skillKeys, getLocalSkillData, getCommSkillMap, saveAutoTrans } from '../store/skill-npc'
 import replaceTurn from '../utils/replaceTurn'
 import transBuff from './buff'
-import { splitSingleLineSkill, getPlusStr } from '../utils/'
+import { splitSingleLineSkill, getPlusStr, trim } from '../utils/'
 
-const elemtRE = '([光闇水火風土]|light|dark|water|wind|earth|fire)'
+const elemtRE = '([光闇水火風土無全]|light|dark|water|wind|earth|fire|plain|all)'
 const elemtMap = {
-  light: '光', '光': '光', 'dark': '暗', '闇': '暗', 'water': '水', '水': '水',
-  wind: '风', '風': '风', 'earth': '土', '土': '土', 'fire': '火', '火': '火'
+  light: '光', '光': '光',
+  dark: '暗', '闇': '暗',
+  water: '水', '水': '水',
+  wind: '风', '風': '风',
+  earth: '土', '土': '土',
+  fire: '火', '火': '火',
+  plain: '无', '無': '无',
+  all: '全', '全': '全'
 }
-const numRE = '(\\d{1,4})'
-const percentRE = '(\\d{1,4}%)'
+const numRE = '(\\d{1,10}\\.?\\d{0,4}?)'
+const percentRE = '(\\d{1,10}\\.?\\d{0,4}?[%％])'
 
-const parseRegExp = (str) => {
+const parseRegExp = (str, nounRE) => {
   return str.replace(/\(/g, '\\(')
     .replace(/\)/g, '\\)').replace(/\$elemt/g, elemtRE)
     .replace(/\$num/g, numRE)
     .replace(/\$percent/g, percentRE)
+    .replace(/\$noun/g, nounRE)
 }
 
-const transSkill = (comment, { commSkillMap, autoTransCache }) => {
+const transSkill = (comment, { commSkillMap, nounMap, nounRE, autoTransCache }) => {
   if (autoTransCache.has(comment)) return autoTransCache.get(comment)
   let result = comment
   for (let [key, value] of commSkillMap) {
-    if (!key.trim()) continue
+    if (!trim(key)) continue
     const { trans, type } = value
     if (type === '1') {
-      const re = new RegExp(parseRegExp(key), 'gi')
+      const re = new RegExp(parseRegExp(key, nounRE), 'gi')
       result = result.replace(re, (...arr) => {
         let _trans = trans
         for (let i = 1; i < arr.length - 2; i++) {
           let eleKey = arr[i].toLowerCase()
           if (elemtMap[eleKey]) {
             _trans = _trans.replace(`$${i}`, elemtMap[eleKey])
+          } else if (nounMap.has(eleKey)) {
+            _trans = _trans.replace(`$${i}`, nounMap.get(eleKey))
           } else {
             _trans = _trans.replace(`$${i}`, arr[i])
           }
@@ -39,12 +48,18 @@ const transSkill = (comment, { commSkillMap, autoTransCache }) => {
         return _trans
       })
     } else if (type === '2') {
-      result = result.replace(key, trans)
+      let res, i = 0
+      while (res !== result && i < 10) {
+        res = result
+        result = result.replace(key, trans)
+        i++
+      }
     } else if (type === '3') {
       result = result.replace(`(${key})`, `(${trans})`)
     }
   }
   autoTransCache.set(comment, result)
+  saveAutoTrans()
   return result
 }
 
@@ -84,6 +99,7 @@ const previewSkill = (npcId) => {
 }
 
 const parseSkill = async (data, pathname) => {
+  if (Game.lang === 'en') return data
   let npcId
   if (pathname.includes('/npc/npc/')) {
     if (!data.master || !data.master.id) return data
@@ -171,4 +187,5 @@ const parseSkill = async (data, pathname) => {
   return data
 }
 
+export { transSkill }
 export default parseSkill

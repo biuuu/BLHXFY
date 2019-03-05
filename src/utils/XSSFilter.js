@@ -12,7 +12,7 @@ const whiteList = [
 ]
 
 const filter = (str) => {
-  if (!whiteList.includes(str)) {
+  if (!whiteList.includes(str) && /[><]/.test(str)) {
     return DOMPurify.sanitize(str)
   }
   return str

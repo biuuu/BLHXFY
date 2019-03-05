@@ -3,13 +3,14 @@ import getSkillData from '../store/skill-job'
 import isObject from 'lodash/isObject'
 import isArray from 'lodash/isArray'
 import replaceTurn from '../utils/replaceTurn'
-import getNpcSkillData from '../store/skill-npc'
+import getNpcSkillData, { getCommSkillMap, skillState } from '../store/skill-npc'
 import { getPlusStr, removeHtmlTag, race } from '../utils/'
 import CONFIG from '../config'
+import { transSkill } from './skill-npc'
+import debounce from 'lodash/debounce'
 
 const skillTemp = new Map()
 const posMap = new Map()
-let timer = null
 let count = 0
 let observered = false
 let obConfig = {
@@ -62,11 +63,7 @@ const viraSkillTitleFunc = () => {
   }
 }
 
-const viraSkillTitle = () => {
-  clearTimeout(timer)
-  viraSkillTitleFunc()
-  timer = setTimeout(viraSkillTitleFunc, 500)
-}
+const viraSkillTitle = debounce(viraSkillTitleFunc, 500)
 
 
 const collectNpcSkill = (skillData) => {
@@ -103,6 +100,7 @@ const battle = async function battle(data, mode) {
     })
   }
 
+  await getCommSkillMap()
   // translate skill
   if (isObject(ability)) {
     for (let abKey in ability) {
@@ -142,6 +140,10 @@ const battle = async function battle(data, mode) {
                     if (!skillTemp.has(name)) skillTemp.set(name, trans)
                     skill['ability-name'] = trans.name
                     skill['text-data'] = trans.detail
+                  } else {
+                    let detail = await transSkill(skill['text-data'], state)
+                    skill['text-data'] = detail
+                    if (!skillTemp.has(name)) skillTemp.set(name, { name, detail })
                   }
                 } else {
                   const [plus1, plus2] = getPlusStr(name)
@@ -151,9 +153,24 @@ const battle = async function battle(data, mode) {
                     if (!skillTemp.has(name)) skillTemp.set(name, trans)
                     skill['ability-name'] = `${trans.name}${plus1}`
                     skill['text-data'] = trans.detail
+                  } else {
+                    let detail = await transSkill(skill['text-data'], state)
+                    skill['text-data'] = detail
+                    if (!skillTemp.has(name)) skillTemp.set(name, { name, detail })
                   }
                   skill['duration-type'] = replaceTurn(skill['duration-type'])
                 }
+              }
+            }
+          } else {
+            for (let key in item.list) {
+              let arr = item.list[key]
+              let skill = arr[0]
+              if (skill && skill['ability-name'] && skill['text-data']) {
+                const name = skill['ability-name']
+                const detail = await transSkill(skill['text-data'], state)
+                skill['text-data'] = detail
+                if (!skillTemp.has(name)) skillTemp.set(name, { name, detail })
               }
             }
           }
@@ -161,7 +178,6 @@ const battle = async function battle(data, mode) {
       }
     }
   }
-
   // translate speciall skill
   if (mode !== 'result' && data.player && isArray(data.player.param)) {
     const param = data.player.param
@@ -181,6 +197,10 @@ const battle = async function battle(data, mode) {
               if (!skillTemp.has(name)) skillTemp.set(name, trans)
               item['special_skill'] = trans.name
               item['special_comment'] = trans.detail
+            } else {
+              let detail = await transSkill(item['special_comment'], state)
+              item['special_comment'] = detail
+              if (!skillTemp.has(name)) skillTemp.set(name, { name, detail })
             }
           } else {
             const [plus1, plus2] = getPlusStr(name)
@@ -190,13 +210,41 @@ const battle = async function battle(data, mode) {
               if (!skillTemp.has(name)) skillTemp.set(name, trans)
               item['special_skill'] = `${trans.name}${plus1}`
               item['special_comment'] = trans.detail
+            } else {
+              let detail = await transSkill(item['special_comment'], state)
+              item['special_comment'] = detail
+              if (!skillTemp.has(name)) skillTemp.set(name, { name, detail })
             }
           }
+        }
+      } else {
+        if (item['special_skill'] && item['special_comment']) {
+          const name = item['special_skill']
+          const detail = await transSkill(item['special_comment'], state)
+          item['special_comment'] = detail
+          if (!skillTemp.has(name)) skillTemp.set(name, { name, detail })
         }
       }
     }
   }
-
+  // translate summon
+  if (data.summon && isArray(data.summon)) {
+    for (let item of data.summon) {
+      if (item) {
+        if (item.comment) {
+          item.comment = await transSkill(item.comment, skillState)
+        }
+        if (item.protection) {
+          item.protection = await transSkill(item.protection, skillState)
+        }
+      }
+    }
+  }
+  if (data.supporter && data.supporter.name) {
+    data.supporter.comment = await transSkill(data.supporter.comment, skillState)
+    data.supporter.detail = await transSkill(data.supporter.detail, skillState)
+    data.supporter.protection = await transSkill(data.supporter.protection, skillState)
+  }
   // translate scenario
   if (scenario) {
     for (let scKey in scenario) {

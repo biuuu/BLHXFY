@@ -1,6 +1,6 @@
 {
   "name": "blhxfy",
-  "version": "1.7.0",
+  "version": "1.7.5",
   "description": "碧蓝幻想汉化脚本",
   "main": "./src/main.js",
   "scripts": {
@@ -12,12 +12,10 @@
   "author": "biuuu",
   "license": "MIT",
   "dependencies": {
-    "core-js": "^2.5.7",
-    "dompurify": "^1.0.8",
+    "dompurify": "^1.0.10",
     "events": "^3.0.0",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.11",
     "papaparse": "^4.3.7",
-    "rollup": "^0.64.1",
     "urijs": "^1.19.0",
     "url-search-params": "^1.1.0"
   },
@@ -25,19 +23,18 @@
     "@babel/core": "^7.0.0-rc.2",
     "@babel/polyfill": "^7.0.0-rc.2",
     "@babel/preset-env": "^7.0.0-rc.2",
-    "comma-separated-values": "^3.6.4",
     "del": "^3.0.0",
     "fs-extra": "^5.0.0",
     "gh-pages": "^2.0.1",
     "gulp": "^3.9.1",
-    "gulp-babel": "^8.0.0-beta.2",
-    "gulp-md5": "^0.1.2",
+    "minimatch": "^3.0.2",
     "gulp-zip": "^4.1.0",
     "md5-file": "^4.0.0",
+    "rollup": "^1.4.1",
     "rollup-plugin-babel": "^4.0.0-beta.8",
     "rollup-plugin-commonjs": "^9.1.5",
     "rollup-plugin-json": "^3.1.0",
-    "rollup-plugin-node-resolve": "^3.3.0",
+    "rollup-plugin-node-resolve": "^4.0.1",
     "shelljs": "^0.8.2",
     "through2": "^2.0.3"
   }

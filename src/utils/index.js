@@ -114,7 +114,7 @@ const race = (func) => {
     const promise2 = new Promise(rev => {
       setTimeout(() => {
         rev(args[0])
-      }, 300)
+      }, 500)
     })
     return Promise.race([promise1, promise2])
   }
