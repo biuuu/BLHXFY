@@ -3,7 +3,7 @@ import replaceTurn from '../utils/replaceTurn'
 import transBuff from './buff'
 import { splitSingleLineSkill, getPlusStr, trim } from '../utils/'
 
-const elemtRE = '([光闇水火風土無]|light|dark|water|wind|earth|fire|plain)'
+const elemtRE = '([光闇水火風土無全]|light|dark|water|wind|earth|fire|plain|all)'
 const elemtMap = {
   light: '光', '光': '光',
   dark: '暗', '闇': '暗',
@@ -11,7 +11,8 @@ const elemtMap = {
   wind: '风', '風': '风',
   earth: '土', '土': '土',
   fire: '火', '火': '火',
-  plain: '无', '無': '无'
+  plain: '无', '無': '无',
+  all: '全', '全': '全'
 }
 const numRE = '(\\d{1,10}\\.?\\d{0,4}?)'
 const percentRE = '(\\d{1,10}\\.?\\d{0,4}?[%％])'

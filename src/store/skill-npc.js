@@ -87,7 +87,7 @@ const getSkillMap = async () => {
 }
 
 const saveAutoTrans = debounce(() => {
-  const arr = [...state.autoTransCache].slice(-80)
+  const arr = [...state.autoTransCache].slice(-200)
   setLocalData('auto-trans', JSON.stringify(arr))
 }, 500)
 

@@ -8,6 +8,8 @@ import transTownInfo from './modules/town-info'
 import transIslandInfo from './modules/island-info'
 import transChat from './modules/chat-preset'
 import transBattle from './modules/battle'
+import weaponSkill from './modules/weapon'
+import summonSkill from './modules/summon'
 import transBuff from './modules/buff'
 import pageIndex, { replaceHour } from './modules/page-index'
 import showVoiceSub from './modules/voice-sub'
@@ -74,6 +76,16 @@ export default async function translate(state) {
       await transBuff(data.condition)
     } else if (pathname.includes('/user/status')) {
       data = replaceHour(data, 'user')
+    } else if (
+      pathname.includes('/weapon/weapon/') ||
+      pathname.includes('/archive/weapon_detail')
+    ) {
+      data = await weaponSkill(data)
+    } else if (
+      pathname.includes('/summon/summon/') ||
+      pathname.includes('/archive/summon_detail')
+    ) {
+      data = await summonSkill(data)
     } else {
       return
     }
