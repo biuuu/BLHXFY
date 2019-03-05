@@ -32,6 +32,9 @@ path,text,trans,count
 /content,絞り込み,缩小范围,2
 /content,レアリティ,稀有度,4
 /content,武器の種類,武器的种类,3
+/content,発動,发动,10
+/content,習得,习得,21
+/content,変更,变更,9
 /content,<div class="prt-group-header">ボーナス</div>,<div class='prt-group-header'>+1</div>,
 /content,スキル,技能,10
 /content,並び替える条件をひとつ選択してください,请选择重新排列的条件,2
@@ -330,14 +333,9 @@ path,text,trans,count
 /party/content/list_subaction,リミットアビリティ,LB技能,
 /party/content/list_subaction,ベースアビリティ,基础技能,
 /quest/content/scene,このお話のあらすじ,这一节的故事梗概,
-/detail/content/detail,スキル,技能,5
-/detail/content/detail,発動,发动,
-/detail/content/detail,習得,习得,21
-/detail/content/detail,変更,变更,9
-/detail/content/detail,加護,加护,4
-/detail/content/detail,メイン装備時,主召唤时,
-/detail/content/detail,サブ装備時,副召唤时,
-/detail/content/detail,サポーター選択時,支援选择时,
+/content/detail,メイン装備時,主召唤时,
+/content/detail,サブ装備時,副召唤时,
+/content/detail,サポーター選択時,支援选择时,
 /detail/content/detail,"<div class=""prt-title"">アビリティ</div>",<div class=prt-title>技能</div>,
 /detail/content/detail,トライアルキャラでは使用できないアビリティです,不能与试用角色一起使用的技能,5
 /detail/content/detail,発生条件,开始条件,4
@@ -345,7 +343,6 @@ path,text,trans,count
 /detail/content/detail,習得クエストへ,解锁任务,8
 /detail/content/detail,サポートアビリティ,被动技能,
 /detail/content/detail,倉庫に預ける,存入仓库,2
-/detail/content/detail,売却,出售,10
 /detail/content/detail,エレメント化,分解,3
 /detail/content/detail,スキン・POSE切り替え設定,皮肤・POSE切换设置,3
 /detail/content/detail,保護を解除する,解除保护,
