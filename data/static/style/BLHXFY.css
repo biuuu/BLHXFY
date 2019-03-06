@@ -660,3 +660,14 @@ body .cnt-setting [id^=prt-setting-index] .btn-setting-questuseful {
   background: url(/blhxfy/data/static/image/setting-thumb.png?lacia) no-repeat 0 -120px;
   background-size: 92px auto;
 }
+.comic-transtag-blhxfy {
+  position: absolute;
+  color: #ffffff;
+  left: 10px;
+  top: 10px;
+  font-size: 8px;
+  background: #00a3aba1;
+  padding: 1px 4px;
+  border-radius: 2px;
+  box-shadow: 0 0 1px #000000b0;
+}
