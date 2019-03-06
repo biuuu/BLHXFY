@@ -1,14 +1,11 @@
 import EventEmitter  from 'events'
 import config from './config'
-import DOMPurify from 'dompurify'
-import isString from 'lodash/isString'
 
 const { origin } = config
 let ee = new EventEmitter()
 let lacia
 
 const insertCSS = (name) => {
-
   const link = document.createElement('link')
   link.type = 'text/css'
   link.rel = 'stylesheet'
@@ -30,20 +27,14 @@ const timeoutStyle = () => {
 }
 
 const load = new Promise((rev, rej) => {
-  let timer
   window.addEventListener('load', () => {
     const iframe = document.createElement('iframe')
     iframe.src = `${origin}/blhxfy/lacia.html`
     iframe.style.display = 'none'
     document.body.appendChild(iframe)
     lacia = iframe.contentWindow
-    timer = setTimeout(() => {
-      rej('加载lacia.html超时')
-      timeoutStyle()
-    }, config.timeout * 1000)
   })
   ee.once('loaded', () => {
-    clearTimeout(timer)
     rev()
   })
 })
@@ -72,19 +63,78 @@ const fetchData = async (pathname) => {
   })
 }
 
-const getHash = fetchData('/blhxfy/manifest.json')
-  .then(data => {
-    config.newVersion = data.version
-    return data.hash
-  }).then(hash => {
-    config.hash = hash
-    insertCSS('BLHXFY')
-    return hash
-  })
+let fetchInfo = {
+  status: 'init',
+  result: false,
+  data: null
+}
+const tryFetch = async () => {
+  if (window.fetch) {
+    if (sessionStorage.getItem('blhxfy:cors') === 'disabled') {
+      fetchInfo.status = 'finished'
+      return
+    }
+    try {
+      const res = await fetch(`${origin}/blhxfy/manifest.json`)
+      const data = await res.json()
+      fetchInfo.data = data
+      fetchInfo.result = true
+      sessionStorage.setItem('blhxfy:cors', 'enabled')
+    } catch (e) {
+      sessionStorage.setItem('blhxfy:cors', 'disabled')
+    }
+  }
+  fetchInfo.status = 'finished'
+}
+
+const request = async (pathname) => {
+  if (fetchInfo.result) {
+    return new Promise((rev, rej) => {
+      let timer = setTimeout(() => {
+        rej(`加载${pathname}超时`)
+        timeoutStyle()
+      }, config.timeout * 1000)
+      fetch(`${origin}${pathname}`)
+      .then(res => {
+        clearTimeout(timer)
+        const type = res.headers.get('content-type')
+        if (type.includes('json')) {
+          return res.json()
+        }
+        return res.text()
+      }).then(rev).catch(rej)
+    })
+  } else {
+    return await fetchData(pathname)
+  }
+}
+
+const getHash = new Promise((rev, rej) => {
+  if (fetchInfo.status !== 'finished') {
+    tryFetch().then(() => {
+      const beforeStart = (data) => {
+        config.newVersion = data.version
+        config.hash = data.hash
+        insertCSS('BLHXFY')
+      }
+      if (fetchInfo.result) {
+        beforeStart(fetchInfo.data)
+        rev(fetchInfo.data.hash)
+      } else {
+        fetchData('/blhxfy/manifest.json').then(data => {
+          beforeStart(data)
+          rev(data.hash)
+        })
+      }
+    })
+  } else {
+    rev(fetchInfo.data.hash)
+  }
+})
 
 const fetchWithHash = async (pathname) => {
   const hash = await getHash
-  const data = await fetchData(`${pathname}?lacia=${hash}`)
+  const data = await request(`${pathname}?lacia=${hash}`)
   return data
 }
 
