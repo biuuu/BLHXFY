@@ -10,13 +10,13 @@ import transChat from './modules/chat-preset'
 import transBattle from './modules/battle'
 import weaponSkill from './modules/weapon'
 import summonSkill from './modules/summon'
+import transComic from './modules/comic'
 import transBuff from './modules/buff'
 import pageIndex, { replaceHour } from './modules/page-index'
 import showVoiceSub from './modules/voice-sub'
 import { getUserName, setUserName } from './store/name-user'
 
 const apiHosts = ['game.granbluefantasy.jp', 'gbf.game.mbga.jp']
-const voiceHosts = ['game-a5.granbluefantasy.jp', 'gbf.game-a5.mbga.jp']
 
 export default async function translate(state) {
   const uri = URI(state.url)
@@ -38,17 +38,19 @@ export default async function translate(state) {
         if (pathname.includes('/profile/content/index/')) {
           getUserName(data)
         }
-        data = await transLangMsg(data, pathname)
         if (pathname.includes('/user/content/index')) {
           data = await transTownInfo(data, pathname)
           data = await pageIndex(data, pathname)
         } else {
           data = replaceHour(data)
         }
+        if (pathname.includes('/comic/content/episode/')) {
+          data = await transComic(data, pathname)
+        }
       } catch (err) {
         console.error(err)
       }
-      data = await transHTML(data, pathname)
+      await Promise.all([transLangMsg(data, pathname), transHTML(data, pathname)])
     } else if (pathname.includes('/npc/npc/') || pathname.includes('/archive/npc_detail')) {
       data = await transNpcSkill(data, pathname)
     } else if (

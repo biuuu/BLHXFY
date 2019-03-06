@@ -29,6 +29,9 @@ const pageIndex = async (data) => {
 }
 
 const replaceHour = (data, type) => {
+  if (!data.status && !data.option && !data.option.user_status) {
+    return data
+  }
   let status
   try {
     if (type === 'user') {
