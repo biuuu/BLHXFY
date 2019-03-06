@@ -337,7 +337,7 @@ cjs_npc_evolution_1,%sの\n最大Lvが%s→%sになった！,%s's level cap rose
 cjs_summon_evolution_1,%sの\n最大Lvが%s→%sになった！,%s's level cap rose\nfrom %s to %s!,%s的\n最大Lv由%s变为%s！
 comic_1,シナリオパターン選択,Choose Your Route,选择剧情
 comic_1,ぐらぶるっ!,Grand Blues,小碧蓝幻想！
-comic_2,ぐらぶるっ! タイトル一覧!,Grand Blues,小碧蓝幻想！标题目录
+comic_2,ぐらぶるっ! タイトル一覧,Grand Blues,小碧蓝幻想！标题目录
 container_22,倉庫,Stash,仓库
 container_25,召喚石,Summons,召唤石
 container_26,移動先倉庫選択,Stash,选择目标仓库
