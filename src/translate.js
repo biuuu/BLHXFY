@@ -47,10 +47,15 @@ export default async function translate(state) {
         if (pathname.includes('/comic/content/episode/')) {
           data = await transComic(data, pathname)
         }
+        if (pathname.includes('/comic/content/index')) {
+          data = await transComic(data, pathname, 'template')
+        }
       } catch (err) {
         console.error(err)
       }
       await Promise.all([transLangMsg(data, pathname), transHTML(data, pathname)])
+    } else if (pathname.includes('/comic/list/')) {
+      data = await transComic(data, pathname, 'data')
     } else if (pathname.includes('/npc/npc/') || pathname.includes('/archive/npc_detail')) {
       data = await transNpcSkill(data, pathname)
     } else if (
