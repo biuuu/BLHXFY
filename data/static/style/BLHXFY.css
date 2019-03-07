@@ -662,12 +662,13 @@ body .cnt-setting [id^=prt-setting-index] .btn-setting-questuseful {
 }
 .comic-transtag-blhxfy {
   position: absolute;
-  color: #ffffff;
-  left: 10px;
-  top: 10px;
-  font-size: 8px;
-  background: #00a3aba1;
-  padding: 1px 4px;
-  border-radius: 2px;
-  box-shadow: 0 0 1px #000000b0;
+  color: #c20d0d;
+  right: 11px;
+  font-weight: bold;
+  top: 11px;
+  text-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+  font-size: 10px;
+}
+.btn-episode {
+  position: relative;
 }
