@@ -11,7 +11,7 @@ const getUserName = (data) => {
 }
 
 const setUserName = () => {
-  if (!config.userName && Game.userId) {
+  if ((!config.userName || config.userName === '<span>古兰</span>') && Game.userId && location.hash !== '#tutorial/4' && location.hash !== '#tutorial/6' && location.hash !== '#tutorial/8') {
     require(['model/content'], function(mc) {
       let req = new mc({
           controller: "profile",
@@ -22,7 +22,7 @@ const setUserName = () => {
       })
       req.fetch()
     })
-    config.userName = '古兰'
+    config.userName = '<span>古兰</span>'
     localStorage.setItem('blhxfy:name', config.userName)
   }
 }
