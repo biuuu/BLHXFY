@@ -69,7 +69,10 @@ export default async function translate(state) {
       data = await transIslandInfo(data, pathname)
     } else if (pathname.includes('/rest/sound/mypage_voice')) {
       await showVoiceSub(data, pathname, 'list')
-    } else if (/\/rest\/(multi)?raid\/start\.json/.test(pathname)) {
+    } else if (
+      /\/rest\/(multi)?raid\/start\.json/.test(pathname)
+      || /\/rest\/tutorial\/tutorial\d{1,2}\.json/.test(pathname)
+    ) {
       data = await transChat(data)
       data = await transBattle(data)
     } else if (
@@ -77,6 +80,7 @@ export default async function translate(state) {
       || /\/rest\/(multi)?raid\/temporary_item_result\.json/.test(pathname)
       || /\/rest\/(multi)?raid\/normal_attack_result\.json/.test(pathname)
       || /\/rest\/(multi)?raid\/summon_result\.json/.test(pathname)
+      || /\/rest\/tutorial\/tutorial_battle_\d+_\d+\.json/.test(pathname)
     ) {
       data = await transBattle(data, 'result')
     } else if (/\/rest\/.*?raid\/condition\/\d+\/\d\/\d\.json/.test(pathname)) {

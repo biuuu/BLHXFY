@@ -146,6 +146,12 @@ const getScenario = async (name) => {
       const type = idArr[1] || 'detail'
       const obj = transMap.get(id) || {}
       obj[type] = item.trans ? filter(item.trans.replace(new RegExp(config.defaultName, 'g'), config.displayName || config.userName)) : false
+      if (item.trans) {
+        const rep = new RegExp(config.defaultName, 'g')
+        const uname = config.displayName || config.userName
+        const str = filter(item.trans.replace(rep, uname))
+        obj[type] = str.replace(/<span\sclass="nickname"><\/span>/g, `<span class='nickname'></span>`)
+      }
       obj[`${type}-origin`] = item.trans
       transMap.set(id, obj)
     }
@@ -233,6 +239,18 @@ const replaceChar = (key, item, map, scenarioName) => {
   }
 }
 
+const getUsernameFromTutorial = (data) => {
+  for (let item of data) {
+    let id = parseInt(item.id)
+    if (id === 25 || id === 24) {
+      if (item.charcter1_name) {
+        config.userName = item.charcter1_name
+        localStorage.setItem('blhxfy:name', config.userName)
+      }
+    }
+  }
+}
+
 const transStart = async (data, pathname) => {
   const pathRst = pathname.match(/\/[^/]*?scenario.*?\/(scene[^\/]+)\/?/)
   if (!pathRst || !pathRst[1]) return data
@@ -241,6 +259,9 @@ const transStart = async (data, pathname) => {
     let rst = pathname.match(/\/[^/]*?scenario.*?\/(scene.+)$/)
     if (!rst || !rst[1]) return data
     sNameTemp = rst[1].replace(/\//g, '_')
+  }
+  if (pathname.includes('scene_tutorial02')) {
+    getUsernameFromTutorial(data)
   }
   insertToolHtml()
   autoDownloadCsv()
