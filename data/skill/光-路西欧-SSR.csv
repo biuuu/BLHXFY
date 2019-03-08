@@ -5,7 +5,7 @@ skill-1,夏娃的劝诱,我方全体获得屏障效果（1000）/攻防20%UP
 skill-1+,夏娃的劝诱,我方全体获得屏障效果（1000）/攻防25%UP
 skill-2,死灰复燃,对敌方单体造成8倍光属性伤害
 skill-2+,死灰复燃,对敌方单体造成9倍光属性伤害
-skill-3,觉醒,<div class=prt-text-small>自身获得光属性追击效果（90%）/三连击率30%UP/暗属性伤害减免(75%)/负面效果抗性100%UP</div>
+skill-3,觉醒,<div class=prt-text-small>自身获得光属性追击效果（90%）/三连击率30%UP/暗属性伤害减免(75%)/弱化效果抗性100%UP</div>
 support-1,启明星,随回合数增加，自身光属性攻击力4%UP/对暗属性防御3%DOWN
 support-2,神圣正义之翼,每回合连击率UP<br><span class=text-blue>◆受到伤害后解除</span>
 skill-lb,LB技能,奥义发动时回复我方全体HP
