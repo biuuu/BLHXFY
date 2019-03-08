@@ -1,7 +1,7 @@
 ﻿id,name,detail
 npc,圣德芬,3040153000
 special,无限之光,<div class=prt-text-small>光属性伤害(特大)/审判之钟效果</div>
-special++,无限之光,<div class=prt-text-small>光属性伤害(特大)/审判之钟效果<span class=text-blue>◆下一次奥义转为「失乐园」</span></div>
+special++,无限之光,<div class=prt-text-small>光属性伤害(特大)/审判之钟效果<span class=text-blue><br>◆下一次奥义转为「失乐园」</span></div>
 special-パラダイス・ロスト,失乐园,<span class="prt-text-small">光属性伤害(特大)/审判之钟效果/自身光属性攻击UP/光属性追击效果/乐园追放效果</span>
 special-Paradise Lost,失乐园,<span class="prt-text-small">光属性伤害(特大)/审判之钟效果/自身光属性攻击UP/光属性追击效果/乐园追放效果</span>
 skill-1,孤身在天堂,<div class=prt-text-small>自身连击概率UP(DA50%/TA10%)/防御UP(15%)/反击効果(受伤害时/5次)</div>
