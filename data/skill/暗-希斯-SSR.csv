@@ -13,6 +13,6 @@ skill-3,鬼门・修罗,<div class=prt-text-small>每回合攻击30%UP(最大255
 skill-3+,鬼门・修罗,<div class=prt-text-small>每回合攻击50%UP(最大255%)/HP越低三连击率越高/HP极低时获得吸收效果/无敌效果(1次)<span class=text-blue>◆受伤时解除</span></div>
 skill-4,六崩之觉悟,4回合间回避敌方所有攻击(不可消去)/进行2次普攻(不可消去)<span class=text-blue>◆无法再次使用</span>
 support-1,神狼,必定连击/有极小概率回避敌人所有攻击
-support-2,反击的狼烟,受伤时有几率反击(1次)/欢迎效果中，获得暗属性追击效果
-skill-lb,LB技能,普攻有几率赋予敌人防御5%DOWN效果(最大10%)
+support-2,反击的狼烟,受伤时有概率反击(1次)/欢迎效果中，获得暗属性追击效果
+skill-lb,LB技能,普攻有概率赋予敌人防御5%DOWN效果(最大10%)
 ,,

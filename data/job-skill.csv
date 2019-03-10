@@ -74,7 +74,7 @@ id,ja,en,name,detail
 5000,ブレイクアサシン,Crack Shot,要害痛击,自身的攻击力大幅度UP（目标Break状态时/1次）
 30023,おたから狙い,Looking for Treasure,瞄准宝藏,财宝猎手成功概率UP/根据掉宝LV上升攻击力
 1200,ディレイ,Stall,指针倒退,对目标造成自身属性伤害/减速效果
-30029,サボタージ,Sabotage,秘境,弱体成功概率UP
+30029,サボタージ,Sabotage,秘境,弱化成功概率UP
 250,カウンター,Counter,防守反击,防守反击效果（回避/3次）自己的攻击力UP
 30095,虎襲の構え,Tigerstrike Solace,猛虎势,攻击力UP
 187,ライトウェイト,Quick Step,身轻如燕,回避目标的所有攻击
@@ -118,13 +118,13 @@ id,ja,en,name,detail
 5452,ブレイクアサシンIII,Crack Shot III,要害痛击III,自身的攻击力大幅度UP（目标Break状态时/1次）/暴击概率UP
 30087,トレジャーエイム,Eyes on the Prize,宝藏嗅觉,宝藏猎手成功概率UP/根据掉宝LV攻击力UP/金币获得量UP
 1226,ディレイIII,Stall III,指针倒退III,对目标造成自身属性伤害/减速效果
-30088,デモリッシュ,Demolish,魔性,弱体成功概率UP/弱体耐性UP
+30088,デモリッシュ,Demolish,魔性,弱化成功概率UP/弱体耐性UP
 285,ナイフハンド・ストライク,Knifehand Strike,刽子手强袭,防守反击效果（受到伤害/3次）自己的防御力UP/敌对心UP
 30090,受けの美学,False Finish,接受的美学,攻击力UP/只有一次受到战斗不能的状态时HP最多减少至1
 9525,チャフリリース,Evasive Maneuvers,降临解放,<div class=prt-text-small>对目标造成8倍的自身属性伤害/回避所有攻击/攻击力UP（特大）<span class=text-blue>◆回避时追加效果：给予全体目标自身属性伤害/失明效果</span></div>
 35705,闇夜の狩人,Night Hunter,暗夜的猎手,对弱体状态的敌人攻击力UP/负面效果[失明]无效
 3304,コンクルージョン,Concludere,喝彩,<div class=prt-text-small>所有参战者的恢复性能UP（累积）/自身属性攻击力UP★装备乐器时性能UP</div>
-30100,ミステリオーソ,Misterioso,神秘奇袭,受到目标OVER DRIVE时的伤害减少/我方全体对弱点属性的对象的弱体成功率UP
+30100,ミステリオーソ,Misterioso,神秘奇袭,受到目标OVER DRIVE时的伤害减少/我方全体对弱点属性的对象的弱化成功率UP
 30101,アパッショナート,Appassionato,齐奏,<div class=prt-text-small>调停之歌的二连击概率UP<br>使用喝彩时根据参战者的人数我方全体攻击力UP防御力UP</div>
 9537,雷光水明,Thunder on the Water,雷光水明,<div class=prt-text-small>对目标造成自身属性伤害　<span class=text-blue>枪：维持Break状态/所有参战者的技能伤害UP 斧：减少OD条/我方全体的奥义值UP</span></div>
 30097,水の中で動くもの、雲の海に生きるもの,"Swim Like a Bird, Fly Like a Fish",动于水下之物，生于云海之物,攻击力UP/防御力UP<br>枪装备时连续攻击概率UP<br>斧装备时在单次攻击时追加自身属性伤害
@@ -228,7 +228,7 @@ id,ja,en,name,detail
 9531,狂信演舞,Dance of Zeal,狂信演舞,自分以外の味方に攻撃UP/防御DOWN/自分に献身効果
 249,エインフェリアル,Einherjar,英灵化,每回合攻击力UP <span class=text-blue>◆受到伤害解除</span>
 608,湧水の羽衣,Springwater Robe,湧水の羽衣,自分に幻影効果(2回)/湧水の羽衣効果
-9532,水鳥の歌詠,Swan Song,水鳥の歌詠,<div class=prt-text-small>参戦者の奥義ゲージ上昇量UP<br><span class=text-blue>槍：参戦者にクリティカル確率UP<br>斧：味方全体にHP吸収効果/弱体成功率UP</span></div>
+9532,水鳥の歌詠,Swan Song,水鳥の歌詠,<div class=prt-text-small>参戦者の奥義ゲージ上昇量UP<br><span class=text-blue>槍：参戦者にクリティカル確率UP<br>斧：味方全体にHP吸収効果/弱化成功率UP</span></div>
 200111,曼珠沙華,Crestfallen Flower,曼珠沙華,<div class=prt-text-small>自分の弱体耐性UP<br><span class=text-blue>槍：味方全体にストレングス効果<br>斧：味方全体に逆境効果</span></div>
 5061,ランドグリース,Randgrith,碎盾者,降低目标的防御
 7200,鬼神の丸薬,Fury Capsule,鬼神の丸薬,3ターン後に味方全体の攻撃UP(大)

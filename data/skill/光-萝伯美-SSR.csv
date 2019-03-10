@@ -6,4 +6,4 @@ skill-2,虹色弧光,<div class=prt-text-small>对全体敌人造成10倍光属�
 skill-3,咆哮十字,<div class=prt-text-small>自身攻击UP(50%)/格挡效果(70%概率减轻30%伤害)<br><span class=text-blue>◆消耗1能量</span></div>
 support-1,关联转换器,<div class=prt-text-small>受到队伍成员回血或强化效果时，回复2能量<br><span class=text-blue>◆战斗开始时能量值为5(最大5)/战斗开始时子弹数为3(无法回复)</span></div>
 support-2,高机动型躯体,伤害技能1回合中能够连续使用2次
-skill-lb,LB技能,技能「超斥力风暴」有几率不消耗子弹
+skill-lb,LB技能,技能「超斥力风暴」有概率不消耗子弹
