@@ -667,7 +667,11 @@ body .cnt-setting [id^=prt-setting-index] .btn-setting-questuseful {
   font-weight: bold;
   top: 11px;
   text-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
-  font-size: 10px;
+  font-size: 0;
+  width: 14px;
+  height: 14px;
+  background: url(/blhxfy/data/static/image/star.png);
+  background-size: cover;
 }
 .btn-episode {
   position: relative;
