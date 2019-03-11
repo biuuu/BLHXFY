@@ -328,7 +328,7 @@ path,text,trans,count
 /party/content/list_subaction,全てのアビリティ,所有技能,
 /party/content/list_subaction,ダメージアビリティ,伤害技能,
 /party/content/list_subaction,強化アビリティ,强化技能,
-/party/content/list_subaction,弱体アビリティ,弱化技能,
+/party/content/list_subaction,弱化アビリティ,弱化技能,
 /party/content/list_subaction,回復アビリティ,回复技能,
 /party/content/list_subaction,リミットアビリティ,LB技能,
 /party/content/list_subaction,ベースアビリティ,基础技能,
