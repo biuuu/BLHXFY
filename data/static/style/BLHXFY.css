@@ -79,6 +79,9 @@ body .pop-auto-detail-setting.pop-usual .btn-usual-ok::after {
 body div#pop-deck div.prt-register div.btn-usual-register::after {
   content: "复制当前队伍配置到此队伍" !important;
 }
+.pop-confirm-battle.pop-usual .btn-usual-ok.retry-quest::after, .pop-startatonce.pop-usual .btn-usual-ok.retry-quest::after {
+  content: "任务挑战";
+}
 body .pop-cleared-episode .btn-episode-event::after {
   content: '只看剧情';
 }
