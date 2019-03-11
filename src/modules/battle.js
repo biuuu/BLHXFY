@@ -117,6 +117,10 @@ const battle = async function battle(data, mode) {
                 if (!skillTemp.has(name)) skillTemp.set(name, trans)
                 skill['ability-name'] = trans.name
                 skill['text-data'] = trans.detail
+              } else {
+                const tsDetail = await transSkill(skill['text-data'], skillState)
+                skill['text-data'] = tsDetail
+                if (!skillTemp.has(name)) skillTemp.set(name, { name, detail: tsDetail })
               }
               skill['duration-type'] = replaceTurn(skill['duration-type'])
             }
@@ -134,32 +138,41 @@ const battle = async function battle(data, mode) {
               let skill = arr[0]
               if (skill && skill['ability-name']) {
                 const name = skill['ability-name']
-                if (skillData[`skill-${name}`]) {
-                  const trans = skillData[`skill-${name}`]
+                const [plus1, plus2, _name] = getPlusStr(name)
+                if (skillData[`skill-${_name}`]) {
+                  let trans = skillData[`skill-${_name}${plus2}`]
+                  if (!trans) trans = skillData[`skill-${_name}`]
+                  let tsName = name
+                  let tsDetail = skill['text-data']
                   if (trans) {
-                    if (!skillTemp.has(name)) skillTemp.set(name, trans)
-                    skill['ability-name'] = trans.name
-                    skill['text-data'] = trans.detail
-                  } else {
-                    let detail = await transSkill(skill['text-data'], state)
-                    skill['text-data'] = detail
-                    if (!skillTemp.has(name)) skillTemp.set(name, { name, detail })
+                    if (trans.name) tsName = trans.name + plus1
+                    if (trans.detail) tsDetail = trans.detail
                   }
+                  if (tsDetail === skill['text-data']) {
+                    tsDetail = await transSkill(skill['text-data'], state)
+                    skill['text-data'] = tsDetail
+                  }
+                  skill['ability-name'] = tsName
+                  skill['text-data'] = tsDetail
+                  skillTemp.set(name, { name: tsName, detail: tsDetail })
                 } else {
-                  const [plus1, plus2] = getPlusStr(name)
                   let trans = skillData[`skill-${index}${plus2}`]
                   if (!trans) trans = skillData[`skill-${index}`]
+                  let tsName = name
+                  let tsDetail = skill['text-data']
                   if (trans) {
-                    if (!skillTemp.has(name)) skillTemp.set(name, trans)
-                    skill['ability-name'] = `${trans.name}${plus1}`
-                    skill['text-data'] = trans.detail
-                  } else {
-                    let detail = await transSkill(skill['text-data'], state)
-                    skill['text-data'] = detail
-                    if (!skillTemp.has(name)) skillTemp.set(name, { name, detail })
+                    if (trans.name) tsName = trans.name + plus1
+                    if (trans.detail) tsDetail = trans.detail
                   }
-                  skill['duration-type'] = replaceTurn(skill['duration-type'])
+                  if (tsDetail === skill['text-data']) {
+                    tsDetail = await transSkill(skill['text-data'], state)
+                    skill['text-data'] = tsDetail
+                  }
+                  skill['ability-name'] = tsName
+                  skill['text-data'] = tsDetail
+                  skillTemp.set(name, { name: tsName, detail: tsDetail })
                 }
+                skill['duration-type'] = replaceTurn(skill['duration-type'])
               }
             }
           } else {
@@ -170,7 +183,7 @@ const battle = async function battle(data, mode) {
                 const name = skill['ability-name']
                 const detail = await transSkill(skill['text-data'], state)
                 skill['text-data'] = detail
-                if (!skillTemp.has(name)) skillTemp.set(name, { name, detail })
+                skillTemp.set(name, { name, detail })
               }
             }
           }
@@ -191,30 +204,39 @@ const battle = async function battle(data, mode) {
         collectNpcSkill(skillData)
         if (item['special_skill']) {
           const name = item['special_skill']
-          if (skillData[`special-${name}`]) {
-            const trans = skillData[`special-${name}`]
+          const [plus1, plus2, _name] = getPlusStr(name)
+          if (skillData[`special-${_name}`]) {
+            let trans = skillData[`special-${_name}${plus2}`]
+            if (!trans) trans = skillData[`special-${_name}`]
+            let tsName = name
+            let tsDetail = item['special_comment']
             if (trans) {
-              if (!skillTemp.has(name)) skillTemp.set(name, trans)
-              item['special_skill'] = trans.name
-              item['special_comment'] = trans.detail
-            } else {
-              let detail = await transSkill(item['special_comment'], state)
-              item['special_comment'] = detail
-              if (!skillTemp.has(name)) skillTemp.set(name, { name, detail })
+              if (trans.name) tsName = trans.name + plus1
+              if (trans.detail) tsDetail = trans.detail
             }
+            if (tsDetail === item['special_comment']) {
+              tsDetail = await transSkill(item['special_comment'], state)
+              item['special_comment'] = tsDetail
+            }
+            item['special_skill'] = tsName
+            item['special_comment'] = tsDetail
+            skillTemp.set(name, { name: tsName, detail: tsDetail })
           } else {
-            const [plus1, plus2] = getPlusStr(name)
             let trans = skillData[`special${plus2}`]
-            if (!trans) trans = skillData['special']
+            if (!trans) trans = skillData[`special`]
+            let tsName = name
+            let tsDetail = item['special_comment']
             if (trans) {
-              if (!skillTemp.has(name)) skillTemp.set(name, trans)
-              item['special_skill'] = `${trans.name}${plus1}`
-              item['special_comment'] = trans.detail
-            } else {
-              let detail = await transSkill(item['special_comment'], state)
-              item['special_comment'] = detail
-              if (!skillTemp.has(name)) skillTemp.set(name, { name, detail })
+              if (trans.name) tsName = trans.name + plus1
+              if (trans.detail) tsDetail = trans.detail
             }
+            if (tsDetail === item['special_comment']) {
+              tsDetail = await transSkill(item['special_comment'], state)
+              item['special_comment'] = tsDetail
+            }
+            item['special_skill'] = tsName
+            item['special_comment'] = tsDetail
+            skillTemp.set(name, { name: tsName, detail: tsDetail })
           }
         }
       } else {
@@ -222,7 +244,7 @@ const battle = async function battle(data, mode) {
           const name = item['special_skill']
           const detail = await transSkill(item['special_comment'], state)
           item['special_comment'] = detail
-          if (!skillTemp.has(name)) skillTemp.set(name, { name, detail })
+          skillTemp.set(name, { name, detail })
         }
       }
     }
@@ -264,12 +286,22 @@ const battle = async function battle(data, mode) {
             item.name = trans.name + plus1
           }
         } else if (item.cmd === 'special_change') {
-          const trans = skillTemp.get(item.name)
-          const [plus1] = getPlusStr(item.name)
+          const [plus1, plus2, _name] = getPlusStr(item.name)
+          let trans = skillTemp.get(item.name)
+          if (!trans) trans = skillTemp.get(_name)
+          let tsName = item.name
+          let tsDetail = item.text
           if (trans) {
-            item.name = trans.name + plus1
-            item.text = trans.detail
+            if (trans.name) tsName = trans.name + plus1
+            if (trans.detail) tsDetail = trans.detail
           }
+          if (tsDetail === item.text) {
+            tsDetail = await transSkill(item.text, skillState)
+            item.text = tsDetail
+          }
+          item.name = tsName
+          item.text = tsDetail
+          skillTemp.set(name, { name: tsName, detail: tsDetail })
         }
       }
     }
