@@ -240,14 +240,14 @@ id,ja,en,name,detail
 200401,マナバースト,Mana Burst,マナバースト,敵全体に、自分に付与されている魔法陣の数に応じて大ダメージ
 200431,スペルブースト,Spell Boost,スペルブースト,<div class=prt-text-small>自分に付与されている魔法陣をそれぞれ1つ追加/エレメンタルキャストの使用間隔2ターン短縮　<span class=text-blue>◆奥義ゲージ30%消費</span></div>
 3108,雲散霧消,Into Thin Air,烟消云散,回避敌人所有攻击
-7210,剣神解放,Awakening Blade,剑神解放,将主手武器中隐藏的力量唤醒
-7211,剣神共鳴,Resonating Blade,剑神共鸣,根据主手武器变化为不同的技能
+7210,,,剑神解放,将主手武器中隐藏的力量唤醒
+7211,,,剑神共鸣,根据主手武器变化为不同的技能
 7216,集気,Energize,集气,恢复剑气<br><span class=text-blue>◆消费30点奥义充能</span>
 200121,斬釘截鉄,Contrablade,斩钉截铁,给予自己毅力效果/反击效果(受到伤害/2次)/敌对心UP
 200021,エスパーダ,Espada,刃击,根据装备的剑、刀数量对敌方造成大伤害
 200031,ドゥプレクス,Al Doble,双击,<div class=prt-text-small>给予自己自属性追击效果/自属性攻击UP/通常攻击时的剑气消耗效果的命中率UP</div>
 200041,コルミロス,Colmillos,獠牙,<div class=prt-text-small>自己的攻击性能UP/效果中受到伤害时剑气消耗效果不会发动<br><span class=text-blue>◆再使用时解除效果</span></div>
-200011,グロリアス・アーツ,Glory Arts,荣耀之光,唤醒主手武器中沉睡的力量
+200011,,,荣耀之光,唤醒主手武器中沉睡的力量
 200131,ブリッツバースト,Blitzburst,ブリッツバースト,<div class=prt-text-small>バレットを全て消費/消費した弾数に応じて奥義ゲージUP/次のターン攻撃大幅UP(1回)</div>
 200141,三明,Third Eye,三明,我方单体的三连击率UP
 200071,ムーンライト,Moonshadow,月光,自己的奥义值变换为MP
