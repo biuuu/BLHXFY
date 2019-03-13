@@ -441,7 +441,7 @@ body .cnt-order-box .cnt-btn-bottombox .btn-evolution:not(.disapprove)::after {
   font-size: 14px;
 }
 #tab-lupi::after {
-  content: "金币/其他";
+  content: "券/其他";
   font-size: 14px;
 }
 .btn-character[data-location-href^="gacha"] .prt-character-small::after {
