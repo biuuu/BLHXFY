@@ -679,3 +679,6 @@ body .cnt-setting [id^=prt-setting-index] .btn-setting-questuseful {
 .btn-episode {
   position: relative;
 }
+body .cnt-raid .prt-raid-log {
+  pointer-events: none;
+}
