@@ -154,7 +154,7 @@ const battle = async function battle(data, mode) {
                   }
                   skill['ability-name'] = tsName
                   skill['text-data'] = tsDetail
-                  skillTemp.set(name, { name: tsName, detail: tsDetail })
+                  skillTemp.set(name, { name: getPlusStr(tsName)[2], detail: tsDetail })
                 } else {
                   let trans = skillData[`skill-${index}${plus2}`]
                   if (!trans) trans = skillData[`skill-${index}`]
@@ -170,7 +170,7 @@ const battle = async function battle(data, mode) {
                   }
                   skill['ability-name'] = tsName
                   skill['text-data'] = tsDetail
-                  skillTemp.set(name, { name: tsName, detail: tsDetail })
+                  skillTemp.set(name, { name: getPlusStr(tsName)[2], detail: tsDetail })
                 }
                 skill['duration-type'] = replaceTurn(skill['duration-type'])
               }
@@ -183,7 +183,7 @@ const battle = async function battle(data, mode) {
                 const name = skill['ability-name']
                 const detail = await transSkill(skill['text-data'], state)
                 skill['text-data'] = detail
-                skillTemp.set(name, { name, detail })
+                skillTemp.set(name, { name: getPlusStr(name)[2], detail })
               }
             }
           }
@@ -220,7 +220,7 @@ const battle = async function battle(data, mode) {
             }
             item['special_skill'] = tsName
             item['special_comment'] = tsDetail
-            skillTemp.set(name, { name: tsName, detail: tsDetail })
+            skillTemp.set(name, { name: getPlusStr(tsName)[2], detail: tsDetail })
           } else {
             let trans = skillData[`special${plus2}`]
             if (!trans) trans = skillData[`special`]
@@ -236,7 +236,7 @@ const battle = async function battle(data, mode) {
             }
             item['special_skill'] = tsName
             item['special_comment'] = tsDetail
-            skillTemp.set(name, { name: tsName, detail: tsDetail })
+            skillTemp.set(name, { name: getPlusStr(tsName)[2], detail: tsDetail })
           }
         }
       } else {
@@ -244,7 +244,7 @@ const battle = async function battle(data, mode) {
           const name = item['special_skill']
           const detail = await transSkill(item['special_comment'], state)
           item['special_comment'] = detail
-          skillTemp.set(name, { name, detail })
+          skillTemp.set(name, { name: getPlusStr(name)[2], detail })
         }
       }
     }
@@ -301,7 +301,7 @@ const battle = async function battle(data, mode) {
           }
           item.name = tsName
           item.text = tsDetail
-          skillTemp.set(name, { name: tsName, detail: tsDetail })
+          skillTemp.set(name, { name: getPlusStr(tsName)[2], detail: tsDetail })
         }
       }
     }
