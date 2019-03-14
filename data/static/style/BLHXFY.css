@@ -681,4 +681,5 @@ body .cnt-setting [id^=prt-setting-index] .btn-setting-questuseful {
 }
 body .cnt-raid .prt-raid-log {
   pointer-events: none;
+  background-color: rgba(0, 0, 0, 0.6);
 }
