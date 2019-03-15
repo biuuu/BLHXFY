@@ -1,6 +1,6 @@
 id,name,text,trans
 0-chapter_name,,第3話 ヘルメスの門,第3话 赫尔墨斯之门
-0-synopsis,,デリフォードと共に大勢の錬金術師と帝国兵を倒していく姬塔達一行。しかし、その数に押され、徐々に窮地に陥っていく。だが、そんな一行の前に今はいないはずのクラリスが現れ、一行を助けるのであった。,姬塔一行和德里福德并肩作战，打败了大量的炼金术师和帝国兵。但是敌人数量众多，他们渐渐陷入困境。这时，本并不在骑空团的克拉丽丝出现，救下了众人。
+0-synopsis,,デリフォードと共に大勢の錬金術師と帝国兵を倒していく姬塔達一行。しかし、その数に押され、徐々に窮地に陥っていく。だが、そんな一行の前に今はいないはずのクラリスが現れ、一行を助けるのであった。,姬塔一行和德里福德并肩作战，打败了大量的炼金术师和帝国兵。但是敌人数量众多，他们渐渐陷入困境。这时，本并不在骑空团的克拉莉丝出现，救下了众人。
 0,,<span class='scene-font-katari'>デリフォードと共に</span><br><span class='scene-font-katari'>襲い来る錬金術師と帝国兵を</span><br><span class='scene-font-katari'>倒していく姬塔達。</span>,<span class='scene-font-katari'>姬塔一行和德里福德并肩作战，打败了大量的炼金术师和帝国兵。</span>
 1,,<span class='scene-font-katari'>しかし、敵の数が想像以上に多く、</span><br><span class='scene-font-katari'>徐々に追い詰められていく。</span>,<span class='scene-font-katari'>但敌人数量众多，姬塔他们被渐渐包围。</span>
 10,カリオストロ/卡莉奥斯特萝,ちっ、有象無象共がぞろぞろと……<br>キリがねぇな……,切，这群杂鱼一个接一个冒出来……<br>没完没了……
@@ -13,14 +13,14 @@ id,name,text,trans
 33,ビィ/碧,な、なんだぁ！？,怎、怎么了！？
 34,ゼシード,くっ、一体、何事だ！,发生了什么！？
 35,？？？,みんな……無事？,大家……没事吧？
-38,ルリア/露莉亚,えっ！？<br>ク、クラリスさん！？,咦！？<br>克、克拉丽丝！？
-39,ビィ/碧,な、なんで、<br>クラリスがここにいるんだよ！,为、为什么克拉丽丝会在这里！
+38,ルリア/露莉亚,えっ！？<br>ク、クラリスさん！？,咦！？<br>克、克拉莉丝！？
+39,ビィ/碧,な、なんで、<br>クラリスがここにいるんだよ！,为、为什么克拉莉丝会在这里！
 40,ビィ/碧,確か、実家からの呼び出しで<br>家に戻ってるはずじゃ……,你不是被父母叫回家了吗……
 41,カリオストロ/卡莉奥斯特萝,…………,
-44,,<span class='scene-font-katari'>どこか心配そうな表情で</span><br><span class='scene-font-katari'>姬塔達を見る</span><br><span class='scene-font-katari'>クラリス。</span>,<span class='scene-font-katari'>克拉丽丝关切地看向姬塔一行。</span>
+44,,<span class='scene-font-katari'>どこか心配そうな表情で</span><br><span class='scene-font-katari'>姬塔達を見る</span><br><span class='scene-font-katari'>クラリス。</span>,<span class='scene-font-katari'>克拉莉丝关切地看向姬塔一行。</span>
 45,,<span class='scene-font-katari'>彼女は自分の在り方についてを</span><br><span class='scene-font-katari'>両親と話すため現在は騎空団を離れ、</span><br><span class='scene-font-katari'>故郷に戻っているはずだった。</span>,<span class='scene-font-katari'>她为了告知父母自己现在的生存方式，暂时离开骑空团回到了家乡。</span>
-46,,<span class='scene-font-katari'>開祖――カリオストロの、</span><br><span class='scene-font-katari'>その妹の血をひく、錬金術師クラリス。</span>,<span class='scene-font-katari'>炼金始祖卡莉奥斯特萝之妹的后代，炼金术师克拉丽丝。</span>
-47,,<span class='scene-font-katari'>彼女とは、魔物の討伐の</span><br><span class='scene-font-katari'>依頼を受けた際に知り合い、</span><br><span class='scene-font-katari'>それ以降、共に旅をしていた。</span>,<span class='scene-font-katari'>姬塔在一次讨伐魔兽的委托中结识克拉丽丝，之后她也加入了旅途。</span>
+46,,<span class='scene-font-katari'>開祖――カリオストロの、</span><br><span class='scene-font-katari'>その妹の血をひく、錬金術師クラリス。</span>,<span class='scene-font-katari'>炼金始祖卡莉奥斯特萝之妹的后代，炼金术师克拉莉丝。</span>
+47,,<span class='scene-font-katari'>彼女とは、魔物の討伐の</span><br><span class='scene-font-katari'>依頼を受けた際に知り合い、</span><br><span class='scene-font-katari'>それ以降、共に旅をしていた。</span>,<span class='scene-font-katari'>姬塔在一次讨伐魔兽的委托中结识克拉莉丝，之后她也加入了旅途。</span>
 48,,<span class='scene-font-katari'>しかし、彼女は自分の在り方についてを</span><br><span class='scene-font-katari'>両親と話すため現在は騎空団を離れ、</span><br><span class='scene-font-katari'>故郷に戻っているはずだった。  <br></span>,<span class='scene-font-katari'>但她为了告知父母自己现在的生存方式，暂时离开骑空团回到了家乡。</span>
 53,ルリア/露莉亚,えっ、お家に戻りたい……ですか？,咦，想回家……吗？
 54,クラリス/克拉莉丝,んー……ちょっとね。<br>うちの親がうちとちゃんと<br>話をしたいんだってさ。,嗯……有点。<br>我想和爸妈好好谈谈。
@@ -31,7 +31,7 @@ id,name,text,trans
 59,クラリス/克拉莉丝,ってなわけで、悪いんだけど、<br>うち、ちょっとお暇もらうね。,所以，不好意思，我要请假一段时间。
 60,ビィ/碧,そういうことなら、わかったぜ。<br>ちゃんと話をしてこいよ！,这样啊，咱明白了。<br>去和你父母好好谈谈吧！
 61,クラリス/克拉莉丝,もっちろん☆<br>思っていること全部伝えてくるよっ☆,当然☆<br>我会把心里想的都告诉他们的☆
-62,ルリア/露莉亚,あ、あの、クラリスさん！,那、那个，克拉丽丝！
+62,ルリア/露莉亚,あ、あの、クラリスさん！,那、那个，克拉莉丝！
 63,クラリス/克拉莉丝,うん？<br>どったの？,嗯？<br>怎么了？
 64,ルリア/露莉亚,あ、いえ……何でもないです。,啊、不……没什么。
 65,クラリス/克拉莉丝,ああ……大丈夫☆<br>ちゃんと、帰ってくるからさ。,啊……没事的☆<br>我会回来的。
@@ -40,7 +40,7 @@ id,name,text,trans
 73,クラリス/克拉莉丝,話は後だよっ！<br>早くこっちに……<br>じゃないと逃げられないから……,有话之后再说！<br>快走这边……<br>否则就逃不掉了……
 74,ビィ/碧,ああっ！,哦！
 75,ルリア/露莉亚,は、はいっ！,好、好的！
-76,,<span class='scene-font-katari'>その言葉に頷き、</span><br><span class='scene-font-katari'>姬塔達は</span><br><span class='scene-font-katari'>クラリスの方へ駆け寄る。</span>,<span class='scene-font-katari'>听到这话，姬塔一行点点头，向克拉丽丝跑去。</span>
+76,,<span class='scene-font-katari'>その言葉に頷き、</span><br><span class='scene-font-katari'>姬塔達は</span><br><span class='scene-font-katari'>クラリスの方へ駆け寄る。</span>,<span class='scene-font-katari'>听到这话，姬塔一行点点头，向克拉莉丝跑去。</span>
 77,カリオストロ/卡莉奥斯特萝,…………,
 78,ビィ/碧,おい、カリオストロ！<br>何ぼーっとしてんだよ！,喂，卡莉奥斯特萝！<br>呆站着干嘛！
 79,カリオストロ/卡莉奥斯特萝,……いや、なんでもない。,……不，没什么。
@@ -48,18 +48,18 @@ id,name,text,trans
 83,ゼシード,ふっ……,哼……
 84,パラケルスス,くくっ……ではゼシード。<br>私は彼奴らを追う。<br>後は任せるぞ。,哼哼……那么泽西德。<br>我去追他们。<br>剩下的交给你了。
 85,ゼシード,ああ。,好。
-91,ルリア/露莉亚,クラリスさん！,克拉丽丝！
-92,ビィ/碧,クラリス！,克拉丽丝！
+91,ルリア/露莉亚,クラリスさん！,克拉莉丝！
+92,ビィ/碧,クラリス！,克拉莉丝！
 93,クラリス/克拉莉丝,良かった。<br>みんな無事で……,太好了。<br>大家都没事……
 96,錬金術師２,くっ、逃がすな！<br>あの女も一緒に捕えろ！,呃、别让他们跑了！<br>把那个女人也抓起来！
 97,クラリス/克拉莉丝,みんな、先に行って。<br>うちが奴らを足止めするから。,你们先走。<br>我拖住他们。
 97-sel1_txt,,<span class='scene-font-katari'>一緒に手伝う</span>,<span class='scene-font-katari'>我们也来帮忙</span>
-97-sel2_txt,,<span class='scene-font-katari'>クラリスだけに任せられない</span>,<span class='scene-font-katari'>不能只交给克拉丽丝一个人</span>
+97-sel2_txt,,<span class='scene-font-katari'>クラリスだけに任せられない</span>,<span class='scene-font-katari'>不能只交给克拉莉丝一个人</span>
 98,クラリス/克拉莉丝,ううん……うち一人で大丈夫。,不……我一个人足够了。
 99,クラリス/克拉莉丝,っていうか、ごめん！<br>いたら邪魔かも。<br>まとめてドカンってできないし。,不如说，抱歉！<br>你们在的话会妨碍我的。<br>那样就不能轰的一下全部解决了。
 100,クラリス/克拉莉丝,大丈夫っ☆<br>うちのこと信じてっ☆,没问题的☆<br>相信我☆
 101,クラリス/克拉莉丝,それにうち一人なら、<br>まとめてドカンってできるしね。<br>だから、先に行ってて。,而且，如果只有我一个人，我就能轰的一下全部解决啦。<br>你们先走吧。
-102,ビィ/碧,確かにな……<br>そういうことなら、<br>ここはクラリスに任せようぜ！,说的也是……<br>那这里就交给你了，克拉丽丝！
+102,ビィ/碧,確かにな……<br>そういうことなら、<br>ここはクラリスに任せようぜ！,说的也是……<br>那这里就交给你了，克拉莉丝！
 103,デリフォード,では、私が先導する！<br>姬塔殿は殿を……,那么，我打头阵！<br>姬塔你们殿后……
 104,カリオストロ/卡莉奥斯特萝,いや、殿は任せてもらうぜ。<br>オレ様なら、<br>どんな攻撃だろうと防げるからな。,不，殿后交给我。<br>我能挡住一切攻击。
 105,ルリア/露莉亚,大丈夫ですか？<br>体調も悪いのに……<br>姬塔に任せた方が……,可以吗？<br>最近身体也不好……<br>还是交给姬塔……
@@ -67,8 +67,8 @@ id,name,text,trans
 107,デリフォード,では、殿はカリオストロ殿に<br>お任せする。,那么，殿后就拜托卡莉奥斯特萝了。
 108,デリフォード,姬塔殿は<br>私と一緒に道を切り開いてくれ！,姬塔，我们一起开辟前路！
 109,,<span class='scene-font-katari'>それに頷く姬塔。</span>,<span class='scene-font-katari'>姬塔点头同意。</span>
-110,ビィ/碧,頼むぜ、おっさん、<br>姬塔！<br>それとクラリスも気をつけろよ！,拜托了，大叔，姬塔！<br>克拉丽丝也小心点！
-111,ルリア/露莉亚,気を付けてくださいね、<br>クラリスさん。,千万要小心啊，克拉丽丝。
+110,ビィ/碧,頼むぜ、おっさん、<br>姬塔！<br>それとクラリスも気をつけろよ！,拜托了，大叔，姬塔！<br>克拉莉丝也小心点！
+111,ルリア/露莉亚,気を付けてくださいね、<br>クラリスさん。,千万要小心啊，克拉莉丝。
 112,クラリス/克拉莉丝,うん、ありがとっ☆,嗯，谢谢☆
 113,カリオストロ/卡莉奥斯特萝,…………,
 119,ルリア/露莉亚,はぁ……はぁ……,哈……哈……
@@ -90,5 +90,5 @@ id,name,text,trans
 146,ビィ/碧,な、なんだぁ……！？,怎、怎么了……！？
 147,デリフォード,まさかっ！？,难道说！？
 148,クラリス/克拉莉丝,…………,
-149,,<span class='scene-font-katari'>そこには、次なる一撃を放つため、</span><br><span class='scene-font-katari'>こちらへと手を向ける</span><br><span class='scene-font-katari'>クラリスの姿があった。</span>,<span class='scene-font-katari'>众人看见了为下一次攻击而朝他们举起手臂的克拉丽丝。</span>
+149,,<span class='scene-font-katari'>そこには、次なる一撃を放つため、</span><br><span class='scene-font-katari'>こちらへと手を向ける</span><br><span class='scene-font-katari'>クラリスの姿があった。</span>,<span class='scene-font-katari'>众人看见了为下一次攻击而朝他们举起手臂的克拉莉丝。</span>
 info,,,scene_evt170430_cp3_q2_s10
