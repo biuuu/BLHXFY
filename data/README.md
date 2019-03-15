@@ -2,7 +2,7 @@
 ### 剧情翻译
 scenario 目录存放所有剧情文本。
 
-如何提取剧情文本的[说明](https://github.com/biuuu/BLHXFY/blob/master/src/README.md)
+不知道如何提取剧情文本，请先看这边的[说明](https://github.com/biuuu/BLHXFY/blob/master/src/README.md)装上插件。
 
 关于剧情文本的格式，可以看到文件的第一行是“id,name,text,trans”，这代表这个文件是一个 4 列的表格，通过半角逗号分隔。
 
