@@ -3,8 +3,8 @@ npc,奥克托,3040037000
 special,捨狂神武器,土属性伤害(特大)/赋予敌人即死效果/自身三连击率50%UP
 special-捨狂煉路敷,捨狂炼路敷,<div class=prt-text-small>土属性伤害(特大)/赋予敌人即死效果/自身二连和三连击率50%UP/我方全体土属性攻击20%UP</div>
 special-Almighty Passage,捨狂炼路敷,<div class=prt-text-small>土属性伤害(特大)/赋予敌人即死效果/自身二连和三连击率50%UP/我方全体土属性攻击20%UP</div>
-skill-1,心解,自身攻击50%UP/暴击率UP(30%几率造成1.3倍伤害)<span class=text-blue>◆消耗10%奥义值</span>
-skill-1+,心解,自身攻击50%UP/暴击率UP(75%几率造成2倍伤害)/飞天效果(奥义伤害UP/奥义上限UP)
+skill-1,心解,自身攻击50%UP/暴击率UP(30%概率造成1.3倍伤害)<span class=text-blue>◆消耗10%奥义值</span>
+skill-1+,心解,自身攻击50%UP/暴击率UP(75%概率造成2倍伤害)/飞天效果(奥义伤害UP/奥义上限UP)
 skill-2,炼狱,将自身奥义值分配给我方全体<span class=text-blue>◆消耗30%奥义值</span>
 skill-3,神斩舞,吸收敌人mode条，转化为自身奥义值(最大30%)
 skill-3+,神斩舞,<div class=prt-text-small>吸收敌人mode条，转化为自身奥义值(最大30%)/奥义值累积上升量多高，自身状态越强</div>

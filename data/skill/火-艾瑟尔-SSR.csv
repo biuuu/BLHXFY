@@ -1,0 +1,17 @@
+﻿id,name,detail
+npc,艾瑟尔,3040039000
+special,死神之舞,火属性伤害(特大)/盲暗效果
+special-ダンス・クレマシオン,葬火之舞,火属性伤害(特大)/天盖花效果/我方全体技能伤害上限20%UP
+special-Dance of Incineration,葬火之舞,火属性伤害(特大)/天盖花效果/我方全体技能伤害上限20%UP
+skill-1,炽热子弹,对敌方单体造成火属性伤害/2层掉宝效果
+skill-1+,炽热子弹,对敌方单体造成火属性伤害/3层掉宝效果
+skill-2,最终指令,自身攻击大幅UP(仅对Break状态的敌人/1次)
+skill-2+,最终指令,自身攻击大幅UP(仅对Break状态的敌人/1次)
+skill-2++,最终指令,<div class=prt-text-small>自身攻击大幅UP(仅对Break状态的敌人/1次)/Break延长(时间/伤害)/赋予敌方单体强袭效果</div>
+skill-3,星尘,对敌方单体造成10次0.8倍火属性伤害
+skill-3+,星尘,对敌方单体造成10次0.8倍火属性伤害/必定三连击/获得火属性追击效果(30%)
+skill-4,十狼雄叫,<div class=prt-text-small>我方全体获得火属性追击效果(30%)/必定三连击/攻击大幅UP(仅对Break状态的敌人/1次)<span class=text-blue>◆再使用不可</span></div>
+support-1,魔弹射手,<div class=prt-text-small>掉宝效果必定成功/掉宝概率5%UP<br>额外掉宝概率提高到10%/我方全体对Break状态敌人造成暴击(90级)</div>
+support-1+,魔弹射手,<div class=prt-text-small>掉宝效果必定成功/掉宝概率10%UP/对Break状态的敌人必定1.1倍暴击</div>
+support-2,调停之人,对风属性敌人伤害20%UP
+skill-lb,LB技能,攻击力随掉宝等级上升

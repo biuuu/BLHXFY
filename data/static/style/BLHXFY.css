@@ -79,6 +79,9 @@ body .pop-auto-detail-setting.pop-usual .btn-usual-ok::after {
 body div#pop-deck div.prt-register div.btn-usual-register::after {
   content: "复制当前队伍配置到此队伍" !important;
 }
+.pop-confirm-battle.pop-usual .btn-usual-ok.retry-quest::after, .pop-startatonce.pop-usual .btn-usual-ok.retry-quest::after {
+  content: "任务挑战";
+}
 body .pop-cleared-episode .btn-episode-event::after {
   content: '只看剧情';
 }
@@ -438,7 +441,7 @@ body .cnt-order-box .cnt-btn-bottombox .btn-evolution:not(.disapprove)::after {
   font-size: 14px;
 }
 #tab-lupi::after {
-  content: "金币/其他";
+  content: "券/其他";
   font-size: 14px;
 }
 .btn-character[data-location-href^="gacha"] .prt-character-small::after {
@@ -667,8 +670,16 @@ body .cnt-setting [id^=prt-setting-index] .btn-setting-questuseful {
   font-weight: bold;
   top: 11px;
   text-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
-  font-size: 10px;
+  font-size: 0;
+  width: 14px;
+  height: 14px;
+  background: url(/blhxfy/data/static/image/star.png);
+  background-size: cover;
 }
 .btn-episode {
   position: relative;
+}
+body .cnt-raid .prt-raid-log {
+  pointer-events: none;
+  background-color: rgba(0, 0, 0, 0.6);
 }

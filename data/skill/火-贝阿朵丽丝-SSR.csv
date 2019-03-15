@@ -5,5 +5,5 @@ skill-1,苍之时刻,<div class=prt-text-small>自身连击率UP(DA60%/100%，TA
 skill-2,赤之时刻,<div class=prt-text-small>自身攻击大幅UP(仅限敌人OD状态/1次)/敌人mode条减少量UP</div>
 skill-3,上升之星,<div class=prt-text-small>自身HP越少，攻击强化量越大　<span class=text-blue>◆消耗自身40%的最大HP</span></div>
 support-1,不灭的决断,自身HP越少，暴击率UP/回避率UP
-support-2,停一下！,自身HP少于一半时有几率回复/第一次无法战斗时以HP1继续战斗
+support-2,停一下！,自身HP少于一半时有概率回复/第一次无法战斗时以HP1继续战斗
 skill-lb,LB技能,极小概率回避并反击单体攻击

@@ -1,10 +1,21 @@
 ## 翻译数据
+
 ### 剧情翻译
 scenario 目录存放所有剧情文本。
 
-如何提取剧情文本的[说明](https://github.com/biuuu/BLHXFY/blob/master/src/README.md)
+#### 用插件提取剧情文本
+如果还未安装汉化插件，请先看这边的[说明](https://github.com/biuuu/BLHXFY/blob/master/src/README.md)来装上汉化插件。
 
-关于剧情文本的格式，可以看到文件的第一行是“id,name,text,trans”，这代表这个文件是一个 4 列的表格，通过半角逗号分隔。
+安装插件后查看剧情时，点击右上角的 Log 按钮，可以看到上方添加了一排按钮，分别是“原文/填充/译文/预览”。
+
+1. 原文：下载当前剧情的 CSV 文件
+2. 填充：下载当前剧情的 CSV 文件，但其中的 trans 列被原文填充
+3. 译文：下载已翻译的 CSV 文件，如果有的话
+4. 预览：弹出一个文本框，粘贴翻译好的剧情文本即可预览。但同时只会缓存5个预览章节，超过后会清除多余的预览。
+
+一般情况点击原文按钮下载剧情文本就可以了。
+
+关于剧情文本的格式：使用任意文本编辑器打开，可以看到文件的第一行是“id,name,text,trans”，这代表这个文件是一个 4 列的表格，通过半角逗号分隔。
 
 前 3 列分别是对话的ID，对话的角色名字，剧情文本的原文。这 3 列都不需要改动，你只需要填写或修改最后的 trans 列，即译文。
 
@@ -25,6 +36,23 @@ scenario 目录存放所有剧情文本。
 这里是目前代码库里已有的[日文名](https://github.com/BLHXFY-Group/BLHXFY/blob/master/data/npc-name-jp.csv) 以及 [英文名](https://github.com/BLHXFY-Group/BLHXFY/blob/master/data/npc-name-en.csv)
 
 要修改或添加角色名的话，直接改上面这两个文件就可以。
+
+### 关于机翻
+如果当前剧情还没有人提交翻译的话，插件会尝试机翻。
+
+你可以在游戏的设置界面或者剧情的Log里找到汉化插件设置按钮。在里面可以调整是否使用机翻。
+
+另外插件使用了两个步骤来提升机翻的效果：
+
+1. 在将要翻译的文本提交翻译之前，对一些专用名词进行替换。对应的文件是 [noun.csv](https://github.com/BLHXFY-Group/BLHXFY/blob/master/data/etc/noun.csv)，其中前两列是名词和替换，第三列表示是否区分大小写。
+
+2. 在取得机翻返回的文本后，对其中出现的异常翻译进行修复，对应的文件是 [noun-fix.csv](https://github.com/BLHXFY-Group/BLHXFY/blob/master/data/etc/noun-fix.csv)。
+
+如果你在使用机翻时发现有需要替换的名词，或需要修正的翻译，请提交到这两个文件里。
+
+注：在第1步还会替换已有的角色名翻译（npc-name-en.csv 和 npc-name-jp.csv）。
+
+（当使用彩云小译机翻时，不会进行第一步操作）
 
 ### 角色技能翻译
 skill 目录下是所有的角色技能，随便打开一个文件可以看到格式很简单。

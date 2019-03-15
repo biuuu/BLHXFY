@@ -6,5 +6,5 @@ skill-2,罪不可赦,对敌方单体造成4倍风属性伤害/盲暗效果
 skill-3,巨人狩猎,自身攻击大幅UP(100%，1次)
 support-1,半刃裁刀,每过5回合更换刀片/刀片消耗完毕则无法普攻/回避率DOWN <span class=text-blue>◆每次普攻消耗1刀片</span>
 support-2,立体机动装置,防御70%DOWN，必定三连击，回避率40%UP
-skill-lb,LB技能,普攻有几率不消耗刀片
+skill-lb,LB技能,普攻有概率不消耗刀片
 intro,,

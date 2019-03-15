@@ -6,4 +6,4 @@ skill-2,右发刃,<div class=prt-text-small>5次单体伤害，目标随机<span
 skill-3,左发刃,<div class=prt-text-small>6次单体伤害，目标随机<span class=text-blue>◆再次使用时攻击次数UP(最大10次)</span></div>
 support-1,自动迎击发刃,HP越少，反击概率越大/技能伤害上限UP
 support-2,黄金的妖娆,受到伤害时技能使用间隔缩短1回合/攻击技能使用次数越多，攻击越强(最大10次)
-skill-lb,LB技能,普攻时有极少几率缩短1回合技能使用间隔
+skill-lb,LB技能,普攻时有极少概率缩短1回合技能使用间隔

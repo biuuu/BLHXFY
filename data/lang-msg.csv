@@ -527,7 +527,7 @@ coopraid_98,Twitterに投稿することでAP・BPが回復します。,Post to 
 coopraid_99,投稿によるAP・BPの回復は、1日1回までとなります。<br>回数制限は毎朝AM5:00にリセットされます。,You can post to Twitter to restore AP and EP<br>once daily from 5 a.m. (JST).,推特分享回复AP·BP一日仅限一次。<br>每日AM5：00（GMT+9）重置。
 coopraid_index_pop_1,ルーム作成,Create a Room,创建房间
 coopraid_pop_title_1,CAUTION!,Quest,
-coopraid_pop_treasureraid_1,残り%s回挑戦できます。,This quest can be played %s more time.,还能挑战%s次。
+coopraid_pop_treasureraid_1,残り%s回挑戦できます。,This quest can be played %s more time.,还能进行%s次。
 coopraid_pop_treasureraid_2,%sへの挑戦,%s,挑战%s
 coopraid_pop_treasureraid_3,マルチバトル撤退,Raid Battle,从多人战斗撤退
 coopraid_pop_treasureraid_4,マルチバトルから撤退しました。,You retreated from the raid battle.,已从多人战斗中撤退。
@@ -1673,7 +1673,7 @@ quest_100,回数制限に達しているため<br>このクエストを開始す
 quest_101,回数制限に達しているため<br>このクエストを開始することが出来ません。<br><br>回数制限は毎日AM5:00に<br>リセットされます。,进行次数已达上限，任务无法开始。<br>每日AM5：00（GMT+9）重置。You have already played this quest<br>as many times as you can. Try again<br>at 5 a.m. (JST).,
 quest_102,このクエストを開始するには<br>%sルピが必要です。,"To start this quest, you<br> need %s more rupies.",进行此任务需要消%s卢比。
 quest_103,"所持ルピ ","Held: ","所持卢比 "
-quest_104,このクエストはあと%s回挑戦できます。,This quest can be played %s more time.,这个任务还能挑战%s次
+quest_104,このクエストはあと%s回挑戦できます。,This quest can be played %s more time.,这个任务还能进行%s次
 quest_105,クエスト再開,Resume Quests,继续任务
 quest_106,離脱する,Retreat,离开
 quest_107,撤退確認,Retreat,撤退确认
@@ -1696,14 +1696,10 @@ quest_121,バトル履歴,Battle Log,战斗履历
 quest_124,剣,,剑
 quest_125,短剣,,短剑
 quest_126,槍,,枪
-quest_127,斧,,斧
-quest_128,杖,,杖
 quest_129,銃,,铳
 quest_13,以下の属性キャラがパーティに<br>編成されているため、このクエストを<br>開始することが出来ません。,The following elements can't<br>be used on this quest. Edit<br>your party and try again.,这个任务不能使用以下属性的角色。请编辑队伍后再试。
 quest_130,格闘,,格斗
-quest_131,弓,,弓
 quest_132,楽器,,乐器
-quest_133,刀,,刀
 quest_134,セットを所持していません,Save Party,无预设
 quest_135,CAUTION!,Quest,
 quest_136,1度参戦したのでこれ以上は<br>参戦することができません。,,您已进行过该任务，无法再次进行。
@@ -1831,13 +1827,7 @@ quest_no_skill,このクエストでは、装備中の武器のスキル、召�
 quest_numbers_fate_1,このクエストでは、装備中の武器のスキル、召喚石の加護効果、騎空団サポートが適用されない特殊制限バトルになります。,"Weapon skills, summon auras, and crew skills don't take effect in this quest.",该任务中，装备武器技能、召唤石加护效果、骑空团支援效果无效。
 quest_solo_multi_pop_1,イベントマルチバトル,Event Raid Battles,活动多人战斗
 quest_start_numbers_name_1,メイン武器に「%s」を装備,Equip %s as your main weapon to start this quest.,装备主手武器「%s」
-quest_sub_1,イベントクエスト,,
-quest_supporter_1,,,
-quest_supporter_2,火,fire,
-quest_supporter_3,水,water,
-quest_supporter_4,土,earth,
 quest_supporter_5,風,wind,风
-quest_supporter_6,光,light,
 quest_supporter_7,闇,dark,暗
 quest_supporter_confirm_1,認証完了,Verification Complete,认证成功
 quest_supporter_confirm_2,ご協力ありがとうございました。,Thank you for your cooperation.,感谢您的配合。
@@ -1845,11 +1835,9 @@ quest_teamraid_supporter_1,イベントTOPへ,Event Home,活动主页
 quest_teamraid_supporter_2,グラッジチャンク設置上限数が%s個に設定されているため、%sに挑戦することができません。,You can't fight %s when your bait chunk cap is set to %s.,您当前的肉块上限数量为%s个，无法挑战%s。
 quest_teamraid_supporter_3,チャンクキャンドル設置上限数が%s個に設定されているため、%sに挑戦することができません。,You can't fight %s when your eerie candle cap is set to %s.,您当前的肉块上限数量为%s个，无法挑战%s。
 quest_teamraid_supporter_4,メメントチャンク設置上限数が%s個に設定されているため、%sに挑戦することができません。,You can't fight %s when your snow clone cap is set to %s.,您当前的肉块上限数量为%s个，无法挑战%s。
-quest_update_deck_1,"Lv ","Lvl ",
 quest_use_ceiling_1,蒼光の輝石が足りません。,You don't have enough cerulean stones.,您的苍光辉石不足。
 quest_without_summon_1,AP%sを消費してクエストを開始します。<br>召喚石使用不可のクエストのため<br>サポーター召喚石の選択はありません。,Use %s AP to start this quest? No summons can be used here.,该任务将消耗%sAP。<br>任务中不可使用召唤石，无法选择支援召唤石。
 rai_56,<br>楽器や歌による攻撃でゲージが大幅DOWN！,,<br>通过乐器或歌声发动的攻击能使Mode条大幅下降！
-raid_1,%s位,#%s,%s位
 raid_10,アビリティ効果,Skill Effect,技能效果
 raid_11,ブーストアイテム入手,Upgraders,获得经验道具
 raid_12,読み込み中,Loading...,读取中……
@@ -1921,7 +1909,6 @@ raid_72,PC版からの移動が制限されているページの為<br>このボ
 raid_73,%sが発動！<br><span class='yellow'>%s</span>,"%s activated!<br><span class=""yellow"">%s</span>",%s发动！<br><span class='yellow'>%s</span>
 raid_74,回復するメンバーをタッチしてください。,Tap a member to heal.,请点击需要回血的成员。
 raid_75,貢献度,Honors,贡献度
-raid_76,トリート,Treats,
 raid_77,アビリティ使用による獲得%sが上限に達しているため、これ以上%sを獲得できません,You have %s honors. You can't get any more honors from the use of this skill.,技能贡献%s已达上限，无法再获得%s。
 raid_78,ターン," turn",回合
 raid_79,秒," sec",秒
@@ -1937,13 +1924,11 @@ raid_87,アビリティ,Skill,技能
 raid_88,%sが発動！,%s activated!,%s发动！
 raid_89,使用アビリティの効果が変更されたため、<br>アビリティレールをリセットしました,Skill effects have changed.<br>Skills have been removed from the queue.,技能效果改变，技能槽已清空。
 raid_9,ヒール,Heal,回复
-raid_90,Error Code: %s<br>%s,Error Code: %s<br>%s,
 raid_ability_1,選択中,Selected,选择中
 raid_ability_2,一人目を選択してください,Select the first ally.,请选择第一名成员。
 raid_ability_3,二人目を選択してください,Select the second ally.,请选择第二名成员。
 raid_ability_4,サブメンバーは一人までしか選択できません,You can only select one sub member at a time.,您至多能选择一名替补成员。
 raid_ability_error_revive,復活させるメンバーがいないため、<br>アビリティを使用できませんでした,There are no party members to revive.,无可复活的成员，无法发动技能。
-raid_do_1,防衛戦TOPに戻る,Defense Order,
 raid_setting_1,表示・演出設定,Screen,显示·动画设置
 raid_setting_2,救援設定,Backup,救援设置
 raid_setting_3,チャット設定,Chat,聊天设置
@@ -1956,7 +1941,6 @@ reset_quest_1,クエスト取り下げ,Cancel Quest,取消任务
 reset_quest_2,設定したクエストを取り下げます。<br>よろしいですか？,You're about to cancel this quest. Proceed?,是否取消当前设置的任务？
 reset_quest_3,クエストを取り下げました。,The quest was cancelled.,任务已取消
 result_1,獲得したアイテムやルピの所持数が上限に達している場合、<br>自動で期限ありプレゼントに送られます。,"If you can't hold any more items or rupies,<br>extras are sent to your crate.",当您所持的道具或卢比数量已达上限，<br>战利品将自动发送至限时礼物列表。
-result_10,「," ",
 result_11,」<br>このクエストを登録しますか？<br><br>現在のお気に入り登録数<br>,<br>Favorite this quest?<br><br>Slots filled:<br>,」<br>是否收藏此任务？<br><br>现在的收藏数<br>
 result_12,お気に入り登録確認,Favorite,	添加收藏任务确认
 result_13,お気に入りに登録しました。<br><br>現在のお気に入り登録数<br>,This quest was added to your favorites:<br><br>Slots filled:<br>,收藏成功。<br><br>现在的收藏数<br>
@@ -2019,7 +2003,6 @@ result_65,イベントTOPへ,Event Home,前往活动主页
 result_66,APが足りません,More AP Needed,AP不足
 result_67,使用個数確認,Use Item,使用个数确认
 result_68,アイテム使用完了,Use Item,道具已使用
-result_69,AP不足,Not Enough AP,
 result_7,お気に入り登録確認,Favorite,添加收藏任务确认
 result_70,交換確認,Trade Treasure,兑换确认
 result_71,交換完了,Trade Treasure,兑换成功
@@ -2112,8 +2095,6 @@ sell_stash_filter_6,%sを倉庫に移動,Stash %s,转移%s至仓库
 sell_stash_filter_7,武器,weapons,武器
 sell_stash_filter_8,召喚石,summons,召唤石
 sell_stash_filter_9,売却,Sell,出售
-set_poses_1,推しキャラTwitter投稿画像,,
-set_poses_2,推しキャラTwitter投稿で使用する<br>POSEを設定できます。,,
 setting_1,設定,Game Settings,设置
 setting_10,絵柄入れ替え,Replace,表情替换
 setting_11,%s番目と%s番目のスタンプの<br>表示順を入れ替えます。,You will replace sticker %s<br>with sticker %s.,调换%s号表情与%s号表情的位置。
@@ -2147,7 +2128,6 @@ shop_13,バトルに戻る,Battle,继续战斗
 shop_14,個,,个
 shop_15,%s1%s2交換しました。%s3,You exchanged for %s1%s2%s3.,已兑换%s1%s2。
 shop_16,購入完了,Buy,购买成功
-shop_17,1月6日 8:59,"Jan 6, 9 a.m. (JST)",
 shop_18,ホリデーセール,Holiday Sale,假期特惠
 shop_19,アイテム詳細,Item Details,道具详情
 shop_3,グラブルコインショップ,Granblue Coin Shop,Granblue Coin Shop
@@ -2158,7 +2138,6 @@ shop_6,集めた宝晶石で<br>便利なアイテムをゲットです～,Get g
 shop_7,交換確認,Trade Treasure,兑换确认
 shop_8,購入確認,Trade,购买确认
 shop_9,交換エラー,Trade Treasure,兑换错误
-shop_archaic_1,特殊武器,,
 shop_archaic_2,と～っても貴重な武器のレプリカと<br>交換ができちゃいます～,,在这里可以兑换超~级贵重武器的复制品~
 shop_exchange_1,トレジャー交換,Treasure,物品兑换
 shop_exchange_10,セット," "," "
@@ -2168,7 +2147,7 @@ shop_exchange_13,%s1%s2入手しました。<br>獲得した報酬はプレゼ�
 shop_exchange_14,%s1%s2入手しました。,You got %s1.,获得%s1%s2
 shop_exchange_15,本日の交換%s1数制限　残り%s2%s3,There are %s2%s1 more available today.,今日的兑换%s1限制 还剩%s2%s3
 shop_exchange_16,残り%s1%s2,%s1%s2 left,还剩%s1%s2
-shop_exchange_17,（所持数　%s）,(Held: %s),
+shop_exchange_17,（所持数　%s）,(Held: %s),（持有数　%s）
 shop_exchange_18,ルピの所持限界を超えてしまうため<br>売却できません。,You can't sell this. You have too many rupies.,您的卢比满额，无法出售。
 shop_exchange_19,所持数が不足しているため<br>売却できません。,You don't have enough to sell.,所持不足，无法出售。
 shop_exchange_2,冒険で手に入れたトレジャーと<br>アイテムの交換ができちゃいます～,I'll trade you for treasures<br>you find on your adventure.,在这里可以用冒险中获得的物品<br>和道具兑换商品哦~
@@ -2192,16 +2171,8 @@ shop_exchange_5,交換する,Trade,兑换
 shop_exchange_6,交換エラー,Trade Treasure,兑换错误
 shop_exchange_7,交換できませんでした。,Technical issues are occurring. Treasure couldn't be traded.,兑换失败
 shop_exchange_8,交換完了,Trade Treasure,兑换成功
-shop_exchange_9,人," ",
 shop_exchange_ceiling_1,蒼光の輝石交換,Trade Cerulean Stones,苍光辉石兑换
 shop_exchange_ceiling_2,手に入れた蒼光の輝石と<br>アイテムの交換ができちゃいます〜,I'll trade you for cerulean stones<br>that you collect on your adventure.,在这里可以用苍光辉石兑换道具哦~
-shop_exchange_do_1,ディフェンドオーダー,Defense Order,
-shop_exchange_do_2,作成する,Trade,兑换
-shop_exchange_do_3,作成エラー,Item Trade,
-shop_exchange_do_4,作成できませんでした。,Can't trade for item.,
-shop_exchange_do_5,作成完了,Item Trade,
-shop_exchange_do_6,本日の作成%s1数制限　残り%s2%s3,Only %s2 more available today.,
-shop_exchange_do_7,防戦アイテム作成,Item Trade,
 shop_exchange_links_1,リンクス交換チケット,Links Pick Ticket,
 shop_exchange_moon_1,ムーン交換,Trade Moons,月亮交换
 shop_exchange_moon_2,シェロカルテの特別交換券,Siero's Special Pick Tickets,榭洛科特的特别交换券
@@ -2232,7 +2203,6 @@ shop_exchange_trajectory_type5_1,お金は大切にしましょうね～<br>お�
 shop_exchange_trajectory_type5_2,お金を拾ったら披露しましょう～拾うだけに。<br>うぷぷぷ,Sharing is caring!<br>Let us treasure<br>your treasure!,捡到钱不能隐瞒哦~要告诉别人你捡到钱啦。呵呵呵
 shop_exchange_trajectory_type6_1,今日はなにか良いことが起きる予感がしますね～,I have a feeling something great is coming!,感觉今天会有好事发生呢~
 shop_exchange_trajectory_type6_2,お宝を見つけたからといって、油断してはいけませんよ～,"X marks the spot,<br>but don't become<br>the mark!",发现宝藏的时候也不能大意哦~
-shop_omega_1,特殊武器,,
 shop_pop_1,一部コンテンツについて,Regarding Certain Content,关于部分内容
 shop_skycompass_1,グラパス,,GrablueSkyCompass
 shop_skycompass_2,連携確認,,绑定确认
@@ -2250,7 +2220,7 @@ sidestory_navi_2,討伐章,,讨伐张
 sidestory_navi_3,戦貨,,战货
 sidestory_navi_4,貢献度,,贡献度
 sidestory_navi_5,台詞集,,台词集
-sidestory_navi_6,次回予告！,,
+sidestory_navi_6,次回予告！,,下集预告
 sidestory_quest_1,クエスト,,任务
 sidestory_quest_2,クエスト解放,,任务解放
 sidestory_quest_3,謎解きクエスト,,解谜任务
@@ -2264,7 +2234,7 @@ sidestory_top_10,%s1%s2入手しました。,,获得%s1%s2
 sidestory_top_11,%sがパーティに加入しました。,,%s已成为同伴
 sidestory_top_12,本日の交換%s1数制限　残り%s2%s3,,今日的兑换%s1限制 还剩%s2%s3
 sidestory_top_13,残り%s1%s2,,还剩%s1%s2
-sidestory_top_14,（所持数　%s）,,
+sidestory_top_14,（所持数　%s）,,（持有数　%s）
 sidestory_top_15,アイテム詳細,,道具详情
 sidestory_top_17,クエスト解放,,任务解放
 sidestory_top_18,ルピ,,卢比
@@ -2274,21 +2244,13 @@ sidestory_top_20,台詞集解放,,台词集解放
 sidestory_top_21,台詞集,,台词集
 sidestory_top_23,クエストに挑戦可能となりました。,,任务限制解除，可以挑战任务
 sidestory_top_24,%sを入手しました。,,已获得%s
-sidestory_top_25,加入条件,,
 sidestory_top_26,プレゼントリストに送られました。,,已发送至礼物列表
 sidestory_top_3,交換する,,兑换
 sidestory_top_4,仲間にする,,招募伙伴
 sidestory_top_5,個,,个
-sidestory_top_6,人,,
 sidestory_top_7,交換エラー,,兑换错误
 sidestory_top_8,交換できませんでした。,,兑换失败
 sidestory_top_9,交換完了,,兑换成功
-solotreasure_navi_1,バトル前,,
-solotreasure_navi_2,討伐章,,
-solotreasure_navi_3,戦貨,,
-solotreasure_navi_4,貢献度,,
-solotreasure_top_20,台詞集解放,,
-solotreasure_top_21,台詞集,,
 sort_filter_1,未選択,Select Filter,未选择
 sort_filter_10,スキルレベル,Skill Lvl,技能等级
 sort_filter_100,キャラの属性:火/水〜,CHRCTR Element Group A,人物属性:火/水〜
@@ -2346,7 +2308,6 @@ sort_filter_46,剣/短剣/槍/斧/杖〜,"Sabre, Dagger, Spear, Axe, Staff, etc.
 sort_filter_47,属性順:Ｂ,Element Group B,属性顺序：B
 sort_filter_48,闇/光/風/土/水/火,"Dark, Light, Wind, Earth, Water, Fire",暗/光/风/土/水/火
 sort_filter_49,属性順:Ａ,Element Group A,属性顺序：A
-sort_filter_5,属性,Element,
 sort_filter_50,火/水/土/風/光/闇,"Fire, Water, Earth, Wind, Light, Dark",火/水/土/风/光/暗
 sort_filter_51,ソート設定,Sort,查找设置
 sort_filter_52,並び替えて表示する,Change Order,改变顺序查找
@@ -2387,7 +2348,6 @@ sort_filter_83,キャラHP,Character Max HP,人物HP
 sort_filter_84,キャラ属性,Character Element,人物属性
 sort_filter_85,キャラタイプ,Character Style,人物类型
 sort_filter_86,最大攻撃力,Max ATK,最大攻击力
-sort_filter_87,最大HP,Max HP,
 sort_filter_88,武器の最大攻撃力:高,WPN Max ATK (Highest),武器最大攻击力：高
 sort_filter_89,武器の最大攻撃力:低,WPN Max ATK (Lowest),武器最大攻击力：低
 sort_filter_9,武器種,Group,武器种类
@@ -2542,18 +2502,10 @@ zenith_10,能力強化を行っていません。<br>能力強化は、LBまた�
 zenith_11,能力強化一覧,Extended Mastery Bonuses,能力强化一览
 zenith_12,能力強化,Use Points,能力强化
 zenith_13,能力強化を行っていません。<br>能力強化は、LBまたはジェムを<br>使用することで行うことができます。,There are no starred extended mastery bonuses.<br>Use EMP or gems to add stars.,未强化能力。您可以用LB或者晶石来强化能力。
-zenith_14,LB,EMP,
 zenith_15,使用確認,,使用确认
 zenith_16,能力強化,,能力强化
 zenith_17,ステータス上書き確認,,确认覆盖
-zenith_18,%s　,,
-zenith_19,%s1%s2,,
 zenith_2,習得できるリミットアビリティはありません,No skills.,无可习得的附加能力
-zenith_20,%s,,
-zenith_21,%s1%s2%s3,,
-zenith_22,+,,
-zenith_23,Lv,,
-zenith_24,%,,
 zenith_3,変換確認,Get EMP,兑换确认
 zenith_4,変換する,Trade,兑换
 zenith_5,ジェム,Gems,晶石

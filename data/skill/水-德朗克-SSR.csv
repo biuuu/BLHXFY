@@ -1,7 +1,7 @@
 ﻿id,name,detail
 npc,德朗克,3040119000
 special,第九时刻,水属性伤害(特大)/火属性攻击DOWN(10%)/对水属性防御DOWN(10%)
-skill-1,公平诡局,<div class=prt-text-small>对敌方全体造成5倍水属性伤害/负面效果抗性DOWN(50%)/回复我方全体HP(10%MHP，最大1000)</div>
+skill-1,公平诡局,<div class=prt-text-small>对敌方全体造成5倍水属性伤害/弱化效果抗性DOWN(50%)/回复我方全体HP(10%MHP，最大1000)</div>
 skill-2,策略切换,<div class=prt-text-small>切换回合结束时的附加效果(蓝色，自身防御UP/红色，自身攻击UP)</div>
 skill-3,双击,消去敌方1个强化效果/敌人攻防DOWN(25%，片面)
 support-1,急中生智,<div class=prt-text-small>回合结束时获得附加效果(蓝色，防御UP(8%，最大40%)，回避率UP(5%，最大25%)/红色，攻击UP(8%，最大40%)，二连击率UP(7%，最大35%)，三连击率UP(3%，最大15%))</div>

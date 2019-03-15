@@ -1,0 +1,81 @@
+id,name,text,trans
+0-chapter_name,,第2話 助けを求める声,第2话 求救之声
+0-synopsis,,姬塔達に届く一通の手紙。中を読んでみるとそれは家庭の都合で団を抜けたデリフォードからの助けを求める手紙であった。その手紙に不安を覚えた姬塔達はデリフォードを助けるために手紙に書かれた場所へと急行するのであった。,姬塔一行收到一封来信。那是由于家庭原因离开骑空团的德里福德寄来请求帮助的信件。姬塔他们读完信后非常担心，为帮助德里福德而前往信中提到的地点。
+1,ルリア/露莉亚,姬塔、<br>ちょっといいですか？<br>お手紙が――,姬塔，现在有空吗？<br>有信——
+2,カリオストロ/卡莉奥斯特萝,ほら、姬塔さん、<br>食べさせて☆<br>あーんっ☆,快点姬塔，喂我吃饭嘛☆啊～☆
+3,,<span class='scene-font-katari'>その言葉に苦笑しながらも</span><br><span class='scene-font-katari'> 姬塔はカリオストロの口に</span><br><span class='scene-font-katari'>スプーンを運んでいく。</span>,<span class='scene-font-katari'>听到这话，姬塔露出苦笑，但还是将汤匙送进卡莉奥斯特萝口中。</span>
+4,ルリア/露莉亚,届い……たん……<br>ですけど……,寄……来……了……
+5,ビィ/碧,何やってんだぁ？,你们在干啥？
+6,カリオストロ/卡莉奥斯特萝,あ？<br>見ればわかんだろ？<br>「あーん」だ。,啊？<br>看不明白吗？<br>姬塔在喂我吃饭。
+7,ビィ/碧,いや、そうじゃなくて、<br>なんで 姬塔に<br>あーんしてもらってんだ？,不，不是问这个，为什么要让姬塔喂你啊？
+8,カリオストロ/卡莉奥斯特萝,んなもん、看病だからに<br>決まってんだろ？<br>なんせ、今のオレ様は怪我人だからな。,当然是因为姬塔在照顾我啊？<br>现在我可是伤员。
+9,,<span class='scene-font-katari'>研究所での戦闘から数日、</span><br><span class='scene-font-katari'>カリオストロの体調は未だ</span><br><span class='scene-font-katari'>回復の兆しを見せていなかった。</span>,<span class='scene-font-katari'>研究所内的战斗已经过去了数日，但卡莉奥斯特萝并没有恢复的迹象。</span>
+10,カリオストロ/卡莉奥斯特萝,ねぇねぇ、<br>姬塔さんっ☆,姬塔，姬塔☆
+11,カリオストロ/卡莉奥斯特萝,カリオストロ、<br>もっと姬塔さんに<br>おねだりしていい？,卡莉奥斯特萝可以更依赖姬塔一点吗？
+11-sel1_txt,,<span class='scene-font-katari'>もちろん</span>,<span class='scene-font-katari'>当然</span>
+11-sel2_txt,,<span class='scene-font-katari'>はい、あーん</span>,<span class='scene-font-katari'>来，张嘴</span>
+12,カリオストロ/卡莉奥斯特萝,えへへ、ありがとう☆<br>姬塔さん。,哎嘿嘿，谢谢你，姬塔☆
+13,カリオストロ/卡莉奥斯特萝,オレ様の可愛さも<br>相変わらず罪なもんだぜ……,可爱，依旧是我所背负的罪孽啊……
+14,カリオストロ/卡莉奥斯特萝,あーんっ☆,啊～☆
+15,カリオストロ/卡莉奥斯特萝,……って、<br>この程度じゃ動じねぇか。,……切，这点程度你还是不为所动么。
+16,カリオストロ/卡莉奥斯特萝,オレ様はお前の慌てふためく姿が<br>見たかったんだがなぁ。,真想看看你惊慌失措的样子啊。
+17,ビィ/碧,はぁ……体調が悪いのに<br>相変わらずだな、<br>カリオストロは……,唉……就算身体不好你也还是老样子啊，卡莉奥斯特萝……
+18,ルリア/露莉亚,あ、あはは……,啊、啊哈哈……
+19,カリオストロ/卡莉奥斯特萝,それで、どうした？,话说，你们有什么事？
+20,ルリア/露莉亚,あっ、そ、そうでした！<br>デリフォードさんから、<br>お手紙が届いたんです！,啊，对了！<br>德里福德先生给我们来信了！
+28,,<span class='scene-font-katari'>かつて帝国軍に所属していたものの、</span><br><span class='scene-font-katari'>上司との折り合いがつかず、</span><br><span class='scene-font-katari'>軍を離れた男、デリフォード。</span>,<span class='scene-font-katari'>德里福德是个曾经隶属于帝国军，但因与上司不和而离开军队的男人。</span>
+29,,<span class='scene-font-katari'>日々の生活に追われ夢を忘れていたが、</span><br><span class='scene-font-katari'>一行の言葉に憧れを思い出し、</span><br><span class='scene-font-katari'>やがて旅を共にするようになる。</span>,<span class='scene-font-katari'>在生活压力下，他忘记了曾经的梦想。姬塔一行让他回想起自己的憧憬，随后他也加入了旅行。</span>
+30,,<span class='scene-font-katari'>歳を重ねた大人として、</span><br><span class='scene-font-katari'>頼もしく皆を見守るその姿は、</span><br><span class='scene-font-katari'>団にとって欠かせない存在となっていた。</span>,<span class='scene-font-katari'>作为一个老成持重的成年人，守望大家的可靠身姿成为了骑空团不可或缺的存在。</span>
+33,,<span class='scene-font-katari'>かつて帝国軍に所属していたものの、</span><br><span class='scene-font-katari'>上司との折り合いがつかず、</span><br><span class='scene-font-katari'>軍を離れた男、デリフォード。</span>,<span class='scene-font-katari'>德里福德是个曾经隶属于帝国军，但因与上司不和而离开军队的男人。</span>
+34,,<span class='scene-font-katari'>次なる職探しの最中に一行と出会い、</span><br><span class='scene-font-katari'>旅を続ける一行にかつての夢を思い出し、</span><br><span class='scene-font-katari'>自ら騎空団への入団を志願する。</span>,<span class='scene-font-katari'>他在寻找下一个工作时遇到了姬塔一行，想起了自己曾经的梦想，自愿加入骑空团。</span>
+35,,<span class='scene-font-katari'>その後、歳を重ねた大人として、</span><br><span class='scene-font-katari'>頼もしく皆を見守るその姿は、</span><br><span class='scene-font-katari'>団にとって欠かせない存在となっていた。</span>,<span class='scene-font-katari'>此后，他作为一个老成持重的成年人，守望大家的可靠身姿成为了骑空团不可或缺的存在。</span>
+41,ルリア/露莉亚,それで手紙には<br>助けてほしいって書かれていて……,上面写着希望我们能帮他……
+42,,<span class='scene-font-katari'>そういうと、ルリアは</span><br><span class='scene-font-katari'>姬塔に</span><br><span class='scene-font-katari'>一通の手紙を手渡す。</span>,<span class='scene-font-katari'>露莉亚把信拿给姬塔看。</span>
+43,,<span class='scene-font-katari'>読むとそこには</span><br><span class='scene-font-gray'>「姬塔達以外に</span><br><span class='scene-font-gray'>頼れる人がいない。</span>,<span class='scene-font-katari'>信上写着「除了你们以外，我不知道该向谁求救」。</span>
+44,,<span class='scene-font-gray'>「私と家族を助けて欲しい」</span><span class='scene-font-katari'>という</span><br><span class='scene-font-katari'>デリフォードの切なる言葉と</span><br><span class='scene-font-katari'>その居場所が書かれていた。</span>,<span class='scene-font-katari'>「请帮帮我和我的家人」。除了德里福德恳切的请求外，还写着他所在的地点。</span>
+45,カリオストロ/卡莉奥斯特萝,団を抜けたおっさんの手紙か。<br>家族の元に戻ったって聞いたが<br>穏やかな内容の手紙じゃねぇな。,那个离开骑空团的大叔寄来的信么。<br>我听说他回到家人身边去了，寄来的信却不是合家欢乐的内容啊。
+51,ビィ/碧,はぁっ、団を抜けたい！？<br>どうしてだよ！,啊？你要退团！？<br>为什么啊！
+52,ルリア/露莉亚,そ、そうですっ！<br>どうしてですか！,就、就是！<br>到底为什么！
+53,ルリア/露莉亚,一緒に<span class='scene-font-spword'>イスタルシア</span>にいくって……<br>もう一度、夢を信じて、<br>無茶をしてみたいって……,不是说要一起去<span class='scene-font-spword'>伊斯塔尔西亚</span>……<br>要再一次相信梦想，闯荡一番的吗……
+54,ルリア/露莉亚,そう言ってたじゃないですか！,你不是这么说过的吗！？
+55,デリフォード,その思いは今も変わらぬ。<br>しかし、その……家族から<br>帰ってくるように言われてな……,我现在也这么想。<br>但是，那个……我家人，让我回去……
+56,デリフォード,なんでも、私の親の体調が<br>あまり良くないらしい。<br>だから、戻ってきてほしいと……,我父母的身体似乎不太好。<br>所以要我回去……
+57,ルリア/露莉亚,ご家族が……,你的家人……
+58,ビィ/碧,そういう理由かよ。<br>そいつは……仕方ねーよな。,原来是这样。<br>那就……没办法了。
+59,デリフォード,本当にすまぬ……,抱歉……
+60,デリフォード,私は遠くから姬塔達が<br><span class='scene-font-spword'>イスタルシア</span>へと辿りつけることを<br>祈らせてもらう。,我只能在远方祝愿你们有朝一日能够抵达<span class='scene-font-spword'>伊斯塔尔西亚</span>了。
+61,デリフォード,そして、辿りつけたその時には、<br>私に<span class='scene-font-spword'>イスタルシア</span>の話を<br>聞かせてほしい。,等你们到了<span class='scene-font-spword'>伊斯塔尔西亚</span>，一定要和我讲讲那座岛的故事。
+62,デリフォード,本当に……道半ばで無念ではあるが<br>家族を助けずに夢を追うなど、<br>私にはできないようなんだ……,半途而废实在是很遗憾……但是要抛弃家人去追逐梦想，我做不到……
+63,ルリア/露莉亚,はいっ！　約束します！,嗯！我们约定好了！
+64,ビィ/碧,ああっ、オイラも誓うぜ！,咱也发誓！
+65,デリフォード,ありがとう……<br>では、そろそろ……,谢谢……<br>那么，我差不多该走了……
+66,ビィ/碧,おっさん、身体に気をつけろよな。<br>それと家族を大切にしろよ。,大叔，你要保重身体啊。<br>也要好好照顾家人。
+67,デリフォード,私はおっさんではない！<br>まだ……,我不是大叔！<br>我还……
+68,デリフォード,ふっ……<br>ふふふ……！,呵……<br>呵呵呵……！
+69,ビィ/碧,おっさん？,大叔？
+70,デリフォード,いや、何でもない。<br>もう、このやり取りも<br>できなくなると思ってな……,不，没什么。<br>以后应该也没机会和你这样拌嘴了……
+71,ビィ/碧,あ……,啊……
+72,デリフォード,姬塔達との旅は<br>若いころの夢を叶えられたようで<br>本当に楽しかった。,和姬塔你们一起旅行就好像实现了我年轻时的梦想，我真的很高兴。
+73,デリフォード,心から礼を言う。<br>ありがとう……,我衷心感谢。<br>谢谢你们……
+74,ルリア/露莉亚,ううっ、私もです。<br>デリフォードさんも<br>お元気で。,呜呜，我也是。<br>德里福德先生也要保重。
+75,ビィ/碧,……じゃあな、おっさん。,……再见了，大叔。
+76,デリフォード,うむ……,嗯……
+82,カリオストロ/卡莉奥斯特萝,それで、どうするんだ？<br>まさかとは思うが……,那，怎么办？<br>你们不会要……
+82-sel1_txt,,<span class='scene-font-katari'>もちろん助けに行こう</span>,<span class='scene-font-katari'>当然要去了</span>
+82-sel2_txt,,<span class='scene-font-katari'>ちょうど、この街に依頼があった</span>,<span class='scene-font-katari'>那里刚好有个委托</span>
+83,ルリア/露莉亚,はいっ！<br>助けに行きましょう！,嗯！<br>我们去救他！
+84,ビィ/碧,ああ……！<br>離れても仲間は仲間だからな！,对……！<br>就算他走了，也还是我们的伙伴！
+85,カリオストロ/卡莉奥斯特萝,……ちっ、しょうがねぇな。<br>姬塔が決めたんだし、<br>オレ様も付き合ってやるよ。,……切，真没办法。<br>既然姬塔已经决定了，我也只能奉陪了。
+86,ルリア/露莉亚,え……依頼……ですか？,咦……委托……吗？
+87,ビィ/碧,あ、ああ……！<br>そういえばそんな依頼があったな！,是、是啊……！<br>你这么一说咱也想起来有个委托！
+88,ビィ/碧,なら、その依頼のついでに<br>おっさんの様子を見にいこうぜ！,咱们完成委托的时候顺便去看看大叔吧！
+89,ビィ/碧,困っているなら、<br>手を貸してやればいいしよ。,如果他遇到麻烦了就帮帮他。
+90,ルリア/露莉亚,そ、そうですよね！<br>依頼のついでですもんね！,是、是啊！<br>完成委托的时候顺便去看看就行了！
+91,カリオストロ/卡莉奥斯特萝,はっ、見え透いた嘘を<br>つきやがって……,哈，竟然说这种一眼就能看穿的谎话……
+92,カリオストロ/卡莉奥斯特萝,……ちっ、しょうがねぇな。<br>姬塔が決めたんだし、<br>オレ様も付き合ってやるよ。,……切，真没办法。<br>既然姬塔已经决定了，我也只能奉陪了。
+93,ルリア/露莉亚,カリオストロさんっ！,卡莉奥斯特萝！
+94,カリオストロ/卡莉奥斯特萝,はぁ……今の状態で<br>厄介ごとに首を突っ込みたくは<br>なかったんだがな……,唉……我本来不想在这种状态下一头钻进麻烦事里……
+95,カリオストロ/卡莉奥斯特萝,<span class='scene-font-kokoro'>（ったく、オレ様も</span><br><span class='scene-font-kokoro'>お人よしになったもんだぜ……）</span>,<span class='scene-font-kokoro'>（真是的，我也变成个大好人了……）</span>
+96,,<span class='scene-font-katari'>カリオストロは</span><br><span class='scene-font-katari'>自らに呆れるように肩をすくめ、</span><br><span class='scene-font-katari'>苦笑いを浮かべる。</span>,<span class='scene-font-katari'>卡莉奥斯特萝对自己无语地耸了耸肩，露出了苦笑。</span>
+97,,<span class='scene-font-katari'>そうして姬塔達は、</span><br><span class='scene-font-katari'>デリフォードの手紙に書かれた</span><br><span class='scene-font-katari'>場所へと向かっていくのだった。</span>,<span class='scene-font-katari'>于是姬塔一行动身前往德里福德在信中提到的地点。</span>
+info,,,scene_evt170430_cp2_q2_s10
