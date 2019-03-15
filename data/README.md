@@ -1,10 +1,13 @@
 ## 翻译数据
 ### 剧情翻译
+
+还不知道如何提取剧情文本的，请先看这边的[说明](https://github.com/biuuu/BLHXFY/blob/master/src/README.md)来装上汉化插件。
+
+已经会下载剧情 CSV 文件了请再继续往下看。
+
 scenario 目录存放所有剧情文本。
 
-不知道如何提取剧情文本，请先看这边的[说明](https://github.com/biuuu/BLHXFY/blob/master/src/README.md)装上插件。
-
-关于剧情文本的格式，可以看到文件的第一行是“id,name,text,trans”，这代表这个文件是一个 4 列的表格，通过半角逗号分隔。
+关于剧情文本的格式：使用任意文本编辑器打开，可以看到文件的第一行是“id,name,text,trans”，这代表这个文件是一个 4 列的表格，通过半角逗号分隔。
 
 前 3 列分别是对话的ID，对话的角色名字，剧情文本的原文。这 3 列都不需要改动，你只需要填写或修改最后的 trans 列，即译文。
 
