@@ -18,7 +18,7 @@ id,name,text,trans
 19,カリオストロ/卡莉奥斯特萝,オレ様から情報を引き出せれば、<br>真理に至れるだろうからな。,只要从我这里套出情报大致就能抵达真理了。
 20,ルリア/露莉亚,あの……それで、これからどうします？<br>情報が正しいのはわかりましたけど……,那个……那我们要怎么办？<br>看来情报是正确的……
 20-sel1_txt,,<span class='scene-font-katari'>研究所を調べに行こう</span>,<span class='scene-font-katari'>去调查研究所吧</span>
-20-sel2_txt,,<span class='scene-font-katari'>一度、撤退しよう</span>,<span class='scene-font-katari'>先撤退吧</span>,
+20-sel2_txt,,<span class='scene-font-katari'>一度、撤退しよう</span>,<span class='scene-font-katari'>先撤退吧</span>
 21,カリオストロ/卡莉奥斯特萝,賛成だな。<br>あいつらの研究所とやらに行って、<br>研究成果をぶっ潰そうぜ。,我赞成。<br>我们去研究所破坏他们的研究成果吧。
 22,カリオストロ/卡莉奥斯特萝,オレ様があいつら程度に<br>封印されることなんて<br>万が一にもねぇだろうが……,虽说就凭他们，想封印我连万分之一的可能性都没有……
 23,ビィ/碧,賛成だな。<br>一度、準備を整えねーと。,赞成。<br>咱们先回去做好准备吧。
