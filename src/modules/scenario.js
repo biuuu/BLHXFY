@@ -95,7 +95,6 @@ const transMulti = async (list, nameMap, nounMap, nounFixMap, caiyunPrefixMap) =
       txt = replaceWords(txt, nounMap, lang)
     } else if (config.transApi === 'caiyun') {
       txt = replaceWords(txt, caiyunPrefixMap, lang)
-      txt = txt.replace(/─/g, '—')
     }
     if (userName) {
       let _lang = lang
@@ -118,7 +117,11 @@ const transMulti = async (list, nameMap, nounMap, nounFixMap, caiyunPrefixMap) =
       }
       if (config.displayName || userName) {
         const name = config.displayName || userName
-        _str = _str.replace(new RegExp(`${config.defaultName}(先生|小姐)?`, 'g'), name)
+        if (lang === 'en') {
+          _str = _str.replace(new RegExp(`${config.defaultEnName}`, 'g'), name)
+        } else {
+          _str = _str.replace(new RegExp(`${config.defaultName}(先生|小姐)?`, 'g'), name)
+        }
       }
       return result.concat(_str.split('\n'))
     }
