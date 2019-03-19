@@ -34,19 +34,27 @@ const load = new Promise((rev, rej) => {
     document.body.appendChild(iframe)
     lacia = iframe.contentWindow
   })
+  let timer = setTimeout(() => {
+    rej(`加载iframe超时`)
+  }, config.timeout * 1000)
   ee.once('loaded', () => {
+    clearTimeout(timer)
     rev()
   })
 })
 
 const fetchData = async (pathname) => {
-  await load
   const url = pathname
   const flag = Math.random()
-  lacia.postMessage({
-    type: 'fetch',
-    url, flag
-  }, origin)
+  try {
+    await load
+    lacia.postMessage({
+      type: 'fetch',
+      url, flag
+    }, origin)
+  } catch (e) {
+    return ''
+  }
   return new Promise((rev, rej) => {
     let timer = setTimeout(() => {
       rej(`加载${pathname}超时`)
@@ -126,7 +134,7 @@ const getHash = new Promise((rev, rej) => {
           rev(data.hash)
         })
       }
-    })
+    }).catch(rej)
   } else {
     rev(fetchInfo.data.hash)
   }
