@@ -2085,7 +2085,7 @@ sell_stash_filter_24,売却確認,Sell,确认售出
 sell_stash_filter_25,所持ルピ　<span class='txt-held-lupi'>%s</span>ルピ,Held: <span class='txt-held-lupi'>%s</span> rupie,所持卢比　<span class='txt-held-lupi'>%s</span>卢比
 sell_stash_filter_26,ボーナス　獲得ルピ＋%s,Bonus: %s rupie,	获得额外卢比＋%s
 sell_stash_filter_27,所持ルピ　%s1 → <span class='txt-lupi-after'>%s2</span>ルピ,Held: %s1 &gt;&gt; <span class='txt-lupi-after'>%s2</span> rupie,
-sell_stash_filter_28,所持ルピ　<span class='txt-yellow'>%s</span>ルピ,Held: <span class='txt-yellow'>%s</span> rupie,所持卢比　%s1 → <span class='txt-lupi-after'>%s2</span>卢比
+sell_stash_filter_28,所持ルピ　<span class='txt-yellow'>%s</span>ルピ,Held: <span class='txt-yellow'>%s</span> rupie,所持卢比　<span class='txt-yellow'>%s</span>卢比
 sell_stash_filter_29,%s1%s2個移動しました,%s2 %s1 was stashed.,转移%s1%s2个
 sell_stash_filter_3,CAUTION!,CAUTION!,
 sell_stash_filter_30,移動する%sがありませんでした,There are no matching %s to stash.,无符合条件的%s可转移
