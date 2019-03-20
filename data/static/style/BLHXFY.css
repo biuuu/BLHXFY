@@ -581,7 +581,12 @@ body .prt-scene-comment .prt-message-area {
 
 @font-face {
   font-family: 'FZShuiYJW';
-  src: url('/blhxfy/data/static/font/FZShuiYJW.TTF');
+  src: local('Microsoft Yahei');
+}
+
+@font-face {
+  font-family: 'FZShuiYJW';
+  src: local('Microsoft Yahei');
 }
 
 .prt-user-info .prt-info-profile .btn-user-name,
