@@ -1,0 +1,67 @@
+﻿id,name,text,trans
+0-chapter_name,,建国式典,建国庆典
+0-synopsis,,試合に無事勝利したヴェイン。その後ランスロットとヴェインは順調に勝ち上がり、決勝で相対する。しかし決勝戦を前に行われた国の安寧祈願のための竜封の儀式の際、突然空に暗雲が立ち込めると、儀式に用いられていたファフニールの石像が暴れ出す。石像はなぜか真龍ファフニールの気配を纏っていた。ふたりは危機を察し、石像を鎮めるため迎え撃つ。,顺利赢得比赛的维恩，最终在决赛中与兰斯洛特相遇。但是在决赛前，为祈愿国家安宁的龙封仪式上，天空忽然乌云密布，被用于仪式的法夫纳石像突然暴走。不知为何这尊石像被真龙法夫纳的气息附体。他们察觉到危险，开始迎击石像。
+1,司会者,勝者、白竜騎士団副団長、<br>ヴェイン選手～！,获胜者，白龙骑士团副团长，维恩选手！
+2,穏やかな騎士/稳重的骑士,くそっ！<br>ここまでか……！,可恶！到此为止了吗……！
+3,ヴェイン/维恩,……強くなったな。,……你变强了。
+4,穏やかな騎士/稳重的骑士,次こそは、負けませんよ！,下一次，我肯定不会输的！
+5,ヴェイン/维恩,ああ、楽しみにしてるぜ！,哦！我很期待！
+6,,<span class='scene-font-katari'>その後、ランスロットと</span><br><span class='scene-font-katari'>ヴェインは順調に勝ち上がり、</span><br><span class='scene-font-katari'>決勝戦で相対することとなった。</span>,<span class='scene-font-katari'>在那之后，</span><br><span class='scene-font-katari'>兰斯洛特和维恩势如破竹，</span><br><span class='scene-font-katari'>最终在决赛相遇。</span>
+11,アーサー/亚瑟,ついにランスロット団長と<br>ヴェイン副団長の戦いが<br>この目で見られるのか！,终于，兰斯洛特团长和维恩副团长的战斗要开始了！
+12,モルドレッド/莫德雷德,どっちが勝つか<br>こりゃ見物だな！,哪一方会赢，终于能亲眼看到了！
+13,トネリロ/托涅利罗,で、でも……<br>ランスロット団長の方が<br>強いんじゃないかな？,不过……兰斯洛特团长更强不是吗？
+14,クルス/库鲁斯,勝負に絶対は無い。,比赛没有绝对的胜负。
+15,ヘンリー/亨利,でもランスロット団長と<br>ヴェイン副団長、<br>どっちを応援すりゃいいんだ！,但是兰斯洛特团长和维恩副团长，该为哪一边声援呢？
+16,司会者,さぁ！　<br>ついに決勝戦の対戦カードが<br>決まりました！,好的，终于决胜战的参赛者到场了！
+17,司会者,この会場の誰もが注目するふたり！,正是这会场中最引人瞩目的二人！
+18,司会者,"白竜騎士団団長のランスロット選手と！ ",白龙骑士团团长兰斯洛特选手和——
+19,司会者,白竜騎士団副団長のヴェイン選手だ～！,白龙骑士团副团长维恩选手！
+20,,<span class='scene-font-katari'>司会者の紹介と共に</span><br><span class='scene-font-katari'>ランスロットとヴェインが</span><br><span class='scene-font-katari'>入場して向かい合う。</span>,<span class='scene-font-katari'>在司会者的介绍下，</span><br><span class='scene-font-katari'>兰斯洛特和维恩</span><br><span class='scene-font-katari'>面对面地走入战场。</span>
+21,ランスロット/兰斯洛特,お前と真剣勝負なんて、<br>いつぶりだろうな？,上一次和你认真决胜负，是什么时候的事了？
+22,ヴェイン/维恩,う～ん……<br>覚えてないな。,嗯……我不记得了。
+23,ランスロット/兰斯洛特,どれほど腕を上げたのか<br>楽しみだな。,我很期待你的表现。
+24,ヴェイン/维恩,へへっ、<br>今から俺の全力を見せるから、<br>受け止めてくれよな！,嘿嘿，现在就向你展现我的全力，试试接下来吧。
+25,ランスロット/兰斯洛特,ああ、望むところだ。,没错，正是我所希望的。
+26,司会者,その前に、決勝まで勝ち残った<br>おふたりには、<span class='scene-font-spword'>“竜封の儀”</span>を<br>行って頂きます！,在那之前，进入决赛的两位，请先进行“龙封仪式”。
+27,,<span class='scene-font-katari'>司会者は、ランスロットとヴェインの</span><br><span class='scene-font-katari'>戦いを待ちわびる観客達に、</span><br><span class='scene-font-katari'>竜封の儀の説明を丁寧に始める。</span>,<span class='scene-font-katari'>司会者非常有礼貌地</span><br><span class='scene-font-katari'>向等待着战斗的观众们，</span><br><span class='scene-font-katari'>解释着龙封仪式。</span>
+28,司会者,竜封の儀とは、その昔、<br>このフェードラッヘの地で暴れていた<br>真龍ファフニールの魂を鎮める儀式！,所谓“龙封仪式”，就是平息曾在这费德拉赫发动暴乱的真龙法夫纳的仪式。
+29,司会者,最も武勇に優れたふたりの騎士に、<br>竜封の舞を奉納してもらい、<br>我が国の安寧を祈願してもらいます！,请两位最勇敢的骑士，为我们献上龙封之舞，并为我们国家的安宁祈祷！
+30,,<span class='scene-font-katari'>すると、ふたりの前に</span><br><span class='scene-font-katari'>真龍ファフニールを模した</span><br><span class='scene-font-katari'>巨大な石像が運び込まれる。</span>,<span class='scene-font-katari'>模仿真龙法夫纳的巨大石像</span><br><span class='scene-font-katari'>被搬运到二人面前。</span>
+31,ファフニールの石像/法夫纳的石像,…………,……
+32,ヴェイン/维恩,すげー！<br>本物そっくりだな。,真厉害！看上去像真的一样。
+33,ランスロット/兰斯洛特,今年の石像は、<br>腕のいい職人が手がけたらしい。,今年的石像似乎是由手艺精湛的工匠制作而成的。
+34,司会者,さぁ！　それではおふたりで、<br>竜封の舞を奉納して下さい！,好的！那么就请二位献上龙封之舞吧！
+36,ランスロット/兰斯洛特,ヴェイン、行けるか？,维恩，准备好了吗？
+37,ヴェイン/维恩,ああ、いつでもいいぜ！,啊啊，随时都可以！
+39,,<span class='scene-font-katari'>楽隊の音楽と共に</span><br><span class='scene-font-katari'>軽やかな舞を披露する</span><br><span class='scene-font-katari'>ランスロットとヴェイン。</span>,<span class='scene-font-katari'>伴随着乐队奏响的乐曲，</span><br><span class='scene-font-katari'>维恩与兰斯洛特以剑起舞。</span>
+40,,<span class='scene-font-katari'>その美しい舞の奉納に</span><br><span class='scene-font-katari'>大勢の観客が盛り上がる中、</span><br><span class='scene-font-katari'>突然、空に暗雲が立ち込める。</span>,<span class='scene-font-katari'>正当观众都沉浸在二人的舞蹈中时，</span><br><span class='scene-font-katari'>天空中突然乌云密布。</span>
+41,ランスロット/兰斯洛特,ん……<br>急に天候が悪くなったな。,唔？天气突然变差了啊。
+42,ヴェイン/维恩,こりゃひと雨来そうだな。,看起来好像要下雨的样子。
+45,,<span class='scene-font-katari'>空の暗雲が地上に下りて来るや否や、</span><br><span class='scene-font-katari'>そのままファフニールの石像の</span><br><span class='scene-font-katari'>口腔内に吸い込まれて行く。	</span>,<span class='scene-font-katari'>天空中的乌云盘旋而下，</span><br><span class='scene-font-katari'>就好像被法夫纳的雕像吸食一样进入其口。</span>
+48,,<span class='scene-font-katari'>暗雲をたらふく食べた</span><br><span class='scene-font-katari'>ファフニールの石像の瞳に</span><br><span class='scene-font-katari'>怪しい光がともるのだった。</span>,<span class='scene-font-katari'>吸收了这股暗云之后，</span><br><span class='scene-font-katari'>法夫纳石像的眼睛发出了怪异的光。</span>
+49,ランスロット/兰斯洛特,……ヴェイン！<br>何かおかしくないか？,维恩！不觉得有点不对劲吗？
+50,ヴェイン/维恩,ああ！　俺も気づいたぜ！<br>ありゃあ、普通の石像じゃない！,啊！我也注意到了！那不是普通的石像！
+51,ファフニールの石像,<span class='scene-font-2'>ォォ……ォ……</span>,<span class='scene-font-2'>啊啊……啊……</span>
+52,ランスロット/兰斯洛特,どういうことだ！<br>これは真龍ファフニールの<br>気配そのものだ……！,这是怎么回事！这完全就是真龙法夫纳的气息……！
+53,ヴェイン/维恩,わけわかんねーけど、<br>ひとまずぶっ倒すしか<br>ねぇみてぇだな！,虽然搞不太懂，不过看来只能先把他打倒了！
+54,,<span class='scene-font-katari'>依然として不気味な光を灯したまま、</span><br><span class='scene-font-katari'>緩慢な動作で回転し始める</span><br><span class='scene-font-katari'>ファフニールの石像。</span>,<span class='scene-font-katari'>依然闪烁着不详的光芒，</span><br><span class='scene-font-katari'>法夫纳的石像开始以缓慢的动作旋转起来。</span>
+64,,<span class='scene-font-katari'>ふわりと軽く宙に浮いたかと思うと</span><br><span class='scene-font-katari'>次の瞬間、重厚な質量を伴う一撃が</span><br><span class='scene-font-katari'>凄まじい速度で頭上から降ってきた。</span>,<span class='scene-font-katari'>石像轻飘飘地浮上空中，</span><br><span class='scene-font-katari'>突然之间，伴随着极大的重量</span><br><span class='scene-font-katari'>以惊人的速度从头顶落下。</span>
+72,,<span class='scene-font-katari'>辺り一面に立ち込める砂埃の中、</span><br><span class='scene-font-katari'>ランスロットがヴェインの</span><br><span class='scene-font-katari'>安否を確認する。</span>,<span class='scene-font-katari'>兰斯洛特一边在沙尘中躲避，</span><br><span class='scene-font-katari'>一边确认维恩的安全。</span>
+73,ランスロット/兰斯洛特,ヴェイン！　無事か！,维恩！没事吧！
+74,ヴェイン/维恩,ふぃ～！　危ねぇ危ねぇ～！<br>何とか躱せたけど厄介だな！,呼——！真是危险，虽然躲开了，但果然还是很棘手啊！
+77,アーサー/亚瑟,ヴェイン副団長！<br>俺達も加勢します！,维恩副团长！请让我们帮忙！
+78,ヴェイン/维恩,気持ちはありがたいが、<br>ここは俺達だけで大丈夫だ！,很感谢你们的好意，不过我们在这里没关系！
+79,ランスロット/兰斯洛特,アーサー達は観客達の<br>安全確保を頼む！,亚瑟和其他人去保证观众的安全！
+80,５人,<span class=’scene-font-4’>はいっ！</span>,<span class=’scene-font-4’>是！</span>
+83,,<span class='scene-font-katari'>その時、カール国王陛下の傍にいた</span><br><span class='scene-font-katari'>姬塔達も、ランスロットに	</span><br><span class='scene-font-katari'>声をかける。</span>,<span class='scene-font-katari'>此时，卡尔国王身边的姬塔一行人也呼叫着兰斯洛特。</span>
+84,ルリア/露莉亚,ランスロットさん！<br>大丈夫ですか？,兰斯洛特先生！你没事吧！
+85,ビィ/碧,オイラ達も一緒に戦うぜ！,我们也来一起战斗！
+86,ランスロット/兰斯洛特,ありがとう！<br>だが姬塔達は、<br>陛下の護衛を頼む！,谢谢！但是请姬塔你们保卫陛下的安全！
+86-sel1_txt,,<span class='scene-font-katari'>任せて！</span>,<span class='scene-font-katari'>交给我吧！</span>
+87,ヴェイン/维恩,助かるぜ！<br>コイツはここから一歩も<br>外には出させねぇから安心しろ！,帮大忙了！我们不会让这家伙从这里离开一步的，放心！
+89,ランスロット/兰斯洛特,ヴェイン！<br>行けるか？,维恩！准备好了吗！
+91,ヴェイン/维恩,ああ！　バッチシだ！,啊啊！绝佳！
+93,ファフニールの石像,<span class='scene-font-4'>グガァァァァァァ！</span>,<span class='scene-font-4'>——————！</span>
+94,ランスロット＆ヴェイン/兰斯洛特&维恩,<span class='scene-font-4'>はぁぁぁぁぁぁっ！</span>,<span class='scene-font-4'>哈啊啊啊啊啊啊！</span>
+95,,<span class='scene-font-katari'>ランスロットとヴェインは</span><br><span class='scene-font-katari'>見事な連携で、ファフニールの石像に</span><br><span class='scene-font-katari'>向かっていくのだった。</span>,<span class='scene-font-katari'>兰斯洛特和维恩，</span><br><span class='scene-font-katari'>用二人得意的连携技，</span><br><span class='scene-font-katari'>向法夫纳发起攻击。</span>
+info,,,scene_chr502_q3_s20
