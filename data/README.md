@@ -98,7 +98,7 @@ etc 目录下还有 buff.csv 和 debuff.csv 对应一些技能的效果说明。
 
 以上操作建立在你已经加入 BLHXFY-Group 这个组织之上。除非你对 github 已经非常了解，否则都建议先加入再上传。
 
-需要 BLHXFY-Group 请在 https://github.com/BLHXFY-Group/BLHXFY/issues 点击 New Issue 按钮，填上你想做什么（提交翻译、修改错误等等），我看到后会发送邀请。
+需要加入 BLHXFY-Group 请在 https://github.com/BLHXFY-Group/BLHXFY/issues 点击 New Issue 按钮，填上你想做什么（提交翻译、修改错误等等），我看到后会发送邀请。
 
 **实在搞不懂这些步骤也可以直接发邮件到 umisuna@qq.com ，我来帮你上传。或者加QQ群873667462详细了解下。**
 
