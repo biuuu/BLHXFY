@@ -122,4 +122,4 @@ etc 目录下还有 buff.csv 和 debuff.csv 对应一些技能的效果说明。
 **关于上面的 fork 和 pull request 步骤，如果你是已经加入 BLHXFY-Group 的翻译人员可以省略，请直接在 BLHXFY-Group/BLHXFY 的 master 分支上修改或上传，无需再发起 pull request**
 
 ## License
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />翻译文本采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />翻译文本采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>共享
