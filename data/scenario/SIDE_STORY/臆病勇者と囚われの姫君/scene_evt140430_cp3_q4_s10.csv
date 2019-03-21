@@ -1,0 +1,11 @@
+﻿id,name,text,trans
+0-chapter_name,,第3話 新たな旅人,新的旅人
+0-synopsis,,ついに星晶獣ネフティスの巣へと辿り着いた姬塔一行。アリーザとジェシカの弟を助け出すため、姬塔一行は気合を入れ直し、大きく口を開けたような得体のしれない空間に足を踏み入れるのだった。,姬塔一行人终于到达了星晶兽奈芙提斯的巢穴。为了救出阿丽莎和杰西卡的弟弟，姬塔一行人振作精神，进入了一个仿佛张开了嘴的巨大空间。
+0,スタン/斯坦,こ、ここがネフティスの巣……,这、这里就是奈芙提斯的巢穴……
+1,ビィ/碧,いよいよ、<br>ここまで来たって感じだなぁ……,终于，到了这里啊……
+2,ジェシカ/杰西卡,長かった……ここまで、本当に。,来到这里真的花了好长的时间啊。
+3,ルリア/露莉亚,アリーザさんと<br>ジェシカさんの弟さん、<br>すぐに見つかるといいですね！,阿丽莎和杰西卡的弟弟，但愿很快就能找到！
+4,ビィ/碧,よっしゃ、いくぜぇ！<br>気合入れろよ！　姬塔！,好了。我们走！打起精神来！姬塔！
+5,,<span class='scene-font-katari'>ジェシカを加えた姬塔一行は、</span><br><span class='scene-font-katari'>ついにネフティスの巣へと</span><br><span class='scene-font-katari'>足を踏み入れる。</span>,<span class='scene-font-katari'>加上杰西卡的姬塔一行人终于踏入了奈芙提斯的巢穴。</span>
+6,,<span class='scene-font-katari'>得体の知れない空間は、</span><br><span class='scene-font-katari'>大きく口を開けるように、</span><br><span class='scene-font-katari'>姬塔一行を待ち受けていた。</span>,<span class='scene-font-katari'>不明来历的空间像张大嘴似的，等待着姬塔一行人。</span>
+info,,,scene_evt140430_cp3_q4_s10
