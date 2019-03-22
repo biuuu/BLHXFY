@@ -1,0 +1,64 @@
+id,name,text,trans
+0-chapter_name,,銘々の正義,銘々の正義
+0-synopsis,,テレサは、自身が侍女のシャーロットから偽りのない愛をもって育てられたことをジャスティスから聞かされ、改めて皇帝に戻る決意を固める。自身の過去の回想を終えたテレサに、ジャスティスは「シミュレーションの中で強者が死ぬデータだけが足りない」と口にする。テレサはそれが姬塔の死を意味すると悟り、ジャスティスの行動を止めようとするのだった。,テレサは、自身が侍女のシャーロットから偽りのない愛をもって育てられたことをジャスティスから聞かされ、改めて皇帝に戻る決意を固める。自身の過去の回想を終えたテレサに、ジャスティスは「シミュレーションの中で強者が死ぬデータだけが足りない」と口にする。テレサはそれが姬塔の死を意味すると悟り、ジャスティスの行動を止めようとするのだった。
+1,,<span class='scene-font-katari'>ジャスティスの初代契約者は</span><br><span class='scene-font-katari'>先代皇帝カール６世──</span><br><span class='scene-font-katari'>すなわち、テレサの父親だった。</span>,<span class='scene-font-katari'>Justice的初代契约者是先代皇帝卡尔6世</span><br><span class='scene-font-katari'>——也就是特蕾莎的父亲。</span>
+2,ジャスティス/Justice,少し昔話をしましょう。,稍微谈论一点往事吧。
+3,,<span class='scene-font-katari'>教会に訪れてからしばらくして、</span><br><span class='scene-font-katari'>ジャスティスは懐古するように</span><br><span class='scene-font-katari'>過去について語ったことがあった。</span>,<span class='scene-font-katari'>访问教会后不久，</span><br><span class='scene-font-katari'>Justice开始怀旧地谈起过往。</span>
+7,,<span class='scene-font-gray'>ロマ帝国、先先代皇帝崩御の後、</span><br><span class='scene-font-gray'>皇帝の弟でありましたカール６世が</span><br><span class='scene-font-gray'>帝位を継承しました。</span>,<span class='scene-font-gray'>罗马帝国的先先代皇帝驾崩后，</span><br><span class='scene-font-gray'>皇帝的弟弟卡尔6世继承了帝位。</span>
+8,,<span class='scene-font-gray'>皇帝は実直でありながら</span><br><span class='scene-font-gray'>豪快な御方でした。</span>,<span class='scene-font-gray'>皇帝是一位既耿直又豪爽的人。</span>
+9,,<span class='scene-font-gray'>頂点に立つ者の器を備え、</span><br><span class='scene-font-gray'>掲げる正義は曇りなく……</span>,<span class='scene-font-gray'>具备着立于顶点之人才有的气量、</span><br><span class='scene-font-gray'>秉持正义毫无阴霾……</span>
+10,,<span class='scene-font-spword'>“正義への忠誠”</span><span class='scene-font-gray'>の誓いを立てずとも、</span><br><span class='scene-font-gray'>帝国の繁栄に賭ける意思が</span><br><span class='scene-font-gray'>揺らぐ事はありませんでした。</span>,<span class='scene-font-gray'>即便没有</span><span class='scene-font-spword'>“对正义之忠诚”</span><span class='scene-font-gray'>宣誓，</span><br><span class='scene-font-gray'>赌上帝国繁荣的意志却从未动摇。</span>
+11,,<span class='scene-font-gray'>しかし、</span><br><span class='scene-font-gray'>皇帝は男児に恵まれなかったのです。</span>,<span class='scene-font-gray'>然而，</span><span class='scene-font-gray'>皇帝没有受到上天的恩惠，</span><br><span class='scene-font-gray'>膝下并无男性子嗣。</span>
+14,,<span class='scene-font-gray'>国を守る為に必要だった男児を</span><br><span class='scene-font-gray'>遺せなかった皇帝は、長子である</span><br><span class='scene-font-gray'>テレサ様に帝王学を学ばせました。</span>,<span class='scene-font-gray'>皇帝没能留下为了守护国家而必要的男孩，</span><br><span class='scene-font-gray'>让作为长女的特蕾莎学习帝王的学识。</span>
+15,,<span class='scene-font-gray'>幼い頃から頭角を現し、鑑識眼を持つ</span><br><span class='scene-font-gray'>テレサ様の成長ぶりを頼もしく思う</span><br><span class='scene-font-gray'>一方で、皇帝は不治の病を発症します。</span>,<span class='scene-font-gray'>幼儿时期就长出了头角，拥有鉴别力的</span><br><span class='scene-font-gray'>特蕾莎大人的成长让皇帝感到安心，</span><br><span class='scene-font-gray'>而另一方面，皇帝却染上了不治之症。</span>
+18,,<span class='scene-font-gray'>床に臥せるようになり、テレサ様の</span><br><span class='scene-font-gray'>継承権を諸外国に認めさせようと</span><br><span class='scene-font-gray'>奔走する最中、崩御しました。</span>,<span class='scene-font-gray'>皇帝开始长期卧床，</span><br><span class='scene-font-gray'>为让各国承认特蕾莎的继承权而四处奔走，</span><br><span class='scene-font-gray'>最终在途中驾崩了。</span>
+19,,<span class='scene-font-gray'>その時、私と皇帝の契約は終了します。</span>,<span class='scene-font-gray'>就在当时，我与皇帝的契约终止了。</span>
+20,先代皇帝,皇帝たるテレサの傍で<br>テレサの為に全てを捧げてほしい。,希望你能陪伴在成为皇帝的特蕾莎身边，<br>为她奉上一切。
+21,,<span class='scene-font-gray'>死の直前、皇帝はテレサ様付きの侍女</span><br><span class='scene-font-gray'>シャーロット様を呼びつけ、</span><br><span class='scene-font-gray'>その言葉を残して逝去されました。</span>,<span class='scene-font-gray'>临死前，皇帝叫来特蕾莎大人</span><br><span class='scene-font-gray'>的侍女夏洛特大人，</span><br><span class='scene-font-gray'>留下这句话后便逝去了。</span>
+22,,<span class='scene-font-gray'>議会で女皇が認められたのは、</span><br><span class='scene-font-gray'>奇しくも、</span><br><span class='scene-font-gray'>皇帝の崩御の直後の事でした。</span>,<span class='scene-font-gray'>在议会上女皇意外地被承认，</span><br><span class='scene-font-gray'>也是皇帝驾崩后不久的事了。</span>
+24,,<span class='scene-font-gray'>シャーロット様は、その言葉通りの</span><br><span class='scene-font-gray'>忠誠を誓い、私と契約を結びました。</span>,<span class='scene-font-gray'>夏洛特大人按照这句遗言的嘱托</span><br><span class='scene-font-gray'>宣誓忠诚，与我签订了契约。</span>
+25,,<span class='scene-font-gray'>私と誓う“正義への忠誠”は、</span><br><span class='scene-font-gray'>契約者が心から願う事でしか</span><br><span class='scene-font-gray'>成り立ちません。</span>,<span class='scene-font-gray'>对我宣誓“对正义之忠诚”，</span><br><span class='scene-font-gray'>只有是契约者发自内心的愿望才能够成立。</span>
+26,,<span class='scene-font-gray'>シャーロット様は、</span><br><span class='scene-font-gray'>テレサ様の世話係に任命されて以来……</span>,<span class='scene-font-gray'>夏洛特大人自从被任命为</span><br><span class='scene-font-gray'>特蕾莎大人的照料者以来……</span>
+27,,<span class='scene-font-gray'>赤子の頃から常にお傍に寄り添い、<br><span class='scene-font-gray'>テレサ様の母親代わりとして、</span><br><span class='scene-font-gray'>沢山の愛をテレサ様に注いでいました。</span>,<span class='scene-font-gray'>从婴儿时期就一直陪伴在身边、</span><br><span class='scene-font-gray'>代替特蕾莎大人的母亲、</span><br><span class='scene-font-gray'>给予了大量的母爱。</span>
+28,,<span class='scene-font-gray'>私も契約が始まった頃から、</span><br><span class='scene-font-gray'>常にお傍でテレサ様の成長を</span><br><span class='scene-font-gray'>共に見守ってきました。</span>,<span class='scene-font-gray'>我也从契约以来，</span><br><span class='scene-font-gray'>与夏洛特大人一同在身旁</span><br><span class='scene-font-gray'>见证了特蕾莎大人的成长。</span>
+29,,<span class='scene-font-gray'>ですから、シャーロット様が</span><br><span class='scene-font-gray'>獄中で正義を貫く為に自害された</span><br><span class='scene-font-gray'>意味も、理解できるのです。</span>,<span class='scene-font-gray'>所以，夏洛特大人在狱中</span><br><span class='scene-font-gray'>为了贯彻正义而自杀的意义，</span><br><span class='scene-font-gray'>我也能够理解。</span>
+35,ジャスティス/Justice,御子を儲けられなかった自分の運命を<br>恨まずに済み、シャーロット様も<br>お幸せだったと思います。,不去怨恨自己没有得到孩子的命运，<br>我认为夏洛特大人也已经很幸福了。
+36,ジャスティス/Justice,愛情を持って接しない限り、人は<br>テレサ様のように純粋すぎる程<br>真っ直ぐに成長出来ません。,如果夏洛特大人不带着爱去面对，<br>特蕾莎大人就不会像这样<br>纯粹地、正直地成长。
+37,ジャスティス/Justice,偽りのない愛を受けられ、<br>大切に育てられた証拠です。,这就是接受了不带半点虚假的爱，<br>被珍视地养育的证据。
+38,ジャスティス/Justice,傍で見ていた私が申しているのです。<br>何よりの証拠で御座いましょう。,在身边如此见证的我都这么说了，<br>就是最好的证据。
+39,マリア・テレサ/玛利亚・特蕾莎,もしかして、<br>母様の事で私に気を使ってるの？,难道你是为了母亲的事在安慰我？
+40,マリア・テレサ/玛利亚・特蕾莎,心配しなくても大丈夫……,不用担心也没关系的……
+41,マリア・テレサ/玛利亚・特蕾莎,シャーロットが誰よりも私の味方で<br>いてくれたことも、愛情を沢山<br>注いでくれたことも知ってる。,我很清楚夏洛特比谁都更愿意站在我这边，<br>也知道自己曾被灌注了那么多的爱。
+42,マリア・テレサ/玛利亚・特蕾莎,血の繋がりとか抜きにしても、<br>私はシャーロットが<br>私の母親だって思ってる。,即使没有血缘关系，<br>我也将夏洛特视为自己的母亲。
+43,マリア・テレサ/玛利亚・特蕾莎,ただ……,但是……
+44,マリア・テレサ/玛利亚・特蕾莎,誰かを責められるわけじゃない。<br>みんな、自分の信念に従って<br>懸命に生きてきただけ……,并没有谁应该被责备。<br>大家只是遵从自己的信念，<br>拼命地活下去而已……
+45,マリア・テレサ/玛利亚・特蕾莎,私にはその覚悟が足りなかった。<br>与えられた役目があるのなら、<br>私はその役目を全うしたい……,我的这份觉悟还不足够。<br>如果有被赋予的职责，<br>我想把它贯彻到底……
+46,マリア・テレサ/玛利亚・特蕾莎,だから、私は皇帝に戻る。<br>もう道を間違えたりしない。,所以，我会回到皇位。<br>不会再有任何迷茫了。
+47,マリア・テレサ/玛利亚・特蕾莎,その後にね、きっと私の人生は<br>開かれていくと思うんだ……,从今以后，<br>我的人生一定会开启新的征途吧……
+48,マリア・テレサ/玛利亚・特蕾莎,<span class='scene-font-kokoro'>（だから……ちゃんと見ててね、</span><br><span class='scene-font-kokoro'>シャーロット……）</span>,<span class='scene-font-kokoro'>（所以……一定要好好见证哦，</span><br><span class='scene-font-kokoro'>夏洛特……）</span>
+55,マリア・テレサ/玛利亚・特蕾莎,あの時は、貴女の言葉が無かったら、<br>乗り越えられなかったな。,那时候，要是没有你的一席话，<br>我肯定无法跨过那个坎吧。
+56,マリア・テレサ/玛利亚・特蕾莎,ジャスティスはどこか<br>シャーロットに似てると思う。<br>ずっと一緒に居ると似てくるの？,总觉得Justice有些地方跟夏洛特很像呢。<br>因为一直在一起变得相似了吗？
+57,マリア・テレサ/玛利亚・特蕾莎,父様に似てるところは<br>なさそうだけど。,虽然没有像父亲的地方。
+58,マリア・テレサ/玛利亚・特蕾莎,理由がどうであれ……<br>私の傍にいてくれてありがとう。<br>これからもよろしく。,不论理由为何……<br>谢谢你能陪伴在我身边。<br>以后也请多关照了。
+59,マリア・テレサ/玛利亚・特蕾莎," 姬塔さん達と出会えて、<br>私にも貴女にも、<br>いい風が吹き始めてると思うし。"," 与姬塔们相遇后，<br>你我的进展都很顺利呢。"
+60,ジャスティス/Justice,テレサ様……,特蕾莎大人……
+61,マリア・テレサ/玛利亚・特蕾莎,うん、何？,嗯，什么事？
+62,ジャスティス/Justice,歴史の分水嶺のシミュレーションは<br>先代皇帝と契約していた時期に<br>ほぼ終え、データは揃っております。,关于历史分水岭的模拟<br>于先代皇帝契约时期就基本上结束了，<br>数据也收集齐全了。
+63,マリア・テレサ/玛利亚・特蕾莎,え、そうなの？<br>じゃあもう姬塔さん達が<br>戦争に参加する必要はないって事？,诶，这样啊？<br>那姬塔他们已经<br>没有参加战争的必要了吧？
+64,マリア・テレサ/玛利亚・特蕾莎,でもなんで急に今になってそんな話……,但是为什么现在突然说这个……
+65,ジャスティス/Justice,あとひとつだけ……<br>足りないデータがあるのです。,只剩一项……<br>还必须收集的数据。
+66,マリア・テレサ/玛利亚・特蕾莎,そのデータって？,那份数据是？
+67,ジャスティス/Justice,シミュレーションの中で、<br>強者が死ぬケースです。,在模拟环境中，<br>强者死去的案例。
+68,マリア・テレサ/玛利亚・特蕾莎,強者が死ぬケース……？,强者死去的案例……？
+69,ジャスティス/Justice,歴史を動かすほどの強者が<br>不慮の事故で亡くなった場合……,能够撼动影响历史的强者<br>因意外事故而去世的状况……
+70,ジャスティス/Justice,その後の歴史にどのような影響を<br>及ぼすのか確認する為の……──,为了确认那之后的历史会受到怎样的影响……──
+71,マリア・テレサ/玛利亚・特蕾莎,それって……,那就是说……
+72,マリア・テレサ/玛利亚・特蕾莎,姬塔さん達に<br>死んでもらうってこと……？,让姬塔他们去死……？
+73,ジャスティス/Justice,…………,…………
+74,マリア・テレサ/玛利亚・特蕾莎,だめ！<br>そんなことさせない！！,不行！<br>不会让你做这种事的！！
+75,マリア・テレサ/玛利亚・特蕾莎,<span class='scene-font-4'>導きなさい！！</span>,<span class='scene-font-4'>听从我的指引吧！！</span>
+76,,<span class='scene-font-katari'>テレサはジャスティスに向かって</span><br><span class='scene-font-katari'>叫ぶように命令すると、</span><br><span class='scene-font-katari'>耳から下げる赤い石に触れた。</span>,<span class='scene-font-katari'>特蕾莎面向Justice大喊着命令，</span><br><span class='scene-font-katari'>一边摸向了挂在耳垂上的红色宝石。</span>
+83,ジャスティス/Justice,…………,…………
+84,,<span class='scene-font-katari'>その瞬間……</span><br><span class='scene-font-katari'>ジャスティスの持つ秤が</span><br><span class='scene-font-katari'>一方に傾いた──</span>,<span class='scene-font-katari'>那个瞬间……</span><br><span class='scene-font-katari'>Justice所手持的天平</span><br><span class='scene-font-katari'>向一边倾倒过去──</span>
+info,,,scene_chr485_ep5_s10
+备注,翻译：七叶落羽、黒澤的发夹G,,

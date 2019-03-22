@@ -1,0 +1,9 @@
+﻿id,name,detail
+npc,克拉莉丝,3040121000
+special,破坏之星,光属性伤害(特大)/回复2层存在崩坏
+skill-1,混沌之力,<div class=prt-text-small>自身奥义伤害UP(6.5倍)/奥义伤害上限UP(50%)/防御DOWN(50%)/敌对心UP　<span class=text-blue>◆消耗1层存在崩坏</span></div>
+skill-2,光解,<div class=prt-text-small>敌方单体光属性防御DOWN(25%)　<span class=text-blue>◆消耗1层存在崩坏，附加暗属性攻击DOWN效果(15%)</span></div>
+skill-3,原子分解,<div class=prt-text-small>根据敌方HP给敌人造成无属性伤害/消去1个强化效果　<span class=text-blue>◆消费1层存在崩坏，我方全体伤害提升(敌MHP1%，上限5000)</span></div>
+support-1,克拉莉丝，状态绝佳☆,防御力低(20%DOWN)，但存在崩坏有剩余时攻击力UP(20%)<span class=text-blue>◆战斗开始时，存在崩坏为3(最大3)<span>
+skill-lb,LB技能,自身无弱化效果时，赋予敌方弱化效果的成功率UP
+intro,终灭的炼金术师,觉醒了崩坏万象之力的少女穿着新的衣装，决心反叛她命中注定的宿命。这意味着她脱离了自古以来被定下的道路。但是少女毫不犹豫地选择了这条道路，一切都是为了贯彻自己的意志，把握自己所希望的未来……

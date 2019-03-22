@@ -1,0 +1,65 @@
+id,name,text,trans
+0-chapter_name,,第5話 確執を超えて取り合う手,第5话 超越分歧的合作
+0-synopsis,,カリオストロに教えられたとおりにその身体を錬成していくクラリス。しかし、中々うまくいかない。再度、挑戦しようとするクラリスであったが、そこにパラケルススとニグレドが現れ、その錬成を阻止しようとクラリスへと襲い掛かっていく。それを庇い、大けがを負うカリオストロ。そして、大けがを負ったカリオストロはなすすべもなくニグレドに吸収されていくのであった。,克拉莉丝按照卡莉奥斯特萝的教导尝试炼成肉体，但并不顺利。克拉莉丝正要再次尝试，帕拉塞尔苏斯和Nigredo出现，打算阻止克拉莉丝的炼成。卡莉奥斯特萝为了保护她受了重伤，并被Nigredo吸收。
+0,,<span class='scene-font-katari'>カリオストロに教えられたとおりに、</span><br><span class='scene-font-katari'>その身体の錬成をしていくクラリス。</span>,<span class='scene-font-katari'>克拉莉丝按照卡莉奥斯特萝的教导尝试炼成肉体。</span>
+1,,<span class='scene-font-katari'>しかし、その工程は困難を極め、</span><br><span class='scene-font-katari'>思うようにいかず、失敗が続いていた。</span>,<span class='scene-font-katari'>但整个过程非常困难，炼成并不顺利，失败连连。</span>
+8,カリオストロ/卡莉奥斯特萝,ちっ……<br>また、失敗か……,切……<br>又失败了么……
+9,クラリス/克拉莉丝,……ごめん。<br>やっぱり、うちには……,……抱歉。<br>果然我……
+10,ルリア/露莉亚,え、えっと、<br>気を落とさないでください！<br>クラリスさん！,那、那个，请不要气馁！<br>克拉莉丝！
+11,カリオストロ/卡莉奥斯特萝,ルリアの言うとおりだ。<br>むしろ、これは<br>こっちの誤算だ。,露莉亚说的对。<br>这应该算是我的估计错误。
+12,カリオストロ/卡莉奥斯特萝,まさか、ここまで<br>尖った才能だったとはな……<br>ったく、本当に妹そっくりだぜ。,没想到你的才能这么偏科……<br>真是的，和我妹妹一模一样。
+13,カリオストロ/卡莉奥斯特萝,こうなると、別の方法を<br>考えた方がいいか……,这样的话，是不是另想办法比较好……
+14,,<span class='scene-font-katari'>そういうと、カリオストロは</span><br><span class='scene-font-katari'>ひとり、何かを考え込み始める。</span>,<span class='scene-font-katari'>说着，卡莉奥斯特萝陷入沉思。</span>
+15,カリオストロ/卡莉奥斯特萝,<span class='scene-font-kokoro'>（あるにはあるが……</span><br><span class='scene-font-kokoro'>あれは博打だ。</span><br><span class='scene-font-kokoro'>何よりこいつにどこまでできるか）</span>,<span class='scene-font-kokoro'>（办法有是有……但那根本是赌博，也不知道这家伙有多少能耐……）</span>
+16,クラリス/克拉莉丝,もう一回……<br>うち、もう一回やってみる！,再来一次……<br>我再试一次！
+16-sel1_txt,,<span class='scene-font-katari'>がんばれ</span>,<span class='scene-font-katari'>加油</span>
+16-sel2_txt,,<span class='scene-font-katari'>落ち着いて</span>,<span class='scene-font-katari'>冷静点</span>
+18,,<span class='scene-font-katari'>そういうと姬塔は</span><br><span class='scene-font-katari'>クラリスの頭を優しく撫でる。</span>,<span class='scene-font-katari'>姬塔说着温柔地抚摸克拉莉丝的头顶。</span>
+19,クラリス/克拉莉丝,……姬塔、<br>励ましてくれるんだ？<br>ありがと……,……姬塔，你在鼓励我呢。谢谢……
+20,クラリス/克拉莉丝,姬塔の手、<br>あったかいね……,姬塔的手，好温暖……
+21,クラリス/克拉莉丝,……考えてみたら、<br>こんな風に頭を撫でられたの<br>初めてかも……,……说起来，这好像是我第一次被这样摸头……
+22,クラリス/克拉莉丝,よし、なんか元気出てきた！<br>もう少し、がんばってみるよ！,好，我振作起来了！<br>再努力一下！
+24,,<span class='scene-font-katari'>そういうと姬塔は</span><br><span class='scene-font-katari'>クラリスの手を</span><br><span class='scene-font-katari'>優しくぎゅっと握る。</span>,<span class='scene-font-katari'>姬塔说着握住克拉莉丝的手。</span>
+25,クラリス/克拉莉丝,ありがと……<br>姬塔。,谢谢你……<br>姬塔。
+26,クラリス/克拉莉丝,姬塔の手、<br>あったかいね……,姬塔的手，好温暖……
+27,クラリス/克拉莉丝,うん、落ち着いた。<br>もう少しがんばってみるね！,嗯，我冷静下来了。<br>我再努力一下！
+28,ビィ/碧,その意気だぜ！<br>まだ時間はあるんだ。<br>だから――,就要这气势！<br>还有时间。<br>所以——
+29,？？？,残念だが、そんな時間を<br>与えるつもりはない。,很遗憾，我不会给你们更多时间了。
+30,？？？,ニグレド、やれ。,Nigredo，动手。
+32,,<span class='scene-font-katari'>突如、聞こえた言葉と共に</span><br><span class='scene-font-katari'>眩い光線が放たれる。</span>,<span class='scene-font-katari'>话音未落，一阵炫目的光线炸开。</span>
+34,,<span class='scene-font-katari'>そして、その光線の先には</span><br><span class='scene-font-katari'>不意を突かれたクラリスの姿があった。</span>,<span class='scene-font-katari'>而毫无防备的克拉莉丝就暴露在光线下。</span>
+35,クラリス/克拉莉丝,え……,咦……
+36,カリオストロ/卡莉奥斯特萝,チッ、何ボーっとしてやがる！,切，你在发什么呆！
+37,,<span class='scene-font-katari'>その身を盾にして、</span><br><span class='scene-font-katari'>ニグレドの攻撃からクラリスを守る</span><br><span class='scene-font-katari'>カリオストロ。</span>,<span class='scene-font-katari'>卡莉奥斯特萝用身体为克拉莉丝挡住了Nigredo的攻击。</span>
+41,カリオストロ/卡莉奥斯特萝,ぐはっ……,呃……
+42,,<span class='scene-font-katari'>ニグレドの攻撃を</span><br><span class='scene-font-katari'>代わりに受けたカリオストロは</span><br><span class='scene-font-katari'>力無く地面へと倒れる。</span>,<span class='scene-font-katari'>被Nigredo的攻击集中的卡莉奥斯特萝无力地倒在地上。</span>
+43,パラケルスス,まさか、邪魔者を片付けようとして、<br>本命にあたるとはな……<br>くくくっ……俺は運がいい。,没想到，我只是要收拾碍事的家伙，反倒击中了我真正的目标……<br>哈哈哈……我运气真好。
+44,カリオストロ/卡莉奥斯特萝,てんめぇ……ッ！,你这家伙……！
+45,パラケルスス,さぁ、ニグレド……<br>チャンスだ。<br>開祖を吸収しろ。,来吧，Nigredo……<br>趁现在。<br>吸收始祖。
+46,,<span class='scene-font-katari'>パラケルススの言葉に従うように、</span><br><span class='scene-font-katari'>その巨体をゆっくりと表していく</span><br><span class='scene-font-katari'>ニグレド。</span>,<span class='scene-font-katari'>Nigredo听从帕拉塞尔苏斯的命令，抬起巨硕的身体。</span>
+47,ニグレド,――……,——……
+53,,<span class='scene-font-katari'>そして、ニグレドは</span><br><span class='scene-font-katari'>倒れているカリオストロにのしかかり</span><br><span class='scene-font-katari'>その能力で分解し吸収を始める。</span>,<span class='scene-font-katari'>随后，Nigredo趴在卡莉奥斯特萝身上开始分解吸收。</span>
+55,カリオストロ/卡莉奥斯特萝,<span class='scene-font-1'>ちっ、博打は趣味じゃねぇが、</span><br><span class='scene-font-1'>この状況じゃ、</span><br><span class='scene-font-1'>四の五の言ってられねぇか……</span>,<span class='scene-font-1'>切，我不喜欢这种赌博，但情况容不得我挑三拣四了……</span>
+56,カリオストロ/卡莉奥斯特萝,おい！　オレ様はオレ様であがく！<br>だから、お前もお前で<br>オレ様を助けろ！,喂！ 我自己也会想办法的！<br>所以你也要尽全力来救我！
+57,クラリス/克拉莉丝,え……,咦……
+58,カリオストロ/卡莉奥斯特萝,さっき、約束したよな。<br>オレ様を守るってよ……,你不是刚和我约定过吗？<br>说你会保护我……
+59,クラリス/克拉莉丝,でも、どうやって……っ！？<br>そんな方法、うちには……,可是、要怎么做……！？<br>我不知道有什么方法……
+60,カリオストロ/卡莉奥斯特萝,お前が妹と同じなら……<br>分解に特化しているのなら、<br>まだ、できることがあるはずだ！,如果你和我妹妹一样……<br>擅长分解，那应该还有你能做的事！
+61,カリオストロ/卡莉奥斯特萝,いいか、よく聞け！<br>お前はお前のできることを<br>全力でやればいい！,听好了！<br>你全力做你能做到的事就行！
+62,カリオストロ/卡莉奥斯特萝,ただし、枠にとらわれるな！,但是，别被框架所束缚！
+63,クラリス/克拉莉丝,えっ、えっ！？<br>それってどういう……,咦、咦！？<br>这是什么意思……
+64,カリオストロ/卡莉奥斯特萝,クラリス、お前ならできる……,克拉莉丝，你能做到的……
+65,カリオストロ/卡莉奥斯特萝,いや、お前にしかできねぇ！<br>特化した才能を持つお前だけが――,不，只有你能做到！<br>只有最擅长分解的你——
+69,,<span class='scene-font-katari'>その言葉を最後に</span><br><span class='scene-font-katari'>カリオストロはニグレドに</span><br><span class='scene-font-katari'>完全に吸収されてしまう。</span>,<span class='scene-font-katari'>留下这句话，卡莉奥斯特萝被Nigredo完全吸收。</span>
+70,クラリス/克拉莉丝,あ……,啊……
+71,ルリア/露莉亚,そ、そんな……<br>カリオストロさん……！,不、不会吧……<br>卡莉奥斯特萝……！
+72,ビィ/碧,う、ウソだろ……,骗、骗人的吧……
+73,パラケルスス,くくっ、やったぞ！<br>ようやくだ。<br>ようやく願いが叶う！,哈哈，成功了！<br>终于成功了！<br>我的愿望要实现了！
+74,,<span class='scene-font-katari'>大仰な身振りで喜びを表す</span><br><span class='scene-font-katari'>パラケルスス。</span>,<span class='scene-font-katari'>帕拉塞尔苏斯笑得前俯后仰。</span>
+77,,<span class='scene-font-katari'>そして、ニグレドの身体に</span><br><span class='scene-font-katari'>ちりばめられた結晶が、</span><br><span class='scene-font-katari'>徐々に輝きを放ち始める。</span>,<span class='scene-font-katari'>这时，镶嵌于Nigredo身上的结晶开始发光。</span>
+79,,<span class='scene-font-katari'>やがて、激しい閃光が収まると、</span><br><span class='scene-font-katari'>そこにはカリオストロの容姿を模した</span><br><span class='scene-font-katari'>ニグレドの姿があった。</span>,<span class='scene-font-katari'>当闪光消失时，Nigredo化为了卡莉奥斯特萝的模样。</span>
+80,パラケルスス,あはははっ！<br>これで開祖の知識と技術が<br>我らの……いや、俺のものになった！,啊哈哈哈！<br>这样我们就……不对，我就得到始祖的知识与技术了！
+81,パラケルスス,俺こそが真なる開祖となったのだ！,我成为了真正的炼金始祖！
+82,,<span class='scene-font-katari'>高らかに自らの悲願の達成を</span><br><span class='scene-font-katari'>宣言するパラケルスス。</span>,<span class='scene-font-katari'>帕拉塞尔苏斯高声宣告自己达成了夙愿。</span>
+83,,<span class='scene-font-katari'>その言葉に姬塔達は、</span><br><span class='scene-font-katari'>ただ呆然とすることしか</span><br><span class='scene-font-katari'>できないのだった。</span>,<span class='scene-font-katari'>而姬塔等人只有目瞪口呆地站在原地。</span>
+info,,,scene_evt170430_cp5_q4_s10

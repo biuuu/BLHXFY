@@ -1,0 +1,90 @@
+﻿id,name,text,trans
+0-chapter_name,,建国式典,建国庆典
+0-synopsis,,姬塔達は年に１度の建国式典に招待され、王都フェードラッヘを訪れていた。式典は国王の祝辞に始まり、白竜騎士団が武勇を競うトーナメント戦が開催される。団長のランスロットと副団長のヴェインもトーナメント戦に参加しており、まずはランスロットが試合に登場し、団員と刃を交える。,姬塔众人受邀参加一年一度的建国庆典，前往王都费德拉赫。庆典以国王的贺词开始，随后是白龙骑士团激烈的淘汰赛。团长兰斯洛特和副团长维恩也参加了比赛。兰斯洛特率先出场，与团员对抗。
+1,,<span class='scene-font-katari'>大勢の人々で賑わう</span><br><span class='scene-font-katari'>王都フェードラッヘ。</span>,<span class='scene-font-katari'>众多的人聚集在这里，</span><br><span class='scene-font-katari'>王都费德拉赫。</span>
+2,,<span class='scene-font-katari'>この日は、年に一度の建国式典が</span><br><span class='scene-font-katari'>王都で開催されるとあって、</span><br><span class='scene-font-katari'>観客達が城に詰めかけている。</span>,<span class='scene-font-katari'>游客们蜂拥而至，</span><br><span class='scene-font-katari'>这一天，一年一度的建国庆典将在王都举行。</span>
+3,,<span class='scene-font-katari'>練兵場に設置された特別席に</span><br><span class='scene-font-katari'>招待された姬塔達は、</span><br><span class='scene-font-katari'>式の始まりを楽しみに待っていた。</span>,<span class='scene-font-katari'>姬塔众人受到邀请，坐在练兵场旁边的特别席位上，</span><br><span class='scene-font-katari'>等待着仪式的开始。</span>
+4,カール国王/卡尔国王,はっはっは、<br>今日はわざわざ来てくれて<br>ありがとう。,哈哈哈，谢谢你们今天特意过来。
+5,ルリア/露莉亚,こちらこそご招待、<br>ありがとうございます！,我们才是，多谢您的邀请！
+6,ビィ/碧,国の大事なイベントなんだろ？<br>オイラ達を呼んでも良かったのか？,这是国家的重要活动吧？把我们叫来真的没问题吗？
+7,カール国王/卡尔国王,当り前だろう？<br>姬塔達は<br>我が国の恩人なんだからな。,当然了，姬塔你们是我国的恩人。
+8,カール国王/卡尔国王,今日は思う存分<br>楽しんで行ってくれ。,今天就尽情好好享受吧。
+9,ビィ/碧,おう！<br>そうさせてもらうぜ！,啊！我们会的！
+10,ルリア/露莉亚,ところで、<br>ランスロットさんとヴェインさんは<br>どこにいるんですか？,顺便问一下，兰斯洛特先生和维恩先生在哪里？
+11,カール国王,ああ、ふたりには<br>大役があってな。,啊啊，他们两个的话有重要的任务。
+12,カール国王,今ここに顔を出すのは<br>少し難しいだろう。,现在要在这里出现的话会有些困难吧。
+13,ルリア/露莉亚,お忙しいなら仕方ないですね……<br>また後でご挨拶しに行きます。,如果很忙的话也没有办法……我一会儿再去打招呼。
+14,ビィ/碧,おっ！<br>そろそろ始まるみてぇだぜ！,哦！差不多要开始了！
+24,,<span class='scene-font-katari'>観客達に一瞬の静寂が訪れた後、</span><br><span class='scene-font-katari'>楽隊のファンファーレが</span><br><span class='scene-font-katari'>盛大に鳴り響く。</span>,<span class='scene-font-katari'>在观众寂静无声的一瞬过后，</span><br><span class='scene-font-katari'>乐队的开场小号奏起盛大的音乐。</span>
+25,,<span class='scene-font-katari'>音楽の高揚と共に意気揚々と</span><br><span class='scene-font-katari'>団長のランスロットが率いる</span><br><span class='scene-font-katari'>白竜騎士団の面々が入場する。</span>,<span class='scene-font-katari'>伴随着高昂的音乐，</span><br><span class='scene-font-katari'>由团长兰斯洛特率领的，</span><br><span class='scene-font-katari'>白龙骑士团的成员们进入了场地。</span>
+26,ランスロット/兰斯洛特,…………,……
+27,白竜騎士団員/白龙骑士团团员,…………,……
+28,ルリア/露莉亚,わぁ～！<br>ランスロットさ～ん！<br>カッコいいです～！,哇啊！兰斯洛特先生，好帅啊！
+29,ビィ/碧,おぉ！　ホントだな～！<br>ああしてるとより団長って感じだな～！,啊，真的啊！那个样子让人感觉是真正的团长呢！
+29-sel1_txt,,<span class='scene-font-katari'>ランスロット団長～！</span>,<span class='scene-font-katari'>兰斯洛特团长～！</span>
+29-sel2_txt,,<span class='scene-font-katari'>ランちゃんカッコいい～！</span>,<span class='scene-font-katari'>兰酱好帅呀~！</span>
+31,ランスロット/兰斯洛特,おお、姬塔～！<br>来てくれてありがとうな！,哦哦，姬塔！谢谢你能来！
+32,,<span class='scene-font-katari'>こちらに気付いた様子で</span><br><span class='scene-font-katari'>満面の笑みを浮かべて、力強く</span><br><span class='scene-font-katari'>手を振りかえすランスロット。</span>,<span class='scene-font-katari'>兰斯洛特露出高兴的样子，</span><br><span class='scene-font-katari'>使劲向姬塔挥了挥手。</span>
+33,ランスロット/兰斯洛特,はははは……！,哈哈哈哈……！
+34,ランスロット/兰斯洛特,<span class='scene-font-kokoro'>（姬塔……	</span><br><span class='scene-font-kokoro'>応援はありがたいが、大声で</span><br><span class='scene-font-kokoro'>ランちゃんはやめてくれ～……）</span>,<span class='scene-font-kokoro'>（姬塔……	</span><br><span class='scene-font-kokoro'>很感谢你来应援，</span><br><span class='scene-font-kokoro'>但是请不要大声地叫我兰酱……）</span>
+35,,<span class='scene-font-katari'>こちらに気付いた様子だが</span><br><span class='scene-font-katari'>苦笑を浮かべながら、小さく</span><br><span class='scene-font-katari'>手を振りかえすランスロット。</span>,<span class='scene-font-katari'>兰斯洛特微微挥了挥手，</span><br><span class='scene-font-katari'>露出一丝苦笑。</span>
+36,ルリア/露莉亚,あの、王様！<br>ヴェインさんはどこですか？,那个，国王大人，维恩先生在哪里呢？
+37,カール国王/卡尔国王,ヴェインは確か、<br>最後尾にいるはずだが。,维恩好像是在部队的最后面。
+38,,<span class='scene-font-katari'>視線を後ろにやると、</span><br><span class='scene-font-katari'>部隊の最後尾を行進する</span><br><span class='scene-font-katari'>ヴェインの姿があった。</span>,<span class='scene-font-katari'>伴随着向后移动的视线，</span><br><span class='scene-font-katari'>能看到在队伍的最后面行进的，</span><br><span class='scene-font-katari'>维恩的身姿。</span>
+39,ヴェイン/维恩,どうもどうも～！,谢谢，谢谢！
+40,ルリア/露莉亚,見てください！<br>ヴェインさんも素敵です～！,快来看呀，维恩先生也很厉害~！
+41,ビィ/碧,おお、本当だな！<br>なかなか様になってるじゃねぇか！,啊，真的呀！没有以前那种毛毛躁躁的感觉了！
+41-sel1_txt,,<span class='scene-font-katari'>ヴェイン副団長～！</span>,<span class='scene-font-katari'>维恩副团长～！</span>
+41-sel2_txt,,<span class='scene-font-katari'>こっち向いて～！</span>,<span class='scene-font-katari'>看这边～！</span>
+43,ヴェイン/维恩,<span class='scene-font-4'>うおぉぉぉい！</span><br>姬塔～！<br>ビィく～ん！　ルリア～！,<span class='scene-font-4'>呀啊啊啊！</span><br>姬塔～！<br>碧～！露莉亚~！
+44,ヴェイン/维恩,今日はわざわざ<br>来てくれてありがとうなぁ～！,谢谢你今天特意过来！
+46,ヴェイン/维恩,おお！　姬塔！<br>おーいっ……,喂！姬塔！喂——
+47,ヴェイン/维恩,<span class='scene-font-4'>うわぷっ！</span>,<span class='scene-font-4'>呜哇！</span>
+48,,<span class='scene-font-katari'>姬塔に手を振り返そうとして</span><br><span class='scene-font-katari'>大きく躓くヴェインであった。</span>,<span class='scene-font-katari'>为了回头向姬塔挥手，</span><br><span class='scene-font-katari'>维恩差点因用力过猛而摔倒。</span>
+49,ヴェイン/维恩,わははは！　<br>危うく転ぶとこだったぜ！,哇哈哈哈，差点摔倒好危险啊！
+50,,<span class='scene-font-katari'>会場が盛り上がる中、</span><br><span class='scene-font-katari'>全ての団員が綺麗に</span><br><span class='scene-font-katari'>整列するのだった。</span>,<span class='scene-font-katari'>在整个会场高涨的气氛中，</span><br><span class='scene-font-katari'>所有团员都整齐地排列好了队伍。</span>
+51,,<span class='scene-font-katari'>会場が静まった</span><br><span class='scene-font-katari'>タイミングを見計らって</span><br><span class='scene-font-katari'>祝辞の挨拶をするカール国王。</span>,<span class='scene-font-katari'>等待会场安静下来之后，</span><br><span class='scene-font-katari'>卡尔国王开始致辞。</span>
+52,カール国王/卡尔国王,本日は天候にも恵まれ、<br>最高の式典日和となった。,今天天气绝佳，正是最好的典礼日。
+53,カール国王/卡尔国王,無事にこの日を迎えられたことを、<br>この場にいる白竜騎士団の皆と<br>全ての観客達に感謝する。,感谢在场的白龙骑士团全员和所有的观众，平安地迎来了这一天。
+54,カール国王/卡尔国王,長々と堅苦しい挨拶は抜きにして、<br>最後に一言だけ。,我就不长篇大论了，最后只说一句话。
+55,カール国王/卡尔国王,白竜騎士団と……<br>フェードラッヘに栄光あれ！,愿白龙骑士团……和费德拉赫荣光永存！
+56,,<span class='scene-font-katari'>カール国王陛下の祝辞を受けて、</span><br><span class='scene-font-katari'>大盛り上がりの会場。</span>,<span class='scene-font-katari'>听到了卡尔国王的致辞，</span><br><span class='scene-font-katari'>会场的气氛高涨了起来。</span>
+57,,<span class='scene-font-katari'>会場はその熱気のまま</span><br><span class='scene-font-katari'>次のプログラムへ突入する。</span>,<span class='scene-font-katari'>就这样保持着高涨的气氛，</span><br><span class='scene-font-katari'>进入到了下一个项目。</span>
+58,司会者,さぁさぁ、<br>ここでみなさんお待ちかね！,好的好的，请大家在这里稍等片刻！
+59,司会者,白竜騎士団の騎士団員達が<br>武勇を競うトーナメント戦が<br>始まりました～！,白龙骑士团骑士们展现武勇的竞争即将开始了！
+60,司会者,注目は何と言っても<br>白竜騎士団団長の<br>ランスロット選手～！,无需多言，最受瞩目的正是白龙骑士团团长兰斯洛特选手！
+63,ランスロット/兰斯洛特,白竜騎士団の団長を務める<br>ランスロットです。,我是白龙骑士团团长，兰斯洛特。
+64,ランスロット/兰斯洛特,皆さんの期待に沿えるよう<br>頑張ります。,我会努力满足大家的期待。
+65,司会者,そしてこちらも最近メキメキ実力を<br>上げてきていると噂の、<br>白竜騎士団副団長のヴェイン選手～！,还有据说最近正在不断提升实力的，白龙骑士团副团长维恩选手！
+68,ヴェイン/维恩,どうも～！<br>副団長のヴェインです！,谢谢！我是副团长维恩！
+69,ヴェイン/维恩,わはははは！<br>今日は全力で頑張るぜ～！,哇哈哈哈！今天我会全力以赴的！
+70,,<span class='scene-font-katari'>大きな舞台上に並び立つ</span><br><span class='scene-font-katari'>ランスロットとヴェインの</span><br><span class='scene-font-katari'>姿に沸き立つ観客達。</span>,<span class='scene-font-katari'>在广阔的舞台上伫立着的，</span><br><span class='scene-font-katari'>兰斯洛特和维恩的身姿，</span><br><span class='scene-font-katari'>让观众为之沸腾。</span>
+71,,<span class='scene-font-katari'>その様子を、トーナメント出場権の無い</span><br><span class='scene-font-katari'>見習い騎士達は、憧れのまなざしで</span><br><span class='scene-font-katari'>見つめているのだった。</span>,<span class='scene-font-katari'>那些还没有获得出赛资格的见习骑士们，</span><br><span class='scene-font-katari'>只能用羡慕的眼光看着他们。</span>
+72,アーサー/亚瑟,うっひゃ～！<br>ランスロット団長とヴェイン副団長って<br>やっぱりすごい人気なんだな～！,唔呀！兰斯洛特团长和维恩副团长果然很受欢迎啊！
+73,モルドレッド/莫德雷德,あ～あ～<br>オレ達だって出場できたら、<br>いいところまで行けるのにな！,啊啊，如果我们也能参赛的话就太好了！
+74,クルス/库鲁斯,あの顔ぶれを前に<br>相当な自信だな。,从你的脸上看，你很有自信呢。
+75,モルドレッド/莫德雷德,そう言うクルスだって<br>自信あるだろ？,这么说的库鲁斯也很有自信吧？
+76,クルス/库鲁斯,俺は興味がない。,我没有兴趣。
+77,トネリロ/托涅利罗,僕は参加できなくて<br>助かったな～,谢天谢地我不用参加……
+78,ヘンリー/亨利,やれやれ……<br>相変わらず情けない奴だな！,呀咧呀咧，还是那么没出息的样子呢！
+79,ヘンリー/亨利,この俺様が出場したら、<br>三位は狙えるぜ！,如果本大爷出场的话，能拿到第三名！
+80,アーサー/亚瑟,えー、もったいない！<br>優勝目指さないんだ！,诶，好可惜呀！不是第一名吗？
+81,モルドレッド/莫德雷德,ダッセー奴。,没用的家伙。
+82,ヘンリー/亨利,うっ、うるせー！<br>団長と副団長に<br>勝てる訳ないだろ！,闭，闭嘴！不可能赢得过团长和副团长的吧？
+83,アーサー/亚瑟,そうかな？<br>そんなのやってみなきゃ<br>分からないじゃん？,是吗？那种事情不试试怎么知道呀？
+84,モルドレッド/莫德雷德,そうそう、勝負事に<br>絶対は無いからな。,没错，胜负从来没有绝对这么一说。
+85,,<span class='scene-font-katari'>その時、客席からひときわ</span><br><span class='scene-font-katari'>大きな歓声が上がった。</span>,<span class='scene-font-katari'>就在这时，观众席上</span><br><span class='scene-font-katari'>响起了巨大的欢呼声。</span>
+86,ランスロット/兰斯洛特,…………,……
+87,女性客１,キャーッ！<br>ランスロット様よ～！,啊！是兰斯洛特大人！
+88,女性客２,ランスロット様～！<br>こっち向いて～！,兰斯洛特大人！看这里！
+89,女性客３,……あっ！　<br>今あたしと目があった！<br>ねぇねぇ見てた！,啊！他刚才看我的眼睛了！喂喂看到了吗！
+90,ランスロット/兰斯洛特,…………,……
+91,ヴェイン/维恩,ランちゃん頑張れよ～！,兰酱！加油哟！
+92,ランスロット/兰斯洛特,おう！<br>ありがとな、ヴェイン！,哦！谢谢你，维恩！
+93,,<span class='scene-font-katari'>ランスロットにエールを送って</span><br><span class='scene-font-katari'>ステージ上を離れるヴェイン。</span>,<span class='scene-font-katari'>维恩为兰斯洛特加油，</span><br><span class='scene-font-katari'>随后离开了舞台。</span>
+94,司会者,それではみなさんお待ちかねの<br>ランスロット選手の登場だ～！,那么接下来是大家期待已久的兰斯洛特选手的登场！
+95,ランスロット/兰斯洛特,よろしくな。,请多指教。
+96,強気な騎士/看起来很强的骑士,ランスロット団長……<br>声援では負けてますが、<br>勝負には負けませんよ！,兰斯洛特团长……虽然在声援上输给了你，但是竞技绝不会输！
+97,ランスロット/兰斯洛特,もちろんだ、<br>ここでは実力だけがものを言う。,当然了，在这里是全靠实力说话的。
+99,ランスロット/兰斯洛特,さぁ、お前の力を見せてくれ！,来，让我看看你的力量！
+info,,,scene_chr502_q1_s20

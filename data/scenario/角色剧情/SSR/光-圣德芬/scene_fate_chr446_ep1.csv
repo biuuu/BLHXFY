@@ -1,0 +1,99 @@
+﻿id,name,text,trans
+0-chapter_name,,ほろ苦い記憶,苦涩的记忆
+0-synopsis,,ルシフェルとの約束を守る為姬塔達の旅に同行するものの、周囲との交流を避けるサンダルフォン。ある日姬塔達は台所で珈琲を淹れるサンダルフォンを見つける。珈琲が好きな理由を尋ねられたサンダルフォンはルシフェルと珈琲を楽しんだ過去を回想するも、「理由など忘れてしまった」とはぐらかしその場を去るのだった。,为了遵守和路西菲尔的约定而与姬塔同行的圣德芬仍然拒绝和周围人交流。某一天姬塔遇到了正在厨房冲泡咖啡的圣德芬便问起他喜欢咖啡的缘由。圣德芬回想起自己与路西菲尔一起品尝咖啡的日子，以“我已经忘了。”搪塞了过去。
+1,,<span class='scene-font-katari'>到達不能空域にあるカナンの神殿。</span><br><span class='scene-font-katari'>前人未到の空域に起きた未曽有の危機が</span><br><span class='scene-font-katari'>去ってから、しばらくの時が流れた。</span>,无法到达的领域——迦南，在此地发生的危机已经过去一段时间。
+6,,<span class='scene-font-katari'>徐々に日常を取り戻した空の世界。</span><br><span class='scene-font-katari'>穏やかに航行するグランサイファーの</span><br><span class='scene-font-katari'>甲板に一人の天司の姿があった。</span>,空之世界渐渐回复了日常，在平稳飞行的格兰塞法甲板上，出现了一位天司的身影。
+7,サンダルフォン/圣德芬,…………,…………,
+8,,<span class='scene-font-katari'>碧空を眺める彼の名はサンダルフォン。</span><br><span class='scene-font-katari'>天司長のルシフェルから継承した力を</span><br><span class='scene-font-katari'>先の戦闘で消耗させてしまった。</span>,眺望着青空的他名为圣德芬。从天司长路西菲尔继承到的力量在先日的战斗中已消耗殆尽。
+9,,<span class='scene-font-katari'>このままではルシフェルとの約束を</span><br><span class='scene-font-katari'>果たせないと判断したサンダルフォンは</span><br><span class='scene-font-katari'>姬塔達との同行を決意する。</span>,他判断这样的自己完成不了路西菲尔的心愿，从而决意与姬塔一行同行。
+11,ビィ/碧,おーい、サンダルフォン！<br>そんなところで何してんだ？,喂——圣德芬！你在那干什么呢？
+13,ルリア/露莉亚,あのぉ……<br>サンダルフォンさんも<br>一緒にお茶しませんか？,那个...圣德芬也一起喝茶吧？
+14,サンダルフォン/圣德芬,いや、俺はいい。,不了，不用在意我。
+15,,<span class='scene-font-katari'>姬塔達が和気藹々と過ごす</span><br><span class='scene-font-katari'>輪から離れて、ひとりどこかへ</span><br><span class='scene-font-katari'>行ってしまうサンダルフォン。</span>,圣德芬不顾其乐融融的姬塔一行，一个人走开了。
+16,ルリア/露莉亚,あっ、行っちゃいました……,啊、他走了.....
+17,ビィ/碧,まぁ別に無理に誘う事ねぇか。<br>色々考え事とかしてるんだろ。,不用硬拉他，估计在想什么事情吧。
+18,ルリア/露莉亚,はい、でも……,嗯，但是.....
+19,,<span class='scene-font-katari'>姬塔達は心配そうに</span><br><span class='scene-font-katari'>サンダルフォンを眺めていた。</span>,姬塔一行担心地望着圣德芬。
+24,,<span class='scene-font-katari'>それから数日後。</span><br><span class='scene-font-katari'>姬塔達は辺りに漂う</span><br><span class='scene-font-katari'>不思議な香りに胸を高鳴らせていた。</span>,又过了几天，姬塔一行被不可思议的香味所吸引。
+25,ルリア/露莉亚,くんくんくん……<br>こっちから良い匂いがします……,闻闻.....这里有股香味呢.....
+26,ビィ/碧,あぁ、誰か台所にいるみたいだぜ！,是呀，好像有谁在厨房呢！
+28,,<span class='scene-font-katari'>姬塔達は</span><br><span class='scene-font-katari'>匂いの元を辿ってみると──</span>,姬塔一行随着香味来到了厨房——
+30,サンダルフォン/圣德芬,ん……なんだ君達か。,嗯...是你们吗。
+31,ルリア/露莉亚,あ、サンダルフォンさんが<br>珈琲を淹れてたんですね！,啊、是圣德芬在冲泡咖啡啊！
+32,ビィ/碧,珈琲珈琲言うだけあって<br>ウマそうな匂いじゃねぇか！,嘴上说着咖啡咖啡，冲泡的还挺香嘛！
+33,サンダルフォン/圣德芬,……そんなに言った覚えはないが。<br>それじゃ。,.....我可没记得自己说过。那么再会了。
+34,,<span class='scene-font-katari'>姬塔達の姿を見るや、</span><br><span class='scene-font-katari'>台所から立ち去ろうとする</span><br><span class='scene-font-katari'>サンダルフォン。</span>,看到了姬塔一行的圣德芬便转身准备离去。
+35,ビィ/碧,おいおい、<br>そんな風に避けることねぇだろ？,喂喂，没你这样见人就躲的吧？
+36,ルリア/露莉亚,あ、あの、待ってください！<br>少しお話しませんか？,啊、那个、请等一下！能说一会话吗？
+37,サンダルフォン/圣德芬,話……？　<br>俺が君達と何を話すんだ？,说话....？你们要和我说什么？
+38,サンダルフォン/圣德芬,ルシファーに関する手がかりでも<br>見つかったのか？,是发现和路西法相关的线索了？
+39,ルリア/露莉亚,それは……まだ……,那个....还没有......
+40,サンダルフォン/圣德芬,では失礼させてもらう。,那就没什么好说的了，再会。
+41,サンダルフォン/圣德芬,避けているわけではないが、<br>俺は君達と雑談するために、<br>ここにいるわけでもない。,我不是在躲你们，而是因为我并不是为了和你们闲聊才待在这里的。
+42,ビィ/碧,な、なんだよ。<br>そんな言い方はねぇだろ。,什、什么嘛。你怎么能这样说。
+43,,<span class='scene-font-katari'>立ち去ろうとするサンダルフォンに</span><br><span class='scene-font-katari'>抽出器を持って行かれると珈琲が</span><br><span class='scene-font-katari'>飲めなくなると伝える姬塔。</span>,圣德芬拿着咖啡冲泡壶正要离开，姬塔说自己想喝咖啡。
+44,サンダルフォン/圣德芬,なに……,什么……
+45,,<span class='scene-font-katari'>すると、サンダルフォンは</span><br><span class='scene-font-katari'>少しムッとした様子で</span><br><span class='scene-font-katari'>戻ってくるのだった。</span>,圣德芬有些不乐意的转回身。
+46,サンダルフォン/圣德芬,ここで淹れて行けば<br>文句はないな？,那我在这里冲泡就行了吧？
+47,,<span class='scene-font-katari'>こくりと頷く姬塔。</span>,姬塔点了点头。
+52,,<span class='scene-font-katari'>サンダルフォンは珈琲が</span><br><span class='scene-font-katari'>抽出されるひと時を</span><br><span class='scene-font-katari'>姬塔達と過ごす。</span>,圣德芬便与姬塔一行度过冲泡咖啡的时间。
+53,ルリア/露莉亚,サンダルフォンさんって<br>いつも珈琲を飲んでますよね。,圣德芬一直在喝咖啡吧。
+54,サンダルフォン/圣德芬,……ああ。,……嗯。
+55,ビィ/碧,よっぽど珈琲が<br>好きなんだな。,看来真的是很喜欢呀。
+56,,<span class='scene-font-katari'>なんでそんなに珈琲が好きなの？</span><br><span class='scene-font-katari'>と尋ねる姬塔。</span>,姬塔便问圣德芬为什么这么喜欢咖啡。
+57,サンダルフォン/圣德芬,…………,…………
+58,,<span class='scene-font-katari'>サンダルフォンはぽたぽたと</span><br><span class='scene-font-katari'>落ちる珈琲の滴を眺めながら</span><br><span class='scene-font-katari'>物思いにふける様子であった。</span>,圣德芬注视着一滴滴落下的咖啡，仿佛在思考着什么。
+64,ルシフェル/路西菲尔,…………,…………
+65,サンダルフォン/圣德芬,あの……ルシフェル様、<br>何をしているんですか？,那个.....路西菲尔大人，您在做什么呀？
+66,ルシフェル/路西菲尔,来たか、サンダルフォン。,你来了吗，圣德芬。
+67,ルシフェル/路西菲尔,これは……<br>珈琲を淹れているのだ。,我在....冲泡咖啡。
+68,サンダルフォン/圣德芬,珈琲、ですか？,咖啡？
+69,ルシフェル/路西菲尔,ああ。<br>植物の進化の研究の過程で発見した、<br>副産物のようなものだ。,是的。我在研究植物进化的时候发现的，类似于副产物的存在。
+70,ルシフェル/路西菲尔,珈琲の木になった実を収穫して<br>中の実から種子を取り出し──,从咖啡树上收获果实并取出种子——
+71,ルシフェル/路西菲尔,種子を焙煎して粉末状にしたものに<br>お湯を注いで抽出した飲料だ。,把种子进行烘焙后磨成粉末，然后注入热水冲泡过滤的一种饮料。
+72,サンダルフォン/圣德芬,ずいぶんと手間がかかって<br>いるんですね。,真是很费功夫的饮料呢。
+73,サンダルフォン/圣德芬,くんくん……<br>それに、とてもいい香りです。,嗯....而且非常香。
+74,ルシフェル/路西菲尔,君も飲んでみるか？,你也喝喝看嘛？
+75,サンダルフォン/圣德芬,えっ、俺も飲んでいいんですか？,唉？我可以喝嘛？
+76,ルシフェル/路西菲尔,もちろんだ。<br>そのために君をここに<br>呼んだのだから。,当然。我也是为了这个才叫你来的。
+77,サンダルフォン/圣德芬,あ、ありがとうございます。<br>その珈琲とやらを<br>ぜひ飲んでみたいです。,非、非常感谢。我很想品尝这种叫做咖啡的饮料。
+78,ルシフェル/路西菲尔,ふっ……<br>では少し待っていてくれ。,呵呵.....那就稍等片刻。
+80,,<span class='scene-font-katari'>カップに珈琲を注ぐ所作を</span><br><span class='scene-font-katari'>緊張した面持ちで眺めている</span><br><span class='scene-font-katari'>サンダルフォン。</span>,圣德芬紧张的注视着路西菲尔缓缓倒下的咖啡。
+81,ルシフェル/路西菲尔,さぁ、召し上がれ。,请慢用。
+82,サンダルフォン/圣德芬,では、謹んで頂きます。,那我就不客气了。
+83,,<span class='scene-font-katari'>ルシフェルから受けとった</span><br><span class='scene-font-katari'>カップにゆっくりと口をつける</span><br><span class='scene-font-katari'>サンダルフォン。</span>,圣德芬从路西菲尔手中接过杯子，缓缓地送入口中。
+84,サンダルフォン/圣德芬,<span class='scene-font-kokoro'>（……っ！？）</span>,<span class='scene-font-kokoro'>（……っ！？）</span>
+85,サンダルフォン/圣德芬,<span class='scene-font-kokoro'>（な、なんだこれは……！</span><br><span class='scene-font-kokoro'>苦い……苦いぞ……</span><br><span class='scene-font-kokoro'>まるで泥水じゃないかこれは！）</span>,,<span class='scene-font-kokoro'>（这、这是什么……！</span><br><span class='scene-font-kokoro'>好苦……苦死了……</span><br><span class='scene-font-kokoro'>简直就像泥水一样！）</span>
+86,ルシフェル/路西菲尔,どうだ、サンダルフォン。<br>私の淹れた珈琲の味は？,圣德芬怎么样？我冲泡的咖啡味道如何？
+87,サンダルフォン/圣德芬,……は、はい。<br>とても美味しいです。,,……嗯、嗯。非常美味。
+88,ルシフェル/路西菲尔,……っ。,……
+89,ルシフェル/路西菲尔,そうか、美味しいか。,美味……吗。
+90,,<span class='scene-font-katari'>サンダルフォンの言葉を受けて</span><br><span class='scene-font-katari'>微笑を浮かべるルシフェル。</span>,听了圣德芬的话，路西菲尔露出了笑容。
+91,ルシフェル/路西菲尔,君が珈琲を<br>気に入ってくれて嬉しいよ。,我很高兴你能这么喜欢咖啡。
+92,サンダルフォン/圣德芬,あ、あの……<br>俺も珈琲を飲めて<br>嬉しかったです。,那、那个……我也……喝了咖啡非常开心。
+93,ルシフェル/路西菲尔,誰かに振る舞うのは初めてだったが、<br>上手くいったようだな。,虽然我是第一次为别人做事，但好像成功了呢。
+94,サンダルフォン/圣德芬,えっ……？,唉……？
+95,サンダルフォン/圣德芬,<span class='scene-font-kokoro'>（本当に上手くいってたのか……？）</span>,<span class='scene-font-kokoro'>（这真的叫成功吗……？）</span>
+96,ルシフェル/路西菲尔,また新しい珈琲豆を手に入れた時は、<br>君を招待するから<br>楽しみにしていてくれ。,如果得到了新的咖啡豆我还会招待你的，敬请期待吧。
+97,サンダルフォン/圣德芬,は、はい！<br>よろしくお願いします。,好、好的！那就拜托您了！
+98,サンダルフォン/圣德芬,<span class='scene-font-kokoro'>（ど……どうしよう……</span><br><span class='scene-font-kokoro'>次も上手くごまかせるかな……）</span>,<span class='scene-font-kokoro'>（怎……怎么办……</span><br><span class='scene-font-kokoro'>下次我还能蒙混过关吗……）</span>
+103,,<span class='scene-font-katari'>それ以来、サンダルフォンは</span><br><span class='scene-font-katari'>事あるごとにルシフェルの珈琲を</span><br><span class='scene-font-katari'>ご馳走されるのだった。</span>,从那以后，圣德芬就不断接受路西菲尔的邀请去品尝咖啡。
+104,,<span class='scene-font-katari'>最初の頃は無理して珈琲を飲んでいた</span><br><span class='scene-font-katari'>サンダルフォンも、次第に珈琲の良さに</span><br><span class='scene-font-katari'>目覚めて飲めるようになっていく。</span>,一开始是极力忍受苦味的他也渐渐学会了品尝咖啡的方式。
+105,,<span class='scene-font-katari'>いつしか珈琲についての話題は、</span><br><span class='scene-font-katari'>ルシフェルとサンダルフォンの</span><br><span class='scene-font-katari'>共通言語となるのだった。</span>,咖啡成为了路西菲尔和圣德芬的共同话题。
+111,,<span class='scene-font-katari'>珈琲を抽出し終えた</span><br><span class='scene-font-katari'>サンダルフォンは、</span><br><span class='scene-font-katari'>姬塔を見据える。</span>,过滤完咖啡的圣德芬看向了姬塔。
+112,サンダルフォン/圣德芬,さぁな……好きになった理由など<br>忘れてしまった。,不清楚....我早就忘了喜欢的理由。
+113,サンダルフォン/圣德芬,では、俺はこれで失礼するよ。,那么再会了。
+114,,<span class='scene-font-katari'>珈琲のカップを手にその場を</span><br><span class='scene-font-katari'>立ち去るサンダルフォン。</span>,圣德芬拿起杯子准备离开。
+115,,<span class='scene-font-katari'>サンダルフォンの背中に</span><br><span class='scene-font-katari'>今度、美味しい珈琲の淹れ方を教えて</span><br><span class='scene-font-katari'>と呼びかける姬塔。</span>,面对着他的背影，姬塔提出下次教教他们冲泡美味咖啡的方法。
+116,サンダルフォン/圣德芬,…………,…………
+117,,<span class='scene-font-katari'>だが、サンダルフォンは何も答えず</span><br><span class='scene-font-katari'>そのままどこかへ消えてしまった。</span>,圣德芬一言不发的走开了。
+118,ビィ/碧,ったく……<br>なんなんだよアイツは。,真是的...那家伙到底是怎么了。
+119,ルリア/露莉亚,でも、なんだか<br>少し寂しそうでした。,但是他好像有些寂寞。
+120,ビィ/碧,まぁ気にしてもしょうがねぇか。,我们现在也不用太在意。
+121,ビィ/碧,それよりオイラ達も<br>珈琲を飲もうぜ！,先喝咖啡吧！
+122,ルリア/露莉亚,はい！<br>じゃあ私が淹れますね！,好的！我也来冲咖啡吧！
+123,ビィ/碧,ありがとな！<br>オイラはミルクと砂糖を<br>たっぷりいれてくれ！,谢谢啦！我要多放点糖和牛奶！
+124,ルリア/露莉亚,いいですね～！<br>じゃあ私も真似っこしちゃおうかな！,真好~！我也和你一样好了！
+125,,<span class='scene-font-katari'>サンダルフォンと珈琲の間に</span><br><span class='scene-font-katari'>何か言い知れぬ因縁を感じ取る</span><br><span class='scene-font-katari'>姬塔達。</span>,姬塔一行在和圣德芬冲泡咖啡的时间中感到了奇妙的因缘。
+126,,<span class='scene-font-katari'>だが、それ以上の深入りはせず</span><br><span class='scene-font-katari'>彼との心の距離は、今までと</span><br><span class='scene-font-katari'>変わらないのであった。</span>,但是他们与圣德芬内心的距离并没有发生改变。
+info,,,scene_fate_chr446_ep1

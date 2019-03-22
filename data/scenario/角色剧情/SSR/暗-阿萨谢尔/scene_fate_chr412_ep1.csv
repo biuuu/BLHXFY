@@ -1,6 +1,6 @@
 id,en,jp,trans
 0-chapter_name,,The Day of Defeat,The Day of Defeat
-0-synopsis,,姬塔一行は、訪れた町でドラフの大男と、自らを悪魔と名乗るアザゼルという男が揉めているのを見る。諍いの原因はアザゼルがドラフの大男を魔族と勘違いしているせいだと判明する。アザゼルには記憶がなく、唯一覚えているのは仲間と共に<span class='scene-font-spword'>『神』</span>に逆らい敗れ、パンデモニウムに幽閉されていたことだけという。姬塔はアザゼルに優しく声を掛け、仲間に迎え入れるのだった。,姬塔一行在街上看到一个牛角族的壮汉和一个自称恶魔的青年起了争执。姬塔一行上前询问争执的原因，发现这名名叫阿萨谢尔的青年误以为牛角族壮汉是他的魔族同胞。阿萨谢尔没有记忆，只记得自己和同伴一起违抗<span class='scene-font-spword'>『神』</span>，最终落败，被幽禁于万魔殿一事。姬塔向阿萨谢尔发出邀请，欢迎他加入骑空团。
+0-synopsis,,姬塔一行は、訪れた町でドラフの大男と、自らを悪魔と名乗るアザゼルという男が揉めているのを見る。諍いの原因はアザゼルがドラフの大男を魔族と勘違いしているせいだと判明する。アザゼルには記憶がなく、唯一覚えているのは仲間と共に<span class='scene-font-spword'>『神』</span>に逆らい敗れ、パンデモニウムに幽閉されていたことだけという。姬塔はアザゼルに優しく声を掛け、仲間に迎え入れるのだった。,姬塔一行在街上看到一个牛角族的壮汉和一个自称恶魔的青年起了争执。姬塔一行上前询问争执的原因，发现这名名叫阿萨谢尔的青年误以为牛角族壮汉是他的魔族同胞。阿萨谢尔没有记忆，只记得自己和同伴一起违抗<span class='scene-font-spword'>『神』</span>，最终落败，被幽禁于伏魔殿一事。姬塔向阿萨谢尔发出邀请，欢迎他加入骑空团。
 1,,<span class='scene-font-katari'>一行はとある遠方の島に停泊し、</span><br><span class='scene-font-katari'>食料補給のため町へ出ることとなった。</span>,<span class='scene-font-katari'>姬塔一行在某个远方的岛屿上稍作停留，为了补给食料而去了岛上的小镇。</span>
 2,,<span class='scene-font-katari'>ことは順調に運び、</span><br><span class='scene-font-katari'>大量の食料を抱えて帰路へ就こうとした</span><br><span class='scene-font-katari'>まさにその時だった──</span>,<span class='scene-font-katari'>采购十分顺利，正当大家抱着大量的食材回去的时候——</span>
 3,,<span class='scene-font-4'>ぐああああああああ──ッ！</span>,<span class='scene-font-4'>唔啊啊啊啊啊——！！</span>
@@ -57,11 +57,11 @@ id,en,jp,trans
 70,,その時の重い闇の感触が<br>俺の知る最後の記憶だ。,那个时候感到的沉重的黑暗是我最后的记忆。
 71,,おいおい……<br>仲間と<span class='scene-font-spword'>『神』</span>に逆らったって、<br>なんかとんでもねー話になってきたな。,喂喂……<br>和同伴们反抗<span class='scene-font-spword'>『神』</span>什么的好像是件了不得的事啊。
 72,,その、暗くて深い穴の底って<br>どこにあるんですか？,那个又深又暗的洞是在哪里呢？
-73,,確か、パンデモニウムだったか。<br>そう呼ばれていたな。,好像是叫万魔殿。
+73,,確か、パンデモニウムだったか。<br>そう呼ばれていたな。,好像是叫伏魔殿。
 74,,ええっ！？,欸欸！？
 75,,それなら知ってます！<br>怖い魔物さんがいっぱいいるところ、<br>ですよね、姬塔？,我知道那里！有很多恐怖的魔物的地方，是吧？
 76,,<span class='scene-font-katari'>姬塔は深く頷く。</span><br><span class='scene-font-katari'>そして、頭の中を整理するかのように</span><br><span class='scene-font-katari'>一語一語をかみしめて言葉にした。</span>,<span class='scene-font-katari'>姬塔点了点头。像是在整理思绪一般，一字一句地说了出来。</span>
-81,,<span class='scene-font-katari'>パンデモニウム。古き遺跡。</span><br><span class='scene-font-katari'>世界の過去と未来を知るところ。</span><br><span class='scene-font-katari'>空の底、赤き地平に繋がる唯一の道。</span>,<span class='scene-font-katari'>万魔殿。古代遗迹。知晓世界的过去和未来的地方。连接苍空之底与赤色地平的唯一通道。</span>
+81,,<span class='scene-font-katari'>パンデモニウム。古き遺跡。</span><br><span class='scene-font-katari'>世界の過去と未来を知るところ。</span><br><span class='scene-font-katari'>空の底、赤き地平に繋がる唯一の道。</span>,<span class='scene-font-katari'>伏魔殿。古代遗迹。知晓世界的过去和未来的地方。连接苍空之底与赤色地平的唯一通道。</span>
 86,,<span class='scene-font-katari'>その言葉を静かに聞きながら</span><br><span class='scene-font-katari'>アザゼルは遠い目をして呟いた。</span>,<span class='scene-font-katari'>听到了姬塔的话，阿萨谢尔若有所思地自言自语道。</span>
 87,,俺は、そんなところに<br>投獄されていたのか……,我被关在那里了吗……
 88,,でもよぅ、そんなおっかねぇとこから<br>よく脱出できたな！,但是从那里逃出来可真厉害啊！
