@@ -1,0 +1,41 @@
+id,name,text,trans
+0-synopsis,,よろず屋シェロカルテに頼み、集めた素材でベリアルから渡された武器を鍛えてもらった姬塔。その夜、姬塔の夢にベリアルが現れる。姬塔はベリアルに武器を鍛えさせる目的を尋ねるが、はぐらかされる。ベリアルは「この武器のポテンシャルはこんなもんじゃない」と告げ、闇の中へ消えていくのだった。,姬塔拜托万事屋榭洛科特用收集来的素材锤炼了贝利尔交付的武器。当晚，贝利尔再次出现于姬塔的梦中。姬塔向贝利尔询问锤炼武器的意图，却被含糊其辞。贝利尔称「这把武器的潜力远不止这些」，随后消失于黑暗之中。
+1,,<span class='scene-font-katari'>ベリアルから渡された武器を</span><br><span class='scene-font-katari'>鍛えるため、姬塔は素材を集め</span><br><span class='scene-font-katari'>よろず屋を訪れていた。</span>,为了锤炼贝利尔交付的武器，姬塔收集素材后来到了万事屋。
+2,ルリア/露莉亚,ええっ！？<br> 姬塔の持っている武器って、<br>あの堕天司さんから渡されたんですか？,诶诶！？姬塔手上拿着的这把武器，是那个堕天司给的？
+3,ビィ/碧,おいおい……それ、大丈夫なのか？<br>あの変態堕天司に渡された武器って、<br>なんか怪しいぞ……,喂喂……没事吧？那个变态堕天司的武器，总觉得很可疑啊……
+4,ルリア/露莉亚,あの……身体の不調とか、<br>何か気になるところはないですか……？,那个……有没有哪里不舒服，或者其他在意的地方……？
+5,,<span class='scene-font-katari'>心配そうなルリアとビィに、</span><br><span class='scene-font-katari'>姬塔は大丈夫だと頷く。</span>,姬塔向着满脸担忧的露莉亚与碧点点头示意自己没事。
+6,シェロカルテ/榭洛科特,それにしても、四大天司にも<br>匹敵する程の武器ですか……<br>ちょっと見せていただいても～？,说起来，这是能匹敌四大天司的武器吗……能借我看看吗~？
+7,,<span class='scene-font-katari'>そう言うとシェロカルテは</span><br><span class='scene-font-katari'>姬塔から武器を受け取り、</span><br><span class='scene-font-katari'>熱心に検分しはじめた。</span>,榭洛科特从姬塔手中接过武器，热情地检查起来。
+8,ビィ/碧,どうだ？<br>なんかヤバそうな気配とか、<br>そういうのないのか？,怎么样？有没有什么奇怪的气息之类的东西？
+9,シェロカルテ/榭洛科特,今のところは、<br>よく分かりませんが……,现在还不太清楚……
+10,シェロカルテ/榭洛科特,少なくとも、この武器から<br>とてつもない力を感じることは<br>間違いないです～,但至少这把武器上的确能感觉出非同寻常的力量~
+11,シェロカルテ/榭洛科特,最終的には四大天司にも匹敵する、<br>というのもあながち嘘では<br>ないようですね～,最终能匹敌四大天司这点，或许也未必是在说谎呢~
+12,シェロカルテ/榭洛科特,どうしましょう、姬塔さん？<br>素材は持ってきていただいているので、<br>鍛えることは可能ですけど……,怎么办呢，姬塔？你已经带来了素材，倒是可以锤炼了……
+12-sel1_txt,,<span class='scene-font-katari'>鍛えてみたい</span>,我想试试
+14,,<span class='scene-font-katari'>姬塔は力強く言い、</span><br><span class='scene-font-katari'>シェロカルテに素材を託す。</span>,姬塔坚定地回答，将素材交给了榭洛科特。
+15,,<span class='scene-font-katari'>シェロカルテも姬塔の</span><br><span class='scene-font-katari'>意気込みを感じたのか、</span><br><span class='scene-font-katari'>頷いて素材を受け取った。</span>,或许榭洛科特也感受到了姬塔的决心，颔首接过了素材。
+16,シェロカルテ/榭洛科特,では、すぐに職人さんと<br>連絡を取りますね～,那么，我这就去联系工匠~
+17,シェロカルテ/榭洛科特,鍛え終わったら、<br>すぐにご連絡しますので～,完成后，会立刻联系你的~
+23,,<span class='scene-font-katari'>こうして姬塔は</span><br><span class='scene-font-katari'>集めた素材と武器を一時</span><br><span class='scene-font-katari'>シェロカルテに託し──</span>,就这样姬塔将收集来的素材与武器暂时托付给了榭洛科特——
+24,,<span class='scene-font-katari'>後日、更に輝きを増した武器を</span><br><span class='scene-font-katari'>受け取るのだった。</span>,在之后，取回了更添光彩的武器。
+30,,<span class='scene-font-katari'>そして、その日の夜の事──</span>,就在那天夜晚——
+37,ベリアル/贝利尔,<span class='scene-font-gray'>よう、特異点。</span><br><span class='scene-font-gray'>順調に武器を鍛えてるようだな。</span>,哟，特异点。看来武器锻炼得很顺利啊。
+38,,<span class='scene-font-katari'>夢の中に現れたベリアルに、</span><br><span class='scene-font-katari'>姬塔はひとつの疑問をぶつける。</span>,面对现身于梦境中的贝利尔，姬塔向他掷以一个疑问。
+38-sel1_txt,,<span class='scene-font-katari'>何故力を与えようとする？</span>,为什么试图给予我力量？
+38-sel2_txt,,<span class='scene-font-katari'>……何が狙いなの？</span>,……你的目的是什么？
+39,ベリアル/贝利尔,<span class='scene-font-gray'>何故って？　そうだな……</span>,为什么？我想想……
+40,ベリアル/贝利尔,<span class='scene-font-gray'>キミのことを大事に思ってるから、</span><br><span class='scene-font-gray'>というのはどうだい？</span>,因为我很重视你，这理由如何？
+41,ベリアル/贝利尔,<span class='scene-font-gray'>オイオイ、</span><br><span class='scene-font-gray'>そんなに怖い顔するなよ。</span>,喂喂，别摆着张可怕的脸啊。
+42,ベリアル/贝利尔,<span class='scene-font-gray'>オレが純粋にキミの手助けを</span><br><span class='scene-font-gray'>してるって、信じてもらえないのか？</span>,我只是单纯在帮助你，就不能相信我吗？
+43,,<span class='scene-font-katari'>ベリアルの軽薄な言葉に、</span><br><span class='scene-font-katari'>思わず姬塔は</span><br><span class='scene-font-katari'>眉を顰める。</span>,听到贝利尔轻薄的言语，姬塔不禁地皱起眉头。
+43-sel1_txt,,<span class='scene-font-katari'>嘘でしょ</span>,骗人
+44,ベリアル/贝利尔,<span class='scene-font-gray'>フフフ……</span>,呵呵呵……
+45,ベリアル/贝利尔,<span class='scene-font-gray'>でも、本当にキミが考えてるような</span><br><span class='scene-font-gray'>裏があるわけでもないんだぜ？</span>,但是，真的没有你所想像的那种阴谋哦？
+46,ベリアル/贝利尔,<span class='scene-font-gray'>ただ単純に、人間であるキミが</span><br><span class='scene-font-gray'>どこまでこいつを扱えるかってことに</span><br><span class='scene-font-gray'>興味があるんだ。</span>,我只是单纯好奇，身为人类的你能将它运用到什么地步。
+47,ベリアル/贝利尔,<span class='scene-font-gray'>……そうだ、それよりも特異点。</span><br><span class='scene-font-gray'>キミはまだまだそいつの使い方を</span><br><span class='scene-font-gray'>分かってないな。</span>,……对了，比起这个特异点。你还完全不懂它的用法呢。
+48,ベリアル/贝利尔,<span class='scene-font-gray'>この武器のポテンシャルは、</span><br><span class='scene-font-gray'>こんなもんじゃない。</span><br><span class='scene-font-gray'>もっと引き出せるはずだ。</span>,这把武器的潜力，还远不止这点。应该还能再发挥的。
+49,ベリアル/贝利尔,<span class='scene-font-gray'>……キミなら、造作もないだろう？</span>,……换作是你的话，一定轻而易举吧？
+50,ベリアル/贝利尔,<span class='scene-font-gray'>キミが完全にそれをモノにしたら、</span><br><span class='scene-font-gray'>また来るよ。</span><br><span class='scene-font-gray'>じゃあな、特異点。</span>,等你完全将它化为己有，我还会再来的。再见了，特异点。
+57,,<span class='scene-font-katari'>煽るようにそう告げると、</span><br><span class='scene-font-katari'>ベリアルは闇の中へ</span><br><span class='scene-font-katari'>消えていくのだった。</span>,像是在煽动人心般落下话音，贝利尔消失于黑暗之中。
+info,,,scene_seraphic06_03_ep1

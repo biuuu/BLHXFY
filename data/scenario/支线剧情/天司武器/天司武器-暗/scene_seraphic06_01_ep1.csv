@@ -1,0 +1,38 @@
+id,name,text,trans
+0-synopsis,,カナンでの死闘から暫く経ったある日の夜、姬塔の夢にベリアルが現れる。ベリアルは自身がデザインしたという大鎌を見せ、この武器を完成させるために素材を集めてきてほしい、四大天司の武器に匹敵する強力な武器を作ってみたくはないかと姬塔に持ちかける。その後目を覚ました姬塔は、夢についてしばし考え込むのだった。,距离迦南之战已过了些时日，某个夜晚，贝利尔出现在了姬塔的梦中。贝利尔展示出自己设计的镰刀，提议姬塔去收集完成这把武器所需要的材料，询问姬塔想不想锻造出能匹敌四大天司武器的强大武器。在这之后，醒来的姬塔开始思考起了这般梦境。
+1,,<span class='scene-font-katari'>カナンでの死闘から</span><br><span class='scene-font-katari'>暫く経ったある日の夜、</span><br><span class='scene-font-katari'>姬塔が寝室で眠っていると──</span>,距离迦南之战已过了些时日，某个夜晚，姬塔在寝室睡着了——
+3,？？？,<span class='scene-font-gray'>なぁ……聞こえてるか？</span>,呐……听得到吗？
+4,？？？,<span class='scene-font-gray'>焦らすのもいいが、</span><br><span class='scene-font-gray'>イイところで反応してくれよ？</span>,想让我焦急也不是不可以，但在紧要关头可得给我点反应哦？
+11,,<span class='scene-font-katari'>突如響いた声に、</span><br><span class='scene-font-katari'>目を開ける姬塔。</span>,因突然响起的声音，姬塔回过神来。
+12,,<span class='scene-font-katari'>すると、いつの間にか真白に塗り潰れた</span><br><span class='scene-font-katari'>異様な空間にいる事に気がついた。</span>,发现自己不知何时，早已身处于一个被漆成纯白色的异样空间。
+13,ベリアル/贝利尔,<span class='scene-font-gray'>やあ、驚いたかい？　特異点。</span>,呀，吓到你了吗？特异点。
+13-sel1_txt,,<span class='scene-font-katari'>ベリアル……！？</span>,贝利尔……！？
+13-sel2_txt,,<span class='scene-font-katari'>何をしに来たんだ！</span>,你来做什么！
+14,ベリアル/贝利尔,<span class='scene-font-gray'>いいねえ。</span><br><span class='scene-font-gray'>期待どおりの刺すような視線だ。</span>,真不错啊。你那刺人的视线正如我期待的一样。
+15,ベリアル/贝利尔,<span class='scene-font-gray'>だが警戒する必要はないよ。</span><br><span class='scene-font-gray'>今日に限ってはね。</span>,但是不需要过于戒备哦。仅限今日。
+16,ベリアル/贝利尔,<span class='scene-font-gray'>おいおい、そんなに</span><br><span class='scene-font-gray'>硬くならなくてもいいだろう？</span>,喂喂，别那么僵硬啊？
+17,ベリアル/贝利尔,<span class='scene-font-gray'>今日は別に、殺し合いをしに</span><br><span class='scene-font-gray'>来たわけじゃない。</span>,今天又不是来找你厮杀的。
+18,ベリアル/贝利尔,<span class='scene-font-gray'>むしろ、キミにイイものを</span><br><span class='scene-font-gray'>持ってきたんだぜ？</span>,倒不如说，我可是给你拿来了好东西啊？
+19,,<span class='scene-font-katari'>そう言って、ベリアルは</span><br><span class='scene-font-katari'>怪しい輝きを放つ大鎌を</span><br><span class='scene-font-katari'>姬塔の前に掲げた。</span>,贝利尔说着，在姬塔面前举起了一把散发出诡异光辉的镰刀。
+20,,<span class='scene-font-katari'>──……</span>,——……
+21,ベリアル/贝利尔,<span class='scene-font-gray'>この間、四大天司の武器の噂を</span><br><span class='scene-font-gray'>耳にしてさ。</span>,先前听说了有关四大天司武器的传闻。
+22,ベリアル/贝利尔,<span class='scene-font-gray'>それでまぁ対抗意識？</span><br><span class='scene-font-gray'>オレも即興でデザインしてみたんだよ。</span><br><span class='scene-font-gray'>ほらオレ、デザイナーだからさ。</span>,就一下子起了对抗心？我也即兴设计了一把。毕竟我是个设计师嘛。
+23,ベリアル/贝利尔,<span class='scene-font-gray'>名前は、そうだな……</span>,名字啊，我想想……
+24,ベリアル/贝利尔,<span class='scene-font-spword'>『サイス・オブ・ベリアル』</span><br><span class='scene-font-gray'>なんてどうだ？</span><br><span class='scene-font-gray'>気に入りそうかい？</span>,就叫『Scythe of Belial』如何？你中意吗？
+25,ベリアル/贝利尔,<span class='scene-font-gray'>だが実は……どうにもカタチをうまく</span><br><span class='scene-font-gray'>保てなくて、困ってるんだ。</span><br><span class='scene-font-gray'>材料不足みたいでね。</span>,但其实啊……似乎怎么也无法稳定维持它的形态，让我很困扰啊。好像是由于材料不足。
+26,ベリアル/贝利尔,<span class='scene-font-gray'>というわけで、物は相談なんだが……</span><br><span class='scene-font-gray'>キミ、この武器のために</span><br><span class='scene-font-gray'>素材を集めてきてくれないか？</span>,所以我们来商量一下……你能不能为这把武器收集材料呢？
+27,ベリアル/贝利尔,<span class='scene-font-gray'>キミはそういうの、</span><br><span class='scene-font-gray'>お手の物だって聞いてるぜ。</span>,我听说这种事你很在行啊。
+28,ベリアル/贝利尔,<span class='scene-font-gray'>ハハハ。</span><br><span class='scene-font-gray'>なんでそんなこと、って顔だな……</span><br><span class='scene-font-gray'>別にキミにも悪い話じゃないんだが。</span>,哈哈哈。你一副“为什么要做这种事”的表情啊……对你而言可不是坏事。
+29,ベリアル/贝利尔,<span class='scene-font-gray'>これは、四大天司にも匹敵する</span><br><span class='scene-font-gray'>力を持つ武器にするつもりだ。</span>,我可是打算将它变作足以匹敌四大天司之力的武器。
+30,ベリアル/贝利尔,<span class='scene-font-gray'>それほど強力な武器……</span><br><span class='scene-font-gray'>自分の手で、作ってみたくないか？</span>,如此强大的武器……难道不想自己亲手锻造吗？
+31,,<span class='scene-font-katari'>その言葉に、思わず姬塔は</span><br><span class='scene-font-katari'>大鎌に手を伸ばしかける。</span>,听到这番话，姬塔不自禁地向镰刀伸出了手。
+32,ベリアル/贝利尔,<span class='scene-font-gray'>おっと、今度はオレが焦らす番だぜ。</span>,哦呵，这次该轮到我让你焦急了。
+33,ベリアル/贝利尔,<span class='scene-font-gray'>まずは空の世界の素材を集めるんだ。</span><br><span class='scene-font-gray'>話はそれからだな。</span>,首先得收集空之世界的素材。剩下的我们之后再谈。
+34,ベリアル/贝利尔,<span class='scene-font-gray'>選ぶのはキミだが……</span><br><span class='scene-font-gray'>まあ、迷う余地はないだろう？</span>,做选择的人是你……但嘛，也没有犹豫的必要了吧？
+35,ベリアル/贝利尔,<span class='scene-font-gray'>ではしばしのお別れだ、特異点。</span><br><span class='scene-font-gray'>早く再会できることを祈ってるよ。</span>,这是我们暂时的离别，特异点。我会祈祷能与你早日再会的。
+36,,<span class='scene-font-katari'>ベリアルがそう言うと</span><br><span class='scene-font-katari'>空間に闇が溢れだし、</span><br><span class='scene-font-katari'>ベリアルはその中へ消えていく。</span>,话音刚落，空间不断蔓延出黑暗，贝利尔消失其中。
+45,,<span class='scene-font-katari'>姬塔は、ハッと目を覚ました。</span>,姬塔倏地清醒过来。
+46,,<span class='scene-font-katari'>慌てて辺りを見渡すが、</span><br><span class='scene-font-katari'>ベリアルの姿はない。</span>,急忙回顾四周，但却没有发现贝利尔的身影。
+47,,<span class='scene-font-katari'>姬塔はベッドの上で、</span><br><span class='scene-font-katari'>先ほど見た夢について、</span><br><span class='scene-font-katari'>しばし考え込むのだった。</span>,姬塔在床上开始思考起了刚才的梦境。
+info,,,scene_seraphic06_01_ep1
+备注,,,翻译：冥冥

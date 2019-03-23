@@ -1,0 +1,26 @@
+id,name,text,trans
+0-synopsis,,ベリアルが指示した素材を全て集めた夜、姬塔の夢に再びベリアルが現れる。ベリアルは素材を使って武器を完成させると姬塔にその武器を譲り、「この武器をキミの手で鍛えて貰えるかい。キミがこいつをモノにできたらまた会いにくるぜ」と告げる。姬塔が夢から目を覚ますと、その手には怪しい輝きを放つ大鎌が収まっているのだった。,照着贝利尔所示，收集完所有素材的当晚，贝利尔再次现身于姬塔的梦中。贝利尔用素材完成武器后，将它交给了姬塔，并称「能否由你来锻炼一下这把武器呢？等你能掌握它后，我还会来见你的」。姬塔从梦中醒来，发现手中正握着一把散发出诡异光辉的镰刀。
+1,,<span class='scene-font-katari'>半信半疑のまま、ベリアルが指示した</span><br><span class='scene-font-katari'>素材を全て集めた夜。</span>,照着贝利尔的指示，半信半疑地收集完所有素材的夜晚。
+2,,<span class='scene-font-katari'>眠りについた姬塔は、</span><br><span class='scene-font-katari'>再び異様な白い空間へ誘われた。</span>,沉入梦乡的姬塔，再次被诱至异样的白色空间。
+9,ベリアル/贝利尔,<span class='scene-font-gray'>よお、特異点。</span><br><span class='scene-font-gray'>言われた通りにちゃんと</span><br><span class='scene-font-gray'>できたじゃないか。</span>,哟，特异点。这不是照着我的话做得很好吗。
+10,ベリアル/贝利尔,<span class='scene-font-gray'>あんな怪しい話だってのに、</span><br><span class='scene-font-gray'>ちゃんと応じてくれるとは……</span>,没想到那么可疑的要求，你都好好回应了……
+11,ベリアル/贝利尔,<span class='scene-font-gray'>どこまでも素直で貪欲なのが、</span><br><span class='scene-font-gray'>キミのイイところだ。</span>,无比直率而又贪婪，是你的优点。
+11-sel1_txt,,<span class='scene-font-katari'>──武器は？</span>,——武器呢？
+12,ベリアル/贝利尔,<span class='scene-font-gray'>オーケイ。そんなに急かすなよ。</span><br><span class='scene-font-gray'>今完成させてやるからさ。</span>,OK。别催我呀。我现在就将它完成。
+13,,<span class='scene-font-katari'>ベリアルはそう言って、</span><br><span class='scene-font-katari'>姬塔の集めた素材を並べ、</span><br><span class='scene-font-katari'>傍に武器を添える。</span>,贝利尔说着将姬塔收集的材料摆成一排，在旁边放上了武器。
+14,,<span class='scene-font-katari'>そして、武器に向かって</span><br><span class='scene-font-katari'>力を込めるように両手をかざした。</span>,紧接着，像是向武器倾注力量一般举起了双手。
+15,ベリアル/贝利尔,<span class='scene-font-gray'>よっと……</span>,行了……
+17,,<span class='scene-font-katari'>暫くすると武器は輝きを放ち、</span><br><span class='scene-font-katari'>周りの素材を取り込んで</span><br><span class='scene-font-katari'>オーラを放ちはじめる。</span>,片刻之后，武器熠熠生辉，将周围的素材纳入己内绽放出光芒。
+20,ベリアル/贝利尔,<span class='scene-font-gray'>うーん……まあ、こんなもんかな。</span><br><span class='scene-font-gray'>ご協力アリガトウ。</span>,唔……嘛，也就这样吧。多谢合作。
+21,ベリアル/贝利尔,<span class='scene-font-gray'>では、コレはキミにあげるよ。</span><br><span class='scene-font-gray'>オレはもう、作っただけで</span><br><span class='scene-font-gray'>満足しちゃったからさ。</span>,那么，这个就给你了。我反正只要做出来就已经满足了。
+22,,<span class='scene-font-katari'>ベリアルはその武器を手に取り、</span><br><span class='scene-font-katari'>軽く投げ渡すように</span><br><span class='scene-font-katari'>姬塔に向かって放った。</span>,贝利尔拿起武器，轻轻地抛给了姬塔。
+23,ベリアル/贝利尔,<span class='scene-font-gray'>触り心地はどうだい？</span><br><span class='scene-font-gray'>ついつい昂っちまうんじゃないか？</span>,触感如何？不禁地高昂起来了吧？
+24,ベリアル/贝利尔,<span class='scene-font-gray'>……ああでも、実はこれじゃあ</span><br><span class='scene-font-gray'>まだまだ足りないんだ。</span>,……啊啊但是，其实这样还不够呢。
+25,ベリアル/贝利尔,<span class='scene-font-gray'>こいつが持つスペックは、</span><br><span class='scene-font-gray'>四大天司のそれに匹敵する。</span>,这家伙的规格，照理足以匹敌四大天司的武器。
+26,ベリアル/贝利尔,<span class='scene-font-gray'>……ように作ったんだけどね。</span><br><span class='scene-font-gray'>どうにも、イマイチ伸びなくてさ。</span>,……我是打算这么做的。但看来，还差一点没能发挥啊。
+27,ベリアル/贝利尔,<span class='scene-font-gray'>だから、キミの手で鍛えて貰えるかい。</span><br><span class='scene-font-gray'>キミって、武器を強化するとか</span><br><span class='scene-font-gray'>そういうのも得意だろう？</span>,所以啊，能不能由你来锻炼它呢？反正你也很擅长强化武器之类的吧？
+28,ベリアル/贝利尔,<span class='scene-font-gray'>もしキミがこいつをモノに</span><br><span class='scene-font-gray'>できたら……</span><br><span class='scene-font-gray'>また会いにくるぜ。</span>,如果你能将它掌握……我还会来见你的。
+39,,<span class='scene-font-katari'>姬塔が目を覚ますと、</span><br><span class='scene-font-katari'>そこはいつもの寝室だった。</span>,姬塔睁开眼，发现自己身处熟悉的寝室。
+40,,<span class='scene-font-katari'>ふと手の中の違和感に目を落とすと、</span><br><span class='scene-font-katari'>手の中には怪しい輝きを放つ</span><br><span class='scene-font-katari'>大鎌が収まっている。</span>,蓦地感受到违和感而低下头，发现手中正握着一把散发出诡异光辉的镰刀。
+41,,<span class='scene-font-katari'>手の中の大鎌の感触を確かめながら、</span><br><span class='scene-font-katari'>姬塔はこの武器の</span><br><span class='scene-font-katari'>さらなる力について考えるのだった。</span>,姬塔一边确认着手中镰刀的触感，一边思索起这把武器更进一步的力量。
+info,,,scene_seraphic06_02_ep1
