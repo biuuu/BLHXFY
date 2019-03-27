@@ -17,11 +17,12 @@ const comic = async (data, pathname, type = 'default') => {
   } else if (type === 'data') {
     const comicMap = await getComicData()
     if (data.list) {
-      data.list.forEach(item => {
+      for (let key in data.list) {
+        const item = data.list[key]
         if (comicMap.has(item.id)) {
           item.trans = true
         }
-      })
+      }
     }
   } else {
     const rgs = pathname.match(/\/comic\/content\/episode\/(\d+)/)
