@@ -41,6 +41,7 @@ path,text,trans,count
 /content,倉庫TOPに戻る,返回仓库首页,
 /content,リストに戻る,返回列表,
 /content,標準,标准,15
+/content,イベントTOPへ,回到活动,15
 /decompose/content/index,獲得トレジャー確認,确认获得的素材,
 /sell/content/index,決定して売却,决定并出售,
 /container,一括選択する,批量选择,
@@ -278,7 +279,6 @@ path,text,trans,count
 /result,売却,出售,14
 /result,強化,强化,12
 /result,騎空艇,骑空艇,5
-/result,イベントTOPへ,回到活动,2
 /result,総貢献度,总贡献度,3
 /result,総ダメージ,总伤害,4
 /result,獲得アイテムはありません,无掉落,
