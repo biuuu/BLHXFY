@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,伊欧,3040065000
+special,冰晶风暴,光属性伤害（特大）/我方全体根据魔力漩涡等级获得强化/清空魔力漩涡
+skill-1,七色花,7次弱点属性攻击，目标随机
+skill-2,治愈III,回复我方全体HP
+skill-3,魔力漩涡,将自身奥义值转化为魔力漩涡 <span class=text-blue>◆25%=Lv1，50%=Lv2，75%=Lv3</span>
+support-1,冰晶帷幕,减免我方承受的暗属性伤害10%
+support-2,魔力之光,我方全体光属性伤害UP（10%）
+skill-lb,LB技能,使用技能时，奥义值上升
+intro,,

@@ -1,0 +1,12 @@
+﻿id,name,detail
+npc,伊什米尔,3040100000
+special,猩红爆裂,水属性伤害（特大）/清除冰剑
+skill-1,死人之国,获得1冰剑/攻击UP（4%，累积，最大20%）
+skill-1+,死人之国,获得1冰剑/攻击UP（8%，累积，最大40%）
+skill-2,永别,我方全体暴击率UP（30%） <span class=text-blue>◆消耗20%奥义值</span>
+skill-2+,永别,我方全体暴击率UP（50%造成1.5倍伤害） <span class=text-blue>◆消耗20%奥义值</span>
+skill-3,钢铁信条,奥义值上升速度UP（1.3倍）/敌对心DOWN
+support-1,纯白剑锋,根据冰剑数量，奥义伤害UP/奥义上限UP<span class=text-blue>◆冰剑数量最大5</span>
+support-2,冷若冰霜,对火属性敌人的伤害UP
+skill-lb,LB技能,使用技能「永别」时有几率获得1冰剑
+intro,,
