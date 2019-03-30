@@ -1,0 +1,33 @@
+id,name,text,trans
+0-synopsis,,ベリアルから渡された武器を鍛え上げた姬塔。その夜、夢の中に現れたベリアルは姬塔を称えると、「その武器はこれからもキミに預けておくとしよう」と残して消える。結局ベリアルの本当の目的は分からないまま、姬塔は夢から目を覚ますのだった。,姬塔将贝利尔交付的武器完全锻炼成型了。当晚，现身于梦境中的贝利尔在称赞了姬塔后，落下话音「这把武器今后就托付给你了」消失了。到最后还是没能搞清贝利尔真正的意图，姬塔就这样从梦中醒来。
+1,,<span class='scene-font-katari'>幾つもの工程を経て、</span><br><span class='scene-font-katari'>見違えるほどのオーラをまとった</span><br><span class='scene-font-spword'>サイス・オブ・ベリアル</span><span class='scene-font-katari'>。</span>,经过数个工程，Scythe of Belial散发出与先前大相径庭的光辉。
+2,,<span class='scene-font-katari'>シェロカルテから返してもらった</span><br><span class='scene-font-katari'>武器を見て、姬塔一行は</span><br><span class='scene-font-katari'>思わず息を呑んだ。</span>,姬塔一行人，看着榭洛科特返还的武器，不禁屏住了呼吸。
+3,ルリア/露莉亚,すごいです……<br>なんだか恐ろしいような、<br>でも惹きつけられるような……,好厉害……感觉很恐怖，但又会被其吸引……
+4,ビィ/碧,なんだかヤベェんだか、<br>スゲェんだか……<br>よく分からない感じがするぜ……,该说是糟糕还是厉害好……有种说不清的感觉啊……
+5,シェロカルテ/榭洛科特,そうですね～<br>本当に、四大天司と同格の<br>力を持っていると思います～,是呢~看来是真的拥有等同四大天司的力量~
+6,シェロカルテ/榭洛科特,姬塔さん、持ってみて<br>いかがですか～？,姬塔，拿起来试试看如何~？
+7,,<span class='scene-font-katari'>シェロカルテの言葉に、</span><br><span class='scene-font-katari'>姬塔はゆっくりと</span><br><span class='scene-font-katari'>武器を手に取る。</span>,听了榭洛科特的话，姬塔缓缓地向武器伸出手。
+8,,<span class='scene-font-katari'>そして武器をしっかりと握りしめ、</span><br><span class='scene-font-katari'>大きく深呼吸をした。</span>,然后紧紧地握住了武器，深吸了一口气。
+9,ビィ/碧,大丈夫か？<br>なんともないか？,没事吧？没怎么样吧？
+10,ルリア/露莉亚,気分が悪くなったりとか、<br>しませんか……？,有没有感觉不舒服，之类的……？
+11,,<span class='scene-font-katari'>心配そうな２人の声を聞きながら、</span><br><span class='scene-font-katari'>暫し武器を握り続ける姬塔。</span>,听着2人担忧的声音，姬塔又继续握了一会武器。
+12,,<span class='scene-font-katari'>そして、いくら待っても何も起きない</span><br><span class='scene-font-katari'>ことを確認すると、安心させるように</span><br><span class='scene-font-katari'>首を縦に振った。</span>,在确认再怎么等待也不会发生什么后，像是安抚两人一般点了点头。
+13,ルリア/露莉亚,わあ……！<br>よかったです！,哇……！太好了！
+14,シェロカルテ/榭洛科特,それだけの武器を難なく扱えるのも、<br>姬塔さんが成長したおかげ<br>かもしれませんね～<br>,能轻松掌握这种程度的武器，兴许也是多亏了姬塔自身的成长呢~
+15,ビィ/碧,そうだな！,说得对！
+16,ビィ/碧,いくら怪しい武器でも、<br>今の姬塔なら<br>何の心配もいらないぜ！,不管是多奇怪的武器，现在的姬塔一定无须担心！
+22,,<span class='scene-font-katari'>その夜、姬塔は夢の中で</span><br><span class='scene-font-katari'>ベリアルの前に立っていた。</span>,那天夜晚，姬塔在梦中站在了贝利尔面前。
+29,ベリアル/贝利尔,<span class='scene-font-gray'>やあ、特異点。</span><br><span class='scene-font-gray'>すっかりオレの武器を</span><br><span class='scene-font-gray'>モノにしちまったらしいな。</span>,呀，特异点。看来你已经完全掌握了我的武器啊。
+30,ベリアル/贝利尔,<span class='scene-font-gray'>この武器の力をここまで</span><br><span class='scene-font-gray'>引き出せるなんて……</span><br><span class='scene-font-gray'>やっぱりキミは特別だ。</span>,没想到你能将这把武器的力量发挥到这个地步……你果然很特别。
+31,ベリアル/贝利尔,<span class='scene-font-gray'>キミに、オレの武器を</span><br><span class='scene-font-gray'>預けてよかったよ。</span>,把我的武器托付给你真是太好了。
+32,ベリアル/贝利尔,<span class='scene-font-gray'>これまでキミの様子を見て、</span><br><span class='scene-font-gray'>オレは大分満足させてもらった。</span>,观望你迄今为止的行动，也令我相当满足了。
+33,ベリアル/贝利尔,<span class='scene-font-gray'>だからその武器は、これからも</span><br><span class='scene-font-gray'>キミに預けておくとしよう。</span>,所以这把武器，今后也交给你了。
+34,ベリアル/贝利尔,<span class='scene-font-gray'>では、今度こそサヨウナラ。</span>,那么，这次真的是再见了。
+35,,<span class='scene-font-katari'>ベリアルの言葉に合わせるように</span><br><span class='scene-font-katari'>姬塔の視界は滲み、</span><br><span class='scene-font-katari'>意識が再び眠りへと落ちていく。</span>,像是应和着贝利尔的话语般，姬塔的视线逐渐模糊，意识再次陷入沉睡。
+36,ベリアル/贝利尔,<span class='scene-font-gray'>──キミを特異点たらしめる、</span><br><span class='scene-font-gray'>そのイレギュラーな力……</span>,——使你成为特异点的这份异常的力量……
+37,ベリアル/贝利尔,<span class='scene-font-gray'>これからどこまで想定を超えるのか、</span><br><span class='scene-font-gray'>楽しみにしておくよ──</span>,今后还会如何超出预想，我很期待啊——
+44,,<span class='scene-font-katari'>暗い部屋の中で、姬塔は</span><br><span class='scene-font-katari'>目を覚ます。</span>,在黑暗的房间中，姬塔苏醒过来。
+45,,<span class='scene-font-katari'>ベリアルの本当の目的とは、</span><br><span class='scene-font-katari'>一体何だったのか。</span>,贝利尔真正的目的究竟是什么。
+46,,<span class='scene-font-katari'>結局分からないまま、姬塔は</span><br><span class='scene-font-katari'>部屋の隅に置かれた大鎌を</span><br><span class='scene-font-katari'>見つめるのだった──</span>,结果还是没能搞清，姬塔就这样凝视起放在房间角落的那把镰刀——
+info,,,scene_seraphic06_04_ep1
+备注,,,翻译：冥冥

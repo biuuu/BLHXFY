@@ -1,0 +1,104 @@
+id,name,text,trans
+0-chapter_name,,天才の焦り,天才的焦躁
+0-synopsis,,カリオストロは、敵の攻撃により力を失い、艇の自室でひとり頭を悩ませていた。戦いで傷ついたウロボロスの修復が上手くいかないようである。珍しく焦った様子をみせるカリオストロだったが、姬塔らとのやり取りを通じて落ち着きを取り戻し、修復作業を再開する。その顔には、誰にも見せた事のない、切実な表情が浮かんでいた。,由于受到敌人的攻击而失去力量，卡莉奥斯特萝独自在艇上的房间中烦恼着。在战斗中受伤的衔尾蛇的修复工作不够顺利，卡莉奥斯特萝因此而难得地焦躁了起来。通过与姬塔等人的交流后，卡莉奥斯特萝平复了心情，再度开始着手于衔尾蛇的修复。那张脸上此刻所浮现出的迫切表情，谁也不曾见到过。
+0,,<span class='scene-font-katari'>デリフォードの手紙に書かれた場所を</span><br><span class='scene-font-katari'>目指す姬塔ら。</span>,<span class='scene-font-katari'>姬塔等人正以德里福德的信中</span><br><span class='scene-font-katari'>所指的地点为目标而航行。</span>
+1,,<span class='scene-font-katari'>その艇内で、敵の攻撃によって</span><br><span class='scene-font-katari'>力を失ったカリオストロは</span><br><span class='scene-font-katari'>ひとり頭を悩ませていた。</span>,<span class='scene-font-katari'>骑空艇内，</span><br><span class='scene-font-katari'>由于受到敌人的攻击而失去力量的<br>卡莉奥斯特萝独自烦躁着。</span>
+2,ウロボロス,────……,────……
+3,カリオストロ/卡莉奥斯特萝,ふむ……次は金でも混ぜてみるか。,唔……接下来加点黄金试试吧。
+4,,<span class='scene-font-katari'>カリオストロが攻撃を受けて以来、</span><br><span class='scene-font-katari'>ウロボロスの肉体は崩壊を続けていた。</span>,<span class='scene-font-katari'>自从卡莉奥斯特萝受到攻击以来，</span><br><span class='scene-font-katari'>衔尾蛇的身体便一直在持续不断地崩坏。</span>
+5,,<span class='scene-font-katari'>どうにかそれを修復するため、</span><br><span class='scene-font-katari'>色々な素材を組み合わせては</span><br><span class='scene-font-katari'>試行錯誤を重ねるカリオストロ。</span>,<span class='scene-font-katari'>为了想办法修复衔尾蛇，</span><br><span class='scene-font-katari'>卡莉奥斯特萝将各种素材进行组合，</span><br><span class='scene-font-katari'>反复地试验。</span>
+6,カリオストロ/卡莉奥斯特萝,さて、これでどうだ？,然后会怎么样呢？
+11,カリオストロ/卡莉奥斯特萝,これもダメか……<br>……となると、やっぱり虫体が<br>傷ついてやがるのか……,这个也不行啊……<br>……看来果然是虫体部分受伤了……
+12,,<span class='scene-font-katari'>溜め息をつき、</span><br><span class='scene-font-katari'>頭を抱えるカリオストロ。</span><br><span class='scene-font-katari'>すると、何者かがドアを叩いた。</span>,<span class='scene-font-katari'>卡莉奥斯特萝叹着气，抱住了脑袋。</span><br><span class='scene-font-katari'>就在这时，有人敲了敲门。</span>
+15,カリオストロ/卡莉奥斯特萝,あん……？<br>お前らか。どうした？,哎……？<br>是你们啊。怎么了？
+16,ビィ/碧,いや、その……<br>部屋にこもりっきりだけど<br>大丈夫かと思ってよ。,没什么、那个……<br>因为你一直待在房间里没出门，<br>我怕会不会是出了什么事。
+17,ルリア/露莉亚,はい……<br>なんだか体調も悪そうですし、<br>心配になって……,嗯……<br>总觉得你身体状况不太好，<br>我们有点担心……
+18,カリオストロ/卡莉奥斯特萝,まあ、オレ様は平気だ。<br>だが……,我倒是没啥事，<br>不过……
+19,,<span class='scene-font-katari'>ちらりとウロボロスを見る</span><br><span class='scene-font-katari'>カリオストロ。その目には、</span><br><span class='scene-font-katari'>明らかに焦りの色が浮かんでいた。</span>,<span class='scene-font-katari'>卡莉奥斯特萝瞟了一眼衔尾蛇。</span><br><span class='scene-font-katari'>眼中很明显地浮现出焦急的神色。</span>
+20,カリオストロ/卡莉奥斯特萝,どうも上手く<br>ウロボロスが扱えねえと思ったら、<br>厄介な事になっててな……,怎么都没法顺手地操纵衔尾蛇，<br>这件事对我来说太麻烦了……
+21,ビィ/碧,ああ、確かになんか<br>ウロボロスも調子悪そうだけど<br>どうしちまったんだ？,嗯，这么说来，<br>衔尾蛇的状态确实有些不对。<br>它怎么了？
+22,カリオストロ/卡莉奥斯特萝,コイツは虫に似た本体を核にして<br>骨格やら筋肉やらを<br>盛った感じなんだが……,这家伙是以虫子般的本体为核心，<br>将骨骼和肌肉覆盖在表面制作而成的……
+23,カリオストロ/卡莉奥斯特萝,あの時、<br>コイツの本体の方に傷が入ったらしい。<br>それで修復が上手くいかねえんだ。,那时候，<br>这家伙的本体好像被伤到了。<br>要修复这个可不省心。
+24,ビィ/碧,うーん……なんだかよくわかんねえが、<br>その核って奴は、なんで直せねえんだ？,唔……虽然听不太懂，不过，<br>为什么这个叫“核心”的东西修不好呢？
+25,カリオストロ/卡莉奥斯特萝,大昔のオレ様が作ったモンだからな。<br>あの頃は何もわかってなかったから、<br>今からすりゃ滅茶苦茶な作りをしてる。,这是我很久以前制作的东西了。<br>那时候稀里糊涂地就弄了出来，<br>现在也只能先乱七八糟地试试了。
+26,カリオストロ/卡莉奥斯特萝,スパゲッティみてえに絡んだ構造を<br>きちんと分析するだけの力は、<br>今のオレ様にはねえ……,对于现在的我来说，不具备能分析出<br>这坨搅在一起的意大利面似的<br>构造的力量……
+27,カリオストロ/卡莉奥斯特萝,クソッ……忌々しいぜ！<br>本調子ならこんなの、<br>すぐに直してやるってのによ！,可恶……烦死了！<br>要是平时的话，<br>这玩意儿我早就修好了！
+28,ビィ/碧,うわぁ……<br>オイラ、こんなカリオストロ<br>初めて見たぞ……,哇……<br>我还是第一次见到<br>这个样子的卡莉奥斯特萝……
+29,,<span class='scene-font-katari'>椅子を蹴り飛ばすカリオストロを見て</span><br><span class='scene-font-katari'>驚きを隠せない姬塔ら。</span>,<span class='scene-font-katari'>看到卡莉奥斯特萝一脚踢飞了椅子，</span><br><span class='scene-font-katari'>姬塔等人无法掩饰自己的惊讶。</span>
+29-sel1_txt,,<span class='scene-font-katari'>……大丈夫？</span>,<span class='scene-font-katari'>……你没事吧？</span>
+29-sel2_txt,,<span class='scene-font-katari'>焦ってるの？</span>,<span class='scene-font-katari'>是在着急吗？</span>
+30,カリオストロ/卡莉奥斯特萝,あん？<br>大丈夫ってお前、<br>もしかして……,啊？<br>我没事。<br>话说，你难道……
+33,カリオストロ/卡莉奥斯特萝,姬塔さん……☆<br>カリオストロのこと、<br>心配してくれてるの？,姬塔……☆<br>是在担心卡莉奥斯特萝咩？
+34,カリオストロ/卡莉奥斯特萝,姬塔さん、やっさしい……☆<br>カリオストロ、<br>ちょっとだけドキっとしちゃった☆,姬塔好温柔哦……☆<br>卡莉奥斯特萝呀，<br>有一点点动心了呢☆
+35,,<span class='scene-font-katari'>そう言って、姬塔の腕に</span><br><span class='scene-font-katari'>絡みつき、見上げてくるカリオストロ。</span>,<span class='scene-font-katari'>卡莉奥斯特萝一边说着，</span><br><span class='scene-font-katari'>一边缠住姬塔的胳膊，仰望着对方。</span>
+36,ルリア/露莉亚,ええっ！？<br>か、カリオストロさん！？<br>そんな、姬塔に……！？,诶！？<br>卡、卡莉奥斯特萝！？<br>居然对姬塔……！？
+37,カリオストロ/卡莉奥斯特萝,えへへ……姬塔さん、<br>優しいから……<br>ちょっと甘えてみちゃった☆,诶嘿嘿……因为，<br>姬塔很温柔嘛……<br>有点被甜到了☆
+38,,<span class='scene-font-katari'>どうも何かしらのフリのようであるが、</span><br><span class='scene-font-katari'>何をどのように返せばいいかわからず</span><br><span class='scene-font-katari'>姬塔はしばし考え込む。</span>,<span class='scene-font-katari'>不明白卡莉奥斯特萝在演什么，</span><br><span class='scene-font-katari'>也不清楚自己又该如何去回应，</span><br><span class='scene-font-katari'>姬塔一时陷入了沉思。</span>
+38-sel1_txt,,<span class='scene-font-katari'>アゴに手をそえる</span>,<span class='scene-font-katari'>用手抬起对方的下颌</span>
+38-sel2_txt,,<span class='scene-font-katari'>鼻をつまんでみる</span>,<span class='scene-font-katari'>捏住对方的鼻子</span>
+40,,<span class='scene-font-katari'>カリオストロの視線に応えるように、</span><br><span class='scene-font-katari'>そのアゴに優しく手をそえて</span><br><span class='scene-font-katari'>自分の方へと顔を向かせる。</span>,<span class='scene-font-katari'>为了回应卡莉奥斯特萝的目光，</span><br><span class='scene-font-katari'>姬塔的手指温柔地抚上对方的下颌，</span><br><span class='scene-font-katari'>将她的脸转向自己。</span>
+41,カリオストロ/卡莉奥斯特萝,あ……<br>姬塔、さんっ……,啊……<br>姬塔，你……
+42,ルリア/露莉亚,ええっ！？<br>姬塔、な、な、な、な、<br>何やってるんですか！？,诶！？<br>姬塔、你、你、你、你、<br>你在做什么啊！？
+43,カリオストロ/卡莉奥斯特萝,…………,…………
+44,ビィ/碧,え、あ、おい！　なんかこれ、<br>ただならぬ気配が漂い始めたぞ！,诶、啊、喂！什么情况，<br>气氛不太对啊这个！
+46,,<span class='scene-font-katari'>そして姬塔とカリオストロは</span><br><span class='scene-font-katari'>しばし、見つめ合い──</span>,<br><span class='scene-font-katari'>只见姬塔与卡莉奥斯特萝互相凝视着──</span>
+47,カリオストロ/卡莉奥斯特萝,ふん……<br>小僧が調子に乗るんじゃねえ。<br>冗談だ冗談。,哼……<br>你丫不要太得意了。<br>开个玩笑而已。
+48,,<span class='scene-font-katari'>結果、姬塔は鼻を思い切り</span><br><span class='scene-font-katari'>指で弾かれ、悶絶する羽目になって</span><br><span class='scene-font-katari'>しまう。</span>,<span class='scene-font-katari'>结果，姬塔的鼻子被狠狠地弹了一下，</span><br><span class='scene-font-katari'>陷入了要昏过去的绝境。</span>
+49,,<span class='scene-font-katari'>特に何も思いつかなかった姬塔。</span><br><span class='scene-font-katari'>目の前にあるカリオストロの小さな鼻を</span><br><span class='scene-font-katari'>とりあえずつまんで持ち上げてみた。</span>,<span class='scene-font-katari'>姬塔什么结论也没思考出来，</span><br><span class='scene-font-katari'>看着眼前卡莉奥斯特萝小巧的鼻子，</span><br><span class='scene-font-katari'>总之先捏了上去。</span>
+50,カリオストロ/卡莉奥斯特萝,んぷっ！　はがっ！<br>な、何しやがる！,唔噗！　笨蛋！<br>你丫干什么呢！
+51,,<span class='scene-font-katari'>そのまま鼻を持ち上げ、</span><br><span class='scene-font-katari'>天井を向かせてみる姬塔。</span>,<span class='scene-font-katari'>姬塔不为所动，抬头望向天花板，</span><br><span class='scene-font-katari'>手指依旧捏着对方的鼻子。</span>
+52,カリオストロ/卡莉奥斯特萝,ひぃんっ！　おま、やめっ……！,呼咿！　你TM，快放……！
+53,ルリア/露莉亚,はわっ！？<br>姬塔、ちょっとやりすぎです！,啊呀！？<br>姬塔，你做过头了啦！
+54,,<span class='scene-font-katari'>じたばたともがくカリオストロを見て</span><br><span class='scene-font-katari'>慌てて止めに入るルリア。</span>,<span class='scene-font-katari'>看着卡莉奥斯特萝手忙脚乱地拼命挣扎，</span><br><span class='scene-font-katari'>露莉亚急忙阻止姬塔。</span>
+55,カリオストロ/卡莉奥斯特萝,ぷはっ！　てめえ……！<br>オレ様相手にいい度胸じゃねえか！<br>このっ……！,噗哈！　你丫……！<br>真够胆啊！竟敢对我动手动脚！<br>你这……
+56,カリオストロ/卡莉奥斯特萝,…………,…………
+57,,<span class='scene-font-katari'>怒っていたかと思えば、</span><br><span class='scene-font-katari'>突如黙ってしまうカリオストロ。</span>,<span class='scene-font-katari'>正想着卡莉奥斯特萝是不是生气了，</span><br><span class='scene-font-katari'>对方却突然沉默了下来。</span>
+58,ビィ/碧,まあ、コイツも冗談のつもりっつうか<br>元気付けようとしての事だから<br>あんま怒るなよ、カリオストロ……,好了好了，卡莉奥斯特萝。<br>不要那么生气，这家伙也是开玩笑的嘛。<br>他大概就是想让你恢复精神而已……
+59,カリオストロ/卡莉奥斯特萝,いや……意識してねえ所で<br>ずいぶんとカワイイ声が出たもんだと<br>思ってな……,不是……我只是发现<br>刚刚居然无意识地发出了很可爱的声音……
+60,ルリア/露莉亚,ええっ！？<br>そ、そこですか！？,诶！？<br>重点是这个吗！？
+61,カリオストロ/卡莉奥斯特萝,ひぃん、ひぃん……<br>ダメだ、上手くさっきの声が出せねえ。,呼咿、呼咿……<br>不行，刚才的声线出不来了。
+62,カリオストロ/卡莉奥斯特萝,おい小僧、特別に許可してやる。<br>ちょっとオレ様の鼻、<br>もう一回つまんでみろ。,喂，喊你呢。<br>我批准你像刚才一样，<br>再捏一次我的鼻子。
+63,,<span class='scene-font-katari'>姬塔のイタズラは</span><br><span class='scene-font-katari'>カリオストロの探究心に</span><br><span class='scene-font-katari'>火をつけてしまったらしく──</span>,<span class='scene-font-katari'>卡莉奥斯特萝的探究心</span><br><span class='scene-font-katari'>被姬塔的恶作剧给点燃了的样子──</span>
+67,,<span class='scene-font-katari'>しばらく姬塔は、</span><br><span class='scene-font-katari'>カワイイ声の再現実験に</span><br><span class='scene-font-katari'>付き合わされる羽目になった。</span>,<span class='scene-font-katari'>姬塔暂时性地陷入了</span><br><span class='scene-font-katari'>协助可爱声线的再现实验的境地之中。</span>
+69,カリオストロ/卡莉奥斯特萝,……ったく、小娘に心配されるとは<br>オレ様もヤキが回ったモンだ。,……真是的，居然被小姑娘担心，<br>我也是年纪太大脑子坏掉了。
+70,,<span class='scene-font-katari'>悪態をつくカリオストロだが、</span><br><span class='scene-font-katari'>その表情には、明らかに疲労の</span><br><span class='scene-font-katari'>色が浮かんでいる。</span>,<span class='scene-font-katari'>虽然是在骂人，但卡莉奥斯特萝的表情里，</span><br><span class='scene-font-katari'>明明白白地透出了疲劳之色。</span>
+70-sel1_txt,,<span class='scene-font-katari'>ぎゅっと抱きしめる</span>,<span class='scene-font-katari'>紧紧地抱住对方</span>
+70-sel2_txt,,<span class='scene-font-katari'>優しく髪をなでる</span>,<span class='scene-font-katari'>温柔地抚摸对方的头发</span>
+71,カリオストロ/卡莉奥斯特萝,な、な、な……何しや……<br>もがっ！,什、什、什……你在做……<br>甚啊！
+72,,<span class='scene-font-katari'>自他ともに認める天才のカリオストロが</span><br><span class='scene-font-katari'>敵に後れを取った事を、</span><br><span class='scene-font-katari'>悔しく思っているのは想像に難くない。</span>,<span class='scene-font-katari'>身为天才而被众人所承认的卡莉奥斯特萝</span><br><span class='scene-font-katari'>因为被敌人偷袭而后悔不已，</span><br><span class='scene-font-katari'>这种事也不难想象。</span>
+73,,<span class='scene-font-katari'>そんな心中を察した姬塔は、</span><br><span class='scene-font-katari'>少しでもカリオストロの</span><br><span class='scene-font-katari'>不安を取り除こうと──</span>,<span class='scene-font-katari'>察觉了这件事的姬塔想要帮助卡莉奥斯特萝，</span><br><span class='scene-font-katari'>哪怕只能为对方驱除一点点的不安也好——</span>
+74,,<span class='scene-font-katari'>その頭を抱きしめ、</span><br><span class='scene-font-katari'>「大丈夫だよ」と優しく囁いた。</span>,<span class='scene-font-katari'>“没事的哦。”</span><br><span class='scene-font-katari'>姬塔抱着卡莉奥斯特萝，温声细语道。</span>
+75,カリオストロ/卡莉奥斯特萝,…………！,…………！
+76,,<span class='scene-font-katari'>最初は暴れていたが、</span><br><span class='scene-font-katari'>やがて大人しくなるカリオストロ。</span>,<span class='scene-font-katari'>虽然卡莉奥斯特萝起初还在闹腾，</span><br><span class='scene-font-katari'>慢慢地，她也终于平静了下来。</span>
+77,ルリア/露莉亚,あれ？　カリオストロさん……？<br>どうしたんですか？,这是？　卡莉奥斯特萝……？<br>这是怎么了？
+78,カリオストロ/卡莉奥斯特萝,……なんでもねえよ。<br>そろそろ離せ。苦しい。,……啥也没有。<br>差不多就放开我。难受死了。
+82,カリオストロ/卡莉奥斯特萝,さて……気分転換は終わりだ。<br>オレ様はウロボロスの修復作業に戻る。,行了……转换心情环节结束。<br>我要继续修复衔尾蛇了。
+83,,<span class='scene-font-katari'>カリオストロの少し乱れた髪を</span><br><span class='scene-font-katari'>優しく整えていく姬塔。</span>,<span class='scene-font-katari'>姬塔温柔地将卡莉奥斯特萝</span><br><span class='scene-font-katari'>那有些凌乱的头发整理好。</span>
+84,カリオストロ/卡莉奥斯特萝,……なんだよ。,……干嘛啊。
+85,,<span class='scene-font-katari'>姬塔は多くを語らず、</span><br><span class='scene-font-katari'>その髪を撫でながら静かな微笑みを</span><br><span class='scene-font-katari'>向け続ける。</span>,<span class='scene-font-katari'>姬塔没有多说什么，</span><br><span class='scene-font-katari'>只是静静地一边对着卡莉奥斯特萝微笑，</span><br><span class='scene-font-katari'>一边理顺对方的头发。</span>
+86,カリオストロ/卡莉奥斯特萝,……ふん。,……哼。
+87,,<span class='scene-font-katari'>カリオストロは</span><br><span class='scene-font-katari'>気まずそうに目をそらすが、</span><br><span class='scene-font-katari'>特に抵抗をするでもない。</span>,<span class='scene-font-katari'>卡莉奥斯特萝仿佛很尴尬似的避开了目光，</span><br><span class='scene-font-却并没有做出抵抗的举动。</span>
+88,カリオストロ/卡莉奥斯特萝,<span class='scene-font-kokoro'>（……不覚だぜ……！</span><br><span class='scene-font-kokoro'>この笑顔、ちょっと可愛いと</span><br><span class='scene-font-kokoro'>思っちまったじゃねえか……）</span>,<span class='scene-font-kokoro'>（……是我输了……！</span><br><span class='scene-font-kokoro'>居然会觉得这张笑脸</span><br><span class='scene-font-kokoro'>超可爱的啊！）</span>
+89,カリオストロ/卡莉奥斯特萝,<span class='scene-font-kokoro'>（いいぜ、覚えておいてやる……</span><br><span class='scene-font-kokoro'>調子が戻ったら、最っ高に可愛い笑顔で</span><br><span class='scene-font-kokoro'>リベンジしてやるからな……）</span>,<span class='scene-font-kokoro'>（也罢，姑且就这样吧……</span><br><span class='scene-font-kokoro'>等我状况恢复了，一定要用最可爱的笑容</span><br><span class='scene-font-kokoro'>用最可爱的笑容一雪前耻……）</span>
+93,カリオストロ/卡莉奥斯特萝,さて……気分転換は終わりだ。<br>オレ様はウロボロスの修復作業に戻る。,行了……转换心情环节结束。<br>我要继续修复衔尾蛇了。
+94,カリオストロ/卡莉奥斯特萝,ヘッ……！　このオレ様が？<br>何を焦ってるって？,呵……！　你是在说我？<br>我有什么可着急的吗？
+95,カリオストロ/卡莉奥斯特萝,…………,…………
+96,カリオストロ/卡莉奥斯特萝,……そうかもな。<br>今まで使ってた力が消え失せて、<br>頼みの綱のウロボロスもこのザマだ。,……可能吧。<br>至今为止所使用的力量消失了，<br>拿来当救命稻草的衔尾蛇也成了这幅样子。
+97,カリオストロ/卡莉奥斯特萝,コイツもオレ様も不死身だと思ってたが<br>それが揺らいだ事に<br>ムカついてたのかもな。,本以为这家伙和我都算是不死之身的，<br>这个想法却被动摇了。<br>我大概是在为此而恼火吧。
+98,カリオストロ/卡莉奥斯特萝,さて……気分転換は終わりだ。<br>オレ様はウロボロスの修復作業に戻る。,行了……转换心情环节结束。<br>我要继续修复衔尾蛇了。
+99,カリオストロ/卡莉奥斯特萝,さて……気分転換は終わりだ。<br>オレ様はウロボロスの修復作業に戻る。,行了……转换心情环节结束。<br>我要继续修复衔尾蛇了。
+100,ビィ/碧,ああ。なんだかんだウロボロスは<br>頼りになるし、傷ついたままってのも<br>可哀想だしよ。頑張ってくれよな。,是啊。总而言之衔尾蛇就拜托你了，<br>就这样一直满身伤痕的，也太可怜了。<br>你可要加油啊。
+101,カリオストロ/卡莉奥斯特萝,……そうだな。<br>コイツに死なれても困る。,……那确实。<br>这家伙要是死了我也会很困扰的。
+102,ルリア/露莉亚,えっ？<br>死んじゃうって……<br>そんなに深刻なんですか？,诶？<br>会死什么的……<br>居然那么严重？
+103,カリオストロ/卡莉奥斯特萝,核の方はデリケートなんだ。<br>傷から妙なもんに感染すりゃ<br>あっという間だからな。,核心的部分是很精密的，<br>要是伤口处感染了什么奇怪的东西的话，<br>会瞬间死亡的。
+104,カリオストロ/卡莉奥斯特萝,まあ、調子は狂っててもオレ様は<br>天才には違いねえ。<br>なんとかしてみせるさ。,不过，别看我平时不着调，<br>好歹我也是个天才，<br>总会想出办法的。
+105,ルリア/露莉亚,はい……<br>でも、無理はしないでくださいね。,好的……<br>但是，不要勉强自己哦。
+108,,<span class='scene-font-katari'>姬塔らは</span><br><span class='scene-font-katari'>カリオストロの部屋を出る。</span>,<span class='scene-font-katari'>姬塔等人离开了卡莉奥斯特萝的房间。</span>
+109,,<span class='scene-font-katari'>残されたカリオストロは</span><br><span class='scene-font-katari'>姬塔らの足音が遠ざかったのを</span><br><span class='scene-font-katari'>聞き届け、口を開いた。</span>,<span class='scene-font-katari'>听着姬塔他们的脚步声逐渐远去，</span><br><span class='scene-font-katari'>独自留在房间里的卡莉奥斯特萝开口说道。</span>
+110,カリオストロ/卡莉奥斯特萝,いっそ、イチから作り直しちまえば<br>手っ取り早いか……,干脆重做一个新的还比较快吗……
+111,ウロボロス,――……,――……
+112,カリオストロ/卡莉奥斯特萝,……なんてな。お前を見捨てるような<br>事はしねえよ。天才だの開祖だの、<br>そういったのの名にかけてな。,……吓你玩的。<br>以我作为天才炼金始祖的名义发誓，<br>我不会做出抛弃你的行为。
+113,カリオストロ/卡莉奥斯特萝,助けてみせるさ。<br>お前は、命の恩人みたいなもんだ……,我一定会帮你的。<br>毕竟你可算是我的救命恩人啊……
+114,,<span class='scene-font-katari'>その顔には、</span><br><span class='scene-font-katari'>誰にも見せた事の無い</span><br><span class='scene-font-katari'>切実な表情が浮かんでいた。</span>,<span class='scene-font-katari'>那张脸上浮现出了谁也未曾见到过的、</span><br><span class='scene-font-katari'>迫切的表情。</span>
+info,,,scene_fate_chr374_ep1
+,,,留恋榴莲牛奶 暂译

@@ -1,0 +1,12 @@
+﻿id,name,detail
+npc,小芙,3040182000
+special,封步射杀,暗属性伤害（特大）/自身二连击率UP
+special-タッチダウン,致命着陆,暗属性伤害（极大）
+special-Touchdown,致命着陆,暗属性伤害（极大）
+skill-1,飞弹,<div class=prt-text-small>消耗1弹药，对敌方单体造成3次暗属性伤害/防御DOWN（10%，累积，最高30%）　<span class=text-blue>◆战斗开始时，弹药为3（无法回复）</span></div>
+skill-2,降落伞,我方全体二连击率30%UP，三连击率15%UP/暗属性追击效果（10%）
+skill-3,不详恶意,<div class=prt-text-small>切换至魔晶化状态　<span class=text-blue>◆消耗100%奥义值/可即时使用所有技能/无法再次使用</span></div>
+support-1,狂澜怒涛,<div class=prt-text-small>魔晶化状态中，攻击100%UP，防御500%UP，伤害上限50%UP，必连击，普攻全体化，免疫削弱效果/自身以外的其他成员无法参与战斗</div>
+support-2,魔晶的侵蚀,<div class=prt-text-small>魔晶化状态中，回合结束时增加1层魔晶的侵蚀（最大5）　<span class=text-blue>◆魔晶的侵蚀达到最大时，「魔晶丝·缚灭」发动，无法战斗</span></div>
+skill-lb,LB技能,
+intro,,
