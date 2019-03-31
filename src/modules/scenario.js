@@ -296,7 +296,7 @@ const transStart = async (data, pathname) => {
         const obj = transMap.get(info.id) || {}
         obj[info.type] = transList[index] || ''
         if (!transNotice && info.index === startIndex && info.type === 'detail' && transList.length > 0) {
-          obj[info.type] = `<a href="${apiData[1]}" target="_blank" class="autotrans-hint-blhxfy ${config.transApi}-blhxfy"></a>${obj[info.type]}`
+          obj[info.type] = `<a href="${apiData[1]}" target="_blank" class="autotrans-hint-blhxfy ${config.transApi}-blhxfy"> </a>${obj[info.type]}`
           transNotice = true
         }
         transMap.set(info.id, obj)
