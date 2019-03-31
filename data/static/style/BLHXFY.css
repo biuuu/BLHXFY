@@ -688,3 +688,22 @@ body .cnt-raid .prt-raid-log {
   pointer-events: none;
   background-color: rgba(0, 0, 0, 0.8);
 }
+.autotrans-hint-blhxfy {
+  display: none;
+}
+.txt-message .autotrans-hint-blhxfy {
+  position: absolute;
+  top: 30px;
+  font-size: 10px;
+  right: 16px;
+  color: #2dc7ab;
+  display: block;
+  text-decoration: none;
+  font-style: italic;
+}
+.autotrans-hint-blhxfy.caiyun-blhxfy::before {
+  content: '(本节使用彩云小译机翻，可通过右上Log-设置关闭)'
+}
+.autotrans-hint-blhxfy.google-blhxfy::before {
+  content: '(本节使用Google翻译机翻，可通过右上Log-设置关闭)'
+}
