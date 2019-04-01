@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,阿古罗瓦尔,3040192000
+special,银白世界,<div class=prt-text-small>水属性伤害（特大）/回复自身20%HP <span class=text-blue>◆处于水属性攻击UP效果中时，奥义性能UP</span></div>
+skill-1,撕裂,对敌方单体造成7-8倍水属性伤害/自身奥义值10%UP
+skill-2,冰柱,对敌方全体造成水属性伤害/付与火属性攻击20%DOWN/冰牢效果
+skill-3,雪暴,<div class=prt-text-small>自身获得浑身效果/水属性攻击30%UP　<span class=text-blue>◆满HP时，追加30%水属性追击效果</span></div>
+support-1,霸者风范,强化效果「水属性攻击UP」效果30%UP
+support-2,绝对零度,奥义连击时，我方全体水属性攻击UP　<span class=text-blue>◆随奥义连击数获得不同性能强化</span></div>
+skill-lb,LB技能,
+intro,冰皇,

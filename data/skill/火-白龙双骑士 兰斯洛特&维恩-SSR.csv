@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,白龙双骑士 兰斯洛特&维恩,3040191000
+special,双翼,火属性伤害（特大）/发动技能1
+skill-1,白龙,<div class=prt-text-small>对敌方单体造成2次3倍火属性伤害/攻防DOWN（5%，累积，最大30%）/自身技能性能UP，敌对心UP（累积）</div>
+skill-2,灼热风暴,对敌方全体造成3倍火属性伤害/自身获得反击效果（回避/3次）
+skill-3,过度喷发,<div class=prt-text-small>回复所有HP，净化所有削弱效果/性能大幅UP <span class=text-blue>◆消耗全部奥义值</span></div>
+support-1,攻剑守枪,必定连击/受到伤害时防御UP(10%，累积，最大50%）
+support-2,护国双肩,武器技能「守护」的HP上升效果UP（30%）
+skill-lb,LB技能,
+intro,双龙骑士,
