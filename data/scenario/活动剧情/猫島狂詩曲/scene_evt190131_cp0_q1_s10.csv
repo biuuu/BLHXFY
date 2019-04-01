@@ -1,5 +1,5 @@
 id,name,text,trans
-0-synopsis,,旅の中で、ダーントの猫達と徐々に仲良くなっていたセン。次に立ち寄るミーツェノス島で暫く留守にするというダーントから、その間、師である猫達のことを頼むと託される。一方その頃、一行の行先であるミーツェノス島では猫同士の不穏な抗争が起きているのだった。,在旅途中、千渐渐地与达恩特的猫变得亲密。达恩特因要在下一个岛密切诺斯暂时停留、此期间、将身为老师的猫群托付于千。另一边、一行人的目的地密切诺斯岛上，猫群起了抗争。
+0-synopsis,,旅の中で、ダーントの猫達と徐々に仲良くなっていたセン。次に立ち寄るミーツェノス島で暫く留守にするというダーントから、その間、師である猫達のことを頼むと託される。一方その頃、一行の行先であるミーツェノス島では猫同士の不穏な抗争が起きているのだった。,在旅途中、千渐渐地与旦特的猫变得亲密。旦特因要在下一个岛密切诺斯暂时停留、此期间、将身为老师的猫群托付于千。另一边、一行人的目的地密切诺斯岛上，猫群起了抗争。
 1,,<span class='scene-font-katari'>暖かな日差しが降り注ぐ</span><br><span class='scene-font-katari'>グランサイファーの甲板──</span>,<span class='scene-font-katari'>温暖的阳光照射下的</span><br><span class='scene-font-katari'>格兰赛法的甲板上──</span>
 2,セン,すぅ……すぅぅ……,呼……呼……
 3,,<span class='scene-font-katari'>センは、陽だまりに手足を丸め</span><br><span class='scene-font-katari'>至福の昼寝タイムを満喫していた。</span>,<span class='scene-font-katari'>千、蜷曲着手脚</span><br><span class='scene-font-katari'>在太阳地里享受这幸福的午睡时光。</span>
@@ -7,7 +7,7 @@ id,name,text,trans
 7,ヴァパウス,なぁ～んなぁ～,喵～喵～
 8,セン,ん、ん～……？,嗯、嗯～……？
 9,ヴァパウス,なぁ～,喵～
-10,,<span class='scene-font-katari'>ダーントの師である猫のうちの１匹、</span><br><span class='scene-font-katari'>ヴァパウスが鼻先でセンの頬をつつく。</span>,<span class='scene-font-katari'>身为达恩特老师的猫群中的一只猫、</span><br><span class='scene-font-katari'>巴帕乌斯用鼻子蹭着千的脸颊。</span>
+10,,<span class='scene-font-katari'>ダーントの師である猫のうちの１匹、</span><br><span class='scene-font-katari'>ヴァパウスが鼻先でセンの頬をつつく。</span>,<span class='scene-font-katari'>身为旦特老师的猫群中的一只猫、</span><br><span class='scene-font-katari'>巴帕乌斯用鼻子蹭着千的脸颊。</span>
 11,セン,んむ……？,唔……？
 12,セン,ふぁ……<br>あ、れ……？,呼啊……<br>嗯……？
 13,ヴァパウス,なぁ～！,喵～！
@@ -38,7 +38,7 @@ id,name,text,trans
 41,セン,お日様があったかくて、<br>ついついお昼寝を<br>しちゃってたんですが……,太阳太暖和了、<br>不知不觉就<br>睡着了……
 42,セン,ヴァパウスさんが<br>起こしてくれて……,被巴帕乌斯<br>叫醒了……
 43,ヴァパウス,なぁ～,喵～
-44,ビィ/碧,お？<br>ダーントの猫達も一緒だったのか。,哦？<br>达恩特的猫们也一起吗。
+44,ビィ/碧,お？<br>ダーントの猫達も一緒だったのか。,哦？<br>旦特的猫们也一起吗。
 45,ルリア/露莉亚,ふふ、<br>みぅちゃんは<br>相変わらず抱っこが好きなんですね～,呼呼、<br>咪呜<br>还是一如既往地喜欢抱抱啊～
 46,みぅちゃん,みぅ～,咪呜～
 47,セン,みぅちゃんさんは<br>甘えんぼさんみたいです。,咪呜<br>就像是被宠坏的小孩子一样。
@@ -52,7 +52,7 @@ id,name,text,trans
 55,ルリア/露莉亚,あ！<br>嬉しそうですよ？,啊！<br>它好像很开心？
 56,セン,はい、今のは私にも<br>なんとなくわかります。,是啊、刚才的即使是我<br>也感觉到了。
 57,ヴァパウス,ぐるるん……,咕噜噜噜……
-58,セン,……私も、ダーントさんみたいに<br>猫さん達がなんて言ってるのか<br>わかったらいいのにな……,……如果、我也能像达恩特先生一样<br>能明白猫在说什么<br>就好了……
+58,セン,……私も、ダーントさんみたいに<br>猫さん達がなんて言ってるのか<br>わかったらいいのにな……,……如果、我也能像旦特先生一样<br>能明白猫在说什么<br>就好了……
 59,ビィ/碧,あのおっさんはちょっと<br>特殊だからなぁ。,那个大叔有点<br>特别嘛。
 60,ルリア/露莉亚,あ、そうだ！<br>合図を作ったらどうですか？,啊、对了！<br>做一些暗号怎么样呢？
 61,セン,合図？,暗号？
@@ -83,32 +83,32 @@ id,name,text,trans
 86,ルリア/露莉亚,もうっ、ビィさん！<br>私はちゃんと言いますよ。<br>おなかすきました！　って。,唔--、碧！<br>我能好好的说的。<br>我饿了！　这样。
 87,,<span class='scene-font-katari'>センと水野愛達は、</span><br><span class='scene-font-katari'>ああでもないこうでもない、と</span><br><span class='scene-font-katari'>猫達に向けた合図を考える。</span>,<span class='scene-font-katari'>千与姬塔他们、</span><br><span class='scene-font-katari'>想着这样或者那样的</span><br><span class='scene-font-katari'>面向猫的暗号。</span>
 89,リベラ,にゃお～ん。,咪嗷～。
-90,,<span class='scene-font-katari'>その時、ふらりとやってきたリベラが</span><br><span class='scene-font-katari'>軽やかにセンの肩に飛び乗った。</span>,<span class='scene-font-katari'>此时、飘然而至的莉贝拉</span><br><span class='scene-font-katari'>轻轻地跃上千的肩头。</span>
-91,セン,リベラさん！,莉贝拉小姐！
+90,,<span class='scene-font-katari'>その時、ふらりとやってきたリベラが</span><br><span class='scene-font-katari'>軽やかにセンの肩に飛び乗った。</span>,<span class='scene-font-katari'>此时、飘然而至的利贝拉</span><br><span class='scene-font-katari'>轻轻地跃上千的肩头。</span>
+91,セン,リベラさん！,利贝拉先生！
 92,リベラ,…………,…………
-93,セン,あの、リベラさん……<br>今の合図、聞いてましたか？<br>……わかりましたか？,唔、莉贝拉小姐……<br>刚才的暗号、你听到了吗？<br>……能明白吗？
+93,セン,あの、リベラさん……<br>今の合図、聞いてましたか？<br>……わかりましたか？,唔、利贝拉先生……<br>刚才的暗号、你听到了吗？<br>……能明白吗？
 94,リベラ,…………,…………
-95,,<span class='scene-font-katari'>センの問いに、リベラはただ</span><br><span class='scene-font-katari'>その瞳をじっと向けるだけ。</span>,<span class='scene-font-katari'>面对千的提问、莉贝拉只是</span><br><span class='scene-font-katari'>静静地盯着她。</span>
+95,,<span class='scene-font-katari'>センの問いに、リベラはただ</span><br><span class='scene-font-katari'>その瞳をじっと向けるだけ。</span>,<span class='scene-font-katari'>面对千的提问、利贝拉只是</span><br><span class='scene-font-katari'>静静地盯着她。</span>
 96,セン,はぁ……,哈……
 97,セン,まだまだ修行が必要みたいです。,修行还远远不够啊。
-98,,<span class='scene-font-katari'>苦笑するセンの肩の上で、</span><br><span class='scene-font-katari'>リベラはのんびりとあくびをした。</span>,<span class='scene-font-katari'>端坐在苦笑的千的肩上、</span><br><span class='scene-font-katari'>莉贝拉悠闲地打着哈欠。</span>
+98,,<span class='scene-font-katari'>苦笑するセンの肩の上で、</span><br><span class='scene-font-katari'>リベラはのんびりとあくびをした。</span>,<span class='scene-font-katari'>端坐在苦笑的千的肩上、</span><br><span class='scene-font-katari'>利贝拉悠闲地打着哈欠。</span>
 100,ダーント,皆様方、ここにおられたか。,大家都在这里啊。
-101,セン,ダーントさん、こんにちは。,达恩特先生、你好。
-102,ダーント,ふむ……<br>近頃、リベラ殿はセンの肩が<br>お気に入りのご様子。,哼……<br>最近、莉贝拉似乎很中意<br>千的肩膀。
+101,セン,ダーントさん、こんにちは。,旦特先生、你好。
+102,ダーント,ふむ……<br>近頃、リベラ殿はセンの肩が<br>お気に入りのご様子。,哼……<br>最近、利贝拉似乎很中意<br>千的肩膀。
 103,リベラ,にゃお～ん。,咪嗷～。
-104,ダーント,流石リベラ殿。<br>どこにおられても変わらぬ<br>毅然としたお姿。,不愧是莉贝拉。<br>不管身处何处<br>都一如既往保持坚毅的姿态。
+104,ダーント,流石リベラ殿。<br>どこにおられても変わらぬ<br>毅然としたお姿。,不愧是利贝拉。<br>不管身处何处<br>都一如既往保持坚毅的姿态。
 105,ダーント,場所や時に縛られることのない<br>自由な精神……<br>感じ入るばかりです。,不为时间与地点所束缚<br>总能感受到……<br>你那自由的精神。
 106,ビィ/碧,おっさんは相変わらずだなぁ……,大叔也是一如既往啊……
 107,ダーント,ああそうだ、水野愛。<br>もうすぐ次の島に着くと聞いたが？,啊对了、姬塔。<br>听说就快到下一个岛了？
-108,,<span class='scene-font-katari'>ダーントに問いかけられ、</span><br><span class='scene-font-katari'>水野愛はこくりと頷く。</span>,<span class='scene-font-katari'>听了达恩特的提问、</span><br><span class='scene-font-katari'>姬塔点了点头。</span>
+108,,<span class='scene-font-katari'>ダーントに問いかけられ、</span><br><span class='scene-font-katari'>水野愛はこくりと頷く。</span>,<span class='scene-font-katari'>听了旦特的提问、</span><br><span class='scene-font-katari'>姬塔点了点头。</span>
 109,ルリア/露莉亚,ミーツェノス島、でしたっけ？<br>補給の為に、少しの間<br>艇をとめる予定なんですよね。,记得是密切诺斯岛？<br>为了补给、稍微<br>要停留一段时间。
 110,ダーント,うむ……,嗯……
 112,みぅちゃん,みぅ～！,咪呜～！
 114,セン,あ、みぅちゃんさん！,啊、咪呜小姐！
-115,,<span class='scene-font-katari'>センの腕の中にいた子猫が、</span><br><span class='scene-font-katari'>おもむろにダーントの方へと飛び移る。</span>,<span class='scene-font-katari'>在千臂弯中的奶猫、</span><br><span class='scene-font-katari'>开心地跳向达恩特</span>
+115,,<span class='scene-font-katari'>センの腕の中にいた子猫が、</span><br><span class='scene-font-katari'>おもむろにダーントの方へと飛び移る。</span>,<span class='scene-font-katari'>在千臂弯中的奶猫、</span><br><span class='scene-font-katari'>开心地跳向旦特</span>
 116,ダーント,おお、みぅちゃん殿。<br>なんと素晴らしい跳躍！<br>お見事です！,哦哦、咪呜。<br>多么棒的跳跃！<br>干得漂亮！
 117,みぅちゃん,みぅ～,咪呜～
-118,,<span class='scene-font-katari'>腕に擦り寄ってくる子猫をなでてから</span><br><span class='scene-font-katari'>ダーントは再び水野愛達に</span><br><span class='scene-font-katari'>向き直る。</span>,<span class='scene-font-katari'>抚摸着蹭着手腕的奶猫</span><br><span class='scene-font-katari'>达恩特重新</span><br><span class='scene-font-katari'>看向姬塔他们。</span>
+118,,<span class='scene-font-katari'>腕に擦り寄ってくる子猫をなでてから</span><br><span class='scene-font-katari'>ダーントは再び水野愛達に</span><br><span class='scene-font-katari'>向き直る。</span>,<span class='scene-font-katari'>抚摸着蹭着手腕的奶猫</span><br><span class='scene-font-katari'>旦特重新</span><br><span class='scene-font-katari'>看向姬塔他们。</span>
 119,ダーント,そのミーツェノス島に着いたら、<br>我は暫しの間、艇を離れる。,到了那个密切诺斯岛之后、<br>我暂时、要离开骑空艇。
 120,ビィ/碧,へぇ、珍しいな。<br>何か用事か？,唔、少见啊。<br>有什么事吗？
 121,ダーント,少し気になることがあってな……,有些事情很在意……
@@ -121,7 +121,7 @@ id,name,text,trans
 128,セン,えっ！<br>私ですか！？,欸！<br>交给我吗！？
 129,ダーント,そうだ。<br>皆様方への同伴、頼めるか？,是的。<br>做大家的同伴、能办到吗？
 130,セン,あの、えっと……<br>私にできるでしょうか？,唔、嗯……<br>我能不能做好呢？
-131,ダーント,近頃、リベラ殿達は<br>汝の傍で過ごす時間を<br>楽しんでおられる。,最近、莉贝拉<br>很享受在你身旁<br>度过的时间。
+131,ダーント,近頃、リベラ殿達は<br>汝の傍で過ごす時間を<br>楽しんでおられる。,最近、利贝拉<br>很享受在你身旁<br>度过的时间。
 132,ダーント,皆様、汝にはどことなく<br>似たものを感じていらっしゃる<br>ご様子……,大家、都觉得你<br>与他们有一些<br>相似之处……
 133,ダーント,なればこそ、<br>汝にしか務められぬ役目と考える。,正因如此、<br>我认为这是非你莫属的任务。
 134,セン,……わかりました！<br>私、がんばります！,……我懂了！<br>我、会加油的！
