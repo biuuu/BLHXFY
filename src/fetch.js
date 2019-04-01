@@ -26,28 +26,35 @@ const timeoutStyle = () => {
   document.head.appendChild(style)
 }
 
-const load = new Promise((rev, rej) => {
-  window.addEventListener('load', () => {
-    const iframe = document.createElement('iframe')
-    iframe.src = `${origin}/blhxfy/lacia.html`
-    iframe.style.display = 'none'
-    document.body.appendChild(iframe)
-    lacia = iframe.contentWindow
+let loadIframe = () => {
+  return new Promise((rev, rej) => {
+    window.addEventListener('load', () => {
+      const iframe = document.createElement('iframe')
+      iframe.src = `${origin}/blhxfy/lacia.html`
+      iframe.style.display = 'none'
+      document.body.appendChild(iframe)
+      lacia = iframe.contentWindow
+    })
+    let timer = setTimeout(() => {
+      rej(`加载iframe超时`)
+    }, config.timeout * 1000)
+    ee.once('loaded', () => {
+      clearTimeout(timer)
+      rev()
+    })
   })
-  let timer = setTimeout(() => {
-    rej(`加载iframe超时`)
-  }, config.timeout * 1000)
-  ee.once('loaded', () => {
-    clearTimeout(timer)
-    rev()
-  })
-})
+}
 
+let iframeLoaded = false
 const fetchData = async (pathname) => {
   const url = pathname
   const flag = Math.random()
   try {
-    await load
+    if (!iframeLoaded) {
+      loadIframe = loadIframe()
+      iframeLoaded = true
+    }
+    await loadIframe
     lacia.postMessage({
       type: 'fetch',
       url, flag
