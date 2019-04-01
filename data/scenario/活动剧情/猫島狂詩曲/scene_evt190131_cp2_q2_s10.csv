@@ -25,7 +25,7 @@ id,name,text,trans
 24,ヴァパウス,変わってんね。<br>それ、俺もやんなきゃダメ？,真奇怪啊。<br>我也要这样才行？
 25,ヴァパウス,あ、あの台とかイイ感じじゃない？<br>俺、あの上に乗りたいな！,那台子感觉不错。<br>我想到那上面去！
 27,古株の猫,<span class='scene-font-4'>勝手にしゃべるな！</span><br>うろちょろすんな！<br>テメェらにその自由はねぇ！！,<span class='scene-font-4'>谁让你说话了！</span><br>少给我上蹿下跳的！<br>你们没有那种自由！
-28,,<span class='scene-font-katari'>ヴァパウス達を威嚇するような</span><br><span class='scene-font-katari'>怒鳴り声を上げる猫に、</span><br><span class='scene-font-katari'>センは戸惑って首を傾げる。</span>,<span class='scene-font-katari'>看着朝瓦帕乌斯他们怒喝的猫，千感到很疑惑。</span>
+28,,<span class='scene-font-katari'>ヴァパウス達を威嚇するような</span><br><span class='scene-font-katari'>怒鳴り声を上げる猫に、</span><br><span class='scene-font-katari'>センは戸惑って首を傾げる。</span>,<span class='scene-font-katari'>看着朝巴帕乌斯他们怒喝的猫，千感到很疑惑。</span>
 29,セン,も、もしかしてこの猫さん、<br>すごく怒ってるんですか……？,难、难道说这只猫咪现在很生气吗……？
 30,アファカ,なんかすごい怒鳴ってるね～<br>やだね～,吼那么大声干嘛～<br>讨厌～
 32,古株の猫,<span class='scene-font-4'>あぁ！？</span>,<span class='scene-font-4'>啊！？</span>
@@ -54,7 +54,7 @@ id,name,text,trans
 61,リベラ,……我はリベラと言う。<br>この島には今朝立ち寄ったばかりだ。,……我名为利贝拉。<br>今早刚来到这座岛。
 62,ムクタ,もめたも何も、<br>あっちが一方的に……,哪有得罪他，他自己二话不说就……
 63,古株の猫,おい待て。<br>お前らひょっとして<span class='scene-font-spword'>“名有り”</span>なのか？,喂，等等。<br>你们难道是<span class='scene-font-spword'>“有名字的”</span>？
-64,ムクタ,それがどうした？<br>俺はムクタだ。,有名字怎么了？<br>我叫穆克塔。
+64,ムクタ,それがどうした？<br>俺はムクタだ。,有名字怎么了？<br>我叫木库塔。
 65,赤毛の猫,ぷっ……,噗……
 66,毛の長い猫,<span class='scene-font-4'>にゃははははっ！</span>,<span class='scene-font-4'>喵哈哈哈哈哈哈！</span>
 67,古株の猫,どんな骨太かと思ったら、<br>人に飼われた軟弱モノかよ！,还以为你们是什么硬骨头呢，原来是被人类饲养的软蛋！
