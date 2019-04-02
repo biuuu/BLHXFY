@@ -14,7 +14,7 @@ id,name,text,trans
 22,アンスリア,あぁ……んんっ……！,啊……嗯……！
 23,アンスリア,はぁ〜……これは湿布よ。<br>昨日の舞台の疲れが残っててね……,哈〜……是湿布啦。<br>昨天舞台太累了到现在都没休息好……
 24,アンスリア,あ、そうだ。<br>姬塔には、<br>このこと秘密にしてね。,啊，对了。<br>对姬塔，<br>要保密哦。
-25,アンスリア,その……<br>姬塔には綺麗な私だけを<br>見ていてほしいから……,那个……<br>我只想让姬塔只看到<br>漂亮的我啊……
+25,アンスリア,その……<br>姬塔には綺麗な私だけを<br>見ていてほしいから……,那个……<br>我只想让姬塔看到<br>我最漂亮的一面……
 26,クロエ,もち！<br>ま、姬塔って懐広ぃから<br>そんなの気にしなぃと思ぅけど。,真的假的！<br>嘛，姬塔胸怀很宽广的<br>我觉得应该不会在意的。
 27,クロエ,てか、ぃつもキレィ目のリア姉の<br>マターリ姿にかなり親近感。<br>そんでロザ姉は……？,说回来，一向爱干净的莉雅姐<br>懒懒散散的样子让人很有亲近感。<br>话说萝莎姐呢……？
 28,,<span class='scene-font-katari'>クロエが視線を移した先で</span><br><span class='scene-font-katari'>女子部屋に身を置く３人目の女性が</span><br><span class='scene-font-katari'>薄い紙を手で引き裂いていた。</span>,<span class='scene-font-katari'>库洛尔的视线移到了</span><br><span class='scene-font-katari'>女生房间里的第三名女性</span><br><span class='scene-font-katari'>用手在撕着一张薄纸。</span>
@@ -22,7 +22,7 @@ id,name,text,trans
 33,クロエ,ロザ姉、それ、ちぎり絵ゃってるの？<br>クリプレ交換にも出してたょね～,萝莎姐，那是在做Chigiri-e（注：撕裂手工纸来创作的画）吗？<br>这都可以拿来当作交换的圣诞礼物了吧～
 34,クロエ,てか紙めっちゃぁるしΣ(ﾟДﾟ),不过纸真多啊Σ(ﾟДﾟ)
 35,ロザミア,普段から集めているのよ。<br>ちぎり絵、趣味だから。,平时就一直收集着。<br>Chigiri-e是我的兴趣。
-36,アンスリア,なんだか緻密で凄いわね。<br>それはなにを描いているの？,感觉很致密好厉害啊。<br>画的是什么呢？
+36,アンスリア,なんだか緻密で凄いわね。<br>それはなにを描いているの？,感觉很精细好厉害啊。<br>画的是什么呢？
 37,ロザミア,変わったモノを見かけたから<br>ちぎり絵で作ってみたくなったの。<br>途中だからまだ見ないでほしいわ。,看到了不同寻常的东西所以<br>享用Chigiri-e来创作。<br>还没完成所以希望先别看了。
 38,クロエ,ぉけまる（*´∀｀*）<br>ぢゃ完成したら見してほしぃー,了解（*´∀｀*）<br>那完成之后能再给我看吗ー
 39,アンスリア,ふふ、たまには<br>こうしてのんびり<br>過ごすのも悪くないわよね。,呵呵，偶尔<br>像这样悠哉游哉地<br>过也不错呢。
@@ -35,13 +35,13 @@ id,name,text,trans
 48,３人,<span class='scene-font-4'>っ！？</span>,<span class='scene-font-4'>！？</span>
 49,クロエ,<span class='scene-font-kokoro'>（ジャンヌ氏って……</span><br><span class='scene-font-kokoro'>山賊に襲われて困ってる人を</span><br><span class='scene-font-kokoro'>叱り飛ばしたゃばばな人だょね？）</span>,<span class='scene-font-kokoro'>（贞德氏她……</span><br><span class='scene-font-kokoro'>是对被山贼袭击而困扰的人</span><br><span class='scene-font-kokoro'>也严加训斥的狠角色吧？）</span>
 54,,<span class='scene-font-katari'>ジャンヌダルクはなにを言うでもなく</span><br><span class='scene-font-katari'>女子部屋の中を通り抜け、</span><br><span class='scene-font-katari'>奥にある別室へ消えていった。</span>,<span class='scene-font-katari'>贞德达尔克无言地</span><br><span class='scene-font-katari'>穿过女生房间、</span><br><span class='scene-font-katari'>消失在了深处的另一间房间。</span>
-55,クロエ,……もしゃけっこぅゃばげ？<br>クロエ、怒られる……？,……莫非情况很糟了？<br>库洛尔会被发火吗……？
+55,クロエ,……もしゃけっこぅゃばげ？<br>クロエ、怒られる……？,……莫非情况很糟了？<br>库洛尔我会被发火吗……？
 56,ロザミア,ないとは言い切れないわ……<br>私達の腑抜けた姿勢を<br>彼女が許すとは到底思えない。,不能说没可能啊……<br>我们这副没志气的样子<br>她肯定是不会允许的吧。
 57,アンスリア,うう……やっぱりそう？<br>気を抜きすぎたかしら……,唔唔……果然是吧？<br>我们有点太松懈了吧……
 58,,<span class='scene-font-katari'>どうにかなかったことにできないかと</span><br><span class='scene-font-katari'>３人が話し合っていると、</span><br><span class='scene-font-katari'>奥へ消えたジャンヌが戻ってきたが──</span>,<span class='scene-font-katari'>没办法的事情要怎么办</span><br><span class='scene-font-katari'>三人正说着、</span><br><span class='scene-font-katari'>消失在房间深处的贞德回来了──</span>
 61,クロエ,ぇっ！？　そのカッコって……！,欸！？这身打扮是……！
 83,ジャンヌダルク/贞德,世界の平和を体現すべく<br>今日は徹底的に息抜きをしようと思う。<br>私に出来る全力にて、だらける所存だ。,作为世界和平的体现<br>我今天想要彻底放松。<br>我打算要全力去松懈自己。
-84,ジャンヌダルク/贞德,どうやら皆さんも<br>息抜きをしている様子。<br>……ご一緒させてもらえないだろうか？,看起来大家也<br>非常放松的样子。<br>……大家一起松懈吧？
+84,ジャンヌダルク/贞德,どうやら皆さんも<br>息抜きをしている様子。<br>……ご一緒させてもらえないだろうか？,看起来大家也<br>非常放松的样子。<br>……大家一起发送吧？
 85,,<span class='scene-font-katari'>ジャンヌダルクの様変わりに</span><br><span class='scene-font-katari'>一同は仰天せずにはいられなかった。</span>,<span class='scene-font-katari'>对于贞德达尔克的转变</span><br><span class='scene-font-katari'>三人压抑不住的大吃一惊。</span>
 info,,,scene_evt190331_cp3_q2_s10
 备注,,,翻译：KoalaSheep
