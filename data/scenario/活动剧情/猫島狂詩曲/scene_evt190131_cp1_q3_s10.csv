@@ -1,6 +1,6 @@
 id,name,text,trans
 0-chapter_name,,第1話 セン、お散歩に出る,第1話 千、出门散步
-0-synopsis,,散歩を続けるセン達は、機械やガラクタが積み重なったような奇妙な形状の建物の近くまでやって来る。そこに島の猫達が現れ、周囲を取り囲まれてしまう。縄張りを荒らすつもりはない、とセンは慌ててその場を離れようとするがダーントの猫達と島の猫達は乱闘を始め、戸惑うセンも背後から何かの激突を受けて気を失ってしまうのだった。,继续着散步的千他们，走进了一座看起来像是垃圾或者机械堆积起来的建筑物。在那里出现了岛上的猫群、将千他们团团围住。‘我们不是故意的’慌慌张张的千想要离开此地，然而达恩特的猫群已经与岛上的猫群打作一团、困惑的千被从背后袭击，失去意识。
+0-synopsis,,散歩を続けるセン達は、機械やガラクタが積み重なったような奇妙な形状の建物の近くまでやって来る。そこに島の猫達が現れ、周囲を取り囲まれてしまう。縄張りを荒らすつもりはない、とセンは慌ててその場を離れようとするがダーントの猫達と島の猫達は乱闘を始め、戸惑うセンも背後から何かの激突を受けて気を失ってしまうのだった。,继续着散步的千他们，走进了一座看起来像是垃圾或者机械堆积起来的建筑物。在那里出现了岛上的猫群、将千他们团团围住。‘我们不是故意的’慌慌张张的千想要离开此地，然而旦特的猫群已经与岛上的猫群打作一团、困惑的千被从背后袭击，失去意识。
 1,セン,……お昼が近づいてきましたね。,……接近中午了呢。
 2,,<span class='scene-font-katari'>センは、日の高くなってきた空を見て</span><br><span class='scene-font-katari'>目を細める。</span>,<span class='scene-font-katari'>千、眯起眼睛</span><br><span class='scene-font-katari'>抬头看着日头升高的天空。</span>
 3,セン,そろそろ、艇に戻りましょうか？,差不多、该回骑空艇了吧？
@@ -14,7 +14,7 @@ id,name,text,trans
 14,ガラの悪い猫１,…………,…………
 15,リベラ,にゃお～ん……,喵～……
 18,セン,あ……,啊……
-19,,<span class='scene-font-katari'>ゆっくりと後ずさるリベラを見て、</span><br><span class='scene-font-katari'>センも表情を引き締める。</span>,<span class='scene-font-katari'>看着缓慢后退的莉贝拉、</span><br><span class='scene-font-katari'>千也紧张起来。</span>
+19,,<span class='scene-font-katari'>ゆっくりと後ずさるリベラを見て、</span><br><span class='scene-font-katari'>センも表情を引き締める。</span>,<span class='scene-font-katari'>看着缓慢后退的利贝拉、</span><br><span class='scene-font-katari'>千也紧张起来。</span>
 20,セン,きっと島の猫さんですね。,这一定是岛上的猫吧。
 21,セン,そういえば、ここまでは<br>会わなかったけど……,说起来、之前<br>一直没有碰过面……
 22,ガラの悪い猫２,…………,…………
@@ -31,7 +31,7 @@ id,name,text,trans
 36,セン,あ……！,啊……！
 37,,<span class='scene-font-katari'>既にそちらにも猫達が回り込み、</span><br><span class='scene-font-katari'>退路を塞ぐようにこちらを睨んでいた。</span>,<span class='scene-font-katari'>那里已经被猫群堵住、</span><br><span class='scene-font-katari'>似是要封锁退路一般盯着他们。</span>
 38,セン,私達は旅の途中で……<br>もう帰るところです！,我们在旅途中……<br>已经要回去了！
-39,セン,ね？<br>そうですよね、リベラさん！,馁？<br>是这样吧、莉贝拉！
+39,セン,ね？<br>そうですよね、リベラさん！,馁？<br>是这样吧、利贝拉！
 40,リベラ,…………,…………
 41,みぅちゃん,みぅ～,咪呜～
 42,セン,ああ、えっと、抱っこします！<br>しますから、早くここから<br>離れましょう……！,啊啊、唔、我抱你！<br>所以、快点<br>离开这里吧……！
@@ -50,8 +50,8 @@ id,name,text,trans
 58,セン,どど、どうしましょう……！？,怎、怎么办啊……！？
 59,ガラの悪い猫２,<span class='scene-font-4'>フシャーーーッ！！</span>,<span class='scene-font-4'>喵ーーー！！</span>
 60,エレフセリア,ミャオッ！？,喵！？
-61,セン,ああっ！<br>エレフセリアさん！,啊啊！<br>艾莱弗利亚！
-62,,<span class='scene-font-katari'>ダーントの師たる仲間の猫達を</span><br><span class='scene-font-katari'>助けたくとも、だからと言って</span><br><span class='scene-font-katari'>島の猫を傷つけることもできない。</span>,<span class='scene-font-katari'>虽说想要帮助</span><br><span class='scene-font-katari'>身为达恩特的老师的猫们</span><br><span class='scene-font-katari'>但也无法出手伤害岛上的猫群。</span>
+61,セン,ああっ！<br>エレフセリアさん！,啊啊！<br>艾勒夫赛利亚！
+62,,<span class='scene-font-katari'>ダーントの師たる仲間の猫達を</span><br><span class='scene-font-katari'>助けたくとも、だからと言って</span><br><span class='scene-font-katari'>島の猫を傷つけることもできない。</span>,<span class='scene-font-katari'>虽说想要帮助</span><br><span class='scene-font-katari'>身为旦特的老师的猫们</span><br><span class='scene-font-katari'>但也无法出手伤害岛上的猫群。</span>
 63,,<span class='scene-font-katari'>センは、入り乱れる猫達の間で</span><br><span class='scene-font-katari'>ただおろおろするしかなかった。</span>,<span class='scene-font-katari'>千、只能在混乱的猫群中</span><br><span class='scene-font-katari'>急的团团转。</span>
 65,セン,やめてください、皆さん！<br>やめて……！！,住手吧、大家！<br>快住手……！！
 66,,<span class='scene-font-katari'>センの声は、猫達の元には届かない。</span>,<span class='scene-font-katari'>然而千的声音、却传达不到。</span>

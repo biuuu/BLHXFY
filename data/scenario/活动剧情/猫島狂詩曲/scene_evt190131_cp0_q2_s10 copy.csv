@@ -1,6 +1,6 @@
 id,name,text,trans
 0-chapter_name,,エンディング,终章
-0-synopsis,,暴走したＮＹＡ‐ＯＮの爪がトラジロウに迫るが、老婆の亡くなった夫が残した「猫を傷つけられない」という設定が発動して止まる。センにより誤解が解けた老婆はトラジロウを抱きしめる。老婆はダーントに自由と自分勝手、そして愛と絆の在り方を説かれ、これからまた猫達と共に新しい道を探していくと言う。そして再び旅立つ一行に、若い猫がついてくることになるのだった。,暴走的ＮＹＡ－ＯＮ将魔抓伸向了虎次郎，但是由于老妇人的亡夫给魔像所设定的「无法伤害猫」机能发动，魔像停止了。通过千的解释解开了误会的老妇人紧紧抱住了虎次郎。老妇人听丹特讲述了何为自由，何为任性妄为，以及何为爱与羁绊，决定从今以后与猫儿们一同寻找新的道路。再次踏上旅途的一行人，加入了一只年轻的猫。
+0-synopsis,,暴走したＮＹＡ‐ＯＮの爪がトラジロウに迫るが、老婆の亡くなった夫が残した「猫を傷つけられない」という設定が発動して止まる。センにより誤解が解けた老婆はトラジロウを抱きしめる。老婆はダーントに自由と自分勝手、そして愛と絆の在り方を説かれ、これからまた猫達と共に新しい道を探していくと言う。そして再び旅立つ一行に、若い猫がついてくることになるのだった。,暴走的ＮＹＡ－ＯＮ将魔抓伸向了虎次郎，但是由于老妇人的亡夫给魔像所设定的「无法伤害猫」机能发动，魔像停止了。通过千的解释解开了误会的老妇人紧紧抱住了虎次郎。老妇人听旦特讲述了何为自由，何为任性妄为，以及何为爱与羁绊，决定从今以后与猫儿们一同寻找新的道路。再次踏上旅途的一行人，加入了一只年轻的猫。
 7,ＮＹＡ‐ＯＮ,──……！,──……！
 10,杖をついた老婆,ああっ……！,啊啊……！
 17,,<span class='scene-font-katari'>破壊の寸前にまで追い込まれた</span><br><span class='scene-font-katari'>ＮＹＡ‐ＯＮから、</span><br><span class='scene-font-katari'>老婆が転がり出た。</span>,<span class='scene-font-katari'>就在ＮＹＡ－ＯＮ即将爆炸的那一刻，老妇人从魔像中滚落了出来。</span>
@@ -16,9 +16,9 @@ id,name,text,trans
 33,,<span class='scene-font-katari'>しかし──</span>,<span class='scene-font-katari'>然而——</span>
 35,トラジロウ,ッ……！,……！
 36,ＮＹＡ‐ＯＮ,────！,────！
-37,,<span class='scene-font-katari'>ＮＹＡ‐ＯＮの爪が、</span><br><span class='scene-font-katari'>うずくまったままのトラジロウに迫る。</span>,<span class='scene-font-katari'>ＮＹＡ‐ＯＮ的魔爪伸向了蹲伏在地的虎太郎</span>
+37,,<span class='scene-font-katari'>ＮＹＡ‐ＯＮの爪が、</span><br><span class='scene-font-katari'>うずくまったままのトラジロウに迫る。</span>,<span class='scene-font-katari'>ＮＹＡ‐ＯＮ的魔爪伸向了蹲伏在地的虎次郎</span>
 38,トラジロウ,…………,…………
-39,杖をついた老婆,トラジロウ、ちゃん……,虎太，郎……
+39,杖をついた老婆,トラジロウ、ちゃん……,虎次，郎……
 42,トラジロウ,ぶみゃ～,呜喵～
 43,杖をついた老婆,あらあら、<br>もうすっかり元気になったわねぇ。,哎呀哎呀，<br>已经这么有精神了呢。
 46,杖をついた老婆,ふふふ、<br>猫ちゃんがたくさんになったわねぇ。<br>嬉しいわ。,呵呵呵，居然已经有这么多小猫咪了呢。真让人开心。
@@ -98,9 +98,9 @@ id,name,text,trans
 139,ダーント,あのゴーレムがあけた穴もある……<br>リベラ殿おひとりならば、<br>いかようにでも御出来になろう。,那魔像也在墙上开了洞……利贝拉阁下独行的话，逃出这点小事想必不在话下
 140,リベラ,……にゃお～ん。,……喵～。
 141,ダーント,ああ、これは気が利かず<br>申し訳ありません。,啊啊，在下竟然没注意到，<br>万分抱歉。
-142,,<span class='scene-font-katari'>足元までやってきたリベラに</span><br><span class='scene-font-katari'>じっと見上げられたダーントは</span><br><span class='scene-font-katari'>膝を折ってかがむ。</span>,<span class='scene-font-katari'>被脚边的利贝拉盯着看了好一会的丹特屈膝弯下腰来。</span>
+142,,<span class='scene-font-katari'>足元までやってきたリベラに</span><br><span class='scene-font-katari'>じっと見上げられたダーントは</span><br><span class='scene-font-katari'>膝を折ってかがむ。</span>,<span class='scene-font-katari'>被脚边的利贝拉盯着看了好一会的旦特屈膝弯下腰来。</span>
 143,リベラ,にゃお～,喵～
-148,,<span class='scene-font-katari'>リベラは、いつもよりもゆっくりと</span><br><span class='scene-font-katari'>ダーントの肩へよじ登った。</span>,<span class='scene-font-katari'>利贝拉不同与往常，他慢悠悠地爬上了丹特的肩膀。</span>
+148,,<span class='scene-font-katari'>リベラは、いつもよりもゆっくりと</span><br><span class='scene-font-katari'>ダーントの肩へよじ登った。</span>,<span class='scene-font-katari'>利贝拉不同与往常，他慢悠悠地爬上了旦特的肩膀。</span>
 149,ダーント,恐縮です。,惭愧。
 150,杖をついた老婆,ふふふ……<br>あなたの猫ちゃんは戻ったのね。<br>羨ましいわ……,呵呵呵……<br>你的猫也回来了呢。<br>真叫人羡慕……
 151,セン,あのっ！<br>そのことなんですが……,那个！<br>关于这件事……
@@ -113,7 +113,7 @@ id,name,text,trans
 158,ダーント,……うむ。,……唔姆。
 159,セン,ど、どうでしょうか？<br>リベラさん。,是，是这样吗？<br>利贝拉。
 160,リベラ,……にゃお～ん。,……喵～。
-161,,<span class='scene-font-katari'>助けを求めるように向けた視線の先、</span><br><span class='scene-font-katari'>ダーントの肩の上のリベラは</span><br><span class='scene-font-katari'>ゆっくりと尻尾を２回振った。</span>,<span class='scene-font-katari'>想要求助的千回头望去，之间丹特肩上的利贝拉悠悠地摇了２下尾巴。</span>
+161,,<span class='scene-font-katari'>助けを求めるように向けた視線の先、</span><br><span class='scene-font-katari'>ダーントの肩の上のリベラは</span><br><span class='scene-font-katari'>ゆっくりと尻尾を２回振った。</span>,<span class='scene-font-katari'>想要求助的千回头望去，之间旦特肩上的利贝拉悠悠地摇了２下尾巴。</span>
 162,杖をついた老婆,本当に……？,真的吗……？
 163,杖をついた老婆,本当にそうなの？<br>トラジロウちゃん……,真的是这样吗？<br>虎次郎……
 164,トラジロウ,ぶみゃ～……,呜喵～……
@@ -151,11 +151,11 @@ id,name,text,trans
 209,若い猫,ぐるるん……,呼噜……
 210,セン,えへへ……,哎嘿嘿……
 211,若い猫,…………,…………
-213,,<span class='scene-font-katari'>しかし、すぐにそっぽを向いた猫は</span><br><span class='scene-font-katari'>センの元を離れて、先を歩く</span><br><span class='scene-font-katari'>ダーントの方へ駆けて行く。</span>,<span class='scene-font-katari'>然而，那只猫很快就扭向一旁，从千身边离开，跑向前方的丹特。</span>
+213,,<span class='scene-font-katari'>しかし、すぐにそっぽを向いた猫は</span><br><span class='scene-font-katari'>センの元を離れて、先を歩く</span><br><span class='scene-font-katari'>ダーントの方へ駆けて行く。</span>,<span class='scene-font-katari'>然而，那只猫很快就扭向一旁，从千身边离开，跑向前方的旦特。</span>
 214,ビィ/碧,おお、本当に<br>来るみたいだな。,哦哦，看样子他是真的要来呀。
 215,ルリア/露莉亚,わーい！<br>新しい猫ちゃんの仲間です！,哇——！<br>是新的猫伙伴！
 216,ルリア/露莉亚,ねぇ姬塔、<br>名前をつけてあげましょう？,呐姬塔、<br>给它起个名字吧？
-217,ビィ/碧,おお、そうだな！<br>ダーントの猫達も皆名前があるし、<br>あいつにもあった方がいいよな！,哦哦、确实啊<br>丹特的猫也都有名字呢，<br>这家伙也应该有一个！
+217,ビィ/碧,おお、そうだな！<br>ダーントの猫達も皆名前があるし、<br>あいつにもあった方がいいよな！,哦哦、确实啊<br>旦特的猫也都有名字呢，<br>这家伙也应该有一个！
 218,ルリア/露莉亚,ふふっ、姬塔は<br>あの猫ちゃんにどんな名前を<br>つけたらいいと思いますか？,呵呵、姬塔觉得应该给那只猫起什么名字呢？
 219,,<span class='scene-font-katari'>姬塔は、</span><br><span class='scene-font-katari'>うきうきと弾んだルリアの</span><br><span class='scene-font-katari'>言葉に頷き、視線を前に向ける。</span>,<span class='scene-font-katari'>姬塔对着喜不自禁的露莉亚点了点头，向前看去。</span>
 220,,<span class='scene-font-katari'>そして、小さな新しい仲間の</span><br><span class='scene-font-katari'>揺れる尻尾を見て、</span><br><span class='scene-font-katari'>楽しそうに微笑むのだった。</span>,<span class='scene-font-katari'>看着新加入的小伙伴摇晃的尾巴，露出了开心的微笑。</span>

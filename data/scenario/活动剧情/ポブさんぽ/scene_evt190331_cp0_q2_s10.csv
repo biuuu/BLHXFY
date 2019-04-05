@@ -1,0 +1,114 @@
+id,name,text,trans
+0-chapter_name,,エンディング,エンディング
+0-synopsis,,どれほど都合よく考えてもシミュレーションの中のヴィーラとはうまくいかず、肩を落とす一同。すると本物のヴィーラの方から声をかけられてしまう。ローアイン達はひどく緊張するが、意外にも現実世界のヴィーラはふつうに接してくれ、ローアインは「コミュ力」という言葉に囚われていた自分を恥じる。そして翌日、休暇明けのローアイン達を乗せた艇は港を離れるのだった。,どれほど都合よく考えてもシミュレーションの中のヴィーラとはうまくいかず、肩を落とす一同。すると本物のヴィーラの方から声をかけられてしまう。ローアイン達はひどく緊張するが、意外にも現実世界のヴィーラはふつうに接してくれ、ローアインは「コミュ力」という言葉に囚われていた自分を恥じる。そして翌日、休暇明けのローアイン達を乗せた艇は港を離れるのだった。
+7,メカサイコヴィーラ Mk.II,ガガガ……ガガ……,嘎嘎嘎……嘎嘎……
+8,ローアイン/罗艾因,やったかよ！？,干掉了吗！？
+11,メカサイコヴィーラ Mk.II,ダメージ・70％ヲ超過……<br>作戦続行可能……,损伤・超过70％……<br>仍可继续作战……
+12,ローアイン/罗艾因,やってねーのかよ！？<br>まだ動けるとかＤｏするべ、これ……,没干掉啊！？<br>竟然还能动，这可怎么办……
+13,エルセム/艾尔塞姆,いや、まだあるだろ！　ローアイン！<br>奥の手がよ！<br>今日一日あったこと思い出せよ！,不、还有办法的吧！　罗艾因！<br>我们还有最后的秘技！<br>快回想起今天一天发生的事情吧！
+14,ローアイン/罗艾因,奥の手って……なんかあった！？,最后的秘技……有什么吗！？
+15,トモイ/托莫伊,合体……だろ？,只有合体……了吧？
+16,ローアイン/罗艾因,……っ！？,……！？
+17,ローアイン/罗艾因,<span class='scene-font-4'>ぶははっ！！</span><br>そうだったわ！<br>最後は合体だよな、やっぱ！,<span class='scene-font-4'>噗哈哈哈！！</span><br>没错没错！<br>果然到最后还是得合体啊！
+18,ローアイン/罗艾因,そんじゃド派手にぶちかますんで<br>ご唱和いただいちゃいますか！,那就盛大地上了<br>合唱就拜托了！
+19,ローアイン/罗艾因,<span class='scene-font-5'>……あＫ！</span>,<span class='scene-font-5'>……啊Ｋ！</span>
+20,エルセム/艾尔塞姆,<span class='scene-font-5'>あＢ！</span>,<span class='scene-font-5'>啊Ｂ！</span>
+21,トモイ/托莫伊,<span class='scene-font-5'>あＳ！</span>,<span class='scene-font-5'>啊Ｓ！</span>
+22,２人,<span class='scene-font-5'>あＮ！</span>,<span class='scene-font-5'>啊Ｎ！</span>
+24,３人,<span class='scene-font-4'>パリピ合体！</span><br><span class='scene-font-4'>アルティメットフォームッ！！</span>,<span class='scene-font-4'>派对魂合体！</span><br><span class='scene-font-4'>究极形态！！</span>
+25,メカサイコヴィーラ Mk.II,目標ノ接近ヲ確認……,确认到目标接近……
+26,メカサイコヴィーラ Mk.II,残エネルギー・動力炉ニ集積……<br>コレヨリ自爆ヲ実行スル。,将残存能量・于动力炉集中……<br>即将开始自爆。
+27,ローアイン/罗艾因,……えっ……ちょ待っ……,……诶……等下……
+28,メカサイコヴィーラ Mk.II,<span class='scene-font-4'>キュイイイイィィィン……！</span>,<span class='scene-font-4'>咻——————……！</span>
+29,３人,<span class='scene-font-4'>うわああああぁぁぁぁっ！？</span>,<span class='scene-font-4'>哇啊啊啊啊啊啊啊！？</span>
+36,花屋の店員,なにかお探しですか？,有什么在找的东西吗？
+37,ヴィーラ/维拉,ええ、帰る途中だったのですが、<br>大切な人への贈り物に<br>たまにはお花などどうかと思いまして。,嗯、在回去的路上看到了，<br>就想着偶尔给珍爱的人送点花<br>作为礼物。
+38,,<span class='scene-font-katari'>ヴィーラは店先で</span><br><span class='scene-font-katari'>カタリナを想いながら花を選ぶ。</span>,<span class='scene-font-katari'>维拉在店门口</span><br><span class='scene-font-katari'>一边思念卡塔丽娜一边挑选着花。</span>
+39,,<span class='scene-font-katari'>一方、そこから距離を置いた物陰で</span><br><span class='scene-font-katari'>ローアイン達は力なくうなだれていた。</span>,<span class='scene-font-katari'>另一方面，在稍微有些距离的阴影里</span><br><span class='scene-font-katari'>罗艾因他们无力地垂着头。</span>
+40,ローアイン/罗艾因,都合よくシミュっても<br>最終的にヴィーラちゃんにやられっし、<br>上手くいかねーなコレ……,就算尽可能地进行模拟<br>最终还是会被维拉干掉，<br>还真是没法顺利啊……
+41,エルセム/艾尔塞姆,つかどんだけアピっても最終的には<br>キャタリナさんと比べられるわけだし？<br>そりゃリームーだわ……,而且就算再怎么表现<br>最终还是会被拿去和卡塔丽娜比吧？<br>那肯定没戏啊……
+42,エルセム/艾尔塞姆,さっきのターくんは<br>どちゃくそカッコよかったけどな。,虽然刚才的小泰<br>真心是帅爆了啊。
+43,トモイ/托莫伊,ま、結局それも妄想的な？<br>ターくんが実際あれぐらい饒舌系なら<br>ワンチャンあるだろうけどよ……,嘛、结果那也是妄想之类的？<br>要是小泰真有那么能说会道<br>说不定还有机会就是了……
+44,タイアー/泰亚,ヴィヴィ……ヴィーラ様に対して<br>あのような話しぶりは……<br>その……自信が……,对对对……对维拉大人<br>使用那种说话方式……<br>那个……在下没什么自信……
+45,ローアイン/罗艾因,ですよねー……,说的也是ー……
+46,ヴィーラ/维拉,そこでなにをしているのです？,你们在那里做什么？
+47,ローアイン/罗艾因,へばっ！？,呜哇！？
+48,,<span class='scene-font-katari'>ローアイン達に気づいたヴィーラが</span><br><span class='scene-font-katari'>買ったばかりの花束を抱えて</span><br><span class='scene-font-katari'>ゆっくりと近寄ってきた。</span>,<span class='scene-font-katari'>察觉到罗艾因一行的维拉</span><br><span class='scene-font-katari'>抱着刚买的花束</span><br><span class='scene-font-katari'>缓缓走了过来。</span>
+49,エルセム/艾尔塞姆,ち、ち～っす……,你、你好～……
+50,トモイ/托莫伊,お疲れ様です……,辛苦了……
+51,タイアー/泰亚,ヴィヴィ、ヴィヴィ……！,维维、维维……！
+57,,<span class='scene-font-katari'>動揺する４人など気にも留めず、</span><br><span class='scene-font-katari'>ヴィーラは彼らと共に歩き出した。</span>,<span class='scene-font-katari'>毫不在意动摇的４人，</span><br><span class='scene-font-katari'>维拉和他们一起走了起来。</span>
+58,ローアイン/罗艾因,ヴィーラちゃん、<br>今日なにしてたんスか……？,维拉，<br>今天都做了些什么啊……？
+59,ヴィーラ/维拉,領主時代の知人が<br>この街に住んでいまして、<br>その方のお宅にお邪魔していました。,有位领主时期的友人<br>住在这条街上，<br>我就去拜访了。
+60,ヴィーラ/维拉,みなさんはなにを？<br>４人で過ごされていたんですか？,大家都做了什么？<br>４人一起度过的吗？
+61,ローアイン/罗艾因,俺らはまぁ……散歩ッスかね……,我们……大概是散步吧……
+62,ヴィーラ/维拉,……散歩、ですか。<br>日がな一日、この街を？,……散步、吗。<br>在这条街上从早到晚？
+63,トモイ/托莫伊,そッスね……<br>ランチしたり、お茶したり、<br>グラサイメンツにたまたま会ったり？,是啊……<br>还有吃午饭，喝喝茶，<br>偶见遇见个格兰塞法的同伴？
+64,エルセム/艾尔塞姆,ぶら～っとしてたよな？,就是悠悠哉哉的感觉吧？
+65,エルセム/艾尔塞姆,……あっ！　しくった……,……啊！　完蛋了……
+66,ローアイン/罗艾因,エルっち、Ｄｏした？,艾尔亲，怎么了？
+67,エルセム/艾尔塞姆,キラキラ☆アルビオン学園！<br>ルナさんに聞いてもらうの<br>忘れてたべ！？,亮闪闪☆阿尔比昂学园！<br>忘记去问<br>露娜了！？
+68,ヴィーラ/维拉,<span class='scene-font-place'>アルビオン</span>がどうかしたのですか？,<span class='scene-font-place'>阿尔比昂</span>怎么了吗？
+69,エルセム/艾尔塞姆,いや、実はグラサイメンツを──,啊不是，其实是格兰塞法的同伴──
+70,トモイ/托莫伊,ちょ待てよ、エルっち！<br>メンディーことになっから！,等等，艾尔亲！<br>事情会变麻烦的！
+71,ローアイン/罗艾因,さすがにそれはちょづきすぎだべ！,再怎么说那也太唐突了吧！
+72,ヴィーラ/维拉,……？　よくわかりませんが、<br>あまり騒ぐと<br>街の方の迷惑になりますよ。,……？　虽然不是太懂，<br>不过要是太吵闹了<br>会给街上的大家添麻烦的哟。
+73,３人,…………,…………
+74,ローアイン/罗艾因,<span class='scene-font-kokoro'>（ヴィーラちゃん、</span><br><span class='scene-font-kokoro'>なんか機嫌よくね？）</span>,<span class='scene-font-kokoro'>（维拉</span><br><span class='scene-font-kokoro'>好像心情挺不错的？）</span>
+75,エルセム/艾尔塞姆,<span class='scene-font-kokoro'>（やべぇ……</span><br><span class='scene-font-kokoro'>なんか謎のうれしみある……）</span>,<span class='scene-font-kokoro'>（不好……</span><br><span class='scene-font-kokoro'>感到谜之高兴……）</span>
+76,トモイ/托莫伊,<span class='scene-font-kokoro'>（なんだろ、この気持ち……</span><br><span class='scene-font-kokoro'>あったけぇな……）</span>,<span class='scene-font-kokoro'>（怎么回事，这份心情……</span><br><span class='scene-font-kokoro'>好温暖啊……）</span>
+77,ローアイン/罗艾因,ヴィーラちゃん……あざッス。<br>俺、勘違いしてたみてーで……,维拉……多谢了。<br>我好像误会了……
+78,ヴィーラ/维拉,……？<br>なんのことですか？,……？<br>你指什么？
+79,ローアイン/罗艾因,わかんなくていいんス……<br>ただちょっと、Ｄｏしても、<br>礼言いたくなった系のアレで。,请不用太在意……<br>只是无论如何<br>都想要道声谢。
+80,ローアイン/罗艾因,なんつーか……<br>マジ基本的なことなんスけど、<br>仲間ってこと考えるべきでした。,怎么说呢……<br>虽然真的是非常基础的事情，<br>不过真的应该好好考虑互为同伴这件事的。
+81,ローアイン/罗艾因,<span class='scene-font-kokoro'>（エルっち、トモちゃん、</span><br><span class='scene-font-kokoro'>なんか……コミュ力とかこだわんの</span><br><span class='scene-font-kokoro'>くだらねぇ的感じかもしんねぇ……）</span>,<span class='scene-font-kokoro'>（艾尔亲、托莫、</span><br><span class='scene-font-kokoro'>感觉……拘泥于交流力什么的</span><br><span class='scene-font-kokoro'>可能挺无聊的……）</span>
+82,エルセム/艾尔塞姆,<span class='scene-font-kokoro'>（だな。んなこと考えず、</span><br><span class='scene-font-kokoro'>ありのままでいつだって</span><br><span class='scene-font-kokoro'>腹割って話せるっしょ！）</span>,<span class='scene-font-kokoro'>（是啊。就算不考虑那些，</span><br><span class='scene-font-kokoro'>不论何时都能剖心置腹地</span><br><span class='scene-font-kokoro'>好好交谈的！）</span>
+83,トモイ/托莫伊,<span class='scene-font-kokoro'>（だって俺達……）</span>,<span class='scene-font-kokoro'>（因为我们……）</span>
+84,３人,<span class='scene-font-kokoro'>（グラサイ仲間だしな！）</span>,<span class='scene-font-kokoro'>（可是格兰塞法上的同伴啊！）</span>
+85,３人,<span class='scene-font-5'>ウェーイ！</span>,<span class='scene-font-5'>Weeeeeeey！</span>
+86,ヴィーラ/维拉,プッ……なんですか？　突然……,呵呵……什么啊？　突然……
+90,,<span class='scene-font-katari'>カタリナに恋焦がれるあまり</span><br><span class='scene-font-katari'>ローアインはいつしか</span><br><span class='scene-font-katari'>コミュ力という言葉に囚われ──</span>,<span class='scene-font-katari'>过于醉心于卡塔丽娜</span><br><span class='scene-font-katari'>罗艾因不知何时</span><br><span class='scene-font-katari'>被束缚在了交流力这一词语中──</span>
+91,,<span class='scene-font-katari'>大切な人が長い旅路を共にする</span><br><span class='scene-font-katari'>仲間でもあることを</span><br><span class='scene-font-katari'>忘れてしまっていたのだ。</span>,<span class='scene-font-katari'>重要之人同时也是</span><br><span class='scene-font-katari'>一起进行旅途的同伴，</span><br><span class='scene-font-katari'>就连这点也忘记了。</span>
+92,,<span class='scene-font-katari'>それを思い出させてくれたのは</span><br><span class='scene-font-katari'>他でもない、ヴィーラである。</span>,<span class='scene-font-katari'>而让自己回想起这点的不是别人，</span><br><span class='scene-font-katari'>正是维拉。</span>
+93,,<span class='scene-font-katari'>だが──</span>,<span class='scene-font-katari'>然而──</span>
+94,タイアー/泰亚,…………,…………
+95,ローアイン/罗艾因,……あ！？,……啊！？
+96,タイアー/泰亚,<span class='scene-font-kokoro'>（なるほど！</span><br><span class='scene-font-kokoro'>いまこの時が、シミュレーションを</span><br><span class='scene-font-kokoro'>活かす時なのですね……！)</span>,<span class='scene-font-kokoro'>（原来如此！</span><br><span class='scene-font-kokoro'>现在正式活用</span><br><span class='scene-font-kokoro'>模拟的时候对吧……！)</span>
+97,タイアー/泰亚,<span class='scene-font-kokoro'>（まずは髪をボサボサにして、と……）</span>,<span class='scene-font-kokoro'>（首先是把头发给弄乱……）</span>
+98,エルセム/艾尔塞姆,<span class='scene-font-kokoro'>（いや、無理無理無理無理ッ！）</span>,<span class='scene-font-kokoro'>（不、不对不对不对！）</span>
+99,トモイ/托莫伊,<span class='scene-font-kokoro'>（もうそういう空気じゃないっしょ！）</span>,<span class='scene-font-kokoro'>（现在已经不是那种气氛了吧！）</span>
+101,タイアー/泰亚,<span class='scene-font-kokoro'>（はい、心得ておりますッ！</span><br><span class='scene-font-kokoro'>大切なのはギャップ、ですねッ！</span><br><span class='scene-font-kokoro'>ありがとうございます！　いきます！）</span>,<span class='scene-font-kokoro'>（是，在下明白的！</span><br><span class='scene-font-kokoro'>关键在于反差对吧！</span><br><span class='scene-font-kokoro'>谢谢各位！　我上了！）</span>
+102,ローアイン/罗艾因,<span class='scene-font-kokoro'>（っべーぞ……わかってねぇ！！</span><br><span class='scene-font-kokoro'>ターくんにぴくちり伝わってねえ！）</span>,<span class='scene-font-kokoro'>（不妙啊……他根本没弄懂！！</span><br><span class='scene-font-kokoro'>完全没能传达给小泰！）</span>
+103,,<span class='scene-font-katari'>そして意気込んだタイアーが</span><br><span class='scene-font-katari'>ヴィーラに声をかけようとしたところを</span><br><span class='scene-font-katari'>ローアイン達は慌てて制止した。</span>,<span class='scene-font-katari'>于是罗艾因他们</span><br><span class='scene-font-katari'>慌忙阻止了鼓足干劲</span><br><span class='scene-font-katari'>正要向维拉搭话的泰亚。</span>
+104,ローアイン/罗艾因,ターくん、とりま落ち着けし！,小泰，总之先冷静！
+105,タイアー/泰亚,で、ですが……,可、可是……
+107,ヴィーラ/维拉,タイアー、その姿は……,泰亚，你那副样子是……
+108,タイアー/泰亚,<span class='scene-font-4'>っ！？</span><br>あの、こここ、これは、その……,<span class='scene-font-4'>！？</span><br>那个、这这这、这是、那个……
+109,タイアー/泰亚,きき、騎空士としての研鑽を積むため<br>よ、読むべき本を<br>教えていただければと……,为了在骑空士的道路上更进一步<br>希、希望您能推荐一些<br>值得一看的书……
+110,,<span class='scene-font-katari'>思わずシミュレーションでの会話を</span><br><span class='scene-font-katari'>タイアーは口走ってしまうが──</span>,<span class='scene-font-katari'>泰亚一不小心就把模拟时的对话</span><br><span class='scene-font-katari'>说出了口──</span>
+111,ヴィーラ/维拉,成程。……それでしたら、<br>私がよく通う本屋があるので<br>後日にでも一緒に──,原来如此。……既然是这样的话，<br>我有间经常去的书店<br>改天一起去吧──
+112,タイアー/泰亚,……っ！！,……！！
+113,３人,<span class='scene-font-kokoro'>（デートはワンチャンありか！？）</span>,<span class='scene-font-kokoro'>（难道约会有戏吗！？）</span>
+114,ヴィーラ/维拉,一緒に行ってきてはいかがですか？<br>貴方達で。<br>場所を教えますから、次の休暇にでも。,不如一起去吧？<br>和各位一起。<br>我会把地址告诉你们的，比如下个休假如何。
+115,３人,<span class='scene-font-kokoro'>（ですよねー……）</span>,<span class='scene-font-kokoro'>（就是说嘛ー……）</span>
+116,タイアー/泰亚,…………！,…………！
+117,タイアー/泰亚,あ、ありがとうございますッ！<br>先輩方と一緒に行ってまいります！,非、非常感谢！<br>我会和前辈们一起去的！
+118,ヴィーラ/维拉,そんなに力んで<br>返事をする必要が？,有必要回复得<br>这么用力吗？
+119,タイアー/泰亚,はッ！<br>失礼しましたッ！,是！<br>失礼了！
+120,ローアイン/罗艾因,<span class='scene-font-kokoro'>（へへっ、ターくん、</span><br><span class='scene-font-kokoro'>なんだかんだ</span><br><span class='scene-font-kokoro'>ヴィーラちゃんと話せてんじゃん）</span>,<span class='scene-font-kokoro'>（嘿嘿、小泰，</span><br><span class='scene-font-kokoro'>结果到头来</span><br><span class='scene-font-kokoro'>还是好好和维拉说上话了嘛）</span>
+121,,<span class='scene-font-katari'>そして他愛もない話をしながら</span><br><span class='scene-font-katari'>ローアイン達はヴィーラと共に</span><br><span class='scene-font-katari'>仲間達の集う艇へと戻っていく。</span>,<span class='scene-font-katari'>于是众人聊着些琐碎的话题，</span><br><span class='scene-font-katari'>一起回到了</span><br><span class='scene-font-katari'>伙伴们聚集着的骑空艇上。</span>
+122,,<span class='scene-font-katari'>こうして騎空団の久しぶりの休日は</span><br><span class='scene-font-katari'>ゆるやかに幕を閉じていった。</span>,<span class='scene-font-katari'>就这样，骑空团久违的休假</span><br><span class='scene-font-katari'>缓缓拉下了帷幕。</span>
+130,,<span class='scene-font-katari'>そして翌日──</span>,<span class='scene-font-katari'>第二天──</span>
+131,ローアイン/罗艾因,…………,…………
+133,エルセム/艾尔塞姆,おーい！　ローアイン～！<br>そろそろ艇出るってよ～！,喂！　罗艾因～！<br>骑空团差不多要起飞了～！
+134,ローアイン/罗艾因,りょ。,了解。
+135,トモイ/托莫伊,なに黄昏てんだ～？,你在惆怅个什么劲啊～？
+136,ローアイン/罗艾因,バーカ。そんなんじゃねーわ。<br>今回もいろいろ楽しんだべ？<br>思い出してただけだっつーの。,笨蛋。不是那样啦。<br>这回也发生了不少愉快的事情吧？<br>我只是回想起来了罢了。
+137,エルセム/艾尔塞姆,あー……それな。<br>散歩しただけなのに<br>やたら濃かった気ぃするわ。,啊ー……没错。<br>明明只是散个步而已<br>却格外充实。
+138,トモイ/托莫伊,Ｄｏ感。<br>ま、でも？　退屈はしなかったべ。,同感。<br>嘛、不过？　也一点都不无聊。
+139,ローアイン/罗艾因,ああ、だからまた来ようぜ。<br>突発的に<span class='scene-font-place'>ポート・ブリーズ</span>に！,啊啊、所以下次还来吧。<br>突然到<span class='scene-font-place'>波托・布利斯</span>来！
+144,,<span class='scene-font-katari'>港を発つ艇の甲板から</span><br><span class='scene-font-katari'>小さくなっていく</span><span class='scene-font-place'>ポート・ブリーズ</span><span class='scene-font-katari'>を</span><br><span class='scene-font-katari'>彼らは名残惜しそうに眺めていた。</span>,<span class='scene-font-katari'>他们在离开港口的飞艇甲板上</span><br><span class='scene-font-katari'>依依不舍地望着</span><span class='scene-font-place'>波托・布利斯</span><span class='scene-font-katari'>岛</span><br><span class='scene-font-katari'>不断变小。</span>
+145,,<span class='scene-font-katari'>今日から過酷な旅がふたたび始まる。</span><br><span class='scene-font-katari'>けれども、その向こうには</span><br><span class='scene-font-katari'>また新たな休暇が待っているのだ。</span>,<span class='scene-font-katari'>从今天起残酷的旅途又将开始。</span><br><span class='scene-font-katari'>然而，同时在那前方</span><br><span class='scene-font-katari'>也有新的休假在等待着。</span>
+146,,<span class='scene-font-katari'>だからいまは、やがて来るその日が</span><br><span class='scene-font-katari'>素敵なものになることを夢見て……</span>,<span class='scene-font-katari'>所以现在才会梦想着终将到来的那天</span><br><span class='scene-font-katari'>会是场美好的经历……</span>
+152,,<span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　　　　　　　　　　　　　　　──完</span>,<span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　　　　　　　　　　　　　　　──完</span>
+info,,,scene_evt190331_cp0_q2_s10

@@ -1,0 +1,66 @@
+id,name,text,trans
+0-chapter_name,,第3話 だらけ～の,慵懒的对话
+0-synopsis,,店を出たローアイン達が歩いていると、とある喫茶店にルナールの姿を見つける。エルセムが先程の妄想を評価してもらおうと閃き、店に入る一同。しかしルナールが絵物語の作業に集中している様子のため、一同はひとまず別の席に着く。ルナールの普段と異なる生活感ある服装から、一同は艇の奥にあると噂の男子禁制の女子部屋について妄想を始めるのだった。,从店里出来的罗艾因一行，走在路上在一家咖啡店中看到了露娜露的身影。艾尔塞姆突发奇想，想让她评评诸人刚才的妄想，于是一行人一起进了店里。但露娜露看起来正在集中精神画连环画，于是众人暂时找了别的位置坐下了。看着露娜露一身与平时不同，充满生活气息的着装，一行人不禁联想起骑空艇内部那间传闻中男人禁入的女生房间，一时脑洞大开。
+15,,<span class='scene-font-katari'>今日は騎空団の休暇日。</span><br><span class='scene-font-katari'>ローアイン達はタイアーを連れ、</span><br><span class='scene-font-katari'>ご機嫌な一日を過ごしていた。</span>,<span class='scene-font-katari'>今天是骑空团的假日。</span><br><span class='scene-font-katari'>罗艾因一行带着泰亚，</span><br><span class='scene-font-katari'>度过了愉快的一天。</span>
+16,,<span class='scene-font-katari'>ふらり立ち寄った店でランチを終え、</span><br><span class='scene-font-katari'>４人はゆくあてなどない</span><br><span class='scene-font-katari'>気ままな散歩を始めるが──</span>,<span class='scene-font-katari'>悠哉的在附近的店里吃完午饭后、</span><br><span class='scene-font-katari'>四人漫无目的</span><br><span class='scene-font-katari'>正随性散着步时──</span>
+18,エルセム/艾尔塞姆,けっこうツバサくん達とも<br>上手くやってけそーじゃね？,和翼那伙人<br>感觉好像挺处的来？
+19,トモイ/托莫伊,それな。<br>案外いいヤツら的な。,倒是。<br>没想到是群不错的家伙。
+20,ローアイン/罗艾因,ちょ、話の途中いーすか？<br>シーメー食ったばっかだけど、<br>コ～シ～でも飲んでチルしね？,喂，插句话<br>虽然刚吃完米饭，<br>要不要喝杯咖啡放松下？
+21,エルセム/艾尔塞姆,いいＮＥ！<br>ランチとはいえ、なんかしらんけど<br>体力使った感あるわ。,好诶！<br>虽然吃了午饭，但不知怎么的<br>花了不少体力了。
+22,タイアー/泰亚,それでしたら、<br>あちらの喫茶店はいかがでしょう？,那样的话，<br>那家咖啡店怎么样？
+23,,<span class='scene-font-katari'>タイアーが指差した喫茶店を見て</span><br><span class='scene-font-katari'>エルセムが目を細めた。</span>,<span class='scene-font-katari'>看着泰亚指着的店</span><br><span class='scene-font-katari'>艾尔塞姆眯起了眼。</span>
+24,エルセム/艾尔塞姆,あの窓際にちらっと見えんの……<br>ルナールプロじゃね？,仔细一看，那个窗口……<br>不是露娜露大师吗？
+25,ローアイン/罗艾因,ほんとだ……<br>なんか描いてるけど、例のアレか？<br>絵物語。,真的欸……<br>好像在画画，还是那个吧？<br>连环画。
+26,,<span class='scene-font-katari'>絵物語とは、絵と文によって</span><br><span class='scene-font-katari'>物語を表現する書物のことである。</span>,<span class='scene-font-katari'>连环画是用画和文字</span><br><span class='scene-font-katari'>来讲述故事的书籍。</span>
+27,エルセム/艾尔塞姆,あ、ロマンシングに<br>閃いたかもしんね。,啊，有了<br>突然想到了。
+28,エルセム/艾尔塞姆,俺らのキラキラ☆アルビオン学園、<br>ルナールプロに<br>レビューしてもらわね？,咱们想的kirakira☆阿尔比昂学园，<br>让露娜露大师<br>评一评怎么样？
+29,ローアイン/罗艾因,…………？,…………？
+30,エルセム/艾尔塞姆,ほら、さっきのストーリーよ！<br>登場人物も多くてドラマチックだったし<br>プロの立場から評価聞いてみたくね？,就是，刚才的故事啦！！<br>登场人物又多，还很有戏剧性<br>不想听听专业人士的点评吗？
+31,ローアイン/罗艾因,<span class='scene-font-4'>ぶはははっ！</span><br>恥ずかしーし、いいよそんなん。,<span class='scene-font-4'>噗哈哈哈！</span><br>算了吧，好羞耻啊。
+32,トモイ/托莫伊,待て待て。<br>これはなしよりのありかもしんね。,等等等等。<br>要我看话，这样还是挺好的。
+33,エルセム/艾尔塞姆,だべ？　案外ウケるかもしんねーぞ？<br>したら、キャタリナさんとの<br>会話のネタにも使えたりすんじゃね？,对吧？　挺有趣的也说不定<br>这事以后还能和卡塔莉娜<br>当谈资不是？
+34,ローアイン/罗艾因,そんな使い方あり？<br>その発想はなかった的な……,还有这操作？<br>这想法还没有过呐……
+35,トモイ/托莫伊,まだわかんねーけど、<br>聞いてみるだけなら損じゃねー的な？,虽然不太明白，<br>问问也没什么损失不是？
+36,エルセム/艾尔塞姆,決まったな。<br>そんじゃ、邪魔しないよう様子見つつ<br>隙みて聞いてもらおうぜ！,那就定了。<br>那就尽量别打扰她<br>找个空当问问她吧！
+37,,<span class='scene-font-katari'>これまで続けてきた妄想を</span><br><span class='scene-font-katari'>ルナールに評価してもらうという</span><br><span class='scene-font-katari'>算段をローアイン達は立てるが──</span>,<span class='scene-font-katari'>把至今为止的妄想</span><br><span class='scene-font-katari'>让露娜露来评价这样一个打算</span><br><span class='scene-font-katari'>就在罗艾因等人的筹划下开始了──</span>
+40,エルセム/艾尔塞姆,えーっと、ルナールプロの席は……,我看看，露娜露大师坐在……
+41,ルナール/露娜露,<span class='scene-font-4'>ふん……ふむむむむむ……！</span>,<span class='scene-font-4'>唔嗯……唔姆姆姆姆姆！</span>
+42,,<span class='scene-font-katari'>そこにはとてつもない勢いで</span><br><span class='scene-font-katari'>１枚の紙に幾重もの線を描いていく</span><br><span class='scene-font-katari'>ルナールの鬼気迫る姿があった。</span>,<span class='scene-font-katari'>在那里有着正以惊人的气势</span><br><span class='scene-font-katari'>极度认真地在一张纸上来来回回画着线条</span><br><span class='scene-font-katari'>的露娜露其人。</span>
+43,ローアイン/罗艾因,<span class='scene-font-2'>っべーぞ、エルっち……</span><br><span class='scene-font-2'>声かけられる雰囲気じゃなくね？</span><br><span class='scene-font-2'>とりま別の席で落ち着くべ……</span>,<span class='scene-font-2'>厉害啊，小露娜……</span><br><span class='scene-font-2'>这气氛搭不上话吧？</span><br><span class='scene-font-2'>先坐别的位置……</span>
+45,,<span class='scene-font-katari'>ローアイン達は離れた席に腰かけ、</span><br><span class='scene-font-katari'>遠くからルナールを眺めながら</span><br><span class='scene-font-katari'>ひとまず休憩をとることにした。</span>,<span class='scene-font-katari'>罗艾因等人坐在远处的座位，</span><br><span class='scene-font-katari'>远远望着露娜露</span><br><span class='scene-font-katari'>休息了一会儿。</span>
+46,ローアイン/罗艾因,つか、あのカッコで<br>サテン来てるってことは<br>原稿テンパってる感じかもな……,我说，那副打扮<br>来咖啡店什么的<br>感觉是被原稿忙晕了吧……
+47,エルセム/艾尔塞姆,あれってやっぱおこたみの活動なわけ？,应该是おこたみ（OKOTAMI，喜欢被炉的人们）的活动导致的吧。
+48,,<span class='scene-font-katari'>おこたみとはルナールを中心とした</span><br><span class='scene-font-katari'>耽美モノの絵物語を作成する</span><br><span class='scene-font-katari'>グループの名前である。</span>,<span class='scene-font-katari'>OKOTAMI是以露娜露为中心</span><br><span class='scene-font-katari'>绘制耽美连环画</span><br><span class='scene-font-katari'>的团体名称。</span>
+49,,<span class='scene-font-katari'>知を尊ぶスフィリアという王国では</span><br><span class='scene-font-katari'>文化・芸術活動の一環として時おり、</span><br><span class='scene-font-katari'>絵物語の『見本市』が開催されている。</span>,<span class='scene-font-katari'>在尊崇知识的スフィリア（Sphilia）王国里</span><br><span class='scene-font-katari'>作为文化艺术活动的一环、</span><br><span class='scene-font-katari'>会举办连环画的集会。</span>
+50,,<span class='scene-font-katari'>彼女の作品はその見本市の審査を通り、</span><br><span class='scene-font-katari'>以前、出展することが決まったのだが、</span><br><span class='scene-font-katari'>幾多の困難に立ち向かうことに──</span>,<span class='scene-font-katari'>以前，她的作品通过了这个集会的审查，</span><br><span class='scene-font-katari'>决定要展出时</span><br><span class='scene-font-katari'>面临很多的困难──</span>
+51,,<span class='scene-font-katari'>どうにか無事に出展を叶えた彼女は</span><br><span class='scene-font-katari'>支えてくれた仲間への感謝の意を込め、</span><br><span class='scene-font-katari'>自分達をおこたみと名づけたのである。</span>,<span class='scene-font-katari'>最终顺利出展的她们</span><br><span class='scene-font-katari'>同时也包含着对支持她们的伙伴们的感谢，</span><br><span class='scene-font-katari'>给自己取了OKOTAMI这个名字。</span>
+52,ローアイン/罗艾因,そりゃそーだべ？<br>あーゆークリエイティブっつーの？<br>わりかしガチめにリスペクトだわ。,那不肯定的嘛？<br>对于这种创作的工作？<br>我还是真心比较尊敬的。
+53,トモイ/托莫伊,Ｄｏ感。<br>俺らに出来ないこと出来るって<br>マジスゲーわ。,我Ye是。<br>能做到我们做不到的事<br>真的是厉害。
+54,ローアイン/罗艾因,おこたみって語感もいいよな。<br>絵も話もルナールプロがやってるのを<br>みんなでバックアップする感じ？,OKOTAMI这名字听起来也不错。<br>露娜露老师负责画画和故事<br>然后大家一起支持她的感觉？
+55,タイアー/泰亚,この間の見本市の直前に、<br>原稿を拾い集めた際は<br>団に一体感が生まれましたね！,之前集会临近时，<br>大家一起收集原稿的时候<br>骑空团都团结起来了呢！
+56,ローアイン/罗艾因,あったあった。,有的有的。
+57,ローアイン/罗艾因,って、……エルっち。<br>おめ、なにルナさんガン見してんの？,我说，……艾尔。<br>你、干嘛死盯着露娜看？
+58,エルセム/艾尔塞姆,いや、なんつーか……<br>これここだけの話よ？<br>あの館詰用の服ってなんか良くね？,不是，怎么说呢……<br>别说出去哦？<br>这身赶稿用的衣服好像挺不错的？
+59,トモイ/托莫伊,あー、それな。<br>わかりみあるわ。<br>生活感あるっつーかぁ～？,啊，那个啊。<br>我能理解。<br>有生活气息之类的～？
+60,ローアイン/罗艾因,ふだんとのギャップっつーかぁ～？,和平时衣着的反差感什么的～？
+61,エルセム/艾尔塞姆,オフのちょっと油断した感じの服とか<br>なんつーか……聖域？,闲下来的时候穿着不那么谨慎<br>怎么说呢……圣域？
+62,３人,<span class='scene-font-4'>わかりみー！</span>,<span class='scene-font-4'>理解ー！</span>
+63,ローアイン/罗艾因,つか、キャタリナさん達も<br>ずっとあのカッコってわけねーし、<br>寝づれーし、どこで着替えてんのかな。,说起来，卡塔莉娜她们也<br>总不可能一直那副打扮，<br>穿着也不好睡，得到哪去换衣服的吧。
+64,エルセム/艾尔塞姆,リラックスした服に？<br>一度も見たことねーけど、<br>どこで過ごしてんだろ？,换成休闲服？<br>见都没见过哦，<br>穿这衣服到哪去了？
+65,トモイ/托莫伊,これ、グラサイ七不思議の<br>ひとつにカウントな。<br>艇の中にあるって聞いたことあんのよ。,这个啊，是格兰赛法的七大不可思议<br>的其中之一。<br>听说是在船的某处有这么个地方。
+66,トモイ/托莫伊,……男子禁制の女子部屋が！,……男人禁入的女生房间啊！
+67,２人,<span class='scene-font-4'>女子部屋！？</span>,<span class='scene-font-4'>女生房间！？</span>
+68,エルセム/艾尔塞姆,それパワーワードっつーか……<br>いや、なんつーか別の……<br>なんかヤバイヤツだそれ！,真是强力的词汇……<br>不是，怎么说，是别的……<br>总之那是有些不妙的东西！
+69,トモイ/托莫伊,あぁ……ぐあああ！！<br>マズイ……なんつーかこう……<br>失った青春の鼓動っつーか……,啊……噢噢噢！！<br>不妙……怎么说呢……<br>已经逝去的青春的躁动什么的……
+70,トモイ/托莫伊,ひりひりする緊張感が……<br>想像するだけで……<br>こう、疼くっつーか……,紧张导致的刺痛感……<br>光是想象都……<br>会这样，痛起来……
+71,ローアイン/罗艾因,まぁ実際にあんじゃね？<br>無いと不便だろうし、なんだかんだ<br>そういうとこで休む必要あるっしょ。,嘛，实际是那样吧？<br>没有的话会不方便，这样那样的<br>就是需要这样一个休息的地方。
+72,エルセム/艾尔塞姆,じゃ、そこで休んでんの？<br>ま、いつもメイクとか頑張ってっし、<br>服もキレイめだし、女子って大変だべ。,就，在那休息吗？<br>嘛，一直要化妆，<br>衣服也要干干净净，女孩子也很辛苦啊。
+73,トモイ/托莫伊,それな。今朝ターくん誘った時も<br>言った気ぃすっけど、<br>息抜きってマジ大事よ？,说到这。今早去找泰亚的时候<br>说了才意识到的，<br>放松也很重要哦？
+74,タイアー/泰亚,そうですね……<br>皆様には無理せず、メイク？　などを<br>楽しんでいただきたいものです。,说得是呢……<br>希望大家都别太勉强的去，化妆？　之类的<br>能开心点的话就好了。
+75,タイアー/泰亚,やはり、おひとりおひとり<br>お召し物やお化粧には<br>こだわりがあるのでしょうし……,果然，每个人<br>对吃的呀化妆呀<br>有自己坚持的地方……
+76,タイアー/泰亚,旅が大変だからといって、<br>こだわりを手放すのは<br>寂しいことですから。,因为旅行很艰苦，<br>就放弃这些坚持的话<br>还是有些寂寞啊。
+77,エルセム/艾尔塞姆,いいこと言う！　こだわりマジ重要！<br>ま、だからこそ疲れっし、<br>休んでほしいって話なのよ。,说的对！　坚持很重要！<br>嘛，所以才会累啊，<br>所以才会想要休息啊。
+78,タイアー/泰亚,おっしゃる通りです！,正如你说的那样。
+79,ローアイン/罗艾因,その女子部屋で<br>ゆっくり休んでくれてっと<br>いいけどな～……,在女生房间里<br>能悠哉地休息的话<br>就好了～……
+info,,,scene_evt190331_cp3_q1_s10
+备注,,,翻译：KoalaSheep
