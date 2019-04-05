@@ -1,0 +1,25 @@
+id,name,text,trans
+0-synopsis,,トレジャーを使い、『グローブ・オブ・ウリエル』を鍛え上げる姬塔。シェロカルテはそれを見て、この武器はまだまだ鍛え上げられると嬉しそうに話す。その夜、ウリエルにより姬塔は再び異空間へ誘われる。そこでウリエルは、武器の真の力を引き出すためにも、姬塔にもっと強くなるよう告げるのだった。,姬塔使用素材强化了『乌列尔之拳套』，将其展示给了榭洛科特，开心地谈论关于继续强化的事情。当晚，姬塔再度被乌列尔引入了异空间。在那里，乌列尔告知姬塔，为了引出武器真正的力量，姬塔必须变得更强。
+0,シェロカルテ/榭洛科特,しかし、土属性のトレジャーを使って<br>この武器をさらに鍛えようなんて<br>姬塔さんは流石ですね～,不过，姬塔还真是厉害呢~<br>居然能用土属性的素材强化这把武器~
+1,ビィ/碧,へへっ！<br>この武器がどこまで凄くなるのか<br>オイラもワクワクしてきたぜ！,嘿嘿！<br>这把武器究竟能到达什么程度，<br>我们满怀期待呢！
+2,ルリア/露莉亚,そうですね！<br>綺麗で、かっこよくって、<br>どんどん素敵になっていきます！,没错！<br>又美丽，又帅气，变得越来越强！
+3,シェロカルテ/榭洛科特,この調子ですと～<br>難易度はあがりそうですが、<br>まだまだ鍛えられそうですね～,就是这样~<br>虽然难度会渐渐增大，不过还能继续强化下去的样子~
+4,シェロカルテ/榭洛科特,あぁ～！　こんな業物を<br>お譲りしちゃって私は本当に<br>よかったんでしょうか～！,啊啊~！<br>我把这么厉害的东西转让出去真的好吗~！
+5,ビィ/碧,へへっ！　冒険の役に<br>立ってるんだから、今更<br>返せってのはナシだぜ！,嘿嘿！它在冒险里能派上大用场，<br>事到如今不会再还给你咯！
+6,ルリア/露莉亚,ふふっ、そうですね！,呵呵，说得对呢！
+7,,<span class='scene-font-katari'>姬塔は強化された武器から、</span><br><span class='scene-font-katari'>これまで以上の輝きと漲る属性の力を</span><br><span class='scene-font-katari'>ひしひしと感じるのだった。</span>,<span class='scene-font-katari'>从强化之后的武器身上，</span><br><span class='scene-font-katari'>姬塔感受到了扑面而来的属性之力</span><br><span class='scene-font-katari'>与从未有过的光辉。</span>
+14,？？？,<span class='scene-font-gray'>よぉ、起きろ。</span>,<span class='scene-font-gray'>哟，快起来。</span>
+15,,<span class='scene-font-katari'>その夜、眠りについた姬塔を</span><br><span class='scene-font-katari'>呼び覚ますかのように、何者かの声が</span><br><span class='scene-font-katari'>響き渡ると──</span>,<span class='scene-font-katari'当晚，一阵呼唤的声音在姬塔耳边响起——</span>
+22,,<span class='scene-font-katari'>姬塔は再び、</span><br><span class='scene-font-katari'>ウリエルと出会った</span><br><span class='scene-font-katari'>真白な空間へと誘われた。</span>,<span class='scene-font-katari'>姬塔再次来到了曾与乌列尔相遇的</span><br><span class='scene-font-katari'>纯白的空间之中。</span>
+26,ウリエル/乌列尔,<span class='scene-font-gray'>お前、なかなか根性あるじゃねぇか。</span>,<span class='scene-font-gray'>你这家伙，还挺有毅力的嘛。</span>
+27,ウリエル/乌列尔,<span class='scene-font-gray'>けどよ、</span><br><span class='scene-font-gray'>これで満足してもらっちゃ困るぜ？</span>,<span class='scene-font-gray'>但是啊，</span><br><span class='scene-font-gray'>你要是这样就满足了，我可会很困扰啊？</span>
+28,ウリエル/乌列尔,<span class='scene-font-gray'>いいか？　その依代は、</span><br><span class='scene-font-gray'>まだ中途半端な未完成品って奴だ。</span><br><span class='scene-font-gray'>なんでか分かるか？</span>,<span class='scene-font-gray'>知道吗？</span><br><span class='scene-font-gray'>这个容器还只是个半吊子的未完成品。</span><br><span class='scene-font-gray'>你知道为什么吗？</span>
+29,ウリエル/乌列尔,<span class='scene-font-gray'>お前が力を引き出せてねぇんだよ……</span>,<span class='scene-font-gray'>因为你的力量还不够啊……</span>
+30,ウリエル/乌列尔,<span class='scene-font-gray'>混沌の波にのまれるって、言ったよな？　</span><br><span class='scene-font-gray'>そこから抜け出すには、</span><br><span class='scene-font-gray'>もっと強くならなくちゃいけねぇ。</span>,<span class='scene-font-gray'>我说过你会被混沌的浪潮淹没的吧？</span><br><span class='scene-font-gray'>为了从那种境地里逃脱，</span><br><span class='scene-font-gray'>你非得变得更强才行啊。</span>
+31,ウリエル/乌列尔,<span class='scene-font-gray'>クソほどに強くなって</span><br><span class='scene-font-gray'>大事なもん全部、守って見せろ！</span>,<span class='scene-font-gray'>给我强到令人厌恶的地步，</span><br><span class='scene-font-gray'>把重要的事物全部守护好啊！</span>
+31-sel1_txt,,<span class='scene-font-katari'>もっともっと強くなりたい……！</span>,<span class='scene-font-katari'>我想变得更强……！</span>
+32,ウリエル/乌列尔,<span class='scene-font-gray'>フン……焦るんじゃねぇよ。</span><br><span class='scene-font-gray'>お前がやる事はたったひとつだ。　</span><br><span class='scene-font-gray'>前を見据えて、じっくり進め。</span>,<span class='scene-font-gray'>哼……别着急啊。</span><br><span class='scene-font-gray'>你要做的事情只有一件，那就是</span><br><span class='scene-font-gray'>目视前方，慎重前进。</span>
+33,ウリエル/乌列尔,<span class='scene-font-gray'>俺が最後まで見届けてやるからよ。</span><br><span class='scene-font-gray'>手ぇ抜くんじゃねぇぞ？</span>,<span class='scene-font-gray'>我会一直看到最后，所以</span><br><span class='scene-font-gray'>可别偷懒哦？</span>
+36,,<span class='scene-font-katari'>ウリエルはそう発破をかけると、</span><br><span class='scene-font-katari'>大気を激しく震わせながら</span><br><span class='scene-font-katari'>その姿を消したのだった。</span>,<span class='scene-font-katari'>乌列尔大声鼓舞着姬塔，</span><br><span class='scene-font-katari'>随后伴随着大气的激烈震动，消失了踪影。</span>
+info,,,scene_seraphic03_03_ep1
+,,,留恋榴莲牛奶 暂译
