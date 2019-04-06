@@ -23,8 +23,8 @@ id,设计稿,text,trans
 23,ルナール/露娜露,<span class='scene-font-4'>アイディアが出ないの！</span>,<span class='scene-font-4'>没有灵感啊！</span>
 24,,<span class='scene-font-katari'>ルナールはそう叫び、</span><br><span class='scene-font-katari'>悲しみに溢れた顔をさらけ出した。</span>,<span class='scene-font-katari'>露娜露大声叫道，</span><br><span class='scene-font-katari'>一脸悲伤逆流成河的表情。</span>
 25,ローアイン/罗艾因,ルナさん、なんかあった？<br>とりま話聞くからオチケツ。,露娜，发生什么了吗？<br>先冷静下来说说看吧。
-26,ルナール/露娜露,うぅ……ありがどう……<br>今度、また絵物語の見本市があって<br>そこに出すネームを切ってたの……,唔……谢谢……<br>这次，又要举行连环画的集会了<br>得赶紧交漫画原稿了……
-27,エルセム/艾尔塞姆,ネームってなんだっけ？,交什么漫画原稿？
+26,ルナール/露娜露,うぅ……ありがどう……<br>今度、また絵物語の見本市があって<br>そこに出すネームを切ってたの……,唔……谢谢……<br>这次，又要举行连环画的集会了<br>得赶紧交原稿了……
+27,エルセム/艾尔塞姆,ネームってなんだっけ？,交什么原稿？
 28,トモイ/托莫伊,下描きみたいなやつだべ、たしか。<br>てか、また見本市あるんだ。,就是之前那个草稿一样的东西吧，记得是。<br>话说，这集会居然还在啊。
 29,ルナール/露娜露,えぇ……規模としては<br>前よりも小さめなんだけど……,嗯……规模上来说<br>比之前要小了很多虽然。
 30,ルナール/露娜露,ポポル・サーガに対するわたしの<br>新たな解釈を発表する<br>うってつけの場だと思うの……,不过很适合我关于《Popola Saga》<br>的新同人创作。
@@ -43,9 +43,9 @@ id,设计稿,text,trans
 43,タイアー/泰亚,先輩方には敵いませんが、<br>自分も協力は惜しみません。,虽然比不过前辈们，<br>我也会尽力协助的。
 44,ルナール/露娜露,本当に……？<br>あ、ありがとう……,真的吗……？<br>谢，谢谢……
 45,ルナール/露娜露,そ、それじゃ、さっそくこれを<br>読んでほしい……のだけど……,那，那么，赶快<br>读一读这个吧……先……
-46,ルナール/露娜露,あの、もし途中で読むのが嫌になったら<br>いつでもやめていいからね……？<br>なにせ耽美絵だし……,那个，如果觉得受不了了<br>随时都可以推出的<br>毕竟是耽美作品……
+46,ルナール/露娜露,あの、もし途中で読むのが嫌になったら<br>いつでもやめていいからね……？<br>なにせ耽美絵だし……,那个，如果觉得受不了了<br>随时都可以退出的<br>毕竟是耽美作品……
 47,,<span class='scene-font-katari'>絵物語の中でも</span><br><span class='scene-font-katari'>男性の登場人物同士の色恋を中心に</span><br><span class='scene-font-katari'>描いたものは耽美絵と呼ばれている。</span>,<span class='scene-font-katari'>连环画中</span><br><span class='scene-font-katari'>描绘男性间情爱的作品</span><br><span class='scene-font-katari'>就叫做耽美作品。</span>
-48,ローアイン/罗艾因,なんスかそれ。<br>俺らガチめに器デカい漢目指してるんで<br>なんでもござれって感じッスよ？,什么嘛。<br>我们的凄凉可是很大的<br>这点小意思是吧？
+48,ローアイン/罗艾因,なんスかそれ。<br>俺らガチめに器デカい漢目指してるんで<br>なんでもござれって感じッスよ？,什么嘛。<br>我们的气量可是很大的<br>这点小意思是吧？
 49,,<span class='scene-font-katari'>ルナールはとまどいつつも</span><br><span class='scene-font-katari'>ネームの束を</span><br><span class='scene-font-katari'>ローアイン達に渡すことにした。</span>,<span class='scene-font-katari'>露娜露纠结着</span><br><span class='scene-font-katari'>把一沓漫画原稿</span><br><span class='scene-font-katari'>交给了罗艾因等人。</span>
 50,,<span class='scene-font-katari'>受け取ったローアイン達は</span><br><span class='scene-font-katari'>１枚ずつ回し読みしていくが──</span>,<span class='scene-font-katari'>收下的罗艾因等人</span><br><span class='scene-font-katari'>一张一张看了起来──</span>
 55,ルナール/露娜露,…………,…………
@@ -74,7 +74,7 @@ id,设计稿,text,trans
 85,,<span class='scene-font-katari'>ついに敵国との</span><br><span class='scene-font-katari'>戦いの火ぶたは切られてしまった。</span>,<span class='scene-font-katari'>终于，和敌国的</span><br><span class='scene-font-katari'>战争开始了。</span>
 86,,<span class='scene-font-katari'>城内のポポル皇子は</span><br><span class='scene-font-katari'>迫り来る敵軍と迎え撃つ自軍の</span><br><span class='scene-font-katari'>激戦を遠くに見ていた。</span>,<span class='scene-font-katari'>城内的Popola皇子</span><br><span class='scene-font-katari'>远远看着激战中的</span><br><span class='scene-font-katari'>抵抗来犯之敌的我军。</span>
 87,ポポル皇子,っきしょー……<br>ついにここまで来たか……<br>でもあの戦場のどっかに……,混蛋——……<br>终于到这地步了吗……<br>但那战场上……
-89,エルセム/艾尔塞姆,皇子！　報告です！<br>敵軍、かなり温度感高めで<br>凸ってきてます！　ガチでヤバげ！,皇子！　报告！<br>敌军，气势正盛地<br>冲杀过来了！　晚了个蛋！
+89,エルセム/艾尔塞姆,皇子！　報告です！<br>敵軍、かなり温度感高めで<br>凸ってきてます！　ガチでヤバげ！,皇子！　报告！<br>敌军，气势正盛地<br>冲杀过来了！　完了个蛋！
 90,トモイ/托莫伊,自軍、わりかしさげぽよで、<br>ちゃけば劣勢み強いッスわ。<br>アルティメットヤババババハムート。,我军相较之下士气低沉，<br>打起来太难赢了。<br>DWCB（混乱的胡言乱语）
 91,ポポル皇子,なぁ、トモちゃん、エルっち……<br>あのさ、こんな時だけど、<br>俺……なんつーか……,喂，托莫伊，艾尔塞姆……<br>那啥，虽然时机不太对，<br>我……怎么说呢……
 92,エルセム/艾尔塞姆,マキぴンとこだろ？<br>わかってるって！,是担心Makiri吧？<br>了解了解！
@@ -156,13 +156,13 @@ id,设计稿,text,trans
 226,ポポル皇子,んだとッ？,什么？
 242,？？？,<span class='scene-font-4'>グホオォォォォッ！！</span>,<span class='scene-font-4'>啊啊啊啊！！</span>
 243,ポポル皇子,マジかよ……！？　合体しただと！！,啥玩意儿……？居然合体了！！
-244,副官直属の兵士,<span class='scene-font-4'>くははははっ！</span><br>究極生命体ゴリマッチョ様が<br>御降誕された！,<span class='scene-font-4'>哈哈哈哈哈！</span><br>究极生命体肌肉大猩猩（卡兹）<br>于此地降临！
+244,副官直属の兵士,<span class='scene-font-4'>くははははっ！</span><br>究極生命体ゴリマッチョ様が<br>御降誕された！,<span class='scene-font-4'>哈哈哈哈哈！</span><br>究极生命体肌肉大猩猩（译注：卡兹）<br>于此地降临！
 245,副官直属の兵士,秘術「ネタ・マゼノッケ」により、<br>もはやなんでもアリに<br>なったのだああぁぁーーッ！！,秘术“neta大融合”，一切皆为合理！
 246,副官直属の兵士,ゴリマッチョ様、お願いします！<br>どうかポポル皇子を亡き者に！<br>そして我々をお導きください！！,肌肉大猩猩大人，来吧！<br>消灭Popola皇子<br>带领我们前进吧！
 250,ゴリマッチョ,<span class='scene-font-4'>ゴリマッチョオオォォッッ！！</span>,<span class='scene-font-4'>GoriMacho！！</span>
 251,トモイ/托莫伊,クソが……絶対的に不利だけど<br>男の子的にはアツい展開じゃねーか……,混蛋……很不利啊<br>但是男子汉的热血在沸腾啊……
 252,ポポル皇子,いや、あいつら俄然ちょづいてっけど<br>これガチめにチャンスじゃね？<br>一石二鳥っつーか！,不是，看似不妙<br>可这不正是一箭双雕的好机会吗！
-253,エルセム/艾尔塞姆,あー……たかし。<br>片づける相手がまとまってくれた的な？<br>こりゃ手間が省けるわ。,是的……<br>一起上，我赶时间。
+253,エルセム/艾尔塞姆,あー……たかし。<br>片づける相手がまとまってくれた的な？<br>こりゃ手間が省けるわ。,是的……<br>也好你们一起上，我赶时间。
 254,ポポル皇子,いくぜ……<br>ハッピーエンドは目の前だ！！,上了……<br>Happy End就在眼前了！
 256,３人,<span class='scene-font-4'>イェア！</span>,<span class='scene-font-4'>Yeah！</span>
 info,,,scene_evt190331_cp3_q4_s20
