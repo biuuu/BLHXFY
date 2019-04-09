@@ -1,0 +1,27 @@
+id,name,text,trans
+0-chapter_name,,第3話 炎の背骨,第3话 炎之脊柱
+0-synopsis,,リリィが帰郷するより前のこと、スヴァルの族長が暗殺される事件が起きる。一族の者達は人間かクリスタリアの仕業だと考え、義憤に駆られる中、その息子ゲルラが新たな族長に就任。ゲルラは逡巡の末、民意に応えて全面戦争を宣言する。,在莉莉归乡之前，斯瓦尔族长遭人暗杀。族人认为这是人类或克里斯塔利亚所为，义愤填膺，族长之子盖尔拉称为新的族长。盖尔拉虽有犹豫，最后还是决定响应民意宣布全面战争。
+0,,<span class='scene-font-katari'>リリィが帰郷する数日前のこと……</span>,<span class='scene-font-katari'>莉莉启程归乡之前数日……</span>
+1,,<span class='scene-font-katari'>山の頂にある狼炎府……</span><br><span class='scene-font-katari'>その広場にスヴァル達が集まり、</span><br><span class='scene-font-katari'>興奮した様子で壇上を見つめていた。</span>,<span class='scene-font-katari'>位于山顶的狼炎府……斯瓦尔族人聚集在广场中，兴奋地注视着台上。</span>
+2,,<span class='scene-font-katari'>するとそこに、</span><br><span class='scene-font-katari'>ひときわ逞しい体躯を誇る、</span><br><span class='scene-font-katari'>族長の息子ゲルラが現れた。</span>,<span class='scene-font-katari'>这时，一名体格格外健壮斯瓦尔人，族长之子盖尔拉出现在台上。</span>
+3,ゲルラ,皆の者！<br>ここに集めたのは他でもない。<br>既に聞き及んだ者もいると思うが……,各位！<br>将各位召集于此不为别的。<br>我想有些人已经听说了……
+4,ゲルラ,我らスヴァルを束ねる族長が、<br>無残な灰の骸となって発見された！,我们的斯瓦尔族族长，被人发现化为一堆灰烬。
+6,ゲルラ,無論、事故死に非ず……<br>あらゆる証拠が暗殺を示している。,当然，这不是意外死亡……<br>所有证据都表明这是一次暗杀。
+7,ゲルラ,だが性急な判断は出来ぬ状況だ。<br>現在、軍医を中心に調査を進め、<br>事態の究明を急いでいる所である。,但情况不容我们草率断定。<br>现在，军医们正在展开调查，以尽快查明真相。
+8,スヴァルの民１,人間の仕業だ……！<br>トロワ市を攻め滅ぼすぞッ！,是人类干的……！<br>我们去灭了特罗瓦市！
+9,スヴァルの民２,クリスタリアかもしれん！<br>氷晶宮ごと破壊してやるッ！,也可能是克里斯塔利亚！<br>把冰晶宫夷为平地！
+10,,<span class='scene-font-katari'>群衆は憤怒と戦意に昂ぶり、</span><br><span class='scene-font-katari'>口々に族長の復讐を叫んだ。</span><br><span class='scene-font-katari'>それは広間を包む大合唱となり……</span>,<span class='scene-font-katari'>人群充满愤怒与战意，一个个高喊着要为族长复仇，喊声最终成为了响彻整个大厅的大合唱……</span>
+11,スヴァルの民１,ゲルラ様、ご決断を！<br>今こそ決着をつける時ですッ！,盖尔拉大人，做决定吧！<br>现在正是算账的时候！
+12,スヴァルの民２,そうだ、もう我慢できません！<br>新族長の名のもとに復讐の狼煙をッ！,没错，我再也无法忍受了！<br>请以新族长的名义燃起复仇的狼烟！
+13,ゲルラ,…………,
+14,,<span class='scene-font-katari'>ゲルラは瞼を閉じ、</span><br><span class='scene-font-katari'>黙って民意に耳を傾けていたが、</span><br><span class='scene-font-katari'>やがて小さな溜め息と共に目を開けた。</span>,<span class='scene-font-katari'>盖尔拉闭上眼，默默地倾听民意，最后轻叹一声，同时睁开了双眼。</span>
+15,ゲルラ,<span class='scene-font-4'>……静まれい！</span>,<span class='scene-font-4'>……肃静！</span>
+16,ゲルラ,皆の意見はわかった。<br>今ここに、我が族長の継承を宣言する。,我明白大家的意见了。<br>我在此宣布，我将继承族长的位置。
+17,ゲルラ,そして……,以及……
+18,ゲルラ,全てのスヴァルの民に命ずる！<br>これより屈辱の歴史に終止符を打たん！,我命令全体斯瓦尔之民！<br>现在，为这段屈辱的历史画上句号！
+19,ゲルラ,全軍、早急に装備を整えろ！<br>目標は、人間とクリスタリアの根絶！<br>まずは軍獣を放ち、情報を分断する！,全军，尽快整顿装备！<br>目标，根绝人类与克里斯塔利亚！<br>首先放出军兽，分散情报！
+20,ゲルラ,<span class='scene-font-4'>これが最後の戦と心得よ！</span>,<span class='scene-font-4'>这就是最后的战斗！</span>
+21,ゲルラ,<span class='scene-font-4'>──「武と礼は灰に成るまで」！</span>,<span class='scene-font-4'>——「武礼长存，直至化为灰烬」！</span>
+23,スヴァルの民１,<span class='scene-font-4'>武と礼は灰に成るまでッ！</span>,<span class='scene-font-4'>武礼长存，直至化为灰烬！</span>
+24,スヴァルの民２,<span class='scene-font-4'>武と礼は灰に成るまでッ！</span>,<span class='scene-font-4'>武礼长存，直至化为灰烬！</span>
+info,,,scene_evt161031_cp3_q1_s10
