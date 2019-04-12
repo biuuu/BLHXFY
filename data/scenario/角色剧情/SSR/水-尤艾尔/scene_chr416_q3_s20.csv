@@ -1,0 +1,89 @@
+id,name,text,trans
+0-chapter_name,,唸れ、舌よ！　輝け、瞳よ！,低吼吧，舌头！闪耀吧，双瞳！
+0-synopsis,,観光業者の監査官が来る直前、ユエルはついに納得のいくフートン焼きを完成させる。監査が始まると、訪れた人々でユエルの屋台は大盛況となる。そんな折、村の広場の中央では、ソシエとコウが簡略化した舞を人々に披露していた。二人は、舞がフートン焼き以外のアキノの名物になればと考えたのだ。それを見たユエルと姬塔達、そして群衆も踊り出し、監査は大成功に終わるのだった。,旅游业审查官到来的前一刻，尤艾尔终于完成了理想的棉被烤串。审查开始后，尤艾尔的摊位前很是热闹。与此同时，苏丝娅和爻在村子的广场中央表演起了简单的舞蹈。两人想要让舞蹈成为阿基诺村除棉被烤串之外的名胜。看到这样的舞蹈的尤艾尔和姬塔等人带动着群众一起跳起舞来，审查大功告成。
+0,ユエル/尤艾尔,く……！　ここや……！<br>ここの火加減が肝心なんや……！,唔……！就是这……！<br>这里的火力调整是关键……！
+1,,<span class='scene-font-katari'>野菜を新たに調達し、ユエルの</span><br><span class='scene-font-katari'>フートン焼きの練習は、監査官が来る</span><br><span class='scene-font-katari'>ぎりぎりまで続く。</span>,<span class='scene-font-katari'>采集到了新的蔬菜后，直到审查官到来</span><br><span class='scene-font-katari'>之前的最后一刻，尤艾尔还在不断进行</span><br><span class='scene-font-katari'>制作棉被烤串的练习。</span>
+2,ユエル/尤艾尔,<span class='scene-font-kokoro'>（ウチの推測が正しければ……！）</span>,<span class='scene-font-kokoro'>（人家的推测如果是正确的话……！）</span>
+3,ユエル/尤艾尔,<span class='scene-font-kokoro'>（先にとろ火でお揚げの中の水分を</span><br><span class='scene-font-kokoro'>ぎりぎりまで飛ばす、これが肝や！)</span>,<span class='scene-font-kokoro'>（先用慢火把油炸物里的水分蒸发到极致，</span><br><span class='scene-font-kokoro'>这里要大胆！)</span>
+4,ユエル/尤艾尔,<span class='scene-font-kokoro'>（タレ染み込ませるんには</span><br><span class='scene-font-kokoro'>これしかない！）</span>,<span class='scene-font-kokoro'>（为了酱汁的充分渗透只能这样做！</span>）</span>
+5,ユエル/尤艾尔,<span class='scene-font-kokoro'>（そして、お揚げから出る湯気が</span><br><span class='scene-font-kokoro'>消える直前を見極めて……）</span>,<span class='scene-font-kokoro'>（然后，在水蒸气即将消失前……）</span>
+6,ユエル/尤艾尔,<span class='scene-font-kokoro'>（一気に強火にかけるッッ！）</span>,<span class='scene-font-kokoro'>（一口气把火加大！）</span>
+11,ユエル/尤艾尔,<span class='scene-font-kokoro'>（次っ！　お焦げができたら、</span><br><span class='scene-font-kokoro'>間髪入れんとタレに……！）</span>,<span class='scene-font-kokoro'>（接着！　烤出焦色之后，</span><br><span class='scene-font-kokoro'>立刻浇上酱汁……！）</span>
+12,ユエル/尤艾尔,<span class='scene-font-4'>今や！　はああああああっ！</span>,<span class='scene-font-4'>就是现在！　喝啊啊啊啊啊啊啊啊！</span>
+14,ユエル/尤艾尔,はぁ、はぁ……こ、これでどうや……！,哈啊，哈啊……这样如何……！
+15,,<span class='scene-font-katari'>肩で息をするユエル。その手には、</span><br><span class='scene-font-katari'>これまでとは明らかに何かが違う</span><br><span class='scene-font-katari'>フートン焼きが握られていた。</span>,<span class='scene-font-katari'>气喘吁吁的尤艾尔，她的手上拿着的，</span><br><span class='scene-font-katari'>分明是与之前的作品都不尽相同的</span><br><span class='scene-font-katari'>棉被烤串。</span>
+16,ユエル/尤艾尔,がぶっ！　もぐもぐ……,嘎吱！咀嚼咀嚼……
+17,,<span class='scene-font-katari'>すぐさま串にかぶりつくユエルを、</span><br><span class='scene-font-katari'>一行は固唾を飲んで見守っていた。</span>,<span class='scene-font-katari'>众人屏住呼吸，紧张地看着咀嚼烤串的</span><br><span class='scene-font-katari'>尤艾尔。</span>
+18,ユエル/尤艾尔,……ごくん。,……咕嘟。
+19,ルリア/露莉亚,ど……どうですか、ユエルさん……,怎……怎么样，尤艾尔……
+21,ユエル/尤艾尔,これや……,这是……
+22,ユエル/尤艾尔,これこそがおっちゃんの作る<br><span class='scene-font-4'>真のフートン焼きやーーーっ！</span>,这才是大叔所创造的<br><span class='scene-font-4'>真·棉被烤串呀ーーー！</span>
+30,,<span class='scene-font-katari'>ほどなくして、観光業者による</span><br><span class='scene-font-katari'>監査が始まったのであるが──</span>,<span class='scene-font-katari'>不一会儿，旅游业者的审查开始了——</span>
+31,,<span class='scene-font-katari'>村に来るのは数人の業者だけで</span><br><span class='scene-font-katari'>あろうという予想に反し、</span><br><span class='scene-font-katari'>多くの人が集まっていた。</span>,<span class='scene-font-katari'>原以为只会有负责审查的几位前来，</span><br><span class='scene-font-katari'>没想到却聚集来了许多的人。</span>
+32,ビィ/碧,な……なんか人、多くねえか？,怎……怎么来了这么多人？
+33,観光業者/旅游业者,ええ。我々だけではなく多くの人々……<br>観光客や騎空士達の意見も聞いた上で<br>判断したいと思い、招待しました。,是的。作为评判的不仅仅是我们……<br>为了听取游客和骑空士们的意见，而将他们也招待来了。
+34,ルリア/露莉亚,なんだか、凄い事に<br>なってきてますね……！,总觉得，变成不得了的事态了啊……！
+35,ユエル/尤艾尔,大丈夫や。おっちゃんのフートン焼きは<br>誰が食べても美味い！<br>何百人こようと唸らせたるわ！,没关系啦。不管是谁，尝了大叔的烤串<br>都会觉得好吃！就算来几百人也没关系！
+36,ユエル/尤艾尔,はいはーい！　アキノ名物、<br>フートン焼きやでー！<br>食べていかんと損するでー！,瞧一瞧看一看——！<br>阿基诺名产，棉被烤串！<br>吃了不后悔嘞——！
+37,,<span class='scene-font-katari'>ユエルの呼びかけに</span><br><span class='scene-font-katari'>注目する観光客達。</span>,<span class='scene-font-katari'>尤艾尔的招呼声引起了游客们的注意。</span>
+38,ユエル/尤艾尔,一口食べれば、ひっくり返る！<br>食感はふんわりざくざくっ！<br>二口目にはもうヤミツキやー！,一口香脆爽快！两口停不下来啊——！
+39,,<span class='scene-font-katari'>商人直伝の呼び込みで、</span><br><span class='scene-font-katari'>次々と人々が集まり──</span>,<span class='scene-font-katari'>得到商人直传的招徕号子极具吸引力，</span><br><span class='scene-font-katari'>人们不断聚集过来——</span>
+40,観光客/游客,ほお……こりゃあ大したもんだな！,哦……这可真是好吃啊！
+41,騎空士/骑空士,はっはっは！<br>仲間の土産に買っていくか！,哈哈哈！<br>我要买回去给伙伴们当特产！
+42,,<span class='scene-font-katari'>ユエルのフートン焼きを口に入れた者は</span><br><span class='scene-font-katari'>みな笑顔になった。その騒ぎを</span><br><span class='scene-font-katari'>聞きつけ、さらに人々は集まる。</span>,<span class='scene-font-katari'>尝了尤艾尔做的棉被烤串的人们脸上</span><br><span class='scene-font-katari'>都洋溢开了笑容。人们闻讯而来，越聚越多。</span>
+43,ユエル/尤艾尔,来たで来たでぇ！<br>目標千本、売りきったるわ！,来嘞来嘞！<br>目标是卖出一千根哩！
+44,,<span class='scene-font-katari'>屋台にできた行列をさばくべく、</span><br><span class='scene-font-katari'>忙しく動き回るユエル。</span><br><span class='scene-font-katari'>やがて、串が全員に行き渡った頃──</span>,<span class='scene-font-katari'>让摊位前的人们排好队伍，尤艾尔</span><br><span class='scene-font-katari'>忙得团团转。终于，人们全都被</span><br><span class='scene-font-katari'>分发到了烤串。就在这时——</span>
+56,,<span class='scene-font-katari'>村の広場の中央で、</span><br><span class='scene-font-katari'>巨大な火柱が上がった。</span>,<span class='scene-font-katari'>村子的广场中央升起了巨大的火柱。</span>
+57,観光業者/旅游业者,な……なんだアレは！？,那、那是什么！？
+58,ユエル/尤艾尔,蒼い炎と黯い炎……！<br>ソシエとコウか！？<br>何しとんの！？,蓝色的火焰和昏暗的火焰……！<br>是苏丝娅和爻！？<br>他们干嘛呢！？
+59,,<span class='scene-font-katari'>螺旋を描いて交わる蒼と黯の炎の下、</span><br><span class='scene-font-katari'>神器を手に立つソシエとコウに</span><br><span class='scene-font-katari'>人々の視線が集まる。</span>,<span class='scene-font-katari'>在螺旋交织着的苍蓝与黯色的火焰之下，</span><br><span class='scene-font-katari'>手持神器的苏丝娅和爻成为了人们视线的焦点。</span>
+60,ソシエ/苏丝娅,ええ、え、えと……ここ、ここ……！<br>これより、み、皆様にっ……<br>お見せするんわ……！,那那、那、那个……接接、接接……！<br>接下来，为、为大家……表演……！
+61,コウ/爻,…………,…………
+63,コウ/爻,我ら一族に伝わる炎の舞い！,我族代代相传的炎之舞！
+64,コウ/爻,この島に巣食っていた災いを<br>滅ぼした神聖なる舞……<br>どうぞ、お楽しみください……！,这支神圣的舞蹈曾消灭了盘踞在岛上的灾厄……<br>还请欣赏……！
+72,,<span class='scene-font-katari'>人々は目を奪われた。優しく、鋭く、</span><br><span class='scene-font-katari'>二筋の炎を羽衣の如く身に這わせ、</span><br><span class='scene-font-katari'>舞うソシエとコウの姿に──</span>,<span class='scene-font-katari'>围观的人们均被夺去了视线——</span><br><span class='scene-font-katari'>两道火焰如羽衣般轻缠于二人身上，</span><br><span class='scene-font-katari'>苏丝娅和爻的身姿优美而灵敏。</span>
+73,ユエル/尤艾尔,でも、なんやあれ……<br>あの子らの舞い、えらく簡単、<br>いや、単調やな……,不过，他们的舞蹈，总有种……<br>简单，不、是单调的感觉……
+74,ユエル/尤艾尔,……ははーん……？　そういう事？,……哈哈……？原来是这样？
+75,,<span class='scene-font-katari'>何かを察したユエルは</span><br><span class='scene-font-katari'>人垣をかき分け、ソシエ達のもとに</span><br><span class='scene-font-katari'>向かった。</span>,<span class='scene-font-katari'>察觉到了什么的尤艾尔分开人群，</span><br><span class='scene-font-katari'>朝苏丝娅她们走去。</span>
+81,ユエル/尤艾尔,なぁなぁおふたりさん！<br>ウチも飛び入り、構へんよな！？,哎哎两位！<br>不介意人家也来掺一脚吧！？
+82,ソシエ/苏丝娅,ふふ……もちろん。,呵呵……当然。
+83,コウ/爻,むしろ、参加のタイミングが<br>遅すぎるくらいです。,不如说，你来得太迟了。
+84,ユエル/尤艾尔,なーなー！　他におらへんの？<br>みんなで踊ろうやー！,喂——喂——！其他人也一起来吗？<br>大家一起跳吧——！
+85,観光業者/旅游业者,な……！？　そんな催し、<br>私は聞いていないぞ……！？,什……！？<br>我从没听说有这样的项目啊……！？
+86,ユエル/尤艾尔,えーのえーの！　聞いたやろ！<br>これは島の瘴気を払ったありがたーい<br>聖なる舞いや！,没事没事！不是说了吗！<br>这可是清除了岛上瘴气的超—尊贵的圣舞呀！
+87,ユエル/尤艾尔,一緒に踊ったらごりやくあるでー！<br>それにめちゃ楽しいでー！,大家来一起跳的话也会有好处的哦——！<br>而且，跳舞可是特别开心嘞——！
+88,,<span class='scene-font-katari'>ユエルの呼びかけに群衆は戸惑う。</span>,<span class='scene-font-katari'>由于尤艾尔的呼喊，群众们有些困惑。</span>
+89,ルリア/露莉亚,あ……あのっ！　姬塔！<br>私達も一緒にっ！,啊……那个！姬塔！<br>我们也一起去！
+90,ビィ/碧,ああ、せっかくだ！<br>オイラ達も踊ってやろうぜ！,没错，难得的机会！<br>我们也去跳舞吧！
+91,,<span class='scene-font-katari'>姬塔達もユエル達にならい、</span><br><span class='scene-font-katari'>炎の下で踊り始める。</span>,<span class='scene-font-katari'>姬塔等人也模仿着尤艾尔她们的动作，</span><br><span class='scene-font-katari'>在火焰下舞动起来。</span>
+93,,<span class='scene-font-katari'>それに誘われるように、</span><br><span class='scene-font-katari'>ひとりまたひとりと</span><br><span class='scene-font-katari'>踊りの輪に加わる者がいた。</span>,<span class='scene-font-katari'>以此为契机，人们一个接一个地</span><br><span class='scene-font-katari'>加入进舞蹈的队伍。</span>
+94,観光客/游客,はは……これは、なかなか<br>楽しいものだな。,哈哈……跳舞真开心啊。
+95,騎空士/骑空士,最初は炎にビビったが……<br>このスリル、たまんねえな……！,一开始倒还有点害怕火焰……<br>这种刺激感真是太不得了了……！
+96,ユエル/尤艾尔,ふふ、ソシエ達も考えたなぁ！<br>ウチらの舞を、誰でもできる踊りに<br>変えてまうとは、驚きや！,嘿嘿，苏丝娅你们也想了好点子呐！<br>把人家们的舞蹈改变成谁都能模仿的动作，<br>真是让人大吃一惊！
+97,コウ/爻,王家に古くから伝わる舞いで<br>こんな事をしていいのか……<br>僕は最後まで悩みましたが。,改编王室古老传承的舞蹈，这种事到底<br>对不对……我也是到最后都在烦恼。
+98,ソシエ/苏丝娅,か、観光の目玉が<br>いるのかなって思って……,考、考虑到，有没有<br>能成为观光的亮点的东西……
+99,ユエル/尤艾尔,なるほどなぁ……<br>ほんまええ考えやったで！<br>おかげで大成功や♪,原来如此哪……<br>真的是特别棒的点子哩！<br>多亏你们，真是大成功呀♪
+100,ユエル/尤艾尔,さ、ウチも景気づけに<br>どかーんと一発いくでぇ！,好，人家也要咚——地炒热一下气氛嘞！
+108,,<span class='scene-font-katari'>黯と蒼の渦を、ひときわ強く輝く</span><br><span class='scene-font-katari'>紅の炎が貫いた。</span>,<span class='scene-font-katari'>昏暗与苍蓝火焰的漩涡中，贯穿出一股</span><br><span class='scene-font-katari'>格外耀眼的红色烈焰。</span>
+109,,<span class='scene-font-katari'>そして紅蒼黯は混ざり合い、</span><br><span class='scene-font-katari'>ひとつの巨大な火柱となって天を衝く。</span>,<span class='scene-font-katari'>红蓝黑三色的火焰混杂在一起，</span><br><span class='scene-font-katari'>变为一股巨大的冲天火柱。</span>
+115,,<span class='scene-font-katari'>その熱に浮かされた群衆は、</span><br><span class='scene-font-katari'>夜更けまで踊り続けた──</span>,<span class='scene-font-katari'>群众因此而更加狂热起来，</span><br><span class='scene-font-katari'>舞蹈一直持续到深夜——</span>
+121,ビィ/碧,ひゃー、疲れたぜぇ……<br>連中、夢中になって<br>ずーっと踊ってやがんだもの……,呼啊——累得不行了……<br>大家都沉迷舞蹈，一刻不停地在跳……
+122,ルリア/露莉亚,ふふ、大成功でしたねえ！,嘿嘿，无比成功呢！
+123,ユエル/尤艾尔,うん！　観光業者の兄ちゃんも<br>文句なしで、このお祭りを<br>宣伝するー言うてたわ！,嗯！旅游业的小哥也没有意见，<br>说要宣传这个庆典哩！
+124,コウ/爻,これからは毎年、アキノの火祭りと<br>いう名で、大きな焚き火と踊りを<br>目玉に開かれるそうです。,听说从此以后，每年都会以阿基诺的<br>火祭的名义，来举办大型的篝火舞蹈。
+125,ユエル/尤艾尔,集まった人らも、また来年来るって<br>言うとったし……<br>これならアキノも貧乏脱出やな！,这次过来的人们也说明年会再来……<br>这样的话阿基诺也可以摆脱贫困了！
+126,ソシエ/苏丝娅,なあ、うちらも来年のお祭りに来よ？<br>あんな風に、またみんなで踊りたいな。,那，人家们来年也来参加庆典吧？<br>就像那样，想要大家再一起跳舞呐。
+127,ルリア/露莉亚,あっ！　私も賛成です！<br>また、おじさんのフートン焼きを<br>食べに来たいですし……,啊！我也赞成！<br>我想再来尝尝老板家的棉被烤串……
+128,ユエル/尤艾尔,何や、来年の事なのに<br>みんな気ー早いなぁ……<br>ま、ウチも賛成やけどっ！,什么呀，大家可真性急呐，<br>那还是明年的事呢……不过，<br>人家也赞成！
+129,ビィ/碧,なあ、ところでコウはどうすんだ？<br>来年は。,喂，说起来爻你明年要怎么办？
+130,コウ/爻,……さあ。まぁ来てもいいですけど。<br>僕もどこにいるかわからないから<br>保証はできませんけどね。,……谁知道呢。要来也可以。<br>不过那时我会在什么地方也不知道，<br>没办法保证就是了。
+131,コウ/爻,ただ……そう、ですね……<br><span class='scene-font-2'>また一緒に……</span>,但是……是，是啊……<br><span class='scene-font-2'>大家再一起……</span>
+132,ユエル/尤艾尔,ん？　なんや？,嗯？你说什么？
+133,コウ/爻,いえ……<br>なんでもありません。,没事……<br>我什么也没说。
+134,ユエル/尤艾尔,ん～？　姉ちゃんに隠し事か～？<br>そない悪い子には<br>お仕置きが必要やな～？,嗯~？对姐姐隐瞒了小心事吗~？<br>这样的坏孩子可要施以惩罚呐~？
+135,コウ/爻,…………！,…………！
+137,ユエル/尤艾尔,待て待て～♪<br>くすぐり倒したる～♪,站住站住～♪<br>我要挠你痒痒了～♪
+139,ソシエ/苏丝娅,あ、あんま、<br>いじめたらあかんよ？<br>ユエルちゃん……,那、那样欺负人可不成哟？<br>小尤艾尔……
+140,,<span class='scene-font-katari'>姬塔は</span><br><span class='scene-font-katari'>三人の仲睦まじいやり取りを見て、</span><br><span class='scene-font-katari'>楽しげに微笑む。</span>,<span class='scene-font-katari'>姬塔看着要好的三人打打闹闹，</span><br><span class='scene-font-katari'>开心地微笑起来。</span>
+141,,<span class='scene-font-katari'>その後、一行はまたいつの日かの</span><br><span class='scene-font-katari'>再会を願いながら、コウと</span><br><span class='scene-font-katari'>別れるのだった。</span>,<span class='scene-font-katari'>之后，众人一边期待着再次相会，</span><br><span class='scene-font-katari'>一边与爻告别了。</span>
+info,,,scene_chr416_q3_s20

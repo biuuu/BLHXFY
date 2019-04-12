@@ -276,11 +276,8 @@ body .cnt-order-box .cnt-btn-bottombox .btn-evolution:not(.disapprove)::after {
 .btn-evolution[data-location-href^="evolution/"],
 .prt-condition .btn-quest,
 #main_story_tab, #event_story_tab, #coop_story_tab,
-.cnt-archive-top .btn-story,
-.cnt-archive-top .btn-archive-list,
 .prt-follow-button-enhance .btn-follow-again,
 .prt-follow-button .btn-follow-again,
-.cnt-archive-top .btn-library,
 .btn-title[data-href="title/add/advent/"],
 .btn-gacha-attention,
 .btn-usual-appearance[data-href^="gacha/appear/legend/"],
@@ -463,18 +460,6 @@ body .cnt-order-box .cnt-btn-bottombox .btn-evolution:not(.disapprove)::after {
 .btn-title[data-href="title/add/advent/"]::after {
   content: "活动称号";
   font-size: 12px;
-}
-.cnt-archive-top .btn-story::after {
-  content: "故事";
-  font-size: 14px;
-}
-.cnt-archive-top .btn-archive-list::after {
-  content: "图鉴";
-  font-size: 14px;
-}
-.cnt-archive-top .btn-library::after {
-  content: "用语集";
-  font-size: 14px;
 }
 #main_story_tab::after {
   font-size: 12px;

@@ -1,7 +1,7 @@
 id,name,text,trans
 0-chapter_name,,第3話 だらけ～の,慵懒的对话
 0-synopsis,,ジャンヌダルクをまじえ、アンスリア達はとりとめのない話を繰り広げる。そして野生化することが美容と健康につながると信じ込み、自然の中での過ごし方を考えるというおかしな流れに。軌道修正の必要があると気づいたローアイン達は、妄想の中にカリオストロを投入。女子部屋はよりカオスを増していくが、カリオストロの必死の働きかけによって女子達から野生が払拭されるのだった。,贞德达尔克加入后，安苏莉娅等人开始了闲聊。然后对话变成了野外生活有利于美容和健康，如何才能在大自然中生活的奇怪走向。觉得需要修正对话方向的罗艾因等人，在妄想中加入了卡莉奥斯特萝。虽然导致女生房间的对话变得更加混乱了，但多亏卡莉奥斯特萝的努力是的女生们放弃了野外生存的念头。
-1,,<span class='scene-font-katari'>姬塔サイファー内部の</span><br><span class='scene-font-katari'>どこかにあるという</span><br><span class='scene-font-katari'>禁断の女子部屋。</span>,<span class='scene-font-katari'>姬塔赛法的内部</span><br><span class='scene-font-katari'>某处所存在的</span><br><span class='scene-font-katari'>禁断的女生房间。</span>
+1,,<span class='scene-font-katari'>姬塔サイファー内部の</span><br><span class='scene-font-katari'>どこかにあるという</span><br><span class='scene-font-katari'>禁断の女子部屋。</span>,<span class='scene-font-katari'>格兰赛法的内部</span><br><span class='scene-font-katari'>某处所存在的</span><br><span class='scene-font-katari'>禁断的女生房间。</span>
 2,,<span class='scene-font-katari'>不可侵のその一室でいま、</span><br><span class='scene-font-katari'>ひとつ、またひとつあくびが生まれ、</span><br><span class='scene-font-katari'>そして儚く消えゆくのだった。</span>,<span class='scene-font-katari'>在不法侵入的这个房间之中、</span><br><span class='scene-font-katari'>正传出一个又一个的哈欠声，</span><br><span class='scene-font-katari'>接着又消失在虚无之中。</span>
 3,ジャンヌダルク/贞德,ふぁ……あふぅ……,哈……（哈欠）
 4,クロエ,まさかジャンヌ氏が<br>こんなにだらしなかったなんて<br>まぢゥケる。わら。,没想到贞德氏会<br>这样懒懒散散的<br>真的好笑。笑。
@@ -108,7 +108,7 @@ id,name,text,trans
 139,カリオストロ/卡莉奥斯特萝,<span class='scene-font-kokoro'>（ヤバい……！　このオレ様が</span><br><span class='scene-font-kokoro'>危うく流されそうになるとは……）</span>,<span class='scene-font-kokoro'>（糟糕……！　本大爷居然</span><br><span class='scene-font-kokoro'>差点跟着别人的步子走了……）</span>
 140,カリオストロ/卡莉奥斯特萝,<span class='scene-font-kokoro'>（……まずいな。</span><br><span class='scene-font-kokoro'>この女子部屋で起きている現象は</span><br><span class='scene-font-kokoro'>伝染していくらしい）</span>,<span class='scene-font-kokoro'>（……不妙啊。</span><br><span class='scene-font-kokoro'>这间女生房间发生的现象</span><br><span class='scene-font-kokoro'>正在传染的样子）</span>
 141,カリオストロ/卡莉奥斯特萝,<span class='scene-font-kokoro'>（伝承と実態の乖離によって</span><br><span class='scene-font-kokoro'>文化のねじれが広がっていく……</span><br><span class='scene-font-kokoro'>こいつは確かに全空の危機だな……）</span>,<span class='scene-font-kokoro'>（随着传统和现实的偏离</span><br><span class='scene-font-kokoro'>文化的扭曲正在扩大化……</span><br><span class='scene-font-kokoro'>这确实是全空的危机啊……）</span>
-142,カリオストロ/卡莉奥斯特萝,<span class='scene-font-kokoro'>（解決策は……こいつらに</span><br><span class='scene-font-kokoro'>人間の文明社会での、</span><br><span class='scene-font-kokoro'>普通の過ごし方を思い出させること！）</span>,（解决方法……是让这些人</span><br><span class='scene-font-kokoro'>把人类文明的社会当中，</span><br><span class='scene-font-kokoro'>普通的生活方式给回想起来！）</span>
+142,カリオストロ/卡莉奥斯特萝,<span class='scene-font-kokoro'>（解決策は……こいつらに</span><br><span class='scene-font-kokoro'>人間の文明社会での、</span><br><span class='scene-font-kokoro'>普通の過ごし方を思い出させること！）</span>,<span class='scene-font-kokoro'>（解决方法……是让这些人</span><br><span class='scene-font-kokoro'>把人类文明的社会当中，</span><br><span class='scene-font-kokoro'>普通的生活方式给回想起来！）</span>
 143,カリオストロ/卡莉奥斯特萝,<span class='scene-font-kokoro'>（そのためにはまず……）</span>,<span class='scene-font-kokoro'>（为此首先得……）</span>
 144,カリオストロ/卡莉奥斯特萝,ちょっと待ってろ。<br>女子部屋専用着に着替えてくる。,等我下。<br>我去换身女生房间该穿的衣服。
 148,ジャンヌダルク/贞德,なにやら……慌ただしいな。<br>カリオストロ殿は一体なにを？,怎么了……慌慌张张的。<br>卡莉奥斯特萝到底怎么了？
@@ -200,6 +200,6 @@ id,name,text,trans
 268,カリオストロ/卡莉奥斯特萝,そうか。<br>じゃあ、少し休んだら<br>買ってきてやるよ。,这样啊。<br>那你休息下吧<br>我去买给你。
 269,ジャンヌダルク/贞德,本当か……！？<br>なんと有難い……！,真的吗……？<br>真的多谢！
 270,カリオストロ/卡莉奥斯特萝,後で、な！<br>……いま梅昆布食ってるからな。,之后，再去！<br>……现在先吃点梅昆布吧
-271,,<span class='scene-font-katari'>ひと仕事終えたカリオストロは</span><br><span class='scene-font-katari'>ゆるい女子部屋の空気に</span><br><span class='scene-font-katari'>身を任せるのだった。</span>,<span class='scene-font-katari'>总算结束了任务的卡莉奥斯特萝</span><br><span class='scene-font-katari'>讲自己的身心</span><br><span class='scene-font-katari'>都沉入了和缓的女生房间的空气之中。</span>
+271,,<span class='scene-font-katari'>ひと仕事終えたカリオストロは</span><br><span class='scene-font-katari'>ゆるい女子部屋の空気に</span><br><span class='scene-font-katari'>身を任せるのだった。</span>,<span class='scene-font-katari'>总算结束了任务的卡莉奥斯特萝</span><br><span class='scene-font-katari'>将自己的身心</span><br><span class='scene-font-katari'>都沉入了和缓的女生房间的空气之中。</span>
 info,,,scene_evt190331_cp3_q3_s10
 备注,,,翻译：KoalaSheep
