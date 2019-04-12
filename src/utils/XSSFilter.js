@@ -8,6 +8,9 @@ const whiteList = [
   '还剩<%= can_quest_start_count %>回挑战（一共<%= max_quest_start_count %>回）',
   '<%= set_user.name %> Rank <%= set_user.rank %> 选择任务',
   '更改第<%= stamp.priority %>个表情',
+  '→掷出了<%= log[i].result_number %>',
+  '<%= log[i].nickname %>对<%= log[i].item_name %>进行ROLL点',
+  '<%= log[i].nickname %>获得了<%= log[i].item_name %>的所有权',
   '<%= title %>'
 ]
 
