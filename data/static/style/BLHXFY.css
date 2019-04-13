@@ -143,6 +143,9 @@ body .cnt-material-bottombox .btn-synthesis::after {
 body .pop-synopsis.pop-usual .btn-usual-ok::after {
   content: '确定';
 }
+body #view-deal-main .deal-confirm .btn-usual-ok::after {
+  content: "选择";
+}
 body .pop-get-skypiece .btn-usual-ok::after {
   content: '露莉亚日记';
 }
