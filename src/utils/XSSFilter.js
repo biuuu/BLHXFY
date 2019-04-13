@@ -10,7 +10,7 @@ const whiteList = [
   '更改第<%= stamp.priority %>个表情',
   '→掷出了<%= log[i].result_number %>',
   '<%= log[i].nickname %>对<%= log[i].item_name %>进行ROLL点',
-  '<%= log[i].nickname %>获得了<%= log[i].item_name %>的所有权',
+  '<%= log[i].nickname %>获得了<%= log[i].item_name %>',
   '<%= title %>'
 ]
 
