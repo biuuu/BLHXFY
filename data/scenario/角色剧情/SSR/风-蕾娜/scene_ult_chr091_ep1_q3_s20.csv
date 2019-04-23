@@ -1,0 +1,37 @@
+﻿id,name,text,trans
+0-chapter_name,,花は散り,花落
+0-synopsis,,魔生花の実をふたつも口にし、レナは人並み外れた膨大な魔力を得る。その力を用いて魔物を退けたレナだったが、戦いの直後に体に限界を覚え、その場に倒れ伏してしまう。姬塔達は、レナの容態を心配するが、その心配も虚しく、レナは無数の魔生花に姿を変えて散ってしまうのだった。,蕾娜吞下第二个魔生花果实后，获得了远超常人的巨大魔力。这使蕾娜成功击退了魔兽，但却在战斗结束后因体力不支而当场倒下。姬塔一行十分担心。但担心也无济于事，蕾娜化为了无数魔生花四散凋谢。
+1,魔物,<span class='scene-font-4'>グオオオオオッ！</span>,<span class='scene-font-4'>哦哦哦哦哦哦！</span>
+2,レナ,えいっ！,嘿！
+11,,<span class='scene-font-katari'>レナが杖を一振りすると、</span><br><span class='scene-font-katari'>魔物達の足元に魔生花が咲き乱れる。</span>,<span class='scene-font-katari'>蕾娜一挥魔杖，魔兽脚边就盛开出魔生花。</span>
+12,レナ,ふふ……魔生花の実を<br>ふたつも食べたからかしら。<br>魔生花の扱い方がわかっちゃったわ。,呵呵……也许是因为吃了两个魔生花的果实吧。<br>我明白要怎么操纵魔生花了。
+18,レナ,この花が、<br>誰かの幸せを呼びますように……,希望这些花能够为他人带来幸福……
+19,,<span class='scene-font-katari'>そう言ってレナが目を閉じると、</span><br><span class='scene-font-katari'>魔生花が溶けて光に変わり──</span><br><span class='scene-font-katari'>光は、風となって吹き荒れた。</span>,<span class='scene-font-katari'>说完，蕾娜闭上眼，魔生花则化为光芒——而光芒又化为呼啸的狂风。</span>
+24,レナ,ル・アンフェー・デ・フルール。,花之地狱。
+25,,<span class='scene-font-katari'>人が一度に扱える魔力量を遥かに超えた</span><br><span class='scene-font-katari'>魔力の奔流が巨大な暴風と化し、</span><br><span class='scene-font-katari'>周辺の魔物を吹き飛ばしていく。</span>,<span class='scene-font-katari'>绝非人类能够一次性放出的魔力奔流化作巨大的暴风将周围的魔兽吹散。</span>
+26,レナ,魔生花は魔力を蓄えたもの……,魔生花是由魔力汇聚而成的……
+27,レナ,なら、先に魔力を咲かせておけば、<br>もっと強い風を吹かせることが<br>できるのねえ……,那么，如果先让魔力炸开，就能让暴风变得更加猛烈……
+28,ビィ/碧,と……とんでもねえ事に<br>なってやがる……！,事情怎么变成这样了……！
+29,魔物達,<span class='scene-font-4'>グギャアアアアッ！</span>,<span class='scene-font-4'>吼——！</span>
+33,,<span class='scene-font-katari'>風は渦を巻き、</span><br><span class='scene-font-katari'>魔物達を軽々と舞い上げて</span><br><span class='scene-font-katari'>どこかへと吹き飛ばした。</span>,<span class='scene-font-katari'>暴风打漩着，轻易将魔兽卷上天吹向四处。</span>
+34,レナ,……ごめんなさいね。<br>貴方達も、母体に命じられている<br>だけなのにね……,……对不起。<br>你们也只是受到了母体的命令而已……
+35,レナ,……うっ……,……呜……
+36,ルリア/露莉亚,レナさん、大丈夫ですか？<br>なんだか、ふらふらしてます……,蕾娜，你没事吧？<br>你好像站不稳……
+37,レナ,ふふ。少し、頑張りすぎちゃった<br>かもしれないわぁ……,呵呵。我可能有些太努力了……
+38,レナ,なんとなく<br>わかってはいた事だけど……<br>ちょっときつかったわねえ。,虽然之前就有心理准备……<br>但还是有些艰难啊。
+39,,<span class='scene-font-katari'>レナは頬を伝う汗をぬぐいながら</span><br><span class='scene-font-katari'>地面に座り込む。</span>,<span class='scene-font-katari'>蕾娜擦着脸上的汗水，坐倒在地。</span>
+40,レナ,ふう……,呼……
+41,,<span class='scene-font-katari'>そして満足げに微笑みながら、</span><br><span class='scene-font-katari'>大きく息を吐くのだった。</span>,<span class='scene-font-katari'>随后她露出满足的微笑，深深地吐了一口气。</span>
+42,レナ,<span class='scene-font-kokoro'>（貴方が私に食べさせた実は、</span><br><span class='scene-font-kokoro'>腐ってひどい臭いを</span><br><span class='scene-font-kokoro'>放っていたけれど……）</span>,<span class='scene-font-kokoro'>（你让我吃下的果实，虽然散发着腐烂的恶臭……）</span>
+43,レナ,<span class='scene-font-kokoro'>（長い時間が経って、ようやく……</span><br><span class='scene-font-kokoro'>ようやく土に還ってくれたの。そして</span><br><span class='scene-font-kokoro'>綺麗な花を咲かせる土壌になった……）</span>,<span class='scene-font-kokoro'>（过了这么久，终于……再次回归泥土，成为孕育美丽花朵的土壤……）</span>
+44,レナ,<span class='scene-font-kokoro'>（あの長い時間を</span><br><span class='scene-font-kokoro'>嘘にしたくないから……私は……）</span>,<span class='scene-font-kokoro'>（我不想，让至今的时光都白费……我……）</span>
+45,ルリア/露莉亚,レナさん、大丈夫ですか？,蕾娜，你没事吧？
+46,レナ,……心配かけてごめんなさいねえ。,……抱歉让你们担心了。
+47,レナ,最後まで、私は誰かの幸せのために<br>花を咲かせることができたのねぇ……<br>なんて、幸せなのかしら……,一直到最后，我都在为他人的幸福而创造花朵……<br>这是，多么的幸福啊……
+48,,<span class='scene-font-katari'>そして、レナは静かに目を閉じる。</span>,<span class='scene-font-katari'>随后，蕾娜闭上双眼。</span>
+49,ルリア/露莉亚,レナさん……！？<br>最後って……！,蕾娜……！？<br>最后……！？
+50,レナ,ありがとう、姬塔さん、<br>ルリアちゃん、ビィちゃん……,谢谢你们，姬塔，露莉亚，碧……
+57,ルリア/露莉亚,レナさんっ！？,蕾娜！？
+58,,<span class='scene-font-katari'>レナの姿は消え、辺りには</span><br><span class='scene-font-katari'>おびただしい量の魔生花が残された。</span>,<span class='scene-font-katari'>蕾娜消失了，只留下周围大片的魔生花。</span>
+59,,<span class='scene-font-katari'>風に揺れる魔生花を、</span><br><span class='scene-font-katari'>姬塔達は呆然と眺めるほか</span><br><span class='scene-font-katari'>なかった。</span>,<span class='scene-font-katari'>姬塔一行不知所措，呆然望着在风中摇曳的魔生花。</span>
+info,,,scene_ult_chr091_ep1_q3_s20
