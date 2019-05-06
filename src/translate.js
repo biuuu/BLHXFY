@@ -12,6 +12,7 @@ import weaponSkill from './modules/weapon'
 import summonSkill from './modules/summon'
 import transComic from './modules/comic'
 import transBuff from './modules/buff'
+import transArcarum from './modules/arcarum'
 import pageIndex, { replaceHour } from './modules/page-index'
 import showVoiceSub from './modules/voice-sub'
 import { getUserName, setUserName } from './store/name-user'
@@ -97,6 +98,15 @@ export default async function translate(state) {
       pathname.includes('/archive/summon_detail')
     ) {
       data = await summonSkill(data)
+    } else if (
+      pathname.includes('/rest/arcarum/move_division') ||
+      pathname.includes('/rest/arcarum/start_stage') ||
+      pathname.includes('/rest/arcarum/open_gatepost') ||
+      pathname.includes('/rest/arcarum/open_chest') ||
+      pathname.includes('/rest/arcarum/next_stage') ||
+      pathname.includes('/rest/arcarum/stage')
+    ) {
+      data = await transArcarum(data)
     } else {
       return
     }
