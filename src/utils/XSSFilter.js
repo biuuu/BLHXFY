@@ -4,6 +4,7 @@ const whiteList = [
   '需要<%= quest_ap - sp %><%= point_name %>来开始。',
   '使用道具恢复<%= point_name %>？',
   `来自<span class='txt-request-name'><%= n.attributes.called_user_name %></span>的救援请求`,
+  '物品「<%= contents[0].higher_order_info.from_name %>」的<br>效果已经生效了，<br>所以「<%= contents[0].name %>」的效果无法生效',
   `来自<span class='txt-request-name'><%= raid['called_user_name'] %></span>的救援请求`,
   '还剩<%= can_quest_start_count %>回挑战（一共<%= max_quest_start_count %>回）',
   '<%= set_user.name %> Rank <%= set_user.rank %> 选择任务',
