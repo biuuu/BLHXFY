@@ -192,6 +192,4 @@ ja,zh
 禁足のフロギストン,禁足的烈焰石
 巨顎のロックフィッシュ,巨颚的岩石鱼
 アースシード,土之种
-
 #系统,
-既にアイテム「<%= contents[0].higher_order_info.from_name %>」の<br>効果が発動しているため<br>「<%= contents[0].name %>」の効果は発動しませんでした。,物品「<%= contents[0].higher_order_info.from_name %>」的<br>效果已经生效了，<br>所以「<%= contents[0].name %>」的效果无法生效。
