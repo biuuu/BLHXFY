@@ -8,9 +8,12 @@ import { getPlusStr, removeHtmlTag, race } from '../utils/'
 import CONFIG from '../config'
 import { transSkill } from './skill-npc'
 import debounce from 'lodash/debounce'
+import getArcarumData from '../store/arcarum'
 
 const skillTemp = new Map()
 const posMap = new Map()
+let arcarumMap = new Map()
+
 let count = 0
 let observered = false
 let obConfig = {
@@ -77,11 +80,31 @@ const collectNpcSkill = (skillData) => {
   }
 }
 
+const replaceMonsterName = (item, key) => {
+  const name = item[key].replace(/^Lvl?\s?\d+\s+/, '')
+  if (arcarumMap.has(name)) {
+    const trans = arcarumMap.get(name)
+    item[key] = item[key].replace(name, trans)
+  }
+}
+
+const transBossName = async (data) => {
+  if (data && isArray(data.param)) {
+    data.param.forEach(item => {
+      replaceMonsterName(item, 'monster')
+      replaceMonsterName(item.name, 'en')
+      replaceMonsterName(item.name, 'ja')
+    })
+  }
+}
+
 const battle = async function battle(data, mode) {
   if (!CONFIG.battleTrans) return data
   let ability
   let scenario
   let spms
+
+  arcarumMap = await getArcarumData()
   if (mode === 'result') {
     if (isObject(data.status)) {
       ability = data.status.ability
@@ -93,6 +116,7 @@ const battle = async function battle(data, mode) {
     spms = data.skip_special_motion_setting
     data.temporary_potion_all_name = '群体回复药水'
     data.temporary_potion_one_name = '治疗药水'
+    await transBossName(data.boss)
   }
   if (isArray(spms)) {
     spms.forEach(item => {
@@ -302,6 +326,9 @@ const battle = async function battle(data, mode) {
           item.name = tsName
           item.text = tsDetail
           skillTemp.set(name, { name: getPlusStr(tsName)[2], detail: tsDetail })
+        } else if (item.cmd === 'boss_gauge') {
+          replaceMonsterName(item.name, 'ja')
+          replaceMonsterName(item.name, 'en')
         }
       }
     }
