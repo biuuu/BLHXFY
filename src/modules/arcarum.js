@@ -5,7 +5,7 @@ let arcarumMap = new Map()
 
 const replaceText = (key, data) => {
   if (data && data[key]) {
-    let text = data[key].replace(/<br\s?\/?>\r?\n/gi, '')
+    let text = data[key].replace(/<br\s?\/?>/gi, '').replace(/\r?\n/g, '')
     if (arcarumMap.has(text)) {
       data[key] = arcarumMap.get(text)
     }

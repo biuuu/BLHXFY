@@ -110,7 +110,6 @@ const battle = async function battle(data, mode) {
       ability = data.status.ability
       spms = data.status.skip_special_motion_setting
     }
-    if (isObject(data.scenario)) scenario = data.scenario
   } else {
     ability = data.ability
     spms = data.skip_special_motion_setting
@@ -123,6 +122,8 @@ const battle = async function battle(data, mode) {
       posMap.set(item.pos, item.setting_id)
     })
   }
+
+  if (isObject(data.scenario)) scenario = data.scenario
 
   await getCommSkillMap()
   // translate skill
