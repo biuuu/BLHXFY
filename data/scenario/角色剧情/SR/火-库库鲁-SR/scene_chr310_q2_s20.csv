@@ -1,0 +1,47 @@
+id,name,text,trans
+0-chapter_name,,お姉ちゃんに、お任せ！,交给姐姐我吧！！
+0-synopsis,,捕えた山賊達から時限爆弾を仕掛けたと聞かされる姬塔達。ククルは仲間や鉱山の人々を退避させひとりで爆弾の解体をしようとするが、クムユや姬塔達はそれを拒否する。仲間達の命を背負って時限爆弾の解体を成功させたククルは、集中していて気づかなかったゲジゲジの存在に遅れて気づき、クムユと共に悲鳴を上げるのだった。,从被抓起来的山贼口中，姬塔一行知道了定时炸弹的存在。库库鲁本是打算让同伴和矿山的人一起去避难，但是库姆优和姬塔一行拒绝了这个提议。背负着同伴的生命，将炸弹成功拆除的库库鲁，由于过于集中注意力而没有意识到蚰蜒就在手边，于是，她和库姆优一起，无能狂怒。
+1,ククル/库库鲁,どんなもんだい、っと！<br>姬塔もクムユも、<br>みんなケガしてないよね？,没什么大不了的！<br>姬塔，库姆优<br>大家都没事吧？
+2,クムユ/库姆优,うん！　大丈夫ですよ、姉ちゃん！<br>鉱山の人達も無事みたいです。,嗯！　没事，姐姐！<br>矿山的人好像也没事。
+3,ククル/库库鲁,よっし！<br>それじゃ、ふんじばった連中も一緒に<br>一度ここを出て……,嗯！<br>那么，连被绑住的家伙也一起<br>从这里出去吧……
+4,山賊,はっ！　偉そうにすんなよ小娘ぇ！<br>さっき時限爆弾をしかけといた。<br>解けるのは俺様だけだ！,哈！　别高兴的太早了哦小姐！<br>刚刚我放了个定时炸弹。<br>能拆开的只有本大爷！
+5,クムユ/库姆优,ぴぃいっ！？<br>じじじじ時限爆弾です！？<br>なななななんてものを……！,呜哇！？<br>定定定定定时炸弹！？<br>为为为为为什么会有那种东西……！
+6,ククル/库库鲁,……落ち着きな、クムユ！<br>大丈夫、それは姉ちゃんが<br>なんとかする。,……冷静一下，库姆优！<br>没关系，这个炸弹，<br>姐姐我会想办法的。
+7,山賊,へっ！　できるもんかよ、<br>あいつは特別製で……,哼！　你能办到吗<br>那个炸弹是特制的……
+8,ククル/库库鲁,銃工房の技術をナメるんじゃあない！<br>どんな仕組みか知らないけど、<br>そんなんちょちょいのちょいだ！,不要小看铳工坊的技术啊！<br>不知道你是什么构成，<br>但是我肯定能拆开！
+9,ククル/库库鲁,……さ、姬塔。<br>鉱山の人達とこのバカ共連れて、<br>先に外に出てて？,……来吧，姬塔。<br能把矿山的人还有这个傻逼，<br>先带到外边吗？
+10,ククル/库库鲁,<span class='scene-font-kokoro'>（啖呵切ったはいいけど、</span><br><span class='scene-font-kokoro'>どんなもんか見てもいないしね……）</span>,<span class='scene-font-kokoro'>（虽然逞了口头之能</span><br><span class='scene-font-kokoro'>但还是要仔细看看这是个什么东西才行啊……）</span>
+11,ククル/库库鲁,<span class='scene-font-kokoro'>（鉱山塞がっちゃうかもだけど、</span><br><span class='scene-font-kokoro'>取り敢えず外に出ててもらえば</span><br><span class='scene-font-kokoro'>人的被害はアタシだけ。うん、よし！）</span>,<span class='scene-font-kokoro'>（也许会堵住矿山，</span><br><span class='scene-font-kokoro'>总之先让人们出去的话</span><br><span class='scene-font-kokoro'>受伤的就只有我一个。嗯，就这样吧！）</span>
+12,クムユ/库姆优,……姉ちゃん……,……姐姐……
+13,ククル/库库鲁,どした、クムユ？<br>時間ないから、ほら姬塔達と<br>先に……,怎么了，库姆优？<br>没时间了，你先和<br>姬塔一起……
+14,クムユ/库姆优,ばかぁ！　ククル姉ちゃん、<br>ひとりなら解体失敗してもいいや、って<br>思ってるですよね！？,笨蛋！　库库鲁姐姐，<br>一个人的话即使失败也没关系，<br>你是这么想的吧！？
+15,ククル/库库鲁,あ、いや、そんなこたぁ……,啊，没有，那种事情……
+16,クムユ/库姆优,ばかばかーっ！！<br>クムユ、姉ちゃんをひとりぼっちで<br>死なせたりしねーですからね！,笨蛋笨蛋ー！！<br>库姆优，绝对不会让姐姐<br>一个人死在这种地方的！
+17,クムユ/库姆优,コンチキショー、クムユもいるですから<br>絶対絶対解体成功させるですよ、<br>ククル姉ちゃん！！,你这蠢货ー，还有库姆优在呢<br>绝对绝对会拆解成功的，<br>库库鲁姐姐！！
+18,ルリア/露莉亚,そうですよ！<br>私達も離れませんからね！,就是啊！<br>我们也不会走的！
+19,ビィ/碧,そうだそうだ！<br>山賊の奴等は鉱山の連中に<br>外に出してもらやいいしな！,没错！<br>让山贼他们把矿山的人们<br>带出去就好了！
+20,ククル/库库鲁,うぐっ……姬塔……<br>……はぁ、こっちも<br>一歩も退かない目だぁ……,唔……姬塔……<br>……哈啊<br>你这里也是一步都不退让啊……
+21,ククル/库库鲁,あ～もうっ！　解った解った！<br>ククル姉ちゃんに<br>ど～んと任せとけっ！！,啊～真是！　拆拆拆！<br>就交给<br>库库鲁我吧！！
+24,,<span class='scene-font-katari'>やけっぱちのように宣言し、</span><br><span class='scene-font-katari'>ククルは山賊の用意した</span><br><span class='scene-font-katari'>時限爆弾に飛びつく。</span>,<span class='scene-font-katari'>说着自暴自弃的话，</span><br><span class='scene-font-katari'>库库鲁奔向山贼准备的</span><br><span class='scene-font-katari'>定时炸弹。</span>
+26,ククル/库库鲁,ええと、ここ……うん、仕掛けに<br>魔法を使ってる訳だね。<br>砂時計で時間を……で、こっちが……,嗯，这里……嗯，是魔法做的装置啊。<br>用沙漏控制……啊，这里啊……
+27,ビィ/碧,ゴクリ……,吞口水……
+28,ククル/库库鲁,……ダメ、この掛け金は<br>触ると火薬が反応する。<br>じゃあ……いやここが……,……不行，这个触发器<br>碰一下就会触发火药。<br>那么……这里吗……
+29,ククル/库库鲁,ってことは、こっちの金具を<br>外しちまえば発火できない……<br>……よしっ！　ここだ！！,也就是说，这里的触发器<br>去掉的话就没办法点火了……<br>……好！　就是这里！！
+31,,<span class='scene-font-katari'>ククルの目の前で落ち続けていた</span><br><span class='scene-font-katari'>砂時計の砂が失われても、</span><br><span class='scene-font-katari'>時限爆弾は沈黙していた。</span>,<span class='scene-font-katari'>库库鲁眼前的沙漏中的沙</span><br><span class='scene-font-katari'>一点点地流逝，</span><br><span class='scene-font-katari'>到最后，炸弹没有爆炸。</span>
+32,ククル/库库鲁,くぅ～……！,呼～……！
+33,ルリア/露莉亚,え、ええと……<br>爆発、しません……よね？,欸，……<br>没有……爆炸吧？
+34,ビィ/碧,ふぃ～……！<br>あぁ～、ドキドキしたぜぇ！,呼～……！<br>啊啊～、吓死我了！
+35,ククル/库库鲁,どんな、もん、でぇっ！！,这种，算，什么！！
+36,クムユ/库姆优,ククル姉ちゃんっ！<br>すげーです、カッコイイです！<br>お父ちゃんみたいな手際ですーっ！！,库库鲁姐姐！<br>好ー厉害，超级酷！<br>和爸爸的本领一样ー！！
+37,ククル/库库鲁,あはは、そっか！<br>お父ちゃんみたいか！<br>……サイッコーの褒め言葉だぁ！,啊哈哈，这样！<br>和爸爸一样吗！<br>……这是最棒的夸赞了！
+38,,<span class='scene-font-katari'>飛びついた妹の頭を撫でまわし、</span><br><span class='scene-font-katari'>ククルはやっと肩から力を抜く。</span><br><span class='scene-font-katari'>だが……</span>,<span class='scene-font-katari'>抚摸着飞奔过来的妹妹的头，</span><br><span class='scene-font-katari'>库库鲁总算放松下来。</span><br><span class='scene-font-katari'>但是……</span>
+39,クムユ/库姆优,ひょええええ！！<br>ねねっ、姉ちゃんっ！！<br>そそそそそそこにっ！！,呀啊啊啊啊！！<br>姐，姐，姐姐！！<br>那那那那那里！！
+40,ククル/库库鲁,ん？　なにが……,嗯？　怎么了……
+41,ククル/库库鲁,<span class='scene-font-4'>……ぴゃあああああっ！！</span><br><span class='scene-font-4'>ゲ、ゲジゲジ！！</span><br><span class='scene-font-4'>ゲジゲジがぁ！</span>,<span class='scene-font-4'>……呀啊啊啊啊！！</span><br><span class='scene-font-4'>蚰，蚰蜒！！</span><br><span class='scene-font-4'>蚰蜒！</span>
+42,ルリア/露莉亚,はわっ！？<br>じ、時限爆弾の外に<br>ゲジゲジさんがくっついてます～！？,哈哇！？<br>定时炸弹的外面<br>有蚰蜒～！？
+43,ククル/库库鲁,<span class='scene-font-4'>むむむ無理無理っ！</span><br><span class='scene-font-4'>ぎゃーこっち来る！！</span><br><span class='scene-font-4'>助けてぇ！</span>,<span class='scene-font-4'>走走走走走开！</span><br><span class='scene-font-4'>哇！来这边了！！</span><br><span class='scene-font-4'>救命！</span>
+45,ビィ/碧,やれやれ、今の今まで<br>カッコ良かったのによぅ……けど、<br>気づかないくらい集中してたんだな！,诶，刚刚<br>还那么酷……但是，<br>注意力集中到没注意到嘛！
+46,,<span class='scene-font-katari'>ビィと顔を見合わせ、</span><br><span class='scene-font-katari'>姬塔はゲジゲジを</span><br><span class='scene-font-katari'>坑道の奥へと放り投げる。</span>,<span class='scene-font-katari'>和碧对视了一眼，</span><br><span class='scene-font-katari'>姬塔把蚰蜒</span><br><span class='scene-font-katari'>放到了坑道的深处。</span>
+47,,<span class='scene-font-katari'>鉱山にゲジゲジが大量に</span><br><span class='scene-font-katari'>潜んでいるのではと震えるククルを連れ</span><br><span class='scene-font-katari'>一行は鉱山を後にした。</span>,<span class='scene-font-katari'>意识到矿山里生存着</span><br><span class='scene-font-katari'>大量的蚰蜒的库库鲁浑身发抖，</span><br><span class='scene-font-katari'>一行人带着她出了矿山。</span>
+48,,<span class='scene-font-katari'>一線級の技術を持つ銃の職人ククル。</span><br><span class='scene-font-katari'>姉御肌で気風の良い彼女も、</span><br><span class='scene-font-katari'>苦手なものにはタジタジなのだった。</span>,<span class='scene-font-katari'>拥有一流的技术的库库鲁。</span><br><span class='scene-font-katari'>即使是很会照顾人的她，</span><br><span class='scene-font-katari'>碰到不擅长的东西也是束手无策啊。</span>
+info,,麻友桑的话筒,scene_chr310_q2_s20
