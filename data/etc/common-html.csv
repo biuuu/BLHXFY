@@ -35,7 +35,7 @@ path,text,trans,count
 /content,発動,发动,10
 /content,習得,习得,21
 /content,変更,变更,9
-/content,<div class="prt-group-header">ボーナス</div>,<div class='prt-group-header'>+1</div>,
+/content,"<div class=""prt-group-header"">ボーナス</div>",<div class='prt-group-header'>+1</div>,
 /content,スキル,技能,10
 /content,並び替える条件をひとつ選択してください,请选择重新排列的条件,2
 /content,倉庫TOPに戻る,返回仓库首页,
@@ -196,9 +196,9 @@ path,text,trans,count
 /arcarum/content/stage,この場所に移動します,移动到这个地点,3
 /arcarum/content/stage,TPが0のため移動できません,TP为0无法继续前进了,2
 /arcarum/content/stage,移動する,移动,4
-/arcarum/content/stage,セフィラの封門石,,
+/arcarum/content/stage,セフィラの封門石,塞菲拉封门石,7
 /arcarum/content/stage,結界が奥地への進行を阻んでいる,结界阻止你继续向深处前进,
-/arcarum/content/stage,アクイラ・キーストーン,,
+/arcarum/content/stage,アクイラ・キーストーン,阿奎拉钥石,7
 /arcarum/content/stage,星導の天球儀,星导天球仪,
 /arcarum/content/stage,挑戦するアーカルムシリーズを変更できます。,可以变更想要挑战的塔罗系列BOSS,
 /arcarum/content/stage,この場所には何もないようだ,这里好像什么都没有,
@@ -228,6 +228,7 @@ path,text,trans,count
 /arcarum/content/stage,探索を終了しますか,要结束探索吗,
 /arcarum/content/stage,探索を終了した場合、チェックポイント以降の<br>進行状況は保存されません。,如选择结束探索，存档点之后的进度将不会被保存。,
 /arcarum/content/stage,本当に探索を終了しますか,确定要结束探索吗,
+/arcarum/content/stage,既にアイテム「<%= contents[0].higher_order_info.from_name %>」の<br>効果が発動しているため<br>「<%= contents[0].name %>」の効果は発動しませんでした,物品「<%= contents[0].higher_order_info.from_name %>」的<br>效果已经生效了，<br>所以「<%= contents[0].name %>」的效果无法生效,
 /shop_exchange/content/list,>交換可能,>可以交换,2
 /shop_exchange/content/list,回復アイテム,回复道具,2
 /shop_exchange/content/list,育成アイテム,育成道具,

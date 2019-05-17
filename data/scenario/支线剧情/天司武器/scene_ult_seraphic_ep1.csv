@@ -1,0 +1,34 @@
+id,name,text,trans
+0-synopsis,,天司の力を秘めた武器をさらに強化すべく、シェロカルテのもとを訪れたナナシ一行。シェロカルテは強化に必要な素材の一覧が書かれたリストをナナシに手渡す。意気込むナナシだったが、突然、身体が動かなくなり、謎の影に語りかけられる。心配するルリア達に対し、ナナシは「大丈夫だよ」と自分にも言い聞かせるように答えるのだった。,
+2,シェロカルテ/榭洛科特,ふむふむ……<br>この武器の力をもっと高めたい、<br>ということですね～,嗯嗯……<br>想要让武器获得更强的力量，对吧～
+3,,<span class='scene-font-katari'>天司の力を秘めた武器は</span><br><span class='scene-font-katari'>ナナシの尽力によって</span><br><span class='scene-font-katari'>本来の姿を取り戻した。</span>,<span class='scene-font-katari'>在姬塔的努力之下，</span><br><span class='scene-font-katari'>秘藏着天司力量的武器取回了原本的姿态。</span>
+4,,<span class='scene-font-katari'>しかし、ナナシはこの武器を</span><br><span class='scene-font-katari'>さらに強化できると感じており、</span><br><span class='scene-font-katari'>シェロカルテの元へ相談に訪れていた。</span>,<span class='scene-font-katari'>不过，姬塔感到这把武器仍有继续强化的空间，</span><br><span class='scene-font-katari'>便找榭洛科特相询。</span>
+5,シェロカルテ/榭洛科特,ふふ……ナナシさんなら<br>そうおっしゃると思いまして～<br>方法を調べていたんですよ～,呵呵……我就觉得姬塔一定会来这么问，<br>所以已经调查好了哟～
+6,シェロカルテ/榭洛科特,腕利きの武器職人への相談はもちろん、<br>叡智の殿堂の秘密書庫にしかない<br>蔵書を調査してもらったり──,不仅拜访了技艺精湛的武器工匠，<br>连睿智殿堂的秘密书库里的藏书也调查了——
+7,シェロカルテ/榭洛科特,ヘルメス錬金学会の学者さん達に<br>協力を仰いだりと、知りうる限りの<br>ツテを辿ってみたところ～……,还请求了赫尔墨斯炼金学会学者的协力，<br>尽可能利用了我所有的门路～……
+8,,<span class='scene-font-katari'>そこでシェロカルテは、</span><br><span class='scene-font-katari'>ナナシに一枚の紙を手渡す。</span>,<span class='scene-font-katari'>说到这里，榭洛科特向姬塔递过了一张纸。</span>
+9,シェロカルテ/榭洛科特,そこに書かれているものを<br>揃えていただければ、<br>さらなる強化ができそうなんです～,将这张纸上所写的材料都收集齐全的话，<br>应该就能继续强化天司武器了~
+10,ビィ/碧,おぉ！　さすがよろず屋だぜ！<br>もうそこまで話を<br>進めてくれてたなんてよ！,哦哦！不愧是万事屋！<br>居然已经做到这种地步了！
+11,ルリア/露莉亚,必要な素材がこんなにたくさん……<br>大変そうです……！,需要这么多的素材……<br>会很辛苦的样子……！
+12,シェロカルテ/榭洛科特,誰も挑戦したことのない、<br>未知の領域ですからね～,毕竟是没人挑战过的未知领域嘛~
+13,シェロカルテ/榭洛科特,難しいとは思いますが、<br>集められそうですか～？,虽然会有些难，不过应该没问题吧~？
+14,ビィ/碧,おう！　これまでだって<br>しっかりトレジャーを集めて<br>強化してきたからな！,噢！毕竟至今都一直在努力收集材料做强化！
+15,ビィ/碧,今度もやってやろうぜ！<br>なぁ、ナナシ！,这次也加油吧！<br>对不对，姬塔！
+15-sel1_txt,,<span class='scene-font-katari'>頑張ろう！</span>,<span class='scene-font-katari'>加油！</span>
+16,,<span class='scene-font-katari'>張り切って応じる</span><br><span class='scene-font-katari'>ナナシだったが──</span>,<span class='scene-font-katari'>姬塔振奋地回答道——</span>
+17,,<span class='scene-font-katari'>突然、金縛りにあったかのように</span><br><span class='scene-font-katari'>身体が動かなくなってしまう。</span>,<span class='scene-font-katari'>突然，身体像是被束缚住一般，</span><br><span class='scene-font-katari'>一动也不能动。</span>
+23,,<span class='scene-font-katari'>次の瞬間、強烈なめまいと共に</span><br><span class='scene-font-katari'>視界が暗くなり、</span><br><span class='scene-font-katari'>目の前に謎の影が現れた。</span>,<span class='scene-font-katari'>下个瞬间，伴随着强烈的眩晕，</span><br><span class='scene-font-katari'>视野内暗了下来，一个神秘的影子出现在眼前。</span>
+24,？？？,<span class='scene-font-gray'>フフフ、流石は特異点だ。</span><br><span class='scene-font-gray'>天司のナニすら調教しようとはねえ……</span>,<span class='scene-font-gray'>哼哼哼，不愧是特异点。</span><br><span class='scene-font-gray'>甚至连天司的那个都打算调教啊……</span>
+25,？？？,<span class='scene-font-gray'>だが並大抵の武器とはワケが違う。</span><br><span class='scene-font-gray'>焦らずじっくり仕込むといい。</span>,<span class='scene-font-gray'>不过这也绝不是什么普通的武器。</span><br><span class='scene-font-gray'>不要着急，慢慢来就行。</span>
+26,？？？,<span class='scene-font-gray'>果たして最後までイケるのか、</span><br><span class='scene-font-gray'>高みの見物といかせて貰うよ。</span>,<span class='scene-font-gray'>就让我好好看看，</span><br><span class='scene-font-gray'>你最后到底行不行。</span>
+36,,<span class='scene-font-katari'>そこで影は姿を消し、</span><br><span class='scene-font-katari'>視界も元に戻っていく。</span>,<span class='scene-font-katari'>那个身影渐渐消失，</span><br><span class='scene-font-katari'>视野又恢复了原状。</span>
+37,ルリア/露莉亚,どうかしましたか？<br>急にぼんやりして……,你怎么了？<br>突然呆呆站在那里……
+37-sel1_txt,,<span class='scene-font-katari'>大丈夫だよ</span>,<span class='scene-font-katari'>我没事</span>
+38,,<span class='scene-font-katari'>自分にも言い聞かせるように</span><br><span class='scene-font-katari'>返答するナナシ。</span>,<span class='scene-font-katari'>就像是试图说给自己听一般，姬塔这样回答道。</span>
+39,,<span class='scene-font-katari'>そして、武器の方も</span><br><span class='scene-font-katari'>さらなる解放を望んでいる様子だと</span><br><span class='scene-font-katari'>勢い込んで語る。</span>,<span class='scene-font-katari'>接着，又打起精神，展望起了武器再度进化的前景。</span>
+40,ビィ/碧,へへっ、気合い入ってるな！<br>その調子なら問題なさそうだぜ！,嘿嘿，干劲十足嘛！<br>这样的话就没问题了！
+41,シェロカルテ/榭洛科特,ふふふ～<br>皆さんならきっとできます～<br>応援してますよ～,呵呵呵～<br>你们一定可以达成目标的～<br>我看好你们哦～
+42,ビィ/碧,おう！　色々ありがとな！,哦！　真是太感谢你了！
+43,,<span class='scene-font-katari'>ナナシ達はリストに書かれた</span><br><span class='scene-font-katari'>素材を集める算段を話し合いつつ、</span><br><span class='scene-font-katari'>艇へと戻っていくのだった。</span>,<span class='scene-font-katari'>姬塔等人讨论着筹集素材的方法，</span><br><span class='scene-font-katari'>向骑空艇走去。</span>
+info,,,scene_ult_seraphic_ep1
+,,,留恋榴莲牛奶 暂译

@@ -1,0 +1,58 @@
+id,name,text,trans
+0-chapter_name,,イノセント・ドール,纯洁・人偶
+0-synopsis,,放浪の旅を続けるオーキス。各地で目にするもの全てが珍しく興味を惹かれる事ばかりで、オーキスの旅は順調に進んでいた。しかし、新たに踏み入れた島でその隙を狙われたオーキスは人さらいに遭い、牢屋に監禁されてしまう。そこでオーキスは同じくさらわれてきた少女と共に牢を出ようとするが、ロイドを使ったことで少女が泣いてしまい、人さらい達が集まってきてしまう。,欧姬丝继续着随性的旅行，映入眼帘的东西全都很有趣，就这样，欧姬丝的旅途顺利地进行着。但是，在踏上新的岛屿时被人盯上的欧姬丝被拐走，关在牢房里。在那里欧姬丝准备和一起关进来的少女一同逃走，然而罗伊特的出现吓到了少女，人贩子门聚集起来。
+0,オーキス/欧姬丝,…………,…………
+1,オーキス/欧姬丝,次は……<br>この島を冒険……,这次……<br>是这座岛的探险……
+2,オーキス/欧姬丝,何があるか……楽しみ。,会发生什么呢……真期待。
+3,,<span class='scene-font-katari'>ロイドを連れ、</span><br><span class='scene-font-katari'>皆が笑顔になれる未来を作るため</span><br><span class='scene-font-katari'>放浪の旅に出たオーキス。</span>,<span class='scene-font-katari'>带着罗伊特、</span><br><span class='scene-font-katari'>欧姬丝为了找到让大家</span><br><span class='scene-font-katari'>露出笑容的未来而进行着随性的旅行。</span>
+4,,<span class='scene-font-katari'>オーキスには背負った使命だけでなく</span><br><span class='scene-font-katari'>世界を旅する理由が他にもあった。</span>,<span class='scene-font-katari'>欧姬丝旅行的理由不仅是背负的使命</span><br><span class='scene-font-katari'>还有其他。</span>
+5,,<span class='scene-font-katari'>それは</span><br><span class='scene-font-katari'>“アポロが守った世界を見てみたい”</span><br><span class='scene-font-katari'>ということ。</span>,<span class='scene-font-katari'>那个理由是</span><br><span class='scene-font-katari'>“想看看阿波罗所守护的世界”</span>
+6,,<span class='scene-font-katari'>各地を旅する中で、</span><br><span class='scene-font-katari'>目に入るもの全てが珍しく、</span><br><span class='scene-font-katari'>興味を惹かれる事ばかり。</span>,<span class='scene-font-katari'>在各地旅行的时候、</span><br><span class='scene-font-katari'>周围净是让欧姬丝、</span><br><span class='scene-font-katari'>感兴趣的事物。</span>
+7,,<span class='scene-font-katari'>そしてそのひとつひとつが、</span><br><span class='scene-font-katari'>“アポロが守ってきたもの”</span><br><span class='scene-font-katari'>だと思えることが……</span>,<span class='scene-font-katari'>而它们都是，</span><br><span class='scene-font-katari'>“阿波罗所守护的事物”</span><br><span class='scene-font-katari'>这么想着……</span>
+8,,<span class='scene-font-katari'>オーキスには幸せを感じずには</span><br><span class='scene-font-katari'>いられないのだった。</span>,<span class='scene-font-katari'>就让欧姬丝感到</span><br><span class='scene-font-katari'>很幸福。</span>
+9,オーキス/欧姬丝,行こう、ロイド……,走吧，……
+15,,<span class='scene-font-katari'>そんなオーキスの放浪の旅は</span><br><span class='scene-font-katari'>順調に進んでいると言える――</span>,<span class='scene-font-katari'>欧姬丝的随性的旅途</span><br><span class='scene-font-katari'>本应就像这样――</span>
+16,,<span class='scene-font-katari'>――はずだった。</span>,<span class='scene-font-katari'>――顺利地进行。</span>
+22,オーキス/欧姬丝,…………,…………
+23,,<span class='scene-font-katari'>オーキスは、“ゴーレム”という存在が</span><br><span class='scene-font-katari'>浸透していないこの地にて……</span>,<span class='scene-font-katari'>欧姬丝，来到一个</span><br><span class='scene-font-katari'>不怎么了解'魔像'这种东西的地方……</span>
+24,,<span class='scene-font-katari'>その存在の珍しさから人さらいの</span><br><span class='scene-font-katari'>標的となり、この薄暗い牢獄に</span><br><span class='scene-font-katari'>監禁されてしまったのだった。</span>,<span class='scene-font-katari'>因为稀奇，他们成为了</span><br><span class='scene-font-katari'>人们的目标，被囚禁在这个</span><br><span class='scene-font-katari'>阴暗的牢房里。</span>
+25,オーキス/欧姬丝,……うっかり。,……一不小心。
+26,,<span class='scene-font-katari'>堅牢な鉄格子を握りしめ、</span><br><span class='scene-font-katari'>オーキスは冷たい壁が囲む</span><br><span class='scene-font-katari'>薄暗い牢内を観察している。</span>,<span class='scene-font-katari'>握着坚固的牢门，</span><br><span class='scene-font-katari'>欧姬丝巡视着这个</span><br><span class='scene-font-katari'>阴暗的牢房。</span>
+27,オーキス/欧姬丝,……誰かくる。,……有人来了。
+31,怪しい男,今日はツイてんなぁ！<br>おら、お前もここで<br>大人しくしてろ！,今天都跟我来！<br>喂，你，<br>在这儿站好！
+32,少女,やだ……ひっく、ひっく……<br>おうちにかえりたい……<br>ひっく……ひっく……,不要……抽泣，抽泣……<br>我想回家……<br>抽泣……抽泣……
+33,怪しい男,お家には帰れねぇよ？<br>お前らは売りもんだからなぁ！！,你可不能回家哦？<br>你们都被卖到这里了！！
+35,,<span class='scene-font-katari'>突然牢内へと入って来た男は</span><br><span class='scene-font-katari'>連れてきた少女を乱暴に</span><br><span class='scene-font-katari'>牢へと押し入れる。</span>,<span class='scene-font-katari'>突然进入牢房的男人</span><br><span class='scene-font-katari'>胡乱地将带来的少女</span><br><span class='scene-font-katari'>扔进牢里。</span>
+36,怪しい男,おら、さっさと入れこのガキが！<br>いい加減泣き止みやがれ！　その瞳の<br>価値が下がったらどうしてくれんだ！？,喂，小鬼快点滚进来！<br>差不多别哭了！　<br>要是那双眼睛的价值下降了你怎么赔我啊！？
+37,少女,やだ、だして……<br>こわい……やだ……！！,不要，交出去……<br>好恐怖……不要……！！
+38,オーキス/欧姬丝,売り物……？,交易物……？
+39,怪しい男,あぁ？　そうだよ！<br>お前もこのガキも、見世物小屋に<br>売られてくんだよ！！,啊？　没错！<br>你和这个小鬼，都要被卖到<br>怪形屋啊！！
+40,怪しい男,動いてしゃべる人形と<br>宝石の目を持つガキとはなぁ……<br>一体いくらになんだろうなぁ！？,又会动又会讲话的人偶<br>拥有着宝石一样眼睛的小鬼……<br>到底会值多少钱呢！？
+41,オーキス/欧姬丝,見世物……<br>でも私、面白いことできない……,怪形屋……<br>但是我，不会表演笑话……
+42,怪しい男,はぁ？　<br>面白い事なんかしなくていいんだよ。<br>ただ黙って売られとけ！,哈啊？　<br>不会表演笑话也没关系。<br>闭嘴让我卖了就行了！
+43,オーキス/欧姬丝,…………,…………
+44,怪しい男,不気味なヤローだな……<br>夜までそのまま大人しくしてろよ！,让人不舒服的家伙……<br>老老实实在这儿待到晚上！
+48,少女,ひっく……えぐ……<br>おとうさん……こわいよ……！<br>おとうさん……！！,抽泣……呜……<br>爸爸……好可怕……！<br>爸爸……！！
+49,少女,ひっく……こわ、い……<br>おねえちゃん……こわくないの？,抽泣……好可，怕……<br>姐姐……你不害怕吗？
+50,オーキス/欧姬丝,怖くない……<br>もっと怖いもの、<br>私はたくさん知ってるから。,不害怕……<br>我知道更多，<br>更恐怖的东西。
+51,少女,え？,欸？
+52,オーキス/欧姬丝,……なんでもない。<br>それより、ここから一緒に逃げる？,……没什么。<br>比起这个，一起，从这里逃出去吗？
+53,少女,にげられるの……？<br>ひっく……どうやって……？,能逃出去吗……？<br>抽泣……怎么办……？
+54,オーキス/欧姬丝,簡単……<br>少し、静かにしてて。,简单……<br>稍微，安静一会儿。
+55,少女,……？,……？
+56,オーキス/欧姬丝,ロイド……,罗伊特……
+60,,<span class='scene-font-katari'>オーキスの言葉に応え</span><br><span class='scene-font-katari'>ロイドが暗がりから姿を現す。</span>,<span class='scene-font-katari'>随着欧姬丝的命令</span><br><span class='scene-font-katari'>阴影中显现了罗伊特的身影。</span>
+61,少女,っひ……！,哇……！
+62,オーキス/欧姬丝,あ、静かに――,啊，安静――
+63,少女,<span class='scene-font-4'>ぎゃあああああああ！！</span><br><span class='scene-font-4'>ごわ゛い゛――――！！！</span>,<span class='scene-font-4'>呀啊啊啊啊啊！</span><br><span class='scene-font-4'>好 可 怕゛――――！！！</span>
+64,怪しい男,んなっ！？　<br>今の悲鳴はさっきのガキか！？<br>ったく面倒掛けやがって……！,怎么了！？　<br>刚刚是那个小鬼的声音！？<br>MD真会添麻烦……！
+67,怪しい男,何事だ――,怎么了――
+68,怪しい男,って、なんだオメェは！！<br>いったいどこから入りやがった！？,嗯？你是什么玩意！！<br>到底是从哪里进来的！？
+69,オーキス/欧姬丝,どこからって……<br>ずっと一緒だから……<br>その扉から？,从哪里……<br>我们一直在一起……<br>从这扇门？
+70,怪しい男,な、何言ってやがるテメェ！！<br>何をしようってんだコラァ！！,你TM在说什么！！<br>你打算干什么！！
+71,少女,ひゃあっ……ううっ……！<br>こわいよ……！　こわい……！,呀啊……呜呜呜……！<br>好可怕……！　好可怕……！
+72,怪しい男,おい！　誰かいねぇのか！？<br>し、侵入者だ！<br>ヤベェもんが入って来てるぞ！！,喂！　有人吗！？<br>入侵者！<br>有不得了的东西混进来了！！
+73,オーキス/欧姬丝,……もう、こんなに<br>にぎやかになっちゃったら<br>しかたないし……,……已经，这么热闹的话<br>没办法了……
+74,オーキス/欧姬丝,ちゃちゃっと、片付けて……<br>とっとと逃げよう……,快点完事……<br>早点逃跑吧……
+75,オーキス/欧姬丝,というわけで、<br>行くよ、ロイド……,那么，<br>开打了，罗伊特……
+info,,麻友桑的话筒,scene_chr358_q1_s10

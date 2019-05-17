@@ -1,0 +1,29 @@
+id,name,text,trans
+0-synopsis,,究極にまで磨き上げられた『グローブ・オブ・ウリエル』を手にしたナナシ。その夜、ナナシはウリエルにより神々しき光の世界へ導かれる。ウリエルはナナシが想像を越えて成長したことを喜ぶと、ナナシならば、大いなる闇をも払える力になり得るかも知れないと示唆し、その姿を消すのだった。,姬塔对『乌列尔之拳套』的磨砺已经到达了究极之境。当夜，姬塔被乌列尔引入了散发着神圣光辉的世界。乌列尔因姬塔的成长超乎想象而高兴不已，并暗示姬塔有可能成为驱除黑暗的力量之后，他便消失了。
+0,シェロカルテ/榭洛科特,この武器の成長を見守る事が出来て、<br>よろず屋人生最大の喜びです～<br>うう……感動です～,能够见证着这把武器的成长，是万事屋<br>人生最大的喜悦～<br>呜呜……太感动了～
+2,,<span class='scene-font-katari'>シェロカルテがナナシ一行の</span><br><span class='scene-font-katari'>目の前に武器を差し出すと、</span><br><span class='scene-font-katari'>その場に緊張が走る。</span>,<span class='scene-font-katari'>当榭洛科特将武器展现在众人面前时，</span><br><span class='scene-font-katari'>一股紧张的气氛弥漫开来。</span>
+3,,――……,——……
+4,ビィ/碧,コイツは……<br>ひと目見ただけで、<br>普通じゃねぇってわかるぜ……,这个……<br>一眼看去就知道不是什么普通货色啊……
+5,ルリア/露莉亚,はい……<br>属性の力をこれでもかってぐらい<br>ヒシヒシと感じます……,是的……<br>能感觉到上面附着很强的属性之力……
+6,,<span class='scene-font-katari'>ナナシはひと呼吸置くと、</span><br><span class='scene-font-katari'>究極まで磨きあげられた武器を</span><br><span class='scene-font-katari'>ゆっくりと手に取る。</span>,<span class='scene-font-katari'>姬塔深深地吸了口气，</span><br><span class='scene-font-katari'>小心翼翼地接过武器。</span>
+7,,――……,——……
+8,シェロカルテ/榭洛科特,これは……もはや<br>手で触れるのも躊躇するくらい<br>すごい威圧感ですね～……,这是……<br>好强的威压感，都有些不敢去碰它了呢……
+9,ビィ/碧,そんな代物を使いこなすなんてよぅ。<br>ナナシ、オマエ成長したなぁ！,居然能熟练使用这种东西，<br>姬塔，你也成长了啊！
+9-sel1_txt,,<span class='scene-font-katari'>自分ひとりの力じゃない</span>,<span class='scene-font-katari'>不是我一个人办到的</span>
+9-sel2_txt,,<span class='scene-font-katari'>みんなのお陰だ</span>,<span class='scene-font-katari'>多亏了大家的帮助</span>
+10,ルリア/露莉亚,うふふっ、<br>みんなで成長してるってことですよね！,呵呵，<br>是大家一起成长了呢！
+11,ビィ/碧,へへっ、<br>そういうことだな！,嘿嘿，就是说啊！
+18,,<span class='scene-font-katari'>その夜、寝室に立てかけておいた</span><br><span class='scene-font-spword'>グローブ・オブ・ウリエル</span><span class='scene-font-katari'>が</span><br><span class='scene-font-katari'>かつてないほど目映い光を放ち──</span>,<span class='scene-font-katari'>当夜，放在寝室里的</span><br><span class='scene-font-spword'>乌列尔之拳套</span><span class='scene-font-katari'>放出了前所未有的炫目光芒——</span>
+25,,<span class='scene-font-katari'>一瞬にしてナナシを</span><br><span class='scene-font-katari'>神々しき光の世界へと導く。</span>,<span class='scene-font-katari'>一瞬间，姬塔就被摄入了</span><br><span class='scene-font-katari'>神圣的光之世界。</span>
+29,ウリエル/乌列尔,<span class='scene-font-gray'>やるじゃねぇか！</span><br><span class='scene-font-gray'>これが、</span><span class='scene-font-spword'>グローブ・オブ・ウリエル</span><br><span class='scene-font-gray'>その本来の姿って奴だぜ。</span>,<span class='scene-font-gray'>挺不错的嘛！</span><br><span class='scene-font-gray'>这下子，</span><span class='scene-font-spword'>乌列尔之拳套</span><br><span class='scene-font-gray'>终于恢复了本来面貌。</span>
+30,ウリエル/乌列尔,<span class='scene-font-gray'>属性の力が漲ってるのが分かるだろ？</span>,<span class='scene-font-gray'>属性之力也暴涨了，你懂的吧？</span>
+31,ウリエル/乌列尔,<span class='scene-font-gray'>フン……最初はガキだなんて</span><br><span class='scene-font-gray'>言っちまって悪かったな。</span>,<span class='scene-font-gray'>哼……当初说你是个小鬼，</span><br><span class='scene-font-gray'>真是抱歉啊。</span>
+31-sel1_txt,,<span class='scene-font-katari'>ウリエル……あなたのお陰だ……</span>,<span class='scene-font-katari'>都是托你的福……乌列尔……</span>
+32,ウリエル/乌列尔,<span class='scene-font-gray'>コイツを扱えるようになるには</span><br><span class='scene-font-gray'>並大抵の苦労じゃなかったはずだ。</span><br><span class='scene-font-gray'>こりゃ、期待しちまうなぁ。</span>,<span class='scene-font-gray'>要做到这种程度可不是件容易的事，</span><br><span class='scene-font-gray'>这下，我倒是期待起来了。</span>
+33,ウリエル/乌列尔,<span class='scene-font-gray'>お前なら、</span><br><span class='scene-font-gray'>俺達が未だに到達出来ていない</span><br><span class='scene-font-gray'>領域にまで踏み出せるかも知れねぇ。　</span>,<span class='scene-font-gray'>说不定，你能到达连我都</span><br><span class='scene-font-gray'>未曾踏足过的领域。</span>
+34,ウリエル/乌列尔,<span class='scene-font-gray'>そん時は……</span><br><span class='scene-font-gray'>此の世界に迫る大いなる闇をも払える、</span><br><span class='scene-font-gray'>そんな力になり得るはずだ。</span>,<span class='scene-font-gray'>到那时……你应该能掌握</span><br><span class='scene-font-gray'>消灭威胁着这个世界的黑暗的力量。</span>
+35,ウリエル/乌列尔,<span class='scene-font-gray'>フン……</span><br><span class='scene-font-gray'>こりゃ期待し過ぎってぇ奴か？</span><br><span class='scene-font-gray'>ま、頼んだぜ。</span>,<span class='scene-font-gray'>哼……</span><br><span class='scene-font-gray'>我是不是期待过头了？</span><br><span class='scene-font-gray'>罢了，那就拜托你了。</span>
+38,,<span class='scene-font-katari'>ウリエルはそう発破をかけると、</span><br><span class='scene-font-katari'>大気を激しく震わせながら</span><br><span class='scene-font-katari'>その姿を消した──</span>,<span class='scene-font-katari'>伴随着大气激烈的震动与爆炸，</span><br><span class='scene-font-katari'>乌列尔就这样消失了踪影——</span>
+45,,<span class='scene-font-katari'>元の世界に戻ったナナシは</span><br><span class='scene-font-katari'>窓から見える月浮かぶ夜空を眺め、</span><br><span class='scene-font-katari'>ウリエルの言葉を反芻するのだった。</span>,<span class='scene-font-katari'>姬塔返回到现实世界之后，</span><br><span class='scene-font-katari'>一边自窗边眺望着月空，一边思索乌列尔留下的话语。</span>
+info,,,scene_seraphic03_04_ep1
+,,,留恋榴莲牛奶 暂译
