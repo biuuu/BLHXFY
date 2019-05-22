@@ -56,6 +56,9 @@
 .prt-battle-id {
   user-select: text !important;
 }
+.pop-start-assist *:not(input):not(textarea):not(select) {
+  user-select: all;
+}
 /* buttons */
 body .btn-usual-close::after {
   content: "关闭";
