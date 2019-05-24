@@ -54,10 +54,7 @@
 .txt-info-content,
 .txt-room-id,
 .prt-battle-id {
-  user-select: text !important;
-}
-.pop-start-assist *:not(input):not(textarea):not(select) {
-  user-select: all;
+  user-select: all !important;
 }
 /* buttons */
 body .btn-usual-close::after {
