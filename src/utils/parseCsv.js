@@ -1,4 +1,4 @@
-import CSV from 'papaparse'
+import CSV from 'papaparse/papaparse.min'
 
 const parseCsv = (str) => {
   try {
