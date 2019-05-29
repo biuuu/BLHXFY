@@ -1889,8 +1889,8 @@ raid_54,このバトルは終了しました,This battle has ended.,战斗结束
 raid_55,敵が倒されたため、<br>このバトルは終了しました。,This battle has ended.<br>The foe was defeated.,敌人已经倒下，战斗结束。
 raid_56,<br>楽器や歌による攻撃でゲージが大幅DOWN！,<br>Harp and song attacks supercharge the bar!,<br>通过乐器或歌声发动的攻击能使Mode条大幅下降！
 raid_57,<br>発動までのチャージターンが短縮された！,<br>The charge bar now fills in fewer turns!,<br>发动前的缓冲回合数缩短！
-raid_58,オーバードライブ発動！</br>モンスターが強力な技の発動準備に入った！%s%s,Overdrive took effect!</br>The foe is preparing a special attack! %s%s,OVERDRIVE！</br>敌人准备发动强力攻击！
-raid_59,ブレイク発生！</br>モンスターが技を使用できなくなった！</br>さらに味方のダブル・トリプルアタック発動率アップ！,Break took effect!</br>The foe can't use its special attack.</br>Allies' multiattack rate is boosted!,BREAK！</br>敌人无法使用强力攻击！</br>我方DA·TA率UP！
+raid_58,オーバードライブ発動！<br>モンスターが強力な技の発動準備に入った！%s%s,Overdrive took effect!<br>The foe is preparing a special attack! %s%s,OVERDRIVE！<br>敌人准备发动强力攻击！
+raid_59,ブレイク発生！<br>モンスターが技を使用できなくなった！<br>さらに味方のダブル・トリプルアタック発動率アップ！,Break took effect!<br>The foe can't use its special attack.<br>Allies' multiattack rate is boosted!,BREAK！<br>敌人无法使用强力攻击！<br>我方DA·TA率UP！
 raid_6,%sがダブルアタック,%s made a double attack.,%s二连击！
 raid_60,召喚不可,Summon,无法召唤
 raid_61,主人公が召喚不可状態<br>のため召喚できません。,You aren't able to use summons now.,主人公当前无法发动召唤。

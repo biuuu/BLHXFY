@@ -1,5 +1,5 @@
 ﻿id,name,detail
-npc,哈蕾塞娜,3040079000
+npc,哈蕾塞娜,#3040079000
 special,精彩肢解秀,土属性伤害(特大)/(终突后附加)自身TensionUp效果(3回合，受伤后解除)
 skill-1,打不到我！！,回避所有攻击 <span class=text-blue>◆消耗30%奥义值</span>
 skill-1+,打不到我！！,回避所有攻击 <span class=text-blue>◆消耗25%奥义值</span>
