@@ -1,0 +1,48 @@
+id,name,text,trans
+0-chapter_name,,困惑の来訪者,困惑的来访者
+0-synopsis,,キムラスカ王国の王都バチカルで、突然現れた黒い亀裂に飲み込まれ、見知らぬ場所に飛ばされてしまったティア。情報を集めようとするも、エルステや騎空艇など聞き覚えのない言葉に困惑するばかり。しかし、何かの異変であるならば早急に手を打たねばと気を取り直したティアは、その先で水野愛達と遭遇することになるのだった。,在金拉斯卡王国的王城巴其卡尔，缇娅被突然出现的，黑色裂缝所吞没，来到不熟悉的地方。即使想要收集情报，却也根本搞不懂埃尔斯特或者骑空艇之类没有听过的东西。但是，如果是什么异变的话就要早做准备，这么想着缇娅打起精神，之后，遇到了姬塔他们。
+0,,<span class='scene-font-katari'>キムラスカ王国、</span><br><span class='scene-font-katari'>その王都バチカルにある</span><br><span class='scene-font-katari'>ファブレ公爵邸――</span>,<span class='scene-font-katari'>金拉斯卡王国、</span><br><span class='scene-font-katari'>在王城巴其卡尔</span><br><span class='scene-font-katari'>法布雷公爵宅邸――</span>
+1,ティア,「晶化現象」が<br>こんなところにまで……,'晶化现象'<br>竟然发展到这种地步……
+2,,<span class='scene-font-katari'>ティアは、花壇に咲いた花の中に、</span><br><span class='scene-font-katari'>最近世間に広がりつつある不可思議な</span><br><span class='scene-font-katari'>現象を見つけて顔を曇らせた。</span>,<span class='scene-font-katari'>缇娅看着花坛中绽放的花，</span><br><span class='scene-font-katari'>想着近期世间逐渐扩展的</span><br><span class='scene-font-katari'>不可思议的现象，愁眉不展。</span>
+3,ティア,一体、世界に何が<br>起きているのかしら……,世界、究竟<br>发生了什么……
+4,,<span class='scene-font-katari'>花壇の中できらきらと輝く</span><br><span class='scene-font-katari'>結晶へと手を伸ばしかけた時――</span>,<span class='scene-font-katari'>她将手伸向花坛中闪闪发光的</span><br><span class='scene-font-katari'>结晶的时候――</span>
+6,ティア,っ……！？<br>なに、この気配は――！？,嗯……！？<br>怎么回事，这个气息――！？
+7,,<span class='scene-font-katari'>ティアの背後に、突如として</span><br><span class='scene-font-katari'>空間を引き裂いたような</span><br><span class='scene-font-katari'>黒い亀裂が出現する。</span>,<span class='scene-font-katari'>在缇娅的背后，空间突然</span><br><span class='scene-font-katari'>像是被撕开一样</span><br><span class='scene-font-katari'>出现一道黑色裂缝。</span>
+8,ティア,さっきまで何も<br>なかったはずよね……？<br>これは一体……？,刚刚还<br>什么都没有吧……？<br>这到底是……？
+9,,<span class='scene-font-katari'>ティアは、困惑と警戒を露わにして</span><br><span class='scene-font-katari'>身構えるが……</span>,<span class='scene-font-katari'>缇娅，困惑地警戒着</span><br><span class='scene-font-katari'>防备起来……</span>
+10,ティア,きゃっ！？,呀！？
+12,,<span class='scene-font-katari'>ティアと黒い亀裂の間の空間が、</span><br><span class='scene-font-katari'>激しい勢いで収縮し始める。</span>,<span class='scene-font-katari'>缇娅与黑色空间一同，</span><br><span class='scene-font-katari'>以激烈的速度开始收缩。</span>
+13,ティア,っ、なに……っ！？<br>引き寄せられるっ！！,唔，这……っ！？<br>要被吸走了！！
+14,ティア,きゃあぁぁっ！！,呀啊啊啊！！
+18,,<span class='scene-font-katari'>黒い亀裂は、逆らう隙も与えずに</span><br><span class='scene-font-katari'>ティアを飲み込み、</span><br><span class='scene-font-katari'>無情にもその口を閉じた。</span>,<span class='scene-font-katari'>黑色裂缝，以迅雷不及掩耳之势</span><br><span class='scene-font-katari'>将缇娅吞没，</span><br><span class='scene-font-katari'>无情地闭合了。</span>
+19,ティア,っ……く…………,唔……唔…………
+20,ティア,…………う、ん。,…………唔、嗯。
+21,ティア,<span class='scene-font-kokoro'>（ここは……？</span><br><span class='scene-font-kokoro'>私、お屋敷の中庭にいたはずよね？）</span>,<span class='scene-font-kokoro'>（这里是……？</span><br><span class='scene-font-kokoro'>我、不是在中庭吗？）</span>
+22,ティア,一体、何が起きたの……？,到底，发生了什么……？
+23,,<span class='scene-font-katari'>呆然として零した言葉が</span><br><span class='scene-font-katari'>吹き抜けていく風にさらわれる。</span>,<span class='scene-font-katari'>零落的话语</span><br><span class='scene-font-katari'>飘散在风中。</span>
+24,ティア,とにかく落ち着いて、<br>状況を把握しないと……,先找个休息的地方，<br>整理一下情况吧……
+25,ティア,さっき飲み込まれた亀裂……<br>前に落ちてしまった<br>時空の歪みと似ていたわ。,刚刚的裂缝……<br>像是之前遇到的<br>时空扭曲。
+26,ティア,ルークは、その先で分史世界という<br>ところに出たと言っていたけれど……<br>もしかして、また大精霊に何かが……？,卢克，之前说他去过一个<br>叫做分史世界的地方……<br>难道说，大精灵又……？
+27,ティア,……とにかく、情報が欲しいわ。<br>いつまでもここでぼんやりしている<br>わけにはいかないもの。,……总之，要获取一些情报啊。<br>不能总是坐在这里<br>什么都不知道。
+28,,<span class='scene-font-katari'>そしてティアは、少し先に</span><br><span class='scene-font-katari'>見えている街に向かって歩き出した。</span>,<span class='scene-font-katari'>于是缇娅，走向了</span><br><span class='scene-font-katari'>前方的街道。</span>
+31,ティア,すみません、あの……,不好意思，请问……
+32,街の男性,ん？　どうした？,嗯？　怎么了？
+33,ティア,<span class='scene-font-kokoro'>（ここはどこですか？</span><br><span class='scene-font-kokoro'>なんて聞いたら、</span><br><span class='scene-font-kokoro'>怪しまれるわよね……）</span>,<span class='scene-font-kokoro'>（这里是那里？</span><br><span class='scene-font-kokoro'>要怎么问，</span><br><span class='scene-font-kokoro'>才不显得奇怪呢……）</span>
+34,ティア,あの……王都までは<br>どうやって行くのが<br>いいでしょうか？,请问……去王城<br>要怎么走<br>才对呢？
+35,街の男性,ああ、アガスティアかい？,啊啊，阿加斯蒂亚？
+36,ティア,アガスティア……？<br>え、ええ！　そうです。<br>アガスティアに行きたいんです。,阿加斯蒂亚……？<br>欸、欸欸！　就是它。<br>我想去阿加斯蒂亚。
+37,街の男性,そりゃあ、港から騎空艇だな。<br>でも、ここからだと何回か<br>乗り継ぐことになるなあ。,这样的话，就从港口坐骑空艇过去吧。<br>但是，从这里走的话<br>要换乘好几次。
+38,ティア,そうですか……,原来如此……
+39,ティア,<span class='scene-font-kokoro'>（騎空艇？　乗り物よね。</span><br><span class='scene-font-kokoro'>聞いたことがないわ……</span><br><span class='scene-font-kokoro'>どうしよう、さっぱりわからない）</span>,<span class='scene-font-kokoro'>（骑空艇？　是交通工具吧。</span><br><span class='scene-font-kokoro'>没有听过呢……</span><br><span class='scene-font-kokoro'>怎么办，完全搞不懂）</span>
+40,街の男性,姉ちゃん、どうかしたか？,小姐，怎么了？
+41,ティア,あ、ごめんなさい。<br>あの……バチカルには<br>どこからが近いですか？,啊，抱歉。<br>请问……去巴其卡尔<br>怎么走近？
+42,街の男性,ん？　バチカル？<br>それはエルステの都市かい？<br>聞いたことがないが……,嗯？　巴其卡尔？<br>那是埃尔斯特的都市吗？<br>没有听说过啊……
+43,ティア,いえ、大丈夫です。<br>ありがとうございました。,没关系。<br>谢谢你。
+46,,<span class='scene-font-katari'>礼を言って男性と別れたティアは</span><br><span class='scene-font-katari'>自分が置かれた状況に困惑して</span><br><span class='scene-font-katari'>大きなため息をついた。</span>,<span class='scene-font-katari'>与男子告别的缇娅</span><br><span class='scene-font-katari'>大大地叹了一口气</span><br><span class='scene-font-katari'>对自己所处的状况困惑不已。</span>
+47,ティア,<span class='scene-font-kokoro'>（エルステなんて国、</span><br><span class='scene-font-kokoro'>聞いたことがないわ。</span><br><span class='scene-font-kokoro'>騎空艇というのもわからないし……）</span>,<span class='scene-font-kokoro'>（埃尔斯特这个国家，</span><br><span class='scene-font-kokoro'>从没听说过。</span><br><span class='scene-font-kokoro'>骑空艇是什么也搞不懂……）</span>
+48,ティア,困ったわ……<br>これは、想像以上に深刻な<br>状況なのかもしれないわね。,麻烦了……<br>说不定，这是比想象中<br>更难办的状况。
+49,ティア,……でも、<br>何か異変が起きているのだとすれば<br>ぐずぐずしてはいられない。,……但是，<br>如果是什么异变的话<br>就没时间在这种地方磨蹭了。
+50,ティア,なんとか、戻る方法を見つけないと。,必须，找到回去的办法。
+51,,<span class='scene-font-katari'>そしてティアは、更なる情報を求めて</span><br><span class='scene-font-katari'>街の中心部へ向かって足を向ける。</span>,<span class='scene-font-katari'>于是缇娅，为了追求更多的情报/span><br><span class='scene-font-katari'>走向大街的中心。</span>
+52,,<span class='scene-font-katari'>その先で、水野愛達と</span><br><span class='scene-font-katari'>邂逅することになるのだった――</span>,<span class='scene-font-katari'>在那里，她</span><br><span class='scene-font-katari'>碰到了姬塔一行人――</span>
+info,,麻友桑的话筒,scene_fate_chr285_ep1
