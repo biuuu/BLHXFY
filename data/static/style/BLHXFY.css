@@ -690,7 +690,3 @@ body .cnt-raid .prt-raid-log {
 .autotrans-hint-blhxfy.google-blhxfy::before {
   content: '(本节使用Google翻译机翻，可通过右上Log-设置关闭)'
 }
-html,body{
-  height:100vh;
-  overflow:auto;
-}
