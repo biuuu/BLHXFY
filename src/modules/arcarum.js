@@ -1,13 +1,29 @@
 
 import getArcarumData from '../store/arcarum'
+import debounce from 'lodash/debounce'
 
 let arcarumMap = new Map()
+
+let textTempArr = []
+const debounceLog = debounce(() => {
+  if (!textTempArr.length) return
+  const text = textTempArr.join(',\n')
+  console.log(text + ',')
+  textTempArr = []
+}, 200)
 
 const replaceText = (key, data) => {
   if (data && data[key]) {
     let text = data[key].replace(/<br\s?\/?>/gi, '').replace(/\r?\n/g, '')
+
     if (arcarumMap.has(text)) {
       data[key] = arcarumMap.get(text)
+    } else {
+      let _text = data[key].replace(/\r?\n/g, '')
+      if (!textTempArr.includes(_text)) {
+        textTempArr.push(_text)
+      }
+      debounceLog()
     }
   }
 }
