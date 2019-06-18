@@ -86,7 +86,7 @@ path,text,trans,count
 /quest/content/newassist,「四象降臨」へ,返回「四象降临」,
 /quest/content/newassist,を開始するには<%= point_name %>が<%= quest_ap - sp %>足りません。,需要<%= quest_ap - sp %><%= point_name %>来开始。,
 /quest/content/newassist,アイテムを使用して<%= point_name %>を回復しますか？,使用道具恢复<%= point_name %>？,
-/quest/content/newassist,<span class='txt-request-name'><%= n.attributes.called_user_name %></span>さんからの救援依頼,来自<span class='txt-request-name'><%= n.attributes.called_user_name %></span>的救援请求,
+/quest/content/newassist,<span class='txt-request-name'><%= n.attributes.called_user_name %></span>からの救援依頼,来自<span class='txt-request-name'><%= n.attributes.called_user_name %></span>的救援请求,
 /quest/content/newassist,<span class='txt-request-name'><%= raid['called_user_name'] %></span>さんからの救援依頼,来自<span class='txt-request-name'><%= raid['called_user_name'] %></span>的救援请求,
 /quest/content/newassist,イベントストーリーを開始することで<br>マルチバトルに参加できるようになります。,开始活动剧情后即可参加多人战斗,
 /quest/content/newassist,参加できるイベントマルチバトルはありません,没有可以加入的活动多人战,
