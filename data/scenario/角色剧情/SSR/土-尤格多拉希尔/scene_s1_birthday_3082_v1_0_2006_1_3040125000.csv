@@ -1,0 +1,15 @@
+id,name,text,trans
+1,,<span class='scene-font-katari'>姬塔が部屋に戻って休もうと</span><br><span class='scene-font-katari'>扉を開けた瞬間、爽やかな花の香りが</span><br><span class='scene-font-katari'>鼻腔をくすぐった。</span>,<span class='scene-font-katari'>姬塔回到房间准备休息，</span><br><span class='scene-font-katari'>打开门后一瞬间，清爽的花香就扑面而来。</span>
+2,,<span class='scene-font-katari'>しかし驚いたのは、その光景である。</span><br><span class='scene-font-katari'>部屋一面が花畑と化し、その中心には</span><br><span class='scene-font-katari'>満足げに微笑む彼女の姿があった。</span>,<span class='scene-font-katari'>更让人惊讶的是眼前的景象。</span><br><span class='scene-font-katari'>房间的一面化为了花田，满足地微笑着的她就站在花田中央。</span>
+3,ユグドラシル/尤格多拉希尔,────,————
+4,,<span class='scene-font-katari'>まあ、大体のことは今日が何の日か</span><br><span class='scene-font-katari'>それを考えればわかってしまう。</span>,<span class='scene-font-katari'>大致的情况只要想一下今天是什么日子就知道了。</span>
+5,,<span class='scene-font-katari'>これは、そう、彼女なりの</span><br><span class='scene-font-katari'>ハッピーバースデーの気持ちなのだ。</span>,<span class='scene-font-katari'>这是她像样祝贺Happy Birthday的心情。</span>
+6,,<span class='scene-font-katari'>だが、それを喜ぶには少しばかりの</span><br><span class='scene-font-katari'>度量がいりそうだ。</span>,<span class='scene-font-katari'>不过，要为此开心可能需要一些气度。</span>
+7,,<span class='scene-font-katari'>姬塔は、やれやれと</span><br><span class='scene-font-katari'>少し困ったような笑みを浮かべて</span><br><span class='scene-font-katari'>ユグドラシルの頭を撫でた──</span>,<span class='scene-font-katari'>姬塔有些无可奈何，脸上露出有点困扰的笑容，</span><br><span class='scene-font-katari'>摸了摸尤格多拉希尔的头。</span>
+8,ユグドラシル/尤格多拉希尔,────！,————！
+9,,<span class='scene-font-katari'>そんなこととは露知らず、</span><br><span class='scene-font-katari'>彼女は満面の笑みでこれに応える。</span>,<span class='scene-font-katari'>她并不知道姬塔的纠结，</span><br><span class='scene-font-katari'>满脸笑容地回应姬塔。</span>
+10,,<span class='scene-font-katari'>その笑顔を見ていると</span><br><span class='scene-font-katari'>愉快な気持ちになってくるから不思議だ。</span>,<span class='scene-font-katari'>很不可思议的是，看着她的笑容心情也会变得愉快。</span>
+11,,<span class='scene-font-katari'>この後の片付けの大変さなど</span><br><span class='scene-font-katari'>もう本当にどうでもよくなってくる。</span>,<span class='scene-font-katari'>之后打扫的麻烦也变得无所谓了。</span>
+12,,<span class='scene-font-katari'>姬塔の表情からは</span><br><span class='scene-font-katari'>いつの間にか困り顔が消えていた。</span>,<span class='scene-font-katari'>不知不觉的，姬塔的表情不再带有困扰。</span>
+13,ユグドラシル/尤格多拉希尔,────！,————！
+info,,,scene_s1_birthday_3082_v1_0_2006_1_3040125000
