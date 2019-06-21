@@ -1,0 +1,71 @@
+id,name,text,trans
+0-chapter_name,,STAGE2 黒幕 の 思惑,STAGE2 黑幕的企图
+0-synopsis,,騎空団に仲間入りしたカレンの専用機・紅蓮弐式の右腕の修理のため、一行は<span class='scene-font-place'>ガロンゾ</span>へ舵を切る。紅蓮弐式の修理中、町に出た一行は、幼い少女を人質に取った偽ゼロを見つける。偽ゼロは少女の兄の目の前で少女を高所から突き落とすが、ルルーシュの作戦で待機していた姬塔が救出する。逃げ出した偽ゼロを一行が追う中、ルルーシュは町外れへと急ぐのだった。,为了帮加入骑空团的卡莲修理她的专用机·红莲贰式的右臂，众人前往<span class='scene-font-place'>加隆佐</span>。等待红莲贰式修理时，众人在城里遇见了劫持一名少女做人质的伪Zero。伪Zero在少女的哥哥面前将少女从高处推落，但鲁鲁修早已计划好安排姬塔趁机救下少女。而当姬塔一行追赶逃走的Zero时，鲁鲁修独自朝城外赶去。
+1,,<span class='scene-font-katari'>ルルーシュの予想通り、</span><br><span class='scene-font-katari'>カレンが乗っていた紅蓮弐式もまた、</span><br><span class='scene-font-katari'>この世界に飛ばされていた。</span>,<span class='scene-font-katari'>正如鲁鲁修所料，卡莲所乘的红莲贰式也被传送到了这个世界。</span>
+2,,<span class='scene-font-katari'>先々の戦いで必要になることを見越し、</span><br><span class='scene-font-katari'>町の倉庫に保管していた紅蓮弐式を</span><br><span class='scene-font-katari'>グランサイファーに積み込む。</span>,<span class='scene-font-katari'>为日后的战斗做准备，一行人把保管在城里仓库的红莲贰式运到了格兰赛法上。</span>
+3,カレン/卡莲,紅蓮の積み込みを<br>手伝ってくれてありがとう、みんな。,谢谢大家帮我把红莲运上来。
+4,カレン/卡莲,騎空士になるのは初めてだけど、<br>腕には自信あるから。<br>これからよろしくね。,虽然这是我第一次当骑空士，但我对自己的实力很有自信。<br>大家多指教。
+5,ルリア/露莉亚,はい！　こちらこそ<br>よろしくお願いします！,嗯！ 我们才是，请多多指教！
+7,ルルーシュ,カレン、紅蓮の状態はどうだ？<br>転移の影響で支障は出ていないか？,卡莲，红莲的状态怎么样？<br>有没有因为传送出什么问题？
+8,カレン/卡莲,それなんだけど、右腕に警告が出てる。<br>今の状態じゃ輻射波動が撃てない。,这个，右臂弹出警告了。<br>现在的话不能发射辐射波动了。
+9,ルルーシュ,修理が必要というわけか。<br>輻射波動機構の複雑さ故だな。,看来需要修理了。<br>毕竟辐射波动构造很复杂。
+10,カレン/卡莲,自分でメンテできるか<br>見てみたけど、サッパリだったわ。,我也尝试过自己修理，不过完全没有头绪。
+11,ビィ/碧,だったら<span class='scene-font-place'>ガロンゾ</span>に行ってみねぇか？<br>あそこなら色んな職人がいるし、<br>直せる奴がいるかもしれないぜ。,那咱们去<span class='scene-font-place'>加隆佐</span>看看吧？<br>那里有各种各样的工匠，说不定有人能修好它。
+12,ルルーシュ,ああ。騎空艇の大規模修繕も<br>請け負っている島だな。<br>行ってみよう。,嗯。是那个承包了骑空艇大规模修理的岛吧。<br>我们去看看。
+13,ビィ/碧,よし！<br>それじゃあ、急いで出発だ！,好！<br>那咱们赶紧出发！
+18,,<span class='scene-font-katari'>紅蓮を</span><span class='scene-font-place'>ガロンゾ</span><span class='scene-font-katari'>の中央船渠に運び入れ、</span><br><span class='scene-font-katari'>姬塔たちは物資補給のため</span><br><span class='scene-font-katari'>町へと向かう。</span>,<span class='scene-font-katari'>将红莲搬入</span><span class='scene-font-place'>加隆佐</span><span class='scene-font-katari'>的中央船坞后，姬塔一行前往市区进行物资补给。
+19,,<span class='scene-font-katari'>修理の立ち合いは自分だけで大丈夫と</span><br><span class='scene-font-katari'>カレンが言うので、ルルーシュも</span><br><span class='scene-font-katari'>一行と同行することにした。</span>,<span class='scene-font-katari'>卡莲说她一个人留下来陪同修理就可以了，所以鲁鲁修和也姬塔他们一起同行。</span>
+21,ルルーシュ,ほう……<br>なかなか精細に調べてくれたな。,哦……？<br>调查得还挺仔细的。
+22,C.C.,その書類はさっき<br>よろず屋から受け取った物か？<br>何が分かった？,这是刚才万事屋给你的资料么？<br>有什么新发现？
+23,ルルーシュ,エルステの各拠点で使用されている<br>小型騎空艇の型式や傷跡などの情報だ。,埃尔斯特各据点内小型骑空艇的型号和有无伤痕等情报。
+24,ルルーシュ,これだけの情報が揃えば十分。<br>後は偽ゼロだが……,有这些情报就足够了。<br>剩下的就是伪Zero……
+25,？？？,<span class='scene-font-4'>やめろ！　やめろよ！！</span>,<span class='scene-font-4'>住手！　住手啊！！</span>
+26,ビィ/碧,んな！<br>何かあったのか？,什么！<br>发生了什么？
+28,ルルーシュ,予想通りだな。<br>C.C.、準備を頼む。,和我想的一样啊。<br>C.C.，做好准备。
+29,C.C.,分かった。<br>お前もしくじるなよ。,知道了。<br>你也别搞砸了。
+30,ルルーシュ,ああ。<br>これ以上、殺させやしないさ。,嗯。<br>我不会再让他滥杀无辜了。
+35,ビィ/碧,あ、おい！　あれ！,啊、喂！看那边！
+39,？？？,ひっく、うぅ……,呜、呜呜……
+40,,<span class='scene-font-katari'>姬塔たちが駆けつけると、</span><br><span class='scene-font-katari'>高い建物の屋上で</span><br><span class='scene-font-katari'>幼い少女が弱々しく泣いていた。</span>,<span class='scene-font-katari'>姬塔等人赶到后，发现一个年幼的少女在高楼的屋顶上小声地哭泣。</span>
+41,ゼロ？,…………,
+42,,<span class='scene-font-katari'>少女の後ろには仮面の人物がおり、</span><br><span class='scene-font-katari'>いままさに少女を屋上の縁から</span><br><span class='scene-font-katari'>突き落とそうとしている。</span>,<span class='scene-font-katari'>少女身后的假面人就要把她从屋顶上推下。</span>
+43,少女の兄,<span class='scene-font-4'>チクショウ！　妹を返せ！</span><br><span class='scene-font-4'>返せよぉー！</span>,<span class='scene-font-4'>可恶！快把我妹妹还给我！ 还给我！！！</span>
+44,,<span class='scene-font-katari'>路地にいた少女の兄は</span><br><span class='scene-font-katari'>必死に懇願するが、</span><br><span class='scene-font-katari'>その声は偽ゼロには届かない。</span>,<span class='scene-font-katari'>少女的哥哥在小巷里拼命地喊着，但伪Zero根本不予理睬。</span>
+45,,<span class='scene-font-katari'>大人たちも建物に押し入ろうとするも、</span><br><span class='scene-font-katari'>扉は固く閉ざされ、誰ひとりとして</span><br><span class='scene-font-katari'>助けに行くことができない状態だった。</span>,<span class='scene-font-katari'>大人们想冲进大楼，但大门紧闭，没有一个人能够进去救少女。</span>
+46,ゼロ？,…………,
+47,ルルーシュ,おいおい。<br>なんだ、今度は<br>そんな小さな子を殺すのか。,喂喂，你怎么回事，这次要杀这么小的孩子吗？
+48,ルルーシュ,ゼロにしてはやることが<br>セコいんじゃないか？,作为Zero来说也太小家子气了吧？
+49,ゼロ？,…………！,
+50,ルルーシュ,どうした？<br>口が利けないわけでもあるまい？,怎么了？你又不是不会说话。
+51,,<span class='scene-font-katari'>ルルーシュの言葉に苛立ったのか、</span><br><span class='scene-font-katari'>偽ゼロが、縁に追いつめた少女の</span><br><span class='scene-font-katari'>胸倉を掴む。</span>,<span class='scene-font-katari'>伪Zero似乎被鲁鲁修的话所激怒，一把抓住少女的前襟。</span>
+52,人質の少女,<span class='scene-font-4'>やだよぉぉぉーーー！！</span><br>おにいちゃん、おにいちゃぁぁん！！！,<span class='scene-font-4'>不要啊————！！</span><br>哥哥、哥哥——！！！
+53,少女の兄,なんだよ、お前。<br>アイツを怒らせたら妹が<br>落とされちゃうだろ！,你干什么啊！<br>把那个人激怒的话他会把我妹妹扔下来的！
+54,ルルーシュ,良いんだよ。<br>突き落とされても……,扔下来也没关系……
+55,少女の兄,え？,咦？
+58,少女の兄,<span class='scene-font-4'>やめろぉぉーーーー！！！</span>,<span class='scene-font-4'>不要啊啊啊啊！！！</span>
+59,,<span class='scene-font-katari'>悲痛な叫びを上げる兄を嘲笑うように</span><br><span class='scene-font-katari'>偽ゼロは掴んだ少女の胸倉を押し込み、</span><br><span class='scene-font-katari'>屋上から突き落とした。</span>,<span class='scene-font-katari'>像在嘲笑少女的哥哥一般，伪Zero抓着少女的衣襟往前一推，把她推下屋顶。</span>
+60,ルルーシュ,条件は全てクリアしたからな！,所有的条件都满足了！
+61,ルルーシュ,<span class='scene-font-4'>今だ！　姬塔！</span>,<span class='scene-font-4'>就是现在！　姬塔！</span>
+72,,<span class='scene-font-katari'>ルルーシュの合図で</span><br><span class='scene-font-katari'>姬塔が建物の陰から飛び出す。</span>,<span class='scene-font-katari'>收到鲁鲁修的信号，姬塔从大楼的角落中冲出来。</span>
+73,,<span class='scene-font-katari'>建物の僅かなでっぱりを</span><br><span class='scene-font-katari'>器用に利用して高く飛び上がり、</span><br><span class='scene-font-katari'>少女の体を両の腕で抱き留めた。</span>,<span class='scene-font-katari'>踩着大楼的边缘一个高跳，接住了少女的身体。</span>
+74,人質の少女,あうぅっ！,啊！
+84,人質の少女,ふぇ？　あれ……？,啊……咦？
+93,,<span class='scene-font-katari'>ルルーシュの合図で</span><br><span class='scene-font-katari'>姬塔が建物の陰から飛び出す。</span>,<span class='scene-font-katari'>收到鲁鲁修的信号，姬塔从大楼的角落中冲出来。</span>
+94,,<span class='scene-font-katari'>建物の僅かなでっぱりを</span><br><span class='scene-font-katari'>器用に利用して高く飛び上がり、</span><br><span class='scene-font-katari'>少女の体を両の腕で抱き留めた。</span>,<span class='scene-font-katari'>踩着大楼的边缘一个高跳，接住了少女的身体。</span>
+95,人質の少女,あうぅっ！,啊！
+105,人質の少女,ふぇ？　あれ……？,啊……咦？
+107,少女の兄,だいじょうぶか！？,没事吧！？
+108,人質の少女,おにいちゃん……,哥哥……
+110,人質の少女,<span class='scene-font-4'>うわああーん！！</span><br>怖かったよぉー……,<span class='scene-font-4'>呜哇啊啊啊！！</span><br>我好害怕……
+111,,<span class='scene-font-katari'>姬塔の腕から降りた少女は</span><br><span class='scene-font-katari'>フラフラと兄の胸に顔をうずめ、</span><br><span class='scene-font-katari'>大声で泣きじゃくった。</span>,<span class='scene-font-katari'>姬塔放下少女后，她摇摇晃晃地把脸哥哥的怀中大声哭了起来。</span>
+112,少女の兄,妹を助けてくれてありがとう……<br>本当に、ありがとう……,谢谢你们救了我妹妹……<br>真的，太感谢了……
+113,,<span class='scene-font-katari'>姬塔は柔らかく微笑み、</span><br><span class='scene-font-katari'>元気づけるように少年の肩を叩く。</span>,<span class='scene-font-katari'>姬塔微笑着拍了拍少年的肩膀安慰他。</span>
+114,ルルーシュ,<span class='scene-font-kokoro'>（さすがだな。</span><br><span class='scene-font-kokoro'>しかし、何か違和感がある……）</span>,<span class='scene-font-kokoro'>（不愧是姬塔。但是，有点不对劲……）</span>
+115,,<span class='scene-font-katari'>ルルーシュが偽ゼロの注意を引き、</span><br><span class='scene-font-katari'>姬塔が落とされた少女を</span><br><span class='scene-font-katari'>受け止めるという連携は成功した。</span>,<span class='scene-font-katari'>鲁鲁修吸引伪Zero的注意，姬塔成绩接住掉下来的少女，这一合作十分成功。</span>
+116,,<span class='scene-font-katari'>しかし、ルルーシュには、</span><br><span class='scene-font-katari'>僅かに気にかかることがあった。</span>,<span class='scene-font-katari'>但鲁鲁修还是有些担心。</span>
+117,,<span class='scene-font-katari'>それは偽ゼロがルルーシュの合図の前に</span><br><span class='scene-font-katari'>身を隠していた姬塔の方を</span><br><span class='scene-font-katari'>向いていたことだった。</span>,<span class='scene-font-katari'>那是因为早在鲁鲁修发出信号之前，伪Zero就已经往姬塔的方向看去了。</span>
+118,ゼロ？,…………,
+120,ルリア/露莉亚,あっちに逃げました！<br>追いかけましょう！,往那边逃了！<br>追上去吧！
+122,ルルーシュ,<span class='scene-font-kokoro'>（ミッションスタートだ）</span>,<span class='scene-font-kokoro'>（任务开始）</span>
+123,,<span class='scene-font-katari'>偽ゼロを追いかける</span><br><span class='scene-font-katari'>姬塔たちを尻目に、</span><br><span class='scene-font-katari'>ルルーシュは町外れへと急ぐ。</span>,<span class='scene-font-katari'>不顾追赶伪Zero的姬塔一行，鲁鲁修往城外跑去。</span>
+info,,,scene_evt190614_cp2_q2_s10
