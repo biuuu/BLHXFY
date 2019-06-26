@@ -1,6 +1,6 @@
 id,name,text,trans
 0-chapter_name,,STAGE3 ゼロ の 正体,STAGE3 ZERO的真面目
-0-synopsis,,牢の中で目を覚ましたスザクは、女性が空の世界には不釣り合いなスタンガンらしき物を使っていたことを疑問に思う。牢の看守と話すうち、スザクは自分がエルステ兵の悪意によって虚構の罪で逮捕され、世話になった技師までも暴行に遭ったと知って憤る。そこへ門番に扮したルルーシュが現れ、看守にギアスをかけてスザクを解放すると、スザクに力を貸してほしいと願い出るのだった。,在牢里醒来的朱雀，回想起女性所使用的与空之世界不相符的电击枪，产生了怀疑。在与监狱看守对话的时候，朱雀因为得知自己被埃尔斯特士兵用虚构的罪名恶意逮捕，并且照顾过自己的技师也被施暴了的事感到了愤怒。在那时，扮成看门人的鲁路修出现了，对看守使用了Geass释放了朱雀，并向朱雀拜托想要借助他的力量。
+0-synopsis,,牢の中で目を覚ましたスザクは、女性が空の世界には不釣り合いなスタンガンらしき物を使っていたことを疑問に思う。牢の看守と話すうち、スザクは自分がエルステ兵の悪意によって虚構の罪で逮捕され、世話になった技師までも暴行に遭ったと知って憤る。そこへ門番に扮したルルーシュが現れ、看守にギアスをかけてスザクを解放すると、スザクに力を貸してほしいと願い出るのだった。,在牢里醒来的朱雀，回想起女性所使用的与空之世界不相符的电击枪，产生了怀疑。在与监狱看守对话的时候，朱雀因为得知自己被埃尔斯特士兵用虚构的罪名恶意逮捕，并且照顾过自己的技师也被施暴了的事感到了愤怒。在那时，扮成看门人的鲁鲁修出现了，对看守使用了Geass释放了朱雀，并向朱雀拜托想要借助他的力量。
 3,スザク/朱雀,う……うん……,唔……嗯……
 4,スザク/朱雀,ここは……？,这里是……？
 5,,<span class='scene-font-katari'>スザクは状況を確認しようと、</span><br><span class='scene-font-katari'>狭い鉄格子の中を見回す。</span><br><span class='scene-font-katari'>どうやら牢の中らしい。</span>,<span class='scene-font-katari'>朱雀确认着目前的状况，</span><br><span class='scene-font-katari'>身处于狭小的铁栅栏之中环视着周围。</span><br><span class='scene-font-katari'>应该是在监牢里的样子。</span>
@@ -41,19 +41,19 @@ id,name,text,trans
 52,門番/看门人,牢の鍵を渡せ。<br>あとは、外壁に一生<br>頭を打ち付けていろ。,把牢房的钥匙交给我。<br>这之后，一辈子<br>都给我用头撞外墙吧。
 73,看守/监狱看守,分かった。<br>これが鍵だ。<br>じゃあな。,我知道了。<br>这是钥匙。<br>那么我先走了。
 75,,<span class='scene-font-katari'>看守は腰に下げていた鍵の束を</span><br><span class='scene-font-katari'>門番に渡すと、頭を打ち付けるべく、</span><br><span class='scene-font-katari'>建物の外へ出ていった。</span>,<span class='scene-font-katari'>监狱看守把腰上挂着的钥匙串，</span><br><span class='scene-font-katari'>交给了看门人，然后为了用头去撞墙，</span><br><span class='scene-font-katari'>出去到建筑物的外面。</span>
-76,ルルーシュ/鲁路修,<span class='scene-font-kokoro'>（町で倒れていた男が</span><br><span class='scene-font-kokoro'>スザクを匿っていたとはな）</span>,<span class='scene-font-kokoro'>（没想到街上倒下的男人</span><br><span class='scene-font-kokoro'>居然把朱雀藏匿起来了）</span>
-77,ルルーシュ/鲁路修,<span class='scene-font-kokoro'>（彼のおかげで</span><br><span class='scene-font-kokoro'>スザクの居場所を知ることが出来た）</span>,<span class='scene-font-kokoro'>（也是多亏了他</span><br><span class='scene-font-kokoro'>才能知道朱雀现在在哪）</span>
-78,ルルーシュ/鲁路修,<span class='scene-font-kokoro'>（今は姬塔たちが</span><br><span class='scene-font-kokoro'>応急処置をしてくれているから、</span><br><span class='scene-font-kokoro'>命に別状はないだろう）</span>,<span class='scene-font-kokoro'>（现在姬塔他们</span><br><span class='scene-font-kokoro'>应该是在给他进行紧急治疗</span><br><span class='scene-font-kokoro'>大概是没有生命危险的）</span>
-79,ルルーシュ/鲁路修,<span class='scene-font-kokoro'>（しかし、このエルステ帝国というのは<br><span class='scene-font-kokoro'>腐っているな。私利私欲のためならば、<br><span class='scene-font-kokoro'>暴力も冤罪もやりたい放題か）,<span class='scene-font-kokoro'>（但是，这个埃尔斯特帝国<br><span class='scene-font-kokoro'>真是腐朽啊。只要是为了满足一己私欲，<br><span class='scene-font-kokoro'>暴力也好冤罪也好都肆意妄为啊）
-80,ルルーシュ/鲁路修,<span class='scene-font-kokoro'>（反吐が出る）</span>,<span class='scene-font-kokoro'>（我都要吐了）</span>
-81,,<span class='scene-font-katari'>周囲に他の兵がいないことを確認し、</span><br><span class='scene-font-katari'>ルルーシュはその場で</span><br><span class='scene-font-katari'>兜と鎧を脱ぎ始める。</span>,<span class='scene-font-katari'>确认周围没有别的士兵后，</span><br><span class='scene-font-katari'>鲁路修当场开始</span><br><span class='scene-font-katari'>脱起了头盔和铠甲。</span>
-86,ルルーシュ/鲁路修,スザク！<br>ここにいたのか！,朱雀！<br>你果然在这里啊！
-87,スザク/朱雀,ルルーシュ！？<br>どうして君がここに？,鲁路修！？<br>为什么你会在这里？
-88,ルルーシュ/鲁路修,捕まったって聞いたから<br>騒ぎに乗じて様子を見に来たんだ。,因为我听说你被抓了<br>所以趁着骚乱来看你。
-90,,<span class='scene-font-katari'>ルルーシュは看守から手に入れた鍵で、</span><br><span class='scene-font-katari'>スザクが入れられた牢の錠前を開く。</span>,<span class='scene-font-katari'>鲁路修使用了从监狱看守那里得到的钥匙，</span><br><span class='scene-font-katari'>打开了关着朱雀的监牢的锁。</span>
+76,ルルーシュ/鲁鲁修,<span class='scene-font-kokoro'>（町で倒れていた男が</span><br><span class='scene-font-kokoro'>スザクを匿っていたとはな）</span>,<span class='scene-font-kokoro'>（没想到街上倒下的男人</span><br><span class='scene-font-kokoro'>居然把朱雀藏匿起来了）</span>
+77,ルルーシュ/鲁鲁修,<span class='scene-font-kokoro'>（彼のおかげで</span><br><span class='scene-font-kokoro'>スザクの居場所を知ることが出来た）</span>,<span class='scene-font-kokoro'>（也是多亏了他</span><br><span class='scene-font-kokoro'>才能知道朱雀现在在哪）</span>
+78,ルルーシュ/鲁鲁修,<span class='scene-font-kokoro'>（今は姬塔たちが</span><br><span class='scene-font-kokoro'>応急処置をしてくれているから、</span><br><span class='scene-font-kokoro'>命に別状はないだろう）</span>,<span class='scene-font-kokoro'>（现在姬塔他们</span><br><span class='scene-font-kokoro'>应该是在给他进行紧急治疗</span><br><span class='scene-font-kokoro'>大概是没有生命危险的）</span>
+79,ルルーシュ/鲁鲁修,<span class='scene-font-kokoro'>（しかし、このエルステ帝国というのは<br><span class='scene-font-kokoro'>腐っているな。私利私欲のためならば、<br><span class='scene-font-kokoro'>暴力も冤罪もやりたい放題か）,<span class='scene-font-kokoro'>（但是，这个埃尔斯特帝国<br><span class='scene-font-kokoro'>真是腐朽啊。只要是为了满足一己私欲，<br><span class='scene-font-kokoro'>暴力也好冤罪也好都肆意妄为啊）
+80,ルルーシュ/鲁鲁修,<span class='scene-font-kokoro'>（反吐が出る）</span>,<span class='scene-font-kokoro'>（我都要吐了）</span>
+81,,<span class='scene-font-katari'>周囲に他の兵がいないことを確認し、</span><br><span class='scene-font-katari'>ルルーシュはその場で</span><br><span class='scene-font-katari'>兜と鎧を脱ぎ始める。</span>,<span class='scene-font-katari'>确认周围没有别的士兵后，</span><br><span class='scene-font-katari'>鲁鲁修当场开始</span><br><span class='scene-font-katari'>脱起了头盔和铠甲。</span>
+86,ルルーシュ/鲁鲁修,スザク！<br>ここにいたのか！,朱雀！<br>你果然在这里啊！
+87,スザク/朱雀,ルルーシュ！？<br>どうして君がここに？,鲁鲁修！？<br>为什么你会在这里？
+88,ルルーシュ/鲁鲁修,捕まったって聞いたから<br>騒ぎに乗じて様子を見に来たんだ。,因为我听说你被抓了<br>所以趁着骚乱来看你。
+90,,<span class='scene-font-katari'>ルルーシュは看守から手に入れた鍵で、</span><br><span class='scene-font-katari'>スザクが入れられた牢の錠前を開く。</span>,<span class='scene-font-katari'>鲁鲁修使用了从监狱看守那里得到的钥匙，</span><br><span class='scene-font-katari'>打开了关着朱雀的监牢的锁。</span>
 92,スザク/朱雀,そうじゃない。<br>ここは僕たちが元いた世界じゃない。<br>それなのに、どうして君がここにいる？,我不是这个意思。<br>这里不是我们的那个世界。<br>明明是那样，为什么你会在这里？
-93,ルルーシュ/鲁路修,…………,…………
-94,スザク/朱雀,ルルーシュ……？,鲁路修……？
-95,ルルーシュ/鲁路修,……力を貸して欲しい。<br>お前の力が必要だ……,……我想要借助你的力量。<br>你的力量是不可或缺的……
+93,ルルーシュ/鲁鲁修,…………,…………
+94,スザク/朱雀,ルルーシュ……？,鲁鲁修……？
+95,ルルーシュ/鲁鲁修,……力を貸して欲しい。<br>お前の力が必要だ……,……我想要借助你的力量。<br>你的力量是不可或缺的……
 96,スザク/朱雀,……？,……？
 info,,,scene_evt190614_cp3_q2_s10

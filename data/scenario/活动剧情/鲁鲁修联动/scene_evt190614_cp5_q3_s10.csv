@@ -1,6 +1,6 @@
 id,name,text,trans
 0-chapter_name,,STAGE5 忍び寄る 病魔,STAGE5 无声逼近的 病魔
-0-synopsis,,病床に伏すナナリーを励まそうと、見舞いに訪れていた姬塔一行。ナナリーの部屋を出た一行とルルーシュは、心配をかけまいと気丈に振る舞うナナリーが辛そうだと心配する。ルルーシュは一行にナナリーを助けるために力を貸してほしいと伝え、快諾した姬塔に絶対遵守のギアスをかけるのだった。,为了鼓励卧于病床的娜娜莉，姬塔一行人前来看望她。离开娜娜莉房间的一行人和鲁路修，担心着为了不让大家操心而装作精神十足，实则非常痛苦的娜娜莉。鲁路修传达了希望大家为了娜娜莉而借给他力量的请求，对爽快承诺的姬塔施加了绝对遵守的geass。
+0-synopsis,,病床に伏すナナリーを励まそうと、見舞いに訪れていた姬塔一行。ナナリーの部屋を出た一行とルルーシュは、心配をかけまいと気丈に振る舞うナナリーが辛そうだと心配する。ルルーシュは一行にナナリーを助けるために力を貸してほしいと伝え、快諾した姬塔に絶対遵守のギアスをかけるのだった。,为了鼓励卧于病床的娜娜莉，姬塔一行人前来看望她。离开娜娜莉房间的一行人和鲁鲁修，担心着为了不让大家操心而装作精神十足，实则非常痛苦的娜娜莉。鲁鲁修传达了希望大家为了娜娜莉而借给他力量的请求，对爽快承诺的姬塔施加了绝对遵守的geass。
 1,ルリア/露莉亚,…………,…………
 2,ルリア/露莉亚,できました！<br>さっきよりキレイに折れましたよ！,完成了！和之前折好的那个比更好看了！
 2-sel1_txt,,<span class='scene-font-katari'>僕も折れた！</span>,<span class='scene-font-katari'>我也折好了！</span>
@@ -31,10 +31,10 @@ id,name,text,trans
 30,ナナリー,そういえばルリアさんから<br>聞いたんですけど……,说起来我从露莉亚那里听说……
 31,ナナリー,空の世界には風の止まない島とか、<br>熱い溶岩湖のある島とか、<br>不思議な場所が沢山あるそうなんです。,空之世界里有风不会停息的岛屿，滚烫的岩浆湖的岛屿，很多不可思议的地方呢。
 32,ルルーシュ,ふふっ、それはすごいな。,哈哈，那真是厉害啊。
-33,,<span class='scene-font-katari'>ルルーシュは優しく話しかけながら</span><br><span class='scene-font-katari'>ナナリーが持っている折り鶴を</span><br><span class='scene-font-katari'>テーブルに移していく。</span>,<span class='scene-font-katari'>鲁路修一边温柔地回应着</span><br><span class='scene-font-katari'>一边将娜娜莉手中的纸鹤</span><br><span class='scene-font-katari'>轻轻放去桌上。</span>
+33,,<span class='scene-font-katari'>ルルーシュは優しく話しかけながら</span><br><span class='scene-font-katari'>ナナリーが持っている折り鶴を</span><br><span class='scene-font-katari'>テーブルに移していく。</span>,<span class='scene-font-katari'>鲁鲁修一边温柔地回应着</span><br><span class='scene-font-katari'>一边将娜娜莉手中的纸鹤</span><br><span class='scene-font-katari'>轻轻放去桌上。</span>
 34,ルルーシュ,そろそろ次の薬の時間だ。<br>これを飲んだら、ゆっくりお休み。,差不多到吃药的时间了。喝了药之后，好好休息吧。
 35,ナナリー,はい……,是……
-36,,<span class='scene-font-katari'>ナナリーはルルーシュから差し出された</span><br><span class='scene-font-katari'>錠剤を口に含み、水を飲んだ。</span>,<span class='scene-font-katari'>娜娜莉将鲁路修递来的药片</span><br><span class='scene-font-katari'>含入口中，喝了一口水。</span>
+36,,<span class='scene-font-katari'>ナナリーはルルーシュから差し出された</span><br><span class='scene-font-katari'>錠剤を口に含み、水を飲んだ。</span>,<span class='scene-font-katari'>娜娜莉将鲁鲁修递来的药片</span><br><span class='scene-font-katari'>含入口中，喝了一口水。</span>
 37,ルルーシュ,悪いが、そろそろ寝かせたい。<br>いいか？,抱歉，我想让她休息了。可以吗？
 38,ルリア/露莉亚,あ、そうですね……,啊，说的也是呢……
 39,ナナリー,お兄様……,哥哥……
@@ -43,23 +43,23 @@ id,name,text,trans
 42,ルルーシュ,行けるさ。<br>ゆっくり休めば病気も治る。<br>そうお医者さんも言ってたから。,当然可以了。好好休息的话病就会好，医生也这么说了。
 43,ルルーシュ,だからおやすみ、ナナリー,所以晚安，娜娜莉
 44,ナナリー,おやすみなさい、お兄様。,晚安，哥哥。
-45,,<span class='scene-font-katari'>ルルーシュはナナリーの肩まで</span><br><span class='scene-font-katari'>シーツを引き上げると、</span><br><span class='scene-font-katari'>姬塔たちを連れて寝室を出た。</span>,<span class='scene-font-katari'>鲁路修将被单</span><br><span class='scene-font-katari'>盖至娜娜莉的肩膀，</span><br><span class='scene-font-katari'>带着姬塔她们一同离开了卧室。</span>
+45,,<span class='scene-font-katari'>ルルーシュはナナリーの肩まで</span><br><span class='scene-font-katari'>シーツを引き上げると、</span><br><span class='scene-font-katari'>姬塔たちを連れて寝室を出た。</span>,<span class='scene-font-katari'>鲁鲁修将被单</span><br><span class='scene-font-katari'>盖至娜娜莉的肩膀，</span><br><span class='scene-font-katari'>带着姬塔她们一同离开了卧室。</span>
 50,ビィ/碧,すまねぇ、<br>オイラたちもちょっと長居しすぎたぜ。,抱歉，我们也待得有点太久了。
 51,ルルーシュ,いや、お前たちのおかげで<br>ナナリーも気が紛れているようだ。<br>良かったらまた相手をしてやってくれ。,不，多亏了你们，娜娜莉的寂寞看起来也减轻了很多。可以的话之后也再多陪陪她吧。
 52,ルリア/露莉亚,はい。私たちには心配かけないように<br>明るく振る舞ってはいますけど……<br>相当辛いんだと思います。,好的。虽然为了不让我们担心而装作很健康的样子……我想她应该很难受。
 53,ビィ/碧,ああ。<br>昨日より顔色が悪くなってる<br>気がするぜ。,是啊，感觉脸色比昨天还要难看了。
-54,,<span class='scene-font-katari'>姬塔もたまに</span><br><span class='scene-font-katari'>激しく咳き込んでいたと</span><br><span class='scene-font-katari'>ルルーシュに伝える。</span>,<span class='scene-font-katari'>姬塔也将</span><br><span class='scene-font-katari'>娜娜莉会激烈地咳嗽这一事</span><br><span class='scene-font-katari'>传达给了鲁路修。</span>
+54,,<span class='scene-font-katari'>姬塔もたまに</span><br><span class='scene-font-katari'>激しく咳き込んでいたと</span><br><span class='scene-font-katari'>ルルーシュに伝える。</span>,<span class='scene-font-katari'>姬塔也将</span><br><span class='scene-font-katari'>娜娜莉会激烈地咳嗽这一事</span><br><span class='scene-font-katari'>传达给了鲁鲁修。</span>
 55,ルルーシュ,時間が無い。<br>作戦を急がねば……,没有时间了。不快点进行作战的话……
 56,ルルーシュ,<span class='scene-font-kokoro'>（ナナリーの体力ももう持たない。</span><br><span class='scene-font-kokoro'>なんとしても明日</span><br><span class='scene-font-kokoro'>薬を手に入れなければ……）</span>,<span class='scene-font-kokoro'>（娜娜莉的体力已经承受不住了。</span><br><span class='scene-font-kokoro'>无论如何明天</span><br><span class='scene-font-kokoro'>再不得到解药的话……）</span>
 57,ルルーシュ,姬塔、ルリア、ビィ。<br>ナナリーを助けるために<br>お前たちの力を貸して欲しい。,姬塔，露莉亚，碧。<br>为了救助娜娜莉，希望你们能将力量借给我。
 58,ルリア/露莉亚,もちろんですよ！,当然了！
-59,ルリア/露莉亚,ルルーシュさんや<br>ナナリーちゃんの力になれるなら、<br>もっと頼ってください！,能成为鲁路修或者娜娜莉的力量的话，请更多地依靠我们吧！
+59,ルリア/露莉亚,ルルーシュさんや<br>ナナリーちゃんの力になれるなら、<br>もっと頼ってください！,能成为鲁鲁修或者娜娜莉的力量的话，请更多地依靠我们吧！
 60,ビィ/碧,当たり前だぜ！<br>オイラたちに出来ることなら<br>何でも言ってくれ！,那是当然的！只要有我们能做的事，无论什么都告诉我们吧！
 61,ルルーシュ,ああ。助かる。,啊，帮大忙了。
 62,ルルーシュ,これからスザクたちも呼んで<br>最後の作戦会議だ。<br>艇内に戻ろう。,接下来会叫上朱雀他们进行最后的作战会议。回骑空艇内吧。
 63,ルリア/露莉亚,はーい！,是——！
 64,ビィ/碧,了解だぜ！,了解了！
 68,ルルーシュ,ああ、そうだ。<br>姬塔に<br>伝え忘れていたんだが……,啊，对了。有件事忘了和姬塔说……
-69,,<span class='scene-font-katari'>そう姬塔を引き留めた</span><br><span class='scene-font-katari'>ルルーシュの左眼には</span><br><span class='scene-font-katari'>不思議な光が灯っていた。</span>,<span class='scene-font-katari'>这么说着留住姬塔的</span><br><span class='scene-font-katari'>鲁路修的左眼中</span><br><span class='scene-font-katari'>亮起了不可思议的光芒。</span>
+69,,<span class='scene-font-katari'>そう姬塔を引き留めた</span><br><span class='scene-font-katari'>ルルーシュの左眼には</span><br><span class='scene-font-katari'>不思議な光が灯っていた。</span>,<span class='scene-font-katari'>这么说着留住姬塔的</span><br><span class='scene-font-katari'>鲁鲁修的左眼中</span><br><span class='scene-font-katari'>亮起了不可思议的光芒。</span>
 info,,,scene_evt190614_cp5_q3_s10
 备注,,,翻译：清羽

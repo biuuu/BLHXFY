@@ -1,6 +1,6 @@
 id,name,text,trans
 0-chapter_name,,STAGE6 ふたり の ゼロ,STAGE6 两个ZERO
-0-synopsis,,デルフィナがゼロを撃とうとした時、実際はC.C.が現れて銃撃を阻止していた。実はゼロはルルーシュのギアスによって無策のゼロを演じるよう仕向けられた姬塔だった。デルフィナは姿を現したルルーシュにギアスをかけられ、ルルーシュをナナリーだと認識し、ゼロは死んだと思い込んだ。デルフィナの負けを宣告し、ルルーシュは抗ウイルス薬を手に入れるのだった。,黛尔菲娜枪击ZERO的时候，实际上是被出现的C.C.阻止了。而黛尔菲娜看到的ZERO其实是被鲁路修使用了Geass而扮作束手无策的ZERO的姬塔。黛尔菲娜被出现的鲁路修使用了Geass，把鲁路修认知成娜娜莉，深信ZERO已经死了。在宣告了黛尔菲娜的失败的同时，鲁路修也成功获得了抗病毒药。
+0-synopsis,,デルフィナがゼロを撃とうとした時、実際はC.C.が現れて銃撃を阻止していた。実はゼロはルルーシュのギアスによって無策のゼロを演じるよう仕向けられた姬塔だった。デルフィナは姿を現したルルーシュにギアスをかけられ、ルルーシュをナナリーだと認識し、ゼロは死んだと思い込んだ。デルフィナの負けを宣告し、ルルーシュは抗ウイルス薬を手に入れるのだった。,黛尔菲娜枪击ZERO的时候，实际上是被出现的C.C.阻止了。而黛尔菲娜看到的ZERO其实是被鲁鲁修使用了Geass而扮作束手无策的ZERO的姬塔。黛尔菲娜被出现的鲁鲁修使用了Geass，把鲁鲁修认知成娜娜莉，深信ZERO已经死了。在宣告了黛尔菲娜的失败的同时，鲁鲁修也成功获得了抗病毒药。
 4,デルフィナ,さぁ……お終いだ、ゼロ。<br>正直にお前たち二人だけで<br>来たのが敗因だったな。,那么……就到此为止了呢，ZERO。<br>实话说当你们俩单独来的时候，<br>就注定你们会败给我了呢。
 5,デルフィナ,心配するな。<br>ナナリーの面倒は見てやる。<br>姉さんと一緒にな……,你不必担心。<br>娜娜莉就交给我来照顾了，<br>当然是和姐姐一起……
 6,ゼロ,…………,…………
@@ -12,13 +12,13 @@ id,name,text,trans
 17,,<span class='scene-font-katari'>コード保持者であるC.C.には</span><br><span class='scene-font-katari'>一切のギアスが効かない。</span>,<span class='scene-font-katari'>对于持有code的C.C.来说</span><br><span class='scene-font-katari'>所有的Geass都是无效的。</span>
 18,,<span class='scene-font-katari'>つまり、デルフィナは</span><br><span class='scene-font-katari'>C.C.の思考を読むことが出来ない。</span>,<span class='scene-font-katari'>也就是说，黛尔菲娜她</span><br><span class='scene-font-katari'>没有办法读取C.C.的内心。</span>
 21,,<span class='scene-font-katari'>その性質を利用して</span><br><span class='scene-font-katari'>密かに接近したC.C.が、</span><br><span class='scene-font-katari'>ゼロを銃弾から庇ったのだ。</span>,<span class='scene-font-katari'>利用着这个性质，</span><br><span class='scene-font-katari'>秘密地进行接近的C.C.，</span><br><span class='scene-font-katari'>从子弹下保护了ZERO。</span>
-22,C.C.,今だ！　ルルーシュ！<br>姬塔！,就是现在！　鲁路修！<br>姬塔！
+22,C.C.,今だ！　ルルーシュ！<br>姬塔！,就是现在！　鲁鲁修！<br>姬塔！
 23,ゼロ,……！,……！
 29,,<span class='scene-font-katari'>C.C.の言葉を合図に、</span><br><span class='scene-font-katari'>ゼロは華麗にデルフィナを組み伏せる。</span><br><span class='scene-font-katari'>そこに現れる新たな人影。</span>,<span class='scene-font-katari'>意会到了C.C.话语的含义，</span><br><span class='scene-font-katari'>ZERO漂亮地把黛尔菲娜制服按倒在地。</span><br><span class='scene-font-katari'>在那里出现了一个新的人影。</span>
 32,ルルーシュ,これでチェックだ。<br>偽ゼロ……いや、<br>デルフィナ・アンヘルよ。,这样就将死了。<br>冒牌ZERO……不对，<br>黛尔菲娜・安赫尔啊。
-36,デルフィナ,どうして、ルルーシュが……<br>じゃあ、このゼロは一体……？,为什么，鲁路修会……<br>那，这个ZERO到底是……？
+36,デルフィナ,どうして、ルルーシュが……<br>じゃあ、このゼロは一体……？,为什么，鲁鲁修会……<br>那，这个ZERO到底是……？
 42,姬塔,…………,…………
-43,,<span class='scene-font-katari'>ゼロが仮面を取ると、</span><br><span class='scene-font-katari'>現れたのはルルーシュではなく</span><br><span class='scene-font-katari'>姬塔の顔だった。</span>,<span class='scene-font-katari'>ZERO取下了面具，</span><br><span class='scene-font-katari'>出现的并不是鲁路修，</span><br><span class='scene-font-katari'>而是姬塔的脸。</span>
+43,,<span class='scene-font-katari'>ゼロが仮面を取ると、</span><br><span class='scene-font-katari'>現れたのはルルーシュではなく</span><br><span class='scene-font-katari'>姬塔の顔だった。</span>,<span class='scene-font-katari'>ZERO取下了面具，</span><br><span class='scene-font-katari'>出现的并不是鲁鲁修，</span><br><span class='scene-font-katari'>而是姬塔的脸。</span>
 47,デルフィナ,お前は騎空士の……！,你是那个骑空士……！
 48,ルルーシュ,作戦実行のため、<br>姬塔には<br>ゼロを演じてもらった。,为了实行这个计划，<br>拜托姬塔<br>扮成了ZERO的样子。
 49,ルルーシュ,自分がゼロだと<br>思い込むようにしてな。,我也让她相信，<br>自己是ZERO这件事了。
@@ -29,15 +29,15 @@ id,name,text,trans
 70,,<span class='scene-font-katari'>本当の作戦を伏せられていた</span><br><span class='scene-font-katari'>姬塔は策の尽きたゼロを</span><br><span class='scene-font-katari'>演じることになり……</span>,<span class='scene-font-katari'>被隐瞒了真正的计划，</span><br><span class='scene-font-katari'>姬塔将束手无策的ZERO这一形象</span><br><span class='scene-font-katari'>演得毫无破绽……</span>
 71,,<span class='scene-font-katari'>油断した偽ゼロは</span><br><span class='scene-font-katari'>ギアスの効かないC.C.の接近を</span><br><span class='scene-font-katari'>許してしまったのだ。</span>,<span class='scene-font-katari'>对着大意了的冒牌ZERO</span><br><span class='scene-font-katari'>Geass无效的C.C.的接近</span><br><span class='scene-font-katari'>也变得有机可趁。</span>
 75,ルルーシュ,さあ、俺のために働いてもらうぞ。<br>デルフィナよ！,那么，就为我效命吧。<br>黛尔菲娜哟！
-76,ルルーシュ,ルルーシュ・ヴィ・ブリタニアが<br>命じる……,以鲁路修・Vi・布里塔尼亚之名<br>命令……
-95,,<span class='scene-font-katari'>「ゼロは自害したと認識し、</span><br><span class='scene-font-katari'>ルルーシュをナナリーとして</span><br><span class='scene-font-katari'>アジトに連れ帰れ」</span>,<span class='scene-font-katari'>「相信ZERO已经自杀，</span><br><span class='scene-font-katari'>把鲁路修当做娜娜莉</span><br><span class='scene-font-katari'>带回到你们的藏身处吧」</span>
-96,,<span class='scene-font-katari'>そうデルフィナにギアスをかけ、</span><br><span class='scene-font-katari'>ルルーシュはアジトに侵入し、</span><br><span class='scene-font-katari'>カルメンを殺害するに至ったのだった。</span>,<span class='scene-font-katari'>就这样黛尔菲娜被Geass驱使着，</span><br><span class='scene-font-katari'>让鲁路修入侵到藏身处，</span><br><span class='scene-font-katari'>以至于把卡门杀害了。</span>
+76,ルルーシュ,ルルーシュ・ヴィ・ブリタニアが<br>命じる……,以鲁鲁修・Vi・布里塔尼亚之名<br>命令……
+95,,<span class='scene-font-katari'>「ゼロは自害したと認識し、</span><br><span class='scene-font-katari'>ルルーシュをナナリーとして</span><br><span class='scene-font-katari'>アジトに連れ帰れ」</span>,<span class='scene-font-katari'>「相信ZERO已经自杀，</span><br><span class='scene-font-katari'>把鲁鲁修当做娜娜莉</span><br><span class='scene-font-katari'>带回到你们的藏身处吧」</span>
+96,,<span class='scene-font-katari'>そうデルフィナにギアスをかけ、</span><br><span class='scene-font-katari'>ルルーシュはアジトに侵入し、</span><br><span class='scene-font-katari'>カルメンを殺害するに至ったのだった。</span>,<span class='scene-font-katari'>就这样黛尔菲娜被Geass驱使着，</span><br><span class='scene-font-katari'>让鲁鲁修入侵到藏身处，</span><br><span class='scene-font-katari'>以至于把卡门杀害了。</span>
 102,ルルーシュ,貴様たちの敗因は二つ。<br>一つは自らのギアスに過信し、<br>独りで戦ったこと……,你们失败的原因有二。<br>第一是过于相信自己的Geass，<br>一个人单打独斗……
-104,,<span class='scene-font-katari'>ルルーシュは悠然と歩きながら、</span><br><span class='scene-font-katari'>テーブルの上にあった小瓶を手にする。</span>,<span class='scene-font-katari'>鲁路修一边悠然地踱着步，</span><br><span class='scene-font-katari'>一边把桌上的小瓶拿在手中。</span>
+104,,<span class='scene-font-katari'>ルルーシュは悠然と歩きながら、</span><br><span class='scene-font-katari'>テーブルの上にあった小瓶を手にする。</span>,<span class='scene-font-katari'>鲁鲁修一边悠然地踱着步，</span><br><span class='scene-font-katari'>一边把桌上的小瓶拿在手中。</span>
 105,,<span class='scene-font-katari'>それは、ナナリーに投与された</span><br><span class='scene-font-katari'>ウイルスの抗ウイルス薬だった。</span>,<span class='scene-font-katari'>这是，娜娜莉被注射的</span><br><span class='scene-font-katari'>那种病毒的抗病毒药剂吧。</span>
 106,ルルーシュ,もう一つは、<br>俺たちを敵に回したことだ。,还有一个是，<br>与我们为敌这件事。
 107,デルフィナ,くぅぅ……！！！,库呜呜……！！！
-108,,<span class='scene-font-katari'>まんまと策に嵌められたと知り、</span><br><span class='scene-font-katari'>デルフィナは鬼のような形相で</span><br><span class='scene-font-katari'>ルルーシュを睨みつける。</span>,<span class='scene-font-katari'>知道自己完全陷入了计谋之后，</span><br><span class='scene-font-katari'>黛尔菲娜用恶鬼一样的表情，</span><br><span class='scene-font-katari'>瞪视着鲁路修。</span>
+108,,<span class='scene-font-katari'>まんまと策に嵌められたと知り、</span><br><span class='scene-font-katari'>デルフィナは鬼のような形相で</span><br><span class='scene-font-katari'>ルルーシュを睨みつける。</span>,<span class='scene-font-katari'>知道自己完全陷入了计谋之后，</span><br><span class='scene-font-katari'>黛尔菲娜用恶鬼一样的表情，</span><br><span class='scene-font-katari'>瞪视着鲁鲁修。</span>
 109,デルフィナ,酷い……なんて酷い……,过分……多么过分……
 110,デルフィナ,<span class='scene-font-4'>姉さんを殺した！</span><br>私のたった一人の家族だったのに！,<span class='scene-font-4'>把姐姐杀掉了！</span><br>明明那是我唯一的家人了！
 111,ルルーシュ,姉さん？<br>だったらなぜカルメンは<br>ナナリーを求めた？,姐姐？<br>那为什么卡门她要<br>寻求娜娜莉呢？
@@ -68,5 +68,5 @@ id,name,text,trans
 150,,<span class='scene-font-katari'>タイミングを計ったように、</span><br><span class='scene-font-katari'>アジトの天井が大きく振動し</span><br><span class='scene-font-katari'>小さな石ころが降ってくる。</span>,<span class='scene-font-katari'>就像计算好了时机一样，</span><br><span class='scene-font-katari'>藏身处的天花板大幅度的震动了起来，</span><br><span class='scene-font-katari'>落下了小颗的石块。</span>
 152,デルフィナ,っ！　仲間を呼んだのか？,っ！　还叫了同伴吗？
 153,ルルーシュ,終わりにしよう。<br><span class='scene-font-4'>デルフィナ・アンヘル！</span>,就此终结吧。<br><span class='scene-font-4'>黛尔菲娜・安赫尔！</span>
-154,,<span class='scene-font-katari'>ルルーシュとデルフィナ。</span><br><span class='scene-font-katari'>ふたりのゼロが睨み合っていた。</span>,<span class='scene-font-katari'>鲁路修和黛尔菲娜。</span><br><span class='scene-font-katari'>两个ZERO互相瞪视着。</span>
+154,,<span class='scene-font-katari'>ルルーシュとデルフィナ。</span><br><span class='scene-font-katari'>ふたりのゼロが睨み合っていた。</span>,<span class='scene-font-katari'>鲁鲁修和黛尔菲娜。</span><br><span class='scene-font-katari'>两个ZERO互相瞪视着。</span>
 info,,,scene_evt190614_cp6_q3_s10

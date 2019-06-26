@@ -1,6 +1,6 @@
 id,name,text,trans
 0-chapter_name,,STAGE6 ふたり の ゼロ,STAGE6 两个ZERO
-0-synopsis,,ゼロとの戦いを制し、デルフィナはナナリーを連れアジトに戻る。アジトにはかつてスザクを襲った女性・カルメンがおり、デルフィナは「姉さんのナナリーが戻ってきたんだよ」と報告する。しかし、デルフィナがナナリーだと思っていたのはなんとルルーシュだった。ルルーシュはカルメンをギアスによって自害させ、デルフィナは真実を確かめるためギアスでルルーシュの心を読み始めるのだった。,结束了和ZERO的战斗，黛尔菲娜把娜娜莉带回了隐蔽的藏身处。在藏身处，曾经袭击过朱雀的女性・卡门正等待着，黛尔菲娜向她报告「把姐姐的娜娜莉带回来了哟」。但是黛尔菲娜带回来的娜娜莉其实是鲁路修。鲁路修用Geass命令卡门自杀，黛尔菲娜为了确认真相对鲁路修使用了读心的Geass。
+0-synopsis,,ゼロとの戦いを制し、デルフィナはナナリーを連れアジトに戻る。アジトにはかつてスザクを襲った女性・カルメンがおり、デルフィナは「姉さんのナナリーが戻ってきたんだよ」と報告する。しかし、デルフィナがナナリーだと思っていたのはなんとルルーシュだった。ルルーシュはカルメンをギアスによって自害させ、デルフィナは真実を確かめるためギアスでルルーシュの心を読み始めるのだった。,结束了和ZERO的战斗，黛尔菲娜把娜娜莉带回了隐蔽的藏身处。在藏身处，曾经袭击过朱雀的女性・卡门正等待着，黛尔菲娜向她报告「把姐姐的娜娜莉带回来了哟」。但是黛尔菲娜带回来的娜娜莉其实是鲁鲁修。鲁鲁修用Geass命令卡门自杀，黛尔菲娜为了确认真相对鲁鲁修使用了读心的Geass。
 2,,<span class='scene-font-katari'>ゼロとの戦いを制した</span><br><span class='scene-font-katari'>偽のゼロことデルフィナ・アンヘル。</span>,<span class='scene-font-katari'>结束了和ZERO的战斗</span><br><span class='scene-font-katari'>冒牌ZERO黛尔菲娜・安赫尔。</span>
 7,,<span class='scene-font-katari'>デルフィナが押し歩く車椅子には</span><br><span class='scene-font-katari'>未だ深く眠るナナリーが揺られている。</span>,<span class='scene-font-katari'>被黛尔菲娜推着走的轮椅上，</span><br><span class='scene-font-katari'>还在深眠中的娜娜莉被摇晃着。</span>
 8,デルフィナ/黛尔菲娜,もう少しよ、ナナリー<br>もうすぐ姉さんのもとに戻るわ。,还有一小会儿哟，娜娜莉，<br>很快就要回到姐姐的身边了呢。
@@ -38,19 +38,19 @@ id,name,text,trans
 49,カルメン/卡门,ああああ……,啊啊啊啊……
 55,デルフィナ/黛尔菲娜,え？　何これ……,诶？　怎么回事……
 63,ナナリー？/娜娜莉？,ナナリーを攫い、傷つけた罪、<br>贖ってもらう！,将娜娜莉夺走并伤害了她的罪过，<br>就在此偿还吧！
-67,ルルーシュ/鲁路修,ルルーシュ・ヴィ・ブリタニアが<br>命じる……,以鲁路修・Vi・布里塔尼亚之名<br>命令……
-68,ルルーシュ/鲁路修,<span class='scene-font-4'>お前は、死ね！</span>,<span class='scene-font-4'>你，去死吧！</span>
+67,ルルーシュ/鲁鲁修,ルルーシュ・ヴィ・ブリタニアが<br>命じる……,以鲁鲁修・Vi・布里塔尼亚之名<br>命令……
+68,ルルーシュ/鲁鲁修,<span class='scene-font-4'>お前は、死ね！</span>,<span class='scene-font-4'>你，去死吧！</span>
 91,カルメン/卡门,はい、分かりました……,好的，谨遵您的命令……
 92,,<span class='scene-font-katari'>虚ろな様子で答え、</span><br><span class='scene-font-katari'>カルメンは持っていた拳銃を</span><br><span class='scene-font-katari'>自分の首筋に押し当て、そして……</span>,<span class='scene-font-katari'>卡门一脸呆滞地回答着，</span><br><span class='scene-font-katari'>把手里拿着的手枪</span><br><span class='scene-font-katari'>对准了自己的脖颈，然后……</span>
 93,カルメン/卡门,これで……<br>ルイーサのもとに……,这样……<br>就能够到路易莎那里……
 97,,<span class='scene-font-katari'>ズンと重い衝撃に体を仰け反らせ、</span><br><span class='scene-font-katari'>カルメンはその場で脱力した。</span>,<span class='scene-font-katari'>咚的一声因为巨大的反冲力身体向后仰，</span><br><span class='scene-font-katari'>卡门无力地瘫倒在了地上。</span>
 98,デルフィナ/黛尔菲娜,<span class='scene-font-4'>姉さん！</span>,<span class='scene-font-4'>姐姐！</span>
 102,デルフィナ/黛尔菲娜,っ！,！
-109,,<span class='scene-font-katari'>目の前にいたナナリーの姿が霞み、</span><br><span class='scene-font-katari'>代わりに見えてきたルルーシュの姿に</span><br><span class='scene-font-katari'>デルフィナは戦慄を覚えた。</span>,<span class='scene-font-katari'>眼前的娜娜莉的身影变得朦胧，</span><br><span class='scene-font-katari'>取而代之看到的是鲁路修的身影，</span><br><span class='scene-font-katari'>黛尔菲娜感到了战栗。</span>
+109,,<span class='scene-font-katari'>目の前にいたナナリーの姿が霞み、</span><br><span class='scene-font-katari'>代わりに見えてきたルルーシュの姿に</span><br><span class='scene-font-katari'>デルフィナは戦慄を覚えた。</span>,<span class='scene-font-katari'>眼前的娜娜莉的身影变得朦胧，</span><br><span class='scene-font-katari'>取而代之看到的是鲁鲁修的身影，</span><br><span class='scene-font-katari'>黛尔菲娜感到了战栗。</span>
 110,デルフィナ/黛尔菲娜,何故だ？<br>どうしてお前がここにいる？,为什么？<br>为什么你会在这里？
-111,ルルーシュ/鲁路修,まだ分からないのか？<br>お前は負けたんだよ、俺との戦いにな。,你还没反应过来吗？<br>因为你输了，在和我的战斗中啊。
+111,ルルーシュ/鲁鲁修,まだ分からないのか？<br>お前は負けたんだよ、俺との戦いにな。,你还没反应过来吗？<br>因为你输了，在和我的战斗中啊。
 112,デルフィナ/黛尔菲娜,<span class='scene-font-4'>ふざけるな！</span><br>確かにお前は私が……！,<span class='scene-font-4'>别胡说八道了！</span><br>明明就是我把你……！
-114,ルルーシュ/鲁路修,そうだ。俺の心を読むといい。<br>お前のギアスでな。<br>真実はそこにある。,啊对了。你读我的心也可以哦。<br>用你的Geass吧。<br>真相就在那里。
-116,,<span class='scene-font-katari'>デルフィナがギアスによって</span><br><span class='scene-font-katari'>ルルーシュの心を読み取る。</span>,<span class='scene-font-katari'>黛尔菲娜使用了Geass</span><br><span class='scene-font-katari'>开始读取鲁路修的内心。</span>
+114,ルルーシュ/鲁鲁修,そうだ。俺の心を読むといい。<br>お前のギアスでな。<br>真実はそこにある。,啊对了。你读我的心也可以哦。<br>用你的Geass吧。<br>真相就在那里。
+116,,<span class='scene-font-katari'>デルフィナがギアスによって</span><br><span class='scene-font-katari'>ルルーシュの心を読み取る。</span>,<span class='scene-font-katari'>黛尔菲娜使用了Geass</span><br><span class='scene-font-katari'>开始读取鲁鲁修的内心。</span>
 117,,<span class='scene-font-katari'>と、同時に</span><br><span class='scene-font-katari'>デルフィナの頬に一筋の涙がこぼれた。</span>,<span class='scene-font-katari'>与此同时</span><br><span class='scene-font-katari'>黛尔菲娜的脸上落下了一串眼泪。</span>
 info,,,scene_evt190614_cp6_q2_s10
