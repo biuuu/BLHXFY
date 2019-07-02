@@ -1,13 +1,13 @@
 {
   "name": "blhxfy",
-  "version": "1.8.22",
+  "version": "1.9.0",
   "description": "碧蓝幻想汉化脚本",
   "main": "./src/main.js",
   "scripts": {
-    "build": "gulp --gulpfile build.js extension",
-    "packcsv": "gulp --gulpfile build.js md5",
-    "deploy": "gulp --gulpfile build.js",
-    "dpyorigin": "node ./script/index.js"
+    "build": "node ./script/build.js",
+    "data": "node ./script/data.js",
+    "deploy": "yarn build && yarn data && cross-env CUSTOM_DOMAIN=true node ./script/deploy.js",
+    "deployc": "node ./script/index.js"
   },
   "author": "biuuu",
   "license": "MIT",
@@ -23,19 +23,16 @@
     "@babel/core": "^7.0.0-rc.2",
     "@babel/polyfill": "^7.0.0-rc.2",
     "@babel/preset-env": "^7.0.0-rc.2",
-    "del": "^3.0.0",
+    "cross-env": "^5.2.0",
     "fs-extra": "^5.0.0",
     "gh-pages": "^2.0.1",
-    "gulp": "^3.9.1",
+    "md5-dir": "^0.2.0",
     "minimatch": "^3.0.2",
-    "gulp-zip": "^4.1.0",
-    "md5-file": "^4.0.0",
     "rollup": "^1.4.1",
     "rollup-plugin-babel": "^4.0.0-beta.8",
     "rollup-plugin-commonjs": "^9.1.5",
     "rollup-plugin-json": "^3.1.0",
     "rollup-plugin-node-resolve": "^4.0.1",
-    "shelljs": "^0.8.2",
-    "through2": "^2.0.3"
+    "shelljs": "^0.8.2"
   }
 }
