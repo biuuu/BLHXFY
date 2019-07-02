@@ -1,0 +1,29 @@
+id,name,text,trans
+0-chapter_name,,素顔の想い,她的真心
+0-synopsis,,世話になっているお礼に、と食事当番を買って出たティア。意外にも豪快で男らしい料理に一同が驚きつつ味わっていると、ティアは何やらビィをじっと見つめ、ぼんやりしていた。しかし、どうしたのかと声をかけると、ティアは慌てて逃げるように去ってしまうのだった。,为了回报姬塔一行，缇娅包揽了今天的伙食。一行人惊讶于缇娅那像男生一般的饭菜，正在吃的时候，缇娅却不知为何呆呆地看着碧。问起原因时，缇娅却慌慌张张地跑了。
+0,ルリア/露莉亚,わぁ～！<br>いい匂いです！,哇～！<br>好好闻啊！
+1,,<span class='scene-font-katari'>腹をすかせた仲間が集まる</span><br><span class='scene-font-katari'>グランサイファーの食堂には、</span><br><span class='scene-font-katari'>美味しそうな匂いが漂っている。</span>,<span class='scene-font-katari'>漂浮着美味的香气的</span><br><span class='scene-font-katari'>格兰赛法的食堂里，</span><br><span class='scene-font-katari'>聚集着饿着肚子的同伴们。</span>
+2,ルリア/露莉亚,うふふ。<br>ティアさん、ご飯作ってもらっちゃって<br>ありがとうございます！,呵呵。<br>缇娅さん，谢谢你<br>给我们做饭！
+3,ティア/缇娅,いいのよ。でも、こちらの食材で<br>料理をするのは初めてだから、<br>口に合うといいけれど……,没关系的。但是，用这边的食材做饭<br>我还是第一次，<br>能合你们的口就好了……
+4,,<span class='scene-font-katari'>時空の裂け目だという噂のある</span><br><span class='scene-font-katari'>『黒の傷跡』を通り、</span><br><span class='scene-font-katari'>別の世界からやって来たというティア。</span>,<span class='scene-font-katari'>通过传闻中的时空裂痕</span><br><span class='scene-font-katari'>'黑色缝隙'，</span><br><span class='scene-font-katari'>缇娅来到了别的世界。</span>
+5,,<span class='scene-font-katari'>彼女は、元の世界に帰る方法を探す間、</span><br><span class='scene-font-katari'>姬塔達と行動を共にしている。</span>,<span class='scene-font-katari'>她在寻找回去的方法的这段时间里，</span><br><span class='scene-font-katari'>和姬塔一行一起行动着。</span>
+6,,<span class='scene-font-katari'>今日の食事当番は、そんなティアが、</span><br><span class='scene-font-katari'>世話になってばかりは悪いから、</span><br><span class='scene-font-katari'>と買ってでたのだった。</span>,<span class='scene-font-katari'>缇娅说，总是受你们的照顾很不好意思，</span><br><span class='scene-font-katari'>所以包揽了今天的伙食。</span>
+7,イオ/伊欧,ねぇ、姬塔。<br>ティアって意外と……,呐，姬塔。<br>缇娅她……
+8,ビィ/碧,う～ん……なんて言うかすごく豪快で<br>……男らしい感じのする料理だな。<br>確かに意外だぜ。,嗯～……怎么说呢感觉非常爽快<br>……像是男生做出来的饭一样。<br>确实让人感到意外啊。
+9,イオ/伊欧,う～ん……肉も野菜もかなり<br>大ぶりに切ってあるわね。<br>盛り付けも、大皿にどーんって……,嗯～……肉和蔬菜<br>都切的很大块。<br>盛菜的时候也是，一伙堆到大盘子里……
+10,,<span class='scene-font-katari'>目の前に並べられた皿を見てこっそりと</span><br><span class='scene-font-katari'>言葉を交わすイオとビィの横で、</span><br><span class='scene-font-katari'>ルリアがいち早く料理を口に入れる。</span>,<span class='scene-font-katari'>在悄悄地点评着</span><br><span class='scene-font-katari'>摆在面前的盘子的碧和伊欧的旁边，</span><br><span class='scene-font-katari'>露莉亚早早地将食物放入口中。</span>
+11,ルリア/露莉亚,もぐもぐ……<br>んんっ！　すっごく美味しいです！,咀嚼咀嚼……<br>嗯嗯！　非常好吃！
+12,ティア/缇娅,そう？<br>良かった。,是吗？<br>太好了。
+13,イオ/伊欧,ほんと？　どれどれ……<br>もぐ……あ、本当に美味しいわ！<br>見た目は豪快だけど。,真的吗？　我尝尝……<br>咬……啊，真的很好吃！<br>虽然卖相不好。
+14,ティア/缇娅,そういえばリンゴがあるけど<br>デザートに食べる？,说起来还有苹果<br>要当做甜点吗？
+15,ビィ/碧,リンゴォ！<br>食う食う！,苹果！<br>吃！吃！
+16,ティア/缇娅,あら、ビィはリンゴが好きなのね。<br>はい、どうぞ。,哦，碧喜欢吃苹果啊。<br>给，请吧。
+17,,<span class='scene-font-katari'>ティアは、丸ごとのままのリンゴを</span><br><span class='scene-font-katari'>ビィへと差し出した。</span>,<span class='scene-font-katari'>缇娅，将一整个苹果</span><br><span class='scene-font-katari'>递给了碧。</span>
+18,ビィ/碧,もぐもぐ……<br>ぷはーっ！<br>やっぱりリンゴは最高だぜ！,咀嚼咀嚼……<br>呼啊ー！<br>果然苹果是最棒的！
+19,ティア/缇娅,…………はぁ。,…………哈啊。
+20,ルリア/露莉亚,あれ？<br>ティアさん、どうしたんですか？<br>ビィさんのことぼんやり見て……,嗯？<br>缇娅さん，怎么了吗？<br>呆呆地看着碧……
+21,ティア/缇娅,えっ！？<br>あの、えっと……なんでもないわ！,欸！？<br>那个，唔……没什么！
+22,ティア/缇娅,あっ！　私、キッチンを<br>片付けてくるわね！,啊！　我，去收拾<br>厨房了！
+24,ビィ/碧,んん？<br>姉ちゃん、走って行っちまったけど<br>どーかしたのか？,嗯？<br>缇娅走掉了<br>发生什么了？
+25,ルリア/露莉亚,えーっと、ビィさんのことを<br>じっと見てたし、何か用事が<br>あったんじゃないでしょうか……？,唔，她呆呆地<br>看着碧，是不是有什么事情啊……？
+info,,麻友桑的话筒,scene_chr285_q1_s10

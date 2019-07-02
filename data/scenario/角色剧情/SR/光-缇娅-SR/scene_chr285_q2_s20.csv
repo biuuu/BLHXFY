@@ -1,0 +1,26 @@
+id,name,text,trans
+0-chapter_name,,素顔の想い,她的真心
+0-synopsis,,うれしそうにビィを撫でていたティアは、姬塔の存在に気が付くと慌てて手を離し、恥ずかしそうに頬を染める。そして、いつも一緒にいる姬塔とビィに、仲間のルークとミュウの存在を思い出し、あちらの世界に起こっていた異変のことを心配するティア。早く戻らなければと決意を新たにする彼女に、力になるから、と姬塔達は声をかけるのだった。,开心地抚摸着碧的缇娅，在注意到姬塔之后，慌慌张张地将手拿开，脸上染满红晕。看着一直在一起的碧和姬塔，缇娅想起缪乌和卢克，还有那个世界令人担忧的异变。面对重新下定决心要早点回去的缇娅，姬塔一行对她说，我们会帮助你的。
+0,,<span class='scene-font-katari'>うっとりとビィを撫でていたティアは、</span><br><span class='scene-font-katari'>その後ろにいた姬塔の存在に</span><br><span class='scene-font-katari'>気が付き、慌ててその手を離した。</span>,<span class='scene-font-katari'>沉浸于抚摸碧的缇娅</span><br><span class='scene-font-katari'>在注意到姬塔之后</span><br><span class='scene-font-katari'>慌慌张张地将手拿开了。</span>
+1,ティア/缇娅,うぅ……,唔唔……
+2,ティア/缇娅,<span class='scene-font-kokoro'>（姬塔も</span><br><span class='scene-font-kokoro'>いたのね……）</span>,<span class='scene-font-kokoro'>（姬塔</span><br><span class='scene-font-kokoro'>也在啊……）</span>
+3,ビィ/碧,……だいじょぶかぁ？<br>なんか、顔が赤いけどよぉ……,……你没事吧？<br>总觉得，你脸好红啊……
+4,ティア/缇娅,だ、大丈夫よ。<br>ありがとう。,没，没事。<br>谢谢。
+5,ティア/缇娅,それにしても……<br>ビィと姬塔は<br>いつも一緒なのね。,说起来……<br>碧和姬塔<br>总是在一起啊。
+6,ビィ/碧,まぁな！<br>オイラと姬塔は<br>相棒だからな！,嗯！<br>我怎么说也是<br>姬塔的伙伴啊！
+7,ティア/缇娅,そう、相棒ね……,这样，伙伴啊……
+8,ティア/缇娅,<span class='scene-font-kokoro'>（彼らも……）</span>,<span class='scene-font-kokoro'>（他们也……）</span>
+9,,<span class='scene-font-katari'>ティアの脳裏に、赤い髪の青年と、</span><br><span class='scene-font-katari'>彼といつも一緒にいるふわふわとした</span><br><span class='scene-font-katari'>生き物のことが浮かんだ。</span>,<span class='scene-font-katari'>缇娅，想起了那个红发的青年，</span><br><span class='scene-font-katari'>和一直在他身边的</span><br><span class='scene-font-katari'>软绵绵的生物。</span>
+10,ティア/缇娅,<span class='scene-font-kokoro'>（ミュウはルークのことを</span><br><span class='scene-font-kokoro'>「ご主人様」と呼ぶけれど、あの二人も</span><br><span class='scene-font-kokoro'>相棒ってことになるのかしら……）</span>,<span class='scene-font-kokoro'>（缪乌总是称卢克</span><br><span class='scene-font-kokoro'>为'主人'，</span><br><span class='scene-font-kokoro'>是不是成为伙伴了呢……）</span>
+11,ビィ/碧,どうした？<br>ぼーっとして……,怎么了？<br>呆呆地……
+12,ティア/缇娅,いいえ、なんでもないわ。<br>少し、あちらのことを考えていたの。,没什么，没什么。<br>只是，稍微想起了那边的事情。
+13,ビィ/碧,もしかして、姉ちゃんが元いた<br>世界のことか？,难道是，姐姐在的<br>原来的世界的事情吗？
+14,ティア/缇娅,ええ、そうよ。,是啊，没错。
+15,ティア/缇娅,<span class='scene-font-kokoro'>（ルークはきっとまた、勉強を</span><br><span class='scene-font-kokoro'>さぼってばかりでしょうね……</span><br><span class='scene-font-kokoro'>それに、晶化現象のことも気になるわ）</span>,<span class='scene-font-kokoro'>（卢克肯定</span><br><span class='scene-font-kokoro'>又在翘课……</span><br><span class='scene-font-kokoro'>而且，晶化现象也不能坐视不理）</span>
+16,ティア/缇娅,……早く戻らないと。,……要早点回去才行。
+17,ビィ/碧,まぁまぁ！<br>ひとりで抱え込むなよな。<br>力になるからよ！,别急别急！<br>不要一个人背负这些。<br>我们会帮你的！
+18,ティア/缇娅,……ありがとう。,……谢谢。
+19,,<span class='scene-font-katari'>頼もしい言葉に胸が</span><br><span class='scene-font-katari'>温かくなるのを感じて、</span><br><span class='scene-font-katari'>ティアは小さく微笑む。</span>,<span class='scene-font-katari'>温暖有力的话语</span><br><span class='scene-font-katari'>在心中回响，</span><br><span class='scene-font-katari'>缇娅露出了小小的微笑。</span>
+20,ビィ/碧,へへっ！<br>いいってことよ！,嘿嘿！<br>没关系了！
+21,,<span class='scene-font-katari'>ティアの柔らかい表情に、その</span><br><span class='scene-font-katari'>素顔を垣間見て、姬塔達にも</span><br><span class='scene-font-katari'>自然と笑顔が浮かぶのだった。</span>,<span class='scene-font-katari'>从缇娅那柔和的表情上，</span><br><span class='scene-font-katari'>得以窥见她的真心的姬塔一行，</span><br><span class='scene-font-katari'>也自然地浮出笑容。</span>
+info,,麻友桑的话筒,scene_chr285_q2_s20

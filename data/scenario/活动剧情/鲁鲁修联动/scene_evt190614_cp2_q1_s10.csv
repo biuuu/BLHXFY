@@ -1,0 +1,114 @@
+id,name,text,trans
+0-chapter_name,,STAGE2 黒幕 の 思惑,STAGE2 黑幕的企图
+0-synopsis,,ナナリーを攫った犯人の意図を探るルルーシュのもとに現れたカレン。カレンはルルーシュがゼロの正体であることを確認した上で、「偽ゼロ」を倒すべく協力すると申し出る。事件の起きた島へ戻り情報を集めたルルーシュは、偽ゼロがゼロを恨んでおり、各地で通り魔や放火などの事件を起こしてルルーシュにメッセージを送ってきていると推測し、更に情報を集めるのだった。,鲁鲁修正在猜测犯人掳走娜娜莉的意图，卡莲来到鲁鲁修身边，向他确认Zero的真实身份后，提出一起合作打倒「伪Zero」。鲁鲁修回到发生事件的岛屿，推测出伪Zero憎恨Zero，在各地干出无差别伤人放火之类的事件向鲁鲁修传递讯息。基于这一推测，鲁鲁修继续收集情报。
+1,ルルーシュ,ナナリー……！,娜娜莉……！
+2,,<span class='scene-font-katari'>仮面の人物を取り逃がし、</span><br><span class='scene-font-katari'>ルルーシュは甲板の縁に</span><br><span class='scene-font-katari'>拳を叩きつけて苦悶する。</span>,<span class='scene-font-katari'>没能抓到假面人，鲁鲁修站在甲板边用拳头猛敲栏杆，感到十分苦闷。</span>
+3,ルルーシュ,<span class='scene-font-kokoro'>（一体何が起きている？</span><br><span class='scene-font-kokoro'>そもそもこの異世界への転移そのものが</span><br><span class='scene-font-kokoro'>常識の範疇を超えた超常の現象だ）</span>,<span class='scene-font-kokoro'>（到底是怎么回事？本来被传送到异世界什么的就很脱离常识的范畴了。）</span>
+4,ルルーシュ,<span class='scene-font-kokoro'>（しかし、その飛ばされた先で、</span><br><span class='scene-font-kokoro'>ゼロの姿をし、</span><br><span class='scene-font-kokoro'>ナナリーを攫った者がいる）</span>,<span class='scene-font-kokoro'>（结果还有人伪装成Zero掳走了娜娜莉。）</span>
+5,ルルーシュ,<span class='scene-font-kokoro'>（なぜゼロの姿をしている？</span><br><span class='scene-font-kokoro'>なぜナナリーを攫った？）</span>,<span class='scene-font-kokoro'>（为什么要伪装成Zero？为什么要掳走娜娜莉？）</span>
+6,ルルーシュ,<span class='scene-font-kokoro'>（全ては、ゼロの正体が</span><br><span class='scene-font-kokoro'>俺であることを奴が知っていることに</span><br><span class='scene-font-kokoro'>繋がっている）</span>,<span class='scene-font-kokoro'>（这是因为对方知道Zero的真实身份就是我。）</span>
+7,,<span class='scene-font-katari'>ルルーシュは謎の人物を分析するため、</span><br><span class='scene-font-katari'>自分自身のことを振り返る。</span>,<span class='scene-font-katari'>鲁鲁修为了分析神秘的敌人，首先分析自己。</span>
+8,ルルーシュ,<span class='scene-font-kokoro'>（俺は、</span><br><span class='scene-font-kokoro'>母を殺した犯人への復讐と……）</span>,<span class='scene-font-kokoro'>（我是，为了向谋杀母亲的犯人复仇……）</span>
+9,ルルーシュ,<span class='scene-font-kokoro'>（目と足の自由を失ったナナリーが</span><br><span class='scene-font-kokoro'>安心して暮らせる世界のために</span><br><span class='scene-font-kokoro'>ブリタニアに反逆した）</span>,<span class='scene-font-kokoro'>（以及为失明且双腿不自由的娜娜莉创造一个她能够安心生活的世界，才反抗布里塔尼亚的。）</span>
+10,ルルーシュ,<span class='scene-font-kokoro'>（あのゼロの仮面は、</span><br><span class='scene-font-kokoro'>元ブリタニアの皇子である俺の正体を</span><br><span class='scene-font-kokoro'>隠すために作り出したものに過ぎない）</span>,<span class='scene-font-kokoro'>（Zero的面具，只是为了隐藏我原布里塔尼亚皇子的身份而已。）</span>
+11,ルルーシュ,<span class='scene-font-kokoro'>（そうなると、奴がこの世界で、</span><br><span class='scene-font-kokoro'>ゼロの正体を知りながら、</span><br><span class='scene-font-kokoro'>ゼロの姿をするのは……）</span>,<span class='scene-font-kokoro'>（那么，那家伙明知道Zero是我，还要在这个世界打扮成Zero的样子……）</span>
+12,ルルーシュ,<span class='scene-font-kokoro'>（俺への当て付けめいた</span><br><span class='scene-font-kokoro'>メッセージということか）</span>,<span class='scene-font-kokoro'>（是给我的讯息，对我的嘲讽。）</span>
+13,,<span class='scene-font-katari'>ルルーシュはそのように</span><br><span class='scene-font-katari'>結論を出すが、しかし……</span>,<span class='scene-font-katari'>鲁鲁修得出了结论，但是……</span>
+14,ルルーシュ,<span class='scene-font-kokoro'>（……待てよ）</span>,<span class='scene-font-kokoro'>（……等等）</span>
+15,ルルーシュ,<span class='scene-font-kokoro'>（奴は「待っていた」と言った。</span><br><span class='scene-font-kokoro'>ということは、奴が俺たちを</span><br><span class='scene-font-kokoro'>転移させた可能性が高い）</span>,<span class='scene-font-kokoro'>（那家伙说等我好久了，也就是说，传送很可能是那家伙一手策划的。）</span>
+16,ルルーシュ,<span class='scene-font-kokoro'>（それともう一つ、</span><br><span class='scene-font-kokoro'>奴は確か「嚮主様」と……）</span>,<span class='scene-font-kokoro'>（还有，那家伙还说了向主大人……）</span>
+18,カレン/卡莲,ルルーシュ……,鲁鲁修……
+19,ルルーシュ,カレンか……,卡莲么……
+20,ルルーシュ,すまない。<br>本来なら俺から<br>お前のもとに出向くべきだ。,抱歉。<br>本来应该由我去找你的。
+21,,<span class='scene-font-katari'>ルルーシュは気持ちを切り替えるように</span><br><span class='scene-font-katari'>写真をポケットに押し込み、</span><br><span class='scene-font-katari'>カレンの方へ真っ直ぐと向き合う。</span>,<span class='scene-font-katari'>鲁鲁修把照片塞进口袋，转换心情面对卡莲。</span>
+22,カレン/卡莲,あの偽ゼロが言っていたこと、<br>あなたが本物のゼロか見極めに来たの。,我是听了那个伪Zero的话，来确认你是不是就是真Zero的。
+23,,<span class='scene-font-katari'>カレンの視線の先、甲板の隅には</span><br><span class='scene-font-katari'>布をかぶせたガウェインがある。</span>,<span class='scene-font-katari'>卡莲看着甲板角落用布盖起来的高文。</span>
+24,ルルーシュ,ああ、ゼロの正体は俺だ。,嗯，我就是Zero。
+25,ルルーシュ,クロヴィス殺害の冤罪をかけられた<br>スザク救出も、ナリタ連山で<br>ブリタニアとの大規模戦闘の時も……,救出被陷害杀害克罗维斯的朱雀、在成田连山和布里塔尼亚大战……
+26,ルルーシュ,お前とともにいたゼロは俺、<br>ルルーシュ・ランペルージだ。,那时和你在一起的Zero，都是我鲁鲁修·兰佩路基。
+27,カレン/卡莲,……っ！,……唔！
+30,C.C.,いやにあっさりとバラすのだな。,你倒是坦白得很爽快啊。
+31,,<span class='scene-font-katari'>ガウェインの陰から</span><br><span class='scene-font-katari'>C.C.が姿を現す。</span>,<span class='scene-font-katari'>C.C.从高文的阴影中走了出来。</span>
+32,カレン/卡莲,C.C.……,
+33,カレン/卡莲,そっか、アンタがいるってことは、<br>ルルーシュが本物のゼロというのは<br>間違いなさそうね。,是么。既然你也在，那么鲁鲁修无疑就是真正的Zero了。
+34,ルルーシュ,言い訳はしない。,我不会找借口。
+35,ルルーシュ,俺は、お前たち日本人を<br>ブリタニアとの戦争に巻き込んだ。<br>利用したと言ってもいい。,是我把你们日本人卷入我和布里塔尼亚的战争中的。也可以说我利用了你们。
+36,ルルーシュ,だが、ただ一つ言えるのは、<br>俺はお前たちを罠にはめる<br>ブリタニア側ではない。,但是，我说清楚一点，我和暗算你们的布里塔尼亚不是一伙的。
+37,ルルーシュ,俺にはブリタニアに反逆する<br>理由がある。<br>ブリタニアをぶっ壊す理由がな……,我有我反抗布里塔尼亚的理由、毁灭布里塔尼亚的理由……
+38,カレン/卡莲,ナナリーのためね。,为了娜娜莉。
+39,ルルーシュ,多くを話すことは出来ない。,我不能说太多。
+40,ルルーシュ,もし元の世界に戻れたら、<br>シュタットフェルト家、<br>お前に危害が及ぶ可能性がある。,这可能会在我们返回原本的世界之后危及你们修坦费尔德家。
+41,,<span class='scene-font-katari'>カレンはちらりとC.C.に</span><br><span class='scene-font-katari'>目をやるが、C.C.は</span><br><span class='scene-font-katari'>遠くの空を眺めたままだった。</span>,<span class='scene-font-katari'>卡莲看了一眼C.C.，但C.C.却依旧望着远处的天空。</span>
+42,,<span class='scene-font-katari'>もしかするとC.C.は</span><br><span class='scene-font-katari'>その理由さえも知っているのかも</span><br><span class='scene-font-katari'>しれないとカレンは思ったが……</span>,<span class='scene-font-katari'>卡莲想，也许C.C.连鲁鲁修不愿坦明的理由都一清二楚……</span>
+43,,<span class='scene-font-katari'>ルルーシュがゼロの正体を</span><br><span class='scene-font-katari'>打ち明けてくれただけでも、</span><br><span class='scene-font-katari'>随分と気が晴れやかだった。</span>,<span class='scene-font-katari'>但确认了鲁鲁修就是Zero，她的心情也明快了不少。</span>
+44,カレン/卡莲,……わかった。<br>どうしてあなたが<br>ゼロになったかは詮索しない。,……我知道了。<br>我不会再问你为什么成为了Zero。
+45,カレン/卡莲,でも、私にとって、<br>あなたは今からルルーシュじゃなくて<br>ゼロよ。,不过，对我来说，从现在起你就不再是鲁鲁修，而是Zero了。
+46,ルルーシュ,ん？<br>理解してくれたのはありがたいが、<br>それってどういう……,嗯？<br>我很感谢你的理解，但这是什么意思……
+47,C.C.,くくっ、<br>女心のわからん奴だ。,呵呵，你真是不懂女人心。
+48,カレン/卡莲,C.C.！<br>私だって気持ちの整理をつけるのが<br>大変なんだよ！,C.C.！<br>我哪能这么快就整理好心情啊！
+49,,<span class='scene-font-katari'>ゼロに憧れにも似た</span><br><span class='scene-font-katari'>好意を抱いていたカレン。</span>,<span class='scene-font-katari'>卡莲对Zero抱有类似憧憬的好感。</span>
+50,,<span class='scene-font-katari'>その正体がクラスメイトの</span><br><span class='scene-font-katari'>ルルーシュと分かり、</span><br><span class='scene-font-katari'>その好意の行き先を決めあぐねていた。</span>,<span class='scene-font-katari'>但现在知道了Zero其实就是她的同班同学，她不知道究竟怎么处理这份好感。</span>
+51,,<span class='scene-font-katari'>そのことをC.C.に茶化され、</span><br><span class='scene-font-katari'>カレンは耳まで真っ赤にしてしまう。</span>,<span class='scene-font-katari'>听到C.C.拿这开玩笑，卡莲不禁面红耳赤。</span>
+52,カレン/卡莲,いい？<br>ルルーシュ、いえ、ゼロ。,听好了，鲁鲁修，不对，Zero。
+53,カレン/卡莲,私をあなたに協力させて！<br>私の能力はあなたが一番<br>知っているはずでしょう？,让我也来帮忙吧！<br>你应该最清楚我的能力。
+54,カレン/卡莲,女将さんを……罪のない人を襲い、<br>ナナリーまで……,那家伙袭击老板娘……袭击无辜的人，还抓走了娜娜莉……
+55,カレン/卡莲,私はアイツを絶対に許せない！,我绝对不原谅那家伙！
+56,ルルーシュ,ありがとう、カレン。<br>お前が協力してくれるのは心強い。,谢谢你，卡莲，有你帮忙真是太好了。
+57,,<span class='scene-font-katari'>珍しく素直なルルーシュの態度に、</span><br><span class='scene-font-katari'>気恥ずかしくなって鼻の頭を</span><br><span class='scene-font-katari'>こすりながら、右手を差し出す。</span>,<span class='scene-font-katari'>鲁鲁修难得坦率地表示感谢，卡莲有些不好意思地摸了摸鼻子，一边伸出右手。</span>
+58,カレン/卡莲,あらためて、よろしく、ってコトで。,那就再次，请多指教了。
+59,,<span class='scene-font-katari'>差し出されたカレンの手をとって</span><br><span class='scene-font-katari'>握手すると、</span><br><span class='scene-font-katari'>ルルーシュの瞳にも決意の火が灯る。</span>,<span class='scene-font-katari'>握住卡莲伸过来的手，鲁鲁修眼中燃起决心的火焰。</span>
+60,ルルーシュ,偽ゼロの正体を暴き、<br>ナナリーを取り戻す。<br>そして、元の世界に帰るんだ。,查出伪Zero到底是谁，夺回娜娜莉。<br>然后回到我们的世界。
+61,,<span class='scene-font-katari'>ふたつの決意を乗せ、</span><br><span class='scene-font-katari'>グランサイファーは緩やかに</span><br><span class='scene-font-katari'>元の島の発着場へと降り立った。</span>,<span class='scene-font-katari'>格兰赛法载着两人的决心缓缓降落在原先的岛屿。</span>
+70,,<span class='scene-font-katari'>偽ゼロを追うため、</span><br><span class='scene-font-katari'>艇に乗り込むことを決めたカレンは</span><br><span class='scene-font-katari'>荷物をまとめるため一度島に戻った。</span>,<span class='scene-font-katari'>为追查伪Zero而决定上船的卡莲回到岛上整理行李。</span>
+71,,<span class='scene-font-katari'>準備が整うまでの間、</span><br><span class='scene-font-katari'>ルルーシュは町に戻り</span><br><span class='scene-font-katari'>偽ゼロの情報を集めることにした。</span>,<span class='scene-font-katari'>在这期间，鲁鲁修也打算在城里打听伪Zero的情报。</span>
+72,C.C.,しかし、良かったのか？<br>カレンにゼロの正体を<br>バラしてしまって……,可是，这样好吗？<br>让卡莲知道了Zero是谁……
+73,ルルーシュ,構わん。優先順位の問題だ。,无所谓。只是优先顺序的问题。
+74,ルルーシュ,まずはナナリーを助け出し、<br>元の世界に戻る。<br>そのためにはカレンの協力が必要だ。,最重要的是救出娜娜莉，回到原来的世界。<br>为此我需要卡莲的帮助。
+75,ルルーシュ,下手に不信感を残すぐらいなら、<br>打ち明けてわだかまりを<br>無くした方がいい。,与其让手下怀疑自己，不如坦白一切，及时消除隔阂。
+76,C.C.,…………,
+77,C.C.,なあ、お前、<br>この世界に来て少し変わったか？,喂，我感觉你自从来了这个世界之后就变了。
+78,ルルーシュ,どうだろうな？<br>ブリタニアの目がない分、<br>シンプルに物事を考えることが出来る。,有么。<br>没了布里塔尼亚的耳目，我考虑事情也能简单很多。
+79,ルルーシュ,そういった意味では幾分<br>気が楽かもしれん。,从这个意义上来说，倒是轻松了不少。
+80,C.C.,そうか。<br>なら、ナナリー救出に集中しないとな。,是么。<br>那么我们得集中精力想办法救出娜娜莉。
+81,ルルーシュ,ああ。<br>しかし、偽ゼロの情報は少ない。,嗯。<br>但是有关伪Zero的情报太少了。
+82,ルルーシュ,そもそも正体の見当がついていないの<br>だから、仮面を脱いで雑踏に<br>紛れてしまえば打つ手がない。,我们根本不知道他到底是谁，一旦那家伙脱下假面混入人群，我们就毫无办法了。
+83,ルルーシュ,それに加えてあの超人的な身体能力だ。<br>後を追うのでさえ困難だろう。,还有那超人一般的身体能力。<br>单单是追上他都很困难。
+84,C.C.,お前はそいつを偽ゼロと呼ぶが……,虽然你把那家伙叫做伪Zero……
+85,C.C.,この世界に<br>たまたま似た衣装が存在した、<br>そういった可能性はないのか？,可是，也有可能是这个世界碰巧存在那样的装束呢？
+86,ルルーシュ,よろず屋にも調べてもらっているが、<br>それはないらしい。,我拜托万事屋调查了，不太可能是那样。
+87,ルルーシュ,なによりアイツはゼロの正体が<br>俺であることを知っていた。,而且，他知道我就是Zero。
+88,ルルーシュ,そうだ。俺の名前を知っていた。<br>ルルーシュ・ヴィ・ブリタニアの<br>名前をな。,没错。他知道我的名字。<br>知道我叫鲁鲁修·V·布里塔尼亚。
+89,ルルーシュ,<span class='scene-font-kokoro'>（うん？</span><br><span class='scene-font-kokoro'>ルルーシュ・ヴィ・ブリタニアの</span><br><span class='scene-font-kokoro'>名前を知っていた……？）</span>,<span class='scene-font-kokoro'>（嗯？他知道鲁鲁修·V·布里塔尼亚这个名字……？）</span>
+90,C.C.,ゼロに対する恨みが動機。<br>そのためにルルーシュの妹である<br>ナナリーを攫った……,动机是对Zero的憎恨。<br>因此绑架了鲁鲁修的妹妹娜娜莉……
+91,ルルーシュ,ゼロの姿をしたアイツは、<br>各地で通り魔や放火といった<br>悪質な犯罪を起こしている。,那家伙扮成Zero的样子，在各地干了不少无差别伤人、放火之类的恶性犯罪。
+92,ルルーシュ,事件の規模自体は小さいが、<br>被害に遭った者は殆どが<br>死に至っている。,每个事件本身规模不大，但被害人几乎都死了。
+93,ルルーシュ,そして被害者には決まって<br>仲のいい兄または姉がいて、<br>事件は彼らの目と鼻の先で起きている。,而且，被害人必定有个关系很好的哥哥或者姐姐，案件就发生在离他或她极近的地方。
+94,C.C.,まるで愉快犯のやり方だな。<br>残された方の悲しむ姿を陰から見て<br>喜んでいるのか。,简直就是愉快犯的做法。<br>说不定还躲在暗处看被害人的亲人悲痛的样子。
+95,ルルーシュ,いや、恐らく偽ゼロの目的は<br>見ず知らずの誰かを苦しめること<br>ではない。,不，我想伪Zero的目的并不是要让素不相识的陌生人痛苦。
+96,ルルーシュ,結論を出すには詳しく調べる必要が<br>あるが、偽ゼロの犯行はいずれも<br>俺が立ち寄った島で行われていた。,虽然得出结论还需要详细的调查，但伪Zero的罪行都发生在我去过的岛上。
+97,ルルーシュ,誰にも知られていないゼロの姿で<br>犯行に及んでいることや、ナナリーの<br>写真を渡してきたことからも……,扮成没人认识的Zero的样子犯案，还把娜娜莉的照片交给我……
+98,ルルーシュ,偽ゼロは俺へのメッセージを<br>送っているのだろう。,伪Zero是在给我传递讯息吧。
+99,ルルーシュ,「ゼロは妹を殺した悪人」<br>「急がなければナナリーもこうなる」<br>とな。,「Zero是杀害妹妹的恶人」、「不快点的话娜娜莉也会惨遭毒手」
+100,C.C.,ゼロを恨んでいる、ということは、<br>偽ゼロは元の世界の人間<br>ということになるな。,憎恨Zero，也就是说伪Zero也是我们世界的人。
+101,,<span class='scene-font-katari'>ルルーシュはポケットから</span><br><span class='scene-font-katari'>ナナリーの写真を取り出す。</span>,<span class='scene-font-katari'>鲁鲁修从口袋里取出娜娜莉的照片。</span>
+102,ルルーシュ,この写真を見ろ。<br>ここに写っている古めかしい甲冑は<br>エルステという帝国の兵士の物らしい。,看这张照片。<br>这里这个古老的盔甲应该属于一个名叫埃尔斯特的帝国。
+103,ルルーシュ,姬塔たちの話によると、<br>偽ゼロが逃走に使っていたのも<br>エルステの艇だった。,我听姬塔说，伪Zero逃走时用的也是埃尔斯特的船。
+104,ルルーシュ,加えて崖上への跳躍時に<br>ルリアが感知した星晶獣の気配。,加上那家伙跳上悬崖时露莉亚感知到的星晶兽的气息。
+105,ルルーシュ,これら全てが<br>偽ゼロがエルステ帝国と<br>通じていることを示している。,这一切都表明伪Zero和埃尔斯特帝国有关。
+106,C.C.,元いた世界の住人が、こちらで<br>ある程度の自由が利くほどの<br>コネクションを持っている。,那家伙和帝国之间的联系，能供他来到异世界之后也能在一定程度上自由行动。
+107,C.C.,となると、<br>それなりの地位を築いていないとな。,也就是说，他已经取得相应的地位了。
+108,ルルーシュ,ああ。<br>俺たちと同じタイミングで<br>飛ばされていたのなら不可能だろう。,嗯。<br>所以不可能是和我们一起被传送过来的。
+109,ルルーシュ,恐らく偽ゼロは<br>俺たちより前に転移していて、<br>素性を隠してエルステに取り入った。,伪Zero比我们更早来到这里，隐瞒身份投奔了埃尔斯特。
+110,ルルーシュ,そしてゼロへの復讐を果たすため、<br>俺たちをこの異世界に引き込んだ。<br>そう考えると筋が通る。,然后为了向Zero复仇，把我们也拖进这个世界。这么想的话就说得通了。
+111,C.C.,つまり偽ゼロは<br>異世界へ転移する術を<br>持っているということか？,也就是说伪Zero拥有将人转移到异世界的手段？
+112,ルルーシュ,そうなるな。,应该是。
+113,ルルーシュ,向こうだと黒の騎士団に身を置く<br>俺個人をターゲットにするのは難しい。,在我们的世界，要针对身处黑色骑士团中心的我是很困难的。
+114,ルルーシュ,この世界に引き込んでしまえば、<br>俺を狙うのが容易くなる、<br>そう考えたのだろう。,但如果把我传到这个世界，很容易就能瞄准我个人。他应该是这么想的吧。
+115,ルルーシュ,<span class='scene-font-kokoro'>（動機や目的はある程度見当がつく。</span><br><span class='scene-font-kokoro'>しかし肝心の正体は不明のままだ）</span>,<span class='scene-font-kokoro'>（动机和目的都可以推测出来。但还是不知道那家伙到底是谁）。</span>
+116,ルルーシュ,<span class='scene-font-kokoro'>（俺がゼロだと知っているとなると、</span><br><span class='scene-font-kokoro'>いくつかの可能性が考えられる）</span>,<span class='scene-font-kokoro'>（是个知道我就是Zero的人，那也有很多种可能性。）</span>
+117,ルルーシュ,<span class='scene-font-kokoro'>（しかし、どれも決定打に欠ける。</span><br><span class='scene-font-kokoro'>何か手がかりは……）</span>,<span class='scene-font-kokoro'>（但要锁定其中一人，还缺少决定性的证据……）</span>
+118,ルルーシュ,<span class='scene-font-kokoro'>（ん？　そう言えば……）</span>,<span class='scene-font-kokoro'>（嗯？　说起来……）</span>
+119,ルルーシュ,なあ、C.C.。<br>お前、<span class='scene-font-spword'>『嚮主様』</span>という言葉に<br>心当たりはないか？,喂，C.C.。<br>你对<span class='scene-font-spword'>『向主大人』</span>这个称呼有印象吗？
+120,C.C.,っ！<br>……お前、どこでそれを……,唔！<br>……你、在哪里听到这个名字的……
+121,,<span class='scene-font-katari'>朧げながらも見え始めた</span><br><span class='scene-font-katari'>偽ゼロの目的と正体。ルルーシュは</span><br><span class='scene-font-katari'>更に一歩答えへと近づいていく。</span>,<span class='scene-font-katari'>伪Zero的身份开始浮出水面。鲁鲁修离答案又接近了一步。</span>
+info,,,scene_evt190614_cp2_q1_s10

@@ -1,0 +1,34 @@
+id,name,text,trans
+0-chapter_name,,STAGE1 異世界 の ゼロ,STAGE1 异世界的Zero
+0-synopsis,,声の方へ行くと、カレンの面倒を見てくれていた食堂の女将が血を流して倒れていた。通り魔に遭ったと理解したカレンは食堂の女将に犯人を見たか尋ねる。すると食堂の女将が指差したのはゼロの姿をした人物だった。カレンとルルーシュは急いで犯人を追う。その後、食堂の女将の兄に女将を任せ、姬塔一行はカレン達を追って駆け出すのだった。,寻声赶去的众人看到代替卡莲去送外卖的老板娘倒在血泊中。卡莲询问老板娘是否看到了凶手。而老板娘指认的是一个打扮成Zero的人。卡莲和鲁鲁修急忙追赶凶手。之后，姬塔一行将老板娘托付给她赶来的兄长，也急忙去追卡莲和鲁鲁修。
+2,カレン/卡莲,っ……！<br>そんな……！,唔……！<br>怎么会……！
+3,食堂の女将,うぅぅ……,呜呜……
+4,,<span class='scene-font-katari'>カレンの目の前には</span><br><span class='scene-font-katari'>散乱した出前の料理と</span><br><span class='scene-font-katari'>倒れ伏す女性がひとり。</span>,<span class='scene-font-katari'>卡莲看见的是，撒了一地的外卖和一名倒在地上的女性。</span>
+5,,<span class='scene-font-katari'>女性の腹は赤く染まっており、</span><br><span class='scene-font-katari'>広がる血だまりがカレンの足元まで</span><br><span class='scene-font-katari'>流れてくる。</span>,<span class='scene-font-katari'>女性的腹部一片殷红，血泊一直漫延至卡莲的脚边。</span>
+6,カレン/卡莲,女将さん！<br>何があったの？,老板娘！<br>出什么事了？
+7,食堂の女将,カレン……<br>兄さんを、呼んで……,卡莲……<br>叫我哥哥、过来……
+9,ルリア/露莉亚,っ！　大変です！,啊！不好了！
+10,カレン/卡莲,<span class='scene-font-4'>食堂の主人に連絡して！</span><br><span class='scene-font-4'>お願い！</span>,<span class='scene-font-4'>快去联络餐厅老板！拜托了！</span>
+11,ビィ/碧,分かった！<br>オイラ行ってくるぜ！,知道了！<br>咱去叫他！
+14,ルルーシュ,……通り魔か？,……无差别行凶吗？
+15,ルルーシュ,<span class='scene-font-kokoro'>（酷い血の量だ……）</span>,<span class='scene-font-kokoro'>（好大的出血量……）</span>
+16,カレン/卡莲,女将さん、誰にやられたの？<br>顔は見た？,老板娘，是谁干的？<br>你看到他的脸了吗？
+17,食堂の女将,あ、そこ、の……,是那个、人……
+18,カレン/卡莲,っ！　嘘……,唔！ 不会吧……
+19,,<span class='scene-font-katari'>女性が震える指で指さした先を見て、</span><br><span class='scene-font-katari'>カレンは唖然とする。</span>,<span class='scene-font-katari'>卡莲顺着老板娘颤抖的指尖看去，不禁哑然失声。</span>
+21,？？？,…………,
+23,,<span class='scene-font-katari'>血に染まったナイフを持って</span><br><span class='scene-font-katari'>悠然と通りを歩いていくのは、</span><br><span class='scene-font-katari'>黒を纏った仮面の人物だった。</span>,<span class='scene-font-katari'>拿着沾血的小刀悠然行走的是一个带着黑色面具的人。</span>
+24,ルルーシュ,どういうことだ？<br>アイツは一体……？,怎么回事？<br>那家伙到底是……？
+25,カレン/卡莲,あなたたちは女将さんをお願い！<br>私はあの仮面のヤツを追う！,老板娘拜托你们了！<br>我去追那个戴面具的家伙！
+27,ルルーシュ,待て！　カレン！,等一下！ 卡莲！
+29,ルリア/露莉亚,はわわっ、ふたりとも危ないですよ！,哇，你们两个，这样太危险了！
+31,食堂の主人,お、おい！<br>大丈夫か？<br>しっかりしろ！,喂！<br>你怎么样？<br>坚持住！
+32,,<span class='scene-font-katari'>そこへビィから話を聞いた</span><br><span class='scene-font-katari'>食堂の主人がやってきて、</span><br><span class='scene-font-katari'>女性の体を抱き上げた。</span>,<span class='scene-font-katari'>餐厅老板听了碧的说明急忙赶来，抱起女性的身体。</span>
+33,食堂の女将,ごめんね、兄さん……<br>私……,对不起，哥哥……<br>我……
+34,食堂の主人,な、なんでこんなことに……<br>誰が妹にこんなことを……,为、为什么会发生这种事……<br>是谁对我妹妹下手的……
+35,食堂の主人,はっ！　カレンは？,啊！ 卡莲呢？
+36,ルリア/露莉亚,カレンさんは犯人を追って<br>行ってしまいました……,卡莲去追犯人了……
+37,食堂の主人,そ、そんな……<br>なんて危険な真似を……,什么……<br>那也太危险了……
+38,ビィ/碧,姉ちゃんのことはオイラたちに任せろ！<br>おっちゃんはとにかく<br>病院に行ってくれ！,卡莲交给我们吧！<br>大叔你赶快送她去医院！
+39,食堂の主人,あ、ああ。頼んだよ。,嗯。拜托你们了。
+info,,,scene_evt190614_cp1_q3_s10

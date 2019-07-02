@@ -1,0 +1,45 @@
+id,name,text,trans
+0-chapter_name,,STAGE5 忍び寄る 病魔,STAGE5 无声逼近的 病魔
+0-synopsis,,ルルーシュはデルフィナに大きな嘘をついていた。ルルーシュは殺人ウイルスに感染したと認識するよう島民にギアスをかけて回ることで、心を読んで判断するデルフィナにパンデミックが起きたと信じ込ませたのだった。ひとりで情報を整理するルルーシュのもとへスザクとカレンが現れる。一同は改めてナナリーを助け出すと誓うのだった。,鲁鲁修对黛尔菲娜撒了大谎。鲁鲁修对岛民施加了geass让他们以为鲁鲁修感染了死亡病毒，从而让读心来判断的黛尔菲娜相信了传染病的爆发。独自一人整理情报的鲁鲁修的身边出现了朱雀和卡莲。全员再次宣誓要救出娜娜莉。
+1,ルルーシュ,<span class='scene-font-kokoro'>（さて、これでようやく</span><br><span class='scene-font-kokoro'>作戦の条件が全てクリアされた）</span>,<span class='scene-font-kokoro'>（这下终于</span><br><span class='scene-font-kokoro'>把作战的条件达成了）</span>
+2,,<span class='scene-font-katari'>作戦を進めるために、</span><br><span class='scene-font-katari'>ルルーシュは偽ゼロに対して</span><br><span class='scene-font-katari'>ふたつの大きな嘘をついていた。</span>,<span class='scene-font-katari'>为了推进作战，</span><br><span class='scene-font-katari'>鲁鲁修对假ZERO</span><br><span class='scene-font-katari'>说了两个大谎。</span>
+3,,<span class='scene-font-katari'>ひとつ目は</span><br><span class='scene-font-katari'>ナナリーからウイルスを採取し、</span><br><span class='scene-font-katari'>抗体を精製したという嘘。</span>,<span class='scene-font-katari'>第一个是，</span><br><span class='scene-font-katari'>从娜娜莉身上采取病毒</span><br><span class='scene-font-katari'>制作疫苗的谎言。</span>
+4,,<span class='scene-font-katari'>空の世界にはウイルスを採取して</span><br><span class='scene-font-katari'>遺伝子に改変を加えられる技術はない。</span><br><span class='scene-font-katari'>ナナリーも病床に伏したままである。</span>,<span class='scene-font-katari'>空之世界并没有采取病毒</span><br><span class='scene-font-katari'>改变基因的技术。</span><br><span class='scene-font-katari'>娜娜莉也只能躺在病床上。</span>
+5,,<span class='scene-font-katari'>ふたつ目は</span><br><span class='scene-font-katari'>偽ゼロが潜伏する島に</span><br><span class='scene-font-katari'>ウイルスを散布したという嘘。</span>,<span class='scene-font-katari'>第二个是，</span><br><span class='scene-font-katari'>在假ZERO潜伏的岛上</span><br><span class='scene-font-katari'>散布病毒的谎言。</span>
+6,,<span class='scene-font-katari'>偽ゼロが持つギアスが心を読む能力だと</span><br><span class='scene-font-katari'>推測したルルーシュは</span><br><span class='scene-font-katari'>自らの絶対遵守のギアスを行使し……</span>,<span class='scene-font-katari'>推测假ZERO的geass能力</span><br><span class='scene-font-katari'>是读取内心的鲁鲁修，</span><br><span class='scene-font-katari'>使用了自己的绝对遵守的geass能力......</span>
+7,,<span class='scene-font-katari'>パンデミックが起きた状況を</span><br><span class='scene-font-katari'>作り出していた。</span>,<span class='scene-font-katari'>制造出了</span><br><span class='scene-font-katari'>发生了传染病的情况。</span>
+9,ルルーシュ,いまから７日間、<br>自分が重い症状を伴う殺人ウイルスに<br>感染したと認識しろ。,从现在开始的7天时间，<br>以为自己得了<br>严重的杀人病毒吧。
+29,,<span class='scene-font-katari'>こうして町中にギアスをかけて回り、</span><br><span class='scene-font-katari'>あたかも殺人ウイルスがばら撒かれた</span><br><span class='scene-font-katari'>かのように見せかけたのだった。</span>,<span class='scene-font-katari'>就这样在街道终散布geass，</span><br><span class='scene-font-katari'>让人觉得城镇中已经</span><br><span class='scene-font-katari'>笼罩在了传染病之下。</span>
+31,ルルーシュ,<span class='scene-font-kokoro'>（この二つの嘘によって、</span><br><span class='scene-font-kokoro'>偽ゼロと交渉し、</span><br><span class='scene-font-kokoro'>再び会うところまでこぎつけた）</span>,<span class='scene-font-kokoro'>（就这样散布了两个谎言，</span><br><span class='scene-font-kokoro'>以能够和假ZERO交涉，</span><br><span class='scene-font-kokoro'>并且再会）</span>
+32,ルルーシュ,<span class='scene-font-kokoro'>（偽ゼロを倒す。</span><br><span class='scene-font-kokoro'>それ自体は難しいことじゃない）</span>,<span class='scene-font-kokoro'>（打倒假ZERO。</span><br><span class='scene-font-kokoro'>这并不是难事）</span>
+33,ルルーシュ,<span class='scene-font-kokoro'>（だが、今回の一件、</span><br><span class='scene-font-kokoro'>奴を倒すだけでは駄目だ）</span>,<span class='scene-font-kokoro'>（但是，这次的事情，</span><br><span class='scene-font-kokoro'>光是打倒那家伙是不够的）</span>
+34,ルルーシュ,<span class='scene-font-kokoro'>（奴にはもう一つ裏がある。</span><br><span class='scene-font-kokoro'>それは、これまでに感じたヤツの</span><br><span class='scene-font-kokoro'>一貫性の無さがそう裏付けている）</span>,<span class='scene-font-kokoro'>（那家伙还有不为人知的一面。</span><br><span class='scene-font-kokoro'>这是距今为止从</span><br><span class='scene-font-kokoro'>那家伙的行动上的不一致上推测出来的）</span>
+35,,<span class='scene-font-katari'>ルルーシュは情報を整理するように</span><br><span class='scene-font-katari'>偽ゼロに対する疑問点を挙げる。</span>,<span class='scene-font-katari'>鲁鲁修像是整理情报那样</span><br><span class='scene-font-katari'>列出了假ZERO的疑点</span>
+36,ルルーシュ,<span class='scene-font-kokoro'>（奴の目的はゼロを殺すこと）</span>,<span class='scene-font-kokoro'>（那家伙的目是杀死ZERO）</span>
+37,ルルーシュ,<span class='scene-font-kokoro'>（それなのに、奴が明確に殺意を</span><br><span class='scene-font-kokoro'>表したのは地下施設でのみ）</span>,<span class='scene-font-kokoro'>（但是，那家伙只有在地下设施的时候</span><br><span class='scene-font-kokoro'>明显表露出了杀意）</span>
+38,ルルーシュ,<span class='scene-font-kokoro'>（まるで誰かに見せつけようと</span><br><span class='scene-font-kokoro'>していたみたいだった）</span>,<span class='scene-font-kokoro'>（仿佛像是要</span><br><span class='scene-font-kokoro'>特意给谁看到一样）</span>
+39,ルルーシュ,<span class='scene-font-kokoro'>（そしてナナリーへの執着だ）</span>,<span class='scene-font-kokoro'>（还有就是对娜娜莉的执着）</span>
+40,ルルーシュ,<span class='scene-font-kokoro'>（なぜあそこまでナナリーにこだわる？</span><br><span class='scene-font-kokoro'>しかし、偽ゼロ自身に</span><br><span class='scene-font-kokoro'>執着心を感じない）</span>,<span class='scene-font-kokoro'>（为什么非娜娜莉不可？</span><br><span class='scene-font-kokoro'>但是假ZERO的身上</span><br><span class='scene-font-kokoro'>并感受不到执着心）</span>
+41,ルルーシュ,<span class='scene-font-kokoro'>（この二つが大きく俺の中で</span><br><span class='scene-font-kokoro'>引っかかる）</span>,<span class='scene-font-kokoro'>（我对这两点</span><br><span class='scene-font-kokoro'>很在意）</span>
+43,カレン/卡莲,ここにいたのね、ルルーシュ。,原来在这里啊，鲁鲁修。
+44,,<span class='scene-font-katari'>改めて頭の中で作戦を</span><br><span class='scene-font-katari'>詰め直していると、</span><br><span class='scene-font-katari'>カレンとスザクがやってくる。</span>,<span class='scene-font-katari'>在脑中思索</span><br><span class='scene-font-katari'>作战计划的时候，</span><br><span class='scene-font-katari'>卡莲和朱雀过来了。</span>
+45,ルルーシュ,ああ。<br>少し考えを整理したくてな……,ああ。<br>啊。想再整理一下思路......
+46,ルルーシュ,って、くくっ。,嗯，好了。
+47,スザク,なんだい藪から棒に笑って。<br>何かおかしいことでも？,怎么突然笑起来了。<br>有什么奇怪的事情吗？
+48,ルルーシュ,いや、お前たち二人が並んでいるのが<br>不思議だと思ってな……,没有，看到你们两个人站在一起<br>感到很不可思议...
+49,カレン/卡莲,ちょっ！　アンタね。<br>私は別に元の世界でのことを<br>チャラにしたワケじゃないんだからね。,喂，你。<br>我可没有想在这里<br>扯平原来世界的事情的打算。
+50,スザク,僕だってそうさ。,我也是这么想的。
+51,スザク,けど、こんなにも遠く離れ、<br>ルルーシュやカレンとよく話してみて<br>わかったこともある。,但是，和之前距离如此遥远的<br>鲁鲁修和卡莲的对话中，<br>我也有明白的事情。
+52,スザク,みんなそれぞれの理由があって<br>戦っていた。,大家各自有着<br>战斗的理由。
+53,スザク,だから、元の世界に戻っても<br>すぐに争いが止むことはないだろう。,所以，就算回到了原来的世界，<br>也不可能马上停止战争吧。
+54,スザク,でも、世界は変えられる。<br>ユフィならきっとルルーシュとも<br>協力してくれる。,但是，世界会有所变化。<br>尤菲的话一定会<br>支持鲁鲁修的。
+55,カレン/卡莲,そうね。今だったら戦う以外の道を<br>考えることが出来るかもしれない。,是的呢。现在的话<br>反而能考虑战争以外的选择。
+56,カレン/卡莲,そうでしょ？　ゼロ。 <br>,是吧？ZERO。 <br>
+57,ルルーシュ,ああ。<br>お前たちが協力してくれるのなら、な。<br>そのためにも……,ああ。<br>嗯。如果有你们的帮助的话。<br>为此我们更应该......
+58,カレン/卡莲,ええ。<br>必ずナナリーを助けましょう、<br>ルルーシュ。,嗯。<br>一起帮助娜娜莉吧，<br>鲁鲁修。
+59,スザク,そして、元の世界に帰るんだ。,然后，回到原来的世界。
+60,ルルーシュ,ああ。必ず。,嗯，一定。
+61,,<span class='scene-font-katari'>ルルーシュはスザクとカレンの</span><br><span class='scene-font-katari'>瞳に宿った覚悟を感じ取り、</span><br><span class='scene-font-katari'>フッと笑みを零す。</span>,<span class='scene-font-katari'>鲁鲁修看到了</span><br><span class='scene-font-katari'>朱雀和卡莲眼中的觉悟。</span><br><span class='scene-font-katari'>不禁露出了笑容。</span>
+62,,<span class='scene-font-katari'>そんな３人を少し離れたところで、</span><br><span class='scene-font-katari'>見つめるC.C.。</span>,<span class='scene-font-katari'>在离开那三人有些距离的地方，</span><br><span class='scene-font-katari'>看着他们的C.C.。</span>
+63,,<span class='scene-font-katari'>その表情は少しだけ悲しそうに</span><br><span class='scene-font-katari'>微笑んでいた。</span><br><span class='scene-font-katari'>運命の明日は近づく。</span>,<span class='scene-font-katari'>她的表情是</span><br><span class='scene-font-katari'>少许带点忧伤的微笑。</span><br><span class='scene-font-katari'>命运的明天就将到来。</span>
+info,,,scene_evt190614_cp5_q4_s10

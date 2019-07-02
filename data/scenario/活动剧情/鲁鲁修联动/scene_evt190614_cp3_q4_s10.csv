@@ -1,0 +1,36 @@
+id,name,text,trans
+0-chapter_name,,STAGE3 ゼロ の 正体,STAGE3 ZERO的真面目
+0-synopsis,,偽ゼロの潜伏する島へ先に潜入したカレンと姬塔一行は異常なまでのエルステ兵達の襲撃を受ける。こちらの情報が漏れているかもしれないとカレンから報告を受け、ルルーシュは偽ゼロが逃げずに自分達を迎え撃ったことに疑問を抱く。偽ゼロの行動には一貫性がなく、その目的はいまだわからない。疑問を残しながら、ルルーシュはナナリーを助けるため作戦行動に入るのだった。,先潜入冒牌ZERO潜伏着的岛屿的卡莲和姬塔一行人受到了埃尔斯特士兵们异常的袭击。鲁鲁修从卡莲那里收到了这边的情报可能泄露了的报告，对冒牌ZERO没有逃走而是迎击一事感到怀疑。这与冒牌ZERO之前的行为不一致，而且还不明白对方的目的是什么。抱持着疑问，鲁鲁修投入了救助娜娜莉的作战行动。
+1,,<span class='scene-font-katari'>一方、姬塔たちとカレンは</span><br><span class='scene-font-katari'>作戦実行のため一足先に</span><br><span class='scene-font-katari'>偽ゼロの潜伏する島に降り立っていた。</span>,<span class='scene-font-katari'>另一边，姬塔他们和卡莲</span><br><span class='scene-font-katari'>为了实施作战计划先走一步</span><br><span class='scene-font-katari'>来到了冒牌ZERO潜伏着的岛屿。</span>
+2,カレン/卡莲,<span class='scene-font-4'>はああぁぁああぁあああ！！！</span>,<span class='scene-font-4'>哈啊啊啊啊啊啊啊啊啊啊！！！</span>
+6,,<span class='scene-font-katari'>圧倒的な出力で戦車を薙ぎ払う</span><br><span class='scene-font-katari'>紅蓮弐式と、素早い身のこなしで</span><br><span class='scene-font-katari'>エルステ歩兵を倒す姬塔。</span>,<span class='scene-font-katari'>用压倒性的力量横扫着战车的</span><br><span class='scene-font-katari'>红莲贰式和，用敏捷的身姿</span><br><span class='scene-font-katari'>将埃尔斯特步兵打倒的姬塔。</span>
+7,,<span class='scene-font-katari'>堅牢な警備もふたりの奮闘によって</span><br><span class='scene-font-katari'>瞬時に崩され、偽ゼロが潜むと思われる</span><br><span class='scene-font-katari'>要塞への道が開ける。</span>,<span class='scene-font-katari'>即使是多么坚实的警备也在两个人的奋力战斗下</span><br><span class='scene-font-katari'>瞬间土崩瓦解，认为冒牌ZERO就在这座要塞里</span><br><span class='scene-font-katari'>所以打开了通向要塞的道路。</span>
+8,ビィ/碧,こっちも粗方片づいたぜ！,这边也基本上收拾完了！
+9,カレン/卡莲,待って！<br>前方に新しい反応がある！,等一下！<br>前面有新的反应！
+15,カレン/卡莲,増援のタイミングが早すぎる！<br>どうして？,增援的时间点太早了！<br>怎么会这样？
+19,,<span class='scene-font-katari'>倒せど倒せど増援はやってくる。</span><br><span class='scene-font-katari'>しかし紅蓮弐式の勢いの前には</span><br><span class='scene-font-katari'>数秒と持たずに敗れ去った。</span>,<span class='scene-font-katari'>虽说打倒了敌人之后又会出现增援。</span><br><span class='scene-font-katari'>但在气势强大的红莲贰式面前，</span><br><span class='scene-font-katari'>敌人很快就败下阵来。</span>
+20,ルリア/露莉亚,はわわ……<br>カレンさん、とっても強いです……,哈哇哇……<br>卡莲，真的好强啊……
+21,カレン/卡莲,どうしてだか<br>私たちの動きが読まれてる。,这是为什么<br>好像能够读取我们的行动一样。
+22,カレン/卡莲,こうなった以上、<br>人知れず潜入っていうのは無理ね。<br>正面から突破するよ！,再这样下去，<br>没办法不被人发现地潜入了。<br>那就从正面突破吧！
+24,,<span class='scene-font-katari'>先陣を切って行く紅蓮弐式を追い、</span><br><span class='scene-font-katari'>姬塔たちは通りを進む。</span>,<span class='scene-font-katari'>追赶者打头阵的红莲贰式，</span><br><span class='scene-font-katari'>姬塔一行人沿着道路前进。</span>
+26,ルルーシュ/鲁鲁修,<span class='scene-font-gray'>カレン、俺だ。</span><br><span class='scene-font-gray'>スザクと合流した。</span><br><span class='scene-font-gray'>状況を教えてくれ。</span>,<span class='scene-font-gray'>卡莲，是我。</span><br><span class='scene-font-gray'>我已经和朱雀汇合了。</span><br><span class='scene-font-gray'>把你现在的情况告诉我。</span>
+27,カレン/卡莲,厳重な警備があるだろうと<br>想定していたけど、<br>降りた途端に襲撃を受けた。,虽然事先已经预料到<br>会有严密的警备了，<br>但是刚刚落地就被袭击了。
+28,カレン/卡莲,ワケがわからない。<br>こっちの情報が洩れているのかも。,我不知道是什么原因。<br>也许是这边的情报泄露了。
+29,カレン/卡莲,戦力はこっちが上だから、<br>このまま正面から要塞に入る。<br>作戦に変更は？,战斗力是我们这边更强，<br>所以就这样正面进入要塞了。<br>要变更作战计划吗？
+30,ルルーシュ/鲁鲁修,分かった。ならばプランＢに移行。<br>紅蓮で陽動を頼む。<br>ただし、無理はするなよ。,我知道了。那么改为实行计划B。<br>由红莲进行佯攻。<br>但是，不要勉强自己啊。
+31,カレン/卡莲,<span class='scene-font-gray'>了解！</span>,<span class='scene-font-gray'>了解！</span>
+32,ルルーシュ/鲁鲁修,……妙だな。,……真奇怪啊。
+33,C.C.,カレンが言っていた襲撃のことか？,你是说卡莲说的袭击那件事吗？
+34,ルルーシュ/鲁鲁修,ああ。<br>偽ゼロは俺たちが来ることを<br>何らかの方法で知っていた。,啊啊。<br>冒牌ZERO不知道用了什么方法<br>得知了我们要来这件事。
+35,ルルーシュ/鲁鲁修,そうでなければ、<br>こんな対応を取れるはずがない。,如果不是这样的话，<br>是无法做出那样的应对的。
+36,C.C.,団員に偽ゼロの内通者がいるか、<br>或いは他の方法で<br>お前を監視しているのか……,骑空团的成员里有冒牌ZERO安插的内应<br>或者是通过别的方法<br>监视着你……
+37,ルルーシュ/鲁鲁修,その可能性はある。偽ゼロが都合よく<br>俺たちの行き先に現われる時点で<br>予想はついていたがな。,也有那种可能。冒牌ZERO一直都巧合地预测到了<br>我们的行动<br>然后在那之前出现在我们面前。
+38,C.C.,予想をしていたのに、<br>妙だと言うのはどうしてなんだ。,你都说了是预测了，<br>为什么还说奇怪呢。
+39,ルルーシュ/鲁鲁修,俺が妙だと言ったのは偽ゼロの目的だ。<br>ゼロへの復讐と言うのはわかるが、<br>行動に一貫性がない。,我觉得奇怪的是冒牌ZERO的目的。<br>虽然知道他是为了向ZERO复仇，<br>但是他的行动前后不一致。
+40,ルルーシュ/鲁鲁修,今回もそうだ。<br>俺たちが来ることが<br>わかっているのなら逃げればいい。,这次也是一样。<br>如果知道我们要来的话<br>逃走不就好了。
+41,ルルーシュ/鲁鲁修,だが、そうしないのは<br>何らかの理由があるのだろう。,但是，他没有这么做<br>这其中肯定有什么原因。
+42,ルルーシュ/鲁鲁修,もう少しでピースが揃いそうなのに<br>決定打が無い。偽ゼロを追い詰めるには<br>まだ何かが足りない。,明明还差一点拼图就集齐了，<br>还是缺少关键的部分。要将冒牌ZERO逼到绝境，<br>还有什么欠缺的东西。
+43,C.C.,とはいえ、<br>ナナリーの救出は急がねばならん。,虽然这么说，<br>不尽快救出娜娜莉的话可不行呢。
+44,ルルーシュ/鲁鲁修,ああ。<br>俺たちも作戦行動に入る！,啊啊。<br>我们也加入作战计划吧！
+45,,<span class='scene-font-katari'>不確定要素の残る中、</span><br><span class='scene-font-katari'>ルルーシュたちは</span><br><span class='scene-font-katari'>ナナリー救出へと向かう。</span>,<span class='scene-font-katari'>在仍留有不确定因素的情况下，</span><br><span class='scene-font-katari'>鲁鲁修一行</span><br><span class='scene-font-katari'>向着救出娜娜莉这一目标行动。</span>
+info,,,scene_evt190614_cp3_q4_s10

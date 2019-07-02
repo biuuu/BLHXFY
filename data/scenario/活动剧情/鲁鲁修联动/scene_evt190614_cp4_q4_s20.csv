@@ -1,0 +1,60 @@
+id,name,text,trans
+0-chapter_name,,STAGE4 偽ゼロ を 撃て,STAGE4 击杀 伪ZERO
+0-synopsis,,地下空間の奥へ進むと異世界転移装置と思われる装置の上に薬で眠らされたナナリーがおり、傍に偽ゼロが待ち構えていた。ルルーシュが偽ゼロと言葉を交わす中、姬塔達はルルーシュの作戦で偽ゼロの死角からナナリーのもとへ徐々に忍び寄る。偽ゼロは切り札として用意していたジェレミアの操縦するジークフリートを呼び出すと、ルルーシュ達にけしかけるのだった。,进到地下空间的深处，似是异世界转移装置之上躺着因药物昏睡的娜娜莉，而在一旁伪ZERO等候着。在鲁鲁修与伪ZERO言语相交之际，姬塔等人遵照鲁鲁修的作战计划从伪ZERO的死角悄悄接近娜娜莉。伪ZERO叫出了留作王牌，由杰雷米亚操纵的齐格飞，向鲁鲁修等人发起了进攻。
+14,ルルーシュ,増援の反応はない。<br>いよいよ手持ちの改造サザーランドを<br>使い果たしたようだな。,没有增援的反应。<br>终于他手上改造的萨瑟兰<br>似乎用尽了。
+15,,<span class='scene-font-katari'>地下で待ち受けていたサザーランドは</span><br><span class='scene-font-katari'>ハドロン砲の熱線で溶解し、</span><br><span class='scene-font-katari'>１機たりとも残らなかった。</span>,<span class='scene-font-katari'>在地下伏击的萨瑟兰</span><br><span class='scene-font-katari'>被强子炮的热能溶解，</span><br><span class='scene-font-katari'>1架也没有剩下。</span>
+18,,<span class='scene-font-katari'>そこへユグドラシルの作った足場を</span><br><span class='scene-font-katari'>伝って紅蓮弐式が現れ……</span>,<span class='scene-font-katari'>这时踩着尤格多拉希尔造出的踏脚处</span><br><span class='scene-font-katari'>红莲贰式出现了……</span>
+21,,<span class='scene-font-katari'>更に姬塔たちを抱えた</span><br><span class='scene-font-katari'>ランスロットも降りてくる。</span>,<span class='scene-font-katari'>然后抱着姬塔等人的</span><br><span class='scene-font-katari'>兰斯洛特也降了下来。</span>
+22,スザク,ナナリーを攫った偽ゼロは<br>この先にいるのか？,抓住娜娜莉的伪ZERO<br>在这前面吗？
+23,ルルーシュ,恐らくな。<br>行こう。,恐怕是的。<br>走吧。
+29,ルリア/露莉亚,あ！　あそこ……！,啊！　那里……！
+30,ゼロ？,…………,…………
+31,ナナリー,…………,…………
+32,,<span class='scene-font-katari'>地下空間を進むと、</span><br><span class='scene-font-katari'>腰の高さほどある</span><br><span class='scene-font-katari'>銀色の丸い台座が見えてきた。</span>,<span class='scene-font-katari'>在地下空间前进后、</span><br><span class='scene-font-katari'>他们看见了一个</span><br><span class='scene-font-katari'>高度差不多到腰的银色圆台。</span>
+33,,<span class='scene-font-katari'>台座の上には車椅子に座らされた</span><br><span class='scene-font-katari'>ナナリーがおり、その前には</span><br><span class='scene-font-katari'>接近を阻むように偽ゼロが立っている。</span>,<span class='scene-font-katari'>台座上是坐着轮椅的</span><br><span class='scene-font-katari'>娜娜莉，而在她之前</span><br><span class='scene-font-katari'>站着阻挠他们接近的伪ZERO。</span>
+34,ルルーシュ,ナナリー……,娜娜莉……
+35,ルルーシュ,<span class='scene-font-kokoro'>（無事ではあるようだが……</span><br><span class='scene-font-kokoro'>この騒ぎでも目を覚まさないのは、</span><br><span class='scene-font-kokoro'>薬で眠らされているのか）</span>,<span class='scene-font-kokoro'>（看起来似乎没事……</span><br><span class='scene-font-kokoro'>但在这样的骚动中还没醒来，</span><br><span class='scene-font-kokoro'>是因为药物而昏睡了吗）</span>
+36,ルルーシュ,<span class='scene-font-kokoro'>（それにナナリーが乗せられている</span><br><span class='scene-font-kokoro'>あの機械的な台座、あれが空間転移を</span><br><span class='scene-font-kokoro'>行うことが出来る装置なのだろうか）</span>,<span class='scene-font-kokoro'>（另外载着娜娜莉的</span><br><span class='scene-font-kokoro'>那个机械台座，那是可以进行</span><br><span class='scene-font-kokoro'>空间转移的装置吗）</span>
+37,ゼロ？,ようこそゼロ。<br>ようやくここに辿り着いたな。,欢迎，ZERO。<br>你终于来到这里了。
+38,ルルーシュ,無関係な人々の命を奪う<br>パフォーマンスまでされたんだ。,夺取无关者的性命<br>甚至还演了场大戏。
+39,ルルーシュ,招待を受けないわけには<br>いかないだろう？,这次款待<br>我不得不接受吧？
+40,ルルーシュ,戦車隊にゴーレム、改造サザーランド、<br>貴様が用意したおもてなしは<br>全て平らげてしまったぞ。,战车队、魔偶、改造萨瑟兰，<br>你准备好的款待<br>可全都被扫平了。
+41,ルルーシュ,地形を考慮しても、<br>この地下以外にお前の逃げ場はない。,考虑到这里的地形<br>你不可能逃到这地下以外的地方。
+42,ルルーシュ,さぁ、ナナリーを返してもらおうか！,好了，该把娜娜莉还给我了！
+43,ゼロ？,クックックック……,呵呵呵呵……
+44,ゼロ？,お前はとんだ嘘つきだ。,你真是个大骗子。
+45,ゼロ？,平然と我が身の優勢を謳ってはいるが、<br>頭の中では、私の次の一手を<br>探り続けている。,你平静地宣扬自己的优势<br>脑中却是不停摸索<br>我的下一步计划。
+46,ゼロ？,私の切り札がお前の期待に<br>応えられるといいが……,希望我的王牌<br>可以满足你的期待……
+47,ルルーシュ,ほぅ……自ら手の内を明かすとは<br>潔いじゃないか。,哦……亮出自己手中的牌<br>还挺高洁的嘛。
+48,ルルーシュ,では見せてもらうとしよう。<br>貴様の用意した<br>とっておきの奥の手というものを！,那让我见识一下吧。<br>你所准备的<br>留到最后的王牌！
+49,ゼロ？,クックックック……<br>お前は何も分かっていない。,呵呵呵呵……<br>你什么都不懂。
+50,ルルーシュ,<span class='scene-font-kokoro'>（分かっていないのはどちらかな）</span>,<span class='scene-font-kokoro'>（到底是谁不懂）</span>
+51,,<span class='scene-font-katari'>ルルーシュは熱源センサーが捉えた</span><br><span class='scene-font-katari'>３つの影を注視しながら</span><br><span class='scene-font-katari'>心の中で呟く。</span>,<span class='scene-font-katari'>鲁鲁修一边注视着被热源探测器</span><br><span class='scene-font-katari'>捕捉到的3个影子</span><br><span class='scene-font-katari'>一边在心中念叨。</span>
+52,,<span class='scene-font-katari'>彼らは偽ゼロに気取られないよう</span><br><span class='scene-font-katari'>岩陰に隠れながら進み、</span><br><span class='scene-font-katari'>ナナリーのもとへ近づきつつあった。</span>,<span class='scene-font-katari'>他们小心不被伪ZERO察觉</span><br><span class='scene-font-katari'>隐藏在岩石阴影下前进，</span><br><span class='scene-font-katari'>接近着娜娜莉。</span>
+53,ルルーシュ,<span class='scene-font-kokoro'>（姬塔、ビィ、ルリア……</span><br><span class='scene-font-kokoro'>ナナリーのことを頼む）</span>,<span class='scene-font-kokoro'>（姬塔、碧、露莉亚……</span><br><span class='scene-font-kokoro'>娜娜莉就拜托你们了）</span>
+54,ゼロ？,ククク……まぁいい。,呵呵呵……算了。
+55,,<span class='scene-font-katari'>偽ゼロは懐から拳銃を取り出すと、</span><br><span class='scene-font-katari'>天井に向かって発砲した。</span>,<span class='scene-font-katari'>伪ZERO从怀中掏出手枪、</span><br><span class='scene-font-katari'>朝天射击。</span>
+59,,<span class='scene-font-katari'>鋭く反響する銃声を合図に</span><br><span class='scene-font-katari'>空間の奥の壁に亀裂が走り、</span><br><span class='scene-font-katari'>粉々に砕け散る。</span>,<span class='scene-font-katari'>回响着的尖锐枪声作为信号</span><br><span class='scene-font-katari'>空间深处的墙壁开始龟裂，</span><br><span class='scene-font-katari'>变得粉碎。</span>
+63,,<span class='scene-font-katari'>そして砂埃の上がる穴の奥から、</span><br><span class='scene-font-katari'>トゲのついた巨大なボールのような物が</span><br><span class='scene-font-katari'>飛び出してきた。</span>,<span class='scene-font-katari'>然后从扬起砂尘的洞穴深处</span><br><span class='scene-font-katari'>飞出了一个巨大的</span><br><span class='scene-font-katari'>长刺的球体。</span>
+65,？？？,<span class='scene-font-4'>オォォルハイル</span><br><span class='scene-font-4'>ブリタァァニァァアアア！！！</span>,<span class='scene-font-4'>All Hail</span><br><span class='scene-font-4'>Britanniaaaa！！！</span>
+66,カレン/卡莲,っ！？　あのバカデカいのは何……？,！？　那个巨大的是什么……？
+67,スザク,あれは……<br>ジェレミア・ゴットバルト卿……？,那是……<br>杰雷米亚・哥德巴尔特卿……？
+68,ルルーシュ,オレンジか！,是橙子吗！
+69,ジェレミア,オ……オオオオ……！,橙……橙橙橙橙……！
+70,ジェレミア,お待ちしておりました！<br><span class='scene-font-4'>ゼロォォオオオーーー！！</span>,我等您很久了！<br><span class='scene-font-4'>ZEROOOOOーーー！！</span>
+71,,<span class='scene-font-katari'>オレンジ色の機体の上に乗った男は</span><br><span class='scene-font-katari'>憎しみのこもった目で</span><br><span class='scene-font-katari'>ガウェインを睨みつける。</span>,<span class='scene-font-katari'>坐在橙色机体上的男人</span><br><span class='scene-font-katari'>用仇恨的目光</span><br><span class='scene-font-katari'>盯着高文。</span>
+72,ゼロ？,ジェレミア・ゴットバルト。<br>その様子では覚えているようだな。,杰雷米亚・哥德巴尔特。<br>看你这样子似乎还记得。
+73,ゼロ？,そう、こいつはお前に嵌められて<br>地位を失い、瀕死の傷を負わされた挙句<br>人体実験に利用された哀れな男。,没错，他就是被你陷害，受了濒死的伤，<br>最终被利用在人体试验上的悲哀的男人。
+74,ゼロ？,だが積もりに積もった怨念は<br>この男を醜怪な復讐者として<br>生まれ変わらせた！,然而不断积累的怨念<br>让这个男人化作丑陋的复仇者<br>重生了！
+75,ゼロ？,お前を葬る敵としては<br>不足ない相手だろう？,作为葬送你们的敌人<br>不会有任何不足吧？
+76,ジェレミア,<span class='scene-font-4'>恐悦ッ！　至極ッ！　僥倖ッ！</span><br>いまこそ我が忠義と雪辱を果たす時！,<span class='scene-font-4'>恭悦！　至极！　侥幸！</span><br>现在正是我尽忠雪耻之时！
+77,ジェレミア,恐怖せよ！<br>このジェレミア・ゴットバルトを！<br>このジークフリートの力をっ！！,畏惧吧！<br>畏惧我杰雷米亚・哥德巴尔特！<br>以及这架齐格飞的力量！！
+80,,<span class='scene-font-katari'>ジェレミアの足元が降下し、</span><br><span class='scene-font-katari'>異形の機体ジークフリートの</span><br><span class='scene-font-katari'>コックピット内へと収める。</span>,<span class='scene-font-katari'>杰雷米亚降下</span><br><span class='scene-font-katari'>被收入了异型机体</span><br><span class='scene-font-katari'>齐格飞的驾驶舱中。</span>
+81,ジェレミア,<span class='scene-font-4'>ゼロォォォォーーー！！！</span>,<span class='scene-font-4'>ZEROOOOOーーー！！！</span>
+82,C.C.,あの機体、<br>いままで見たことのないタイプだぞ。,那架机体<br>是至今为止从未见过的机型。
+83,ルルーシュ,ブリタニアの機動兵器プランにあった<br>ナイトギガフォートレスだ。,那是布里塔尼亚的机动兵器计划中的<br>Knight Giga Fortress。
+84,ルルーシュ,攻撃特化のこんな馬鹿げた機体を<br>実際に作っているとは……,没想到真的制造了<br>特化了攻击的这样愚蠢的机体……
+85,ルルーシュ,データ通りなら、<br>ナイトメアの比にならない戦闘力だ。,如果和数据一样<br>那是Knightmare无法比拟的战斗力。
+86,ルルーシュ,カレン！　スザク！<br>全機で攻撃を仕掛ける！<br>決して油断するな！,卡莲！　朱雀！<br>全员一起进攻！<br>绝对不能大意！
+87,スザク・カレン/スザク・卡莲,わかった！<br>了解っ！,明白了！<br>了解！
+info,,,scene_evt190614_cp4_q4_s20

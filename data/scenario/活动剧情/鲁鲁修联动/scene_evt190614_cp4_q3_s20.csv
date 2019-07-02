@@ -1,0 +1,34 @@
+id,name,text,trans
+0-chapter_name,,STAGE4 偽ゼロ を 撃て,STAGE4 击杀 伪ZERO
+0-synopsis,,スザクがサザーランドの出現経路を探っている頃、要塞の全てのフロアを調べ終わったカレンと姬塔一行のもとに、地下からサザーランドの部隊が現れる。偽ゼロとナナリーが地下にいると踏んだルルーシュはドルイドシステムによって地下への侵入ポイントを算出し、全員を集める。地下空間へ通じる穴を開けて降りると、現れたサザーランドの部隊をルルーシュが迎え撃つのだった。,当朱雀探查萨瑟兰出现路径之时，在调查完要塞全部楼层的卡莲和姬塔一行人面前，萨瑟兰部队从地下出现了。料定伪ZERO与娜娜莉在地下的鲁鲁修用德鲁伊系统计算出了入侵地下的地点，让全员集合。打开通往地下空间的洞口降下后，鲁鲁修迎击出现了的萨瑟兰部队。
+6,スザク,ふぅ……,呼……
+7,スザク,スピナーの跡からすると、<br>さっきのサザーランドが来たのは<br>こっちの方角からか。行ってみよう。,从机走轮的痕迹来看，<br>刚才的萨瑟兰是从那个方向来的。<br>去看看吧。
+8,,<span class='scene-font-katari'>手際よくサザーランドの部隊を倒し、</span><br><span class='scene-font-katari'>スザクは出現経路を追って</span><br><span class='scene-font-katari'>建物の間を抜けていく。</span>,<span class='scene-font-katari'>快速打倒萨瑟兰部队，</span><br><span class='scene-font-katari'>朱雀追寻着萨瑟兰的出现路径</span><br><span class='scene-font-katari'>穿梭在建筑物之间。</span>
+13,ルリア/露莉亚,こっちの部屋はいませんでした……,不在这间房里……
+14,ビィ/碧,オイラの方も収穫なしだぜ……,我这边也么有收获……
+15,カレン/卡莲,<span class='scene-font-kokoro'>（これで全ての階を</span><br><span class='scene-font-kokoro'>調べたはずだけど……</span><br><span class='scene-font-kokoro'>どこか見落としたのかしら）</span>,<span class='scene-font-kokoro'>（这样一来酥油的楼层</span><br><span class='scene-font-kokoro'>应该都调查过了……</span><br><span class='scene-font-kokoro'>没有什么其他漏掉的地方了吗）</span>
+16,,<span class='scene-font-katari'>最上階からしらみ潰しに部屋を</span><br><span class='scene-font-katari'>見て回り、１階へと降りたカレンたち。</span>,<span class='scene-font-katari'>从最上层开始彻底地将房间</span><br><span class='scene-font-katari'>一一搜寻，最后来到一楼的卡莲一行人。</span>
+17,,<span class='scene-font-katari'>目視による調査に頼らざるを得ない</span><br><span class='scene-font-katari'>状況でひとつも手掛かりを得られず、</span><br><span class='scene-font-katari'>カレンは焦っていた。</span>,<span class='scene-font-katari'>不得不靠肉眼调查，</span><br><span class='scene-font-katari'>而现状则是一无所获，</span><br><span class='scene-font-katari'>卡莲焦急了起来。</span>
+21,ビィ/碧,なんだ、あのウサ耳は！,那是什么，那个有兔子耳朵的！
+22,カレン/卡莲,サザーランド！？<br>どうしてここに？,萨瑟兰！？<br>为什么会在这里？
+23,,<span class='scene-font-katari'>建物の奥から突如現れた</span><br><span class='scene-font-katari'>サザーランドの部隊を見て、</span><br><span class='scene-font-katari'>カレンは驚きを隠せない。</span>,<span class='scene-font-katari'>看见突然从建筑物深处</span><br><span class='scene-font-katari'>出现的萨瑟兰部队，</span><br><span class='scene-font-katari'>卡莲难掩惊讶。</span>
+26,カレン/卡莲,奥の部屋に昇降機が<br>隠されていたなんて……,里面的房间竟然隐藏着<br>升降机……
+27,カレン/卡莲,あれを使って地下から<br>サザーランドを送り出しているんだ。,用那个将萨瑟兰<br>从地下送出。
+29,カレン/卡莲,ルルーシュ、聞こえる？<br>サザーランド数機と遭遇。<br>どうやら地下から送り出されてる。,鲁鲁修，听得见吗？<br>我遇到数架萨瑟兰。<br>似乎是从地下被送出的。
+31,ルルーシュ,地下から？,从地下？
+32,ルルーシュ,<span class='scene-font-kokoro'>（なるほど。エルステ帝国にも</span><br><span class='scene-font-kokoro'>秘密というわけか……）</span>,<span class='scene-font-kokoro'>（原来如此。艾尔斯提帝国也藏有</span><br><span class='scene-font-kokoro'>秘密吗……）</span>
+33,,<span class='scene-font-katari'>ルルーシュはガウェインに搭載された</span><br><span class='scene-font-katari'>ドルイドシステムで要塞周辺の地理、</span><br><span class='scene-font-katari'>地殻データを読み込み、計算を始めた。</span>,<span class='scene-font-katari'>鲁鲁修用高文搭载的</span><br><span class='scene-font-katari'>德鲁伊系统载入要塞周围地理、</span><br><span class='scene-font-katari'>地壳数据，开始计算。</span>
+34,ルルーシュ,<span class='scene-font-kokoro'>（昇降機の位置と地理データを</span><br><span class='scene-font-kokoro'>照らし合わせれば、</span><br><span class='scene-font-kokoro'>このポイントが妥当か）</span>,<span class='scene-font-kokoro'>（将升降机的位置与地理数据</span><br><span class='scene-font-kokoro'>比照的话，</span><br><span class='scene-font-kokoro'>这个地点最为妥当吗）</span>
+36,ルルーシュ,スザク、カレン。<br>今送ったポイントですぐに合流だ。<br>サザーランドの相手はそこそこでいい。,朱雀，卡莲。<br>立即在我刚才发给你们的地点汇合。<br>萨瑟兰应付下就好。
+37,スザク,わかった。<br>すぐに行く。,明白了。<br>我这就前往。
+38,カレン/卡莲,了解。<br>姬塔たちを連れて向かうわ。,明白。<br>我带着姬塔她们过去。
+44,,<span class='scene-font-katari'>ルルーシュは割り出したポイントで</span><br><span class='scene-font-katari'>スザクやカレンたちと合流した。</span>,<span class='scene-font-katari'>朱雀和卡莲等人在</span><br><span class='scene-font-katari'>鲁鲁修计算出的地点汇合了。</span>
+45,ルルーシュ,偽ゼロは恐らく地下にいる。<br>ナナリーもそこに囚われているだろう。<br>今からハドロン砲で地表に穴を開ける。,伪ZERO大概在地下。<br>娜娜莉也被囚禁在那里吧。<br>现在我用强子炮在地表打开一个洞。
+46,カレン/卡莲,そんなことして地下が<br>埋もれちゃったりしないの？,这样做的话<br>地下不会被埋起来吗？
+47,ルルーシュ,そのためにここに移動した。<br>計算通りなら、ここが最適だ。<br>始めるぞ。,就因为这样我们才移动到这里的。<br>如果计算准确的话，这里是最适合的。<br>开始了。
+50,,<span class='scene-font-katari'>ガウェインの両肩の装甲が開き、</span><br><span class='scene-font-katari'>ハドロン砲の砲門が露わになる。</span>,<span class='scene-font-katari'>高文双肩的装甲打开、</span><br><span class='scene-font-katari'>露出了强子炮的炮口。</span>
+53,,<span class='scene-font-katari'>ドルイドシステムが示した地点に</span><br><span class='scene-font-katari'>赤い光が注がれた。</span>,<span class='scene-font-katari'>红色的光注入了</span><br><span class='scene-font-katari'>德鲁伊系统显示的地点。</span>
+54,,<span class='scene-font-katari'>ハドロン砲によって</span><br><span class='scene-font-katari'>地面が大きく抉られ、</span><br><span class='scene-font-katari'>地下へ通じる大穴が口を開ける。</span>,<span class='scene-font-katari'>强子炮将</span><br><span class='scene-font-katari'>地表掘开，</span><br><span class='scene-font-katari'>露出了一个通往地下的大洞。</span>
+65,ルルーシュ,フン……<br>早速のお出ましか。,哼……<br>这么快就出现了吗。
+66,,<span class='scene-font-katari'>ルルーシュはパネルを操作して</span><br><span class='scene-font-katari'>ハドロン砲の発射準備を整え、</span><br><span class='scene-font-katari'>照準を合わせた。</span>,<span class='scene-font-katari'>鲁鲁修操纵仪表盘</span><br><span class='scene-font-katari'>让强子炮准备就绪，</span><br><span class='scene-font-katari'>并对准了焦点。</span>
+info,,,scene_evt190614_cp4_q3_s20

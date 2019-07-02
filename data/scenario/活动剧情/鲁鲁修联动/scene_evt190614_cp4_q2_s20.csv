@@ -1,0 +1,24 @@
+id,name,text,trans
+0-chapter_name,,STAGE4 偽ゼロ を 撃て,STAGE4 击杀 伪ZERO
+0-synopsis,,ルルーシュの指示に従い、スザクは偽ゼロの潜む島の発着場を破壊する。スザクの行動は読まれていない様子であることからルルーシュは騎空団に内通者がいたと判断し、策がばれないよう逐一指示を出す方法で作戦を進めていく。そこへスザクの前にドローン化されたサザーランドが現れる。スザクはルルーシュの指示でサザーランドを掃討しつつ出現経路を特定しに向かうのだった。,遵照鲁鲁修的指示、朱雀前往破坏伪ZERO潜伏着的岛上的交通枢纽。从朱雀的行动没有被看穿这点鲁鲁修判断骑空团内部有内奸，为了不让计策走漏他用逐一下达指示的方法进行作战。这时无人驾驶化的萨瑟兰出现在了朱雀的面前。朱雀在鲁鲁修的指示下一边扫除萨瑟兰，一边前往确定它们的出现路径。
+14,スザク,ルルーシュ。指示通り、<br>発着場の入り口は封鎖した。<br>これで騎空艇は使えない。,鲁鲁修。按照指示，<br>我封锁了交通枢纽，<br>这样一来骑空艇便无法使用了。
+16,ルルーシュ,了解だ。<br>周囲に敵影はないか？,明白了。<br>周围没有敌营吗？
+17,スザク,<span class='scene-font-gray'>レーダーに反応はない。<span><br><span class='scene-font-gray'>カレンの陽動のおかげだ。<span>,<span class='scene-font-gray'>雷达没有反应。<span><br><span class='scene-font-gray'>多亏了卡莲的诱敌。<span>
+18,ルルーシュ,なら、カレンたちと合流して<br>ナナリーの探査に加わってくれ。,那么，与卡莲她们汇合<br>一起寻找娜娜莉。
+19,ルルーシュ,そこからなら北側の搬入口から入って<br>一フロアで合流できるはずだ。,从那里应该可以从北侧的货物搬入口进入<br>与它们在某一层汇合。
+20,,<span class='scene-font-katari'>ルルーシュは島の影に</span><br><span class='scene-font-katari'>ガウェインを隠しながら、</span><br><span class='scene-font-katari'>スザクたちに作戦の指示を出していた。</span>,<span class='scene-font-katari'>鲁鲁修一边将高文藏在</span><br><span class='scene-font-katari'>岛的阴影处，</span><br><span class='scene-font-katari'>一边给朱雀等人下达作战指示。</span>
+21,C.C.,逐次、指示を出すこの方法なら<br>内通者も関係ない、ということか。,这就是逐一发出指令的话<br>就算有内奸也没关系的意思吗。
+22,ルルーシュ,あまりに行き当たりばったりで、<br>お世辞にも戦略とは呼べんがな。,太过见机行事，<br>就根本称不上战略了。
+26,スザク,なに……？　まさか！,什么……？　难道！
+28,スザク,ルルーシュ、敵影だ！<br>敵要塞内よりサザーランド多数！,鲁鲁修，有敌影！<br>敌方要塞中有多架萨瑟兰！
+30,ルルーシュ,サザーランドだと……<br>元の世界から転移させて来たのか。,竟是萨瑟兰……<br>从原来的世界一同转移过来的吗？
+34,,<span class='scene-font-katari'>サザーランドから放たれる弾丸の雨を</span><br><span class='scene-font-katari'>スザクは「ブレイズ・ルミナス」という</span><br><span class='scene-font-katari'>エネルギー障壁を展開して防ぐ。</span>,<span class='scene-font-katari'>朱雀展开名为「能源光盾」的</span><br><span class='scene-font-katari'>能量屏障</span><br><span class='scene-font-katari'>挡下了萨瑟兰放出的弹雨。</span>
+35,スザク,なんだ、この機械的な動きは？<br>確かめさせてもらう！,怎么回事，这种机械式的动作？<br>让我一试！
+49,,<span class='scene-font-katari'>ランスロットは背部から２本の剣を</span><br><span class='scene-font-katari'>引き抜くと、銃撃を避けながら、</span><br><span class='scene-font-katari'>サザーランド部隊の中心に飛び込む。</span>,<span class='scene-font-katari'>兰斯洛特拔出了背后的2把剑，</span><br><span class='scene-font-katari'>一边闪避枪击，</span><br><span class='scene-font-katari'>一边冲入萨瑟兰部队的中心。</span>
+52,,<span class='scene-font-katari'>そして１機のサザーランドと</span><br><span class='scene-font-katari'>すれ違いざまに、背部の</span><br><span class='scene-font-katari'>コックピットハッチを切り裂いた。</span>,<span class='scene-font-katari'>然后与1架萨瑟兰</span><br><span class='scene-font-katari'>擦肩而过之时，</span><br><span class='scene-font-katari'>劈开了其背后的驾驶舱。</span>
+53,スザク,やっぱり。,果然。
+55,スザク,ルルーシュ！<br>このサザーランドに人は乗っていない。<br>ドローン化された機体だ。,鲁鲁修！<br>这里的萨瑟兰没有人驾驶。<br>是无人驾驶化的机体。
+57,ルルーシュ,ドローン化だと……,无人驾驶化……
+58,ルルーシュ,スザクはサザーランドを掃討しつつ、<br>出現経路を特定してくれ。<br>偽ゼロがいる可能性が高い。,朱雀，你一边扫荡萨瑟兰<br>一边确定它们的出现路径。<br>伪ZERO在那里的可能性很大。
+59,スザク,分かった！<br>まずはこのサザーランドを排除する！,明白了！<br>我先扫除这里的萨瑟兰！
+info,,,scene_evt190614_cp4_q2_s20

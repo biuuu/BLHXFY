@@ -1,5 +1,5 @@
 ﻿id,name,detail
-npc,戴安莎,3040129000
+npc,戴安莎,#3040129000
 special,沙滩偶像,奥义值UP(20%)/我方全体水属性角色特殊强化(攻击UP/二连击率UP)<span class=text-blue>◆可积累</span>
 skill-1,夏日安可,我方全体二连击率UP(100%)
 skill-2,登台演出,我方其他成员奥义伤害UP(9%，累积，最大3次)
