@@ -15,7 +15,7 @@ document.write('<script src="https://blhx.danmu9.com/blhxfy/extension.ios.user.j
   }
   console.log('start publish...')
   ghpages.publish('dist', {
-    add: true
+    add: false
   }, function () {
     console.log('Finished at', '\x1b[36m\x1b[2m' + new Date().toLocaleString() + '\x1b[0m')
   })

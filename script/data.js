@@ -3,6 +3,7 @@ const md5Dir = require('md5-dir/promise')
 const { version } = require('../package.json')
 const glob = require('glob')
 const CSV = require('papaparse')
+const path = require('path')
 
 const Glob = glob.Glob
 glob.promise = function (pattern, options) {
@@ -109,7 +110,11 @@ const start = async () => {
   await fse.copy('./data/', './dist/blhxfy/data/')
 
   console.log('move etc...')
-  fse.move('./dist/blhxfy/data/etc/', './dist/blhxfy/data/')
+  const etcFiles = await glob.promise('./dist/blhxfy/data/etc/**/*.csv')
+  for (let file of etcFiles) {
+    const name = path.basename(file)
+    await fse.move(file, `./dist/blhxfy/data/${name}`)
+  }
 
   await collectStoryId()
 
