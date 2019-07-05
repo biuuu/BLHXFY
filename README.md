@@ -1,4 +1,6 @@
 # 碧蓝幻想翻译
+[![Build Status](https://travis-ci.org/biuuu/BLHXFY.svg?branch=master)](https://travis-ci.org/biuuu/BLHXFY)
+<a href="http://game.granbluefantasy.jp/#quest/index"><img alt="Port Breeze" src="https://img.shields.io/badge/Port-Breeze-green.svg"></a>
 ## 前言
 插件的原理是通过在游戏的网页中注入 javascript 脚本，修改网络请求中返回的文本，以及添加部分 CSS（样式），来实现汉化。
 
