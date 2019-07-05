@@ -4,6 +4,7 @@ node_js:
   - "12"
 cache: yarn
 before_install:
+  - npm install -g yarn
   - git pull https://github.com/BLHXFY-Group/BLHXFY.git master
 jobs:
   include:
