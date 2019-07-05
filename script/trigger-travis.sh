@@ -115,4 +115,4 @@ curl -s -X POST \
   -H "Travis-API-Version: 3" \
   -H "Authorization: token ${TOKEN}" \
   -d "$body" \
-  https://api.travis-ci.com/repo/${USER}%2F${REPO}/requests
+  https://api.travis-ci.org/repo/${USER}%2F${REPO}/requests
