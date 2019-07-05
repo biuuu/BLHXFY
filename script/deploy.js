@@ -9,6 +9,10 @@ const start = async () => {
   await fse.outputFile('./dist/blhxfy/game-config.js', `document.write('<script src="' + Game.jsUri + '/config.js?lyria"></script>')
 document.write('<script src="https://blhx.danmu9.com/blhxfy/extension.ios.user.js"></script>')`)
 
+  if (process.env.TRAVIS) {
+    console.log('travis')
+    return
+  }
   console.log('start publish...')
   ghpages.publish('dist', {
     add: true

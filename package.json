@@ -7,7 +7,8 @@
     "build": "node ./script/build.js",
     "data": "node ./script/data.js",
     "deploy": "yarn build && yarn data && cross-env CUSTOM_DOMAIN=true node ./script/deploy.js",
-    "deployc": "node ./script/index.js"
+    "deployc": "node ./script/index.js",
+    "travis_deploy": "cross-env TRAVIS=true yarn deploy"
   },
   "author": "biuuu",
   "license": "MIT",
