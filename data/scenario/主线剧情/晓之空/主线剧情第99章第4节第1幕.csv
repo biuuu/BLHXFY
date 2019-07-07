@@ -1,0 +1,67 @@
+id,name,text,trans
+0-chapter_name,,第99章　痛みの記憶,第九十九章 痛苦的记忆
+0-synopsis,,ある少女は夢を見ていた。強力な力を持つがゆえに座敷牢で育ったその少女は、「達成すれば自由を約束する」という父、真王の取引に応じ、戦乱を引き起こしてしまう。そして、戦火の中で、自らの罪の重さを知るのだった。目が覚めたフォリアのもとに、レオナがアベルの仇を討つべく押しかけてくる。フォリアは逃げることなく、レオナを正面から迎え撃つ。,有个女孩正在。 由于太过强大的力量而被关在禁闭室中长大的女孩，答应了父亲只要达成就能变得自由的交易，从而引发了战乱。 在战火中，她明白了自己的罪孽有多重。 面对着觉醒的芙莉雅，蕾欧娜下定决心要为亚伯报仇。 可是却没有逃跑，而是从正面迎击了蕾欧娜。
+1,,<span class='scene-font-katari'>ある少女は夢を見る。</span> ,某个女孩，正在做梦。
+2,,<span class='scene-font-katari'>少女は生まれついて、</span><br><span class='scene-font-katari'>左右の瞳の色が違っていた。</span>,少女一生下来，左右眼的瞳色就不太一样。
+3,,<span class='scene-font-katari'>それは少女の持つ</span><br><span class='scene-font-katari'>強大過ぎる力ゆえであり……</span>,那是因为少女拥有过于强大的力量……
+4,,<span class='scene-font-katari'>その押さえつけても溢れ出る力は</span><br><span class='scene-font-katari'>少女の身体にまで影響を及ぼし、</span><br><span class='scene-font-katari'>少女は異様に身体の成長が遅かった。</span>,这种力量影响到了少女的身体，使少女身体的生长变得异常缓慢。
+9,,<span class='scene-font-gray'>少女はある国の国王の第一子、</span><br><span class='scene-font-gray'>長女として生まれた。</span>,这个女孩是某个国王的第一个孩子，同时也是长女。
+10,,<span class='scene-font-gray'>しかし、その強大過ぎる力を恐れられ、</span><br><span class='scene-font-gray'>地下の座敷牢に幽閉されて育った。</span>,但是，大家都很害怕这种过于强大的力量，于是把她幽禁在地下的禁闭室里长大。
+11,,<span class='scene-font-gray'>空も、星も、風も……</span><br><span class='scene-font-gray'>全ては本の中の存在として知り、</span><br><span class='scene-font-gray'>ただ憧れだけを抱いて育った。</span>,天空也好、星星也好、就连风儿…… 一切都只存在于书本之中，少女怀着这样那样的憧憬，慢慢长大了。
+12,,<span class='scene-font-gray'>世界への想像を膨らませ続けたある日、</span><br><span class='scene-font-gray'>転機が訪れた。</span>,少女对世界的想象不断地膨胀着，终于在某一天，事情出现了转机。
+17,？？？,お前に仕事を頼みたい。,我想给你一份工作。
+18,？？？,これを達成した暁には、<br>お前に自由を約束しよう。,一旦你达成了这个目标，我向你保证，你会得到自由。
+19,,<span class='scene-font-gray'>実の父親からの取引というのも、</span><br><span class='scene-font-gray'>いまにして思えば妙な話だ。</span>,现在回想起来，和亲生父亲进行这种交易也非常奇怪。
+20,,<span class='scene-font-gray'>しかし、</span><br><span class='scene-font-gray'>少女は人並みの自由が、</span><br><span class='scene-font-gray'>幸福が欲しかった。</span>,但是，少女只是想要自由、和单纯的幸福而已。
+21,,<span class='scene-font-gray'>空を見てみたかった。</span><br><span class='scene-font-gray'>星を見てみたかった。</span><br><span class='scene-font-gray'>風を感じてみたかった。</span>,我想看看天空。 我想看看星星，我想感受一下什么是风。
+22,,<span class='scene-font-gray'>思い切り走ってみたかった。</span><br><span class='scene-font-gray'>妹から聞いた世界に触れたかった。</span><br><span class='scene-font-gray'>たくさんの人に会ってみたかった。</span>,我想尽情地奔跑。 我想接触我的妹妹接触这个世界。 我还有很多想见的人。
+23,,<span class='scene-font-gray'>その時、少女は盲目だった。</span><br><span class='scene-font-gray'>無限に広がる未知の前に、</span><br><span class='scene-font-gray'>少女の目は曇っていた。</span>,那时候，少女还非常盲目。 在无限延伸的未知面前，少女的眼睛确实蒙上了一层阴影。
+28,？？？,壊して、騙して、殺せ。<br>それがお前の仕事だ。,毁掉它，欺骗它，杀了它。 这就是你的工作。
+29,,<span class='scene-font-gray'>そう告げたのは父だった。</span><br><span class='scene-font-gray'>狭い世界しか知らない少女には、</span><br><span class='scene-font-gray'>それを疑う余地もなかった。</span>,是父亲这样告诉他的。 对于一直生活在狭小世界的少女来说，并没有任何值得怀疑的地方。
+30,,<span class='scene-font-gray'>しかし、</span><br><span class='scene-font-gray'>知らなかったでは済まされない。</span>,但是，就算知道了也没有任何用处。
+33,,<span class='scene-font-gray'>父に言われた仕事をこなすと、</span><br><span class='scene-font-gray'>瞬く間に国が潰れ、戦乱が起きた。</span>,完成父亲吩咐的工作后，国家瞬间崩溃，并且爆发出了战乱。
+34,,<span class='scene-font-gray'>多くの街が灰になり、</span><br><span class='scene-font-gray'>多くの人々が喪われた。</span>,许多城市化为灰烬，许多人丧失了生命。
+35,,<span class='scene-font-gray'>その時、少女は、</span><br><span class='scene-font-gray'>初めて自らの罪の重さに気付く。</span>,直到这时，少女才意识到自己的罪孽有多深重。
+36,,<span class='scene-font-gray'>少女の望みは、</span><br><span class='scene-font-gray'>決して特別なものではなかった。</span>,少女的愿望，绝对不是什么特别的东西。
+37,,<span class='scene-font-gray'>普通に、ただ普通に生きたかった。</span><br><span class='scene-font-gray'>しかし、その望みは、</span><br><span class='scene-font-gray'>空の破滅を招き、屍の山を積み上げた。</span>,她只是想普通地、正常的生活而已。然而正是这种希望，却导致了天空的毁灭，和堆积成山的尸体。
+38,,<span class='scene-font-gray'>私は、</span><br><span class='scene-font-gray'>私の幸せを</span><br><span class='scene-font-gray'>願ってはいけなかったのか……？</span>,难道，我不该去追寻属于我的幸福吗……？
+39,,<span class='scene-font-katari'>戦火の中、呆然とする少女に、</span><br><span class='scene-font-katari'>ある星の獣が歩み寄る。</span>,在战火之中，某只星晶兽，朝着正在发呆的少女走去。
+40,,<span class='scene-font-katari'>その星の獣には、</span><br><span class='scene-font-katari'>王の器を見抜く力があり、</span><br><span class='scene-font-katari'>少女にその器を見出していた。</span>,这只星晶兽已经看透了国王的本质，并且在少女身上看到了希望。
+41,,<span class='scene-font-katari'>星の獣は、</span><br><span class='scene-font-katari'>少女に王になることを持ちかける。</span>,星兽询问少女，是否想成为国王。
+42,,<span class='scene-font-katari'>少女は自らの罪を雪ぐため、</span><br><span class='scene-font-katari'>空域を統一する国を</span><br><span class='scene-font-katari'>築き上げることを決意する。</span>,为了洗刷自己的罪孽，少女决心统一这片空域，建立新的国家。
+43,,<span class='scene-font-katari'>二度と戦乱など起きぬよう、</span><br><span class='scene-font-katari'>失われてしまった統一王国の、</span><br><span class='scene-font-katari'>代わりになるように、と。</span>,为了不再发生战乱，为了取代已经失去的王国。
+48,？？？,──王よ、我が王よ。<br>どうかお目覚めになってください。,——王啊，我的王。 请醒来吧。
+55,フォリア/芙莉亚,ん……<br>妾は……寝ておったのか？,嗯…… 妾身…… 睡着了吗？
+56,ハクタク/白泽,はい。<br>ほんの一時ですが、うたた寝を。,是的。 虽然只是一会儿，只是打了个盹而已。
+57,フォリア/芙莉亚,そうか……<br>道理で妙な……<br>懐かしい夢を見たものじゃ。,这样啊…… 怪不得…… 做了个让人怀念的梦。
+58,,<span class='scene-font-katari'>そう告げるフォリアの口元には、</span><br><span class='scene-font-katari'>苦々しい笑みが浮かぶ。</span>,芙莉亚的嘴角浮现出了苦涩的笑容。
+59,ハクタク/白泽,我が王よ。<br>やはり一度、しっかり仮眠を<br>取ったほうがよいのでは……,王啊。 您还是好好地休息一下吧。
+60,フォリア/芙莉亚,ならん。<br>王が止まれば官が止まろう。<br>官が止まれば国が止まる。,不行。如果国王和宦官停止工作的话。 如果政府停止工作的话，这个国家的机能就会停止。
+61,フォリア/芙莉亚,いつだって割を食うのは国民達じゃ。<br>それを思えばこそ、<br>いまはとにかく時間が惜しい。,这样下去的话，不论何时被人民掀翻也不奇怪。 正因为如此，现在才要珍惜时间啊。
+62,フォリア/芙莉亚,特にいまは……<br>終わりがいつ来るとも知れぬからの。,尤其是现在…… 因为终结之时不知道什么时候就会到来了。
+63,フォリア/芙莉亚,出来るだけのことは<br>しておきたいのじゃ。,我想尽我所能，做些我力所能及的事情。
+64,,<span class='scene-font-katari'>フォリアの口ぶりに、</span><br><span class='scene-font-katari'>ハクタクはやるせない様子で</span><br><span class='scene-font-katari'>顔をしかめる。</span>,芙莉雅的语气让白泽不耐烦地皱起了眉头。
+65,ハクタク/白泽,我が王よ。<br>やはり、レオナ様の件は……,王啊。 果然，蕾欧娜大人的事……
+67,ハクタク/白泽,<span class='scene-font-4'>っ！？</span>,呜！？
+68,,<span class='scene-font-katari'>周囲を漂い始める強烈な殺気に、</span><br><span class='scene-font-katari'>フォリアとハクタクは、</span><br><span class='scene-font-katari'>耳をそばだてる。</span>,突然，弥漫在四周的强烈杀气让芙莉雅和白泽警觉了起来。
+69,フォリア/芙莉亚,やれやれ……<br>噂をすれば何とやら、じゃな。,哎呀哎呀…… 说曹操曹操到。
+70,,<span class='scene-font-katari'>響く足音と共に、</span><br><span class='scene-font-katari'>衛兵達のやり取りが、</span><br><span class='scene-font-katari'>玉座の間にまで響き渡る。</span>,随着脚步声一同，卫兵们的呼喊声响彻了整个王座厅。
+71,衛兵１/卫兵１,レオナ様……？<br>陛下への謁見でしたら、<br>いまは……,蕾欧娜大人…… ？ 如果是谒见陛下的话，现在还……
+73,衛兵１/卫兵１,がはっ……！？,啊哈…… ! ？
+74,衛兵２/卫兵２,なっ！？<br>レオナ様！？　乱心でもなされ……,什么！ ? 蕾欧娜大人 ！？ 请不要让我为难……
+76,衛兵２/卫兵２,ぐあっ……,咕啊……
+78,,<span class='scene-font-katari'>衛兵達の悲鳴を響かせ、</span><br><span class='scene-font-katari'>玉座の間の扉を開け放ったのは、</span><br><span class='scene-font-katari'>正気を失った様子のレオナだった。</span>,伴随着卫兵们的悲鸣，蕾欧娜推开了王座之间的大门。她的样子看起来已经失去了理智。
+79,レオナ/蕾欧娜,陛下……<br>私はアベルの仇を<br>討たなくてはなりません。,陛下…… 我必须为亚伯报仇才行。
+80,フォリア/芙莉亚,うむ……止めはせぬ。<br>お主の気の済むようにせよ、と<br>妾は申したはずじゃ。,嗯…… 我不会阻止你的。 我告诉过你，直到你满意为止。
+81,フォリア/芙莉亚,しかし、妾にも、<br>予め決めていたことがあってな。,但是，我也有相当程度的决意。
+82,ハクタク/白泽,…………,…………
+83,フォリア/芙莉亚,妾を討つ者が現れた時、<br>妾は逃げも隠れもせぬ。,当讨伐妾身之人出现时，我既不会逃也不会躲。
+84,フォリア/芙莉亚,しかし、<br>抵抗せず討たれる気もありはせぬ。,但是，我也没有就这么被击败的意思。
+85,フォリア/芙莉亚,妾はお主の討つべき仇として、<br>全身全霊で相手をしようぞ！,作为你即将复仇的对手，我会认真地作为你的对手！
+86,,<span class='scene-font-katari'>フォリアの言葉に、</span><br><span class='scene-font-katari'>レオナは黒い炎を瞳に躍らせ、</span><br><span class='scene-font-katari'>己の得物を構える。</span>,听到芙莉亚的话后，黑色的火炎出现在了蕾欧娜的眼中，然后她拔出了自己的武器。
+87,レオナ/蕾欧娜,お覚悟を、陛下……,请做好觉悟吧，陛下……
+88,レオナ/蕾欧娜,アベルの仇……,为了亚伯的仇……
+89,レオナ/蕾欧娜,<span class='scene-font-4'>お前のその首、</span><br><span class='scene-font-4'>もらい受けるッ！！</span>,你的项上人头，我就不客气了! ！
+90,,<span class='scene-font-katari'>お互いに譲れぬもののため、</span><br><span class='scene-font-katari'>避け得ぬ死闘が幕を開ける。</span>,因为谁都无法做出让步，这场无法避免的死斗终于拉开了帷幕。
+91,,<span class='scene-font-katari'>しかし、その譲れぬ思いすら全て、</span><br><span class='scene-font-katari'>悪しき野望の礎でしかないのだった。</span>,然而，造成这一切的，只不过是某个邪恶的野心家实现愿望的第一步。
+info,,,scene_cp99_q4_s10
