@@ -1,0 +1,142 @@
+id,name,text,trans
+0-chapter_name,,舞い踊る千年の華,翩然的千年流光
+0-synopsis,,魔物退治のために遺跡へ訪れた姬塔一行は、巨大な扇を持つソシエと出会う。容易く魔物を倒したソシエは、自らが千年前に失われた王家の血を継ぐ者と語り、一行に王家の情報について尋ねてくる。一行の答えを聞いて残念そうにするソシエだが、姬塔一行はソシエに協力すると告げる。はにかみつつもソシエは承諾し、一行の仲間に加わるのだった。,来到遗迹退职魔物的姬塔一行，与持巨大扇子的苏丝雅相遇。简单地将魔物打倒的苏丝雅，说自己是千年前落没的王族后裔，开始向一行人探寻是否有王族的情报。听了一行人的回答后失望的苏丝雅，得到了姬塔一行的协助，对此害羞的苏丝雅答应了，于是成为了一行的伙伴。
+0,,<span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>炎を纏う魔物の退治依頼を受け、</span><br><span class='scene-font-katari'>とある遺跡を訪れる。</span>,<span class='scene-font-katari'>姬塔一行，</span><br><span class='scene-font-katari'>接受了消灭炎魔的任务，</span><br><span class='scene-font-katari'>来到某座遗迹。</span>
+1,,<span class='scene-font-katari'>一行は遺跡を探索した結果、</span><br><span class='scene-font-katari'>巨大な魔物を発見したのだった。</span>,<span class='scene-font-katari'>一行人探寻遗迹的结果，</span><br><span class='scene-font-katari'>以巨大魔物告终。</span>
+2,魔物,<span class='scene-font-5'>グオオォォッ！！</span>,<span class='scene-font-5'>咕嗷嗷嗷嗷嗷！！</span>
+3,ビィ/碧,うわぁ……<br>すげぇ強そうだな、あいつ……,呜哇……<br>也太强了，那家伙……
+4,ビィ/碧,骨が折れそうだけど<br>やるしかねぇ！<br>姬塔！　いくぜぇ！,虽然骨头都快断了<br>但是只能上了！<br>姬塔！　准备好！
+5,ルリア/露莉亚,ま、待ってください！！<br>魔物の後ろに女の人が！,等，等一下！！<br>魔物的后面有个女人！
+6,？？？,<span class='scene-font-1'>…………</span>,<span class='scene-font-1'>…………</span>
+7,ビィ/碧,なっ！？<br>あの姉ちゃん一人でなにしてんだ！？<br>くそっ、助けに――,什么！？<br>那个姐姐一个人干嘛呢！？<br>可恶，得去――
+8,？？？,君の火は、あの方には及ばない。,你的火焰，还远远比不上那位。
+10,,<span class='scene-font-katari'>エルーンの少女がそう呟くと、</span><br><span class='scene-font-katari'>彼女の両手に握られた</span><br><span class='scene-font-katari'>巨大な扇が輝き始める。</span>,<span class='scene-font-katari'>兽耳组的少女如此低语着</span><br><span class='scene-font-katari'>她手中握着的</span><br><span class='scene-font-katari'>巨大的扇子开始闪烁。</span>
+11,,<span class='scene-font-katari'>少女がその場で華麗に舞い、</span><br><span class='scene-font-katari'>緋色の扇を振った瞬間、</span><br><span class='scene-font-katari'>魔物が崩れ落ちた。</span>,<span class='scene-font-katari'>少女跳起华丽的舞蹈，</span><br><span class='scene-font-katari'>在那绯红的扇子挥动的瞬间，</span><br><span class='scene-font-katari'>魔物就倒下了。</span>
+14,ビィ/碧,な、なにがおきたんだ？<br>あの姉ちゃんが踊ったら、<br>魔物が倒れちまったぞ！,发，发生了什么？<br>那个姐姐一跳舞，<br>魔物就倒下了！
+15,？？？,……！,……！
+16,ビィ/碧,スゲェじゃねーか！<br>魔法でも使ったのか？<br>ハリセンの姉ちゃん！,好厉害啊！<br>是使用了魔法吗？<br>折扇姐姐！
+17,？？？,……！？,……！？
+18,ルリア/露莉亚,え、えーっと……,额，嗯……
+19,？？？,<span class='scene-font-1'>…………</span>,<span class='scene-font-1'>…………</span>
+20,？？？,<span class='scene-font-1'>………</span>,<span class='scene-font-1'>………</span>
+21,？？？,<span class='scene-font-1'>……</span>,<span class='scene-font-1'>……</span>
+22,？？？,<span class='scene-font-1'>…</span>,<span class='scene-font-1'>…</span>
+23,ビィ/碧,うう……ハリセンの姉ちゃん、<br>こっち見て何にも言わねぇぞ……,唔唔……折扇姐姐，<br>看着这边一句话也不说啊……
+24,ルリア/露莉亚,あ、あんな綺麗な人に<br>見つめられると<br>なんだか緊張しちゃいますね……,被那么漂亮的人<br>盯着看的话<br>总觉得很紧张啊……
+25,？？？,え、<span class='scene-font-1'>あっ……</span><br><span class='scene-font-1'>…………あ、あの。</span>,え、<span class='scene-font-1'>啊……</span><br><span class='scene-font-1'>…………请，请问。</span>
+26,ビィ/碧,あ、あ～……<br>どうしたぁ？　モゴモゴして……,啊，啊～……<br>怎么了？　嘟嘟囔囔的……
+27,ルリア/露莉亚,ビィさん！<br>このお姉さん、私達に何か<br>言いたいみたいですよ？,碧さん！<br>那个姐姐，好像<br>有什么想对我们说的哦？
+28,？？？,<span class='scene-font-5'>！</span>,<span class='scene-font-5'>！</span>
+30,,<span class='scene-font-katari'>ルリアの言葉にエルーンの女性は</span><br><span class='scene-font-katari'>嬉しそうに尻尾を振って</span><br><span class='scene-font-katari'>何度も何度も頷いた。</span>,<span class='scene-font-katari'>听了露莉亚的话那名兽耳族女性</span><br><span class='scene-font-katari'>欢喜地摇着尾巴</span><br><span class='scene-font-katari'>不断地点着头。</span>
+31,,<span class='scene-font-katari'>女性はソシエと名乗り、</span><br><span class='scene-font-katari'>人見知りなため、照れてしまい言葉に</span><br><span class='scene-font-katari'>詰まってしまっていただけだという。</span>,<span class='scene-font-katari'>女性名叫苏丝雅，</span><br><span class='scene-font-katari'>因为见了生人，所以害羞</span><br><span class='scene-font-katari'>说话结巴而已。</span>
+33,ビィ/碧,ぎゃははっ！<br>まさか照れてただけだったなんてな！,哈哈哈！<br>没想到只是因为害羞啊！
+34,ソシエ/苏丝雅,知らない人だと、照れちゃって……<br>その、ごめんね。,因为是没见过的人，所以会害羞……<br>对不起。
+35,ビィ/碧,気にすんなよ！<br>オイラ達も気づけなかったからなぁ。,别在意！<br>也没有什么的。
+36,ルリア/露莉亚,ソシエさんも、<br>魔物退治の依頼を<br>受けられていたんですか？,苏丝雅さん也是，<br>接收了消灭魔物的委托<br>才来的吗？
+37,ソシエ/苏丝雅,ううん。<br>違う。,(摇头)。<br>不是。
+38,ソシエ/苏丝雅,炎を発する魔物がいるって聞いたから、<br>私が探しているお方だと思って。,我听闻有放火的魔物在，<br>以为是我在找的那位。
+39,ソシエ/苏丝雅,でも、来てみたら違って。<br>がっかりしてたら襲ってきて。<br>それで……,但是，来看却发现不是。<br>失望之余就袭击了它。<br>所以……
+40,ビィ/碧,簡単に言っちゃいるが<br>そんな軽いノリで倒せるような<br>奴じゃねぇだろ……,说的轻松<br>但是你看着也不像<br>是能简单的打倒它的家伙啊……
+41,ビィ/碧,ん？　つーか……<br>ハリセンの姉ちゃんは<br>誰かを探してんのか？,嗯？　说起来……<br>折扇姐姐你<br>是在找谁啊？
+42,ソシエ/苏丝雅,え、えとね……,嗯……
+43,ソシエ/苏丝雅,これ、ハリセンちゃうし……,这个，不是折扇……
+44,ビィ/碧,え！　あ、あぁ……<br>そりゃすまねぇ……,诶！　啊，啊啊……<br>抱歉啊……
+45,ルリア/露莉亚,えぇと……<br>ハリセンじゃなくて、扇ですよね。<br>綺麗な模様ですよね～,诶诶……<br>不是折扇，而是正经的扇子吧。<br>很漂亮～
+46,ソシエ/苏丝雅,えへへ……,えへへ……
+47,ソシエ/苏丝雅,あ、えと……九つの……<br>……ううん、意思を持った炎。<br>聞いたこと無い？,啊，请问……九个……<br>……唔唔，有意识的火焰。<br>听说过吗？
+48,ビィ/碧,唐突に話を戻したな！<br>意思を持った炎かぁ……<br>ルリア、聞いたことあるか？,突然就说回来了！<br>有意识的火焰啊……<br>露莉亚，听说过吗？
+49,ルリア/露莉亚,うーん。<br>聞いたことないですね……<br>ごめんなさい。,嗯。<br>没听说过啊……<br>抱歉。
+50,ソシエ/苏丝雅,そう……<br>いいの、ありがとう。,这样啊……<br>没关系，谢谢。
+51,ビィ/碧,それにしても、なんで<br>そんなもの探してるんだ？,说起来，为什么<br>要找那样的东西呢？
+52,ソシエ/苏丝雅,……ごめんね。<br>無関係の君達をまきこめない。<br>だから、話せない。,……对不起。<br>不能将你们卷进来。<br>所以，我不能说。
+53,ルリア/露莉亚,おせっかいかもしれませんけど、<br>何か、もっとヒントがあれば<br>力になれるかもしれません！,也许是我多管闲事，<br>但是，有什么线索的话，<br>也许我们也能帮上忙！
+54,ビィ/碧,そうだな！<br>オイラ達は空を旅してまわってるから、<br>なんか聞いてるかもしんねぇな！,就是啊！<br>我们在全空旅行<br>也许有听说过什么呢！
+55,ビィ/碧,協力できることだったら、<br>力になるぜ！<br>なぁ、姬塔！,我们能帮的话<br>就会帮你的！<br>你说呢，姬塔！
+56,ソシエ/苏丝雅,でも、話してしまったら<br>君達、悪い人に狙われるかも……<br>それでも……？,但是，如果告诉<br>你们的话，你们会被人盯上……<br>即使这样……？
+56-sel1_txt,,<span class='scene-font-katari'>構わない</span>,<span class='scene-font-katari'>没事的</span>
+56-sel2_txt,,<span class='scene-font-katari'>じゃあ、いいです</span>,<span class='scene-font-katari'>那，还是算了</span>
+57,ソシエ/苏丝雅,そうなんだ。<br>……君、強いんだ。,这样啊。<br>……你，很厉害啊。
+58,ビィ/碧,へへっ！　そうだな！<br>それに、そんなの今更だぜ！,嘿嘿！　是啊！<br>而且，现在更是！
+59,ビィ/碧,オイラ達は、帝国をはじめとして<br>色んなヤツらと<br>やりあってきたからな！,我们，从帝国开始<br>和各种各样的家伙<br>战斗过来了嘛！
+60,ルリア/露莉亚,あ、あはは……<br>そうですね。,啊，啊哈哈……<br>是啊。
+62,ルリア/露莉亚,でも、姬塔が<br>守ってくれたから、<br>私達は無事なんです。,但是，有姬塔<br>保护，<br>我们都没事。
+63,ソシエ/苏丝雅,じゃあ、いいよ。<br>それに、<span class='scene-font-1'>その……き、君達、</span><br><span class='scene-font-1'>悪い人には、見えないから……</span>,那么，好吧。<br>而且，<span class='scene-font-1'>唔……你，你们，</span><br><span class='scene-font-1'>看起来不像是，坏人……</span>
+64,ソシエ/苏丝雅,そう……だよね。<br>うん、わかった。,是……啊。<br>嗯，我懂了。
+65,ビィ/碧,お、おいおい！<br>いつもの冗談だよなぁ？<br>姬塔！,诶，诶诶！<br>这是玩笑吧？<br>姬塔！
+66,ソシエ/苏丝雅,<span class='scene-font-1'>え……</span>え？<br>冗談？,<span class='scene-font-1'>诶……</span>诶？<br>玩笑？
+67,ビィ/碧,オイラ達なら<br>どんなことが起きたって<br>へっちゃらだろ？,我们<br>不管遇到什么事情<br>都不会气馁的。
+68,,<span class='scene-font-katari'>ビィの言葉に、</span><br><span class='scene-font-katari'>姬塔は頷いた。</span>,<span class='scene-font-katari'>随着碧的话，</span><br><span class='scene-font-katari'>姬塔点了点头。</span>
+69,ビィ/碧,まったくよー<br>扇の姉ちゃんが綺麗だからって、<br>あんまり困らせんなよなー,真是的ー<br>虽然说扇子姐姐很漂亮，<br>也不能这么捉弄她啊ー
+70,ソシエ/苏丝雅,<span class='scene-font-1'>も、</span>もう……<br>あんた、いけずやわ……,<span class='scene-font-1'>真，</span>真是……<br>你，心眼太坏了……
+71,ソシエ/苏丝雅,じゃあ、いいよ。<br>それに、<span class='scene-font-1'>その……き、君達、</span><br><span class='scene-font-1'>悪い人には、見えないから……</span>,那，好吧。<br>而且，<span class='scene-font-1'>唔……你，你们</span><br><span class='scene-font-1'>看起来，也不像坏人……</span>
+73,,<span class='scene-font-katari'>ソシエは一行に向き合い、</span><br><span class='scene-font-katari'>落ち着いた様子で語り出す。</span>,<span class='scene-font-katari'>苏丝雅面向一行人，</span><br><span class='scene-font-katari'>慢慢地说了起来。</span>
+74,,<span class='scene-font-katari'>千年前、とある国の九つの王家は</span><br><span class='scene-font-katari'>意思を持つ炎を崇めて奉り、</span><br><span class='scene-font-katari'>その力を使って国を守っていた。</span>,<span class='scene-font-katari'>千年前，某个国家的九个王族，</span><br><span class='scene-font-katari'>供奉着拥有意识的火焰，</span><br><span class='scene-font-katari'>使用这股力量守护国家。</span>
+75,,<span class='scene-font-katari'>しかし、ある日、炎の力が暴走。</span><br><span class='scene-font-katari'>そのまま姿を消し、</span><br><span class='scene-font-katari'>行方を眩ませてしまう。</span>,<span class='scene-font-katari'>但是，某一天，火焰的力量失控。</span><br><span class='scene-font-katari'>就这样消失了，</span><br><span class='scene-font-katari'>不知去向。</span>
+76,,<span class='scene-font-katari'>さらに炎の力が宿した九つの神器の内、</span><br><span class='scene-font-katari'>八つの神器も失われてしまったらしく、</span><br><span class='scene-font-katari'>ソシエはそれらを探しているという。</span>,<span class='scene-font-katari'>并且寄宿着火焰力量的九个神器里，</span><br><span class='scene-font-katari'>有八个都不知所踪，</span><br><span class='scene-font-katari'>苏丝雅就是在找那八个神器。</span>
+78,ビィ/碧,へぇ～、じゃあアンタは<br>その炎とやらと八つの神器を<br>今まで一人で探してたってのか？,哦～、那你<br>迄今为止都是一个人<br>在找那八个神器或者火吗？
+79,ソシエ/苏丝雅,えっと……<br>実は探しているのは<br>これだけじゃなくて。,嗯……<br>其实我在找的<br>不止这些。
+80,ソシエ/苏丝雅,あの方に捧げる七つの演舞と<br>その継承者……,为那位奉上的七演舞的<br>继承者……
+81,ソシエ/苏丝雅,それと、<span class='scene-font-1'>友達、とか……</span><br><span class='scene-font-1'>あと、いろいろ……</span>,还有，<span class='scene-font-1'>朋友……</span><br><span class='scene-font-1'>还有，很多很多……</span>
+82,ビィ/碧,マジかよぉ。<br>そりゃ大変そうだなぁ。,真的假的。<br>那太不容易了。
+83,ルリア/露莉亚,そんなに多くのものを<br>どうして一人で<br>探しているんですか？,那么多的东西，<br>为什么在一个人，<br>寻找呢？
+84,ソシエ/苏丝雅,え、<span class='scene-font-1'>と、その……</span><br>……見てて。,诶，<span class='scene-font-1'>唔……</span><br>……你看。
+85,ソシエ/苏丝雅,……壱之舞。,……一之舞。
+87,,<span class='scene-font-katari'>ソシエがそう呟くと、</span><br><span class='scene-font-katari'>扇が輝き始める。</span>,<span class='scene-font-katari'>苏丝雅这么低语着，</span><br><span class='scene-font-katari'>扇子开始闪烁。</span>
+89,ソシエ/苏丝雅,これは、私の家系が奉るお方の力。<br>私はあの方の力を引き継いでいる。,这是，我的家族侍奉的大人的力量。<br>我继承了那位大人的力量。
+90,ルリア/露莉亚,な、なんだかすごいです！<br>すごいし綺麗です！,好，好厉害！<br>又厉害又漂亮！
+91,ソシエ/苏丝雅,私はあの方と一緒に国を守った、<br>失われた王家の末裔。,我是和那位大人一起守护国家的，<br>失落的王族后裔。
+92,ソシエ/苏丝雅,王家の血を継ぐ私は……<br>全てのことを、<br>解き明かさなきゃいけない。,继承了王族血脉的我……<br>必须将所有的事情<br>一一查明才行。
+93,ソシエ/苏丝雅,きっと、<br>これが私に課せられた使命だから。,这，<br>是赋予我的使命。
+94,ビィ/碧,なんだか……<br>カッケェじゃねぇか！<br>ロマンがあるっていうかよぉ！,总觉得……<br>这很酷啊！<br>感觉很浪漫！
+95,ソシエ/苏丝雅,<span class='scene-font-1'>そ、</span>そうかな……？,<span class='scene-font-1'>是，</span>是这样吗……？
+96,ルリア/露莉亚,はい！<br>そんなに大きな使命を背負って、<br>一人で旅してるだなんてすごいです！,嗯！<br>背负着这样大的使命<br>一个人旅行是一件很厉害的事情！
+97,ソシエ/苏丝雅,え、えと……<br>ほ、ほんとはね。<br>友達と一緒に探そうと思ったんだけど。,诶，唔……<br>其实。<br>我是想和朋友一起旅行的。
+98,ソシエ/苏丝雅,色々あって……<br>その、置いてかれちゃって。,因为很多事情……<br>就，搁置了。
+99,ルリア/露莉亚,そ、そうなんですね……<br>大変でしたね……,原来是这样吗……<br>很辛苦吧……
+100,ビィ/碧,でもよぉ。<br>そんなに多くの物を一人でだなんて……<br>何かみつかったのか？,但是。<br>一个人找这么多……<br>有找到什么吗？
+101,ソシエ/苏丝雅,……ううん。<br>なにも見つかってない。,……没有。<br>什么都没有找到。
+102,ソシエ/苏丝雅,そ、<span class='scene-font-1'>それどころか……</span><br><span class='scene-font-1'>手がかりはまったくないし……</span>,そ、<span class='scene-font-1'>而且……</span><br><span class='scene-font-1'>一点线索也没有……</span>
+103,ソシエ/苏丝雅,<span class='scene-font-1'>情報集めようとしても……</span><br><span class='scene-font-1'>知らない人に、うまく話しかけられなくて。</span>,<span class='scene-font-1'>即使想要收集情报……</span><br><span class='scene-font-1'>也没有办法，和不认识的人好好说话。</span>
+104,ビィ/碧,ああ……,啊啊……
+105,ソシエ/苏丝雅,それで、ようやく……<br>手がかりをつかんだと思って<br>ここに来たけど……,然后，终于……<br>也许找到线索了<br>我才来到这里……
+106,ルリア/露莉亚,それも、<br>的外れだったんですね……,这个也，<br>不是要找的……
+107,ソシエ/苏丝雅,うん……,嗯……
+108,ソシエ/苏丝雅,今の話を聞いて……<br>何か思い当たることあった？,听了刚刚的事情……<br>你们有什么头绪吗？
+109,ルリア/露莉亚,うう……ごめんなさい。<br>何も思い当たりませんでした……,没有……对不起。<br>我什么头绪都没有……
+110,ビィ/碧,オイラもだぜ……<br>すまねぇな。,我也是……<br>抱歉啊。
+111,ソシエ/苏丝雅,ううん…… いいの。,没关系…… 别在意。
+112,ソシエ/苏丝雅,君達はなんだか……<br>話しやすいね。<br>聞いてくれただけで……嬉しい。,你们……<br>很好说话啊。<br>能听我说一说……我就很开心了。
+113,ソシエ/苏丝雅,え、<span class='scene-font-1'>えと、それで……</span><br><span class='scene-font-1'>なんだけど……</span>,え、<span class='scene-font-1'>嗯，还有……</span><br><span class='scene-font-1'>一件事……</span>
+114,ソシエ/苏丝雅,<span class='scene-font-1'>あのぅ……そのね……</span>,<span class='scene-font-1'>唔……唔……</span>
+114-sel1_txt,,<span class='scene-font-katari'>一緒に探そう</span>,<span class='scene-font-katari'>一起找吧</span>
+114-sel2_txt,,<span class='scene-font-katari'>ハッキリ喋れ</span>,<span class='scene-font-katari'>痛快的说出来</span>
+115,ビィ/碧,そうだな！<br>一緒に旅してれば、情報も神器も、<br>探しやすいかもしれねぇしな！,是啊！<br>一起旅行的话，神器也好情报也好，<br>找起来都会很方便！
+116,ソシエ/苏丝雅,あ、あんな……<br>ほ、ほんまにええのん……？,你，你……<br>真的可以吗……？
+117,ルリア/露莉亚,はい！　<br>もちろんです！,嗯！　<br>当然！
+118,ソシエ/苏丝雅,うぅ…………,唔唔…………
+119,ルリア/露莉亚,…………,…………
+120,ビィ/碧,…………,…………
+121,ソシエ/苏丝雅,うぅぅ！<br>……あ、あのっ！！,唔唔唔！<br>……请，请问！！
+122,ルリア/露莉亚,は、はい！！,嗯，嗯！！
+123,ソシエ/苏丝雅,君達、話しやすくて……<br>久しぶりに話せて……<br>親身に、なってくれて……,你们，很好说话……<br>好久没有说过了……<br>能够亲近地，相互交谈……
+124,ソシエ/苏丝雅,こんな機会、私もう、<br>ないかもしれないし……<br>だから、あの、よかったら……,这样的机会，对于我、<br>也许不会再有了……<br>所以，如果，可以的话……
+125,ビィ/碧,もしかして……<br>協力してほしいのか……？,难道说……<br>想让我们帮你吗……？
+126,ソシエ/苏丝雅,ッ！！<br>う、うん……,！！<br>嗯，嗯……
+127,ソシエ/苏丝雅,友達が見つかるまででいいから……,在我找到朋友之前就好……
+128,ビィ/碧,なぁんだ！<br>そんなことか！<br>それなら一緒に行こうぜ！,什么啊！<br>原来是这件事！<br>那就一起来吧！
+129,ソシエ/苏丝雅,え、えっ……<br>一緒に……？,诶，诶……<br>一起……？
+130,ルリア/露莉亚,はい！<br>一緒に探せば、<br>情報も神器も探しやすいですし！,嗯！<br>一起找的话，<br>找情报和神器都会快！
+131,ルリア/露莉亚,それにさっきソシエさん。<br>この話を聞いたら悪い人に狙われるかも、<br>って言ってましたよね？,而且刚刚苏丝雅さん。<br>听了这话的人会被坏人盯上，<br>你是这么说的吧？
+132,ルリア/露莉亚,ということは、<br>ソシエさんも狙われているんですよね？<br>悪い人に……,也就是说，<br>苏丝雅さん也被坏人盯上了吧……
+133,ソシエ/苏丝雅,うん……,嗯……
+134,ルリア/露莉亚,それなら、なおさら一緒に行きましょう！<br>一緒なら、悪い人に狙われても、<br>きっと安心だと思います。,那样的话，就更需要一起了！<br>一起的话，即使被坏人盯上，<br>也不会害怕了。
+135,ソシエ/苏丝雅,協力はしてほしかってんけど……<br>旅にまで、誘ってくれはるやなんて……,我是想让你们帮帮我……<br>但是没想到，你们还会邀请我一起旅行……
+136,ビィ/碧,一人で全部探すのは大変だろ？<br>一緒に探そうぜ！,一个人去找所有的东西很累吧？<br>那就一起吧！
+137,ビィ/碧,けど、オイラ達も<br>目指してる所があるから、<br>ついでになっちまうけど……,但是，我们也<br>有要去的地方，<br>也许会把你带走……
+138,ルリア/露莉亚,でも、ソシエさんの知りたいことが<br>なにか解ったら、必ず協力します！,但是，只要苏丝雅さん在找的东西<br>有眉目的话，我们一定会帮你的！
+139,ソシエ/苏丝雅,あぅ……<br>こ、こない親切にされたん……<br>お父はんとお母はんとあの娘以来や……,啊……<br>被这么亲切的对待……<br>从父亲母亲和那个女孩以后就没有了……
+140,ソシエ/苏丝雅,えと、その、<br>じゃあ……,唔，那么<br>就……
+141,ソシエ/苏丝雅,よ、よろしゅう、<br>お頼申します……,请，请多<br>指教……
+142,,<span class='scene-font-katari'>頬を赤く染めて</span><br><span class='scene-font-katari'>耳と尻尾を動かしながら、</span><br><span class='scene-font-katari'>ソシエは一行にお辞儀をする。</span>,<span class='scene-font-katari'>顶着红扑扑的脸庞</span><br><span class='scene-font-katari'>耳朵与尾巴不断摇摆，</span><br><span class='scene-font-katari'>苏丝雅向一行人行了礼。</span>
+143,,<span class='scene-font-katari'>こうして一行は、</span><br><span class='scene-font-katari'>王家の血を継ぐ照れ屋のソシエを、</span><br><span class='scene-font-katari'>仲間に加えるのだった。</span>,<span class='scene-font-katari'>就这样一行人，</span><br><span class='scene-font-katari'>将继承了王族血脉的害羞的</span><br><span class='scene-font-katari'>苏丝雅加入伙伴。</span>
+info,麻友桑的话筒,,scene_fate_chr138_ep1
