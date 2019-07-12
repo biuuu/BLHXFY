@@ -9,11 +9,9 @@
 因此在使用之前请自行判断使用汉化插件会不会有风险，如果觉得有则不要使用。
 
 ## 简介
-使用：https://github.com/biuuu/BLHXFY/blob/master/src/README.md
+安装插件：[说明](https://github.com/biuuu/BLHXFY/blob/master/src/README.md)
 
-加入翻译：https://github.com/BLHXFY-Group/BLHXFY/tree/master/data
-
-代码和翻译数据都部署在 github pages 上，使用了 cloudflare 的 CDN。
+提交翻译：[说明](https://github.com/BLHXFY-Group/BLHXFY/tree/master/data)
 
 ## Devlopment
 
