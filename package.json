@@ -15,7 +15,7 @@
   "dependencies": {
     "dompurify": "^1.0.10",
     "events": "^3.0.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "papaparse": "^4.3.7",
     "urijs": "^1.19.0",
     "url-search-params": "^1.1.0"
