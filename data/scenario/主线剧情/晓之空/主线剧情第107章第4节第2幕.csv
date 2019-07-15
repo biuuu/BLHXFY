@@ -1,0 +1,38 @@
+id,name,text,trans
+0-chapter_name,,第107章　変貌する闇,第107章 变貌的黑暗
+0-synopsis,,狂乱状態のギルベルトは、苦しみながらもフォリアを抱えて走り去ってしまう。一方、バラゴナはハルを助けに牢獄に向うも、牢獄には誰もいなかった。残された痕跡から白騎士と真王の存在を推測したバラゴナは、次に向かうべきは<span class='scene-font-place'>シュテルケ島</span>であることを導き出す。こうして最後の舞台に役者が揃いつつあるのだった。,处于狂乱状态的吉尔伯特痛苦地抱着芙莉雅跑开了。 另一方面，巴拉戈纳前往监狱去救哈尔，但监狱里已经空无一人。 根据遗留下来的痕迹，绯红其实推断出了白骑士和真王的存在，巴拉戈纳认为他们的下一个目的地应该是斯特尔克岛。 就这样，演员们终于最后的舞台上聚集。
+24,ギルベルト,<span class='scene-font-4'>あああああぁッ！</span><br><span class='scene-font-4'>くそっ！　くそっ！</span>,啊啊啊啊啊！ 真是的！ 真是的！
+25,ギルベルト,があっ……く……<br>頭が……割れ、る……！！,啊啊…… 咕…… 头…… 要裂、裂…… ! ！
+26,カイン/该隐,はぁ……はぁ……<br>ど、どうなってんだ……？,哈啊…… 哈啊…… 怎、怎么回事…… ？
+27,ドランク/德朗克,詳しいことはわからないけど、<br>なーんか大変な感じみたいだねぇ……,虽然不知道发生了什么，但总觉得他很痛苦的样子。
+28,,<span class='scene-font-katari'>姬塔達を退けたにも関わらず、</span><br><span class='scene-font-katari'>ギルベルトは狂乱状態のまま、</span><br><span class='scene-font-katari'>ひとり苦しんでいた。</span>,虽然击退了姬塔一行，但吉尔伯特仍处于狂乱状态，独自承受着痛苦。
+29,ギルベルト,力が……力が必要なんだ。<br>もっと……もっと！！,力量…… 是需要力量的。 更多…… 更多! ！
+32,カイン/该隐,っ！！　待てっ！,! ！ 等等！
+37,,<span class='scene-font-katari'>ギルベルトは</span><br><span class='scene-font-katari'>預けていた兵士からフォリアを奪うと、</span><br><span class='scene-font-katari'>驚異的な速度で駆けていく。</span>,吉尔伯特突然从士兵的手中夺走了芙莉雅，以惊人的速度飞奔而去。
+38,,<span class='scene-font-katari'>その獣のごとき敏捷さと狂気に、</span><br><span class='scene-font-katari'>傷ついた一行はただ茫然と、</span><br><span class='scene-font-katari'>ギルベルトを見送るしかないのだった。</span>,他就像是野兽一般，敏捷且充满狂气。受伤的一行人只能茫然地目送吉尔伯特离去。
+42,,<span class='scene-font-katari'>姬塔達とギルベルトが</span><br><span class='scene-font-katari'>死闘を繰り広げていた場所から</span><br><span class='scene-font-katari'>少し離れた位置。</span>,这里距离姬塔和吉尔伯特展开死斗的场所，有一定距离的地方。
+43,,<span class='scene-font-katari'>囚われる者の居なくなった牢獄には、</span><br><span class='scene-font-katari'>呆然と佇む、</span><br><span class='scene-font-katari'>ひとりの騎士の姿があった。</span>,在空无一人的监狱之中，站着一名愣住的骑士。
+44,緋色の騎士,<span class='scene-font-kokoro'>（――馬鹿な）</span>,（——不可能）
+45,,<span class='scene-font-katari'>彼は諦めきれぬように牢を見回すが、</span><br><span class='scene-font-katari'>そこに望んだ人影はなく、</span><br><span class='scene-font-katari'>ただ冷たい空間だけが広がっている。</span>,像是无法认同这一切似的，他环视着牢房。可不论他怎么看，这里都只是个空无一人的冰冷空间。
+46,緋色の騎士,<span class='scene-font-kokoro'>（何故、ハルヴァーダがいない……</span><br><span class='scene-font-kokoro'>あの子はどこへ行った？）</span>,(为什么哈尔瓦达不在…… 那孩子去哪儿了?)
+47,緋色の騎士,<span class='scene-font-kokoro'>（黄金の騎士が敗北したことで、</span><br><span class='scene-font-kokoro'>ギルベルトの目的は</span><br><span class='scene-font-kokoro'>グレートウォールに移ったはず……）</span>,(随着黄金骑士的败北，吉尔伯特的目的应该已经转移到长城才是……)
+48,緋色の騎士,<span class='scene-font-kokoro'>（ならばもう、ギルベルトにとって、</span><br><span class='scene-font-kokoro'>ハルヴァーダの利用価値はない……）</span>,(那么对吉尔伯特来说，哈尔瓦达已经没有利用价值了……)
+49,緋色の騎士,<span class='scene-font-kokoro'>（イデルバの彼らが保護したのか？</span><br><span class='scene-font-kokoro'>それなら問題は無いが……）</span>,(被伊德尔瓦来的家伙保护了吗？那倒是没什么问题……)
+50,,<span class='scene-font-katari'>バラゴナは</span><br><span class='scene-font-katari'>牢に残る鎖の残骸を見つけ、</span><br><span class='scene-font-katari'>拾い上げる。</span>,巴拉戈那把留在牢房里的锁链残骸捡起来，仔细地看着。
+52,,<span class='scene-font-katari'>鋭く断ち切られたその断面から、</span><br><span class='scene-font-katari'>バラゴナは一つの手がかりを見つける。</span>,从被切断的断面上，巴拉戈纳发现了一条线索。
+53,緋色の騎士,<span class='scene-font-kokoro'>（この鎖の断面……</span><br><span class='scene-font-kokoro'>相当な手練れによるものだ）</span>,(这条锁链的断面……是相当厉害的人造成的。)
+54,緋色の騎士,<span class='scene-font-kokoro'>（いや、ただの手練れではない……</span><br><span class='scene-font-kokoro'>私はこの太刀筋を知っている）</span>,(不，不仅是厉害而已……据我所知能够把太刀用得五次熟练的只有。)
+55,緋色の騎士,白騎士……<br>かの者が動いているというのか。,白骑士…… 那个人居然行动了么。
+56,,<span class='scene-font-katari'>バラゴナは不安と後悔と共に、</span><br><span class='scene-font-katari'>鎖の欠片を握りしめる。</span>,巴拉戈那紧紧地抓着锁链残骸，脸上充满了不安于后悔。
+57,緋色の騎士,<span class='scene-font-kokoro'>（七曜の騎士の中でも、</span><br><span class='scene-font-kokoro'>清廉潔白、白の座を戴く白騎士は、</span><br><span class='scene-font-kokoro'>真王の側近として名高い）</span>,(在七曜骑士之中，位于清廉洁白的白之骑士，才是真王真正的亲信。)
+58,緋色の騎士,<span class='scene-font-kokoro'>（その白騎士が</span><br><span class='scene-font-kokoro'>独立行動をするとは思えない）</span>,(我不认为那个白骑士会独自行动。)
+59,緋色の騎士,<span class='scene-font-kokoro'>（つまり、ここに現れたのは、</span><br><span class='scene-font-kokoro'>真王の勅命か、</span><br><span class='scene-font-kokoro'>または真王本人を伴ってか……）</span>,(也就是说，他之所以会出现在这里，要么是由于真王的命令，要么是和真王在一起……)
+60,緋色の騎士,<span class='scene-font-kokoro'>（どちらにせよ、</span><br><span class='scene-font-kokoro'>恐れていた事態となってしまった）</span>,(不管怎样，事情都向我最害怕的方向发展了。)
+61,緋色の騎士,<span class='scene-font-kokoro'>（計画を気取られまいと、</span><br><span class='scene-font-kokoro'>ハルヴァーダと距離を置いたのが</span><br><span class='scene-font-kokoro'>いけなかったか……）</span>,(我是不是应该和哈尔瓦达保持距离，避免计划被发现呢……)
+62,,<span class='scene-font-katari'>どうすればハルを</span><br><span class='scene-font-katari'>助けることが出来るのか。</span>,我到底该怎么做，才能救下哈尔呢。
+63,,<span class='scene-font-katari'>それを考えた時、</span><br><span class='scene-font-katari'>答えを得るまでに</span><br><span class='scene-font-katari'>それほど時間を必要としなかった。</span>,思考这个问题的时候，我就知道距离得到答案并不会需要太久。
+64,緋色の騎士,<span class='scene-font-kokoro'>（真王の目的はたった一つ。</span><br><span class='scene-font-kokoro'>それは悲劇の始まりである</span><br><span class='scene-font-kokoro'>15年前から変わらない……）</span>,真王的目的只有一个。这就是这一连串悲剧的开端，15年来这一目的就从未改变过。
+65,緋色の騎士,ならば向かうべきは……<br><span class='scene-font-place'>シュテルケ島</span>か。,那么，该去的地方…… 是修特尔克岛么。
+66,,<span class='scene-font-katari'>決意を固めたバラゴナは、</span><br><span class='scene-font-katari'>踵を返し、すぐさま行動を開始する。</span>,下定决心的巴拉戈那立刻掉转头，开始了行动。
+70,,<span class='scene-font-katari'>こうして最後の舞台には、</span><br><span class='scene-font-katari'>着々と役者が揃いつつあるのだった。</span>,就这样，演员们终于聚集到了最后的舞台。
+info,,,scene_cp107_q4_s30
