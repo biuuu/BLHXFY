@@ -1,0 +1,13 @@
+id,name,text,trans
+0,ユグドラシル/尤格多拉希尔,────……！,————……！
+1,,<span class='scene-font-katari'>姬塔と目が合った途端、</span><br><span class='scene-font-katari'>恥ずかしそうに慌てて</span><br><span class='scene-font-katari'>背中に何かを隠すユグドラシル。</span>,<span class='scene-font-katari'>尤格多拉希尔刚和姬塔对上视线，</span><br><span class='scene-font-katari'>就有点害羞，慌慌张张地把某个东西藏到身后。</span>
+2,,<span class='scene-font-katari'>姬塔は甘い匂いに気付き、</span><br><span class='scene-font-katari'>隠したものを覗きこもうとすると、</span><br><span class='scene-font-katari'>彼女は観念したように手を差し出した。</span>,<span class='scene-font-katari'>姬塔闻到了甜甜的香味，正准备去看她到底藏了什么，</span><br><span class='scene-font-katari'>她就放弃挣扎直接递了过来。</span>
+3,ユグドラシル/尤格多拉希尔,────……,————……
+4,,<span class='scene-font-katari'>その手にあったのは、</span><br><span class='scene-font-katari'>形の崩れたチョコレート。</span>,<span class='scene-font-katari'>她手上拿着的是不成形状的巧克力。</span>
+5,,<span class='scene-font-katari'>どうやらチョコ作りに失敗してしまい、</span><br><span class='scene-font-katari'>姬塔に手渡すことを</span><br><span class='scene-font-katari'>躊躇っていたようだ。</span>,<span class='scene-font-katari'>看来是做巧克力失败了，</span><br><span class='scene-font-katari'>在犹豫要不要给姬塔。</span>
+6,,<span class='scene-font-katari'>彼女の気持ちを察した姬塔は、</span><br><span class='scene-font-katari'>喜んで彼女から</span><br><span class='scene-font-katari'>チョコレートを受け取った。</span>,<span class='scene-font-katari'>察觉到她的心意的姬塔很高兴的从她手上收下巧克力。</span>
+7,,<span class='scene-font-katari'>想像通り、少々苦味は強かったが、</span><br><span class='scene-font-katari'>一生懸命作ってくれたことが嬉しく、</span><br><span class='scene-font-katari'>思わず笑みがこぼれる姬塔。</span>,<span class='scene-font-katari'>虽然巧克力跟想象的一样有点苦，</span><br><span class='scene-font-katari'>但这是她努力做出来的东西，</span><br><span class='scene-font-katari'>不经意就开心地笑了出来。</span>
+8,ユグドラシル/尤格多拉希尔,────！,————！
+9,,<span class='scene-font-katari'>おそらく彼女に</span><br><span class='scene-font-katari'>真意は伝わっていないだろう。</span>,<span class='scene-font-katari'>姬塔的真正心意估计没有传到她那里吧。</span>
+10,,<span class='scene-font-katari'>それでも、彼女に再び笑顔が戻り、</span><br><span class='scene-font-katari'>姬塔は安心するのだった。</span>,<span class='scene-font-katari'>即使如此，看到她重新绽放笑容，姬塔也安下了心。</span>
+info,,,scene_s2_valentine_3082_v1_0_2002_2_3040125000_1

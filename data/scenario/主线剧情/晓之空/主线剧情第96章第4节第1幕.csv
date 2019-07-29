@@ -1,0 +1,57 @@
+id,name,text,trans
+0-chapter_name,,第96章　燻る火種,第96章　燃烧的火种
+0-synopsis,,オイゲンはアルテミシアとの日々に未練を抱きつつも、元の世界に戻るため、アルテミシアとの思い出の地を訪れる。オイゲンはそこでリヴァイアサンに会い、元の世界に戻る方法を問うが、手がかりは掴めなかった。すると再び黒騎士が現れ、黒騎士こそがその世界の鍵だとオイゲンに告げる。そしてオイゲンは、黒騎士から残酷な選択を突きつけられるのだった。,怀念着与阿尔提米希亚种种过去的欧根，为了回到原来的世界，他来到了和阿尔提米希亚共有的回忆之地。 欧根在那里遇到了利维坦，并且询问他如何回到原来的世界，却没有得到任何线索。 随后黑骑士又出现了，并且告诉他黑骑士才是回到那个世界的关键。 欧根面临着残酷的抉择。
+1,オイゲン/欧根,じゃあ……行ってくる。,那…… 我走了。
+2,アルテミシア,はい、いってらっしゃい。<br>今日の帰りは、<br>どのくらいになりそうなの？,好的，一路顺风。今天大概什么时候回来？
+3,オイゲン/欧根,あ、ああ……そうさな。<br>ちっと厄介な内容なんだ、<br>今日は遅くなるかもしれねぇ。,啊…… 是啊。 今天任务的内容稍微有些棘手，我可能要稍微晚些回来。
+4,オイゲン/欧根,すまねぇな……<br>家にひとりにしちまってよ。,对不起…… 把你一个人留在家里。
+5,アルテミシア,ふふ……ひとりじゃないってば。<br>だってこの子がいるもの。,哈哈，才不是一个人啦。 不是还有我们的宝宝吗。
+6,,<span class='scene-font-katari'>そう言うと、</span><br><span class='scene-font-katari'>アルテミシアは愛おしそうに、</span><br><span class='scene-font-katari'>膨らんだお腹を撫でる。</span>,这么说着，阿尔提米希亚怜爱地抚摸着自己的腹部。
+7,アルテミシア,アポロと一緒に待ってるわ。<br>夜道は魔物に気を付けてね。,我和阿波罗等你回来。 夜晚要小心魔物哦。
+8,オイゲン/欧根,アルテミシア……<br>オレは……,阿尔提米希亚…… 我……
+9,アルテミシア,……？,……？
+10,オイゲン/欧根,いや……何でもねぇ。<br>行ってくる。,不…… 没什么。 我走了。
+12,,<span class='scene-font-katari'>そう言い残したオイゲンは、</span><br><span class='scene-font-katari'>身重のアルテミシアを置いて、</span><br><span class='scene-font-katari'>家を出る。</span>,说完这句话后，欧根便抛下了怀有身孕的阿尔提米希亚，离开了家。
+16,オイゲン/欧根,<span class='scene-font-kokoro'>（オレは……</span><br><span class='scene-font-place'>クルーガー島</span><span class='scene-font-kokoro'>の教えの最奥に至って、</span><br><span class='scene-font-kokoro'>元の世界に戻らなくちゃならねぇ……）</span>,(我…… 我必须找到克鲁格岛的奥义，然后得到它，回到原来的世界……)
+17,オイゲン/欧根,<span class='scene-font-kokoro'>（そもそも、この世界に来たのも、</span><br><span class='scene-font-kokoro'>最初はそれが目的だったはずだ）</span>,(而且最初来到这个世界，也是为了这个目的。)
+18,オイゲン/欧根,<span class='scene-font-kokoro'>（目的は……</span><br><span class='scene-font-kokoro'>確かにそうなんだが……）</span>,(目的…… 的确是这样……)
+19,,<span class='scene-font-katari'>決意を固めようとする</span><br><span class='scene-font-katari'>オイゲンの脳裏には、</span><br><span class='scene-font-katari'>どうにもアルテミシアの姿が浮かぶ。</span>,可是，在拼尽全力下定决心的欧根的脑海里，总能浮现阿尔提米希亚的身影。
+20,オイゲン/欧根,<span class='scene-font-kokoro'>（ここは現実じゃねぇ……！</span><br><span class='scene-font-kokoro'>こんな過去は無かったんだ……）</span>,(这里并不是现实…… ！ 我也从来没有经历过这样的过去……)
+21,オイゲン/欧根,<span class='scene-font-kokoro'>（この世界はきっと、</span><br><span class='scene-font-kokoro'>夢みてぇなもんだ……</span><br><span class='scene-font-kokoro'>だから、オレは……）</span>,(这个世界只不过是个梦罢了…… 所以，我……)
+22,,<span class='scene-font-katari'>オイゲンは必死に雑念と戦いながら、</span><br><span 继续向赞尼斯高地前进着。
+24,,<span class='scene-font-katari'>そうしてオイゲンがたどり着いたのは、</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>で最も海が良く見える、</span><br><span class='scene-font-katari'>という、海に面した丘だった。</span>,就这样，欧根来到了一座面向大海的小山上，那里是整个奥古斯景色最好的地方。
+25,オイゲン/欧根,ここなら……,如果是这里的话……
+26,オイゲン/欧根,ああ、いや、そうか。<br>ここは……,啊，对了。 这里是……
+27,,<span class='scene-font-katari'>海の見える丘でオイゲンは、</span><br><span class='scene-font-katari'>この地にまつわる出来事を、</span><br><span class='scene-font-katari'>一つ、思い出す。</span>,站在这座能看见大海的山丘上，欧根想起了一件有关这里的事情。
+28,オイゲン/欧根,<span class='scene-font-kokoro'>（そういやここは……</span><br><span class='scene-font-kokoro'>オレがあいつの、アルテミシアの遺灰を</span><br><span class='scene-font-kokoro'>海に撒いた場所だ）</span>,(对了，这里就是，我把阿尔提米希亚的骨灰洒向大海的地方。)
+29,オイゲン/欧根,あいつは本当に……<br>海が好きだったからな……,因为那家伙真的…… 非常喜欢大海……
+30,,<span class='scene-font-katari'>アルテミシアは生前、</span><br><span class='scene-font-katari'>病死した後の</span><br><span class='scene-font-katari'>自分の遺体は火葬にし……</span>,阿尔提米希亚在死前告诉自己，如果自己病死了，就将她的遗体记性火葬……
+31,,<span class='scene-font-katari'>その灰をオイゲンの手で</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>の海に撒いてほしい、</span><br><span class='scene-font-katari'>と遺言を残していた。</span>,并且希望欧根能够亲手将她的骨灰，洒进这片大海里。
+32,オイゲン/欧根,遺灰を撒いて……<br>ここでオレはアルテミシアと、<br>最後の別れをしたんだ……,撒完骨灰…… 这里就是我和阿尔提米希亚，最后道别的地方……
+33,,<span class='scene-font-katari'>この丘から見える景色は、</span><br><span class='scene-font-katari'>まるで墓標のように、</span><br><span class='scene-font-katari'>オイゲンの中に深く刻まれていた。</span>,从这座山上看到的景色，就像墓志铭一般，深深地刻在欧根的脑海里。
+34,,<span class='scene-font-katari'>そんな、記憶と寸分違わぬ海に、</span><br><span class='scene-font-katari'>オイゲンは語りかけるように</span><br><span class='scene-font-katari'>声をかける。</span>,欧根就像是在对着记忆中的大海说话一般。
+35,オイゲン/欧根,なぁ……リヴァイアサンよ。<br>いまもそこに居るんだろ？,那个…… 利维坦。 你还在那里，对吗？
+36,オイゲン/欧根,そこに居るなら聞いてくれ……<br>どうすればオレは、<br>元の世界に戻ることが出来るんだ？,如果你在的话，请告诉我…… 我该怎样才能回到原来的世界？
+45,,<span class='scene-font-katari'>オイゲンの問いに答えるように、</span><br><span class='scene-font-katari'>海は立ち上がり、</span><br><span class='scene-font-katari'>やがて一つの竜の姿を作る。</span>,就像在回答着欧根的问题一般，海水逐渐升起，最终形成了一条龙。
+46,リヴァイアサン/利维坦,────,————
+47,オイゲン/欧根,リヴァイアサンよ……<br>オレは……オレは元の世界に<br>戻らなきゃならねぇ。,利维坦啊…… 我…… 我必须回到原来的世界才行。
+48,オイゲン/欧根,この世界は過去のようで過去じゃねぇ。<br>現実とは異なる世界だ。,这个世界既是过去，也不是过去。 这是个不同于现实的世界。
+49,オイゲン/欧根,とすると、<br>あのゼエンの言っていた、<br>仮の契約……,既然这样，泽恩所说的临时契约……
+50,オイゲン/欧根,オレとお前が繋がったことが、<br>関係してるんじゃねぇかと<br>思うんだが……,既然你跟我有所联系的话，应该知道些什么吧……
+51,オイゲン/欧根,教えてくれ……<br>お前は何を知ってるんだ？,告诉我…… 你都知道些什么？
+52,,<span class='scene-font-katari'>そんなオイゲンの問いに対し、</span><br><span class='scene-font-katari'>力になれないことを示すように、</span><br><span class='scene-font-katari'>リヴァイアサンは弱々しく首を振る。</span>,对于欧根的疑问，利维坦微弱地摇了摇头，表示自己也无能为力。
+53,オイゲン/欧根,そうか……<br>ってぇこたぁ、もしかすると……,是吗…… 这么说的话，说不定……
+54,オイゲン/欧根,この世界には、オレとお前以外に、<br>何か鍵があるのかもしれねぇ……,这个世界上，除了我和你意外，也许还有别的钥匙……
+55,オイゲン/欧根,そいつを探し出すことが、<br>この世界を脱出する、<br>最初の手がかり、ってことか……,找到那个家伙，就是逃离这个世界的唯一线索吗……
+56,,<span class='scene-font-katari'>リヴァイアサンと接触し、</span><br><span class='scene-font-katari'>情報を整理したオイゲンは、</span><br><span class='scene-font-katari'>新たな要素について思いを巡らせる。</span>,与利维坦接触并整理情报过后，欧根开始思考新的问题。
+59,,<span class='scene-font-katari'>しかし、</span><br><span class='scene-font-katari'>そんなオイゲンの思考を破るように、</span><br><span class='scene-font-katari'>重く、冷たい声がかかる。</span>,但是，从身后传来的沉重且冰冷声音，却打断了欧根的思绪。
+60,黒騎士？/黑骑士？,──探す必要などない。<br>私は逃げも隠れもしないからな。,——没必要找。 我既不会逃跑，也不会躲藏。
+61,オイゲン/欧根,っ！？<br>アポロ、お前……！,啊！ ? 阿波罗，你…… ！
+62,黒騎士？/黑骑士？,悪いがこれは借り物の姿だ。<br>そもそも私は、<br>本物のアポロニアではない。,虽然很抱歉但这只是借来的身体。 而且说到底，我也不是真正的阿波罗。
+63,オイゲン/欧根,なに……？<br>んじゃ、お前さんは何者だってんだ？,什么…… ？ 那么，你到底是谁？
+64,黒騎士？/黑骑士？,私はお前の思う、<br>お前を苛む罪の姿……<br>この世界の象徴と言ってもいい。,我是处在你心底的，让你诞生罪恶感的源头…… 也可以说是这个世界的象征。
+65,黒騎士？/黑骑士？,お前の選択を……<br>答えを聞きに来たぞ、オイゲン。,我……是来倾听你的选择的，欧根。
+66,黒騎士？/黑骑士？,私こそが、<br>お前の言うこの世界の鍵……<br>この理想世界の核だ。,我才是你所说的这个世界的钥匙…… 也就是这个理想世界的核心。
+67,,<span class='scene-font-katari'>黒い鎧の騎士が告げる内容に、</span><br><span class='scene-font-katari'>オイゲンは驚きから言葉を失う。</span>,听到黑骑士所说的话后，欧根惊讶得说不出话来。
+68,,<span class='scene-font-katari'>しかし、鎧の騎士は淡々と、</span><br><span class='scene-font-katari'>オイゲンに残酷な選択を</span><br><span class='scene-font-katari'>突き付けていくのだった。</span>,然而，黑其实却毫不留情地让欧根做出选择。
+info,,,scene_cp96_q4_s10

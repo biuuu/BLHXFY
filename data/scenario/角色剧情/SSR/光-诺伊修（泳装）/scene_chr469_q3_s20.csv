@@ -1,0 +1,56 @@
+id,name,text,trans
+0-chapter_name,,この夏注目！　海辺のグルメ,这个夏天引人注目！　海边的美食家
+0-synopsis,,屋台村を歩く一行は、長蛇の列に行き当たる。そこでは、イッパツが冷麺の屋台を出しており、リルルが呼び込みをしていた。リルルに美味しいと薦められ、行列に並ぶ一行。しばらくすると、前に並んでいた男達が、待ち時間の長さに苛立ってリルルに手を上げようとする。ノイシュがすかさず止めに入り、一行は暴徒化した男達を迎え撃つ。,在走在摊位街上的一行人，被长长的队列阻挡了去路。那里是，伊帕茨开的冷面摊位，和在招揽客人的莉露露。被莉露露推荐这个很好吃，一行人于是排起了队。过了一会，排在前面的男人们，因为等太久了心烦意乱向莉露露挥起了拳头。诺伊修立刻介入阻止，一行人迎击变成暴徒的男人们。
+1,,<span class='scene-font-katari'>店番を続けるベアトリクスと別れ、</span><br><span class='scene-font-katari'>姬塔達は</span><br><span class='scene-font-katari'>屋台村をそぞろ歩く。</span>,<span class='scene-font-katari'>与继续看店的贝阿朵丽丝分别，</span><br><span class='scene-font-katari'>姬塔她们</span><br><span class='scene-font-katari'>不知不觉走到了摊位街。</span>
+2,スカーサハ,……ん？<br>あの列はなんだ？,……嗯？<br>那个队伍是什么？
+4,,<span class='scene-font-katari'>スカーサハが示した方を見ると、</span><br><span class='scene-font-katari'>そこには人々が</span><br><span class='scene-font-katari'>長い列をなしていた。</span>,<span class='scene-font-katari'>往斯卡哈示意的方向看去，</span><br><span class='scene-font-katari'>那里有许多人</span><br><span class='scene-font-katari'>排了一条长队。</span>
+5,ノイシュ/诺伊修,ふむ……どうやら、<br>屋台に並んでいるようだが……,嗯……好像是，<br>在排摊位的队啊……
+6,セルエル/塞鲁艾尔,これほどまでの長蛇の列……<br>一体何を売っているのでしょうね？,排得这么长的队列……<br>到底是在卖什么呢？
+7,？？？,冷麺、３つ入りました～！,冷面，三份装好了～！
+8,？？？,喜んでーっ！,祝用餐愉快ー！
+9,ルリア/露莉亚,あっ！<br>この声は……,啊！<br>这个声音是……
+10,,<span class='scene-font-katari'>列を避けて屋台を覗くと、</span><br><span class='scene-font-katari'>そこではイッパツが料理、</span><br><span class='scene-font-katari'>リルルが呼び込みをしていた。</span>,<span class='scene-font-katari'>绕过队伍去窥视摊位</span><br><span class='scene-font-katari'>那里是正做着料理的伊帕茨</span><br><span class='scene-font-katari'>和正招呼客人的莉露露。</span>
+12,イッパツ,おや、姬塔さん！<br>皆さんも、冷麺食べに<br>来てくれたんすか！,哦呀，姬塔桑！<br>还有各位，是为了吃冷面<br>来这里的吗！
+13,ビィ/碧,いや、知らねぇで来たんだ！<br>すごい列が出来てて<br>びっくりしたぜ！,不，我们是不知情地来了呢！<br>排了好长的队啊<br>吓了一跳呢！
+14,イッパツ,いやぁ、僕も驚きましたよ！<br>シェロカルテさんが冷麺の屋台を、<br>ってんで手伝ってるんすけど……,哎呀，我也很吃惊啊！<br>榭洛科特桑把冷面的摊位<br>完全拜托给我了……
+15,イッパツ,口コミで評判になってるらしくて。<br>いやあ、ありがたいっすね！,好像因为口碑不错变得出名了。<br>哎呀，真是非常感谢！
+16,リルル,私もまかないで食べたんですけど、<br>すっごく美味しかったんですよっ！,我是因为包伙食所以吃过了<br>相当好吃哟！
+17,ルリア/露莉亚,わぁ、イッパツさんが作ってる上に<br>リルルさんが美味しいって言うなら<br>絶対絶対美味しいですよね！,哇啊，伊帕茨桑做的面<br>还有莉露露也夸赞好吃<br>肯定肯定超级好吃的！
+18,ルリア/露莉亚,姬塔、<br>私も冷麺食べたいです！,姬塔，<br>我也想吃冷面！
+19,スカーサハ,ふむ……確かに。<br>これだけの客を集める一品、<br>見過ごすわけにはいかん。,嗯……确实。<br>这样能让客人们排起长队的上等料理<br>可不能错过啊。
+20,セルエル/塞鲁艾尔,……列が目に入らないので？,……但是这队排得已经看不到尾了？
+21,スカーサハ,ふん、ではそなたは<br>ひとり寂しく他のものを<br>食べるのだな。,哼，那么你就<br>一个人寂寞地<br>去吃别的东西吧。
+22,ノイシュ/诺伊修,まぁまぁ、セルエル様。<br>折角ですし、並んでみましょう。,嘛啊嘛啊，赛鲁艾尔大人。<br>难得来了，就排排看吧。
+25,セルエル/塞鲁艾尔,はぁ……まあ、イッパツ殿の<br>麺類にかける情熱は存じています。<br>待つだけの価値はあるでしょう。,哈啊……嘛啊，我也知道伊帕茨殿下<br>对于面类怀有的热情。<br>确实有等的价值呢。
+31,,<span class='scene-font-katari'>姬塔達は</span><br><span class='scene-font-katari'>列の最後尾につき、</span><br><span class='scene-font-katari'>自分達の順番を待つ。</span>,<span class='scene-font-katari'>姬塔她们</span><br><span class='scene-font-katari'>排到了队伍的末尾，</span><br><span class='scene-font-katari'>等着轮到自己。</span>
+32,リルル,お次、お待ちの方～！<br>お待たせしました、<br>冷麺２杯です～っ！,下一位客人～！<br>让您久等了，<br>这是你们的两份冷面～！
+33,リルル,あっ、列を乱さないでくださ～い！<br>他のお店のご迷惑になりますので、<br>ご協力お願いしま～すっ！,啊，请排好队！<br>乱排会给别的店造成麻烦的，<br>请您理解感谢您的合作！
+34,イッパツ,今出来ますからねっ！<br>少々お待ちくださいっ！！,现在就快做好了！<br>请再等一下！！
+35,イッパツ,<span class='scene-font-5'>ホァチャ～ッ！！</span>,<span class='scene-font-5'>嘿呀～！！</span>
+36,ルリア/露莉亚,お客さんが多いから、<br>リルルさんもイッパツさんも<br>大変そうですね……,因为客人很多，<br>莉露露桑和伊帕茨桑都<br>很忙碌的样子呢……
+37,ノイシュ/诺伊修,イッパツ殿以外の調理の方も<br>なかなかの手際に見えますが、<br>それでも追い付いていませんね……,除了伊帕茨殿下以外的料理人<br>虽然也有不错的料理技术<br>但还是比不上他呢……
+38,スカーサハ,むぅ……列がなかなか捌けんな……,姆……队伍好像完全没有在动啊……
+39,ビィ/碧,オイラ、もうお腹と背中が<br>くっついちまいそうだぜ……,我，已经饿到<br>前胸贴后背了的样子呢……
+40,ヘルエス/赫尔艾斯,ふふ、<br>空腹は最高のスパイスと申します。<br>待つ分、美味しく食べられますとも。,呵呵，<br>有句话说得好饥饿才是最好的调味料。<br>有等待的时间，就能让我们吃得更加美味。
+41,？？？,<span class='scene-font-4'>ったく、おっせぇぞ！！</span><br><span class='scene-font-4'>いつまで待たせんだ！！</span>,<span class='scene-font-4'真是的，好慢啊！！</span><br><span class='scene-font-4'>到底要我们等到什么时候啊！！</span>
+42,セルエル/塞鲁艾尔,ん……？<br>品の無い声がしますね……,嗯…？<br>好像听到了个没品的声音呢……
+43,,<span class='scene-font-katari'>声を上げたのは</span><br><span class='scene-font-katari'>姬塔達より</span><br><span class='scene-font-katari'>少し前に並ぶ男達だった。</span>,<span class='scene-font-katari'>发出声音的是</span><br><span class='scene-font-katari'>比姬塔她们</span><br><span class='scene-font-katari'>排得更前一些的男性们。</span>
+44,リルル,すみません、<br>前の方の分を今作っていますので……<br>もう少々お待ちいただけますか？,不好意思，<br>现在正在做前面客人的份了……<br>能请您再等一会吗？
+45,空腹な男,さっきからそればっかりじゃねぇか！<br>客商売ナメてんのかっ！？,你从刚刚开始不就一直在说那个了吗！<br>是在看不起我们这些客人吗！？
+46,,<span class='scene-font-katari'>苛立った様子の男は、</span><br><span class='scene-font-katari'>リルルを蹴ろうと足を振り上げる。</span>,<span class='scene-font-katari'>烦乱焦躁的男性，</span><br><span class='scene-font-katari'>像是要把莉露露踢飞一样抬起了脚。</span>
+47,リルル,<span class='scene-font-4'>きゃっ……！</span>,<span class='scene-font-4'>呀啊……！</span>
+52,空腹な男,なんだァてめぇ！！,干什么你这家伙！！
+53,リルル,ノ、ノイシュさん！,诺，诺伊修桑！
+54,ノイシュ/诺伊修,……この暑さの中だ。<br>待ち時間の長さに<br>苛立つ気持ちは解らなくもない。,……在这么热的天气。<br>因为排队时间长<br>而觉得焦躁的心情我能理解。
+55,ノイシュ/诺伊修,しかし、暴力を使い<br>横紙破りを成そうと言うのは<br>恥ずべき行為だ。,但是，因此使用暴力<br>变得蛮不讲理<br>是可耻的行为。
+56,空腹な男,<span class='scene-font-4'>うるせぇ！！</span><br>やろうってのか、あぁ！？,<span class='scene-font-4'>啰嗦！！</span><br>是想打一架吗，啊啊！？
+58,イッパツ,リルルさんっ！<br>大丈夫すか！？,莉露露桑！<br>你没事吗！？
+59,,<span class='scene-font-katari'>騒ぎを見て駆け付けたイッパツに、</span><br><span class='scene-font-katari'>セルエルがリルルを託す。</span>,<span class='scene-font-katari'>赛鲁艾尔把莉露露</span><br><span class='scene-font-katari'>托付给了看到骚乱赶来的伊帕茨。</span>
+60,セルエル/塞鲁艾尔,貴方が抜けては<br>列が進まなくなります。<br>ここは我々に任せてください。,你离开摊位的活<br>这条队列就不能继续往前排了。<br>这里就交给我们吧。
+61,イッパツ,そ、そうっすね……,说，说的也是……
+62,イッパツ,解りました、僕ぁ調理を続けます！<br>この場はよろしくお願いしますっ！,我知道了，我回去继续做料理！<br>这里就拜托你们了！
+64,ノイシュ/诺伊修,任せておいてくれ！,尽管交给我们吧！
+65,空腹な男,ケッ、面がいい上に<br>態度まで良い子ちゃんかよぉ……,切，不仅长得好<br>连态度都那么乖乖牌啊……
+66,空腹な男,イラつくぜ……<br>野郎ども！　やっちまうぞぉ！！,真让人心烦啊……<br>兄弟们！　给我一起上！！
+67,,<span class='scene-font-katari'>姬塔達は</span><br><span class='scene-font-katari'>空腹に我を忘れ</span><br><span class='scene-font-katari'>暴徒と化した男達を迎え撃つ。</span>,<span class='scene-font-katari'>姬塔她们</span><br><span class='scene-font-katari'>忘记了饥饿</span><br><span class='scene-font-katari'>迎击变成暴徒的男人们。</span>
+info,,,scene_chr469_q3_s20

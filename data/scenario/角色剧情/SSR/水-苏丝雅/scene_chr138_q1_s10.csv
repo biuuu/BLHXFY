@@ -1,0 +1,33 @@
+id,name,text,trans
+0-chapter_name,,美しき華に集うは,向华美前进
+0-synopsis,,失われた王家の情報を知っているという男性に会う為、姬塔一行は酒場を訪れていた。それらしき人物が店を出てしまったことに気がつき、一行は後を追いかけるが、男性はならず者達に襲われ、連れ去られそうになっていた。,为了与知晓失落的王族情报的男性见面，姬塔一行来到酒馆。注意到目标人物走出酒馆后，一行人追在后面，但是男性遭到暴徒袭击，被带走了。
+0,,<span class='scene-font-katari'>姬塔一行はシェロカルテから、</span><br><span class='scene-font-katari'>王家の情報を知るという、</span><br><span class='scene-font-katari'>エルーンの男の話を聞く。</span>,<span class='scene-font-katari'>从榭洛科特那里，</span><br><span class='scene-font-katari'>了解到有一个兽耳组男性，</span><br><span class='scene-font-katari'>知晓王族情报。</span>
+1,,<span class='scene-font-katari'>シェロカルテを通じ、その男と</span><br><span class='scene-font-katari'>酒場で待合せの約束をしていたのだが、</span><br><span class='scene-font-katari'>男は一向に現れずにいた。</span>,<span class='scene-font-katari'>通过榭洛科特，</span><br><span class='scene-font-katari'>与兽耳组男性约在酒馆见面，</span><br><span class='scene-font-katari'>但男人一直没有现身。</span>
+2,ビィ/碧,うーん……たしかよぉ、<br>よろず屋から聞いた話だと、<br>向こうから話しかけてくるんだろ？,唔……万事屋确实是说，<br>对方会来找我们吧？
+3,ビィ/碧,誰も話しかけてこねーけど<br>一体どうなってんだ？,但是谁都没有来，<br>到底是怎么回事？
+4,ソシエ/苏丝雅,…………,…………
+5,ビィ/碧,ん？<br>どうしたんだソシエ？,嗯？<br>怎么了苏丝雅？
+6,,<span class='scene-font-katari'>ビィの声で姬塔は、</span><br><span class='scene-font-katari'>ソシエを見る。</span>,<span class='scene-font-katari'>循着碧的声音，</span><br><span class='scene-font-katari'>姬塔看向苏丝雅。</span>
+7,,<span class='scene-font-katari'>ソシエは目の前のエルーンの男性を</span><br><span class='scene-font-katari'>じっと見つめ、尻尾を静かに振っていた。</span>,<span class='scene-font-katari'>苏丝雅盯着眼前的兽耳组男性，</span><br><span class='scene-font-katari'>轻轻地摇着尾巴。</span>
+8,エルーンの男,…………えっと。,…………诶。
+9,ソシエ/苏丝雅,<span class='scene-font-4'>！</span>,<span class='scene-font-4'>！</span>
+10,エルーンの男,あ、あはは、どうも……,啊，啊哈哈，你好……
+12,,<span class='scene-font-katari'>エルーンの男性はソシエと見つめ合い、</span><br><span class='scene-font-katari'>気まずさを感じたのか、</span><br><span class='scene-font-katari'>愛想笑いを浮かべて去ってしまった。</span>,<span class='scene-font-katari'>兽耳组男性和苏丝雅对视，</span><br><span class='scene-font-katari'>不禁感受到尴尬的气氛，</span><br><span class='scene-font-katari'>讪讪一笑走了。</span>
+13,ソシエ/苏丝雅,あ、<span class='scene-font-1'>あぅ……</span>,啊，<span class='scene-font-1'>啊……</span>
+14,,<span class='scene-font-katari'>去っていく男性の姿を見つめ、</span><br><span class='scene-font-katari'>ソシエは悲しそうに耳と尻尾を下げた。</span>,<span class='scene-font-katari'>看着离去的男性，</span><br><span class='scene-font-katari'>苏丝雅难过地垂下耳朵和尾巴。</span>
+15,ビィ/碧,おいおい……<br>なにやってんだ……,喂喂…<br>你这是作甚……
+16,ソシエ/苏丝雅,あ、あんな。<br>あの人がうちらをじっとみてはるから。,他，他。<br>那个人一直盯着我看。
+17,ソシエ/苏丝雅,も、もしかしたら、うちに、<br>話しにきてくれはるんかな、<br>って思て……,也，也许是，找我<br>有话要说……
+18,ルリア/露莉亚,……あの、もしかして、<br>そのソシエさんと目があってた人が<br>私達と待ち合わせしていた人じゃ……,……唔，也许<br>那个看着苏丝雅的人，<br>就是我们在等的人……
+19,ソシエ/苏丝雅,……あ、だから<br>何かいいたそうにしてたんだ……,……啊，所以<br>我就说他好像想说些什么……
+20,ビィ/碧,おいおい……<br>そこまで気付いてたんだったら、<br>自分からいけよなぁ。,喂喂……<br>既然注意到了，<br>就自己先上啊。
+21,ビィ/碧,はやく追いかけるぞ！,快点追过去吧！
+24,エルーンの男,…………,…………
+25,ソシエ/苏丝雅,あ、あの人！<br>さっきの人！,等，等一下！<br>刚才的那个人！
+26,ビィ/碧,よし、声かけてみっか！<br>おーい、そこの兄ちゃ――,很好，试着叫他一下！<br>喂―― 刚才的小哥――
+27,,<span class='scene-font-katari'>ビィが声をかけようとした瞬間、</span><br><span class='scene-font-katari'>路地裏から数人のならず者が現れる。</span>,<span class='scene-font-katari'>就在碧出声的瞬间，</span><br><span class='scene-font-katari'>从小路上冒出一堆人。</span>
+30,,<span class='scene-font-katari'>ならず者達は男を殴り気絶させ、</span><br><span class='scene-font-katari'>その場から連れ去ろうとした。</span>,<span class='scene-font-katari'>暴徒们将男性打晕，</span><br><span class='scene-font-katari'>带走了。</span>
+31,ビィ/碧,お、おい！！<br>なにやってんだテメェら！！,喂，喂！！<br>你们在干嘛！！
+32,ならず者/暴徒,くそ、見られたか……！<br>お前ら、俺達が時間を稼ぐから、<br>さっさとそいつをアジトへ運べ。,该死，被看到了……！<br>你们几个，我们来拖延，<br>快点把这个家伙搬走。
+33,ソシエ/苏丝雅,……！<br> 姬塔、助けよ！,……！<br> 姬塔，我们去救他！
+info,麻友桑的话筒,,scene_chr138_q1_s10

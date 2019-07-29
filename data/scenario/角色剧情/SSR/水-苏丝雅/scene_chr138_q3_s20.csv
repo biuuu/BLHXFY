@@ -1,0 +1,73 @@
+id,name,text,trans
+0-chapter_name,,美しき華に集うは,向华美前进
+0-synopsis,,姬塔達はならず者達を退け、男性を救うことに成功した。男性は自らが王家に仕えた分家の末裔と告げるが、ソシエが求める情報は持っていなかった。男性がお礼を告げて去っていくのを見て、ソシエは一行をこれ以上巻き込めないと、騎空団を抜けようとするが、一行は仲間を一人にできないと告げ、引き留める。ソシエは頬が熱くなると同時に、絆の温かみを感じるのだった。,姬塔一行打倒了绑匪，成功地救出男性。男性自称是侍奉王族分家的末裔，没有苏丝雅要找的情报。看着离去的男性，苏丝雅为了不更进一步地将一行人卷入事件，提出想退出骑空艇，但是一行人说无法放任苏丝雅不管，将她留了下来。苏丝雅在害羞的同时，感到了同伴之间的温暖。
+0,,<span class='scene-font-katari'> 姬塔一行はならず者たちの</span><br><span class='scene-font-katari'>無力化に成功するが、</span><br><span class='scene-font-katari'>その内の数人が隙を見て逃げてしまう。</span>,<span class='scene-font-katari'> 姬塔一行成功地</span><br><span class='scene-font-katari'>打倒了暴徒，</span><br><span class='scene-font-katari'>但还是让其中几人瞅到空隙跑了。</span>
+1,,<span class='scene-font-katari'>だが、エルーンの男を助ける事には</span><br><span class='scene-font-katari'>見事、成功したのだった。</span>,<span class='scene-font-katari'>但是，救助兽耳组男性的任务</span><br><span class='scene-font-katari'>很成功。</span>
+2,エルーンの男,助かりました。<br>本当にありがとうございます。,得救了。<br>多谢各位。
+3,エルーンの男,……それと、先ほどの酒場では、<br>大変申し訳ありませんでした。,……还有，之前在酒馆<br>真是非常抱歉。
+4,エルーンの男,そちらのお方が、<br>あまりに高貴で凛とされていたので、<br>つい、どう話せば良いのかと……,那边的女性，<br>实在是太高贵，<br>不知道如何搭话才好……
+5,ビィ/碧,へへっ！　<br>まぁ気持ちはわかるぜぇ！,哈哈哈！　<br>我懂我懂！
+6,ルリア/露莉亚,ソシエさんはすっごく綺麗ですもんね！<br>見つめられると<br>つい緊張しちゃいますよね。,苏丝雅さん很漂亮吧！<br>看着的话<br>就会不自觉地紧张起来。
+7,エルーンの男,ええ、そうです。<br>とどのつまり、緊張してしまって。<br>すみません……,嗯，没错。<br>到头来，还是紧张。<br>抱歉……
+8,ソシエ/苏丝雅,"え、えと……ええよ……<br>う、うちも、あかんかったから……。 ","唔，唔……没关系……<br>我，我也，不擅长这种事情……。 "
+9,エルーンの男,ですが、その美しさ、高貴さも<br>納得致しました。<br>王家の血を継ぐお方だったとは……,但是，我理解了<br>您身上那高贵典雅的气质是源自何方了。<br>没想到是继承了王族血脉的人……
+11,,<span class='scene-font-katari'>エルーンの男は、</span><br><span class='scene-font-katari'>一行に自らの正体と酒場で待合せた</span><br><span class='scene-font-katari'>理由を語り始める。</span>,<span class='scene-font-katari'>兽耳男，</span><br><span class='scene-font-katari'>开始向一行人解释自己的身份，</span><br><span class='scene-font-katari'>已经等在酒馆的理由。</span>
+12,,<span class='scene-font-katari'>男はソシエの先祖に仕えていた末裔の</span><br><span class='scene-font-katari'>一人であり、最近増え始めた、</span><br><span class='scene-font-katari'>九尾の力を狙う者達に警戒をしていた。</span>,<span class='scene-font-katari'>男人是侍奉苏丝雅祖先的末裔</span><br><span class='scene-font-katari'>中的一人，警戒着最近突然增加的</span><br><span class='scene-font-katari'>追寻九尾之力的人。</span>
+13,,<span class='scene-font-katari'>その時、王家の情報を探す一行の話を</span><br><span class='scene-font-katari'>聞き、悪しきものであれば粛清し、</span><br><span class='scene-font-katari'>警告するつもりだったという。</span>,<span class='scene-font-katari'>这是，听说了一行人正在寻找王族情报，</span><br><span class='scene-font-katari'>如果是恶人的话，</span><br><span class='scene-font-katari'>是准备进行肃清的。</span>
+15,エルーンの男,ですが……まさか、<br>王家の方ご本人にお会いできるとは、<br>夢にも思いませんでした。,但是……没想到，<br>会遇上王族的人，<br>我做梦也不敢想。
+16,ソシエ/苏丝雅,君は……どの王家に仕えていたの？,你……侍奉于哪个王族？
+17,エルーンの男,すみません……<br>どの王家に仕えていたかは……<br>私の先祖はかなり末端の分家で……,抱歉……<br>侍奉于哪个王族……<br>我的先祖侍奉的是分家的分家了……
+18,エルーンの男,九尾様と王家の存在以外は<br>何も伝えられておらず……,除了九尾大人和王族的存在以外<br>我什么都不知道……
+19,ソシエ/苏丝雅,……そっか。<br>ううん。いいの。<br>ありがとう。,……这样。<br>没关系。别在意。<br>谢谢你。
+20,エルーンの男,お力になれず、申し訳ありません。<br>……それでは、そろそろ私はこれで。,不能帮到你们，实在抱歉 。<br>……那么，我差不多就此。
+21,ビィ/碧,おいおい！<br>一人で大丈夫か？,喂喂！<br>一个人没问题吗？
+22,エルーンの男,ええ。大丈夫です。<br>さっきは油断しましたが、<br>私は結構強いですから！,嗯。没问题。<br>虽然刚刚大意了，<br>但我是很强的！
+23,,<span class='scene-font-katari'>その後、</span><br><span class='scene-font-katari'>男は一行にもう一度礼を言い、</span><br><span class='scene-font-katari'>その場を立ち去った。</span>,<span class='scene-font-katari'>之后，</span><br><span class='scene-font-katari'>男性向一行人道谢之后，</span><br><span class='scene-font-katari'>从这里离开了。</span>
+24,ソシエ/苏丝雅,…………,…………
+25,ビィ/碧,なぁなぁ、ソシエ。<br>さっきの兄ちゃんと<br>盗賊の親分もいってたけどよぉ。,呐呐，苏丝雅。<br>刚刚的小哥<br>和绑匪头头都说了。
+26,ビィ/碧,九尾ってなんなんだぁ？,九尾到底是什么？
+27,ソシエ/苏丝雅,九尾様は、<br>私の家系が奉っていた<br>凄まじい力を持たれたお方。,九尾大人，<br>是我的家族侍奉的<br>拥有强大力量的人物。
+28,ルリア/露莉亚,それって……<br>ソシエさんが探されている……,而且……<br>就是苏丝雅さん在找的……
+29,ソシエ/苏丝雅,うん。<br>意思を持った炎の、<br>本当の名前。,嗯。<br>拥有意志的火焰的<br>真正的名字。
+30,ビィ/碧,そうなのか……<br>なんで教えてくれなかったんだ？,这样啊……<br>你为什么不告诉我们呢？
+31,ソシエ/苏丝雅,九尾様の名前を知ってしまえば、<br>本当に君達を巻き込んじゃうと……<br>思って……,我认为，告诉你们九尾大人真正的名字的话<br>就真的把你们卷进来了……
+32,ソシエ/苏丝雅,…………,…………
+33,ソシエ/苏丝雅,あ、あの……さ。<br>私、一人で旅した方が、<br>やっぱり、いいのかな……？,听，听我……说。<br>果然还是我一个人<br>旅行的话  好吧……？
+34,ルリア/露莉亚,えっ……？<br>ど、どういうこと、ですか？,诶……？<br>这，这是，什么意思？
+35,ソシエ/苏丝雅,さっき、<br>逃がしちゃった<br>ならず者の人たち……,刚刚，<br>逃走的<br>绑匪们……
+36,ソシエ/苏丝雅,あの人たちは……<br>今度は私を狙ってくる。<br>九尾様の力を狙ってるなら、必ず。,那些人……<br>这次就会盯上我。<br>如果追求九尾之力的话，一定会。
+37,ソシエ/苏丝雅,だから、今日みたいに……<br>今日以上に危ないことが……<br>起きるかもしれないよ？,所以，就像今天一样……<br>也许还会出现……<br>比今天更危险的情况哦？
+37-sel1_txt,,<span class='scene-font-katari'>ソシエを一人にはできない</span>,<span class='scene-font-katari'>怎么能放苏丝雅一个人/span>
+37-sel2_txt,,<span class='scene-font-katari'>それがソシエの望みなら……</span>,<span class='scene-font-katari'>如果这就是苏丝雅的愿望……</span>
+38,ソシエ/苏丝雅,え……？,诶……？
+39,ルリア/露莉亚,そうですよ！<br>こんな状況になって……<br>ソシエさんを一人にはできません！,就是啊！<br>都这种状况了……<br>怎么能让苏丝雅一个人！
+40,ソシエ/苏丝雅,で、でも……,但，但是……
+41,ビィ/碧,でもも何もねーよ！<br>最初に会った時のこと覚えてるか？,什么但是不但是的！<br>还记得我们第一次见的时候吗？
+42,ソシエ/苏丝雅,うん……,嗯……
+43,ルリア/露莉亚,私達言ったじゃないですか！<br>必ず協力するって！,我们不是说好了吗！<br>一定会帮助你的！
+44,ルリア/露莉亚,だから、一緒に行きましょう？,所以，一起走吧？
+45,ソシエ/苏丝雅,……あんたら、ほんまに優しいな……,……你们，真的很温柔啊……
+46,ソシエ/苏丝雅,…………うん。,…………嗯。
+47,,<span class='scene-font-katari'>ソシエは悲しそうに</span><br><span class='scene-font-katari'>耳と尻尾を下げて、</span><br><span class='scene-font-katari'>一行に背を向けようとする。</span>,<span class='scene-font-katari'>苏丝雅悲伤的</span><br><span class='scene-font-katari'>垂下耳朵和尾巴，</span><br><span class='scene-font-katari'>转过身去。</span>
+48,ルリア/露莉亚,待ってください！！,请等一下！！
+49,ソシエ/苏丝雅,……え？,……诶？
+50,ルリア/露莉亚,本当に、それが<br>ソシエさんの望みなんですか……？,这真的，<br>是苏丝雅さん的愿望吗……？
+51,ソシエ/苏丝雅,…………,…………
+53,ルリア/露莉亚,姬塔は、ソシエさんの<br>本当の望みを聞きたいんだと思います。<br>そうですよね？,姬塔，想要听到苏丝雅<br>真正的愿望。<br>对吧？
+54,,<span class='scene-font-katari'>ルリアの言葉に姬塔</span><br><span class='scene-font-katari'>は静かに頷く。</span>,<span class='scene-font-katari'>随着露莉亚的话</span><br><span class='scene-font-katari'>姬塔静静地点了点头。</span>
+55,ルリア/露莉亚,……本当に、<br>そう、望んでいるんですか？,……你真的，<br>是这么希望的吗？
+56,ソシエ/苏丝雅,わ、<span class='scene-font-1'>私は……</span><br><span class='scene-font-1'>私は、本当は……</span>,我<span class='scene-font-1'>我……</span><br><span class='scene-font-1'>我，其实……</span>
+57,ソシエ/苏丝雅,<span class='scene-font-1'>…………あう。</span>,<span class='scene-font-1'>…………唔。</span>
+58,ソシエ/苏丝雅,<span class='scene-font-1'>ほ、ほんまはな……</span><br><span class='scene-font-1'>う、うちに協力、してほしい……</span>,<span class='scene-font-1'>其实……</span><br><span class='scene-font-1'>想让你们帮我……</span>
+59,ソシエ/苏丝雅,<span class='scene-font-1'>ひ、一人になったらまた、</span><br><span class='scene-font-1'>寂しい想いするやろし……</span><br><span class='scene-font-1'>誰とも、話されへんようになるし……</span>,<span class='scene-font-1'>一，一个人的话，</span><br><span class='scene-font-1'>又会变得寂寞……</span><br><span class='scene-font-1'>也不能，和谁交谈……</span>
+60,ソシエ/苏丝雅,<span class='scene-font-1'>こ、心、細いから……</span>,<span class='scene-font-1'>很，很不安……</span>
+61,ビィ/碧,なぁんだ。<br>そうならそうと言えばいいじゃねーか！,什么啊。<br>那样的话直说不就好了！
+62,ビィ/碧,水臭いこというんじゃねーよ！,不要那么见外！
+63,ソシエ/苏丝雅,……ほんまに、<br>ほんまに一緒におってええのん？,……真的，<br>真的可以和你们一起吗？
+64,ビィ/碧,あったりまえだろ？,说的不是废话吗？
+65,ルリア/露莉亚,はい！<br>ソシエさんは仲間ですから！,嗯！<br>苏丝雅さん是我们的伙伴！
+66,ソシエ/苏丝雅,"ぇあっ……<br>うちが、仲間……<br>……お、おおきにな…… ","啊……<br>我，是伙伴……<br>……真，真好…… "
+67,ソシエ/苏丝雅,え、えと……<br>その……<br>こ、これからもよろしゅうな……,诶，诶……<br>唔……<br>今后请多指教……
+68,,<span class='scene-font-katari'>耳まで真っ赤にしながらソシエは</span><br><span class='scene-font-katari'>一行にお礼を告げ、共に艇へと戻った。</span>,<span class='scene-font-katari'>耳まで真っ赤にしながらソシエは</span><br><span class='scene-font-katari'>向一行人施礼后，他们一起回到了船上。</span>
+69,,<span class='scene-font-katari'>未だに火照る耳だけでなく、</span><br><span class='scene-font-katari'>確かな仲間たちの絆に、</span><br><span class='scene-font-katari'>ソシエは温かみを感じるのだった。</span>,<span class='scene-font-katari'>不仅仅的发烧的耳朵，</span><br><span class='scene-font-katari'>与同伴间结实的联系，</span><br><span class='scene-font-katari'>更让苏丝雅感到温暖。</span>
+info,麻友桑的话筒,,scene_chr138_q3_s20

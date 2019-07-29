@@ -1,0 +1,142 @@
+id,name,text,trans
+0-chapter_name,,守護の女神,守护女神
+0-synopsis,,街の防衛の依頼を受けた姬塔一行は、自警団に協力する女騎士、アテナと出会う。襲撃してきたゴブリンとの戦いの中で、アテナの正体が守護と防衛を司る星晶獣であることを知る一行。見た者を石に変える力を持つ星晶獣を探すため旅に同行させてほしいと願い出るアテナを、姬塔は快く仲間に加えるのだった。,街の防衛の依頼を受けた姬塔一行は、自警団に協力する女騎士、アテナと出会う。襲撃してきたゴブリンとの戦いの中で、アテナの正体が守護と防衛を司る星晶獣であることを知る一行。見た者を石に変える力を持つ星晶獣を探すため旅に同行させてほしいと願い出るアテナを、姬塔は快く仲間に加えるのだった。
+1,,<span class='scene-font-katari'>依頼を受け、とある街を訪れた</span><br><span class='scene-font-katari'>姬塔達。</span>,<span class='scene-font-katari'>接受了委托，姬塔一行，</span><br><span class='scene-font-katari'>来到某个街道。</span>
+2,,<span class='scene-font-katari'>ゴブリン達の度重なる襲撃から</span><br><span class='scene-font-katari'>街を守るため、姬塔達も</span><br><span class='scene-font-katari'>防衛に参加することとなったのだ。</span>,<span class='scene-font-katari'>哥布林们多次来犯，</span><br><span class='scene-font-katari'>为了守护街道，姬塔一行</span><br><span class='scene-font-katari'>也参加了防卫。</span>
+3,ビィ/碧,なあ、ここが自警団の詰所で<br>合ってるか？　オイラ達は<br>依頼受けて来た騎空団なんだけどさ。,请问，这里是警卫团的<br>地方吗？　我们是<br>受委托而来的骑空团。
+4,？？？,なんと……街の防衛に騎空士殿達が<br>加わって下さるのですか。<br>戦える者が少ないゆえ、助かります。,没想到……骑空士会加入<br>街道的保卫。<br>能打仗的人比较少，你们真的帮大忙了。
+5,アテナ,私はアテナ。この街の危機を知って<br>お力添えをしている、<br>流れ者の騎士です。,我叫雅典娜。知晓这街道的危机后，<br>前来助他们一臂之力。<br>是一名流浪骑士。
+6,ビィ/碧,何度も襲われてる割に<br>やけに街の被害が少ねえなと思ったら<br>姉ちゃんが力を貸してたのか。,我们正奇怪为什么多次遭受袭击，<br>街道的损伤却很少。<br>原来是有大姐姐的帮助。
+7,アテナ,ええ。及ばずながら。<br>街の防衛については心得があります。,欸欸。哪里哪里。<br>关于街道的防卫工作我倒是有一点心得。
+8,アテナ,人々を鼓舞し、<br>折れぬよう戦いを続けてきました。,士气，<br>才是持续作战的关键。
+9,ビィ/碧,なるほどな。<br>道理で街の連中、<br>妙に気合い入ってるっつうか……,原来如此。<br>怪不得街上的人，<br>都很有干劲或者说……
+10,ルリア/露莉亚,はい……<br>なんというか、<br>街の皆さん……少し異様でした。,嗯……<br>怎么说呢，<br>街上的大家……有点异样的感觉。
+11,,<span class='scene-font-katari'>ビィとルリアの言う事は</span><br><span class='scene-font-katari'>姬塔も理解できた。</span>,<span class='scene-font-katari'>碧和露莉亚所说的事情，</span><br><span class='scene-font-katari'>姬塔也明白。</span>
+16,,<span class='scene-font-katari'>アテナに連れられて街に出た一行は</span><br><span class='scene-font-katari'>その光景をもう一度目にする事になる。</span>,<span class='scene-font-katari'>被雅典娜带到街上的一行人</span><br><span class='scene-font-katari'>再一次看到 了这幅光景。</span>
+17,街の人１,おおい！　そろそろ追加の剣をくれ！,喂！　把剑拿过来！
+18,街の人１,……ふんっ！,……唔！
+19,,<span class='scene-font-katari'>男は血走った眼で金鎚を振り下ろし、</span><br><span class='scene-font-katari'>剣を叩き割っている。</span>,<span class='scene-font-katari'>双眼布满血丝的男人，挥下锤子，</span><br><span class='scene-font-katari'>将剑砸烂了。</span>
+20,,<span class='scene-font-katari'>そのような光景が、</span><br><span class='scene-font-katari'>街の至る所で繰り広げられているのだ。</span>,<span class='scene-font-katari'>这幅光景，</span><br><span class='scene-font-katari'>整条街上到处都是。</span>
+21,ビィ/碧,……なあ、何やってんだアレ。,……呐，那是在干什么啊。
+22,アテナ,この街の防衛においては<br>剣は必要ありません。<br>ゆえに処分せよと指示しました。,要保护这条街，<br>并不需要剑。<br>所以让他们把剑都处理了。
+23,ビィ/碧,街の連中も姉ちゃんと一緒に<br>戦ってんだろ？<br>なのに剣やら壊しちまっていいのかよ？,街上的人也要和姐姐<br>一起战斗吧？<br>就这样把剑处理掉可以吗？
+24,アテナ,ゴブリンとはいえ、相手は血の通った<br>生き物です。戦い慣れていなければ<br>剣を突き刺す事は難しいでしょうから。,虽说是哥布林，<br>但也是有血有肉的生物，<br>没有习惯战斗的人是没办法把剑刺向他们的。
+25,アテナ,街の方達には投石、弓射、銃撃の<br>いずれかで防衛に参加して<br>いただいています。,街上的人们则，<br>投石也好，射箭也好，射击也好，<br>以各自的方式参与防卫。
+26,街の人２,おおい！　皿と壺、<br>じゃんじゃん持ってこい！<br>全部割っちまうからよ！,喂！　壶还有盘子，<br>都拿过来！<br>要全部打碎才行！
+29,ルリア/露莉亚,あの人は何をしているんでしょう？,那个人在干什么啊？
+30,アテナ,あれも防衛のための準備です。,那也是为了防卫在做准备。
+31,,<span class='scene-font-katari'>首を傾げる姬塔達が</span><br><span class='scene-font-katari'>さらに質問を投げかけようとした</span><br><span class='scene-font-katari'>その時──</span>,<span class='scene-font-katari'>微微疑惑的一行人</span><br><span class='scene-font-katari'>正要追问的时候──</span>
+33,フクロウ,…………,…………
+34,,<span class='scene-font-katari'>一羽の大きなフクロウが</span><br><span class='scene-font-katari'>アテナの肩に舞い降りた。</span>,<span class='scene-font-katari'>一直巨大的猫头鹰</span><br><span class='scene-font-katari'>降在雅典娜的肩头。</span>
+35,アテナ,グラウクス。戻りましたか。,刻洛克斯。你回来了。
+36,フクロウ,…………,…………
+37,,<span class='scene-font-katari'>フクロウはアテナの耳に嘴を寄せ、</span><br><span class='scene-font-katari'>小さな声で何かを囁く。</span>,<span class='scene-font-katari'>猫头鹰将嘴贴在雅典娜耳边</span><br><span class='scene-font-katari'>叽叽咕咕地说着什么。</span>
+38,アテナ,……ゴブリン達が動いた……<br>度重なる襲撃の失敗に業を煮やして<br>総攻撃に出るつもりのようです。,……哥布林们出动了……<br>为了一血前耻，<br>他们似乎是打算发动总攻击。
+39,ビィ/碧,なんだって！？<br>こうしちゃいらんねえ、<br>すぐに打って出ねえと！,什么！？<br>我们不能坐以待毙，<br>要马上出击才行！
+40,アテナ,いえ、こちらも防衛の準備を続けます。<br>相手の装備から察するに、<br>襲撃はおそらく今夜でしょうから。,不，我们继续在此做防御准备。<br>从敌人的动向来看，<br>袭击恐怕就在今晚。
+44,,<span class='scene-font-katari'>アテナの言う通り、</span><br><span class='scene-font-katari'>昼間のうちに敵方の動きはなく──</span>,<span class='scene-font-katari'>就像雅典娜说的一样，</span><br><span class='scene-font-katari'>敌人在白天一点动静也没有──</span>
+47,,<span class='scene-font-katari'>陽が落ちていくにつれ、</span><br><span class='scene-font-katari'>街を濃い殺気が取り囲んでいった。</span>,<span class='scene-font-katari'>随着太阳西沉，</span><br><span class='scene-font-katari'>街上的杀气越来越重。</span>
+48,アテナ,…………,…………
+49,ビィ・ルリア/碧・露莉亚,…………,…………
+50,ビィ/碧,ゴブリンどもが、街の周りで<br>コソコソ動き回ってやがんな……<br>ホントに待ってて大丈夫なのかよ？,那群哥布林，<br>在街道周围鬼鬼祟祟地来回转悠……<br>我们就这样按兵不动真的好吗？
+51,アテナ,心配はいりません。<br>この街は今や鉄壁の城砦。視界の利かぬ<br>夜なら侵入も容易ではありませんから。,不要担心。<br>这条街现在就是铜墙铁壁。在视野不利的夜晚<br>想入侵进来可没那么容易。
+52,ルリア/露莉亚,なんだか不思議な戦い方です。<br>魔物さんのとーばつたいを組む、<br>というのは私もよく見ましたけど。,总觉得这种作战方式很奇妙。<br>组织魔物的讨伐队，<br>这样的我倒是见得多一点。
+53,アテナ,私の信念は防衛と守護。<br>可能な限り殺生は避けたいのです。,我的理念是防卫和守护。<br>不想做无谓的杀生。
+54,アテナ,……可能な、限り……,……如果，可能的话……
+55,,<span class='scene-font-katari'>物憂げな表情で語るアテナ。</span><br><span class='scene-font-katari'>そこへ彼女の愛鳥グラウクスが</span><br><span class='scene-font-katari'>上空から声をかける。</span>,<span class='scene-font-katari'>雅典娜一脸忧愁地说道。</span><br><span class='scene-font-katari'>此时她的爱鸟刻洛克斯</span><br><span class='scene-font-katari'>飞上天空发出警报。</span>
+56,アテナ,……来ました。,……来了。
+60,ゴブリン１,…………,…………
+61,ゴブリン１,<span class='scene-font-4'>ギャハハハ！</span><br>イクゾ、テメエラ！,<span class='scene-font-4'>嘎嘎嘎嘎嘎！</span><br>小的们，给我上！
+62,ゴブリン達,<span class='scene-font-4'>ヒャアアアアーッ！</span>,<span class='scene-font-4'>嘎嘎嘎嘎嘎！</span>
+63,アテナ,参りましょう、姬塔さん。<br>すぐに敵の頭領が姿を現すはずです。,来吧，姬塔さん。<br>敌人的首领也快来了。
+65,ビィ/碧,……って、魔物が来たのと<br>逆に向かうのか！？<br>あいつらはどうすんだよ？,……嗯？你们怎么往<br>反方向跑了！？<br>他们要怎么办啊？
+66,アテナ,先遣隊は街の方々に任せておけば<br>問題ありません。,先遣队就交给街上的人吧<br>没有问题的。
+67,,<span class='scene-font-katari'>姬塔達の心配をよそに、</span><br><span class='scene-font-katari'>アテナは落ち着きはらって</span><br><span class='scene-font-katari'>歩き出す。</span>,<span class='scene-font-katari'>安心下来的一行人，</span><br><span class='scene-font-katari'>跟着雅典娜</span><br><span class='scene-font-katari'>跑了出去。</span>
+71,ゴブリン１,<span class='scene-font-4'>ミナゴロシダァ！</span>,<span class='scene-font-4'>不留活口！</span>
+72,,<span class='scene-font-katari'>街の外壁へと殺到する</span><br><span class='scene-font-katari'>ゴブリン達だったが──</span>,<span class='scene-font-katari'>哥布林们刚刚</span><br><span class='scene-font-katari'>杀到墙下──</span>
+73,ゴブリン１,……ゲッ！？,……噶！？
+74,,<span class='scene-font-katari'>ぬかるんだ地面に足を滑らせ、</span><br><span class='scene-font-katari'>転倒する。</span>,<span class='scene-font-katari'>脚在泥泞不堪的地面上打滑，</span><br><span class='scene-font-katari'>瞬时四脚朝天。</span>
+75,ゴブリン１,<span class='scene-font-4'>ギャアアアッ！？</span><br>痛ェ！　ナ、ナンカ刺サリヤガッタ！,<span class='scene-font-4'>嘎嘎嘎！？</span><br>好疼！　有，有什么东西刺过来了！
+76,街の人の声,<span class='scene-font-4'>今だ！　投石開始！</span>,<span class='scene-font-4'>就是现在！　投石！</span>
+78,ゴブリン１,ヒ……ヒィイ！,噫……噫噫噫！
+82,アテナ,敵が夜襲をかけてくるならと、<br>街の周囲に川の水を<br>引いておいたのです。,我就想着敌人是不是会夜袭，<br>将街道周围的河水<br>引了进来。
+83,アテナ,泥の中に食器や刃物の破片などを<br>刺しておきましたから<br>無事に街に入る事は難しいでしょう。,在泥土中混入<br>食器的碎片，<br>想要平安进来是不可能的。
+84,ビィ/碧,昼間割ってた奴かよ……<br>結構えぐい感じに刺さってたぜ……,白天那些人就是干这个啊……<br>感觉刺得挺深的……
+85,アテナ,死ぬほどの傷ではないはずです。<br>あくまで動きと判断力を<br>鈍らせるだけの。,应该不是什么致命伤。<br>最多只能<br>让他们变得行动迟缓罢了。
+86,アテナ,あとは混乱している所に<br>投石部隊が追い打ちをかければ、<br>すぐに逃げていくでしょう。,之后只要让投石部队<br>在混乱区追击的话，<br>他们应该很快就会逃走了。
+87,,<span class='scene-font-katari'>石畳の継ぎ目に立てられた釘を</span><br><span class='scene-font-katari'>注意深くよけながら</span><br><span class='scene-font-katari'>姬塔達は街のはずれに向かう。</span>,<span class='scene-font-katari'>姬塔一行小心翼翼地</span><br><span class='scene-font-katari'>石板路上的钉子</span><br><span class='scene-font-katari'>向街道的边缘摸去。</span>
+91,アテナ,勇猛果敢なる者達よ！<br>襲い来る全ての苦難と敗北を<br>退けましょう！,勇敢果决的勇士们啊！<br>击破一切<br>袭来的苦难与败退！
+92,街の人々,<span class='scene-font-5'>おおーっ！</span>,<span class='scene-font-5'>哦哦ー！</span>
+94,,<span class='scene-font-katari'>アテナは人々に呼びかけながら、</span><br><span class='scene-font-katari'>グラウクスの告げた</span><br><span class='scene-font-katari'>ゴブリン達の頭領の元へと向かう。</span>,<span class='scene-font-katari'>雅典娜一边鼓舞士气，</span><br><span class='scene-font-katari'>一边向着刻洛克斯告知的</span><br><span class='scene-font-katari'>哥布林的头目所在地前进。</span>
+96,ゴブリン２,キキキキキキ……,吱吱吱吱吱……
+97,アテナ,ゴブリン族の頭領よ、聞きなさい。<br>この街は今や、<br>鉄壁の城砦と化しています。,听着，哥布林的头目。<br>这条街现在，<br>是攻不破的铜墙铁壁。
+98,アテナ,踏み入れればあらゆる物が刃となって<br>貴方達を襲うでしょう。<br>無事にここが手に入ると思わぬ事です。,若是踏入一步，<br>所有的东西都会变作刀刃攻击你们。<br>不费一兵一卒拿下这里乃是痴人说梦。
+99,アテナ,私達が望むのは防衛。ゆえに貴方がたの<br>命を取るつもりはなく、<br>追撃に出ることもありません。,我们并不渴望战斗。所以没有取你们<br>性命的意思，<br>我们也不会派出追兵。
+100,アテナ,ですから、どうか。<br>略奪を諦め、立ち去りなさい。,所以，请你们。<br>放弃掠夺，就此散去吧。
+101,ゴブリン２,クキキ……ソウカ……,可吱吱……恶……
+102,,<span class='scene-font-katari'>街が発する異様な気配に押されたか、</span><br><span class='scene-font-katari'>ゴブリンの頭領は一歩二歩と</span><br><span class='scene-font-katari'>後ずさる。</span>,<span class='scene-font-katari'>也许是被街道散发的不同寻常的气息所震慑，</span><br><span class='scene-font-katari'>哥布林的头目，一步步地，</span><br><span class='scene-font-katari'>向后退去。</span>
+103,ゴブリン２,オウ、ツモリハ……<br>ナイノダナ……,没有，追击……<br>的打算吧……
+104,アテナ,ええ。,没错。
+105,ゴブリン２,ナラバ……,好吧……
+107,ゴブリン２,<span class='scene-font-4'>ウテェーーーーーーッ！</span>,<span class='scene-font-4'>放箭ーーーーーー！</span>
+108,アテナ,…………！,…………！
+109,ルリア/露莉亚,<span class='scene-font-4'>アテナさんっ！？</span>,<span class='scene-font-4'>雅典娜さん！？</span>
+110,,<span class='scene-font-katari'>頭領の号令とともに</span><br><span class='scene-font-katari'>無数の風切り音が響く。</span><br><span class='scene-font-katari'>伏兵達が一斉に矢を放ったのだ。</span>,<span class='scene-font-katari'>随着头目的号令</span><br><span class='scene-font-katari'>响起无数的破空声。</span><br><span class='scene-font-katari'>伏兵一齐将箭射了过来。</span>
+111,ビィ/碧,姬塔！　騎士の姉ちゃん！<br>よけろ！,姬塔！　骑士姐！<br>躲开！
+112,,<span class='scene-font-katari'>身構え、目を凝らして</span><br><span class='scene-font-katari'>矢を叩き落とそうとする姬塔。</span>,<span class='scene-font-katari'>姬塔正架好姿势，</span><br><span class='scene-font-katari'>定睛凝神准备将箭打落的时候。</span>
+115,,<span class='scene-font-katari'>しかし、目前に迫った矢は</span><br><span class='scene-font-katari'>突如噴き上がった炎の壁に巻かれ、</span><br><span class='scene-font-katari'>弾き飛ばされた。</span>,<span class='scene-font-katari'>然而，逼到身前的箭</span><br><span class='scene-font-katari'>却被喷发的火焰卷起，</span><br><span class='scene-font-katari'>弹到了别处。</span>
+122,ゴブリン２,ギ……！？,吱……！？
+123,アテナ,対話に応じず攻撃をするならば、<br>もはや容赦はできません。<br>……本当に残念です。,既然你们不听劝，<br>那我也不会手下留情。<br>……真是遗憾。
+124,ルリア/露莉亚,……この気配……！？,……这股气息……！？
+125,アテナ,──我は守護の女神。<br>鉄壁の城砦を守る者。,──吾乃守护女神。<br>铁壁城堡的守护者。
+126,,<span class='scene-font-katari'>突如として</span><br><span class='scene-font-katari'>恐ろしい空気を身に纏うアテナ。</span><br><span class='scene-font-katari'>そこから伝う雰囲気はまるで……</span>,<span class='scene-font-katari'>一种恐怖的气息</span><br><span class='scene-font-katari'>缠绕在雅典娜周围。</span><br><span class='scene-font-katari'>那副场景宛如……</span>
+127,ルリア/露莉亚,アテナさんは……星晶獣……！？,雅典娜さん……是星晶兽……！？
+128,ビィ/碧,なんだってぇ！？,什么！？
+129,,<span class='scene-font-katari'>驚く姬塔達をよそに</span><br><span class='scene-font-katari'>変貌を遂げたアテナは</span><br><span class='scene-font-katari'>ゴブリン達に歩み寄る。</span>,<span class='scene-font-katari'>撇开震惊的姬塔一行，</span><br><span class='scene-font-katari'>改变样貌的雅典娜</span><br><span class='scene-font-katari'>向哥布林们逼近。</span>
+130,アテナ,汝らは力を示した。<br>我が盾と炎で応えよう。,汝等展现了力量。<br>吾将以盾和火焰回应。
+131,アテナ,守護の女神の名のもとに<br>我アテナは都市の敵を殲滅する──,以守护女神之名<br>吾将消灭城镇的敌人──
+132,ゴブリン２,ヒ……ヒィィ……！！,吱……吱……！！
+138,,<span class='scene-font-katari'>猛火に追われたゴブリン達が</span><br><span class='scene-font-katari'>森ごと灰と化すまでに</span><br><span class='scene-font-katari'>そう長い時間はかからなかった。</span>,<span class='scene-font-katari'>不过多久</span><br><span class='scene-font-katari'>被烈火围追的哥布林们</span><br><span class='scene-font-katari'>与森林一道化作灰烬。</span>
+139,アテナ,…………,…………
+140,ビィ/碧,ど……どうなってんだこりゃ……,这……这是怎么回事……
+141,ルリア/露莉亚,アテナさんは、星晶獣なんですよね？,雅典娜さん，是星晶兽吧？
+142,アテナ,ええ。私は守護と防衛を司る星晶獣。<br>それゆえ、襲われる人々を<br>放っておくことはありえません。,嗯。我是负责守护与防御的星晶兽。<br>因此，无法对被袭击的人们，<br>放任不理。
+143,ビィ/碧,だとしても、なんだって<br>星晶獣の力を隠してたんだ？,既然如此，<br为什么还要隐藏星晶兽的力量？
+144,アテナ,この力を見れば人は恐れます。<br>そして、恐れは新たな争いを生む……,这份力量会为人们所恐惧。<br>然后，恐惧会引发新的争端……
+145,アテナ,なにより、本当に彼らの命までは<br>取りたくなかった……,更重要的是，我并不是<br>想要真正取他们的性命……
+146,アテナ,しかし守護と防衛を司るがゆえ、<br>対話に応じぬ攻撃者に容赦することも<br>ありえないのです。,但是我既然掌管守护与防御，<br>也不可能让<br>不听劝的攻击者放肆。
+148,アテナ,……というか、貴方達は<br>私が怖くはないのですか？<br>それに、星晶獣の気配を感じたとは……,……说起来，你们<br>不害怕我吗？<br>而且，能感受到星晶兽是……
+149,ビィ/碧,ルリアには不思議な力があってよ、<br>星晶獣の力を貸してもらえたり、<br>星晶獣の気配がわかったりすんだ。,露莉亚有一种不可思议的力量，<br>既能借用星晶兽的力量，<br>也能感受到星晶兽的存在。
+150,ルリア/露莉亚,それに私達、<br>星晶獣から<span class='scene-font-spword'>空図の欠片</span>をもらって<br>旅をしてるので、もう慣れっこです。,而且我们，<br>为了从星晶兽那里<span class='scene-font-spword'>得到空图碎片</span><br>正在旅行，已经习惯了。
+151,アテナ,なるほど……<br>つまり貴方達は、星晶獣を探して<br>旅をしているのですか……,原来如此……<br>也就是说你们，<br>在一边找星晶兽一边旅行……
+152,アテナ,…………,…………
+153,,<span class='scene-font-katari'>一行の話を聞き、</span><br><span class='scene-font-katari'>しばし考え込むアテナ。</span>,<span class='scene-font-katari'>听了一行人的话，</span><br><span class='scene-font-katari'>雅典娜暂时陷入沉思。</span>
+154,アテナ,……私を貴方達の旅に<br>加えていただくことはできませんか？,……能否让我<br>加入你们的旅程呢？
+155,ビィ/碧,なんだって？<br>藪から棒にどしたんだよ？,什么？<br>怎么这么突然？
+156,アテナ,私には追い続けている存在がいます。<br>見た者を石に変える力を持った、<br>恐ろしい星晶獣……,我有一个正在追踪的目标。<br>是一个能将见到的东西<br>转变为石头的，恐怖的星晶兽……
+157,ルリア/露莉亚,見た者を石に変えてしまう……,将事物转变为石头……
+158,ビィ/碧,そりゃまた厄介そうな力を<br>持った奴だな。,这也是一个<br>有着麻烦力量的家伙啊。
+159,アテナ,幸い、私の盾があれば<br>その力を防ぐ事は可能です。<br>ただ……,所幸，有我的盾的话，<br>就能防御那股力量。<br>只是……
+160,アテナ,彼女の恐ろしさの本質は、<br>自由で奔放に過ぎる事。いたずらに<br>人々を混乱に陥れてしまうのです。,她之所以恐怖，<br>是因为她过于自由奔放。会用恶作剧<br>让人们陷入混乱。
+161,アテナ,もう追い続けて数十年になります。<br>守護と防衛を司る星晶獣として、<br>彼女を放っておく事ができません。,我已经持续追了数十年。<br>作为掌管守护和防御的星晶兽，<br>我无法对其放任不理。
+162,アテナ,星晶獣を探す旅であれば、いずれ<br>彼女と出会う事もあるでしょう。<br>その時のために、どうか。,如果是寻找星晶兽的旅途的话，<br>迟早，会遇到她。<br>为了那个时候，拜托了。
+162-sel1_txt,,<span class='scene-font-katari'>一緒に行こう</span>,<span class='scene-font-katari'>一起走吧</span>
+162-sel2_txt,,<span class='scene-font-katari'>アテナが怖いから嫌</span>,<span class='scene-font-katari'>雅典娜好恐怖，不要</span>
+163,アテナ,…………！<br>ありがとうございます！,…………！<br>非常感谢！
+164,ビィ/碧,姉ちゃんが手を焼くような相手なら、<br>確かにオイラ達が出会った時に<br>大変そうだもんな……,如果是连姐姐都觉得棘手的对手，<br>那我们碰到的时候<br>确实会不容易啊……
+165,アテナ,ご心配には及びません。<br>同行させていただく以上、<br>全ての厄災はこの盾で防ぎましょう。,请不要担心<br>既然你们让我同行，<br>那么我会用这盾挡下所有灾祸。
+166,,<span class='scene-font-katari'>頼もしげな笑みを浮かべるアテナと</span><br><span class='scene-font-katari'>握手を交わす姬塔。</span>,<span class='scene-font-katari'>浮现出可靠的笑容的雅典娜</span><br><span class='scene-font-katari'>与姬塔握了握手。</span>
+167,,<span class='scene-font-katari'>何かの拍子で、さっきの獣人のように</span><br><span class='scene-font-katari'>問答無用で焼かれてしまったら</span><br><span class='scene-font-katari'>たまらないというのが正直な所だった。</span>,<span class='scene-font-katari'>不知为何，也许是因为刚才的兽人</span><br><span class='scene-font-katari'>被干脆地烧光了，</span><br><span class='scene-font-katari'>所以无法忍受吧。</span>
+168,アテナ,……なるほど。正直な方ですね。<br>やはりこの力を見れば<br>人は恐怖してしまいましょう。,……原来如此。正直的人啊。<br>果然见过这股力量<br>的人会变得恐慌啊。
+169,アテナ,私は守護と防衛を司る星晶獣アテナ。<br>それゆえ、もし貴方達が平和を乱す<br>攻撃者となれば容赦はできません。,我是掌管守护与防御的星晶兽雅典娜。<br>因此，如果你们是扰乱和平的攻击者，<br>我绝不会轻饶你们。
+170,アテナ,しかし、貴方達は<br>いたずらに人を傷つけたりはせず、<br>街を襲って略奪もしないでしょう。,但是，你们<br>既不会用恶作剧伤人，<br>也不会袭击街道。
+171,アテナ,ならば、私の防衛の対象とは<br>なりえません。ご安心を。,那么，你们就不会<br>成为我防御的对象。请安心。
+172,,<span class='scene-font-katari'>この先々でアテナの力が借りられると</span><br><span class='scene-font-katari'>あれば、心強い事は確かである。</span>,<span class='scene-font-katari'>如果以后能够借助</span><br><span class='scene-font-katari'>雅典娜的力量的话，确实会让人安心。</span>
+173,,<span class='scene-font-katari'>星晶獣としての能力・機能ゆえに</span><br><span class='scene-font-katari'>融通が利かないという難点もあるが、</span><br><span class='scene-font-katari'>自分達に害がなければと、同意した。</span>,<span class='scene-font-katari'>因为星晶兽的能力·机能</span><br><span class='scene-font-katari'>也许通融是一件难以办到的事情，</span><br><span class='scene-font-katari'>但既然不会对船员们造成危害，就同意吧。</span>
+174,アテナ,ありがとうございます、<br>姬塔殿。,非常感谢，<br>姬塔阁下。
+175,,<span class='scene-font-katari'>それから彼女とともに</span><br><span class='scene-font-katari'>姬塔達はグランサイファーへと</span><br><span class='scene-font-katari'>向かう。</span>,<span class='scene-font-katari'>之后与她一同，</span><br><span class='scene-font-katari'>姬塔一行，向格兰赛法</span><br><span class='scene-font-katari'>走去。</span>
+180,アテナ,これが貴方達の城、<br>騎空艇グランサイファー……,这就是你们的城池，<br>骑空艇格兰赛法ー……
+181,アテナ,これからお世話になります。<br>貴方達の艇を拠点とする以上、<br>この艇は我が盾で死守しましょう。,之后请多多照顾了。<br>既然要住在这艘船上，<br>这艘船就由我的盾来守护。
+182,,<span class='scene-font-katari'>こうして守護と防衛を司る星晶獣</span><br><span class='scene-font-katari'>アテナが姬塔達の旅に</span><br><span class='scene-font-katari'>加わった。</span>,<span class='scene-font-katari'>就这样，掌管守护与防御的星晶兽，</span><br><span class='scene-font-katari'>雅典娜加入了</span><br><span class='scene-font-katari'>姬塔他们的旅途。</span>
+183,,<span class='scene-font-katari'>彼女が探し求める星晶獣との邂逅は</span><br><span class='scene-font-katari'>果たしていつになるか──</span>,<span class='scene-font-katari'>与她所探寻的星晶兽的邂逅，</span><br><span class='scene-font-katari'>究竟什么时候才能开始呢──</span>
+info,,麻友桑的话筒,scene_fate_chr518_ep1
