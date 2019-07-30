@@ -1,0 +1,46 @@
+id,name,text,trans
+0-chapter_name,,信託せよ,信託せよ
+0-synopsis,,山の主を退治したものの、山への影響を考慮し、命を取らずに帰す姬塔達。リヴァイは、土地に住む者のことも考慮した一行の判断を「悪くない」と評価する。一行は男達を探し出してくれたリヴァイに礼を言う。すると、「姬塔の信頼を裏切りたくなかっただけだ」と照れくさそうに背を向けるリヴァイ。リヴァイは、これからもこの旅で多くを学び、エルヴィンに報告しようと誓うのだった。,山の主を退治したものの、山への影響を考慮し、命を取らずに帰す姬塔達。リヴァイは、土地に住む者のことも考慮した一行の判断を「悪くない」と評価する。一行は男達を探し出してくれたリヴァイに礼を言う。すると、「姬塔の信頼を裏切りたくなかっただけだ」と照れくさそうに背を向けるリヴァイ。リヴァイは、これからもこの旅で多くを学び、エルヴィンに報告しようと誓うのだった。
+20,山の主,グルゥゥゥ……,咕……
+27,ルリア/露莉亚,もうこれ以上の悪さは<br>許しませんからね！,再做坏事的话就不会放过你了！
+28,ビィ/碧,おうよ！,是啊！
+29,,<span class='scene-font-katari'>山の主を退治した姬塔一行は、</span><br><span class='scene-font-katari'>その命までは取らず、しっかりと</span><br><span class='scene-font-katari'>叱りつけ山へと帰す。</span>,<span class='scene-font-katari'>姬塔一行在退治了山之主后，</span><br><span class='scene-font-katari'>没有结果掉它，</span><br><span class='scene-font-katari'>而是狠狠地训斥了它后，将它放回了山中。</span>
+32,,<span class='scene-font-katari'>それを見て、ふと首を傾げるリヴァイ。</span>,<span class='scene-font-katari'>看着这些的利威尔，觉得有些疑惑。</span>
+33,リヴァイ,……オイ。<br>このままでいいのか？,……喂。<br>这样就好了吗？
+34,ビィ/碧,あれだけ懲らしめてやったんだ。<br>もう大丈夫だぜ！,我们都那样惩罚它了嘛！<br>已经没事了！
+35,ルリア/露莉亚,はい。それに、山の主さんが<br>いなくなれば、この山にも影響が<br>出てしまうかも知れませんし……,是的。而且，也不知道如果山之主不在了的话，<br>会对这座山产生怎样的影响……
+36,リヴァイ,<span class='scene-font-kokoro'>（……ただのお人よしとは</span><br><span class='scene-font-kokoro'>違うようだな。この土地に</span><br><span class='scene-font-kokoro'>住む者達のことも考えている）</span>,<span class='scene-font-kokoro'>（……看来不是一群单纯的老好人啊。</span><br><span class='scene-font-kokoro'>还考虑到了住在这片土地上的人。）</span>
+37,リヴァイ,……悪くない。,……不错嘛。
+43,,<span class='scene-font-katari'>男達と合流し、</span><br><span class='scene-font-katari'>山の主を諌めたことを説明する</span><br><span class='scene-font-katari'>姬塔一行。</span>,<span class='scene-font-katari'>姬塔一行人与男人们会合后，</span><br><span class='scene-font-katari'>向他们说明到</span><br><span class='scene-font-katari'>已经好好地劝说过山之主了。</span>
+44,,<span class='scene-font-katari'>それを聞いた男達は安堵し、</span><br><span class='scene-font-katari'>一行に礼を述べる。</span>,<span class='scene-font-katari'>听到这些的男人们变得安心了，</span><br><span class='scene-font-katari'>向一行人道了谢。</span>
+45,少年,お兄ちゃん……<br>ありがとう！,大哥哥……<br>谢谢你！
+46,リヴァイ,礼を言うなら、姬塔達に<br>言うんだな。<br>俺だけなら山の主を殺していた。,要道谢的话，就和姬塔他们说吧。<br>只有我的话山之主早就被杀掉了。
+47,少年,……僕、大きくなったら<br>お兄ちゃんのように強くなりたい。,……我长大后，<br>也想变得和大哥哥一样强。
+48,リヴァイ,……その身を捧げようとしたことは、<br>褒められたことじゃない。,……想要献出生命什么的<br>不是什么值得夸奖的事情。
+49,リヴァイ,だが、それも島を想ってのことなら……,但是，如果这也是为了岛着想的话……
+50,リヴァイ,お前は必ず強い男になれる。<br>だから、死に急がずに生きろ。<br>いいな？,你一定能变成一个强大的男人。<br>所以，别急着去送死，好好活下去。<br>好吗？
+51,少年,うん！,嗯！
+52,ビィ/碧,なぁ、お前達！<br>早く戻ったらどうだ？<br>皆が心配してるぜ？,喂，你们！<br>不早点回去吗？<br>大家正担心着呢！
+53,男,はい。皆さん、<br>どうもありがとうございました。,好。大家，<br>真的十分感谢你们。
+54,,<span class='scene-font-katari'>少年を囲みながら、</span><br><span class='scene-font-katari'>山を下って行く男達を見送り、</span><br><span class='scene-font-katari'>嬉しそうに微笑む姬塔一行。</span>,<span class='scene-font-katari'>姬塔一行目送着包围着少年下山的男人们，</span><br><span class='scene-font-katari'>露出了开心的微笑。</span>
+55,リヴァイ,<span class='scene-font-kokoro'>（幾度も死線を</span><br><span class='scene-font-kokoro'>潜り抜けてきているにも関わらず、</span><br><span class='scene-font-kokoro'>お人よしなヤツらだ……）</span>,<span class='scene-font-kokoro'>（尽管那么多次从困境中死里逃生，</span><br><span class='scene-font-kokoro'>这群人还是一样的老好人啊……）</span>
+56,ルリア/露莉亚,リヴァイさん、<br>島の皆さんを見つけて下さって<br>本当にありがとうございました。,利威尔先生，<br>能帮忙找到岛上的人，<br>真的十分感谢。
+57,ビィ/碧,ああ、兵長の兄ちゃんがいなかったら、<br>土砂に呑みこまれちまってたかも<br>知れねーもんな。,对啊，要是兵长小哥不在的话，<br>他们现在说不定已经被埋在沙子下了呢！
+58,リヴァイ,……お前達の騎空団に<br>世話になっているんだ。<br>気にするな。,……我也受你们的骑空团的照顾了。<br>别在意。
+59,リヴァイ,それに俺は、姬塔の<br>信頼を裏切りたくなかっただけだ。,而且，我也不想辜负姬塔的信任。
+60,,<span class='scene-font-katari'>リヴァイは照れくさそうにそう言うと、</span><br><span class='scene-font-katari'>姬塔一行に</span><br><span class='scene-font-katari'>くるりと背を向ける。</span>,<span class='scene-font-katari'>利威尔一边像是害羞地这么说着，</span><br><span class='scene-font-katari'>一边转过身去，</span><br><span class='scene-font-katari'>背对着姬塔一行。</span>
+61,リヴァイ,<span class='scene-font-kokoro'>（……少しはここも</span><br><span class='scene-font-kokoro'>楽しくなってきたな……）</span>,<span class='scene-font-kokoro'>（……这里也会变得有趣起来吧……）</span>
+62,リヴァイ,<span class='scene-font-kokoro'>（やはり、エルヴィンの判断に</span><br><span class='scene-font-kokoro'>間違いはないようだ）</span>,<span class='scene-font-kokoro'>（果然，埃尔文的判断没错啊。）</span>
+63,,<span class='scene-font-katari'>リヴァイはこれからも、この旅で</span><br><span class='scene-font-katari'>多くのことを学び、エルヴィンへ</span><br><span class='scene-font-katari'>報告しようと誓うのだった。</span>,<span class='scene-font-katari'>利威尔在心中发誓，</span><br><span class='scene-font-katari'>在这之后也要在这趟旅行中学到更多的事情，</span><br><span class='scene-font-katari'>再报告给埃尔文。</span>
+72,,<span class='scene-font-katari'>無事、物資を補給し、</span><br><span class='scene-font-katari'>騎空艇に帰艦した</span><br><span class='scene-font-katari'>姬塔一行だったが……</span>,<span class='scene-font-katari'>一行人平安无事地完成了物资补给，</span><br><span class='scene-font-katari'>回到了骑空艇上。</span><br><span class='scene-font-katari'>但是……</span>
+73,リヴァイ,……これは一体どういうことだ？,……这到底是怎么回事？
+74,,<span class='scene-font-katari'>リヴァイは眉間に皺を寄せ、</span><br><span class='scene-font-katari'>砂埃にまみれた騎空艇の甲板を</span><br><span class='scene-font-katari'>睨みつける。</span>,<span class='scene-font-katari'>利威尔皱着眉头，</span><br><span class='scene-font-katari'>盯着布满灰尘的骑空艇的甲板。</span>
+75,ルリア/露莉亚,地滑りのせいですかね……,是不是因为滑坡呢……
+76,リヴァイ,……仕方ない。,……没办法了。
+77,,<span class='scene-font-katari'>リヴァイはシャツを腕まくりすると、</span><br><span class='scene-font-katari'>掃除の準備を始める。</span>,<span class='scene-font-katari'>利威尔卷起衬衫的袖子，</span><br><span class='scene-font-katari'>开始做起了扫除的准备。</span>
+78,リヴァイ,オイ、何をボサッとしてる。<br>姬塔、<br>お前も一緒にやるんだよ。,喂，你还在那傻站着干嘛。<br>姬塔，<br>你也一起来。
+79,ビィ/碧,へへっ、よぉーし！,嘿嘿，好——！
+80,ビィ/碧,オイラ達も兵長の兄ちゃんに<br>負けないぐらい、<br>しっかりと掃除しようぜ！,我们也不要输给兵长小哥，<br>认真地干吧！
+81,ルリア/露莉亚,はい、<br>皆で頑張りましょう！,好，<br>大家一起加油吧！
+82,,<span class='scene-font-katari'>こうして姬塔一行は、</span><br><span class='scene-font-katari'>リヴァイに手ほどきを受けながら、</span><br><span class='scene-font-katari'>一生懸命に掃除に励むのだった。</span>,<span class='scene-font-katari'>于是，姬塔一行人就一边接受着利威尔的指导，</span><br><span class='scene-font-katari'>一边拼尽全力地开始了扫除。</span>
+info,,,scene_chr423_q3_s20

@@ -1,0 +1,66 @@
+id,name,text,trans
+0-chapter_name,,監視せよ,監視せよ
+0-synopsis,,ある日、リヴァイは宿舎の姬塔達の部屋を訪れる。巨人を臆さず倒した姬塔達をエルヴィンが「人類の脅威でもあり、希望だ」と評したのを受け、リヴァイはもし手に負えない事態が来た時には姬塔達を命に代えてでも殺そうと決意していた。しかしそんなリヴァイに、一行はいつでも力を貸すと明るく話す。リヴァイは一行を疑うのも馬鹿らしいと思いつつ、自らの監視下に置くのだった。,某一天，利威尔来到了宿舍里姬塔他们的房间。毫不畏惧地打倒了巨人的姬塔他们得到了埃尔文“既是人类的威胁，同时也是人类的希望。”这样的评价后，利威尔下定决心，如果遇上了无法掌控的状况，就算拼上性命也要将姬塔他们杀掉。但一行人却对着这样想着的利威尔说，无论何时都能够帮助他们。利威尔在觉得自己不应该怀疑他们的同时，将他们纳入了自己的监视之下。
+1,リヴァイ,…………,…………
+2,,<span class='scene-font-katari'>姬塔一行のいる部屋に</span><br><span class='scene-font-katari'>やって来たリヴァイは、その場にいる</span><br><span class='scene-font-katari'>全員の顔を順々に睨みつける。</span>,<span class='scene-font-katari'>来到姬塔等人的房间的利威尔，盯着在场所有人的脸。</span>
+3,リヴァイ,聞いたぞ。<br>お前ら、宿舎の外に出たらしいな。,我听说了啊，<br>你们之前出了宿舍吧。
+4,リヴァイ,立体機動装置を使って、<br>呑気に兵士ごっこか？<br>観光じゃねぇんだぞ。,用立体机动装置悠闲地玩扮演士兵的游戏吗？<br>这可不是观光啊。
+5,リヴァイ,監視されているということを<br>忘れてやしないか？,还没忘记你们还在被监视着吧？
+6,リヴァイ,…………,…………
+7,リヴァイ,<span class='scene-font-kokoro'>（しかし……</span><br><span class='scene-font-kokoro'>こいつらは、一体何者なんだ？</span><br><span class='scene-font-kokoro'>変な生き物まで連れやがって……）</span>,<span class='scene-font-kokoro'>（可是……</span><br><span class='scene-font-kokoro'>这些家伙到底是什么人？</span><br><span class='scene-font-kokoro'>还带着只奇怪的生物……）</span>
+8,ビィ/碧,…………,…………
+9,,<span class='scene-font-katari'>ビィはリヴァイに見つめられ、</span><br><span class='scene-font-katari'>身体をぶるぶるっと震わせる。</span>,<span class='scene-font-katari'>碧被利威尔盯着，</span><br><span class='scene-font-katari'>身体不住地颤抖。</span>
+10,ビィ/碧,ゥヒッ！,噫！
+12,ビィ/碧,あの兵長の兄ちゃん、<br>なんでオイラのことじっと見てるんだ？<br>なんだか居心地が悪くなってきたぜ……,那个兵长小哥，<br>为什么一直盯着我看啊？<br>总感觉浑身不太舒服……
+13,リヴァイ,しゃべるトカゲってのを<br>初めて見たんだ。<br>気になるのも仕方ねぇだろ。,会说话的蜥蜴我还是第一次见，<br>会在意也是理所当然的吧。
+14,ビィ/碧,んなっ！,什么！
+15,ビィ/碧,オイラはトカゲじゃねぇ！,我才不是蜥蜴啊！
+16,リヴァイ,…………,…………
+17,ビィ/碧,お、おい……無視すんなよなっ！,喂，喂……别无视我啊！
+18,ルリア/露莉亚,まぁまぁ、ビィさん……<br>落ち着いて下さい。,算了算了，碧君……<br>冷静一下吧。
+19,ビィ/碧,でもよぉ、ルリア……,但是啊，露莉亚……
+20,リヴァイ,ピーピー喚くな。<br>……調査兵団には変わり者も多い。<br>解剖されないよう気を付けるんだな。,别乱叫了。<br>……调查兵团里的奇怪的人也是很多的，<br>你小心点不要被解剖了。
+21,ビィ/碧,…………,…………
+22,ルリア/露莉亚,安心して下さい。<br>私達がビィさんを守りますから！,放心吧。<br>我们会保护碧君的！
+23,ビィ/碧,お、おう……頼んだぜ。<br>姬塔、ルリア。,噢，噢……那就拜托你们了，<br>姬塔，露莉亚。
+24,,<span class='scene-font-katari'>ビィを慰める姬塔を</span><br><span class='scene-font-katari'>リヴァイは不思議そうに見つめる。</span>,<span class='scene-font-katari'>利威尔不可思议地看着安慰着碧的姬塔。</span>
+25,リヴァイ,…………,…………
+43,リヴァイ,<span class='scene-font-kokoro'>（こんなガキが、</span><br><span class='scene-font-kokoro'>立体機動装置も使わず、</span><br><span class='scene-font-kokoro'>巨人を倒すとはな……）</span>,<span class='scene-font-kokoro'>（这样的小鬼，</span><br><span class='scene-font-kokoro'>立体机动装置也不用就能打倒巨人啊……）</span>
+44,リヴァイ,<span class='scene-font-kokoro'>（そのうえ、</span><br><span class='scene-font-kokoro'>騎空団とやらの団長だと……？）</span>,<span class='scene-font-kokoro'>（而且，</span><br><span class='scene-font-kokoro'>还是什么骑空团的团长……？）</span>
+45,リヴァイ,……オイ、お前。<br>巨人を見てどう思った？<br>恐怖を覚えなかったか？,……喂，你啊，<br>对巨人是怎么想的啊？<br>不觉得恐怖吗？
+45-sel1_txt,,<span class='scene-font-katari'>どんな相手だろうと負けられない</span>,<span class='scene-font-katari'>无论面对怎样的对手我都不能输。</span>
+46,ビィ/碧,へへっ、<br>さすが姬塔！<br>その意気だぜ！,嘿嘿，<br>不愧是姬塔！<br>就是这个气势！
+47,リヴァイ,ほう……,哦……
+48,リヴァイ,<span class='scene-font-kokoro'>（いい面構えだ……</span><br><span class='scene-font-kokoro'>巨人を見て、一度でも恐怖した人間は</span><br><span class='scene-font-kokoro'>もう二度と戦うことが出来なくなる）</span>,<span class='scene-font-kokoro'>（真是不错的表情……</span><br><span class='scene-font-kokoro'>见到巨人后，就算只有一次感到过害怕的人，</span><br><span class='scene-font-kokoro'>之后就再也无法与巨人战斗了。）</span>
+49,リヴァイ,<span class='scene-font-kokoro'>（それは、</span><br><span class='scene-font-kokoro'>鍛え上げられた調査兵団であろうと、</span><br><span class='scene-font-kokoro'>例外はない）</span>,<span class='scene-font-kokoro'>（而且、</span><br><span class='scene-font-kokoro'>就算是久经磨炼的调查兵团也不例外。）</span>
+50,リヴァイ,<span class='scene-font-kokoro'>（なのにコイツらは……</span><br><span class='scene-font-kokoro'>俺達以上の修羅場を</span><br><span class='scene-font-kokoro'>潜り抜けて来たってのか？）</span>,<span class='scene-font-kokoro'>（但是这些家伙们却……</span><br><span class='scene-font-kokoro'>他们是跨越了比我们所经历的更加严酷的战场吗？）</span>
+56,,<span class='scene-font-katari'>調査兵団本部の団長室で、</span><br><span class='scene-font-katari'>今後について話し合っていた</span><br><span class='scene-font-katari'>エルヴィンとリヴァイ。</span>,<span class='scene-font-katari'>在调查兵团本部的团长室中，</span><br><span class='scene-font-katari'>利威尔与埃尔文正在谈论今后的事情。</span>
+57,,<span class='scene-font-katari'>話がひと段落したところで、</span><br><span class='scene-font-katari'>リヴァイはふと思いついたように</span><br><span class='scene-font-katari'>ある話題を振った。</span>,<span class='scene-font-katari'>谈话告一段落之际，</span><br><span class='scene-font-katari'>利威尔像是突然想起来了什么一般</span><br><span class='scene-font-katari'>向埃尔文抛出了某个话题。</span>
+58,リヴァイ,	ところで、あいつらは何者だ。,	说起来，那些家伙到底是什么人啊。
+59,,<span class='scene-font-katari'>あいつらとは、無論</span><br><span class='scene-font-katari'>姬塔達のことである。</span>,<span class='scene-font-katari'>那些家伙，</span><br><span class='scene-font-katari'>当然是在说姬塔一行。</span>
+60,エルヴィン,人類の脅威でもあり、希望だ。,既是人类的威胁，同时也是人类的希望。
+61,リヴァイ,おいおい、<br>どこかで聞いたような話だな。,喂喂，<br>感觉好像在哪听过啊。
+62,エルヴィン,まさにエレンのような存在だ。,简直就像是艾伦一样的存在呢。
+63,リヴァイ,信じ難い話だ。<br>だが、それが今日、ここに<br>俺が呼ばれた理由ならば信じられる。,这还真是令人难以置信啊。<br>但是，如果这就是今天你把我叫到这里来的理由的话我倒是能够相信。
+64,エルヴィン,…………,…………
+65,リヴァイ,質の悪い冗談にしか聞こえないが、<br>お前がそんな上等なものを口にした<br>ためしがない。,虽然我只觉得听到你在说什么不良的笑话，<br>但你绝对不是会把这么有品味的东西挂在嘴边的人。
+66,リヴァイ,了解した。もしあいつらがエレン同様、<br>手に負えなくなれば……<br>その時は俺が命に代えても殺してやる。,知道了。如果他们或者艾伦失去控制的话……<br>在那时，我就算拼上这条命也会把他们杀掉的。
+67,リヴァイ,それでいいんだな、エルヴィン。,这样就行了吧，埃尔文。
+68,エルヴィン,ああ、頼む。,啊啊，拜托了。
+74,リヴァイ,なぁ、お前達はどこで、<br>一体どんな敵と戦ってきたんだ？,喂，你们到底是在哪里，<br>和怎样的敌人战斗过啊？
+75,ルリア/露莉亚,えっと、その……私達は<br><span class='scene-font-spword'>星の島イスタルシア</span>に向かう<br>旅の途中でして……,啊，那个……我们是在去往<span class='scene-font-spword'>星之岛伊斯塔尔西亚</span>的途中……
+76,ビィ/碧,あ、おい、ルリア！,啊，喂，露莉亚！
+77,ビィ/碧,オイラ達の世界のこと、<br>お偉いさんに話しちゃ<br>ダメだって言われたじゃねーか！,不是说不能对上级说关于我们的世界的事情吗！
+78,ルリア/露莉亚,あ、そうでした……,啊，是呢……
+79,ルリア/露莉亚,えっと、ですので……すみません。<br>お話しできません。,嗯，所以呢……抱歉了。<br>我不能说。
+80,リヴァイ,……誰から口止めを？,……是谁不让你们说的？
+81,ルリア/露莉亚,……言えません……,……不能说……
+82,リヴァイ,まぁ、いい。だが、もし俺達では<br>手に負えない状況になった時は、<br>お前達の力を貸してもらう。,嘛，算了。但是如果到了遇上我们无法应付的情况的时候，<br>还要请你们帮忙了。
+83,ビィ/碧,もしもの場合じゃなくたって<br>オイラ達は力を貸すぜ！,就算没遇上那样的情况我们也会帮忙的！
+84,ルリア/露莉亚,はい！　困ってる人を放っておくなんて<br>私達にはできませんから！<br>そうですよね、姬塔！,はい！　是的！放着陷入困难的人不管什么的我们做不到啊！<br>对吧，姬塔！
+85,,<span class='scene-font-katari'>ルリアの言葉に力強く頷く</span><br><span class='scene-font-katari'>姬塔を見て、つい笑ってしまう</span><br><span class='scene-font-katari'>リヴァイ。</span>,<span class='scene-font-katari'>利威尔看着点头同意露莉亚所说的姬塔，终于露出了笑容。</span>
+86,リヴァイ,<span class='scene-font-kokoro'>（エルヴィン、</span><br><span class='scene-font-kokoro'>お前のことは信頼している）</span>,<span class='scene-font-kokoro'>（埃尔文、</span><br><span class='scene-font-kokoro'>我相信你。）</span>
+87,リヴァイ,<span class='scene-font-kokoro'>（だが……</span><br><span class='scene-font-kokoro'>こいつらを疑うなんてのは、</span><br><span class='scene-font-kokoro'>なんだか馬鹿らしく思えるぞ……）</span>,<span class='scene-font-kokoro'>（但是……</span><br><span class='scene-font-kokoro'>总觉得没有什么必要去怀疑这些家伙……）</span>
+88,リヴァイ,オイ、もう一度言っておく。<br>お前達は俺に監視されてるんだ。<br>それだけは忘れるな。,喂，我再说一遍。<br>你们还被我监视着，<br>只有这点不要忘了。
+89,,<span class='scene-font-katari'>かくしてリヴァイは、</span><br><span class='scene-font-katari'>姬塔一行を監視下に</span><br><span class='scene-font-katari'>置くことになるのだった。</span>,<span class='scene-font-katari'>就这样，利威尔开始了对姬塔一行的监视。</span>
+info,,,scene_fate_chr423_ep1
