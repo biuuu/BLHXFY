@@ -1,0 +1,74 @@
+id,name,text,trans
+0-chapter_name,,#4 それぞれの役割,#4 各自的职责
+0-synopsis,,合同ライブの準備も大詰めを迎える。ステージ、音響機材、そして魔物対策のための仕掛けと作戦を整えた一行。姬塔、メドゥーサ、アテナは、魔物を穂乃果達に絶対に近づかせないと気合を入れる。こうして穂乃果達はそれぞれの想いを抱えながら、合同ライブの日を迎えるのだった。,合同ライブの準備も大詰めを迎える。ステージ、音響機材、そして魔物対策のための仕掛けと作戦を整えた一行。姬塔、メドゥーサ、アテナは、魔物を穂乃果達に絶対に近づかせないと気合を入れる。こうして穂乃果達はそれぞれの想いを抱えながら、合同ライブの日を迎えるのだった。
+1,,<span class='scene-font-katari'>数日にわたる合同ライブの準備も</span><br><span class='scene-font-katari'>いよいよ大詰めとなる。</span>,<span class='scene-font-katari'>历经数日的合同live的准备工作，</span><br><span class='scene-font-katari'>也终于要接近尾声。</span>
+2,アイナ/爱娜,…………,…………
+3,,<span class='scene-font-katari'>アイナと名乗った少女は</span><br><span class='scene-font-katari'>その行く末を見守るように</span><br><span class='scene-font-katari'>街角に佇んでいた。</span>,<span class='scene-font-katari'>自称爱娜的少女伫立在街角，</span><br><span class='scene-font-katari'>注视着这一切。</span>
+4,アイナ/爱娜,これが、この街に眠る<br>虚無を目覚めさせた……,这样一来，<br>就能让沉睡于城镇的虚无醒来了……
+5,,<span class='scene-font-katari'>活気にあふれる人々の笑顔を見て</span><br><span class='scene-font-katari'>ひとりつぶやくアイナ。</span>,<span class='scene-font-katari'>看着人们充满活力的笑容，</span><br><span class='scene-font-katari'>她一个人喃喃自语。</span>
+6,アイナ/爱娜,街は闇から引き上げられ、<br>やがてまた闇に落ちる……,城镇从黑暗中被救出，<br>但终究会再次被黑暗所吞噬。
+7,アイナ/爱娜,だけど今は、見届けなきゃ……,但是现在，只能注视着这一切……
+8,,<span class='scene-font-katari'>その目線は、</span><br><span class='scene-font-katari'>姬塔達の集まる</span><br><span class='scene-font-katari'>街の中央広場に向けられていた。</span>,<span class='scene-font-katari'>她的视线，</span><br><span class='scene-font-katari'>看向了姬塔等人聚集的中央广场。</span>
+13,ルリア/露莉亚,わぁ……！<br>このステージ、<br>みなさんが作ったんですか？,哇……！<br>这个舞台，<br>是大家做的吗？
+14,穂乃果,ふふ。大変だったけど、<br>どうにか形になったよ！,哼哼。虽然很不容易，<br>但是总算是成型了！
+15,海未,木材で組んだ仮設のステージでは<br>ありますが、合同ライブの使用には<br>耐えられるはずです。,虽然只是用木材组装的临时舞台，<br>但是撑过合同live应该是没问题的。
+16,ことり/小鸟,姬塔さん達も安全のために<br>万全の準備をしてくれてるし、<br>無事にライブができそうでよかった……,姬塔你们也为了安全方面<br>做好了万全的准备，<br>能够顺利举办live真是太好了……
+17,ことり/小鸟,ありがとう、姬塔さん。,谢谢你，姬塔。
+18,海未,しかし、あの妖怪が出た時に<br>戦うのは姬塔さん達なのです。<br>なんだか申し訳ないというか……,可是，那些怪物出现的时候，<br>负责战斗的是姬塔你们。<br>总感觉有些过意不去……
+18-sel1_txt,,<span class='scene-font-katari'>街のために互いのベストを尽くそう</span>,<span class='scene-font-katari'>为了城镇，我们都尽力做到最好吧</span>
+18-sel2_txt,,<span class='scene-font-katari'>これも大きな実績になるから</span>,<span class='scene-font-katari'>这也是个不错的成就哦</span>
+19,,<span class='scene-font-katari'>	聞き及んでいた街の様子とは</span><br><span class='scene-font-katari'>	かけ離れた表情を見せる人々の姿に</span><br><span class='scene-font-katari'>	姬塔も驚いていた。</span>,<span class='scene-font-katari'>	在听说了这个镇子十分阴郁后，</span><br><span class='scene-font-katari'>再看到如今镇上人们明朗的笑容，</span><br><span class='scene-font-katari'>	姬塔十分惊讶。</span>
+20,,<span class='scene-font-katari'>	９人の少女達がもたらしたものは</span><br><span class='scene-font-katari'>	とても大きかったのだろうと</span><br><span class='scene-font-katari'>	推測する姬塔。</span>,<span class='scene-font-katari'>	姬塔推测</span><br><span class='scene-font-katari'>	这9名少女为这个镇子所带来的影响</span><br><span class='scene-font-katari'>	是让人无法想象的。</span>
+21,,<span class='scene-font-katari'>	彼女達の歌が街に元気と勇気を与えた。</span><br><span class='scene-font-katari'>	もしかすると、それは自分達には</span><br><span class='scene-font-katari'>	できなかった事かもしれない。</span>,<span class='scene-font-katari'>	她们的歌声为城镇带来了活力与勇气。</span><br><span class='scene-font-katari'>	说不定，这是自己和团员们</span><br><span class='scene-font-katari'>都做不到的事情。</span>
+22,,<span class='scene-font-katari'>	力を合わせ、互いにできる事をしよう。</span><br><span class='scene-font-katari'>	そう姬塔は力強く告げる。</span>,<span class='scene-font-katari'>	大家齐心协力，做好自己能做的事情。</span><br><span class='scene-font-katari'>	姬塔坚定地告诉大家。</span>
+23,海未,	お互いにできる事をしている……<br>	そういう考え方もありますね。,	做好自己能做的事情……<br>	确实也可以这么说呢。
+24,ビィ/碧,	嬢ちゃん達だって衣装とか歌作りとか<br>	役割が分かれてるだろ？<br>	荒事の担当はオイラ達ってだけだぜ。,	你们也有分负责服装和写歌的人吧？<br>	战斗方面就交给我们负责吧。
+25,,<span class='scene-font-katari'>	考えようによっては、現状は</span><br><span class='scene-font-katari'>	街が正体不明の魔物達の</span><br><span class='scene-font-katari'>	脅威に晒されているという事になる。</span>,<span class='scene-font-katari'>	仔细想想，</span><br><span class='scene-font-katari'>这个镇子的安全正被</span><br><span class='scene-font-katari'>来路不明的魔物所威胁。</span>
+26,,<span class='scene-font-katari'>	それを解決したとなれば、その実績は</span><br><span class='scene-font-katari'>	今後の騎空士業にプラスになるだろうと</span><br><span class='scene-font-katari'>	姬塔は考えていた。</span>,<span class='scene-font-katari'>	如果能解决这次事件，</span><br><span class='scene-font-katari'>	姬塔觉得这对于今后的</span><br><span class='scene-font-katari'>骑空士生涯也有所帮助。</span>
+27,穂乃果,	おお……さすがプロ！<br>	なんかカッコイイ！,	哦哦……不愧是专业的！<br>	感觉好帅！
+28,ルリア/露莉亚,	こういう時、姬塔は<br>	とても頼りになりますから、みなさん<br>	安心してライブしてくださいね。,	姬塔在这种时候都很可靠的，<br>	各位，请放心出演live吧。
+29,,<span class='scene-font-katari'>そんなことを話していると、</span><br><span class='scene-font-katari'>メドゥーサが声をかけてくる。</span>,<span class='scene-font-katari'>正说着，美杜莎走了过来。</span>
+30,メドゥーサ/美杜莎,ねえ、アテナが色々話があるって。<br>みんなこっちに集まりなさい。,呐，雅典娜好像有什么要说的。<br>大家都到这边来。
+37,アテナ/雅典娜,敵は標的と定めた者へ一直線に<br>向かってきます。,敌人会直接攻击已经锁定的目标。
+38,アテナ/雅典娜,これを鑑み、まずは街の内外に<br>深く狭い溝を多数掘りました。,以此为鉴，我已经在城内外<br>挖了许多又深又窄的沟了。
+39,ビィ/碧,なんだか街の連中も<br>歩きづらくて仕方なさそうだけど<br>こりゃ一体なんなんだよ？,这样感觉镇上的人们也不好走路了。<br>究竟是为了什么啊？
+40,アテナ/雅典娜,走る魔物がこれに足を取られれば<br>膝が逆に曲がる形になり、骨折します。<br>そうして動きを封じるのです。,如果奔跑的魔物被这些沟所卡住了腿，<br>那么膝盖就会反向弯曲且骨折。<br>也就是说，能封死它们的行动。
+41,穂乃果,う……<br>け、結構、えぐい感じだね……<br>あはは……,呜……<br>感，感觉，很疼呢……<br>啊哈哈……
+42,メドゥーサ/美杜莎,ま、そこまでやれば<br>あとは止めを刺すだけね。<br>敵が引っかかってくれればだけど。,嘛，只要做到这一步，<br>之后就只需要给其致命一击就行了。<br>前提是如果敌人真的会上钩的话。
+43,アテナ/雅典娜,次に、ステージ上にも仕掛けた踏み板。<br>これは敵の襲撃に遭った際、<br>防御側が作動させるものになります。,然后，舞台上也有动过手脚的踏板。<br>在遭遇敌袭的时候，<br>会起到防御的作用。
+44,アテナ/雅典娜,これを踏めば、このように……,如果踩了这个，就会像这样……
+47,アテナ/雅典娜,槍衾が斜め45 度に立ち上がります。<br>仕組みは単純なシーソーですから<br>そのぶん信頼性は高いでしょう。,枪林就会以45度角刺出。<br>其原理就和简单的跷跷板一样，<br>值得信任。
+48,絵里/绘里,つ、つまり……<br>妖怪が走ってきたら、この槍衾を<br>作動させて……,那，那就是说……<br>如果有妖怪跑过来了，<br>就启动这些枪林……
+49,にこ/妮可,妖怪が突っ込んで来たら、<br>ここに刺さる……ってわけ？,如果妖怪冲过来，<br>就会被……刺穿？
+50,９人,…………,…………
+58,９人,μ's　ミュージックスタート！,μ's　Music Start！
+62,異界の魔物/异界的魔物,うううおおお……,呜呜呜哦哦哦
+63,穂乃果,みんな！　来たよ！,各位！　出现了！
+64,凛,よぉーっし！<br>いっくにゃー！,好嘞——！<br>上了喵ー！
+66,凛,えいっ！,嘿！
+69,海未,みんなのハート、打ち抜くぞー！,我要射穿，大家的HEART咯——！
+71,海未,バーン！,BANG——！
+78,９人,…………,…………
+79,穂乃果,あはは……<br>凛ちゃん海未ちゃん、<br>結構過激だね……,啊哈哈……<br>凛和海未，<br>还真是过激呢……
+80,凛,って、凛はそんなこと<br>できないにゃ！！,话说，<br>凛做不了那种事喵！！
+81,海未,わ、私もです！,我，我也是！
+82,ビィ/碧,ま、まぁ……<br>あくまでこれは保険だろ？,嘛，嘛……<br>这也不过是个保险而已啦？
+83,メドゥーサ/美杜莎,そうね。<br>あの魔物どもがどこに出ようと、<br>ステージになんか近づけさせないわ。,没错。<br>无论那些魔物从哪里出来，<br>都不会让它们接近舞台的。
+84,にこ/妮可,ふん。もしこっちに来たって<br>私が食い止めてあげるから<br>安心しなさい。,哼。就算它们到这里来了，<br>我也会挡住它们的，<br>放心吧。
+85,メドゥーサ/美杜莎,…………,…………
+86,にこ/妮可,なによ。,干嘛啊。
+87,メドゥーサ/美杜莎,怪我すんじゃないわよ。,别受伤了哦。
+88,にこ/妮可,あ……当たり前でしょ！？<br>ここまで準備してきたんだから<br>失敗するわけにはいかないの！！,那……那是当然的吧！？<br>都准备到这一步了，<br>总不让能它失败吧！！
+89,にこ/妮可,そ、そんなことより！<br>あとは機材？　どうなってるの？<br>まさか練習用のスピーカー使うの？,比，比起这种事！<br>器材呢？　怎么样了？<br>难道要用练习时候的扬声器吗？
+90,絵里/绘里,それは……,那是……
+92,,<span class='scene-font-katari'>絵里が言いかけた瞬間、</span><br><span class='scene-font-katari'>街中に大きく音楽が流れ始める。</span>,<span class='scene-font-katari'>在绘里开口的瞬间，</span><br><span class='scene-font-katari'>镇上大声响起了音乐。</span>
+93,穂乃果,ん？　ん？<br>この曲って私達の？,嗯？　嗯？<br>这首曲子是我们的？
+94,希,町長さんが、<br>機材を揃えてくれたみたい。,镇长似乎帮我们准备了器材呢。
+95,希,ここまできたら<br>街のみんなで続けていきたいって<br>思ってるみたいだよ？,她一定也想让镇上的人们<br>继续有活力下去吧。
+96,穂乃果,そっか……,是吗……
+97,アテナ/雅典娜,これで準備は万端ですね。<br>あとは魔物達の襲撃に備え作戦と配備に<br>穴がないかを練り直します。,这样就万事俱备了。<br>接下来，就是重新检查防御魔物来袭的<br>作战和配备是否有漏洞了。
+98,絵里/绘里,姬塔さん、アテナさん、<br>メドゥーサさんも。当日は大変な事に<br>なるかもしれませんが……,姬塔，雅典娜小姐，<br>还有美杜莎小姐也是。<br>表演当天说不定会很辛苦……
+99,９人,<span class='scene-font-4'>よろしくお願いします！</span>,<span class='scene-font-4'>请多多指教！</span>
+100,,<span class='scene-font-katari'>こうして準備は整い、</span><br><span class='scene-font-katari'>合同ライブの日を待つばかりになった。</span>,<span class='scene-font-katari'>就这样，准备完全，</span><br><span class='scene-font-katari'>一切就等合同live的那天到来。</span>
+101,,<span class='scene-font-katari'>魔物達の影という不安はありつつも、</span><br><span class='scene-font-katari'>μ'sの９人は各々の想いを抱えて</span><br><span class='scene-font-katari'>当日を迎えることとなる。</span>,<span class='scene-font-katari'>虽然因为魔物们留下的阴影，</span><br><span class='scene-font-katari'>大家还有所不安，μ's的９人</span><br><span class='scene-font-katari'>怀揣着各自的情感，迎接那一天的到来。</span>
+info,,,scene_evt190812_cp4_q2_s10
