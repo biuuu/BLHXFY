@@ -3,7 +3,7 @@ id,name,text,trans
 0-synopsis,,マフィア達に追い詰められる姬塔一行。シエテはうんざりした様子を見せると、夥しい数の剣を解放する。空中を漂う剣を見て、シエテが十天衆であることに気づいたマフィア達は一斉に逃げ出していく。その後、シエテは真面目な様子で少年を説得し、星屑の街へ行くよう促す。一行はシエテの厳しくも優しい一面を垣間見るのだった。,姬塔一行被黑手党们逼到绝境。希耶提一脸厌烦地，解放了大量的剑。看着漂浮在空中的剑，黑手党们察觉到希耶提是十天众后便逃跑了。之后，希耶提认真地说服了少年，催促他去往星屑之街。一行人窥视到了希耶提严厉与温柔的一面。
 0,,<span class='scene-font-katari'>マフィアの襲撃を</span><br><span class='scene-font-katari'>退ける一行。</span>,<span class='scene-font-katari'>一行人击退了</span><br><span class='scene-font-katari'>来自黑手党的袭击。</span>
 2,,<span class='scene-font-katari'>しかし、マフィア達は</span><br><span class='scene-font-katari'>数の利で一行を追い詰める。</span>,<span class='scene-font-katari'>但是，黑手党们</span><br><span class='scene-font-katari'>凭借数量的优势，将一行人逼到绝境。</span>
-3,シエテ/希耶提,あーもー<br>ぞろぞろとわいてきて……<br>まるでゴキブリだな。,啊ー真是的ー<br源源不断的涌上来啊……<br>就像蟑螂一样。
+3,シエテ/希耶提,あーもー<br>ぞろぞろとわいてきて……<br>まるでゴキブリだな。,啊ー真是的ー<br>源源不断的涌上来啊……<br>就像蟑螂一样。
 4,マフィア１,貴様ぁ～！<br>調子に乗るなよ……,你这家伙～！<br>别得意忘形了……
 5,シエテ/希耶提,いいだろう……<br>目には目を、<br>数には数で対抗しよう！,好吧那么我就……<br>以眼还眼，<br>以数对数和你们对抗吧！
 7,,<span class='scene-font-katari'>そういうと、シエテは</span><br><span class='scene-font-katari'>自身の剣拓コレクションを</span><br><span class='scene-font-katari'>解放する。</span>,<span class='scene-font-katari'>这么说着，希耶提</span><br><span class='scene-font-katari'>把自己的剑复制收藏品们</span><br><span class='scene-font-katari'>解放了。</span>
@@ -34,7 +34,7 @@ id,name,text,trans
 33,シエテ/希耶提,おい！　失敬だな！<br>俺はまだおじさんって歳じゃないぞ！,喂！　太失礼了吧！<br>我还没到要被叫大叔的年纪哦！
 34,少年,はいはい！　お兄さんお兄さん！<br>……俺、<span class='scene-font-place'>星屑の街</span>に行ってみるよ！,知道了知道了！　哥哥哥哥！<br>……我，要去<span class='scene-font-place'>星屑之街</span>试试看！
 35,シエテ/希耶提,ふっ……それだけ元気が<br>残ってりゃ大丈夫だ！,呼……还有这份活力的话<br>肯定没问题的！
-36,シエテ/希耶提,頑張って……<br>そこで生きる術を学べよ……,加油啊……<br>在哪里好好学习活下去的方法吧……
+36,シエテ/希耶提,頑張って……<br>そこで生きる術を学べよ……,加油啊……<br>在那里好好学习活下去的方法吧……
 37,少年,うん……<br>俺、絶対強くなるよ！<br>あんたみたいに……強くなる！,嗯……<br>我，绝对会变强的！<br>变得像是你……那么强！
 38,,<span class='scene-font-katari'>こうして、</span><br><span class='scene-font-katari'>シエテ直筆の手紙を持たせて</span><br><span class='scene-font-katari'>少年を見送る一行。</span>,<span class='scene-font-katari'>就这样，</span><br><span class='scene-font-katari'>一行人目送拿着希耶提写好的信的</span><br><span class='scene-font-katari'>少年离去。</span>
 39,,<span class='scene-font-katari'>シエテはふと、</span><br><span class='scene-font-katari'>隣で自分の顔を見つめる</span><br><span class='scene-font-katari'>ビィの視線に気付くのだった。</span>,<span class='scene-font-katari'>希耶提突然，</span><br><span class='scene-font-katari'>察觉了在旁边盯着自己的脸的</span><br><span class='scene-font-katari'>碧的视线。</span>
