@@ -137,22 +137,9 @@ const template = `
 			</div>
 
 			<div class="prt-setting-article">
-				<div class="txt-article-title">BGM设置</div>
+				<div class="txt-article-title">其他设置</div>
 				<ul class="txt-article-lead">
-					<li>激活后在浏览器失去焦点后继续播放游戏声音</li>
-				</ul>
-				<div class="prt-button-l">
-					<div>
-						<input id="keep-bgm-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'keep-bgm', this.checked)" type="checkbox" value="">
-						<label for="keep-bgm-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">保持BGM播放</label>
-					</div>
-        </div>
-      </div>
-
-			<div class="prt-setting-article">
-				<div class="txt-article-title">UI设置</div>
-				<ul class="txt-article-lead">
-					<li>可以隐藏Mobage侧边栏（PC网页）/显示底部工具栏（手机浏览器中）</li>
+					<li>可以选择隐藏网页滚动条 / 隐藏Mobage侧边栏（仅PC网页） / 在后台播放BGM</li>
 				</ul>
 				<div class="prt-button">
 					<div>
@@ -164,8 +151,8 @@ const template = `
 						<label for="hide-sidebar-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">隐藏侧边栏</label>
 					</div>
 					<div>
-						<input id="bottom-toolbar-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'bottom-toolbar', this.checked)" type="checkbox" value="">
-						<label for="bottom-toolbar-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">底部工具栏</label>
+						<input id="keep-bgm-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'keep-bgm', this.checked)" type="checkbox" value="">
+						<label for="keep-bgm-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">保持BGM</label>
 					</div>
 				</div>
 			</div>

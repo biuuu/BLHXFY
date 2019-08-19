@@ -1,4 +1,3 @@
-import './bottomToolbar'
 import './insertMeta'
 import './removeScroller'
 import './hideSidebar'
