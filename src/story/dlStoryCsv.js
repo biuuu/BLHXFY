@@ -70,6 +70,12 @@ const dataToCsv = (data, fill, isTrans, isAutoTrans) => {
   }
   replaceName(result, CONFIG.userName)
   result.push(extraInfo)
+  result.push({
+    id: '译者',
+    name: '',
+    text: '',
+    trans: ''
+  })
   return CSV.unparse(result)
 }
 
