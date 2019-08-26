@@ -1,0 +1,88 @@
+id,name,text,trans
+0-chapter_name,,手を取り合えば,如果合力
+0-synopsis,,マナリア学院の復興を手伝う姬塔達は、工事の陣頭指揮を執るアンの姿に感心していた。そんな時、大工がアンに、地図にない地下通路を見つけたとの報せをもたらす。姬塔達は、アン、グレア、オーウェンと共に通路を調査し、闇魔術の研究所らしき部屋を見つける。しかしグレアが部屋の奥の祭壇に近づくと、黒い霧が吹き出す。霧を浴びたアンは幼児化し、魔法も使えなくなってしまう。,前来帮助马纳利亚复兴的姬塔一行，看到在工地从容指挥的安后安心了。这是，工人向安报告说，发现了没有记载地图上的地下道路。姬塔一行，安，古蕾雅，欧文一起，前往调查道路，发现了暗魔法研究所。当古蕾雅接近房间深处的祭坛时，黑雾涌出。被黑雾淹没的安变成幼儿，并无法使用魔法。
+2,,<span class='scene-font-katari'>ある時、ファータ・グランデ空域有数の</span><br><span class='scene-font-katari'>魔法学校であるマナリア魔法学院で、</span><br><span class='scene-font-katari'>魔物が大量発生する怪事件が起きた。</span>,<span class='scene-font-katari'>某时，法塔·格兰德空域有名的</span><br><span class='scene-font-katari'>魔法学院马纳利亚魔法学院里，</span><br><span class='scene-font-katari'>发生了大量的魔物袭击事件。</span>
+8,,<span class='scene-font-katari'>学院を見学中だった姬塔達は、</span><br><span class='scene-font-katari'>急遽生徒たちと一致団結して</span><br><span class='scene-font-katari'>襲い来る魔物達を退治する。</span>,<span class='scene-font-katari'>正在见学的姬塔一行，</span><br><span class='scene-font-katari'>与学生们团结一致</span><br><span class='scene-font-katari'>击退了袭击而来的魔物。</span>
+19,,<span class='scene-font-katari'>事件は解決したものの、学院内は</span><br><span class='scene-font-katari'>ひどく荒廃し、教師や生徒達が</span><br><span class='scene-font-katari'>一丸となって復興に力を注いでいた。</span>,<span class='scene-font-katari'>虽说解决了事件，但是学院</span><br><span class='scene-font-katari'>被破坏得很厉害，教师和学生们</span><br><span class='scene-font-katari'>都倾尽全力复兴学院。</span>
+20,,<span class='scene-font-katari'>そんな中、姬塔達は、</span><br><span class='scene-font-katari'>復興に必要な資材を積んで</span><br><span class='scene-font-katari'>マナリア学院を訪れていた。</span>,<span class='scene-font-katari'>此时，姬塔一行，</span><br><span class='scene-font-katari'>将积攒的复建所需的材料</span><br><span class='scene-font-katari'>带来马纳利亚学院。</span>
+21,ルリア/露莉亚,アンさーん！　グレアさーん！,安さーん！　古蕾雅さーん！
+22,アン/安,ん……？<br>あれは騎空団の……？,嗯……？<br>那是骑空团的……？
+23,アン/安,やっぱり依頼を受けてくれた<br>騎空団は姬塔さん達の<br>騎空団だったんだね！,果然接收了委托，<br>骑空团是姬塔的<br>骑空团！
+24,ビィ/碧,へへっ！　<br>マナリア魔法学院からの依頼って聞いて<br>いてもたってもいられなくってよ！,嘿嘿！　<br>听说有马纳利亚魔法学院的委托，<br>我们就坐不住了！
+25,グレア/古蕾雅,そっか、本当にありがとう……<br>私も姬塔さん達が<br>来てくれて嬉しいよ。,啊，真的很感谢……<br>姬塔你们能来<br>我也很开心。
+26,ルリア/露莉亚,私もまた皆さんに<br>会えて嬉しいです！,能再次见到大家<br>我也很开心！
+27,オーウェン/欧文,姬塔殿がいらして<br>皆、とても喜んでおります。,姬塔阁下能来，<br>大家，都很开心。
+29,,<span class='scene-font-katari'>姬塔達がしばしの</span><br><span class='scene-font-katari'>談笑に花を咲かせていると</span><br><span class='scene-font-katari'>どこからともなく大工達が現れた。</span>,<span class='scene-font-katari'>一行人</span><br><span class='scene-font-katari'>边走边聊</span><br><span class='scene-font-katari'>不知何时，便出现了一个大型修筑工地。</span>
+30,大工１,アン様！<br>こちらはどうしましょう？,安大人！<br>这里要怎么办？
+31,アン/安,ええと……この石材は<br>教育棟の方に運んでください！,嗯……这块石料<br>就搬到教学楼那里去吧！
+32,大工２,アン様！<br>これはどうします？,安大人！<br>那这个呢？
+33,アン/安,この木材は……あっちの<br>学生寮の方にお願いします！,这个木材……就<br>搬到宿舍那里吧！
+34,,<span class='scene-font-katari'>アン直々の陣頭指揮によって、</span><br><span class='scene-font-katari'>手際よく運ばれていく資材。</span>,<span class='scene-font-katari'>安在现场指挥着，</span><br><span class='scene-font-katari'>将材料分配到合理的地方。</span>
+35,ビィ/碧,テキパキ指示して、<br>さすが王女様って感じだな～！,利落的指令，<br>真不愧的王女啊～！
+36,ルリア/露莉亚,わぁ～！　すごいです！<br>あっという間に<br>荷物が片付いて行きます！,哇～！　好厉害！<br>瞬间就把<br>东西收拾了！
+38,アン/安,さてと、それじゃ残りは私が……,那么，剩下的就……
+39,グレア/古蕾雅,あぁ、待ってアン！<br>重い物は私に任せて！,啊，等一下安！<br>重的东西就交给我吧！
+40,アン/安,えっ？<br>これぐらい私ひとりで十分だよ！,诶？<br>这些东西我一个人就可以！
+41,,<span class='scene-font-katari'>ひとりで荷物を運ぼうとするアンと、</span><br><span class='scene-font-katari'>それを必死に手伝おうとするグレア。</span>,<span class='scene-font-katari'>安想一个人搬运货物，</span><br><span class='scene-font-katari'>而古蕾雅则拼命地想要帮忙。</span>
+42,オーウェン/欧文,あの様に、姫様が何でもひとりで<br>全て行われてしまうので――,那位大人，公主总是把所有的事情<br>都揽在自己身上――
+43,オーウェン/欧文,私達も姫様が体を壊さないか<br>心配しているのです。,我们也总是担心<br>公主会累坏自己。
+44,ビィ/碧,なるほどなぁ……<br>確かにひとりでなんでも<br>できちまうからなぁ。,原来如此……<br>她确实一个人<br>就能做到所有事情啊。
+45,オーウェン/欧文,さぁ姫様！<br>ここはオーウェンに<br>任せて下さい！　<br>,公主！<br>这里就交给<br>欧文吧！　<br>
+47,,<span class='scene-font-katari'>その時、大工達が</span><br><span class='scene-font-katari'>慌てた様子でアンの元に</span><br><span class='scene-font-katari'>駆け寄ってくる。</span>,<span class='scene-font-katari'>这时，工人们</span><br><span class='scene-font-katari'>慌慌张张地</span><br><span class='scene-font-katari'>跑到安的身边。</span>
+48,大工１,はぁ……はぁ……,哈……哈……
+49,大工１,アン様！,安大人！
+50,大工１,しゅ、修復作業を進めていた所、<br>地図に載っていない地下通路の<br>様なモノを見つけたのですが！,在，在施工道路的前方，<br>出现了地图上没有记载的<br>地下通道一样的东西！
+51,アン/安,ん？　……地下通路？<br>そこに案内してくれますか？,嗯？　……地下通道？<br>能带我过去吗？
+56,,<span class='scene-font-katari'>アンと一行は、大工に連れられて</span><br><span class='scene-font-katari'>地下通路が見つかった場所へ移動する。</span>,<span class='scene-font-katari'>一行人和安，被工人带着</span><br><span class='scene-font-katari'>前往发现地下通道的地方。</span>
+57,アン/安,ここがその地下通路……<br>このまま放置しておいて<br>誰かが迷い込んでも危ないし……,这就是地下通道……<br>就这么放着，<br>如果谁误入就危险了……
+58,アン/安,よし！<br>今から私がこの先を調べて来るね！,嗯！<br>现在开始由我来调查这里！
+59,グレア/古蕾雅,アンひとりじゃ危ないよ！<br>私も一緒に行く！,安一个人太危险了！<br>我也一起！
+60,オーウェン/欧文,ならばこのオーウェンも<br>お二人に同行致します！,那么在下欧文<br>也与二位同去！
+61,アン/安,でも……<br>この先はどんな危険があるか<br>分からないけど……いいの？,但是……<br>前面不知道<br>会有怎样的危险……可以吗？
+61-sel1_txt,,<span class='scene-font-katari'>みんなで一緒に行こう！</span>,<span class='scene-font-katari'>大家一起去吧！</span>
+62,ビィ/碧,おう！<br>オイラ達も力になるぜ！,哦！<br>我们也能成为你们的力量！
+63,ルリア/露莉亚,はい！<br>みんなで行けば、<br>何かあった時に助け合えます！,嗯！<br>大家一起的话，<br>发生了什么的时候也能相互帮助！
+64,アン/安,ありがとう、みんな……,大家，多谢了……
+65,アン/安,それじゃ気を取り直して<br>みんなで一緒に行こう！,那大家准备好<br>我们出发！
+66,,<span class='scene-font-katari'>こうして、アンと一行は</span><br><span class='scene-font-katari'>謎の地下通路を進む。</span>,<span class='scene-font-katari'>就这样，安一行，</span><br><span class='scene-font-katari'>向地下道路进发。</span>
+70,,<span class='scene-font-katari'>地下通路を進んだ先は、</span><br><span class='scene-font-katari'>重厚な扉に閉ざされていた。</span><br><span class='scene-font-katari'>一行は意を決してその扉を開く。</span>,<span class='scene-font-katari'>在地下道路的前方，</span><br><span class='scene-font-katari'>有一扇厚重的门紧紧地闭着。</span><br><span class='scene-font-katari'>一行人决意将它推开。</span>
+76,アン/安,ここは……<br>魔法使いの工房？,这里……<br>是魔法使的工坊？
+77,グレア/古蕾雅,だいぶ埃がたまってるけど、<br>大昔に使われてたのかな。,积了好多灰啊，<br>已经很久没用了吧。
+78,オーウェン/欧文,過去にこの学院で使われていた<br>施設などでしょうか……,是不是曾经在学院内<br>使用过的设施啊……
+79,アン/安,う～ん……<br>それだと地図に載ってないのは<br>変だよね。,嗯～……<br>但是没有记载在地图上<br>很奇怪啊。
+80,アン/安,隠れて秘密の研究をしてた<br>魔法使いもいたって聞くし。,我也听说过，<br>有隐秘的研究所的魔法使。
+82,アン/安,……機材は古いけど、<br>ここは闇魔術の研究所……かな？,……器材都很古老，<br>难道……这是暗魔法研究所？
+83,,<span class='scene-font-katari'>思い思いに辺りを探索する一行。</span><br><span class='scene-font-katari'>グレアが部屋の奥に設置された</span><br><span class='scene-font-katari'>怪しげな祭壇に近づいた瞬間――</span>,<span class='scene-font-katari'>一行人按着各自想法探索研究所。</span><br><span class='scene-font-katari'>就在古蕾雅接近</span><br><span class='scene-font-katari'>房间深处的怪异的祭坛的时候――</span>
+84,,<span class='scene-font-katari'>周囲から黒い霧の様なものが</span><br><span class='scene-font-katari'>噴出される。</span>,<span class='scene-font-katari'>一层层黑雾从周围</span><br><span class='scene-font-katari'>喷涌而出。</span>
+85,グレア/古蕾雅,っ！,！
+86,アン/安,<span class='scene-font-4'>あぶないっ！</span>,<span class='scene-font-4'>小心！</span>
+94,アン/安,<span class='scene-font-4'>きゃあっ！</span>,<span class='scene-font-4'>啊啊！</span>
+98,,<span class='scene-font-katari'>咄嗟にグレアを庇ったアンが</span><br><span class='scene-font-katari'>黒い霧を一身に浴びてしまう。</span>,<span class='scene-font-katari'>一瞬间护到古蕾雅身前的安</span><br><span class='scene-font-katari'>被黑雾吞噬。</span>
+99,グレア/古蕾雅,……っ！　<br>アン！　アンッ！,……！　<br>安！　安！！
+100,オーウェン/欧文,姫様っ！<br>ご無事ですかっ！,公主！<br>您没事吧！
+101,ビィ/碧,お、おい！<br>大丈夫か！,喂，喂！<br>没事吧！
+102,ルリア/露莉亚,アンさん！,安さん！
+103,,<span class='scene-font-katari'>姬塔達がアンの周りに</span><br><span class='scene-font-katari'>集まって口々に声をかける。</span>,<span class='scene-font-katari'>姬塔一行围在安的周围</span><br><span class='scene-font-katari'>不安地呼唤着她。</span>
+104,アン/安,う、うぅ～ん……,唔，唔～唔……
+105,グレア/古蕾雅,……アン！<br>無事でよかっ……た……？,……安！<br>你没……事……？
+108,アン/安,ん？　どうしたのグレア？,嗯？　怎么了古蕾雅？
+109,オーウェン/欧文,ひ……姫様ッ！<br>そのお姿は！,公……公主！<br>您这幅样子！
+110,アン/安,何？　すがた？,怎么？　样子？
+111,ビィ/碧,すっかりチビッ子じゃねーかよ！,这不是小孩子吗！
+112,アン/安,えっ……うそ？　なに？,诶……不是吧？　为什么？
+113,アン/安,<span class='scene-font-4'>チビッ子って私がぁ！？</span>,<span class='scene-font-4'>我变成了小孩！？</span>
+114,ルリア/露莉亚,た、大変です！　姬塔！<br>アンさんが子供になっちゃいました！,不，不好了！　姬塔！<br>安さん变成小孩子了！
+115,,<span class='scene-font-katari'>自分の体を調べるアンは</span><br><span class='scene-font-katari'>ようやく事態を把握する。</span>,<span class='scene-font-katari'>检查着自己身体的安</span><br><span class='scene-font-katari'>终于掌握了事态。</span>
+116,アン/安,え……？<br>なにコレ！,诶……？<br>怎么回事！
+117,アン/安,<span class='scene-font-4'>なんなのコレーッ！！！！</span>,<span class='scene-font-4'>这怎么回事啊！！！！</span>
+119,,<span class='scene-font-katari'>その時、床に描かれた</span><br><span class='scene-font-katari'>魔法陣がアンの声に</span><br><span class='scene-font-katari'>反応して発光する。</span>,<span class='scene-font-katari'>这时，刻在地板上的</span><br><span class='scene-font-katari'>魔法阵随着安的声音</span><br><span class='scene-font-katari'>开始发光。</span>
+125,？？？,…………,…………
+126,グレア/古蕾雅,ぐっ！<br>他にもまだ仕掛けが<br>あったなんて……,啧！<br>没想到<br>还有其他陷阱……
+127,グレア/古蕾雅,みんなでアンを守ろう！,大家一起来保护安！
+128,オーウェン/欧文,さぁ！<br>姫様は下がっていて下さい！,快！<br>公主请退下！
+129,アン/安,私だって魔法でっ！,我也是能！
+131,アン/安,あ……あれれれ？<br>魔法が使えないっ！,啊……？？？？<br>不能使用魔法了！
+132,ビィ/碧,なんだってぇ！<br>子供になったせいで<br>魔法が使えねぇってのか？,什么！<br>是因为变成小孩子<br>才没办法使用魔法吗？
+133,オーウェン/欧文,ぬぅぅ……許せん！！,啧……不可饶恕！！
+135,オーウェン/欧文,<span class='scene-font-4'>いくぞ、姬塔殿！</span>,<span class='scene-font-4'>我们上，姬塔阁下！</span>
+info,麻友桑的话筒,,scene_chr396_q1_s10

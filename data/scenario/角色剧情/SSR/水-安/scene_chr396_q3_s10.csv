@@ -1,0 +1,69 @@
+id,name,text,trans
+0-chapter_name,,手を取り合えば,如果合力
+0-synopsis,,マナリア学院の地下迷宮を進む姬塔一行は、寝息を立てるアンを守りつつ、光の祭壇に辿り着く。目を覚ましたアンが祭壇に近づくと、侵入者を阻む術式が起動し、クレイゴーレムが立ちはだかる。グレアは一人でクレイゴーレムを倒そうとするが、アンの一人じゃないという言葉で仲間の存在に気づかされ、姬塔とオーウェンと力を合わせクレイゴーレムに立ち向かう。,来到马纳利亚地下迷宫的姬塔一行，一边保护睡着的安，一边前进到达光祭坛。醒来的安靠近祭坛之后，阻止入侵者的术式启动，出现了一批黏土人偶。古蕾雅正打算一个人收拾他们的时候，听了安的话注意到身旁的伙伴，开始与姬塔，欧文合力面对人偶。
+1,,<span class='scene-font-katari'>マナリア学院の地下にある</span><br><span class='scene-font-katari'>迷宮の廊下を進む一行。</span>,<span class='scene-font-katari'>一行人在马纳利亚</span><br><span class='scene-font-katari'>地下迷宫回廊上前进。</span>
+2,グレア/古蕾雅,ここが地下迷宮……<br>気を引き締めて行こう。,这里就是地下迷宫……<br>前进时请多加小心。
+3,オーウェン/欧文,何やら厳かな<br>雰囲気がありますね。,有一种<br>严峻的气氛啊。
+4,アン/安,むにゃむにゃ……,呼啊呼啊……
+5,オーウェン/欧文,む……これは！<br>姫様がおねむになられている！,……这是！<br>公主瞌睡了！
+6,グレア/古蕾雅,くっ……<br>ここは私が抱っこする！,额……<br>我来抱着她吧！
+7,オーウェン/欧文,いや……<br>ここは私に背負わせて下さい！,不……<br>由在下来背着公主！
+8,,<span class='scene-font-katari'>その時、グレアとオーウェンの</span><br><span class='scene-font-katari'>前に姬塔が進み出る。</span>,<span class='scene-font-katari'>这时，姬塔向前一步</span><br><span class='scene-font-katari'>站在古蕾雅和欧文的面前。</span>
+8-sel1_txt,,<span class='scene-font-katari'>グレアに任せよう！</span>,<span class='scene-font-katari'>交给古蕾雅吧！</span>
+8-sel2_txt,,<span class='scene-font-katari'>オーウェン……？</span>,<span class='scene-font-katari'>欧文……？</span>
+8-sel3_txt,,<span class='scene-font-katari'>ここは自分がッ！</span>,<span class='scene-font-katari'>那么就交给我！</span>
+8-sel4_txt,,<span class='scene-font-katari'>みんなでくじ引きだ！</span>,<span class='scene-font-katari'>大家来抽签！</span>
+9,オーウェン/欧文,くっ……姬塔殿が<br>そう仰るなら異存はありません……,唔……姬塔阁下<br>这么说的话……
+10,グレア/古蕾雅,さぁ……アン。<br>お姉ちゃんの所においで？,来……安。<br>到姐姐这里来？
+11,アン/安,ぐれぁ……,古蕾雅……
+12,,<span class='scene-font-katari'>優しくアンを</span><br><span class='scene-font-katari'>抱きかかえるグレア。</span>,<span class='scene-font-katari'>古蕾雅温柔地</span><br><span class='scene-font-katari'>抱着安。</span>
+13,,<span class='scene-font-katari'>こうして、姬塔達に</span><br><span class='scene-font-katari'>守られたアンは、安心からか</span><br><span class='scene-font-katari'>すやすやと寝息を立てるのだった。</span>,<span class='scene-font-katari'>就这样，被姬塔一行守护的</span><br><span class='scene-font-katari'>安，安心地</span><br><span class='scene-font-katari'>沉沉睡去。</span>
+14,グレア/古蕾雅,ま、まぁ姬塔さんが<br>そう言うなら、<br>それでいいんじゃない？,唔，好吧，姬塔さん<br>这么说的话，<br>那就这样吧。
+15,オーウェン/欧文,さっ、姫様……<br>どうぞ私の背中に。,公主，请……<br>来我背上。
+16,アン/安,おーうぇん……,欧文……
+17,,<span class='scene-font-katari'>力強くアンを</span><br><span class='scene-font-katari'>背負うオーウェン。</span>,<span class='scene-font-katari'>欧文把安</span><br><span class='scene-font-katari'>牢牢地抱在背上。</span>
+18,,<span class='scene-font-katari'>こうして、姬塔達に</span><br><span class='scene-font-katari'>守られたアンは、安心からか</span><br><span class='scene-font-katari'>すやすやと寝息を立てるのだった。</span>,<span class='scene-font-katari'>就这样，被姬塔一行守护的</span><br><span class='scene-font-katari'>安，安心地</span><br><span class='scene-font-katari'>沉沉睡去。</span>
+19,グレア/古蕾雅,……えっ？<br>姬塔さんが？<br>で、でも……,……诶？<br>姬塔さん来？<br>但，但是……
+20,オーウェン/欧文,姬塔殿に<br>その様なご迷惑を<br>かける訳には……,怎么能让姬塔阁下<br>做这种<br>麻烦事……
+21,ビィ/碧,まぁいいんじゃねぇか？<br>姬塔は子供受けもいいしな！,这不是挺好吗？<br>姬塔很受小孩子欢迎的！
+22,アン/安,姬塔さぁん……,姬塔さん……
+23,,<span class='scene-font-katari'>姬塔の背中に</span><br><span class='scene-font-katari'>自ら進んでよじ登るアン。</span>,<span class='scene-font-katari'>说着安自己</span><br><span class='scene-font-katari'>爬上了姬塔的背。</span>
+24,,<span class='scene-font-katari'>こうして、姬塔達に</span><br><span class='scene-font-katari'>守られたアンは、安心からか</span><br><span class='scene-font-katari'>すやすやと寝息を立てるのだった。</span>,<span class='scene-font-katari'>就这样，被姬塔一行守护的</span><br><span class='scene-font-katari'>安，安心地</span><br><span class='scene-font-katari'>沉沉睡去。</span>
+25,グレア/古蕾雅,は、はぁ……<br>くじ引き……ですか？,哈，哈啊……<br>抽签……吗？
+26,オーウェン/欧文,なるほど……<br>何事も公平を期す<br>というわけですね。,原来如此……<br>任何事情<br>都要公平公正啊。
+27,,<span class='scene-font-katari'>こくりと頷く姬塔は、</span><br><span class='scene-font-katari'>ルリアにくじ引きの審判を</span><br><span class='scene-font-katari'>お願いするのだった。</span>,<span class='scene-font-katari'>姬塔点点头，</span><br><span class='scene-font-katari'>让露莉亚担任了</span><br><span class='scene-font-katari'>抽签裁判。</span>
+28,ルリア/露莉亚,え、ええと……<br>それじゃあ皆さん<br>せーので引いて下さい！,那，那么……<br>我数三下<br>大家一起抽！
+29,,<span class='scene-font-katari'>こうして赤い印のついた</span><br><span class='scene-font-katari'>くじを引いた者がアンを</span><br><span class='scene-font-katari'>背負うことになった。</span>,<span class='scene-font-katari'>就这样</span><br><span class='scene-font-katari'>抽到红签的人</span><br><span class='scene-font-katari'>来照顾安。</span>
+30,アン/安,ねむねむ……,呼呼呼呼……
+31,,<span class='scene-font-katari'>こうして、姬塔達に</span><br><span class='scene-font-katari'>守られたアンは、安心からか</span><br><span class='scene-font-katari'>すやすやと寝息を立てるのだった。</span>,<span class='scene-font-katari'>就这样，被姬塔一行守护的</span><br><span class='scene-font-katari'>安，安心地</span><br><span class='scene-font-katari'>沉沉睡去。</span>
+37,,<span class='scene-font-katari'>迫り来る魔物の群れを掻い潜り、</span><br><span class='scene-font-katari'>最奥の神殿に辿り着いた一行。</span>,<span class='scene-font-katari'>赶走前来骚扰的魔物，</span><br><span class='scene-font-katari'>一行人到达神殿最深处。</span>
+38,グレア/古蕾雅,あれが……祭壇か。,那就是……祭坛。
+39,オーウェン/欧文,この辺りは先ほどまでとは<br>比べ物にならない濃い魔力が<br>満ちていますね。,这附近溢出的魔力<br>比其他地方<br>要高的多啊。
+40,ビィ/碧,でも、そんなに嫌な気分<br>じゃねぇのが不思議だな。,但是，不可思议的是<br>它不惹人嫌。
+41,ルリア/露莉亚,はい、これが光魔法の力、<br>なんでしょうか……？,没错，难道这就是光魔法的<br>力量吗……？
+42,,<span class='scene-font-katari'>その時、目を覚ましたアンが</span><br><span class='scene-font-katari'>祭壇に向かってよちよち歩き出す。</span>,<span class='scene-font-katari'>这时，醒过来的安</span><br><span class='scene-font-katari'>摇摇晃晃地走向祭坛。</span>
+43,アン/安,ふあぁ……<br>あったかい……,呼啊……<br>好暖和……
+44,グレア/古蕾雅,アン！<br>ひとりで近づいたら危ないよ！,安！<br>一个人去太危险了！
+45,オーウェン/欧文,姫様！<br>オーウェンも共に参ります！,公主！<br>欧文也同您一起！
+46,グレア/古蕾雅,アンの魔力がさっきよりも<br>更に弱まっている……,安的魔力<br>比刚刚更弱了……
+47,オーウェン/欧文,ええ。<br>一刻も早く退行の闇魔法を<br>解かねば……,是啊。<br>必须赶快<br>解开魔法……
+54,クレイゴーレム,ンゴゴ……！,哐哐哐……！
+55,,<span class='scene-font-katari'>その時、侵入者を阻む術式が起動し、</span><br><span class='scene-font-katari'> 姬塔達の前に祭壇を守る</span><br><span class='scene-font-katari'>クレイゴーレムが立ちはだかる。</span>,<span class='scene-font-katari'>这时，阻止入侵者的术式发动，</span><br><span class='scene-font-katari'> 姬塔一行的面前出现了</span><br><span class='scene-font-katari'>守护祭坛的黏土人偶。</span>
+57,グレア/古蕾雅,コイツは私が倒す！,这家伙就交给我！
+58,オーウェン/欧文,グレア君っ！<br>ひとりで先走っては危険だ！,古蕾雅！<br>一个人冲过去太危险！
+59,グレア/古蕾雅,もう時間が無い！<br>ここで足踏みする訳には――,没时间了！<br>怎能在这里止步――
+60,,<span class='scene-font-katari'>気持ちがはやるグレアの体を、</span><br><span class='scene-font-katari'>小さな影がそっと包み込む。</span>,<span class='scene-font-katari'>一个小小的身影，</span><br><span class='scene-font-katari'>挡在气急的古蕾雅身前。</span>
+61,アン/安,……だいじょうぶ？<br>ぐれあは、ひとりじゃ、ないよ？,……没事吧？<br>古蕾雅，不是，一个人哦？
+62,グレア/古蕾雅,ア、アン……,A，安……
+63,アン/安,だから……<br>みんなで、ちからをあわせて<br>いっしょに、やっつけよ？,所以……<br>和大家一起，<br>合力，干掉他们吧？
+64,グレア/古蕾雅,うん……わかった！,嗯……知道了！
+65,,<span class='scene-font-katari'>アンの言葉で我に返ったグレアは、</span><br><span class='scene-font-katari'>改めて仲間達を見回す。</span>,<span class='scene-font-katari'>听了安的话重拾自我的古蕾雅，</span><br><span class='scene-font-katari'>重新看向同伴。</span>
+66,グレア/古蕾雅,姬塔さん！<br>オーウェン！<br>お願い……力を貸して！,姬塔さん！<br>欧文！<br>拜托了……帮我一把！
+67,オーウェン/欧文,姫様の笑顔とグレア君の笑顔を<br>取り戻す為ならば……,只要能够夺回<br>公主与古蕾雅的笑容……
+68,オーウェン/欧文,このオーウェン、<br>全力で万難を排しましょう！,在下欧文，<br>将竭尽全力排除万难！
+69,ビィ/碧,ああ、もちろんだぜ！<br>なっルリア！　姬塔！,嗯，那是当然！<br>对吧 露莉亚！　姬塔！
+70,ルリア/露莉亚,はい！<br>みんなで力を合わせて<br>戦いましょう！,嗯！<br>大家一起<br>战斗吧！
+71,クレイゴーレム,<span class='scene-font-4'>ンゴゴゴゴー！</span>,<span class='scene-font-4'>哐哐哐ー！</span>
+73,オーウェン/欧文,今です！,就是现在！
+74,グレア/古蕾雅,うんっ！　<br>行こう！　みんなっ！,嗯！　<br>大家！　准备好！
+info,麻友桑的话筒,,scene_chr396_q3_s10

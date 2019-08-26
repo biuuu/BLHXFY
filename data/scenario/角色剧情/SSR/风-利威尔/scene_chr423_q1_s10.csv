@@ -1,0 +1,92 @@
+id,name,text,trans
+0-chapter_name,,信託せよ,信託せよ
+0-synopsis,,とある島に降り立った姬塔一行。リヴァイは、壁のない世界を初めて訪れ、胸を熱くするものの、街が騒然とし、男性の姿がないことに気づく。街の女性達は、男達が山へ島の特産品のウットリュフを採りに行っていると話すが、何やら隠し事をしている様子だった。その時突然、山が揺れ、老婆は山の主の怒りだと狼狽える。一行は心配する女性達を宥め、山にいる男性達の救出に向かうのだった。,姬塔一行人降落到了某个岛上。利威尔初次来到没有墙壁的世界，心中变得炽热起来。他注意到了热闹的街道上却没有男人的身影。街上的女性说，男人们都去到山里采集岛上的特产乌特鲁夫了，但她似乎在隐瞒着什么。这时，山突然开始摇动，一位老婆婆惊慌失措地说到山之主生气了。一行人安慰了担心着他们的女人们后，为了救出山里的男人，去向了山里。
+5,,<span class='scene-font-katari'>姬塔から、</span><br><span class='scene-font-katari'>騎空艇の一室を与えられたリヴァイは、</span><br><span class='scene-font-katari'>一心不乱に部屋掃除に励んでいた。</span>,<span class='scene-font-katari'>姬塔将骑空团的一间房间分配给了利威尔后，</span><br><span class='scene-font-katari'>利威尔一心一意地打扫着房间。</span>
+6,,<span class='scene-font-katari'>戸棚の裏は当然のこと、</span><br><span class='scene-font-katari'>更には窓の桟までしっかりと汚れを</span><br><span class='scene-font-katari'>拭き取っている。</span>,<span class='scene-font-katari'>壁橱里是当然要打扫的，</span><br><span class='scene-font-katari'>除此之外，利威尔还细致地打扫着窗框里的污物。</span>
+7,リヴァイ,…………,…………
+8,ビィ/碧,へぇ～、しっかし、<br>人は見かけによらないもんだな。,诶～，还真是人不可貌相啊。
+9,ビィ/碧,兵長の兄ちゃんが<br>こんなに綺麗好きとはよぉ。,兵长小哥居然这么爱干净啊。
+10,リヴァイ,こんなものは当たり前のことだろうが。,这些只是理所应当的事吧。
+11,ルリア/露莉亚,あれ？　リヴァイさん……<br>そこはもう姬塔が<br>掃除したところですよ？,咦？利威尔先生……<br>那里姬塔不是扫过了吗？
+12,,<span class='scene-font-katari'>ルリアの言葉を聞いたリヴァイは、</span><br><span class='scene-font-katari'>掃除の手を止め、</span><br><span class='scene-font-katari'>姬塔をじろっと睨みつける。</span>,<span class='scene-font-katari'>听到露莉亚的话后，</span><br><span class='scene-font-katari'>利威尔停下扫除的手，</span><br><span class='scene-font-katari'>死死地盯着姬塔看。</span>
+13,リヴァイ,この程度で掃除したという人間が<br>騎空団の団長とはな……<br>俺は戦場でお前を信じてもいいのか？,骑空团的团长就是扫除做成这个样子的人啊……<br>在战场上我能相信你吗？
+14,ビィ/碧,掃除と戦うことを<br>一緒くたにしなくてもよぉ……,别把扫除和打仗混在一起说啊……
+15,リヴァイ,どうなんだ、姬塔。,你怎么想的，姬塔。
+15-sel1_txt,,<span class='scene-font-katari'>信じて欲しい</span>,<span class='scene-font-katari'>我希望你能相信我。</span>
+15-sel2_txt,,<span class='scene-font-katari'>なんかゴメン……</span>,<span class='scene-font-katari'>总感觉很抱歉……</span>
+16,リヴァイ,フン、掃除すら満足に出来ない奴を<br>信用しろとはな。,哼，让我相信一个连扫除都做不好的人吗。
+17,ビィ/碧,んだとぉ！？<br>姬塔だって、<br>一所懸命掃除してたんだぞ！,什么！？<br>姬塔可是十分努力地在扫除啊！
+18,リヴァイ,フン、謝るぐらいなら<br>最初からもっとちゃんとするんだな。,哼，要道歉的话<br>一开始就给我好好做啊。
+19,ルリア/露莉亚,はい……,是……
+20,ビィ/碧,なんでルリアまで、<br>反省してんだよ……,为什么连露莉亚都在反省啊……
+21,リヴァイ,もういい。<br>お前に期待した俺が馬鹿だった。<br>どけ、掃除の続きをやる。,算了。<br>对你们抱有期待是我太蠢了。<br>走开，我要继续扫除了。
+22,,<span class='scene-font-katari'>その時、操舵室のラカムによって、</span><br><span class='scene-font-katari'>目的地が見えて来たとの</span><br><span class='scene-font-katari'>情報がもたらされる。</span>,<span class='scene-font-katari'>此时，在操舵室里的拉卡姆传来了目的地就在前方的消息。</span>
+23,リヴァイ,…………,…………
+29,,<span class='scene-font-katari'>騎空艇の甲板に飛び出した</span><br><span class='scene-font-katari'>リヴァイは、眼下に広がる島を見て、</span><br><span class='scene-font-katari'>胸を熱くさせる。</span>,<span class='scene-font-katari'>利威尔来到骑空艇的甲板上，</span><br><span class='scene-font-katari'>リ俯瞰着广阔的岛屿，</span><br><span class='scene-font-katari'>胸口情不自禁地变得炽热了起来。</span>
+30,リヴァイ,……これが、<br>俺達の国とは違う、別の島……,……这就是，<br>与我们的国家不同的，其他的岛屿……
+31,ビィ/碧,ここはちょっと小さめの島だけどよ、<br>空にはもっともっと大きくて、<br>栄えた島がたくさんあるんだぜ。,这还是个有点小的岛屿呢，<br>在整片空域，<br>还有很多更大更繁荣的岛哦。
+32,リヴァイ,そうか……,这样啊……
+33,リヴァイ,<span class='scene-font-kokoro'>（壁の外は……</span><br><span class='scene-font-kokoro'>この空のように</span><br><span class='scene-font-kokoro'>果てしなく広いんだな……）</span>,<span class='scene-font-kokoro'>（墙壁的外面……</span><br><span class='scene-font-kokoro'>也像这片天空一样</span><br><span class='scene-font-kokoro'>无限地广阔啊……）</span>
+34,リヴァイ,<span class='scene-font-kokoro'>（エルヴィン、お前が</span><br><span class='scene-font-kokoro'>願ってやまなかった外の世界が今、</span><span class='scene-font-kokoro'>俺の目の前にあるぞ……）</span>,<span class='scene-font-kokoro'>（埃尔文，</span><br><span class='scene-font-kokoro'>你所追寻的墙外的世界，</span><br><span class='scene-font-kokoro'>如今就在我的眼前……）</span>
+35,リヴァイ,……悪くない。,……不赖嘛。
+36,,<span class='scene-font-katari'>リヴァイは空を見上げ、</span><br><span class='scene-font-katari'>そうポツリと呟いた。</span>,<span class='scene-font-katari'>利威尔仰望着天空，</span><br><span class='scene-font-katari'>自言自语道。</span>
+42,エルヴィン,……これは命令だ。,……这是命令。
+43,リヴァイ,だから、断ると言っている。,所以我拒绝。
+44,エルヴィン,…………,…………
+45,リヴァイ,外の世界を知ることは、<br>お前の悲願だったんじゃねぇのか？,知晓墙外的世界，<br>不是你苦苦追寻的愿望吗？
+46,リヴァイ,今、それを叶えるチャンスが<br>目の前に転がってるんだ。,现在，实现它的机会已经来到你的眼前了。
+47,リヴァイ,俺じゃなく、<br>エルヴィン、お前が行くべきだ。,所以不应该是我，<br>应该由你去啊，埃尔文。
+48,エルヴィン,……死んでいった仲間達は、<br>我々のことを見ている……,：……逝去的战友们，<br>如今正在看着我们……
+49,エルヴィン,捧げた心臓がどうなったのか、<br>それを知りたがっている。だからこそ、<br>私はここに残り、成すべき任がある。,我想知道，<br>他们所献上的心脏如今怎样了。所以，<br>我就留在这里，这里还有我必须要完成的任务。
+50,エルヴィン,それが調査兵団の団長としての責務だ。<br>リヴァイ……頼む。我々に有益な情報を<br>持ち帰って来てくれ。,这是我作为调查兵团团长的责任。<br>利威尔……拜托了，请带着对我们有益的情报回来吧。
+51,,<span class='scene-font-katari'>自らの悲願を果たすことよりも、</span><br><span class='scene-font-katari'>団長として国を守る決断を下した</span><br><span class='scene-font-katari'>エルヴィン。</span>,<span class='scene-font-katari'>比起实现自身的愿望，</span><br><span class='scene-font-katari'>埃尔文作为团长，</span><br><span class='scene-font-katari'>做出了保护国家的决定。</span>
+52,,<span class='scene-font-katari'>その時リヴァイは、エルヴィンの</span><br><span class='scene-font-katari'>固く握りしめられたままの拳を</span><br><span class='scene-font-katari'>じっと見つめていた。</span>,<span class='scene-font-katari'>利威尔却死死盯着埃尔文紧握着的拳头。</span>
+53,リヴァイ,<span class='scene-font-kokoro'>（必死こいて我慢しやがって……）</span>,<span class='scene-font-kokoro'>（明明就在拼命忍耐……）</span>
+54,リヴァイ,……了解した。<br>お前の代わりに<br>外の世界を見て来てやる。,……知道了。<br>我就代替你去看墙外的世界吧。
+60,,<span class='scene-font-katari'>物資調達のため、</span><br><span class='scene-font-katari'>小高い山々が連なる島へと着陸する</span><br><span class='scene-font-katari'>姬塔一行。</span>,<span class='scene-font-katari'>姬塔一行为了采购物资，</span><br><span class='scene-font-katari'>在有着连绵山脉的小岛上着陆了。</span>
+61,,<span class='scene-font-katari'>初めて別の島に降り立ったリヴァイは、</span><br><span class='scene-font-katari'>好奇心に溢れた様子で、きょろきょろと</span><br><span class='scene-font-katari'>あちこちを見て回る。</span>,<span class='scene-font-katari'>第一次来到其他岛屿的利威尔，</span><br><span class='scene-font-katari'>一副好奇心满满的样子，</span><br><span class='scene-font-katari'>向四处不停地张望。</span>
+62,リヴァイ,<span class='scene-font-kokoro'>（これが……壁のない世界か……）</span>,<span class='scene-font-kokoro'>（这就是……没有墙壁的世界吗……）</span>
+67,リヴァイ,…………,…………
+68,ビィ/碧,ん？<br>兵長の兄ちゃん、どうかしたのか？,嗯？<br>兵长小哥，怎么了？
+69,リヴァイ,この島は……壁も無ければ<br>巨人の脅威に怯える必要もない。,这个岛……没有墙壁的话，<br>也没必要担心巨人的威胁了。
+70,リヴァイ,にも関わらず、<br>この騒然とした気配はなんだ……？,但是，这个不安的气氛是怎么回事……？
+71,ビィ/碧,そう言われてみると、<br>確かにそんな感じもするような……<br>ルリア、何か気づいたか？,你这么一说，确实有这样的感觉呢……<br>露莉亚，你感觉到什么了吗？
+72,ルリア/露莉亚,う～ん……<br>でもリヴァイさんが言うことも<br>なんとなくわかると言うか……,嗯~……<br>但是利威尔先生说的事情我好像也能明白……
+77,ルリア/露莉亚,……そういえば、<br>さっきから大人の男性の姿を<br>見かけてません！,……说起来，<br>从刚刚开始就没有看到成年男性！
+78,リヴァイ,戦時下でもないってのに、<br>どういうわけだ？,这也不是在战争时期，<br>怎么回事？
+79,ルリア/露莉亚,とにかく、<br>皆さんに話を聞いてみましょう！,总之，<br>先试着问问大家吧！
+83,,<span class='scene-font-katari'>道ゆく女性に、何故大人の男性の姿が</span><br><span class='scene-font-katari'>見られないのか疑問を投げかける</span><br><span class='scene-font-katari'>姬塔一行。</span>,<span class='scene-font-katari'>姬塔一行向街上的女性问到，</span><br><span class='scene-font-katari'>为什么街上没有成年男性的身影。</span>
+84,,<span class='scene-font-katari'>そこでわかったことは、男達は総出で</span><br><span class='scene-font-katari'>島の特産品であるウットリュフを</span><br><span class='scene-font-katari'>山に採りに出かけたということだった。</span>,<span class='scene-font-katari'>他们了解到，</span><br><span class='scene-font-katari'>所有的男人都去山里采集岛的特产乌特鲁夫了。</span>
+85,女性,……ですので、<br>今この島に残っているのは、<br>女性と子供達だけというわけなんです。,……所以，<br>现在留在这个岛里的，<br>就只有女人与小孩了。
+86,ビィ/碧,へぇ、ウットリュフが名産なのか！<br>なぁなぁ、食堂に行ってみようぜ！,诶，这个岛的特产是乌特鲁夫啊！<br>喂喂，我们去食堂吧！
+87,ルリア/露莉亚,はい！,好！
+88,リヴァイ,待て。<br>まだ話は終わっていない。,等等。<br>我还没说完。
+89,ビィ/碧,え？,诶？
+90,リヴァイ,男達が山に名産を採りに<br>行っただけなら……何故お前達は、<br>そんなにもそわそわしている？,男人们去山里采集特产了是吧…<br>那你们为什么要这么紧张？
+91,女性,え？　べ、別にそわそわなんて……,诶？我，我们哪有在紧张……
+92,リヴァイ,…………,…………
+93,女性,そ、それは……,这，这是……
+95,,<span class='scene-font-katari'>その時、山々から大きな地響きが</span><br><span class='scene-font-katari'>聞こえたかと思うと、</span><br><span class='scene-font-katari'>島全体が揺れ動き、土煙が舞う。</span>,<span class='scene-font-katari'>这时，一行人听到了山中传来了巨大的声响。</span><br><span class='scene-font-katari'>顷刻过后，整个岛屿开始摇晃，</span><br><span class='scene-font-katari'>地面上扬起了烟尘。</span>
+96,ルリア/露莉亚,きゃぁっ！,呀！
+97,ビィ/碧,おいおい、一体どうしたってんだよっ！,喂喂，到底怎么了！
+98,老婆/老婆婆,あ、ああ……山の主様がお怒りじゃ……<br>あやつら、主様を<br>怒らせるようなことをしたのでは……,啊，啊啊……山之主发怒了……<br>那些家伙，做了让主人生气的事情啊……
+99,リヴァイ,山の主……？<br>オイ、お前達何を隠してるんだ？,山之主……？<br>喂，你们在隐瞒些什么？
+100,老婆/老婆婆,ひっ！　あ、いや……,噫！　啊，没什么……
+101,ビィ/碧,兵長の兄ちゃん、やめろって！<br>婆ちゃんが怖がってるだろ？,兵长小哥快住手！<br>你吓到婆婆了！
+102,リヴァイ,チッ……,啧……
+103,ルリア/露莉亚,もしかしたら、私達には<br>話せないことがあるのかも知れません。,说不定，是有什么不能和我们说的事。
+104,ルリア/露莉亚,お婆さん、そうなんですよね？,老婆婆，是这样吗？
+105,老婆/老婆婆,…………,…………
+106,ルリア/露莉亚,あの山で何か起きたのは<br>間違いないと思うんです。ですから、<br>私達で見に行ってみませんか？,在那座山里一定发生了什么事。<br>所以，能让我们去看看情况吗？
+107,,<span class='scene-font-katari'>ルリアの提案を受け、</span><br><span class='scene-font-katari'>山に向かうことを決意する</span><br><span class='scene-font-katari'>姬塔。</span>,<span class='scene-font-katari'>姬塔接受了露莉亚的提议，</span><br><span class='scene-font-katari'>决定去向山中。</span>
+108,老婆/老婆婆,今、山に行くのはおよし……<br>何が起こるかわからないよ。,现在还是不要去山里了……<br>谁也不知道你们会遇上什么哦。
+109,女性,お婆さん！,老婆婆！
+110,老婆/老婆婆,旅の人達が巻き込まれでもしたら……,如果把旅人们卷进来的话就糟了……
+111,ビィ/碧,へへっ、婆ちゃん心配するなって！<br>オイラ達、騎空士なんだからよ！,嘿嘿，老婆婆别担心！<br>我们可是骑空士啊！
+112,老婆/老婆婆,あらまぁ、騎空士さんなのかい？,啊呀，原来你们是骑空士吗？
+113,老婆/老婆婆,すまないねぇ……何も教えることは<br>できないけど、どうか……<br>山に向かった男達を助けておくれ……,抱歉……虽然我什么都无法告诉你们<br>但是……还请救救去到山里的男人们……
+114,ビィ/碧,おう！<br>オイラ達に任せておけってんだ！,噢！<br>就交给我们吧！
+115,リヴァイ,<span class='scene-font-kokoro'>（理由も話さないヤツら相手に……</span><br><span class='scene-font-kokoro'>とんだお人よしだな……）</span>,<span class='scene-font-kokoro'>（对着连理由都不能说的人还……</span><br><span class='scene-font-kokoro'>这群人到底是有多老好人啊……）</span>
+116,リヴァイ,<span class='scene-font-kokoro'>（やはり年端もいかないガキを</span><br><span class='scene-font-kokoro'>信用するってのは、難しいか……？）</span>,<span class='scene-font-kokoro'>（果然年幼的小鬼还是不可信吗……？）</span>
+117,,<span class='scene-font-katari'>様々な想いが交錯する中、</span><br><span class='scene-font-katari'>一行は不穏な気配が漂う山へと</span><br><span class='scene-font-katari'>足を踏み入れるのだった。</span>,<span class='scene-font-katari'>各种各样的想法交错着，</span><br><span class='scene-font-katari'>一行人向着弥漫着不安稳气氛的山前进了。</span>
+info,,,scene_chr423_q1_s10

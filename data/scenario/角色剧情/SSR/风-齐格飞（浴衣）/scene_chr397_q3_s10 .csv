@@ -1,0 +1,36 @@
+id,name,text,trans
+0-chapter_name,,夏の子供達,夏日的孩子们
+0-synopsis,,姬塔一行は、光華祭を見物してから帰ることにするが、打ち上げ時刻を過ぎても光華玉が打ち上がる気配はない。ジークフリートが現場の様子を見に行くと、沖合に魔物が現れたせいで、打ち上げができない状況だという。ジークフリートは光華祭を妨げている魔物を倒すべく、沖合へと船をこぎ出す。,姬塔一行人决定观赏烟花祭后再回去，但是开始时间已经过去也不见烟花的影子。齐格飞前去现场查看，发现是因为海上出现了魔物，导致无法发射烟花。齐格飞决定打倒妨碍烟花祭的魔物，划船前往海上。
+1,,<span class='scene-font-katari'>帰路に就く途中の一行は、</span><br><span class='scene-font-katari'>浜辺に集まった光華祭の</span><br><span class='scene-font-katari'>見物客に遭遇する。</span>,<span class='scene-font-katari'>一行人在往回走的路上，</span><br><span class='scene-font-katari'>遇到了聚集在海边的，</span><br><span class='scene-font-katari'>烟花祭的观光客们。</span>
+2,,<span class='scene-font-katari'>せっかくなので、一行も</span><br><span class='scene-font-katari'>光華祭を見物してから帰ろう</span><br><span class='scene-font-katari'>ということになった。</span>,<span class='scene-font-katari'>机会难得，一行人也打算在观赏过烟花祭后，再回到住处。</span>
+3,,<span class='scene-font-katari'>だが、打ち上げ時刻を過ぎても</span><br><span class='scene-font-katari'>一向に光華玉が打ち上げられる</span><br><span class='scene-font-katari'>気配は無いのだった。</span>,<span class='scene-font-katari'>但是，等到开始时间都过了，</span><br><span class='scene-font-katari'>烟花却完全没有要开始的样子。</span>
+4,サラ/莎拉,う～ん……<br>まだ上がらないですね。,嗯……<br>还没开始放呢。
+5,ダヌア,たまぁ……？,烟花……？
+6,ジークフリート/齐格飞,ふむ……<br>もう打ち上げの時刻は<br>とっくに過ぎているはずなんだが。,嗯……<br>开始放烟花的时间应该早就过了。
+7,ヘンゼル,ん？　向こうで人だかりが<br>出来ている様だな。,嗯？　那边好像聚集了很多人。
+8,ジークフリート/齐格飞,ふむ……<br>俺が様子を見に行こう。,嗯……<br>我去看看吧。
+9,ジークフリート/齐格飞,ここは姬塔に<br>任せてもいいか？,这里就交给姬塔可以吗？
+10,,<span class='scene-font-katari'>ジークフリートの言葉に</span><br><span class='scene-font-katari'>深く頷く姬塔。</span>,<span class='scene-font-katari'>姬塔对齐格飞用力地点了点头。</span>
+11,ジークフリート/齐格飞,すぐ戻る。,我马上回来。
+12,,<span class='scene-font-katari'>そのままジークフリートは、</span><br><span class='scene-font-katari'>人混みの中へと消えて行った。</span>,<span class='scene-font-katari'>齐格飞就那样，</span><br><span class='scene-font-katari'>消失在了人群之中。</span>
+18,光華祭実行委員１,沖合に魔物が現れちゃ、<br>光華祭は中止にするしかねぇな。,近海出现了魔物的话，<br>也只能终止烟花祭了。
+19,光華祭実行委員２,ああ、下手に刺激したら<br>船を沈められかねないからな。,是啊，要是不小心刺激到它们，<br>船说不定都得沉。
+20,ジークフリート/齐格飞,ふむ……なるほど。<br>大体の事情はわかった。,哼……原来如此。<br>我明白了。
+21,光華祭実行委員１,あ、あんたは誰だ？,你，你是谁？
+22,ジークフリート/齐格飞,通りすがりの者だ。<br>だが諦めるにはまだ早いぞ？,我就是个路过的。<br>但是你们要放弃还太早了噢？
+23,光華祭実行委員２,なっ、素人が何言ってんだ！<br>お前さんあの魔物を見てないから──,什，外行人在这说什么呢！<br>你只是还没见过那个魔物而已——
+24,ジークフリート/齐格飞,船は……ここか。<br>少し借りるぞ。,船……在这啊。<br>稍微借用一下。
+26,光華祭実行委員１,おい！　話を聞けっての！！,喂！　听人讲话啊！！
+27,,<span class='scene-font-katari'>光華祭実行委員の制止も聞かず、</span><br><span class='scene-font-katari'>沖合へ船をこぎ出す</span><br><span class='scene-font-katari'>ジークフリート。</span>,<span class='scene-font-katari'>齐格飞不听烟花祭执行委员的制止，</span><br><span class='scene-font-katari'>乘船朝海上划去。</span>
+28,光華祭実行委員２,行っちまいやがった……,他已经划远了……
+33,,<span class='scene-font-katari'>沖合へ出たジークフリートは、</span><br><span class='scene-font-katari'>光華師達の船の元へ近づく。</span>,<span class='scene-font-katari'>朝着海上前进的齐格飞逐渐向其它烟花师的船靠近。</span>
+34,ジークフリート/齐格飞,さて……<br>大体この辺りか？,好……<br>大概是这一块吧？
+35,光華師,お、お前さん！<br>そんな軽装で何しに来たんだ！,你，你啊！<br>穿成这样来这干嘛呢！
+36,ジークフリート/齐格飞,光華祭の妨げになる<br>魔物を倒しに来た。,我是来打倒妨碍烟花祭的魔物的。
+37,光華師,ばっ！　馬鹿いうな！<br>悪いことは言わん！<br>早くそこから逃げろ！,别！ 别说傻话了！<br>我不会害你的！<br>快点逃走吧！
+38,光華師,……ん？<br><span class='scene-font-4'>でっ、出たぞー！</span>,……嗯？<br><span class='scene-font-4'>出，出来了！</span>
+43,軍艦蟹,ブクブクブク……,咕噜咕噜咕噜……
+44,ジークフリート/齐格飞,さて、お前に恨みは無いが、<br>光華祭を楽しみに待っている<br>者達がいるのでな。,虽然和你无仇无怨，<br>但是还有很多期待着烟花祭的人们在呢。
+45,軍艦蟹,<span class='scene-font-4'>ブクブクッ！？</span>,<span class='scene-font-4'>咕噜咕噜！？</span>
+47,ジークフリート/齐格飞,悪いがここは<br>お引き取り願おう。<br><span class='scene-font-4'>行くぞッ！</span>,抱歉。<br>这里还要请你回避一下了！</span>
+info,,,scene_chr397_q3_s10

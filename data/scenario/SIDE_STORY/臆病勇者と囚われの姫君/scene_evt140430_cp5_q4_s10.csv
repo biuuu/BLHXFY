@@ -1,0 +1,11 @@
+﻿id,name,text,trans
+0-chapter_name,,第5話 二人の故郷,
+0-synopsis,,ようやく<span class='scene-font-place'>バルツ公国</span>に到着した姬塔一行。しかし、慣れ親しんだ街並みは見る影もなく、至るところに魔物が跋扈し、逃げ惑う人々で埋め尽くされていたのだった。,姬塔一行人终于抵达了<span class='scene-font-place'>瓦尔兹公国</span>。但是，熟悉亲切的街道上却见不到人影，到处都是嚣张跋扈的魔物，四处逃窜的人群。
+3,アリーザ/阿丽莎,さぁ、着いた着いた！<br>この空気……<br>ずいぶん久しぶりに感じるなー！,呀，到了到了！这空气……好久没有感受到了！
+4,ルリア/露莉亚,アリーザさん！<br>アリーザさんのお家は、<br>街から近いですか？,阿丽莎！阿丽莎的家离街道近吗？
+5,アリーザ/阿丽莎,にゃはははっ！<br>待ちきれないって感じだね！<br>それじゃ、さっそくあたしの家まで――,nya哈哈！感觉都等不及了！那么，赶紧去我家——
+6,アリーザ/阿丽莎,――っ！？,——嗯！？
+7,アリーザ/阿丽莎,って……<br>な、なんだよ、これ……！！,喂……怎、怎么回事，这个……！！
+16,,<span class='scene-font-katari'>スタンとアリーザの故郷、</span><span class='scene-font-place'>バルツ公国。</span><br><span class='scene-font-katari'>日夜を問わず工場が稼働し、</span><br><span class='scene-font-katari'>街には活気が満ち溢れている。</span>,<span class='scene-font-katari'>斯坦和阿丽莎的故乡，</span><span class='scene-font-place'>瓦尔兹公国</span>。<span class='scene-font-katari'>原本这里的工厂不论日夜都在运转，繁闹的街市时刻充满着活力。</span>
+17,,<span class='scene-font-katari'>しかし、いまその街並みは、</span><br><span class='scene-font-katari'>逃げ惑う人々で埋め尽くされ、</span><br><span class='scene-font-katari'>至るところに魔物が跋扈していた。</span>,<span class='scene-font-katari'>但是，现在的街道上，四散的人们到处逃跑，到处都是张扬的魔物。</span>
+info,,,scene_evt140430_cp5_q4_s10

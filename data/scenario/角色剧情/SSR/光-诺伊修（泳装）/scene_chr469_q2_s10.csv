@@ -20,7 +20,7 @@ id,name,text,trans
 17,ビィ/碧,あっ！　本当だ！,啊！　真的诶！
 20,,<span class='scene-font-katari'>ベアトリクスは「組織」に所属し、</span><br><span class='scene-font-katari'>エムブラスクの剣を携え</span><br><span class='scene-font-katari'>星晶獣をも討伐する剣士である。</span>,<span class='scene-font-katari'>贝阿朵丽丝从属于「组织」</span><br><span class='scene-font-katari'>是带着穆布拉斯克之剑</span><br><span class='scene-font-katari'>讨伐星晶兽的剑士。</span>
 21,,<span class='scene-font-katari'>姬塔達は以前、</span><br><span class='scene-font-katari'>彼女と共に星晶獣がらみの事件を</span><br><span class='scene-font-katari'>解決したことがあるのだった。</span>,<span class='scene-font-katari'>姬塔她们以前，</span><br><span class='scene-font-katari'>和她一起解决了</span><br><span class='scene-font-katari'>有关星晶兽的事件。</span>
-26,ビィ/碧,お～い、青い姉ちゃん～！<br>何やってんだ～？,喂～，幼稚的姐姐～！<br>你在干什么呢～？
+26,ビィ/碧,お～い、青い姉ちゃん～！<br>何やってんだ～？,喂～，蓝色的姐姐～！<br>你在干什么呢～？
 27,ベアトリクス/贝阿朵丽丝,あっ、姬塔！<br>見ての通り、店番だよ。,啊，姬塔！<br>如你们所见，我在看店呦。
 28,ベアトリクス/贝阿朵丽丝,魚がほとんど売れちゃってさ、<br>倉庫に次の分の魚を取りに行く間<br>店を頼まれたんだ。,因为鱼差不多卖完了<br>店主就去仓库拿鱼了<br>拜托我在他离开的期间看店。
 29,ベアトリクス/贝阿朵丽丝,えへへ、<br>お小遣いも貰っちゃったし、<br>しょうがないから引き受けたんだ。,诶嘿嘿，<br>因为可以拿到点零花钱<br>所以我就勉勉强强的接受了。
@@ -51,7 +51,7 @@ id,name,text,trans
 55,ビィ/碧,はむっ……,嚼嚼……
 56,ビィ・セルエル/碧・塞鲁艾尔,<span class='scene-font-4'>甘い！？</span>,<span class='scene-font-4'>好甜！？</span>
 57,ベアトリクス/贝阿朵丽丝,<span class='scene-font-4'>え、ええっ！？</span><br>なんで、どうしてだ～～～！？,<span class='scene-font-4'>诶，诶诶！？</span><br>怎么会，为什么～～～！？
-58,ビィ/碧,うぅ、そういや青い姉ちゃんの料理って<br>なんでか全部<br>甘くなっちまうんだった……,呜呜，是说为什么幼稚的姐姐的料理<br>总是会变得好甜哦……
+58,ビィ/碧,うぅ、そういや青い姉ちゃんの料理って<br>なんでか全部<br>甘くなっちまうんだった……,呜呜，是说为什么蓝色的姐姐的料理<br>总是会变得好甜哦……
 59,セルエル/塞鲁艾尔,……塩味だと思って口にすると、<br>驚かされますね……,……还以为是咸味的<br>结果吃了吓了一跳……
 60,ベアトリクス/贝阿朵丽丝,そ、そんなぁ……<br>ノイシュが美味しいって言うから<br>普通に焼けたのかと思ったのにぃ……,怎，怎么会……<br>因为诺伊修说好吃的<br>我还以为正常地烤了的……
 61,ヘルエス/赫尔艾斯,…………ノイシュの舌は、<br>『美味しい』の幅が<br>ずいぶんと広いのです。,…………诺伊修的舌头，<br>对『好吃』的范围<br>界定太广了呢。

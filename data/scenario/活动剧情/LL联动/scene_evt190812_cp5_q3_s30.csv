@@ -1,0 +1,24 @@
+id,name,text,trans
+0-chapter_name,,#5 ワンダーゾーン？,#5 Wonder Zone？
+0-synopsis,,魔物達を退けた一行。魔物の口ぶりから、魔物達は何者かに命令されてμ'sを襲っており、戦う事自体が目的なのではと一行が話し合っていると、突然目もくらむような光が一行を包み込み、姬塔達と穂乃果達は離れ離れになってしまうのだった。,一行人击退了魔物们。听魔物的话，它们似乎是听了什么人的命令才袭击μ’s，似乎战斗本身才是它们的目的。一行人正讨论着，突然出现了刺眼的强光，将所有人包围，姬塔等人和穗乃果她们被强行分开了。
+5,異界の魔物/异界的魔物,ぐ……ふ……<br>くくく……<br>聞くに勝りし豪傑よのう……,咕……呼……<br>呵呵呵……<br>还真是比传闻中更善战的豪杰啊……
+5-sel1_txt,,<span class='scene-font-katari'>なぜ戦う？</span>,<span class='scene-font-katari'>为什么要战斗？</span>
+5-sel2_txt,,<span class='scene-font-katari'>なぜホノカ達を狙う？</span>,<span class='scene-font-katari'>为什么要以穗乃果她们为目标？</span>
+6,異界の魔物/异界的魔物,	我らはお方様の精兵よ……<br>	戦わずしてなんとする……,　我等可是那位大人的精兵……<br>　不去战斗那还做什么……
+7,異界の魔物/异界的魔物,	これで、お方様の悲願に<br>	また一歩……,　这样，那位大人的悲愿就<br>　又前进了一步……
+8,異界の魔物/异界的魔物,	お方様の命よ……<br>	あの方が、再び……世に……,　是那位大人的命令……<br>　那位大人，务必……要再次降临于世……
+9,異界の魔物/异界的魔物,くくく……<br>姬塔と申したか……<br>その剣、しかと味わったぞ……,呵呵呵……<br>你叫做姬塔吗……<br>那把剑，有点意思呢……
+14,希,お方様、か……,那位大人，吗……
+15,絵里/绘里,この妖怪達は誰かに命令されて<br>私達を狙っているの？,这些妖怪是受了谁的命令<br>才以我们为目标的吗？
+16,ビィ/碧,そうみてえだけど……なんつうか、<br>何かが狙いってわけじゃなくて<br>戦う事自体が目的みてえな感じあるな。,似乎是这样的……感觉怎么说，<br>好像不是以你们为目标<br>感觉和你们战斗才是目的的样子。
+17,ルリア/露莉亚,この星晶獣も、<br>そうなのかもしれません。,这个星晶兽，<br>可能也是如此。
+18,ルリア/露莉亚,ずっと私達を見ていて、<br>戦いが起きるたびに、なにか、意思が<br>固まっていくような様子があって。,一直看着我们，<br>当发生战斗时，感觉，意识<br>就又变得更加凝练的样子了。
+19,アイナ/爱娜,意思が、固まっていく……？,意识，变得更加凝练……？
+20,メドゥーサ/美杜莎,ちょっとそれ、詳しく──,等等那个，讲的再更详细一──
+28,,<span class='scene-font-katari'>なにかの答えが見えようとした</span><br><span class='scene-font-katari'>その時、目もくらむような光が</span><br><span class='scene-font-katari'>姬塔達を包み込む。</span>,<span class='scene-font-katari'>当正准备问清楚这个问题的答案时</span><br><span class='scene-font-katari'>那个时候，刺眼的强光</span><br><span class='scene-font-katari'>把姬塔一行人吞没了进去。</span>
+29,穂乃果,え？　え？<br>なにこれ！？　私達、浮いてる！？,诶？　诶？<br>这是什么！？　我们，飘起来了！？
+30,にこ/妮可,<span class='scene-font-4'>もーーーー！</span><br>何が起こってるのよ！,<span class='scene-font-4'>真是的ーーーー！</span><br>到底发生了什么啊！
+31,,<span class='scene-font-katari'>次第に穂乃果達の声が遠くなっていく。</span><br><span class='scene-font-katari'>慌てて声のする方へと手を伸ばす</span><br><span class='scene-font-katari'>姬塔だったが──</span>,<span class='scene-font-katari'>穗乃果等人的声音逐渐远去。</span><br><span class='scene-font-katari'>姬塔向着发出慌张声音的方向</span><br><span class='scene-font-katari'>伸出了手──</span>
+35,穂乃果,姬塔さん──,姬塔小姐──
+43,,<span class='scene-font-katari'>その手は空を切り、</span><br><span class='scene-font-katari'>少女達の声は消えてしまった。</span>,<span class='scene-font-katari'>但那只手却挥了个空，</span><br><span class='scene-font-katari'>少女们的声音逐渐消失了。</span>
+info,,,scene_evt190812_cp5_q3_s30

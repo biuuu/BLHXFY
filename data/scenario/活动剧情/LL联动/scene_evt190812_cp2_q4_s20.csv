@@ -1,0 +1,96 @@
+id,name,text,trans
+0-chapter_name,,#2 みんなで始めよう！,#2 大家一起开始吧！
+0-synopsis,,辿り着いた<span class='scene-font-place'>ポート・ブリーズ</span>で、穂乃果達の世界で何十年も前に出版されたアイドルを特集した雑誌を見つけた一行。アイナは、穂乃果達にとって過去の人達が、星晶獣によってこの世界に呼ばれていたのかもしれない、と語る。その後<span class='scene-font-place'>ポート・ブリーズ</span>に移住したテナシーの住人達を呼び戻すためライブを行った一行だったが、やはり星晶獣の気配と共に魔物が現れる。,辿り着いた<span class='scene-font-place'>ポート・ブリーズ</span>で、穂乃果達の世界で何十年も前に出版されたアイドルを特集した雑誌を見つけた一行。アイナは、穂乃果達にとって過去の人達が、星晶獣によってこの世界に呼ばれていたのかもしれない、と語る。その後<span class='scene-font-place'>ポート・ブリーズ</span>に移住したテナシーの住人達を呼び戻すためライブを行った一行だったが、やはり星晶獣の気配と共に魔物が現れる。
+2,魔物,ぬううううううん……,呶呜呜呜呜呜呜呜……
+3,花陽/花阳,た……たすけてー！,快……快救救我ー！
+4,真姫,もう！<br>どうしてまたこんな事に<br>なってんのよ！,真是的！<br>为什么这样的事情<br>又发生了啊！
+5,,<span class='scene-font-place'>ポート・ブリーズ</span><span class='scene-font-katari'>に移住した</span><br><span class='scene-font-katari'>テナシーの住人達を呼び戻すための</span><br><span class='scene-font-katari'>ライブを計画した一行であったが……</span>,<span class='scene-font-katari'>虽然是为了叫回移居到</span><span class='scene-font-place'>微风港</span><span class='scene-font-katari'>的</span><br><span class='scene-font-katari'>特纳西的人们</span><br><span class='scene-font-katari'>大家才计划举办Live的……</span>
+6,,<span class='scene-font-katari'>思わぬ事態によって、</span><br><span class='scene-font-katari'>中断を余儀なくされていた。</span>,<span class='scene-font-katari'>但是因为意想不到的事态，</span><br><span class='scene-font-katari'>现在被迫中断了。</span>
+7,魔物,ぬうううううお……,呶呜呜呜呜呜哦……
+8,アテナ/雅典娜,くっ……！<br>またこの魔物達ですか！,唔……！<br>又是这群魔物吗！
+9,ビィ/碧,ど、どういうことだよ！<br>気味の悪いのがあっちにもこっちにも！<br>何者なんだこいつら！,这，这是怎么回事啊！<br>讨厌的家伙这里也有那里也有！<br>这到底是什么东西啊！
+10,魔物,みぅ……ず……,μ'……s……
+11,アイナ/爱娜,μ's……？<br>魔物は、ホノカ達を狙ってる……？,μ's……？<br>魔物的目标，是穗乃果她们……？
+12,アテナ/雅典娜,ええ。私達を避け彼女達に<br>向かっていきます。正体はともかく<br>狙いが明らかであれば対処もできます。,嗯。直接避开了我们<br>直冲到她们那边去了。到底是什么先不论<br>知道对方的目的了的话也能找到对策了。
+13,アテナ/雅典娜,メドゥーサ！　姬塔さん！<br>ホノカさん達を囲んで防衛を！,美杜莎！　姬塔！<br>把穗乃果她们围着保护起来！
+14,メドゥーサ/美杜莎,やってやるわよ！,就让你见识见识！
+15,メドゥーサ/美杜莎,メドゥシアナ！<br>あの魔物どもをおやつ代わりに<br>いただいちゃいなさい！,美杜希安娜！<br>把那些魔物<br>就当做零食吃了吧！
+16,メドゥシアナ/美杜希安娜,<span class='scene-font-4'>ゴオオオオオオッ！</span>,<span class='scene-font-4'>吼噢噢噢噢噢噢！</span>
+17,アテナ/雅典娜,<span class='scene-font-kokoro'>（この魔物達が、なぜ現れたのか……</span><br><span class='scene-font-kokoro'>どこかにきっかけがあるはず）</span>,<span class='scene-font-kokoro'>（这些魔物，为什么会出现……</span><br><span class='scene-font-kokoro'>一定在哪里会有契机的）</span>
+18,アテナ/雅典娜,<span class='scene-font-kokoro'>（出現の瞬間を、</span><br><span class='scene-font-kokoro'>もう一度思い出さないと）</span>,<span class='scene-font-kokoro'>（再好好回忆一下，</span><br><span class='scene-font-kokoro'>它们出现的瞬间吧）</span>
+19,アテナ/雅典娜,<span class='scene-font-4'>はああああっ！</span>,<span class='scene-font-4'>哈啊啊啊啊…！</span>
+20,,<span class='scene-font-katari'>アテナの脳裏に、</span><br><span class='scene-font-katari'>一行が</span><span class='scene-font-place'>ポート・ブリーズ</span><span class='scene-font-katari'>に到着した</span><br><span class='scene-font-katari'>直後の事が思い出される。</span>,<span class='scene-font-katari'>在雅典娜的脑海里，</span><br><span class='scene-font-katari'>回忆起了一行人刚刚到达</span><span class='scene-font-place'>微风港</span><span class='scene-font-katari'></span><br><span class='scene-font-katari'>之后的事。</span>
+26,９人,うわぁ……,呜哇……
+27,,<span class='scene-font-katari'>一行が到着した</span><span class='scene-font-place'>ポート・ブリーズ</span><span class='scene-font-katari'>。</span><br><span class='scene-font-katari'>交易が盛んなだけあって、</span><br><span class='scene-font-katari'>人通りも桁違いに多い。</span>,<span class='scene-font-katari'>一行人抵达了</span><span class='scene-font-place'>微风港</span><span class='scene-font-katari'>。</span><br><span class='scene-font-katari'>这里不仅仅交易繁盛，</span><br><span class='scene-font-katari'>过往行人也很多。</span>
+28,,<span class='scene-font-katari'>その様子に、少女達は</span><br><span class='scene-font-katari'>あっけにとられていた。</span>,<span class='scene-font-katari'>看到这副光景，少女们</span><br><span class='scene-font-katari'>目瞪口呆。</span>
+29,穂乃果,ひ、人多くない？<br>この世界、こんなに人いたんだ！？,人，人也太多了吧？<br>这个世界，也有这么多人吗！？
+30,海未,それにお店もたくさん……！,而且也有很多店铺……！
+31,ことり/小鸟,すごい……食べ物屋さんに本屋さん、<br>部品屋さんもあって、<br>なんだかアキバの街みたい……,好厉害……饭店还有书店、<br>连小饰品店也有，<br>总感觉就像秋叶原的街道一样……
+32,ルリア/露莉亚,コトリさん達の世界にも<br>こんな街があるんですか？,小鸟小姐的世界<br>也有这样的街道吗？
+33,ことり/小鸟,そうなの。<br>私も、よく穂乃果ちゃん達と<br>遊びにいくんだよ。,是的呢。<br>我也经常和穗乃果她们<br>一起去玩哦。
+34,穂乃果,思い出のいっぱいある街だよねえ。<br>あそこでA-RISEに出会わなかったら<br>スクールアイドルを始めてなかったし。,是一个充满了回忆的街道呢。<br>在那里没遇到A-RISE的话<br>也就不会开始做学园偶像了。
+35,ルリア/露莉亚,あらいず……？,二赖子……？
+36,花陽/花阳,A-RISE……それは数多く存在する<br>スクールアイドル達の頂点に君臨する<br>グループです！,A-RISE……那可是在众多<br>学园偶像们之间<br>君临顶点的团体！
+37,花陽/花阳,その歌唱力、パフォーマンス共に<br>トップレベル……第１回ラブライブ！を<br>ダントツで優勝した凄い人達なんです！,她们歌唱水平，和表演水平<br>都是顶级的……而且还是在第１回LoveLive！<br>就获得优胜，是非常厉害的人们！
+38,ルリア/露莉亚,な、なるほど……,原，原来如此……
+39,穂乃果,あはは……花陽ちゃん、<br>スクールアイドルの事になると<br>キャラ変わるんだよね……,啊哈哈……花阳，<br>一遇到和学园偶像有关的事<br>就会变个人呢……
+40,凛,凛はこっちの花陽ちんも好きだよ！,凛也喜欢这样的花阳亲哟！
+41,,<span class='scene-font-katari'>そんな話を交えつつ、</span><br><span class='scene-font-place'>ポート・ブリーズ</span><span class='scene-font-katari'>の街を</span><br><span class='scene-font-katari'>散策する一行。</span>,<span class='scene-font-katari'>就这样一边交谈，</span><br><span class='scene-font-katari'>一行人一边在</span><span class='scene-font-place'>微风港</span><span class='scene-font-katari'>的街道上</span><br><span class='scene-font-katari'>散着步。</span>
+42,,<span class='scene-font-katari'>半ばゲリラライブとなることから</span><br><span class='scene-font-katari'>いい場所がないかと</span><br><span class='scene-font-katari'>探していたのだが……</span>,<span class='scene-font-katari'>也有一半原因是要举办即兴Live</span><br><span class='scene-font-katari'>而在寻找有没有什么地方</span><br><span class='scene-font-katari'>比较合适……</span>
+48,花陽/花阳,た、大変っ！,不，不得了了…！
+49,凛,どうしたにゃ？,怎么了喵？
+50,花陽/花阳,街のお店で<br>すごいものを見つけちゃったの……！,在街道的店铺那边<br>我发现了很不得了的东西……！
+51,,<span class='scene-font-katari'>そう言って見せたのは、</span><br><span class='scene-font-katari'>真新しい１冊の雑誌だった。</span>,<span class='scene-font-katari'>这么说着看到的，</span><br><span class='scene-font-katari'>是一本全新的杂志。</span>
+52,ビィ/碧,何書いてあんだ？　これ……<br>ぜんぜん読めねえけど……,到底写了什么啊？　这个……<br>完全读不懂……
+53,花陽/花阳,これ、私達の世界で<br>発行されていた雑誌なんです。<br>しかも、なんと……,这个，是在我们的世界那边<br>发行的杂志。<br>而且，居然……
+54,花陽/花阳,世界で初めてアイドルを特集した<br>伝説の雑誌の第１号！<br>何十年も前に出版された超レア物です！,是世界上第一本偶像特辑<br>传说中的杂志的第１期！<br>这可是几十年前出版的超稀有品啊！
+55,絵里/绘里,ちょっと待って。<br>それっておかしくない？<br>そんなに昔の本に見えないわよ？,等等。<br>不觉得很奇怪吗？<br>这么久之前的书应该早就没了吧？
+56,希,ぜんぜん傷んでないし<br>まるで新品みたいやけど……,完全没有伤痕<br>简直就像新书一样……
+57,にこ/妮可,この雑誌の再販があったなんて話、<br>私は聞いたことないわよ？,这本杂志要再贩的消息，<br>我可完全没听说过啊？
+58,アイナ/爱娜,もしかすると、<br>貴方達から見て過去の人達が<br>この世界を訪れていたのかも……,难道说，<br>对你们来说的过去的人们<br>也访问了这个世界吗……
+59,アイナ/爱娜,きっと呼ばれたの。<br>ルリアが気配を感じた星晶獣に。,一定是被呼唤了。<br>被那只露莉亚感知到的星晶兽。
+60,アテナ/雅典娜,そのような星晶獣がいたとして、<br>何を目的に……というか、<br>何の役割を持ったものなのでしょう？,就算有这样的星晶兽，<br>究竟有什么目的……不如说，<br>究竟有什么职责呢？
+61,アイナ/爱娜,それがわかれば、<br>きっとホノカ達が元の世界に帰る<br>手がかりが見つかるはず……,要是明白了这个，<br>一定也能找到让穗乃果她们<br>回到原来世界的线索的……
+62,アテナ/雅典娜,だとすれば、<br>テナシーの街の人々を呼び戻す活動と<br>並行してその調査も行いたい所です。,既然这样的话，<br>我想与特纳西镇的人们的活动<br>进行的同时也一起进行调查。
+63,アイナ/爱娜,ええ……,嗯……
+68,,<span class='scene-font-katari'>そんな事を話しながら</span><br><span class='scene-font-katari'>街でビラを配る一行。</span>,<span class='scene-font-katari'>一行人一边交谈着</span><br><span class='scene-font-katari'>一边在街道上分发着传单。</span>
+69,,<span class='scene-font-katari'>そして集まったのは──</span>,<span class='scene-font-katari'>然后聚集到的是──</span>
+74,,<span class='scene-font-katari'>穂乃果達の想定を</span><br><span class='scene-font-katari'>はるかに超える群衆だった。</span>,<span class='scene-font-katari'>远超出穗乃果等人预想的</span><br><span class='scene-font-katari'>众多的人群。</span>
+75,凛,うわあ……<br>なんだかすごい事になってるにゃ……,呜哇……<br>好像变成了非常了不得的事了呢……
+76,穂乃果,体育館が<br>ぎっしり埋まっちゃう人数だね……,是能够把体育馆<br>给塞得满满的人数呢……
+77,海未,どうやら、<span class='scene-font-place'>ルーマシー</span>での<br>ライブの様子が、よろず屋さん達の<br>情報網で伝わっていたらしく……,看样子，是在<span class='scene-font-place'>露玛希</span>举办<br>Live的事情，已经通过<br>万事屋们的情报网宣传出去了……
+78,メドゥーサ/美杜莎,この島にいるのは商人だとか、<br>珍しいものに目がない人間が多いから<br>みんな気になって来たってわけね。,在这个岛的商人之类的，<br>很多都喜欢看些新鲜玩意儿<br>大家都很在意所以就过来看看了。
+79,女性１,こ、この人数の前で歌うのは<br>さすがに……,要，要在这么多的人数面前唱歌的话<br>实在有点……
+80,穂乃果,大丈夫だよ！　もうみんな<br>１回ライブやってるんだよ？,没关系的！　大家都已经<br>办过１回Live了呀？
+81,穂乃果,お客さんが10人でも1000人でも<br>ライブはライブだから！,无论客人是10人还是1000人<br>Live还是Live呀！
+82,女性１,うう……<br>そうなんですけど……,呜呜……<br>虽然是这样……
+83,にこ/妮可,さすがに今回は<br>私達が一番手になるしか<br>ないんじゃないの？,看来这回的话<br>我们必须要<br>第一个上场的样子了呢？
+84,凛,規模が大きくなっても、<br>ライブはライブだって見せてあげれば、<br>みんなも勇気がわいてくると思うよ。,就算规模变大了，<br>只要让她们知道Live还是Live的话，<br>大家应该也就会鼓起勇气了吧。
+85,穂乃果,……よし！<br>だったら先に私達が！,……好的！<br>那么就由我们先来！
+86,,<span class='scene-font-katari'>こうして、</span><span class='scene-font-place'>ルーマシー</span><span class='scene-font-katari'>に続き</span><br><span class='scene-font-place'>ポート・ブリーズ</span><span class='scene-font-katari'>での</span><br><span class='scene-font-katari'>ライブが始まった。</span>,<span class='scene-font-katari'>就这样，在</span><span class='scene-font-place'>露玛希</span><span class='scene-font-katari'>之后</span><br><span class='scene-font-place'>微风港</span><span class='scene-font-katari'>的</span><br><span class='scene-font-katari'>Live也开始了。</span>
+87,,<span class='scene-font-katari'>観客の反応は様々だった。</span><br><span class='scene-font-katari'>初めて見るものに困惑しつつも</span><br><span class='scene-font-katari'>楽しもうとする者達……</span>,<span class='scene-font-katari'>观众的反应各种各样。</span><br><span class='scene-font-katari'>有虽然困惑地看着新事物</span><br><span class='scene-font-katari'>但还是想要乐在其中的人……</span>
+88,,<span class='scene-font-katari'>そして、穂乃果達の影響を受けて</span><br><span class='scene-font-katari'>自ら参加を名乗り出る者、</span><br><span class='scene-font-katari'>それをどこか羨ましげに眺める者──</span>,<span class='scene-font-katari'>然后，也有受到穗乃果一行人的影响</span><br><span class='scene-font-katari'>而自愿上台报名参加的人，</span><br><span class='scene-font-katari'>对此感到羡慕而在某处眺望的人──</span>
+91,アテナ/雅典娜,…………,…………
+92,メドゥーサ/美杜莎,ずいぶん夢中になって見てんのね。,你很沉迷于其中呢。
+93,アテナ/雅典娜,はっ……！？<br>そうでしたか？,哈……！？<br>是这样吗？
+94,メドゥーサ/美杜莎,うん。アンタが<br>そんな惚けた顔してんの初めて見たわ。,嗯。你那种<br>看呆了的表情我还是第一次见呢。
+95,メドゥーサ/美杜莎,ふふ。<br>もしかして一緒に混ざりたいの？,嘻嘻。<br>难道说是想和她们一起吗？
+96,アテナ/雅典娜,いえ。私は見ている方が好きですし。<br>ただ、彼女達から、なにか大きな力を<br>感じるというか。,不。我还是更喜欢在这边看着。<br>只不过，从她们身上，感觉到了某些<br>巨大的力量。
+97,メドゥーサ/美杜莎,大きな力？　なにそれ？,巨大的力量？　那是什么？
+98,アテナ/雅典娜,いまは漠然と感じているだけなので、<br>なんともいえないのですが……,现在还只是一种模糊的感觉，<br>没法很好地去概括……
+99,ルリア/露莉亚,か……感じます！,我……我感觉到了！
+100,メドゥーサ/美杜莎,なによ、ルリアもなの？,什么啊，连露莉亚你也这样吗？
+101,ルリア/露莉亚,ち、違うんです！<br>あの魔物さん達を呼んだ、<br>星晶獣の気配が！,不，不是这样！<br>是呼唤那群魔物的，<br>星晶兽的气息！
+102,メドゥーサ・アテナ/美杜莎・雅典娜,…………！！,…………！！
+103,,<span class='scene-font-katari'>やがて、ルリアが再び星晶獣の気配を</span><br><span class='scene-font-katari'>感じ取り、例の魔物が現れたのである。</span>,<span class='scene-font-katari'>不久，露莉亚再一次感知到星晶兽的气息</span><br><span class='scene-font-katari'>上次的魔物又出现了。</span>
+108,魔物,ううううむ……,唔唔唔唔姆……
+109,アテナ/雅典娜,ふっ！,喝…！
+114,アテナ/雅典娜,<span class='scene-font-kokoro'>（</span><span class='scene-font-place'>ルーマシー</span><span class='scene-font-kokoro'>と</span><span class='scene-font-place'>ポート・ブリーズ</span><span class='scene-font-kokoro'>……</span><br><span class='scene-font-kokoro'>彼女達が歌い終わった後に</span><br><span class='scene-font-kokoro'>魔物が現れるのは共通している）</span>,<span class='scene-font-kokoro'>（</span><span class='scene-font-place'>露玛希</span><span class='scene-font-kokoro'>还有</span><span class='scene-font-place'>微风港</span><span class='scene-font-kokoro'>……</span><br><span class='scene-font-kokoro'>在她们的歌结束之后</span><br><span class='scene-font-kokoro'>魔物都会一致地出现）</span>
+115,アテナ/雅典娜,<span class='scene-font-kokoro'>（ホノカさん達を呼び出した星晶獣は</span><br><span class='scene-font-kokoro'>彼女達とあの魔物達を</span><br><span class='scene-font-kokoro'>引き合わせようとしている……？）</span>,<span class='scene-font-kokoro'>（把穗乃果她们召唤到这里的星晶兽</span><br><span class='scene-font-kokoro'>是想让她们和魔物们</span><br><span class='scene-font-kokoro'>产生接触吗……？）</span>
+116,アテナ/雅典娜,ルリアさん。<br>星晶獣の様子は？,露莉亚小姐。<br>星晶兽的状态怎么样？
+117,ルリア/露莉亚,じっと見てくる気配はありますが、<br>これ以上何かをしようとは<br>思っていないみたいです。,有种一直在盯着我们看的气息，<br>但除此之外<br>好像没有想做其它事的样子了。
+118,メドゥーサ/美杜莎,とにかくこいつら倒せば<br>今回は片付くってわけね！,总之要打倒这群家伙<br>就是这次要做的事了吧！
+119,ビィ/碧,んじゃあ、さっさとやっちまおうぜ！<br>前より数は多いけど<br>姬塔がいりゃあ大丈夫だ！,那，就赶快开始吧！<br>虽然比起上次数量更多了<br>但是只要姬塔在的话就没问题的！
+120,アテナ/雅典娜,ええ。早急に片をつけましょう。,嗯。早点把战局清理干净吧。
+121,アテナ/雅典娜,<span class='scene-font-kokoro'>（彼女達のため、そして、</span><br><span class='scene-font-kokoro'>彼女達を見て私が感じた「何か」……</span><br><span class='scene-font-kokoro'>その答えを得るためにも！）</span>,<span class='scene-font-kokoro'>（为了她们，同时，</span><br><span class='scene-font-kokoro'>也为了看到她们后</span><br><span class='scene-font-kokoro'>我所感知到的东西的答案！</span>
+info,,,scene_evt190812_cp2_q4_s20

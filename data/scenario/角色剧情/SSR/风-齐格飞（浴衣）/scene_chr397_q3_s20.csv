@@ -1,0 +1,89 @@
+id,name,text,trans
+0-chapter_name,,夏の子供達,夏の子供達
+0-synopsis,,光華祭が中止になると聞いて残念がる姬塔達。浜辺に戻ってきたジークフリートは、「諦めるにはまだ早い」と、光華が上がるよう声に出して応援を促す。一行の声援に応えるように、やがて夜空に光華が花開く。姬塔は、ジークフリートが事件を解決したことを察するが敢えて口にすることなく、ジークフリートと共に美しい光華を見上げるのだった。,姬塔等人因听说烟花祭要终止而感到遗憾。然而回到海滨的齐格飞告诉他们「现在放弃还太早」，并劝说他们大喊为烟花声援。像是在回应一行人的声援，美丽的烟花终于在夜空中绽放。姬塔虽然察觉到是齐格飞解决了事件，却故意没有说出口，只是静静地和齐格飞一同欣赏烟花升空时美丽的瞬间。
+1,,<span class='scene-font-katari'>浜辺で待機中の姬塔達の</span><br><span class='scene-font-katari'>元に、ジークフリートが戻ってくる。</span>,<span class='scene-font-katari'>齐格飞回到了在海边等待的姬塔等人身边。</span>
+2,ジークフリート/齐格飞,待たせたな。,久等了。
+3,ビィ/碧,おいおい、どこに行ってたんだ？<br>光華祭が中止になるって話聞いたか？,喂喂，你去哪了啊？<br>我好像听说烟花祭终止了？
+4,サラ/莎拉,みんなで楽しみにしていたのに、<br>残念です……,本来大家都很期待的，<br>太遗憾了……
+5,ダヌア,つらぁ……,难受……
+6,ジークフリート/齐格飞,いや……待て。<br>諦めるにはまだ早いぞ？,不……等等。<br>现在要放弃还太早了哦？
+7,ジークフリート/齐格飞,お前達が信じれば、<br>光華は必ず上がる。,只要你们相信，<br>烟花就一定会绽放。
+8,サラ/莎拉,えっ？,诶？
+9,ジークフリート/齐格飞,諦めずに声に出して<br>光華を応援してみてく光華れないか？,不要放弃，喊出声来<br>试试为烟花加油吧？
+10,,<span class='scene-font-katari'>そう言うとジークフリートは、</span><br><span class='scene-font-katari'>空に向かって大声を張り上げる。</span>,<span class='scene-font-katari'>齐格飞这样说着，</span><br><span class='scene-font-katari'>对着天空大声喊道。</span>
+11,ジークフリート/齐格飞,気高き光の華よ、<br>我々の前にその麗しき<br>姿で咲き誇れ！,高雅的光之花啊，<br>请在我们面前<br>绽放你那华美的身姿吧！
+12,サラ/莎拉,光華さん！　<br>お願いします！,烟花大人！　<br>拜托了！
+13,ダヌア,あがぇ……！,绽放……！
+14,グレーテル,気合入れロ！,振作起来！
+15,ヘンゼル,頑張ってくれ。,请加油。
+16,ビィ/碧,お～い！　光華ぁ！<br>みんな楽しみにしてるぜ！,喂～！　烟花！<br>大家都期待着呢！
+17,ルリア/露莉亚,光華さん！<br>出てきてくださ～い！,烟花大人！<br>请现身吧！
+18,,<span class='scene-font-katari'>口々に光華を応援する</span><br><span class='scene-font-katari'>姬塔達。</span>,<span class='scene-font-katari'>姬塔他们异口同声地为烟花喝彩。</span>
+19,,<span class='scene-font-katari'>その時、沖合から一筋の光が</span><br><span class='scene-font-katari'>空に向かって昇って行く。</span>,<span class='scene-font-katari'>就在那时，从海上射出一束美丽的光，</span><br><span class='scene-font-katari'>向着天空的尽头飞去。</span>
+23,,<span class='scene-font-katari'>瞬間、天の一番高い所で、</span><br><span class='scene-font-katari'>大輪の光華が咲き誇った。</span>,<span class='scene-font-katari'>一瞬间，在天空的最高处，</span><br><span class='scene-font-katari'>一大朵烟花绽放开来。</span>
+24,サラ/莎拉,うわぁ～！　これが光華ですか！？<br>すごくキレイ……！,呜哇～！　这就是烟花吗！？<br>太美了……！
+25,ダヌア,きれぇ……,美……
+26,ジークフリート/齐格飞,ああ……<br>美しい光の華だ。,啊啊……<br>美丽的光之花。
+27,,<span class='scene-font-katari'>その時、ジークフリートの隣にいた</span><br><span class='scene-font-katari'>姬塔は、</span><br><span class='scene-font-katari'>「どこに行ってたの？」と尋ねる。</span>,<span class='scene-font-katari'>那时，站在齐格飞一旁的姬塔问他</span><br><span class='scene-font-katari'>「你刚刚去哪里了？」</span>
+28,ジークフリート/齐格飞,いや……アイツらも<br>光華祭は初めてだろうから、<br>見せてやりたくてな。,没什么……她们也是第一次来烟花祭，<br>想让她们能看到啊。
+29,ジークフリート/齐格飞,おい、お前達。<br>こっちだ。,喂，你们。<br>在这边。
+30,,<span class='scene-font-katari'>後方を振り返ったジークフリートは、</span><br><span class='scene-font-katari'>人混みに向かってひらひらと手を振る。</span>,<span class='scene-font-katari'>将头转回后方的齐格飞，</span><br><span class='scene-font-katari'>朝着人群挥了挥手。</span>
+31,,<span class='scene-font-katari'>人混みをかき分けてこちらに向かうのは</span><br><span class='scene-font-katari'>両手に食料を抱えたランスロット、</span><br><span class='scene-font-katari'>ヴェイン、パーシヴァル達であった。</span>,<span class='scene-font-katari'>穿过人群走来这边的，</span><br><span class='scene-font-katari'>是两手抱着食物的兰斯洛特，</span><br><span class='scene-font-katari'>维恩，帕西瓦尔三人。</span>
+32,ランスロット/兰斯洛特,ジークフリートさん！<br>遅くなってすみません！,齐格飞先生！<br>我们迟到了，真对不起！
+33,ヴェイン/维恩,ん……？,嗯……？
+34,ヴェイン/维恩,おおーっ！<br>姬塔達も<br>一緒だったのか！,哦哦ー！<br>姬塔你们也在一起啊！
+35,ヴェイン/维恩,いやー、屋台の行列がスゴくてさー！<br>並んでたらすっかり<br>遅くなっちまったぜ！,哎呀ー，售货摊那边的队列真是太可怕了——！排了那个队就彻底迟到了！
+36,パーシヴァル/帕西瓦尔,おい駄犬！　<br>よそ見をするな！<br>足下に注意しろ！,喂劣狗！<br>别东张西望！<br>给我注意脚下！
+37,ヴェイン/维恩,わーってるって！<br>ホント、パーさんは心配症だよなー！,知道啦知道啦！<br>帕桑还真是爱操心啊——！
+38,パーシヴァル/帕西瓦尔,フン……<br>お前の心配など微塵もしていない。<br>皆の夕飯の心配をしているだけだ。,哼……<br>我可是一丁点也没在担心你。<br>我担心的不过是大家的晚饭。
+39,ランスロット/兰斯洛特,パーシヴァルも転ばないように<br>気を付けろよ！<br>俺もう行列に並ぶの嫌だぜー？,帕西瓦尔也小心不要摔倒了哦！<br>我可不想再排一次队了啊？
+40,パーシヴァル/帕西瓦尔,馬鹿を言うな。<br>この程度、俺なら目を瞑っていても<br>何ら問題無い。,别说蠢话<br>这点程度，我就算闭着眼睛走也没问题。
+41,ランスロット/兰斯洛特,あっ！<br>足下に大きな蟹がっ！,啊！<br>你脚边有只大螃蟹！
+42,パーシヴァル/帕西瓦尔,なにっ！,什么！
+43,ランスロット/兰斯洛特,わはははっ！<br>冗談だって冗談！,哇哈哈哈！<br>玩笑啦玩笑！
+44,パーシヴァル/帕西瓦尔,おのれランスロット！,兰斯洛特你这家伙！
+45,ヴェイン/维恩,わわわっ！<br>パーさん押すなっての！,哇哇哇！<br>帕桑别推我啊！
+46,ヴェイン/维恩,ランちゃん急いで！<br>パーさんめっちゃ怖い！,兰酱快点！<br>帕桑超可怕的！
+47,ランスロット/兰斯洛特,逃げろ逃げろー！,溜了溜了ー！
+48,,<span class='scene-font-katari'>買い出しを終えて</span><br><span class='scene-font-katari'>姬塔達に</span><br><span class='scene-font-katari'>合流する三人。</span>,<span class='scene-font-katari'>三人买完东西后，</span><br><span class='scene-font-katari'>与姬塔等人汇合。</span>
+49,,<span class='scene-font-katari'>と同時に、海辺に向かって</span><br><span class='scene-font-katari'>ダヌアが歩き出す。</span>,<span class='scene-font-katari'>与此同时，妲奴亚朝着海边走去。</span>
+50,ダヌア,ちかぁ……,近……
+52,サラ/莎拉,あっ！<br>ダヌアちゃん待って下さい！<br>どこに行くんですか？,啊！<br>妲奴亚酱请等一下！<br>你要去哪里呀？
+53,ヘンゼル,ふむ……ふむふむ……<br>もっと近くで光華を<br>見たいと言っている。,唔姆……唔姆唔姆……<br>她说她想要更近一点看烟花。
+54,グレーテル,オイオイ！<br>ひとりで行ったら<br>迷子になるダロ！,喂喂！<br>一个人去的话会迷路的吧！
+55,ルリア/露莉亚,ビィさん！<br>私達もダヌアちゃんとサラちゃんを<br>追いかけましょう！,碧！<br>我们也去追妲奴亚和莎拉吧！
+56,ビィ/碧,ああ！<br>そうだな！,好！<br>去吧！
+57,,<span class='scene-font-katari'>ダヌアとサラを追って、</span><br><span class='scene-font-katari'>ビィとルリアも浜辺へ向かう。</span>,<span class='scene-font-katari'>追着妲奴亚和莎拉，</span><br><span class='scene-font-katari'>碧和露莉亚朝海边跑去。</span>
+58,ジークフリート/齐格飞,おい、お前達。<br>ひとつ頼みがあるんだが。,喂，你们。<br>我有一个请求。
+59,ランスロット/兰斯洛特,何ですか？,怎么了？
+60,ジークフリート/齐格飞,着いて早々悪いんだが、<br>子供達だけでは心配だからな。<br>付き添ってやってくれないか？,抱歉，你们一来就麻烦你们，<br>只有孩子们在这我有点担心。<br>能有劳你们照料一下吗？
+61,ヴェイン/维恩,はいっ！<br>わかりました！,好的！<br>我知道了！
+62,パーシヴァル/帕西瓦尔,フン……仕方ない。<br>俺以外は全員子供だからな。,哼……真没办法。<br>毕竟除我以外都是小孩子。
+63,ランスロット/兰斯洛特,よしヴェイン！<br>パトロールの任務だ！,好，维恩！<br>该巡逻了！
+64,ヴェイン/维恩,おうよ！　ランちゃん！<br>浜辺の臨時警備隊だな！,好嘞！　兰酱！<br>海滨临时警备队是吧！
+65,パーシヴァル/帕西瓦尔,そんなことはどうでもいい。<br>家臣共を見失う前に追いつくぞ。<br>早くしろ。,那种事怎样都好。<br>在不追上家臣们就要跟丢了。<br>快点跟上。
+66,,<span class='scene-font-katari'>子供達の後を追って、</span><br><span class='scene-font-katari'>三人は人混みに消えて行った。</span>,<span class='scene-font-katari'>三人跟在孩子们身后，</span><br><span class='scene-font-katari'>消失在人群之中。</span>
+67,,<span class='scene-font-katari'>そうして、浜辺にはジークフリートと</span><br><span class='scene-font-katari'>姬塔の二人だけが</span><br><span class='scene-font-katari'>取り残される。</span>,<span class='scene-font-katari'>然后，海边只留下齐格飞和姬塔二人。</span>
+68,ジークフリート/齐格飞,少し休憩するか。<br>姬塔。,稍微休息一下吧。<br>姬塔。
+69,,<span class='scene-font-katari'>そう言って近くの建物から</span><br><span class='scene-font-katari'>突き出した縁に腰掛ける</span><br><span class='scene-font-katari'>ジークフリート。</span>,<span class='scene-font-katari'>一边说着，齐格飞坐在了身旁的木房廊沿上。</span>
+70,,<span class='scene-font-katari'>姬塔も無言で</span><br><span class='scene-font-katari'>ジークフリートの隣に腰を下ろす。</span>,<span class='scene-font-katari'>姬塔一言不发地坐在了齐格飞身边。</span>
+71,,<span class='scene-font-katari'>妙な緊張感からか</span><br><span class='scene-font-katari'>会話の糸口が掴めずに、</span><br><span class='scene-font-katari'>俯いてしまう姬塔。</span>,<span class='scene-font-katari'>不知是不是因为一种奇妙的紧张感，</span><br><span class='scene-font-katari'>姬塔没能找到合适的话题，</span><br><span class='scene-font-katari'>只是低着头。</span>
+72,,<span class='scene-font-katari'>その時、ジークフリートの</span><br><span class='scene-font-katari'>ユカタヴィラから水滴が</span><br><span class='scene-font-katari'>ぽたぽたと滴っていることに気付く。</span>,<span class='scene-font-katari'>这时，姬塔注意到</span><br><span class='scene-font-katari'>从齐格飞的浴衣衣角</span><br><span class='scene-font-katari'>滴下了水滴。</span>
+73,観光客１/游客１,あれ？<br>光華祭って中止になったんじゃ<br>なかったのかよ？,啊咧？<br>烟花祭不是终止了吗？
+74,観光客２/游客２,ああ、なんか軍艦蟹が沖合に<br>現れたから、本当は中止する<br>予定だったらしいぜ。,啊啊，好像是有军舰蟹出现在海上，<br>本来是要终止的。
+75,観光客１/游客１,何で急に再開することに<br>なったんだよ？,那怎么又突然再开了啊？
+76,観光客２/游客２,それがさ……光華師の話によると、<br>突然、大きな剣を担いだ剣士が<br>現れて、軍艦蟹を両断したらしいぜ！,关于这个……听烟花师说，<br>好像突然有一名背着大剑的剑士出现，<br>把军舰蟹一刀两断了！
+77,観光客１/游客１,ウソだろ？　軍艦蟹の甲羅を<br>両断するって化物じゃねぇかよ！<br>で、何者なんだよソイツは！,不是吧！ 能把军舰蟹的甲壳一刀两断<br>那家伙是怪物吗！<br>所以，是何方神圣啊！
+78,観光客２/游客２,いや……気付いたら名前も名乗らず<br>どこかに消えちまったんだってさ。,呀……烟花师似乎等回过神来，才发现他名也没留就不见了。
+79,,<span class='scene-font-katari'>全てを察した姬塔が</span><br><span class='scene-font-katari'>ジークフリートに向かって</span><br><span class='scene-font-katari'>何かを言おうとした瞬間──</span>,<span class='scene-font-katari'>当姬塔察觉了一切，</span><br><span class='scene-font-katari'>正想对齐格飞说点什么的那个瞬间——</span>
+87,,<span class='scene-font-katari'>特大の光華が天上で鮮やかに花開く。</span><br><span class='scene-font-katari'>光に照らされたジークフリートは、</span><br><span class='scene-font-katari'>姬塔を見つめていた。</span>,<span class='scene-font-katari'>特大的烟花在天上绽放出鲜艳的花朵。</span><br><span class='scene-font-katari'>沐浴在光中的齐格飞，</span><br><span class='scene-font-katari'>正凝视着姬塔。</span>
+88,ジークフリート/齐格飞,ふっ……,呵……
+89,,<span class='scene-font-katari'>唇の前にピンと人差し指を立てた</span><br><span class='scene-font-katari'>ジークフリートは、片目を瞑って</span><br><span class='scene-font-katari'>姬塔に微笑みかける。</span>,<span class='scene-font-katari'>他将食指轻轻点在嘴唇前，</span><br><span class='scene-font-katari'>闭上单眼，对姬塔微笑。</span>
+89-sel1_txt,,<span class='scene-font-katari'>……ナイショ、ですね？</span>,<span class='scene-font-katari'>……保密，对吗？</span>
+90,ジークフリート/齐格飞,ああ……恩に着る。,啊啊……谢谢你。
+91,,<span class='scene-font-katari'>ジークフリートは、遠くから</span><br><span class='scene-font-katari'>こちらに戻ってくる仲間達と</span><br><span class='scene-font-katari'>光華を愛おしそうに眺めている。</span>,<span class='scene-font-katari'>齐格飞怜爱地眺望着回到这边的伙伴们</span><br><span class='scene-font-katari'>还有天空中绽放的烟花。</span>
+92,ジークフリート/齐格飞,美しいなぁ。<br>姬塔。,真美啊。<br>姬塔。
+92-sel1_txt,,<span class='scene-font-katari'>はい……</span>,<span class='scene-font-katari'>是的……</span>
+106,,<span class='scene-font-katari'>咲いては消え、消えては咲く</span><br><span class='scene-font-katari'>光華を見上げながら、</span><br><span class='scene-font-katari'>姬塔は思う。</span>,<span class='scene-font-katari'>绽放又消失，消失又绽放。</span><br><span class='scene-font-katari'>看着这样的烟花，</span><br><span class='scene-font-katari'>姬塔不禁想到。</span>
+107,,<span class='scene-font-katari'>この愛おしい瞬間が、</span><br><span class='scene-font-katari'>永遠に続けばいいのに、と。</span>,<span class='scene-font-katari'>愿这让人恋慕的瞬间，</span><br><span class='scene-font-katari'>能够持续到永远。</span>
+info,,,scene_chr397_q3_s20
