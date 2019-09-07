@@ -3,7 +3,7 @@ id,name,text,trans
 0-synopsis,,姬塔は、シスとの手合せに勝利する。姬塔は、自らを化け物だというシスに勝った自分は、もっと化け物だと語る。そんな姬塔の言葉を慌てて否定するシス。姬塔達は、それならシスも化け物ではない、悲しいことを言わないでほしいと真意を伝える。安堵しかけたシスの耳奥で、突如として謎の声が響き、シスは身を強張らせる。しかし、その冷たい気配はすぐに消え去ってしまうのだった。,姬塔在与希斯的比试中胜出了。姬塔说，赢了自称怪物的希斯的自己，更加该被叫做怪物。希斯慌张地否定了姬塔的话。姬塔一行，向希斯传达了那么他就不是怪物，希望他不要再说那么令人悲伤的话了的真心。安心下来的希斯的耳边，突然响起了迷之声，使他浑身僵硬。但是，那种冰冷的感觉很快就消失了。
 0,ルリア/露莉亚,わぁ！<br>姬塔の勝ちですね！,哇啊！<br>是姬塔的胜利！
 1,ビィ/碧,やったな姬塔！,做得好啊姬塔！
-2,,<span class='scene-font-katari'>姬塔は、</span><br><span class='scene-font-katari'>まだ少し荒い息を弾ませながら</span><br><span class='scene-font-katari'>真っ直ぐにシスを見た。</span>,<span class='scene-font-katari'>姬塔</span><br><span class='scene-font-katari'>有些混乱地喘着气</span><br><span class='scene-font-katari'>直直地看着西斯。</span>
+2,,<span class='scene-font-katari'>姬塔は、</span><br><span class='scene-font-katari'>まだ少し荒い息を弾ませながら</span><br><span class='scene-font-katari'>真っ直ぐにシスを見た。</span>,<span class='scene-font-katari'>姬塔</span><br><span class='scene-font-katari'>有些凌乱地喘着气</span><br><span class='scene-font-katari'>直直地看着希斯。</span>
 3,ビィ/碧,ん？<br>姬塔？,嗯？<br>姬塔？
 4,,<span class='scene-font-katari'>姬塔は、</span><br><span class='scene-font-katari'>「これで、自分はもっと化け物だ」</span><br><span class='scene-font-katari'>と言う。</span>,<span class='scene-font-katari'>姬塔说道</span><br><span class='scene-font-katari'>「这样的话，我就更加该被说是怪物了」</span><br><span class='scene-font-katari'></span>
 5,シス/希斯,っ！？<br>何を言っている！？,！？<br>你在说什么！？
@@ -21,12 +21,12 @@ id,name,text,trans
 20,シス/希斯,……そうか。,……是这样啊。
 21,,<span class='scene-font-katari'>緩く息を吐き出したシスは</span><br><span class='scene-font-katari'>ルリア達の言葉を噛みしめるように</span><br><span class='scene-font-katari'>目を伏せようとした。</span>,<span class='scene-font-katari'>缓缓地呼出一口气的希斯</span><br><span class='scene-font-katari'>像是要仔细品味露莉亚一行的话语一样</span><br><span class='scene-font-katari'>低下了头。</span>
 22,,<span class='scene-font-katari'>しかしその時――</span>,<span class='scene-font-katari'>但是就在那时――</span>
-24,？？？,<span class='scene-font-gray'>わす――な、</span><br><span class='scene-font-gray'>そのち――が、も――……を……</span>,<span class='scene-font-gray'>不要――忘记，</span><br><span class='scene-font-gray'>那个血――，已――…………</span>
+24,？？？,<span class='scene-font-gray'>わす――な、</span><br><span class='scene-font-gray'>そのち――が、も――……を……</span>,<span class='scene-font-gray'>不要――忘记，</span><br><span class='scene-font-gray'>那个力量――，已――…………</span>
 25,シス/希斯,っ！？<br>何……,！？<br>什么……
 26,,<span class='scene-font-katari'>突如として背筋を舐めた冷たい気配と</span><br><span class='scene-font-katari'>耳の奥に直接響く様な謎の声に</span><br><span class='scene-font-katari'>シスは全身に緊張を漲らせる。</span>,<span class='scene-font-katari'>因为突如其来的像是舔舐着后背一样的冰冷的气息</span><br><span class='scene-font-katari'>和在耳朵深处直接响起的谜之声</span><br><span class='scene-font-katari'>西斯全身都紧张起来了。</span>
 28,？？？,<span class='scene-font-gray'>お前の――は、</span><br><span class='scene-font-gray'>また、は――……ろう――</span>,<span class='scene-font-gray'>你的――，</span><br><span class='scene-font-gray'>又会，――……吧――</span>
 29,シス/希斯,な、んだ……！？,什，什么……！？
-30,ビィ/碧,おーい、兄ちゃん？<br>どうかしたのか？,喂ー，小哥？<br>你怎么了嘛？
+30,ビィ/碧,おーい、兄ちゃん？<br>どうかしたのか？,喂ー，小哥？<br>你怎么了吗？
 31,シス/希斯,っ、は……！,哈……！
 32,,<span class='scene-font-katari'>言い様のない気配が消え、</span><br><span class='scene-font-katari'>ビィの声がシスの身体を揺らす。</span>,<span class='scene-font-katari'>难以言喻的气息消失了</span><br><span class='scene-font-katari'>碧的声音唤回了希斯的意识。</span>
 33,ルリア/露莉亚,シスさん？,希斯桑？
