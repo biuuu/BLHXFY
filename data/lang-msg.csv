@@ -51,7 +51,7 @@ arcarum_enhancement_3,上限解放,Lvl Uncap,上限解放
 arcarum_enhancement_4,%s確認,%s,%s确认
 arcarum_enhancement_5,%s完了,%s,%s成功
 arcarum_enhancement_6,アイテム詳細,Item Details,道具详情
-arcarum_enhancement_7,ベース召喚石が条件を満たしていない、<br>倉庫に格納されている、もしくは<br>必要素材が不足しているため、<br>%sできません。,"You can't %s.<br>You don't have enough treasures,<br>the base summon is in your stash,<br>or other requirements haven't been met.",因召唤石未满足条件，或被收纳于仓库，或%s材料不足，%s失败。
+arcarum_enhancement_7,ベース召喚石が条件を満たしていない、<br>倉庫に格納されている、もしくは<br>必要素材が不足しているため、<br>%sできません。,"You can't %s.<br>You don't have enough treasures,<br>the base summon is in your stash,<br>or other requirements haven't been met.",因召唤石未满足条件，或被收纳于仓库，或材料不足，%s失败。
 arcarum_enhancement_8,召喚石の所持数が最大に達しているため、<br>入手することができません。<br>所持数に空きを作ることで入手できるようになります。,You can't pick up this summon. Your inventory is full.,召唤石数量已满，无法获得新召唤石。请整理后重试。
 arcarum_inter_mission_1,インターミッションに突入したためバトルを終了します,,进入中场休息，战斗结束。
 arcarum_open_difficulty_body_1,難易度HARDが解放されました。,Hard difficulty has been unlocked.,HARD难度解放。
