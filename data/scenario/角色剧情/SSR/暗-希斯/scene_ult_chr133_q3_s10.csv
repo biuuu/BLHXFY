@@ -36,15 +36,15 @@ id,name,text,trans
 64,シス/希斯,……何だと？,……你说什么？
 66,六崩拳,<span class='scene-font-gray'>我を手にしろ。</span><br><span class='scene-font-gray'>我が力は、その血まみれの手に</span><br><span class='scene-font-gray'>こそ相応しい。</span>,<span class='scene-font-gray'>将我拿在手中吧。</span><br><span class='scene-font-gray'>我的力量，和你那沾满鲜血的双手</span><br><span class='scene-font-gray'>十分相配呢。</span>
 67,シス/希斯,違う……俺はそんなこと……！,不是的……我才没有……！
-69,六崩拳,<span class='scene-font-gray'>さあどうした？</span><br><span class='scene-font-gray'>抗い、目を背けるのは</span><br><span class='scene-font-gray'>もうやめるがいい。</span>,<span class='scene-font-gray'>来吧你又怎么了？</span><br><span class='scene-font-gray'>就算想反抗，想视而不见</span><br><span class='scene-font-gray'>也都放弃为好啊。</span>
+69,六崩拳,<span class='scene-font-gray'>さあどうした？</span><br><span class='scene-font-gray'>抗い、目を背けるのは</span><br><span class='scene-font-gray'>もうやめるがいい。</span>,<span class='scene-font-gray'>来吧你怎么了？</span><br><span class='scene-font-gray'>就算想反抗，想视而不见</span><br><span class='scene-font-gray'>也都放弃为好啊。</span>
 70,六崩拳,<span class='scene-font-gray'>早く我を手にしろ。</span><br><span class='scene-font-gray'>破滅を呼ぶその爪を</span><br><span class='scene-font-gray'>更に研ぎ澄ませ。</span>,<span class='scene-font-gray'>早点将我拿在手中。</span><br><span class='scene-font-gray'>让那双呼唤着灭亡的双手</span><br><span class='scene-font-gray'>变得更加锋利强大吧。</span>
 71,シス/希斯,……かった。,……道了。
-73,六崩拳,<span class='scene-font-gray'>どうした？</span>,<span class='scene-font-gray'>你说什么？</span>
+73,六崩拳,<span class='scene-font-gray'>どうした？</span>,<span class='scene-font-gray'>你怎么了？</span>
 74,シス/希斯,もういい。<br>わかった。,已经够了。<br>我知道了。
 76,六崩拳,<span class='scene-font-gray'>ククク……素直でいい。</span><br><span class='scene-font-gray'>それでは……</span>,<span class='scene-font-gray'>呵呵呵……直率的回答真不错啊。</span><br><span class='scene-font-gray'>那么就……</span>
 77,シス/希斯,勘違いをするな。<br>貴様の力に手をのばす<br>つもりはない。,可别误会啊。<br>我可没有打算<br>靠你变强啊。
 79,六崩拳,<span class='scene-font-gray'>……ほう？</span>,<span class='scene-font-gray'>……哦？</span>
 80,シス/希斯,……下らん御託はそこまでだ。<br>貴様の狙いが何なのかは<br>知らんが……,……无聊的废话就到此为止了。<br>虽然我不知道<br>你的目的是什么……
-83,シス/希斯,この艇で怪しげなものを<br>放置することはできん！<br>ここで刈り取ってくれる！,我不能对这船上的可疑的东西<br>置之不管！<br>就在这把你剪除吧！
+83,シス/希斯,この艇で怪しげなものを<br>放置することはできん！<br>ここで刈り取ってくれる！,我不能对在这船上的可疑之物<br>置之不管！<br>就在这把你剪除吧！
 84,シス/希斯,<span class='scene-font-4'>キエエエェェェェーーッ！！</span>,<span class='scene-font-4'>消失吧ーー！！</span>
 info,,,scene_ult_chr133_q3_s10
