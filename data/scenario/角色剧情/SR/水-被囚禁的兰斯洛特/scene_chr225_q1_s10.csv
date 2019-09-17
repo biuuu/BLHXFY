@@ -1,0 +1,19 @@
+id,name,text,trans
+0-chapter_name,,復興のさなかに,复兴之中
+0-synopsis,,王都の復興を指揮するランスロットの手伝いをする姬塔達。そこへ白竜騎士団の団員が現れ、王都に物資を運ぶ商隊が魔物に襲われた事を告げる。一行はその救出へと向かう。,姬塔一行人正在帮助指挥着王都复兴工作的兰斯洛特。突然白龙骑士团的团员出现，并报告了向王都运输物资的商队被袭击的事情。姬塔一行人前往救援。
+0,,<span class='scene-font-katari'>イザベラとガレスの騒動から</span><br><span class='scene-font-katari'>少し経ち、平穏を取り戻した</span><br><span class='scene-font-katari'>王都フェードラッヘ。</span>,<span class='scene-font-katari'>从伊莎贝拉的骚乱</span><br><span class='scene-font-katari'>过去了一段时间、王都费德拉赫</span><br><span class='scene-font-katari'>回归了平稳</span>
+1,,<span class='scene-font-katari'>魔物が暴れた王都では、</span><br><span class='scene-font-katari'>ランスロットを中心に</span><br><span class='scene-font-katari'>復興が進められていた。</span>,<span class='scene-font-katari'>被魔物肆虐的王都，</span><br><span class='scene-font-katari'>以兰斯洛特为中心</span><br><span class='scene-font-katari'>进行着复兴。</span>
+2,ランスロット/兰斯洛特,姬塔達にまで、<br>迷惑をかけてしまって申し訳ない。,给你们带来麻烦、<br>真的非常抱歉。
+3,ルリア/露莉亚,いえ……<br>私達で力になれることがあれば、<br>何でも言って下さい！,哪里......<br>如果我们能帮得上忙的话，<br>就请告诉我们吧！
+4,ビィ/碧,ああ。ランスロットが<br>休みなく働いてるのに、<br>見過ごせるかってんだ！,嗯。兰斯洛特都在<br>一刻不停地努力、<br>我们怎么能视而不见呢！
+5,ランスロット/兰斯洛特,ふふ……ありがとう。<br>みんな。,哈哈，非常感谢，<br>大家。
+6,ビィ/碧,それで？<br>オイラ達は何を手伝えばいいんだ？,那么？<br>有什么需要我们帮忙的嘛？
+7,ランスロット/兰斯洛特,そうだな……<br>今日は確か建築資材が<br>王都に届くはずだ……,嗯......<br>今天应该是要把建筑资材送到送到王都去......
+8,ランスロット/兰斯洛特,できれば、その運搬を<br>手伝って欲しいんだが……,可以的话，想让你们帮忙搬运......
+9,,<span class='scene-font-katari'>と、そこに息を切らした</span><br><span class='scene-font-katari'>白竜騎士団の団員が</span><br><span class='scene-font-katari'>駆け込んでくる。</span>,<span class='scene-font-katari'>这时，突然有气喘吁吁的</span><br><span class='scene-font-katari'>白龙骑士团团员</span><br><span class='scene-font-katari'>跑了进来。</span>
+10,,<span class='scene-font-katari'>団員の話によると、</span><br><span class='scene-font-katari'>資材を運搬中の商隊が</span><br><span class='scene-font-katari'>魔物に囲まれていると言う。</span>,<span class='scene-font-katari'>团员说，</span><br><span class='scene-font-katari'>搬运资材的商队</span><br><span class='scene-font-katari'>被怪物包围了。</span>
+11,ランスロット/兰斯洛特,これは一刻を争う事態だ……,这是刻不容缓的紧急事态……
+12,ランスロット/兰斯洛特,すまないが、姬塔達も<br>救援に向かってくれるか！,抱歉，团长们能一起来救援吗？
+13,ビィ/碧,任せとけ！<br>んじゃ早速向かおうぜ！<br>姬塔！,交给我们！<br>那么快点过去吧！<br>姬塔！
+info,,,scene_chr225_q1_s10
+译者,,,myu
