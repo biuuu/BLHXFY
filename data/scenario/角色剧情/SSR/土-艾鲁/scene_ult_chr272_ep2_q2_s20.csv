@@ -1,0 +1,39 @@
+id,name,text,trans
+0-chapter_name,,冀望の唯心論,冀望的唯心论
+0-synopsis,,盗賊達を必要以上に痛めつけるボーマン。依頼後、最近「アイル」の様子がおかしいことに悩む姬塔達がジェシカと話し合っていると、そこにボーマンが現れる。姬塔に手合わせを頼もうとしたボーマンだったが、シスが通りかかったのを見ると標的を変え、シスに手合わせを頼むのだった。,波曼过度折磨盗贼们。完成委托后，为最近「艾鲁」不对劲而烦恼的姬塔等人找杰西卡商量，途中波曼突然出现。波曼本想邀请姬塔和他切磋，却在看到路过的希斯时转变目标，要和希斯切磋。
+2,ボーマン/波曼,ハッハッハ！<br>もう終わりか？<br>あぁ！？,哈哈哈！<br>就认输了？<br>啊！？
+8,盗賊,うぐっ……ひぃ！？<br>や、やめ……！,唔呃……咿！？<br>不、不要……！
+10,ボーマン/波曼,おいおい、<br>もっと楽しませてくれねぇと。<br>頼むから、さぁ！,喂喂，<br>再让我开心一下啊。<br>算我拜托你了！
+13,盗賊,ぎゃあぁぁっ！！,呃啊啊啊！！
+14,ルリア/露莉亚,っ！<br>アイルさん、待ってください！！,这！<br>艾鲁，请停一停！！
+15,ビィ/碧,やめろ！　もういいって！<br>十分だろぉ！？,住手！　已经够了！<br>不用再打了吧！？
+16,ボーマン/波曼,……はぁ。,……哎。
+18,,<span class='scene-font-katari'>慌てた制止の声に</span><br><span class='scene-font-katari'>ボーマンは、やれやれ、と</span><br><span class='scene-font-katari'>いった様子で拳をおろす。</span>,<span class='scene-font-katari'>制止的声音里满是慌乱，</span><br><span class='scene-font-katari'>波曼勉为其难地</span><br><span class='scene-font-katari'>放下了拳头。</span>
+19,ボーマン/波曼,あーあ。<br>あまりに骨がねぇから<br>やりすぎちまったわ。,啊ー啊。<br>一群软骨头，<br>害我掌握不好分寸。
+20,ルリア/露莉亚,…………,…………
+26,ジェシカ/杰西卡,そうですか、<br>そんなことが……,是吗，<br>还出了这种事……
+27,ルリア/露莉亚,はい。そこでやめてくれたので<br>それ以上は<br>何もなかったんですけど……,是的。制止之后他就收手了，<br>所以并没有<br>造成更大的伤害……
+28,ビィ/碧,やっぱり、アイツ最近<br>おかしいよな……？,那家伙，果然最近<br>不太对劲吧……？
+29,ジェシカ/杰西卡,……確かに、<br>様子が変わったように見えますね。<br>でも私には……,……确实，<br>看起来和之前不一样了。<br>可是我……
+31,ボーマン/波曼,なぁ姬塔～,喂姬塔～
+32,ボーマン/波曼,物足りねぇからちょっと<br>相手してくんねぇ？,我有点手痒，<br>陪我练练好吗？
+33,ジェシカ/杰西卡,アイル……,艾鲁……
+34,ビィ/碧,手合せってことか……？,你想找姬塔切磋……？
+35,ボーマン/波曼,なぁいいだろ？,可以的吧？
+36,,<span class='scene-font-katari'>その申し出に、姬塔は</span><br><span class='scene-font-katari'>少し躊躇う素振りを見せる。</span>,<span class='scene-font-katari'>姬塔对他的请求</span><br><span class='scene-font-katari'>流露出一丝犹豫。</span>
+37,ボーマン/波曼,アンタだって、あの程度じゃあ<br>まだまだ──,和那几个菜鸟做对手，你也还<br>意犹未尽──
+38,ボーマン/波曼,あ、ちょい待ち。<br>やっぱいいわ、<br>あっちに頼むから。,啊，等一下。<br>还是算了，<br>我找他打。
+39,ルリア/露莉亚,え？　あっちって……,诶？　找他……
+43,シス/希斯,…………,…………
+44,ボーマン/波曼,ちょうどいいところに、ってな？,来得正是时候，对吧？
+45,,<span class='scene-font-katari'>姬塔の背後を通りかかった</span><br><span class='scene-font-katari'>シスを見て、ボーマンは楽しそうに</span><br><span class='scene-font-katari'>唇の端を持ち上げた。</span>,<span class='scene-font-katari'>看着从姬塔身后</span><br><span class='scene-font-katari'>走过的希斯，波曼愉快地</span><br><span class='scene-font-katari'>勾起了嘴角。</span>
+47,？？？,…………,…………
+48,ボーマン/波曼,ちょうどいいところに、ってな？,来得正是时候，对吧？
+49,,<span class='scene-font-katari'>姬塔の背後に姿を現したのは</span><br><span class='scene-font-katari'>全空最強と言われる騎空団──</span><br><span class='scene-font-katari'>十天衆のひとりであるシスだった。</span>,<span class='scene-font-katari'>出现在姬塔身后的</span><br><span class='scene-font-katari'>是被誉为全空最強的骑空团──</span><br><span class='scene-font-katari'>十天众的一员，希斯。</span>
+50,,<span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>シェロカルテの仲介で</span><br><span class='scene-font-katari'>十天衆と顔を合わせたことがある。</span>,<span class='scene-font-katari'>姬塔等人</span><br><span class='scene-font-katari'>通过谢洛卡尔特从中牵线</span><br><span class='scene-font-katari'>曾与十天众有过接触。</span>
+51,,<span class='scene-font-katari'>強者の来訪に、</span><br><span class='scene-font-katari'>ボーマンは楽しそうに唇の端を</span><br><span class='scene-font-katari'>持ち上げた。</span>,<span class='scene-font-katari'>强者造访</span><br><span class='scene-font-katari'>令波曼愉快地</span><br><span class='scene-font-katari'>扬起嘴角。</span>
+53,ボーマン/波曼,相手してくれよ。<br>十天衆さん。,陪我练练吧。<br>十天众。
+54,シス/希斯,お前が、俺と……？,你要，和我打……？
+55,ボーマン/波曼,断らねぇだろ？<br>これは、リベンジマッチだからな。,你不会拒绝吧？<br>这可是，复仇战啊。
+56,シス/希斯,……わかった。<br>受けて立とう。,……明白了。<br>我接受挑战。
+info,,,scene_ult_chr272_ep2_q2_s20

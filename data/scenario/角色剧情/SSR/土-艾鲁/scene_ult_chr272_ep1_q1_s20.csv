@@ -1,0 +1,91 @@
+id,name,text,trans
+0-chapter_name,,鈍色の蜃気楼,钝色的蜃气楼
+0-synopsis,,アイルは、アイルの闘争本能を解放しようとする自身のもうひとつの人格「ボーマン」からの誘惑に悩まされていた。ボーマンを否定し日々がむしゃらに鍛錬を続けるアイルだったが、解決策が分からない中で焦燥感だけが募る。そんなある日、アイルは鍛錬中に声をかけてきたジークフリートと手合わせをすることになるのだった。,艾鲁的另一个人格「波曼」试图诱惑他解放自己的战斗本能，艾鲁为此烦恼不已。他每日埋头锻炼，坚持着否定波曼，但一筹莫展的现状令他焦急万分。突然有一天，齐格飞叫住了正在锻炼的艾鲁，邀他和自己切磋。
+2,アイル/艾鲁,<span class='scene-font-gray'>オレが目指していたはずの</span><br><span class='scene-font-gray'>「新世界」……</span><br><span class='scene-font-gray'>それはいつの間にか無様にヒビ割れた。</span>,<span class='scene-font-gray'>我一路追寻的</span><br><span class='scene-font-gray'>「新世界」……</span><br><span class='scene-font-gray'>不知何时已土崩瓦解。</span>
+3,アイル/艾鲁,<span class='scene-font-gray'>真実だと思っていたものに</span><br><span class='scene-font-gray'>詰まっていたのは</span><br><span class='scene-font-gray'>ただの欺瞞でしかないと知った。</span>,<span class='scene-font-gray'>原本深信不疑的真相，</span><br><span class='scene-font-gray'>揭开一看却发现</span><br><span class='scene-font-gray'>不过是欺瞒的假象。</span>
+4,アイル/艾鲁,<span class='scene-font-gray'>今オレが立っているのは</span><br><span class='scene-font-gray'>ぐずぐずと沈んでいく泥の上。</span>,<span class='scene-font-gray'>此刻我的立足之地</span><br><span class='scene-font-gray'>是一片缓缓下沉的泥沼。</span>
+5,アイル/艾鲁,<span class='scene-font-gray'>そんな自分を許せなくて振り回す拳は</span><br><span class='scene-font-gray'>誰にも届かず空を切り、その音は</span><br><span class='scene-font-gray'>むなしく耳に痛い。</span>,<span class='scene-font-gray'>怒自己不争而挥出的拳头</span><br><span class='scene-font-gray'>无处可落打在空气上，</span><br><span class='scene-font-gray'>空虚的声响刺疼耳膜。</span>
+7,ボーマン/波曼,なぁ、アイルよぉ。<br>いつまでそうやって<br>拗ねてるつもりだ？,我说，艾鲁啊。<br>你要这样闹别扭<br>到什么时候？
+8,アイル/艾鲁,…………,…………
+9,ボーマン/波曼,おお怖い怖い。<br>そう睨むなって。,喔喔真吓人。<br>别这样瞪我啊。
+10,アイル/艾鲁,煩い。<br>アンタと話すことなんて<br>何もない。消えろ。,别吵。<br>我跟你无话可说。<br>滚开。
+11,ボーマン/波曼,ハッハッハ！<br>ったく、随分な物言いだな。,哈哈哈！<br>你这话，说得真难听啊。
+12,アイル/艾鲁,アンタが言ったんじゃないか。<br>オレのことを殺すって。,不是你说的吗。<br>要杀了我。
+13,ボーマン/波曼,えぇ？<br>そんなこと言ったかぁ？,诶？<br>我说过这种话吗？
+14,アイル/艾鲁,っ、バカにしてんのか！？,你、在耍我吗！？
+15,ボーマン/波曼,ジョーダン、ジョーダン。<br>怒ンなって。<br>お前次第なんだからよ。,开玩笑而已，玩笑。<br>别生气嘛。<br>这要看你的选择了。
+16,アイル/艾鲁,オレ次第？,看我？
+17,ボーマン/波曼,なぁ、アイルよぉ……,艾鲁啊……
+18,ボーマン/波曼,お前だって<br>溜まってるだろ？,其实你<br>也很压抑吧？
+19,ボーマン/波曼,そろそろ、<br>暴れたくてたまらねぇよな？,已经忍不住，<br>想大闹一场了不是吗？
+20,アイル/艾鲁,誰が……！,我没有……！
+21,ボーマン/波曼,だから、クソ真面目に<br>トレーニングなんて<br>してるんだろ？,所以才会每天<br>勤勤恳恳地<br>锻炼吧？
+22,ボーマン/波曼,必死になっちまって……<br>涙ぐましいよなぁ。,看看你那拼命的模样……<br>好令人感动啊。
+23,アイル/艾鲁,<span class='scene-font-4'>違うっ！</span><br>オレは……！,<span class='scene-font-4'>才不是！</span><br>我……！
+24,ボーマン/波曼,オリコウサンぶったやり方は<br>心底かったりぃけど、<br>とりあえず、まぁいいわ。,虽然我很不齿<br>你这种乖宝宝似的练法，<br>但暂时就不追究了。
+25,ボーマン/波曼,アイル……お前は、力のない、<br>今の自分が情けなくて<br>不甲斐なくて仕方ねぇんだろ？,艾鲁……现在这个<br>懦弱无能的自己<br>让你很窝囊吧？
+26,ボーマン/波曼,なぁ？,对吗？
+27,アイル/艾鲁,だ、まれ……,你、闭嘴……
+28,ボーマン/波曼,ダイジョーブだって！<br>俺とふたりなら、また前みてぇな<br>力を取り戻すなんて簡単だぜ？,不用担心！<br>只要和我联手，想要找回曾经的力量<br>那还不是易如反掌？
+30,ボーマン/波曼,認めちまえよ、お前には俺が<br>必要なんだって。な？<br>また一緒に楽しくやろうぜ。,承认吧，<br>你需要我。对吧？<br>我们再一起享乐吧。
+31,アイル/艾鲁,<span class='scene-font-4'>やめろっ！！</span>,<span class='scene-font-4'>别说了！！</span>
+33,,<span class='scene-font-katari'>はねのけた手に走る痛みを</span><br><span class='scene-font-katari'>２倍に感じる。</span>,<span class='scene-font-katari'>打掉对方时留在手上的</span><br><span class='scene-font-katari'>似乎是两人份的痛。</span>
+34,,<span class='scene-font-katari'>その不気味な感触に、踏みしめた</span><br><span class='scene-font-katari'>足元の地面がじわじわと</span><br><span class='scene-font-katari'>溶けていくような気がした。</span>,<span class='scene-font-katari'>那瘆人的触感，</span><br><span class='scene-font-katari'>让他感觉立足之地</span><br><span class='scene-font-katari'>开始缓缓熔化。</span>
+39,ビィ/碧,……ぃ、おい！,……喂、喂！
+40,ルリア/露莉亚,アイルさん……？<br>アイルさん、大丈夫ですか？,艾鲁……？<br>艾鲁，你没事吧？
+41,アイル/艾鲁,う、ん……？,呃、嗯……？
+42,,<span class='scene-font-katari'>揺さぶられ、何度も名を呼ばれ、</span><br><span class='scene-font-katari'>アイルはゆっくりと覚醒する。</span>,<span class='scene-font-katari'>在不断的摇晃和呼唤中，</span><br><span class='scene-font-katari'>艾鲁缓缓醒来。</span>
+44,ビィ/碧,おっ！<br>起きたか？,哦！<br>你醒啦？
+47,アイル/艾鲁,何だ……今、何時……,干嘛……现在几点……
+48,ルリア/露莉亚,もうお昼ですよ、アイルさん。<br>大丈夫ですか？,现在已经是中午了，艾鲁。<br>你没事吧？
+49,アイル/艾鲁,昼……？,中午……？
+50,ビィ/碧,ちっとも起きてこねぇから<br>心配になって見に来たんだ。<br>そしたらすげぇうなされててよぉ……,久久不见你起来，<br>才不放心过来看看情况。<br>结果看到你被噩梦魇住……
+51,アイル/艾鲁,……そうか。,……是嘛。
+52,ルリア/露莉亚,あの、大丈夫ですか……？,请问，你不要紧吧……？
+53,アイル/艾鲁,ああ……顔、洗ってくる。,嗯……我去洗个脸。
+56,ルリア/露莉亚,アイルさん……,艾鲁……
+57,,<span class='scene-font-katari'>ふらりと部屋から出ていく</span><br><span class='scene-font-katari'>アイルを見送り、</span><br><span class='scene-font-katari'>姬塔達は顔を見合わせる。</span>,<span class='scene-font-katari'>目送艾鲁踉踉跄跄</span><br><span class='scene-font-katari'>走出房间，</span><br><span class='scene-font-katari'>姬塔几人互相看向对方。</span>
+58,ビィ/碧,アイツ、大丈夫かぁ……？,那家伙，不要紧吧……？
+59,ルリア/露莉亚,最近、すごく眠そうにしてることが<br>多いですよね……,最近，经常看到他<br>犯困……
+60,ビィ/碧,やっぱり、負担になってんだろぉなぁ。,那件事，还是给他很大负担吧。
+61,ルリア/露莉亚,「ボーマン」さん……,「波曼」……
+67,アイル/艾鲁,誰のせいでもない……<br>オレは自分に振り回された阿呆だ……,这不是任何人的错……<br>是我太愚蠢，被自己玩弄……
+68,アイル/艾鲁,オレを警戒しろ……<br>当分の間は……だがそのうち……,不要对我放松警惕……<br>恐怕需要很长时间……但总有一天……
+69,アイル/艾鲁,かなら……ず……,我一定……会……
+71,ルリア/露莉亚,また眠っちゃいましたね……<br>ふたりぶんの心を抱えてるから……？,他又睡着了……<br>是因为装着两颗心吗……？
+72,アイル/艾鲁,すぅ……すぅ……,呼……呼……
+78,ルリア/露莉亚,きっと、アイルさんは<br>戦ってるんだと思います。<br>何か力になれないでしょうか……？,我想，艾鲁他<br>一定正在战斗。<br>我们有办法帮帮他吗……？
+79,ビィ/碧,つってもなぁ……<br>オイラ達に何ができるかなんて<br>見当もつかねぇぜ。,就算想帮忙……<br>可我完全想不到<br>能为他做些什么。
+79-sel1_txt,,<span class='scene-font-katari'>いつも通りに</span>,<span class='scene-font-katari'>保持平常心</span>
+79-sel2_txt,,<span class='scene-font-katari'>気晴らしに</span>,<span class='scene-font-katari'>让他散散心</span>
+80,ビィ/碧,……そうだな。<br>オイラ達は、いつも通りに<br>してるしかねぇのかもな。,……说的也对。<br>我们大概只能像平时一样<br>和他相处了。
+81,ルリア/露莉亚,はい……<br>私、せめて暗い顔は<br>しないようにします！,是的……<br>我会尽量不露出<br>难过的表情！
+83,ルリア/露莉亚,そうですね。アイルさんが<br>少しでも楽しい気持ちになれること<br>考えましょう！,是啊。我们来想想<br>有什么事能让艾鲁的心情<br>轻松一些吧！
+84,ビィ/碧,とにかく、こういうのは<br>焦っても仕方ねぇよな、きっと。,总而言之，这种事情<br>一定是急不来的吧。
+85,,<span class='scene-font-katari'>明確な答えを見つけられない不安を</span><br><span class='scene-font-katari'>振り払うように、姬塔達は</span><br><span class='scene-font-katari'>小さく笑い合うのだった。</span>,<span class='scene-font-katari'>姬塔几人相视而笑，</span><br><span class='scene-font-katari'>以此挥散无法得出</span><br><span class='scene-font-katari'>明确解答的不安。</span>
+91,アイル/艾鲁,<span class='scene-font-4'>ふっ！</span>,<span class='scene-font-4'>呼！</span>
+93,アイル/艾鲁,<span class='scene-font-4'>はっ！</span>,<span class='scene-font-4'>哈！</span>
+95,アイル/艾鲁,<span class='scene-font-4'>せいっ！！</span>,<span class='scene-font-4'>嘿！！</span>
+97,アイル/艾鲁,…………はぁ。,…………哈啊。
+98,,<span class='scene-font-katari'>グランサイファーの甲板で、</span><br><span class='scene-font-katari'>アイルはほぼ日課となっている</span><br><span class='scene-font-katari'>トレーニングを行っていた。</span>,<span class='scene-font-katari'>艾鲁在格兰赛法的甲板上，</span><br><span class='scene-font-katari'>做着快要成为他</span><br><span class='scene-font-katari'>日常的锻炼。</span>
+99,アイル/艾鲁,こんなことで……,这根本不够……
+100,,<span class='scene-font-katari'>空に向けて振っていた拳を</span><br><span class='scene-font-katari'>更に強く握りこむ。</span>,<span class='scene-font-katari'>他将挥向空中的拳头</span><br><span class='scene-font-katari'>捏得更紧。</span>
+101,,<span class='scene-font-katari'>息が切れる程に自分を追い込んでみても</span><br><span class='scene-font-katari'>寒気にも似た焦燥は晴れそうにない。</span>,<span class='scene-font-katari'>强迫自己练得几乎喘不过气来，</span><br><span class='scene-font-katari'>依然赶不走寒意般刺人的焦躁。</span>
+102,アイル/艾鲁,オレは、これ以上どうすれば……,我除此以外，还能怎么办……
+104,ジークフリート/齐格飞,鍛練か？<br>精が出るな。,在锻炼？<br>真努力啊。
+105,アイル/艾鲁,ジークフリート、さん……,齐格飞……
+106,ジークフリート/齐格飞,もうあがるのか？,已经结束了吗？
+107,アイル/艾鲁,いや、まだやろうかと<br>思ってるけど……,没有，我还打算<br>继续练习……
+108,ジークフリート/齐格飞,それなら、付き合おう。,既然如此，就和我练练吧。
+109,アイル/艾鲁,は？<br>アンタが？,啊？<br>和你？
+110,ジークフリート/齐格飞,ああ。拳闘での手合せも<br>たまにはいい。<br>良ければ相手をしてくれ。,嗯。偶尔练练拳击<br>也不错。<br>如果你愿意，和我切磋切磋吧。
+111,,<span class='scene-font-katari'>そう言ったジークフリートは</span><br><span class='scene-font-katari'>いつも携えている大剣を</span><br><span class='scene-font-katari'>おろそうとする。</span>,<span class='scene-font-katari'>说完，齐格飞便准备</span><br><span class='scene-font-katari'>将自己贴身带的大剑</span><br><span class='scene-font-katari'>放下来。</span>
+112,アイル/艾鲁,あ……いや、待ってくれ。,啊……不，先等一下。
+113,ジークフリート/齐格飞,ん？　どうした？,嗯？　怎么了？
+114,ジークフリート/齐格飞,久しぶりだからお前には<br>物足りないかもしれんが、それほど<br>鈍ってもいないつもりだぞ？,我许久不练有些手生，<br>可能没办法让你尽兴，但我自认<br>不至于生疏到令人失望喔？
+115,アイル/艾鲁,そうじゃなくて……<br>アンタが相手をしてくれるってのは<br>すごく有り難い、です。,不是的……<br>你愿意和我切磋，<br>我很、荣幸。
+116,アイル/艾鲁,でも、それならいつもの<br>スタイルで……<br>剣は使ってください。,但既然机会难得，我希望用你<br>熟悉的方式……<br>请使用剣和我战斗。
+117,アイル/艾鲁,そっちの方が、<br>オレとしても集中できる。,那样我也能<br>更专注于战斗。
+118,ジークフリート/齐格飞,そうか、なるほど。<br>わかった。,是吗，原来如此。<br>好吧。
+120,ジークフリート/齐格飞,それでは、よろしく頼む。,那么，还请赐教。
+info,,,scene_ult_chr272_ep1_q1_s20

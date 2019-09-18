@@ -1,0 +1,22 @@
+id,name,text,trans
+0-chapter_name,,復興のさなかに,复兴之中
+0-synopsis,,違法な商人を取り押さえた一行だったが、一連の騒動は住民達の不安感を煽っていた。国が疲弊しつつある中、働き続けるランスロットの精神は、徐々にすり減っていくのだった。,为了取缔违法商人的姬塔一行，一连串的骚动煽动了住民的不安。在国家越来越疲惫的情况下、不断工作的兰斯洛特的精神正在一点点被消磨。
+0,,<span class='scene-font-katari'>パーシヴァルと力を合わせて</span><br><span class='scene-font-katari'>がめつい男を取り締まった一行。</span>,<span class='scene-font-katari'>姬塔和帕西瓦尔</span><br><span class='scene-font-katari'>协力捉住了奸商男。</span>
+1,,<span class='scene-font-katari'>その様子を見ていた人々は、</span><br><span class='scene-font-katari'>密かに不安の声を上げている。</span>,<span class='scene-font-katari'>看到这些的人群中，</span><br><span class='scene-font-katari'>悄悄传出了不安的声音。</span>
+2,街の男,はぁ……<br>前はあんな変な輩も<br>いなかったのにな。,唉......<br>之前可没有那样的人啊。
+3,街の女,その……王都の治安も<br>悪くなってるみたいだし。<br>困ったわねぇ……,看来王都的治安也变差了。<br>真困扰啊......
+4,ランスロット/兰斯洛特,…………,…………
+5,パーシヴァル/帕西瓦尔,どうした？<br>ランスロット。,怎么了？<br>兰斯洛特。
+6,ランスロット/兰斯洛特,いや、なんでもない。<br>それより、ジークフリートさんの<br>姿を見なかったか？,不，没什么。<br>话说你看到齐格飞先生了吗？
+7,パーシヴァル/帕西瓦尔,ふむ……ジークフリートなら、<br>所用で王都を離れているはずだが。,嗯......齐格飞的话，<br>应该是有事离开王都了。
+8,ランスロット/兰斯洛特,そうか……,这样啊......
+9,パーシヴァル/帕西瓦尔,ん？<br>何か用事でもあったのか？,嗯？<br>你有事找他吗？
+10,ランスロット/兰斯洛特,もう大丈夫だ。<br>ありがとう、パーシヴァル。,已经没事了。<br>谢谢你，帕西瓦尔。
+11,パーシヴァル/帕西瓦尔,問題無い。,不要紧。
+12,ランスロット/兰斯洛特,さぁ、街の見回りを続けようか。<br>姬塔。,那么，继续在街上巡逻吧。<br>姬塔。
+13,ビィ/碧,よぉし！<br>オイラ達ももうひと頑張りだ！,好！<br>我们也要更加努力哦！
+14,ルリア/露莉亚,はい！<br>私達も行きましょう！<br>姬塔！,好！走吧！<br>姬塔！
+15,,<span class='scene-font-katari'>こうしてランスロットは、</span><br><span class='scene-font-katari'>仲間達に支えられながら</span><br><span class='scene-font-katari'>王都復興のために働き続ける。</span>,<span class='scene-font-katari'>就这样兰斯洛特</span><br><span class='scene-font-katari'>在伙伴的帮助下</span><br><span class='scene-font-katari'>继续为王都的复兴而工作着。</span>
+16,,<span class='scene-font-katari'>だが、その強靭な精神も、</span><br><span class='scene-font-katari'>本人の気づかぬ内に、少しずつ</span><br><span class='scene-font-katari'>すり減って行くのであった。</span>,<span class='scene-font-katari'>但是本人也没有注意到，</span><br><span class='scene-font-katari'>这份强韧的精神</span><br><span class='scene-font-katari'>正在不断地被消磨着。</span>
+info,,,scene_chr225_q2_s20
+译者,,,

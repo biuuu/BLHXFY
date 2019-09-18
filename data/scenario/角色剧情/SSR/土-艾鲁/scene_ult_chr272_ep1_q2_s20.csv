@@ -1,0 +1,96 @@
+id,name,text,trans
+0-chapter_name,,鈍色の蜃気楼,钝色的蜃气楼
+0-synopsis,,ボーマンの影を恐れ手合わせに集中できないアイル。アイルは自分が何のために強くなるのか見出せずにいた。そんな中、姬塔達やジェシカは気晴らしの為にアイルを買い物に連れ出す。買い物する一行を待つ間、アイルは偶然地下闘技場の元喧嘩屋と再会する。元喧嘩屋はアイルを再び喧嘩賭博に誘い、アイルがそれを拒否すると襲いかかって来るのだった。,波曼的阴影使艾鲁无法专注切磋锻炼。他迷失了自己变强的理由。这时，姬塔几人和杰西卡带艾鲁出门购物，想让他散散心。艾鲁在一旁等待一行人购物时，偶然遇上了过去地下斗技场的拳手。前黑拳手邀请艾鲁再次加入地下黑拳，被他拒绝后突然对他动起手来。
+1,アイル/艾鲁,っ、はぁ、はぁ……！,唔、哈啊、哈啊……！
+2,ジークフリート/齐格飞,ふむ……,嗯……
+4,ジークフリート/齐格飞,アイル、お前はまだ<br>何か焦っているのか？,艾鲁，是不是<br>有什么事在让你急躁？
+5,アイル/艾鲁,いや、オレは……,不，我……
+6,アイル/艾鲁,……すみません。<br>集中するとか言っておいて、<br>こんな体たらく……,……对不起。<br>嘴上说要专注战斗，<br>却打得这么狼狈……
+7,ジークフリート/齐格飞,いや、責めているわけではない。,没事，我并非想责备你。
+8,アイル/艾鲁,はい……,好的……
+9,,<span class='scene-font-katari'>アイルは、額にういた汗を拳で拭う。</span>,<span class='scene-font-katari'>艾鲁抬起拳头，抹掉额头上的汗。</span>
+10,アイル/艾鲁,<span class='scene-font-kokoro'>（背筋が冷える……すぐそこに、</span><br><span class='scene-font-kokoro'>アイツがいるような気がして……）</span>,<span class='scene-font-kokoro'>（这毛骨悚然的感觉……就好像</span><br><span class='scene-font-kokoro'>那个家伙正站在身后……）</span>
+11,アイル/艾鲁,<span class='scene-font-kokoro'>（手合せでも、</span><br><span class='scene-font-kokoro'>集中しすぎるとヤバイってことか）</span>,<span class='scene-font-kokoro'>（即便只是切磋，</span><br><span class='scene-font-kokoro'>太过专注也会被吞噬吗）</span>
+12,アイル/艾鲁,<span class='scene-font-kokoro'>（こんな調子じゃ、実戦なんて……）</span>,<span class='scene-font-kokoro'>（我这样，实战更是无稽之谈……）</span>
+13,ジークフリート/齐格飞,……考えることは悪いことではない。<br>悩むことも必要だ。,……思考并不是件坏事。<br>烦恼也是必经之路。
+14,ジークフリート/齐格飞,焦るな。<br>前にも言っただろう？,不要着急。<br>我之前也说过吧？
+20,ジークフリート/齐格飞,そうだな……<br>強いて言えば「我慢」の差かもな。,我想想……<br>硬要说的话，差别应该是在「忍耐」上。
+21,アイル/艾鲁,我慢？,忍耐？
+22,ジークフリート/齐格飞,ああ。<br>その場において最善の準備が出来たら、<br>後は機会が訪れるまで待てばいい。,嗯。<br>如果你已经做好了万全的准备应对，<br>之后只需耐心等待时机到来。
+23,ジークフリート/齐格飞,もちろん、いつ訪れるかはわからない。<br>だが状況の変化に一喜一憂していては、<br>その一瞬を見逃してしまうこともある。,当然，没人能预测到来之时。<br>要是每次情况有变你都大惊小怪，<br>很容易错过那一瞬间的机会。
+24,ジークフリート/齐格飞,だろう？<br>だから、我慢が大事なんだ。,没错吧？<br>所以，忍耐很重要。
+30,アイル/艾鲁,機会が訪れるまでの、我慢……,在机会到来之前，要忍耐……
+31,ジークフリート/齐格飞,それじゃあ、俺はもう行こう。<br>またな、アイル。,那我就先走一步了。<br>下次见，艾鲁。
+33,アイル/艾鲁,あ……ありがとうございました。,谢……谢谢你。
+34,,<span class='scene-font-katari'>どこか上の空で</span><br><span class='scene-font-katari'>ジークフリートを見送り、</span><br><span class='scene-font-katari'>アイルは再び思惑に沈んでいく。</span>,<span class='scene-font-katari'>心不在焉地</span><br><span class='scene-font-katari'>目送齐格飞离开后，</span><br><span class='scene-font-katari'>艾鲁再次陷入思考。</span>
+35,アイル/艾鲁,<span class='scene-font-kokoro'>（焦るなと言われても、</span><br><span class='scene-font-kokoro'>オレはたぶんまだそんな段階じゃない）</span>,<span class='scene-font-kokoro'>（他让我不要着急，</span><br><span class='scene-font-kokoro'>可是我应该还没达到那一步）</span>
+36,アイル/艾鲁,<span class='scene-font-kokoro'>（きっと、何も準備なんて</span><br><span class='scene-font-kokoro'>できていなくて、もがいて……）</span>,<span class='scene-font-kokoro'>（我一定是还没有</span><br><span class='scene-font-kokoro'>做好任何准备，才如此挣扎……）</span>
+37,アイル/艾鲁,……いや、そもそも何の準備だ？,……不对，我究竟要做什么准备？
+38,アイル/艾鲁,<span class='scene-font-kokoro'>（実戦？　オレは、いつどこで、</span><br><span class='scene-font-kokoro'>誰と戦うつもりなんだ……？）</span>,<span class='scene-font-kokoro'>（为实战？　我是想和谁，</span><br><span class='scene-font-kokoro'>什么时候在哪里战斗……？）</span>
+39,,<span class='scene-font-katari'>何故強くなりたいのかわからない。</span><br><span class='scene-font-katari'>けれど、ただ弱い自分も許せない。</span>,<span class='scene-font-katari'>我不明白自己为什么想变强。</span><br><span class='scene-font-katari'>却也无法忍受自己软弱。</span>
+40,,<span class='scene-font-katari'>ずっと物足りなかった</span><br><span class='scene-font-katari'>優しく、ぬるま湯のような家庭も、</span><br><span class='scene-font-katari'>ふわふわとした暖かい仲間との時間も。</span>,<span class='scene-font-katari'>平静祥和的家庭，</span><br><span class='scene-font-katari'>与同伴相处时柔软的温暖，</span><br><span class='scene-font-katari'>一直都无法满足我。</span>
+41,,<span class='scene-font-katari'>その中に身を置く自分を思い浮かべると</span><br><span class='scene-font-katari'>どうしようもない焦燥で手足の先が</span><br><span class='scene-font-katari'>じりじりと焼けるような気がした。</span>,<span class='scene-font-katari'>一想到自己身处其中，</span><br><span class='scene-font-katari'>难以忍受的焦躁感</span><br><span class='scene-font-katari'>便会灼烧我的四肢百骸。</span>
+42,アイル/艾鲁,<span class='scene-font-kokoro'>（でも、オレは強くなって、</span><br><span class='scene-font-kokoro'>何をするつもりなのか……）</span>,<span class='scene-font-kokoro'>（可是，我是为了做什么</span><br><span class='scene-font-kokoro'>才迫切想变强……）</span>
+43,アイル/艾鲁,それがわからない。,我自己也不明白。
+44,,<span class='scene-font-katari'>ぽつりとこぼした言葉は、</span><br><span class='scene-font-katari'>誰に届くこともなく</span><br><span class='scene-font-katari'>風にさらわれて行った。</span>,<span class='scene-font-katari'>低喃的话语</span><br><span class='scene-font-katari'>飘散在轻风里，</span><br><span class='scene-font-katari'>谁都没有听见。</span>
+48,ジェシカ/杰西卡,ふふ、それは驚いちゃいますね。,呵呵，这的确会吓一跳。
+49,ルリア/露莉亚,そうなんですよ！<br>ビィさんってば……,就是啊！<br>碧真是的……
+50,ビィ/碧,ええっ！<br>オイラのせいなのかぁ！？,诶诶！<br>是我的问题吗！？
+51,ビィ/碧,なぁ、アイルはどう思う？,艾鲁，你认为呢？
+52,アイル/艾鲁,…………,…………
+53,ジェシカ/杰西卡,……アイル、聞いてますか？,……艾鲁，你有在听吗？
+54,アイル/艾鲁,……え？<br>ああ……,……诶？<br>嗯……
+55,ジェシカ/杰西卡,アイル……,艾鲁……
+56,,<span class='scene-font-katari'>気晴らしになれば、とアイルを</span><br><span class='scene-font-katari'>連れて街へ買い物に出た</span><br><span class='scene-font-katari'>姬塔達。</span>,<span class='scene-font-katari'>姬塔几人将艾鲁</span><br><span class='scene-font-katari'>带出来逛街，希望他能</span><br><span class='scene-font-katari'>散散心。</span>
+57,,<span class='scene-font-katari'>しかし、肝心のアイルの表情は晴れず、</span><br><span class='scene-font-katari'>どこか上の空だった。</span>,<span class='scene-font-katari'>然而艾鲁本人的表情却依然阴沉，</span><br><span class='scene-font-katari'>有些心不在焉。</span>
+58,ルリア/露莉亚,えっと……,这个……
+59,ルリア/露莉亚,あっ、あのお店見てもいいですか？,啊，可以去逛逛那家店吗？
+60,,<span class='scene-font-katari'>気を取り直すように声をあげたルリアに</span><br><span class='scene-font-katari'>姬塔はそっと頷き返す。</span>,<span class='scene-font-katari'>露莉亚重振精神问道，</span><br><span class='scene-font-katari'>姬塔对她轻轻点点头。</span>
+61,ルリア/露莉亚,ジェシカさん、行きましょう！,杰西卡，我们走吧！
+63,ジェシカ/杰西卡,あ、ルリアちゃん待って！<br>アイル、あなたも……,啊、露莉亚等等我！<br>艾鲁，你也一起……
+64,アイル/艾鲁,オレはいい。<br>ここで待ってるから<br>姉さん達で行ってくれ。,我不去了。<br>我在这里等着，<br>你们去逛吧。
+65,ビィ/碧,アイル、眠いのか？,艾鲁，你是不是困了？
+66,アイル/艾鲁,いや、別に。<br>大丈夫だから。,不，我不困。<br>不用担心我。
+67,ジェシカ/杰西卡,そう……？<br>じゃあ待っていてね。<br>勝手にいなくならないでください。,是吗……？<br>那你在这里等我们喔。<br>请不要一个人乱跑。
+68,アイル/艾鲁,わかってるよ。<br>子供じゃないんだから……,我知道。<br>我又不是小孩子……
+69,ジェシカ/杰西卡,ふふ、そうでした。<br>じゃあ、ちょっと行ってくるね。,呵呵，也对。<br>那我们去去就回。
+71,アイル/艾鲁,はぁ……,哎……
+72,,<span class='scene-font-katari'>ひとりになったアイルは、</span><br><span class='scene-font-katari'>ジェシカ達が入って行った店が</span><br><span class='scene-font-katari'>見える位置に立って壁にもたれかかる。</span>,<span class='scene-font-katari'>独自留下来的艾鲁</span><br><span class='scene-font-katari'>找了个能看到杰西卡几人</span><br><span class='scene-font-katari'>所在店铺的位置倚墙而立。</span>
+73,,<span class='scene-font-katari'>今、眠気がないのは事実だ。</span><br><span class='scene-font-katari'>けれど、身体の芯が冷えているようで</span><br><span class='scene-font-katari'>動くのも思考をするのも億劫だった。</span>,<span class='scene-font-katari'>现在没有困意是事实。</span><br><span class='scene-font-katari'>可源自骨髓的寒意</span><br><span class='scene-font-katari'>抽空了行动和思考的气力。</span>
+80,ボーマン/波曼,あーあ、ぬるくてあくびが出るなぁ。<br>退屈すぎてうんざりだって、<br>お前も思うだろ、アイル？,啊ー啊，温吞得我忍不住打呵欠。<br>你也无聊得很烦躁吧<br>艾鲁？
+81,アイル/艾鲁,っ……！,……！
+82,アイル/艾鲁,<span class='scene-font-kokoro'>（日に日にアイツの存在が</span><br><span class='scene-font-kokoro'>デカくなる……このままじゃ駄目だ。</span><br><span class='scene-font-kokoro'>なんとかしないと……）</span>,<span class='scene-font-kokoro'>（那家伙的存在</span><br><span class='scene-font-kokoro'>日益鲜明起来……不能再放任了。</span><br><span class='scene-font-kokoro'>我得赶快想办法……）</span>
+84,？？？,おい、アイル！<br>アイルじゃねぇか！,喂，艾鲁！<br>这不是艾鲁吗！
+85,アイル/艾鲁,あぁ？,啊？
+86,？？？,こりゃあいい所で会ったぜ。<br>久しぶりだなぁ、アイル。,这可真是太巧了。<br>好久不见啊，艾鲁。
+87,アイル/艾鲁,お前……,你是……
+88,,<span class='scene-font-katari'>振り向いた先にあった顔には</span><br><span class='scene-font-katari'>うっすらと見覚えがあった。</span>,<span class='scene-font-katari'>回过头看到的那张脸</span><br><span class='scene-font-katari'>似乎在哪里见过。</span>
+89,？？？,なんだなんだぁ？<br>反応薄いじゃねぇか。<br>ひょっとして覚えてねぇのか？,怎么回事？<br>见到我都没什么反应。<br>难道你不记得我了？
+90,？？？,地下闘技場で<br>散々顔合わせた仲じゃねぇか。,我们在地下斗技场<br>可是老交情了啊。
+91,アイル/艾鲁,……何か用かよ。,……你有什么事。
+92,元喧嘩屋,へへ、こんな表通りでするような<br>話じゃねぇからよ。<br>ちょっとツラ貸せや。,嘿嘿，这事不能在大马路上聊。<br>跟我走一趟吧。
+97,元喧嘩屋,お前も、あの一斉検挙を<br>すり抜けてたんだな。<br>流石ってとこか。,原来你也逃过了<br>上次的扫黑啊。<br>果然厉害。
+98,アイル/艾鲁,…………,…………
+99,元喧嘩屋,愛想のねぇところは相変わらずか。<br>とにかく、ここで会えるとは<br>ついてたぜ。,你还是一样对人爱答不理。<br>总而言之，能在这里遇上你，<br>我还真走运。
+100,アイル/艾鲁,用があるならさっさとしろよ。<br>暇じゃないんだ。,有事就快说。<br>我很忙。
+101,元喧嘩屋,そう焦るなって。<br>お前にとっても悪くねぇ話だからよ。,别这么着急嘛。<br>这事对你也很有好处。
+102,,<span class='scene-font-katari'>男は、アイルの隠そうともしない</span><br><span class='scene-font-katari'>不快な顔には全く構わず、</span><br><span class='scene-font-katari'>馴れ馴れしくその肩に腕をのせる。</span>,<span class='scene-font-katari'>男人对艾鲁明摆在脸上的</span><br><span class='scene-font-katari'>不悦表情视若无睹，</span><br><span class='scene-font-katari'>嬉皮笑脸搭上他的肩。</span>
+103,元喧嘩屋,もう一度、その腕で<br>ひとやま当てるつもりはねぇか？,你想不想靠你的技术<br>再捞一票？
+104,アイル/艾鲁,……は？,……啊？
+105,元喧嘩屋,そろそろほとぼりも冷めた頃だからな。<br>また喧嘩賭博を始めようと思ってんだ。,风头也差不多过去了。<br>我打算重开地下黑拳。
+106,元喧嘩屋,まぁ、最初からあの地下闘技場程の<br>規模ってわけにはいかねぇだろうが……,虽然肯定不能一开始就重建<br>当初那个地下斗技场的规模……
+107,元喧嘩屋,お前がいりゃあ、なかなか<br>面白ぇことができそうだ。,但有你在的话，<br>应该能办得风生水起。
+108,アイル/艾鲁,断る。他をあたれ。,我拒绝。找别人去吧。
+109,元喧嘩屋,そう言うなって。<br>お前、あんなに強かったのに<br>もったいねぇじゃねぇか。,别这么说。<br>你实力那么强，<br>不打多浪费啊。
+110,元喧嘩屋,お前の場合、その見た目と強さが<br>釣り合ってねぇところが<br>またいいアクセントなんだよ。,而且从你的外表无法联想到<br>你有如此强劲的实力，<br>也是一个好卖点。
+111,元喧嘩屋,絶対に喧嘩賭博はお前の天職だ。,地下黑拳就是你的天职。
+112,アイル/艾鲁,……やめろ、離せ！,……住手，放开我！
+114,,<span class='scene-font-katari'>アイルは、乱暴に男の腕を振り払う。</span>,<span class='scene-font-katari'>艾鲁粗暴地甩开男人的手。</span>
+116,元喧嘩屋,<span class='scene-font-4'>おい！</span>,<span class='scene-font-4'>喂！</span>
+117,アイル/艾鲁,そんな話には乗らねぇよ。<br>オレは、もう二度と喧嘩賭博に<br>関わるつもりはない。,要干你自己干。<br>我不打算再和地下黑拳<br>扯上任何关系。
+118,アイル/艾鲁,<span class='scene-font-4'>さっさと失せろ！</span>,<span class='scene-font-4'>快滚！</span>
+119,元喧嘩屋,はぁ！？<br>黙って聞いてりゃ、生意気<br>言ってくれるなぁこのクソガキがよぉ。,啊！？<br>你这臭小鬼居然<br>敬酒不吃吃罚酒。
+120,元喧嘩屋,お前、今更お綺麗な世界で<br>暮らせるとでも思ってんのか？<br>あぁ？,事到如今，你以为你还能<br>重回阳光下生存？<br>啊？
+121,アイル/艾鲁,っ……,唔……
+122,元喧嘩屋,とにかく、計画を話したからには<br>こっちもこのまま<br>引き下がるわけにはいかねぇんだよ！,总之，你已经知道了我的计划，<br>那我就不可能<br>轻易放你走了！
+info,,,scene_ult_chr272_ep1_q2_s20
