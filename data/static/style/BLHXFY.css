@@ -690,3 +690,34 @@ body .cnt-raid .prt-raid-log {
 .autotrans-hint-blhxfy.google-blhxfy::before {
   content: '(本节使用Google翻译机翻，可通过右上Log-设置关闭)'
 }
+
+.blhxfy-btn-origin-text {
+  position: absolute;
+  width: 64px;
+  height: 105px;
+  top: 26px;
+  left: 8px;
+  z-index: 1;
+}
+.blhxfy-origin-text {
+  position: absolute;
+  top: 42px;
+  left: 25px;
+  width: 280px;
+  display: none;
+  white-space: pre-line;
+}
+.blhxfy-origin-text:before {
+  content: attr(data-text)
+}
+.blhxfy-btn-origin-text:hover ~ .prt-message-area .txt-message {
+  font-size: 0;
+}
+.blhxfy-btn-origin-text:hover ~ div,
+.blhxfy-btn-origin-text:hover ~ div * {
+  font-family: inherit !important;
+}
+.blhxfy-btn-origin-text:hover ~ .prt-message-area .blhxfy-origin-text {
+  display: block;
+  font-size: 14px;
+}

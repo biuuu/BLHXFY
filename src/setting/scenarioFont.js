@@ -2,7 +2,7 @@ import config from '../config'
 
 const insertCSS = fontValue => {
   const style = document.createElement('style')
-  style.innerHTML = `.prt-scene-comment, .prt-pop-synopsis, .prt-log-display, .btn-select-baloon {
+  style.innerHTML = `.prt-scene-comment :not(.blhxfy-origin-text), .prt-pop-synopsis, .prt-log-display, .btn-select-baloon {
     font-family: ${fontValue}, nickname_scene, "FOT-ニューシネマA Std D", "Average Sans", sans-serif !important;
   }`
   document.head.appendChild(style)

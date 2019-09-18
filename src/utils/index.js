@@ -30,15 +30,21 @@ const removeNotMatchedHtmlTag = (str) => {
   return str
 }
 
-const removeNormalHtmlTag = (str, count = 0) => {
+const removeNormalHtmlTag = (str, count = 0, wrap) => {
   count++
   if (!/<(\w{1,7})[^>]*>/.test(str) || count > 2) return str
-  const _str = str.replace(/<br\s?\/?>/ig, '').replace(/<(\w{1,7})[^>]*>([^<]*)<\/\1>/g, '$2')
-  return removeNormalHtmlTag(_str, count)
+  let _str
+  if (wrap) {
+    _str = str.replace(/<br\s?\/?>/ig, '\n').replace(/\n+/g, '\n')
+  } else {
+    _str = str.replace(/<br\s?\/?>/ig, '')
+  }
+  _str = _str.replace(/<(\w{1,7})[^>]*>([^<]*)<\/\1>/g, '$2')
+  return removeNormalHtmlTag(_str, count, wrap)
 }
 
-const removeHtmlTag = (str, count = 0) => {
-  const _str = removeNormalHtmlTag(str, count)
+const removeHtmlTag = (str, count = 0, wrap) => {
+  const _str = removeNormalHtmlTag(str, count, wrap)
   return removeNotMatchedHtmlTag(_str)
 }
 

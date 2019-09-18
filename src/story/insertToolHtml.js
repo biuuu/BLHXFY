@@ -168,5 +168,8 @@ export default function () {
     const langVal = { ja: 1, en: 2 }
     $('#language-type-blhxfy').val(langVal[Game.lang])
     $('#plain-text-blhxfy')[0].checked = config.plainText
+    if (config.originText) {
+      cont.find('.prt-scene-comment').prepend(`<div class="blhxfy-btn-origin-text"></div>`)
+    }
   }
 }

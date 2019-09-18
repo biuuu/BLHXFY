@@ -27,6 +27,7 @@ const config = {
   transJa: true,
   transEn: true,
   keepBgm: false,
+  originText: false,
   version: version
 }
 

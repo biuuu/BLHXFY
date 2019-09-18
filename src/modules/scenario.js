@@ -328,7 +328,12 @@ const transStart = async (data, pathname) => {
     if (!obj) return
     txtKeys.forEach(key => {
       if (obj[key]) {
-        item[key] = obj[key]
+        if (key === 'detail' && config.originText) {
+          item[key] = `${obj[key]}
+          <div class="blhxfy-origin-text" data-text='${removeHtmlTag(item[key], 0, true)}'> </div>`
+        } else {
+          item[key] = obj[key]
+        }
       }
     })
   })
