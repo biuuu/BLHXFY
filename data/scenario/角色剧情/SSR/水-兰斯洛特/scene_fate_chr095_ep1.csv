@@ -1,0 +1,49 @@
+id,name,text,trans
+0-chapter_name,,討伐前夜,讨伐前夜
+0-synopsis,,とある国で、王都を守る白竜騎士団を率いる騎士、ランスロットに出会う姬塔一行。ランスロットは若くして騎空団をまとめる姬塔に興味を持ち、一行はそんなランスロットを騎空団の仲間に誘う。,在某个国家，姬塔一行和率领守护王都的骑士兰斯洛特相遇了。兰斯洛特同时也对年纪轻轻就领导骑空团的姬塔抱有兴趣、于是姬塔一行邀请兰斯洛特成为骑空团的伙伴。
+0,,<span class='scene-font-katari'>旅の途中、星晶獣シルフの加護により</span><br><span class='scene-font-katari'>栄えるという、稀有な国を訪れた一行。</span>,<span class='scene-font-katari'>在旅途中，一行人来到了以星晶兽希尔芙庇护</span><br><span class='scene-font-katari'>为荣的国家</span>
+1,,<span class='scene-font-katari'>一行は、その星晶獣シルフを</span><br><span class='scene-font-katari'>喰らったファフニールを退治するため、</span><br><span class='scene-font-katari'>討伐軍に加わることとなった。</span>,<span class='scene-font-katari'>一行人为了打败把希尔芙</span><br><span class='scene-font-katari'>吞噬的法芙娜龙</span><br><span class='scene-font-katari'>加入了讨伐军。</span>
+2,,<span class='scene-font-katari'>討伐を翌日に控えた一行は、</span><br><span class='scene-font-katari'>白竜騎士団のランスロットの案内で、</span><br><span class='scene-font-katari'>王宮の中を移動しているのだった。</span>,<span class='scene-font-katari'>等待着第二天的讨伐的姬塔一行，</span><br><span class='scene-font-katari'>在兰斯洛特的带领下、</span><br><span class='scene-font-katari'>来到了王宫里。</span>
+3,ルリア/露莉亚,ねぇねぇランスロットさん。<br>この場所は何ですか？,那个，兰斯洛特先生。<br>这间房间是干什么的？
+4,ランスロット/兰斯洛特,ここは宮殿の大広間だ。<br>舞踏会や式典などの<br>様々な年中行事に使われるんだ。,这是王宫的宴会厅。每年像舞会和仪式这样各种各样的活动都在这里举行。
+5,ビィ/碧,おいおい……ルリア！<br>ランスロットも忙しいんだから、<br>あんまり迷惑かけるなよ。,喂喂，露利亚，<br>兰斯洛特很忙的，<br>不要老是麻烦他。
+6,ランスロット/兰斯洛特,ははは。<br>気にしないでくれ、<br>こっちもいい気分転換になる。,哈哈，<br>不要担心，<br>这对我来说也能转换心情。
+8,,<span class='scene-font-katari'>そして一行が、衛兵の詰所に</span><br><span class='scene-font-katari'>ちょうど差し掛かった時、</span><br><span class='scene-font-katari'>突然、怒声が聞こえてきたのだった。</span>,<span class='scene-font-katari'>当他们走近一个卫兵的哨所时</span><br><span clas呃s='scene-font-katari'></span><br><span class='scene-font-katari'>突然、传来了愤怒的声音。</span>
+10,衛兵１/卫兵１,貴様！　<br>剣を抜け！,你妈的！　<br>拔剑吧！
+11,衛兵２/卫兵２,いいだろう……<br>相手になってやるよ！<br>こっちについて来い……,正好……<br>我来当你的对手，跟我来吧！
+12,ランスロット/兰斯洛特,お前ら！<br>ここをどこだと心得る！,你们俩！<br>你们以为这里是哪里啊？
+13,衛兵１＆衛兵２/卫兵1&卫兵2,ラ、ランスロットさん！<br>こいつが悪いんです！,兰斯洛特先生！<br>是这家伙的错！
+14,ランスロット/兰斯洛特,宮廷内での刃傷沙汰はご法度だ。,在这种庄严的地方进行私斗是明令禁止的。
+15,衛兵２/卫兵２,で、でも、こいつが先に挑発して<br>きたんですよ！,但是是他先挑衅的！
+16,衛兵１/卫兵１,違いますよ！<br>そいつが先に、暴言を吐いたんです！,才不是！<br>是他先说我坏话的!
+17,ランスロット/兰斯洛特,ダメだ。<br>規則の順守は絶対だ。<br>例外は認められん。,不行。规则是绝对的，没有例外。
+19,,<span class='scene-font-katari'>そうして衛兵達は</span><br><span class='scene-font-katari'>ランスロットから</span><br><span class='scene-font-katari'>謹慎処分を言い渡されたのだった。</span>,<span class='scene-font-katari'>于是卫兵们</span><br><span class='scene-font-katari'>被兰斯洛特</span><br><span class='scene-font-katari'>口头处以反省处分了。</span>
+21,ランスロット/兰斯洛特,姬塔。<br>見苦しいところを見せて、<br>すまなかったな。,姬塔。<br>很抱歉让你们看到这么丢脸的情况。
+22,ランスロット/兰斯洛特,ファフニール討伐を明日に控えて<br>衛兵たちもピリピリしているんだろう。,等待明天的法芙娜讨伐<br>也可能让士兵们的神经紧张起来了吧。
+23,ビィ/碧,いやぁ～<br>ランスロットが急に怖い顔して<br>止めに入るから驚いたぜ。,呀～<br>兰斯洛特的神情突然变得恐怖了<br>真令人惊讶。
+24,ルリア/露莉亚,はい……<br>騎士団をまとめるのも<br>なかなか大変そうですね！,是啊……<br>领导骑士团也不是一件容易事呢！
+25,ランスロット/兰斯洛特,白竜騎士団は団員も多い。<br>皆が共通の規則を守ることによって、<br>秩序を保たなければならないんだ。,白龙骑士团的团员很多，<br>只有大家都遵守共同的规则<br>才能维持秩序。
+26,ランスロット/兰斯洛特,特に、仲間同士で傷つけあうなど、<br>絶対に許されないご法度だ。,特别是，让同伴受伤是绝对不能容忍的！
+27,ランスロット/兰斯洛特,その規則は、たとえ団長であれ絶対。<br>軍規を乱した者は、どんな理由であれ<br>裁きから逃れられない……,即使是团长，<br>无论有什么理由，<br>只要触犯了规章准则就一定不能赦免。
+28,ルリア/露莉亚,騎士としてやっていくのも<br>なかなか大変そうですね……,骑士的任务也很辛苦呢。
+29,ランスロット/兰斯洛特,怖がらせてすまない！<br>でも……,抱歉，我并没有想要吓到你们。<br>但是......
+30,ランスロット/兰斯洛特,それを言えば、騎空団を<br>まとめるのだって大変だろう？<br>なぁ、姬塔？,说到这个，<br>领导骑空团也不是件容易事，<br>对吧、姬塔？
+30-sel1_txt,,<span class='scene-font-katari'>それほどでも</span>,<span class='scene-font-katari'>也没那么厉害/span>
+30-sel2_txt,,<span class='scene-font-katari'>割と自由かな</span>,<span class='scene-font-katari'>比较自由吧</span>
+31,ランスロット/兰斯洛特,ふっ……<br>余裕といったところか。,嗯……<br>也就是说游刃有余呢。
+32,ランスロット/兰斯洛特,確かに……<br>空には自由が似合うな。,确实……<br>天空与自由相似呢。
+33,ランスロット/兰斯洛特,だが……<br>その歳でこれだけの騎空団を<br>率いるとは、人望があるのだろうな。,但是……<br>在你这个年纪领导一个团队，<br>一定要很有人望吧。
+34,ビィ/碧,まぁな！　ランスロットも<br>姬塔の騎空団についてきたら<br>その理由がわかると思うぜ？,差不多吧！<br>如果兰斯洛特加入我们的话<br>一定就能明白的！
+34-sel1_txt,,<span class='scene-font-katari'>いつでも歓迎するよ！</span>,<span class='scene-font-katari'>我们会一直欢迎你的！</span>
+34-sel2_txt,,<span class='scene-font-katari'>でも騎士団が……</span>,<span class='scene-font-katari'>但是骑士团……</span>
+35,ランスロット/兰斯洛特,ははは、面白い！<br>俺を、誘ってくれてるのか？,哈哈哈，真有趣<br>是在邀请我吗？
+36,ランスロット/兰斯洛特,そうだ。<br>今は白竜騎士団の団長として、<br>ファフニールを討つのが俺の使命だ。,是啊。<br>现在作为白龙骑士团的团长，<br>讨伐法芙娜是我的使命。
+37,ランスロット/兰斯洛特,おっと……もう客室の前だ。<br>今日は長旅で疲れたろう？<br>明日に備えてゆっくり休むといい。,啊，我们已经到客房了。<br>你们一定旅途劳累了吧，<br>请为明天好好休息。
+38,ビィ/碧,あぁ！<br>わざわざ案内ありがとな！,嗯！<br>谢谢你特地为我们带路！
+39,ルリア/露莉亚,おやすみなさい！<br>ランスロットさん。,晚安！<br>兰斯洛特先生。
+40,ランスロット/兰斯洛特,おやすみ……,晚安
+41,ランスロット/兰斯洛特,<span class='scene-font-kokoro'>（騎空団か。</span><br><span class='scene-font-kokoro'>彼らの背負う使命とはいかほどのものか、</span><br><span class='scene-font-kokoro'>ふふ、実に興味深いな。）</span>,<span class='scene-font-kokoro'>（骑空团吗。</span><br><span class='scene-font-kokoro'>他们背负的究竟是怎样的使命、</span><br><span class='scene-font-kokoro'>嗯嗯、我真的很在意。）
+42,,<span class='scene-font-katari'>こうして……</span><br><span class='scene-font-katari'>ファフニール討伐を目前に控えた夜は、</span><br><span class='scene-font-katari'>静かに更けていった。</span>,<span class='scene-font-katari'>こうして……</span><br><span class='scene-font-katari'>ファフニール討伐を目前に控えた夜は、</span><br><span class='scene-font-katari'>静かに更けていった。</span>
+43,,<span class='scene-font-katari'>姬塔達は、明日の戦いに備えて</span><br><span class='scene-font-katari'>つかの間の休息を取るのだった。</span>,<span class='scene-font-katari'>姬塔一行，为了准备明日的战斗</span><br><span class='scene-font-katari'>短暂地休息了。</span>
+info,,,scene_fate_chr095_ep1
+译者,,,myu

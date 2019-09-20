@@ -1,0 +1,27 @@
+id,name,text,trans
+0-chapter_name,,救国の騎士の迷い,救国骑士的迷茫
+0-synopsis,,白竜騎士団の面々と共に魔物討伐を進める姬塔一行は、とある小さな村に立ち寄る。国を救った英雄である姬塔達やランスロットに村人達は沸くが、そんな中でランスロットは、カール王の統治に対する不安を耳にしてしまう。,姬塔一行和白龙骑士团的人们一同去消灭怪物，到达了一个小小的村庄。村里人因为救国的英雄姬塔一行和兰斯洛特的到达而沸腾，在这些人之中，兰斯洛特听到了有人对卡尔王统治的不安。
+0,,<span class='scene-font-katari'>魔物の討伐を進める</span><br><span class='scene-font-katari'>姬塔達と白竜騎士団は</span><br><span class='scene-font-katari'>小さな村に立ち寄った。</span>,<span class='scene-font-katari'>姬塔一行和白龙骑士团</span><br><span class='scene-font-katari'>为了讨伐魔物</span><br><span class='scene-font-katari'>来到了一个小小的村庄。</span>
+1,村の女性/村里的女性,まあ！　あれが白竜騎士団……！<br>この国を守って下さる<br>騎士様なのね……！,啊！　那就是白龙骑士团……！<br>守护这个国家的<br>骑士大人啊……！
+2,村の男性,一緒にいるあの騎空士は<br>国を救って下さった方々だぞ！,和他们在一起的也是<br>拯救这个国家的骑空士！
+3,,<span class='scene-font-katari'>村の人々は</span><br><span class='scene-font-katari'>姬塔達と騎士団を</span><br><span class='scene-font-katari'>明るく出迎えてくれた。</span>,<span class='scene-font-katari'>村里的人们</span><br><span class='scene-font-katari'>开心地迎接了</span><br><span class='scene-font-katari'>姬塔和兰斯洛特。</span>
+4,ビィ/碧,それにしても、<br>オイラ達も騎士団も<br>すげぇ人気者だな！,这么说，<br>我们和骑士团<br>真是有人气啊！
+5,パーシヴァル/帕西瓦尔,小さな村だからな。<br>周囲の魔物を一掃するような<br>戦力はあるまい。,因为是比较小的村子。<br>没有能够扫清<br>周围的怪物的战力。
+6,ランスロット/兰斯洛特,だからこそ俺達に期待をかけ、<br>こうして歓待してくれる……,所以才这样期待我们，<br>像这样优待我们……
+7,ランスロット/兰斯洛特,期待を裏切らないよう、<br>尽力しないとな。,为了不辜负他们的期待，<br>我们必须尽力而为。
+8,,<span class='scene-font-katari'>討伐に向けて</span><br><span class='scene-font-katari'>気合を入れ直すランスロット。</span>,<span class='scene-font-katari'>兰斯洛特重新整理心情</span><br><span class='scene-font-katari'>去讨伐怪物。</span>
+9,,<span class='scene-font-katari'>そんな彼の耳に、</span><br><span class='scene-font-katari'>村の人々の話し声が聞こえてきた。</span>,<span class='scene-font-katari'>这时，他听到了</span><br><span class='scene-font-katari'>村里人的谈话。</span>
+10,村の女性/村里的女性,……騎士団は頼りになるけれど、<br>カール様の統治になってから<br>二度も事件に巻き込まれて……,……虽然能够依靠骑士们，<br>但自从卡尔王继任后<br>这已经是第二次的事件了……
+11,村の女性/村里的女性,また何か起こりそうで、<br>不安だわ……,就像是还要发生什么一样、<br>我们十分不安……
+12,村の男性,……元々、カール様は<br>先代の王様が亡くなって<br>急に後を継いだからなぁ……,……因为本来卡尔王就是<br>因为先代的王逝世后才<br>突然继任的……
+13,村の男性,昔から人が良いって有名だけど、<br>それが王様に向いてるかどうかは<br>わからねぇよなぁ……,虽然他以前就以性格很好有名、<br>到那时作为国王如何<br>就不知道了……
+14,村の女性/村里的女性,お兄様の方がしっかりしてるって<br>言われてたものねぇ……<br>お元気だったら今頃は……,别人都说他哥哥做的比较好<br>以前还好现在就……
+15,ランスロット/兰斯洛特,…………！,…………！
+16,ランスロット/兰斯洛特,<span class='scene-font-kokoro'>（なんてことだ……！</span><br><span class='scene-font-kokoro'>人々が不安を抱いていることは</span><br><span class='scene-font-kokoro'>知っていたが……）</span>,<span class='scene-font-kokoro'>（居然……！</span><br><span class='scene-font-kokoro'>虽然我知道大家</span><br><span class='scene-font-kokoro'>心里不安……）</span>
+17,ランスロット/兰斯洛特,<span class='scene-font-kokoro'>（まさか陛下の統治にまで</span><br><span class='scene-font-kokoro'>疑問を持つ様になっているとは……）</span>,<span class='scene-font-kokoro'>（居然会到对殿下的统治</span><br><span class='scene-font-kokoro'>产生疑问的地步……）</span>
+18,ルリア/露莉亚,ランスロットさん？<br>どうかしましたか？,兰斯洛特先生？<br>怎么了吗？
+19,ランスロット/兰斯洛特,あ……い、いや、なんでもない。,啊……不，没什么。
+20,ランスロット/兰斯洛特,そろそろ、魔物の討伐に<br>出発しようか！,差不多要出发去<br>讨伐怪物了吧！
+21,ビィ/碧,おう！　任せとけってんだ！<br>行こうぜ、姬塔！,嗯！　交给我们吧！<br>上啊、姬塔！
+info,,,scene_ult_chr095_ep1_q2_s10
+译者,,,myu
