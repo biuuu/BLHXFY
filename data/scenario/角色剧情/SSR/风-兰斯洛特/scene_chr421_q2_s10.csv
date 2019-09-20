@@ -1,0 +1,44 @@
+id,name,text,trans
+0-chapter_name,,無名の騎士だったからこそ,正因为是无名的骑士
+0-synopsis,,遊学先の騎士団入団試験の見学中、ランスロットは受験生の人数に対して試験官の数が多いことを指摘する。その国では受験生の日常を見ることで騎士としての素質の有無を判断しており、この制度のお陰で地方出身でありながら今の地位を獲得したと試験総監督は語る。その誇らしげな姿にランスロットは感銘を受けるが、価値観の偏った王都でその制度を適用できるか疑問を抱く。,在见学这个国家的考试时，兰斯洛特指出了考试官对考生的比例过大。总监督说这个国家通过考察考生的日常来判断其有无骑士的资质，多亏了此制度许多乡下出身的人也能成为骑士。兰斯洛特感受到其骄傲的身姿、但对此法是否适用于价值观有所偏离的王都抱有疑惑。
+1,,<span class='scene-font-katari'>パーシヴァルに案内された国では</span><br><span class='scene-font-katari'>ちょうど王国が擁する騎士団の</span><br><span class='scene-font-katari'>入団試験が行われていた。</span>,<span class='scene-font-katari'>帕西瓦尔带路前往了这个国家，</span><br><span class='scene-font-katari'>而此时他们的骑士团正好</span><br><span class='scene-font-katari'>在举行入团考试。</span>
+2,,<span class='scene-font-katari'>パーシヴァルはランスロットを</span><br><span class='scene-font-katari'>騎士団の重役に紹介し、試験の現場を</span><br><span class='scene-font-katari'>見せるようにかけ合うのだった。</span>,<span class='scene-font-katari'>帕西瓦尔把兰斯洛特</span><br><span class='scene-font-katari'>介绍给了骑士团的高层，并且商量让兰斯洛特</span><br><span class='scene-font-katari'>观看考试现场。</span>
+3,試験総監督,そういうことでしたか。<br>畏まりました。我々でよければ<br>ランスロット様のお力になりましょう。,是这样一回事啊。<br>我明白了，可以的话，<br>就让我们帮助兰斯洛特先生吧。
+4,ランスロット/兰斯洛特,ありがとうございます。<br>よろしくお願いします。,非常感谢。<br>拜托您了。
+5,パーシヴァル/帕西瓦尔,ふっ……<br>では俺はこれで失礼する。,嗯…<br>那我先告辞了。
+6,ランスロット/兰斯洛特,ああ。仲介ありがとう。<br>元気でな。,嗯，谢谢你介绍。<br>一路走好。
+7,,<span class='scene-font-katari'>パーシヴァルは当初の予定通り</span><br><span class='scene-font-katari'>ランスロットを紹介すると、別の用事が</span><br><span class='scene-font-katari'>あると言って去っていった。</span>,<span class='scene-font-katari'>帕西瓦尔和计划一样</span><br><span class='scene-font-katari'>介绍了兰斯洛特后，</span><br><span class='scene-font-katari'>就说去忙别的事情了。</span>
+13,,<span class='scene-font-katari'>ランスロットは試験総監督に</span><br><span class='scene-font-katari'>案内されながら、</span><br><span class='scene-font-katari'>試験の会場を歩いていく。</span>,<span class='scene-font-katari'>考试总监带着</span><br><span class='scene-font-katari'>兰斯洛特、</span><br><span class='scene-font-katari'>走向考试场。</span>
+14,ランスロット/兰斯洛特,<span class='scene-font-kokoro'>（受験者はやや少ないように感じるが、</span><br><span class='scene-font-kokoro'>この国の規模を考えれば</span><br><span class='scene-font-kokoro'>これくらいが妥当といったところか）</span>,<span class='scene-font-kokoro'>（考试的人感觉稍微有点少、</span><br><span class='scene-font-kokoro'>但考虑这个国家的规模</span><br><span class='scene-font-kokoro'>这么多大概是合适的）</span>
+15,ランスロット/兰斯洛特,<span class='scene-font-kokoro'>（試験科目も募集方法も王都と</span><br><span class='scene-font-kokoro'>ほとんど差異がなかった。</span><br><span class='scene-font-kokoro'>変わった点を強いて挙げるなら……）</span>,<span class='scene-font-kokoro'>（考试科目和募集方法都和王都</span><br><span class='scene-font-kokoro'>基本没有什么差异。</span><br><span class='scene-font-kokoro'>要说不同的地方的话……）</span>
+16,試験総監督,かの王都の騎士団の入団試験に比べれば<br>規模も試験内容も見劣りしてしまうと<br>思いますが、いかがでしょうか？,虽然比起贵国入团考试，<br>我们的不论是规模还是内容都逊色许多，<br>您认为怎么样？
+17,ランスロット/兰斯洛特,いいえ、先程の説明を聞く限り<br>ここの試験制度は評価基準も綿密で<br>水準の高いものだと思います。,不，就听了刚才的说明而言，<br>这里的考试制度和评价标准的水准都很高。
+18,ランスロット/兰斯洛特,しかし、受験者に対して試験官の数が<br>とても多いように感じますが、<br>これには何か意味が？,但是，感觉有好多考官<br>跟着一个考生，这是怎么回事？
+19,試験総監督,ええ、パーシヴァル様もここを訪れた時<br>同じことを質問なさりましたな。,嗯，帕西瓦尔先生拜访这里时<br>也问了一样的问题。
+20,試験総監督,試験で最低限の技術と知識を見た後は、<br>試験官は受験者と暫く行動を共にし、<br>人となりを調べます。,在考完最低限度的技术和知识后，<br>考官会暂时和考生一起行动，<br>考察他的为人品格。
+21,試験総監督,他者を敬えるか、<br>乱暴な真似はしないか……,考生是否尊敬他人，<br>有无粗暴的行为……
+22,試験総監督,協調性や責任感など、騎士としての<br>適性があるか判断するのです。,还有协调性和责任感，<br>我们会判断考生是否适合作为骑士。
+23,ランスロット/兰斯洛特,なるほど……<br>だからこれだけの試験官が<br>受験者を見ているんですね。,原来如此……<br>所以才让考官跟着考生啊。 
+24,ランスロット/兰斯洛特,しかし、入団試験にこれだけの人数を<br>割くというのは組織運用における<br>効率の面で無駄も多くなるのでは……,但是，入团考试就用了这么多人，<br>那么骑士团的效率会不会降低啊……
+25,試験総監督,ランスロット様の仰るとおり、<br>この方法は決して効率的とは<br>言えないでしょう。,和兰斯洛特先生说的一样，<br>这种方法缺乏效率。
+26,試験総監督,ですが、素質のある受験者を<br>入団させることはいずれ<br>我が国にとってプラスになります。,但是有素质的考生入团后<br>总有一天会成为国家的力量。
+27,試験総監督,未来への投資と考えればこそ。<br>今許容できる最大限の労力をかけて<br>試験の運営にあたっているのです。,因为考虑了对未来的投资，<br>所以才派出了最大程度的人数举行考试。
+28,ランスロット/兰斯洛特,<span class='scene-font-kokoro'>（白竜騎士団の入団試験制度の問題は</span><br><span class='scene-font-kokoro'>２つある……）</span>,<span class='scene-font-kokoro'>（白龙骑士团的入团考试制度的问题有</span><br><span class='scene-font-kokoro'>２个……）</span>
+29,ランスロット/兰斯洛特,<span class='scene-font-kokoro'>（１つは一部の試験官の偏った価値観、</span><br><span class='scene-font-kokoro'>もう1つは教育の場に恵まれた</span><br><span class='scene-font-kokoro'>貴族達に有利な試験内容……）</span>,<span class='scene-font-kokoro'>（一个是部分考官不正直的价值观，</span><br><span class='scene-font-kokoro'>另一个是考试内容对</span><br><span class='scene-font-kokoro'>受过教育的贵族有利……）</span>
+30,ランスロット/兰斯洛特,<span class='scene-font-kokoro'>（この国のやり方なら、</span><br><span class='scene-font-kokoro'>２つ目の問題は解決できるの</span><br><span class='scene-font-kokoro'>かもしれないのか）</span>,<span class='scene-font-kokoro'>（如果是用这个国家的做法、</span><br><span class='scene-font-kokoro'>也许能解决</span><br><span class='scene-font-kokoro'>这两个问题）</span>
+31,ランスロット/兰斯洛特,家柄や育った環境に関係なく<br>入団できると聞いていますが、<br>実際のところはどうなんでしょうか？,我听说入团能够不考虑家庭背景和教育环境，<br>那么实际上也是这样的吗？
+32,試験総監督,貴族のかたの方が多くはありますが、<br>それはそもそも入団希望者の半数を<br>貴族が占めているからです。,实际上贵族大概占了入团考生的一半。
+33,試験総監督,ですが、私も元々は辺境の村の出ですし<br>他国と比べるとその割合は<br>かなり少ないと言えるでしょう。,但是，我本来也是出身边境的村庄。<br>比起其他国家，这个比例算是低的了。
+34,ランスロット/兰斯洛特,あなたも。<br>入団後も肩身の狭い思いは<br>しませんでしたか？,你也是啊。<br>那你入团后有没有感到自卑呢？
+35,試験総監督,ええ、家柄で人を軽蔑するような者は<br>試験の段階で落とされますから。,不。如果是轻视他人出身的人，<br>在考试时就被踢出去了。
+36,試験総監督,我々は貴族だから優れているだとか<br>地方の出だから劣っているというような<br>安直な考え方はしませんよ。, 我们没有贵族一定优秀，<br>乡下出身一定是低劣这样简单的想法。
+37,,<span class='scene-font-katari'>騎士は歯切れの良い言葉で</span><br><span class='scene-font-katari'>そう断言する。</span>,<span class='scene-font-katari'>骑士肯定地</span><br><span class='scene-font-katari'>断言道。</span>
+38,,<span class='scene-font-katari'>堂々とした立ち姿はランスロットが</span><br><span class='scene-font-katari'>見てきた如何なる騎士にも劣らない</span><br><span class='scene-font-katari'>気高さを感じさせるものだった。</span>,<span class='scene-font-katari'>看着他那威风堂堂的身姿，</span><br><span class='scene-font-katari'>兰斯洛特感受到他</span><br><span class='scene-font-katari'>有着不逊色任何骑士的高尚气概。</span>
+39,ランスロット/兰斯洛特,真に平等な思想はこの試験制度で<br>長くやってきた積み重ねの結果<br>ということなのでしょう。,这种平等的思想<br>也是这种考试制度长期累积的成果吧。
+40,ランスロット/兰斯洛特,あなたを見ているとこの国の<br>入団試験制度がいかに素晴らしいか<br>わかる気がします。,看着你，就觉得这个国家的<br>入团考试制度相当地优秀了。
+41,試験総監督,ランスロット様からそのような<br>お言葉をいただけるとは、<br>大変光栄です！,从兰斯洛特先生那里得到这样的称赞，<br>我感到十分光荣！
+42,ランスロット/兰斯洛特,<span class='scene-font-kokoro'>（だが、偏った価値観を正すことは</span><br><span class='scene-font-kokoro'>簡単ではない。王都にも</span><br><span class='scene-font-kokoro'>取り入れられるものなのだろうか？）</span>,<span class='scene-font-kokoro'>（但是，要矫正歪曲的价值观可不简单。</span><br><span class='scene-font-kokoro'>在王都能够引入</span><br><span class='scene-font-kokoro'>这样的制度吗？）</span>
+43,ランスロット/兰斯洛特,よければ試験官殿からも直接話を<br>お聞きしたい。,如果可以的话，<br>我想和考官直接交流一下。
+44,試験総監督,構いませんよ。<br>では、休憩中の試験官の所へ<br>お連れいたしましょう。,没问题哦。<br>那么，我带你去考官休息室吧。
+45,,<span class='scene-font-katari'>手本となる入団試験制度を見つけ、</span><br><span class='scene-font-katari'>ランスロットの調査は</span><br><span class='scene-font-katari'>まだまだ続いていく。</span>,<span class='scene-font-katari'>找到了模范的入团考试制度，</span><br><span class='scene-font-katari'>兰斯洛特继续</span><br><span class='scene-font-katari'>他的调查。</span>
+info,,,scene_chr421_q2_s10

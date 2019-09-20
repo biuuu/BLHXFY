@@ -1,0 +1,56 @@
+id,name,text,trans
+0-chapter_name,,無名の騎士だったからこそ,正因为是无名的骑士
+0-synopsis,,入団試験制度の問題の解決策を求め、ランスロットは様々な境遇の人が騎士になるという国へ出立する。道中パーシヴァルはランスロットに入団前の勉強法について尋ねる。ランスロットは辛うじて手に入った教本から知識を得ていたことを話し、教育のハンデがいかに過酷なものかを知ったからこそ、同じ境遇の子供にチャンスを与えたいと胸の内を明かす。,为了找寻解决入团考试制度的方法、兰斯洛特去了一个各种背景的人都能成为骑士的国家。一路上帕西瓦里问兰斯洛特入团前的学习技巧。兰斯洛特谈到自己从好不容易才找到的教科书中学到了知识，并说正因为知道了教育上的不足是多么残酷，才想给处境相同的孩子提供机会。
+1,,<span class='scene-font-katari'>ジークフリートから</span><br><span class='scene-font-katari'>自分の騎士団入団の秘密を</span><br><span class='scene-font-katari'>聞かされたランスロット。</span>,<span class='scene-font-katari'>兰斯洛特</span><br><span class='scene-font-katari'>从齐格飞口中</span><br><span class='scene-font-katari'>得知了自己入团时的秘密。</span>
+2,,<span class='scene-font-katari'>新しい入団試験制度のヒントが</span><br><span class='scene-font-katari'>得られたかに思えたが、</span><br><span class='scene-font-katari'>抜本的な解決策は見つからずにいた。</span>,<span class='scene-font-katari'>虽然齐格飞</span><br><span class='scene-font-katari'>给了自己提示，</span><br><span class='scene-font-katari'>但是还没有根本的解决方法。</span>
+3,ランスロット/兰斯洛特,…………,…………
+9,ヴェイン/维恩,…………,…………
+10,,<span class='scene-font-katari'>心配したヴェインは周囲に相談し</span><br><span class='scene-font-katari'>パーシヴァルからとある国の話を聞く。</span>,<span class='scene-font-katari'>为此操心的维恩和周围人商量了一下，</span><br><span class='scene-font-katari'>并从帕西瓦尔那里听说了某国的事。</span>
+11,,<span class='scene-font-katari'>その国が擁する騎士団の入団試験には</span><br><span class='scene-font-katari'>特殊な制度が設けられ、家柄に関係なく</span><br><span class='scene-font-katari'>多様な人々が騎士になるという。</span>,<span class='scene-font-katari'>那个国家的骑士团设立了特殊的制度，</span><br><span class='scene-font-katari'>能不顾家庭背景，</span><br><span class='scene-font-katari'>让各种各样的人成为骑士。</span>
+12,,<span class='scene-font-katari'>ヴェインは一度その国を</span><br><span class='scene-font-katari'>偵察に行ってはどうかと</span><br><span class='scene-font-katari'>ランスロットに話すのだった。</span>,<span class='scene-font-katari'>维恩建议兰斯洛特</span><br><span class='scene-font-katari'>去次那个国家</span><br><span class='scene-font-katari'>进行考察。</span>
+13,ヴェイン/维恩,俺、難しいことはわかんないけどさ……,虽然我不懂复杂的事情……
+14,ヴェイン/维恩,ここでじっと考えてるよりは<br>色んな物を見た方が<br>いい案も出ると思うんだ。,但是我认为比起在这里一直思考，<br>还是出去看看各种东西比较容易想出好主意。
+15,ヴェイン/维恩,ランちゃんの留守は<br>副団長の俺が預かるからさ、<br>安心して行ってきてくれよ！,看门就交给副团长的我吧！<br>兰酱你就安心地走吧！
+16,ランスロット/兰斯洛特,すまない、ヴェイン。<br>ありがとな。,抱歉了，维恩。<br>谢谢你。
+22,,<span class='scene-font-katari'>こうしてランスロットは</span><br><span class='scene-font-katari'>パーシヴァルと共に定期便に乗り込み</span><br><span class='scene-font-katari'>王都を出立するのだった。</span>,<span class='scene-font-katari'>こうしてランスロットは</span><br><span class='scene-font-katari'>于是兰斯洛特就和帕西瓦尔</span><br><span class='scene-font-katari'>一起动身登上了王都的定期船。</span>
+24,ランスロット/兰斯洛特,ここにいたのか。,就在这里吧。
+25,パーシヴァル/帕西瓦尔,……何か用か？,……有什么事吗？
+26,ランスロット/兰斯洛特,バタバタしていて、ちゃんと<br>礼を伝えられていなかったと<br>思ってさ。,慌忙出来，<br>好像没有好好谢谢你。
+27,ランスロット/兰斯洛特,ヴェインに色々教えてくれたこと<br>感謝してるよ。<br>しかも同行までさせてくれるなんて。,非常感谢你告诉维恩各种事情，<br>还陪我一起来这里。
+28,パーシヴァル/帕西瓦尔,ふん……駄犬が騒いで<br>落ち着かなかっただけだ。,哼……只是让那只<br>吵闹的笨狗安静下来罢了。
+29,パーシヴァル/帕西瓦尔,それに、騎士団の重役とは顔見知りだ。<br>俺が直々に紹介してやるのが<br>筋というものだろう。,而且，我认识那个骑士团的高层，<br>让我去直接介绍更方便吧。
+30,ランスロット/兰斯洛特,ふふふ、<br>伝手がなかったから助かるよ。,呵呵，<br>能够帮忙介绍真是帮大忙了。
+31,パーシヴァル/帕西瓦尔,ところで、<br>ジークフリートの話を聞いていて<br>思ったんだが……,说起来，<br>虽然听了齐格飞的那番话……
+32,パーシヴァル/帕西瓦尔,騎士団の入団試験を受ける前、<br>お前たちはどうやって<br>剣や兵法の勉強をしていたんだ？,你们在入团考试前，<br>是怎么学习剑术和兵法的？
+33,ランスロット/兰斯洛特,どうやってって、特別なことは<br>何もしてなかったけど。,怎么学习，<br>好像也没干什么特别的事情来着。
+34,パーシヴァル/帕西瓦尔,俺の家には騎士になるための教養や<br>剣の技を指導する教師がいた。<br>多くの貴族がそうだ。,我家有专门培养骑士礼仪，<br>指导剑术的老师。<br>大多数的贵族也是这样。
+35,パーシヴァル/帕西瓦尔,お前たちには<br>そのような師となる存在は<br>いなかったということか？,你们没有这样的老师吗？
+36,ランスロット/兰斯洛特,ああ、そういう意味か。<br>教えてくれる人が<br>全然いなかったわけじゃない。,啊，是说这个啊。<br>也不是完全没有教导我们的人。
+37,ランスロット/兰斯洛特,でも、パーシヴァルからしてみれば<br>先生って感じじゃないんだろうな。,但是却不是像帕西瓦尔<br>所说的老师那样的呢。
+38,,<span class='scene-font-katari'>苦笑しながらランスロットは</span><br><span class='scene-font-katari'>入団前、故郷にいた頃のことを</span><br><span class='scene-font-katari'>語り始める。</span>,<span class='scene-font-katari'>兰斯洛特苦笑着</span><br><span class='scene-font-katari'>开始说入团前</span><br><span class='scene-font-katari'>他在故乡时的故事。</span>
+39,ランスロット/兰斯洛特,俺の家の近くにちょっと有名な<br>剣術家のおじさんがいたんだ。,在我家附近有一个<br>小有名气的剑术家老爷爷。
+40,ランスロット/兰斯洛特,俺やヴェインが<br>木剣で剣の練習をしていた時、<br>その人に声をかけられた。,我和维恩在用木剑联系剑术时，<br>被他搭话了。
+41,ランスロット/兰斯洛特,おじさんは剣の握り方とか<br>間合いの取り方とか、<br>基本的なことを色々教えてくれた。,爷爷教了我们很多基本的东西，<br>像是剑的握法啊，<br>把握时机的方法啊这样的。
+42,パーシヴァル/帕西瓦尔,聞く限り、それは師と呼ぶに<br>相応しい男のように思えるが……,这样一听，<br>我觉得他就是你们老师啊……
+43,ランスロット/兰斯洛特,俺やヴェインにとっては<br>先生だったよ、間違いなく。,对我和维恩来说，<br>他毫无疑问就是老师哦。
+44,ランスロット/兰斯洛特,ただ、おじさんは騎士じゃなかったから<br>戦いのことは詳しくても騎士としての<br>教養には精通していなかったんだ。,但是，爷爷不是骑士。<br>所以虽然他精通战斗方面的事情，<br>却对骑士礼仪不太了解。
+45,パーシヴァル/帕西瓦尔,騎士を指導する者としては<br>確かに知識不足だったといえるか……,如果作为骑士指导者，<br>确实缺乏知识呢……
+46,パーシヴァル/帕西瓦尔,む……ところでお前は<br>高名な剣術家を打ち負かしたことで<br>推薦枠を獲得したと聞いたが……,嗯……话说我有听说过你<br>打败了富有盛名的剑术家，<br>从而获得了推荐资格的事情……
+47,ランスロット/兰斯洛特,ああ、それはおじさんのことだ。<br>勝てたのは運がよかっただけさ。,嗯，这就是那个爷爷。<br>我赢了他只是运气好罢了。
+48,ランスロット/兰斯洛特,だが、それでちょっとした騒ぎになって<br>おじさんはある日突然、<br>剣術家を廃業しちゃってさ……,但是这在当时引起了小小的轰动，<br>爷爷他有一天，突然就放弃剑术了……
+49,パーシヴァル/帕西瓦尔,子供に負けて<br>自信を失ったのか？,难道是输给小孩子<br>失去了自信吗？
+50,ランスロット/兰斯洛特,わからない……<br>もうお前に教えることはないって、<br>剣を捨てて鍬で畑を耕し始めたんだ。,我不知道……<br>他对我说已经没有什么好教你的了之后，<br>就扔下剑去种田了。
+51,ランスロット/兰斯洛特,それ以来俺は本を読んだり<br>魔物と戦ったりして<br>独学で戦い方を学んでいった。,从那之后我就一直<br>读书自学战斗的方法了。
+52,ランスロット/兰斯洛特,騎士としての教養もそんな感じで<br>本を読んで身につけた。<br>あまりいい教本もなかったけど。,骑士的教养也是读书得来的，<br>虽然说没有什么好的教材。
+53,,<span class='scene-font-katari'>パーシヴァルはいかに自分が恵まれた</span><br><span class='scene-font-katari'>環境で育ち、容易に知識を得られる場に</span><br><span class='scene-font-katari'>いたのかを実感する。</span>,<span class='scene-font-katari'>帕西瓦尔体会到了自己能够</span><br><span class='scene-font-katari'>在容易学习的环境中</span><br><span class='scene-font-katari'>是多么地幸运。</span>
+54,,<span class='scene-font-katari'>不遇な環境にいる者が騎士を</span><br><span class='scene-font-katari'>目指すことがどれだけ困難なことか、</span><br><span class='scene-font-katari'>改めて理解するのだった。</span>,<span class='scene-font-katari'>也理解了普通的人</span><br><span class='scene-font-katari'>要以骑士为目标</span><br><span class='scene-font-katari'>是多么的困难。</span>
+55,パーシヴァル/帕西瓦尔,こう言ってはなんだが……<br>その状況でよく騎士を目指そうなどと<br>思ったな。,虽然这样……<br>但是你在那种情况下<br>还想要成为骑士啊。
+56,ランスロット/兰斯洛特,単純に現実を知らなかっただけだ。<br>知ってたらきっと尻込みしてたと思う。,只是单纯地无知罢了，<br>如果知道现实有多残酷的话<br>我一定会退缩的。
+57,ランスロット/兰斯洛特,でも……俺が騎士に<br>なりたいという思いは本物だった。<br>ハンデを理由に諦めたくないほどに。,但是……我是真的想成为骑士，<br>不会因为简单的理由就放弃。
+58,ランスロット/兰斯洛特,だから俺は、昔の俺と同じような境遇に<br>いる子供たちにもチャンスを<br>与えられるようにしたいんだ。,所以我也想给予<br>和我过去境遇相同的孩子们机会。
+59,パーシヴァル/帕西瓦尔,ふっ、お前の理想は<br>委細承知したが……,哼，虽然完全<br>懂了你的理想……
+60,パーシヴァル/帕西瓦尔,厳正な試験が温い馴れ合いに<br>ならないことを切に願うばかりだ。,是希望你不要降低<br>严明公正的考试难度。
+61,ランスロット/兰斯洛特,ふふっ、安心してくれ。<br>きちんと人を見極めて選ぶさ。,嗯，不用担心，<br>我会好好地选拔人才的。
+62,,<span class='scene-font-katari'>ランスロットの言葉を聞き、</span><br><span class='scene-font-katari'>納得した表情を見せるパーシヴァル。</span>,<span class='scene-font-katari'>听了兰斯洛特的话，</span><br><span class='scene-font-katari'>帕西瓦尔露出了满意的表情。</span>
+63,,<span class='scene-font-katari'>自らの育った環境の違いについて</span><br><span class='scene-font-katari'>語り合う二人の眼前には目的地の島が</span><br><span class='scene-font-katari'>迫ってきているのだった。</span>,<span class='scene-font-katari'>两人说着</span><br><span class='scene-font-katari'>小时候环境的差别</span><br><span class='scene-font-katari'>就快到了目的地。</span>
+info,,,scene_chr421_q1_s10
