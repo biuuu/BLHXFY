@@ -1,7 +1,7 @@
 id,name,detail
 npc,湿婆,3040196000
 special,第三只眼，开眼,火属性伤害(特大)/自己的攻击力up（1次）<span class=text-blue>◆第三只眼开眼，下次奥义性能大幅UP</span>
-special-マハーカーラ,玛哈嘎拉,火属性伤害(特大)<span class=text-blue>◆第三只眼闭眼</span>
+special-マハーカーラ＋,玛哈嘎拉,火属性伤害(特大)<span class=text-blue>◆第三只眼闭眼</span>
 skill-1,三叉戟,对敌人造成8倍火属性伤害/赋予敌人恶灭之炎效果
 skill-1+,三叉戟,对敌人造成8倍火属性伤害/赋予敌人恶灭之炎效果
 skill-2,梵·楼陀罗,我方全体攻击力up/伤害上限up/受到的伤害减轻
