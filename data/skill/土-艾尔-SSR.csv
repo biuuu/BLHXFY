@@ -1,7 +1,7 @@
 id,name,detail
 npc,艾鲁,3040084000
 special,大罪,土属性伤害(特大)/获得土属性追击效果
-special-ビート･ザ･ウォール,震撼高墙,土属性伤害(特大)/获得土属性追击效果/效果发动中必TA
+special-ビート・ザ・ウォール,震撼高墙,土属性伤害(特大)/获得土属性追击效果/效果发动中必TA
 skill-1,罪恶击破,<div class=prt-text-small>自身HP越少，攻击强化量越大　<span class=text-blue>◆消耗自身最大HP的25%</span></div>
 skill-1+,罪恶击破,<div class=prt-text-small>自身HP越少，攻击强化量越大　<span class=text-blue>◆消耗自身最大HP的25%</span></div>
 skill-2,震撼反击,<div class=prt-text-small>  不发动普攻和奥义，进行反击(2次)　<span class=text-blue>◆奥义值不上升，每回合消耗10%奥义值/再使用或奥义值为0时解除</span></div>
