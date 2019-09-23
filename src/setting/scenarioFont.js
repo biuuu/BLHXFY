@@ -19,9 +19,9 @@ const setBold = () => {
 const scenarioFont = () => {
   if (!config.font) {
     if (Game.ua.os.name === 'Windows') {
-      insertCSS('jpkana, blhxfywf, "Microsoft Jhenghei", "Yu Gothic", "Meiryo"')
+      insertCSS('none')
     } else {
-      insertCSS('jpkana')
+      insertCSS('none')
     }
   } else if (config.font !== 'none') {
     insertCSS(config.font)

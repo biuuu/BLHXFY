@@ -5,7 +5,7 @@ import './keepBgm'
 import './settingBtnText'
 import './scenarioFont'
 // import './fixModalPos'
-import debounce from 'lodash/debounce'
+import throttle from 'lodash/throttle'
 import isPlainObject from 'lodash/isPlainObject'
 import config from '../config'
 
@@ -40,7 +40,8 @@ const keyMap = new Map([
   ['font', 'font'],
   ['font-bold', 'fontBold'],
   ['plain-text', 'plainText'],
-  ['battle-trans', 'battleTrans']
+  ['battle-trans', 'battleTrans'],
+  ['origin-text', 'originText']
 ])
 
 const setting = (type, value) => {
@@ -61,7 +62,7 @@ const setting = (type, value) => {
     $('#blhxfy-setting-modal').addClass('show')
   } else if (type === 'hide') {
     $('#blhxfy-setting-modal').removeClass('show')
-  } else if (type === 'language') {
+  } else if (type === 'language' || type === 'fast-mode') {
     require(['view/setting/index'], function (sett) {
       sett.prototype.onChangePostAsyncInput({ currentTarget: value.target})
     })
@@ -74,6 +75,6 @@ const setting = (type, value) => {
   }
 }
 
-const dbSetting = debounce(setting, 300)
+const thSetting = throttle(setting, 300)
 
-export default dbSetting
+export default thSetting

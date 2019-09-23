@@ -40,7 +40,7 @@ const getLocalConfig = () => {
     config.origin = origin.trim()
   }
   const keys = [
-    'autoDownload', 'bottomToolbar', 'displayName', 'removeScroller', 'hideSidebar',
+    'autoDownload', 'bottomToolbar', 'displayName', 'removeScroller', 'hideSidebar', 'originText',
     'transJa', 'transEn', 'keepBgm', 'transApi', 'font', 'fontBold', 'plainText', 'battleTrans'
   ]
   keys.forEach(key => {

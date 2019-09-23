@@ -141,7 +141,7 @@ const template = `
 				<ul class="txt-article-lead">
 					<li>可以选择隐藏网页滚动条 / 隐藏Mobage侧边栏（仅PC网页） / 在后台播放BGM</li>
 				</ul>
-				<div class="prt-button">
+				<div class="prt-button" style="flex-wrap: wrap;display: flex;">
 					<div>
 						<input id="remove-scroller-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'remove-scroller', this.checked)" type="checkbox" value="">
 						<label for="remove-scroller-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">隐藏滚动条</label>
@@ -153,6 +153,10 @@ const template = `
 					<div>
 						<input id="keep-bgm-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'keep-bgm', this.checked)" type="checkbox" value="">
 						<label for="keep-bgm-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">保持BGM</label>
+					</div>
+					<div style="margin-top:5px;">
+						<input id="origin-text-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'origin-text', this.checked);window.blhxfy.sendEvent('setting', 'fast-mode', event);" type="checkbox" value="" data-post-name="scene_fast_text_mode" name="scene-fast-text-mode">
+						<label for="origin-text-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">原文对照</label>
 					</div>
 				</div>
 			</div>
