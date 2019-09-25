@@ -67,7 +67,7 @@ const caiyunTrans = async (keyword, lang = 'en') => {
         'content-type': 'application/json',
         'referer': 'http://www.caiyunapp.com',
         'origin':'http://www.caiyunapp.com',
-        'X-Authorization': 'token cy4fgbil24jucmh8jfr5'
+        'X-Authorization': 'token:gh0nd9ybc4a7mvb2unqi'
       }
     }, 'caiyun')
     const txt =  res.target.join('\n')
