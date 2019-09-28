@@ -11,7 +11,7 @@ id,name,text,trans
 20,,<span class='scene-font-katari'>相手の劣勢に勢いづいたアーサーは、</span><br><span class='scene-font-katari'>大きく振りかぶった渾身の一撃を</span><br><span class='scene-font-katari'>モルドレッドに打ち込む。</span>,<span class='scene-font-katari'>亚瑟趁着对方处于不利的势头</span><br><span class='scene-font-katari'>向莫德雷德挥出了</span><br><span class='scene-font-katari'>大幅度的倾注全身力量的一击。</span>
 21,モルドレッド/莫德雷德,ふふっ……隙ありっ！,呵呵……有破绽！
 23,アーサー/亚瑟,うわっ……！,呜哇……！
-24,,<span class='scene-font-katari'>全体重を乗せた踏み込みの隙を</span><br><span class='scene-font-katari'>利用されて、モルドレッドに</span><br><span class='scene-font-katari'>倒されるアーサー	</span>,<span class='scene-font-katari'>莫德雷德利用了</span><br><span class='scene-font-katari'>把重心放在脚踩的地方的空隙，</span><br><span class='scene-font-katari'>把亚瑟打倒了	</span>
+24,,<span class='scene-font-katari'>全体重を乗せた踏み込みの隙を</span><br><span class='scene-font-katari'>利用されて、モルドレッドに</span><br><span class='scene-font-katari'>倒されるアーサー	</span>,<span class='scene-font-katari'>莫德雷德利用了</span><br><span class='scene-font-katari'>重心集中于落脚处的空隙，</span><br><span class='scene-font-katari'>把亚瑟打倒了	</span>
 25,モルドレッド/莫德雷德,<span class='scene-font-4'>はっ！</span>,<span class='scene-font-4'>哈！</span>
 26,,<span class='scene-font-katari'>倒れたアーサーの喉元に</span><br><span class='scene-font-katari'>木剣を突き付けるモルドレッド。</span>,<span class='scene-font-katari'>莫德雷德把木剑剑尖对准了</span><br><span class='scene-font-katari'>被打倒的亚瑟的喉咙。</span>
 27,アーサー/亚瑟,ま、参った……,我，我输了……
@@ -97,15 +97,15 @@ id,name,text,trans
 112,ヴェイン/维恩,うえっ……俺か？,呜诶……我吗？
 113,ヴェイン/维恩,それは……秘密だ。,那是……秘密。
 114,アーサー/亚瑟,秘密ってことは<br>やっぱり特訓したんですね！,你都说了秘密了<br>果然是有特训过吧！
-115,ランスロット/兰斯洛特,……秘密？<br>特訓とは何だヴェイン？,……秘密？<br>是什么特许啊维恩？
-116,ヴェイン/维恩,え、いや、その！<br>……何でもないって！,诶，不，那个！<br>……没什么的！
+115,ランスロット/兰斯洛特,……秘密？<br>特訓とは何だヴェイン？,……秘密？<br>是什么特训啊维恩？
+116,ヴェイン/维恩,え、いや、その！<br>……何でもないって！,诶，不，那个！<br>……什么都没有啦！
 117,ヴェイン/维恩,そんなことより……！<br>ジークフリートさんって<br>昔よりだいぶ丸くなったよな。,比起那个……！<br>齐格飞桑比起以前<br>变得更柔和了呢。
 118,ランスロット/兰斯洛特,……ん？<br>ああ……そうだな。,……嗯？<br>啊啊……是啊。
 119,ランスロット/兰斯洛特,黒竜騎士団の団長だった頃は、<br>今ほど気軽に口を利ける<br>雰囲気でもなかったからな。,在作为黑龙骑士团团长的那时候<br>他那周身的氛围<br>让人很难像现在一样轻松随意地向他搭话。
-120,モルドレッド/莫德雷德,そう……なんですよね。,是……这样啊。
+120,モルドレッド/莫德雷德,そう……なんですよね。,是……这样吗。
 121,ランスロット/兰斯洛特,どうしたモルドレッド？<br>急にしおらしくなって。,怎么了莫德雷德？<br>突然变得老实了。
 122,モルドレッド/莫德雷德,いや、ジークフリートさんが<br>すごい人だっていうのは、<br>分かるんですけど……,不那个，虽然我知道<br>齐格飞桑<br>是非常了不起的人……
-123,モルドレッド/莫德雷德,正直……噂話に聞く<br>竜殺しのジークフリートさんとは<br>全然イメージが結びつかなくて。,但是说实话……和传闻中的<br>屠龙的齐格飞<br>完全印象挂不上钩啊。
+123,モルドレッド/莫德雷德,正直……噂話に聞く<br>竜殺しのジークフリートさんとは<br>全然イメージが結びつかなくて。,但是说实话……和传闻中的<br>屠龙的齐格飞桑<br>完全印象挂不上钩啊。
 124,アーサー/亚瑟,ああ～！　それ分かるかも！<br>俺も、ジークフリートさんが<br>ほわっとした温かい人で驚いたもん！,啊啊～！　我懂我懂！<br>我也，因为齐格飞桑出乎意料的温和<br>吓了一大跳呢！
 125,モルドレッド/莫德雷德,だよな？　黒竜騎士団団長時代の<br>ジークフリートさんが<br>想像できないよな。,是吧？　黑龙骑士团团长时期的<br>齐格飞桑<br>真是难以想象啊。
 126,,<span class='scene-font-katari'>ジークフリートの偉大さを</span><br><span class='scene-font-katari'>いまいち実感していないふたりを見て、</span><br><span class='scene-font-katari'>にやりと笑うランスロット。</span>,<span class='scene-font-katari'>看着两个人还是缺了点</span><br><span class='scene-font-katari'>对齐格飞的伟大之处的实感</span><br><span class='scene-font-katari'>兰斯洛特微微地笑了。</span>
