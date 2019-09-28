@@ -56,7 +56,7 @@ id,name,text,trans
 67,ジークフリート/齐格飞,分かった。<br>頼りにさせてもらおう。,我知道了。<br>我会依靠你们的。
 68,ジークフリート/齐格飞,……だが、副団長になって早々<br>この様な大事に巻き込まれるとは<br>お前達も災難だったな。,……但是，刚刚当上副团长<br>就被卷进了这种大事件<br>你们也是多灾多难啊。
 69,パーシヴァル/帕西瓦尔,ふっ……<br>全くです。,呵……<br>可不是嘛。
-70,パーシヴァル/帕西瓦尔,ブルグント地方の反乱は、<br>やはり先王支持派の<br>残党の仕業でしょうか？,勃艮第地区的叛乱，<br>果然是因为支持先王的<br>残党干的好事吗？
+70,パーシヴァル/帕西瓦尔,ブルグント地方の反乱は、<br>やはり先王支持派の<br>残党の仕業でしょうか？,勃艮第地区的叛乱，<br>果然是支持先王的<br>残党干的好事吗？
 71,ジークフリート/齐格飞,ああ……恐らくな。<br>先の戦乱の際に全て捕えたと思ったが、<br>なかなか根深い問題だな。,嗯……恐怕是呢。<br>还以为在先前战乱之时已经全部捕获了<br>还真是个根深蒂固的难题啊。
 72,ランスロット/兰斯洛特,表向きには解決した様に見えても<br>心の中までは見えませんもんね……,虽然表面看上去已经解决了<br>其实心里并不这么想吧……
 73,ジークフリート/齐格飞,こちらの掲げる正義も、相手から見れば<br>ただの侵略行為に過ぎんからな。,毕竟我们这边所高举的正义，从对方的角度看来<br>只不过是侵略行为罢了。
@@ -70,7 +70,7 @@ id,name,text,trans
 86,ジークフリート/齐格飞,早急に陣を張って<br>作戦を立てるぞ。,早点建成营地<br>就能早点确立作战计划了。
 87,,<span class='scene-font-katari'>その時、ランスロットの元に</span><br><span class='scene-font-katari'>ひとりの団員が駆け寄ってくる。</span>,<span class='scene-font-katari'>就在这时，有一个团员</span><br><span class='scene-font-katari'>来到了兰斯洛特的身边。</span>
 89,ヴェイン/维恩,おーいランちゃ～ん！<br>お弁当作ったんだけど<br>渡し忘れちゃってさ！,喂ー兰～酱！<br>我给你做的便当<br>忘记拿给你了！
-90,ランスロット/兰斯洛特,<span class='scene-font-2'>おっ……おいヴェイン！</span><br><span class='scene-font-2'>仕事中にランちゃん呼びは</span><br><span class='scene-font-2'>止めてくれと言っただろう！</span>,<span class='scene-font-2'>哦……喂维恩！</span><br><span class='scene-font-2'>我不是说过</span><br><span class='scene-font-2'>工作的时候别叫我兰酱吗！</span>
+90,ランスロット/兰斯洛特,<span class='scene-font-2'>おっ……おいヴェイン！</span><br><span class='scene-font-2'>仕事中にランちゃん呼びは</span><br><span class='scene-font-2'>止めてくれと言っただろう！</span>,<span class='scene-font-2'>喂……喂维恩！</span><br><span class='scene-font-2'>我不是说过</span><br><span class='scene-font-2'>工作的时候别叫我兰酱吗！</span>
 91,ヴェイン/维恩,<span class='scene-font-2'>あっ！　ごめんなさいランちゃ……！</span><br><span class='scene-font-2'>ランスロット副団長様！　でしたねっ！</span>,<span class='scene-font-2'>啊！　对不起啊兰酱……！</span><br><span class='scene-font-2'>兰斯洛特副团长大人！　对吧！</span>
 92,ランスロット/兰斯洛特,<span class='scene-font-2'>ヴェイン、何か言葉遣いが変だぞ！</span><br><span class='scene-font-2'>次から気を付けてくれればいいから！</span>,<span class='scene-font-2'>维恩，你的说法哪里怪怪的啊！</span><br><span class='scene-font-2'>下次要注意哦！</span>
 93,ヴェイン/维恩,<span class='scene-font-2'>うん、わかった！</span><br><span class='scene-font-2'>これ食べて副団長の初任務、</span><br><span class='scene-font-2'>頑張ってくれよな！</span>,<span class='scene-font-2'>嗯，我知道了！</span><br><span class='scene-font-2'>吃了这个然后作为副团长的首次任务</span><br><span class='scene-font-2'>好好加油哟！</span>
@@ -79,9 +79,9 @@ id,name,text,trans
 96,パーシヴァル/帕西瓦尔,<span class='scene-font-kokoro'>（なんだ……</span><br><span class='scene-font-kokoro'>この騒がしい子犬の様な輩は……）</span>,<span class='scene-font-kokoro'>（怎么回事啊……</span><br><span class='scene-font-kokoro'>这个像小狗一样吵闹的家伙……）</span>
 97,ランスロット/兰斯洛特,おうパーシヴァル！<br>いや何でもないぞ！<br>あ、こいつは俺の幼馴染で……,哦是帕西瓦尔！<br>不没什么哦！<br>啊，这个人是我的青梅竹马……
 98,ジークフリート/齐格飞,ランスロット、パーシヴァル<br>陣の準備を頼む。,兰斯洛特，帕西瓦尔<br>营地的准备就交给你们了。
-99,ランスロット/兰斯洛特,はっ、はいっ！<br>今すぐ取り掛かりますっ！,是，是は！<br>现在就开始着手准备！
+99,ランスロット/兰斯洛特,はっ、はいっ！<br>今すぐ取り掛かりますっ！,是，是！<br>现在就开始着手准备！
 100,パーシヴァル/帕西瓦尔,ランスロット、<br>今回はお前の隊の者が<br>陣の設営をする番だったな……,兰斯洛特，<br>这次是轮到<br>你的队伍来建设营地对吧……
-101,,<span class='scene-font-katari'>「陣の設営」という単語を聞き取った</span><br><span class='scene-font-katari'>ヴェインは、恐る恐る口を開いた。</span>,<span class='scene-font-katari'>听到「建设营地」这个词</span><br><span class='scene-font-katari'>维恩，战战兢兢地张口说道。</span>
+101,,<span class='scene-font-katari'>「陣の設営」という単語を聞き取った</span><br><span class='scene-font-katari'>ヴェインは、恐る恐る口を開いた。</span>,<span class='scene-font-katari'>听到「建设营地」这个词</span><br><span class='scene-font-katari'>维恩战战兢兢地张口说道。</span>
 102,ヴェイン/维恩,……あれ？　もしかして<br>今から陣を張るんですか？,……啊咧？　莫非<br>现在开始要建设营地吗？
 103,ジークフリート/齐格飞,ああ……そうだが。,嗯……是的。
 104,ヴェイン/维恩,あの……それなら俺！<br>すごく得意でございますけど！,那个……那么我其实！<br>很擅长做这个的！
@@ -113,7 +113,7 @@ id,name,text,trans
 132,ヴェイン/维恩,ひぇ～<br>なんかおっかねーのな、<br>あの赤い人。,呜诶～<br>总觉得好可怕啊，<br>那个红色的人。
 133,ランスロット/兰斯洛特,ああ、パーシヴァルは<br>他人にも厳しいが、<br>それ以上に自分に厳しいヤツだ。,嗯，帕西瓦尔是个<br>对别人严格，<br>对自己更严格的人。
 134,ランスロット/兰斯洛特,それにあいつは、<br>かのウェールズ家の出身でな。<br>騎士としての素養も完璧だ。,而且他还是，<br>出生于那个威尔兹家族的人。<br>具有完美的作为骑士的素养。
-135,ランスロット/兰斯洛特,あいつが副団長に選ばれたのは、<br>王都の誰もが納得してるだろう……,那个人被选作副团长，<br>王都里的任何人都觉得心服口服吧……
+135,ランスロット/兰斯洛特,あいつが副団長に選ばれたのは、<br>王都の誰もが納得してるだろう……,那个人被选作副团长，<br>王都里的任何人都会觉得心服口服的吧……
 136,,<span class='scene-font-katari'>ランスロットの言外に、微かな</span><br><span class='scene-font-katari'>不安の色を感じ取ったヴェインは、</span><br><span class='scene-font-katari'>口を尖らせて返事をする。</span>,<span class='scene-font-katari'>维恩察觉到了兰斯洛德的话语之外</span><br><span class='scene-font-katari'>隐藏的不安</span><br><span class='scene-font-katari'>不由撅起了嘴回答道。</span>
 137,ヴェイン/维恩,へぇ～<br>パーシヴァル副団長、ねぇ……,哦～<br>帕西瓦尔副团长，啊……
 138,ランスロット/兰斯洛特,……ん？　どうかしたのか？,……嗯？　你怎么了吗？
