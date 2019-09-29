@@ -1,7 +1,7 @@
 id,name,text,trans
 0-chapter_name,,第1話 日常,第1話 日常
 0-synopsis,,斥候を出してほしいというジークフリートの命令に、ヴェインを推薦するランスロット。ヴェインも期待に応え、有力な情報を持ち帰る。その情報を元に戦闘に臨んだものの、ランスロットとパーシヴァルは撤退のタイミングを見誤り、絶体絶命の状況に陥ってしまう。ジークフリートの救援でなんとか危機を脱したランスロット達は、改めてその強さに感銘を受けるのだった。,因为齐格飞下令希望派出侦察兵，兰斯洛特于是推荐了维恩。维恩不负期望，带回了有力的情报。虽然根据情报迎战，但因为兰斯洛特和帕西瓦尔看错撤退时机，陷入了穷途末路的状况。兰斯洛特他们在齐格飞的救援下总算脱离险境，再次深深感受到了齐格飞的强大。
-1,,<span class='scene-font-katari'>瞬く間に陣の設営を終えたヴェインの</span><br><span class='scene-font-katari'>前に集まる、ジークフリートと</span><br><span class='scene-font-katari'>ランスロット、パーシヴァル。</span>,<span class='scene-font-katari'>齐格飞</span><br><span class='scene-font-katari'>兰斯洛特和帕西瓦尔，在很快完成了营地建设的维恩面前</span><br><span class='scene-font-katari'>集合了起来。</span>
+1,,<span class='scene-font-katari'>瞬く間に陣の設営を終えたヴェインの</span><br><span class='scene-font-katari'>前に集まる、ジークフリートと</span><br><span class='scene-font-katari'>ランスロット、パーシヴァル。</span>,<span class='scene-font-katari'>齐格飞，兰斯洛特和帕西瓦尔，</span><br><span class='scene-font-katari'>在很快完成了营地建设的维恩面前</span><br><span class='scene-font-katari'>集合了起来。</span>
 2,ジークフリート/齐格飞,ほう……<br>さすがの手際の良さだな。,嗯……<br>不错的技术啊。
 3,ヴェイン/维恩,ほ、本当ですか！<br>ジークフリート団長に<br>誉めて頂けるなんて光栄です！,真，真的吗！<br>能被齐格飞团长您夸奖<br>是我的荣幸！
 4,ランスロット/兰斯洛特,<span class='scene-font-kokoro'>（やるな、ヴェイン！）</span>,<span class='scene-font-kokoro'>（干得好，维恩！）</span>
@@ -27,7 +27,7 @@ id,name,text,trans
 24,ジークフリート/齐格飞,それもそうだな……<br>どうだ、ヴェイン？,说的也有道理……<br>怎么样，维恩？
 25,ヴェイン/维恩,はっ……はい！,是……是！
 26,ヴェイン/维恩,この不肖ヴェイン！<br>必ずや成し遂げてみせましょう！,鄙人维恩！<br>一定尽力完成这个任务！
-27,パーシヴァル/帕西瓦尔,……後はジークフリート団長の<br>ご判断にお任せします……,……之后就交给br>齐格飞团长去判断了……
+27,パーシヴァル/帕西瓦尔,……後はジークフリート団長の<br>ご判断にお任せします……,……之后就交给<br>齐格飞团长去判断了……
 28,ジークフリート/齐格飞,ふむ……分かった。,嗯……我知道了。
 29,ジークフリート/齐格飞,ではヴェイン、<br>早速斥候部隊を編成して<br>動いてくれるか？,那么维恩，<br>尽早编成侦察部队<br>开始行动吧？
 30,ヴェイン/维恩,<span class='scene-font-4'>はっ！　はいぃぃっ！</span><br>承知致しましたぁっ！,<span class='scene-font-4'>是！　是！</span><br>收到！
@@ -45,7 +45,7 @@ id,name,text,trans
 42,ランスロット/兰斯洛特,それじゃ、頑張れよ！,那么，加油哟！
 43,ヴェイン/维恩,……ああ！　任せてくれっ！,……嗯！　就交给我吧！
 44,,<span class='scene-font-katari'>こうしてジークフリート達が会議を</span><br><span class='scene-font-katari'>する間に、ヴェインは斥候部隊を</span><br><span class='scene-font-katari'>率いて偵察に当たることになった。</span>,<span class='scene-font-katari'>就这样在齐格飞他们开作战会议的这期间</span><br><span class='scene-font-katari'>维恩率领着侦察部队</span><br><span class='scene-font-katari'>开始了探查。</span>
-49,,<span class='scene-font-katari'>それからしばらくの時が経った頃、</span><br><span class='scene-font-katari'>ランスロットとパーシヴァルは、</span><br><span class='scene-font-katari'>陣内で議論を繰り広げていた。</span>,<span class='scene-font-katari'>这之后的一段时间，</span><br><span class='scene-font-katari'>兰斯洛特和帕西瓦尔，</span><br><span class='scene-font-katari'>展开了在营内的讨论。</span>
+49,,<span class='scene-font-katari'>それからしばらくの時が経った頃、</span><br><span class='scene-font-katari'>ランスロットとパーシヴァルは、</span><br><span class='scene-font-katari'>陣内で議論を繰り広げていた。</span>,<span class='scene-font-katari'>这之后的一段时间，</span><br><span class='scene-font-katari'>兰斯洛特和帕西瓦尔，</span><br><span class='scene-font-katari'>在营内展开了讨论。</span>
 50,ランスロット/兰斯洛特,……今のところ、<br>敵軍に大きな動きは無さそうだな。,……现在这个时点，<br>敌军好像还没有什么大的动静。
 51,ランスロット/兰斯洛特,斥候部隊が戻り次第、<br>こちらから先手を打って進軍して<br>戦いの主導権を握るべきじゃないか？,不是应该在侦察部队回来之后，<br>立刻由这边抢先手进军<br>掌握战斗的主导权吗？
 52,パーシヴァル/帕西瓦尔,今後の展開をこちらのペースで<br>進めるためには攻めは必要だが……,今后的展开要根据我们这边的步调<br>虽然为了前进，发起攻击是必须的……
@@ -103,7 +103,7 @@ id,name,text,trans
 111,,<span class='scene-font-katari'>ジークフリートの動きに気付いた敵兵は</span><br><span class='scene-font-katari'>即座に仲間達に知らせようとする。</span>,<span class='scene-font-katari'>敌兵察觉到了齐格飞的举动</span><br><span class='scene-font-katari'>立刻通知了他们的同伴。</span>
 112,反乱兵１,ジ……ジークフリートが来たぞ！,齐……齐格飞来了！
 113,ジークフリート/齐格飞,悪いが……<br>ここは通してもらおうか！,抱歉啊……<br>能让我过去吗！
-116,ジークフリート/齐格飞,<span class='scene-font-4'>はあぁぁぁぁっ……！</span>,<span class='scene-font-4'>哈啊啊啊啊阿……！</span>
+116,ジークフリート/齐格飞,<span class='scene-font-4'>はあぁぁぁぁっ……！</span>,<span class='scene-font-4'>哈啊啊啊啊啊……！</span>
 117,,<span class='scene-font-katari'>既に敵陣に接近したジークフリートは、</span><br><span class='scene-font-katari'>前衛の頭上を大きく飛び越えると</span><br><span class='scene-font-katari'>剣を大きく振りかぶった。</span>,<span class='scene-font-katari'>齐格飞已经接近了敌阵</span><br><span class='scene-font-katari'>他跳起从前卫的头顶上飞过</span><br><span class='scene-font-katari'>挥舞着剑打出大幅度的一击。</span>
 118,,<span class='scene-font-katari'>そのまま剣を地面に</span><br><span class='scene-font-katari'>勢いよく叩きつけると、</span><br><span class='scene-font-katari'>辺り一面に地割れが起こる。</span>,<span class='scene-font-katari'>就这样大剑气势逼人地</span><br><span class='scene-font-katari'>敲击到了地面</span><br><span class='scene-font-katari'>引发了周围一片区域的地裂。</span>
 127,反乱兵１,<span class='scene-font-4'>うわぁっ！</span>,<span class='scene-font-4'>呜哇！</span>
@@ -121,7 +121,7 @@ id,name,text,trans
 141,パーシヴァル/帕西瓦尔,ふっ……いいだろう。<br>ちょうど俺も同じことを<br>考えていたところだ……,呵……好啊。<br>正好我也在考虑这件事呢……
 142,ランスロット/兰斯洛特,それじゃ……！,那就……！
 143,パーシヴァル/帕西瓦尔,行くぞっ……！,上吧……！
-144,２人,<span class='scene-font-4'>はぁぁぁぁぁぁっ！</span>,<span class='scene-font-4'>哈啊啊啊啊阿！</span>
+144,２人,<span class='scene-font-4'>はぁぁぁぁぁぁっ！</span>,<span class='scene-font-4'>哈啊啊啊啊啊！</span>
 148,,<span class='scene-font-katari'>先陣を切るジークフリート達の後方で、</span><br><span class='scene-font-katari'>黒竜騎士団員達は、団長と副団長の</span><br><span class='scene-font-katari'>圧倒的な実力に気圧されていた。</span>,<span class='scene-font-katari'>在打头阵的齐格飞他们后方</span><br><span class='scene-font-katari'>黑龙骑士团的团员们，看着团长和副团长那压倒性的实力</span><br><span class='scene-font-katari'>感到了气馁。</span>
 149,黒竜騎士団団員１,おいおい……<br>団長と副団長がいれば<br>楽勝で勝てるだろ。,喂喂……<br>只要有团长和副团长在的话<br>就能轻松打赢了吧。
 150,黒竜騎士団団員２,ああ、俺達って<br>必要ないんじゃ……,嗯，我们<br>没有存在的必要呢……
@@ -182,7 +182,7 @@ id,name,text,trans
 216,黒竜騎士団団員２,ランスロット副団長！<br>パーシヴァル副団長！<br>本当にありがとうございます……！,兰斯洛特副团长！<br>帕西瓦尔副团长！<br>真的非常感谢你们……！
 217,パーシヴァル/帕西瓦尔,おい！<br>手に持っている、それは……！,喂！<br>你手上拿的，那是……！
 218,,<span class='scene-font-katari'>パーシヴァルは、ヴェインが</span><br><span class='scene-font-katari'>振り回していた得物に注目する。</span>,<span class='scene-font-katari'>帕西瓦尔盯着，</span><br><span class='scene-font-katari'>维恩手上挥舞着的东西。</span>
-219,ヴェイン/维恩,あ、これは……<br>団旗が敵に奪われそうになってるのを<br>見つけて必死に守ってて………,啊，这是……<br>因为看到了敌人好像要抢<br>所以拼死的保护了下来………
+219,ヴェイン/维恩,あ、これは……<br>団旗が敵に奪われそうになってるのを<br>見つけて必死に守ってて………,啊，这是……<br>因为看到了敌人好像要抢团旗<br>所以拼死的保护了下来………
 220,ランスロット/兰斯洛特,……っ！<br>ヴェイン！　でかしたぞ！,……！<br>维恩！　做的好啊！
 221,ヴェイン/维恩,……へっ？　何が？,……诶？　什么？
 222,,<span class='scene-font-katari'>とぼけた様子のヴェインは、</span><br><span class='scene-font-katari'>その場でうっかり旗を</span><br><span class='scene-font-katari'>立ててしまいそうになる。</span>,<span class='scene-font-katari'>维恩一幅糊里糊涂的样子，</span><br><span class='scene-font-katari'>当场粗心地</span><br><span class='scene-font-katari'>把旗子立了起来。</span>
@@ -228,9 +228,9 @@ id,name,text,trans
 271,ジークフリート/齐格飞,<span class='scene-font-4'>行くぞお前達ッ！</span><br><span class='scene-font-4'>俺に続けッ！</span>,<span class='scene-font-4'>上吧你们！</span><br><span class='scene-font-4'>跟上我的脚步！</span>
 272,ジークフリート/齐格飞,<span class='scene-font-4'>うぉぉぉぉぉっ！</span>,<span class='scene-font-4'>唔噢噢噢噢噢！</span>
 273,３人,<span class='scene-font-4'>うぉぉぉぉぉっ！</span>,<span class='scene-font-4'>唔噢噢噢噢噢！</span>
-274,,<span class='scene-font-katari'>ジークフリートを筆頭に</span><br><span class='scene-font-katari'>力を合わせたランスロット、</span><br><span class='scene-font-katari'>パーシヴァル、ヴェイン。</span>,<span class='scene-font-katari'>以齐格飞为首</span><br><span class='scene-font-katari'>兰斯洛特，帕西瓦尔和维恩</span><br><span class='scene-font-katari'>都合力战斗。</span>
+274,,<span class='scene-font-katari'>ジークフリートを筆頭に</span><br><span class='scene-font-katari'>力を合わせたランスロット、</span><br><span class='scene-font-katari'>パーシヴァル、ヴェイン。</span>,<span class='scene-font-katari'>以齐格飞为首</span><br><span class='scene-font-katari'>兰斯洛特，帕西瓦尔和维恩</span><br><span class='scene-font-katari'>合力战斗。</span>
 275,,<span class='scene-font-katari'>その結果、</span><br><span class='scene-font-katari'>その場にいた多くの仲間達と共に</span><br><span class='scene-font-katari'>窮地を脱することに成功した。</span>,<span class='scene-font-katari'>在那最后，</span><br><span class='scene-font-katari'>和在场的大多数同伴一起</span><br><span class='scene-font-katari'>成功脱离了险境。</span>
-276,,<span class='scene-font-katari'>その後、黒竜騎士団は態勢を立て直し、</span><br><span class='scene-font-katari'>ジークフリートの大活躍によって</span><br><span class='scene-font-katari'>反乱軍は無事に鎮圧された。</span>,<span class='scene-font-katari'>那之后，黑龙骑士团重镇旗鼓</span><br><span class='scene-font-katari'>在齐格飞的大活跃之下</span><br><span class='scene-font-katari'>叛乱也被顺利镇压了。</span>
+276,,<span class='scene-font-katari'>その後、黒竜騎士団は態勢を立て直し、</span><br><span class='scene-font-katari'>ジークフリートの大活躍によって</span><br><span class='scene-font-katari'>反乱軍は無事に鎮圧された。</span>,<span class='scene-font-katari'>那之后，黑龙骑士团重整旗鼓</span><br><span class='scene-font-katari'>在齐格飞的大活跃之下</span><br><span class='scene-font-katari'>叛乱也被顺利镇压了。</span>
 277,,<span class='scene-font-katari'>ジークフリートの圧倒的な強さに</span><br><span class='scene-font-katari'>感銘を受ける、ランスロットと</span><br><span class='scene-font-katari'>パーシヴァルとヴェインであった。</span>,<span class='scene-font-katari'>兰斯洛特，帕西瓦尔和维恩</span><br><span class='scene-font-katari'>再次深深感受到了</span><br><span class='scene-font-katari'>齐格飞的强大。</span>
 info,,,scene_evt190927_cp1_q3_s10
 译者,,,
