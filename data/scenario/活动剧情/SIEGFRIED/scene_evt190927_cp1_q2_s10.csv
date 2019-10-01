@@ -2,7 +2,7 @@ id,name,text,trans
 0-chapter_name,,第1話 日常,第1話 日常
 0-synopsis,,数年前、ランスロットとパーシヴァルは黒竜騎士団副団長の任命式に臨んでいた。そこへ、王都郊外のブルグント地方で大規模な反乱が発生したという報せが舞い込む。団長のジークフリートに率いられた黒竜騎士団は、すぐさま鎮圧へと向かう。その中にはヴェインの姿もあり、目的地に到着して早々、陣の設営の仕事を自ら進んで買って出るのだった。,几年前，争锋兰斯洛特和帕西瓦尔的黑龙骑士团副团长任命仪式。在那时，传来了王都郊外的勃艮第地区发生了大规模叛乱的报告。团长齐格飞率领黑龙骑士团，火速前往镇压。维恩也在队伍之中，到了目的地还早早地，自荐担任营地的建设工作。
 5,,<span class='scene-font-katari'>遡ること数年前──</span>,<span class='scene-font-katari'>追溯到几年前──</span>
-6,,<span class='scene-font-katari'>王都フェードラッヘ、</span><br><span class='scene-font-katari'>玉座の間。</span>,<span class='scene-font-katari'>王都菲多拉厄</span><br><span class='scene-font-katari'>王座之间。</span>
+6,,<span class='scene-font-katari'>王都フェードラッヘ、</span><br><span class='scene-font-katari'>玉座の間。</span>,<span class='scene-font-katari'>王都菲都拉赫</span><br><span class='scene-font-katari'>王座之间。</span>
 8,ヨゼフ王,…………,…………
 10,ジークフリート/齐格飞,…………,…………
 11,,<span class='scene-font-katari'>黒竜騎士団の団員が一堂に会する中、</span><br><span class='scene-font-katari'>国王ヨゼフと団長のジークフリートが</span><br><span class='scene-font-katari'>皆の前に悠然と姿を現した。</span>,<span class='scene-font-katari'>黑龙骑士团的团员们齐聚一堂</span><br><span class='scene-font-katari'>国王约瑟夫和团长齐格飞</span><br><span class='scene-font-katari'>悠然地出现在了众人面前。</span>
@@ -19,10 +19,10 @@ id,name,text,trans
 23,２人,はっ。,是。
 24,,<span class='scene-font-katari'>祭壇に置かれた宝剣を手に取り</span><br><span class='scene-font-katari'>ランスロットとパーシヴァルに</span><br><span class='scene-font-katari'>授けるヨゼフ王。</span>,<span class='scene-font-katari'>约瑟夫王取下了</span><br><span class='scene-font-katari'>放置在祭坛上的宝剑</span><br><span class='scene-font-katari'>将其授予给了兰斯洛特和帕西瓦尔。</span>
 25,ヨゼフ王,騎士ランスロット、<br>そなたを黒竜騎士団副団長に任命する。,骑士兰斯洛特，<br>任命你为黑龙骑士团副团长。
-26,ヨゼフ王,いついかなる時も、<br>このフェードラッヘに<br>忠義を尽くすことを誓うか？,你能够发誓<br>无论到了何时<br>都向菲多拉厄竭尽忠诚吗？
+26,ヨゼフ王,いついかなる時も、<br>このフェードラッヘに<br>忠義を尽くすことを誓うか？,你能够发誓<br>无论到了何时<br>都向菲都拉赫竭尽忠诚吗？
 27,ランスロット/兰斯洛特,誓います。,我发誓。
 29,ヨゼフ王,騎士パーシヴァル、<br>そなたを黒竜騎士団副団長に任命する。,骑士帕西瓦尔，<br>任命你为黑龙骑士团副团长。
-30,ヨゼフ王,いついかなる時も<br>このフェードラッヘに<br>忠義を尽くすことを誓うか？,你能够发誓<br>无论到了何时<br>都向菲多拉厄竭尽忠诚吗？
+30,ヨゼフ王,いついかなる時も<br>このフェードラッヘに<br>忠義を尽くすことを誓うか？,你能够发誓<br>无论到了何时<br>都向菲都拉赫竭尽忠诚吗？
 31,パーシヴァル/帕西瓦尔,誓います。,我发誓。
 33,ヨゼフ王,ここに誓いはなされた。<br>これより……,在此誓言成立。<br>从今以后……
 34,ヨゼフ王,ランスロット、パーシヴァルの両名を<br>黒竜騎士団副団長とする。,兰斯洛特，帕西瓦尔两人<br>将成为黑龙骑士团的副团长。
@@ -43,10 +43,10 @@ id,name,text,trans
 50,ジークフリート/齐格飞,ランスロット、パーシヴァル、<br>直ちに出陣の準備を整えろ。,兰斯洛特，帕西瓦尔，<br>去做即刻出阵的准备。
 51,２人,<span class='scene-font-4'>はっ！</span>,<span class='scene-font-4'>是！</span>
 52,,<span class='scene-font-katari'>剣を掲げたジークフリートは、</span><br><span class='scene-font-katari'>全団員に向かって高らかに宣言する。</span>,<span class='scene-font-katari'>齐格飞高举手中的剑，</span><br><span class='scene-font-katari'>向全体团员高声宣言道。</span>
-53,ジークフリート/齐格飞,<span class='scene-font-4'>フェードラッヘの正義を示せ！</span>,<span class='scene-font-4'>展示我等菲多拉厄之正义！</span>
-54,２人,フェードラッヘの正義を示せ！,展示我等菲多拉厄之正义！
-55,黒竜騎士団団員達,フェードラッヘの正義を示せ！,展示我等菲多拉厄之正义！
-56,ヴェイン/维恩,フェードラッヘの正義を示せ！,展示我等菲多拉厄之正义！
+53,ジークフリート/齐格飞,<span class='scene-font-4'>フェードラッヘの正義を示せ！</span>,<span class='scene-font-4'>展示我等菲都拉赫之正义！</span>
+54,２人,フェードラッヘの正義を示せ！,展示我等菲都拉赫之正义！
+55,黒竜騎士団団員達,フェードラッヘの正義を示せ！,展示我等菲都拉赫之正义！
+56,ヴェイン/维恩,フェードラッヘの正義を示せ！,展示我等菲都拉赫之正义！
 57,,<span class='scene-font-katari'>こうして、ランスロットと</span><br><span class='scene-font-katari'>パーシヴァルの副団長就任初任務は</span><br><span class='scene-font-katari'>思わぬ大事となるのだった。</span>,<span class='scene-font-katari'>就这样，兰斯洛特和</span><br><span class='scene-font-katari'>帕西瓦尔的副团长就任首次任务</span><br><span class='scene-font-katari'>变成了预想不到的大事件。</span>
 62,,<span class='scene-font-katari'>ブルグント地方を目指して、</span><br><span class='scene-font-katari'>進軍する黒竜騎士団。</span>,<span class='scene-font-katari'>黑龙骑士团以勃艮第地区为目标</span><br><span class='scene-font-katari'>进军前往。</span>
 63,,<span class='scene-font-katari'>その先頭には、ジークフリートと</span><br><span class='scene-font-katari'>ランスロットとパーシヴァルの</span><br><span class='scene-font-katari'>姿があった。</span>,<span class='scene-font-katari'>那支队伍打头的，是齐格飞</span><br><span class='scene-font-katari'>兰斯洛特和帕西瓦尔</span><br><span class='scene-font-katari'>他们的身姿。</span>
