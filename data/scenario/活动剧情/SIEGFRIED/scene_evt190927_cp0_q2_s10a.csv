@@ -20,7 +20,7 @@ id,name,text,trans
 25,ジークフリート/齐格飞,"マーリン……<br>あの伝説の魔法使い…… ","梅林……<br>那个传说中的魔法使…… "
 26,グンター,アア……<br>ホンモノカドウカハシラナイガ……,嗯……<br>虽然我不知道是不是真的……
 27,グンター,コノクニニ、コントンヲ<br>モタラソウトシテイル……,我只知道，他要给这个国家<br>招来混沌……
-28,,<span class='scene-font-katari'>フェードラッヘに仇為す者の</span><br><span class='scene-font-katari'>存在を知るジークフリート。</span>,<span class='scene-font-katari'>齐格飞知悉了</span><br><span class='scene-font-katari'>仇视着菲都拉赫的某人的存在。</span>
+28,,<span class='scene-font-katari'>フェードラッヘに仇為す者の</span><br><span class='scene-font-katari'>存在を知るジークフリート。</span>,<span class='scene-font-katari'>齐格飞知悉了</span><br><span class='scene-font-katari'>仇视着菲多拉厄的某人的存在。</span>
 29,ジークフリート/齐格飞,<span class='scene-font-kokoro'>（マーリンか……</span><br><span class='scene-font-kokoro'>落ち着いたら調べてみるとするか……）</span>,<span class='scene-font-kokoro'>（梅林吗……</span><br><span class='scene-font-kokoro'>安定之后再调查看看吧……）</span>
 30,,<span class='scene-font-katari'>その存在を心に留める</span><br><span class='scene-font-katari'>ジークフリートは改めて</span><br><span class='scene-font-katari'>本題を切り出したのだった。</span>,<span class='scene-font-katari'>将那个存在的事记在心里</span><br><span class='scene-font-katari'>齐格飞重新</span><br><span class='scene-font-katari'>回到了正题说道。</span>
 31,ジークフリート/齐格飞,……グンター<br>俺は、お前をどうにかして<br>助ける術を探したい。,……古达<br>我想要去寻找<br>能够拯救你的办法。
@@ -35,7 +35,7 @@ id,name,text,trans
 40,ジークフリート/齐格飞,なっ……,什么……
 41,グンター,タノム、ジークフリート。,拜托了，齐格飞。
 42,グンター,コレハ……シンユウノ<br>オマエニシカ<br>タノメナイコトダ。,这是……只能交给<br>亲友的你<br>去做的事。
-43,,<span class='scene-font-katari'>グンターから告げられた言葉は、</span><br><span class='scene-font-katari'>ジークフリート自身もどこかで</span><br><span class='scene-font-katari'>予期していた言葉であった。</span>,<span class='scene-font-katari'>从古达那里听到的请求，</span><br><span class='scene-font-katari'>其实也是齐格飞</span><br><span class='scene-font-katari'>有所预料的话语。</span>
+43,,<span class='scene-font-katari'>グンターから告げられた言葉は、</span><br><span class='scene-font-katari'>ジークフリート自身もどこかで</span><br><span class='scene-font-katari'>予期していた言葉であった。</span>,<span class='scene-font-katari'>从古达那里听到的请求，</span><br><span class='scene-font-katari'>其实也是齐格飞心里</span><br><span class='scene-font-katari'>早有预料的话语。</span>
 44,,<span class='scene-font-katari'>だが、そう簡単には納得できない</span><br><span class='scene-font-katari'>ジークフリートがいた。</span>,<span class='scene-font-katari'>但是，齐格飞却</span><br><span class='scene-font-katari'>无法如此简单地接受。</span>
 45,ジークフリート/齐格飞,くそっ……<br>他に道は無いのか！,可恶……<br>就没有别的方法吗！
 46,グンター,タノム、ジークフリート。,拜托了，齐格飞。
@@ -78,16 +78,16 @@ id,name,text,trans
 112,ジークフリート/齐格飞,ああ、おはよう。,嗯，早上好。
 113,ランスロット/兰斯洛特,よーし！<br>ジークフリートさんとの<br>鍛錬の前に少し休憩にするぞ！,好！<br>在与齐格飞桑一起锻炼前<br>稍微休息一下吧！
 114,アーサー＆モルドレッド,はいっ！,是！
-115,,<span class='scene-font-katari'>見習い騎士達を休憩させて</span><br><span class='scene-font-katari'>ジークフリートの元に集まる</span><br><span class='scene-font-katari'>ランスロット達。</span>,<span class='scene-font-katari'>兰斯洛特他们让见习骑士们休息</span><br><span class='scene-font-katari'>聚集到了</span><br><span class='scene-font-katari'>齐格飞身边。</span>
+115,,<span class='scene-font-katari'>見習い騎士達を休憩させて</span><br><span class='scene-font-katari'>ジークフリートの元に集まる</span><br><span class='scene-font-katari'>ランスロット達。</span>,<span class='scene-font-katari'>兰斯洛特他们让见习骑士们休息</span><br><span class='scene-font-katari'>然后聚集到了</span><br><span class='scene-font-katari'>齐格飞身边。</span>
 116,ランスロット/兰斯洛特,あれから、体調はどうですか？,在那之后，您的身体如何了？
 117,ジークフリート/齐格飞,ああ、<br>今の所、特に異常はないが……,嗯，<br>现在的话，没有什么异常……
-118,ジークフリート/齐格飞,いつまたあの様な事態になるか<br>分からず心配でな……,因为不知道什么时候<br>那种事又会再发生而担心着呢……
+118,ジークフリート/齐格飞,いつまたあの様な事態になるか<br>分からず心配でな……,只是因为不知道什么时候<br>那种事又会再发生而担心着呢……
 119,パーシヴァル/帕西瓦尔,心配するな。<br>その時はまた俺達で<br>お前を止めてやる。,不必担心。<br>再发生那种事的话<br>就由我来阻止你。
-120,ビィ/碧,オイラ達を忘れちゃ困るぜ？,把我们忘了这边也是很困扰的哦？
+120,ビィ/碧,オイラ達を忘れちゃ困るぜ？,可别把我们忘了哦？
 121,ルリア/露莉亚,私達も力になりたいです！,我们也想成为你们的力量！
 121-sel1_txt,,<span class='scene-font-katari'>頼りにしてよ？</span>,<span class='scene-font-katari'>依靠我们吧？</span>
 123,ジークフリート/齐格飞,ふっ……<br>心強い限りだ。,呵……<br>你们真的很坚强啊。
-124,ヴェイン/维恩,そうそう！<br>だから絶対いなくなったり<br>しないでくださいよ～？,对对！<br>所以请你绝对不要<br>突然间就搞消失哦～？
+124,ヴェイン/维恩,そうそう！<br>だから絶対いなくなったり<br>しないでくださいよ～？,对对！<br>所以请您绝对不要<br>突然间就搞消失哦～？
 125,ジークフリート/齐格飞,ああ、ありがとう、ヴェイン。,嗯，谢谢你，维恩。
 126,,<span class='scene-font-katari'>仲間達に励まされる</span><br><span class='scene-font-katari'>ジークフリートは、改めて</span><br><span class='scene-font-katari'>目の前の騎士達を眺める。</span>,<span class='scene-font-katari'>被伙伴们鼓励的齐格飞</span><br><span class='scene-font-katari'>再次看向了</span><br><span class='scene-font-katari'>眼前的骑士们。</span>
 133,,<span class='scene-font-katari'>それはジークフリートが</span><br><span class='scene-font-katari'>黒竜騎士団の団長になって</span><br><span class='scene-font-katari'>間もない頃のことだった。</span>,<span class='scene-font-katari'>那是发生在</span><br><span class='scene-font-katari'>齐格飞刚刚当上</span><br><span class='scene-font-katari'>黑龙骑士团团长那时候的事。</span>
@@ -99,7 +99,7 @@ id,name,text,trans
 139,ヨゼフ王,ジークフリート、お前は余が<br>無理矢理連れてきてしまったが故に<br>苦労も多かっただろう？,齐格飞，你也是因为<br>被我强拉来<br>吃了很多苦吧？
 140,ジークフリート/齐格飞,いえ……<br>大した苦労などありません。,没有……<br>并没有吃什么苦。
 141,ヨゼフ王,ふっ……そうか。,呵……这样啊。
-142,ヨゼフ王,余はな……いつかこの練兵場が、<br>お前の様に、真に実力のある<br>騎士達で溢れる日を夢見ておる。,我啊……梦见了总有一天<br>这个练兵场上<br>充满了像你一样具有实力的骑士们的日子。
+142,ヨゼフ王,余はな……いつかこの練兵場が、<br>お前の様に、真に実力のある<br>騎士達で溢れる日を夢見ておる。,我啊……梦见了未来有天<br>这个练兵场上<br>充满了像你一样具有实力的骑士们的日子。
 143,ヨゼフ王,簡単なことでは無いだろうが……<br>新たに騎士団長となったお前と共に<br>必ずや成し遂げてみせようぞ。,虽然这不是件简单的事……<br>但是和作为新的骑士团团长的你一起<br>肯定能够实现的。
 144,ジークフリート/齐格飞,はっ……<br>このジークフリート、<br>尽力させて頂く所存です。,是……<br>我齐格飞，<br>将竭尽全力实现您的期望。
 145,ジークフリート/齐格飞,この練兵場が……<br>未来ある騎士達で溢れる光景を<br>必ずや陛下にご覧に入れましょう。,一定会让陛下您看到……<br>这个练兵场上满是<br>未来可期的骑士们的光景。
@@ -118,7 +118,7 @@ id,name,text,trans
 163,見習い騎士達,<span class='scene-font-4'>お願いします！</span>,<span class='scene-font-4'>拜托您了！</span>
 168,,<span class='scene-font-katari'>王都の空に若き騎士達の声が</span><br><span class='scene-font-katari'>響き渡る。</span>,<span class='scene-font-katari'>王都的上空</span><br><span class='scene-font-katari'>响彻着年轻骑士们的声音。</span>
 169,,<span class='scene-font-katari'>そのどこまでも蒼く澄み渡った</span><br><span class='scene-font-katari'>空を見上げるジークフリート。</span>,<span class='scene-font-katari'>齐格飞抬头看着那</span><br><span class='scene-font-katari'>无论何时何地都苍蓝澄澈的天空。</span>
-170,ジークフリート/齐格飞,<span class='scene-font-kokoro'>（陛下……御覧に入れるのが</span><br><span class='scene-font-kokoro'>随分と遅くなってしまいましたが、</span><br><span class='scene-font-kokoro'>未来の騎士達は着々と育っております）</span>,<span class='scene-font-kokoro'>（陛下……您看到了吗</span><br><span class='scene-font-kokoro'>虽然迟到了很久，</span><br><span class='scene-font-kokoro'>但培育着未来的骑士们的这幅光景）</span>
+170,ジークフリート/齐格飞,<span class='scene-font-kokoro'>（陛下……御覧に入れるのが</span><br><span class='scene-font-kokoro'>随分と遅くなってしまいましたが、</span><br><span class='scene-font-kokoro'>未来の騎士達は着々と育っております）</span>,<span class='scene-font-kokoro'>（陛下……您看到了吗</span><br><span class='scene-font-kokoro'>虽然迟到了很久，</span><br><span class='scene-font-kokoro'>但未来的骑士们正稳健的成长着的这幅光景）</span>
 171,,<span class='scene-font-katari'>この先、彼の未来にどんな暗雲が</span><br><span class='scene-font-katari'>立ち込めようとも、皆で力を合わせて</span><br><span class='scene-font-katari'>蒼い空を取り戻すことだろう。</span>,<span class='scene-font-katari'>在这之后，不管他们的未来</span><br><span class='scene-font-katari'>笼罩着怎样的暗云，只要大家齐心协力</span><br><span class='scene-font-katari'>肯定能取回这片碧蓝的天空吧。</span>
 176,,<span class='scene-font-katari'>「SIEGFRIED」</span><br><span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　　　　　　　　　　　　　　　──完</span>,<span class='scene-font-katari'>「SIEGFRIED」</span><br><span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　　　　　　　　　　　　　　　──完</span>
 info,,,scene_evt190927_cp0_q2_s10a
