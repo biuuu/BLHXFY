@@ -47,7 +47,7 @@ id,name,text,trans
 62,ランスロット/兰斯洛特,よし……<br>皆で縛竜の術を展開するぞ！,好……<br>大家，展开困龙的术式！
 63,パーシヴァル/帕西瓦尔,ああ！,嗯！
 64,ヴェイン/维恩,分かったぜ！,我知道了！
-65,,<span class='scene-font-katari'>３人は詳細を話し合うこともなく、</span><br><span class='scene-font-katari'>ジークフリートの周りに</span><br><span class='scene-font-katari'>即座に魔法陣を描き始める。</span>,<span class='scene-font-katari'>三个人连详细的商量都没有</span><br><span class='scene-font-katari'>在齐格飞的周围</span><br><span class='scene-font-katari'>即刻开始画起了魔法阵。</span>
+65,,<span class='scene-font-katari'>３人は詳細を話し合うこともなく、</span><br><span class='scene-font-katari'>ジークフリートの周りに</span><br><span class='scene-font-katari'>即座に魔法陣を描き始める。</span>,<span class='scene-font-katari'>三个人连详细的商量都没有</span><br><span class='scene-font-katari'>就在齐格飞的周围</span><br><span class='scene-font-katari'>即刻开始画起了魔法阵。</span>
 66,グンター,ムダダ……<br>イツマデモツカナ……　<br>,没用的……<br>无论怎么做都……　<br>
 67,ジークフリート/齐格飞,ニ……ゲロ……,快……逃……
 68,,<span class='scene-font-katari'>縛竜の術の魔法陣を描いて、</span><br><span class='scene-font-katari'>ジークフリートに術をかける</span><br><span class='scene-font-katari'>準備を終えた３人。</span>,<span class='scene-font-katari'>三个人画完了困龙术式的魔法阵</span><br><span class='scene-font-katari'>做好了</span><br><span class='scene-font-katari'>对齐格飞施术的准备。</span>
@@ -62,7 +62,7 @@ id,name,text,trans
 81,,<span class='scene-font-katari'>術を詠唱できない者達も皆、</span><br><span class='scene-font-katari'>傍で魔力を分け与えることで</span><br><span class='scene-font-katari'>協力し合っていた。</span>,<span class='scene-font-katari'>不能咏唱术式的大家们</span><br><span class='scene-font-katari'>在旁边合力</span><br><span class='scene-font-katari'>贡献出了自己的魔力。</span>
 83,ジークフリート/齐格飞,グガガガガアガガッ！,咕嘎嘎嘎嘎啊嘎嘎！
 84,グンター,オワリダ……アキラメロ……,已经完了……放弃吧……
-85,,<span class='scene-font-katari'>しばらくの間、縛竜の術を展開して</span><br><span class='scene-font-katari'>ジークフリートの竜化を抑え込む</span><br><span class='scene-font-katari'>ランスロット達。</span>,<span class='scene-font-katari'>暂且一段时间，兰斯洛特他们</span><br><span class='scene-font-katari'>展开了困龙的术式</span><br><span class='scene-font-katari'>压制住了齐格飞的龙化。</span>
+85,,<span class='scene-font-katari'>しばらくの間、縛竜の術を展開して</span><br><span class='scene-font-katari'>ジークフリートの竜化を抑え込む</span><br><span class='scene-font-katari'>ランスロット達。</span>,<span class='scene-font-katari'>在一段时间内，兰斯洛特他们</span><br><span class='scene-font-katari'>展开了困龙的术式</span><br><span class='scene-font-katari'>暂时压制住了齐格飞的龙化。</span>
 86,ランスロット/兰斯洛特,くっ……<br>大丈夫かパーシヴァル！,咕……<br>你没事吧帕西瓦尔！
 87,パーシヴァル/帕西瓦尔,ちっ……<br>お前こそ倒れるなよ！,切……<br>你才是别倒下啊！
 88,グンター,ソロソロゲンカイカ……,差不多要到极限了……
@@ -74,8 +74,8 @@ id,name,text,trans
 95,アーサー/亚瑟,ランスロット団長！,兰斯洛特团长！
 96,モルドレッド/莫德雷德,持ってきました！,我们拿过来了！
 97,,<span class='scene-font-katari'>一行の前にひよこ班の</span><br><span class='scene-font-katari'>面々が現れた。</span>,<span class='scene-font-katari'>在一行人面前</span><br><span class='scene-font-katari'>小鸡班们出现了。</span>
-103,,<span class='scene-font-katari'>ひよこ班がランスロット達の</span><br><span class='scene-font-katari'>前に現れる少し前……</span>,<span class='scene-font-katari'>在小鸡班出现在兰斯洛特他们面前</span><br><span class='scene-font-katari'>稍微往前一段时间的时候……</span>
-104,,<span class='scene-font-katari'>ひよこ班は、王都の外れの村の</span><br><span class='scene-font-katari'>一軒の老婆の家を訪れていた。</span>,<span class='scene-font-katari'>小鸡班拜访了王都之外的</span><br><span class='scene-font-katari'>某位老婆婆的住所。</span>
+103,,<span class='scene-font-katari'>ひよこ班がランスロット達の</span><br><span class='scene-font-katari'>前に現れる少し前……</span>,<span class='scene-font-katari'>在小鸡班出现在兰斯洛特他们面前</span><br><span class='scene-font-katari'>再稍微往前一段时间的时候……</span>
+104,,<span class='scene-font-katari'>ひよこ班は、王都の外れの村の</span><br><span class='scene-font-katari'>一軒の老婆の家を訪れていた。</span>,<span class='scene-font-katari'>小鸡班拜访了位于王都之外的</span><br><span class='scene-font-katari'>某位老婆婆的住所。</span>
 105,アーサー/亚瑟,本当に……<br>お金も何もいらないんですか？,真的……<br>不需要钱之类的吗？
 106,老婆/老婆婆,はい、どうぞ……<br>持って行ってくださいな。,是的，请吧……<br>请带走吧。
 107,トネリロ/托涅利罗,遠慮しなくても大丈夫です。<br>後で騎士団から相応の金額を<br>支払わせて頂きますよ？,您不必顾虑。<br>之后会有骑士团的人来<br>支付相应的金额的哟？
