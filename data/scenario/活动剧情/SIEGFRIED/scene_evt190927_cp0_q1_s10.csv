@@ -82,13 +82,13 @@ id,name,text,trans
 99,グンター,はははは……そうですか……,哈哈哈哈……是嘛……
 100,？？？,…………,…………
 101,,<span class='scene-font-katari'>グンターとクリームヒルトは、</span><br><span class='scene-font-katari'>その武骨な男を歓迎する。</span>,<span class='scene-font-katari'>古达和克琳希德都</span><br><span class='scene-font-katari'>对这个武艺高超的男人致以欢迎。</span>
-102,ハーゲン,<span class='scene-font-kokoro'>（ぐっ……</span><br><span class='scene-font-kokoro'>この様な怪しい風体の男を</span><br><span class='scene-font-kokoro'>王都に招き入れるとは……）</span>,<span class='scene-font-kokoro'>（咕……</span><br><span class='scene-font-kokoro'>居然要把这种怪异打扮的男人</span><br><span class='scene-font-kokoro'>招入王都……）</span>
+102,ハーゲン,<span class='scene-font-kokoro'>（ぐっ……</span><br><span class='scene-font-kokoro'>この様な怪しい風体の男を</span><br><span class='scene-font-kokoro'>王都に招き入れるとは……）</span>,<span class='scene-font-kokoro'>（咕……</span><br><span class='scene-font-kokoro'>居然要把这种打扮怪异的男人</span><br><span class='scene-font-kokoro'>招入王都……）</span>
 103,ハーゲン,<span class='scene-font-kokoro'>（陛下は一体何をお考えに</span><br><span class='scene-font-kokoro'>なっているのだ……）</span>,<span class='scene-font-kokoro'>（陛下他到底</span><br><span class='scene-font-kokoro'>在想什么……）</span>
 104,,<span class='scene-font-katari'>その場に居合わせた者は皆、</span><br><span class='scene-font-katari'>各々複雑な思いを胸に抱えながら</span><br><span class='scene-font-katari'>王都への帰路につくのだった。</span>,<span class='scene-font-katari'>在场的人都</span><br><span class='scene-font-katari'>各自抱持着复杂的思绪</span><br><span class='scene-font-katari'>踏上了回王都的路。</span>
 110,ヨゼフ王,ところで……まだ、<br>そなたの名を聞いていなかったな。,话说回来……还没有<br>问过你的名字呢。
 111,？？？,俺か？,我吗？
 112,ヨゼフ王,ああ、余の名はヨゼフ。,嗯，我的名字是约瑟夫。
-113,ヨゼフ王,皆からは、<br>王都フェードラッヘを治める<br>ヨゼフ王と呼ばれている。,世人都称呼我为，<br>治理王都菲多拉厄的<br>约瑟夫王。
+113,ヨゼフ王,皆からは、<br>王都フェードラッヘを治める<br>ヨゼフ王と呼ばれている。,世人都称呼我为，<br>治理王都菲都拉赫的<br>约瑟夫王。
 114,？？？,……ヨゼフ王、か。,……约瑟夫王，吗。
 115,？？？,俺の名は……,我的名字是……
 info,,,scene_evt190927_cp0_q1_s10
