@@ -1,0 +1,52 @@
+id,name,text,trans
+0-chapter_name,,第3話 因縁,第3话 因缘
+0-synopsis,,ワイバーンの群れを容易く退けた姬塔達を前にしても、グンターは余裕の態度を崩さない。グンターはジークフリートを連れて一旦その場を退いた後、再び呪文を詠唱し、巨大な翼竜を召喚する。姬塔はランスロット、パーシヴァルと作戦を立て、翼竜に立ち向かうのだった。,就算在轻松击退了飞龙群的姬塔一行人面前，古达依然不改游刃有余的态度。古达带着齐格飞一时撤退后，再次咏唱咒文，召唤了巨大的翼龙。
+1,2人,<span class='scene-font-4'>はぁぁぁぁっ！</span>,<span class='scene-font-4'>哈啊啊啊啊！</span>
+1-sel1_txt,,<span class='scene-font-katari'>はぁぁぁぁっ！</span>,<span class='scene-font-katari'>哈啊啊啊啊！</span>
+5,ワイバーン/飞龙,<span class='scene-font-4'>ギャッ……！</span>,<span class='scene-font-4'>咕呀……！</span>
+6,ルリア/露莉亚,どいてくださいっ！,请让开！
+12,ワイバーン/飞龙,<span class='scene-font-4'>グギャーッ！</span>,<span class='scene-font-4'>咕呀——！</span>
+14,モルドレッド/莫德雷德,すげぇな……,好厉害……
+15,アーサー/亚瑟,あんなにたくさんいたのに<br>一瞬で蹴散らしちゃった……,明明那么多数量<br>却在一瞬间就被击败了……
+16,グンタ/古达,まさか……<br>星晶獣まで使役して来る上に<br>こんな手練れがいるとは想定外だ。,没想到……<br>竟还有连星晶兽都能驱使的人<br>没想到你们竟能干得这么漂亮。
+17,グンター/古达,やはり……<br>この程度ではダメか……,果然……<br>光是这点程度还不够吗……
+18,,<span class='scene-font-katari'>一瞬で竜種の群れを片付ける一行を</span><br><span class='scene-font-katari'>前にしても、余裕の態度を</span><br><span class='scene-font-katari'>崩さないグンター</span>,<span class='scene-font-katari'>在一瞬间便解决了龙种群落的一行人</span><br><span class='scene-font-katari'>面前，古达仍旧不改</span><br><span class='scene-font-katari'>游刃有余的态度</span>
+19,パーシヴァル/帕西瓦尔,どうした？<br>これで終いか？,怎么了？<br>这样就完了吗？
+20,ランスロット/兰斯洛特,もう逃げられないぞ……<br>ジークフリートさんを返せ！,你已经逃不了了……<br>把齐格飞先生还过来！
+21,グンター/古达,仕方ない……,没办法……
+23,,<span class='scene-font-katari'>ジークフリートを連れたまま、</span><br><span class='scene-font-katari'>廃屋の中に逃げる</span><br><span class='scene-font-katari'>グンターの後を追う一行。</span>,<span class='scene-font-katari'>一行人追着</span><br><span class='scene-font-katari'>带着齐格飞逃入</span><br><span class='scene-font-katari'>废屋中的古达。</span>
+24,ビィ/碧,おい！<br>待ちやがれっ！,喂！<br>站住！
+25,パーシヴァル/帕西瓦尔,気をつけろ。<br>何かの罠かもしれん。,小心。<br>说不定有什么陷阱。
+26,ランスロット/兰斯洛特,ああ、<br>ここで焦らず慎重に<br>追いつめるぞ。,啊啊、<br>这里不能焦躁要慎重<br>继续追逼。
+27,ルリア/露莉亚,はいっ！<br>もう逃げられませんよ！,是！<br>你已经逃不掉了！
+28,モルドレッド/莫德雷德,オレ達も行くぞ！,我也上了！
+29,アーサー/亚瑟,ああ！,啊啊！
+33,,<span class='scene-font-katari'>一行がグンターの後を追うと、廃屋の</span><br><span class='scene-font-katari'>裏口でグンターは地面に手を当てながら</span><br><span class='scene-font-katari'>奇妙な呪文を詠唱し始めていた。</span>,<span class='scene-font-katari'>一行人追在古达身后，废屋的</span><br><span class='scene-font-katari'>后门处古达将手按在地面</span><br><span class='scene-font-katari'>咏唱起了奇怪的咒文。</span>
+34,グンター/古达,さぁ……来い！,好了……来吧！
+39,,<span class='scene-font-katari'>突然、地面に描かれた魔法陣から、</span><br><span class='scene-font-katari'>巨大な翼竜が現れるのだった。</span>,<span class='scene-font-katari'>突然，从地面上画着的魔法阵中</span><br><span class='scene-font-katari'>出现了巨大的翼龙</span>
+40,？？？,<span class='scene-font-4'>グォォォォォ……！</span>,<span class='scene-font-4'>咕哦哦哦哦哦……！</span>
+41,グンター/古达,ふははははっ！<br>これならどうだ？,噗哈哈哈哈哈！<br>这个怎么样？
+42,ランスロット/兰斯洛特,なっ……<br>まだこんな奥の手を<br>隠していたのか？,什么……<br>他还留了<br>这样一手吗？
+43,パーシヴァル/帕西瓦尔,くっ……<br>こいつを倒さんことには<br>近づけんようだな。,呜……<br>不打倒这家伙<br>就不能接近的样子。
+45,ランスロット/兰斯洛特,パーシヴァル、姬塔！<br>連携して叩くぞ！,帕西瓦尔、姬塔！<br>用连击打败它！
+45-sel1_txt,,<span class='scene-font-katari'>初手は任せて！</span>,<span class='scene-font-katari'>先手交给我！</span>
+45-sel2_txt,,<span class='scene-font-katari'>左翼から切り込む！</span>,<span class='scene-font-katari'>我从左翼上！</span>
+45-sel3_txt,,<span class='scene-font-katari'>右翼から切り込む！</span>,<span class='scene-font-katari'>我从右翼上！</span>
+45-sel4_txt,,<span class='scene-font-katari'>ルリアと援護する！</span>,<span class='scene-font-katari'>我和露莉亚一起支援你们！</span>
+46,ランスロット/兰斯洛特,分かった！<br>続いて俺が追撃する！,明白了！<br>接下来由我追击！
+47,パーシヴァル/帕西瓦尔,ふっ……<br>止めは俺に任せろ！,嗯……<br>最后一击交给我！
+48,パーシヴァル/帕西瓦尔,ならば……<br>その隙に俺は右翼から<br>追撃してヤツを足止めする！,那么……<br>趁着这个间隙我从右翼<br>追击缠住它！
+49,ランスロット/兰斯洛特,止めは俺が空中から<br>叩き込む！,最后由我从空中<br>击败它！
+50,ランスロット/兰斯洛特,俺は左翼から追撃して<br>ヤツを攪乱する！,由我从左翼<br>来扰乱它！
+51,パーシヴァル/帕西瓦尔,その隙をついて<br>俺が渾身の一撃を叩き込む！,趁这间隙<br>让我用我浑身的一击来击溃它！
+52,パーシヴァル/帕西瓦尔,初手は<br>俺が炎でヤツを怯ませる！,先手<br>让我用火炎来吓退它！
+53,ルリア/露莉亚,私がティアマトの追い風で<br>炎の力を増幅させます！,让我用提亚马特的追风<br>来增幅火炎的力量！
+54,ランスロット/兰斯洛特,続けて俺が氷塊で<br>ヤツの動きを封じる！,接下来让我用冰<br>封住它的行动！
+54-sel1_txt,,<span class='scene-font-katari'>止めは任せて──！</span>,<span class='scene-font-katari'>最后一击交给我！</span>
+55,アーサー/亚瑟,ジークフリートさんを<br>助けて下さい……！,请救救<br>齐格飞先生……！
+56,モルドレッド/莫德雷德,お願いします……！,拜托了……！
+57,パーシヴァル/帕西瓦尔,ああ……心配するな。<br>後は俺達に任せて<br>下がっておけ。,啊啊……不要担心。<br>接下来就交给我们<br>退下吧。
+58,ランスロット/兰斯洛特,皆、準備はいいな！<br>作戦通りに行くぞっ！,大家，准备好了吗！<br>按照作战计划行动！
+59,？？？,<span class='scene-font-4'>グォォォォォ……！</span>,<span class='scene-font-4'>咕哦哦哦哦哦……！</span>
+info,,,scene_evt190927_cp3_q4_s20
+译者,,,

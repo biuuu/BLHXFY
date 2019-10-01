@@ -1,0 +1,27 @@
+id,name,text,trans
+0-chapter_name,,第3話 因縁,第3话 因缘
+0-synopsis,,翼竜を打倒した姬塔達。しかし、一行が戦闘をしている隙に、グンターはジークフリートを連れて空へ逃れていた。奮闘も空しく追いつくことはできず、姬塔達は空に去るグンターの姿を見送ることしかできないのだった。,打倒了翼龙的姬塔等人。然而，在一行人战斗之际，古达带着齐格飞从空中逃走了。奋战无果追之不及，姬塔等人只能眼睁睁地看着古达消失在了空中。
+2,ディニリシア/恐蛇,<span class='scene-font-4'>グギャァァァァッ……</span>,<span class='scene-font-4'>咕呀啊啊啊啊啊……</span>
+5,,<span class='scene-font-katari'>一行の総攻撃をその身に受けた翼竜は、</span><br><span class='scene-font-katari'>力尽きて地面に倒れ伏した。</span>,<span class='scene-font-katari'>受到一行人总攻击的翼龙，</span><br><span class='scene-font-katari'>力尽倒在地面之上。</span>
+6,ランスロット/兰斯洛特,やったか……！,干掉了吗……！
+7,パーシヴァル/帕西瓦尔,そのようだが……,看起来是这样……
+8,,<span class='scene-font-katari'>何とか翼竜を退けた一行であったが、</span><br><span class='scene-font-katari'>既にグンターはジークフリートを連れて</span><br><span class='scene-font-katari'>空高く舞い上がっていた。</span>,<span class='scene-font-katari'>好不容易击退了翼龙的一行人，</span><br><span class='scene-font-katari'>却发现古达已经带着齐格飞</span><br><span class='scene-font-katari'>飞上了高空之中。</span>
+9,ランスロット/兰斯洛特,ジークフリートさんっ！,齐格飞先生！
+10,グンター/古达,<span class='scene-font-4'>ふはははははっ！</span><br>残念だったな。,<span class='scene-font-4'>噗哈哈哈哈哈！</span><br>真是可惜。
+11,ジークフリート/齐格飞,…………,…………
+12,パーシヴァル/帕西瓦尔,おのれ！,可恶！
+13,グンター/古达,これでジークフリートは手に入った。,这样一来齐格飞就落在我的手上了。
+14,グンター/古达,それじゃあな。,那就再见了。
+16,ランスロット/兰斯洛特,<span class='scene-font-4'>貴様、待てっ！</span>,<span class='scene-font-4'>你这家伙，站住！</span>
+17,パーシヴァル/帕西瓦尔,チッ……<br>さすがに追いつけんか！,切……<br>果然是追不上了吗！
+18,ルリア/露莉亚,ジークフリートさん……！,齐格飞先生……！
+19,ビィ/碧,このまま逃げられちまうぜ！,这样下去要被他逃走了！
+19-sel1_txt,,<span class='scene-font-katari'>くそっ……！</span>,<span class='scene-font-katari'>可恶……！</span>
+20,,<span class='scene-font-katari'>だが、一行の奮闘も空しく、</span><br><span class='scene-font-katari'>グンターとジークフリートは</span><br><span class='scene-font-katari'>空の彼方へと消えてしまった。</span>,<span class='scene-font-katari'>然而，一行人奋战无果，</span><br><span class='scene-font-katari'>古达和齐格飞</span><br><span class='scene-font-katari'>消失在了空中。</span>
+21,アーサー/亚瑟,うぅ……<br>ジークフリートさん……,呜……<br>齐格飞先生……
+22,モルドレッド/莫德雷德,オレ達の……せいだ……,都是我们……的错……
+23,,<span class='scene-font-katari'>健闘空しくジークフリートを</span><br><span class='scene-font-katari'>連れ去られてしまった一行。</span>,<span class='scene-font-katari'>奋战无果眼睁睁看着</span><br><span class='scene-font-katari'>齐格飞被带走的一行人。</span>
+24,,<span class='scene-font-katari'>果たして、ジークフリートの</span><br><span class='scene-font-katari'>運命やいかに。</span>,<span class='scene-font-katari'>究竟齐格飞的命运</span><br><span class='scene-font-katari'>将会如何。</span>
+25,,<span class='scene-font-katari'>そして、</span><br><span class='scene-font-katari'>グンターの真の目論見とは。</span>,<span class='scene-font-katari'>以及、</span><br><span class='scene-font-katari'>古达真正的企图又是什么。</span>
+info,,,scene_evt190927_cp3_q4_s30
+译者,,,

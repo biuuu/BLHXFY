@@ -1,0 +1,101 @@
+id,name,text,trans
+0-chapter_name,,第2話 異変,第2话 异变
+0-synopsis,,アーサーとモルドレッドは、ブルグント地方の近くにある自分達の育った孤児院を心配し、待機命令を無視して王都を抜け出す。その途中、魔物に襲われたところを、騎士団に先行して現地へ調査に向かっていたジークフリートに助けられる。ジークフリートは同行を願い出るふたりに、連れて行くに相応しい実力があるかどうか証明して見せろと告げ、魔物の群れの相手を任せるのだった。,亚瑟和莫德雷德担心勃艮第地区附近的孤儿院，无视等待命令离开了王都。 他们在途中遭受到魔物的袭击，但被在骑士团之前先行前往调查的齐格飞救了下来。 两个人请求与齐格飞同行，齐格飞让他们证明自己是否有能力能够一起去，然后让他们与一群魔物交手。
+10,,<span class='scene-font-katari'>その頃、王都ではカール王から直々に、</span><br><span class='scene-font-katari'>ブルグント地方の騒動の鎮静化を</span><br><span class='scene-font-katari'>命じられたランスロット。</span>,<span class='scene-font-katari'>那时，兰斯洛特被卡尔王</span><br><span class='scene-font-katari'>下令镇压</span><br><span class='scene-font-katari'>勃艮第地区的骚乱。</span>
+11,,<span class='scene-font-katari'>団長のランスロットと</span><br><span class='scene-font-katari'>副団長のヴェインは、</span><br><span class='scene-font-katari'>今後の対策について話し合う。</span>,<span class='scene-font-katari'>兰斯洛特团长和</span><br><span class='scene-font-katari'>和维恩副团长</span><br><span class='scene-font-katari'>讨论着今后的对策。</span>
+16,ランスロット/兰斯洛特,俺が白竜騎士団を率いて<br>ブルグント地方へ出陣する間、<br>ヴェインは王都の守備を頼む。,我率领白龙骑士团<br>前往勃艮第地区的时候，<br>就拜托维恩在王都守备了。
+17,ヴェイン/维恩,あいよ！<br>こっちは俺に任せとけ！,好！<br>就交给我吧！
+18,,<span class='scene-font-katari'>議論を交わす</span><br><span class='scene-font-katari'>ランスロットとヴェインの元に</span><br><span class='scene-font-katari'>ジークフリートが現れる。</span>,<span class='scene-font-katari'>正在讨论时，</span><br><span class='scene-font-katari'>齐格飞出现在</span><br><span class='scene-font-katari'>两人的身边。</span>
+19,ジークフリート/齐格飞,ランスロット、ヴェイン、<br>少し話してもいいか？,兰斯洛特，维恩，<br>能稍微说两句吗？
+20,ランスロット/兰斯洛特,はい！,是！
+21,ジークフリート/齐格飞,ブルグント地方へは、<br>ひとまず俺が単独で先行して<br>調査を進めたいのだが、問題ないか？,关于勃艮第地区，<br>我想先单独行动进行调查，没问题吧？
+22,ランスロット/兰斯洛特,問題も何も……<br>こちらこそ助かります！<br>なぁヴェイン？,哪有问题，<br>不如说帮大忙了！对吧维恩？
+23,ヴェイン/维恩,もちろんだぜ！<br>ジークフリートさんが行けば<br>白竜騎士団が行く前に解決しそうだな！,当然了！<br>如果是齐格飞先生去的话，<br>好像在白龙骑士团出发之前就能解决了。
+24,ジークフリート/齐格飞,ふっ……恩に着る。<br>期待に添える働きが<br>できるといいがな。,呵，感谢。如果能做到让你们期待就好了。
+25,,<span class='scene-font-katari'>ジークフリートの視線の先では、</span><br><span class='scene-font-katari'>王都での待機を言い渡された</span><br><span class='scene-font-katari'>見習い騎士達の姿があった。</span>,<span class='scene-font-katari'>齐格飞注视着</span><br><span class='scene-font-katari'>被命令在王都待机的</span><br><span class='scene-font-katari'>见习骑士们。</span>
+26,トネリロ/托涅利罗,でも、異変って何だろう。<br>怖いね……,但，异变是啥啊，<br>好恐怖啊……
+27,クルス/库鲁斯,ああ……,嗯……
+28,ヘンリー/亨利,まぁ、俺達は王都で待機だから<br>大丈夫だろ？,嘛，因为我们就在王都待机<br>所以没啥危险吧？
+29,,<span class='scene-font-katari'>見習い騎士達と少し距離を置いて</span><br><span class='scene-font-katari'>深刻な表情で話し合う</span><br><span class='scene-font-katari'>アーサーとモルドレッド。</span>,<span class='scene-font-katari'>亚瑟和莫德雷德在</span><br><span class='scene-font-katari'>离见习骑士一段距离的地方</span><br><span class='scene-font-katari'>用严肃的表情交流着。</span>
+30,アーサー/亚瑟,ブルグント地方って……<br>院の近く、だよね？,勃艮第地区是，<br>孤儿院的附近，对吧。
+31,モルドレッド/莫德雷德,ああ……<br>みんな無事だといいんだけどな。,嗯……<br>大家没事就好了。
+32,アーサー/亚瑟,シスターとチビ達、大丈夫かなぁ……,修女和小不点们，没事吧……
+33,モルドレッド/莫德雷德,白竜騎士団が到着すれば<br>大丈夫だろうけど……,虽然白龙骑士团到了就没问题了……
+34,ジークフリート/齐格飞,…………,…………
+39,,<span class='scene-font-katari'>王都から少し離れた場所を</span><br><span class='scene-font-katari'>全力で駆けるふたりの騎士。</span>,<span class='scene-font-katari'>在离王都一定距离的地方，</span><br><span class='scene-font-katari'>两名骑士全力飞奔着。</span>
+40,アーサー/亚瑟,はぁ……はぁ……<br>はぁ……はぁ……,哈……哈……<br>哈……哈……
+41,モルドレッド/莫德雷德,はぁ……はぁ……<br>はぁ……はぁ……,哈……哈……<br>哈……哈……
+43,アーサー/亚瑟,はぁ～！<br>走りっぱなしで疲れたぁ～！,哈～！<br>一直跑好累啊～！
+45,モルドレッド/莫德雷德,ここまでくれば<br>もう大丈夫だろ。,到这里就没问题了吧。
+46,,<span class='scene-font-katari'>アーサーとモルドレッドは、</span><br><span class='scene-font-katari'>待機命令を無視して、</span><br><span class='scene-font-katari'>密かに王都を抜け出していた。</span>,<span class='scene-font-katari'>亚瑟和莫德雷德</span><br><span class='scene-font-katari'>无视了待机命令，</span><br><span class='scene-font-katari'>悄悄从王都出来了。</span>
+47,アーサー/亚瑟,俺達、<br>絶対怒られるよね……,我们绝对要被骂的吧……
+48,モルドレッド/莫德雷德,ああ、間違いないな。,嗯，绝对。
+49,アーサー/亚瑟,はぁ……<br>怒られるのは嫌だなぁ……,唉……<br>我讨厌被骂啊……
+50,モルドレッド/莫德雷德,今から怒られること想像して<br>ヘコんでんじゃねーよ！,现在可不是想象会被骂的时候！
+51,モルドレッド/莫德雷德,怒られるのが嫌なら、<br>オレ一人で行くからオマエは帰れよ！,如果不想被骂的话，<br>我会自己一个人去，你就回去吧！
+52,アーサー/亚瑟,嫌だ……,不要……
+53,モルドレッド/莫德雷德,じゃあなんなんだよ……,那到底要怎样啦……
+54,アーサー/亚瑟,怒られるのは嫌だけど、<br>院のみんなが危ない目に遭うのは<br>絶対に嫌だ！,虽然讨厌被骂，<br>但是绝对不能让孤儿院的大家遭受危险！
+55,モルドレッド/莫德雷德,ああ、オレも同じだ。<br>じゃあもうメソメソするなよ。,嗯，我也一样。<br>所以别叽叽歪歪的了。
+56,アーサー/亚瑟,うん……わかった。,嗯……我知道了。
+57,モルドレッド/莫德雷德,ほら、急ぐぞ。,那就快点。
+58,アーサー/亚瑟,おうっ！,哦！
+59,,<span class='scene-font-katari'>気を取り直して、再び自分達が育った</span><br><span class='scene-font-katari'>孤児院を目指す</span><br><span class='scene-font-katari'>アーサーとモルドレッド。</span>,<span class='scene-font-katari'>亚瑟和莫德雷德重新振作，</span><br><span class='scene-font-katari'>再次向养育自己的</span><br><span class='scene-font-katari'>孤儿院出发。</span>
+60,,<span class='scene-font-katari'>その時、ふたりの行く手を阻む様に</span><br><span class='scene-font-katari'>魔物が現れる。</span>,<span class='scene-font-katari'>这时，出现了</span><br><span class='scene-font-katari'>阻挡两人去路的魔物。</span>
+61,魔物,グルルルル……,咕噜噜……
+62,モルドレッド/莫德雷德,邪魔だ！,烦人！
+63,アーサー/亚瑟,急いでるから、ごめんねっ！,急着赶路，<br>抱歉了！
+67,魔物,グガフ……,咕嘎……
+69,,<span class='scene-font-katari'>見事な連係攻撃で</span><br><span class='scene-font-katari'>魔物を倒すアーサーとモルドレッド。</span>,<span class='scene-font-katari'>亚瑟和莫德雷德</span><br><span class='scene-font-katari'>用优秀的连携攻击打倒了魔物。</span>
+70,アーサー/亚瑟,…………,…………
+71,モルドレッド/莫德雷德,おいアーサー<br>何してんだよ？,喂亚瑟，<br>你在干什么？
+72,アーサー/亚瑟,いや、コイツの縄張りに入って<br>驚かせちゃったかなって……,这个，<br>我在想是不是我们进入了它的地盘让它受惊了……
+73,モルドレッド/莫德雷德,はぁ……オマエまた<br>そんなこと言ってんのかよ……,哈……<br>你这家伙又在说这种事……
+74,アーサー/亚瑟,だって……,毕竟……
+75,モルドレッド/莫德雷德,だってもクソもねー,毕竟也没用ー
+76,魔物,<span class='scene-font-4'>グォォォォッ！</span>,<span class='scene-font-4'>咕哦哦！</span>
+77,モルドレッド/莫德雷德,しまっ……,糟……
+78,アーサー/亚瑟,<span class='scene-font-4'>モルドレッド！</span>,<span class='scene-font-4'>莫德雷德！</span>
+79,,<span class='scene-font-katari'>軽い口論になるアーサーと</span><br><span class='scene-font-katari'>モルドレッドの背後から</span><br><span class='scene-font-katari'>魔物の仲間が襲いかかった。</span>,<span class='scene-font-katari'>魔物的伙伴从背后</span><br><span class='scene-font-katari'>袭击了</span><br><span class='scene-font-katari'>掉以轻心的亚瑟和莫德雷德。</span>
+81,魔物,ギャッ……,嘎……
+84,ジークフリート/齐格飞,覚えておけ、<br>コイツは群れで行動する魔物だ。,记住了，<br>它们是会群体行动的魔物。
+86,アーサー＆モルドレッド,ジークフリートさんっ！,齐格飞先生！
+88,ジークフリート/齐格飞,先ほどの稽古での動きはどうした？<br>あれはまぐれだったのか？,之前练习时的表现去哪儿了？这只是侥幸哦？
+89,アーサー/亚瑟,それはっ……<br>今のは、油断しただけで……,那是……<br>刚刚大意了……
+90,ジークフリート/齐格飞,油断したから、<br>魔物が待ってくれるのか？,在你大意的时候，<br>魔物可不会白白等着哦？
+91,ジークフリート/齐格飞,これは訓練じゃあない、<br>命を落としてから後悔しても遅いぞ。,这可不是训练，<br>等你失去了生命再后悔就迟了。
+92,モルドレッド/莫德雷德,あの……,那个……
+93,ジークフリート/齐格飞,どうした？,怎么了？
+94,モルドレッド/莫德雷德,お、怒らないんですか、<br>勝手に抜け出したオレ達のこと？,啊，<br>你不对擅自出来的我们生气吗？
+95,,<span class='scene-font-katari'>アーサーとモルドレッドの</span><br><span class='scene-font-katari'>顔を眺めるジークフリートは、</span><br><span class='scene-font-katari'>やれやれといった調子で答える。</span>,<span class='scene-font-katari'>齐格飞看着</span><br><span class='scene-font-katari'>亚瑟和莫德雷德的脸、</span><br><span class='scene-font-katari'>用受不了的语气回答着。</span>
+96,ジークフリート/齐格飞,俺が止めても、<br>お前達は行くのだろう？,就算我阻止，<br>你们也一定会去的吧？
+97,アーサー/亚瑟,はいっ！,对！
+98,モルドレッド/莫德雷德,バカっ！<br>笑顔で答えてんじゃねーよ！,笨蛋！<br>不要满脸笑容地回答啊！
+99,アーサー/亚瑟,あっ、そうか！,啊，这样吗！
+100,,<span class='scene-font-katari'>モルドレッドは真剣な表情で</span><br><span class='scene-font-katari'>ジークフリートに向き直る。</span>,<span class='scene-font-katari'>莫德雷德认真地</span><br><span class='scene-font-katari'>面对着齐格飞。</span>
+101,モルドレッド/莫德雷德,実は、オレ達の暮らしてた孤児院が<br>ブルグント地方の近くにあって……,实际上，<br>我们生活的孤儿院离勃艮第地区很近……
+102,アーサー/亚瑟,俺達、院のみんなが無事か心配で、<br>いてもたってもいられなくなって、<br>それで二人で行こうってなって……,我们坐立不安地担心<br>孤儿院的大家是不是安全，<br>所以就两个人去了……
+103,ジークフリート/齐格飞,孤児院、か……,孤儿院、吗……
+104,,<span class='scene-font-katari'>顔を見合わせる</span><br><span class='scene-font-katari'>アーサーとモルドレッドは</span><br><span class='scene-font-katari'>改めて深々と頭を下げる。</span>,<span class='scene-font-katari'>面面相觑的</span><br><span class='scene-font-katari'>亚瑟和莫德雷德</span><br><span class='scene-font-katari'>再次深深地低下了头。</span>
+105,アーサー/亚瑟,ジークフリートさん！<br>俺達も一緒に連れて<br>行ってくれませんか？,齐格飞先生！<br>也带着我们一起去吧？
+106,モルドレッド/莫德雷德,お願いします！<br>オレ達、絶対に足手まといには<br>ならないからさ！,拜托了，<br>我们绝对不会绊手绊脚的！
+107,,<span class='scene-font-katari'>アーサーとモルドレッドの必死の</span><br><span class='scene-font-katari'>願いを受けたジークフリートは、</span><br><span class='scene-font-katari'>真剣な表情で聞き入っていた。</span>,<span class='scene-font-katari'>齐格飞感受到亚瑟和莫德雷德</span><br><span class='scene-font-katari'>拼命的决心，</span><br><span class='scene-font-katari'>认真地倾听他们的话。</span>
+108,ジークフリート/齐格飞,……仕方ない、お前達を孤児院まで<br>二人きりで行かせるよりは安心か。,……没办法，这比起<br>只让你们两个人去孤儿院让我放心一点。
+109,アーサー/亚瑟,ジークフリートさんっ！,齐格飞先生！
+110,モルドレッド/莫德雷德,ありがとうございますっ！,非常感谢！
+111,ジークフリート/齐格飞,ただし……<br>先ほどの魔物に後れを取る<br>体たらくでは困る。,但是……<br>再有之前被魔物趁虚而入的狼狈相我就难办了。
+112,アーサー＆モルドレッド,はい……,是……
+113,ジークフリート/齐格飞,それから、<br>一つ言い忘れたことがある。,还有一件忘说的事情了。
+114,ジークフリート/齐格飞,先ほどの魔物は、<br>倒したらすぐにその場を離れろ。,之前的魔物<br>打倒后就要立即离开那个地方。
+115,魔物,グルルルル……,咕噜噜……
+116,ジークフリート/齐格飞,でないと仲間の血の匂いを嗅ぎつけて<br>こうして集まって来るからな……,否则它们闻到同伴的血的味道<br>就会像这样聚集过来……
+117,アーサー＆モルドレッド,っ！,呃！
+118,ジークフリート/齐格飞,なかなかいい反応だ。,挺不错的反应。
+119,ジークフリート/齐格飞,さて……この先、<br>お前達を連れて行くに相応しい<br>実力があるかどうか……,那么……在这之后<br>你们有没有一同前行的实力……
+120,ジークフリート/齐格飞,こいつらを二人だけで倒して、<br>俺に力を証明して見せろ。,就打倒它们<br>来给我证明你们的力量吧。
+121,アーサー＆モルドレッド,<span class='scene-font-4'>はいっ！</span>,<span class='scene-font-4'>是！</span>
+122,ジークフリート/齐格飞,ふっ……<br>こいつらにさえ手こずる様であれば、<br>大人しく王都に帰ってもらおうか。,哼……<br>如果是面对这样的对手都感到棘手的话，就会乖乖回王都吧。
+123,モルドレッド/莫德雷德,……行くぞアーサー！<br>ここは絶対に負けられない！,……上吧亚瑟，<br>绝对不能在这里输！
+124,アーサー/亚瑟,うん！<br>モルドレッド、絶対に勝とう！,嗯！莫德雷德，<br>绝对要赢啊！！
+info,,,scene_evt190927_cp2_q1_s20
+译者,,,myu

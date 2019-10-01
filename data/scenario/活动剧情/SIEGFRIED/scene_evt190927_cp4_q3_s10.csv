@@ -1,0 +1,116 @@
+id,name,text,trans
+0-chapter_name,,第4話 昔日,第4話 昔日
+0-synopsis,,謎の研究施設で目を覚ましたジークフリートに、グンターはブルグント地方で反乱が起きた日のことを語る。ジークフリートに追い詰められ逆上した反乱の首謀者は、逃げ込んだ民家で負傷していたグンターとクリームヒルトを人質にとり、リヒトにも致命傷を負わせた。民家が火に包まれる中首謀者は逃亡し、茫然自失のグンターはクリームヒルトとリヒトを連れて火中へ消えるのだった。,对着在迷之研究设施中苏醒的齐格飞，古达向他讲述了勃艮第地方掀起叛乱那日的事。被齐格飞逼入绝境、陷入狂乱的叛乱主谋者逃入了民宅中。他将古达和克琳希德当做人质，还让里希德身负致命伤。当民宅被火焰包围后，叛乱主谋逃亡了。茫然呆滞的古达带着克琳希德与里希德，消失在了火焰之中。
+2,ジークフリート/齐格飞,うぅ……,唔……
+3,グンター,お目覚めか？,醒了吗？
+4,,<span class='scene-font-katari'>地下の研究施設の様な場所で</span><br><span class='scene-font-katari'>ジークフリートが目を覚ますと</span><br><span class='scene-font-katari'>目の前にはグンターの姿があった。</span>,<span class='scene-font-katari'>地下の研究施設の様な場所で</span><br><span class='scene-font-katari'>当齐格飞在像地下研究室般的室内醒来时，</span><br><span class='scene-font-katari'>古达的身影就在他的面前。</span>
+5,ジークフリート/齐格飞,……グンター,……古达
+6,グンター,これからお前には地獄を<br>見せてやるからな……<br>夢なんて見てる暇はないぞ？,接下来<br>我会让你见识到地狱的……<br>可没空再做梦了哦？
+7,ジークフリート/齐格飞,……なぜ、こんなことをする？,……为什么，要做这种事？
+8,グンター,……なぜ？<br>そんなの決まっているだろう？,……为什么？<br>这还用说吗？
+9,グンター,あの日俺は……<br>全てを失ったからだ。,因为那一天……<br>我失去了一切。
+10,,<span class='scene-font-katari'>そう言って天を仰ぐグンターは、</span><br><span class='scene-font-katari'>過去について語り始める。</span>,<span class='scene-font-katari'>这样说着，古达仰起头，</span><br><span class='scene-font-katari'>开始诉说起过去的事。</span>
+16,,<span class='scene-font-katari'>ランスロットとパーシヴァルが</span><br><span class='scene-font-katari'>黒竜騎士団の副団長に就いた日に、</span><br><span class='scene-font-katari'>ブルグント地方で大きな反乱が起きた。</span>,<span class='scene-font-katari'>在兰斯洛特与帕西瓦尔</span><br><span class='scene-font-katari'>就任黑龙骑士团副团长的那一天，</span><br><span class='scene-font-katari'>勃艮第地区发生了大规模的叛乱。</span>
+17,,<span class='scene-font-katari'>ジークフリート達が鎮圧に赴いた地こそ</span><br><span class='scene-font-katari'>グンターとクリームヒルトが</span><br><span class='scene-font-katari'>穏やかに暮らしていた場所であった。</span>,<span class='scene-font-katari'>齐格飞他们前去镇压的地点</span><br><span class='scene-font-katari'>也正是古达与克琳希德</span><br><span class='scene-font-katari'>安稳地生活着的地方。</span>
+18,,<span class='scene-font-katari'>反乱が起きる数日前、グンター達から</span><br><span class='scene-font-katari'>手紙を貰ったジークフリートは、</span><br><span class='scene-font-katari'>再会する約束を交わしていた。</span>,<span class='scene-font-katari'>在叛乱开始前数日，齐格飞从</span><br><span class='scene-font-katari'>古达他们那里收到了信，</span><br><span class='scene-font-katari'>并交换了再会的约定。</span>
+19,,<span class='scene-font-katari'>そんな中、ジークフリートは、</span><br><span class='scene-font-katari'>反乱兵と黒竜騎士団が争う戦場を</span><br><span class='scene-font-katari'>反乱の首謀者を追って疾駆していた。</span>,<span class='scene-font-katari'>在战斗中，</span><br><span class='scene-font-katari'>齐格飞在叛军与黑龙骑士团斗争的战场上，</span><br><span class='scene-font-katari'>追逐着掀起叛乱的主谋。</span>
+20,ジークフリート/齐格飞,待てっ！,站住！
+21,反乱の首謀者,くそっ……<br>ジークフリートを甘く見ていた……,可恶……<br>小看齐格飞了……
+22,反乱の首謀者,まさか単騎で本陣まで<br>突破して来るとはな。,没想到他竟然只身一人<br>突破了本阵。
+28,,<span class='scene-font-katari'>追いつめられた首謀者は、</span><br><span class='scene-font-katari'>既に何者かに荒らされた様子の</span><br><span class='scene-font-katari'>一軒の民家に逃げ込む。</span>,<span class='scene-font-katari'>被逼入绝境的主谋者</span><br><span class='scene-font-katari'>逃入了像是已经被什么人损毁过的</span><br><span class='scene-font-katari'>一间民宅之中。</span>
+29,反乱の首謀者,おい……！<br>これ以上近づくな！,喂……！<br>别过来了！
+30,,<span class='scene-font-katari'>錯乱した首謀者は、</span><br><span class='scene-font-katari'>室内で怪我をしていた</span><br><span class='scene-font-katari'>民間人を盾にする。</span>,<span class='scene-font-katari'>陷入错乱的主谋者</span><br><span class='scene-font-katari'>将室内负伤的平民当做盾牌。</span>
+31,クリームヒルト,うぅ…………,呜呜…………
+32,グンター,……ジークフリート？,……齐格飞？
+33,ジークフリート/齐格飞,っ……！<br>グンター！　クリームヒルト！,……！<br>古达！　克琳希德！
+34,,<span class='scene-font-katari'>反乱の首謀者が人質に取った民間人は、</span><br><span class='scene-font-katari'>何の因果か、満身創痍の</span><br><span class='scene-font-katari'>グンターとクリームヒルトであった。</span>,<span class='scene-font-katari'>被叛乱主谋作为人质的平民——</span><br><span class='scene-font-katari'>不知是何种因果，竟是</span><br><span class='scene-font-katari'>浑身是伤的古达与克琳希德。</span>
+35,反乱の首謀者,なんだ……？<br>まさか顔見知りか……,什么……？<br>竟然是熟人吗……
+36,ジークフリート/齐格飞,無関係の人々を<br>巻き込むな……！,别把没关系的人<br>卷进来……！
+37,反乱の首謀者,巻き込むなって……<br>正義の味方面か？,别卷进来……<br>还打算装成正义的伙伴吗？
+38,反乱の首謀者,お前らはいつもそうやって<br>自分たちだけが正しいと、<br>大義名分を振りかざす。,你们总是这样，<br>挥舞着正义和大义的名头，<br>认为只有自己才是正确的。
+39,反乱の首謀者,こいつらはなぁ……<br>お前ら黒竜騎士団が正義を振りかざして<br>出張ってきたせいで巻き込まれたんだ！,他们啊……<br>就是因为你们黑龙骑士团打着正义的名头冲出来<br>才被这样卷进来的啊！！
+40,ジークフリート/齐格飞,ぐっ……<br>グンター、クリームヒルト、<br>俺が必ず助ける。,唔……<br>古达、克琳希德、<br>我一定会救你们。
+41,反乱の首謀者,おっと……<br>妙な真似をしてみろ！<br>こいつらを殺すぞ？,喂……<br>轻举妄动试试！<br>我会杀了他们的哦？
+42,反乱の首謀者,そこから一歩も動くなよ……,就待在哪里一步都别动……
+43,,<span class='scene-font-katari'>反乱の首謀者は、</span><br><span class='scene-font-katari'>クリームヒルトを人質にして</span><br><span class='scene-font-katari'>裏口から逃げようとする。</span>,<span class='scene-font-katari'>叛乱主谋将克琳希德作为人质，</span><br><span class='scene-font-katari'>试图从后门逃跑。</span>
+44,グンター,ジークフリート……<br>頼む……,齐格飞……<br>拜托你……
+46,クリームヒルト,助けて……,救救我……
+47,反乱の首謀者,<span class='scene-font-4'>動くなよ！</span>,<span class='scene-font-4'>不准动！</span>
+48,ジークフリート/齐格飞,ぐっ……,唔……
+49,ジークフリート/齐格飞,<span class='scene-font-kokoro'>（隙を見つけて二人を</span><br><span class='scene-font-kokoro'>助け出さねば……）</span>,<span class='scene-font-kokoro'>（必须找出破绽</span><br><span class='scene-font-kokoro'>救下他们两人……）</span>
+50,,<span class='scene-font-katari'>その時、隣の部屋から</span><br><span class='scene-font-katari'>物音が聞こえて来る。</span>,<span class='scene-font-katari'>就在此时，</span><br><span class='scene-font-katari'>旁边的屋内传来了声响。</span>
+53,？？？,……ママ？　……パパ？<br>どこにいるの？,……妈妈？　……爸爸？<br>你们在哪儿？
+54,クリームヒルト,……リヒト！<br>こっちに来ちゃダメ！,……里希德！<br>不要过来！
+55,リヒト,ママッ！,妈妈！
+56,反乱の首謀者,チッ……<br>まだガキがいやがったのか。,切……<br>竟然还有个小鬼头。
+57,,<span class='scene-font-katari'>隣の部屋から姿を現したのは</span><br><span class='scene-font-katari'>まだ年端もいかない</span><br><span class='scene-font-katari'>リヒトという名の子供であった。</span>,<span class='scene-font-katari'>从旁边的房间里现身的，</span><br><span class='scene-font-katari'>是一位尚且年幼，</span><br><span class='scene-font-katari'>名为里希德的孩子。</span>
+58,反乱の首謀者,おい騒ぐなクソガキ……<br>俺はガキがこの世で一番嫌いなんだ……,别吵啊臭小鬼……<br>我这辈子最讨厌的就是小鬼头了……
+59,リヒト,<span class='scene-font-4'>ママーッ！</span>,<span class='scene-font-4'>妈妈——！</span>
+60,,<span class='scene-font-katari'>クリームヒルトの元に</span><br><span class='scene-font-katari'>駆け寄ってくるリヒト。</span>,<span class='scene-font-katari'>里希德向着克琳希德</span><br><span class='scene-font-katari'>的方向跑去。</span>
+61,反乱の首謀者,騒ぐなって……<br>言ってるだろこのクソガキがぁ！,都说了……<br>别乱叫啊臭小鬼！
+62,,<span class='scene-font-katari'>反乱の首謀者は、</span><br><span class='scene-font-katari'>クリームヒルトを人質にしたまま、</span><br><span class='scene-font-katari'>リヒトを蹴りあげる。</span>,<span class='scene-font-katari'>叛乱主谋挟制着</span><br><span class='scene-font-katari'>克琳希德作为人质，</span><br><span class='scene-font-katari'>踢开了里希德。</span>
+64,リヒト,ウギッ……,呜呼……
+65,クリームヒルト,リヒトッ！,里希德！
+66,ジークフリート/齐格飞,<span class='scene-font-4'>貴様ッ！</span>,<span class='scene-font-4'>你这家伙！</span>
+67,反乱の首謀者,<span class='scene-font-4'>動くなぁぁ！</span><br>近づいたらコイツも殺すぞぉぉ！<br>絶対殺すぅぅ！,<span class='scene-font-4'>别动啊啊！</span><br>敢过来我就连这家伙一起杀了！<br>绝对会杀了她！
+68,リヒト,う……ぅ……,唔……呜……
+69,,<span class='scene-font-katari'>その時、反乱の首謀者が暴れた反動で</span><br><span class='scene-font-katari'>テーブルの上にあった</span><br><span class='scene-font-katari'>アルコールランプが床に落ちた。</span>,<span class='scene-font-katari'>在那时，由于叛乱主谋暴力的举动，</span><br><span class='scene-font-katari'>放置在桌面上的酒精灯被其反动作击落，</span><br><span class='scene-font-katari'>倒在了地板上。</span>
+70,,<span class='scene-font-katari'>ランプの火は、瞬く間に</span><br><span class='scene-font-katari'>近くの布きれに燃え移り、</span><br><span class='scene-font-katari'>部屋は炎に包まれ始めた。</span>,<span class='scene-font-katari'>灯中的火瞬间移动到了</span><br><span class='scene-font-katari'>附近的布料上，</span><br><span class='scene-font-katari'>屋内被火焰所包围。</span>
+71,反乱の首謀者,ごほっ……ごほっ……,咳咳……咳咳……
+72,ジークフリート/齐格飞,くそっ……,可恶……
+73,ジークフリート/齐格飞,<span class='scene-font-kokoro'>（……追いつめられて</span><br><span class='scene-font-kokoro'>完全に逆上してしまっている）</span>,<span class='scene-font-kokoro'>（……他被逼到绝境</span><br><span class='scene-font-kokoro'>已经完全陷入狂乱了）</span>
+74,グンター,おい……どうした？,喂……怎么了？
+75,グンター,<span class='scene-font-4'>リヒトッ！</span>,<span class='scene-font-4'>里希德！</span>
+76,リヒト,…………,…………
+77,クリームヒルト,ああ……あああああ……<br><span class='scene-font-4'>ああああぁぁぁリヒトッ！</span>,啊啊……不要啊啊啊啊啊……<br><span class='scene-font-4'>啊啊啊啊啊啊里希德啊啊！</span>
+78,反乱の首謀者,ウルセェ黙れこのクソアマ……！,吵死了闭嘴啊臭女人……！
+80,クリームヒルト,ぎゃっ……,呀啊……
+81,ジークフリート/齐格飞,やめろっ！,住手！
+82,反乱の首謀者,<span class='scene-font-4'>いいから黙れ！</span><br><span class='scene-font-4'>お前が動いたらこの女も殺す！</span>,<span class='scene-font-4'>给我住口！</span><br><span class='scene-font-4'>你敢动一下我就把这女人也杀了！</span>
+83,グンター,許してくれ……<br>頼む……,原谅我……<br>求你了……
+84,ジークフリート/齐格飞,……必ず助ける。,……我一定会救你们的。
+85,ジークフリート/齐格飞,<span class='scene-font-kokoro'>（この程度の相手に手こずるとは</span><br><span class='scene-font-kokoro'>動揺しているのか……）</span>,<span class='scene-font-kokoro'>（是动摇了吗，竟然会对这种</span><br><span class='scene-font-kokoro'>程度的对手感到棘手…）</span>
+89,,<span class='scene-font-katari'>クリームヒルトを羽交い絞めにしたまま</span><br><span class='scene-font-katari'>民家の裏口まで辿り着く反乱の首謀者。</span>,<span class='scene-font-katari'>紧紧拘束着克琳希德，</span><br><span class='scene-font-katari'>叛乱主谋来到了民宅的后门。</span>
+90,反乱の首謀者,それじゃあな！,再见了！
+91,クリームヒルト,うっ……,呜……
+95,ジークフリート/齐格飞,<span class='scene-font-4'>危ないっ！</span>,<span class='scene-font-4'>危险！</span>
+96,,<span class='scene-font-katari'>反乱の首謀者が突き飛ばした</span><br><span class='scene-font-katari'>クリームヒルトを抱き留める</span><br><span class='scene-font-katari'>ジークフリート。</span>,<span class='scene-font-katari'>齐格飞抱住了被叛乱主谋</span><br><span class='scene-font-katari'>突然扔开的克琳希德。</span><br><span class='scene-font-katari'>ジークフリート。</span>
+97,反乱の首謀者,くくっ……<br>そいつらを早く手当しないと死ぬぜ！,嘿嘿嘿……<br>不快点治疗的话他们都会死！
+98,,<span class='scene-font-katari'>反乱の首謀者は、</span><br><span class='scene-font-katari'>そう言い残して裏口から逃走する。</span>,<span class='scene-font-katari'>留下这句话，</span><br><span class='scene-font-katari'>叛乱主谋从后门逃走了。</span>
+99,ジークフリート/齐格飞,待てっ……！,站住……！
+100,ジークフリート/齐格飞,<span class='scene-font-kokoro'>（だが今はグンター達の救助が優先だ）</span>,<span class='scene-font-kokoro'>（但现在要优先去救助古达他们。）</span>
+101,クリームヒルト,はぁ……はぁ……<br>がはっ……！,哈啊……哈啊……<br>嘎哈啊……！
+102,ジークフリート/齐格飞,……っ！　……大丈夫か？<br>クリームヒルト？,……！　……没事吧？<br>克琳希德？
+103,,<span class='scene-font-katari'>背中に深い傷を負っている</span><br><span class='scene-font-katari'>クリームヒルトは、</span><br><span class='scene-font-katari'>リヒトの傍ににじり寄る。</span>,<span class='scene-font-katari'>背部被重伤的克琳希德</span><br><span class='scene-font-katari'>慢慢地爬向了里希德身边</span>
+104,クリームヒルト,リヒト……リヒト……<br>うぅ……,里希德……里希德……<br>呜呜……
+105,,<span class='scene-font-katari'>先にリヒトの傍にいた</span><br><span class='scene-font-katari'>グンターは俯いたまま動かない。</span>,<span class='scene-font-katari'>已经在利息特身旁的古达</span><br><span class='scene-font-katari'>正低着头，一动不动。</span>
+106,ジークフリート/齐格飞,……グンター？　,……古达？　
+107,グンター,首の骨が折れてる……,脖子的骨头断掉了……
+109,クリームヒルト,リヒ……ト……！<br>いや……,里希……德……！<br>不要……
+110,,<span class='scene-font-katari'>そのままクリームヒルトは</span><br><span class='scene-font-katari'>意識を失ってしまう。</span>,<span class='scene-font-katari'>克琳希德就这样</span><br><span class='scene-font-katari'>失去了意识。</span>
+111,ジークフリート/齐格飞,ぐっ……くそぉっ！,唔……可恶！
+112,,<span class='scene-font-katari'>既に炎は家中に燃え広がり、</span><br><span class='scene-font-katari'>今すぐにでも脱出しないと</span><br><span class='scene-font-katari'>危険な状況となっていた。</span>,<span class='scene-font-katari'>屋内火焰四处扩散，</span><br><span class='scene-font-katari'>已是需要尽快逃跑的</span><br><span class='scene-font-katari'>危险状况。</span>
+113,ジークフリート/齐格飞,<span class='scene-font-4'>おいグンター！</span><br><span class='scene-font-4'>今すぐ逃げないと危険だ！</span>,<span class='scene-font-4'>喂古达！</span><br><span class='scene-font-4'>不快逃出去就危险了！</span>
+114,,<span class='scene-font-katari'>だが上の空の様子のグンターは、</span><br><span class='scene-font-katari'>燃え盛る炎に照らされながら</span><br><span class='scene-font-katari'>ジークフリートに向き直る。</span>,<span class='scene-font-katari'>燃烧着的火焰照亮了古达呆滞的脸庞，</span><br><span class='scene-font-katari'>他转过头来，</span><br><span class='scene-font-katari'>看向齐格飞。</span>
+115,グンター,……なぁジークフリート？,……呐，齐格飞？
+116,グンター,俺達はただ、<br>静かに暮らしたかっただけなんだ……,我们只是<br>想静静地生活在这里罢了……
+117,ジークフリート/齐格飞,……何をしている？　早くしろ！,……你在做什么？　快点！
+118,グンター,なのになぜ奪う……？,然而为何会被夺走……？
+119,,<span class='scene-font-katari'>ジークフリートはグンター達を</span><br><span class='scene-font-katari'>連れて逃げようとするが、</span><br><span class='scene-font-katari'>一向に応じようとしない。</span>,<span class='scene-font-katari'>齐格飞打算带着古达他们</span><br><span class='scene-font-katari'>一起逃跑，可古达却没有</span><br><span class='scene-font-katari'>要回应他的意思。</span>
+120,グンター,なぁジークフリート、<br>悪いのは俺達か？,你说，齐格飞，<br>是我们错了吗？
+121,グンター,……それとも、この世界か？,……还是说、是这个世界？
+122,ジークフリート/齐格飞,……っ！,……！
+123,,<span class='scene-font-katari'>ジークフリートが無理やりにでも</span><br><span class='scene-font-katari'>グンター達を連れ出そうとした瞬間。</span>,<span class='scene-font-katari'>那正是齐格飞准备</span><br><span class='scene-font-katari'>强行将古达他们带走的瞬间。</span>
+126,,<span class='scene-font-katari'>グンターとジークフリートの間に、</span><br><span class='scene-font-katari'>燃え盛る柱が倒れて来て、</span><br><span class='scene-font-katari'>ふたりは分断されてしまった。</span>,<span class='scene-font-katari'>在齐格飞与古达之间，、</span><br><span class='scene-font-katari'>燃烧的柱子轰然倒下。</span><br><span class='scene-font-katari'>将他们两人彻底分开了。</span>
+127,ジークフリート/齐格飞,……チッ！<br>逃げろグンター！,……切！<br>快逃啊古达！
+128,グンター,ああ……,啊啊……
+129,ジークフリート/齐格飞,<span class='scene-font-4'>こんなところで死ぬな！　</span><br><span class='scene-font-4'>生きるんだグンター！</span>,<span class='scene-font-4'>别死在这里！　</span><br><span class='scene-font-4'>活下去啊古达！</span>
+131,,<span class='scene-font-katari'>ふらふらと立ち上がるグンターは、</span><br><span class='scene-font-katari'>クリームヒルトとリヒトを連れて</span><br><span class='scene-font-katari'>そのまま炎の中へ消えてしまった。</span>,<span class='scene-font-katari'>古达摇摇晃晃地站起来，</span><br><span class='scene-font-katari'>他带着克琳希德与利息特</span><br><span class='scene-font-katari'>消失在了火焰之中。</span>
+132,グンター,じゃあな……<br>ジークフリート。,再见了……<br>齐格飞。
+135,ジークフリート/齐格飞,<span class='scene-font-4'>グンタァァァァッ！</span>,<span class='scene-font-4'>古达啊啊啊啊！</span>
+136,,<span class='scene-font-katari'>グンター達を救出するため</span><br><span class='scene-font-katari'>炎の中へと飛び込もうとする</span><br><span class='scene-font-katari'>ジークフリート。</span>,<span class='scene-font-katari'>为了救出古达他们</span><br><span class='scene-font-katari'>齐格飞准备</span><br><span class='scene-font-katari'>跃入火焰之中。</span>
+137,,<span class='scene-font-katari'>だが、民家の外では黒竜騎士団員が、</span><br><span class='scene-font-katari'>ジークフリートを必死に探していた。</span>,<span class='scene-font-katari'>但是，此时在民宅之外，</span><br><span class='scene-font-katari'>黑龙骑士团团员们正拼命寻找着齐格飞。</span>
+138,,<span class='scene-font-katari'>ジークフリートの姿を見つけた団員は、</span><br><span class='scene-font-katari'>ランスロットとパーシヴァル達が</span><br><span class='scene-font-katari'>窮地に陥っていると告げる。</span>,<span class='scene-font-katari'>找到了齐格飞的团员们</span><br><span class='scene-font-katari'>告诉了他兰斯洛特与帕西瓦尔</span><br><span class='scene-font-katari'>正陷于苦战的事。</span>
+139,,<span class='scene-font-katari'>苦渋の決断を迫られたジークフリートは</span><br><span class='scene-font-katari'>グンター達を探すのを諦めて、</span><br><span class='scene-font-katari'>ランスロット達の元へ戻るのだった。</span>,<span class='scene-font-katari'>被迫做出痛苦决定的齐格飞</span><br><span class='scene-font-katari'>只好放弃寻找古达他们，</span><br><span class='scene-font-katari'>回到了兰斯洛特他们的身边。</span>
+info,,,scene_evt190927_cp4_q3_s10
+译者,,,

@@ -1,0 +1,49 @@
+id,name,text,trans
+0-chapter_name,,第6話 決戦,第6話 決戦
+0-synopsis,,グンターの元へたどり着いたジークフリートだったが、魔法陣の結界によって手出しができず、グンターはそのまま魔方陣の力で巨大な竜種へと変貌してしまう。皆を下がらせ、ひとりで戦おうとするジークフリートの隣に、ランスロット、パーシヴァル、ヴェイン、姬塔達が並ぶ。ジークフリートへの怨嗟の咆哮をあげるグンターに、一行は臆せず立ち向かうのだった。,尽管齐格飞到达了古达周边，但因为魔法阵的结界而不能使出力量，古达便那样借着魔法阵的力量变成了巨大的龙的模样。让大家退下决定一个人战斗的齐格飞的身边，兰斯洛特，帕西瓦尔，维恩和姬塔站着，对着向齐格飞发出怨恨的咆哮的古达，丝毫不惧的对抗着。
+1,,<span class='scene-font-katari'>ランスロット達が竜種を倒すのと</span><br><span class='scene-font-katari'>時を同じくして、グンターの元に</span><br><span class='scene-font-katari'>辿り着いたジークフリート。</span>,<span class='scene-font-katari'>在兰斯洛特他们打到龙群</span><br><span class='scene-font-katari'>的同时，齐格飞</span><br><span class='scene-font-katari'>也到达了古达的面前。</span>
+2,ジークフリート/齐格飞,<span class='scene-font-4'>グンター！</span>,<span class='scene-font-4'>古达！</span>
+3,グンター,<span class='scene-font-4'>ジークフリート！</span><br><span class='scene-font-4'>少し遅かったなぁ！</span>,<span class='scene-font-4'>齐格飞！</span><br><span class='scene-font-4'>稍微有点晚了呢！</span>
+4,ジークフリート/齐格飞,<span class='scene-font-4'>させるかぁぁぁっ！</span>,<span class='scene-font-4'>怎会让你成功！</span>
+10,,<span class='scene-font-katari'>ジークフリートがグンターに</span><br><span class='scene-font-katari'>切りかかるが、何かの力によって</span><br><span class='scene-font-katari'>弾き飛ばされる。</span>,<span class='scene-font-katari'>齐格飞虽然向古达</span><br><span class='scene-font-katari'>挥砍了，却因为什么别的力量</span><br><span class='scene-font-katari'>被弹开了。</span>
+13,ジークフリート/齐格飞,……っ！,……唔！
+14,,<span class='scene-font-katari'>グンターの足元の魔法陣に</span><br><span class='scene-font-katari'>周辺から光の筋が流れ込み</span><br><span class='scene-font-katari'>結界を作り出していた。</span>,<span class='scene-font-katari'>古达的脚下的魔法阵</span><br><span class='scene-font-katari'>周边散发着的光线</span><br><span class='scene-font-katari'>竟然做出了结界。</span>
+15,グンター,はぁ……はぁ……<br>時は、満ちた。,哈哈……<br>时机已经成熟了。
+17,,<span class='scene-font-katari'>突然、グンターは魔法陣に 跪くと</span><br><span class='scene-font-katari'>苦しそうに身を震わせ始めた。</span>,<span class='scene-font-katari'>突然，古达跪在魔法阵上</span><br><span class='scene-font-katari'>看似痛苦地颤抖身体。</span>
+18,グンター,<span class='scene-font-4'>ぐぁぁぁぁぁぁぁぁっ！</span>,<span class='scene-font-4'>呜啊啊啊啊！</span>
+25,,<span class='scene-font-katari'>眩い光の柱が立ち上ると共に</span><br><span class='scene-font-katari'>辺りを激しい地響きが襲い</span><br><span class='scene-font-katari'>天井が崩落し始める。</span>,<span class='scene-font-katari'>随着绚烂的光柱起扬</span><br><span class='scene-font-katari'>周边地面开始强烈地震动</span><br><span class='scene-font-katari'>头顶上方开始崩坏。</span>
+26,ジークフリート/齐格飞,ぐっ、ここはもう持たない！<br>お前達、脱出するぞ！,喝！这里已经坚持不了了！<br>你们快点逃出去！
+27,ランスロット/兰斯洛特,わかりました！,明白了！
+28,,<span class='scene-font-katari'>ジークフリートに従って、</span><br><span class='scene-font-katari'>地下の隠れ家から脱出する一行。　<br></span>,<span class='scene-font-katari'>听从齐格飞的指示，</span><br><span class='scene-font-katari'>从地下的隐藏地逃出的一行。<br></span>
+34,ジークフリート/齐格飞,……無事か、お前達？,……没事吗，大家？
+35,パーシヴァル/帕西瓦尔,ああ、姬塔達も<br>全員揃っている。,嗯，姬塔们也是<br>全员都齐着。
+36,ビィ/碧,ふぃ～<br>なんとか助かったな。,唔~<br>总算是得救了。
+37,ルリア/露莉亚,し、死んじゃうかと思いました……,我，我差点以为要死了。
+38,ヴェイン/维恩,グンターはどうなったんだ？,古达怎么样了呢？
+39,ランスロット/兰斯洛特,おい……！<br>あれを見ろ！,喂……！<br>快看那个！
+40,,<span class='scene-font-katari'>ランスロットが指差した先では、</span><br><span class='scene-font-katari'>異常な震動と共に</span><br><span class='scene-font-katari'>地面が隆起し始めていた。　<br></span>,<span class='scene-font-katari'>兰斯洛特指尖所指的方向</span><br><span class='scene-font-katari'>伴随着异常的震动</span><br><span class='scene-font-katari'>地面开始隆起来。　<br></span>
+41,,<span class='scene-font-katari'>次の瞬間──</span>,<span class='scene-font-katari'>下一个瞬间──</span>
+53,？？？,<span class='scene-font-4'>ウグァァァァァァッ！</span>,<span class='scene-font-4'>咕嘎啊啊啊啊！</span>
+55,パーシヴァル/帕西瓦尔,なっ、巨大な竜種だと！,什么！这么巨大的龙！
+56,ランスロット/兰斯洛特,まさか……！,难道说……！
+57,ジークフリート/齐格飞,ああ……あれは、<br>魔法陣の力の影響によって<br>竜化したグンターで間違いないだろう。,嗯……那个应该是，<br>受魔法阵的影响<br>龙化的古达没错了。
+58,ヴェイン/维恩,おいおいおーい！<br>竜になっちゃったのかよ！,喂喂！<br>竟然能够变成龙的吗！
+59,ジークフリート/齐格飞,竜そのものになったというよりは、<br>先ほどの魔法陣の効果で、<br>竜種に近しいものになったという所か。,与其说是变成了龙，<br>不如说是因为之前魔法阵的效果<br>变成了近似于龙的存在吧。
+60,ルリア/露莉亚,すごく苦しそうです……,看起来很痛苦……
+61,グンター,<span class='scene-font-4'>ジークフリートォォォォ！</span>,<span class='scene-font-4'>齐格飞啊啊啊！</span>
+62,ジークフリート/齐格飞,ぐっ……<br>急激な変化に耐えられず<br>暴走している様だな。,唔……<br>看起来不能够承受急剧的变化<br>似乎暴走了。
+63,ジークフリート/齐格飞,……お前達！<br>こいつは危険だ！,……大家！<br>这家伙很危险！
+64,ジークフリート/齐格飞,ここは俺に任せて下がっていろ！,这里就交给我吧！
+65,,<span class='scene-font-katari'>いつもの様に、ひとりで先陣を切って</span><br><span class='scene-font-katari'>敵に立ち向かおうとする</span><br><span class='scene-font-katari'>ジークフリート。</span>,<span class='scene-font-katari'>像以往一样，打算一个人先冲锋</span><br><span class='scene-font-katari'>对抗敌人的</span><br><span class='scene-font-katari'>齐格飞。</span>
+68,ランスロット/兰斯洛特,……ジークフリートさん、<br>俺達も、ここにいますよ。,……齐格飞，<br>我们也，在这里！
+70,パーシヴァル/帕西瓦尔,ふん……またお前はそうやって<br>一人で背負いこもうとするのか？,哼……你又打算这样<br>打算一个人背负一切吗？
+72,ヴェイン/维恩,俺達だって強くなったんです！<br>思い切りどーんと頼って下さいよ！,我们也变强了！<br>放下别的心思直接依靠我们吧！
+73,ビィ/碧,そうだぜ！<br>まだグンターと話が出来てねぇもんな！,就是说嘛!<br>而且还并没有和古达说上话是吧！
+74,ルリア/露莉亚,グンターさんとお話しするために、<br>私達も、ジークフリートさんの隣で<br>力になりたいんです！,为了和古达说上话，<br>我们也在齐格飞身旁，<br>为你出一份力！
+74-sel1_txt,,<span class='scene-font-katari'>一緒に、戦おう！</span>,<span class='scene-font-katari'>一起，来战斗吧！</span>
+76,ジークフリート/齐格飞,ああ、<br>そう、だったな。,啊，<br>是这样的呢。
+77,ジークフリート/齐格飞,頼む……お前達……,拜托了……各位……
+78,ジークフリート/齐格飞,<span class='scene-font-4'>俺に力を貸してくれぇっ！</span>,<span class='scene-font-4'>借给我力量吧！</span>
+79,グンター,<span class='scene-font-4'>コロスコロスコロスゥゥゥゥ！</span><br><span class='scene-font-4'>ジークフリートォォォォォッ！</span>,<span class='scene-font-4'>嘎唔噢噢噢！</span><br><span class='scene-font-4'>齐格飞啊啊啊！</span>
+info,,,scene_evt190927_cp6_q4_s20
+译者,,,

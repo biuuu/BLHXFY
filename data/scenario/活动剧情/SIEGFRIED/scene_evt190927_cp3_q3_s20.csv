@@ -1,0 +1,37 @@
+id,name,text,trans
+0-chapter_name,,第3話 因縁,第3话 因缘
+0-synopsis,,アーサーとモルドレッドの案内でジークフリートの元へたどり着いた姬塔達。姬塔はランスロット、パーシヴァルと共に、気を失ったジークフリートを連れて逃走しようとしていたグンターを追い詰める。しかし、グンターは呪文でワイバーンの群れを呼び出し、姬塔達にけしかけるのだった。,在亚瑟和莫德雷德的带领下来到齐格飞所在之处的姬塔一行人。姬塔和兰斯洛特、帕西瓦尔一同，追上带着失去意识的齐格飞逃走的古达。然而，古达用咒文召唤出了飞龙的群落，向姬塔等人攻击。
+1,,<span class='scene-font-katari'>アーサーとモルドレッドの案内に従って</span><br><span class='scene-font-katari'>廃村の廃屋前に辿り着く一行。</span>,<span class='scene-font-katari'>在亚瑟和莫德雷德的指引下</span><br><span class='scene-font-katari'>一行人来到了荒村的废物前。</span>
+2,アーサー/亚瑟,ジークフリートさんっ！,齐格飞先生！
+3,グンター/古达,チッ……<br>ずいぶんと早かったな……,切……<br>还真是挺快啊……
+4,ジークフリート/齐格飞,…………,…………
+5,モルドレッド/莫德雷德,ジークフリートさんを返せ！,把齐格飞先生还过来！
+6,,<span class='scene-font-katari'>廃屋からジークフリートを連れて</span><br><span class='scene-font-katari'>出てきたグンターは、飛龍に乗って</span><br><span class='scene-font-katari'>逃走を試みているところだった。</span>,<span class='scene-font-katari'>将齐格飞从废屋</span><br><span class='scene-font-katari'>带出的古达乘着飞龙</span><br><span class='scene-font-katari'>正要逃走。</span>
+7,ランスロット/兰斯洛特,貴様……何者だ！<br>ジークフリートさんを<br>どうするつもりだ？,你……是什么人！<br>你想把齐格飞先生<br>怎么样？
+8,パーシヴァル/帕西瓦尔,俺達が来たからには、<br>もう逃げられんぞ。,既然我们来了，<br>你就不要想逃了。
+10,,<span class='scene-font-katari'>グンターを逃がすまいと</span><br><span class='scene-font-katari'>行く手に立ちはだかる</span><br><span class='scene-font-katari'>姬塔達。</span>,<span class='scene-font-katari'>阻挡在要逃跑的</span><br><span class='scene-font-katari'>古达面前的</span><br><span class='scene-font-katari'>姬塔一行人。</span>
+10-sel1_txt,,<span class='scene-font-katari'>大人しく降参しろ！</span>,<span class='scene-font-katari'>乖乖投降！</span>
+11,グンター/古达,はっ……<br>わらわらと湧きやがって。,哈……<br>接二连三地冒出来。
+12,グンター/古达,少しでも動いてみろ？<br>ジークフリートが<br>どうなってもいいのか？, 稍微动一下试试？<br>齐格飞<br>被怎么样了都可以吗？
+13,パーシヴァル/帕西瓦尔,ジークフリートの命が目的なら<br>いつでも殺せたはずだ。,如果你的目的是齐格飞的性命的话<br>什么时候都能杀了他。
+14,グンター/古达,ほう……冷静なヤツだな。<br>だが俺の気が変わるかも知れないぞ？,哦……是个冷静的家伙。<br>但我的心情变了也说不定？
+15,ランスロット/兰斯洛特,妙な真似をしてみろ……<br>この間合いなら俺の刃が先に届くぞ！,你敢乱动……<br>这点距离是我的刀刃更快！
+16,ビィ/碧,おうおう！<br>大人しく観念しやがれってんだ！,噢噢！<br>你就乖乖地放弃吧！
+17,ルリア/露莉亚,はいっ！<br>もう逃げられませんよ！,是！<br>你已经逃不了吧！
+18,グンター/古达,だが……<br>これならどうかな？,但是……<br>这样的话如何？
+20,,<span class='scene-font-katari'>グンターが詠唱を始めると</span><br><span class='scene-font-katari'>突然、ワイバーンの群れが</span><br><span class='scene-font-katari'>一行を取り囲む。</span>,<span class='scene-font-katari'>古达开始咏唱起来，</span><br><span class='scene-font-katari'>突然，飞龙的群落</span><br><span class='scene-font-katari'>将一行人包围。</span>
+21,ワイバーン/飞龙,<span class='scene-font-4'>グギャー！</span>,<span class='scene-font-4'>咕呀！</span>
+22,アーサー/亚瑟,このワイバーンは<br>さっきの村にもいた奴だ！,这些飞龙是<br>刚才在村落里的那群！
+23,モルドレッド/莫德雷德,てことは……<br>コイツが竜を操ってたのか……！,也就是说……<br>是这家伙在操纵龙……！
+24,ランスロット/兰斯洛特,アーサー、モルドレッド！<br>お前達は下がっていろ！,亚瑟，莫德雷德！<br>你们退下！
+25,アーサー/亚瑟,……でも、俺達も！,……但，我们也！
+26,パーシヴァル/帕西瓦尔,いいか……<br>ジークフリートを助けたいなら<br>ここは俺達に任せろ。,听好了……<br>想要救齐格飞的话<br>这里就交给我们。
+27,モルドレッド/莫德雷德,……分かりました！<br>おいアーサー下がれって！,……明白了！<br>喂，亚瑟，退下！
+28,アーサー/亚瑟,くそっ……俺達は、足手まといだ……,可恶……我们、是拖后腿的……
+30,パーシヴァル/帕西瓦尔,来るぞ！<br>ランスロット、姬塔<br>ルリア！,要来了！<br>兰斯洛特、姬塔<br>露莉亚！
+32,ランスロット/兰斯洛特,ああ！<br>速攻で片を付けるぞ！,啊啊！<br>速战速决！
+34,,<span class='scene-font-katari'>ランスロットとパーシヴァルと共に</span><br><span class='scene-font-katari'>ワイバーンの群れを迎え撃つ</span><br><span class='scene-font-katari'>臨戦態勢の姬塔とルリア。</span>,<span class='scene-font-katari'>与兰斯洛特和帕西瓦尔一同</span><br><span class='scene-font-katari'>姬塔和露莉亚进入临战状态</span><br><span class='scene-font-katari'>迎战飞龙的群落。</span>
+34-sel1_txt,,<span class='scene-font-katari'>行こうっ！</span>,<span class='scene-font-katari'>上吧！</span>
+35,ルリア/露莉亚,援護します！,我来掩护！
+info,,,scene_evt190927_cp3_q3_s20
+译者,,,

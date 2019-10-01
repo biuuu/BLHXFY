@@ -1,0 +1,71 @@
+﻿id,name,text,trans
+0-chapter_name,,第2話 異変,第2话 异变
+0-synopsis,,事態が収束した頃、真龍ファフニール討伐の功績から、グンターとジークフリートは表彰を受ける。同時に王立騎士団は黒竜騎士団に改名され、グンターの推薦によりジークフリートが黒竜騎士団の団長に任ぜられた。昔話を語り終えた頃、３人はブルグント地方にある村に到着し、村人を襲うワイバーンと遭遇するのだった。,解决了事件之后，因为讨伐真龙法芙娜的功绩，古达和齐格飞受到了表彰。同时，国立骑士团改名为黑龙骑士团，在古达的推荐之下由齐格飞担任团长。说完过去的故事后，齐格飞三人到达了勃艮第地区的某个村庄，并遇到了袭击村民的飞龙。
+1,,<span class='scene-font-katari'>時は流れ、全ての事態が収束した頃、</span><br><span class='scene-font-katari'>玉座の間には、グンターと</span><br><span class='scene-font-katari'>ジークフリートの姿があった。</span>,<span class='scene-font-katari'>时间流逝，全部的事情都解决之后，</span><br><span class='scene-font-katari'>古达和齐格飞的身影出现</span><br><span class='scene-font-katari'>在宫殿的王座之前。</span>
+2,ヨゼフ王,救国の英雄グンター<br>前へ。,救国的英雄古达，<br>上前来。
+3,グンター,はっ……,是……
+4,ヨゼフ王,竜殺しの騎士ジークフリート、<br>前へ。,屠龙骑士齐格飞、<br>上前来。
+5,ジークフリート/齐格飞,はっ……,是……
+6,ヨゼフ王,この度の真龍ファフニール討伐の<br>功績を称えて、<br>ふたりの勇者をここに表彰する。,为了称赞<br>这一次两人在真龙法芙娜的讨伐战中的功绩、<br>在此表彰两位勇者。
+7,ヨゼフ王,グンターとジークフリートには、<br>特別に報奨金を与える予定であったが<br>本人達が強い希望で辞退した。,虽然预定有给古达和齐格飞<br>特别的奖金，<br>但因为两位勇者本人强烈的愿望而作罢了。
+8,ヨゼフ王,よって報奨金は、負傷した団員や<br>その家族に対して支払われる額に<br>上乗せされることとなる。,因此奖金将会成为<br>给受伤的士兵和他们的家属的<br>慰问金的一部分。
+9,グンター,この度は、多大なる計らい……,感谢您慷慨的决定……
+10,２人,ありがとうございます。,感谢殿下。
+11,ヨゼフ王,そしてジークフリートよ。,然后，齐格飞。
+12,ヨゼフ王,そなたには、<br>新たに王直属の護衛騎士の任を命ずる。,我任命你为<br>新的国王直属骑士。
+13,ヨゼフ王,今後は余と行動を共にすることで、<br>より国の中枢に関わってもらいたい。,今后和我一起行动，<br>希望你能更多地参与到国家的中枢。
+14,ジークフリート/齐格飞,はっ……,是……
+15,ヨゼフ王,……そしてこの度、<br>真龍ファフニール討伐に際しての<br>重大な発表がある。,……然后这回，<br>关于讨伐真龙法芙娜，<br>我有重大的发表。
+16,,<span class='scene-font-katari'>ヨゼフ王の言葉を聞き漏らすまいと、</span><br><span class='scene-font-katari'>辺りはしんと静まり返った。</span>,<span class='scene-font-katari'>为了不错过约瑟夫王的发言，</span><br><span class='scene-font-katari'>大家都安静地洗耳恭听。</span>
+17,ヨゼフ王,この度、王立騎士団を<br><span class='scene-font-spword'>“黒竜騎士団”</span>と改名する。,这回，将国立骑士团<br><span class='scene-font-spword'>改名为</span>“黑龙骑士团”。
+18,ヨゼフ王,そして、<br>王立騎士団団長グンターを<br>黒竜騎士団初代団長に任命したい。,然后，<br>将国立骑士团的团长古达<br>任命为黑龙骑士团的团长。
+19,ヨゼフ王,どうだ……グンターよ、<br>引き受けてくれるか？,怎么样……古达啊。<br>你愿意接受吗？
+20,グンター,私が……黒竜騎士団の……,我……黑龙骑士团的……
+21,,<span class='scene-font-katari'>言葉に詰まった様子のグンターは</span><br><span class='scene-font-katari'>しばらく黙った後、</span><br><span class='scene-font-katari'>意を決した様子で陛下に提言する。</span>,<span class='scene-font-katari'>无言的古达</span><br><span class='scene-font-katari'>在短暂的沉默后，</span><br><span class='scene-font-katari'>像是决定了什么地向陛下说道。</span>
+22,グンター,陛下……大変申し訳ありませんが<br>黒竜騎士団の団長につきましては、<br>辞退させて頂きたく存じます。,陛下……十分的抱歉<br>我想要谢绝<br>黑龙骑士团团长的职务。
+23,ヨゼフ王,なんと……<br>理由を聞かせてくれるか？,为什么……<br>我能听听你的理由吗？
+24,グンター,はい、それは……,是的，那是因为……
+25,グンター,私よりも、ジークフリートの方が<br>黒竜騎士団の団長に相応しいからです。,比起我。齐格飞才是<br>与黑龙骑士团团长的身份更相衬的人。
+26,ヨゼフ王,ジークフリートだと……,齐格飞吗……
+27,グンター,真龍ファフニール討伐の英雄は<br>私ではありません……	,讨伐真龙法芙娜的英雄<br>不是我……	
+28,グンター,真の英雄はお前だ、<br>ジークフリート。,真正的英雄是你，<br>齐格飞。
+29,ジークフリート/齐格飞,俺が……？,我吗……？
+30,グンター,あの時……<br>龍の巣にいた者なら、<br>誰も異存は無いはずだろう。,我相信那个时候……<br>在龙之巢的所有人，<br>没有人会有异议。
+31,グンター,ジークフリート、<br>お前さえ良ければ、<br>ぜひ団長を引き受けて貰いたい。,齐格飞，<br>你愿意的话，<br>请务必接受团长的职务。
+32,ジークフリート/齐格飞,グンター……,古达……
+33,ヨゼフ王,ふむ……<br>グンターがその様に申すなら、<br>余に異存は無いが……,呵呵……<br>古达这么说了的话，<br>我也没有异议……
+34,ヨゼフ王,ジークフリートよ、<br>そなたに黒竜騎士団団長を<br>引き受ける意思はあるか？,齐格飞呀，<br>你有成为<br>黑龙骑士团团长的意向吗？
+35,ジークフリート/齐格飞,俺が、団長に……,我，做团长……
+36,,<span class='scene-font-katari'>ヨゼフ王に問われた</span><br><span class='scene-font-katari'>ジークフリートは、</span><br><span class='scene-font-katari'>意を決して答えた。</span>,<span class='scene-font-katari'>被约瑟夫王如此问道，</span><br><span class='scene-font-katari'>齐格飞</span><br><span class='scene-font-katari'>决意地回答道。</span>
+37,ジークフリート/齐格飞,はい……<br>謹んでお受け致します！,是……<br>我愿意接受！
+38,,<span class='scene-font-katari'>決意を述べるジークフリートは、</span><br><span class='scene-font-katari'>ヨゼフ王から黒竜騎士団団長の鎧を</span><br><span class='scene-font-katari'>受け取って、その場に跪いた。</span>,<span class='scene-font-katari'>诉说了决心的齐格飞，</span><br><span class='scene-font-katari'>从约瑟夫王那里接过黑龙骑士团团长的铠甲，</span><br><span class='scene-font-katari'>在王的面前跪下了。</span>
+39,ヨゼフ王,それでは、<br>黒竜騎士団初代団長に	<br>ジークフリートを任命する！,那么，<br>我任命齐格飞	<br>作为黑龙骑士团的初代团长！
+40,,<span class='scene-font-katari'>辺りからは、万雷の拍手が巻き起こり</span><br><span class='scene-font-katari'>誰もが皆、ジークフリートの</span><br><span class='scene-font-katari'>黒竜騎士団団長就任を祝福していた。</span>,<span class='scene-font-katari'>四周掌声雷动，</span><br><span class='scene-font-katari'>所有人祝福成为</span><br><span class='scene-font-katari'>黑龙骑士团团长的齐格飞。</span>
+41,ジークフリート/齐格飞,…………,…………
+42,グンター,おめでとう、ジークフリート。,恭喜你，齐格飞。
+43,ジークフリート/齐格飞,ありがとう、グンター,谢谢你，古达。
+44,クリームヒルト,グンター！　ジークフリート！<br>ふたりともおめでとう！,古达！　齐格飞！<br>祝贺你们！
+45,クリームヒルト,いつものお店で待ってるから<br>後でお祝いしましょう！,我们都在一直去的店等着呢，<br>之后一起庆祝吧！
+46,伝令の騎士,ぜひ私もご一緒させて下さい！,务必让我也一起！
+47,,<span class='scene-font-katari'>歓声が飛び交う中、微笑み合う</span><br><span class='scene-font-katari'>グンターとジークフリート。</span>,<span class='scene-font-katari'>欢声笑语此起彼伏之中，</span><br><span class='scene-font-katari'>齐格飞与古达相视而笑。</span>
+48,,<span class='scene-font-katari'>こうして、黒竜騎士団と初代団長</span><br><span class='scene-font-katari'>ジークフリートが誕生したのだった。</span>,<span class='scene-font-katari'>就这样、黑龙骑士团的初代团长</span><br><span class='scene-font-katari'>齐格飞，诞生了。</span>
+54,ジークフリート/齐格飞,ふっ……<br>少し長話が過ぎて<br>飽きてしまったか。,呼……<br>说的稍微有点长了，<br>你们听腻了吗。
+55,アーサー/亚瑟,いえ……<br>とてもすごい話でした……！,不会……<br>多么厉害的故事啊……！
+56,モルドレッド/莫德雷德,はい……<br>オレ達には想像もつかないスケールで<br>なんて言っていいのか……,是的……<br>对我们来说这个故事是想也想不到的规模，<br>怎么说好呢……
+57,ジークフリート/齐格飞,気の利いた感想など<br>言わずともよい。,有趣的感想什么的，<br>就不用说了。
+58,ジークフリート/齐格飞,お前達が少しでも何か感じ取って<br>くれたなら本望だ。,一点点也好，如果你们能从中学到什么<br>我就满足了。
+59,ジークフリート/齐格飞,覚えていて欲しいのは、<br>俺が騎士団長になれたのは<br>決して一人の力ではないという事だ。,我希望你们记住的是，<br>我成为骑士团长，<br>绝不是靠一人之力这件事。
+60,ジークフリート/齐格飞,仲間達の力があったからこそ、<br>俺は騎士団長になれたんだ。,是因为有伙伴的力量，<br>我才成为了骑士团长。
+61,アーサー/亚瑟,はい！　覚えておきます！,是！　牢记住了！
+62,モルドレッド/莫德雷德,勉強になりました！,我学到了！
+63,アーサー/亚瑟,<span class='scene-font-2'>……でもさ、そう言ってる割には、</span><br><span class='scene-font-2'>ジークフリートさんって</span><br><span class='scene-font-2'>一人で何でもやっちゃうんだよね？</span><br>,<span class='scene-font-2'>……但是啊，虽然这么说了，</span><br><span class='scene-font-2'>齐格飞先生的话</span><br><span class='scene-font-2'>一个人基本上什么都能做到吧？</span><br>
+64,モルドレッド/莫德雷德,<span class='scene-font-2'>あ、ああ……ジークフリートさんが</span><br><span class='scene-font-2'>一人いれば、大抵の問題は</span><br><span class='scene-font-2'>何とかなるらしいからな……</span><br>,<span class='scene-font-2'>啊、啊啊……只要有齐格飞先生一个人在</span><br><span class='scene-font-2'>大部分的问题</span><br><span class='scene-font-2'>都会有办法解决的感觉……</span><br>
+65,ジークフリート/齐格飞,む……<br>アーサー、モルドレッド<br>村が見えたぞ。,む……<br>亚瑟、莫德雷德<br>可以看见村庄了。
+66,,<span class='scene-font-katari'>そうこうしている内に</span><br><span class='scene-font-katari'>ジークフリート達は、</span><br><span class='scene-font-katari'>ブルグント地方にある村に到着する。</span>,<span class='scene-font-katari'>そうこうしている内に</span><br><span class='scene-font-katari'>齐格飞他们，</span><br><span class='scene-font-katari'>到达了勃艮第地区的村庄。</span>
+70,,<span class='scene-font-katari'>そこでは、我が物顔で跋扈する</span><br><span class='scene-font-katari'>ワイバーンが村を襲っていた。　<br></span>,<span class='scene-font-katari'>在那里，旁若无人横行的飞龙，</span><br><span class='scene-font-katari'>正在袭击村庄。　<br></span>
+71,ワイバーン,<span class='scene-font-4'>グギャー！</span>,<span class='scene-font-4'>咕嘎ー！</span>
+72,村人/村民,<span class='scene-font-4'>ひいっ！</span><br>あっちへ行け！,<span class='scene-font-4'>啊啊啊！</span><br>朝那里去了！
+73,ジークフリート/齐格飞,アーサー、モルドレッド！<br>村人達を助けるぞ！,亚瑟，莫德雷德！<br>一起去帮助村民吧！
+74,アーサー＆モルドレッド,<span class='scene-font-4'>はいっ！</span>,<span class='scene-font-4'>是！</span>
+info,,,scene_evt190927_cp2_q3_s20a
+译者,,,poss

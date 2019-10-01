@@ -1,0 +1,174 @@
+id,name,text,trans
+0-chapter_name,,第2話 異変,第2话 异变
+0-synopsis,,ジークフリートはアーサー達にねだられ、真龍ファフニール討伐作戦の様子を語る。作戦の最中、文官ハーゲンの策略によって窮地に陥ったジークフリートは、ファフニールを倒すも致命傷を負う。しかしグンターの機転によって倒したファフニールの血を飲んだジークフリートは一命を取り留め、王都帰還後にハーゲンは国外追放されるのだった。,齐格飞因为亚瑟和莫德雷德缠着他，所以讲述了真龙法芙娜的讨伐行动。 在作战过程中，齐格飞由于文官哈根的策略而陷入困境，虽然打倒了法夫纳，但受到了致命伤害。 但是，古达灵机一动，让齐格飞喝下了法芙娜之血，保住了性命。回到王都后，哈根被流放到了国外。
+2,,<span class='scene-font-katari'>当初の目的である孤児院の無事を</span><br><span class='scene-font-katari'>確認したアーサーとモルドレッド。</span>,<span class='scene-font-katari'>莫德雷德和亚瑟</span><br><span class='scene-font-katari'>确认了孤儿院的平安。</span>
+3,,<span class='scene-font-katari'>だが、アーサーとモルドレッドは</span><br><span class='scene-font-katari'>ブルグント地方へ向かう</span><br><span class='scene-font-katari'>ジークフリートへの同行を希望する。</span>,<span class='scene-font-katari'>但是，他们希望</span><br><span class='scene-font-katari'>和齐格飞一同</span><br><span class='scene-font-katari'>前往勃艮第地区。</span>
+4,,<span class='scene-font-katari'>根負けしたジークフリートは、</span><br><span class='scene-font-katari'>アーサーとモルドレッドの同行を</span><br><span class='scene-font-katari'>しぶしぶ許可するのだった。</span>,<span class='scene-font-katari'>拗不过他们的齐格飞</span><br><span class='scene-font-katari'>不情愿地</span><br><span class='scene-font-katari'>允许了他们同行。</span>
+9,,<span class='scene-font-katari'>道中、アーサーとモルドレッドは</span><br><span class='scene-font-katari'>ジークフリートに興味津々な様子で</span><br><span class='scene-font-katari'>質問を投げかける。</span>,<span class='scene-font-katari'>在路上，亚瑟和莫德雷德</span><br><span class='scene-font-katari'>兴趣满满地向</span><br><span class='scene-font-katari'>齐格飞提问。</span>
+10,アーサー/亚瑟,ジークフリートさんが、<br>黒竜騎士団の団長になれたのって<br>ファフニールを討伐したからですよね？,齐格飞先生，<br>是因为讨伐了法芙娜<br>才成为黑龙骑士团的团长的吗？
+11,ジークフリート/齐格飞,ああ、その功績を称えられて、<br>ヨゼフ王直属の護衛騎士の任と共に<br>黒竜騎士団の団長に就任した。,嗯，因为这份功绩，<br>我同时就任了黑龙骑士团的团长<br>和约瑟夫王的直属护卫骑士。
+12,モルドレッド/莫德雷德,ファフニールを倒した時って<br>どんな感じだったんですか？,打倒法芙娜的时候<br>是什么感觉呢？
+13,ジークフリート/齐格飞,そうだな……<br>話せば長くなるが、<br>とにかく熾烈な戦いだったな。,嗯……<br>故事很长的，<br>总之是很激烈的战斗。
+14,アーサー＆モルドレッド,<span class='scene-font-4'>聞かせてください！</span>,<span class='scene-font-4'>请让我们听听！</span>
+15,ジークフリート/齐格飞,やれやれ……面白い話でもないが、<br>道中の退屈しのぎぐらいには<br>なるだろう。,真是的……虽然不是有趣的故事，<br>但是大概能打发一路上<br>的无聊吧。
+21,,<span class='scene-font-katari'>ある時、慟哭の谷に棲む</span><br><span class='scene-font-katari'>真龍ファフニールが暴れまわり</span><br><span class='scene-font-katari'>周辺の村々に被害を及ぼしていた。</span>,<span class='scene-font-katari'>那个时候，栖息于恸哭之谷</span><br><span class='scene-font-katari'>的真龙法芙娜发狂，</span><br><span class='scene-font-katari'>殃及了周围的村庄。</span>
+22,ヨゼフ王,王立騎士団団長グンター<br>並びに騎士ジークフリート。,骑士齐格飞和<br>王立骑士团团长古达。
+23,ヨゼフ王,そなた達に……<br>真龍ファフニールの討伐を命じる。,我命令你们……<br>讨伐真龙法芙娜。
+24,２人,はっ！,是！
+25,ハーゲン,<span class='scene-font-kokoro'>（ジークフリートのヤツめ、</span><br><span class='scene-font-kokoro'>いつの間にあんなに<br><span class='scene-font-kokoro'>重用されやがったんだ……）,<span class='scene-font-kokoro'>（齐格飞那家伙、</span><br><span class='scene-font-kokoro'>什么时候被这样<br><span class='scene-font-kokoro'>重用了……）
+26,ハーゲン,<span class='scene-font-kokoro'>（くくく……</span><br><span class='scene-font-kokoro'>まあいい、今に見てろよ）</span>,<span class='scene-font-kokoro'>（呵呵呵……</span><br><span class='scene-font-kokoro'>算了，等着瞧吧）</span>
+27,,<span class='scene-font-katari'>ジークフリートは</span><br><span class='scene-font-katari'>王立騎士団団長のグンターと共に</span><br><span class='scene-font-katari'>真龍ファフニールの討伐を命じられる。</span>,<span class='scene-font-katari'>齐格飞被命令</span><br><span class='scene-font-katari'>和王立骑士团团长古达</span><br><span class='scene-font-katari'>一同讨伐真龙法芙娜。</span>
+28,,<span class='scene-font-katari'>こうして、</span><br><span class='scene-font-katari'>グンター率いる王立騎士団は、</span><br><span class='scene-font-katari'>真龍ファフニールの討伐に向かった。</span>,<span class='scene-font-katari'>就这样，</span><br><span class='scene-font-katari'>古达率领的王立骑士团</span><br><span class='scene-font-katari'>前往讨伐真龙法芙娜。</span>
+34,,<span class='scene-font-katari'>慟哭の谷を越えて龍の巣に辿り着き</span><br><span class='scene-font-katari'>真龍ファフニールを目前に控える</span><br><span class='scene-font-katari'>グンターとジークフリート一行。</span>,<span class='scene-font-katari'>古达和齐格飞一行人穿越了恸哭之谷</span><br><span class='scene-font-katari'>来到了龙之巢，</span><br><span class='scene-font-katari'>来到了法芙娜的面前。</span>
+35,,<span class='scene-font-katari'>先頭の精鋭部隊であるグンター隊と</span><br><span class='scene-font-katari'>ジークフリートの後方には、</span><br><span class='scene-font-katari'>ハーゲン隊が後詰として控えていた。</span>,<span class='scene-font-katari'>齐格飞和古达队作为前锋的精锐部队，</span><br><span class='scene-font-katari'>而后方则是</span><br><span class='scene-font-katari'>等待着的哈根部队。</span>
+36,,<span class='scene-font-katari'>ハーゲン隊は、討伐部隊を支える</span><br><span class='scene-font-katari'>補給部隊として、今回の討伐に</span><br><span class='scene-font-katari'>自ら立候補したのであった。</span>,<span class='scene-font-katari'>哈根队是作为支援讨伐部队的</span><br><span class='scene-font-katari'>补给部队，自愿参加</span><br><span class='scene-font-katari'>的。</span>
+41,グンター,いよいよだな……<br>ジークフリート。,终于要到了……<br>齐格飞。
+42,ジークフリート/齐格飞,ああ……,嗯……
+43,ハーゲン,<span class='scene-font-kokoro'>（お前達も……</span><br><span class='scene-font-kokoro'>今日で終いだ）</span>,<span class='scene-font-kokoro'>（你们也……</span><br><span class='scene-font-kokoro'>要在今天完蛋了）</span>
+44,ジークフリート/齐格飞,ハーゲン殿、<br>少し顔色が悪いようですが？,哈根殿，<br>你好像脸色不太好啊？
+45,ハーゲン,も、問題ない。,没，没事。
+46,ジークフリート/齐格飞,…………,…………
+47,グンター,ハーゲン、<br>怪我人の救護は頼んだぞ。,哈根，<br>拜托你救治受伤的人了。
+48,ハーゲン,わかっている……<br>首尾よくやれよ。,知道了……<br>祝你们好运。
+49,,<span class='scene-font-katari'>グンター隊とジークフリートは、</span><br><span class='scene-font-katari'>ハーゲン隊を洞窟の外に残して</span><br><span class='scene-font-katari'>龍の巣へと入って行く。</span>,<span class='scene-font-katari'>古达队和齐格飞，</span><br><span class='scene-font-katari'>把哈根队留在洞窟外面</span><br><span class='scene-font-katari'>进入了龙之巢。</span>
+53,,<span class='scene-font-katari'>事前に示し合わせた作戦に沿って</span><br><span class='scene-font-katari'>行動を開始する、グンター隊と</span><br><span class='scene-font-katari'>ジークフリート。</span>,<span class='scene-font-katari'>按照事先商定的作战计划，</span><br><span class='scene-font-katari'>古达队和齐格飞</span><br><span class='scene-font-katari'>开始了行动。</span>
+54,グンター,……俺達が足止めしている間に、<br>ファフニールに止めを刺してくれ。,……在我们阻止它行动的时候，<br>你就去杀了它。
+55,ジークフリート/齐格飞,分かった。,知道了。
+56,真龍ファフニール,グルルルル……,咕噜噜噜……
+57,ジークフリート/齐格飞,寝起きの邪魔をして悪いが……<br>もう一度眠りについて貰おうか。,虽然抱歉打扰了你的睡眠……<br>但是让我再让你沉睡一次吧。
+58,ジークフリート/齐格飞,生憎、俺は人の側に<br>ついてしまったからな。,真不巧，我是站在<br>人的那一边的。
+59,ジークフリート/齐格飞,せめて……<br>互いの命を懸けて<br>真剣勝負と行こうか。,至少……<br>让我们拼上性命<br>认真对决吧。
+60,真龍ファフニール,<span class='scene-font-4'>グルアアァァァッ！</span>,<span class='scene-font-4'>咕噜噜啊！</span>
+61,ジークフリート/齐格飞,<span class='scene-font-4'>はぁぁぁぁぁぁっ！</span>,<span class='scene-font-4'>哈——！</span>
+62,,<span class='scene-font-katari'>ジークフリートと真龍ファフニールが</span><br><span class='scene-font-katari'>ぶつかり合う衝撃で、洞窟が振動する。</span>,<span class='scene-font-katari'>齐格飞和真龙法芙娜</span><br><span class='scene-font-katari'>对决产生的冲击使整个洞窟颤动了。</span>
+63,グンター,よし！　グンター隊！<br>左翼と右翼に展開して<br>ジークフリートを援護しろ！,好！　古达队！<br>左翼和右翼展开，<br>援护齐格飞！
+64,２人,はっ！,是！
+65,２人,…………,…………
+66,グンター,右翼どうした！<br>早く展開しろ！,右翼怎么了！<br>赶紧展开啊！
+67,グンター隊隊員３,……すみません団長！,……抱歉团长！
+68,グンター隊隊員４,俺達……,我们……
+69,,<span class='scene-font-katari'>そう言うと同時に、右翼の隊員達は</span><br><span class='scene-font-katari'>足早に洞窟の外へ撤退してしまう。</span>,<span class='scene-font-katari'>这么说的同时，右翼的队员们</span><br><span class='scene-font-katari'>迅速地向洞窟外撤退。</span>
+70,グンター,なっ……なんだと……！,什……什么……！
+71,,<span class='scene-font-katari'>一気に戦力が半減した</span><br><span class='scene-font-katari'>グンターと隊員達の間に動揺が走る。</span>,<span class='scene-font-katari'>古达队和队员们</span><br><span class='scene-font-katari'>一时间因为战力减半而动摇了。</span>
+73,ジークフリート/齐格飞,おいグンター！<br>何事だ！,喂古达ー！<br>怎么了！
+74,グンター,ま……待ってくれジークフリート！<br>今立て直す！,等……等等齐格飞！<br>重新振作！
+75,,<span class='scene-font-katari'>その時、グンターの元に</span><br><span class='scene-font-katari'>息を切らしたひとりの騎士が</span><br><span class='scene-font-katari'>駆け寄ってくる。</span>,<span class='scene-font-katari'>这时，一个气喘吁吁的</span><br><span class='scene-font-katari'>骑士跑到了</span><br><span class='scene-font-katari'>古达的身边。</span>
+76,伝令の騎士,はぁ……はぁ……<br>グンター団長！,哈……哈……<br>古达团长！
+77,グンター,お前は……<br>王都を守護していたはずでは！　<br>,你……<br>不是应该在守卫王都吗！　<br>
+78,伝令の騎士,クリームヒルト様からの<br>伝言を預かっておりまして、<br>人目を忍んで駆けつけました！,为了传递<br>克琳希德大人的话，<br>我瞒过他们跑了出来！
+79,伝令の騎士,クリームヒルト様が掴んだ情報では、<br>あなた達二人を亡き者にする陰謀を<br>ハーゲン一派が企てている様です！,根据克琳希德掌握的情报，<br>哈根一派正在策划<br>谋害你们两个人！
+80,伝令の騎士,即刻ファフニール討伐作戦を中断して<br>王都に帰還せよとのことです！,请即刻中断法芙娜讨伐作战，<br>回王都吧！
+81,グンター,あれはハーゲンの仕業か……！,那原来是哈根干的好事……！
+85,,<span class='scene-font-katari'>伝令の騎士が伝えると同時に、</span><br><span class='scene-font-katari'>洞窟の入り口が崩落する。</span>,<span class='scene-font-katari'>传令的骑士说完话，</span><br><span class='scene-font-katari'>洞窟的入口就崩塌了。</span>
+90,ハーゲン,<span class='scene-font-kokoro'>（さぁ……</span><br><span class='scene-font-kokoro'>ファフニールに</span><br><span class='scene-font-kokoro'>食われてしまえ……）</span>,<span class='scene-font-kokoro'>（哈……</span><br><span class='scene-font-kokoro'>就这样</span><br><span class='scene-font-kokoro'>被法芙娜吞噬吧……）</span>
+94,ハーゲン隊隊員１,<span class='scene-font-2'>なぁ……</span><br><span class='scene-font-2'>アイツらがやられたら</span><br><span class='scene-font-2'>誰がファフニールを倒すんだ？</span>,<span class='scene-font-2'>那个……</span><br><span class='scene-font-2'>如果他们被打倒了，/span><br><span class='scene-font-2'>谁来打倒法芙娜呢？</span>
+95,ハーゲン隊隊員２,<span class='scene-font-2'>そんなこと俺が知るかよ！</span><br><span class='scene-font-2'>ハーゲン様が何か考えてるだろ！</span>,<span class='scene-font-2'>我不知道啊！</span><br><span class='scene-font-2'>哈根大人究竟在想什么啊！</span>
+96,ハーゲン,お前達……心配するな。<br>グンターとジークフリートが死んだ後、<br>我々の隊でファフニールを討伐する。,你们啊……别担心。<br>在古达和齐格飞死后，<br>我的队伍会讨伐法芙娜的。
+97,ハーゲン,そうすれば……<br>お前達の家族が孫の代まで遊んで<br>暮らせるほどの報奨金が手に入るぞ。,这样的话……<br>你们就能拿到<br>能够让子孙后代都能游手好闲地生活的奖金。
+102,真龍ファフニール,<span class='scene-font-4'>グルァァァァッ！</span>,<span class='scene-font-4'>咕噜嗷嗷嗷！</span>
+103,ジークフリート/齐格飞,<span class='scene-font-4'>……っ！　逃げろっ！</span>,<span class='scene-font-4'>……唔！　逃啊！</span>
+107,グンター隊隊員１,<span class='scene-font-4'>うわぁぁぁぁっ！</span>,<span class='scene-font-4'>呜哇！</span>
+108,グンター隊隊員２,<span class='scene-font-4'>うぎゃぁぁぁっ！</span>,<span class='scene-font-4'>呜咕！</span>
+110,ジークフリート/齐格飞,くそっ……！,可恶……！
+111,,<span class='scene-font-katari'>真龍ファフニールの吐き出す</span><br><span class='scene-font-katari'>灼熱の業火に、次々と焼かれ</span><br><span class='scene-font-katari'>倒れるグンター隊の騎士達。</span>,<span class='scene-font-katari'>古达队的骑士们，</span><br><span class='scene-font-katari'>不断被真龙法芙娜喷射的火焰</span><br><span class='scene-font-katari'>烧灼着。</span>
+112,グンター,くっ……どうすれば！,唔……要怎么样才能！
+113,ジークフリート/齐格飞,<span class='scene-font-4'>うぉぉぉぉぉぉっ！</span>,<span class='scene-font-4'>唔噢噢噢噢！</span>
+114,真龍ファフニール,<span class='scene-font-4'>グガァァァァァッ！</span>,<span class='scene-font-4'>咕嘎啊啊啊！</span>
+121,,<span class='scene-font-katari'>ジークフリートは、真龍ファフニールの</span><br><span class='scene-font-katari'>攻撃を躱しながら、隙をついて</span><br><span class='scene-font-katari'>反撃を仕掛ける。</span>,<span class='scene-font-katari'>齐格飞一边闪躲着</span><br><span class='scene-font-katari'>法芙娜的攻击，一边</span><br><span class='scene-font-katari'>抓住时机进行反击。</span>
+122,グンター,すごい……ジークフリートのやつ、<br>たった一人でファフニールと<br>互角に渡り合っている……！,太强了……齐格飞那家伙，<br>一个人就能和法芙娜<br>相互对决……！
+123,真龍ファフニール,<span class='scene-font-4'>グガァァァァァ！</span>,<span class='scene-font-4'>咕嘎啊啊啊！</span>
+127,ジークフリート/齐格飞,チッ……,切……
+129,ジークフリート/齐格飞,<span class='scene-font-4'>はあっ！</span>,<span class='scene-font-4'>哈啊！</span>
+130,,<span class='scene-font-katari'>仲間に向けて吐き出される業火を、</span><br><span class='scene-font-katari'>剣圧で防ぎきるジークフリート。</span>,<span class='scene-font-katari'>齐格飞用剑压防御着</span><br><span class='scene-font-katari'>喷射向伙伴的火焰。</span>
+131,,<span class='scene-font-katari'>だが、仲間を庇いながら戦う</span><br><span class='scene-font-katari'>ジークフリートの肉体は</span><br><span class='scene-font-katari'>次第にボロボロになっていく。</span>,<span class='scene-font-katari'>但是，要一边战斗一边保护伙伴，</span><br><span class='scene-font-katari'>齐格飞的肉体</span><br><span class='scene-font-katari'>渐渐变得残破不堪。</span>
+133,ジークフリート/齐格飞,はぁ……はぁ……<br>はぁ……はぁ……,哈……哈……<br>哈……哈……
+135,グンター,ジークフリート！<br>俺も一緒に戦う！,齐格飞！<br>我也来一起战斗！
+136,ジークフリート/齐格飞,駄目だ！<br>お前は残った仲間達を率いて<br>ここを脱出する術を考えろ！,不行！<br>你就率领剩余的伙伴<br>一起考虑怎么从这里逃走吧！
+137,グンター,くっ……<br>だがそれではお前が……！,呜…<br>但是这样你就……！
+138,,<span class='scene-font-katari'>互いに満身創痍になった</span><br><span class='scene-font-katari'>ジークフリートと</span><br><span class='scene-font-katari'>真龍ファフニール。</span>,<span class='scene-font-katari'>真龙法芙娜和</span><br><span class='scene-font-katari'>齐格飞</span><br><span class='scene-font-katari'>都已经满目疮痍。</span>
+144,,<span class='scene-font-katari'>次の一手で勝負は決まると、</span><br><span class='scene-font-katari'>両者は野生の勘で悟った。</span>,<span class='scene-font-katari'>两者都凭着野生的直觉感受到，</span><br><span class='scene-font-katari'>下一步就将分出胜负。</span>
+145,ジークフリート/齐格飞,グンター、後は頼んだ。,古达，之后拜托你了。
+146,グンター,お前……何を……！,你要……干什么……！
+147,真龍ファフニール,<span class='scene-font-4'>グガァァァァッ！</span>,<span class='scene-font-4'>咕嘎啊啊啊！</span>
+149,,<span class='scene-font-katari'>次の瞬間、真龍ファフニールは、</span><br><span class='scene-font-katari'>ジークフリートの体に噛みついて</span><br><span class='scene-font-katari'>その肉に深々と牙を立てた。</span>,<span class='scene-font-katari'>在下个瞬间，真龙法芙娜的牙齿就</span><br><span class='scene-font-katari'>深深地嵌入</span><br><span class='scene-font-katari'>齐格飞的身体里。</span>
+150,ジークフリート/齐格飞,うぐぁっ……,呜咕……
+151,,<span class='scene-font-katari'>だが、ジークフリートは</span><br><span class='scene-font-katari'>その攻撃を躱すことなく</span><br><span class='scene-font-katari'>全身で受け止めたのだ。</span>,<span class='scene-font-katari'>但是，齐格飞并没有</span><br><span class='scene-font-katari'>躲开攻击，</span><br><span class='scene-font-katari'>而是用全身来接受那份攻击。</span>
+152,,<span class='scene-font-katari'>身体の中心に牙が食い込むのを</span><br><span class='scene-font-katari'>感じ取るジークフリート。</span>,<span class='scene-font-katari'>齐格飞感受到自己</span><br><span class='scene-font-katari'>身体的中心被法芙娜的牙齿刺穿了。</span>
+153,ジークフリート/齐格飞,がふっ……,嘎……
+155,ジークフリート/齐格飞,ごれで……どどめだぁっ！,这就是……最后一击！
+157,,<span class='scene-font-katari'>次の瞬間、ジークフリートは</span><br><span class='scene-font-katari'>真龍ファフニールの</span><br><span class='scene-font-katari'>喉元めがけて剣を突き立てた。</span>,<span class='scene-font-katari'>下个瞬间，齐格飞</span><br><span class='scene-font-katari'>用剑刺向了</span><br><span class='scene-font-katari'>真龙法芙娜的喉咙。</span>
+159,真龍ファフニール,<span class='scene-font-4'>グギャァァァァッ！</span>,<span class='scene-font-4'>咕嘎啊啊啊！</span>
+161,ジークフリート/齐格飞,ごふっ……<br>にがず……ものが……,呜……<br>怎么会让你……逃走……
+162,,<span class='scene-font-katari'>全身から血を吹き出す</span><br><span class='scene-font-katari'>ジークフリートは</span><br><span class='scene-font-katari'>それでもその剣を離さない。</span>,<span class='scene-font-katari'>齐格飞即使全身</span><br><span class='scene-font-katari'>喷出了鲜血，</span><br><span class='scene-font-katari'>也没有放开那把剑。</span>
+163,真龍ファフニール,ガハッ……,嘎哈……
+165,,<span class='scene-font-katari'>やがて真龍ファフニールは、</span><br><span class='scene-font-katari'>力尽きた様子で</span><br><span class='scene-font-katari'>地面に倒れ込むのだった。</span>,<span class='scene-font-katari'>不一会儿，真龙法芙娜</span><br><span class='scene-font-katari'>就精疲力竭地</span><br><span class='scene-font-katari'>倒在了地面上。</span>
+167,グンター,<span class='scene-font-4'>ジークフリートォォォォ！</span>,<span class='scene-font-4'>齐格飞——————！</span>
+170,ジークフリート/齐格飞,グン……タ……,古……达……
+171,,<span class='scene-font-katari'>その場に放り出されたジークフリートに</span><br><span class='scene-font-katari'>慌ててグンターが駆け寄った時には、</span><br><span class='scene-font-katari'>既に虫の息だった。</span>,<span class='scene-font-katari'>古达慌忙赶到</span><br><span class='scene-font-katari'>倒在地上的齐格飞的身边时，</span><br><span class='scene-font-katari'>齐格飞已经气若游丝了。</span>
+172,グンター,<span class='scene-font-4'>おいジークフリート！</span><br>絶対死ぬなよ！<br>絶対に死なせるものか！,<span class='scene-font-4'>喂！齐格飞！</span><br>你绝对不能死！<br>我绝对不会让你死的！
+173,ジークフリート/齐格飞,さすがに……もう……<br>だめ……そうだ……,就算是……已经……<br>好像……不行了……
+174,グンター,<span class='scene-font-4'>バカ野郎！</span><br><span class='scene-font-4'>しっかりしろ！</span>,<span class='scene-font-4'>笨蛋！</span><br><span class='scene-font-4'>振作啊！</span>
+175,グンター,最後の最後まで足掻け！<br>最後に勝つのは、<br>諦めなかったヤツだ！,要支撑到最后啊！<br>最后胜利的可是<br>不放弃的人！
+176,ジークフリート/齐格飞,ばか……いうな……,别说我……笨蛋……
+177,グンター,くそっ……くそっ……くそぉーっ！<br>どうすれば……！,可恶……可恶……可恶——！<br>要怎样才能……！
+178,,<span class='scene-font-katari'>その時、グンターは無意識に</span><br><span class='scene-font-katari'>近くに転がっていた兜を手に取った。</span>,<span class='scene-font-katari'>这时，古达无意识得拿起</span><br><span class='scene-font-katari'>掉落在附近的头盔。</span>
+179,,<span class='scene-font-katari'>そのまま、兜に真龍ファフニールの血を</span><br><span class='scene-font-katari'>並々注いだグンターは、</span><br><span class='scene-font-katari'>ジークフリートの口元に近づけた。</span>,<span class='scene-font-katari'>古达用头盔</span><br><span class='scene-font-katari'>装了龙之血，</span><br><span class='scene-font-katari'>用头盔送到了齐格飞的嘴边。</span>
+180,ジークフリート/齐格飞,な……に……,什……么……
+181,グンター,いいからこれを飲め！,好了，快点喝！
+182,,<span class='scene-font-katari'>ジークフリートは、</span><br><span class='scene-font-katari'>グンターに促されるまま、</span><br><span class='scene-font-katari'>真龍ファフニールの血を飲み干した。</span>,<span class='scene-font-katari'>齐格飞在</span><br><span class='scene-font-katari'>古达的催促下，</span><br><span class='scene-font-katari'>就这样喝完了真龙法芙娜的血。</span>
+183,グンター,<span class='scene-font-kokoro'>（龍の血には不思議な力が</span><br><span class='scene-font-kokoro'>あると聞く……）</span>,<span class='scene-font-kokoro'>（听说</span><br><span class='scene-font-kokoro'>龙之血有不可思议的力量……）</span>
+184,グンター,<span class='scene-font-kokoro'>（頼む……どうか助かってくれ……</span><br><span class='scene-font-kokoro'>ジークフリート……）</span>,<span class='scene-font-kokoro'>（拜托了……请多少帮他一下吧……</span><br><span class='scene-font-kokoro'>齐格飞……）</span>
+185,グンター,<span class='scene-font-4'>……っ！</span>,<span class='scene-font-4'>……唔！</span>
+186,,<span class='scene-font-katari'>真龍ファフニールの血を摂取した</span><br><span class='scene-font-katari'>ジークフリートの傷は、</span><br><span class='scene-font-katari'>みるみる塞がっていく。</span>,<span class='scene-font-katari'>摄取了真龙法芙娜的血的</span><br><span class='scene-font-katari'>齐格飞，</span><br><span class='scene-font-katari'>身上的伤口正在不断愈合。</span>
+187,,<span class='scene-font-katari'>やがて、ジークフリートの心臓は</span><br><span class='scene-font-katari'>何事も無かったように脈打ち始め</span><br><span class='scene-font-katari'>一命を取りとめるのだった。</span>,<span class='scene-font-katari'>不一会，齐格飞的心脏</span><br><span class='scene-font-katari'>就像什么都没发生一样开始重新跳动，</span><br><span class='scene-font-katari'>他活了下来。</span>
+188,グンター,き、奇跡だ……<br>,是，奇迹……<br>
+189,ジークフリート/齐格飞,…………,…………
+190,,<span class='scene-font-katari'>ジークフリートは</span><br><span class='scene-font-katari'>そのまま意識を失って</span><br><span class='scene-font-katari'>寝入ってしまう。</span>,<span class='scene-font-katari'>齐格飞就这样</span><br><span class='scene-font-katari'>失去了意识</span><br><span class='scene-font-katari'>睡着了。</span>
+191,,<span class='scene-font-katari'>その場にいる者は皆、</span><br><span class='scene-font-katari'>真龍ファフニールの血が</span><br><span class='scene-font-katari'>起こした奇跡に目を疑った。</span>,<span class='scene-font-katari'>在场的所有人都怀疑</span><br><span class='scene-font-katari'>自己亲眼看见的</span><br><span class='scene-font-katari'>法芙娜之血所创造的奇迹。</span>
+192,グンター,いいか皆の者……<br>この事は他言無用だ。<br>全て忘れろ。,大家……<br>说别的也没有用了。<br>把这件事全部忘了吧。
+193,伝令の騎士,は……はいっ！,是……是！
+194,グンター,では……ファフニールに<br>縛竜の封印を施し次第、<br>この場を脱出する……,那么……等对法芙娜<br>施加完缚龙之封印，<br>就离开这里吧……
+195,傷ついた騎士,……承知しました！,……理解了！
+196,グンター,ジークフリート……お前達。<br>必ず生きて帰るぞ。,齐格飞……你们。<br>一定会活着回去。
+197,,<span class='scene-font-katari'>一命を取り留めたジークフリートを</span><br><span class='scene-font-katari'>連れて龍の巣を出るグンター一行。</span>,<span class='scene-font-katari'>古达带着保住了姓名的齐格飞</span><br><span class='scene-font-katari'>离开了龙之巢。</span>
+201,,<span class='scene-font-katari'>ちょうどその頃、ハーゲンは</span><br><span class='scene-font-katari'>グンターとジークフリート一行の</span><br><span class='scene-font-katari'>生死を確かめようと試みていた。</span>,<span class='scene-font-katari'>正好这时，哈根</span><br><span class='scene-font-katari'>想去确认齐格飞和古达</span><br><span class='scene-font-katari'>的生死。</span>
+202,ハーゲン,……洞窟が静かになったな。<br>おい、岩をどかして中を調べろ。,……洞窟真安静啊。<br>喂，移开岩石调查一下里面。
+204,２人,はっ！,是！
+205,,<span class='scene-font-katari'>ハーゲン隊の隊員が岩をどかして</span><br><span class='scene-font-katari'>洞窟の中を調べようとする。</span>,<span class='scene-font-katari'>哈根队的队员移开了岩石</span><br><span class='scene-font-katari'>开始调查洞窟内部。</span>
+206,グンター,<span class='scene-font-4'>はあっ！</span>,<span class='scene-font-4'>哈！</span>
+209,ハーゲン隊隊員１,うぐっ……,呜咕……
+210,,<span class='scene-font-katari'>すると入口の陰に潜んでいたグンターと</span><br><span class='scene-font-katari'>生き残りの団員達が飛び出して</span><br><span class='scene-font-katari'>ハーゲン隊の隊員達を拘束した。</span>,<span class='scene-font-katari'>躲在入口的阴暗处的古达</span><br><span class='scene-font-katari'>和活下来的团员们</span><br><span class='scene-font-katari'>出来抓住了哈根队的队员们。</span>
+211,伝令の騎士,<span class='scene-font-4'>とりゃっ！</span>,<span class='scene-font-4'>看招！</span>
+214,ハーゲン隊隊員２,ぐはっ……,咕哈……
+216,傷ついた騎士,<span class='scene-font-4'>動くなっ！</span>,<span class='scene-font-4'>不准动！</span>
+217,グンター隊隊員３,みんな！　生きてたのか！,大家！　都活着吗！
+218,グンター隊隊員４,グンター団長も<br>御無事だったんですね！,古达团长<br>也没事啊！
+219,グンター,動くなお前達！<br>これ以上仲間同士で傷つけあうのか？,你们不准动！<br>你们还想再伤害同伴吗？
+220,ハーゲン,ぐっ……<br>ファフニール相手に生き残るとは<br>いよいよ化物じみた奴らめ……,呜……<br>作为法芙娜的对手还能活下来，<br>越来越像怪物的家伙……
+221,ハーゲン,さぁ！<br>早くアイツ等を殺せ！,那么！<br>快点杀了他们！
+222,ハーゲン隊隊員１,ハーゲン様……<br>助けて……,哈根大人……<br>帮帮我……
+223,ハーゲン,ああ、今助けてやるからな……<br>そこでじっとしていろ。,嗯，马上就会来帮你们的……<br>给我乖乖待着。
+224,ハーゲン,さぁ、アイツ等は虫の息だ！<br>今なら簡単に勝てるぞ！,他们已经遍体鳞伤了！<br>现在很容易就能打败他们！
+225,ハーゲン,そうすれば<br>アイツ等の手柄は我々のモノだ！,这样的话<br>他们的功绩就是我们的了！
+226,,<span class='scene-font-katari'>ハーゲンとグンターの言い争いに</span><br><span class='scene-font-katari'>その場の騎士達の間に動揺が生まれる。</span>,<span class='scene-font-katari'>在场的骑士因为哈根</span><br><span class='scene-font-katari'>和古达的争论产生了动摇。</span>
+227,グンター隊隊員３,ぐっ……,咕……
+228,グンター,お前達……<br>これ以上ハーゲンに利用されるな。,你们……<br>不要再被哈根利用了。
+229,グンター,少し頭を働かせれば<br>分かるだろう？,稍微动动脑就<br>能明白的吧？
+230,グンター,俺達を殺した後に<br>殺されるのは、お前達だってな？,在杀了我们之后，<br>被杀的就是你们了哦？
+231,グンター隊隊員４,なっ！,什么！
+232,ハーゲン,……グンターめ！<br>口から出まかせを言うな！,……古达你这家伙！<br>不要乱说！
+233,ハーゲン,おいボサッとするな！<br>早くアイツ等を殺せ！,喂，别呆愣着了！<br>快点杀了他们！
+234,グンター,……お前達、<br>ハーゲンに弱みを握られてるんだろ？,……你们<br>被哈根抓住了把柄吧？
+235,グンター,王都に帰ったら、<br>俺が何とかしてやる……<br>だから、俺を信じろ！,等回到王都，<br>我会想想办法的……<br>所以，相信我！
+236,グンター隊隊員３,ううっ……団長！<br>ごめん……なさい……,呜呜……团长！<br>抱……歉……
+237,ハーゲン,ええい……！<br>使えない愚図共め！,诶……！<br>真是没用的家伙们！
+238,ハーゲン,ハーゲン隊！<br>アイツ等ともども切り捨てろ！,哈根队！<br>杀了他们！
+239,２人,…………,…………
+240,,<span class='scene-font-katari'>だが、残りのハーゲン隊の隊員達と</span><br><span class='scene-font-katari'>裏切ったグンター隊の隊員達は、</span><br><span class='scene-font-katari'>皆でハーゲンを拘束するのだった。</span>,<span class='scene-font-katari'>但是，剩余的哈根队队员</span><br><span class='scene-font-katari'>和背叛的古达队队员</span><br><span class='scene-font-katari'>把哈根抓了起来。</span>
+241,ハーゲン,こっ……<br><span class='scene-font-4'>このゴミ虫どもめがぁぁぁ～！</span>,你……<br><span class='scene-font-4'>你们这些垃圾～！</span>
+242,グンター,ハーゲン……<br>お前は終わりだ……,哈根……<br>你已经完了……
+243,,<span class='scene-font-katari'>その後、グンターは</span><br><span class='scene-font-katari'>ジークフリートを連れて</span><br><span class='scene-font-katari'>無事に王都に帰還する。</span>,<span class='scene-font-katari'>在这之后，</span><br><span class='scene-font-katari'>古达带着齐格飞</span><br><span class='scene-font-katari'>平安地回到了王都。</span>
+244,,<span class='scene-font-katari'>こうして真龍ファフニールは</span><br><span class='scene-font-katari'>無事に封印され、ハーゲンの</span><br><span class='scene-font-katari'>陰謀も水際で阻止された。</span>,<span class='scene-font-katari'>就这样真龙法芙娜</span><br><span class='scene-font-katari'>被平安封印，哈根的</span><br><span class='scene-font-katari'>阴谋也被阻止了。</span>
+248,,<span class='scene-font-katari'>クリームヒルトらの証言などもあり</span><br><span class='scene-font-katari'>余罪が全て明るみに出た</span><br><span class='scene-font-katari'>ハーゲンは国外追放されるのだった。</span>,<span class='scene-font-katari'>根据克琳希德的证言，</span><br><span class='scene-font-katari'>哈根的其他罪也被揭露，</span><br><span class='scene-font-katari'>之后他被流放到了国外。</span>
+info,,,scene_evt190927_cp2_q3_s20
+译者,,,myu
