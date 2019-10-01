@@ -6,8 +6,7 @@ const request = (url, option, type) => {
     return fetch(url, {
       body: data,
       headers, method,
-      mode: 'cors',
-      referrer: 'no-referrer'
+      mode: 'cors'
     }).then(res => res.json())
   }
   return new Promise((rev, rej) => {

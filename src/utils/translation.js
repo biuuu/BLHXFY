@@ -52,8 +52,10 @@ const caiyunTrans = async (keyword, lang = 'en') => {
     .split('\n')
   const from = lang === 'en' ? 'en' : 'ja'
   const data = {
-    detect: true,
+    cached: true,
+    dict: true,
     media: 'text',
+    os_type: 'web',
     request_id: 'web_fanyi',
     trans_type: `${from}2zh`,
     source
