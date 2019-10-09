@@ -1,0 +1,28 @@
+id,name,text,trans
+0-chapter_name,,黒き陰謀,漆黑的阴谋
+0-synopsis,,森の中を疾駆するジークフリートの耳に女性の悲鳴が届く。その悲鳴の元と思われる村に立ち寄ると、瘴気が蔓延し村は壊滅状態だった。時すでに遅く、救うことが出来ない村を憂い、せめてもの安らかな死を願ったジークフリートは、異形の者に成り果てた村人に無言で剣を構えたのだった。,在林中疾驰的齐格飞听到了女性的悲鸣。他来到了传出悲鸣的村庄，发现整个村子已经被瘴气所破坏。齐格飞深知自己已经来迟一步。他虽然因为无法拯救这个村庄而感到忧郁，但他希望至少人们能够安详的死去。齐格飞心怀这样的愿望，沉默地面对已经变成活死人的村民们，架起了大剑。
+0,,<span class='scene-font-katari'>数日前。ハーゲンの手紙を受け取った</span><br><span class='scene-font-katari'>ジークフリートは、早速行動を起こす。</span>,<span class='scene-font-katari'>几天前，齐格飞收到了哈根的信后，</span><br><span class='scene-font-katari'>立刻开始行动。</span>
+1,,<span class='scene-font-katari'>森の中を疾駆するジークフリートは、</span><br><span class='scene-font-katari'>不意に女性の悲鳴を聴いた。</span>,<span class='scene-font-katari'>疾驰在林间的齐格飞</span><br><span class='scene-font-katari'>无意间听到了女性的悲鸣声。</span>
+2,ジークフリート/齐格飞,あっちか……,在那边吗……
+5,,<span class='scene-font-katari'>悲鳴の元と思われる村に</span><br><span class='scene-font-katari'>立ち寄るジークフリート。</span>,<span class='scene-font-katari'>齐格飞来到了传出悲鸣的村庄。</span>
+6,,<span class='scene-font-katari'>だが、時すでに遅く、</span><br><span class='scene-font-katari'>村の中には瘴気が</span><br><span class='scene-font-katari'>漂っている。</span>,<span class='scene-font-katari'>但是，已经迟了。</span><br><span class='scene-font-katari'>整个村子里弥漫着瘴气。</span>
+7,ジークフリート/齐格飞,遅かったか……,来迟了吗……
+8,村の女,助けて……下さい……,请……救救我……
+9,,<span class='scene-font-katari'>ジークフリートに</span><br><span class='scene-font-katari'>助けを求める村の女。</span>,<span class='scene-font-katari'>一个女村民向齐格飞求救道。</span>
+10,村の男,<span class='scene-font-4'>グルルルル……</span>,<span class='scene-font-4'>咕呜呜呜呜……</span>
+11,,<span class='scene-font-katari'>怪我をした女性の背後から、</span><br><span class='scene-font-katari'>常軌を逸した様子の男が迫る。</span>,<span class='scene-font-katari'>在那位受伤的女性的背后，</span><br><span class='scene-font-katari'>一个看上去已经失常了的男人正在逼近。</span>
+12,ジークフリート/齐格飞,…………,…………
+13,ジークフリート/齐格飞,……手遅れか。<br>すぐに、終わらせる。,……来不及了吗。<br>我这就让你解脱。
+16,村の男,<span class='scene-font-4'>グエッ……</span>,<span class='scene-font-4'>呜……</span>
+18,,<span class='scene-font-katari'>一太刀の元に</span><br><span class='scene-font-katari'>男を切り伏せるジークフリート。</span>,<span class='scene-font-katari'>齐格飞一刀砍倒了敌人。</span>
+19,ジークフリート/齐格飞,さぁ、もう大丈夫だ。<br>怪我は無いか？,来，已经没事了。<br>没受伤吧？
+20,,<span class='scene-font-katari'>ジークフリートが</span><br><span class='scene-font-katari'>女性の方を振り返る。</span>,<span class='scene-font-katari'>齐格飞转头看向那位女性。</span>
+21,,<span class='scene-font-katari'>すると、先ほどの女性は、</span><br><span class='scene-font-katari'>顔色を変えて、村の男と</span><br><span class='scene-font-katari'>同じ様に唸り始めていた。</span>,<span class='scene-font-katari'>可是，刚刚那位女性</span><br><span class='scene-font-katari'>突然变了脸色，和那位男村民一样</span><br><span class='scene-font-katari'>开始发出呻吟。</span>
+22,村の女,<span class='scene-font-4'>グルルルル……</span>,<span class='scene-font-4'>咕呜呜呜呜……</span>
+23,ジークフリート/齐格飞,…………,…………
+24,ジークフリート/齐格飞,せめて安らかに……<br>眠ってくれ。,请安息吧。
+27,村の女,うぎゃ……,呜啊……
+29,ジークフリート/齐格飞,…………,…………
+30,,<span class='scene-font-katari'>声を聴きつけて周囲から</span><br><span class='scene-font-katari'>異形の者達が集まってくる。</span>,<span class='scene-font-katari'>一群模样古怪的人们闻声而来。</span>
+31,,<span class='scene-font-katari'>無言で剣を構えたジークフリートは、</span><br><span class='scene-font-katari'>異形の者達に向かっていくのだった。</span>,<span class='scene-font-katari'>齐格飞沉默地摆好架势，</span><br><span class='scene-font-katari'>准备迎击这已经失常的人群。</span>
+info,,,scene_ult_chr110_ep2_q2_s10
