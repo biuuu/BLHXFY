@@ -1,0 +1,13 @@
+id,name,text,trans 利兹
+0-chapter_name,,海色の輝石,海色的辉石
+0-synopsis,,「海色の輝石」を纏ったモフモフを、無事にならず者から守った<span>姬塔</span>たち。一目見られただけでも満足だと言うレ・フィーエは、生き物と一体化した輝石を宝石境へ持ち帰ることを諦め、ユディスティラ島に再び訪れる事を決心するのだった。,<span>姬塔</span>他们成功从暴徒手中保护了缠着海色辉石的毛绒绒。只看了一眼就觉得满足的蕾·芬耶放弃了把这个和生物一体化的宝石带回宝石境之事，决定改日再来优蒂斯提拉岛拜访。
+0,ビィ/碧,なぁ、いいのか？<br>結局、何にも持ち帰らなくって……,那啥、真的好吗？<br>最后什么都没拿就回去……
+1,レ・フィーエ/蕾・芬耶,仕方がありませんわ。<br>宝石のみをあの子から取り外すことは、<br>出来そうにありませんでしたもの。,没办法呀。<br>把宝石从那孩子身上取下来、<br>我完全做不到呢。
+2,レ・フィーエ/蕾・芬耶,それに、あの輝きを<br>一目見ることが出来ただけで、<br>私は満足ですわ。,而且、能够看一眼<br>那耀眼的光辉、<br>我就已经满足了。
+3,ルリア/露莉亚,ふふふ……綺麗でしたねぇ。<br>それに、とっても可愛かったです！,呼呼呼……确实很漂亮。<br>而且还很可爱呢！
+4,レ・フィーエ/蕾・芬耶,ええ……ふふっ、<br>今度は何かお土産でも持って、<br>また訪ねようと思いますわ。,嗯……呼、<br>下次再带着什么礼物来看它吧。
+5,ルリア/露莉亚,あっ！　いいですね、それ！<br>きっと喜んでくれると思います！,啊！　很棒呢！<br>我觉得它一定会开心的！
+6,レ・フィーエ/蕾・芬耶,ふふ……この<span class='scene-font-place'>ユディスティラ島</span>には、<br>これから何度も訪れることに<br>なってしまいそうですわね。,哼哼……看来接下来要来拜访好多次<span class='scene-font-place'>优蒂斯提拉岛</span>了呢
+7,,<span class='scene-font-katari'>結局、レ・フィーエが</span><br><span class='scene-font-katari'>伝説の宝石を</span><br><span class='scene-font-katari'>自分のものにすることは叶わなかった。</span>,<span class='scene-font-katari'>最后蕾·芬耶也没有实现把</span><br><span class='scene-font-katari'>传说中的宝石</span><br><span class='scene-font-katari'>变成自己的东西。</span>
+8,,<span class='scene-font-katari'>しかし、</span><br><span class='scene-font-katari'>それでもその顔には、</span><br><span class='scene-font-katari'>満足げな笑みが浮かんでいるのだった。</span>,<span class='scene-font-katari'>但是</span><br><span class='scene-font-katari'>她的脸上还是流露出了</span><br><span class='scene-font-katari'>心满意足的微笑。</span>
+info,,,scene_chr067_q3_s20
