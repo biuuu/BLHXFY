@@ -1,0 +1,66 @@
+id,name,text,trans
+0-chapter_name,,漆黒の悪魔,漆黑的恶魔
+0-synopsis,,ある時、王都から離れた辺境の村がジークフリートに滅ぼされた、という知らせが白竜騎士団の元へ届く。さらに、姬塔一行と行動を共にしていたはずのジークフリートは「しばらく艇を離れる」という手紙を残し、姿を消していた。ことのあらましを調査すべく、一行はランスロットとヴェインに連れられ、その件の村へと調査に向かう。,某日，白龙骑士团得知，在远离王都的边境，一个村庄被齐格飞毁灭了。而且，本来应该与姬塔一行人共同行动的齐格飞，也只留下了一封「我会暂时离开」的信，便不见了踪影。为了调查事情的经过，一行人和兰斯洛特以及维恩一起，前去调查发生事件的村庄。
+0,,<span class='scene-font-katari'>紅蓮の炎に包まれ</span><br><span class='scene-font-katari'>激しく燃え盛る村。</span>,<span class='scene-font-katari'>鲜红的烈焰熊熊燃烧，</span><br><span class='scene-font-katari'>吞噬了村庄。</span>
+1,ジークフリート　/齐格飞,…………,…………
+4,村の男,ぐえっ……,呜……
+6,ジークフリート　/齐格飞,…………,…………
+9,村の女,うぎゃ……,啊啊……
+11,,<span class='scene-font-katari'>轟々と爆ぜる炎。</span><br><span class='scene-font-katari'>ジークフリートの横顔が</span><br><span class='scene-font-katari'>不意に照らし出される。</span>,<span class='scene-font-katari'>爆炎传出了轰鸣声。</span><br><span class='scene-font-katari'>不经意间，</span><br><span class='scene-font-katari'>照亮了齐格飞的侧脸。</span>
+12,ジークフリート　/齐格飞,…………,…………
+13,,<span class='scene-font-katari'>悪魔のような禍々しい鎧に返り血を浴び、</span><br><span class='scene-font-katari'>茫然と立ち尽くすジークフリート。</span>,<span class='scene-font-katari'>齐格飞茫然地站在原地。</span><br><span class='scene-font-katari'>他那具如同恶魔一般不祥的铠甲沾满了别人的鲜血。</span>
+14,怯える村人,<span class='scene-font-kokoro'>（ひいっ……あ、あれは……）</span>,<span class='scene-font-kokoro'>（咿……那、那是……）</span>
+15,,<span class='scene-font-katari'>森の中へ消える剣士を、</span><br><span class='scene-font-katari'>物陰から目撃する村人。</span>,<span class='scene-font-katari'>村民躲在阴影中，</span><br><span class='scene-font-katari'>目击到了消失在林间的剑士。</span>
+21,,<span class='scene-font-katari'>ある時、王都から離れた辺境の村が</span><br><span class='scene-font-katari'>ジークフリートに滅ぼされたという</span><br><span class='scene-font-katari'>知らせが白竜騎士団の元に届いた。</span>,<span class='scene-font-katari'>某日，白龙骑士团得知，</span><br><span class='scene-font-katari'>在离王都很远的边境，</span><br><span class='scene-font-katari'>有一个村庄被齐格飞毁灭了。</span>
+22,,<span class='scene-font-katari'>ランスロットとヴェインは、</span><br><span class='scene-font-katari'>その惨状を訴えに訪れた</span><br><span class='scene-font-katari'>村人の話に耳を傾ける。</span>,<span class='scene-font-katari'>兰斯洛特和维恩正在听前来拜访的村民控诉。</span>
+23,怯える村人,……俺は……村人達を殺戮して、<br>その場から逃げる人影を見たんだ……,……我看到了那个人影……<br>他在村庄大开杀戒，<br>并且当场逃跑了……
+24,怯える村人,……あの禍々しい鎧に、巨大な剣、<br>あれはジークフリートで間違いない！,……那具不祥的铠甲，巨大的剑，<br>绝对是齐格飞！
+25,,<span class='scene-font-katari'>村人の発言に、微かな動揺が</span><br><span class='scene-font-katari'>白竜騎士団の団員達を襲う。</span>,<span class='scene-font-katari'>面对村民的发言，一种微弱的不安</span><br><span class='scene-font-katari'>向白龙骑士团的团员们袭来。</span>
+26,ランスロット/兰斯洛特,あの……<br>あなたを疑っている<br>訳では無いのですが……,那个……<br>我没有怀疑您的意思……
+27,ランスロット/兰斯洛特,何かの見間違いという<br>可能性はありませんか？,有没有可能是您看错了呢？
+28,ヴェイン/维恩,ほらほらお前達～！<br>そろそろ持ち場に戻れ～！,行了行了～！<br>你们也差不多该回岗位工作啦～！
+29,,<span class='scene-font-katari'>団員に広がる動揺を察したヴェインは、</span><br><span class='scene-font-katari'>咄嗟にその場の人払いをする。</span>,<span class='scene-font-katari'>维恩察觉到了在团员之间散播开来的不安，</span><br><span class='scene-font-katari'>立刻把在场的人们打发走了。</span>
+30,怯える村人,……信じてくれ！<br>俺は確かに見たんだ！,……请相信我！<br>我确确实实看到了！
+31,ランスロット/兰斯洛特,…………,…………
+32,ヴェイン/维恩,……あ、気が動転してて、<br>熊か何かと見間違えた……<br>とか無いですかねぇ～？,……啊，会不会是因为惊吓过度，<br>把熊错看成了齐格飞……<br>之类的～？
+33,怯える村人,見間違いじゃない！<br>あれは確かに人間だった！,我没有看错！<br>那真的是人类！
+34,ヴェイン/维恩,……ええと、でもほら！<br>そんなことをする動機が<br>ないじゃないですか？,……呃，但是你看！<br>他也没有做这种事的动机啊？
+35,ランスロット/兰斯洛特,<span class='scene-font-kokoro'>（おい、ヴェイン。</span><br><span class='scene-font-kokoro'>少し言葉を慎め。）</span>,<span class='scene-font-kokoro'>（喂，维恩。</span><br><span class='scene-font-kokoro'>稍微注意点言辞。）</span>
+36,ヴェイン/维恩,<span class='scene-font-kokoro'>（こんな馬鹿げた話を</span><br><span class='scene-font-kokoro'>信じろってのかよ！？）</span>,<span class='scene-font-kokoro'>（你是让我相信这种糊涂话吗！？）</span>
+37,ランスロット/兰斯洛特,<span class='scene-font-kokoro'>（……気持ちは分かるが、</span><br><span class='scene-font-kokoro'>訴えを無下にはできない。）</span>,<span class='scene-font-kokoro'>（……我理解你的心情，</span><br><span class='scene-font-kokoro'>但我们也不能对诉讼坐视不管。）</span>
+38,ヴェイン/维恩,<span class='scene-font-kokoro'>（……はいよ。</span><br><span class='scene-font-kokoro'>承知承知っと。）</span>,<span class='scene-font-kokoro'>（……好吧。</span><br><span class='scene-font-kokoro'>知道了知道了。）</span>
+39,怯える村人,いや……違う……<br>あれは、人間じゃない……<br>あれは、化物だった……,不……不对……<br>那根本不是人……<br>那是，怪物……
+40,,<span class='scene-font-katari'>部屋の中を重苦しい</span><br><span class='scene-font-katari'>空気が包み込む。</span>,<span class='scene-font-katari'>房间被沉闷的气氛所笼罩。</span>
+41,ランスロット/兰斯洛特,……この件は……ひとまず<br>我々が責任を持って預かりますので。,……这件事……<br>暂且由我来负责吧。
+42,ランスロット/兰斯洛特,今日の所は、<br>一旦お引き取り願えますか？,所以，今天能请您先回去吗？
+43,怯える村人,ジークフリートは……<br>アイツは化物だ。<br>化物に人の道理は通じない。,齐格飞……<br>那家伙是个怪物。<br>怪物是通不了人理的。
+44,,<span class='scene-font-katari'>ジークフリートへの不信感を</span><br><span class='scene-font-katari'>うわ言の様に呟く村人。</span>,<span class='scene-font-katari'>村民像说梦话一样，</span><br><span class='scene-font-katari'>暗自嘟哝着对齐格飞的不信任。</span>
+45,,<span class='scene-font-katari'>部屋を去る村人と入れ違いに</span><br><span class='scene-font-katari'>今度は姬塔一行が、</span><br><span class='scene-font-katari'>二人の元を訪れた。</span>,<span class='scene-font-katari'>与离开房间的村民擦肩而过，</span><br><span class='scene-font-katari'>姬塔一行人来到了两人这里。</span>
+46,ビィ/碧,おいおい二人とも！<br>ちょっとこれを見てくれ！,喂喂你们俩！<br>快来看看这个！
+47,,<span class='scene-font-katari'>ビィが差し出したのは、</span><br><span class='scene-font-katari'>ジークフリート直筆の手紙である。</span>,<span class='scene-font-katari'>碧的手里拿着的，</span><br><span class='scene-font-katari'>是齐格飞亲手写的信。</span>
+48,,<span class='scene-font-katari'>その手紙には、</span><br><span class='scene-font-katari'>しばらく艇を離れるとだけ</span><br><span class='scene-font-katari'>簡潔に記されていた。</span>,<span class='scene-font-katari'>在那封上里只有简短的一句话，</span><br><span class='scene-font-katari'>「我会暂时离开」</span>
+49,ルリア/露莉亚,ジークフリートさんが<br>いなくなっちゃったんです！,齐格飞先生不见了！
+50,ランスロット/兰斯洛特,そ、そうか……<br>姬塔達の所には、<br>いなかったか……,这、这样啊……<br>他不在姬塔你们那啊……
+51,ヴェイン/维恩,はぁ……<br>サクッと解決って訳にはいかねぇか。,哈……<br>看来没办法立刻解决了啊。
+52,ルリア/露莉亚,……ええっと？<br>何の話でしょうか？,……那个？<br>是在说什么呢？
+53,ヴェイン/维恩,いやいや……<br>ちょうどいい所に来てくれたって話よ！,没有没有……<br>我是说你们来的正好啦！
+54,ヴェイン/维恩,ってことで、姬塔達にも<br>ジークフリートさん探しを<br>手伝ってもらおうぜ？,也就是说，<br>也要拜托姬塔你们<br>帮我们一起找齐格飞先生啦。
+55,ランスロット/兰斯洛特,あ、ああ……<br>そうだな。,啊，没错……<br>是这样的。
+56,ビィ/碧,ん……？<br>ジークフリートは<br>ここにはいねぇのか？,嗯……？<br>齐格飞不在这里吗？
+57,ヴェイン/维恩,ということだビィくん！<br>ひとまず力を合わせて<br>ジークフリートさんを探そうぜ！,就是这么回事，碧君！<br>总而言之，让我们齐心协力，<br>找到齐格飞先生吧！
+58,ビィ/碧,ということって……<br>どういう事だよ！？,你说这么回事……<br>到底是怎么回事啊！？
+59,ルリア/露莉亚,あ、あの……<br>ヴェインさん？,那、那个……<br>维恩先生？
+60,ヴェイン/维恩,そうと決めたら行動あるのみ！<br>ほらほらランちゃんも行くぞ～,既然决定了就赶紧行动吧！<br>好啦好啦，兰酱也赶紧的。
+62,ランスロット/兰斯洛特,わ、わかった。<br>詳細は俺から説明しよう。,我、我知道了。<br>就由我来说明详细情况吧。
+65,,<span class='scene-font-katari'>ランスロットとヴェインと</span><br><span class='scene-font-katari'>合流した一行は、道すがら</span><br><span class='scene-font-katari'>事件のあらましを聞かされた。</span>,<span class='scene-font-katari'>和兰斯洛与维恩汇合了的一行人，</span><br><span class='scene-font-katari'>在路上听说了事件的经过。</span>
+66,ビィ/碧,なんだよ……ジークフリートのやつ、<br>また面倒事に巻き込まれてたのかよ！,什么嘛……齐格飞那家伙，<br>又被卷入麻烦事了啊！
+67,ランスロット/兰斯洛特,まだ……<br>そうだと決まった訳では無い……,还不能确定……
+68,ルリア/露莉亚,でも……心配ですね、<br>ジークフリートさん。,但是……好担心啊，<br>齐格飞先生。
+69,ヴェイン/维恩,まぁまぁ、ジークフリートさんが<br>ふらっといなくなるのは、<br>今回に限った話じゃ無いからな！,好了好了，<br>齐格飞先生突然消失这种事<br>也不是第一次了！
+70,ランスロット/兰斯洛特,ふっ……そうだな。<br>またよからぬ誤解でも<br>受けているに違いない……,呵……也是啊。<br>肯定又被人往不好的方向误解了……
+71,ビィ/碧,で、オイラ達は<br>どこに向かってるんだ？,那我们现在要去哪里呢？
+72,ランスロット/兰斯洛特,ひとまず……<br>事件のあった村から<br>調べてみようと思う。,总之……<br>我想先去调查一下<br>发生了事件的村庄。
+73,ルリア/露莉亚,わかりました！<br>私達も一生懸命調べましょう！<br>ねっ、姬塔！,我明白了！<br>我们也会努力调查的！<br>对吧，姬塔！
+74,ヴェイン/维恩,おう！<br>頼りにしてるぜ！,哦！<br>那就拜托啦！
+75,ヴェイン/维恩,この先は魔物が多いから<br>気を付けろよ！<br>姬塔！,这前方有很多魔物，<br>小心点！<br>姬塔！
+info,,,scene_ult_chr110_ep1_q1_s10

@@ -1,0 +1,12 @@
+id,name,detail
+npc,湿婆,3040196000
+special,第三只眼，开眼,火属性伤害(特大)/自己的攻击力up（1次）<span class=text-blue>◆第三只眼开眼，下次奥义性能大幅UP</span>
+special-マハーカーラ,玛哈嘎拉,火属性伤害(特大)<span class=text-blue>◆第三只眼闭眼</span>
+skill-1,三叉戟,对敌人造成8倍火属性伤害/赋予敌人恶灭之炎效果
+skill-1+,三叉戟,对敌人造成8倍火属性伤害/赋予敌人恶灭之炎效果
+skill-2,梵·楼陀罗,我方全体攻击力up/伤害上限up/受到的伤害减轻
+skill-2+,梵·楼陀罗,我方全体攻击力up/伤害上限up/受到的伤害减轻
+skill-3,坦达瓦之舞,<div class=prt-text-small>效果发动中必TA/赋予自身反击效果（回避·受伤/2次）/减轻风属性伤害/暴击率UP</div>
+support-1,破坏的舞蹈,<div class=prt-text-small>奥义槽积攒速度变慢但提高通常攻击造成的伤害/发动奥义时破导等级上升1（最大5）<span class=text-blue>◆根据破导等级，攻击力up/TA几率up</span></div>
+support-2,崇拜的尊神,我方全体的强化效果[火属性攻击力UP]的效果UP
+intro,究极不变灭恶护善,司掌救赎的勇猛武神，他非常贴近人们的生活，响应人们坚强的心显现于世。神希望，组成世界的人类能够返回正道。

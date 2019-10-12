@@ -1,0 +1,57 @@
+id,name,text,trans
+0-chapter_name,,第3話 因縁,第3话 因缘
+0-synopsis,,アーサーとモルドレッドを人質にとられ、手出しができないジークフリートに対し、グンターは何かの呪文を詠唱する。ジークフリートが呪文によって苦しみだす中、人質となったふたりが奮起し、グンターの隙を突いて脱出する。ジークフリートはふたりにランスロット達を呼びに行くよう命じ、地下から脱出させたものの、グンターの呪文によってついに気絶してしまうのだった。,面对因亚瑟和莫德雷德被当作人质而无法出手的齐格飞，古达咏唱咒文。在齐格飞因咒文而痛苦之时，被当作人质的两人奋起，瞄准古达不注意的间隙脱逃。齐格飞命令两人向兰斯洛特等人求救，在两人从地下脱逃后，齐格飞在古达的咒文下失去了意识。
+12,,<span class='scene-font-katari'>グンターに人質に取られた</span><br><span class='scene-font-katari'>アーサーとモルドレッド。</span>,<span class='scene-font-katari'>被古达抓作人质的</span><br><span class='scene-font-katari'>亚瑟和莫德雷德。</span>
+13,,<span class='scene-font-katari'>ジークフリートは</span><br><span class='scene-font-katari'>何とかしてふたりを救出する</span><br><span class='scene-font-katari'>機会を窺っている。</span>,<span class='scene-font-katari'>齐格飞想着</span><br><span class='scene-font-katari'>必须做些什么救出两人</span><br><span class='scene-font-katari'>等待着时机。</span>
+14,グンター/古达,てっきり一人で来ると思ったが、<br>こんな足手まといの餓鬼共を<br>連れて来るなんて意外だったな。,我以为你准是一个人来的，<br>没想到你竟然带着<br>两个碍手碍脚的小鬼。
+15,ジークフリート/齐格飞,その少年達は<br>俺とは関係ない。,那两个少年<br>与我无关。
+16,ジークフリート/齐格飞,何が目的か知らんが……<br>俺が狙いならその子達を解放しろ。,不知道你有什么目的……<br>如果你的目标是我，就放了两个孩子。
+17,グンター/古达,くっくっく……<br>いいだろう。,呵呵呵……<br>好吧。
+18,グンター/古达,金髪と黒髪、どっちを生かしたい？<br>助かるのは一人だけだ。,金发的和黑发的，你想让谁活下来？<br>只有一个能够得救。
+19,ジークフリート/齐格飞,貴様ッ！,你这家伙！
+20,アーサー/亚瑟,ごめん……<br>ジークフリートさんっ！,抱歉……<br>齐格飞先生！
+21,モルドレッド/莫德雷德,クソッ……どうすれば……,呜……我该怎么办……
+22,グンター/古达,餓鬼共は黙ってろ……,两个小鬼给我闭嘴……
+23,,<span class='scene-font-katari'>グンターは、人質に取った</span><br><span class='scene-font-katari'>アーサーとモルドレッドを</span><br><span class='scene-font-katari'>きつく締め上げる。</span>,<span class='scene-font-katari'>古达紧紧扼住了</span><br><span class='scene-font-katari'>被抓作人质的</span><br><span class='scene-font-katari'>亚瑟和莫德雷德。</span>
+24,アーサー/亚瑟,ぐあっ……,咕啊……
+25,モルドレッド/莫德雷德,うぐっ……,呜啊……
+26,ジークフリート/齐格飞,<span class='scene-font-4'>やめろグンター！</span>,<span class='scene-font-4'>住手，古达！</span>
+27,グンター/古达,おいおい……動いたら<br>殺すって言ってるよな？,喂喂……我说了吧<br>乱动的话就杀了他们？
+28,グンター/古达,次、動いたら両方殺すぞ……,下次再乱动的话，我就把两个都杀了……
+29,ジークフリート/齐格飞,ぐっ……わかった……,呜……我知道了……
+30,グンター/古达,コイツらのおかげで<br>お前をハメる手間も省けたな……,多亏了他们<br>省了我陷害你的功夫……
+31,,<span class='scene-font-katari'>そう言うとグンターは</span><br><span class='scene-font-katari'>何かの呪文を詠唱し始める。</span>,<span class='scene-font-katari'>这样说着，古达</span><br><span class='scene-font-katari'>咏唱起了不知为何的咒文。</span>
+33,ジークフリート/齐格飞,うぐっ……<br><span class='scene-font-4'>ぐあぁぁぁぁぁっ！</span>,呜……<br><span class='scene-font-4'>啊啊啊啊啊啊！</span>
+34,,<span class='scene-font-katari'>途端に苦しそうに蹲る</span><br><span class='scene-font-katari'>ジークフリート。</span>,<span class='scene-font-katari'>齐格飞立即看似</span><br><span class='scene-font-katari'>很痛苦地蹲下。</span>
+35,グンター/古达,おお……<br>効果は覿面だな。,哦哦……<br>效果挺立竿见影的嘛。
+36,アーサー/亚瑟,<span class='scene-font-1'>モルドレッド……</span><br><span class='scene-font-1'>このままじゃ</span><br><span class='scene-font-1'>ジークフリートさんが</span>,<span class='scene-font-1'>莫德雷德……</span><br><span class='scene-font-1'>这样下去的话</span><br><span class='scene-font-1'>齐格飞先生就</span>
+37,モルドレッド/莫德雷德,<span class='scene-font-1'>分かってる……</span><br><span class='scene-font-1'>やられたまんまなんて</span><br><span class='scene-font-1'>ダセーからな……</span>,<span class='scene-font-1'>我知道……</span><br><span class='scene-font-1'>被一直制着</span><br><span class='scene-font-1'>也太逊了……</span>
+38,アーサー＆モルドレッド,<span class='scene-font-kokoro'>（何か……</span><br><span class='scene-font-kokoro'>きっかけさえあれば！）</span>,<span class='scene-font-kokoro'>（只要有什么……</span><br><span class='scene-font-kokoro'>机会的话！）</span>
+39,グンター/古达,くっくっくっ……<br>これであのジークフリートを<br>完全に捕らえたぞ……,呵呵呵……<br>这样一来那个齐格飞<br>就被完全擒获了……
+40,ジークフリート/齐格飞,はぁっ……！,哈啊……！
+41,,<span class='scene-font-katari'>グンターの気が緩んだ隙をついて</span><br><span class='scene-font-katari'>咄嗟に切りかかるジークフリート。</span>,<span class='scene-font-katari'>在古达放松下的间隙</span><br><span class='scene-font-katari'>齐格飞猛地向他袭去。</span>
+42,グンター/古达,……なっ！<br>まだ動けるのかっ！,……什么！<br>你还能动！
+43,,<span class='scene-font-katari'>だが、ジークフリートの</span><br><span class='scene-font-katari'>切っ先がグンターに届く前に</span><br><span class='scene-font-katari'>再び詠唱で動きを封じられる。</span>,<span class='scene-font-katari'>然而在齐格飞的剑尖</span><br><span class='scene-font-katari'>触到古达之前，</span><br><span class='scene-font-katari'>古达再次咏唱咒文封住了齐格飞的行动。</span>
+45,アーサー＆モルドレッド,<span class='scene-font-1'>今だっ！　モルドレッド！</span><br><span class='scene-font-1'>行くぞっ！　アーサー！</span>,<span class='scene-font-1'>就是现在！　莫德雷德！</span><br><span class='scene-font-1'>上！　亚瑟！</span>
+46,,<span class='scene-font-katari'>グンターの注意が逸れた</span><br><span class='scene-font-katari'>瞬間、アイコンタクトを交わす</span><br><span class='scene-font-katari'>アーサーとモルドレッド。</span>,<span class='scene-font-katari'>在古达注意力分散之际</span><br><span class='scene-font-katari'>亚瑟和莫德雷德</span><br><span class='scene-font-katari'>瞬间交换了眼神。</span>
+47,アーサー＆モルドレッド,<span class='scene-font-4'>はあっ！</span>,<span class='scene-font-4'>哈！</span>
+51,,<span class='scene-font-katari'>言葉を交わさずとも</span><br><span class='scene-font-katari'>タイミングを合わせてグンターを</span><br><span class='scene-font-katari'>攻撃するアーサーとモルドレッド。</span>,<span class='scene-font-katari'>就算没有经过交谈</span><br><span class='scene-font-katari'>亚瑟和莫德雷德还是互相配合好时机</span><br><span class='scene-font-katari'>向古达袭去。</span>
+52,グンター/古达,ぐっ……<br>クソ餓鬼共がっ！,呜……<br>可恶的小鬼们！
+53,,<span class='scene-font-katari'>アーサーとモルドレッドは</span><br><span class='scene-font-katari'>グンターの拘束から逃れる。</span>,<span class='scene-font-katari'>亚瑟和莫德雷德</span><br><span class='scene-font-katari'>挣脱了古达的束缚。</span>
+54,アーサー/亚瑟,ジークフリートさん！,齐格飞先生！
+55,モルドレッド/莫德雷德,今助けます！,我们现在就来救您！
+56,ジークフリート/齐格飞,お前達では敵わん！<br>戻ってランスロット達に伝えろッ！,你们不是他的对手！<br>回去告诉兰斯洛特他们！
+57,アーサー/亚瑟,……っ！　はいっ！,……呜！　明白了！
+58,モルドレッド/莫德雷德,必ず助けに戻りますっ！,我们一定会回来就您的！
+59,,<span class='scene-font-katari'>ジークフリートの必死な言葉を</span><br><span class='scene-font-katari'>受けたアーサーとモルドレッドは</span><br><span class='scene-font-katari'>地下室から逃げ出した。</span>,<span class='scene-font-katari'>接受了齐格飞用尽全力说出的话</span><br><span class='scene-font-katari'>亚瑟和莫德雷德</span><br><span class='scene-font-katari'>逃出了地下室。</span>
+61,グンター/古达,ちっ……<br>アイツらぶっ殺す……,切……<br>我要杀了他们……
+62,ジークフリート/齐格飞,はぁ……はぁ……,哈……哈……
+63,ジークフリート/齐格飞,待てグンター<br>俺から注意を逸らすなよ？,等等，古达<br>不要从我身上转移开注意力？
+64,グンター/古达,ぐっ……<br>この期に及んで動くとは、化物め……,呜……<br>都到这地步了还能动，真是个怪物……
+65,,<span class='scene-font-katari'>そう言うとグンターは</span><br><span class='scene-font-katari'>更に詠唱を続ける。</span>,<span class='scene-font-katari'>这样说着，古达</span><br><span class='scene-font-katari'>继续咏唱起了咒文。</span>
+66,ジークフリート/齐格飞,<span class='scene-font-4'>ぐわぁぁぁぁっ……</span>,<span class='scene-font-4'>呜啊啊啊啊啊……</span>
+68,,<span class='scene-font-katari'>流石のジークフリートも</span><br><span class='scene-font-katari'>ついに意識を失ってしまった。</span>,<span class='scene-font-katari'>就算是齐格飞</span><br><span class='scene-font-katari'>也终于失去了意识。</span>
+69,グンター/古达,まぁいい……<br>当初の目的は達成した。,算了……<br>当初的目的也达成了。
+70,,<span class='scene-font-katari'>ジークフリートを捕えた</span><br><span class='scene-font-katari'>グンターは、地下室で</span><br><span class='scene-font-katari'>ひとりほくそ笑むのだった。</span>,<span class='scene-font-katari'>抓住了齐格飞的</span><br><span class='scene-font-katari'>古达，在地下室</span><br><span class='scene-font-katari'>独自笑了起来。</span>
+info,,,scene_evt190927_cp3_q1_s10
+译者,,,

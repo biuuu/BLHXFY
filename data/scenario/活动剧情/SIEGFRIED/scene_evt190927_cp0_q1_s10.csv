@@ -1,0 +1,95 @@
+id,name,text,trans
+0-synopsis,,ジークフリートが騎士団に所属せず放浪していた頃。当時のフェードラッヘ国王ヨゼフ一行が魔物に襲われたところに偶然出くわしたジークフリートは、その危機を救う。ジークフリートの圧倒的な強さを見たヨゼフ王は、兵法を学べばさらに強くなれると言い、騎士団へと誘う。ジークフリートはその誘いに興味を抱き、ヨゼフ王と共に王都へ歩を進めるのだった。,齐格飞没有加入骑士团四处流浪的那时候。他偶然遇见了被魔物袭击的当时的菲多拉厄的国王约瑟夫一行，并从危机中解救了他们。约瑟夫王看到齐格飞拥有如此压倒性的强大力量，建议他去学兵法能变得更强，并邀请他加入骑士团。齐格飞因为对他的邀请产生兴趣，便和约瑟夫王一起回到王都。
+2,？？？,<span class='scene-font-4'>グァァァァァッ！</span>,<span class='scene-font-4'>咕啊啊啊啊啊啊！</span>
+3,,<span class='scene-font-katari'>耳を劈く咆哮、</span><br><span class='scene-font-katari'>轟く破壊音。</span>,<span class='scene-font-katari'>刺破耳膜的咆哮声，</span><br><span class='scene-font-katari'>轰隆隆的破坏音。</span>
+4,ジークフリート/齐格飞,はぁ……はぁ……<br>はぁ……はぁ……,哈啊……哈啊……<br>哈啊……哈啊……
+5,ジークフリート/齐格飞,俺が……<br>終わらせる……！,就让我……<br>来终结这一切……！
+8,,<span class='scene-font-katari'>一瞬の隙を逃すまいと</span><br><span class='scene-font-katari'>ジークフリートは距離を詰める。</span>,<span class='scene-font-katari'>不放过一丝的空隙，</span><br><span class='scene-font-katari'>齐格飞拉近了距离。</span>
+9,ジークフリート/齐格飞,今だけでいい……<br>あと少しだけ持ってくれ！,现在这样就好……<br>再稍微坚持一下！
+10,,<span class='scene-font-katari'>かつて救国の忠騎士と呼ばれた男は</span><br><span class='scene-font-katari'>再び国を守らんとする決意と共に、</span><br><span class='scene-font-katari'>全身を蝕む特異な力を解き放つ。</span>,<span class='scene-font-katari'>这个男人曾被唤为救国的忠义骑士，</span><br><span class='scene-font-katari'>他抱持着再度守护国家的决心</span><br><span class='scene-font-katari'>解放了侵蚀全身的特殊的力量。</span>
+11,ジークフリート/齐格飞,これで最後だ……,这是最后一击了……
+12,ジークフリート/齐格飞,<span class='scene-font-4'>はぁぁぁぁぁっ！</span>,<span class='scene-font-4'>哈啊啊啊啊啊！</span>
+13,,<span class='scene-font-katari'>満身創痍の体に鞭打つ彼は</span><br><span class='scene-font-katari'>およそ人とは思えぬ力をその身に纏い、</span><br><span class='scene-font-katari'>全身全霊を懸けて斬りかかった。</span>,<span class='scene-font-katari'>他满身疮痍却再度奋起</span><br><span class='scene-font-katari'>将常人难以想象的力量缠绕在身上</span><br><span class='scene-font-katari'>倾尽全部力量斩下。</span>
+23,？？？,<span class='scene-font-4'>はぁぁぁぁぁっ！</span>,<span class='scene-font-4'>哈啊啊啊啊啊！</span>
+26,魔物１,グギャッ……,咕嘎……
+28,魔物２,ガフッ……,嘎呼……
+30,魔物３,ウゴッ……,呜咕……
+32,,<span class='scene-font-katari'>目にもとまらぬ荒々しい斬撃によって</span><br><span class='scene-font-katari'>眼前の魔物の群れは、ボロきれの様に</span><br><span class='scene-font-katari'>真っ二つに引き裂かれた。</span>,<span class='scene-font-katari'>在让人惨不忍睹的粗暴的斩击下</span><br><span class='scene-font-katari'>眼前的一群魔物，一副破破烂烂的样子</span><br><span class='scene-font-katari'>被分成两半切裂了。</span>
+33,,<span class='scene-font-katari'>その場に居合わせた者は皆、</span><br><span class='scene-font-katari'>彼の振るう圧倒的な「力」に</span><br><span class='scene-font-katari'>目を奪われていた。</span>,<span class='scene-font-katari'>正好在场的人全员都</span><br><span class='scene-font-katari'>被他表现出来的这份「力量」</span><br><span class='scene-font-katari'>所夺去了视线。</span>
+34,？？？,あ……,啊……
+35,？？？,すごい……<br>ひとりで魔物を倒しちゃった……,好厉害……<br>居然一个人把魔物打倒了……
+36,？？？,ふっ……<br>何たる荒々しい戦い方だ……<br>まるで獣だな。,呼……<br>那是什么粗野的战斗方式……<br>简直就像野兽一样。
+37,？？？,まったくです……<br>何ですかあの野蛮な輩は？,真是的……<br>那个野蛮的家伙是怎么一回事？
+38,？？？,はっ……！,哈……！
+39,,<span class='scene-font-katari'>我に返った鎧の男は、慌てて</span><br><span class='scene-font-katari'>高貴な身なりの男の元へ参上する。</span>,<span class='scene-font-katari'>穿着铠甲的男人终于回过神来，慌慌张张地</span><br><span class='scene-font-katari'>来到了装束高贵的男人的身边拜见。</span>
+40,？？？,ヨゼフ陛下！<br>お怪我はありませんか？,约瑟夫陛下！<br>您没有受伤吧？
+42,？？？,ヨゼフ陛下！<br>お召し物が汚れております！,约瑟夫陛下！<br>您的衣物弄脏了！
+43,ヨゼフ王,大事無い。<br>グンター、クリームヒルト、<br>そなた達こそ無事か？,无妨。<br>古达，克琳希德，<br>你们平安无事吗？
+44,グンター,はっ、私は無事にございます。,是的，我没有受伤。
+45,クリームヒルト,同じく、私も無事です。,一样，我也安全无事。
+46,,<span class='scene-font-katari'>その時、ヨゼフ王の傍に控えていた</span><br><span class='scene-font-katari'>文官らしき男が、みすぼらしい姿の男に</span><br><span class='scene-font-katari'>嫌悪感たっぷりに問いかけた。</span>,<span class='scene-font-katari'>就在这时，站在约瑟夫王旁边的</span><br><span class='scene-font-katari'>文官打扮的男人，一脸嫌恶地</span><br><span class='scene-font-katari'>询问那个衣衫褴褛的男人。</span>
+47,？？？,そこの下賤な輩、<br>貴様はいったい何が目的だ！,那边那个下贱的家伙，<br>你到底有什么目的！
+48,？？？,……目的、だと？<br>俺の進路に邪魔な障害物があったから、<br>排除したまでだ。,……你问我，目的？<br>我只是因为前进的路上有障碍物，<br>所以将其排除而已。
+49,？？？,それとも何だ……？<br>お前も邪魔立てすると言うのなら<br>相手になるぞ？,所以呢……？<br>如果你说你也想站在那阻挠我的话<br>就来打一场吧？
+50,？？？,……なっ！<br>この異常者め！,……什么！<br>你这个异常者！
+51,ヨゼフ王,待てハーゲン。<br>我々が窮地を救われたのは<br>まぎれもない事実だ。,等等哈根。<br>这个人将我们从困境里救出<br>是无可辩驳的事实。
+52,ヨゼフ王,不躾な物言いをするな。,别说那么失礼的话。
+53,ハーゲン,しかし陛下！<br>この様な得体の知れぬ……,但是陛下！<br>这种来路不明的……
+54,ヨゼフ王,その様な物言いは止めろ、<br>と言ったはずだが聞こえなかったか？,都说了不要用这种措辞了，<br>你没听到吗？
+55,ハーゲン,……はっ！<br>申し訳ありません！,……是！<br>非常抱歉！
+56,ヨゼフ王,お前はもう下がれ。,你已经可以退下了。
+57,ハーゲン,はいっ……！,是……！
+58,,<span class='scene-font-katari'>ふたりのやり取りを</span><br><span class='scene-font-katari'>無表情で眺めていた男に、</span><br><span class='scene-font-katari'>恭しく頭を下げるヨゼフ王。</span>,<span class='scene-font-katari'>约瑟夫王对着</span><br><span class='scene-font-katari'>无表情地看着他们两个人对话的男人</span><br><span class='scene-font-katari'>恭敬地低下了头。</span>
+59,ヨゼフ王,家臣が無礼を<br>働いて申し訳ない。,我为家臣的无礼<br>向您致以深深的歉意。
+60,ヨゼフ王,ハーゲンも余を慮ってのことだ、<br>どうか、許して欲しい。,哈根也是因为担心我，<br>还请您，原谅他。
+61,？？？,…………,…………
+62,,<span class='scene-font-katari'>男は無言でその場を</span><br><span class='scene-font-katari'>立ち去ろうとする。</span>,<span class='scene-font-katari'>男人一言不发</span><br><span class='scene-font-katari'>正要离开这里。</span>
+64,ヨゼフ王,その者、少し待ってくれ。,这位，还请留步。
+65,？？？,……何だ？　まだ俺に何か用か？,……怎么了？　找我还有什么事吗？
+66,ヨゼフ王,そなた、騎士に興味は無いか？,你，有没有兴趣当骑士？
+67,？？？,無いな。,没有。
+68,ヨゼフ王,ふっ……そうか。<br>では、そなたは何のために剣を振るう？,呼……这样啊。<br>那么，你是为了什么而挥剑的呢？
+69,？？？,……さあな。<br>考えたことも無い。,……谁知道呢。<br>我没考虑过这种事。
+70,？？？,だが、そんなことを考えずとも、<br>お前達が苦戦していた魔物を<br>屠る分には事足りている。,但是，就算没有考虑过那种事，<br>我也强到足以杀掉<br>让你们陷入苦战的魔物。
+71,ハーゲン,お……おのれ！　<br>陛下の御前で無礼が過ぎるぞ！,你……你这家伙！　<br>在陛下面前也太过无礼了！
+72,ヨゼフ王,ははははっ！　よいよいハーゲン！<br>その者が申しておることに偽りはない。,哈哈哈哈！　行了行了哈根！<br>这个人说的也是实话啊。
+73,グンター,め、面目次第もございません……,实，实在是无颜面对您……
+74,クリームヒルト,ぷっ……<br>しっかりしなさいよね！,噗……<br>好好振作起来啊！
+75,ヨゼフ王,だがな、余の元に来れば、<br>そなたは更に強くなれるだろう。,但是啊，如果你来我的身边的话，<br>你能变得更强的吧。
+76,？？？,……どういうことだ？,……那是为什么？
+77,ヨゼフ王,そなたが一騎当千の力を<br>有していることは認めよう。,我认可你的确拥有<br>以一当千的力量。
+78,ヨゼフ王,だが……<br>王都の万の軍勢を相手にしても、<br>果たして同じ様に勝てると思うか？,但是……<br>如果和王都的数万士兵战斗的话，<br>你觉得你最后还能照样胜出吗？
+79,？？？,やってみなければ分からない。,不试试怎么知道。
+80,ヨゼフ王,<span class='scene-font-4'>わははははっ！　面白い！</span><br>そなたなら本当に<br>やってのけそうで怖いな！,<span class='scene-font-4'>啊哈哈哈哈！　有趣！</span><br>如果是你的话也许真的能例外呢<br>真可怕啊！
+81,ヨゼフ王,だが、王都で騎士となり兵法を学べば、<br>寡戦を制する戦法も身につけられるぞ。,但是，去王都当骑士学习兵法的话，<br>也能掌握以少胜多的打法哦。
+82,ヨゼフ王,さすれば、そなた一人の力で<br>万の軍勢を退ける可能性は、<br>今よりも格段に上がるだろうな？,那样的话，以你一人的力量<br>击退万人的士兵的可能性，<br>也会比现在更上一层楼吧？
+83,？？？,……いいのか？<br>俺にそんなことを教えて<br>お前に何の得がある？,……可以吗？<br>教授我这种事<br>你又有什么好处呢？
+84,ヨゼフ王,……得？　<br>豪放磊落に見えて、<br>小さなことにこだわるな。,……好处？　<br>你看上去像是个豪放磊落的人，<br>没想到居然在意这种小事。
+85,ヨゼフ王,余はな、<br>ふと、脳裏に浮かんだだけだ。,我只是啊，<br>突然，脑海里浮现出了。
+86,ヨゼフ王,騎士となり兵法を身につけたそなたが、<br>万の軍勢を相手に蹴散らす<br>痛快な姿がな。,你作为骑士掌握了兵法之后，<br>一举击垮万人军队的<br>爽快的身影。
+87,,<span class='scene-font-katari'>悪戯っぽく微笑むヨゼフ王からは、</span><br><span class='scene-font-katari'>裏表の無い本心が見て取れた。</span>,<span class='scene-font-katari'>约瑟夫王露出了恶作剧般的笑容，</span><br><span class='scene-font-katari'>齐格飞能看出他的话语都是真心的。</span>
+88,？？？,ふっ……面白い。,呵……有趣。
+89,？？？,いいだろう、<br>騎士とやらになってやる。,可以啊，<br>骑士什么的我就做做看吧。
+90,ヨゼフ王,では、決まりだな。<br>余と共に王都に参れ。,那么，就这么决定了。<br>和我一起回王都吧。
+91,？？？,しばらく世話になる。,暂且受你照顾了。
+92,ヨゼフ王,グンター、クリームヒルト、<br>この男の世話を頼んだぞ。,古达，克琳希德，<br>这个男人就交给你们照顾了。
+93,2人,御意！,谨遵您的旨意！
+94,グンター,俺は王都を守護する<br>王立騎士団団長のグンターだ、<br>これからよろしく頼む。,我是守卫王都的<br>皇家骑士团团长古达，<br>以后还请多关照。
+95,クリームヒルト,私は、ヨゼフ陛下の侍女を務める<br>クリームヒルト。,我是，担任约瑟夫陛下侍女职务的<br>克琳希德。
+96,クリームヒルト,グンターに聞いても<br>分からないことがあったら、<br>遠慮なく私に聞いてね。,如果你有问了古达<br>也还不懂的事，<br>请不必顾虑来问我吧。
+97,グンター,おいおい……これ以上、<br>俺のイメージを悪くするなって。,喂喂……别再进一步，<br>败坏我的个人印象了啊。
+98,クリームヒルト,大丈夫！<br>もう十分格好悪いから！,没事的！<br>因为你已经表现得相当逊了！
+99,グンター,はははは……そうですか……,哈哈哈哈……是嘛……
+100,？？？,…………,…………
+101,,<span class='scene-font-katari'>グンターとクリームヒルトは、</span><br><span class='scene-font-katari'>その武骨な男を歓迎する。</span>,<span class='scene-font-katari'>古达和克琳希德都</span><br><span class='scene-font-katari'>对这个武艺高超的男人致以欢迎。</span>
+102,ハーゲン,<span class='scene-font-kokoro'>（ぐっ……</span><br><span class='scene-font-kokoro'>この様な怪しい風体の男を</span><br><span class='scene-font-kokoro'>王都に招き入れるとは……）</span>,<span class='scene-font-kokoro'>（咕……</span><br><span class='scene-font-kokoro'>居然要把这种打扮怪异的男人</span><br><span class='scene-font-kokoro'>招入王都……）</span>
+103,ハーゲン,<span class='scene-font-kokoro'>（陛下は一体何をお考えに</span><br><span class='scene-font-kokoro'>なっているのだ……）</span>,<span class='scene-font-kokoro'>（陛下他到底</span><br><span class='scene-font-kokoro'>在想什么……）</span>
+104,,<span class='scene-font-katari'>その場に居合わせた者は皆、</span><br><span class='scene-font-katari'>各々複雑な思いを胸に抱えながら</span><br><span class='scene-font-katari'>王都への帰路につくのだった。</span>,<span class='scene-font-katari'>在场的人都</span><br><span class='scene-font-katari'>各自抱持着复杂的思绪</span><br><span class='scene-font-katari'>踏上了回王都的路。</span>
+110,ヨゼフ王,ところで……まだ、<br>そなたの名を聞いていなかったな。,话说回来……还没有<br>问过你的名字呢。
+111,？？？,俺か？,我吗？
+112,ヨゼフ王,ああ、余の名はヨゼフ。,嗯，我的名字是约瑟夫。
+113,ヨゼフ王,皆からは、<br>王都フェードラッヘを治める<br>ヨゼフ王と呼ばれている。,世人都称呼我为，<br>治理王都菲都拉赫的<br>约瑟夫王。
+114,？？？,……ヨゼフ王、か。,……约瑟夫王，吗。
+115,？？？,俺の名は……,我的名字是……
+info,,,scene_evt190927_cp0_q1_s10
+译者,,,

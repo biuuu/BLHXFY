@@ -1,0 +1,65 @@
+id,name,text,trans
+0-chapter_name,,第5話 絶望,第5话 绝望
+0-synopsis,,ジークフリートを氷で覆ったのは、アグロヴァルの操る氷牢だった。たまたま龍脈の調査に訪れていたと嘯くアグロヴァルは姬塔達を激励し、氷牢から脱出したジークフリートの前に姬塔と共に立ちはだかる。奮起した白竜騎士団の団員達がグンターを足止めしている間に、ランスロットとパーシヴァルはジークフリートを救うための策を練るのだった。,用冰将齐格飞束缚住的是阿古罗瓦尔操控的冰牢。声称是在调查龙脉的途中偶遇众人的阿古罗瓦尔的出现，给了姬塔等人莫大的鼓舞，姬塔也随着一起阻挡挣脱出冰牢的齐格飞。而当重振旗鼓的白龙骑士团团员拦下古达的同时，兰斯洛特和帕西瓦尔则在思考解救齐格飞的方案。
+3,,<span class='scene-font-katari'>ジークフリートが一行に</span><br><span class='scene-font-katari'>襲いかからんとした矢先、</span><br><span class='scene-font-katari'>突然、全身氷漬けとなった。</span>,<span class='scene-font-katari'>齐格飞袭向众人的途中</span><br><span class='scene-font-katari'>突然间</span><br><span class='scene-font-katari'>浑身覆盖满了冰块。</span>
+4,グンター,なっ……なんだこれは！,这……这是什么！
+5,パーシヴァル/帕西瓦尔,これは……氷牢！,这是……冰牢！
+8,アグロヴァル,やれやれ、揃いも揃って<br>手も足も出ぬとは情けない……,哎呀哎呀，这么多人马<br>竟然连一个人都阻挡不了……
+9,パーシヴァル/帕西瓦尔,アグロヴァル兄上ッ！,阿古罗瓦尔兄长！
+10,ランスロット/兰斯洛特,貴方が何故ここに……！,为何您会出现在这里……！
+11,,<span class='scene-font-katari'>突然のアグロヴァルの登場に</span><br><span class='scene-font-katari'>動揺を隠せない一行。</span>,<span class='scene-font-katari'>阿古罗瓦尔的突然登场</span><br><span class='scene-font-katari'>让众人显示出无法掩饰的震惊。</span>
+14,,<span class='scene-font-katari'>彼の名はアグロヴァル。</span><br><span class='scene-font-katari'>ウェールズ家の当主で、</span><br><span class='scene-font-katari'>パーシヴァルの実兄である。</span>,<span class='scene-font-katari'>来者是阿古罗瓦尔，</span><br><span class='scene-font-katari'>既是威尔兹的家主，</span><br><span class='scene-font-katari'>也是帕西瓦尔的兄长。</span>
+16,アグロヴァル,なに……<br>我も龍脈の様子を調査に来たのだが、<br>何やら騒々しかったものでな。,没什么……<br>我不过是来查看龙脉的形势罢了，<br>现在看来是有不小的骚动啊。
+17,グンター,貴様……その凍てつく氷の剣技……<br>ウェールズ家のアグロヴァルか！,你这家伙……这使人冻结的剑技……<br>你是威尔兹家的阿古罗瓦尔！
+18,アグロヴァル,いかにも……,正是……
+19,グンター,ぐっ……何故貴様が<br>こいつらの手助けをするっ！,喀……为何你会出手<br>帮助这些家伙！
+20,アグロヴァル,ふっ……手助けだと？<br>勘違いするなよ下郎が。,呵……帮助？<br>别误会了你这刁民。
+21,アグロヴァル,偶然面白そうな催しを見かけたので<br>あくまで戯れに来たまでだ。,我不过是碰巧撞了见这出闹剧，<br>才来消遣消遣罢了。
+22,ビィ/碧,偶然って……<br>手紙とかくれたのに<br>ちょっと無理があるだろ……,碰巧……<br>明明都把信寄过来了<br>这也太勉强了些吧……
+23,ルリア/露莉亚,ふふっ……<br>でもアグロヴァルさんらしいです。,嘿嘿嘿……<br>不过，很有阿古罗瓦尔的作风。
+24,,<span class='scene-font-katari'>その時、息を切らした兵士達が</span><br><span class='scene-font-katari'>アグロヴァルに駆け寄ってくる。</span>,<span class='scene-font-katari'>此时，一群喘着粗气的士兵们</span><br><span class='scene-font-katari'>陆续朝着阿古罗瓦尔赶了过来。</span>
+27,ウェールズ兵１,はぁ……はぁ……<br>アグロヴァル様！,哈……哈……<br>阿古罗瓦尔大人！
+30,ウェールズ兵２,我らを置いて<br>勝手にいなくなられては困ります！,擅自把我们抛下<br>实在是太过分了！
+31,アグロヴァル,ふっ……すまぬな……,哼……失礼了……
+32,アグロヴァル,さて……<br>ここはお前達の手出しは無用だ。<br>下がっていろ。,那么……<br>接下来不用你们出手。<br>退下吧。
+33,ウェールズ兵達,はっ……！,是……！
+34,,<span class='scene-font-katari'>気を取り直したアグロヴァルは</span><br><span class='scene-font-katari'>一向に向かって問いかける。</span>,<span class='scene-font-katari'>阿古罗瓦尔重拾姿态</span><br><span class='scene-font-katari'>对众人发出审问。</span>
+35,アグロヴァル,時にお前達……<br>いつぞやに我を追いつめたのは<br>まぐれだったのか？,你们几个……<br>曾经把我逼入困境的能耐<br>也只不过是侥幸吗？
+36,アグロヴァル,パーシヴァル……<br>かつての上官だからといって<br>よもや剣が鈍ったのではなかろうな？,帕西瓦尔……<br>面对曾经的上级<br>该不会使你的剑愚钝了吧？
+37,パーシヴァル/帕西瓦尔,それは……,这是……
+38,アグロヴァル,ランスロット……<br>お前は王都を守護する騎士団長だろう？<br>国家に仇為す者は容赦なく排除しろ。,兰斯洛特……<br>你是守护王都的骑士团长对吧？<br>国家的敌人应当毫不手软地排除掉。
+39,ランスロット/兰斯洛特,ぐっ……,呜……
+40,アグロヴァル,そして姬塔よ……,然后是姬塔……
+41,アグロヴァル,これ以上……ジークフリートに<br>醜態を晒させるぐらいなら、<br>ひと思いに殺してやれ。,与其让齐格飞……<br>将丑态这般显露出来<br>不如狠下心葬送他吧。
+41-sel1_txt,,<span class='scene-font-katari'>……それはできない！</span>,<span class='scene-font-katari'>……我做不到！</span>
+42,アグロヴァル,ふっ……まったく<br>揃いも揃って甘い奴らだ。,呵……<br>真是一群天真的家伙。
+43,アグロヴァル,……さて、頃合いか？,……那么，时候也到了吧。
+50,ジークフリート/齐格飞,<span class='scene-font-4'>グルアァァァァァアァァッッ！</span>,<span class='scene-font-4'>咕啊啊啊啊啊啊啊啊啊！</span>
+52,,<span class='scene-font-katari'>アグロヴァルの氷牢を破った</span><br><span class='scene-font-katari'>ジークフリートは</span><br><span class='scene-font-katari'>怒りに震える様に咆哮する。</span>,<span class='scene-font-katari'>挣脱了阿古罗瓦尔</span><br><span class='scene-font-katari'>冰牢的齐格飞</span><br><span class='scene-font-katari'>暴怒地咆哮起来。</span>
+53,グンター,よ、良くやったジークフリート！<br>さぁやれっ！　あいつ等を全員殺せ！,干，干得漂亮齐格飞！<br>快动手吧！把他们都杀了！
+54,アグロヴァル,ジークフリート……,齐格飞……
+55,アグロヴァル,<span class='scene-font-kokoro'>（……何があったかは知らぬが、</span><br><span class='scene-font-kokoro'>我に情けない姿を見せてくれるな）</span>,<span class='scene-font-kokoro'>（……虽然不知道发生了什么，</span><br><span class='scene-font-kokoro'>别让我看见你这副可悲的姿态）</span>
+56,アグロヴァル,ランスロット、パーシヴァル、<br>我がジークフリートを<br>足止めしている間に何か策を考えろ。,兰斯洛特、帕西瓦尔，<br>在我们拖住齐格飞的期间，<br>你们赶快找到对策出来。
+57,パーシヴァル/帕西瓦尔,はっ、はいっ！,好，好的！
+58,ランスロット/兰斯洛特,……ありがとうございます！,……非常感谢！
+59,アグロヴァル,姬塔……<br>お前は我を手伝えるか？,姬塔……<br>你会协助我的吧？
+59-sel1_txt,,<span class='scene-font-katari'>もちろん！</span>,<span class='scene-font-katari'>当然！</span>
+60,ビィ/碧,よおし姬塔！<br>やってやろうぜ！,好嘞姬塔！<br>让我们上吧！
+61,ルリア/露莉亚,アグロヴァルさん！<br>私達も援護します！,阿古罗瓦尔！我们也会支援你的！
+62,アグロヴァル,ふっ……相変わらず<br>威勢の良い家臣共だな。,这时，挡在古达面前的是<br>白龙骑士团的团员们。
+63,グンター,アグロヴァル！<br>貴様の思い通りになどさせるかっ！,阿古罗瓦尔！<br>怎么能让你如愿！
+64,,<span class='scene-font-katari'>その時、グンターの前に</span><br><span class='scene-font-katari'>立ちはだかる白竜騎士団の団員達。</span>,<span class='scene-font-katari'>这时，挡在古达面前的是</span><br><span class='scene-font-katari'>白龙骑士团的团员们。</span>
+65,白竜騎士団団員１,団長達が頑張ってるんだ……,团长们都在拼命……
+66,白竜騎士団団員２,ああ、俺達も黙ってられるか！,没错，我们也不能袖手旁观！
+67,白竜騎士団団員１,グンター！<br>お前の相手は俺達だ！,古达！<br>你的对手是我们！
+68,白竜騎士団団員２,ランスロット団長！<br>後は頼みましたよ！,兰斯洛特团长！<br>接下来就拜托了！
+69,ランスロット/兰斯洛特,お前達……！　恩に着る！,你们……！这恩情我记下了！
+70,アグロヴァル,ふむ……,哼……
+71,アグロヴァル,<span class='scene-font-kokoro'>（ここに来て持ち直すとは</span><br><span class='scene-font-kokoro'>なかなか肝の据わった兵達だな）</span>,<span class='scene-font-kokoro'>（到了这个份上还能重振旗鼓，</span><br><span class='scene-font-kokoro'>这些士兵骨气倒是不缺）</span>
+72,,<span class='scene-font-katari'>アグロヴァルは</span><br><span class='scene-font-katari'>阿古罗瓦尔</span><br><span class='scene-font-katari'>朝着齐格飞的方向</span>,<span class='scene-font-katari'>从容地走了过去。</span><br><span class='scene-font-katari'>ジークフリートの方へ</span><br><span class='scene-font-katari'>悠然と近づいていく。</span>
+73,アグロヴァル,さて……待たせたな、<br>ジークフリート。,那么……让你久等了，<br>齐格飞。
+74,ジークフリート/齐格飞,グルルルルルルル……,呜呜呜呜呜呜呜呜……
+75,アグロヴァル,ふっ……<br>いつぞやぶりに戯れるとするか？,哼……<br>让我们来久违地过过招吧？
+76,ジークフリート/齐格飞,<span class='scene-font-4'>グルァァァァァッ！</span>,<span class='scene-font-4'>咕啊啊啊啊啊！</span>
+info,,,scene_evt190927_cp5_q3_s20
+译者,,,

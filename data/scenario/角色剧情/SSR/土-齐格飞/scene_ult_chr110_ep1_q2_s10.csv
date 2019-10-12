@@ -1,0 +1,39 @@
+id,name,text,trans
+0-chapter_name,,漆黒の悪魔,漆黑的恶魔
+0-synopsis,,事件の手がかりを求め辺境の村を訪れた一行。村の状況は凄惨を極め、人の手によるものとは思えない程の有様だった。手がかりを探すうちに、ランスロットはジークフリートのものらしき布切れを見つける。思いもよらないその証拠に戸惑い、ランスロットは布切れを咄嗟に懐にしまいこんでしまう。そこへアンデッド達が強襲し、一行は包囲を突破するため戦いに臨む。,一行人为了寻找事件的线索，来到了边境的村庄。村庄的状况过于凄惨，以至于让人觉得这根本不可能是人类所为。在寻找线索的途中，兰斯洛特发现了一块酷似来自齐格飞的衣物的小碎布。面对这出人意料的证据，兰斯洛特一时间不知所措，立刻将碎布藏入怀中。就在这时，活死人们袭来，一行人正面临突破重围的战斗。
+0,,<span class='scene-font-katari'>事件の手掛かりを求めて</span><br><span class='scene-font-katari'>辺境の村を訪れる</span><br><span class='scene-font-katari'>姬塔一行。</span>,<span class='scene-font-katari'>为了寻找事件的线索，</span><br><span class='scene-font-katari'>姬塔一行人拜访了边境的村庄。</span>
+1,,<span class='scene-font-katari'>一行は、その凄惨を極める</span><br><span class='scene-font-katari'>有様に言葉を失う。</span>,<span class='scene-font-katari'>一行人看见眼前凄惨至极的光景，</span><br><span class='scene-font-katari'>不禁哑然失声。</span>
+2,ヴェイン/维恩,ひでぇ……,太过分了……
+3,ルリア/露莉亚,う……うぅ……<br>こんなことって……,呜……呜呜……<br>怎么会有这种事……
+4,ヴェイン/维恩,ごめん……<br>ルリア達は向こうで<br>少し休んでてくれ。,抱歉……<br>露莉亚你们就在那边休息一会吧。
+5,ランスロット/兰斯洛特,ああ……こんな場所に……<br>軽率に連れてきてしまって<br>すまなかった。,是啊……我们居然随随便便……<br>就把你们带到这种地方来……<br>真对不起。
+6,ビィ/碧,いや……<br>そうは言ってもしょうがねーさ。<br>気にすんなって。,不……<br>你们也不知道会是这样嘛。<br>别在意。
+7,ルリア/露莉亚,でも……<br>こんなのを見せられたら、<br>余計に放って置けません。,但是……<br>亲眼见到这副惨状，<br>反而更不能坐视不管了。
+8,,<span class='scene-font-katari'>ルリアの言葉に同意して、</span><br><span class='scene-font-katari'>深く頷く姬塔。</span>,<span class='scene-font-katari'>姬塔非常赞同露莉亚的话，</span><br><span class='scene-font-katari'>用力地点了点头。</span>
+9,ヴェイン/维恩,そっか……<br>姬塔達は、<br>強いんだな。,是吗……<br>你们真的很坚强啊。
+10,ヴェイン/维恩,なんか逆に気ぃ遣わせちまった<br>みたいで、悪かった。,感觉反而让你们有所顾虑了，<br>抱歉。
+11,,<span class='scene-font-katari'>姬塔達に向かって</span><br><span class='scene-font-katari'>申し訳なさそうに</span><br><span class='scene-font-katari'>頭を下げるヴェイン。</span>,<span class='scene-font-katari'>维恩面对姬塔，</span><br><span class='scene-font-katari'>抱歉地低下了头。</span>
+12,ランスロット/兰斯洛特,だが……<br>とても人の仕業とは思えない……,但是……<br>实在没法想象这是人类干的……
+13,ヴェイン/维恩,ああ。<br>一体誰がこんなひでぇことを……,是啊。<br>到底是谁干出这么过分的事情……
+14,ランスロット/兰斯洛特,ん……？,嗯……？
+15,,<span class='scene-font-katari'>その時、崩れかかった家屋に</span><br><span class='scene-font-katari'>引っかかる布きれを見つける</span><br><span class='scene-font-katari'>ランスロット。</span>,<span class='scene-font-katari'>就在那时，兰斯洛特发现</span><br><span class='scene-font-katari'>在某个崩塌的房子的废墟上，</span><br><span class='scene-font-katari'>挂着一小块碎布。</span>
+16,ランスロット/兰斯洛特,<span class='scene-font-kokoro'>（これは……</span><br><span class='scene-font-kokoro'>ジークフリートさんの……）</span>,<span class='scene-font-kokoro'>（这是……</span><br><span class='scene-font-kokoro'>齐格飞先生的……）</span>
+17,ヴェイン/维恩,どうしたランちゃん？<br>何か手がかりでも見つかったのか？,怎么了兰酱？<br>找到什么线索了吗？
+18,ランスロット/兰斯洛特,い、いや……<br>別になんでもない！,不、没有……<br>什么都没有！
+19,,<span class='scene-font-katari'>咄嗟に布きれを懐に</span><br><span class='scene-font-katari'>仕舞うランスロット。</span>,<span class='scene-font-katari'>兰斯洛特立刻将碎布藏到怀中。</span>
+20,ランスロット/兰斯洛特,<span class='scene-font-kokoro'>（いや……まさかな……</span><br><span class='scene-font-kokoro'>これだけでは決定的証拠に欠ける。）</span>,<span class='scene-font-kokoro'>（不……不会吧……</span><br><span class='scene-font-kokoro'>现在还没有确凿的证据）</span>
+21,アンデッド,<span class='scene-font-4'>グォオオオオ！</span>,<span class='scene-font-4'>呜嗷嗷嗷嗷嗷！</span>
+22,ランスロット/兰斯洛特,っ！？,嗯！？
+23,ヴェイン/维恩,危ない！,危险！
+26,アンデッド,<span class='scene-font-4'>グルルルルル……</span>,<span class='scene-font-4'>咕呜呜呜呜呜呜……</span>
+28,,<span class='scene-font-katari'>ランスロットに迫るアンデッドを</span><br><span class='scene-font-katari'>薙ぎ払うヴェイン。</span>,<span class='scene-font-katari'>维恩砍倒了逼近兰斯洛特的活死人。</span>
+29,ランスロット/兰斯洛特,くっ……<br>す、すまない。,呜……<br>抱、抱歉。
+30,ヴェイン/维恩,へへっ！<br>いいってことよ！,嘿嘿！<br>没事！
+31,ヴェイン/维恩,それより……コイツら<br>どんどん増えてねェか？,但是……这群家伙的数量<br>是不是一直在增加？
+32,ルリア/露莉亚,は、はい……この場所に<br>集まってるみたいです！,是、是的……<br>他们好像正在聚集过来！
+33,ビィ/碧,おいおい……<br>このままだと囲まれるぞ！,喂喂……<br>这样下去我们就要被包围了！
+34,ランスロット/兰斯洛特,心配ない。<br>この程度の数なら……<br>俺一人でも押し切れる。,别担心。<br>就这么点人的话……<br>我一个人就能应付。
+35,ランスロット/兰斯洛特,ヴェインと姬塔達は、<br>俺が先陣を切った後に続いてくれ！,维恩和姬塔跟在我身后，<br>我打头阵！
+36,ヴェイン/维恩,おう！　わかったぜ！,哦！　知道了！
+37,ランスロット/兰斯洛特,では……行くぞっ！,那么……上吧！
+info,,,scene_ult_chr110_ep1_q2_s10

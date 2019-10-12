@@ -1,0 +1,59 @@
+id,name,text,trans
+0-chapter_name,,第2話 異変,第2话 异变
+0-synopsis,,魔物を退け、孤児院にたどり着いた一行。アーサーとモルドレッドは孤児院の無事を確認した後、ジークフリートにこの後の調査への同行を願い出る。ジークフリートが渋々同行を認め、３人が再びブルグント地方へと歩を進めたのと同じ頃、ランスロットに率いられた白竜騎士団もまた、ブルグント地方へと出立するのだった。,一行人击退了魔物，并到达了孤儿院。亚瑟和莫德雷德在确认孤儿院的安全后，请求陪同齐格飞进行此后的调查。 就在齐格飞不情愿地允许他们陪同，三人再次踏上勃良第地区的路程时，兰斯洛特率领的白龙骑士团也动身前往勃良第。
+2,,<span class='scene-font-katari'>ジークフリートの教えを受けて</span><br><span class='scene-font-katari'>無事に魔物を倒した</span><br><span class='scene-font-katari'>アーサーとモルドレッド。</span>,<span class='scene-font-katari'>亚瑟和莫德雷德</span><br><span class='scene-font-katari'>在齐格飞的指导下</span><br><span class='scene-font-katari'>平安打倒了魔物。</span>
+6,,<span class='scene-font-katari'>その後、何事も無く</span><br><span class='scene-font-katari'>順調に道程を進んだ一行は、</span><br><span class='scene-font-katari'>孤児院の近くに到着する。</span>,<span class='scene-font-katari'>在那之后</span><br><span class='scene-font-katari'>一行人顺利地到达了</span><br><span class='scene-font-katari'>孤儿院的附近。</span>
+7,,<span class='scene-font-katari'>アーサーとモルドレッドは</span><br><span class='scene-font-katari'>物陰から孤児院の様子を</span><br><span class='scene-font-katari'>窺うのだった。</span>,<span class='scene-font-katari'>亚瑟和莫德雷德</span><br><span class='scene-font-katari'>在暗地里偷偷观察着</span><br><span class='scene-font-katari'>孤儿院的样子。</span>
+8,アーサー/亚瑟,良かった～！<br>この辺りは何事も起きて無さそうだね！,太好了～！<br>好像这附近什么都没有发生呢！
+9,モルドレッド/莫德雷德,へへっ、シスターもチビ達も<br>いつも通り遊んでるな。,嘿嘿、修女和小不点们<br>也像平常一样在玩呢。
+10,ジークフリート/齐格飞,お前達、<br>顔を見せなくていいのか？,你们，<br>不露个脸也行吗？
+12,アーサー/亚瑟,うーん……大丈夫！,嗯——……没关系！
+13,モルドレッド/莫德雷德,会うと色々大変だし、<br>それに……,见到了会很辛苦的，<br>而且……
+14,アーサー/亚瑟,俺達、騎士団長になったら<br>会いに来ることにしてるから！,我们，约定了<br>等成为骑士团长再来见他们！
+15,モルドレッド/莫德雷德,そういうこと！,就是这样！
+16,ジークフリート/齐格飞,ふっ……<br>殊勝な心がけだ。,呵……<br>精神值得钦佩呢。
+17,モルドレッド/莫德雷德,それに他にも目的ができたしな！<br>アーサー！,而且还有其他的目的呢！<br>亚瑟！
+18,アーサー/亚瑟,うん！　できた！,嗯！　有呢！
+19,ジークフリート/齐格飞,……目的とは何だ？<br>既にお前達の目的は果たしただろう？,……什么目的啊？<br>你们已经完成目的了吧？
+20,,<span class='scene-font-katari'>アーサーとモルドレッドは、</span><br><span class='scene-font-katari'>おずおずとジークフリートに</span><br><span class='scene-font-katari'>向かって頭を下げる。</span>,<span class='scene-font-katari'>亚瑟和莫德雷德，</span><br><span class='scene-font-katari'>心虚地向齐格飞</span><br><span class='scene-font-katari'>低下了头。</span>
+21,アーサー/亚瑟,その……俺達、<br>このままジークフリートさんに<br>ついて行っちゃダメかな？,那个……我们，<br>能不能就这样和齐格飞<br>一同去呢？
+22,ジークフリート/齐格飞,ダメだ。<br>この先はどんな危険が<br>あるか分からん。,不行。<br>在这前面<br>可不知道有怎样的危险。
+23,モルドレッド/莫德雷德,分かってる！　<br>危なくなったら王都に帰るから！,我知道的！　<br>如果有危险我们就回王都！
+24,アーサー/亚瑟,ジークフリートさんの言う事には<br>絶対従うから！,我们会绝对服从齐格飞先生<br>说的话的啦！
+25,ジークフリート/齐格飞,……ダメに決まっているだろう。<br>お前達はただの足手まといだ、<br>不安要素は可能な限り減らしたい。,……绝对不行。<br>你们只是累赘，<br>而我想要尽可能地减少不安的要素。
+26,モルドレッド/莫德雷德,足手まといなのは分かってる。<br>でも、オレ達このままじゃ<br>騎士団長になんかなれない。,我知道会成为累赘。<br>但是，就这样下去我们<br>是无法成为骑士团长的。
+27,アーサー/亚瑟,……ジークフリートさんが<br>ヨゼフ陛下から色々教わったみたいに<br>俺達も色々教わりたいんだ！,……就像齐格飞先生<br>被约瑟夫殿下传授了很多东西一样，<br>我们也想学习各种各样的东西！
+28,ジークフリート/齐格飞,お前達……,你们啊……
+29,,<span class='scene-font-katari'>一歩も引かないアーサーと</span><br><span class='scene-font-katari'>モルドレッドの言葉を受けて、</span><br><span class='scene-font-katari'>とうとう天を仰ぐジークフリート。</span>,<span class='scene-font-katari'>齐格飞听了</span><br><span class='scene-font-katari'>完全不退让的亚瑟和莫德雷德的话，</span><br><span class='scene-font-katari'>仰望向天空。</span>
+30,ジークフリート/齐格飞,やれやれ……<br>仕方ない。,真是的……<br>没办法。
+31,ジークフリート/齐格飞,お前達を連れてきてしまった時点で<br>俺の敗北は決まっていたか……,决定带着你们的时候<br>就已经是我的败北了吗……
+32,アーサー/亚瑟,……えっ！　じゃあいいの！,……诶！　那么可以吗！
+33,モルドレッド/莫德雷德,一緒に連れて行ってくれるんですか！　<br>,你要带着我们一起去吗！　<br>
+34,ジークフリート/齐格飞,……色々と考えてみたが、<br>無理やりついて来られるよりは、<br>安全性が高いと考えたまでだ。,……我试着想了很多，<br>果然比起你们强行跟着来，<br>还是我带着你们比较安全。
+35,ジークフリート/齐格飞,だが、<br>くれぐれも勝手な行動はするな。,但是，<br>请不要擅自行动。
+36,,<span class='scene-font-katari'>この時、本来の自分なら、</span><br><span class='scene-font-katari'>絶対に下すことのないであろう決断に、</span><br><span class='scene-font-katari'>ジークフリート自身が心底驚いていた。</span>,<span class='scene-font-katari'>这时，对于原本的自己</span><br><span class='scene-font-katari'>绝对不会做出的决定，</span><br><span class='scene-font-katari'>齐格飞自己打心眼里感到惊讶。</span>
+37,アーサー/亚瑟,うわぁー！<br>ジークフリートさん大好き！,哇ー！<br>最喜欢齐格飞先生了！
+38,ジークフリート/齐格飞,それから……<br>少しでも身の危険を感じたら<br>お前達だけですぐに逃げろ。,在这之后……<br>就算只感受到了一点点危险，<br>你们就自己逃走吧。
+39,ジークフリート/齐格飞,決して戦おうなどとは<br>考えるな。,绝对不要想着<br>战斗。
+40,モルドレッド/莫德雷德,分かりました！<br>約束は守ります！,我知道了！<br>我会遵守约定的！
+41,ジークフリート/齐格飞,……では、<br>改めてブルグント地方へ急ぐぞ。,……那么，<br>赶紧上路去勃艮第吧。
+42,アーサー＆モルドレッド,はいっ！,是！
+43,,<span class='scene-font-katari'>こうして、ジークフリートは</span><br><span class='scene-font-katari'>アーサーとモルドレッドを連れて</span><br><span class='scene-font-katari'>再度ブルグント地方を目指す。</span>,<span class='scene-font-katari'>就这样，齐格飞</span><br><span class='scene-font-katari'>带着亚瑟和莫德雷德</span><br><span class='scene-font-katari'>再次前往勃艮第。</span>
+47,,<span class='scene-font-katari'>その頃、ランスロット率いる</span><br><span class='scene-font-katari'>白竜騎士団は、ブルグント地方へ</span><br><span class='scene-font-katari'>向かうべく、王都を出立する。</span>,<span class='scene-font-katari'>这时，兰斯洛特带领的</span><br><span class='scene-font-katari'>白龙骑士团，向着勃艮第</span><br><span class='scene-font-katari'>离开了王都。</span>
+48,ランスロット/兰斯洛特,じゃあヴェイン、<br>留守は任せたぞ。,那么维恩，<br>拜托你驻守啦。
+49,ヴェイン/维恩,あいよランちゃん！<br>こっちは大丈夫だから、<br>安心して行ってらっしゃい！,好的兰酱！<br>这里没问题的，<br>你安心地走吧！
+50,ランスロット/兰斯洛特,ああ、行ってくる。,嗯，我走了。
+51,,<span class='scene-font-katari'>ランスロットは白竜騎士団の面々に</span><br><span class='scene-font-katari'>振り返って、剣を高く掲げた。</span>,<span class='scene-font-katari'>兰斯洛特转过身</span><br><span class='scene-font-katari'>面对白龙骑士团的众人，高高地举起了剑。</span>
+52,ランスロット/兰斯洛特,誇り高き、竜の騎士達よ！<br>今こそ、ブルグント地方の<br>騒動を鎮めるぞ！,荣耀的龙骑士们！<br>现在前往镇压勃艮第的骚动！
+53,白竜騎士団団員達,おーっ！,哦！
+54,,<span class='scene-font-katari'>出陣する騎士団をキラキラした瞳で</span><br><span class='scene-font-katari'>眺める見習い騎士達の中で、</span><br><span class='scene-font-katari'>ひとり不安げな表情のトネリロがいた。</span>,<span class='scene-font-katari'>在羡慕地看着出阵的骑士团</span><br><span class='scene-font-katari'>的见习骑士们中，</span><br><span class='scene-font-katari'>托涅立罗表现出不安的神情。</span>
+55,トネリロ/托涅利罗,<span class='scene-font-2'>ねぇ、クルスくん……</span><br><span class='scene-font-2'>アーサーとモルドレッドが</span><br><span class='scene-font-2'>いないんだけど知らない？</span>,<span class='scene-font-2'>那个，库鲁斯君……</span><br><span class='scene-font-2'>你知不知道亚瑟和莫德雷德</span><br><span class='scene-font-2'>不见了？</span>
+56,クルス/库鲁斯,<span class='scene-font-2'>いや……知らないな</span>,<span class='scene-font-2'>额……不知道呢。</span>
+57,トネリロ/托涅利罗,<span class='scene-font-2'>えーっ……困ったなぁ……<br><span class='scene-font-2'>どこに行っちゃったんだろう？</span>,<span class='scene-font-2'>诶……糟糕了…<br><span class='scene-font-2'>到底去哪里了啊？</span>
+58,クルス/库鲁斯,<span class='scene-font-2'>この辺りにはいない様だな……</span>,<span class='scene-font-2'>好像不在这附近的样子……</span>
+59,ヘンリー/亨利,おう、お前達！<br>見習い騎士達は宿舎で休んでろってさ！<br>あの馬鹿コンビにも伝えておけよ！,喂，你们！<br>见习骑士要在宿舍休息啊！<br>也告诉那对笨蛋组合吧！
+60,トネリロ/托涅利罗,う、うん分かった！<br>伝えておくね！,呜，嗯，我知道了！<br>我会告诉他们的！
+61,トネリロ/托涅利罗,<span class='scene-font-kokoro'>（二人とも……早く帰ってこないと</span><br><span class='scene-font-kokoro'>点呼の時間に間に合わないよぉ～）</span>,<span class='scene-font-kokoro'>（那两个人……不早点回来的话</span><br><span class='scene-font-kokoro'>就赶不上点名的时间了～）</span>
+62,,<span class='scene-font-katari'>アーサーとモルドレッドの不在に</span><br><span class='scene-font-katari'>いち早く気付いたトネリロは、</span><br><span class='scene-font-katari'>ひとり胸を痛めるのであった。</span>,<span class='scene-font-katari'>早早地注意到</span><br><span class='scene-font-katari'>亚瑟和莫德雷德不在的托涅利罗，</span><br><span class='scene-font-katari'>一个人烦恼着。</span>
+info,,,scene_evt190927_cp2_q2_s30
+译者,,,myu

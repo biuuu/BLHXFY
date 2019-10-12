@@ -1,0 +1,122 @@
+id,name,text,trans
+0-chapter_name,,第1話 日常,第1話 日常
+0-synopsis,,ある日、王都の練兵場で、ランスロットとヴェインに見守られながら、ひよこ班の面々が稽古に励んでいた。そこへヨゼフ王の墓参りを終えたジークフリートが稽古をつけにやってくる。ジークフリートとの稽古の順番を他の見習い騎士達に譲ったアーサーとモルドレッドに黒竜騎士団時代の話をねだられたランスロットは、当時を穏やかに語り出すのだった。,某天，在王都的练兵场，兰斯洛特和维恩边看护着，边鼓励着小鸡班练习。齐格飞在扫完约瑟夫王的墓后便前来陪他们练习。亚瑟和莫德雷德把与齐格飞的练习战的顺序让给其他见习骑士先，兰斯洛特被他们追问黑龙骑士团时的事，安然地开始了讲述。
+8,,<span class='scene-font-katari'>王都一帯が見渡せる丘の上の墓地で、</span><br><span class='scene-font-katari'>独り物思いに耽るジークフリート。</span>,<span class='scene-font-katari'>在可以一览王都一带的山丘上的墓地边，</span><br><span class='scene-font-katari'>齐格飞独自陷入了沉思。</span>
+9,,<span class='scene-font-katari'>墓参りをしているジークフリートは、</span><br><span class='scene-font-katari'>手慣れた様子で</span><br><span class='scene-font-katari'>墓前に野花を供えている。</span>,<span class='scene-font-katari'>前来扫墓的齐格飞，</span><br><span class='scene-font-katari'>熟练地</span><br><span class='scene-font-katari'>在墓前供奉上了野花。</span>
+10,ジークフリート/齐格飞,ヨゼフ様……<br>今日も王都は平和です。,约瑟夫大人……<br>今天的王都也很平和。
+11,,<span class='scene-font-katari'>黙祷を終えたジークフリートが</span><br><span class='scene-font-katari'>顔を上げた先には、王都の練兵場で</span><br><span class='scene-font-katari'>稽古をする騎士達の姿が見えた。</span>,<span class='scene-font-katari'>齐格飞完成了默祷</span><br><span class='scene-font-katari'>抬起头看到的是，在王都的练兵场上</span><br><span class='scene-font-katari'>练习着的骑士们的身影。</span>
+17,アーサー/亚瑟,<span class='scene-font-4'>ふっ！　はっ！　やあぁぁっ！</span>,<span class='scene-font-4'>呼！　哈！　呀啊啊啊！</span>
+18,モルドレッド/莫德雷德,うっ……くっ……しまっ……！,呜……咕……糟了……！
+19,アーサー/亚瑟,へへっ！　もらったぁー！,嘿嘿！　这场胜利我就收下啦ー！
+20,,<span class='scene-font-katari'>相手の劣勢に勢いづいたアーサーは、</span><br><span class='scene-font-katari'>大きく振りかぶった渾身の一撃を</span><br><span class='scene-font-katari'>モルドレッドに打ち込む。</span>,<span class='scene-font-katari'>亚瑟趁着对方处于不利的势头</span><br><span class='scene-font-katari'>向莫德雷德挥出了</span><br><span class='scene-font-katari'>大幅度的倾注全身力量的一击。</span>
+21,モルドレッド/莫德雷德,ふふっ……隙ありっ！,呵呵……有破绽！
+23,アーサー/亚瑟,うわっ……！,呜哇……！
+24,,<span class='scene-font-katari'>全体重を乗せた踏み込みの隙を</span><br><span class='scene-font-katari'>利用されて、モルドレッドに</span><br><span class='scene-font-katari'>倒されるアーサー	</span>,<span class='scene-font-katari'>莫德雷德利用了</span><br><span class='scene-font-katari'>重心集中于落脚处的空隙，</span><br><span class='scene-font-katari'>把亚瑟打倒了	</span>
+25,モルドレッド/莫德雷德,<span class='scene-font-4'>はっ！</span>,<span class='scene-font-4'>哈！</span>
+26,,<span class='scene-font-katari'>倒れたアーサーの喉元に</span><br><span class='scene-font-katari'>木剣を突き付けるモルドレッド。</span>,<span class='scene-font-katari'>莫德雷德把木剑剑尖对准了</span><br><span class='scene-font-katari'>被打倒的亚瑟的喉咙。</span>
+27,アーサー/亚瑟,ま、参った……,我，我输了……
+28,ランスロット/兰斯洛特,勝負あり、そこまで。,胜负已决，到此为止。
+29,モルドレッド/莫德雷德,へっへー！　オレの勝ちだな！,嘿嘿！　是我的胜利！
+31,アーサー/亚瑟,くっそー！　やられたぁ～！,可恶ー！　被干掉了～！
+32,ランスロット/兰斯洛特,相手の力を利用した、<br>見事なカウンターだったな。<br>モルドレッド。,利用了对手的力量，<br>做出了相当漂亮的反击呢。<br>莫德雷德。
+33,モルドレッド/莫德雷德,はいっ！<br>ありがとうございます！,是！<br>非常感谢！
+35,ヴェイン/维恩,おーおー！　その技！<br>もしかして前に俺が教えたやつか？,喔ー喔ー！　那个技巧！<br>莫非是我之前教你的那个？
+36,モルドレッド/莫德雷德,へへっ……当たりです！<br>まさかこんなに上手くいくとは<br>思いませんでしたけど！,嘿嘿……你猜对了！<br>虽然我也没预料到<br>会进行得这么顺利！
+37,アーサー/亚瑟,うぅ～悔しい！<br>モルドレッド！　もう一回勝負だ！,呜呜～好不甘心！<br>莫德雷德！　再比试一次！
+38,モルドレッド/莫德雷德,おーいいぜ！<br>何度だってオレが勝ってやる……,喔ー可以啊！<br>无论再比几次我都会赢给你看……
+39,,<span class='scene-font-katari'>その時、アーサーとモルドレッドの間に</span><br><span class='scene-font-katari'>弾き飛ばされた木剣が転がってくる。</span>,<span class='scene-font-katari'>就在这时，亚瑟和莫德雷德之间</span><br><span class='scene-font-katari'>掉下了一把被弹飞的木剑。</span>
+40,トネリロ/托涅利罗,ま、参りました……！,我，我输了……！
+41,クルス/库鲁斯,トネリロ……<br>よそ見をしているからだ。,托涅利罗……<br>都是因为你一直在东张西望才会输的。
+42,トネリロ/托涅利罗,ご、ごめんねっ！<br>クルスくん……,对，对不起！<br>库鲁斯君……
+43,クルス/库鲁斯,別に謝る必要はない。,你没必要道歉。
+44,,<span class='scene-font-katari'>稽古に励むひよこ班の前に、</span><br><span class='scene-font-katari'>聞きなれた声が飛び込んでくる。</span>,<span class='scene-font-katari'>在刻苦练习的小鸡班的面前</span><br><span class='scene-font-katari'>突然插进了一道耳熟的声音。</span>
+46,ヘンリー/亨利,おーおー！<br>ピヨピヨやってるかお前達！,喂ー喂ー！<br>你们还在叽叽乱叫吗！
+47,モルドレッド/莫德雷德,うげー<br>またオマエかよー,呜诶ー<br>又是你啊ー
+48,ヘンリー/亨利,ふふん！<br>同じ見習い騎士なんだから<br>俺もいて当然だろ？,哼哼！<br>我和你们一样也是见习骑士啊<br>在这里也是理所当然的吧？
+49,アーサー/亚瑟,あれ、ヘンリーは何の訓練するの？,啊咧，亨利是要训练什么呢？
+50,ヘンリー/亨利,そんなの決まってるだろ？<br>今日はあのお方が来るから<br>俺の実力を認めてもらおうと思って……,那种事还用问吗？<br>因为今天那位大人要来了<br>我想让他认可我的实力……
+51,,<span class='scene-font-katari'>その時、練兵場にいた</span><br><span class='scene-font-katari'>見習い騎士達の間に</span><br><span class='scene-font-katari'>流れていた空気が一変する。</span>,<span class='scene-font-katari'>就在这时，练兵场里</span><br><span class='scene-font-katari'>见习骑士们之间</span><br><span class='scene-font-katari'>氛围突然一变。</span>
+53,ジークフリート/齐格飞,待たせたな、お前達。,让你们久等了。
+54,ヘンリー/亨利,<span class='scene-font-kokoro'>（うおぉぉぉぉぉ！</span><br><span class='scene-font-kokoro'>カッケェェェェー！）</span>,<span class='scene-font-kokoro'>（唔噢噢噢噢噢噢！</span><br><span class='scene-font-kokoro'>好帅气啊！）</span>
+55,ヘンリー/亨利,<span class='scene-font-kokoro'>（これがあの伝説の黒竜騎士団団長</span><br><span class='scene-font-kokoro'>ジークフリートォォォォァァァ！）</span>,<span class='scene-font-kokoro'>（这就是传说中的黑龙骑士团团长</span><br><span class='scene-font-kokoro'>齐格飞啊啊啊啊啊！）</span>
+56,ランスロット/兰斯洛特,ご無沙汰してます、<br>ジークフリートさん！,好久不见<br>齐格飞桑！
+57,アーサー/亚瑟,あ～っ！<br>ジークフリートさん<br>また遅刻ですかー？,啊～！<br>齐格飞桑<br>你又迟到了吗ー？
+58,モルドレッド/莫德雷德,いやいや、<br>今日は早かった方だろ？,不不不，<br>今天还算早的吧？
+59,アーサー/亚瑟,あれ？　今日は姬塔さんと<br>パーシヴァルさんは<br>一緒じゃないんですか？,啊咧？　今天不是和<br>姬塔桑和帕西瓦尔桑<br>在一起吗？
+60,ジークフリート/齐格飞,ああ、姬塔とパーシヴァルは<br>所用があるらしく、<br>ウェールズに行くと言っていたな。,嗯，姬塔和帕西瓦尔<br>好像有事要办<br>说要去威尔兹一趟。
+61,モルドレッド/莫德雷德,あーあ……せっかく最強メンバーが<br>勢ぞろいして、稽古を付けて<br>もらえそうだったのに残念だなー,啊ー啊……难得最强的成员们都聚齐了，<br>还以为能陪我们练习呢<br>真遗憾啊ー
+62,,<span class='scene-font-katari'>残念そうなアーサーとモルドレッドに</span><br><span class='scene-font-katari'>ランスロットが震えながら近づく。</span>,<span class='scene-font-katari'>对着一脸遗憾的亚瑟和莫德雷德</span><br><span class='scene-font-katari'>兰斯洛特边颤抖着边走近了。</span>
+63,ランスロット/兰斯洛特,……お、おい！<br>お前達ッ！,……喂，喂！<br>你们俩啊！
+64,ランスロット/兰斯洛特,ジークフリートさんに<br>失礼な口を利くなッ！,对着齐格飞桑<br>怎么能说那么失礼的话呢！
+65,"アーサー＆モルドレッド",す、すみませんッ！,对，对不起！
+66,ジークフリート/齐格飞,ランスロット、<br>定刻に遅れた俺も悪い。,兰斯洛特，<br>是错过了约定时间的我不好。
+67,ジークフリート/齐格飞,二人をあまり責めないでくれ。,不必那么责怪他们俩。
+68,ランスロット/兰斯洛特,で、ですが……<br>こいつらには騎士としての<br>礼儀を厳しく教えねば。,但，但是……<br>必须好好严格教导他们<br>作为骑士该有的礼仪。
+69,ジークフリート/齐格飞,……ああ、そうだったな。,……嗯，说的也是啊。
+70,ジークフリート/齐格飞,いくら俺が騎士団を離れた者とはいえ、<br>礼儀を蔑ろにしてはいけないな。,即使我这个已经离开了骑士团的人，<br>也不能轻视了礼仪啊。
+71,,<span class='scene-font-katari'>ジークフリートとランスロットが</span><br><span class='scene-font-katari'>話す傍で神妙な面持ちをしている</span><br><span class='scene-font-katari'>アーサーとモルドレッド。</span>,<span class='scene-font-katari'>在齐格飞和兰斯洛特谈话期间</span><br><span class='scene-font-katari'>站在旁边的亚瑟和莫德雷德</span><br><span class='scene-font-katari'>都摆出一副乖巧听话的样子。</span>
+72,ヘンリー/亨利,んなふっ……！<br>あ、あいつらいつの間に……？<br>ジークフリートさんと親しげにいっ！,怎么会……！<br>那，那些家伙是什么时候……？<br>和齐格飞桑变得这么亲近的！
+73,ヴェイン/维恩,実はな……みんなが長期休暇で<br>故郷に帰ってた間に、二人は<br>王都に残ってたんだけどさ～,其实啊……在大家因为长假<br>回去故乡的期间，<br>他们两人都留在了王都～
+74,ヴェイン/维恩,その時に、ジークフリートさんと<br>たまたま練兵場で知り合って、密かに<br>稽古を付けてもらってたんだってよ～,就在那时，和齐格飞桑<br>在练兵场偶遇认识了，<br>被秘密地陪着练习的样子呢～
+75,ヘンリー/亨利,そ、そうだったんですね……,原，原来是这样啊……
+76,ヘンリー/亨利,<span class='scene-font-kokoro'>（くそっ……</span><br><span class='scene-font-kokoro'>なんでまたあいつらだけ……！）</span>,<span class='scene-font-kokoro'>（可恶……</span><br><span class='scene-font-kokoro'>为什么又是只有那两家伙……！）</span>
+77,トネリロ/托涅利罗,すごいなぁ、二人とも……！<br>僕は知り合うきっかけがあっても<br>きっとあんな風にはなれないな～,两个人都，好厉害啊……！<br>就算我有那个认识的机会<br>肯定也不会变成他们那个样子吧～
+78,クルス/库鲁斯,……ふむ。,……嗯。
+79,トネリロ/托涅利罗,クルスくん、どうしたの？,库鲁斯君，怎么了？
+80,クルス/库鲁斯,いや、何でもない。,不，没什么。
+81,クルス/库鲁斯,<span class='scene-font-kokoro'>（やはり……とてつもない、力だ）</span>,<span class='scene-font-kokoro'>（果然是……非常庞大的，力量啊）</span>
+82,トネリロ/托涅利罗,伝説の黒竜騎士団団長が<br>目の前にいるなんて信じられないよね。,真让人难以置信啊<br>传说中的黑龙骑士团团长居然就在眼前。
+83,,<span class='scene-font-katari'>その場に集まった全ての騎士達の</span><br><span class='scene-font-katari'>羨望の眼差しを一身に集める</span><br><span class='scene-font-katari'>ジークフリート。</span>,<span class='scene-font-katari'>齐格飞的身上</span><br><span class='scene-font-katari'>聚集了在场所有骑士们的</span><br><span class='scene-font-katari'>羡艳的目光。</span>
+84,,<span class='scene-font-katari'>ランスロットは、騎士達を前に</span><br><span class='scene-font-katari'>ジークフリートから鍛練を受ける</span><br><span class='scene-font-katari'>意義について改めて語る。</span>,<span class='scene-font-katari'>兰斯洛特在骑士们</span><br><span class='scene-font-katari'>受齐格飞训练之前</span><br><span class='scene-font-katari'>再次重申了一下训练的意义。</span>
+85,ランスロット/兰斯洛特,今日は、ジークフリートさんが<br>皆に特別に稽古を付けてくれる。,今天，齐格飞桑<br>将陪大家进行特别的练习。
+86,ランスロット/兰斯洛特,このまたとない貴重な機会に、<br>ジークフリートさんの胸を借りて<br>思う存分学ぶように。,希望大家借这个仅有一次的宝贵的机会<br>向齐格飞桑讨教<br>尽力地去学习。
+87,見習い騎士達,<span class='scene-font-4'>はいっ！</span>,<span class='scene-font-4'>是！</span>
+88,,<span class='scene-font-katari'>ランスロットの言葉を受けて</span><br><span class='scene-font-katari'>期待や不安が入り混じる見習い騎士達。</span>,<span class='scene-font-katari'>见习骑士们听了兰斯洛特这番话</span><br><span class='scene-font-katari'>露出了期待中夹杂着不安的样子。</span>
+89,ジークフリート/齐格飞,では、稽古を始めよう。,那么，开始练习吧。
+90,ヘンリー/亨利,お、お願いしますっ！,请，请多指教！
+91,トネリロ/托涅利罗,ぼ、僕達も行こうか！,我，我们也去吧！
+92,クルス/库鲁斯,ああ。,嗯。
+93,ランスロット/兰斯洛特,アーサーとモルドレッドは<br>こっちに来い。,亚瑟和莫德雷德<br>你们来这边。
+94,アーサー/亚瑟,……えっ？　あ、はいっ！,……诶？　啊，是！
+95,モルドレッド/莫德雷德,あの……なんでしょうか？,那个……是有什么事吗？
+96,,<span class='scene-font-katari'>ランスロットに連れられた</span><br><span class='scene-font-katari'>アーサーとモルドレッドは、</span><br><span class='scene-font-katari'>少し離れて皆の稽古の様子を見守る。</span>,<span class='scene-font-katari'>亚瑟和莫德雷德</span><br><span class='scene-font-katari'>被兰斯洛特带着</span><br><span class='scene-font-katari'>在稍微离开一点的地方守望着大家练习的模样。</span>
+97,ランスロット/兰斯洛特,お前達は、一番最後な。,你们俩，就排最后吧。
+98,アーサー/亚瑟,ええーっ！　そんなぁー！,诶诶ー！　怎么这样ー！
+99,モルドレッド/莫德雷德,まぁ……そんな気はしてました……,嘛啊……多多少少察觉到了……
+100,ランスロット/兰斯洛特,お前達は、ジークフリートさんから<br>個別に稽古を付けて貰ってたんだろ？,你们俩，已经接受过<br>齐格飞桑的单独指导练习了吧？
+101,ランスロット/兰斯洛特,順番ぐらいは、<br>他の皆に譲ってやれ。,现在的顺序<br>就让给别人先吧。
+102,アーサー/亚瑟,……あ！　そうか！<br>それもそうですね！,……啊！　是这样啊！<br>说的也是呢！
+103,モルドレッド/莫德雷德,諦めるの早いなっ！,你也放弃的太早了吧！
+104,アーサー/亚瑟,だって……<br>ランスロット団長の言う通りだもん！,因为……<br>兰斯洛特团长说得很有道理啊！
+105,モルドレッド/莫德雷德,ま、オマエがそういうなら<br>オレは別にいいけどよ……,嘛，既然你都这么说了<br>我也无所谓啦……
+106,モルドレッド/莫德雷德,順番とかにコダワルのも<br>ガキくせーしな。,而且纠结顺序这种事<br>超幼稚的呢。
+107,ランスロット/兰斯洛特,ふっ……<br>それでこそ騎士だ。,呵……<br>这才是骑士该有的胸怀。
+109,ヴェイン/维恩,さっすがランちゃん！<br>騎士として大切な自制心まで<br>教えてくれるなんて！,不愧是兰酱！<br>连作为骑士来说十分重要的自制心<br>都教给他们了！
+110,,<span class='scene-font-katari'>ランスロットの指導を見て</span><br><span class='scene-font-katari'>ぶんぶんと大袈裟に頷くヴェイン。</span>,<span class='scene-font-katari'>看着兰斯洛特的教育指导</span><br><span class='scene-font-katari'>维恩呼呼地夸张地点着头。</span>
+111,モルドレッド/莫德雷德,そう言えば、ヴェイン副団長は<br>ジークフリートさんと<br>稽古とかしたことあるんですか？,说起来，维恩副团长<br>有和齐格飞桑<br>打过练习战吗？
+112,ヴェイン/维恩,うえっ……俺か？,呜诶……我吗？
+113,ヴェイン/维恩,それは……秘密だ。,那是……秘密。
+114,アーサー/亚瑟,秘密ってことは<br>やっぱり特訓したんですね！,你都说了秘密了<br>果然是有特训过吧！
+115,ランスロット/兰斯洛特,……秘密？<br>特訓とは何だヴェイン？,……秘密？<br>是什么特训啊维恩？
+116,ヴェイン/维恩,え、いや、その！<br>……何でもないって！,诶，不，那个！<br>……什么都没有啦！
+117,ヴェイン/维恩,そんなことより……！<br>ジークフリートさんって<br>昔よりだいぶ丸くなったよな。,比起那个……！<br>齐格飞桑比起以前<br>变得更柔和了呢。
+118,ランスロット/兰斯洛特,……ん？<br>ああ……そうだな。,……嗯？<br>啊啊……是啊。
+119,ランスロット/兰斯洛特,黒竜騎士団の団長だった頃は、<br>今ほど気軽に口を利ける<br>雰囲気でもなかったからな。,在作为黑龙骑士团团长的那时候<br>他那周身的氛围<br>让人很难像现在一样轻松随意地向他搭话。
+120,モルドレッド/莫德雷德,そう……なんですよね。,是……这样吗。
+121,ランスロット/兰斯洛特,どうしたモルドレッド？<br>急にしおらしくなって。,怎么了莫德雷德？<br>突然变得老实了。
+122,モルドレッド/莫德雷德,いや、ジークフリートさんが<br>すごい人だっていうのは、<br>分かるんですけど……,不那个，虽然我知道<br>齐格飞桑<br>是非常了不起的人……
+123,モルドレッド/莫德雷德,正直……噂話に聞く<br>竜殺しのジークフリートさんとは<br>全然イメージが結びつかなくて。,但是说实话……和传闻中的<br>屠龙的齐格飞桑<br>完全印象挂不上钩啊。
+124,アーサー/亚瑟,ああ～！　それ分かるかも！<br>俺も、ジークフリートさんが<br>ほわっとした温かい人で驚いたもん！,啊啊～！　我懂我懂！<br>我也，因为齐格飞桑出乎意料的温和<br>吓了一大跳呢！
+125,モルドレッド/莫德雷德,だよな？　黒竜騎士団団長時代の<br>ジークフリートさんが<br>想像できないよな。,是吧？　黑龙骑士团团长时期的<br>齐格飞桑<br>真是难以想象啊。
+126,,<span class='scene-font-katari'>ジークフリートの偉大さを</span><br><span class='scene-font-katari'>いまいち実感していないふたりを見て、</span><br><span class='scene-font-katari'>にやりと笑うランスロット。</span>,<span class='scene-font-katari'>看着两个人还是缺了点</span><br><span class='scene-font-katari'>对齐格飞的伟大之处的实感</span><br><span class='scene-font-katari'>兰斯洛特微微地笑了。</span>
+127,ランスロット/兰斯洛特,……知りたいか？<br>ジークフリートさんのこと。,……想知道吗？<br>齐格飞桑的事。
+128,アーサー/亚瑟,……えっ？　あ、はいっ！,……诶？　嗯，是的！
+129,モルドレッド/莫德雷德,知りたいです！,想知道！
+130,ランスロット/兰斯洛特,いいだろう……<br>ちょうど時間もあるしな。,可以啊……<br>正好现在有点时间。
+131,ランスロット/兰斯洛特,こうして待っている間に、<br>黒竜騎士団団長時代の<br>思い出話をしてやろう。,在这里等着的这期间，<br>就让我来讲讲<br>黑龙骑士团团长时期的回忆吧。
+132,ヴェイン/维恩,おぉー！　俺もその話は<br>改めて聞いてみたいなー！,噢噢ー！　我也想再听一次<br>那些事呢ー！
+133,ランスロット/兰斯洛特,ふふっ……良かったら<br>ヴェインも一緒に聞いてくれ。,呵呵……可以的话<br>维恩你也一起来听吧。
+134,ランスロット/兰斯洛特,そう……あれは俺とパーシヴァルが、<br>黒竜騎士団の副団長に就任した日の<br>ことだった……,是的……那是我和帕西瓦尔<br>就任黑龙骑士团副团长<br>那一天的事……
+135,,<span class='scene-font-katari'>ランスロットは、</span><br><span class='scene-font-katari'>過日を懐かしむように</span><br><span class='scene-font-katari'>穏やかに語り始める。</span>,<span class='scene-font-katari'>兰斯洛特</span><br><span class='scene-font-katari'>一脸怀念过去岁月的样子</span><br><span class='scene-font-katari'>沉稳地开始了讲述。</span>
+info,,,scene_evt190927_cp1_q1_s10
+译者,,,

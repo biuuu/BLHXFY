@@ -1,0 +1,40 @@
+﻿id,name,text,trans
+0-chapter_name,,第2話 異変,第2话 异变
+0-synopsis,,廃村を発見したジークフリート達。村に覚えがある様子のジークフリートは、アーサーとモルドレッドを待機させ、単身で廃屋へと入っていく。廃屋内の地下へと続く隠された扉の先には謎の研究室が広がっていた。驚くジークフリートの前に、突如グンターが現れる。グンターはアーサーとモルドレッドを人質にとり、動けばふたりを殺すとジークフリートを脅迫するのだった。,齐格飞他们发现了废村。齐格飞看起来对村子有印象，于是他让亚瑟和莫德雷德待机，一个人进入了废屋。齐格飞向废屋的地下探索，隐藏的门内出现了迷之实验室。在惊讶的齐格飞面前，古达突然现身。古达把亚瑟和莫德雷德作为人质，并威胁齐格飞敢动的话就杀了他们。
+1,,<span class='scene-font-katari'>ジークフリート達が進んだ先には、</span><br><span class='scene-font-katari'>廃村が広がっていた。</span>,<span class='scene-font-katari'>在齐格飞前进的路上，</span><br><span class='scene-font-katari'>出现了一个废弃的村庄。</span>
+2,アーサー/亚瑟,うわぁ～<br>なんか薄気味悪いね……,呜哇～<br>总觉得阴森森的呢……
+3,モルドレッド/莫德雷德,ここ、村だったのかな？<br>ずいぶん前から<br>誰も住んでないみたいだけど。,这里，以前大概是村庄吧？<br>但是荒废的就像<br>很久以前就没人住了一样。
+4,ジークフリート/齐格飞,ここは……,这里是……
+5,,<span class='scene-font-katari'>そのままジークフリートは、</span><br><span class='scene-font-katari'>アーサーとモルドレッドを置いて</span><br><span class='scene-font-katari'>どこかへ歩き出してしまう。</span>,<span class='scene-font-katari'>这时齐格飞，</span><br><span class='scene-font-katari'>突然丢下亚瑟和莫德雷德，</span><br><span class='scene-font-katari'>向某处迈出了脚步。</span>
+6,モルドレッド/莫德雷德,ジークフリートさん？<br>どこに行くんですか？,齐格飞先生？<br>要去哪里？
+7,アーサー/亚瑟,あ、待ってくださいよー！,啊、等一下ー！
+8,ジークフリート/齐格飞,…………,…………
+13,,<span class='scene-font-katari'>ジークフリートは、</span><br><span class='scene-font-katari'>明確な足取りで</span><br><span class='scene-font-katari'>一軒の廃屋の前に辿り着いた。</span>,<span class='scene-font-katari'>齐格飞他，</span><br><span class='scene-font-katari'>明确地</span><br><span class='scene-font-katari'>摸索到了一间废弃的屋子前。</span>
+14,ジークフリート/齐格飞,……お前達は<br>外で待っていてくれ。,……你们<br>在外面等着。
+15,アーサー/亚瑟,……分かりました。,……知道了。
+16,アーサー/亚瑟,<span class='scene-font-2'>なんかジークフリートさん</span><br><span class='scene-font-2'>変じゃない？</span>,<span class='scene-font-2'>总觉得齐格飞先生</span><br><span class='scene-font-2'>有点奇怪？</span>
+17,モルドレッド/莫德雷德,<span class='scene-font-2'>ヘンだな……</span><br><span class='scene-font-2'>何か上の空っつーか</span><br><span class='scene-font-2'>心ここにあらずな感じ？</span>,<span class='scene-font-2'>说是奇怪……</span><br><span class='scene-font-2'>好像是因为什么漫不经心，</span><br><span class='scene-font-2'>心不在焉的感觉？</span>
+18,モルドレッド/莫德雷德,……ジークフリートさんも<br>気をつけて下さいよ。,……齐格飞先生也<br>务必小心。
+19,ジークフリート/齐格飞,ああ……,嗯嗯……
+20,,<span class='scene-font-katari'>アーサーとモルドレッドと離れて</span><br><span class='scene-font-katari'>廃屋の中へと入ったジークフリートは、</span><br><span class='scene-font-katari'>部屋を調べ始める。</span>,<span class='scene-font-katari'>齐格飞和亚瑟与莫德雷德分开</span><br><span class='scene-font-katari'>进入了废屋之中，</span><br><span class='scene-font-katari'>开始调查这个房间。</span>
+24,ジークフリート/齐格飞,む……これは……,唔……这个是……
+25,,<span class='scene-font-katari'>不自然な床を発見した</span><br><span class='scene-font-katari'>ジークフリートは、</span><br><span class='scene-font-katari'>そこに地下室への階段を発見する。</span>,<span class='scene-font-katari'>齐格飞发现了不自然的地板</span><br><span class='scene-font-katari'>从那里发现了</span><br><span class='scene-font-katari'>通往地下室的阶梯。</span>
+26,ジークフリート/齐格飞,…………,…………
+27,,<span class='scene-font-katari'>ジークフリートは</span><br><span class='scene-font-katari'>意を決して地下へと降りて行く。</span>,<span class='scene-font-katari'>齐格飞决意</span><br><span class='scene-font-katari'>向地下行进。</span>
+31,ジークフリート/齐格飞,ここは……,这里是……
+32,,<span class='scene-font-katari'>廃屋の地下には、</span><br><span class='scene-font-katari'>何かの研究室が広がっていた。</span>,<span class='scene-font-katari'>废屋的地下室里，</span><br><span class='scene-font-katari'>某个实验室展现眼前。</span>
+33,ジークフリート/齐格飞,…………,…………
+34,,<span class='scene-font-katari'>その時、ジークフリートは</span><br><span class='scene-font-katari'>後ろに何者かの気配を感じて</span><br><span class='scene-font-katari'>振り返った。</span>,<span class='scene-font-katari'>就在这时，</span><br><span class='scene-font-katari'>齐格飞感到了背后有什么人的气息，</span><br><span class='scene-font-katari'>于是回过头去。</span>
+35,？？？,久しぶりだな、<br>ジークフリート。,好久不见啊，<br>齐格飞。
+36,ジークフリート/齐格飞,……グンター！<br>……お前、生きていたのか？,……古达！<br>……你，还活着吗？
+37,,<span class='scene-font-katari'>突然目の前に現れた、</span><br><span class='scene-font-katari'>かつての王立騎士団長グンターに</span><br><span class='scene-font-katari'>驚きを隠せないジークフリート。</span>,<span class='scene-font-katari'>面对突然出现在眼前的，</span><br><span class='scene-font-katari'>曾经的国立骑士团团长古达，</span><br><span class='scene-font-katari'>齐格飞无法掩饰自己的震惊。</span>
+39,グンター,生きていた、とは随分なご挨拶だな？<br>もっと再会を喜んでくれても<br>いいんじゃないか？,活着哦，真是无情的问候呢？<br>为了再会表现得再开心一点<br>不好吗？
+40,アーサー/亚瑟,ジークフリートさん……！<br>ごめん……,齐格飞先生……！<br>对不起……
+41,モルドレッド/莫德雷德,オレ達……ドジっちまった……！,我们……一不小心就……！
+42,ジークフリート/齐格飞,アーサー！　モルドレッド！,亚瑟！　莫德雷德！
+43,グンター,動いたらこいつらを殺す。,敢动的话就把他们杀了。
+44,ジークフリート/齐格飞,くっ……,可恶……
+45,,<span class='scene-font-katari'>変わり果てた姿のグンターに、</span><br><span class='scene-font-katari'>人質に取られたアーサーと</span><br><span class='scene-font-katari'>モルドレッド。</span>,<span class='scene-font-katari'>面对彻底改变了面目，</span><br><span class='scene-font-katari'>将亚瑟和莫德雷德</span><br><span class='scene-font-katari'>绑作人质的古达。</span>
+46,,<span class='scene-font-katari'>ジークフリートは</span><br><span class='scene-font-katari'>グンターに言われるがまま、</span><br><span class='scene-font-katari'>身じろぎもせずにいた。</span>,<span class='scene-font-katari'>齐格飞</span><br><span class='scene-font-katari'>如古达说的一般，</span><br><span class='scene-font-katari'>一动不动。</span>
+info,,,scene_evt190927_cp2_q4_s10
+译者,,,poss
