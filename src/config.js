@@ -15,7 +15,7 @@ const config = {
   defaultEnName: 'Djeeta',
   font: '',
   fontBold: false,
-  transApi: 'caiyun',
+  transApi: 'google',
   timeout: 8,
   plainText: false,
   autoDownload: false,
@@ -41,7 +41,7 @@ const getLocalConfig = () => {
   }
   const keys = [
     'autoDownload', 'bottomToolbar', 'displayName', 'removeScroller', 'hideSidebar', 'originText',
-    'transJa', 'transEn', 'keepBgm', 'transApi', 'font', 'fontBold', 'plainText', 'battleTrans'
+    'transJa', 'transEn', 'keepBgm', 'font', 'fontBold', 'plainText', 'battleTrans'
   ]
   keys.forEach(key => {
     let value = setting[key]
