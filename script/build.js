@@ -20,6 +20,7 @@ const build = async function (type = '') {
 // @grant        GM_xmlhttpRequest
 // @connect      translate.google.cn
 // @connect      api.interpreter.caiyunai.com
+// @connect      fanyi.baidu.com
 // @updateURL    https://blhx.danmu9.com/blhxfy/extension${type ? '.' + type : ''}.user.js
 // @supportURL   https://github.com/biuuu/BLHXFY/issues
 // ==/UserScript==`

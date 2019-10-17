@@ -74,9 +74,10 @@ const template = `
 				<div class="prt-button">
 					<div class="prt-select-box" style="margin:0 6px 0 0">
 						<div style="width:103px" id="trans-api-setting-blhxfy-pulldown" class="prt-list-pulldown btn-sort">
-							<div id="trans-api-setting-blhxfy-txt" class="txt-selected">Google翻译</div>
+							<div id="trans-api-setting-blhxfy-txt" class="txt-selected">Baidu翻译</div>
 							<select id="trans-api-setting-blhxfy" class="frm-list-select" onchange="window.blhxfy.sendEvent('setting', 'trans-api', this.value)">
-								<option value="google" selected>Google翻译</option>
+							<option value="google">Google翻译</option>
+							<option value="baidu" selected>Baidu翻译</option>
 							</select>
 						</div>
 					</div>

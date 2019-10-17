@@ -5,6 +5,11 @@ const glob = require('glob')
 const CSV = require('papaparse')
 const path = require('path')
 
+const bdsign = {
+  token: 'd0a372e3e02871d51c42606a18702e2b',
+  gtk: '320305.131321201'
+}
+
 const Glob = glob.Glob
 glob.promise = function (pattern, options) {
   return new Promise(function (resolve, reject) {
@@ -104,7 +109,7 @@ const start = async () => {
   await fse.emptyDir('./dist/blhxfy/data/')
   const hash = await md5Dir('./data/')
   console.log(hash)
-  await fse.writeJSON('./dist/blhxfy/manifest.json', { hash, version })
+  await fse.writeJSON('./dist/blhxfy/manifest.json', { hash, version, bdsign })
 
   console.log('move data files...')
   await fse.copy('./data/', './dist/blhxfy/data/')

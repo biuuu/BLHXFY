@@ -168,4 +168,4 @@ const receiveMessage = (event) => {
 window.addEventListener("message", receiveMessage, false)
 
 export default fetchWithHash
-export { getHash, insertCSS }
+export { getHash, insertCSS, fetchInfo }

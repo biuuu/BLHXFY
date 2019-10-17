@@ -11,7 +11,6 @@ import transApi from '../utils/translation'
 import setFont from '../setting/scenarioFont'
 
 const txtKeys = ['chapter_name', 'synopsis', 'detail', 'sel1_txt', 'sel2_txt', 'sel3_txt', 'sel4_txt', 'sel5_txt', 'sel6_txt']
-const WORDS_LIMIT = 4500
 
 const scenarioCache = {
   data: null,
@@ -66,34 +65,16 @@ const getStartIndex = (data) => {
 }
 
 const transMulti = async (list, nameMap, nounMap, nounFixMap, caiyunPrefixMap) => {
-  let count = 0
-  let strTemp = ''
-  const txtStr = []
+  
   const userName = config.userName
   const lang = Game.lang
-  const _list = removeHtmlTag(list.join('\n')).split('\n')
-  _list.forEach(txt => {
-    strTemp += txt
-    count += new Blob([txt]).size
-    if (count > WORDS_LIMIT) {
-      txtStr.push(strTemp)
-      count = 0
-      strTemp = ''
-    } else {
-      strTemp += '\n'
-    }
-  })
-  if (strTemp) {
-    txtStr.push(strTemp)
-  }
-
-  const transStr = await Promise.all(txtStr.map(txt => {
+  const _list = list.map(txt => {
     if (config.transApi === 'google') {
       if (lang === 'en') {
         txt = replaceWords(txt, nameMap, lang)
       }
       txt = replaceWords(txt, nounMap, lang)
-    } else if (config.transApi === 'caiyun') {
+    } else if (config.transApi === 'baidu') {
       txt = replaceWords(txt, caiyunPrefixMap, lang)
     }
     if (userName) {
@@ -105,13 +86,12 @@ const transMulti = async (list, nameMap, nounMap, nounFixMap, caiyunPrefixMap) =
         txt = replaceWords(txt, new Map([[userName, config.defaultName]]), _lang)
       }
     }
-    const targetLang = config.lang !== 'hant' ? 'zh-CN' : 'zh-TW'
-    return transApi(txt, lang, targetLang)
-  }))
-
-  return transStr.reduce((result, str) => {
-    let _str = str
-    if (str) {
+    return txt
+  })
+  const transList = await transApi(_list, lang)
+  const fixedList = transList.map(txt => {
+    let _str = txt
+    if (_str) {
       for (let [text, fix] of nounFixMap) {
         _str = _str.replace(new RegExp(text, 'g'), fix)
       }
@@ -123,10 +103,10 @@ const transMulti = async (list, nameMap, nounMap, nounFixMap, caiyunPrefixMap) =
           _str = _str.replace(new RegExp(`${config.defaultName}(先生|小姐)?`, 'g'), name)
         }
       }
-      return result.concat(_str.split('\n'))
     }
-    return result
-  }, [])
+    return _str
+  })
+  return fixedList
 }
 
 const getScenario = async (name) => {
@@ -289,7 +269,7 @@ const transStart = async (data, pathname) => {
       let transNotice = false
       const transApiName = {
         google: ['Google翻译', 'https://translate.google.cn'],
-        caiyun: ['彩云小译', 'http://www.caiyunapp.com/fanyi/']
+        baidu: ['百度翻译', 'https://fanyi.baidu.com/']
       }
       const apiData = transApiName[config.transApi]
       infoList.forEach((info, index) => {
