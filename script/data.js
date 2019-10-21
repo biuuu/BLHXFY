@@ -10,6 +10,8 @@ const bdsign = {
   gtk: '320305.131321201'
 }
 
+const cyweb_token = 't4d0s9zds4fw272poa11'
+
 const Glob = glob.Glob
 glob.promise = function (pattern, options) {
   return new Promise(function (resolve, reject) {
@@ -109,7 +111,7 @@ const start = async () => {
   await fse.emptyDir('./dist/blhxfy/data/')
   const hash = await md5Dir('./data/')
   console.log(hash)
-  await fse.writeJSON('./dist/blhxfy/manifest.json', { hash, version, bdsign })
+  await fse.writeJSON('./dist/blhxfy/manifest.json', { hash, version, bdsign, cyweb_token })
 
   console.log('move data files...')
   await fse.copy('./data/', './dist/blhxfy/data/')
