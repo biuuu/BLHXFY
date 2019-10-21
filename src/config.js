@@ -15,7 +15,7 @@ const config = {
   defaultEnName: 'Djeeta',
   font: '',
   fontBold: false,
-  transApi: 'google',
+  transApi: 'caiyun',
   timeout: 8,
   plainText: false,
   autoDownload: false,
@@ -49,8 +49,8 @@ const getLocalConfig = () => {
     if (isBoolean(value) || value) {
       config[key] = value
     }
-    if (key === 'transApi' && value === 'caiyun') {
-      config[key] = 'baidu'
+    if (key === 'transApi' && value === 'baidu') {
+      config[key] = 'caiyun'
     }
   })
 }

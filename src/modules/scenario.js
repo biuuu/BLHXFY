@@ -74,7 +74,7 @@ const transMulti = async (list, nameMap, nounMap, nounFixMap, caiyunPrefixMap) =
         txt = replaceWords(txt, nameMap, lang)
       }
       txt = replaceWords(txt, nounMap, lang)
-    } else if (config.transApi === 'baidu') {
+    } else if (config.transApi === 'caiyun') {
       txt = replaceWords(txt, caiyunPrefixMap, lang)
     }
     if (userName) {
@@ -92,6 +92,7 @@ const transMulti = async (list, nameMap, nounMap, nounFixMap, caiyunPrefixMap) =
   const fixedList = transList.map(txt => {
     let _str = txt
     if (_str) {
+      _str = _str.replace(/\n/g, '<br>')
       for (let [text, fix] of nounFixMap) {
         _str = _str.replace(new RegExp(text, 'g'), fix)
       }
@@ -99,9 +100,8 @@ const transMulti = async (list, nameMap, nounMap, nounFixMap, caiyunPrefixMap) =
         const name = config.displayName || userName
         if (lang === 'en') {
           _str = _str.replace(new RegExp(`${config.defaultEnName}`, 'g'), name)
-        } else {
-          _str = _str.replace(new RegExp(`${config.defaultName}(先生|小姐)?`, 'g'), name)
-        }
+        } 
+        _str = _str.replace(new RegExp(`${config.defaultName}(先生|小姐)?`, 'g'), name)
       }
     }
     return _str
@@ -269,7 +269,8 @@ const transStart = async (data, pathname) => {
       let transNotice = false
       const transApiName = {
         google: ['Google翻译', 'https://translate.google.cn'],
-        baidu: ['百度翻译', 'https://fanyi.baidu.com/']
+        baidu: ['百度翻译', 'https://fanyi.baidu.com/'],
+        caiyun: ['彩云小译', 'https://fanyi.caiyunapp.com/']
       }
       const apiData = transApiName[config.transApi]
       infoList.forEach((info, index) => {

@@ -6,6 +6,7 @@ import config from '../config'
 import bdsign from './bdsign'
 import { fetchInfo } from '../fetch'
 import { removeHtmlTag } from './index'
+import caiyunApi from './caiyun'
 
 const getTransResult = (data) => {
   if (data[0] && data[0].length) {
@@ -52,7 +53,7 @@ const splitText = (text, WORDS_LIMIT = 4000) => {
     }
   })
   if (strTemp) {
-    arr.push(strTemp)
+    arr.push(strTemp.replace(/\n$/, ''))
   }
   return arr
 }
@@ -156,9 +157,34 @@ const baiduTrans = async (source, from = 'jp') => {
   }
 }
 
+const caiyunTrans = async (source, from) => {
+  try {
+    let [query, br] = joinText(source)
+    let textArr = splitText(query)
+    let result = await Promise.all(textArr.map(query => {
+      return caiyunApi(query.split('\n'), from)
+    }))
+    let list = result.reduce((a, b) => a.concat(b))
+    let transArr = []
+    br.forEach(count => {
+      let i = count
+      let str = ''
+      while (i >= 0) {
+        i--
+        str += list.shift() + '\n'
+      }
+      transArr.push(str.slice(0, str.length - 1))
+    })
+    return transArr
+  } catch (e) {
+    console.log(e)
+    return []
+  }
+}
+
 export default async function (...args) {
-  if (config.transApi === 'baidu') {
-    return baiduTrans(...args)
+  if (config.transApi === 'caiyun') {
+    return caiyunTrans(...args)
   } else if (config.transApi === 'google') {
     return googleTrans(...args)
   }
