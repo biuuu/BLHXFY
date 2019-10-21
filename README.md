@@ -13,6 +13,7 @@
 
 提交翻译：[说明](https://github.com/BLHXFY-Group/BLHXFY/tree/master/data)
 
+[☁检查更新](https://blhx.danmu9.com/blhxfy/extension.user.js)
 ## Devlopment
 
 ```bash
