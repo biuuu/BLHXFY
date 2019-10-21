@@ -39,7 +39,6 @@ const build = async function (type = '') {
         exclude: 'node_modules/**',
         presets: [['@babel/preset-env', {
           modules: false,
-          useBuiltIns: 'usage',
           targets: targets
         }]]
       })
