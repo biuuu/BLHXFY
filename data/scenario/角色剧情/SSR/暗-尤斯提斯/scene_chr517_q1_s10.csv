@@ -3,7 +3,7 @@ id,name,text,trans
 0-synopsis,,ある日、普段と異なる伝達者から指令を受けたユーステスは、目的地へ向かう道中、本来の指令伝達者である上司のローナンと出会う。ローナンは組織がユーステスの構成員としての素質を疑問視している現状を伝え、勝手な行動を慎むよう警告する。ユーステスは組織がルリア達を狙っていることに感づき、ローナンの警告を無視するようにその場を立ち去るのだった。,某一天，尤斯缇斯从和平时不同的传令兵那里收到了指令，在向着目的地前进的路上，遇到了下达指令的上司罗南。罗南将组织正怀疑尤斯提斯是否有作为成员的素质一事告知与他，并警告他谨慎行动不要擅作主张。尤斯缇斯察觉到组织瞄准了露莉亚他们的性命，无视了罗南的警告离开了那里。
 1,？？？,<span class='scene-font-gray'>ブブブブブブ──</span>,<span class='scene-font-gray'>嘟嘟嘟嘟嘟嘟──</span>
 3,ユーステス/尤斯缇斯,…………,…………
-4,？？？,<span class='scene-font-gray'>新しい指令だ、ユーステス。</span>,<span class='scene-font-gray'>是新的指令，尤斯缇斯。</span>
+4,？？？,<span class='scene-font-gray'>新しい指令だ、ユーステス。</span>,<span class='scene-font-gray'>尤斯缇斯，有新的指令。</span>
 5,ユーステス/尤斯缇斯,…………,…………
 6,？？？,<span class='scene-font-gray'>とある街にて</span><span class='scene-font-spword'>『敵』</span><span class='scene-font-gray'>の</span><br><span class='scene-font-gray'>暗躍のきざしがみられる。</span>,<span class='scene-font-gray'>在某条街上发现了</span><span class='scene-font-spword'>『敌人』</span><span class='scene-font-gray'>的</span><br><span class='scene-font-gray'>秘密活动的苗头。</span>
 7,？？？,<span class='scene-font-gray'>すぐに向かい、</span><br><span class='scene-font-gray'>調査の上で阻止に動け。</span>,<span class='scene-font-gray'>即刻前往，</span><br><span class='scene-font-gray'>调查之后加以阻止。</span>
@@ -34,10 +34,10 @@ id,name,text,trans
 41,ローナン,……組織はお前の構成員としての<br>素質を疑問視し、見張っている。,……组织正在怀疑你<br>作为成员的素质，正监视着你。
 42,ローナン,私をお前から引き離したのも<br>その一環としてだ。,把我从你那里调开<br>也是其中一个环节。
 43,ユーステス/尤斯缇斯,……そうか。,……是嘛。
-44,ローナン,だが私は、お前が<br>組織に牙をむくことはないと<br>理解している。,但是我啊，知道你<br>绝不会反咬组织一口的。
+44,ローナン,だが私は、お前が<br>組織に牙をむくことはないと<br>理解している。,但是我啊，知道你<br>绝不会加害组织的。
 45,ユーステス/尤斯缇斯,…………,…………
-46,ローナン,お前が、故郷を滅ぼした『敵』への<br>感情を失わない限りはな。,只要你还没有失去<br>对毁灭了你故乡的『敌人』的情感的话。
-47,ローナン,幼いお前から、故郷を、平穏を、<br>全てを奪った『敵』の陰謀を、<br>覚えているだろう？,你还记得，从年幼的你那里，<br>将故乡，将安稳全部夺去的<br>『敌人』的阴谋吗？
+46,ローナン,お前が、故郷を滅ぼした『敵』への<br>感情を失わない限りはな。,只要你还没有失去<br>对毁灭了你故乡的『敌人』所抱有的情感的话。
+47,ローナン,幼いお前から、故郷を、平穏を、<br>全てを奪った『敵』の陰謀を、<br>覚えているだろう？,你还记得，从年幼的你那里，<br>将故乡，将安稳全部夺去的<br>『敌人』的阴谋吧？
 50,,<span class='scene-font-katari'>一瞬、</span><br><span class='scene-font-katari'>ユーステスの耳の奥に</span><br><span class='scene-font-katari'>雪原を焼く炎の慟哭が響いた。</span>,<span class='scene-font-katari'>一瞬间，</span><br><span class='scene-font-katari'>尤斯缇斯的耳朵深处</span><br><span class='scene-font-katari'>响起了燃烧雪原的火焰的恸哭。</span>
 53,ユーステス/尤斯缇斯,…………,…………
 54,ローナン,お前は成長し、力を手にし、<br>武器と契約した。,你也成长了，获得力量了，<br>也与武器签订契约了。
