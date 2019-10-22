@@ -1,0 +1,59 @@
+id,name,text,trans
+0-chapter_name,,ルルーシュ イン ザ スカイ,Lelouch in the Sky
+0-synopsis,,グルメイベント当日、ルルーシュ達は「ねこのピザ屋さん」と名付けたピザ屋を出店する。カレン、ナナリー、ジェレミアの呼び込み、厨房のルルーシュとウェイターのスザクの息の合った連携、C.C.監修の質の高いピザ、そして姬塔達の手伝いで店は大繁盛を見せる。しかし、そんなねこのピザ屋さんを忌々しげに見つめる人影があるのだった。,美食节当天，鲁鲁修等人以「猫咪披萨屋」的店名出店。在卡莲、娜娜莉、杰雷米亚的拉客、大厨鲁鲁修和服务生朱雀完美的连携、C.C.监修下的高品质披萨、以及姬塔等人的帮助下，披萨店生意兴隆。但是有一个人影在暗中用令人生厌的眼神瞪视着猫咪披萨屋。
+1,,<span class='scene-font-katari'>グルメイベントにピザ屋を出すために</span><br><span class='scene-font-katari'>必要な資材や食材の調達などを</span><br><span class='scene-font-katari'>全て完璧に手配するルルーシュ。</span>,<span class='scene-font-katari'>鲁鲁修将为了在美食节开披萨店</span><br><span class='scene-font-katari'>所需的食材全部完美地</span><br><span class='scene-font-katari'>安排就绪。</span>
+2,,<span class='scene-font-katari'>資材の搬入を終えてピザ屋の設営を</span><br><span class='scene-font-katari'>終えたルルーシュ達は、意気揚々と</span><br><span class='scene-font-katari'>イベント当日を迎えた。</span>,<span class='scene-font-katari'>将所需材料搬运完毕，</span><br><span class='scene-font-katari'>并将披萨店布置完毕的鲁鲁修等人</span><br><span class='scene-font-katari'>志得意满地迎来了美食节。</span>
+3,ルルーシュ/鲁鲁修,突貫だが、なんとか間に合ったな。,虽然时间短暂，但总算是赶上了。
+7,,<span class='scene-font-katari'>満足そうなルルーシュの</span><br><span class='scene-font-katari'>視線の先には、ビラを配る</span><br><span class='scene-font-katari'>ナナリー達の姿があった。</span>,<span class='scene-font-katari'>看起来很满足鲁鲁修</span><br><span class='scene-font-katari'>将视线投向正在分发传单的</span><br><span class='scene-font-katari'>娜娜莉等人。</span>
+8,ナナリー/娜娜莉,ねこのピザ屋さんです！<br>ねこちゃんの形のピザを<br>焼いていますよ。,这里是猫咪披萨屋！<br>我们烤出的披萨是<br>猫咪的形状哟。
+9,ナナリー/娜娜莉,どうぞよろしくお願いします。<br>にゃあ～,请多多关照。<br>喵～
+11,客１/客人１,ねこのピザ屋さん……？<br>聞いたことない店だが、<br>かわいらしい女の子だなぁ……！,猫咪披萨屋……？<br>虽然没听说过这店，<br>但真是可爱的女孩啊……！
+12,カレン/卡莲,カワイイカワイイ！<br>ねこのピザ屋さんでーすっ！,可爱可爱！<br>我们是猫咪披萨屋！
+13,カレン/卡莲,ニャンとも美味しい！<br>ねこ型ピザはいかがですか！<br>にゃあー！,超好吃喵！<br>尝尝猫咪形状的披萨吗！<br>喵ー！
+14,客２/客人２,むむっ！　こっちの女の子の<br>ヤケクソな接客もたまらんぞ！,嗯嗯！　这边这个女孩<br>自暴自弃状的接客态度让人忍不住啊！
+15,ジェレミア/杰雷米亚,猫ピザ！　いかがだろうか！<br>そこ行く人たちよ！,猫咪披萨！　不想尝尝吗！<br>路过这里的行人啊！
+16,客１/客人１,ぐっ……二人の傍にいる<br>あの妙な圧がある男のせいで<br>声をかけづらいな……,呜……都怪两人旁边的<br>那个有莫名气压的男人<br>让人很难上去搭话啊……
+17,,<span class='scene-font-katari'>話し合いの結果「ねこのピザ屋さん」と</span><br><span class='scene-font-katari'>名づけられたお店の前には、</span><br><span class='scene-font-katari'>開店早々人だかりが出来ていた。</span>,<span class='scene-font-katari'>在商量后决定以</span><br><span class='scene-font-katari'>「猫咪披萨屋」命名的店门口，</span><br><span class='scene-font-katari'>开业不久便已是人头攒动。</span>
+20,スザク/朱雀,オーダー！<br>マルゲリータキャット、ワン！<br>シーフードミックスキャット、ワン！,单子来了！<br>玛格丽塔喵，ONE（谐音汪）！<br>海鲜总汇喵，ONE（谐音汪）！
+21,ルルーシュ/鲁鲁修,ええい！　<br>猫なのか犬なのか<br>紛らわしいな！,诶诶！　<br>到底是猫是狗，<br>都被你搞得混乱了！
+22,スザク/朱雀,ルルーシュ。<br>一人で調理なんて大丈夫かい？,鲁鲁修。<br>一个人负责料理不要紧吗？
+23,ルルーシュ/鲁鲁修,心配するな。<br>そろそろ前のオーダー分が焼き上がる。<br>スザクは次の注文を取ってきてくれ！,别担心。<br>你下单的披萨快要烤好了。<br>朱雀你把下一个点单拿过来！
+24,スザク/朱雀,ああ！　わかった！,啊啊！　明白了！
+25,,<span class='scene-font-katari'>スザクがねこの顔型に整えたピザ生地に</span><br><span class='scene-font-katari'>美しく具材をトッピングしては、</span><br><span class='scene-font-katari'>次々とピザ窯に投入するルルーシュ。</span>,<span class='scene-font-katari'>朱雀在做成猫脸形状的披萨饼上</span><br><span class='scene-font-katari'>漂亮地撒上馅料，</span><br><span class='scene-font-katari'>鲁鲁修将披萨一块块放入窑中。</span>
+26,,<span class='scene-font-katari'>厨房のルルーシュとウェイターの</span><br><span class='scene-font-katari'>スザクは、息の合った連携で</span><br><span class='scene-font-katari'>ねこのピザ屋さんを回していた。</span>,<span class='scene-font-katari'>在负责厨房的鲁鲁修和服务生朱雀</span><br><span class='scene-font-katari'>完美无瑕的连携下，</span><br><span class='scene-font-katari'>猫咪披萨屋得以周转。</span>
+27,C.C.,ルルーシュ、<br>ピザはまだか？,鲁鲁修，<br>披萨还没好吗？
+28,ルルーシュ/鲁鲁修,C.C.！　お前な。<br>見てないで手伝え。,C.C.！　我说你啊。<br>不要光看着，快来帮忙。
+29,C.C.,私は味見役だと言っただろう。<br>私のおかげでこのピザの完成度に<br>なったのを忘れたのか。,我都说了我是负责试吃的了。<br>你可别忘了，<br>多亏我披萨才能有这样的完成度。
+30,ルルーシュ/鲁鲁修,確かにお前の舌のおかげで、<br>この味に到達することが出来た。<br>それは認める。,的确多亏了你的舌头，<br>才能做出这样的味道。<br>这点我承认。
+31,ルルーシュ/鲁鲁修,が、如何せん人手が足りん。<br>お前の手でも借りたいぐらいだ。,但是现在人手不足。<br>就连你我也想借来帮忙。
+32,C.C.,なんか引っかかる言い方だな。,这说法让人有点在意啊。
+33,ルルーシュ/鲁鲁修,ほら、C.C.も接客を頼む。,好了，C.C.，拜托你也去接客。
+34,C.C.,ふん。まあいい。<br>ナナリーのためでもあるからな。,哼。算了。<br>就当是为了娜娜莉。
+35,,<span class='scene-font-katari'>あまりの人気ぶりで客足が絶えない中、</span><br><span class='scene-font-katari'>ルルーシュが、C.C.にも接客を</span><br><span class='scene-font-katari'>手伝わせようとした、その時……</span>,<span class='scene-font-katari'>因为太过人气客人接踵而至，</span><br><span class='scene-font-katari'>鲁鲁修正打算拜托C.C.帮忙接客，</span><br><span class='scene-font-katari'>这时……</span>
+37,ルリア/露莉亚,わぁ～！<br>なんだか美味しそうな<br>匂いがしてきましたね～！,哇啊～！<br>这是什么闻起来<br>超美味的味道～！
+38,ビィ/碧,おっ！<br>ねこのピザ屋さんって<br>ここみてぇだな！,噢！<br>猫咪披萨屋<br>好像就是这里了！
+39,ナナリー/娜娜莉,ビィさん！　ルリアさん！<br>来てくれたんですね！,碧！　露莉亚！<br>你们也来了啊！
+40,カレン/卡莲,姬塔達も！<br>忙しいのに来てくれてありがとう！,姬塔你们也来了！<br>百忙之中抽空过来真是太感谢了！
+41,ビィ/碧,急にお店を出すって聞いて驚いたけど、<br>オイラ達も売り上げに貢献しに来たぜ！,突然听说你们要开店还真是震惊了下，<br>我们也来贡献营业额了！
+42,ジェレミア/杰雷米亚,姬塔！<br>ありがたき幸せ。,姬塔！<br>感激不尽。
+43,,<span class='scene-font-katari'>忙しそうな様子の店を見かねた</span><br><span class='scene-font-katari'>姬塔は、厨房に近づいて</span><br><span class='scene-font-katari'>ルルーシュに声をかける。</span>,<span class='scene-font-katari'>看着披萨店十分忙碌的样子，</span><br><span class='scene-font-katari'>姬塔走近厨房，</span><br><span class='scene-font-katari'>对鲁路修说道。</span>
+43-sel1_txt,,<span class='scene-font-katari'>接客を手伝おうか？</span>,<span class='scene-font-katari'>要帮忙接客吗？</span>
+43-sel2_txt,,<span class='scene-font-katari'>厨房を手伝おうか？</span>,<span class='scene-font-katari'>要帮忙厨房吗？</span>
+44,ルルーシュ/鲁鲁修,いいのか？<br>だがこれ以上迷惑をかけるわけには……,真的可以吗？<br>但我们不能再给你们添麻烦了……
+44-sel1_txt,,<span class='scene-font-katari'>ちょうど暇だったし！</span>,<span class='scene-font-katari'>正好我们也闲着！</span>
+45,ルルーシュ/鲁鲁修,姬塔、恩に着るよ。<br>ではC.C.とスザクと一緒に<br>接客を頼めるか？,姬塔，我又欠你们一个人情。<br>那我可以拜托你们<br>和朱雀还有C.C.一起接客吗？
+46,C.C.,よし、姬塔。<br>存分に手伝ってくれよ。,那好，姬塔。<br>就让你们倾力相助了。
+47,ルルーシュ/鲁鲁修,いいのか？<br>だがこれ以上迷惑をかけるわけには……,真的可以吗？<br>但我们不能再给你们添麻烦了……
+47-sel1_txt,,<span class='scene-font-katari'>楽しそうだからいいよ！</span>,<span class='scene-font-katari'>没事，看上去很有趣呢！</span>
+48,ルルーシュ/鲁鲁修,ありがとう、姬塔。<br>では、そこのピザ生地を<br>ねこの顔型にしてくれ。,谢谢，姬塔。<br>那么，你可以把那边的披萨面饼捏成<br>猫脸的形状吗？
+49,ビィ/碧,んじゃ！<br>オイラ達はビラ配りを手伝おうぜ！,嗯好！<br>那我来帮忙发传单！
+50,ナナリー/娜娜莉,いいんですか？,真的可以吗？
+51,ルリア/露莉亚,もちろんです！<br>私も頑張ります！　にゃあ～！,当然！<br>我也要加油了！　喵～！
+52,カレン/卡莲,ありがとう、ルリア。<br>それじゃあ一緒に配ろうか！,谢谢你，露莉亚。<br>那我们一起发传单吧！
+53,ジェレミア/杰雷米亚,まさに千客万来ですな。,简直就是千客万来啊。
+54,,<span class='scene-font-katari'>こうして、姬塔達がヘルプに</span><br><span class='scene-font-katari'>入ったことで、ねこのピザ屋さんは</span><br><span class='scene-font-katari'>更なる繁盛を見せる。</span>,<span class='scene-font-katari'>就这样，在姬塔等人的帮助下，</span><br><span class='scene-font-katari'>猫咪披萨屋</span><br><span class='scene-font-katari'>更加生意兴隆了。</span>
+58,怪しい男/可疑的男子,ふっ…………,哼…………
+59,,<span class='scene-font-katari'>だが、そんなねこのピザ屋さんの</span><br><span class='scene-font-katari'>快進撃を、遠くから忌々しそうに</span><br><span class='scene-font-katari'>見つめる人影があった。</span>,<span class='scene-font-katari'>然而，在远处有一个令人生厌的人影</span><br><span class='scene-font-katari'>瞪视着大获成功的</span><br><span class='scene-font-katari'>猫咪披萨屋。</span>
+60,,<span class='scene-font-katari'>不穏な視線に気づく者は誰もおらず</span><br><span class='scene-font-katari'>その日は売り上げトップの大盛況のまま</span><br><span class='scene-font-katari'>何事も無く営業を終えた一行であった。</span>,<span class='scene-font-katari'>没有人注意到这不和谐的视线，</span><br><span class='scene-font-katari'>在当日营业额第一的大盛况中，</span><br><span class='scene-font-katari'>一行人平安无事地结束了一天的营业。</span>
+info,,,scene_chr545_q2_s10
+译者,,,
