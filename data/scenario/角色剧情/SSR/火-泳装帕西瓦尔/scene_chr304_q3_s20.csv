@@ -1,0 +1,88 @@
+id,name,text,trans
+0-chapter_name,,マルモッコとの約束,与马尔摩科的约定
+0-synopsis,,密漁者を懲らしめ、衰弱したマルモッコ達を保護した一行。その後、パーシヴァルの尽力で、マルモッコの乱獲を禁じる保護条約が締結される。そして保護したマルモッコを海に返す日、海上のマルモッコ達はパーシヴァルに向かって親愛のダンスを踊る。その光景を見たパーシヴァルは、胸中でマルモッコ達と密かに約束を交わすのであった。,惩罚了盗猎者，保护了衰弱的马尔摩科的一行人。之后，在帕西瓦尔的努力下，缔结了禁止乱捕马尔摩科的保护条约。到了将马尔摩科放生的那天，海上的马尔摩科们向帕西瓦尔跳起了表达爱意的舞蹈。看着如此光景的帕西瓦尔，在心中默默交换了与马尔摩科之间的约定。
+1,？？？,ぐっ……待ち伏せだと。<br>なんでバレたんだ……,咕……居然有埋伏。<br>到底是怎么被人发现的……
+2,？？？,テ、テメェら……俺達の<br>マルモッコを横取りする気か。,你、你们这群家伙……<br>打算硬抢我们的马尔摩科吗？
+3,パーシヴァル/帕西瓦尔,ふん……汚らわしい。<br>貴様らの様な密漁者と<br>一緒にするな。,哼……真是肮脏<br>不要拿我和你们这群盗猎者相提并论。
+4,地元の漁師,俺達の神聖な海を<br>荒らしやがって！,竟敢把我们神圣的海域搅得乱七八糟！
+5,幼いマルモッコ,ミュウミュウ……<br>ミュウミュウ……,咪咪……<br>咪咪……
+6,,<span class='scene-font-katari'>密漁者達の漁船の甲板では、</span><br><span class='scene-font-katari'>傷ついた幼いマルモッコ達が</span><br><span class='scene-font-katari'>悲痛な鳴き声を上げていた。</span>,<span class='scene-font-katari'>盗猎者的甲板上，</span><br><span class='scene-font-katari'>传来受伤的幼小马尔摩科痛苦的叫声。</span>
+7,パーシヴァル/帕西瓦尔,貴様ら……<br>こんな幼いマルモッコまで。,你们这群家伙……<br>居然连这么小的马尔摩科都不放过。
+8,パーシヴァル/帕西瓦尔,……許さん。<br>今ここで、消し炭にしてやろう！,……不能原谅。<br>现在就把你们烧成炭！
+10,密漁者,ヒ、ヒィー！！<br>い、命だけは！,噫ー！！<br>留我一命吧！
+11,ビィ/碧,ト、トサカの兄ちゃん！<br>待て待て！　早まるなって！,火、火鸡哥！<br>等一下等一下！不要着急啊！
+12,ルリア/露莉亚,パ、パーシヴァルさん！<br>傷ついたマルモッコさん達を<br>早く助けないと！,帕，帕西瓦尔！<br>要尽快处理受伤的马尔摩科才行啊！
+13,パーシヴァル/帕西瓦尔,ぐっ……そうだったな。<br>こいつらの処分は後回しだ。,咕……是啊。<br>这群家伙的处分暂且推后吧。
+14,パーシヴァル/帕西瓦尔,ルシぬい！<br>衰弱したマルモッコから<br>先に保護するぞ！,姬塔！<br>从已经衰弱的马尔摩科开始保护起来！
+15,,<span class='scene-font-katari'>パーシヴァルの活躍によって</span><br><span class='scene-font-katari'>マルモッコの密漁者達は</span><br><span class='scene-font-katari'>自警団に引き渡された。</span>,<span class='scene-font-katari'>多亏了帕西瓦尔的活跃，</span><br><span class='scene-font-katari'>马尔摩科的盗猎者们被交给了自警团。</span>
+21,,<span class='scene-font-katari'>マルモッコ達の保護を終えて</span><br><span class='scene-font-katari'>一息ついたパーシヴァルは、</span><br><span class='scene-font-katari'>今回の事件の全貌を語り始める。</span>,<span class='scene-font-katari'>将马尔摩科保护起来之后，</span><br><span class='scene-font-katari'>松了口气的帕西瓦尔，</span><br><span class='scene-font-katari'>开始解释这次事件的全貌。</span>
+22,パーシヴァル/帕西瓦尔,……恐らく、マルモッコ達が漁船を<br>襲う様になったのは、密漁者達に<br>対する防衛本能が原因だろう……,……大概马尔摩科会袭击渔船<br>是出于对盗猎者的防御本能吧……
+23,ビィ/碧,オイラ達を密漁者と間違えて<br>襲いかかってきたのか！,是把我们误认为盗猎者<br>所以才袭击了我们吗！
+24,地元の漁師,なるほど！<br>それで……アバロニの件は？,原来如此！<br>所以…亚巴罗尼的事呢？
+25,パーシヴァル/帕西瓦尔,……実はな、アバロニの減少には<br>このマルモッコの密漁が関わっている。,……实际上，亚巴罗尼的减少<br>也和马尔摩科的盗猎有关系。
+26,ルリア/露莉亚,ど……どういうことですか？,这……这是怎么回事呢？
+27,パーシヴァル/帕西瓦尔,ふむ……<br>まずはこの文献に目を通して欲しい。,嗯……<br>首先想让你们看一下这份文献。
+28,,<span class='scene-font-katari'>パーシヴァルは、海洋学の文献を</span><br><span class='scene-font-katari'>一行の前にずらっと広げる。</span>,<span class='scene-font-katari'>帕西瓦尔将海洋学的文献</span><br><span class='scene-font-katari'>展开在一行人面前。</span>
+29,ルリア/露莉亚,うぅ～<br>なんだか難しいです～,嗯～<br>总感觉很复杂呢~
+30,パーシヴァル/帕西瓦尔,まぁ待て。<br>この文献から俺が導き出した<br>仮説なんだが、結論を言うと──,稍等一下。<br>虽然这是我从这份文献里面得出的假说，<br>结论上来说就是——
+31,パーシヴァル/帕西瓦尔,マルモッコの乱獲が行われた事で<br>この海域の生態系が破壊され、<br>それに起因してアバロニが減少した。,由于马尔摩科遭到滥捕，<br>导致这片海域的生态平衡被破坏，<br>这成为了亚巴罗尼减少的起因。
+32,地元の漁師,……乱獲……生態系の破壊？<br>で、でもマルモッコ様は、<br>アバロニを好んで食べるはず……,……滥捕……生态平衡被破坏？<br>但、但是马尔摩科大人<br>应该是很喜欢吃亚巴罗尼才对啊……
+33,地元の漁師,マルモッコ様が減ったら、<br>アバロニが増えるんじゃ？,马尔摩科大人减少了的话<br>亚巴罗尼的数量不应该变多吗？
+34,パーシヴァル/帕西瓦尔,ああ。一時的に増えるかもしれない。<br>だが、マルモッコが主食としている<br>蟹やウニも同時に増えることになる。,嗯。短时间内数量或许会增加。<br>但是与此同时，<br>作为马尔摩科主食的螃蟹和海胆也会变多。
+35,パーシヴァル/帕西瓦尔,……確か、お前は以前に、<br>蟹が増えていると言っただろう？<br>ウニはどうだ、増えてはいないか？,…我记得，<br>你之前说过螃蟹变多了吧？
+36,地元の漁師,あ、ああ！<br>確かに蟹やウニが増えてたような！,啊，哦！<br>确实螃蟹和海胆都变多了！
+37,パーシヴァル/帕西瓦尔,マルモッコという天敵が減少し、<br>蟹達が増え続けるその陰で<br>ウニたちも増え続けていたんだ。,作为天敌的马尔摩科变少之后，<br>螃蟹和海胆的数量都继续增加。
+38,パーシヴァル/帕西瓦尔,そうしてウニたちが増えることで、<br>次はケルプの森が食い荒らされる。,这样一来因为海胆的数量不断增加，<br>接下来就轮到海藻森林被啃食殆尽。
+39,パーシヴァル/帕西瓦尔,アバロニはケルプの新芽を主食とする。<br>ケルプの森から新芽が無くなったら、<br>アバロニはどうなる？,亚巴罗尼以海藻森林的新芽作为主食。<br>要是凯尔布森林的新芽都没有了，<br>亚巴罗尼会怎么样？
+40,ルリア/露莉亚,……あ！　<br>ご飯が無くなって、<br>死んじゃいます！,……啊！　<br>因为没有饭吃，<br>所以会饿死！
+41,パーシヴァル/帕西瓦尔,そうだ……これが俺の考える<br>アバロニが著しく数を減らした原因だ。,没错……这就是我思考出来的，<br>ア亚巴罗尼显著减少的原因。
+42,地元の漁師,そ、そうだったのか……,原……原来是这样吗……
+43,ビィ/碧,す、すげぇ……<br>トサカの兄ちゃんって、学者みてぇだな。,好、好厉害……<br>火鸡哥，好像学者一样。
+44,パーシヴァル/帕西瓦尔,いや、まだ仮説の域を出ないからな。<br>今後も観測を続ける必要がある。,不，现阶段依然是假说，<br>今后有继续观察的必要。
+45,パーシヴァル/帕西瓦尔,だが……漁師よ。<br>先人の知恵とは素晴らしいものだな。,不过……渔夫啊。<br>先人的智慧是很美妙的东西哦。
+46,地元の漁師,先人の知恵？<br>何のことです？,先人的智慧？<br>您指的是？
+47,パーシヴァル/帕西瓦尔,いや、代々お前達が<br>マルモッコ達と適切な<br>距離を保っていたのは──,没别的，你们的先人代代相传<br>让你们与马尔摩科保持适当的距离——
+48,パーシヴァル/帕西瓦尔,きっと、人間とマルモッコ達が、<br>共存していくための知恵だ。,那一定是为了让人类和马尔摩科们共存的智慧。
+49,パーシヴァル/帕西瓦尔,ふっ……此度の依頼は、<br>俺にとっても学ぶ所が多かった。,哼……这次的委托，<br>对我而言也收获良多。
+50,,<span class='scene-font-katari'>と、満足そうに笑うパーシヴァル。</span><br><span class='scene-font-katari'>その後の彼の活躍には、</span><br><span class='scene-font-katari'>目を見張るものがあった。</span>,<span class='scene-font-katari'>就这样帕西瓦尔满足地笑了。</span><br><span class='scene-font-katari'>这之后他的活跃也令人惊叹不已。</span>
+54,,<span class='scene-font-katari'>海洋研究者の第一人者たちを集めて、</span><br><span class='scene-font-katari'>今後の</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>の生態系を守る</span><br><span class='scene-font-katari'>マルモッコ保護条約の草案を作り──</span>,<span class='scene-font-katari'>他召集海洋研究的最高权威们，</span><br><span class='scene-font-katari'>针对今后</span><span class='scene-font-place'>阿奎斯特</span><span class='scene-font-katari'>生态系的保护，</span><br><span class='scene-font-katari'>制定了马尔摩科保护条约的草案——</span>
+55,,<span class='scene-font-katari'>漁業組合や地元民の支持を受けて、</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>の首都ミザレアの</span><br><span class='scene-font-katari'>区議会に保護条約を提出する──</span>,<span class='scene-font-katari'>得到了渔业工会以及当地人民的支持后，</span><br><span class='scene-font-katari'>他向</span><span class='scene-font-place'>阿奎斯特</span><span class='scene-font-katari'>的首都米泽雷亚的区议会提案保护条约——</span>
+56,,<span class='scene-font-katari'>こうしたパーシヴァルの迅速な行動が</span><br><span class='scene-font-katari'>実を結び、マルモッコ保護条約は</span><br><span class='scene-font-katari'>異例の速さで締結される運びとなった。</span>,<span class='scene-font-katari'>就这样帕西瓦尔的迅猛的行动有了成果，</span><br><span class='scene-font-katari'>马尔摩科保护条约异常迅速地被签订并运行起来。</span>
+60,,<span class='scene-font-katari'>そうして月日は流れ、怪我の回復した</span><br><span class='scene-font-katari'>マルモッコ達を海に返す日が訪れた。</span>,<span class='scene-font-katari'>就这样过了一段时间，</span><br><span class='scene-font-katari'>伤势复原的马尔摩科们迎来了回归大海的日子。</span>
+61,,<span class='scene-font-katari'>静かに凪いだ大海原を</span><br><span class='scene-font-katari'>じっと見つめるパーシヴァル。</span>,<span class='scene-font-katari'>帕西瓦尔直直望着平静的海面。</span>
+62,,<span class='scene-font-katari'>沖合に停泊する漁船からは、</span><br><span class='scene-font-katari'>マルモッコ達が水飛沫を上げながら</span><br><span class='scene-font-katari'>一頭一頭放されていく。</span>,<span class='scene-font-katari'>在浅海停泊着的渔船上，</span><br><span class='scene-font-katari'>伴着翻起的水花</span><br><span class='scene-font-katari'>马尔摩科们被一只一只地放生。</span>
+63,ルリア/露莉亚,ううぅ……うえぇ～ん！！<br><span class='scene-font-kokoro'>（モ、モコさん……お元気で……）</span>,嗯……唔欸！！！<br><span class='scene-font-kokoro'>（摩……摩科……要保重啊……）</span>
+64,ビィ/碧,おいおいルリア！<br>笑顔で見送ってやれって！,喂喂露莉亚！<br>应该要用笑容目送它们离开啊！
+65,ルリア/露莉亚,わ、わかってますぅ……<br>で、でも……やっぱり……<br>お別れは悲しいです……ぐすっ……,我，我明白……<br>但是，但是……果然还是……<br>要分别还是很伤心……咕……
+66,ビィ/碧,ったく……しょうがねぇなぁ。<br>トサカの兄ちゃんを見てみろよ！<br>いつも通りにしてるぜ！,真是的……拿你没办法呢。<br>你看看火鸡哥！<br>他还是和往常一样呢！
+67,パーシヴァル/帕西瓦尔,…………,…………
+68,,<span class='scene-font-katari'>特に別れを惜しむ事も無く、</span><br><span class='scene-font-katari'>厳しい表情のパーシヴァル。</span>,<span class='scene-font-katari'>帕西瓦尔神情严肃</span><br><span class='scene-font-katari'>似乎对分别没有特别不舍。</span>
+69,,<span class='scene-font-katari'>最後のマルモッコを見届けた</span><br><span class='scene-font-katari'>パーシヴァルは一行に告げる。</span>,<span class='scene-font-katari'>目送最后的马尔摩科离开，</span><br><span class='scene-font-katari'>帕西瓦尔对一行人说道。</span>
+70,パーシヴァル/帕西瓦尔,……行くぞ。,……走吧。
+71,ルリア/露莉亚,パーシヴァルさんは、<br>お別れしなくていいんですか？,帕西瓦尔不告别也没关系吗？
+72,パーシヴァル/帕西瓦尔,人間に慣れ過ぎてしまえば、<br>マルモッコ達の身に余計な<br>危険が及ぶことは明白だ。,太过亲近人类，<br>明显会给马尔摩科招致不必要的危险。
+73,ビィ/碧,まぁ……<br>その通り、なんだけどよぉ。<br>最後ぐらい、いいんじゃねぇか？,的确……话是这样说，<br>但是至少最后告个别也没关系吧？
+74,パーシヴァル/帕西瓦尔,いいから出せ。,够了，出发吧。
+75,,<span class='scene-font-katari'>パーシヴァルの一声で、</span><br><span class='scene-font-katari'>船は何事も無かったように反転し、</span><br><span class='scene-font-katari'>マルモッコ達の元から離れていく。</span>,<span class='scene-font-katari'>帕西瓦尔一声令下</span><br><span class='scene-font-katari'>渔船似乎无事发生过一般掉了个头，</span><br><span class='scene-font-katari'>离开马尔摩科们的身边。</span>
+76,,<span class='scene-font-katari'>名残惜しそうに、マルモッコ達を</span><br><span class='scene-font-katari'>見つめるルリアは、何かに気付いた。</span>,<span class='scene-font-katari'>依依惜别般注视着马尔摩科们的露莉亚</span><br><span class='scene-font-katari'>似乎察觉到了什么。</span>
+77,ルリア/露莉亚,……あっ！　パーシヴァルさん！<br>みて下さい！,……啊！帕西瓦尔！<br>快看！
+78,,<span class='scene-font-katari'>ルリアの声に振り返った</span><br><span class='scene-font-katari'>パーシヴァルの瞳には――</span>,<span class='scene-font-katari'>听到露莉亚的声音回头的帕西瓦尔</span><br><span class='scene-font-katari'>眼中看到的是——</span>
+79,,<span class='scene-font-katari'>奇妙な動きを繰り返す、</span><br><span class='scene-font-katari'>マルモッコ達の姿が映る。</span>,<span class='scene-font-katari'>重复做着奇妙动作的马尔摩科们。</span>
+80,マルモッコ,キュウキュウ！<br>キュキュキュウ！,啾啾！啾啾啾！
+81,マルモッコ,キュウキュウ！<br>キュキュキュウ！,啾啾！啾啾啾！
+82,マルモッコ,キュウキュウ！<br>キュキュキュウ！,啾啾！啾啾啾！
+83,マルモッコ,キュウキュウ！<br>キュキュキュウーン！,啾啾！啾啾啾~！
+84,パーシヴァル/帕西瓦尔,…………,…………
+85,海洋学者,こ、これは……すごい！,这，这真是了不得！
+86,パーシヴァル/帕西瓦尔,どうした？,怎么了？
+87,海洋学者,あれは、マルモッコ達が<br>親愛の情を示す時に行う<br>パフォーマンスです……,那是马尔摩科们表达亲爱之意时的动作……
+88,海洋学者,ですが……群れ全体で<br>この様な行動をするなんて……<br>こんなの初めて見ましたよ！,但是……集体作出这样的行为……<br>这种情况我是第一次见到！
+89,,<span class='scene-font-katari'>熱っぽく語る海洋学者を見て、</span><br><span class='scene-font-katari'>ふと、パーシヴァルの胸中に</span><br><span class='scene-font-katari'>堪えていた何かが込み上げる。</span>,<span class='scene-font-katari'>看着热情讲解的海洋学家，</span><br><span class='scene-font-katari'>倏然，帕西瓦尔的心中</span><br><span class='scene-font-katari'>有些无法再压抑的东西涌上来。</span>
+90,パーシヴァル/帕西瓦尔,<span class='scene-font-kokoro'>（……ありがとう。</span><br><span class='scene-font-kokoro'>この海は、お前達に任せた。）</span>,<span class='scene-font-kokoro'>（……谢谢。这片海就交给你们了。）</span>
+91,パーシヴァル/帕西瓦尔,<span class='scene-font-kokoro'>（次の夏も……またその次の夏も、</span><br><span class='scene-font-kokoro'>変わらずこの美しい海を見せてくれ。）</span>,<span class='scene-font-kokoro'>（下一个夏天……再下一个夏天</span><br><span class='scene-font-kokoro'>也要让我见识这片美丽依旧的海洋啊。）</span>
+92,,<span class='scene-font-katari'>パーシヴァルの些細な変化を</span><br><span class='scene-font-katari'>感じ取ったルシぬいは、</span><br><span class='scene-font-katari'>必死に言葉を紡ごうとする。</span>,<span class='scene-font-katari'>察觉到了帕西瓦尔细微变化的姬塔</span><br><span class='scene-font-katari'>拼命想要编织着话语。</span>
+93,,<span class='scene-font-katari'>だが、ルシぬいは</span><br><span class='scene-font-katari'>その言葉を飲み込んで、</span><br><span class='scene-font-katari'>彼の横顔を盗み見る。</span>,<span class='scene-font-katari'>但姬塔还是将这些话语吞回去，</span><br><span class='scene-font-katari'>悄悄地望着他的侧脸。</span>
+94,,<span class='scene-font-katari'>乱反射する銀の光に包まれた</span><br><span class='scene-font-katari'>燃えるような赤髪の彼は──</span>,<span class='scene-font-katari'>被水面反射的银色光芒包裹着</span><br><span class='scene-font-katari'>有炽烈如火的红发的他——</span>
+95,,<span class='scene-font-katari'>少し寂しそうな微笑を</span><br><span class='scene-font-katari'>ふっと浮かべた様に見えた。</span>,<span class='scene-font-katari'>似乎不经意间露出了有点寂寞的微笑。</span>
+info,,,scene_chr304_q3_s20
+译者,,,

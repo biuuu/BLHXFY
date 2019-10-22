@@ -1,0 +1,45 @@
+id,name,text,trans
+0-chapter_name,,マルモッコとの約束,与马尔摩科的约定
+0-synopsis,,休暇中のパーシヴァルの元へ、地元の漁師達が相談に訪れる。それは、アバロニと呼ばれる巻貝の漁獲量が落ちている原因を探って欲しいという内容だった。依頼を引き受けた一行が海へ出ると、そこで一行はマルモッコと呼ばれる海獣に襲われるのだった。,当地的渔民们前来拜访休假中的帕西瓦尔有事与之相商。其内容是，希望帕西瓦尔可以查明名为亚巴罗尼的贝类捕获量变少的原因。接受委托后一行人出海，在海上遭遇到名为马尔摩科的海兽的袭击。
+0,,<span class='scene-font-katari'>激しく時化る大海原を</span><br><span class='scene-font-katari'>睨みつけるパーシヴァル。</span>,<span class='scene-font-katari'>帕西瓦尔望着风雨交加的海面。</span>
+1,,<span class='scene-font-katari'>彼を乗せた漁船は、</span><br><span class='scene-font-katari'>白波を立てて進む。</span>,<span class='scene-font-katari'>他所搭乘的渔船乘着汹涌波涛前进。</span>
+2,パーシヴァル/帕西瓦尔,ふっ……<br>わざわざ同行するとは、<br>物好きなやつだな。,哼……<br>还特意和我走这一趟，<br>你还真是个闲不下来家伙。
+3,パーシヴァル/帕西瓦尔,ん……どうした？<br>ルシぬい、少し顔色が悪いぞ？,嗯……你怎么了？<br>姬塔，你的脸色不太好？
+4,,<span class='scene-font-katari'>その時、荒波に翻弄された</span><br><span class='scene-font-katari'>漁船が大きく傾いだ。</span>,<span class='scene-font-katari'>就在这时，</span><br><span class='scene-font-katari'>渔船受到巨浪的冲击而剧烈倾斜。</span>
+8,,<span class='scene-font-katari'>遡る事、数刻前──</span>,<span class='scene-font-katari'>事情追溯至数小时前——</span>
+12,,<span class='scene-font-katari'>サマーベッドに寝そべり、</span><br><span class='scene-font-katari'>海洋学についての文献を</span><br><span class='scene-font-katari'>読み耽るパーシヴァル。</span>,<span class='scene-font-katari'>帕西瓦尔躺在沙滩床上</span><br><span class='scene-font-katari'>专心阅读着有关海洋学的文献。</span>
+13,,<span class='scene-font-katari'>優雅な午後のひと時を過ごす</span><br><span class='scene-font-katari'>彼の元に、地元の漁師達が</span><br><span class='scene-font-katari'>ぞろぞろと相談に訪れた。</span>,<span class='scene-font-katari'>就在他享受着短暂的优雅午后时光时，</span><br><span class='scene-font-katari'>当地渔民一个接着一个前来找他商量事情。</span>
+14,地元の漁師,アンタが……何でも相談に<br>乗ってくれるっていう<br>パーシヴァルさんかい？,你就是……<br>什么事能够商量的帕西瓦尔吗？
+15,パーシヴァル/帕西瓦尔,……その様な安い通り名を<br>もらった覚えは無いが。,……我可不记得我接受过这种廉价的外号。
+16,地元の漁師,でも、燃えるような赤髪の男って<br>アンタの事じゃ？,但是，有着仿佛烈火般赤色头发的男人<br>说的就是你吧？
+17,パーシヴァル/帕西瓦尔,確かに、俺がパーシヴァルだ。<br>で、いったい何の用だ？,确实，我就是帕西瓦尔。<br>所以你找我有什么事？
+18,,<span class='scene-font-katari'>すると漁師達は、アバロニと呼ばれる</span><br><span class='scene-font-katari'>巻貝の漁獲量が落ちている原因を</span><br><span class='scene-font-katari'>調査して欲しいと頼み込む。</span>,<span class='scene-font-katari'>于是渔民们委托帕西瓦尔</span><br><span class='scene-font-katari'>调查一种名叫亚巴罗尼的贝类捕获量减少的原因。</span>
+19,パーシヴァル/帕西瓦尔,ふむ……<br>この辺りの海域で取れる<br>高級食材のアバロニか。,嗯……<br>调查这片海域能收获的高级食材亚巴罗尼吗？
+20,地元の漁師,アバロニを知ってるのかい？,你知道亚巴罗尼吗？
+21,パーシヴァル/帕西瓦尔,ああ……ちょうど今、<br>海洋学についての文献を<br>読み漁っていた所でな。,嗯……<br>正好我在看有关海洋学的文献。
+22,地元の漁師,なら話が早い！　お願いだ！<br>どうか俺達の力になってくれないか？<br>このままじゃ……俺達の生活が……,那就好说了！拜托你了！<br>能请您成为我们的助力吗？<br>这样下去的话……我们的生活就……
+23,,<span class='scene-font-katari'>漁師達の必死の形相を見て、</span><br><span class='scene-font-katari'>真摯に向き合うパーシヴァル。</span>,<span class='scene-font-katari'>望着渔民们拼命的神情，</span><br><span class='scene-font-katari'>帕西瓦尔认真地回应道。</span>
+24,パーシヴァル/帕西瓦尔,やれやれ……<br>民の悩みを解決に導くのも、<br>王たる者の宿命か……,真是的……<br>引导人民解决困难也是王者的宿命吗……
+25,地元の漁師,引き受けてもらえるのか！,你愿意接受吗！
+26,パーシヴァル/帕西瓦尔,なに……<br>俺はフィールドワークに<br>興味があっただけだ。,没什么……<br>我对农业问题也相当感兴趣而已。
+27,地元の漁師,あ……ありがとう！<br>これで漁協のみんなも大喜びだ！,谢……谢谢！<br>渔业协会的大家一定会很高兴的！
+28,ビィ/碧,おいおい……トサカの兄ちゃんのやつ、<br>また勝手に引き受けやがって……,喂喂……<br>火鸡哥那家伙又擅自接受委托了……
+29,ルリア/露莉亚,あはは……<br>私達もお手伝いしましょうか。<br>ねぇ、ルシぬい？,啊哈哈……<br>我们也去帮忙吧。<br>走吧，姬塔？
+30,,<span class='scene-font-katari'>いつも通りのパーシヴァルに</span><br><span class='scene-font-katari'>苦笑を浮かべるルシぬい。</span>,<span class='scene-font-katari'>姬塔只能对一如既往的帕西瓦尔苦笑。</span>
+31,パーシヴァル/帕西瓦尔,この程度の依頼、俺一人で十分だ。<br>これは俺が引き受けた問題だからな、<br>家臣共はここで休んでいろ。,这种程度的委托我一个人去就够了。<br>因为这是由我接手的问题，<br>所以家臣们就在这里休息吧。
+32,パーシヴァル/帕西瓦尔,さぁ……漁師達よ。<br>早く俺を案内しろ。,好了……渔民们。<br>赶紧为我带路吧。
+38,,<span class='scene-font-katari'>大きく傾いだ漁船に</span><br><span class='scene-font-katari'>バランスを崩したルシぬいは、</span><br><span class='scene-font-katari'>パーシヴァルに抱き留められる。</span>,<span class='scene-font-katari'>因为渔船倾斜失去平衡的姬塔</span><br><span class='scene-font-katari'>被帕西瓦尔抱住稳住了身子。</span>
+39,パーシヴァル/帕西瓦尔,おい……ルシぬい。<br>具合が悪いのか？,喂……姬塔。<br>你身体不舒服吗？
+40,パーシヴァル/帕西瓦尔,船酔いしそうなら、<br>遠くの景色を見ろ。,如果感觉晕船，<br>就去看远方的景象。
+41,,<span class='scene-font-katari'>その時、漁船が</span><br><span class='scene-font-katari'>再びガクンと揺れる。</span>,<span class='scene-font-katari'>这时，</span><br><span class='scene-font-katari'>渔船再次剧烈摇晃起来。</span>
+43,パーシヴァル/帕西瓦尔,いったい何事だ！,到底发生了什么事情！
+44,地元の漁師,マ……マルモッコ様だ！<br>マルモッコ様が出たぞ！,是……马尔摩科大人！<br>马尔摩科大人出现了！
+45,,<span class='scene-font-katari'>甲板で慌てふためく漁師達に</span><br><span class='scene-font-katari'>マルモッコと呼ばれる</span><br><span class='scene-font-katari'>巨大な海獣が襲いかかる。</span>,<span class='scene-font-katari'>甲板上惊慌失措大喊大叫的渔民们</span><br><span class='scene-font-katari'>正遭受名为马尔摩科的巨大海兽的袭击。</span>
+46,マルモッコ,モグォォオオオ！,哞咕——！
+47,パーシヴァル/帕西瓦尔,これがマルモッコ、か……知らぬ間に、<br>俺達が縄張りに入ってしまったのか？,这就是马尔摩科吗？<br>难道我们不经意间进入了他的领地？
+48,地元の漁師,い、以前はここまで凶暴じゃ<br>なかったんだが、最近、<br>マルモッコ様が漁船を襲うんだ！,以……以前它是没有这么凶暴的，<br>但最近马尔摩科大人开始袭击渔船了！
+49,,<span class='scene-font-katari'>ルシぬい達を目がけて</span><br><span class='scene-font-katari'>突進してくるマルモッコ。</span>,<span class='scene-font-katari'>发现了姬塔一行人的马尔摩科直冲而来。</span>
+50,パーシヴァル/帕西瓦尔,ちっ……<br>ここは俺が相手をする！,啧……我来做它的对手！
+51,パーシヴァル/帕西瓦尔,ルシぬいは怪我人の<br>手当てを頼んだぞ！,姬塔负责处理伤员！
+info,,,scene_chr304_q1_s10
+译者,,,

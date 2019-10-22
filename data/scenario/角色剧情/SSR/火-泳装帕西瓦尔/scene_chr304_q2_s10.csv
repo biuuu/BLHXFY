@@ -1,0 +1,48 @@
+id,name,text,trans
+0-chapter_name,,マルモッコとの約束,与马尔摩科的约定
+0-synopsis,,マルモッコを退けたパーシヴァル。パーシヴァルは一行を激しく威嚇するマルモッコに対し、敵意が無いことを伝える為、丸腰でマルモッコと対峙する。その誠実な対応によって、心を開くマルモッコ。無事にマルモッコを保護した一行が帰路につくと、今度は巨大な蟹が襲いかかってくるのだった。,击退了马尔摩科的帕西瓦尔。面对对一行人激烈威吓的马尔摩科，帕西瓦尔为了传达自己没有敌意，弯下腰与马尔摩科对峙。应了这份真诚，马尔摩科敞开心扉。成功保护了马尔摩科的一行人在返航的途中，这次遭到了巨大螃蟹的袭击。
+1,パーシヴァル/帕西瓦尔,はぁっ！,哈——！
+3,マルモッコ,モゴォォオン！,哞咕——！
+4,,<span class='scene-font-katari'>パーシヴァルの華麗な剣捌きによって、</span><br><span class='scene-font-katari'>荒ぶるマルモッコの攻撃は阻まれた。</span>,<span class='scene-font-katari'>帕西瓦尔以华丽的剑术</span><br><span class='scene-font-katari'>阻断了暴躁的马尔摩科的攻击。</span>
+5,マルモッコ,モグルルルル……,哞咕……
+6,パーシヴァル/帕西瓦尔,やるな……,不错啊……
+7,,<span class='scene-font-katari'>不敵な笑みを浮かべるパーシヴァルは、</span><br><span class='scene-font-katari'>マルモッコとの間合いを詰めていく。</span>,<span class='scene-font-katari'>帕西瓦尔无畏地笑着，</span><br><span class='scene-font-katari'>向马尔摩科逼近。</span>
+8,地元の漁師,パ、パーシヴァルさん！<br>マルモッコ様は無暗に殺しちゃダメだ！,帕……帕西瓦尔先生！<br>不能轻易杀害马尔摩科大人啊！
+9,パーシヴァル/帕西瓦尔,わかっている。<br>元より殺すつもりなどない。,我知道。<br>我一开始就没有打算杀了它。
+10,,<span class='scene-font-katari'>必死に威嚇をするマルモッコの傍に</span><br><span class='scene-font-katari'>悠然と歩み寄るパーシヴァル。</span>,<span class='scene-font-katari'>帕西瓦尔悠然走向拼死威吓着四周的马尔摩科。</span>
+11,パーシヴァル/帕西瓦尔,……この度はすまなかった。<br>無断でお前達の縄張りを侵した、<br>こちらの非礼を許してくれ。,……我在此向你道歉。<br>请原谅我们做出<br>擅自侵入你们领地的无礼行为。
+12,マルモッコ,モグォォオオオ！,哞——！
+14,ビィ/碧,おいおい！<br>それ以上近づいたら危ねぇって！,喂！<br>继续靠近太危险啦！
+15,パーシヴァル/帕西瓦尔,大丈夫だ。<br>俺達に敵意は無いと伝える。,没事的。<br>我只是去传达我们没有敌意。
+16,,<span class='scene-font-katari'>マルモッコを刺激しない様に</span><br><span class='scene-font-katari'>自身の武器を甲板に置く</span><br><span class='scene-font-katari'>パーシヴァル。</span>,<span class='scene-font-katari'>帕西瓦尔为了不继续刺激马尔摩科，</span><br><span class='scene-font-katari'>将自己的武器放在了甲板上。</span>
+17,パーシヴァル/帕西瓦尔,さぁ……<br>ここは俺の顔に免じて、<br>怒りを鎮めてくれないか？,好了……<br>能否看在我的面子上平息怒火呢？
+18,マルモッコ,モゴォォォォ！,哞咕——！！！
+19,,<span class='scene-font-katari'>威嚇し続けるマルモッコに</span><br><span class='scene-font-katari'>掌を差し伸べるパーシヴァル。</span><br><span class='scene-font-katari'>その瞬間──</span>,<span class='scene-font-katari'>帕西瓦尔朝着不停威吓的马尔摩科伸出手。</span><br><span class='scene-font-katari'>就在这时——</span>
+21,パーシヴァル/帕西瓦尔,ぐっ……,呃……
+22,ルリア/露莉亚,パーシヴァルさん！,帕西瓦尔！
+23,,<span class='scene-font-katari'>マルモッコはパーシヴァルの掌に</span><br><span class='scene-font-katari'>鋭い牙を突き立てた。</span>,<span class='scene-font-katari'>马尔摩科将锐利的牙齿</span><br><span class='scene-font-katari'>刺入帕西瓦尔的手掌。</span>
+24,マルモッコ,モググゥ！,哞咕咕！
+25,パーシヴァル/帕西瓦尔,ふっ……安心しろ。<br>決して危害は加えん。,唔……请放心。<br>我们绝不会加害于你。
+26,,<span class='scene-font-katari'>掌から滴り落ちる、</span><br><span class='scene-font-katari'>真っ赤な鮮血。</span>,<span class='scene-font-katari'>赤红的鲜血自掌心滴落。</span>
+27,マルモッコ,モ……モグォォオオ！,哞……哞咕咕！
+28,パーシヴァル/帕西瓦尔,……うぐっ。<br>皆に騒ぎ立てられて、<br>気が立っていたのだろう？,……唔！<br>被大家骚扰所以你正在气头上吧？
+29,マルモッコ,モググゥ……,哞咕……
+30,パーシヴァル/帕西瓦尔,さぁ、これで痛み分けだ……,好了，这样一来我就分担了你的痛苦了。
+31,パーシヴァル/帕西瓦尔,お前の身の安全は保障する。<br>俺の言葉を信じろ。,我会保证你的安全。<br>请你相信我说的话。
+32,マルモッコ,キュウ……？,啾……？
+33,,<span class='scene-font-katari'>パーシヴァルの想いが伝わったのか、</span><br><span class='scene-font-katari'>マルモッコは、自身が傷つけたその掌を</span><br><span class='scene-font-katari'>優しく舐め始めるのだった。</span>,<span class='scene-font-katari'>帕西瓦尔的想法似乎已经传达到了，</span><br><span class='scene-font-katari'>马尔摩科开始温柔地</span><br><span class='scene-font-katari'>舔着被自己伤到的手掌。</span>
+34,マルモッコ,キュウキュウ……<br>キュウキュウ……,啾啾……<br>啾啾……
+35,パーシヴァル/帕西瓦尔,ふっ……そうか。<br>俺達を許してくれるか。,嗯……是吗。<br>你肯原谅我们了啊。
+36,地元の漁師,な……何てことだ……<br>マルモッコ様が人間に懐くだなんて……,怎……怎么会这样……<br>马尔摩科大人居然会亲近人类…
+37,ビィ/碧,そんなにスゲェことなのか？,这是很厉害的事情吗？
+38,地元の漁師,ああ……この辺りの漁師達は皆、<br>マルモッコ様と関わり過ぎないよう<br>距離を取ってるからな……,嗯……这一片海域的渔民都为了防止<br>和马尔摩科大人扯上太多关系而保持距离……
+39,ルリア/露莉亚,と、とにかく、今はパーシヴァルさんと<br>マルモッコさんを手当てしましょう！,总之，现在先帮帕西瓦尔<br>和马尔摩科大人包扎伤口吧！
+45,,<span class='scene-font-katari'>こうして、マルモッコ様を保護した</span><br><span class='scene-font-katari'>一行は、態勢を立て直すべく</span><br><span class='scene-font-katari'>ひとまず寄港することとなった。</span>,<span class='scene-font-katari'>就这样，保护了马尔摩科大人的一行人</span><br><span class='scene-font-katari'>为了重整气势，暂且决定返航。</span>
+46,,<span class='scene-font-katari'>だが、一行の行く手に、</span><br><span class='scene-font-katari'>巨大な蟹が立ちはだかる。</span>,<span class='scene-font-katari'>但是，</span><br><span class='scene-font-katari'>一只巨大的螃蟹阻断了一行人的去路。</span>
+50,地元の漁師,くっ……なんでか、<br>蟹ばっかり増えやがってよ！,咕……不知道为什么，<br>只有螃蟹的数量在疯涨啊！
+51,地元の漁師,ルシぬいさん！<br>こいつらはガツンと<br>やっちまってください！,姬塔！<br>麻烦三两下解决掉这些家伙！
+52,ビィ/碧,おうよ！<br>今度はオイラ達に任せとけ！,好嘞！<br>这次就交给我们吧！
+53,パーシヴァル/帕西瓦尔,ふん……問題ない<br>この程度のかすり傷では、<br>ハンデにもならん。,哼…没问题，<br>这点程度的擦伤根本不成大碍。
+54,パーシヴァル/帕西瓦尔,邪魔だ。<br>そこを退け。,挡着路了。<br>给我让开。
+info,,,scene_chr304_q2_s10
+译者,,,
