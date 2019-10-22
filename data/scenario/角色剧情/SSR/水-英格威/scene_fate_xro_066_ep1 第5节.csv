@@ -1,0 +1,109 @@
+id,name,text,trans
+0-chapter_name,,ハートに火を点けて,点燃心火
+0-synopsis,,ある日、ヘリヤが恋心を振り払おうと剣の素振りをしているとイングヴェイが現れ、自分に素直に生きるよう助言する。ヘリヤは感銘を受け新たな恋を求めて行動するが、かえって多くの雑念にとらわれてしまう。イングヴェイは弱音を吐くヘリヤの眼前まで迫り、愛は人生のエッセンスだと激励する。ヘリヤはイングヴェイの自由な生き様に触発され、再び新たなる恋を夢見るのだった。,某天，海利亚试图通过空挥练剑平复自己的恋爱之心，英格威则开导她要坦诚的生活。海利亚深受感动并决定要去追求新的恋情，但却被更多的杂念所包围。在泄气的海利亚面前英格威再一次出现，以「爱是人类的本质」激励她。海利亚被英格威自由的身影所触动，又一次让爱的憧憬充满了胸怀。
+2,ヘリヤ,<span class='scene-font-4'>ふんっ！</span><br><span class='scene-font-4'>たあああっ！！</span>,<span class='scene-font-4'>哼！</span><br><span class='scene-font-4'>哈啊啊！！</span>
+3,,<span class='scene-font-katari'>騎空艇の甲板で、</span><br><span class='scene-font-katari'>黙々と剣の修業に励むヘリヤ。</span>,<span class='scene-font-katari'>骑空艇的甲板上，</span><br><span class='scene-font-katari'>海利亚默默地钻研着剑术。</span>
+4,,<span class='scene-font-katari'>そんな彼女の目的はただひとつ。</span><br><span class='scene-font-katari'>不甲斐無い自分を鍛え直すことだった。</span>,<span class='scene-font-katari'>她的目的只有一个，</span><br><span class='scene-font-katari'>那便是锤炼不中用的自己。</span>
+5,ヘリヤ,はぁ……はぁ……<br>何故、私は……<br>雑念に惑わされてしまうのでしょう……,哈……哈……<br>为什么、我……<br>做不到心无杂念……
+6,ヘリヤ,あまりにも、情けない……<br>もっともっと心を鍛えねば！,实在是、难为情……<br>必须更多地锻炼内心！
+7,,<span class='scene-font-katari'>ヘリヤが気を引き締め、</span><br><span class='scene-font-katari'>再び剣を振り上げたその時、男の色香を</span><br><span class='scene-font-katari'>漂わせたイングヴェイが姿を見せる。</span>,<span class='scene-font-katari'>当海利亚屏住气息、</span><br><span class='scene-font-katari'>再一次举起剑时，</span><br><span class='scene-font-katari'>飘荡着男性魅力的英格威出现在了眼前。</span>
+8,イングヴェイ/英格威,ブラヴォ！<br>日々、鍛錬に打ち込むなんて<br>感心するじゃあないか。,棒极了！<br>每天都专注锻炼，<br>令人佩服。
+9,ヘリヤ,いえ……<br>私はただ……<br>己の雑念を振り払おうと──,不……<br>我只是……<br>想要赶走杂念──
+10,イングヴェイ/英格威,ふっ、雑念か。<br>それはもしかして……<br>恋心のことか？,嗯、杂念啊。<br>难道是指……<br>恋爱的向往？
+11,ヘリヤ,なっ！？　な、何故それを……,什！？　为、为什么知道……
+12,イングヴェイ/英格威,ふぅむ。<br>解るさ。そして……そうなのであれば<br>そんなもの、振り払う必要はない。,嗯。<br>我懂的。而且……如果确实是的话，<br>其实没必要赶走它。
+13,ヘリヤ,しかし……<br>私はこの雑念のせいで、<br>幾度となく失敗を……,但是……<br>我因为杂念的关系，<br>已经失败了无数次了……
+14,イングヴェイ/英格威,いや、君だけじゃない。<br>人間なんて生き物は皆煩悩の塊だ……<br>失敗なんぞ、大した問題じゃあない。,不、不单是你。<br>人类这种生物大家都充满了烦恼……<br>失败并不是一件大问题。
+15,ヘリヤ,ですが……,但是……
+16,イングヴェイ/英格威,もちろん、剣を振るうことで<br>一時はそういった感情ってのを<br>抑えられるかも知れない。,当然，用挥动的剑<br>来抑制一时的情感，<br>还是有可能的。
+17,イングヴェイ/英格威,だがそれは根本的な解決とは程遠い。,但是想要根本上解决，这还远远不够。
+18,ヘリヤ,私は……いったいどうすれば……,那我……到底要怎么做……
+19,,<span class='scene-font-katari'>イングヴェイは、悩めるヘリヤの問いを</span><br><span class='scene-font-katari'>正面からしっかりと受け止めると、</span><br><span class='scene-font-katari'>大人の余裕を滲ませ──</span>,<span class='scene-font-katari'>面对海利亚抛来的烦恼，</span><br><span class='scene-font-katari'>英格威展现出男人的从容，</span><br><span class='scene-font-katari'>牢牢地从正面接住──</span>
+22,イングヴェイ/英格威,ふっ、<br>自分の心に素直に生きることさ、<br>マドモアゼル……！,嗯、<br>那就是面对自己的心，坦诚地活着，<br>小姐……！
+24,ヘリヤ,フッ……<br>自分の心に素直に……<br>生きる……,嗯……<br>面对自己的心……<br>坦诚地活着……
+25,イングヴェイ/英格威,そうだ。恐れることなどなにもない。<br>俺達は、アモーレの神に<br>愛されているのだから。,没错。没有什么可害怕的。<br>因为你我、<br>都被爱神所爱着。
+26,ヘリヤ,ふふ……<br>はいっ……！,哈哈……<br>嗯……！
+27,,<span class='scene-font-katari'>ヘリヤがイングヴェイのアドバイスを</span><br><span class='scene-font-katari'>受け容れたその時、大人の色香を</span><br><span class='scene-font-katari'>漂わせた美女が騎空艇に姿を見せる。</span>,<span class='scene-font-katari'>在海利亚愉快地接受了英格威的建议之时，</span><br><span class='scene-font-katari'>一位散发着女性魅力的美人，</span><br><span class='scene-font-katari'>也走了过来。</span>
+28,美女,うふふふ……<br>イングヴェイさん！,嗯哼哼……<br>英格威！
+29,イングヴェイ/英格威,はははははっ！<br>我が麗しのマドモアゼル。<br>迎えに来てくれたのかい？,哈哈哈哈哈！<br>我美丽的小姐，<br>是来迎接我的吗？
+30,,<span class='scene-font-katari'>イングヴェイはヘリヤにウインクを</span><br><span class='scene-font-katari'>送ると、美女をエスコートしながら</span><br><span class='scene-font-katari'>騎空艇を後にする。</span>,<span class='scene-font-katari'>英格威朝海利亚俏皮地眨了眨眼，</span><br><span class='scene-font-katari'>陪着美人，</span><br><span class='scene-font-katari'>离开了骑空艇。</span>
+31,ヘリヤ,流石です、イングヴェイ殿……<br>行動をもって、<br>私に示して下さるとは……,不愧是英格威殿下……<br>用实际行动，<br>为我指明了方向……
+32,,<span class='scene-font-katari'>かくしてヘリヤは、</span><br><span class='scene-font-katari'>イングヴェイの啓示を受け、</span><br><span class='scene-font-katari'>己の心に素直に生きると誓うのだった。</span>,<span class='scene-font-katari'>于是、</span><br><span class='scene-font-katari'>受到英格威的启发，</span><br><span class='scene-font-katari'>海利亚立誓要直面内心，坦诚的生活下去。</span>
+38,,<span class='scene-font-katari'>それから暫く経ったある日のこと──</span>,<span class='scene-font-katari'>在那之后没多久的某一天──</span>
+39,,<span class='scene-font-katari'>魔物討伐の依頼をこなした</span><br><span class='scene-font-katari'>姬塔一行は、依頼主である</span><br><span class='scene-font-katari'>山村の村長のもとへと立ち寄っていた。</span>,<span class='scene-font-katari'>完成了魔物讨伐委托的</span><br><span class='scene-font-katari'>姬塔一行，</span><br><span class='scene-font-katari'>来到了委托方的山村村长处。</span>
+40,村長/村长,信じられん！<br>あの凶暴な魔物達を<br>こんなに早く退治して下さるとは！,不敢相信！<br>那些凶暴的魔物，<br>竟然这么快就被消灭了！
+41,ビィ/碧,えっへん！<br>オイラ達にかかれば、こんなもんだぜ！,嘿嘿！<br>让俺们来的话，就是这个效果！
+42,ルリア/露莉亚,はい！<br>ヘリヤさんの大活躍もありましたしね！,嗯！<br>也多亏了海利亚大显身手！
+43,ヘリヤ,ふふ……<br>何はともあれ、<br>これで安心して暮らせますね。,哈哈……<br>总之、<br>这下就可以安心生活了。
+44,,<span class='scene-font-katari'>村の青年は、穏やかに微笑むヘリヤが</span><br><span class='scene-font-katari'>怪我をしていることに気づき</span><br><span class='scene-font-katari'>声をあげる。</span>,<span class='scene-font-katari'>村里的青年，</span><br><span class='scene-font-katari'>发现了微笑的海利亚身上的伤口，</span><br><span class='scene-font-katari'>大声喊了起来。</span>
+45,村の青年,っ！？<br>ヘリヤさん、腕から血が……っ！,嗯！？<br>海利亚、你的手臂流血了……！
+46,ルリア/露莉亚,大丈夫ですか？,不要紧吧？
+47,ヘリヤ,フッ、この程度の怪我なら大丈夫です。<br>なんともありません。,嗯、这点小伤不要紧的。<br>不是什么大事。
+48,村の青年,そんな……<br>なんともないなんてこと……<br>すぐに手当てを！,哪有……<br>这可不是小事……<br>赶紧包扎一下才行！
+49,ヘリヤ,え？,唉？
+50,,<span class='scene-font-katari'>村の青年は救急箱を取り出すと、</span><br><span class='scene-font-katari'>ヘリヤの腕を手当てする。</span>,<span class='scene-font-katari'>青年拿出药箱，</span><br><span class='scene-font-katari'>立刻就为海利亚做了包扎。</span>
+51,村の青年,ふぅ……これでよしっと……,呼……这样的话就行了……
+52,ヘリヤ,お礼申し上げます。<br>私を気遣って頂きまして……,非常感谢。<br>这么关心我……
+53,村の青年,いや、お礼を言うのはこっちの方です。<br>皆さんのお陰で、<br>この村は救われたんですから。,没事、我们才要说谢谢。<br>多亏了各位、<br>村子才能得救。
+54,村の青年,ありがとうございます。<br>ヘリヤさん……！,谢谢你。<br>海利亚……！
+55,,<span class='scene-font-katari'>ヘリヤは、自分の手をとり</span><br><span class='scene-font-katari'>感謝を述べる村の青年の笑顔に</span><br><span class='scene-font-katari'>胸を弾ませる。</span>,<span class='scene-font-katari'>青年紧握海利亚的那双手，</span><br><span class='scene-font-katari'>和表达谢意时的笑容</span><br><span class='scene-font-katari'>都让她心跳不已。</span>
+56,ヘリヤ,<span class='scene-font-kokoro'>（も、もしかして私のことを？）</span>,<span class='scene-font-kokoro'>（难、难道说对我有？）</span>
+57,,<span class='scene-font-katari'>村の青年を意識した途端、</span><br><span class='scene-font-katari'>雑念にまみれるヘリヤの頭の中に</span><br><span class='scene-font-katari'>先日のイングヴェイの啓示が蘇る。</span>,<span class='scene-font-katari'>一想到这些，</span><br><span class='scene-font-katari'>海利亚脑内的杂念便纷至沓来。</span><br><span class='scene-font-katari'>而此时，英格威给予的启发也苏醒了。</span>
+64,イングヴェイ/英格威,ふっ、<br>自分の心に素直に生きることさ、<br>マドモアゼル……！,嗯、<br>那就是面对自己的心，坦诚地活着，<br>小姐……！
+70,ヘリヤ,<span class='scene-font-kokoro'>（私は……変わります！</span><br><span class='scene-font-kokoro'>イングヴェイ殿のように</span><br><span class='scene-font-kokoro'>心の赴くまま素直に……！）</span>,<span class='scene-font-kokoro'>（我要……改变！</span><br><span class='scene-font-kokoro'>像英格威殿下一样</span><br><span class='scene-font-kokoro'>向着心的方向坦诚地……！）</span>
+71,ビィ/碧,ん？<br>ヘリヤ……どうかしたのか？,嗯？<br>海利亚……怎么了吗？
+72,,<span class='scene-font-katari'>ビィの心配をよそに、</span><br><span class='scene-font-katari'>ヘリヤは大きく深呼吸すると、</span><br><span class='scene-font-katari'>勢いよく村の青年を見据える。</span>,<span class='scene-font-katari'>无视碧的关心，</span><br><span class='scene-font-katari'>海利亚大口地深呼吸，</span><br><span class='scene-font-katari'>紧紧地盯着青年。</span>
+73,ヘリヤ,あなたに……<br>お話がありま──,我有话……<br>要跟你──
+76,村の女性/村里的女性,あらやだ！<br>こんなお嬢さん達が<br>騎空士さんだったの？,啊哦！<br>这些小姑娘<br>就是骑空士啊？
+77,,<span class='scene-font-katari'>ヘリヤの意を決した言葉は</span><br><span class='scene-font-katari'>突然現れた女性により、</span><br><span class='scene-font-katari'>宙に浮き掻き消されてしまう。</span>,<span class='scene-font-katari'>由于突然出现的女性，</span><br><span class='scene-font-katari'>海利亚下决心要说的话</span><br><span class='scene-font-katari'>又咽了回去。</span>
+78,ヘリヤ,<span class='scene-font-kokoro'>（くっ……</span><br><span class='scene-font-kokoro'>なんというタイミングでしょう……）</span>,<span class='scene-font-kokoro'>（哼……</span><br><span class='scene-font-kokoro'>这也太不凑巧了……）</span>
+79,村の青年,おいおい、静かにしないか。<br>騎空士さん達の前ではしたない。<br>すみません……うちの妻が……,喂喂、能安静一点吗，<br>在骑空士面前太没礼貌了。<br>对不起……我老婆她……
+80,ヘリヤ,なっ！？　お、お若いのに……<br>ご結婚をされていたんですね……<br>はは……,什！？　这、这么年轻……<br>就已经结婚啦……<br>哈哈……
+81,村の女性/村里的女性,はい！<br>彼とは幼なじみでして～,嗯！<br>我跟他是青梅竹马～
+82,ヘリヤ,はははっ、<br>それは羨ましい限りです。<br>これからもご夫婦仲良くして下さい。,哈哈哈、<br>真让人羡慕。<br>要继续相亲相爱下去喔。
+83,村の青年,はい、ありがとうございます。<br>それで……さきほど、<br>何か言おうとされてませんでしたか？,嗯、谢谢。<br>那么……刚刚、<br>是要和我说什么？
+84,ヘリヤ,いえ……その、たいしたことでは……<br>はは、本当に、はい……,没有……那个、没什么……<br>哈哈、真的、嗯……
+85,,<span class='scene-font-katari'>突如、狼狽するヘリヤを見兼ね、</span><br><span class='scene-font-katari'>村の青年達が心配し駆け寄ってくる。</span>,<span class='scene-font-katari'>突然，村里看不过那狼狈样子的青年们，</span><br><span class='scene-font-katari'>都围过来关心起了海利亚。</span>
+86,村の青年２,ん？　ヘリヤさん、どうかしましたか？,嗯？　海利亚、怎么了吗？
+87,村の青年３,まさか……<br>怪我した場所が痛むのでは？,不会是……<br>受伤的地方疼吧？
+88,村の青年４,なっ！？<br>それは大変だ！<br>早く医者に……！,啊！？<br>那可不得了！<br>赶紧叫医生……！
+89,ヘリヤ,<span class='scene-font-kokoro'>（これは……まさか……</span><br><span class='scene-font-kokoro'>皆が……私のことを！？</span><br><span class='scene-font-kokoro'>そんな……こ、心の準備が……）</span>,<span class='scene-font-kokoro'>（这……难道说……</span><br><span class='scene-font-kokoro'>大家……都对我！？</span><br><span class='scene-font-kokoro'>这……心、心理准备还……）</span>
+90,,<span class='scene-font-katari'>村の青年達に取り囲まれ、</span><br><span class='scene-font-katari'>ヘリヤはより一層、</span><br><span class='scene-font-katari'>雑念にとらわれてしまう。</span>,<span class='scene-font-katari'>被青年们围住的海利亚，</span><br><span class='scene-font-katari'>脑海里也被更多的杂念</span><br><span class='scene-font-katari'>团团围住了。</span>
+91,ヘリヤ,<span class='scene-font-kokoro'>（くっ……このままでは……）</span>,<span class='scene-font-kokoro'>（呃……这样下去……）</span>
+92,ヘリヤ,待ってください！　私は、大丈夫です…<br>あ、姬塔殿！　その……<br>用事を思い出したので先に戻ります！,停一下！　我没事…<br>啊、姬塔殿下！　那个……<br>我想起来还有点事，就先回去了！
+94,ビィ/碧,うん？<br>いったい、どうしたってんだ？,嗯？<br>到底、怎么回事？
+100,,<span class='scene-font-katari'>村の青年達を前に</span><br><span class='scene-font-katari'>雑念に振り回されてしまったヘリヤは、</span><br><span class='scene-font-katari'>己の不甲斐無さを責める。</span>,<span class='scene-font-katari'>在村子的青年们面前</span><br><span class='scene-font-katari'>被心中的杂念耍得团团转。</span><br><span class='scene-font-katari'>海利亚对自己的不中用感到十分自责。</span>
+101,ヘリヤ,はぁ……はぁ……<br>私はどうすればよかったのでしょう……,哈……哈……<br>我要怎么办才好……
+102,,<span class='scene-font-katari'>考えても考えても答えが出ず、</span><br><span class='scene-font-katari'>ヘリヤは木々に向かい、</span><br><span class='scene-font-katari'>雑念を断ち切るかの如く剣を振るう。</span>,<span class='scene-font-katari'>再三思索仍然没有答案，</span><br><span class='scene-font-katari'>海利亚像是要砍断杂念一般，</span><br><span class='scene-font-katari'>挥砍着身边的树枝。</span>
+103,ヘリヤ,<span class='scene-font-4'>たあああ！</span><br><span class='scene-font-4'>とりゃあっ！</span>,<span class='scene-font-4'>哈啊啊啊！</span><br><span class='scene-font-4'>呀啊啊！</span>
+112,ヘリヤ,なっ！？,啊！？
+113,,<span class='scene-font-katari'>ヘリヤが振り下ろした剣を</span><br><span class='scene-font-katari'>イングヴェイは片手で受け止め、</span><br><span class='scene-font-katari'>余裕の表情を見せる。</span>,<span class='scene-font-katari'>英格威单手接下</span><br><span class='scene-font-katari'>海利亚所挥动的剑</span><br><span class='scene-font-katari'>露出了从容的表情。</span>
+114,イングヴェイ/英格威,ふぅむ……<br>剣が荒れてるな。,嗯……<br>你的剑很荒乱。
+115,ヘリヤ,…………,…………
+117,ヘリヤ,あ……れ……？　何故でしょう……<br>イングヴェイ殿の姿を見たら、<br>涙が……,怎……么……？　为什么……<br>见到英格威殿下后，<br>眼泪……
+118,イングヴェイ/英格威,ふっ、涙することは悪いことじゃない。<br>泣ける時には泣けばいい。,嗯、流泪并不是坏事。<br>能哭的时候只要哭就好。
+119,ヘリヤ,困りました……<br>イングヴェイ殿の教えの通りに<br>生きよう……そう決心したんです……,好困扰……<br>已经决心像英格威殿下所说的那样……<br>去生活了……
+120,ヘリヤ,ですが、私には……,但是、对我来说……
+121,イングヴェイ/英格威,ふぅむ……<br>自分には難しい。出来ない、無理だ……,嗯……<br>对自己来说太难了。做不到、没办法……
+122,イングヴェイ/英格威,ったく……そう口にすることで、<br>出来ない自分を正当化するなんて<br>勿体ない話だとは思わないか？,那只好……这么说吧。<br>把自己做不到的事情正当化，<br>不觉得太浪费了吗？
+123,ヘリヤ,くっ……確かにおっしゃる通りです……<br>あの……ひとつ伺っても？<br>イングヴェイ殿は何故、私のことを……,唔……确实如您所言……<br>那个……可以请教一个问题吗？<br>英格威先生为何、这么关心我……
+124,,<span class='scene-font-katari'>その時、</span><br><span class='scene-font-katari'>キラリと光ったイングヴェイの</span><br><span class='scene-font-katari'>視線に気圧されたヘリヤ。</span>,<span class='scene-font-katari'>就在这时、</span><br><span class='scene-font-katari'>英格威闪烁着光芒的眼神</span><br><span class='scene-font-katari'>向海利亚压了过来。</span>
+125,,<span class='scene-font-katari'>気づけばズルズルと後ずさりし、</span><br><span class='scene-font-katari'>背後にあった大樹に</span><br><span class='scene-font-katari'>もたれかかっていた。</span>,<span class='scene-font-katari'>当她回过神时，</span><br><span class='scene-font-katari'>已是退无可退，</span><br><span class='scene-font-katari'>后背靠在了身后的大树上。</span>
+127,イングヴェイ/英格威,…………,…………
+128,,<span class='scene-font-katari'>するとイングヴェイは</span><br><span class='scene-font-katari'>戸惑うヘリヤを穏やかに見下ろし、</span><br><span class='scene-font-katari'>伸ばした右手をドンと木に突き立てる。</span>,<span class='scene-font-katari'>英格威则</span><br><span class='scene-font-katari'>温和地向下注视着困惑的海利亚，</span><br><span class='scene-font-katari'>伸出的右手“咚”的一声撑在了树干上。</span>
+129,ヘリヤ,なっ！？,啊！？
+130,,<span class='scene-font-katari'>吐息が鼻先をくすぐるほど</span><br><span class='scene-font-katari'>イングヴェイの顔が近づき、</span><br><span class='scene-font-katari'>ヘリヤはゴクリと生唾を飲み込む。</span>,<span class='scene-font-katari'>英格威的脸慢慢靠近，</span><br><span class='scene-font-katari'>气息如搔痒一般拂过鼻尖，</span><br><span class='scene-font-katari'>海利亚不由得咽下了一口唾沫。</span>
+131,ヘリヤ,<span class='scene-font-kokoro'>（これは……</span><br><span class='scene-font-kokoro'>な、なんと言いましょうか……</span><br><span class='scene-font-kokoro'>その……）</span>,<span class='scene-font-kokoro'>（这……</span><br><span class='scene-font-kokoro'>该、该怎么说呢……</span><br><span class='scene-font-kokoro'>这个……）</span>
+132,イングヴェイ/英格威,……まずは、落ち着くんだ。<br>いいか？,……首先、先冷静下来。<br>好吗？
+133,ヘリヤ,え？　あ、はい……,唉？　啊、嗯……
+134,イングヴェイ/英格威,ふっ、俺が何故、<br>君を気にするのか……<br>そいつは簡単なことだ。,嗯、我为何、<br>关心你吗……<br>这很简单。
+135,イングヴェイ/英格威,ふぅむ……愛は人生のエッセンスだ。<br>だからこそ、それを放棄しようとする<br>君を見ていられなかった。,嗯……人类的本质就是爱。<br>也正因为如此、对于放弃了本质的你，<br>我不能坐视不管。
+136,イングヴェイ/英格威,ふっ、ただそれだけのことだ。,嗯、仅此而已。
+137,ヘリヤ,そうでしたか……,是这样吗……
+138,,<span class='scene-font-katari'>イングヴェイは頬を染めるヘリヤから、</span><br><span class='scene-font-katari'>そっと距離をとると、</span><br><span class='scene-font-katari'>冗談めかして告げる。</span>,<span class='scene-font-katari'>英格威轻轻地把脸</span><br><span class='scene-font-katari'>从海利亚染霞的面庞移开，</span><br><span class='scene-font-katari'>玩笑似的开口。</span>
+139,イングヴェイ/英格威,ふっ、それぞれの島に<br>女はひとりと決めてるんでね。,嗯、我决定过<br>每个岛只泡一个女人的。
+140,,<span class='scene-font-katari'>ヘリヤは小さくなっていく</span><br><span class='scene-font-katari'>イングヴェイの背中に向かって</span><br><span class='scene-font-katari'>頭を垂れる。</span>,<span class='scene-font-katari'>海利亚望着</span><br><span class='scene-font-katari'>英格威逐渐远去的背影，</span><br><span class='scene-font-katari'>低下了头。</span>
+141,ヘリヤ,ふふ……なんて自由なのでしょう……<br>まるでこの空のように……,哈哈……多么的自由……<br>就好像这天空一样……
+142,ヘリヤ,はははっ！　私も……<br>イングヴェイ殿のように、<br>自由に羽ばたきたいっ！,哈哈哈哈！　我也……<br>要像英格威先生那样、<br>自由地挥动翅膀！
+143,,<span class='scene-font-katari'>かくしてハートに火を灯したヘリヤは、</span><br><span class='scene-font-katari'>新たなる恋を夢見て、</span><br><span class='scene-font-katari'>大きな一歩を踏み出すのだった。</span>,<span class='scene-font-katari'>于是点燃了心火的海利亚、</span><br><span class='scene-font-katari'>怀着对崭新爱情的憧憬、</span><br><span class='scene-font-katari'>向前踏出了大大的一步。</span>
+info,,,scene_fate_xro_066_ep1
