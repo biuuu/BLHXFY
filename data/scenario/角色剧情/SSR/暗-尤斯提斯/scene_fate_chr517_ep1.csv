@@ -26,10 +26,10 @@ id,name,text,trans
 30,,<span class='scene-font-katari'>もう一度、記録を確認しようと</span><br><span class='scene-font-katari'>ページをめくった時──</span>,<span class='scene-font-katari'>再次确认记录</span><br><span class='scene-font-katari'>阅览着书页的时候──</span>
 32,ユーステス/尤斯缇斯,っ……,……
 33,,<span class='scene-font-katari'>人の気配が近づいてきたことに</span><br><span class='scene-font-katari'>気が付き、資料をそっと棚に戻す。</span>,<span class='scene-font-katari'>感觉到了某人的气息的接近</span><br><span class='scene-font-katari'>尤斯缇斯悄悄地把资料放回书架上。</span>
-35,組織の兵１,あれ？<br>ユーステスさん？,哎呀？<br>尤斯缇斯桑？
+35,組織の兵１,あれ？<br>ユーステスさん？,哎呀？<br>尤斯缇斯？
 36,ユーステス/尤斯缇斯,お前は……,你是……
 37,,<span class='scene-font-katari'>姿を現したのは、ユーステス達、</span><br><span class='scene-font-katari'>武器の契約者に対抗して</span><br><span class='scene-font-katari'>つくられた新設部隊の兵だった。</span>,<span class='scene-font-katari'>眼前出现的是，为了抗衡</span><br><span class='scene-font-katari'>尤斯缇斯他们这些武器契约者</span><br><span class='scene-font-katari'>而作成的新式部队的士兵。</span>
-38,組織の兵１,ユーステスさんが支部に<br>顔出すなんて珍しいですね。,尤斯缇斯桑出现在支部<br>还真是稀奇啊。
+38,組織の兵１,ユーステスさんが支部に<br>顔出すなんて珍しいですね。,尤斯缇斯出现在支部<br>还真是稀奇啊。
 39,ユーステス/尤斯缇斯,そうだな。,是啊。
 40,組織の兵１,何か必要な資料でも？<br>俺、ここのこと詳しいから<br>探すの手伝いましょうか？,是有什么需要的资料吗？<br>我对这里的事很了解的<br>要帮你找吗？
 41,ユーステス/尤斯缇斯,もうすんだ。,已经结束了。
@@ -66,15 +66,15 @@ id,name,text,trans
 99,ルリア/露莉亚,そうですよね。<br>それに……,是啊。<br>而且……
 100,ビィ/碧,まぁ、オイラ達が<br>口出しできることじゃあねぇしな。,嘛啊，那也不是<br>我们能够说的话呢。
 101,ルリア/露莉亚,それはそうなんですけど……,虽然的确是这么一回事……
-102,ルリア/露莉亚,ユーステスさんは、どんなに<br>忙しくても、私達が困ってる時は<br>絶対に助けてくれます。,但是尤斯缇斯桑，不管有多忙<br>在我们陷入困境的时候<br>一定会来帮助我们。
-103,ルリア/露莉亚,だから、ユーステスさんが<br>困ってる時は<br>言って欲しいのに……,所以，我也希望<br>尤斯缇斯桑在遇到麻烦的时候<br>能够告诉我们……
+102,ルリア/露莉亚,ユーステスさんは、どんなに<br>忙しくても、私達が困ってる時は<br>絶対に助けてくれます。,但是尤斯缇斯，不管有多忙<br>在我们陷入困境的时候<br>一定会来帮助我们。
+103,ルリア/露莉亚,だから、ユーステスさんが<br>困ってる時は<br>言って欲しいのに……,所以，我也希望<br>尤斯缇斯在遇到麻烦的时候<br>能够告诉我们……
 104,ビィ/碧,そうだなぁ。<br>アイツ無口だから、<br>そういうの言わねぇもんな。,也是啊。<br>因为那家伙很沉默寡言<br>所以不会和我们说呢。
 105,ルリア/露莉亚,とにかく、<br>早く帰って来て欲しいですね。,总之，<br>希望他能早点回来呢。
 107,ユーステス/尤斯缇斯,…………,…………
-108,ルリア/露莉亚,ユーステスさん！<br>おかえりなさい！,尤斯缇斯桑！<br>欢迎回来！
+108,ルリア/露莉亚,ユーステスさん！<br>おかえりなさい！,尤斯缇斯！<br>欢迎回来！
 109,ビィ/碧,おっ！<br>噂をすればって感じだな！,哦！<br>真是说你你就到了啊！
 110,ユーステス/尤斯缇斯,噂？,说我？
-111,ルリア/露莉亚,ふふ、ユーステスさんが<br>早く帰ってくればいいのにって<br>話してたところなんですよ。,呵呵，我们刚刚还在说<br>希望尤斯缇斯桑<br>能早点回来呢。
+111,ルリア/露莉亚,ふふ、ユーステスさんが<br>早く帰ってくればいいのにって<br>話してたところなんですよ。,呵呵，我们刚刚还在说<br>希望尤斯缇斯<br>能早点回来呢。
 112,ユーステス/尤斯缇斯,そうか……<br>ただいま。,是嘛……<br>我回来了。
 114,,<span class='scene-font-katari'>ほんの小さく口元を緩めたユーステスは</span><br><span class='scene-font-katari'>姬塔達からは少しだけ</span><br><span class='scene-font-katari'>離れた場所に腰をおろす。</span>,<span class='scene-font-katari'>尤斯缇斯嘴角牵起一抹柔和的弧度</span><br><span class='scene-font-katari'>在距离姬塔他们稍远的地方</span><br><span class='scene-font-katari'>坐了下来。</span>
 115,ユーステス/尤斯缇斯,…………,…………
@@ -112,7 +112,7 @@ id,name,text,trans
 157,ユーステス/尤斯缇斯,すまない。,抱歉。
 158,,<span class='scene-font-katari'>ユーステスは、宥めるように</span><br><span class='scene-font-katari'>姬塔の頭に軽く触れた。</span>,<span class='scene-font-katari'>尤斯缇斯哄劝一般地</span><br><span class='scene-font-katari'>轻轻碰了碰姬塔的头。</span>
 159,ユーステス/尤斯缇斯,ああ。お前達もな。,嗯。你们也是啊。
-160,ルリア/露莉亚,行ってらっしゃい、<br>ユーステスさん。,一路小心，<br>尤斯缇斯桑。
+160,ルリア/露莉亚,行ってらっしゃい、<br>ユーステスさん。,一路小心，<br>尤斯缇斯。
 161,ユーステス/尤斯缇斯,行ってくる。,我走了。
 166,ルリア/露莉亚,はぁ……,哈啊……
 167,,<span class='scene-font-katari'>寂しげに溜息を吐くルリアの隣で</span><br><span class='scene-font-katari'>姬塔は、いつまでも</span><br><span class='scene-font-katari'>ユーステスを見送る。</span>,<span class='scene-font-katari'>在寂寞地叹息着的露莉亚的旁边</span><br><span class='scene-font-katari'>姬塔始终默默地</span><br><span class='scene-font-katari'>目送着尤斯缇斯。</span>
