@@ -5,7 +5,7 @@ id,name,text,trans
 1,,<span class='scene-font-katari'>突然、態度が豹変する</span><br><span class='scene-font-katari'>シエテに戸惑う一行。</span>,<span class='scene-font-katari'>一行人因为希耶提</span><br><span class='scene-font-katari'>突然剧变的态度感到困惑。</span>
 2,ビィ/碧,なっ！？<br>急にいつものシエテの<br>感じに戻ったぞ……,什么！？<br>突然变回<br>平时的希耶提的感觉了……
 3,シエテ/希耶提,ほらぁー姬塔！<br>だから降参だって！<br>早く剣を収めてよ！,你看ー姬塔！<br>我都说了投降了！<br>你快把剑收起来吧！
-4,ルリア/露莉亚,降参ってことは……<br>もうシエテさんと<br>戦わなくてもいいんですか？,投降了也就是说……<br>已经不用和希耶提桑<br>战斗了对吧？
+4,ルリア/露莉亚,降参ってことは……<br>もうシエテさんと<br>戦わなくてもいいんですか？,投降了也就是说……<br>已经不用和希耶提<br>战斗了对吧？
 5,シエテ/希耶提,そうだよ！　もう姬塔が<br>強いっていうのは十分わかったからね！,就是那样哟！　我已经充分知道了<br>姬塔很强这件事了！
 6,シエテ/希耶提,いやー驚いたよ！<br>まさかここまで<span class='scene-font-spword'>七星剣</span>に<br>認められてるとはね！,哎呀ー真是吓到我了！<br>没想到居然被<span class='scene-font-spword'>七星剣</span><br>认可到这种程度呢！
 7,ビィ/碧,とか何とか言って……<br>本当は自分が負けそう<br>だったんじゃねぇのか？,话说你在说什么啊……<br>你真的有觉得<br>你自己输了吗？
@@ -15,7 +15,7 @@ id,name,text,trans
 11,,<span class='scene-font-katari'>戦闘後、シエテは改めて</span><br><span class='scene-font-spword'>七星剣</span><span class='scene-font-katari'>の覚醒祝いを</span><br><span class='scene-font-katari'>開いてくれるのだった。</span>,<span class='scene-font-katari'>战斗之后，希耶提重新向</span><br><span class='scene-font-spword'>七星剣</span><span class='scene-font-katari'>的觉醒</span><br><span class='scene-font-katari'>送上了庆贺。</span>
 12,シエテ/希耶提,いやーめでたいね！<br>ここに全空一の剣の使い手が<br>新たに誕生したんだよ！,哎呀ー恭喜啊！<br>在这里新的全空第一的<br>剑士诞生了呦！
 13,ビィ/碧,ったく……<br>ほんと調子の良いヤローだぜ……,真是的……<br>真是个会耍嘴皮子的家伙……
-14,ルリア/露莉亚,まぁまぁ……ビィさん。<br>誰も大きな怪我をしないで<br>良かったじゃないですか？,嘛啊嘛啊……碧桑。<br>谁也没有受什么大伤<br>不是挺好的吗？
+14,ルリア/露莉亚,まぁまぁ……ビィさん。<br>誰も大きな怪我をしないで<br>良かったじゃないですか？,嘛啊嘛啊……碧。<br>谁也没有受什么大伤<br>不是挺好的吗？
 15,,<span class='scene-font-katari'>祝いの席の中、急に真剣な</span><br><span class='scene-font-katari'>表情になったシエテが</span><br><span class='scene-font-katari'>姬塔に話しかける。</span>,<span class='scene-font-katari'>在庆祝的宴会上，希耶提突然</span><br><span class='scene-font-katari'>露出了认真的表情</span><br><span class='scene-font-katari'>向姬塔搭话。</span>
 16,シエテ/希耶提,なぁ、姬塔。<br>君に相談があるんだけど……<br>この俺を仲間にしてくれないか？,呐，姬塔。<br>我有事想和你商量……<br>可以让我成为你的伙伴吗？
 17,ビィ/碧,おいおい！<br>突然戦えとか、仲間にしろとか<br>もう一体何なんだよ？,喂喂！<br>突然说来战斗，又突然说要成为伙伴<br>你到底想做什么啊？
@@ -41,13 +41,13 @@ id,name,text,trans
 35,シエテ/希耶提,ふふふ……姬塔は<br>これからもっともっと<br>強くなるぞ……楽しみだなー,呵呵呵……姬塔你啊<br>从今以后<br>要变得更强更强哟……我很期待啊ー
 36,ビィ/碧,やれやれ……今度は<br>ひとりでニヤニヤしやがって<br>どうしたんだ？,真是的……这次是<br>一个人在那边笑眯眯的<br>发生了什么吗？
 37,シエテ/希耶提,いや……姬塔が成長して<br>一皮むけた時に……再戦するのが<br>楽しみだなーと思って！,没有……我只是在期待着<br>姬塔成长到……蜕变成熟的时候<br>与她再战斗一次！
-38,ルリア/露莉亚,ええっ！<br>シエテさん、また戦うんですか？,诶诶！<br>希耶提桑，还要再战斗吗？
+38,ルリア/露莉亚,ええっ！<br>シエテさん、また戦うんですか？,诶诶！<br>希耶提，还要再战斗吗？
 39,シエテ/希耶提,えっ？　ダメかな？<br>その時の姬塔に勝ってこそ……,诶？　不行吗？<br>我认为打败了那时的姬塔……
 40,シエテ/希耶提,胸を張って剣拓を取る<br>絶好のタイミングだと<br>思うんだけどなー,正是昂首提胸进行剑的复制的<br>绝好的机会呢ー
 41,ビィ/碧,お前！<br>やっぱり剣拓狙ってんじゃねぇか！,你！<br>果然是目的是剑的复制吗！
-42,ルリア/露莉亚,そんな……<br>また喧嘩するつもりなら、<br>やっぱり出て行って下さい……,怎么会……<br>如果还是想要打架的话，<br>果然还是请你离开吧……
+42,ルリア/露莉亚,そんな……<br>また喧嘩するつもりなら、<br>やっぱり出て行って下さい……,怎么这样……<br>如果还是想要打架的话，<br>果然还是请你离开吧……
 43,シエテ/希耶提,ごめんごめん！<br>嘘だって！　嘘！,抱歉抱歉！<br>我说谎了！　是谎言！
-44,シエテ/希耶提,さぁさぁ！　ここからは<br>シエテさん入団おめでとう<br>パーティの始まりだよー,那么！　这之后就<br>让我们为了庆贺希耶提桑的入团<br>开始庆祝派对吧ー
+44,シエテ/希耶提,さぁさぁ！　ここからは<br>シエテさん入団おめでとう<br>パーティの始まりだよー,那么！　这之后就<br>让我们为了庆贺希耶提的入团<br>开始庆祝派对吧ー
 45,ビィ/碧,ったく……<br>本当に調子の良い奴だぜ……,真是的……<br>这个超会耍嘴皮子的家伙……
 46,,<span class='scene-font-katari'>こうして十天衆の頭目、</span><br><span class='scene-font-katari'>天星剣王のシエテが</span><br><span class='scene-font-katari'>一行の仲間に加わった。</span>,<span class='scene-font-katari'>就这样十天众的首领，</span><br><span class='scene-font-katari'>天星剑王希耶提</span><br><span class='scene-font-katari'>加入了一行人成为了伙伴。</span>
 47,,<span class='scene-font-katari'>彼が一行の旅に様々な</span><br><span class='scene-font-katari'>波乱を巻き起こすのは</span><br><span class='scene-font-katari'>まず間違いがないだろう。</span>,<span class='scene-font-katari'>无论如何可以知道的是</span><br><span class='scene-font-katari'>他们一行人的旅途上</span><br><span class='scene-font-katari'>肯定会有各种各样的骚乱吧。</span>
