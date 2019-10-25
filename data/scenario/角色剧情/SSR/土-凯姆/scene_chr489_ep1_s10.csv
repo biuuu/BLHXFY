@@ -22,7 +22,7 @@ id,name,text,trans
 19,？？？,……やっぱりあなたが<br>姬塔だったんだ。,……果然你就是<br>姬塔啊。
 20,,<span class='scene-font-katari'>小さな依頼人は、目深に被った</span><br><span class='scene-font-katari'>フードの下から姬塔の顔を</span><br><span class='scene-font-katari'>じっと見つめる。</span>,<span class='scene-font-katari'>小小的委托人，兜帽拉得很低</span><br><span class='scene-font-katari'>从披风之下</span><br><span class='scene-font-katari'>盯着姬塔看。</span>
 21,ルリア/露莉亚,えーっと、あの……<br>あなたが依頼人さんですか？,诶ー那个……<br>你就是委托人吗？
-22,？？？,ああ、失礼。,嗯，失礼了。
+22,？？？,ああ、失礼。,啊，失礼了。
 24,,<span class='scene-font-katari'>取り払われたフードの下からは、</span><br><span class='scene-font-katari'>どこか気品のある風貌の</span><br><span class='scene-font-katari'>少年が顔を出す。</span>,<span class='scene-font-katari'>兜帽取下后</span><br><span class='scene-font-katari'>出现了一张</span><br><span class='scene-font-katari'>总让人觉得非常有气度的少年的脸庞。</span>
 25,カイム,僕はカイム。シェロカルテから<br>聞いただろうけど、あなた達に<br>お願いしたいことがあるんだ。,我是凯姆。你们应该已经<br>从榭洛科特那里听过了。我有一个请求<br>想要委托你们。
 26,ビィ/碧,こいつが、オイラ達に<br>会いたがってたって奴なのか……,这家伙就是，<br>想要和我们见面的那家伙啊……
@@ -47,14 +47,14 @@ id,name,text,trans
 51,,<span class='scene-font-katari'>幼い外見とは不釣り合いな、</span><br><span class='scene-font-katari'>余りに大人びたカイムの物言いに、</span><br><span class='scene-font-katari'>一行は驚き気圧されてしまう。</span>,<span class='scene-font-katari'>因为凯姆那与年龄不符的</span><br><span class='scene-font-katari'>过于老成的说话口吻</span><br><span class='scene-font-katari'>一行人不由得感到吃惊和胆怯。</span>
 52,,<span class='scene-font-katari'>口ごもる姬塔達に</span><br><span class='scene-font-katari'>向かって、カイムはうっすらと</span><br><span class='scene-font-katari'>微笑んだ。</span>,<span class='scene-font-katari'>对着支支吾吾的姬塔他们</span><br><span class='scene-font-katari'>凯姆微微地</span><br><span class='scene-font-katari'>笑了一笑。</span>
 53,カイム,僕のことを信じてくれたのは<br>とてもありがたいと思ってるよ。,非常感谢你们<br>能够相信我说的话。
-54,カイム,逆に、僕もあなた達を信用してるから、<br>一人でここまでついて来たし、そもそも<br>お願いをしようと思ったんだ。,反过来说，我也是因为相信你们，<br>才会只身一人来到这里的<br>那么该要说我的委托了。
+54,カイム,逆に、僕もあなた達を信用してるから、<br>一人でここまでついて来たし、そもそも<br>お願いをしようと思ったんだ。,反过来说，我也是因为相信你们，<br>才会只身一人来到这里的<br>才会想要拜托你们的。
 55,ビィ/碧,お、おう。<br>ありがとな。,喔，喔。<br>谢谢你啊。
-56,カイム,じゃあ、早速だけど<br>本題に入らせてもらうよ。,那么，虽然有点快<br>就让我说说正题吧。
+56,カイム,じゃあ、早速だけど<br>本題に入らせてもらうよ。,那么，虽然有点快<br>就让我进入正题吧。
 57,ルリア/露莉亚,はい、依頼の話ですね？,嗯，是委托的事吧？
 58,カイム,うん。<br>あなた達、覇空戦争はもちろん<br>知っているよね？,嗯。<br>你们应该是知道<br>霸空战争的吧？
-59,ルリア/露莉亚,はい、知ってますよ。<br>昔あった、空の民と<span class='scene-font-spword'>星の民</span>の<br>大きな戦いですよね。,是的，我们知道哟。<br>曾经发生过的，空之民和<span class='scene-font-spword'>星之民</span>の<br>之间的一场浩大的战争。
+59,ルリア/露莉亚,はい、知ってますよ。<br>昔あった、空の民と<span class='scene-font-spword'>星の民</span>の<br>大きな戦いですよね。,是的，我们知道哟。<br>曾经发生过的，空之民和<span class='scene-font-spword'>星之民</span>之间的<br>一场浩大的战争。
 60,カイム,まあ、おおまかにはそうだね。,嘛啊，大致来说是那样的。
-61,カイム,当時、この空の世界の各地で<br>熾烈な戦いが繰り返された。,那時，在这片天空的世界各地<br>都不断发生着激烈的战斗。
+61,カイム,当時、この空の世界の各地で<br>熾烈な戦いが繰り返された。,那時，在这片天空的世界各地<br>都反复发生着激烈的战斗。
 62,カイム,そして最終的には<span class='scene-font-spword'>星の民</span>を<br>撤退させることに成功した、<br>空の民の勝利だったと言えるだろう。,然后最终是以成功让<span class='scene-font-spword'>星之民</span>撤退<br>被认为是空之民的胜利。
 63,ビィ/碧,おう。<br>それはオイラ達も知ってるぜ！,喔。<br>那件事我们也知道哦！
 64,カイム,あなた達には、その戦いでもう一度<br>空の民に勝利をもたらして欲しい。,我希望你们能够在那场战役里<br>再一次让空之民获得胜利。
@@ -70,13 +70,13 @@ id,name,text,trans
 74,ビィ/碧,……なあルリア、<br>ひょっとして感じるのか？,……呐露莉亚，<br>莫非你感觉到什么了吗？
 75,ルリア/露莉亚,ビィさんもですか？<br>うまく言えないんですけど……<br>なんだか不思議な気配がするような……,碧你也是吗？<br>虽然很难描述……<br>总觉得像是有种不可思议的气息……
 76,ビィ/碧,おう、オイラもだぜ。,噢，我也觉得。
-77,カイム,流石だね。<br>やっぱりあなた達にお願いする<br>ことにして良かった。,不愧是你们啊。<br>果然有拜托你们这件事<br>真是太好了。
+77,カイム,流石だね。<br>やっぱりあなた達にお願いする<br>ことにして良かった。,不愧是你们啊。<br>果然向你们拜托这件事<br>真是太好了。
 78,ルリア/露莉亚,どういうことですか？<br>このカードは一体……？,你是什么意思呢？<br>这张卡牌到底……？
 79,カイム,その辺りも含めて、<br>やっぱり実際に体験してもらいたい。,包括那周边的事，<br>果然还是想要让你们实际体验看看啊。
 80,ビィ/碧,体験っつってもよぉ、<br>何をすればいいんだ？,你说体验<br>要做什么才行呢？
-81,カイム,あなた達は、これまでにも沢山の<br>魔物や星晶獣と戦ってきたって<br>聞いてるよ。,我听说过你们<br>至今为止已经<br和许多魔物和星晶兽战斗过了。
+81,カイム,あなた達は、これまでにも沢山の<br>魔物や星晶獣と戦ってきたって<br>聞いてるよ。,我听说过你们<br>至今为止已经<br>和许多魔物和星晶兽战斗过了。
 82,カイム,それと同じように、<br>現れる敵を倒してくれたらいい。,只要和那一样<br>把出现的敌人都打倒就行了。
-83,カイム,それが、この世界を<br>救うことにつながるから。,因为那关系到<br>如何去拯救这个世界。
+83,カイム,それが、この世界を<br>救うことにつながるから。,因为这与拯救这个世界<br>有着重大关联。
 84,ビィ/碧,世界を救うだって！？<br>そりゃ、どういうことなんだ？,你说拯救世界！？<br>那是，什么意思啊？
 85,カイム,これは、この空の世界を救う為の<br>依頼なんだ。あなた達なら、きっと<br>果たしてくれるって信じてるよ。,这是为了拯救这个空之世界而发出的委托。<br>我相信如果是你们的话，<br>肯定能够解决这件事的。
 86,ルリア/露莉亚,でも、どうやって……？,但是，要怎么……？
@@ -107,6 +107,6 @@ id,name,text,trans
 117,ルリア/露莉亚,カイムくんは、これが世界を救う<br>ことにつながるって言ってましたね。,凯姆说过这是与拯救世界<br>有着重大关系的事呢。
 118,ビィ/碧,だな。<br>となれば、逃げだすことなんて<br>できるわけねぇよな！,是啊。<br>这样的话，我们也不能够<br>就此逃避了呢！
 119,ルリア/露莉亚,はい！<br>何が起きるかわかりませんし、<br>気を付けて行きましょう。,嗯！<br>因为不知道会发生什么，<br>小心地前进吧。
-120,,<span class='scene-font-katari'>こうして、姬塔達は</span><br><span class='scene-font-katari'>目の前の激しい戦いに身を</span><br><span class='scene-font-katari'>投じる覚悟を決める。</span>,<span class='scene-font-katari'>就这样，姬塔他们</span><br><span class='scene-font-katari'>下定决定要</span><br><span class='scene-font-katari'>投身于眼前的战争。</span>
+120,,<span class='scene-font-katari'>こうして、姬塔達は</span><br><span class='scene-font-katari'>目の前の激しい戦いに身を</span><br><span class='scene-font-katari'>投じる覚悟を決める。</span>,<span class='scene-font-katari'>就这样，姬塔他们</span><br><span class='scene-font-katari'>下定决心要</span><br><span class='scene-font-katari'>投身于眼前的战争。</span>
 121,,<span class='scene-font-katari'>「この戦いが、世界を救うことに</span><br><span class='scene-font-katari'>つながる」というカイムの言葉が、</span><br><span class='scene-font-katari'>彼等を突き動かしていた。</span>,<span class='scene-font-katari'>「这场战斗，与拯救世界</span><br><span class='scene-font-katari'>有着重大关联」这句凯姆的话语，</span><br><span class='scene-font-katari'>激励着她们。</span>
 info,,,scene_chr489_ep1_s10
