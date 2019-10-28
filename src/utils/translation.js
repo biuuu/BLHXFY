@@ -171,9 +171,14 @@ const caiyunTrans = async (source, from) => {
       let str = ''
       while (i >= 0) {
         i--
-        str += list.shift() + '\n'
+        let _str = list.shift()
+        if (_str) {
+          str += _str + '\n'
+        }
       }
-      transArr.push(str.slice(0, str.length - 1))
+      if (str) {
+        transArr.push(str.slice(0, str.length - 1))
+      }
     })
     return transArr
   } catch (e) {

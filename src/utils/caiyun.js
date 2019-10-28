@@ -7,6 +7,7 @@ let bid = ''
 let uid = ''
 let pid = ''
 let auth = null
+let limited = false
 
 const sleep = (time) => {
   return new Promise(rev => {
@@ -62,7 +63,11 @@ const getAuth = () => {
           })
         })
       }).then(res => {
-        pid = res.page_id
+        if (res.auth_type === -1 || !res.page_id) {
+          limited = true
+        } else {
+          pid = res.page_id
+        }
       }).then(rev).catch(rej)
     })
   }
@@ -72,6 +77,9 @@ const getAuth = () => {
 const translator = async (list, from = 'ja') => {
   await getAuth()
   await auth
+  if (limited) {
+    return ['caiyunoutoflimit']
+  }
   const res = await request('https://api.interpreter.caiyunai.com/v1/page/translator', {
     cors: true,
     method: 'POST',
