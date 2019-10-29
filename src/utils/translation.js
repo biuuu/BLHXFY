@@ -8,10 +8,27 @@ import { fetchInfo } from '../fetch'
 import { removeHtmlTag } from './index'
 import caiyunApi from './caiyun'
 
+const joinBr = (list, br, transArr) => {
+  br.forEach(count => {
+    let i = count
+    let str = ''
+    while (i >= 0) {
+      i--
+      let _str = list.shift()
+      if (_str) {
+        str += _str + '\n'
+      }
+    }
+    if (str) {
+      transArr.push(str.slice(0, str.length - 1))
+    }
+  })
+}
+
 const getTransResult = (data) => {
   if (data[0] && data[0].length) {
     const result = data[0].map(item => item[0])
-    return result
+    return result.join('').split('\n')
   }
   return []
 }
@@ -118,15 +135,7 @@ const googleTrans = async (source, from = 'ja') => {
     let result = await Promise.all(textArr.map(query => googleApi(query, from)))
     let list = result.reduce((a, b) => a.concat(b))
     let transArr = []
-    br.forEach(count => {
-      let i = count
-      let str = ''
-      while (i >= 0) {
-        i--
-        str += list.shift() + '\n'
-      }
-      transArr.push(str.slice(0, str.length - 1))
-    })
+    joinBr(list, br, transArr)
     return transArr
   } catch (e) {
     console.log(e)
@@ -141,15 +150,7 @@ const baiduTrans = async (source, from = 'jp') => {
     let result = await Promise.all(textArr.map(query => bdsApi(query, from)))
     let list = result.reduce((a, b) => a.concat(b))
     let transArr = []
-    br.forEach(count => {
-      let i = count
-      let str = ''
-      while (i >= 0) {
-        i--
-        str += list.shift() + '\n'
-      }
-      transArr.push(str.slice(0, str.length - 1))
-    })
+    joinBr(list, br, transArr)
     return transArr
   } catch (e) {
     console.log(e)
@@ -166,20 +167,7 @@ const caiyunTrans = async (source, from) => {
     }))
     let list = result.reduce((a, b) => a.concat(b))
     let transArr = []
-    br.forEach(count => {
-      let i = count
-      let str = ''
-      while (i >= 0) {
-        i--
-        let _str = list.shift()
-        if (_str) {
-          str += _str + '\n'
-        }
-      }
-      if (str) {
-        transArr.push(str.slice(0, str.length - 1))
-      }
-    })
+    joinBr(list, br, transArr)
     return transArr
   } catch (e) {
     console.log(e)
