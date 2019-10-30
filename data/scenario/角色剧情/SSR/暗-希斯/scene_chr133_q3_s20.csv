@@ -29,7 +29,7 @@ id,name,text,trans
 28,ビィ/碧,そうだぜ！　仮面の下じゃ<br>そんな辛そうな顔してるってのに<br>放っておけるかってんだ！,对啊！　明明面具之下<br>你的表情是那么的痛苦<br>决不能够放着你不管！
 29,シス/希斯,……ぅ、お前、たち……,……呜，你，们……
 29-sel1_txt,,<span class='scene-font-katari'>そんなに頼りない？</span>,<span class='scene-font-katari'>我就这么不可靠？</span>
-29-sel2_txt,,<span class='scene-font-katari'>その咎、共に背負おう！</span>,<span class='scene-font-katari'>那份罪过，一起承担吧！</span>
+29-sel2_txt,,<span class='scene-font-katari'>その咎、共に背負おう！</span>,<span class='scene-font-katari'>一起承担那份罪过吧！</span>
 30,シス/希斯,ぅぐ……<br>……そ、いうワケじゃ……,呜咕……<br>……不，不是那样的……
 31,シス/希斯,…………！,…………！
 32,ルリア/露莉亚,あれ？　この日記……<br>後ろにもなんか書いてあります！,诶？　这本日记……<br>最后还写着什么！
