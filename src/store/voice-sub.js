@@ -12,7 +12,7 @@ const getTownData = async () => {
     const list = parseCsv(csv)
     list.forEach(item => {
       const path = trim(item.path)
-      const trans = filter(trim(item.trans))
+      const trans = filter(item.trans)
       const duration = trim(item.duration) || 10
       if (path && trans) {
         voiceMap.set(path, { trans, duration })

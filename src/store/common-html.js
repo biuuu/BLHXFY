@@ -20,7 +20,7 @@ const getCommHtmlData = async () => {
     sortKeywords(list, 'text').forEach((item, index) => {
       const pathname = trim(item.path)
       const text = trim(item.text)
-      const trans = filter(trim(item.trans))
+      const trans = filter(item.trans)
       const times = (item.count | 0) || 1
       if (pathname && text && trans) {
         if (tempMap.has(pathname)) {

@@ -19,7 +19,7 @@ const getData = async (type) => {
   const list = parseCsv(csv)
   list.forEach(item => {
     const detail = trim(item.detail)
-    const trans = filter(trim(item.trans))
+    const trans = filter(item.trans)
     if (detail && trans) {
       buffMap[type].set(detail, trans)
     }

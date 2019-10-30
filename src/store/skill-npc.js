@@ -48,7 +48,7 @@ const getCommSkillMap = async () => {
   sortedList.forEach(item => {
     if (item.comment && item.trans && item.type) {
       const comment = trim(item.comment)
-      const trans = filter(trim(item.trans))
+      const trans = filter(item.trans)
       const type = trim(item.type) || '1'
       if (comment && trans) {
         if (type === '4') {
@@ -76,8 +76,8 @@ const getSkillMap = async () => {
     state.skillMap = new Map(arr)
     for (let [key, item] of state.skillMap) {
       for (let _key in item) {
-        item[_key].name = filter(trim(item[_key].name))
-        item[_key].detail = filter(trim(item[_key].detail))
+        item[_key].name = filter(item[_key].name)
+        item[_key].detail = filter(item[_key].detail)
       }
     }
     state.locSkMap = true
@@ -97,7 +97,7 @@ const getAutoTrans = async () => {
     const arr = JSON.parse(str)
     state.autoTransCache = new Map(arr)
     for (let [key, item] of state.autoTransCache) {
-      state.autoTransCache.set(key, filter(trim(item)))
+      state.autoTransCache.set(key, filter(item))
     }
     state.locASMap = true
   } catch (e) {

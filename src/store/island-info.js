@@ -12,8 +12,8 @@ const getIslandData = async () => {
     const list = parseCsv(csv)
     list.forEach(item => {
       const id = trim(item.id)
-      const name = filter(trim(item.name))
-      const detail = filter(trim(item.detail))
+      const name = filter(item.name)
+      const detail = filter(item.detail)
       if (id && name) {
         islandMap.set(id, { name, detail })
         if (id === 'skydom') {

@@ -12,8 +12,8 @@ const getComicData = async () => {
     const list = parseCsv(csv)
     list.forEach(item => {
       const id = trim(item.id)
-      const title = filter(trim(item.title))
-      const url = filter(trim(item.url))
+      const title = filter(item.title)
+      const url = filter(item.url)
       if (id && url) {
         comicMap.set(id, { title, url })
       }

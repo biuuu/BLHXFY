@@ -23,7 +23,7 @@ const nameWithScenario = (list, key = 'name') => {
         obj[item.scenario] = item
         obj.scenarios.push(item.scenario)
       } else {
-        obj.trans = filter(trim(item.trans))
+        obj.trans = filter(item.trans)
         obj.noun = !!item.noun
       }
     } else {
@@ -32,7 +32,7 @@ const nameWithScenario = (list, key = 'name') => {
         obj[item.scenario] = item
         obj.scenarios.push(item.scenario)
       } else {
-        obj.trans = filter(trim(item.trans))
+        obj.trans = filter(item.trans)
         obj.noun = !!item.noun
       }
       newList.push(obj)
@@ -70,7 +70,7 @@ const getNounData = async () => {
 
     sortKeywords(listNoun, 'keyword').forEach(item => {
       const keyword = trim(item.keyword)
-      const trans = filter(trim(item.trans))
+      const trans = filter(item.trans)
       if (keyword && trans) {
         nounMap.set(keyword, {
           trans,
@@ -80,14 +80,14 @@ const getNounData = async () => {
     })
     sortKeywords(listNounFix, 'text').forEach(item => {
       const text = trim(item.text)
-      const fix = filter(trim(item.fixed))
+      const fix = filter(item.fixed)
       if (text && fix) {
         nounFixMap.set(text, fix)
       }
     })
     sortKeywords(listCaiyunPrefix, 'text').forEach(item => {
       const text = trim(item.text)
-      const fix = filter(trim(item.fixed))
+      const fix = filter(item.fixed)
       if (text && fix) {
         caiyunPrefixMap.set(text, fix)
       }

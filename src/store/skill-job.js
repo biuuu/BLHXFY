@@ -22,8 +22,8 @@ const getSkillData = async (id) => {
         const _ja = trim(item.ja)
         if (_id) {
           const value = {
-            name: filter(trim(item.name)),
-            detail: filter(trim(item.detail))
+            name: filter(item.name),
+            detail: filter(item.detail)
           }
           skillMap.set(_id, value)
           if (_ja) skillMap.set(_ja, value)

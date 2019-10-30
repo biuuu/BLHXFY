@@ -17,7 +17,7 @@ const getArcarumData = async () => {
     const list = parseCsv(csv)
     list.forEach(item => {
       const ja = trim(item.ja).replace(/<br>/g, '')
-      const zh = filter(trim(item.zh))
+      const zh = filter(item.zh)
       if (ja && zh) {
         arcarumMap.set(ja, zh)
       }

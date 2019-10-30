@@ -13,7 +13,7 @@ const getArchiveData = async () => {
     const list = parseCsv(csv)
     sortKeywords(list, 'text').forEach(item => {
       const text = trim(item.text)
-      const trans = filter(trim(item.trans))
+      const trans = filter(item.trans)
       const times = (item.count | 0) || 1
       if (text && trans) {
         htmlMap.set(text, { trans, times })

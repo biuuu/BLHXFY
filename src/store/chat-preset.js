@@ -19,7 +19,7 @@ const getChatData = async () => {
     list.forEach(item => {
       const id = trim(item.id)
       const text = trim(item.text)
-      const trans = filter(trim(item.trans))
+      const trans = filter(item.trans)
       if (id && trans) {
         if (/\d+-n/.test(id)) {
           const rgs = id.match(/(\d+)-n/)

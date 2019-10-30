@@ -17,9 +17,9 @@ const getTownData = async () => {
     const list = parseCsv(csv)
     list.forEach(item => {
       const id = trim(item.id)
-      const name = filter(trim(item.name))
-      const detail = filter(trim(item.detail))
-      const vyrn = filter(trim(item.vyrn))
+      const name = filter(item.name)
+      const detail = filter(item.detail)
+      const vyrn = filter(item.vyrn)
       if (id && name) {
         townMap.set(id, { name, detail, vyrn })
       }

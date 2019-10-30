@@ -1,4 +1,5 @@
 import DOMPurify from 'dompurify'
+import { trim } from './index'
 
 const whiteList = [
   '需要<%= quest_ap - sp %><%= point_name %>来开始。',
@@ -15,11 +16,12 @@ const whiteList = [
   '<%= title %>'
 ]
 
-const filter = (str) => {
+const filter = (str, notTrim = false) => {
   if (!whiteList.includes(str) && /[><]/.test(str)) {
-    return DOMPurify.sanitize(str)
+    let _str = DOMPurify.sanitize(str)
+    return notTrim ? _str : trim(_str)
   }
-  return str
+  return notTrim ? str : trim(str)
 }
 
 export default filter
