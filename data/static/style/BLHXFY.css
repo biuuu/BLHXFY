@@ -597,7 +597,7 @@ body .prt-request-info .txt-request {
     display: inline-flex;
     min-height: 24px;
     background-color: rgba(228, 219, 198, 0.96);
-    z-index: 99;
+    z-index: 99999;
     transform: translate(-50%, -50%);
     backface-visibility: hidden;
     line-height: 18px;
