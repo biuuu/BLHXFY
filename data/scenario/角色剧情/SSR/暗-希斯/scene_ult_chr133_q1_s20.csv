@@ -9,15 +9,15 @@ id,name,text,trans
 5,シス/希斯,っ！？<br>何を言っている！？,！？<br>你在说什么！？
 6,ルリア/露莉亚,……そうですね。,……说的也是啊。
 7,ビィ/碧,ああ。兄ちゃんが化け物なら、<br>それに勝った姬塔も<br>化け物ってことになるな。,啊啊。如果小哥你是怪物的话<br>赢了你的姬塔<br>就也是怪物了呢。
-8,シス/希斯,やめろ！　そんなわけはない！<br>姬塔は<br>化け物なんかじゃない！,别说了！　才不是那样的！<br>姬塔<br>才不会是什么怪物！
-9,ルリア/露莉亚,それじゃあシスさんも<br>化け物じゃないですよ。,那么希斯桑也<br>才不是什么怪物呢。
+8,シス/希斯,やめろ！　そんなわけはない！<br>姬塔は<br>化け物なんかじゃない！,别说了！　才不是那样的！<br>姬塔才不会是什么怪物！
+9,ルリア/露莉亚,それじゃあシスさんも<br>化け物じゃないですよ。,那么希斯也<br>才不是什么怪物呢。
 10,シス/希斯,それは……,那是……
 11,,<span class='scene-font-katari'>まっすぐにぶつけられる</span><br><span class='scene-font-katari'>真摯な声と視線に、</span><br><span class='scene-font-katari'>シスは返す言葉を失った。</span>,<span class='scene-font-katari'>被一行人的直率所冲击</span><br><span class='scene-font-katari'>在这真挚的话语和眼神下</span><br><span class='scene-font-katari'>希斯说不出反驳的话语。</span>
 15,シス/希斯,お前達は一体、<br>何が言いたいんだ……？,你们到底，<br>想说什么……？
 16,ビィ/碧,あのな、兄ちゃん……,那个啊，小哥……
 17,ビィ/碧,兄ちゃんはすげぇ強いけど、<br>それを悪く思ったことなんて<br>オイラ達は一度もねぇぞ。,虽然小哥你超强的<br>但是我们可从来都没有觉得<br>那是不好的呦。
-18,ルリア/露莉亚,当たり前です。私達、シスさんの<br>強さにいつも助けられてて、<br>とっても嬉しくて頼もしいです。,那是当然的。我们，总是被<br>希斯桑的强大所帮助，<br>所以觉得很开心也很可靠呢。
-19,ルリア/露莉亚,だから、悲しいこと<br>言わないでください……,所以，请不要再说<br>那么令人悲伤的话了……
+18,ルリア/露莉亚,当たり前です。私達、シスさんの<br>強さにいつも助けられてて、<br>とっても嬉しくて頼もしいです。,那是当然的。我们，总是被<br>希斯的强大所帮助，<br>所以觉得很开心也很可靠呢。
+19,ルリア/露莉亚,だから、悲しいこと<br>言わないでください……,所以，请不要再说那么令人悲伤的话了……
 20,シス/希斯,……そうか。,……是这样啊。
 21,,<span class='scene-font-katari'>緩く息を吐き出したシスは</span><br><span class='scene-font-katari'>ルリア達の言葉を噛みしめるように</span><br><span class='scene-font-katari'>目を伏せようとした。</span>,<span class='scene-font-katari'>缓缓地呼出一口气的希斯</span><br><span class='scene-font-katari'>像是要仔细品味露莉亚一行的话语一样</span><br><span class='scene-font-katari'>低下了头。</span>
 22,,<span class='scene-font-katari'>しかしその時――</span>,<span class='scene-font-katari'>但是就在那时――</span>
@@ -29,7 +29,7 @@ id,name,text,trans
 30,ビィ/碧,おーい、兄ちゃん？<br>どうかしたのか？,喂ー，小哥？<br>你怎么了吗？
 31,シス/希斯,っ、は……！,哈……！
 32,,<span class='scene-font-katari'>言い様のない気配が消え、</span><br><span class='scene-font-katari'>ビィの声がシスの身体を揺らす。</span>,<span class='scene-font-katari'>难以言喻的气息消失了</span><br><span class='scene-font-katari'>碧的声音唤回了希斯的意识。</span>
-33,ルリア/露莉亚,シスさん？,希斯桑？
+33,ルリア/露莉亚,シスさん？,希斯？
 34,シス/希斯,……いや、なんでもない。,……不，没什么。
 35,シス/希斯,<span class='scene-font-kokoro'>（もう声も気配もない……</span><br><span class='scene-font-kokoro'>気のせいか？</span><br><span class='scene-font-kokoro'>だが、今のは……）</span>,<span class='scene-font-kokoro'>（声音和气息已经消失了……</span><br><span class='scene-font-kokoro'>是我的错觉吗？</span><br><span class='scene-font-kokoro'>但是，刚刚那是……）</span>
 36,ビィ/碧,えっと、何を気にしてるのか<br>知らねぇけど、兄ちゃんが<br>化け物ってのはやっぱり違うと思うぜ。,那个，虽然我不知道<br>你在介意什么，但是我觉得小哥你<br>果然和怪物是不一样的。
