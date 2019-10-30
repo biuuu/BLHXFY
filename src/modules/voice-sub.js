@@ -33,7 +33,7 @@ const hideBox = () => {
 }
 
 const setSubBox = (text, duration) => {
-  const cont = document.querySelector('.cnt-mypage .prt-user-scene')
+  const cont = document.querySelector('.cnt-mypage .prt-user-scene') || document.querySelector('.cnt-detail .prt-image')
   if (!cont) return
   let box = document.getElementById('box-sub-blhxfy')
   if (!box) {
@@ -42,7 +42,7 @@ const setSubBox = (text, duration) => {
   }
   let _text = text
   if (config.userName && (config.userName !== '姬塔' || config.userName !== '古兰')) {
-    _text = _text.replace(/团长/g, config.userName)
+    _text = _text.replace(/(团长|姬塔)/g, config.userName)
   }
   box.innerText = _text.replace(/\\n/g, '\n')
   setTimeout(() => {

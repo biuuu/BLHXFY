@@ -68,7 +68,7 @@ export default async function translate(state) {
       data = await transJobSkill(data, pathname)
     } else if (pathname.includes('/island/init')) {
       data = await transIslandInfo(data, pathname)
-    } else if (pathname.includes('/rest/sound/mypage_voice')) {
+    } else if (pathname.includes('/rest/sound/mypage_voice') || pathname.includes('/rest/sound/archive_voice')) {
       await showVoiceSub(data, pathname, 'list')
     } else if (
       /\/rest\/(multi)?raid\/start\.json/.test(pathname)
