@@ -1,0 +1,12 @@
+id,name,text,trans
+0,シエテ/希耶提,やぁやぁ、ルシぬいちゃん！<br>俺の部屋に来るなんてどうしたの？<br><span class='scene-font-kokoro'>（悪戯？　それともお菓子かな？）</span>,呀呀，团长酱！<br>为什么会来我的房间？<br><span class='scene-font-kokoro'>（恶作剧？　还是要给我糖？）</span>
+1,シエテ/希耶提,子供達に追われてるから匿ってほしい？<br>悪戯のターゲットにされるなんて、<br>人気者も大変だね～,孩子们在追你，你想躲一躲？<br>你会被当成恶作剧的目标，<br>有人气也很辛苦呀～
+2,シエテ/希耶提,ちょっと予想外の展開だけど、いいよ。<br>なんなら外の様子も見てきてあげる。,虽然这个展开有点意外，可以哟。<br>需要的话我去外面给你望望风。
+3,シエテ/希耶提,<span class='scene-font-kokoro'>（ルシぬいちゃんと遊ぶの</span><br><span class='scene-font-kokoro'>楽しみだったんだけど、</span><br><span class='scene-font-kokoro'>たまには大人なところも見せるか）</span>,<span class='scene-font-kokoro'>（虽然和团长酱闹着玩儿也挺开心的，</span><br><span class='scene-font-kokoro'>偶尔也展露下自己大人的一面吧。）</span>
+6,シエテ/希耶提,<span class='scene-font-4'>ひんっっ！？</span><br><span class='scene-font-4'>あ冷たぁっ！？</span>,<span class='scene-font-4'>咦！？</span><br><span class='scene-font-4'>啊好冷！？</span>
+7,シエテ/希耶提,あはは……水鉄砲ね……<br>うなじにクリーンヒットだったよ……,啊哈哈……是水枪啊……<br>很精准地打到我后颈上了……
+8,シエテ/希耶提,ねぇ、もしかして最初から全部<br>俺への悪戯だったりする？<br>追われてるのも嘘だったとか？,难道说从一开始就是要对我搞恶作剧？<br>被追赶也是假的？
+9,シエテ/希耶提,ああ～やっぱりそう？<br>いやぁ、名演技だったね、<br>すっかり騙されちゃったよ。,啊啊~果然是这样啊。<br>演技还真是好啊，我完全被你骗到了。
+10,シエテ/希耶提,<span class='scene-font-kokoro'>（でもさぁ、全力で背中を取りに</span><br><span class='scene-font-kokoro'>来るとか、ルシぬいちゃん</span><br><span class='scene-font-kokoro'>ちょっと本気出しすぎじゃない？）</span>,<span class='scene-font-kokoro'>（但是全力冲过来要拿下我的背后，</span><br><span class='scene-font-kokoro'>团长酱</span><span class='scene-font-kokoro'>是不是有点太认真了？）</span>
+info,,,scene_s5_halloween_4007_v1_0_2004_5_3040036000
+译者,,,碧哈姆特
