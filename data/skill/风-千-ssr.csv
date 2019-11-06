@@ -1,0 +1,12 @@
+id,name,detail
+npc,千,3040204000
+special,猫猫旋风斩,风属性伤害(特大) <span class=text-blue>◆根据旋风爪LV提升性能/旋风爪LV为5时赋予自己风属性追击效果</span>
+skill-1,岚爪,无视目标造成6次风属性伤害/回避敌人的所有攻击（1次）
+skill-1+,岚爪,无视目标造成6次风属性伤害/回避敌人的所有攻击（1次）
+skill-2,认真上了！,自己的能力大幅UP<br><span class=text-blue>◆受到2次伤害后解除效果</span>
+skill-2+,认真上了！,自己的能力大幅UP<br><span class=text-blue>◆受到2次伤害后解除效果</span>
+skill-3,风爪明媚,敌方全体攻击DOWN/连续攻击几率DOWN/自己的旋风爪LV上升1
+support-1,爪烈之型,<div class=prt-text-small>几率反击（回避/3次）<br><span class=text-blue>◆根据旋风爪LV，反击效果的发动率UP/成功回避时旋风爪LV上升1（最大5）</span></div>
+support-2,跳翔之型,根据经过的回合数，自己的3连击几率UP
+skill-lb,LB技能,成功回避时自己的攻击UP（累积）
+intro,温和的猫娘,从深山中走出来的少女经历了许多相遇之后，知晓了烦恼与喜悦。对广阔的苍空抱有困惑的同时，她那纯朴的从未失去过的一心一意的心情，往后一定会为她带来新的景色。
