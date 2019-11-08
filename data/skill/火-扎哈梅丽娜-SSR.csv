@@ -1,12 +1,12 @@
-﻿id,name,detail
+id,name,detail
 npc,扎哈梅丽娜,3040075000
-special,守护之阳,火属性伤害(特大)/赋予我方全体暴击率UP效果
-skill-1,阳光治愈,我方全体获得再生效果/屏障效果(800)
-skill-1+,阳光治愈,我方全体获得再生效果/屏障效果(1000)
-skill-2,耀斑,发动耀斑场地效果(场上全体攻击UP)
-skill-2+,耀斑,发动耀斑场地效果(场上全体攻击UP)/我方全体3回合中防御20%UP
-skill-3,新信仰,我方全体火属性攻击20%UP/减免20%风属性伤害
+special,守护之阳,火属性伤害(特大)/赋予我方全体暴击率UP效果 <span class=text-blue>◆耀斑场地效果发动中奥义性能UP</span>
+skill-1,阳光治愈,赋予我方全体活性效果/屏障效果/奥义槽UP(30%)
+skill-1+,阳光治愈,赋予我方全体活性效果/屏障效果/奥义槽UP(30%)
+skill-2,耀斑,发动耀斑场地效果
+skill-2+,耀斑,发动耀斑场地效果/我方全体3回合中防御20%UP
+skill-3,<div class=prt-text-small>新信仰,赋予火属性角色业火的刻印/火属性攻击UP/减免20%风属性伤害</div>
 support-1,太阳信仰,自身HP越低，我方全体攻击越高
-support-2,避免日光直射,防御30%DOWN/敌对心DOWN
-skill-lb,LB技能,减轻我方全体所受的风属性伤害
-,,
+support-2,<div class=prt-text-small>避免日光直射,火属性角色根据各自的业火的刻印的数量减轻受到的风属性伤害<br><span class=text-blue>◆自己在后排时也有效</span></div>
+skill-lb,LB技能,我方全体受到的回复上限UP
+intro,日轮的巫女,
