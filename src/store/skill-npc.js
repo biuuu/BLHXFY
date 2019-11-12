@@ -16,7 +16,9 @@ const skillKeys = [
   ['action_ability4', 'skill-4'],
   ['support_ability1', 'support-1'],
   ['support_ability2', 'support-2'],
-  ['support_ability_of_npczenith', 'skill-lb']
+  ['support_ability_of_npczenith', 'skill-lb'],
+  ['appear_ability', 'skill-main'],
+  ['backmember_ability1', 'skill-sub']
 ]
 
 const keys = ['skill-1', 'skill-2', 'skill-3', 'skill-4', 'special']
