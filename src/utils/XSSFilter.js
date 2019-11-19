@@ -18,8 +18,8 @@ const whiteList = [
 
 const filter = (str, notTrim = false) => {
   if (!whiteList.includes(str) && /[><]/.test(str)) {
-    let _str = DOMPurify.sanitize(str)
-    return notTrim ? _str : trim(_str)
+    let _str = notTrim ? str : trim(str)
+    return DOMPurify.sanitize(_str)
   }
   return notTrim ? str : trim(str)
 }
