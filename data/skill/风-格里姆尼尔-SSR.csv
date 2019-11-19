@@ -1,0 +1,11 @@
+id,name,detail
+npc,格里姆尼尔,3040212000
+special,神圣破邪晄,风属性伤害(特大)/延长2回合 的强化效果
+skill-1,永恒气流,<div class=prt-text-small>赋予风属性角色护盾效果/弱体效果无效（1次）/驱散防护效果（1次）<br><span class=text-blue>◆第2次发动时追加幻影效果（1次）/防御效果</span></div>
+skill-1+,永恒气流,<div class=prt-text-small>赋予风属性角色护盾效果/弱体效果无效（1次）/驱散防护效果（1次）<br><span class=text-blue>◆第2次发动时追加幻影效果（1次）/防御效果</span></div>
+skill-2,终末风暴·龙卷,<div class=prt-text-small>自身通常攻击单人化/能力值大幅UP<br><span class=text-blue>◆根据军神LV提升性能/第2次发动时追加我方全体攻击力UP（1次）</span></div>
+skill-2+,终末风暴·龙卷,<div class=prt-text-small>自身通常攻击单人化/能力值大幅UP<br><span class=text-blue>◆根据军神LV提升性能/第2次发动时追加我方全体攻击力UP（1次）</span></div>
+skill-3,天翔·神圣断灭破,<div class=prt-text-small>红方之力为吾所用，融入吾之奥义之中！（对敌人造成6次风属性伤害/吸收敌人1个CT转化为奥义槽/奥义性能UP（1次）哦！）</div>
+support-1,我的手腕阵阵剧痛,<div class=prt-text-small>对敌方全体进行通常攻击/使用奥义及强化技能时，军神LV上升1（最大5）<span class=text-blue>◆根据军神LV等级，攻击UP/奥义槽上升量UP</span></div>
+support-2,乱舞的暴风,我方全体的强化效果[风属性攻击UP]的效果UP
+intro,乱舞的暴风,从远方降临此地的飓风的军神，看到拥有钢铁般精神和高贵的灵魂的特异点两眼放光。现在正是统率伟大的风，完成救世使命之时。

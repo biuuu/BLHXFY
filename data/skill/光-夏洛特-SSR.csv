@@ -1,0 +1,12 @@
+id,name,detail
+npc,夏洛特,3040194000
+special,闪耀之月,光属性伤害(特大)/赋予自己反击效果（回避/2次） <span class=text-blue>◆圣骑士LV为5时赋予自己光属性追击效果</span>
+skill-1,清净之光的苍剑,对敌人造成光属性伤害/暗属性攻击DOWN/命中率DOWN
+skill-1+,清净之光的苍剑,对敌人造成光属性伤害/暗属性攻击DOWN/命中率DOWN
+skill-2,正确的骑士道,赋予自己高扬效果/受伤害无效（2次）
+skill-2+,正确的骑士道,赋予自己高扬效果/受伤害无效（2次）
+skill-3,琉米埃尔之剑,<div class=prt-text-small>不论目标造成10次光属性伤害<br><span class=text-blue>◆圣骑士LV上升2</span></div>
+support-1,高洁的舞斗,<div class=prt-text-small>根据圣骑士LV，攻击UP/伤害上限UP/连续攻击几率UP<br><span class=text-blue>◆圣骑士LV每回合上升1，受到伤害时减少2（最大5）</span></div>
+support-2,优雅的秩序,身上带有受伤害无效效果的光属性角色的弱体耐性UP
+skill-lb,LB技能,通常攻击时有几率造成敌方攻击DOWN（累积）
+intro,光荣的圣骑士团团长,率领着光荣的骑士团的小小圣骑士啊，愿你胸怀圣洁的心，无论何时都能不忘清廉保持高洁。

@@ -1,0 +1,11 @@
+id,name,detail
+npc,苏丝雅,3040241000
+special,祓之舞·净火,风属性伤害(特大)/赋予狐火效果 <span class=text-blue>◆纳曾利之仪效果发动中，回复自己及我方角色的HP</span>
+skill-1,壹之舞·玉串,<div class=prt-text-small>对敌人造成4次风属性伤害/减豆效果<br><span class=text-blue>◆对于狐火状态的敌人，驱散对方1个强化效果</span></div>
+skill-1+,壹之舞·玉串,<div class=prt-text-small>对敌人造成4次风属性伤害/减豆效果<br><span class=text-blue>◆对于狐火状态的敌人，驱散对方1个强化效果</span></div>
+skill-2,陆之舞·逆罗,<div class=prt-text-small>赋予己方单人及自己纳曾利之仪效果<br><span class=text-blue>◆纳曾利之仪的效果仅可赋予己方一人</span></div>
+skill-2+,陆之舞·逆罗,<div class=prt-text-small>赋予己方单人及自己纳曾利之仪效果<br><span class=text-blue>◆纳曾利之仪的效果仅可赋予己方一人</span></div>
+skill-3,愈之舞·心和,回复自己和处于纳曾利之仪效果中的己方的HP/奥义槽UP（100%）
+support-1,治愈重要的人的舞蹈,场上有狐火状态的敌人时，回合结束时回复己方全体HP
+support-2,千年之缘,纳曾利之仪效果发动中，自己与己方队员的奥义性能UP/攻击开始时回复1个弱体效果
+intro,治愈千年之人,背负千年历史的少年为了治愈所爱之人，穿上了重要的母亲遗物。少女的优雅之舞如此妩媚，治愈了因病痛诅咒痛苦的人们，为他们的心点亮了希望之火。

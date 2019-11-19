@@ -1,0 +1,32 @@
+id,name,text,trans
+0-chapter_name,,昔語り,诉说往昔
+0-synopsis,,謎の声が昔話を語る。美しい子供は、生まれた翌日から言葉を話す程の神童だったが、余りに賢すぎるが故に不気味に思った両親から捨てられてしまう。やがて子供は、裕福で優しい老夫婦に養子として迎えられ、可愛がられて育つのだった。,谜之声讲述了过去的故事。某个漂亮的小孩，虽然是聪明到刚出生隔天就能说话的神童。但因为他太过聪明了让父母觉得不舒服，于是便被丢弃了。不久之后这个孩子，被富裕的温柔的老夫妇收为养子，被宠爱着养育着。
+0,,<span class='scene-font-katari'>昔話をしよう。</span>,<span class='scene-font-katari'>来讲讲过去的故事吧。</span>
+4,謎の声,昔々……と言っても、それ程じゃ<br>ないけど、ある所に、とても<br>美しく聡明な子供がおりました。,很久很久以前……虽是这么说，<br>也没有那么久的以前，在某个地方<br>有一个漂亮的聪明的孩子。
+10,,<span class='scene-font-katari'>その子供は、なんと</span><br><span class='scene-font-katari'>生まれた翌日から</span><br><span class='scene-font-katari'>言葉を話す神童でした。</span>,<span class='scene-font-katari'>那个孩子居然是个</span><br><span class='scene-font-katari'>从出生隔天</span><br><span class='scene-font-katari'>就能说话的神童。</span>
+11,,<span class='scene-font-katari'>そして二歳になる頃には、大人と</span><br><span class='scene-font-katari'>同じくらい頭が良く、気品ある</span><br><span class='scene-font-katari'>振る舞いをするようになっていました。</span>,<span class='scene-font-katari'>然后在他两岁的时候，</span><br><span class='scene-font-katari'>就已经能够像大人一样聪明，</span><br><span class='scene-font-katari'>言行举止也十分有教养。</span>
+12,,<span class='scene-font-katari'>最初は、素晴らしい授かりものだ、</span><br><span class='scene-font-katari'>世界一可愛い、とありったけの愛情を</span><br><span class='scene-font-katari'>注いでいた両親でしたが……</span>,<span class='scene-font-katari'>起初，他的父母认为</span><br><span class='scene-font-katari'>这是上天赐予他们的世界第一可爱的孩子</span><br><span class='scene-font-katari'>因此竭尽所能地疼爱着他……</span>
+13,,<span class='scene-font-katari'>あっと言う間に自分達よりも賢く</span><br><span class='scene-font-katari'>なった子供を、だんだんと不気味に</span><br><span class='scene-font-katari'>思うようになってきます。</span>,<span class='scene-font-katari'>但是他的父母过了不久</span><br><span class='scene-font-katari'>却因为孩子比自己还要聪明了</span><br><span class='scene-font-katari'>而渐渐的觉得不舒服了起来。</span>
+14,,<span class='scene-font-katari'>聡明すぎる子供には、両親の</span><br><span class='scene-font-katari'>欠点や失敗、浅はかさも</span><br><span class='scene-font-katari'>全てお見通しでした。</span>,<span class='scene-font-katari'>那聪明过头的孩子</span><br><span class='scene-font-katari'>看透了父母的</span><br><span class='scene-font-katari'>所有缺点和失败，以及浅薄。</span>
+15,,<span class='scene-font-katari'>そして、それらを滔々と</span><br><span class='scene-font-katari'>指摘すれば、両親に</span><br><span class='scene-font-katari'>反論の余地などありません。</span>,<span class='scene-font-katari'>而且他还会就着那点</span><br><span class='scene-font-katari'>对父母进行滔滔不绝的指责</span><br><span class='scene-font-katari'>使得他们连反驳的余地都没有。</span>
+16,,<span class='scene-font-katari'>耐えかねた両親はとうとう……</span>,<span class='scene-font-katari'>他的父母难以忍受，终于……</span>
+20,,<span class='scene-font-katari'>子供を箱に詰め、</span><br><span class='scene-font-katari'>家から遠く離れた場所に、</span><br><span class='scene-font-katari'>置き去りにしてしまいました。</span>,<span class='scene-font-katari'>把孩子塞进箱子里</span><br><span class='scene-font-katari'>带到离家很远的地方</span><br><span class='scene-font-katari'>就这么丢弃在那便离开了。</span>
+21,,<span class='scene-font-katari'>かわいそうに……</span>,<span class='scene-font-katari'>真可怜啊……</span>
+23,,<span class='scene-font-katari'>……あれ？</span><br><span class='scene-font-katari'>ちょっと呼ばれてるみたいだ。</span><br><span class='scene-font-katari'>続きはまた後で……</span>,<span class='scene-font-katari'>……哎呀？</span><br><span class='scene-font-katari'>好像有人在叫我呢。</span><br><span class='scene-font-katari'>后续就到之后再讲……</span>
+29,カイム,……おい！<br>聞いているのか？,……喂！<br>你在听吗？
+30,,<span class='scene-font-katari'>微かな苛立ちを滲ませて、</span><br><span class='scene-font-katari'>カイムは手の中の赤い石を</span><br><span class='scene-font-katari'>くるくると弄ぶ。</span>,<span class='scene-font-katari'>凯姆的声音中透出几分焦虑，</span><br><span class='scene-font-katari'>他将手中拿着的红色石头</span><br><span class='scene-font-katari'>来回地翻弄着。</span>
+33,,<span class='scene-font-katari'>ややあって、赤い石が</span><br><span class='scene-font-katari'>うっすらと発光した。</span>,<span class='scene-font-katari'>不一会，红色的石头便</span><br><span class='scene-font-katari'>微微地发起了光。</span>
+34,カイム,……君を通すのが、一番効率良く<br>戦況を把握できるんだ。<br>知ってるだろ？,……你也知道的吧，<br>通过你去把握战局。<br>才是效率最高的。
+35,カイム,何度も説明……え？<br>……これくらいは想定の<br>範囲内だ。,要我说多少……诶？<br>……这种程度<br>还是在我的预料范围里的。
+36,カイム,均一ではない、イレギュラーな存在が<br>含まれている方が、そこから得られる<br>データの有用性は高くなる。,不是全部都整齐划一的，<br>而是也包含了不规则的部分的话，<br>那样得出来的数据的可用性更高。
+37,カイム,彼等には、元々そういう役割を<br>期待していたから。,我本来也只是<br>期待他们能派上这种用场而已。
+39,カイム,……うるさい。<br>君は、さっさと次の舞台を用意しろ。<br>僕の計算の通りにね。,……吵死了。<br>你快给我去准备接下来的场地。<br>就如我计算的那样去做。
+45,謎の声,さてさて……<br>どこまで話したっけ？,哎呀哎呀……<br>我们说到哪了？
+46,謎の声,……ああ、子供が<br>捨てられたところまでだな。<br>じゃあその続きから。,……啊啊，是孩子<br>被丢掉的那里啊。<br>那么我就接着说了。
+52,,<span class='scene-font-katari'>とんでもなく賢くても、身体は</span><br><span class='scene-font-katari'>たった二歳の子供。自力で</span><br><span class='scene-font-katari'>箱から抜け出すことはできません。</span>,<span class='scene-font-katari'>即使他的头脑再怎么聪明，</span><br><span class='scene-font-katari'>身体也只是个两岁的孩子而已</span><br><span class='scene-font-katari'>无法凭借自身的力量从箱子里逃出来。</span>
+53,,<span class='scene-font-katari'>子供は、一緒に詰められていた</span><br><span class='scene-font-katari'>藁やゴミを食べて生き抜きました。</span><br><span class='scene-font-katari'>そしてやがて……</span>,<span class='scene-font-katari'>那个孩子吃着一起被装进来的</span><br><span class='scene-font-katari'>稻草和垃圾，艰难地活了下去。</span><br><span class='scene-font-katari'>然后不久之后……</span>
+54,,<span class='scene-font-katari'>ある老夫婦が子供を見つけ、</span><br><span class='scene-font-katari'>拾いました。</span>,<span class='scene-font-katari'>某对老夫妇发现了这个孩子，</span><br><span class='scene-font-katari'>把他捡回家了。</span>
+57,,<span class='scene-font-katari'>裕福で優しい老夫婦は、子供を</span><br><span class='scene-font-katari'>養子とします。</span>,<span class='scene-font-katari'>富裕而温柔的老夫妻俩，</span><br><span class='scene-font-katari'>收养了这个孩子。</span>
+58,,<span class='scene-font-katari'>老夫婦は子供を、とても聡明で</span><br><span class='scene-font-katari'>麗しい、と大層可愛がってくれました。</span><br><span class='scene-font-katari'>そして暫く時間が流れます。</span>,<span class='scene-font-katari'>老夫妇觉得这个孩子十分聪明</span><br><span class='scene-font-katari'>而且容姿秀丽，便非常宠爱着他。</span><br><span class='scene-font-katari'>然后过去了一段时间。</span>
+64,謎の声,んー……<br>今日はここまでにしよう。<br>続きは、またのお楽しみってことで。,嗯ー……<br>今天就到此为止吧。<br>还请期待接下来的后续吧。
+info,,,scene_chr489_ep3_s10

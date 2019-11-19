@@ -1,0 +1,54 @@
+id,name,text,trans
+0-chapter_name,,平穏の灯火,平穏的灯火
+0-synopsis,,抵抗する姬塔達に対し、組織の兵はユーステスがどうなってもいいのかと脅しをかける。しかし姬塔はユーステスの実力を信じ、動じない。組織は増援部隊を呼び姬塔達を追い詰める。ルリアが捕まり万事休すかと思ったところへ、助けに入ったのはユーステスだった。姬塔はユーステスと共に組織の兵に立ち向かう。,面对抵抗着的姬塔他们，组织的士兵以尤斯缇斯会变成什么样也无所谓吗对他们加以威胁。但是姬塔他们相信尤斯缇斯的实力，所以毫不动摇。组织唤来了增援部队将姬塔一行追捕到绝境。正当露莉亚觉得万事休矣要被抓了的时候，尤斯缇斯出现救了他们。姬塔和尤斯缇斯一起面对组织的士兵。
+1,組織の兵２,くそっ……<br>あくまで抵抗するってわけですか。,可恶……<br>是要抵抗到底吗。
+2,ビィ/碧,何度も言わせんな！<br>ルリアは渡せねぇよ！,都说了多少遍了！<br>我们是不会把露莉亚交给你们的！
+3,組織の兵１,……それじゃあ、<br>ユーステスさんはどうですか？,……那这样的话，<br>尤斯缇斯又会如何呢？
+4,ルリア/露莉亚,え……？<br>ユーステスさんが、どうしたんですか？,诶……？<br>尤斯缇斯他，发生什么了吗？
+5,組織の兵１,こんなことしている間に、<br>ユーステスさんがどうなっても<br>いいんですか？,在你们抵抗我们的这期间，<br>尤斯缇斯会变成怎么样<br>你们都觉得可以吗？
+6,ビィ/碧,おい！<br>そりゃあどういうことだよ！,喂！<br>你说的是什么意思啊！
+7,組織の兵１,わかるでしょう？,你们应该知道的吧？
+8,ルリア/露莉亚,どうしましょう……<br>私、ユーステスさんが……！,该怎么办啊……<br>因为我，尤斯缇斯被……！
+9,,<span class='scene-font-katari'>緊迫した空気の中、</span><br><span class='scene-font-katari'>姬塔は静かに首を振る。</span>,<span class='scene-font-katari'>在这紧绷的氛围中，</span><br><span class='scene-font-katari'>姬塔静静地摇了摇头。</span>
+10,ルリア/露莉亚,姬塔……？,姬塔……？
+10-sel1_txt,,<span class='scene-font-katari'>ユーステスをなめるな</span>,<span class='scene-font-katari'>别小看尤斯缇斯啊</span>
+11,組織の兵２,……なに？,……什么？
+12,,<span class='scene-font-katari'>「こんな企みに、</span><br><span class='scene-font-katari'>ユーステスが気が付かないはずない」</span>,<span class='scene-font-katari'>「尤斯缇斯不可能，</span><br><span class='scene-font-katari'>没有察觉到你们的这个企图」</span>
+13,,<span class='scene-font-katari'>「そして、気づいているのなら、</span><br><span class='scene-font-katari'>打破できないはずもない」</span>,<span class='scene-font-katari'>「而且，如果他察觉到了的话，</span><br><span class='scene-font-katari'>肯定能够破除得了的」</span>
+14,,<span class='scene-font-katari'>姬塔は、ルリアを庇って</span><br><span class='scene-font-katari'>武器を構え直しながら言った。</span>,<span class='scene-font-katari'>姬塔保护着露莉亚</span><br><span class='scene-font-katari'>一边重整战斗架势一边说道。</span>
+15,組織の兵２,強がりを……！,虚张声势……！
+16,ビィ/碧,その通りだぜ！<br>アイツは強いからな。,正如姬塔所说的！<br>那家伙可是很强的啊。
+17,ルリア/露莉亚,……はい！<br>色んなこと、全部ひとりで<br>抱えこんじゃって……,……是的！<br>他总是把各种事情<br>全部揽在自己一个人身上……
+18,ルリア/露莉亚,頼ってもらえないのが<br>寂しいくらいに、<br>優しくて強い人です。,是个毫不依赖我们<br>令人感觉有点寂寞的<br>温柔的强大的人。
+19,組織の兵１,……随分と買ってるんですね。<br>あの人のこと。,……你们对那个人的评价。<br>还真是很高啊。
+20,ビィ/碧,当たり前だろ。<br>仲間なんだから！,那是当然的了。<br>因为我们是同伴啊！
+21,組織の兵２,仲間、ねぇ……,同伴，吗……
+22,組織の兵２,まぁ俺達も、別になめては<br>いないですよ。ユーステスさんの<br>ことも、あなた達のことも。,嘛啊我们也，<br>并没有小看哟。无论是尤斯缇斯<br>还是你们。
+24,ビィ/碧,んなっ！？<br>増援か！？,什么！？<br>是增援吗！？
+25,組織の兵１,蒼の少女、並びに<br>それに同行する騎空士──,苍之少女，以及<br>和她同行的骑空士──
+26,組織の兵１,残念ですが、<br>快くご協力いただけない際は、<br>抹殺するように、との命でして。,虽然很遗憾，但我们收到的命令是，<br>你们没有爽快的答应协助我们的时候<br>将你们抹杀。
+27,ビィ/碧,クソぅ！！<br>そんなこと言われたって<br>オイラ達は折れねぇからな！,可恶！！<br>就算你们这么说<br>我们也是不会屈服的！
+28,ルリア/露莉亚,そんな……私は……！,怎么会这样……我……！
+29,ビィ/碧,ルリア、下がってろ！,露莉亚，退到后面去！
+30,ルリア/露莉亚,でもっ！,但是！
+31,組織の兵２,抵抗するなら、<br>好きにしてもらっても<br>いいですけどね。,如果你们还要抵抗的话<br>我们就要随心所欲地<br>对你们动手了。
+32,組織の兵２,この人数相手に、<br>どこまでやれるか<br>努力して見せてくださいよ！,就让我看看<br>和这么多人为敌<br>你们能做到什么地步吧！
+33,,<span class='scene-font-katari'>姬塔は、押し寄せる</span><br><span class='scene-font-katari'>兵士達を相手に</span><br><span class='scene-font-katari'>懸命に武器を振るう。</span>,<span class='scene-font-katari'>姬塔以逼近的士兵为对手</span><br><span class='scene-font-katari'>拼命地挥舞着</span><br><span class='scene-font-katari'>手中的武器。</span>
+34,,<span class='scene-font-katari'>しかし、相手の数が多すぎた。</span>,<span class='scene-font-katari'>但是，敌人的数量还是太多了。</span>
+36,ルリア/露莉亚,きゃっ！？,呀啊！？
+37,ビィ/碧,ルリア！,露莉亚！
+38,,<span class='scene-font-katari'>兵のひとりが</span><br><span class='scene-font-katari'>ルリアの腕を捕える。</span>,<span class='scene-font-katari'>有一个士兵，</span><br><span class='scene-font-katari'>抓住了露莉亚的手腕。</span>
+39,ビィ/碧,ルリア！！,露莉亚！！
+40,,<span class='scene-font-katari'>姬塔は、慌てて</span><br><span class='scene-font-katari'>助けに入ろうとするが、</span><br><span class='scene-font-katari'>その手は届かずに空を切った。</span>,<span class='scene-font-katari'>姬塔连忙慌慌张张地</span><br><span class='scene-font-katari'>冲去救助她，</span><br><span class='scene-font-katari'>但是却挥空了。</span>
+42,ルリア/露莉亚,姬塔っ！,姬塔！
+45,組織の兵２,ぎゃあっ！？,呀啊！？
+46,,<span class='scene-font-katari'>突如響いた銃声と同時に</span><br><span class='scene-font-katari'>ルリアを捕えていた兵士の</span><br><span class='scene-font-katari'>腕がはじかれる。</span>,<span class='scene-font-katari'>在枪声突然响起的同时</span><br><span class='scene-font-katari'>抓着露莉亚的士兵的手</span><br><span class='scene-font-katari'>被一下子弹开了。</span>
+47,ルリア/露莉亚,っ……え……？,……诶……？
+49,組織の兵１,ぐわっ！,咕哇！
+51,ビィ/碧,この銃声は……！,这个枪声是……！
+55,ルリア/露莉亚,ユーステスさん！？,尤斯缇斯！？
+56,ユーステス/尤斯缇斯,下がれ、ルリア。,露莉亚，后退。
+57,ユーステス/尤斯缇斯,姬塔、左だ。,姬塔，左边。
+62,ユーステス/尤斯缇斯,一気にいくぞ。,一口气解决他们吧。
+info,,,scene_chr517_q3_s20
+译者,,,

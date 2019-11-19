@@ -1,0 +1,9 @@
+id,name,detail
+npc,勇者和公主 斯坦&阿莉莎,3040233000
+special,炎蹴岚斩,风属性伤害(特大)/赋予自己风属性追击效果/剑脚LV上升1 <span class=text-blue>◆剑脚LV达到5时，风属性追击效果UP</span>
+skill-1,无畏之击,<div class=prt-text-small>造成6次风属性伤害/回复自己的HP <span class=text-blue>◆每次使用后回复性能UP（最大3次）</span></div>
+skill-2,华焰·疾风,效果中必三连击/浑身效果
+skill-3,狮子吼斗气斩,<div class=prt-text-small>对敌人造成风属性伤害/自己通常攻击伤害量UP/回合中进行2次攻击行动/弱体效果无效 <span class=text-blue>◆只有剑脚LV为5时可以使用</span></div>
+support-1,剑脚的呼应,必定连续攻击/自己的HP越多奥义伤害越高
+support-2,思念寄托于剑与脚,<div class=prt-text-small>发动三连击时剑脚LV上升1（最大5）<span class=text-blue>◆根据剑脚LV，造成的伤害上升</span></div>
+intro,于沙尘中激唱的二重奏,为了克服试炼而分别的二人的旅途，在意想不到的地方再次交汇。这到底是命运的再会，还是仅仅是一个经过点，决定它的是两人内心的强度和牵绊的深度。

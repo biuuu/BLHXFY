@@ -1,0 +1,149 @@
+id,name,text,trans
+0-chapter_name,,ルルーシュ イン ザ スカイ,Lelouch in the Sky
+0-synopsis,,イベント２日目、ねこのピザ屋さんのお店は、他の出店者に雇われた男によって破壊されていた。しかしルルーシュ達と姬塔達は諦めず、ナイトメアフレームと星晶獣の力で巨大なピザを作るライブクッキングで客を集める。店を破壊した男はその様子を見て魔物をけしかけるが、これを予想していたルルーシュはスザク、カレン、姬塔と魔物を迎え撃つのだった。,美食节第二天，猫咪披萨屋的店面被别的出店者所雇佣的男人给破坏了。但是鲁鲁修和姬塔等人没有放弃，他们通过用KMF和星晶兽之力现场做披萨的方式聚集客人。破坏了店铺的男人见状招来了魔物，然而预料到这一出的鲁鲁修让朱雀、卡莲和姬塔迎战魔物。
+1,C.C.,ピザ……,披萨……
+2,カレン/卡莲,何よ、これ……！？,这是怎么回事……！？
+3,,<span class='scene-font-katari'>翌朝、ルルーシュ達が会場を訪れると</span><br><span class='scene-font-katari'>ねこのピザ屋さんのお店は、</span><br><span class='scene-font-katari'>無残にも破壊されてしまっていた。</span>,<span class='scene-font-katari'>第二天早上，鲁鲁修等人来到会场后，</span><br><span class='scene-font-katari'>发现猫咪披萨屋的店铺</span><br><span class='scene-font-katari'>被破坏殆尽。</span>
+4,,<span class='scene-font-katari'>前日と一変した余りに酷い惨状に、</span><br><span class='scene-font-katari'>辺りには野次馬達が集まってくる。</span>,<span class='scene-font-katari'>与前一天截然不同的惨状</span><br><span class='scene-font-katari'>使得周围聚集了不少围观之人。</span>
+5,スザク/朱雀,人為的に荒らされた形跡がある、<br>いったい誰がこんなことを……,有人为的痕迹<br>究竟是谁……
+6,ジェレミア/杰雷米亚,何たる蛮行、<br>許すまじ……！,这是何等的暴行，<br>不能原谅……！
+7,ナナリー/娜娜莉,ひどい……<br>みんなで一生懸命頑張ったのに。,太过分了……<br>大家明明那么拼命。
+8,ルルーシュ/鲁鲁修,くっ……　,呜……　
+9,ルルーシュ/鲁鲁修,<span class='scene-font-kokoro'>（誰だ？　誰がこんなことを……）</span>,<span class='scene-font-kokoro'>（是谁？　究竟是谁干的……）</span>
+10,怪しい男/可疑的男人,へへっ……,嘿嘿……
+11,,<span class='scene-font-katari'>悲嘆に暮れるナナリー達に同情する</span><br><span class='scene-font-katari'>人々の中で、ひとり下卑た笑みを</span><br><span class='scene-font-katari'>浮かべる怪しい男に気付くルルーシュ。</span>,<span class='scene-font-katari'>在同情悲叹着的娜娜莉的人群中，</span><br><span class='scene-font-katari'>有一个露出卑鄙笑容</span><br><span class='scene-font-katari'>的可疑男人引起了鲁鲁修的注意。</span>
+12,,<span class='scene-font-katari'>やがて満足した様子の怪しい男は、</span><br><span class='scene-font-katari'>ナナリー達の落胆ぶりを見届けると</span><br><span class='scene-font-katari'>その場を立ち去って行く。</span>,<span class='scene-font-katari'>不久后，看起来一脸满足的可疑男人，</span><br><span class='scene-font-katari'>在见证娜娜莉等人失望的样子后，</span><br><span class='scene-font-katari'>便离开了。</span>
+13,ルルーシュ/鲁鲁修,…………,…………
+14,,<span class='scene-font-katari'>立ち去った男の悪意のこもった視線が</span><br><span class='scene-font-katari'>気になり、ルルーシュは</span><br><span class='scene-font-katari'>ひとりでその後を追う。</span>,<span class='scene-font-katari'>注意到离开的男人</span><br><span class='scene-font-katari'>充满恶意的视线，鲁鲁修</span><br><span class='scene-font-katari'>一个人追了上去。</span>
+20,,<span class='scene-font-katari'>人気のない通りに入った</span><br><span class='scene-font-katari'>怪しい男の背後から</span><br><span class='scene-font-katari'>声をかけるルルーシュ。</span>,<span class='scene-font-katari'>进入无人的街道后，</span><br><span class='scene-font-katari'>鲁鲁修从背后</span><br><span class='scene-font-katari'>喊住了可疑的男人。</span>
+21,ルルーシュ/鲁鲁修,おい、そこのお前。,喂，那边那个。
+22,怪しい男/可疑的男人,あぁ？　<br>テメェは……,啊啊？　<br>你是……
+23,ルルーシュ/鲁鲁修,俺の質問に答えろ。,回答我的问题。
+43,怪しい男/可疑的男人,はい……,是……
+44,ルルーシュ/鲁鲁修,ねこのピザ屋さんを<br>破壊したのはお前か？,破坏了猫咪披萨屋<br>的人是你吗？
+45,怪しい男/可疑的男人,はい……,是……
+46,ルルーシュ/鲁鲁修,お前があの店を<br>壊した理由を答えろ。,回答我你为什么<br>要破坏那家店。
+47,怪しい男/可疑的男人,それは……,那是因为……
+48,,<span class='scene-font-katari'>男の話から、ピザ屋の人気を妬んだ</span><br><span class='scene-font-katari'>イベントの他の出店者が、賞金欲しさに</span><br><span class='scene-font-katari'>店の破壊を依頼した事実が判明する。</span>,<span class='scene-font-katari'>从男人的话中得知，因为嫉妒披萨屋，</span><br><span class='scene-font-katari'>其他在美食节的出店者想得到奖金，</span><br><span class='scene-font-katari'>便雇佣的男人破坏了披萨屋的店面。</span>
+49,ルルーシュ/鲁鲁修,やはりな……<br>もういい、失せろ。,果然……<br>可以了，滚吧。
+50,怪しい男/可疑的男人,はい……,是……
+53,怪しい男/可疑的男人,ん……？<br>俺は今何を……,嗯……？<br>我刚才……
+59,,<span class='scene-font-katari'>怪しい男から必要な情報を</span><br><span class='scene-font-katari'>聞き出したルルーシュは、</span><br><span class='scene-font-katari'>そのまま仲間達の元へ戻る。</span>,<span class='scene-font-katari'>从可疑的男子口中</span><br><span class='scene-font-katari'>问出了必要情报的鲁鲁修</span><br><span class='scene-font-katari'>径直回到了同伴们所在之处。</span>
+60,,<span class='scene-font-katari'>ねこのピザ屋さんの元へ戻ると、</span><br><span class='scene-font-katari'>片付けられた店の残骸の前で</span><br><span class='scene-font-katari'>ナナリーが俯いていた。</span>,<span class='scene-font-katari'>回到了猫咪披萨屋，</span><br><span class='scene-font-katari'>娜娜莉在被打扫了的店面残骸前。</span><br><span class='scene-font-katari'>垂头丧气的。</span>
+61,ルルーシュ/鲁鲁修,ナナリー……,娜娜莉……
+62,ナナリー/娜娜莉,お兄様……<br>せっかく皆さんで力を合わせて……<br>でも、こんなことになるなんて……,哥哥……<br>好不容易大家齐心协力……<br>但是竟然变成了这样……
+63,ルルーシュ/鲁鲁修,ああ……みんな頑張った。<br>お客さんも喜んでくれたよな。,啊啊……大家都努力了。<br>客人也很高兴哟。
+64,ナナリー/娜娜莉,ですが、これではもう<br>優勝することは……,但是这样一来<br>优胜已经不可能……
+65,ルルーシュ/鲁鲁修,なあ、ナナリー<br>ナナリーは店が壊されたぐらいで<br>諦めるのか。,我说，娜娜莉，<br>娜娜莉会因为店面被破坏<br>就放弃吗？
+66,ルルーシュ/鲁鲁修,みんなのために<br>頑張るんじゃなかったのか。,难道不该是为了大家<br>要加油的吗？
+67,ナナリー/娜娜莉,……！,……！
+68,ナナリー/娜娜莉,嫌です……<br>諦めたくはありません……！,我不要……<br>我不想就这样放弃……！
+69,ルルーシュ/鲁鲁修,それでこそ、俺の妹だ。,这样才是我的妹妹。
+70,C.C.,しかし、どうするつもりだ。<br>店がこれでは……,但是你打算怎么办。<br>店面这样也不能……
+71,ルルーシュ/鲁鲁修,そうだな。<br>店は残念ながら無くなってしまった。,是啊。<br>很可惜，店面没有了。
+72,ルルーシュ/鲁鲁修,だから、別の方法で<br>ピザを食べてもらうのさ。,所以，得用别的方法<br>让大家吃到披萨。
+73,スザク/朱雀,別の方法……？,别的方法……？
+74,ルルーシュ/鲁鲁修,ああ。<br>ついでに店をこんなにした<br>ヤツらに一泡吹いてもらう。,啊啊。<br>顺便给把店面弄着这样的<br>家伙们大吃一惊。
+75,カレン/卡莲,何それ？<br>アンタ、悪い顔してるわよ。,你在说什么？<br>你现在的表情真是一脸坏样。
+76,ルルーシュ/鲁鲁修,悪いことなど何もしないさ。,我什么坏事都不打算做。
+77,ルルーシュ/鲁鲁修,ただ祭りなんでね、<br>今度は派手にいかせてもらうんだ。,不过既然是祭典，<br>这次就让我搞得夸张些吧。
+78,スザク/朱雀,ふふっ、いいね。,呵呵、不错啊。
+79,スザク/朱雀,なんだか面白そうだ。<br>聞かせてくれ、ルルーシュ。,似乎很有趣的样子。<br>告诉我你的打算，鲁鲁修。
+80,カレン/卡莲,スザク、アンタまで。,朱雀，连你也。
+81,カレン/卡莲,でも、私も嫌いじゃない。<br>やられっぱなしは性に合わないしね。,不过，我也不讨厌这样。<br>单方面被找茬可不合我的性子。
+82,ナナリー/娜娜莉,お兄様……？,哥哥……？
+83,ルルーシュ/鲁鲁修,大丈夫だ、ナナリー<br>危険なことはしない。,没事的，娜娜莉，<br>我不会做危险的事的。
+84,ルルーシュ/鲁鲁修,ただ、<br>ショーをしようと思ってね。,只是，<br>向来场表演罢了。
+85,,<span class='scene-font-katari'>不敵な笑みを浮かべるルルーシュの</span><br><span class='scene-font-katari'>意外な言葉に、困惑を隠せない仲間達。</span>,<span class='scene-font-katari'>鲁路修面露大胆微笑的意外的发言</span><br><span class='scene-font-katari'>让同伴们难掩困惑。</span>
+86,ジェレミア/杰雷米亚,ショー……ですか？,表演……吗？
+87,ルルーシュ/鲁鲁修,ああ。俺を信じて<br>みんなの力を貸してくれないか？,啊啊。大家可以相信我，<br>借我一臂之力吗？
+87-sel1_txt,,<span class='scene-font-katari'>協力したい！</span>,<span class='scene-font-katari'>我想协助你！</span>
+88,ビィ/碧,へへっ、<br>もちろんオイラ達も黙ってねえぜ！,嘿嘿，<br>我们当然也不会默默挨打的！
+89,ルリア/露莉亚,はい！<br>私達の力も使ってください！,没错！<br>请用我们的力量！
+90,ルルーシュ/鲁鲁修,ありがとう、みんな。,谢谢大家。
+91,,<span class='scene-font-katari'>仲間達の前向きな言葉を</span><br><span class='scene-font-katari'>有難そうに噛みしめるルルーシュ。</span>,<span class='scene-font-katari'>鲁鲁修对同伴们积极向前</span><br><span class='scene-font-katari'>的话语深感谢意。</span>
+92,ルルーシュ/鲁鲁修,では、詳細を説明する……,那么，让我说明下具体方案……
+93,,<span class='scene-font-katari'>ルルーシュの口から語られた言葉に</span><br><span class='scene-font-katari'>驚きを隠せない一同。</span>,<span class='scene-font-katari'>一行人对鲁鲁修所说的</span><br><span class='scene-font-katari'>内容难掩惊异。</span>
+94,,<span class='scene-font-katari'>だが、その場にいる仲間達は皆、</span><br><span class='scene-font-katari'>成功することを確信した。</span>,<span class='scene-font-katari'>但是，在场的每一个人</span><br><span class='scene-font-katari'>都确信他们会成功。</span>
+99,,<span class='scene-font-katari'>準備を整えた姬塔一行は、</span><br><span class='scene-font-katari'>グルメイベントの店で混雑したエリアに</span><br><span class='scene-font-katari'>隣接した広場の前に集まった。</span>,<span class='scene-font-katari'>准备就绪的姬塔一行人，</span><br><span class='scene-font-katari'>在邻近美食节店铺拥挤之处的</span><br><span class='scene-font-katari'>广场前集合。</span>
+100,ビィ/碧,お、おい見ろ！<br>何だあれはー！,喂喂，快看！<br>那是什么ー！
+101,ジェレミア/杰雷米亚,おお！<br>皆の者、あちらを仰ぎ見よ！,噢噢！<br>众人，请前去一观吧！
+102,ルリア/露莉亚,何でしょうか！<br>私達も行ってみましょう！,究竟是什么！<br>我们也去看看吧！
+103,,<span class='scene-font-katari'>大声を上げて騒ぎ立てながら</span><br><span class='scene-font-katari'>空を指差すビィ達。</span>,<span class='scene-font-katari'>碧等人一边大声交谈引起注意，</span><br><span class='scene-font-katari'>一边指向空中。</span>
+107,,<span class='scene-font-katari'>すると、そこにはガウェインと</span><br><span class='scene-font-katari'>ランスロット・エアキャヴァルリーが</span><br><span class='scene-font-katari'>浮かんでいた。</span>,<span class='scene-font-katari'>在那里，高文和</span><br><span class='scene-font-katari'>兰斯洛特·空战奇兵</span><br><span class='scene-font-katari'>悬浮在空中。</span>
+108,客１/客人１,ん……？<br>広場の方が騒がしいな……,嗯……？<br>广场那边很吵啊……
+109,客２/客人２,おい？<br>アイツ等は昨日の……？,喂？<br>那些人是昨天的……？
+110,客１/客人１,ああ！<br>ねこのピザ屋さんの<br>売り子さん達か！,啊啊！<br>是猫咪披萨屋的<br>看板娘们！
+111,客２/客人２,空のデカイので何かやるみたいだな！<br>面白そうだから俺達も行ってみようぜ！,空中的大家伙们似乎要干点什么！<br>看上去挺有趣的，我们也去看看吧！
+112,,<span class='scene-font-katari'>広場に少しずつ人が集まり始めた</span><br><span class='scene-font-katari'>タイミングを見計らって、</span><br><span class='scene-font-katari'>作戦を実行に移すルルーシュ。</span>,<span class='scene-font-katari'>看准广场开始陆续有人</span><br><span class='scene-font-katari'>聚集起来的时机，</span><br><span class='scene-font-katari'>鲁路修开始实行作战计划。</span>
+113,ルルーシュ/鲁鲁修,さあ、ナナリー<br>ショーの開幕だ。,好了，娜娜莉，<br>表演开幕了。
+114,ナナリー/娜娜莉,はい！　お兄様。,是的！　哥哥。
+115,ナナリー/娜娜莉,にゃーん！<br>紳士淑女の皆様、本日はご多忙の中、<br>お集まり頂きありがとうございます。,喵——！<br>女士们，先生们，感谢你们今日<br>在百忙之中聚集在此。
+116,スザク/朱雀,寄ってらっしゃい見てらっしゃい！,走过路过，不要错过！
+117,スザク/朱雀,これから皆様に、<br>誰も見たことのないピザショーを<br>ご覧いただきましょう！,接下来我们要让大家<br>见识一下从未有人见过的<br>披萨表演！
+118,,<span class='scene-font-katari'>ガウェインとランスロットの</span><br><span class='scene-font-katari'>もの珍しさから、すぐに広場は</span><br><span class='scene-font-katari'>大勢の観客で埋め尽くされる。</span>,<span class='scene-font-katari'>由于高文和兰斯洛特</span><br><span class='scene-font-katari'>本就珍奇，广场上很快就被</span><br><span class='scene-font-katari'>大量观众挤了个水泄不通。</span>
+119,C.C.,良い頃合いだな。<br>カレン、出番だぞ。,正是好时机。<br>卡莲，轮到你了。
+120,カレン/卡莲,はいよ！　任せといて！,好嘞！　交给我！
+121,,<span class='scene-font-katari'>C.C.の合図に合わせて</span><br><span class='scene-font-katari'>巨大なピザ生地を抱えて</span><br><span class='scene-font-katari'>広場に登場する紅蓮弐式。</span>,<span class='scene-font-katari'>配合C.C.给出的信号，</span><br><span class='scene-font-katari'>红莲二式抱着巨大的披萨面饼</span><br><span class='scene-font-katari'>在广场上登场。</span>
+122,客２/客人２,お？　なんだなんだ！<br>今度は赤いのが出て来たぞ！,噢？　那是什么！<br>这次出来个红色的！
+123,カレン/卡莲,いくよ、スザク！<br>受け取れぇーっ！,要上了哦，朱雀！<br>给我接住——！
+124,,<span class='scene-font-katari'>スザクに向かって全力で</span><br><span class='scene-font-katari'>ピザ生地を投げるカレン。</span>,<span class='scene-font-katari'>卡莲朝着朱雀</span><br><span class='scene-font-katari'>用全力扔出披萨面饼。</span>
+125,スザク/朱雀,任せろ、カレン！,交给我，卡莲！
+126,スザク/朱雀,よっ、と！,哟嚯！
+127,,<span class='scene-font-katari'>放物線を描いて宙を舞うピザ生地を</span><br><span class='scene-font-katari'>見事にキャッチする</span><br><span class='scene-font-katari'>ランスロット・エアキャヴァルリー</span>,<span class='scene-font-katari'>兰斯洛特·空战奇兵</span><br><span class='scene-font-katari'>完美地接住了</span><br><span class='scene-font-katari'>在空中画出了一个抛物线的披萨面饼</span>
+128,ナナリー/娜娜莉,ただいま登場しましたのは、<br>ピザのベースとなる生地です。<br>今度はこの巨大なピザ生地を……,现在登场的是<br>披萨底层的生面饼。<br>接下来我们要把这巨大的面饼……
+130,客１/客人１,<span class='scene-font-4'>うぉー！</span><br><span class='scene-font-4'>いいぞいいぞー！</span>,<span class='scene-font-4'>喔噢ー！</span><br><span class='scene-font-4'>好好ー！</span>
+132,スザク/朱雀,ふっ……ほっ……はあっ！,呼……嚯……哈啊！
+133,ナナリー/娜娜莉,この白い巨人が、<br>器用に回転させて薄く伸ばし始めます！,这个白色的巨人<br>灵巧地转动面饼让它延展变薄！
+134,客１/客人１,ん……待て！　……ねこ？<br>あれは猫の顔の形か……！　,嗯……等等！　……猫？<br>那是猫脸的形状吗……！　
+135,ナナリー/娜娜莉,なんと！<br>生地は巨大なねこちゃんの<br>顔の形になります！,竟然！<br>面饼变成了巨大的<br>猫脸的形状！
+136,,<span class='scene-font-katari'>ランスロットを操るスザクの</span><br><span class='scene-font-katari'>超絶技巧によってピザ生地は</span><br><span class='scene-font-katari'>可愛らしいねこの顔型になる。</span>,<span class='scene-font-katari'>操纵着兰斯洛特的朱雀</span><br><span class='scene-font-katari'>以超绝的技巧让披萨面饼</span><br><span class='scene-font-katari'>变成了可爱的猫脸形状。</span>
+137,ルルーシュ/鲁鲁修,そろそろ次の工程だな。<br>カレン、ソースをスタンバイだ！,差不多该进行下一道工序了。<br>卡莲，准备好酱料！
+138,カレン/卡莲,はいよ！　スザク！,好嘞！　朱雀！
+139,スザク/朱雀,いつでも大丈夫だ！,随时都可以！
+144,,<span class='scene-font-katari'>カレンがキッチンポットに入った</span><br><span class='scene-font-katari'>ピザソースを空中に散布すると</span><br><span class='scene-font-katari'>スザクがピザ生地でキャッチする。</span>,<span class='scene-font-katari'>卡莲将放了番茄酱的</span><br><span class='scene-font-katari'>披萨酱料洒向空中后，</span><br><span class='scene-font-katari'>朱雀用披萨面饼将其接住。</span>
+145,C.C.,さあ、ルルーシュ。<br>お前の腕の見せ所だぞ。,好了，鲁鲁修。<br>接下来是你大显身手的时候了。
+146,ルルーシュ/鲁鲁修,任せてもらおうか。<br>トッピングフェーズに移行する！,交给我。<br>接下来是上馅料的时候！
+151,,<span class='scene-font-katari'>ソースが塗られたピザ生地に10本の</span><br><span class='scene-font-katari'>ハーケンを使って巧みにチーズや</span><br><span class='scene-font-katari'>野菜などを盛り付けるガウェイン。</span>,<span class='scene-font-katari'>高文使用十根飞燕爪牙</span><br><span class='scene-font-katari'>灵巧地将芝士和蔬菜放到</span><br><span class='scene-font-katari'>涂了酱料的披萨面饼上。</span>
+152,客１/客人１,おお……！　<br>あんなに大きいのに、<br>なんて手際の良さだ！,噢噢……！　<br>明明那么大，<br>但动起来竟那么精巧！
+153,C.C.,ルルーシュ、<br>トッピング率100％だ。,鲁鲁修，<br>馅料率已达到100％。
+154,ルルーシュ/鲁鲁修,了解だ。<br>いよいよ大詰めだな。,明白了。<br>终于到终幕了。
+155,ルルーシュ/鲁鲁修,ナナリー、頼む。,娜娜莉，拜托了。
+156,ナナリー/娜娜莉,はい、わかりました！,是的，我明白了！
+157,ナナリー/娜娜莉,さあ、皆さん<br>ライブクッキングも<br>いよいよ大詰めです！,好了，大家，<br>现场料理也<br>差不多要终幕了！
+158,ルルーシュ/鲁鲁修,ルリア！<br>仕上げを頼む！,露莉亚！<br>最后完成的一步交给你了！
+159,ルリア/露莉亚,はい！<br>行きますっ……！,是！<br>我上了……！
+160,ルリア/露莉亚,土の温もり、伝えます！<br>汝の名はユグドラシル！,传达土之温暖！<br>汝之名是尤格多拉希尔！
+165,ユグドラシル/尤格多拉希尔,────♪,────♪
+167,,<span class='scene-font-katari'>ユグドラシルを召喚したルリアは、</span><br><span class='scene-font-katari'>大地に干渉する能力を使って</span><br><span class='scene-font-katari'>巨大なピザ窯と四角い石板を錬成する。</span>,<span class='scene-font-katari'>召唤了尤格多拉希尔的露莉亚，</span><br><span class='scene-font-katari'>使用干涉大地之力</span><br><span class='scene-font-katari'>炼成了巨大的披萨窑和方形石板。</span>
+168,ルルーシュ/鲁鲁修,いいぞ、ルリア！<br>次は火だ。,很好，露莉亚！<br>接下来是火。
+169,ルリア/露莉亚,炎の叫び、詠います！<br>汝の名はコロッサス！,咏唱炎之鸣响！<br>汝之名是克罗萨斯！
+174,コロッサス/克罗萨斯,────！,────！
+176,,<span class='scene-font-katari'>次にコロッサスを召喚したルリアは、</span><br><span class='scene-font-katari'>窯に火をくべると同時に剣を石板に</span><br><span class='scene-font-katari'>突き刺して即席のピザピールを作った。</span>,<span class='scene-font-katari'>接着召唤了克罗萨斯的露莉亚，</span><br><span class='scene-font-katari'>再给窑点上火的同时，用剑将石板</span><br><span class='scene-font-katari'>瞬间制成了披萨铲。</span>
+177,ルリア/露莉亚,皆さん！<br>準備が出来ました！,大家！<br>准备好了！
+178,ナナリー/娜娜莉,具材をトッピングした<br>巨大なピザ生地を焼き上げます。<br>ご注目くださいね！,现在我们要烤制<br>放上馅料的巨大披萨饼。<br>请瞩目哟！
+179,スザク/朱雀,よし！　行くぞっ！,很好！　我要上了！
+180,ルリア/露莉亚,スザクさん！<br>お願いします！,朱雀！<br>拜托你！
+181,スザク・ルリア/朱雀・露莉亚,<span class='scene-font-4'>はぁぁぁぁぁーっ！</span>,<span class='scene-font-4'>哈啊啊啊啊啊——！</span>
+183,,<span class='scene-font-katari'>スザクがピザピールの上に</span><br><span class='scene-font-katari'>ねこ型ピザを乗せたタイミングで</span><br><span class='scene-font-katari'>ピザ窯に投入するルリア。</span>,<span class='scene-font-katari'>在朱雀将猫脸型披萨放上</span><br><span class='scene-font-katari'>披萨铲的同时</span><br><span class='scene-font-katari'>露莉亚将披萨放入窑中。</span>
+184,,<span class='scene-font-katari'>コロッサスの力を帯びた炎によって、</span><br><span class='scene-font-katari'>巨大なピザ窯も適温に仕上がっている。</span>,<span class='scene-font-katari'>在克罗萨斯火炎的力量下，</span><br><span class='scene-font-katari'>巨大的披萨窑上升到了适宜的温度。</span>
+186,客２/客人２,<span class='scene-font-4'>うぉー！</span><br>ド迫力のパフォーマンスだぁーーっ！,<span class='scene-font-4'>唔噢ー！</span><br>真是超有魄力的演出ーー！
+187,客１/客人１,<span class='scene-font-4'>こんな訳の分からんものは</span><br><span class='scene-font-4'>初めて見たぜぇーーっ！</span>,<span class='scene-font-4'>像这样让人摸不着头脑的表演</span><br><span class='scene-font-4'>我真是第一次见到ーー！</span>
+188,,<span class='scene-font-katari'>大迫力のパフォーマンスを見て</span><br><span class='scene-font-katari'>観客から拍手喝采が起こったその時、</span><br><span class='scene-font-katari'>どこからか魔物の群れが広場に現れる。</span>,<span class='scene-font-katari'>在观众们见到魄力十足的演出</span><br><span class='scene-font-katari'>拍手喝彩之时，</span><br><span class='scene-font-katari'>不知从何而来的魔物群出现在了广场。</span>
+189,魔物の群れ/魔物群,グォオオオオ……！,咕哦哦哦哦……！
+190,怪しい男/可疑的男人,チッ……<br>何事かと思えばしぶとい奴らめ！,呿……<br>我还以为发生了什么事，原来是他们！
+191,怪しい男/可疑的男人,このまま客もろとも<br>再起不能にしてやるぜ！,让我就这样打垮到<br>你们不能东山再起！
+192,ナナリー/娜娜莉,お兄様、今の唸り声は……<br>,哥哥，刚才的呻吟声是……<br>
+193,ルルーシュ/鲁鲁修,心配はいらないよ。<br>これもショーの一環さ。,不用担心。<br>这也是演出中的一环。
+194,ルルーシュ/鲁鲁修,今から伝えることを<br>お客さんに伝えてくれないか。,你可以把我现在告诉你的话<br>告诉观众们吗。
+195,ルルーシュ/鲁鲁修,<span class='scene-font-kokoro'>（そうだ……待っていたぞ馬鹿め！</span><br><span class='scene-font-kokoro'>お前らの悪意を逆に利用してやるさ）</span>,<span class='scene-font-kokoro'>（没错……我正等着你呢，蠢货！</span><br><span class='scene-font-kokoro'>让我好好利用你们的恶意）</span>
+196,ナナリー/娜娜莉,お集まりの皆さん！<br>ピザが焼きあがるまでの間、<br>巨人と魔物のショーをご覧下さい！,聚集在此的各位！<br>在烤制披萨的这段时间里，<br>请大家观看巨人与魔物的表演！
+197,客２/客人２,おっ！<br>今度は何だ……？,噢！<br>这次又是什么……？
+198,客１/客人１,あのデカイのと魔物の群れが<br>戦うショーを見せてくれるみたいだぜ！,好像是要让我们看<br>那那家伙和魔物群的战斗表演！
+199,ルルーシュ/鲁鲁修,さあ、これで場は整った。,好了，这样一来一切就绪了。
+200,ルルーシュ/鲁鲁修,スザク！　カレン！　姬塔！<br>魔物を迎え撃つぞ！,朱雀！　卡莲！　姬塔！<br>迎战魔物！
+201,カレン/卡莲,アイツらが犯人ってワケね。<br>容赦しないんだから！,那些家伙就是犯人咯。<br>我可不会手下留情的！
+202,スザク/朱雀,観客の安全を確保しつつ<br>全力で排除する！,在确保观众安全的同时，<br>全力驱逐它们！
+202-sel1_txt,,<span class='scene-font-katari'>行くぞ！</span>,<span class='scene-font-katari'>上！</span>
+info,,,scene_chr545_q3_s20
+译者,,,

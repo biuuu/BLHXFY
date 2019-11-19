@@ -350,12 +350,17 @@ path,text,trans,count
 /content/detail,メイン装備時,主召唤时,
 /content/detail,サブ装備時,副召唤时,
 /content/detail,サポーター選択時,支援选择时,
-/detail/content/detail,"<div class=""prt-title"">アビリティ</div>",<div class=prt-title>技能</div>,
+/content/detail,サブメンバー時,作为后备时,
+/content/detail,バトル登場時,战斗登场时,
+/archive/content/detail,ステータス,属性,
+/archive/content/detail,エピソード,剧情,
+/archive/content/detail,フェイトエピソード,Fate故事,
+/content/detail,"<div class=""prt-title"">アビリティ</div>",<div class=prt-title>技能</div>,
 /detail/content/detail,トライアルキャラでは使用できないアビリティです,不能与试用角色一起使用的技能,5
 /detail/content/detail,発生条件,开始条件,4
 /detail/content/detail,LB取得でClassUP,LB获得ClassUP,
 /detail/content/detail,習得クエストへ,解锁任务,8
-/detail/content/detail,サポートアビリティ,被动技能,
+/content/detail,サポートアビリティ,被动技能,
 /detail/content/detail,倉庫に預ける,存入仓库,2
 /detail/content/detail,エレメント化,分解,3
 /detail/content/detail,スキン・POSE切り替え設定,皮肤・POSE切换设置,3
@@ -441,7 +446,7 @@ raid/,召喚石情報,召唤石信息,
 /coopraid/content/index,マルチバトル,多人战,5
 /coopraid/content/index,共闘,共斗,2
 /coopraid/content/index,マイページ,回到主页,2
-/quest/content,フェイトエピソード一覧,Fate章节列表,
+/quest/content,フェイトエピソード一覧,Fate故事,
 /quest/content/newfate,たまには寄り道もイイかもなぁ,偶尔换条路走走也不错哦,
 /quest/content/newfate,意外な発見があるんじゃねーか,说不定会有什么新发现呢,
 /quest/content/newfate,SSレア,SSR,2

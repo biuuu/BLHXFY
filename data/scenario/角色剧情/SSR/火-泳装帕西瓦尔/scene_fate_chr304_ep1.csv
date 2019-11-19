@@ -1,0 +1,215 @@
+id,name,text,trans
+0-chapter_name,,炎帝のバカンス,炎帝的假日
+0-synopsis,,アウギュステのベネーラビーチでバカンスを過ごす一行の前に迷子の少女が現れ、一行は両親を探すことになる。少女の両親を見つけ出す過程で、様々な問題を解決するパーシヴァル。ようやく海の家に帰って来て身体を休めるパーシヴァルは、疲れて寝言を口にする。ルシぬいがその寝言の内容について尋ねると、パーシヴァルは真っ直ぐに己の気持ちを伝えるのだった。,在前往阿奎斯特的贝尼拉海滩度假的一行人面前出现了迷路的少女，一行人决定帮女孩寻找双亲。在寻找少女双亲的过程中，帕西瓦尔解决了各种各样的问题。好不容易回到海之家休息的帕西瓦尔，因太过疲劳说了梦话。姬塔询问梦话的内容后，帕西瓦尔直率地说出了自己的心情。
+0,,<span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>のベネーラビーチという</span><br><span class='scene-font-katari'>リゾート地で、バカンスを取ることに</span><br><span class='scene-font-katari'>なったルシぬい一行。</span>,<span class='scene-font-katari'>姬塔一行人</span>决定前往<br><span class='scene-font-place'>阿奎斯特</span><span class='scene-font-katari'>的贝尼拉海滩</span>度假休息。
+1,,<span class='scene-font-katari'>ルシぬいは、</span><br><span class='scene-font-katari'>パーシヴァルも誘おうと</span><br><span class='scene-font-katari'>部屋を訪れたのだが──</span>,<span class='scene-font-katari'>打算邀请帕西瓦尔同行，</span><br><span class='scene-font-katari'>姬塔前往他的房间，不过——</span>
+2,パーシヴァル/帕西瓦尔,ふむ……<br>家臣共が羽を伸ばすのは<br>一向に構わん。,嗯……<br>家臣们去度假放松<br>我完全没有意见。
+3,パーシヴァル/帕西瓦尔,だが、俺はそんな所で<br>悠長に遊んでいる暇など無い。,但我可没有时间<br>去那种地方优哉游哉游山玩水。
+4,ビィ/碧,ったく……<br>トサカの兄ちゃんは<br>相変わらずだな。,真是的……<br>火鸡哥还是老样子呢。
+5,ルリア/露莉亚,うーん……<br>なんとかパーシヴァルさんを<br>説得できればいいんですが。,嗯……<br>要是能够说服帕西瓦尔就好了呢。
+6,,<span class='scene-font-katari'>つれないパーシヴァルに</span><br><span class='scene-font-katari'>頬を膨らませるルシぬいは</span><br><span class='scene-font-katari'>説得を試みる。</span>,<span class='scene-font-katari'>鼓着脸颊的姬塔</span><br><span class='scene-font-katari'>试着说服兴致缺缺的帕西瓦尔。</span>
+6-sel1_txt,,<span class='scene-font-katari'>たまには休養も必要だよ？</span>,<span class='scene-font-katari'>偶尔休养一下也是很必要的哦？</span>
+6-sel2_txt,,<span class='scene-font-katari'>何事も経験だよ？</span>,<span class='scene-font-katari'>凡事都该体验一下？</span>
+6-sel3_txt,,<span class='scene-font-katari'>いい家臣が見つかるかもよ？</span>,<span class='scene-font-katari'>说不定能找到不错的家臣？</span>
+6-sel4_txt,,<span class='scene-font-katari'>変な輩に絡まれるかもよ？</span>,<span class='scene-font-katari'>我说不定会被奇怪的人纠缠？</span>
+7,パーシヴァル/帕西瓦尔,……休養か。<br>だが、俺は別に疲れてなどいないぞ？,……休养吗？<br>但我并没有感到疲惫哦？
+8,ビィ/碧,いっつも難しいことばっかり<br>考えてて疲れねぇのか？,总是在考虑一些复杂的事情你都不会累吗？
+9,ルリア/露莉亚,いち家臣として、<br>パーシヴァルさんの<br>体が心配です！,作为一名家臣，<br>我很担心帕西瓦尔的身体状况！
+10,パーシヴァル/帕西瓦尔,むぅ……<br>家臣共にそこまで気遣われては、<br>無碍に断る訳にもいかぬか……,唔……<br>让家臣们担心到这个地步，<br>再断然拒绝并不妥当啊……
+11,パーシヴァル/帕西瓦尔,……わかった。<br>今回は海辺の視察もかねて、<br>俺も同行するとしよう。,……我明白了。<br>这次就顺路视察海滨，<br>我和你们一起去吧。
+12,ビィ/碧,色んな事を経験しといた方が<br>国作りにも役立つと思うぜ！,亲自去体验各种各样的事情<br>我想这对建设国家也会有帮助哦！
+13,パーシヴァル/帕西瓦尔,ふむ……<br>確かに家臣共の意見も一理あるな。,嗯……<br>确实家臣们的意见也有一定道理。
+14,パーシヴァル/帕西瓦尔,俺の理想とする国が、<br>娯楽や芸術に疎い様ではつまらん。<br>何事も学ぶ必要はあるな。,我理想中的国家<br>若是缺少娱乐和艺术也未免无趣。<br>凡事都有学习的必要啊。
+15,ルリア/露莉亚,その通りです！<br>家臣としても、パーシヴァルさんと<br>一緒に海に行けたら嬉しいです！,正是如此！<br>作为家臣，<br>要是能和帕西瓦尔一起去海边玩我会非常开心！
+16,パーシヴァル/帕西瓦尔,……わかった。<br>今回は海辺の視察もかねて、<br>俺も同行するとしよう。,……我明白了。<br>这次就顺路视察海滨，<br>我和你们一起去吧。
+17,ビィ/碧,そうだぜ！<br>国作りには有能な家臣が必要なんだろ？,就是啊！<br>有实力的家臣是建设国家必不可缺的吧？
+18,パーシヴァル/帕西瓦尔,まぁ、ルシぬい程の人材が<br>そういるとは思えんがな……,嘛，<br>但我不认为会有姬塔这种水平的人材……
+19,ルリア/露莉亚,行ってみないとわかりませんよ？<br>家臣代表として、新たな家臣の勧誘を<br>お手伝いさせて下さい！,不去的话是不会知道结果的哦？<br>请让我作为家臣的代表，<br>协助您邀请新家臣加入吧！
+20,パーシヴァル/帕西瓦尔,……新たな家臣、か。<br>確かに、いつまでもお前達ばかりに<br>苦労はかけられんからな。,……新的家臣吗<br>确实，<br>不能总是只让你们劳心劳力。
+21,パーシヴァル/帕西瓦尔,……わかった。<br>今回は海辺の視察もかねて、<br>俺も同行するとしよう。,……我明白了。<br>这次就顺路视察海滨，<br>我和你们一起去吧。
+22,パーシヴァル/帕西瓦尔,ん……なんだと？<br>それはどういう意味だ？,嗯……你说什么？<br>这是什么意思？
+23,ビィ/碧,あー、確かに海辺には<br>トラブルがつきものだからなー<br>危ねぇっちゃ危ねぇよな。,啊，因为海边总是伴随着麻烦啊—<br>说危险也确实很危险呢。
+24,パーシヴァル/帕西瓦尔,……安全なリゾート地、<br>ではないのか？,……<br>那里不是说是安全的度假胜地吗？
+25,ルリア/露莉亚,……万が一ってことも<br>ありますしね……,……说不定会有万一呢……
+26,ビィ/碧,あーあ。こんな時に<br>トサカの兄ちゃんがいてくれたらなぁ……,—啊，这种时候<br>要是身边有火鸡哥就好了呢……
+27,ルリア/露莉亚,安心なんですけどねぇ……,一定会很安心呢……
+28,,<span class='scene-font-katari'>こくこくと頷くルシぬいと</span><br><span class='scene-font-katari'>ビィとルリアは、</span><br><span class='scene-font-katari'>互いにそっと目くばせする。</span>,<span class='scene-font-katari'>不断点头的姬塔</span><br><span class='scene-font-katari'>和碧与露莉亚</span><span class='scene-font-katari'>交换了眼神。</span>
+29,パーシヴァル/帕西瓦尔,…………むう。<br>ルシぬいの腕前ならば、<br>心配あるまいが……,……嗯。<br>我对姬塔的身手有信心<br>不过……
+30,パーシヴァル/帕西瓦尔,……わかった。<br>今回は海辺の視察もかねて、<br>俺も同行するとしよう。,……我明白了。<br>这次就顺路视察海滨，<br>我和你们一起去吧。
+31,ビィ/碧,<span class='scene-font-kokoro'>（やれやれ……</span><br><span class='scene-font-kokoro'>これでようやく足並みが揃ったな！）</span>,<span class='scene-font-kokoro'>（哎呀，</span><br><span class='scene-font-kokoro'>这样总算是步伐一致了！）</span>
+32,ルリア/露莉亚,<span class='scene-font-kokoro'>（はい！　上手く行きましたね！</span><br><span class='scene-font-kokoro'>ルシぬい。）</span>,<span class='scene-font-kokoro'>（是呀，大功告成了呢，</span><br><span class='scene-font-kokoro'>姬塔！）</span>
+33,パーシヴァル/帕西瓦尔,……ん？　何を話している？<br>俺はこれから準備を整える。<br>道案内は任せたぞ。,……嗯？你们在说什么？<br>我这就去做准备，<br>带路就交给你们了。
+34,,<span class='scene-font-katari'>こうしてルシぬい一行は、</span><br><span class='scene-font-katari'>一路</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>を目指す。</span>,<span class='scene-font-katari'>如此，姬塔一行人</span><br>朝着目的地<span class='scene-font-place'>阿奎斯特</span>进发。
+40,,<span class='scene-font-katari'>移動を終え、ベネーラビーチにある</span><br><span class='scene-font-katari'>シェロカルテの海の家に到着した一行は</span><br><span class='scene-font-katari'>パーシヴァルの到着を待っていた。</span>,<span class='scene-font-katari'>姬塔一行人抵达位于贝尼拉海滩的</span><br><span class='scene-font-katari'>榭洛科特的海之家后，</span><br><span class='scene-font-katari'>等待着帕西瓦尔的到来。</span>
+41,ビィ/碧,おいおい。<br>トサカの兄ちゃんのヤツ、<br>何やってんだ？,哎呀，<br>火鸡哥那家伙在干什么呢？
+42,ルリア/露莉亚,少し遅いですね……<br>私が艇まで迎えに<br>行ってきましょうか？,有点慢呢……<br>要不然我去骑空艇接他吧？
+43,パーシヴァルの声/帕西瓦尔的声音,待たせたな。,久等了。
+48,,<span class='scene-font-katari'>パーフェクトビーチスタイルをキメた</span><br><span class='scene-font-katari'>パーシヴァルに、言葉を失う一行。</span>,<span class='scene-font-katari'>望着帕西瓦尔一身完美的沙滩装束，</span><br><span class='scene-font-katari'>一行人说不出话来。</span>
+49,ビィ/碧,ヤル気満々じゃねぇかよ！,你这不是干劲十足吗！
+50,パーシヴァル/帕西瓦尔,海辺ではこの方が合理的だ。,海边的话这身装备才合理。
+51,ルリア/露莉亚,ふふふ……それじゃあ早速<br>みんなで遊びましょうか！,呵呵呵……<br>那我们赶紧一起去玩吧！
+54,,<span class='scene-font-katari'>掛け声とともに波打ち際に</span><br><span class='scene-font-katari'>躍り出るルシぬい達。</span>,<span class='scene-font-katari'>姬塔一行在海岸边欢欣雀跃。</span>
+55,,<span class='scene-font-katari'>だが、パーシヴァルは日陰の</span><br><span class='scene-font-katari'>サマーベッドに寝そべって、</span><br><span class='scene-font-katari'>悠々と読書を始めるのだった。</span>,<span class='scene-font-katari'>帕西瓦尔却躺在阴凉处的沙滩床上，</span><br><span class='scene-font-katari'>悠哉地开始读书。</span>
+56,ビィ/碧,ヤル気はどうしたんだよ！,你的干劲都到哪里去了！
+57,ルリア/露莉亚,あ、あのぉ……<br>何の本を読んでるんですか？,嗯，那个……<br>你在看什么书呢？
+58,パーシヴァル/帕西瓦尔,……ん？<br>これはこの土地を視察する前に<br>目を通しておくべき文献だ。,……嗯？<br>这是在视察这边土地之前需要过目的文献。
+59,パーシヴァル/帕西瓦尔,移動中に読みきれなかった分を<br>今こうして消化している訳だ。,因为行程中还有没能看完的部分，<br>就在这消化掉。
+60,,<span class='scene-font-katari'>パーシヴァルのマイペースに呆れつつも</span><br><span class='scene-font-katari'>放って置くことにするルシぬい。</span>,<span class='scene-font-katari'>对帕西瓦尔的我行我素无可奈何的姬塔</span><br><span class='scene-font-katari'>只能随他去了。</span>
+66,,<span class='scene-font-katari'>しばらく遊んだ一行が、海の家に</span><br><span class='scene-font-katari'>戻ってくると、どこからともなく</span><br><span class='scene-font-katari'>女の子の泣き声が聞こえてくる。</span>,<span class='scene-font-katari'>嬉戏了一会儿的一行人刚回到海之家，</span><br><span class='scene-font-katari'>听见了不知从哪传来的女孩子的哭声。</span>
+67,パーシヴァル/帕西瓦尔,……このままでは<br>落ち着いて読書もできん。,……这样下去的话<br>根本没有办法静心读书。
+68,,<span class='scene-font-katari'>一行が女の子の元へ向かうよりも早く、</span><br><span class='scene-font-katari'>パーシヴァルが近づいて行くのだが──</span>,<span class='scene-font-katari'>帕西瓦尔先姬塔一行人一步赶往女孩儿身边</span><br><span class='scene-font-katari'>不过—</span>
+69,パーシヴァル/帕西瓦尔,おい、何があった。<br>なぜ泣いている？,喂，发生了什么事，<br>你为什么在哭？
+70,女の子/女孩,うえぇぇぇーん！！！,呜哇——！！！
+71,パーシヴァル/帕西瓦尔,待て……<br>ひとまず落ち着くんだ。<br>お前は迷子なのか？,等一下……<br>暂且冷静下来，<br>你迷路了吗？
+72,女の子/女孩,びえぇぇぇーん！！！,呜哇——！！！
+73,,<span class='scene-font-katari'>二人のやり取りを見かねて</span><br><span class='scene-font-katari'>助けに入るルシぬいは、</span><br><span class='scene-font-katari'>女の子を上手くあやすのだった。</span>,<span class='scene-font-katari'>两人的对话实在让人看不下去，</span><br><span class='scene-font-katari'>姬塔上前协助成功安抚了女孩。</span>
+74,パーシヴァル/帕西瓦尔,…………,…………
+75,女の子/女孩,お、とう……さん……と<br>お……かぁさん……がぁ……<br>いなくなってぇ……それで……,爸……爸和……妈妈<br>……都……不见了……所以……
+76,,<span class='scene-font-katari'>どうやら両親と</span><br><span class='scene-font-katari'>逸れてしまったらしい</span><br><span class='scene-font-katari'>迷子の女の子。</span>,<span class='scene-font-katari'>看样子女孩是与父母走丢了。</span>
+77,パーシヴァル/帕西瓦尔,……事情は分かった。<br>お前の両親を探せばいいんだな？,……我已经明白状况了。<br>只要找到你的父母就可以了吧？
+78,女の子/女孩,う……うん。,嗯……嗯。
+79,パーシヴァル/帕西瓦尔,ルシぬい、<br>そいつを頼んだぞ。,姬塔，<br>这孩子就交给你了。
+80,ビィ/碧,お、おい！<br>一人で見つけられるのか？,喂，喂！<br>你一个人找得到吗？
+81,パーシヴァル/帕西瓦尔,問題無い。<br>今頃、両親は必死にその娘を<br>探していることだろう。,没问题。<br>现在她的父母应该在拼命寻找那个女孩吧。
+82,パーシヴァル/帕西瓦尔,たとえ顔は分からずとも<br>大体の見当はつく。,就算不知道长相，<br>也能够猜出大半。
+83,パーシヴァル/帕西瓦尔,それに、小さな子供を連れ回すより、<br>この海の家で保護した方が得策だ。,而且，与其带着这么小的孩子走来走去，<br>将她保护在海之家才是上策。
+84,,<span class='scene-font-katari'>そう言って身を翻したパーシヴァルの</span><br><span class='scene-font-katari'>シャツを、女の子がギュッと掴んだ。</span>,<span class='scene-font-katari'>说完帕西瓦尔便转身离去，</span><br><span class='scene-font-katari'>却被女孩突然抓住衣角。</span>
+85,パーシヴァル/帕西瓦尔,……どうした？<br>まだ何かあるのか。,……怎么了？<br>还有什么事情吗？
+86,女の子/女孩,わ、わたしも……<br>いっしょにいく。,我，我……也要一起去。
+87,,<span class='scene-font-katari'>女の子の瞳から、</span><br><span class='scene-font-katari'>強い意志を感じ取る</span><br><span class='scene-font-katari'>パーシヴァル。</span>,<span class='scene-font-katari'>帕西瓦尔从女孩的眼神中</span><br><span class='scene-font-katari'>感觉到了坚强的意志</span>
+88,パーシヴァル/帕西瓦尔,…………わかった。<br>ではルシぬい達も<br>同行してくれ。,……我明白了，<br>那家臣们也一起吧。
+89,ルリア/露莉亚,もちろんです！<br>私達も手伝わせて下さい！,当然！<br>请让我们一起帮忙！
+90,ビィ/碧,ああ！<br>読書の邪魔しちまって悪ぃな！,嗯！<br>打扰你读书真是抱歉啊！
+91,パーシヴァル/帕西瓦尔,ふっ……構わん。<br>先に浜辺の視察を始めるまでだ。<br>行くぞ、家臣共。,哼……无所谓。<br>不过是提前开始海滨巡查而已。<br>走吧，家臣们。
+94,,<span class='scene-font-katari'>観光客でごった返す浜辺から、</span><br><span class='scene-font-katari'>少女の証言を辿って両親を</span><br><span class='scene-font-katari'>探すことになるルシぬい一行。</span>,<span class='scene-font-katari'>在拥挤着游客的海边，</span><br><span class='scene-font-katari'>姬塔一行人根据女孩的证言寻找她的父母。</span>
+95,パーシヴァル/帕西瓦尔,くっ……これは想像以上の人混みだ。<br>おい家臣共、決して俺から離れるなよ！,呃……真是超出预想的人群。<br>我说家臣们，千万不要离开我的身边！
+96,ルリア/露莉亚,はい！　家臣はここにいます！<br>パーシヴァルさんは目立つから、<br>たぶん大丈夫です！,是！家臣在这里！<br>因为帕西瓦尔很显眼，<br>我想大概不要紧！
+97,,<span class='scene-font-katari'>パーシヴァルを先頭に</span><br><span class='scene-font-katari'>少女を引き連れて進む一行は、</span><br><span class='scene-font-katari'>突然、人々の悲鳴を耳にする。</span>,<span class='scene-font-katari'>由帕西瓦尔打头阵，</span><br><span class='scene-font-katari'>带着小女孩的一行人</span><br><span class='scene-font-katari'>突然听到人群中的悲鸣声。</span>
+98,パーシヴァル/帕西瓦尔,……今度は何事だ？,……这次又是什么事？
+101,,<span class='scene-font-katari'>一行が悲鳴の元に急行すると、</span><br><span class='scene-font-katari'>そこには遊泳禁止区域で</span><br><span class='scene-font-katari'>溺れる若い男の姿があった。</span>,<span class='scene-font-katari'>一行人赶紧前往悲鸣的源头，</span><br><span class='scene-font-katari'>在禁止游泳的区域</span><br><span class='scene-font-katari'>有一名溺水的男子。</span>
+102,パーシヴァル/帕西瓦尔,ちっ……<br>目の前で死なれては寝覚めが悪い。,啧……<br>要是让他死在眼前的话晚上睡觉都不踏实。
+103,パーシヴァル/帕西瓦尔,ルシぬいは、何か浮く物を探せ！<br>ビィとルリアは救護係を呼べ！<br>無暗に助けに入るなよ！,姬塔去找可以浮起来的东西！<br>碧和露莉亚去呼叫救生员！<br>不要不经思考就冲上去帮忙！
+105,,<span class='scene-font-katari'>言うや否や、海に飛び込んだ</span><br><span class='scene-font-katari'>パーシヴァルは、華麗な泳法で</span><br><span class='scene-font-katari'>溺れる男に迫る。</span>,<span class='scene-font-katari'>帕西瓦尔刚交代完便立刻纵身海中，</span><br><span class='scene-font-katari'>以华丽的泳姿接近溺水的男子。</span>
+106,若い男/年轻人,だっ……だずげてぇっ！,救……救命！
+107,パーシヴァル/帕西瓦尔,悪いが大人しくしてもらおう……,抱歉，你就老实一点吧……
+108,,<span class='scene-font-katari'>水難救助の心得があるパーシヴァルは、</span><br><span class='scene-font-katari'>背後から男の自由を奪い、岸を目指す。  <br></span>,<span class='scene-font-katari'>拥有解救溺水者经验的帕西瓦尔</span><br><span class='scene-font-katari'>从背后钳制男子带他回到岸边。  <br></span>
+109,パーシヴァル/帕西瓦尔,ぐっ……<br>さすがに苦しいな……,呃……<br>不得不说确实有点辛苦啊……
+110,,<span class='scene-font-katari'>その時、パーシヴァルの目の前に、</span><br><span class='scene-font-katari'>ルシぬいが浮き輪を投げ込んだ。</span>,<span class='scene-font-katari'>就在这时，</span><br><span class='scene-font-katari'>姬塔将救生圈扔到帕西瓦尔面前</span>
+111,,<span class='scene-font-katari'>時を同じくして、</span><br><span class='scene-font-katari'>救護係を連れて戻るビィとルリア。</span>,<span class='scene-font-katari'>時を同じくして、</span><br><span class='scene-font-katari'>救護係を連れて戻るビィとルリア。</span>
+112,パーシヴァル/帕西瓦尔,ふっ……<br>さすが俺の家臣達だ。,呼……<br>不愧是我的家臣们。
+118,,<span class='scene-font-katari'>一命を取り留めた若い男は、</span><br><span class='scene-font-katari'>意識を取り戻した後、一行に</span><br><span class='scene-font-katari'>感謝の気持ちを述べるのだった。</span>,<span class='scene-font-katari'>保住一命的年轻男子清醒之后，</span><br><span class='scene-font-katari'>向姬塔一行人表达谢意。</span>
+119,若い男/年轻人,あ、あなたが……助けて……<br>ありがとうございます。,是您……救了我……<br>真是万分感谢。
+120,パーシヴァル/帕西瓦尔,貴様は、遊泳禁止という<br>文字が読めないのか？,你这家伙，<br>是看不懂禁止游泳这几个字吗？
+121,若い男/年轻人,す、すいません……,对、对不起……
+122,パーシヴァル/帕西瓦尔,ふん……<br>親から授かった命だろう？<br>どうせならもっと有意義に使え。,哼……<br>是父母赋予你性命吧？<br>不如留着做更有意义的事情。
+123,若い男/年轻人,は……はいっ！<br>あの、それで……何かお礼を……,好…好的！<br>那个，有什么我能给予的谢礼……
+124,パーシヴァル/帕西瓦尔,そんなものはいらん。<br>その代わり、次は貴様が<br>誰かを助けてやれ。,我不需要那种东西。<br>作为交换，下次就轮到你帮助别人了。
+125,若い男/年轻人,……っ！<br>はい！　わかりました！,……啊！<br>是！我明白了！
+126,,<span class='scene-font-katari'>颯爽とその場を後にする</span><br><span class='scene-font-katari'>パーシヴァルの後ろ姿を</span><br><span class='scene-font-katari'>瞼に焼き付ける若い男。</span>,<span class='scene-font-katari'>望着帕西瓦尔飒爽离去的背影，</span><br><span class='scene-font-katari'>年轻男人感到无比耀眼。</span>
+127,若い男/年轻人,<span class='scene-font-kokoro'>（……あの方のお名前を、</span><br><span class='scene-font-kokoro'>聞き忘れてしまったな……）</span>,<span class='scene-font-kokoro'>（……啊忘记询问那位阁下的名字了呢…）</span>
+130,,<span class='scene-font-katari'>気を取り直して、女の子の両親を</span><br><span class='scene-font-katari'>探し続ける一行の元に、</span><br><span class='scene-font-katari'>今度は怒声が飛びこんでくる。</span>,<span class='scene-font-katari'>重整旗鼓继续寻找女孩儿父母</span><br><span class='scene-font-katari'>一行人的耳边这次又传来了争吵声。</span>
+131,パーシヴァル/帕西瓦尔,……まったく。<br>次から次へと騒々しい限りだ。<br>ルシぬい、子供は任せたぞ！,……真是的<br>骚乱一个接着一个没完没了。<br>姬塔，那孩子就交给你了！
+132,ビィ/碧,はぁ……いつも率先して<br>首突っ込んで行くんだよなぁ。,啊…<br>他总是这样身先士卒冲上去呢。
+133,ルリア/露莉亚,あはは……<br>パーシヴァルさんは、海に来ても<br>パーシヴァルさんでしたね。,啊哈哈哈…….<br>帕西瓦尔到了海边也还是老样子呢。
+134,女の子/女孩,……パーシヴァル、さん？,……帕西瓦尔？
+135,ルリア/露莉亚,はい！<br>一見厳しくて怖い人ですけど、<br>ホントはすっごく優しい人なんです！,是哦！<br>看着虽然很严格很可怕，<br>但他其实真的是非常温柔的人呢！
+136,女の子/女孩,……うん。,……嗯。
+139,,<span class='scene-font-katari'>遅れて怒声の元へ駆け付けると</span><br><span class='scene-font-katari'>小さな屋台を出す老爺と荒くれ者が</span><br><span class='scene-font-katari'>揉めている様子である。</span>,<span class='scene-font-katari'>慢一步赶到争执声的源头，</span><br><span class='scene-font-katari'>小摊前一位老人和一个粗暴的人正发生争执。</span>
+140,,<span class='scene-font-katari'>老爺の腕を掴む荒くれ者を</span><br><span class='scene-font-katari'>非難する、周囲の人々。</span>,<span class='scene-font-katari'>周围的人都在责备抓着老人胳膊的粗暴者。</span>
+141,パーシヴァル/帕西瓦尔,待て……<br>俺が話を聞いてやろう。,等一下……<br>让我来听听你们的说辞吧。
+142,荒くれ者/小混混,……あぁん？<br>誰だテメェは？,……啊？<br>你谁啊？
+143,老爺,た、助かった！<br>早くこの無礼者をこらしめてください！,帮……帮大忙了！<br>请立刻惩处这个无礼之徒！
+144,パーシヴァル/帕西瓦尔,いいから事情を話せ。,够了，赶紧交代前因后果。
+145,,<span class='scene-font-katari'>パーシヴァルの得も言われぬオーラに</span><br><span class='scene-font-katari'>圧倒される荒くれ者と老爺は、</span><br><span class='scene-font-katari'>互いの言い分を話し始める。</span>,<span class='scene-font-katari'>被帕西瓦尔难以言喻的气场压制的两人</span><br><span class='scene-font-katari'>开始阐述自己的说辞。</span>
+146,,<span class='scene-font-katari'>どうやら両者は、事前に出店料の</span><br><span class='scene-font-katari'>支払いがなされていたかどうかで</span><br><span class='scene-font-katari'>揉めていたらしい。</span>,<span class='scene-font-katari'>两人似乎是针对事前是否支付过摊位费产生争执。</span>
+147,パーシヴァル/帕西瓦尔,ふむ……事の次第は理解したが、<br>両者の言い分を確かめる術は<br>俺には無い。,嗯……虽然理清了前因后果，<br>但是我没有办法验证你们说辞的真伪。
+148,老爺,えっ……,诶……
+149,荒くれ者/小混混,じゃあ偉そうに何しに来たんだよっ！,那你一脸嚣张地是来干什么的！
+150,パーシヴァル/帕西瓦尔,まぁ待て。<br>だがこの中に嘘をついている者がいる。,耐心点，<br>不过你们当中有人撒谎。
+151,パーシヴァル/帕西瓦尔,そこの老人……いや、男。<br>お前は何故、自分の姿を<br>偽る必要がある？,那位老人……不，男人，<br>你为什么要伪装自己的外貌？
+152,老爺,なっ……なんのことですか？,你……你在说什么呢？
+153,パーシヴァル/帕西瓦尔,ふっ……まだシラを切るつもりか？<br>貴様の声や所作には違和感がある。,哼…还要继续装傻吗？<br>你的声音和行动都有一股违和感。
+154,,<span class='scene-font-katari'>不敵な笑みを浮かべて、</span><br><span class='scene-font-katari'>目にも留まらぬ剣捌きを</span><br><span class='scene-font-katari'>披露するパーシヴァル。</span>,<span class='scene-font-katari'>伴着无畏的笑容，</span><br><span class='scene-font-katari'>帕西瓦尔施展出让人目不暇接的剑术。</span>
+156,老爺,うぎゃっ！？,啊！？
+157,パーシヴァル/帕西瓦尔,安心しろ……<br>切ったのはお前の嘘だ。,放心吧，我斩断的是你的谎言。
+158,,<span class='scene-font-katari'>パーシヴァルが切り刻んだ</span><br><span class='scene-font-katari'>老爺の変装の下から、</span><br><span class='scene-font-katari'>中年の男が姿を現す。</span>,<span class='scene-font-katari'>被帕西瓦尔切碎的伪装下，</span><br><span class='scene-font-katari'>是一名中年男人的身姿。</span>
+161,中年の男,く……くそっ！,切……可恶！
+163,パーシヴァル/帕西瓦尔,往生際の悪い。,不见棺材不掉泪啊。
+165,,<span class='scene-font-katari'>その場から逃げ出した中年の男を、</span><br><span class='scene-font-katari'>難なく捕まえるルシぬい。</span>,<span class='scene-font-katari'>姬塔不费吹灰之力便拘捕了逃逸的中年男子。</span>
+166,パーシヴァル/帕西瓦尔,流石だな。<br>ルシぬい。,不愧是你啊，姬塔。
+167,荒くれ者/小混混,……なにもんだよ、アンタ達……<br>あ、俺シェロさん呼んでくるんで、<br>ちょっとソイツを見張っててくれ！ <br>,……你们到底是什么人……<br>啊，我去叫榭洛过来<br>麻烦你们帮我看着那个家伙！ <br>
+168,,<span class='scene-font-katari'>シェロカルテに不審な男を引き渡すが、</span><br><span class='scene-font-katari'>男が屋台の出店を申請した記録は</span><br><span class='scene-font-katari'>どこにも残っていないと言う。</span>,<span class='scene-font-katari'>一行人将可疑的男子交给榭洛科特，</span><br><span class='scene-font-katari'>得知男子的摊位并没有提交过申请的记录。</span>
+169,,<span class='scene-font-katari'>更に自警団で男の素性を調べると、</span><br><span class='scene-font-katari'>最近、この辺りで老人を装った</span><br><span class='scene-font-katari'>盗難事件の犯人だと判明する。</span>,<span class='scene-font-katari'>此外警卫团还调查了男子的背景，</span><br><span class='scene-font-katari'>发现男子是最近海滨一带伪装成老人</span><br><span class='scene-font-katari'>制造盗窃案的犯人。</span>
+170,,<span class='scene-font-katari'>またもや大活躍の一行の周りには、</span><br><span class='scene-font-katari'>いつの間にか人だかりができていた。</span>,<span class='scene-font-katari'>再次大显身手的一行人身边，</span><br><span class='scene-font-katari'>不知不觉聚集了不少人。</span>
+171,パーシヴァル/帕西瓦尔,ここに集まった者達に問いたい。<br>この迷子の子供の<br>両親を知る者はいないか？,我想请问聚集在此的各位，<br>是否有人认识这位迷路的女孩的父母？
+172,,<span class='scene-font-katari'>傍らの少女を指し示して、</span><br><span class='scene-font-katari'>観客達に言葉を投げかける</span><br><span class='scene-font-katari'>パーシヴァル。</span>,<span class='scene-font-katari'>示意身边的少女，</span><br><span class='scene-font-katari'>帕西瓦尔询问观光客们。</span>
+173,地元民,……ん？<br>女の子って、どんな子だ？,……嗯？<br>女孩长什么样呢？
+174,,<span class='scene-font-katari'>人混みに埋もれてしまった</span><br><span class='scene-font-katari'>女の子を長身のパーシヴァルに</span><br><span class='scene-font-katari'>肩車させようとするルシぬい。</span>,<span class='scene-font-katari'>姬塔打算将掩埋在人群中的小女孩</span><br><span class='scene-font-katari'>放到身材高大的帕西瓦尔肩上。</span>
+175,パーシヴァル/帕西瓦尔,……ま、待てっ！　ルシぬい！<br>ここでまた泣かれては困るだろう！,等……等一下！姬塔！<br>她要是在这里哭起来会很麻烦的吧！
+176,,<span class='scene-font-katari'>だが女の子は怯える様子もなく、</span><br><span class='scene-font-katari'>進んでパーシヴァルに歩み寄る。</span>,<span class='scene-font-katari'>但是小女孩并未面露怯色，</span><br><span class='scene-font-katari'>继续朝帕西瓦尔走去。</span>
+177,女の子/女孩,パーシヴァル、さん……,帕西瓦尔……
+178,パーシヴァル/帕西瓦尔,……わかった。乗れ。,……我明白了，上来吧。
+179,,<span class='scene-font-katari'>パーシヴァルに肩車をされた</span><br><span class='scene-font-katari'>女の子に衆目が集まる。</span>,<span class='scene-font-katari'>骑在帕西瓦尔肩上的女孩吸引了众人的目光。</span>
+180,地元民,そういえば……ずいぶん前に、<br>岩場の方で小さな女の子を探してる<br>夫婦を見かけたような気が……,说起来…许久之前，<br>我在岩场那边<br>似乎看见过一对寻找小女孩的夫妇……
+181,パーシヴァル/帕西瓦尔,そこのお前……<br>今すぐそこへ案内してくれるか？,那边那位，<br>能否请你现在立刻为我们带路？
+184,,<span class='scene-font-katari'>地元民の案内で岩場へと移動するが、</span><br><span class='scene-font-katari'>岩場には、少女の両親らしき</span><br><span class='scene-font-katari'>人影は見当たらなかった。</span>,<span class='scene-font-katari'>一行人在当地居民的带领下向岩场方向移动，</span><br><span class='scene-font-katari'>但在岩场并未发现少女父母的踪迹。</span>
+185,ビィ/碧,んー、誰もいねぇみてぇだな？,嗯—，似乎没有人在这里呢？
+186,ルリア/露莉亚,うぅ……<br>どこに行っちゃったんでしょうか？,嗯……<br>他们到底去了哪里呢？
+187,パーシヴァル/帕西瓦尔,…………,…………
+188,女の子/女孩,おとうさん……おかあさん……,爸爸……妈妈……
+189,,<span class='scene-font-katari'>何かを考え続ける</span><br><span class='scene-font-katari'>様子のパーシヴァル。</span>,<span class='scene-font-katari'>帕西瓦尔似乎还在思考着什么。</span>
+190,パーシヴァル/帕西瓦尔,おい……<br>お前はこの土地の人間か？,喂……<br>你是这里土生土长的人吗。
+191,地元民,あ、はい。<br>この海で漁師をやってます。,啊，是的。<br>我在这边海域当渔夫。
+192,パーシヴァル/帕西瓦尔,ならばこの辺りで潮の満ち引きにより、<br>徒歩での移動手段が断たれる<br>場所に心当たりはないか？,那这附近有没有<br>因为涨潮而无法徒步离开的地方？
+193,地元民,……えっ？　潮の満ち引き……<br>あぁ……はい！<br>そんな洞窟があります！,诶？涨潮……<br>啊……有的！<br>有那样一个洞窟！
+194,パーシヴァル/帕西瓦尔,では、今すぐそこに船を出してくれ。<br>皆の者、事態は一刻を争う、<br>手分けして捜索に当たるぞ！,那么现在马上派出船只前往那里。<br>诸位，事态紧急刻不容缓，<br>大家分头搜索吧！
+198,,<span class='scene-font-katari'>こうしてルシぬい一行は、</span><br><span class='scene-font-katari'>パーシヴァルの指揮の下</span><br><span class='scene-font-katari'>女の子の両親の捜索を始める。</span>,<span class='scene-font-katari'>就这样，</span><br><span class='scene-font-katari'>姬塔一行人在帕西瓦尔的指挥下，</span><br><span class='scene-font-katari'>开始搜索女孩的父母。</span>
+199,,<span class='scene-font-katari'>見事、パーシヴァルの読みは的中し、</span><br><span class='scene-font-katari'>女の子の両親は、水位の変化によって</span><br><span class='scene-font-katari'>移動手段を断たれた洞窟で保護された。</span>,<span class='scene-font-katari'>结果正如帕西瓦尔所料，</span><br><span class='scene-font-katari'>成功救助了因为水位变化</span><br><span class='scene-font-katari'>而被困在洞窟中的女孩父母。</span>
+200,,<span class='scene-font-katari'>足を怪我した父親に付き添う母親。</span><br><span class='scene-font-katari'>二人とも、脱水症状が見られた</span><br><span class='scene-font-katari'>以外は、命に別状はない様である。</span>,<span class='scene-font-katari'>脚部受伤的女孩父亲和照料他的女孩母亲，</span><br><span class='scene-font-katari'>两人都出现了脱水的症状，</span><br><span class='scene-font-katari'>除此之外并无大碍。</span> 
+201,,<span class='scene-font-katari'>民衆から多大なる称賛を受ける</span><br><span class='scene-font-katari'>パーシヴァルであったが、</span><br><span class='scene-font-katari'>そそくさと海の家に帰ってしまう。</span>,<span class='scene-font-katari'>虽从民众那里收到诸多称赞，</span><br><span class='scene-font-katari'>但帕西瓦尔还是匆匆地回到了海之家。</span>
+205,パーシヴァル/帕西瓦尔,まったく……<br>忙しない一日だったな。,真是……<br>繁忙的一天啊。
+206,ビィ/碧,あぁ……<br>今日は色んな事があったよな～,啊……<br>今天确实遇到了各种各样的事情呢~
+207,ルリア/露莉亚,はい……<br>さすがに疲れましたね。,是呢……<br>身体都有点吃不消了。
+208,パーシヴァル/帕西瓦尔,ふっ……<br>家臣共もご苦労だったな。<br>今日はよく休め。,哼……<br>家臣们也辛苦了。<br>今天就好好休息吧。
+209,,<span class='scene-font-katari'>パーシヴァルの言葉に</span><br><span class='scene-font-katari'>微笑み返すルシぬいは、</span><br><span class='scene-font-katari'>その視線を背中に落とす。</span>,<span class='scene-font-katari'>对帕西瓦尔还以微笑的姬塔</span><br><span class='scene-font-katari'>将视线落在了他的背上。</span>
+210,ルリア/露莉亚,ふふっ……もうすっかり<br>懐いちゃってますね？,唔呼呼……<br>已经变得非常亲近了呢？
+211,ビィ/碧,ああ！<br>最初はあんなに怖がってたのにな！,是啊！<br>一开始明明那么害怕呢！
+212,,<span class='scene-font-katari'>パーシヴァルの背中で、</span><br><span class='scene-font-katari'>安らかな寝息を立てる女の子。</span>,<span class='scene-font-katari'>帕西瓦尔背上是睡得十分安详的女孩。</span>
+213,,<span class='scene-font-katari'>一行は、病院に搬送された両親が</span><br><span class='scene-font-katari'>回復するまで、女の子を</span><br><span class='scene-font-katari'>海の家で預かることになったのだ。</span>,<span class='scene-font-katari'>在被送往医院的女孩父母康复之前，</span><br><span class='scene-font-katari'>女孩继续姬塔一行人留在海之家照顾。</span>
+214,パーシヴァル/帕西瓦尔,ルシぬい……<br>こいつを受け取ってくれるか？,姬塔……<br>能够接住这孩子吗？
+215,,<span class='scene-font-katari'>パーシヴァルの背中から、</span><br><span class='scene-font-katari'>優しい手つきで女の子を</span><br><span class='scene-font-katari'>抱き留めるルシぬい。</span>,<span class='scene-font-katari'>姬塔温柔地从帕西瓦尔背上把女孩抱了下来。</span>
+216,ルリア/露莉亚,うふふ……パーシヴァルさん、<br>良いパパさんになれますね！,唔呼呼……<br>帕西瓦尔能成为好爸爸呢！
+217,ビィ/碧,ああ！<br>いつ父親になっても大丈夫そうだな！,是啊！<br>什么时候成为父亲都没有问题的样子呢！
+218,,<span class='scene-font-katari'>仲間に合わせて、</span><br><span class='scene-font-katari'>「パーシパパでちゅよー？」と</span><br><span class='scene-font-katari'>おどけて見せるルシぬい。</span>,<span class='scene-font-katari'>姬塔和同伴一起开玩笑喊着</span><br><span class='scene-font-katari'>“是帕西爸爸哦？”</span>
+219,パーシヴァル/帕西瓦尔,……おい。<br>くだらん冗談はよせ。,……喂。<br>无聊的玩笑就到此为止吧。
+220,パーシヴァル/帕西瓦尔,俺は部屋で文献の続きを読む。<br>お前達も、もう寝ろ。,我要回房间继续看文献了，<br>你们也是，早点睡觉吧。
+221,ビィ/碧,へいへーい。<br>んじゃオイラ達も寝るか～,是，是—。<br>那我们也去睡觉吧~
+222,ルリア/露莉亚,あっ、ルシぬい。<br>その子は私が預かります！,啊，姬塔。<br>那孩子就由我来照顾吧！
+223,,<span class='scene-font-katari'>ルシぬいの腕から</span><br><span class='scene-font-katari'>女の子を抱き取るルリア。</span>,<span class='scene-font-katari'>露莉亚从姬塔怀中抱走了女孩。</span>
+224,ルリア/露莉亚,それじゃあ、おやすみなさーい。,那就晚安吧—。
+225,ビィ/碧,また明日なー,明天见—。
+228,,<span class='scene-font-katari'>二人に就寝の挨拶を告げた</span><br><span class='scene-font-katari'>ルシぬいは、</span><br><span class='scene-font-katari'>そのまま台所へ移動する。</span>,<span class='scene-font-katari'>姬塔与两人道完晚安后</span><br><span class='scene-font-katari'>径直前往厨房。</span>
+229,,<span class='scene-font-katari'>台所で温かいお茶を淹れた</span><br><span class='scene-font-katari'>ルシぬいは、</span><br><span class='scene-font-katari'>パーシヴァルの部屋を尋ねる。</span>,<span class='scene-font-katari'>姬塔泡好热茶</span><br><span class='scene-font-katari'>前往帕西瓦尔的房间。</span>
+231,パーシヴァル/帕西瓦尔,ルシぬい……,姬塔……
+232,,<span class='scene-font-katari'>パーシヴァルの傍へ近づく</span><br><span class='scene-font-katari'>ルシぬい。</span>,<span class='scene-font-katari'>姬塔走到帕西瓦尔身边。</span>
+233,パーシヴァル/帕西瓦尔,やはり……お前ほど……,果然……像你一样……
+234,,<span class='scene-font-katari'>どうやら本を読みながら</span><br><span class='scene-font-katari'>眠ってしまったパーシヴァルは、</span><br><span class='scene-font-katari'>寝言らしき言葉を呟いていた。</span>,<span class='scene-font-katari'>帕西瓦尔似乎在看书时睡着了，</span><br><span class='scene-font-katari'>正说着梦话。</span>
+235,,<span class='scene-font-katari'>肩からずり落ちたブランケットを</span><br><span class='scene-font-katari'>かけ直される気配に気づいた</span><br><span class='scene-font-katari'>パーシヴァルが、不意に瞼を開く。</span>,<span class='scene-font-katari'>察觉到有人帮自己重新盖上从肩膀滑落的毯子</span><br><span class='scene-font-katari'>帕西瓦尔猛地睁开了眼睛。</span>
+236,パーシヴァル/帕西瓦尔,ん……なんだ……<br>ルシぬい……か？,嗯……什么啊……是……姬塔吗？
+237,パーシヴァル/帕西瓦尔,んん……すまない。<br>どうやら知らぬ間に眠っていたようだ。,啊，抱歉。<br>看来是我不知不觉间睡着了。
+238,,<span class='scene-font-katari'>茶器にお茶を注ぎながら</span><br><span class='scene-font-katari'>パーシヴァルの寝言について</span><br><span class='scene-font-katari'>茶化すルシぬい。</span>,<span class='scene-font-katari'>姬塔一边倒茶，</span><br><span class='scene-font-katari'>一边用梦话戏弄帕西瓦尔。</span>
+239,パーシヴァル/帕西瓦尔,……なに？<br>俺がルシぬいについて<br>寝言を言っていただと？,……什么？<br>我居然说出了有关姬塔的梦话？
+240,,<span class='scene-font-katari'>ルシぬいは寝言の内容について</span><br><span class='scene-font-katari'>「心当たりはあるか？」と</span><br><span class='scene-font-katari'>尋ねてみる。</span>,<span class='scene-font-katari'>姬塔根据梦话内容</span><br><span class='scene-font-katari'>询问着“还有印象吗”</span>
+241,パーシヴァル/帕西瓦尔,ふっ……<br>簡単なことだ。,哼……很简单。
+242,パーシヴァル/帕西瓦尔,ルシぬい……やはりお前ほど<br>俺に相応しい男はいない。,姬塔……<br>果然再没有比你更合适我的人了。
+244,パーシヴァル/帕西瓦尔,この先も俺の右腕として……<br>変わらず傍に仕えてくれ。,今后也继续作为我可靠的右手，<br>一如既往侍奉在我身边吧。
+245,パーシヴァル/帕西瓦尔,とでも、伝えたかったのだろう。,看来我非常想要告诉你这些吧。
+246,,<span class='scene-font-katari'>パーシヴァルの直截な物言いに、</span><br><span class='scene-font-katari'>気恥ずかしくなったルシぬいは、</span><br><span class='scene-font-katari'>挨拶もそこそこに部屋を後にする。</span>,<span class='scene-font-katari'>因为帕西瓦尔的直截了当的发言</span><br><span class='scene-font-katari'>而感到害羞的姬塔，</span><br><span class='scene-font-katari'>没打招呼就慌慌张张地离开了房间。</span>
+248,パーシヴァル/帕西瓦尔,……ふむ。<br>アイツはお茶も飲まずに<br>いったい何をしに来たんだ？,……嗯。<br>那家伙茶也没喝，<br>到底是来干什么的？
+249,,<span class='scene-font-katari'>普段とは違うルシぬいの様子に、</span><br><span class='scene-font-katari'>小首を傾げるパーシヴァル。</span>,<span class='scene-font-katari'>帕西瓦尔歪着头</span><br><span class='scene-font-katari'>思索着与平常不同的姬塔。</span>
+250,パーシヴァル/帕西瓦尔,ふぁあ……<br>今日はさすがに疲れた。<br>今夜はもう、眠るとしよう。,呃啊……<br>今天果然很疲劳，<br>今晚就先睡觉吧。
+251,,<span class='scene-font-katari'>こうしてパーシヴァルの</span><br><span class='scene-font-katari'>長い長い、一日が終わる。</span>,<span class='scene-font-katari'>就这样，</span><br><span class='scene-font-katari'>帕西瓦尔非常漫长的一天结束了。</span>
+252,,<span class='scene-font-katari'>だがパーシヴァルの活躍は評判を呼び、</span><br><span class='scene-font-katari'>その後も人々の相談事が絶えなかった。</span>,<span class='scene-font-katari'>但帕西瓦尔的活跃受到了诸多关注</span><br><span class='scene-font-katari'>之后寻求与他商量的人也绵绵不绝。</span>
+253,,<span class='scene-font-katari'>彼がバカンスを満喫できる日は、</span><br><span class='scene-font-katari'>果たして訪れるのだろうか？</span>,<span class='scene-font-katari'>能够让他充分享受假期的一天</span><br><span class='scene-font-katari'>是否真的会到来呢？</span>
+info,,,scene_fate_chr304_ep1
+译者,,,

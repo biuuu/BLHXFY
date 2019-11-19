@@ -1,0 +1,11 @@
+id,name,detail
+npc,尤艾尔,3040210000
+special,红之舞·华岚,<div class=prt-text-small>风属性伤害(特大)/赋予我方全体风属性追击效果<span class=text-blue>◆对象处于狐火状态时追加无属性伤害</span></div>
+skill-1,不知火,<div class=prt-text-small>对敌方全体造成风属性伤害/赋予对方狐火效果/土属性攻击DOWN<span class=text-blue>◆消费10%奥义槽</span></div>
+skill-1+,不知火,<div class=prt-text-small>对敌方全体造成风属性伤害/赋予对方狐火效果/土属性攻击DOWN<span class=text-blue>◆消费10%奥义槽</span></div>
+skill-2,飞燕·焰返,<div class=prt-text-small>对敌人造成4次风属性伤害/自己的连续攻击几率UP（累积）<span class=text-blue>◆对狐火状态的敌人发动2次</span></div>
+skill-2+,飞燕·焰返,<div class=prt-text-small>对敌人造成4次风属性伤害/自己的连续攻击几率UP（累积）<span class=text-blue>◆对狐火状态的敌人发动2次</span></div>
+skill-3,迎凉之仪,<div class=prt-text-small>回复我方全体的HP/回复一个弱体效果</div>
+support-1,瑞月,<div class=prt-text-small>对于狐火状态的敌人，我方全体造成的伤害上升</div>
+support-2,风前之狐火,<div class=prt-text-small>自己的HP降到一半以下的回合结束时，自己的所有技能能够立即使用（仅1次）/奥义槽UP（100%）</div>
+intro,苍红之绊,明媚的泳装是与独一无二的亲友的友爱之证。少女一边感受着比千年的时间更加久远深长的重要牵绊，一边享受着凉爽的休憩。

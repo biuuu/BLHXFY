@@ -1,0 +1,63 @@
+id,name,text,trans
+0-chapter_name,,平穏の灯火,平穏的灯火
+0-synopsis,,ある日、普段と異なる伝達者から指令を受けたユーステスは、目的地へ向かう道中、本来の指令伝達者である上司のローナンと出会う。ローナンは組織がユーステスの構成員としての素質を疑問視している現状を伝え、勝手な行動を慎むよう警告する。ユーステスは組織がルリア達を狙っていることに感づき、ローナンの警告を無視するようにその場を立ち去るのだった。,某一天，尤斯缇斯从和平时不同的传令兵那里收到了指令，在向着目的地前进的路上，遇到了下达指令的上司罗南。罗南将组织正怀疑尤斯提斯是否有作为成员的素质一事告知与他，并警告他谨慎行动不要擅作主张。尤斯缇斯察觉到组织瞄准了露莉亚他们的性命，无视了罗南的警告离开了那里。
+1,？？？,<span class='scene-font-gray'>ブブブブブブ──</span>,<span class='scene-font-gray'>嘟嘟嘟嘟嘟嘟──</span>
+3,ユーステス/尤斯缇斯,…………,…………
+4,？？？,<span class='scene-font-gray'>新しい指令だ、ユーステス。</span>,<span class='scene-font-gray'>尤斯缇斯，有新的指令。</span>
+5,ユーステス/尤斯缇斯,…………,…………
+6,？？？,<span class='scene-font-gray'>とある街にて</span><span class='scene-font-spword'>『敵』</span><span class='scene-font-gray'>の</span><br><span class='scene-font-gray'>暗躍のきざしがみられる。</span>,<span class='scene-font-gray'>在某条街上发现了</span><span class='scene-font-spword'>『敌人』</span><span class='scene-font-gray'>的</span><br><span class='scene-font-gray'>秘密活动的苗头。</span>
+7,？？？,<span class='scene-font-gray'>すぐに向かい、</span><br><span class='scene-font-gray'>調査の上で阻止に動け。</span>,<span class='scene-font-gray'>即刻前往，</span><br><span class='scene-font-gray'>调查之后加以阻止。</span>
+8,,<span class='scene-font-katari'>伝声機の向こうの相手は、</span><br><span class='scene-font-katari'>淡々と、高圧的に</span><br><span class='scene-font-katari'>指令内容を伝えてくる。</span>,<span class='scene-font-katari'>传声机对面的人</span><br><span class='scene-font-katari'>淡然地气势压人地</span><br><span class='scene-font-katari'>传达着指令的内容。</span>
+9,？？？,<span class='scene-font-gray'>こちらも人手不足でな。</span><br><span class='scene-font-gray'>今回の指令はひとりで行ってもらう。</span>,<span class='scene-font-gray'>我们这边也是人手不足啊。</span><br><span class='scene-font-gray'>这次的指令就由你一个人去实施。</span>
+10,？？？,<span class='scene-font-gray'>まぁ、お前ならば問題ないだろう？</span>,<span class='scene-font-gray'>嘛啊，你的话应该没有问题吧？</span>
+11,ユーステス/尤斯缇斯,指令は把握した。<br>だが、ひとつ尋ねる。,指令我已经了解了。<br>但是，我想问个问题。
+12,？？？,<span class='scene-font-gray'>なんだ？</span>,<span class='scene-font-gray'>什么？</span>
+13,ユーステス/尤斯缇斯,命令系統に変更があったのか？,命令系统是变更了吗？
+14,？？？,<span class='scene-font-gray'>……お前が気にすることではない。</span>,<span class='scene-font-gray'>……这不是你该关心的事。</span>
+15,ユーステス/尤斯缇斯,…………,…………
+16,？？？,<span class='scene-font-gray'>わかったのなら、</span><br><span class='scene-font-gray'>さっさと動け。</span>,<span class='scene-font-gray'>了解了的话，</span><br><span class='scene-font-gray'>赶紧给我行动起来。</span>
+18,ユーステス/尤斯缇斯,…………,…………
+19,,<span class='scene-font-katari'>通信の切れた伝声機を見下ろす</span><br><span class='scene-font-katari'>ユーステスの表情は</span><br><span class='scene-font-katari'>いつにも増して険しいものだった。</span>,<span class='scene-font-katari'>俯视着切断了通信的传声机</span><br><span class='scene-font-katari'>尤斯缇斯的表情</span><br><span class='scene-font-katari'>比以往都更为险恶。</span>
+25,ユーステス/尤斯缇斯,街はこの先だな。,那条街就在前面吧。
+26,ユーステス/尤斯缇斯,…………,…………
+27,,<span class='scene-font-katari'>指示された街まで</span><br><span class='scene-font-katari'>あとわずかというところ──</span>,<span class='scene-font-katari'>在距离指定的街道</span><br><span class='scene-font-katari'>还差一点路程的地方──</span>
+28,,<span class='scene-font-katari'>おもむろに足を止めたユーステスは</span><br><span class='scene-font-katari'>フラメクへと手を伸ばした。</span>,<span class='scene-font-katari'>尤斯提斯静静地停住了脚步</span><br><span class='scene-font-katari'>手伸向了弗拉梅克。</span>
+30,ユーステス/尤斯缇斯,──出てこい。,──给我出来。
+31,？？？,流石だな、ユーステス。,不愧是你啊，尤斯缇斯。
+34,？？？,まずは銃を下ろせ。,首先给我把枪放下。
+35,ユーステス/尤斯缇斯,ローナン……,罗南……
+36,ユーステス/尤斯缇斯,あんたがこんなところまで<br>来るということは……,你连这种地方都来了<br>也就是说……
+37,ユーステス/尤斯缇斯,やはり何かあったか。,果然是有什么事吧。
+38,ローナン,……伝声機では話せんからな。<br>監視にかかる。,……用传声机不好说呢。<br>因为被监视着。
+39,ユーステス/尤斯缇斯,指令の通信が<br>あんたからじゃなかったのも<br>そういうことか……,指令的通信<br>不是由你发来的<br>也是这么一回事啊……
+40,ユーステス/尤斯缇斯,何があった？,发生什么了吗？
+41,ローナン,……組織はお前の構成員としての<br>素質を疑問視し、見張っている。,……组织正在怀疑你<br>作为成员的素质，正监视着你。
+42,ローナン,私をお前から引き離したのも<br>その一環としてだ。,把我从你那里调开<br>也是其中一个环节。
+43,ユーステス/尤斯缇斯,……そうか。,……是嘛。
+44,ローナン,だが私は、お前が<br>組織に牙をむくことはないと<br>理解している。,但是我啊，知道你<br>绝不会加害组织的。
+45,ユーステス/尤斯缇斯,…………,…………
+46,ローナン,お前が、故郷を滅ぼした『敵』への<br>感情を失わない限りはな。,只要你还没有失去<br>对毁灭了你故乡的『敌人』所抱有的情感的话。
+47,ローナン,幼いお前から、故郷を、平穏を、<br>全てを奪った『敵』の陰謀を、<br>覚えているだろう？,你还记得，从年幼的你那里，<br>将故乡，将安稳全部夺去的<br>『敌人』的阴谋吧？
+50,,<span class='scene-font-katari'>一瞬、</span><br><span class='scene-font-katari'>ユーステスの耳の奥に</span><br><span class='scene-font-katari'>雪原を焼く炎の慟哭が響いた。</span>,<span class='scene-font-katari'>一瞬间，</span><br><span class='scene-font-katari'>尤斯缇斯的耳朵深处</span><br><span class='scene-font-katari'>响起了燃烧雪原的火焰的恸哭。</span>
+53,ユーステス/尤斯缇斯,…………,…………
+54,ローナン,お前は成長し、力を手にし、<br>武器と契約した。,你也成长了，获得力量了，<br>也与武器签订契约了。
+55,ローナン,それでも、『敵』に奪われた<br>平穏とやらのことを<br>忘れたわけではなかろう。,然而，被『敌人』所夺走的<br>平和安稳的那些东西<br>你应该是忘不掉的吧。
+56,ユーステス/尤斯缇斯,……そうだな。<br>忘れてはいない。,……是啊。<br>我忘不掉的。
+57,ユーステス/尤斯缇斯,だが、組織の方が<br>変化していないと言えるか？,但是，难道组织那边<br>就没有变化吗？
+58,ローナン,お前の言いたいこともわかる。<br>確かに、今組織の内部は<br>混乱の只中にある。,我知道你想说什么。<br>确实，现在组织的内部<br>正处于混乱之中。
+59,ローナン,しかし、だからこそ<br>今ここで勝手な行動を<br>取るのは愚策だぞ、ユーステス。,但是，正因为如此<br>现在采取擅自的行动的话<br>可是非常不明智的哦，尤斯缇斯。
+60,ユーステス/尤斯缇斯,勝手？,擅自？
+61,ユーステス/尤斯缇斯,俺は今、組織の指令に従おうと<br>しているだけだが。,我现在，只是在<br>遵从着组织的指令而已。
+62,ローナン,……わかっているくせに<br>私相手にはぐらかすようなことを<br>言うのはやめろ。,……你明明知道我是什么意思<br>和我谈话的时候<br>别故意岔开话题了。
+63,ローナン,蒼の少女や、あの騎空士に<br>これ以上肩入れするな、<br>と言っているんだ。,我要告诉你<br>不要再袒护<br>苍之少女和那个骑空士了。
+64,ユーステス/尤斯缇斯,……そうか。,……是嘛。
+65,ユーステス/尤斯缇斯,やはり組織は<br>改めてあいつらを標的にしたか。,果然组织再次<br>盯上了他们啊。
+66,ローナン,<span class='scene-font-4'>ユーステス！</span>,<span class='scene-font-4'>尤斯缇斯！</span>
+67,ユーステス/尤斯缇斯,ローナン、あんたが<br>危険をおかしてまで、こうして<br>警告に来てくれたことには感謝する。,罗南，感谢你<br>即便冒着风险<br>也要来这警告我。
+69,ローナン,はぁ……,哈啊……
+70,,<span class='scene-font-katari'>踵を返して去っていくユーステスに</span><br><span class='scene-font-katari'>ローナンはかける言葉もなく</span><br><span class='scene-font-katari'>首を振った。</span>,<span class='scene-font-katari'>对着转身离开的尤斯缇斯</span><br><span class='scene-font-katari'>罗南一句劝阻的话都说不出</span><br><span class='scene-font-katari'>摇了摇头。</span>
+71,ローナン,……何故だ？,……为什么？
+72,ローナン,お前は、目的を果たす為には<br>何を失うことになろうと<br>構わず、止まることはない……,你为了达成你的目标<br>无论会失去什么都毫不在意<br>绝不放弃停止……
+73,ローナン,その覚悟を常にして歩んでいると<br>思っていたんだがな。,你是一直都<br>怀抱着这种觉悟前进着的吗。
+info,,,scene_chr517_q1_s10
+译者,,,

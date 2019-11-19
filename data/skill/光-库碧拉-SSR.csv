@@ -1,0 +1,11 @@
+id,name,detail
+npc,库碧拉,3040197000
+special,金牙神然,光属性伤害(特大)/回复自身HP/获得卧猪之矛效果
+skill-1,迅雷风烈,对敌方全体造成光属性伤害/光属性防御DOWN/赋予自身大烈风效果
+skill-1+,迅雷风烈,对敌方全体造成光属性伤害/光属性防御DOWN/赋予自身大烈风效果
+skill-2,猪突猛进,<div class=prt-text-small>对敌人造成光属性伤害/我方全体连续攻击几率UP/通常攻击伤害上限UP <span class=text-blue>◆根据使用次数提升强化效果的性能（最大5次）</span></div>
+skill-2+,猪突猛进,<div class=prt-text-small>对敌人造成光属性伤害/我方全体连续攻击几率UP/通常攻击伤害上限UP <span class=text-blue>◆根据使用次数提升强化效果的性能（最大5次）</span></div>
+skill-3,英华发外,<div class=prt-text-small>赋予自身反击效果（受伤/3次）/敌对心UP/根据受到伤害的次数时提升奥义槽（5%/最大50%）</div>
+support-1,猪突·上宝金沁之击枪,奥义槽积蓄缓慢但通常攻击的伤害高/最大HPUP
+support-2,亥神宫之主,<div class=prt-text-small>根据通常攻击及反击次数获得[卧猪之矛]效果（4阶段）<span class=text-blue>◆变化到第四阶段后，回合结束时发动猪突猛进，重置[卧猪之矛]层数</span></div>
+intro,北北西的守护神,守护北北西方位，十二神将之一。没有神授的刚力的亥神为了能与伟大的先人并肩，离开家园前往苍空。她的真心和大志一定会笔直地开拓出众人前进的道路。

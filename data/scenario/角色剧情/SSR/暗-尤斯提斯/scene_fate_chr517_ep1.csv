@@ -1,0 +1,121 @@
+id,name,text,trans
+0-chapter_name,,静寂の雪原,寂静的雪原
+0-synopsis,,ある日、『組織』に疑念を抱くユーステスは組織の書庫を調べ、以前の月の剥片での戦闘記録に意図的な隠蔽があることに気づく。時を同じくして、ユーステスの構成員としての信頼性について密かに討議するふたりの男がいた。姬塔達の艇に戻っても、呼び出され直ぐにまた艇を離れてしまうユーステスを見送りながら、姬塔は微かな不安を感じるのだった。,某一天，对『组织』抱有疑虑的尤斯缇斯调查了组织的书库，察觉到了组织有意隐藏以前在月之碎片的战斗记录。与此同时，有两个男人在秘密地讨论着尤斯缇斯作为成员是否可信。姬塔一行目送刚回到骑空艇，就又被叫出去的尤斯缇斯离开，感到了些许不安。
+1,,<span class='scene-font-katari'>音もなく、色もない雪原。</span><br><span class='scene-font-katari'>温度もなくし、</span><br><span class='scene-font-katari'>凍りついたままの手足で淡々と進む。</span>,<span class='scene-font-katari'>寂静无声，纯然无色的雪原。</span><br><span class='scene-font-katari'>连温度也失却了</span><br><span class='scene-font-katari'>只能漠然地驱动着冻僵的手脚前进。</span>
+2,,<span class='scene-font-katari'>どこかを目指しているはずで、</span><br><span class='scene-font-katari'>何かから逃げているようで。</span>,<span class='scene-font-katari'>就像是朝着某个目标，</span><br><span class='scene-font-katari'>要从某物那里逃走一样。</span>
+5,,<span class='scene-font-katari'>目を閉じてみれば</span><br><span class='scene-font-katari'>瞼の裏には燃え上がる炎、</span><br><span class='scene-font-katari'>大切な日々が消えていく慟哭。</span>,<span class='scene-font-katari'>一旦闭上眼睛</span><br><span class='scene-font-katari'>眼睑深处便会燃起熊熊烈焰</span><br><span class='scene-font-katari'>响起失去了重要过去的恸哭。</span>
+6,,<span class='scene-font-katari'>それが掻き消えた後には</span><br><span class='scene-font-katari'>耳に痛いくらいの静寂だけが残る。</span>,<span class='scene-font-katari'>那些都消失之后</span><br><span class='scene-font-katari'>耳畔只留下痛彻心扉的寂静。</span>
+7,,<span class='scene-font-katari'>それはまぎれもなく、</span><br><span class='scene-font-katari'>未だ消えることのない</span><br><span class='scene-font-katari'>喪失の余韻だった。</span>,<span class='scene-font-katari'>那毫无疑问，</span><br><span class='scene-font-katari'>是至今仍未消失的</span><br><span class='scene-font-katari'>失去某物后的残存的感觉。</span>
+13,ユーステス/尤斯缇斯,…………,…………
+14,,<span class='scene-font-katari'>薄暗く、陰気な書庫。</span>,<span class='scene-font-katari'>昏沉，阴暗的书库。</span>
+15,,<span class='scene-font-katari'>立ち並ぶ書架の間に、</span><br><span class='scene-font-katari'>まるで身をひそめるように</span><br><span class='scene-font-katari'>ユーステスは立っていた。</span>,<span class='scene-font-katari'>在排列的书架之间，</span><br><span class='scene-font-katari'>尤斯缇斯好像要把自己藏起来一般的</span><br><span class='scene-font-katari'>站在那里。</span>
+16,ユーステス/尤斯缇斯,……これか。,……是这个啊。
+17,,<span class='scene-font-katari'>やっと見つけた、と手に取ったのは</span><br><span class='scene-font-katari'>以前、月の剥片で繰り広げられた</span><br><span class='scene-font-katari'>戦いに関する記録だった。</span>,<span class='scene-font-katari'>他终于寻找到并拿到手上的是</span><br><span class='scene-font-katari'>以前在月之破片上进行过的</span><br><span class='scene-font-katari'>战斗相关的记录。</span>
+18,ユーステス/尤斯缇斯,…………,…………
+19,,<span class='scene-font-katari'>ここは『組織』の</span><br><span class='scene-font-katari'>ファータ・グランデ支部の</span><br><span class='scene-font-katari'>深部にある資料庫。</span>,<span class='scene-font-katari'>这里是『组织』的</span><br><span class='scene-font-katari'>法塔·格兰德分部的</span><br><span class='scene-font-katari'>位于深处的资料库。</span>
+20,,<span class='scene-font-katari'>自身が所属する組織に疑念を抱く</span><br><span class='scene-font-katari'>ユーステスは、自らの権限で閲覧できる</span><br><span class='scene-font-katari'>資料を、再度洗いなおしていた。</span>,<span class='scene-font-katari'>尤斯缇斯对自己所属的组织抱有疑虑，</span><br><span class='scene-font-katari'>再度调查起了</span><br><span class='scene-font-katari'>自己权限内能接触到的资料。</span>
+21,ユーステス/尤斯缇斯,これは……,这是……
+22,,<span class='scene-font-katari'>そこで明らかになったのは、</span><br><span class='scene-font-katari'>意図的と思われる戦闘記録の</span><br><span class='scene-font-katari'>改ざんだった。</span>,<span class='scene-font-katari'>借此弄清了一件事，</span><br><span class='scene-font-katari'>战斗记录被故意地</span><br><span class='scene-font-katari'>人为篡改了。</span>
+23,ユーステス/尤斯缇斯,…………,…………
+24,,<span class='scene-font-spword'>「機神」「月の民」「セスラカ」</span><span class='scene-font-katari'>──</span>,<span class='scene-font-spword'>「机神」「月之民」「塞斯拉卡」</span><span class='scene-font-katari'>──</span>
+25,,<span class='scene-font-katari'>戦いの中で露見した</span><br><span class='scene-font-katari'>それらの事実についての記述は、</span><br><span class='scene-font-katari'>資料には一切見受けられない。</span>,<span class='scene-font-katari'>战斗之中暴露出来的</span><br><span class='scene-font-katari'>这些事情相关的记述</span><br><span class='scene-font-katari'>在资料里完全看不到。</span>
+26,ユーステス/尤斯缇斯,こちらが上げた報告との<br>差異が大きすぎる。,和我们这边提交上去的报告<br>相比差异很大啊。
+27,ユーステス/尤斯缇斯,<span class='scene-font-kokoro'>（組織が何かを</span><br><span class='scene-font-kokoro'>隠そうとしているのは</span><br><span class='scene-font-kokoro'>明らかだな）</span>,<span class='scene-font-kokoro'>（很明显</span><br><span class='scene-font-kokoro'>组织是在</span><br><span class='scene-font-kokoro'>隐藏着什么）</span>
+28,ユーステス/尤斯缇斯,<span class='scene-font-kokoro'>（その「何か」が何なのか……）</span>,<span class='scene-font-kokoro'>（那个「什么」会是什么呢……）</span>
+29,ユーステス/尤斯缇斯,…………,…………
+30,,<span class='scene-font-katari'>もう一度、記録を確認しようと</span><br><span class='scene-font-katari'>ページをめくった時──</span>,<span class='scene-font-katari'>再次确认记录</span><br><span class='scene-font-katari'>阅览着书页的时候──</span>
+32,ユーステス/尤斯缇斯,っ……,……
+33,,<span class='scene-font-katari'>人の気配が近づいてきたことに</span><br><span class='scene-font-katari'>気が付き、資料をそっと棚に戻す。</span>,<span class='scene-font-katari'>感觉到了某人的气息的接近</span><br><span class='scene-font-katari'>尤斯缇斯悄悄地把资料放回书架上。</span>
+35,組織の兵１,あれ？<br>ユーステスさん？,哎呀？<br>尤斯缇斯？
+36,ユーステス/尤斯缇斯,お前は……,你是……
+37,,<span class='scene-font-katari'>姿を現したのは、ユーステス達、</span><br><span class='scene-font-katari'>武器の契約者に対抗して</span><br><span class='scene-font-katari'>つくられた新設部隊の兵だった。</span>,<span class='scene-font-katari'>眼前出现的是，为了抗衡</span><br><span class='scene-font-katari'>尤斯缇斯他们这些武器契约者</span><br><span class='scene-font-katari'>而作成的新式部队的士兵。</span>
+38,組織の兵１,ユーステスさんが支部に<br>顔出すなんて珍しいですね。,尤斯缇斯出现在支部<br>还真是稀奇啊。
+39,ユーステス/尤斯缇斯,そうだな。,是啊。
+40,組織の兵１,何か必要な資料でも？<br>俺、ここのこと詳しいから<br>探すの手伝いましょうか？,是有什么需要的资料吗？<br>我对这里的事很了解的<br>要帮你找吗？
+41,ユーステス/尤斯缇斯,もうすんだ。,已经结束了。
+42,組織の兵１,そうですか？<br>まあ、何かあったら言ってくださいよ。,是吗？<br>嘛啊，如果有什么需要就和我说吧。
+43,ユーステス/尤斯缇斯,ああ。,嗯。
+45,組織の兵１,…………,…………
+51,ビィ/碧,あーあ、仏頂面の兄ちゃんは<br>まだ帰ってこねぇのかぁ。,啊ー啊，不高兴小哥<br>还没有回来吗。
+52,ルリア/露莉亚,遅いですね……,好慢啊……
+53,ビィ/碧,なんか最近<br>忙しそうだよな、アイツ。,总觉得最近<br>那家伙很忙的样子呢。
+54,ルリア/露莉亚,艇をあけることが<br>多くなってますよね。,也经常的<br>不在艇上呢。
+55,ビィ/碧,まぁアイツはオイラ達と<br>一緒に旅をしてはいても、<br>どっかの組織の一員だからなぁ。,嘛啊虽然那家伙<br>和我们一起旅行了<br>但还是某个组织的成员呢。
+56,ルリア/露莉亚,そっちのお仕事が<br>忙しいんでしょうか……？,是因为忙于<br>那边的工作吗……？
+57,,<span class='scene-font-katari'>とある『組織』に属するユーステスと</span><br><span class='scene-font-katari'>姬塔達の出会いは、かつての</span><br><span class='scene-font-place'>ノース・ヴァスト</span><span class='scene-font-katari'>での戦いの折だった。</span>,<span class='scene-font-katari'>从属于某个『组织』的尤斯缇斯</span><br><span class='scene-font-katari'>与姬塔他们的相遇契机是，曾经在</span><br><span class='scene-font-place'>北方大地</span><span class='scene-font-katari'>上发生的战斗。</span>
+64,？？？,<span class='scene-font-gray'>お前が行動を共にしている、</span><br><span class='scene-font-gray'>蒼い髪の少女は星晶獣の力を操る。</span>,<span class='scene-font-gray'>和你一起行动的</span><br><span class='scene-font-gray'>苍蓝发色的少女能操纵星晶兽的力量。</span>
+65,？？？,<span class='scene-font-gray'>その少女はもしかすると</span><br><span class='scene-font-gray'>我々の脅威になり得るかもしれん。</span>,<span class='scene-font-gray'>那名少女也许</span><br><span class='scene-font-gray'>有可能会威胁到我们。</span>
+66,？？？,<span class='scene-font-gray'>しばらくの間、少女と騎空士を監視。</span><br><span class='scene-font-gray'>脅威と判断したら、即座に始末しろ。</span>,<span class='scene-font-gray'>暂且监视少女和骑空士一段时间。</span><br><span class='scene-font-gray'>如果判断会造成威胁，就立刻下手解决。</span>
+72,,<span class='scene-font-katari'>最初は、『組織』の命によって</span><br><span class='scene-font-katari'>姬塔達と行動を</span><br><span class='scene-font-katari'>共にしていたユーステスだったが──</span>,<span class='scene-font-katari'>最开始，因为『组织』的命令</span><br><span class='scene-font-katari'>尤斯缇斯才和姬塔他们</span><br><span class='scene-font-katari'>一起共同行动，但是──</span>
+79,？？？,<span class='scene-font-gray'>会議で決まったことだが</span><br><span class='scene-font-gray'>あの少女は著しく危険だと判断した。</span>,<span class='scene-font-gray'>这是由会议决出的结果</span><br><span class='scene-font-gray'>我们判断那个少女是极大的威胁。</span>
+80,？？？,<span class='scene-font-gray'>数多の星晶獣の力を駆使する</span><br><span class='scene-font-gray'>極めて危険な存在だ。すぐに始末しろ。</span><br><span class='scene-font-gray'>少女の仲間達もだ。</span>,<span class='scene-font-gray'>是驱使着许多星晶兽的力量的</span><br><span class='scene-font-gray'>极其危险的存在。立刻解决掉。</span><br><span class='scene-font-gray'>少女的伙伴们也一起。</span>
+81,？？？,<span class='scene-font-gray'>お前のことだ。今回の任務も</span><br><span class='scene-font-gray'>迅速に完遂してくれるだろう。</span>,<span class='scene-font-gray'>因为是你。这次的任务也</span><br><span class='scene-font-gray'>能迅速地完成的吧。</span>
+82,ユーステス/尤斯缇斯,…………,…………
+83,ユーステス/尤斯缇斯,俺は。,我啊。
+84,？？？,<span class='scene-font-gray'>……？</span>,<span class='scene-font-gray'>……？</span>
+85,ユーステス/尤斯缇斯,俺は平穏と静寂を望む。,我渴望着平和和宁静。
+86,？？？,<span class='scene-font-gray'>ああ……？</span><br><span class='scene-font-gray'>もちろん知っているが……</span><br><span class='scene-font-gray'>どうした急に……</span>,<span class='scene-font-gray'>啊啊……？</span><br><span class='scene-font-gray'>这我当然知道……</span><br><span class='scene-font-gray'>为什么突然……</span>
+87,ユーステス/尤斯缇斯,故に、断る。,因此，我拒绝。
+94,,<span class='scene-font-katari'>現在は、『組織』の任務に</span><br><span class='scene-font-katari'>逆らう形で姬塔達と</span><br><span class='scene-font-katari'>共に旅をしている。</span>,<span class='scene-font-katari'>现在，尤斯缇斯违抗了</span><br><span class='scene-font-katari'>『组织』所下达的任务</span><br><span class='scene-font-katari'>和姬塔他们一起踏上了旅程。</span>
+95,ルリア/露莉亚,ユーステスさんは強いし、<br>無茶をするような人じゃないですから<br>心配とかじゃあないんですけど……,尤斯缇斯桑又强<br>又是不会乱来的人<br>虽然不用为他担心，但是……
+95-sel1_txt,,<span class='scene-font-katari'>寂しい</span>,<span class='scene-font-katari'>好寂寞</span>
+95-sel2_txt,,<span class='scene-font-katari'>仕方ない</span>,<span class='scene-font-katari'>这也是没办法的</span>
+96,ルリア/露莉亚,……ですよね。,……也是啊。
+97,ビィ/碧,仏頂面の兄ちゃんって<br>不思議だよな。,不高兴小哥他<br>真不可思议啊。
+98,ビィ/碧,一緒に騒いだりは絶対にしねぇけど<br>近くにいるとなんか<br>落ち着くって言うかさ。,虽然不会和我们一起吵吵闹闹<br>但是他在身边的话<br>总觉得很安心呢。
+99,ルリア/露莉亚,そうですよね。<br>それに……,是啊。<br>而且……
+100,ビィ/碧,まぁ、オイラ達が<br>口出しできることじゃあねぇしな。,嘛啊，那也不是<br>我们能够说的话呢。
+101,ルリア/露莉亚,それはそうなんですけど……,虽然的确是这么一回事……
+102,ルリア/露莉亚,ユーステスさんは、どんなに<br>忙しくても、私達が困ってる時は<br>絶対に助けてくれます。,但是尤斯缇斯，不管有多忙<br>在我们陷入困境的时候<br>一定会来帮助我们。
+103,ルリア/露莉亚,だから、ユーステスさんが<br>困ってる時は<br>言って欲しいのに……,所以，我也希望<br>尤斯缇斯在遇到麻烦的时候<br>能够告诉我们……
+104,ビィ/碧,そうだなぁ。<br>アイツ無口だから、<br>そういうの言わねぇもんな。,也是啊。<br>因为那家伙很沉默寡言<br>所以不会和我们说呢。
+105,ルリア/露莉亚,とにかく、<br>早く帰って来て欲しいですね。,总之，<br>希望他能早点回来呢。
+107,ユーステス/尤斯缇斯,…………,…………
+108,ルリア/露莉亚,ユーステスさん！<br>おかえりなさい！,尤斯缇斯！<br>欢迎回来！
+109,ビィ/碧,おっ！<br>噂をすればって感じだな！,哦！<br>真是说你你就到了啊！
+110,ユーステス/尤斯缇斯,噂？,说我？
+111,ルリア/露莉亚,ふふ、ユーステスさんが<br>早く帰ってくればいいのにって<br>話してたところなんですよ。,呵呵，我们刚刚还在说<br>希望尤斯缇斯<br>能早点回来呢。
+112,ユーステス/尤斯缇斯,そうか……<br>ただいま。,是嘛……<br>我回来了。
+114,,<span class='scene-font-katari'>ほんの小さく口元を緩めたユーステスは</span><br><span class='scene-font-katari'>姬塔達からは少しだけ</span><br><span class='scene-font-katari'>離れた場所に腰をおろす。</span>,<span class='scene-font-katari'>尤斯缇斯嘴角牵起一抹柔和的弧度</span><br><span class='scene-font-katari'>在距离姬塔他们稍远的地方</span><br><span class='scene-font-katari'>坐了下来。</span>
+115,ユーステス/尤斯缇斯,…………,…………
+116,,<span class='scene-font-katari'>そして、愛銃のフラメクの</span><br><span class='scene-font-katari'>手入れを始めた。</span>,<span class='scene-font-katari'>然后，开始保养</span><br><span class='scene-font-katari'>他的爱枪弗拉梅克。</span>
+117,ルリア/露莉亚,……なんだか<br>ほっとしますね。,……总觉得<br>松了一口气呢。
+118,ビィ/碧,いつも通りだな！<br>やっぱりこれが落ち着くぜ！,和往常一样呢！<br>果然这样让人很安心啊！
+124,？？？,やはり、蒼の少女を<br>このまま放置するのは問題だろう。,果然，把苍之少女就这样放置不管<br>是会出问题的。
+125,？？？,この逼迫した状況の中で、<br>危険因子は少しでも<br>排除するべきだ。,在这么窘迫的状况里，<br>应该尽可能的<br>去排除那些危险因素。
+126,？？？,それについては、<br>契約者ユーステスの行動についても<br>再度、話し合う必要があるな。,关于这件事的话，<br>有必要再讨论一次<br>关于武器契约者尤斯缇斯的行动呢。
+127,？？？,奴は今、蒼の少女を連れた<br>騎空団に同行しているとか？,是说那家伙现在，和那个带着苍之少女的骑空团<br>在一起行动这件事？
+128,？？？,ユーステスは今の位置にいることで、<br>我々は蒼の少女の動向を把握し、<br>コントロールすることも可能だ。,因为尤斯缇斯现在在那里，<br>我们既能把握苍之少女的动向，<br>又能做到随时控制。
+129,？？？,本当にそうか？,真的是那样吗？
+130,？？？,……何が言いたい？,……你想说什么？
+131,？？？,組織の意を体現して蒼の少女を見張り、<br>抑止力となるつもりなど、<br>ユーステスには本当にあるのか？,尤斯缇斯真的有打算<br>表达组织的意向去监视苍之少女<br>并及时抑止其力量吗？
+132,？？？,彼が組織に逆らうと？<br>ありえない。,你想说他背叛组织？<br>那不可能。
+133,？？？,疑わしいものだ。<br>奴には前科がある。,很可疑啊。<br>那家伙可是有前科的。
+134,？？？,命令無視、伝声機の破壊……<br>単独行動も目立つとか？,无视命令，破坏传声机……<br>单独行动也很显眼之类的？
+135,？？？,私に言わせれば、<br>これまで問題になっていなかったのが<br>おかしいくらいだ。,要我来说啊，<br>都到这份上了还没有问题<br>那才奇怪呢。
+136,？？？,それについては、<br>かつて議論済みだ。,关于这件事，<br>以前已经讨论过了。
+137,？？？,その上で、彼を今の位置に<br>置いておくことの有用性の方を<br>とったはずだが？,在此之上，已经认定<br>将他放在那个位置<br>是有用处的吧？
+138,？？？,だから、それを見直すべきだという<br>話をしている。,所以，我就是在说<br>应该重新审视修正那个观点。
+139,？？？,そうだ。<br>状況は刻一刻と<br>変化しているのだからな。,是啊。<br>因为事态总是<br>每分每秒都在变化着呢。
+140,？？？,ともかく、<br>今のままの状態で放置しておくのは<br>愚策と言わざるをえんな。,无论如何，<br>以现在的状态就这么搁置不管<br>可不是什么高明的策略啊。
+141,？？？,…………,…………
+147,ルリア/露莉亚,えーっ！？<br>そんなことないですよ！,诶ー！？<br>才没那回事呢！
+148,ビィ/碧,いーや！<br>ルリアはあん時……,有ー的！<br>露莉亚你那个时候……
+149,？？？,<span class='scene-font-gray'>──……！</span>,<span class='scene-font-gray'>──……！</span>
+150,ユーステス/尤斯缇斯,……はぁ。,……哈啊。
+152,ビィ/碧,あれ？<br>仏頂面の兄ちゃん、<br>どうかしたのか？,诶？<br>不高兴小哥，<br>你怎么了吗？
+154,ユーステス/尤斯缇斯,また少し艇をあける。,我稍微离开骑空艇一会儿。
+155,ルリア/露莉亚,え……？,诶……？
+155-sel1_txt,,<span class='scene-font-katari'>また……？</span>,<span class='scene-font-katari'>又要……？</span>
+155-sel2_txt,,<span class='scene-font-katari'>気をつけて</span>,<span class='scene-font-katari'>路上小心</span>
+156,ユーステス/尤斯缇斯,…………,…………
+157,ユーステス/尤斯缇斯,すまない。,抱歉。
+158,,<span class='scene-font-katari'>ユーステスは、宥めるように</span><br><span class='scene-font-katari'>姬塔の頭に軽く触れた。</span>,<span class='scene-font-katari'>尤斯缇斯哄劝一般地</span><br><span class='scene-font-katari'>轻轻碰了碰姬塔的头。</span>
+159,ユーステス/尤斯缇斯,ああ。お前達もな。,嗯。你们也是啊。
+160,ルリア/露莉亚,行ってらっしゃい、<br>ユーステスさん。,一路小心，<br>尤斯缇斯。
+161,ユーステス/尤斯缇斯,行ってくる。,我走了。
+166,ルリア/露莉亚,はぁ……,哈啊……
+167,,<span class='scene-font-katari'>寂しげに溜息を吐くルリアの隣で</span><br><span class='scene-font-katari'>姬塔は、いつまでも</span><br><span class='scene-font-katari'>ユーステスを見送る。</span>,<span class='scene-font-katari'>在寂寞地叹息着的露莉亚的旁边</span><br><span class='scene-font-katari'>姬塔始终默默地</span><br><span class='scene-font-katari'>目送着尤斯缇斯。</span>
+168,,<span class='scene-font-katari'>その小さくなっていく背中に</span><br><span class='scene-font-katari'>微かな不安を感じながら、</span><br><span class='scene-font-katari'>言葉を飲み込むのだった。</span>,<span class='scene-font-katari'>看着那渐渐变小的身影</span><br><span class='scene-font-katari'>姬塔一边感到了些许不安</span><br><span class='scene-font-katari'>忍住了到嘴边的话语。</span>
+info,,,scene_fate_chr517_ep1
+译者,,,
