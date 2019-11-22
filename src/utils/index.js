@@ -53,7 +53,7 @@ const replaceWords = (str, map, lang = 'en') => {
   let _str = str
   for (let [key, val] of map) {
     if (!key || key.length < 2) continue
-    const expr = key.replace(/\?/g, '\\?').replace(/\./g, '\\.').replace(/\*/g, '\\*').replace(/\+/g, '\\+')
+    const expr = key.replace(/\./g, '\\.').replace(/\*/g, '\\*')
     const reStr = lang === 'en' ? `\\b${expr}\\b` : `${expr}`
     if (typeof val === 'string') {
       _str = _str.replace(new RegExp(reStr, 'g'), val)
