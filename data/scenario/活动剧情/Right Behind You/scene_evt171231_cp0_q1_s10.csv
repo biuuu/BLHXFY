@@ -1,7 +1,7 @@
 id,name,text,trans
 0-synopsis,,"Zeta, Vaseraga, Sergeant Ilsa, and new recruit Lester chase after a lackey of the Foe. The lackey's weapon turns into a hostile automagod bearing the name Arianensa, and Lester dies in its ambush, causing Vaseraga to snap.",泽塔、巴萨拉卡、伊尔莎中士和新人莱斯特正在追捕一名『敌』组织的走狗。那名走狗的武器变成了一个被称为阿利亚内萨的机神，莱斯特因它的突然攻击而殉职，巴萨拉卡也因此陷入了暴走。
 3,Man/男子,Huff... Huff...,呼...呼...
-7,,"On the outskirts of town, the ragged breaths of a man on the run echo through a tunnel. Pounding footsteps, four sets in total, aren't far behind him.",在城郊外一个旧坑道里，回荡着一个正在逃亡的人发出的刺耳喘息声。四组急促的脚步声紧跟其后。
+7,,"On the outskirts of town, the ragged breaths of a man on the run echo through a tunnel. Pounding footsteps, four sets in total, aren't far behind him.",<span class='scene-font-katari'>在城郊外一个旧坑道里，回荡着一个正在逃亡的人发出的刺耳喘息声。四组急促的脚步声紧跟其后。</span>
 8,Zeta/泽塔,I think he ran in here.,我想他跑进这里了。
 9,Vaseraga/巴萨拉卡,Yes. We've got him cornered.,啊，这样我们就把它逼进绝路了。
 10,,"His pursuers are members of the Society, dispatched to liberate a town suffering from mayhem wrought by the Foe.",<span class='scene-font-katari'>男子的追捕者是几位“组织”的成员，他们旨在解救因遭</span><span class='scene-font-spword'>『敌』</span><span class='scene-font-katari'>破坏而陷入混乱的区域。</span>
