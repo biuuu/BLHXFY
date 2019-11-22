@@ -94,9 +94,7 @@ const transMulti = async (list, nameMap, nounMap, nounFixMap, caiyunPrefixMap) =
     let _str = txt
     if (_str) {
       _str = _str.replace(/\n/g, '<br>')
-      for (let [text, fix] of nounFixMap) {
-        _str = _str.replace(new RegExp(text, 'g'), fix)
-      }
+      _str = replaceWords(_str, nounFixMap, _lang)
       if (config.displayName || userName) {
         const name = config.displayName || userName
         if (lang === 'en') {
