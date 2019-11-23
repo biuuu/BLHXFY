@@ -1,0 +1,60 @@
+id,name,text,trans
+0-chapter_name,,第4話 星,第4話 星
+0-synopsis,,アウギュステに辿り着いた姬塔、ビィ、ルリア、シェロカルテ、そしてミカエル。ユーリの案内で病院に行き、怪我をしたオイゲンを見舞うと、そこで人間の看護師の姿に化けていた水の天司ガブリエルと出会う。,姬塔、碧、露莉亚、榭洛科特、和米迦勒来到奥古斯特，在尤利的带领下来到医院，探望受伤的欧根。在那里见到了化身为人类护士的水天司加百列。
+1,？？？,空……<br>一面に広がる倦んだ蒼……,天空……<br>一片无垠的湛蓝……
+2,？？？,なぁ、ルシフェル。<br>君の司る<span class='scene-font-spword'>『進化』</span>に意味はあったか？,呐，路西菲尔。<br>你掌管的<span class='scene-font-spword'>『进化』</span>真的有意义吗？
+3,？？？,本当はわかっているんだろう。<br>そんなものただの幻想に過ぎないと。,其实你知道的吧？<br>那种东西不过是幻想。
+4,？？？,さて、どうする？<br>この期に及んで黙って見ている気か？,接下来，你要怎么办？<br>事到如今还要沉默地旁观吗？
+5,？？？,いいさ、そのまま観察していろ。<br>空の終焉と<span class='scene-font-spword'>『天の世界』</span>の誕生を──,也好，就这样观察着吧。<br>天空的终焉与<span class='scene-font-spword'>『天之世界』</span>的诞生──
+11,,<span class='scene-font-katari'>窮地を脱した姬塔達は、</span><br><span class='scene-font-katari'>アリーザの母親の人脈と財力により、</span><br><span class='scene-font-katari'>臨時の連絡艇に同乗する事が出来た。</span>,<span class='scene-font-katari'>脱离了险地的姬塔一行人，</span><br><span class='scene-font-katari'>靠着阿丽莎母亲的人脉和财力，</span><br><span class='scene-font-katari'>搭上了临时联络船。</span>
+12,,<span class='scene-font-katari'>下位天司の掃討のため、</span><br><span class='scene-font-place'>フレイメル</span><span class='scene-font-katari'>に残るイオ達と別れて、</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>に着いたのだったが……</span>,<span class='scene-font-katari'>与为扫除下位天司而留在</span><br><span class='scene-font-place'>弗雷梅尔</span><span class='scene-font-katari'>的伊欧她们分别，<br>来到了</span><span class='scene-font-place'>奥古斯特……</span><span class='scene-font-katari'>……</span>
+13,,<span class='scene-font-katari'>しかし早々に思わぬ情報を聞き、</span><br><span class='scene-font-katari'>そのまま急いで病院に向かっていた──</span>,<span class='scene-font-katari'>一行人很快就收到了意想不到的情报，</span><br><span class='scene-font-katari'>急忙去往医院——</span>
+20,ルリア/露莉亚,……オイゲンさんっ！,欧根……！
+21,ビィ/碧,なぁ、看護師の姉ちゃん！<br>この病室にオイゲンってヤツいねぇか？<br>商人達を守ったおっさんなんだけどよ！,呐，护士姐姐！<br>这个病房有没有一个叫欧根的人？<br>是保护商人们的大叔！
+22,看護師,オイゲンさん？<br>ああ、それなら……,欧根？<br>啊啊，他的话……
+23,オイゲン/欧根,はっはっは！<br>なんだ、来てたのか姬塔達！,哈哈哈！<br>什么啊，姬塔你们来了啊！
+24,オイゲン/欧根,……あ？<br>血相を変えてどうしたんだよ、おい？,啊……？<br>怎么脸都青了，喂？
+25,ルリア/露莉亚,オイゲンさ～ん！<br>良かったあ、無事で良かったですぅ！,欧~根！<br>太好了，没事真的太好了！
+26,ビィ/碧,っていうかピンピンしてるぜ？<br>オイラ達、お前達の事を聞いてよぉ……,这不是挺精神的吗？<br>我们听说了你们的事情还以为……
+27,,<span class='scene-font-katari'>傷ついた商人達を追い、</span><br><span class='scene-font-katari'>街に出た下位天司を撃退したのは、</span><br><span class='scene-font-katari'>調査に来ていたオイゲン達だった。</span>,<span class='scene-font-katari'>下位天司在追着受伤的<br>商人们到街上时，</span><br><span class='scene-font-katari'>被正好来调查的欧根他们击退了。</span>
+28,,<span class='scene-font-katari'>その際オイゲンは大怪我を負い、</span><br><span class='scene-font-katari'>入院したという情報を聞いたのだが……</span>,<span class='scene-font-katari'>一行人听说欧根在那时候<br>受了很重的伤……</span>
+29,オイゲン/欧根,おいおい、ユーリ……<br>ちょっと腱を痛めた程度で大袈裟だぜ。,喂喂，尤利……<br>只是肌腱有点痛而已，太夸张啦。
+30,ユーリ/尤利,す、すみません。<br>たまたま街で皆さんを目にして、<br>勢い余ってしまったというか……,对，对不起。<br>因为刚好被街上的人看到，<br>事态就被夸大了……
+31,ルリア/露莉亚,もう、ビックリしちゃいましたよ。<br>でもユーリさんも元気で良かったです。,真是的，我们都吓到啦。<br>不过尤利也没事真的太好了。
+32,ユーリ/尤利,はい。<br>皆さんも、ご無事で何よりです。,是的。<br>各位也是，平安就好。
+35,,<span class='scene-font-katari'>ユーリはオイゲンと共に、</span><br><span class='scene-font-katari'>かつて帝国兵として駐屯していた、</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>に来ていたのだった。</span>,<span class='scene-font-katari'>尤利和欧根曾经一起作为</span><br><span class='scene-font-katari'>帝国兵驻扎在</span><span class='scene-font-place'>奥古斯特</span><span class='scene-font-katari'>。</span>
+36,,<span class='scene-font-katari'>元帝国兵の少年ユーリ。</span><br><span class='scene-font-katari'>一行とは以前</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>で起きた、</span><br><span class='scene-font-katari'>星晶獣にまつわる事件で知り合った。</span>,<span class='scene-font-katari'>原帝国兵少年尤利。</span><br><span class='scene-font-katari'>曾因以前在</span><span class='scene-font-place'>奥古斯特</span><span class='scene-font-katari'>发生过的<br>星晶兽事件与一行人结识。</span>
+37,,<span class='scene-font-katari'>その後は軍を脱走して、</span><br><span class='scene-font-katari'>帝国の横暴を止めるため、</span><br><span class='scene-font-katari'>一行と共に行動するなどしていたが……</span>,<span class='scene-font-katari'>后来脱离军队，</span><br><span class='scene-font-katari'>为阻止帝国的暴行曾和</span><br><span class='scene-font-katari'>一行人共同行动过……</span>
+38,,<span class='scene-font-katari'>今回はオイゲンに随行する形で、</span><br><span class='scene-font-katari'>災厄の調査をする事になったのだった。</span>,<span class='scene-font-katari'>这次则是跟随欧根来调查灾厄的事。</span>
+39,ビィ/碧,でも、やるじゃねぇか！<br>あのワッカ達を全滅させたんだろ？,不过你们很厉害啊！<br>那些圈圈被你们全灭了吧？
+40,ユーリ/尤利,オイゲン殿のお陰です。<br>俺も傭兵達もオイゲン殿の指揮で、<br>敵勢を打ち破る事が出来たんです。,是托欧根殿下的福。<br>我和佣兵们都是有欧根殿下<br>的指挥才能打败敌军。
+41,ユーリ/尤利,ですが……<br>その結果、オイゲン殿は怪我を……,但是……<br>结果却让欧根殿下受了伤……
+42,ユーリ/尤利,クソ、情けない！<br>もっと冷静に戦況を見ていればッ！,可恶，真不像话！<br>要是我能更冷静地观察战况的话！
+43,看護師,フフフ……<br>病院ではおしずかに、ね？,呵呵……<br>医院内要保持安静哦？
+44,ユーリ/尤利,……ハッ！,是……！
+45,オイゲン/欧根,ははっ！<br>本当に生真面目な熱血バカだぜ。,哈哈！<br>真是认真的热血笨蛋啊。
+46,オイゲン/欧根,確かに、お前は青い。<br>直情的に突っ走っちまう所がある。,的确，你还很青涩，<br>也有一根筋横冲直撞的时候。
+47,オイゲン/欧根,だけどなぁ……<br>その馬鹿さ加減こそ、お前の武器だ。<br>若ぇ内から小せぇ器にまとまんなよ。,但是啊……<br>这种笨蛋劲儿也是你的武器。<br>别在年轻的时候给自己太多束缚。
+48,オイゲン/欧根,だろ？,对吧？
+49,ユーリ/尤利,オイゲン殿……,欧根殿下……
+50,ビィ/碧,にしし、オイゲンが説教してらぁ。<br>まぁでも、病院の道案内ありがとな！,嘻嘻，欧根竟然在对别人说教啊。<br>不过，谢谢你带我们来医院！
+51,ユーリ/尤利,とんでもない。<br>じゃあ俺は警備に戻ります。<br>傭兵達を手伝ってるんです。,不客气。<br>那我回去继续戒备了。<br>佣兵们也在帮忙。
+52,ユーリ/尤利,今は街も落ち着いていますが……<br>いつまた敵が来るかわかりませんので。<br>オイゲン殿の代わりに俺がやらないと！,虽然街上现在安全了……<br>但不知道敌人什么时候还会再次袭来。<br>我必须得去代替欧根殿下！
+53,ユーリ/尤利,あ、調査はファラが進めてます。<br>後で一緒に報告を聞きましょう！,啊，调查的话法拉在做。<br>等下一起去听她的报告吧！
+54,ユーリ/尤利,……では、失礼します！,那么……<br>我先走一步！
+61,オイゲン/欧根,で、お前達はこれからどうすんだ？<br>その天司とかってのに会う気なのか？,那你们接下来打算怎么做？<br>准备去见那个天司什么的吗？
+62,ルリア/露莉亚,はい、でも……<br>この島のどこかにいるはずなんですが、<br>ちょっと気配がわかりづらいというか。,是的，但是……<br>她应该在这座岛上的某个地方，<br>可是她的气息有点难追寻。
+63,ビィ/碧,なぁ、オイゲン。<br>この辺にある神聖な祠とか知らねぇか？,呐，欧根。<br>你知道附近有什么神圣的祠堂吗？
+64,オイゲン/欧根,ふむ、祠ねぇ。<br>聞いた事はあるが、全て離島だな。<br>さてどうしたもんか……,嗯，祠堂啊。<br>听是有听说过，但是全在岛外。<br>接下来该怎么办……
+65,ルリア/露莉亚,うん？<br>離島だと何か問題があるんですか？,嗯？<br>在岛外有什么问题吗？
+66,看護師,今は交通規制中なのよ。<br>落下現象が安定するまでの間、<br>海は封鎖される事になったの。,现在正在交通管制中。<br>在目前的下落现象安定下来之前，<br>海上的交通都会被封锁。
+67,ビィ/碧,なんだって！？,什么！？
+68,ビィ/碧,まぁ、そうするのはわかるけどよ……<br>ちょっと困った事になっちまったぜ。,虽然很理解这种做法……<br>可是这就有点难办了啊。
+69,ルリア/露莉亚,シェロさんに頼んでみましょうか？<br>今は区役所に行ってるんですよね。<br>海の商会さんに協力してもらうとか……,要试着去拜托下榭洛吗？<br>她现在去区政府了吧。<br>看能不能让海上商会帮个忙……
+70,看護師,あ、でも本島に祠があるかも。<br>待ってて、先生に聞いて来るわね。,啊，不过主岛好像也有祠堂。<br>等一下，我去问下医生。
+71,ルリア/露莉亚,あ、ありがとうございます……,非，非常感谢……
+75,ミカエル/米迦勒,いつまで戯れている？<br>一刻の猶予を争うのだぞ、ガブリエル。,你还想玩到什么时候？<br>现在可是分秒必争啊，加百列。
+76,看護師,あらあら、おひさしぶり。<br>ミカちゃんも人間に同行していたのね。,啊啦啊啦，好久不见。<br>小米迦居然会和人类一起行动。
+77,ルリア/露莉亚,えっと……？<br>ガブリエル、ミカちゃん……？,那个……？<br>加百列，小米迦……？
+78,ビィ/碧,<span class='scene-font-4'>んなっ！</span><br>お前がガブリエルだったのかよぉ！？,<span class='scene-font-4'>什么！</span><br>你就是加百列啊！？
+info,,,scene_evt170301_cp4_q1_s10

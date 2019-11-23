@@ -1,0 +1,41 @@
+id,name,text,trans
+0-chapter_name,,温厚なる自然の守護者,温文尔雅的自然守护者
+0-synopsis,,マキュラ・マリウスは過去を夢に見る。覇空戦争において、マリウスは、争いのために自然を破壊する者達に対し、裁きを下し続けていた。しかし自然を守るため、その自然の一部である人や星晶獣達を殺すという矛盾に苛まれるマリウス。姬塔達は、そんなマリウスを心配し、ある場所へと連れ出すのだった。,玛裘拉・玛丽乌斯在梦里看到了过去。在霸空战争的时候，玛丽乌斯对因为战争破坏了自然的人降下了制裁。但被“为了保护自然，却把作为自然的一部分的人或星晶兽杀掉”这一矛盾困扰的冰皇。玛丽乌斯。姬塔一行人因为担心这样子的玛丽乌斯而前往了某个地方。
+1,マキュラ・マリウス,うぅ……ぁ……ぁぁ……,唔……啊……
+2,,<span class='scene-font-katari'>マリウスは、</span><br><span class='scene-font-katari'>かつての出来事を夢に見ていた。</span>,<span class='scene-font-katari'>玛丽乌斯</span><br><span class='scene-font-katari'>在梦里见到了曾经做到的事</span>
+4,,<span class='scene-font-katari'>覇空戦争が起きた時、空の民や</span><span class='scene-font-spword'>星の民</span><span class='scene-font-katari'>、</span><br><span class='scene-font-katari'>そして星晶獣達は誰もが皆、</span><br><span class='scene-font-katari'>争いのために自然を破壊した。</span>,<span class='scene-font-katari'>霸空战争开始的时候，空之民，</span><span class='scene-font-spword'>星之民，</span><span class='scene-font-katari'>、</span><br><span class='scene-font-katari'>还有星晶兽们，</span><br><span class='scene-font-katari'>全都以战争为由破坏了自然。</span>
+5,,<span class='scene-font-katari'>マリウスは自然をエゴで</span><br><span class='scene-font-katari'>破壊する者達に深く失望し、</span><br><span class='scene-font-katari'>冷たき裁きを下し続けた。</span>,<span class='scene-font-katari'>玛丽乌斯对主动破坏了自然的人们</span><br><span class='scene-font-katari'>感到了深深的失望，、</span><br><span class='scene-font-katari'>对他们降下了冰冷制裁。</span>
+11,,<span class='scene-font-katari'>しかし、彼らの命を奪うことは</span><br><span class='scene-font-katari'>マリウスにとって、</span><br><span class='scene-font-katari'>耐えがたき苦痛であった。</span>,<span class='scene-font-katari'>但是，对于玛丽乌斯来说，</span><br><span class='scene-font-katari'>夺取他们的性命</span><br><span class='scene-font-katari'>是一件十分痛苦的事。</span>
+12,マキュラ・マリウス,自然を守り……<br>仇なす者を裁くだと……？<br>笑わせる……,保护自然……<br>制裁恶人？ <br>别搞笑了
+13,マキュラ・マリウス,隣人らはみな、自然の一部。<br>隣人らを裁き、殺すということは、<br>妾も自然を破壊しているということ……,他们是自然的一部分。<br>制裁他们，杀死他们。<br>妾身也破坏了自然啊。
+14,マキュラ・マリウス,愚かな……<br>妾も隣人らと同じではないか。,很愚蠢吧，<br>妾身这不就和他们一样了吗。
+15,マキュラ・マリウス,だが妾が裁かねば……<br>この空の自然は、何れ破壊されよう。<br>だが……妾はもう……,……但是妾身不去制裁的话， <br>这片空域的自然会被怎样的破坏。<br>但是，妾身已经……
+16,マキュラ・マリウス,……待とう。<br>きっと、隣人と自然は……<br>共存できるはずだ……きっと。,……等等。<br>一定有，可以让人和自然……<br>共存的办法……一定。
+17,,<span class='scene-font-katari'>戦争中、</span><br><span class='scene-font-katari'>マリウスは中立の立場を貫き、</span><br><span class='scene-font-katari'>愛する隣人達と自然を見守った。</span>,<span class='scene-font-katari'>战争中</span><br><span class='scene-font-katari'>玛丽乌斯贯彻着中立的立场，</span><br><span class='scene-font-katari'>守护着她所爱的人和自然。</span>
+18,,<span class='scene-font-katari'>だが、覇空戦争が終わろうとも、</span><br><span class='scene-font-katari'>数百年時が経とうとも──</span><br><span class='scene-font-katari'>人は自然を壊し続けた。</span>,<span class='scene-font-katari'>但是，即使霸空战争结束了，</span><br><span class='scene-font-katari'>过了数百年，</span><br><span class='scene-font-katari'>人们依然继续破坏着自然。</span>
+19,,<span class='scene-font-katari'>聞くに堪えぬ空の自然の絶叫を</span><br><span class='scene-font-katari'>耳にしながら、それでもマリウスは</span><br><span class='scene-font-katari'>可能性を信じ、待ち続けた。</span>,<span class='scene-font-katari'>即使听着空域的自然难以入耳的惨叫</span><br><span class='scene-font-katari'>玛丽乌斯也依然相信着可能性，</span><br><span class='scene-font-katari'>持续等待着。</span>
+20,マキュラ・マリウス,すまない、愛する自然よ。<br>もう少しだけ待ってくれ……<br>きっと、妾らは共存できるはずだ。,抱歉啊，亲爱的自然啊……<br>再稍微等一等吧。<br>一定可以和我们共存的。
+21,,<span class='scene-font-katari'>だが、それでも──</span>,<span class='scene-font-katari'>但是，就算这样</span>
+26,ルリア/露莉亚,マリウスさん……マリウスさんっ！！,玛丽乌斯小姐……玛丽乌斯小姐！！
+27,マキュラ・マリウス,はっ……！？<br>はぁ……はぁ……,哈……！？<br>哈啊……哈啊……
+28,マキュラ・マリウス,ルリア……それに姬塔……<br>ビィまで……,露莉亚……连姬塔……<br>和碧都……
+29,ルリア/露莉亚,よかった……あ、す、すみません！<br>部屋に勝手に入ってしまって……<br>うめき声が聞こえてきて心配で……,太好了……啊，对……对不起！<br>擅自进了你的房间……<br>因为听到了呻吟声有点担心……
+30,マキュラ・マリウス,ふふふ……よい。<br>そなたらは本当に愛らしいな。,哼哼哼……好吧。<br>你们可真是可爱啊。
+31,ビィ/碧,なぁ、大丈夫なのか？<br>なにか不安があるならオイラ達に<br>相談してくれていいんだぜ？,呐，没事吧？<br>有什么不安的话可以跟我们说的哟？
+32,マキュラ・マリウス,……いつものことだ。<br>気にするな。,……老毛病了，<br>别在意。
+33,,<span class='scene-font-katari'>マリウスは儚げに微笑むと、</span><br><span class='scene-font-katari'>ルリアと姬塔、ビィを</span><br><span class='scene-font-katari'>優しく撫でて部屋を出ていく。</span>,<span class='scene-font-katari'>玛丽乌斯微笑着，</span><br><span class='scene-font-katari'>搂着露莉亚和姬塔以及碧</span><br><span class='scene-font-katari'>走出了房间。</span>
+34,ルリア/露莉亚,あの、どこへ……？,那个，要去哪……？
+35,マキュラ・マリウス,少し空気を吸ってくる。<br>ただの気分転換だ、心配ない。,去稍微呼吸一口新鲜地空气。<br>只是换换心情，别担心。
+38,ビィ/碧,気にするなって言われてもなぁ。<br>いつもすげぇ辛そうにうなされてるし、<br>心配だぜ……,即使说了别在意。<br>但总是被痛苦的事缠住，<br>很让人担心啊……
+39,ビィ/碧,出来ることなら<br>力になってやりてぇけど、<br>なんも話してくれねぇんだよな……,如果是我能做到的，<br>能助你一臂之力的话，<br>不管是什么一定要说哦……
+40,ルリア/露莉亚,うーん……せめて少しだけでも<br>元気になってほしいんですが……,嗯.....即使一点也好，<br>至少希望能打起精神。
+41,ルリア/露莉亚,あっ……！<br>いいこと思いついたかもです！<br>えっとですね、ごにょごにょごにょ……,啊……！<br>我想到了一个或许是好注意的事！<br>那个，这样……
+42,ビィ/碧,ふむふむ……確かにそれなら<br>もしかしたらアイツも元気に<br>なるかもしれねぇな……,呼姆呼姆，这样的话，<br>说不定那家伙<br>也能恢复心情呢……
+43,ビィ/碧,よっしゃ！<br>いっちょやってみるとすっか！,好！<br>那就试试看吧！
+44,ルリア/露莉亚,はいっ！<br>頑張りましょう！<br>姬塔！　ビィさん！,嗯！<br>加油吧！<br>姬塔！碧！
+50,,<span class='scene-font-katari'>そして数日後、マリウスに</span><br><span class='scene-font-katari'>とある場所へついてきてくれないかと</span><br><span class='scene-font-katari'>姬塔とルリアは提案する。</span>,<span class='scene-font-katari'>然后过了好几天，</span><br><span class='scene-font-katari'>姬塔和露莉亚提议</span><br><span class='scene-font-katari'>带玛丽乌斯去一个地方。</span>
+51,マキュラ・マリウス,そなたらの誘いを断る理由はないが<br>一体どこへ連れていくつもりだ？,虽然没有拒绝你们邀请的理由，<br>但是，你们到底要带我去哪？
+52,ルリア/露莉亚,ふふふ、<br>それは着いてからのお楽しみです！,呼呼呼、<br>这就是跟着的乐趣！
+53,マキュラ・マリウス,呼姆……？,呼姆……？
+54,,<span class='scene-font-katari'>小首を傾げるマリウスだが、</span><br><span class='scene-font-katari'>姬塔の案内を受け、</span><br><span class='scene-font-katari'>ある場所へ移動するのだった。</span>,<span class='scene-font-katari'>玛丽乌斯微微额首</span><br><span class='scene-font-katari'>接受了姬塔的带领、</span><br><span class='scene-font-katari'>向着某个地方走去。</span>
+info,,,scene_chr536_q1_s10

@@ -1,0 +1,47 @@
+id,name,text,trans
+0-chapter_name,,第3話 命,第3話 命
+0-synopsis,,フレイメルもまた謎の物体に襲撃されていたが、イオとアリーザが先陣に立ち、防衛戦を繰り広げていた。そんな中、姬塔・ビィ・ルリア・シェロカルテも合流すると、星晶獣の出現らしき異変を偵察しに向かったスタンを追いかける事にするのだった。,弗雷梅尔也受到了迷之物体的袭击，伊欧和阿丽莎奋战在前线，展开了防御战。同时，姬塔·碧·露莉亚·榭洛科特与她们汇合，紧接着她们去寻找正在侦查星晶兽出现后发生的异变的斯坦。
+1,,<span class='scene-font-katari'>謎の物体の襲来……</span><br><span class='scene-font-katari'>その戦火は</span><span class='scene-font-place'>フレイメル</span><span class='scene-font-katari'>にも及んでいた。</span>,<span class='scene-font-katari'>迷之物体来袭……</span><br><span class='scene-font-katari'>这场战火也波及到了</span><span class='scene-font-place'>弗雷梅尔</span><span class='scene-font-katari'>。</span>
+2,,<span class='scene-font-katari'>だが人間達の防衛戦線には、</span><br><span class='scene-font-katari'>ふたりの少女が先頭に立ち、</span><br><span class='scene-font-katari'>勇猛果敢に敵陣と対峙していた。</span>,<span class='scene-font-katari'>但在人类的防御战线中，</span><br><span class='scene-font-katari'>有两名少女打头阵，</span><br><span class='scene-font-katari'>凭着勇敢和果断与敌阵对峙。</span>
+3,イオ/伊欧,<span class='scene-font-4'>たあぁぁぁ！</span>,<span class='scene-font-4'>哒啊啊啊！</span>
+12,アリーザ/阿丽莎,<span class='scene-font-4'>とりゃあッ！</span>,<span class='scene-font-4'>看招！</span>
+18,謎の物体/迷之物体,────……,────……
+22,イオ/伊欧,ふぅ……<br>アリーザ、怪我はない？<br>こっちの敵は片づいたわよ！,呼……<br>阿丽莎，你没受伤吧？<br>这边的敌人已经收拾完了！
+23,アリーザ/阿丽莎,私は平気だよ、イオ！<br>じゃあ次は港の救援に向かおう！,我没事，伊欧！<br>那我们去港口救援吧！
+26,,<span class='scene-font-katari'>アリーザはイオと共に調査に来ていた。</span><br><span class='scene-font-katari'>そうした最中に謎の物体の襲撃に遭い、</span><br><span class='scene-font-katari'>迎撃していたのだが……</span>,<span class='scene-font-katari'>阿丽莎原本和伊欧一起前来调查。</span><br><span class='scene-font-katari'>在途中遭遇到了迷之物体的袭击，</span><br><span class='scene-font-katari'>便开始迎击……</span>
+27,,<span class='scene-font-katari'>バルツの良家の娘アリーザ。</span><br><span class='scene-font-katari'>格闘術をたしなむ勝気な女性である。</span>,<span class='scene-font-katari'>出生在巴尔兹上层社会的少女阿丽莎，</span><br><span class='scene-font-katari'>是一位精通格斗技的好胜女性。</span>
+28,,<span class='scene-font-katari'>一行とはかつて、</span><br><span class='scene-font-katari'>星晶獣にまつわる事件で知り合い、</span><br><span class='scene-font-katari'>その縁で協力する事になったのだが……</span>,<span class='scene-font-katari'>一行人和她在过去的某个与</span><br><span class='scene-font-katari'>星晶兽有关的事件中相识，</span><br><span class='scene-font-katari'>因此获得了她的协助……</span>
+29,イオ/伊欧,それにしても、このワッカ……<br>やっぱり災厄に関係してるのかしら？,话说回来，这个圈圈……<br>果然和这场灾厄有关系吧？
+30,アリーザ/阿丽莎,そうだな……<br>ザカ大公はなんて言ってた？<br>倒したワッカを分析してるんでしょ？,是啊……<br>扎卡大公说了什么？<br>他在分析被打倒的圈圈吧？
+31,イオ/伊欧,師匠は、遥か昔の星晶獣……<br>初期型かもしれないって言ってたわ。,师父说那是很久之前的星晶兽……<br>说不定是初期型。
+32,イオ/伊欧,ワッカ達は普通の星晶獣より、<br>造られた年代がとっても古いみたいなの。,这些圈圈被造出的年代似乎<br>比普通的星晶兽要古老很多。
+33,アリーザ/阿丽莎,初期型……？<br>そういえば確かにアンバランスかも……<br>攻撃力は異常だけど、守備は手薄だし。,初期型……？<br>说起来似乎确实不太平衡……<br>攻击异常的高，但防御却很薄弱。
+34,アリーザ/阿丽莎,まぁでも考えるのは後、後！<br>とりあえず島の皆の安全を確保して──,不过还是留在后面考虑吧！<br>总之先确保岛上人们的安全——
+37,謎の物体/迷之物体,……────,……────
+38,イオ/伊欧,ウソ……！？<br>アリーザ、新手が出て来たわよ！,真的假的……！？<br>阿丽莎，又出来新的了！
+40,アリーザ/阿丽莎,またぞろぞろと……<br>ここは私に任せて！<br>イオは港の救援を頼んだよ！,真是没完没了的……<br>这里交给我！<br>港口的救援拜托给伊欧你了！
+41,イオ/伊欧,ちょ、ちょっと！<br>この数をひとりで相手にする気なの！？,等，等等！<br>你打算一个人对付这么多！？
+42,アリーザ/阿丽莎,あはは……<br>まぁ、これも修行の一環だよ。<br>ほら、さっさと行った行った！,啊哈哈……<br>这也是修行的一环啦。<br>好啦，你快走吧！
+45,ルリア/露莉亚,……あ、姬塔！<br>いました、イオちゃん達です！,……啊，姬塔！<br>找到了，是伊欧她们！
+46,イオ/伊欧,……姬塔、ルリア！？,……姬塔，露莉亚！？
+47,,<span class='scene-font-katari'>敵勢の側面を突き、</span><br><span class='scene-font-katari'>姬塔が一閃で斬り抜ける。</span>,<span class='scene-font-katari'>姬塔从敌阵的侧方突入，</span><br><span class='scene-font-katari'>一下斩开了道路。</span>
+49,,<span class='scene-font-katari'>その背中を援護するルリア、</span><br><span class='scene-font-katari'>そしてビィとシェロも後を追って来た。</span>,<span class='scene-font-katari'>露莉亚在身后援护，</span><br><span class='scene-font-katari'>碧和榭洛也追了上来。</span>
+50,謎の物体/迷之物体,────……,────……
+54,アリーザ/阿丽莎,さっすが、やるぅ！<br>……よーし、形勢逆転だ！,做得好！<br>……好了，形势逆转！
+56,アリーザ/阿丽莎,<span class='scene-font-4'>だりゃあぁぁぁ！</span>,<span class='scene-font-4'>看招！</span>
+62,,<span class='scene-font-katari'>カジノ艇で</span><span class='scene-font-place'>フレイメル</span><span class='scene-font-katari'>に着き、</span><br><span class='scene-font-katari'>跋扈する謎の物体を倒しつつ、</span><br><span class='scene-font-katari'>イオ達と合流した姬塔達。</span>,<span class='scene-font-katari'>姬塔一行人乘坐赌场的船到达<br></span><span class='scene-font-place'>弗雷梅尔</span><span class='scene-font-katari'>，接连打倒迷之物体，</span><br><span class='scene-font-katari'>顺利与伊欧她们汇合。</span>
+63,,<span class='scene-font-katari'>そのまま敵を掃討し、</span><br><span class='scene-font-katari'>無事の再会を喜び合うのだったが……</span>,<span class='scene-font-katari'>就这样击败敌人，</span><br><span class='scene-font-katari'>正沉浸在平安再会的喜悦中……</span>
+64,シェロカルテ/榭洛科特,ふふふ～！<br>イオさん達も無事で良かったです、<br>街の戦況も落ち着いたそうですよ～？,呵呵呵～！<br>伊欧你们也没事真是太好了，<br>街上的战况好像也平复下来了～？
+65,イオ/伊欧,でもビックリしちゃったわ。<br>まさかルリアに援護されるなんてね？,不过还真是吓一跳啊，<br>没想到竟然会受露莉亚的援助。
+66,ルリア/露莉亚,あはははは……<br>皆さんに言われます。,哈哈哈哈……<br>大家也这么说。
+67,ビィ/碧,おっと、安心するのはまだ早いぜ。<br>実はオイラ達、天司って星晶獣を……,啊，不过现在放心还太早了。<br>我们正在寻找叫天司的星晶兽……
+68,ビィ/碧,うん？<br>待った、スタンはどこにいるんだ？<br>アリーザと一緒じゃなかったのか？,嗯？<br>等等，斯坦在哪儿呢？<br>没和阿丽莎一起吗？
+69,アリーザ/阿丽莎,スタンなら偵察に向かったよ。<br>南に星晶獣っぽい異変があってさ。<br>いつかのネフティスの巣のあたり。,斯坦去做调查了。<br>南边有疑似星晶兽的异变，<br>就在奈芙缇丝的巢穴附近。
+70,ビィ/碧,せ、星晶獣！？<br>まさかひとりで行っちまったのか？,星，星晶兽！？<br>难道他一个人过去了？
+71,アリーザ/阿丽莎,そうだけど……<br>それがどうかしたの？,是啊……<br>怎么了？
+72,アリーザ/阿丽莎,今のスタンなら大丈夫だよ。<br>ああ見えて剣の腕も上達してるしさ！,现在的斯坦完全没问题的。<br>虽然看起来不怎么样但剑术可是很厉害的！
+73,ルリア/露莉亚,で、でも……<br>その星晶獣は普通のとは……,但，但是……<br>那个星晶兽可不是普通的……
+74,シェロカルテ/榭洛科特,ラファエルさんでしょうか～？<br>あるいは火のミカエルさんかも……,会是拉斐尔吗～？<br>还是火的米迦勒呢……
+75,イオ/伊欧,ミカエル……？<br>ねぇ、一体なんの話をしてるのよ？,米迦勒……？<br>呐，到底怎么回事啊？
+76,ビィ/碧,あぁ、オイラが説明するぜ！<br>とりあえず急いで後を追わねぇと！,啊啊，我来解释！<br>总之先赶紧去追他！
+info,,,scene_evt170301_cp3_q1_s10

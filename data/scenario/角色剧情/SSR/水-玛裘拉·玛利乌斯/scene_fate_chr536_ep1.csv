@@ -1,0 +1,92 @@
+id,name,text,trans
+0-chapter_name,,冷酷なる自然の処刑者,冷酷无情的自然的处刑者
+0-synopsis,,ある日、人が氷漬けになるという事件の犯人を突き止めた姬塔一行。その犯人はマキュラ・マリウスという星晶獣で、自然に仇なす者に裁きを下していた。しかし、マリウスが人もまた自然の一部だと考え裁きを下すことに苦悩していると知り、心配する一行。一行の温かさに触れたマリウスは、人間を今一度見直すため、一行の旅路に加わるのだった。,那天，姬塔一行人查明了冰冻人事件的犯人。那个犯人名为玛裘拉·玛丽乌斯的星晶兽，她对破坏自然的人做出了裁决。但是姬塔一行人知道了玛丽乌斯认为人也是自然的一部分，为了降下的裁决而苦恼着，而十分担心她。接触到了他们的温暖的玛丽乌斯，为了重新审视人类，加入了他们的旅程。
+1,？？？,ほう、そなたの肌は<br>新雪に似て柔らかいのだな……<br>ふふふ、もちもちだ。,啊，你的皮肤像新雪一样柔软呢……<br>呵呵呵，嫩嫩的。
+2,ルリア/露莉亚,ふふふ、くすぐったいです。<br>マリウスさん。,呵呵呵、好痒啊。<br>玛丽乌斯小姐。
+3,マキュラ・マリウス,くすぐったいのはいやか？<br>ならばもっと優しく愛でてやろう。<br>妾に身を預けよ、ルリア。,很痒吗？那妾身就更加温柔的来疼爱你吧。<br>把身体交给妾身吧，露莉亚。
+4,マキュラ・マリウス,ふふふ……姬塔<br>案ずるな、そなたも平等に愛でよう。<br>ほれ、もっと近くに来るといい。,呵呵呵……姬塔<br>不要担心，妾身也会平等的疼爱你的。<br>来，再靠近点。
+5,マキュラ・マリウス,そなたの温かき心を、<br>もっともっと感じさせてくれ。<br>溶けてしまうほど、な。,让妾身更多得感受一下你温暖的心吧。直到融化为止……
+6,ビィ/碧,えぇっと……？,那，那个……？
+7,,<span class='scene-font-katari'>ある日、普段より遅く起きたビィは、</span><br><span class='scene-font-katari'>皆がいる広間へ気だるげに向かった。</span>,<span class='scene-font-katari'>那天起的比平常晚得碧，</span><br><span class='scene-font-katari'>懒洋洋地朝着大家所在的大厅飞去。</span>
+8,,<span class='scene-font-katari'>そこには見覚えのない星晶獣らしき</span><br><span class='scene-font-katari'>女性と仲睦まじくするルリアと</span><br><span class='scene-font-katari'>姬塔の姿にビィは戸惑う。</span>,<span class='scene-font-katari'>碧看着在那边</span><br><span class='scene-font-katari'>看着像星晶兽的女性变得关系融洽的露莉亚和姬塔</span><br><span class='scene-font-katari'>感到不知所措。</span>
+9,ビィ/碧,なぁ、ソイツいったい誰だ？<br>ずいぶんと仲が良いみてぇだけどよぉ。,呐，她到底是谁？<br>好像和你们关系很好啊……
+10,ルリア/露莉亚,おはようございます、ビィさん！<br>この方はマリウスさんって言って……<br>実は昨日の夜──,早上好，碧！<br这位小姐叫玛丽乌斯……<br>实际上昨天晚上……
+11,,<span class='scene-font-katari'>姬塔とルリアは</span><br><span class='scene-font-katari'>これまでの出来事を振り返りながら、</span><br><span class='scene-font-katari'>マリウスとの出会いを語り始める。</span>,<span class='scene-font-katari'>姬塔和露莉亚</span><br><span class='scene-font-katari'>一边回忆着之前发生的事情，</span><br><span class='scene-font-katari'>一边开始讲述起了和玛丽乌斯的相遇。</span>
+17,,<span class='scene-font-katari'>数日前、一行は緊急の依頼を受け、</span><br><span class='scene-font-katari'>ファータ・グランデ空域で多発する</span><br><span class='scene-font-katari'>異常な事件の調査をしていた。</span>,<span class='scene-font-katari'>数日前，姬塔一行接到了，</span><br><span class='scene-font-katari'>调查在ファータ・グランデ空域多次发生的</span><br><span class='scene-font-katari'></span>异常事件的委托。
+18,,<span class='scene-font-katari'>その事件とは、人々がまたたく間に</span><br><span class='scene-font-katari'>氷漬けになるというものであった。</span>,<span class='scene-font-katari'那个事件是，人们在一瞬间</span><br><span class='scene-font-katari'>被冰冻住了。</span>
+19,,<span class='scene-font-katari'>そして姬塔達は調査の結果、</span><br><span class='scene-font-katari'>人々は何者かの魔法によって</span><br><span class='scene-font-katari'>凍らされていること──</span>,<span class='scene-font-katari'然后姬塔他们的调查结果是，</span><br><span class='scene-font-katari'>人们被某种魔法</span><br><span class='scene-font-katari'>给冻结了──</span>
+20,,<span class='scene-font-katari'>事件が起きた場所に隣接した島や</span><br><span class='scene-font-katari'>国、町で再び事件が起きていることに</span><br><span class='scene-font-katari'>気が付いたのだった。</span>,<span class='scene-font-katari'>同时他们注意到了，</span><br><span class='scene-font-katari'>在事件发生的相邻的岛屿、国度、小镇上</span><br><span class='scene-font-katari'>再次发生了同样的事件。</span>
+21,,<span class='scene-font-katari'>一行は最後に事件が起きた場所から</span><br><span class='scene-font-katari'>最も近い町が次の被害にあうと考え、</span><br><span class='scene-font-katari'>そこへと移動をした。</span>,<span class='scene-font-katari'>一行は他们认为离最后事件发生的地方</span><br><span class='scene-font-katari'>最近的城镇会遭到下次的灾害，</span><br><span class='scene-font-katari'>于是就前往了那里。</span>
+26,ルリア/露莉亚,よかった……<br>まだ誰も凍っていないみたいですね。,太好了……<br>好像还没有人被冻住呢。
+27,ビィ/碧,油断は禁物だぜ。<br>もしかしたら犯人が<br>もう既に潜んでるかもしれねぇぞ。,千万不可大意。<br>说不定犯人<br>已经潜伏起来了。
+28,ルリア/露莉亚,そ、そうですね……<br>警戒しないといけませんね！,是，是啊……必须警戒起来呢！
+29,,<span class='scene-font-katari'>一行は気を引き締め直し、</span><br><span class='scene-font-katari'>不審な者がいないかどうか、</span><br><span class='scene-font-katari'>聞き込みと見回りを開始する。</span>,<span class='scene-font-katari'>姬塔一行人重整精神，</span><br><span class='scene-font-katari'>开始询问和巡察</span><br><span class='scene-font-katari'>是否有可疑的人物。</span>
+34,,<span class='scene-font-katari'>しかしそれらしき手掛かりが掴めず、</span><br><span class='scene-font-katari'>一行は町の外で休息を取っていた。</span>,<span class='scene-font-katari'>但是并没有找到线索，</span><br><span class='scene-font-katari'之后他们在城外休息着。</span>
+35,ビィ/碧,うーん、わかったことといやぁ、<br>島の自然が工事やら開発やらで<br>荒れ放題ってことぐらいだなぁ。,唔，我明白了，<br>这个岛的自然因为施工开发已经荒废了。
+36,ルリア/露莉亚,休憩が終わったら<br>もう一度調査してみましょうか。,休息结束后再调查一次吧。
+37,ルリア/露莉亚,でも、本当にこの島、<br>自然がほとんどないみたいですね……,但是，这个岛真的……<br>好像几乎没有自然……
+38,ルリア/露莉亚,湖も濁ってますし……<br>木もほとんど切り倒されてて……<br>なんだか悲しくなっちゃいます。,湖泊也浑浊了……<br>树木也被砍倒了……<br>总感觉很悲伤。
+39,,<span class='scene-font-katari'>ルリアがそう呟くと一瞬だけ、</span><br><span class='scene-font-katari'>姬塔は周囲の気温が</span><br><span class='scene-font-katari'>下がったのを感じ取る。</span>,<span class='scene-font-katari'>在露莉亚喃喃自语地一瞬间，</span><br><span class='scene-font-katari'>姬塔感觉到</span><br><span class='scene-font-katari'>周围的气温下降了。</span>
+41,？？？,<span class='scene-font-gray'>そなたらは優しいのだな……</span>,<span class='scene-font-gray'>你真是温柔啊……</span>
+42,ルリア/露莉亚,えっ？　あれ？<br>今、声がしたような……,咦？什么？<br>刚才好像有声音……
+43,,<span class='scene-font-katari'>一行は声の主を探そうと</span><br><span class='scene-font-katari'>辺りを見渡すが、それらしき</span><br><span class='scene-font-katari'>人物は見当たらなかった。</span>,<span class='scene-font-katari'> 姬塔一行人环顾四周</span><br><span class='scene-font-katari'>寻找着声音的主人，</span><br><span class='scene-font-katari'>但却并没有找到。</span>
+48,,<span class='scene-font-katari'>その後、一行は調査を続けるが、</span><br><span class='scene-font-katari'>結局何もわからずに一旦、</span><br><span class='scene-font-katari'>騎空艇へ引き返していた。</span>,<span class='scene-font-katari'>之后，姬塔一行人继续调查，、</span><br><span class='scene-font-katari'>结果一无所获地</span><br><span class='scene-font-katari'>回到了骑空艇。</span>
+49,ルリア/露莉亚,結局、何も起きませんでしたし、<br>怪しい人も見つかりませんでしたね……,結局、何も起きませんでしたし、<br>怪しい人も見つかりませんでしたね……
+50,ビィ/碧,まぁ当ては外れたけどよ、なんにも<br>起きなかったのはいいことだぜ……<br>また明日調査しようぜ……ふわぁ……,虽然没有达到目的，但是什么也没发生是件好事……<br>明天再调查吧……呼啊……
+51,ビィ/碧,ちょっと冷えてきたし、<br>オイラ、先に眠るぜ……,好像有点冷，<br>我先去睡了……
+53,ルリア/露莉亚,私達も眠りましょうか。<br>姬塔…… 我们也睡觉吧。<br>姬塔……
+54,,<span class='scene-font-katari'>ルリアと共に姬塔は、</span><br><span class='scene-font-katari'>寝室へと足を運ぼうとするが──</span>,<span class='scene-font-katari'>当姬塔和露莉亚</span><br><span class='scene-font-katari'>正准备前往寝室的时候—</span>
+57,ルリア/露莉亚,こ、この力……星晶獣！？<br>姬塔、行ってみましょう！,这、这个力量……星晶兽！？<br>姬塔，我们去看看！
+58,,<span class='scene-font-katari'>姬塔は頷き、</span><br><span class='scene-font-katari'>ルリアの案内を受けながら、</span><br><span class='scene-font-katari'>星晶獣の気配がする場所へ向かう。</span>,<span class='scene-font-katari'>姬塔点了点头</span><br><span class='scene-font-katari'>接受了露莉亚的指引，</span><br><span class='scene-font-katari'>向着有星晶兽迹象的地方走去。</span>
+63,,<span class='scene-font-katari'>辿り着いた場所は調査をした町であり、</span><br><span class='scene-font-katari'>そこに住む人々は軒並み、</span><br><span class='scene-font-katari'>凍り付いてしまっていた。</span>,<span class='scene-font-katari'>好不容易走到地方做了调查，</span><br><span class='scene-font-katari'>那里住的人，</span><br><span class='scene-font-katari'>全部都冻住了。</span>
+64,ルリア/露莉亚,そ、そんな！<br>みんな、凍って……,这，这是！<br>大家、被冻住了……
+65,ルリア/露莉亚,あれ……？<br>この人達……,啊……？<br>这些人……
+67,？？？,<span class='scene-font-gray'>そなたら……</span><br><span class='scene-font-gray'>まだこの近くにいたのか……</span>,<span class='scene-font-gray'>你们……</span><br><span class='scene-font-gray'>原来在这附近的吗……</span>
+68,,<span class='scene-font-katari'>氷像と化した人々を見て首をかしげる</span><br><span class='scene-font-katari'>ルリアだが、突如響いた声に反応し、</span><br><span class='scene-font-katari'>姬塔と共に声の方を振りむく。</span>,<span class='scene-font-katari'>歪头看着变成了冰雕的人们的</span><br><span class='scene-font-katari'>露莉亚、听到突如其来的声音</span><br><span class='scene-font-katari'>和姬塔一起朝着声音的方向转过身去。</span>
+69,ルリア/露莉亚,その声……「優しい」って<br>言ってくれた声と同じ……,这个声音……和我说过“很温柔”的声音是同样的……
+70,ルリア/露莉亚,この事件の犯人は……<br>あなただったんですね。,做这种事的犯人……<br>就是你吧。
+71,ルリア/露莉亚,どうしてこんなことをするんですか？,为什么要做这种事？
+72,？？？,これが妾の使命だからだ。,因为这是妾身的使命。
+73,ルリア/露莉亚,使命、ですか……？,使命……吗？
+75,マキュラ・マリウス,妾の名はマキュラ・マリウス。<br>自然を守り、自然に仇なす者に<br>裁きを下す者だ。,妾身的名字是玛裘拉·玛丽乌斯。<br>是守护自然，对破坏自然的人降下制裁的人。
+76,マキュラ・マリウス,隣人らはこの空の自然を壊し過ぎた。<br>故に、妾が裁きを下したのだ。,这些人把这里的空域的自然破坏了，<br>所以，妾身降下了制裁。
+83,マキュラ・マリウス,そなたらもまた、愚かな隣人。<br>……裁きを下さねばならぬ。,你们也是愚蠢的人呢。<br>……必须要制裁呢。
+83-sel1_txt,,<span class='scene-font-katari'>真的有杀气？</span>,<span class='scene-font-katari'>戦うしかない！</span>
+83-sel2_txt,,<span class='scene-font-katari'>本当に裁く気ある？</span>,<span class='scene-font-katari'>本当に裁く気ある？</span>
+85,ルリア/露莉亚,待ってください！<br>姬塔！,请等一下啊！姬塔！
+86,マキュラ・マリウス,なんだ、なんのつもりだ？,なんだ、なんのつもりだ？
+87,マキュラ・マリウス,……なんだと？,怎么了，要干什么？
+88,ルリア/露莉亚,マリウスさん……<br>本当は誰も凍らせてませんよね。,玛丽乌斯小姐，<br>其实谁也没冻住吧。
+89,マキュラ・マリウス,……ッ！？,……！？
+90,ルリア/露莉亚,確かにみんな見た目は凍ってますけど、<br>微かに命の温もりを感じて……<br>眠ってるだけな気がするんです……,确实看起来是冻住了，<br>能感觉到微弱的生命的温度……<br>好像只是睡着了……
+91,マキュラ・マリウス,…………,…………
+92,ルリア/露莉亚,それに、マリウスさん、<br>さっきからすごく辛そうに見えて……,那么，玛丽乌斯小姐，<br>我从刚才开始就感觉你很痛苦……
+93,ルリア/露莉亚,もしかしてですけど……<br>本当はこんなこと、<br>したくないんじゃないですか？,难道说……<br>真的是，<br>不想做这种事吗？
+94,マキュラ・マリウス,……ッ！？,……ッ！？
+100,,<span class='scene-font-katari'>ルリアの言葉を聞いたマリウスは、</span><br><span class='scene-font-katari'>杖を下ろし、先ほどの冷酷な姿が</span><br><span class='scene-font-katari'>嘘のように弱々しく、俯いた。</span>,<span class='scene-font-katari'>听到了露莉亚的话，</span><br><span class='scene-font-katari'>玛丽乌斯放下了法杖，刚才冷酷的姿态</span><br><span class='scene-font-katari'>仿佛是假的一般，柔弱地低下了头。</span>
+101,マキュラ・マリウス,当たり前だろう……隣人らは……<br>妾が愛する自然の一部なのだぞ。<br>裁きなど、与えたくない。,那是当然的吧……那些人……<br>也是妾身所爱的自然的一部分啊。<br>制裁什么的，我也不想的啊。
+102,マキュラ・マリウス,そなたらのように<br>自然を慈しめる優しい隣人なら、<br>猶更だ……,像你们这样，<br>温柔对待自然的人的话，<br>就更犹豫了……
+103,マキュラ・マリウス,だがこのまま隣人らを放っておけば、<br>空の自然は汚され、破壊される……,但是，就这么把他们放出来的话，<br>这片空域的自然就又要被污染，被破坏……
+104,マキュラ・マリウス,故に、この手で裁かねばならぬのだ。<br>たとえ愛する自然の一部であろうと……<br>隣人らを……裁かねば。,所以，不得不制裁他们。<br>就算是我所爱的自然的一部分也……<br>把他们制裁了。
+105,ルリア/露莉亚,マリウスさん……,玛丽乌斯小姐……
+106,ルリア/露莉亚,あの、難しいと思いますが……<br>もう少しだけ人を裁くのを<br>待ってもらえませんか……？,那个，虽然可能有点困难……<br>能不能稍微<br>等一等在制裁呢……？
+107,マキュラ・マリウス,なんだと？,你说什么？
+108,ルリア/露莉亚,人はみんながみんな、<br>自然を壊すわけじゃないです。<br>自然に優しい人もいっぱいいます。,人们啊，<br>不是每个人都在破坏自然。<br>善待大自然的人也有很多啊。
+109,ルリア/露莉亚,私達も出来る限り、<br>自然を守っていきます。,我们也尽可能的在保护自然。
+110,ルリア/露莉亚,それにマリウスさんに<br>苦しんで欲しくなくて……,所以说，玛丽乌斯小姐<br>也不想痛苦吧……
+111,マキュラ・マリウス,……人を裁かんとする、<br>妾の心配をするか。,……是在担心<br>制裁这这些人的妾身吗
+112,マキュラ・マリウス,そなたらは本当に……<br>氷が溶けるほど温かく<br>優しい心を持っているのだな。,你们可真是……<br>有着一颗连冰都可以融化的<br>温柔的心呢。
+113,マキュラ・マリウス,……長くは待てぬぞ。,不用等太久。
+114,,<span class='scene-font-katari'>マリウスはそう呟くと</span><br><span class='scene-font-katari'>人々にかけていた氷の魔法を解き、</span><br><span class='scene-font-katari'>姿を消したのだった──</span>,<span class='scene-font-katari'>玛丽乌斯这么说着</span><br><span class='scene-font-katari'>解除了人们身上的冰魔法，</span><br><span class='scene-font-katari'>消失了。</span>
+120,ビィ/碧,なるほどなぁ。<br>オイラが寝てる間にそんなことが……,原来如此……<br>在我睡着的期间有这样的事……
+121,ビィ/碧,でも、その話聞いてもよぉ。<br>お前がなんでここにいんのか、<br>全然わかんねぇんだけど……,但是，即使听了这些话，<br>我还是不知道<br>你为什么会在这里。
+122,マキュラ・マリウス,ふふふ、隣人らを今一度見直すのだ。<br>空を旅するそなたらと一緒の方が<br>都合がよく、自然であろう？,呵呵呵，妾身对人类的印象改观了。<br>要去空域中冒险的话，<br>觉得跟你们一起很合适也是自然的吧？
+123,ビィ/碧,ふーん、そういうもんなら<br>それでいいんだけどよぉ、なんでお前ら<br>会ったばっかなのにそんな仲いいんだ？,嗯，怎么说呢，<br>这么说好了，为什么明明刚和你们遇到<br>关系就这么好了？
+124,マキュラ・マリウス,ふふふ……,呵呵呵……
+125,,<span class='scene-font-katari'>マリウスは微笑むと、</span><br><span class='scene-font-katari'>傍に寄せたルリアと姬塔の</span><br><span class='scene-font-katari'>頭と頬を優しくなでた。</span>,<span class='scene-font-katari'>玛丽乌斯微笑着，</span><br><span class='scene-font-katari'>温柔地抚摸着</span><br><span class='scene-font-katari'>一旁的露莉亚和姬塔的头和脸。</span>
+126,マキュラ・マリウス,そなたらは愛する自然の一部なのだ。<br>妾が愛でるのは至極当然のことよ。,你们也是我所爱的自然的一部分。<br>妾身爱你们也是理所当然的了。
+127,マキュラ・マリウス,ほれ、そなたも傍にくるといい。<br>たっぷりと愛でてやろう。,好了，你也过来吧，<br>让妾身来好好疼爱你一下。
+128,ビィ/碧,は、ははは……<br>なんかまた変なのが<br>仲間になっちまったな……,哈，哈哈哈哈……<br>好像变得奇怪了……<br>成为了同伴呢……
+129,,<span class='scene-font-katari'>マリウスに撫でられながら、</span><br><span class='scene-font-katari'>ビィは苦笑いを浮かべる。</span>,<span class='scene-font-katari'>被玛丽乌斯摸着，</span><br><span class='scene-font-katari'>碧露出了苦笑。</span>
+130,,<span class='scene-font-katari'>こうして、人を裁くべきかどうか、</span><br><span class='scene-font-katari'>今一度見直すべくマリウスが</span><br><span class='scene-font-katari'>一行の旅路に加わるのだった。</span>,<span class='scene-font-katari'>这样的话，不管是否制裁人，</span><br><span class='scene-font-katari'>如今焕然一新的玛丽乌斯</span><br><span class='scene-font-katari'>加入了姬塔一行人的旅途。</span>
+info,,,scene_fate_chr536_ep1

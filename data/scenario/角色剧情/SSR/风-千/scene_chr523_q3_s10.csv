@@ -1,0 +1,105 @@
+id,name,text,trans
+0-chapter_name,,それぞれの幸せ,各自的幸福
+0-synopsis,,裏路地から塀の上、そして屋根の上へと猫を追いかけるセンだったが、猫茶寮での猫の様子を思い返して、連れ戻さない方がいいのかもしれないと悩む。葛藤の中、足を滑らせて屋根から落ちてしまったセンを駆けつけた姬塔が受け止める。一行で手分けをした捜索の末に猫を保護したセンは、悩みながらも猫を連れて猫茶寮へ戻るのだった。,从小路到篱笆，再到屋顶，千一路追着猫。途中回想起猫在猫咖中的样子，犹豫着是否应该将它带回的千眼角涌出泪水。被泪水模糊视线的千从屋顶掉落，被赶到的姬塔接住了。分头寻找后，千保护着猫，烦恼着将猫带回了猫咖。
+1,猫茶寮の猫１,にゃ……！,喵……！
+4,セン/千,待って下さい……！,请等一下……！
+7,猫茶寮の猫１,にゃーっ！,喵ー！
+11,セン/千,えいっ！,嘿！
+15,猫茶寮の猫１,にゃっ！？,喵！？
+19,セン/千,待ってー！,等一下ー！
+21,,<span class='scene-font-katari'>裏路地から塀の上へ、更に屋根の上へと</span><br><span class='scene-font-katari'>身軽に逃げていく猫を、</span><br><span class='scene-font-katari'>センもまた身軽に追いかける。</span>,<span class='scene-font-katari'>从小路跳上篱笆，再跳上屋顶</span><br><span class='scene-font-katari'>猫轻盈地跳跃着，</span><br><span class='scene-font-katari'>千也跟着猫跳来跳去。</span>
+25,街人１/居民１,な、なんだっ！？,怎，怎么了！？
+26,街人２/居民２,あの子、なんで屋根の上<br>走ってるの！？,那孩子，怎么在屋顶上<br>跑来跑去！？
+27,,<span class='scene-font-katari'>屋根の上を駆けていく少女の姿に、</span><br><span class='scene-font-katari'>人々は、驚きの声を上げるが、</span><br><span class='scene-font-katari'>センには構っている余裕はなかった。</span>,<span class='scene-font-katari'>人们诧异地看着，</span><br><span class='scene-font-katari'>在屋顶上奔跑的少女，</span><br><span class='scene-font-katari'>而千却没有理会这些的空闲。</span>
+28,セン/千,待って……待ってください！,等……等一下！
+29,猫茶寮の猫１,…………！,…………！
+30,セン/千,あのっ！<br>危ないので、戻りましょう！！,听我说！<br>外面很危险，回来吧！！
+31,セン/千,<span class='scene-font-4'>猫さーん！</span><br><span class='scene-font-4'>お願いしますー！</span>,<span class='scene-font-4'>猫さーん！</span><br><span class='scene-font-4'>拜托了ー！</span>
+32,,<span class='scene-font-katari'>センがどう声をかけても、</span><br><span class='scene-font-katari'>猫は逃げる速度を</span><br><span class='scene-font-katari'>緩めようとはしない。</span>,<span class='scene-font-katari'>无论千怎么喊，</span><br><span class='scene-font-katari'>猫逃跑的速度</span><br><span class='scene-font-katari'>也没有减下来。</span>
+33,セン/千,はぁ、はぁ……<br>どうしよう……,哈，哈……<br>怎么办……
+34,セン/千,でも……,但是……
+38,猫茶寮の猫１,…………,…………
+39,猫茶寮の猫１,<span class='scene-font-4'>シャーッ！</span>,<span class='scene-font-4'>吓ー！</span>
+43,セン/千,<span class='scene-font-kokoro'>（猫さんは、お店にいるのが</span><br><span class='scene-font-kokoro'>すごく嫌だったから</span><br><span class='scene-font-kokoro'>逃げたんだよね……）</span>,<span class='scene-font-kokoro'>（猫さん是因为，</span><br><span class='scene-font-kokoro'>很讨厌在店里</span><br><span class='scene-font-kokoro'>才跑出来的吧……）</span>
+44,セン/千,<span class='scene-font-kokoro'>（連れて帰らない方が</span><br><span class='scene-font-kokoro'>猫さんのためにはいいのかも……）</span>,<span class='scene-font-kokoro'>（也许带它回去</span><br><span class='scene-font-kokoro'>是为了它好……）</span>
+45,セン/千,うぅ、でも……,唔，但是……
+46,セン/千,今はあのお店のお手伝いが<br>私のお仕事だから……！,给那家店帮忙<br>才是我今天的工作……！
+47,,<span class='scene-font-katari'>どうしたらよいのかわからない状況に、</span><br><span class='scene-font-katari'>センの目にじんわりと涙が浮かぶ。</span>,<span class='scene-font-katari'>在渐渐地不明白如何是好的情况下，</span><br><span class='scene-font-katari'>千的眼角滑出泪水。</span>
+48,セン/千,私……,我……
+49,セン/千,きゃっ！？,呀啊！？
+50,,<span class='scene-font-katari'>葛藤で滲む視界のまま猫を</span><br><span class='scene-font-katari'>追いかけていたセンは、</span><br><span class='scene-font-katari'>屋根の縁で足を滑らせる。</span>,<span class='scene-font-katari'>追着猫的千</span><br><span class='scene-font-katari'>被泪水模糊了视线，</span><br><span class='scene-font-katari'>从屋顶边缘掉落。</span>
+51,セン/千,落ちる──！,完蛋──！
+63,セン/千,っ！？,！？
+64,ビィ/碧,ふぃ～<br>危なかったな！,呼～<br>千钧一发啊！
+65,,<span class='scene-font-katari'>屋根から落下したセンを受け止めたのは</span><br><span class='scene-font-katari'>駆け付けた姬塔だった。</span>,<span class='scene-font-katari'>赶来的姬塔，</span><br><span class='scene-font-katari'>接住了从屋顶掉下来的千。</span>
+66,セン/千,あ……,啊……
+67,セン/千,姬塔さん！？,姬塔さん！？
+68,ルリア/露莉亚,センちゃんなら自分で<br>着地できたかもしれませんけど……<br>間に合ってよかったです！,千ちゃん自己也能<br>落地也说不定……<br>但赶上真是太好了！
+69,セン/千,ありがとうございます！<br>あの、えっと……？,谢谢！<br>那个，这个……？
+70,ルリア/露莉亚,私達、猫ちゃんとセンちゃんが<br>出て行くのを見て、<br>追いかけて来たんです。,我们，看到猫ちゃん和千ちゃん<br>从店里跑出去，<br>就追过来了。
+71,ビィ/碧,それにしても、センが<br>屋根から落ちるなんて<br>珍しいこともあったもんだぜ。,不过，千从屋顶<br>掉下来<br>也是不常见啊。
+72,セン/千,ごめんなさい……<br>ちょっと考え事をしてて……,抱歉……<br>刚刚在想事情……
+73,ビィ/碧,考え事？<br>どうかしたのか？,想事情？<br>怎么了吗？
+74,セン/千,それは、その……,关于这个……
+75,セン/千,あっ！<br>それより猫さんが！,啊！<br>比起这个猫さん！
+77,,<span class='scene-font-katari'>センは再び屋根に駆けあがって</span><br><span class='scene-font-katari'>見渡すが、既に猫の姿は</span><br><span class='scene-font-katari'>見えなくなっていた。</span>,<span class='scene-font-katari'>千再次跃上屋顶</span><br><span class='scene-font-katari'>看了一圈，已经不见</span><br><span class='scene-font-katari'>猫的身影。</span>
+79,セン/千,猫さん、見失ってしまいました。<br>どうしよう……,猫さん，跟丢了。<br>怎么办……
+80,ビィ/碧,このまま放っておくわけには<br>いかねぇもんな。,也不能就这么<br>放着不管。
+81,セン/千,はい……<br>猫さんは、お店にいるのが嫌で<br>逃げたのかもしれませんが……,是啊……<br>猫さん，也许是因为讨厌店里<br>才逃出来的，但是……
+82,セン/千,突然外に出て、危ない目に<br>合ってないか心配です。<br>見つけてあげないといけません！,我担心它突然出来，<br>会不会遇到危险。<br>不找到的话不行！
+83,ルリア/露莉亚,そうですね！<br>私達もお手伝いします！,说的也是！<br>我们也来帮忙！
+89,,<span class='scene-font-katari'>姬塔達とセンは</span><br><span class='scene-font-katari'>手分けして、</span><br><span class='scene-font-katari'>脱走した猫を捜索する。</span>,<span class='scene-font-katari'>姬塔一行和千/span><br><span class='scene-font-katari'>分头，</span><br><span class='scene-font-katari'>开始寻找逃走的猫。</span>
+91,ビィ/碧,う～ん。<br>こっちの方は見当たらなかったぜ。,嗯～。<br>这边没有找到。
+92,ルリア/露莉亚,こっちにもいません……,这边也没有……
+93,センの声/千的声音,あっ！<br>あそこ！！,啊！<br>那里！！
+97,,<span class='scene-font-katari'>声を上げたのは、</span><br><span class='scene-font-katari'>屋根の上から猫の姿を</span><br><span class='scene-font-katari'>探していたセンだった。</span>,<span class='scene-font-katari'>叫喊的，</span><br><span class='scene-font-katari'>是在屋顶寻找猫的</span><br><span class='scene-font-katari'>千。</span>
+98,セン/千,あそこの木の上に<br>猫さんがいます！,那里的树上<br>有猫さん！
+99,猫茶寮の猫１,にゃ……にゃ～……,喵……喵～……
+100,セン/千,……様子が変です。<br>降りられなくなっちゃったのかも……,……样子很奇怪啊。<br>是不是下不来了……
+101,ルリア/露莉亚,大変です！<br>助けに行きましょう！,不好了！<br>我们去帮帮它吧！
+105,猫茶寮の猫１,にゃ～……,喵～……
+106,,<span class='scene-font-katari'>センの案内でやって来たのは</span><br><span class='scene-font-katari'>街外れの木の下だった。</span>,<span class='scene-font-katari'>按照千的带领，</span><br><span class='scene-font-katari'>一行人来到镇外的一棵树下。</span>
+107,犬,う～……わんわんっ！,唔～……汪汪汪！
+108,ビィ/碧,なるほど。<br>下で犬が吠えてるから<br>降りられなかったんだな。,原来如此。<br>下面有狗，<br>所以才下不来啊。
+109,セン/千,はい、そうみたいですね。<br>えっと、それじゃあ……,嗯，好像是的。<br>唔，那么……
+109-sel1_txt,,<span class='scene-font-katari'>わんっ！</span>,<span class='scene-font-katari'>汪！</span>
+109-sel2_txt,,<span class='scene-font-katari'>犬はまかせて</span>,<span class='scene-font-katari'>狗就交给我吧</span>
+110,犬,う～……,唔～……
+111,セン/千,姬塔さん……？,姬塔さん……？
+112,ビィ/碧,えーっと……<br>犬の方は姬塔と<br>オイラ達がなんとかするからよ。,呃ー……<br>狗就交给姬塔<br>和我们吧。
+113,ビィ/碧,おう、そうだな！,哦，是啊！
+114,セン/千,わかりました！<br>じゃあ私が猫さんを助けますね。,我明白了！<br>那么我去帮猫さん。
+116,セン/千,よいしょ……っと！,诶嘿……哟！
+117,,<span class='scene-font-katari'>センは木によじ登って</span><br><span class='scene-font-katari'>猫のいるところまで行く。</span>,<span class='scene-font-katari'>千爬上树，</span><br><span class='scene-font-katari'>慢慢地向猫前进。</span>
+118,猫茶寮の猫１,にゃ～,喵～
+119,セン/千,もう大丈夫ですよ。,已经没事了。
+120,猫茶寮の猫１,にゃ……,喵……
+121,セン/千,ど、どうしましたか？,怎，怎么了？
+122,ルリア/露莉亚,センちゃん？<br>猫ちゃんは大丈夫ですかー？,千ちゃん？<br>猫ちゃん没事吧ー？
+123,セン/千,あ、えっと、それが……！,啊，这个，那个……！
+124,,<span class='scene-font-katari'>猫を抱きかかえたセンは</span><br><span class='scene-font-katari'>慌てて木から降りてくる。</span>,<span class='scene-font-katari'>抱着猫的千，</span><br><span class='scene-font-katari'>慌慌张张地从树上下来。</span>
+125,セン/千,猫さん、<br>ぐったりしてるんです……！,猫さん，<br>很累了……！
+126,猫茶寮の猫１,…………,…………
+127,ルリア/露莉亚,はわわ、<br>本当ですね……,哈哇哇，<br>是真的……
+128,ビィ/碧,逃げ回って疲れちまったのかもなぁ。,来回逃窜累了也说不定啊。
+129,セン/千,……とにかく、お店に<br>連れて帰ります。,……总之，先带回<br>店里吧。
+130,ルリア/露莉亚,……いいんですか？,……可以吗？
+131,,<span class='scene-font-katari'>姬塔も、</span><br><span class='scene-font-katari'>心配そうにセンと猫の様子を窺う。</span>,<span class='scene-font-katari'>姬塔也，</span><br><span class='scene-font-katari'>一脸担忧地看着猫。</span>
+132,セン/千,……はい。<br>今は、それが私のお仕事ですから。,……好吧。<br>毕竟，这个才是我现在的工作。
+133,,<span class='scene-font-katari'>頷いたセンは、</span><br><span class='scene-font-katari'>腕の中でぐったりする猫を</span><br><span class='scene-font-katari'>優しく抱きしめるのだった。</span>,<span class='scene-font-katari'>千点了点头，</span><br><span class='scene-font-katari'>温柔地抱着</span><br><span class='scene-font-katari'>疲惫的猫。</span>
+139,店長/店长,ああ、良かった！<br>つかまえて来てくれたのか！,啊，太好了！<br>你抓住它了！
+140,セン/千,はい、あの……,嗯，还有……
+141,,<span class='scene-font-katari'>一度シェロカルテの元へ報告に</span><br><span class='scene-font-katari'>行くという姬塔達と別れ、</span><br><span class='scene-font-katari'>センは猫茶寮へと戻って来た。</span>,<span class='scene-font-katari'>与暂时向榭洛科特</span><br><span class='scene-font-katari'>报告的姬塔一行分别，</span><br><span class='scene-font-katari'>千回到了猫咖。</span>
+142,店長/店长,いやぁ、本当に助かったよ。<br>大変だっただろう？<br>ありがとう。,诶呀，真是帮大忙了。<br>很不容易吧？<br>谢谢。
+143,セン/千,いえ、私は良いんですが、<br>猫さんが……,没事，我还好<br>只是猫さん……
+144,猫茶寮の猫１,…………,…………
+145,セン/千,元気がなくって……,没有精神……
+146,店長/店长,ああ……,啊……
+147,,<span class='scene-font-katari'>店長は、センの腕の中の猫を</span><br><span class='scene-font-katari'>覗き込んで首を振る。</span>,<span class='scene-font-katari'>店长盯着，</span><br><span class='scene-font-katari'>千手臂上的猫摇了摇头。</span>
+148,店長/店长,仕方ないから、裏で休ませといて。,没办法，放到里面休息吧。
+149,セン/千,え、放っておいて大丈夫ですか？<br>お医者さんとかは……,诶，放着不管可以吗？<br>不找医生之类的……
+150,店長/店长,大丈夫大丈夫。,。
+151,店長/店长,それより、この後またお客さんが<br>増えるだろうから、すぐに<br>表の手伝いを頼むよ。,比起这个，一会儿客人就变多了<br>快点到外面<br>帮忙才是正事。
+152,セン/千,……わかりました。,……我明白了。
+153,,<span class='scene-font-katari'>頷いたセンは、</span><br><span class='scene-font-katari'>腕の中の猫をもう一度ぎゅっと</span><br><span class='scene-font-katari'>抱きしめるのだった。</span>,<span class='scene-font-katari'>千点了点头，</span><br><span class='scene-font-katari'>抱紧了</span><br><span class='scene-font-katari'>手臂上的猫。</span>
+info,麻友桑的话筒,,scene_chr523_q3_s10
