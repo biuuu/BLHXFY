@@ -1,0 +1,86 @@
+id,name,text,trans
+0-chapter_name,,姉弟喧嘩の行く末,姐弟吵架的后续
+0-synopsis,,花を見に向かう途中、ひとりで先に行こうとしてヴァイトに怒られたヴァンピィは、ヘソを曲げてベスと共にその場を走り去ってしまう。しかし迷い込んだ森の中で、突如機械仕掛けの人形達がヴァンピィ達を取り囲み、身なりの良い男が現れる。無理矢理ヴァンピィを連れて行こうとする男に逆らって、ヴァンピィはベスと共に機械人形に立ち向かうのだった。,在前往赏花处的时候，打算只身先行的斑比被斑特训了一顿，于是闹别扭的她带着贝斯当场离去，但是却在森林里迷路，并被突然出现的机械人偶团团围住，随后出现了一个衣着得体的男人。他想强行将斑比带走，于是斑比和贝斯开始一同对抗机械人偶。
+2,,<span class='scene-font-katari'>夜にだけ光り輝くという花を見るべく、</span><br><span class='scene-font-katari'>大勢の人の波に乗り、</span><br><span class='scene-font-katari'>街道を行く姬塔一行。</span>,<span class='scene-font-katari'>随着大波的人流。</span><br><span class='scene-font-katari'>向着河边进发的姬塔一行，</span><br><span class='scene-font-katari'>去看了只在夜晚发光的花朵。</span>
+3,ルリア/露莉亚,うわわぁ！？,唔哇哇哇！？
+4,ラカム/拉卡姆,おっと、危ねぇ！,哦呀。好险！
+5,ラカム/拉卡姆,気を付けろよ、ルリア。<br>この中ではぐれたら迷子になっちまう。,小心点，露莉亚。<br>在人群里看花了眼可是会迷路的哦。
+6,ビィ/碧,うぎゃっ！,うぎゃっ！
+7,ビィ/碧,くそぅ！<br>尻尾に何か引っかかって……<br>た、助けてくれぇ～！,啧！<br>有什么缠住尾巴……<br>快，快来帮帮我～！
+8,,<span class='scene-font-katari'>荷物に引っかかってしまったのか、</span><br><span class='scene-font-katari'>人波に飲まれかけているビィを</span><br><span class='scene-font-katari'>姬塔は手を伸ばし救出する。</span>,<span class='scene-font-katari'>是被行李缠住尾巴了吗，</span><br><span class='scene-font-katari'>姬塔把手伸向</span><br><span class='scene-font-katari'>被人流淹没的碧。</span>
+9,ビィ/碧,ふぃー……助かったぜぇ。,呼ー……得救了。
+10,ビィ/碧,なぁなぁ、この状況じゃ、<br>人が多すぎて光る花ってのは<br>見れないんじゃねーか……？,呐，呐，人这么多，<br>挡着花<br>什么都看不到啊……？
+11,ラカム/拉卡姆,とは言っても、だ。<br>今から街に引き返すってのも<br>難しいぞ……,话虽如此，但是。<br>现在要返回镇上<br>也很困难啊……
+12,,<span class='scene-font-katari'>改めて周囲を見渡したラカムは、</span><br><span class='scene-font-katari'>人の多さに辟易したように</span><br><span class='scene-font-katari'>顔を歪める。</span>,<span class='scene-font-katari'>环视一周后。拉卡姆一脸无奈地</span><br><span class='scene-font-katari'>歪着脑袋。</span>
+13,ヴァンピィ/斑比,うー……<br>ねぇヴァイト、あとどれくらいー？,唔ー……<br>馁，斑特，还有多久ー？
+14,ヴァイト/斑特,はぁ……僕に聞くな。<br>この調子だと<br>まだまだ掛かりそうだけど……,哈……就算你这么问我。<br>就这个状态来看<br>还要很久吧……
+16,ヴァンピィ/斑比,あれ？<br>今なんか変な音が……<br>こっちかな？,嗯？<br>刚刚是不是有什么奇怪的声音……<br>这边？
+18,ヴァイト/斑特,あっ、おい！,啊，嘿！
+20,,<span class='scene-font-katari'>人の波をかき分け、</span><br><span class='scene-font-katari'>どんどん先へ進んでいくヴァンピィ。</span>,<span class='scene-font-katari'>斑比拨开人流，</span><br><span class='scene-font-katari'>不断地向前走去。</span>
+21,,<span class='scene-font-katari'>ヴァイトは咄嗟にその後を追い、</span><br><span class='scene-font-katari'>腕を掴んでヴァンピィを制止する。</span>,<span class='scene-font-katari'>斑特嘴里碎碎念着，</span><br><span class='scene-font-katari'>追上去抓住了斑比的手腕。</span>
+22,ヴァイト/斑特,ヴァンピィ！<br>どこに行くんだ！,斑比！<br>你要去哪！
+23,ヴァンピィ/斑比,あっちから変な音が聞こえて、<br>気になって……,从那边传来了奇怪的声音，<br>我很在意……
+24,ヴァイト/斑特,はぁ……<br>ひとりで行って迷子になったら<br>どうするんだ！,哈……<br>一个人过去的话<br>迷路了怎么办！
+25,ヴァイト/斑特,いい加減、少しは考えて<br>行動してくれ！,你也给我，动动脑子<br>再行动啊！
+26,ヴァンピィ/斑比,むぅぅぅぅぅぅー！,唔唔唔唔唔ー！
+27,ヴァンピィ/斑比,そこまで言わなくてもいいじゃん！<br>いっつもいっつも、全部ダメとか<br>やめろとか、イジワルばっかり！,那也不用说到这个份上吧！<br>今天也好明天也好，这个也不行<br>那个也不行，你总是欺负我！
+28,ヴァンピィ/斑比,<span class='scene-font-4'>ヴァイトのバカッ！</span><br><span class='scene-font-4'>だいっきらいー！</span>,<span class='scene-font-4'>斑特大傻瓜！</span><br><span class='scene-font-4'>最讨厌你了ー！</span>
+29,ヴァンピィ/斑比,<span class='scene-font-4'>べーーーーっだっ！</span>,<span class='scene-font-4'>哼ーーーー哒！</span>
+31,ヴァイト/斑特,ヴァンピィ！,斑比！
+32,,<span class='scene-font-katari'>ヴァイトの腕を振り払ったヴァンピィは</span><br><span class='scene-font-katari'>そのまま人波に飲まれどこかへと</span><br><span class='scene-font-katari'>走り去ってしまう。</span>,<span class='scene-font-katari'>斑比甩开斑特的手，</span><br><span class='scene-font-katari'>就这样走进人群中</span><br><span class='scene-font-katari'>消失不见。</span>
+33,ベス,ぎゃう！,嘎嘎！
+34,ヴァイト/斑特,……ああ、頼む。<br>僕もすぐに後を追い掛けるから。,……啊，拜托了。<br>我很快就追上去。
+35,ベス,ぎゃうぎゃーう！,嘎ー嘎！
+37,,<span class='scene-font-katari'>ヴァンピィを追い掛けるベスを見送り、</span><br><span class='scene-font-katari'>ヴァイトは深く息を吐いた。</span>,<span class='scene-font-katari'>看着贝斯去追赶斑比，</span><br><span class='scene-font-katari'>斑特深深地吐了一口气。</span>
+38,ヴァイト/斑特,<span class='scene-font-kokoro'>（意地悪ばっかりだって？</span><br><span class='scene-font-kokoro'>僕はただ、ヴァンピィのことを</span><br><span class='scene-font-kokoro'>心配して……）</span>,<span class='scene-font-kokoro'>（总是欺负她？</span><br><span class='scene-font-kokoro'>我只是，很担心</span><br><span class='scene-font-kokoro'>斑比……）</span>
+40,ルリア/露莉亚,ヴァイトさーん！<br>やっと追いつきましたぁ……,斑特ー！<br>终于追上你了……
+41,ラカム/拉卡姆,うん……？<br>おい、ヴァンピィとベスはどうした？<br>一緒じゃないのか？,嗯……？<br>欸，斑比和贝斯去哪里了？<br>和你不在一起吗？
+42,,<span class='scene-font-katari'>周囲にヴァンピィとベスの姿が</span><br><span class='scene-font-katari'>見えないことに気付いたラカムに、</span><br><span class='scene-font-katari'>ヴァイトは溜息を吐きながら首を振る。</span>,<span class='scene-font-katari'>周囲にヴァンピィとベスの姿が</span><br><span class='scene-font-katari'>面对发觉她俩不见了的拉卡姆，</span><br><span class='scene-font-katari'>斑特叹了一口气摇了摇头。</span>
+43,ヴァイト/斑特,ヴァンピィがヘソを曲げたんだ。<br>いつものことだし、<br>すぐに頭は冷えるだろうけど。,斑比在闹别扭。<br>老生常谈了，<br>她很快就会冷静下来吧。
+44,ビィ/碧,なんだってぇ！？<br>早く探さねぇと！,什么！？<br>那得快点找到她！
+45,ヴァイト/斑特,ヴァンピィは僕が迎えに行くよ。<br>この人の多さじゃ、<br>大人数で動くのは不便だろう？,我去找斑比吧。<br>这里人这么多，<br>我们一群人也行动不便。
+46,ラカム/拉卡姆,まぁ……確かにそうだな。<br>だけど、ひとりで大丈夫か？,嗯……有道理。<br>但是，你一个人没问题吗？
+47,ヴァイト/斑特,ふん、当然だろ。<br>ヴァンピィの扱いは慣れてるからね。,哼，当然。<br>这种事我已经习惯了。
+48,ラカム/拉卡姆,お前さんがそう言うなら……<br>それじゃ、俺達はこのまま進むから、<br>例の水辺で合流しようぜ。,既然你这么说……<br>那，我们就这样往前走，<br>到时候在河边汇合吧。
+49,ヴァイト/斑特,ああ、分かった。,啊，我知道了。
+50,,<span class='scene-font-katari'>そう言って姬塔達と別れた</span><br><span class='scene-font-katari'>ヴァイトは、ヴァンピィを探し</span><br><span class='scene-font-katari'>人波の中へと身を投じるのだった。</span>,<span class='scene-font-katari'>这么说着斑特和姬塔一行分开，</span><br><span class='scene-font-katari'>挤入人群中，</span><br><span class='scene-font-katari'>开始寻找斑比。</span>
+56,ヴァンピィ/斑比,なんなのよ、ヴァイトのくせにー！<br>ほんっと口うるさいんだからー！,什么啊，不过是个斑特ー！<br>真是烦死了ー！
+57,ベス,ぎゃう……,嘎……
+58,ヴァンピィ/斑比,ベスちゃんもそう思うでしょ！？<br>まったくもー……,贝斯ちゃん也是这么认为的吧！？<br>真是的ー……
+59,,<span class='scene-font-katari'>人波に流され、街道の外れにある</span><br><span class='scene-font-katari'>森の中へと迷い込んだヴァンピィは</span><br><span class='scene-font-katari'>木の影に座り込んでいた。</span>,<span class='scene-font-katari'>被人流推动，来到镇外的斑比/span><br><span class='scene-font-katari'>在森林中迷路，</span><br><span class='scene-font-katari'>坐在了树影中。</span>
+60,ヴァンピィ/斑比,……そりゃあ、心配してくれてるのは<br>分かるけど……でも、あんな風に<br>言わなくたって…………,……我当然，明白<br>他是担心我……但是，也没必要<br>这么说…………
+61,ベス,ぎゃうぅ……,嘎……
+63,ベス,ぎゃう？,嘎？
+64,ヴァンピィ/斑比,ベスちゃん、どうしたの？,贝斯ちゃん，怎么了？
+66,ヴァンピィ/斑比,……誰？,……谁？
+67,,<span class='scene-font-katari'>近付いてくる足音に気付き、</span><br><span class='scene-font-katari'>周囲を見渡すヴァンピィ。</span>,<span class='scene-font-katari'>听着越来越近的脚步声，</span><br><span class='scene-font-katari'>斑比环顾四周。</span>
+69,？？？,────……,────……
+70,,<span class='scene-font-katari'>ヴァンピィが見つめる茂みの中から、</span><br><span class='scene-font-katari'>全身を金属で覆った</span><br><span class='scene-font-katari'>兵士のような一団が現れる。</span>,<span class='scene-font-katari'>一从灌木中，</span><br><span class='scene-font-katari'>冒出一群</span><br><span class='scene-font-katari'>身穿盔甲的士兵。</span>
+71,,<span class='scene-font-katari'>彼らは無言で距離を詰め、</span><br><span class='scene-font-katari'>ヴァンピィとベスを取り囲む。</span>,<span class='scene-font-katari'>他们一言不发，</span><br><span class='scene-font-katari'>将斑比与贝斯团团围住。</span>
+72,ベス,ぎゃう……,嘎……
+73,ヴァンピィ/斑比,ベスちゃん、こっちにおいで。<br>この人たち、なんか変……！,贝斯ちゃん，来这边。<br>这些人，很奇怪……！
+74,,<span class='scene-font-katari'>取り囲んだまま微動だにしない集団を、</span><br><span class='scene-font-katari'>警戒しながら見据えるヴァンピィ。</span>,<span class='scene-font-katari'>斑比警戒地盯着将她们团团围住，</span><br><span class='scene-font-katari'>纹丝不动的士兵。</span>
+75,,<span class='scene-font-katari'>そこへ、新たな足音と共に</span><br><span class='scene-font-katari'>ひとりの見知らぬ男が姿を現した。 </span>,<span class='scene-font-katari'>某处，与新的脚步声一同</span><br><span class='scene-font-katari'>出现了一个陌生男人。 </span>
+76,身なりの良い男,ああ、ようやく見つけた。<br>こんばんは、お嬢さん。<br>私の人形達が怖がらせて悪かったね。,啊啊，真亏你们找到了。<br>晚上好，小姐。<br>抱歉我的人偶们让你受惊了。
+77,ヴァンピィ/斑比,お人形……？<br>これが？,人偶……？<br>这些？
+78,身なりの良い男,そう。機械仕掛けの人形さ。<br>従順で頼もしい私の護衛だよ。,没错。机械人偶。<br>听话又可靠，是我的护卫。
+79,ヴァンピィ/斑比,ふぅん……<br>それで、ヴァンピィちゃんに<br>なんの用なの？,哼……<br>所以呢，找斑比<br>有何贵干？
+80,身なりの良い男,昼間、小さな女の子を助けただろう？<br>キミの勇気ある行動に感動してね。,白天，你帮助了一名少女吧？<br>我被你英勇的行为打动。
+81,身なりの良い男,是非とも、<br>勇敢なキミと<br>お友達になりたいと思ったんだ。,勇敢的小姐，<br>请务必<br>和我交个朋友。
+82,身なりの良い男,どうかな、お茶でも飲みながら<br>話をしないかい？,如何呢，不如喝杯茶<br>我们慢慢地聊一聊？
+83,,<span class='scene-font-katari'>笑みを浮かべ手を差し伸べる男に</span><br><span class='scene-font-katari'>得体の知れないものを感じ、</span><br><span class='scene-font-katari'>ヴァンピィは静かに後ずさる。</span>,<span class='scene-font-katari'>面对面上带笑伸出手的男人，</span><br><span class='scene-font-katari'>斑比感到一丝不安，</span><br><span class='scene-font-katari'>她后退了一步。</span>
+84,ヴァンピィ/斑比,うぅ、やだ。<br>アンタ、すっごくやな感じするもん……,唔唔，算了。<br>你身上，有很不好的感觉……
+85,ヴァンピィ/斑比,行こう、ベスちゃん。,走吧，贝斯ちゃん。
+90,機械人形/机械人偶,──……,──……
+91,,<span class='scene-font-katari'>笛の音が響いた後、</span><br><span class='scene-font-katari'>静止していた機械人形達が</span><br><span class='scene-font-katari'>一斉に歩き出した。</span>,<span class='scene-font-katari'>笛子吹响后，</span><br><span class='scene-font-katari'>静止的机械人偶们</span><br><span class='scene-font-katari'>齐齐地向前迈了一步。</span>
+92,,<span class='scene-font-katari'>男に背を向けるヴァンピィだが、</span><br><span class='scene-font-katari'>機械人形達に行く手を遮られる。</span>,<span class='scene-font-katari'>虽然斑比想走，</span><br><span class='scene-font-katari'>但是却被机械人偶挡住了去路。</span>
+93,ヴァンピィ/斑比,どいてよ！<br>アンタとは一緒に行かないってばぁ！,走开啊！<br>我不和你们一起走！
+94,身なりの良い男,そういう訳にはいかない。<br>キミには一緒に来てもらわないと<br>困るんだ……力づくでもね。,这可不行。<br>你要是不能一起来<br>会让我很困扰……只能强制你了。
+96,ベス,ぎゃうぎゃう！<br>ぎゃーう！,嘎嘎！<br>嘎ー！
+97,,<span class='scene-font-katari'>響く笛の音を合図とするように、</span><br><span class='scene-font-katari'>静止していた機械人形達が</span><br><span class='scene-font-katari'>一斉に剣を向ける。</span>,<span class='scene-font-katari'>配合着响起的笛声，</span><br><span class='scene-font-katari'>静止不动的机械人偶</span><br><span class='scene-font-katari'>齐刷刷地举起剑。</span>
+98,身なりの良い男,さぁ、大人しく付いて来たまえ。<br>痛い思いはしたくないだろう？,好了，老老实实和我一起走。<br>你也不想受苦吧？
+99,ベス,ぎゃう……,嘎……
+100,ヴァンピィ/斑比,<span class='scene-font-4'>もーっ！</span><br>なんでみんなしてヴァンピィちゃんの<br>邪魔ばっかりするのー！,<span class='scene-font-4'>啊ー！</span><br>为什么大家总是要<br>妨碍斑比ー！
+103,ヴァンピィ/斑比,行くよ、ベスちゃん！<br>みんなまとめて吹っ飛ばしちゃおう！,准备好，贝斯ちゃん！<br>把它们统统打回老家！
+104,ベス,ぎゃうぎゃーう！！,嘎嘎ー！！
+info,麻友桑的话筒,,scene_ult_chr194_ep1_q3_s20
