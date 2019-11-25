@@ -82,9 +82,9 @@ id,name,text,trans
 104,オイゲン/欧根,あ……？,啊……？
 105,黒騎士？/黑骑士？,隠そうとも無駄だ、私にはわかる。<br>ここは、そういう世界だからな。,隐瞒是没用的，我都会知道。毕竟这里，就是这样的世界。
 106,黒騎士？/黑骑士？,貴様にはやるべきことがあるはずだ。<br>そのために、覚悟も固めていただろう。,你不是有必须要做的事么。而且为了这件事，向某人表达过自己的决心不是么。
-107,黒騎士？/黑骑士？,それなのに、何をまだ迷っている？<br>貴様の覚悟とは、<br>その程度のものだったのか？,既然如此，你为什么还在由于？你的觉悟，终究只是这样的东西而已嘛
+107,黒騎士？/黑骑士？,それなのに、何をまだ迷っている？<br>貴様の覚悟とは、<br>その程度のものだったのか？,既然如此，你为什么还在犹豫？你的觉悟，终究只是这样的东西而已嘛
 108,オイゲン/欧根,くっ……！？,咕…… ! ？
-109,黒騎士？/黑骑士？,迷うな。<br>そして成すべきことを見失うな。<br>過去の己の誓いを否定するな。,不要犹豫，不要忘了自己该做的是。同时，也不要否定过去的自己。
+109,黒騎士？/黑骑士？,迷うな。<br>そして成すべきことを見失うな。<br>過去の己の誓いを否定するな。,不要犹豫，不要忘了自己该做的事。同时，也不要否定过去的自己。
 110,オイゲン/欧根,っ……,啧……
 111,オイゲン/欧根,確かに、そうだ……<br>そうなんだが……オレは……,的确是这样…… 的确是这样…… 但是我……
 112,,<span class='scene-font-katari'>返す言葉を持つことが出来ず、</span><br><span class='scene-font-katari'>歯ぎしりと共に</span><br><span class='scene-font-katari'>オイゲンは頭を抱える。</span>,在黑骑士面前，欧根紧紧咬着牙关，抱着头，一个字也说不出来。
@@ -103,6 +103,6 @@ id,name,text,trans
 126,,<span class='scene-font-katari'>呆然とするオイゲンの手を取った</span><br><span class='scene-font-katari'>アルテミシアは、</span><br><span class='scene-font-katari'>その手を握り、引いていく。</span>,看着站在原地发呆的欧根，阿尔提米希亚牵起了他的手，然后紧紧地握住了。
 127,アルテミシア,帰りましょう、オイゲン。,我们回家吧，欧根。
 128,オイゲン/欧根,ああ……そうだな。,恩……也是。
-129,,<span class='scene-font-katari'>オイゲンは握られた手を、</span><br><span class='scene-font-katari'>愛おしそうに握り返す。</span>,欧根怀抱着爱意，紧紧地握住了对方的手。
-130,,<span class='scene-font-katari'>しかし、その頭の中には、</span><br><span class='scene-font-katari'>先ほどの黒い騎士の告げた言葉が、</span><br><span class='scene-font-katari'>苛むように反響し続けているのだった。</span>,但是，黑骑士刚才说的话却在他的脑海里不断地回响着。
+129,,<span class='scene-font-katari'>オイゲンは握られた手を、</span><br><span class='scene-font-katari'>愛おしそうに握り返す。</span>,<span class='scene-font-katari'>欧根怀抱着爱意，紧紧地握住了对方的手。</span>
+130,,<span class='scene-font-katari'>しかし、その頭の中には、</span><br><span class='scene-font-katari'>先ほどの黒い騎士の告げた言葉が、</span><br><span class='scene-font-katari'>苛むように反響し続けているのだった。</span>,<span class='scene-font-katari'>但是，黑骑士刚才说的话却在他的脑海里不断地回响着。</span>
 info,,,scene_cp95_q4_s10
