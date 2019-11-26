@@ -1,0 +1,90 @@
+id,name,text,trans
+0-chapter_name,,おねえさんだもん！,我可是姐姐！
+0-synopsis,,ヴァンピィとベスを休ませるため一旦宿に身を寄せた姬塔達。ヴァンピィから話を聞いた一行が銀色の機械人形について街で聞き込みをすると、この街の貴族であるランベルト卿のものだろうという情報を得る。ヴァンピィはヴァイトを助けようと意気込み、一行はランベルト卿の屋敷へと向かうのだった。,为了让斑比与贝斯得到休息，一行人投宿到旅店，听斑比讲了情况之后，一行人打镇上打听消息，于是，据说一名叫做兰贝尔卿的人物拥有着银制机械人偶。斑比决心要去救斑特，一行人走向兰贝尔卿的屋子。
+1,,<span class='scene-font-katari'>傷を負ったヴァンピィとベスを</span><br><span class='scene-font-katari'>休ませるため、</span><br><span class='scene-font-katari'>宿へ身を寄せた姬塔達。</span>,<span class='scene-font-katari'>为了让负伤的斑比</span><br><span class='scene-font-katari'>得到休息，</span><br><span class='scene-font-katari'>一行人到旅店投宿。</span>
+2,,<span class='scene-font-katari'>傷自体はさほど深くはなかったものの、</span><br><span class='scene-font-katari'>体力を大幅に削られたヴァンピィは</span><br><span class='scene-font-katari'>丸一日昏々と眠り続けた。</span>,<span class='scene-font-katari'>虽然受伤情况不重，</span><br><span class='scene-font-katari'>但是体力消耗过度的斑比</span><br><span class='scene-font-katari'>还是整整昏睡了一天。</span>
+3,ヴァンピィ/斑比,……ん……<br>ここ……？,……嗯……<br>这里是……？
+4,ルリア/露莉亚,あっ！<br>ヴァンピィちゃん、<br>目が覚めたんですね！,啊！<br>斑比ちゃん，<br>你醒了！
+5,ヴァンピィ/斑比,ルリア姉ちゃん……？<br>あれ……なんで……,露莉亚姐姐……？<br>嗯……发生什么……
+6,ビィ/碧,大丈夫か？<br>ずーっと眠りっぱなし<br>だったけどよぉ……,没事吧？<br>你一直<br>都昏睡不醒……
+7,,<span class='scene-font-katari'>ぼんやりとした表情で</span><br><span class='scene-font-katari'>周囲を見渡したヴァンピィは</span><br><span class='scene-font-katari'>思い出したように飛び起きる。</span>,<span class='scene-font-katari'>斑比昏昏沉沉地</span><br><span class='scene-font-katari'>打量着四周，突然，</span><br><span class='scene-font-katari'>从床上蹦了起来。</span>
+8,ヴァンピィ/斑比,そうだ！　ヴァイトは！？,对了！　斑特呢！？
+9,ルリア/露莉亚,いえ……それが……,嗯……他……
+10,ビィ/碧,ヴァンピィが寝てる間に<br>探してみたんだけどよ、<br>まだ見つかってねぇんだ……,斑比睡着的时候<br>我们去找了，<br>但是还没找到……
+11,ヴァンピィ/斑比,そっか……,哦……
+12,,<span class='scene-font-katari'>落胆したように肩を落とすヴァンピィに</span><br><span class='scene-font-katari'>声を掛けあぐねていると、</span><br><span class='scene-font-katari'>困った様子のラカムが現れる。</span>,<span class='scene-font-katari'>正在他们不知如何</span><br><span class='scene-font-katari'>与泄气的斑比搭话时，</span><br><span class='scene-font-katari'>一脸忧愁的拉卡姆出现了。</span>
+13,ラカム/拉卡姆,ヴァンピィの様子は……<br>……っと、目が覚めてたのか。<br>体調はどうだ？,斑比怎么样了……<br>……啊，你已经醒了。<br>感觉怎么样？
+14,ヴァンピィ/斑比,だいじょうぶー<br>ヴァンピィちゃんげんきぃ……,还好ー<br>斑比没事……
+15,ラカム/拉卡姆,嘘つけ、まだ顔が青いじゃねぇか。<br>無理はさせたくねぇんだが……,别骗人了，不还是面色铁青吗。<br>虽然我也不想让你不舒服……
+16,ラカム/拉卡姆,お前達に何があったんだ？<br>ヴァイトが捕まったってのも含めて、<br>どういうことか詳しく聞かせてくれ。,但你们是怎么了？<br>快点把事情<br>原原本本地说一遍。
+17,ヴァンピィ/斑比,……うん。<br>あのね、実は……,……嗯。<br>其实……
+18,,<span class='scene-font-katari'>そう言って、ヴァンピィは</span><br><span class='scene-font-katari'>あの夜、自分達に起きた出来事を</span><br><span class='scene-font-katari'>少しずつ語り始める。</span>,<span class='scene-font-katari'>就这样，斑比开始</span><br><span class='scene-font-katari'>一点点讲起那天晚上</span><br><span class='scene-font-katari'>他们遇到的事情。</span>
+23,ラカム/拉卡姆,銀の機械人形を従えた男か……<br>そいつに見覚えは無いのか？,操纵银质机械人偶的男人……<br>你对他有没有印象？
+24,ヴァンピィ/斑比,うん、知らない人。<br>アイツ、ヴァンピィちゃん達のこと<br>昼間の騒ぎで見たって言ってたけど……,嗯，没见过。<br>他说，他是在白天的骚动中，<br>看到我们的……
+25,ラカム/拉卡姆,街の人間か、観光客か……<br>いずれにせよ、早くヴァイトの奴を<br>助けに行かないとマズいな。,镇上的人，还是游客呢……<br>总之，我们得快点<br>把斑特救出来才行。
+26,ヴァンピィ/斑比,…………,…………
+27,ルリア/露莉亚,……ヴァンピィちゃん？<br>大丈夫ですか？<br>顔色がすごく悪いみたいですけど……,……斑比ちゃん？<br>你没事吧？<br>你看起来很不好的样子……
+28,,<span class='scene-font-katari'>姬塔は、震えるヴァンピィの</span><br><span class='scene-font-katari'>両手をそっと握ってやる。</span>,<span class='scene-font-katari'>姬塔轻轻地握住</span><br><span class='scene-font-katari'>斑比颤抖的双手。</span>
+29,,<span class='scene-font-katari'>今にも泣き出しそうなヴァンピィの</span><br><span class='scene-font-katari'>顔を見て、姬塔はラカム達に</span><br><span class='scene-font-katari'>視線を送った。</span>,<span class='scene-font-katari'>看着泫然欲泣的斑比</span><br><span class='scene-font-katari'>姬塔给拉卡姆他们</span><br><span class='scene-font-katari'>递了一个眼神。</span>
+30,ラカム/拉卡姆,……分かった。<br>俺達は街で情報を集めるから、<br>お前はヴァンピィのことを頼む。,……好吧。<br>我们去镇上搜集消息，<br>斑比就拜托你了。
+31,ビィ/碧,任せとけ！<br>オイラ達が絶対そいつのこと<br>見つけてくるからよ！,交给我们吧！<br>我们绝对会<br>找到那个家伙的！
+32,ルリア/露莉亚,はい！<br>だからヴァンピィちゃんは、<br>ゆっくり休んでくださいね。,没错！<br>所以斑比ちゃん，<br>你就在这里好好休息吧。
+34,,<span class='scene-font-katari'>ラカム達が部屋を出ると、</span><br><span class='scene-font-katari'>ヴァンピィは小さく嗚咽をこぼしながら</span><br><span class='scene-font-katari'>不安そうに呟く。</span>,<span class='scene-font-katari'>拉卡姆他们一出去，</span><br><span class='scene-font-katari'>斑比就小声呜咽着，</span><br><span class='scene-font-katari'>流出不安的泪水。</span>
+35,ヴァンピィ/斑比,……ヴァイトね、<br>いっぱい血ぃ吐いてたの。,……斑特他，<br>吐了好多血。
+36,ヴァンピィ/斑比,なのに、ヴァンピィちゃん、<br>置いてきちゃった……<br>戻らなきゃいけなかったのに！,但是，斑比ちゃん，<br>把他丢下了……<br>明明必须要回去的！
+36-sel1_txt,,<span class='scene-font-katari'>ヴァイトは生きてる</span>,<span class='scene-font-katari'>斑特还活着/span>
+37,,<span class='scene-font-katari'>姬塔は、</span><br><span class='scene-font-katari'>目にいっぱいの涙を溜めるヴァンピィと</span><br><span class='scene-font-katari'>視線を合わせ力強く言い切った。</span>,<span class='scene-font-katari'>姬塔，</span><br><span class='scene-font-katari'>看着斑比充满泪水的双眼，</span><br><span class='scene-font-katari'>坚定地说道。</span>
+38,ヴァンピィ/斑比,ほんと……？<br>信じていいの？,真的……？<br>我可以相信你吗？
+39,,<span class='scene-font-katari'>ヴァンピィに視線を合わせたまま、</span><br><span class='scene-font-katari'>深く頷く姬塔。</span>,<span class='scene-font-katari'>姬塔的视线一点也没有偏离，</span><br><span class='scene-font-katari'>她点了点头。</span>
+40,,<span class='scene-font-katari'>すると、耐えかねたように</span><br><span class='scene-font-katari'>ヴァンピィの両目から涙が溢れる。</span>,<span class='scene-font-katari'>于是，斑比的</span><br><span class='scene-font-katari'>泪水，唰地，从眼眶奔出。</span>
+41,ヴァンピィ/斑比,うん……うん……っ！<br>ぜったいぜったい、<br>ヴァイトは生きてる！,嗯……嗯……！<br>斑特他，绝对，绝对<br>还活着！
+42,ヴァンピィ/斑比,ヴァンピィちゃんを<br>置いていなくなるなんて、<br>許さないんだから……！,想撇下斑比ちゃん<br>一个人，<br>这种事我绝对不允许……！
+44,,<span class='scene-font-katari'>姬塔に縋りつき</span><br><span class='scene-font-katari'>しばらく泣きじゃくったヴァンピィは</span><br><span class='scene-font-katari'>ゆっくりと顔を上げる。</span>,<span class='scene-font-katari'>依偎在姬塔怀里</span><br><span class='scene-font-katari'>稍微哭了一会儿之后，</span><br><span class='scene-font-katari'>斑比慢慢地扬起脸。</span>
+45,ヴァンピィ/斑比,……えへへ。<br>ありがと、けんぞくぅ。,……嘿嘿。<br>谢谢你，眷属。
+46,ヴァンピィ/斑比,けんぞくぅのおかげで、<br>ちょっぴりげんきぃ出たよ。,因为眷属，<br>我稍微打起点精神了。
+47,ヴァンピィ/斑比,あのね、けんぞくぅがいてくれれば、<br>ヴァンピィちゃん、<br>なんでもできる気がするの。,有眷属在我身边的话，<br>斑比ちゃん，<br>就什么都能做到。
+48,,<span class='scene-font-katari'>そこでひとつ息を吸ったヴァンピィは、</span><br><span class='scene-font-katari'>真剣な表情で姬塔を見る。</span>,<span class='scene-font-katari'>深深地吸了一口气后，</span><br><span class='scene-font-katari'>斑比认真地看着姬塔。</span>
+49,ヴァンピィ/斑比,……けんぞくぅ、お願い。<br>ヴァイトを助けるために、<br>力を貸して。,……眷属，拜托了。<br>助我一臂之力，<br>救出斑特。
+50,,<span class='scene-font-katari'>ヴァンピィのお願いに、</span><br><span class='scene-font-katari'>力強く頷く姬塔。</span>,<span class='scene-font-katari'>面对斑比的请求，</span><br><span class='scene-font-katari'>姬塔自然不会拒绝。</span>
+51,,<span class='scene-font-katari'>その頼もしい双眸に</span><br><span class='scene-font-katari'>ヴァンピィはようやく安堵し、</span><br><span class='scene-font-katari'>笑みを浮かべるのだった。</span>,<span class='scene-font-katari'>看着姬塔的双眼，</span><br><span class='scene-font-katari'>斑比终于安下心来，</span><br><span class='scene-font-katari'>浮出笑容。</span>
+56,,<span class='scene-font-katari'>その頃、ラカム、ビィ、ルリアは</span><br><span class='scene-font-katari'>ヴァンピィから得た情報を元に</span><br><span class='scene-font-katari'>街で人々に聞き込みをしていた。</span>,<span class='scene-font-katari'>此时二代拉卡姆，碧，露莉亚</span><br><span class='scene-font-katari'>正带着从斑比口中得到的情报，</span><br><span class='scene-font-katari'>走上街头。</span>
+57,露天商,おや、兄さん達。<br>何か探し物かい？,哎，小哥们。<br>在找东西吗？
+58,ラカム/拉卡姆,ああ、ちょいとな。,嗯，有点事。
+59,ラカム/拉卡姆,おっさん。<br>銀色の機械人形ってヤツに<br>心当たりはないか？,大叔。<br>你有没有听说过<br>银色机械人偶？
+60,露天商,銀の？<br>ああ、それならランベルト卿の<br>コレクションじゃないか？,银的？<br>啊，那不是兰贝尔卿<br>的收藏品吗？
+61,ラカム/拉卡姆,ランベルト卿？<br>この街の貴族か？,兰贝尔卿？<br>镇上的贵族吗？
+67,,<span class='scene-font-katari'>露天商の話によれば、その貴族は</span><br><span class='scene-font-katari'>商人達の間で一時期話題となった</span><br><span class='scene-font-katari'>蒐集家だった。</span>,<span class='scene-font-katari'>据露天商人的话，</span><br><span class='scene-font-katari'>这位贵族就是一时间风靡商家间的</span><br><span class='scene-font-katari'>收藏家。</span>
+68,,<span class='scene-font-katari'>稀少な標本や剥製を好む蒐集家として</span><br><span class='scene-font-katari'>知られていたランベルト卿だったが、</span><br><span class='scene-font-katari'>最近は銀製品ばかり集めていたという。</span>,<span class='scene-font-katari'>一贯以收集稀有品与标本著名</span><br><span class='scene-font-katari'>的兰贝尔卿，</span><br><span class='scene-font-katari'>最近却热衷于收集银制品。</span>
+69,露天商,銀で出来た物は何でも……<br>それこそガラクタなんかも<br>大枚をはたいて集めてたって話でね。,只要是银做的什么都收……<br>他连废品<br>都一个也不放过啊。
+70,露天商,今じゃ、この街の銀製品は<br>全てランベルト卿のコレクションだと<br>言われるくらいさ。,可以说，<br>镇子上所有的银制品，<br>都已经是兰贝尔卿的收藏了。
+71,ラカム/拉卡姆,……なるほど。<br>ってことは、その貴族が<br>何か関係してる可能性が高いな。,……原来如此。<br>也就是说，这位贵族的嫌疑<br>很高啊。
+72,ビィ/碧,なぁおっちゃん、<br>そのランベルトってヤツの屋敷は<br>どこにあるんだ？,大叔啊，<br>那个兰贝尔卿的家<br>在哪里啊？
+73,露天商,ああ、街道の横に森があるだろう？<br>その中さ。,啊，在镇旁不是有森林吗？<br>就在里面。
+74,露天商,あの森一帯はランベルト卿の<br>土地だからね。林道から入れば<br>真っ直ぐ屋敷に行けるはずだよ。,那片森林是兰贝尔卿的地方，<br>从林道往里的话<br>应该直接就能到了
+75,ルリア/露莉亚,分かりました！<br>おじさん、ありがとうございます！,好的！<br>大叔，谢谢了！
+81,,<span class='scene-font-katari'>一度宿へと戻ったラカム達は、</span><br><span class='scene-font-katari'>早速ヴァンピィと姬塔に</span><br><span class='scene-font-katari'>露天商から得た情報を共有する。</span>,<span class='scene-font-katari'>回到旅店的拉卡姆他们，</span><br><span class='scene-font-katari'>立刻和姬塔，斑比</span><br><span class='scene-font-katari'>说了从露天商那里得到的情报。</span>
+82,ヴァンピィ/斑比,だからあの人、ヴァンピィちゃん達を<br>あんなに速く追い掛けて来れたんだ……,怪不得那个人，<br>这么快就追到我们了……
+83,ラカム/拉卡姆,森の中に屋敷を構えてんなら、<br>先回りして追い詰めることも<br>不可能じゃないだろうな。,既然他住在森林里，<br>那迂回堵截你们，<br>也不是不可能。
+84,ヴァンピィ/斑比,……行こう、けんぞくぅ。<br>ヴァイトを助けなきゃ。,……走吧，眷属。<br>我们得把斑特救出来才行。
+85,ルリア/露莉亚,でも……ヴァンピィちゃん、<br>身体はもう大丈夫なんですか？,但是……斑比ちゃん，<br>身体好了吗？
+86,ビィ/碧,まだ顔色も良くねぇみたいだし、<br>オイラ達に任せて<br>休んでたほうがいいんじゃねぇか？,看起来你脸色还不是很好，<br>这件事就交给我们，<br>你还是继续休息比较好吧？
+87,ヴァンピィ/斑比,やだ！<br>ヴァンピィちゃんも一緒に行くもん！,不！<br>斑比ちゃん也要一起去！
+88,ヴァンピィ/斑比,だって、ヴァイトが<br>捕まっちゃったのはヴァンピィちゃんを<br>守ってくれたからだし……,斑特被抓，<br>全是因为要保护斑比ちゃん……
+89,ヴァンピィ/斑比,だから、ヴァンピィちゃんが<br>助けなきゃダメなのっ！,所以，斑比ちゃん怎能<br>不去救他！
+90,ラカム/拉卡姆,……って言ってるけどよ。<br>姬塔はどう思う？,……就算你这么说，<br>姬塔你怎么看？
+90-sel1_txt,,<span class='scene-font-katari'>一緒に行こう</span>,<span class='scene-font-katari'>一起去</span>
+90-sel2_txt,,<span class='scene-font-katari'>休んでいたほうがいい</span>,<span class='scene-font-katari'>还是休息比较好</span>
+91,ラカム/拉卡姆,ま、姬塔がそう言うなら<br>仕方ねぇよな。 <br>,唉，姬塔都这么说了，<br>那就这样吧。 <br>
+92,ヴァンピィ/斑比,ヴァンピィちゃん、もう平気だもん！<br>ダメって言ってもついていくからね！,斑比ちゃん，已经没事了！<br>就算你说不行我也要去！
+93,ラカム/拉卡姆,なぁ、姬塔。<br>コイツ、置いて行っても<br>意地でもついて来るつもりだぞ。 <br>,哎，姬塔。<br>这家伙就算丢下她，<br>也会跟过来的。 <br>
+94,ラカム/拉卡姆,それなら最初から、<br>一緒に連れて行ったほうが<br>安全じゃねぇか？,既然如此不如，<br>一开始就带上她，<br>更安全一些吧？
+95,,<span class='scene-font-katari'>ラカムの言葉に、</span><br><span class='scene-font-katari'>姬塔は少し考えた後</span><br><span class='scene-font-katari'>仕方ないと頷いた。</span>,<span class='scene-font-katari'>听了拉卡姆的话，</span><br><span class='scene-font-katari'>稍微想了一会儿后，</span><br><span class='scene-font-katari'>姬塔点了点头。</span>
+96,ラカム/拉卡姆,しかし、用心しとけよ。<br>相手はお前のことも<br>狙ってたわけだからな。,但是，自己要注意啊。<br>对手可是<br>连你也想掳走啊。
+97,ビィ/碧,もし、ヴァンピィが狙われたら<br>その時は頼むぜ、姬塔！,到时候发生了什么事的话，<br>就拜托你了，姬塔！
+98,ルリア/露莉亚,はい！<br>私達みんなで、ヴァイトさんを<br>助けましょう！,嗯！<br>我们一起，去救斑特吧！
+99,ベス,ぎゃうぎゃーう！,嘎ー嘎！
+100,ヴァンピィ/斑比,うん！<br>みんな、ありがとう！,嗯！<br>谢谢大家！
+101,ヴァンピィ/斑比,……待っててね、ヴァイト。<br>すぐに助けてあげるから……！,……等着我，斑特。<br>马上就救你出来……！
+102,,<span class='scene-font-katari'>こうして一行は、ヴァイトを救うべく</span><br><span class='scene-font-katari'>ランベルト卿の屋敷があるという</span><br><span class='scene-font-katari'>森へと向かうのだった。</span>,<span class='scene-font-katari'>就这样，为了救出斑特，</span><br><span class='scene-font-katari'>一行人前往兰贝尔卿所在的森林。。</span>
+info,,,scene_ult_chr194_ep2_q1_s10
+麻友桑的话筒,,,
