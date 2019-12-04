@@ -49,7 +49,9 @@ const build = async function (type = '') {
     file: `./dist/blhxfy/extension${type ? '.' + type : ''}.user.js`,
     format: 'iife',
     name: 'blhxfyex',
-    banner: banner
+    banner: banner,
+    intro: `const DEV = ${process.env.DEV ? true : false};
+    const LOCAL_HOST = ${process.env.LOCAL_HOST ? true : false};`
   })
 }
 
@@ -58,8 +60,10 @@ const start = async () => {
   await fse.emptyDir('./dist/')
   console.log('building userscript...')
   await build()
-  await build('es5')
-  await build('ios')
+  if (!process.env.DEV) {
+    await build('es5')
+    await build('ios')
+  }
 }
 
 start()

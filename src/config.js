@@ -39,6 +39,9 @@ const getLocalConfig = () => {
   if (isDomain(origin)) {
     config.origin = origin.trim()
   }
+  if (LOCAL_HOST) {
+    config.origin = 'http://127.0.0.1:15945'
+  }
   const keys = [
     'autoDownload', 'bottomToolbar', 'displayName', 'removeScroller', 'hideSidebar', 'originText',
     'transJa', 'transEn', 'keepBgm', 'font', 'transApi', 'fontBold', 'plainText', 'battleTrans'
