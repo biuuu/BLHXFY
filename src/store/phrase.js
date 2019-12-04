@@ -1,4 +1,5 @@
 import fetchData from '../fetch'
+import { getLocalData, setLocalData } from './local-data'
 import parseCsv from '../utils/parseCsv'
 import { trim } from '../utils'
 import filter from '../utils/XSSFilter'
@@ -8,7 +9,11 @@ let loaded = false
 
 const getPhrase = async () => {
   if (!loaded) {
-    const csv = await fetchData('/blhxfy/data/phrase.csv')
+    let csv = await getLocalData('phrase')
+    if (!csv) {
+      csv = await fetchData('/blhxfy/data/phrase.csv')
+      setLocalData('phrase', csv)
+    }
     const list = parseCsv(csv)
     list.forEach(item => {
       const text = trim(item.text)
