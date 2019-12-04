@@ -1,0 +1,69 @@
+id,name,text,trans
+0-chapter_name,,踊り狂う風雪,狂舞的风雪
+0-synopsis,,ノース・ヴァストに積み荷を届けにきた姬塔一行は、集落の少年の道案内で集落までの近道を進んでいたところだった。突然の荒天によって離れ離れになる中、突風に煽られた少年がクレバスに落下し、身を挺して少年を落下の衝撃から護った姬塔も満身創痍となってしまう。こうして姬塔と少年は、クレバスの底で仲間の救助を待つのだった。,将货物搬运至北西的姬塔一行人在集落少年的带领下走着近路。但是突然变天同伴四下分散，少年被猛风吹中掉下冰缝，为了保护少年免受掉落冲击挺身保护的姬塔变得满身疮痍。然后少年与姬塔在冰缝下等着同伴的救援。
+1,,<span class='scene-font-katari'>時は、ほんの少し前に遡る──</span>,<span class='scene-font-katari'>稍稍将时间倒推回去──</span>
+2,,<span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>ノース・ヴァストの地下集落に</span><br><span class='scene-font-katari'>積み荷を運ぶ為、極寒の地に上陸した。</span>,<span class='scene-font-katari'>姬塔一行人，</span><br><span class='scene-font-katari'>为了将货物搬到北西的地下部落那里，</span><br><span class='scene-font-katari'>登上了极寒之地。</span>
+3,,<span class='scene-font-katari'>晴れ渡る蒼空に穏やかな風。</span><br><span class='scene-font-katari'>寒くはあるが澄んだ空気が心地よく、</span><br><span class='scene-font-katari'>姬塔一行は胸を撫で下ろす。</span>,<span class='scene-font-katari'>万里无云的蓝天和平稳的风。</span><br><span class='scene-font-katari'>虽然很冷但是空气清新很舒服，</span><br><span class='scene-font-katari'>姬塔一行人感到安心。</span>
+4,ビィ/碧,いやぁ助かったぜ。<br>吹雪だったら、<br>積み荷を運ぶのにも一苦労だもんな！,这还真是太好了。<br>要是暴风雪的话，<br>搬货物有的累了！
+5,ルリア/露莉亚,ふふっ、そうですね。,呵呵，是这样呢。
+6,ルリア/露莉亚,ん？　あれ……<br>こっちに誰か来ます。,嗯？　什么……<br>那里有谁过来了。
+7,,<span class='scene-font-katari'>ルリアが指差した方角から</span><br><span class='scene-font-katari'>ひとりの少年が駆けてくるのが見える。</span>,<span class='scene-font-katari'>沿着露莉亚所指的方向，</span><br><span class='scene-font-katari'>可以看到有一个少年正在奔过来。</span>
+10,少年,騎空士さん、こんにちはー！<br>荷物を運んできてくれてありがとう！,骑空士，你们好ー！<br>谢谢你们搬来了货物！
+11,ルリア/露莉亚,こんにちは！<br>あの、もしかして……<br>私達を迎えにきてくれたんですか？,你好！<br>那个，难道……<br>是来迎接我们的吗？
+12,少年,うん！<br>天気が下り坂になりそうだったから、<br>近道を教えてあげようと思って！,嗯！<br>天气要变差了，<br>想着要告诉你们近路！
+13,ビィ/碧,下り坂？<br>こんなに晴れてるのにか？,变差？<br>明明还是大晴天？
+14,少年,晴れてると思ったら雪が降るなんて<br>この辺ではしょっちゅうだよ。,想着还是晴天结果就开始下雪了<br>这一带经常这样。
+15,グリームニル,ふむ、確かにそのようだ……<br>風の元素も何やらざわめいている。<br>急いだ方がいいかもしれん。,嗯，好像是这样……<br>风元素也有种喧嚣的感觉。<br>感觉行动起来比较好。
+16,ビィ/碧,へぇ、そんなこともわかるのか！,诶，这种事情也能知道的吗！
+17,グリームニル,フッ、赤き竜よ……<br>俺を誰だと思っている？,呵，赤龙……<br>你以为我是谁？
+18,グリームニル,我こそは軍神！<br>踊り狂う暴──って、あれ？,在下军神！<br>狂舞的暴──，诶？
+19,,<span class='scene-font-katari'>グリームニルが周囲を見渡すと、</span><br><span class='scene-font-katari'>姬塔一行は</span><br><span class='scene-font-katari'>既に歩き出していた。</span>,<span class='scene-font-katari'>格里姆尼尔看向四周，</span><br><span class='scene-font-katari'>姬塔一行人</span><br><span class='scene-font-katari'>已经走远了。</span>
+20,ビィ/碧,暴風の兄ちゃん、何してんだ？<br>早くこいよー！<br>置いてっちまうぞー！,暴风小哥，你在做啥？<br>赶紧过来ー！<br>不然要被一个人丢下了ー！
+21,グリームニル,ちょ、ちょっと！<br>待ってくれよー！,等，等等！<br>等等啊ー！
+22,,<span class='scene-font-katari'>こうして姬塔一行は</span><br><span class='scene-font-katari'>少年の道案内により、</span><br><span class='scene-font-katari'>地下集落への近道を急ぐのだった。</span>,<span class='scene-font-katari'>姬塔一行人</span><br><span class='scene-font-katari'>跟着少年快步走在</span><br><span class='scene-font-katari'>通往地下部落的近路上。</span>
+28,,<span class='scene-font-katari'>それから暫くの間、</span><br><span class='scene-font-katari'>姬塔一行は</span><br><span class='scene-font-katari'>新雪が残る険しい山道を歩き続ける。</span>,<span class='scene-font-katari'>姬塔一行人在</span><br><span class='scene-font-katari'>积着刚下的雪的山路上</span><br><span class='scene-font-katari'>一直走着。</span>
+29,,<span class='scene-font-katari'>その途中、ルリアが雪に</span><br><span class='scene-font-katari'>足を滑らせると、姬塔は</span><br><span class='scene-font-katari'>すぐさまその身体を抱き留めた。</span>,<span class='scene-font-katari'>途中，在露莉亚踩雪上</span><br><span class='scene-font-katari'>快要滑倒的时候</span><br><span class='scene-font-katari'>姬塔马上抱住了她。</span>
+30,ルリア/露莉亚,姬塔、ありがとう……！,姬塔，谢谢……！
+31,少年,ここから先はクレバスもあるので<br>気をつけて進んでね！,这前面有冰缝<br>走的时候要小心点！
+32,ビィ/碧,くればす……ってなんだ？,冰缝……是啥？
+33,少年,うんと……<br>凍った地面にできた、<br>裂け目みたいなもんかな。,嗯……<br>在冻上的地面出现的，<br>裂缝那样的东西。
+34,少年,場所によっては光も届かないぐらい<br>すっごく深いんだって。,有些冰缝相当深<br>连光都透不进的程度。
+35,ルリア/露莉亚,はわわ……,啊……
+36,ビィ/碧,まぁでもこの天気だし、<br>しっかり足元を確認して進もうぜ。<br>そうすりゃ落っこちることもねーしな！,嘛反正是好天气，<br>好好看着脚下再前进吧。<br>这样也不会有掉下去的事情了！
+37,,<span class='scene-font-katari'>そう気軽に話していたのも束の間──</span>,<span class='scene-font-katari'>在轻松的交谈的时候突然──</span>
+38,,<span class='scene-font-katari'>つい先ほどまで澄み渡っていた蒼空は</span><br><span class='scene-font-katari'>瞬く間に暗雲に覆われ、</span><br><span class='scene-font-katari'>凍てつくような山颪が吹き荒ぶ。</span>,<span class='scene-font-katari'>刚才还是万里无云的蓝天</span><br><span class='scene-font-katari'>瞬间被乌云覆盖，</span><br><span class='scene-font-katari'>吹起了像是要冻结万物的山风。</span>
+39,,<span class='scene-font-katari'>そして気づけば風は雪を伴い、</span><br><span class='scene-font-katari'>猛吹雪となって</span><br><span class='scene-font-katari'>姬塔一行に襲い掛かる。</span>,<span class='scene-font-katari'>然后意识过来已经是风带着雪，</span><br><span class='scene-font-katari'>变成了暴风雪</span><br><span class='scene-font-katari'>向姬塔一行袭来。</span>
+44,ルリア/露莉亚,きゃあ！,啊！
+46,ビィ/碧,大丈夫か、ルリア！？,不要紧吗，露莉亚！？
+47,ルリア/露莉亚,はい、なんとか……,嗯，没事……
+48,グリームニル,吹き荒ぶ白銀、爪牙の如し……<br>だが、我が颶風もまた……,呼啸的白银，如同爪牙般……<br>但是，我的飓风还……
+49,グリームニル,<span class='scene-font-4'>……っはくしょん！</span>,<span class='scene-font-4'>……阿嚏！</span>
+50,グリームニル,うぅー！　寒いな！？<br>みんな大丈夫かー！？,呜ー！　好冷啊！？<br>大家不要紧吗ー！？
+51,ビィ/碧,天候が変わりやすいとは<br>聞いてたけどよぉ、<br>まさかこんな急に吹雪になるなんてな。,虽然听说了<br>这里天气多变<br>但没想到竟然能突然变成暴风雪。
+52,,<span class='scene-font-katari'>激しさを増していく吹雪によって、</span><br><span class='scene-font-katari'>姬塔一行は</span><br><span class='scene-font-katari'>視界を遮られていく。</span>,<span class='scene-font-katari'>因为不断变猛烈的暴风雪，</span><br><span class='scene-font-katari'>姬塔一行人</span><br><span class='scene-font-katari'>视线被阻断了。</span>
+53,,<span class='scene-font-katari'>更に辺り一面が雪化粧となった大地は</span><br><span class='scene-font-katari'>光の乱反射により目を眩ませ、</span><br><span class='scene-font-katari'>方向感覚さえも狂わせる。</span>,<span class='scene-font-katari'>而且一边是覆盖着雪的地面</span><br><span class='scene-font-katari'>在光的漫反射下更加让人眼花，</span><br><span class='scene-font-katari'>失去了对方向的把握。</span>
+60,,<span class='scene-font-katari'>所謂、ホワイトアウト現象である。</span>,<span class='scene-font-katari'>这就是乳白天空现象。</span>
+61,,<span class='scene-font-katari'>姬塔はすぐに周囲に視線を</span><br><span class='scene-font-katari'>走らせるも、仲間の姿は猛吹雪に</span><br><span class='scene-font-katari'>溶け込んでしまい確認できない。</span>,<span class='scene-font-katari'>姬塔迅速看向了周围</span><br><span class='scene-font-katari'>但是同伴的身影已经</span><br><span class='scene-font-katari'>消失在了暴风雪之中。</span>
+62,,<span class='scene-font-katari'>このままへたに動けばバラバラに</span><br><span class='scene-font-katari'>なってしまうかもしれないと考え、</span><br><span class='scene-font-katari'>立ち止まったその時──</span>,<span class='scene-font-katari'>思考着这样行动的话</span><br><span class='scene-font-katari'>会让大家变得更分散，</span><br><span class='scene-font-katari'>停在那里的时候──</span>
+63,少年の声,うわああ！,呜啊啊啊！
+64,,<span class='scene-font-katari'>唸る暴風の中、</span><br><span class='scene-font-katari'>少年の悲鳴が微かに聞こえた。</span>,<span class='scene-font-katari'>在咆哮的暴风中，</span><br><span class='scene-font-katari'>隐约听到了少年的惨叫。</span>
+64-sel1_txt,,<span class='scene-font-katari'>……！？</span>,<span class='scene-font-katari'>……！？</span>
+65,,<span class='scene-font-katari'>只事じゃないと直感した姬塔は</span><br><span class='scene-font-katari'>視界を遮る猛吹雪の中、その声の方に</span><br><span class='scene-font-katari'>向かって全力で駆け出す。</span>,<span class='scene-font-katari'>感觉到这非常不妙的姬塔</span><br><span class='scene-font-katari'>在遮挡视线的暴雪中</span><br><span class='scene-font-katari'>向发声源赶去。</span>
+71,,<span class='scene-font-katari'>そこで姬塔が目にしたのは、</span><br><span class='scene-font-katari'>クレバスに落下しまいと、</span><br><span class='scene-font-katari'>木の根に必死に掴る少年の姿だった。</span>,<span class='scene-font-katari'>然后姬塔所看到的是</span><br><span class='scene-font-katari'>拼命抱着树根，</span><br><span class='scene-font-katari'>快要掉下冰缝的少年。</span>
+72,少年,き、騎空士さん……,骑，骑空士……
+72-sel1_txt,,<span class='scene-font-katari'>いま助ける！</span>,<span class='scene-font-katari'>现在就来帮你！</span>
+73,,<span class='scene-font-katari'>少年の身体を引き上げようと</span><br><span class='scene-font-katari'>姬塔がクレバスに向かった</span><br><span class='scene-font-katari'>その瞬間、突風が吹いた。</span>,<span class='scene-font-katari'>就在姬塔想要走向冰缝那</span><br><span class='scene-font-katari'>把少年拉上来的时候</span><br><span class='scene-font-katari'>突然吹起了一阵风。</span>
+75,少年,<span class='scene-font-4'>うわあああ！！</span>,<span class='scene-font-4'>呜啊啊啊！！</span>
+77,,<span class='scene-font-katari'>運悪く突風に煽られた少年は</span><br><span class='scene-font-katari'>姬塔の目の前で、</span><br><span class='scene-font-katari'>クレバスに落下していく。</span>,<span class='scene-font-katari'>运气不好被风袭中的少年</span><br><span class='scene-font-katari'>在姬塔眼前</span><br><span class='scene-font-katari'>掉下了冰缝。</span>
+78,,<span class='scene-font-katari'>刹那──</span>,<span class='scene-font-katari'>那瞬间──</span>
+80,,<span class='scene-font-katari'>姬塔は</span><br><span class='scene-font-katari'>少年を追いかけるかのように</span><br><span class='scene-font-katari'>クレバスへと飛び込んだ。</span>,<span class='scene-font-katari'>姬塔</span><br><span class='scene-font-katari'>像是要追上少年似的</span><br><span class='scene-font-katari'>跳进了冰缝。</span>
+81,,<span class='scene-font-katari'>それは、少年を助けたいという、</span><br><span class='scene-font-katari'>その強い想いからの行動だった。</span>,<span class='scene-font-katari'>这是为了帮助少年这一心情下</span><br><span class='scene-font-katari'>情不自禁的行动。</span>
+84,少年,……ううう、ごめんなさい。<br>クレバスに注意しろって言ったのは<br>僕なのに……,……呜呜呜，对不起。<br>明明我<br>自己说了要注意冰缝……
+85,,<span class='scene-font-katari'>落下の最中、姬塔は</span><br><span class='scene-font-katari'>少年の腕を掴み抱き寄せると、</span><br><span class='scene-font-katari'>身を挺して衝撃から護り抜いた。</span>,<span class='scene-font-katari'>姬塔在下坠的时候</span><br><span class='scene-font-katari'>抓住了少年的手腕抱紧了他</span><br><span class='scene-font-katari'>用自己的身体保护他免受冲击。</span>
+86,,<span class='scene-font-katari'>だがその結果──</span>,<span class='scene-font-katari'>但是作为结果──</span>
+87,,<span class='scene-font-katari'>姬塔は岩壁に</span><br><span class='scene-font-katari'>身体のあちこちを打ち付けてしまい、</span><br><span class='scene-font-katari'>満身創痍となってしまう。</span>,<span class='scene-font-katari'>姬塔的身体在岩壁上</span><br><span class='scene-font-katari'>不停碰撞，</span><br><span class='scene-font-katari'>变得满身疮痍。</span>
+88,,<span class='scene-font-katari'>それでも姬塔は</span><br><span class='scene-font-katari'>怪我ひとつない少年を見て、</span><br><span class='scene-font-katari'>安堵の溜息を漏らす。</span>,<span class='scene-font-katari'>但是这样姬塔还是</span><br><span class='scene-font-katari'>看着没有受伤的姬塔，</span><br><span class='scene-font-katari'>发出了安心的叹气。</span>
+88-sel1_txt,,<span class='scene-font-katari'>大丈夫、仲間が助けにきてくれる</span>,<span class='scene-font-katari'>没关系，同伴会过来救我们的</span>
+89,少年,騎空士さん……,骑空士……
+90,,<span class='scene-font-katari'>こうして姬塔と少年は</span><br><span class='scene-font-katari'>深いクレバスの中で、</span><br><span class='scene-font-katari'>仲間を信じ救助を待つのだった。</span>,<span class='scene-font-katari'>就这样姬塔与少年</span><br><span class='scene-font-katari'>在深不见底的冰缝下，</span><br><span class='scene-font-katari'>相信并等待着同伴的救援。</span>
+info,,,scene_chr535_q2_s10

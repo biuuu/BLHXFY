@@ -1,0 +1,90 @@
+id,name,text,trans
+0-chapter_name,,おねえさんだもん！,我可是姐姐！
+0-synopsis,,ランベルト卿の屋敷へと向かう道で機械人形を見つけ、ランベルト卿が犯人であると確信を持つ一行。ヴァイトの気配を感じるというヴァンピィに従い、一行は屋敷の裏手にある離れ家に向かう。隠し通路から地下へ降りるとそこにはヴァンパイアの剥製が並んでいた。一行が戦慄していると警報が鳴り響き、警備兵達が現れるのだった。,在前往兰贝尔卿家的路上，一行人发现了机械人偶，这更让他们确信兰贝尔卿就是幕后黑手。听从能感应到斑特气息的斑比的指示，一行人来到远离主屋的别栋。在暗道中，陈列着吸血鬼的标本。一行人正血液倒流的时候，警报响了，卫兵将他们团团围住。
+1,,<span class='scene-font-katari'>姬塔一行が</span><br><span class='scene-font-katari'>街で情報収集をしていた頃。</span>,<span class='scene-font-katari'>在姬塔一行人</span><br><span class='scene-font-katari'>在镇山收集情报的时候。</span>
+2,ヴァイト/斑特,……う……,……唔……
+3,ヴァイト/斑特,……ここは……？<br>くっ……！,……这里是……？<br>咳……！
+4,,<span class='scene-font-katari'>見知らぬ一室で目を醒ました</span><br><span class='scene-font-katari'>ヴァイトは、身体を起こした瞬間、</span><br><span class='scene-font-katari'>奔った激痛に顔を顰めた。</span>,<span class='scene-font-katari'>斑特在一个陌生房间中醒来，</span><br><span class='scene-font-katari'>在他起身的一刹那，</span><br><span class='scene-font-katari'>刺痛像电流一般遍布全身。</span>
+5,ヴァイト/斑特,傷は……まだ塞がってないか。,伤……还没好啊。
+6,ヴァイト/斑特,<span class='scene-font-kokoro'>（ヴァンピィは無事に</span><br><span class='scene-font-kokoro'>姬塔サン達のところまで</span><br><span class='scene-font-kokoro'>逃げられただろうか……）</span>,<span class='scene-font-kokoro'>（也不知道斑比</span><br><span class='scene-font-kokoro'>有没有安全逃到</span><br><span class='scene-font-kokoro'>姬塔那里……）</span>
+7,,<span class='scene-font-katari'>痛む傷を庇いながら立ち上がった</span><br><span class='scene-font-katari'>ヴァイトは一通り自分の身体を見渡し、</span><br><span class='scene-font-katari'>拘束具の類がないことを知る。</span>,<span class='scene-font-katari'>捂着伤口，斑特站起来</span><br><span class='scene-font-katari'>环视一周，</span><br><span class='scene-font-katari'>发现自己身上并没有枷锁。</span>
+8,ヴァイト/斑特,……傷が深いから<br>拘束する必要もないと思われたのか。<br>舐められたものだな。,……他是觉得我受伤严重，<br>没有必要拘束起来吗。<br>真是门缝里看人。
+9,,<span class='scene-font-katari'>そう呟き、痛む身体を引きずりながら</span><br><span class='scene-font-katari'>ヴァイトは部屋を出る。</span>,<span class='scene-font-katari'>小声嘟囔的斑特，拖着受伤的身体，</span><br><span class='scene-font-katari'>走出屋外。</span>
+13,ヴァイト/斑特,<span class='scene-font-kokoro'>（ここがあの場所からどれだけ</span><br><span class='scene-font-kokoro'>離れているか分からないが、</span><br><span class='scene-font-kokoro'>外に出れば助けを呼べるはず……）</span>,<span class='scene-font-kokoro'>（也不知道这里</span><br><span class='scene-font-kokoro'>离那里有多远，</span><br><span class='scene-font-kokoro'>但是出去的话应该就能呼救……）</span>
+14,ヴァイト/斑特,う、ぐ……っ！,唔，咳……っ！
+15,,<span class='scene-font-katari'>一番深い腹の傷を庇いながら、</span><br><span class='scene-font-katari'>懸命に進んでいくヴァイト。</span>,<span class='scene-font-katari'>斑特捂着受伤严重的腹部，</span><br><span class='scene-font-katari'>一点一点前进着。</span>
+20,,<span class='scene-font-katari'>すると、少し離れた場所に</span><br><span class='scene-font-katari'>うっすらと人影のようなものが</span><br><span class='scene-font-katari'>あることに気付く。</span>,<span class='scene-font-katari'>忽然，他注意到</span><br><span class='scene-font-katari'>在稍远的地方有一个</span><br><span class='scene-font-katari'>人形的东西。</span>
+21,ヴァイト/斑特,…………！！,…………！！
+22,,<span class='scene-font-katari'>辿りついた場所にあったのは、</span><br><span class='scene-font-katari'>辺りを埋め尽くす程の</span><br><span class='scene-font-katari'>無数の剥製だった。</span>,<span class='scene-font-katari'>那里堆放着的，</span><br><span class='scene-font-katari'>是几乎淹没路面的</span><br><span class='scene-font-katari'>无数标本。</span>
+23,ヴァイト/斑特,なんだ……これ。<br>悪趣味な……,这……什么东西。<br>恶趣味……
+24,ヴァイト/斑特,……ん？,……嗯？
+25,,<span class='scene-font-katari'>ふと、</span><br><span class='scene-font-katari'>その一角に気になるものを見つけ、</span><br><span class='scene-font-katari'>ヴァイトは足を止める。</span>,<span class='scene-font-katari'>突然，</span><br><span class='scene-font-katari'>そ斑特又注意到什么东西，</span><br><span class='scene-font-katari'>他停下脚步。</span>
+26,ヴァイト/斑特,これは……！,这是……！
+27,,<span class='scene-font-katari'>それを目の当たりにした瞬間、</span><br><span class='scene-font-katari'>周囲の警戒も忘れ言葉を失うヴァイト。</span>,<span class='scene-font-katari'>看到那个东西的一瞬间，</span><br><span class='scene-font-katari'>斑特愣住了。</span>
+29,,<span class='scene-font-katari'>背後に気配を感じ、</span><br><span class='scene-font-katari'>慌てて振り向こうとするが──</span>,<span class='scene-font-katari'>当他感到背后的气息，</span><br><span class='scene-font-katari'>慌慌张张回头的时候──</span>
+31,ヴァイト/斑特,がっ……！,啊……！
+33,,<span class='scene-font-katari'>後頭部に響いた衝撃と共に、</span><br><span class='scene-font-katari'>ヴァイトの意識は暗闇へと</span><br><span class='scene-font-katari'>落ちて行ったのだった。</span>,<span class='scene-font-katari'>头被猛打一下，</span><br><span class='scene-font-katari'>他就这样沉入黑暗，</span><br><span class='scene-font-katari'>失去意识。</span>
+38,,<span class='scene-font-katari'>一方、露天商からの情報を元に</span><br><span class='scene-font-katari'>ランベルト卿の屋敷へ向かい、</span><br><span class='scene-font-katari'>林道を進む姬塔一行。</span>,<span class='scene-font-katari'>另一边，姬塔他们根据露天商的消息，</span><br><span class='scene-font-katari'>正行进在通往兰贝尔卿家的林道上。</span>
+40,,<span class='scene-font-katari'>その途中には、</span><br><span class='scene-font-katari'>全身を銀で作られた像のようなものが、</span><br><span class='scene-font-katari'>幾つも置かれていた。</span>,<span class='scene-font-katari'>路上，</span><br><span class='scene-font-katari'>他们看到了几尊，</span><br><span class='scene-font-katari'>银制的雕像。</span>
+41,ヴァンピィ/斑比,これ……<br>ヴァンピィちゃん達を<br>追い掛けてきたヤツ！,这……<br>这就是追我们<br>的家伙！
+42,ベス,ぎゃうぎゃう！,嘎嘎！
+43,ラカム/拉卡姆,となると、だ……<br>ヴァンピィ達を襲った犯人は<br>ランベルト卿で間違いなさそうだな。,这么说……<br>兰贝尔卿就是<br>袭击你们的人了。
+44,ルリア/露莉亚,このまま進んで大丈夫でしょうか？<br>もし、像が急に動き出したら……,我们就这么前进吗？<br>如果，雕像突然动起来的话……
+45,ベス,ぎゃーう、ぎゃうぎゃっぎゃぎゃう、<br>ぎゅるー！,嘎ー，嘎嘎嘎嘎，<br>嘎ー！
+46,ビィ/碧,えっと、動く時はどっかから<br>笛の音みたいなのが聞こえたって<br>言ってるぜ。,嗯，不是说<br>在它们动之前会听到<br>笛子一样的声音吗。
+47,ヴァンピィ/斑比,そういえば、襲われた時も<br>変な音がしてたよーな……,说起来，被袭击的时候，<br>好像也听到了奇怪的声音……
+48,ラカム/拉卡姆,笛の音か……<br>ひとまず何が起きてもいいように<br>剣は構えとけ、姬塔。,笛声……<br>有备无患<br>准备好，姬塔。
+54,,<span class='scene-font-katari'>立ち並ぶ像の前を</span><br><span class='scene-font-katari'>警戒しながら進む一行は、</span><br><span class='scene-font-katari'>やがて古びた大きな屋敷を見つける。</span>,<span class='scene-font-katari'>一边警戒着，</span><br><span class='scene-font-katari'>一行人一边前行，</span><br><span class='scene-font-katari'>终于他们看到了一座古老的房子。</span>
+55,ビィ/碧,ひゃー……<br>でっけぇ屋敷だなぁ……,哇ー……<br>这房子好大……
+56,ルリア/露莉亚,このどこかにヴァイトさんが……,斑特さん就在这里面的某个地方……
+57,,<span class='scene-font-katari'>静まり返った屋敷の門を潜ろうとした</span><br><span class='scene-font-katari'>姬塔の袖が、</span><br><span class='scene-font-katari'>不意に背後から引っ張られる。</span>,<span class='scene-font-katari'>姬塔正准备悄悄潜入的时候，</span><br><span class='scene-font-katari'>衣袖突然被拉住。</span>
+58,ヴァンピィ/斑比,待って、けんぞくぅ！,等一下，眷属！
+59,ヴァンピィ/斑比,お屋敷じゃなくて、<br>あっちのほうから<br>ヴァイトの気配がするの。,不在屋子里，<br>从那边能感受到<br>斑特的气息。
+60,,<span class='scene-font-katari'>ヴァンピィが指し示したのは、</span><br><span class='scene-font-katari'>屋敷の外れへと続く小道の先だった。</span>,<span class='scene-font-katari'>斑比指向的，</span><br><span class='scene-font-katari'>是屋外小路的前方。</span>
+61,ヴァンピィ/斑比,……うん、絶対いる。<br>ヴァンピィちゃんには分かるの。,……没错，就是那里。<br>斑比ちゃん能感觉到。
+62,,<span class='scene-font-katari'>その言葉に頷きを返し、</span><br><span class='scene-font-katari'>姬塔はヴァンピィの示す</span><br><span class='scene-font-katari'>森の奥へと分け入っていく。</span>,<span class='scene-font-katari'>于是一行人，</span><br><span class='scene-font-katari'>朝着斑比所指的方向</span><br><span class='scene-font-katari'>往森林深处走去。</span>
+69,,<span class='scene-font-katari'>やがて辿り着いたのは、</span><br><span class='scene-font-katari'>屋敷の裏手にある離れ家だった。</span>,<span class='scene-font-katari'>在路的尽头，</span><br><span class='scene-font-katari'>是一座远离主屋的别栋。</span>
+70,ヴァンピィ/斑比,うー……<br>ここの下から感じるのに……,嗯……<br>明明感觉就在这下面……
+71,ルリア/露莉亚,うーん……<br>でも、階段も梯子も<br>見当たらないですね……,嗯ー……<br>但是，梯子也好台阶也好<br>都没有看到啊……
+72,ビィ/碧,なぁ！<br>ここ、開くんじゃねぇか？,喂！<br>这里，好像能下去？
+73,,<span class='scene-font-katari'>暖炉の中を探していたビィが、</span><br><span class='scene-font-katari'>床に蓋のような物があるのを見つけ</span><br><span class='scene-font-katari'>声を上げた。</span>,<span class='scene-font-katari'>在暖炉中搜索的碧，</span><br><span class='scene-font-katari'>发现了一个暗门。</span>
+74,ラカム/拉卡姆,うし、ちょっとどいてろ。<br>そらよっと……！,好，你们躲开点。<br>诶嘿哟……！
+78,ルリア/露莉亚,あっ！<br>暖炉の中に階段が……！,啊！<br>暖炉中有楼梯……！
+79,ラカム/拉卡姆,隠し通路ってやつだな。<br>どこに繋がってんだ？,暗道吗。<br>通向哪里啊？
+80,ヴァンピィ/斑比,うん、やっぱりこの先に<br>ヴァイトがいる……！<br>行こう！,嗯，果然斑特就在<br>这前面……！<br>走吧！
+86,警備兵/警卫兵,…………,…………
+87,,<span class='scene-font-katari'>階段を下りた先で警備兵を見つけた</span><br><span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>物陰に身を隠し、息を潜める。</span>,<span class='scene-font-katari'>一行人发现在楼梯下</span><br><span class='scene-font-katari'>有警卫兵，</span><br><span class='scene-font-katari'>于是藏到角落里，收敛气息。</span>
+90,ルリア/露莉亚,ふう……<br>あっちのほうに行ったみたいですね。,呼……<br>看来他们走了。
+91,ラカム/拉卡姆,えらく厳重な警備だな……<br>この先に何かあるってのは、<br>間違いなさそうだぜ。,真是戒备森严……<br>看来前面，<br>的确有什么东西。
+92,ビィ/碧,なぁ、ヴァンピィ。<br>ヴァイトの気配ってのは<br>どっちからしてるんだ？,哎，斑比。<br>斑特的气息<br>从那边传过来的？
+93,ヴァンピィ/斑比,んとねー……<br>こっちかな？,嗯ー……<br>是哪边呢？
+94,,<span class='scene-font-katari'>巡回する警備兵達の目を盗み、</span><br><span class='scene-font-katari'>気配を辿ってヴァイトを探す</span><br><span class='scene-font-katari'>姬塔達。</span>,<span class='scene-font-katari'>绕过卫兵的巡视，</span><br><span class='scene-font-katari'>循着气息走到头的</span><br><span class='scene-font-katari'>一行人。</span>
+99,魔物,────,────
+100,ルリア/露莉亚,きゃあっ！　魔物さん！？,呀啊！　魔物さん！？
+101,ヴァンピィ/斑比,でも、襲ってこないね？,但是，没有攻过来啊？
+102,ラカム/拉卡姆,……いや、コイツは剥製だ。,……不对，这是标本。
+103,ラカム/拉卡姆,つーか、ここにあんのは、<br>全部剥製かよ……,哇，这里的<br>全是标本吗……
+104,,<span class='scene-font-katari'>空間に並べられた</span><br><span class='scene-font-katari'>無数の剥製を横目に</span><br><span class='scene-font-katari'>先へ進んでいく姬塔達。</span>,<span class='scene-font-katari'>侧目看着</span><br><span class='scene-font-katari'>排列着的无数标本</span><br><span class='scene-font-katari'>一行人前进着</span>
+105,ベス,ぎゃう！？,嘎！？
+106,ビィ/碧,ん？<br>何か気になるもんでもあったのか？,嗯？<br>你看到什么了吗？
+107,,<span class='scene-font-katari'>ベスが凝視する一角には、</span><br><span class='scene-font-katari'>他とは明らかに扱いの違う剥製が</span><br><span class='scene-font-katari'>飾られていた。</span>,<span class='scene-font-katari'>贝斯凝视的方向，</span><br><span class='scene-font-katari'>装饰着明显</span><br><span class='scene-font-katari'>待遇不同的标本。</span>
+108,,──……,──……
+109,ラカム/拉卡姆,コイツは……！<br>ヴァンピィ、お前は見るな！,这是……！<br>斑比，别看！
+110,ヴァンピィ/斑比,なによぉ、ダメって言われたら<br>気になるじゃない！,什么啊，你叫我不看<br>我不是更在意了吗！
+111,,<span class='scene-font-katari'>ヴァンピィは忠告を受け流し、</span><br><span class='scene-font-katari'>ラカムの視線の先にあるものを</span><br><span class='scene-font-katari'>覗き込む。</span>,<span class='scene-font-katari'>斑比没有听拉卡姆的话，</span><br><span class='scene-font-katari'>她看向拉卡姆</span><br><span class='scene-font-katari'>的视线前方。</span>
+112,,──……,──……
+113,ヴァンピィ/斑比,……何これ。<br>ヴァンパイア……？,……这是什么。<br>吸血鬼……？
+114,ルリア/露莉亚,あ、あの……<br>これ、作り物……ですよね？,这，这个……<br>是……做出来的吧？
+115,ラカム/拉卡姆,……いや、多分本物だ。,……不是，多半是真的。
+116,,<span class='scene-font-katari'>佇むヴァンパイアの剥製を目にし、</span><br><span class='scene-font-katari'>ヴァンピィは背筋を凍らせる。</span>,<span class='scene-font-katari'>看着这些吸血鬼的标本，</span><br><span class='scene-font-katari'>斑比感到自己的血液冻结。</span>
+117,ヴァンピィ/斑比,もしかして、<br>ヴァイトもこうするつもり……！？,难道说，<br>也打算这么对斑特……！？
+119,,<span class='scene-font-katari'>ヴァンピィの脳裏に</span><br><span class='scene-font-katari'>最悪の想像がよぎった瞬間、</span><br><span class='scene-font-katari'>けたたましい警報が辺りに響く。</span>,<span class='scene-font-katari'>斑比的脑海中</span><br><span class='scene-font-katari'>浮现出最坏的想法，</span><br><span class='scene-font-katari'>正在这时警报响起。</span>
+120,ビィ/碧,な、なんだぁ！？,怎，怎么了！？
+122,警備兵/警卫兵,居たぞ！　侵入者だ！,来人！　有人入侵！
+123,警備兵/警卫兵,あれが例のヴァンパイアだ！<br>捕えろ！,那就是上次的吸血鬼！<br>抓住她！
+124,,<span class='scene-font-katari'>鳴り響く警報を合図に</span><br><span class='scene-font-katari'>大勢の警備兵が</span><br><span class='scene-font-katari'>姬塔達を取り囲む。</span>,<span class='scene-font-katari'>随着响彻屋子的警报，</span><br><span class='scene-font-katari'>众多的卫兵</span><br><span class='scene-font-katari'>将一行人团团围住。</span>
+125,ラカム/拉卡姆,やるしかねぇな……<br>いけるか、姬塔！,箭在弦上，不得不发……<br>能行吗，姬塔！
+126,ヴァンピィ/斑比,ヴァイトをあのヴァンパイアと<br>同じにはさせないんだから！,我不会让你们<br>动斑特一根毫毛！
+127,ヴァンピィ/斑比,けんぞくぅ！<br>早くこいつらやっつけて、<br>ヴァイトを助けに行こう！,眷属！<br>快点把这些家伙收拾掉，<br>去把斑特救出来！
+info,,,scene_ult_chr194_ep2_q2_s20
+麻友桑的话筒,,,

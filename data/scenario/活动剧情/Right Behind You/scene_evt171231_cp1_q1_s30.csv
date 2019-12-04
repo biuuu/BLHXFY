@@ -1,0 +1,52 @@
+id,name,text,trans
+0-chapter_name,,1: Creeping Shadows,偷偷靠近之影
+0-synopsis,,"Zeta and Ilsa defeat Arianensa and are about to recover it, when Vaseraga starts slashing into the automagod's remains using Grynoth. The great scythe essentially consumes Arianensa and becomes an automagod itself. After engulfing the area in flames, it vanishes.",
+1,Ilsa/伊尔莎,"Gun of Arbitration, Nybeth! Show your power!",调停之枪尼巴斯！展现你的力量！
+8,???,...!,...！
+9,,"Light bursts forth from Ilsa's gun, colliding with Arianensa and halting it in its tracks.",光芒从伊尔萨的枪中喷涌而出，随之阿利亚内萨的行动停止了。
+10,Ilsa/伊尔莎,Humph. Drink up Nybeth's power. Won't be long until you're sealed back into your original form.,哼。尝尝尼巴斯的威力吧。就这样把你封印回武器状态吧。
+11,Ilsa/伊尔莎,"Now, Pupper! Slap that impertinent lassy down a peg!",就现在，小崽子！给那个“傲娇丫头”最后一击！
+12,Zeta/泽塔,Spear of Arvess! Show your power!,阿维斯之矛！展现你的力量！
+13,Zeta/泽塔,Haaaah!,哈啊啊啊啊啊！！！
+19,???,Vicdantgiate.,…！@#￥%…&*…
+22,Zeta/泽塔,Huff... Huff...,呼...呼...
+23,Ilsa/伊尔莎,"Nicely done, Pupper.",干得漂亮，小崽子。
+24,Zeta/泽塔,"What's going on? We had our guy cornered, but he was able to awaken his weapon like we can...",...这，这是怎么回事。那个男的好像要唤醒我们的武器似的...
+25,Ilsa/伊尔莎,I wager the Foe have come into possession of weapons similar to ours.,也就是说，<span class='scene-font-spword'>『敵』</span>组织也开始用和我们一样的武器了。
+26,Ilsa/伊尔莎,That isn't the least bit surprising. It's not like the ruins we dug up your spear from are the only ones that exist.,嘛，也不奇怪。你的阿维斯也是从某处遗迹里挖出来的。
+27,Ilsa/伊尔莎,"The Foe came to the same conclusion, simple as that.",<span class='scene-font-spword'>『敵』</span>也使用了同样的方法，就这么简单。
+28,Zeta/泽塔,So that Arianensa weapon thing... It turns into a machine to fight on its own? That's what we're dealing with right now?,这个...阿利亚内萨，就是变成机械来战斗的那种武器吗？
+29,Ilsa/伊尔莎,"Probably. My gun should be able to turn it back into its weapon form, though, now that it's dead.",也许吧。这样的话我的尼巴斯应该能让它们恢复到武器形态。
+30,Ilsa/伊尔莎,"Big as it is, I can still bring it down to size. At least that's one silver lining in this farce.",我的天...这家伙这么大，我们也没办法回收了。
+32,,"She steadies her gun, fires another light beam from the muzzle, and the automaton begins transforming back into its original weapon form.",<span class='scene-font-katari'>说着，伊尔莎举起了枪，一道光从枪口射出，敌人变回到了武器形态。</span>
+33,,But someone else is watching.,<span class='scene-font-katari'>随后...</span>
+34,Vaseraga/巴萨拉卡,...,......
+35,Zeta/泽塔,"Are you hurt, Vaseraga?",巴萨拉卡？你没有受伤吧。
+36,Vaseraga/巴萨拉卡,...!,......！
+38,Zeta/泽塔,...!,！？
+39,Ilsa/伊尔莎,...!,！？
+40,Ilsa/伊尔莎,"Hey! What are you doing? The fight's over! Down, boy!",喂！铁鸡你在做什么！战斗已经结束了！停止攻击！
+41,Vaseraga/巴萨拉卡,...!,......！......！
+42,,Vaseraga continues to swing his scythe at the defunct automaton. The situation is out of control.,<span class='scene-font-katari'>巴萨拉卡继续对着已经不存在的机械挥舞着镰刀。情势开始失去控制。</span>
+43,Ilsa/伊尔莎,What the? His scythe is getting larger with each cut! It's almost as if—,搞什么...！？镰刀每次挥动都在变大，这简直是......
+44,Zeta/泽塔,It's eating the enemy!,它在吞噬...敌人的躯体！
+45,Ilsa/伊尔莎,"If Grynoth's power swells much more, Nybeth's binding ability will be useless!",格罗诺斯的力量在暴涨......尼巴斯的束缚也没有效果！
+46,Ilsa/伊尔莎,"Get back, Pupper!",后退，小崽！
+47,Zeta/泽塔,"Wait, lemme just... Vaseraga!",等等！<br>巴萨拉卡！
+48,Vaseraga/巴萨拉卡,...!,......！
+56,,But Vaseraga can't hear Zeta. His entire being is locked on carving up the wreckage of the automaton with his scythe.,<span class='scene-font-katari'>巴萨拉卡全然不听泽塔。他好像被什么附身了，继续用镰刀刺向机械残骸。</span>
+59,,"Pulsating cracks begin to snake all along Grynoth, like worms tunneling just below the ground.",<span class='scene-font-katari'>很快，格罗诺斯变得巨大无比。无数裂缝下的能流开始像脉搏一样跳动。</span>
+74,Vaseraga/巴萨拉卡,Gah!,哼嗯！
+75,Zeta/泽塔,Has he snapped back to his senses?,那家伙！恢复意识了吗！？
+79,Vaseraga/巴萨拉卡,What is this?,这是......！？
+80,Zeta/泽塔,"Get away from there, Vaseraga!",巴萨拉卡！快闪开！
+81,???,...,......
+82,???,Obot unesqece teratds.,…！@#￥%…&*…
+83,,This new automaton—a model that none of them have ever laid eyes on—is speaking in tongues.,<span class='scene-font-katari'>它喃喃自语————一个令人毛骨悚然的新机体。</span>
+84,,This continues on for some time before its own soulless eyes begin to shine bright.,<span class='scene-font-katari'>之后，它那双非生物的眼睛开始闪光。</span>
+85,???,...!,......！！
+95,,"It unleashes abnormal fires, which engulf the vicinity and swallow the automaton's should-be wielder, Vaseraga.",<span class='scene-font-katari'>异质的火焰熊熊包围了他...</span><br><span class='scene-font-katari'>本应该是操纵者的巴萨拉卡被吞噬了。</span>
+96,???,Obot unesqece nedde.<br>Atgert achres teratds.,…！@#￥%…&*…<br>…￥#&*…@！…
+97,,"By the time the flames clear, the automaton is gone.",<span class='scene-font-katari'>火焰逐渐熄灭，出现的却是新的机体。他就这样消失不见了...</span>
+info,,,scene_evt171231_cp1_q1_s30
+译者,,,kevin

@@ -1,0 +1,50 @@
+id,name,text,trans
+0-chapter_name,,踊り狂う風雪,狂舞的风雪
+0-synopsis,,極寒の地であるノース・ヴァストに積み荷を届けにきた姬塔一行は、天候の急変による猛吹雪に遭い、視界が奪われて離れ離れになってしまう。このままでは危険だと察したグリームニルは、風の力で猛吹雪を跳ねのけると、一行の姿を探す。やっとのことでルリアを見つけたグリームニルは、その直後、殺気立つ魔物達の気配に気づくのだった。,在极寒之地北西搬运货物的姬塔一行人，遇上了暴风雪，因为视界被遮挡互相走散了。察觉到这样很危险的格里姆尼尔，用风的力量驱散了暴风雪，寻找起了一行人。终于找到露莉亚的格里姆尼尔在那之后马上，察觉到了魔物们的杀气。
+2,,<span class='scene-font-katari'>極寒の地、ノース・ヴァスト──</span>,<span class='scene-font-katari'>极寒之地，北西──</span>
+3,,<span class='scene-font-katari'>つい先ほどまで澄み渡っていた蒼空は</span><br><span class='scene-font-katari'>瞬く間に暗雲に覆われ、凍てつくような</span><br><span class='scene-font-katari'>山颪（やまおろし）が吹き荒ぶ。</span>,<span class='scene-font-katari'>刚才还是万里无云的蓝天，</span><br><span class='scene-font-katari'>瞬间被暗云笼罩，吹起了</span><br><span class='scene-font-katari'>像是要冻住一切的山风。</span>
+4,,<span class='scene-font-katari'>そして気づけば風は雪を伴い、</span><br><span class='scene-font-katari'>猛吹雪となって</span><br><span class='scene-font-katari'>姬塔一行に襲い掛かる。</span>,<span class='scene-font-katari'>然后意识过来已经是风带着雪，</span><br><span class='scene-font-katari'>吹起了暴风雪</span><br><span class='scene-font-katari'>向姬塔一行袭来。</span>
+5,ルリア/露莉亚,<span class='scene-font-4'>きゃあ！</span>,<span class='scene-font-4'>啊！</span>
+7,ビィ/碧,大丈夫か、ルリア！？,不要紧吗，露莉亚！？
+8,ルリア/露莉亚,はい……なんとか……,嗯……还行……
+9,グリームニル,吹き荒ぶ白銀、爪牙の如し……<br>だが、我が颶風もまた……, 呼啸的白银，如同爪牙般……<br>但是，我的飓风还……
+10,グリームニル,<span class='scene-font-4'>……っはくしょん！</span>,<span class='scene-font-4'>……阿嚏！</span>
+11,グリームニル,うぅー！　寒いな！？<br>みんな大丈夫かー！？,呜ー！　好冷啊！？<br>大家不要紧吗！？
+12,ビィ/碧,天候が変わりやすいとは<br>聞いてたけどよぉ、<br>まさかこんな急に吹雪になるなんてな。,虽然听说了<br>这里天气多变，<br>但没想到竟能突然变成暴风雪。
+13,,<span class='scene-font-katari'>激しさを増していく吹雪によって、</span><br><span class='scene-font-katari'>姬塔一行は</span><br><span class='scene-font-katari'>視界を遮られていく。</span>,<span class='scene-font-katari'>因为不停变猛烈的暴风雪，</span><br><span class='scene-font-katari'>姬塔一行人</span><br><span class='scene-font-katari'>视线被阻断了。</span>
+14,,<span class='scene-font-katari'>更に辺り一面が雪化粧となった大地は</span><br><span class='scene-font-katari'>光の乱反射により目を眩ませ、</span><br><span class='scene-font-katari'>方向感覚さえも狂わせる。</span>,<span class='scene-font-katari'>而且一边是覆盖着雪的地面</span><br><span class='scene-font-katari'>在光的乱反射之下更加让人眼花，</span><br><span class='scene-font-katari'>失去了对方向的把握。</span>
+21,,<span class='scene-font-katari'>所謂、ホワイトアウト現象である。</span>,<span class='scene-font-katari'>这就是乳白天空现象。</span>
+22,グリームニル,しまった！<br>特異点！　赤き竜！　蒼の少女ー！,糟了！<br>特异点！　赤龙！　苍之少女ー！
+23,グリームニル,……見失ったか。<br>くっ、情けない……！,……走丢了。<br>啊、真难为情……！
+29,,<span class='scene-font-katari'>グリームニルは旋風を巻き起こすと、</span><br><span class='scene-font-katari'>それを鎧のように体に纏わせた。</span>,<span class='scene-font-katari'>格里姆尼尔卷起风，</span><br><span class='scene-font-katari'>像盔甲那样缠绕在自己身上。</span>
+30,,<span class='scene-font-katari'>それにより吹雪を周囲に寄せ付けず、</span><br><span class='scene-font-katari'>視界を鮮明に保つ。</span>,<span class='scene-font-katari'>然后身边就不会有暴风雪吹来，</span><br><span class='scene-font-katari'>可以保持视线的清晰。</span>
+31,グリームニル,……待っていろ！<br>必ず俺が助け出す！,……等着我！<br>我一定会把你们救出来！
+32,,<span class='scene-font-katari'>グリームニルは</span><br><span class='scene-font-katari'>猛吹雪によって姿を隠された</span><br><span class='scene-font-katari'>姬塔達に雄々しく呼びかけた。</span>,<span class='scene-font-katari'>格里姆尼尔大声的呼唤着</span><br><span class='scene-font-katari'>因为猛烈的暴风雪从视界消失的</span><br><span class='scene-font-katari'>姬塔等人。</span>
+33,,<span class='scene-font-katari'>──だが、待てど暮らせど</span><br><span class='scene-font-katari'>耳に届くのは風の轟音。</span><br><span class='scene-font-katari'>姬塔達の返事はない。</span>,<span class='scene-font-katari'>──但是，事与愿违</span><br><span class='scene-font-katari'>耳边传来的只有咆哮的风声。</span><br><span class='scene-font-katari'>没有姬塔他们的回应。</span>
+38,グリームニル,何処だ……何処に居る……！,在哪……到底在哪里……！
+39,グリームニル,この吹雪は危険だ……！<br>一刻も早く探し出さねば……！,这暴风雪很危险……！<br>不快点找到大家的话……！
+40,グリームニル,<span class='scene-font-4'>おーい、特異点ーっ！</span><br><span class='scene-font-4'>赤き竜ーっ！</span><br><span class='scene-font-4'>蒼の少女ーっ！！</span>,<span class='scene-font-4'>喂，特异点！</span><br><span class='scene-font-4'>赤龙！</span><br><span class='scene-font-4'>苍之少女！！</span>
+41,,<span class='scene-font-katari'>こうしてグリームニルは猛吹雪の中、</span><br><span class='scene-font-katari'>姬塔達を捜す為、</span><br><span class='scene-font-katari'>声を張り続けた。</span>,<span class='scene-font-katari'>就这样格里姆尼尔在暴风雪之中，</span><br><span class='scene-font-katari'>为了找出姬塔他们，</span><br><span class='scene-font-katari'>继续呼唤着。</span>
+42,,<span class='scene-font-katari'>それから暫くして──</span>,<span class='scene-font-katari'>在那之后过了一会儿──</span>
+47,？？？,<span class='scene-font-4'>グリームニルさーん！</span>,<span class='scene-font-4'>格里姆尼尔！</span>
+48,グリームニル,……っ！<br>その声は、蒼の少女か！,……！<br>这个声音是，苍之少女吗！
+50,ルリア/露莉亚,はい！,是的！
+51,グリームニル,よかったぁ！<br>無事だったんだな……！,太好了！<br>看起来没事呢……！
+52,グリームニル,……だが。<br>特異点と、赤き竜は……？,……但是。<br>特异点和赤龙呢……？
+53,ルリア/露莉亚,わかりません……<br>この吹雪で<br>何も見えなくなっちゃったので……,我不知道……<br>在暴风雪里<br>什么豆看不见了……
+54,ルリア/露莉亚,でもこうして会えてよかったです！<br>とっても不安だったので……,但是这里能会和太好了！<br>真的非常不安……
+55,グリームニル,フッ……もう大丈夫だ。<br>この颶風の前では……<br>氷雪、白銀、等しく無力！,嗯……已经没事了。<br>在这飓风面前……<br>冰雪，白银，是一样无力的！
+57,グリームニル,<span class='scene-font-4'>はあああっ！</span>,<span class='scene-font-4'>哈哈哈哈！</span>
+62,,<span class='scene-font-katari'>グリームニルはルリアにも</span><br><span class='scene-font-katari'>自分同様に風を鎧のように纏わせ、</span><br><span class='scene-font-katari'>猛吹雪から護ってやる。</span>,<span class='scene-font-katari'>格里姆尼尔让露莉亚缠上了</span><br><span class='scene-font-katari'>和自己一样铠甲一样的风，</span><br><span class='scene-font-katari'>从暴风雪中得到保护。</span>
+63,ルリア/露莉亚,わああ、すごいです！<br>これなら吹雪なんてへっちゃらですね！,哇啊，好厉害！<br>这样的话暴风雪就不要紧了！
+64,グリームニル,へへっ。<br>まぁ、一応軍神だしなー,嘿嘿。<br>嘛，好歹也是军神ー
+65,グリームニル,よし！　特異点と赤き竜を探しに──,好！　这就开始找特异点和赤龙──
+66,,<span class='scene-font-katari'>刹那──</span>,<span class='scene-font-katari'>瞬间──</span>
+67,,<span class='scene-font-katari'>グリームニルとルリアに</span><br><span class='scene-font-katari'>鋭い視線が突き刺さる。</span>,<span class='scene-font-katari'>有锐利的视线朝</span><br><span class='scene-font-katari'>格里姆尼尔和露莉亚刺来。</span>
+68,グリームニル,<span class='scene-font-kokoro'>（魔物か……）</span>,<span class='scene-font-kokoro'>（魔物吗……）</span>
+69,グリームニル,……蒼の少女。<br>俺の後ろに下がっていろ。,……苍之少女。<br>退到我身后来。
+70,ルリア/露莉亚,……グリームニルさん……,……格里姆尼尔……
+71,グリームニル,問題は無い。,没问题。
+72,グリームニル,我が颶風の前では……<br>闇も、魔も、等しく無力だ！,在吾飓风之前……<br>暗，魔都是无力的！
+73,,<span class='scene-font-katari'>グリームニルは猛吹雪のカーテンの</span><br><span class='scene-font-katari'>向こう側で蠢く魔物達に視線を移すと、</span><br><span class='scene-font-katari'>不敵な笑みを浮かべるのだった。</span>,<span class='scene-font-katari'>格里姆尼尔将视线移向了</span><br><span class='scene-font-katari'>暴风雪之后蠢蠢欲动的魔物，</span><br><span class='scene-font-katari'>露出了无畏的微笑。</span>
+info,,,scene_chr535_q1_s10

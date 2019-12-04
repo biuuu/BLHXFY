@@ -1,0 +1,65 @@
+id,name,text,trans
+0-chapter_name,,セン、初めてのお仕事,千，初次工作
+0-synopsis,,旅の途中でとある街に立ち寄った姬塔達。よろず屋での買い物の後、何か依頼はないかとシェロカルテに尋ねる。シェロカルテは旅の中で猫達と仲良くなったセンがいるなら、と猫茶寮という沢山の猫と触れ合うことのできる食堂の手伝いの仕事を紹介する。センは緊張しつつも意気込んで引き受けるのだった。,在旅途中来到某座城镇的一行人。在买完东西之后，向万事屋询问是否有可以承接的委托。榭洛科特说千在的话，有一份去猫咖帮忙的工作。千虽然紧张还是干劲十足地接下了。
+1,,<span class='scene-font-katari'>旅の途中、とある街に立ち寄った</span><br><span class='scene-font-katari'>一行は、買い物のために</span><br><span class='scene-font-katari'>よろず屋へ向かって歩いている。</span>,<span class='scene-font-katari'>旅途中，来到某座城镇的</span><br><span class='scene-font-katari'>一行，为了买东西</span><br><span class='scene-font-katari'>来到万事屋。</span>
+2,ルリア/露莉亚,人が多くて賑やかなところですね。,真是个热闹的地方啊。
+3,ビィ/碧,この辺りは、<br>街の中心みてぇだしな。,这附近，<br>好像是城镇的中心。
+4,セン/千,ん…………,唔…………
+5,ルリア/露莉亚,センちゃん？<br>どうかしましたか？,千ちゃん？<br>怎么了吗？
+6,セン/千,あ、はい……あの、いえ……,啊，嗯……唔，不是……
+9,,<span class='scene-font-katari'>センは、ルリアと姬塔の</span><br><span class='scene-font-katari'>間に潜り込むように</span><br><span class='scene-font-katari'>身体を寄せた。</span>,<span class='scene-font-katari'>千，像是要</span><br><span class='scene-font-katari'>挤在露莉亚和姬塔中间</span><br><span class='scene-font-katari'>一样挪了过来。</span>
+9-sel1_txt,,<span class='scene-font-katari'>寒い？</span>,<span class='scene-font-katari'>冷吗？</span>
+9-sel2_txt,,<span class='scene-font-katari'>狭くない？</span>,<span class='scene-font-katari'>不挤吗？</span>
+11,セン/千,いえ！　その……<br>寒いわけじゃないんです、<br>けど……,不！　不是……<br>并不是<br>冷……
+12,セン/千,え？<br>狭いところは好きなので……,诶？<br>我喜欢狭窄的地方……
+13,セン/千,あ、ごめんなさい！<br>姬塔さんとルリアちゃんの<br>邪魔でしたよね！？,啊，对不起！<br>给姬塔さん和露莉亚ちゃん<br>添麻烦了吧！？
+14,ルリア/露莉亚,ふふ、<br>そんなことないですよ。,哈哈，<br>怎么会呢。
+15,ビィ/碧,あはは！<br>センは、まだ人の多いところが<br>苦手なんだなぁ。,啊哈哈！<br>千还是，对人多的地方<br>没办法啊。
+16,セン/千,えっと……そうですね、<br>少し……,呜……是啊，<br>有点……
+22,,<span class='scene-font-katari'>センは、山奥にある</span><br><span class='scene-font-katari'>静かな村で生まれ育った。</span>,<span class='scene-font-katari'>千，生活在</span><br><span class='scene-font-katari'>山里的宁静的村庄。</span>
+23,セン/千,皆さんは、騎空士さんだと聞きました。,听说大家是，骑空士。
+24,セン/千,その旅に、私も連れていって<br>もらえないでしょうか？,这趟旅行，能否<br>带我一起呢？
+25,セン/千,私、この村の生活は好きです。<br>でも、ずっと村の外の世界にも<br>憧れてて……,我，喜欢这个村子的生活。<br>但是，我也一直憧憬着<br>外面的世界……
+26,セン/千,それに、格闘術も少しは使えますし<br>足は引っ張らないようにします。<br>だから、仲間にして下さい！,而且，我也会一点格斗术<br>不会托你们后腿的。<br>所以，请带上我吧！
+32,ルリア/露莉亚,センちゃん、旅に出るまでは<br>大きな街とか、沢山の人は<br>見たことがなかったんですもんね。,千ちゃん，自从开始旅行<br>还没怎么见过，<br>大城市和人海吧。
+33,セン/千,はい。街とか人の多いところ、<br>別に嫌いってわけじゃないんです。<br>でも……,嗯。我也不是，<br>讨厌城镇和人群。<br>但是……
+34,セン/千,思ったよりも近い距離に急に<br>人がいたり、声とか音とかが<br>聞こえてきたりすると……,如果突然有人<br>靠近，或者听到了<br>什么声响的话……
+35,セン/千,まだ、ちょっと<br>びっくりしてしまって……,就会，稍微<br>有点被吓到……
+36,ビィ/碧,そんなもんかぁ。,这样啊。
+37,ビィ/碧,でもよぉ、お前、ルリアや<br>姬塔が近くにいるのは<br>平気なんだよな。,但是，你，在露莉亚<br>或者姬塔附近<br>不是就没事吗。
+38,セン/千,え？,诶？
+39,ビィ/碧,今もだし、<br>よく何でもない時に<br>ふたりにくっついてるだろ？,现在也是，<br>经常就<br>挤到两人那里了吧？
+40,ルリア/露莉亚,それは、<br>私達は仲良しだからですよ！<br>ね？,那是因为，<br>我们关系很好！<br>对吧？
+41,セン/千,えへへ……そうですね。,诶嘿嘿……是啊。
+42,セン/千,姬塔さんとルリアちゃんは<br>一緒にいるとあったかいから……,与姬塔さん和露莉亚ちゃん<br>一起的话很温暖……
+43,セン/千,傍にいるの、好きです。,我喜欢，待在他们身边。
+44,,<span class='scene-font-katari'>そう言って照れたように笑うセンに、</span><br><span class='scene-font-katari'>姬塔達も</span><br><span class='scene-font-katari'>微笑ましい気持ちになるのだった。</span>,<span class='scene-font-katari'>看着害羞地笑着的千，</span><br><span class='scene-font-katari'>姬塔他们也</span><br><span class='scene-font-katari'>露出了微笑。</span>
+49,シェロカルテ/榭洛科特,え～と……<br>以上で大丈夫でしょうか～？<br>他に必要なものはありませんか～？,嗯～……<br>这些就好了吗～？<br>还有没有其他需要的～？
+50,ルリア/露莉亚,はい、大丈夫です！<br>忘れ物はないはず……,嗯，这就够了！<br>应该没有忘记的了……
+51,シェロカルテ/榭洛科特,毎度ありがとうございました～！,谢谢惠顾～！
+52,ビィ/碧,ところでよろず屋、折角だし、<br>この街で何かオイラ達が<br>役に立てそうな依頼はねぇか？,说起来，万事屋，正好<br>这个镇上有什么<br>我们能帮上忙的委托吗？
+53,シェロカルテ/榭洛科特,そうですね～<br>いくつか入っていますが～……,我找找～<br>倒是有几个委托～……
+54,シェロカルテ/榭洛科特,そうだ～センさんがいらっしゃるなら<br>ちょうどいいお仕事がありますよ～,对了～千さん在的话<br>正好有一个适合她的～
+55,セン/千,えっ！<br>私ですか？,诶！<br>我吗？
+56,ビィ/碧,それ、<br>どんな依頼なんだ？,是，<br>什么委托啊？
+57,シェロカルテ/榭洛科特,この街にある<span class='scene-font-spword'>“猫茶寮”</span>が、人手が<br>足りないらしくて、お手伝いして<br>くださる方を探しているんですよ～,这个镇上的<span class='scene-font-spword'>“猫咖”</span>人手<br>不足了，<br>正在找能帮忙的人～
+58,セン/千,ねこ、さりょう……？,猫，咖……？
+59,シェロカルテ/榭洛科特,猫茶寮というのは～猫が沢山いて<br>お客さんが触れ合うことのできる<br>食堂のようなものですね～,所谓猫咖～就是有很多猫<br>可供客人玩赏的<br>餐馆一样的地方～
+60,シェロカルテ/榭洛科特,最近、この街で流行っていまして～<br>何件もあるんですよ～,最近，在镇上很流行～<br>有好几个～
+61,ルリア/露莉亚,猫ちゃんのいる食堂……,有猫的餐馆……
+62,ルリア/露莉亚,楽しそうです！,好像很有趣！
+63,ビィ/碧,その猫茶寮が、<br>手伝いを探してるってわけか。,这个猫咖，<br>在招人啊。
+64,シェロカルテ/榭洛科特,そうです～<br>センさん、いかがですか～？,没错～<br>千さん，怎么样～？
+65,セン/千,わ、私にできるでしょうか……？,我，我能做到吗……？
+66,ルリア/露莉亚,大丈夫ですよ！　センちゃん、<br>最近ダーントさんの猫ちゃん達とも<br>とっても仲良しですしね。,别担心！　千ちゃん<br>最近和达恩特的猫们<br>不是相处的很好吗。
+72,,<span class='scene-font-katari'>ダーントとは、猫の自由な生き様に</span><br><span class='scene-font-katari'>惚れ込み、人里から離れて</span><br><span class='scene-font-katari'>猫と暮らしていた男である。</span>,<span class='scene-font-katari'>达恩特，是一个沉迷</span><br><span class='scene-font-katari'>猫那自由的生活的，远离人群</span><br><span class='scene-font-katari'>与猫一同生活的男人。</span>
+73,,<span class='scene-font-katari'>そして今は、自らの「師」と呼ぶ</span><br><span class='scene-font-katari'>その猫達と共にグランサイファーに</span><br><span class='scene-font-katari'>身を寄せている。</span>,<span class='scene-font-katari'>然后现在，与自己的'老师'</span><br><span class='scene-font-katari'>猫群一同，住在</span><br><span class='scene-font-katari'>格兰赛法上。</span>
+77,ビィ/碧,そうだぜ。猫が沢山いる店なら<br>お前にぴったりなんじゃねぇか？,是啊。猫很多的店<br>不是很适合你吗？
+78,ビィ/碧,そうだぜ。猫が沢山いる店なら<br>お前にぴったりなんじゃねぇか？,是啊。猫很多的店<br>不是很适合你吗？
+79,セン/千,猫さんのいるお店……,有猫的店……
+80,セン/千,……わかりました！<br>街でひとりでお仕事するのは<br>初めてなので緊張しますが……,……好的！<br>虽然第一次在镇上<br>一个人工作有点紧张……
+81,セン/千,やってみます！<br>私、がんばります！,我要去！<br>我会努力的！
+82,シェロカルテ/榭洛科特,ありがとうございます～<br>では、お願いしますね～,谢谢了～<br>那么，就拜托了～
+83,,<span class='scene-font-katari'>こうして、猫茶寮の手伝いという</span><br><span class='scene-font-katari'>依頼にひとりで挑むことになったセン。</span>,<span class='scene-font-katari'>就这样，千一个人</span><br><span class='scene-font-katari'>接受了去猫咖帮忙的委托。</span>
+84,,<span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>意気込むセンを</span><br><span class='scene-font-katari'>優しく激励するのだった。</span>,<span class='scene-font-katari'>姬塔一行，</span><br><span class='scene-font-katari'>则温柔地给</span><br><span class='scene-font-katari'>干劲十足的千打气。</span>
+info,麻友桑的话筒,,scene_fate_chr523_ep1

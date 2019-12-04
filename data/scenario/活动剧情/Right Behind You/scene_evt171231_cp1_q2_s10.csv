@@ -1,0 +1,133 @@
+id,name,text,trans
+0-chapter_name,,1: Creeping Shadows,偷偷靠近之影
+0-synopsis,,"The top brass of the Society threaten to punish Zeta, Ilsa, and Vaseraga for losing Grynoth. In order to retain their positions within the Society, they join up with Eustace and Beatrix to recover Grynoth, but ominous, insect-like objects in the sky are watching their every move.",
+1,Ilsa/伊尔萨,That's all I have to report.,以上，就是事情的经过。
+2,Eustace/尤斯提斯,Understood.,了解了。
+3,Eustace/尤斯提斯,So Grynoth has assumed the form of a monster.,没想到格罗诺斯会变成魔物。
+4,Ilsa/伊尔萨,"No, I wouldn't call it a monster as such. This is something else entirely.",不...那不是魔物，而是一种别的东西。
+5,Ilsa/伊尔萨,We can't be certain if Grynoth's capabilities have been affected by taking in Arianensa's power either.,第一个出现的怪物...是敌人的使者。不知道是受到了阿利亚内萨的影响，还是格罗诺斯本身的力量。
+6,Eustace/尤斯提斯,"Regardless, it must be recovered.",无论如何，回收是首要任务。
+7,Beatrix/贝阿朵丽丝,Can I just ask one thing? What happened to that Lester guy?,那...那个，我能问问，那个叫莱斯特的家伙怎么样了吗？
+8,Ilsa/伊尔萨,Only a few traces of his armor were left behind. Scraps—that's all I have to show for the discipline and tough love I put into that kid.,只留下了一些盔甲碎片，然后就蒸发了。对你的训练和责骂最后却只留下了这个。
+9,,Ilsa/伊尔萨 takes out a cloth and unfolds it to reveal a metal shard.,<span class='scene-font-katari'>说着，伊尔莎摊开掏出的手帕，露出包在里面的金属碎片。</span>
+10,Vaseraga/巴萨拉卡,...,......
+11,Eustace/尤斯提斯,His next of kin?,送货地址是。
+12,Ilsa/伊尔萨,None. He lived a solitary life. No family to mourn him.,没有。他是个孤独的人。没有家庭会因看到这个而悲伤。
+13,Vaseraga/巴萨拉卡,Then I'll take it.,...这样的话，就让我留着吧。
+14,Ilsa/伊尔萨,It's all yours.,啊，就这么办吧。
+15,,Vaseraga/巴萨拉卡 picks up the shard and stores it away in his pocket.,<span class='scene-font-katari'>巴萨拉卡从伊尔莎的手帕里拿起一片碎块，放进了自己兜里。</span>
+16,Eustace/尤斯提斯,How's your body?,巴萨拉卡，身体怎么样？
+17,Vaseraga/巴萨拉卡,"As long as I complete the treatment, I'll be able to join in recovering Grynoth.",只要修复完毕，我就可以跟你们一起行动了。
+18,Ilsa/伊尔萨,"That so. All right, here's a brief summary of the ops.",好吧。那么，来说明下作战计划。
+19,Ilsa/伊尔萨,"Because of yesterday's screw up by me and Armor Chicken, I had to report both the loss of a comrade and Grynoth.",正如我说过的，昨天我和铁鸡失事，致使组织成员死亡，格罗诺斯也丢失了。
+20,Ilsa/伊尔萨,The brass were not amused to hear about the loss of a weapon. Our orders are to retrieve it immediately.,高层认为武器的丢失很严重。他们命令我们尽快找回。
+21,Eustace/尤斯提斯,That mechanized Grynoth has been spotted on numerous islands. We can use those accounts to predict its next destination.,格罗诺斯变成了机械，在岛上有很多人目击过。下一个目标点已经确定了。
+22,Ilsa/伊尔萨,"We'll chase it, stomp it, beat it... Anything to return it to normal. Otherwise...",我们会追踪它，杀死那个怪物，把它变回武器形态，然后回收。否则的话...
+23,Ilsa/伊尔萨,"I think we'll be forcibly <span class='scene-font-italic'>restructured</span> within the Society, if you catch my drift.",在“组织”中的<span class='scene-font-spword'>『另种角色』</span>将会被强加到我们身上。
+24,Zeta/泽塔,"No, not really. What do you mean by restructured?",是什么，那个『另种角色』...
+25,Ilsa/伊尔萨,Ever wonder who gets volunteered when they need live test subjects? With any luck Vaseraga and I won't die that easily.,比如说像活体实验怎么样？幸运的是，我和巴萨拉卡都是不会轻易就死的。
+26,Zeta/泽塔,Huh? Live test subjects? Why would they suddenly treat us like that?,哈？！活体实验？！为啥要突然被那样对待？！
+27,Beatrix/贝阿朵丽丝,Ah! Because we're the Society's trump cards!,啊！我们可是组织的王牌呢！
+28,Ilsa/伊尔萨,The decision makers want to know about the affinity between weapons and their contractors. Opportunity's knocking on their doors.,因为上头想知道武器和契约者之间的联系...现在正是良机。
+29,Zeta/泽塔,"I don't know about Vaseraga, but you...",先不说巴萨拉卡，伊尔莎前辈...
+30,Zeta/泽塔,No. No way is Vaseraga doing that either. It's unacceptable!,不，就算是巴萨拉卡，那也说不通啊！
+31,Ilsa/伊尔萨,...,......
+32,Eustace/尤斯提斯,...,......
+33,Zeta/泽塔,Hm? What's with you two?,嗯？你俩怎么了？
+34,Eustace/尤斯提斯,"Present your left hand, Zeta.",把左手伸出来，泽塔
+35,,Zeta/泽塔 warily extends her hand.,<span class='scene-font-katari'>在尤斯提斯的催促下，泽塔不解地伸出手。</span>
+36,,Eustace/尤斯提斯 snaps a snug metal ring around her wrist.,<span class='scene-font-katari'>然后，泽塔的手被套上了铁环。</span>
+37,Zeta/泽塔,What's this?,...这啥？
+38,Ilsa/伊尔萨,A tracking device. All personnel in connection with the loss of Grynoth will have their movements and whereabouts under constant surveillance.,监视装置。丢失格罗诺斯的人现在将被监视自己的行动和位置。
+39,Ilsa/伊尔萨,"That includes you. Think of it as your new collar, Pupper.",也包括你。这就像是小崽子的项圈。
+40,Zeta/泽塔,Uh... Wha?,诶...？？啊...？？
+41,Eustace/尤斯提斯,"It's called collective responsibility. I'm the only one with the authority to remove them, if and when we recover Grynoth.",...这是连带责任。我是唯一有权限卸下它的人。带着格罗诺斯回来吧。
+42,Zeta/泽塔,I...,为...
+43,Zeta/泽塔,I can't agree to this. Why do I have to wear this thing...,我不明白...为啥我一定要戴着这种东西啊......
+44,Ilsa/伊尔萨,...,...
+45,Ilsa/伊尔萨,What you're about to hear didn't come from me.,就当我啥也没说过吧。
+46,Ilsa/伊尔萨,"The Society is also in chaos right now. It's already divided into nine factions, each of them trying to drag the others down.",现在我们的“组织”一团糟。各个派系分成了9个部分，互相搞事。
+47,Ilsa/伊尔萨,One of those factions established a new force utilizing data collected from all of you. Meaning we've got competition.,其中一个建立了与我们不同的部队。这是根据你们的信息建立起的新部队。
+48,Ilsa/伊尔萨,"I've heard they're far easier to boss around. The brass love theoreticals, which makes me think they've completely jumped ship.",看来使唤起来很便利。高层也被灌输了很多新立部队很优质的观点。
+49,Zeta/泽塔,And that makes us expendable? How did it come to this?,这就是为什么我们要离开？为什么这么乱七八糟？
+50,Eustace/尤斯提斯,The work of the Foe is my guess.,可能是敌人派来的。
+51,Ilsa/伊尔萨,My thoughts exactly. Their spies played our nine leading dum-dums beautifully. Got them flinging their own feces at each other.,我知道。敌方间谍巧妙地搞出了九个活宝互相掐架的场景。
+52,Ilsa/伊尔萨,It's a trickle-down system of bonitocrap. I can't stand it.,这就是为什么从上而下都是坨屎了。让人受不了...
+53,Eustace/尤斯提斯,The spies are likely long gone. Power struggles are breaking out as everyone tries to one-up each other.,也许间谍已经不在了。内部人员因为照顾自己的利害关系而互相对立，挑起争斗。
+54,Zeta/泽塔,"Fine, I understand the situation. If we want to protect everyone, then we've gotta make sure this mission ends in success.",...总之，事情是搞清楚了。为了保护所有人，我们一定要完成这个任务。
+55,Vaseraga/巴萨拉卡,"Enemies on the inside, and enemies on the outside. We're in a critical situation.",里里外外都是敌人。情况不妙啊。
+56,Beatrix/贝阿朵丽丝,"Heheh. Critical situation, you say? That's when my sword really shines!",哼哼。那么我的剑会发挥出最大的力量！
+57,Beatrix/贝阿朵丽丝,"The worse it is, the stronger Embrasque gets! You can just let me handle it, you guys!",陷入困境越深，我的安布拉斯克之剑就越强大！全都交给我，不需要泽塔，不需要巴萨拉卡！
+58,Ilsa/伊尔萨,That's a big if. I'm eager to see how someone who barely squeaked past failing spectacularly on her exams performs this time around.,很可靠嘛。让我看看在失败边缘通过考核的你，有些什么长进。
+61,Beatrix/贝阿朵丽丝,Ulp... I'll do my best...,呃......我...我会努力的。
+62,,All members of the Society who are present vow to fight.,<span class='scene-font-katari'>“组织”的成员们决心协力战斗。</span>
+68,,They step out of the tavern and onto a street marred with fresh scars of battle.,<span class='scene-font-katari'>它们走出酒吧。街道上到处都是战斗的痕迹。</span>
+69,Beatrix/贝阿朵丽丝,The Foe really did a number on this town. What do we do from here?,这座城市，被<span class='scene-font-spword'>『敌』</span>破坏了吧？接下来会发生什么？
+70,Eustace/尤斯提斯,This place barely functions as a town at the moment. It won't see reconstruction anytime soon.,完全失去了城市的功能。暂时也无法修复。
+71,Beatrix/贝阿朵丽丝,We can't help them at all?,...难道我们就不能帮镇上的人一把吗？
+72,Ilsa/伊尔萨,We would only make it worse. Wouldn't you be suspicious of outsiders and their ulterior motives? It's a waste of time until they shake off their distrust.,曾经外部企图对这座城镇进行干涉影响，但最后都事与愿违。只要他们还继续对外来人不信任，我们就无能为力。
+73,Zeta/泽塔,"We stopped the Foe, but not soon enough.",...打倒了为祸一方的<span class='scene-font-spword'>『敌』</span>，现在心情却一点也不爽快。
+74,Vaseraga/巴萨拉卡,The townspeople even fought against one another. The dust of enmity is unavoidable.,镇上的居民互相争斗，不可避免地，会留下仇恨。
+75,Zeta/泽塔,"This reeked right from the very beginning. Some punk carried off the lord's daughter, and she came back covered in injuries.",从事情最开始就让人反胃。领主的女儿归来时被流氓绑架，伤痕累累。
+76,Vaseraga/巴萨拉卡,But every investigation into that incident found no truth to those claims. It was all rumors to the very end.,但根据调查，并没有这样的事实。只是四处传播的流言而以。
+77,Ilsa/伊尔萨,Eventually the lord's daughter really did disappear though.,然后领主的女儿就真的消失不见了。
+78,Zeta/泽塔,"The lord lost it, and he hired private security to round up all the thugs in town and imprison them.",于是领主开始疯狂的动用私人武装，把城里所有的流氓都关进了监狱...
+79,Vaseraga/巴萨拉卡,"Those who agreed with the lord and those who opposed confronted each other, sparking a conflict that tore this town apart.",于是领主派和反领主派发生了矛盾，不久内战就爆发了...
+80,Zeta/泽塔,Ilsa/伊尔萨. What's our enemy trying to do using these slow-burn tactics?,...伊尔莎小姐。我们的敌人为什么要做这种愚蠢的事？
+81,Ilsa/伊尔萨,Hell if I know. But I did overhear something that bothers me. All I could make out was one sentence.,不知道...但是，我听到了一个让人费解的消息。就那么一句...
+82,Ilsa/伊尔萨,"""We've begun to understand <span class='scene-font-italic'>them</span>.""",“它们开始理解人类”
+83,Ilsa/伊尔萨,Damn it all. I'd love to know what the hell it is we're up against.,...真是的，我想知道我们到底在和什么作战。
+84,Ilsa/伊尔萨,This conversation has dragged on long enough. All of you prepare to leave the island. I have something else to attend to shortly.,...接下来，长话就短说到这里。你们离开这个岛，做好准备。我要与你们分开一段时间。
+85,Zeta/泽塔,You're cutting us loose? Aren't the honchos keeping an eye on us?,诶？...我们单独行动没问题吗？不是被上面“盯”着吗？
+86,Ilsa/伊尔萨,"You've already been collared, and I've taken the liberty of preparing excellent overseers as a contingency. Isn't that right, Hellcat?",所以给你装上了监视器还给你安排了一个“优秀”监督员。对吧，小摔炮。
+87,Beatrix/贝阿朵丽丝,Uh... Yeah! Eustace and I are in charge of watching you!,啊...啊！我和尤斯提斯会负责监视你们的！
+88,Ilsa/伊尔萨,The brass were so busy extracting their fists from their own rears that all they said was to watch you. I take that to mean I can use any method I want.,高层正在忙着互相掐架搞事，没工夫下什么命令。那就让我来吧。
+89,Ilsa/伊尔萨,That about sums it up. There's a ship waiting. Go lay low somewhere. I'll catch up to you later.,说起来，船已经准备好了。去你想去的地方歇会。我之后再跟你们会合。
+90,Zeta/泽塔,Okay.,明白。
+91,Zeta/泽塔,Hm?,...嗯...？
+95,,Zeta notices something in the sky. It resembles a large insect as it buzzes over the island's airspace.,<span class='scene-font-katari'>泽塔突然注意到天空中有什么东西在飞来飞去，像一只大虫子。</span>
+96,???,Bzzzz...,嗞嗞嗞嗞嗞...
+97,Zeta/泽塔,What's that? Doesn't look like a bird. Is it a huge bug?,那个是什么...不是鸟吧。大虫子...？
+98,Beatrix/贝阿朵丽丝,That thing's been buzzing around the edge of the island since yesterday. Looks like a bug to me too.,从昨天开始，它就在那到处飞动。虫子...我也搞不清是什么。
+99,Zeta/泽塔,Creepy is what it is. I've never seen anything like it before.,有点...恶心。我还是第一次看到这种东西。
+100,Insect-Like Drone,Chzzk-chzzk-chzzk...,嗞嗞嗞嗞嗞...嗞嗞...
+101,Vaseraga/巴萨拉卡,Hm?,嗯......？
+102,Zeta/泽塔,What is it?,咋了？
+103,Vaseraga/巴萨拉卡,Is it searching for something?,...它是在找什么东西吗？
+104,Zeta/泽塔,"I dunno. Maybe it's hungry? Hey, Bea. You know if that thing's dangerous?",不知道...找吃的吗？呐，小贝，那东西有什么害处吗？
+105,Beatrix/贝阿朵丽丝,"Well, I haven't heard anyone being attacked by it or anything, so...",啊。我还没听说有人被它袭击过。
+106,Zeta/泽塔,Huh. Guess we don't have to do anything about it for now.,这样啊。好吧，目前为止，我们也没什么办法呢。
+107,Vaseraga/巴萨拉卡,...,......
+108,Zeta/泽塔,All right then. I just want to pack my things and rest up. Where are we headed?,现在，我想休息一下，装备也要整理。我们去哪边？
+109,Beatrix/贝阿朵丽丝,Hm...,嗯......
+110,Beatrix/贝阿朵丽丝,How 'bout we go see 姬塔 and the others? I think Vyrn's been feeling lonely lately since he keeps asking about you and Vaseraga.,要不要去会会<span class='scene-font-katari'>姬塔</span>他们。阿碧说她最近没见泽塔和巴萨拉卡，十分想念。
+111,Beatrix/贝阿朵丽丝,They're staying in a big town on a nearby island. Doesn't that sound like a good idea?,听说他们要来附近岛屿上的一个大城镇。怎样，是个好主意吧！
+112,Zeta/泽塔,"Now that you mention it, we weren't able to meet up with them. You got a letter from them too, right, Vaseraga?",啊......这么说来，和他们也好久没见了。巴萨拉卡也收到了他们的来信了吗？
+113,Vaseraga/巴萨拉卡,"Yes, but I'd rather not see them right now.",啊。但是现在不想。
+114,Zeta/泽塔,"Not until things get back to normal, huh?",你总是在情况稳定前不想见<span class='scene-font-katari'>姬塔</span>他们啊。
+115,Beatrix/贝阿朵丽丝,"Yeah, but... 姬塔 and the others... Um...",呃...啊...那个，你看，<span class='scene-font-katari'>姬塔</span>一行和......那个......
+116,Zeta/泽塔,You're really pushing us to go see them. Am I missing something?,唔...你为什么这么想和他们会合啊。有什么事情吗？
+117,Eustace/尤斯提斯,...,...
+118,Eustace/尤斯提斯,"It's a bustling town. Setting the crew aside, we'll have no trouble procuring supplies.",那座城镇繁华昌盛。和<span class='scene-font-katari'>姬塔</span>一行会不会合且先不论，物资的筹措应该不会有困难吧。
+119,Vaseraga/巴萨拉卡,Or a healer...,...记得也有魔医师吧。
+120,Beatrix/贝阿朵丽丝,"Oh, wait a minute. Almost forgot my job title! You'll get in big trouble if you don't obey my commands as your overseer!",啊！是哒！或者说，作为监视者的我说的话，你必须听我的！
+121,Vaseraga/巴萨拉卡,Then I have no objections.,...那样的话，我没异议。
+122,,Beatrix/贝阿朵丽丝 leads the group to the airship provided by Ilsa.,<span class='scene-font-katari'>随后，在贝阿朵丽丝的带领下，泽塔他们走向了伊尔萨安排好的骑空艇。</span>
+123,Zeta/泽塔,Wonder how the crew's doin'.,过得还好吗，<span class='scene-font-katari'>姬塔</span>他们。
+124,,"Vaseraga/巴萨拉卡 suddenly stops, his eyes fixed on the sky.",<span class='scene-font-katari'>突然，巴萨拉卡停下脚步，望向天空。</span>
+125,Vaseraga/巴萨拉卡,...,...
+126,Insect-Like Drone,Chzzk-chzzk-chzzk...,嗞嗞嗞嗞嗞...
+127,Vaseraga/巴萨拉卡,(Why do I feel uneasy...),<span class='scene-font-kokoro'>为什么，心里有点不舒服...</span>
+133,Vyrn/碧,L-Lyria! 姬塔!,露...露莉亚！<span class='scene-font-katari'>姬塔</span>！
+134,Lyria/露莉亚,"What is it, Vyrn?",小碧，怎么了？！
+135,Vyrn/碧,That buggish-looking thing just landed on the ship!,啊...那只像虫子一样的东西，居然停在了艇上！
+136,Lyria/露莉亚,"Eep! Where, where? I don't see it!",诶？？？哪里哪里？在哪里？小碧。
+137,Vyrn/碧,"Never mind, it flew away.",抱歉，露莉亚...它已经飞走了...
+138,Lyria/露莉亚,"Aw, too bad. I thought we could have finally figured out what it is.",哎呀...真遗憾。我还以为能仔细看看那个究竟是什么。
+139,Vyrn/碧,"Yeah, you can't really tell from far away. Just that it's got six legs.",远远地停在那，我也看不清楚。只能搞清它有六条腿。
+140,Lyria/露莉亚,How weird. I've been hearing how it shows up almost everywhere these days.,这是什么？我听说最近到处都能看到那个。
+141,Vyrn/碧,"There's like a ton of 'em. They show up outta nowhere, zigging and zagging through the air. Yuck-factor: ten.",看起来有好多啊。突然冒出来乱窜，总觉得有点诡异。
+142,Gnat,Chzzk-chzzk-chzzk...,嗞嗞嗞嗞嗞...
+143,Gnat,Atgert dounf.,…！@#￥%…&*…
+info,,,scene_evt171231_cp1_q2_s10
+译者,,,kevin

@@ -1,0 +1,112 @@
+id,name,text,trans
+0-chapter_name,,踊り狂う風雪,狂舞的风雪
+0-synopsis,,グリームニルとルリアは、ビィの案内でクレバスの底の姬塔と少年を見つける。そこに魔物達が誘因となって雪崩が発生するが、グリームニルは風の力を解放し魔物達と雪崩を吹き飛ばすと、姬塔と少年を救出した。こうして一行は無事、集落に積み荷を届ける。そこでグリームニルは、過酷な土地に住み続ける人々の考えに触れ、人の子について学ぶのだった。,格里姆尼尔和露莉亚在碧的引导下找到了冰缝下的姬塔与少年。在那里因为魔物群的关系触发了雪崩，格里姆尼尔用风的力量吹飞了魔物群与雪崩，救出了姬塔与少年。就这样一群人平安的将货物运到了部落里。格里姆尼尔被在荒地上生活的人们的思考所触动，学到了关于人类的种种。
+2,,<span class='scene-font-katari'>それは文字通り、一瞬の出来事だった。</span>,<span class='scene-font-katari'>那是一瞬间的事情。</span>
+3,魔物,グルルゥ……,咕噜噜……
+5,,<span class='scene-font-katari'>ビィに襲い掛からんとした魔物は</span><br><span class='scene-font-katari'>グリームニルの鮮やかな攻撃によって</span><br><span class='scene-font-katari'>駆逐された。</span>,<span class='scene-font-katari'>袭击碧的魔物</span><br><span class='scene-font-katari'>在格里姆尼尔精湛的攻击下</span><br><span class='scene-font-katari'>被打倒了。</span>
+6,グリームニル,……今は眠れ。<br>汝らの行く末に、風の加護を。,……睡吧。<br>为你们的终途送上风之加护。
+7,ビィ/碧,助かったぜ！<br>それにしてもよぉ、暴風の兄ちゃんって<br>やっぱスゲェ強ぇんだな！,被救了！<br>还有就是那个，暴风小哥<br>果然超强！
+8,グリームニル,へ、へへ……<br>よせやい。<br>照れるだろー,嘿，嘿嘿……<br>呀。<br>有点害羞了ー
+10,ルリア/露莉亚,ビィさん……<br>無事でよかったです！,碧……<br>没事真是太好了！
+11,ビィ/碧,ルリア！<br>何も見えなくなっちまったから<br>心配してたんだぜ！,露莉亚！<br>刚才什么都看不见<br>好担心的！
+12,ビィ/碧,あ、それはそうと……<br>大変なんだ！<br>ちょっとこっちに来てくれねーか？,啊，然后就是……<br>不好！<br>能不能过来一下？
+18,,<span class='scene-font-katari'>ビィに案内されてやってきた</span><br><span class='scene-font-katari'>グリームニルとルリアは</span><br><span class='scene-font-katari'>山道に突如現れた裂け目──</span>,<span class='scene-font-katari'>露莉亚和格里姆尼尔</span><br><span class='scene-font-katari'>被碧带到</span><br><span class='scene-font-katari'>山道上突然出现的裂缝前──</span>
+19,,<span class='scene-font-katari'>クレバスを目にし、はっと息を呑む。</span>,<span class='scene-font-katari'>看着冰缝，深吸了口气。</span>
+20,グリームニル,まさか、特異点と少年が……！,难道说，特异点和少年在……！
+21,ビィ/碧,ああ、微かに声がしたから、<br>ちょっと覗き込んでみたんだ。<br>そしたら……,嗯，因为传来了点声音<br>然后稍微朝里看了下<br>就……
+22,,<span class='scene-font-katari'>ルリアはクレバスに近付き、</span><br><span class='scene-font-katari'>滑落しないよう注意しながら</span><br><span class='scene-font-katari'>穴の中を覗き込む。</span>,<span class='scene-font-katari'>露莉亚靠近了裂缝，</span><br><span class='scene-font-katari'>注意着不要打滑</span><br><span class='scene-font-katari'>看向了裂缝。</span>
+23,ルリア/露莉亚,真っ暗で何も見えませんね……,一片暗什么都看不见……
+24,ルリア/露莉亚,ふたりともー！<br>大丈夫ですかー！？,两个人ー！<br>还好吗ー！？
+28,少年,あ、騎空士さん！<br>トカゲさんが皆を<br>連れてきてくれたみたいだよ！,啊，骑空士！<br>蜥蜴把<br>大家带过来了！
+29,少年,<span class='scene-font-4'>僕は大丈夫だよー！</span><br>でも、騎空士さんが<br>怪我をしてるんだー！,<span class='scene-font-4'>我没事ー！</span><br>但是骑空士负伤了ー！
+33,ルリア/露莉亚,はわわ、姬塔が怪我を……<br>どうしましょう……,啊，姬塔受伤了……<br>该怎么办……
+34,グリームニル,急がねばなるまいな。<br>……ならば！<br>我が力を解放する……！,不要紧张。<br>……这样的话！<br>解放我的力量……！
+36,ビィ/碧,ちょ、ちょっと待ってくれよ……！<br>何をしようってんだ？,等，等等……！<br>你要做啥？
+37,グリームニル,フッ……<br>このクレバスの裂け目を広げれば……<br>特異点と少年を助けられるだろう。,呵……<br>将这个冰缝的裂缝扩大……<br>就能救出特异点和少年了。
+38,ルリア/露莉亚,そんなことできるんですか！？,这样的事能做到吗！？
+39,グリームニル,あぁ！<br>我が颶風ならば容易きこと！,嗯！<br>飓风之下小事而已！
+40,ビィ/碧,けどよ、暴風の兄ちゃんの<br>力はスゲェから……その震動とかで<br>雪崩が起きちまうかもしれねぇぞ？,但是啊，暴风小哥<br>力量太强了……那个震动的话<br>可能会引发雪崩？
+41,ルリア/露莉亚,そ、それは困ります……！,这，这就不好了……！
+42,グリームニル,あっ！<br>そっか！　まずいまずいっ！,啊！<br>这样！　糟了糟了！
+43,グリームニル,それじゃあ、えーっと……,那么、那个……
+44,,<span class='scene-font-katari'>ビィの指摘はもっともだと思った</span><br><span class='scene-font-katari'>グリームニルは、</span><br><span class='scene-font-katari'>他に解決策がないか思案する。</span>,<span class='scene-font-katari'>觉得碧说的对的</span><br><span class='scene-font-katari'>格里姆尼尔</span><br><span class='scene-font-katari'>思考起了有无别的解决方法。</span>
+45,,<span class='scene-font-katari'>その時──</span><br><span class='scene-font-katari'>遠くの方から、</span><br><span class='scene-font-katari'>地響きのような音が近づいて来る。</span>,<span class='scene-font-katari'>就在那时──</span><br><span class='scene-font-katari'>从远方</span><br><span class='scene-font-katari'>传来了地鸣。</span>
+46,ビィ/碧,ん？　なんだってんだ？,嗯？　那是什么？
+47,ルリア/露莉亚,山の方から聞こえてきます……！,听到了山里传来的声音……！
+48,グリームニル,……悲運だな。<br>こんな時に……！,……运气不佳。<br>这种时候……！
+49,,<span class='scene-font-katari'>グリームニルが嘆くのも</span><br><span class='scene-font-katari'>無理はなかった。</span>,<span class='scene-font-katari'>格里姆尼尔的叹息</span><br><span class='scene-font-katari'>不是没有理由的。</span>
+50,,<span class='scene-font-katari'>なんと図体の大きな魔物達が大挙し、</span><br><span class='scene-font-katari'>山の方から押し寄せて来たのだ。</span>,<span class='scene-font-katari'>从山那里</span><br><span class='scene-font-katari'>有块头很大的魔物大群涌了过来。</span>
+51,魔物達/魔物们,グガアアア……！,嘎啊啊啊……！
+52,グリームニル,まずい……！<br>大地が震えている！<br>雪崩が来るぞ！,糟了……！<br>大地在振动！<br>雪崩要来了！
+59,,<span class='scene-font-katari'>魔物達に誘発されるように</span><br><span class='scene-font-katari'>凄まじい地響きが辺りに響き渡ると、</span><br><span class='scene-font-katari'>大きな雪崩が発生した。</span>,<span class='scene-font-katari'>好似被魔物们诱发</span><br><span class='scene-font-katari'>传来了可怕的地鸣</span><br><span class='scene-font-katari'>发生了大雪崩。</span>
+60,,<span class='scene-font-katari'>その勢いは凄まじく、</span><br><span class='scene-font-katari'>山道にいるグリームニル達をも</span><br><span class='scene-font-katari'>呑みこまんと迫りくる。</span>,<span class='scene-font-katari'>那是非常强大的气势</span><br><span class='scene-font-katari'>像是要将山路中的格里姆尼尔等人</span><br><span class='scene-font-katari'>吞噬一样袭来。</span>
+61,ビィ/碧,くっそー！<br>このままじゃオイラ達だけじゃなく、<br>クレバスに落ちた姬塔達も……,くっそー！<br>这样不止是我们<br>连掉进冰缝的姬塔他们也……
+62,ルリア/露莉亚,どうしましょう！？,该怎么办！？
+63,グリームニル,策はある！<br>少々荒っぽいが……<br>仕方あるまい！,有办法！<br>虽然有些狂暴……<br>但是没办法！
+64,ルリア/露莉亚,グリームニルさん！？,格里姆尼尔！？
+65,グリームニル,少年よ！<br>地下集落の場所を教えてくれ！,少年！<br>告诉我地下部落的位置！
+66,少年の声,えっと、僕達の集落は──,那个，我们的部落在=──
+67,,<span class='scene-font-katari'>少年から地下集落の場所を聞き出した</span><br><span class='scene-font-katari'>グリームニルは、迫り来る</span><br><span class='scene-font-katari'>雪崩を見据え、大きく息を吐く。</span>,<span class='scene-font-katari'>听少年说完了地下部落的位置</span><br><span class='scene-font-katari'>格里姆尼尔看着袭来的雪崩</span><br><span class='scene-font-katari'>深吸一口气。</span>
+68,グリームニル,我が颶風は……<br>闇への裁きにして、光への加護！<br>今こそ！　神威を発揮せん！,吾之飓风……<br>以光之加护审判黑暗！<br>现在正是！　发挥神威之时！
+69,グリームニル,<span class='scene-font-4'>風よ！</span><br><span class='scene-font-4'>我が意志に応えよ！</span>,<span class='scene-font-4'>风啊！</span><br><span class='scene-font-4'>听从我令！</span>
+80,,<span class='scene-font-katari'>グリームニルから解き放たれた</span><br><span class='scene-font-katari'>踊り狂う暴風は</span><br><span class='scene-font-katari'>自然の驚異をも凌駕する。</span>,<span class='scene-font-katari'>格里姆尼尔所解放的</span><br><span class='scene-font-katari'>狂舞的暴风</span><br><span class='scene-font-katari'>凌驾了自然的力量。</span>
+81,魔物達/魔物们,グルウゥゥゥ……,嘎呜……
+83,,<span class='scene-font-katari'>猛吹雪は暗雲と共に吹き飛ばされ、</span><br><span class='scene-font-katari'>大挙して押し寄せた魔物達は殲滅。</span>,<span class='scene-font-katari'>暴风雪和乌云一起被吹走，</span><br><span class='scene-font-katari'>杀来的魔物大群也全灭了。</span>
+84,グリームニル,…………！,…………！
+86,グリームニル,<span class='scene-font-4'>はぁぁぁぁっ！</span>,<span class='scene-font-4'>啊啊啊啊！</span>
+95,,<span class='scene-font-katari'>そしてグリームニルは</span><br><span class='scene-font-katari'>風の力を凝縮させ、</span><br><span class='scene-font-katari'>壁の如き竜巻を形成すると──</span>,<span class='scene-font-katari'>然后格里姆尼尔</span><br><span class='scene-font-katari'>将风的力量凝缩，</span><br><span class='scene-font-katari'>作出了墙壁一样的龙卷风──</span>
+96,,<span class='scene-font-katari'>雪崩を真っ向から受け止め、</span><br><span class='scene-font-katari'>地下集落やクレバスに</span><br><span class='scene-font-katari'>影響がない方向へと受け流した。</span>,<span class='scene-font-katari'>将雪崩停住，</span><br><span class='scene-font-katari'>将方向引向了</span><br><span class='scene-font-katari'>对冰缝和地下部落么没有影响的方向。</span>
+102,グリームニル,ふーっ……<br>何とかなったか……,呼……<br>终于……
+103,ビィ/碧,す、スゲェ……！,厉，厉害……！
+104,ルリア/露莉亚,はい……驚きました……,嗯……惊到我了……
+105,,<span class='scene-font-katari'>こうして──</span>,<span class='scene-font-katari'>就这样──</span>
+106,,<span class='scene-font-katari'>一行に迫った一切合切の脅威は、</span><br><span class='scene-font-katari'>グリームニルの強大な力によって</span><br><span class='scene-font-katari'>祓われるのだった。</span>,<span class='scene-font-katari'>一行人面临的危机</span><br><span class='scene-font-katari'>在格里姆尼尔强大的力量下</span><br><span class='scene-font-katari'>得到了解决。</span>
+111,,<span class='scene-font-katari'>それから姬塔と少年は、</span><br><span class='scene-font-katari'>グリームニルによって無事に</span><br><span class='scene-font-katari'>クレバスから救出された。</span>,<span class='scene-font-katari'>然后格里姆尼尔</span><br><span class='scene-font-katari'>将姬塔与少年</span><br><span class='scene-font-katari'>从冰缝里安全救出。</span>
+111-sel1_txt,,<span class='scene-font-katari'>ありがとう！</span>,<span class='scene-font-katari'>谢谢！</span>
+112,グリームニル,礼はいらん。<br>当然のことさ。,不用谢。<br>这是应该的。
+113,グリームニル,……というか。<br>ちょっと怪我してるじゃないか。<br>待ってろよ……,……但是。<br>这不是受伤了。<br>等一下……
+114,グリームニル,……風よ。<br>癒しとなれ……,……风啊。<br>治愈吧……
+117,,<span class='scene-font-katari'>グリームニルの囁きに呼応した</span><br><span class='scene-font-katari'>穏やかな風が姬塔の身体を</span><br><span class='scene-font-katari'>包み込んだ。</span>,<span class='scene-font-katari'>格里姆尼尔的低语中</span><br><span class='scene-font-katari'>安稳的风</span><br><span class='scene-font-katari'>将姬塔的身体包裹。</span>
+118,グリームニル,これでよし。<br>少しは体が軽くなっただろう。,好了。<br>身体稍微好点了吧。
+119,,<span class='scene-font-katari'>姬塔は言われるがまま、</span><br><span class='scene-font-katari'>軽く運動してみせる。</span>,<span class='scene-font-katari'>姬塔稍微</span><br><span class='scene-font-katari'>试着动了几下。</span>
+120,,<span class='scene-font-katari'>うそのように身体が軽くなったことに</span><br><span class='scene-font-katari'>驚いた姬塔は、</span><br><span class='scene-font-katari'>グリームニルに感謝する。</span>,<span class='scene-font-katari'>身体不可思议的变轻巧了。</span><br><span class='scene-font-katari'>惊讶的姬塔</span><br><span class='scene-font-katari'>向格里姆尼尔道谢。</span>
+121,グリームニル,気にするな。<br>……よく頑張ったな、特異点。,不用在意。<br>……做得好，特异点。
+122,ビィ/碧,へぇ～！<br>暴風で破壊するだけじゃなく、<br>風で癒すこともできるのか！,诶～！<br>不止是用暴风破坏<br>还能用风疗伤的吗！
+123,ビィ/碧,暴風の兄ちゃんは<br>なんでもできるんだな！<br>頼りになるぜ！,暴风小哥<br>什么都能做到呢！<br>真可信！
+124,グリームニル,へへっ！　まぁな～！<br>頼りにしてくれよな～！,嘿嘿！　那么～！<br>以后有事多找我～！
+125,ルリア/露莉亚,あの……<br>怪我とかはありませんか？,那个……<br>没有受伤吗？
+126,少年,騎空士さんが護ってくれたから<br>僕は平気だよ！,骑空士保护了我<br>我没事！
+127,ビィ/碧,しっかし、とんだ災難だったな。<br>あんなクレバスに<br>落っこちて怖かったろ？,但是，真的是场灾难。<br>从那种冰缝里掉下去<br>很可怕吧？
+128,少年,ううん。<br>騎空士さんも一緒にいたし……,嗯嗯。<br>但是骑空士也在一起……
+129,少年,それに、必ず仲間が<br>助けにくるから大丈夫だって<br>励ましてくれたんだ！,然后，鼓励我<br>一定会没事<br>同伴会来救我们的！
+130,グリームニル,仲間が……必ず助けにくる、か……,同伴……一定会来、，吗……
+131,グリームニル,フッ……,嗯……
+132,,<span class='scene-font-katari'>グリームニルは</span><br><span class='scene-font-katari'>姬塔の言葉を噛みしめ、</span><br><span class='scene-font-katari'>ひとり照れくさそうに笑うのだった。</span>,<span class='scene-font-katari'>格里姆尼尔</span><br><span class='scene-font-katari'>品位着姬塔的话</span><br><span class='scene-font-katari'>一个人害羞的笑了起来。</span>
+138,,<span class='scene-font-katari'>それから、地下集落に積み荷を納品した</span><br><span class='scene-font-katari'>姬塔一行は人々から感謝され、</span><br><span class='scene-font-katari'>食事を振る舞われる。</span>,<span class='scene-font-katari'>然后，地下部落为了感谢</span><br><span class='scene-font-katari'>搬运了货物的姬塔一行人，</span><br><span class='scene-font-katari'>请大家吃饭。</span>
+139,集落の女性,さぁさぁ、お食べ。<br>冷えた身体には<br>温かいご飯が一番だからね。,来来，吃吧。<br>对于冻着的身体<br>热乎乎的饭是最有用的。
+140,ビィ/碧,へへっ、こいつは旨そうだな！<br>いっただきまーす！,嘿嘿，这个看起来好好吃！<br>我开动了！
+141,ルリア/露莉亚,いただきまーす！,我开动了！
+143,ルリア/露莉亚,もぐもぐ……,嚼嚼……
+144,ルリア/露莉亚,ふふ、すっごく美味しいです！,呼呼，好好吃！
+145,ビィ/碧,ああ！<br>それに身体も芯から温まるぜ！,嗯！<br>身体也暖起来了！
+146,集落の女性,こんな辺境の地で<br>美味しいご飯が食べられるのも、<br>アンタ達のお陰さ。,在这种边界之地<br>能吃到好吃的饭<br>是你们的功劳。
+147,集落の女性,大変だとは思うけどさ、<br>これからも食料や日用品を<br>届けておくれ。,虽然很辛苦<br>这之后的食品和日用品<br>也请你们运送了。
+148,ルリア/露莉亚,はい！,好！
+149,グリームニル,……集落の民よ。<br>ひとつ、訪ねてもいいか？,……部落之人。<br>能否回答我一个问题？
+150,集落の女性,ああ、なんだい？,嗯，什么问题？
+151,グリームニル,何故、この地で生きる。<br>過酷なる地で……,为什么，生活在此地。<br>荒芜之地……
+152,グリームニル,身を縛るような寒さ。<br>吹雪、雪崩。<br>……人の身には脅威だろう。,让身体无法动弹的寒冷。<br>吹雪，雪崩。<br>……都是生命的威胁。
+153,集落の女性,確かに坊やの言う通りだと思うよ。<br>でもね、環境なんてのは慣れさ。<br>ほら、住めば都って言うだろ？,确实如你所说。<br>但是，环境这种东西总能适应。<br>能住人的地方就会出现城市。
+154,集落の女性,それにさっきも言った通り、<br>欲しいものがあれば、アンタ達のような<br>騎空団に届けてもらえばいい。,就像刚才所说的，<br>当有想要的东西<br>有你们这样骑空团送来就行了。
+155,集落の女性,そう……一番大切なのは……<br>どこで暮らすかってことよりも<br>誰と暮らしていくかってことかねぇ。,然后……最重要的是……<br>比起住哪里<br>和谁一起住更重要呢。
+156,ルリア/露莉亚,誰と暮らしていくか……<br>その気持ち、私わかります！,和谁一起住……<br>这种心情，我能理解！
+157,ビィ/碧,オイラもだぜ！<br>皆と一緒にいられれば、<br>どこで暮らそうと構わねーもんな！,我们也是！<br>和大家一起的话<br>在哪里都行！
+158,集落の女性,日々の小さな幸せを感じられれば、<br>もうそれだけで十分だね。,能感受到日常的点滴幸福，<br>已经足够了。
+159,グリームニル,……なるほど。<br>それもまた、強さか……,……原来如此。<br>这也是一种，强处……
+160,集落の女性,あ、ほら……<br>冷めちゃう前に食べなさい。,啊，喂……<br>在冷掉前快吃吧。
+161,グリームニル,はーい！<br>いっただっきまーす！,嗯ー！<br>我开动了！
+162,グリームニル,<span class='scene-font-4'>……あ、あつっ！？</span>,<span class='scene-font-4'>……好，好烫！？</span>
+163,,<span class='scene-font-katari'>グリームニルは集落の女性や</span><br><span class='scene-font-katari'>姬塔達の考えを知り、</span><br><span class='scene-font-katari'>またひとつ、人の子について学んだ。</span>,<span class='scene-font-katari'>格里姆尼尔知道了</span><br><span class='scene-font-katari'>部落的女性和姬塔一行人的考量，</span><br><span class='scene-font-katari'>又从人类那里学到了些东西。</span>
+164,,<span class='scene-font-katari'>これからも姬塔との旅路で</span><br><span class='scene-font-katari'>更なる学びを得るだろう。</span>,<span class='scene-font-katari'>相信在这之后同姬塔一起的旅途上</span><br><span class='scene-font-katari'>能学到更多东西。</span>
+165,,<span class='scene-font-katari'>そしてまた新たなる脅威に対抗すべく、</span><br><span class='scene-font-katari'>日々成長していこうと</span><br><span class='scene-font-katari'>グリームニルは誓うのだった。</span>,<span class='scene-font-katari'>同时格里姆尼尔内心也暗誓</span><br><span class='scene-font-katari'>能够继续成长</span><br><span class='scene-font-katari'>以对抗新的威胁。</span>
+info,,,scene_chr535_q3_s30

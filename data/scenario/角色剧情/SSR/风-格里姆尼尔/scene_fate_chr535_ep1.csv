@@ -1,0 +1,93 @@
+id,name,text,trans
+0-chapter_name,,踊り狂う暴風,狂舞的暴风
+0-synopsis,,とある日の夜更け。騎空艇の自室で眠る姬塔の頭の中に何者かが語りかけてくる。姬塔が目を覚ますと、突如風が唸り騎空艇が揺れ動く。原因を突き止めるため甲板に向かった姬塔の前に現れたのは、星晶獣グリームニルだった。グリームニルは様々な脅威に対抗する力を得るため、特異点である姬塔の旅に同行したいと願い出るのだった。,有一天深夜。有什么人对正在骑空艇上自己房间里睡觉的姬塔的脑内说着话。姬塔醒来后，骑空艇被风吹的剧烈摇晃。想要弄清原因去往甲板上时，姬塔遇到了星晶兽格里姆尼尔。格里姆尼尔为了得到对抗种种威胁的力量，请求特异点姬塔带上自己一起同行。
+1,,<span class='scene-font-katari'>とある日の夜更け──</span>,<span class='scene-font-katari'>有一天深夜——</span>
+2,,<span class='scene-font-katari'>姬塔は疲れた身体を癒すように</span><br><span class='scene-font-katari'>騎空艇の自室で</span><br><span class='scene-font-katari'>ぐっすりと眠りについていた。</span>,<span class='scene-font-katari'>姬塔为了缓解身体的疲劳</span><br><span class='scene-font-katari'>在骑空艇的房间里</span><br><span class='scene-font-katari'>沉睡着。</span>
+3,,<span class='scene-font-katari'>しかしその眠りを妨げるかのように、</span><br><span class='scene-font-katari'>何者かが姬塔の</span><br><span class='scene-font-katari'>頭の中に語りかけてくる。</span>,<span class='scene-font-katari'>但是不知道是谁</span><br><span class='scene-font-katari'>打断了这睡眠</span><br><span class='scene-font-katari'>在姬塔的脑中说着话。</span>
+4,？？？,<span class='scene-font-gray'>真実を追い求め彷徨いし者……</span><br><span class='scene-font-gray'>異端なる“特異点”よ。</span>,<span class='scene-font-gray'>追求真实的迷茫之人……</span><br><span class='scene-font-gray'>作为异端的“特异点”。</span>
+5,？？？,<span class='scene-font-gray'>安寧の黄昏を捨て、</span><br><span class='scene-font-gray'>さぁ！　今こそ覚醒を……！</span>,<span class='scene-font-gray'>放弃安宁的黄昏，</span><br><span class='scene-font-gray'>来！　现在正是觉醒之时……！</span>
+5-sel1_txt,,<span class='scene-font-katari'>誰かに呼ばれたような……？</span>,<span class='scene-font-katari'>好像有谁在叫我……？</span>
+5-sel2_txt,,<span class='scene-font-katari'>（無視して寝る）</span>,<span class='scene-font-katari'>（无视他继续睡）</span>
+7,,<span class='scene-font-katari'>ベッドから起き上がった姬塔は</span><br><span class='scene-font-katari'>周囲に誰かいるのかと、</span><br><span class='scene-font-katari'>薄暗い部屋の中を見渡す。</span>,<span class='scene-font-katari'>从床上爬起来的姬塔，</span><br><span class='scene-font-katari'>为了确认有谁在周围，</span><br><span class='scene-font-katari'>环顾了一圈昏暗的房间。</span>
+9,,<span class='scene-font-katari'>姬塔はうとうとしながらも</span><br><span class='scene-font-katari'>部屋に誰もいないことを確認し、</span><br><span class='scene-font-katari'>ふたたび眠りについた。</span>,<span class='scene-font-katari'>意识朦胧的姬塔</span><br><span class='scene-font-katari'>确认了房间里没有别人之后，</span><br><span class='scene-font-katari'>又睡下了。</span>
+10,？？？,<span class='scene-font-gray'>あ、あれ？</span><br><span class='scene-font-gray'>聞こえてない？</span><br><span class='scene-font-gray'>いやいや、そんなことないよね！？</span>,<span class='scene-font-gray'>咦？</span><br><span class='scene-font-gray'>没听到吗？</span><br><span class='scene-font-gray'>不不，不会这样吧！</span>
+11,？？？,<span class='scene-font-gray'>あのあの！　俺、俺！</span><br><span class='scene-font-gray'>俺だってー！</span>,<span class='scene-font-gray'>那个那个！　我、我！</span><br><span class='scene-font-gray'>是我ー！</span>
+13,,<span class='scene-font-katari'>刹那──</span><br><span class='scene-font-katari'>静寂を切り裂き風が唸った。</span>,<span class='scene-font-katari'>瞬间──</span><br><span class='scene-font-katari'>低吟的风声划开了寂静。</span>
+14,,<span class='scene-font-katari'>直後、騎空艇は</span><br><span class='scene-font-katari'>嵐に巻き込まれたかのように</span><br><span class='scene-font-katari'>激しく揺れ動く。</span>,<span class='scene-font-katari'>然后、骑空艇像是</span><br><span class='scene-font-katari'>被卷进了风里</span><br><span class='scene-font-katari'>激烈的摇晃着。</span>
+14-sel1_txt,,<span class='scene-font-katari'>…………！</span>,<span class='scene-font-katari'>…………！</span>
+17,,<span class='scene-font-katari'>只事ではないと直感した姬塔は</span><br><span class='scene-font-katari'>何が起きたのかを確かめる為、</span><br><span class='scene-font-katari'>甲板に向かって駆け出した。</span>,<span class='scene-font-katari'>感到这不太对劲的姬塔</span><br><span class='scene-font-katari'>为了确认发生了什么</span><br><span class='scene-font-katari'>冲向了甲板。</span>
+23,,<span class='scene-font-katari'>騎空艇の甲板にやってきた</span><br><span class='scene-font-katari'>姬塔が目にしたのは──</span>,<span class='scene-font-katari'>终于来到了骑空艇的甲板</span><br><span class='scene-font-katari'>出现在姬塔眼前的是──</span>
+24,,<span class='scene-font-katari'>躍り狂う暴風の渦中に立ち、</span><br><span class='scene-font-katari'>月明かりを浴びながら微笑む</span><br><span class='scene-font-katari'>藤色の髪の青年だった。</span>,<span class='scene-font-katari'>月光下微笑着的</span><br><span class='scene-font-katari'>紫藤发色的青年</span><br><span class='scene-font-katari'>在狂舞的暴风漩涡中站着。</span>
+25,？？？,フッ、久しいな。<br>特異点よ……,嗯，好久不见。<br>特异点……
+26,,<span class='scene-font-katari'>風の試練が始まると推測した</span><br><span class='scene-font-katari'>姬塔は、</span><br><span class='scene-font-katari'>素早く剣を抜き放ち、臨戦態勢に入る。</span>,<span class='scene-font-katari'>推测这是风的试炼的</span><br><span class='scene-font-katari'>姬塔</span><br><span class='scene-font-katari'>立马拔出了剑，进入了临战状态。</span>
+27,？？？,白刃を収めよ……<br>此処に降り立ったのは、<br>風の試練の為ではない。,收起武器吧……<br>来到这里，<br>并不是为了风的试炼。
+28,,<span class='scene-font-katari'>藤色の髪の青年はそう告げると、</span><br><span class='scene-font-katari'>踊り狂っていた暴風を一瞬で掻き消し、</span><br><span class='scene-font-katari'>戦う気がないことを示す。</span>,<span class='scene-font-katari'>紫藤发色的青年这么说道。</span><br><span class='scene-font-katari'>为了表示并无战意，</span><br><span class='scene-font-katari'>狂舞的暴风瞬间消失了。</span>
+29,,<span class='scene-font-katari'>姬塔は</span><br><span class='scene-font-katari'>事態が呑みこめないながらも、</span><br><span class='scene-font-katari'>言われた通りに剣を収めた。</span>,<span class='scene-font-katari'>姬塔</span><br><span class='scene-font-katari'>把握了情况，</span><br><span class='scene-font-katari'>把剑收了起来。</span>
+30,,<span class='scene-font-katari'>そして、</span><br><span class='scene-font-katari'>用件を尋ねようとしたその時──</span>,<span class='scene-font-katari'>然后，</span><br><span class='scene-font-katari'>想问他为何而来的时候──</span>
+32,ルリア/露莉亚,姬塔！<br>さっきの揺れは一体……,姬塔！<br>刚才的摇动是怎么回事……
+33,ビィ/碧,うーん……不思議だよなぁ。<br>風も吹いてねーのに、<br>あんなに激しく揺れたんだもんな……,嗯……真不可思议。<br>只是吹着风就，<br>这么剧烈的摇晃……
+34,ビィ/碧,って、誰だコイツ？,然后、这谁？
+35,？？？,……ん？,……嗯？
+36,？？？,おー！<br>赤き竜と蒼の少女じゃないかー！<br>ひっさしぶりー！,哦ー！<br>这不是红龙和青色少女吗ー！<br>好久不见ー！
+37,ビィ/碧,ひさしぶり……？<br>オイラ、お前と会うのは<br>初めてなんだけどよ……,好久不见……？<br>我们、是第一次<br>和你面对面吧……
+38,？？？,……あ、そっか。<br>この前きた時は<br>すやすや眠ってたもんなー,……啊、这样啊。<br>之前来的时候<br>睡得正熟呢ー
+39,？？？,フッ……<br>だったら、改めて名乗らねばなるまい！,呼……<br>那样的话、再自我介绍一下！
+40,,<span class='scene-font-katari'>藤色の髪の青年は</span><br><span class='scene-font-katari'>人懐っこい表情から一転、</span><br><span class='scene-font-katari'>ビィとルリアに鋭い眼差しを向ける。</span>,<span class='scene-font-katari'>紫藤发色的青年，</span><br><span class='scene-font-katari'>亲切的表情变成了锐利的凝视</span><br><span class='scene-font-katari'>看向了碧和露利亚。</span>
+50,グリームニル,我は軍神！<br>踊り狂う暴風……グリィィィムニル！！,在下军神！<br>狂舞的暴风……格里里里里姆尼尔！！
+51,ビィ/碧,…………,…………
+52,ルリア/露莉亚,…………,…………
+53,,<span class='scene-font-katari'>ビィとルリアはグリームニルの</span><br><span class='scene-font-katari'>力強い自己紹介に圧倒されたのか、</span><br><span class='scene-font-katari'>呆然としてしまう。</span>,<span class='scene-font-katari'>碧和露利亚像是被格里姆尼尔</span><br><span class='scene-font-katari'>很用力的自我介绍压倒一样，</span><br><span class='scene-font-katari'>呆住了。</span>
+54,グリームニル,フッ……<br>決まった……,呼……<br>就是这样了……
+55,ルリア/露莉亚,あ、はい……<br>よろしくお願いします！,啊、好……<br>请多指教！
+56,ビィ/碧,……お、おう。,……嗯，嗯。
+57,グリームニル,あ、あれ？<br>ちょっと待って？<br>なんか引いてない？,あ、あれ？<br>等等？<br>怎么有点呆住了？
+58,グリームニル,カッコよかったよね……<br>よね？,好帅的……<br>是吧？
+59,グリームニル,なぁ！<br>なんか言ってくれよ！　特異点～！,呐！<br>说点什么嘛！　特异点～！
+60,,<span class='scene-font-katari'>涙目のグリームニルから懇願された</span><br><span class='scene-font-katari'>姬塔は──</span>,<span class='scene-font-katari'>被泪眼婆娑的格里姆尼尔请求着的</span><br><span class='scene-font-katari'>姬塔──</span>
+61,,<span class='scene-font-katari'>気まずそうにしているビィとルリアに</span><br><span class='scene-font-katari'>彼こそが風の試練を与え、</span><br><span class='scene-font-katari'>力を与えてくれた星晶獣だと説明する。</span>,<span class='scene-font-katari'>和看上去不太好的露利亚和碧说明了，</span><br><span class='scene-font-katari'>他是负责风之试炼，</span><br><span class='scene-font-katari'>并且给予了力量的星晶兽。</span>
+66,ルリア/露莉亚,へぇ、そうだったんですね！<br>その節はお世話になりました！,啊，是这样啊！<br>受照顾了！
+67,ルリア/露莉亚,グリームニルさんは、<br>今日も風の試練のために来たんですか？,格里姆尼尔，<br>今天也是来风之试炼的吗？
+68,グリームニル,いや、違う。<br>此度の風は試練に非ず……,不，非也。<br>此风并非试炼之风……
+69,,<span class='scene-font-katari'>本題に戻ったグリームニルは、</span><br><span class='scene-font-katari'>神妙な様子で姬塔に向き直る。</span>,<span class='scene-font-katari'>回到了正题的格里姆尼尔，</span><br><span class='scene-font-katari'>对着姬塔变回了高贵的姿态。</span>
+70,グリームニル,特異点が持ちし、異能の力。<br>意志に従い、其の禁忌に触れし時、<br>風は新たな輝きを得ん……,特异点所有异能之力。<br>顺其意志触碰禁忌之时，<br>风将再放光辉……
+71,ルリア/露莉亚,えっと……その……,那……那个……
+72,ビィ/碧,オマエよぅ、なに言ってんのか<br>イマイチわかりづれぇな……,我说你，在说什么<br>完全听不懂……
+73,グリームニル,えっ、その、あのな？<br>分かんなかった？,啊、那个、什么？<br>没听懂吗？
+74,ルリア/露莉亚,え、ええっと……<br>雰囲気なら少し……,那、那个……<br>气氛的话稍微明白了……
+75,ビィ/碧,なぁ、もう少しわかりやすく<br>説明してくれねーか？,呐，可以稍微简明易懂的<br>说明一下吗？
+76,グリームニル,うぅ……その、つまりだな！<br>とある方から言われたんだよ！,唔……那个、也就是说！<br>某人对我这么说！
+77,グリームニル,様々な脅威に対抗する為にも、<br>我々は“特異点”と接触し、<br>更なる力を得る為、学ぶべきだって！,为了对抗各种威胁，<br>获得更多力量，<br>我们应该与特异点接触并且学习！
+78,ビィ/碧,ふーん……<br>とある方って誰なんだ？,哦……<br>某人是谁？
+79,グリームニル,それはその……なんだ。<br>あれだ……うん、その、秘密。,那个……就是。<br>那是……嗯、那个、秘密。
+80,ルリア/露莉亚,えぇっ？,诶？
+81,グリームニル,秘密は、秘密だ。,秘密就是，秘密。
+82,ビィ/碧,…………,…………
+83,ビィ/碧,……で、暴風の兄ちゃんはよぉ、<br>姬塔に試練を<br>与えるぐらいだからスゲェ強ぇんだろ？,……那啥，暴风的小哥，<br>给了姬塔试炼，<br>超厉害的吧？
+84,ビィ/碧,そんなアンタが<br>オイラ達から学ぶことなんてあるのか？,这样的你<br>有什么可以从我们这学到的东西？
+85,グリームニル,あぁ、そう確信している。<br>お前達との旅路の中で、必ずや<br>闇を祓う力を得ることになると……！,啊，我相信着。<br>与你们一起的旅途中，一定能<br>得到驱逐黑暗的力量……！
+86,グリームニル,……特異点よ！<br>我は暴風、颶風の化身。<br>しかし今は、新たな力を求むそよ風。,……特异点！<br>我是暴风，飓风的化身。<br>但是现在，我是想要得到新的力量的微风。
+87,グリームニル,お前が統べるこの騎空艇に……<br>お前が紡ぐその軌跡に……<br>この俺を同行させてもらえないか？,在这你所带领的骑空艇……<br>在你所编织的轨迹里……<br>能带我一起同行吗？
+87-sel1_txt,,<span class='scene-font-katari'>もちろん！</span>,<span class='scene-font-katari'>当然！</span>
+87-sel2_txt,,<span class='scene-font-katari'>断る！</span>,<span class='scene-font-katari'>我拒绝！</span>
+89,グリームニル,ほ、本当か！　ほんとーかー！,真、真的吗！　真的ー吗ー！
+90,グリームニル,<span class='scene-font-4'>わーーーい！</span><br><span class='scene-font-4'>做到了ーーー！</span>,<span class='scene-font-4'>哇ーーー！</span><br><span class='scene-font-4'>やったーーー！</span>
+91,ルリア/露莉亚,ふふっ、すっごい喜んでますね！,哈哈，超开心的样子呢！
+93,グリームニル,ちょ、え？<br>えっ、あのそのあの、えっ！？<br><span class='scene-font-4'>えぇぇーっ！？</span>,等、啥？<br>诶、这么那个这个、诶！？<br><span class='scene-font-4'>诶诶诶ー！？</span>
+94,グリームニル,ちょっと待って！<br>特異点！<br>もっかい！　もっかいだけ考えてっ！,等等！<br>特异点！<br>再给次机会！　再思考一下！
+95,グリームニル,俺、すごいぞ？<br>嵐とか……起こせるしっ！<br>頑張るよ？　すっごーく頑張るよ！？,我，好厉害的？<br>可以用……风之类的！<br>也很努力？　很ー努力的啊！？
+96,グリームニル,<span class='scene-font-4'>なぁーー！</span><br>赤き竜と蒼の少女からも<br>頼んでくれよーー！,<span class='scene-font-4'>呐ーー！</span><br>赤龙和苍之少女<br>帮帮我ーー！
+97,ビィ/碧,ははっ……必死だな……,哈哈……真拼命……
+98,ルリア/露莉亚,姬塔、グリームニルさんも<br>こう言ってますし……<br>一緒に旅をしませんか？,姬塔，格里姆尼尔已经<br>这么说了……<br>不一起踏上旅途吗？
+99,グリームニル,な！？<br>頼むよ、特異点ーー！！,对！？<br>求你了，特异点ーー！！
+100,,<span class='scene-font-katari'>姬塔は真剣に頼み込む</span><br><span class='scene-font-katari'>グリームニルとルリアを見て、</span><br><span class='scene-font-katari'>破顔した。</span>,<span class='scene-font-katari'>姬塔看着努力求情的</span><br><span class='scene-font-katari'>格里姆尼尔和露利亚，</span><br><span class='scene-font-katari'>不禁露出了微笑。</span>
+101,,<span class='scene-font-katari'>そして、からかったことを詫び、</span><br><span class='scene-font-katari'>同行を許可する。</span>,<span class='scene-font-katari'>然后为自己无情的态度道歉，</span><br><span class='scene-font-katari'>许可了同行。</span>
+102,グリームニル,なぁんだ、冗談だったのかぁ……！<br>よかったぁー！<br>もー、びっくりさせるなよぉー,什么，是开玩笑吗……！<br>太好了ー！<br>真的ー，别吓我嘛ー
+103,ルリア/露莉亚,ふふっ、よかったですね！,哈哈，真是太好了！
+104,,<span class='scene-font-katari'>大喜びするグリームニルを</span><br><span class='scene-font-katari'>ビィは不思議そうに見つめる。</span>,<span class='scene-font-katari'>碧一脸不可思议的</span><br><span class='scene-font-katari'>看着无比高兴的格里姆尼尔。</span>
+105,ビィ/碧,ほんとにスゲェ星晶獣なのかよ？,这真的是很厉害的星晶兽？
+106,グリームニル,……ハッ！<br>ご、ごほん！<br>……特異点よ！　汝の快諾に感謝する！,……哈！<br>咳、咳咳！<br>……特异点！　感谢你的承认！
+107,グリームニル,では……共に蒼空の果てを目指そう！<br>我が颶風が汝の翼とならん！,那么……一起将青空的尽头作目标！<br>我的飓风将成为你的翅膀！
+108,グリームニル,……へへ。<br>よろしくな、特異点。,……嘿嘿。<br>请多指教，特异点。
+109,,<span class='scene-font-katari'>こうして、人懐っこい笑顔を見せる</span><br><span class='scene-font-katari'>星晶獣グリームニルが仲間に加わった。</span>,<span class='scene-font-katari'>就这样，亲切的笑着的</span><br><span class='scene-font-katari'>星晶兽格里姆尼尔成为了同伴。</span>
+110,,<span class='scene-font-katari'>闇を祓う力を手に入れんが為、</span><br><span class='scene-font-katari'>姬塔も彼から様々なことを</span><br><span class='scene-font-katari'>学んでいこうと思うのだった。</span>,<span class='scene-font-katari'>为了得到驱逐黑暗的力量，</span><br><span class='scene-font-katari'>姬塔也想着</span><br><span class='scene-font-katari'>从他那里学习。</span>
+info,,,scene_fate_chr535_ep1

@@ -1,0 +1,71 @@
+id,name,text,trans
+0-chapter_name,,1: Creeping Shadows,偷偷靠近之影
+0-synopsis,,"Zeta and her party are on their way to meet up with the crew, but Vaseraga can't get Lester's death off his mind. He disappears to another part of town to have his body ""conditioned"", something Eustace claims is Vaseraga's way of showing penance to fallen comrades.",
+1,Vaseraga/巴萨拉卡,...,...
+7,???,"I have finally been assigned to a mission with you, sir. Thank you for all your help up until now.",<span class='scene-font-gray'>巴扎拉加先生。 终于可以一起去执行任务了。 到现在为止，多谢了。</span>
+13,???,It's changing shape! There's some kind of light building up around it...,<span class='scene-font-gray'>武器的形状在改变！有种光芒在它周围聚集...</span>
+14,???,...,<span class='scene-font-gray'>...</span>
+20,Vaseraga/巴萨拉卡,(I...),<span class='scene-font-kokoro'>我...</span>
+21,Vaseraga/巴萨拉卡,(It happened again...),<span class='scene-font-kokoro'>又来了...</span>
+22,Zeta/泽塔,Vaseraga? What are you spacing out for?,...巴萨拉卡？ 你在发什么呆。
+23,Vaseraga/巴萨拉卡,...!,...!
+24,Zeta/泽塔,You're holding that piece of Lester's armor.,你手里拿的是莱斯特的盔甲碎片吗？
+25,Vaseraga/巴萨拉卡,Yes. He died because of my carelessness.,啊。 是我的疏忽害死了他。
+26,Zeta/泽塔,It wasn't your fault.,...不是你的错吧。
+27,Vaseraga/巴萨拉卡,...,...
+28,,The Draph has nothing more to say.,<span class='scene-font-katari'>之后，巴萨拉卡便没再开口了。</span>
+29,Zeta/泽塔,...,...
+30,Zeta/泽塔,"Sigh... Anyway, what am I gonna do about this tracking device?",啊...我们到底该拿这个监视器怎么办啊。
+31,Zeta/泽塔,Can't take it off—can't even go to the bathroom without the people upstairs knowing. It's freakin' overkill.,你还没法把它从手臂上拆下来。 如果上头愿意的话，就能知道我在哪里做什么吧？ 真要命...
+32,Vaseraga/巴萨拉卡,I'm sorry.,...抱歉。
+33,Zeta/泽塔,"Um, what? That's not like you at all!",哈？！等会！什么，拉卡才不会这样...！
+34,Vaseraga/巴萨拉卡,...,...
+35,,Vaseraga doesn't reply. He simply shakes his head over and over again as he walks away.,巴萨拉卡没有回应泽塔，痛苦地摇了摇头就离开了。
+36,Zeta/泽塔,Give me a break!,真是的...！
+37,Zeta/泽塔,"You're not the only affected by your sulking, you know!",你这么做，我也不高兴的...！
+43,Beatrix,...,...
+44,,Beatrix has been watching their conversation.,<span class='scene-font-katari'>贝阿朵丽丝远远地看着泽塔和巴萨拉卡的对话。</span>
+46,Eustace/尤斯缇斯,Are you worried about him?,你担心巴萨拉卡吧。
+47,Beatrix,Yeah. Wouldn't you be down too if you saw a comrade die?,啊...巴萨拉卡看到同伴死去，换成是你也会很沮丧吧？
+48,Eustace/尤斯缇斯,This definitely is no ordinary situation. Is that why you suggested rendezvousing with 姬塔 and the others?,这确实和平时不太一样。 所以你才想让我见<span class='scene-font-katari'>姬塔</span>他们。
+49,Beatrix,"Yep. At a time like this, that guy's death will haunt him to no end.",是的。 在这种时候，会一直回想着那个死去的人，对吧？
+50,Beatrix,"It takes time to deal with sadness, but too much of it can overshadow everything else.",长时间的悲伤是可以的...但是，如果只顾着悲伤的话，就看不到其他的事情了。
+51,Beatrix,Like when I lost my family... Just hearing Zeta's voice was enough to help me through it...,...我，家人去世的时候，就是这样的...直到泽塔来和我我交流，才淡忘了很多事情...
+52,Eustace/尤斯缇斯,...,...
+53,Beatrix,Or am I just butting in?,...难道是我多管闲事吗？
+54,Eustace/尤斯缇斯,You are.,是...
+55,Beatrix,"Oh... Yeah, I guess so...",唔......这，这样啊......果然是这样啊......
+56,Eustace/尤斯缇斯,But Vaseraga didn't explicitly say no either. I think your good intentions reached him in a way.,但巴萨拉卡没有拒绝。 至少，你的想法和感受已经传达了吧。
+57,Beatrix,Hopefully...,...希望如此...
+63,Zeta/泽塔,"Mm... Nothing beats a nice, peaceful town.",啊......果然，和平的街道也不错啊。
+64,Beatrix,Don't tell me you're looking to shop or something.,难道泽塔，你是想买东西什么的？
+65,Zeta/泽塔,"Sure, why not after all that's happened? It'll let me take my mind off things.",嗯？ 是啊......毕竟发生了这么多事。希望我们可以一起散心。
+66,Eustace/尤斯缇斯,After we finish our business first. Until then behave yourselves.,要在这件事结束之后。自重些。
+67,Beatrix,"Pfft, you don't have to tell me that! It's not like I brought Zeta here so that we could goof off or anything!",我，我知道！我又不是来跟泽塔玩的！
+68,Zeta/泽塔,"Hehe... You're relieved Ilsa's not around, aren't ya, Bea?",呵呵......小贝，没有伊尔莎了，你应该松了一口气吧。
+69,Beatrix,"N-no, who said anything about that? I'm not suffering from the trauma of her training! No siree!",不，不是那样的！我可没因为训练生时代留下什么创伤！
+70,Eustace/尤斯缇斯,"Ah, I see. Ilsa was your instructor.",是吗。原来伊尔莎就是教官。
+71,Zeta/泽塔,Mine too. That's why I still address her with authority.,我也是。所以还是放不下礼貌用语。
+72,Eustace/尤斯缇斯,Yes... She's certainly changed.,这样啊...那家伙也改变了很多。
+73,Zeta/泽塔,That bother you? How's she different?,我很好奇。你是说他变了？
+74,Eustace/尤斯缇斯,"She never used words like ""crap"" back then.",以前错了也不会用“狗屎”这词。
+75,Beatrix,Liar! That's like her favorite word.,不会吧......！？“狗屎”不就是伊尔莎教官的代名词吗...
+76,Eustace/尤斯缇斯,"She's actually an average, ordinary person.",对，看得出来，是个普通人。
+77,Beatrix,Really? Are you close to Ilsa?,原...原来是这样......呐，尤斯缇斯和伊尔莎教官关系亲密吗？
+78,Eustace/尤斯缇斯,We both joined the Society around the same time. That's all.,同一时期进入组织，仅此而已。
+79,Beatrix,When did you notice that about her?,呐，伊尔莎什么时候变成这样了？
+80,Eustace/尤斯缇斯,I'm not entirely sure. You can ask Vaseraga about her later.,不知道，我不知道细节。回头再去问巴萨拉卡吧。
+81,Zeta/泽塔,He knows the old Ilsa too?,那家伙也了解以前的伊尔莎......？
+82,Zeta/泽塔,What's his story?, 那，巴萨拉卡呢？
+83,Eustace/尤斯缇斯,"He requested a weapon, and it came into his possession. He spoke of how it would bring his physical conditioning to completion.",他收到了我们订购的武器。还说到要以此完成身体的改造。
+84,Zeta/泽塔,Hmm. Must've been a long time ago.,原来如此。应该是很久以前了吧？
+85,Eustace/尤斯缇斯,"Presumably. After joining the Society, he focused his entire being into ensuring no one would die.",也许吧。自加入这个组织起，他就一直致力于不让任何人死去。
+86,Eustace/尤斯缇斯,But this time it was out of his hands.,但是，这次没有成功...
+87,Eustace/尤斯缇斯,"Whenever he loses a comrade, he conditions his body. This is an act of penance in his mind.",每次失去同伴，他的身体就好像跟“身体改造”完全没了关系似的。
+88,Zeta/泽塔,"Penance, huh? Judging from his appearance, he must've been conditioning himself for a long time. We all have skeletons in our past, don't we?",是的，是的。他花了很长时间改造了一些东西，我想知道他在过去发生了什么。
+89,,Zeta wonders what could have happened to Vaseraga back then.,<span class='scene-font-katari'>泽塔也察觉到巴萨拉卡过去好像发生过什么事。</span>
+90,,"But since she has no interest in piecing together speculation, she changes the subject.",<span class='scene-font-katari'>泽塔觉得对此进行猜测也不是兴趣所在，于是中断了对话。</span>
+91,Zeta/泽塔,Guess I'd better get ready too. My current gear just doesn't cut it.,那么......那么，我大概也准备好了。 我们现在的装备可不怎么好啊。
+92,,"And with that, Zeta and the others head to the Knickknack Shack to purchase equipment.",<span class='scene-font-katari'>就这样，泽塔一行一起前往杂货店买装备去了。</span>
+info,,,scene_evt171231_cp1_q3_s10
+译者,,,kevin

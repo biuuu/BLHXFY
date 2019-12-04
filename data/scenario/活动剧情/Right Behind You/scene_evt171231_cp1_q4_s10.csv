@@ -1,0 +1,65 @@
+id,name,text,trans
+0-chapter_name,,1: Creeping Shadows,偷偷靠近之影
+0-synopsis,,"Vaseraga undergoes treatment from a healer which induces bad memories of all the people he's lost in the past. Meanwhile aboard the Grandcypher, the crew notice more and more insect-like things in the sky as they get closer to the island where Zeta and the others are waiting.",
+6,Vaseraga/巴萨拉卡,Guh!,啊......啊...
+7,Dark Primal/黑色星晶兽,...,......
+11,,Vaseraga's body is decaying.,<span class='scene-font-katari'>腐烂的身躯。</span>
+12,,"A putrid stench comes off his dissolving black limbs, induced by the power of the primal beast before him.",<span class='scene-font-katari'>在眼前星晶兽的力量下，巴萨拉卡的四肢从末端逐渐黑化，散发出恶心的臭味，并一点点地崩溃。</span>
+13,Young Skyfarer/年轻的骑空士,Protect Captain Vaseraga! Get him somewhere safe on the double!,保护巴萨拉卡团长！快带他去安全的地方！
+14,Vaseraga/巴萨拉卡,Stop! Leave me... Run!,等等......！我的事......!放开我，撤退......做......！
+16,Young Skyfarer/年轻的骑空士,"As long as you're alive, we can rebuild. We promised, didn't we? Our lives are yours!",只要有你，团就能重建......我不是说过了吗......我们的性命就交给你了！
+17,Vaseraga/巴萨拉卡,No! Stop this right now!,不要......！住手......！
+18,Vaseraga/巴萨拉卡,Cough...,咳......
+19,,Vaseraga's lungs have fallen to the black decay that now spreads throughout his entire body. The pain is so intense that twitching a single finger tip proves impossible.,<span class='scene-font-katari'>咳嗽的时候，我的肺破裂了。现在黑血染遍全身，疼得连一根手指头都动不了。</span>
+20,Vaseraga/巴萨拉卡,Agh... Aaah!,啊....唔..
+23,,"His comrades who are carrying him are not immune to the pain either, and one by one they drop.",<span class='scene-font-katari'>拖着自己身体的同伴们也无法忍受腐烂的痛苦，一个接一个地倒下。</span>
+29,Vaseraga/巴萨拉卡,(My conceit caused this mess...),</span><br><span class='scene-font-kokoro'>是我的傲慢导致了那件事......</span>
+30,Vaseraga/巴萨拉卡,(Countless sacrifices made so that I could survive. This body was forged so that no one would have to fall into the same pits.),</span><br><span class='scene-font-kokoro'>做出了无数牺牲后，我存活了下来。为了不让任何人重蹈覆辙......因此，才造就了我的这副身躯......</span>
+31,Vaseraga/巴萨拉卡,(But...),</span><br><span class='scene-font-kokoro'>但是......</span>
+38,Lester/莱斯特,...,...
+51,Vaseraga/巴萨拉卡,(If only I had jumped in front of that boy...),</span><br><span class='scene-font-kokoro'>我，竟没能为那个孩子做一面坚盾...</span>
+60,Healer/魔医师,You're awake. The procedure is over. How do you feel?,你醒了。...这样手术就结束了。感觉如何？
+61,Vaseraga/巴萨拉卡,Never better. Thanks for your time.,没问题。可真是给你添麻烦了啊。
+62,Healer/魔医师,"With that said, you still require a different treatment.",但是，你还需要一些特殊的手术。
+63,Vaseraga/巴萨拉卡,A lot has... happened.,...因为种种原因。
+64,Healer/魔医师,"Well, it's not my place to pry. Now as for the results of your body analysis...",好吧，我不会打听的。那么，还有一件事。你身体的分析结果显示...
+65,Healer/魔医师,"You've gained physical strength that defies logic, though you wouldn't know it at a glance.",不明原理的肌肉强化正在进行。光看表面根本不知道这究竟是怎么回事...
+66,Vaseraga/巴萨拉卡,No surprises there.,我就知道。
+67,Healer/魔医师,"Something's taken root throughout your body. It bends to your will, which I'm sure will safeguard you in times of battle.",有样东西在你身体里扎根。它会按照你的意愿行动，我猜大概是在帮助战斗吧。
+68,Vaseraga/巴萨拉卡,I remember my armor changing form in a previous battle.,以前，在战斗中，我的盔甲曾发生过形状变化。
+69,Vaseraga/巴萨拉卡,"Do you think this ""root"" you mentioned has anything to do with making armor come out of my body?",你说的<span class='scene-font-spword'>『根』</span>，能不能外露到我身体表面来做装甲？
+70,Healer/魔医师,"It's difficult to perform a definitive analysis, but since you seem able to control your form at will, it's within the realms of possibility.",虽然分析得不是很详细，但可以随意改变形状这一点，是很有可能的。
+71,Vaseraga/巴萨拉卡,Mm. Thanks again.,这样啊。谢谢。
+77,Vaseraga/巴萨拉卡,(It always feels unsettling whenever I'm consumed by Grynoth's power.),<span class='scene-font-kokoro'>每当我被格罗诺斯的力量吞噬，我都会有一种奇怪的不协调感...</span>
+78,Vaseraga/巴萨拉卡,(There's something inside me. Something that's awakened...),<span class='scene-font-kokoro'>果然在我的身体里，发生了什么...</span>
+79,Beatrix/贝阿朵丽丝,"Hey, there he is!",啊，他们来了！
+80,,Vaseraga stops when he hears Beatrix calling him in the distance.,<span class='scene-font-katari'>听到远处贝阿朵丽丝的呼唤，巴萨拉卡停下了脚步。</span>
+82,Beatrix/贝阿朵丽丝,Don't go off on your own now! You're supposed to be under our watch!,不要一个人行动，你是监视对象啊！
+83,Vaseraga/巴萨拉卡,I have a tracking device on me too. There shouldn't be any problems.,监视装置的话，我也有戴。应该不会有问题。
+85,,"Vaseraga gives a little shrug, causing the bag in his hand to rustle.",<span class='scene-font-katari'>巴萨拉卡微微耸了耸肩。就在这时，手里的袋子发出了沙沙的响声。</span>
+86,Beatrix/贝阿朵丽丝,Huh? What's in the bag? Did you buy something?,嗯？那个手提袋里有什么？你还买了别的什么吗？
+87,Vaseraga/巴萨拉卡,Yes. I found a rare breed of apples.,是的。我看到了不寻常的苹果。
+88,Zeta/泽塔,Apples?,苹果...？
+89,Zeta/泽塔,"Oh, as a gift for Vyrn.",啊，原来如此。这是给碧的礼物啊。
+90,Zeta/泽塔,"Ahaha. You said you didn't want to see them, but here you are looking forward to it.",啊哈哈。 他说他不想买，但我还是很期待呐。
+91,Vaseraga/巴萨拉卡,It's simply good manners to give a small gift.,我不知道。纪念品是家常嘛。
+92,Zeta/泽塔,Whatever. We should make the most of our time with the crew until Ilsa's gotten everything ready.,嘛，算了。在伊尔莎的准备工作结束之前，和<span class='scene-font-katari'>姬塔</span>他们待一会儿就可以了。
+93,Vaseraga/巴萨拉卡,Mm.,啊...
+99,Lyria/露莉亚,Ah! We're almost there!,啊！<span class='scene-font-katari'>姬塔</span>，阿碧！我们已经到了！
+100,Vyrn/碧,"Red and the others are already on the ground, right?",红姐妹们已经到那里了吗？
+101,Lyria/露莉亚,It's going to be great seeing everyone again.,我现在很期待见到大家啊！
+102,Vyrn/碧,Yep. How many days has it been since we got to see their faces? Hope they've been doing well.,是的。我们多久没和他们见面了。他们还好吗？
+103,,Their hearts beat with excitement at the thought of the long-awaited reunion. It's at that point that 姬塔 looks off far into the sky.,<span class='scene-font-katari'>许久未见，这次相聚让人兴奋不已。就在这时，姬塔突然望向了远方的天空。</span>
+104,Vyrn/碧,What? Do you see something?,怎么了<span class='scene-font-katari'>姬塔</span>？你找到什么了吗？
+105,Lyria/露莉亚,Is it those bugs again? They're flying everywhere.,啊，远处有虫子...？可以看到它们在飞来飞去。
+106,Vyrn/碧,Seems like they've been multiplying ever since we got here.,自从来这里，总觉得数量在不断增加。
+107,Lyria/露莉亚,"How mysterious. Looks like some people are trying to catch them, but...",不知道那是什么东西。好像也有人想抓住它们...
+108,,The insect-like entities always keep their distance from land and airships as they continue to hover around.,<span class='scene-font-katari'>像虫子一样的东西总是保持距离地在岛上或者船边飞来飞去。</span>
+109,,"No one has an answer as to what they are, for no one has succeeded in capturing one.",<span class='scene-font-katari'>因此，没人能抓住它，也没有人知道它的真实面目。</span>
+110,Vyrn/碧,"Eh, I haven't seen 'em do anything bad, so we can probably ignore 'em.",不过也没什么好担心的嘛。
+111,,The flying objects have never left the crew over the past few days. By now the crew has lost their curiosity in them.,<span class='scene-font-katari'>这几天，它们一直出现在姬塔一行的视线里。不知不觉大伙已经对它没有新奇感了。</span>
+112,Insect-Like Drone/？？？,Chzzk-chzzk-chzzk,嗞嗞嗞嗞嗞...
+113,,"They have no reason to believe that the ""insects"" are watching the Grandcypher's every move.",<span class='scene-font-katari'>因此，没人会想到这些昆虫会一直注视着格兰赛法的一举一动。</span>
+114,Insect-Like Drone/？？？,Atgert dounf.,…！@#￥%…&*…
+info,,,scene_evt171231_cp1_q4_s10
+译者,,,kevin

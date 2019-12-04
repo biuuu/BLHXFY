@@ -1,0 +1,28 @@
+id,name,text,trans
+0-chapter_name,,優しく愚かな世界,温柔而愚蠢的世界
+0-synopsis,,真剣に何かのデータを分析し、そこに予想外のランダム性を感じるカイム。そして一方、謎の声は聡明な子供の物語の続きを語る。子供を拾った老夫婦はとても優しかったが、聡明すぎる子供は、その優しさゆえの欠点を指摘し好意を裏切る。その後もつきぬけた知性故に周囲の人々の優しさや愚かさを受け入れることができず、聡明な子供は世界から孤立していくのだった。,凯姆认真分析了某些数据之后，从中察觉了其随机性。而另一边，谜之声仍在继续讲述那个聪明孩子的故事。虽然捡走孩子的老夫妇心地和善，但那个聪明过头的孩子却指责善良是他们的缺点，践踏了他们的好意。在那之后聪明的孩子因为超常的智慧，无法接受周围人的温柔与愚蠢，于是从这个世界孤立出来了。
+0,カイム,……うん、やっぱりな。,……嗯，果然如此啊。
+1,,<span class='scene-font-katari'>薄暗い室内、カイムは真剣な顔で</span><br><span class='scene-font-katari'>机に向き合っている。</span>,<span class='scene-font-katari'>昏暗的房间里，</span><br><span class='scene-font-katari'>凯姆一脸认真地站在桌前。</span>
+2,カイム,収集したデータのランダム性が<br>増してる……本来なら、そろそろ<br>収束に向かうはずなのに。,收集到的数据的随机性正在增加……<br>本来的话应该趋近于结果了。
+3,カイム,特異点となっているのは……<br>やっぱり彼等か。,果然引起异常的……<br>是他们吗。
+4,カイム,……ふっ。<br>想定を超えてくれないと<br>面白くない。,……呵。<br>超出意料才有趣啊。
+5,カイム,歴史というのは、往々にして<br>こういう特殊な存在を<br>うみだすものだからな。,历史往往都是<br>由特殊的事物造就的。
+6,カイム,…………それは、僕もか。,…………我也是如此吧。
+7,,<span class='scene-font-katari'>感情のない声で呟かれた言葉は</span><br><span class='scene-font-katari'>すぐに部屋の暗がりに溶けて</span><br><span class='scene-font-katari'>消えていった。</span>,<span class='scene-font-katari'>这句毫无感情的低语</span><br><span class='scene-font-katari'>立刻就融化在房间的黑暗处</span><br><span class='scene-font-katari'>消失的无影无踪。</span>
+14,,<span class='scene-font-katari'>優しくて裕福な老夫婦は、子供を</span><br><span class='scene-font-katari'>大層可愛がり、彼等はとてもとても</span><br><span class='scene-font-katari'>幸せな家族に見えました。</span>,<span class='scene-font-katari'>和善富裕的老夫妇</span><br><span class='scene-font-katari'>非常疼爱这个孩子</span><br><span class='scene-font-katari'>他们看起来是非常非常幸福的一家。</span>
+15,,<span class='scene-font-katari'>しかしそれでも、賢すぎる子供に</span><br><span class='scene-font-katari'>とっては、ひび割れとほころび</span><br><span class='scene-font-katari'>だらけだったのです。</span>,<span class='scene-font-katari'>但是即使如此，</span><br><span class='scene-font-katari'>对那个聪明过头的孩子来说</span><br><span class='scene-font-katari'>这个家庭也满是缺陷和破绽。</span>
+16,,<span class='scene-font-katari'>老夫婦が、いかに惨めでお人好しで</span><br><span class='scene-font-katari'>欠点だらけの存在なのか……</span>,<span class='scene-font-katari'>那对老夫妇即使再怎么亲切和蔼</span><br><span class='scene-font-katari'>也是会有很多缺点的……</span>
+17,,<span class='scene-font-katari'>六歳になった子供は、ある時それを</span><br><span class='scene-font-katari'>長い長い時間にわたって説教しました。</span>,<span class='scene-font-katari'>那孩子六岁的时候，有一天因为这</span><br><span class='scene-font-katari'>而花了很长的时间去说教这对老夫妇。</span>
+18,,<span class='scene-font-katari'>子供にとっては、当然のこと。</span>,<span class='scene-font-katari'>对那孩子来说，这是理所当然的事。</span>
+19,,<span class='scene-font-katari'>けれど、六日間にわたるその</span><br><span class='scene-font-katari'>辛い時間に、老夫婦は</span><br><span class='scene-font-katari'>耐えられませんでした。</span>,<span class='scene-font-katari'>但是对于那对老夫妇来说</span><br><span class='scene-font-katari'>这长达六天的让人难受的说教</span><br><span class='scene-font-katari'>令他们无法忍受。</span>
+20,,<span class='scene-font-katari'>そして……</span>,<span class='scene-font-katari'>然后……</span>
+26,謎の声,……老夫婦がどうなったのか<br>あまり俺の口からは<br>語りたくないんだよなぁ。,……老夫妇之后做的事<br>我不是很想说出口啊。
+27,謎の声,何はともあれ、この後は暫く、<br>同じことの繰り返しだった。,总而言之这之后的一段时间<br>不断地重复着相同的事。
+28,謎の声,この世界には優しい人が沢山いる。<br>愚かな人も沢山いる。,这个世界有很多温柔的人。<br>也有很多愚蠢的人。
+29,謎の声,その子供の周りにもそういう人が<br>沢山いた。当然ね。,那个孩子身边会有那么多那样的人<br>也是理所当然的。
+30,謎の声,でも、子供の突き抜けた知性は、<br>そういう世界に順応できない。,但是那个孩子的超常智慧，<br>却无法顺应这个世界。
+31,謎の声,色々な優しさや愚かさを、甘受したり<br>耐えたりすることができなかった。,他无法甘于忍受<br>这各色的温柔和愚蠢。
+32,謎の声,本当に、かわいそうだよな。,真的是，太可怜了啊。
+33,謎の声,さて、と……<br>今日はここまで。,那么……<br>今天就到此为止了。
+34,謎の声,あ、そうだ。<br>この話のこと、<br>カイムには内緒な？,啊，对了。<br>这个故事，<br>要对凯姆保密哦？
+info,,,scene_chr489_ep4_s10

@@ -1,0 +1,73 @@
+id,name,text,trans
+0-chapter_name,,それぞれの幸せ,各自的幸福
+0-synopsis,,姬塔やセンの働きの甲斐あって、件の猫茶寮は営業停止となる。その後、一行はシェロカルテに勧められて、別の猫茶寮へ遊びに行く。そこの猫達は前の猫茶寮の猫達よりも自由にしているようだったが、艇にいる猫ともまた違って見える。センはその様子を眺め、自分が旅に出て変わったように、暮らす場所によって様々な生活や幸せがあるのかもしれない、と思うのだった。,有了姬塔和千额帮助，那个猫咖已经停止营业。之后，按照榭洛科特的介绍，一行人到了别的猫咖玩。在这里的猫看起来比之前更加自由放松，但是，与船上的那些猫还是不一样。千看着它们，想起自己在旅行后的变化，想到，因为地域的不同幸福也会有所差异。
+1,,<span class='scene-font-katari'>猫茶寮を巡る依頼の</span><br><span class='scene-font-katari'>数日後──</span>,<span class='scene-font-katari'>在巡查猫咖委托</span><br><span class='scene-font-katari'>结束的几天后──</span>
+2,ビィ/碧,それじゃあ、あの店は<br>閉まることになったのか。,这么说，那家猫咖<br>就此关门大吉了。
+3,シェロカルテ/榭洛科特,はい～調査の結果、<br>やはり経営に問題があることが<br>明らかになりまして～,是的～根据调查的结果，<br>那家店的经营果然<br>有问题～
+4,シェロカルテ/榭洛科特,営業停止措置が<br>取られることが決定しました～,已经决定<br>勒令他们停止营业了～
+5,セン/千,そうですか……,这样啊……
+6,シェロカルテ/榭洛科特,姬塔さん達の報告だけではなく<br>逃げた猫さんを追いかけるセンさんを<br>見ていた街の方が多くて～,不仅仅是姬塔他们的报告，<br>街上的很多人<br>也都看到了千追赶逃走的猫的身影～
+7,シェロカルテ/榭洛科特,自治組織や商工会へ<br>報告があがったんです～,这些都被提交到了<br>自治组织和商会～
+8,ルリア/露莉亚,そうだったんですね。<br>よかったです。,原来是这样啊。<br>太好了。
+9,ビィ/碧,センのお手柄だな！,多亏了千啊！
+10,セン/千,…………,…………
+11,ルリア/露莉亚,センちゃん？,千ちゃん？
+12,セン/千,……あのお店にいた<br>猫さん達はどうなるんですか？,……之前在店里的<br>猫さん他们要怎么办呢？
+13,シェロカルテ/榭洛科特,大丈夫ですよ～,请不要担心～
+14,シェロカルテ/榭洛科特,皆さん、他にも何か所かある<br>猫茶寮や、猫好きな方のところに<br>引き取られていきましたので～,大家，都被其他的<br>猫咖，或者爱猫的人<br>领走了～
+15,セン/千,そうですか。<br>それなら良かったです……,是这样啊。<br>那就好了……
+16,シェロカルテ/榭洛科特,センさん、<br>ありがとうございました～,千さん，<br>这次多谢了～
+17,セン/千,いえ……<br>私は何もできなくて……,不……<br>我并没有做什么……
+18,,<span class='scene-font-katari'>ほっとした様子は見せるものの、</span><br><span class='scene-font-katari'>センの表情はまだ晴れない。</span>,<span class='scene-font-katari'>保持着放空的模样，</span><br><span class='scene-font-katari'>千的表情并没有缓和下来。</span>
+19,ルリア/露莉亚,センちゃん……,千ちゃん……
+20,シェロカルテ/榭洛科特,う～ん……<br>今回のことで、センさんには<br>辛い思いをさせてしまったようですね～,嗯～……<br>这次的事情，对千さん来说<br>似乎很难翻过的样子～
+21,セン/千,えっ！<br>いえ、あの……私は……,诶！<br>不是，那个……我……
+22,シェロカルテ/榭洛科特,もし良かったら、<br>別の猫茶寮へ<br>遊びに行ってみてください～,如果可以的话，<br>请去别的猫咖<br>玩一玩吧～
+23,セン/千,別のお店、ですか……？,别的店，吗……？
+24,シェロカルテ/榭洛科特,はい～<br>少しでも、楽しい、良い思い出を<br>作っていただきたいので～,是的～<br>一点也好，想让你<br>留下一些美好的回忆～
+25,セン/千,……はい。,……好吧。
+31,,<span class='scene-font-katari'>そして姬塔達は、</span><br><span class='scene-font-katari'>シェロカルテの勧める</span><br><span class='scene-font-katari'>別の猫茶寮へと遊びにやって来た。</span>,<span class='scene-font-katari'>于是姬塔一行人，</span><br><span class='scene-font-katari'>按照榭洛科特的推荐</span><br><span class='scene-font-katari'>来到别的猫咖玩。</span>
+32,猫茶寮の猫３,くぁ……,呜……
+33,ルリア/露莉亚,ふふ、この猫ちゃん<br>眠そうですね。,哈哈，这个猫ちゃん<br>很困啊。
+34,店員/店员,寝ている猫ちゃんに無理に触ったり<br>抱っこしたりしないで<br>あげてくださいね。,请不要随意地摸或者<br>抱睡着的猫ちゃん。
+35,ルリア/露莉亚,はーい、わかりました！,好ー的，我明白了！
+36,セン/千,あ、あの猫さんが<br>こっちに来ますよ。,啊，那个猫さん<br>来这边了。
+37,猫茶寮の猫４,…………,…………
+38,ルリア/露莉亚,猫ちゃーん、<br>こっちですよー,猫ちゃーん，<br>来这边ー
+39,猫茶寮の猫４,…………,…………
+40,,<span class='scene-font-katari'>のっそりと近づいてきた猫は、</span><br><span class='scene-font-katari'>ルリアの差し出すおやつに</span><br><span class='scene-font-katari'>鼻を近づける。</span>,<span class='scene-font-katari'>慢慢悠悠走近的猫，</span><br><span class='scene-font-katari'>将鼻子贴近了</span><br><span class='scene-font-katari'>露莉亚放在手心的饲料。</span>
+41,ルリア/露莉亚,ふふ、食べてくださーい。,哈哈，请吃吧。
+42,猫茶寮の猫４,にゃ～……,喵～……
+43,,<span class='scene-font-katari'>ルリアが撫でようと伸ばす指先から</span><br><span class='scene-font-katari'>一度は顔をそむけた猫だったが、</span><br><span class='scene-font-katari'>結局、気だるげにおやつに食いついた。</span>,<span class='scene-font-katari'>虽然猫一度躲开了</span><br><span class='scene-font-katari'>露莉亚伸出的想要摸它的手指，</span><br><span class='scene-font-katari'>最终，还是懒洋洋地吃掉了饲料。</span>
+44,ビィ/碧,ははは……<br>おやつの為に<br>仕方なくって感じだな。,哈哈哈……<br>一副为了饲料<br>无可奈何的样子啊。
+45,ビィ/碧,まぁ、好きなことしかしないって<br>態度は、艇にいる猫と<br>似てるかもなぁ。,不过，这幅不要做我不喜欢的事情的<br>态度，和船上的那些猫<br>真像啊。
+46,セン/千,……そうかもしれませんね。,……也许是这样没错啊。
+47,,<span class='scene-font-katari'>小さく笑って、センは</span><br><span class='scene-font-katari'>店内にぱらぱらと散らばる</span><br><span class='scene-font-katari'>猫達を見渡す。</span>,<span class='scene-font-katari'>浅浅地笑着，千</span><br><span class='scene-font-katari'>环视着店里</span><br><span class='scene-font-katari'>散在各处的猫。</span>
+48,セン/千,<span class='scene-font-kokoro'>（でもやっぱり、</span><br><span class='scene-font-kokoro'>艇の猫さん達とは違う感じがする……）</span>,<span class='scene-font-kokoro'>（但是，</span><br><span class='scene-font-kokoro'>果然还是，感觉和船上的猫不同……）</span>
+49,,<span class='scene-font-katari'>自由な振る舞いに見え隠れする</span><br><span class='scene-font-katari'>打算を感じて首を傾げるセンは、</span><br><span class='scene-font-katari'>シェロカルテの言葉を思い出していた。</span>,<span class='scene-font-katari'>千看着它们隐藏自由意愿</span><br><span class='scene-font-katari'>的样子歪了歪头，</span><br><span class='scene-font-katari'>想起了榭洛科特的话。</span>
+53,シェロカルテ/榭洛科特,猫茶寮で辛い扱いを受けた猫さんを<br>また別の猫茶寮に移すのは<br>ひどいと思われますか～？,你觉得将在猫咖里受苦的猫们<br>送到别的猫咖<br>是一件残忍的是吗～？
+54,セン/千,えっと……<br>よく、わかりません……,唔唔……<br>我不是，很明白……
+55,シェロカルテ/榭洛科特,でも、彼らの大半は、産まれた時から<br>人に飼われていましたからね～<br>今更、野生に放すことも難しくて～,但是，它们中的大部分，<br>从出生开始就一直被人们饲养～<br>现在，在让它们回归自然也很困难～
+56,シェロカルテ/榭洛科特,生きるためには、別の猫茶寮や<br>どなたかのお宅に引き取って<br>いただくしかないんですよ～……,为了生存，就只能被猫咖br>或者某个人领回去～……
+60,セン/千,生きるためには……,为了生存……
+61,セン/千,あ！<br>あの猫さんは……,啊！<br>那个猫……
+62,猫茶寮の猫１,…………,…………
+63,,<span class='scene-font-katari'>センの視線の先に、先日</span><br><span class='scene-font-katari'>件の猫茶寮から脱走した</span><br><span class='scene-font-katari'>猫の姿があった。</span>,<span class='scene-font-katari'>在千的眼前的，是前几天</span><br><span class='scene-font-katari'>从猫咖里逃走的</span><br><span class='scene-font-katari'>那只猫。</span>
+64,猫茶寮の猫１,くぁ……,呼啊……
+65,,<span class='scene-font-katari'>のんびりとあくびをするその姿は</span><br><span class='scene-font-katari'>以前とは違い、とても</span><br><span class='scene-font-katari'>寛いだ様子だった。</span>,<span class='scene-font-katari'>悠闲地打着哈欠额样子，</span><br><span class='scene-font-katari'>与以前大不相同，非常地</span><br><span class='scene-font-katari'>安逸。</span>
+66,ビィ/碧,お？<br>あれって、この前の猫だよな。,哦？<br>那个，是之前的猫吧。
+67,セン/千,はい。<br>元気そうでほっとしました。,是的。<br>看它这么有精神我就放心了。
+68,ルリア/露莉亚,よかったですね。<br>ここで安心して<br>暮らして欲しいです。,太好了。<br>希望它能在这里<br>安心地生活。
+69,セン/千,……私、猫さん達はお店にいて<br>幸せなのかなぁって色々難しいこと<br>考えちゃいましたけど……,……我，之前总想着猫在店里生活<br>难道真的幸福吗<br>想了很多复杂的事情……
+70,セン/千,これもきっと、<br>街で生きる猫さんの<br>ひとつの生活なんですね。,这肯定也是<br>猫在街上的<br>生活之一吧。
+71,ルリア/露莉亚,……確かに、艇の猫ちゃん達と<br>全部が同じにはならないですよね。,……确实，不可能和船上的猫<br>全都变成一样。
+72,セン/千,私も、山奥にある故郷で暮らしてた<br>時と、姬塔さん達と旅に出て<br>騎空艇で生活し始めてから……,我也，在山里的故乡生活的时候<br>和，与姬塔你们<br>一起开始骑空艇生活之后相比……
+73,セン/千,やっぱり色々なことが<br>変わりました。,有很多事情<br>都变了。
+74,セン/千,街はまだ少し苦手ですけど……,虽然对于城镇还是有点……
+75,,<span class='scene-font-katari'>はにかむように肩をすくめるセンに</span><br><span class='scene-font-katari'>姬塔は微笑み返す。</span>,<span class='scene-font-katari'>看着害羞地缩起肩膀的千</span><br><span class='scene-font-katari'>姬塔微微地笑着。</span>
+76,セン/千,うまく言えないんですけど……,虽然我不能很好地说明……
+77,セン/千,きっと、場所や人や猫さんによって<br>色々な生活、色々な幸せが<br>あるんですよね。,但是，对于不同的人或者猫来说<br>肯定，各有各的幸福吧。
+78,セン/千,……私は、今姬塔さん達と<br>旅をする生活が、とっても<br>大好きで幸せです。,……我，非常喜欢现在的<br>与姬塔你们一起旅行的日子，<br>很幸福。
+79,セン/千,……にゃ。,……喵。
+80,,<span class='scene-font-katari'>センはそう言って、</span><br><span class='scene-font-katari'>ふんわりと微笑むのだった。</span>,<span class='scene-font-katari'>千这么说着，</span><br><span class='scene-font-katari'>散开一个柔和的微笑。</span>
+info,麻友桑的话筒,,scene_chr523_q4_s10

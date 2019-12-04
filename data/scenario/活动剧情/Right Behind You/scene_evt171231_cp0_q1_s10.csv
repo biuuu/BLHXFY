@@ -1,0 +1,57 @@
+id,name,text,trans
+0-synopsis,,"Zeta, Vaseraga, Sergeant Ilsa, and new recruit Lester chase after a lackey of the Foe. The lackey's weapon turns into a hostile automagod bearing the name Arianensa, and Lester dies in its ambush, causing Vaseraga to snap.",泽塔、巴萨拉卡、伊尔莎中士和新人莱斯特正在追捕一名『敌』组织的走狗。那名走狗的武器变成了一个被称为阿利亚内萨的机神，莱斯特因它的突然攻击而殉职，巴萨拉卡也因此陷入了暴走。
+3,Man/男子,Huff... Huff...,呼...呼...
+7,,"On the outskirts of town, the ragged breaths of a man on the run echo through a tunnel. Pounding footsteps, four sets in total, aren't far behind him.",<span class='scene-font-katari'>在城郊外一个旧坑道里，回荡着一个正在逃亡的人发出的刺耳喘息声。四组急促的脚步声紧跟其后。</span>
+8,Zeta/泽塔,I think he ran in here.,我想他跑进这里了。
+9,Vaseraga/巴萨拉卡,Yes. We've got him cornered.,啊，这样我们就把它逼进绝路了。
+10,,"His pursuers are members of the Society, dispatched to liberate a town suffering from mayhem wrought by the Foe.",<span class='scene-font-katari'>男子的追捕者是几位“组织”的成员，他们旨在解救因遭</span><span class='scene-font-spword'>『敌』</span><span class='scene-font-katari'>破坏而陷入混乱的区域。</span>
+11,Ilsa/伊尔莎,This tunnel is a dead end. Zeta and Vaseraga will take point while me and Kid Clueless here provide cover.,这条隧道是个死胡同。泽塔和巴萨拉卡为前锋，我和这边的“瞎忙活”做掩护。
+12,Young Man/青年,"Ma'am! Providing cover, ma'am! Commander Ilsa, ma'am!",是！收到，长官！伊尔莎指挥官大人！
+13,Zeta/泽塔,"You're Lester, right? I don't think I need to tell you that your job is to keep the enemy from sneaking up on us.",你叫莱斯特，是吧？我想你应该了解，你的任务是别让敌人来偷袭我们。
+14,Lester/莱斯特,"Yes, ma'am! Understood, Officer Zeta",是！了解！泽塔前辈！
+15,Vaseraga/巴萨拉卡,Stay your enthusiasm. Remain calm while you perform your duties.,别太激动。行动的时候保持冷静。
+16,Lester/莱斯特,"Thank you for the advice, sir! Vaseraga, sir!",十分感谢！巴萨拉卡先生！
+17,Lester/莱斯特,"If I perform well on this mission, I might finally be able to become a weapon contractor.",如果在这次行动中表现出色的话，我终于有可能成为一名武器的契约者了。
+18,Ilsa/伊尔莎,Hah! The only thing you've earned is your nickname: Kid Clueless. I've seen more disciplined faces at a dog show. Like hell you'd get a custom weapon.,呵...！所以你才老会让人说“瞎忙活”。怎么可能把武器交给一个临敌松懈的家伙啊？
+19,Lester/莱斯特,"I... spoke out of turn, Commander Ilsa.",是！...对，对不起，伊尔莎指挥官大人。
+20,Ilsa/伊尔莎,"One word from me and I'll send you back to basic. If you want my good graces, then put up or shut up. I don't care if all your limbs go flying off, keep your head in the operation.",我的几句评价就让你心虚了吗。想要得到我的赞许，就拿出决心来。要做好即使手忙脚乱也绝不放弃任务的觉悟。
+21,Vaseraga/巴萨拉卡,Then let's follow your advice and capture the enemy. Move.,要庆祝胜利还是等捉到敌人再说吧。走了。
+22,,The squad led by Ilsa heads farther into the tunnel.,<span class='scene-font-katari'>随后伊尔莎带着一行人往坑道深处走去。</span>
+27,,Soon they see the flicker of a torch peaking out of the darkness.,<span class='scene-font-katari'>不久后，黑暗中出现了火把的亮光。</span>
+28,Man/男子,...,......
+29,Lester/莱斯特,There!,那里！
+30,Vaseraga/巴萨拉卡,Looks like he's armed. I'll deal with the weapon while you take him into custody.,看起来全副武装啊。我来夺缴武器，之后再由你来抓捕他。
+31,Ilsa/伊尔莎,Lester! Back up! Idiots who run to the front line don't get chosen to be weapon contractors!,莱斯特！别以为一个往敌人枪口上撞的半吊子能被选中为武器的契约者！
+32,Lester/莱斯特,"Sorry, ma'am!",是！
+33,Ilsa/伊尔莎,Take him alive! Don't take the easy way out by killing him!,全员，活捉敌人！可别轻易让他死掉了！
+34,The Three/三人,Roger!,了解！
+35,Man/男子,...,......
+36,Man/男子,Automagod Arianensa dwells in my weapon.,你，寄宿在我武器中的机神阿利亚内萨啊...
+38,Man/男子,You will come to know its power!,现在，展现出你的力量吧！
+44,All Four/四人,...!,......！？
+45,Zeta/泽塔,Was that gun actually—,那把枪难道是...！？
+46,Vaseraga/巴萨拉卡,The same as our weapons？,和我们的武器一样...？
+47,Ilsa/伊尔莎,So he's a contractor too. Now I get why they made a sealer like me tag along.,他也是契约者吗。那么，身为封印者的我，被命令和你们同行，就说的通了。
+49,Man's Voice/男子的声音,Gyaaaah!,啊啊啊啊啊啊啊啊！！！！
+50,All Four/四人,...!,!？
+51,,"The cornered man continues to scream, oblivious to the baffled eyes upon him.",<span class='scene-font-katari'>那男人持续发出惨叫，留泽塔一行人在旁边露出惊讶的表情。</span>
+52,Ilsa/伊尔莎,The weapon is devouring the wielder？,武器在吞噬使用者？
+53,Lester/莱斯特,It's changing shape! There's some kind of light building up around it...,武器的形状在改变！有种光芒在它周围聚集...
+68,？？？,Antfirsnotamor pectomel.,…！@#￥%…&*…
+69,？？？,Ihnulcang cattka.,…￥#&*…@！…
+72,Lester/莱斯特,What's it doi—,那...那是什么机关...
+79,Lester/莱斯特,...,啊啊啊啊啊啊啊啊！！！
+87,Vaseraga/巴萨拉卡,Lester!,莱斯特！
+88,Zeta/泽塔,The weapon turned into a machine？ What the hell？,武器变成了机器...！那是什么东西！
+89,Ilsa/伊尔莎,Keep your fool mouth shut! We can chat about whatever the enemy is later!,把你们的嘴闭上！我们还不知道敌人的情况！
+90,Ilsa/伊尔莎,Armor Chicken! Break the rock supports and collapse the overhang—,铁鸡！随便打些岩石下来！用来做掩体——
+91,Vaseraga/巴萨拉卡,...,......
+100,,The commands of Ilsa go unheard as Vaseraga approaches the unknown enemy.,<span class='scene-font-katari'>巴萨拉卡完全没有听从伊尔莎的指令，径直走向未知的敌人。</span>
+101,？？？,Atgert curdeqai.,…！@#￥%…&*…
+102,Vaseraga/巴萨拉卡,Ngh...,哼......
+111,Vaseraga/巴萨拉卡,Aaaaah!,唔哦啊啊啊啊啊！！！
+113,Zeta/泽塔,It's happening again!,那家伙，又......？
+114,,"Vaseraga, completely overwhelmed by Grynoth's power, crosses arms with the mysterious automaton.",<span class='scene-font-katari'></span>突然出现的神秘机械和再次被格罗诺斯力量所吞噬的巴萨拉卡。</span>
+115,,Zeta can only stand before the might of these two approaching storms.,<span class='scene-font-katari'>面对两方风暴般的对决，泽塔显得束手无策。</span>
+info,,,scene_evt171231_cp0_q1_s10
+译者,,,

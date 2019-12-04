@@ -1,0 +1,91 @@
+id,name,text,trans
+0-chapter_name,,第5話 羽,第5話 羽
+0-synopsis,,窮地に陥ったユーリは無我夢中で力を振り絞り、難敵の中位天司を撃破する。そこにオイゲンとファラ、更に帝国駐留軍も合流して戦況は逆転に向かう。一方サンダルフォンは、ガブリエルが羽を自爆した事で計画が狂い、わずかに動揺を見せる。しかしビィを目に留めると、その羽を代用しようと襲いかかり、そこで割って入ったルリアを連れ去ってしまう。,陷入窘境的尤利拼死抵抗，终于击破了棘手的中位天司。欧根、法拉和帝国驻留军也联手赶来，形式逆转。另一边，圣德芬因加百利自爆翅膀打乱了原有计划，开始有些动摇，在注意到碧后想用它的翅膀完成计划，结果将挡在其中的露莉亚抓走了。
+0,,<span class='scene-font-katari'>新たに現れた中位天司。</span><br><span class='scene-font-katari'>その破壊力はユーリ達を追い詰め、</span><br><span class='scene-font-katari'>戦況は圧倒的な劣勢となっていた。</span>,<span class='scene-font-katari'>新的中位天司出现，</span><br><span class='scene-font-katari'>那破坏力将尤利他们逼上绝境，</span><br><span class='scene-font-katari'>战况呈现压倒性的劣势。</span>
+1,,<span class='scene-font-katari'>ユーリは必死に指揮を執り、</span><br><span class='scene-font-katari'>傭兵達を鼓舞しようとしていたが……</span>,<span class='scene-font-katari'>尤利奋力指挥下，</span><br><span class='scene-font-katari'>想给予佣兵鼓舞……</span>
+2,ユーリ/尤利,はぁ……はぁ……！,哈啊……哈啊……
+3,中位天司,────────！,────────！
+5,ユーリ/尤利,<span class='scene-font-4'>第２小隊、伏せろぉ！</span><br>第３と第４は援護を──,<span class='scene-font-4'>第2小队趴下！</span><br>第3和第4队援护——
+9,傭兵２/佣兵２,<span class='scene-font-4'>がはあぁぁぁ！</span>,<span class='scene-font-4'>嘎哈……！</span>
+11,傭兵３/佣兵３,駄目だ、ユーリ……！<br>このデカブツは歯が立たねえ！,不行啊，尤利……！<br>拿这大家伙毫无办法！
+12,ユーリ/尤利,落ち着いて！<br>この敵は射線を自在に変える！<br>俺が陽動で隙を作る間に側面を──,冷静！<br>敌人的射线可以自由变换，<br>我吸引注意力时你们从侧面——
+13,中位天司,────────！,────────！
+15,傭兵４/佣兵４,<span class='scene-font-4'>狙われてるぞ！？</span><br><span class='scene-font-4'>避けろ、ユーリィィィ！</span>,<span class='scene-font-4'>你被瞄准了啊！？</span><br><span class='scene-font-4'>快避开，尤利！</span>
+16,ユーリ/尤利,……ッ！,……！
+20,ユーリ/尤利,<span class='scene-font-gray'>死ぬのか、俺は……？</span>,<span class='scene-font-gray'>我要死了吗……？</span>
+21,ユーリ/尤利,<span class='scene-font-gray'>だよな……</span><br><span class='scene-font-gray'>砲口が完全に俺を捉えてる。</span><br><span class='scene-font-gray'>もうボロボロで勝ち目もない……</span>,<span class='scene-font-gray'>也是啊……</span><br><span class='scene-font-gray'>炮口完全对准了我，</span><br><span class='scene-font-gray'>已经没有胜算了……</span>
+22,ユーリ/尤利,<span class='scene-font-gray'>でも、精一杯やったよな。</span><br><span class='scene-font-gray'>今の俺に出来る事はやった……</span><br><span class='scene-font-gray'>いい死に場所を見つけたんじゃないか？</span>,<span class='scene-font-gray'>但是，我尽过全力了……</span><br><span class='scene-font-gray'>也算是死得其所了吧？</span>
+23,ユーリ/尤利,<span class='scene-font-gray'>親父、ファラ……</span><br><span class='scene-font-gray'>オイゲン殿、ガルストン隊長……</span>,<span class='scene-font-gray'>父亲，法拉……</span><br><span class='scene-font-gray'>欧根殿下，加尔斯通队长……</span>
+27,ファラ/法拉,ユーリ……,尤利……
+28,オイゲン/欧根,どうすんだ？,怎么样？
+29,ガルストン隊長,気は済んだか？,这就满意了吗？
+34,ユーリ/尤利,<span class='scene-font-gray'>…………</span>,<span class='scene-font-gray'>…………</span>
+35,ユーリ/尤利,<span class='scene-font-gray'>出来る事はやった……？</span><br><span class='scene-font-gray'>本当にそうなのか……？</span>,<span class='scene-font-gray'>尽过全力了……？</span><br><span class='scene-font-gray'>真的是这样吗……？</span>
+36,ユーリ/尤利,<span class='scene-font-gray'>嘘だ。</span><br><span class='scene-font-gray'>綺麗な言葉でまとめた所で、</span><br><span class='scene-font-gray'>まだ全然スッキリしてねえ！</span>,<span class='scene-font-gray'>不对。</span><br><span class='scene-font-gray'>不过是些漂亮话，</span><br><span class='scene-font-gray'>根本就不是这样！</span>
+37,ユーリ/尤利,<span class='scene-font-gray'>小せぇ器にまとまって、</span><br><span class='scene-font-gray scene-font-4'>死ぬ訳にはいかねえッ！</span>,<span class='scene-font-gray'>我可不想束手束脚地</span><br><span class='scene-font-gray scene-font-4'>就这样死掉！</span>
+41,ユーリ/尤利,<span class='scene-font-5'>畜生ォォォ！</span>,<span class='scene-font-5'>混蛋！</span>
+43,中位天司,──────……！？,──────……！？
+44,傭兵３/佣兵３,な……！<br>ユーリのヤロウ、真正面から！？,什么……！<br>尤利那家伙竟然从正面！？
+45,傭兵４/佣兵４,ハハハッ！<br>避けると思ったか射線を変えて……<br>見ろ、デカブツが大混乱してるぜ！,哈哈哈！<br>那家伙以为他会躲开就把射线改了方向……<br>快看，它已经混乱了！
+47,ユーリ/尤利,このデカワッカ！<br>殺すな、俺をッ！,你这家伙！<br>休想杀掉我！
+48,ユーリ/尤利,何が良い死に場所だ！<br>こんな意味不明な戦場で死ねるかッ！,什么死得其所！<br>我可不想死在这种意义不明的战场上！
+49,ユーリ/尤利,<span class='scene-font-4'>だあぁぁぁ！</span>,<span class='scene-font-4'>哒啊啊啊！</span>
+55,中位天司,──────……,──────……
+59,ユーリ/尤利,ぜぇ……はぁ…！<br>畜生、やったか……,切……哈啊……！<br>可恶，成功了吗……
+63,下位天司,……────,……────
+64,ユーリ/尤利,……ッ！？<br>しつけえんだよ、いい加減に──,……！？<br>真是烦人啊，给我适可而止！
+70,オイゲン/欧根,はっはっは！<br>いいツラんなってるぜ、ユーリ！,哈哈哈！<br>干得不错啊，尤利！
+71,オイゲン/欧根,<span class='scene-font-4'>野郎ども！</span><br>弾幕でデカワッカの足を止めるぞ！,<span class='scene-font-4'>小子们！</span><br>用炮火阻止那家伙！
+75,ユーリ/尤利,オイゲン殿！？<br>ど、どうしてここに……,欧根殿下！？<br>你，你怎么会在这里……
+76,傭兵１/佣兵１,ははは、俺は止めたんだぜ？<br>負傷兵の艇に押し込んでさ。,哈哈哈，我可是阻止过了哦？<br>都把他硬塞进伤员的飞艇里了。
+77,傭兵１/佣兵１,だが、無駄だった。<br>結局オイゲンさんは戻って来ちまった。<br>若造が戦ってんのに寝てらんねぇとよ！,但是没用啊，<br>欧根大人还是回来了。<br>说年轻人还在拼命他怎么睡得着。
+78,ユーリ/尤利,そうでしたか……<br>でも、この敵勢はあまりにも……,这样啊……<br>但是敌人的攻势依然……
+81,ファラ/法拉,<span class='scene-font-4'>とおりゃあぁぁぁ！</span>,<span class='scene-font-4'>看招！</span>
+84,下位天司,──────……,──────……
+88,帝国兵/帝国士兵,全軍、進め！<br>傭兵達に舐められるんじゃないぞ！,全军前进！<br>不要让佣兵们小瞧了！
+92,ユーリ/尤利,ファラ！<br>それに帝国軍も……！？,法拉？<br>连帝国兵也……！？
+93,ファラ/法拉,ユーリ、お待たせっす！<br>帝国の駐留軍も参戦するっすよ！<br>このまま一気に敵を押し返すっす！,尤利，让你久等了！<br>帝国驻扎军也来参战了！<br>就这样一口气战胜敌人吧！
+95,ユーリ/尤利,ああ……！<br>わかった、ありがとう！,啊啊……！<br>我知道了，多谢大家！
+100,ユーリ・ファラ/尤利・法拉,<span class='scene-font-4'>おりゃあぁぁぁ！</span>,<span class='scene-font-4'>看招！</span>
+106,,<span class='scene-font-katari'>羽を自爆したガブリエル。</span><br><span class='scene-font-katari'>その表情は苦痛に歪むが……</span>,<span class='scene-font-katari'>将翅膀自爆的加百列</span><br><span class='scene-font-katari'>露出十分痛苦的表情……</span>
+107,サンダルフォン/圣德芬,…………,…………
+108,ガブリエル/加百列,ウフフ……<br>さすがにちょっと痛かったわね……,唔……<br>还挺疼呢……
+109,ミカエル/米迦勒,無茶をする……<br>だがこれで貴様の目論見は、<br>完全な形では達成できぬぞ。,真是乱来……<br>但这样你的目标就无法达成了。
+110,ミカエル/米迦勒,フ、どうした？<br>先程までの余裕が消え去ったか？<br>永遠に天司長の影に怯えていろ。,哼，怎么样？<br>刚刚的从容不见了？<br>永远屈服在天司长的身影下吧。
+111,サンダルフォン/圣德芬,……無様な小細工を。,恶劣的小把戏……
+112,サンダルフォン/圣德芬,だが計画に支障はない。<br>次善策は後で考えればいい。,但是不会影响我的计划，<br>之后再想对策就好了。
+113,サンダルフォン/圣德芬,そうだ、審判が進行する間……<br>君等を研究所の跡地に案内しよう。<br>そこで己の浅慮を後悔させてやる。,对了，进行审判时带你们<br>去研究所旧址好了。<br>你们就在那里好好悔过。
+114,ガブリエル/加百列,ご自由に……<br>拷問なんて初体験ね。,随你……<br>拷问什么的还是第一次呢。
+115,ミカエル/米迦勒,やってみろ……<br>只で済むと思うなよ。,你试试看……<br>别以为就这么结束了。
+116,サンダルフォン/圣德芬,…………,…………
+118,ビィ/碧,ミカエル、ガブリエル！<br>凄ぇ音がしたけど大丈夫か！？,米迦勒，加百列！<br>刚刚好大的声音，没事吧！？
+119,シェロカルテ/榭洛科特,あ、こ、この男は～……！<br>やっぱりあなたが災厄の……！,啊，这，这个男人~……！<br>你果然就是引发灾厄的……！
+120,サンダルフォン/圣德芬,ああ、生きていたのかい？<br>そうか、君等が四大天司に協力を？<br>道理でガブリエルがコソコソと──,啊啊，你还活着啊？<br>是吗，你们在协助四大天司？<br>难怪加百列会偷偷地——
+121,,<span class='scene-font-katari'>するとサンダルフォンはハッとして、</span><br><span class='scene-font-katari'>思案を巡らせるようにビィを凝視する。</span>,<span class='scene-font-katari'>圣德芬忽然停了下来，</span><br><span class='scene-font-katari'>一边凝视着碧一边思考着什么。</span>
+122,サンダルフォン/圣德芬,ハハハ……<br>ここで赤き竜とは……<br>まさに君は俺の福音だ！,哈哈哈……<br>赤色龙竟然在这里……<br>不愧是我的福音啊！
+123,サンダルフォン/圣德芬,吉と出るか凶と出るか、<br>その羽を組み込んでみる事にしよう。,会是吉还是凶呢？<br>总之先把这对翅膀组合起来试试看。
+124,ビィ/碧,ゥヒッ！？<br>な、なんだってぇ……？<br>オイラの羽を奪うってのか！,咦！？<br>你，你说什么……？<br>难道要抢走我的翅膀吗！
+125,ミカエル/米迦勒,馬鹿な、狂っている……<br>そこまで天司長を超えたいのか……？,愚蠢，你疯了……<br>就这么想超越天司长吗……？
+126,ガブリエル/加百列,もし裏目に出たら……<br>まさか天の世界の創造が目的ではない？,难道说……<br>你真正的目的并不是<br>创造天之世界？
+127,サンダルフォン/圣德芬,苦しむ事はない。<br>黙っていれば一瞬で済む。,不会痛的，<br>只要乖乖地一瞬间就会结束。
+128,サンダルフォン/圣德芬,さあ、寄こせ──！,来吧，给我——！
+130,,<span class='scene-font-katari'>サンダルフォンは、</span><br><span class='scene-font-katari'>尋常ならざる膂力でビィに接近した。</span>,<span class='scene-font-katari'>圣德芬用非比寻常</span><br><span class='scene-font-katari'>的强大力量逼近碧。</span>
+131,,<span class='scene-font-katari'>姬塔が反応するも、</span><br><span class='scene-font-katari'>すでに彼の腕はビィの羽に伸びていた。</span>,<span class='scene-font-katari'>纵使姬塔及时作出反应，</span><br><span class='scene-font-katari'>他的手也已经碰到了碧的翅膀。</span>
+132,,<span class='scene-font-katari'>だが──</span>,<span class='scene-font-katari'>然而——</span>
+134,ルリア/露莉亚,<span class='scene-font-4'>ビィさん！</span>,<span class='scene-font-4'>碧！</span>
+138,ビィ/碧,<span class='scene-font-4'>ルリアぁ！</span>,<span class='scene-font-4'>露莉亚！</span>
+139,シェロカルテ/榭洛科特,<span class='scene-font-4'>ルリアさん！</span>,<span class='scene-font-4'>露莉亚！</span>
+141,,<span class='scene-font-katari'>突如として割って入ったルリア。</span><br><span class='scene-font-katari'>するとサンダルフォンの腕に捕まり、</span><br><span class='scene-font-katari'>そのまま上空に連れ去られてしまう。</span>,<span class='scene-font-katari'>突然冲出来的露莉亚</span><br><span class='scene-font-katari'>被圣德芬抓住手腕，</span><br><span class='scene-font-katari'>带上了空中。</span>
+143,ルリア/露莉亚,うぅ……<br>は、離して……！,唔唔……<br>放，放开我……！
+144,サンダルフォン/圣德芬,これはこれは……<br>赤き竜を捕えたつもりだが、<br>蒼の少女が釣れてしまった。,哎呀哎呀……<br>本想抓赤色龙却钓到了苍之少女。
+145,サンダルフォン/圣德芬,今日は本当にツイていない……<br>幸運を司る天司は誰だったか。,今天我真是不走运……<br>司掌幸运的天司是谁来着？
+146,ビィ/碧,おい、ルリアを離せ！<br>お前の目的はオイラの羽だろ！？,喂，放开露莉亚！<br>你的目的不是我的翅膀吗！？
+147,サンダルフォン/圣德芬,……<span class='scene-font-place'>土の島</span>に来い。<br>そこで赤き竜と蒼の少女を交換しよう。,来<span class='scene-font-place'>土之岛</span>。<br>在那里交换赤色龙和苍之少女。
+148,サンダルフォン/圣德芬,対価は、そうだな。<br>君等を天の民に選んでやってもいいぞ。,条件就是，对了。<br>把你们选为天之民也可以哦。
+149,サンダルフォン/圣德芬,竜と共に世界の滅亡を見るか、<br>少女と共に新世界を生きるか。<br>……賢明な判断を期待している。,是和龙一起见证世界的灭亡，<br>还是和少女共同活在新世界……<br>期待你们明智的判断。
+150,ルリア/露莉亚,姬塔……！<br>私、ちゃんとやれたよね？<br>ビィさんを守る事が出来たよね？,姬塔……！<br>我做到了对吧？<br>我保护了碧对吧？
+154,ルリア/露莉亚,こんな私でも、<br>最後に役に立てて──,即使是这样的我，<br>最后也帮上了忙——
+160,ビィ/碧,<span class='scene-font-4'>ルリアぁぁぁ！</span>,<span class='scene-font-4'>露莉亚！</span>
+164,,<span class='scene-font-katari'>光となって飛び去るサンダルフォン。</span><br><span class='scene-font-katari'>ルリアもまた精一杯の笑顔を残して、</span><br><span class='scene-font-katari'>あっという間に消え去ってしまった。</span>,<span class='scene-font-katari'>圣德芬化作光飞走了，</span><br><span class='scene-font-katari'>露莉亚也努力留下最后的微笑，</span><br><span class='scene-font-katari'>消失在空中。</span>
+165,,<span class='scene-font-katari'>姬塔は拳を握り締め、</span><br><span class='scene-font-katari'>今は光の軌跡を睨むより他なかった……</span>,<span class='scene-font-katari'>姬塔紧握拳头，</span><br><span class='scene-font-katari'>瞪着那道光的轨迹……</span>
+info,,,scene_evt170301_cp5_q3_s10
