@@ -40,6 +40,10 @@ path,text,trans,count
 /content,絞り込み,缩小范围,6
 /content,基本設定,基本设定,6
 /content,武器の種類,武器的种类,3
+/content,シリーズ,系列,8
+/content,カテゴリ,分类,16
+/content,セラフィック,天司,8
+/content,ウェポン,武器,8
 /content,発動,发动,10
 /content,習得,习得,21
 /content,変更,变更,9
