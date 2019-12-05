@@ -42,8 +42,8 @@ path,text,trans,count
 /content,武器の種類,武器的种类,3
 /content,シリーズ,系列,8
 /content,カテゴリ,分类,16
-/content,セラフィック,天司,8
-/content,ウェポン,武器,8
+/content,"セラフィック"<br>"ウェポン",天司武器,8
+/content,リミテッドシリーズ,六限武器,8
 /content,有りのみ,仅有,10
 /content,無しのみ,仅无,10
 /content,MAXのみ,仅MAX,10
