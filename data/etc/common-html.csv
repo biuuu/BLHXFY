@@ -44,10 +44,13 @@ path,text,trans,count
 /content,カテゴリ,分类,16
 /content,セラフィック,天司,8
 /content,ウェポン,武器,8
+/content,有りのみ,仅有,10
+/content,無しのみ,仅无,10
+/content,MAXのみ,仅MAX,10
 /content,発動,发动,10
 /content,習得,习得,21
 /content,変更,变更,9
-/content,"<div class=""prt-group-header"">ボーナス</div>",<div class='prt-group-header'>+1</div>,
+/content,ボーナス,+1,
 /content,スキル,技能,10
 /content,並び替える条件をひとつ選択してください,请选择重新排列的条件,2
 /content,倉庫TOPに戻る,返回仓库首页,
