@@ -50,6 +50,7 @@ const getHtml = async (encodedHtml, pathname) => {
   } catch (err) {
     return encodedHtml
   }
+  console.log(`%c${pathname}`, 'font-size:14px;background-color:#31ac79;color:#fff;padding:0 3px;')
   try {
     if (pathname.includes('/archive/content/library/')) {
       html = await replaceArchive(html)
