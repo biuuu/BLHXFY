@@ -38,6 +38,7 @@ const keyMap = new Map([
   ['keep-bgm', 'keepBgm'],
   ['trans-api', 'transApi'],
   ['font', 'font'],
+  ['log', 'log'],
   ['font-bold', 'fontBold'],
   ['plain-text', 'plainText'],
   ['battle-trans', 'battleTrans'],

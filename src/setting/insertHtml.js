@@ -158,6 +158,10 @@ const template = `
 						<input id="origin-text-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'origin-text', this.checked);window.blhxfy.sendEvent('setting', 'fast-mode', event);" type="checkbox" value="" data-post-name="scene_fast_text_mode" name="scene-fast-text-mode">
 						<label for="origin-text-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">原文对照</label>
 					</div>
+					<div style="margin-top:5px;">
+						<input id="log-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'log', this.checked);window.blhxfy.sendEvent('setting', 'fast-mode', event);" type="checkbox" value="" data-post-name="scene_fast_text_mode" name="scene-fast-text-mode">
+						<label for="log-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">显示Log</label>
+					</div>
 				</div>
 			</div>
 

@@ -1,6 +1,7 @@
 import getCommHtmlData from '../store/common-html'
 import getArchiveData from '../store/archive'
 import insertSettingHtml from '../setting/insertHtml'
+import CONFIG from '../config'
 
 const replaceHTML = async (html, pathname) => {
   let _html = html
@@ -50,7 +51,9 @@ const getHtml = async (encodedHtml, pathname) => {
   } catch (err) {
     return encodedHtml
   }
-  console.log(`%c${pathname}`, 'font-size:14px;background-color:#31ac79;color:#fff;padding:0 3px;')
+  if (CONFIG.log) {
+    console.log(`%c${pathname}%c\n\n${html}`,'background:#31ac79;color:#fff;padding:0 2px;font-size:14px','border-left:1px solid #31ac79;padding-left:2px;')
+  }
   try {
     if (pathname.includes('/archive/content/library/')) {
       html = await replaceArchive(html)
