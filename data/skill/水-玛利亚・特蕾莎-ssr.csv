@@ -1,0 +1,10 @@
+id,name,detail
+npc,玛利亚・特蕾莎,3040160000
+special,高贵信念,水属性伤害(特大)/对象处于咎人状态时性能UP
+skill-1,阿卜拉克萨斯,对敌人造成2次水属性伤害/驱散敌人1个强化效果
+skill-2,平等,将水属性角色单人的现在HP及奥义槽适用到全队
+skill-3,忠诚,<div class=prt-text-small>回复水属性角色的全部HP及弱体效果/能力值大幅UP <span class=text-blue>◆仅我方全体处于濒死状态时可以使用</span></div>
+support-1,黄金之剑,我方使用驱散敌人强化效果的技能时，对敌方全体造成水属性伤害/赋予咎人效果
+skill-sub,正义之逆位,<div class=prt-text-small>水属性角色使用驱散敌人强化效果的技能时，对敌方全体造成水属性伤害/赋予攻防DOWN（累积）</div>
+skill-main,女帝之正位,<div class=prt-text-small>赋予水属性角色义愤之冠效果（对咎人状态的敌人造成的伤害上升，通常攻击时造成水属性追加伤害） <span class=text-blue>◆无法再次发动</span></div>
+intro,义愤的女帝,义愤的女帝向自己的正义宣誓忠诚，渡过血海前往尸山。为了夺回被夺走的王座，为了保护民众的未来，无论前路如何艰险，她都会朝着顶峰不断前进。
