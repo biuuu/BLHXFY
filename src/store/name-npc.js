@@ -3,6 +3,7 @@ import parseCsv from '../utils/parseCsv'
 import sortKeywords from '../utils/sortKeywords'
 import filter from '../utils/XSSFilter'
 import { trim } from '../utils/'
+import CONFIG from '../config'
 
 const enNameMap = new Map()
 const jpNameMap = new Map()
@@ -11,6 +12,23 @@ const nounFixMap = new Map()
 const caiyunPrefixMap = new Map()
 let loaded = false
 let nounLoaded = false
+
+const checkVersion = (str) => {
+  if (/^\(v\d+_\d+_\d+\).+/.test(str)) {
+    let rgs = str.match(/^\(v(\d+)_(\d+)_(\d+)\)(.+)/)
+    return { 
+      version: [rgs[1], rgs[2], rgs[3]],
+      text: rgs[4]
+    }
+  }
+  return false
+}
+
+const versionPass = (ver) => {
+  let arr = CONFIG.version.split('.')
+  let res = [arr[0] - ver[0], arr[1] - ver[1], arr[2] - ver[2]]
+  return res[0] > 0 || (res[0] === 0 && res[1] > 0) || ( res[0] === 0 && res[1] === 0 && res[2] >= 0)
+}
 
 const nameWithScenario = (list, key = 'name') => {
   const newList = []
@@ -82,7 +100,14 @@ const getNounData = async () => {
       const text = trim(item.text)
       const fix = filter(item.fixed)
       if (text) {
-        nounFixMap.set(text, fix)
+        let result = checkVersion(text)
+        if (result) {
+          if (versionPass(result.version)) {
+            nounFixMap.set(result.text, fix)
+          }
+        } else {
+          nounFixMap.set(text, fix)
+        }
       }
     })
     sortKeywords(listCaiyunPrefix, 'text').forEach(item => {
