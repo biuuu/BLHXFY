@@ -1,7 +1,7 @@
 id,name,text,trans
 0-chapter_name,,救いのてのひら,救赎之手
 0-synopsis,,星晶獣との戦いを制してから数週間後。一行はシェロカルテからの知らせで、目を覚ましたというカイムに会いにいく。しかし、再会したカイムは、これまでの記憶を全て失った上に、精神状態も実際の年齢よりずっと幼くなってしまっていた。今となっては様々なことがわからないままになってしまったが、一行はただ、カイムの今後の平穏を祈るのだった。,与星晶兽战斗后过了几周。一行人被榭洛科特通知前去，见到了醒来的凯姆。但是他们再次见到的凯姆，不仅失去了目前为止的记忆，心智也变得比实际年龄还要年幼。虽然不清楚为什么他会变成现在这个样子，但一行人只是祈愿着凯姆今后能过上安稳的生活。
-0,,<span class='scene-font-katari'>姬塔達が、</span><br><span class='scene-font-katari'>アーカルムの星晶獣との戦いを</span><br><span class='scene-font-katari'>制してから数日が過ぎた。</span>,<span class='scene-font-katari'>姬塔一行与阿卡尔姆的星晶兽的战斗之后</span><br><span class='scene-font-katari'>过了几天。</span>
+0,,<span class='scene-font-katari'>姬塔達が、</span><br><span class='scene-font-katari'>アーカルムの星晶獣との戦いを</span><br><span class='scene-font-katari'>制してから数日が過ぎた。</span>,<span class='scene-font-katari'>姬塔一行与阿卡尔姆的星晶兽的战斗之后过了几天。</span>
 2,シェロカルテ/榭洛科特,みなさ～ん！<br>カイムさんが目を覚ましました～！,大～家！<br>凯姆苏醒了～！
 3,ビィ/碧,本当かっ！？,真的吗！？
 4,ルリア/露莉亚,わぁ……！<br>良かったです！<br>あ、すぐに会いに行きましょう！,哇……！<br>太好了！<br>啊，现在就去看看他吧！
@@ -36,7 +36,7 @@ id,name,text,trans
 41,ビィ/碧,どうだろうな……でも、カイムは<br>自分のしてることを確かに<br>理解してやってやがったんだ。,谁知道呢……但是凯姆他确实是知道<br>自己正在做着什么。
 42,ルリア/露莉亚,そうですね……<br>一体どうして……,是啊……<br>到底是为什么……
 43,ビィ/碧,今となっちゃあ、<br>もう何も聞けねぇよな……,变成现在这个样子，<br>也问不到什么了……
-44,,<span class='scene-font-katari'>その突出し過ぎた知性により</span><br><span class='scene-font-katari'>短くも波乱に満ちた日々を</span><br><span class='scene-font-katari'>歩んできた少年、カイム。</span>,<span class='scene-font-katari'>因为那突出的智慧</span><br><span class='scene-font-katari'>而度过了短暂却又波澜万丈的日子的少年，</span><br><span class='scene-font-katari'>凯姆。</span>
+44,,<span class='scene-font-katari'>その突出し過ぎた知性により</span><br><span class='scene-font-katari'>短くも波乱に満ちた日々を</span><br><span class='scene-font-katari'>歩んできた少年、カイム。</span>,<span class='scene-font-katari'>因为那超常的智慧</span><br><span class='scene-font-katari'>而度过了短暂却又波澜万丈的日子的少年，</span><br><span class='scene-font-katari'>凯姆。</span>
 45,,<span class='scene-font-katari'>彼は何を恐れ、何を望んだのか。</span><br><span class='scene-font-katari'>アーカルムの星晶獣の笑顔がカイムに</span><br><span class='scene-font-katari'>もたらしたのは何だったのか──</span>,<span class='scene-font-katari'>他在害怕着什么，又在渴望着什么。</span><br><span class='scene-font-katari'>阿尔卡姆的星晶兽的笑容</span><br><span class='scene-font-katari'>又为凯姆招致了什么──</span>
 46,,<span class='scene-font-katari'>ルリアの中の星晶獣は何も語らず、</span><br><span class='scene-font-katari'>今となっては姬塔達に</span><br><span class='scene-font-katari'>知るすべはない。</span>,<span class='scene-font-katari'>露莉亚体内的星晶兽也一言不发</span><br><span class='scene-font-katari'>事到如今姬塔他们也无从得知了。</span>
 47,,<span class='scene-font-katari'>ただ、これまでの全てと引き換えに</span><br><span class='scene-font-katari'>無垢という平穏を手に入れた少年の行く</span><br><span class='scene-font-katari'>先に幸いあれ、と祈るのみだった。</span>,<span class='scene-font-katari'>他们只能祈祷着</span><br><span class='scene-font-katari'>将至今的一切作为交换获得了无忧无虑的安稳生活的少年</span><br><span class='scene-font-katari'>他的未来将会是幸福的。</span>
