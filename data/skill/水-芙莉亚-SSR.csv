@@ -1,9 +1,10 @@
 ﻿id,name,detail
 npc,芙莉亚,3040181000
-special,风雅煌玉,水属性伤害（特大）/回复白纱耐久值
-skill-1,白纱,<div class=prt-text-small>性能大幅UP/获得屏障效果（数值为40%MHP，上限8000）<span class=text-blue>◆屏障解除后弱化2回合</span></div>
-skill-2,认可,<div class=prt-text-small>指定1名水属性成员赋予暴击率UP/护盾效果/连击率UP/免疫弱化效果/伤害上限UP效果<span class=text-blue>◆消耗对象20%MHP</span></div>
+special,风雅煌玉,水属性伤害（特大）/回复白纱全部耐久值/赋予我方全体屏障效果
+skill-1,白纱,<div class=prt-text-small>性能大幅UP/获得屏障效果（数值为40%MHP，上限8000）<br><span class=text-blue>◆屏障解除后弱化2回合</span></div>
+skill-2,认可,<div class=prt-text-small>赋予自己以外1名水属性角色暴击率UP/护盾效果/连击率UP/免疫弱化效果/伤害上限UP效果</div>
 skill-3,有水无空之印,对敌方全体造成水属性伤害/水天仿佛之计效果（冻结蓄力点/封印特动）
-support-1,贤君忠臣,白纱效果中攻防30%UP/必定1.2倍暴击/必定二连击
+support-1,贤君忠臣,白纱效果中攻防30%UP/暴击几率UP/必定二连击
+support-2,云水行脚,活性效果/发动奥义时延长2回合因认可发动的强化效果
 skill-lb,LB技能,回合开始时有概率净化自身1个弱化效果
-,,
+intro,乐隐居的前国王,追求虚假的自由不断犯下罪孽的少女，在烦恼，痛苦之后洗去了自己的罪孽，得到了真正的自由。过去沉重地压在身上的苍穹如想要展示无限的可能性一般迎接了她。不知她乘坐着高傲的白银之兽，将会翱翔在怎样的天空之下。
