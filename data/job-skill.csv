@@ -22,7 +22,7 @@ id,ja,en,name,detail
 3021,クリアオール,Clarity,净化,解除所有参战者的一个负面效果
 3030,リヴァイヴ,Revive,重生,复活我方一个角色
 3050,内功,Chi Channeler,内功,回复自身HP/防御力UP
-3120,メディク,Just the Cure,メディク,味方全体のHPを回復
+3120,メディク,Just the Cure,治愈,我方全体HP恢复
 10,レイジ,Rage,呐喊,所有参战者的攻击力UP（小）
 11,レイジII,Rage II,呐喊II,所有参战者的攻击力UP（中）
 15,レイジIII,Rage III,呐喊III,所有参战者的攻击力UP（大）
@@ -42,11 +42,11 @@ id,ja,en,name,detail
 266,ソング・オブ・グランデ,Sky Realm Song,调停之歌,我方全体的二连击概率UP（大）★装备乐器时性能UP
 270,羅喉阿修羅陣,Pandemonium,罗喉阿修罗阵,自己的奥义充能上升量UP
 302,かばう,Substitute,守护,给予自己守护效果
-3130,士気向上,A Little Pick-Me-Up,士気向上,参戦者の奥義ゲージUP
+3130,士気向上,A Little Pick-Me-Up,士气向上,参战者的奥义值UP
 7010,瞑想,Self Reflection,冥想,<div class=prt-text-small>自己的攻击力UP/暴击率UP/负面效果全部解除<span class=text-blue>◆消费30点奥义充能</span></div>
 7020,鴉雀無声,Quiet Strategy,鸦雀无声,<div class=prt-text-small>自己的防御力UP<span class=text-blue> 刀：给予自己幻影效果（1回）/自己的攻击力DOWN 弓：自己的攻击力UP/连续攻击概率DOWN/奥义充能DOWN</span></div>
 7233,他心陣,Splitting Spirit,他心阵,<div class=prt-text-small>将自己的HP转换为奥义充能<span class=text-blue><br>◆HP变为当前的一半</span></div>
-7242,バニッシュ,Out of Sight,バニッシュ,自分の敵対心を味方になすりつける
+7242,バニッシュ,Out of Sight,消失,将仇恨值敌转移到队友身上
 200211,無明斬,No More Doubt,无明斩,<div class=prt-text-small>效果中回合进行时进行3次攻击行动<br><span class=text-blue>◆消耗奥义值40%</span></div>
 200221,烈刀一閃,Rending Flash,烈刀一闪,<div class=prt-text-small>对敌人造成自属性伤害/自己的奥义性能UP<br><span class=text-blue>◆消耗奥义值60%</span></div>
 1410,ブラインド,Blind,致盲,给予目标失明效果
@@ -63,8 +63,8 @@ id,ja,en,name,detail
 200191,剣禅一如,One with the Blade,剑禅如一,<div class=prt-text-small>对自己进行特殊强化（连续攻击概率UP）/暴击概率UP<br><span class=text-blue>◆在受到伤害前保持特殊强化效果</span></div>
 30186,心空,Shinku,心空,增加奥义充能的最大值
 30187,雲耀,Unyou,云耀,发动奥义时给予自己云耀效果（根据云耀LV攻击性能UP/奥义伤害UP）
-60,ウェポンバースト,Full Arsenal,一骑加势,自己可以立即发动奥义
-30001,アサルトステップ,Assault step,进攻开始,二连击概率UP
+60,ウェポンバースト,Full Arsenal,火力全开,自己可以立即发动奥义
+30001,アサルトステップ,Assault step,突击步伐,二连击概率UP
 70,ファランクス,Phalanx,守护之盾,所有参战者获得全属性伤害减免（50%）
 30007,大盾,Mighty Shield,大盾,概率全属性伤害减免（50%）
 3010,ヒールオール,Panacea,全体治疗,恢复所有参战者的HP（小）
@@ -72,25 +72,25 @@ id,ja,en,name,detail
 4090,エーテルブラスト,Aether Blast,以太轰击,对目标造成2~3倍的自身属性伤害
 30019,精霊の加護,Sprite's Aura,精灵的加护,技能伤害UP
 5000,ブレイクアサシン,Crack Shot,要害痛击,自身的攻击力大幅度UP（目标Break状态时/1次）
-30023,おたから狙い,Looking for Treasure,瞄准宝藏,财宝猎手成功概率UP/根据掉宝LV上升攻击力
+30023,おたから狙い,Looking for Treasure,宝藏追踪,财宝猎手成功概率UP/根据掉宝LV上升攻击力
 1200,ディレイ,Stall,指针倒退,对目标造成自身属性伤害/减速效果
-30029,サボタージ,Sabotage,秘境,弱化成功概率UP
+30029,サボタージ,Sabotage,破坏,弱化成功概率UP
 250,カウンター,Counter,防守反击,防守反击效果（回避/3次）自己的攻击力UP
 30095,虎襲の構え,Tigerstrike Solace,猛虎势,攻击力UP
 187,ライトウェイト,Quick Step,身轻如燕,回避目标的所有攻击
 30044,精密射撃,Dodge This,精密射击,对弱体状态的目标攻击UP
-3090,オーヴァチュア,Overture,前奏曲,我方全体的恢复性能UP ★装备乐器时性能UP
+3090,オーヴァチュア,Overture,序曲,我方全体的恢复性能UP ★装备乐器时性能UP
 30046,カンタービレ,Cantabile,启奏,OVER DRIVE时目标对我方造成的伤害减少
 4300,リードドライブ,Drive It In,过载引导,<div class=prt-text-small>对目标造成自身属性伤害<br><span class=text-blue>枪：维持Break状态<br>斧：减少OD条</span></div>
 30048,ヴォリショナル,Volitional,长柄好手,装备枪时攻击力UP<br>装备斧时防御力UP
-62,ウェポンバーストII,Full Arsenal II,一骑加势II,自己可以立即发动奥义/攻击力UP
-30039,タフネス,Toughness,タフネス肉体强化,HP最大值UP
+62,ウェポンバーストII,Full Arsenal II,火力全开II,自己可以立即发动奥义/攻击力UP
+30039,タフネス,Toughness,坚韧,HP最大值UP
 71,ファランクスII,Phalanx II,守护之盾II,所有参战者获得全属性伤害减免（70%）
 30040,イージスブーン,Aegis Boon,使盾好手,使用守护时获得全属性伤害减免（50%）/使用守护之盾II时攻击力UP
 3011,ヒールオールII,Panacea II,全体治疗II,恢复所有参战者的HP（中）
 30038,救済の光,Saving Light ,救济之光,复活时的HP恢复量UP/使用全体治疗II时攻击力UP
 4092,エーテルブラストII,Aether Blast II,以太轰击II,对全体目标造成3~4倍的自身属性伤害
-30041,魔力の奔流,Magic Torrent,魔力的奔流,聚焦的技能伤害UP/冷却时间缩短
+30041,魔力の奔流,Magic Torrent,魔力奔流,聚焦的技能伤害UP/冷却时间缩短
 5001,ブレイクアサシンII,Crack Shot II,要害痛击II,自身的攻击力大幅度UP（目标Break状态时/1次）
 30042,ラピッドショット,Rapid Shot,野兔射击,向死而生的三连击概率UP/冷却时间缩短
 1201,ディレイII,Stall II,指针倒退II,对目标造成自身属性伤害/减速效果
@@ -99,49 +99,49 @@ id,ja,en,name,detail
 30043,武神の極意,War God's Wrath,武神的极致,罗喉阿修罗阵的奥义充能上升量UP/冷却时间缩短
 188,ライトウェイトII,Quick Step II,身轻如燕II,回避目标的所有攻击/攻击力UP（特大）
 30045,ターゲッティング,Target,目标锁定,绞杀发条造成的伤害UP/冷却时间缩短
-3091,オーヴァチュアII,Overture II,前奏曲II,所有参战者的恢复性能UP(累积) ★装备乐器时性能UP
-30047,アパッショナート,Appassionato,合奏,调停之歌的二连击概率UP 使用前奏曲II时根据参战者的数量给予我方全体攻击力UP防御力UP
+3091,オーヴァチュアII,Overture II,序曲II,所有参战者的恢复性能UP(累积) ★装备乐器时性能UP
+30047,アパッショナート,Appassionato,合奏,调停之歌的二连击概率UP 使用序曲II时根据参战者的数量给予我方全体攻击力UP防御力UP
 4301,リードドライブII,Drive It In II,过载引导II,<div class=prt-text-small>对目标造成自身属性伤害<br><span class=text-blue>枪：维持Break状态<br>斧：减少OD条</span></div>
 30049,クライシスブロウ,Crisis Blow,危险扳机,共鸣电流造成的伤害UP
-66,ウェポンバーストIII,Full Arsenal III,一骑加势III,自己可以立即发动奥义/攻击力UP/奥义连击的伤害UP
+66,ウェポンバーストIII,Full Arsenal III,火力全开III,自己可以立即发动奥义/攻击力UP/奥义连击的伤害UP
 30083,闘争本能,Battle Instincts,斗争本能,二连击概率UP/HP最大值UP
 30084,逆襲,Revenge Run Amok,逆袭,低概率防守反击效果（回避/1次）
 116,ファランクスIII,Phalanx III,守护之盾III,所有参战者获得全属性伤害减免（70%）/弱体耐性UP
 35433,イージスブーン,Aegis Boon,使盾好手,使用守护时获得全属性伤害减免（50%）/使用守护之盾III时攻击力UP
-35434,窮地への抗拒,Undauntable,对绝境的抵抗,概率减免全属性伤害（50%）/概率在回合开始时解除自己的一个负面效果
+35434,窮地への抗拒,Undauntable,不屈不挠,概率减免全属性伤害（50%）/概率在回合开始时解除自己的一个负面效果
 3012,ヒールオールIII,Panacea III,全体治疗III,恢复所有参战者的HP（大）
 30085,希望の光,Ray of Hope,希望之光,恢复效果UP/恢复上限UP/复活时的HP恢复量UP且冷却时间缩短/使用全体治疗III时攻击力UP
 30086,不屈の説法,Timeless Teachings,不屈之志,负面效果[技能封印]无效
 4154,エーテルブラストIII,Aether Blast III,以太轰击III,对全体目标造成4~5倍的自身属性伤害
-35436,魔導の達士,Arcane Master,魔导的达人,技能伤害UP/聚焦的技能伤害UP/冷却时间缩短
-35437,摂理の彼方,Metaphysics,摄理的彼岸,技能伤害上限UP
+35436,魔導の達士,Arcane Master,魔导达人,技能伤害UP/聚焦的技能伤害UP/冷却时间缩短
+35437,摂理の彼方,Metaphysics,神眷之所,技能伤害上限UP
 5452,ブレイクアサシンIII,Crack Shot III,要害痛击III,自身的攻击力大幅度UP（目标Break状态时/1次）/暴击概率UP
-30087,トレジャーエイム,Eyes on the Prize,宝藏嗅觉,宝藏猎手成功概率UP/根据掉宝LV攻击力UP/金币获得量UP
+30087,トレジャーエイム,Eyes on the Prize,寻宝之眼,宝藏猎手成功概率UP/根据掉宝LV攻击力UP/金币获得量UP
 1226,ディレイIII,Stall III,指针倒退III,对目标造成自身属性伤害/减速效果
-30088,デモリッシュ,Demolish,魔性,弱化成功概率UP/弱体耐性UP
-285,ナイフハンド・ストライク,Knifehand Strike,刽子手强袭,防守反击效果（受到伤害/3次）自己的防御力UP/敌对心UP
-30090,受けの美学,False Finish,接受的美学,攻击力UP/只有一次受到战斗不能的状态时HP最多减少至1
+30088,デモリッシュ,Demolish,拆解,弱化成功概率UP/弱体耐性UP
+285,ナイフハンド・ストライク,Knifehand Strike,刽子手强袭,防守反击效果（受到伤害/3次）自己的防御力UP/仇恨值UP
+30090,受けの美学,False Finish,接受的美学,攻击力UP/限一次无法战斗的HP最多减至1
 9525,チャフリリース,Evasive Maneuvers,降临解放,<div class=prt-text-small>对目标造成8倍的自身属性伤害/回避所有攻击/攻击力UP（特大）<span class=text-blue>◆回避时追加效果：给予全体目标自身属性伤害/失明效果</span></div>
-35705,闇夜の狩人,Night Hunter,暗夜的猎手,对弱体状态的敌人攻击力UP/负面效果[失明]无效
-3304,コンクルージョン,Concludere,喝彩,<div class=prt-text-small>所有参战者的恢复性能UP（累积）/自身属性攻击力UP★装备乐器时性能UP</div>
+35705,闇夜の狩人,Night Hunter,暗夜猎手,对弱体状态的敌人攻击力UP/负面效果[失明]无效
+3304,コンクルージョン,Concludere,曲终,<div class=prt-text-small>所有参战者的恢复性能UP（累积）/自身属性攻击力UP★装备乐器时性能UP</div>
 30100,ミステリオーソ,Misterioso,神秘奇袭,受到目标OVER DRIVE时的伤害减少/我方全体对弱点属性的对象的弱化成功率UP
-30101,アパッショナート,Appassionato,齐奏,<div class=prt-text-small>调停之歌的二连击概率UP<br>使用喝彩时根据参战者的人数我方全体攻击力UP防御力UP</div>
+30101,アパッショナート,Appassionato,齐奏,<div class=prt-text-small>调停之歌的二连击概率UP<br>使用终曲时根据参战者的人数我方全体攻击力UP防御力UP</div>
 9537,雷光水明,Thunder on the Water,雷光水明,<div class=prt-text-small>对目标造成自身属性伤害　<span class=text-blue>枪：维持Break状态/所有参战者的技能伤害UP 斧：减少OD条/我方全体的奥义值UP</span></div>
-30097,水の中で動くもの、雲の海に生きるもの,"Swim Like a Bird, Fly Like a Fish",动于水下之物，生于云海之物,攻击力UP/防御力UP<br>枪装备时连续攻击概率UP<br>斧装备时在单次攻击时追加自身属性伤害
+30097,水の中で動くもの、雲の海に生きるもの,"Swim Like a Bird, Fly Like a Fish",鱼飞鸟泳,攻击力UP/防御力UP<br>枪装备时连续攻击概率UP<br>斧装备时在单次攻击时追加自身属性伤害
 3110,錬成:キュアポーション,Alchemize Green Potion,炼成：治愈膏药,生成治愈膏药
 35075,錬金術の知見,Alchemical Expertise,炼金术的渊博,治愈膏药和全治膏药的效果量UP
 35076,鼓舞の心得,Inspired Knowledge,鼓舞的心得,士气向上的效果量UP
 7030,忍術,Ninjutsu,忍术,通过结印可以发动忍术
 30052,隠密,Spy,隐秘,低概率回避所有攻击
 30053,打剣,Striking Sword,打剑,风魔手里剑的效果UP
-7000,画竜点睛,Finishing Touch,画竜点睛,连续攻击概率UP<br><span class=text-blue>◆在受到伤害前维持效果</span>
+7000,画竜点睛,Finishing Touch,画龙点睛,连续攻击概率UP<br><span class=text-blue>◆在受到伤害前维持效果</span>
 30050,武士道,Samurai Chivalry,武士道,奥义充能的最大值增加
 30051,虚心坦懐,Without Reserve,虚心坦怀,鸦雀无声的效果UP
 30054,剣心,Kenshin,剑心,<div class=prt-text-small>引导出剑或者刀中隐藏的力量<br><span class=text-blue>◆技能或通常攻击的效果根据主手武器而变化</span></div>
-30055,威圧,Overpower,威圧,被赋予剑气时、攻击力UP/防御力DOWN/敌对心UP
+30055,威圧,Overpower,威圧,被赋予剑气时、攻击力UP/防御力DOWN/仇恨值UP
 7220,アーリーショット,Early Shot,先制射击,不进入战斗轮直接发起一次通常攻击<span class=text-blue>◆使用子弹</span>
-7221,トライン,Triple Threat,トライン,<div class=prt-text-small>次の攻撃が必ずトリプルアタック(1回)/攻撃UP(累積)/防御DOWN(累積)<span class=text-blue>◆残弾数を超える回数の連続攻撃はできない</span></div>
-7222,バレットリロード,Lock 'n' Load,バレットリロード,残弾を全て捨てリロードを完了する
+7221,トライン,Triple Threat,三连射,<div class=prt-text-small>下一次攻击必定三连(1次)/攻击UP(累积)/防御DOWN(累积)<span class=text-blue>◆无法发动高于剩余子弹数的连击</span></div>
+7222,バレットリロード,Lock 'n' Load,子弹装填,重新装填所有子弹
 30057,バレットアーツ,Bullet arts,子弹艺术,根据主手武器装备的子弹种类获得通常攻击时的追加效果
 30058,ロングレンジ,Long range,加长射程,暴击概率UP/防御力DOWN
 7231,天眼陣,Omnipotent Eye,天眼阵,<div class=prt-text-small>我方全体的状态大幅度UP/再次使用解除<br><span class=text-blue>◆◆每回合消费3MP/自己的通常攻击单体化<br>◆再次使用或者MP为0状态解除时自己进入状态下降</span></div>
@@ -157,12 +157,12 @@ id,ja,en,name,detail
 3341,闘志の残響,Resounding Rhythm,斗志的残响,对全体目标造成自身属性的防御力DOWN　<span class=text-blue>◆消费奥义充能20点</span>
 30102,太鼓叩き,Beat Keeper,叩响太鼓,减少伤害的同时提升连续攻击概率
 30103,祭囃子,Festival Drummer,祭囃子,<div class=prt-text-small>根据连击数奥义充能上升/给予我方全体热气效果/使用斗志的残响时，根据参战者的数量我方全体的攻击力UP防御力UP</div>
-9551,アトラクト・サルサ,Spellbound Salsa,吸引·萨尔萨舞,回避所有攻击/自己的连续攻击概率UP <span class=text-blue>◆最大HP减少10%</span>
-9552,プリンシパル・クラシック,Classical Lead,主舞·古典舞,<div class=prt-text-small>效果中我方全体角色的攻击行动变为与自己相同<br><span class=text-blue>◆战斗开始3回合后可以使用</span></div>
-9555,リンガリング・セント,Two to Tango,林加环·赠与,效果中回合进行时进行两次攻击行动
+9551,アトラクト・サルサ,Spellbound Salsa,迷人的萨尔萨舞,回避所有攻击/自己的连续攻击概率UP <span class=text-blue>◆最大HP减少10%</span>
+9552,プリンシパル・クラシック,Classical Lead,古典领舞,<div class=prt-text-small>效果中我方全体角色的攻击行动变为与自己相同<br><span class=text-blue>◆战斗开始3回合后可以使用</span></div>
+9555,リンガリング・セント,Two to Tango,二度探戈,效果中回合进行时进行两次攻击行动
 30118,静謐の舞,Fanciful Footwork,静谧之舞,连续攻击发生时回避率UP（累积）
 30120,情熱の舞,Pas de Passion,热情之舞,回避成功时二连击概率UP（累积）
-9557,アクティベート,Activate,能量注入！,伙伴机器人进入启动状态<br><span class=text-blue>◆追加能量点数（最大10）</span>
+9557,アクティベート,Activate,能量注入,伙伴机器人进入启动状态<br><span class=text-blue>◆追加能量点数（最大10）</span>
 9558,フレキシブル・アーツ,Customized Action,多功能模块,根据不同的行动模块发动特定的技能
 9559,リフューリング,Refuel,修复焊接,我方全体的攻击力UP/防御力UP/伙伴机器人在启动状态时，追加5点能量点数
 30122,コンパニオン,Companion,伙伴机器人,启动状态时根据AI模块进行特定的行动<span class=text-blue>◆回合开始时能量点数不足的场合关闭</span>
@@ -174,7 +174,7 @@ id,ja,en,name,detail
 30198,エンチャントスペル,Enhanced Spellweaving,エンチャントスペル,自分の強化効果「属性攻撃UP」の効果UP
 30199,エレメンタルチャージ,Elemental Charge,エレメンタルチャージ,奥義発動時に自属性の魔法陣を1つ追加(各属性最大2)
 30177,ソードマスター,Master of Swords,剑术宗师,<div class=prt-text-small> 引导出剑或者刀中隐藏的力量<br><span class=text-blue>◆技能或通常攻击的效果根据主手武器而变化</span></div>
-30185,栄光の象徴,Paragon of Glory,荣光的象征,被赋予剑气时，攻击性能UP/伤害减免效果/敌对心UP
+30185,栄光の象徴,Paragon of Glory,荣光的象征,被赋予剑气时，攻击性能UP/伤害减免效果/仇恨值UP
 200051,ブラックチャーム,Cat's Meow,黑猫阵,<div class=prt-text-small>我方全体的状态大幅度UP/再次使用解除 <br><span class=text-blue>◆每回合消费3点MP/再次使用或者MP为0状态解除时自己进入状态下降3回合</span></div>
 30134,黒猫ローブ,Black Cat Robe,黑猫回路,不处于黑猫阵状态时，通常攻击变为全体攻击/根据MP追加自身属性追击效果
 30160,自由の極意,Meow Points,自由的极致,使用奥义时通过消费所有MP奥义性能UP<br><span class=text-blue>◆MP每回合恢复1点（最大15）</span>
@@ -186,7 +186,7 @@ id,ja,en,name,detail
 90,リフレクション,Reflection,反射,反射一部分敌方的伤害(3次)
 610,テストゥド,Testudo,龟甲阵,自己的防御UP（累积）
 613,センチュリオンII,Centurion II,圣性之盾II,我方一个角色受到的伤害无效化（1次）
-612,ガーディアン,Guardian,护盾,自己的防御力UP/敌对心UP<span class=text-blue>◆消费30点奥义值</span>
+612,ガーディアン,Guardian,护盾,自己的防御力UP/仇恨值UP<span class=text-blue>◆消费30点奥义值</span>
 4594,シールドワイア,Hardened Shield,飞盾,目标减豆效果/自己的攻击UP/防御DOWN
 4001,シャイニングII,Blessing II,闪光术II,对敌方全体造成光属性3.5～5倍的伤害/赋予「圣钉」效果
 3219,キュアーフェン,Peace of Mind,治愈湿地,解除我方全体1个负面效果/获得护盾效果
@@ -213,7 +213,7 @@ id,ja,en,name,detail
 987,マイクパフォーマンス,Mic Hype,マイクパフォーマンス,参戦者に高揚効果
 243,練気,Spirit of Training,练气,自己的攻击UP（累积）
 7228,ツープラトン,Tag Team,ツープラトン,味方全体がターン経過なしで通常攻撃を実行
-390,一字構え,Horizontal Solace,一字架势,敌对心UP/反击发动时反击次数UP(2次)
+390,一字構え,Horizontal Solace,一字架势,仇恨值UP/反击发动时反击次数UP(2次)
 3570,ジャミング,Frequency Jam,干扰,我方全体的回避率UP/暴击率UP
 200101,レイショナルショット,Judicious Shot,理智射击,对敌方全体造成自属性伤害/自属性防御DOWN
 6200,チェンジ,Change,交换,自己与后方1名队员进行交换
@@ -243,7 +243,7 @@ id,ja,en,name,detail
 7210,,,剑神解放,将主手武器中隐藏的力量唤醒
 7211,,,剑神共鸣,根据主手武器变化为不同的技能
 7216,集気,Energize,集气,恢复剑气<br><span class=text-blue>◆消费30点奥义充能</span>
-200121,斬釘截鉄,Contrablade,斩钉截铁,给予自己毅力效果/反击效果(受到伤害/2次)/敌对心UP
+200121,斬釘截鉄,Contrablade,斩钉截铁,给予自己毅力效果/反击效果(受到伤害/2次)/仇恨值UP
 200021,エスパーダ,Espada,刃击,根据装备的剑、刀数量对敌方造成大伤害
 200031,ドゥプレクス,Al Doble,双击,<div class=prt-text-small>给予自己自属性追击效果/自属性攻击UP/通常攻击时的剑气消耗效果的命中率UP</div>
 200041,コルミロス,Colmillos,獠牙,<div class=prt-text-small>自己的攻击性能UP/效果中受到伤害时剑气消耗效果不会发动<br><span class=text-blue>◆再使用时解除效果</span></div>
@@ -253,7 +253,7 @@ id,ja,en,name,detail
 200071,ムーンライト,Moonshadow,月光,自己的奥义值变换为MP
 200061,スペシャルボム,Paws of Power,特制炸弹,<div class=prt-text-small>自己的连续攻击率UP/暴击率UP<span class=text-blue><br>◆消耗MP3</span></div>
 200081,テネブラエ,Black Cat's Path,黑暗,<div class=prt-text-small>敌方全体的攻击性能DOWN/弱体耐性DOWN <span class=text-blue>◆只能在黑猫阵或天眼阵中使用/解除该效果时再使用间隔延长3回合</span></div>
-200151,ハイディング,Conceal,ハイディング,自分の回避率UP/連続攻撃確率UP
+200151,ハイディング,Conceal,ハイディング,自身的回避率UP/连续攻击概率UP
 200161,律動共振,Resonate Rhythm,节奏共振,我方单体的奥义值UP(40%)
-200171,ヴァリアシオン,Pas Seul,单人舞,自己的奥义值上升量UP/敌对心UP
+200171,ヴァリアシオン,Pas Seul,单人舞,自己的奥义值上升量UP/仇恨值UP
 200181,アクチュエーション,Actuation,驱动,<div class=prt-text-small>机械同伴启动时、自己的HP变换为能量<br><span class=text-blue>◆HP变为现在的一半</span></div>
