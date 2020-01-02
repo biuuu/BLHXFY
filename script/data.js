@@ -123,6 +123,9 @@ const start = async () => {
     await fse.move(file, `./dist/blhxfy/data/${name}`)
   }
 
+  console.log('move iframe...')
+  await fse.copy('./src/lacia.html', './dist/blhxfy/lacia.html')
+
   await collectStoryId()
 
   await collectSkillId()

@@ -60,6 +60,7 @@ const fetchData = async (pathname) => {
       url, flag
     }, origin)
   } catch (e) {
+    console.log(e)
     return ''
   }
   return new Promise((rev, rej) => {
@@ -138,6 +139,7 @@ const getHash = new Promise((rev, rej) => {
       } else {
         fetchData('/blhxfy/manifest.json').then(data => {
           beforeStart(data)
+          fetchInfo.data = data
           rev(data.hash)
         })
       }
