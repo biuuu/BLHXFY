@@ -1,8 +1,0 @@
-﻿id,name,detail
-npc,维拉,#3040053000
-special,凶狂剑冲,土/暗属性伤害(特大)
-skill-1,蛊惑,赋予敌人单体魅惑效果/消去1个强化效果
-skill-2,星灵,对敌方单体造成土属性伤害/回复我方全体HP
-skill-3,激情,<div class=prt-text-small>自身攻击DOWN<br><span class=text-blue>◆3回合后自身攻击大幅UP/奥义值100%UP</span></div>
-support-1,翻涌的热意,我方全体对敌mode条减少量UP
-skill-lb,LB技能,魅惑状态的敌人对我方全体造成的伤害减少

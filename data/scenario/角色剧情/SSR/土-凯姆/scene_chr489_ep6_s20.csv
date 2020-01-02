@@ -1,0 +1,56 @@
+id,name,text,trans
+0-chapter_name,,救いのてのひら,救赎之手
+0-synopsis,,現れた星晶獣は気安い調子で声をかけ、カイムは苛立った態度を返す。しかし、星晶獣は動じることなく、「君の望む平穏をあげる」とカイムの首を絞める。動かなくなったカイムから手を離して姬塔達の方へと向き直った星晶獣「ザ・ハングドマン」は、この世に満ちた理不尽や不条理を乗り越えていく人間の姿が好きだと語り、一行に襲い掛かってくるのだった。,突然出现的星晶兽用轻松的口吻说着话，凯姆对他一副不耐烦的样子。但是星晶兽却一动不动，说着「给你你想要的安稳」勒住了凯姆的脖子。星晶兽「The・Hanged Man」放开了已经一动不动的凯姆，转头面向姬塔他们，说他喜欢那些跨越了这世上许多不合理不公平的人，于是袭击了一行人。
+2,,<span class='scene-font-katari'>不気味な光りを放ち始めたカードに</span><br><span class='scene-font-katari'>呆然とする一行。</span>,<span class='scene-font-katari'>一行人呆呆的看着</span><br><span class='scene-font-katari'>开始闪着令人不舒服的光芒的卡牌。</span>
+3,,<span class='scene-font-katari'>カイムは淡々と姬塔に</span><br><span class='scene-font-katari'>詰め寄り、それを返すようにと</span><br><span class='scene-font-katari'>促した。</span>,<span class='scene-font-katari'>凯姆淡然的接近了姬塔</span><br><span class='scene-font-katari'>就像是在说着把那还给我一样</span><br><span class='scene-font-katari'>催促着。</span>
+4,カイム,もうそれは、あなたが<br>持っていても<br>意味がないから。,就算你再拿着那东西<br>也已经毫无意义了。
+5,ビィ/碧,あ、おい……！,啊，喂……！
+6,カイム,返してもらうよ。,还给我吧。
+7,,<span class='scene-font-katari'>カイムは、姬塔の</span><br><span class='scene-font-katari'>手からカードを取り去る。</span>,<span class='scene-font-katari'>凯姆从姬塔手里</span><br><span class='scene-font-katari'>取走了卡牌。</span>
+8,カイム,これで、満足か？<br>……ザ・ハングドマン。,你满意了吗？<br>……The・Hanged Man。
+9,,<span class='scene-font-katari'>不機嫌な調子で呟き、指先で</span><br><span class='scene-font-katari'>カードの表面をはじく。</span><br><span class='scene-font-katari'>その瞬間──</span>,<span class='scene-font-katari'>凯姆不爽地小声说着，</span><br><span class='scene-font-katari'>拨弄了一下卡牌的表面。</span><br><span class='scene-font-katari'>就在那一瞬间──</span>
+16,ルリア/露莉亚,きゃあっ！？,呀啊！？
+23,？？？,…………,…………
+24,ビィ/碧,こ、こいつ……<br>アーカルムシリーズって<br>星晶獣じゃねぇか！？,这，这家伙……<br>不是阿卡尔姆的星晶兽吗！？
+25,ザ・ハングドマン,っんーーー！<br>やっと出られた。,嗯ーーー！<br>终于能出来了。
+26,ビィ/碧,星晶獣……だよな？,你是星晶兽……对吧？
+27,ルリア/露莉亚,新しい世界を創ろうとしてたのは<br>アーカルムの星晶獣だったんですか！？,你是想要创造新世界的<br>阿尔卡姆的星晶兽吗！？
+28,ザ・ハングドマン,やあ、カイム。,呀啊，凯姆。
+29,,<span class='scene-font-katari'>呆然とする一行にはまるで構わず、</span><br><span class='scene-font-katari'>のんきな声を上げた星晶獣は</span><br><span class='scene-font-katari'>にっこり笑ってカイムに手を伸ばす。</span>,<span class='scene-font-katari'>星晶兽仿佛无视了惊讶的一行人</span><br><span class='scene-font-katari'>悠哉悠哉的笑着说道</span><br><span class='scene-font-katari'>向凯姆伸出了手。</span>
+30,ザ・ハングドマン,君には本当に助けられたな。<br>ありがと。,你真的帮了我很多呢。<br>谢了。
+31,カイム,……うるさい。,……烦死了。
+32,,<span class='scene-font-katari'>カイムは、頬にあてられる</span><br><span class='scene-font-katari'>星晶獣の手から逃げるように</span><br><span class='scene-font-katari'>顔をそむけた。</span>,<span class='scene-font-katari'>凯姆为了避开星晶兽那</span><br><span class='scene-font-katari'>摸着自己脸颊的手</span><br><span class='scene-font-katari'>把脸扭了过去。</span>
+33,ザ・ハングドマン,ははっ、ちゃんと知ってる。<br>君が俺のことを嫌いだってのはさ。,哈哈，我知道的啊。<br>你很讨厌我。
+34,ザ・ハングドマン,でも、俺が頼んだ仕事は<br>なかなか良かったろ？,但是我拜托给你的工作<br>还是挺不错的吧？
+35,ザ・ハングドマン,歴史の分水嶺のシミュレーション<br>データの収集、分析……<br>のめり込めたみたいで良かったな。,模拟历史的分歧点<br>收集分析数据……<br>你似乎很热衷其中呢太好了。
+36,ザ・ハングドマン,君が怖くてたまらない、<br>惨めで哀れな妄想から<br>目を背けられてさ。,你那深陷恐惧中的<br>凄惨的妄想<br>真是惨不忍睹啊。
+37,カイム,っ、うるさい！<br>黙れ！！,烦，烦死了！<br>闭嘴！！
+39,,<span class='scene-font-katari'>怒鳴ったカイムは、頬を包む</span><br><span class='scene-font-katari'>ザ・ハングドマンの手を</span><br><span class='scene-font-katari'>強く払いのけた。</span>,<span class='scene-font-katari'>凯姆怒吼着，</span><br><span class='scene-font-katari'>狠狠地挥开了</span><br><span class='scene-font-katari'>The・Hanged Man那包着自己脸颊的手。</span>
+40,ザ・ハングドマン,まあまあ。<br>君のおかげでこうして復活もできて<br>データもちゃんと集まった。,算啦。<br>多亏你我才能这么复活<br>而且也收集到了数据。
+41,ザ・ハングドマン,本当に感謝してる。<br>だから、お礼。,真的很感谢你。<br>所以，给你回礼。
+42,カイム,っ……！,……！
+43,,<span class='scene-font-katari'>ザ・ハングドマンの手が、</span><br><span class='scene-font-katari'>カイムの頬から首へとおりていく。</span>,<span class='scene-font-katari'>The・Hanged Man的手从凯姆的脸颊</span><br><span class='scene-font-katari'>下移到脖颈处。</span>
+44,ルリア/露莉亚,え……！？,诶……！？
+45,ザ・ハングドマン,君が望んだ平穏をあげる。<br>約束、しただろ？,给你你想要的安稳。<br>我们约好的对吧？
+47,,<span class='scene-font-katari'>カイムの細い首に</span><br><span class='scene-font-katari'>吊るされた男の</span><br><span class='scene-font-katari'>指が食い込んでいく。</span>,<span class='scene-font-katari'>倒吊男的手指</span><br><span class='scene-font-katari'>深深地陷进了</span><br><span class='scene-font-katari'>凯姆的脖颈。</span>
+48,カイム,お、ま……え……<br>ぐっ…………,你…………<br>咕…………
+50,カイム,…………,…………
+51,,<span class='scene-font-katari'>やがて、カイムは動かなくなった。</span>,<span class='scene-font-katari'>终于，凯姆不动了。</span>
+52,ルリア/露莉亚,うそ……カイム、くん……？,骗人的吧……凯姆……？
+53,ビィ/碧,おいてめェ！<br>なんてことしやがるんだ！！,喂你！<br>为什么要做这种事！！
+54,ザ・ハングドマン,さて、と……<br>待たせてごめん。<br>次は君達だな。,那么……<br>让你们久等了。<br>接下来是你们了。
+55,,<span class='scene-font-katari'>星晶獣はカイムの首から手を離し、</span><br><span class='scene-font-katari'>やっと一行の方を見た。</span>,<span class='scene-font-katari'>星晶兽放开了掐着凯姆脖颈的手</span><br><span class='scene-font-katari'>终于看向了一行人。</span>
+56,ビィ/碧,てめェはなんなんだよ！？,你到底是个什么玩意啊！？
+57,ザ・ハングドマン,あれ？　もう知ってるはずだろ？<br>アーカルムシリーズ、<br>星晶獣ザ・ハングドマン。,哎呀？　你们不是已经知道了吗？<br>我是阿卡尔姆的星晶兽<br>The・Hanged Man。
+58,ルリア/露莉亚,あなたが、新しい世界を<br>創ろうとしてるんですね！？<br>なんでそんな……,你不是要创造新世界吗！？<br>为什么要……
+59,ザ・ハングドマン,さぁ、どうかな。<br>結果にはそれほど興味がないけど。,嗯，谁知道呢。<br>我对那结果还是有点兴趣的。
+60,ビィ/碧,じゃあ、何がしてぇんだよ！<br>カイムのことだって、あんな風に……！,那你都做了什么啊！<br>对凯姆也是，为什么要……！
+61,ザ・ハングドマン,……この世界はさ、<br>理不尽や不条理に<br>満ちてるよな。,……这个世界啊，<br>充满了不讲理和不合理。
+62,ザ・ハングドマン,そして、それに耐え、<br>乗り越えていくことが、<br>人に進化をもたらす。,然后忍耐了那些<br>并跨越过去的人<br>会得到成长。
+63,ザ・ハングドマン,俺は人じゃないけど、<br>人のそういう姿を見るのが<br>大好きなんだよ。,虽然我并不是人，<br>但我非常喜欢看人类的那副样子。
+64,ルリア/露莉亚,何を、言ってるんですか……？,你在说什么啊……？
+65,ザ・ハングドマン,だからさ、君達といるのも<br>結構楽しかったな。,所以啊，和你们在一起我很开心哦。
+66,ザ・ハングドマン,じゃ、終わりにしようか。,那么，就让我们结束吧。
+69,ビィ/碧,くそぅっ！<br>ここでこいつを止められなきゃ、<br>世界がどうにかなっちまう！,可恶！<br>如果不在这阻止这家伙的话<br>世界可就危险了啊！
+70,ルリア/露莉亚,やるしかないです！<br>いきましょう、姬塔！,只能去做了！<br>一起上吧，姬塔！
+info,,,scene_chr489_ep6_s20

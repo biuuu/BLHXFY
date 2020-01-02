@@ -1,0 +1,46 @@
+id,name,text,trans
+0-chapter_name,,救いのてのひら,救赎之手
+0-synopsis,,星晶獣との戦いを制してから数週間後。一行はシェロカルテからの知らせで、目を覚ましたというカイムに会いにいく。しかし、再会したカイムは、これまでの記憶を全て失った上に、精神状態も実際の年齢よりずっと幼くなってしまっていた。今となっては様々なことがわからないままになってしまったが、一行はただ、カイムの今後の平穏を祈るのだった。,与星晶兽战斗后过了几周。一行人被榭洛科特通知前去，见到了醒来的凯姆。但是他们再次见到的凯姆，不仅失去了目前为止的记忆，心智也变得比实际年龄还要年幼。虽然不清楚为什么他会变成现在这个样子，但一行人只是祈愿着凯姆今后能过上安稳的生活。
+0,,<span class='scene-font-katari'>姬塔達が、</span><br><span class='scene-font-katari'>アーカルムの星晶獣との戦いを</span><br><span class='scene-font-katari'>制してから数日が過ぎた。</span>,<span class='scene-font-katari'>姬塔一行与阿卡尔姆的星晶兽的战斗之后过了几天。</span>
+2,シェロカルテ/榭洛科特,みなさ～ん！<br>カイムさんが目を覚ましました～！,大～家！<br>凯姆苏醒了～！
+3,ビィ/碧,本当かっ！？,真的吗！？
+4,ルリア/露莉亚,わぁ……！<br>良かったです！<br>あ、すぐに会いに行きましょう！,哇……！<br>太好了！<br>啊，现在就去看看他吧！
+5,ビィ/碧,ああ、そうだな！,嗯，去看看吧！
+6,ビィ/碧,それにしても、一時は<br>どうなることかと思ったけどよぉ、<br>無事に目が覚めて良かったなぁ！,话说回来，当时我还很担心他之后会如何呢，<br>能平安无事醒来真是太好了！
+7,シェロカルテ/榭洛科特,それがですね～、目が覚めたは<br>覚めたのですが～……,其实啊～虽然是醒过来了～……
+10,カイム,あっ……シェロ！<br>どこに行ってたの？<br>僕を置いて行かないでよ。,啊……榭洛！<br>你去哪了？<br>别把我丢下一个人离开啊。
+11,シェロカルテ/榭洛科特,すみません～<br>でも、カイムさんにお会いしたいと<br>いう方達を連れてきたんですよ～,抱歉～<br>但是我带来了<br>想要和凯姆见一面的人哟～
+12,カイム,僕に……？,和我……？
+14,ルリア/露莉亚,あのぁ……,那个……
+15,カイム,お姉ちゃん達、だぁれ？,姐姐你们，是谁？
+16,ビィ/碧,おいおい、マジかよ……,喂喂，真的假的啊……
+17,,<span class='scene-font-katari'>シェロカルテによると、</span><br><span class='scene-font-katari'>目覚めたカイムは、これまでの</span><br><span class='scene-font-katari'>ことを全て忘れてしまっていたらしい。</span>,<span class='scene-font-katari'>据榭洛科特所说</span><br><span class='scene-font-katari'>醒来的凯姆似乎</span><br><span class='scene-font-katari'>失去了至今为止的记忆。</span>
+18,,<span class='scene-font-katari'>しかも、その精神状態も、実際の</span><br><span class='scene-font-katari'>彼の年齢よりも随分と幼く</span><br><span class='scene-font-katari'>なってしまったようだ。</span>,<span class='scene-font-katari'>而且他的心智</span><br><span class='scene-font-katari'>也似乎退化得</span><br><span class='scene-font-katari'>比实际年龄还要小。</span>
+19,カイム,うぅ……っ、<br>シェロ～,呜呜……<br>榭洛～
+20,シェロカルテ/榭洛科特,カイムさん、大丈夫ですよ～<br>この人達は、私のお友達でして～<br>怖くないですよ～,凯姆，没事的哟～<br>这些人是我的朋友～<br>一点也不可怕哟～
+21,カイム,シェロのお友達……？,榭洛的朋友……？
+22,,<span class='scene-font-katari'>恐る恐る姬塔達を窺う</span><br><span class='scene-font-katari'>カイムに、歳に見合わぬ風格と知性を</span><br><span class='scene-font-katari'>持っていたかつての面影はまるでない。</span>,<span class='scene-font-katari'>凯姆战战兢兢地偷看着姬塔他们</span><br><span class='scene-font-katari'>从他身上看不到一点以前那与年龄不符的风度和知性。</span>
+23,ルリア/露莉亚,えっと……<br>こんにちは、カイムくん。<br>私、ルリアって言います。,那个……<br>你好啊，凯姆。<br>我叫露莉亚。
+24,カイム,ルリア、お姉ちゃん？,露莉亚姐姐？
+25,ルリア/露莉亚,はい。<br>シェロさんだけじゃなくて、<br>私とも仲良くしてくれますか？,嗯。<br>不只是榭洛酱<br>也和我做朋友吧？
+26,カイム,仲良く……いいよ！<br>僕、ルリアお姉ちゃんと<br>お友達になりたい！,做朋友……好啊！<br>我想和露莉亚姐姐做朋友！
+27,,<span class='scene-font-katari'>これまでの全てを失ったカイムの瞳は、</span><br><span class='scene-font-katari'>無垢な光りできらきらと輝いていた。</span>,<span class='scene-font-katari'>失去了至今为止的一切的凯姆</span><br><span class='scene-font-katari'>他的眼睛里闪烁着无邪的光辉。</span>
+33,,<span class='scene-font-katari'>カイムのことをシェロカルテに託し</span><br><span class='scene-font-katari'>また会いにくると約束をした一行。</span>,<span class='scene-font-katari'>一行人把凯姆托付给榭洛照顾</span><br><span class='scene-font-katari'>约好还会再来。</span>
+34,,<span class='scene-font-katari'>グランサイファーへと戻る</span><br><span class='scene-font-katari'>彼等の足取りは重い。</span>,<span class='scene-font-katari'>但他们返回格兰赛法的脚步却格外沉重。</span>
+35,ルリア/露莉亚,これが<br>「カイムくんの望んだ平穏」<br>なんでしょうか……？,这就是「凯姆所希望的安稳」吗……？
+36,ビィ/碧,あの星晶獣……<br>ザ・ハングドマンが<br>言ってたやつか？,是那个星晶兽……<br>The・Hanged Man说的那个吗？
+37,ルリア/露莉亚,はい……あれって、<br>カイムくんは、これで<br>幸せだってことですかね……？,嗯……那就是说凯姆觉得，<br>这就是他的幸福吗……？
+38,ビィ/碧,オイラにもさっぱりだぜ……,我也搞不懂啊……
+39,ビィ/碧,そもそも、カイムの奴がどうして<br>アーカルムシリーズに<br>協力してたのかもわかんねぇからなぁ。,本来连凯姆那家伙为什么要去帮助阿尔卡姆<br>我们都不知道。
+40,ルリア/露莉亚,協力だったんでしょうか？<br>なんだか仲は悪そうに<br>見えましたけど……,说是协力对吧？<br>但是看上去关系不太好的样子呢……
+41,ビィ/碧,どうだろうな……でも、カイムは<br>自分のしてることを確かに<br>理解してやってやがったんだ。,谁知道呢……但是凯姆他确实是知道<br>自己正在做着什么。
+42,ルリア/露莉亚,そうですね……<br>一体どうして……,是啊……<br>到底是为什么……
+43,ビィ/碧,今となっちゃあ、<br>もう何も聞けねぇよな……,变成现在这个样子，<br>也问不到什么了……
+44,,<span class='scene-font-katari'>その突出し過ぎた知性により</span><br><span class='scene-font-katari'>短くも波乱に満ちた日々を</span><br><span class='scene-font-katari'>歩んできた少年、カイム。</span>,<span class='scene-font-katari'>因为那超常的智慧</span><br><span class='scene-font-katari'>而度过了短暂却又波澜万丈的日子的少年，</span><br><span class='scene-font-katari'>凯姆。</span>
+45,,<span class='scene-font-katari'>彼は何を恐れ、何を望んだのか。</span><br><span class='scene-font-katari'>アーカルムの星晶獣の笑顔がカイムに</span><br><span class='scene-font-katari'>もたらしたのは何だったのか──</span>,<span class='scene-font-katari'>他在害怕着什么，又在渴望着什么。</span><br><span class='scene-font-katari'>阿尔卡姆的星晶兽的笑容</span><br><span class='scene-font-katari'>又为凯姆招致了什么──</span>
+46,,<span class='scene-font-katari'>ルリアの中の星晶獣は何も語らず、</span><br><span class='scene-font-katari'>今となっては姬塔達に</span><br><span class='scene-font-katari'>知るすべはない。</span>,<span class='scene-font-katari'>露莉亚体内的星晶兽也一言不发</span><br><span class='scene-font-katari'>事到如今姬塔他们也无从得知了。</span>
+47,,<span class='scene-font-katari'>ただ、これまでの全てと引き換えに</span><br><span class='scene-font-katari'>無垢という平穏を手に入れた少年の行く</span><br><span class='scene-font-katari'>先に幸いあれ、と祈るのみだった。</span>,<span class='scene-font-katari'>他们只能祈祷着</span><br><span class='scene-font-katari'>将至今的一切作为交换获得了无忧无虑的安稳生活的少年</span><br><span class='scene-font-katari'>他的未来将会是幸福的。</span>
+53,ザ・ハングドマン,ふう……なかなか面白かったな。<br>姬塔だっけ？　ここに<br>いればまだまだ楽しめそうだ。,呵……真是有趣啊。是叫姬塔吗？<br>在这里的话似乎还挺好玩的呢。
+54,ザ・ハングドマン,アーカルムシリーズとしての<br>使命はまあ、俺にとっては<br>ついでだけど……,虽然我身上还有<br>身为阿尔卡姆的使命……
+55,ザ・ハングドマン,とりあえず、のんびりと<br>待つことにするかな。<br>……来たるべき、約束の時を。,总之就让我先悠闲的等着吧。<br>……等待那终将到来的约定之时。
+info,,,scene_chr489_ep7_s10

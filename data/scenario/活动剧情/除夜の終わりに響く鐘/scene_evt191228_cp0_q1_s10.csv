@@ -1,0 +1,59 @@
+id,name,text,trans
+0-synopsis,,歳神を務めるクビラは昨日まで祠にいたジョヤがいなくなっていることを知る。ジョヤは以前のように暴走によって失踪したのではなく、何者かによって連れ去られた可能性が高いらしい。その頃、同じ島のとある蔵の中でマキラは鐘の形をしたものを組み立てていた。マキラが内部構造の解析のために鐘に四角い装置をつけると、装置に予想外の波形が映るのだった。,担任岁神的库碧拉得知昨天还在祠堂里的除夜不见了。看情况除夜并不是像之前那样因为暴走而失踪，被人带走的可能性更大。这时，同一座岛上的某个仓库中，玛琪拉正在组装一个钟形的东西。为了解析它的内部结构，玛琪拉给它装上一个方形的仪器，而仪器上映出了意想不到的波形。
+1,,<span class='scene-font-katari'>年の瀬の迫る、</span><br><span class='scene-font-katari'>とある島の厳かな祠──</span>,<span class='scene-font-katari'>年末将至，某座岛屿上一个庄严的祠堂中——</span>
+2,,<span class='scene-font-katari'>冷えた朝靄の漂うその場所には、</span><br><span class='scene-font-katari'>険しい表情で佇む男達と</span><br><span class='scene-font-katari'>ふたりの少女がいた。</span>,<span class='scene-font-katari'>寒冷的朝霭中，伫立着一群表情严肃的男人和两名少女。</span>
+3,クビラ/库碧拉,そんな……<br>昨日見に来た時は<br>確かにジョヤは祠にいたのに……,怎么会这样……<br>昨天来的时候除夜还在祠堂里……
+8,,<span class='scene-font-katari'>太い竹筒のような神器を携えた少女、</span><br><span class='scene-font-katari'>彼女は亥神宮の主であり、</span><br><span class='scene-font-katari'>北北西の守護神のクビラである。</span>,<span class='scene-font-katari'>少女带着粗竹筒一般的神器，她就是亥神宫之主，北北西的守护神库碧拉。</span>
+13,若い男/年轻人,申し訳ございません、クビラ様。,实在对不起，库碧拉大人。
+14,村長/村长,ジョヤの監視を担う我々一族が<br>ついていながら、<br>またもやこのような不手際を……,监视除夜是我们一族的职责，却又发生了这种事……
+15,クビラ/库碧拉,ううん、貴方達のせいじゃない。,不，不是你们的错。
+16,クビラ/库碧拉,私が昨日祠へ来た時にもっとちゃんと<br>ジョヤの様子に注意していれば、<br>暴走も防げたはずだし……,如果我昨天来祠堂的时候对除夜更加注意的话，应该就能防止它暴走了……
+17,クビラ/库碧拉,ヴァジラちゃんから、<br>前にジョヤが大暴走して<br>大変だったって話も聞いてたのに……,瓦吉拉都告诉过我之前除夜暴走的事了……
+22,,<span class='scene-font-katari'>ジョヤ──</span><br><span class='scene-font-katari'>空の世界に溢れる</span><span class='scene-font-spword'>『煩悩』</span><span class='scene-font-katari'>を集め、</span><br><span class='scene-font-katari'>人々の欲望の均衡を保つためにある鐘。</span>,<span class='scene-font-katari'>除夜——收集空之世界中的『烦恼』，平衡人们欲望的钟。</span>
+23,,<span class='scene-font-katari'>一年を通じてジョヤに集められた煩悩を</span><br><span class='scene-font-katari'>十二神将が年越しにジョヤの鐘撞きを</span><br><span class='scene-font-katari'>行って払う。</span>,<span class='scene-font-katari'>每年年末，十二神将会在跨年之时通过撞钟驱除它一整年收集的烦恼。</span>
+24,,<span class='scene-font-katari'>そうすることで人々の心には</span><br><span class='scene-font-katari'>適度な煩悩が保たれ、</span><br><span class='scene-font-katari'>人々の繁栄の一助となっていた。</span>,<span class='scene-font-katari'>这样，人们心中的烦恼会维持在适度的范围，有利于人世今后的繁荣。</span>
+29,,<span class='scene-font-katari'>しかしジョヤは煩悩を集める器としての</span><br><span class='scene-font-katari'>機能しか持ち合わせていないため、</span><br><span class='scene-font-katari'>扱える煩悩の量には限度がある。</span>,<span class='scene-font-katari'>但除夜作为容器只有收集的功能，能储存的烦恼有限。</span>
+30,,<span class='scene-font-katari'>異常な量の煩悩に耐え切れなくなった</span><br><span class='scene-font-katari'>ジョヤは三度に渡って暴走を起こし……</span>,<span class='scene-font-katari'>曾经有三次，除夜因为无法承受异常大量的烦恼而暴走。</span>
+73,,<span class='scene-font-katari'>遂には空の世界の均衡を保つために</span><br><span class='scene-font-katari'>顕現した星晶獣の手を借りるほどの</span><br><span class='scene-font-katari'>大騒動にまで発展したのだった。</span>,<span class='scene-font-katari'>甚至引发了需要维持空之世界均衡的星晶兽显现才得以解决的大骚动。</span>
+79,若い男/年轻人,それが、どうも今回の失踪は<br>これまでと様子が違うようなのです。,可是，这一次除夜的失踪和以往有些不同。
+80,クビラ/库碧拉,えっ……？<br>暴走してどこかへ行ったんじゃないの？,嗯……？<br>它不是失去控制然后不知所踪了吗？
+81,村長/村长,祠の前をご覧ください。<br>雪に複数の足跡が残っているのが<br>見えますでしょう。,请看祠堂的前方。<br>雪地上有多个人的脚印。
+82,若い男/年轻人,昨日は日暮れまで雪でしたから、<br>昨晩から今朝にかけてついたものだと<br>考えられるのですが……,昨天雪一直下到傍晚，也就是说这些脚印应该是入夜后留下来的……
+83,若い男/年轻人,足跡の形状が明らかに<br>我々の履物とは違っているんです。<br>島外から何者かが侵入したんでしょう。,看脚印的形状，他们穿的鞋和我们不一样。<br>会不会是岛外的入侵者呢。
+84,クビラ/库碧拉,それじゃあ、<br>ジョヤは誰かに盗まれたってこと？,也就是说，除夜是被人偷走的？
+85,村長/村长,恐らくは。艇をつけられそうな<br>島の外れまで足跡が伸びているのは<br>確認しております。,很可能。我们已经确认了这些脚印一直延续到可以供船停靠的岛屿边缘。
+86,クビラ/库碧拉,そっか。考えてみれば、<br>暴走したんならこの辺りも煩悩の気配で<br>いっぱいになってるはず……,这样啊。仔细想想，如果是它自己暴走，周围应该会留下烦恼的气息……
+87,クビラ/库碧拉,でも、その人達は<br>ジョヤをどうする気なんだろう？,可是，偷走除夜的人要用它做什么？
+88,クビラ/库碧拉,今は一年で一番煩悩が集まってるから、<br>十二神将でも近づく時は<br>注意が必要なのに……,它现在收集了一整年的烦恼，就连我们十二神将在接近它的时候也需要多加注意……
+89,？？？,そうだね。<br>ジョヤも盗んだ人も心配だなぁ。,是啊。<br>我有些担心偷走除夜的人呢。
+90,,<span class='scene-font-katari'>クビラの隣で黙って話を聞いていた</span><br><span class='scene-font-katari'>大きなつけ耳の少女は、</span><br><span class='scene-font-katari'>深刻そうに腕を組んだ。</span>,<span class='scene-font-katari'>一直在旁静听、头上戴着一对大耳朵的少女严肃地把手臂交叉在胸前。</span>
+91,クビラ/库碧拉,ごめんね、ビカラちゃん。<br>年が明けるまでには<br>この事件も何とかするから。,抱歉啊，碧卡拉。<br>我会在跨年之前解决这件事的。
+92,ビカラ,フフッ！<br>そうやって何でもひとりで抱え込むのは<br>クビラの悪い癖さ！,哼哼！<br>像这样什么事都想着一个人解决是库碧拉的坏习惯！
+93,ビカラ,ぼくだって十二神将なんだから、<br>一緒にジョヤを捜しに行くよ。<br>ふたりで力を合わせて頑張ろう！,我也是十二神将，我们一起去找吧。<br>两个人一起加油！
+94,クビラ/库碧拉,ありがとう。<br>そう言ってもらえると心強いよ。,谢谢。<br>你这么说我就不担心了。
+95,,<span class='scene-font-katari'>ふたりの十二神将は</span><br><span class='scene-font-katari'>ジョヤを取り戻すべく、</span><br><span class='scene-font-katari'>祠を後にするのだった。</span>,<span class='scene-font-katari'>于是十二神将中的两位为了找回除夜离开的祠堂。</span>
+100,マキラ/玛琪拉,このパーツは……<br>下の窪みにはめて……,这个零件……<br>放在下面的凹槽里……
+101,,<span class='scene-font-katari'>その頃、祠から程近い村の蔵の中で、</span><br><span class='scene-font-katari'>ひとりの少女が独り言を呟きながら</span><br><span class='scene-font-katari'>熱心に何かを組み立てていた。</span>,<span class='scene-font-katari'>这时，离祠堂不远的仓库中，少女一边自言自语一边组装着什么东西。</span>
+106,,<span class='scene-font-katari'>西の守護神であり鳥神宮の主のマキラ。</span><br><span class='scene-font-katari'>鳥のように空を飛ぶ夢を叶えるため、</span><br><span class='scene-font-katari'>様々な機械を研究している少女である。</span>,<span class='scene-font-katari'>她是正西的守护神鸟神宫之主玛琪拉。为了实现像鸟一样飞翔的梦想研究着各种各样的机器。</span>
+111,マキラ/玛琪拉,えっと、大きい方のバネは……<br>あ、またこの文字列だから……,嗯，大的发条……<br>又是这串文字……
+113,マキラ/玛琪拉,紅頚黄鼓、光慧航行……,红颈黄鼓、光慧航行……,
+114,マキラ/玛琪拉,やはり暗号が示してるのはここ。<br>なので、設計図の通りならこれで……,果然暗号指的是这里。<br>所以，按照设计图，这样就……
+116,ジョヤ？/除夜？,──……,——……
+117,,<span class='scene-font-katari'>マキラが最後の部品をはめ込むと、</span><br><span class='scene-font-katari'>鐘の形をしたそれは</span><br><span class='scene-font-katari'>中の部品を回転させて反応を示した。</span>,<span class='scene-font-katari'>玛琪拉拼完最后一块零件，钟形机器内部的零件旋转起来开始运作。</span>
+118,マキラ/玛琪拉,無事に起動しましたね。<br>では内部構造の解析を始めます。,成功起动了。<br>那么接下来开始解析内部结构。
+119,,<span class='scene-font-katari'>マキラは四角い装置を</span><br><span class='scene-font-katari'>完成したばかりの鐘に取りつけ、</span><br><span class='scene-font-katari'>波長を合わせるようにダイヤルを回す。</span>,<span class='scene-font-katari'>玛琪拉将一个方形装置安装在刚刚完成的钟上，转动旋钮同步频率。</span>
+120,ジョヤ？/除夜？,──……,——……
+121,ジョヤ？/除夜？,・・・・……,
+122,ジョヤ？/除夜？,<span class='scene-font-4'>☆＆※＠×♪＃＆！？！？</span>,
+123,マキラ/玛琪拉,わわっ！<br>ちょっと調整しますね。,哇！<br>我再调整一下哦。
+125,ジョヤ？/除夜？,・・・・……,
+126,ジョヤ？/除夜？,………………………………………………<br>……………………………………────,
+127,ジョヤ？/除夜？,<span class='scene-font-5'>！！</span>,
+128,マキラ/玛琪拉,ん？<br>あ、上手くいった？,嗯？<br>好了吗？
+129,マキラ/玛琪拉,でもこの波形は一体？<br>見たことない形だ……,不过，这个波形是？<br>总没见过这样的波形呢……
+130,,<span class='scene-font-katari'>マキラは首を捻りながら、</span><br><span class='scene-font-katari'>更に解析を進めようとダイヤルを</span><br><span class='scene-font-katari'>操作する。</span>,<span class='scene-font-katari'>玛琪拉感到疑惑，继续解析。</span>
+131,ジョヤ？/除夜？,・・・・……,
+132,ジョヤ？/除夜？,～～♪　～～♪,
+137,,<span class='scene-font-katari'>このマキラの作り出した小さな鐘が、</span><br><span class='scene-font-katari'>後に空の希望を背負う存在になることを</span><br><span class='scene-font-katari'>まだ誰も知らないのだった。</span>,<span class='scene-font-katari'>此时还没有人知道，玛琪拉做出的小钟将背负起空之世界的希望。</span>
+info,,,scene_evt191228_cp0_q1_s10
+译者,煌月夜,hxd们我复活辣,

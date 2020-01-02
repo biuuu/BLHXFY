@@ -1,0 +1,10 @@
+id,name,detail
+npc,卡莉奥斯特萝,3040062000
+special,大炼金术,暗属性伤害(特大)/根据幽暗的刻印的数量提高性能 <span class=text-blue>◆追加效果：我方全体奥义槽UP</span>
+skill-1,瓦解,对敌方全体造成暗属性伤害/防御DOWN(累积)<br><span class=text-blue>◆追加效果：发动2次</span>
+skill-2,幻灯,<div class=prt-text-small>特殊强化我方全体（攻防UP/连续攻击率UP/赋予幽暗的刻印)<br><span class=text-blue>◆追加效果：将受到的伤害转变为光属性</span></div>
+skill-3,强化,回复我方全体HP/回复一个弱体效果<br><span class=text-blue>◆追加效果：发动2次</span>
+support-1,要捣蛋咯☆,经过回合在8回合以上时，赋予自己的技能及奥义追加效果
+support-2,幽暗的飨宴,<div class=prt-text-small>暗属性角色根据各自的幽暗的刻印的数量减轻光属性伤害<br><span class=text-blue>◆光属性伤害减轻效果在自己在后备时也会发动</span></div>
+skill-lb,LB技能,普攻时，自身技能使用间隔有极小概率缩短1回合
+intro,奇迹的炼金术师,身穿特别讲究的服装，稀世天才揭发出这梦幻飨宴的真实。将找到的真实藏在心中，炼金术师温柔地注视着幽幻之王新的生存之道。

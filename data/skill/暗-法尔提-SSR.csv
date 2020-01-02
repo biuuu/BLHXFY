@@ -1,0 +1,11 @@
+id,name,detail
+npc,法尔提,3040086000
+special,天霸魔龙枪,暗属性伤害(特大)/下一次使用「黑龙双击波」，技能发动2次
+skill-1,黑龙双击波,对敌方单体造成3.5~4.5倍暗属性伤害
+skill-1+,黑龙双击波,对敌方单体造成4~5倍暗属性伤害
+skill-2,战号,敌方全体攻击DOWN（累积）/我方全体暗属性攻击UP（累积）/赋予幽暗的刻印
+skill-3,苍天魔龙导,<div class=prt-text-small>暴击率UP/二连击率UP <span class=text-blue>◆经过回合为7回合以上时，效果全体化</span></div>
+support-1,吾之霸道磊落轶荡,每回合攻击3%UP(最大45%)
+support-2,天空的霸者,<div class=prt-text-small>暗属性角色根据各自的幽暗的刻印的数量提升技能性能<br><span class=text-blue>◆技能性能UP效果在自己在后备时也会发动</span></div>
+skill-lb,LB技能,普攻有概率攻击UP(累积)
+intro,魔龙统领者,统领魔龙的高贵战士，以压倒性的力量驰名全空。她在钻研、锻炼、纷争中度过每日，同时亦在追求酣畅淋漓的战斗。

@@ -1,0 +1,12 @@
+id,name,text,trans
+0,イルザ/伊尔莎,やれやれ、上層部から投げられた<br>雑務をこなすうちにこの時間か。<br>とんだクリスマスプレゼントだ。,哎呀哎呀，专注于完成上级丢过来的杂务，不知不觉都这个时间了啊。<br>真是意料之外的圣诞贺礼啊。
+1,イルザ/伊尔莎,<span class='scene-font-kokoro'>（覚悟はしていたが、姬塔達の</span><br><span class='scene-font-kokoro'>パーティーに顔を出せなかったのは、</span><br><span class='scene-font-kokoro'>少し残念だ……）</span>,<span class='scene-font-kokoro'>（虽然做好心理准备了，</span><br><span class='scene-font-kokoro'>但无法参加姬塔他们的派对</span><br><span class='scene-font-kokoro'>还是有点遗憾啊……）</span>
+2,イルザ/伊尔莎,おや……？,哦呀……？
+3,,<span class='scene-font-katari'>自室のドアに手をかけたイルザは</span><br><span class='scene-font-katari'>一枚のカードが</span><br><span class='scene-font-katari'>貼り付けられていることに気付く。</span>,<span class='scene-font-katari'>伊尔莎正要推开自己房间的门</span><br><span class='scene-font-katari'>突然发现门上</span><br><span class='scene-font-katari'>贴着一张卡片。</span>
+4,イルザ/伊尔莎,聖夜のグリーティングカード……<br>姬塔からか。,是平安夜的贺卡……<br>姬塔送来的吗。
+5,イルザ/伊尔莎,ふ……「また次の機会に」、か。<br>その気遣い、勲章ものだぞ、<br>姬塔。,呵……「下次再来吧」吗。<br>你的这份心意，值得表扬啊。
+11,イルザ/伊尔莎,さて、ロウソクはあっただろうか？,让我看看，这里有没有蜡烛呢？
+12,イルザ/伊尔莎,いつもの照明でケーキを食べても<br>味気ない。温かなロウソクの灯を<br>眺めながら聖夜を満喫するとしよう。,一直在灯光下吃蛋糕也太无聊了。<br>就让我看着温暖的烛光，尽情享受平安夜吧。
+13,,<span class='scene-font-katari'>イルザはそう呟くと、</span><br><span class='scene-font-katari'>姬塔からのカードを</span><br><span class='scene-font-katari'>テーブルに飾って微笑むのだった。</span>,<span class='scene-font-katari'>伊尔莎低声说道，</span><br><span class='scene-font-katari'>一边用姬塔送的贺卡装饰餐桌</span><br><span class='scene-font-katari'>一边露出了微笑。</span>
+info,,,scene_s3_christmas_3094_v1_0_2005_3_3040148000
+译者,,,

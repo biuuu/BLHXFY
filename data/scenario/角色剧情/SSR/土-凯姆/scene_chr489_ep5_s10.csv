@@ -5,7 +5,7 @@ id,name,text,trans
 2,カイム,はぁっ、はぁっ…………<br>…………はあ……,哈啊，哈啊…………<br>…………哈啊……
 3,,<span class='scene-font-katari'>カイムは、酷い悪夢でも見たように</span><br><span class='scene-font-katari'>うなされながら飛び起き、</span><br><span class='scene-font-katari'>静かな部屋に荒い息を響かせる。</span>,<span class='scene-font-katari'>凯姆就像做了噩梦一样</span><br><span class='scene-font-katari'>痛苦地呻吟着从床上坐了起来</span><br><span class='scene-font-katari'>安静的房间里回响着他那慌乱的呼吸声。</span>
 4,カイム,っ…………大丈夫、生きてる……<br>僕は、まだ……<br>誰も僕を…………,…………没事的，还活着……<br>我还，没有……<br>谁也没把我…………
-5,カイム,はあ…………<br>そうだ、データの分析を進めないと。,哈啊…………<br>说起来，数据的分析还是没有进展啊。
+5,カイム,はあ…………<br>そうだ、データの分析を進めないと。,哈啊…………<br>对了，必须要继续分析数据才行。
 6,,<span class='scene-font-katari'>ベッドから這い出して</span><br><span class='scene-font-katari'>ふらふらと机に向かう。</span>,<span class='scene-font-katari'>凯姆爬下了床</span><br><span class='scene-font-katari'>摇摇晃晃地走向书桌。</span>
 7,カイム,このフェーズも、もう佳境だ。<br>それからあっちも……,这边的情况，也进展顺利。<br>然后那边也……
 9,カイム,そろそろだな。<br>彼等は、もう充分に働いてくれた。,差不多了啊。<br>他们也帮我做了很多呢。
@@ -34,7 +34,7 @@ id,name,text,trans
 48,謎の声,だって、君はもうその物語の<br>中にいるし、結末はもうすぐ。<br>実際に目にすることになる。,因为你已经身处于那个故事里了。<br>你很快就能亲眼见证，<br>那个故事的结局了。
 49,謎の声,だから、それまで我慢してくれよな。,所以，在那之前还请忍耐一下吧。
 55,,<span class='scene-font-katari'>「星晶獣の記憶の世界」での</span><br><span class='scene-font-katari'>戦いを幾度も幾度も繰り返した</span><br><span class='scene-font-katari'>姬塔達。</span>,<span class='scene-font-katari'>在「星晶兽的记忆世界」里</span><br><span class='scene-font-katari'>姬塔一行人历经了无数次战斗。</span>
-56,,<span class='scene-font-katari'>その中で強くなる疑問を</span><br><span class='scene-font-katari'>持て余していた頃、カイムが</span><br><span class='scene-font-katari'>グランサイファーを訪ねてきた。</span>,<span class='scene-font-katari'在他们心中的疑虑越滚越大之时，</span><br><span class='scene-font-katari'>凯姆造访了格兰赛法。</span>
+56,,<span class='scene-font-katari'>その中で強くなる疑問を</span><br><span class='scene-font-katari'>持て余していた頃、カイムが</span><br><span class='scene-font-katari'>グランサイファーを訪ねてきた。</span>,<span class='scene-font-katari'>在他们心中的疑虑越滚越大之时，</span><br><span class='scene-font-katari'>凯姆造访了格兰赛法。</span>
 58,カイム,やあ、こんにちは。,呀啊，你们好。
 59,ルリア/露莉亚,カイムくん！<br>こんにちはー！,凯姆！<br>你好ー！
 60,ビィ/碧,ちょうど良かったぜ！<br>オイラ達、お前に聞きたい<br>ことがあったんだ。,你来的刚刚好！<br>我们有事想问你。
@@ -44,7 +44,7 @@ id,name,text,trans
 64,ビィ/碧,そ、その通りだぜ！<br>よくわかったなぁ。,正，正是如此！<br>真亏你能知道啊。
 65,カイム,そろそろ疑問を持つのは<br>当然だからね。,你们差不多也该有这个问题了<br>这也是理所当然的。
 66,カイム,それに、もう戦いは終わりだからね。,而且，战斗已经结束了。
-67,ビィ/碧,えっ、本当かよ！<br>それじゃあ、もう星晶獣の<br>企みは阻止できたのか！？,诶，真的嘛！<br>那我们已经成功阻止了星晶兽的企图了吗！？
+67,ビィ/碧,えっ、本当かよ！<br>それじゃあ、もう星晶獣の<br>企みは阻止できたのか！？,诶，真的吗！<br>那我们已经成功阻止了星晶兽的企图了吗！？
 68,ルリア/露莉亚,あの、待って下さい！<br>でも、このカード……なんだか<br>感じる気配が強くなってて……,那个，请等一下！<br>但是，这枚卡片……总感觉<br>它的气息变强了……
 69,,──……,──……
 70,ビィ/碧,しかも、なんだか綺麗に<br>なってきてる気がするんだ。もう少しで<br>絵が見えそうなんだけどよぉ……,而且啊，总觉得变漂亮了，<br>应该再过会儿<br>就能看清画的什么了吧……
@@ -58,10 +58,10 @@ id,name,text,trans
 78,ビィ/碧,新世界創造に必要って……<br>オイラ達、それを阻止しようと<br>してたんじゃねぇのかよ！？,你说为了创造新世界……<br>我们不是为了阻止那件事<br>才去战斗的吗！？
 79,カイム,逆だよ。<br>あなた達には、シミュレーションの<br>コマとして協力してもらった。,正好相反。<br>你们作为模拟实验的棋子为我提供了帮助。
 80,ルリア/露莉亚,そんな……っ！,怎么会……！
-81,,<span class='scene-font-katari'>自分達の戦いが、世界を危機に陥れる</span><br><span class='scene-font-katari'>計画の一端を担っていたことを知り、</span><br><span class='scene-font-katari'>姬塔達は言葉を失う。</span>,<span class='scene-font-katari'>得知自己的战斗，</span><br><span class='scene-font-katari'>帮助了威胁到这个世界的计划</span><br><span class='scene-font-katari'>姬塔他们一时说不出话来。</span>
+81,,<span class='scene-font-katari'>自分達の戦いが、世界を危機に陥れる</span><br><span class='scene-font-katari'>計画の一端を担っていたことを知り、</span><br><span class='scene-font-katari'>姬塔達は言葉を失う。</span>,<span class='scene-font-katari'>得知自己的战斗，</span><br><span class='scene-font-katari'>反而让这个世界陷入危机</span><br><span class='scene-font-katari'>姬塔他们一时说不出话来。</span>
 82,カイム,正直、あなた達の働きは<br>想像以上だった。<br>あなた達を選んで良かったよ。,实话说，你们的工作<br>做的比我想象的要好呢。<br>选了你们真是太好了。
-83,ビィ/碧,くっそぉ……！<br>オイラ達を騙してたってのかよ！？,可恶……！<br>你是欺骗了我们吗！？
-84,カイム,そうなるね。,是那么一回事呢。
+83,ビィ/碧,くっそぉ……！<br>オイラ達を騙してたってのかよ！？,可恶……！<br>你是骗了我们吗！？
+84,カイム,そうなるね。,确实如此呢。
 85,,<span class='scene-font-katari'>カイムのそれは、まるで感情を</span><br><span class='scene-font-katari'>動かされた様子のない</span><br><span class='scene-font-katari'>淡々とした肯定だった。</span>,<span class='scene-font-katari'>凯姆一副不为所动的样子</span><br><span class='scene-font-katari'>淡然地肯定了碧说的话。</span>
 86,ルリア/露莉亚,そんなぁ……<br>私達、どうしたら<br>いいんでしょうか……？,怎么会……<br>我们，该怎么办才好啊……？
 86-sel1_txt,,<span class='scene-font-katari'>許せない</span>,<span class='scene-font-katari'>绝不原谅</span>
