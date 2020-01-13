@@ -143,7 +143,7 @@ const parseSkill = async (data, pathname) => {
         if (!trans) {
           let list = skillData[key2 + '-lv']
           list && list.forEach(item => {
-            if (level > item.level) {
+            if (level >= item.level) {
               trans = item.data
             }
           })
