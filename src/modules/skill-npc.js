@@ -101,12 +101,15 @@ const previewSkill = (npcId) => {
 const parseSkill = async (data, pathname) => {
   if (Game.lang === 'en') return data
   let npcId
+  let level
   if (pathname.includes('/npc/npc/')) {
     if (!data.master || !data.master.id) return data
     npcId = `${data.master.id}`
+    level = data.param.level
   } else if (pathname.includes('/archive/npc_detail')) {
     if (!data.id) return data
     npcId = data.id
+    level = data.max_level
   }
 
   await parseBuff(data)
@@ -138,10 +141,18 @@ const parseSkill = async (data, pathname) => {
       if (!trans) {
         trans = skillData[`special-${ability.name}`]
         if (!trans) {
-          trans = skillData[key2 + plus2]
+          let list = skillData[key2 + '-lv']
+          list && list.forEach(item => {
+            if (level > item.level) {
+              trans = item.data
+            }
+          })
           if (!trans) {
-            trans = skillData[key2]
-            if (!trans) continue
+            trans = skillData[key2 + plus2]
+            if (!trans) {
+              trans = skillData[key2]
+              if (!trans) continue
+            }
           }
         }
       }

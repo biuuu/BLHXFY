@@ -138,7 +138,17 @@ const setSkillMap = (list, stable = true) => {
   const skillData = {}
   for (let row of list) {
     if (stable || active) {
-      skillData[row.id] = row
+      if (/.+\[lv\d+\]/.test(row.id)) {
+        let rgs = row.id.match(/(.+)\[lv(\d+)\]/)
+        let key = rgs[1]
+        let level = parseInt(rgs[2])
+        let list = skillData[key + '-lv'] || []
+        if (!skillData[key + '-lv']) skillData[key + '-lv'] = list
+        list.push({ level, data: row })
+        list.sort((m, n) => m.level - n.level)
+      } else {
+        skillData[row.id] = row
+      }
     }
   }
   state.skillMap.set(npcId, skillData)
