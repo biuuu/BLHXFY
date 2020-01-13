@@ -282,4 +282,11 @@ const battle = async function battle(data, mode) {
   return data
 }
 
-export default race(battle)
+const transBattle = race(battle)
+
+const transBattleR = async (data) => {
+  return await transBattle(data, 'result')
+}
+
+export { transBattleR }
+export default transBattle

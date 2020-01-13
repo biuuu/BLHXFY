@@ -49,4 +49,13 @@ const comic = async (data, pathname, type = 'default') => {
   return data
 }
 
+const transComicT = async (data, pathname) => {
+  return await comic(data, pathname, 'template')
+}
+
+const transComicD = async (data, pathname) => {
+  return await comic(data, pathname, 'data')
+}
+
+export { transComicT, transComicD }
 export default comic

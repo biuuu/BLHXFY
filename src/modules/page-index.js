@@ -9,7 +9,7 @@ const pageIndex = async (data) => {
   let status
   try {
     mydata = data.option.mydata_assets.mydata
-    messages = mydata.messages
+    messages = mydata.mypage_notification_list
     status = mydata.status
   } catch (err) {
     return data
@@ -21,7 +21,7 @@ const pageIndex = async (data) => {
         newMessages.push(item)
       }
     })
-    mydata.messages = newMessages
+    mydata.mypage_notification_list = newMessages
   }
   status.action_point_remain = replaceTime(status.action_point_remain)
   status.battle_point_remain = replaceTime(status.battle_point_remain)
@@ -49,5 +49,9 @@ const replaceHour = (data, type) => {
   return data
 }
 
+const replaceHourU = (data) => {
+  return replaceHour(data, 'user')
+}
+
 export default pageIndex
-export { replaceHour }
+export { replaceHour, replaceHourU }

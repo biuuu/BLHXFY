@@ -68,7 +68,7 @@ const showSub = async (src) => {
 }
 
 let soundInjected = false
-export default async function showVoiceSub(data, pathname, type) {
+async function showVoiceSub(data, pathname, type) {
   if (!soundInjected) {
     require(['model/sound'], function (sound) {
       let playVoice = sound.prototype.playVoice
@@ -86,3 +86,10 @@ export default async function showVoiceSub(data, pathname, type) {
     await showSub(pathname)
   }
 }
+
+const showVoiceSubL = async (data, pathname) => {
+  return await showVoiceSub(data, pathname, 'list')
+}
+
+export { showVoiceSubL }
+export default showVoiceSub

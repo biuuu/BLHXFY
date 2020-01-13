@@ -1,4 +1,6 @@
 import URI from 'urijs'
+import isString from 'lodash/isString'
+import isRegExp from 'lodash/isRegExp'
 import transScenario from './modules/scenario'
 import transLangMsg from './modules/langMsg'
 import transNpcSkill from './modules/skill-npc'
@@ -7,17 +9,79 @@ import transHTML from './modules/content-html'
 import transTownInfo from './modules/town-info'
 import transIslandInfo from './modules/island-info'
 import transChat from './modules/chat-preset'
-import transBattle from './modules/battle'
+import transBattle, { transBattleR } from './modules/battle'
 import weaponSkill from './modules/weapon'
 import summonSkill from './modules/summon'
-import transComic from './modules/comic'
+import transComic, { transComicT, transComicD } from './modules/comic'
 import transBuff from './modules/buff'
 import transArcarum from './modules/arcarum'
-import pageIndex, { replaceHour } from './modules/page-index'
-import showVoiceSub from './modules/voice-sub'
+import pageIndex, { replaceHour, replaceHourU } from './modules/page-index'
+import { showVoiceSubL } from './modules/voice-sub'
 import { getUserName, setUserName } from './store/name-user'
 
 const apiHosts = ['game.granbluefantasy.jp', 'gbf.game.mbga.jp']
+
+const requestRouter = async (data, type, list) => {
+  let result = false
+  try {
+    for (let [paths, handles] of list) {
+      if (!Array.isArray(paths)) paths = [paths]
+      let pass = false
+      for (let path of paths) {
+        if (isString(path) && type.includes(path)) {
+          pass = true
+        } else if (isRegExp(path) && path.test(type)) {
+          pass = true
+        }
+      }
+      if (pass) {
+        result = true
+        if (!Array.isArray(handles)) handles = [handles]
+        for (let handle of handles) {
+          if (isString(handle)) {
+            
+          } else {
+            await handle(data, type)
+          }
+        }
+      }
+    }
+  } catch (e) {
+    console.log(e)
+  }
+  return result
+}
+
+const requestList = [
+  ['scenario', [setUserName, transScenario]],
+  ['/content/',[transLangMsg, transHTML, replaceHour]],
+  ['/profile/content/index/', getUserName],
+  ['/user/content/index', [transTownInfo, pageIndex]],
+  ['/comic/content/episode/', transComic],
+  ['/comic/content/index', transComicT],
+  ['/comic/list/', transComicD],
+  [['/npc/npc/', '/archive/npc_detail'], transNpcSkill],
+  [['/party_ability_subaction/', '/party/job/', 
+    '/party/ability_list/', '/zenith/ability_list/', '/party/job_info/'], transJobSkill],
+  ['/island/init', transIslandInfo],
+  [['/rest/sound/mypage_voice', '/rest/sound/archive_voice'], showVoiceSubL],
+  [[/\/rest\/(multi)?raid\/start\.json/, /\/rest\/tutorial\/tutorial\d{1,2}\.json/], [transChat, transBattle]],
+  [[/\/rest\/(multi)?raid\/ability_result\.json/,
+    /\/rest\/(multi)?raid\/temporary_item_result\.json/,
+    /\/rest\/(multi)?raid\/normal_attack_result\.json/,
+    /\/rest\/(multi)?raid\/summon_result\.json/,
+    /\/rest\/tutorial\/tutorial_battle_\d+_\d+\.json/], transBattleR],
+  [/\/rest\/.*?raid\/condition\/\d+\/\d\/\d\.json/, transBuff],
+  ['/user/status', replaceHourU],
+  [['/weapon/weapon/', '/archive/weapon_detail'], weaponSkill],
+  [['/summon/summon/', '/archive/summon_detail'], summonSkill],
+  [['/rest/arcarum/move_division',
+    '/rest/arcarum/start_stage',
+    '/rest/arcarum/open_gatepost',
+    '/rest/arcarum/open_chest',
+    '/rest/arcarum/next_stage',
+    '/rest/arcarum/stage'], transArcarum]
+]
 
 export default async function translate(state) {
   const uri = URI(state.url)
@@ -31,85 +95,8 @@ export default async function translate(state) {
     isJSON = false
   }
   if (apiHosts.indexOf(hostname) !== -1) {
-    if (pathname.includes('scenario')) {
-      setUserName()
-      data = await transScenario(data, pathname)
-    } else if (pathname.includes('/content/')) {
-      try {
-        if (pathname.includes('/profile/content/index/')) {
-          getUserName(data)
-        }
-        if (pathname.includes('/user/content/index')) {
-          data = await transTownInfo(data, pathname)
-          data = await pageIndex(data, pathname)
-        } else {
-          data = replaceHour(data)
-        }
-        if (pathname.includes('/comic/content/episode/')) {
-          data = await transComic(data, pathname)
-        }
-        if (pathname.includes('/comic/content/index')) {
-          data = await transComic(data, pathname, 'template')
-        }
-      } catch (err) {
-        console.error(err)
-      }
-      await Promise.all([transLangMsg(data, pathname), transHTML(data, pathname)])
-    } else if (pathname.includes('/comic/list/')) {
-      data = await transComic(data, pathname, 'data')
-    } else if (pathname.includes('/npc/npc/') || pathname.includes('/archive/npc_detail')) {
-      data = await transNpcSkill(data, pathname)
-    } else if (
-      pathname.includes('/party_ability_subaction/') ||
-      pathname.includes('/party/job/') ||
-      pathname.includes('/party/ability_list/') ||
-      pathname.includes('/zenith/ability_list/') ||
-      pathname.includes('/party/job_info/')) {
-      data = await transJobSkill(data, pathname)
-    } else if (pathname.includes('/island/init')) {
-      data = await transIslandInfo(data, pathname)
-    } else if (pathname.includes('/rest/sound/mypage_voice') || pathname.includes('/rest/sound/archive_voice')) {
-      await showVoiceSub(data, pathname, 'list')
-    } else if (
-      /\/rest\/(multi)?raid\/start\.json/.test(pathname)
-      || /\/rest\/tutorial\/tutorial\d{1,2}\.json/.test(pathname)
-    ) {
-      data = await transChat(data)
-      data = await transBattle(data)
-    } else if (
-      /\/rest\/(multi)?raid\/ability_result\.json/.test(pathname)
-      || /\/rest\/(multi)?raid\/temporary_item_result\.json/.test(pathname)
-      || /\/rest\/(multi)?raid\/normal_attack_result\.json/.test(pathname)
-      || /\/rest\/(multi)?raid\/summon_result\.json/.test(pathname)
-      || /\/rest\/tutorial\/tutorial_battle_\d+_\d+\.json/.test(pathname)
-    ) {
-      data = await transBattle(data, 'result')
-    } else if (/\/rest\/.*?raid\/condition\/\d+\/\d\/\d\.json/.test(pathname)) {
-      await transBuff(data.condition)
-    } else if (pathname.includes('/user/status')) {
-      data = replaceHour(data, 'user')
-    } else if (
-      pathname.includes('/weapon/weapon/') ||
-      pathname.includes('/archive/weapon_detail')
-    ) {
-      data = await weaponSkill(data)
-    } else if (
-      pathname.includes('/summon/summon/') ||
-      pathname.includes('/archive/summon_detail')
-    ) {
-      data = await summonSkill(data)
-    } else if (
-      pathname.includes('/rest/arcarum/move_division') ||
-      pathname.includes('/rest/arcarum/start_stage') ||
-      pathname.includes('/rest/arcarum/open_gatepost') ||
-      pathname.includes('/rest/arcarum/open_chest') ||
-      pathname.includes('/rest/arcarum/next_stage') ||
-      pathname.includes('/rest/arcarum/stage')
-    ) {
-      data = await transArcarum(data)
-    } else {
-      return
-    }
+    let result = await requestRouter(data, pathname, requestList)
+    if (!result) return
   } else {
     return
   }
