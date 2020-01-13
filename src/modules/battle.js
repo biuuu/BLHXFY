@@ -7,67 +7,11 @@ import getNpcSkillData, { getCommSkillMap, skillState } from '../store/skill-npc
 import { getPlusStr, removeHtmlTag, race } from '../utils/'
 import CONFIG from '../config'
 import { transSkill } from './skill-npc'
-import debounce from 'lodash/debounce'
 import getArcarumData from '../store/arcarum'
 
 const skillTemp = new Map()
 const posMap = new Map()
 let arcarumMap = new Map()
-
-let count = 0
-let observered = false
-let obConfig = {
-  attributes: true,
-  subtree: true
-}
-
-const mutationCallback = (mutationsList) => {
-  for (let mutation of mutationsList) {
-    const type = mutation.type
-    const attr = mutation.attributeName
-    const target = mutation.target
-    if (target.classList.contains('lis-ability') && type === 'attributes' && attr === 'title') {
-      const title = target.title
-      if (title && title.endsWith('turn(s)')) {
-        viraSkillTitle()
-      }
-    }
-  }
-}
-
-const viraSkillTitleFunc = () => {
-  const list = $('.lis-ability')
-  if (list.length) {
-    count = 0
-    if (!observered) {
-      const targetNode = document.querySelector('.prt-command')
-      const observer = new MutationObserver(mutationCallback)
-      observer.observe(targetNode, obConfig)
-      observered = true
-    }
-    list.each(function () {
-      const $elem = $(this)
-      const title = $elem.attr('title')
-      if (!title) return
-      const name = title.split('\n')[0]
-      const trans = skillTemp.get(name)
-      if (trans) {
-        const [plus1] = getPlusStr(name)
-        const sName = trans.name + plus1
-        const detail = removeHtmlTag(trans.detail.replace(/<br\s?\/?>/gi, '\n'))
-        $elem.attr('title', title.replace(/^([\s\S]+)Cooldown:\s(\d+)\sturn\(s\)$/, `${sName}\n${detail}\n使用间隔：$2 回合`))
-      } else {
-        $elem.attr('title', title.replace(/^([\s\S]+)Cooldown:\s(\d+)\sturn\(s\)$/, `$1使用间隔：$2 回合`))
-      }
-    })
-  } else if (count < 20) {
-    count++
-    viraSkillTitle()
-  }
-}
-
-const viraSkillTitle = debounce(viraSkillTitleFunc, 500)
-
 
 const collectNpcSkill = (skillData) => {
   for (let key in skillData) {
@@ -335,7 +279,6 @@ const battle = async function battle(data, mode) {
     }
   }
 
-  viraSkillTitle()
   return data
 }
 
