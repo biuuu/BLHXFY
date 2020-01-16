@@ -1,9 +1,11 @@
 import config from '../config'
 
 const insertCSS = fontValue => {
+  let font = ''
+  if (fontValue && fontValue !== 'none') font = `${fontValue}, `
   const style = document.createElement('style')
   style.innerHTML = `.prt-scene-comment :not(.blhxfy-origin-text), .prt-pop-synopsis, .prt-log-display, .btn-select-baloon {
-    font-family: ${fontValue}, nickname_scene, "FOT-ニューシネマA Std D", "Average Sans", sans-serif !important;
+    font-family: ${font}nickname_scene, blhxwf, "FOT-ニューシネマA Std D", "Average Sans", sans-serif !important;
   }`
   document.head.appendChild(style)
 }

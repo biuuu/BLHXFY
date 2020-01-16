@@ -5,6 +5,12 @@ const extraHtml = settingHtml.replace('data-href="setting"', 'onclick="window.bl
 
 const html = `
 <style>
+@font-face {
+  font-family: 'blhxwf';
+  font-style: normal;
+  font-weight: normal;
+  src: url('${config.origin}/blhxfy/data/static/webfont.otf');
+}
 .cnt-quest-scene .prt-log-display {
   padding-top: 74px;
 }
