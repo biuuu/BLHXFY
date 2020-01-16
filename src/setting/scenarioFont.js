@@ -5,7 +5,7 @@ const insertCSS = fontValue => {
   if (fontValue && fontValue !== 'none') font = `${fontValue}, `
   const style = document.createElement('style')
   style.innerHTML = `.prt-scene-comment :not(.blhxfy-origin-text), .prt-pop-synopsis, .prt-log-display, .btn-select-baloon {
-    font-family: ${font}nickname_scene, blhxwf, "FOT-ニューシネマA Std D", "Average Sans", sans-serif !important;
+    font-family: ${font}nickname_scene, ${Game.ua.os.name === 'Windows' ? 'blhxwf, ': '' }"FOT-ニューシネマA Std D", "Average Sans", sans-serif !important;
   }`
   document.head.appendChild(style)
 }
