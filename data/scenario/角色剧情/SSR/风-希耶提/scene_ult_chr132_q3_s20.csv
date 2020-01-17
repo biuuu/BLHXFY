@@ -11,8 +11,8 @@ id,name,text,trans
 12,シエテ/希耶提,なんなのこの剣は。<br>面倒くさいなぁ……もー,什么啊这把剑。<br>超麻烦的啊……真是的ー
 13,シエテ/希耶提,でもまぁ……<br>キミも一人で寂しかったのかな？,但是嘛啊……<br>你也是一个人很寂寞吗？
 14,,<span class='scene-font-katari'>仕方なさそうな様子で、</span><br><span class='scene-font-spword'>七星剣</span><span class='scene-font-katari'>に手を伸ばすシエテ。</span>,<span class='scene-font-katari'>一脸无可奈何的样子，希耶提对</span><br><span class='scene-font-spword'>七星剑</span><span class='scene-font-katari'>伸出了手。</span>
-15,シエテ/希耶提,じゃあ記念に剣拓だけ取って<br>あげるから……,那么就让我做个纪念性质的<br>剑复制吧……
-17,七星剣,<span class='scene-font-gray'>…………かかったな！</span>,<span class='scene-font-gray'>…………掉入陷阱了呢！</span>
+15,シエテ/希耶提,じゃあ記念に剣拓だけ取って<br>あげるから……,那么就让我做个纪念性质的剑拓吧……
+17,七星剣,<span class='scene-font-gray'>…………かかったな！</span>,<span class='scene-font-gray'>…………中计了呢！</span>
 18,シエテ/希耶提,えっ！？,诶！？
 21,シエテ/希耶提,うぐっ……<br>ぐあぁああああああ！！,呜咕……<br>咕啊啊啊啊啊啊啊啊啊！！
 info,,,scene_ult_chr132_q3_s20
