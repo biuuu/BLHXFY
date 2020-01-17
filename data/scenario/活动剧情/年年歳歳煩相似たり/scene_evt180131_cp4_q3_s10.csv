@@ -1,0 +1,127 @@
+id,name,text,trans
+0-chapter_name,,第4話 抜き打ちビィ検査,第4话 突击碧检查
+0-synopsis,,依然としてビィの検査が続けられている騎空艇。見回りに行ったヴァジラも戻る気配はなく、アニラとアンチラも起きてくる様子はない。ビィは疑いの眼差しを向けられたまま、自分が姬塔の真の相棒であることを必死に証明し続けるのだった。,骑空艇上，对碧的检查还在继续。瓦姬拉没有要回来的样子，阿妮拉和安琪拉也在睡觉。碧面对姬塔怀疑的眼神，拼命证明它就是姬塔的搭档。
+3,,<span class='scene-font-katari'>依然として、ビィに疑いの</span><br><span class='scene-font-katari'>まなざしを向け続ける姬塔。</span><br><span class='scene-font-katari'>神将達はまだ戻る気配はない。</span>,<span class='scene-font-katari'>姬塔还是怀疑地看着碧。神将也没有回来的迹象。</span>
+4,,<span class='scene-font-katari'>ルリアとゾーイが固唾をのんで見守る中</span><br><span class='scene-font-katari'>姬塔によるビィ検査は</span><br><span class='scene-font-katari'>まだまだ続けられていた。</span>,<span class='scene-font-katari'>露莉亚和佐伊紧张地看着姬塔和碧。对碧的检查还在继续。</span>
+5,姬塔,去年の夏、十天衆の皆さんと一緒に<br>食べた海産物はなんだったか、<br>覚えてるぼん？,去年夏天，我们和十天众一起吃的海鲜叫什么，你还记得吗？
+5-sel1_txt,,<span class='scene-font-katari'>ンニ</span>,<span class='scene-font-katari'>海胆</span>
+5-sel2_txt,,<span class='scene-font-katari'>タラヴァガニ</span>,<span class='scene-font-katari'>帝王蟹</span>
+5-sel3_txt,,<span class='scene-font-katari'>スイカ</span>,<span class='scene-font-katari'>西瓜</span>
+6,ビィ/碧,ンニだぜっ！,海胆！
+7,ルリア/露莉亚,正解ですっ！<br>さすがビィさん！,回答正确！<br>不愧是碧！
+8,ビィ/碧,忘れねぇよ。<br>だって、すっげぇ旨かったしな！,咱可忘不了。<br>因为超好吃的！
+9,ビィ/碧,タラヴァガニじゃなかったっけか？,是帝王蟹吗？
+10,ルリア/露莉亚,えっと、なんだか<br>ちょっと違うような……でもカニさんは<br>もっと前だった気が……！,唔，好像不是……感觉吃螃蟹是再之前的事情了……！
+11,ビィ/碧,えーっと……<br>スイカだっけ……？,嗯……<br>是西瓜吗……？
+12,ルリア/露莉亚,ビィさん！？<br>問題は海産物ですよっ！,碧！？<br>问的是海鲜啊！
+13,姬塔,マナリア魔法学院で出会った<br>学院随一の魔法の腕を持つアンが<br>召喚魔法で呼び出すものはなんだぼん？,马纳利亚魔法学院最强魔法师安的召唤魔法召唤出的是什么？
+13-sel1_txt,,<span class='scene-font-katari'>精霊</span>,<span class='scene-font-katari'>精灵</span>
+13-sel2_txt,,<span class='scene-font-katari'>プロスクリスィ</span>,<span class='scene-font-katari'>召唤兽</span>
+13-sel3_txt,,<span class='scene-font-katari'>英霊</span>,<span class='scene-font-katari'>英灵</span>
+14,ビィ/碧,召喚で呼び出すっていえば精霊だろ？,召唤出来的是精灵吧？
+15,ルリア/露莉亚,違いますよ、ビィさん！<br>そんな簡単だと、<br>問題にならないと思うんですが……！,不对，碧！<br>我还觉得这么简单的不算问题呢……！
+16,ビィ/碧,プロスクリスィじゃなかったっけか？,是召唤兽吗？
+17,ルリア/露莉亚,召喚……という意味では惜しいです！<br>けど今のあの子の<span class='scene-font-spword'>『主』</span>は私です……！,虽然名字是召唤……但是打错了！<br>而且，召唤兽现在的<span class='scene-font-spword'>『主人』</span>是我……！
+18,ビィ/碧,英霊だろっ！<br>イオがアンはすっげぇやつだって<br>言ってたもんな。,英灵！<br>我还记得伊欧也说安很厉害。
+19,ルリア/露莉亚,正解ですっ！<br>イオちゃんすっごく<br>びっくりしてましたもんね！,回答正确！<br>伊欧那时好像很意外的样子！
+20,ゾーイ/佐伊,人の子がそのような力を持ち得るか……<br>空の民は凄まじいな。,人子能够拥有那样的力量么……<br>空之民好厉害。
+21,姬塔,シャローム島で出会った、<br>ドロシー＆クラウディアが仕える<br>魔王の名前はなんでしょうぼん？,我们在夏洛姆岛上遇见的，多萝西和克劳迪娅侍奉的魔王叫什么名字？
+21-sel1_txt,,<span class='scene-font-katari'>コンスタンツィア</span>,<span class='scene-font-katari'>康斯坦吉娅</span>
+21-sel2_txt,,<span class='scene-font-katari'>コンスタンシィア</span>,<span class='scene-font-katari'>康斯坦西娅</span>
+21-sel3_txt,,<span class='scene-font-katari'>コンスタンツィマ</span>,<span class='scene-font-katari'>康斯坦吉玛</span>
+22,ビィ/碧,コンスタンツィアだろ！<br>魔王の姉ちゃん、忘れてねぇぜ！,康斯坦吉娅！<br>魔王姐姐，咱还没忘记她呢！
+23,ルリア/露莉亚,うふふ。<br>コンスタンツィアさん、<br>お元気でしょうか？,呵呵，不知道康斯坦吉娅过的怎么样？
+24,ビィ/碧,コンスタン……シィア？,康斯坦……西娅？
+25,ルリア/露莉亚,違いますよ～！　ビィさん、<br>ちゃんと思い出してください～！,不对！碧，你好好想想！
+26,ビィ/碧,コンスタンツィ……マ？,康斯坦吉……玛？
+27,ビィ/碧,じゃねぇ！ <br>,不对！
+28,ルリア/露莉亚,はい、違います～……,是的，你答错了……
+29,姬塔,アキノに訪れた時に食べた、<br>フートン焼きの原料は<br>なんだったか覚えてるぼん？,我们去阿奇诺的时候吃过炸豆腐，它的原料是什么？
+29-sel1_txt,,<span class='scene-font-katari'>豆</span>,<span class='scene-font-katari'>豆类</span>
+29-sel2_txt,,<span class='scene-font-katari'>布団</span>,<span class='scene-font-katari'>棉被</span>
+29-sel3_txt,,<span class='scene-font-katari'>卵</span>,<span class='scene-font-katari'>鸡蛋</span>
+30,ビィ/碧,豆だろっ！,豆类！
+31,ルリア/露莉亚,美味しかったですよねー！<br>また食べに行きたいなぁ。,炸豆腐真的很美味！<br>真想再去吃啊。
+32,ビィ/碧,フートンだし、布団……か？,听起来像……棉被？
+33,ゾーイ/佐伊,む。<br>布団は食べられるものなのか？<br>食べたことがなかったな……,唔。棉被能吃吗？<br>我没有吃过……
+34,ルリア/露莉亚,ゾーイちゃん、<br>ビィさん間違えてます……<br>お布団は食べられません。,佐伊，碧搞错了……<br>棉被不能吃的。
+35,ビィ/碧,卵か？<br>なんかそんな感じだったような……？,鸡蛋？吃起来有点像……？
+36,ルリア/露莉亚,あれ？　そうでしたっけ？<br>豆の練り物って言ってた気が<br>しますけど……,咦？ 是吗？<br>我记得是豆子熬出来的东西……
+37,ビィ/碧,まだやんのかよぉ！？,还要继续吗！？
+38,ビィ/碧,くっそー！　負けねぇ！,可恶！ 咱不会输的！
+39,姬塔,白竜騎士団入団試験で<br>ヴェイン副団長が担当した受験生達の<br>班の名前は何でしょうぼん？,白龙骑士团入团测验中由维恩副团长负责的考生班级叫什么？
+40,ビィ/碧,ああ、そりゃ確か……,啊，好像是……
+40-sel1_txt,,<span class='scene-font-katari'>こねこ班</span>,<span class='scene-font-katari'>小猫班</span>
+40-sel2_txt,,<span class='scene-font-katari'>ひよこ班</span>,<span class='scene-font-katari'>小鸡班</span>
+40-sel3_txt,,<span class='scene-font-katari'>おもち班</span>,<span class='scene-font-katari'>年糕班</span>
+41,ビィ/碧,こねこ班……とかだったか？,小猫班……吗？
+42,ルリア/露莉亚,違いますよ～！,不对！
+43,ルリア/露莉亚,あ、でも、こねこも可愛いですね！ <br>,啊，不过小猫听起来也很可爱！
+44,ビィ/碧,ひよこ班だろ？<br>へへっ、オイラ達に<br>紹介してくれたじゃねぇか。,小鸡班吧？<br>他有向咱们介绍啊。
+45,ルリア/露莉亚,そうですよね！<br>ふふっ、ひよこさん可愛いです！,是的！<br>呵呵，小鸡听起来很可爱！
+46,ビィ/碧,おもち班……とかなんか、<br>そんなような名前だったような……？,年糕班……还是什么类似的名字……？
+47,ルリア/露莉亚,違いますよー……,不对……
+48,ルリア/露莉亚,で、でも、なんだかとっても<br>美味しそうな名前です！ <br>,不、不过这个名字听起来很好吃！
+49,,<span class='scene-font-katari'>依然として、ビィに疑いの</span><br><span class='scene-font-katari'>まなざしを向け続ける姬塔。</span><br><span class='scene-font-katari'>神将達はまだ戻る気配はない。</span>,<span class='scene-font-katari'>姬塔还是怀疑地看着碧。神将也没有回来的迹象。</span>
+50,,<span class='scene-font-katari'>ルリアとゾーイが固唾をのんで見守る中</span><br><span class='scene-font-katari'>姬塔によるビィ検査は</span><br><span class='scene-font-katari'>まだまだ続けられていた。</span>,<span class='scene-font-katari'>露莉亚和佐伊紧张地看着姬塔和碧。对碧的检查还在继续。</span>
+51,姬塔,去年の夏、十天衆の皆さんと一緒に<br>食べた海産物はなんだったか、<br>覚えてるぼん？,去年夏天，我们和十天众一起吃的海鲜叫什么，你还记得吗？
+51-sel1_txt,,<span class='scene-font-katari'>ンニ</span>,<span class='scene-font-katari'>海胆</span>
+51-sel2_txt,,<span class='scene-font-katari'>タラヴァガニ</span>,<span class='scene-font-katari'>帝王蟹</span>
+51-sel3_txt,,<span class='scene-font-katari'>スイカ</span>,<span class='scene-font-katari'>西瓜</span>
+52,ビィ/碧,ンニだぜっ！,海胆！
+53,ルリア/露莉亚,正解ですっ！<br>さすがビィさん！,回答正确！<br>不愧是碧！
+54,ビィ/碧,忘れねぇよ。<br>だって、すっげぇ旨かったしな！,咱可忘不了。<br>因为超好吃的！
+55,ビィ/碧,タラヴァガニじゃなかったっけか？,是帝王蟹吗？
+56,ルリア/露莉亚,えっと、なんだか<br>ちょっと違うような……でもカニさんは<br>もっと前だった気が……！,唔，好像不是……感觉吃螃蟹是再之前的事情了……！
+57,ビィ/碧,えーっと……<br>スイカだっけ……？,嗯……<br>是西瓜吗……？
+58,ルリア/露莉亚,ビィさん！？<br>問題は海産物ですよっ！,碧！？<br>问的是海鲜啊！
+59,姬塔,マナリア魔法学院で出会った<br>学院随一の魔法の腕を持つアンが<br>召喚魔法で呼び出すものはなんだぼん？,马纳利亚魔法学院最强魔法师安的召唤魔法召唤出的是什么？
+59-sel1_txt,,<span class='scene-font-katari'>精霊</span>,<span class='scene-font-katari'>精灵</span>
+59-sel2_txt,,<span class='scene-font-katari'>プロスクリスィ</span>,<span class='scene-font-katari'>召唤兽</span>
+59-sel3_txt,,<span class='scene-font-katari'>英霊</span>,<span class='scene-font-katari'>英灵</span>
+60,ビィ/碧,召喚で呼び出すっていえば精霊だろ？,召唤出来的是精灵吧？
+61,ルリア/露莉亚,違いますよ、ビィさん！<br>そんな簡単だと、<br>問題にならないと思うんですが……！,不对，碧！<br>我还觉得这么简单的不算问题呢……！
+62,ビィ/碧,プロスクリスィじゃなかったっけか？,是召唤兽吗？
+63,ルリア/露莉亚,召喚……という意味では惜しいです！<br>けど今のあの子の<span class='scene-font-spword'>『主』</span>は私です……！,虽然名字是召唤……但是打错了！<br>而且，召唤兽现在的<span class='scene-font-spword'>『主人』</span>是我……！
+64,ビィ/碧,英霊だろっ！<br>イオがアンはすっげぇやつだって<br>言ってたもんな。,英灵！<br>我还记得伊欧也说安很厉害。
+65,ルリア/露莉亚,正解ですっ！<br>イオちゃんすっごく<br>びっくりしてましたもんね！,回答正确！<br>伊欧那时好像很意外的样子！
+66,ゾーイ/佐伊,人の子がそのような力を持ち得るか……<br>空の民は凄まじいな。,人子能够拥有那样的力量么……<br>空之民好厉害。
+67,姬塔,シャローム島で出会った、<br>ドロシー＆クラウディアが仕える<br>魔王の名前はなんでしょうぼん？,我们在夏洛姆岛上遇见的，多萝西和克劳迪娅侍奉的魔王叫什么名字？
+67-sel1_txt,,<span class='scene-font-katari'>コンスタンツィア</span>,<span class='scene-font-katari'>康斯坦吉娅</span>
+67-sel2_txt,,<span class='scene-font-katari'>コンスタンシィア</span>,<span class='scene-font-katari'>康斯坦西娅</span>
+67-sel3_txt,,<span class='scene-font-katari'>コンスタンツィマ</span>,<span class='scene-font-katari'>康斯坦吉玛</span>
+68,ビィ/碧,コンスタンツィアだろ！<br>魔王の姉ちゃん、忘れてねぇぜ！,康斯坦吉娅！<br>魔王姐姐，咱还没忘记她呢！
+69,ルリア/露莉亚,うふふ。<br>コンスタンツィアさん、<br>お元気でしょうか？,呵呵，不知道康斯坦吉娅过的怎么样？
+70,ビィ/碧,コンスタン……シィア？,康斯坦……西娅？
+71,ルリア/露莉亚,違いますよ～！　ビィさん、<br>ちゃんと思い出してください～！,不对！碧，你好好想想！
+72,ビィ/碧,コンスタンツィ……マ？,康斯坦吉……玛？
+73,ビィ/碧,じゃねぇ！ <br>,不对！
+74,ルリア/露莉亚,はい、違います～……,是的，你答错了……
+75,姬塔,アキノに訪れた時に食べた、<br>フートン焼きの原料は<br>なんだったか覚えてるぼん？,我们去阿奇诺的时候吃过炸豆腐，它的原料是什么？
+75-sel1_txt,,<span class='scene-font-katari'>豆</span>,<span class='scene-font-katari'>豆类</span>
+75-sel2_txt,,<span class='scene-font-katari'>布団</span>,<span class='scene-font-katari'>棉被</span>
+75-sel3_txt,,<span class='scene-font-katari'>卵</span>,<span class='scene-font-katari'>鸡蛋</span>
+76,ビィ/碧,豆だろっ！,豆类！
+77,ルリア/露莉亚,美味しかったですよねー！<br>また食べに行きたいなぁ。,炸豆腐真的很美味！<br>真想再去吃啊。
+78,ビィ/碧,フートンだし、布団……か？,听起来像……棉被？
+79,ゾーイ/佐伊,む。<br>布団は食べられるものなのか？<br>食べたことがなかったな……,唔。棉被能吃吗？<br>我没有吃过……
+80,ルリア/露莉亚,ゾーイちゃん、<br>ビィさん間違えてます……<br>お布団は食べられません。,佐伊，碧搞错了……<br>棉被不能吃的。
+81,ビィ/碧,卵か？<br>なんかそんな感じだったような……？,鸡蛋？吃起来有点像……？
+82,ルリア/露莉亚,あれ？　そうでしたっけ？<br>豆の練り物って言ってた気が<br>しますけど……,咦？ 是吗？<br>我记得是豆子熬出来的东西……
+83,ビィ/碧,まだやんのかよぉ！？,还要继续吗！？
+84,ビィ/碧,くっそー！　負けねぇ！,可恶！ 咱不会输的！
+85,姬塔,白竜騎士団入団試験で<br>ヴェイン副団長が担当した受験生達の<br>班の名前は何でしょうぼん？,白龙骑士团入团测验中由维恩副团长负责的考生班级叫什么？
+86,ビィ/碧,ああ、そりゃ確か……,啊，好像是……
+86-sel1_txt,,<span class='scene-font-katari'>こねこ班</span>,<span class='scene-font-katari'>小猫班</span>
+86-sel2_txt,,<span class='scene-font-katari'>ひよこ班</span>,<span class='scene-font-katari'>小鸡班</span>
+86-sel3_txt,,<span class='scene-font-katari'>おもち班</span>,<span class='scene-font-katari'>年糕班</span>
+87,ビィ/碧,こねこ班……とかだったか？,小猫班……吗？
+88,ルリア/露莉亚,違いますよ～！,不对！
+89,ルリア/露莉亚,あ、でも、こねこも可愛いですね！ <br>,啊，不过小猫听起来也很可爱！
+90,ビィ/碧,ひよこ班だろ？<br>へへっ、オイラ達に<br>紹介してくれたじゃねぇか。,小鸡班吧？<br>他有向咱们介绍啊。
+91,ルリア/露莉亚,そうですよね！<br>ふふっ、ひよこさん可愛いです！,是的！<br>呵呵，小鸡听起来很可爱！
+92,ビィ/碧,おもち班……とかなんか、<br>そんなような名前だったような……？,年糕班……还是什么类似的名字……？
+93,ルリア/露莉亚,違いますよー……,不对……
+94,ルリア/露莉亚,で、でも、なんだかとっても<br>美味しそうな名前です！ <br>,不、不过这个名字听起来很好吃！
+info,,,scene_evt180131_cp4_q3_s10
+译者,,,
