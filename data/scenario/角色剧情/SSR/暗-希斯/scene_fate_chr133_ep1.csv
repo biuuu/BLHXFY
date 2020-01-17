@@ -1,7 +1,7 @@
 id,name,text,trans
 0-chapter_name,,カルム一族の真実,卡尔姆一族的真相
 0-synopsis,,六崩拳を覚醒に導いた姬塔一行がカルムの郷を訪れると、シスが現れる。シスは姬塔に対し、「お前はあの男によく似ている」と語る。困惑する一行に対し、さらにシスは「力を見極めさせてもらおう」と叫び、 一行に襲い掛かる。,将六崩拳引导至觉醒的姬塔一行人拜访卡尔姆之乡的时候，希斯出现了。希斯对姬塔说，「你和那个男人很像」。对着困惑的一行人，希斯甚至叫喊着「让我看看你的实力吧」， 袭击了一行人。
-0,,<span class='scene-font-spword'>「六崩拳」</span><span class='scene-font-katari'>を覚醒に導いた一行は</span><br><span class='scene-font-katari'>シェロカルテの案内により</span><br><span class='scene-font-place'>カルムの郷</span><span class='scene-font-katari'>へ訪れていた──</span>,将<span class='scene-font-spword'>「六崩拳」</span><span class='scene-font-katari'>引导至觉醒的一行人</span><br><span class='scene-font-katari'>在榭洛科特的带领下</span><br><span class='scene-font-place'>拜访了</span><span class='scene-font-katari'>卡尔姆之乡──</span>
+0,,<span class='scene-font-spword'>「六崩拳」</span><span class='scene-font-katari'>を覚醒に導いた一行は</span><br><span class='scene-font-katari'>シェロカルテの案内により</span><br><span class='scene-font-place'>カルムの郷</span><span class='scene-font-katari'>へ訪れていた──</span>,将<span class='scene-font-spword'>「六崩拳」</span><span class='scene-font-katari'>引导至觉醒的一行人</span><br><span class='scene-font-katari'>在榭洛科特的带领下，<br>拜访了</span><span class='scene-font-place'>卡尔姆之乡</span><span class='scene-font-katari'>──</span>
 1,シェロカルテ/榭洛科特,みなさ～ん！<br><span class='scene-font-place'>カルムの郷</span>へようこそ～！,大～家！<br>欢迎来到<span class='scene-font-place'>卡尔姆之乡</span>～！
 2,シェロカルテ/榭洛科特,ここが、全空で随一の格闘術を誇る<br>暗殺一家、カルム一族が<br>根城にしていた跡地です～,这里就是，以全空第一的格斗术为傲的<br>杀手世家，卡尔姆一族的<br>根据地的旧址～
 3,シェロカルテ/榭洛科特,みなさんなら、必ずここに<br>来ると思ってました～,我想如果是大家的话，<br>肯定是会来这里的～
