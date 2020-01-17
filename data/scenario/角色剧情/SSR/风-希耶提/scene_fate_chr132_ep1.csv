@@ -3,16 +3,16 @@ id,name,text,trans
 0-synopsis,,七星剣の覚醒に成功した姬塔一行がお祝いをしていると、殺気を放つシエテが現れる。シエテは姬塔が、七星剣を手にする器に相応しいかどうか確かめるべく、戦いを挑んでくる。,为了七星剑的觉醒成功姬塔一行人庆祝着之时，一身杀气的希耶提出现了。希耶提，为了确认姬塔是否拥有掌握七星剑的器量，挑起了战斗。
 0,,<span class='scene-font-katari'>遂に</span><span class='scene-font-spword'>「七星剣」</span><span class='scene-font-katari'>を「覚醒」させた</span><br><span class='scene-font-katari'>姬塔。</span>,<span class='scene-font-katari'>终于把</span><span class='scene-font-spword'>「七星剑」</span><span class='scene-font-katari'>「觉醒」了的</span><br><span class='scene-font-katari'>姬塔。</span>
 1,,<span class='scene-font-katari'>喜びに沸くグランサイファーに</span><br><span class='scene-font-katari'>突如、シエテが姿を現した。</span>,<span class='scene-font-katari'>在洋溢着喜悦的格兰赛法上</span><br><span class='scene-font-katari'>突然，希耶提出现了。</span>
-2,シエテ/希耶提,姬塔……<br>とうとう<span class='scene-font-spword'>「七星剣」</span>を<br>覚醒させたようだな。,姬塔……<br>终于<span class='scene-font-spword'>将「七星剑」</span><br>觉醒了的样子呢。
+2,シエテ/希耶提,姬塔……<br>とうとう<span class='scene-font-spword'>「七星剣」</span>を<br>覚醒させたようだな。,姬塔……<br>终于将<span class='scene-font-spword'>「七星剑」</span><br>觉醒了的样子呢。
 3,ビィ/碧,おいおい……シエテ。<br>なんで覚醒したってわかったんだ？,喂喂……希耶提。<br>你为什么知道七星剑觉醒了啊？
 4,シエテ/希耶提,その<span class='scene-font-spword'>「七星剣」</span>に呼ばれた……<br>とでも言うのかな？,可以说我是被那个<span class='scene-font-spword'>「七星剑」</span>所呼唤而来的……
 5,シエテ/希耶提,ある程度の剣の使い手であれば……<br>この全空に居る皆が、恐らく……<br>何かを感じ取ったはずだ。,只要是有一定实力的剑士……<br>在这全空之中的大家，恐怕……<br>都能感觉到点什么。
 6,ビィ/碧,なんだよ……怖い顔して。<br>今日はいつもと妙に<br>雰囲気が違うじゃねぇか？,总觉得……摆着一副很可怕的表情。<br>今天和平时比微妙的<br>周身的氛围有点不一样呢？
 7,ルリア/露莉亚,あっ！　もしかして……<br>シェロさんのお店じゃないから<br>緊張してるとか……ですか？,啊！　难道说……<br>因为不是在榭洛酱的店<br>在紧张着……之类的吗？
 8,シエテ/希耶提,ははは……<br>残念ながら違うな。,哈哈哈……<br>很遗憾并不是那样。
-9,ビィ/碧,じゃあ……記念に剣拓でも<br>取らせてもらいに来たとか？,那……是为了复制剑以作纪念<br>所以才来取剑的吗？
+9,ビィ/碧,じゃあ……記念に剣拓でも<br>取らせてもらいに来たとか？,那……是为了以作纪念<br>所以才来取剑做剑拓的吗？
 10,ルリア/露莉亚,あっ……なるほど！<br>どーぞどーぞ！,啊……原来如此！<br>请吧请吧！
-11,ルリア/露莉亚,姬塔なら……<br>喜んで取らせてくれると<br>思いますよ！　剣拓！,姬塔的话……<br>我觉得会<br>很乐意借给你的呦！　剑的复制！
+11,ルリア/露莉亚,姬塔なら……<br>喜んで取らせてくれると<br>思いますよ！　剣拓！,姬塔的话……<br>我觉得会很乐意借给你的呦！　剑拓！
 12,シエテ/希耶提,それも違う……,也不是那样呢……
 13,,<span class='scene-font-katari'>そう言うと、シエテは</span><br><span class='scene-font-katari'>凄まじい殺気を放つ。</span>,<span class='scene-font-katari'>这么说着，希耶提</span><br><span class='scene-font-katari'>放出了超级强烈的杀气。</span>
 14,,<span class='scene-font-katari'>一行は有無を言わさぬその殺気から</span><br><span class='scene-font-katari'>いつもと違う異変を感じ取るのだった。</span>,<span class='scene-font-katari'>从对一行人不容分说的杀气中</span><br><span class='scene-font-katari'>感觉到了和平时不一样的变化。</span>
