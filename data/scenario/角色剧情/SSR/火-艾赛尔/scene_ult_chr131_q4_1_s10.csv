@@ -1,0 +1,24 @@
+id,name,text,trans
+0-chapter_name,,君に眠りを、私に銃を,君に眠りを、私に銃を
+0-synopsis,,弟妹達を守る力を得るため、十狼雷を手にし、正気を失ったエッセル。そんなエッセルは、今後の星屑の街の方針を決めるために訪れた双子の弟・カトルに対し、銃を突きつける。豹変したエッセルは「私は最強の名を得なくては」とカトルを勝負に誘う。そんな姉の様子に困惑しながらも、カトルはやむを得ず応戦するのだった。,为了得到守护弟妹们的力量，失去理智的艾瑟尔拿着十狼雷。这样的艾瑟尔，对于前来商量星屑街以后的方针的弟弟卡托尔，突然举枪相对。性情大变的艾瑟尔说着“我必须得到最强的名号”邀请卡托尔一决胜负。虽然对姐姐的样子感到迷惑，但卡托尔也不得不应战。
+0,,<span class='scene-font-katari'>弟妹達を守る力を得る為、</span><br><span class='scene-font-katari'>誘われるままに</span><br><span class='scene-font-spword'>十狼雷</span><span class='scene-font-katari'>を手にしたエッセル。</span>,<span class='scene-font-katari'>为了获得守护弟妹们的力量、</span><br><span class='scene-font-katari'>被诱惑的艾瑟尔</span><br><span class='scene-font-katari'>拿起了</span><span class='scene-font-spword'>十狼雷</span><span class='scene-font-katari'>。</span>
+1,,<span class='scene-font-katari'>そうとは知らない双子の弟カトルが</span><br><span class='scene-font-katari'>今後の街の方針を話し合うため</span><br><span class='scene-font-katari'>姉を訪ねて早朝にやって来た。</span>,<span class='scene-font-katari'>并不知情的双胞胎弟弟卡托尔</span><br><span class='scene-font-katari'>为了商量今后星屑街的对策</span><br><span class='scene-font-katari'>清晨访问了姐姐。</span>
+5,カトル/卡托尔,姉さん？　入るよ。,姐姐？　我进来了。
+6,エッセル/艾瑟尔,…………,…………
+7,カトル/卡托尔,なんだ、起きてるんじゃないか。<br>返事くらい……,什么啊，你醒着啊。<br>至少回个……
+8,エッセル/艾瑟尔,……ねぇ、カトル。,……呐，卡托尔。
+9,エッセル/艾瑟尔,最強の名を得れば……<br>……本当に、星屑の街に<br>手を出す奴はいなくなるのかな。,得到最强的名号的话……<br>……真的，就不会再有<br>向星屑街出手的家伙了吗。
+10,カトル/卡托尔,…………？<br>何を今更……僕と姉さんは<br>その為に十天衆になったんじゃないか。,…………？<br>说什么啊事到如今……我和姐姐<br>不正是为此加入了十天众吗。
+11,エッセル/艾瑟尔,そう……だね。<br>うん、そうだ……,是……啊。<br>嗯、没错……
+13,,<span class='scene-font-katari'>唐突にエッセルから</span><br><span class='scene-font-katari'>銃を突きつけられ、</span><br><span class='scene-font-katari'>カトルは目を見開く。</span>,<span class='scene-font-katari'>突然被艾瑟尔</span><br><span class='scene-font-katari'>举枪相对、</span><br><span class='scene-font-katari'>卡托尔大吃一惊。</span>
+14,カトル/卡托尔,姉さん！？　何を……,姐姐！？　你要做什么……
+15,エッセル/艾瑟尔,……カトル。<br>外に出て。,……卡托尔。<br>我们去外面。
+16,エッセル/艾瑟尔,貴方を倒して、<br>私は最強の名を<br>得なくちゃいけない。,我必须、<br>打倒你<br>取得最强的名号。
+17,カトル/卡托尔,……姉さん。<br>正気かい？,……姐姐。<br>你认真的？
+18,エッセル/艾瑟尔,弟妹達を守るために、<br>仕方ないのなら……<br>私は、貴方を手にかける。,为了守护弟妹、<br>别无他法的话……<br>你就由我来，亲自动手。
+19,カトル/卡托尔,ハッ……ハハッ、そう。<br>急にどうしちゃったのか<br>知らないけどさ……,哈……哈哈。<br>虽然不知道你<br>突然发生了什么……
+20,カトル/卡托尔,姉さんにしては面白い冗談だよ……<br>やれるもんならやってみろよ、<br>臆病者のエッセルがさぁ！！,姐姐可真是开了个有趣的玩笑……<br>做得到的话就来试试看啊、<br>胆小鬼艾瑟尔！！
+21,カトル/卡托尔,<span class='scene-font-kokoro'>（くっ……誰かに幻術でも</span><br><span class='scene-font-kokoro'>かけられたのか？）</span>,<span class='scene-font-kokoro'>（咕……是被谁</span><br><span class='scene-font-kokoro'>施加了幻术之类吗？）</span>
+22,カトル/卡托尔,<span class='scene-font-kokoro'>（だが今は僕がやるしかない……</span><br><span class='scene-font-kokoro'>くるっ……！！）</span>,<span class='scene-font-kokoro'>（但是现在只有我来做了……</span><br><span class='scene-font-kokoro'>来了……！！）</span>
+info,,,scene_ult_chr131_q4_1_s10
+译者,,,
