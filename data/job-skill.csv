@@ -257,3 +257,5 @@ id,ja,en,name,detail
 200161,律動共振,Resonate Rhythm,节奏共振,我方单体的奥义值UP(40%)
 200171,ヴァリアシオン,Pas Seul,单人舞,自己的奥义值上升量UP/仇恨值UP
 200181,アクチュエーション,Actuation,驱动,<div class=prt-text-small>机械同伴启动时、自己的HP变换为能量<br><span class=text-blue>◆HP变为现在的一半</span></div>
+200491,ツインサーキュラー,Twin Coil,双剑闪,对敌方全体造成2次自属性伤害
+200501,ディストリーム,Decimate,连斩风暴,<div class=prt-text-small>对敌人造成5次弱点属性伤害<br><span class=text-blue>◆装备双持武器时：攻击回数2倍</span></div>
