@@ -812,3 +812,4 @@ raid/,召喚石情報,召唤石信息,
 /deal/content/index,→<%= log[i].result_number %>を出した,→掷出了<%= log[i].result_number %>,
 /deal/content/index,がパスした,选择了放弃,
 /deal/content/index,パスするとディール対象のアイテムは<br>獲得できません。ディール済みでも<br>キャンセルとなり獲得できません,选择放弃后将无法获得道具。<br>已经ROLL出的点数也会取消,
+/quest/content/_select/210053,王族にのみ伝わる地下道。最奥には繁栄を司る星の獣が眠る。,仅王族知晓的地道。司掌繁荣的星之兽沉睡在最深处。
