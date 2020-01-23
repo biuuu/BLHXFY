@@ -170,15 +170,15 @@ id,ja,en,name,detail
 200481,アナザーブレード,Blade Swap,另一把武器,<div class=prt-text-small>效果中，奥义变化为双持武器的奥义/奥义伤害UP(1次)<br><span class=text-blue>◆仅装备双持武器时可以使用</span></div>
 200491,ツインサーキュラー,Twin Coil,双剑闪,对敌方全体造成2次自属性伤害
 200501,ディストリーム,Decimate,连斩风暴,<div class=prt-text-small>对敌人造成5次弱点属性伤害<br><span class=text-blue>◆装备双持武器时：攻击回数2倍</span></div>
-,二刀流,Two-Sword Style,二刀流,装备双持武器时能力UP/同一回合中发动的第二次奥义变化为双持武器的奥义
+30211,二刀流,Two-Sword Style,二刀流,装备双持武器时能力UP/同一回合中发动的第二次奥义变化为双持武器的奥义
 200531,アナザーブレードII,Blade Swap II,另一把武器II,<div class=prt-text-small>效果中，奥义变化为双持武器的奥义/自己的奥义性能UP(1次)<br><span class=text-blue>◆仅装备双持武器时可以使用</span></div>
 200561,アーセガル,Aurum Flow,金色洪流,<div class=prt-text-small>对敌人造成自属性伤害/自己的奥义槽UP（20%）<br><span class=text-blue>◆装备双持武器时：发动2次</span></div>
 200511,クロスガード,Cross Guard,交叉防护,<div class=prt-text-small>我方全体获得全属性伤害减免（40%）<br><span class=text-blue>◆装备双持武器时：追加赋予自己掩护效果</span></div>
 200521,チェイスブレード,Chase Blade,追击之刃,<div class=prt-text-small>效果中必定三连击/赋予自己伤害上升效果<br><span class=text-blue>◆仅装备双持武器时可以使用</span></div>
 200541,デュアルアーツ,Dual Arts,战斗艺术,<div class=prt-text-small>效果中自己发动2次奥义<br><span class=text-blue>◆仅装备双持武器时可以使用</span></div>
 200551,ディプティク,Diptych,折叠攻击,<div class=prt-text-small>效果中回合进行时进行2次攻击行动/赋予自己自属性追击效果<span class=text-blue>◆消费20%奥义槽/仅装备双持武器时可以使用</span></div>
-,デュアルブレード,Dual Blades' Authority,战斗武器,装备双持武器时能力UP/同一回合中发动的第二次奥义变化为双持武器的奥义
-,メイルブレイク,Mailbreaker,披甲破坏者,发动连续攻击时，有概率赋予敌人防御DOWN（累积）<br><span class=text-blue>◆装备双持武器时</span>
+30216,デュアルブレード,Dual Blades' Authority,战斗武器,装备双持武器时能力UP/同一回合中发动的第二次奥义变化为双持武器的奥义
+30218,メイルブレイク,Mailbreaker,披甲破坏者,发动连续攻击时，有概率赋予敌人防御DOWN（累积）<br><span class=text-blue>◆装备双持武器时</span>
 3110,錬成:キュアポーション,Alchemize Green Potion,炼成：治愈膏药,生成治愈膏药
 3120,メディク,Just the Cure,治愈,回复我方全体HP
 3130,士気向上,A Little Pick-Me-Up,士气向上,所以参战者的奥义槽UP
@@ -237,8 +237,8 @@ id,ja,en,name,detail
 200131,ブリッツバースト,Blitzburst,闪电爆发,<div class=prt-text-small>消费所有子弹/根据消费的子弹数量增加奥义槽/下一回合攻击大幅UP（1次）</div>
 200591,フォーティチュード,Fortitude,坚忍刚毅,赋予自己通常攻击造成的伤害UP效果/逆境效果/暴击率UP
 200601,ゲリーリャ,Guerrilla Tactics,游击,<div class=prt-text-small>赋予自身回避率UP/奥义槽上升量UP/游击效果<span class=text-blue>◆游击效果发动中，成功回避时无视目标发动4次弱点属性伤害</span></div>
-,ウォーサバイバー,Seasoned Survivalist,战争生存者,根据主武器上装填的子弹种类，通常攻击获得追加效果/通常攻击的伤害上限UP
-,一人軍隊,One-Person Army,一人军队,根据经过的回合数，攻击UP/回避率UP
+30221,ウォーサバイバー,Seasoned Survivalist,战争生存者,根据主武器上装填的子弹种类，通常攻击获得追加效果/通常攻击的伤害上限UP
+30222,一人軍隊,One-Person Army,一人军队,根据经过的回合数，攻击UP/回避率UP
 7231,天眼陣,Omnipotent Eye,天眼阵,<div class=prt-text-small>我方全体的状态大幅度UP/再次使用解除<br><span class=text-blue>◆◆每回合消费3MP/自己的通常攻击单体化<br>◆再次使用或者MP为0后解除状态，自己弱体化</span></div>
 7300,宿命陣,Fate Foreseen,宿命阵,<div class=prt-text-small>自己的奥义槽转换为MP<span class=text-blue><br>◆奥义槽变为0</span></div>
 7233,他心陣,Splitting Spirit,他心阵,<div class=prt-text-small>将自己的HP转换为奥义槽<span class=text-blue><br>◆HP变为当前的一半</span></div>
@@ -261,8 +261,8 @@ id,ja,en,name,detail
 200621,ディヴォーション,Devotion,奉献精神,除自己以外的我方单人敌对心UP<br><span class=text-blue>◆根据执行LV提高对象的防御</span>
 200641,悪夢の再演,Recursive Nightmare,恶梦再演,恢复暗器的使用限制次数<br><span class=text-blue>◆消耗10层执行LV</span>
 200651,バーブド・ワイヤー,Barbed Wire,铁丝网,赋予敌方单人牢问效果 <span class=text-blue>◆根据战斗中消费的暗器的数量提高效果</span>
-,ナイトメアギア,Nightmare Gear,噩梦装备,可装备最多8个暗器 <br><span class=text-blue>◆技能效果根据暗器种类变化</span>
-,サディスティック・エイム,Sadistic Aims,虐待狂的目标,根据执行LV提升攻击性能
+37737,ナイトメアギア,Nightmare Gear,噩梦装备,可装备最多8个暗器 <br><span class=text-blue>◆技能效果根据暗器种类变化</span>
+37738,サディスティック・エイム,Sadistic Aims,虐待狂的目标,根据执行LV提升攻击性能
 3349,極点,Drum Roll,极点,我方全体的奥义伤害UP/奥义伤害上限UP/奥义连击的上限UP
 3348,熱烈峻厳,Never Miss a Beat,热烈峻严,<div class=prt-text-small>将奥义槽分配给自己以外的我方全员/奥义槽上升量UP　<span class=text-blue>◆消费30%奥义槽</span></div>
 3341,闘志の残響,Resounding Rhythm,斗志的残响,对全体敌人造成自属性的防御力DOWN　<span class=text-blue>◆消费20%奥义槽</span>
@@ -273,8 +273,8 @@ id,ja,en,name,detail
 200161,律動共振,Resonate Rhythm,节奏共振,我方单体的奥义值UP(40%)
 200681,モッシュピット,Mosh Pit,冲撞领域,赋予场地冲撞领域效果
 200691,ジェット・トゥ・ジェット,Jet to Jet,互相喷射,<div class=prt-text-small>效果中自己必定二连击/回合结束时吸收我方全体的奥义槽转换为自己的奥义槽 <span class=text-blue>◆再次使用解除效果</span></div>
-,ニューウェイヴ,New Wave,新的浪潮,奥义槽最大值200/得意武器为[乐器]的角色攻防UP
-,魂の解放,Feedback,魂之解放,<div class=prt-text-small>发动奥义的我方角色获得1层魂之解放（最大3） <span class=text-blue>◆根据各自的魂之解放数量，提高连续攻击率/HP25%以上受到致死伤害时，消费3个魂之解放忍下</span></div>
+37907,ニューウェイヴ,New Wave,新的浪潮,奥义槽最大值200/得意武器为[乐器]的角色攻防UP
+37908,魂の解放,Feedback,魂之解放,<div class=prt-text-small>发动奥义的我方角色获得1层魂之解放（最大3） <span class=text-blue>◆根据各自的魂之解放数量，提高连续攻击率/HP25%以上受到致死伤害时，消费3个魂之解放忍下</span></div>
 9551,アトラクト・サルサ,Spellbound Salsa,迷人的萨尔萨舞,回避所有攻击/自己的连续攻击概率UP <span class=text-blue>◆最大HP减少10%</span>
 9552,プリンシパル・クラシック,Classical Lead,古典领舞,<div class=prt-text-small>效果中在自己之后行动的我方全体角色的攻击行动变为与自己相同<br><span class=text-blue>◆战斗开始3回合后可以使用</span></div>
 9555,リンガリング・セント,Two to Tango,二度探戈,效果中回合进行时进行两次攻击行动
