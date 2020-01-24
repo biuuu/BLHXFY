@@ -1,0 +1,10 @@
+id,name,text,trans
+0,ネツァワルピリ,ほぉ、姬塔殿。<br>いきなり我のもとへ訪れるとは……,哦，姬塔阁下。<br>你突然来找我是为了……
+1,ネツァワルピリ,ふむふむ、我の答えは決まっておるぞ。<br>かような祭。イタズラを受けるのも<br>また一興かと思ってな！,嗯嗯，我的答案已经确定了。<br>这样的祭典，接受恶作剧也是一种乐趣！
+2,ネツァワルピリ,<span class='scene-font-4'>ぬ！？</span>,<span class='scene-font-4'>唔！？</span>
+3,ネツァワルピリ,<span class='scene-font-kokoro'>（これはなんたる殺気……</span><br><span class='scene-font-kokoro'>持ちうる全ての力で</span><br><span class='scene-font-kokoro'>イタズラをしようというのか！？）</span>,<span class='scene-font-kokoro'>（这是何等的杀气……准备用所有的力量来恶作剧吗！？）</span>
+4,ネツァワルピリ,<span class='scene-font-4'>待て！</span><br>姬塔殿が本気を出せば、<br>この周囲に被害が及びかねん。,<span class='scene-font-4'>等一下！</span><br>姬塔阁下认真起来的话，可能会殃及周围。
+5,ネツァワルピリ,はっはっは！　致し方なし。<br>この場はこの菓子で収めてはくれぬか。,哈哈哈！没办法。<br>这里就用这个糖果来收场吧。
+6,ネツァワルピリ,さすが姬塔殿！<br>何事にも全力とは恐れ入った。,不愧是姬塔阁下！<br>不管做什么都全力以赴，我很佩服。
+info,,,scene_s3_halloween_3003_v1_0_2004_3_3040003000
+译者,,,
