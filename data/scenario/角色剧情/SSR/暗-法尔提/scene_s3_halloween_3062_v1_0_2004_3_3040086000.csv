@@ -1,0 +1,9 @@
+id,name,text,trans
+0,フォルテ,トリック・オア・ トリート！<br>ふ、最初にこれをいう決まりだったな。,不给糖就捣蛋！<br>呼，一开始说这个好像是规矩。
+1,フォルテ,……そ、そうか。<br>菓子を持っていたか。<br>仕方がない、受け取ろう……,……是、是吗。你有糖果啊。<br>没办法，我就收下了……
+2,フォルテ,<span class='scene-font-kokoro'>（悪戯を仕掛けたかったが、</span><br><span class='scene-font-kokoro'>菓子を貰ったら悪戯する権利は</span><br><span class='scene-font-kokoro'>無くなってしまうのだったな……）</span>,<span class='scene-font-kokoro'>（我虽然想恶作剧，不过好像说收下糖果的话就失去了恶作剧的权利……）</span>
+3,フォルテ,<span class='scene-font-kokoro'>（ルールはルールだ。</span><br><span class='scene-font-kokoro'>今年は諦めるしかないか……）</span>,<span class='scene-font-kokoro'>（规矩就是规矩。今年只能放弃了……）</span>
+4,フォルテ,<span class='scene-font-kokoro'>（来年こそ、菓子がなくなった隙に</span><br><span class='scene-font-kokoro'>「トリック・オア・ トリート」を</span><br><span class='scene-font-kokoro'>ぶつけてやる……！）</span>,<span class='scene-font-kokoro'>（明年我一定要趁姬塔发完糖果的间隙说“不给糖就捣蛋”……！）</span>
+5,フォルテ,ん？　なんだ、姬塔。<br>……な、何も企んでなどいないぞ！,嗯？怎么了，姬塔。<br>……我，我没有在计划什么哦！
+info,,,scene_s3_halloween_3062_v1_0_2004_3_3040086000
+译者,,,
