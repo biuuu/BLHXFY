@@ -1,0 +1,12 @@
+id,name,text,trans
+1,,<span class='scene-font-katari'>スツルムが見当たらない。</span>,<span class='scene-font-katari'>找不到斯特姆。</span>
+2,,<span class='scene-font-katari'>彼女を探して</span><br><span class='scene-font-katari'>ハロウィンの街を歩く</span><br><span class='scene-font-katari'>姬塔だったが……</span>,<span class='scene-font-katari'>姬塔为了找她走在万圣节的街道上……</span>
+9,,<span class='scene-font-katari'>背後から両膝の裏を突かれ、</span><br><span class='scene-font-katari'>姬塔は地面に膝をつく。</span><br><span class='scene-font-katari'>同時に腕をねじり上げられた。</span>,<span class='scene-font-katari'>突然被人从背后撞了膝盖窝，跪倒在地。</span><br><span class='scene-font-katari'>同时手腕也被扭住举高。</span>
+10,？？？,動くな。口を開けろ。,不要动，张嘴。
+11,,<span class='scene-font-katari'>姬塔は首と利き腕を</span><br><span class='scene-font-katari'>背後から同時に極められ、</span><br><span class='scene-font-katari'>口に何かを押し込まれる。</span>,<span class='scene-font-katari'>姬塔被人从背后扣住了脖子和好使的手，随后那人往姬塔嘴里塞了什么东西。</span>
+12,？？？,安心しろ、ただのクッキーだ。<br>食べたな？　よし……,放心吧，只是饼干而已。<br>吃下去了吧？很好……
+13,スツルム/斯特姆,ふん……<br>これで、お菓子も悪戯も達成だ。<br>文句ないだろ。,呼……<br>这样一来，糖果和恶作剧都给了。<br>你没意见了吧。
+14,スツルム/斯特姆,なに……もう一回だと……？,什么……再来一次……？
+15,スツルム/斯特姆,さっきのを喜ぶな！<br>というか、味を占めるな！<br>ドランクか、お前は！,不要因为刚才的事高兴啊！<br>不如说，不要期待再来一次啊！<br>你是德朗克吗！
+info,,,scene_s5_halloween_3078_v1_0_2004_5_3040115000
+译者,,,
