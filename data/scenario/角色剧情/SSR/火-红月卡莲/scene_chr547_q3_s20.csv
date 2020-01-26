@@ -1,0 +1,79 @@
+id,name,text,trans
+0-chapter_name,,捜し求めしモノ,搜寻之物
+0-synopsis,,一行が手分けをして猫を探している途中、村人から猫が森の方へ行ったという情報を得たカレン。ひとりで森に分け入り猫を無事捕まえたカレンだったが、そこに突如、魔物が現れる。慌てて紅蓮弐式のある場所へ駆け戻ったカレンのもとに、ルルーシュとスザクも助けに現れ、カレン達は魔物の群れを相手取るのだった。,在一行人分头寻找猫的途中，卡莲从村民那里得知猫向森林的方向去了。卡莲一个人成功抓住了潜入森林的猫，但就在那时，魔物出现了。在急忙赶回红莲所在之处的卡莲面前，鲁鲁修与朱雀出现前来相助，卡莲等人与魔物群交手。
+2,,<span class='scene-font-katari'>紅蓮の起動キーを咥えた猫を探す一行。</span><br><span class='scene-font-katari'>しかし、その姿を見失ったことで</span><br><span class='scene-font-katari'>猫の行方が掴めずにいた。</span>,<span class='scene-font-katari'>一行人寻找着叼走红莲启动钥匙的猫。</span><br><span class='scene-font-katari'>但因为跟丢了的缘故，</span><br><span class='scene-font-katari'>他们并没有找到猫的行踪。</span>
+3,,<span class='scene-font-katari'>そこで一行は各人に分かれ、</span><br><span class='scene-font-katari'>村人に聞き込みを重ねながら</span><br><span class='scene-font-katari'>猫の行方を探していた。</span>,<span class='scene-font-katari'>为此，一行人分头行动，</span><br><span class='scene-font-katari'>一边向村民询问，</span><br><span class='scene-font-katari'>一边寻找猫的行踪。</span>
+4,村人/村民,羽のようなものを咥えた猫？,叼着羽毛状东西的猫？
+5,村人/村民,そう言えば、さっき見た猫が<br>そんなものを咥えてたような……,说起来，刚才看到的猫<br>好像叼着那样的东西……
+6,カレン/卡莲,本当！？<br>その猫、どっちへ行ったかわかる？,真的！？<br>你知道那只猫跑哪里去了吗？
+7,村人/村民,え、多分、森の方だと思うけど……,诶，大概是森林的方向吧……
+8,カレン/卡莲,ありがとう！,谢谢！
+14,,<span class='scene-font-katari'>森へ向かう途中、木立ちの中に</span><br><span class='scene-font-katari'>隠しておいた紅蓮弐式に対し</span><br><span class='scene-font-katari'>カレンは申し訳なさそうに呟く。</span>,<span class='scene-font-katari'>在前往森林的途中，</span><br><span class='scene-font-katari'>对着隐藏在树木间的红莲二式，</span><br><span class='scene-font-katari'>卡莲看似抱歉自言自语。</span>
+15,カレン/卡莲,ごめんね、紅蓮。<br>でも起動キーは必ず取り返すから！<br>だから、もう少しだけここで待ってて！,抱歉，红莲。<br>但我一定会夺回启动钥匙的！<br>所以在稍等一会儿！
+21,,<span class='scene-font-katari'>森に着いたカレンは、</span><br><span class='scene-font-katari'>紅蓮弐式の起動キーを奪った猫を</span><br><span class='scene-font-katari'>ひとりで捜し始めるものの……</span>,<span class='scene-font-katari'>到达森林的卡莲</span><br><span class='scene-font-katari'>开始一个人搜寻起</span><br><span class='scene-font-katari'>叼走红莲二式启动钥匙的猫……</span>
+22,,<span class='scene-font-katari'>広大な森の中で</span><br><span class='scene-font-katari'>一匹の猫を探すのは難しく、</span><br><span class='scene-font-katari'>ただただ、時間だけが過ぎていった。</span>,<span class='scene-font-katari'>在广大的森林中</span><br><span class='scene-font-katari'>寻找一只猫很困难，</span><br><span class='scene-font-katari'>只有时间在渐渐流逝。</span>
+23,カレン/卡莲,くっ……やっぱり、<br>ルルーシュやスザクたちに<br>ついてきてもらうべきだったかも……,可恶……糟了，<br>果然还是应该让<br>鲁鲁修和朱雀一起来的……
+24,カレン/卡莲,ガウェインやランスロットなら、<br>広域熱源探知や<br>生体探知もできるだろうし……,是高文或者兰斯洛特的话<br>可以用广域的热源探测或者<br>生物探测来找吧……
+25,カレン/卡莲,でも、そうなると<br>あれを見られる可能性が……,但这样的话，<br>会被看见那个的可能性……
+26,,<span class='scene-font-katari'>カレンは悔やんだ表情をした後、</span><br><span class='scene-font-katari'>深いため息を吐く。</span>,<span class='scene-font-katari'>卡莲露出后悔的表情后，</span><br><span class='scene-font-katari'>深深地叹了一口气。</span>
+27,カレン/卡莲,はぁ……仕方ない。<br>背に腹はかえられないか……,哈……没办法。<br>只能弃车保帅吗……
+28,カレン/卡莲,もう少し捜して見つからなかったら、<br>ルルーシュ達に話そう……,再找一会还找不到的话，<br>就跟鲁鲁修他们说吧……
+30,カレン/卡莲,え？,诶？
+31,,<span class='scene-font-katari'>どこからともなく聞こえてきた</span><br><span class='scene-font-katari'>猫の攻撃的な鳴き声。</span>,<span class='scene-font-katari'>不知道从哪里传来了</span><br><span class='scene-font-katari'>猫攻击性的叫声。</span>
+32,,<span class='scene-font-katari'>その鳴き声を聞いたカレンは</span><br><span class='scene-font-katari'>一縷の望みを託して</span><br><span class='scene-font-katari'>声の聞こえる方向へと走って行く。</span>,<span class='scene-font-katari'>听到叫声的卡莲</span><br><span class='scene-font-katari'>抱着一丝希望</span><br><span class='scene-font-katari'>向叫声传来的方向跑去。</span>
+38,猫,シャーッ！,喵——！
+39,,<span class='scene-font-katari'>鳴き声のする場所に辿り着くカレン。</span><br><span class='scene-font-katari'>するとそこには森の奥へと向かって</span><br><span class='scene-font-katari'>威嚇の声をあげる猫の姿があった。</span>,<span class='scene-font-katari'>卡莲来到传来叫声之处。</span><br><span class='scene-font-katari'>然后便发现了朝着森林深处</span><br><span class='scene-font-katari'>发出威吓叫声的猫。</span>
+40,カレン/卡莲,……？,……？
+41,,<span class='scene-font-katari'>カレンはそれを不思議に思いながらも</span><br><span class='scene-font-katari'>猫の後ろにそっと回り込み、</span><br><span class='scene-font-katari'>その首根っこを掴む。</span>,<span class='scene-font-katari'>卡莲一边觉得不可思议，</span><br><span class='scene-font-katari'>一边绕到猫的身后，</span><br><span class='scene-font-katari'>抓住了猫的脖子。</span>
+42,カレン/卡莲,捕まえた！,抓住了！
+43,猫,ニャッ！？,喵！？
+44,猫,ニャーッ！！,喵——！！
+45,カレン/卡莲,こら、暴れるな！<br>それと私から盗っていったものを<br>返しなさい！,喂，别挣扎！<br>把从我这儿偷走的东西<br>还过来！
+46,カレン/卡莲,って、あ……,痛、啊……
+47,,<span class='scene-font-katari'>捕まえた猫の足元に目を向けると、</span><br><span class='scene-font-katari'>そこには猫が脱衣場で</span><br><span class='scene-font-katari'>持っていったものが落ちていた。</span>,<span class='scene-font-katari'>看向被抓住的猫的脚边，</span><br><span class='scene-font-katari'>那里散落着猫从更衣室里</span><br><span class='scene-font-katari'>带出的东西。</span>
+48,カレン/卡莲,……よかった。<br>全部ある……,……太好了。<br>全都在……
+49,猫,ニャーッ！！,喵——！！
+50,カレン/卡莲,ああもう、<br>大人しくしなさい！,啊啊真是的，<br>给我老实点！
+51,猫,ニャ、ニャア……,喵、喵……
+52,カレン/卡莲,ったく、コイツは……,真是的，这家伙……
+53,カレン/卡莲,にしても、アンタ。<br>なんでこんなところで<br>唸ってたのよ？,说起来，你啊。<br>为什么在这种地方<br>叫唤着？
+54,カレン/卡莲,見た感じ、何も……,看上去，什么也……
+56,魔物,グルウウゥゥ！,咕哦哦哦哦哦！
+57,カレン/卡莲,っ！？,嗯？
+60,,<span class='scene-font-katari'>次の瞬間、木立ちの影から</span><br><span class='scene-font-katari'>魔物が現れ、</span><br><span class='scene-font-katari'>カレンめがけて襲い掛かってくる。</span>,<span class='scene-font-katari'>下一秒，树木的阴影中</span><br><span class='scene-font-katari'>出现了魔物，</span><br><span class='scene-font-katari'>并瞄准卡莲袭来。</span>
+66,,<span class='scene-font-katari'>カレンはその攻撃を</span><br><span class='scene-font-katari'>ギリギリのところで躱すと同時に</span><br><span class='scene-font-katari'>その腹を思いきり蹴り飛ばす。</span>,<span class='scene-font-katari'>卡莲勉强躲开</span><br><span class='scene-font-katari'>攻击的同时，</span><br><span class='scene-font-katari'>狠狠地踢向了魔物的肚子。</span>
+67,魔物,ギャンッ！,呀啊啊！
+70,カレン/卡莲,なるほど……<br>この魔物がいたから、<br>アンタは唸ってたわけね……,原来如此……<br>因为有魔物<br>你才叫唤的……
+73,魔物,グウウゥゥ…………！,咕哦哦哦哦哦…………！
+75,カレン/卡莲,って、<br>まだこんなにいるわけっ！？,诶，<br>还有这么多！？
+76,,<span class='scene-font-katari'>カレンを餌と定めたのか、</span><br><span class='scene-font-katari'>魔物達は牙をむき出しにして</span><br><span class='scene-font-katari'>襲い掛かってくる。</span>,<span class='scene-font-katari'>不知是否将卡莲当做了猎物，</span><br><span class='scene-font-katari'>魔物们露出了利牙</span><br><span class='scene-font-katari'>向卡莲袭来。</span>
+77,カレン/卡莲,この数を相手にするとなると<br>紅蓮が必要ね……,这样的数量<br>需要红莲……
+78,猫,…………,…………
+79,カレン/卡莲,アンタもおいで！<br>その代わり、大人しくしてなさいよ！,你也过来！<br>作为交换，你给我乖乖的哟！
+80,,<span class='scene-font-katari'>カレンは服のチャックを下げると、</span><br><span class='scene-font-katari'>露わになった胸元に猫を押し入れる。</span>,<span class='scene-font-katari'>卡莲拉下衣服的拉链，</span><br><span class='scene-font-katari'>将猫塞进了露出的胸中。</span>
+81,,<span class='scene-font-katari'>そして、踵を返すと</span><br><span class='scene-font-katari'>紅蓮弐式の元へと全速力で</span><br><span class='scene-font-katari'>駆けていくのだった。</span>,<span class='scene-font-katari'>然后，一个转身</span><br><span class='scene-font-katari'>向红莲二式所在之处</span><br><span class='scene-font-katari'>全力奔去。</span>
+87,カレン/卡莲,はぁ……はぁ……<br>くっ、しつこい！,哈……哈……<br>可恶，真难缠！
+88,,<span class='scene-font-katari'>背後から襲い掛かってくる魔物達を</span><br><span class='scene-font-katari'>時には躱し、時には蹴り飛ばしながら</span><br><span class='scene-font-katari'>紅蓮弐式の元へと向かうカレン。</span>,<span class='scene-font-katari'>时而躲避从背后袭来的魔物，</span><br><span class='scene-font-katari'>时而将它们踢飞，</span><br><span class='scene-font-katari'>卡莲向红莲二式跑去。</span>
+90,魔物,グウウゥゥ…………！,咕哦哦哦哦哦…………！
+91,,<span class='scene-font-katari'>しかし、紅蓮弐式まで後一歩のところで</span><br><span class='scene-font-katari'>魔物達に追いつかれてしまう。</span>,<span class='scene-font-katari'>但就在离红莲二式还有一步之遥时，</span><br><span class='scene-font-katari'>魔物追上了她。</span>
+92,カレン/卡莲,くっ……後、少しだってのにっ！,可恶……只差一点了！
+93,？？？,<span class='scene-font-4 scene-font-gray'>カレン、そこから動くな！</span>,<span class='scene-font-4 scene-font-gray'>卡莲，站在那别动！</span>
+94,カレン/卡莲,え……,诶……
+99,魔物,ギャンッ！,呀啊啊！
+100,,<span class='scene-font-katari'>あわやという瞬間、空から</span><br><span class='scene-font-katari'>降り注いできたスラッシュハーケンが</span><br><span class='scene-font-katari'>カレンの周囲の魔物を吹き飛ばす。</span>,<span class='scene-font-katari'>眼看就要不行的瞬间，</span><br><span class='scene-font-katari'>从天而降的高文的飞燕爪牙</span><br><span class='scene-font-katari'>击飞了卡莲身边的魔物。</span>
+101,カレン/卡莲,これってガウェインの……,这是高文的……
+102,スザク/朱雀,カレン、無事かい！,卡莲，没事吧！
+103,カレン/卡莲,ルルーシュにスザクっ！？<br>アンタ達、なんでここにっ！？,鲁鲁修，还有朱雀！？<br>你们为什么在这里！？
+104,ルルーシュ/鲁鲁修,話は後だ！<br>それよりも紅蓮の起動キーは！？,话等会儿再说！<br>比起这个红线的启动钥匙呢！？
+105,カレン/卡莲,ちゃんと取り返したっ！,我已经夺回了！
+106,,<span class='scene-font-katari'>カレンはガウェインに向け、</span><br><span class='scene-font-katari'>捕まえた猫と紅蓮の起動キーを見せる。</span>,<span class='scene-font-katari'>卡莲对着高文，</span><br><span class='scene-font-katari'>一起亮出了抓住的猫和红莲的启动钥匙。</span>
+107,ルルーシュ/鲁鲁修,よしっ！<br>なら、早く紅蓮に乗れ！,很好！<br>那么，赶快乘上红莲！
+108,カレン/卡莲,ええ！,哦哦！
+112,,<span class='scene-font-katari'>カレンはルルーシュの言葉に頷くと</span><br><span class='scene-font-katari'>猫と一緒に紅蓮弐式のコックピットへと</span><br><span class='scene-font-katari'>入り、起動キーを差し込む。</span>,<span class='scene-font-katari'>卡莲对鲁鲁修的话点头示意，</span><br><span class='scene-font-katari'>与猫一起进入了红莲的驾驶舱，</span><br><span class='scene-font-katari'>将启动钥匙插入。</span>
+115,ルルーシュ/鲁鲁修,行けるか、カレン？,能动吗，卡莲？
+116,カレン/卡莲,もちろん！,当然！
+117,ルルーシュ/鲁鲁修,なら、ここでこの魔物の群れを<br>片付けるぞ！,那么，将这里的魔物群<br>收拾了！
+118,スザク/朱雀,了解！<br>村に被害が出る前に<br>ここで全て殲滅する！,明白了！<br>在村庄受灾前<br>将这里的魔物全部歼灭！
+119,カレン/卡莲,私と紅蓮の力、<br>その身で存分に味わいな！,就让你们好好亲身体验一下<br>我和红莲的力量！
+info,,,scene_chr547_q3_s20
+译者,,,

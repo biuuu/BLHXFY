@@ -1,0 +1,91 @@
+id,name,text,trans
+0-chapter_name,,夜空 の 誓い,夜空的誓言
+0-synopsis,,偽ゼロからナナリーを取り戻して数日、スザクはルルーシュと直接話す機会を伺っていたが、タイミングが合わずにいた。そんな中、依頼で姬塔達と共に鉱山の麓の村へ物資を届けにいくことになる。スザク達が物資を届けた直後、大きな地震が起き、鉱山が崩れてしまう。鉱員達を助けに坑道へ向かったスザク達は、鉱員に襲い掛かる魔物達を相手取るのだった。,从冒牌ZERO手中夺回娜娜莉后数日，朱雀一直想与鲁鲁修直接交谈，却苦于没有合适的时机。就在这样的情况下，他接受委托与姬塔等人一起将物资运送到矿山脚下的村落。就在朱雀等人将物资送到之时，发生了大地震，矿山崩塌了。为了救助矿工们而赶赴矿道的朱雀一行人，阻挡在了袭击矿工的魔物面前。
+2,,<span class='scene-font-katari'>ルルーシュに復讐するため暗躍する</span><br><span class='scene-font-katari'>偽ゼロの手から、</span><br><span class='scene-font-katari'>ナナリーを取り戻して数日。</span>,<span class='scene-font-katari'>从为向鲁鲁修复仇而</span><br><span class='scene-font-katari'>暗中谋划的伪ZERO手中</span><br><span class='scene-font-katari'>夺回娜娜莉后数日。</span>
+3,,<span class='scene-font-katari'>薬で何とか保っているものの、</span><br><span class='scene-font-katari'>偽ゼロによって投与されたウイルスは</span><br><span class='scene-font-katari'>少しずつナナリーの体を蝕んでいた。</span>,<span class='scene-font-katari'>娜娜莉的病情通过药物勉强维持着，</span><br><span class='scene-font-katari'>但冒牌ZERO所投的病毒</span><br><span class='scene-font-katari'>在一点点地侵蚀着她的身体。</span>
+10,,<span class='scene-font-katari'>そんなある日、ルルーシュを</span><br><span class='scene-font-katari'>探していたスザクは、</span><br><span class='scene-font-katari'>C.C.の姿を見つけ声をかける。</span>,<span class='scene-font-katari'>某一天，寻找鲁鲁修</span><br><span class='scene-font-katari'>的朱雀看到了</span><br><span class='scene-font-katari'>C.C.的身影便叫住了她。</span>
+11,スザク/朱雀,C.C.。<br>ルルーシュを<br>見かけなかったかい？,C.C.。<br>你有看见<br>鲁鲁修吗？
+12,C.C.,ん？<br>アイツなら、今朝早くに出掛けたぞ。<br>情報収集とか言っていたな。,嗯？<br>那家伙的话，今天一大早就出去了。<br>说是要收集情报什么的。
+13,スザク/朱雀,そっか……,这样吗……
+14,C.C.,何か用事か？<br>それなら、お前が探していたと<br>伝えておいてやるが。,有什么事吗？<br>有事的话，我帮你告诉他<br>你在找他。
+15,スザク/朱雀,あ、いや。<br>急ぎの用事じゃないから大丈夫だよ。<br>ありがとう、C.C.。,啊，不。<br>不是什么急事，不要紧。<br>谢谢你，C.C.。
+16,C.C.,そうか？<br>ならいいが。,是吗？<br>那就好。
+17,,<span class='scene-font-katari'>C.C.に礼を告げたスザクは、</span><br><span class='scene-font-katari'>僅かに肩を落として甲板へと向かう。</span>,<span class='scene-font-katari'>向C.C.道了谢的朱雀，</span><br><span class='scene-font-katari'>稍稍怂下肩向甲板走去。</span>
+23,スザク/朱雀,はぁ……<br>仕方ないとはいえ、<br>タイミングが合わないな……,哈……<br>虽然是没有办法的事，<br>但总找不到机会也……
+24,スザク/朱雀,<span class='scene-font-kokoro'>（ユフィは、</span><br><span class='scene-font-kokoro'>今ごろどうしているだろう。</span><br><span class='scene-font-kokoro'>きっと心配しているだろうな……）</span>,<span class='scene-font-kokoro'>（尤菲</span><br><span class='scene-font-kokoro'>现在在干什么呢？</span><br><span class='scene-font-kokoro'>她一定很担心吧……）</span>
+25,,<span class='scene-font-katari'>スザクの脳裏に浮かんでいるのは、</span><br><span class='scene-font-katari'>主であり、守り支えると誓ったばかりの</span><br><span class='scene-font-katari'>ユーフェミア皇女の姿だった。</span>,<span class='scene-font-katari'>浮现在朱雀脑海之中的是</span><br><span class='scene-font-katari'>他的主君，他刚立下要誓言要守护扶持的</span><br><span class='scene-font-katari'>尤菲米娅皇女。</span>
+26,スザク/朱雀,<span class='scene-font-kokoro'>（日本人の僕を騎士に任命したことで、</span><br><span class='scene-font-kokoro'>ブリタニアの中に彼女を良く思わない</span><br><span class='scene-font-kokoro'>人間も多い）</span>,<span class='scene-font-kokoro'>（任命身为日本人的我为骑士，</span><br><span class='scene-font-kokoro'>在布里塔尼亚也有不少</span><br><span class='scene-font-kokoro'>对她存有敌意的人）</span>
+27,スザク/朱雀,<span class='scene-font-kokoro'>（だからこそ、</span><br><span class='scene-font-kokoro'>一刻も早く元の世界に戻り、</span><br><span class='scene-font-kokoro'>ユフィの支えになりたい）</span>,<span class='scene-font-kokoro'>（正因此，</span><br><span class='scene-font-kokoro'>我必须尽快回到原来的世界，</span><br><span class='scene-font-kokoro'>我想扶持尤菲）</span>
+28,スザク/朱雀,だけど、今は<br>ルルーシュとナナリーの<br>力になりたいという気持ちも強い……,但是，现在<br>我想为鲁鲁修和娜娜莉<br>出力的念头更甚……
+29,,<span class='scene-font-katari'>軽い息と共に目を閉じたスザクは、</span><br><span class='scene-font-katari'>ルルーシュからゼロであることを</span><br><span class='scene-font-katari'>告げられたあの時のことを思い出す。</span>,<span class='scene-font-katari'>轻叹一口气闭上眼睛的朱雀，</span><br><span class='scene-font-katari'>想起的是鲁鲁修向他坦白</span><br><span class='scene-font-katari'>自己便是ZERO的那一幕。</span>
+30,スザク/朱雀,<span class='scene-font-kokoro'>（ルルーシュは、ナナリーのために</span><br><span class='scene-font-kokoro'>ゼロとなった）</span>,<span class='scene-font-kokoro'>（鲁鲁修是为了娜娜莉</span><br><span class='scene-font-kokoro'>成为了ZERO）</span>
+31,スザク/朱雀,<span class='scene-font-kokoro'>（そして、黒の騎士団を率いて</span><br><span class='scene-font-kokoro'>ブリタニアに反旗を翻し、</span><br><span class='scene-font-kokoro'>クロヴィス殿下を殺した……）</span>,<span class='scene-font-kokoro'>（然后，率领黑色骑士团</span><br><span class='scene-font-kokoro'>向布里塔尼亚举起反旗，</span><br><span class='scene-font-kokoro'>杀死了克洛维斯殿下……）</span>
+32,スザク/朱雀,<span class='scene-font-kokoro'>（クロヴィス殿下を殺したのは、</span><br><span class='scene-font-kokoro'>ブリタニア皇族の中に母親を殺した</span><br><span class='scene-font-kokoro'>犯人がいるからだと言っていた）</span>,<span class='scene-font-kokoro'>（鲁鲁修说他杀死克洛维斯殿下是因为</span><br><span class='scene-font-kokoro'>布里塔尼亚的皇族中有</span><br><span class='scene-font-kokoro'>杀死他母亲的凶手）</span>
+33,スザク/朱雀,<span class='scene-font-kokoro'>（だとしたら、</span><br><span class='scene-font-kokoro'>ルルーシュはユフィのことも</span><br><span class='scene-font-kokoro'>疑っているのだろうか……）</span>,<span class='scene-font-kokoro'>（既然如此，</span><br><span class='scene-font-kokoro'>鲁鲁修也有怀疑</span><br><span class='scene-font-kokoro'>尤菲吧……）</span>
+34,,<span class='scene-font-katari'>ゼロの正体がルルーシュであることを</span><br><span class='scene-font-katari'>知ったスザクは、艇に身を寄せてから</span><br><span class='scene-font-katari'>ずっと直接話す機会を伺っていた。</span>,<span class='scene-font-katari'>得知了ZERO真实身份的朱雀，</span><br><span class='scene-font-katari'>自从寄宿在骑空艇以来</span><br><span class='scene-font-katari'>一直想找机会痛鲁鲁修直接对话。</span>
+35,,<span class='scene-font-katari'>しかし、ナナリーの為に奔走する</span><br><span class='scene-font-katari'>ルルーシュとなかなか顔を合わせる</span><br><span class='scene-font-katari'>時間が取れず、擦れ違うばかり。</span>,<span class='scene-font-katari'>然而，他几乎没有与为娜娜莉奔走的</span><br><span class='scene-font-katari'>鲁鲁修照面的机会，</span><br><span class='scene-font-katari'>总是擦身而过。</span>
+36,,<span class='scene-font-katari'>自分の兄弟であるブリタニア皇族を</span><br><span class='scene-font-katari'>母の仇として疑うルルーシュにとって、</span><br><span class='scene-font-katari'>ユーフェミアは対象者のひとりだ。</span>,<span class='scene-font-katari'>对怀疑自己布里塔尼亚皇族的兄弟姐妹</span><br><span class='scene-font-katari'>是弑母凶手的鲁鲁修而言，</span><br><span class='scene-font-katari'>尤菲米娅也是他怀疑对象的其中之一。</span>
+37,,<span class='scene-font-katari'>だが、平和を愛し、優しい世界を望む</span><br><span class='scene-font-katari'>彼女がそんなことをするはずがないと</span><br><span class='scene-font-katari'>スザクは信じていた。</span>,<span class='scene-font-katari'>但是，朱雀坚信，</span><br><span class='scene-font-katari'>热爱和平、期望温柔世界的尤菲米娅</span><br><span class='scene-font-katari'>不可能做出那样的事。</span>
+38,スザク/朱雀,<span class='scene-font-kokoro'>（ユフィは違うと確信できる。</span><br><span class='scene-font-kokoro'>そんなことをする人じゃない）</span>,<span class='scene-font-kokoro'>（他坚信尤菲不是凶手。</span><br><span class='scene-font-kokoro'>她不是会做出那样的事的人）</span>
+39,スザク/朱雀,<span class='scene-font-kokoro'>（ユフィが望む世界と、</span><br><span class='scene-font-kokoro'>ルルーシュがナナリーのために</span><br><span class='scene-font-kokoro'>創ろうとしている世界）</span>,<span class='scene-font-kokoro'>（尤菲所期望的世界，</span><br><span class='scene-font-kokoro'>与鲁鲁修想要为娜娜莉</span><br><span class='scene-font-kokoro'>创造的世界）</span>
+40,スザク/朱雀,<span class='scene-font-kokoro'>（目指すものが一緒なら、</span><br><span class='scene-font-kokoro'>手を取りあうことができるはず）</span>,<span class='scene-font-kokoro'>（是一样的，</span><br><span class='scene-font-kokoro'>他们应该联手才对）</span>
+41,スザク/朱雀,<span class='scene-font-kokoro'>（ふたりが協力し合えたなら、</span><br><span class='scene-font-kokoro'>きっとより良い世界に出来るはずだ）</span>,<span class='scene-font-kokoro'>（只要他们齐心协力，</span><br><span class='scene-font-kokoro'>一定可以创造出一个更加美好的世界）</span>
+42,スザク/朱雀,<span class='scene-font-kokoro'>（そのために僕は、何をすればいい？）</span>,<span class='scene-font-kokoro'>（为此，我该做些什么呢？）</span>
+43,スザク/朱雀,いや……今はよそう。,不……不是现在。
+44,スザク/朱雀,今は、ナナリーを助けることだけを<br>考えるんだ。,现在该考虑的是<br>怎么救娜娜莉。
+45,,<span class='scene-font-katari'>自分の成すべきことを確かめるように、</span><br><span class='scene-font-katari'>大きく息を吐き出したスザクの耳に</span><br><span class='scene-font-katari'>賑やかな声が届く。</span>,<span class='scene-font-katari'>像是要确认自己该为之事一般，</span><br><span class='scene-font-katari'>朱雀深吸一口气，就在这时</span><br><span class='scene-font-katari'>他耳边传来了响亮的嗓音。</span>
+47,ビィ/碧,あれ？<br>スザクじゃねぇか。<br>こんなところで何してるんだ？,咦？<br>这不是朱雀吗？<br>你在这种地方干什么？
+48,スザク/朱雀,え？<br>いや、少し風に当たっていただけさ。,诶？<br>不，只是吹吹风而已。
+49,スザク/朱雀,君達は買い物かい？,你们是要去采购吗？
+50,ルリア/露莉亚,いえ、実はナナリーちゃんの<br>お医者さんから<br>お願いされたんです。,不，其实是给娜娜莉<br>看病的医生<br>有事拜托我们。
+51,ルリア/露莉亚,お医者さんが住んでいる村に、<br>物資を届けてほしいって。,医生拜托我们将物资<br>送到他所住的村庄。
+52,,<span class='scene-font-katari'>ナナリーの治療に当たっている医師が</span><br><span class='scene-font-katari'>常駐する村は、街から遠く離れた</span><br><span class='scene-font-katari'>鉱山の麓にあった。</span>,<span class='scene-font-katari'>为娜娜莉看病的医生</span><br><span class='scene-font-katari'>常驻的村庄离城镇很远，</span><br><span class='scene-font-katari'>在矿山的山脚下。</span>
+53,,<span class='scene-font-katari'>そのため、街へ定期的に往診に行く</span><br><span class='scene-font-katari'>医師が村に必要な物資を仕入れ、</span><br><span class='scene-font-katari'>騎空士を雇い運んでいたのだという。</span>,<span class='scene-font-katari'>因此，定期去城镇给人看病的</span><br><span class='scene-font-katari'>医生会雇佣骑空士</span><br><span class='scene-font-katari'>将村庄所需的物资运回去。</span>
+54,ルリア/露莉亚,今は、ナナリーちゃんにつきっきりで<br>診てもらっているから、私達が<br>代わりに行くことにしたんですけど……,现在，我们拜托医生密切观察娜娜莉的病情，<br>所以我们便代替他，<br>将物资运回村庄……
+55,ビィ/碧,それがまたすげぇ量でよ。<br>だから、手伝ってくれる奴を<br>探してたんだ。,那些物资的量也是大得很。<br>所以，我们在找<br>可以帮忙的人。
+56,スザク/朱雀,そうなんだ。<br>なら、僕に手伝わせてくれないか。,原来如此。<br>那么，能让我帮忙吗。
+57,スザク/朱雀,ランスロットなら、<br>荷物が多くても一度に運べる。<br>どうかな？,兰斯洛特的话<br>可以一口气搬运很多物资。<br>怎么样？
+58,ルリア/露莉亚,良いんですか？<br>ありがとうございます！,真的可以吗？<br>谢谢你！
+59,ビィ/碧,そうと決まれば、<br>早速行こうぜ！,既然这样决定了，<br>那就赶快出发吧！
+60,,<span class='scene-font-katari'>こうして、姬塔達は</span><br><span class='scene-font-katari'>物資を届けるべく鉱山の村へと</span><br><span class='scene-font-katari'>向かった。</span>,<span class='scene-font-katari'>就这样，姬塔等人</span><br><span class='scene-font-katari'>向要将物资送至的</span><br><span class='scene-font-katari'>村庄进发了。</span>
+65,村人１/村民１,ひい、ふう、みぃ……,一、二、三……
+66,村人１/村民１,うん、これで全部だね。<br>ありがとう、確かに受け取ったよ。,嗯，这些就是全部了。<br>谢谢你们，我们确实收到了。
+67,ルリア/露莉亚,わぁい！<br>これでお使い完了ですね！,耶！<br>这样一来任务就完成了！
+68,ビィ/碧,ありがとな、スザク！<br>おかげで助かったぜ！,谢谢你，朱雀！<br>多亏你，帮了我们大忙！
+69,スザク/朱雀,お安い御用さ。<br>役に立ててよかった。,小事一桩。<br>能帮上你们真是太好了。
+70,村人１/村民１,しっかし、便利なものねぇ。<br>その機械があれば、重たい鉱石も<br>いっぺんに村に運べそうだ。,不过，这真是方便啊。<br>有那机械的话，就算是沉重的矿石<br>也可以一口气运到村庄了。
+71,,<span class='scene-font-katari'>そう言って、村人は</span><br><span class='scene-font-katari'>姬塔達の後ろに立つ</span><br><span class='scene-font-katari'>ランスロットを見上げる。</span>,<span class='scene-font-katari'>这样说着，村民</span><br><span class='scene-font-katari'>仰视起姬塔等人</span><br><span class='scene-font-katari'>身后的兰斯洛特。</span>
+72,村人１/村民１,どうだい、兄さん。<br>ウチの鉱山で働いてくれないか？,怎么样，小哥。<br>愿意在我们的矿山工作吗？
+73,スザク/朱雀,え？　えっと……,诶？　那个……
+74,ビィ/碧,おいおい、おばちゃん。<br>いくらこの兄ちゃんが<br>親切だからって……,喂喂，大妈。<br>就算这小哥<br>再怎么亲切，也不能……
+75,村人１/村民１,あははは！　冗談だよ！,啊哈哈哈！　开玩笑的啦！
+77,ルリア/露莉亚,きゃあっ！？<br>じ、地震！？,呀啊！？<br>地、地震！？
+78,,<span class='scene-font-katari'>立っていられない程の激しい揺れに、</span><br><span class='scene-font-katari'>姬塔はルリアを支えながら</span><br><span class='scene-font-katari'>その場にしゃがみ込む。</span>,<span class='scene-font-katari'>在几乎站不住的剧烈摇晃中，</span><br><span class='scene-font-katari'>姬塔一边扶住露莉亚，</span><br><span class='scene-font-katari'>一边就地俯下身。</span>
+83,,<span class='scene-font-katari'>数分にも及ぶ長い揺れが</span><br><span class='scene-font-katari'>ようやく収まり、</span><br><span class='scene-font-katari'>一同が息を吐いたその時だった。</span>,<span class='scene-font-katari'>持续了数分钟的晃动</span><br><span class='scene-font-katari'>终于停下，</span><br><span class='scene-font-katari'>就在一行人刚要松口气之时。</span>
+86,村人２/村民２,お、おい！<br>あれを見ろ！,喂、喂！<br>看那边！
+90,,<span class='scene-font-katari'>村人達が指し示す方には、</span><br><span class='scene-font-katari'>森の木々の向こうから</span><br><span class='scene-font-katari'>煙が立ち上っていた。</span>,<span class='scene-font-katari'>朝村民们所指的方向看去，</span><br><span class='scene-font-katari'>从森林的一端，</span><br><span class='scene-font-katari'>扬起了烟尘。</span>
+91,村人１/村民１,まさか、今の地震で<br>鉱山が崩れたのかい……！？,难道因为刚才的地震<br>矿山崩塌了吗……！？
+92,村人２/村民２,そんな、中の鉱員達は！？,怎么会这样，矿山中还有矿工！？
+92-sel1_txt,,<span class='scene-font-katari'>助けに行こう！</span>,<span class='scene-font-katari'>快去救他们！</span>
+93,スザク/朱雀,ああ。<br>もし坑道に人が取り残されていたら<br>取り返しのつかないことになる。,啊啊。<br>如果矿道里还有人被困的话，<br>就要不可挽回了。
+94,スザク/朱雀,姬塔、<br>君はビィとルリアを抱えてくれ。,姬塔，<br>请你抱着碧和露莉亚。
+96,,<span class='scene-font-katari'>ランスロットに乗り込む</span><br><span class='scene-font-katari'>スザクに頷き、姬塔は</span><br><span class='scene-font-katari'>ルリアとビィを腕の中に抱え込む。</span>,<span class='scene-font-katari'>向乘上兰斯洛特的朱雀</span><br><span class='scene-font-katari'>点了点头，姬塔</span><br><span class='scene-font-katari'>将露莉亚和碧抱住。</span>
+97,,<span class='scene-font-katari'>そうして、姬塔達の体を</span><br><span class='scene-font-katari'>ランスロットの大きな手が掴んだ。</span>,<span class='scene-font-katari'>然后，兰斯洛特巨大的手掌</span><br><span class='scene-font-katari'>握住了姬塔的身体。</span>
+98,スザク/朱雀,皆、落ちないように<br>しっかり掴まって！,大家，抓紧了，<br>小心不要掉下去！
+99,ルリア/露莉亚,は、はい！<br>分かりました！,是，是的！<br>明白了！
+100,,<span class='scene-font-katari'>姬塔達を落とさないよう</span><br><span class='scene-font-katari'>しっかりとランスロットの手で抱え、</span><br><span class='scene-font-katari'>スザクは鉱山に向かい飛び立つ。</span>,<span class='scene-font-katari'>为了不让姬塔等人掉下去，</span><br><span class='scene-font-katari'>朱雀让兰斯洛特紧紧抓住几人，</span><br><span class='scene-font-katari'>向矿山飞去。</span>
+105,坑道の魔物/矿道的魔物,グルルルル……,咕噜噜噜噜……
+106,逃げ出してきた鉱員/逃出的矿工,ひぃぃぃぃ！<br>た、助けてくれぇ！,呀啊啊啊啊啊！<br>救、救救我们！
+107,,<span class='scene-font-katari'>その頃、坑道の入り口では、</span><br><span class='scene-font-katari'>地震と共に現れた無数の魔物に追われる</span><br><span class='scene-font-katari'>鉱員達の姿があった。</span>,<span class='scene-font-katari'>这时，矿道的入口处，出现了几个</span><br><span class='scene-font-katari'>被与地震同时出现的魔物</span><br><span class='scene-font-katari'>追赶的矿工。</span>
+113,坑道の魔物/矿道的魔物,！！,！！
+115,,<span class='scene-font-katari'>ランスロットの手から飛び降りた</span><br><span class='scene-font-katari'>姬塔は、落下の勢いのまま</span><br><span class='scene-font-katari'>鉱員を襲う魔物を両断した。</span>,<span class='scene-font-katari'>从兰斯洛特的手中跳下的姬塔，</span><br><span class='scene-font-katari'>就着跳下的重力</span><br><span class='scene-font-katari'>将袭击矿工的魔物一刀两断。</span>
+117,スザク/朱雀,大丈夫ですか！？<br>ここは僕達に任せて、<br>早く村まで逃げるんだ！,没事吧！？<br>这里交给我们，<br>赶快逃回村中！
+118,坑道の魔物/矿道的魔物,グルルルル……！,咕噜噜噜噜……！
+119,,<span class='scene-font-katari'>坑道から逃げ出す人々を追うように、</span><br><span class='scene-font-katari'>次々と現れる魔物の行く手を遮りながら</span><br><span class='scene-font-katari'>叫ぶスザク。</span>,<span class='scene-font-katari'>朱雀挡在了像是要追赶从矿道逃出的人</span><br><span class='scene-font-katari'>而接连出现的魔物面前，</span><br><span class='scene-font-katari'>一边叫道。</span>
+120,スザク/朱雀,姬塔！<br>僕は坑道から出てくる魔物を叩く！<br>君は鉱員達を襲う魔物の方を頼む！,姬塔！<br>我来打倒从矿道里出来的魔物！<br>袭击矿工的魔物就交给你了！
+121,,<span class='scene-font-katari'>スザクの言葉に頷いた姬塔は、</span><br><span class='scene-font-katari'>ルリア、ビィと共に鉱員を襲う</span><br><span class='scene-font-katari'>魔物を追いかける。</span>,<span class='scene-font-katari'>听了朱雀的话，姬塔点了点头，</span><br><span class='scene-font-katari'>便与露莉亚和碧一起追击</span><br><span class='scene-font-katari'>袭击矿工的魔物。</span>
+122,坑道の魔物/矿道的魔物,<span class='scene-font-4'>グォォォォォ！</span>,<span class='scene-font-4'>咕哦哦哦哦哦！</span>
+129,,<span class='scene-font-katari'>その後を追おうとした魔物を、</span><br><span class='scene-font-katari'>ランスロットの蹴りが吹き飛ばした。</span>,<span class='scene-font-katari'>兰斯洛特将要追赶矿工的</span><br><span class='scene-font-katari'>魔物踢飞了。</span>
+130,スザク/朱雀,この先には行かせない！<br>お前達の相手は僕だ！,我不会让你们再往前行了！<br>你们的对手是我！
+info,,,scene_chr546_q1_s20
+译者,,,
