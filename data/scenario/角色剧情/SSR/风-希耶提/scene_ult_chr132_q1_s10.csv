@@ -1,7 +1,7 @@
 id,name,text,trans
 0-chapter_name,,変わらぬ日常,一成不变的日常
-0-synopsis,,穏やかなある日の午後。七星剣の手入れをしている姬塔の元へ、十天衆頭目シエテが訪れる。軽い会話を交わした後、シエテが姬塔に手合わせをしようと提案。姬塔はしぶしぶシエテの誘いに乗り、上機嫌なシエテと手合わせを開始する。,某个宁静祥和的午后。十天众首领希耶提，造访了正保养着七星剑的姬塔。随意地交谈了几句之后，希耶提提出要和姬塔进行比试。姬塔勉强答应了希特提的邀请。开始了与心情愉快的希耶提的比试。
-0,,<span class='scene-font-katari'>穏やかな午後の日差しの中、</span><br><span class='scene-font-katari'>姬塔は</span><span class='scene-font-spword'>七星剣</span><span class='scene-font-katari'>の</span><br><span class='scene-font-katari'>手入れをしている。</span>,<span class='scene-font-katari'>安静祥和的午后阳光中，姬塔正在保养</span><span class='scene-font-spword'>七星剣</span><span class='scene-font-katari'>。</span>
+0-synopsis,,穏やかなある日の午後。七星剣の手入れをしている姬塔の元へ、十天衆頭目シエテが訪れる。軽い会話を交わした後、シエテが姬塔に手合わせをしようと提案。姬塔はしぶしぶシエテの誘いに乗り、上機嫌なシエテと手合わせを開始する。,某个宁静祥和的午后。十天众首领希耶提，造访了正保养着七星剑的姬塔。随意地交谈了几句之后，希耶提提出要和姬塔进行比试。姬塔勉强答应了希耶提的邀请。开始了与心情愉快的希耶提的比试。
+0,,<span class='scene-font-katari'>穏やかな午後の日差しの中、</span><br><span class='scene-font-katari'>姬塔は</span><span class='scene-font-spword'>七星剣</span><span class='scene-font-katari'>の</span><br><span class='scene-font-katari'>手入れをしている。</span>,<span class='scene-font-katari'>安静祥和的午后阳光中，姬塔正在保养</span><span class='scene-font-spword'>七星剑</span><span class='scene-font-katari'>。</span>
 1,,<span class='scene-font-katari'>と、そこに一人の剣士が</span><br><span class='scene-font-katari'>ふらりと現れた。</span>,<span class='scene-font-katari'>然后，在那里突然出现了一位剑士的身影。</span>
 2,シエテ/希耶提,ふぁ～あぁ～<br>やぁ姬塔ちゃん、<br>今日もいい天気だねぇ～,呼啊～啊～<br>呀姬塔酱，<br>今天也是个好天气呢～
 3,シエテ/希耶提,お、<span class='scene-font-spword'>七星剣</span>のお手入れしてるんだ！<br>偉いね～物を大事にする子は<br>シエテお兄さん好きだなー,哦，在给<span class='scene-font-spword'>七星剣</span>做保养啊！<br>真了不起啊～希耶提哥哥我就喜欢懂得珍惜东西的孩子ー
