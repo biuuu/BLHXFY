@@ -187,7 +187,7 @@ id,ja,en,name,detail
 200441,ポーションリファイン,Potion Refinement,药瓶重装,<div class=prt-text-small>生成1个治愈膏药/赋予我方全体抗体效果(回合结束时恢复所有弱体效果)</div>
 7200,鬼神の丸薬,Fury Capsule,鬼神的药丸,3回合后我方全体攻击UP(大)
 200451,ニュートリエント,Nutrients,营养素,赋予我方全体浑身效果/受回复上限UP
-200461,マッドバイタリティ,Maddening Vitality,狂热活力,<div class=prt-text-small>赋予我方单人情绪UP效果/弱体耐性UP/反击效果(受到伤害/5次)　<span class=text-blue>◆减少对象最大HP的10%/不可对自己使用</span></div>
+200461,マッドバイタリティ,Maddening Vitality,狂热活力,<div class=prt-text-small>赋予我方单人情绪UP效果/弱体耐性UP/反击效果(受到伤害/5次)　<span class=text-blue>◆减少对象最大HP的10%（最多减少90%）/不可对自己使用</span></div>
 200471,アドレナリンラッシュ,Adrenaline Rush,兴奋激发,我方全体的奥义槽上升量大幅UP/效果结束时赋予短路效果
 30207,医療の心得,Medical Expertise,医疗的心得,我方全体收到的治愈膏药和全治膏药的效果量UP
 30208,ライフセービング,Lifesaver,生命救护,有濒死状态的我方人员在场时，回合结束时回复我方全体人员HP
