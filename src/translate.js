@@ -1,6 +1,7 @@
 import URI from 'urijs'
 import isString from 'lodash/isString'
 import isRegExp from 'lodash/isRegExp'
+import loginBonus from './modules/login-bonus'
 import transScenario from './modules/scenario'
 import transLangMsg from './modules/langMsg'
 import transNpcSkill from './modules/skill-npc'
@@ -53,6 +54,7 @@ const requestRouter = async (data, type, list) => {
 }
 
 const requestList = [
+  ['/loginbonus/', loginBonus],
   ['scenario', [setUserName, transScenario]],
   ['/content/',[transLangMsg, transHTML, replaceHour]],
   ['/profile/content/index/', getUserName],
