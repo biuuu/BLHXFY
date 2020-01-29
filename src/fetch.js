@@ -104,7 +104,7 @@ const tryFetch = async () => {
 }
 
 const request = async (pathname) => {
-  if (fetchInfo.result) {
+  if (true || fetchInfo.result) {
     return new Promise((rev, rej) => {
       let timer = setTimeout(() => {
         rej(`加载${pathname}超时`)
