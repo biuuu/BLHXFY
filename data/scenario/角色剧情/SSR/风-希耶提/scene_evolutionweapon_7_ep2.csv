@@ -1,14 +1,14 @@
 id,name,text,trans
 0-chapter_name,,十天衆との邂逅②,与十天众的邂逅②
 0-synopsis,,姬塔一行がよろず屋を訪れると、先日の客と再会する。客は「十天衆の頭目シエテ」と名乗った後、十天衆について語って一行を驚かせる。その後、一行に七星剣を見せてもらうと、シエテは真剣な様子で独り言を呟き始める。シエテは一行に七星剣を返し、どこかへ行ってしまうのだった。,姬塔一行人拜访万事屋的时候，再次遇到了前段时间的客人。客人自我介绍是「十天众的首领希耶提」之后，讲述了让一行人吃惊的十天众的事。那之后，希耶提看了从一行人那里拿到的七星剑，就开始一脸认真地自言自语念叨了什么。他把七星剑还给一行人后，就离开了。
-0,,<span class='scene-font-spword'>「七星剣」</span><span class='scene-font-katari'>を「覚醒」させるため、</span><br><span class='scene-font-katari'>準備を進める姬塔達。</span>,为了把<span class='scene-font-spword'>「七星剑」</span><span class='scene-font-katari'>「覚醒」，</span><br><span class='scene-font-katari'>做着准备的姬塔他们。</span>
-1,,<span class='scene-font-katari'>シェロカルテと今後の方針を</span><br><span class='scene-font-katari'>相談するため、この日も一行は</span><br><span class='scene-font-katari'>よろず屋を訪れる。</span>,<span class='scene-font-katari'>为了和榭洛科特</span><br><span class='scene-font-katari'>商量今后的方针，今天一行人也</span><br><span class='scene-font-katari'>拜访了万事屋。</span>
+0,,<span class='scene-font-spword'>「七星剣」</span><span class='scene-font-katari'>を「覚醒」させるため、</span><br><span class='scene-font-katari'>準備を進める姬塔達。</span>,<span class='scene-font-katari'>为了让</span><span class='scene-font-spword'>「七星剑」</span><span class='scene-font-katari'>「覚醒」，姬塔他们做着准备。</span>
+1,,<span class='scene-font-katari'>シェロカルテと今後の方針を</span><br><span class='scene-font-katari'>相談するため、この日も一行は</span><br><span class='scene-font-katari'>よろず屋を訪れる。</span>,<span class='scene-font-katari'>为了和榭洛科特商量今后的方针，今天一行人也拜访了万事屋。</span>
 2,ビィ/碧,おーい！　よろず屋～<br>ちょっと武器を見てくれよ～,喂ー！　万事屋～<br>帮我们看看武器吧～
 3,？？？,……やぁ！<br>君達は先日の……,……哟！<br>你们是之前的……
 4,ビィ/碧,お前は……<br>武器マニア！,你是……<br>武器爱好者！
 5,ルリア/露莉亚,ちょ、ちょっとビィさん……,碧，碧，这么说有点……
-6,？？？,いやいや……先日は名前も<br>名乗らずに去った俺が悪い……,不不……是前几天<br>没有留下名字就离开的我不好……
-7,,<span class='scene-font-katari'>と、そこに店の裏から</span><br><span class='scene-font-katari'>シェロカルテが戻ってくる。</span>,<span class='scene-font-katari'>这时，榭洛科特从里出来了。</span>
+6,？？？,いやいや……先日は名前も<br>名乗らずに去った俺が悪い……,不不……是前几天没有留下名字就离开的我不好……
+7,,<span class='scene-font-katari'>と、そこに店の裏から</span><br><span class='scene-font-katari'>シェロカルテが戻ってくる。</span>,<span class='scene-font-katari'>这时，榭洛科特从店里出来了。</span>
 8,シェロカルテ/榭洛科特,やあやあ姬塔さん達も<br>いらしてたんですか～！,哎呀哎呀姬塔你们也来了啊～！
 9,？？？,姬塔、それが君の名か……<br>良い名前だな。,姬塔，那是你的名字吗……<br>真是个好名字呢。
 10,シエテ/希耶提,俺の名はシエテ。<br>十天衆のシエテ……<br>と言えば伝わるかな？,我的名字是希耶提。<br>十天众的希耶提……<br>这么说的话你们应该懂的吧？
@@ -20,7 +20,7 @@ id,name,text,trans
 16,シエテ/希耶提,その存在は全空の脅威とも言われ、<br>ひとたび十天衆が動き出せば<br>この空に解決できない問題は無い……,其存在亦被称作是全空的威胁，<br>一旦十天众出动，这片天空中就没有他们解决不了的问题……
 17,ビィ/碧,ご、ごくり……,（咽口水）……
 18,シエテ/希耶提,そしてこの俺が……<br>全空最強の十天衆を束ねる頭目……<br>天星剣王のシエテ様だ！,然后我就是……<br>统率着全空最强的十天众的首领……<br>天星剑王希耶提大人！
-19,ビィ/碧,かっ……かっけぇ……！<br>シエテは……武器マニアの<br>変な兄ちゃんじゃなかったんだな！,好……好帅……！<br>希耶提……原来不是爱好武器的<br>奇怪的大哥啊！
+19,ビィ/碧,かっ……かっけぇ……！<br>シエテは……武器マニアの<br>変な兄ちゃんじゃなかったんだな！,好……好帅……！<br>希耶提……原来不是爱好武器的奇怪的大哥啊！
 20,ルリア/露莉亚,はい！　<br>とにかくシエテさんが凄い方だって<br>いうのは伝わってきました～！,嗯！　<br>总之能感觉到希耶提是非常厉害的人～！
 21,シエテ/希耶提,ははは！<br>そうだろ、すごいだろー？<br>もっと褒めてもいいんだぞぉー？,哈哈哈！<br>对吧，我很厉害吧ー？<br>再多夸我几句也可以哦ー？
 22,シェロカルテ/榭洛科特,なるほど～シエテさんは<br>十天衆をそういう感じの<br>集団にしたかったんですね～,原来如此～<br>希耶提你是希望把十天众变成这样的感觉的集团啊～
@@ -36,7 +36,7 @@ id,name,text,trans
 33,シエテ/希耶提,っていうのは冗談で……,以上的都是开玩笑的……
 34,ビィ/碧,冗談なのかよ！,是开玩笑的啊！
 35,シェロカルテ/榭洛科特,はいー<br>シエテさんはこういう所があるんで<br>話半分ぐらいに聞いてくださいね～,是的ー<br>因为希耶提就是这种性格，<br>所以听他说话也请只信一半就够了～
-36,シエテ/希耶提,あーもう……<br>シェロちゃんがいると<br>ほんと調子狂うなぁー,啊ー真是的……<br>因为榭洛酱在这里<br>我的节奏都被打乱了ー
+36,シエテ/希耶提,あーもう……<br>シェロちゃんがいると<br>ほんと調子狂うなぁー,啊ー真是的……<br>因为榭洛酱在这里，我的节奏都被打乱了ー
 37,,<span class='scene-font-katari'>そう言って笑うシエテは、</span><br><span class='scene-font-katari'>先ほどとは打って変わって</span><br><span class='scene-font-katari'>真剣なトーンで話し始める。</span>,<span class='scene-font-katari'>这么说着笑着的希耶提突然用与之前截然不同的认真的语调开始说话。</span>
 38,シエテ/希耶提,君達はさ……<br>ノブレス・オブリージュって<br>言葉を知ってるかい？,你们啊……<br>知道“能力越大，责任越大”这句话吗？
 39,ルリア/露莉亚,のぶれす……おぶ……<br>ごめんなさい……なんですか、それ？,能力……责任……<br>不好意思……那是什么意思呢？
@@ -60,13 +60,13 @@ id,name,text,trans
 59,シエテ/希耶提,……ん？　<span class='scene-font-spword'>「七星剣」</span>とは……<br>空を七度滅ぼす程の力を<br>秘めたる伝説の剣と言われている。,……嗯？　<span class='scene-font-spword'>「七星剑」</span>是……<br>据说隐藏着能将这片天空毁灭七次程度的力量的传说之剑。
 60,ルリア/露莉亚,それは……<br>恐ろしい力、ですね。,那真是……<br>相当可怕的力量，呢。
 62,シエテ/希耶提,まぁでも安心して！<br>そいつはまだ覚醒の途中だからね。<br>今は大した力は無い……,嘛啊但是先不用担心！<br>这武器还在觉醒的途中。<br>现在并没有那么大的力量……
-63,シエテ/希耶提,いや……でも俺は……<br>今まさに歴史の転換点に<br>立ち会っているのかも知れないな……,不……但是也许我……<br>说不定现在正要见证>历史的转折点……
+63,シエテ/希耶提,いや……でも俺は……<br>今まさに歴史の転換点に<br>立ち会っているのかも知れないな……,不……但是也许我……<br>说不定现在正要见证历史的转折点……
 64,ルリア/露莉亚,あのー<br>シエテさん？,那个ー<br>希耶提？
 65,ビィ/碧,やれやれ……やっぱりただの<br>武器マニアなんじゃねぇかって、<br>思えてきたぜ……,真是的……<br>我又怀疑他是不是只是个武器爱好者了……
 66,シェロカルテ/榭洛科特,あの～シエテさ～ん。<br>そういえば時間は大丈夫なんですか～？,那个～希耶提～。<br>说起来你时间上没问题吗？
 67,シエテ/希耶提,えっ！　あーしまった！<br>少し長居が過ぎたな！<br>このままでは会合に遅れてしまう……,诶！　啊ー糟了！<br>在这里待太久了！<br>再这样下去聚会要迟到了……
 68,シエテ/希耶提,それでは姬塔！<br>まぁ、頑張りすぎない程度に<br>頑張ってみてくれたまえ！　ではまた！,那么姬塔！<br>在不要努力过头的范围内加油看看吧！　<br>那么下次见！
-69,,<span class='scene-font-katari'>そう言うと、シエテは</span><span class='scene-font-spword'>「七星剣」</span><span class='scene-font-katari'>を</span><br><span class='scene-font-katari'>姬塔の手に返して</span><br><span class='scene-font-katari'>どこかへ行ってしまうのだった。</span>,<span class='scene-font-katari'>这么说完，希耶提把</span><span class='scene-font-spword'>「七星剑」</span><span class='scene-font-katari'>还到了姬塔手上就离开了。</span>
+69,,<span class='scene-font-katari'>そう言うと、シエテは</span><span class='scene-font-spword'>「七星剣」</span><span class='scene-font-katari'>を</span><br><span class='scene-font-katari'>姬塔の手に返して</span><br><span class='scene-font-katari'>どこかへ行ってしまうのだった。</span>,<span class='scene-font-katari'>这么说完，希耶提把</span><span class='scene-font-spword'>「七星剑」</span><span class='scene-font-katari'>还给姬塔就离开了。</span>
 70,ルリア/露莉亚,シエテさん……<br>行っちゃいましたね……,希耶提……<br>走掉了呢……
 71,ビィ/碧,ああ……<br>掴みどころのない奴だったな。,是啊……<br>真是难以捉摸的家伙啊。
 72,,<span class='scene-font-katari'>伝説の騎空団「十天衆」の頭目、</span><br><span class='scene-font-katari'>天星剣王のシエテ。</span>,<span class='scene-font-katari'>传说中的骑空团「十天众」的首领，</span><br><span class='scene-font-katari'>天星剑王希耶提。</span>

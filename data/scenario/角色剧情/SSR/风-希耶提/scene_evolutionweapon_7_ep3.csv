@@ -1,9 +1,8 @@
-
 id,name,text,trans
 0-chapter_name,,十天衆との邂逅③,与十天众的邂逅③
 0-synopsis,,よろず屋を訪れた 姬塔一行。そこでシエテと再会する。一行はシエテに七星剣の覚醒が近いことを言い当てられて驚愕する。シエテは「最強の武器を携えた剣士。その腕前に興味があるなー」と呟いて殺気を放つ。姬塔が思わず身構えると、シエテは笑いながら去っていくのだった。,姬塔一行拜访了万事屋。在那里再次遇到了希耶提。一行人因为希耶提说七星剑的觉醒将近而感到惊讶。希耶提嘟囔着「带着最强的武器的剑士。我对你的身手很感兴趣啊ー」这样的话，放出了杀气。姬塔不由自主地摆出战斗姿势后，希耶提便笑着离开了。
-0,,<span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>完全なる「覚醒」を目前にした</span><br><span class='scene-font-spword'>「七星剣」</span><span class='scene-font-katari'>を携えよろず屋を訪れた。</span>,<span class='scene-font-katari'>姬塔等人带着快要完全「觉醒」</span><br><span class='scene-font-spword'>「七星剑」</span><span class='scene-font-katari'>造访了万事屋。</span>
-1,,<span class='scene-font-katari'>よろず屋の店内では、</span><br><span class='scene-font-katari'>先客のシエテがシェロカルテに</span><br><span class='scene-font-katari'>何かを披露している様である。</span>,<span class='scene-font-katari'>在万事屋店内，</span><br><span class='scene-font-katari'>先到的希耶提正对着榭洛科特展示着什么。</span>
+0,,<span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>完全なる「覚醒」を目前にした</span><br><span class='scene-font-spword'>「七星剣」</span><span class='scene-font-katari'>を携えよろず屋を訪れた。</span>,<span class='scene-font-katari'>姬塔等人带着快要完全「觉醒」</span><span class='scene-font-spword'>「七星剑」</span><span class='scene-font-katari'>造访了万事屋。</span>
+1,,<span class='scene-font-katari'>よろず屋の店内では、</span><br><span class='scene-font-katari'>先客のシエテがシェロカルテに</span><br><span class='scene-font-katari'>何かを披露している様である。</span>,<span class='scene-font-katari'>在万事屋店内，先到的希耶提正对着榭洛科特展示着什么。</span>
 2,シエテ/希耶提,ほらほら見て見て、シェロちゃん！<br>これが剣拓コレクションの<br>新作なんだけどさー,来来来你看你看，榭洛酱！<br>这是我的剑拓收集品的新武器哦ー
 3,シエテ/希耶提,あ、この剣の人なんて<br>なかなか強かったんだよー<br>ええと……それから……,啊，这个剑的主人很强的哟ー<br>嗯……然后啊……
 4,シェロカルテ/榭洛科特,あ！　姬塔さん達<br>いらっしゃ～い！,啊！　姬塔你们来了啊，欢迎～光临！
@@ -30,14 +29,15 @@ id,name,text,trans
 25,シエテ/希耶提,で……姬塔。<br>もうすぐ<span class='scene-font-spword'>七星剣</span>が<br>覚醒するんだろ？,话说……姬塔。<br><span class='scene-font-spword'>七星剑</span>快要觉醒了吧？
 26,ビィ/碧,お、おい……今日はそれを<br>よろず屋に伝えに来たのに<br>なんでわかったんだ……,喂，喂……我们今天就是来把这个告诉万事屋的，<br>不过为什么你会知道……
 27,シエテ/希耶提,んー。勘……かな？<br>最強の武器、<span class='scene-font-spword'>「天星器」</span>を携えた剣士。<br>その腕前、興味があるなぁー,嗯ー。直觉……吧？<br>带着最强的武器<span class='scene-font-spword'>「天星器」</span>的剑士。<br>你的身手，我很有兴趣啊ー
-28,,<span class='scene-font-katari'>一瞬、鋭い殺気を放つシエテに</span><br><span class='scene-font-katari'>身構える姬塔。</span>,<span class='scene-font-katari'>感觉到希耶提一瞬间释放出锐利杀气，</span><br><span class='scene-font-katari'>姬塔摆出了战斗架势。</span>
-30,シエテ/希耶提,ふふっ……いい眼だ。さーて。<br>この間は長話をしちゃったから、<br>今日はもう行くよ。,呵呵……不错的眼神呢。那ー么。<br>因为之前说了很长时间的话，<br>我今天也该走了。
+28,,<span class='scene-font-katari'>一瞬、鋭い殺気を放つシエテに</span><br><span class='scene-font-katari'>身構える姬塔。</span>,<span class='scene-font-katari'>感觉到希耶提一瞬间释放出锐利杀气，姬塔摆出了战斗架势。</span>
+30,シエテ/希耶提,ふふっ……いい眼だ。さーて。<br>この間は長話をしちゃったから、<br>今日はもう行くよ。,呵呵……不错的眼神呢。那ー么。<br>因为之前说了很长时间的话，我今天也该走了。
 31,シェロカルテ/榭洛科特,はいはい～<br>またのお越しを～,嗯嗯～<br>欢迎再来～
 32,シエテ/希耶提,姬塔……<span class='scene-font-spword'>「七星剣」</span>は<br>もうすぐ「覚醒」する。,姬塔……<span class='scene-font-spword'>「七星剑」</span>很快就要「觉醒」了。
 33,シエテ/希耶提,俺も楽しみにしてるから、<br>頑張れよ！　それじゃあな！,我也非常期待呢，<br>好好加油哟！　那么我先走了！
 34,,<span class='scene-font-katari'>満面の笑みを湛えて</span><br><span class='scene-font-katari'>立ち去るシエテ。</span>,<span class='scene-font-katari'>希耶提带着满面的笑容离开了。</span>
 35,ルリア/露莉亚,……シエテさん、<span class='scene-font-spword'>「七星剣」</span>が<br>覚醒したら、一緒にお祝いでも<br>してくれるんでしょうか？,……如果<span class='scene-font-spword'>「七星剑」</span>觉醒了的话，<br>希耶提会跟我们一起庆祝吗？
 36,ビィ/碧,あ、ああ。でも一瞬……<br>もの凄い殺気を放った様な……<br>でもまぁ、気のせいか。,啊，也许吧。但是刚刚那一瞬间……<br>好像放出了相当强烈的杀气……<br>不过，可能是我的错觉吧。
-37,,<span class='scene-font-katari'>シエテの放った殺気に</span><br><span class='scene-font-katari'>震えが止まらない姬塔。</span>,<span class='scene-font-katari'>因为希耶提放出的杀气，</span><br><span class='scene-font-katari'>姬塔止不住地颤抖着。</span>
+37,,<span class='scene-font-katari'>シエテの放った殺気に</span><br><span class='scene-font-katari'>震えが止まらない姬塔。</span>,<span class='scene-font-katari'>因为希耶提放出的杀气，姬塔止不住地颤抖着。</span>
 38,,<span class='scene-font-katari'>姬塔は、震えを抑えようと</span><br><span class='scene-font-katari'>覚醒の迫った</span><span class='scene-font-spword'>七星剣</span><span class='scene-font-katari'>を握りしめた。</span>,<span class='scene-font-katari'>为了平息这份颤抖，姬塔握紧了临近觉醒的</span><span class='scene-font-spword'>七星剑</span><span class='scene-font-katari'>。</span>
 info,,,scene_evolutionweapon_7_ep3
+译者,,,
