@@ -8,13 +8,13 @@ let loaded = false
 
 const getComicData = async () => {
   if (!loaded) {
-    const csv = await fetchData('/blhxfy/data/comic.csv')
-    const list = parseCsv(csv)
-    list.forEach(item => {
-      const id = trim(item.id)
-      const title = filter(item.title)
-      const url = filter(item.url)
-      if (id && url) {
+    const res = await fetch('https://gbf.danmu9.com/4ko.json')
+    const list = await res.json()
+    list.forEach(arr => {
+      const id = arr[0]
+      const title = filter(arr[1])
+      const url = `https://gbf.danmu9.com/4ko/${id}.jpg`
+      if (id) {
         comicMap.set(id, { title, url })
       }
     })

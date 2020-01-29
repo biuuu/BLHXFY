@@ -1,6 +1,6 @@
 {
   "name": "blhxfy",
-  "version": "1.10.11",
+  "version": "1.10.12",
   "description": "碧蓝幻想汉化脚本",
   "main": "./src/main.js",
   "scripts": {

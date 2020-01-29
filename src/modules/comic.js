@@ -19,7 +19,8 @@ const comic = async (data, pathname, type = 'default') => {
     if (data.list) {
       for (let key in data.list) {
         const item = data.list[key]
-        if (comicMap.has(item.id)) {
+        let id = parseInt(item.id)
+        if (comicMap.has(id)) {
           item.trans = true
         }
       }
@@ -27,7 +28,7 @@ const comic = async (data, pathname, type = 'default') => {
   } else {
     const rgs = pathname.match(/\/comic\/content\/episode\/(\d+)/)
     if (rgs && rgs[1]) {
-      const id = rgs[1]
+      const id = parseInt(rgs[1])
       const comicMap = await getComicData()
       const info = comicMap.get(id)
       if (info) {
