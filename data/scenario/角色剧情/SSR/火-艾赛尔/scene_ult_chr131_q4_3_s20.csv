@@ -8,7 +8,7 @@ id,name,text,trans
 7,オクトー/奥克托,その手で何を払い、何を掴むか……<br>考えることもできぬ様では<br>刃交えようと言葉交えようと無意味。,你要用那双手排除什么，抓住什么……<br>连这些问题都无法思考的话，无论是与你交战还是谈话都毫无意义。
 8,オクトー/奥克托,いずれその歩み、<br>我ならずとも何者かが止めよう。,你的步伐总有一天、<br>就算不是被我也会被其他人所阻止。
 9,エッセル/艾瑟尔,……止まらない。<br>止まりはしない……<br>何者にも負けない力を得たんだから！！,……我不会停止。<br>不会被阻止……<br>因为我得到了不输任何人的力量！！
-13,,<span class='scene-font-katari'>エッセルの放った銃弾が届く前に</span><br><span class='scene-font-katari'>オクトーは彼女の前から姿を消す。</span>,<span class='scene-font-katari'>再被艾瑟尔射出的子弹击中之前奥克托就消失了。</span>
+13,,<span class='scene-font-katari'>エッセルの放った銃弾が届く前に</span><br><span class='scene-font-katari'>オクトーは彼女の前から姿を消す。</span>,<span class='scene-font-katari'>在被艾瑟尔射出的子弹击中之前奥克托就消失了。</span>
 14,エッセル/艾瑟尔,この力で、私は……,我会用，这份力量……
 15,,<span class='scene-font-katari'>言葉は途中で途切れ、</span><br><span class='scene-font-katari'>エッセルは次の獲物を求め</span><br><span class='scene-font-katari'>再び歩み始めた。</span>,<span class='scene-font-katari'>艾瑟尔的话没有说完，她再次迈开步伐寻求一下个猎物。</span>
 info,,,scene_ult_chr131_q4_3_s20
