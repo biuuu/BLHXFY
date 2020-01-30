@@ -86,10 +86,10 @@ let fetchInfo = {
 }
 const tryFetch = async () => {
   if (window.fetch) {
-    if (sessionStorage.getItem('blhxfy:cors') === 'disabled') {
-      fetchInfo.status = 'finished'
-      return
-    }
+    // if (sessionStorage.getItem('blhxfy:cors') === 'disabled') {
+    //   fetchInfo.status = 'finished'
+    //   return
+    // }
     try {
       const res = await fetch(`${origin}/blhxfy/manifest.json`)
       const data = await res.json()
@@ -106,13 +106,13 @@ const tryFetch = async () => {
 const request = async (pathname) => {
   if (true || fetchInfo.result) {
     return new Promise((rev, rej) => {
-      let timer = setTimeout(() => {
-        rej(`加载${pathname}超时`)
-        timeoutStyle()
-      }, config.timeout * 1000)
+      // let timer = setTimeout(() => {
+      //   rej(`加载${pathname}超时`)
+      //   timeoutStyle()
+      // }, config.timeout * 1000)
       fetch(`${origin}${pathname}`)
       .then(res => {
-        clearTimeout(timer)
+        // clearTimeout(timer)
         const type = res.headers.get('content-type')
         if (type.includes('json')) {
           return res.json()
@@ -133,7 +133,7 @@ const getHash = new Promise((rev, rej) => {
         config.hash = data.hash
         insertCSS('BLHXFY')
       }
-      if (fetchInfo.result) {
+      if (true || fetchInfo.result) {
         beforeStart(fetchInfo.data)
         rev(fetchInfo.data.hash)
       } else {
