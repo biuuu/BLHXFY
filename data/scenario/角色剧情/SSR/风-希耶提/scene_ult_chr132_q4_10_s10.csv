@@ -63,7 +63,7 @@ id,name,text,trans
 88,ミザール,<span class='scene-font-gray'>開陽……</span>,<span class='scene-font-gray'>开阳……</span>
 90,アルカイド,<span class='scene-font-gray'>揺光……</span>,<span class='scene-font-gray'>揺光……</span>
 92,シエテ/希耶提,これで終わりだっ！<br>シエン・ミル・エスパーダ！,一切在此终结！<br>十万剑！
-94,,<span class='scene-font-katari'>指揮者の様に大げさな</span><br><span class='scene-font-katari'>シエテの一振りに合わせて、</span><br><span class='scene-font-katari'>剣神達が同時に斬撃を放つ。</span>,<span class='scene-font-katari'>应和着希耶提像是指挥家一样夸张会出的一击，剑神们同时放出了斩击。</span>
+94,,<span class='scene-font-katari'>指揮者の様に大げさな</span><br><span class='scene-font-katari'>シエテの一振りに合わせて、</span><br><span class='scene-font-katari'>剣神達が同時に斬撃を放つ。</span>,<span class='scene-font-katari'>应和着希耶提像是指挥家一样夸张挥出的一击，剑神们同时放出了斩击。</span>
 95,ウーノ/乌诺,城廓の構え……！,城郭构筑……！
 103,,<span class='scene-font-katari'>だがウーノの力によって</span><br><span class='scene-font-katari'>かろうじて攻撃は無効化される。</span>,<span class='scene-font-katari'>但是凭借乌诺的力量勉强地防住了攻击。</span>
 106,ウーノ/乌诺,はぁ……はぁ……<br>なんという力だ……,哈啊……哈啊……<br>何等强大的力量啊……
@@ -116,7 +116,7 @@ id,name,text,trans
 238,ウーノ/乌诺,さぁ……今だ！<br>姬塔！,上吧……就是现在！<br>姬塔！
 239,,<span class='scene-font-katari'>こくりと頷いた姬塔は</span><br><span class='scene-font-katari'>シエテの前に立ちはだかる。</span>,<span class='scene-font-katari'>姬塔点点头，挡在了希耶提的面前。</span>
 240,シエテ/希耶提,ふふ……やっぱり<br>最後は姬塔か……,呵呵……果然最后是姬塔啊……
-241,シエテ/希耶提,いやさ……<br>なんとなくこうなる<br>予感はしてたんだ。,那个啊……<br>我有种预感会变成这样。
+241,シエテ/希耶提,いやさ……<br>なんとなくこうなる<br>予感はしてたんだ。,那个啊……<br>我有预感会变成这样呢。
 242,シエテ/希耶提,というか……俺は<br>これを望んでいたのかも知れないね。,或者说……我或许正期待着这一幕也说不定。
 243,シエテ/希耶提,ほら……おいでよ？,来吧……过来吧？
 244,シエテ/希耶提,キミが俺を止めなきゃ、<br>誰が止めるの？,如果你都阻止不了我的话，<br>还有谁能阻止得了我呢？
