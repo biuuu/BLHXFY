@@ -1,0 +1,77 @@
+id,name,text,trans
+0-chapter_name,,第115章　神聖エルステ帝国,神圣埃尔斯特帝国
+0-synopsis,,ある日、<span class='scene-font-place'>王都メフォラシュ</span>に戻ったオルキスの元へ、慌てた様子のシェロカルテが現れ、「<span class='scene-font-place'>ガロンゾ島</span>に神聖エルステ帝国を名乗る軍隊が現れた」と告げる。その頃<span class='scene-font-place'>ガロンゾ島</span>では、神聖エルステ帝国軍がオーキスと瓜二つの姿の少女を伴い住人達に降伏を求めていた。少女の姿を見た住人達の間には混乱が広がり、その隙を突かれた<span class='scene-font-place'>ガロンゾ島</span>は瞬く間に征服されてしまうのだった。,某天，在欧尔姬丝他们返回望都梅芙拉修的时候，见到了慌乱不已的榭洛卡尔提。“噶隆索岛出现了打着神圣埃尔斯特帝国名号的军队”，她这么说。那个时候，在噶隆索岛上，和神圣埃尔斯特帝国一起出现的欧姬丝和瓜两人，要求居民投降。看到少女的姿态后，民众之间的混乱逐渐扩散着，趁着这个机会，噶隆索岛仅在瞬间就被征服了。
+1,,<span class='scene-font-katari'>──その報せは、</span><br><span class='scene-font-katari'>平和なひと時に飛び込んできた。</span>,——这份报应，<br>将这份和平彻底打碎。
+2,,<span class='scene-font-katari'>久しぶりに王都に戻り、アダムと共に</span><br><span class='scene-font-katari'>城下を見回っていたオルキスは、</span><br><span class='scene-font-katari'>ふと、迫ってくる影に気付く。</span>,难得回到望都的欧尔姬丝正和亚当一起，<br>在城市中进行着视察。<br>正在这时，察觉到了迫近的人影。
+3,オルキス/欧尔姬丝,あれ……？<br>あの、走って来てるの……シェロさん？,咦……？<br>跑过来的那个是……榭洛？
+4,アダム/亚当,……そのようですね。<br>ずいぶん、<br>慌てていらっしゃるようですが……,……看起来是这样。<br>她的样子，还真是慌张……
+5,,<span class='scene-font-katari'>その姿を見てとめたオルキス達は、</span><br><span class='scene-font-katari'>自分達もシェロカルテのほうへ</span><br><span class='scene-font-katari'>駆け寄っていく。</span>,看到对方的姿态后，<br>欧尔姬丝等人便立刻朝着她的方向<br>飞奔而去。
+10,オルキス/欧尔姬丝,シェロさん！<br>どうしたんですか？　そんなに慌てて。,榭洛！<br>发生什么了？这么慌张。
+11,シェロカルテ/榭洛科特,はぁ……はぁ……<br>オ、オルキスさん、<br>ご無事で何よりです～……,哈……哈……<br>欧、欧尔姬丝酱……<br>你没事比什么都好~……
+12,アダム/亚当,陛下が<span class='scene-font-place'>メフォラシュ</span>に戻って以降、<br>こちらでは特に何も<br>事件は起きていませんが……？,陛下从梅芙拉修返回以后，<br>你那边有发生什么事么……？
+13,シェロカルテ/榭洛科特,いえ、それが～……,不，那是~……
+14,,<span class='scene-font-katari'>シェロカルテは周囲を見回し、</span><br><span class='scene-font-katari'>焦りと不安の混じった表情を見せる。</span>,榭洛卡尔提看了看四周，<br>用焦躁不安的表情说道。
+15,シェロカルテ/榭洛科特,オ、オーキスさんは……<br>オーキスさんは、いまどちらに……？,欧姬丝酱她……<br>欧姬丝酱现在，在哪里……？
+16,オルキス/欧尔姬丝,オーキスは……,欧姬丝她……
+17,,<span class='scene-font-katari'>オルキスは、オーキスが</span><span class='scene-font-place'>白風の境</span><span class='scene-font-katari'>で</span><br><span class='scene-font-katari'>行方不明になってしまったことを</span><br><span class='scene-font-katari'>説明する。</span>,欧尔姬丝向榭洛卡尔提说明了<br>欧姬丝在白风之境失踪了的事。
+18,オルキス/欧尔姬丝,姬塔さん達も<br>一緒だったみたいなんですけど、<br>瘴流域に何か異常があったらしくて……,姬塔他们似乎也在一起，<br>瘴流域那边似乎出现了什么异常……
+19,シェロカルテ/榭洛科特,むむむむむ～……,姆姆姆姆姆~……
+20,,<span class='scene-font-katari'>オルキスからの報告を聞き、</span><br><span class='scene-font-katari'>シェロカルテは一層険しい顔を作る。</span>,听了欧尔姬丝的报告后，<br>榭洛卡尔提脸上的表情变得更加险恶了。
+21,オルキス/欧尔姬丝,あの……いったい何があったんですか？,那个……到底发生了什么？
+22,シェロカルテ/榭洛科特,それがその～……,那个，是因为~……
+23,,<span class='scene-font-katari'>シェロカルテは一瞬、躊躇うも、</span><br><span class='scene-font-katari'>意を決した様子で口を開く。</span>,榭洛卡尔提抽搐了一瞬，<br>但最终还是下定决心说出了口。
+24,シェロカルテ/榭洛科特,神聖エルステ帝国を名乗る軍隊が、<br><span class='scene-font-place'>ガロンゾ島</span>に現れました～……,一支打着神圣埃尔斯特帝国名号的军队，<br>出现在了噶隆索岛。
+25,シェロカルテ/榭洛科特,彼らは自分達こそが、<br>ファータ・グランデ空域の<br>正当な支配者だと主張してまして～……,他们主张着，<br>自己才是这片法塔格兰迪空域的<br>正统支配者。
+26,シェロカルテ/榭洛科特,そして彼らは、<br>ファータ・グランデ空域の平和の象徴、<br>奇跡の結晶とも呼べる存在……,然后他们拥有<br>这片法塔格兰迪空域和平的象征、<br>也就是被称为奇迹的结晶的存在……
+27,シェロカルテ/榭洛科特,「オーキス」を味方に付けている、<br>と言っているんです～……,他们说，“欧姬丝”是他们的同伴~……
+28,オルキス/欧尔姬丝,っ！？<br>オ、オーキスを……？,唔！？<br>欧、欧姬丝她……？
+34,,<span class='scene-font-katari'>その頃、</span><span class='scene-font-place'>ガロンゾ島</span><span class='scene-font-katari'>では、</span><br><span class='scene-font-katari'>神聖エルステ帝国を名乗る集団が、</span><br><span class='scene-font-katari'>住人達に降伏を求めていた。</span>,在那个时候，噶隆索岛上。<br>自称神圣埃尔斯特王国的集团，<br>正在让居民们投降。
+35,神聖エルステ帝国兵,我々はファータ・グランデ空域の<br>正当なる支配者、<br>神聖エルステ帝国である！,沃恩才是这片法塔·格兰迪空域<br>正统的支配者，<br>神圣埃尔斯特帝国！
+36,神聖エルステ帝国兵,我々に逆らうことは即ち、<br>ファータ・グランデ空域の平和、<br>奇跡に逆らうことになると心得よ！,反抗我们，就意味着<br>反抗这片法塔·格兰迪空域的和平与契机！
+37,ガロンゾの民１,ファータ・グランデの<br>正当な支配者だぁ……？,法塔格兰迪正统的支配者……？
+38,ガロンゾの民２,へっ……<br>いきなり出てきて<br>なに言ってんだ、こいつら……,诶……那帮突然出现的家伙们<br>在说什么呢……
+39,,<span class='scene-font-place'>ガロンゾ</span><span class='scene-font-katari'>の住人達は</span><br><span class='scene-font-katari'>彼らの主張を</span><br><span class='scene-font-katari'>一笑に付していたものの……</span>,噶隆索的居民对他们的主张<br>抱以嗤笑……
+40,,<span class='scene-font-katari'>ひとりの少女の姿によって、</span><br><span class='scene-font-katari'>にわかに不穏な空気が漂い始める。</span>,然而当他们看到某位少女的姿态后，<br>氛围逐渐变得紧张了起来。
+41,ガロンゾの民３,な、なぁ、あれ……<br>あれって、オーキス様じゃねぇのか？,那、那个……<br>那不是欧姬丝大人吗？
+42,,<span class='scene-font-katari'>男の指差す先、そこには、</span><br><span class='scene-font-katari'>兵士達に囲まれ優雅に微笑む</span><br><span class='scene-font-katari'>赤い瞳の少女の姿があった。</span>,顺着男人手指的前方，<br>是被士兵们包围着，<br>绽放出优雅姿态的赤瞳少女。
+43,？？？,ふふ……,呼呼……
+44,ガロンゾの民４,え、うそ、本物……？,诶，骗人吧，是本人……？
+45,ガロンゾの民３,あの子、すごくよく出来てるけど、<br>間違いなくゴーレムだぜ……,那孩子，做得很好，<br>毫无疑问是人偶哦……
+46,ガロンゾの民５,蒼い髪に赤い目……<br>本物の少女にしか見えない、<br>精巧に作られたゴーレム……,蓝色的发红色的瞳……<br>看起来就像个真正的少女，<br>多么精巧的人偶啊……
+47,ガロンゾの民５,じゃ、じゃあやっぱり、<br>本物のオーキス様……？,那、那么，果然，<br>是欧姬丝大人本尊吗……？
+48,ガロンゾの民３,あんな精巧なゴーレム、<br>この空に２体といるかよ……,那么精巧的人偶，<br>在这片空域里不会有第二个吧……
+49,ガロンゾの民１,なんでオーキス様が、<br>あいつらと一緒に……,为什么欧姬丝大人，<br>和那些家伙在一起……
+50,ガロンゾの民２,いや、しかし、あのオーキス様が、<br>おかしな奴らに手を貸すとは……,但是，那个欧姬丝大人，<br>应该不会帮奇怪的人扒……
+51,ガロンゾの民４,えっ……<br>じゃあ、あいつらの言ってることが<br>正しいって言うの……？,诶……？<br>也就是说，<br>那些家伙说的是真的咯……？
+52,,<span class='scene-font-place'>ガロンゾ</span><span class='scene-font-katari'>の住人達の間には、</span><br><span class='scene-font-katari'>動揺と混乱が広がり始める。</span>,就这样，噶隆索的居民之中<br>开始弥漫着动摇和混乱。
+53,,<span class='scene-font-katari'>それは降伏の姿勢ではなかったものの、</span><br><span class='scene-font-katari'>征服するための隙としては、</span><br><span class='scene-font-katari'>十分すぎるほどだった。</span>,虽然众人并没有投降的意愿，<br>但趁着这个机会来进行征服，<br>已经足够了。
+54,？？？,…………,…………
+55,,<span class='scene-font-katari'>その様子を影から見守っていた星晶獣は</span><br><span class='scene-font-katari'>兵士達に気付かれる前に</span><br><span class='scene-font-katari'>自ら身を隠すのだった。</span>,躲在影子里守护者大家的星晶兽，<br>在被察觉到以前，<br>隐去了自己的身姿。
+60,神聖エルステ帝国兵,──<span class='scene-font-place'>ガロンゾ島</span>全域、掌握完了です。,噶隆索岛全域，<br>已经掌控完毕。
+61,？？？,ご苦労。,辛苦了。
+62,,<span class='scene-font-katari'>混乱を突かれた</span><span class='scene-font-place'>ガロンゾ</span><span class='scene-font-katari'>は、</span><br><span class='scene-font-katari'>神聖エルステ帝国の兵士達によって、</span><br><span class='scene-font-katari'>瞬く間に征服されてしまうのだった。</span>,混乱的噶隆索岛仅仅在一瞬间，<br>就被神圣埃尔斯特帝国的士兵们给征服了。
+63,？？？,住民は傷つけるな。<br>特に職人や艇大工は丁重に扱うんだ。,不要伤害居民。<br>特别是手艺人和骑空艇工匠。
+64,？？？,彼らの協力なくしては、<br>僕達の任務も遂行できないからな。,如果没有他们的帮助，<br>我们的任务就无法继续进行了。
+65,？？？,それと中央船渠は使えるな？<br>修理中の艇はどけておけ、邪魔になる。,然后要使用中央船渠对吧？<br>把正在修理中的骑空艇给挪开，碍事。
+66,,<span class='scene-font-katari'>ハーヴィンの青年は、</span><br><span class='scene-font-katari'>戦艦からおろされる</span><br><span class='scene-font-katari'>巨大な積荷を見やる。</span>,矮人族的青年<br>从战舰上拿下了一件<br>巨大的物品。
+67,,<span class='scene-font-katari'>それは人を模した形でありながら、</span><br><span class='scene-font-katari'>歪に、禍々しく、</span><br><span class='scene-font-katari'>人との決定的な差異を主張していた。</span>,它虽然模仿了人类的样子，<br>却有些扭曲、有些不祥，<br>和人本身有着决定性的区别。
+68,？？？,これで工場は用意できたからな……<br>次は鋼材の安定供給の確保、<br>それが終われば交易の拠点をおさえる。,这样一来工厂就准备好了吧……<br>接下来是确保钢材的顺利供给，<br>结束以后交易的据点就准备好了。
+69,,<span class='scene-font-katari'>キビキビと動く兵士達に対し、</span><br><span class='scene-font-katari'>ハーヴィンの青年は</span><br><span class='scene-font-katari'>次なる指示を飛ばす。</span>,和迅速行动起来的士兵们相对的，<br>矮人族的青年立刻向着下一个指令飞奔而去。
+70,？？？,部隊を二つに分けろ。<br><span class='scene-font-place'>ガロンゾ</span>に残る者と、<br>次の島へ向かう者だ。,部队分为两个部分。<br>留在噶隆索的人，<br>和向着下一个岛屿进发的人。
+71,？？？,<span class='scene-font-place'>ガロンゾ</span>待機組には、<br>量産の準備を進めさせておけ。<br>すぐに鋼材の供給は確保できる。,在噶隆索待机的<br>做好量产的准备，<br>马上就能确保钢材的供给了。
+72,？？？,次は<span class='scene-font-place'>バルツ</span>だ。<br>ここからはスーツを実戦投入する。<br>合わせて指揮系統を整理しておけ。,下一个是巴尔兹。<br>接下来要将服装投入实战。<br>先整合好指挥系统。
+73,神聖エルステ帝国兵,はっ！,是！
+74,,<span class='scene-font-katari'>走り去っていく兵士を、</span><br><span class='scene-font-katari'>ハーヴィンの青年は</span><br><span class='scene-font-katari'>厳しい目つきで見つめる。</span>,看着急急忙忙的士兵，<br>矮人族青年的目光十分严厉。
+75,,<span class='scene-font-katari'>そんな青年の背に、</span><br><span class='scene-font-katari'>戦場には不釣り合いな</span><br><span class='scene-font-katari'>少女の声がかかる。</span>,在这位青年的身后，<br>想起了和这幅战场毫不相符的，<br>少女的声音。
+76,？？？,計画は順調なの？,计划还顺利吗？
+77,？？？,いまのところは。<br>次の段階に入るのも時間の問題だ。,暂时是。<br>进入下一个阶段只是时间问题。
+78,？？？,だからお前の出番も近い。<br>気を抜くなよ。,很快就到你出场的时候了。<br>可不要大意。
+79,,<span class='scene-font-katari'>青年の厳しい声色に対し、</span><br><span class='scene-font-katari'>ゴーレムの少女は</span><br><span class='scene-font-katari'>どこか上気した様子で呟く。</span>,听着青年严肃的声音，<br>人偶般的少女兴奋地说道。
+80,？？？,ふふ……<br>アタシを見て、<br>オリジナルはどんな顔をするかな？,呼呼……<br>看到我之后，<br>原型会路出怎样的表情呢？
+81,？？？,嗚呼、楽しみ……<br>待ってて、オリジナル。<br>すぐに会えるよ。,呜呼，真期待……<br>等着哦，原型。<br>我们很快就会相见了。
+82,？？？,あとちょっと……もうすぐだから。<br>もうすぐアタシが……,还有一点……很快了。<br>马上我就会……
+83,？？？,──壊してあげるから。,——把你给弄坏。
+84,,<span class='scene-font-katari'>少女の赤い瞳は、</span><br><span class='scene-font-katari'>その場にある何もかもを</span><br><span class='scene-font-katari'>見てはいなかった。</span>,少女红色的瞳孔，<br>并没有看着在场的任何一个地方。
+85,,<span class='scene-font-katari'>その熱のこもった視線は、</span><br><span class='scene-font-katari'>たったひとりの、己の運命の相手に</span><br><span class='scene-font-katari'>注がれ続けているのだった。</span>,在她热切视线前方的，<br>有且只有一人。<br>那就是，她宿命的对手。
+info,,,scene_cp115_q4_s10
+译者,,,rei

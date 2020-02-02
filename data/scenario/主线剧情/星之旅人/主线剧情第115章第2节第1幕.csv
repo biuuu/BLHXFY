@@ -1,0 +1,78 @@
+id,name,text,trans
+0-chapter_name,,第115章　神聖エルステ帝国,神圣埃尔斯特帝国
+0-synopsis,,事の発端は、姬塔一行が<span class='scene-font-place'>白風の境</span>で瘴流域に巻き込まれた直後まで遡る。エルステ王国領となった<span class='scene-font-place'>旧帝都アガスティア</span>にある「タワー」に七曜の騎士のひとり、紫の騎士が現れ、「リアクター」の残骸を強奪していった。廃棄予定の残骸を奪い去るという不可解な事件に、ポンメルンの胸中には言いようのない不安が広がるのだった。,事情的发展，还要从姬塔一行人在白风之境被卷入瘴流域那时候说起。在埃尔斯特王国领的旧帝都阿加斯提亚的某个“塔”中，紫之骑士现身，并强行夺走了“反应堆”。夺走了原本打算废弃的残骸这件事，令伯梅伦心中不好的预感扩大了几分。
+1,,<span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>争う兵士達を蹴散らしながら、</span><br><span class='scene-font-katari'>オルキスとポンメルンへ近づいていく。</span>,姬塔一行人一边击退着正在交战的士兵，<br>一边向欧尔姬丝和伯梅伦走近。
+2,オイゲン/欧根,よっ、と！,嘿、哟！
+5,兵士１/士兵１,っ！？,唔！？
+6,兵士１/士兵１,蒼い髪の少女と、<br>赤いトカゲを連れた騎空団……<br>お前ら、まさか！？,蓝色头发的少女和……<br>带着红色蜥蜴的骑空团……<br>你们，难道是！？
+7,カタリナ/卡塔莉娜,悪いが、<br>いま貴殿らに名乗っている暇はない！,对不起，<br>现在没有报上名字的时间。
+9,兵士１/士兵１,くぅっ！？,唔！？
+13,ラカム/拉卡姆,くそっ、数が多いな……！,可恶，数量真多……！
+14,ラカム/拉卡姆,俺達が居ない間に、<br>いったい何が起きたってんだ！？,我们不在的这段时间，<br>到底发生了什么啊！？
+18,,<span class='scene-font-katari'>──事の発端。</span>,——事情的开端。
+19,,<span class='scene-font-katari'>それは姬塔達が、</span><br><span class='scene-font-place'>白風の境</span><span class='scene-font-katari'>で瘴流域に巻き込まれた、</span><br><span class='scene-font-katari'>その直後まで遡る。</span>,还要从姬塔一行人在白风之境，<br>被卷入瘴流域那会儿说起。
+21,,<span class='scene-font-katari'>ポンメルンの嘆願により、</span><br><span class='scene-font-katari'>エルステ王国領となった</span><br><span class='scene-font-place'>旧帝都アガスティア</span><span class='scene-font-katari'>。</span>,在伯梅伦的期望值之下，旧帝都阿加斯提亚成为了埃尔斯特王国的领土。
+22,,<span class='scene-font-katari'>エルステ王国軍の拠点として</span><br><span class='scene-font-katari'>再利用される「タワー」の一室で、</span><br><span class='scene-font-katari'>ポンメルンは執務に励んでいた。</span>,“塔”中的一个房间，<br>被埃尔斯特王国军作为据点，<br>伯梅伦正在其中执行公务。
+23,ポンメルン/伯梅伦,むむむ……<br>なるほど、<span class='scene-font-place'>白風の境</span>に……,嗯嗯嗯……<br>原来这样，到白风之境去了……
+24,エルステ王国兵１,はっ！<br>騎空艇は<span class='scene-font-place'>ノース・ヴァスト</span>沿岸に<br>停泊したままとなっているようです。,是！骑空艇就这么停泊在<br>诺斯·瓦斯特的沿岸。
+25,エルステ王国兵１,ただ、彼らの向かったと思われる<br><span class='scene-font-place'>白風の境</span>、エオニオ山脈では、<br>瘴流域の異常も確認されています。,但是，在白风之境艾欧尼欧山脉<br>也就是他们前进的方向，<br>确认到了瘴流域的异常。
+26,ポンメルン/伯梅伦,瘴流域の異常……<br>何やらキナ臭いですネェ。,瘴流域的异常……<br>总觉得有股臭味啊。
+27,,<span class='scene-font-katari'>兵からの報告を聞いた、</span><br><span class='scene-font-katari'>エルステ王国元帥ポンメルンは、</span><br><span class='scene-font-katari'>頭を抱える。</span>,听了士兵的报告后，<br>埃尔斯特王国的元帅伯梅伦，<br>抱住了头。
+28,ポンメルン/伯梅伦,陛下の耳に入れば、<br>また心労を<br>増やしてしまいそうですネェ……,如果被陛下知道了的话，<br>又要多操心了……
+29,ポンメルン/伯梅伦,しかし、報告をしないわけにも──,但是，又非去报告不可——
+31,ポンメルン/伯梅伦,っ！？　何事ですネェ！？,啧！？什么事！？
+33,エルステ王国兵２,侵入者です！<br>ポンメルン元帥！,是侵入者！伯梅伦元帅！
+34,ポンメルン/伯梅伦,侵入者ァ～～？<br>警備担当がいるでショウ！,侵入者~~？<br>不是有警卫吗！
+35,エルステ王国兵２,それが、<br>突破されてしまったようでして……,他们，已经被突破了……
+36,ポンメルン/伯梅伦,突破されたァ……？,被突破了……？
+37,,<span class='scene-font-katari'>その知らせを聞き、</span><br><span class='scene-font-katari'>ポンメルンはわずかに逡巡する。</span>,听到通知后，<br>伯梅伦稍稍有些疑惑。
+38,ポンメルン/伯梅伦,<span class='scene-font-kokoro'>（警備にはエルステ帝国時代からの、</span><br><span class='scene-font-kokoro'>手練れを配備していたはずですネェ……</span><br><span class='scene-font-kokoro'>それがこうも簡単に……）</span>,（那些警卫可是在埃尔斯特帝国时代<br>就训练起来的精兵……<br>怎么可能这么简单就被……）
+39,ポンメルン/伯梅伦,吾輩、自ら対応しますヨォ！<br>すぐに現場に案内しなさいィィ！,吾辈自己去对付！<br>快带我去现场！
+45,,<span class='scene-font-katari'>ポンメルンは兵達と共に、</span><br><span class='scene-font-katari'>侵入者の迎撃に出る。</span>,伯梅伦和时并没一起，<br>前往迎击侵入者。
+46,,<span class='scene-font-katari'>しかし、そこで目撃したのは、</span><br><span class='scene-font-katari'>たったひとりの小さな騎士の姿だった。</span>,然而，站在他面前的是，<br>一名小小的骑士。
+47,紫の騎士,…………,…………
+48,ポンメルン/伯梅伦,そ、その甲冑、まさか七曜の……？,那、那身铠甲，<br>难道是七曜的……？
+49,ポンメルン/伯梅伦,と、とはいえ、<br>単身で乗り込んでくるとは、<br>大した自信ですネェ。,虽、虽然如此，<br>孤身一人前来，<br>你还真是有自信呢。
+50,ポンメルン/伯梅伦,答えなさいィィ！<br>素直に目的を話せば、<br>手荒な真似はしませんヨォ！,回答我！<br>如果你老实把目的说出来的话，<br>我是不会对你怎么样的！
+51,紫の騎士,…………,…………
+52,,<span class='scene-font-katari'>しかし、</span><br><span class='scene-font-katari'>紫の騎士は一言も発することなく、</span><br><span class='scene-font-katari'>ただ得物を構え直す。</span>,但是，紫之骑士只是一言不发地，<br>整理着东西。
+53,ポンメルン/伯梅伦,ふん……<br>答える気は無いようですネェ。,哼……<br>看来你是不会回答了呢。
+54,ポンメルン/伯梅伦,そっちがその気なら、<br>七曜の騎士相手に、<br>吾輩も手は抜きませんヨォ！,既然你有这个意思，<br>就算是面对七曜骑士，<br>吾辈也不会手下留情的！
+66,ポンメルン/伯梅伦,久しぶりに！　この力で！<br>暴れさせてもらいますヨォォォ！！,久违地！<br>让我展现<br>这份力量吧————！！
+67,紫の騎士,…………,…………
+68,,<span class='scene-font-katari'>全力をもって相対するポンメルン。</span><br><span class='scene-font-katari'>しかし、その勝負は、</span><br><span class='scene-font-katari'>一瞬のうちに決着するのだった。</span>,即使面对着拼尽全力的伯梅伦。<br>胜负，却在一瞬间就决定了。
+69,紫の騎士,…………,…………
+72,ポンメルン/伯梅伦,<span class='scene-font-kokoro'>（っ！？　消え──）</span>,（唔！？消失——）
+74,紫の騎士,…………,…………
+82,ポンメルン/伯梅伦,ぐおっ……！？,唔哦……！？
+90,ポンメルン/伯梅伦,がはっ……<br>ごほっ……,咳咳……<br>咳咳…………
+91,エルステ王国兵２,ポンメルン元帥！,伯梅伦元帅！
+92,,<span class='scene-font-katari'>膝をつき吐血するポンメルンを、</span><br><span class='scene-font-katari'>咄嗟に兵士達が身を挺して庇う。</span>,士兵们挺身而出，<br>挡在了单膝跪地口吐鲜血的伯梅伦面前，<br>保护着他。
+93,ポンメルン/伯梅伦,<span class='scene-font-kokoro'>（強い……</span><br><span class='scene-font-kokoro'>さすがは七曜の騎士ですネェ……）</span>,（好强……<br>真不愧是七曜骑士……）
+94,ポンメルン/伯梅伦,<span class='scene-font-kokoro'>（それに身体が……</span><br><span class='scene-font-kokoro'>やはり魔晶を使い過ぎた影響が……！）</span>,（果然身体……<br>还是受着过度使用魔晶的影响……！）
+95,紫の騎士,…………,……
+98,ポンメルン/伯梅伦,ぐっ……！？,唔……！？
+100,,<span class='scene-font-katari'>紫の騎士の一撃は、</span><br><span class='scene-font-katari'>兵士もろともポンメルンを吹き飛ばす。</span>,紫之骑士只用了一击，<br>就把被士兵们保护着的伯梅伦<br>给击飞了。
+101,,<span class='scene-font-katari'>その衝撃にポンメルンは意識を失い、</span><br><span class='scene-font-katari'>混濁のうちに落ちていくのだった。</span>,这股冲击令伯梅伦失去了意识，<br>意识也逐渐落入混沌之中。
+106,ポンメルン/伯梅伦,──っつ！<br>こ、ここは……,——啧！<br>这、这里是……
+107,エルステ王国兵１,元帥！<br>良かった……<br>身体に異常はありませんか？,元帅！<br>太好了……<br>您的身体还有什么异常妈妈？
+108,ポンメルン/伯梅伦,え、ええ……,没、没事……
+109,,<span class='scene-font-katari'>ポンメルンが目を覚ましたのは、</span><br><span class='scene-font-katari'>紫の騎士の襲撃から数日後の</span><br><span class='scene-font-katari'>「タワー」の医務室だった。</span>,在“塔”中医务室的伯梅伦醒来时，<br>已经是被紫之骑士袭击的数日之后了。
+114,エルステ王国兵１,──元帥との交戦後、紫の騎士は、<br>「リアクター」の残骸を奪って、<br>「タワー」から去っていきました。,——和元帅交战后，<br>紫之骑士夺走了“反应堆”，<br>就从“塔”离开了。
+120,エルステ王国兵１,その後、紫の騎士は、<br>今度は<span class='scene-font-place'>メフォラシュ</span>を襲撃し、<br>王宮に保管されていた機密物を強奪。,在那之后，紫之骑士还袭击了梅芙拉修，<br>把在王宫里保存着的机密物<br>给夺走了。
+126,エルステ王国兵１,最終的には、<br><span class='scene-font-place'>ノース・ヴァスト</span>の方角へと<br>去っていったそうです。,最后，从诺斯·瓦斯特方向离开了。
+127,,<span class='scene-font-katari'>兵からの報告の内容に、</span><br><span class='scene-font-katari'>ポンメルンは眉をひそめる。</span>,听了士兵们的汇报后，<br>伯梅伦不禁皱起了眉头。
+128,ポンメルン/伯梅伦,「リアクター」の残骸……<br>「タワー」の被害はそれだけですかァ？,“反应堆”的残骸……<br>“塔”受到的伤害仅此而已吗？
+129,エルステ王国兵１,はい。<br>交戦した兵士達も皆、軽傷で、<br>他に盗まれたものもありません。,是。和他交战过的士兵<br>都只是收了轻伤。<br>除此之外也没有别的物品失窃。
+130,ポンメルン/伯梅伦,「リアクター」の残骸を……,只拿了“反应堆”的残骸……
+131,ポンメルン/伯梅伦,<span class='scene-font-kokoro'>（「リアクター」に使われていた</span><br><span class='scene-font-kokoro'>星晶獣は、機密の少女によって</span><br><span class='scene-font-kokoro'>すでに回収されたはずですヨォ……）</span>,（被“反应堆”所使用的星晶兽，<br>应该已经被机密的少女回收了才对……）
+132,ポンメルン/伯梅伦,<span class='scene-font-kokoro'>（事実、あの残骸も、</span><br><span class='scene-font-kokoro'>廃棄予定だったわけで……）</span>,（实际上，那个残骸<br>已经打算废弃处理了……）
+133,エルステ王国兵１,<span class='scene-font-place'>メフォラシュ</span>で強奪された機密物も、<br>廃棄してしまう予定のもの<br>だったそうです。,梅芙拉修被抢走的机密物，<br>好像也是打算被废弃掉的东西。
+134,ポンメルン/伯梅伦,そうですカ……,这样啊……
+135,ポンメルン/伯梅伦,<span class='scene-font-kokoro'>（価値の無いものばかり……</span><br><span class='scene-font-kokoro'>紫の騎士はいったい何を……？）</span>,（都是些毫无价值的东西……<br>紫之骑士到底想干什么……？）
+136,,<span class='scene-font-katari'>ポンメルンは</span><br><span class='scene-font-katari'>紫の騎士の思惑に頭を捻るも、</span><br><span class='scene-font-katari'>その結論は出ない。</span>,紫之骑士的行为令伯梅伦<br>怎么也想不透，<br>因此也无法得出结论。
+137,ポンメルン/伯梅伦,……なにか、嫌な予感がしますネェ。,……总有种，<br>不祥的预感呢。
+138,,<span class='scene-font-katari'>不可解な事件により、</span><br><span class='scene-font-katari'>ポンメルンの胸中には</span><br><span class='scene-font-katari'>言い知れぬ不安が広がっていく。</span>,这件无法解决的事件，<br>将伯梅伦心中涌出的不安，<br>又放大了几分。
+139,,<span class='scene-font-katari'>その不安を形にして吐き出すように、</span><br><span class='scene-font-katari'>ポンメルンはぽつりと呟くのだった。</span>,就像是要将这份不安抒发出来似的，<br>伯梅伦喃喃自语着。
+info,,,scene_cp115_q2_s10
+译者,,,rei
