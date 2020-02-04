@@ -40,7 +40,7 @@ id,name,text,trans
 53,オルキス/欧尔姬丝,<span class='scene-font-kokoro'>（確かに似てる……</span><br><span class='scene-font-kokoro'>けど、あれはオーキスじゃない）</span>,（确实很相似……<br>但那并不是欧姬丝）
 54,オルキス/欧尔姬丝,<span class='scene-font-kokoro'>（でも、それじゃあ、</span><br><span class='scene-font-kokoro'>あの子はいったい……誰？）</span>,（但是，这么一来的话，<br>那孩子到底是……谁？）
 62,,<span class='scene-font-katari'>成り行きではあったものの、</span><br><span class='scene-font-katari'>オルキス達に加勢し、</span><br><span class='scene-font-katari'>神聖エルステ帝国軍を撤退させた一行。</span>,一行人趁着这个机会，<br>支援着欧尔姬丝等人，击退了神圣埃尔斯特帝国军。
-63,,<span class='scene-font-katari'>互いの無事を喜び合うのも束の間、</span><br><span class='scene-font-katari'>オルキス達と姬塔達は、</span><br><span class='scene-font-katari'>互いのこれまでを確認し合うのだった。</span>,在为对方的平安无事开心只是，<br>欧尔姬丝一行和姬塔异性，<br>相互确认起了迄今为止的动向。
+63,,<span class='scene-font-katari'>互いの無事を喜び合うのも束の間、</span><br><span class='scene-font-katari'>オルキス達と姬塔達は、</span><br><span class='scene-font-katari'>互いのこれまでを確認し合うのだった。</span>,在为对方的平安无事开心之时，<br>欧尔姬丝一行和姬塔异性，<br>相互确认起了迄今为止的动向。
 64,オルキス/欧尔姬丝,──そっか。<br>ナル・グランデ空域で、<br>そんなことがあったんだ……,——原来如此。<br>在纳尔格兰迪空域，<br>竟然发生了这样的事……
 65,オルキス/欧尔姬丝,うん……<br>はぐれちゃったオーキス達のことも<br>心配だけど……,嗯……<br>虽然我也很担心走散了的欧姬丝他们……
 66,オルキス/欧尔姬丝,ひとまず……<br>おかえりなさい！　姬塔さん！<br>それに皆さんも！,首先……欢迎回来！<br>姬塔也是！大家也是！
@@ -69,7 +69,7 @@ id,name,text,trans
 93,ラカム/拉卡姆,おいおいおい、嘘だろ。<br><span class='scene-font-place'>ガロンゾ</span>が……,喂喂喂，骗人的吧。<br>噶隆索被……
 94,オイゲン/欧根,確かにさっきの連中は、<br>ずいぶん手練れが揃っちゃあいたが……<br>んな簡単に占領されるもんか？,确实刚才的那群人非常熟练，<br>但怎么可能这么简单就被占领？
 95,イオ/伊欧,バ、<span class='scene-font-place'>バルツ</span>だって！<br><span class='scene-font-place'>バルツ</span>には師匠もいるのに……<br>なんで……！？,巴、巴尔兹也被！<br>明明老师就在那边……<br>为什么还被……！？
-96,,<span class='scene-font-place'>ガロンゾ</span><span class='scene-font-katari'>と</span><span class='scene-font-place'>バルツ</span><span class='scene-font-katari'>が占領され、</span><br><span class='scene-font-katari'>狼狽える一行に対し、</span><br><span class='scene-font-katari'>ポンメルンは苦々しげに語る。</span>,面对听到噶隆索和巴尔兹被占领后，<br>略显狼狈的i型人，<br>伯梅伦艰难地开口道。
+96,,<span class='scene-font-place'>ガロンゾ</span><span class='scene-font-katari'>と</span><span class='scene-font-place'>バルツ</span><span class='scene-font-katari'>が占領され、</span><br><span class='scene-font-katari'>狼狽える一行に対し、</span><br><span class='scene-font-katari'>ポンメルンは苦々しげに語る。</span>,面对听到噶隆索和巴尔兹被占领后，<br>略显狼狈的一行人，<br>伯梅伦艰难地开口道。
 97,ポンメルン/伯梅伦,オーキスを名乗るゴーレムの少女……<br>その存在が大きかったようですネェ。,打着欧姬丝名号的人偶少女……<br>她的存在有着很大的作用。
 98,ポンメルン/伯梅伦,ファータ・グランデ空域には、<br>貴方達の冒険、<br>英雄譚が広まっているんですヨォ。,在法塔格兰迪空域，<br>你们的冒险，已经成了英雄坛<br>一样的东西，并且流传开了。
 100,ポンメルン/伯梅伦,悪の帝国と戦う正義の騎空士達。<br>その冒険の果てに生まれた<br>奇跡のゴーレム……,和邪恶帝国交战的正义骑空士们。<br>在冒险的尽头所诞生的，<br>被称作奇迹的人偶……
@@ -86,7 +86,7 @@ id,name,text,trans
 112,オルキス/欧尔姬丝,オーキスやアダムみたいな、<br>限りなく人に近い精巧なゴーレムは、<br>そう簡単には作れない。,欧姬丝和亚当这种<br>极度接近人类的精巧人偶，<br>是没办法简简单单就做出来的。
 113,オルキス/欧尔姬丝,その技術は、<br>それこそ私達エルステにしか<br>伝わってないはずなんだけど……,这种技术，<br>应该只有在我们埃尔斯特才能学到……
 114,,<span class='scene-font-katari'>オルキスもまた、</span><br><span class='scene-font-katari'>突如現れた神聖エルステ帝国に対し、</span><br><span class='scene-font-katari'>得体のしれない不気味さを感じていた。</span>,欧尔姬丝仍然对突然出现的<br>神圣埃尔斯特帝国<br>感到了一阵莫名的毛骨悚然。
-115,オルキス/欧尔姬丝,私達はエルステ王国として、<br>「エルステ」を名乗る彼らと<br>戦わなくちゃいけない。,对于我们埃尔斯特亡故来说，<br>必须和打着“埃尔斯特”名号的他们<br>战斗不可。
+115,オルキス/欧尔姬丝,私達はエルステ王国として、<br>「エルステ」を名乗る彼らと<br>戦わなくちゃいけない。,对于我们埃尔斯特王国来说，<br>必须和打着“埃尔斯特”名号的他们<br>战斗不可。
 116,オルキス/欧尔姬丝,だから、<br><span class='scene-font-place'>メフォラシュ</span>をアダムに任せて、<br><span class='scene-font-place'>ポート・ブリーズ</span>の加勢に来てたんだ。,所以，我把梅芙拉修交给亚当，<br>立刻来到了波特·布里兹支援。
 117,ロゼッタ/萝赛塔,そこへ、<br><span class='scene-font-place'>境界の世界</span>から戻った<br>アタシ達が合流した、というわけね。,然后在这里，<br>和从境界的世界返回的我们汇合了，<br>是这样吧。
 118,ビィ/碧,オイラ達が<br>ファータ・グランデを出た後、<br>そんなことになってたんだな……,我们从法塔格兰迪离开以后，<br>究竟发生了什么事啊……
