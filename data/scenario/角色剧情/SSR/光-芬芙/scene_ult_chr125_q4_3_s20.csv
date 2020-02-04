@@ -9,10 +9,10 @@ id,name,text,trans
 6,シエテ/希耶提,ふふ……でもま、確かに前に比べて<br>魔法の使い方が上手くなってるな。,呵呵……但是啊，你用魔法确实比以前更顺手了。
 7,シエテ/希耶提,力任せの無駄撃ちも減ってるし<br>こっちの技もよく躱してる。<br>こりゃ、俺もうかうかしてらんないね～,乱用力量的无用攻击也减少了，<br>而且会躲开我的招式了。<br>这样的话我也不能再大意了呢~
 8,フュンフ/芬芙,へへ～、もうちょっと頑張れば<br><span class='scene-font-spword'>五神杖</span>、姬塔に<br>返せるかな～？,嘿嘿~我再加把劲，是不是就能把<span class='scene-font-spword'>五神杖</span>还给姬塔了呢~？
-9,シエテ/希耶提,ああ、頑張るのはいいが、<br>調子に乗って体に<br>負担をかけすぎるなよ～？,嗯，会努力很好，但别做过头给身体造成负担哦~？
-10,シエテ/希耶提,ま、それだけ元気なら大丈夫か。<br>少し早い成長期ってとこだな。,嘛，你那么精神肯定没事的。所谓的提早一点的成长期啊。
-11,フュンフ/芬芙,昨日のあちしと<br>今日のあちしは別人なのだっ！<br>むふふ♪,昨天的我和今天的我可是不同的哦！呜呼呼♪
+9,シエテ/希耶提,ああ、頑張るのはいいが、<br>調子に乗って体に<br>負担をかけすぎるなよ～？,嗯，会努力很好，<br>但别太忘形给身体造成负担哦~？
+10,シエテ/希耶提,ま、それだけ元気なら大丈夫か。<br>少し早い成長期ってとこだな。,嘛，你那么精神肯定没事的。<br>是稍微提早的成长期呢。
+11,フュンフ/芬芙,昨日のあちしと<br>今日のあちしは別人なのだっ！<br>むふふ♪,昨天的我和今天的我可是不同的哦！<br>呜呼呼♪
 12,,<span class='scene-font-katari'>胸を張るフュンフを</span><br><span class='scene-font-katari'>シエテは苦笑しつつも</span><br><span class='scene-font-katari'>優しい双眸で見つめる。</span>,<span class='scene-font-katari'>希耶提苦笑着，用温柔的眼神看着骄傲地挺起胸膛的芬芙。</span>
-13,,<span class='scene-font-katari'>まだまだ伸び代を持つフュンフは、</span><br><span class='scene-font-katari'>魔力の成長と共に更にその才能を</span><br><span class='scene-font-katari'>開花させようとしていた。</span>,<span class='scene-font-katari'>还处于成长期的芬芙，伴随着魔力的成长，她的那份才能将到达顶峰。</span>
+13,,<span class='scene-font-katari'>まだまだ伸び代を持つフュンフは、</span><br><span class='scene-font-katari'>魔力の成長と共に更にその才能を</span><br><span class='scene-font-katari'>開花させようとしていた。</span>,<span class='scene-font-katari'>还处于成长期的芬芙，伴随着魔力的成长，她的那份才能也将到达顶峰。</span>
 info,,,scene_ult_chr125_q4_3_s20
 译者,,,
