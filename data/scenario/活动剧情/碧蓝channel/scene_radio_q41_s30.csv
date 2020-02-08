@@ -3,11 +3,11 @@ id,name,text,trans
 1,,<span class='scene-font-katari'>魔物の群れを退治した騎士団一行は、</span><br><span class='scene-font-katari'>付近の宿屋に宿泊していた。</span>,<span class='scene-font-katari'>平息了魔物群骚动的骑士团一行人</span><br><span class='scene-font-katari'>留宿在了附近的旅店。</span>
 2,アルベール/阿尔贝尔,ふう……<br>溜まっていた書類は片付いたな。<br>,呼……<br>积攒的文件也都处理完了。<br>
 3,,<span class='scene-font-katari'>アルベールは座ったままで</span><br><span class='scene-font-katari'>大きく伸びをすると、</span><br><span class='scene-font-katari'>窓の外に目を向けた。</span>,<span class='scene-font-katari'>阿尔贝尔在椅子上伸了个大大的懒腰，</span><br><span class='scene-font-katari'>看向了窗外。</span>
-4,,<span class='scene-font-katari'>静かに浮かぶ満月に、</span><br><span class='scene-font-katari'>レヴィオン特有の雷雲が</span><br><span class='scene-font-katari'>靄のようにかかっている。</span>,<span class='scene-font-katari'>雷比昂特有的雷云像是雾霭一般</span><br><span class='scene-font-katari'>缭绕着静谧的满月。</span>
+4,,<span class='scene-font-katari'>静かに浮かぶ満月に、</span><br><span class='scene-font-katari'>レヴィオン特有の雷雲が</span><br><span class='scene-font-katari'>靄のようにかかっている。</span>,<span class='scene-font-katari'>雷维翁特有的雷云像是雾霭一般</span><br><span class='scene-font-katari'>缭绕着静谧的满月。</span>
 5,アルベール/阿尔贝尔,そういえばマイムが言っていたな。<br>温泉施設に雷風呂があると……<br>,说起来我记得麦姆曾经提过<br>这里的温泉有雷电泉……<br>
 6,アルベール/阿尔贝尔,よっこらせ……<br>ちょうど身体があの刺激を求めていた。<br>ありがたくいただくとしよう。<br>,诶咻……<br>身体似乎也在呼唤着那种刺激。<br>就心怀感激地享受吧。<br>
 12,,<span class='scene-font-katari'>アルベールが風呂場の</span><br><span class='scene-font-katari'>戸を開けると──</span>,<span class='scene-font-katari'>阿尔贝尔打开澡堂的那一瞬间——</span>
-13,ユリウス/尤里乌斯,おや、これはこれは……<br>レヴィオン騎士団団長殿。,哦呀，这不是这不是……<br>雷比昂骑士团团长大人吗。
+13,ユリウス/尤里乌斯,おや、これはこれは……<br>レヴィオン騎士団団長殿。,哦呀，这不是这不是……<br>雷维翁骑士团团长大人吗。
 14,アルベール/阿尔贝尔,ユリウス……<br>その呼び方はやめてくれ。<br>,尤里乌斯……<br>别这样叫我。<br>
 15,,<span class='scene-font-katari'>アルベールは</span><br><span class='scene-font-katari'>先客のユリウスの傍まで来ると、</span><br><span class='scene-font-katari'>雷風呂にゆっくりと浸かる。</span>,<span class='scene-font-katari'>阿尔贝尔走到先来的尤里乌斯身边，</span><br><span class='scene-font-katari'>慢慢地泡进雷电泉。</span>
 16,アルベール/阿尔贝尔,おお……！<br>なかなか痺れるなぁ。<br>個人的にはもう少し強くてもいいが……<br>,哦哦……！<br>酥酥麻麻的呢。<br>不过以我个人来说还可以再强一点……<br>
@@ -22,7 +22,7 @@ id,name,text,trans
 25,ユリウス/尤里乌斯,君が熱心なのはわかるが……<br>マイム君あたりに<br>任せてもよかったのでは？<br>,虽然我也知道你很热心……<br>不过交给麦姆他们不就好了吗？<br>
 26,アルベール/阿尔贝尔,俺は……可能な限り<br>俺自身が出向くことに<br>意味があると思っている。<br>,我……我觉得<br>尽可能亲手去做是有意义的。<br>
 27,ユリウス/尤里乌斯,そうか……<br>団長に就任する式典でも、<br>そんなことを言っていたね。,这样……<br>团长就任仪式的时候也说了这种话呢。
-28,ユリウス/尤里乌斯,……まあ、同じように<br>レヴィオンを思えども、<br>アプローチは違ってもいいさ。<br>,……嗯，只要都是为雷比昂着想，<br>方式不同倒也没关系。<br>
+28,ユリウス/尤里乌斯,……まあ、同じように<br>レヴィオンを思えども、<br>アプローチは違ってもいいさ。<br>,……嗯，只要都是为雷维翁着想，<br>方式不同倒也没关系。<br>
 29,ユリウス/尤里乌斯,だが、身を削りすぎて<br>破滅してしまうと感じたら……<br>私は親友として君を止めるよ。<br>,不过，要是我感觉你拼命过头了的话，<br>会作为挚友制止你的。<br>
 30,アルベール/阿尔贝尔,ああ……<br>そうしてくれ、親友殿。<br>,嗯……<br>拜托你了，挚友哟。<br>
 31,,<span class='scene-font-katari'>アルベールの返答を聞くと、</span><br><span class='scene-font-katari'>ユリウスは真剣な表情から一転し、</span><br><span class='scene-font-katari'>愉快そうに口の端を上げる。</span>,<span class='scene-font-katari'>听到了阿尔贝尔的回答，</span><br><span class='scene-font-katari'>尤里乌斯不再一脸认真，</span><br><span class='scene-font-katari'>而是愉快地扬起了嘴角。</span>
