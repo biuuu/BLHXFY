@@ -1,8 +1,8 @@
 id,name,text,trans
 0-chapter_name,,偽りだらけの青春の１ページ,
 1,,<span class='scene-font-katari'>姬塔達が</span><br><span class='scene-font-katari'>アルベールやユリウスと出会うより</span><br><span class='scene-font-katari'>前のある日の出来事──</span>,<span class='scene-font-katari'>这是阿尔贝尔、</span><br><span class='scene-font-katari'>尤里乌斯他们遇到姬塔</span><br><span class='scene-font-katari'>之前的某天──</span>
-2,,<span class='scene-font-katari'>レヴィオン王国の南西部。</span><br><span class='scene-font-katari'>長閑な田園風景が広がる中、</span><br><span class='scene-font-katari'>武装した小隊が歩を進めていた。</span>,<span class='scene-font-katari'>在雷比昂王国的南西部，</span><br><span class='scene-font-katari'>一片悠闲的田园风光中，</span><br><span class='scene-font-katari'>有一支全副武装的小队正在行进中。</span>
-3,,<span class='scene-font-katari'>その先頭に立つのは、</span><br><span class='scene-font-katari'>レヴィオン騎士団の団長に就任して</span><br><span class='scene-font-katari'>まだ日が浅いアルベールである。</span>,<span class='scene-font-katari'>为首的是刚就任</span><br><span class='scene-font-katari'>雷比昂骑士团团长</span><br><span class='scene-font-katari'>不久的阿尔贝尔。</span>
+2,,<span class='scene-font-katari'>レヴィオン王国の南西部。</span><br><span class='scene-font-katari'>長閑な田園風景が広がる中、</span><br><span class='scene-font-katari'>武装した小隊が歩を進めていた。</span>,<span class='scene-font-katari'>在雷维翁王国的南西部，</span><br><span class='scene-font-katari'>一片悠闲的田园风光中，</span><br><span class='scene-font-katari'>有一支全副武装的小队正在行进中。</span>
+3,,<span class='scene-font-katari'>その先頭に立つのは、</span><br><span class='scene-font-katari'>レヴィオン騎士団の団長に就任して</span><br><span class='scene-font-katari'>まだ日が浅いアルベールである。</span>,<span class='scene-font-katari'>为首的是刚就任</span><br><span class='scene-font-katari'>雷维翁骑士团团长</span><br><span class='scene-font-katari'>不久的阿尔贝尔。</span>
 4,アルベール/阿尔贝尔,気をつけろ。魔物が人里に現れるのは<br>夜だと聞いてはいるが……<br>万が一のこともある。,虽说根据传闻，<br>是在夜晚目击到魔物出现在村庄的……<br>不怕一万就怕万一。小心为上。
 5,アルベール/阿尔贝尔,さて、皆、報告にあった<br>魔物の特徴は頭に入っているな？<br>警戒を怠らずに進むぞ！,那么，报告中所提及的<br>魔物的特征大家都记住了吗？<br>继续保持警戒！
 6,,<span class='scene-font-katari'>アルベールは、険しい表情で</span><br><span class='scene-font-katari'>小隊の面々に指示を出す。</span>,<span class='scene-font-katari'>阿尔贝尔表情严峻，</span><br><span class='scene-font-katari'>向队员们发出指令。</span>
@@ -10,7 +10,7 @@ id,name,text,trans
 9,ユリウス/尤里乌斯,まあ、君の雷のような俊足なら<br>すぐかもしれないが……<br>些か焦りすぎだと思うがね。,不过，凭着你雷厉风行的作风<br>也许很快就能抵达……<br>但我还是觉得你有点过度焦虑了。
 10,,<span class='scene-font-katari'>肩を竦めながら声を掛けたのは、</span><br><span class='scene-font-katari'>研究者のユリウスである。</span>,<span class='scene-font-katari'>无奈地摊了摊手上前搭话的</span><br><span class='scene-font-katari'>是作为研究者的尤里乌斯。</span>
 11,アルベール/阿尔贝尔,ユリウス……<br>確かにそうかもしれないがな。,尤里乌斯……<br>或许如此。
-12,アルベール/阿尔贝尔,俺達は……レヴィオン騎士団は、<br>この国の誇りだ。<br>常に万全を期すのは当然だろう。,但我们……<br>我们雷比昂骑士团是这个国家的骄傲，<br>无论何时都要求万无一失也是当然的吧。
+12,アルベール/阿尔贝尔,俺達は……レヴィオン騎士団は、<br>この国の誇りだ。<br>常に万全を期すのは当然だろう。,但我们……<br>我们雷维翁骑士团是这个国家的骄傲，<br>无论何时都要求万无一失也是当然的吧。
 13,ユリウス/尤里乌斯,…………,…………
 14,ユリウス/尤里乌斯,親友殿、朝食は食べたかい？,挚友哟，你吃过早餐了吗？
 15,アルベール/阿尔贝尔,ん……？<br>なんだって？,嗯……？<br>你说了什么？
@@ -46,7 +46,7 @@ id,name,text,trans
 45,アルベール/阿尔贝尔,なんだと……？ <br>そんなわけがあるか！<br>今にも吐きそうだというのに……,你说什么……？ <br>怎么可能！<br>我明明感觉都快要吐了……
 46,ユリウス/尤里乌斯,フフッ、そうだね。<br>だが、気難しいおじさんのような<br>仏頂面より幾分かマシさ。,呵呵，是呢。<br>不过，比起板着个脸<br>像个不好伺候的大叔要好点。
 47,アルベール/阿尔贝尔,…………！,…………！
-48,ユリウス/尤里乌斯,親友殿。ほら、ご覧よ。<br>レヴィオンが誇る葡萄畑を……<br>見事な絶景じゃないか。,挚友哟，请看。<br>这就是我们雷比昂引以为豪的葡萄田……<br>真是一派好风光。
+48,ユリウス/尤里乌斯,親友殿。ほら、ご覧よ。<br>レヴィオンが誇る葡萄畑を……<br>見事な絶景じゃないか。,挚友哟，请看。<br>这就是我们雷维翁引以为豪的葡萄田……<br>真是一派好风光。
 49,,<span class='scene-font-katari'>一行が歩く道の周囲には、</span><br><span class='scene-font-katari'>うららかな陽光に照らされる、</span><br><span class='scene-font-katari'>若々しい緑が広がっていた。</span>,<span class='scene-font-katari'>道路两侧是暖阳照耀下的，</span><br><span class='scene-font-katari'>辽阔的新绿色的大地。</span>
 50,ユリウス/尤里乌斯,フッ、気負うのもわかるがね。<br>もう少し余裕を持って歩くのも<br>悪くないと思わないかい？,呵，你绷着一根弦也不是不能理解。<br>不过稍微放松一点不也没什么坏处吗？
 51,ユリウス/尤里乌斯,まあ、余計なお世話だったかな？<br>父王も部下達も、君の愚直さを<br>高く評価しているのだから。,不过，可能是我多管闲事了？<br>毕竟父王也好部下们也好，<br>都很欣赏你的傻正经呢。
