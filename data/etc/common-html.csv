@@ -394,8 +394,10 @@ path,text,trans,count
 /content/detail,サブメンバー時,作为后备时,
 /content/detail,バトル登場時,战斗登场时,
 /archive/content/detail,ステータス,属性,
+/archive/content/detail,エピソード解放率,剧情解放率,
 /archive/content/detail,エピソード,剧情,
-/archive/content/detail,フェイトエピソード,Fate故事,
+/archive/content/detail,関連ストーリー,关联的故事,
+/archive/content/detail,フェイトエピソード,个人剧情,
 /content/detail,"<div class=""prt-title"">アビリティ</div>",<div class=prt-title>技能</div>,
 /detail/content/detail,トライアルキャラでは使用できないアビリティです,不能与试用角色一起使用的技能,5
 /detail/content/detail,発生条件,开始条件,4
