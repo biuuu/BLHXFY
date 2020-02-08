@@ -7,12 +7,12 @@ id,name,text,trans
 3,シエテ/希耶提,ほらぁー姬塔！<br>だから降参だって！<br>早く剣を収めてよ！,你看ー姬塔！<br>我都说了投降了！<br>你快把剑收起来吧！
 4,ルリア/露莉亚,降参ってことは……<br>もうシエテさんと<br>戦わなくてもいいんですか？,投降了也就是说……<br>已经不用和希耶提战斗了对吧？
 5,シエテ/希耶提,そうだよ！　もう姬塔が<br>強いっていうのは十分わかったからね！,就是那样哟！<br>我已经充分知道姬塔很强了！
-6,シエテ/希耶提,いやー驚いたよ！<br>まさかここまで<span class='scene-font-spword'>七星剣</span>に<br>認められてるとはね！,哎呀ー真是吓到我了！<br>没想到居然被<span class='scene-font-spword'>七星剣</span><br>认可到这种程度呢！
+6,シエテ/希耶提,いやー驚いたよ！<br>まさかここまで<span class='scene-font-spword'>七星剣</span>に<br>認められてるとはね！,哎呀ー真是吓到我了！<br>没想到居然被<span class='scene-font-spword'>七星剑</span><br>认可到这种程度呢！
 7,ビィ/碧,とか何とか言って……<br>本当は自分が負けそう<br>だったんじゃねぇのか？,嘴上这么说……<br>其实是你觉得自己快输了吧？
 8,シエテ/希耶提,ふふっ……どうかなー？<br>俺もまだ行けたけど……,呵呵……谁知道呢ー？<br>虽然我还能继续打啦……
 9,シエテ/希耶提,どっちか死んじゃってたかも<br>しれないからね？<br>今回は俺の負けってことでいいよー,可能会演变成有一方死掉的情况哦？<br>所以这次就算我输了好了ー
 10,,<span class='scene-font-katari'>相変わらず飄々とした調子で</span><br><span class='scene-font-katari'>掴みどころのないシエテ。</span>,<span class='scene-font-katari'>希耶提一如往常轻飘飘的样子，让人捉摸不透。</span>
-11,,<span class='scene-font-katari'>戦闘後、シエテは改めて</span><br><span class='scene-font-spword'>七星剣</span><span class='scene-font-katari'>の覚醒祝いを</span><br><span class='scene-font-katari'>開いてくれるのだった。</span>,<span class='scene-font-katari'>战斗之后，希耶提重新为</span><br><span class='scene-font-spword'>七星剣</span><span class='scene-font-katari'>的觉醒送上了庆贺。</span>
+11,,<span class='scene-font-katari'>戦闘後、シエテは改めて</span><br><span class='scene-font-spword'>七星剣</span><span class='scene-font-katari'>の覚醒祝いを</span><br><span class='scene-font-katari'>開いてくれるのだった。</span>,<span class='scene-font-katari'>战斗之后，希耶提重新为</span><br><span class='scene-font-spword'>七星剑</span><span class='scene-font-katari'>的觉醒送上了庆贺。</span>
 12,シエテ/希耶提,いやーめでたいね！<br>ここに全空一の剣の使い手が<br>新たに誕生したんだよ！,哎呀ー恭喜啊！<br>在这里新的全空第一的剑士诞生了呦！
 13,ビィ/碧,ったく……<br>ほんと調子の良いヤローだぜ……,真是的……<br>真是个会耍嘴皮子的家伙……
 14,ルリア/露莉亚,まぁまぁ……ビィさん。<br>誰も大きな怪我をしないで<br>良かったじゃないですか？,算了算了……碧。<br>谁都没有受什么大伤不是挺好的吗？
