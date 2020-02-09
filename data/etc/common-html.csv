@@ -395,6 +395,7 @@ path,text,trans,count
 /content/detail,サブメンバー時,作为后备时,
 /content/detail,バトル登場時,战斗登场时,
 /archive/content/detail,ステータス,属性,
+/archive/content/detail,関連キャラクター,关联角色,99
 /archive/content/detail,エピソード解放率,剧情解放率,
 /archive/content/detail,エピソード,剧情,99
 /archive/content/detail,関連ストーリー,关联的故事,99
