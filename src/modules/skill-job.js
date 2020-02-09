@@ -35,7 +35,7 @@ const replaceSkill = async (data) => {
 }
 
 const transSkill = async (data, pathname) => {
-  if (/\/party\/job\/\d+\//.test(pathname)) {
+  if (/\/party\/job_equipped\/\d+/.test(pathname)) {
     if (data.job) {
       data.job = await replaceSkill(data.job)
     }

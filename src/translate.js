@@ -63,7 +63,7 @@ const requestList = [
   ['/comic/content/index', transComicT],
   ['/comic/list/', transComicD],
   [['/npc/npc/', '/archive/npc_detail'], transNpcSkill],
-  [['/party_ability_subaction/', '/party/job/', 
+  [['/party_ability_subaction/', '/party/job_equipped/', 
     '/party/ability_list/', '/zenith/ability_list/', '/party/job_info/'], transJobSkill],
   ['/island/init', transIslandInfo],
   [['/rest/sound/mypage_voice', '/rest/sound/archive_voice'], showVoiceSubL],
