@@ -1488,7 +1488,7 @@ pop_setting_twitter_3,Twitterとの連携を認証しました。,Your Granblue 
 pop_skill_boost_1,スキルブースト,Survival Boost,技能强化
 pop_startatonce_no_ap_1,AP消費のないクエストを開始します。<br>特別な編成で挑むクエストのため<br>サポーター召喚石の選択はありません。,No AP is required for this quest.<br>Support summons aren't available here.,该任务不消耗AP。<br>您将以特殊队伍挑战该任务，无法选择支援召唤石。
 pop_treasure_title,トレジャー,Treasure,物品
-present_1,プレゼントリスト,Crate,礼物
+present_1,プレゼントリスト,Crate,礼物列表
 present_10,プレゼントの受取期限が過ぎています。,This item has expired.,该礼物已过期
 present_11,以下のプレゼントを<br>まとめて受け取りました,You picked up<br>these items.,共收取以下礼物
 present_12,召喚,Call,召唤
