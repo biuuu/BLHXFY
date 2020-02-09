@@ -1,0 +1,36 @@
+id,name,text,trans
+0-chapter_name,,挑める者の矜持,挑战者的矜持
+0-synopsis,,無謀だと知りつつも、人は何故挑み続けるのか。ウーノは悩み続ける。ルリアは、姬塔が父を探しにイスタルシアを目指し旅しているのも同じことだと例に出すも、ウーノは腑に落ちない。その夜、騎空艇の甲板で煩悶するウーノに、天星器・一伐槍が怪しく語りかけてくる。ウーノは一伐槍と戦いを通じて語り合おうと決意する。,即使知道那是不明智的，为什么人还是要继续挑战呢。乌诺继续烦恼着。露莉亚举出了姬塔为了寻找父亲而去往伊斯塔鲁西亚的例子，乌诺还是不能接受。那天晚上，天星器・一伐枪可疑地和在骑空艇甲板上心烦意乱的乌诺搭话。乌诺决定和一伐枪以战对话。
+0,,<span class='scene-font-katari'>依然としてウーノの悩みは晴れない。</span>,<span class='scene-font-katari'>乌诺依旧在烦恼着。</span>
+1,,<span class='scene-font-katari'>全空最強であること、それこそが</span><br><span class='scene-font-katari'>脅威たらしめているのであり、</span><br><span class='scene-font-katari'>それこそが戦いを避ける唯一の方法。</span>,<span class='scene-font-katari'>全空最强正是能够成为威胁，而且避免战斗的唯一方法。</span
+2,,<span class='scene-font-katari'>そう信じてきた彼にとって、</span><br><span class='scene-font-katari'>無謀と知りつつも挑み続ける</span><br><span class='scene-font-katari'>非合理な行為は受容れがたかった。</span>,<span class='scene-font-katari'>因此对于一直如此相信着的他来说，明知不明智还继续挑战，是不合理的行为，他无法理解。</span>
+3,ビィ/碧,なんだよ、ひげのおっさん、<br>まだ悩んでんのか？,怎么了，胡子大叔，你还在烦恼吗？
+4,ウーノ/乌诺,ふむ……<br>いささか気になってしまってね。,呼姆……有点在意呢。
+5,ウーノ/乌诺,何故、人は無謀と知りつつも<br>挑み続けるものなのだろうか……,为什么人会明知不明智还继续挑战呢……
+6,ウーノ/乌诺,どうにも私には理解しがたい……<br>不可解でならないんだ。,我无论如何都不能理解……真的非常不理解。
+7,ルリア/露莉亚,うーん、そうでしょうか？,嗯——是这样吗？
+8,ウーノ/乌诺,ほう……<br>ルリア、君はどう思うのかな？,嚯……露莉亚，你是怎么想的呢？
+9,ルリア/露莉亚,あ、いえ……<br>難しいことは<br>解らないんですけど……,啊，不……复杂的事我也不懂……
+10,ルリア/露莉亚,でも、ほら、姬塔だって<br>そうじゃないですか。,但是你看，姬塔不也是这样吗。
+11,ルリア/露莉亚,<span class='scene-font-spword'>イスタルシア</span>にお父さんを探しに行く<br>ことだって、すごく難しいことだと<br>思うんです。,我觉得为了寻找父亲而去<span class='scene-font-spword'>伊斯塔鲁西亚</span>是很困难的一件事。
+12,ビィ/碧,だよなぁ、ルリアの言うとおりだぜ。<br>ひげのおっさんみてーに考えてたら、<br>そんな危険なことしねーもんな。,是啊，正如露莉亚所说。如果像胡子大叔那么想的话，就不会去做那种事了。
+13,ウーノ/乌诺,……なるほど、確かに。,……原来如此，确实啊。
+14,ルリア/露莉亚,ウーノさん、考えすぎですよ。,乌诺想得太复杂了。
+15,ビィ/碧,そうだぞ、おっさん、<br>ちょっと気にしすぎだぜ。,是啊，大叔，你想得太复杂了呢。
+16,ウーノ/乌诺,ふむ……,呼姆……
+17,,<span class='scene-font-katari'>こうして、ウーノは、</span><br><span class='scene-font-katari'>ルリアとビィの前で</span><br><span class='scene-font-katari'>納得したかのような素振りを見せる。</span>,<span class='scene-font-katari'>就这样，虽然乌诺在露莉亚和碧的面前表现出接受的样子。</span>
+18,,<span class='scene-font-katari'>しかし、それで心の靄が</span><br><span class='scene-font-katari'>晴れた訳では無く、</span><br><span class='scene-font-katari'>依然として彼は思い悩んでいた。</span>,<span class='scene-font-katari'>但其实他心里的疑云仍未散去，依旧在烦恼着。</span>
+19,,<span class='scene-font-katari'>そして、夜になる──</span>,<span class='scene-font-katari'>然后，到了晚上——</span>
+23,,<span class='scene-font-katari'>ウーノが甲板で夜風に吹かれながら</span><br><span class='scene-font-katari'>思案していると、どこからともなく</span><br><span class='scene-font-katari'>不思議な声が聞こえてくる。</span>,<span class='scene-font-katari'>乌诺在甲板上吹着夜风思索着，就在这时，他听到了不知从哪传来的不可思议的声音。</span>
+25,？？？,<span class='scene-font-gray'>……愚かなる者よ、我を見よ……</span>,<span class='scene-font-gray'>……愚蠢的人啊，看看我吧……</span>
+26,ウーノ/乌诺,……？<br>こんな夜更けに、一体誰が……？,……？这么晚了，到底是谁……？
+33,,――……,——……
+34,ウーノ/乌诺,ほう……！　これは驚いた。<br><span class='scene-font-spword'>一伐槍</span>……<br>今のは君の声だと言うのか？,嚯……！这真是吓一跳了。是你在说话吗……<span class='scene-font-spword'>一伐枪</span>？
+36,一伐槍,<span class='scene-font-gray'>……悩める者よ、答えてやろう……</span>,<span class='scene-font-gray'>……烦恼之人啊，回答我……</span>
+37,一伐槍,<span class='scene-font-gray'>さあ、我が語りに応えよ……</span><br><span class='scene-font-gray'>我が声に耳を傾けよ……</span>,<span class='scene-font-gray'>来，回应我的话语……倾听我的声音吧……</span>
+38,ウーノ/乌诺,私が煩悶とする時を<br>狙い澄ましたかの如く<br>語りかけるとは……,故意瞄准了我心烦意乱的时候找我搭话……
+39,ウーノ/乌诺,まるであの時、私から全てを奪った、<br>盗賊のように不躾な声だ。,简直就像那时候，夺走我一切的盗贼那般无礼的声音……
+40,ウーノ/乌诺,…………,……
+42,一伐槍,<span class='scene-font-gray'>ふふふ、まあいい。</span><br><span class='scene-font-gray'>では、少し語ってみようか。</span>,<span class='scene-font-gray'>呵呵，罢了。那么来说说话吧。</span>
+info,,,scene_ult_chr137_q3_s10
+译者,,,
