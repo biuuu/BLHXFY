@@ -12,7 +12,7 @@ id,name,text,trans
 8,ルリア/露莉亚,なんでも、この珍味大全に載っている<br>幻とされているものの中でも<br>かなりレアな食材だそうですよ。,在这本美食大全记载的诸多幻之食材之中也是相当稀有的食材哟！
 9,ビィ/碧,へぇ～<br>幻の食材か～そんなの<br>手に入ったらすげぇなぁ！,嘿~幻之食材啊~要是能入手这玩意的话可就厉害了啊！
 10,ルリア/露莉亚,世界にはこんなに沢山の<br>珍しい食材があるんですね！<br>三大珍味なんて物も……興味深いです！,世界上原来还有这么多稀有的食材啊！我对其中被叫做三大珍味的东西特别感兴趣！
-11,,<span class='scene-font-katari'>姬塔チームの手元にある</span><br><span class='scene-font-katari'>食材は、食料庫に残っていた</span><br><span class='scene-font-katari'>『卵』と『調味料』のみ。</span>,<span class='scene-font-katari'>姬塔兰队手边的食材，只有储藏库里剩下的鸡蛋和调味料而已。</span>
+11,,<span class='scene-font-katari'>姬塔チームの手元にある</span><br><span class='scene-font-katari'>食材は、食料庫に残っていた</span><br><span class='scene-font-katari'>『卵』と『調味料』のみ。</span>,<span class='scene-font-katari'>姬塔队手边的食材，只有储藏库里剩下的鸡蛋和调味料而已。</span>
 12,,<span class='scene-font-katari'>手元にあるそれらの食材で</span><br><span class='scene-font-katari'>何が作れるかを</span><br><span class='scene-font-katari'>調べていたのだが──</span>,<span class='scene-font-katari'>虽然说是在调查手边的材料能够做些什么料理，但是——</span>
 13,ビィ/碧,卵だけじゃそもそも足りねぇよな。<br>本ばっか読んでても進まねぇし<br>とりあえず、食材調達に行こうぜ！,说到底只有蛋的话也不够做什么啊，别在这里看书了，总之先去把食材的问题解决吧！
 14,ルリア/露莉亚,そうですね。でも……<br>大人様ランチを作るのに必要な<br>大人っぽい食材って何でしょう？,说的也是。不过……做大人午餐需要的大人风格的食材是什么呢？
@@ -40,8 +40,8 @@ id,name,text,trans
 40,ビィ/碧,やべぇ！　<br>姬塔の顔真っ赤だ！,糟了！姬塔的脸好红！
 41,,<span class='scene-font-katari'>唇、口内すべてを焼き尽くすように</span><br><span class='scene-font-katari'>容赦なく襲い掛かる痛み。</span>,<span class='scene-font-katari'>仿佛要将嘴唇，口腔全部烧成灰的痛感毫不留情地袭来。</span>
 42,ルリア/露莉亚,はわわっ！<br>お、お水、お水！！<br>これ飲んでください、姬塔！！,哈哇哇！水，水！！快把这个喝掉，姬塔！！
-43,,<span class='scene-font-katari'>余りの辛さに涙を浮かべ激辛に悶絶する</span><br><span class='scene-font-katari'>姬塔にオロオロすることしか</span><br><span class='scene-font-katari'>できないビィとルリア。</span>,<span class='scene-font-katari'>面对着因为太辣而痛苦不堪、眼泪直冒的姬塔，碧和露莉娅除了手忙脚乱以外什么也做不到。</span>
-48,ビィ/碧,わ、悪ぃ姬塔、<br>そんな辛いとは思わなくて……！,抱，抱歉啊古兰，没想到会这么辣……！
+43,,<span class='scene-font-katari'>余りの辛さに涙を浮かべ激辛に悶絶する</span><br><span class='scene-font-katari'>姬塔にオロオロすることしか</span><br><span class='scene-font-katari'>できないビィとルリア。</span>,<span class='scene-font-katari'>面对着因为太辣而痛苦不堪、眼泪直冒的姬塔，碧和露莉亚除了手忙脚乱以外什么也做不到。</span>
+48,ビィ/碧,わ、悪ぃ姬塔、<br>そんな辛いとは思わなくて……！,抱，抱歉啊姬塔，没想到会这么辣……！
 49,,<span class='scene-font-katari'>姬塔は過剰な辛さが</span><br><span class='scene-font-katari'>生み出すのは、辛味ではなく</span><br><span class='scene-font-katari'>痛みであることを学んだ。</span>,<span class='scene-font-katari'>姬塔学到了一件事，过剩的辣味得到的不是辣味，而是疼痛。</span>
 50,ルリア/露莉亚,少し落ち着きましたか……？,稍微好一些了吗……？
 51,,<span class='scene-font-katari'>激辛を乗り越えた先にある勇気を</span><br><span class='scene-font-katari'>手に入れた姬塔は、どこか</span><br><span class='scene-font-katari'>誇らしげな顔を浮かべるのだった。</span>,<span class='scene-font-katari'>有勇气跨越了变态辣的姬塔，脸上不知为何浮现出了自豪的表情。</span>
