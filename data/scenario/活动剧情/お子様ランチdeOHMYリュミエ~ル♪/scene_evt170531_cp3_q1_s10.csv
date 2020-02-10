@@ -23,7 +23,7 @@ id,name,text,trans
 26,ルリア/露莉亚,ひゃっ！　なんですか？　<br>もう、ビィさん、<br>イタズラしないでくださいよ～,呀！做什么啊？真是的，碧，请别做这样的恶作剧啦~
 27,ビィ/碧,なんだってぇ！？<br>オイラ何もしてねぇよ！,你说啥！？我可什么都没做啊！
 28,ルリア/露莉亚,え？<br>でも今、確かに後ろから<br>髪を引っ張られたような……,欸？但是刚才确实有人从后面拉我的头发……
-29,？？？,ウキキキッ！,呜嘎嘎嘎！
+29,？？？,ウキキキッ！,呜吱吱吱！
 32,ビィ/碧,いてっ！？　なんだぁ！？<br>誰だ、バナナの皮をオイラに<br>ぶつけたのは！,啊痛！？搞啥！？谁啊，是谁用香蕉皮砸人！
 33,ルリア/露莉亚,姬塔、何かいます！<br>注意してくださ──,姬塔，好像有什么东西在！请小心一——
 35,おサル,<span class='scene-font-4'>ウキキキキ！</span>,<span class='scene-font-4'>呜吱吱吱吱！</span>
@@ -46,6 +46,6 @@ id,name,text,trans
 53,おサルの群れ,ウキャキャキャ！<br>ウキャキャキャー！！,呜吱吱！呜吱吱——！
 54,ビィ/碧,<span class='scene-font-4'>うわあああああ！</span>,<span class='scene-font-4'>唔哇啊啊啊啊啊！</span>
 55,ルリア/露莉亚,<span class='scene-font-4'>きゃあああああ！</span>,<span class='scene-font-4'>呀啊啊啊啊啊！</span>
-56,,<span class='scene-font-katari'>片腕にバナナを抱えながら</span><br><span class='scene-font-katari'>ルリアの手を引いて、必死の形相で</span><br><span class='scene-font-katari'>逃げ回る姬塔なのだった。</span>,<span class='scene-font-katari'>一只手抱着香蕉，另一只手抓着露莉娅，姬塔拼死总算是逃了出来。</span>
+56,,<span class='scene-font-katari'>片腕にバナナを抱えながら</span><br><span class='scene-font-katari'>ルリアの手を引いて、必死の形相で</span><br><span class='scene-font-katari'>逃げ回る姬塔なのだった。</span>,<span class='scene-font-katari'>一只手抱着香蕉，另一只手抓着露莉亚，姬塔拼死总算是逃了出来。</span>
 info,,,scene_evt170531_cp3_q1_s10
 译者,,,
