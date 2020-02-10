@@ -1,0 +1,51 @@
+id,name,text,trans
+0-chapter_name,,第3話 お料理開始であります！,第3话 料理开始！
+0-synopsis,,サラダの改善点を念頭に置き、次に作る料理に付いて話し合う姬塔達。そこで珍味大全という本の中から“バナナフリット”という料理を見つける。<span class='scene-font-place'>ポート・ブリーズ</span>で流行しており、他空域でも家庭料理として親しまれていることを知った姬塔達は、甘いものが好きなシャルロッテにぴったりだと考え、バナナを調達しに向かうのだった。,考虑完沙拉的改良后，姬塔他们开始讨论接下来要做的料理。他们看到了珍味大全中名为“炸香蕉”的料理。是在<span class='scene-font-place'>微风港群岛</span>也很流行，其他空域的人们也会做的一道家常菜。姬塔他们认为这很适合喜欢甜食的夏洛特，便动身前去取得香蕉。
+0,ビィ/碧,とりあえずサラダの改善点はわかった。<br>けど、大人様ランチには<br>まだ他のおかずも必要だよな。,总之沙拉的改良方法是知道了。但是大人午餐还要其他的菜吧。
+1,ビィ/碧,他にどんな料理を作るかだけど、<br>ルリア、なんかいいのあったか？,其他的料理做个啥好呢，露莉亚，你有什么想法吗？
+2,ルリア/露莉亚,はい！　ビィさん、姬塔、<br>これなんてどうですか？<br>とっても美味しそうなんです！,有！碧，古兰，我们做这个怎么样？肯定会很好吃的！
+3,,<span class='scene-font-katari'>次なる食材と料理を話し合う中、</span><br><span class='scene-font-katari'>ルリアがお気に入りの本、珍味大全を</span><br><span class='scene-font-katari'>見ながら興奮気味に告げる。</span>,<span class='scene-font-katari'>在讨论下一道料理与食材的过程中，露莉亚看着自己最中意的那本《美食大全》兴奋地说道。</span>
+4,ビィ/碧,どれどれ？<br>え～と、なんだこれ、<br>バナナフリットぉ？,哪个哪个？欸，这啥啊……炸香蕉？
+5,ルリア/露莉亚,他の空域では家庭でよく食べられる家庭<br>料理だそうですよ。<span class='scene-font-place'>ポート・ブリーズ</span>で<br>最近流行なんだとか！,似乎是其他空域的人也会做的家常菜，<span class='scene-font-place'>微风港群岛</span>那边最近也流行起来了呢！
+6,ビィ/碧,へぇ～<br>何が流行るかわかんねぇもんだな。,嘿~流行这东西真是搞不懂啊。
+7,ルリア/露莉亚,ねぇ、姬塔、シャルロッテさん<br>甘い物も大好きだって言ってましたし、<br>バナナのお料理も作ってみませんか？,我说古兰，夏洛特她说过最喜欢甜的东西了，不如试试用香蕉来做料理吧？
+8,ルリア/露莉亚,この辺りではなかなか食べられませんし<br>大人の女性が嬉しい特別感というのも<br>出せると思います！,这附近也没什么机会能吃到，我觉得这也能算是成熟女性喜爱的那个“特别感”！
+9,ビィ/碧,ん～まぁ、オイラはいいと思うぜ！<br>他のやつらが作らねぇ様なモン<br>作って驚かせるのも面白ぇしな！,嗯~嘛，我也觉得不错噢！做个其他人做不出来的东西吓人一跳不是也很有意思嘛！
+10,,<span class='scene-font-katari'>姬塔もその提案に賛成する。</span>,<span class='scene-font-katari'>古兰也赞成这个方案。</span>
+11,ビィ/碧,おっしゃ、次の料理は決まりだな！<br>えーっと、バナナの名産は<br><span class='scene-font-place'>アウギュステ</span>だってよ！,好咧，下一道料理就做这个了！我看看，有名的香蕉产地是……<span class='scene-font-place'>奥格斯提列岛</span>！
+12,,<span class='scene-font-katari'>そうして、姬塔達は、</span><br><span class='scene-font-katari'>食材の宝庫と呼ばれる、</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>の</span><br><span class='scene-font-katari'>密林へと向かうのだった。</span>,<span class='scene-font-katari'>就这样，古兰一行人动身前往被称为食材宝库的</span><span class='scene-font-place'>奥格斯提列岛</span><span class='scene-font-katari'>上的密林。</span>
+18,ビィ/碧,よおし！　<br>バナナはこんなもんか！,好咧！香蕉用这个就行了吧！
+19,ルリア/露莉亚,そうですね！<br>はわ～沢山採りましたね！<br>あまーい香りがします！,应该是吧！哇~找到了好多啊！有一股好~香的味道呢！
+20,ビィ/碧,丁度食べごろか？<br>このまま食いてぇくらいだな。,要尝一尝吗？就这样吃一根也没关系吧。
+21,,<span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>の密林には</span><br><span class='scene-font-katari'>至る所にバナナの木が自生しており</span><br><span class='scene-font-katari'>年中を通して実を付けている。</span>,<span class='scene-font-place'>奥格斯提列岛</span><span class='scene-font-katari'>上的密林，那里的香蕉树一年四季都结着丰硕的果实。</span>
+22,ルリア/露莉亚,運ぶのが少し大変ですけど、<br>騎空艇まで持って行ければ──,虽然感觉搬起来很麻烦，但只是运到骑空艇上的话——
+23,？？？,ウキッ！,呜嘎！
+26,ルリア/露莉亚,ひゃっ！　なんですか？　<br>もう、ビィさん、<br>イタズラしないでくださいよ～,呀！做什么啊？真是的，碧，请别做这样的恶作剧啦~
+27,ビィ/碧,なんだってぇ！？<br>オイラ何もしてねぇよ！,你说啥！？我可什么都没做啊！
+28,ルリア/露莉亚,え？<br>でも今、確かに後ろから<br>髪を引っ張られたような……,欸？但是刚才确实有人从后面拉我的头发……
+29,？？？,ウキキキッ！,呜嘎嘎嘎！
+32,ビィ/碧,いてっ！？　なんだぁ！？<br>誰だ、バナナの皮をオイラに<br>ぶつけたのは！,啊痛！？搞啥！？谁啊，是谁用香蕉皮砸人！
+33,ルリア/露莉亚,姬塔、何かいます！<br>注意してくださ──,古兰，好像有什么东西在！请小心一——
+35,おサル,<span class='scene-font-4'>ウキキキキ！</span>,<span class='scene-font-4'>呜吱吱吱吱！</span>
+36,ルリア/露莉亚,きゃあっ！<br>って、お、おサルさんです！,呀！啊，是，是猴子啊！
+37,おサル,<span class='scene-font-4'>ウホホホホ！</span>,<span class='scene-font-4'>呜吼吼吼吼！</span>
+38,,<span class='scene-font-katari'>バナナを抱えたルリアを庇い</span><br><span class='scene-font-katari'>前に出た姬塔を</span><br><span class='scene-font-katari'>サルは警戒している。</span>,<span class='scene-font-katari'>为了保护抱着香蕉的露莉亚，古兰站在了露莉娅身前警戒地看着猴子。</span>
+39,ビィ/碧,あいつ、オイラ達が<br>集めたバナナを狙ってるぞ！,那家伙，盯上了咱们收集的香蕉啊！
+40,,<span class='scene-font-katari'>サルと姬塔、</span><br><span class='scene-font-katari'>にらみ合う両者。</span>,<span class='scene-font-katari'>猴子和古兰都死死的盯着对方。</span>
+41,おサル,キキ……キキキキ！,吱吱……吱吱吱吱！
+42,,<span class='scene-font-katari'>怯んだ様子のサルに姬塔は</span><br><span class='scene-font-katari'>慈愛の心を見せ、持っていたバナナの</span><br><span class='scene-font-katari'>中から１つをサルに渡した。</span>,<span class='scene-font-katari'>看着猴子害怕的样子，古兰心生怜悯，从拿着的香蕉里折了一根递给对方。</span>
+43,おサル,ウッキー！<br>ウキキキキッ！,呜吱——！呜吱吱吱吱！
+44,ビィ/碧,お、おい、こいつ、<br>ちょっと様子が変だぞ……,啊，喂，这家伙，样子好像有点奇怪诶……
+46,おサルの群れ,<span class='scene-font-4'>ウキャキャ！</span><br><span class='scene-font-4'>キキキキキ！！</span>,<span class='scene-font-4'>呜吱吱！吱吱吱吱吱！</span>
+47,おサルの群れ,<span class='scene-font-4'>ウホウホウホッ！</span><br><span class='scene-font-4'>ウホホウホホッ！</span>,<span class='scene-font-4'>呜吼呜吼呜吼！呜吼吼呜吼吼！</span>
+48,ルリア/露莉亚,きゃあ！,呀！
+49,ビィ/碧,やべぇ！<br>仲間を呼ばれたぞ！,糟了，这家伙把同伴都叫来了啊！
+50,,<span class='scene-font-katari'>姬塔達を囲むように</span><br><span class='scene-font-katari'>サルの群れが姿を現す。</span>,<span class='scene-font-katari'>不知从何处冒出来的猴子们把古兰一行人团团围住了。</span>
+51,ビィ/碧,これは……やべぇぞ……<br>逃げろ！！！,这可……不妙啊……快跑啊！！！
+52,,<span class='scene-font-katari'>ビィの掛け声と共に駆け出し</span><br><span class='scene-font-katari'>騎空艇へと一目散に逃げる</span><br><span class='scene-font-katari'>姬塔達。</span>,<span class='scene-font-katari'>碧的话音刚落，古兰一行人便朝着骑空艇的方向一溜烟的狂奔出去。</span>
+53,おサルの群れ,ウキャキャキャ！<br>ウキャキャキャー！！,呜吱吱！呜吱吱——！
+54,ビィ/碧,<span class='scene-font-4'>うわあああああ！</span>,<span class='scene-font-4'>唔哇啊啊啊啊啊！</span>
+55,ルリア/露莉亚,<span class='scene-font-4'>きゃあああああ！</span>,<span class='scene-font-4'>呀啊啊啊啊啊！</span>
+56,,<span class='scene-font-katari'>片腕にバナナを抱えながら</span><br><span class='scene-font-katari'>ルリアの手を引いて、必死の形相で</span><br><span class='scene-font-katari'>逃げ回る姬塔なのだった。</span>,<span class='scene-font-katari'>一只手抱着香蕉，另一只手抓着露莉娅，古兰抱着拼了命的决心，总算是逃了出来。</span>
+info,,,scene_evt170531_cp3_q1_s10
+译者,,,
