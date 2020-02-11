@@ -29,7 +29,7 @@ id,name,text,trans
 35,おサル,<span class='scene-font-4'>ウキキキキ！</span>,<span class='scene-font-4'>呜吱吱吱吱！</span>
 36,ルリア/露莉亚,きゃあっ！<br>って、お、おサルさんです！,呀！啊，是，是猴子啊！
 37,おサル,<span class='scene-font-4'>ウホホホホ！</span>,<span class='scene-font-4'>呜吼吼吼吼！</span>
-38,,<span class='scene-font-katari'>バナナを抱えたルリアを庇い</span><br><span class='scene-font-katari'>前に出た姬塔を</span><br><span class='scene-font-katari'>サルは警戒している。</span>,<span class='scene-font-katari'>为了保护抱着香蕉的露莉亚，姬塔站在了露莉娅身前警戒地看着猴子。</span>
+38,,<span class='scene-font-katari'>バナナを抱えたルリアを庇い</span><br><span class='scene-font-katari'>前に出た姬塔を</span><br><span class='scene-font-katari'>サルは警戒している。</span>,<span class='scene-font-katari'>为了保护抱着香蕉的露莉亚，姬塔站在了露莉亚身前警戒地看着猴子。</span>
 39,ビィ/碧,あいつ、オイラ達が<br>集めたバナナを狙ってるぞ！,那家伙，盯上了咱们收集的香蕉啊！
 40,,<span class='scene-font-katari'>サルと姬塔、</span><br><span class='scene-font-katari'>にらみ合う両者。</span>,<span class='scene-font-katari'>猴子和姬塔都死死的盯着对方。</span>
 41,おサル,キキ……キキキキ！,吱吱……吱吱吱吱！
@@ -46,6 +46,6 @@ id,name,text,trans
 53,おサルの群れ,ウキャキャキャ！<br>ウキャキャキャー！！,呜吱吱！呜吱吱——！
 54,ビィ/碧,<span class='scene-font-4'>うわあああああ！</span>,<span class='scene-font-4'>唔哇啊啊啊啊啊！</span>
 55,ルリア/露莉亚,<span class='scene-font-4'>きゃあああああ！</span>,<span class='scene-font-4'>呀啊啊啊啊啊！</span>
-56,,<span class='scene-font-katari'>片腕にバナナを抱えながら</span><br><span class='scene-font-katari'>ルリアの手を引いて、必死の形相で</span><br><span class='scene-font-katari'>逃げ回る姬塔なのだった。</span>,<span class='scene-font-katari'>一只手抱着香蕉，另一只手抓着露莉亚，姬塔拼死总算是逃了出来。</span>
+56,,<span class='scene-font-katari'>片腕にバナナを抱えながら</span><br><span class='scene-font-katari'>ルリアの手を引いて、必死の形相で</span><br><span class='scene-font-katari'>逃げ回る姬塔なのだった。</span>,<span class='scene-font-katari'>一只手抱着香蕉，另一只手抓着露莉亚，姬塔总算是拼死逃了出来。</span>
 info,,,scene_evt170531_cp3_q1_s10
 译者,,,
