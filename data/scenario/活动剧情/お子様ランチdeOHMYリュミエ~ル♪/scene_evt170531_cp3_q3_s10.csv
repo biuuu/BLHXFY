@@ -1,9 +1,9 @@
 id,name,text,trans
 0-chapter_name,,第3話 お料理開始であります！,第3话 料理开始！
 0-synopsis,,バウタオーダは買い出しの途中、肉屋の店主に勧められた食材で何が作れるかを思案していると、何やら騒がしい声を聞く。声のする酒場へ向かうと、ならず者が、客と店員を人質にして暴れていた。その現場でバウタオーダは、ブリジールとコーデリアに出くわし、現れたシャルロッテが見事な剣捌きでならず者を追いつめるのを共に見守るのだった。,鲍特欧达外出购物途中，考虑着被肉铺摊主推荐的肉能做什么，突然听到了骚乱声。他循声找到事发的酒馆，看到暴徒赖劫持着客人和店员正在闹事。在那里，鲍特欧达遇见了科迪莉亚和布里吉尔，他们一起看着出现的夏洛特用高超的剑技把暴徒逼到绝境。
-0,,<span class='scene-font-katari'>少し時間は遡り、</span><br><span class='scene-font-katari'>一方のバウタオーダは──</span>,<span class='scene-font-katari'>把时针稍微往前拨动些许，鲍塔欧达这边——</span>
+0,,<span class='scene-font-katari'>少し時間は遡り、</span><br><span class='scene-font-katari'>一方のバウタオーダは──</span>,<span class='scene-font-katari'>把时针稍微往前拨动些许，鲍特欧达这边——</span>
 1,バウタオーダ/鲍特欧达,新鮮な野菜がこんなに手に入るとは。<br>よい時間に行けましたね。,没想到能买到这么新鲜的蔬菜，这么费时也值得了。
-2,,<span class='scene-font-katari'>青果店で目当ての買い物を終え、</span><br><span class='scene-font-katari'>次なる食材を求めて街をゆく。</span>,<span class='scene-font-katari'>在蔬果店买完东西之后，鲍塔欧达为了购买下一项食材而走上了街道。</span>
+2,,<span class='scene-font-katari'>青果店で目当ての買い物を終え、</span><br><span class='scene-font-katari'>次なる食材を求めて街をゆく。</span>,<span class='scene-font-katari'>在蔬果店买完东西之后，鲍特欧达为了购买下一项食材而走上了街道。</span>
 3,,<span class='scene-font-katari'>そろそろ昼時が近いこともあり</span><br><span class='scene-font-katari'>露店が立ち並ぶ通りは、</span><br><span class='scene-font-katari'>次第に活気づき始めていた。</span>,<span class='scene-font-katari'>已经快到中午了，并排耸立着的店铺也一个接一个的变得热闹起来。</span>
 4,バウタオーダ/鲍特欧达,こんにちは。<br>赤身肉を探しているのですが、<br>何かございますか？,你好，我想买点瘦肉，请问有什么可推荐的吗？
 5,肉屋の店主,いらっしゃい！<br>お兄さん、良いときに来たね！　<br>この仔牛はさっき絞めたばかりだよ。,欢迎光临！老哥您可真会挑时候！这头小牛可是刚宰的，新鲜着呢。
@@ -11,7 +11,7 @@ id,name,text,trans
 7,バウタオーダ/鲍特欧达,ふむ、そうですか……<br>仔牛……,嗯，这样啊……小牛……
 8,バウタオーダ/鲍特欧达,<span class='scene-font-kokoro'>（粗く挽いてハンバーグにすれば、</span><br><span class='scene-font-kokoro'>口いっぱいに広がる肉汁と軽やかな</span><br><span class='scene-font-kokoro'>口当たりが食欲をかき立てる……）</span>,<span class='scene-font-kokoro'>（如果是厚切汉堡肉的话，在嘴里扩散开来的肉汁的香味和柔软的口感应该能迅速的唤起食欲……）</span>
 9,バウタオーダ/鲍特欧达,<span class='scene-font-kokoro'>（味付けはシンプルがいい。</span><br><span class='scene-font-kokoro'>肉の旨味を味わうために香辛料は</span><br><span class='scene-font-kokoro'>最低限に留めて、肉の味を楽しむ……）</span>,<span class='scene-font-kokoro'>（调味只选用最简单的就好。为了体现出肉本身的风味香料也只加最基本的程度，好让人能沉浸在肉的味道之中……）</span>
-10,バウタオーダ/鲍特欧达,<span class='scene-font-kokoro'>（付け合わせはなくてもいいくらいだが</span><br><span class='scene-font-kokoro'>シャルロッテ団長に必要な栄養を</span><br><span class='scene-font-kokoro'>考慮すれば緑も添えたいところ……）</span>,<span class='scene-font-kokoro'>（虽然不加任何装饰也可以，但考虑到夏洛特团长所需的营养在内，还是要加些绿色作为点缀……）</span>
+10,バウタオーダ/鲍特欧达,<span class='scene-font-kokoro'>（付け合わせはなくてもいいくらいだが</span><br><span class='scene-font-kokoro'>シャルロッテ団長に必要な栄養を</span><br><span class='scene-font-kokoro'>考慮すれば緑も添えたいところ……）</span>,<span class='scene-font-kokoro'>（虽然不加任何装饰也可以，但b把夏洛特团长所需的营养也考虑在内，还是要加些绿色作为点缀……）</span>
 11,バウタオーダ/鲍特欧达,"ふ～～～～～～～む…… ",嗯~~~~~~~~嗯……
 12,バウタオーダ/鲍特欧达,もしくは、薄くたたいて<br>カツレツにしてもいい……?,或者说还是应该切薄点做成吉列肉饼比较好……？
 13,肉屋の店主,はい？,啊？
