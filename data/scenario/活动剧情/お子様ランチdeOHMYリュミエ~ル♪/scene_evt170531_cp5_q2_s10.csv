@@ -1,0 +1,43 @@
+id,name,text,trans
+0-chapter_name,,第5話 スパイ作戦、であります！,第5话 间谍作战！
+0-synopsis,,バウタオーダのキッチンへとやって来た姬塔達は、ドアの隙間からバウタオーダの様子を偵察する。そんな姬塔達の様子に気付いたバウタオーダは微笑ましく思い、気づかぬ振りをしながらも、何を使い何を料理しているのか、姬塔達に自分の手の内を明かし、大人の余裕を見せつけるのだった。,来到鲍特欧达的厨房的姬塔他们，通过门缝侦查鲍特欧达的样子。察觉了的鲍特欧达觉得姬塔他们的行为很可爱，假装没发现还让姬塔他们看清自己的用材和做法，充分展现了大人的余裕。
+1,,<span class='scene-font-katari'>バウタオーダが料理をしている</span><br><span class='scene-font-katari'>場所へとやって来た３人。</span>,<span class='scene-font-katari'>3人来到了鲍塔欧达准备料理的地方。</span>
+2,ビィ/碧,おっドアが開いてるぜ！<br>ここから覗いてみるか……！,哦，门好像开着呢！就在这儿偷看吧……！
+3,ルリア/露莉亚,そうですね……！,说的也是……！
+4,ルリア/露莉亚,こっそり、こっそり……,悄悄的，悄悄的……
+5,ビィ/碧,こっそり、こっそり……,悄悄的，悄悄的……
+6,,<span class='scene-font-katari'>３人は半開きになった</span><br><span class='scene-font-katari'>ドアと壁の間から、</span><br><span class='scene-font-katari'>中の様子をうかがう。</span>,<span class='scene-font-katari'>3人趴在半开的门旁偷偷观察着房间里的样子。</span>
+7,バウタオーダ/鲍特欧达,♪～♪♪～<br>♪♪～～♪～,♪~♪♪~♪♪~~♪
+9,,<span class='scene-font-katari'>そこには、鼻歌交じりに</span><br><span class='scene-font-katari'>食材を包丁でたたく</span><br><span class='scene-font-katari'>バウタオーダの姿があった。</span>,<span class='scene-font-katari'>在房间里的是一边用鼻子哼着歌一边用菜刀处理着食材的鲍特欧达。</span>
+10,ビィ/碧,なっ！？<br>おっさん歌うたってるぜ！,啥！？大叔竟然在哼歌吗！
+11,ルリア/露莉亚,はわっ！<br>楽しそうです～！　ふふっ！,哈哇！好像挺开心的呢~！呵呵！
+12,,<span class='scene-font-katari'>調理スペースには</span><br><span class='scene-font-katari'>買い込まれた食材が</span><br><span class='scene-font-katari'>所狭しと並べられている。</span>,<span class='scene-font-katari'>买来的食材在料理台上满满当当地摆放着。</span>
+13,ビィ/碧,んんん？<br>何を刻んでんだ？<br>よく見えねぇな……,嗯嗯嗯？都切了些什么啊？这样子看不清楚啊……
+14,ルリア/露莉亚,はわわ……<br>バウタオーダさん、<br>沢山買い物してますね！,哈哇哇……鲍特欧达买了好多东西啊！
+15,バウタオーダ/鲍特欧达,ん？<br><span class='scene-font-kokoro'>（……おや、可愛らしい頭が３つ、</span><br><span class='scene-font-kokoro'>覗いてますね……）</span>,嗯？<br><span class='scene-font-kokoro'>（……哎呀，有3个可爱的小脑袋在偷看呢……）</span>
+16,,<span class='scene-font-katari'>半開きになったドアの隙間から、</span><br><span class='scene-font-katari'>ビィとルリアと姬塔の</span><br><span class='scene-font-katari'>コソコソと頭を寄せ合う姿が覗く。</span>,<span class='scene-font-katari'>半开着的门与墙壁的缝隙之间，碧、姬塔和露莉亚偷偷摸摸的把头伸出来偷看着。</span>
+17,バウタオーダ/鲍特欧达,<span class='scene-font-kokoro'>（気づかれないようにしているので</span><br><span class='scene-font-kokoro'>あれば、私もそのように</span><br><span class='scene-font-kokoro'>振る舞わないといけませんね……）</span>,<span class='scene-font-kokoro'>（这样的话那我得装成没发现他们的样子才行啊……）</span>
+18,,<span class='scene-font-katari'>３人のスパイ活動を微笑ましく</span><br><span class='scene-font-katari'>思ったバウタオーダは</span><br><span class='scene-font-katari'>そのまま様子を見ることにした。</span>,<span class='scene-font-katari'>鲍塔欧达微笑着想着身后那3人的“间谍活动”，若无其事地继续着。</span>
+19,バウタオーダ/鲍特欧达,うーん。この仔牛の肉ですが……<br>半分はもう少し荒めに<br>ミンチすることにしましょう。,嗯。这个小牛的肉……这半边就再切的碎一些吧。
+20,,<span class='scene-font-katari'>バウタオーダはわざとドアの方に</span><br><span class='scene-font-katari'>見えやすいように、食材を持ち上げ、</span><br><span class='scene-font-katari'>大きな独り言を話しはじめる。</span>,<span class='scene-font-katari'>鲍塔欧达一边特意用着能让门口能看清楚的手法拿起食材，一边大声地自言自语道。</span>
+21,ルリア/露莉亚,あ、今ならよく見えます！<br>あれはえっと……<br>ハンバーグとかでしょうか？,啊，现在能看清楚了！那个难道是……汉堡肉吗？
+22,ビィ/碧,塊から自分でたたいて<br>ひき肉にしてんのかよ……<br>すげぇ本格的だな……！,从整块买来的肉开始一点点处理的吗……感觉超专业的啊……！
+23,バウタオーダ/鲍特欧达,お次は、と……,接下来，我看看……
+24,,<span class='scene-font-katari'>バウタオーダは、</span><br><span class='scene-font-katari'>保存容器から丸い塊を取り出した。</span>,<span class='scene-font-katari'>鲍塔欧达从容器里拿出来了一整块的某种东西。</span>
+25,ビィ/碧,あの食材はなんだ……？,那个食材是什么啊……？
+26,バウタオーダ/鲍特欧达,ここで、フォアグランの<br>下処理をしておきましょうか。,接下来来处理一下鹅肝好了。
+27,バウタオーダ/鲍特欧达,メインで使う部分を切り分けて……<br>余った部分は、テリーヌにして<br>保存しておくのもよさそうですね。,把主要部分切下来备用……剩下的部分做成鹅肝酱保存起来好了。
+28,ルリア/露莉亚,ふぉあぐらん……？<br>どこかで聞いたことがあるような……,鹅肝……？好像在哪里听过这个名字……
+29,バウタオーダ/鲍特欧达,<span class='scene-font-kokoro'>（フォアグランが体温で</span><br><span class='scene-font-kokoro'>融けてしまわぬうちに</span><br><span class='scene-font-kokoro'>手早くやらないと……）</span>,<span class='scene-font-kokoro'>（在鹅肝因为体温而融化之前得赶紧了……）</span>
+30,,<span class='scene-font-katari'>流れる様な無駄のない動き、</span><br><span class='scene-font-katari'>こだわりのうかがえる食材、</span><br><span class='scene-font-katari'>全てが大人の魅力に満ち溢れている。</span>,<span class='scene-font-katari'>干净利落的动作，甄选讲究的食材，每一处都在不停地洋溢着大人的魅力。</span>
+31,,<span class='scene-font-katari'>姬塔達はバウタオーダの</span><br><span class='scene-font-katari'>圧倒的な大人力に敗北を</span><br><span class='scene-font-katari'>予感せざるを得ないのだった。</span>,<span class='scene-font-katari'>姬塔一行在鲍特欧达这压倒性的大人力面前充分地感受到了败北感。</span>
+32,ルリア/露莉亚,はわ～いい匂いがしてきました……！,哈哇~香味飘过来了……！
+33,ビィ/碧,やべぇな……大人様ランチバトル、<br>このままじゃ、おっさんに<br>優勝を掻っ攫われちまう……！,不妙啊……这样下去大叔要赢得大人午餐厨艺大赛的冠军了啊……！
+34,ビィ/碧,きっとコソコソ姉ちゃん達も<br>すっげぇ大人力を見せつけて来るに<br>違いねぇ！,偷偷摸摸姐姐她们那边的大人力也肯定非常的不得了！
+35,ビィ/碧,今度はコソコソ姉ちゃんのところに<br>行ってみようぜ！,这次去偷偷摸摸姐姐她们那边看看吧！
+36,ルリア/露莉亚,は、はい！<br>行ってみましょう！,嗯，嗯！我们走吧！
+37,,<span class='scene-font-katari'>姬塔達は</span><br><span class='scene-font-katari'>ブリジールとコーデリアの元へと</span><br><span class='scene-font-katari'>急ぐのだった。</span>,<span class='scene-font-katari'>姬塔一行人连忙赶去布里吉尔和科迪莉亚那边。</span>
+38,バウタオーダ/鲍特欧达,ふふふ、姬塔さんと言えど、<br>まだまだ子供の一面があるのですね。<br>良い物が見れました。,呵呵呵，虽然是姬塔，但也还是有着孩子气的一面啊。看到了少见的东西呢。
+39,,<span class='scene-font-katari'>姬塔達の会話を聞いて、</span><br><span class='scene-font-katari'>楽しげな笑みを浮かべる</span><br><span class='scene-font-katari'>バウタオーダなのだった。</span>,<span class='scene-font-katari'>听着姬塔一行人的对话，鲍特欧达的脸上浮现出了微笑。</span>
+info,,,scene_evt170531_cp5_q2_s10
+译者,,,
