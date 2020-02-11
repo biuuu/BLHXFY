@@ -21,7 +21,7 @@ id,name,text,trans
 17,肉屋の店主,え！？<br>あ、あぁ、えっと……<br>買っていきます？,欸！？啊，啊啊，那个……您要买吗？
 18,バウタオーダ/鲍特欧达,<span class='scene-font-4'>是非とも、頂きましょう！！</span><br><span class='scene-font-4'>うむうむうむ！！ </span>,<span class='scene-font-4'>请务必，给我来一份！！唔姆唔姆唔姆！！</span>
 19,肉屋の店主,あ、ありがとうございましたー……,非，非常感谢您的惠顾—……
-20,,<span class='scene-font-katari'>会計を済ませ、食材を手にした</span><br><span class='scene-font-katari'>バウタオーダの耳に、何やら</span><br><span class='scene-font-katari'>騒がしい声が聞こえてくる。</span>,<span class='scene-font-katari'>结完账之后，手提着食材的鲍特欧达，突然听见了什么喧闹的声音。</span>
+20,,<span class='scene-font-katari'>会計を済ませ、食材を手にした</span><br><span class='scene-font-katari'>バウタオーダの耳に、何やら</span><br><span class='scene-font-katari'>騒がしい声が聞こえてくる。</span>,<span class='scene-font-katari'>结完账之后，手提着食材的鲍特欧达，突然听见了什么吵闹的声音。</span>
 21,バウタオーダ/鲍特欧达,うむ？<br>何やら騒がしいですね。,嗯？好像发生了什么的样子啊。
 27,ならず者/暴徒,おりゃあ今、虫の居どころが<br>悪ぃもんで……へへっ、間違って<br>この剣で誰かを斬っちまうかもなぁ？,哎呀，现在酒虫在的地方好难受啊……嘿嘿，搞得这把剑今天不给谁来一下不舒服呢。
 28,ならず者/暴徒,オラァ、死にたくなけりゃ、<br>早く酒持って来い！,喂，不想死的话就赶紧拿酒来！
