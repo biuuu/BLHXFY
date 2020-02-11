@@ -10,4 +10,16 @@ const main = () => {
   injectXHR()
 }
 
-main()
+let win = unsafeWindow || window
+win.addEventListener('load', function () {
+  let originDefine = win.define
+  let newDefine = function () {
+    let list =  arguments[0]
+    if (Array.isArray(list) && list.includes('model/quest/scenario-model')) {
+      win.define = originDefine
+      main()
+    }
+    originDefine.apply(this, arguments)
+  }
+  win.define = newDefine
+})
