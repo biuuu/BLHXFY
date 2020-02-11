@@ -4,8 +4,8 @@ id,name,text,trans
 0,ルリア/露莉亚,ふむふむ……,呼姆呼姆……
 1,ビィ/碧,ほえ～……リンゴを使った料理って<br>沢山あるんだなぁ。<br>どれも旨そうだぜ。,哇~……用到苹果的料理有好多啊。不管哪个看起来都好好吃啊。
 2,ルリア/露莉亚,わわぁ～！<br>アンキモツって美味しそうです～！,哇哇~！鮟鱇肝看起来也好美味~！
-3,,<span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>ルリアがカタリナから借りてきたという</span><br><span class='scene-font-katari'>料理本に目を通していた。</span>,<span class='scene-font-katari'>姬塔几人正聚在一起翻阅着由露莉娅从卡塔莉娜那里借来的料理书。</span>
-4,,<span class='scene-font-katari'>姬塔はスパイスの法則、</span><br><span class='scene-font-katari'>ルリアは珍味大全、ビィは</span><br><span class='scene-font-katari'>フルーツ料理学という本を読んでいる。</span>,<span class='scene-font-katari'>姬塔兰在看着《香料的法则》，露莉娅抱着《美食大全》，碧则是翻着一本《水果料理学》。</span>
+3,,<span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>ルリアがカタリナから借りてきたという</span><br><span class='scene-font-katari'>料理本に目を通していた。</span>,<span class='scene-font-katari'>姬塔几人正聚在一起翻阅着由露莉亚从卡塔莉娜那里借来的料理书。</span>
+4,,<span class='scene-font-katari'>姬塔はスパイスの法則、</span><br><span class='scene-font-katari'>ルリアは珍味大全、ビィは</span><br><span class='scene-font-katari'>フルーツ料理学という本を読んでいる。</span>,<span class='scene-font-katari'>姬塔兰在看着《香料的法则》，露莉亚抱着《美食大全》，碧则是翻着一本《水果料理学》。</span>
 5,ルリア/露莉亚,はわっ！　見てください！　<br>密林にはオパールエヴィ<br>というエヴィがいるそうです！,哈哇！快来看啊！密林里好像有被称作棱镜虾的大龙虾耶！
 6,ビィ/碧,オパールエヴィ？<br>なんだよそれ。,棱镜虾？啥玩意啊那是。
 7,ルリア/露莉亚,<span class='scene-font-gray'>“全身が極彩色に輝き、</span><br><span class='scene-font-gray'>まさに密林の宝石と呼ばれている……”</span>,<span class='scene-font-gray'>“全身闪耀着彩色的光辉，被称作密林的宝石……”</span>
@@ -16,7 +16,7 @@ id,name,text,trans
 12,,<span class='scene-font-katari'>手元にあるそれらの食材で</span><br><span class='scene-font-katari'>何が作れるかを</span><br><span class='scene-font-katari'>調べていたのだが──</span>,<span class='scene-font-katari'>虽然说是在调查手边的材料能够做些什么料理，但是——</span>
 13,ビィ/碧,卵だけじゃそもそも足りねぇよな。<br>本ばっか読んでても進まねぇし<br>とりあえず、食材調達に行こうぜ！,说到底只有蛋的话也不够做什么啊，别在这里看书了，总之先去把食材的问题解决吧！
 14,ルリア/露莉亚,そうですね。でも……<br>大人様ランチを作るのに必要な<br>大人っぽい食材って何でしょう？,说的也是。不过……做大人午餐需要的大人风格的食材是什么呢？
-15,,<span class='scene-font-katari'>ルリアの問いかけに、</span><br><span class='scene-font-katari'>姬塔は読んでいた本の</span><br><span class='scene-font-katari'>とあるページを指し示す。</span>,<span class='scene-font-katari'>顺着露莉娅的疑问，姬塔的手指向了手中正在读着的书本的某一页。</span>
+15,,<span class='scene-font-katari'>ルリアの問いかけに、</span><br><span class='scene-font-katari'>姬塔は読んでいた本の</span><br><span class='scene-font-katari'>とあるページを指し示す。</span>,<span class='scene-font-katari'>顺着露莉亚的疑问，姬塔的手指向了手中正在读着的书本的某一页。</span>
 16,ビィ/碧,トウガラシだって！？,居然是辣椒吗！？
 17,ルリア/露莉亚,なるほど……<br>確かに辛い物が食べられる人は<br>大人な感じがします……！,原来如此……确实辣的食物吃起来很有大人的感觉呢……！
 18,ビィ/碧,なになに、<span class='scene-font-gray'>“フェアタイル島に自生する</span><br><span class='scene-font-gray'>トウガラシは辛みと甘みのバランスが</span><br><span class='scene-font-gray'>良く……”</span>,什么什么，<span class='scene-font-gray'>“费阿提尔岛上生长的辣椒在辣味和甜味之间有着绝妙平衡……”</span>
@@ -42,7 +42,7 @@ id,name,text,trans
 42,ルリア/露莉亚,はわわっ！<br>お、お水、お水！！<br>これ飲んでください、姬塔！！,哈哇哇！水，水！！快把这个喝掉，姬塔！！
 43,,<span class='scene-font-katari'>余りの辛さに涙を浮かべ激辛に悶絶する</span><br><span class='scene-font-katari'>姬塔にオロオロすることしか</span><br><span class='scene-font-katari'>できないビィとルリア。</span>,<span class='scene-font-katari'>面对着因为太辣而痛苦不堪、眼泪直冒的姬塔，碧和露莉亚除了手忙脚乱以外什么也做不到。</span>
 48,ビィ/碧,わ、悪ぃ姬塔、<br>そんな辛いとは思わなくて……！,抱，抱歉啊姬塔，没想到会这么辣……！
-49,,<span class='scene-font-katari'>姬塔は過剰な辛さが</span><br><span class='scene-font-katari'>生み出すのは、辛味ではなく</span><br><span class='scene-font-katari'>痛みであることを学んだ。</span>,<span class='scene-font-katari'>姬塔学到了一件事，过剩的辣味得到的不是辣味，而是疼痛。</span>
+49,,<span class='scene-font-katari'>姬塔は過剰な辛さが</span><br><span class='scene-font-katari'>生み出すのは、辛味ではなく</span><br><span class='scene-font-katari'>痛みであることを学んだ。</span>,<span class='scene-font-katari'>姬塔学到了一件事，过度的辣味得到的不是辣味，而是疼痛。</span>
 50,ルリア/露莉亚,少し落ち着きましたか……？,稍微好一些了吗……？
 51,,<span class='scene-font-katari'>激辛を乗り越えた先にある勇気を</span><br><span class='scene-font-katari'>手に入れた姬塔は、どこか</span><br><span class='scene-font-katari'>誇らしげな顔を浮かべるのだった。</span>,<span class='scene-font-katari'>有勇气跨越了变态辣的姬塔，脸上不知为何浮现出了自豪的表情。</span>
 52,ビィ/碧,さすが姬塔だぜ……！,真不愧是姬塔……！
@@ -60,7 +60,7 @@ id,name,text,trans
 73,ルリア/露莉亚,すんすん。<br>なんだかいい香りがしますね。<br>山菜でしょうか？,嗅嗅，总觉得有股香味呢，是野菜的味道吗？
 74,ビィ/碧,あ！　おい、見てみろよ！<br>山菜だけじゃねぇ！<br>あれってウットリュフだよな！？,啊！喂，快看啊！不止是野菜啊！那个是松茸吧！？
 75,,<span class='scene-font-katari'>ビィが指し示す先には、</span><br><span class='scene-font-katari'>確かに地面からウットリュフが</span><br><span class='scene-font-katari'>顔を出していた。</span>,<span class='scene-font-katari'>顺着碧指示的方向，确实能看见从地面上冒出头来的松茸。</span>
-76,ルリア/露莉亚,ほんとうです！<br>どうしてこんな珍しいキノコが<br>こんなところに？,真的诶！为什么这么珍惜的蘑菇会在这种地方？
+76,ルリア/露莉亚,ほんとうです！<br>どうしてこんな珍しいキノコが<br>こんなところに？,真的诶！为什么这么珍稀的蘑菇会在这种地方？
 77,ビィ/碧,へへっ！<br>でもラッキーだぜ！<br>これも料理に使えるよな！,嘿嘿！但是很走运啊！把这个也用在料理里吧！
 78,？？？,ブルルル……,呼噜噜噜……
 79,ルリア/露莉亚,え？　ビィさん何か言いましたか？,欸？碧你说了什么吗？
