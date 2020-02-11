@@ -8,7 +8,7 @@ id,name,text,trans
 4,ルリア/露莉亚,さっきビィさんが料理してやるぜ！　<br>って言ってたのを思い出して、<br>いいフレーズだなと思って。,刚刚想起碧说“来做饭吧！”的时候的样子，就想到了不错的歌词呢。
 5,ルリア/露莉亚,あ、そうなると<br>作詞ルリアとビィさん<br>作曲ルリアですね！,啊，这么说来应该是，作词：露莉亚、碧，作曲：露莉亚，这样才对！
 6,ビィ/碧,へへっ。<br>まぁなんでもいいけどよ。,嘿嘿，怎样都好啦。
-7,,<span class='scene-font-katari'>姬塔とルリアとビィは、</span><br><span class='scene-font-katari'>オパールエヴィを見事捕獲し、</span><br><span class='scene-font-katari'>騎空艇へと戻って来ていた。</span>,<span class='scene-font-katari'>姬塔，露莉娅和碧成功抓到了棱镜虾，并把它带回了骑空艇。</span>
+7,,<span class='scene-font-katari'>姬塔とルリアとビィは、</span><br><span class='scene-font-katari'>オパールエヴィを見事捕獲し、</span><br><span class='scene-font-katari'>騎空艇へと戻って来ていた。</span>,<span class='scene-font-katari'>姬塔，露莉亚和碧成功抓到了棱镜虾，并把它带回了骑空艇。</span>
 8,,<span class='scene-font-katari'>３人そろって、キッチンで仲良く</span><br><span class='scene-font-katari'>バナナの皮をむいている。</span>,<span class='scene-font-katari'>3人正一起在厨房里愉快的剥着香蕉皮。</span>
 9,ビィ/碧,ところでバナナは何本くらい使うんだ？<br>オイラ達の味見の分も余分に<br>作っておかねぇとな！,说起来香蕉要用几根好？除去咱们试吃的部分以外剩下的要是还够用就好了！
 10,ルリア/露莉亚,はわっ！<br>そうでしたね、サラダの時の<br>失敗をバナナで生かさないとです！,哈哇！说的也是，要把做沙拉时失败的经验活用在香蕉身上才行！
@@ -41,10 +41,10 @@ id,name,text,trans
 41,ルリア/露莉亚,今度は温度が低すぎたんでしょうか？,这次是温度太低了吗？
 42,,<span class='scene-font-katari'>油の中から取り出してみると、</span><br><span class='scene-font-katari'>バナナだったものは油分を多分に含み</span><br><span class='scene-font-katari'>ドロドロの物体に変わっていた。</span>,<span class='scene-font-katari'>从油里面捞出来的香蕉，因为吸收的油太多，已经变了某种黏糊糊的不可名状物了。</span>
 43,ビィ/碧,揚げものって難しいな……！,炸东西可真难啊……！
-44,,<span class='scene-font-katari'>その後、幾度も試行錯誤を</span><br><span class='scene-font-katari'>繰り返す姬塔達。</span>,<span class='scene-font-katari'>在那之后，不断的进行试错的古兰一行人。</span>
+44,,<span class='scene-font-katari'>その後、幾度も試行錯誤を</span><br><span class='scene-font-katari'>繰り返す姬塔達。</span>,<span class='scene-font-katari'>在那之后，姬塔一行人不断地进行尝试。</span>
 45,,<span class='scene-font-katari'>バナナを投入する時の油の温度、</span><br><span class='scene-font-katari'>油に入れている時間、取り出す</span><br><span class='scene-font-katari'>タイミングを変え──</span>,<span class='scene-font-katari'>不停调整着放入香蕉时的油温、放入油锅的时机、捞出来的时机——</span>
 46,,<span class='scene-font-katari'>ようやく満足のいく揚げ方を見つけ出し</span><br><span class='scene-font-katari'>バナナフリットを完成させるのだった。</span>,<span class='scene-font-katari'>终于成功的完成了一道令人满意的炸香蕉。</span>
-47,ルリア/露莉亚,姬塔、ビィさん、<br>出来ました……！<br>正真正銘のバナナフリットです！,古兰，碧，成功了……！正宗的炸香蕉！
-48,ビィ/碧,あぁ！<br>早速、シャルロッテのとこに<br>持っていこうぜ！,噢！快点送到夏洛特那边去吧！
+47,ルリア/露莉亚,姬塔、ビィさん、<br>出来ました……！<br>正真正銘のバナナフリットです！,姬塔，碧，成功了……！正宗的炸香蕉！
+48,ビィ/碧,あぁ！<br>早速、シャルロッテのとこに<br>持っていこうぜ！,嗯！快点送到夏洛特那边去吧！
 info,,,scene_evt170531_cp4_q1_s10
 译者,,,
