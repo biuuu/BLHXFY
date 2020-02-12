@@ -128,7 +128,7 @@ const request = async (pathname) => {
 let getHashPrms
 let getHash = () => {
   if (getHashPrms) return getHashPrms
-  getHashPrms = new Promise((rev, rej) => {
+  return getHashPrms = new Promise((rev, rej) => {
     if (fetchInfo.status !== 'finished') {
       tryFetch().then(() => {
         const beforeStart = (data) => {
