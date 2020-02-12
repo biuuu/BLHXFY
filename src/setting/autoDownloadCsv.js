@@ -7,7 +7,7 @@ export default function () {
     .on('click.blhxfy-dlcsv', '.cnt-quest-scene .btn-skip', function () {
       setTimeout(() => {
         if (!document.querySelector('.pop-synopsis')) {
-          window.blhxfy.sendEvent('dlStoryCsv')
+          window.blhx.sendEvent('dlStoryCsv')
           downloaded = true
         }
       }, 100)
@@ -15,7 +15,7 @@ export default function () {
     $('#wrapper').off('click.blhxfy-dlcsv2')
     .on('click.blhxfy-dlcsv2', '.pop-synopsis .btn-usual-ok', function () {
       if (!downloaded) {
-        window.blhxfy.sendEvent('dlStoryCsv')
+        window.blhx.sendEvent('dlStoryCsv')
       }
     })
   }

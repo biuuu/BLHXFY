@@ -13,7 +13,6 @@ const config = {
   displayName: '',
   defaultName: '姬塔',
   defaultEnName: 'Djeeta',
-  storyOnly: false,
   font: '',
   fontBold: false,
   transApi: 'caiyun',
@@ -45,7 +44,7 @@ const getLocalConfig = () => {
     config.origin = 'http://127.0.0.1:15945'
   }
   const keys = [
-    'autoDownload', 'bottomToolbar', 'displayName', 'removeScroller', 'hideSidebar', 'originText', 'storyOnly',
+    'autoDownload', 'bottomToolbar', 'displayName', 'removeScroller', 'hideSidebar', 'originText',
     'transJa', 'transEn', 'keepBgm', 'font', 'transApi', 'fontBold', 'plainText', 'battleTrans', 'log'
   ]
   keys.forEach(key => {

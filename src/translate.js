@@ -1,5 +1,4 @@
 import URI from 'urijs'
-import CONFIG from './config'
 import isString from 'lodash/isString'
 import isRegExp from 'lodash/isRegExp'
 import loginBonus from './modules/login-bonus'
@@ -31,11 +30,9 @@ const requestRouter = async (data, type, list) => {
       let pass = false
       for (let path of paths) {
         if (isString(path) && type.includes(path)) {
-          if (!CONFIG.storyOnly || storyPath.includes(path)) {
-            pass = true
-          }
+          pass = true
         } else if (isRegExp(path) && path.test(type)) {
-          if (!CONFIG.storyOnly) pass = true
+          pass = true
         }
       }
       if (pass) {
@@ -56,7 +53,6 @@ const requestRouter = async (data, type, list) => {
   return result
 }
 
-const storyPath = ['scenario', '/profile/content/index/']
 const requestList = [
   ['/loginbonus/', loginBonus],
   ['scenario', [setUserName, transScenario]],

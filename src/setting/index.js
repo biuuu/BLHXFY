@@ -1,4 +1,10 @@
-import './etc'
+import './insertMeta'
+import './removeScroller'
+import './hideSidebar'
+import './keepBgm'
+import './settingBtnText'
+import './scenarioFont'
+// import './fixModalPos'
 import throttle from 'lodash/throttle'
 import isPlainObject from 'lodash/isPlainObject'
 import config from '../config'
@@ -31,7 +37,6 @@ const keyMap = new Map([
   ['trans-en', 'transEn'],
   ['keep-bgm', 'keepBgm'],
   ['trans-api', 'transApi'],
-  ['story-only', 'storyOnly'],
   ['font', 'font'],
   ['log', 'log'],
   ['font-bold', 'fontBold'],

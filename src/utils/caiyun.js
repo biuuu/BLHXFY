@@ -16,7 +16,7 @@ const sleep = (time) => {
 }
 
 const testCookies = async () => {
-  await getHash()
+  await getHash
   const res = await request('https://biz.caiyunapp.com/test_cookies', { 
     cors: true,
     credentials: 'include',
