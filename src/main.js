@@ -11,38 +11,40 @@ const main = () => {
   injectXHR()
 }
 
-if (!CONFIG.storyOnly) {
-  main()
-} else {
-
-  let started = false
-  const start = () => {
-    if (!started) {
-      started = true
-      main()
-      observer.disconnect()
-    }
-  }
-  
-  const mutationCallback = (mutationsList) => {
-    for (let mutation of mutationsList) {
-      const type = mutation.type
-      const addedNodes = mutation.addedNodes
-      if (type === 'childList' && addedNodes.length && addedNodes.length < 2) {
-        addedNodes.forEach(node => {
-          if (node.tagName.toUpperCase() === 'SCRIPT' && node.src.includes('scenario-model')) {
-            start()
-          }
-        })
+let win = window.unsafeWindow || window
+win.addEventListener('load', () => {
+  if (!CONFIG.storyOnly) {
+    main()
+  } else {
+    let started = false
+    const start = () => {
+      if (!started) {
+        started = true
+        main()
+        observer.disconnect()
       }
     }
+    
+    const mutationCallback = (mutationsList) => {
+      for (let mutation of mutationsList) {
+        const type = mutation.type
+        const addedNodes = mutation.addedNodes
+        if (type === 'childList' && addedNodes.length && addedNodes.length < 2) {
+          addedNodes.forEach(node => {
+            if (node.tagName.toUpperCase() === 'SCRIPT' && node.src.includes('scenario-model')) {
+              start()
+            }
+          })
+        }
+      }
+    }
+    
+    const obConfig = {
+      childList: true
+    }
+    
+    const targetNode = document.head
+    const observer = new MutationObserver(mutationCallback)
+    observer.observe(targetNode, obConfig)
   }
-  
-  const obConfig = {
-    childList: true
-  }
-  
-  const targetNode = document.head
-  const observer = new MutationObserver(mutationCallback)
-  observer.observe(targetNode, obConfig)
-}
+})

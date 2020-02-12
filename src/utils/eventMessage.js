@@ -3,7 +3,7 @@ import dlStoryCsv from '../story/dlStoryCsv'
 import previewCsv from '../story/previewCsv'
 
 export default function () {
-  let win = unsafeWindow || window
+  let win = window.unsafeWindow || window
   win.blhxfy || (win.blhxfy = {})
   win.blhxfy.sendEvent = function (name, type, data) {
     var event = new CustomEvent('blhxfy:message', {
