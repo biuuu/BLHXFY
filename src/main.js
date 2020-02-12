@@ -11,8 +11,7 @@ const main = () => {
   injectXHR()
 }
 
-let win = window.unsafeWindow || window
-win.addEventListener('load', () => {
+const init = () => {
   if (!CONFIG.storyOnly) {
     main()
   } else {
@@ -47,4 +46,12 @@ win.addEventListener('load', () => {
     const observer = new MutationObserver(mutationCallback)
     observer.observe(targetNode, obConfig)
   }
-})
+}
+
+if (window.unsafeWindow) {
+  init()
+} else {
+  window.addEventListener('load', () => {
+    init()
+  })
+}
