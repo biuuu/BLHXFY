@@ -125,32 +125,36 @@ const request = async (pathname) => {
   }
 }
 
-const getHash = new Promise((rev, rej) => {
-  if (fetchInfo.status !== 'finished') {
-    tryFetch().then(() => {
-      const beforeStart = (data) => {
-        config.newVersion = data.version
-        config.hash = data.hash
-        insertCSS('BLHXFY')
-      }
-      if (true || fetchInfo.result) {
-        beforeStart(fetchInfo.data)
-        rev(fetchInfo.data.hash)
-      } else {
-        fetchData('/blhxfy/manifest.json').then(data => {
-          beforeStart(data)
-          fetchInfo.data = data
-          rev(data.hash)
-        })
-      }
-    }).catch(rej)
-  } else {
-    rev(fetchInfo.data.hash)
-  }
-})
+let getHashPrms
+let getHash = () => {
+  if (getHashPrms) return getHashPrms
+  return getHashPrms = new Promise((rev, rej) => {
+    if (fetchInfo.status !== 'finished') {
+      tryFetch().then(() => {
+        const beforeStart = (data) => {
+          config.newVersion = data.version
+          config.hash = data.hash
+          insertCSS('BLHXFY')
+        }
+        if (true || fetchInfo.result) {
+          beforeStart(fetchInfo.data)
+          rev(fetchInfo.data.hash)
+        } else {
+          fetchData('/blhxfy/manifest.json').then(data => {
+            beforeStart(data)
+            fetchInfo.data = data
+            rev(data.hash)
+          })
+        }
+      }).catch(rej)
+    } else {
+      rev(fetchInfo.data.hash)
+    }
+  })
+}
 
 const fetchWithHash = async (pathname) => {
-  const hash = await getHash
+  const hash = await getHash()
   const data = await request(`${pathname}?lacia=${hash}`)
   return data
 }

@@ -39,9 +39,14 @@ const template = `
 <div class="cnt-setting">
 	<div class="prt-setting-header"><img class="img-header" src="https://blhx.danmu9.com/blhxfy/data/static/image/setting-header.jpg" alt="header_public"></div>
 
-
-	<div class="prt-setting-module">
+	<div class="prt-setting-module ">
 		<div class="txt-setting-title">插件设置</div>
+
+		<div class="block-story-only prt-button">
+		<input id="story-only-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'story-only', this.checked)" type="checkbox" value="">
+		<label for="story-only-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">只翻译剧情</label>
+		</div>
+
 		<div class="prt-setting-frame">
 			<div class="prt-setting-article">
 				<div class="txt-article-title">翻译数据域名</div>
