@@ -1,0 +1,47 @@
+id,name,text,trans
+0-chapter_name,,第125章　欠片を求めて,寻找碎片
+0-synopsis,,姬塔一行がルリア達を救出するため奔走していた頃、ルリアはひとり幽世の世界で目を覚ます。ルリアは仲間達を探して幽世の世界を歩くが、その途中で幽世の住人と遭遇してしまう。襲い来る幽世の住人に対し星晶獣を呼び出そうとするも、何故か誰も呼びかけに応えず、ルリアは困惑したまま幽世の住人と相対するのだった。,正在姬塔一行人为了救出露莉亚奔走的时候，露莉亚独自一人在幽世的世界恢复了意识。露莉亚为了寻找同伴，正在幽世中行走着，并在途中遭遇了幽世的住民。面对袭来的住民们，露莉亚打算唤出星晶兽，可不知为何谁也没有回应。困惑的露莉亚，就这么与幽世的住民们对峙着。
+1,,<span class='scene-font-katari'>姬塔達が、</span><br><span class='scene-font-katari'>仲間達を救出するため、</span><br><span class='scene-font-katari'>奔走していたその頃……</span>,
+7,,<span class='scene-font-katari'>ルリアの意識は、</span><br><span class='scene-font-katari'>暗闇の只中にあった。</span>,姬塔他们为了就出同伴<br>而在四处奔走之时，<br>露莉亚的意识在黑暗之中恢复了。
+8,ルリア/露莉亚,ん……,嗯……
+11,,<span class='scene-font-katari'>目を覚ましたルリアの目の前には、</span><br><span class='scene-font-katari'>明らかに空の世界とは異なる</span><br><span class='scene-font-katari'>異質な空間が広がっていた。</span>,在苏醒的露莉亚眼前的是，<br>和明亮的空之世界不同的，<br>宽广的异样的空间。
+12,ルリア/露莉亚,ここは……,这里是……
+13,ルリア/露莉亚,私、何が……？,我、究竟……？
+14,,<span class='scene-font-katari'>周囲を見渡すも、</span><br><span class='scene-font-katari'>見知った顔どころか、</span><br><span class='scene-font-katari'>生命の影すら見つけることが出来ない。</span>,环顾四周，不论是熟悉的脸，<br>还是生命的影子，<br>似乎全都没有踪迹。
+15,ルリア/露莉亚,そうだ、私……<br>カタリナと一緒に、あの黒い穴……<br>幽世に押し込まれて……,这样啊，我……<br>和卡塔丽娜一起，被幽世们<br>推进了那个黑色的洞穴……
+16,ルリア/露莉亚,じゃ、じゃあ……<br>ここが幽世の世界……？<br>カタリナ……他のみんなは……,那么、那么……<br>这里是幽世的世界……？<br>卡塔丽娜……还有大家……
+17,,<span class='scene-font-katari'>覚束ない足取りで周囲を探すも、</span><br><span class='scene-font-katari'>赤黒い空間には、</span><br><span class='scene-font-katari'>ただただ虚無だけが広がっていた。</span>,不经意地在周围散步寻找着，<br>可在这个漆黑的空间之中，<br>拥有的只是虚无。
+18,ルリア/露莉亚,どうしよう、私……,怎么办啊，我……
+19,,<span class='scene-font-katari'>見渡す限りに広がる</span><br><span class='scene-font-katari'>未知と脅威と拒絶と恐怖に、</span><br><span class='scene-font-katari'>ルリアの足は自然と止まってしまう。</span>,在一眼望不到边际的<br>未知、威胁、拒绝和恐怖之中，<br>露莉亚自然地停下了脚步。
+20,ルリア/露莉亚,怖いよ……<br>カタリナ、姬塔……<br>どこなの……？,好可怕……<br>卡塔丽娜，姬塔……<br>你们在哪……？
+21,ルリア/露莉亚,どうしよう……<br>どうしたら……,怎么办……<br>应该怎么办……
+22,,<span class='scene-font-katari'>立ち止まったルリアは、</span><br><span class='scene-font-katari'>己の身を守るように</span><br><span class='scene-font-katari'>小さく縮こまろうとする。</span>,停下脚步的露莉亚<br>像是要保护自己的身体一般，<br>缩成了小小的一团。
+23,,<span class='scene-font-katari'>そんなルリアの脳裏に浮かんだのは、</span><br><span class='scene-font-katari'>自分自身が告げた言葉だった。</span>,在这样的露莉亚的脑海之中，<br>回想起了过去自己告诫自己的话语。
+26,ルリア/露莉亚,これからは私も頑張る。<br>もっともっと頑張る。,从今以后我也要加油。<br>要更加更加加油。
+27,ルリア/露莉亚,力になりたいから……<br>カタリナの、みんなの。,我想成为力量……<br>成为卡塔丽娜的、和大家的。
+30,ルリア/露莉亚,…………,…………
+31,ルリア/露莉亚,<span class='scene-font-kokoro'>（そうだ……</span><br><span class='scene-font-kokoro'>私、自分で言ったんだ……）</span>,（是啊……<br>我自己也说过……）
+32,ルリア/露莉亚,<span class='scene-font-kokoro'>（立ち止まっちゃ駄目だよね……</span><br><span class='scene-font-kokoro'>歩かなきゃ……</span><br><span class='scene-font-kokoro'>進まなきゃ……）</span>,（止步不前可是不行的哦……<br>如果不继续走下去的话……<br>就无法前进……）
+33,ルリア/露莉亚,強くなるって決めたから……,明明已经下定决心要变强了……
+34,,<span class='scene-font-katari'>ルリアは恐怖を抱えながらも、</span><br><span class='scene-font-katari'>仲間の影を求め、</span><br><span class='scene-font-katari'>幽世の世界を歩き始める。</span>,虽然露莉亚的心里非常恐惧，<br>但为了寻找同伴的身影，<br>在幽世的世界里走动了起来。
+40,ルリア/露莉亚,あれ……？<br>今、何か……,咦……？<br>刚才，有什么……
+41,,<span class='scene-font-katari'>どこまでも死の造形が並ぶ空間に、</span><br><span class='scene-font-katari'>ルリアは確かに</span><br><span class='scene-font-katari'>生者のような動きを見る。</span>,在这个充斥着死亡呢的空间之中，<br>露莉亚确实感到了<br>像是生者那样的动静。
+42,ルリア/露莉亚,<span class='scene-font-kokoro'>（誰か……</span><br><span class='scene-font-kokoro'>もしかしたら、カタリナ達が……！？）</span>,（有谁在……<br>难道是，卡塔丽娜他们……！？）
+43,,<span class='scene-font-katari'>一目散に、</span><br><span class='scene-font-katari'>ルリアはその音のもとへと</span><br><span class='scene-font-katari'>駆け寄るが──</span>,一溜烟地，<br>露莉亚顺着声音传来的方向<br>飞奔而去——
+46,幽世の住人,────！！,————！！
+47,ルリア/露莉亚,幽世の住人……！！,幽世的住民……！！
+48,幽世の住人,──！！,——！！
+49,ルリア/露莉亚,ッ！！,唔！！
+50,ルリア/露莉亚,……あれ？,……咦？
+51,,<span class='scene-font-katari'>ルリアは咄嗟に</span><br><span class='scene-font-katari'>星晶獣を呼び出そうとするも、</span><br><span class='scene-font-katari'>呼びかけに対し応えは無かった。</span>,正在露莉亚连忙打算<br>叫出星晶兽之时，<br>却没受到任何回应。
+52,ルリア/露莉亚,あれっ……？<br>そんなっ……！？,咦……？<br>怎么这样……！？
+53,幽世の住人,────！！,————！！
+56,ルリア/露莉亚,<span class='scene-font-4'>きゃあっ！？</span>,呀啊！？
+57,,<span class='scene-font-katari'>幽世の住人の容赦ない一薙ぎを受け、</span><br><span class='scene-font-katari'>弾き飛ばされたルリアは</span><br><span class='scene-font-katari'>赤黒い地面を転がる。</span>,受到了幽世的住民毫不留情的一击，<br>露莉亚就这么被弹飞了，<br>并在赤黑色地面打着滚。
+58,ルリア/露莉亚,かはっ……<br>けほっ……,唔哈……<br>咳咳……
+59,ルリア/露莉亚,な、なんで……！？<br>いったい何が……？,为、为什么……！？<br>到底发生了什么……？
+60,ルリア/露莉亚,ちゃんと力は使えてるのに……<br>どうして誰も……,明明好好地使用了力量……<br>为什么谁都没有……
+61,幽世の住人,────！！,————！！
+62,ルリア/露莉亚,っ……！！,唔……！！
+info,,,scene_cp125_q4_s20
+译者,,,rei
