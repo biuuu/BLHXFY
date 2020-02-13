@@ -1,20 +1,23 @@
 import config from '../config'
 
-const removeScroller = () => {
+const addCss = () => {
+  let css = ''
   if (config.removeScroller) {
-    const style = document.createElement('style')
-    style.innerHTML = `
-      ::-webkit-scrollbar {
-        display: none;
-      }
-    `
-    document.head.appendChild(style)
+    css += `
+    ::-webkit-scrollbar {
+      display: none;
+    }`
   }
-}
-
-const hideSidebar = () => {
   if (config.hideSidebar) {
-    document.body.classList.add('hide-sidebar-blhxfy')
+    css += `
+    body>div:first-child>div:first-child>div:first-child[data-reactid] {
+      display: none;
+    }`
+  }
+  if (css) {
+    const style = document.createElement('style')
+    style.innerHTML = css
+    document.head.appendChild(style)
   }
 }
 
@@ -27,11 +30,8 @@ const keepBgm = () => {
 }
 
 const settingEtc = () => {
-  if (!config.storyOnly) {
-    removeScroller()
-    hideSidebar()
-    keepBgm()
-  }
+  addCss()
+  keepBgm()
 }
 
 settingEtc()
