@@ -1,0 +1,126 @@
+id,name,text,trans
+0-chapter_name,,エンディング,エンディング
+0-synopsis,,星晶獣マグネシアを倒した一行。デルフィナは自分を撃てば装置も壊れて元の世界に帰れなくなると脅すが、ルルーシュは装置諸共デルフィナにハドロン砲を撃つ。無事快復したナナリーによると、カルメンは実の妹を亡くした悲しみの末にナナリーを求めていたという。ルルーシュたちは元の世界に帰る術を探すため、姬塔一行と空の世界を旅することに決めるのだった。,一行人打倒了玛格涅西亚。黛尔菲娜威胁众人如果攻击自己，就破坏装置让大家无法回到原来的世界。尽管如此，鲁鲁修还是用强子炮将黛尔菲娜与装置一同击飞。
+2,ルルーシュ,<span class='scene-font-4'>いまだ！</span><br><span class='scene-font-4'>スザク！</span>,<span class='scene-font-4'>趁现在！</span><br><span class='scene-font-4'>朱雀！</span>
+3,スザク,このヴァリスなら──！！,用这个V.A.R.I.S的话──！！
+7,,<span class='scene-font-katari'>可変弾薬反発衝撃砲、通称ヴァリスは、</span><br><span class='scene-font-katari'>弾薬の反発力を制御できるライフル。</span>,<span class='scene-font-katari'>可变弹药反冲力冲击炮，统称V.A.R.I.S.</span><br><span class='scene-font-katari'>是能够抑制弹药反冲力的来福枪。</span>
+15,,<span class='scene-font-katari'>放たれた光弾は</span><br><span class='scene-font-katari'>星晶獣マグネシアの片翼を吹き飛ばし、</span><br><span class='scene-font-katari'>その巨躯を地面へと撃ち落とす。</span>,<span class='scene-font-katari'>从枪口射出的光弹将星晶兽玛格涅西亚的一片羽翼吹飞，它巨大的躯干狠狠地摔在了地上。</span>
+16,ルルーシュ,カレン、お前がとどめだ！,卡莲，给它致命一击！
+17,カレン/卡莲,任せて！！<br>これで終わりにしてあげる！,交给我吧！！<br>是时候结束这一切了！
+22,,<span class='scene-font-katari'>紅蓮弐式は素早く懐へ飛び込み、</span><br><span class='scene-font-katari'>ひび割れる星晶獣マグネシアへ、</span><br><span class='scene-font-katari'>異形の右腕より必殺の一撃を放つ。</span>,<span class='scene-font-katari'>红莲贰式迅猛地冲向残损的星晶兽玛格涅西亚，从它异型的右臂中爆发出致命一击。</span>
+23,カレン/卡莲,<span class='scene-font-4'>いけぇーっ！！！</span>,<span class='scene-font-4'>上啊啊啊啊！！！</span>
+29,星晶獣マグネシア,────！？,────！？
+33,,<span class='scene-font-katari'>衝撃音とともに照射される高周波、</span><br><span class='scene-font-katari'>輻射波動は、瞬時に星晶獣マグネシアの</span><br><span class='scene-font-katari'>全身を駆け巡る。</span>,<span class='scene-font-katari'>冲击的声音伴随着高频电波，</span><br><span class='scene-font-katari'>辐射波动在转瞬之间便充斥了星晶兽玛格涅西亚的全身。</span>
+34,,<span class='scene-font-katari'>強固な外殻を無価値とするその一撃に、</span><br><span class='scene-font-katari'>星晶獣マグネシアは内側から破壊され、</span><br><span class='scene-font-katari'>無残にも崩れ落ちていく。</span>,<span class='scene-font-katari'>面对这强力的一击，它坚硬的外壳毫无用处。星晶兽玛格涅西亚从内部被破坏，它的碎片凄惨地散落了一地。</span>
+35,ルリア/露莉亚,──……！,──……！
+43,,<span class='scene-font-katari'>スザクたちの猛攻を受け、</span><br><span class='scene-font-katari'>体勢を崩した星晶獣マグネシアの力を</span><br><span class='scene-font-katari'>ルリアは吸収する。</span>,<span class='scene-font-katari'>朱雀等人防住了猛攻，</span><br><span class='scene-font-katari'>紧接着，露莉亚便吸收了已经崩坏的星晶兽玛格涅西亚的力量。</span>
+45,ルリア/露莉亚,終わりました……！,结束了……！
+46,ルルーシュ,これでようやく終わったな。,终于结束了。
+47,デルフィナ,<span class='scene-font-4'>まだだ！</span><br><span class='scene-font-4'>まだ手はあるッ！</span>,<span class='scene-font-4'>还没有！</span><br><span class='scene-font-4'>我还有胜算！</span>
+49,スザク,ルルーシュ……,鲁鲁修……
+50,ルルーシュ,ああ。<br>決着をつけてくる。,嗯。我去做个了断。
+51,ルルーシュ,スザクとカレンは姬塔たちを<br>連れて先に艇に戻ってくれ。<br>これはゼロとしての責任の取り方だ。,朱雀和卡莲带着姬塔他们先回船上。这是身为ZERO的我的责任。
+52,,<span class='scene-font-katari'>ルルーシュはそう言うと、</span><br><span class='scene-font-katari'>デルフィナの走っていった先へ</span><br><span class='scene-font-katari'>ガウェインを飛ばす。</span>,<span class='scene-font-katari'>鲁鲁修一说完，</span><br><span class='scene-font-katari'>便驾驶着高文，</span><br><span class='scene-font-katari'>向黛尔菲娜逃走的方向追去。</span>
+57,デルフィナ,はぁ……はぁ……,哈……哈……
+58,,<span class='scene-font-katari'>転移装置まで辿り着いたデルフィナは</span><br><span class='scene-font-katari'>手早くセッティングを済ませ、</span><br><span class='scene-font-katari'>レバーに手をかけた。</span>,<span class='scene-font-katari'>抵达转移装置的黛尔菲娜快速地调整了装置的设定，将手放在了拉杆上。</span>
+59,デルフィナ,蒼の少女が吸収できるのは<br>星晶獣の写し身……<br>本体は変わらず私の手元にある。,苍之少女吸收的，<br>不过是星晶兽的分身罢了……<br>本体就在我的手里。
+60,デルフィナ,負傷して弱っても、<br>装置の起動くらいはでき──,就算受了伤，<br>我也能启动装置——
+69,デルフィナ,<span class='scene-font-4'>ぐあぁっ！！</span>,<span class='scene-font-4'>呜啊！！</span>
+70,,<span class='scene-font-katari'>レバーを倒した瞬間</span><br><span class='scene-font-katari'>転移装置の電源が爆発を起こし、</span><br><span class='scene-font-katari'>デルフィナは爆風に吹き飛ばされた。</span>,<span class='scene-font-katari'>在扳动拉杆的一瞬间，转移装置的电源发生了爆炸，黛尔菲娜被暴风吹飞了出去。</span>
+73,デルフィナ,こ、これは……ルルーシュの仕業か……,这，这是……鲁鲁修干的吗……
+78,ルルーシュ,星晶獣マグネシアの力が<br>弱まったいま、<br>ハドロン砲を防げまい。,现在星晶兽玛格涅西亚的力量已经被削弱了，<br>是防不住强子炮的。
+79,デルフィナ,やめろ！<br>お前たちは元の世界に帰れなくなるぞ！,住手吧！<br>再这样你们可就回不去原本的世界了。
+80,,<span class='scene-font-katari'>デルフィナは転移装置の台座に上がると</span><br><span class='scene-font-katari'>両腕を広げて仁王立ちした。</span>,<span class='scene-font-katari'>黛尔菲娜爬上了转移装置的台座，</span><br><span class='scene-font-katari'>张开双臂，威严地站立着。</span>
+81,デルフィナ,どうだ？<br>私を撃てば転移装置は木っ端微塵……,怎么样？<br>如果你攻击我，转移装置也会化为尘埃……
+82,デルフィナ,お前たちもナナリーも<br>元の世界には帰れない！,不管是你们还是娜娜莉，<br>都无法回到原来的世界！
+83,ルルーシュ,それがどうした？,那又如何？
+84,デルフィナ,なにっ！？,什么！？
+85,ルルーシュ,俺はナナリーさえ幸せに暮らせれば<br>どこにいようと構わない。,只要娜娜莉能幸福地生活下去，<br>不论在哪里都无关紧要。
+86,ルルーシュ,そのために、スザクたちには<br>犠牲になってもらうことを<br>了承してもらった。,为此，朱雀等人也已经明白自己会做出牺牲。
+87,ルルーシュ,この世界にとどまるという犠牲にな。,那个牺牲，就是留在这个世界。
+88,デルフィナ,そ、そんな……,怎，怎么会……
+89,ルルーシュ,言ったはずだ。<br>自分の我を通すには覚悟が必要だとな。,我已经说过了。<br>想要一意孤行是需要觉悟的。
+90,デルフィナ,まさか……お前は最初から……,难道说……你从最开始就……
+93,ルルーシュ,撃っていいのは、<br>撃たれる覚悟がある奴だけだ。,有资格杀人的，<br>只有已经做好被杀的觉悟的人。
+98,デルフィナ,<span class='scene-font-4'>姉さぁぁぁぁん！！</span><br><span class='scene-font-4'>あああぁああぁぁああ！！！</span>,<span class='scene-font-4'>姐姐————————！！</span><br><span class='scene-font-4'>啊啊啊啊啊啊啊啊啊啊！！！</span>
+106,,<span class='scene-font-katari'>ルルーシュの放ったハドロン砲が</span><br><span class='scene-font-katari'>転移装置ごとデルフィナを呑み込み、</span><br><span class='scene-font-katari'>炎を上げて爆発した。</span>,<span class='scene-font-katari'>鲁鲁修所发射的强子炮将整个转移装置和黛尔菲娜一同吞噬，在熊熊烈火中爆炸。</span>
+111,ルリア/露莉亚,大変です！<br>島から煙が上がってます！,不好了！<br>岛上冒烟了！
+112,スザク,あそこは転移装置がある辺り。<br>どうやら終わったようだね……,那是转移装置附近。<br>看来一切都结束了。
+113,,<span class='scene-font-katari'>艇に戻った面々は</span><br><span class='scene-font-katari'>島からの爆音に気づき、</span><br><span class='scene-font-katari'>甲板の縁から身を乗り出す。</span>,<span class='scene-font-katari'>回到船上的一行人注意到岛上传来的爆破声，在甲板的边缘四处张望。</span>
+114,カレン/卡莲,ゼロとしての責任、か……,作为ZERO的责任，吗……
+115,,<span class='scene-font-katari'>固唾を呑んで見守っていると、</span><br><span class='scene-font-katari'>もくもくと立ち昇る煙の中から</span><br><span class='scene-font-katari'>ひとつの黒い影が飛び出してくる。</span>,<span class='scene-font-katari'>正当大家提心吊胆地看着，一个黑影从缓缓上升的烟雾中跳了出来。</span>
+124,スザク,ガウェイン！,高文！
+127,,<span class='scene-font-katari'>無事に地下から脱出した</span><br><span class='scene-font-katari'>ガウェインが急上昇し、</span><br><span class='scene-font-katari'>空中の艇の甲板に軽やかに降り立った。</span>,<span class='scene-font-katari'>平安从地下逃出的高文急速上升，</span><br><span class='scene-font-katari'>轻轻地降落在骑空艇的甲板上。</span>
+134,ルルーシュ,みんな無事のようだな……,看来大家都没事……
+135,C.C.,ふう、やれやれだ。,哼，真是够了。
+136,スザク,おかえり。ルルーシュ、C.C.。,欢迎回来。鲁鲁修，C.C.。
+137,ルルーシュ,ああ、ただいま。<br>これで作戦は全て終了だ。,啊啊，我回来了。<br>这样作战就圆满结束了。
+138,ルリア/露莉亚,そっか……<br>全部終わったんですね。,是吗……<br>全部都结束了呢。
+139,ビィ/碧,爆発が起きた時は<br>どうなるかと思ったけど、<br>これでひと安心だぜ！,看到爆炸的时候，<br>我还想着会怎么样呢，<br>这下我就放心啦！
+140,ルルーシュ,それよりビィ、ナナリーは？<br>抗ウイルス薬は？,比起这个，碧，娜娜莉呢？<br>解药呢？
+141,？？？,お兄様！,哥哥！
+143,,<span class='scene-font-katari'>声の方に顔を向けると、</span><br><span class='scene-font-katari'>明るい笑みを湛えたナナリーが</span><br><span class='scene-font-katari'>こちらへ近づいてきていた。</span>,<span class='scene-font-katari'>鲁鲁修向声音传来的方向看去，</span><br><span class='scene-font-katari'>面带明朗笑容的娜娜莉正向这边来。</span>
+144,,<span class='scene-font-katari'>驚いたことに、</span><br><span class='scene-font-katari'>ナナリーの車椅子を押しているのは</span><br><span class='scene-font-katari'>患部に包帯を巻いたジェレミアだった。</span>,<span class='scene-font-katari'>令他惊讶的是，</span><br><span class='scene-font-katari'>帮娜娜莉推轮椅的，</span><br><span class='scene-font-katari'>竟然是全身缠满绷带的杰雷米亚。</span>
+145,ジェレミア,ルルーシュ様……,鲁鲁修大人……
+146,ルルーシュ,ナナリー！<br>それにジェレミア、もういいのか？,娜娜莉！<br>还有杰雷米亚，你已经没事了吗？
+147,ジェレミア,この身はルルーシュ様と<br>ナナリー様のために。<br>なれば……,只要是为了鲁鲁修大人和娜娜莉大人，<br>这点伤算不上什么。
+148,ルルーシュ,怪我をおしてまで<br>ナナリーのそばにいてくれたのか。<br>その忠義、感謝する。,你尽管忍受伤痛，<br>也要守在娜娜莉的身边吗。<br>那份忠诚，我感激不尽。
+149,,<span class='scene-font-katari'>恭しく跪くジェレミアに、</span><br><span class='scene-font-katari'>ルルーシュは感謝と</span><br><span class='scene-font-katari'>労いの言葉をかける。</span>,<span class='scene-font-katari'>面对恭恭敬敬且脆弱的杰雷米亚，</span><br><span class='scene-font-katari'>鲁鲁修致以他感谢与慰劳的话语。</span>
+150,ルルーシュ,ナナリー<br>体調はどうだ？<br>苦しくはないか？,娜娜莉，身体感觉如何？<br>难不难受？
+151,ナナリー,はい。ビィさんが持ってきてくれた<br>薬を打ってもらったら、<br>急に楽になりました。,完全没有。注射了碧带回来的药后，我轻松多了。
+152,ナナリー,喉にあった熱も引いたみたいで……,喉咙的灼烧感也已经褪去了。
+153,ルルーシュ,良かった……,太好了……
+154,,<span class='scene-font-katari'>そう頬を撫でるルルーシュの手に</span><br><span class='scene-font-katari'>自らの手を添えるナナリー</span>,<span class='scene-font-katari'>鲁鲁修抚摸着娜娜莉的脸颊，</span><br><span class='scene-font-katari'>娜娜莉也把手放在他的手上。</span>
+155,,<span class='scene-font-katari'>ナナリーはどこか悲しそうな声色の</span><br><span class='scene-font-katari'>兄を想って語りかける。</span>,<span class='scene-font-katari'>随后，娜娜莉用有些悲伤的声音，</span><br><span class='scene-font-katari'>对着哥哥开口说道。</span>
+156,ナナリー,私を連れ去ったのは<br>カルメンさんという方でした。,将我带走的，是一名名叫卡门的女士。
+157,ナナリー,私と同じ盲目の妹さんを<br>亡くされたそうで、<br>いつも悲しそうでした。,她有一个和我一样失去视力的妹妹，<br>似乎已经去世了，让她一直十分抑郁。
+158,ナナリー,ともに過ごした日々は短いものでしたが<br>あの方の辛い気持ちは<br>忘れることが出来ません。,虽然与她一同生活的时日不多，<br>但他那份悲痛的感情，我无法忘怀。
+159,ナナリー,だって、私もお兄様を亡くしたら<br>同じように悲しみに暮れるでしょう。,因为，如果我失去了哥哥，<br>一定也会像她一样充满悲伤地活着。
+160,ナナリー,だからこうしてお兄様が<br>そばにいてくれるだけで嬉しいのです。,所以只要哥哥能像这样待在我的身边，我就已经很高兴了。
+161,ルルーシュ,…………,…………
+162,ナナリー,ここがどこで、<br>どうして私たちがここにいるのか。,这里是哪里，<br>为什么我们会在这里。
+163,ナナリー,お兄様やスザクさん、<br>C.C.さんとカレンさんが<br>なぜ戦いに赴いたのか。,哥哥和朱雀，<br>C.C.还有卡莲为什么而战斗。
+164,ナナリー,お兄様が何をなされたのかは<br>聞いたりしません。,哥哥都做了什么，我是不会问的。
+165,ナナリー,全て私のためにしてくれたのだと<br>わかりますから……,因为我知道，<br>这一切，都是为了我而做的……
+166,ナナリー,今はただ、お兄様が<br>無事でいてくれることが嬉しい。,现在这一刻，我只是因为哥哥平安无事而感到高兴。
+167,,<span class='scene-font-katari'>次第に涙声になるナナリーは</span><br><span class='scene-font-katari'>ルルーシュの頭を引き寄せ、</span><br><span class='scene-font-katari'>その胸に抱きしめる。</span>,<span class='scene-font-katari'>带着些哭腔的娜娜莉将鲁鲁修的头轻轻拥入怀中，靠在自己的胸口。</span>
+168,ナナリー,ありがとうございます。<br>お兄様……<br>私のために……,非常感谢你，哥哥……<br>感谢你为我所做的一切……
+169,ルルーシュ,ありがとう、ナナリー<br>その言葉で俺は救われる……,谢谢你，娜娜莉。<br>是你的话语救赎了我……
+170,,<span class='scene-font-katari'>ナナリーの胸の中で</span><br><span class='scene-font-katari'>ルルーシュは安堵の表情を浮かべる。</span>,<span class='scene-font-katari'>在娜娜莉的怀中，</span><br><span class='scene-font-katari'>鲁鲁修露出了安心的表情。</span>
+171,スザク,よかった……<br>本当にみんな、無事で……,太好了……<br>大家都没事，真的……
+172,カレン/卡莲,だからってアンタが<br>泣くことないじゃない。,就算是这样你也不用哭吧。
+173,C.C.,お前も泣いていいんだぞ。,你想哭也没关系哦。
+174,カレン/卡莲,ばっ……！<br>人前で泣くかっての！,笨……！<br>我怎么可能在大庭广众下哭鼻子！
+175,ルリア/露莉亚,なんだか、色んなことが解決して<br>ホッとしましたね！,总感觉，解决了很多事情，能松一口气了呢！
+176,ビィ/碧,そういや、ルルーシュたちは<br>これからどうするんだ？,说起来，鲁鲁修你们接下来打算怎么办？
+177,ルルーシュ,そうだな……<br>転移装置も無くなってしまったしな……,说的也是……<br>转移装置也已经没有了……
+178,ナナリー,でしたらお兄様、<br>ルリアさんが言っていた不思議な島に<br>行ってみるのはいかがでしょうか？,如果是这样，我们要不要也去看一看露莉亚所说的那些不可思议的岛屿呢，哥哥？
+179,ルリア/露莉亚,あ、<span class='scene-font-place'>ポート・ブリーズ</span>や<br><span class='scene-font-place'>バルツ</span>のことですね？,啊，你说的是微风港和瓦尔兹吧？
+180,ルルーシュ,この異世界なら他人の目を<br>気にする必要もない。<br>旅に出るのも悪くないかもな。,在这个异世界的话，<br>也没必要担心隔墙有耳了，<br>来一趟旅行也不错。
+181,ナナリー,旅なんて私初めてでドキドキします。,我还是第一次旅行，真让人兴奋。
+182,ルルーシュ,ずっと隠れ住んでいたんだ。<br>この機会に色んな世界を回ってみよう。,毕竟你一直都在隐居。<br>趁着这个机会，多去逛逛不同的世界吧。
+183,ルルーシュ,旅の中で元の世界に戻る方法が<br>見つかるかもしれない。,在旅行的途中，说不定就能找到回到原来世界的方法。
+184,カレン/卡莲,いいね、それ！,这主意不错呢！
+185,カレン/卡莲,それならついでに女将さんのところに<br>報告しに行ってもいい？<br>心配してるだろうし。,这样的话，我能先去老板娘那里报告一声吗？他们应该挺担心我的。
+186,ビィ/碧,お！　そうだな！,哦！　也对啊！
+187,ナナリー,スザクさんは？<br>スザクさんも一緒に来てくれますよね？,朱雀呢？<br>朱雀也会一起来的吧？
+188,スザク,もちろんさ。<br>昔みたいに色んなものを感じて、<br>色んな話をしよう。,当然了。<br>和以前一样，去感受各种各样的事物，聊一聊各种各样的话题吧。
+189,ビィ/碧,うん？<br>C.C.はどうしてそんなに<br>離れてるんだ？,嗯？<br>C.C.为什么站得那么远啊？
+190,C.C.,別に。<br>大した理由じゃない。,没什么。<br>这无关紧要。
+191,ルルーシュ,だったら、<br>出て行こうなんて考えるなよ。,那就别想着现在离开。
+192,ルルーシュ,俺はお前との契約は忘れていない。<br>ちゃんと元の世界に戻って<br>契約を果たす。,我可没有忘了和你之间的契约。<br>我一定会回到原来的世界，<br>履行契约。
+193,C.C.,なんだ。<br>忘れているのかと思ったぞ。,什么嘛。<br>我还以为你早就忘了呢。
+194,ルルーシュ,そう思うんだったら、<br>さっさとお前の願いを言え。,你要是这么担心，<br>那还不快告诉我你的愿望。
+195,C.C.,断る。<br>だが、その日まではお前は共犯者だ。<br>それまでは一緒にいてやる。,我拒绝。<br>但是，直到那天为止你和我都是共犯。<br>所以在那之前我会一直陪着你的。
+196,ルルーシュ,わかったよ。素直じゃない女だ。,那好吧。真是不坦率的女人。
+197,ビィ/碧,な、なんだよ。<br>共犯者とかワケわかんねぇけど、<br>相棒ってことでいいのかな？,什，什么嘛。<br>说共犯啥的真让人摸不着头脑，<br>我就当你们是好搭档行吗？
+198,ルリア/露莉亚,ふふっ、とにかく皆さんと<br>また旅ができるんですね！,嘿嘿，总而言之大家又能一起旅行了呢！
+198-sel1_txt,,<span class='scene-font-katari'>これからもよろしくね！</span>,<span class='scene-font-katari'>从今以后也请多指教！</span>
+199,ルルーシュ,ああ、改めてよろしく頼む、<br>姬塔。,嗯。再一次请多指教了，姬塔。
+200,,<span class='scene-font-katari'>姬塔の差し出した手に</span><br><span class='scene-font-katari'>ルルーシュは自分の手を重ねる。</span>,<span class='scene-font-katari'>鲁鲁修握住了姬塔伸出的手。</span>
+205,,<span class='scene-font-katari'>偽ゼロとの因縁に決着をつけ、</span><br><span class='scene-font-katari'>自由な空へと旅立つことを決めた</span><br><span class='scene-font-katari'>ルルーシュたち。</span>,<span class='scene-font-katari'>与冒牌ZERO的因缘已做了了断，</span><br><span class='scene-font-katari'>鲁鲁修等人决定向着自由的天空开启旅程。</span>
+206,,<span class='scene-font-katari'>ブリタニアも日本もない異世界で、</span><br><span class='scene-font-katari'>ルルーシュはゼロの仮面を脱いだ。</span><br><span class='scene-font-katari'>その行く道先は誰も知らない。</span>,<span class='scene-font-katari'>在这个既没有布里塔尼亚也没有日本的异世界里，鲁鲁修脱下了ZERO的假面。没人知道在前方等待着他们的是什么。</span>
+207,,<span class='scene-font-katari'>だが、新しい旅路に出た彼らを</span><br><span class='scene-font-katari'>祝福するように……</span>,<span class='scene-font-katari'>但是，为踏上新的旅途的他们献上祝福。</span>
+208,,<span class='scene-font-katari'>一陣の暖かい風が艇をそっと</span><br><span class='scene-font-katari'>前に押し進めるのだった。</span>,<span class='scene-font-katari'>一阵温暖的风微微地推动了骑空艇，向前驶去。</span>
+214,,<span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　　　　　　　　　　　　──The End</span>,<span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　　　　　　　　　　　　──The End</span>
+info,,,scene_7z7xe3rgxy_cp0_q3_s10

@@ -1,0 +1,76 @@
+id,name,text,trans
+0-synopsis,,ある静かな夜、コルワから合コン的な会に誘われたローアイン・エルセム・トモイは、期待を胸に約束の店に入る。先にテーブルで待っていたのは、酔い潰れて眠るラムレッダと、やけに肩に力の入ったスーテラだった。ローアイン達は会話の糸口が見つからずトイレでの作戦会議を余儀なくされるが、遅れてコルワが登場し、ようやく男女６人の団内懇親会が始まるのだった。,在某个安静的夜晚，收到可露瓦联谊邀请的罗艾因、艾尔塞姆、托莫伊怀着期待的心情进入了店内。醉的一塌糊涂的拉姆蕾塔和拘谨过头的斯黛拉已经先到了。罗艾因一行人因为完全找不到切入的话题而不得不去厕所召开紧急作战会议。此时姗姗来迟的可露瓦终于到达，共计男女6人的团内联谊会也开始了。
+0,,<span class='scene-font-katari'>とある、静かな夜の事──</span>,<span class='scene-font-katari'>这是在，某个安静的夜晚里发生的事情──</span>
+1,３人,<span class='scene-font-4'>イイイイイイッッッ</span><br><span class='scene-font-4'>シャオラァァーーァイッッッ！</span>,<span class='scene-font-4'>噫噫————</span><br><span class='scene-font-4'>呀吼——哈哈！</span>
+2,,<span class='scene-font-katari'>宵闇の静けさを、</span><br><span class='scene-font-katari'>けたたましいまでの叫び声が</span><br><span class='scene-font-katari'>ぶち壊す。</span>,<span class='scene-font-katari'>安静的夜晚，</span><br><span class='scene-font-katari'>被尖锐的叫声</span><br><span class='scene-font-katari'>打破了。</span>
+3,ローアイン/罗艾因,来たべ。,来了。
+4,エルセム/艾尔塞姆,こりゃ来てんべ！,来了来了！
+5,トモイ/托莫伊,いやマジで流れきてっし！,桃花运真的要来了！
+6,,<span class='scene-font-katari'>彼らが騒ぐのにはわけがある。</span>,<span class='scene-font-katari'>他们为什么会如此兴奋呢。</span>
+7,,<span class='scene-font-katari'>３人は人生の転機を迎えようと</span><br><span class='scene-font-katari'>していた。そのきっかけは、</span><br><span class='scene-font-katari'>さかのぼること約半日──</span>,<span class='scene-font-katari'>因为他们要迎来人生的转机了——</span><br><span class='scene-font-katari'></span><br><span class='scene-font-katari'>大约在半天之前……</span>
+13,コルワ/可露瓦,ねえ、ローアイン君達。<br>今夜、みんなで私に付き合ってよ。,喂喂，罗艾因呀。<br>今晚，你们三个过来陪一下我们吧。
+14,コルワ/可露瓦,何にって？<br>それは……,要干什么？<br>那个……
+20,３人,<span class='scene-font-4'>合コンンンンン……！<br><span class='scene-font-4'>的なヤツ！　ウェーイス！</span>,<span class='scene-font-4'>是！联！谊！呀！<br><span class='scene-font-4'>万岁！</span>
+21,,<span class='scene-font-katari'>鬨の声をあげ、戦意を高める３人。</span><br><span class='scene-font-katari'>胸に渦巻く熱の逃げ場を探すように、</span><br><span class='scene-font-katari'>体をうねらせ、上下させ──</span>,<span class='scene-font-katari'>发出高昂的叫声，兴致勃勃的三人。</span><br><span class='scene-font-katari'>好像是为了发散心中那无处安放的热情一般，</span><br><span class='scene-font-katari'>上下扭动着身体──</span>
+22,ローアイン/罗艾因,行くぜダチ公！<br>マジ今日メタクソ気合入ってく<br>ところだからマジで！,要上了兄弟们！<br>讲真今天真的是要<br>动用浑身解数了哦！
+23,２人,<span class='scene-font-4'>ゥゥウゥウウィー！</span>,<span class='scene-font-4'>唔哦哦哦哦哦ー！</span>
+29,,<span class='scene-font-katari'>たどりついたのは、とある酒場。</span><br><span class='scene-font-katari'>木製のドア一枚を隔てて、</span><br><span class='scene-font-katari'>戦いの場と対峙する３人。</span>,<span class='scene-font-katari'>三人前往的是某间酒馆。</span><br><span class='scene-font-katari'>三人仿佛是面对着战场一般，</span><br><span class='scene-font-katari'>站在酒馆的木质大门前。</span>
+30,３人,…………,…………
+31,,<span class='scene-font-katari'>そして決意とともにローアインらは</span><br><span class='scene-font-katari'>ドアに手をかける──</span>,<span class='scene-font-katari'>终于下定决心的罗艾因一行</span><br><span class='scene-font-katari'>打开了大门──</span>
+37,３人,…………,…………
+38,スーテラ/斯黛拉,…………,…………
+39,ラムレッダ/拉姆蕾塔,むにゃ……<br>やぁ～ってらんないれすよぉー……,唔喵……<br>我不想干了啦……
+40,ローアイン/罗艾因,あ、スーテラさん。<br>お飲物のご注文どうですか？,呀，斯黛拉。<br>要不要点些喝的呀？
+41,スーテラ/斯黛拉,<span class='scene-font-4'>いえ！　大丈夫です！</span><br>まだ残っていますから！,<span class='scene-font-4'>不用！　可以了！</span><br>我这杯还没喝完呢！
+42,エルセム/艾尔塞姆,あ、スーテラさん。<br>おサラダ取り分けましょうか？,呀，斯黛拉。<br>我来帮你夹点沙拉吧？
+43,スーテラ/斯黛拉,<span class='scene-font-4'>いえ！　大丈夫です！</span><br>自分でできますのでお気遣いなく！,<span class='scene-font-4'>不用！　可以了！</span><br>我自己也能夹菜，不用您费心了！
+44,トモイ/托莫伊,あ、スーテラさん。<br>そろそろお席替えとかどっすか？,呀，斯黛拉。<br>不如换一下位置坐坐吧？
+45,スーテラ/斯黛拉,<span class='scene-font-4'>いえ！　大丈夫です！</span><br>今の配置で問題ありません！,<span class='scene-font-4'>不用！　可以了！</span><br>现在这个座位完全没问题！
+46,３人,…………,…………
+47,ラムレッダ/拉姆蕾塔,んにゃ……なんにゃ……男なんて……<br>この酒瓶で殴り倒して……っぷぇ……<br>血ダルマにゃ……,唔喵……什么嘛……我要把男人……<br>用这个酒瓶打爆……呕……<br>让他们血流满地喵……
+48,,<span class='scene-font-katari'>テーブルで待っていたのは、</span><br><span class='scene-font-katari'>酔い潰れて眠るラムレッダと</span><br><span class='scene-font-katari'>やけに肩に力の入ったスーテラ。</span>,<span class='scene-font-katari'>在餐桌等着他们的是，</span><br><span class='scene-font-katari'>醉得一塌糊涂倒头就睡的拉姆蕾塔，</span><br><span class='scene-font-katari'>以及拘谨过头的斯黛拉。</span>
+49,,<span class='scene-font-katari'>３人は何か会話のきっかけを掴もうと</span><br><span class='scene-font-katari'>アプローチを試みるが、それは</span><br><span class='scene-font-katari'>ことごとく回避されてしまっていた。</span>,<span class='scene-font-katari'>三人为了打开话题</span><br><span class='scene-font-katari'>不停地展示着自己，但是</span><br><span class='scene-font-katari'>全部被回避掉了。</span>
+50,エルセム/艾尔塞姆,<span class='scene-font-2'>オイオイオイローアイン！</span><br><span class='scene-font-2'>さっきから俺ら滑り倒してんぞ！</span><br><span class='scene-font-2'>Ｄｏすんだこの空気！</span>,<span class='scene-font-2'>喂喂喂罗艾因！</span><br><span class='scene-font-2'>我们从一开始就吃瘪了啊！</span><br><span class='scene-font-2'>现在这个尴尬的氛围咋办啊！</span>
+51,ローアイン/罗艾因,<span class='scene-font-2'>うっせダボ！　黙れや！</span><br><span class='scene-font-2'>スーテラちゃんに聞こえっべ！</span>,<span class='scene-font-2'>吵死了笨蛋！　给我闭嘴！</span><br><span class='scene-font-2'>我都听不到斯黛拉酱在说啥了！</span>
+52,トモイ/托莫伊,<span class='scene-font-2'>っべーわコレ……</span><br><span class='scene-font-2'>どっかで作戦立て直さねーと……</span>,<span class='scene-font-2'>这样不行啊……</span><br><span class='scene-font-2'>如果不赶紧找个地方开个作战会议的话……</span>
+53,トモイ/托莫伊,……あ！　僕ちょっと<br>お花を摘みに行ってきますね？,……啊！　我去摘个花哦？
+54,ローアイン/罗艾因,あ、俺もお花摘みに。,啊，我也去摘个花。
+55,エルセム/艾尔塞姆,あ、俺も俺も。,啊，我也去我也去。
+56,スーテラ/斯黛拉,お花を……？<br>ああ、お手洗いですね。<br>わかりました。,摘花……？<br>啊啊，去洗手间是吧。<br>我懂了。
+57,３人,<span class='scene-font-4'>ちょ、失礼しまー！</span>,<span class='scene-font-4'>那，失礼啦——！</span>
+63,ローアイン/罗艾因,はいはいはーい。<br>それじゃ第一回<br>緊急超トイレＭＴＧ開始ぃぃ……,好好好。<br>那么第一届<br>紧急超MTG（会议）开始……
+64,３人,<span class='scene-font-4'>イェー</span>,<span class='scene-font-4'>yeah——</span>
+65,ローアイン/罗艾因,クッソ……！　Ｄｏすんだコレよ！<br>何が噛み合ってねえのか<br>ぜんっぜんわかんね……！,可恶……！　这咋办啊！<br>哪个环节出了问题呢，<br>完全搞不懂……！
+66,トモイ/托莫伊,スーテラちゃん嫌がってねえべ？<br>むしろ気合十分って感じだべ？<br>きっと原因こっちだっちゃ？,斯黛拉酱应该不是讨厌联谊吧？<br>倒不如说我感觉到她干劲满满呢？<br>所以是我们的问题咯？
+67,エルセム/艾尔塞姆,だな。マジ調子でねえ……<br>「キャタリナさんをナンパした時の<br>ローアイン現象」ここでも出んのかよ！,是吧。讲真有点不在状态啊……<br>「搭讪卡塔莉娜的<br>罗艾因现象」居然在这里出现了啊！
+68,エルセム/艾尔塞姆,っべーぞコレ。<br>早くなんとかしねーと<br>俺らのメンタルもたねーぞ。,真不妙啊。<br>如果不赶紧做点啥的话<br>就白瞎了我们的努力了啊。
+69,ローアイン/罗艾因,っつってもっべーぞマジ。<br>恋愛白書に載ってる手<br>全部使い果たしてっし。,不用你说我也知道。<br>明明我把恋爱白书上记载的撩妹技巧<br>全部使出来了啊。
+70,エルセム/艾尔塞姆,待ってろ！<br>ちょ、秒で恋愛白書見直すわ。,等等！<br>在赶紧看一次恋爱白书吧。
+71,トモイ/托莫伊,……いや、ちょ待てエルっち。<br>もしかしてこれ、伝承と実態が<br>違ってるパティーンじゃねえ？,……不对，等一下，艾尔亲。<br>难道说这是，书上的经验和实际<br>完全不同的情况？
+72,エルセム/艾尔塞姆,なる……ありえるー,原来如此……
+73,トモイ/托莫伊,旅あるあるだべ？　書物の情報と<br>実物で全然イメージちげえ感じ。<br>アレよ、星晶獣とか。,我们也旅行了很多次了吧？　书上的情报<br>和实物完全不一样的。<br>比如说，星晶兽啥的。
+74,ローアイン/罗艾因,あー、ザカさんの肖像画とか<br>マジ怖いけど<br>本人は子供に超優しい的なギャップ？,啊，就像扎卡大公，画像上<br>那么恐怖<br>实际上是个很喜欢小孩的老头这样的差距？
+75,トモイ/托莫伊,それな。たぶん恋愛白書もアレよ。<br>長い時間が経つうちに、本来伝えるべき<br>アレが失われてったっつーか。,所以恋爱白书估计也是这样。<br>经过那么长时间，书上写的<br>那些有用的经验都失传了。
+76,エルセム/艾尔塞姆,……マジか……旅あるあるだわ……<br>じゃ、俺ら何信じりゃいいのよ……,……不是吧……居然是这种情况啊……<br>那我们应该信什么啊……
+77,ローアイン/罗艾因,こういう時、姬塔は<br>とにかくぶつかんじゃん？<br>それ見習うしかねーぞ的な。,这种时候，姬塔她<br>不都会先硬着头皮上的嘛？<br>不如也试着硬上吧。
+78,トモイ/托莫伊,それな。とりまアレじゃん？<br>諦め禁止で<br>突破口どうにか見つけっぺ。,这样。嘛总是先试试？<br>不放弃地<br>去寻找突破口呗。
+79,トモイ/托莫伊,つかコルワちゃんが来る前に<br>空気整えとかねーと、合コンって<br>雰囲気じゃなくなっし。,总之要在可露瓦来之前<br>把气氛炒热起来呀，联谊要是<br>没有气氛就完了。
+80,ローアイン/罗艾因,ああ。<br>コルコル仕事で遅刻的なヤツだっけ？,啊啊。<br>可露露她好像因为工作所以迟到了来着？
+81,エルセム/艾尔塞姆,って話だけどよ。<br>ルワルワ来るまであと時間<br>どんだけ残されてるよ？,说是这么说。<br>可瓦瓦酱过来之前<br>怎么搞呀？
+82,トモイ/托莫伊,時間っつったらウチらもっべーぞ。<br>今一応食事中じゃん？　トイレから<br>ずっと出てこねーっての行儀悪いべ。,说道时间我们这边问题也很大啊。<br>好说歹说现在也是在吃饭吧？　一直在厕所里<br>死活不出来是不是很没礼貌啊。
+83,エルセム/艾尔塞姆,だな……<br>妙な疑い持たれたら<br>それこそ空気取り返せねー的な。,是呢……<br>如果他们觉得莫名其妙的话<br>气氛怎么样也炒不起来的吧。
+84,ローアイン/罗艾因,クッソ……<br>つかコルワちゃんのアダ名も<br>安定してねーし、っべーなコレ……,可恶……<br>说起来你们起的可露瓦酱的昵称<br>也是乱七八糟的，真不妙啊……
+85,スーテラ/斯黛拉,ふふふ……<br>まだ、少しだけ……恥ずかしいです。,呵呵呵……<br>还是有点害羞……。
+86,３人,…………！,…………！
+87,ローアイン/罗艾因,ちょ、スーテラちゃん笑ってんの<br>今日はじめて初めて聞いたべ！,等等，刚刚斯黛拉酱是不是笑了呀？<br>今天第一次笑诶！
+88,エルセム/艾尔塞姆,<span class='scene-font-4'>オイオイオイ！</span><br>まさかいかがわしい奴らに<br>ナンパされてんじゃ！,<span class='scene-font-4'>喂喂喂！</span><br>难道是被奇怪的家伙<br>搭讪了吗！
+89,トモイ/托莫伊,ラムちょ泥酔してっし<br>っべーぞあの状況！,拉姆亲也是醉的一塌糊涂<br>问题很大啊！
+90,ローアイン/罗艾因,とりまノリコして<br>スーテラちゃん達救出な！<br>いくぜダチ公！,总之先打起精神<br>把斯黛拉酱救出来！<br>兄弟们，走你！
+92,２人,<span class='scene-font-4'>りょ！</span>,<span class='scene-font-4'>走你！</span>
+98,コルワ/可露瓦,ふふ。そう？　とても似合ってるから<br>堂々としていていいのに。<br>……ところで男子、どこいったの？,呵呵，是这样吗？　很像你的风格呀，<br>就这样就可以了。<br>……说起来男生们都去哪了？
+102,ローアイン/罗艾因,<span class='scene-font-kokoro'>（誰だかしんねえが……！</span><br><span class='scene-font-kokoro'>スーテラちゃんとラムちょは</span><br><span class='scene-font-kokoro'>俺らが守る！）</span>,<span class='scene-font-kokoro'>（无论是谁……！</span><br><span class='scene-font-kokoro'>斯黛拉酱和拉姆亲</span><br><span class='scene-font-kokoro'>由我来守护！）</span>
+107,コルワ/可露瓦,あ、いたいた！<br>ごめんね、やっと仕事終わったの！,啊，来了来了！<br>对不起，刚刚工作才结束！
+108,３人,<span class='scene-font-4'>わーさん！</span>,<span class='scene-font-4'>瓦酱！</span>
+109,,<span class='scene-font-katari'>こうして、大事故の現場は</span><br><span class='scene-font-katari'>救いの神コルワの出現で</span><br><span class='scene-font-katari'>なんとかなりそうな雰囲気になった。</span>,<span class='scene-font-katari'>就这样，大型事故现场的氛围</span><br><span class='scene-font-katari'>因为可露瓦的出现</span><br><span class='scene-font-katari'>而终于有所缓和了。</span>
+110,,<span class='scene-font-katari'>６人の男女による、</span><br><span class='scene-font-katari'>グランサイファーの団内懇親会。</span><br><span class='scene-font-katari'>果たしてその結末やいかに。</span>,<span class='scene-font-katari'>由这6位男女组成的，</span><br><span class='scene-font-katari'>格兰赛法内部联谊会。</span><br><span class='scene-font-katari'>究竟会迎来怎样的结局呢。</span>
+info,,,scene_evt170401_cp0_q1_s10

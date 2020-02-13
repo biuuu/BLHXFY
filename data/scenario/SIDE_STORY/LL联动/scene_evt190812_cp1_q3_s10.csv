@@ -1,0 +1,96 @@
+id,name,text,trans
+0-chapter_name,,#1 笑顔のない街,#1 没有笑容的街道
+0-synopsis,,穂乃果の提案により、街の真ん中でライブの練習をすることでスクールアイドルの魅力を伝えようとする穂乃果達。練習を見ている街の人達を穂乃果がどんどん練習の輪に加えていき、スクールアイドルとは何なのかを直に伝えていく。練習に加わった街の人々の顔には笑顔が浮かんでいき、その様子を突然現れた謎の少女が興味深げに見守るのだった。,穂乃果の提案により、街の真ん中でライブの練習をすることでスクールアイドルの魅力を伝えようとする穂乃果達。練習を見ている街の人達を穂乃果がどんどん練習の輪に加えていき、スクールアイドルとは何なのかを直に伝えていく。練習に加わった街の人々の顔には笑顔が浮かんでいき、その様子を突然現れた謎の少女が興味深げに見守るのだった。
+1,穂乃果,ダメだぁ……<br>なんにも思いつかないや……,不行了……什么都想不出来……
+2,,<span class='scene-font-katari'>穂乃果は頭を抱えていた。</span>,<span class='scene-font-katari'>穂乃果抱着头。</span>
+3,海未,やはり、絵里の懸念を払拭するのは<br>難しいようですね……,果然，要彻底抹除<br>绘里的悬念是很难的呢……
+4,穂乃果,スクールアイドルを知らない人に<br>その魅力を伝えるには<br>どうしたらいいんだろう……,要向不知道学园偶像的人<br>传递这份魅力<br>到底该怎么办才好……
+5,ことり/小鸟,踊り子や吟遊詩人がいる世界なら、<br>その楽しさを伝えるいい方法が<br>なにかあると思うんだけどな……,舞女和吟游诗人存在的世界的话，<br>有什么能够传递这份快乐<br>的好方法就好了啊……
+6,穂乃果,踊りを見たり、歌を聴いたり、<br>そういう楽しみは<br>この世界にはあって……,观看跳舞，听别人唱歌，<br>像这样的乐趣在这个世界也有……
+7,穂乃果,でも、私達のやっていることは<br>それとは少し違ってて……,但是，这和我们在做的事，<br>稍微有些区别……
+8,穂乃果,……そうだ！,……对了啊！
+14,海未,では、始めます！,那么，开始了！
+15,8人,うん！<br>ええ！,嗯！<br>好的！！
+16,海未,せーの！,预—备！
+17,海未,１、２、３、４、５、６、７、８……,１、２、３、４、５、６、７、８……
+18,,<span class='scene-font-katari'>海未の手拍子とともにカウント開始。</span><br><span class='scene-font-katari'>こうして街のど真ん中で</span><br><span class='scene-font-katari'>穂乃果達の練習がはじまった。</span>,<span class='scene-font-katari'>海未一边拍着手一边数数。</span><br><span class='scene-font-katari'>就像这样穗乃果一行人</span><br><span class='scene-font-katari'>在大街的正中央开始了练习。</span>
+19,,<span class='scene-font-katari'>内容は至って簡単なものである。</span><br><span class='scene-font-katari'>右脚を真横に１歩開いて左脚を閉じ、</span><br><span class='scene-font-katari'>次に左脚を１歩開いて右脚を閉じる……</span>,<span class='scene-font-katari'>内容十分的简单。</span><br><span class='scene-font-katari'>右脚横跨１步开然后左脚跟着闭上，</span><br><span class='scene-font-katari'>接下来是左脚横跨１步开然后右脚闭上……</span>
+20,,<span class='scene-font-katari'>４拍で１往復、それを１セットとした</span><br><span class='scene-font-katari'>単純な左右ステップの繰り返し。</span><br><span class='scene-font-katari'>それを延々と続けるというものだ。</span>,<span class='scene-font-katari'>４拍１个循环，</span><br><span class='scene-font-katari'>把这个作为１小节重复单纯的</span><br><span class='scene-font-katari'>左右舞步。就这样一直持续下去。</span>
+26,真姫,<span class='scene-font-2'>……なんでよりによって</span><br><span class='scene-font-2'>街のど真ん中で練習を始めてんのよ。</span>,<span class='scene-font-2'>……为什么选什么偏不好</span><br><span class='scene-font-2'>偏偏就在大街正中间开始练习了啊。</span>
+32,凛,<span class='scene-font-2'>それに、こんなステップ、</span><br><span class='scene-font-2'>凛達の曲でやる予定ないにゃ……</span>,<span class='scene-font-2'>而且，像这样的舞步，</span><br><span class='scene-font-2'>不是凛我们预定要做的曲子喵……</span>
+38,希,<span class='scene-font-2'>まあ、この場は</span><br><span class='scene-font-2'>穂乃果ちゃんに任せてみよ？</span>,<span class='scene-font-2'>嘛，这个地方就放心交给穗乃果吧？</span>
+44,真姫,<span class='scene-font-2'>そうは言うけど……</span>,<span class='scene-font-2'>虽然是这么说……</span>
+45,,<span class='scene-font-katari'>気まずそうに周囲を見渡す真姫。</span><br><span class='scene-font-katari'>すると……</span>,<span class='scene-font-katari'>真姫心情略微不好的看了看四周。</span><br><span class='scene-font-katari'>然后……</span>
+46,女性１,……ねえ、なんの騒ぎ？,……那个，这是在做什么？
+47,女性２,あの子達は何をしているの……？,那些孩子在做什么啊……？
+48,花陽/花阳,<span class='scene-font-2'>うう……どんどん人が集まってくるよ？</span><br><span class='scene-font-2'>穂乃果ちゃんのアイディアって何……？</span>,<span class='scene-font-2'>呜呜……人越聚越多了啊？</span><br><span class='scene-font-2'>穂乃果的主意究竟是……？</span>
+49,,<span class='scene-font-katari'>ステップを刻む穂乃果達の周りに</span><br><span class='scene-font-katari'>次第に人だかりができはじめていた。</span>,<span class='scene-font-katari'>舞步铭记于心的穗乃果们</span><br><span class='scene-font-katari'>周围开始形成了一堵人墙。</span>
+50,穂乃果,<span class='scene-font-kokoro'>（ふっふっふ……計算通り）</span>,<span class='scene-font-kokoro'>（呼，呼，呼……和计划的一样）</span>
+51,海未,<span class='scene-font-kokoro'>（本当にこれで</span><br><span class='scene-font-kokoro'>上手くいくのでしょうか……）</span>,<span class='scene-font-kokoro'>（这个真的能顺利进行吗……）</span>
+52,海未,<span class='scene-font-kokoro'>（というか、</span><br><span class='scene-font-kokoro'>練習でここまで注目されると</span><br><span class='scene-font-kokoro'>少し恥ずかしい……）</span>,<span class='scene-font-kokoro'>（不如说，练习的时候</span><br><span class='scene-font-kokoro'>被这样看着稍微有些难为情……）</span>
+53,ことり/小鸟,<span class='scene-font-kokoro'>（でも、穂乃果ちゃんの言う通り、</span><br><span class='scene-font-kokoro'>人は集まってきたから……</span><br><span class='scene-font-kokoro'>きっと、大丈夫……！）</span>,<span class='scene-font-kokoro'>（但是，就像穗乃果说的一样，</span><br><span class='scene-font-kokoro'>人们聚集起来了……</span><br><span class='scene-font-kokoro'>一定，没问题的……！）</span>
+59,,<span class='scene-font-katari'>穂乃果曰く……</span>,<span class='scene-font-katari'>穂乃果是这么打算的……</span>
+60,海未,街の人を巻き込む……？,把街上的人都卷进来……？
+61,ことり/小鸟,巻き込むって、私達の活動に？,卷进来，指的是我们的活动里？
+62,穂乃果,うん。確かにみんな元気ないけど<br>新しく来た私達の事が<br>気になってる感じでしょ？,嗯。大家确实是没什么精神<br>但是能感觉到很在意<br>新来的我们对吧？
+63,穂乃果,ほら、路上で寝てた私達を<br>「何やってるんだろう」って<br>見物に集まってきていたし……,你看，对着在路上睡着的我们说<br>「这是在做什么啊」<br>像是在观光一样地聚集在一起了……
+64,穂乃果,これってつまり、<br>新しいものとか珍しい事への<br>興味はある、って事だと思うんだ。,这也就是说，<br>对新鲜事物和少见的事物有兴趣，<br>这么一回事吧。
+65,穂乃果,それで思いついたの。<br>スクールアイドルを知らないなら、<br>一緒に始めてみればいいんだよ！,于是我就想到了。<br>要是不知道学园偶像的话，<br>那么一起开始不就好了吗！
+72,穂乃果,そこのあなた！<br>今、私達の練習を見てましたね？,那边的那个你！<br>刚刚，看了我们的练习对吧？
+75,女性１,え……<br>な、何をしているのかと<br>不思議に思って……,诶……<br>因，因为很不可思议<br>觉得在做什么……
+76,穂乃果,ふっふっふ……<br>だったら、一緒にやってみませんか？<br>悪いようにはしませんよ～？,呼，呼，呼……<br>那样的话，要一起来试试吗？<br>不会对你做什么坏事的～？
+77,女性１,いや、その……<br>私は別に……,啊不，那个……我就不用……
+78,穂乃果,ほらほら！<br>練習時間は限られてますから！,来吧来吧！<br>练习时间可是有限制的啊！
+79,女性２,…………,…………
+81,,<span class='scene-font-katari'>この場にいれば</span><br><span class='scene-font-katari'>巻き込まれると知った街の人々は</span><br><span class='scene-font-katari'>その場を去ろうとするのであったが……</span>,<span class='scene-font-katari'>知道了在这里就会</span><br><span class='scene-font-katari'>被卷进去的街上的人们</span><br><span class='scene-font-katari'>虽然打算开始离开……</span>
+83,穂乃果,ちょーっと待ってください！<br>せっかくここまで来たんだから、<br>一緒に練習しましょうよー！,稍微————等一等啦！<br>难得都到这里来了，<br>就一起来练习吧ー！
+84,女性２,あ、いや、ちょっと……！,啊，这个，就稍微有点……！
+85,,<span class='scene-font-katari'>そして穂乃果は、</span><br><span class='scene-font-katari'>捕まえたふたりの女性の背中を押して</span><br><span class='scene-font-katari'>練習の輪に加えてしまうのであった。</span>,<span class='scene-font-katari'>然后穂乃果，</span><br><span class='scene-font-katari'>推着抓捕到的两位女性的后背</span><br><span class='scene-font-katari'>一起加入了练习的队伍。</span>
+89,海未,ではもう一度最初から！<br>せーの……,那么 再从最开始的地方来一次！<br>预ー备……
+95,女性達/女性们,…………,…………
+96,,<span class='scene-font-katari'>ふたりの女性は困惑を隠せないまま</span><br><span class='scene-font-katari'>右へ左へとステップを繰り返す。</span><br><span class='scene-font-katari'>それを尻目に穂乃果は駆け出した。</span>,<span class='scene-font-katari'>两位女性不遮掩流露出的困惑</span><br><span class='scene-font-katari'>重复进行着向左向右的舞步。</span><br><span class='scene-font-katari'>在那里斜着眼看着穗乃果跑了出去。</span>
+99,穂乃果,あなた……<br>いま、私と目が合いましたね？,你……<br>刚刚，和我对上眼神了吧？
+100,女性３,ひっ……！？,噫……！？
+101,穂乃果,私と目が合ったら最後、<br>参加しなくてはいけません……,要是和我对上眼神了，<br>就必须要参加到最后……
+102,穂乃果,<span class='scene-font-4'>それがルールです！</span>,<span class='scene-font-4'>这就是规矩！</span>
+108,,<span class='scene-font-katari'>なにかと理由をつけては</span><br><span class='scene-font-katari'>街の人を連れてくる穂乃果。</span><br><span class='scene-font-katari'>そして……</span>,<span class='scene-font-katari'>街上的人们被穂乃果</span><br><span class='scene-font-katari'>用各种理由带了过来。</span><br><span class='scene-font-katari'>然后……</span>
+109,海未,はい、それでは少し休憩します！,好了，这里稍微休息一下！
+110,女性達/女性们,ふう……,呼……
+111,,<span class='scene-font-katari'>練習を仕切る海未が</span><br><span class='scene-font-katari'>休憩を告げる頃には、</span><br><span class='scene-font-katari'>巻き込まれた者は20人を超えていた。</span>,<span class='scene-font-katari'>主持练习的海未</span><br><span class='scene-font-katari'>在宣告休息的那一刻，</span><br><span class='scene-font-katari'>已经有超过20个人被卷进来了。</span>
+112,にこ/妮可,……次々とまあ、<br>よく集めたもんね。,……还真是一个接一个啊，<br>真亏你们能聚集过来。
+113,海未,まったく穂乃果の強引さは<br>相変わらずですね。皆さんの<br>迷惑でなければいいのですが……,真是的 穗乃果的蛮干<br>还真是没变过呢。<br>希望没给大家带来困扰就好了……
+114,希,大丈夫。<br>みんな恥ずかしがってるだけで<br>嫌そうな顔はしてないやろ？,没关系。<br>大家只是有些害羞而已<br>并没有露出讨厌的表情哦？
+115,海未,だと、いいんですが……,是这样就好……
+116,,<span class='scene-font-katari'>その視線の先では、</span><br><span class='scene-font-katari'>穂乃果が街の人達に話しかけていた。</span>,<span class='scene-font-katari'>在这视线的前方，</span><br><span class='scene-font-katari'>穂乃果在和街上的人们搭话。</span>
+117,穂乃果,ねえ、練習どうだった？<br>よかったら感想を聞かせて？,呐，练习感觉怎么样？<br>可以的话能听听感想吗？
+118,女性１,みんなの動きが合うと、<br>不思議と心地よくて……<br>これがスクールアイドル、なのですか？,大家的动作都合拍到一起，<br>心里不可思议地很踏实……<br>这个就是学园偶像，这种东西吗？
+119,穂乃果,そう！　こんな風に突然出会って、<br>始めてみたらなんか楽しい……<br>それがスクールアイドルなの！,对！　就像这样突然遇到，<br>开始去尝试了就会很开心……<br>这个就是学园偶像！
+120,穂乃果,ねえ、<br>他にも歌の練習とかもするんだけど、<br>どう？　一緒にやってみない？,呐，<br>另外还有唱歌的练习，<br>怎么样？　要一起试试吗？
+121,女性１,は、はい……,好，好的……
+122,女性２,私は……<br>人前に出るのが、本当は苦手で……<br>だからこの練習も、ちょっと……,我其实……对于<br>露脸在别人面前，其实很不擅长的……<br>所以这个练习也，稍微有点……
+123,穂乃果,そっか……<br>なら、もしよかったら、<br>このあとも見学だけでもしていってよ。,这样啊……<br>那样的话，如果可以的话，<br>在这之后在一旁参观也是可以的哦。
+124,穂乃果,せっかくこうして出会えたんだもん。<br>私達のこと、<br>もっとよく知ってもらいたいんだ。,难得这样相遇了。<br>希望你们能更多地<br>知道关于我们的事呀。
+125,,<span class='scene-font-katari'>その後、一同は発声からはじめ、</span><br><span class='scene-font-katari'>喉の調子を整えて、</span><br><span class='scene-font-katari'>いよいよ歌唱の練習に入る。</span>,<span class='scene-font-katari'>在那之后，就开始了一起发声练习，</span><br><span class='scene-font-katari'>调整好嗓子的状态，</span><br><span class='scene-font-katari'>终于开始进入了唱歌的练习。</span>
+126,,<span class='scene-font-katari'>いつも練習で使っている</span><br><span class='scene-font-katari'>音楽プレーヤーと拡張スピーカーを</span><br><span class='scene-font-katari'>セットして準備完了。そして……</span>,<span class='scene-font-katari'>往常练习使用的</span><br><span class='scene-font-katari'>音乐播放器和扩音器</span><br><span class='scene-font-katari'>也都准备好了。然后……</span>
+127,穂乃果,いくよ！,开始咯！
+130,,<span class='scene-font-katari'>再生ボタンを押すとともに、ゆっくりと</span><br><span class='scene-font-katari'>ピアノとストリングスの音色が</span><br><span class='scene-font-katari'>流れ出した。</span>,<span class='scene-font-katari'>播放按钮按下的同时，</span><br><span class='scene-font-katari'>缓慢的钢琴和弦乐的声音</span><br><span class='scene-font-katari'>开始流淌出来。</span>
+131,,<span class='scene-font-katari'>選んだのは、</span><br><span class='scene-font-katari'>テンポを忙しいと感じさせず</span><br><span class='scene-font-katari'>合唱のしやすい、暖かく優しい曲。</span>,<span class='scene-font-katari'>选择的是，</span><br><span class='scene-font-katari'>不会让人觉得拍子很紧迫</span><br><span class='scene-font-katari'>很容易合唱的，温暖又温柔的曲子。</span>
+132,,<span class='scene-font-katari'>人々の胸にかかった雲が晴れ、</span><br><span class='scene-font-katari'>悲しみを糧に再び前を向けるように──</span><br><span class='scene-font-katari'>そんな願いのこもった歌詞でもあった。</span>,<span class='scene-font-katari'>愿困扰在人们胸前的阴霾散去，</span><br><span class='scene-font-katari'>化悲伤为食粮再度向前──</span><br><span class='scene-font-katari'>包含着这样愿望的歌词在里面。</span>
+133,,<span class='scene-font-katari'>先ほどのステップに手拍子を加えて、</span><br><span class='scene-font-katari'>人々はたどたどしくも</span><br><span class='scene-font-katari'>穂乃果達についていく。</span>,<span class='scene-font-katari'>加入刚刚舞步的手打拍子，</span><br><span class='scene-font-katari'>人们都纷纷前往穗乃果那边。</span>
+134,,<span class='scene-font-katari'>ともに歌う者、見学する者と、</span><br><span class='scene-font-katari'>住人の反応は様々だったが、</span><br><span class='scene-font-katari'>その場を去る者はいなかった。</span>,<span class='scene-font-katari'>有一起唱歌的人，还有一旁参观的人，</span><br><span class='scene-font-katari'>虽然住民的反应各种各样，</span><br><span class='scene-font-katari'>但是没有一人从这里离开。</span>
+135,女性達/女性们,ふふ……,呵呵……
+136,,<span class='scene-font-katari'>いつしか街の人々の顔には</span><br><span class='scene-font-katari'>照れ交じりの笑顔が浮かんでいて──</span>,<span class='scene-font-katari'>不知不觉街道上的人们</span><br><span class='scene-font-katari'>脸上互相露出了笑颜──</span>
+144,？？？,<span class='scene-font-gray'>異界の住民による影響を観測……</span>,<span class='scene-font-gray'>观测由异界居民带来的影响……</span>
+145,？？？,<span class='scene-font-gray'>彼女達は虚無の星晶獣の力に抗った……</span><br><span class='scene-font-gray'>星晶獣が休眠状態にあり、</span><br><span class='scene-font-gray'>力が島中に拡散しているとはいえ……</span>,<span class='scene-font-gray'>她们在抵抗虚无的星晶兽的力量……</span><br><span class='scene-font-gray'>虽说星晶兽在休眠状态，</span><br><span class='scene-font-gray'>力量扩散在这个岛中……</span>
+146,？？？,<span class='scene-font-gray'>第２サンプルを無作為に抽出……</span>,<span class='scene-font-gray'>把第2样本随机抽出……</span>
+147,？？？,<span class='scene-font-gray'>サンプル投影……</span>,<span class='scene-font-gray'>样本投影……</span>
+153,町長/镇长,なんと、まあ……<br>街の者達が、笑顔に……,居然，啊……<br>街上的人们，展露笑颜了……
+154,,<span class='scene-font-katari'>突如街に響きはじめた大合唱を</span><br><span class='scene-font-katari'>不審に思って家を出た町長は、</span><br><span class='scene-font-katari'>広場の様子に驚愕を隠せない。</span>,<span class='scene-font-katari'>对突如其来在街上响起的大合唱</span><br><span class='scene-font-katari'>感到疑问而从家里走出来的镇长，</span><br><span class='scene-font-katari'>对广场的样子止不住地惊讶道。</span>
+155,町長/镇长,あの子達の活動というのは、<br>こういったものだったのですね……,那些孩子们所谓的活动，<br>就是这样的东西啊……
+158,少女,…………,…………
+159,町長/镇长,おや、あなたは……？<br>この街にまたお客さんとは<br>珍しいこともあるものです……,哦呀，你是……？<br>这条街上有客人来<br>可是十分罕见的……
+160,少女,あれが、μ's……,那个是，μ's……
+161,町長/镇长,みゅーず……？　とは？,缪斯……？　指的是？
+162,少女,あの子達の、グループの名前……,那些孩子的，组合的名字……
+163,,<span class='scene-font-katari'>突如現れた謎の少女は、</span><br><span class='scene-font-katari'>穂乃果達が歌う姿を</span><br><span class='scene-font-katari'>興味深げに見守るのだった。</span>,<span class='scene-font-katari'>突然出现的谜之少女，</span><br><span class='scene-font-katari'>意味深长地在一旁观望着</span><br><span class='scene-font-katari'>穗乃果她们唱歌的姿态。</span>
+info,,,scene_evt190812_cp1_q3_s10

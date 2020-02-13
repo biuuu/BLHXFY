@@ -1,0 +1,63 @@
+id,name,text,trans
+0-chapter_name,,偽りだらけの青春の１ページ,
+1,,<span class='scene-font-katari'>姬塔達が</span><br><span class='scene-font-katari'>アルベールやユリウスと出会うより</span><br><span class='scene-font-katari'>前のある日の出来事──</span>,<span class='scene-font-katari'>这是阿尔贝尔、</span><br><span class='scene-font-katari'>尤里乌斯他们遇到姬塔</span><br><span class='scene-font-katari'>之前的某天──</span>
+2,,<span class='scene-font-katari'>レヴィオン王国の南西部。</span><br><span class='scene-font-katari'>長閑な田園風景が広がる中、</span><br><span class='scene-font-katari'>武装した小隊が歩を進めていた。</span>,<span class='scene-font-katari'>在雷维翁王国的南西部，</span><br><span class='scene-font-katari'>一片悠闲的田园风光中，</span><br><span class='scene-font-katari'>有一支全副武装的小队正在行进中。</span>
+3,,<span class='scene-font-katari'>その先頭に立つのは、</span><br><span class='scene-font-katari'>レヴィオン騎士団の団長に就任して</span><br><span class='scene-font-katari'>まだ日が浅いアルベールである。</span>,<span class='scene-font-katari'>为首的是刚就任</span><br><span class='scene-font-katari'>雷维翁骑士团团长</span><br><span class='scene-font-katari'>不久的阿尔贝尔。</span>
+4,アルベール/阿尔贝尔,気をつけろ。魔物が人里に現れるのは<br>夜だと聞いてはいるが……<br>万が一のこともある。,虽说根据传闻，<br>是在夜晚目击到魔物出现在村庄的……<br>不怕一万就怕万一。小心为上。
+5,アルベール/阿尔贝尔,さて、皆、報告にあった<br>魔物の特徴は頭に入っているな？<br>警戒を怠らずに進むぞ！,那么，报告中所提及的<br>魔物的特征大家都记住了吗？<br>继续保持警戒！
+6,,<span class='scene-font-katari'>アルベールは、険しい表情で</span><br><span class='scene-font-katari'>小隊の面々に指示を出す。</span>,<span class='scene-font-katari'>阿尔贝尔表情严峻，</span><br><span class='scene-font-katari'>向队员们发出指令。</span>
+8,ユリウス/尤里乌斯,やれやれ……<br>魔物の住処と思しき場所は、<br>遥か向こうに見える山の中だよ？,好了好了……<br>预测的魔物出没地点<br>可是在那么远的那座山里哦？
+9,ユリウス/尤里乌斯,まあ、君の雷のような俊足なら<br>すぐかもしれないが……<br>些か焦りすぎだと思うがね。,不过，凭着你雷厉风行的作风<br>也许很快就能抵达……<br>但我还是觉得你有点过度焦虑了。
+10,,<span class='scene-font-katari'>肩を竦めながら声を掛けたのは、</span><br><span class='scene-font-katari'>研究者のユリウスである。</span>,<span class='scene-font-katari'>无奈地摊了摊手上前搭话的</span><br><span class='scene-font-katari'>是作为研究者的尤里乌斯。</span>
+11,アルベール/阿尔贝尔,ユリウス……<br>確かにそうかもしれないがな。,尤里乌斯……<br>或许如此。
+12,アルベール/阿尔贝尔,俺達は……レヴィオン騎士団は、<br>この国の誇りだ。<br>常に万全を期すのは当然だろう。,但我们……<br>我们雷维翁骑士团是这个国家的骄傲，<br>无论何时都要求万无一失也是当然的吧。
+13,ユリウス/尤里乌斯,…………,…………
+14,ユリウス/尤里乌斯,親友殿、朝食は食べたかい？,挚友哟，你吃过早餐了吗？
+15,アルベール/阿尔贝尔,ん……？<br>なんだって？,嗯……？<br>你说了什么？
+16,ユリウス/尤里乌斯,フフッ、朝食は食べたのかと<br>聞いたんだよ。,呵呵，我刚才问了你有没有吃过早餐。
+17,アルベール/阿尔贝尔,おい、任務中だぞ？<br>雑談をしている場合では……,喂，现在可是任务中，<br>没工夫谈天……
+18,ユリウス/尤里乌斯,まあ、いいから答えたまえ。<br>食べたのか、食べていないのか。,好了好了快点回答我。<br>有，还是没有。
+19,アルベール/阿尔贝尔,それは……食べていない。<br>出発の直前まで執務に当たっていた。,就……还没。<br>出发前的最后一刻都还在办公。
+20,ユリウス/尤里乌斯,ククク、いけないね。<br>朝食を抜くと集中力に影響が出る。,霍霍，这可不成。<br>不吃早餐会影响注意力的集中的。
+21,ユリウス/尤里乌斯,というわけで、これを君に。,综上所述，拿去。
+22,,<span class='scene-font-katari'>ユリウスは不敵に微笑みつつ、</span><br><span class='scene-font-katari'>黒い蜜のようなものが載ったパンを</span><br><span class='scene-font-katari'>アルベールに差し出す。</span>,<span class='scene-font-katari'>尤里乌斯的脸上浮现出一种自信满满的微笑。</span><br><span class='scene-font-katari'>他拿出了一块表面涂着一层黑蜜似的东西的面包，递给阿尔贝尔。</span>
+23,アルベール/阿尔贝尔,これは……なんだ？<br>支給の黒パンに何か塗ったのか？,这是……？<br>你在军备的黑面包上涂了什么？
+24,ユリウス/尤里乌斯,フッ、種々の食材から成分を抽出して<br>ジャムにしたんだ。これを塗るだけで<br>手軽に豊富な栄養が摂取できる。,呵，我把从各种各样的食材中<br>提取出的成分做成了这种酱。<br>吃了涂上它的东西就能简单地摄取丰富营养。
+25,ユリウス/尤里乌斯,つまり、私の研究の成果さ。<br>ぜひ君に堪能してもらいたい。,也就是说，是我研究的成果。<br>希望你能享受。
+26,アルベール/阿尔贝尔,おい、待て……！<br>まさかユリウスが作ったのか？<br>自分の手で、あの研究室で？,喂，等等……！<br>这不会是尤里乌斯做的吧？<br>在那个研究室，亲手做出来的？
+27,ユリウス/尤里乌斯,もちろんさ。何か不服なことでも？,那是自然。你有什么不满吗？
+28,アルベール/阿尔贝尔,当然だ！　お前の実験料理を食べて<br>過去にどんな目に遭ったか……<br>忘れたとは言わせんぞ？,当然了！　<br>过去吃下你这家伙的实验料理之后的惨况……<br>我可忘不掉哦？
+29,ユリウス/尤里乌斯,おや？　何かあったかな？<br>細かいことは覚えていないものでね。,哦呀？发生过什么？<br>那种小事我记不得了。
+30,アルベール/阿尔贝尔,やれやれ……色々ありすぎた。<br>正気を失いかけたことすら<br>あったんだからな。,唉……多到数不清了。<br>甚至有几次差点失去自我。
+31,ユリウス/尤里乌斯,はは、気が進まないようだね。<br>それならば、これでどうだい？,哈哈，看样子你是不肯配合了呢。<br>那么，这样如何？
+32,,<span class='scene-font-katari'>ユリウスはパンを</span><br><span class='scene-font-katari'>ひとくち齧ってみせると、</span><br><span class='scene-font-katari'>満足そうに頬張る。</span>,<span class='scene-font-katari'>尤里乌斯咬下一小口面包给阿尔贝尔看，</span><br><span class='scene-font-katari'>一脸满足地鼓起了嘴。</span>
+33,ユリウス/尤里乌斯,ふむ、我ながら逸品だ。<br>栄養そのものの味がするよ。,唔呣，就连我都觉得这是难得的佳肴。<br>这就是营养的味道啊。
+34,アルベール/阿尔贝尔,まったく……<br>どんな味だ、それは。,真的是……<br>那得是什么味啊。
+35,ユリウス/尤里乌斯,ククッ、興味があるなら食べればいい。<br>劇物でないことは証明したからね。,呵呵，想知道的话就来尝尝啊，<br>我已经证明这是无毒的了。
+36,アルベール/阿尔贝尔,…………,…………
+37,,<span class='scene-font-katari'>アルベールは親友の真意を</span><br><span class='scene-font-katari'>汲み取ろうとして、</span><br><span class='scene-font-katari'>じっとその顔を見つめる。</span>,<span class='scene-font-katari'>阿尔贝尔紧紧地盯着挚友的脸，</span><br><span class='scene-font-katari'>希望从中读出他的真实意图。</span>
+38,,<span class='scene-font-katari'>しかし、ユリウスの微笑からは</span><br><span class='scene-font-katari'>何も読み取れず、</span><br><span class='scene-font-katari'>観念した様子で首を振った。</span>,<span class='scene-font-katari'>然而，从尤里乌斯的微笑之中</span><br><span class='scene-font-katari'>什么都看不出来的他</span><br><span class='scene-font-katari'>放弃似的摇了摇头。</span>
+39,アルベール/阿尔贝尔,ふう……<br>わかったよ、親友殿。<br>ありがたくいただこうじゃないか。,唉……<br>我明白了，挚友。<br>那我就不客气了。
+40,,<span class='scene-font-katari'>アルベールはパンを受け取ると、</span><br><span class='scene-font-katari'>訝しみつつも口に運ぶ。</span>,<span class='scene-font-katari'>阿尔贝尔接过面包，</span><br><span class='scene-font-katari'>小心翼翼地往嘴里送。</span>
+41,アルベール/阿尔贝尔,<span class='scene-font-4'>ぐぁああああッ……！？</span><br>なんだこの味はッ！？,<span class='scene-font-4'>咕啊啊啊啊啊啊……！？</span><br>这味道！？
+42,アルベール/阿尔贝尔,はぁ……はぁ……<br>鶏肉、焼き魚、卵、葡萄……<br>口の中で食材が戦っている！？,哈……哈……<br>鸡肉、烤鱼、鸡蛋、葡萄……<br>食材在口中交战！？
+43,アルベール/阿尔贝尔,ぐっ、形容しがたいが……<br>朝食の品目をひとくちで<br>全て食べたような……,唔，虽然很难形容……<br>这种感觉就像是一口吃到了全套早餐……
+44,ユリウス/尤里乌斯,……やれやれ。<br>少しはマシな顔になったじゃないか。,……哎呀，<br>你看这表情不是比刚才精神多了吗。
+45,アルベール/阿尔贝尔,なんだと……？ <br>そんなわけがあるか！<br>今にも吐きそうだというのに……,你说什么……？ <br>怎么可能！<br>我明明感觉都快要吐了……
+46,ユリウス/尤里乌斯,フフッ、そうだね。<br>だが、気難しいおじさんのような<br>仏頂面より幾分かマシさ。,呵呵，是呢。<br>不过，比起板着个脸<br>像个不好伺候的大叔要好点。
+47,アルベール/阿尔贝尔,…………！,…………！
+48,ユリウス/尤里乌斯,親友殿。ほら、ご覧よ。<br>レヴィオンが誇る葡萄畑を……<br>見事な絶景じゃないか。,挚友哟，请看。<br>这就是我们雷维翁引以为豪的葡萄田……<br>真是一派好风光。
+49,,<span class='scene-font-katari'>一行が歩く道の周囲には、</span><br><span class='scene-font-katari'>うららかな陽光に照らされる、</span><br><span class='scene-font-katari'>若々しい緑が広がっていた。</span>,<span class='scene-font-katari'>道路两侧是暖阳照耀下的，</span><br><span class='scene-font-katari'>辽阔的新绿色的大地。</span>
+50,ユリウス/尤里乌斯,フッ、気負うのもわかるがね。<br>もう少し余裕を持って歩くのも<br>悪くないと思わないかい？,呵，你绷着一根弦也不是不能理解。<br>不过稍微放松一点不也没什么坏处吗？
+51,ユリウス/尤里乌斯,まあ、余計なお世話だったかな？<br>父王も部下達も、君の愚直さを<br>高く評価しているのだから。,不过，可能是我多管闲事了？<br>毕竟父王也好部下们也好，<br>都很欣赏你的傻正经呢。
+52,アルベール/阿尔贝尔,ユリウス……,尤里乌斯……
+53,アルベール/阿尔贝尔,いや、お前の言う通りだ。<br>少し肩肘を張りすぎていたらしい。,不，如你所言。<br>我似乎太紧绷了。
+54,アルベール/阿尔贝尔,それに、もし魔物が現れたとしても、<br>この見晴らしならば見逃すはずもない。,况且，就算真有魔物出没，<br>这种大晴天下怎么也不可能发现不了。
+55,アルベール/阿尔贝尔,ありがとう、親友殿。<br>もう少し気を楽にしてみるよ。,多谢，挚友哟。<br>我会试着放松一点的。
+56,ユリウス/尤里乌斯,フフッ、そうしたまえ。<br>老けこむにはまだ早いだろう。,呵呵，就是这样。<br>现在就开始老声老气的可太早了。
+57,,<span class='scene-font-katari'>そして、アルベールは山での</span><br><span class='scene-font-katari'>戦闘に備えてリラックスするよう、</span><br><span class='scene-font-katari'>小隊にも指示を与えるのだった。</span>,<span class='scene-font-katari'>于是，作为对前方山中的战斗的准备，</span><br><span class='scene-font-katari'>阿尔贝尔命队员们也放松以调整心情。</span>
+63,魔物の群れ/魔物群,グルルルル……,咕噜噜噜噜……
+64,,<span class='scene-font-katari'>山中に踏み込むと、</span><br><span class='scene-font-katari'>魔物の群れが牙を剝いて</span><br><span class='scene-font-katari'>一行を取り囲む。</span>,<span class='scene-font-katari'>刚走进山中，</span><br><span class='scene-font-katari'>小队就被凶恶的魔物包围了。</span>
+65,アルベール/阿尔贝尔,ふむ、かなり気が立っているな。<br>人里に下りてこないよう、<br>こいつらを鎮めるぞ！,呵，真是来势汹汹啊。<br>我们就来杀杀他们的锐气，<br>教他们不敢下到村子里！
+info,,,scene_radio_q41_s20
+译者,,,翻译：桫椤
