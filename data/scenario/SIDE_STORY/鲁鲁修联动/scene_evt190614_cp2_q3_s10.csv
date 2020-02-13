@@ -1,0 +1,40 @@
+id,name,text,trans
+0-chapter_name,,STAGE2 黒幕 の 思惑,STAGE2 黑幕的企图
+0-synopsis,,町外れで待機していたC.C.と合流し、ルルーシュはガウェインに乗り込む。艇に乗り上空へ逃げる偽ゼロを追い、ルルーシュは艇を落とそうとハドロン砲を撃つが、何かの力に阻まれてしまう。よろず屋からもらった艇の情報と偽ゼロの艇の情報を照合すれば偽ゼロの潜伏先は割り出せると判断し、ルルーシュは一旦島の方へ引き返すのだった。,鲁鲁修和在城外待机的C.C.汇合，乘上高文追击伪Zero。鲁鲁修企图击坠小型艇发射强子炮，但被某种力量所阻碍。之后，鲁鲁修认为对照万事屋提供的情报能够锁定伪Zero潜伏在何处，于是决定先返回到岛上。
+2,C.C.,おい、こっちだ。<br>そっちはどうだった。,喂，这边。<br>你那边怎么样。
+3,ルルーシュ,姬塔のおかげで<br>助けることが出来た。,多亏姬塔帮忙，救下人质了。
+4,,<span class='scene-font-katari'>予めC.C.と示し合わせていた</span><br><span class='scene-font-katari'>地点に来ると、人目を忍ぶように</span><br><span class='scene-font-katari'>身を隠すガウェインの姿があった。</span>,<span class='scene-font-katari'>鲁鲁修来到与C.C.事先约定的地点，只见高文就隐藏在某个角落。</span>
+5,,<span class='scene-font-katari'>昇降機を使ってハッチの開いた</span><br><span class='scene-font-katari'>コックピットまで上ると、</span><br><span class='scene-font-katari'>ルルーシュはシートに滑り込んだ。</span>,<span class='scene-font-katari'>鲁鲁修坐着升降机来到舱门打开的驾驶舱，滑进了座位。</span>
+11,ルルーシュ,奴の艇は？,那家伙的船呢？
+12,C.C.,上手く隠しているらしい。<br>やはり飛び立つ瞬間を狙うのが<br>確実だろう。,隐蔽得很好。<br>还是瞄准它起飞的瞬间比较保险吧。
+13,,<span class='scene-font-katari'>忙しなくパネルを操作しながら、</span><br><span class='scene-font-katari'>ルルーシュはC.C.からの</span><br><span class='scene-font-katari'>状況報告を受ける。</span>,<span class='scene-font-katari'>鲁鲁修不慌不忙地操作着版面，一边听C.C.报告情况。</span>
+14,ルルーシュ,偽ゼロは姬塔たちが<br>追っている。<br>計算通りならもう間もなく……,姬塔他们在追伪Zero。<br>如果我想的没错，应该快了……
+16,,<span class='scene-font-katari'>ルルーシュが顔を上げたまさにその時</span><br><span class='scene-font-katari'>１機の小型騎空艇が</span><br><span class='scene-font-katari'>建物の間から空へと飛び出した。</span>,<span class='scene-font-katari'>就在鲁鲁修抬头的瞬间，一架小型骑空艇从建筑物之间飞上天空。</span>
+17,C.C.,奴の艇が飛び出した。<br>行くぞ。,那家伙起飞了。<br>我们走。
+23,,<span class='scene-font-katari'>蒼天の中を行く偽ゼロの艇を見ながら、</span><br><span class='scene-font-katari'>ルルーシュは思案する。</span>,<span class='scene-font-katari'>鲁鲁修看着伪Zero的船在空中行驶，陷入了沉思。</span>
+24,ルルーシュ,<span class='scene-font-kokoro'>（貴様の目的はゼロへの復讐。</span><br><span class='scene-font-kokoro'>ゆえにその行動は単純で</span><br><span class='scene-font-kokoro'>非常に読みやすい）</span>,<span class='scene-font-kokoro'>（你的目的是向Zero复仇。所以你的行动也很单纯，很容易预测。）</span>
+25,ルルーシュ,<span class='scene-font-kokoro'>（しかし、不可解な点は残ったままだ。</span><br><span class='scene-font-kokoro'>ゼロへの復讐ならば、</span><br><span class='scene-font-kokoro'>なぜ直接俺を狙わない？）</span>,<span class='scene-font-kokoro'>（但是还有难以理解的地方。既然要向Zero复仇，为什么不直接冲我来？）</span>
+26,ルルーシュ,<span class='scene-font-kokoro'>（ナナリーを攫ったのに</span><br><span class='scene-font-kokoro'>なぜ何の要求もない？）</span>,<span class='scene-font-kokoro'>（都已经抓走了娜娜莉，为什么不对这边提出任何要求？）</span>
+27,ルルーシュ,<span class='scene-font-kokoro'>（こうなったら、</span><br><span class='scene-font-kokoro'>奴本人に聞くしかない）</span>,<span class='scene-font-kokoro'>（也只有去问他本人了。）</span>
+28,ルルーシュ,<span class='scene-font-kokoro'>（まずは、このガウェインの</span><br><span class='scene-font-kokoro'>ハドロン砲で、あの艇を落として</span><br><span class='scene-font-kokoro'>偽ゼロを捕縛する！）</span>,<span class='scene-font-kokoro'>（首先，用高文的强子炮把那艘船给击落，抓住伪Zero！）</span>
+29,,<span class='scene-font-katari'>障害物のない空の真ん中で、</span><br><span class='scene-font-katari'>ルルーシュは偽ゼロの艇に</span><br><span class='scene-font-katari'>照準を合わせる。</span>,<span class='scene-font-katari'>在没有任何障碍物的空中，鲁鲁修瞄准了伪Zero的船。</span>
+37,,<span class='scene-font-katari'>ガウェインから放たれた</span><br><span class='scene-font-katari'>悪魔的な赤い光に呑まれ、</span><br><span class='scene-font-katari'>小型騎空艇は黒煙に包まれる。</span>,<span class='scene-font-katari'>被高文发射的恶魔般的红光吞没，小型骑空艇被黑烟笼罩。</span>
+38,C.C.,命中だ。,命中。
+39,ルルーシュ,よし。<br>後は墜落前に偽ゼロの身柄を<br>拘束すれば……,好。<br>然后就只要在船坠毁之前抓住伪Zero……
+45,,<span class='scene-font-katari'>徐々に薄れていく黒煙。</span><br><span class='scene-font-katari'>すると驚いたことに小型騎空艇は</span><br><span class='scene-font-katari'>何事もなかったように空を進んでいた。</span>,<span class='scene-font-katari'>黑烟渐渐散去，让人惊讶的是，小型骑空艇依旧安然无恙地继续飞行。</span>
+46,C.C.,なにっ！？　無傷だと！？,什么！？ 毫发无损！？
+47,ルルーシュ,馬鹿な！<br>ハドロン砲を防いだというのか？,什么！<br>竟然防住了强子炮？
+48,,<span class='scene-font-katari'>ルルーシュはもう一度照準を合わせ、</span><br><span class='scene-font-katari'>ハドロン砲を撃つ。</span>,<span class='scene-font-katari'>鲁鲁修再次瞄准，发射强子炮。</span>
+56,,<span class='scene-font-katari'>一見命中しているように見えるが、</span><br><span class='scene-font-katari'>ハドロン砲の粒子は艇ギリギリで</span><br><span class='scene-font-katari'>弾かれて霧散している。</span>,<span class='scene-font-katari'>乍看之下似乎已经命中，但强子炮的粒子却在快要击中船体前被弹开。</span>
+57,ルルーシュ,<span class='scene-font-kokoro'>（ハドロン砲が効かないだと……</span><br><span class='scene-font-kokoro'>これも星晶獣とやらの力なのか？）</span>,<span class='scene-font-kokoro'>（强子炮对它无效……这也是星晶兽的力量吗？）</span>
+58,ルルーシュ,くっ……！<br>ならば、これならどうだ！？,呃……！<br>那这样如何！？
+60,,<span class='scene-font-katari'>速度を上げ、偽ゼロの艇に近づくと、</span><br><span class='scene-font-katari'>ガウェインの指先から</span><br><span class='scene-font-katari'>10本のハーケンが放たれる。</span>,<span class='scene-font-katari'>高文加速靠近伪Zero的船，从指尖射出10支铁钩。</span>
+62,,<span class='scene-font-katari'>素早く舵を切り、迫りくるハーケンを</span><br><span class='scene-font-katari'>潜り抜ける偽ゼロだったが、</span><br><span class='scene-font-katari'>最後の１本が命中し艇底に穴が開いた。</span>,<span class='scene-font-katari'>伪Zero立即打转方向躲开铁钩，但最后1支铁钩还是命中，在船底开了一个洞。</span>
+63,ルルーシュ,物理的な攻撃は届いている。,物理攻击是有效的。
+64,ルルーシュ,と、いうことは、<br>ブレイズ・ルミナスのような<br>エネルギー障壁ではなく……,也就是说，那不是兰斯洛特那样的能量盾……
+65,ルルーシュ,エネルギー体を分散させる<br>何かということか。,而是能够分解能量的某种东西。
+66,C.C.,奴が島の外へ出るぞ。,他要逃出岛外了。
+67,ルルーシュ,艇に関する必要なデータは取れた。<br>これとよろず屋からのリストを<br>照合すれば、奴の潜伏先が割り出せる。,我们已经掌握船的数据了。<br>接下来和万事屋的资料进行对比就能锁定他的藏身之处。
+68,ルルーシュ,いまは深追いせず、<br>次の作戦に備えるぞ。,现在无需咬得太紧，还是回去准备下一次作战。
+69,,<span class='scene-font-katari'>ルルーシュの判断を聞き、</span><br><span class='scene-font-katari'>C.C.はガウェインの向きを反転させ</span><br><span class='scene-font-katari'>島の奥へと引き返していった。</span>,<span class='scene-font-katari'>听了鲁鲁修的判断，C.C.调转方向返回岛屿。</span>
+info,,,scene_evt190614_cp2_q3_s10

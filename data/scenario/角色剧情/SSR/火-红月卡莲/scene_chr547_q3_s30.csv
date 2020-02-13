@@ -1,0 +1,61 @@
+id,name,text,trans
+0-chapter_name,,捜し求めしモノ,搜寻之物
+0-synopsis,,魔物を倒したカレン達が話していると、カレンが捕まえていた猫が暴れ、カレンが起動キーと一緒に取り返した布のようなものが地面に落ちる。スザクが拾ったそれはカレンの下着だった。カレンの不審な行動は、起動キーと一緒に取られた下着を見られたくなかったからだったのだと納得するルルーシュ、スザク、C.C.。無事一件落着し、カレン達は和やかな時を過ごすのだった。,打倒魔物后卡莲等人在交谈之时，卡莲抓住的猫挣扎起来，把卡莲和启动钥匙一起夺回的布状东西掉到了地上。朱雀将它拾起，那是卡莲的内裤。鲁鲁修、朱雀、C.C.明白了，卡莲可疑的行动是为了不想让人看到她被和红莲启动钥匙一起夺走的内裤。一事平安告终，卡莲等人度过了一段平和的时光。
+1,,<span class='scene-font-katari'>魔物の群れを掃討した後、</span><br><span class='scene-font-katari'>ナイトメアフレームを降りて、</span><br><span class='scene-font-katari'>一息つくカレン達。</span>,<span class='scene-font-katari'>讨伐了魔物群后，</span><br><span class='scene-font-katari'>从KMF下来，</span><br><span class='scene-font-katari'>稍作休息的卡莲等人。</span>
+2,C.C.,どうやら怪我はないようだな。,看起来没有受伤啊。
+3,カレン/卡莲,ええ……ありがとう、ルルーシュ、<br>スザク、C.C.。<br>おかげで助かったわ。,啊啊……谢谢了，鲁鲁修、<br>朱雀、C.C.。<br>多亏你们得救了。
+4,ルルーシュ/鲁鲁修," 一時はどうなるかと思ったが……<br>ともあれ、無事でなによりだ。"," 一时间都不知道会怎么样了……<br>总之，没事就好。"
+5,スザク/朱雀,うん。<br>何とか間に合ってよかった。,嗯。<br>总算是赶上了，真是太好了。
+6,カレン/卡莲,でも、どうして３人がここにいるわけ？<br>私、誰にも言わずに森に来たのに……,但你们3个为什么在这里？<br>我明明来这里没有告诉任何人……
+7,スザク/朱雀,村の人に聞き込みをしてたら、<br>カレンらしき女の子が猫を追って<br>森に行ったって話を聞いてね。,我们向村民打听了，<br>貌似卡莲的女孩子<br>追着猫去了森林。
+8,スザク/朱雀,森には沢山の魔物がいるから、<br>女の子が襲われないか心配だって……,因为森林里有许多魔物，<br>他们担心女孩子会被袭击……
+9,ルルーシュ/鲁鲁修,いくらお前でも、紅蓮なしで<br>大量の魔物に襲われたら<br>ひとたまりもないだろう。,就算是你，没有红莲<br>被大量魔物袭击的话，<br>一个人也无法应对吧。
+10,ルルーシュ/鲁鲁修,だから、最悪の場合を想定して<br>俺とスザクがナイトメアで<br>お前を探しにきたわけだ。,所以设想了最糟糕的情况，<br>我和朱雀便乘着KMF<br>来找你了。
+11,ルルーシュ/鲁鲁修,ファクトスフィアを使えば<br>生体反応を探知し、<br>簡単に見つけることができる。,使用情报收集用摄像头的话<br>便可以探测生命反应，<br>很容易就能找到你。
+12,ルルーシュ/鲁鲁修,それに、ここならば<br>ナイトメアを動かしても人目につかず<br>騒動にもならないしな。,而且，这里的话<br>启动KMF也不会被人目击，<br>不会引起骚动。
+13,カレン/卡莲,なるほどね……<br>じゃあ、ここに来たのは<br>アンタ達だけ？,原来如此……<br>那么，来到这里的<br>只有你们？
+14,ルルーシュ/鲁鲁修,ああ。姬塔達には<br>村で待機してもらっている。,啊啊。我让姬塔她们<br>在村庄中待机了。
+15,ルルーシュ/鲁鲁修,お前が<br>村に戻ってくる可能性もあったからな。,也有你<br>回到村庄的可能性。
+16,カレン/卡莲,……そう。<br>なら、後で姬塔達にも<br>謝っておかないとね。,……这样啊。<br>那么，等会儿我也去和<br>姬塔她们道谢。
+17,カレン/卡莲,色々と迷惑を<br>かけちゃったみたいだし……,我好像给大家<br>添了不少麻烦……
+18,カレン/卡莲,でも、その前に<br>まずはこの子をどうするか……ね。,但在这之前<br>都是因为这孩子……呢。
+19,,<span class='scene-font-katari'>カレンは胸元で</span><br><span class='scene-font-katari'>大人しくしていた猫の首根っこを掴むと</span><br><span class='scene-font-katari'>持ち上げる。</span>,<span class='scene-font-katari'>卡莲从胸口</span><br><span class='scene-font-katari'>揪住乖乖不动的猫后颈，</span><br><span class='scene-font-katari'>将它拎了起来。</span>
+21,猫,ニャッ！？<br>ニャーッ！！,喵！？<br>喵——！！
+22,カレン/卡莲,あ、こらっ！<br>この……暴れるなっ！,啊，喂！<br>你这……别乱动！
+23,,<span class='scene-font-katari'>次の瞬間、猫から取り返した</span><br><span class='scene-font-katari'>布のようなものが暴れる猫の爪に</span><br><span class='scene-font-katari'>ひっかかり、ひらひらと地面に落ちる。</span>,<span class='scene-font-katari'>下一秒，从猫那里夺回的</span><br><span class='scene-font-katari'>布状的东西被挣扎的猫爪</span><br><span class='scene-font-katari'>勾到，缓缓地飘落到地上。</span>
+24,カレン/卡莲,あっ！！,啊！！
+25,スザク/朱雀,ん？<br>なにか落ちたよ。<br>ハンカチ……かな？,嗯？<br>有什么掉了。<br>是手帕……吗？
+26,,<span class='scene-font-katari'>スザクはしゃがむと</span><br><span class='scene-font-katari'>布のようなものへと手を伸ばす。</span>,<span class='scene-font-katari'>朱雀蹲下</span><br><span class='scene-font-katari'>将手伸向布状的东西。</span>
+27,カレン/卡莲,<span class='scene-font-4'>ちょっ、それに触るなっ！！</span>,<span class='scene-font-4'>等，不要碰！！</span>
+28,スザク/朱雀,え？,诶？
+29,,<span class='scene-font-katari'>しかし、時すでに遅く</span><br><span class='scene-font-katari'>スザクは拾い上げたそれを、</span><br><span class='scene-font-katari'>確認するように広げていた。</span>,<span class='scene-font-katari'>但是，为时已晚，</span><br><span class='scene-font-katari'>朱雀将捡起的东西</span><br><span class='scene-font-katari'>展开确认。</span>
+30,スザク/朱雀,あれ、これって……,诶，这是……
+31,カレン/卡莲,<span class='scene-font-4'>～～～～っ！！</span><br><span class='scene-font-4'>み、見るなっ！</span>,<span class='scene-font-4'>～～～～唔！！</span><br><span class='scene-font-4'>别、别看！</span>
+32,C.C.,ああ、なるほど。<br>起動キーだけでなく、<br>下着まで取られてたのか。,啊啊，原来如此。<br>不仅是启动钥匙，<br>连内裤也一起被叼走了吗。
+33,C.C.,だから、あんなに<br>焦っていたんだな。,所以你才<br>那么焦急的吗？
+34,カレン/卡莲,<span class='scene-font-4'>C.C.！</span>,<span class='scene-font-4'>C.C.！</span>
+35,スザク/朱雀,えっと……ごめん。<br>てっきり、ハンカチかと思って……,那个……抱歉。<br>我准以为那是手帕……
+36,スザク/朱雀,でも、納得はしたかな。,但是我终于懂了。
+37,スザク/朱雀,だから、僕に猫を<br>捕まえられたくないって<br>言ってたんだね。,所以你才说<br>不想让我<br>抓到猫的吧。
+38,カレン/卡莲,ううぅ……,呜呜呜……
+39,ルルーシュ/鲁鲁修,スザク。<br>そんなことよりも<br>さっさと返してやれ。,朱雀。<br>比起这个<br>你快把东西还给人家。
+40,スザク/卡莲,あ、そうだね。,啊，对了。
+41,,<span class='scene-font-katari'>そう言うとスザクは、</span><br><span class='scene-font-katari'>カレンに下着を返そうとするが……</span>,<span class='scene-font-katari'>朱雀这样说着，</span><br><span class='scene-font-katari'>正要把内裤还给卡莲……</span>
+42,猫,っ！！,嘶！！
+43,,<span class='scene-font-katari'>次の瞬間、</span><br><span class='scene-font-katari'>飛び上がった猫が、</span><br><span class='scene-font-katari'>スザクの手に牙を立てる。</span>,<span class='scene-font-katari'>下一秒，</span><br><span class='scene-font-katari'>跳起的猫</span><br><span class='scene-font-katari'>咬住了朱雀的手。</span>
+44,スザク/朱雀,いっ！　痛い……,痛！　痛……
+45,,<span class='scene-font-katari'>スザクは涙を浮かべるものの、</span><br><span class='scene-font-katari'>カレンは意に介さず、</span><br><span class='scene-font-katari'>スザクの手から自分の下着を奪い取る。</span>,<span class='scene-font-katari'>朱雀的眼中浮起泪水，</span><br><span class='scene-font-katari'>卡莲不以为意，</span><br><span class='scene-font-katari'>从朱雀手中夺回了自己的内裤。</span>
+46,カレン/卡莲,はぁ……なんか、どっと疲れた。<br>もう一回、温泉に<br>行ってこようかしら……,哈……好像我又累了。<br>再去泡一次<br>温泉吗……
+47,スザク/朱雀,あ、あのさ、カレン。<br>その前に、この猫……<br>何とかしてくれない……かな？,那、那个，卡莲。<br>在这之前，这只猫……<br>你能先想想办法……吗？
+48,カレン/卡莲,どうして？　<br>大好きな猫に懐かれてんだから、<br>アンタも幸せでしょう？,为什么？　<br>被你最喜欢的猫粘着，<br>你应该很幸福吧？
+49,スザク/朱雀,こ、これは懐かれてるのとは<br>違うんじゃないかな……って、<br>イタタっ！,这、这和粘着<br>不太一样……吧，<br>痛痛痛！
+50,スザク/朱雀,痛い痛い！<br>そんなに爪を立てないで！,痛痛！<br>别这样伸出爪子！
+51,ルルーシュ/鲁鲁修,くくっ……<br>相変わらず猫に好かれるな、<br>お前は。,呵呵……<br>你还是老样子被猫喜欢呢。
+52,C.C.,ふっ、羨ましい限りだ。,呵，真是羡慕不已。
+53,スザク/朱雀,ちょっと、ルルーシュ！<br>C.C.まで！ <br>笑ってないで助けてくれよ！,等等，鲁鲁修！<br>连C.C.也！ <br>别笑了，快来帮帮我！
+60,,<span class='scene-font-katari'>猫に噛みつかれたままの状態で</span><br><span class='scene-font-katari'>カレン達に助けを求めるスザク。</span>,<span class='scene-font-katari'>保持着被猫要住的状态</span><br><span class='scene-font-katari'>朱雀向卡莲等人求救。</span>
+65,,<span class='scene-font-katari'>そんなスザクをみて、</span><br><span class='scene-font-katari'>３人は楽しげに微笑む。</span>,<span class='scene-font-katari'>看着这样的朱雀，</span><br><span class='scene-font-katari'>３个人都愉快地微笑着。</span>
+66,,<span class='scene-font-katari'>それは仲間として過ごす楽しい時間。</span><br><span class='scene-font-katari'>元の世界では叶わなかった</span><br><span class='scene-font-katari'>皆が笑顔でいられる時間。</span>,<span class='scene-font-katari'>那是与同伴一同度过的愉快时间。</span><br><span class='scene-font-katari'>在原来的世界没能实现的</span><br><span class='scene-font-katari'>大家都充满笑容的时间。</span>
+68,,<span class='scene-font-katari'>こんな時間がずっと続くといいのに、</span><br><span class='scene-font-katari'>そう思いながら、カレン達は</span><br><span class='scene-font-katari'>この時間を楽しむのだった。</span>,<span class='scene-font-katari'>明明这样的时间永远持续下去才好，</span><br><span class='scene-font-katari'>这样想着，卡莲等人</span><br><span class='scene-font-katari'>十分享受这样的时光。</span>
+info,,,scene_chr547_q3_s30
+译者,,,

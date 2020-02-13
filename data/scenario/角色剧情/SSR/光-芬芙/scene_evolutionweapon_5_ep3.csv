@@ -1,0 +1,43 @@
+id,name,text,trans
+0-chapter_name,,十天衆との邂逅③,与十天众的邂逅③
+0-synopsis,,姬塔一行が五神杖の覚醒についてシェロカルテと話をしていると、フュンフが現れる。フュンフは五神杖の覚醒具合を知って驚き、その力が星を砕くほどだと一行に語る。その後、一行はにぎやかに去っていくフュンフを見送り、五神杖の覚醒を目指して意気込むのだった。,姬塔一行正和榭洛科特谈论五神杖觉醒的事，芬芙突然出现了。她得知了五神杖的觉醒情况大吃一惊，告诉一行人那股力量甚至能击碎星辰。之后，一行人目送吵闹的芬芙离开，以五神杖的觉醒为目标再度鼓起干劲……
+0,,<span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>完全なる「覚醒」を目前にした</span><br><span class='scene-font-spword'>「五神杖」</span><span class='scene-font-katari'>を携えよろず屋を訪れた。</span>,<span class='scene-font-katari'>姬塔他们带着临近觉醒的<span class='scene-font-spword'>「五神杖」</span><span class='scene-font-katari'>拜访了万事屋。</span>
+1,,<span class='scene-font-katari'>ひとしきり</span><span class='scene-font-spword'>「五神杖」</span><span class='scene-font-katari'>について</span><br><span class='scene-font-katari'>話し合っていたところに、</span><br><span class='scene-font-katari'>フュンフがひょっこり顔を出した。</span>,<span class='scene-font-katari'>谈了一会儿关于<span class='scene-font-spword'>「五神杖」</span><span class='scene-font-katari'>的事，芬芙突然就出现了。
+2,フュンフ/芬芙,シェロー！　虫眼鏡ちょーだーい！<br>……あれ？<br>姬塔達、来てたんだ！,榭洛——！给我放大镜——！<br>……哎呀？姬塔你们来了啊！
+3,ルリア/露莉亚,あっ、フュンフちゃん！<br>ちょっとお久しぶりですね。,啊，芬芙酱！好久不见了呢。
+4,フュンフ/芬芙,そだねー、元気してた？<br>ちなみにあちしはちょーげんき！<br>さいきょーですよ、さいきょー！,是啊，你们还好吗？<br>顺便一说我很精神哦！<br>我可是最强的哟，最强的——！
+5,ルリア/露莉亚,ふふっ、フュンフちゃんは<br>十天衆なんですもんね。<br>最強の魔法使いですね！,呵呵，芬芙酱是十天众呢。<br>是最强的魔法使呢！
+6,ビィ/碧,それにしてもすっげぇよなぁ！<br>こんなちっこいのに、<br>十天衆の１人なんてさぁ！,说起来真厉害啊！<br>这么个小不点居然是十天众的一员啊！
+7,フュンフ/芬芙,んっふっふー！<br>困ったことがあったら<br>あちしを頼っちゃっていいからね！,嗯哼哼——！有麻烦的话，拜托我也可以哦！
+8,フュンフ/芬芙,……もっと褒めていいよ？,……可以再多夸我几句的哟？
+9,ルリア/露莉亚,すごいです！<br>かっこいいです、フュンフちゃん！,好厉害啊！好帅啊，芬芙酱！
+10,フュンフ/芬芙,わーい！　もっともっと～！,哇——！继续继续~！
+11,シェロカルテ/榭洛科特,フュンフさんったら～<br>相変わらず褒められるの大好きですね～<br>……どうぞ～、虫眼鏡ですよ～,芬芙你真是的~还是那么喜欢被夸奖啊~<br>请收下，是你要的放大镜哟~
+12,フュンフ/芬芙,やったっ！<br>これで探偵ごっこが<br>はかどりますな～,太好啦！这样就能玩侦探游戏了呢~
+13,ビィ/碧,探偵ごっこぉ？<br>なんだそりゃ？,侦探游戏？那是啥啊？
+14,フュンフ/芬芙,決まってるじゃ～ん！<br>事件を解決すんの！<br>犯人はお見通しだ！　ってさ。,那肯定是解决事件啦！要把犯人找出来！
+15,ビィ/碧,ふ～ん……？<br>そんなに事件って転がってんのかなぁ。,嗯~？会发生那种事件吗。
+16,フュンフ/芬芙,ねぇねぇ、虫眼鏡の使い心地、<br>確かめたいんだけど<br>何か見るものない？,呐呐，我想试试放大镜的效果，<br>有没有什么可以看的？
+17,ルリア/露莉亚,えっと……そうですね……,那个……嗯……
+18,,<span class='scene-font-katari'>きょろきょろするルリアとフュンフに、</span><br><span class='scene-font-katari'>姬塔は<span class='scene-font-spword'>五神杖</span>を差し出した。</span>,<span class='scene-font-katari'>姬塔把<span class='scene-font-spword'>五神杖</span>递给了东张西望的露莉亚和芬芙。</span>
+19,フュンフ/芬芙,おっ！　おお～……！<br>これはなかなかの魔力……<br>それに装飾も見事ですなー。,哦！哦哦~！这可真是了不得的魔力……<br>而且装饰也很好看啊——
+20,フュンフ/芬芙,ふむふむ……これって<br>こないだの<span class='scene-font-spword'>「天星器」</span>だよね？<br>すごいね、「覚醒」に近づいてるよ！,呼姆呼姆……这是之前那把<span class='scene-font-spword'>「天星器」</span>吧？<br>好厉害啊，已经离「觉醒」很近了！
+21,ビィ/碧,おう！<br>姬塔が頑張ったからなぁ。,喔！因为姬塔很努力啊。
+22,フュンフ/芬芙,あの後、じっちゃにもうちょっと<br><span class='scene-font-spword'>「天星器」</span>のこと<br>きいてきたんだけど……,那天之后，<br>我也找爷爷问了问<span class='scene-font-spword'>「天星器」</span>的事……
+25,フュンフ/芬芙,あのね、<span class='scene-font-spword'>「天星器」</span>は<br>覇空戦争か、それより古ーい時代に<br>作られたものなんだって。,<span class='scene-font-spword'>「天星器」</span>是在比霸空战争还要更久远的时期被制造出来的。
+26,フュンフ/芬芙,それぞれ違う武器の<span class='scene-font-spword'>「天星器」</span>が<br>ひとつずつあって、<br>全部で十本なんだってさ。,种类各异的<span class='scene-font-spword'>「天星器」</span>各有一把，<br>总计有十把。
+27,フュンフ/芬芙,それでね、それでね、なんと！<br><span class='scene-font-spword'>「天星器」</span>は空を引き裂き、<br>星を砕いちゃうくらい強いんだ！,而且啊，而且啊，让人震惊的是！<br><span class='scene-font-spword'>「天星器」</span>强大到可以撕裂天空，击碎星辰。
+29,ルリア/露莉亚,天を引き裂き、星を砕く……！？<br>そ、そんなに……！,撕裂天空，击碎星辰……！？<br>居，居然那么……！
+30,フュンフ/芬芙,さすが、伝説の武器って<br>言われるだけのことはあるよねぇ。,真不愧是传说的武器呢。
+31,フュンフ/芬芙,でも、そんなに強力な武器<br>危ない、ってんで<br>封印されちゃったらしいよ。,但是，因为那么强大的武器是很危险的，<br>所以被封印了起来哟。
+32,フュンフ/芬芙,じっちゃも、<br>「扱いを誤るべからず」って言ってた。<br>悪いヤツの手に渡っちゃダメだって……,爷爷也说了，「要谨慎的处理」。<br>不能交到坏人的手里……
+33,フュンフ/芬芙,ま！　<span class='scene-font-spword'>「天星器」</span>で悪いコトするヤツは<br>あちしが止めちゃうけどね！<br>あちし、最強だから！,嘛！如果有用<span class='scene-font-spword'>「天星器」</span>做坏事的人，就由我去阻止！因为我可是最强的啊！
+34,ルリア/露莉亚,ふふ、そうですね！<br>フュンフちゃんは<br>強くて頼りになるんですもんね。,呵呵，是啊！芬芙酱又强又可靠呢。
+35,フュンフ/芬芙,にゃははは～<br>ルリア、褒めてくれるからスキ～！,呀哈哈哈~露莉亚，会夸我，喜欢~
+36,フュンフ/芬芙,じゃ、あちし<br>遊びに行ってくる！<br>まったね～！,那我去玩啦！再见~！
+38,ビィ/碧,やれやれ、賑やかな奴だなぁ！<br>……それにしても<span class='scene-font-spword'>「天星器」</span>、<br>本当にすげぇ武器なんだな……,哎呀哎呀，真是吵闹的家伙啊！<br>……话说回来<span class='scene-font-spword'>「天星器」</span>真是了不得的武器啊……
+39,ビィ/碧,頑張って「覚醒」させようぜ、<br>姬塔！,加油让它「觉醒」吧，姬塔！
+40,,<span class='scene-font-katari'>フュンフが教えてくれた</span><br><span class='scene-font-spword'>「天星器」</span><span class='scene-font-katari'>の持つ力。</span>,<span class='scene-font-katari'>芬芙告诉了他们<span class='scene-font-spword'>「天星器」</span><span class='scene-font-katari'>所持有的力量。</span>
+41,,<span class='scene-font-katari'>姬塔が</span><br><span class='scene-font-katari'>その力を手にする時が</span><br><span class='scene-font-katari'>目前に迫っていた。</span>,<span class='scene-font-katari'>而姬塔入手那股力量的时刻，也近在眼前了。</span>
+info,,,scene_evolutionweapon_5_ep3
+译者,,,

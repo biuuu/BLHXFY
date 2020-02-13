@@ -1,0 +1,17 @@
+id,name,text,trans
+0-chapter_name,,果て無き闘争への誘い,通往无尽争斗的诱惑
+0-synopsis,,エッセルの強さを試した十狼雷は「我を手に取れば、お前の望む何者にも負けない力が手に入る」とエッセルをけしかける。弟妹達を守りたいエッセルは、その言葉に魅かれ、思わず十狼雷に手をのばす。すると十狼雷は、悩み戸惑うエッセルの心に語りかけ、その正気を奪うと「共に強さを世に知らしめるのだ！」と、エッセルを果て無き闘争へ誘うのだった。,十狼雷测试了艾瑟尔的力量，唆使她说“拿起我就会得到你期望的不输任何人的力量”。想要守护弟妹的艾瑟尔，被其言语所迷惑，不由得向十狼雷伸出了手。然后十狼雷向正在烦恼的艾瑟尔的内心吐露话语，夺走她的理智，说着“一起让世人知晓你的强大吧”把艾瑟尔引向了无尽的斗争之中。
+1,エッセル/艾瑟尔,…………ッ,…………
+3,十狼雷,<span class='scene-font-gray'>いい……いいぞ娘！</span><br><span class='scene-font-gray'>我を手にし存分に使え！！</span><br><span class='scene-font-gray'>それこそが</span><span class='scene-font-spword'>天星器</span><span class='scene-font-gray'>の本懐よ！</span>,<span class='scene-font-gray'>很好……很好啊小姑娘！</span><br><span class='scene-font-gray'>拿起我尽情使用吧！</span><br><span class='scene-font-gray'>这才是</span><span class='scene-font-spword'>天星器</span><span class='scene-font-gray'>的本愿！</span>
+4,エッセル/艾瑟尔,ん……君は、誰かに使ってほしいの？<br>だったら、持ち主である<br>姬塔に頼めば……,嗯……你希望被谁使用吗？<br>那么拜托持有者的姬塔的话……
+6,十狼雷,<span class='scene-font-gray'>我を手に取れ、娘。</span><br><span class='scene-font-gray'>そうすればお前の望む</span><br><span class='scene-font-gray'>何者にも負けない力が手に入る。</span>,<span class='scene-font-gray'>拿起我、小姑娘。</span><br><span class='scene-font-gray'>如此一来你就会获得你期望的不会输给任何人的力量。</span>
+7,十狼雷,<span class='scene-font-gray'>お前の悩み、苦しみ……</span><br><span class='scene-font-gray'>我には伝わっている。</span><br><span class='scene-font-gray'>弟妹達を守りたいのだろう？</span>,<span class='scene-font-gray'>你的烦恼、痛苦……</span><br><span class='scene-font-gray'>已经传达给了我。</span><br><span class='scene-font-gray'>你想守护弟妹们吧？</span>
+8,エッセル/艾瑟尔,何者にも……負けない力……<br>弟妹達を、守る……ための……,不会……输给任何人的力量……<br>为了保护……弟妹们……
+9,,<span class='scene-font-katari'>戸惑いながらもエッセルは、</span><br><span class='scene-font-spword'>十狼雷</span><span class='scene-font-katari'>の言葉に魅かれ</span><br><span class='scene-font-katari'>思わず手を伸ばす。</span>,<span class='scene-font-katari'>艾瑟尔虽然很困惑，但还是被</span><span class='scene-font-spword'>十狼雷</span><span class='scene-font-katari'>的话语所迷惑，不由得伸出了手。</span>
+10,エッセル/艾瑟尔,…………！,…………！
+12,十狼雷,<span class='scene-font-gray'>そうだ、我が力に身を任せろ。</span><br><span class='scene-font-gray'>共に強さを世に知らしめるのだ！！</span>,<span class='scene-font-gray'>没错，委身于我的力量吧。</span><br><span class='scene-font-gray'>一起让世人知晓你的强大吧！！</span>
+13,エッセル/艾瑟尔,私……は……,我……是……
+14,,<span class='scene-font-katari'>悩み戸惑うエッセルの心に、</span><br><span class='scene-font-spword'>十狼雷</span><span class='scene-font-katari'>は語りかける。</span>,<span class='scene-font-spword'>十狼雷</span><span class='scene-font-katari'>向着迷惑的艾瑟尔的心说道。</span>
+15,,<span class='scene-font-katari'>その言葉は彼女から正気を奪い、</span><br><span class='scene-font-katari'>果て無き闘争へと誘おうとしていた。</span>,<span class='scene-font-katari'>这些话语夺走了艾瑟尔的理智，想要将她引诱向无尽的斗争。</span>
+info,,,scene_ult_chr131_q3_s20
+译者,,,

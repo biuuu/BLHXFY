@@ -1,0 +1,32 @@
+id,name,text,trans
+0-chapter_name,,十天衆との邂逅②,与十天众的邂逅②
+0-synopsis,,姬塔一行がよろず屋に訪れると、カトルと名乗るエルーンの少年が話しかけてくる。カトルは四天刃を覚醒させようとする姬塔を凄いと褒めて、よろず屋から去る。その後、一行はシェロカルテからカトルが十天衆と呼ばれる伝説の騎空団の一員だということを聞き、驚愕するのだった。,姬塔一行拜访万事屋时，自称叫卡托尔的艾伦族少年向众人搭话。卡托尔赞扬想让四天刃觉醒的姬塔非常厉害，随后离开了万事屋。之后一行人从榭洛科特那里听说卡托尔是被称为十天众的传说的骑空团的一员，为此惊讶不已。
+0,,<span class='scene-font-katari'>シェロカルテの協力の元、</span><br><span class='scene-font-katari'></span><span class='scene-font-spword'>「四天刃」</span><span class='scene-font-katari'>を「覚醒」させるべく</span><br><span class='scene-font-katari'>着々と準備を進める一行。</span>,<span class='scene-font-katari'>在榭洛科特的帮助下，一行人为了</span><span class='scene-font-spword'>「四天刃」</span><span class='scene-font-katari'>的觉醒循序渐进地做着准备。</span>
+1,,<span class='scene-font-katari'>ある日、よろず屋の店内には</span><br><span class='scene-font-katari'>以前店の出口ですれ違った</span><br><span class='scene-font-katari'>客の姿があった。</span>,<span class='scene-font-katari'>某一天，万事屋的店里，出现了之前在店门口擦肩而过的客人的身影。</span>
+2,シェロカルテ/榭洛科特,毎度ありがとうございます〜<br>お次は何を用意しましょうか～？,多谢惠顾~<br>请问之后还有什么需要的吗~？
+3,？？？,次……そうですね。<br>銃火器の部品を用意して頂けますか。,之后……嗯。<br>想请您准备火铳的部件。
+4,シェロカルテ/榭洛科特,承知しました〜<br>ではでは〜またのお越しを〜,了解了~<br>那么~期待您再次光临~
+5,ビィ/碧,おう！　よろず屋！<br>調子はどうだぁ？,欧！万事屋！<br>最近还顺利吗？
+6,シェロカルテ/榭洛科特,これはこれは〜<br>そちらこそ、<span class='scene-font-spword'>「四天刃」</span>の調子は<br>いかがですか～？,欢迎光临~<br>倒是您那边<span class='scene-font-spword'>「四天刃」</span>的状态如何呀~？
+7,？？？,<span class='scene-font-spword'>「四天刃」</span>！？<br>やはり、君のそれは……,<span class='scene-font-spword'>「四天刃」</span>！？<br>果然你的那个是……
+8,？？？,…………,…………
+9,ルリア/露莉亚,……え？<br>姬塔の武器が<br>どうかしたんですか？,……诶？<br>请问姬塔的武器是怎么了吗？
+10,カトル/卡托尔,あ、いや……<br>急に話しかけて失礼しました。<br>ぼくはカトルと申します。,啊，不是……<br>突然搭话非常抱歉。<br>我的名字叫卡托尔。
+11,カトル/卡托尔,でも……その<span class='scene-font-spword'>「天星器」</span>を<br>そこまで復元させるなんて<br>凄いなと思いまして、つい。,只是……<br>看你们居然把那个<span class='scene-font-spword'>「天星器」</span>复原到这个程度，<br>实在是觉得很厉害，就没忍住搭话了。
+12,ルリア/露莉亚,えっと……ありがとうございます。<br><span class='scene-font-spword'>「天星器」</span>って言うんですね。<br>この武器……,那个……非常感谢。<br>这个武器原来叫<span class='scene-font-spword'>「天星器」</span>啊……
+13,カトル/卡托尔,ふふ……<br>頑張ってくださいね。<br>それでは……また。,呵呵……<br>还请继续加油。<br>那么……再见。
+14,,<span class='scene-font-katari'>そう言い残して、</span><br><span class='scene-font-katari'>カトルは去って行った。</span>,<span class='scene-font-katari'>留下这句话，卡托尔便离开了。</span>
+17,カトル/卡托尔,<span class='scene-font-kokoro'>（アイツ……</span><br><span class='scene-font-kokoro'>姬塔って言うのか……</span><br><span class='scene-font-kokoro'>名前ぐらいは覚えておいてやるか。）</span>,<span class='scene-font-kokoro'>（那家伙……是叫姬塔吗……</span><br><span class='scene-font-kokoro'>看来我得记住她的名字了。）</span>
+20,ビィ/碧,おいおい……なんなんだ？　<br>あのエルーンの兄ちゃんは……<br>武器マニアかなんかか？,喂喂……到底怎么了？<br>那位艾伦族的小哥……<br>是武器爱好者之类的人吗？
+21,シェロカルテ/榭洛科特,あぁ〜<br>彼は十天衆のひとり、<br>カトルさんです〜,啊~<br>他是十天众中的一人，卡托尔哦~
+22,ビィ/碧,十天衆？,十天众？
+23,シェロカルテ/榭洛科特,生ける伝説といわれる騎空団です～<br>十天衆という名の通り、<br>十人で構成されていまして～,他们可是被称为活着的传说的骑空团~<br>正如十天众的名号，由十人组成~
+24,シェロカルテ/榭洛科特,一人ひとりが<br>あの七曜の騎士とも並ぶ<br>実力を持っているそうですよ～,据说每个人都拥有可以和七曜的骑士比肩的实力噢~
+25,シェロカルテ/榭洛科特,伝説の勇者の一団とも<br>恐るべき脅威とも<br>言われていますね～,他们不仅被称为传说中的勇者一团，<br>还被称为可怕威胁呢~
+26,シェロカルテ/榭洛科特,えっ、というか<br>知らないんですか～！？,诶，这么说来你们不知道吗~？
+27,ビィ/碧,し、知らねぇよ！<br>アイツ、そんなスゲェやつらの<br>ひとりだってのか……,不、不知道啊！<br>那家伙居然是这么厉害的一群人中的一员啊……
+28,シェロカルテ/榭洛科特,しばらく姿を見せてませんでしたが、<br>最近はこの空域で活動している<br>みたいですね～,有一段时间没有看到他们了，<br>但最近好像在这片空域活动呢~
+29,,<span class='scene-font-katari'>伝説の騎空団「十天衆」。</span><br><span class='scene-font-katari'>そしてそのひとり、カトル。</span>,<span class='scene-font-katari'>传说中的骑空团「十天众」。</span><br><span class='scene-font-katari'>其中的一员，卡托尔。</span>
+30,,<span class='scene-font-katari'>果たしてこの出会いが</span><br><span class='scene-font-katari'>姬塔にとって、この先</span><br><span class='scene-font-katari'>どういった意味を持つのか……</span>,<span class='scene-font-katari'>这份相遇，对姬塔来说意味着什么呢……</span>
+info,,,scene_evolutionweapon_4_ep2
+译者,,,sora_vicki

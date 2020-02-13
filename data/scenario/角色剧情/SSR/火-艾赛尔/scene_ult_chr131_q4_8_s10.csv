@@ -1,0 +1,15 @@
+id,name,text,trans
+0-chapter_name,,君に眠りを、私に銃を,给我手铳，赐你永眠
+0-synopsis,,シエテから、エッセルのもとへ向かうよう頼まれたシス。そんなシスは、エッセルを見つけると、その気配を窺う。シスは、エッセルから十狼雷を奪い正気に戻すため、奇襲を仕掛けるのだった。,希耶提拜托希斯去艾瑟尔那里。希斯找到艾瑟尔后窥探着她的气息。为了从艾瑟尔手上夺走十狼雷让她回复理智，希斯发动了奇袭。
+0,,<span class='scene-font-spword'>十狼雷</span><span class='scene-font-katari'>に心を囚われたエッセルを</span><br><span class='scene-font-katari'>助けるために奔走するシエテ。</span>,<span class='scene-font-spword'>十狼雷</span><span class='scene-font-katari'>希耶提为了拯救被</span><span class='scene-font-spword'>十狼雷</span><span class='scene-font-katari'>囚禁了内心的艾瑟尔而到处奔走。</span>
+1,,<span class='scene-font-katari'>彼は十天衆のひとり、シスに</span><br><span class='scene-font-katari'>エッセルの元へ向かうよう頼んだ。</span>,<span class='scene-font-katari'>他拜托十天众之一的希斯前往艾瑟尔身边。</span>
+2,シス/希斯,やれやれ……<br>俺が奴の頼みを聞くことになるとはな。,真是的……<br>我居然会接受他的请求。
+6,エッセル/艾瑟尔,…………,…………
+10,シス/希斯,……見つけたぞ……！<br><span class='scene-font-spword'>十狼雷</span>を奪えば<br>正気に戻るのだったな。ならば……,……找到了……！<br>好像说夺走<span class='scene-font-spword'>十狼雷</span>她就能恢复正常。<br>那样的话……
+11,,<span class='scene-font-katari'>シスは気配を殺し、</span><br><span class='scene-font-katari'>エッセルに奇襲をかける。</span>,<span class='scene-font-katari'>希斯隐藏起气息，向艾瑟尔发动了奇袭。</span>
+12,シス/希斯,<span class='scene-font-4'>キエエエエエエッ！！</span>,<span class='scene-font-4'>伊呀呀呀呀呀！！</span>
+14,エッセル/艾瑟尔,…………ッ！！,…………！！
+18,シス/希斯,チッ！<br>今の一撃を避けるか！！,切！<br>躲开了刚刚的一击吗！！
+19,シス/希斯,"だがこの近さは俺の間合い……<br>その銃、俺が預かるぞ！ ","但是这个距离对我有利……<br>那把铳，由我来保管！ "
+info,,,scene_ult_chr131_q4_8_s10
+译者,,,

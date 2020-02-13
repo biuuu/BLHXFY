@@ -1,0 +1,12 @@
+id,name,text,trans
+0-chapter_name,,彷徨う刃,彷徨之刃
+0-synopsis,,カトルの猛襲に、シエテも限界を迎えつつあった。終に、渾身の一撃がシエテに向かって振り下ろされるのだった。,面对卡托尔猛烈的攻击，希耶提也到了自己的极限。最后，卡托尔对希耶提使出了浑身的一击。
+1,カトル/卡托尔,<span class='scene-font-4'>グガァァアァッ！</span>,<span class='scene-font-4'>咕啊啊啊啊啊啊啊啊！</span>
+4,シエテ/希耶提,ぐあっ……やっぱり<br>俺一人だと厳しいかねー,唔……<br>果然我一个人的话还是太困难了啊——
+5,シエテ/希耶提,<span class='scene-font-kokoro'>（負けないように戦うって、</span><br><span class='scene-font-kokoro'>そんな余裕なかったな～正直）</span>,<span class='scene-font-kokoro'>（老实说，这场决斗要不输还是挺艰难的啊~）</span>
+6,カトル/卡托尔,<span class='scene-font-4'>シネエェェエエエ！</span>,<span class='scene-font-4'>去死吧啊啊啊啊啊啊啊啊！</span>
+8,シエテ/希耶提,<span class='scene-font-kokoro'>（ぐっ……</span><br><span class='scene-font-kokoro'>エッセル……姬塔……</span><br><span class='scene-font-kokoro'>これ以上は持たないかも……）</span>,<span class='scene-font-kokoro'>（唔……艾瑟尔……姬塔……</span><br><span class='scene-font-kokoro'>我可能快撑不住了……）</span>
+9,カトル/卡托尔,<span class='scene-font-4'>ウォオオオオオオオッ！</span>,<span class='scene-font-4'>唔噢噢噢噢噢噢噢噢！</span>
+11,シエテ/希耶提,しまっ……,糟……
+info,,,scene_ult_chr121_q4_9_s20
+译者,,,sora_vicki

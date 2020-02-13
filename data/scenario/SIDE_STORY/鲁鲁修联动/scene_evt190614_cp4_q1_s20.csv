@@ -1,0 +1,28 @@
+id,name,text,trans
+0-chapter_name,,STAGE4 偽ゼロ を 撃て,STAGE4 击杀 伪ZERO
+0-synopsis,,エルステの防衛線を突破したカレンと姬塔一行は、ルリアの召喚したユグドラシルと紅蓮弐式の連携によって要塞内へ侵入する。要塞内にはゴーレムの部隊が待ち構えており、カレンはゴーレムの相手を引き受け、姬塔一行を作戦通り施設内の調査に向かわせるのだった。,突破了艾尔斯提防卫线的卡莲和姬塔一行人，在露莉亚召唤的尤格多拉希尔和红莲贰式的连携下侵入了要塞内部。要塞中魔偶部队待机着，卡莲接过对抗魔偶的任务，让姬塔一行人依照作战方案前往设施内调查。
+7,,<span class='scene-font-katari'>エルステの防衛線を突破し、</span><br><span class='scene-font-katari'>カレンたちは巨大な要塞の下まで</span><br><span class='scene-font-katari'>辿り着いた。</span>,<span class='scene-font-katari'>突破了艾尔斯提的防卫线，</span><br><span class='scene-font-katari'>卡莲到达了巨大要塞的</span><br><span class='scene-font-katari'>底部。</span>
+8,カレン/卡莲,さあ、いよいよ敵本陣に突入ね……,好了，终于要突入敌人大本营了。
+9,カレン/卡莲,こっちは準備できてる。<br>ルリア、お願い！,我这边准备好了。<br>露莉亚，拜托了！
+10,ルリア/露莉亚,分かりました！,明白了！
+17,,<span class='scene-font-katari'>カレンの合図でルリアが召喚したのは</span><br><span class='scene-font-katari'>土の力を持つ星晶獣ユグドラシル。</span>,<span class='scene-font-katari'>接到卡莲的信号露莉亚召唤的是，</span><br><span class='scene-font-katari'>拥有土之力的星晶兽尤格多拉希尔。</span>
+21,,<span class='scene-font-katari'>ユグドラシルが力を送るように</span><br><span class='scene-font-katari'>スラリと美しい両腕を振り上げると、</span><br><span class='scene-font-katari'>地面からふたつの土壁がせり立った。</span>,<span class='scene-font-katari'>尤格多拉希尔为了释出力量</span><br><span class='scene-font-katari'>举起纤细美丽的双臂，</span><br><span class='scene-font-katari'>在地面上立起两面土壁。</span>
+22,カレン/卡莲,一気に行くよ！<br>掴まって！,一口气上了哟！<br>抓牢！
+22-sel1_txt,,<span class='scene-font-katari'>分かった！</span>,<span class='scene-font-katari'>明白了！</span>
+23,,<span class='scene-font-katari'>姬塔はルリアとビィの手を引き</span><br><span class='scene-font-katari'>猛然と進む紅蓮弐式の左手に飛び乗る。</span>,<span class='scene-font-katari'>姬塔抓住露莉亚和碧的手</span><br><span class='scene-font-katari'>猛地跳上了红莲贰式的左手。</span>
+24,カレン/卡莲,<span class='scene-font-4'>昇れぇっ！！</span>,<span class='scene-font-4'>登上去！！</span>
+27,,<span class='scene-font-katari'>足先のローラー「高機走駆動輪」を</span><br><span class='scene-font-katari'>ルリアの作った土壁に押しつけ、</span><br><span class='scene-font-katari'>紅蓮弐式は一気に高所へ駆け上がった。</span>,<span class='scene-font-katari'>脚部的轮盘「高机走驱动轮」</span><br><span class='scene-font-katari'>紧贴在露莉亚造出的土壁之上，</span><br><span class='scene-font-katari'>红莲贰式一口气攀上了高处。</span>
+34,,<span class='scene-font-katari'>土壁の頂上から勢いよく飛び出した</span><br><span class='scene-font-katari'>紅蓮弐式から飛燕爪牙が放たれ、</span><br><span class='scene-font-katari'>要塞の壁に深く突き刺さる。</span>,<span class='scene-font-katari'>从土壁的顶端一口气越出，</span><br><span class='scene-font-katari'>红莲贰式放出飞燕爪牙，</span><br><span class='scene-font-katari'>深深地刺入了要塞的墙壁。</span>
+38,,<span class='scene-font-katari'>飛燕爪牙に繋がったワイヤーが</span><br><span class='scene-font-katari'>巻き取られ、空中にいた紅蓮弐式の</span><br><span class='scene-font-katari'>巨体を建物内へと引き寄せた。</span>,<span class='scene-font-katari'>连接着飞燕爪牙的绳索</span><br><span class='scene-font-katari'>被收回、将空中的红莲贰式的</span><br><span class='scene-font-katari'>巨大身躯拉进了建筑物内。</span>
+39,ビィ/碧,うっひゃあーーー！！<br>お、落ちるかと思ったぜ……,呜啊——————！！<br>我以为要掉下去了呢……
+40,カレン/卡莲,羽トカゲのくせに何言ってんの！,明明是长翅膀的蜥蜴说什么呢！
+41,ビィ/碧,んな！　オイラはトカゲじゃ──,什！　我才不是蜥蜴——
+44,ルリア/露莉亚,ひゃあっ！<br>ゴーレムが沢山です！,呀！<br>有好多魔偶！
+45,カレン/卡莲,コイツらは私が引き受ける！<br>姬塔たちは先に施設内を<br>調べて！,我来拖住这些家伙！<br>姬塔你们先去设施里<br>调查！
+46,ビィ/碧,分かった！<br>ここは任せたぞ！,明白了！<br>这里交给你了！
+48,,<span class='scene-font-katari'>偽ゼロやナナリーを捜すため、</span><br><span class='scene-font-katari'>姬塔たちは階段を上り、</span><br><span class='scene-font-katari'>周囲の部屋の中を調べていく。</span>,<span class='scene-font-katari'>为了寻找伪ZERO和娜娜莉，</span><br><span class='scene-font-katari'>姬塔一行人登上楼梯，</span><br><span class='scene-font-katari'>调查起周围的房间。</span>
+49,ゴーレム/魔偶,──！！,──！！
+50,カレン/卡莲,なに？　それって威嚇しているの？,什么？　这算是恐吓吗？
+51,カレン/卡莲,ゴーレムだかなんだか知らないけど、<br>この紅蓮弐式に<br>勝てると思わないことね！,虽然不清楚魔偶是个什么玩意儿，<br>可别觉得<br>能胜过红莲贰式！
+52,カレン/卡莲,<span class='scene-font-4'>行くよ！！</span>,<span class='scene-font-4'>上了！！</span>
+info,,,scene_evt190614_cp4_q1_s20

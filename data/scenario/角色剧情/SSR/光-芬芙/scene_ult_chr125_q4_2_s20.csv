@@ -1,0 +1,11 @@
+id,name,text,trans
+0-chapter_name,,修行、修行、修行！,修炼，修炼，修炼！
+0-synopsis,,フュンフは何とかカトルを倒す。カトルとの手合わせはフュンフにとって全力を出す良い鍛錬となった。しかし疲れたフュンフは、カトルに追い払われるように星屑の街から帰途につくのだった。,芬芙总算打倒了卡托尔。与卡托尔的战斗对芬芙来说是一次竭尽全力的不错的锻炼。但是疲惫的芬芙，却被卡托尔赶着离开了星屑之街，踏上归途。
+1,カトル/卡托尔,ハァ……ハァ……！<br>クソがっ！,哈啊……哈啊……！可恶啊！
+2,カトル/卡托尔,相変わらず、魔力だけは……<br>潤沢だな……！！,这家伙还是一样，只有魔力……多得要死啊……！
+3,フュンフ/芬芙,ふげぇえ～疲れたぁ……<br>今日はもうムリ、帰るぅ……,呜诶诶~累了……<br>今天已经不行了，我回去了……
+4,カトル/卡托尔,<span class='scene-font-4'>とっとと帰れッ！！</span>,<span class='scene-font-4'>快滚！！</span>
+5,,<span class='scene-font-katari'>カトルに追い払われるようにして</span><br><span class='scene-font-katari'>星屑の街からの</span><br><span class='scene-font-katari'>帰路についたフュンフ。</span>,<span class='scene-font-katari'>芬芙被卡托尔从星屑之街赶了出去，踏上了归途。</span>
+6,,<span class='scene-font-katari'>カトルとの戦いの経緯は別として、</span><br><span class='scene-font-katari'>彼との手合せはフュンフに取って</span><br><span class='scene-font-katari'>全力を出す良い鍛錬となったようだ。</span>,<span class='scene-font-katari'>与卡托尔战斗的原因姑且不提，对芬芙来说，和他的战斗是一场使出全力的好锻炼。</span>
+info,,,scene_ult_chr125_q4_2_s20
+译者,,,

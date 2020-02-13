@@ -1,0 +1,40 @@
+id,name,text,trans
+0-chapter_name,,真夜中の出会い,深夜中的相遇
+0-synopsis,,フュンフが床に転がった五神杖を手に取ると、何故か体調が回復し、逆に手放すと再び眩暈に襲われてしまう。ロゼッタは、五神杖がフュンフの魔力を調節してくれているのだろうと指摘する。姬塔が五神杖をフュンフに貸すことを申し出たことで、フュンフの体調に関する問題は一旦解決を見るのだった。,芬芙一捡起掉在地上的五神杖，就莫名地恢复健康了，相反放手的话又会陷入昏迷。萝塞塔指出是因为五神杖在调节芬芙的魔力。姬塔提出把五神杖借给芬芙，芬芙的身体健康问题算是暂时解决了。
+2,フュンフ/芬芙,どーんなもんだいっ！,小菜一碟！
+4,フュンフ/芬芙,……あうぅ、頭がぐらぐらするぅ……,……啊呜呜，头晕乎乎的……
+5,,<span class='scene-font-katari'>ふらつきながらもフュンフは、</span><br><span class='scene-font-katari'>床に転がった</span><span class='scene-font-spword'>五神杖</span><span class='scene-font-katari'>を手に取る。</span>,<span class='scene-font-katari'>摇摇晃晃的芬芙，捡起了掉在地板上的</span><span class='scene-font-spword'>五神杖</span><span class='scene-font-katari'>。</span>
+7,フュンフ/芬芙,……あれ？,……哎呀？
+9,ロゼッタ/萝赛塔,何かしら、今の物音……<br>……フュンフ？,怎么了，刚刚的动静是……芬芙？
+10,フュンフ/芬芙,あっ！　ロゼッタ！<br>それに姬塔達も～,啊！萝塞塔！还有姬塔你们也来了啊~
+11,フュンフ/芬芙,なんかね、怪しいヤツがいたから<br>やっつけたんだよ～<br><span class='scene-font-spword'>五神杖</span>だって言ってたけど……,我干掉了个奇怪的家伙哦~<br>它说它叫<span class='scene-font-spword'>五神杖</span>……
+12,ルリア/露莉亚,<span class='scene-font-spword'>五神杖</span>？<br>しゃ、喋ったんですか？,<span class='scene-font-spword'>五神杖</span>？<br>说，说话了吗？
+13,フュンフ/芬芙,あれ、ルリアは聞こえなかった？<br>あちし、声をたどって<br>この部屋に来たんだけど……,哎呀，露莉亚没听到吗？<br>我是循着声音找到这个房间的……
+14,ルリア/露莉亚,う～ん、私は今の物音までは<br>特に何も……,没有~我只听到了刚刚的动静，没听到别的……
+15,ロゼッタ/萝赛塔,あら……？<br>フュンフ、<br>少し顔色が良くなっているわね。,哎呀……？芬芙，你看上去好多了呢。
+16,フュンフ/芬芙,ほんと！？<br>あちし強くなっちゃったかな～？,真的吗！？我变强了吗~？
+17,,<span class='scene-font-katari'>言いながらフュンフは</span><br><span class='scene-font-katari'>姬塔に</span><span class='scene-font-spword'>五神杖</span><span class='scene-font-katari'>を手渡す。</span>,<span class='scene-font-katari'>这么说着，芬芙把</span><span class='scene-font-spword'>五神杖</span><span class='scene-font-katari'>递给了姬塔。</span>
+18,,<span class='scene-font-katari'>すると、フュンフは</span><br><span class='scene-font-katari'>ひどい眩暈に襲われ</span><br><span class='scene-font-katari'>床に座り込んでしまった。</span>,<span class='scene-font-katari'>紧接着，芬芙就感到一阵头晕目眩，坐倒在了地上。</span>
+19,ビィ/碧,おいおい、大丈夫か！？<br>ったくこの体調で暴れて……って、<br>魔力は使う方がいいのか。,喂喂，没事吧！？<br>真是的身体这样还乱来……<br>还是用了魔力比较好吗。
+20,フュンフ/芬芙,あれ～？<br>さっきまで、けっこー<br>調子、よかったのに……,哎呀~？明明刚刚为止感觉还挺好的啊……
+21,ロゼッタ/萝赛塔,これは……もしかして。<br>姬塔さん、<span class='scene-font-spword'>五神杖</span>を<br>フュンフに渡してみて貰えるかしら？,这是……莫非。<br>姬塔，能把<span class='scene-font-spword'>五神杖</span>递给芬芙吗？
+22,,<span class='scene-font-katari'>姬塔が頼まれたとおり</span><br><span class='scene-font-katari'>フュンフの手に</span><span class='scene-font-spword'>五神杖</span><span class='scene-font-katari'>を渡す。</span>,<span class='scene-font-katari'>姬塔按她所说的把</span><span class='scene-font-spword'>五神杖</span><span class='scene-font-katari'>递给了芬芙。</span>
+24,フュンフ/芬芙,……あれ？　あれれ？<br>なんかちょっと楽になったよーな？,……哎呀？哎呀呀？总觉得舒服了一点？
+25,ビィ/碧,こりゃ、どうなってんだぁ？,这是，发生了什么啊？
+26,ロゼッタ/萝赛塔,……たぶん、<span class='scene-font-spword'>五神杖</span>が<br>フュンフの魔力を<br>調節しているんだわ。,……大概，是<span class='scene-font-spword'>五神杖</span>在调节芬芙的魔力。
+27,ロゼッタ/萝赛塔,杖を介して溢れた魔力を<br>無害な形で発散している……<br>といったところかしら。,通过杖把满溢的魔力以无害的形式散发出去……应该是这么一回事。
+28,ルリア/露莉亚,えっと、ということは……<br>フュンフちゃんの体調は、<br><span class='scene-font-spword'>五神杖</span>を持ってれば治るんですね！,那个，也就是说，芬芙酱只要拿着<span class='scene-font-spword'>五神杖</span>就能恢复健康了吧！
+29,ロゼッタ/萝赛塔,ええ、体が成長して<br>魔力に適合できるようになるまでの<br>対症療法といったところね。,嗯，在身体成长到能适应魔力之前，用这缓解吧。
+30,フュンフ/芬芙,え～、でも……<br>この杖、姬塔のでしょ。,诶~但是……这把杖是姬塔的吧。
+31,フュンフ/芬芙,あちしが持ってたら<br>姬塔が使えないもん。<br>それはダメだよ！,如果我拿着的话，<br>姬塔不就不能用了。<br>那可不行！
+31-sel1_txt,,<span class='scene-font-katari'>しばらく貸してあげるよ！</span>,<span class='scene-font-katari'>暂时借给你吧！</span>
+31-sel2_txt,,<span class='scene-font-katari'>お礼を弾んで貰おうかな</span>,<span class='scene-font-katari'>要给我谢礼哦</span>
+32,フュンフ/芬芙,えっ……いいの、姬塔？<br>……ありがと！<br>すっごく助かる～！,诶……可以吗姬塔？<br>……谢谢你！帮我大忙了~！
+33,フュンフ/芬芙,……それじゃあ姬塔、<br>しばらく杖借りるね！,……那姬塔，我先借用你的杖了！
+35,フュンフ/芬芙,杖貸してくれるの？<br>お礼するする！<br>なんでもしちゃうよ～！,要借我杖吗？我会回礼的！我什么都会做的~！
+36,ロゼッタ/萝赛塔,もう、姬塔さんたら。<br>小さい子をからかったらダメよ？,真是的，姬塔你啊，不能捉弄小孩子哦？
+37,フュンフ/芬芙,……それじゃあ姬塔、<br>しばらく杖借りるね！,……那姬塔，我先借用你的杖了！
+38,,<span class='scene-font-katari'>姬塔はフュンフのため、</span><br><span class='scene-font-katari'>彼女に暫く</span><span class='scene-font-spword'>五神杖</span><span class='scene-font-katari'>を</span><br><span class='scene-font-katari'>貸しだすことに決めた。</span>,<span class='scene-font-katari'>姬塔为了芬芙，决定暂时把</span><span class='scene-font-spword'>五神杖</span><span class='scene-font-katari'>借给她。</span>
+39,,<span class='scene-font-katari'>こうして、当面の間</span><br><span class='scene-font-katari'>フュンフの体調に関する問題は</span><br><span class='scene-font-katari'>解決することとなったのだった。</span>,<span class='scene-font-katari'>就这样，目前来说，芬芙的身体健康问题得以解决。</span>
+info,,,scene_ult_chr125_q3_s20
+译者,,,

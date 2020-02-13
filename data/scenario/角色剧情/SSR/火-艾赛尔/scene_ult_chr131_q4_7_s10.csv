@@ -1,0 +1,29 @@
+id,name,text,trans
+0-chapter_name,,君に眠りを、私に銃を,君に眠りを、私に銃を
+0-synopsis,,十狼雷を携えたまま、賑やかな街の雑踏を眺めていたエッセル。突然現れたシエテに、得体の知れなさを感じたエッセルは警戒を強める。シエテはエッセルの中に十狼雷の意識があるのかを探りながら、「最強の座が欲しいなら、このシエテさんを放っておくのは酷くないか？」と挑発する。その言葉に乗せられたエッセルはシエテに敵意を向けるのだった。,艾瑟尔带着十狼雷，眺望着热闹的街道上熙熙攘攘的人群。对于突然出现的希耶提，有了未知感觉的艾瑟尔加强了警戒。希耶提一边试探艾瑟尔体内是否有十狼雷的意识，一边对她挑衅到“想要成为最强的话，不来挑战我希耶提就太过分了”。被言语挑衅到的艾瑟尔对希耶提充满了敌意。
+0,,<span class='scene-font-katari'>サラーサの元から</span><br><span class='scene-font-katari'>駆け出したエッセルは</span><br><span class='scene-font-katari'>森を出て、街にたどり着いていた。</span>,<span class='scene-font-katari'>艾瑟尔从萨拉萨那里跑开，走出了森林，来到了街上。</span>
+1,エッセル/艾瑟尔,…………,…………
+2,,<span class='scene-font-katari'>路地から</span><br><span class='scene-font-katari'>賑やかな雑踏を眺めるエッセルに、</span><br><span class='scene-font-katari'>声を掛ける者がいた。</span>,<span class='scene-font-katari'>她从小巷眺望着热闹拥挤的人群。</span><br><span class='scene-font-katari'>这时有人向她搭话。</span>
+3,シエテ/希耶提,やぁ、エッセル。<br>何を見てるんだい？,呀、艾瑟尔。<br>你在看什么？
+4,エッセル/艾瑟尔,…………！？<br>いつの間に……！,…………！？<br>什么时候……！
+5,シエテ/希耶提,ストップストーップ！	<br>いきなり撃つのはやめてくれよ。<br>さっきニオも膨れてたぞー！,等一下等一下！	<br>可别突然开枪啊。<br>刚才也惹妮欧生气了哦！
+6,シエテ/希耶提,それにそんな顔するのも<br>お前らしくないぞ？<br>昔のカトルには少し似てるけど……,而且露出那样的表情一点也不像你啊？<br>到是有点像过去的卡托尔……
+7,エッセル/艾瑟尔,…………！,…………！
+8,,<span class='scene-font-katari'>穏やかに話しかけるシエテを</span><br><span class='scene-font-katari'>振り切るように、エッセルは</span><br><span class='scene-font-katari'>路地裏から街の外へと駆け出す。</span>,<span class='scene-font-katari'>像是为了摆脱平静地搭话的希耶提，</span><br><span class='scene-font-katari'>艾瑟尔穿过小巷跑到了街外。</span>
+9,シエテ/希耶提,おいおい、待てって！<br>まだ話は終わってないぞ！,喂喂、等等！<br>我还没说完啊！
+14,シエテ/希耶提,おい……<span class='scene-font-spword'>十狼雷</span>！,喂……<span class='scene-font-spword'>十狼雷</span>！
+15,エッセル/艾瑟尔,…………何？,…………什么？
+16,シエテ/希耶提,人の妹分を誑かしたお前を逃がすかよ！,我是不会放任欺骗了人家的妹妹你逃走的！
+17,シエテ/希耶提,<span class='scene-font-kokoro'>（これは</span><span class='scene-font-spword'>十狼雷</span><span class='scene-font-kokoro'>の意識なのか……</span><br><span class='scene-font-kokoro'>それともまだエッセルの……？）</span>,<span class='scene-font-kokoro'>（这是</span><span class='scene-font-spword'>十狼雷</span><span class='scene-font-kokoro'>的意识吗……还是说是艾瑟尔的……？）</span>
+18,シエテ/希耶提,お前は最強の座が欲しいんだろ？<br>だったらこのシエテさんを<br>放っておくのはちょっと酷くないか？,你想要成为最强吧？<br>那么的话放着我希耶提不管不觉得有点过分吗？
+19,シエテ/希耶提,あ、それとも最強のシエテさんは、<br>盛り上がり的に最後まで<br>とっておこうかな～みたいな？,啊、还是说想要把最强的希耶提，要留到最后压轴搞定~？
+20,エッセル/艾瑟尔,……自信、あるんだね。,……你很有，自信啊。
+21,シエテ/希耶提,<span class='scene-font-kokoro'>（うん……ノーリアクション、か</span><br><span class='scene-font-kokoro'>ま、いつものエッセルも</span><br><span class='scene-font-kokoro'>こんな感じだけど……）</span>,<span class='scene-font-kokoro'>（嗯……没反应吗。不过平常的艾瑟尔也都是这种感觉……）</span>
+22,シエテ/希耶提,そりゃあ、伊達に十天衆頭目を<br>名乗ってる訳じゃないさ。<br>お前だって知ってるだろ？,那当然、十天众的头目可不是徒有其表。<br>这点你也很清楚吧？
+23,シエテ/希耶提,<span class='scene-font-kokoro'>（いや……今は知らないのかな</span><br><span class='scene-font-kokoro'>意識がだいぶ</span><span class='scene-font-spword'>十狼雷</span><span class='scene-font-kokoro'>に</span><br><span class='scene-font-kokoro'>持ってかれてるみたいだし）</span>,<span class='scene-font-kokoro'>（不……现在并不清楚吗</span><br><span class='scene-font-kokoro'>看上去大半的意识好像都被</span><span class='scene-font-spword'>十狼雷</span><span class='scene-font-kokoro'>抹去了）</span>
+24,エッセル/艾瑟尔,貴方を倒せば……<br>誰かが弟妹達を、<br>傷付けようとはしなくなる？,打到你的话……<br>就不会再有谁，想要伤害弟妹们了？
+25,シエテ/希耶提,そう思うのか？<br><span class='scene-font-kokoro'>（……思わされてるのか）</span>,你这样认为吗？<br><span class='scene-font-kokoro'>（……是它让你这么认为的吗。）</span>
+26,シエテ/希耶提,まあどっちにしろ、<br><span class='scene-font-spword'>十狼雷</span>を手放せなきゃ<br>どうしようもないな！,不管怎样，都得让你放开<span class='scene-font-spword'>十狼雷</span>才行啊！
+27,エッセル/艾瑟尔,<span class='scene-font-4'>……</span><span class='scene-font-4 scene-font-spword'>十狼雷</span><span class='scene-font-4'>は渡さない！</span><br><span class='scene-font-4'>絶対に！！</span>,<span class='scene-font-4'>……我绝对不会把</span><span class='scene-font-4 scene-font-spword'>十狼雷</span><span class='scene-font-4'>交给你！</span><br><span class='scene-font-4'>绝对！！</span>
+info,,,scene_ult_chr131_q4_7_s10
+译者,,,

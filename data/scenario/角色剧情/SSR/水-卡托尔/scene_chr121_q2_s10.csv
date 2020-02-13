@@ -1,0 +1,29 @@
+id,name,text,trans
+0-chapter_name,,街に蔓延るもの,蔓延于此街之物
+0-synopsis,,助けた男の子から何かを感じ取ったカトル。姬塔一行はカトルと共に、男の子の後をつけていくと、禁薬を仲間に配る男の子の姿を見つける。カトルは男の子から、禁薬を配ったマフィアの話を聞き出し、一行と共にアジトへ向かう。,卡托尔从被救的男孩子身上感觉到了异样。姬塔一行和卡托尔一起跟踪了男孩子，然后发现了他在给同伴们派发禁药。卡托尔从男孩子那里问出派发禁药的黑手党的事情后，与一行人一起前往他们的基地。
+0,,<span class='scene-font-katari'>街はずれで魔物に襲われかけていた</span><br><span class='scene-font-katari'>子供を助け出した一行。</span>,<span class='scene-font-katari'>一行人在街外救下了被魔物袭击的孩子。</span>
+1,男の子/男孩,ど、どうもありがとう……,非，非常感谢……
+2,カトル/卡托尔,もう大丈夫。<br>とにかく……<br>怪我が無くて良かった。,已经没事了。<br>总之……没受伤真是太好了。
+3,カトル/卡托尔,でも、なんで勝手に<br>街の外に出たんだい？,但是，你为什么擅自跑出街外？
+4,男の子/男孩,えっと……<br>友達と外を探検しようってなって……<br>でもはぐれちゃって……それで……,那个……<br>本来想和朋友探索街外……<br>但后来走散了……所以……
+5,カトル/卡托尔,元気なのはいいけど。<br>無茶しちゃあ、だめだよ？,有精神是好事。<br>不过不可以做危险的事哦？
+6,男の子/男孩,ごめんなさい……,对不起……
+7,カトル/卡托尔,さぁ……<br>もう行っていいよ。,嗯……<br>你可以回去了。
+8,男の子/男孩,うん！,嗯！
+9,,<span class='scene-font-katari'>その場から走り去っていく、</span><br><span class='scene-font-katari'>男の子の背中を見つめるカトル。</span>,<span class='scene-font-katari'>卡托尔注视着从这里跑开的男孩子的背影。</span>
+10,カトル/卡托尔,…………,…………
+11,,<span class='scene-font-katari'>男の子の様子から</span><br><span class='scene-font-katari'>何かを感じ取ったカトルは</span><br><span class='scene-font-katari'>彼の尾行を始めた。</span>,<span class='scene-font-katari'>卡托尔从男孩子的神情中感觉到了什么，</span><br><span class='scene-font-katari'>开始跟踪那个男孩子。</span>
+12,ビィ/碧,お、おい……カトル。<br>急に怖い顔してどうしたんだ？,喂，喂……卡托尔。<br>突然表情这么恐怖，发生什么了？
+13,カトル/卡托尔,いいから……<br>黙ってついてきてください。,别多问……<br>闭上嘴跟上我。
+16,,<span class='scene-font-katari'>すると……路地裏に入った男の子は、</span><br><span class='scene-font-katari'>仲間内に何かを配り始めるのだった。</span>,<span class='scene-font-katari'>然后……进入小巷的男孩子开始向同伴们派发某个东西。</span>
+17,ルリア/露莉亚,あ、あれって……,那，那个是……
+18,カトル/卡托尔,はい……<br>この街を蝕む禁薬「ヘヴン」。<br>絶対に許してはいけないモノです。,是的……<br>这是侵蚀这条街的禁药“heaven”。<br>是绝对不能容许的东西。
+19,,<span class='scene-font-katari'>そう言い終えるや否や、</span><br><span class='scene-font-katari'>男の子たちを捕まえるカトル。</span>,<span class='scene-font-katari'>话音刚落，卡托尔就抓住了那群孩子。</span>
+20,,<span class='scene-font-katari'>その場で男の子を問い詰めると、</span><br><span class='scene-font-katari'>「ヘヴン」は、街の外のマフィア達に</span><br><span class='scene-font-katari'>もらったと泣きながら話してくれた。</span>,<span class='scene-font-katari'>当场质问了那个男孩子之后，他哭着说“heaven”是从城外的黑手党那里拿到的。</span>
+23,カトル/卡托尔,ぼくはこれから……<br>マフィアのアジトに<br>乗り込んで話をつけてきます。,我现在去……<br>黑手党的基地和他们做个了断。
+24,ルリア/露莉亚,そんな……<br>一人で行くなんて危ないです！,怎么这样……<br>一个人去太危险了！
+25,ビィ/碧,そうだぜ！<br>オイラ達にも力にならせてくれ！,就是啊！<br>也让我们一起帮忙吧！
+26,カトル/卡托尔,……はい。<br>ありがとう……<br>ございます。,……好。<br>非常……感谢。
+27,,<span class='scene-font-katari'>こうして一行は、</span><br><span class='scene-font-katari'>マフィアのアジトに</span><br><span class='scene-font-katari'>乗り込むのだった。</span>,<span class='scene-font-katari'>于是一行人就进入了黑手党的基地。</span>
+info,,,scene_chr121_q2_s10
+译者,,,sora_vicki

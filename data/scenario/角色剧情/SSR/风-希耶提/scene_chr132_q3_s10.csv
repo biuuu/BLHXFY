@@ -1,42 +1,42 @@
 id,name,text,trans
 0-chapter_name,,少年と剣王,少年与剑王
-0-synopsis,,マフィアを追い払った姬塔一行は、探していた少年を見つけ出す。警戒する少年にシエテは優しく語りかける。すると、マフィア達が現れ、一行に襲い掛かってくる。,赶走了黑手党的姬塔一行人，发现了他们寻找的少年。希耶提温柔地向警戒着的少年搭话。然后，黑手党又出现了，袭击了一行人。
-0,マフィア１,クソッ！　て……てめぇら！　<br>生きてここから出られると<br>思うなよ！,可恶！　你……你们！　<br>可别以为你们<br>能活着走出这里哦！
-1,シエテ/希耶提,はいはーい！　またねー！<br>まぁ、お前らみたいな雑魚が<br>何人来ようと同じだけどねー？,知道了知道了！　再见了ー！<br>嘛啊，像你们这样的杂鱼<br>再来几次也是同样的结果就是了呢ー？
-2,,<span class='scene-font-katari'>マフィアの下っ端を</span><br><span class='scene-font-katari'>追い払った一行は</span><br><span class='scene-font-katari'>再び少年の足取りを追う。</span>,<span class='scene-font-katari'>赶走了黑手党的底层喽啰</span><br><span class='scene-font-katari'>一行人再次</span><br><span class='scene-font-katari'>追踪起了少年的行踪。</span>
-3,シエテ/希耶提,さてと……<br>スラム街ってのはどこも<br>似た様なものだねー,说起来……<br>无论哪个贫民街都是<br>有相似之处呢ー
-4,シエテ/希耶提,マフィアがのさばってて、<br>その犠牲になる弱者がいてさ……,黑手党们肆意妄为，<br>还有在他们手下被牺牲的弱者……
-5,,<span class='scene-font-katari'>一行は路地裏で先ほどの</span><br><span class='scene-font-katari'>スリの少年を見つける。</span>,<span class='scene-font-katari'>一行人在小巷深处</span><br><span class='scene-font-katari'>发现了刚刚的小偷少年。</span>
+0-synopsis,,マフィアを追い払った姬塔一行は、探していた少年を見つけ出す。警戒する少年にシエテは優しく語りかける。すると、マフィア達が現れ、一行に襲い掛かってくる。,姬塔一行人赶走了黑手党，找到了他们寻找的少年。希耶提温柔地向警戒着的少年搭话。然后，黑手党再次出现，袭击了一行人。
+0,マフィア１,クソッ！　て……てめぇら！　<br>生きてここから出られると<br>思うなよ！,可恶！　你……你们！　<br>别想活着走出这里！
+1,シエテ/希耶提,はいはーい！　またねー！<br>まぁ、お前らみたいな雑魚が<br>何人来ようと同じだけどねー？,知道了知道了！　再见了ー！<br>不过，像你们这样的杂鱼，不管再来几个都是同样的结果哦？
+2,,<span class='scene-font-katari'>マフィアの下っ端を</span><br><span class='scene-font-katari'>追い払った一行は</span><br><span class='scene-font-katari'>再び少年の足取りを追う。</span>,<span class='scene-font-katari'>赶走了黑手党的小喽啰，一行人再次，追踪起了少年的行踪。</span>
+3,シエテ/希耶提,さてと……<br>スラム街ってのはどこも<br>似た様なものだねー,那么……<br>贫民街无论哪里的都很相似呢ー
+4,シエテ/希耶提,マフィアがのさばってて、<br>その犠牲になる弱者がいてさ……,有黑手党们肆意妄为，<br>还有成为他们的牺牲品的弱者……
+5,,<span class='scene-font-katari'>一行は路地裏で先ほどの</span><br><span class='scene-font-katari'>スリの少年を見つける。</span>,<span class='scene-font-katari'>一行人在小巷深处发现了刚才那个小偷少年。</span>
 6,少年,お、お前ら……さっきの……<br>こんな所まで何しに来やがった！,你、你们是……刚刚的……<br>你们来这种地方做什么！
-7,シエテ/希耶提,まぁそう怯えるなって。<br>俺はお前と話をしに来たんだ。,嘛啊你不用那么害怕啦。<br>我是想来和你说说话。
+7,シエテ/希耶提,まぁそう怯えるなって。<br>俺はお前と話をしに来たんだ。,你不用那么害怕啦。<br>我是来和你聊聊的。
 8,少年,う、嘘をつけ！　<br>何が目的だ！<br>俺を捕まえに来たのか！,骗，骗人的！　<br>你有什么目的！<br>是为了抓我才来的吗！
-9,シエテ/希耶提,違う違う……<br>ほら、ここに俺の剣を置くから<br>これで安心だろ？,不是的不是的……<br>你看，我把剑放在这里了<br>这样你就放心了吧？
-10,,<span class='scene-font-katari'>シエテはそう言って、</span><br><span class='scene-font-katari'>地面に剣を置く。</span>,<span class='scene-font-katari'>希耶提这么说着，</span><br><span class='scene-font-katari'>把剑放在了地上。</span>
-11,,<span class='scene-font-katari'>シエテの行動に</span><br><span class='scene-font-katari'>警戒を解く少年。</span>,<span class='scene-font-katari'>少年看着希耶提的行动</span><br><span class='scene-font-katari'>放下了戒备。</span>
+9,シエテ/希耶提,違う違う……<br>ほら、ここに俺の剣を置くから<br>これで安心だろ？,不是的不是的……<br>你看，我把剑放在这里了，这样你就放心了吧？
+10,,<span class='scene-font-katari'>シエテはそう言って、</span><br><span class='scene-font-katari'>地面に剣を置く。</span>,<span class='scene-font-katari'>希耶提这么说着，把剑放在了地上。</span>
+11,,<span class='scene-font-katari'>シエテの行動に</span><br><span class='scene-font-katari'>警戒を解く少年。</span>,<span class='scene-font-katari'>少年看着希耶提的行动放下了戒备。</span>
 12,シエテ/希耶提,お前は好きでこんなことをしてるのか？<br>さぁ、お前のことを教えてくれ？,你是因为自己喜欢才做这种事的吗？<br>来吧，把你的情况告诉我吧？
-13,,<span class='scene-font-katari'>シエテの言葉を受けた少年は、</span><br><span class='scene-font-katari'>おずおずと話を始める。</span>,<span class='scene-font-katari'>听了希耶提的提问的少年</span><br><span class='scene-font-katari'>胆怯地开始了讲述。</span>
-14,少年,俺の人生は……<br>両親が内戦で死んだ日に<br>全て終わったんだ……,我的人生……<br>在父母因为内战而死去的那天<br>就已经全部完蛋了……
+13,,<span class='scene-font-katari'>シエテの言葉を受けた少年は、</span><br><span class='scene-font-katari'>おずおずと話を始める。</span>,<span class='scene-font-katari'>少年听了希耶提的话，胆怯地开始了讲述。</span>
+14,少年,俺の人生は……<br>両親が内戦で死んだ日に<br>全て終わったんだ……,我的人生……<br>在父母因为内战而死去的那天就已经全部完蛋了……
 15,少年,孤児になって……住む家も失って。<br>どこにも行く当てもない俺を、<br>マフィアが拾ってくれたんだ。,变成了孤儿……失去了居住的家。<br>不知道该去哪里的我，<br>被黑手党捡回去了。
 16,少年,後はもうお決まりのコースさ。<br>生きるために何でもやって……<br>集めた金をマフィアに渡す毎日さ。,之后就是既定的路线了。<br>为了活下去我什么都会做……<br>每天都把得到的钱交给黑手党。
 17,シエテ/希耶提,そのままじゃ……<br>お前は悪い方へ流されるだけだ。<br>今すぐマフィア達と手を切れ。,再这样下去……<br>你也只会变成坏人的。<br>趁现在快和黑手党切断联系吧。
-18,少年,……簡単に言うなよ……<br>お前に俺の何がわかるって言うんだ！,……别说的那么轻松啊……<br>你又知道我什么了居然这么说！
-19,,<span class='scene-font-katari'>感情を露わに激昂する少年は</span><br><span class='scene-font-katari'>シエテから目をそらす。</span>,<span class='scene-font-katari'>情绪外露激动的少年</span><br><span class='scene-font-katari'>视线从希耶提身上移开了。</span>
-20,シエテ/希耶提,ああ……わからない。<br>だからこうやって話をしに来たんだ。<br>さぁ、お前も俺の目を見て話せ。,啊啊……我是不知道。<br>所以才这样来找你说话。<br>来，你看着我的眼睛说话。
+18,少年,……簡単に言うなよ……<br>お前に俺の何がわかるって言うんだ！,……别说的那么轻松啊……<br>你又知道我的什么了！
+19,,<span class='scene-font-katari'>感情を露わに激昂する少年は</span><br><span class='scene-font-katari'>シエテから目をそらす。</span>,<span class='scene-font-katari'>少年露骨地激动起来，移开视线不看希耶提。</span>
+20,シエテ/希耶提,ああ……わからない。<br>だからこうやって話をしに来たんだ。<br>さぁ、お前も俺の目を見て話せ。,是啊……我是不知道。<br>所以才这样来找你说话。<br>来，你看着我的眼睛说话。
 21,少年,…………,…………
-22,シエテ/希耶提,とにかく……<br>お前自身が生まれ変わるしかない。<br>今はこの状況から脱することを考えろ。,总而言之……<br>只有你才能让你自己得到重生。<br>好好考虑该如何从现在的状况下脱身吧。
+22,シエテ/希耶提,とにかく……<br>お前自身が生まれ変わるしかない。<br>今はこの状況から脱することを考えろ。,总而言之……<br>只有你自己重新开始才行。<br>现在你先考虑该如何从这个状况下脱身吧。
 23,少年,そんなこと……<br>できたらとっくにやってるさ！,那种事……<br>能办到的话我早就做了啊！
-24,,<span class='scene-font-katari'>そこへ先ほどのマフィア達が</span><br><span class='scene-font-katari'>仲間を連れてやってくる。</span>,<span class='scene-font-katari'>在那里之前的黑手党们来了</span><br><span class='scene-font-katari'>带来了更多的伙伴。</span>
-25,マフィア１,おいおいおい……<br>テメェ……俺の大事なダチに<br>何吹き込んでくれてんだ？,喂喂喂……<br>你小子……是想教唆我重要的同伴<br>做什么呢？
-26,シエテ/希耶提,……おい。<br>もうこの少年に構うな……,……喂。<br>别再插手这少年的事了……
-27,マフィア２,あー？<br>何でテメェにそんなこと<br>指図されなきゃいけねぇんだよ？,哈ー？<br>为什么我非要<br>听你这小子的指示啊？
-28,シエテ/希耶提,…………姬塔。<br>背後に奴らの仲間が隠れてるぞ。,…………姬塔。<br>背后还藏着那家伙的同伙。
+24,,<span class='scene-font-katari'>そこへ先ほどのマフィア達が</span><br><span class='scene-font-katari'>仲間を連れてやってくる。</span>,<span class='scene-font-katari'>这时之前的黑手党们带着更多的伙伴又回来了。</span>
+25,マフィア１,おいおいおい……<br>テメェ……俺の大事なダチに<br>何吹き込んでくれてんだ？,喂喂喂……你小子……<br>是想教唆我重要的同伴做什么呢？
+26,シエテ/希耶提,……おい。<br>もうこの少年に構うな……,……喂。<br>别再和这少年扯上关系了……
+27,マフィア２,あー？<br>何でテメェにそんなこと<br>指図されなきゃいけねぇんだよ？,哈ー？<br>为什么我非要听你这小子的指示啊？
+28,シエテ/希耶提,…………姬塔。<br>背後に奴らの仲間が隠れてるぞ。,…………姬塔。<br>后面还藏着那家伙的同伙。
 29,マフィア１,テメェ！？<br>なんでそれを……,你！？<br>为什么会知道……
-30,,<span class='scene-font-katari'>マフィア達が動揺した隙をついて、</span><br><span class='scene-font-katari'>地面から剣を拾い上げるシエテ。</span>,<span class='scene-font-katari'>希耶提瞄准了黑手党们一瞬的犹豫，</span><br><span class='scene-font-katari'>从地上把剑捡了起来。</span>
-31,シエテ/希耶提,……お前みたいなヤツ、<br>見てると虫唾が走るんだよね。,……像你这样的家伙，<br>看了就让人不快啊。
+30,,<span class='scene-font-katari'>マフィア達が動揺した隙をついて、</span><br><span class='scene-font-katari'>地面から剣を拾い上げるシエテ。</span>,<span class='scene-font-katari'>希耶提瞄准了黑手党们一瞬的犹豫，从地上把剑捡了起来。</span>
+31,シエテ/希耶提,……お前みたいなヤツ、<br>見てると虫唾が走るんだよね。,……像你这样的家伙，<br>看了就让人想吐啊。
 32,マフィア２,……くそっ！<br>バレちゃ仕方ねぇ！<br>お前達、出てこい！,……可恶！<br>暴露了的活就没办法了！<br>你们，都给我出来！
-34,,<span class='scene-font-katari'>一行を取り囲む</span><br><span class='scene-font-katari'>大勢のマフィア達。</span>,<span class='scene-font-katari'>大量的黑手党们，</span><br><span class='scene-font-katari'>将一行人包围了起来。</span>
-35,マフィア１,くっくっくっ……<br>これだけの数を相手に……<br>生きて帰れると思うなよ！,哈哈哈……<br>与我们这么多数量的人作对……<br>可别以为你们能活着回去啊！
-36,シエテ/希耶提,はぁー<br>その数で勝てると思う発言が<br>雑魚っぽいんだよなー,唉ー<br>这种以为能靠数量取胜的发言<br>也相当有杂鱼的感觉呢ー
+34,,<span class='scene-font-katari'>一行を取り囲む</span><br><span class='scene-font-katari'>大勢のマフィア達。</span>,<span class='scene-font-katari'>大群的黑手党将一行人包围了起来。</span>
+35,マフィア１,くっくっくっ……<br>これだけの数を相手に……<br>生きて帰れると思うなよ！,哈哈哈……<br>与我们这么多的人作对……<br>可别以为你们能活着回去啊！
+36,シエテ/希耶提,はぁー<br>その数で勝てると思う発言が<br>雑魚っぽいんだよなー,唉ー<br>这种以为能靠数量取胜的发言也相当有杂鱼的感觉呢ー
 37,マフィア１,な、なんだと！？,你，你说什么！？
 38,シエテ/希耶提,んじゃー姬塔。<br>後ろは任せたよーん。,那么ー姬塔。<br>我的背后就交给你了哟。
 39,ビィ/碧,ああ！<br>こっちは任せとけ！,啊啊！<br>这边就交给我们了！

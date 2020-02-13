@@ -1,0 +1,54 @@
+id,name,text,trans
+0-chapter_name,,STAGE3 ゼロ の 正体,STAGE3 ZERO的真面目
+0-synopsis,,空の世界へ転移後、親切な技師のもとに身を寄せていたスザク。ある日、スザクは足の不自由な女性と出会う。女性は妹を捜していると言うが、突然「妹はゼロが殺した！」と騒ぎ出すなど異様な様子を見せる。騒ぎにエルステ兵が駆けつけると、女性はスザクを気絶させて歩き去る。エルステ兵はスザクの奇妙な格好に気づき、金ヅルになるかもしれないと連行していくのだった。,被传送到空之世界后，朱雀被好心的技工师傅收留了。某一天，朱雀遇见了一位腿脚不方便的女性。女性说她在寻找自己的妹妹，突然她说着「妹妹被ZERO杀掉了！」陷入了异常的状态并且大吵大闹了起来。骚动引来了埃尔斯特的士兵，女性击晕了朱雀后离开了。埃尔斯特的士兵发现了打扮奇特的朱雀，认为可以借此敲诈一笔钱，就将他带走了。
+8,,<span class='scene-font-katari'>ルルーシュたちが作戦実行を決めて</span><br><span class='scene-font-katari'>目的の島へ航路を進んでいる頃、</span><br><span class='scene-font-katari'>スザクは閑静な道を歩いていた。</span>,<span class='scene-font-katari'>鲁鲁修一行决定实行作战</span><br><span class='scene-font-katari'>向着目的地的岛屿进发的时候，</span><br><span class='scene-font-katari'>朱雀正走在一条安静的小路上。</span>
+10,スザク/朱雀,<span class='scene-font-kokoro'>（報酬を上乗せしてもらえて</span><br><span class='scene-font-kokoro'>ラッキーだった）</span>,<span class='scene-font-kokoro'>（收到的报酬金额追加了，</span><br><span class='scene-font-kokoro'>运气真好）</span>
+11,スザク/朱雀,<span class='scene-font-kokoro'>（工場の親父さんに</span><br><span class='scene-font-kokoro'>美味しいものでも買って帰ろう）</span>,<span class='scene-font-kokoro'>（给工厂的老爹</span><br><span class='scene-font-kokoro'>买点好吃的回去吧）</span>
+12,,<span class='scene-font-katari'>ルルーシュたちと同様に</span><br><span class='scene-font-katari'>スザクも空の世界に転移し、</span><br><span class='scene-font-katari'>とある島に滞在していた。</span>,<span class='scene-font-katari'>和鲁鲁修一行一样</span><br><span class='scene-font-katari'>朱雀也被传送到了空之世界，</span><br><span class='scene-font-katari'>现在暂留于某个岛屿。</span>
+13,,<span class='scene-font-katari'>スザクは転移した島で</span><br><span class='scene-font-katari'>機械好きな技師にランスロットを</span><br><span class='scene-font-katari'>見せてほしいと声をかけられ……</span>,<span class='scene-font-katari'>朱雀传送到的这个岛上</span><br><span class='scene-font-katari'>喜欢机械的技师们拜托他</span><br><span class='scene-font-katari'>让他们看看兰斯洛特……</span>
+14,,<span class='scene-font-katari'>以来、技師の工場に</span><br><span class='scene-font-katari'>住まわせてもらっていた。</span>,<span class='scene-font-katari'>从那之后朱雀</span><br><span class='scene-font-katari'>就被收留寄住在了工厂。</span>
+15,,<span class='scene-font-katari'>技師はランスロットに油を差し、</span><br><span class='scene-font-katari'>埃を掃うといった簡単な整備も</span><br><span class='scene-font-katari'>してくれており……</span>,<span class='scene-font-katari'>因为技师们，</span><br><span class='scene-font-katari'>帮忙做了给兰斯洛特上油，</span><br><span class='scene-font-katari'>还有清扫灰尘这样的修整工作……</span>
+16,,<span class='scene-font-katari'>スザクは少しでも技師にお礼をしようと</span><br><span class='scene-font-katari'>魔物討伐などの依頼をこなし、</span><br><span class='scene-font-katari'>生活の足しとして報奨金を渡していた。</span>,<span class='scene-font-katari'>所以朱雀觉得即使一点也好想要给技师们回礼，</span><br><span class='scene-font-katari'>接了一些消灭魔物的委托，</span><br><span class='scene-font-katari'>把获得的报酬作为生活补贴交给他们。</span>
+17,スザク/朱雀,あっ……,啊……
+22,やつれた女性/消瘦憔悴的女性,……うとは……<br>私の……は、どこ……？,……妹……<br>我的……在，哪里……？
+23,,<span class='scene-font-katari'>スザクは何かを呟きながら、</span><br><span class='scene-font-katari'>おぼつかない足取りで道を行く</span><br><span class='scene-font-katari'>ひとりの女性を見つけた。</span>,<span class='scene-font-katari'>朱雀看见了，</span><br><span class='scene-font-katari'>一个一边念叨着什么，</span><br><span class='scene-font-katari'>一边摇摇晃晃地走着的女性。</span>
+24,,<span class='scene-font-katari'>女の手には輪のついた杖が</span><br><span class='scene-font-katari'>握られており、足を悪くしているのが</span><br><span class='scene-font-katari'>ひと目で分かる。</span>,<span class='scene-font-katari'>女人的手里</span><br><span class='scene-font-katari'>握着带环的拐杖，</span><br><span class='scene-font-katari'>看一眼就知道应该是腿脚不方便。</span>
+26,スザク/朱雀,どうしました？<br>誰かとはぐれてしまったのですか？,你怎么了？<br>是和谁走散了吗？
+27,やつれた女性/消瘦憔悴的女性,あら……<br>……どなた？,啊啦……<br>……您是哪位？
+28,スザク/朱雀,僕は枢木スザク。,我是枢木朱雀。
+29,スザク/朱雀,ここは人通りが少ない。<br>はぐれてしまったのなら、<br>僕も一緒に探しますよ。,这里路过的人很少。<br>如果是和人走散的话，<br>我也帮你一起找人吧。
+30,やつれた女性/消瘦憔悴的女性,親切な人ね。<br>うふふふふ……,真是好心的人呢。<br>呼呋呋呋呋……
+31,やつれた女性/消瘦憔悴的女性,妹を捜しているの。<br>私の大切な、たったひとりの妹……,我在找我的妹妹呢。<br>我重要的，仅此一个的妹妹……
+32,スザク/朱雀,妹さんとはぐれてしまったんですね。<br>妹さんはどんな方です？,是和妹妹走散了啊。<br>妹妹是什么样的人呢？
+33,やつれた女性/消瘦憔悴的女性,妹は、目が見えないの……<br>でも、いつも優しく笑っていて……,我的妹妹她，眼睛看不见……<br>但是一直温柔地笑着……
+34,スザク/朱雀,目が見えない……<br>大変だ。<br>早く見つけてあげないと。,眼睛看不见啊……<br>那还挺糟糕的呢。<br>不快点找到她的话。
+35,スザク/朱雀,そうだ。<br>名前……<br>妹さんの名前を教えてください。,对了。<br>名字……<br>请告诉我你妹妹的名字。
+36,やつれた女性/消瘦憔悴的女性,名前……？<br>あ……なんだっけ？,名字……？<br>啊……是什么来着？
+37,やつれた女性/消瘦憔悴的女性,確か、ナ……<br>じゃなくてルイ……あ……,好像是，娜……<br>不对是路易……啊……
+38,やつれた女性/消瘦憔悴的女性,そんな……嫌……<br>嫌よ、嫌、嫌イヤイヤーーー！！！,那种事……不要……<br>不要啊、不要、不要不要不要ーーー！！！
+39,スザク/朱雀,え？,诶？
+40,,<span class='scene-font-katari'>髪がグシャグシャに乱れるほど</span><br><span class='scene-font-katari'>頭を激しく振り、</span><br><span class='scene-font-katari'>女性は錯乱状態で騒ぎ始める。</span>,<span class='scene-font-katari'>女性的头发变得散乱，</span><br><span class='scene-font-katari'>她剧烈地摇着头，</span><br><span class='scene-font-katari'>精神错乱地开始大喊大叫。</span>
+42,やつれた女性/消瘦憔悴的女性,<span class='scene-font-4'>違う！</span><br><span class='scene-font-4'>私の妹は殺されたァァ！！</span>,<span class='scene-font-4'>不对！</span><br><span class='scene-font-4'>我的妹妹被杀掉了啊啊！！</span>
+43,やつれた女性/消瘦憔悴的女性,ゼロが殺した！　お前が殺した！<br>お前が！　お前が！　お前がァァ！,是ZERO杀了！　是你杀了！<br>是你！　是你！　是你啊啊！
+44,スザク/朱雀,<span class='scene-font-kokoro'>（ゼロ？</span><br><span class='scene-font-kokoro'>いま、ゼロと言ったのか……？）</span>,<span class='scene-font-kokoro'>（ZERO？</span><br><span class='scene-font-kokoro'>她刚刚是说了ZERO了吧……？）</span>
+45,やつれた女性/消瘦憔悴的女性,<span class='scene-font-4'>人殺しィィィイイイイ！！！</span>,<span class='scene-font-4'>杀人犯啊啊啊啊啊啊啊！！！</span>
+48,,<span class='scene-font-katari'>スザクの胸に拳を叩きつけ、</span><br><span class='scene-font-katari'>喉が裂けんばかりの声で女性は叫ぶ。</span>,<span class='scene-font-katari'>女性一边用拳头捶打着朱雀的胸口，</span><br><span class='scene-font-katari'>一边声嘶力竭地大叫着。</span>
+49,スザク/朱雀,お、落ち着いて！<br>妹さんがどうしたんです？<br>何があったのか教えてください。,喂，你冷静一点！<br>你的妹妹怎么了？<br>请告诉我发生了什么。
+52,巡回中の兵/巡逻中的士兵,そこ！　何事だ！？,那边的！　发生什么事了！？
+54,スザク/朱雀,ご、誤解です！<br>僕はただこの人が妹さんと<br>はぐれたみたいだったので……！,你，你误会了！<br>我只是因为这个人好像和妹妹走散了<br>所以才……！
+55,やつれた女性/消瘦憔悴的女性,人殺し……うぅぅ……<br>酷い……酷すぎる……,杀人犯……呜呜呜……<br>过分……太过分了……
+56,巡回中の兵/巡逻中的士兵,嘘を吐くな！<br>この女がお前を<br>人殺しだと言っているだろう！,你别说谎了！<br>这个女人可是<br>说你杀了人啊！
+57,スザク/朱雀,<span class='scene-font-4'>違う！</span><br><span class='scene-font-4'>話を聞いてくれ！</span>,<span class='scene-font-4'>不是这样的！</span><br><span class='scene-font-4'>请听我解释！</span>
+59,スザク/朱雀,がっ！<br>うぅぅ……,嘎啊！<br>呜……
+61,,<span class='scene-font-katari'>突然後頭部に強い衝撃があり、</span><br><span class='scene-font-katari'>スザクは意識が遠のいて倒れる。</span>,<span class='scene-font-katari'>因为后脑勺突然受到了强力的冲击</span><br><span class='scene-font-katari'>朱雀失去了意识倒在了地上。</span>
+62,巡回中の兵/巡逻中的士兵,はぁ？　え？,哈啊？　诶？
+63,やつれた女性/消瘦憔悴的女性,妹……私の妹は、どこ……？<br>どこにいるの……？,妹妹……我的妹妹，在哪……？<br>在哪里呢……？
+64,,<span class='scene-font-katari'>女はスザクのことなど</span><br><span class='scene-font-katari'>忘れてしまったかのように、</span><br><span class='scene-font-katari'>再びフラフラと彷徨い始めた。</span>,<span class='scene-font-katari'>女性一副</span><br><span class='scene-font-katari'>把朱雀的事都忘掉了的样子，</span><br><span class='scene-font-katari'>再次回到了飘飘忽忽徘徊着的模样。</span>
+65,巡回中の兵/巡逻中的士兵,チッ、ワケがわからん。<br>とにかく、こいつは連行だ。<br>さっさと立て。,切，真是让人摸不着头脑。<br>总之，先把这家伙带走吧。<br>赶紧给我站起来啊。
+66,スザク/朱雀,うぅ……,呜……
+67,巡回中の兵/巡逻中的士兵,あんな女に触れられただけで<br>伸びちまうとは、なんてひ弱な野郎だ。,只是被那种女人轻轻碰了一下，<br>就变得不能动弹了，真是弱小的家伙啊。
+68,巡回中の兵/巡逻中的士兵,しかし、<br>えらく変わった格好をしているな。,但是，<br>真是相当奇怪的打扮啊。
+69,巡回中の兵/巡逻中的士兵,何かしらの金ヅルになるかもしれねぇ。<br>とりあえず牢にぶち込んどくか。,总觉得可以敲一笔钱的样子。<br>总之先把他丢进监狱吧。
+70,,<span class='scene-font-katari'>エルステ兵は駆けつけた応援とともに</span><br><span class='scene-font-katari'>気絶したスザクを引きずって行く。</span>,<span class='scene-font-katari'>埃尔斯特的士兵和赶来的增援一起，</span><br><span class='scene-font-katari'>把昏迷的朱雀带走了。</span>
+71,,<span class='scene-font-katari'>スザクが去った場所には</span><br><span class='scene-font-katari'>丁寧に折られた１羽の折り鶴が</span><br><span class='scene-font-katari'>風に揺れているのだった。</span>,<span class='scene-font-katari'>在朱雀离开的地方，</span><br><span class='scene-font-katari'>有一只仔细折成的千纸鹤，</span><br><span class='scene-font-katari'>被风吹拂轻轻摇晃着。</span>
+info,,,scene_evt190614_cp3_q1_s10

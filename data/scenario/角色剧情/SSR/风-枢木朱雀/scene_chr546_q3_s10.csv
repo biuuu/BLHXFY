@@ -1,0 +1,94 @@
+id,name,text,trans
+0-chapter_name,,夜空 の 誓い,夜空的誓言
+0-synopsis,,坑道の地下を進む間の会話で、スザクは自分とルルーシュ、スザクの大切な人であるユフィの関係を姬塔達に話す。「元の世界に戻れば自分とルルーシュは戦うことになるだろう、しかし他の道もあるかもしれない」と悩むスザク。姬塔とルリアに背中を押され、スザクはルルーシュと話し合うことを決意するのだった。,在矿道地下边行边会话之中，朱雀将自己与鲁鲁修、以及对他而言重要之人尤菲之间的关系告诉了姬塔等人。「如果回到了原来的世界，自己会与鲁鲁修战斗的吧，但说不定也会有别的道路」朱雀为此烦恼着。在姬塔与露莉亚的鼓励下，朱雀决意与鲁鲁修一谈。
+1,,<span class='scene-font-katari'>出口を探し、微かに吹き抜ける</span><br><span class='scene-font-katari'>風を辿って奥へと進んでいく</span><br><span class='scene-font-katari'>姬塔一行。</span>,<span class='scene-font-katari'>姬塔一行人寻找着出口，</span><br><span class='scene-font-katari'>在吹拂着的微风的引领下</span><br><span class='scene-font-katari'>向地下的深处前进。</span>
+2,,<span class='scene-font-katari'>一部の道は崩落した岩と土に</span><br><span class='scene-font-katari'>埋まっており、一行は手探りで</span><br><span class='scene-font-katari'>道を探しながら歩みを進めていた。</span>,<span class='scene-font-katari'>一部分道路被落下的土石</span><br><span class='scene-font-katari'>掩埋，一行人摸索着</span><br><span class='scene-font-katari'>一边寻找着道路一边前进。</span>
+3,ルリア/露莉亚,はうう……<br>こっちの道も<br>塞がっちゃってますね……,哈呜呜……<br>这边的路<br>也被堵住了呢……
+4,ルリア/露莉亚,やっぱり、さっきの地震で<br>崩れてしまったんでしょうか？,果然因为之前的地震<br>崩塌了吗？
+5,スザク/朱雀,この感じだと、<br>ここはずっと前に崩落して<br>使われなくなった坑道だと思う。,这种感觉的话，<br>这里是在很早之前就崩塌<br>所以不再被使用的矿道吧。
+6,スザク/朱雀,道具が錆びついてるし、<br>瓦礫もつい最近落ちてきたって<br>感じじゃなさそうだしね。,道具已经生锈了，<br>瓦砾感觉上也不是<br>最近才落下的。
+7,ルリア/露莉亚,それじゃ、もしかしてこの先の<br>出口も埋もれちゃってるんじゃ……,这样的话，说不定前方的<br>出口也被埋住了……
+8,スザク/朱雀,そんなことはないよ。<br>外から空気が流れてきている。<br>必ず外に通じているはずさ。,不会的哟。<br>空气从外面流入。<br>一定可以通往外面的才对。
+9,スザク/朱雀,空気の流れを辿って<br>出口を探そう。,循着空气流动的方向<br>寻找出口吧。
+10,,<span class='scene-font-katari'>僅かな希望を信じ、</span><br><span class='scene-font-katari'>どこまでも続く道を進む</span><br><span class='scene-font-katari'>姬塔達。</span>,<span class='scene-font-katari'>相信着微小的希望，</span><br><span class='scene-font-katari'>姬塔等人在不知通往何方的</span><br><span class='scene-font-katari'>道路上前行着。</span>
+11,ルリア/露莉亚,ひゃぁっ！,呀啊啊！
+12,,<span class='scene-font-katari'>岩に足を取られ、</span><br><span class='scene-font-katari'>よろめいたルリアを</span><br><span class='scene-font-katari'>咄嗟に引き寄せ支える姬塔。</span>,<span class='scene-font-katari'>被岩石绊住脚，</span><br><span class='scene-font-katari'>露莉亚踉跄了一下，</span><br><span class='scene-font-katari'>姬塔连忙扶住了她。</span>
+13,ルリア/露莉亚,あ、ありがとうございます、<br>姬塔。,谢、谢谢，<br>姬塔。
+14,,<span class='scene-font-katari'>礼を告げるルリアに微笑んだ</span><br><span class='scene-font-katari'>姬塔は、危ないからと</span><br><span class='scene-font-katari'>ルリアの手を取った。</span>,<span class='scene-font-katari'>对向自己道谢的露莉亚微笑着，</span><br><span class='scene-font-katari'>姬塔表示这里危险，</span><br><span class='scene-font-katari'>便握住了露莉亚的手。</span>
+15,ルリア/露莉亚,えへへ……<br>姬塔の手、<br>あったかくて、元気が湧いてきます！,诶嘿嘿……<br>姬塔的手<br>很温暖，让我鼓起劲来了！
+16,スザク/朱雀,……ふふ。,……呵呵。
+17,ルリア/露莉亚,スザクさん？<br>どうしたんですか？,朱雀？<br>怎么了？
+18,スザク/朱雀,ああ、いや。<br>懐かしいなぁって思って。,啊啊，没什么。<br>就觉得很怀念而已。
+19,スザク/朱雀,君達を見ていて、小さい頃の<br>ルルーシュとナナリーを<br>思い出したんだ。,看着你们，就让我想起<br>小时候的鲁鲁修和娜娜莉。
+20,ルリア/露莉亚,ルルーシュさんとスザクさんは、<br>昔から知り合いだったんですか？,鲁鲁修和朱雀<br>从以前就认识吗？
+21,スザク/朱雀,うん。もう８年前になるかな。<br>ルルーシュとナナリーとは、<br>小さい頃からの友達なんだ。,嗯。已经认识了8年了吧。<br>鲁鲁修和娜娜莉是<br>我儿时就认识的朋友。
+22,スザク/朱雀,一時期、事情があって<br>離れ離れになって……<br>再会したのはつい最近だけどね。,只是，因为一些事<br>分散了一段时间……<br>再相遇则是最近的事了。
+23,スザク/朱雀,昔、出会ってすぐの頃は<br>とにかく喧嘩してたっけ。,以前，刚遇到的时候<br>我们也事争吵过的。
+24,,<span class='scene-font-katari'>昔を懐かしむように表情を緩めた</span><br><span class='scene-font-katari'>スザクは、少しずつ昔の思い出を</span><br><span class='scene-font-katari'>語り始める。</span>,<span class='scene-font-katari'>怀念着过去，</span><br><span class='scene-font-katari'>朱雀的表情柔和了起来，</span><br><span class='scene-font-katari'>开始一点点地说起了以前的回忆。</span>
+25,,<span class='scene-font-katari'>お互いに気に食わないことがあり、</span><br><span class='scene-font-katari'>何かと衝突することが多かったこと。</span>,<span class='scene-font-katari'>他们有互相看不惯对方的时候，</span><br><span class='scene-font-katari'>也曾经发生过冲突。</span>
+26,,<span class='scene-font-katari'>ナナリーをきっかけに、</span><br><span class='scene-font-katari'>友人として絆を深めていったこと。</span>,<span class='scene-font-katari'>最后因为娜娜莉，</span><br><span class='scene-font-katari'>两人结下了深厚的友谊。</span>
+31,,<span class='scene-font-katari'>喧嘩と仲直りを繰り返すうち、</span><br><span class='scene-font-katari'>気付けば互いに掛け替えのない</span><br><span class='scene-font-katari'>唯一無二の親友になっていたことを。</span>,<span class='scene-font-katari'>在一次次争吵和和好的过程中，</span><br><span class='scene-font-katari'>回过神来两人已成为了无可替代</span><br><span class='scene-font-katari'>独一无二的挚友了。</span>
+36,スザク/朱雀,僕とルルーシュ、ふたりなら<br>出来ないことなんて何もないって<br>いつも思う。,我一直都觉得，<br>和鲁鲁修两个人的话，<br>没有什么做不到的。
+37,ルリア/露莉亚,ふふ。<br>ルルーシュさんのこと、<br>とっても信頼しているんですね！,呵呵。<br>你一直很信赖<br>鲁鲁修呢！
+38,スザク/朱雀,うん。<br>お互いに初めての友達で……,嗯。<br>我们两个都是对方最初的朋友……
+39,スザク/朱雀,今も僕の一番大切な……<br>友達だからね。,现在也是我最重要的……<br>朋友。
+40,,<span class='scene-font-katari'>ふと、スザクの表情が曇り</span><br><span class='scene-font-katari'>姬塔とルリアは</span><br><span class='scene-font-katari'>顔を見合わせる。</span>,<span class='scene-font-katari'>忽然，朱雀的表情蒙上了一层阴影，</span><br><span class='scene-font-katari'>姬塔和露莉亚</span><br><span class='scene-font-katari'>互相看了一眼。</span>
+41,ルリア/露莉亚,もしかして、<br>何かあったんですか？,难道你们之间<br>发生了什么吗？
+42,スザク/朱雀,あ……<br>ううん、なんでもないよ。,啊……<br>不，没什么。
+43,ルリア/露莉亚,むぅ……でも、スザクさん、<br>なんだかとっても苦しそうな<br>顔をしてます。,唔……但是，朱雀，<br>你看起来<br>很苦恼的样子。
+44,スザク/朱雀,はは、そんなに分かりやすいかな？<br>……君達の目は誤魔化せないね。,哈哈，我这么容易看穿吗？<br>……看起来我瞒不过你们的眼睛呢。
+45,スザク/朱雀,そうだな……<br>喧嘩したってわけじゃないんだ。<br>ただ、思うんだ。,是啊……<br>我们也不是吵架了。<br>我只是想到。
+46,,<span class='scene-font-katari'>言い淀むように口を閉ざした</span><br><span class='scene-font-katari'>スザクは、しばし思索した後</span><br><span class='scene-font-katari'>言葉を選ぶように語り始める。</span>,<span class='scene-font-katari'>朱雀一时语塞闭上了嘴，</span><br><span class='scene-font-katari'>思索了片刻后</span><br><span class='scene-font-katari'>似是凝练了语句后才开始说道。</span>
+47,スザク/朱雀,僕には、騎士として守ると誓った<br>大切な人がいるんだ。,我有一个，作为骑士宣誓守护的<br>重要的人。
+48,ルリア/露莉亚,大切な人……ですか？,重要的人……吗？
+49,スザク,うん。ユフィは……<br>ユーフェミア皇女は、誰よりも<br>平和を望んでいる優しい女性でね。,嗯。尤菲是……<br>尤菲米娅皇女是比谁<br>都期望和平的温柔的女性。
+50,スザク/朱雀,僕は、何度も彼女に救われた。<br>命も、心も。,我被她拯救了许多次。<br>无论是生命，还是心灵。
+55,スザク/朱雀,だから、僕も彼女を守りたいと……<br>支えたいと思った。<br>彼女の理想の未来を共に創りたいと。,所以我想守护她……<br>我想支持她。<br>我想与她共创她理想的未来。
+56,スザク/朱雀,だけど……,但是……
+57,,<span class='scene-font-katari'>一度言葉を区切ったスザクは、</span><br><span class='scene-font-katari'>苦い表情を浮かべ視線を落とし</span><br><span class='scene-font-katari'>息を吐いた。</span>,<span class='scene-font-katari'>一时间停下话语的朱雀，</span><br><span class='scene-font-katari'>脸上浮现出苦闷的表情，垂下视线</span><br><span class='scene-font-katari'>叹了口气。</span>
+58,スザク/朱雀,ルルーシュは……<br>もしかしたらユフィのことを<br>恨んでいるかもしれない。,鲁鲁修他……<br>说不定<br>恨着尤菲。
+59,ルリア/露莉亚,ルルーシュさんがですか？<br>一体どうして……,鲁鲁修吗？<br>究竟是为什么……
+60,スザク/朱雀,ルルーシュとナナリーの母親を<br>殺した人間が、皇族の中にいる。<br>そう言っていた。,杀害鲁鲁修和娜娜莉母亲的人<br>在皇族之中。<br>鲁鲁修这样说过。
+61,スザク/朱雀,だから、元の世界に戻れば<br>ルルーシュは目的のために<br>ゼロとして戦うだろう。,所以，回到原来的世界的话，<br>鲁鲁修会为了他的目的<br>作为ZERO战斗的吧。
+62,スザク/朱雀,世界と……そして、ユフィとも。,与世界……以及，与尤菲。
+63,スザク/朱雀,そうなれば、僕はユフィの騎士として<br>ゼロと戦うことになる。<br>これまで通りに。,那样一来，我作为尤菲的骑士<br>便要与ZERO战斗。<br>就像迄今为止一般。
+64,ルリア/露莉亚,そんな……！<br>お友達なのに、戦うなんて<br>そんなの辛すぎます……！,怎么这样……！<br>明明是朋友，还要战斗什么的<br>实在是太心痛了……！
+65,スザク/朱雀,もちろん、今はナナリーのために、<br>友達として、ルルーシュの<br>力になる。,当然，现在为了娜娜莉，<br>作为朋友，<br>我会助鲁鲁修一臂之力。
+66,スザク/朱雀,だけど、<br>それはこの世界にいる間の<br>話かもしれない。,但是，<br>说不定这仅限于<br>在这个世界。
+67,ルリア/露莉亚,元の世界に戻ったら……<br>またすぐ、戦うんですか？<br>ルルーシュさんと。,回到原来的世界……<br>你们又立即要战斗吗？<br>你与鲁鲁修。
+68,スザク/朱雀,そう……なるだろうね。<br>でも……,是……会这样的吧。<br>但是……
+74,スザク/朱雀,僕はゼロを認めることは出来ない。<br>結果ばかり追い求める強引な方法では、<br>多くの犠牲を生んでしまうから。,我无法认同ZERO。<br>因为只追求结果的强硬方法<br>只会造成众多的牺牲。
+75,スザク/朱雀,しかし、ゼロの正体が<br>ルルーシュであることを知った今。,但是如今，我知道了<br>ZERO的真实身份便是鲁鲁修。
+76,スザク/朱雀,ルルーシュの真意を知ってしまった今、<br>僕は別の道があると思っている。,如今知道了鲁鲁修的真意，<br>我觉得会有别的道路可行。
+82,スザク/朱雀,ユフィもルルーシュも、<br>手段は違えど<br>優しい世界を望んでいる。,无论是尤菲还是鲁鲁修，<br>就算他们的手段不同，<br>但都期望着温柔的世界。
+83,スザク/朱雀,ふたりが手を取り合えたのなら<br>そんな世界の実現も<br>不可能ではないはず。,只要两人联手，<br>要实现这样的世界<br>应该不是不可能的。
+84,スザク/朱雀,力による争いではない方法で、<br>日本とブリタニアがわかり合える世界。<br>ナナリーが安心して暮らせる世界。,用不是靠力量互相争斗的方法，<br>让日本和布里塔尼亚可以互相理解的世界。<br>让娜娜莉可以安心居住的世界。
+85,スザク/朱雀,そんな世界の実現を……,实现那样的世界……
+86,スザク/朱雀,なんて、もしもの話をしたって、<br>ルルーシュの考えは本人にしか<br>分からないのにね。,就这样，就算这样说了，<br>但一切都没什么确信<br>鲁鲁修的想法只有他自己才知道。
+87,ルリア/露莉亚,スザクさん……,朱雀……
+88,,<span class='scene-font-katari'>苦笑を浮かべるスザクを見たルリアは、</span><br><span class='scene-font-katari'>少し思案した後、</span><br><span class='scene-font-katari'>何かを決意したように頷き、口を開く。</span>,<span class='scene-font-katari'>看着露出苦笑的朱雀，</span><br><span class='scene-font-katari'>露莉亚稍稍思索了一下，</span><br><span class='scene-font-katari'>好像下了什么决心一般点了点头，开口道。</span>
+89,ルリア/露莉亚,今すぐ話し合いましょう！,你们立即好好谈谈吧！
+90,スザク,え？,诶？
+91,ルリア/露莉亚,ユフィさんを信じてほしいってことも、<br>協力してほしいってことも。,希望他相信尤菲的事，<br>还有希望他能够协助的事。
+92,ルリア/露莉亚,スザクさんが思っていることを、<br>正直にお話ししましょう！,把朱雀你所想的事<br>全都毫无保留地说出来！
+93,ルリア/露莉亚,正直に話し合えば、<br>ルルーシュさんだって<br>きっと分かってくれるはずです！,毫无保留地谈过的话，<br>鲁鲁修也一定<br>能够理解的！
+94,スザク/朱雀,でも……<br>今は、ナナリーを助けることが<br>一番だから。,但是……<br>救娜娜莉是<br>当务之急。
+94-sel1_txt,,<span class='scene-font-katari'>後悔してからじゃ遅い</span>,<span class='scene-font-katari'>后悔了就来不及了</span>
+96,スザク/朱雀,っ……！,唔……！
+97,ルリア/露莉亚,そうです！<br>お話できないまま、もし何かあったら<br>きっとすごく後悔すると思うんです。,没错！<br>如果没能好好谈过就出了什么事，<br>我觉得你一定会后悔的。
+98,ルリア/露莉亚,だから、今お話して、<br>きちんと分かり合ったほうが<br>いいに決まってます……！,所以，你们一定是<br>趁现在好好谈谈<br>互相理解来得好……！
+99,ルリア/露莉亚,それに……<br>そんな苦しそうなスザクさんを<br>見ているのは、私達も辛いです。,而且……<br>看着朱雀你这么痛苦<br>我们也会觉得痛苦的。
+100,スザク/朱雀,姬塔、ルリア……,姬塔、露莉亚……
+101,,<span class='scene-font-katari'>姬塔とルリアの</span><br><span class='scene-font-katari'>まっすぐな言葉を受けて、</span><br><span class='scene-font-katari'>スザクはぐっと拳を握る。</span>,<span class='scene-font-katari'>听着姬塔和露莉亚</span><br><span class='scene-font-katari'>毫无保留的话语，</span><br><span class='scene-font-katari'>朱雀紧紧地握起了拳。</span>
+102,スザク/朱雀,<span class='scene-font-kokoro'>（そうだ……きっかけが無いからとか、</span><br><span class='scene-font-kokoro'>それどころじゃないからとか……</span><br><span class='scene-font-kokoro'>それは、結局逃げでしかない）</span>,<span class='scene-font-kokoro'>（没错……什么没有契机，</span><br><span class='scene-font-kokoro'>什么不合时宜……</span><br><span class='scene-font-kokoro'>那不过是想逃避罢了）</span>
+103,スザク/朱雀,<span class='scene-font-kokoro'>（今だからこそ、話し合うべきなんだ。</span><br><span class='scene-font-kokoro'>今目の前にある問題を解決するために。</span><br><span class='scene-font-kokoro'>そして、未来のためにも）</span>,<span class='scene-font-kokoro'>（正因为是现在，才应该好好一谈。</span><br><span class='scene-font-kokoro'>为了解决眼前的问题。</span><br><span class='scene-font-kokoro'>并且，这也是为了未来）</span>
+104,スザク/朱雀,ありがとう。<br>君達のおかげで、決心がついた。,谢谢。<br>多亏了你们，我下了决心。
+105,スザク/朱雀,話さなければと思った。<br>今だからこそ、話し合うべきなんだ。<br>ルルーシュと。,我觉得我必须开口。<br>正是现在才必须谈谈。<br>与鲁鲁修。
+106,ルリア/露莉亚,スザクさん……！,朱雀……！
+107,スザク/朱雀,ここを出たら、<br>ルルーシュと話してみるよ。<br>少しずつでも。,从这儿出去了以后，<br>我会试着与鲁鲁修谈谈。<br>就算只能一点点来也好。
+108,ルリア/露莉亚,はい！<br>そのためにも、<br>早く出口を見つけなきゃですね！,好！<br>为了这个，<br>我们也得早点找到出口呢！
+109,スザク/朱雀,ああ。<br>頑張ろう！,啊啊。<br>加油吧！
+110,,<span class='scene-font-katari'>姬塔とルリアに背中を押され、</span><br><span class='scene-font-katari'>ルルーシュとしっかり話し合うことを</span><br><span class='scene-font-katari'>決意したスザク。</span>,<span class='scene-font-katari'>在姬塔与露莉亚的鼓励下，</span><br><span class='scene-font-katari'>朱雀决意与</span><br><span class='scene-font-katari'>鲁鲁修一谈。</span>
+111,,<span class='scene-font-katari'>そのためにも、一刻も早くこの場から</span><br><span class='scene-font-katari'>脱出するべく再び風を辿り</span><br><span class='scene-font-katari'>道なき道を進んでいくのだった。</span>,<span class='scene-font-katari'>就算为此，他们也得尽快</span><br><span class='scene-font-katari'>从这里脱出，循着风的方向</span><br><span class='scene-font-katari'>走在不知尽头的道路上。</span>
+info,,,scene_chr546_q3_s10
+译者,,,

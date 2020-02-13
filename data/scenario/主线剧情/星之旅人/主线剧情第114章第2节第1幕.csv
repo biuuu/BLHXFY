@@ -1,0 +1,84 @@
+id,name,text,trans
+0-chapter_name,,第114章　福音からの帰還,从福音归来
+0-synopsis,,福音の民を退けた姬塔達はミカとロキ、フェンリル、そしてミカに嬲られた見張り達を見つける。その様子からシトリは、ミカが記憶を取り戻したことを悟る。シトリはかつてミカ──ミカボシに育てられたが、自身を虐げた星の民への復讐のため破滅の道を歩むミカボシの封印に手を貸した。そして贖罪のため、シトリ自身もグレートウォールに封印されていたのだった。,击退了福音之民的姬塔一行人发现了米卡、洛基、芬里尔以及一伙负责监视米卡的人。看到现场的样子后，志鸟立刻反应过来米卡应该已经取回了接。志鸟回忆起自己过去被米卡——也就是米卡波希养育的事，由于受到星之民的欺负，米卡波西为了报仇而走向了毁灭之路，因此才会被自己封印起来。为了赎罪，志鸟自身也和长城一起被封印了。
+3,福音の民１,がはっ……,咳哈……
+5,カタリナ/卡塔莉娜,これで粗方片付いたようだな。,基本都解决掉了啊。
+6,,<span class='scene-font-katari'>カタリナは念のため確認するも、</span><br><span class='scene-font-katari'>周囲の福音の民は皆、倒れ伏していた。</span>,为了确保安全，卡塔丽娜看向四周。周围的福音之民全都倒在地上，<br>一动也不动。
+7,ロゼッタ/萝赛塔,急ぎましょう。<br>ミカちゃんが囚われている場所に、<br>目星はついてるかしら？,得快点了。<br>米卡被关在哪里，<br>有什么头绪吗？
+8,シトリ,たぶん……あの家。,大概是……那个房子。
+9,シトリ,ミカを拘束してるとはいえ、<br>見張りを複数置いてるだろうから。,如果米卡是被拘束的状态，<br>应该有相当数量的看守才对。
+10,シトリ,そんな人数の入れる建物は、<br>見たところ、あの家しかない。,能够容纳那么多人的建筑物，<br>眼见之处，就只有那个房子了。
+11,,<span class='scene-font-katari'>そう言ってシトリは、</span><br><span class='scene-font-katari'>村外れにあるやや大きな家を示す。</span>,志鸟一边说着，<br>一边指着不远处的大房子。
+11-sel1_txt,,<span class='scene-font-katari'>行こう</span>,我们走吧
+12,シトリ,ミカ……！！,米卡……！！
+13,,<span class='scene-font-katari'>たまらなくなった様子で、</span><br><span class='scene-font-katari'>ミカが囚われているであろう家へと、</span><br><span class='scene-font-katari'>シトリは駆け出していく。</span>,志鸟急不可耐地向着<br>可能囚禁着米卡的房子里飞奔而去。
+14,ビィ/碧,おい、待てって！<br>まださっきの奴らが──,喂，等等！<br>刚才那些家伙还没——
+15,シトリ,ミカ……,米卡……
+18,ミカ,シトリは約束を破らないもん。<br>ずーっと一緒に居てくれる、<br>って、約束！,志鸟不会破坏约定的。<br>我们要永远在一起，<br>约好了哦！
+19,シトリ,うん、約束。,嗯，约好了。
+22,シトリ,<span class='scene-font-kokoro'>（ごめん、ミカ……！</span><br><span class='scene-font-kokoro'>いま、行くから……！！）</span>,（对不起，米卡……！<br>我，马上就来……！！）
+23,,<span class='scene-font-katari'>駆け出したシトリの耳には、</span><br><span class='scene-font-katari'>制止の言葉は届かない。</span>,大家制止的话语，<br>已经传不到飞奔着的志鸟耳中了。
+24,,<span class='scene-font-katari'>溢れる思いを解き放つように、</span><br><span class='scene-font-katari'>シトリは扉を開け放つ。</span>,就像是要解放胸中满溢着的思念一般，志鸟推开了门扉。
+29,シトリ,ミカっ……！！,米卡……！！
+30,ミカ,…………,…………
+31,,<span class='scene-font-katari'>シトリに少し遅れて、</span><br><span class='scene-font-katari'>姬塔達も家へと駆けこむ。</span>,就在志鸟到达后不久，<br>姬塔一行人也跑了进来。
+32,,<span class='scene-font-katari'>しかし、そこに広がる光景は、</span><br><span class='scene-font-katari'>一行の足を止め、</span><br><span class='scene-font-katari'>戦慄させるに十分なものだった。</span>,但是，看到房间内的可怕光景后，<br>一行人却停下了脚步。
+33,ラカム/拉卡姆,……っんだよ、これは。,……这是，发生了什么啊。
+34,福音の民２,がはっ……<br>あ、あぐ……,呜啊……<br>啊、啊呜……
+35,福音の民３,うぁ……あ……,唔啊……啊……
+36,,<span class='scene-font-katari'>うめき声と、苦しげな息遣いが、</span><br><span class='scene-font-katari'>部屋には充満していた。</span>,房间里充满了痛苦的呻吟，<br>以及粗重的呼吸声。
+37,,<span class='scene-font-katari'>予想通り、</span><br><span class='scene-font-katari'>囚われたミカの周りには、</span><br><span class='scene-font-katari'>複数の見張りが置かれていた。</span>,和预料中一样，<br>在被囚禁着的米卡周围，<br>站着几名看守。
+38,,<span class='scene-font-katari'>しかし、その全員が床に倒れ伏し、</span><br><span class='scene-font-katari'>全身に負わされた夥しい数の傷により、</span><br><span class='scene-font-katari'>助けを求めることすら出来ずにいた。</span>,但是，他们所有人都趴在地上，<br>不但满身是伤，<br>还在不停地求救。
+39,イオ/伊欧,ひどい……<br>なにこれ……,好过分……<br>这是怎么了……
+40,ロゼッタ/萝赛塔,倒す……<br>というより、<br>まるで嬲った後みたいね。,与其说是打倒……<br>不如说是，<br>被玩弄了、
+43,ロキ/洛基,そうだねぇ……<br>目の前で見ていたけど、<br>それはそれはひどいものだったよ。,没错……<br>虽然发生在眼前，<br>但这实在是很过分啊。
+43-sel1_txt,,<span class='scene-font-katari'>ロキ……！</span>,洛基……！
+44,オイゲン/欧根,こりゃ、テメェの仕業か？<br>いや、<br>聞くまでもねぇかもしれねぇが……,这、难道是你这家伙做的吗？<br>不对，<br>不问就该知道了……
+45,,<span class='scene-font-katari'>静かに銃を構えるオイゲンに対し、</span><br><span class='scene-font-katari'>ロキは大げさに肩をすくめてみせる。</span>,看着默默举起枪的欧根，<br>洛基无奈地耸了耸肩。
+46,ロキ/洛基,やだなぁ……勘違いだよ、それは。,不要嘛……你们搞错了哦。
+47,ロキ/洛基,僕はフェンリルに命じて、<br>扉を封じていただけさ。<br>ね？　フェンリル。,我只是命令芬里尔<br>把门封印起来而已。<br>对吧？
+48,,<span class='scene-font-katari'>どこからともなく姿を現した</span><br><span class='scene-font-katari'>フェンリルもまた、</span><br><span class='scene-font-katari'>嫌悪するように惨状を見やる。</span>,不知道从哪儿冒出来的费力而，<br>也厌恶地盯着眼前的惨状。
+49,フェンリル/芬里尔,オレとロキは手を出してねぇ。<br>第一、オレがやるなら、<br>こんな半端なことはしねぇ。,我和洛基并没有出手。<br>第一，如果是我来做的话，<br>才不会搞成这种半调子模样。
+50,フェンリル/芬里尔,こんな……<br>わざわざトドメを刺さないような、<br>悪趣味なマネはな。,这种……<br>故意不下杀手的行为，<br>还真是恶趣味啊。
+51,オイゲン/欧根,…………,…………
+52,,<span class='scene-font-katari'>そうして訪れた沈黙は、</span><br><span class='scene-font-katari'>疑問ではなく恐怖によるものだった。</span>,众人顿时沉默了，<br>与其说是由于疑惑，<br>倒不如说是由于恐怖。
+53,,<span class='scene-font-katari'>それでも、</span><br><span class='scene-font-katari'>部屋の中で立っている残ったひとりに、</span><br><span class='scene-font-katari'>皆の視線は集まる。</span>,就算如此，<br>大家的目光依然集中在房间里的某人身上。
+54,ルリア/露莉亚,じゃ、じゃあ……,那，那么……
+55,ミカ,私……,我……
+56,シトリ,ミカ……,米卡……
+57,ミカ,やったのは、私……,是，我做的……
+58,ミカ,だってそいつら……<br><span class='scene-font-spword'>星の民</span>だから……,因为这些家伙……是星之民啊……
+59,,<span class='scene-font-katari'>どこか機械的に</span><br><span class='scene-font-katari'>そう告げるミカの様子に、</span><br><span class='scene-font-katari'>シトリはやるせない様子で目を伏せる。</span>,看着机械似说这话的米卡，<br>志鸟难过地垂下了眼睑。
+60,シトリ,<span class='scene-font-kokoro'>（間に合わなかった──）</span>,（没赶上——）
+61,,<span class='scene-font-katari'>その悲劇を前にして、</span><br><span class='scene-font-katari'>シトリの脳裏には鮮やかに記憶が甦る。</span>,在这场悲剧面前，<br>志鸟脑中鲜活的记忆渐渐复苏了。
+62,,<span class='scene-font-katari'>それは、かつて空で過ごした、</span><br><span class='scene-font-katari'>大切な人との</span><br><span class='scene-font-katari'>かけがえのない思い出だった。</span>,那是，曾经在空之世界，<br>和重要的人一同度过的，<br>无可替代的回忆。
+68,シトリ,<span class='scene-font-gray'>──私は、</span><br><span class='scene-font-gray'>血の繋がった自分の親を知らない。</span>,——我，不认识和自己有着血缘关系的人。
+69,シトリ,<span class='scene-font-gray'>覇空戦争の少し前、</span><br><span class='scene-font-gray'>当時のナル・グランデ空域では、</span><br><span class='scene-font-gray'>血統主義が根強く残っていた。</span>,在霸空战争之前，<br>当时纳尔格兰迪空域中<br>有着注重血统的主义。
+75,シトリ,<span class='scene-font-gray'>貴族は貴族を産み、貧民は貧民を産む。</span><br><span class='scene-font-gray'>口減らしなんて当たり前。</span>,贵族诞下贵族，贫民诞下贫民。<br>扔掉孩子是非常平常的事。
+76,シトリ,<span class='scene-font-gray'>私も、</span><br><span class='scene-font-gray'>そうやって捨てられた</span><br><span class='scene-font-gray'>子供のひとりだった。</span>,我也是这样被丢下的<br>孩子之一。
+82,シトリ,<span class='scene-font-gray'>覇空戦争が近づき荒廃した街。</span><br><span class='scene-font-gray'>その片隅で、</span><br><span class='scene-font-gray'>私も一生を終えるはずだった。</span>,在距离霸空战争很近的废街之中，<br>我本来应该结束这一生的。
+83,シトリ,<span class='scene-font-gray'>そんな、</span><br><span class='scene-font-gray'>何もできない赤ん坊の私を拾ったのは、</span><br><span class='scene-font-gray'>ひとりの</span><span class='scene-font-spword'>星の民</span><span class='scene-font-gray'>だった。</span>,可是，一位星之民，<br>将这样的、什么都做不到的我<br>捡回了家。
+89,シトリ,<span class='scene-font-gray'>気まぐれに赤ん坊を拾った</span><span class='scene-font-spword'>星の民</span><span class='scene-font-gray'>は、</span><br><span class='scene-font-gray'>気まぐれに赤ん坊へ名前を与える。</span>,心血来潮捡了个孩子回家的星之民，<br>一时心血来潮，<br>给那个孩子起了个名字。
+90,シトリ,<span class='scene-font-spword'>“シトリ”</span><span class='scene-font-gray'>──というその名前。</span>,那个名字叫做——<br>“志鸟”。
+91,シトリ,<span class='scene-font-gray'>拾った</span><span class='scene-font-spword'>星の民</span><span class='scene-font-gray'>自身の名前と</span><br><span class='scene-font-gray'>何か繋がりがあるらしいが、</span><br><span class='scene-font-gray'>結局、教えてもらえなかった。</span>,这个名字和捡到她的星之民<br>究竟有什么关系，<br>直到现在，也没有说出来过。
+97,シトリ,<span class='scene-font-gray'>気まぐれな</span><span class='scene-font-spword'>星の民</span><span class='scene-font-gray'>が赤ん坊を育て始め、</span><br><span class='scene-font-gray'>幾つかの季節が過ぎた。</span>,心血来潮的星之民就这样<br>开始抚养孩子，<br>并和她一起度过了无数个四季。
+103,シトリ,<span class='scene-font-gray'>ある秋の日、彼女は教えてくれた。</span><br><span class='scene-font-gray'>私には赤ん坊のお前が</span><br><span class='scene-font-gray'>自分自身に見えた、と。</span>,在秋天的某个日子里，<br>她告诉少女，<br>在我看来，你就是个婴儿。
+104,シトリ,<span class='scene-font-gray'>彼女も星の世界では、</span><br><span class='scene-font-gray'>ひどく虐げられて育ったらしい。</span>,她在星之世界，<br>似乎也是受尽虐待才长大的。
+105,シトリ,<span class='scene-font-gray'>空も星も変わらない。</span><br><span class='scene-font-gray'>そんな思いを抱きながら、</span><br><span class='scene-font-gray'>私は大病を患うこともなく育った。</span>,空和星都没有变化。<br>怀揣着这种想法，<br>我没生过什么大病，就这么长大了。
+106,シトリ,<span class='scene-font-gray'>むしろ、その時、</span><br><span class='scene-font-gray'>身体を蝕まれていたのは、</span><br><span class='scene-font-gray'>その</span><span class='scene-font-spword'>星の民</span><span class='scene-font-gray'>のほうだった。</span>,倒不如说，那个时候<br>身体受到侵蚀的反而是星之民那方。
+112,シトリ,<span class='scene-font-gray'>彼女は、復讐がしたかったのだ。</span><br><span class='scene-font-gray'>己を虐げ続けた、</span><br><span class='scene-font-gray'>同族である</span><span class='scene-font-spword'>星の民</span><span class='scene-font-gray'>に。</span>,她想要报仇。<br>向不断对自己施虐的同族报仇。
+118,シトリ,<span class='scene-font-gray'>そのため、身体には無理な改造を施し、</span><br><span class='scene-font-gray'>さらには、</span><br><span class='scene-font-gray'>狂気の塊のような兵器を作り出した。</span>,为了这个，她胡来地改造了自己的身体，<br>甚至做出了能用狂气相称的可怕兵器。
+124,シトリ,<span class='scene-font-spword'>“グレートウォール”</span><span class='scene-font-gray'>。</span>,“长城”
+125,シトリ,<span class='scene-font-gray'>それは他空域へ攻め込み、</span><br><span class='scene-font-gray'>統治する</span><span class='scene-font-spword'>星の民</span><span class='scene-font-gray'>をも屠るための兵器。</span>,这是为了屠杀<br>统治其他空域的星之民，<br>而制造的兵器。
+126,シトリ,<span class='scene-font-gray'>育ての親の、</span><br><span class='scene-font-gray'>その身を滅ぼす狂気に対し、</span><br><span class='scene-font-gray'>私はただ無事を祈るしかなかった。</span>,看着抚养自己的亲人逐渐陷入<br>狂气与毁灭，<br>我只能不断地为了祈求平安。
+132,シトリ,<span class='scene-font-gray'>そんな私に、</span><br><span class='scene-font-gray'>ひとつの転機が訪れる。</span>,正在那时，<br>我找到了某个专辑。
+133,シトリ,<span class='scene-font-gray'>覇空戦争が始まろうかという最中、</span><br><span class='scene-font-gray'>私は空の民から打診を受ける。</span>,在霸空战争爆发的途中，<br>我受到了空之民的探询。
+134,シトリ,<span class='scene-font-gray'>彼女を封印するために、</span><br><span class='scene-font-gray'>力を貸してほしい、と──</span>,为了将她封印，<br>请借给我们力量——
+135,シトリ,<span class='scene-font-gray'>このままでは彼女は破滅する。</span><br><span class='scene-font-gray'>そう直感していた私は、</span><br><span class='scene-font-gray'>空の民に手を貸すことを決める。</span>,在这么下去她会走向毁灭的——<br>这么想着的我，<br>决定向空之民伸出援手。
+141,シトリ,<span class='scene-font-gray'>私は空の民と協力し、</span><br><span class='scene-font-gray'>彼女を……育ての親を、</span><br><span class='scene-font-gray'>グレートウォールに封印した。</span>,我和空之民齐心协力，<br>把她……也就是将我抚养长大的亲人，<br>和长城一起封印了起来。
+142,シトリ,<span class='scene-font-gray'>そして私は、せめてもの贖罪として、</span><br><span class='scene-font-gray'>彼女と共に封印されることを選んだ。</span>,为了赎罪，<br>我选择和她一起<br>被封印在长城之中。
+148,シトリ,<span class='scene-font-gray'>そんな、</span><br><span class='scene-font-gray'>私にとって唯一、</span><br><span class='scene-font-gray'>家族と……母と呼べる存在。</span>,这位对我来说……<br>唯一的、能够被称为母亲的存在……
+149,シトリ,<span class='scene-font-gray'>その半生を</span><br><span class='scene-font-gray'>狂気に飲まれた</span><span class='scene-font-spword'>星の民</span><span class='scene-font-gray'>の名は──</span>,后半生坠入狂气的星之民，<br>名为——
+150,シトリ,<span class='scene-font-gray'>──</span><span class='scene-font-spword'>“ミカボシ”</span><span class='scene-font-gray'>といった。</span>,——“米卡波西”。
+info,,,scene_cp114_q2_s10
+译者,,,rei

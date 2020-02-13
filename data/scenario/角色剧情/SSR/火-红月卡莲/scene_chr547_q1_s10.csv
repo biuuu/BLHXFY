@@ -1,0 +1,59 @@
+id,name,text,trans
+0-chapter_name,,捜し求めしモノ,搜寻之物
+0-synopsis,,とある島で、小さな村を訪れた姬塔一行とルルーシュ達。その村はずれには温泉があり、一行は温泉を堪能する。一行が浴場の入り口で合流して話していると、突如、脱衣所から何かを咥えた猫が飛び出し、村の方へと逃げていった。続いて飛び出してきたカレンによると、猫が咥えていたのは紅蓮弐式の起動キーだという。一行は慌てて猫を追いかけるのだった。,造访了某座空岛上小村庄的姬塔一行与鲁鲁修等人。那座村庄边上有温泉，一行人便前往享受温泉。一行人在浴场入口处汇合交谈的时候，突然，一直叼着什么的猫从更衣室跳了出来，朝着村庄的方向逃跑了。据跟着飞奔而出的卡莲所说，猫叼着的是红莲二式的启动钥匙。一行人连忙追寻起猫来。
+2,,<span class='scene-font-katari'>とある島で魔物退治の依頼を終えた</span><br><span class='scene-font-katari'>姬塔一行とルルーシュ達。</span>,<span class='scene-font-katari'>姬塔一行与鲁鲁修等人</span><br><span class='scene-font-katari'>在某座空岛完成了打退魔物的委托后。</span>
+3,,<span class='scene-font-katari'>その帰り道、一行は休息と</span><br><span class='scene-font-katari'>足りなくなった物資を求めて、</span><br><span class='scene-font-katari'>小さな村を訪れていた。</span>,<span class='scene-font-katari'>在归途中，一行人为了小做歇息</span><br><span class='scene-font-katari'>并且采购不足的物资</span><br><span class='scene-font-katari'>造访了小村庄。</span>
+6,ルリア/露莉亚,わわっ、村の色々な所から<br>湯気が出てますね！,<br>哇哇，村庄的各处都冒着水蒸气呢！
+7,カレン/卡莲,へぇ……<br>こっちの世界にも温泉があるのね。,诶……<br>这边的世界也有温泉呢。
+8,,<span class='scene-font-katari'>村の入り口に設置されている</span><br><span class='scene-font-katari'>村はずれの温泉への案内板を見て、</span><br><span class='scene-font-katari'>カレンは興味深そうに呟く。</span>,<span class='scene-font-katari'>看着在村口设置的</span><br><span class='scene-font-katari'>村边温泉的向导告示板，</span><br><span class='scene-font-katari'>卡莲颇有兴趣的自言自语道。</span>
+9,ビィ/碧,ん？　こっちもってことは<br>カレン達の世界にも温泉があるのか？,嗯？　这边也有也就是说<br>卡莲你们的世界也有温泉吗？
+10,スザク/朱雀,うん。<br>僕達の生まれた日本っていう国には<br>温泉が沢山あってね。,嗯。<br>我们所住的日本这个国家<br>有很多温泉呢。
+11,スザク/朱雀,遠い昔から、<br>温泉は身近なものだったんだ。,从很早以前开始，<br>温泉就是很亲切的。
+12,ルリア/露莉亚,カレンさんもスザクさんも<br>ニッポンの人ですよね。<br>ということは……,卡莲和朱雀都是<br>日本人呢。<br>也就是说……
+13,カレン/卡莲,私は好きよ。<br>疲れは取れるし、落ち着くし。,我很喜欢哟。<br>可以驱散疲劳，心神宁静。
+14,スザク/朱雀,湯治って言葉もあるくらいだしね。<br>僕も好きだなぁ、温泉。,甚至还有温泉疗养这样的话呢。<br>我也很喜欢温泉啊。
+14-sel1_txt,,<span class='scene-font-katari'>温泉に入って行こうか？</span>,<span class='scene-font-katari'>那我们就去温泉吧？</span>
+16,カレン/卡莲,え、いいの？,诶，真的可以吗？
+17,ビィ/碧,依頼の魔物は倒したんだし、<br>問題ないんじゃねーか？,委托的魔物已经被打倒了，<br>没什么问题吧？
+18,ルルーシュ/鲁鲁修,……そうだな。<br>報告が少し遅くなるが……<br>まぁ、許容範囲だろう。,……的确。<br>虽然报告会迟上一点……<br>算了，是容忍范围内。
+19,C.C.,お、珍しいな。<br>お前がそんなことを言うなんて。,哦，这可很少见啊。<br>你竟然会说这种话。
+20,カレン/卡莲,そうそう。ルルーシュのことだから<br>早くナナリーのところに<br>戻りたいって言うと思った。,就是就是，是鲁鲁修的话<br>我以为你一定会说<br>想回去娜娜莉身边。
+21,C.C.,コイツは重度のシスコンだからな。,谁让这家伙是重度妹控。
+22,カレン/卡莲,ははっ<br>言えてる！,哈哈<br>说得好！
+23,ルルーシュ/鲁鲁修,お前たちなぁ。<br>依頼で疲れているだろうからと<br>思ったんだが……,我说你们啊。<br>我明明是想着<br>你们完成委托也累了……
+24,ルルーシュ/鲁鲁修,そんな軽口を叩けるなら<br>温泉は必要なさそうだな。,有精力说人闲话<br>看来是不需要什么温泉了。
+25,カレン/卡莲,あー！　ウソウソ！<br>ルルーシュのその気遣い、<br>嬉しいなぁ……はは。,啊ー！　胡说的，胡说的！<br>鲁鲁修这么替人着想，<br>真是高兴呢……哈哈。
+26,スザク/朱雀,はは。ルルーシュも<br>そんな意地悪を言わないで。<br>行こうよ、温泉。,哈哈。鲁鲁修你也是，<br>别说这种欺负人的话。<br>一起去温泉吧。
+27,ルルーシュ/鲁鲁修,わかったよ。それじゃあ、<br>温泉に立ち寄っていこうか。<br>姬塔？,我知道了啦。那么，<br>那我们就去温泉吧。<br>姬塔？
+28,,<span class='scene-font-katari'>ルルーシュの言葉に頷き返す</span><br><span class='scene-font-katari'>姬塔。</span>,<span class='scene-font-katari'>姬塔对鲁鲁修的话</span><br><span class='scene-font-katari'>点头表示赞同。</span>
+29,,<span class='scene-font-katari'>そして一行は案内板に書いてある</span><br><span class='scene-font-katari'>村はずれの温泉へと</span><br><span class='scene-font-katari'>向かうのだった。</span>,<span class='scene-font-katari'>接着一行人便照着向导告示板所写的</span><br><span class='scene-font-katari'>向村边的温泉</span><br><span class='scene-font-katari'>前进了。</span>
+35,,<span class='scene-font-katari'>温泉を堪能した後、</span><br><span class='scene-font-katari'>ルルーシュ達と姬塔一行は</span><br><span class='scene-font-katari'>浴場の入り口で合流した。</span>,<span class='scene-font-katari'>享受了温泉之后，</span><br><span class='scene-font-katari'>鲁鲁修等人与姬塔一行</span><br><span class='scene-font-katari'>在浴场入口汇合。</span>
+36,ルリア/露莉亚,はわー……<br>とっても気持ちよかったです。,哈哇ー……<br>真是太舒服了。
+37,ルルーシュ/鲁鲁修,ん？　カレンはどうした？<br>姿が見えないようだが……,嗯？　卡莲怎么了？<br>好像没见到她……
+38,ルリア/露莉亚,カレンさんなら、<br>久しぶりの温泉なのでもう少し<br>入っていたいそうです。,卡莲的话，<br>她说她好久没有来温泉了，<br>想再泡一会儿。
+39,C.C.,すぐに追いかけるから、<br>先に行っててくれと<br>言っていたな……,她说了<br>她马上会追上的，<br>让我们先走……
+40,ルルーシュ/鲁鲁修,あいつは……,那家伙……
+41,,<span class='scene-font-katari'>ルルーシュは指で目元を押さえると</span><br><span class='scene-font-katari'>軽いため息を吐く。</span>,<span class='scene-font-katari'>鲁鲁修用手指按着眉心，</span><br><span class='scene-font-katari'>轻轻地叹了口气。</span>
+42,ルルーシュ/鲁鲁修,それでどうする、姬塔？<br>カレンを待つか？<br>それとも先に──,那我们怎么办，姬塔？<br>等等卡莲吗？<br>还是先──
+43,カレンの声/卡莲的声音,<span class='scene-font-4'>ちょっ、待ちなさい！</span><br><span class='scene-font-4'>待てこらぁぁぁっ！</span>,<span class='scene-font-4'>别，别跑！</span><br><span class='scene-font-4'>别跑啊啊啊啊啊！</span>
+45,猫,…………,…………
+47,,<span class='scene-font-katari'>突如、カレンの焦った声が響くと、</span><br><span class='scene-font-katari'>何かを咥えた猫が脱衣場から飛び出し</span><br><span class='scene-font-katari'>村のほうへと逃げていく。</span>,<span class='scene-font-katari'>突然，卡莲焦急的声音响起，</span><br><span class='scene-font-katari'>叼着什么的猫从更衣室里跳了出来，</span><br><span class='scene-font-katari'>向村子的方向逃去。</span>
+49,カレン/卡莲,<span class='scene-font-4'>この……っ！</span><br><span class='scene-font-4'>返しなさいっ！</span>,<span class='scene-font-4'>可恶……！</span><br><span class='scene-font-4'>给我还来！</span>
+51,ルリア/露莉亚,ど、どうしたんですかっ！？,怎，怎么了！？
+52,カレン/卡莲,ね、猫！<br>猫を見なかった！？,猫，猫！<br>看见猫了吗！？
+53,ビィ/碧,おいおい、何があったんだよ？,喂喂，到底发生了什么？
+54,カレン/卡莲,それは……,那个……
+55,カレン/卡莲,…………,…………
+56,,<span class='scene-font-katari'>姬塔の言葉にカレンは</span><br><span class='scene-font-katari'>少し迷ったような表情をした後、</span><br><span class='scene-font-katari'>おずおずと話を始める。</span>,<span class='scene-font-katari'>听了姬塔的问题</span><br><span class='scene-font-katari'>卡莲露出了稍显迟疑的表情，</span><br><span class='scene-font-katari'>然后才语带犹豫开始说道。</span>
+57,カレン/卡莲,その……<br>猫が紅蓮の起動キーを<br>咥えて行っちゃって……,那个……<br>猫叼着红莲二式的启动钥匙<br>逃走了……
+58,スザク/朱雀,<span class='scene-font-4'>ええっ！？</span>,<span class='scene-font-4'>诶诶！？</span>
+59,ルルーシュ/鲁鲁修,起動キーをだとっ！？　<br>また、そんな大事なものを……,竟然是启动钥匙！？　<br>怎么又是，这么重要的东西……
+60,ビィ/碧,なぁ、起動キーってなんなんだ？,什么，启动钥匙怎么了？
+61,カレン/卡莲,私が持ってた赤い羽根型の<br>アクセサリーがあったでしょ？<br>あれのこと。,我不是有个<br>红色羽毛形状的挂件吗？<br>就是那个。
+62,カレン/卡莲,あれが無いと<br>紅蓮を動かすことができないの。,没有那个的话<br>我就没办法让红莲二式动起来。
+63,ビィ/碧,<span class='scene-font-4'>んなっ！？</span><br>めちゃくちゃ大切なものじゃねぇかっ！,<span class='scene-font-4'>什么！？</span><br>那不是超级重要的东西吗！
+64,カレン/卡莲,ええ！<br>だから、必ず取り返す！！,诶诶！<br>所以一定要夺回来！！
+65,,<span class='scene-font-katari'>猫を追って</span><br><span class='scene-font-katari'>村へと向かって走り出すカレン。</span>,<span class='scene-font-katari'>追着猫</span><br><span class='scene-font-katari'>卡莲向村庄的方向跑去。</span>
+66,,<span class='scene-font-katari'>そして、一行も</span><br><span class='scene-font-katari'>そんなカレンの後を追って</span><br><span class='scene-font-katari'>猫の姿を追いかけるのだった。</span>,<span class='scene-font-katari'>然后，一行人也</span><br><span class='scene-font-katari'>追着卡莲</span><br><span class='scene-font-katari'>寻找起猫来。</span>
+info,,,scene_chr547_q1_s10
+译者,,,

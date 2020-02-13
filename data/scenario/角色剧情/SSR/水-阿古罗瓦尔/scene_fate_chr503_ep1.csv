@@ -1,0 +1,175 @@
+id,name,text,trans
+0-chapter_name,,覇業への道程,覇業への道程
+0-synopsis,,ある日、依頼でパーシヴァルの故郷であるウェールズを訪れた姬塔一行とパーシヴァル。そこはアグロヴァルの新たな国造りの施策により、活気と民の笑顔に満ち溢れていた。その後一行と出会ったアグロヴァルは、「全てはウェールズを強国にするための手段に過ぎない」と語るが、一行はその言葉の裏に秘められた民衆への想いに微笑むのだった。,某一天，因为委托而来到帕西瓦尔的故乡威尔士的姬塔一行人和帕西瓦尔。这里因为阿古罗瓦尔的新政策，街道上充满了活力，国民脸色也洋溢着笑容。之后与一行人见面的阿古罗瓦尔说着、“这些都是为了把威尔士打造成强国的手段”、一行人理解了在语言之中对民众着想从而露出了笑容。
+2,,<span class='scene-font-katari'>依頼された積み荷を届けに、</span><br><span class='scene-font-katari'>姬塔一行はパーシヴァルの</span><br><span class='scene-font-katari'>故郷であるウェールズを訪れた。</span>,<span class='scene-font-katari'>为了运送被委托的货物、</span><br><span class='scene-font-katari'>姬塔一行人来到了帕西瓦尔/span><br><span class='scene-font-katari'>的故乡威尔士。</span>
+3,,<span class='scene-font-katari'>そこは以前とは比にならないほど、</span><br><span class='scene-font-katari'>多くの人々が行き交い</span><br><span class='scene-font-katari'>城下町は活気に溢れていた。</span>,<span class='scene-font-katari'>这里有着之前无法比拟的人潮、</span><br><span class='scene-font-katari'>街道上充满了活力。</span>
+6,ビィ/碧,うっひゃー！<br>一体どうしたんだ？<br>どこもかしこも人だらけじゃねーか。,唔呀——！<br>到底怎么回事？<br>到处都是人啊。
+7,ルリア/露莉亚,ビィさん、もしかしたら……<br>今日、<br>お祭りでもあるんじゃないですか？,碧，难道说……<br>今天、<br>有祭典之类的吗？
+8,ビィ/碧,お祭りかぁ～……,祭典啊～……
+9,ビィ/碧,なぁなぁ、姬塔！<br>早く荷物を届けて、街を散歩しようぜ？,呐呐、姬塔！<br>赶紧把货送到、然后去街上散步吧？
+10,ビィ/碧,ウマい食いモンの屋台が<br>出てるかも知れねーしよぉ！,说不定会发现<br>好吃的小摊啊！
+11,ルリア/露莉亚,美味しい食べ物……屋台……,美味的食物……小摊……
+12,ルリア/露莉亚,姬塔、<br>早く荷物を届けましょう！,姬塔、<br>我们赶紧去送货吧！
+13,,<span class='scene-font-katari'>ビィとルリアは、</span><br><span class='scene-font-katari'>姬塔の服の裾を引っ張り、</span><br><span class='scene-font-katari'>早く依頼を終わらせようと急かす。</span>,<span class='scene-font-katari'>碧和露莉亚、</span><br><span class='scene-font-katari'>拉着姬塔衣服的下摆、</span><br><span class='scene-font-katari'>催促着赶紧完成委托。</span>
+14,,<span class='scene-font-katari'>パーシヴァルは、</span><br><span class='scene-font-katari'>じゃれ合う姬塔達を見て、</span><br><span class='scene-font-katari'>ふと笑みを漏らす。</span>,<span class='scene-font-katari'>帕西瓦尔看着</span><br><span class='scene-font-katari'>闹腾的姬塔他们、</span><br><span class='scene-font-katari'>不自觉露出了微笑。</span>
+15,パーシヴァル/帕西瓦尔,家臣共、慌てるな。<br>今日は祭りがある日ではない。,家臣们，别慌张。<br>今天并不是祭典的日子。
+16,ビィ/碧,ええっ！？　そうなのか？<br>じゃあ、なんでこんなに<br>人がいっぱいいるんだ？,诶！？　真的吗？<br>那么、为什么<br>街道上有那么多人啊？
+17,パーシヴァル/帕西瓦尔,恐らくこれは……<br>兄上による国造りの施策の賜物。,这恐怕是……<br>多亏了兄长的政策。
+18,パーシヴァル/帕西瓦尔,街をよく見てみろ。<br>以前と比べて、<br>市場が拡大していると思わないか？,仔细看看街道。<br>不觉得和以前相比、<br>市场更大了一些吗？
+19,ビィ/碧,そう言われてみりゃ、<br>確かにそうかもしれねーな。,你这么一说、<br>好像确实如此啊。
+20,パーシヴァル/帕西瓦尔,商店に並ぶ品々の中には、<br>ウェールズでは見たことが無い<br>食物や衣服も多い。,商店里的商品、<br>威尔士内没有的<br>食物和服装也很多。
+21,パーシヴァル/帕西瓦尔,また……市場の至る所で、<br>諸国の商人達が商談している姿も<br>見受けられる。,而且……在市场的各个地方、<br>都能看见<br>各国的商人在商谈的样子。
+22,パーシヴァル/帕西瓦尔,以前と比べ、<br>流通が盛んになったようだな。,跟以前相比、<br>物流变得更加繁盛了啊。
+23,パーシヴァル/帕西瓦尔,それにより商人の数が増え、<br>活気が生まれたのだろう。,然后商人的数量也增加了、<br>街道也变得更加有活力了。
+24,パーシヴァル/帕西瓦尔,それに、旅行者も多いように思うが……<br>ふむ、これは興味深い。,而且，我感觉游客也变多了……<br>嗯、这也挺有趣的。
+25,パーシヴァル/帕西瓦尔,姬塔、<br>早く荷物を届けるぞ。<br>商人に施策の様子を尋ねたい。,姬塔、<br>赶紧把货物送到。<br>我想向商人询问实施的政策。
+27,ビィ/碧,あ、おい！,喂，喂！
+28,ビィ/碧,……行っちまった。<br>慌てるなって、<br>自分で言ってたくせによぉ。,……走掉了。<br>明明刚刚自己还在说、<br>别慌张什么的。
+29,ルリア/露莉亚,ふふっ、パーシヴァルさん、<br>なんだか嬉しそうでしたね。,呵呵、总觉得、<br>帕西瓦尔先生很开心呢。
+30,ビィ/碧,へへっ。<br>なんつったってここは、<br>トサカの兄ちゃんの故郷だもんな！,嘿嘿。<br>不管怎么说、<br>这里可是鸡冠头小哥的故乡啊！
+31,ビィ/碧,"よぉーし！<br>それじゃあオイラ達も<br>トサカの兄ちゃんを追いかけようぜ！ ","好！<br>那么我们也<br>赶紧跟上鸡冠头小哥吧！ "
+32,,<span class='scene-font-katari'>こうして姬塔一行は、</span><br><span class='scene-font-katari'>荷車を引きながら先を行く</span><br><span class='scene-font-katari'>パーシヴァルの後を追うのだった。</span>,<span class='scene-font-katari'>然后姬塔一行人、</span><br><span class='scene-font-katari'>在后面追着</span><br><span class='scene-font-katari'>拉着货车走在前面的帕西瓦尔。</span>
+38,,<span class='scene-font-katari'> 姬塔一行は、</span><br><span class='scene-font-katari'>パーシヴァルと合流すると、</span><br><span class='scene-font-katari'>手際よく積み荷を依頼先に送り届けた。</span>,<span class='scene-font-katari'> 姬塔一行人、</span><br><span class='scene-font-katari'>和帕西瓦尔汇合后、</span><br><span class='scene-font-katari'>漂亮的把货物送到了目的地。</span>
+39,,<span class='scene-font-katari'>パーシヴァルはそこで、</span><br><span class='scene-font-katari'>今、市場が賑わっている理由を</span><br><span class='scene-font-katari'>商店の主に尋ねる。</span>,<span class='scene-font-katari'>帕西瓦尔在那里、</span><br><span class='scene-font-katari'>向店主询问了现在</span><br><span class='scene-font-katari'>市场这么热闹的原因。</span>
+40,商店の主,そりゃ簡単な話でさぁ！<br>実は──,原因很简单啊！<br>事实上──
+41,商店の主,おや？　貴方様は、<br>パーシヴァル様じゃありませんか！<br>これはこれは……,哦呀？　您不是、<br>帕西瓦尔大人吗！<br>稀客稀客……
+42,パーシヴァル/帕西瓦尔,俺が相手では話しにくいかも知れんが、<br>兄上が行った施策について<br>聞かせてもらえないだろうか？,也许跟我说不太好开口、<br>但能告诉我<br>兄长现在实施的政策吗？
+43,商店の主,"話しにくいなんてありゃしませんよ！ ","才没有什么不好开口的！ "
+44,商店の主,アグロヴァル様が<br>新たに制定された施策には<br>感謝しかありませんからね。,我对于阿古罗瓦尔大人<br>新实施的政策<br>可是满腔感激呢。
+45,パーシヴァル/帕西瓦尔,ほう、それは一体……,那到底……
+46,商店の主,ええ、実はこの市場から、独占販売や<br>非課税権を持った古株の商人連中を<br>排除して下さったんですよ。,嗯、这个市场上已经<br>没有那些垄断经营和<br>拥有免税权的商人了。
+47,商店の主,後は、各々の裁量。実力主義！<br>商売に身が入るってもんですよ！,之后经过斟酌决定。实力主义！<br>商人们也更加用心做生意了！
+48,商店の主,それに関税も撤廃ですからね。<br>ウェールズは、<br>まさに自由取引市場になりました。,而且连关税也废除了。<br>威尔士、<br>已经成为了自由市场。
+49,商店の主,諸国からも商人がやって来るんで、<br>これだけの活気に繋がってるんです。<br>いやぁ、アグロヴァル様々ですよ！,各国的商人也纷纷赶来、<br>这也是如此热闹的原因之一。<br>哎呀，都是多亏了阿古罗瓦尔大人啊！
+50,,<span class='scene-font-katari'>パーシヴァルは、商店の主から</span><br><span class='scene-font-katari'>アグロヴァルの施策を聞き、感心する。</span>,<span class='scene-font-katari'>帕西瓦尔从店主那里</span><br><span class='scene-font-katari'>听闻了阿古罗瓦尔实施的政策，感到钦佩无比。</span>
+51,パーシヴァル/帕西瓦尔,<span class='scene-font-kokoro'>（ふむ……</span><br><span class='scene-font-kokoro'>経済を活性化させることに</span><br><span class='scene-font-kokoro'>成功したわけか）</span>,<span class='scene-font-kokoro'>（嗯……</span><br><span class='scene-font-kokoro'>成功让经济活跃起来了）</span>
+52,パーシヴァル/帕西瓦尔,<span class='scene-font-kokoro'>（これにより、国力は高まる。</span><br><span class='scene-font-kokoro'>まさに英断だったわけか。</span><br><span class='scene-font-kokoro'>しかし、これまでの圧政とは全く違う）</span>,<span class='scene-font-kokoro'>（正因如此也增强了国力。</span><br><span class='scene-font-kokoro'>真是英明的判断。</span><br><span class='scene-font-kokoro'>而且与之前的暴政完全不同）</span>
+53,パーシヴァル/帕西瓦尔,<span class='scene-font-kokoro'>（兄上は、国を形作り、</span><br><span class='scene-font-kokoro'>力となる民を</span><br><span class='scene-font-kokoro'>尊重するようになったのだな……）</span>,<span class='scene-font-kokoro'>（兄长他也变得</span><br><span class='scene-font-kokoro'>尊重建设这个国家</span><br><span class='scene-font-kokoro'>的国民了啊……）</span>
+54,パーシヴァル/帕西瓦尔,<span class='scene-font-kokoro'>（国とは民の上に成り立っている。</span><br><span class='scene-font-kokoro'>俺の意見に過ぎないが……これは、</span><br><span class='scene-font-kokoro'>良き方向に舵を取ったと言えよう）</span>,<span class='scene-font-kokoro'>（有人民才有国家。</span><br><span class='scene-font-kokoro'>虽然只不过是我的一己之见……</span><br><span class='scene-font-kokoro'>但可以说正向着好的方向发展）</span>
+55,ルリア/露莉亚,ふふっ、パーシヴァルさん、<br>なんだか嬉しそうですね。,呵呵、帕西瓦尔先生、<br>好像很高兴呢。
+56,パーシヴァル/帕西瓦尔,ああ、民を笑顔にすることは<br>為政者の役目のひとつだ。,嗯、让民众欢笑<br>也是从政者的任务之一。
+57,パーシヴァル/帕西瓦尔,兄上が見事にそれを叶えていると<br>知ることが出来たんだ。<br>こんなに嬉しいことはない。,我知道了兄长他<br>漂亮的完成了这个任务。<br>没有比这更高兴的事了。
+58,,<span class='scene-font-katari'>一行は、商店の主に礼を述べると、</span><br><span class='scene-font-katari'>活気ある市場を通り過ぎ、</span><br><span class='scene-font-katari'>城下町の中央にある広場に向かう。</span>,<span class='scene-font-katari'>一行人向店主道谢之后、</span><br><span class='scene-font-katari'>穿过了充满活力的街道、</span><br><span class='scene-font-katari'>走向了城镇中央的广场。</span>
+64,,<span class='scene-font-katari'>姬塔一行がやってきた広場は、</span><br><span class='scene-font-katari'>演奏家や大道芸人、そしてそんな彼らに</span><br><span class='scene-font-katari'>歓声を送る民衆で溢れかえっていた。</span>,<span class='scene-font-katari'>姬塔到达的广场上、</span><br><span class='scene-font-katari'>有许多演奏家和卖艺的、而且也有许多</span><br><span class='scene-font-katari'>向他们献上欢呼喝彩的民众。</span>
+65,パーシヴァル/帕西瓦尔,ほう……これは。,哦……这是。
+66,パーシヴァル/帕西瓦尔,<span class='scene-font-kokoro'>（ウェールズでは</span><br><span class='scene-font-kokoro'>耳にしないような音色の楽器に</span><br><span class='scene-font-kokoro'>他国の民族衣装をまとった曲芸師……）</span>,<span class='scene-font-kokoro'>（这个乐师在用</span><br><span class='scene-font-kokoro'>威尔士从未听过的乐器演奏</span><br><span class='scene-font-kokoro'>还穿着他国的民族服装……）</span>
+67,パーシヴァル/帕西瓦尔,<span class='scene-font-kokoro'>（彼らも近隣諸国から</span><br><span class='scene-font-kokoro'>やって来たのだろうな）</span>,<span class='scene-font-kokoro'>（他也是从邻国</span><br><span class='scene-font-kokoro'>来的吧）</span>
+68,ルリア/露莉亚,わぁ……<br>なんだかとっても楽しそうです！,哇……<br>感觉好开心！
+69,ビィ/碧,こんなに賑やかなのに<br>お祭りってわけじゃねーんだよな？,明明这么热闹<br>却不是因为有祭典啊？
+70,パーシヴァル/帕西瓦尔,ああ、これも恐らく、<br>兄上による新たな施策の<br>賜物であろうな。,嗯这恐怕也是、<br>多亏了<br>兄长的新政策吧。
+71,ビィ/碧,ん？　どういうことだ？,嗯？　怎么回事？
+72,パーシヴァル/帕西瓦尔,諸国との文化交流を<br>推し進めた結果ということだ。,也就是多亏了<br>推进了各国文化交流。
+73,パーシヴァル/帕西瓦尔,目新しく、刺激的だ。<br>街をより活気付けてくれている。,新鲜和刺激的事物。<br>让街道更加充满活力。
+74,ビィ/碧,なるほどなぁ！<br>だからこんなに<br>たくさん人が集まってんのかぁ！,原来如此！<br>所以才<br>聚集了那么多人啊！
+75,パーシヴァル/帕西瓦尔,<span class='scene-font-kokoro'>（諸国の文化に触れることで、</span><br><span class='scene-font-kokoro'>民は多様性や柔軟な思考を持つことが</span><br><span class='scene-font-kokoro'>出来るようになる）</span>,<span class='scene-font-kokoro'>（因为接触他国的文化、</span><br><span class='scene-font-kokoro'>国民的思想也变得更加</span><br><span class='scene-font-kokoro'>多样性和柔和了）</span>
+76,パーシヴァル/帕西瓦尔,<span class='scene-font-kokoro'>（いや、それよりも……</span><br><span class='scene-font-kokoro'>民に笑顔をもたらしたことこそ、</span><br><span class='scene-font-kokoro'>最大の収穫……）</span>,<span class='scene-font-kokoro'>（比起这些……</span><br><span class='scene-font-kokoro'>让民众都露出笑颜、</span><br><span class='scene-font-kokoro'>才是最大的收获啊……）</span>
+77,パーシヴァル/帕西瓦尔,ふふっ、<br>これは素晴らしい国造りではないか。,呵呵、<br>这不是把国家建设得很漂亮吗。
+78,,<span class='scene-font-katari'>パーシヴァルは広場に集まった</span><br><span class='scene-font-katari'>民衆の顔を眺め、アグロヴァルが行った</span><br><span class='scene-font-katari'>施策の数々に感服するのだった。</span>,<span class='scene-font-katari'>帕西瓦尔看着</span><br><span class='scene-font-katari'>在广场上的人们的表情、由衷敬佩起</span><br><span class='scene-font-katari'>阿古罗瓦尔实施的政策。</span>
+79,,<span class='scene-font-katari'>するとやにわに、</span><br><span class='scene-font-katari'>城門の方から沸きあがるような</span><br><span class='scene-font-katari'>歓声があがった。</span>,<span class='scene-font-katari'>突然之间、</span><br><span class='scene-font-katari'>城门那边传来了震耳欲聋的</span><br><span class='scene-font-katari'>欢呼声。</span>
+80,ビィ/碧,なんだなんだ？,怎么了？
+81,ルリア/露莉亚,もしかしたら、<br>とってもすごい催し物が<br>始まったのかも知れませんよ！？,说不定、<br>有什么厉害的活动要开始了！？
+82,,<span class='scene-font-katari'>好奇心をそそられた</span><br><span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>歓声が響いた城門へと急いで向かった。</span>,<span class='scene-font-katari'>被好奇心所驱使的</span><br><span class='scene-font-katari'>姬塔一行人、</span><br><span class='scene-font-katari'>赶紧前往了传来欢呼声的城门。</span>
+88,,<span class='scene-font-katari'>裏道を抜けて、</span><br><span class='scene-font-katari'>城門の前に辿り着いた一行は仰天する。</span>,<span class='scene-font-katari'>穿过小道、</span><br><span class='scene-font-katari'>到达城门的一行人大吃一惊。</span>
+89,,<span class='scene-font-katari'>歓声の中心となっていたのは、</span><br><span class='scene-font-katari'>催し物でもなんでもなく、</span><br><span class='scene-font-katari'>遠征帰りの騎士団の行進だったのだ。</span>,<span class='scene-font-katari'>欢呼的中心、</span><br><span class='scene-font-katari'>并不是什么活动、</span><br><span class='scene-font-katari'>而是远征回来的骑士团在行进。</span>
+90,民衆１,おかえりなさーい！,欢迎回来！
+91,民衆２,わああ、カッコいいなあ……<br>僕も大きくなったら騎士団に入るんだ！,哇啊啊，好帅气……<br>我长大了也要加入骑士团！
+92,ビィ/碧,へぇ、すっげー人気だな……,好厉害的人气……
+93,ルリア/露莉亚,フェードラッヘの<br>白竜騎士団の皆さんみたいですね！,像费德拉赫的<br>白龙骑士团一样呢！
+94,,<span class='scene-font-katari'>その時──</span>,<span class='scene-font-katari'>那个时候──</span>
+95,,<span class='scene-font-katari'>帰還した騎士団の労をねぎらう為、</span><br><span class='scene-font-katari'>当主であるアグロヴァルが</span><br><span class='scene-font-katari'>従者を引き連れ、その姿を現した。</span>,<span class='scene-font-katari'>为了犒劳凯旋的骑士团、</span><br><span class='scene-font-katari'>作为国君的阿古罗瓦尔</span><br><span class='scene-font-katari'>带着随从来到了这里。</span>
+97,アグロヴァル/阿古罗瓦尔,…………,…………
+98,パーシヴァル/帕西瓦尔,兄上……！,兄长……！
+99,アグロヴァル/阿古罗瓦尔,皆の者、よくぞ無事に戻った。,大家都平安无事回来了。
+100,アグロヴァル/阿古罗瓦尔,皆の活躍のお陰で、<br>ウェールズの民が平和を<br>享受していると言っても過言では無い。,说是多亏了你们的活跃、<br>威尔士的民众才能享受和平<br>也毫不为过。
+101,アグロヴァル/阿古罗瓦尔,これからも、<br>このウェールズの為、<br>奮起して欲しい。,今后、<br>也希望你们为了威尔士、<br>更加努力。
+102,騎士団の面々,ハッ！,遵命！
+103,アグロヴァル/阿古罗瓦尔,だが……今日はもう登城せずとも良い。,但是……今天不用再来城里了。
+104,騎士団長,え、そ、それは──,哎，这、这是──
+105,騎士団の面々,…………,…………
+106,アグロヴァル/阿古罗瓦尔,何を戸惑っておるのだ？,在迷惑什么？
+107,アグロヴァル/阿古罗瓦尔,ふはははは！<br>家族の元で<br>ゆっくりと休養するがよいわ。,哈哈哈哈！<br>在家里<br>好生休养即可。
+108,民衆,おおお……！,噢噢噢……！
+109,騎士団の面々,ハッ！<br>アグロヴァル様、感謝致します！,遵命！<br>阿古罗瓦尔大人、万分感谢！
+110,民衆１,さすがアグロヴァル様ね！,不亏是阿古罗瓦尔大人！
+111,民衆３,心優しき王よ！,真是温柔的王！
+112,民衆２,カッコいい～！,帅呆了～！
+113,パーシヴァル/帕西瓦尔,…………,…………
+114,ビィ/碧,へへっ、<br>なんだかオイラ達まで<br>誇らしい気分になっちまうな！,嘿嘿っ、<br>总觉得<br>我们也有点感到自豪呢！
+115,,<span class='scene-font-katari'>民衆にまじって、姬塔一行は、</span><br><span class='scene-font-katari'>アグロヴァルの采配を称えた。</span>,<span class='scene-font-katari'>在人群中的姬塔一行人也、</span><br><span class='scene-font-katari'>称赞着阿古罗瓦尔的指令。</span>
+116,,<span class='scene-font-katari'>すると、</span><br><span class='scene-font-katari'>アグロヴァルは民衆の中にいる</span><br><span class='scene-font-katari'>一行の姿に気づき──</span>,<span class='scene-font-katari'>然后、</span><br><span class='scene-font-katari'>阿古罗瓦尔注意到了</span><br><span class='scene-font-katari'>混在民众中的一行人──</span>
+118,アグロヴァル/阿古罗瓦尔,やけに目立つ者達がいるかと思ったら、<br>パーシヴァルと<br>その家臣の者達ではないか。,我还想着是谁那么引人注目、<br>原来是帕西瓦尔<br>和他的家臣们啊。
+119,パーシヴァル/帕西瓦尔,兄上、ご無沙汰しておりました。,兄长、好久不见。
+120,ルリア/露莉亚,アグロヴァルさんが家臣想いで、<br>なんだか嬉しかったです！,被阿古罗瓦尔认可为家臣、<br>总觉得很开心！
+121,アグロヴァル/阿古罗瓦尔,ふははは！<br>そうか、ならばよかった。,哈哈哈哈！<br>是吗、那就好。
+122,アグロヴァル/阿古罗瓦尔,ふむ……<br>ここでは、民衆の目もある。<br>城に戻ってから話をしようではないか。,嗯……<br>在这里民众都在看着。<br>我们回城里再聊吧。
+123,アグロヴァル/阿古罗瓦尔,皆の者、ついて参れ。,大家、都一起来吧。
+124,パーシヴァル/帕西瓦尔,はい、兄上。,是、兄长。
+125,,<span class='scene-font-katari'>こうして姬塔一行は、</span><br><span class='scene-font-katari'>ウェールズ城の玉座の間に場所を移し、</span><br><span class='scene-font-katari'>アグロヴァルと謁見する。</span>,<span class='scene-font-katari'>然后姬塔一行人、</span><br><span class='scene-font-katari'>移步到了威尔士城的王座之间、</span><br><span class='scene-font-katari'>拜见了阿古罗瓦尔。</span>
+131,,<span class='scene-font-katari'>そこで、パーシヴァルや一行は、</span><br><span class='scene-font-katari'>城下町で見聞きしたことに触れ、</span><br><span class='scene-font-katari'>驚きと共に感心したことを伝えた。</span>,<span class='scene-font-katari'>然后、帕西瓦尔和一行人、</span><br><span class='scene-font-katari'>传达了因在城镇的见闻、</span><br><span class='scene-font-katari'>在惊讶之余感到钦佩的事。</span>
+132,パーシヴァル/帕西瓦尔,民を第一に考えて行ったであろう<br>施策の数々……<br>どれも素晴らしく思います。,把民众放在第一然后<br>实施的各种政策……<br>我觉得非常棒。
+133,ビィ/碧,前に来た時とは<br>別の国みてぇになってたから、<br>驚いたぜ！,和之前来的时候相比<br>简直就像不同的国家一样、<br>吓了一大跳呢！
+134,アグロヴァル/阿古罗瓦尔,改革が斯様な結果をもたらし<br>……我は満足である。,改革带来了这样的结果<br>……我也很满足。
+135,アグロヴァル/阿古罗瓦尔,だが……,但是……
+136,,<span class='scene-font-katari'>アグロヴァルは、</span><br><span class='scene-font-katari'>さっきまでの柔和な顔つきから一転、</span><br><span class='scene-font-katari'>厳しい表情を一行に向ける。</span>,<span class='scene-font-katari'>帕西瓦尔、</span><br><span class='scene-font-katari'>一转刚才柔和的表情、</span><br><span class='scene-font-katari'>转而用严肃的口吻面向一行人。</span>
+137,アグロヴァル/阿古罗瓦尔,パーシヴァル……<br>口をつくのは民草のことばかり。<br>相変わらずの温さよ。,帕西瓦尔……<br>说的也还尽是民众的事。<br>还是老样子愚蠢。
+138,アグロヴァル/阿古罗瓦尔,施策の全ては、<br>ウェールズを強国にする為の<br>手段に過ぎんわ。,这些政策全都是、<br>为了让威尔士成为<br>手段而已。
+139,パーシヴァル/帕西瓦尔,兄上。<br>その言い方は、<br>正直好きではありません。,兄长。<br>说实话、<br>我不喜欢这种说法。
+140,パーシヴァル/帕西瓦尔,それに……<br>もしやまだ人間の本質が「悪」だと、<br>そう思っているのですか？,而且……<br>难到您还认为人类的本质、<br>是“恶”吗？
+141,アグロヴァル/阿古罗瓦尔,ふふっ、<br>だとしたらどうだと言うのだ……？,哼、<br>如果是的话你打算怎么办……？
+142,,<span class='scene-font-katari'>アグロヴァルは、姬塔一行に</span><br><span class='scene-font-katari'>冷ややかな視線を送り、</span><br><span class='scene-font-katari'>渇いた笑い声をあげる。</span>,<span class='scene-font-katari'>阿古罗瓦尔面对姬塔一行人</span><br><span class='scene-font-katari'>送去了冰冷的视线、</span><br><span class='scene-font-katari'>和冷酷的笑声。</span>
+143,アグロヴァル/阿古罗瓦尔,民衆を想うだけでは、<br>強国を築くことなど不可能だ。,只为民众着想、<br>是不可能建立起强国的。
+144,アグロヴァル/阿古罗瓦尔,我の理想に従わせてこそ、<br>国造りと言えよう。,只有遵从我的理想之事、<br>才能被称为是建设国家。
+145,アグロヴァル/阿古罗瓦尔,いいか？　特定の商人に<br>既得権益などを与えていては、<br>堕落するだけであろう。,听好了？　只给特定的商人<br>既得利益的话、<br>只会让他们堕落。
+146,アグロヴァル/阿古罗瓦尔,そのようなものは、撤廃するが肝要。,将这样的东西废除才是重点。
+147,アグロヴァル/阿古罗瓦尔,全ての商人に機会を与え、<br>競争を求めたのだ。,给与所有让人机会、<br>让他们互相竞争。
+148,アグロヴァル/阿古罗瓦尔,そうすることで市場が活性化し、<br>経済が回れば我がウェールズの<br>輸出も増え、税収があがろう。,这样一来市场会更加活跃、<br>经济回升，我国威尔士的出口也会增加，税收也会增加。
+149,アグロヴァル/阿古罗瓦尔,また……<br>新たな文化や芸術を入れることで、<br>民衆の鬱憤を晴らすことができる。,然后……<br>引入新的文化和艺术、<br>也能缓解民众的忧郁。
+150,アグロヴァル/阿古罗瓦尔,それにより見聞が広がれば、<br>我に有益な情報をもたらす可能性が<br>飛躍的にあがるであろう？,民众因此而扩大见闻的话、<br>知道对我有利的情报的可能性<br>不也是飞跃式的增加吗？
+151,アグロヴァル/阿古罗瓦尔,そして……<br>我が恩情を見せたと思っている<br>騎士団だが──,而且……<br>自认为接受了我的恩情的<br骑士团──
+152,アグロヴァル/阿古罗瓦尔,彼らが心身共に健康であれば、<br>治安を守る為に奮起できる。,只要他们身心健康、<br>也会为了维持治安而努力。
+153,アグロヴァル/阿古罗瓦尔,さすればその姿を見て……<br>幼き子は騎士に憧れ、騎士道を学ぶ。,如此一来小孩看到这样子……<br>也会憧憬骑士，学习骑士道。
+154,アグロヴァル/阿古罗瓦尔,騎士道は王に忠誠を<br>誓うことであるからな。,骑士道正是<br>向王宣誓效忠。
+155,アグロヴァル/阿古罗瓦尔,愛国心を持って成長し、<br>将来、騎士となり貢献するであろう。,带着爱国情怀长大、<br>将来成为骑士为国做出更多贡献。
+156,アグロヴァル/阿古罗瓦尔,全てが我の為、<br>ウェールズの為であるぞ！,全都是为了我、<br>为了威尔士！
+157,パーシヴァル/帕西瓦尔,…………,…………
+158,ルリア/露莉亚,…………,…………
+159,ビィ/碧,うん？,嗯？
+160,,<span class='scene-font-katari'>アグロヴァルの話を聞くも、</span><br><span class='scene-font-katari'>姬塔達は</span><br><span class='scene-font-katari'>要領を得ないでいた。</span>,<span class='scene-font-katari'>就算听了阿古罗瓦尔的一席话、</span><br><span class='scene-font-katari'>姬塔他们</span><br><span class='scene-font-katari'>好像也没有掌握要领。</span>
+161,,<span class='scene-font-katari'>彼らは改めて、</span><br><span class='scene-font-katari'>アグロヴァルの主張を</span><br><span class='scene-font-katari'>反芻してみたのだが──</span>,<span class='scene-font-katari'>他们再次、</span><br><span class='scene-font-katari'>回味了</span><br><span class='scene-font-katari'>阿古罗瓦尔的主张──</span>
+162,ビィ/碧,……なぁ、やっぱりよぉ……<br>どれもウェールズの<br>民衆の為なんじゃねーのか？,……那个、果然啊……<br>不管哪一样<br>不都是为了威尔士的民众吗？
+163,ルリア/露莉亚,私も……<br>なんだかそんな気がするんですけど……,我也……<br>总觉得就是这样……
+164,アグロヴァル/阿古罗瓦尔,何を言っておるのだ。<br>断じて違う。,你们在说什么。<br>完全不是。
+165,ルリア/露莉亚,その……本当ですか？,那个……真的吗？
+166,アグロヴァル/阿古罗瓦尔,当然であろう。,当然。
+167,ビィ/碧,う～ん、でもよ──,嗯~、但是啊──
+168,アグロヴァル/阿古罗瓦尔,くどい！,啰嗦！
+169,アグロヴァル/阿古罗瓦尔,──だが、<br>そう思いたくば、そう思っても構わぬ。<br>解釈に幅がある思想である事も事実。,──但是、<br>你们要是想这样理解也无妨。<br>解释的话语有限你们也有自己的思想也是事实。
+170,パーシヴァル/帕西瓦尔,<span class='scene-font-kokoro'>（その主張が本意なのか……</span><br><span class='scene-font-kokoro'>ウェールズの民ならわかるでしょう）</span>,<span class='scene-font-kokoro'>（那个主张到底是不是真心……</span><br><span class='scene-font-kokoro'>威尔士的民众应该明白吧）</span>
+171,アグロヴァル/阿古罗瓦尔,パーシヴァル……<br>何を笑っておるのだ？,帕西瓦尔……<br>你在笑什么？
+172,パーシヴァル/帕西瓦尔,まさしく兄上こそ、<br>このウェールズの当主に<br>相応しいと思いまして……,我想真是兄长、<br>才是与这个威尔士相称的<br>一国之君……
+173,アグロヴァル/阿古罗瓦尔,ふん、兄を虚仮にするでないわ。,哼、别开你哥的玩笑了。
+174,,<span class='scene-font-katari'>兄と弟の間に</span><br><span class='scene-font-katari'>温かな空気が流れたその時──</span>,<span class='scene-font-katari'>就在兄弟之间</span><br><span class='scene-font-katari'>流露温情之时──</span>
+175,,<span class='scene-font-katari'>ひとりの兵が</span><br><span class='scene-font-katari'>アグロヴァルのもとに駆けて来る。</span>,<span class='scene-font-katari'>一位士兵</span><br><span class='scene-font-katari'>跑到了阿古罗瓦尔跟前。</span>
+177,騎士,失礼致します！<br>アグロヴァル様、<br>火急の件で御座います！,失礼了！<br>阿古罗瓦尔大人、<br>十万火急！
+178,アグロヴァル/阿古罗瓦尔,何事だ？,什么事？
+179,騎士,ハッ！<br>先ほど、国境の山から出火を<br>確認したとの報が届きました！,是！<br>就在刚在、确认了<br>确认了边境的山脉发生了火灾！
+180,騎士,如何致しましょう！？,如何应对！？
+181,アグロヴァル/阿古罗瓦尔,山火事は気象によって<br>被害が拡大する恐れもある。,森林大火会因为气候<br>而扩大受灾面积。
+182,アグロヴァル/阿古罗瓦尔,気象学に長けた学者を同行させる故、<br>団を率いて、消火に当たれ。,带上擅长气象学的学者、<br>率领团队进行灭火。
+183,騎士,ハッ！　そのように！,是！　遵命！
+185,パーシヴァル/帕西瓦尔,そのような学者がこのウェールズに？,在威尔士有那样的学者？
+186,アグロヴァル/阿古罗瓦尔,ああ。,嗯。
+187,アグロヴァル/阿古罗瓦尔,今、このウェールズでは、<br>多くの人材を<br>登用しているところなのだ。,现在在威尔士、<br>起用了<br>不同的人才。
+188,アグロヴァル/阿古罗瓦尔,在野にはどこにも仕えておらぬ、<br>様々な分野の専門家が埋もれておる。,在城外有着许多无法为国效力、<br>被埋没的各个领域的专家。
+189,アグロヴァル/阿古罗瓦尔,彼らの力を<br>利用しない手はないであろう？,没有理由<br>不将他们的力量利用起来吧？
+190,アグロヴァル/阿古罗瓦尔,最早近代において、<br>武力と謀だけではその大小を問わず<br>国というものは成り立たぬと悟った。,在现在、<br>仅仅依靠武力和谋略<br>不管大小都是无法成立国家的。
+191,アグロヴァル/阿古罗瓦尔,未来を見据えるならば、<br>内政にも目を向けなければならん。,展望未来的话、<br>也必须把目光放在内政上。
+192,アグロヴァル/阿古罗瓦尔,全ては我が<br>覇権を握る為にほかならんわ。,这也全都是为了<br>能让我将霸权握在手中。
+193,ビィ/碧,口では冷たいことばっか<br>言ってるけどよぉ、<br>なんだかんだでいい王様じゃねーか。,虽然嘴上说话老是冷冰冰的<br>但是这不是成为了一个贤明的国王吗。
+194,ルリア/露莉亚,はい、私もそう思います。,嗯、我也这么认为。
+195,パーシヴァル/帕西瓦尔,兄上の国造りからも学び、<br>俺は更に遊学を<br>続けねばならんようだな。,从兄长的建国之法中学习、<br>我也的继续<br>游学才行啊。
+196,,<span class='scene-font-katari'>アグロヴァルは様々な改革を行い、</span><br><span class='scene-font-katari'>ウェールズを強国にしようと目論む。</span>,<span class='scene-font-katari'>阿古罗瓦尔进行着各种各样的改革、</span><br><span class='scene-font-katari'>以把威尔士建立为强国作为目标。</span>
+202,,<span class='scene-font-katari'>その全ては、民衆の為ではなく、</span><br><span class='scene-font-katari'>当主である自分とウェールズの為。</span><br><span class='scene-font-katari'>そう彼は豪語しているが──</span>,<span class='scene-font-katari'>虽然他自己放话说、</span><br><span class='scene-font-katari'>这些并不是为了国民</span><br><span class='scene-font-katari'>都是为了自己和威尔士──</span>
+203,,<span class='scene-font-katari'>その裏に隠された本音を感じとった</span><br><span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>穏やかに微笑むのだった。</span>,<span class='scene-font-katari'>但是察觉到隐藏在话语中的真心的</span><br><span class='scene-font-katari'>姬塔一行人、</span><br><span class='scene-font-katari'>露出了安稳的笑容。</span>
+info,,,scene_fate_chr503_ep1
+译者,,,

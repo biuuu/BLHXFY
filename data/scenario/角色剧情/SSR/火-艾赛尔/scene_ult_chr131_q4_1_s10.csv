@@ -1,0 +1,24 @@
+id,name,text,trans
+0-chapter_name,,君に眠りを、私に銃を,给我手铳，赐你永眠
+0-synopsis,,弟妹達を守る力を得るため、十狼雷を手にし、正気を失ったエッセル。そんなエッセルは、今後の星屑の街の方針を決めるために訪れた双子の弟・カトルに対し、銃を突きつける。豹変したエッセルは「私は最強の名を得なくては」とカトルを勝負に誘う。そんな姉の様子に困惑しながらも、カトルはやむを得ず応戦するのだった。,艾瑟尔为了得到保护弟妹们的力量，拿起十狼雷，失去了理智。这样的艾瑟尔，对前来商量星屑之街以后的方针的弟弟卡托尔举枪相向。性情大变的艾瑟尔说着“我必须得到最强的名号”向卡托尔提出一决胜负。虽然对姐姐的样子感到迷惑，但卡托尔也不得不应战。
+0,,<span class='scene-font-katari'>弟妹達を守る力を得る為、</span><br><span class='scene-font-katari'>誘われるままに</span><br><span class='scene-font-spword'>十狼雷</span><span class='scene-font-katari'>を手にしたエッセル。</span>,<span class='scene-font-katari'>为了获得保护弟妹们的力量，艾瑟尔被诱惑着拿起了</span><span class='scene-font-spword'>十狼雷</span><span class='scene-font-katari'>。</span>
+1,,<span class='scene-font-katari'>そうとは知らない双子の弟カトルが</span><br><span class='scene-font-katari'>今後の街の方針を話し合うため</span><br><span class='scene-font-katari'>姉を訪ねて早朝にやって来た。</span>,<span class='scene-font-katari'>并不知情的双胞胎弟弟卡托尔为了和她商量今后星屑之街的方针，一大清早就来了。</span>
+5,カトル/卡托尔,姉さん？　入るよ。,姐姐？　我进来了。
+6,エッセル/艾瑟尔,…………,…………
+7,カトル/卡托尔,なんだ、起きてるんじゃないか。<br>返事くらい……,什么啊，你醒着啊。<br>至少回个……
+8,エッセル/艾瑟尔,……ねぇ、カトル。,……呐，卡托尔。
+9,エッセル/艾瑟尔,最強の名を得れば……<br>……本当に、星屑の街に<br>手を出す奴はいなくなるのかな。,得到最强的名号的话……<br>……真的，就不会再有人向星屑之街出手了吗。
+10,カトル/卡托尔,…………？<br>何を今更……僕と姉さんは<br>その為に十天衆になったんじゃないか。,…………？<br>事到如今说什么啊……<br>我和姐姐不正是为此加入十天众的吗。
+11,エッセル/艾瑟尔,そう……だね。<br>うん、そうだ……,是……啊。<br>嗯、没错……
+13,,<span class='scene-font-katari'>唐突にエッセルから</span><br><span class='scene-font-katari'>銃を突きつけられ、</span><br><span class='scene-font-katari'>カトルは目を見開く。</span>,<span class='scene-font-katari'>突然被艾瑟尔举枪相对，卡托尔大吃一惊。</span>
+14,カトル/卡托尔,姉さん！？　何を……,姐姐！？　你要做什么……
+15,エッセル/艾瑟尔,……カトル。<br>外に出て。,……卡托尔。<br>我们去外面。
+16,エッセル/艾瑟尔,貴方を倒して、<br>私は最強の名を<br>得なくちゃいけない。,我必须打倒你，取得最强的名号。
+17,カトル/卡托尔,……姉さん。<br>正気かい？,……姐姐。<br>你认真的？
+18,エッセル/艾瑟尔,弟妹達を守るために、<br>仕方ないのなら……<br>私は、貴方を手にかける。,如果为了保护弟妹没有其他办法的话……<br>我来，对你动手。
+19,カトル/卡托尔,ハッ……ハハッ、そう。<br>急にどうしちゃったのか<br>知らないけどさ……,哈……哈哈，是吗。<br>虽然不知道你突然发生了什么……
+20,カトル/卡托尔,姉さんにしては面白い冗談だよ……<br>やれるもんならやってみろよ、<br>臆病者のエッセルがさぁ！！,姐姐可真是开了个有趣的玩笑……<br>做得到的话就来试试看啊，胆小鬼艾瑟尔！！
+21,カトル/卡托尔,<span class='scene-font-kokoro'>（くっ……誰かに幻術でも</span><br><span class='scene-font-kokoro'>かけられたのか？）</span>,<span class='scene-font-kokoro'>（咕……是被谁施加了幻术吗？）</span>
+22,カトル/卡托尔,<span class='scene-font-kokoro'>（だが今は僕がやるしかない……</span><br><span class='scene-font-kokoro'>くるっ……！！）</span>,<span class='scene-font-kokoro'>（但是现在只有我来做了……</span><br><span class='scene-font-kokoro'>来了……！！）</span>
+info,,,scene_ult_chr131_q4_1_s10
+译者,,,

@@ -1,27 +1,27 @@
 id,name,text,trans
 0-chapter_name,,変わらぬ日常,一成不变的日常
-0-synopsis,,穏やかなある日の午後。七星剣の手入れをしている姬塔の元へ、十天衆頭目シエテが訪れる。軽い会話を交わした後、シエテが姬塔に手合わせをしようと提案。姬塔はしぶしぶシエテの誘いに乗り、上機嫌なシエテと手合わせを開始する。,某个宁静祥和的午后。十天众首领希耶提，造访了正保养着七星剑的姬塔的身边。随意地交谈了几句之后，希耶提提出要和姬塔进行比试。姬塔勉强答应了希特提的邀请。开始了与心情愉快的希耶提的比试。
-0,,<span class='scene-font-katari'>穏やかな午後の日差しの中、</span><br><span class='scene-font-katari'>姬塔は</span><span class='scene-font-spword'>七星剣</span><span class='scene-font-katari'>の</span><br><span class='scene-font-katari'>手入れをしている。</span>,<span class='scene-font-katari'>安静祥和的午后阳光中，</span><br><span class='scene-font-katari'>姬塔正对</span><span class='scene-font-spword'>七星剣</span><span class='scene-font-katari'></span><br><span class='scene-font-katari'>进行着保养。</span>
-1,,<span class='scene-font-katari'>と、そこに一人の剣士が</span><br><span class='scene-font-katari'>ふらりと現れた。</span>,<span class='scene-font-katari'>然后，在那里突然出现了</span><br><span class='scene-font-katari'>一位剑士的身影。</span>
+0-synopsis,,穏やかなある日の午後。七星剣の手入れをしている姬塔の元へ、十天衆頭目シエテが訪れる。軽い会話を交わした後、シエテが姬塔に手合わせをしようと提案。姬塔はしぶしぶシエテの誘いに乗り、上機嫌なシエテと手合わせを開始する。,某个宁静祥和的午后。十天众首领希耶提，造访了正保养着七星剑的姬塔。随意地交谈了几句之后，希耶提提出要和姬塔进行比试。姬塔勉强答应了希耶提的邀请。开始了与心情愉快的希耶提的比试。
+0,,<span class='scene-font-katari'>穏やかな午後の日差しの中、</span><br><span class='scene-font-katari'>姬塔は</span><span class='scene-font-spword'>七星剣</span><span class='scene-font-katari'>の</span><br><span class='scene-font-katari'>手入れをしている。</span>,<span class='scene-font-katari'>安静祥和的午后阳光中，姬塔正在保养</span><span class='scene-font-spword'>七星剑</span><span class='scene-font-katari'>。</span>
+1,,<span class='scene-font-katari'>と、そこに一人の剣士が</span><br><span class='scene-font-katari'>ふらりと現れた。</span>,<span class='scene-font-katari'>然后，在那里突然出现了一位剑士的身影。</span>
 2,シエテ/希耶提,ふぁ～あぁ～<br>やぁ姬塔ちゃん、<br>今日もいい天気だねぇ～,呼啊～啊～<br>呀姬塔酱，<br>今天也是个好天气呢～
-3,シエテ/希耶提,お、<span class='scene-font-spword'>七星剣</span>のお手入れしてるんだ！<br>偉いね～物を大事にする子は<br>シエテお兄さん好きだなー,哦，在给<span class='scene-font-spword'>七星剣</span>做保养啊！<br>真了不起啊～希耶提哥哥我就喜欢<br>懂得珍惜事物的孩子ー
+3,シエテ/希耶提,お、<span class='scene-font-spword'>七星剣</span>のお手入れしてるんだ！<br>偉いね～物を大事にする子は<br>シエテお兄さん好きだなー,哦，在给<span class='scene-font-spword'>七星剣</span>做保养啊！<br>真了不起啊～希耶提哥哥我就喜欢懂得珍惜东西的孩子ー
 4,シエテ/希耶提,あ、みてみてあの雲、<br>すごく美味しそうだよー<br>目玉焼きみたいだよねぇ？,啊，你看你看那朵云，<br>看上去超好吃呢ー<br>就像是煎鸡蛋一样？
-5,シエテ/希耶提,ところで今日の晩御飯は<br>何がいいかな～<br>お肉かなーお魚かなー,话说今晚的晚饭<br>吃什么好呢～<br>是肉呢ー还是鱼呢ー
-6,シエテ/希耶提,ねぇ姬塔ちゃん、<br>俺の話聞いてる？,呐姬塔酱，<br>你有听我在说话吗？
-7,シエテ/希耶提,あれー？<br>なんか怒らせるようなこと<br>言ったっけー俺？,啊咧ー？<br>我说了什么<br>让你生气的话吗？
-8,,<span class='scene-font-katari'>シエテと交わされる</span><br><span class='scene-font-katari'>何気ない会話をいつも通りに</span><br><span class='scene-font-katari'>続ける姬塔。</span>,<span class='scene-font-katari'>姬塔被希耶提交替着说着</span><br><span class='scene-font-katari'>继续着一如往常的</span><br><span class='scene-font-katari'>若无其事的对话。</span>
+5,シエテ/希耶提,ところで今日の晩御飯は<br>何がいいかな～<br>お肉かなーお魚かなー,话说今晚的晚饭吃什么好呢～<br>是肉呢ー还是鱼呢ー
+6,シエテ/希耶提,ねぇ姬塔ちゃん、<br>俺の話聞いてる？,喂姬塔酱，<br>你有听我在说话吗？
+7,シエテ/希耶提,あれー？<br>なんか怒らせるようなこと<br>言ったっけー俺？,啊咧ー？<br>我说了什么让你生气的话吗？
+8,,<span class='scene-font-katari'>シエテと交わされる</span><br><span class='scene-font-katari'>何気ない会話をいつも通りに</span><br><span class='scene-font-katari'>続ける姬塔。</span>,<span class='scene-font-katari'>姬塔一如往常地继续着和希耶提的若无其事的对话。</span>
 9,シエテ/希耶提,あ、じゃあさじゃあさ<br>久しぶりに手合せしよっかー？,啊，那这样吧<br>不如久违地来场比试吧ー？
 9-sel1_txt,,<span class='scene-font-katari'>いいよー</span>,<span class='scene-font-katari'>可以啊ー</span>
 9-sel2_txt,,<span class='scene-font-katari'>やだよ～</span>,<span class='scene-font-katari'>不要～</span>
 10,シエテ/希耶提,おっ！　乗り気だねー！<br>今日の姬塔ちゃんはー！,哦！　兴致满满呢ー！<br>今天的姬塔酱ー！
-11,シエテ/希耶提,そんな素直な姬塔ちゃんに<br>アレを買って来てあるから、<br>後で一緒に食べようか？,为了这么坦率的姬塔酱<br>我买了那个来<br>之后一起吃吧？
-12,,<span class='scene-font-katari'>シエテの思わぬ申し出に</span><br><span class='scene-font-katari'>顔を綻ばせる姬塔。</span>,<span class='scene-font-katari'>因为希耶提出乎意料的提议</span><br><span class='scene-font-katari'>姬塔有些吃惊。</span>
+11,シエテ/希耶提,そんな素直な姬塔ちゃんに<br>アレを買って来てあるから、<br>後で一緒に食べようか？,为了这么坦率的姬塔酱我买了那个来，<br>之后一起吃吧？
+12,,<span class='scene-font-katari'>シエテの思わぬ申し出に</span><br><span class='scene-font-katari'>顔を綻ばせる姬塔。</span>,<span class='scene-font-katari'>因为希耶提出乎意料的提议，姬塔面露微笑。</span>
 13,シエテ/希耶提,ふふふ～、そう言うと思ってほら、<br>こんな物を用意してきたよ！,呵呵呵～，我就知道你会这么说，<br>所以我准备了这个！
-15,,<span class='scene-font-katari'>そう言うシエテは、</span><br><span class='scene-font-katari'>紙袋をチラつかせる。</span>,<span class='scene-font-katari'>希耶提这么说着，</span><br><span class='scene-font-katari'>拿起了纸袋并发出声响。</span>
-16,シエテ/希耶提,姬塔ちゃんの好きなアレ、<br>買って来てあるんだけどな～,我买来了<br>姬塔酱喜欢的那个～
+15,,<span class='scene-font-katari'>そう言うシエテは、</span><br><span class='scene-font-katari'>紙袋をチラつかせる。</span>,<span class='scene-font-katari'>希耶提这么说着，摇了摇拿出来的纸袋。</span>
+16,シエテ/希耶提,姬塔ちゃんの好きなアレ、<br>買って来てあるんだけどな～,我买来了姬塔酱喜欢的那个～
 17,シエテ/希耶提,もし俺と手合せしてくれたら、<br>これをプレゼントしちゃうんだけどな～,如果和我比试的话，<br>就把这个作为礼物送给你哦～
-18,,<span class='scene-font-katari'>途端に姬塔の</span><br><span class='scene-font-katari'>顔色が変わる。</span>,<span class='scene-font-katari'>一听到这话</span><br><span class='scene-font-katari'>姬塔的神色就变了。</span>
+18,,<span class='scene-font-katari'>途端に姬塔の</span><br><span class='scene-font-katari'>顔色が変わる。</span>,<span class='scene-font-katari'>一听到这话姬塔的神色就变了。</span>
 19,シエテ/希耶提,お……！<br>その顔は受けてくれる感じかな？,喔……！<br>那个表情是打算接受对吧？
-20,,<span class='scene-font-katari'>しぶしぶ、シエテの要望に付き合う</span><br><span class='scene-font-katari'>ことにする姬塔。</span>,<span class='scene-font-katari'>不情愿地，姬塔答应了</span><br><span class='scene-font-katari'>希耶提的请求。</span>
+20,,<span class='scene-font-katari'>しぶしぶ、シエテの要望に付き合う</span><br><span class='scene-font-katari'>ことにする姬塔。</span>,<span class='scene-font-katari'>不情愿地，姬塔答应了希耶提的请求。</span>
 21,シエテ/希耶提,ふふふ……<br>よーし、それじゃあいっくよー！,呵呵呵……<br>好ー，那么我要上了ー！
 info,,,scene_ult_chr132_q1_s10

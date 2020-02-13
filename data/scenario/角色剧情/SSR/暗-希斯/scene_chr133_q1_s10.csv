@@ -1,34 +1,34 @@
 id,name,text,trans
-0-chapter_name,,残されたメッセージ,被留下的信息
-0-synopsis,,シスが探す騎空士の情報について何の手がかりも得られずにいた姬塔一行は、カルムの郷に戻って手がかりを探すことを決める。その時、シェロカルテから連絡が入り、カルム一族が残した財宝を狙って、盗賊達が郷を荒らしているということを知り、一行は急いでカルムの郷へと向かう。,姬塔一行没有获得任何关于希斯在寻找的骑空士的情报的线索，决定返回卡尔姆之乡去寻找线索。就在这时，从榭洛科特那里传来消息，一行人得知有盗贼盯上了卡尔姆一族留下的财宝，现在正在乡里大闹，一行人急忙赶向卡尔姆之乡。
-0,,<span class='scene-font-katari'>シスの探す騎空士の情報を求め</span><br><span class='scene-font-katari'>空の旅を続ける一行──</span>,<span class='scene-font-katari'>一行人追寻着希斯寻找的骑空士的情报</span><br><span class='scene-font-katari'>继续着他们的空之旅程──</span>
-1,,<span class='scene-font-katari'>いくつもの島を訪れるも</span><br><span class='scene-font-katari'>姬塔達は何の手がかりも</span><br><span class='scene-font-katari'>得られずにいた──</span>,<span class='scene-font-katari'>不论造访了多少岛</span><br><span class='scene-font-katari'>姬塔一行还是</span><br><span class='scene-font-katari'>什么线索都没找到──</span>
-2,ビィ/碧,騎空士を探すにしても<br>何の手がかりも無いんじゃなぁ……<br>次はどこ目指しゃいいってんだ？,即使船上的骑空士们也一起找了<br>还是毫无线索啊……<br>接下来打算去哪呢？
-3,ルリア/露莉亚,うーん……そう言えば<br><span class='scene-font-place'>カルムの郷</span>には、騎空士さんの<br>手がかりって無かったんでしょうか？,嗯ー……说起来<br><span class='scene-font-place'>卡尔姆之乡</span>的话，骑空士们也<br>没有找到任何线索吗？
-4,ビィ/碧,そ、そう言えば……<br>シスが仲間になってすぐに<br>あの島から出港しちまったよな！,这，这么一说……<br>在希斯加入之后就立刻<br>离开了那个岛了呢！
+0-chapter_name,,残されたメッセージ,遗留的信息
+0-synopsis,,シスが探す騎空士の情報について何の手がかりも得られずにいた姬塔一行は、カルムの郷に戻って手がかりを探すことを決める。その時、シェロカルテから連絡が入り、カルム一族が残した財宝を狙って、盗賊達が郷を荒らしているということを知り、一行は急いでカルムの郷へと向かう。,姬塔一行没有获得任何关于希斯在寻找的骑空士的情报的线索，便决定返回卡尔姆之乡去寻找线索。就在这时，从榭洛科特那里传来消息，一行人得知有盗贼盯上了卡尔姆一族留下的财宝，现在正在乡里大闹，便急忙赶向卡尔姆之乡。
+0,,<span class='scene-font-katari'>シスの探す騎空士の情報を求め</span><br><span class='scene-font-katari'>空の旅を続ける一行──</span>,<span class='scene-font-katari'>一行人追寻着希斯寻找的骑空士的情报，继续着他们的空之旅程──</span>
+1,,<span class='scene-font-katari'>いくつもの島を訪れるも</span><br><span class='scene-font-katari'>姬塔達は何の手がかりも</span><br><span class='scene-font-katari'>得られずにいた──</span>,<span class='scene-font-katari'>尽管造访了许多岛屿，姬塔一行还是没有找到任何线索──</span>
+2,ビィ/碧,騎空士を探すにしても<br>何の手がかりも無いんじゃなぁ……<br>次はどこ目指しゃいいってんだ？,就算想找骑空士，没有任何线索也无从下手啊……<br>接下来去哪好啊？
+3,ルリア/露莉亚,うーん……そう言えば<br><span class='scene-font-place'>カルムの郷</span>には、騎空士さんの<br>手がかりって無かったんでしょうか？,嗯ー……说起来，<br><span class='scene-font-place'>卡尔姆之乡</span>里没有骑空士的线索吗？
+4,ビィ/碧,そ、そう言えば……<br>シスが仲間になってすぐに<br>あの島から出港しちまったよな！,这，这么一说……<br>在希斯加入之后就立刻离开了那个岛了呢！
 5,シス/希斯,…………,…………
-6,ビィ/碧,うーん……いっそ<span class='scene-font-place'>カルムの郷</span>に戻って<br>手がかりを探すとこから<br>やり直すってのもありかもしれねーな！,嗯ー……干脆返回<span class='scene-font-place'>卡尔姆之乡</span>去<br>从头找线索的话<br>也许会有新发现呢！
+6,ビィ/碧,うーん……いっそ<span class='scene-font-place'>カルムの郷</span>に戻って<br>手がかりを探すとこから<br>やり直すってのもありかもしれねーな！,嗯ー……干脆返回<span class='scene-font-place'>卡尔姆之乡</span>去从头找线索，<br>也许会有新发现呢！
 7,ビィ/碧,どうだ、シス。<br><span class='scene-font-place'>カルムの郷</span>に戻ってみねーか？,如何，希斯。<br>要回<span class='scene-font-place'>卡尔姆之乡</span>试试看吗？
 8,シス/希斯,…………,…………
 9,ビィ/碧,…………,…………
 10,ルリア/露莉亚,…………,…………
-11,ビィ/碧,んは……っ！<br>そう言えばさっき、シスの仮面を<br>外してそのままだったぜ！,啊……！<br>说起来刚刚，希斯就一直保持着<br>面具被摘下来的样子呢！
-12,ルリア/露莉亚,そ、そうでした！<br>はい、お返ししますね！,啊，是这样啊！<br>来，面具还给你！
-15,シス/希斯,……忌まわしきあの地が<br>俺を呼び寄せるというのだな。,……那个可憎之地<br>是在呼唤着我吧。
+11,ビィ/碧,んは……っ！<br>そう言えばさっき、シスの仮面を<br>外してそのままだったぜ！,啊……！<br>说起来刚刚把希斯的面具摘下来一直没还给他呢！
+12,ルリア/露莉亚,そ、そうでした！<br>はい、お返ししますね！,啊，想起来了！<br>来，面具还给你！
+15,シス/希斯,……忌まわしきあの地が<br>俺を呼び寄せるというのだな。,……那个可憎之地是在呼唤着我吧。
 16,シス/希斯,ククク……いいだろう。<br>受けて立とうではないか……！,呵呵呵……行啊。<br>怎么能不接受呢……！
-17,ルリア/露莉亚,はい！<br>騎空士さんの手がかり<br>頑張って見つけましょう！,嗯！<br>我会很努力去找<br>那位骑空士的线索的！
+17,ルリア/露莉亚,はい！<br>騎空士さんの手がかり<br>頑張って見つけましょう！,嗯！<br>努力去找那位骑空士的线索吧！
 18,ビィ/碧,……はぁ～、手間のかかる奴だぜ。,……哈啊～，真是让人费心的家伙啊。
-19,,<span class='scene-font-katari'>──その頃、</span><span class='scene-font-place'>カルムの郷</span><span class='scene-font-katari'>では</span><br><span class='scene-font-katari'>予期せぬ事態が発生していた。</span>,<span class='scene-font-katari'>──与此同时，在</span><span class='scene-font-place'>卡尔姆之乡</span><span class='scene-font-katari'></span><br><span class='scene-font-katari'>发生了让人意想不到的事。</span>
-22,ルリア/露莉亚,たた、大変です！<br><span class='scene-font-place'>カルムの郷</span>が大変な事になってるって<br>シェロさんからの連絡ですー！,事，事情不妙了！<br>据榭洛所说<span class='scene-font-place'>卡尔姆之乡</span>现在发生了很不妙的事ー！
-23,ビィ/碧,そんなに慌てて<br>いったいどうしたってんだ？,看你那么慌张<br>到底发生了什么事？
+19,,<span class='scene-font-katari'>──その頃、</span><span class='scene-font-place'>カルムの郷</span><span class='scene-font-katari'>では</span><br><span class='scene-font-katari'>予期せぬ事態が発生していた。</span>,<span class='scene-font-katari'>──与此同时，在</span><span class='scene-font-place'>卡尔姆之乡</span><span class='scene-font-katari'>发生了预料之外的事。</span>
+22,ルリア/露莉亚,たた、大変です！<br><span class='scene-font-place'>カルムの郷</span>が大変な事になってるって<br>シェロさんからの連絡ですー！,事，事情不妙了！<br>据榭洛所说，<span class='scene-font-place'>卡尔姆之乡</span>现在发生了很不妙的事ー！
+23,ビィ/碧,そんなに慌てて<br>いったいどうしたってんだ？,看你那么慌张，到底发生了什么事？
 24,ルリア/露莉亚,それが……,那是……
 25,,<span class='scene-font-katari'>よろず屋からの情報によると……</span>,<span class='scene-font-katari'>根据万事屋那边来的情报……</span>
-26,,<span class='scene-font-katari'>カルム一族が暗殺を請け負って得た</span><br><span class='scene-font-katari'>莫大な財産が郷に眠っているという</span><br><span class='scene-font-katari'>噂が広がり──</span>,<span class='scene-font-katari'>卡尔姆一族接下暗杀任务而获得的</span><br><span class='scene-font-katari'>巨大的财产正藏在卡尔姆之乡里</span><br><span class='scene-font-katari'>这一传言突然扩散开了──</span>
-27,,<span class='scene-font-katari'>財宝目当てで乗り込んだ盗賊や</span><br><span class='scene-font-katari'>トレジャーハンター達により</span><br><span class='scene-font-katari'>荒らされているという──</span>,<span class='scene-font-katari'>因为盯着财宝而潜入的盗贼</span><br><span class='scene-font-katari'>和宝藏猎人的行动</span><br><span class='scene-font-katari'>乡里正被大闹着──</span>
-28,ビィ/碧,んなっ！　莫大な財産だってぇ！？<br>そ、そりゃ本当かよ、シス！,怎么会！　居然有巨额财产什么的！？<br>那，那是真的吗，希斯！
-29,シス/希斯,さあな。<br>一族に忌み嫌われていた俺が<br>知るはずもあるまい……,谁知道呢。<br>这不是被一族所忌讳厌恶的我<br>该知道的事……
+26,,<span class='scene-font-katari'>カルム一族が暗殺を請け負って得た</span><br><span class='scene-font-katari'>莫大な財産が郷に眠っているという</span><br><span class='scene-font-katari'>噂が広がり──</span>,<span class='scene-font-katari'>卡尔姆一族接下暗杀任务而获得的巨大的财产正藏在卡尔姆之乡里，</span><br><span class='scene-font-katari'>这一传言突然扩散开了──</span>
+27,,<span class='scene-font-katari'>財宝目当てで乗り込んだ盗賊や</span><br><span class='scene-font-katari'>トレジャーハンター達により</span><br><span class='scene-font-katari'>荒らされているという──</span>,<span class='scene-font-katari'>据说因为盯着财宝而潜入的盗贼和宝藏猎人的行动，乡里被搞得一团糟──</span>
+28,ビィ/碧,んなっ！　莫大な財産だってぇ！？<br>そ、そりゃ本当かよ、シス！,什么！　巨额的财产！？<br>那，那是真的吗，希斯！
+29,シス/希斯,さあな。<br>一族に忌み嫌われていた俺が<br>知るはずもあるまい……,谁知道呢。<br>被一族所忌讳厌恶的我怎么可能知道这些……
 30,ビィ/碧,あぁ……その、えっと……,啊……那个，额……
-31,シス/希斯,しかし、盗賊などに郷が荒らされ<br>万が一にも、あの男の手がかりを<br>失ってしまっては敵わん……,但是，乡里被盗贼们大闹一通的话<br>要是有个万一，那个男人留下的线索<br>丢失了可就糟了……
-32,ルリア/露莉亚,そうですね！　<span class='scene-font-place'>カルムの郷</span>には<br>騎空士さんとの思い出だって<br>いっぱい詰まってるはずです！,说的也是呢！　在<span class='scene-font-place'>卡尔姆之乡</span><br>可是充满了你和那位骑空士的<br>满满的回忆啊！
-33,ルリア/露莉亚,取り返しがつかなくなる前に<br>私達も急いで向かいましょう！,赶在我们失去要取得的东西之前<br>快点过去那边吧！
+31,シス/希斯,しかし、盗賊などに郷が荒らされ<br>万が一にも、あの男の手がかりを<br>失ってしまっては敵わん……,但是，乡里被盗贼们大闹一通，<br>万一因此丢失了那个男人留下的线索可就糟了……
+32,ルリア/露莉亚,そうですね！　<span class='scene-font-place'>カルムの郷</span>には<br>騎空士さんとの思い出だって<br>いっぱい詰まってるはずです！,说的也是呢！　在<span class='scene-font-place'>卡尔姆之乡</span>可是充满了你和那位骑空士的回忆啊！
+33,ルリア/露莉亚,取り返しがつかなくなる前に<br>私達も急いで向かいましょう！,在事情变得无法挽回之前，我们也赶紧过去吧！
 info,,,scene_chr133_q1_s10

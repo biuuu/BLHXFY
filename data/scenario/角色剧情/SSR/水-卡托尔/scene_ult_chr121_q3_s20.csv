@@ -1,0 +1,25 @@
+id,name,text,trans
+0-chapter_name,,四天刃の覚醒,四天刃的觉醒
+0-synopsis,,四天刃に勝利したカトル。カトルは四天刃に何が目的か問うと、四天刃はカトルが心の底で願っていた姬塔に勝ちたいという欲望に応え、呼びかけただけだと嘲笑う。四天刃はカトル自身が全空一最強であるという事を、自分を手にして証明しろとけしかける。カトルは後ろめたさを感じつつも四天刃を手にし、その場から姿を消すのだった。,卡托尔战胜了四天刃，询问四天刃目的何在。四天刃嘲笑着说它只是呼应卡托尔内心期望的想要战胜姬塔的欲望才向他搭话的。四天刃怂恿卡托尔应该自己亲手证明自己是全空最强。卡托尔虽然感到内疚，但还是拿起了四天刃，从这里消失了。
+1,カトル/卡托尔,……フン。<br>……どうだ？,……哼。<br>……怎么样？
+3,四天刃,<span class='scene-font-gray'>チッ……流石だな。</span>,<span class='scene-font-gray'>嘁……不愧是你。</span>
+4,カトル/卡托尔,……当然だ。<br>十天衆をナメるなよ？<br>このクソ武器ヤローが。,……那是当然。<br>可别小看十天众啊？<br>你这个混蛋武器。
+6,四天刃,<span class='scene-font-gray'>ハハッ、面白れぇ……</span>,<span class='scene-font-gray'>哈哈哈，真有趣……</span>
+7,カトル/卡托尔,ったく、フザケやがって……<br>テメェはいったい何が目的だ？<br>あぁ？,真是的，这么胡闹……<br>你的目的到底是什么？啊？
+9,四天刃,<span class='scene-font-gray'>目的……？</span><br>,<span class='scene-font-gray'>目的……？</span>
+10,カトル /卡托尔,テメェは、姬塔を<br>使い手として認めたんだろう？,你已经认同姬塔作为你的使用者了吧？
+11,カトル/卡托尔,……返答次第では<br>今すぐここで叩き割る。,……根据你的回答我可能会立即把你击碎。
+13,四天刃,<span class='scene-font-gray'>ンなもん簡単だ……</span><br><span class='scene-font-gray'>オレはお前の心の底に</span><br><span class='scene-font-gray'>潜む欲望に応えただけだ。</span>,<span class='scene-font-gray'>这事很简单……</span><br><span class='scene-font-gray'>我只是回应了潜伏在你内心深处的欲望。</span>
+14,カトル/卡托尔,……欲望、だと。,……我的，欲望。
+16,四天刃,<span class='scene-font-gray'>そうだ……テメェは</span><br><span class='scene-font-gray'>姬塔より強く</span><br><span class='scene-font-gray'>なりてぇんだろ？</span>,<span class='scene-font-gray'>是的……你想要变得比姬塔更强吧？</span>
+17,カトル/卡托尔,僕が……姬塔より……,我……比姬塔……
+19,四天刃,<span class='scene-font-gray'>ああ、だったらテメェの力を</span><br><span class='scene-font-gray'>証明しろ……己が……</span><br><span class='scene-font-gray'>全空一最強であるとな……</span>,<span class='scene-font-gray'>对，所以证明你的力量吧……</span><br><span class='scene-font-gray'>证明自己是……全空最强……</span>
+20,カトル/卡托尔,全空一……最強……,全空……最强……
+22,四天刃,<span class='scene-font-gray'>さぁ……</span><br><span class='scene-font-gray'>オレを手に取れッッ！</span>,<span class='scene-font-gray'>来吧……</span><br><span class='scene-font-gray'>把我握在手中！</span>
+23,カトル/卡托尔,…………,…………
+24,,<span class='scene-font-katari'>四天刃の元へ</span><br><span class='scene-font-katari'>手を伸ばすカトル。</span>,<span class='scene-font-katari'>卡托尔向四天刃伸出手去。</span>
+25,カトル/卡托尔,姬塔……<br>ごめん。,姬塔……<br>对不起。
+27,,<span class='scene-font-katari'>途端に眩い光に</span><br><span class='scene-font-katari'>包まれるカトル。</span>,<span class='scene-font-katari'>突然，炫目的光包围了卡托尔。</span>
+28,,<span class='scene-font-katari'>四天刃を手にしたカトルは、</span><br><span class='scene-font-katari'>音も無くどこかへ姿を消した。</span>,<span class='scene-font-katari'>拿起四天刃的卡托尔，悄无声息地消失了。</span>
+info,,,scene_ult_chr121_q3_s20
+译者,,,sora_vicki

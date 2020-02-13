@@ -1,0 +1,11 @@
+id,name,text,trans
+0-chapter_name,,君に眠りを、私に銃を,给我手铳，赐你永眠
+0-synopsis,,カトルを倒したエッセルは「まずは……ひとり」とつぶやく。負けてもなお追い縋ろうとするカトルをエッセルは感情なく一瞥し、その場を去る。カトルは心優しいエッセルの変貌に、ただただ困惑するのだった。,打倒了卡托尔的艾瑟尔嘟囔着“先解决……一个”。对就算输了也打算追上去的卡托尔，艾瑟尔只是冷冷的瞥了一眼便离开了。卡托尔对于温柔的艾瑟尔的变化，只能感到困惑。
+1,カトル/卡托尔,<span class='scene-font-4'>ぐあああああっ！！</span>,<span class='scene-font-4'>啊啊啊啊啊！！</span>
+3,エッセル/艾瑟尔,まずは……ひとり。,先解决……一个。
+4,カトル/卡托尔,待て、よ……姉さん……<br>僕は、まだ……,等等……姐姐……<br>我还……
+5,,<span class='scene-font-katari'>負けてなお追い縋ろうとするカトルを</span><br><span class='scene-font-katari'>エッセルは感情の無い目で一瞥すると</span><br><span class='scene-font-katari'>踵を返してその場を去る。</span>,<span class='scene-font-katari'>面对输了还打算纠缠的卡托尔，艾瑟尔用没有感情的眼光瞥了一眼便转身离去。</span>
+6,カトル/卡托尔,クソッ……<br>どうなってやがる……！！,可恶……<br>怎么回变成这样……！！
+7,,<span class='scene-font-katari'>心優しいエッセルの変貌。</span><br><span class='scene-font-katari'>一体何があったのかを知る者は</span><br><span class='scene-font-katari'>まだ誰もいなかった。</span>,<span class='scene-font-katari'>温柔的艾瑟尔的剧变。</span><br><span class='scene-font-katari'>现在还没有人知道到底发生了什么。</span>
+info,,,scene_ult_chr131_q4_1_s20
+译者,,,

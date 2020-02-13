@@ -1,0 +1,76 @@
+id,name,text,trans
+0-chapter_name,,捜し求めしモノ,搜寻之物
+0-synopsis,,村で起動キーを咥えた猫を見つけた一行。カレンとスザクが先行して猫を追うも、猫は捕まえようとするカレンの手から逃れる。スザクが猫を捕まえようとするが、何故かカレンが慌ててそれを止め、猫は再び逃げてしまう。カレンは何か隠し事をしている様子を見せ、スザクに手出しをしないよう念を押すのだった。,在村中找到了叼着启动钥匙的猫的一行人。卡莲和朱雀先一步追上了猫，但猫从想要抓住它的卡莲手中逃脱了。朱雀想要抓住猫，但不知何故被卡莲阻止了，于是猫再次逃跑了。卡莲似乎隐瞒了什么事的样子，警告朱雀不要再插手了。
+2,,<span class='scene-font-katari'>逃げた猫を追って村へと戻る一行。</span><br><span class='scene-font-katari'>しかし、皆で辺りを探し回るものの、</span><br><span class='scene-font-katari'>それらしい猫を見つけられずにいた。</span>,<span class='scene-font-katari'>一行人追着逃走的猫回到了村庄。</span><br><span class='scene-font-katari'>但是，大家一起在周边搜寻，</span><br><span class='scene-font-katari'>也没有看见那模样的猫。</span>
+4,カレン/卡莲,<span class='scene-font-4'>ああもうっ！</span><br>あの猫、どこ行ったのよ！,<span class='scene-font-4'>啊啊啊真是的！</span><br>那只猫到哪里去了啊！
+5,C.C.,落ち着け、カレン。<br>そんなに焦っていては<br>見つかるものも見つからないぞ。,冷静，卡莲。<br>你这么焦躁的话，<br>本来找得到的东西也找不到了。
+6,カレン/卡莲,そ、そんなこと分かってるっ！<br><span class='scene-font-1'>でも、あれを見られるのは……</span>,这、这种事我知道的啦！<br><span class='scene-font-1'>但是，如果那个被人看见的话……</span>
+7,C.C.,あれ？<br>なんのことだ？,那个？<br>你在说什么？
+8,カレン/卡莲,<span class='scene-font-4'>な、なんでもない！</span>,<span class='scene-font-4'>没、没什么！</span>
+9,ルルーシュ/鲁鲁修,それにしてもどうして猫が、<br>紅蓮の起動キーなんかを<br>持っていったんだ？,话说回来，为什么那只猫<br>叼走了<br>红莲的启动钥匙？
+10,スザク/朱雀,大方、オモチャだと<br>思ったんじゃないかな。<br>見た目が羽だし、紐もついているしね。,大概，是被当做<br>玩具了吧。<br>是羽毛状的，还系着绳子。
+11,ルルーシュ/鲁鲁修,そう言えば、<br>お前もよくあんなオモチャで<br>アーサーの気を引こうとしてたな。,说起来，<br>你也总是用那样的玩具<br>逗亚瑟玩呢。
+12,スザク/朱雀,うん。<br>でも、僕は噛まれてばかり<br>だったけどね。,嗯。<br>但我总是被<br>亚瑟啃呢。
+13,ビィ/碧,おいおい、呑気だなぁ。<br>ん？,喂喂，你们真悠哉啊。<br>嗯？
+14,ビィ/碧,なぁ、カレン。もしかして、<br>起動キーを持ってったっていう猫って<br>あいつじゃねぇか？,我说，卡莲。该不会<br>叼走你启动钥匙的猫<br>就是那只吧？
+15,カレン/卡莲,え？,诶？
+16,猫,…………,…………
+17,,<span class='scene-font-katari'>ビィの指し示す先に目を向けると</span><br><span class='scene-font-katari'>そこには紅蓮の起動キーと一緒に布の</span><br><span class='scene-font-katari'>ようなものを咥えた猫の姿があった。</span>,<span class='scene-font-katari'>看向碧所指的方向</span><br><span class='scene-font-katari'>在那里有一只连同什么布头一起</span><br><span class='scene-font-katari'>叼着红莲启动钥匙的猫。</span>
+19,カレン/卡莲,<span class='scene-font-4'>あーっ！？</span><br>いた！　やっと見つけた！,<span class='scene-font-4'>啊ー！？</span><br>有了！　终于找到你了！
+21,,<span class='scene-font-katari'>その瞬間、カレンは猫めがけて</span><br><span class='scene-font-katari'>わき目もふらず走りだす。</span>,<span class='scene-font-katari'>就在这一瞬，卡莲瞄准猫</span><br><span class='scene-font-katari'>径直向它冲了过去。</span>
+22,カレン/卡莲,アンタ、そっから<br>動くんじゃないよ！,你可不要<br>乱动哟！
+23,猫,ニャッ！！,喵！！
+25,カレン/卡莲,この……っ！<br>逃げるなっつーの！,喂……！<br>都说了不要跑了！
+27,ビィ/碧,あ、おいっ、待てよっ！,啊、喂、等等！
+33,,<span class='scene-font-katari'>持ち前の運動神経でなんとか追いつくと</span><br><span class='scene-font-katari'>カレンは猫に向かって手を伸ばす。</span>,<span class='scene-font-katari'>仗着自己的运动神经好不容易追了上去，</span><br><span class='scene-font-katari'>卡莲向猫伸出手去。</span>
+34,カレン/卡莲,捕まえたっ！,抓住你了！
+35,猫,ニャニャッ！,喵喵！
+37,,<span class='scene-font-katari'>しかし、次の瞬間、猫はその手から</span><br><span class='scene-font-katari'>逃れるように高く跳躍すると</span><br><span class='scene-font-katari'>民家の屋根の上へと飛び乗る。</span>,<span class='scene-font-katari'>但是下一秒，猫高高地跃起</span><br><span class='scene-font-katari'>从卡莲的双手逃脱，</span><br><span class='scene-font-katari'>跳上了民宅的屋顶。</span>
+38,カレン/卡莲,くそっ！<br>あとちょっとだったのに！,可恶！<br>明明只差一点了！
+39,スザク/朱雀,カレン！<br>ここは僕に任せろ！,卡莲！<br>这里交给我！
+40,,<span class='scene-font-katari'>その言葉と共にカレンの横を</span><br><span class='scene-font-katari'>走り抜けるスザク。</span>,<span class='scene-font-katari'>这样说着朱雀从卡莲身边</span><br><span class='scene-font-katari'>超了过去。</span>
+42,,<span class='scene-font-katari'>そして、猫を追うように</span><br><span class='scene-font-katari'>高く跳躍するが……</span>,<span class='scene-font-katari'>然后，为了追猫</span><br><span class='scene-font-katari'>也高高地跳了起来，但……</span>
+44,カレン/卡莲,<span class='scene-font-4'>ちょっ！</span><br><span class='scene-font-4'>アンタはダメーッ！</span>,<span class='scene-font-4'>等！</span><br><span class='scene-font-4'>你不行！</span>
+45,,<span class='scene-font-katari'>慌てた様子のカレンは、</span><br><span class='scene-font-katari'>咄嗟に跳躍したスザクの足を掴む。</span>,<span class='scene-font-katari'>模样慌张的卡莲</span><br><span class='scene-font-katari'>瞬间抓住了跳起的朱雀的脚。</span>
+47,スザク/朱雀,うわぁっ！？　,呜哇啊！？　
+49,,<span class='scene-font-katari'>次の瞬間、スザクはバランスを崩し</span><br><span class='scene-font-katari'>カレンを巻き添えにしながら、</span><br><span class='scene-font-katari'>地面に落ちる。</span>,<span class='scene-font-katari'>下一秒，朱雀失去了平衡</span><br><span class='scene-font-katari'>连带着卡莲</span><br><span class='scene-font-katari'>一起摔到了地上。</span>
+50,スザク/朱雀,イタタタ……<br>カレン、何をするんだ！,痛痛痛痛……<br>卡莲，你在干什么啊！
+51,カレン/卡莲,ご、ごめん。でも、<br>アンタにあの猫を捕まえられるのは<br>ちょっとマズいっていうか……,对、对不起。但是，<br>如果你抓到那只猫的话<br>有点糟糕……
+52,スザク/朱雀,……僕が捕まえるとマズい？<br>どういうことだい？,……我抓住的话有点糟糕？<br>究竟是怎么回事？
+53,カレン/卡莲,え、えっと、それは……,那、那个，那是……
+56,ルリア/露莉亚,はぁ……はぁ……<br>カ、カレンさんも……スザクさんも<br>走るの、速いん……ですね……,哈……哈……<br>卡、卡莲也好……朱雀也好<br>你们、跑得……太快了……
+57,ルルーシュ/鲁鲁修,はぁ……はぁ……<br>はぁ……はぁ……はぁ……,哈……哈……<br>哈……哈……哈……
+58,ビィ/碧,お、おい、ルルーシュ大丈夫か？<br>顔が真っ青だぞ……,喂、喂，鲁鲁修你没事吧？<br>脸色都泛青了……
+59,ルルーシュ/鲁鲁修,だ、大丈夫……だ……<br>はぁ……はぁ……,没、没事……<br>哈……哈……
+60,C.C.,やれやれ……<br>お前はもう少し体力をつけるべきだな。,哎呀哎吖……<br>你应该再多增加点体力。
+61,ルルーシュ/鲁鲁修,はぁはぁ……う、うるさい……<br>そ、それよりも猫は……,哈哈……吵、吵死了……<br>比、比起这个，猫呢……
+62,カレン/卡莲,ご、ごめん……<br>逃げられちゃった……,对、对不起……<br>让它跑了……
+63,スザク,いや、もう少しで捕まえ……,不，差一点就要抓到……
+65,スザク,つっ！？,痛！？
+66,,<span class='scene-font-katari'>カレンはルルーシュ達から</span><br><span class='scene-font-katari'>見えないようにしながら、しかし力強く</span><br><span class='scene-font-katari'>スザクの足を踏みつける。</span>,<span class='scene-font-katari'>卡莲在鲁鲁修等人</span><br><span class='scene-font-katari'>看不见的地方，狠狠地</span><br><span class='scene-font-katari'>踩了朱雀一脚。</span>
+67,スザク/朱雀,カ、カレン……<br>なんなんだ……,卡、卡莲……<br>怎么了……
+68,,<span class='scene-font-katari'>涙目になるスザクに近寄ると、</span><br><span class='scene-font-katari'>カレンはルルーシュ達に聞こえないよう</span><br><span class='scene-font-katari'>小声で話しかける。</span>,<span class='scene-font-katari'>凑到眼泛泪花的朱雀身旁，</span><br><span class='scene-font-katari'>卡莲用鲁鲁修等人听不见的</span><br><span class='scene-font-katari'>声音说道。</span>
+69,カレン/卡莲,さっきのことは秘密にして。<br>お願い。,刚才的事保密。<br>拜托了。
+70,スザク/朱雀,え？<br>どうして……,诶？<br>为什么……
+71,カレン/卡莲,"お・ね・が・い！ ","拜·托·你·了！ "
+72,,<span class='scene-font-katari'>その言葉と共にカレンは</span><br><span class='scene-font-katari'>更に強くスザクの足を踏む。</span>,<span class='scene-font-katari'>一边说着，卡莲</span><br><span class='scene-font-katari'>更用力地踩了朱雀的脚。</span>
+73,スザク/朱雀,っ！？　わ、分かった……<br>分かったから、<br>足を踏むのは……,痛！？　知、知道了……<br>我知道了，<br>别踩了……
+74,ルルーシュ/鲁鲁修,どうした？<br>何かあったのか？,怎么了？<br>发生了什么吗？
+75,カレン/卡莲,"なんでもない。<br>ねぇ、スザク？ ","什么都没有。<br>对吧，朱雀？ "
+76,スザク/朱雀,あ、ああ……<br>なんでもないよ、うん。,啊、啊啊……<br>什么都没有，嗯。
+77,ビィ/碧,しかし、スザクでも<br>捕まえられなかったのかよ。<br>あの猫、どんだけ素早いんだ？,但就连朱雀都没有<br>抓到那只猫吗？<br>那只猫跑得那么快吗？
+78,ルリア/露莉亚,でも、何とかして<br>見つけないと……,但不想想办法<br>找到它的话……
+79,,<span class='scene-font-katari'>カレンは話し合う姬塔達を</span><br><span class='scene-font-katari'>尻目に、そっとスザクに近寄ると</span><br><span class='scene-font-katari'>小声で話しかける。</span>,<span class='scene-font-katari'>卡莲用眼角余光瞥着</span><br><span class='scene-font-katari'>姬塔等人，悄悄地凑近朱雀，</span><br><span class='scene-font-katari'>小声说道。</span>
+80,カレン/卡莲,さっきはゴメン。<br>足を踏んだりして……,刚才抱歉了。<br>踩了你的脚……
+81,カレン/卡莲,その……咄嗟のことだったから、<br>これしか方法が思いつかなくて……,那个……因为是一瞬间发生的事，<br>除了这我没想到别的办法……
+82,スザク/朱雀,……カレン、<br>ちゃんと僕に説明してくれないかな？,……卡莲，<br>你就不能跟我好好解释下吗？
+83,スザク/朱雀,さっき、僕に猫を捕まえられると<br>マズいって言ってたよね？,你刚才说，我抓到猫的话<br>会有点麻烦吧？
+84,スザク/朱雀,あれは一体、どういう意味だい？,那究竟是什么意思？
+85,カレン/卡莲,そ、それはその……,那、那个，就是……
+86,,<span class='scene-font-katari'>スザクの不審な視線から</span><br><span class='scene-font-katari'>逃れるようにカレンは目をそらす。</span>,<span class='scene-font-katari'>像是要逃避朱雀怀疑的目光</span><br><span class='scene-font-katari'>卡莲移开视线。</span>
+87,スザク/朱雀,カレン……<br>僕達に何か隠してることが──,卡莲……<br>你有什么事瞒着我们──
+88,カレン/卡莲,と、とにかく！<br>あの猫は私が捕まえるから！,总、总之！<br>那只猫让我抓住！
+89,カレン/卡莲,だから、アンタは絶対<br>手出しをしないで！,所以，你绝对<br>不要出手！
+90,,<span class='scene-font-katari'>そして、カレンはスザクの追及から</span><br><span class='scene-font-katari'>逃れる様に姬塔達の話の輪に</span><br><span class='scene-font-katari'>入っていくのだった。</span>,<span class='scene-font-katari'>接着，卡莲向是要逃避</span><br><span class='scene-font-katari'>朱雀的追问一般，</span><br><span class='scene-font-katari'>参与进了姬塔们的谈话中。</span>
+info,,,scene_chr547_q2_s10
+译者,,,

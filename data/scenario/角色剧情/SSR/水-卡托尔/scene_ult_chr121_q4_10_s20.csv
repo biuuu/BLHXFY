@@ -1,0 +1,48 @@
+id,name,text,trans
+0-chapter_name,,交わる刃,交错之刃
+0-synopsis,,姬塔はカトルを打ち負かす。その隙にシエテがカトルを捕え、エッセルはカトルが手にする四天刃を銃弾で弾き飛ばす。カトルは意識を失ったまま星屑の街へと運ばれ、目を覚ます。街のみんなを守るため強くなろうと、一人もがいていたことを告白するカトル。そんなカトルに星屑の街の子供達は、みんなで強くなればいいと言う。こうしてカトルは皆に頼ることを初めて知ることが出来たのだった。,姬塔击败了卡托尔。希耶提抓住机会抓住了卡托尔，艾瑟尔用子弹击落了卡托尔手中的四天刃。失去意识的卡托尔被带回了星屑之街，在那里醒来。卡托尔向大家坦白自己是为了保护星屑之街，想要变强而独自挣扎。面对这样的卡托尔，星屑之街的孩子们对他说只要大家一起变强就可以了。就这样，卡托尔第一次知道了可以依靠自己的同伴这件事。
+1,カトル/卡托尔,グ……ガハッ……,唔……咕啊……
+4,,<span class='scene-font-katari'>カトルとの一騎打ちに</span><br><span class='scene-font-katari'>勝利した姬塔。</span>,<span class='scene-font-katari'>姬塔在与卡托尔的单挑中获胜。</span>
+5,シエテ/希耶提,でかした姬塔ちゃん！<br>後は俺に任せろッ！,做得好姬塔酱！<br>之后就交给我吧！
+6,シエテ/希耶提,……天星剣……肆の型……<br>天星柩牢！　,……天星剑……肆之型……<br>天星柩牢！
+9,,<span class='scene-font-katari'>カトルの足元から現れた</span><br><span class='scene-font-katari'>剣塊が牢の様に組み上がる。</span>,<span class='scene-font-katari'>从卡托尔脚边出现的剑块组成了牢狱的形状。</span>
+12,カトル/卡托尔,グガアァァァアアア！,咕啊啊啊啊啊啊啊！
+13,シエテ/希耶提,チッ……<br>まだ<span class='scene-font-spword'>四天刃</span>が……,嘁……<br><span class='scene-font-spword'>四天刃</span>又…………
+14,エッセル/艾瑟尔,ん……そこっ！,嗯……看招！
+16,カトル/卡托尔,うぐあぁっ！？,唔啊啊啊！？
+20,,<span class='scene-font-katari'>エッセルの放った一筋の</span><br><span class='scene-font-katari'>弾丸は、カトルの手から</span><br><span class='scene-font-spword'>四天刃</span><span class='scene-font-katari'>を弾き飛ばした。</span>,<span class='scene-font-katari'>艾瑟尔射出的一发子弹，击落了卡托尔手中的</span><span class='scene-font-spword'>四天刃</span><span class='scene-font-katari'>。</span>
+21,シエテ/希耶提,ナイスエッセル！<br>しびれるぅ～,漂亮艾瑟尔！<br>太帅了~
+22,カトル/卡托尔,…………,…………
+26,エッセル/艾瑟尔,カトル！<br>今助ける！,卡托尔！<br>我现在就来救你！
+27,,<span class='scene-font-katari'>姬塔達は意識を失った</span><br><span class='scene-font-katari'>カトルの元に駆け寄って</span><br><span class='scene-font-katari'>その身柄を助け出す。</span>,<span class='scene-font-katari'>姬塔他们向着失去意识的卡托尔跑去，把他救了出来。</span>
+32,,<span class='scene-font-katari'>そのまま星屑の街に運ばれた</span><br><span class='scene-font-katari'>カトルは、昏々と眠り続けた。</span>,<span class='scene-font-katari'>就这样卡托尔被带回了星屑之街，一直昏睡着。</span>
+34,カトル/卡托尔,う……うぅ……,唔……唔唔……
+35,エッセル/艾瑟尔,カトル！,卡托尔！
+36,シエテ/希耶提,良かった～<br>無事みたいだね～,太好了~<br>看起来没什么问题~
+37,,<span class='scene-font-katari'>意識を取り戻したカトルを見て</span><br><span class='scene-font-katari'>安堵の表情を浮かべる姬塔。</span>,<span class='scene-font-katari'>看到了恢复意识的卡托尔，姬塔露出了安心的表情。</span>
+38,カトル/卡托尔,姉さん……頭目に、<br>姬塔……,姐姐……头领，还有姬塔……
+39,カトル/卡托尔,僕は……いったい……,我……到底……
+40,エッセル/艾瑟尔,あなたは<span class='scene-font-spword'>四天刃</span>に意識を<br>操られていたのよ……,你被<span class='scene-font-spword'>四天刃</span>操控了意识……
+41,カトル/卡托尔,<span class='scene-font-spword'>四天刃</span>に……<br>意識を？,被<span class='scene-font-spword'>四天刃</span>操纵了……意识？
+42,カトル/卡托尔,ぐっ……,唔……
+43,,<span class='scene-font-katari'>落胆気味のカトルの前に、</span><br><span class='scene-font-katari'>街の子供達が集まってくる。</span>,<span class='scene-font-katari'>星屑之街的孩子们聚集在了失魂落魄的卡托尔面前。</span>
+44,子供１/孩子１,カトル兄ちゃん！<br>良かった……うぅ……,卡托尔哥哥！<br>真是太好了……呜呜……
+45,カトル/卡托尔,すまない……お前達にも……<br>心配をかけてしまったようだね。,对不起……<br>让你们……担心了。
+46,カトル/卡托尔,この程度のザマで<br>最強になろうなど……<br>笑えるな。,就这幅样子还想成为最强……<br>真是可笑。
+47,子供２/孩子２,ううん……<br>カトル兄ちゃんは……<br>最強になんかならなくていい！,不是的……<br>卡托尔哥哥……<br>就算不是最强也没关系！
+48,カトル/卡托尔,いや……<br>僕が強くなくては星屑の街を──,不行……<br>如果我不强大的话星屑之街就……
+49,カトル/卡托尔,この街の誰も<br>守ることができない。,这街上没有人能保护它。
+50,子供１/孩子１,大丈夫だよ！<br>カトル兄ちゃん！,不用担心！<br>卡托尔哥哥！
+51,子供２/孩子２,その分……<br>みんなで強くなってみせる！,不够的部分……<br>就由我们变强来做到！
+52,子供２/孩子２,だからもう……<br>一人でなんとかしようとしないで！,所以说……<br>不要再一个人想办法了！
+53,カトル/卡托尔,お前達……,你们……
+54,エッセル/艾瑟尔,ふふ……<br>そうだよカトル。,哈哈……<br>就是这样哦卡托尔。
+55,エッセル/艾瑟尔,私もいる。,还有我。
+56,シエテ/希耶提,ったく……<br>何かあったらまず俺に相談しろって<br>いつも言ってるだろ～？,真是的……<br>我一直在说有什么问题先找我商量啊~？
+57,,<span class='scene-font-katari'>カトルに向かって</span><br><span class='scene-font-katari'>微笑みかける姬塔。</span>,<span class='scene-font-katari'>姬塔对着卡托尔露出了微笑。</span>
+58,カトル/卡托尔,ああ……ありがとう。,啊啊……谢谢。
+59,カトル/卡托尔,これからは、<br>みんなの力を頼らせて<br>もらいたい。,从今往后，我想要借助大家的力量。
+60,,<span class='scene-font-katari'>少し恥ずかしそうに</span><br><span class='scene-font-katari'>礼を述べるカトル。</span>,<span class='scene-font-katari'>卡托尔有点害羞地向大家道谢。</span>
+61,,<span class='scene-font-katari'>こうしてカトルは、</span><br><span class='scene-font-katari'>仲間達と力を合わせて</span><br><span class='scene-font-katari'>星屑の街を守っていくのだった。</span>,<span class='scene-font-katari'>于是卡托尔决定，与伙伴们一起保护星屑之街。</span>
+info,,,scene_ult_chr121_q4_10_s20
+译者,,,sora_vicki

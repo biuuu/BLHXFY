@@ -1,0 +1,14 @@
+id,name,text,trans
+0-chapter_name,,君に眠りを、私に銃を,给我手铳，赐你永眠
+0-synopsis,,戦いに勝ったエッセルは、動けないフュンフにためらいなく銃口を向ける。そんなエッセルから殺気を感じたフュンフは、残された魔力を振り絞り、辛うじてその場から姿を消す。正気を失っているエッセルは、消え去ったフュンフに興味を失くすと、次なる十天衆との戦いを求め、歩き出すのだった。,获得胜利的艾瑟尔，面对无法动弹的芬芙也毫不犹豫将枪口对准了她。感受到艾瑟尔的杀意，芬芙用残存的魔力艰难的逃离了现场。失去理智的艾瑟尔对逃走的芬芙失去了兴趣，为了向下一个十天众挑战而继续前进。
+1,フュンフ/芬芙,うぐぅ……<br>エ、エッセルのバカぁ！！<br>どうしちゃったのさ！,唔……<br>艾、艾瑟尔这个笨蛋！！<br>到底怎么了！
+2,エッセル/艾瑟尔,…………,…………
+3,フュンフ/芬芙,ひっ……！？,……！？
+4,,<span class='scene-font-katari'>激闘の疲労で動けないフュンフに、</span><br><span class='scene-font-katari'>エッセルはためらいなく銃口を向ける。</span>,<span class='scene-font-katari'>面对因为激战而感到疲惫的芬芙，艾瑟尔毫不留情的将枪口对准了她。</span>
+8,エッセル/艾瑟尔,…………！？<br>逃げた……！？,…………！？<br>逃走了……！？
+9,,<span class='scene-font-katari'>フュンフは最後の魔力で</span><br><span class='scene-font-katari'>辛くもエッセルの前から姿を消した。</span>,<span class='scene-font-katari'>芬芙用最后的魔力艰难的从艾瑟尔面前消失了。</span>
+10,エッセル/艾瑟尔,……最強の座も……<br>マフィア達も……,……无论是最强的宝座……<br>还是黑手党……
+11,エッセル/艾瑟尔,<span class='scene-font-4'>この手で……！！</span>,<span class='scene-font-4'>都由我……！！</span>
+12,,<span class='scene-font-katari'>いつもの穏やかさを失ったエッセルは、</span><br><span class='scene-font-spword'>十狼雷</span><span class='scene-font-katari'>と共に</span><br><span class='scene-font-katari'>次なる十天衆との戦いを求めていた。</span>,<span class='scene-font-katari'>失去了以往的冷静的艾瑟尔与</span><span class='scene-font-spword'>十狼雷</span><span class='scene-font-katari'>一起寻求着向下一位十天众挑战。</span>
+info,,,scene_ult_chr131_q4_2_s20
+译者,,,

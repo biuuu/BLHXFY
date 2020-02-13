@@ -1,0 +1,44 @@
+id,name,text,trans
+0-chapter_name,,STAGE6 ふたり の ゼロ,STAGE6 两个ZERO
+0-synopsis,,スザク達がルルーシュのもとに合流し、ルルーシュはビィに抗ウイルス薬を託す。デルフィナは星晶獣マグネシアの磁場によってナイトメアフレームを停止させるが、ルルーシュとルリアが召喚したユグドラシルの連携によって無効化され、ナイトメアフレームの動力が回復する。デルフィナは苦し紛れに星晶獣マグネシアを使い、ルルーシュ達に反撃を試みるのだった。,朱雀等人汇合到鲁鲁修身边，鲁鲁修将抗病毒药拜托给了碧。虽然黛尔菲娜利用星晶兽玛格涅西亚的磁场使Knightmare Frame停止运作，但在鲁鲁修和露莉亚召唤的尤格多拉希尔的合作下失效了，Knightmare Frame恢复了运作。黛尔菲娜迫不得已尝试使用星晶兽玛格涅西亚对鲁鲁修他们进行反击。
+11,スザク/朱雀,ルルーシュ、作戦は上手くいったのか？,鲁鲁修，计划进展顺利吗？
+12,ルルーシュ/鲁鲁修,ああ。<br>抗ウイルス薬も手に入れた。,啊啊。<br>已经拿到抗病毒药了。
+13,,<span class='scene-font-katari'>突然アジトが揺れたかと思うと、</span><br><span class='scene-font-katari'>天井に大きな穴が開き</span><br><span class='scene-font-katari'>ランスロットが現れた。</span>,<span class='scene-font-katari'>正觉着是藏身处在震动，</span><br><span class='scene-font-katari'>突然天花板上开了个大洞，</span><br><span class='scene-font-katari'>兰斯洛特出现了。</span>
+14,,<span class='scene-font-katari'>その後ろには足場を伝って降りる</span><br><span class='scene-font-katari'>紅蓮弐式と姬塔たちを抱えた</span><br><span class='scene-font-katari'>ガウェインが続いていた。</span>,<span class='scene-font-katari'>在这之后高文踩着踏板，</span><br><span class='scene-font-katari'>抱着红莲贰式和姬塔他们</span><br><span class='scene-font-katari'>也接着出现了。</span>
+15,ルルーシュ/鲁鲁修,ビィ、抗ウイルス薬だ。<br>艇のナナリーに！,碧，这是抗病毒药。<br>带到船上的娜娜莉那里去！
+16,ビィ/碧,おうよ！　任せておけ！,知道了！　就交给我吧！
+18,,<span class='scene-font-katari'>ビィはルルーシュが投げ渡した</span><br><span class='scene-font-katari'>薬瓶を受け取ると、</span><br><span class='scene-font-katari'>ナナリーのもとへ向かった。</span>,<span class='scene-font-katari'>一接到鲁鲁修丢过来的药瓶</span><br><span class='scene-font-katari'>碧就转身离开，</span><br><span class='scene-font-katari'>赶往娜娜莉的身边。</span>
+23,C.C.,指示された作業は完了した。<br>全て予定通り進められている。,你指示的工作已经完成了。<br>全部都按计划所说顺利进行。
+24,ルルーシュ/鲁鲁修,よし。ならばあとは<br>全てを終わらせるだけだ！,很好。那么这之后<br>就只剩下让这一切结束了！
+25,,<span class='scene-font-katari'>C.C.からの報告を聞きながら、</span><br><span class='scene-font-katari'>ルルーシュはガウェインの</span><br><span class='scene-font-katari'>コックピットに乗り込む。</span>,<span class='scene-font-katari'>鲁鲁修一边听着C.C.的报告，</span><br><span class='scene-font-katari'>一边乘上了</span><br><span class='scene-font-katari'>高文的驾驶舱。</span>
+26,デルフィナ/黛尔菲娜,ククク……<br><span class='scene-font-4'>無駄だぁーー！！</span>,库库库……<br><span class='scene-font-4'>没用的ーー！！</span>
+27,デルフィナ/黛尔菲娜,いかに強力なナイトメアだろうが、<br>星晶獣マグネシアがいる限り<br>お前たちは碌に動くことすら叶わない！,不管是再怎么强力的Knightmare也好，<br>只要星晶兽玛格涅西亚在的话，<br>你们就动弹不得了！
+34,星晶獣マグネシア/星晶兽玛格涅西亚,────,────
+36,,<span class='scene-font-katari'>デルフィナは魔晶を掲げ、</span><br><span class='scene-font-katari'>星晶獣マグネシアを顕現させる。</span>,<span class='scene-font-katari'>黛尔菲娜高高举起了魔晶，</span><br><span class='scene-font-katari'>召唤出了星晶兽玛格涅西亚。</span>
+41,,<span class='scene-font-katari'>すると強力な磁場の干渉により、</span><br><span class='scene-font-katari'>３機のナイトメアは沈黙してしまう。</span>,<span class='scene-font-katari'>因为强力的磁场干涉，</span><br><span class='scene-font-katari'>三台Knightmare都沉默了下来。</span>
+42,デルフィナ/黛尔菲娜,さあ、全員ナイトメアから<br>引きずり出して殺してやる！,啊啊，我要把你们全员<br>从Knightmare里拖出来杀掉！
+43,デルフィナ/黛尔菲娜,お前らを殺したら次はナナリーだ！,把你杀了之后接下来就轮到娜娜莉了！
+44,ルルーシュ/鲁鲁修,同じ手を二度は食わない。<br>それくらい対策済みだ。,同样的计谋第二次可对我不管用啊。<br>针对那个的对策已经准备好了。
+45,ルルーシュ/鲁鲁修,ルリア、<br>作戦通りユグドラシルを召喚してくれ！,露莉亚，<br>按计划说的那样召唤尤格多拉希尔！
+46,ルリア/露莉亚,はい……！,好的……！
+54,ルルーシュ/鲁鲁修,計算通りなら、いけるはずだ。,如果计算正确，应该是可行的。
+55,ルルーシュ/鲁鲁修,超常の力だと言えど、<br>物理的に作用するのなら、<br>法則というものが存在する。,虽说是超常的力量，<br>如果能产生物理性的作用的话，<br>肯定存在法则。
+56,,<span class='scene-font-katari'>ルルーシュはルリアが召喚した</span><br><span class='scene-font-katari'>ユグドラシルに指示を伝える。</span>,<span class='scene-font-katari'>向着露莉亚召唤出的尤格多拉希尔，</span><br><span class='scene-font-katari'>鲁鲁修传去了指令</span>
+58,ルリア/露莉亚,ユグドラシル、お願い！,拜托你了，尤格多拉希尔！
+59,ユグドラシル/尤格多拉希尔,──！！,──！！
+66,,<span class='scene-font-katari'>ユグドラシルの土の力により、</span><br><span class='scene-font-katari'>岩盤に含まれた細かな鉱石の向きが</span><br><span class='scene-font-katari'>指定の方向へ変えられていく。</span>,<span class='scene-font-katari'>因为尤格多拉希尔的土之力，</span><br><span class='scene-font-katari'>地面岩层里含有的细小的矿石的朝向，</span><br><span class='scene-font-katari'>变成了指定的方向。</span>
+67,カレン/卡莲,紅蓮のシステムが戻った！,红莲的系统恢复了！
+68,スザク/朱雀,エナジー・フィラー出力定格。<br>ユグドラシルドライブ起動確認。,能量填充达到输出功率。<br>尤格多拉希尔驱动确认启动。
+69,スザク/朱雀,ルルーシュ、いつでも行ける！,鲁鲁修，已经准备就绪了！
+70,デルフィナ/黛尔菲娜,何故だ！？,为什么！？
+71,デルフィナ/黛尔菲娜,くっ……マグネシア！,咕……玛格涅西亚！
+72,ルルーシュ/鲁鲁修,無駄だよ。ユグドラシルの力で<br>地中の鉱石を再配列し、<br>空間全体の磁場を乱した。,没用的。通过尤格多拉希尔的力量，<br>将这里地里的矿石再排列了，<br>现在这个空间里的磁场是混乱的。
+73,ルルーシュ/鲁鲁修,目には目を、歯には歯を、<br>星晶獣には星晶獣を、ということだ。,以眼还眼，以牙还牙，<br>对付星晶兽就用星晶兽，就是这么一回事。
+74,デルフィナ/黛尔菲娜,フン……<br>ナイトメアが動こうが<br>動くまいが関係ない！,哼……<br>Knightmare能动还是不能动，<br>都无所谓了！
+75,デルフィナ/黛尔菲娜,曲がりなりにも星晶獣は<br><span class='scene-font-spword'>星の民</span>が置いていった強力な兵器だ。,即使不够完全，<br><span class='scene-font-spword'>星晶兽也是，</span>星之民设置的强力兵器啊。
+76,デルフィナ/黛尔菲娜,こいつを使い、<br>お前たちを全員殺してやる！,我要用这家伙，<br>把你们全员都杀了！
+77,星晶獣マグネシア/星晶兽玛格涅西亚,────！,────！
+78,C.C.,来るぞ！,来了！
+79,ルルーシュ/鲁鲁修,総員戦闘準備！<br>星晶獣マグネシアを討伐せよ！,全员准备战斗！<br>将星晶兽玛格涅西亚打倒！
+80,３人,了解ッ！<br>了解ッ！<br>了解です！,收到！<br>收到！<br>收到！
+info,,,scene_evt190614_cp6_q4_s20

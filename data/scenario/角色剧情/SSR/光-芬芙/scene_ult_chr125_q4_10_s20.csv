@@ -1,0 +1,19 @@
+id,name,text,trans
+0-chapter_name,,復活、魔道の申し子,复活，魔道的神童
+0-synopsis,,フュンフは姬塔との戦いに敗れる。フュンフは悔しがりつつも、以前と違い元気な姿を一行に見せられた事を喜ぶ。フュンフは胸を張って姬塔に五神杖を返すと、明るく無邪気に笑うのだった。,芬芙败给了姬塔。虽然芬芙很不甘心，但也很开心能让一行人看到她与之前不同健康的样子。芬芙骄傲地把五神杖还给姬塔，开朗地天真无邪地笑了。
+1,フュンフ/芬芙,あぅ～、また負けたぁ！<br>姬塔強すぎるよぉ～,啊呜~又输掉了！姬塔也太强了~
+2,フュンフ/芬芙,でもでも、あちしの強さ<br>わかったでしょ！<br>ほら、こ～んなに元気だし！,但是但是，这样就知道我有多强了吧！<br>看，我还这么精神！
+3,ルリア/露莉亚,確かに……この間までと違って<br>お熱もないですし、<br>とっても元気ですねフュンフちゃん！,确实……和之前不一样，也没发烧，芬芙酱很精神呢！
+4,ロゼッタ/萝赛塔,そうね……それに、<br>戦い方も以前より<br>スマートになっていると思うわ。,是啊……而且战斗方式比起以前变聪明了呢。
+5,ロゼッタ/萝赛塔,他の十天衆達との修行は<br>フュンフに取って<br>いい刺激になったみたいね。,看来与其他十天众的修炼对芬芙产生了好的影响呢。
+6,フュンフ/芬芙,でしょでしょ～？<br>あちし頑張ったんだ～<br>褒めて褒めて～！,是吧是吧~？我也很努力了~夸我夸我~！
+7,,<span class='scene-font-katari'>元気に飛び跳ねるフュンフは、</span><br><span class='scene-font-katari'>胸を張って姬塔に</span><br><span class='scene-font-spword'>五神杖</span><span class='scene-font-katari'>を手渡す。</span>,<span class='scene-font-katari'>精神地蹦蹦跳跳着的芬芙，骄傲地把</span><span class='scene-font-spword'>五神杖</span><span class='scene-font-katari'>递给了姬塔。</span>
+8,フュンフ/芬芙,今まで、ホントに<br>ありがと姬塔！<br>すーっごく助かったよ～,至今为止，真的很感谢你姬塔！<br>帮我大忙了哦~
+9,フュンフ/芬芙,<span class='scene-font-spword'>五神杖</span>、とっても使い心地いいね！<br>あちしも作れないかなぁ～？,<span class='scene-font-spword'>五神杖</span>用起来很舒服呢！<br>我也能做一把吗~？
+10,フュンフ/芬芙,ふぇ？　使わないときは<br>あちしに<span class='scene-font-spword'>五神杖</span>また貸してくれるの！？,呜诶？不用的时候就再把<span class='scene-font-spword'>五神杖</span>借给我吗！？
+11,ロゼッタ/萝赛塔,それは素敵なアイデアね、<br>姬塔。せっかくの<span class='scene-font-spword'>天星器</span>を<br>倉庫に眠らせていたら勿体ないもの。,真是个好主意啊姬塔。<br>难得的<span class='scene-font-spword'>天星器</span>放在仓库里吃灰也太浪费了。
+12,フュンフ/芬芙,わ～、姬塔太っ腹！<br>借りる時、大事に使うね！<br>ホントにホントにありがと～！,哇~姬塔好大度！<br>借用的时候我会很珍惜的！<br>真的真的很感谢你~！
+13,,<span class='scene-font-katari'>明るく無邪気に笑うフュンフは、</span><br><span class='scene-font-katari'>どこにでもいる</span><br><span class='scene-font-katari'>幸せな子供にしか見えない。</span>,<span class='scene-font-katari'>开朗地天真无邪地笑着的芬芙，无论怎么看都只是个幸福的孩子。</span>
+14,,<span class='scene-font-katari'>だが彼女はその膨大な魔力を使い</span><br><span class='scene-font-katari'>これからも仲間達の旅を</span><br><span class='scene-font-katari'>守り、繋いでいくことだろう。</span>,<span class='scene-font-katari'>但想必她会运用那巨大的魔力，去守护伙伴们接下来的旅程吧。</span
+info,,,scene_ult_chr125_q4_10_s20
+译者,,,

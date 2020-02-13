@@ -1,0 +1,51 @@
+id,name,text,trans
+0-chapter_name,,夜空 の 誓い,夜空的誓言
+0-synopsis,,魔物を殲滅後、取り残された鉱員を助けるため、スザクはランスロットを降りて姬塔達と共に坑道の中へ入る。しかし再び発生した地震によって地面が崩れ、姬塔とルリアが坑道の地下へ落下してしまう。スザクは自ら姬塔とルリアを追って地下へ飛び込みふたりを庇う。一行は互いの無事を確かめ、出口を探し始めるのだった。,歼灭魔物后，为了救助被困的矿工，朱雀和姬塔等人下了兰斯洛特进入矿道之中。然而余震使得地面崩塌，姬塔和露莉亚掉到了矿道的地下。朱雀也跟着跳下了矿道，护住了两人。一行人互相确认了平安无事，便开始寻找出口。
+1,,<span class='scene-font-katari'>魔物達を殲滅した後、鉱員から</span><br><span class='scene-font-katari'>逃げ遅れた人々がいることを聞いた</span><br><span class='scene-font-katari'>姬塔一行。</span>,<span class='scene-font-katari'>歼灭魔物后，姬塔一行人</span><br><span class='scene-font-katari'>听矿工说，还有别的</span><br><span class='scene-font-katari'>来不及逃出的人。</span>
+2,,<span class='scene-font-katari'>坑道に侵入できないランスロットを</span><br><span class='scene-font-katari'>鉱員に預け、一行は人々の救助へと</span><br><span class='scene-font-katari'>向かった。</span>,<span class='scene-font-katari'>将无法进入矿道的兰斯洛特</span><br><span class='scene-font-katari'>交由矿工看管，一行人</span><br><span class='scene-font-katari'>前往救助被困之人。</span>
+3,坑道の魔物/矿道的魔物,グゥゥゥゥ……！,咕哦哦哦哦……！
+5,鉱員１/矿工,た、助かった……！,救、救命……！
+6,ルリア/露莉亚,皆さん、怪我はありませんか？,大家，没有受伤吧？
+7,鉱員２/矿工,あ、ああ。<br>アンタ達が来てくれたおかげで、<br>なんとか……,啊、是啊。<br>多亏你们前来相助，<br>总算是得救了……
+9,ビィ/碧,うわっ！？<br>また地震か！？,呜啊！？<br>又地震了！？
+10,スザク/朱雀,皆、急いで！<br>また大きな揺れが来る前に！,大家，赶快！<br>趁下一个大余震来之前！
+11,ルリア/露莉亚,は、はい！,是，是的！
+12,,<span class='scene-font-katari'>魔物に足止めされていた鉱員達を</span><br><span class='scene-font-katari'>助け出し、出口へと急ぐ一行。</span>,<span class='scene-font-katari'>救出被魔物截住的矿工们，</span><br><span class='scene-font-katari'>急急赶往出口的一行人。</span>
+18,ビィ/碧,見えて来たぜ！<br>出口だ！,看到了！<br>是出口！
+21,スザク/朱雀,これは……！,这是……！
+22,,<span class='scene-font-katari'>出口まであと少しという所で、</span><br><span class='scene-font-katari'>一際大きな揺れが襲う。</span>,<span class='scene-font-katari'>就当出口近在眼前之时，</span><br><span class='scene-font-katari'>又一波巨大的余震袭来。</span>
+24,ルリア/露莉亚,きゃあっ！,呀啊啊！
+24-sel1_txt,,<span class='scene-font-katari'>ルリア！</span>,<span class='scene-font-katari'>露莉亚！</span>
+26,,<span class='scene-font-katari'>揺れで足元が崩れ、</span><br><span class='scene-font-katari'>バランスを崩したルリアを</span><br><span class='scene-font-katari'>引き寄せる姬塔。</span>,<span class='scene-font-katari'>因余震脚下一个不稳，</span><br><span class='scene-font-katari'>露莉亚的身体失去了平衡，</span><br><span class='scene-font-katari'>被姬塔扶住。</span>
+27,,<span class='scene-font-katari'>しかし、同時に姬塔の</span><br><span class='scene-font-katari'>足元が崩れ、ふたりは崖の下へと</span><br><span class='scene-font-katari'>落下してしまう。</span>,<span class='scene-font-katari'>但同时，姬塔脚下的</span><br><span class='scene-font-katari'>地面崩塌，两人就这样</span><br><span class='scene-font-katari'>掉了下去。</span>
+28,スザク/朱雀,姬塔、ルリア！,姬塔、露莉亚！
+30,,<span class='scene-font-katari'>それを見たスザクは、</span><br><span class='scene-font-katari'>ふたりを追って</span><br><span class='scene-font-katari'>自ら崖の下へと飛び込んだ。</span>,<span class='scene-font-katari'>见状，朱雀也</span><br><span class='scene-font-katari'>追着两人</span><br><span class='scene-font-katari'>跳了下去。</span>
+31,ルリア/露莉亚,スザクさん！？<br>どうして……！,朱雀！？<br>为什么……！
+32,スザク/朱雀,絶対に離さないで！<br>いいね！？,绝对不要松手！<br>知道了吗！？
+33,,<span class='scene-font-katari'>ふたりをしっかりと抱えたスザクは、</span><br><span class='scene-font-katari'>降り注ぐ岩の上を飛び移りながら</span><br><span class='scene-font-katari'>坑道の地下へと落ちていく。</span>,<span class='scene-font-katari'>紧紧抱住两人的朱雀，</span><br><span class='scene-font-katari'>在落下的岩石间辗转跳跃，</span><br><span class='scene-font-katari'>降到了矿道的地下。</span>
+39,,<span class='scene-font-katari'>やがて、一行が辿り着いたのは</span><br><span class='scene-font-katari'>坑道の地下に存在する</span><br><span class='scene-font-katari'>広い空間だった。</span>,<span class='scene-font-katari'>最终，一行人来到的是</span><br><span class='scene-font-katari'>在矿道地下存在的</span><br><span class='scene-font-katari'>广阔的空间。</span>
+40,スザク/朱雀,う……,唔……
+41,,<span class='scene-font-katari'>ふたりを地面へと降ろしたスザクは、</span><br><span class='scene-font-katari'>よろめきそのまま膝を着いてしまう。</span>,<span class='scene-font-katari'>朱雀将两人放下后，</span><br><span class='scene-font-katari'>便一个踉跄地跪下。</span>
+42,,<span class='scene-font-katari'>落下しながらも、降り注ぐ岩から</span><br><span class='scene-font-katari'>ルリアと姬塔を庇ったせいか、</span><br><span class='scene-font-katari'>服には血がいくつか滲んでいた。</span>,<span class='scene-font-katari'>因为一边落下，一边保护露莉亚和姬塔</span><br><span class='scene-font-katari'>不被掉下的岩石砸到，</span><br><span class='scene-font-katari'>从他的衣服下渗出了血液。</span>
+43,ルリア/露莉亚,ごめんなさい、<br>私達を庇ったせいで……,对不起，<br>都是因为要保护我们……
+44,スザク/朱雀,大丈夫、気にしないで。<br>ただのかすり傷だから。,没关系，不要在意。<br>不过是擦伤而已。
+45,スザク/朱雀,それよりも、<br>君達に怪我はないかい？,比起这个，<br>你们有受伤吗？
+46,ルリア/露莉亚,はい！<br>スザクさんのおかげです。,没有！<br>多亏了朱雀你。
+46-sel1_txt,,<span class='scene-font-katari'>助かった</span>,<span class='scene-font-katari'>得救了</span>
+46-sel2_txt,,<span class='scene-font-katari'>ダメかと思った</span>,<span class='scene-font-katari'>我以为要不行了</span>
+47,ルリア/露莉亚,スザクさんがいなかったら、<br>私達、ぺしゃんこになってました……,如果朱雀你不在的话，<br>我们就要被砸扁了……
+48,スザク/朱雀,まさか、足場が崩れるなんてね。<br>地震で地盤自体が<br>脆くなっているのかもしれない。,真没想到脚下的地面会崩塌。<br>或许是因为地震<br>地盘变得脆弱了。
+49,ルリア/露莉亚,うう……<br>私が足を滑らせたから……,呜呜……<br>都怪我踩空了……
+50,スザク/朱雀,仕方ないさ。<br>足場が崩れるなんて思わなかったしね。,没办法。<br>谁都没想到脚下会崩塌。
+51,スザク/朱雀,とにかく、ふたりが無事で<br>本当に良かった。,总之，你们两个都没事<br>真是太好了。
+52,,<span class='scene-font-katari'>微笑むスザクを見て、</span><br><span class='scene-font-katari'>ルリアと姬塔もつられるように</span><br><span class='scene-font-katari'>笑みを浮かべる。</span>,<span class='scene-font-katari'>看着微笑的朱雀，</span><br><span class='scene-font-katari'>露莉亚和姬塔也被带着</span><br><span class='scene-font-katari'>笑了起来。</span>
+53,スザク/朱雀,さて……<br>それじゃ、出口を探そうか。,好了……<br>那我们去找出口吧。
+54,スザク/朱雀,上の坑道よりはしっかりしている<br>みたいだけど、ここもいつ崩れるか<br>分からないし。,虽然这里的地盘看起来<br>比上面的矿道结实，<br>但也不知道这里什么时候也会不会崩塌。
+55,,<span class='scene-font-katari'>周囲を見渡したスザクは、</span><br><span class='scene-font-katari'>ふと、どこからか風の流れを感じ</span><br><span class='scene-font-katari'>一点を見つめる。</span>,<span class='scene-font-katari'>环视了周围的朱雀</span><br><span class='scene-font-katari'>突然感觉到从哪里有风吹来，</span><br><span class='scene-font-katari'>便紧紧地盯着那一处。</span>
+56,スザク/朱雀,あそこから風が吹いてきている……<br>もしかしたら、<br>外に繋がっているかも知れない。,从那里有风吹来……<br>或许，<br>从那里可以通到外面。
+57,ルリア/露莉亚,本当ですか！？<br>行ってみましょう！,真的吗！？<br>那我们走走看吧！
+58,スザク/朱雀,ああ。<br>ただ、また魔物が出てくるかも<br>しれないから用心して。,啊啊。<br>只是说不定还会有魔物出来，<br>要小心。
+59,ルリア/露莉亚,はい！,是的！
+60,,<span class='scene-font-katari'>こうして、姬塔一行は</span><br><span class='scene-font-katari'>出口を探すべく、風の流れを頼りに</span><br><span class='scene-font-katari'>奥へと進んでいくのだった。</span>,<span class='scene-font-katari'>就这样，姬塔一行人</span><br><span class='scene-font-katari'>为了寻找出口，循着风流动的方向</span><br><span class='scene-font-katari'>向地下深处走去。</span>
+info,,,scene_chr546_q2_s10
+译者,,,

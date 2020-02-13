@@ -1,0 +1,24 @@
+id,name,text,trans
+0-chapter_name,,四天刃の覚醒,四天刃的觉醒
+0-synopsis,,姬塔との一騎打ちをした日から、以前にも増して力を求めるようになったカトルは一人で過ごす時間が増えていた。そんな中、カトルは姬塔が持つ天星器・四天刃に語りかけられる。四天刃は、カトルに自分の使い手となる資格があると告げ、さらに自分に相応しい力の持ち主か試すため、問答無用でカトルに襲い掛かるのだった。,在与姬塔决斗之后，卡托尔比起以前更追求强大的力量，一个人独处的时间也增加了。这时，姬塔所持有的天星器·四天刃向卡托尔搭话了。四天刃对卡托尔说他有资格成为它的使用者，为了测试他是否是有能力持有它的人，不由分说地袭击了卡托尔。
+0,,<span class='scene-font-katari'>姬塔との一騎打ちに</span><br><span class='scene-font-katari'>敗れたカトルは、以前にも増して</span><br><span class='scene-font-katari'>一人で過ごすことが多くなった。</span>,<span class='scene-font-katari'>卡托尔在与姬塔的决斗败北以来，</span><br><span class='scene-font-katari'>一个人独处的时间变多了。</span>
+1,カトル/卡托尔,<span class='scene-font-kokoro'>（強さの本質を知るために、</span><br><span class='scene-font-kokoro'>姬塔の騎空団に</span><br><span class='scene-font-kokoro'>入ったが……）</span>,<span class='scene-font-kokoro'>（虽然我是为了知晓强大的本质而加入姬塔的骑空团的……）</span>
+2,カトル/卡托尔,<span class='scene-font-kokoro'>（僕は未だに姬塔に</span><br><span class='scene-font-kokoro'>敵わない……）</span>,<span class='scene-font-kokoro'>（可如今我依然敌不过姬塔……）</span>
+3,カトル/卡托尔,<span class='scene-font-kokoro'>（僕は、仲間達と過ごすうちに</span><br><span class='scene-font-kokoro'>弱くなってしまったのか？）</span>,<span class='scene-font-kokoro'>（和同伴们一起度过的时间，让我变弱了吗？）</span>
+9,,<span class='scene-font-katari'>その日も、一人で黙々と</span><br><span class='scene-font-katari'>鍛錬を続けているカトル。</span>,<span class='scene-font-katari'>这天，卡托尔也一个人默默地继续着自己的训练。</span>
+10,カトル/卡托尔,<span class='scene-font-kokoro'>（このままじゃダメだ……</span><br><span class='scene-font-kokoro'>もっと……もっとだ……）</span>,<span class='scene-font-kokoro'>（继续这样下去可不行……我想要更多……更多……）</span>
+11,カトル/卡托尔,<span class='scene-font-kokoro'>（もっと……</span><br><span class='scene-font-kokoro'>力が欲しい！）</span>,<span class='scene-font-kokoro'>（更多……更多的力量！）</span>
+13,？？？,<span class='scene-font-gray'>……い……メェ……</span>,<span class='scene-font-gray'>……喂……你……</span>
+14,カトル/卡托尔,っ！？<br>誰だっ！,！？<br>是谁！
+21,,<span class='scene-font-katari'>カトルが慌てて声の元に</span><br><span class='scene-font-katari'>駆け付けると、そこには</span><br><span class='scene-font-spword'>四天刃</span><span class='scene-font-katari'>が横たわっていた。</span>,<span class='scene-font-katari'>卡托尔慌张地跑向声音的源头，发现<span class='scene-font-spword'>四天刃</span>横躺在那里。</span>
+23,四天刃,<span class='scene-font-gray'>……おいそこのテメェ、</span><br><span class='scene-font-gray'>……力が欲しくねぇか？</span>,<span class='scene-font-gray'>……喂，站在那边的你……你想要力量吗？</span>
+24,カトル/卡托尔,これは……<br><span class='scene-font-spword'>四天刃</span>の声！？</span>,这是……<span class='scene-font-spword'>四天刃</span>的声音！？</span>
+26,四天刃,<span class='scene-font-gray'>ああ……テメェの心に</span><br><span class='scene-font-gray'>直接語りかけてんだよ……</span>,<span class='scene-font-gray'>是的……我直接在和你的内心对话……</span>
+27,四天刃,<span class='scene-font-gray'>いいかよく聞け……</span><br><span class='scene-font-gray'>テメェには資格がある……</span>,<span class='scene-font-gray'>你给我听好了……</span><br><span class='scene-font-gray'>你是有资格的人……</span>
+28,カトル/卡托尔,資格……だと？,资格……？
+30,四天刃,<span class='scene-font-gray'>そうだ……</span><br><span class='scene-font-gray'>オレの使い手となる資格だよ。</span>,<span class='scene-font-gray'>是的……</span><br><span class='scene-font-gray'>成为我的使用者的资格。</span>
+31,四天刃,<span class='scene-font-gray'>テメェがオレの使い手に</span><br><span class='scene-font-gray'>相応しいか今から試してやるよ！</span>,<span class='scene-font-gray'>我现在就来试试你到底适不适合成为我的使用者！</span>
+32,カトル/卡托尔,ちっ……コイツ！<br>有無を言わさずやる気か！,嘁……这家伙！<br>不由分说地就打过来了吗！
+33,カトル/卡托尔,いいだろう……<br>かかってきやがれ！,好吧……<br>放马过来！
+info,,,scene_ult_chr121_q3_s10
+译者,,,sora_vicki

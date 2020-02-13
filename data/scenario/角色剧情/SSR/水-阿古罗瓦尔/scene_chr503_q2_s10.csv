@@ -1,0 +1,86 @@
+id,name,text,trans
+0-chapter_name,,辣腕と剛腕,辣腕と剛腕
+0-synopsis,,数日後、とある依頼でウェールズにやって来ていた姬塔一行。活気に満ちた街を歩く中、パーシヴァルはウェールズ城の西の方から漂う火薬の臭いに気が付き、急ぎ向かう。そこでは作業員の男達が、かつて幽世の鍵と戦い崩落した地下空間を掘り起こしていた。作業はほぼ完了しており、一行は急ぎ地下空間へと向かうのだった。,几天后、因为某个委托来到威尔士的姬塔一行人。漫步在充满活力的街道上、帕西瓦尔注意到威尔士城西边飘来的火药的味道，急忙赶过去。在那里，工作的男人们，挖掘着以前与幽世之匙作战崩落的地下空间。听说作业基本完成，一行人急忙赶往地下空间。
+2,,<span class='scene-font-katari'>それから幾日が経った頃──</span>,<span class='scene-font-katari'>从那之后过了一段时间──</span>
+3,,<span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>依頼された積み荷を届けに</span><br><span class='scene-font-katari'>ウェールズへとやって来ていた。</span>,<span class='scene-font-katari'>姬塔一行人、</span><br><span class='scene-font-katari'>为了运送被委托的货物</span><br><span class='scene-font-katari'>来到了威尔士。</span>
+4,,<span class='scene-font-katari'>以前に訪れた時と同様、</span><br><span class='scene-font-katari'>市場は多くの人々で溢れ、</span><br><span class='scene-font-katari'>活気に満ちている。</span>,<span class='scene-font-katari'>和之前来访时一样</span><br><span class='scene-font-katari'>市场上人山人海</span><br><span class='scene-font-katari'>充满了活力。</span>
+6,ビィ/碧,ふぃ～<br>相変わらず、賑わってんなぁ。,呼～<br>还是老样子、那么热闹啊。
+7,パーシヴァル/帕西瓦尔,ふむ……<br>我々のように荷運びの依頼を受けた<br>騎空団も多いようだ。,嗯……<br>也有不少像我们一样<br>接受了运货委托的骑空团。
+8,パーシヴァル/帕西瓦尔,兄上の施策によって、<br>俺達まで忙しくなるとはな。,因为兄长大人的政策<br>我们也忙得不可开交啊。
+9,ビィ/碧,へへっ、確かにそうだな！,嘿嘿、确实呢！
+10,ルリア/露莉亚,あの……早く荷物を運んで、<br>お昼ご飯を食べに行きませんか？,那个……赶紧把货物送过去、<br>然后去吃早饭吧？
+12,,<span class='scene-font-katari'>そう提案したルリアのお腹が鳴ると、</span><br><span class='scene-font-katari'>姬塔達は</span><br><span class='scene-font-katari'>朗らかな笑い声をあげる。</span>,<span class='scene-font-katari'>如此提案到的露莉亚的肚子叫了起来、</span><br><span class='scene-font-katari'>姬塔们</span><br><span class='scene-font-katari'>都发出了爽朗的笑声。</span>
+13,ルリア/露莉亚,えへへ……,诶嘿嘿……
+14,ビィ/碧,よぉーし！<br>ルリアの為にも、<br>とっとと荷物を運んじまおうぜ！,好——！<br>为了露莉亚、<br>赶紧吧货物送过去吧！
+15,,<span class='scene-font-katari'>姬塔一行が意気揚々と</span><br><span class='scene-font-katari'>荷車を引き始めたその時、</span><br><span class='scene-font-katari'>パーシヴァルは異臭に気付く。</span>,<span class='scene-font-katari'>姬塔一行人正意气风发的</span><br><span class='scene-font-katari'>拉起货车的时候、</span><br><span class='scene-font-katari'>帕西瓦尔察觉到了一股异味。</span>
+16,,<span class='scene-font-katari'>それは、</span><br><span class='scene-font-katari'>ウェールズ城の西の方から</span><br><span class='scene-font-katari'>風に乗って届いたようで──</span>,<span class='scene-font-katari'>那是、</span><br><span class='scene-font-katari'>从威尔士城西边吹来的风传来的————</span>
+17,パーシヴァル/帕西瓦尔,<span class='scene-font-kokoro'>（これは……火薬の臭い、か……？）</span>,<span class='scene-font-kokoro'>（这是……火药的味道……？）</span>
+18,ビィ/碧,ん？<br>トサカの兄ちゃん、どうかしたのか？,嗯？<br>鸡冠头的小哥、怎么了吗？
+19,パーシヴァル/帕西瓦尔,少し調べたいことができた。<br>悪いが積み荷は任せるぞ。,我有想稍微调查一下的事。<br>抱歉运货就拜托你们了。
+21,ビィ/碧,あ、おい！<br>どこに行くんだよ！？,喂、喂！<br>你要去哪啊！？
+22,ルリア/露莉亚,何かあったんでしょうか……<br>姬塔、どうしましょう？,发生了什么吗……<br>姬塔、怎么办？
+22-sel1_txt,,<span class='scene-font-katari'>追いかけよう！</span>,<span class='scene-font-katari'>追上去！</span>
+22-sel2_txt,,<span class='scene-font-katari'>お腹が空いたのかな？</span>,<span class='scene-font-katari'>肚子饿了吧？</span>
+23,ビィ/碧,トサカの兄ちゃんのことだ。<br>絶対何かあるに決まってるもんな！,因为是鸡冠头的小哥。<br>所以绝对发生了什么事！
+24,ルリア/露莉亚,パーシヴァルさん、<br>いいお店でも見つけたんでしょうか？,帕西瓦尔先生、<br>是发现了不错的店吗？
+25,ビィ/碧,おいおい、んなわけねーだろ！,喂喂、怎么可能啊！
+26,ビィ/碧,急に真面目な顔して走り出したんだ。<br>絶対何かあるに決まってるぜ！,突然一脸认真的跑出去。<br>绝对发生了什么！
+27,,<span class='scene-font-katari'>姬塔達は、近くの商店に</span><br><span class='scene-font-katari'>荷物を置かせてもらうと、すぐさま</span><br><span class='scene-font-katari'>パーシヴァルの後を追うのだった。</span>,<span class='scene-font-katari'>姬塔一行人把货物</span><br><span class='scene-font-katari'>放在了附近的商店，然后立刻</span><br><span class='scene-font-katari'>追上了帕西瓦尔。</span>
+33,パーシヴァル/帕西瓦尔,…………,…………
+34,,<span class='scene-font-katari'>風に乗って来た火薬の臭いを手掛かりに</span><br><span class='scene-font-katari'>パーシヴァルは、ウェールズ城の</span><br><span class='scene-font-katari'>西の城壁付近に辿り着いた。</span>,<span class='scene-font-katari'>顺着随风传来的火药味</span><br><span class='scene-font-katari'>帕西瓦尔来到了</span><br><span class='scene-font-katari'>威尔士城的西边的城墙附近。</span>
+35,,<span class='scene-font-katari'>そこには広大な草原が</span><br><span class='scene-font-katari'>広がっているだけで、</span><br><span class='scene-font-katari'>特に何の気配も感じられない。</span>,<span class='scene-font-katari'>那里只有广阔的草原</span><br><span class='scene-font-katari'并不能察觉到什么特别的气息。</span>
+36,パーシヴァル/帕西瓦尔,<span class='scene-font-kokoro'>（気のせいならば、いいのだが……）</span>,<span class='scene-font-kokoro'>（如果是错觉就好了……）</span>
+37,パーシヴァル/帕西瓦尔,ん？,唔？
+38,,<span class='scene-font-katari'>周辺を探っていたパーシヴァルは</span><br><span class='scene-font-katari'>草原の一部に大きな穴が</span><br><span class='scene-font-katari'>掘られていることに気づく。</span>,<span class='scene-font-katari'>探索着周边的帕西瓦尔</span><br><span class='scene-font-katari'>发现了草原的一角被挖了个大洞</span>
+39,,<span class='scene-font-katari'>その穴は、大人が容易に入れるほど</span><br><span class='scene-font-katari'>広々としており、足元にある梯子は</span><br><span class='scene-font-katari'>奥深くへと続いているのが見える。</span>,<span class='scene-font-katari'>那个洞穴大到足以轻松容纳成年人</span><br><span class='scene-font-katari'>在脚边的梯子一直延伸向深处</span>
+40,パーシヴァル/帕西瓦尔,<span class='scene-font-kokoro'>（ふむ、火薬の匂いはここからか。</span><br><span class='scene-font-kokoro'>だが、この穴は一体……）</span>,<span class='scene-font-kokoro'>（嗯、火药的味道就是从这里来的。</span><br><span class='scene-font-kokoro'>但是、这个洞穴到底……）</span>
+41,,<span class='scene-font-katari'>パーシヴァルが</span><br><span class='scene-font-katari'>大きな穴に侵入しようとすると、</span><br><span class='scene-font-katari'>背後から声が響く。</span>,<span class='scene-font-katari'>正当帕西瓦尔</span><br><span class='scene-font-katari'>打算进入洞穴时、</span><br><span class='scene-font-katari'>背后传来的了声音。</span>
+43,ルリア/露莉亚,パーシヴァルさーん！,帕西瓦尔先生——！
+44,パーシヴァル/帕西瓦尔,家臣共か……,是家臣们啊……
+45,ビィ/碧,何かあったのか？<br>急に走りだすから心配しちまったぜ……,发生了什么吗？<br>你突然跑出去我们很担心……
+46,パーシヴァル/帕西瓦尔,すまない。<br>どうにも気になってしまったのでな。,抱歉，<br>因为十分在意。
+47,,<span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>パーシヴァルが見据える</span><br><span class='scene-font-katari'>大きな穴の中を覗き込む。</span>,<span class='scene-font-katari'>姬塔他们、</span><br><span class='scene-font-katari'>窥探着帕西瓦尔凝视的洞穴。</span>
+48,ルリア/露莉亚,あの……<br>この穴はどこかに繋がってるんですか？,那个……<br>这个洞穴连着哪里吗？
+49,パーシヴァル/帕西瓦尔,わからん……だが、<br>ここから火薬の臭いがしたものでな……,不知道……但是、<br>从这里传来了火药的味道……
+50,ビィ/碧,さっきの場所から匂いを感じたのか？<br>へぇ、鼻が利くんだな。,你在刚刚那里就闻到了吗？<br>诶、你鼻子挺灵的啊。
+51,ビィ/碧,いつもカリアゲの兄ちゃんのことを<br>駄犬って呼んでるけどよ、<br>トサカの兄ちゃんの方がよっぽど──,明明一直叫寸头的小哥狗狗来着<br>但是鸡冠头的小哥好像更合适————
+52,パーシヴァル/帕西瓦尔,…………,…………
+53,ビィ/碧,は、はは……<br>なんでもねぇって！,哈、哈哈……<br>我什么都没说！
+53-sel1_txt,,<span class='scene-font-katari'>降りてみよう</span>,<span class='scene-font-katari'>下去看看吧</span>
+54,パーシヴァル/帕西瓦尔,ああ。<br>では、俺から行かせてもらおう。,嗯。<br>那么让我先下去吧。
+55,,<span class='scene-font-katari'>こうして姬塔一行は、</span><br><span class='scene-font-katari'>足元の梯子を使い、</span><br><span class='scene-font-katari'>穴の中を降りて行くのだった。</span>,<span class='scene-font-katari'>然后姬塔一行人、</span><br><span class='scene-font-katari'>顺着脚边的梯子、</span><br><span class='scene-font-katari'>下到了洞穴中。</span>
+61,,<span class='scene-font-katari'>穴の底に降り立った一行は、</span><br><span class='scene-font-katari'>そこから続く横道に松明の灯りが</span><br><span class='scene-font-katari'>ともっていることに気づく。</span>,<span class='scene-font-katari'>下到洞底的一行人、</span><br><span class='scene-font-katari'>注意到</span><br><span class='scene-font-katari'>延伸的走到上点燃着火把。</span>
+62,ルリア/露莉亚,灯りがついてますけど、<br>誰もいませんね……,明明点着灯、<br>却谁都不在呢……
+63,ビィ/碧,なあ、ここは一体なんなんだ？,这里到底是？
+64,パーシヴァル/帕西瓦尔,さぁな……<br>何故、このような場所に<br>坑道が掘られたのかわからん。,谁知道……<br>为什么、在这样的地方<br>会挖掘坑道。
+65,パーシヴァル/帕西瓦尔,だが、奥に進めば自ずと答えは出よう。,但是，向深处进发的话自会得到答案吧。
+66,,<span class='scene-font-katari'>その時、穴の奥から騒がしい話声が</span><br><span class='scene-font-katari'>聞こえたかと思うと、</span><br><span class='scene-font-katari'>土埃にまみれた男達が姿を現した。</span>,<span class='scene-font-katari'>这时，从洞穴的深处听见了</span><br><span class='scene-font-katari'>吵闹的谈话声、</span><br><span class='scene-font-katari'>然后便看见了沾满尘土的男人们。</span>
+69,作業員１/工人１,<span class='scene-font-4'>わっ！</span>,<span class='scene-font-4'>啊！</span>
+70,ビィ/碧,<span class='scene-font-4'>うわああっ！</span>,<span class='scene-font-4'呜哇哇哇！</span>
+71,作業員１/工人１,な、なんだいアンタ達は？,你、你们是谁？
+72,ビィ/碧,びっくりさせんなよ。<br>それはこっちの台詞だぜ……,别吓人啊。<br>那是我们的台词……
+73,パーシヴァル/帕西瓦尔,我々は騎空団の者だ。<br>たまたま、城の近くに<br>大きな穴を見つけたので、ついな。,我们是骑空团的人。<br>偶然在城边<br>发现了巨大的洞穴，所以就。
+74,パーシヴァル/帕西瓦尔,それで……<br>お主らはここで何をしていたのだ？,然后……<br>你们在这儿干什么？
+75,作業員１/工人１,あ～……<br>ちょっとそいつは……,啊～……<br>稍微有点……
+76,ビィ/碧,おい、<br>別に隠さなくたっていいじゃねーか。,喂、<br>不用特意隐瞒也没事吧。
+77,ビィ/碧,オイラ達は<br>身内みてぇーなもんなんだからよぉ。,我们也是<br>相关人员哦。
+78,作業員１/工人１,身内ぃ？,相关人员？
+79,作業員２/工人２,……あ！<br>あなた様はもしや、パーシヴァル様！？,……啊！<br>您难道是、帕西瓦尔大人！？
+80,作業員１/工人１,え？　パーシヴァル？,诶？　帕西瓦尔？
+81,作業員２/工人２,あ、すいやせん！<br>こいつ、<br>ここに来てまだ日が浅いもんで……,啊、十分抱歉！<br>这家伙、<br>才来到这里不久……
+82,パーシヴァル/帕西瓦尔,そんなことは気にするな。<br>で……何をやっていたのだ？,不用在意。<br>所以……你们到底在做什么？
+83,作業員２/工人２,実は、崩落していた地下空間を<br>掘り起こそうってんで、<br>火薬を使ったり掘削したりと……へい。,其实是打算发掘<br>崩塌的地下空间、<br>现在在用火药挖掘…………
+84,パーシヴァル/帕西瓦尔,地下空間を掘り起こす……だと？,发掘地下空间……？
+85,ルリア/露莉亚,パーシヴァルさん、もしかして！,帕西瓦尔先生、难道说！
+86,パーシヴァル/帕西瓦尔,ああ……恐らく、<br>幽世の鍵と戦ったあの場所だ。,嗯……恐怕就是、<br>与幽世之匙所战斗的地方。
+87,ビィ/碧,なぁなぁ、<br>その地下空間だけどよ、<br>どこまで掘り起こしたんだ？,呐呐、<br>这个地下空间、<br>已经挖掘到什么地方了？
+88,作業員２/工人２,今朝方、邪魔な岩を爆破したんで、<br>残るは後片付けだけでして……,今早爆破了碍事的岩石、<br>剩下的只有善后工作……
+89,パーシヴァル/帕西瓦尔,…………,…………
+90,パーシヴァル/帕西瓦尔,<span class='scene-font-kokoro'>（兄上が同じ過ちを犯すなど、</span><br><span class='scene-font-kokoro'>考えられん。他に何か目的が……）</span>,<span class='scene-font-kokoro'>（我不认为兄长大人会犯同样的错误、</span><br><span class='scene-font-kokoro'>有什么其他的目的……）</span>
+90-sel1_txt,,<span class='scene-font-katari'>考えてる場合じゃない</span>,<span class='scene-font-katari'>现在不是犹豫的时候</span>
+92,パーシヴァル/帕西瓦尔,姬塔……<br>確かにその通りだ。<br>続け、家臣共！,姬塔……<br>确实如此。<br>前进吧、家臣们！
+93,ルリア/露莉亚,おー！,噢ー！
+94,ビィ/碧,おうよ！,噢！
+95,,<span class='scene-font-katari'>こうして、姬塔に</span><br><span class='scene-font-katari'>背中を押されたパーシヴァルは、</span><br><span class='scene-font-katari'>先陣を切り、坑道の奥へ進むのだった。</span>,<span class='scene-font-katari'>然后、被姬塔</span><br><span class='scene-font-katari'>推了一把的帕西瓦尔打头阵、</span><br><span class='scene-font-katari'>继向着坑道的深处前进。</span>
+info,,,scene_chr503_q2_s10
+译者,,,

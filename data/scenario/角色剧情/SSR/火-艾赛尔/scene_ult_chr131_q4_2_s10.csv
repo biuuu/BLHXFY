@@ -1,0 +1,18 @@
+id,name,text,trans
+0-chapter_name,,君に眠りを、私に銃を,给我手铳，赐你永眠
+0-synopsis,,弟妹達を守る力を得るため十狼雷を手にし、正気を失ったエッセル。フュンフはエッセルの身に何が起きているのか知らずに、星屑の街へ遊びにやって来る。今後、星屑の街を守るのを手伝うと言ってくれる友人・フュンフに対しても、エッセルは銃を向け「十天衆を全員倒せば、私が最強になれる」と襲い掛かるのだった。,艾瑟尔为了得到保护弟妹们的力量，拿起十狼雷失去了理智。芬芙还不知道艾瑟尔身上发生了什么，然后来到星屑之街游玩。对表示今后会帮忙一起保护星屑之街的友人·芬芙，艾瑟尔举起了枪，说着“打倒所有十天众我就能成为最强”袭向了她。
+0,,<span class='scene-font-spword'>十狼雷</span><span class='scene-font-katari'>を手に</span><br><span class='scene-font-katari'>双子の弟カトルと</span><br><span class='scene-font-katari'>一戦交えたエッセル。</span>,<span class='scene-font-katari'>艾瑟尔拿着</span><span class='scene-font-spword'>十狼雷</span><span class='scene-font-katari'>与双胞胎弟弟卡托尔打了一场。</span>
+1,,<span class='scene-font-katari'>そんなことがあったとは露知らず、</span><br><span class='scene-font-katari'>フュンフはエッセルに会うため</span><br><span class='scene-font-katari'>彼女を探していた。</span>,<span class='scene-font-katari'>还不知道发生了这样的事的芬芙为了与她见面正在寻找她。</span>
+3,フュンフ/芬芙,……あっ！　いたいた～！<br>やっほーエッセル～！<br>暇だったら遊ぼうよ～！,……啊！　有了有了～！<br>呀——吼——艾瑟尔～！<br>很闲的话来陪我玩吧～！
+4,エッセル/艾瑟尔,…………,…………
+5,フュンフ/芬芙,あ～……やっぱ暗～い顔してる……<br>あのさ、星屑の街の子達から聞いたけど<br>元気出して？,啊～……脸色果然很阴沉……<br>那个啊，事情我从星屑之街的孩子那里都听说了，打起精神来？
+6,フュンフ/芬芙,街が襲われたのは、<br>襲ってきたヤツが悪いんだよ！<br>次はあちしも街守るの手伝うし……,街道被袭击，都是袭击者是错！<br>下次我也会来帮忙守街的……
+8,フュンフ/芬芙,えっ！？<br>あ、あれ？　今のエッセル！？<br>ななななんで！？,诶！？<br>啊、啊勒？　刚刚那是艾瑟尔做的！？<br>为为为为什么！？
+9,エッセル/艾瑟尔,……十天衆を、全員倒せば……<br>私が最強になれる。,……将十天众，全员打到的话……<br>我就会成为最强。
+10,エッセル/艾瑟尔,倒す……全部、全部……！！<br>私が倒して、<br>あの子達を……守る……！！,打倒……全部、全部……！！<br>我来打倒，保护……那些孩子们……！！
+11,フュンフ/芬芙,エエエエッセル～！？<br>本当どうしちゃったの、ねえ！？,艾艾艾艾瑟尔～！？<br>你到底怎么了啊！？
+12,エッセル/艾瑟尔,…………！,…………！
+14,フュンフ/芬芙,わ～ん！？<br>何がなんだかわけ解んないよぉ！！,啊！？<br>到底发生了什么根本搞不懂啊！！
+15,,<span class='scene-font-katari'>混乱するフュンフに構わず、</span><br><span class='scene-font-katari'>エッセルは</span><span class='scene-font-spword'>十狼雷</span><span class='scene-font-katari'>を片手に</span><br><span class='scene-font-katari'>友人へ襲いかかった。</span>,<span class='scene-font-katari'>不管还在混乱的芬芙，艾瑟尔单手拿着</span><span class='scene-font-spword'>十狼雷</span>><span class='scene-font-katari'>袭向了友人。</span>
+info,,,scene_ult_chr131_q4_2_s10
+译者,,,

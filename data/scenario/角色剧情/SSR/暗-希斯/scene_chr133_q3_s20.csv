@@ -1,32 +1,32 @@
 id,name,text,trans
-0-chapter_name,,残されたメッセージ,被留下的讯息
-0-synopsis,,盗賊達を追い払った姬塔一行はシスが探す騎空士の日記を見つける。日記を読み始めたシスは、自ら手にかけた父親が実は、己の未来を想っていたことを知る。取り返しのつかないことをしてしまったと自責するシスを、一行は力強く励ます。仲間の信頼を強く感じたシスは敬愛する騎空士が待つ空の果てへ、一行と共に旅立つのだった。,赶走了盗贼的姬塔一行人发现了希斯寻找的骑空士的日记。读了日记的希斯，得知了自己亲手杀死的父亲，其实在为希斯的未来着想。希斯因为自己做了无法回头的事而感到自责，一行人坚定地鼓励了他。和同伴的信赖关系加深了的希斯，向着敬爱的骑空士所等待着的天空之彼方，与一行人共同踏上路途。
-0,,<span class='scene-font-katari'>──無事</span><br><span class='scene-font-katari'>盗賊たちを追い払った姬塔達。</span>,<span class='scene-font-katari'>──顺利</span><br><span class='scene-font-katari'>赶走了盗贼们的姬塔一行。</span>
-1,,<span class='scene-font-katari'>騎空士の手がかりを求め</span><br><span class='scene-font-katari'>探索を続ける一行は、樹の洞に残された</span><br><span class='scene-font-katari'>古い日記を見つけるのだった──</span>,<span class='scene-font-katari'>寻找着骑空士的线索</span><br><span class='scene-font-katari'>继续着搜索的一行人，在树洞里</span><br><span class='scene-font-katari'>发现了被留下来的陈旧的日记本──</span>
-2,ビィ/碧,ごくり……こいつぁ紛れもねぇ<br>探してた手がかりじゃねぇか！？,吓我一跳……这个确实是<br>我们在找的线索对吧！？
-3,ルリア/露莉亚,はい……きっと騎空士さんが<br>シスさんに残したものに<br>違いありません！,嗯……肯定是那位骑空士<br>特意留给希斯的！
+0-chapter_name,,残されたメッセージ,遗留的信息
+0-synopsis,,盗賊達を追い払った姬塔一行はシスが探す騎空士の日記を見つける。日記を読み始めたシスは、自ら手にかけた父親が実は、己の未来を想っていたことを知る。取り返しのつかないことをしてしまったと自責するシスを、一行は力強く励ます。仲間の信頼を強く感じたシスは敬愛する騎空士が待つ空の果てへ、一行と共に旅立つのだった。,赶走了盗贼的姬塔一行人发现了希斯寻找的骑空士的日记。读了日记的希斯，得知了自己亲手杀死的父亲，其实在为希斯的未来着想。希斯因为自己做了无法回头的事而感到自责，一行人坚定地鼓励了他。深切感受到了同伴的信赖的希斯，向着敬爱的骑空士所等待着的天空尽头，与一行人共同踏上路途。
+0,,<span class='scene-font-katari'>──無事</span><br><span class='scene-font-katari'>盗賊たちを追い払った姬塔達。</span>,<span class='scene-font-katari'>──姬塔一行顺利赶走了盗贼们。</span>
+1,,<span class='scene-font-katari'>騎空士の手がかりを求め</span><br><span class='scene-font-katari'>探索を続ける一行は、樹の洞に残された</span><br><span class='scene-font-katari'>古い日記を見つけるのだった──</span>,<span class='scene-font-katari'>一行人寻找着骑空士的线索继续着搜索的，最后发现了被留在树洞里的陈旧的日记本──</span>
+2,ビィ/碧,ごくり……こいつぁ紛れもねぇ<br>探してた手がかりじゃねぇか！？,（咽口水）……<br>这个确实是我们在找的线索对吧！？
+3,ルリア/露莉亚,はい……きっと騎空士さんが<br>シスさんに残したものに<br>違いありません！,嗯……<br>肯定是那位骑空士特意留给希斯的！
 4,ビィ/碧,なぁなぁ、開いてみろよ！<br>何が書いてあるんだ？,呐呐，打开看看吧！<br>写着什么呢？
 5,シス/希斯,…………,…………
-6,,<span class='scene-font-katari'>シスは手にした日記を慎重に開き</span><br><span class='scene-font-katari'>静かに読み始める──</span>,<span class='scene-font-katari'>希斯慎重地打开了手上的日记</span><br><span class='scene-font-katari'>静静地开始阅读──</span>
-7,ビィ/碧,なぁ、黙って読んでちゃ<br>分かんねぇだろぉ。<br>オイラ達にも聞かせてくれよ。,喂，你不吭声就这么看着的话<br>我们都不知道有什么啊。<br>也告诉我们嘛。
-8,ルリア/露莉亚,しぃ……！<br>ビィさん、今はそっとしておいて<br>あげましょう。ね！,嘘……！<br>碧，现在就安静的<br>让希斯读吧。好吗！
-10,,<span class='scene-font-katari'>日記には思いもよらない事実が</span><br><span class='scene-font-katari'>記されていた──</span>,<span class='scene-font-katari'>日记上记载着</span><br><span class='scene-font-katari'>意想不到的事实──</span>
-11,,<span class='scene-font-katari'>シスの桁外れな能力を巡り、</span><br><span class='scene-font-katari'>一族内で起きた対立は──</span>,<span class='scene-font-katari'>围绕着希斯这破格的能力，</span><br><span class='scene-font-katari'>一族内部引发的对立──</span>
-12,,<span class='scene-font-katari'>反勢力により</span><br><span class='scene-font-katari'>当主であるシスの父親もろとも、</span><br><span class='scene-font-katari'>シスを亡き者にしようとしていた。</span>,<span class='scene-font-katari'>因为反对势力的行动</span><br><span class='scene-font-katari'>作为首领的希斯的父亲也一同</span><br><span class='scene-font-katari'>被希斯杀死了。</span>
-13,,<span class='scene-font-katari'>それにより、一族が滅びる事を</span><br><span class='scene-font-katari'>予期した父親は、天涯孤独となるだろう</span><br><span class='scene-font-katari'>息子の未来を憂い──</span>,<span class='scene-font-katari'>因此，早就预料到一族会毁灭的</span><br><span class='scene-font-katari'>希斯的父亲，担忧儿子的未来</span><br><span class='scene-font-katari'>将会是终生的孤独──</span>
-14,,<span class='scene-font-katari'>親交の深かった騎空士へ</span><br><span class='scene-font-katari'>息子の未来を託したのだった──</span>,<span class='scene-font-katari'>所以把儿子托付给了</span><br><span class='scene-font-katari'>与自己交情密切的骑空士──</span>
-16,シス/希斯,俺は……取り返しのつかない事を<br>してしまったのだな……,我……做下了<br>无法挽回的事啊……
-17,シス/希斯,唯一の肉親を手にかけ<br>自ら未来を手放していたとは……<br>クク……とんだ笑い草だ。,杀害了唯一的亲人<br>放弃了自己的未来……<br>呵呵……真是一个笑话啊。
-18,シス/希斯,安寧を手に入れようなど<br>あまりに身の丈を超えた<br>望みだった……,想要获得安宁什么的<br>原来都是超过我所能及的<br>渴望啊……
+6,,<span class='scene-font-katari'>シスは手にした日記を慎重に開き</span><br><span class='scene-font-katari'>静かに読み始める──</span>,<span class='scene-font-katari'>希斯慎重地打开了手上的日记，静静地开始阅读──</span>
+7,ビィ/碧,なぁ、黙って読んでちゃ<br>分かんねぇだろぉ。<br>オイラ達にも聞かせてくれよ。,喂，<br>你不吭声就这么看着的话我们都不知道有什么啊。<br>也告诉我们嘛。
+8,ルリア/露莉亚,しぃ……！<br>ビィさん、今はそっとしておいて<br>あげましょう。ね！,嘘……！<br>碧，现在就安静地让希斯读吧。好吗！
+10,,<span class='scene-font-katari'>日記には思いもよらない事実が</span><br><span class='scene-font-katari'>記されていた──</span>,<span class='scene-font-katari'>日记上记载着意想不到的事实──</span>
+11,,<span class='scene-font-katari'>シスの桁外れな能力を巡り、</span><br><span class='scene-font-katari'>一族内で起きた対立は──</span>,<span class='scene-font-katari'>围绕着希斯破格的能力，而引发的一族内部对立──</span>
+12,,<span class='scene-font-katari'>反勢力により</span><br><span class='scene-font-katari'>当主であるシスの父親もろとも、</span><br><span class='scene-font-katari'>シスを亡き者にしようとしていた。</span>,<span class='scene-font-katari'>反对势力准备将希斯，以及身为首领的希斯的父亲一起杀死。</span>
+13,,<span class='scene-font-katari'>それにより、一族が滅びる事を</span><br><span class='scene-font-katari'>予期した父親は、天涯孤独となるだろう</span><br><span class='scene-font-katari'>息子の未来を憂い──</span>,<span class='scene-font-katari'>由此预料到一族会毁灭的希斯父亲，担忧儿子的未来将会是终生的孤独──</span>
+14,,<span class='scene-font-katari'>親交の深かった騎空士へ</span><br><span class='scene-font-katari'>息子の未来を託したのだった──</span>,<span class='scene-font-katari'>所以把儿子的未来托付给了与自己交情密切的骑空士──</span>
+16,シス/希斯,俺は……取り返しのつかない事を<br>してしまったのだな……,我……<br>做下了无法挽回的事啊……
+17,シス/希斯,唯一の肉親を手にかけ<br>自ら未来を手放していたとは……<br>クク……とんだ笑い草だ。,杀害了唯一的亲人放弃了自己的未来……<br>呵呵……真是一个笑话啊。
+18,シス/希斯,安寧を手に入れようなど<br>あまりに身の丈を超えた<br>望みだった……,想要获得安宁这个愿望原来是远超我能力的事情……
 19,ルリア/露莉亚,シスさん……,希斯……
 20,シス/希斯,お前達との旅もここまでだ。<br>これ以上、俺に関わるな。,和你们一起的旅程就到此结束了。<br>不要再，和我扯上关系了。
-21,シス/希斯,俺は自らの咎を背負い<br>この地に留まる……<br>さあ、もう行け。,我会背负着我的罪过<br>留在这片土地……<br>快，你们已经可以走了。
+21,シス/希斯,俺は自らの咎を背負い<br>この地に留まる……<br>さあ、もう行け。,我会背负着我的罪过留在这片土地……<br>你们走吧。
 22,ルリア/露莉亚,……えい！,……嘿！
 24,シス/希斯,な……っ！<br>うぅ、な、なに？,什……！<br>呜呜，什，什么？
-25,ルリア/露莉亚,こんな仮面なんかしてるから<br>いけないんです！,因为你不能够再<br>戴着这个面具了！
-26,ルリア/露莉亚,仮面で本心まで隠しちゃうなんて<br>そんなの仲間として見過ごせません！,用面具掩藏自己的真心什么的<br>作为同伴这种事绝不能置之不理！
+25,ルリア/露莉亚,こんな仮面なんかしてるから<br>いけないんです！,是你戴着这个面具不好！
+26,ルリア/露莉亚,仮面で本心まで隠しちゃうなんて<br>そんなの仲間として見過ごせません！,用面具掩藏自己的真心，<br>作为同伴这种事绝不能置之不理！
 27,シス/希斯,…………！,…………！
-28,ビィ/碧,そうだぜ！　仮面の下じゃ<br>そんな辛そうな顔してるってのに<br>放っておけるかってんだ！,对啊！　明明面具之下<br>你的表情是那么的痛苦<br>决不能够放着你不管！
+28,ビィ/碧,そうだぜ！　仮面の下じゃ<br>そんな辛そうな顔してるってのに<br>放っておけるかってんだ！,对啊！<br>明明面具之下你的表情是那么的痛苦，<br>我们怎么能放着你不管！
 29,シス/希斯,……ぅ、お前、たち……,……呜，你，们……
 29-sel1_txt,,<span class='scene-font-katari'>そんなに頼りない？</span>,<span class='scene-font-katari'>我就这么不可靠？</span>
 29-sel2_txt,,<span class='scene-font-katari'>その咎、共に背負おう！</span>,<span class='scene-font-katari'>一起承担那份罪过吧！</span>
@@ -34,22 +34,22 @@ id,name,text,trans
 31,シス/希斯,…………！,…………！
 32,ルリア/露莉亚,あれ？　この日記……<br>後ろにもなんか書いてあります！,诶？　这本日记……<br>最后还写着什么！
 33,ビィ/碧,なんて書いてあるんだ？,写了什么啊？
-34,ルリア/露莉亚,えっと……,那个……
-35,,<span class='scene-font-katari'>日記に記されていたのは</span><br><span class='scene-font-katari'>シスへのメッセージ──</span>,<span class='scene-font-katari'>日记上记载的是</span><br><span class='scene-font-katari'>给希斯的讯息──</span>
-36,,<span class='scene-font-katari'>やがて信頼できる誰かに出会ったとき、</span><br><span class='scene-font-katari'>仲間から得た大切なものを手放すな──</span><br><span class='scene-font-katari'>と、日記は締めくくられていた。</span>,<span class='scene-font-katari'>等到遇见了能够相信的人</span><br><span class='scene-font-katari'>不要放弃从伙伴那里获得的重要之物──</span><br><span class='scene-font-katari'>日记最后如此总结道。</span>
+34,ルリア/露莉亚,えっと……,嗯……
+35,,<span class='scene-font-katari'>日記に記されていたのは</span><br><span class='scene-font-katari'>シスへのメッセージ──</span>,<span class='scene-font-katari'>日记上记载的是给希斯的讯息──</span>
+36,,<span class='scene-font-katari'>やがて信頼できる誰かに出会ったとき、</span><br><span class='scene-font-katari'>仲間から得た大切なものを手放すな──</span><br><span class='scene-font-katari'>と、日記は締めくくられていた。</span>,<span class='scene-font-katari'>将来遇见了能够相信的人的时候，不要放弃从伙伴那里获得的重要之物──</span><br><span class='scene-font-katari'>日记最后如此总结道。</span>
 37,シス/希斯,…………こ、れは……,…………这，是……
-38,ビィ/碧,なんだぁ！？<br>まるで今日の出来事を<br>知ってたみてぇな書き方だぜ。,怎么会！？<br>简直就像知道了现在发生了的事<br>而写下的话语啊。
-39,ルリア/露莉亚,ねぇ、シスさん！<br>騎空士さんもシスさんの幸せを<br>願ってるって事だと思いませんか？,呐，希斯！<br>你不觉得那位骑空士也<br>盼望着希斯你能幸福吗？
-40,シス/希斯,…………俺、は……,…………我，我……
-41,ルリア/露莉亚,私達と行きましょう！<br>それで、いつか騎空士さんに再会したら<br>言ってあげてください！,和我们一起走吧！<br>然后，总有一天和那位骑空士再会的话<br>请这么告诉他！
+38,ビィ/碧,なんだぁ！？<br>まるで今日の出来事を<br>知ってたみてぇな書き方だぜ。,怎么会！？<br>这写法简直就像知道了现在发生的事啊。
+39,ルリア/露莉亚,ねぇ、シスさん！<br>騎空士さんもシスさんの幸せを<br>願ってるって事だと思いませんか？,呐，希斯！<br>你不觉得那位骑空士也盼望着希斯你能幸福吗？
+40,シス/希斯,…………俺、は……,…………我……
+41,ルリア/露莉亚,私達と行きましょう！<br>それで、いつか騎空士さんに再会したら<br>言ってあげてください！,和我们一起走吧！<br>然后，有一天和那位骑空士再会的话请这么告诉他！
 42,ルリア/露莉亚,信頼できる仲間ができたって！<br>ね、姬塔！,说我已经交到了值得信赖的伙伴了！<br>对吧，姬塔！
 43,シス/希斯,ぅ……ん。<br>…………あ、ありがとう……,呜……嗯。<br>…………谢，谢谢……
-44,ビィ/碧,ん？　どうした、姬塔。<br>騎空士の日記に<br>なにか気になる事でも書いてあるのか？,嗯？　怎么了，姬塔。<br>骑空士的日记里<br>写了什么让你在意的事吗？
+44,ビィ/碧,ん？　どうした、姬塔。<br>騎空士の日記に<br>なにか気になる事でも書いてあるのか？,嗯？　怎么了，姬塔。<br>骑空士的日记里写了什么让你在意的事吗？
 44-sel1_txt,,<span class='scene-font-katari'>日記の文字に見覚えが……</span>,<span class='scene-font-katari'>我好像看过这个字迹……</span>
 44-sel2_txt,,<span class='scene-font-katari'>財宝の手がかりを探してる！</span>,<span class='scene-font-katari'>在寻找财宝的线索！</span>
-45,ビィ/碧,うーん……オイラには分からねぇけど<br>思い出せたら重要な手がかりに<br>なりそうだな！,呜ー嗯……我也不是很明白<br>如果想得起来的话<br>好像会是重要的线索呢！
-46,ビィ/碧,シスのためにも、早く騎空士を<br>見つけてやんねぇとな！,也为了希斯，要赶紧<br>找到那个骑空士呢！
+45,ビィ/碧,うーん……オイラには分からねぇけど<br>思い出せたら重要な手がかりに<br>なりそうだな！,呜ー嗯……我是看不出来，<br>如果想得起来的话好像会是重要的线索呢！
+46,ビィ/碧,シスのためにも、早く騎空士を<br>見つけてやんねぇとな！,也为了希斯，要赶紧找到那个骑空士！
 47,ビィ/碧,そ、そうだぜ！<br>すっかり忘れてた！,对，对啊！<br>完全忘记了！
-48,ビィ/碧,それじゃさっそく、宝探しの開始だぜ！<br><span class='scene-font-place'>カルムの郷</span>に詳しいシスが一緒なら<br>すぐに見つけられるかもな！,那么赶紧的，开始寻宝吧！<br>跟对<span class='scene-font-place'>卡尔姆之乡</span>相当熟悉的希斯在一起<br>很快就能找到的吧！
-49,,<span class='scene-font-katari'>──こうして、仲間としての絆を深め</span><br><span class='scene-font-katari'>騎空士の待つ、空の果てを目指し</span><br><span class='scene-font-katari'>シスは再び故郷を旅立つのだった。</span>,<span class='scene-font-katari'>──就这样，与同伴之间加深了羁绊</span><br><span class='scene-font-katari'>以骑空士等候着的，天空之彼方为目标</span><br><span class='scene-font-katari'>希斯再次离开故乡踏上旅途。</span>
+48,ビィ/碧,それじゃさっそく、宝探しの開始だぜ！<br><span class='scene-font-place'>カルムの郷</span>に詳しいシスが一緒なら<br>すぐに見つけられるかもな！,那么赶紧的，开始寻宝吧！<br>跟对<span class='scene-font-place'>卡尔姆之乡</span>相当熟悉的希斯在一起.很快就能找到的吧！
+49,,<span class='scene-font-katari'>──こうして、仲間としての絆を深め</span><br><span class='scene-font-katari'>騎空士の待つ、空の果てを目指し</span><br><span class='scene-font-katari'>シスは再び故郷を旅立つのだった。</span>,<span class='scene-font-katari'>──就这样，希斯加深了与同伴之间牵绊，以骑空士等候着的天空的尽头为目标，再次离开故乡踏上旅途。</span>
 info,,,scene_chr133_q3_s20

@@ -1,0 +1,19 @@
+id,name,text,trans
+0-chapter_name,,遙か、孤高を望む,期待着，遥远的孤高
+0-synopsis,,十天衆全員との手合せを終えたウーノは、一伐槍を返すため、姬塔達の許へ帰還する。 姬塔達から強さについての答えが見つかったのかを問われ、ウーノは強さに対する定義や心構えが示唆に富み興味深かったと話す。ウーノは十天衆との戦いで得た答えを語り合うため、姬塔に挑むのだった。,结束了与十天众全员的战斗，乌诺为了归还一伐枪，回到了姬塔他们身边。姬塔他们问乌诺是否找到了强大的答案，乌诺说那些对强大的定义和心得都很含义丰富，他更加感兴趣了。乌诺为了交流与十天众战斗后得到的答案，提出要和姬塔战斗。
+0,,<span class='scene-font-katari'>十天衆全員との手合わせを経て、</span><br><span class='scene-font-katari'>ウーノはついに開眼した。</span>,<span class='scene-font-katari'>经过与十天众全员的战斗，乌诺终于领悟了。</span>
+1,,<span class='scene-font-katari'>そして、</span><span class='scene-font-spword'>一伐槍</span><span class='scene-font-katari'>を返すべく、</span><br><span class='scene-font-katari'>姬塔の許ヘ帰ってきた。</span>,<span class='scene-font-katari'>然后，为了归还</span><span class='scene-font-spword'>一伐枪</span><span class='scene-font-katari'>，回到了姬塔他们的身边。</span>
+4,ルリア/露莉亚,ウーノさん、お帰りなさい。,乌诺，欢迎回来。
+5,ビィ/碧,へへ、姬塔から聞いたんだ。<br>きっと、強さについての答えを<br>探しに行ってたんだろうってな……,嘿嘿，从姬塔那听说了。说你肯定是去寻找关于强大的答案了吧……
+6,ルリア/露莉亚,それで、どうでした？<br>何かつかめましたか？,然后呢，怎么样了？有抓住什么吗？
+7,,<span class='scene-font-katari'>ウーノは満面の笑みで応える。</span>,<span class='scene-font-katari'>乌诺用满脸的笑容作为回应。</span>
+8,ウーノ/乌诺,ふむ、強さに対する定義や心構えは<br>それぞれであったが……<br>どれも示唆に富んでいて興味深かった。,呼姆，对于强大的定义和心得都是各种各样的……哪个都很含义丰富很感兴趣呢。
+9,ウーノ/乌诺,強さは一つではないということ。<br>それを再度確認することで、<br>漸く君と同じ所に立てた気がするよ。,强大并不只有一种。我通过再次确认这件事，终于感觉和你站到同个地方了。
+10,ビィ/碧,え、姬塔と同じ所って……？,诶，和姬塔同样的地方是指……？
+11,ウーノ/乌诺,そう、是非とも君には<br>聞いてもらいたくてね。,是的，务必请你听一听啊。
+12,ウーノ/乌诺,私が得た、答えを……,听一听，我得到的答案……
+20,,<span class='scene-font-katari'>ウーノのただならぬ覚悟と気迫に</span><br><span class='scene-font-katari'>姬塔は圧倒される。</span>,<span class='scene-font-katari'>姬塔被乌诺那不同寻常的觉悟和气势压倒了。</span>
+21,,<span class='scene-font-katari'>しかしすぐにその真意を察して、</span><br><span class='scene-font-katari'>姬塔も得物を構えると</span><br><span class='scene-font-katari'>強い心でこれに応じた。</span>,<span class='scene-font-katari'>但是立刻察觉了他的真意，姬塔也拔出武器，以强大的心去回应他。</span>
+22,ウーノ/乌诺,さあ、これで最後だ。<br>強さとは何か……<br>最後に君と、存分に語り合おう。,那么，这就是最后了。强大究竟是何物……就让我在最后，好好和你说说吧。
+info,,,scene_ult_chr137_q4_10_s10
+译者,,,

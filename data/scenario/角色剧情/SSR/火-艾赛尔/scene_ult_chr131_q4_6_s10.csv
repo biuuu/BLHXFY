@@ -1,0 +1,12 @@
+id,name,text,trans
+0-chapter_name,,君に眠りを、私に銃を,给我手铳，赐你永眠
+0-synopsis,,弟妹達を守る力を得るため、十狼雷を手にし、正気を失ったエッセル。そんなエッセルの前にサラーサが姿を現す。「シエテに暴れてこい、って言われたぞ！」と、サラーサは意気揚々とエッセルに勝負を挑むのだった。,艾瑟尔为了得到保护弟妹们的力量，拿起十狼雷，失去了理智。然后萨拉萨出现在了艾瑟尔面前。萨拉萨对艾瑟尔说到“希耶提对我说去大闹一场！”然后意气风发地与艾瑟尔一决胜负。
+0,,<span class='scene-font-spword'>十狼雷</span><span class='scene-font-katari'>に心を奪われ</span><br><span class='scene-font-katari'>最強の座を求め</span><br><span class='scene-font-katari'>十天衆との戦いを続けるエッセル。</span>,<span class='scene-font-katari'>艾瑟尔被</span><span class='scene-font-spword'>十狼雷</span><span class='scene-font-katari'>夺取了心智，为追求最强而不断与十天众战斗。</span>
+1,,<span class='scene-font-katari'>そんな彼女の元に、</span><br><span class='scene-font-katari'>サラーサは自ら姿を現した。</span>,<span class='scene-font-katari'>在她的面前，萨拉萨自己现身了。</span>
+2,サラーサ/萨拉萨,みつけたぞ、エッセル！,找到你了、艾瑟尔！
+3,エッセル/艾瑟尔,……サラーサ。<br>探したよ。,……萨拉萨。<br>我在找你。
+4,サラーサ/萨拉萨,あれ、そうだったのか？<br>ま、いいか！　会えたし！,啊、是这样吗？<br>嘛、算了！　反正见到了！
+5,サラーサ/萨拉萨,シエテにお前のところで<br>暴れてこい、って言われたぞ！<br>えーと、アシドメってやつだ！,希耶提叫我去你那大闹一场！<br>那个，也就是拖延时间！
+6,サラーサ/萨拉萨,なんかそういうことらしいから、<br>めいっぱい暴れてやる！,反正好像就是这样，就让我大闹一场吧！
+info,,,scene_ult_chr131_q4_6_s10
+译者,,,

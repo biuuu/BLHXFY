@@ -1,0 +1,66 @@
+id,name,text,trans
+0-synopsis,,リュミエール聖騎士団遊撃部隊に属するコーデリアは、団長であるシャルロッテの正義審問の密命を受けていた。一方グランサイファーでは、バウタオーダがブリジールに剣の稽古をつけていたが、バウタオーダは、シャルロッテの元気がないことに頭を悩ませていると言う。同じ頃、街中で子供たちに炊き出ししていた人物が、懐かしの顔に会いにその場を後にするのだった。,从属卢米埃圣骑士团游击部队的科莉迪亚接受了密令，要对夏洛特实行正义审问。另一边在格兰赛法上，鲍特欧达和布里吉尔在进行剑术练习。鲍特欧达说一直在烦恼夏洛特没有精神的事。同一时间，为街上的孩子们做饭的某人，也为了去见某个熟人而离开了。
+2,？？？,…………,……
+9,,<span class='scene-font-katari'>神聖にして厳粛な空気満ちる聖講堂に、</span><br><span class='scene-font-katari'>凜とした声が響き渡る。</span>,<span class='scene-font-katari'>充满了神圣和肃穆感的圣讲堂之中，回响着凛然的声音。</span>
+10,遊撃部隊団員,部隊長殿より下されし<br>密命を読み上げる。心して聞かれよ。,现在开始宣读部队长阁下直接下达的密令，请牢记于心。
+11,遊撃部隊団員,近頃、リュミエール聖騎士団を<br>軽々に退団する者が多い。とりわけ、<br>団長の失踪は誠に由々しき事態である。,最近，肆意从卢米埃圣骑士团退出的人日益增多，其中，团长的失踪一事尤为不妙。
+12,遊撃部隊団員,斯くは誉れ高き栄光の聖騎士団の<br>規律を乱し、偉大なる聖王猊下の<br>歴史と御名を汚さん！,如此行为实乃扰乱光荣的圣骑士团之律法，令伟大的圣王阁下之名蒙羞！
+13,遊撃部隊団員,汝、裏切り者を探し出し、<br>即時、正義審問を執行されたし！,现命你找出叛徒，即刻执行正义审问！
+14,？？？,ハッ、我が身と剣は尊き御心に、<br>全ては正義の為に……,是，吾身吾剑皆循圣心，所行所为皆为正义……
+20,？？？,<span class='scene-font-kokoro'>（ハーヴィン種特有の、戦いに圧倒的に</span><br><span class='scene-font-kokoro'>不向きな体躯をものともせず、種族差を</span><br><span class='scene-font-kokoro'>覆すほどの剣技とカリスマ……）</span>,<span class='scene-font-kokoro'>跨越了哈文族那特有的对战斗压倒性不利的体型，颠覆了种族之间差距的剑技和领袖气质……</span>
+21,？？？,<span class='scene-font-kokoro'>（誰もが認める</span><br><span class='scene-font-kokoro'>リュミエール聖騎士団歴代最強の長、</span><br><span class='scene-font-kokoro'>シャルロッテ・フェニヤ……）</span>,<span class='scene-font-kokoro'>被所有人承认的卢米埃圣骑士团历代最强领导者，夏洛特·菲妮娅……</span>
+22,？？？,<span class='scene-font-kokoro'>（私の記憶する限り、此度の正義審問、</span><br><span class='scene-font-kokoro'>斯くも辛い任務はないだろう……）</span>,<span class='scene-font-kokoro'>在我的记忆中，恐怕没有哪个任务要比这次的正义审问更加艰难了吧……</span>
+30,ブリジール,<span class='scene-font-4'>やぁ！</span><br>はぁ……はぅ……,<span class='scene-font-4'>呀！</span>哈……呼……
+31,バウタオーダ/鲍特欧达,どうしました？<br>剣先が下がっていますよ。<br>ほら、もう１振り。,怎么了？剑尖都垂下来了哦。来，再来一次。
+32,ブリジール,は、はいです……！<br><span class='scene-font-4'>たぁぁっ！</span>,好，好的……！<span class='scene-font-4'>呀啊啊！</span>
+34,バウタオーダ/鲍特欧达,そうです、<br>その意気ですよ。,就是这样，就是这股气势。
+37,,<span class='scene-font-katari'>彼は、元リュミエール聖騎士団部隊長の</span><br><span class='scene-font-katari'>バウタオーダ。</span>,<span class='scene-font-katari'>他是原卢米埃圣骑士团的队长，鲍特欧达。</span>
+38,,<span class='scene-font-katari'>帝国軍に追われていた姬塔達を</span><br><span class='scene-font-katari'>守る為に、リュミエール聖騎士団を</span><br><span class='scene-font-katari'>抜けた過去を持つ。</span>,<span class='scene-font-katari'>他过去曾为了保护被帝国军追捕的姬塔他们，而退出了卢米埃圣骑士团。</span>
+39,,<span class='scene-font-katari'>性格は勤勉そのものであり、</span><br><span class='scene-font-katari'>正義のために生き、</span><br><span class='scene-font-katari'>聖人と称されるほどの人格者である。</span>,<span class='scene-font-katari'>他性格勤勉，生性正义，简直可以称得上是圣人。</span>
+40,,<span class='scene-font-katari'>退団後も「清く、正しく、高潔に」</span><br><span class='scene-font-katari'>というリュミエール聖騎士団の</span><br><span class='scene-font-katari'>モットーを誰よりも実践しており──</span>,<span class='scene-font-katari'>即使退团后也依旧恪守卢米埃圣骑士团那「清廉，正义，高洁」的信条——</span>
+41,,<span class='scene-font-katari'>リュミエール聖騎士団を退団したのも</span><br><span class='scene-font-katari'>己の正義を貫く為に必要だったと</span><br><span class='scene-font-katari'>迷いなく告げる意志の強さを持つ。</span>,<span class='scene-font-katari'>他有着坚定的信念，毫无犹豫地称退出卢米埃圣骑士团是为了贯彻自己正义的必要行为。</span>
+42,,<span class='scene-font-katari'>現在は、姬塔の騎空団に</span><br><span class='scene-font-katari'>所属しており、日々、正義のために</span><br><span class='scene-font-katari'>その剣を振っている。</span>,<span class='scene-font-katari'>现在他隶属于姬塔的骑空团，为了正义而挥舞他的刀锋。</span>
+43,ブリジール,や、やるです！<br>自分はとことんやるですよ……！<br>えいっ！,继，继续！在下要全力全开的做……！欸！
+46,,<span class='scene-font-katari'>彼女は、</span><br><span class='scene-font-katari'>元リュミエール聖騎士団員ブリジール。</span>,<span class='scene-font-katari'>她是原卢米埃骑士团团员，布里吉尔。</span>
+47,,<span class='scene-font-katari'>リュミエール聖騎士団のモットーに</span><br><span class='scene-font-katari'>強く共感し、一日十善を心掛けて</span><br><span class='scene-font-katari'>毎日を正しく生きている。</span>,<span class='scene-font-katari'>她对卢米埃圣骑士团的信条深有同感，怀着日行十善的想法每天都正义地活着。</span>
+48,,<span class='scene-font-katari'>種族の限界を超え聖騎士団の団長に</span><br><span class='scene-font-katari'>なったシャルロッテを尊敬し</span><br><span class='scene-font-katari'>憧れを抱いているが──</span>,<span class='scene-font-katari'>她很尊敬跨越了种族极限的圣骑士团团长夏洛特，对她怀有憧憬——</span>
+49,,<span class='scene-font-katari'>未熟さ故に空回りする事も多く、</span><br><span class='scene-font-katari'>さらに強くなるために聖騎士団を抜け、</span><br><span class='scene-font-katari'>姬塔の騎空団に入団した。</span>,<span class='scene-font-katari'>因为不够成熟经常白忙活，为了变得更强离开了圣骑士团，加入了姬塔的骑空团。</span>
+50,バウタオーダ/鲍特欧达,ここが踏ん張りどころですよ。<br>さぁ、打ち込んで。,这里要咬牙坚持下去。来，用力挥下去。
+51,ブリジール,はぁ……はぁ……<br>い、いくです……！,哈……哈……要，要上了……！
+52,ブリジール,<span class='scene-font-4'>やぁぁぁ！！</span>,<span class='scene-font-4'>呀啊啊啊！！</span>
+54,ブリジール,もぅ……無理です……<br>とこ、とん……無理、です……,已经……不行了……全力，全开的……不行了……
+55,バウタオーダ/鲍特欧达,ふむ、３０回ぴったりですね。<br>まぁ、少しずつではありますが、<br>回数が増えているのは成長の証です。,嗯，整整30次呢。嘛，虽然只有一点点，次数的增加也证明你成长了呢。
+56,バウタオーダ/鲍特欧达,明日もこの調子で。<br>もう今日は終わりにいたしましょう。,明天也要保持这个感觉，今天就先到这里吧。
+57,ブリジール,は、はぃ～……,是~……
+58,ブリジール,とことん<br>ありがとうございましたです……！,全力全开地感谢您的指导……！
+59,,<span class='scene-font-katari'>バウタオーダに剣の稽古を</span><br><span class='scene-font-katari'>つけてもらっていたブリジール。</span>,<span class='scene-font-katari'>布里吉尔拜托鲍特欧达对她进行剑术指导。</span>
+60,,<span class='scene-font-katari'>彼女にとっては過酷な特訓が終わり、</span><br><span class='scene-font-katari'>ブリジールは力尽き、</span><br><span class='scene-font-katari'>地に伏せるように倒れ込んだ。</span>,<span class='scene-font-katari'>结束了对她来说显得很艰辛的特训，耗尽了力气的布里吉尔整个人躺倒在地上。</span>
+61,バウタオーダ/鲍特欧达,ふふ。<br>よく休むのも鍛錬のうちです。<br>今日はゆっくり体を休めてください。,呵呵，好好休息也是锻炼的一环啊。今天就悠闲的放松一下身体吧。
+62,バウタオーダ/鲍特欧达,ところで……<br>シャルロッテ団長と<br>お話は出来たんですか？,话说回来……你和夏洛特团长说上话了吗？
+63,ブリジール,ま、まだです……！<br>まだ自分はとことん未熟ですから<br>あの人とお話なんてとことん無理です！,还，还没有……！在下仍然还是全力全开的不成熟，和那位搭话什么的实在是全力全开地做不到！
+64,ブリジール,自分はシャルロッテ団長殿に憧れて<br>リュミエール聖騎士団に入団したですが<br>こんな未熟なままじゃ会えませんです。,在下是憧憬夏洛特团长才加入卢米埃圣骑士团的，可不能以这幅不成熟的样子去见她啊。
+65,バウタオーダ/鲍特欧达,同じ艇に居るというのに、<br>なんだかややこしいですね。,明明大家都在一艘船上，却搞得这么复杂啊。
+66,ブリジール,とことんお役に立てる日が来るまで<br>自分はとことん特訓するです！<br>それまでとことん我慢です！,直到全力全开派上用场的那天到来之前，在下都会全力全开地特训！到那之前都会全力全开地忍耐的！
+67,バウタオーダ/鲍特欧达,役に？　そういう事ならば、<br>今が絶好の機会やもしれませんよ。,派上用场？如果是这样的话，现在刚好有一个绝佳的机会噢。
+68,ブリジール,それはどういうことですか？,是什么事呢？
+69,,<span class='scene-font-katari'>ブリジールの問いかけに</span><br><span class='scene-font-katari'>バウタオーダは困った様に</span><br><span class='scene-font-katari'>眉尻を下げた。</span>,<span class='scene-font-katari'>被布里吉尔询问的鲍特欧达皱起了眉毛，一副困扰的样子。</span>
+70,バウタオーダ/鲍特欧达,シャルロッテ団長は、<br>ご自身を追いつめすぎた余り、<br>元気を失くしてしまっているんです。,夏洛特团长她把自己逼的太紧了，看上去没什么精神的样子。
+71,ブリジール,そうなのですか！<br>あのシャルロッテ団長殿が？,是这样吗！那位夏洛特团长居然也会？
+72,バウタオーダ/鲍特欧达,なんとか、元気を取り戻して<br>頂きたいのですが、<br>あの方は頑固なところがありますから。,虽说是想让她提起精神，但那位在某些事上也挺顽固的。
+73,バウタオーダ/鲍特欧达,一度決めたことを、容易に<br>曲げる事が出来ない様でして……,一旦决定了某件事，就绝不会随便改变……
+74,バウタオーダ/鲍特欧达,どうしたらよいかと<br>困っていたところなんです。,到底该怎么办呢，这真让人棘手啊。
+75,ブリジール,それほどまでに……！<br>何がシャルロッテ団長殿を<br>とことん追い込んだですか？,竟然到了这个地步……！到底是什么东西全力全开的把夏洛特团长逼成这个样子呢？
+76,バウタオーダ/鲍特欧达,実は──,实际上——
+82,子供１/孩子１,おじいちゃん、<br>ごちそうさまー！,爷爷！多谢款待——！
+83,子供２/孩子２,おじいちゃんのごはん<br>とってもおいしかった！<br>どうもありがとう。,爷爷做的饭好好吃！真的非常感谢！
+84,？？？,左様ですか。それは望外の喜びです。<br>さあ、では元気に遊んでおいでなさい。,如此甚好，真是令人格外开心啊。好了，快精神地去玩耍吧。
+85,子供１/孩子１,あぁ、行こうぜ！,嗯，快走吧！
+87,子供２/孩子２,あぁ、待ってよ～！,啊，等等我啊~
+90,？？？,ふふふ……,哈哈哈……
+91,？？？,今日はお日柄が大変よろしく、<br>絶好の行楽日和でございますね。,今天也是个适合出游玩耍的绝佳日子呢。
+92,,<span class='scene-font-katari'>この島での“ゲリラ炊き出し”を終え</span><br><span class='scene-font-katari'>陽だまりの中、満腹になった子供たちの</span><br><span class='scene-font-katari'>幸せそうな笑顔を眺めている老人。</span>,<span class='scene-font-katari'>在洒落的阳光之下，结束了在岛中摆摊野炊的工作，老人怀着幸福的微笑远远地眺望着吃饱的孩子们。</span>
+93,？？？,早くあの顔を拝見したいものです。<br>ご健在であられると良いのですが……,真想早点去拜见那位啊。要是身体健康的话就好了……
+94,？？？,さて、思案しても詮無きこと。<br>急ぐと致しましょう……,那么，想这些也没什么意义，还是尽早动身吧。
+96,,<span class='scene-font-katari'>調理器具を瞬く間に仕舞い込むと、</span><br><span class='scene-font-katari'>老人は、懐かしの顔に会いに、</span><br><span class='scene-font-katari'>ゆっくりとその場を立ち去るのだった。</span>,<span class='scene-font-katari'>瞬间将厨具收拾干净后，老人为了与旧识相见，慢悠悠地离开了。</span>
+info,,,scene_evt170531_cp0_q1_s10
+译者,,,
