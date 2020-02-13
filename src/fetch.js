@@ -136,15 +136,16 @@ let getHash = () => {
           config.hash = data.hash
           insertCSS('BLHXFY')
         }
-        if (true || fetchInfo.result) {
+        if (fetchInfo.result) {
           beforeStart(fetchInfo.data)
           rev(fetchInfo.data.hash)
         } else {
-          fetchData('/blhxfy/manifest.json').then(data => {
-            beforeStart(data)
-            fetchInfo.data = data
-            rev(data.hash)
-          })
+          rej('加载manifest.json失败')
+          // fetchData('/blhxfy/manifest.json').then(data => {
+          //   beforeStart(data)
+          //   fetchInfo.data = data
+          //   rev(data.hash)
+          // })
         }
       }).catch(rej)
     } else {
