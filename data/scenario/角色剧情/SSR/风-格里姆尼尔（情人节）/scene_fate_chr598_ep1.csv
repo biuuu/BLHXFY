@@ -1,0 +1,63 @@
+id,name,text,trans
+0-chapter_name,,チョコに狂う暴風,为巧克力而狂的暴风
+0-synopsis,,バレンタインも目前に迫ったとある日、街に買い出しに向かった姬塔達とグリームニル。バレンタインについて話すうち、グリームニルは姬塔が誰にチョコを送るのかが気になってしまう。買い出しを終えた姬塔達が騎空艇に戻ろうとすると、グリームニルは突然「用事を思い出した」と言い、ルリアとビィを伴って街中へ戻っていくのだった。,情人节将近的某天，姬塔她们和格里姆尼尔一起出门购物。在聊着情人节的事的时候，格里姆尼尔在意起姬塔会给谁送巧克力。结束购物的姬塔她们要回骑空艇的时候，格里姆尼尔突然说「想起有要事要办」，于是和露莉亚、碧一起回到街上。
+1,,<span class='scene-font-katari'>バレンタインデーも目前に迫った</span><br><span class='scene-font-katari'>とある日。</span>,<span class='scene-font-katari'>情人节将近的某天。</span>
+2,,<span class='scene-font-katari'>その日、グリームニルと</span><br><span class='scene-font-katari'>姬塔とビィとルリアは、</span><br><span class='scene-font-katari'>街中で日用品の買い出しをしていた。</span>,<span class='scene-font-katari'>那天，格里姆尼尔和姬塔和露莉亚和碧，一起到街上买日用品。</span>
+3,ビィ/碧,いやぁ～、暴風の兄ちゃんが<br>ついて来てくれたおかげで<br>本当に助かったぜ～！,哎呀~多亏了暴风的小哥跟着来了，<br>真的帮我们大忙了~！
+4,グリームニル,フッ……我が力は、<br>人の子の安寧を守るために<br>惜しみなく振るわれる。,呵……为了守护人类的安宁，<br>我不会吝惜使用我的力量的。
+5,グリームニル,この程度の荷運び、<br>颶風の化身たる俺にかかれば<br>造作も無い。,搬运这种程度的东西，<br>交给飓风化身的我，<br>不过轻而易举。
+6,ルリア/露莉亚,グリームニルさんが風の力で<br>重たい荷物を持ってくれたから、<br>たくさんお買い得品が買えましたね！,因为有格里姆尼尔的风之力，<br>能帮我们搬运很多东西，<br>所以就能买很多东西了呢！
+7,グリームニル,おいおい言い過ぎだってー！<br>そんなに褒められると<br>照れちゃうだろー！,喂喂你也说过头了吧——！<br>被你那样夸，我会害羞的吧——！
+8,,<span class='scene-font-katari'>その時、道行く一行の前方から</span><br><span class='scene-font-katari'>ふたり組の女子が、談笑しながら</span><br><span class='scene-font-katari'>こちらに向かってくる。</span>,<span class='scene-font-katari'>这时，走在路上的一行人前方，</span><br><span class='scene-font-katari'>有两个女孩子，边谈笑着边走了过来。</span>
+11,女子１,ねぇねぇ、バレンタインは<br>誰にチョコあげるかもう決めた？,呐呐，你已经决定情人节要送谁巧克力了吗？
+12,女子２,えー？　決めたけど……<br>先に誰にあげるか教えてくれたら<br>教えたげる！,诶——？是决定好了……<br>你先告诉我你要送谁，<br>我就告诉你！
+13,女子１,もーっ、絶対教えてよー？<br>じゃあ、ちょっと耳貸して……？,真是的，一定要告诉我哦——？<br>那你耳朵过来点……
+15,女子２,ふふ、それじゃあ教えてもらいますか！<br>なになに……,呵呵，那么就告诉我吧！<br>什么什么……
+17,女子２,<span class='scene-font-4'>ええっ！？</span><br>うそーっ！　なんか意外かもー！,<span class='scene-font-4'>诶诶！？</span><br>真的假的啊！总觉得好意外——！
+19,グリームニル,ん……？,嗯……？
+20,,<span class='scene-font-katari'>はしゃぎながら一行とすれ違う女子達を</span><br><span class='scene-font-katari'>物珍しそうに眺めるグリームニル。</span>,<span class='scene-font-katari'>格里姆尼尔一脸稀奇地，</span><br><span class='scene-font-katari'>看着喧闹着擦身而过的女孩子们。</span>
+21,ルリア/露莉亚,グリームニルさん、<br>どうかしましたか？,格里姆尼尔，你怎么了吗？
+22,グリームニル,いや……ずいぶんと<br>楽しそうにしてるな～と思って。,没事……就是觉得她们看上去，<br>好像很高兴的样子啊~
+23,ビィ/碧,ああ、なんかバレンタインの話題で<br>盛り上がってたみてぇだな。,啊，看来在热烈谈论着情人节的话题呢。
+24,グリームニル,バレンタインって……,情人节是……？
+25,ルリア/露莉亚,バレンタインは、日頃からお世話に<br>なっている大切な人へ、チョコとかの<br>プレゼントを贈る日のことです。,情人节是，<br>对平时照顾自己的重要的人，<br>赠送巧克力之类礼物的日子。
+26,グリームニル,……ああなるほどな！！　<br>これが世に言うバレンタインか！<br>前に書物で読んだことがあるぞ！,……啊，原来如此啊！！<br>这就是传说中的情人节啊！<br>我之前有在书里读到过哦！
+27,グリームニル,確か、毎年バレンタインの直前は、<br>手作りチョコレートとかの準備で<br>皆、忙しくしているんだろう？,我记得，在每年情人节之前，<br>大家为了准备手制巧克力，<br>都会很忙碌的对吧？
+28,ビィ/碧,そうそう、今すれ違ったヤツらも、<br>バレンタインチョコを誰に<br>あげるか話してたしな～,是啊是啊，刚刚擦肩而过的人也是，<br>在聊要把情人节巧克力送给谁呢~
+29,ルリア/露莉亚,うふふ……<br>誰にどんなチョコをあげるのか<br>考えてる時間も楽しいんですよね！,呵呵呵……<br>考虑要给谁送巧克力的时候，<br>也很开心呢！
+30,グリームニル,誰に……<br>どんなチョコをあげるか……,给谁……<br>送巧克力吗……
+31,,<span class='scene-font-katari'>ふと、グリームニルは　</span><br><span class='scene-font-katari'>隣を歩く姬塔に</span><br><span class='scene-font-katari'>視線を向ける。</span>,<span class='scene-font-katari'>突然，格里姆尼尔看向走在旁边的姬塔。</span>
+32,グリームニル,<span class='scene-font-kokoro'>（姬塔も</span><br><span class='scene-font-kokoro'>バレンタインのチョコを</span><br><span class='scene-font-kokoro'>誰かに渡すんだろうか……？）</span>,<span class='scene-font-kokoro'>（姬塔也会把情人节巧克力，送给谁吗……？）</span>
+33,グリームニル,<span class='scene-font-kokoro'>（ルリアとビィにはあげるのか？</span><br><span class='scene-font-kokoro'>もしかしたら……俺にも……？）</span>,<span class='scene-font-kokoro'>（会给露莉亚和碧吗？</span><br><span class='scene-font-kokoro'>难道说……也会给我……？）</span>
+34,グリームニル,<span class='scene-font-kokoro'>（あ、いやいや、やめだやめだ！</span><br><span class='scene-font-kokoro'>詮索するなんて野暮だ！）</span>,<span class='scene-font-kokoro'>（啊算了算了，别想了！</span><br><span class='scene-font-kokoro'>深究下去也太没眼色了！）</span>
+35,グリームニル,<span class='scene-font-kokoro'>（姬塔が誰に何をあげようが、</span><br><span class='scene-font-kokoro'>そんなの姬塔の勝手だろう！）</span>,<span class='scene-font-kokoro'>（姬塔要给谁巧克力，</span><br><span class='scene-font-kokoro'>那是姬塔的自由吧！）</span>
+36,,<span class='scene-font-katari'>隣を歩いていた姬塔は、</span><br><span class='scene-font-katari'>こちらをじっと凝視するグリームニルの</span><br><span class='scene-font-katari'>視線に気づいて微笑み返す。</span>,<span class='scene-font-katari'>走在旁边的姬塔，</span><br><span class='scene-font-katari'>察觉到格里姆尼尔紧盯的视线，</span><br><span class='scene-font-katari'>回了他一个笑脸。</span>
+36-sel1_txt,,<span class='scene-font-katari'>チョコが欲しいの？</span>,<span class='scene-font-katari'>想要巧克力吗？</span>
+36-sel2_txt,,<span class='scene-font-katari'>誰かにチョコを贈りたいの？</span>,<span class='scene-font-katari'>想送给谁巧克力呢？？</span>
+38,グリームニル,<span class='scene-font-4'>お、おおお、おお俺がっ？</span><br><span class='scene-font-4'>ちょ、チョコを欲しいってぇ？</span>,<span class='scene-font-4'>我，我我我，我我我吗？</span><br><span class='scene-font-4'>你问我是不是想要巧，巧克力？</span>
+39,グリームニル,べ、べっつにぃ～！<br>俺はバレンタインチョコとか<br>そういうの興味無いかな～♪,才，才没有呢~！<br>我对情人节巧克力之类的<br>一点兴趣都没有呢～♪
+40,ビィ/碧,へぇー、そうなのか。<br>なんか興味持ちそうなのに意外だな。,嘿——是这样吗？<br>觉得你会有兴趣所以很意外呢。
+41,ルリア/露莉亚,チョコ、美味しいのに残念です……,巧克力明明很好吃的，真遗憾……
+42,ビィ/碧,ま、嫌なら無理に食う必要もねぇだろ。<br>それより早いとこ騎空艇に戻ろうぜ！,算了，讨厌的话也没必要逼人吃。<br>比起这个早点回骑空艇去吧！
+44,グリームニル,<span class='scene-font-4'>だ、だだだ、だだ誰かにっ！</span><br><span class='scene-font-4'>ちょ、チョコを贈るってぇ？</span>,<span class='scene-font-4'>你问给，给给给，给给给谁，</span><br><span class='scene-font-4'>送巧，巧克力？</span>
+45,グリームニル,お、俺はほら軍神だし？　<br>むしろ人の子から贈られる側だし？,我，我可是军神哦？<br>不如说是被人类送礼物吧？
+46,ビィ/碧,そう言われてみたらそうだな……<br>バレンタインにチョコを贈る神様って<br>聞いたことねぇしな。,你这么说也是啦……<br>我也没听过有神明<br>会在情人节送巧克力的。
+47,グリームニル,ま、まぁ、そもそも俺は<br>バレンタインとかに興味ないしなー！,是，是啊，本来我对情人节<br>也没有什么兴趣——！
+48,ルリア/露莉亚,別に神様でもバレンタインの<br>チョコを贈ってもいいと<br>思うんですけどね～,我是觉得神明也可以送情人节巧克力的~
+49,ビィ/碧,ま、どっちでもいいだろ。<br>それより早いとこ騎空艇に戻ろうぜ！,算了，怎样都行啦。<br>比起这个早点回骑空艇去吧！
+50,グリームニル,あ、ああ……,啊，啊啊……
+51,,<span class='scene-font-katari'>買い出しを終えた姬塔達は、</span><br><span class='scene-font-katari'>どこか挙動不審なグリームニルと</span><br><span class='scene-font-katari'>足早に騎空艇に戻るのだった。</span>,<span class='scene-font-katari'>结束购物的姬塔她们，</span><br><span class='scene-font-katari'>和举止可疑的格里姆尼尔，</span><br><span class='scene-font-katari'>一起快步返回骑空艇。</span>
+55,グリームニル,……あ！　そうだそうだ！<br>お、俺ちょっと用事を<br>思い出したから先に行っててくれ！,……啊！对了对了！<br>我，我想起有要事要办，<br>你们先走吧！
+56,,<span class='scene-font-katari'>グリームニルを不審に思った</span><br><span class='scene-font-katari'>姬塔は、自分も一緒に</span><br><span class='scene-font-katari'>ついて行くと主張する。</span>,<span class='scene-font-katari'>姬塔觉得格里姆尼尔很可疑，</span><br><span class='scene-font-katari'>坚持自己也要跟去。</span>
+57,グリームニル,い、いや……その……ほら！<br>姬塔はこの後も依頼とか<br>色々忙しいだろ？,不……那个……对了！<br>姬塔你这之后不是有委托之类的要忙吗？
+58,グリームニル,だからそのかわりに……<br>赤き竜と蒼の少女に一緒に<br>来てもらうのはどうだ？,所以作为代替……<br>就让赤龙和苍之少女<br>跟我一起去如何？
+59,ルリア/露莉亚,はい！　<br>私で良ければついて行きますよ！,好啊！可以的话我就跟着去！
+60,ビィ/碧,おいおい！<br>オイラ達が暇みてぇじゃねぇか？,喂喂！<br>我们看上去很闲吗？
+61,ルリア/露莉亚,まぁまぁビィさん！<br>暇なんだしいいじゃないですか！,算啦算啦碧！<br>反正很闲不也挺好的嘛！
+62,グリームニル,頼むよ～？　赤き竜～？<br>なっ！　そこをなんとか！,拜托了~？赤龙~？<br>好嘛！请你答应嘛！
+63,ビィ/碧,まぁ……<br>そこまで言うならいいけどよ……,算了……<br>你都说到这份上了我就去吧……
+64,グリームニル,本当か！　<br>二人ともありがとうなぁ～！　,真的吗？<br>谢谢你们俩~！
+65,,<span class='scene-font-katari'>ビィとルリアが同行するなら大丈夫だと</span><br><span class='scene-font-katari'>安心した様子の姬塔。</span>,<span class='scene-font-katari'>因为觉得露莉亚和碧随行就没关系，姬塔安心了。</span>
+66,,<span class='scene-font-katari'>こうしてグリームニルは、</span><br><span class='scene-font-katari'>ビィとルリアと共に、</span><br><span class='scene-font-katari'>再び街中へと戻って行くのだった。</span>,<span class='scene-font-katari'>就这样，格里姆尼尔和碧和露莉亚一起，再度回到了街上。</span>
+info,,,scene_fate_chr598_ep1
+译者,,,
