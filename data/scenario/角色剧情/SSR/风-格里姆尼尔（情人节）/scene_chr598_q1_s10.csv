@@ -15,7 +15,7 @@ id,name,text,trans
 12,ビィ/碧,よし……<br>どんなチョコがあるのか、<br>その辺の店で食べて調べようぜ！,好……去那附近的店边吃边调查，<br>看看有什么样的巧克力吧。
 13,ルリア/露莉亚,あ、それいいアイデアですね！,啊，好主意呢！
 14,,<span class='scene-font-katari'>街中の菓子店を探して</span><br><span class='scene-font-katari'>歩き始めるビィとルリア。</span>,<span class='scene-font-katari'>找着街上的点心店，</span><br><span class='scene-font-katari'>碧和露莉亚走了起来。</span>
-15,グリームニル,あっ！　待って待ってー！<br>置いてかないでってばー！,啊！等等 等等——！<br>别丢下我啊——！
+15,グリームニル,あっ！　待って待ってー！<br>置いてかないでってばー！,啊！等等，等等——！<br>别丢下我啊——！
 16,,<span class='scene-font-katari'>慌ててふたりの後を追いかける</span><br><span class='scene-font-katari'>グリームニルであった。</span>,<span class='scene-font-katari'>格里姆尼尔慌张地追上两人。</span>
 17,,<span class='scene-font-katari'>そうして、グリームニル達は</span><br><span class='scene-font-katari'>街で人気のショコラティエのお店の</span><br><span class='scene-font-katari'>行列に並ぶことになるのだった。</span>,<span class='scene-font-katari'>就这样，格里姆尼尔他们在街上有名的巧克力职人的店前，排起了队。</span>
 21,グリームニル,しかし……<br>これほどまでの行列とは、<br>バレンタインは侮れないな……,但是……居然排了这么长的队，<br>真不能小瞧情人节啊……
@@ -31,7 +31,7 @@ id,name,text,trans
 33,ルリア/露莉亚,あ、特異点って言うのは、<br>姬塔のことですよ～,啊，特异点是在说姬塔啦~
 34,サヴァラン/萨瓦兰,ふむ……これは失礼した。<br>申し遅れてすまない、<br>私は美食家のサヴァランだ。,呼姆……失礼了。<br>抱歉自我介绍迟了，<br>我是美食家萨瓦兰。
 35,グリームニル,フッ……我こそは軍神！<br>踊り狂う暴風……,呼……我乃军神！<br>狂舞的暴风……
-36,グリームニル,<span class='scene-font-4'>グリィィィィィムニルだ！</span>,<span class='scene-font-4'>格里————————————姆尼尔！</span>
+36,グリームニル,<span class='scene-font-4'>グリィィィィィムニルだ！</span>,<span class='scene-font-4'>格里—————————姆尼尔！</span>
 37,サヴァラン/萨瓦兰,ほう……なんだか分からんが、<br>これはまた興味深い一品を<br>作りそうな逸材の予感がするな。,嚯……虽然不是很清楚，<br>但我有预感，<br>你是个可造之材啊。
 38,サヴァラン/萨瓦兰,だが……まさかお前達ほどの作り手を<br>この店の行列でみかけるとは意外だな。,但是……没想到你们这样的料理人<br>居然会来排这家店的队，<br>好意外啊。
 39,グリームニル,バレンタインデーに備えて<br>姬塔に贈るにふさわしい<br>チョコレートを模索していたんだ。,为了准备情人节，<br>在探索有什么适合送给姬塔的巧克力。
@@ -64,7 +64,7 @@ id,name,text,trans
 66,ビィ/碧,ああ！　ここまで来たら<br>やりたいようにやってみろ！,啊啊！都到这里了，<br>就去试试你想做的吧！
 67,ルリア/露莉亚,私もご一緒します！,我也一起去！
 68,グリームニル,恩に着る……<br>では、行くぞ……！,谢谢你们……<br>那么，去吧……！
-69,,<span class='scene-font-katari'>サヴァランから謎のビラを</span><br><span class='scene-font-katari'>受け取ったグリームニル。</span>,<span class='scene-font-katari'>格里姆尼尔从萨瓦兰那，</span><br><span class='scene-font-katari'>收到了迷之传单。</span>
-70,,<span class='scene-font-katari'>意を決した様子のグリームニルは、</span><br><span class='scene-font-katari'>行列を抜けると、どこかへ向かって</span><br><span class='scene-font-katari'>確かな足取りで歩き始めるのだった。</span>,<span class='scene-font-katari'>意已决的格里姆尼尔，</span><br><span class='scene-font-katari'>离开了队伍，</span><br><span class='scene-font-katari'>向着某处迈出了坚定的步伐。</span>
+69,,<span class='scene-font-katari'>サヴァランから謎のビラを</span><br><span class='scene-font-katari'>受け取ったグリームニル。</span>,<span class='scene-font-katari'>格里姆尼尔从萨瓦兰那收到了迷之传单。</span>
+70,,<span class='scene-font-katari'>意を決した様子のグリームニルは、</span><br><span class='scene-font-katari'>行列を抜けると、どこかへ向かって</span><br><span class='scene-font-katari'>確かな足取りで歩き始めるのだった。</span>,<span class='scene-font-katari'>意已决的格里姆尼尔，离开了队伍，</span><br><span class='scene-font-katari'>向着某处迈出了坚定的步伐。</span>
 info,,,scene_chr598_q1_s10
 译者,,,
