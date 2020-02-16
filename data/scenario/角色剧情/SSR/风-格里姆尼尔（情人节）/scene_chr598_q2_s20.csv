@@ -5,7 +5,7 @@ id,name,text,trans
 2,サヴァラン/萨瓦兰,チョコレートの温度調節ひとつ<br>出来ないやつに……,给我记住了，<br>连巧克力的温度调节<br>都做不到的人……
 3,サヴァラン/萨瓦兰,<span class='scene-font-4'>恋の温度調節など</span><br><span class='scene-font-4'>出来ないと知れ！</span>,<span class='scene-font-4'>也不能调控</span><br><span class='scene-font-4'>恋爱的温度！</span>
 5,３人,<span class='scene-font-4'>はいっ！</span><br><span class='scene-font-4'>ミスターサヴァラン！</span>,<span class='scene-font-4'>是！</span><br><span class='scene-font-4'>萨瓦兰先生！</span>
-6,ルリア/露莉亚,はわぁ～<br>サヴァランさんの<br>講義はためになりますね～！,哈哇~<br>萨瓦兰的讲座能学到很多呢~！
+6,ルリア/露莉亚,はわぁ～<br>サヴァランさんの<br>講義はためになりますね～！,哈哇~<br>听萨瓦兰的讲座能学到很多呢~！
 7,ビィ/碧,あ、ああ……<br>オイラには良く分かんねぇけど、<br>そういうもんなのか？,啊，啊啊……<br>虽然我不是很清楚，<br>是那样吗？
 8,,<span class='scene-font-katari'>グリームニル達は、先ほど貰ったビラに</span><br><span class='scene-font-katari'>記載されていた、サヴァラン主催の</span><br><span class='scene-font-katari'>手作りチョコレート教室を訪れていた。</span>,<span class='scene-font-katari'>格里姆尼尔他们根据之前收到的传单所记载，造访了萨瓦兰主办的手制巧克力料理教室。</span>
 10,サヴァラン/萨瓦兰,<span class='scene-font-4'>全然ダメだ……</span><br><span class='scene-font-4'>甘いぞお前達！</span>,<span class='scene-font-4'>完全不行……</span><br><span class='scene-font-4'>你们太天真了！</span>
@@ -23,7 +23,7 @@ id,name,text,trans
 31,ルリア/露莉亚,本当に美味しかったので、<br>自信を持っていいと思います！,因为真的很好吃，<br>所以我觉得你可以自信点！
 32,グリームニル,ありがとう二人とも、<br>でもこれじゃあダメなんだ……,谢谢你们，<br>但是这是不行的……
 33,グリームニル,…………,…………
-34,,<span class='scene-font-katari'>何かを決意した様子のグリームニルは、</span><br><span class='scene-font-katari'>サヴァランの元に歩み寄る。</span>,<span class='scene-font-katari'>格里姆尼尔仿佛下定了决心，走到萨瓦兰身边。</span>
+34,,<span class='scene-font-katari'>何かを決意した様子のグリームニルは、</span><br><span class='scene-font-katari'>サヴァランの元に歩み寄る。</span>,<span class='scene-font-katari'>格里姆尼尔仿佛下定了决心，</span><br><span class='scene-font-katari'>走到萨瓦兰身边说道。</span>
 35,グリームニル,ミスターサヴァラン……,萨瓦兰先生……
 36,サヴァラン/萨瓦兰,どうした？,怎么了？
 37,グリームニル,確かにこのチョコレートは美味だ……<br>100人が食べたら、<br>100人が絶賛するだろう。,确实这份巧克力很好吃……<br>谁吃了都会说好。
@@ -50,7 +50,7 @@ id,name,text,trans
 60,ルリア/露莉亚,グリームニルさん……<br>私たちも援護します！,格里姆尼尔……<br>我们来支援你！
 61,グリームニル,蒼の少女……<br>その気持ちは嬉しいが、<br>手出しは無用だ。,苍之少女……<br>谢谢你的好意，<br>但你不必出手。
 62,グリームニル,これは俺が乗り越えるべき<br>チョコの試練……,这是该由我跨越的巧克力试炼……
-63,グリームニル,フッ……いいだろう！<br>チョコレートにかける我が想い……,哼……好啊！倾注于巧克力的我的心意……
-64,グリームニル,<span class='scene-font-4'>とくと思い知れぇぇぇぇぇっ！</span>,<span class='scene-font-4'>给我好好领会吧——————！</span>
+63,グリームニル,フッ……いいだろう！<br>チョコレートにかける我が想い……,哼……好啊！<br>倾注于巧克力的我的心意……
+64,グリームニル,<span class='scene-font-4'>とくと思い知れぇぇぇぇぇっ！</span>,<span class='scene-font-4'>给我充分领会吧——————！</span>
 info,,,scene_chr598_q2_s20
 译者,,,
