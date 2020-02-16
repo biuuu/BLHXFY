@@ -1,6 +1,6 @@
 id,name,text,trans
 0-chapter_name,,チョコに狂う暴風,为巧克力而狂的暴风
-0-synopsis,,バレンタインも目前に迫ったとある日、街に買い出しに向かった姬塔達とグリームニル。バレンタインについて話すうち、グリームニルは姬塔が誰にチョコを送るのかが気になってしまう。買い出しを終えた姬塔達が騎空艇に戻ろうとすると、グリームニルは突然「用事を思い出した」と言い、ルリアとビィを伴って街中へ戻っていくのだった。,情人节将近的某天，姬塔她们和格里姆尼尔一起出门购物。在聊着情人节的事的时候，格里姆尼尔在意起姬塔会给谁送巧克力。结束购物的姬塔她们要回骑空艇的时候，格里姆尼尔突然说「想起有要事要办」，于是和露莉亚、碧一起回到街上。
+0-synopsis,,バレンタインも目前に迫ったとある日、街に買い出しに向かった姬塔達とグリームニル。バレンタインについて話すうち、グリームニルは姬塔が誰にチョコを送るのかが気になってしまう。買い出しを終えた姬塔達が騎空艇に戻ろうとすると、グリームニルは突然「用事を思い出した」と言い、ルリアとビィを伴って街中へ戻っていくのだった。,情人节将近的某天，姬塔他们和格里姆尼尔一起出门购物。在聊着情人节的事的时候，格里姆尼尔在意起姬塔会给谁送巧克力。结束购物的姬塔他们要回骑空艇的时候，格里姆尼尔突然说「想起有要事要办」，于是和露莉亚、碧一起回到街上。
 1,,<span class='scene-font-katari'>バレンタインデーも目前に迫った</span><br><span class='scene-font-katari'>とある日。</span>,<span class='scene-font-katari'>情人节将近的某天。</span>
 2,,<span class='scene-font-katari'>その日、グリームニルと</span><br><span class='scene-font-katari'>姬塔とビィとルリアは、</span><br><span class='scene-font-katari'>街中で日用品の買い出しをしていた。</span>,<span class='scene-font-katari'>那天，格里姆尼尔和姬塔和露莉亚和碧，一起到街上买日用品。</span>
 3,ビィ/碧,いやぁ～、暴風の兄ちゃんが<br>ついて来てくれたおかげで<br>本当に助かったぜ～！,哎呀~多亏了暴风的小哥跟着来了，<br>真的帮我们大忙了~！
@@ -46,7 +46,7 @@ id,name,text,trans
 48,ルリア/露莉亚,別に神様でもバレンタインの<br>チョコを贈ってもいいと<br>思うんですけどね～,我是觉得神明也可以送情人节巧克力的~
 49,ビィ/碧,ま、どっちでもいいだろ。<br>それより早いとこ騎空艇に戻ろうぜ！,算了，怎样都行啦。<br>比起这个早点回骑空艇去吧！
 50,グリームニル,あ、ああ……,啊，啊啊……
-51,,<span class='scene-font-katari'>買い出しを終えた姬塔達は、</span><br><span class='scene-font-katari'>どこか挙動不審なグリームニルと</span><br><span class='scene-font-katari'>足早に騎空艇に戻るのだった。</span>,<span class='scene-font-katari'>结束购物的姬塔她们，</span><br><span class='scene-font-katari'>和举止可疑的格里姆尼尔，</span><br><span class='scene-font-katari'>一起快步返回骑空艇。</span>
+51,,<span class='scene-font-katari'>買い出しを終えた姬塔達は、</span><br><span class='scene-font-katari'>どこか挙動不審なグリームニルと</span><br><span class='scene-font-katari'>足早に騎空艇に戻るのだった。</span>,<span class='scene-font-katari'>结束购物的姬塔他们，</span><br><span class='scene-font-katari'>和举止可疑的格里姆尼尔，</span><br><span class='scene-font-katari'>一起快步返回骑空艇。</span>
 55,グリームニル,……あ！　そうだそうだ！<br>お、俺ちょっと用事を<br>思い出したから先に行っててくれ！,……啊！对了对了！<br>我，我想起有要事要办，<br>你们先走吧！
 56,,<span class='scene-font-katari'>グリームニルを不審に思った</span><br><span class='scene-font-katari'>姬塔は、自分も一緒に</span><br><span class='scene-font-katari'>ついて行くと主張する。</span>,<span class='scene-font-katari'>姬塔觉得格里姆尼尔很可疑，</span><br><span class='scene-font-katari'>坚持自己也要跟去。</span>
 57,グリームニル,い、いや……その……ほら！<br>姬塔はこの後も依頼とか<br>色々忙しいだろ？,不……那个……对了！<br>姬塔你这之后不是有委托之类的要忙吗？
