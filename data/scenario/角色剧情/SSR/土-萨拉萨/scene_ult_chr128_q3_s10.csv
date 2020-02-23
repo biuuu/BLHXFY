@@ -1,0 +1,25 @@
+id,name,text,trans
+0-chapter_name,,真なる強さを得るために,为了得到真正的强大
+0-synopsis,,深夜の静まり返った騎空艇内で、姬塔ーサは見知らぬ匂いを感知する。匂いの元を探ると、待ち受けていたのは天星器・三寅斧だった。三寅斧は姬塔ーサに最強を求めるかを問いかける。姬塔ーサの強い意志を確認した三寅斧は、直々に姬塔ーサの腕試しを買って出るのだった。,深夜回归寂静的骑空艇内，萨拉萨感知到了未知的气味。寻找到的气味之源是，在等候萨拉萨到来的天星器·三寅斧。三寅斧问萨拉萨是否追求最强。再在认了萨拉萨坚定意志后的三寅斧，亲自要求试试萨拉萨的手腕。
+2,姬塔ーサ/萨拉萨,あたしの知らない匂いがするな……,有我不认识的气味……
+3,,<span class='scene-font-katari'>深夜、静まり返った騎空艇内を</span><br><span class='scene-font-katari'>難しげな表情を浮かべ、</span><br><span class='scene-font-katari'>一人歩いていく姬塔ーサ。</span>,<span class='scene-font-katari'>深夜，在回归寂静的骑空艇内，</span><br><span class='scene-font-katari'>萨拉萨面露不适的表情，</span><br><span class='scene-font-katari'>独自走着。</span>
+7,姬塔ーサ/萨拉萨,なんか、変なものでも入ってきたのか？,有什么奇怪的东西进来了吗？
+8,姬塔ーサ/萨拉萨,でも、この匂い……なんだ？<br>こんな匂い、あたし、<br>嗅いだことないぞ？,但这气味……是什么？<br>这种气味，<br>我从来都没有闻到过？
+9,姬塔ーサ/萨拉萨,ううっ……<br>この匂い嗅いでると、<br>なんかぞわぞわする……,呜呜……<br>自从闻到这种气味后，<br>总觉得躁动不已……
+10,姬塔ーサ/萨拉萨,とりあえず、この匂いの元を探すか。<br>このままじゃ、気になって<br>寝れないし……,总之，现寻找这气味的源头吧。<br>这样下去，因为太过在意<br>都睡不着了……
+17,姬塔ーサ/萨拉萨,……ここからだよな？,……是从这儿传出的吧？
+22,姬塔ーサ/萨拉萨,<span class='scene-font-4'>おいっ！</span>,<span class='scene-font-4'>喂！</span>
+23,姬塔ーサ/萨拉萨,……って、あれ？<br>何もいないのか？<br>でも、匂いは……ここからだよな？,……嗯？<br>什么都没有吗？<br>但是，气味……是从这儿发出的吧？
+24,姬塔ーサ/萨拉萨,ん？　この匂い……<br>その斧……えっと、なんだ……<br>なんだっけ名前……,嗯？　这气味……<br>那把斧头……那个，那什么……<br>叫什么名字来着……
+25,,――……,――……
+26,,<span class='scene-font-katari'>その言葉に答える様に、</span><br><span class='scene-font-spword'>三寅斧</span><span class='scene-font-katari'>が輝く。</span>,<span class='scene-font-katari'>似是回答这句话一般，</span><br><span class='scene-font-spword'>三寅斧</span><span class='scene-font-katari'>发出了光芒。</span>
+28,三寅斧,<span class='scene-font-gray'>問おう</span><br><span class='scene-font-gray'>主は強さを求めるか？</span><br><span class='scene-font-gray'>最強を求めるか？</span>,<span class='scene-font-gray'>试问</span><br><span class='scene-font-gray'>主人你追求强大吗？</span><br><span class='scene-font-gray'>追求最强吗？</span>
+29,姬塔ーサ/萨拉萨,おお！　斧が喋った！<br>はー……<br>斧って喋ることあるんだな……,哦哦！　斧头说话了！<br>哈ー……<br>斧头会说话吗……
+31,三寅斧,<span class='scene-font-gray'>……もう一度、問う。</span><br><span class='scene-font-gray'>主は強さを求めるか？</span>,<span class='scene-font-gray'>……再问一次。</span><br><span class='scene-font-gray'>主人你追求强大吗？</span>
+32,三寅斧,<span class='scene-font-gray'>誰にも負けぬ強さを……</span><br><span class='scene-font-gray'>最強を求めるか？</span>,<span class='scene-font-gray'>不会输给任何人的强大……</span><br><span class='scene-font-gray'>你追求最强吗？</span>
+33,姬塔ーサ/萨拉萨,なんだか知らないけど、当たり前だろ？<br>弱いやつは喰われる。<br>それが決まり事だ。,虽然不知道是怎么回事，但这是当然的吧？<br>弱小的家伙会被吃掉。<br>这是定理。
+34,姬塔ーサ/萨拉萨,でも、あたしは喰われたくない！<br>だから、あたしは誰よりも強く……<br>最強になりたい！,但我不想被吃掉！<br>所以，我要比任何人都强……<br>要成为最强！
+36,三寅斧,<span class='scene-font-gray'>良い答えだ……</span><br><span class='scene-font-gray'>では、その思いの強さが</span><br><span class='scene-font-gray'>誠かどうか試させてもらう。</span>,<span class='scene-font-gray'>真是很好的回答……</span><br><span class='scene-font-gray'>那么我就试试你的心念</span><br><span class='scene-font-gray'>是否为实。</span>
+37,三寅斧,<span class='scene-font-gray'>この</span><span class='scene-font-spword'>三寅斧</span><span class='scene-font-gray'>が直々に……</span>,<span class='scene-font-gray'>由我</span><span class='scene-font-spword'>三寅斧</span><span class='scene-font-gray'>亲自……</span>
+info,,,scene_ult_chr128_q3_s10
+译者,,,
