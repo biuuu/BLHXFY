@@ -1,0 +1,127 @@
+id,name,text,trans
+0-chapter_name,,第128章　騎士と少女,骑士和少女
+0-synopsis,,理事長の役を務めるアルとの戦いの中で、自身の想いを自覚するアレス。アレスはアルを抱きしめ、生前果たせなかった心残りを晴らすとカタリナに力を託し消える。続けて現れたシュヴァリエ・マリスとの戦いに挑むカタリナ。そこへルリアが現れカタリナを蒼い光で守る。カタリナは大切な者の存在を見失っていたことに気付き、ルリアとふたりで最後の試練に挑むのだった。,在与执行着理事长职责的阿尔交战之中，亚雷斯终于想起了自己的真心。亚雷斯抱住了阿尔，为了实现生前没能实现的愿望，把力量托付给卡塔丽娜后就消失了。紧接着，卡塔丽娜向出现的修瓦利耶·玛丽斯发起了挑战。正在这时，露莉亚出现了，并且用苍蓝的光芒保护了卡塔丽娜。卡塔丽娜察觉到自己已经忘记了重要之人的存在，并与露莉亚一同进行最后的试炼。
+1,アレス,<span class='scene-font-4'>はああぁぁっ！！</span>,哈啊啊啊！！
+5,理事長,っ……！！,唔……！！
+7,,<span class='scene-font-katari'>アレスの一刀を受け切った女性は、</span><br><span class='scene-font-katari'>その勢いを殺すように、</span><br><span class='scene-font-katari'>後ろへと飛び退る。</span>,被亚雷斯一刀砍中的女性，<br>就像是要浇灭对方的气焰一般，<br>向着后方退去。
+8,アレス,<span class='scene-font-4'>まだだっ！</span>,还没结束！
+10,,<span class='scene-font-katari'>アレスはその動きを読んでいたように、</span><br><span class='scene-font-katari'>間髪を入れずに追撃を重ねていく。</span>,亚雷斯就像是读懂了她的行动似的，<br>不由分说地发动着追击。
+11,,<span class='scene-font-katari'>人の気配の全く無くなった闘技場では、</span><br><span class='scene-font-katari'>アレスと理事長の女性が、</span><br><span class='scene-font-katari'>幾つもの剣戟音を響かせていた。</span>,在这个毫无人烟的斗技场内，<br>亚雷斯和被称为理事长的女性的剑戟之声，<br>正在其中回响着。
+12,理事長,っ……<br>流石ですね。<br>一切の迷いも陰りも無い……,唔……不愧是你。<br>完全没有一丝迷惘……
+13,アレス,…………,…………
+14,アレス,<span class='scene-font-kokoro'>（迷うことなど無い……</span><br><span class='scene-font-kokoro'>ただ一刀のもとに、斬りすてるのみ）</span>,（没有任何迷惘，<br>只是挥刀，斩下而已）
+16,アレス,<span class='scene-font-4'>はぁっ！</span>,哈！
+18,アレス,<span class='scene-font-kokoro'>（しかし……</span><br><span class='scene-font-kokoro'>懐かしいな、こうしていると）</span>,（但是……<br>真怀念啊，这样的事）
+26,アレス,<span class='scene-font-kokoro'>（そうだ……</span><br><span class='scene-font-kokoro'>右に打ち、左に回り、</span><br><span class='scene-font-kokoro'>翻弄しながら、足元を崩す……）</span>,（对了……先是左边，再绕到右边，<br>反复这么做的话，就会站不稳了……）
+27,アレス,<span class='scene-font-kokoro'>（全てあの頃のままだ……</span><br><span class='scene-font-kokoro'>私はこの太刀筋を知っている）</span>,（全部都像那时候一样……<br>我非常熟知这份武艺）
+29,アレス,<span class='scene-font-kokoro'>（彼女のこの立ち回りを、</span><br><span class='scene-font-kokoro'>この息遣いを、</span><br><span class='scene-font-kokoro'>私は愛おしくさえ思っている……）</span>,（她战斗的方式也好，<br>呼吸的方式也好，<br>我都觉得很可爱……）
+30,理事長,……っ！！,
+32,アレス,<span class='scene-font-kokoro'>（しかし……</span><br><span class='scene-font-kokoro'>しかし、今は彼女を……斬る）</span>,（但是……<br>但是，现在却要将她……斩杀）
+33,アレス,<span class='scene-font-kokoro'>（騎士として……</span><br><span class='scene-font-kokoro'>騎士であり続ける私として、</span><br><span class='scene-font-kokoro'>私は……彼女を斬る！）</span>,（作为骑士……<br>作为骑士一直存在的我……<br>要将她斩杀！）
+34,アレス,<span class='scene-font-4'>はあああぁぁっ！！</span>,哈啊啊啊啊！！
+37,理事長,っ！？,唔！？
+38,,<span class='scene-font-katari'>裂帛の気合いを込めた一刀を</span><br><span class='scene-font-katari'>弾いたことで、</span><br><span class='scene-font-katari'>女性は大きく体勢を崩す。</span>,饱含着裂空之势的一刀相互弹开，<br>女性的姿势大幅的崩溃了。
+39,アレス,そこだっ……！,就是这里……！
+40,,<span class='scene-font-katari'>その一瞬の隙を見逃さず、</span><br><span class='scene-font-katari'>アレスは切っ先を女性の首に</span><br><span class='scene-font-katari'>ぴたりとあてる。</span>,并没有放过这一瞬的空隙，<br>亚雷斯把自己的刀剑比在了<br>女性的脖子上。
+41,理事長,っ……,唔……
+42,アレス,さぁ、これで──,那么，这样就——
+43,理事長,──それは、どうでしょうか？,——这样，就行了吗？
+49,,<span class='scene-font-katari'>アレスが口を開いたその瞬間、</span><br><span class='scene-font-katari'>それを待っていたように、</span><br><span class='scene-font-katari'>女性は手を翻し、アレスの剣を弾く。</span>,在亚雷斯开口的那一瞬间，<br>女性就像是在等待这个瞬间一般，<br>翻动手臂，摊开了亚雷斯的剑。
+50,アレス,くっ……！？,唔……！？
+51,理事長,ご存知ですよね？<br>私、少々、諦めが悪いって……！！,你应该知道的吧？<br>我啊，不太容易放弃……！！
+53,,<span class='scene-font-katari'>瞬時にしゃがみ込んだ女性は、</span><br><span class='scene-font-katari'>大きく足払いをかけ、</span><br><span class='scene-font-katari'>アレスを転ばせる。</span>,瞬间蹲下的女性横扫单足，<br>令阿雷斯滚到了地上。
+55,アレス,なっ……！？,什么……！？
+58,アレス,くそっ……！,可恶……！
+59,理事長,逃がしません。,不会让你逃的。
+60,,<span class='scene-font-katari'>女性はすぐさまアレスに馬乗りになり、</span><br><span class='scene-font-katari'>その身動きを完全に封じる。</span>,女性立刻骑在亚雷斯的身上，<br>完全封住了她的行动。
+61,アレス,<span class='scene-font-kokoro'>（油断した……</span><br><span class='scene-font-kokoro'>これでは……！）</span>,（大意了……那么……！）
+62,,<span class='scene-font-katari'>その時、</span><br><span class='scene-font-katari'>自身を見下ろす彼女を見て、</span><br><span class='scene-font-katari'>アレスの脳裏に走馬灯が甦る。</span>,正在这时，看着服饰自己的她，<br>亚雷斯的脑中又浮现了走马灯一般的画面。
+65,？？？,嗚呼……良かった、本当に……<br>まだ生きて……,呜呼……太好了，真的……<br>你还活着……
+69,アレス,<span class='scene-font-kokoro'>（そうだ……</span><br><span class='scene-font-kokoro'>私は、あの時……）</span>,（对了……我，在那个时候……）
+70,アレス,<span class='scene-font-kokoro'>（あの時、私は……</span><br><span class='scene-font-kokoro'>確かに彼女のことを……）</span>,（那个时候，我确实……对她……）
+71,理事長,…………,…………
+72,,<span class='scene-font-katari'>女性は剣を振り上げるものの、</span><br><span class='scene-font-katari'>アレスを見つめるばかりで、</span><br><span class='scene-font-katari'>動こうとはしない。</span>,女性虽然举起了剑，<br>但她却就这么看着亚雷斯，<br>一动也不动。
+73,,<span class='scene-font-katari'>そこに、息も絶え絶えに、</span><br><span class='scene-font-katari'>ひとつの声がかかる。</span>,正在这时，<br>某个喘不过气的声音突然叫住了她。
+75,カタリナ/卡塔莉娜,待て……<br>その剣を振り下ろせば、<br>どうなるかわかっているな……,等一下……<br>如果挥下剑的话，<br>你知道会发生什么的对吧……
+76,理事長,っ！？,唔！？
+77,,<span class='scene-font-katari'>首筋にあたる刃に気付き、</span><br><span class='scene-font-katari'>女性は咄嗟にアレスから飛び退き</span><br><span class='scene-font-katari'>距離を取る。</span>,看着架在对方脖子上的刀刃，<br>女性立刻从亚雷斯身上跳开，<br>拉开了距离。
+79,アレス,お前は……動けるのか？,你……居然能动吗？
+80,カタリナ/卡塔莉娜,わからない……<br>しかし、身体が動いた。<br>だから、ここへ、貴殿のもとへ来た。,我不知道……但是，正因为身体动了，<br>所以我才能来这里找你。
+81,カタリナ/卡塔莉娜,全ては先も言った通りだ。<br>ここは私に任せてもらえないだろうか。,就像之前说的那样。<br>能不能把这里交给我来解决呢。
+82,アレス,……断る。,……我拒绝。
+83,カタリナ/卡塔莉娜,なっ……！？,什……！？
+84,アレス,無理をするな。<br>お前は私によく似ている。,不可以勉强自己。<br>你和我很像。
+85,アレス,だからわかる。<br>アルはお前にとって大切な誰かに、<br>よく似ているのだろう。,所以我知道的。<br>阿尔大概和你所重视的谁，<br>长得很像。
+86,カタリナ/卡塔莉娜,…………,…………
+87,アレス,私の代わりに、<br>自分が心を捨てるつもりか。<br>私がそれを認めると思うか？,难道说要代替我，<br>舍弃自己的内心吗。<br>你觉得我会认同吗？
+88,カタリナ/卡塔莉娜,それが……<br>力を得るということなら、<br>私は……,这……<br>如果确实能够获得力量的话，我……
+89,アレス,すまないな……<br>それについては、<br>どうやら私が間違っていたようだ。,抱歉……关于这点，<br>看来是我搞错了。
+90,,<span class='scene-font-katari'>そう告げるとアレスは、</span><br><span class='scene-font-katari'>剣を収め、兜を外して、</span><br><span class='scene-font-katari'>臨戦態勢を解く。</span>,这么说着之后，亚雷斯收起了剑，<br>脱下了头盔，解除了临战态势。
+91,アレス,ようやく……<br>ようやく本当の意味で全てがわかった。,终于……<br>我终于明白了真正的意义。
+92,,<span class='scene-font-katari'>アレスは大股に、</span><br><span class='scene-font-katari'>特に何も警戒することなく、</span><br><span class='scene-font-katari'>女性への距離を詰めていく。</span>,她大步地走向阿尔，<br>并没有做出任何境界，<br>两人的距离逐渐拉近。
+93,理事長,…………,…………
+94,カタリナ/卡塔莉娜,ま、待て！<br>いったい何を……！,等、等一下……！<br>你到底想……
+95,アレス,刃を交えるのではなく、<br>私はずっとこうしたかったのだ……,一直以来，我并不是想要进行交锋，<br>而是想做这个……
+96,,<span class='scene-font-katari'>アレスは女性の肩に触れると、</span><br><span class='scene-font-katari'>そのままゆっくりと抱き締める。</span>,亚雷斯触碰到女性的肩膀后，<br>就这么慢慢地抱住了。
+97,理事長,ふふ……<br>やっと素直になって下さいましたね。,呼呼……<br>你终于能够坦率了。
+98,,<span class='scene-font-katari'>女性が満足げにそう告げた瞬間、</span><br><span class='scene-font-katari'>身を寄せ合うふたりは、</span><br><span class='scene-font-katari'>光に包まれ始めていた。</span>,正在女性满足地说着话的瞬间，<br>两人紧紧贴着的身体，<br>突然被光芒所包裹。
+99,カタリナ/卡塔莉娜,ど、どういうことだ……？<br>貴殿は……,这、这是发生什么了……？您到底……
+100,アレス,本来消えるはずの私が、<br>幽世に残されてしまった理由……,本应消失的我，<br>之所以残留在幽世中的理由……
+101,アレス,それはきっと、<br>この瞬間のためだったのだろう。,那一定，<br>就是为了这个瞬间。
+102,アレス,何より私は、<br>護るということに執着するあまり、<br>全てに背を向けていたのだ。,在这之前，<br>我一直都执着于保护，<br>而忽视了很多东西。
+103,アレス,しかしようやく見つけた……<br>いや、気付いた。<br>私の全てを託せる存在にな。,但我终于找到了……不，察觉到了。<br>能够完全托付的存在。
+104,,<span class='scene-font-katari'>そう言いながら、</span><br><span class='scene-font-katari'>アレスはしっかりと</span><br><span class='scene-font-katari'>カタリナを見据える。</span>,这么说着以后，<br>亚雷斯认真地看向卡塔丽娜。
+105,アレス,良いだろうか……<br>お前に、私の力の全てを<br>託してしまっても。,可以的吧……<br>我会，把我全部的力量托付给你。
+106,カタリナ/卡塔莉娜,力の……全てを？,全部的……力量？
+107,アレス,そもそも私は、<br>あの男の手によって<br>消滅する運命にあったものだ。,我的命运，<br>本来就应该经由那个男人的手<br>被消灭才是。
+108,アレス,もはや私という核と、<br>星晶獣としての力は、<br>すでに繋がりが不安定になりつつある。,我作为星晶兽的核心、也就是力量，<br>其实已经变得非常不稳定了。
+109,アレス,この私から切り離した<br>星晶獣としての力を、お前に託そう。,所以我把从我身上分理出的<br>星晶兽的力量，托付给你。
+110,アレス,力そのものから<br>自我が芽生えることもあるだろう。<br>その時は仲良くしてやってくれ。,从这份力量之中也许会萌生出新的芽，<br>到时候你们可要好好相处。
+111,カタリナ/卡塔莉娜,ま、待て……！<br>それじゃあ、貴殿は……,等、等一下……！<br>这样的话，您……
+112,アレス,私はもう消える。<br>全てが叶った。<br>思い残すことなど何もない。,我马上就要消失了。<br>我的愿望已经实现，<br>没有留下任何遗憾。
+113,アレス,私はお前に託す。<br>お前を信用し、未来を託す。<br>お前になら託せる。,我会将它托付给你。<br>我会相信你，将未来托付给你。
+114,アレス,何故ならお前は、<br>本当の意味で、<br>私の全てが結実した子だ。,毕竟你从真正的意义上了爱说，<br>是蕴含着我的全部的孩子。
+115,カタリナ/卡塔莉娜,貴殿の全てを……？,您的全部……？
+116,,<span class='scene-font-katari'>カタリナに頷きを返すと、</span><br><span class='scene-font-katari'>アレスは傍らの女性の手を取る。</span>,对卡塔丽娜点了点头后，<br>亚雷斯牵起了身边女性的手。
+120,アレス,アルは愛称だ。<br>この子の本当の名は、<br><span class='scene-font-spword'>アルビオン</span>という。,阿尔是爱称。<br>这孩子原本的名字是，<br>阿尔比昂。
+121,アレス,星晶獣シュヴァリエの<br>最初の契約者であり……,也是星晶兽修瓦利耶<br>最初的契约者。
+122,アレス,……これ以上は言うまい。<br>察しのいいお前なら、<br>全てわかったはずだ。,……不能再说下去了。<br>如果是善于察知的你，<br>一定会明白的。
+126,カタリナ/卡塔莉娜,…………,…………
+127,,<span class='scene-font-katari'>カタリナが言葉を返せずにいると、</span><br><span class='scene-font-katari'>その間にも、</span><br><span class='scene-font-katari'>ふたりを包む光は更に強くなっていく。</span>,正在卡塔丽娜不知道该说什么的时候，<br>包裹着两人的光芒变得越来越强了。
+128,アレス,カタリナよ……<br>お前はもう大丈夫だ。<br>必要なものはもう全て揃っている。,卡塔丽娜哟……<br>你已经没事了。<br>你已经得到了必要的东西。
+129,アレス,お前はお前の道を見失うな。<br>お前はそのまま……そのまま強くなれ。,你不要迷失你的道路。<br>你要就这样……继续变强。
+138,カタリナ/卡塔莉娜,アレス……？,亚雷斯……？
+139,,<span class='scene-font-katari'>光がはじけたかと思うと、</span><br><span class='scene-font-katari'>そこにはカタリナと、</span><br><span class='scene-font-katari'>小さな光の球だけが残されていた。</span>,在光芒迸发之后，<br>留在原地的就只有卡塔丽娜，<br>和一个小小的光球。
+140,カタリナ/卡塔莉娜,これは……,这是……
+149,シュヴァリエ・マリス/修瓦利耶・マリス,────,————
+150,,<span class='scene-font-katari'>次の瞬間、光の球は、</span><br><span class='scene-font-katari'>巨大な星晶獣へと姿を変え、</span><br><span class='scene-font-katari'>カタリナへと襲い掛かる。</span>,在下个瞬间，<br>光球变成了巨大的星晶兽，<br>向卡塔丽娜袭去。
+151,カタリナ/卡塔莉娜,っ……！？,唔……！？
+152,カタリナ/卡塔莉娜,私への試練は、<br>まだ終わってはいない、<br>ということか……,对我的试炼，<br>还没有结束，<br>是这个意思吗……
+153,カタリナ/卡塔莉娜,<span class='scene-font-kokoro'>（確かに、</span><br><span class='scene-font-kokoro'>力のようなものが</span><br><span class='scene-font-kokoro'>宿った感覚はある……）</span>,（确实，<br>我感觉到了一股像是力量的东西……）
+154,カタリナ/卡塔莉娜,<span class='scene-font-kokoro'>（しかし……</span><br><span class='scene-font-kokoro'>いったいこれをどうすれば……！）</span>,（但是……到底该怎么办……！）
+155,シュヴァリエ・マリス/修瓦利耶・マリス,────！！,————！！
+158,,<span class='scene-font-katari'>逡巡し、隙を見せたカタリナに、</span><br><span class='scene-font-katari'>巨大な一刀が振りかざされる。</span>,看着犹豫不决满是破绽的卡塔丽娜，<br>对方挥下了巨大的一击。
+169,,<span class='scene-font-katari'>しかし、その一撃は、</span><br><span class='scene-font-katari'>小さな少女の放つ、</span><br><span class='scene-font-katari'>蒼い光によって阻まれていた。</span>,但是，那一击被小小的少女所放出的<br>苍蓝色的光芒所阻止了。
+170,カタリナ/卡塔莉娜,ルリア……！！,露莉亚……！！
+171,ルリア/露莉亚,カタリナ……！,卡塔丽娜……！
+172,ルリア/露莉亚,もう……大丈夫だからね！,已经……没事了！
+174,シュヴァリエ・マリス/修瓦利耶・マリス,────！！,————！！
+176,ルリア/露莉亚,っ……！！,唔……！！
+177,カタリナ/卡塔莉娜,ルリアっ……！<br>駄目だ、無茶は……！！,露莉亚……！<br>不行，不可以勉……！！
+178,ルリア/露莉亚,大丈夫！<br>今度は私が、カタリナを守るから！,没事的！<br>这次，就由我来守护卡塔丽娜！
+179,ルリア/露莉亚,カタリナには私が居るから！<br>だから大丈夫！,卡塔丽娜的身边有我在！<br>所以没事的！
+180,カタリナ/卡塔莉娜,ルリア……,露莉亚……
+181,,<span class='scene-font-katari'>その瞬間、カタリナの中にあった、</span><br><span class='scene-font-katari'>ひとつのわだかまりが氷解する。</span>,在那个瞬间，卡塔丽娜的心中<br>的坚冰融化了。
+182,カタリナ/卡塔莉娜,<span class='scene-font-kokoro'>（ああ、そうか……</span><br><span class='scene-font-kokoro'>私はまた……）</span>,（啊啊，原来如此……我又……）
+183,カタリナ/卡塔莉娜,<span class='scene-font-kokoro'>（また私は……</span><br><span class='scene-font-kokoro'>見失っていたのか……）</span>,（我又……迷失了吗……）
+184,ルリア/露莉亚,カタリナ……？,卡塔丽娜……？
+185,カタリナ/卡塔莉娜,ルリア……<br>私はようやくわかった気がするよ。,露莉亚……我终于明白了。
+186,カタリナ/卡塔莉娜,私は……<br>また大切なものを、<br>見失ってしまっていたんだな。,我……<br>差点又失去了重要的东西啊。
+187,ルリア/露莉亚,大丈夫だよ、カタリナ。<br>カタリナが何回見失っても、<br>私がずっとそばにいる。,没事的哦，卡塔丽娜。<br>不论卡塔丽娜失去多少次，<br>我都会一直陪在你身边的。
+188,カタリナ/卡塔莉娜,ああ……ありがとう、ルリア。<br>君が居るから……<br>だから私は戦えるんだ……！！,啊啊……谢谢你，露莉亚。<br>正因为有你在……所以我才能够战斗……！！
+194,カタリナ/卡塔莉娜,もう大丈夫だ、ルリア……<br>君がそばに居てくれるからな。,已经没事了，露莉亚……<br>正因为有你陪伴在我身旁。
+195,カタリナ/卡塔莉娜,さぁ、姬塔が待っている。<br>早く空に戻らなくてはな！,来吧，姬塔他们还在等着。<br>快点回到空之世界吧！
+196,星晶獣/星晶兽,────,————
+197,,<span class='scene-font-katari'>受け継がれた星の力は改めて形を成し、</span><br><span class='scene-font-katari'>カタリナと共に</span><br><span class='scene-font-katari'>守るべきもののため刃を振るう。</span>,传承下来的星之力重新聚集成型，<br>和卡塔丽娜一同，<br>为了必须守护的东西挥舞着刀刃。
+info,,,scene_cp128_q4_s20
+译者,,,rei

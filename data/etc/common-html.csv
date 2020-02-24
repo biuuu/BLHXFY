@@ -790,7 +790,10 @@ raid/,召喚石情報,召唤石信息,
 /quest/content/supporter,召喚石を使用できないバトルです,这是无法使用召唤石的战斗,
 /quest/content/supporter,通常と同じく加護効果は得られます,可以获得平时一样的加护效果,
 /quest/content/supporter,おまかせ編成,自动组队,
-/quest/content/newindex,挑戦する,挑战,10
+/quest/content/newindex,挑戦する,挑战,12
+/quest/content/newindex,マルチバトル 90分制限,多人战 限制90分钟,6
+/quest/content/newindex,残り挑戦回数,剩余挑战次数,12
+/quest/content/newindex,※いずれかの難度のクエストを開始すると、その日の<br>うちにもう片方の難度に挑戦することは出来ません,※选择任一难度的任务开始挑战后，当天内无法挑战另一难度的任务。,6
 /comic/content/episode,ぐらぶるっ!TOPに戻る,返回四格漫画首页,
 /comic,第1話から読む,从头第1话开始看,
 /archive/content/story,イベントストーリー,活动剧情,

@@ -1,0 +1,22 @@
+id,name,text,trans
+0-chapter_name,,最強の称号を手に入れるために,为了取得最强的称号
+0-synopsis,,姬塔ーサは姬塔に敗れてしまう。姬塔ーサは悔しがり「最強にならないと姬塔達を守れない」とまた戦いの旅に出ようとして、ルリアとビィに止められる。こうして自らの願いを自覚し、最強の道を歩み始めた姬塔ーサを、姬塔達は苦笑しながらも温かく見守るのであった。,萨拉萨输给了姬塔。萨拉萨不甘心地说「不成为最强就不能保护姬塔你们」并再次想要踏上战斗的旅途，被露莉亚和碧制止。就这样，姬塔等人苦笑着，温柔地守望着向最强的道路开始迈进的萨拉萨。
+9,姬塔ーサ/萨拉萨,また、負けたー！<br>あたしも強くなったのに！,我又输了ー！<br>我明明变强了的说！
+10,姬塔―サ,まだ、姬塔には、<br>届かないかー！,还是无法<br>赢过姬塔吗ー！
+11,ビィ/碧,いや、この間よりも<br>ずっと強くなってたと思うぞ。,不，我觉得你比<br>之前强了。
+12,ルリア/露莉亚,はい……<br>ほとんど互角で……<br>見ていてハラハラしました。,是的……<br>几乎不分胜负……<br>看得我捏了把冷汗。
+13,姬塔―サ,負けは負けだ……<br>勝たないと意味ないんだ。,输就是输了……<br>赢不了就没有意义。
+14,姬塔ーサ/萨拉萨,でも、互角か……,但是，不分胜负吗……
+15,姬塔ーサ/萨拉萨,よしっ！　なら、もっと強くなるために<br>もう一回、十天衆のみんなに戦いを<br>挑んでくる！,好嘞！　那么，为了变得更强，<br>我就再向十天众的大家<br>挑战一次！
+17,,<span class='scene-font-katari'>そういうと姬塔ーサは</span><span class='scene-font-spword'>三寅斧</span><span class='scene-font-katari'>を持ち、</span><br><span class='scene-font-katari'>再度、外へと歩き出していく。</span>,<span class='scene-font-katari'>这样说着萨拉萨提着</span><span class='scene-font-spword'>三寅斧</span><span class='scene-font-katari'>，</span><br><span class='scene-font-katari'>再次向外走去。</span>
+18,ルリア/露莉亚,はわっ！<br>ちょ、ちょっと待ってください！,哇哈！<br>等，请等一等！
+19,姬塔ーサ/萨拉萨,待たないぞ！<br>あたしは最強にならないと<br>いけないんだ！,等不了！<br>我一定要<br>变的最强！
+20,姬塔ーサ/萨拉萨,だって、最強にならないと、<br>姬塔達を<br>守れないからな！,因为，不是最强的话，<br>就不能保护<br>姬塔你们了！
+21,姬塔ーサ/萨拉萨,あ、でも、<br>十天衆のみんなじゃなくて、<br>星晶獣とかでもいいかもな！,啊，但是，<br>不是十天众的大家，<br>星晶兽什么的也可以呢！
+22,姬塔ーサ/萨拉萨,星晶獣って強いもんな！<br>それに星晶獣って<br>食ったことないし。,星晶兽很强呢！<br>而且我也没有吃过<br>星晶兽。
+23,姬塔ーサ/萨拉萨,よし！<br>やっぱ十天衆のみんなはやめて<br>星晶獣にしよう！,很好！<br>果然还是放弃十天众的大家，<br>选择星晶兽吧！
+24,ルリア/露莉亚,もう、姬塔ーサさん！<br>私達の話を聞いてください！,真是的，萨拉萨！<br>请听听我们的话！
+25,,<span class='scene-font-katari'>自らの願いを自覚し</span><br><span class='scene-font-katari'>最強への階を</span><br><span class='scene-font-katari'>登り始めた姬塔ーサ。</span>,<span class='scene-font-katari'>认识到自己的愿望，</span><br><span class='scene-font-katari'>向最强的阶梯</span><br><span class='scene-font-katari'>攀登了一步的萨拉萨。</span>
+26,,<span class='scene-font-katari'>そんな姬塔ーサを</span><br><span class='scene-font-katari'>姬塔達は苦笑しながらも</span><br><span class='scene-font-katari'>温かく見守るのであった。</span>,<span class='scene-font-katari'>姬塔等人苦笑着</span><br><span class='scene-font-katari'>温柔地守望着</span><br><span class='scene-font-katari'>这样的萨拉萨。</span>
+info,,,scene_ult_chr128_q4_10_s20
+译者,,,
