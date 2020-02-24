@@ -25,33 +25,33 @@ const apiHosts = ['game.granbluefantasy.jp', 'gbf.game.mbga.jp']
 
 const requestRouter = async (data, type, list) => {
   let result = false
-  try {
-    for (let [paths, handles] of list) {
-      if (!Array.isArray(paths)) paths = [paths]
-      let pass = false
-      for (let path of paths) {
-        if (isString(path) && type.includes(path)) {
-          if (!CONFIG.storyOnly || storyPath.includes(path)) {
-            pass = true
-          }
-        } else if (isRegExp(path) && path.test(type)) {
-          if (!CONFIG.storyOnly) pass = true
+  for (let [paths, handles] of list) {
+    if (!Array.isArray(paths)) paths = [paths]
+    let pass = false
+    for (let path of paths) {
+      if (isString(path) && type.includes(path)) {
+        if (!CONFIG.storyOnly || storyPath.includes(path)) {
+          pass = true
         }
+      } else if (isRegExp(path) && path.test(type)) {
+        if (!CONFIG.storyOnly) pass = true
       }
-      if (pass) {
-        result = true
-        if (!Array.isArray(handles)) handles = [handles]
-        for (let handle of handles) {
+    }
+    if (pass) {
+      result = true
+      if (!Array.isArray(handles)) handles = [handles]
+      for (let handle of handles) {
+        try {
           if (isString(handle)) {
-            
+          
           } else {
             await handle(data, type)
           }
+        } catch (e) {
+          console.log(e)
         }
       }
     }
-  } catch (e) {
-    console.log(e)
   }
   return result
 }
