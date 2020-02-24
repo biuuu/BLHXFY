@@ -1,6 +1,6 @@
 const template = `
 <style>
-#btn-setting-blhxfy {
+#wrapper .cnt-setting #btn-setting-blhxfy {
   position: absolute;
   left: 16px;
   top: 104px;
