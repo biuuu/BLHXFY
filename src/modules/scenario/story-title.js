@@ -26,12 +26,13 @@ const chapterList = async (data) => {
 const npcChapterList = async (data) => {
   let nameMap = await getName()
   if (data.scenes) {
-    data.scenes.forEach(item => {
+    for (let key in data.scenes) {
+      let item = data.scenes[key]
       let name = item.scene_name
       if (nameMap.has(name)) {
         item.scene_name = nameMap.get(name)
       }
-    })
+    }
   }
   if (data.episode) {
     data.episode.forEach(item => {
