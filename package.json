@@ -1,6 +1,6 @@
 {
   "name": "blhxfy",
-  "version": "1.11.7",
+  "version": "1.12.0",
   "description": "碧蓝幻想汉化脚本",
   "main": "./src/main.js",
   "scripts": {
@@ -33,6 +33,7 @@
     "gh-pages": "^2.0.1",
     "md5-dir": "^0.2.0",
     "minimatch": "^3.0.2",
+    "pako": "^1.0.11",
     "rollup": "^1.4.1",
     "rollup-plugin-babel": "^4.0.0-beta.8",
     "rollup-plugin-commonjs": "^9.1.5",

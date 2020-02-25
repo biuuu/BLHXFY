@@ -4,6 +4,7 @@ const { version } = require('../package.json')
 const glob = require('glob')
 const CSV = require('papaparse')
 const path = require('path')
+const pako = require('pako')
 
 const bdsign = {
   token: 'd0a372e3e02871d51c42606a18702e2b',
@@ -41,18 +42,32 @@ const readCsv = async (csvPath, silence) => {
 const collectStoryId = async () => {
   console.log('story...')
   const files = await glob.promise('./data/scenario/**/*.csv')
+  const chapterName = []
+  const titleSet = new Set()
   const prims = files.map(file => {
     return readCsv(file).then(list => {
+      let rs = []
       for (let i = list.length - 1; i >= 0; i--) {
         if (list[i].id === 'info') {
           if (list[i].trans) {
             const name = list[i].trans.trim()
             if (name) {
-              return [name, file.replace(/^\.\/data\/scenario\//, '')]
+              rs = [name, file.replace(/^\.\/data\/scenario\//, '')]
+            }
+          }
+        } else if (/\d-chapter_name/.test(list[i].id)) {
+          if (list[i].trans) {
+            const trans = list[i].trans.trim()
+            let title = list[i].text || list[i].jp
+            title = title.trim()
+            if (!titleSet.has(title) && title && trans) {
+              titleSet.add(title)
+              chapterName.push([title, trans])
             }
           }
         }
       }
+      return rs
     })
   })
   const result = await Promise.all(prims)
@@ -62,7 +77,10 @@ const collectStoryId = async () => {
       storyData[item[0]] = item[1]
     }
   })
+  let storyc = pako.deflate(JSON.stringify(storyData), { to: 'string' })
+  await fse.writeJson('./dist/blhxfy/data/story.json', storyc)
   await fse.writeJSON('./dist/blhxfy/data/scenario.json', storyData)
+  await fse.writeJSON('./dist/blhxfy/data/chapter-name.json', chapterName)
 }
 
 const collectSkillId = async () => {
