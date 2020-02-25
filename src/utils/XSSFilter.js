@@ -13,6 +13,7 @@ const whiteList = [
   '→掷出了<%= log[i].result_number %>',
   '<%= log[i].nickname %>对<%= log[i].item_name %>进行ROLL点',
   '<%= log[i].nickname %>获得了<%= log[i].item_name %>',
+  '阅读 <%= n.episode_name %>',
   '<%= title %>'
 ]
 

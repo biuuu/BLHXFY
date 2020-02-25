@@ -1,3 +1,4 @@
+import pako from 'pako/dist/pako_inflate.min.js'
 import getNameData, { getNounData } from '../store/name-npc'
 import parseCsv from '../utils/parseCsv'
 import fetchData from '../fetch'
@@ -108,10 +109,14 @@ const transMulti = async (list, nameMap, nounMap, nounFixMap, caiyunPrefixMap) =
   return fixedList
 }
 
+let scenarioData
 const getScenario = async (name) => {
   let csv = getPreviewCsv(name)
   if (!csv) {
-    const scenarioData = await fetchData('/blhxfy/data/scenario.json')
+    if (!scenarioData) {
+      const binaryString = await fetchData('/blhxfy/data/story.json')
+      scenarioData = JSON.parse(pako.inflate(binaryString, { to: 'string' }))
+    }
     const pathname = scenarioData[name]
     if (!pathname) {
       return { transMap: null, csv: '' }
