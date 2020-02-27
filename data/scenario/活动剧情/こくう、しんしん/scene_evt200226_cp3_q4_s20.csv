@@ -1,0 +1,64 @@
+id,name,text,trans
+0-chapter_name,,第3話 剔抉,揭露
+0-synopsis,,己がカルム一族の生き残りだとシスに明かしたネハンは、一族の成人の儀に使われる「入神湯」という薬をシスが服用し、暴走せずにいられるなら秩序の騎空団への訴えを取り下げると告げる。気持ちを落ち着けた姬塔が異様な気配を感じて急ぎ戻ると、そこには暴走したシスの姿があった。姬塔は駆け付けたシエテと共に、シスを抑えようとする。,自称是卡尔姆一族的生存者的涅槃对希斯宣称，只要他能喝下一族在成人仪式时使用的药物「入神汤」，并且不暴走的话，就去和秩序骑空团撤下诉讼。心情恢复平静的姬塔感到了异样的气息，急忙赶回来之后，看到了暴走的希斯。姬塔和赶来的希耶提一起阻止希斯。
+1,シス/希斯,お前……今……,你……刚才……
+2,ネハン,……カルム一族としての、<br>お前の名だ。<br>お前は捨てたつもりかもしれないが。,……这是你作为卡尔姆一族的名字。<br>虽然你可能已经舍弃这个名字了。
+3,シス/希斯,その名を知っている、ということは……<br>お前は……,你居然知道这个名字，<br>也就是说……你是……
+4,ネハン,ああ。カルム一族の……<br>……いや、例え名乗っても<br>お前は俺を知らないだろうな。,嗯。我是卡尔姆一族的……<br>……算了，就算我报上名字，<br>想必你也不认识我吧。
+5,ネハン,お前に父を、母を、姉を……<br>一族郎党を殺された者。<br>それが俺だ。,我的父亲，母亲，姐姐……<br>一族的亲人全都被你杀掉的人。<br>那就是我。
+6,シス/希斯,…………,…………
+7,シス/希斯,俺は……,我……
+8,ネハン,……カルム一族の成人の儀。<br>覚えているか？,……你还记得<br>卡尔姆一族的成人仪式吗？
+9,シス/希斯,<span class='scene-font-spword'>『成人の儀』</span>……？,<span class='scene-font-spword'>『成人仪式』</span>……？
+10,ネハン,覚えていない……いや、知らないのか。<br>どちらにせよ起きたことに<br>変わりはないが。,不记得……不，是不知道吗。<br>不过，不管怎么样，<br>已经发生过的事情都不会改变。
+11,,<span class='scene-font-katari'>ネハンは上着から取り出した</span><br><span class='scene-font-katari'>液体の入った小瓶をシスに示す。</span>,<span class='scene-font-katari'>涅槃从上衣里拿出了</span><br><span class='scene-font-katari'>一个装着液体的小瓶给希斯看。</span>
+12,シス/希斯,それは……！,那是……！
+13,ネハン,心の箍を外し<br>肉体が持つ力全てを開放する……<br><span class='scene-font-spword'>入神湯</span>。,能够解除心灵的枷锁，<br>解放身体所蕴含的全部力量的……<br><span class='scene-font-spword'>入神汤</span>。
+14,ネハン,例えば……お前が、この薬を服用し<br>それでも暴走せずにいられる、<br>と言うのなら……,如果说……你能喝下这个药，<br>并且不暴走的话……
+15,ネハン,俺は、秩序の騎空団への訴えを<br>取り下げよう。,我就向秩序骑空团<br>撤下对你的诉讼。
+16,シス/希斯,…………！,…………！
+22,ビィ/碧,お～い！<br>姬塔～っ！,喂～！<br>姬塔～！
+24,ルリア/露莉亚,はぁ、はぁ……<br>姬塔……っ！,哈，哈……<br>姬塔……！
+25,,<span class='scene-font-katari'>ビィとルリアは、森の一角で</span><br><span class='scene-font-katari'>切り株に座り膝を抱える</span><br><span class='scene-font-katari'>姬塔を見つけた。</span>,<span class='scene-font-katari'>碧和露莉亚在森林的角落里</span><br><span class='scene-font-katari'>找到了抱着膝盖</span><br><span class='scene-font-katari'>坐在树墩上的姬塔。</span>
+26,ルリア/露莉亚,姬塔……,姬塔……
+27,ビィ/碧,いや～、びっくりだぜ！<br>姬塔の親父さんが<br>シスの恩人の騎空士だったなんて……,哎呀～，真是吓了我一跳！<br>没想到姬塔的父亲<br>居然就是有恩于希斯的骑空士……
+28,ビィ/碧,なっ！　姬塔……,是吧！姬塔……
+29,ビィ/碧,…………,…………
+30,ビィ/碧,……姬塔を<br>置いてったのに、なんで他所の子供の<br>世話なんて……ってオイラも思うぜ。,我也在想……<br>……明明放着姬塔不管，<br>为什么还跑去照顾别的地方的孩子……
+31,ビィ/碧,ひっでぇよなぁ親父さん！,真是个过分的老爸啊！
+32,,<span class='scene-font-katari'>敢えて笑い飛ばすビィに、</span><br><span class='scene-font-katari'>姬塔は</span><br><span class='scene-font-katari'>不器用に笑ってみせる。</span>,<span class='scene-font-katari'>看着刻意想要一笑了之的碧，</span><br><span class='scene-font-katari'>姬塔笨拙地笑了笑。</span>
+33,ルリア/露莉亚,姬塔……<br>お父さんが決めたことで<br>シスさんのせいじゃない……？,姬塔……<br>这是父亲决定的事情，<br>并不是希斯的错……？
+34,ルリア/露莉亚,文句を言うなら、お父さんに……<br>そうですね！,如果要抱怨的话，就冲父亲……<br>是啊！
+35,,<span class='scene-font-katari'>姬塔が少し無理をして</span><br><span class='scene-font-katari'>口にした言葉を聞いたルリアは</span><br><span class='scene-font-katari'>優しく微笑み手を握る。</span>,<span class='scene-font-katari'>听完了姬塔有些勉强自己说出的话，</span><br><span class='scene-font-katari'>露莉亚微笑着，温柔地握住了她的手。</span>
+36,ルリア/露莉亚,だから、シスさんも一緒に<br>お父さんに会いに行かなくちゃ。<br>ねっ、姬塔。,所以，我们一定要和希斯<br>一起去见父亲。<br>对吧，姬塔。
+37,,<span class='scene-font-katari'>寄り添うルリアとビィに頷き、</span><br><span class='scene-font-katari'>姬塔は</span><br><span class='scene-font-katari'>切り株から立ち上がる。</span>,<span class='scene-font-katari'>姬塔向身边的露莉亚和碧轻轻点头，</span><br><span class='scene-font-katari'>从树墩上站了起来。</span>
+38,リーシャ/莉夏,すみませんでした……<br>知らなかったとはいえ、<br>立ち入った話をしてしまって……,对不起……<br>虽说是因为不清楚状况，<br>但我确实说了不合时宜的话……
+40,,<span class='scene-font-katari'>申し訳なさから悄然とするリーシャへ</span><br><span class='scene-font-katari'>気にしないよう告げようとした</span><br><span class='scene-font-katari'>姬塔は異様な気配に総毛立つ。</span>,<span class='scene-font-katari'>正当姬塔想要告诉</span><br><span class='scene-font-katari'>因歉意而消沉的莉夏没关系的时候，</span><br><span class='scene-font-katari'>一种异样的气息立刻让她警戒了起来。</span>
+41,ルリア/露莉亚,…………！<br>この気配……魔物さん？<br>ううん……,…………！<br>这个气息……是魔物？<br>不……
+42,？？？,……ッ……,……唔……
+43,ビィ/碧,んなっ！？　今の唸り声……！,什么！？刚才的呻吟……！
+44,,<span class='scene-font-katari'>姬塔とリーシャは</span><br><span class='scene-font-katari'>気配の元……小型騎空艇の方向へと</span><br><span class='scene-font-katari'>走り出す。</span>,<span class='scene-font-katari'>姬塔和莉夏向着散发出气息的地方……</span><br><span class='scene-font-katari'>小型骑空艇那边跑了过去。</span>
+50,ニオ/妮欧,何……？<br>この旋律……,什么……？<br>这个旋律……
+56,シス/希斯,う……ぐっ……,唔……啊……
+61,ビィ/碧,シス！？<br>おい、どうしたんだよ！？,希斯！？<br>喂，你怎么了啊！？
+62,,<span class='scene-font-katari'>小型騎空艇のそばへ戻った</span><br><span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>苦しみのたうち回るシスをみつけた。</span>,<span class='scene-font-katari'>姬塔一行人回到小型骑空艇边时，</span><br><span class='scene-font-katari'>发现了在地上痛苦挣扎的希斯。</span>
+64,ルリア/露莉亚,シスさん、シスさん！<br>しっかり……,希斯，希斯！<br>你振作……
+66,ルリア/露莉亚,きゃっ！？,啊！？
+67,,<span class='scene-font-katari'>心配して肩に触れようとしたルリアは</span><br><span class='scene-font-katari'>シスに突き飛ばされてよろめき、</span><br><span class='scene-font-katari'>姬塔が寸でのところで支える。</span>,<span class='scene-font-katari'>露莉亚因为担心想触碰希斯的肩膀，</span><br><span class='scene-font-katari'>却被希斯突然撞开，往后踉跄了几步，</span><br><span class='scene-font-katari'>眼看就要摔倒时被姬塔及时扶住。</span>
+69,シス/希斯,…………！,…………！
+70,,<span class='scene-font-katari'>瞬間、姬塔と視線を交わした</span><br><span class='scene-font-katari'>シスの仮面の下で瞳孔が開き</span><br><span class='scene-font-katari'>それと同時に彼の拳が奔った。</span>,<span class='scene-font-katari'>在与姬塔视线相交的一瞬间，</span><br><span class='scene-font-katari'>希斯假面下的瞳孔放大，</span><br><span class='scene-font-katari'>与此同时他的拳头挥了过来。</span>
+72,ルリア/露莉亚,シスさん！？<br>落ち着いてください、<br>姬塔です！！,希斯！？<br>请冷静点，<br>那是姬塔啊！！
+73,ビィ/碧,どうしちまったってんだ！？,到底发生了什么啊！？
+75,シス/希斯,グルルルル……,咕噜噜噜噜……
+76,リーシャ/莉夏,……ッ！<br>この威圧感、<br>まるで野生の獣……！,……！<br>这份威圧感，<br>简直就是野兽……！
+77,シス/希斯,<span class='scene-font-4'>シャアアアアアッ！！</span>,<span class='scene-font-4'>嘶啊啊啊啊啊！！</span>
+84,ルリア/露莉亚,この剣……シエテさん！,这个剑……是希耶提！
+87,シエテ/希耶提,はいはーい！<br>シエテお兄さん参上！,好了好了！<br>希耶提哥哥参上！
+88,シエテ/希耶提,それで、シス君？<br>何があったのか、話してごらん……<br>ってできる状態じゃないかな。,那么，希斯君？<br>跟我说说到底发生了什么吧……<br>不过看上去也不是能对话的状态呢。
+90,シス/希斯,…………ッ！,…………！
+91,シエテ/希耶提,やれやれ……<br>悪いけど手を貸してくれるかな？<br>姬塔ちゃん？,哎呀哎呀……<br>不好意思，能帮我个忙吗？<br>姬塔？
+92,,<span class='scene-font-katari'>姬塔は</span><br><span class='scene-font-katari'>ルリアとビィを下がらせ、</span><br><span class='scene-font-katari'>シエテと並びシスと相対する。</span>,<span class='scene-font-katari'>姬塔让露莉亚和碧离得稍远一点，</span><br><span class='scene-font-katari'>与希耶提并肩面对希斯。</span>
+94,シエテ/希耶提,さぁて……<br>ちょっと手荒な子守歌といこうか！,那么……<br>就来唱一首有点粗暴的摇篮曲吧！
+109,シス/希斯,<span class='scene-font-4'>ァアアアアアアアッ！！</span>,<span class='scene-font-4'>啊啊啊啊啊啊啊啊啊！！</span>
+info,,,scene_evt200226_cp3_q4_s20
+译者,,,sora_vicki
