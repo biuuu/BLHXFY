@@ -1,17 +1,17 @@
 id,name,text,trans
 0-chapter_name,,第3話 剔抉,揭露
 0-synopsis,,エッセル達が島を発った後、リーシャが星屑の街を訪れ姬塔と話がしたいと告げる。同席を希望したシスと共にリーシャと話すうち、姬塔は自分の父親が、自分を故郷へ置いて去った後シスと共にいたことを知ってしまう。その場から駆け出した姬塔を追うことができないシス。そこに突如ネハンが姿を現すのだった。,在艾瑟尔他们离开岛后，莉夏来到了星屑之街，想要和姬塔谈话。就在希望一起参加谈话的希斯和莉夏说话时，姬塔知道了自己的父亲把自己丢在故乡不顾后，和希斯在一起的事。希斯没能追上跑开了的姬塔，遇上了突然出现在那里的涅槃。
-1,秩序の騎空団伝令,モニカさん！<br>すみません、<br>少しご相談があるのですが……,莫妮卡小姐！<br>不好意思，<br>有些事情想要向您汇报……
+1,秩序の騎空団伝令,モニカさん！<br>すみません、<br>少しご相談があるのですが……,莫妮卡小姐！<br>不好意思，<br>有些事情想要跟您商量……
 2,モニカ/莫妮卡,うん？　どうした。,嗯？怎么了。
 3,秩序の騎空団伝令,小型騎空艇の数が合わないんです。<br>第六艇に乗せていたものなのですが。,第六艇上的小型骑空艇的数量对不上。
-4,秩序の騎空団伝令,<span class='scene-font-place'>アマルティア島</span>への帰還直後は、<br>３機残っていると<br>報告にあったのですが──,根据从<span class='scene-font-place'>阿玛提亚岛</span>回来之后的报告来看，<br>应该还剩下3架才对——
+4,秩序の騎空団伝令,<span class='scene-font-place'>アマルティア島</span>への帰還直後は、<br>３機残っていると<br>報告にあったのですが──,报告上说回到<span class='scene-font-place'>阿玛提亚岛</span>后应该还剩下3架才对——
 5,秩序の騎空団伝令,今朝、目視で確認をしたところ、<br>第六艇所属の小型艇で<br>格納庫にあるのは２機だけなんです。,可在今早亲眼确认后，<br>格纳库中第六艇所属的小型艇<br>只有两架了。
 6,モニカ/莫妮卡,ふむ……<br>１機減っている……ということか。,唔……<br>小型艇的数量……少了一架吗……。
 7,モニカ/莫妮卡,先ほどリーシャが<br>小型艇に乗って出発していたな……<br>それは勘定に入れてあるか？,刚才莉夏<br>好像开着小型艇出去了……<br>你把这个算进去了吗？
 8,秩序の騎空団伝令,はい……<br>でも、申請では別の格納庫から<br>用意したことになっていて……,是的……<br>但是她申请的小型艇<br>是从别的格纳库准备的……
 9,秩序の騎空団伝令,管理部が第六艇所属の小型艇と、<br>取り違えたんでしょうか。,是管理部把她用的那台<br>和第六艇所属的小型艇弄混了吗。
-10,モニカ/莫妮卡,十天衆との戦いで出た被害の<br>補充やら何やらで、<br>管理部も混乱しているからな……,因为和十天众的战斗之后的<br>受损的资材补充，<br>连管理部也开始混乱了吗……
-11,モニカ/莫妮卡,わかった、再度確認できるよう<br>人手を回しておこう。,我知道了。<br>我会安排人手<br>再次确认的。
+10,モニカ/莫妮卡,十天衆との戦いで出た被害の<br>補充やら何やらで、<br>管理部も混乱しているからな……,因为和十天众的战斗之后<br>要补充受损的资材还有其他的事情，<br>管理部也很混乱啊……
+11,モニカ/莫妮卡,わかった、再度確認できるよう<br>人手を回しておこう。,我知道了。<br>我会安排人手再次确认的。
 12,秩序の騎空団伝令,ありがとうございます！,十分感谢！
 13,モニカ/莫妮卡,単なる数え間違いならいいんだが……,如果只是数错了倒还好……
 19,ソーン/索恩,あれは……！？,那是……！？
@@ -28,18 +28,18 @@ id,name,text,trans
 40,シエテ/希耶提,片方の言い分を<br>無視することはできない、<br>っていうのは当然のことだと思うよ。,我理解你没办法无视任何一边的请求，<br>这也是理所当然的。
 41,シエテ/希耶提,俺達に遠慮しなくていいから、<br>会ってきたら？,不用顾虑我们，<br>去见她吧？
 42,ルリア/露莉亚,そうしましょう、姬塔。<br>リーシャさんに怪我がないかとか、<br>私も心配ですし……,去吧，姬塔。<br>我也很担心莉夏有没有受伤……
-43,,<span class='scene-font-katari'>ルリアの言葉を受け、</span><br><span class='scene-font-katari'>姬塔は</span><br><span class='scene-font-katari'>島の発着場へと向かう。</span>,<span class='scene-font-katari'>听了露莉亚的话，</span><br><span class='scene-font-katari'>姬塔向岛上停靠着</span><br><span class='scene-font-katari'>骑空艇的地方出发了。</span>
+43,,<span class='scene-font-katari'>ルリアの言葉を受け、</span><br><span class='scene-font-katari'>姬塔は</span><br><span class='scene-font-katari'>島の発着場へと向かう。</span>,<span class='scene-font-katari'>听了露莉亚的话，</span><br><span class='scene-font-katari'>姬塔向岛上的进出港出发了。</span>
 49,シス/希斯,……おい、姬塔。,……喂，姬塔。
 50,ルリア/露莉亚,はわっ！？　シスさん！？<br>いつの間に……,哈啊！？希斯！？<br>你什么时候在那里的……
 51,ビィ/碧,ついてきてたのか！？<br>寝てなくていいのかよ？,你跟着来了吗！？<br>不用躺着休息了吗？
 52,シス/希斯,ああ。秩序の騎空団に<br>訊きたいことがある。<br>同席させてもらうぞ。,嗯。<br>我有想问秩序骑空团的事。<br>让我一起去吧。
-53,,<span class='scene-font-katari'>頑として譲らない様子の</span><br><span class='scene-font-katari'>シスを連れ、姬塔達は</span><br><span class='scene-font-katari'>リーシャの元へ出向いた。</span>,<span class='scene-font-katari'>姬塔一行人</span><br><span class='scene-font-katari'>带着顽固又不肯退让的希斯</span><br><span class='scene-font-katari'>向莉夏那里出发。</span>
+53,,<span class='scene-font-katari'>頑として譲らない様子の</span><br><span class='scene-font-katari'>シスを連れ、姬塔達は</span><br><span class='scene-font-katari'>リーシャの元へ出向いた。</span>,<span class='scene-font-katari'>姬塔一行人</span><br><span class='scene-font-katari'>带着顽固又不肯退让的希斯</span><br><span class='scene-font-katari'>前往莉夏所在之处。</span>
 59,ルリア/露莉亚,リーシャさん！<br>良かった、元気そうで……！,莉夏！<br>你没事真的太好了……！
 60,リーシャ/莉夏,ご足労いただきありがとうございます。<br>姬塔さん。<br>ルリアさん、ビィさん……,多谢你们不辞辛苦到这里来。<br>姬塔。<br>露莉亚，碧……
 61,リーシャ/莉夏,それに……十天衆、シス。<br>直接会えるとは<br>思っていませんでした。,还有……十天众，希斯。<br>我没想到竟然能直接见到你。
 62,ビィ/碧,あっ！<br>今無理矢理連れて行ったりは<br>するなよな！,啊！<br>你可别趁现在强行把他带走啊！
 63,ビィ/碧,シエテはシスが一緒に来てるって<br>知らねぇんだ。知ってたら<br>止められてただろうしさ。,希耶提不知道希斯也一起来了。<br>如果知道了的话，一定会阻止他的……
-64,リーシャ/莉夏,わかってます。<br>無理に連行するつもりはありません。,我知道的。<br>我并没有强行带走他的意思。
+64,リーシャ/莉夏,わかってます。<br>無理に連行するつもりはありません。,我知道。<br>我并没有强行带走他的意思。
 65,リーシャ/莉夏,ただ……できれば、自分の意思で<br>同行してほしいとは<br>思っていますけど……,只是……如果可能的话，<br>希望他能自愿<br>配合我们走一趟……
 66,シス/希斯,それは……,这……
 67,リーシャ/莉夏,秩序の騎空団と十天衆が<br>対立を続ければ、皺寄せを受けるのは<br>一般の、罪のない人達です。,如果秩序骑空团与十天众的<br>对立继续下去的话，受到波及的<br>只会是无辜的普通老百姓。
@@ -51,7 +51,7 @@ id,name,text,trans
 73,リーシャ/莉夏,……？<br>貴方の命の恩人についてです。<br>姬塔さんの……,……？<br>是关于你的救命恩人。<br>他是姬塔的……
 74,リーシャ/莉夏,え、あ……<br>ご、ごめんなさい、私……<br>皆さんご存知のことかと……,咦，啊……<br>对、对不起，我……<br>我以为各位都已经知道了……
 75,シス/希斯,そんな……<br>いや、だが……,怎么会……<br>不，但是……
-76,ビィ/碧,親父さんが……<br>ってことは、<span class='scene-font-place'>ザンクティンゼル</span>を<br>発った後カルムの郷に……？,老爸他……<br>也就是说，在离开<span class='scene-font-place'>赞克汀泽</span>之后，<br>他去了卡尔姆的村庄？
+76,ビィ/碧,親父さんが……<br>ってことは、<span class='scene-font-place'>ザンクティンゼル</span>を<br>発った後カルムの郷に……？,老爸他……<br>也就是说，在离开<span class='scene-font-place'>赞克汀泽</span>之后，<br>他去了卡尔姆之乡？
 77,,<span class='scene-font-katari'>瞠目していた姬塔は、</span><br><span class='scene-font-katari'>ビィの言葉を聞くなり</span><br><span class='scene-font-katari'>弾かれるようにその場から駆け出す。</span>,<span class='scene-font-katari'>目瞪口呆的姬塔</span><br><span class='scene-font-katari'>在听到碧的话之后</span><br><span class='scene-font-katari'>飞快地跑开了。</span>
 78,ルリア/露莉亚,あっ……<br>姬塔っ、<br>どこへ行くんですか！？,啊……<br>姬塔，<br>你要去哪里啊！？
 79,ビィ/碧,ま、待てよぅ姬塔！,等，等一下啊姬塔！
@@ -62,7 +62,7 @@ id,name,text,trans
 85,シス/希斯,<span class='scene-font-kokoro'>（姬塔が故郷で</span><br><span class='scene-font-kokoro'>孤独を味わっている頃、</span><br><span class='scene-font-kokoro'>俺は……奴の父親と……）</span>,<span class='scene-font-kokoro'>（姬塔在故乡</span><br><span class='scene-font-kokoro'>孤身一人的时候，</span><br><span class='scene-font-kokoro'>我却……和她的父亲……）</span>
 86,シス/希斯,姬塔……,姬塔……
 88,シス/希斯,っ！？,！？
-92,,<span class='scene-font-katari'>落ちる影に空を仰いだシスは</span><br><span class='scene-font-katari'>着陸する小型艇を警戒する。</span>,<span class='scene-font-katari'>看见地面上突然出现的影子，</span><br><span class='scene-font-katari'>希斯抬头望向空中，</span><br><span class='scene-font-katari'>只见一艘小型艇着陆在眼前，</span><br><span class='scene-font-katari'>这让他马上提高了警惕。</span>
+92,,<span class='scene-font-katari'>落ちる影に空を仰いだシスは</span><br><span class='scene-font-katari'>着陸する小型艇を警戒する。</span>,<span class='scene-font-katari'>希斯看见地面上的影子，抬头望向空中，</span><br><span class='scene-font-katari'>只见一艘小型艇在眼前着陆，</span><br><span class='scene-font-katari'>这让他马上提高了警惕。</span>
 96,ネハン,…………,…………
 97,シス/希斯,何者だ……！,什么人……！
 98,ネハン,────,—————
