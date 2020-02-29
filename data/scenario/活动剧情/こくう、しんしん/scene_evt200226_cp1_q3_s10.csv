@@ -9,22 +9,22 @@ id,name,text,trans
 6,カトル/卡托尔,奴等にとって目障りな組織が<br>潰し合いをしている間に、<br>連中が星屑の街を狙う可能性は高い。,他们很可能<br>趁碍眼的组织互相厮杀的时候，<br>把星屑之街作为目标。
 7,ビィ/碧,子供だけで暮らしてる街だもんな……<br>エッセル達がいねぇってなったら<br>敵に狙われちまうのか……,毕竟是只生活着小孩子的街市啊……<br>要是艾瑟尔你们不在，<br>很容易就会被敌人盯上……
 8,エッセル/艾瑟尔,せめてシエテの剣神を残して<br>いけたら良かったんだけど、今回は<br>相手が相手だからそれも難しくて。,要是至少留下希耶提的剑神就好了，<br>但是这次的对手特别棘手，<br>所以也不太可能。
-9,カトル/卡托尔,ったくあの人、遊んでないでとっとと<br>碧の騎士の首を頂いちまえば<br>良かったんですよ。,真是的，那个人，<br>要不是他一天到晚都一副玩乐的样子，<br>早就把碧骑士的头给砍下来了。
+9,カトル/卡托尔,ったくあの人、遊んでないでとっとと<br>碧の騎士の首を頂いちまえば<br>良かったんですよ。,真是的，那个人，<br>别在那边玩赶快把碧骑士的头砍下来就都解决了。
 10,カトル/卡托尔,まあ、弟妹達もこういうことには<br>慣れてますから<br>大丈夫だとは思いますけどね……,不过，我想弟弟妹妹们也已经习惯了<br>所以应该没事吧……
 19,,<span class='scene-font-katari'>シエテに悪態を吐くカトルは、</span><br><span class='scene-font-katari'>騎空艇が島に停泊するとすぐさま</span><br><span class='scene-font-katari'>艇を降り星屑の街へ急ごうとする。</span>,<span class='scene-font-katari'>卡托尔发表着对希耶提的不满言论，</span><br><span class='scene-font-katari'>一等骑空艇停靠在岛边，</span><br><span class='scene-font-katari'>他便立刻下船向星屑之街赶去。</span>
 20,エッセル/艾瑟尔,シス、階段大丈夫？,希斯，能自己下楼梯吗？
 21,シス/希斯,構うな。<br>……それほど痛みは酷くない。,没关系。<br>……没有痛得那么剧烈。
 23,,<span class='scene-font-katari'>カトルを追って降船する</span><br><span class='scene-font-katari'>十天衆のメンバーの背を見つめ、</span><br><span class='scene-font-katari'>姬塔にルリアが耳打ちする。</span><span class='scene-font-katari'>,<span class='scene-font-katari'>露莉亚注视着</span><br><span class='scene-font-katari'>随卡托尔之后下船的十天众们，</span><br><span class='scene-font-katari'>对姬塔悄悄地说道。
 24,ルリア/露莉亚,シスさんの怪我も心配ですけど、<br>リーシャさんやモニカさん、<br>大丈夫でしょうか……,虽然我很担心希斯的伤势，<br>但也不知道莉夏和莫妮卡她们<br>怎么样了……
-25,ビィ/碧,この空域でやりあったんなら、<br>リーシャの第四騎空艇団が<br>中心になってたはずだもんな。,在这个空域交战的话，<br>莉夏的第四骑空艇团<br>应该会是战场的中心吧。
+25,ビィ/碧,この空域でやりあったんなら、<br>リーシャの第四騎空艇団が<br>中心になってたはずだもんな。,在这个空域交战的话，<br>应该以莉夏的第四骑空艇团为中心吧。
 26,ビィ/碧,はぁ……<br>あっちもこっちも心配で、<br>気の休まらねぇ話だぜ……,哎……<br>两边都令人担心，<br>真是让人放不下心啊……
 27,,<span class='scene-font-katari'>とはいえ今すぐリーシャ達の状況を</span><br><span class='scene-font-katari'>知る術はなく、姬塔達は</span><br><span class='scene-font-katari'>エッセル達と共に星屑の街へ赴く。</span>,<span class='scene-font-katari'>话虽如此，现在也无从得知</span><br><span class='scene-font-katari'>莉夏她们的状况，姬塔等人</span><br><span class='scene-font-katari'>只能和艾瑟尔他们一起赶往星屑之街。
 33,活発な女の子,あっ！　エッセル、カトル、<br>おかえりなさい！　それにフュンフも<br>姬塔さんもいらっしゃい～！,啊！<br>艾瑟尔，卡托尔，欢迎回来！<br>也欢迎芬芙和姬塔你们！
 34,活発な女の子,<span class='scene-font-4'>──って、大変っ！</span><br>怪我した人がいるの？<br>すぐ空き部屋掃除するね！,<span class='scene-font-4'>——啊，不好！</span><br>有伤员吗？<br>我马上打扫一下空屋子！
-35,,<span class='scene-font-katari'>一同を迎えてくれた星屑の街の子供達が</span><br><span class='scene-font-katari'>用意してくれた部屋で</span><br><span class='scene-font-katari'>シスはしばらく療養することになった。</span>,<span class='scene-font-katari'>星屑之街的孩子们前来迎接大家，</span><br><span class='scene-font-katari'>并且准备了房间，</span><br><span class='scene-font-katari'>供希斯暂时在这里养伤。
+35,,<span class='scene-font-katari'>一同を迎えてくれた星屑の街の子供達が</span><br><span class='scene-font-katari'>用意してくれた部屋で</span><br><span class='scene-font-katari'>シスはしばらく療養することになった。</span>,<span class='scene-font-katari'>星屑之街的孩子们前来迎接大家，</span><br><span class='scene-font-katari'>并且准备了房间，</span><br><span class='scene-font-katari'>希斯决定暂时在这里养伤。
 41,フュンフ/芬芙,時間が経てば魔力は薄まるから、<br>もう少ししたらあちしの魔法も<br>かかり易くなると思うんだけど……,随着时间的推移，魔力会慢慢减弱，<br>所以，我觉得只要再过一阵子，<br>我的魔法应该就更容易见效了……
 42,カトル/卡托尔,どうせウーノさん達と合流するまで<br>僕達も身動き取れないですし。<br>シスさんは寝かせておきましょう。,反正在和乌诺他们汇合前<br>我们也不能行动。<br>先让希斯好好休息吧。
-43,エッセル/艾瑟尔,フュンフも魔法を沢山使ったし、<br>疲れたよね。ご飯を食べて、良く寝て<br>体を休めよう。,芬芙也用了很多魔法，很累了吧。<br>之后一定要好好吃饭，好好睡觉，<br>让身体休息一下。
+43,エッセル/艾瑟尔,フュンフも魔法を沢山使ったし、<br>疲れたよね。ご飯を食べて、良く寝て<br>体を休めよう。,芬芙也用了很多魔法，很累了吧。<br>好好吃饭，好好睡觉，<br>让身体休息一下。
 44,フュンフ/芬芙,うん……,嗯……
 47,冷静な男の子,エッセル、カトル。<br>今いいかな？,艾瑟尔，卡托尔，<br>现在有空吗？
 48,エッセル/艾瑟尔,ん……何かあった？,嗯……怎么了？
@@ -42,13 +42,13 @@ id,name,text,trans
 65,ルリア/露莉亚,あの……姬塔、<br>私ってそんなにたくさん<br>食べてますか……？,那个……姬塔，<br>我吃的有那么多吗……？
 66,,<span class='scene-font-katari'>わざとらしく目を逸らす</span><br><span class='scene-font-katari'>姬塔にルリアは</span><br><span class='scene-font-katari'>ショックを受けて取りすがる。</span>,<span class='scene-font-katari'>看着姬塔故意移开了视线，</span><br><span class='scene-font-katari'>露莉亚备受打击。</span>
 67,ルリア/露莉亚,<span class='scene-font-4'>ええっ！？</span><br>そ、そんなに！？<br>そんなにです！？,<span class='scene-font-4'>诶——！？</span><br>有、有那么多吗！？<br>真的那么多？
-68,エッセル/艾瑟尔,ん……姬塔、<br>あんまりルリアに意地悪するの<br>良くないと思うよ？,嗯……姬塔，<br>我觉得你这么捉弄露莉亚<br>不太好哦？
+68,エッセル/艾瑟尔,ん……姬塔、<br>あんまりルリアに意地悪するの<br>良くないと思うよ？,嗯……姬塔，<br>我觉得你这么捉弄露莉亚不太好哦？
 69,ルリア/露莉亚,あっ！　意地悪だったんですか！？<br>も～！　姬塔～！,啊！是在捉弄我吗！？<br>真是的～！姬塔～！
 70,カトル/卡托尔,しっ！　皆さん、静かに。<br>この声……大人のものだ。<br>それも知らない……！,嘘！大家安静点。<br>这个声音……是成年人的。<br>而且还是不认识的人……！
 71,,<span class='scene-font-katari'>離れた場所の声を聞き取ったらしい</span><br><span class='scene-font-katari'>カトルが仲間達に足を止めるよう促し、</span><br><span class='scene-font-katari'>短剣の柄へ手を伸ばす。</span>,<span class='scene-font-katari'>卡托尔似乎听到了远处的声音，</span><br><span class='scene-font-katari'>他让大家停下脚步，</span><br><span class='scene-font-katari'>将手伸向了短剑的柄。</span>
 72,カトル/卡托尔,…………！,…………！
 74,冷静な男の子,<span class='scene-font-4'>あっ！　待ってカトル！！</span>,<span class='scene-font-4'>啊！等等，卡托尔！</span>
-75,,<span class='scene-font-katari'>男の子の制止よりも早く</span><br><span class='scene-font-katari'>カトルは素早い身のこなしで</span><br><span class='scene-font-katari'>角から飛び出した。</span>,<span class='scene-font-katari'>还没等男孩制止，</span><br><span class='scene-font-katari'>卡托尔便迅速从角落里冲了出来。</span>
+75,,<span class='scene-font-katari'>男の子の制止よりも早く</span><br><span class='scene-font-katari'>カトルは素早い身のこなしで</span><br><span class='scene-font-katari'>角から飛び出した。</span>,<span class='scene-font-katari'>还没等男孩制止，</span><br><span class='scene-font-katari'>卡托尔便迅速从角落里冲了出去。</span>
 76,？？？,…………,…………
 77,おませな女の子,カトル兄ちゃん！,卡托尔哥哥！
 78,カトル/卡托尔,<span class='scene-font-4'>テメェ！</span><br><span class='scene-font-4'>妹に何してやがる！！</span>,<span class='scene-font-4'>你这家伙！</span><br><span class='scene-font-4'>要对我妹妹做什么！
@@ -56,7 +56,7 @@ id,name,text,trans
 81,カトル/卡托尔,その小汚ェ手を妹から……,把你的脏手从我妹妹身上……
 83,冷静な男の子,<span class='scene-font-4'>ま、待って待ってカトル！</span><br><span class='scene-font-4'>ごめん、僕の説明不足だ！</span>,<span class='scene-font-4'>等、等等卡托尔！</span><br><span class='scene-font-4'>抱歉，是我没好好解释！</span>
 84,カトル/卡托尔,はっ……？,哈……？
-85,,<span class='scene-font-katari'>遅れて飛びついてきた男の子に</span><br><span class='scene-font-katari'>気勢を削がれたカトルの元へ、</span><br><span class='scene-font-katari'>姬塔達が追いつく。</span>,<span class='scene-font-katari'>听见男孩的话后，</span><br><span class='scene-font-katari'>卡托尔的怒气瞬间削弱，</span><br><span class='scene-font-katari'>姬塔他们也随之赶来。</span>
+85,,<span class='scene-font-katari'>遅れて飛びついてきた男の子に</span><br><span class='scene-font-katari'>気勢を削がれたカトルの元へ、</span><br><span class='scene-font-katari'>姬塔達が追いつく。</span>,<span class='scene-font-katari'>来晚了的男孩扑向卡托尔，</span><br><span class='scene-font-katari'>卡托尔的怒气瞬间削弱，</span><br><span class='scene-font-katari'>姬塔他们也随之赶来。</span>
 86,？？？,んー……？,啊……？
 87,ビィ/碧,<span class='scene-font-4'>な、なんだぁ！？</span><br><span class='scene-font-4'>このでっかいおっさん！？</span>,<span class='scene-font-4'>怎、怎么回事！？</span><br><span class='scene-font-4'>这个块头超大的大叔！？</span>
 88,？？？,……コノデッカイ……？,……块头超大……？
@@ -75,7 +75,7 @@ id,name,text,trans
 101,ムゲン,……む……,……唔……
 102,ルリア/露莉亚,こんにちは、ムゲンさん！<br>私はルリアっていいます。<br>それとこっちは姬塔です！,你好，无限！<br>我是露莉亚。<br>这边的是姬塔！
 103,ルリア/露莉亚,姬塔は<br>騎空団の団長さんなんですよ！,姬塔是骑空团的团长哦！
-104,,<span class='scene-font-katari'>ムゲンが握手を求めていることに</span><br><span class='scene-font-katari'>気づいたルリアは、</span><br><span class='scene-font-katari'>応じようとして目を丸くする。</span>,<span class='scene-font-katari'>露莉亚注意到无限想要握手，</span><br><span class='scene-font-katari'>跑过来想要回握的时候，</span><br><span class='scene-font-katari'>不禁睁大了双眼。</span>
+104,,<span class='scene-font-katari'>ムゲンが握手を求めていることに</span><br><span class='scene-font-katari'>気づいたルリアは、</span><br><span class='scene-font-katari'>応じようとして目を丸くする。</span>,<span class='scene-font-katari'>露莉亚注意到无限想要握手，</span><br><span class='scene-font-katari'>想要回握的时候，</span><br><span class='scene-font-katari'>不禁睁大了双眼。</span>
 105,ルリア/露莉亚,わぁ、ムゲンさん<br>手もすっごく大きいんですね！,哇，无限的手也好大哦！
 106,,<span class='scene-font-katari'>ルリアと並んで一緒に</span><br><span class='scene-font-katari'>太い指を握る姬塔に、</span><br><span class='scene-font-katari'>ムゲンは嬉しそうに眼を細める。</span>,<span class='scene-font-katari'>看着露莉亚和姬塔</span><br><span class='scene-font-katari'>一起握住自己粗壮的手指，</span><br><span class='scene-font-katari'>无限高兴得笑眯了眼。
 107,ムゲン,ルリア……と、<br>姬塔。,露莉亚……和，<br>姬塔。
@@ -87,23 +87,23 @@ id,name,text,trans
 113,ビィ/碧,こ、これからでっかくなるんだよぅ！<br>なっ、姬塔！,我、我以后会变得很大的啦！<br>对吧，姬塔？
 114,,<span class='scene-font-katari'>のんびりとやり取りする</span><br><span class='scene-font-katari'>ムゲンを前に、エッセルは</span><br><span class='scene-font-katari'>少なからず困惑した様子を見せる。</span>,<span class='scene-font-katari'>看到无限和大家悠然交流的样子，</span><br><span class='scene-font-katari'>艾瑟尔略显困惑。</span>
 115,エッセル/艾瑟尔,……悪い人では、なさそうだけど。,……看起来不是什么坏人。
-116,カトル/卡托尔,甘い。人畜無害を装うのは<br>マガザンを始めとした<br>マフィアの得意なやり口でしょう。,天真。<br>假装成人畜无害的样子，<br>是以马格森为首的黑手党擅长的计俩。
-117,活発な女の子,でも、必ず誰かが一緒にいるように<br>してるけど、ムゲンが外と連絡を<br>取ってる素振り一切ないのよね。,但是，最近一直有人跟着无限，<br>他也根本没有表现出<br>要和外界联络的意思。
+116,カトル/卡托尔,甘い。人畜無害を装うのは<br>マガザンを始めとした<br>マフィアの得意なやり口でしょう。,天真。<br>假装成人畜无害的样子，<br>是以玛格森为首的黑手党擅长的计俩。
+117,活発な女の子,でも、必ず誰かが一緒にいるように<br>してるけど、ムゲンが外と連絡を<br>取ってる素振り一切ないのよね。,但是，最近一直有人跟着无限，<br>他也根本没有表现出要和外界联络的意思。
 118,エッセル/艾瑟尔,ん……この島に来た経路は？,嗯……他是怎么来这个岛的？
 119,冷静な男の子,この島には僕の店と取引してくれてる<br>商人さんの騎空艇で来たみたい。<br>荷運びの手伝いをしてたんだって。,他好像是乘来我的店铺<br>做交易的商人的骑空艇到这里的。<br>似乎是让他帮忙搬东西。
 120,エッセル/艾瑟尔,ってことは……<br>よろず屋さんが紹介してくれた<br>取引先だよね。,也就是说……<br>他是万事屋介绍的商人带来的吧。
-121,エッセル/艾瑟尔,マガザンと繋がっているのは<br>考えにくい……けど。,我觉得这很难说和马格森有联系……<br>……不过。
+121,エッセル/艾瑟尔,マガザンと繋がっているのは<br>考えにくい……けど。,我觉得很难认为他和玛格森有联系……<br>……不过。
 122,カトル/卡托尔,どんな手を使ってくるか<br>わからないでしょう。ただでさえ<br>今は秩序の騎空団とモメてますし。,我们也不知道他们会耍什么手段啊。<br>尤其是现在，<br>我们还在和秩序骑空团对峙。
-123,冷静な男の子,ここ数日マガザンの動きは<br>割と大人しいけど……<br>嵐の前の静けさかもしれないもんね。,不过这几天马格森没什么动静，<br>比想象中的要老实……<br>也许是暴风雨前的平静也说不定。
-124,エッセル/艾瑟尔,ん……禁薬ヘヴンの流通を<br>急に締め付けたみたいだから……<br>内部で反発があったのかも。,嗯……他们好像也突然限制了<br>禁药“heaven”的流通……<br>也许是因此起了内讧。
-130,,<span class='scene-font-katari'>禁薬は高い効果と裏腹に</span><br><span class='scene-font-katari'>強い中毒性を持ち、多くの国家で</span><br><span class='scene-font-katari'>流通を制限されている危険な薬である。</span>,<span class='scene-font-katari'>禁药具有强效的成瘾性，</span><br><span class='scene-font-katari'>是许多国家限制流通的一种危险药物。
-131,,<span class='scene-font-katari'>中でもマガザンが総元締めとなる</span><br><span class='scene-font-katari'>ヘヴンは他のマフィアをも巻き込み</span><br><span class='scene-font-katari'>裏社会の大きな収入源となっている。</span>,<span class='scene-font-katari'>其中以玛格森为首管理的“heaven”</span><br><span class='scene-font-katari'>也影响了许多其他的黑手党，</span><br><span class='scene-font-katari'>成为了黑社会重要的收入来源。</span>
-136,カトル/卡托尔,あれも良くわからないんですよね。<br>主力商品のひとつなのに、<br>今流通絞る意味あります？,那件事还不确定吧。<br>那可是他们的主要商品之一，<br>现在限制流通又有什么意义？
+123,冷静な男の子,ここ数日マガザンの動きは<br>割と大人しいけど……<br>嵐の前の静けさかもしれないもんね。,不过这几天玛格森没什么动静，<br>比想象中的要老实……<br>也许是暴风雨前的平静也说不定。
+124,エッセル/艾瑟尔,ん……禁薬ヘヴンの流通を<br>急に締め付けたみたいだから……<br>内部で反発があったのかも。,嗯……他们好像也突然限制了<br>禁药“heaven”的流通……<br>也许是起了内讧。
+130,,<span class='scene-font-katari'>禁薬は高い効果と裏腹に</span><br><span class='scene-font-katari'>強い中毒性を持ち、多くの国家で</span><br><span class='scene-font-katari'>流通を制限されている危険な薬である。</span>,<span class='scene-font-katari'>禁药效果强大但却具有很强的成瘾性，</span><br><span class='scene-font-katari'>是许多国家限制流通的危险药物。
+131,,<span class='scene-font-katari'>中でもマガザンが総元締めとなる</span><br><span class='scene-font-katari'>ヘヴンは他のマフィアをも巻き込み</span><br><span class='scene-font-katari'>裏社会の大きな収入源となっている。</span>,<span class='scene-font-katari'>其中由玛格森为总经管人的“heaven”</span><br><span class='scene-font-katari'>影响了许多其他的黑手党，</span><br><span class='scene-font-katari'>成为了黑社会重要的收入来源。</span>
+136,カトル/卡托尔,あれも良くわからないんですよね。<br>主力商品のひとつなのに、<br>今流通絞る意味あります？,那件事也无法理解啊。<br>那可是他们的主要商品之一，<br>现在限制流通又有什么意义？
 137,冷静な男の子,うーん……一定の顧客を得られたから<br>今度は希少性を高めるつもり、<br>とか……？,嗯……因为有了一定的固定客户，<br>所以打算提高药品的稀缺性？
-138,活発な女の子,あ～、あり得る……<br>あとはまた新しい薬を<br>作ったとかもあるのかも。,啊～，有可能……<br>也许之后他们还会开发新的药物。
+138,活発な女の子,あ～、あり得る……<br>あとはまた新しい薬を<br>作ったとかもあるのかも。,啊～，有可能……<br>也许他们已经开发出了新的药物。
 139,活発な女の子,ヘヴンの調合を別のファミリーが<br>解析したって噂もあるし。,也有传闻说，“heaven”的配方<br>已经被别的家族研究出来了。
 140,カトル/卡托尔,……チッ、腐れた根ばかり<br>増えていきやがる……,……啧，腐烂的根越长越多……
-141,,<span class='scene-font-katari'>吐き捨てたカトルは警戒心も露わに</span><br><span class='scene-font-katari'>幼い弟妹や姬塔達と</span><br><span class='scene-font-katari'>談笑するムゲンを睨みつける。</span>,<span class='scene-font-katari'>卡托尔一边聊着，</span><br><span class='scene-font-katari'>一边警惕地瞥向和年幼的弟妹们</span><br><span class='scene-font-katari'>以及姬塔他们谈笑的无限。</span>
+141,,<span class='scene-font-katari'>吐き捨てたカトルは警戒心も露わに</span><br><span class='scene-font-katari'>幼い弟妹や姬塔達と</span><br><span class='scene-font-katari'>談笑するムゲンを睨みつける。</span>,<span class='scene-font-katari'>卡托尔一边聊着，</span><br><span class='scene-font-katari'>一边警惕地盯着和年幼的弟妹们</span><br><span class='scene-font-katari'>以及姬塔他们谈笑的无限。</span>
 142,ムゲン,…………！,…………！
 143,,<span class='scene-font-katari'>視線に気づいたムゲンに</span><br><span class='scene-font-katari'>楽しそうに手を振られ、</span><br><span class='scene-font-katari'>カトルはやりにくそうに眉を顰めた。</span>,<span class='scene-font-katari'>注意到卡托尔的视线的无限</span><br><span class='scene-font-katari'>高兴地向他挥手，</span><br><span class='scene-font-katari'>卡托尔感到棘手地皱起眉头。</span>
 144,カトル/卡托尔,なんなんだ、アイツ……,怎么回事，那家伙……
