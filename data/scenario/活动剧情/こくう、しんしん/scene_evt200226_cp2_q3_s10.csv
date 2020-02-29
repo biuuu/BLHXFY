@@ -19,7 +19,7 @@ id,name,text,trans
 39,ウーノ/乌诺,私は西側の魔物の相手をしよう。<br>カトル、子供達をひとつの建物に<br>集めたいと思うが、どうだろう？,我去解决西侧的魔物。<br>卡托尔，我想把孩子们聚集在<br>同一座建筑物里，你觉得如何？
 40,カトル/卡托尔,……わかりました。<br>僕は弟妹達を集めます。<br>あそこ……見えます？,……我知道了。<br>我会去集合弟弟妹妹们。<br>你能看到那边那个吗？
 41,ウーノ/乌诺,講堂だね。<br>私も子供達に行き会ったら<br>そちらへ誘導しよう。,是礼堂吧。<br>我如果遇见孩子们的话，<br>就引导他们去那里。
-42,,<span class='scene-font-katari'>方針を決めたウーノとカトルは、</span><br><span class='scene-font-katari'>街と子供達を守るために</span><br><span class='scene-font-katari'>行動を開始する。</span>,<span class='scene-font-katari'>决定好策略的卡托尔和乌诺</span><br><span class='scene-font-katari'>为了保护街上的孩子们，</span><br><span class='scene-font-katari'>开始了行动。</span>
+42,,<span class='scene-font-katari'>方針を決めたウーノとカトルは、</span><br><span class='scene-font-katari'>街と子供達を守るために</span><br><span class='scene-font-katari'>行動を開始する。</span>,<span class='scene-font-katari'>卡托尔和乌诺决定好策略，</span><br><span class='scene-font-katari'>为了保护街上的孩子们，</span><br><span class='scene-font-katari'>开始了行动。</span>
 47,冷静な男の子,う、うぅ……,呜，呜呜……
 48,ムゲン,しっかり！<br>いま、ここ、だす……！！,振作！<br>现在，这里，出去……！！
 49,,<span class='scene-font-katari'>爆発の中心地となった食糧庫は崩壊し、</span><br><span class='scene-font-katari'>近くに居たムゲンは瓦礫の中から</span><br><span class='scene-font-katari'>巻き込まれた子供達を助けようとする。</span>,<span class='scene-font-katari'>成为爆炸中心的粮仓崩塌了，</span><br><span class='scene-font-katari'>刚好在那附近的无限想从瓦砾中</span><br><span class='scene-font-katari'>救出被卷入爆炸的孩子们。</span>
@@ -28,7 +28,7 @@ id,name,text,trans
 53,魔物,グゥルルルルル……,咕噜噜噜噜噜……
 54,ムゲン,っ！！,！！
 60,ムゲン,<span class='scene-font-4'>やめ……ろぉおおおお！！</span>,<span class='scene-font-4'>快……住手——————！！</span>
-61,,<span class='scene-font-katari'>街に入り込んで来た魔物に</span><br><span class='scene-font-katari'>襲われる子供を見たムゲンの叫びに</span><br><span class='scene-font-katari'>呼応して彼の身体から力が溢れる。</span>,<span class='scene-font-katari'>无限看到被涌进街道的魔物袭击的孩子，</span><br><span class='scene-font-katari'>大声喊叫起来，随着他的叫喊，</span><br><span class='scene-font-katari'>他身体充满了力量。</span>
+61,,<span class='scene-font-katari'>街に入り込んで来た魔物に</span><br><span class='scene-font-katari'>襲われる子供を見たムゲンの叫びに</span><br><span class='scene-font-katari'>呼応して彼の身体から力が溢れる。</span>,<span class='scene-font-katari'>无限看到被涌进街道的魔物袭击的孩子</span><br><span class='scene-font-katari'>大声喊叫起来，随着他的叫喊，</span><br><span class='scene-font-katari'>他身体充满了力量。</span>
 62,魔物,グギャッ……,咕呀……
 69,活発な女の子,あう……！,啊呜……！
 80,,<span class='scene-font-katari'>だがその力は相手を選別することなく</span><br><span class='scene-font-katari'>荒れ狂い、魔物を、街の子供を、</span><br><span class='scene-font-katari'>建物をも吹き飛ばした。</span>,<span class='scene-font-katari'>但那力量却无差别地暴走着，</span><br><span class='scene-font-katari'>把魔物、街上的孩子、建筑物都吹飞了。</span>
@@ -41,7 +41,7 @@ id,name,text,trans
 93,魔物,ギャオンッ！！,嘎哦！！
 94,,<span class='scene-font-katari'>ムゲンの身体から溢れるオーラは</span><br><span class='scene-font-katari'>魔物達を弾き飛ばし建物を揺らし、</span><br><span class='scene-font-katari'>衝撃を纏いながらムゲンは暴れ始める。</span>,<span class='scene-font-katari'>从无限身体里涌出的气场</span><br><span class='scene-font-katari'>把魔物们弹飞，连建筑物也摇摇欲坠，</span><br><span class='scene-font-katari'>浑身包裹着冲击波的他开始横冲直撞。</span>
 96,ムゲン,<span class='scene-font-4'>ガァアアアアア！！</span>,<span class='scene-font-4'>嘎啊啊啊啊啊啊！！</span>
-107,,<span class='scene-font-katari'>次々と魔物達を打ち倒す拳は</span><br><span class='scene-font-katari'>獲物を失うとまるで物足りないとでも</span><br><span class='scene-font-katari'>言うように周囲を破壊した。</span>,<span class='scene-font-katari'>不停打倒魔物的拳头失去了猎物，</span><br><span class='scene-font-katari'>好像不满足似的开始破坏周遭的一切。</span>
+107,,<span class='scene-font-katari'>次々と魔物達を打ち倒す拳は</span><br><span class='scene-font-katari'>獲物を失うとまるで物足りないとでも</span><br><span class='scene-font-katari'>言うように周囲を破壊した。</span>,<span class='scene-font-katari'>不停打倒魔物的拳头失去了猎物后，</span><br><span class='scene-font-katari'>好像不满足似的开始破坏周遭的一切。</span>
 109,ムゲン,<span class='scene-font-4'>ォオオオオオオ！！</span>,<span class='scene-font-4'>噢噢噢噢噢噢噢噢！！</span>
 115,ムゲン,<span class='scene-font-4'>グガァッ！！</span>,<span class='scene-font-4'>咕嘎！！</span>
 117,オクトー/奥克托,受け止めるか。<br>獣の性よな。,被防住了。<br>是野兽的本能么。
@@ -49,16 +49,16 @@ id,name,text,trans
 135,,<span class='scene-font-katari'>彼は暴れるムゲンに一撃を加え、</span><br><span class='scene-font-katari'>その力を自らへ向けるよう仕向けた。</span>,<span class='scene-font-katari'>他通过对无限的一次攻击，</span><br><span class='scene-font-katari'>将他的力量的矛头引向自己。</span>
 136,ムゲン,<span class='scene-font-4'>グォオオオ！！</span>,<span class='scene-font-4'>咕噢噢噢噢！！</span>
 137,オクトー/奥克托,ふんっ！！,哼！！
-139,オクトー/奥克托,己が力、御せずしてなんとする！,无法控制的力量即是无力！
+139,オクトー/奥克托,己が力、御せずしてなんとする！,自己的力量，无法控制要来何用！
 140,ムゲン,<span class='scene-font-4'>ォオオオオオ！！</span>,<span class='scene-font-4'>噢噢噢噢噢噢！！</span>
 142,ニオ/妮欧,オクトー、抑えていて。<br>私がムゲンの心を鎮める……,奥克托，压制住他。<br>我来平复无限的内心。
 143,オクトー/奥克托,心得た。,知道了。
 144,ムゲン,<span class='scene-font-4'>ウォオオオオオオ！！</span>,<span class='scene-font-4'>呜噢噢噢噢噢噢噢！！</span>
 181,ニオ/妮欧,…………,…………
 182,ニオ/妮欧,少しずつ、少しずつ……<br>寄り添って、導くように……,一点点，一点点……<br>逐渐靠近，加以引导……
-183,ニオ/妮欧,力の奔流に飲まれてしまった、<br>無邪気でおおらかなムゲンの旋律へ<br>進行させる……！,奏响吧！被力量的洪流所吞没，<br>那天真无邪而坦率开朗的<br>无限的旋律……！
+183,ニオ/妮欧,力の奔流に飲まれてしまった、<br>無邪気でおおらかなムゲンの旋律へ<br>進行させる……！,让他重新回到被力量的洪流所吞没，<br>那天真无邪而坦率开朗的<br>无限的旋律……！
 184,ムゲン,ヌゥ……！？,唔……！？
-186,,<span class='scene-font-katari'>オクトーに襲い掛かるムゲンの耳に</span><br><span class='scene-font-katari'>ニオの奏でる音が入り込み、</span><br><span class='scene-font-katari'>彼の動きを鈍くしていく。</span>,<span class='scene-font-katari'>被奥克托攻击的无限</span><br><span class='scene-font-katari'>听到耳边传来的妮欧的旋律，</span><br><span class='scene-font-katari'>动作变得迟缓了。</span>
+186,,<span class='scene-font-katari'>オクトーに襲い掛かるムゲンの耳に</span><br><span class='scene-font-katari'>ニオの奏でる音が入り込み、</span><br><span class='scene-font-katari'>彼の動きを鈍くしていく。</span>,<span class='scene-font-katari'>攻击奥克托的无限</span><br><span class='scene-font-katari'>听到耳边传来的妮欧的旋律，</span><br><span class='scene-font-katari'>动作变得迟缓了。</span>
 196,ムゲン,う……あぁ……！！,呜……啊啊……！！
 199,ムゲン,うぅ……っ……,呜呜……呜……
 200,ニオ/妮欧,ムゲン、大丈夫？,无限，没事吧？
@@ -88,7 +88,7 @@ id,name,text,trans
 225,カトル/卡托尔,ニオさんの指示を聞いて<br>動いてください。<br>いいですね？,听从妮欧的指挥行动。<br>可以吗？
 226,ムゲン,うん！<br>ニオ、いう、きく！,嗯！<br>妮欧，说，听！
 231,,<span class='scene-font-katari'>入り込んでいた魔物達を倒し、</span><br><span class='scene-font-katari'>子供達を守る姬塔の元に</span><br><span class='scene-font-katari'>ウーノ達が合流する。</span>,<span class='scene-font-katari'>打倒了涌进的魔物后，乌诺他们</span><br><span class='scene-font-katari'>前去与守着孩子们的姬塔汇合。</span>
-232,シエテ/希耶提,姬塔ちゃ～ん！<br>お疲れ様～,姬塔～！<br>辛苦啦～
+232,シエテ/希耶提,姬塔ちゃ～ん！<br>お疲れ様～,姬塔酱～！<br>辛苦啦～
 233,ビィ/碧,よぉ！<br>ここいらの魔物は<br>ぶっ倒しといたぜ！,哟！<br>这附近的魔物已经全部打倒了！
 234,シエテ/希耶提,ありがとう、助かったよ！,谢谢，太可靠了！
 235,ウーノ/乌诺,雪崩れ込んで来た魔物は<br>ほとんど始末出来たようだが……<br>隠れているものもいるかもしれない。,虽然一拥而入的魔物<br>已经解决得差不多了……<br>但可能还有些藏着的。
