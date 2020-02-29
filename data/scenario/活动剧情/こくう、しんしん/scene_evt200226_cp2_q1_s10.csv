@@ -17,15 +17,15 @@ id,name,text,trans
 33,シス/希斯,別に……お前のためじゃない。,没什么……我又不是为了你。
 34,エッセル/艾瑟尔,ん……<br>でも、私にとってフュンフは<br>大切な友達だから。,嗯……<br>但是对我来说，<br>芬芙是非常重要的朋友。
 35,シス/希斯,友達……か。,朋友……吗。
-36,シス/希斯,ならばわかるだろう、<br>奴の様子がおかしい。<br>あれは、問題ないのか？,那你应该知道吧，<br>那家伙的样子怪怪的。<br>没问题吗？
+36,シス/希斯,ならばわかるだろう、<br>奴の様子がおかしい。<br>あれは、問題ないのか？,那你应该知道吧，<br>那家伙的样子怪怪的。<br>她那样没问题吗？
 37,エッセル/艾瑟尔,ん……,嗯……
 38,エッセル/艾瑟尔,たぶん……<br>怒ってるし、悲しいんだと思う。,我觉得，她大概是……<br>在生气，又在伤心吧。
 39,エッセル/艾瑟尔,仲間の手が汚れてる、ってこと<br>突き付けられてしまったから……,毕竟，她不得不去面对<br>同伴的手曾经沾染了罪孽的事实……
 40,,<span class='scene-font-katari'>水差しをサイドテーブルへ置いた</span><br><span class='scene-font-katari'>エッセルは、自分の掌へ</span><br><span class='scene-font-katari'>視線を落とし哀しく微笑む。</span>,<span class='scene-font-katari'>艾瑟尔把水壶放在茶几上，</span><br><span class='scene-font-katari'>看着自己的手心，</span><br><span class='scene-font-katari'>露出了哀伤的笑容。</span>
-41,エッセル/艾瑟尔,フュンフは、<br>私達の中で一番正気だもの。,毕竟芬芙她，<br>是我们之中最正直的人。
-42,シス/希斯,正気……か。,正直……吗。
+41,エッセル/艾瑟尔,フュンフは、<br>私達の中で一番正気だもの。,毕竟芬芙她，<br>是我们之中最清醒的人。
+42,シス/希斯,正気……か。,清醒……吗。
 43,エッセル/艾瑟尔,私、フュンフの、<br>ああいうところを見ると<br>いつもホッとするんだ……,每当看到芬芙那种真实的样子，<br>我就会觉得很安心。
-44,エッセル/艾瑟尔,私がしたことは<br>許されないことなんだって、<br>あの子が教えてくれる。,是那孩子让我知道，<br>我做过的事是不可原谅的。
+44,エッセル/艾瑟尔,私がしたことは<br>許されないことなんだって、<br>あの子が教えてくれる。,那孩子让我知道，<br>我做过的事是不可原谅的。
 45,エッセル/艾瑟尔,同時に……私が今ここにいることを<br>すごく喜んでくれているのも……<br>わかるから……,但同时……我也知道，<br>她发自内心地<br>因为我还在她身边而感到开心……
 46,シス/希斯,…………,…………
 49,エッセル/艾瑟尔,口には出さないけど……<br>姬塔もちょっと、<br>怒ってると思うよ。,虽然姬塔没有明说……<br>但我觉得她也有点生气。
@@ -41,7 +41,7 @@ id,name,text,trans
 59,,<span class='scene-font-katari'>エッセルはシスに</span><br><span class='scene-font-katari'>よく休むよう伝え、</span><br><span class='scene-font-katari'>部屋を出ていく。</span>,<span class='scene-font-katari'>艾瑟尔再次让希斯好好休息后，</span><br><span class='scene-font-katari'>便出了房间。</span>
 63,シス/希斯,…………,…………
 64,シス/希斯,許されないこと……,不可原谅的事……
-69,,<span class='scene-font-katari'>マフィア『マガザン』の襲撃を警戒する</span><br><span class='scene-font-katari'>子供達を案じ、姬塔達は</span><br><span class='scene-font-katari'>星屑の街に逗留していた。</span>,<span class='scene-font-katari'>姬塔一行因为担心黑手党『玛格森』</span><br><span class='scene-font-katari'>会再度袭击孩子们，留在了星屑之街。</span>
+69,,<span class='scene-font-katari'>マフィア『マガザン』の襲撃を警戒する</span><br><span class='scene-font-katari'>子供達を案じ、姬塔達は</span><br><span class='scene-font-katari'>星屑の街に逗留していた。</span>,<span class='scene-font-katari'>姬塔一行因为担心警戒着黑手党</span><br><span class='scene-font-katari'>『玛格森』再度袭击的孩子们，留在了星屑之街。</span>
 70,ビィ/碧,ふわぁ……,呼哇……
 71,ムゲン,ふぁあ……,呼啊……
 72,ルリア/露莉亚,ふふ、<br>ビィさんもムゲンさんも<br>眠くなっちゃいました？,呵呵，碧和无限都困了吗？
@@ -73,7 +73,7 @@ id,name,text,trans
 99,フュンフ/芬芙,他の人ハーヴィンばっかだからさ～<br>じっちゃドアから入るのも大変で<br>あちしんち、建て直したんだって。,因为其他人都是哈文族～<br>所以爷爷连进门都很难，<br>我们就把房子重建了。
 100,ビィ/碧,あ～、ドラフだと<br>ハーヴィンサイズの扉は<br>通れねぇもんなあ。,啊～多拉夫族的话，<br>过不了哈文族尺寸的门呢。
 101,ビィ/碧,それに爺さん、<br>ドラフの中でも割とでっかいし。,而且爷爷在多拉夫族里<br>也算体型很大的了。
-102,ムゲン,じーさん、でっかい？<br>たとえば、ムゲン、じーさん、どっち？,爷爷，很大个？<br>如果，无限，爷爷，谁大个？
+102,ムゲン,じーさん、でっかい？<br>たとえば、ムゲン、じーさん、どっち？,爷爷，很大个？<br>比如说，无限，爷爷，谁大个？
 103,フュンフ/芬芙,う～ん、ムゲンのが<br>でっかいかな？,嗯～还是无限更大个吧？
 104,ムゲン,…………♪,…………♪
 105,ムゲン,…………？,…………？
@@ -82,7 +82,7 @@ id,name,text,trans
 108,,<span class='scene-font-katari'>街の外に広がる森を示す</span><br><span class='scene-font-katari'>ムゲンの指先を追ったカトルが、</span><br><span class='scene-font-katari'>顔色を変えて立ち上がる。</span>,<span class='scene-font-katari'>卡托尔顺着无限的指示，</span><br><span class='scene-font-katari'>看向街外广阔的森林，</span><br><span class='scene-font-katari'>神色大变地站起身来。</span>
 110,ルリア/露莉亚,きゃっ！？,呀！？
 111,ムゲン,…………！,…………！
-114,,<span class='scene-font-katari'>今にも星屑の街へ到達しようという</span><br><span class='scene-font-katari'>砲弾を前に、その位置を捉えたムゲンが</span><br><span class='scene-font-katari'>力強く地面を蹴った。</span>,<span class='scene-font-katari'>眼看炮弹就要集中星屑之街，</span><br><span class='scene-font-katari'>无限准确预判了炮弹的轨迹，</span><br><span class='scene-font-katari'>用力地蹬了一下地面。</span>
+114,,<span class='scene-font-katari'>今にも星屑の街へ到達しようという</span><br><span class='scene-font-katari'>砲弾を前に、その位置を捉えたムゲンが</span><br><span class='scene-font-katari'>力強く地面を蹴った。</span>,<span class='scene-font-katari'>眼看炮弹就要击中星屑之街，</span><br><span class='scene-font-katari'>无限准确预判了炮弹的轨迹，</span><br><span class='scene-font-katari'>用力地蹬了一下地面。</span>
 116,ムゲン,……フンッ！！,……喝！！
 124,カトル/卡托尔,はぁ！？,哈？！
 125,,<span class='scene-font-katari'>呆気にとられる姬塔達の前で</span><br><span class='scene-font-katari'>ムゲンの拳が空中で砲弾を捕え、</span><br><span class='scene-font-katari'>誰もいない地面へと叩き落とす。</span>,<span class='scene-font-katari'>在震惊的姬塔一行人面前，</span><br><span class='scene-font-katari'>无限的拳头击中了空中的炮弹，</span><br><span class='scene-font-katari'>将其打落在无人的空地上。</span>
@@ -115,7 +115,7 @@ id,name,text,trans
 208,シエテ/希耶提,そっか～、そりゃすごい！<br>街を守ってくれて<br>ありがとね。,是嘛～那可真厉害！<br>谢谢你保护了这条街啊。
 209,ムゲン,んふふ……,嗯呵呵……
 210,シエテ/希耶提,姬塔ちゃんも、<br>手を貸してくれて<br>お兄さん助かっちゃったよ～,姬塔也来帮忙，<br>真是帮了哥哥我大忙啊～
-211,シエテ/希耶提,任せっぱなしにしとく訳には<br>いかないし、お兄さんも<br>いいとこ見せちゃおっかなー！,我也不能总一直受人帮助，<br>就让你们看看哥哥我的英姿吧——！
+211,シエテ/希耶提,任せっぱなしにしとく訳には<br>いかないし、お兄さんも<br>いいとこ見せちゃおっかなー！,也不能总一直受人帮助，<br>就让你们看看哥哥我的英姿吧——！
 212,,<span class='scene-font-katari'>姬塔達を労ったシエテは</span><br><span class='scene-font-katari'>星屑の街に合流した残りの十天衆の</span><br><span class='scene-font-katari'>メンバーと共に見張りを引き受ける。</span>,<span class='scene-font-katari'>希耶提慰劳了一通姬塔等人，</span><br><span class='scene-font-katari'>和汇合到星屑之街的其他十天众成员</span><br><span class='scene-font-katari'>一起接手了巡视工作。</span>
 213,,<span class='scene-font-katari'>姬塔達と双子は</span><br><span class='scene-font-katari'>状況をシエテに伝えた後、</span><br><span class='scene-font-katari'>星屑の街の家屋で休息を取った。</span>,<span class='scene-font-katari'>姬塔他们和姐弟二人</span><br><span class='scene-font-katari'>向希耶提讲清情况后，</span><br><span class='scene-font-katari'>回到星屑之街的房间里休息。</span>
 info,,,scene_evt200226_cp2_q1_s10
