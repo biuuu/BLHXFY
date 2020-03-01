@@ -736,3 +736,13 @@ body .cnt-raid .prt-raid-log {
   top: 100px;
   left: 5px;
 }
+
+.note-blhx {
+  margin: 0 0.2em;
+  cursor: help;
+  border-bottom: 0.5px dashed #dad6d6;
+}
+
+.note-blhx+.note-blhx{
+  margin-left:-0.2em;
+}

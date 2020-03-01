@@ -72,12 +72,12 @@ const requestList = [
     '/party/ability_list/', '/zenith/ability_list/', '/party/job_info/'], transJobSkill],
   ['/island/init', transIslandInfo],
   [['/rest/sound/mypage_voice', '/rest/sound/archive_voice'], showVoiceSubL],
-  [[/\/rest\/(multi)?raid\/start\.json/, /\/rest\/tutorial\/tutorial\d{1,2}\.json/], [transChat, transBattle]],
+  [[/\/rest\/(multi)?raid\/start\.json/, /\/rest\/tutorial\/tutorial\d+(_\d+)?\.json/], [transChat, transBattle]],
   [[/\/rest\/(multi)?raid\/ability_result\.json/,
     /\/rest\/(multi)?raid\/temporary_item_result\.json/,
     /\/rest\/(multi)?raid\/normal_attack_result\.json/,
     /\/rest\/(multi)?raid\/summon_result\.json/,
-    /\/rest\/tutorial\/tutorial_battle_\d+_\d+\.json/], transBattleR],
+    /\/rest\/tutorial\/tutorial_battle_\d+(_\d+)?\.json/], transBattleR],
   [/\/rest\/.*?raid\/condition\/\d+\/\d\/\d\.json/, transBuff],
   ['/user/status', replaceHourU],
   [['/weapon/weapon/', '/archive/weapon_detail'], weaponSkill],
@@ -88,10 +88,10 @@ const requestList = [
     '/rest/arcarum/open_chest',
     '/rest/arcarum/next_stage',
     '/rest/arcarum/stage'], transArcarum],
-  [/\/story_chapter_list\/\d+$/, chapterList],
-  [/\/story_episode_list\/\d+\/\d+$/, episodeList],
+  [/\/story_chapter_list\/\d+(_\d+)?$/, chapterList],
+  [/\/story_episode_list\/\d+(_\d+)?\/\d+(_\d+)?$/, episodeList],
   ['/archive/npc_detail', npcChapterList],
-  [/^\/arcarum\/content\/summon_enhancement_detail\/\d+$/, arcarumSceneName]
+  [/^\/arcarum\/content\/summon_enhancement_detail\/\d+(_\d+)?$/, arcarumSceneName]
 ]
 
 export default async function translate(state) {
