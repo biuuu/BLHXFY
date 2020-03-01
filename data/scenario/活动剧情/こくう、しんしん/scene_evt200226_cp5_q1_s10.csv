@@ -2,7 +2,7 @@ id,name,text,trans
 0-chapter_name,,第5話 鑿開,第5话 开拓
 0-synopsis,,星屑の子供達と話し合ったエッセルとカトルは、自分達の望みを伝え協力を仰ぐため、姬塔達に運んでもらい再びスーオファミリーのもとへ向かう。しかし姬塔達が島を発った後、スーオファミリーと結託しようという星屑の街の動きを察知したマガザンの私兵団が街を強襲する。街に残った十天衆の面々はマガザンを迎え撃つのだった。,和星屑之街的孩子们商量过之后，艾瑟尔和卡托尔为了向零传达自己的愿望并请求帮助，请姬塔再一次带他们去娑之家。但姬塔一行出发之后，玛格森察觉到星屑之街有要和娑之家联手的动向，派出了私兵团袭击了街道。还留在城中的十天众们准备迎击玛格森。
 12,,<span class='scene-font-katari'>マガザンを打倒した後、星屑の街と</span><br><span class='scene-font-katari'>経済圏を守るべくスーオファミリーの</span><br><span class='scene-font-katari'>協力を仰いだエッセルとカトル。</span>,<span class='scene-font-katari'>为了在打倒玛格森之后</span><br><span class='scene-font-katari'>保护星屑之街和经济圈，</span><br><span class='scene-font-katari'>艾瑟尔和卡托尔向娑之家请求协助。</span>
-13,,<span class='scene-font-katari'>スーオファミリーの長であるレイに</span><br><span class='scene-font-katari'>一度は協力を保留された双子は、</span><br><span class='scene-font-katari'>弟妹達と意見を交わしあう。</span>,<span class='scene-font-katari'>被娑之家的首领——零一度拒绝之后，</span><br><span class='scene-font-katari'>双胞胎和弟妹们交流意见。</span>
+13,,<span class='scene-font-katari'>スーオファミリーの長であるレイに</span><br><span class='scene-font-katari'>一度は協力を保留された双子は、</span><br><span class='scene-font-katari'>弟妹達と意見を交わしあう。</span>,<span class='scene-font-katari'>被娑之家的首领——零一度拒绝之后，</span><br><span class='scene-font-katari'>姐弟二人和弟妹们交流意见。</span>
 18,エッセル/艾瑟尔,ん……<br>みんな、それでいいね？,嗯……<br>大家觉得这样可以吗？
 19,活発な女の子,もちろん！,当然！
 20,カトル/卡托尔,後から意見は変えられません。<br>……わかってますよね。,决定之后就没办法反悔了……<br>你们明白吧。
@@ -10,7 +10,7 @@ id,name,text,trans
 22,,<span class='scene-font-katari'>集まった子供達は皆一様に</span><br><span class='scene-font-katari'>強い意志を瞳に乗せ、</span><br><span class='scene-font-katari'>エッセルとカトルに思いを託す。</span>,<span class='scene-font-katari'>聚集起来的孩子们都一样，</span><br><span class='scene-font-katari'>眼瞳里闪着坚定的光，</span><br><span class='scene-font-katari'>将他们的意志传达给了艾瑟尔和卡托尔。</span>
 23,カトル/卡托尔,じゃあ……姉さん。,那么……姐姐。
 24,エッセル/艾瑟尔,ん……,嗯……
-25,,<span class='scene-font-katari'>街の子供達の意見をまとめた双子は、</span><br><span class='scene-font-katari'>改めてウーノに自分達の望みを伝えた。</span>,<span class='scene-font-katari'>双胞胎汇总了街上的孩子们的意见后，</span><br><span class='scene-font-katari'>再一次向乌诺诉说了自己的愿望。</span>
+25,,<span class='scene-font-katari'>街の子供達の意見をまとめた双子は、</span><br><span class='scene-font-katari'>改めてウーノに自分達の望みを伝えた。</span>,<span class='scene-font-katari'>姐弟二人汇总了街上的孩子们的意见后，</span><br><span class='scene-font-katari'>再一次向乌诺诉说了自己的愿望。</span>
 31,ウーノ/乌诺,そうか……わかった。<br>では改めて、レイに君達の決意を<br>示す必要があるね。,是吗……我明白了。<br>那么，你们需要再一次<br>向零表达你们的决心。
 32,エッセル/艾瑟尔,ん……スーオファミリーの屋敷へ<br>もう一度行ってくるよ。<br>ウーノはここで待っていて。,嗯……我们会再去一次娑之家。<br>乌诺就在这里等我们吧。
 33,エッセル/艾瑟尔,私達が、自分達で決めて<br>自分達で頼まなければ<br>あの人は納得しない気がする……,我觉得，<br>我们必须自己下定决心，亲自去请求，<br>否则她大概不会答应吧……
@@ -18,12 +18,12 @@ id,name,text,trans
 35,ウーノ/乌诺,道中、気を付けて。<br>君達が不在の間、<br>街は責任をもって私達が守ろう。,路上小心。<br>你们不在的这段时间，<br>街道的安全就由我们负责保护。
 36,カトル/卡托尔,よろしくお願いします。<br>それじゃ、姬塔さん……,拜托了。<br>那么，姬塔……
 37,ルリア/露莉亚,はい！　任せてください。<br>私達がエッセルさんとカトルさんを<br>お屋敷まで連れていきます！,嗯！交给我们吧！<br>我们会把你们带到那座府邸的！
-38,,<span class='scene-font-katari'>姬塔は</span><br><span class='scene-font-katari'>星屑の街の子供達から正式な依頼を受け</span><br><span class='scene-font-katari'>双子をレイの元へ運ぶことを約束する。</span>,<span class='scene-font-katari'>姬塔接受了来自星屑之街的</span><br><span class='scene-font-katari'>孩子们正式的委托，</span><br><span class='scene-font-katari'>向他们保证会把双胞胎带到零的面前。
+38,,<span class='scene-font-katari'>姬塔は</span><br><span class='scene-font-katari'>星屑の街の子供達から正式な依頼を受け</span><br><span class='scene-font-katari'>双子をレイの元へ運ぶことを約束する。</span>,<span class='scene-font-katari'>姬塔接受了来自星屑之街的</span><br><span class='scene-font-katari'>孩子们正式的委托，</span><br><span class='scene-font-katari'>向他们保证会把姐弟二人带到零的面前。
 39,エッセル/艾瑟尔,ありがとう……姬塔。<br>ウーノがいると、十天衆としての<br>依頼と思われてしまうかもしれない。,谢谢……姬塔。<br>如果和乌诺一起去的话，<br>她可能会认为这是十天众的委托吧。
 40,カトル/卡托尔,そうではなく、僕達の……<br>星屑の街との契約なのだとレイに<br>わかってもらわないといけませんから。,我们必须要让零明白，<br>这并非是十天众，而是和我们……<br>是和星屑之街之间的契约。
 41,エッセル/艾瑟尔,……私達になにかあっても、<br>手出しは無用だよ。,……无论我们遇到什么事，<br>你们都不要出手。
 42,ビィ/碧,お、おぅ……,哦，哦……。
-43,,<span class='scene-font-katari'>双子と姬塔達は</span><br><span class='scene-font-katari'>シエテを始めとした十天衆達に</span><br><span class='scene-font-katari'>街を託し出立した。</span>,<span class='scene-font-katari'>将星屑之街托付给</span><br><span class='scene-font-katari'>以希耶提为首的十天众众人后，</span><br><span class='scene-font-katari'>双胞胎和姬塔一行就出发了。</span>
+43,,<span class='scene-font-katari'>双子と姬塔達は</span><br><span class='scene-font-katari'>シエテを始めとした十天衆達に</span><br><span class='scene-font-katari'>街を託し出立した。</span>,<span class='scene-font-katari'>将星屑之街托付给</span><br><span class='scene-font-katari'>以希耶提为首的十天众众人后，</span><br><span class='scene-font-katari'>姐弟二人和姬塔一行就出发了。</span>
 49,,<span class='scene-font-katari'>マガザンの襲撃を警戒する十天衆は</span><br><span class='scene-font-katari'>子供達の立て籠もる家屋の護衛と</span><br><span class='scene-font-katari'>街全体の防衛、二手に分かれ待機する。</span>,<span class='scene-font-katari'>十天众提防着玛格森的袭击，兵分两路</span><br><span class='scene-font-katari'>分别守卫孩子们的藏身之所和整个街道。
 50,シエテ/希耶提,それじゃ、建物の方よろしくね～,那么建筑群那边就拜托了～
 51,ウーノ/乌诺,了解した。<br>道すがら、目視の限りにはなるが、<br>魔物の残党がいないかも見ておこう。,了解。<br>我会顺道留意确认<br>视线所及范围内的还有没有残余魔物。
