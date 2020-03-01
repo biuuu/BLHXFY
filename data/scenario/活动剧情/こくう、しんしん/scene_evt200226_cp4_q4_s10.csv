@@ -1,5 +1,5 @@
 id,name,text,trans
-0-chapter_name,,第4話 結紮,止血
+0-chapter_name,,第4話 結紮,第4话 止血
 0-synopsis,,フュンフは事情を説明した姬塔と共にシスの部屋を訪れ、シスにシス自身が本当にやりたいことを問う。「姬塔達と旅がしたい」と絞り出したシス。姬塔とフュンフはシスをひとりにさせないと誓い、ここに残るよう説得する。それを部屋の外で聞いていたエッセルは、自分達が本当にやりたいことをする決意を固めるのだった。,芬芙对姬塔说明情况后，一起去拜访了希斯的房间，询问希斯他自己真正想做的事情是什么。希斯从嘴里挤出了「想和姬塔一起旅行」。姬塔和芬芙向希斯发誓不会丢下他一个人，说服他留下来。在那个房间外听到这段对话的艾瑟尔，坚定了做自己真正想做的事情的决心。
 1,フュンフ/芬芙,それじゃ……姬塔。<br>一緒によろしくね！,那么……姬塔。<br>我们一起去吧！
 2,,<span class='scene-font-katari'>頷く姬塔の手を</span><br><span class='scene-font-katari'>ぎゅ、っと強く握り、</span><br><span class='scene-font-katari'>フュンフは力強くドアをノックする。</span>,<span class='scene-font-katari'>芬芙用力握住了</span><br><span class='scene-font-katari'>点了点头的姬塔的手，</span><br><span class='scene-font-katari'>然后大力地敲起了门。</span>
@@ -19,7 +19,7 @@ id,name,text,trans
 18,シス/希斯,…………！,…………！
 19,フュンフ/芬芙,シスがもしひとりぼっちになりたくても<br>あちしも姬塔も<br>無理やりついてくんだから！,就算希斯想要孤身一人，<br>我和姬塔也会硬跟上去的！
 20,フュンフ/芬芙,カルムの生き残りの人にも、<br>一緒にごめんなさいって言うよ！<br>許してもらえないかもだけど……！,我们还要和你一起<br>向卡尔姆的幸存者说对不起！<br>就算可能无法得到原谅……！
-21,フュンフ/芬芙,でも、わかんないじゃん！？<br>もしかしたら<br>許してくれるかもしれないし！,但是，还说不准嘛！？<br>说不定就被原谅了呢！
+21,フュンフ/芬芙,でも、わかんないじゃん！？<br>もしかしたら<br>許してくれるかもしれないし！,但是，还说不准啊！？<br>说不定就被原谅了呢！
 22,フュンフ/芬芙,だからさぁ……<br>シスのホントにしたいこと、教えてよ！<br>なんかないの！？,所以啊……<br>告诉我们你真正想做的事情吧！<br>真的什么都没有吗！？
 23,シス/希斯,したい……ことなど……,想做的……事情……
 24,,<span class='scene-font-katari'>口を閉ざそうとするシスを</span><br><span class='scene-font-katari'>睨むように見据え、姬塔は</span><br><span class='scene-font-katari'>黙り込むことを拒絶する。</span>,<span class='scene-font-katari'>姬塔直直盯着想要闭口不谈的希斯，</span><br><span class='scene-font-katari'>拒绝他继续用沉默蒙混过关。</span>
@@ -35,12 +35,12 @@ id,name,text,trans
 34,フュンフ/芬芙,確かに……！　シスが暴れたって、<br>姬塔も<br>シエテもじっちゃもいるもんね。,确实……希斯暴走的时候，<br>无论是姬塔，<br>还是希耶提或爷爷，大家都在。
 35,フュンフ/芬芙,姬塔やあちし達を<br>傷つけられると思ったら<br>大間違いだよ、シス！,你要是觉得光凭自己<br>就能伤害到姬塔和我们，<br>那可就大错特错了哦！希斯！
 36,シス/希斯,…………,…………
-37,フュンフ/芬芙,姬塔もあちしも<br>しつこいぞ～？,我和姬塔可是很顽强的哦～？
+37,フュンフ/芬芙,姬塔もあちしも<br>しつこいぞ～？,我和姬塔可是很缠人的哦～？
 38,フュンフ/芬芙,ねっ、姬塔。,对吧，姬塔。
 38-sel1_txt,,<span class='scene-font-katari'>だから、諦めてここにいなさい！</span>,<span class='scene-font-katari'>所以，放弃挣扎，留在这里吧！</span>
 44,シス/希斯,……ッ……,……呃……
 45,シス/希斯,……馬鹿、なのか……お前達……<br>どうして俺と、そんな……,……你们，是傻瓜吗……<br>为什么对我……这种……
-46,フュンフ/芬芙,友達をさ、<br>ひとりぼっちにするくらいなら<br>あちしバカの方がいいな。,如果要让我抛弃朋友的话，<br>那我宁愿当个傻瓜。
+46,フュンフ/芬芙,友達をさ、<br>ひとりぼっちにするくらいなら<br>あちしバカの方がいいな。,如果要让我放任朋友孤苦伶仃，<br>那我宁愿当个傻瓜。
 47,フュンフ/芬芙,だよねっ、姬塔！,是吧，姬塔！
 49,,<span class='scene-font-katari'>フュンフに笑顔を返した</span><br><span class='scene-font-katari'>姬塔が差し出した手を</span><br><span class='scene-font-katari'>シスは戸惑いながらも握り返す。</span>,<span class='scene-font-katari'>对芬芙回以笑容的姬塔伸出手，</span><br><span class='scene-font-katari'>希斯虽然有些不知所措，</span><br><span class='scene-font-katari'>但还是回握了上来。</span>
 50,,<span class='scene-font-katari'>繋がった手をみつめ、</span><br><span class='scene-font-katari'>フュンフもまた</span><br><span class='scene-font-katari'>安堵し笑顔を見せた。</span>,<span class='scene-font-katari'>看着紧握在一起的手，</span><br><span class='scene-font-katari'>芬芙也露出了安心的笑容。</span>
