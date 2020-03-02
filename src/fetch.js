@@ -84,6 +84,23 @@ let fetchInfo = {
   result: false,
   data: null
 }
+
+const getManifest = async () => {
+  let data
+  try {
+    let str = localStorage.getItem('blhxfy:manifest')
+    if (str) data = JSON.parse(str)
+    if (Date.now() - data.time > config.cacheTime * 60 * 1000) data = false
+  } catch (e) {}
+  if (!data) {
+    const res = await fetch(`${origin}/blhxfy/manifest.json`)
+    data = await res.json()
+    data.time = Date.now()
+    localStorage.setItem('blhxfy:manifest', JSON.stringify(data))
+  }
+  return data
+}
+
 const tryFetch = async () => {
   if (window.fetch) {
     // if (sessionStorage.getItem('blhxfy:cors') === 'disabled') {
@@ -91,8 +108,7 @@ const tryFetch = async () => {
     //   return
     // }
     try {
-      const res = await fetch(`${origin}/blhxfy/manifest.json`)
-      const data = await res.json()
+      const data = await getManifest()
       fetchInfo.data = data
       fetchInfo.result = true
       sessionStorage.setItem('blhxfy:cors', 'enabled')

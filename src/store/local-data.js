@@ -8,12 +8,11 @@ const getLocalData = async (type) => {
   if (data) return data[type]
   const hash = await getHash()
   try {
-    const str = sessionStorage.getItem('blhxfy:data')
+    const str = localStorage.getItem('blhxfy:data')
     if (!str) return false
     data = JSON.parse(str)
     if (data.hash !== hash) {
       data = null
-      sessionStorage.removeItem('blhxfy:data')
       localStorage.removeItem('blhxfy:data')
       return false
     }
@@ -30,7 +29,7 @@ const setLocalData = (type, value) => {
   data[type] = value
   const str = JSON.stringify(data)
   try {
-    sessionStorage.setItem('blhxfy:data', str)
+    localStorage.setItem('blhxfy:data', str)
   } catch (err) {
     console.error(err)
   }
