@@ -587,71 +587,71 @@ body .prt-request-info .txt-request {
 
 #box-sub-blhxfy {
   position: absolute;
-    top: 324px;
-    left: 50%;
-    width: 232px;
-    align-items: center;
-    white-space: pre-line;
-    border-radius: 12px;
-    padding: 32px 30px 26px 30px;
-    display: inline-flex;
-    min-height: 24px;
-    background-color: rgba(228, 219, 198, 0.96);
-    z-index: 99999;
-    transform: translate(-50%, -50%);
-    backface-visibility: hidden;
-    line-height: 18px;
-    letter-spacing: 0.2px;
-    color: #1f170c;
-    font-size: 12px;
-    text-align: justify;
-    transition: opacity 0.5s;
-    opacity: 0;
-    pointer-events: none;
-    background: url(/blhxfy/data/static/image/chat-box.png?lacia) no-repeat;
-    background-size: 100% 100%;
+  top: 324px;
+  left: 50%;
+  width: 232px;
+  align-items: center;
+  white-space: pre-line;
+  border-radius: 12px;
+  padding: 32px 30px 26px 30px;
+  display: inline-flex;
+  min-height: 24px;
+  background-color: rgba(228, 219, 198, 0.96);
+  z-index: 99999;
+  transform: translate(-50%, -50%);
+  backface-visibility: hidden;
+  line-height: 18px;
+  letter-spacing: 0.2px;
+  color: #1f170c;
+  font-size: 12px;
+  text-align: justify;
+  transition: opacity 0.5s;
+  opacity: 0;
+  pointer-events: none;
+  background: url(../image/chat-box.png?lacia) no-repeat;
+  background-size: 100% 100%;
 }
 
 /* image */
 body .prt-chat-show .prt-global-chat-log .btn-chat-log,
 body .prt-global-chat-log .btn-chat-log {
-  background-image: url(/blhxfy/data/static/image/btn-chat-log.png)
+  background-image: url(../image/btn-chat-log.png)
 }
 body #cnt-room-index .prt-room-members .prt-view-menu .prt-global-chat-log .btn-chat-log {
-  background: url(/blhxfy/data/static/image/btn-chat-log-coop.png) no-repeat 0 1px;
+  background: url(../image/btn-chat-log-coop.png) no-repeat 0 1px;
   background-size: 265px 27px;
 }
 
 body #wrapper .cnt-setting [id^=prt-setting-index] .btn-setting-graphics {
-  background: url(/blhxfy/data/static/image/setting-thumb.png?lacia) no-repeat 0 -180px;
+  background: url(../image/setting-thumb.png?lacia) no-repeat 0 -180px;
   background-size: 92px auto;
 }
 body #wrapper .cnt-setting [id^=prt-setting-index] .btn-setting-sound {
-  background: url(/blhxfy/data/static/image/setting-thumb.png?lacia) no-repeat 0 -360px;
+  background: url(../image/setting-thumb.png?lacia) no-repeat 0 -360px;
   background-size: 92px auto;
 }
 body #wrapper .cnt-setting [id^=prt-setting-index] .btn-setting-battle {
-  background: url(/blhxfy/data/static/image/setting-thumb.png?lacia) no-repeat 0 0;
+  background: url(../image/setting-thumb.png?lacia) no-repeat 0 0;
   background-size: 92px auto;
 }
 body #wrapper .cnt-setting [id^=prt-setting-index] .btn-setting-chat {
-  background: url(/blhxfy/data/static/image/setting-thumb.png?lacia) no-repeat 0 -300px;
+  background: url(../image/setting-thumb.png?lacia) no-repeat 0 -300px;
   background-size: 92px auto;
 }
 body #wrapper .cnt-setting [id^=prt-setting-index] .btn-setting-mypage {
-  background: url(/blhxfy/data/static/image/setting-thumb.png?lacia) no-repeat 0 -60px;
+  background: url(../image/setting-thumb.png?lacia) no-repeat 0 -60px;
   background-size: 92px auto;
 }
 body #wrapper .cnt-setting [id^=prt-setting-index] .btn-setting-public {
-  background: url(/blhxfy/data/static/image/setting-thumb.png?lacia) no-repeat 0 -240px;
+  background: url(../image/setting-thumb.png?lacia) no-repeat 0 -240px;
   background-size: 92px auto;
 }
 body #wrapper .cnt-setting [id^=prt-setting-index] .btn-setting-useful {
-  background: url(/blhxfy/data/static/image/setting-thumb.png?lacia) no-repeat 0 -420px;
+  background: url(../image/setting-thumb.png?lacia) no-repeat 0 -420px;
   background-size: 92px auto;
 }
 body #wrapper .cnt-setting [id^=prt-setting-index] .btn-setting-questuseful {
-  background: url(/blhxfy/data/static/image/setting-thumb.png?lacia) no-repeat 0 -120px;
+  background: url(../image/setting-thumb.png?lacia) no-repeat 0 -120px;
   background-size: 92px auto;
 }
 .comic-transtag-blhxfy {
@@ -664,7 +664,7 @@ body #wrapper .cnt-setting [id^=prt-setting-index] .btn-setting-questuseful {
   font-size: 0;
   width: 14px;
   height: 14px;
-  background: url(/blhxfy/data/static/image/star.png);
+  background: url(../image/star.png);
   background-size: cover;
 }
 .btn-episode {
