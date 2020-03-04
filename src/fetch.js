@@ -93,7 +93,8 @@ const getManifest = async () => {
     if (Date.now() - data.time > config.cacheTime * 60 * 1000) data = false
   } catch (e) {}
   if (!data) {
-    const res = await fetch(`${origin}/blhxfy/manifest.json`)
+    const t = Math.floor(Date.now() / 1000 / 60 / 60 / 6)
+    const res = await fetch(`${origin}/blhxfy/manifest.json?t=${t}`)
     data = await res.json()
     data.time = Date.now()
     localStorage.setItem('blhxfy:manifest', JSON.stringify(data))
