@@ -1,0 +1,144 @@
+id,name,text,trans
+0-chapter_name,,自称超天才魔術師,自称超天才魔术师
+0-synopsis,,備品の買い出しの帰り道、追いはぎに襲われていた青年を救った姬塔一行は、青年の行きつけだというレストランへ招待される。ロベリアと名乗った青年は一行が腕のたつ騎空士であると知ると、１枚のカードを取り出し覇空戦争が続く記憶の世界へと呼び込む。そこでロベリアは、手負いである自分の代理として星晶獣と戦ってほしいと頼むのだった。,采购完部件的归途中，姬塔一行救下了被强盗袭击的青年，并被他招待至他正要去的餐厅。名为罗贝利亚的青年知晓一行人是有实力的骑空士后，取出了1枚卡片，将众人呼唤到了持续着霸空战争的记忆世界。在那里，罗贝利亚拜托众人作为受伤的自己的代理人，和星晶兽进行战斗。
+2,追いはぎ１/强盗1,<span class='scene-font-4'>おらぁっ！！</span>,<span class='scene-font-4'>哦啦！！</span>
+6,？？？,ぐっ……,咕……
+7,？？？,人は……誰であろうと<br>幸福に生きる権利を持っている。,无论是谁……<br>都拥有幸福生活的权利。
+8,？？？,だが、キミらは些か品がないな。<br>デリキャに奏でろよ。,但是，你们似乎有些没有品位啊。<br>倒是奏响得柔和一点嘛。
+9,？？？,イムヌフュネレールを<br>冷たくなった友に聴かせるように、さ。,就像是给<br>已经全身冰冷的朋友听葬送曲一样、啊。
+10,追いはぎ２/强盗2,ああ？　頭イカレてんのか？<br>いいからさっさと金目のモンだせや！,啊？你脑子有病吧？<br>赶紧给我把值钱的东西交出来！
+11,追いはぎ２/强盗2,<span class='scene-font-4'>ぶっ殺しちまうぞ！！</span><br><span class='scene-font-4'>おらぁ！</span>,<span class='scene-font-4'>不然我杀了你啊！！</span><br><span class='scene-font-4'>哦啦！</span>
+15,？？？,くはっ、あははっ！　トレビアン！<br>今のはいい！　いい音だ！,咳哈、啊哈哈！　Très bien（太棒了）！<br>刚刚那个不错！　不错的声音！
+16,追いはぎ１/强盗1,な、何なんだこいつ、気味わりぃな……,这、这家伙搞什么啊，真让人恶心……
+17,追いはぎ２/强盗2,さ、さっさとぶっ殺せ！<br>金目のモンはその後奪えばいい！,赶、赶紧把他杀了！<br>值钱的东西之后再拿就行！
+21,ルリア/露莉亚,た、大変です！　姬塔！,糟、糟糕了！　姬塔！
+22,,<span class='scene-font-katari'>備品の買い出しの帰り道、</span><br><span class='scene-font-katari'>姬塔一行は追いはぎに</span><br><span class='scene-font-katari'>襲われるひとりの青年を見つける。</span>,<span class='scene-font-katari'>在采购部件的归途，</span><br><span class='scene-font-katari'>姬塔一行人发现了</span><br><span class='scene-font-katari'>被强盗袭击的一位青年。</span>
+23,,<span class='scene-font-katari'>慌てて姬塔は</span><br><span class='scene-font-katari'>武器を手に取り、</span><br><span class='scene-font-katari'>青年のもとへと駆けていく。</span>,<span class='scene-font-katari'>姬塔慌张地</span><br><span class='scene-font-katari'>抽出了武器，</span><br><span class='scene-font-katari'>赶到了青年身边。</span>
+24,ビィ/碧,おい、テメェら！！<br>その兄ちゃんから離れろ！,喂，你们两个！！<br>从那个小哥旁边离开！
+25,追いはぎ１/强盗1,あぁ？　うるせぇな！<br>テメェらもコイツと一緒に<br>身ぐるみ剥いでやろうか！,啊？　吵死人了！<br>把你们和这家伙一样<br>剥个一干二净吧！
+26,,<span class='scene-font-katari'>ビィの制止の声も聞かず、</span><br><span class='scene-font-katari'>追いはぎ達は姬塔一行に</span><br><span class='scene-font-katari'>殴りかかる。</span>,<span class='scene-font-katari'>完全不听碧制止的声音，</span><br><span class='scene-font-katari'>强盗们朝着姬塔一行</span><br><span class='scene-font-katari'>殴打了过来。</span>
+27,,<span class='scene-font-katari'>だが、姬塔は攻撃を</span><br><span class='scene-font-katari'>軽やかに躱すと、剣の柄尻で</span><br><span class='scene-font-katari'>追いはぎ達の鳩尾を素早く殴打した。</span>,<span class='scene-font-katari'>然而，姬塔轻巧地</span><br><span class='scene-font-katari'>躲开了攻击，用剑柄尾端</span><br><span class='scene-font-katari'>迅速殴打了强盗们的心窝。</span>
+28,追いはぎ達/强盗们,<span class='scene-font-4'>ぐほぉあっ！？</span>,<span class='scene-font-4'>唔啊！？</span>
+31,,<span class='scene-font-katari'>空気と共に間抜けな声を吐き出し、</span><br><span class='scene-font-katari'>追いはぎ達は白目を向いて、</span><br><span class='scene-font-katari'>崩れ落ちた。</span>,<span class='scene-font-katari'>强盗们吐出了空气和愚钝的声音，</span><br><span class='scene-font-katari'>翻着白眼</span><br><span class='scene-font-katari'>倒下了。</span>
+32,？？？,ふぅん……,呼……
+33,ルリア/露莉亚,お兄さん、怪我ありませんか？<br>大丈夫ですか？,那个，你没有受伤吧？<br>还好吗？
+34,？？？,ふぅ……怪我はないさ。だが、<br>幸福な音を取り損ねてしまったよ。,呼……没有受伤哦。但是，<br>没能获取到幸福的声音啊。
+35,ルリア/露莉亚,え？<br>音、ですか？,诶？<br>声音、吗？
+36,,<span class='scene-font-katari'>ルリアが不可解な言葉を</span><br><span class='scene-font-katari'>不思議そうに復唱すると、</span><br><span class='scene-font-katari'>青年は指を軽快に鳴らした。</span>,<span class='scene-font-katari'>露莉亚不可思议地</span><br><span class='scene-font-katari'>复唱着无法理解的单词时，</span><br><span class='scene-font-katari'>青年轻快地打了一个响指。</span>
+38,？？？,ルジストル。,Registre（记录）。
+41,,<span class='scene-font-katari'>するといつの間にか青年の手に</span><br><span class='scene-font-katari'>巻き貝が現れ、一行は目を見開くが</span><br><span class='scene-font-katari'>更に驚くべきことが起きる。</span>,<span class='scene-font-katari'>于是不知何时在青年手中</span><br><span class='scene-font-katari'>出现了一个海螺，而一行人看见了</span><br><span class='scene-font-katari'>更令人震惊的事情。</span>
+42,巻き貝/海螺,<span class='scene-font-italic scene-font-blue'>音、ですか？</span>,<span class='scene-font-italic scene-font-blue'>声音、吗？</span>
+43,ビィ/碧,うえぇあっ！？<br>貝がルリアの声で喋ったぞ！？,唔诶诶啊！？<br>海螺用露莉亚的声音说话了啊！？
+44,？？？,ノン！<br><span class='scene-font-spword'>“クラポティ”</span>に録音した<br>マドモアゼルの声を再生したのさ。,Non！<br><span class='scene-font-spword'>这是放出了</span>用“Clapotis（浪型音波，此处指海螺）”录音的<br>Mademoiselle（小姐）的声音哦。
+45,ルリア/露莉亚,え……え？,诶……诶？
+46,ルリア/露莉亚,すごいです！　一体どうやったんですか？,好厉害！这是怎么做到的？
+47,？？？,どうやって？<br>中々難しいことを聞くね。,怎么做到的？<br>还真是会问难回答的问题呢。
+48,？？？,ええっと、そうだな……<br>音を拾ってクラポティに<br>ポイっとしまっただけさ。,嗯嗯，是呢……<br>只是录下声音往Clapotis里<br>砰地放进去而已啦。
+49,ルリア/露莉亚,ポイっと……？,砰地……？
+50,？？？,うーん、とにかく、<br>一度しまってしまえば、<br>好きなだけ聴けるのさ。,嗯——总而言之，<br>只要放进去一次，<br>就能听到听厌为止啦。
+51,？？？,ほら、こんなふうにね。,看，就像这样。
+55,,<span class='scene-font-katari'>青年が指を鳴らすと、</span><br><span class='scene-font-katari'>彼の手の上に複数の</span><br><span class='scene-font-katari'>小さな巻き貝が現れる。</span>,<span class='scene-font-katari'>青年打了个响指后，</span><br><span class='scene-font-katari'>在他的手上出现了</span><br><span class='scene-font-katari'>复数个小海螺。</span>
+56,？？？,ルジストル。,Registre（记录）。
+61,ビィ/碧,おおお！？<br>これ、波の音か！？,哦哦哦！？<br>这是海浪声吗！？
+66,ルリア/露莉亚,わぁ！　こっちの貝殻からは<br>鳥さんたちの歌が聴こえます！<br>えへへ、かわいいです♪,哇！　从这个贝壳里<br>能听见小鸟们的歌唱声！<br>诶嘿嘿，好可爱啊♪
+67,ビィ/碧,結局、全然よくわからねぇけど、<br>兄ちゃんがすっげぇってことだけは<br>わかったぜ！,结果虽然完全不懂是怎么回事，<br>不过小哥你很厉害这一点<br>还是能明白的！
+68,？？？,くはっ！　オレの素晴らしさが<br>分かるとはね、気に入ったよ！,噗哈！　居然能明白<br>我的优点，我很中意你们啊！
+69,ビィ/碧,でも説明は下手なんだな。<br>やってもらうまで全然<br>分からなかったぜ……,但是也太不擅长说明了啊。<br>到你实际展示之前<br>完全不明白啊……
+70,ルリア/露莉亚,あ、あはは……<br>確かにそうかもです……,啊，啊哈哈……<br>确实是那样呢……
+71,？？？,くはっ……オレの唯一の欠点を<br>即座に見抜くとは……やはり、<br>気に入ったよ、キミら……,哈哈……居然能迅速看穿<br>我唯一的缺点……果然，<br>我很中意你们啊……
+72,？？？,ふぅ……<br>だからこそ、惜しいな。,呼……<br>正因如此，才感到可惜啊。
+73,？？？,あのまま放っておいてくれたら、<br>もっと素晴らしい幸福な音を録音し、<br>キミらに聴かせてあげられたのに……,如果那样放着我不管的话，<br>就能录下更加美妙的幸福之音，<br>让你们听到了……
+74,ルリア/露莉亚,え、えっと……ごめんなさい。<br>もしかして私達、<br>お兄さんの邪魔しちゃいましたか？,诶，那个……非常抱歉。<br>难道我们，<br>打扰到你了吗？
+75,？？？,…………,…………
+76,？？？,ノン、キミらのおかげで<br>骨を痛めた程度ですんだからね。,Non，多亏了你们<br>只是骨头有些疼哦。
+77,？？？,それにお気に入りの服も無事だ。<br>ふふふ、行きつけのレストランの<br>ドレスコードを守ることができたよ。,而且我很喜欢的衣服也毫发无损。<br>呼呼，这样也能遵守要去的<br>餐厅的着装礼仪哦。
+78,？？？,ああ、そうだ！　この後、<br>そのレストランへ行くんだけど、<br>キミらもどうだい？,啊啊，对了！　这之后，<br>我正准备去那家餐厅，<br>你们要不要也一起来？
+79,ルリア/露莉亚,えっと……<br>どうします？　姬塔？,那个……<br>怎么办呢？　姬塔？
+80,,<span class='scene-font-katari'>青年の誘いに一行は</span><br><span class='scene-font-katari'>一瞬だけ悩んだ様子を見せる。</span>,<span class='scene-font-katari'>对于青年的邀请</span><br><span class='scene-font-katari'>一行人有些许犹豫。</span>
+81,,<span class='scene-font-katari'>すると、青年は</span><br><span class='scene-font-katari'>ルリアと姬塔の手を</span><br><span class='scene-font-katari'>優しく握ってきた。</span>,<span class='scene-font-katari'>于是，青年</span><br><span class='scene-font-katari'>便温柔地握住了</span><br><span class='scene-font-katari'>姬塔和露莉亚的手。</span>
+82,ルリア/露莉亚,ひゃわっ！？,呀哇！？
+83,？？？,くはっ！　損はさせないさ。<br>さぁ、行こう！　決まりだ！,哈哈！　不会有损失的。<br>来，走吧！　就这么定了！
+84,ビィ/碧,ちょ、待てって！<br>ったく、強引だなぁ！,等，等等！<br>真是的，太强硬了吧！
+85,,<span class='scene-font-katari'>結局、一行は青年に</span><br><span class='scene-font-katari'>連れて行かれる形で</span><br><span class='scene-font-katari'>レストランへと向かうのだった。</span>,<span class='scene-font-katari'>结果，一行人以被青年</span><br><span class='scene-font-katari'>拉着同行的形式</span><br><span class='scene-font-katari'>去往了餐厅。</span>
+91,,<span class='scene-font-katari'>レストランにつくと、青年は</span><br><span class='scene-font-katari'>人数分の紅茶とケーキを頼むと、</span><br><span class='scene-font-katari'>人懐っこい笑みを一行に向けた。</span>,<span class='scene-font-katari'>到达餐厅后，青年</span><br><span class='scene-font-katari'>点了人数分的蛋糕和红茶，</span><br><span class='scene-font-katari'>露出了非常温和的笑容。</span>
+92,ロベリア,改めてキミらに感謝を。<br>オレはロベリア。<br>全空一の天才魔術師さ。,再一次对你们表示感谢。<br>我是罗贝利亚。<br>全空第一的天才魔术师。
+93,ビィ/碧,全空一だなんて、<br>ずいぶん大きくでるじゃねぇか！<br>そんなにスゲェ兄ちゃんだったのか？,说什么全空第一，<br>还真是很不得的自夸啊！<br>你是那么厉害的人吗？
+94,ロベリア,ウィ！　なんせコンセールを<br>使えるのはこの空でオレだけだからね。,Oui（没错）！　毕竟能使用Concert（管弦乐，此处为魔术名）的<br>在这片天空只有我一个嘛。
+95,ルリア/露莉亚,それってあの貝殻──,是说那个贝壳──
+96,ロベリア,クラポティだ！<br>次は間違えないでくれ、マドモアゼル。,是Clapotis！<br>下一次请不要搞错了，Mademoiselle（小姐）。
+97,ルリア/露莉亚,はわっ……ご、ごめんなさい！,啊哇哇……对、对不起！
+98,ルリア/露莉亚,えっと、くらぽてぃー、ですね！,那个，库拉迫题，对吧！
+99,ロベリア,くはっ、いいさ。<br>間違いは誰にでもあるからね。<br>それに、ご明察通りだ。,哈哈，没关系。<br>毕竟谁都会犯错嘛。<br>而且，正如你所想。
+100,ロベリア,<span class='scene-font-spword'>“コンセール”</span>は<br>クラポティを媒体に音を操る<br>オレのオリジナル魔術だよ。,<span class='scene-font-spword'>“Concert”</span>是<br>以Clapotis为媒介操纵声音的<br>我原创的魔术哦。
+101,ロベリア,ルジストルはその内の１つさ。<br>他にも色んなことができる。<br>例えば……こんなのとか。,而其中的一个就是Registre（记录）。<br>也能做到很多其他事。<br>比如……像这样。
+102,,<span class='scene-font-katari'>ロベリアはニコニコと笑いながら、</span><br><span class='scene-font-katari'>姬塔に小さな巻き貝を</span><br><span class='scene-font-katari'>手渡した。</span>,<span class='scene-font-katari'>罗贝利亚一边笑着，</span><br><span class='scene-font-katari'>一边将一个小小的海螺</span><br><span class='scene-font-katari'>放在了姬塔手上。</span>
+103,ロベリア,耳に当ててごらん。,放在耳边试试看。
+104,,<span class='scene-font-katari'>姬塔は</span><br><span class='scene-font-katari'>ロベリアの言う通り、</span><br><span class='scene-font-katari'>巻き貝を耳に当てる。</span>,<span class='scene-font-katari'>姬塔照</span><br><span class='scene-font-katari'>罗贝利亚所说，</span><br><span class='scene-font-katari'>将海螺放到了耳边。</span>
+105,ロベリア,<span class='scene-font-italic scene-font-blue'>聴こえるかい？</span>,<span class='scene-font-italic scene-font-blue'>听得到吗？</span>
+106,,<span class='scene-font-katari'>すると、</span><br><span class='scene-font-katari'>巻き貝からロベリアの声が響き、</span><br><span class='scene-font-katari'>姬塔は驚愕する。</span>,<span class='scene-font-katari'>然后，</span><br><span class='scene-font-katari'>海螺里响起了罗贝利亚的声音，</span><br><span class='scene-font-katari'>吓了姬塔一跳。</span>
+107,ロベリア,"これはメサージュという魔術だ。<br>クラポティを媒体に<br>遠くに居る相手に声を届ける魔術さ！ ","这是名为Message（讯息）的魔术。<br>以Clapotis为媒介<br>向远处的对方传递声音的魔术哦！ "
+108,ロベリア,島と島程度の距離はもちろんのこと、<br>たとえ空域が離れていても、<br>声を届けられるんだ。,不止是空岛与空岛之间的距离，<br>就算是不同空域之间，<br>也能传递声音哦。
+109,ビィ/碧,く、空域が離れていても！？<br>そんなすげぇことが出来るのか！？,就、就算跨越空域也能！？<br>能做到这么厉害的事吗！？
+110,ロベリア,まぁ、試してみたことはないがね。,嘛，虽然我没有试过啦。
+111,ビィ/碧,ないのかよっ！！<br>うっすら思ってたけど、<br>やっぱり変なヤツだな、お前……,没试过啊！！<br>虽然只是有点觉得，<br>你真的是个怪人诶……
+112,ロベリア,くはっ、あははっ！<br>でも、愛嬌があっていいだろう？,噗哈，哈哈哈！<br>但是，有点可爱的地方才好吧？
+113,ビィ/碧,自分で言うことじゃねぇだろ……,那不是自己说出口的事吧……
+114,ビィ/碧,でも、確かに面白いなぁ！<br>クラポティ兄ちゃん。,但是，确实很有趣呢！<br>Clapotis哥哥。
+115,ロベリア,いいね、そのニックネーム！<br>ふふふ、光栄だよ。,真不错啊，那个昵称！<br>呼呼呼，这是我的荣幸哦。
+116,ロベリア,さて、このままオレが如何に天才かを<br>語るのも中々に面白いとは思うが……,好了，虽然就这样谈谈我究竟有多天才<br>也挺有趣的……
+117,ロベリア,よければキミらの話を<br>聞かせて欲しいな。,如果可以的话<br>我也想听听你们的事啊。
+118,ビィ/碧,オイラ達の？,我们吗？
+119,ロベリア,姬塔、といったかな？<br>キミ、その年にしては随分と<br>腕がたつようだ……,你是叫姬塔吧？<br>你虽然只有这个年龄<br>但非常有实力……
+120,ロベリア,一体、なにを目的に掲げ、<br>どんな修羅場を<br>潜り抜けてきたんだい？,究竟，是为了什么样的目的，<br>跨越了<br>怎样的修罗场呢？
+121,,<span class='scene-font-katari'>穏やかに微笑むロベリアに、</span><br><span class='scene-font-katari'>一行はすっかりと警戒をとき、</span><br><span class='scene-font-katari'>これまでの旅路と目的を語る。</span>,<span class='scene-font-katari'>在露出平稳笑容的罗贝利亚面前，</span><br><span class='scene-font-katari'>一行人完全放松了警惕，</span><br><span class='scene-font-katari'>开始讲述起至今为止的旅途和目的。</span>
+122,ロベリア,なるほど、なるほどね。<br>キミらは歴戦の騎空士ってわけだ。,原来如此，原来如此。<br>你们是身经百战的骑空士啊。
+123,ロベリア,しかし、ここまで腕がたつ<br>騎空士さんに会えるとはね……<br>これは運命、か。,不过，没想到能遇到<br>具有如此实力的骑空士……<br>这就是命运、吗。
+124,,<span class='scene-font-katari'>ロベリアはそう呟くと、</span><br><span class='scene-font-katari'>１枚のくすんだカードを</span><br><span class='scene-font-katari'>取り出して見せた。</span>,<span class='scene-font-katari'>罗贝利亚如此说着，</span><br><span class='scene-font-katari'>取出了一张褪色的卡片</span><br><span class='scene-font-katari'>给众人过目。</span>
+125,ルリア/露莉亚,それは……<br>カード、ですか？,这是……<br>卡片，吗？
+126,,<span class='scene-font-katari'>ロベリアはその問いに頷くと</span><br><span class='scene-font-katari'>指を鳴らし、軽快な音を</span><br><span class='scene-font-katari'>レストランに響かせる。</span>,<span class='scene-font-katari'>罗贝利亚以点头和响指</span><br><span class='scene-font-katari'>回答了提问，让轻快的声音</span><br><span class='scene-font-katari'>在餐厅内回响。</span>
+135,ルリア/露莉亚,こ、ここは一体……？<br>さっきまでレストランに<br>居たはずなのに……,这、这里究竟是……？<br>明明我们刚刚还在<br>餐厅里的……
+136,ロベリア,ここは数百年前。<br>覇空戦争の戦場さ。,这里是几百年前。<br>霸空战争的战场。
+137,ビィ＆ルリア,<span class='scene-font-4'>覇空戦争！？</span>,<span class='scene-font-4'>霸空战争！？</span>
+138,ロベリア,このカードの中に<br>覇空戦争の記憶が眠っていてね。<br>キミらをそこに招待したのさ。,在这张卡片里面<br>沉睡着霸空战争的记忆。<br>我将你们带到了这里。
+139,ビィ/碧,これもコンセールってヤツなのか？,这也是那个叫Concert的魔术吗？
+140,ロベリア,ノン！　これは、<br>この世界を滅ぼそうとする巨悪と<br>戦うための正義の力さ。,Non！　这是，<br>为了和企图毁灭这个世界的极恶<br>战斗的正义的力量啊。
+141,ビィ/碧,せ、世界を滅ぼす巨悪！？<br>なんだよ、それ！,企，企图毁灭世界的极恶！？<br>那是什么啊！
+142,ロベリア,実はこの記憶の世界は、<br>空の世界の破滅を目論む星晶獣が、<br>あるものを探すために作り上げたんだ。,实际上这个记忆的世界，<br>是谋划着空之世界的破灭的星晶兽<br>为了找到某样东西而制作出来的。
+143,ロベリア,どうやらそれさえ見つかれば、ヤツは<br>容易く世界を滅ぼし、新世界とやらを<br>創造できてしまうらしいんだ。,似乎只要找到那个，那家伙<br>就能轻易地毁灭世界，从而<br>可以创造出一个新世界。
+144,ロベリア,だからヤツは躍起になって<br>この記憶の世界で何度も何度も<br>覇空戦争を繰り返しているんだよ。,所以那家伙拼命地<br>在这个记忆的世界里无数次无数次<br>重复着霸空战争。
+145,ビィ/碧,そこまでして……<br>星晶獣は何を探しているんだよ。,做到这个地步……<br>那个星晶兽是想找什么啊。
+146,ロベリア,<span class='scene-font-spword'>星の民</span>が空の民に<br>勝利するパターンだよ。,<span class='scene-font-spword'>星之民</span>能赢过<br>空之民的可能性哦。
+147,ロベリア,それがこの世界で見つかり次第、<br>星晶獣はそれを応用し、空の世界を<br>瞬く間に滅ぼしてしまうだろうね。,只要在这个世界找到，<br>星晶兽就能利用那个可能性，一瞬就<br>能毁灭空之世界吧。
+148,ルリア/露莉亚,そんなの！<br>絶対に止めなきゃ……！,那种事！<br>一定要制止才行……！
+149,ロベリア,ウィ、その通り。<br>絶対に止めなきゃならない。,Oui，就是这样。<br>一定要制止才行。
+150,ロベリア,だからこそオレは記憶の世界に潜り、<br>幾度も繰り返される戦争に勝利し、<br>星晶獣の目論見を阻止していたんだ。,因此我才潜入这个记忆的世界，<br>好几次赢得被重复的战争，<br>阻止着星晶兽的企图。
+151,ロベリア,だが……今やオレは手負いの身。<br>戦争に勝つのは難しいかもしれない。,但是……现在我身受重伤。<br>赢得战争或许会很困难吧。
+152,ロベリア,そこで、<br>歴戦の騎空士であるキミらに<br>是非とも、代理を依頼したいんだ。,因此，<br>务必请你们这些身经百战的骑空士<br>作为我的代理。
+153,ビィ/碧,代理って……<br>クラポティ兄ちゃんの<br>代わりに戦争しろってことだよな。,说是代理……<br>也就是代替Clapotis小哥<br>参与这场战争对吧。
+154,,<span class='scene-font-katari'>ビィの問いに対し、</span><br><span class='scene-font-katari'>ロベリアは静かに頷くと、</span><br><span class='scene-font-katari'>再び指を鳴らす。</span>,<span class='scene-font-katari'>对碧的提问，</span><br><span class='scene-font-katari'>罗贝利亚静静地点头，</span><br><span class='scene-font-katari'>再一次打了个响指。</span>
+156,,<span class='scene-font-katari'>軽快な音と共に閃光が発せられ、</span><br><span class='scene-font-katari'>それは姬塔達を包み込む。</span>,<span class='scene-font-katari'>闪光和轻快的声音同时闪现，</span><br><span class='scene-font-katari'>包裹住了姬塔一行。</span>
+162,,<span class='scene-font-katari'>光が消えると姬塔達は</span><br><span class='scene-font-katari'>レストランの個室へ戻ってきていた。</span>,<span class='scene-font-katari'>当光芒消失后</span><br><span class='scene-font-katari'>姬塔一行已经回到了餐厅的包厢里。</span>
+163,ロベリア,礼はいくらでもしようじゃないか。<br>どうか、協力してくれないか？<br>頼れるのはキミらしかいないんだ。,谢礼无论多少我都会准备的，<br>能不能，务必考虑一下协助我呢？<br>我能拜托的只有你们了。
+164,ロベリア,そうだ！　特別に<br>オレのこの天才的な魔術を<br>キミらのために使ってもいい！,对了！　特例<br>为了你们而使用<br>我这身天才的魔术也可以哦！
+165,ビィ/碧,すげぇ自信家だなぁ、<br>クラポティ兄ちゃん。,你真是有了不得的自信啊，<br>Clapotis小哥。
+165-sel1_txt,,<span class='scene-font-katari'>放っておけないし、いいよ</span>,<span class='scene-font-katari'>也不能放着不管，好哦</span>
+165-sel2_txt,,<span class='scene-font-katari'>コンセール教えてくれる？</span>,<span class='scene-font-katari'>能教我Concert吗？</span>
+166,ビィ/碧,確かにな！　<br>世界が滅びちまうかもしれねぇのに<br>放っておけねぇよ！,确实啊！　<br>有可能毁灭这个世界<br>肯定不能放着不管啊！
+167,ルリア/露莉亚,はいっ！ <br>悪い星晶獣の思い通りに<br>なんかさせません！,是的！ <br>才不会让邪恶的<br>星晶兽如愿呢！
+169,ビィ/碧,あ、いいな！　それ！<br>オイラにも教えてくれよ！,啊，不错诶！那个！<br>也教教我吧！
+170,ロベリア,構いはしないが……キミらに<br>使いこなせるとは思えないけどね。,虽然我不介意……但我不觉得<br>你们能使用出来呢。
+171,ビィ/碧,むっ！<br>それ、どういう意味だよ！,姆！<br>那是什么意思啊！
+172,ロベリア,おいおい、怒らないでくれよ。<br>キミらを甘く見たわけじゃないさ。,喂喂，别生气嘛。<br>我当然不是在小看你们哦。
+173,ロベリア,というのも、オレは感覚で<br>コンセールを<br>コントロールしてるんだ。,这么说是因为，我是靠感觉<br>而控制<br>Concert的。
+174,ロベリア,だから言語化して説明するのが<br>本当に難しくてね……,所以靠语言来说明<br>真的很困难啊……
+175,ロベリア,くはっ！　引き受けてくれた暁には<br>好きなだけキミらのために使うさ。<br>それで手を打ってはくれないかい？,库哈！　如果你们接下委托<br>我就会为你们使用到你们厌烦为止哦。<br>这样能不能算交易成立呢？
+176,,<span class='scene-font-katari'>ロベリアの言葉に</span><br><span class='scene-font-katari'>姬塔は頷く。</span>,<span class='scene-font-katari'>姬塔对罗贝利亚的提案</span><br><span class='scene-font-katari'>点头认同。</span>
+177,ロベリア,<span class='scene-font-4'>トレッビアンッ！！</span><br>なら、このカードはキミらが<br>持っておいてくれたほうがいいな。,<span class='scene-font-4'>Très bien（太棒了）！！</span><br>那么，这张卡片就由<br>你们拿着比较好吧。
+178,ロベリア,このカードさえあれば、<br>記憶の世界に入れるからね。<br>コンサートの入場券みたいなものさ。,只要有这张卡，<br>就能进入记忆的世界了。<br>就像是音乐会的入场券一样。
+180,ロベリア,それとこれはどこにいてもオレと<br>会話できるクラポティだ。<br>念のため、持っておいてくれ。,然后这是不管身处哪里<br>都能和我对话的Clapotis。<br>以防万一，你们就拿着吧。
+182,ビィ/碧,おう！<br>確かに受け取ったぜ！,好！<br>我们就收下了！
+183,ロベリア,くはっ、それじゃあ頼んだよ！<br>姬塔、ビィ、ルリア！,哈哈，那就拜托你们了！<br>姬塔、碧、露莉亚！
+184,,<span class='scene-font-katari'>こうして姬塔達は</span><br><span class='scene-font-katari'>ロベリアの代理として覇空戦争に</span><br><span class='scene-font-katari'>参加することになった。</span>,<span class='scene-font-katari'>就这样姬塔一行人</span><br><span class='scene-font-katari'>作为罗贝利亚的代理</span><br><span class='scene-font-katari'>参与了这场霸空战争。</span>
+185,,<span class='scene-font-katari'>そして幾度となく繰り返されるであろう</span><br><span class='scene-font-katari'>覇空戦争を想い、姬塔達は</span><br><span class='scene-font-katari'>気を引き締め直すのだった。</span>,<span class='scene-font-katari'>思索着这不知会持续多少次的</span><br><span class='scene-font-katari'>霸空战争，姬塔一行</span><br><span class='scene-font-katari'>重新绷紧了神经。</span>
+info,,,scene_chr490_ep1_s10
+译者,,,翻译：清羽
