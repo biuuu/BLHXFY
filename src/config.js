@@ -30,6 +30,7 @@ const config = {
   transEn: true,
   keepBgm: false,
   originText: false,
+  cacheTime: 30,
   version: version
 }
 

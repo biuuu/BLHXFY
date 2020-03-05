@@ -21,6 +21,7 @@ import pageIndex, { replaceHour, replaceHourU } from './modules/page-index'
 import { showVoiceSubL } from './modules/voice-sub'
 import { getUserName, setUserName } from './store/name-user'
 import { chapterList, episodeList, npcChapterList, arcarumSceneName } from './modules/scenario/story-title'
+import battleNote from './modules/battle/note'
 
 const apiHosts = ['game.granbluefantasy.jp', 'gbf.game.mbga.jp']
 
@@ -72,12 +73,12 @@ const requestList = [
     '/party/ability_list/', '/zenith/ability_list/', '/party/job_info/'], transJobSkill],
   ['/island/init', transIslandInfo],
   [['/rest/sound/mypage_voice', '/rest/sound/archive_voice'], showVoiceSubL],
-  [[/\/rest\/(multi)?raid\/start\.json/, /\/rest\/tutorial\/tutorial\d+(_\d+)?\.json/], [transChat, transBattle]],
+  [[/\/rest\/(multi)?raid\/start\.json/, /\/rest\/tutorial\/tutorial\d+(_\d+)?\.json/], [transChat, transBattle, battleNote]],
   [[/\/rest\/(multi)?raid\/ability_result\.json/,
     /\/rest\/(multi)?raid\/temporary_item_result\.json/,
     /\/rest\/(multi)?raid\/normal_attack_result\.json/,
     /\/rest\/(multi)?raid\/summon_result\.json/,
-    /\/rest\/tutorial\/tutorial_battle_\d+(_\d+)?\.json/], transBattleR],
+    /\/rest\/tutorial\/tutorial_battle_\d+(_\d+)?\.json/], [transBattleR, battleNote]],
   [/\/rest\/.*?raid\/condition\/\d+\/\d\/\d\.json/, transBuff],
   ['/user/status', replaceHourU],
   [['/weapon/weapon/', '/archive/weapon_detail'], weaponSkill],

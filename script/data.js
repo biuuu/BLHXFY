@@ -110,6 +110,23 @@ const collectSkillId = async () => {
   await fse.writeJSON('./dist/blhxfy/data/skill.json', skillData)
 }
 
+const collectBattleNoteId = async () => {
+  console.log('battle note...')
+  const files = await glob.promise('./data/battle/note/**/*.note.csv')
+  const prims = files.map(file => {
+    let rgs = file.match(/quest-(\d+)\.note\.csv/)
+    if (rgs && rgs[1]) return [rgs[1], file.replace(/^\.\/data\/battle\/note\//, '')]
+  })
+  const result = await Promise.all(prims)
+  const battleNoteData = {}
+  result.forEach(item => {
+    if (item && item[0] && item[1]) {
+      battleNoteData[item[0]] = item[1]
+    }
+  })
+  await fse.writeJSON('./dist/blhxfy/data/battle-note.json', battleNoteData)
+}
+
 const collectVoice = async () => {
   console.log('voice...')
   const files = await glob.promise('{./data/scenario/**/voice.csv,./data/voice.csv}')
@@ -143,6 +160,8 @@ const start = async () => {
 
   console.log('move iframe...')
   await fse.copy('./src/lacia.html', './dist/blhxfy/lacia.html')
+
+  await collectBattleNoteId()
 
   await collectStoryId()
 

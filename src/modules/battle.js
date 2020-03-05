@@ -7,11 +7,11 @@ import getNpcSkillData, { getCommSkillMap, skillState } from '../store/skill-npc
 import { getPlusStr, removeHtmlTag, race } from '../utils/'
 import CONFIG from '../config'
 import { transSkill } from './skill-npc'
-import getArcarumData from '../store/arcarum'
+import getBossName from '../store/name-boss'
 
 const skillTemp = new Map()
 const posMap = new Map()
-let arcarumMap = new Map()
+let bossNameMap = new Map()
 
 const collectNpcSkill = (skillData) => {
   for (let key in skillData) {
@@ -25,9 +25,9 @@ const collectNpcSkill = (skillData) => {
 }
 
 const replaceMonsterName = (item, key) => {
-  const name = item[key].replace(/^Lvl?\s?\d+\s+/, '')
-  if (arcarumMap.has(name)) {
-    const trans = arcarumMap.get(name)
+  const name = item[key].replace(/^Lvl?\s?[\d?]+\s+/, '')
+  if (bossNameMap.has(name)) {
+    const trans = bossNameMap.get(name)
     item[key] = item[key].replace(name, trans)
   }
 }
@@ -48,7 +48,7 @@ const battle = async function battle(data, mode) {
   let scenario
   let spms
 
-  arcarumMap = await getArcarumData()
+  bossNameMap = await getBossName()
   if (mode === 'result') {
     if (isObject(data.status)) {
       ability = data.status.ability
@@ -171,6 +171,13 @@ const battle = async function battle(data, mode) {
       const skillData = state.skillMap.get(npcId)
       if (skillData) {
         collectNpcSkill(skillData)
+        if (item.name) {
+          if (skillData.npc && skillData.npc.name) {
+            item.name = skillData.npc.name
+          } else if (bossNameMap.has(item.name)) {
+            item.name = bossNameMap.get(item.name)
+          }
+        }
         if (item['special_skill']) {
           const name = item['special_skill']
           const [plus1, plus2, _name] = getPlusStr(name)
