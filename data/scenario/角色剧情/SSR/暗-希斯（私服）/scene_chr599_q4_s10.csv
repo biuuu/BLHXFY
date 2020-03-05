@@ -47,18 +47,18 @@ id,name,text,trans
 46,シス/希斯,……ひとつだけ、<br>姬塔には<br>知っておいて欲しい事がある。,……我有一件，</span>想让姬塔你知道的事。
 47,,<span class='scene-font-katari'>緊張した声色でそう告げた後、</span><br><span class='scene-font-katari'>一度深呼吸したシスは</span><br><span class='scene-font-katari'>ゆっくりと語り始めた。</span>,<span class='scene-font-katari'>略带紧张地说完这句话后，</span><br><span class='scene-font-katari'>希斯又深呼吸了一次，</span><br><span class='scene-font-katari'>缓缓地讲述了起来。</span>
 48,シス/希斯,……きっと、これは俺の<br>業なのだろう。<br>決して逃れられはしない宿命。,……这肯定是我的业障吧。<br>是我无法逃离的宿命。
-49,シス/希斯,俺は、ネハンにも、<br>カルムの者達にも償う術を<br>持ってはいない。,我没有办法去偿还涅槃和卡尔姆的人们。
+49,シス/希斯,俺は、ネハンにも、<br>カルムの者達にも償う術を<br>持ってはいない。,我不知道如何去偿还涅槃和卡尔姆的人们。
 50,シス/希斯,だが、前に進み続けなければならない。<br>十天衆の皆に、そして、共にいてくれる<br>姬塔に恥じないように。,但是，我必须前行。<br>为了不让十天众的大家，<br>以及和我在一起的姬塔蒙羞。
 51,シス/希斯,過去に囚われることなく、<br>だが、過去を忘れることなく。<br>俺が為すべきことを為すために。,不被过去所拘禁，<br>但是也铭记过去。<br>为了去做我该做的事。
 52,シス/希斯,そのためにも、<br>姬塔には<br>知っていて欲しいんだ。,为此，我想让姬塔你知道。
 53,シス/希斯,最後まで、共に歩み続ける<br>姬塔だけには……十天衆の<br>シスではない、俺の本当の名を。,只告诉直到最后都一起前行的姬塔你<br>……我的真名并非十天众的希斯。
-55,,<span class='scene-font-katari'>それからしばしの逡巡の後、</span><br><span class='scene-font-katari'>意を決し己の顔を隠す仮面へ</span><br><span class='scene-font-katari'>手を伸ばすシスに驚く姬塔。</span>,<span class='scene-font-katari'>姬塔吃惊地看到，</span><br><span class='scene-font-katari'>在短暂的犹豫后，</span><br><span class='scene-font-katari'>希斯对他那隐藏决意面容的面具伸出了手。</span>
+55,,<span class='scene-font-katari'>それからしばしの逡巡の後、</span><br><span class='scene-font-katari'>意を決し己の顔を隠す仮面へ</span><br><span class='scene-font-katari'>手を伸ばすシスに驚く姬塔。</span>,<span class='scene-font-katari'>姬塔吃惊地看到，</span><br><span class='scene-font-katari'>在短暂的犹豫后，</span><br><span class='scene-font-katari'>希斯对他那遮住了决意表情的面具伸出了手。</span>
 56,,<span class='scene-font-katari'>震える手で、ゆっくりと自ら</span><br><span class='scene-font-katari'>仮面を外したシスは、姬塔を</span><br><span class='scene-font-katari'>真っ直ぐに見つめた。</span>,<span class='scene-font-katari'>希斯用颤抖的手缓缓摘下面具，</span><br><span class='scene-font-katari'>正视着姬塔。</span>
 57,シス/希斯,…………,…………
 58,シス/希斯,<span class='scene-font-2'>シ…………</span>,<span class='scene-font-2'>si…………</span>
 59,シス/希斯,……シンク。,……sinku(星)。
 60,シス/希斯,これが俺の、本当の名だ。,这是我，真正的名字。
-61,シス/希斯,俺にとっては、咎の証。<br>だが、あの男が意味を教えてくれて、<br>そして、ネハンが思い出させたもの。,对我来说这是罪过的证明。<br>但那个男人告诉我名字的意思，<br>而涅槃也让我想起了它。
+61,シス/希斯,俺にとっては、咎の証。<br>だが、あの男が意味を教えてくれて、<br>そして、ネハンが思い出させたもの。,对我来说这是罪过的证明。<br>但那个男人告诉了我名字的意思，<br>而涅槃也让我想起了它。
 61-sel1_txt,,<span class='scene-font-katari'>どんな意味なの？</span>,<span class='scene-font-katari'>那是什么意思呢？</span>
 62,シス/希斯,……あの男は、<br>光、だと。,……那个男人，说是，光。
 63,シス/希斯,お前の名は、空に在る<br>あの美しい光を示すと、<br>言っていた。,他说我的名字，<br>是表示常挂于空中的，<br>美丽的光辉。
@@ -79,7 +79,7 @@ id,name,text,trans
 84,シス/希斯,…………うん。,…………嗯。
 85,,<span class='scene-font-katari'>掬いあげてくれた手に縋り、</span><br><span class='scene-font-katari'>なお届かない光に焦がれ</span><br><span class='scene-font-katari'>漆黒の世界に閉じこもったあの頃。</span>,<span class='scene-font-katari'>那时他依赖着拯救自己的那双手，</span><br><span class='scene-font-katari'>因为焦虑于碰触不到的光，</span><br><span class='scene-font-katari'>把自己关进了漆黑的世界里。
 86,,<span class='scene-font-katari'>今、自ら光に手を伸ばし、</span><br><span class='scene-font-katari'>消せない過去も、背負うべき未来も、</span><br><span class='scene-font-katari'>全てを受け入れ足を踏み出す。</span>,<span class='scene-font-katari'>现在，他自己对光伸出了手，</span><br><span class='scene-font-katari'>将抹消不了的过去和应背负的未来，</span><br><span class='scene-font-katari'>全部接受踏出了一步。</span>
-91,,<span class='scene-font-katari'>この手で奪ってしまった、</span><br><span class='scene-font-katari'>多くの命と明日に償うために。</span>,<span class='scene-font-katari'>为了偿还这双手，</span><br><span class='scene-font-katari'>夺去的许多生命和其未来。</span>
+91,,<span class='scene-font-katari'>この手で奪ってしまった、</span><br><span class='scene-font-katari'>多くの命と明日に償うために。</span>,<span class='scene-font-katari'>为了偿还这双手，</span><br><span class='scene-font-katari'>夺去的诸多生命和其未来。</span>
 101,,<span class='scene-font-katari'>罪深き咎人である自分を受け入れ、</span><br><span class='scene-font-katari'>共に歩むことを赦してくれた</span><br><span class='scene-font-katari'>仲間達のために。</span>,<span class='scene-font-katari'>也为了接纳了罪孽深重的自己，</span><br><span class='scene-font-katari'>允许自己一起前进的伙伴们。</span>
 102,,<span class='scene-font-katari'>歩むのは、</span><br><span class='scene-font-katari'>決して楽ではない贖罪の道。</span>,<span class='scene-font-katari'>他将要走的，</span><br><span class='scene-font-katari'>绝不是一条轻松的赎罪之道。</span>
 103,,<span class='scene-font-katari'>それでも、前を向いて歩き続けると、</span><br><span class='scene-font-katari'>シスは改めて誓うのだった。</span>,<span class='scene-font-katari'>即使如此，他也要继续前进。</span><br><span class='scene-font-katari'>希斯再度起誓道。</span>
