@@ -112,6 +112,7 @@ const saveSkillPath = async (skillData) => {
 }
 
 const getSkillPath = async () => {
+  if (state.skillData) return
   const str = await getLocalData('skill-path')
   try {
     const data = JSON.parse(str)
