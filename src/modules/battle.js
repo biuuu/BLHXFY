@@ -171,12 +171,8 @@ const battle = async function battle(data, mode) {
       const skillData = state.skillMap.get(npcId)
       if (skillData) {
         collectNpcSkill(skillData)
-        if (item.name) {
-          if (skillData.npc && skillData.npc.name) {
-            item.name = skillData.npc.name
-          } else if (bossNameMap.has(item.name)) {
-            item.name = bossNameMap.get(item.name)
-          }
+        if (item.name && skillData.npc && skillData.npc.name) {
+          item.name = skillData.npc.name
         }
         if (item['special_skill']) {
           const name = item['special_skill']
@@ -221,6 +217,9 @@ const battle = async function battle(data, mode) {
           const detail = await transSkill(item['special_comment'], state)
           item['special_comment'] = detail
           skillTemp.set(name, { name: getPlusStr(name)[2], detail })
+        }
+        if (item.name && bossNameMap.has(item.name)) {
+          item.name = bossNameMap.get(item.name)
         }
       }
     }
