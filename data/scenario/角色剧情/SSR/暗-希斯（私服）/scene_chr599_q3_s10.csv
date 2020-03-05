@@ -3,7 +3,7 @@ id,name,text,trans
 0-synopsis,,カルムの郷の奥地へやって来た姬塔達。そこでシスは、以前この場所で見つけた騎空士の男──姬塔の父親が残した日記を渡そうとする。しかし、それはシスのために残された日記だと受け取ることを拒んだ姬塔は、代わりにシスが知る自分の父親の話を聞かせて欲しいと頼むのだった。,姬塔他们来到了卡尔姆之乡的深处。在那里，希斯找出了当年在这遇见的骑空士——也就是姬塔父亲留下的日记，要交给姬塔。但是姬塔以这本日记是留给希斯为由拒绝了，作为代替希望希斯告诉自己父亲的事。
 1,,<span class='scene-font-katari'>広場で存分に遊び、満足した</span><br><span class='scene-font-katari'>姬塔達は、カルムの郷の</span><br><span class='scene-font-katari'>奥地へと向かう。</span>,<span class='scene-font-katari'>在广场尽情玩耍后，</span><br><span class='scene-font-katari'>心满意足的姬塔他们，</span><br><span class='scene-font-katari'>向着卡尔姆之乡深处前进。</span>
 2,,<span class='scene-font-katari'>そこは、数々のトラップが仕掛けられた</span><br><span class='scene-font-katari'>洞窟の先にある、シスにとって</span><br><span class='scene-font-katari'>思い出の場所であった。</span>,<span class='scene-font-katari'>在那设置了无数陷阱的洞窟之后，</span><br><span class='scene-font-katari'>是希斯充满回忆的地方。</span>
-3,シス/希斯,確か……ここだったな。<br>あれを見つけたのは。,确实……是在这。<br>找到那个的。
+3,シス/希斯,確か……ここだったな。<br>あれを見つけたのは。,确实……是在这里，<br>找到那个的。
 4,,<span class='scene-font-katari'>一本の樹の前に立ったシスは、</span><br><span class='scene-font-katari'>懐から古い日記を取り出した。</span>,<span class='scene-font-katari'>希斯站在一棵树前，</span><br><span class='scene-font-katari'>从怀里取出一本日记。</span>
 5,,<span class='scene-font-katari'>それは、この場所に隠されていた</span><br><span class='scene-font-katari'>ある騎空士──姬塔の父親が</span><br><span class='scene-font-katari'>シスに残した日記だった。</span>,<span class='scene-font-katari'>这是曾被藏在这里，</span><br><span class='scene-font-katari'>某位骑空士——姬塔的父亲，</span><br><span class='scene-font-katari'>留给希斯的日记。</span>
 8,ルリア/露莉亚,それ……騎空士さんが、<br>シスさんに残した日記ですよね。,那是……那位骑空士留给希斯的日记吧。
@@ -16,30 +16,33 @@ id,name,text,trans
 15,,<span class='scene-font-katari'>そう言って、姬塔に</span><br><span class='scene-font-katari'>日記を差し出すシス。</span>,<span class='scene-font-katari'>这么说着，</span><br><span class='scene-font-katari'>希斯把日记递给姬塔。</span>
 16,,<span class='scene-font-katari'>差し出された日記をじっと見つめた</span><br><span class='scene-font-katari'>姬塔は、首を振って</span><br><span class='scene-font-katari'>シスへと押し返した。</span>,<span class='scene-font-katari'>盯着日记看了一会的姬塔，</span><br><span class='scene-font-katari'>摇摇头把日记推回给希斯。</span>
 17,シス/希斯,何故だ？　本来ならば、<br>これはあの男の子供である<br>お前が持つべきだろう。,为什么？<br>你是那个男人的孩子，<br>应该由你拿着的。
-18,ビィ/碧,いーや。<br>オイラも、それは兄ちゃんが<br>持ってるべきだと思うぜ。,哎呀——<br>我们也觉得应该小哥你拿着。
+18,ビィ/碧,いーや。<br>オイラも、それは兄ちゃんが<br>持ってるべきだと思うぜ。,不。<br>我们也觉得应该由小哥你拿着。
+19,ルリア/露莉亚,そうですね。その日記は騎空士さん……<br>姬塔のお父さんが、<br>シスさんのために残したものですから。,是啊。这本日记是那位骑空士……<br>姬塔的父亲为了希斯你，<br>而留下的东西。
 20,ルリア/露莉亚,そうですね。その日記は騎空士さん……<br>姬塔のお父さんが、<br>シスさんのために残したものですから。,是啊。这本日记是那位骑空士……<br>姬塔的父亲为了希斯你，<br>而留下的东西。
 21,,<span class='scene-font-katari'>その日記は、いずれシスが</span><br><span class='scene-font-katari'>成長した時に真実を伝えるべく</span><br><span class='scene-font-katari'>記されたものだろう。</span>,<span class='scene-font-katari'>那本日记是为了当希斯长大成人之时，</span><br><span class='scene-font-katari'>告诉希斯真相而写下的吧。</span>
 22,,<span class='scene-font-katari'>日記の裏に書かれていた</span><br><span class='scene-font-katari'>シス宛のメッセージがその証拠だと、</span><br><span class='scene-font-katari'>姬塔も深く頷く。</span>,<span class='scene-font-katari'>日记的背面写下的，</span><br><span class='scene-font-katari'>留给希斯的讯息就是证据。</span><br><span class='scene-font-katari'>姬塔也点头同意这个观点。</span>
 23,シス/希斯,だが……,但是……
 24,,<span class='scene-font-katari'>納得いかない様子のシスに、</span><br><span class='scene-font-katari'>姬塔は苦笑しながら</span><br><span class='scene-font-katari'>ひとつ提案をする。</span>,<span class='scene-font-katari'>对着不肯接受的希斯，</span><br><span class='scene-font-katari'>姬塔苦笑着，</span><br><span class='scene-font-katari'>提出了一个主意。</span>
+25,シス/希斯,代わりに、あの男の話を<br>聞かせて欲しい……と？,你说作为代替，<br>想让我讲给你听，<br>关于那个男人的事……？
+25-sel1_txt,,<span class='scene-font-katari'>約束したでしょ？</span>,<span class='scene-font-katari'>我们约好了对吧？</span>
 30,シス/希斯,代わりに、あの男の話を<br>聞かせて欲しい……と？,你说作为代替，<br>想让我讲给你听，<br>关于那个男人的事……？
 30-sel1_txt,,<span class='scene-font-katari'>約束したでしょ？</span>,<span class='scene-font-katari'>我们约好了对吧？</span>
 35,シス/希斯,ああ、あの時か……,啊，是那时的事啊……
 38,,<span class='scene-font-katari'>父親の話を聞かせてほしいという</span><br><span class='scene-font-katari'>姬塔との約束を思い出した</span><br><span class='scene-font-katari'>シスは、少し考えた後頷いた。</span>,<span class='scene-font-katari'>回想起曾经和姬塔约定，</span><br><span class='scene-font-katari'>要告诉他父亲的事，</span><br><span class='scene-font-katari'>希斯想了想点头答应了。</span>
 39,シス/希斯,分かった、お前が望むなら。,我知道了，如果你想听的话。
-40,,<span class='scene-font-katari'>その場に腰を下ろした姬塔に</span><br><span class='scene-font-katari'>並ぶように座りこんだシスは、</span><br><span class='scene-font-katari'>記憶を探るように目を伏せる。</span>,姬塔于是当场坐下，</span><br><span class='scene-font-katari'>希斯也坐在姬塔旁边，</span><br><span class='scene-font-katari'>一副回忆着的模样视线向下。</span>
-41,シス/希斯,あの男は、そうだな……<br>まるで蒼空のような男だった。,那个男人是，是……<br>就像苍空一般的男人。
+40,,<span class='scene-font-katari'>その場に腰を下ろした姬塔に</span><br><span class='scene-font-katari'>並ぶように座りこんだシスは、</span><br><span class='scene-font-katari'>記憶を探るように目を伏せる。</span>,<span class='scene-font-katari'>姬塔于是当场坐下，</span><br><span class='scene-font-katari'>希斯也坐在姬塔旁边，</span><br><span class='scene-font-katari'>一副回忆着的模样垂下视线。</span>
+41,シス/希斯,あの男は、そうだな……<br>まるで蒼空のような男だった。,那个男人啊，是……<br>像苍空一般的男人。
 42,シス/希斯,穢れなく澄んだ、光そのもの。<br>空が何者にも侵すことが出来ぬように、<br>あの男も、そういうものだった。,是无垢澄明的光芒。<br>那个男人和天空一样，<br>不会被任何事物侵扰。
-43,,<span class='scene-font-katari'>その言葉を皮切りに、</span><br><span class='scene-font-katari'>ぽつりぽつりとこの郷で共に過ごした</span><br><span class='scene-font-katari'>日々の思い出を語り始める。</span>,<span class='scene-font-katari'>以那几句话为开端，</span><br><span class='scene-font-katari'>希斯渐渐回想讲述起，</span><br><span class='scene-font-katari'>与他一起在乡里度过的时光。</span>
-52,,<span class='scene-font-katari'>幼いシスがひとりでいたところ、</span><br><span class='scene-font-katari'>襲ってきた巨大な魔物を</span><br><span class='scene-font-katari'>一睨しただけで追い払ったこと。</span>,<span class='scene-font-katari'>在年幼的希斯落单之时，</span><br><span class='scene-font-katari'>被巨大的魔物袭击，</span><br><span class='scene-font-katari'>那个男人一眼就瞪跑了魔物。</span>
-60,,<span class='scene-font-katari'>全く隙が無いように見えて、</span><br><span class='scene-font-katari'>シスが悪戯で仕掛けた罠に</span><br><span class='scene-font-katari'>易々とひっかかったこと。</span>,<span class='scene-font-katari'>明明看着毫无破绽，</span><br><span class='scene-font-katari'>却轻易落入希斯的恶作剧陷阱。</span>
-66,,<span class='scene-font-katari'>魘され、寝付けずにいた夜に、</span><br><span class='scene-font-katari'>外の島の話を聞かせてくれたこと。</span>,<span class='scene-font-katari'>在希斯被噩梦困扰，</span><br><span class='scene-font-katari'>睡不着的夜里，</span><br><span class='scene-font-katari'>告诉他岛外的事。</span>
+43,,<span class='scene-font-katari'>その言葉を皮切りに、</span><br><span class='scene-font-katari'>ぽつりぽつりとこの郷で共に過ごした</span><br><span class='scene-font-katari'>日々の思い出を語り始める。</span>,<span class='scene-font-katari'>以那几句话为开端，</span><br><span class='scene-font-katari'>希斯渐渐回想讲述起，</span><br><span class='scene-font-katari'>与那个人一起在乡里度过的时光。</span>
+52,,<span class='scene-font-katari'>幼いシスがひとりでいたところ、</span><br><span class='scene-font-katari'>襲ってきた巨大な魔物を</span><br><span class='scene-font-katari'>一睨しただけで追い払ったこと。</span>,<span class='scene-font-katari'>在年幼的希斯落单，</span><br><span class='scene-font-katari'>被巨大的魔物袭击之时，</span><br><span class='scene-font-katari'>那个人一眼就瞪跑了魔物。</span>
+60,,<span class='scene-font-katari'>全く隙が無いように見えて、</span><br><span class='scene-font-katari'>シスが悪戯で仕掛けた罠に</span><br><span class='scene-font-katari'>易々とひっかかったこと。</span>,<span class='scene-font-katari'>那个人明明看着毫无破绽，</span><br><span class='scene-font-katari'>却会轻易落入希斯的恶作剧陷阱。</span>
+66,,<span class='scene-font-katari'>魘され、寝付けずにいた夜に、</span><br><span class='scene-font-katari'>外の島の話を聞かせてくれたこと。</span>,<span class='scene-font-katari'>在希斯被噩梦困扰，</span><br><span class='scene-font-katari'>睡不着的夜里，</span><br><span class='scene-font-katari'>那个人会告诉他岛外的事。</span>
 72,シス/希斯,それから……よく、頭を撫でられた。<br>何度払ってもやめようとせず、<br>痛いくらい撫でまわされたものだ。,还有……经常，摸我的头。<br>不管拍掉他多少次，让他别摸了，<br>还是会一个劲摸个不停。
 73,ビィ/碧,へぇ……<br>そういや、うんと小さかった<br>姬塔もよくやられてたなぁ。,嘿……<br>说起来，也经常对小时候的姬塔这么做呢。
 74,ビィ/碧,あんまり遠慮なく撫でるもんだから、<br>頭が取れちまうんじゃねぇかって<br>オイラしょっちゅう心配してたんだぜ。,因为总是毫不顾忌的摸摸头，<br>我还担心过姬塔的脑袋，<br>会不会被他摸掉呢。
-75,,<span class='scene-font-katari'>その話を聞いた</span><br><span class='scene-font-katari'>姬塔の脳裏に、</span><br><span class='scene-font-katari'>遠い記憶の片隅にあった光景が蘇る。</span>,<span class='scene-font-katari'>听了他们的对话，</span><br><span class='scene-font-katari'>姬塔的脑海里，</span><br><span class='scene-font-katari'>回想起藏于角落的零碎记忆。</span>
-78,,<span class='scene-font-katari'>頭を撫でる大きな手のひらと、</span><br><span class='scene-font-katari'>どこか遠い島の物語を語り紡ぐ</span><br><span class='scene-font-katari'>優しい声。</span>,<span class='scene-font-katari'>摸着自己头的大大的手掌，和讲述遥远岛屿故事的温柔的声音。</span>
-81,,<span class='scene-font-katari'>その記憶に胸が締め付けられるような、</span><br><span class='scene-font-katari'>言葉にならない感情を覚えて</span><br><span class='scene-font-katari'>姬塔は無意識に拳を握った。</span>,<span class='scene-font-katari'>那份记忆勾动了心中难以言喻的情感，</span><br><span class='scene-font-katari'>姬塔下意识的握紧了拳。</span>
+75,,<span class='scene-font-katari'>その話を聞いた</span><br><span class='scene-font-katari'>姬塔の脳裏に、</span><br><span class='scene-font-katari'>遠い記憶の片隅にあった光景が蘇る。</span>,<span class='scene-font-katari'>听了他们的对话，</span><br><span class='scene-font-katari'>姬塔的脑海里，</span><br><span class='scene-font-katari'>藏于角落的零碎记忆苏醒了。</span>
+78,,<span class='scene-font-katari'>頭を撫でる大きな手のひらと、</span><br><span class='scene-font-katari'>どこか遠い島の物語を語り紡ぐ</span><br><span class='scene-font-katari'>優しい声。</span>,<span class='scene-font-katari'>摸着自己头的大大的手掌，</span><br><span class='scene-font-katari'>和讲述遥远岛屿故事的温柔的声音。</span>
+81,,<span class='scene-font-katari'>その記憶に胸が締め付けられるような、</span><br><span class='scene-font-katari'>言葉にならない感情を覚えて</span><br><span class='scene-font-katari'>姬塔は無意識に拳を握った。</span>,<span class='scene-font-katari'>那份记忆勾动了心中难以言喻的情感，</span><br><span class='scene-font-katari'>姬塔下意识地握紧了拳。</span>
 82,シス/希斯,……あの男は。,……那个男人。
 83,,<span class='scene-font-katari'>そんな姬塔を横目に見た</span><br><span class='scene-font-katari'>シスは、躊躇いがちにそう呟く。</span>,<span class='scene-font-katari'>希斯在旁看着那样的姬塔，</span><br><span class='scene-font-katari'>犹豫地小声说到。</span>
 86,シス/希斯,あの男は、時々同じ方向の空を<br>見上げることがあった。,那个男人，<br>有时会看着同一个方向的天空。
@@ -52,9 +55,9 @@ id,name,text,trans
 94,,<span class='scene-font-katari'>段々と小さくなっていくシスの声に、</span><br><span class='scene-font-katari'>姬塔はそんなことはないと</span><br><span class='scene-font-katari'>首を振る。</span>,<span class='scene-font-katari'>希斯的声音越变越小，</span><br><span class='scene-font-katari'>姬塔摇头说才没这回事呢。</span>
 94-sel1_txt,,<span class='scene-font-katari'>ありがとう</span>,<span class='scene-font-katari'>谢谢你</span>
 94-sel2_txt,,<span class='scene-font-katari'></span>,<span class='scene-font-katari'></span>
-95,,<span class='scene-font-katari'>父親の話を聞けて良かったと、</span><br><span class='scene-font-katari'>感謝の言葉を告げる姬塔。</span>,<span class='scene-font-katari'>姬塔感谢希斯，能告诉自己父亲的事。</span>
+95,,<span class='scene-font-katari'>父親の話を聞けて良かったと、</span><br><span class='scene-font-katari'>感謝の言葉を告げる姬塔。</span>,<span class='scene-font-katari'>姬塔感谢希斯，</span><br><span class='scene-font-katari'>能告诉自己父亲的事。</span>
 96,シス/希斯,……そうか。<br>ならば良かった。,……是嘛。<br>那就好。
 97,,<span class='scene-font-katari'>これまで断片的にしか得られなかった</span><br><span class='scene-font-katari'>父親について知ったことで、微かに残る</span><br><span class='scene-font-katari'>記憶を思い出した姬塔。</span>,<span class='scene-font-katari'>迄今为止，姬塔只零碎地知道父亲的事，通过这次的了解，回想起了点残存的记忆。</span>
-98,,<span class='scene-font-katari'>気配の残るこの場所に連れてきてくれた</span><br><span class='scene-font-katari'>シスに感謝し、姬塔は</span><br><span class='scene-font-katari'>もう一度礼を告げるのだった。</span>,<span class='scene-font-katari'>感激希斯带自己来还留有那人气息的这里，姬塔再次向他道谢。</span>
+98,,<span class='scene-font-katari'>気配の残るこの場所に連れてきてくれた</span><br><span class='scene-font-katari'>シスに感謝し、姬塔は</span><br><span class='scene-font-katari'>もう一度礼を告げるのだった。</span>,<span class='scene-font-katari'>感激希斯带自己来还留有那人气息的此处，</span><br><span class='scene-font-katari'>姬塔再次向他道谢。</span>
 info,,,scene_chr599_q3_s10
 译者,,,
