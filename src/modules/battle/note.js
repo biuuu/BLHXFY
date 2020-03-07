@@ -34,7 +34,7 @@ const transNote = (item, key) => {
   }
   if (questMap.has(rid) && battleQuestNoteMap && battleQuestNoteMap.has(text)) {
     let trans = battleQuestNoteMap.get(text)
-    trans = trans.replace('姬塔', CONFIG.userName)
+    trans = trans.replace('姬塔', CONFIG.displayName || CONFIG.userName)
     item[key] = trans
   }
   if (CONFIG.log && !textList.includes(text)) {
