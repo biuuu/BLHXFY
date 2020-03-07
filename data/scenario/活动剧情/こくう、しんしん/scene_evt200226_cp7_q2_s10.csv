@@ -4,10 +4,10 @@ id,name,text,trans
 1,レイ/零,目覚めてから原因を尋ねる、<br>ということだけれど……<br>難しいのじゃないかしら？,虽然你们打算等他醒来后<br>再询问原因……<br>但这是否有点困难呢？
 2,フュンフ/芬芙,えっ？　なんで？,诶？　为什么？
 3,カトル/卡托尔,思わせぶりに言いますね……<br>ムゲンが暴れた理由を知ってるとでも？,故弄玄虚……<br>莫非你知道无限暴走的原因？
-4,レイ/零,そうね……知っている、というわけでは<br>ないけれど。この子が苦しみ<br>怯えているのは眼を見ればわかるわ。,嗯……不完全是。<br>但是这孩子的痛苦与恐惧<br>我肉眼可见。
+4,レイ/零,そうね……知っている、というわけでは<br>ないけれど。この子が苦しみ<br>怯えているのは眼を見ればわかるわ。,嗯……也不是说知道。<br>但是看这孩子的眼睛我就知道，<br>他在痛苦恐惧。
 5,レイ/零,その苦しみがある限り、<br>またすぐ暴れてしまうでしょうね。,只要这份痛苦还纠缠于他，<br>想必他很快又会再次暴走吧。
 6,シス/希斯,暴走の原因……か。,暴走的原因……吗。
-7,オクトー/奥克托,怯え、か。<br>奴が恐るるは<br>己が身こそと見えるが……,恐惧……吗。<br>在我看来，<br>他所害怕的正是他自己本身啊……
+7,オクトー/奥克托,怯え、か。<br>奴が恐るるは<br>己が身こそと見えるが……,恐惧……吗。<br>在我看来，<br>他所害怕的正是他自己本身……
 8,レイ/零,気になる？,好奇吗？
 9,エッセル/艾瑟尔,それは……もちろん。<br>ムゲンは、暴れてしまうことを<br>嫌がっていたし……,那是……当然。<br>毕竟无限他也很抗拒<br>暴走这件事情……
 10,ソーン/索恩,もしムゲンが、<br>本当は誰かに打ち明けたいと思っていて<br>聞く事で助けになるなら、そうしたい。,如果无限真的想对他人吐露心声，<br>而我们的倾听又可以帮助他的话，<br>我很想这样做。
@@ -61,12 +61,12 @@ id,name,text,trans
 88,ムゲン/无限,う、ううううう……！！,呜，呜呜呜呜呜……！！
 89,ソーン/索恩,え……子供……？,咦……小孩子……？
 90,ニオ/妮欧,でも、この声……<br>それに心に流れる旋律は……,但是，这个声音……<br>还有他心中流动的旋律……
-91,,<span class='scene-font-katari'>音と声を頼りに見つけ出したその姿は、</span><br><span class='scene-font-katari'>耳に馴染んだ声と裏腹に幼く</span><br><span class='scene-font-katari'>姬塔達は目を瞠る。</span>,<span class='scene-font-katari'>一行人顺着熟悉的声音寻来，</span><br><span class='scene-font-katari'>可他们眼前出现的身影却与其声音完全相反，格外地年轻</span><br><span class='scene-font-katari'>这让姬塔一行人目瞪口呆。</span>
-92,ムゲン/无限,<span class='scene-font-4'>くる、ない！！</span>,<span class='scene-font-4'>不，来！！</span>
+91,,<span class='scene-font-katari'>音と声を頼りに見つけ出したその姿は、</span><br><span class='scene-font-katari'>耳に馴染んだ声と裏腹に幼く</span><br><span class='scene-font-katari'>姬塔達は目を瞠る。</span>,<span class='scene-font-katari'>一行人顺着熟悉的声音寻来，</span><br><span class='scene-font-katari'>可他们眼前出现的身影却与其</span>,<span class='scene-font-katari'>声音完全相反，格外地年轻</span><br><span class='scene-font-katari'>这让姬塔一行人目瞪口呆。</span>
+92,ムゲン/无限,<span class='scene-font-4'>くる、ない！！</span>,<span class='scene-font-4'>不要，来！！</span>
 99,ルリア/露莉亚,きゃあっ！？,呀啊！？
 102,,<span class='scene-font-katari'>少年から放たれた力に</span><br><span class='scene-font-katari'>吹き飛ばされそうになるルリアを</span><br><span class='scene-font-katari'>姬塔が支え助ける。</span>,<span class='scene-font-katari'>就在露莉亚差点要被</span><br><span class='scene-font-katari'>少年所放出的力量吹飞的时候，</span><br><span class='scene-font-katari'>姬塔扶住了她。</span>
 103,ルリア/露莉亚,ありがとうございます、<br>姬塔！<br>この力って……,谢谢，<br>姬塔！<br>这个力量是……
-104,エッセル/艾瑟尔,あ……そっか……！<br>心の中だもの。<br>体の年齢は関係ないんだ、たぶん。,啊……是这样……！<br>毕竟这是心里。<br>所以外貌和身体的年龄没有关系，大概。
+104,エッセル/艾瑟尔,あ……そっか……！<br>心の中だもの。<br>体の年齢は関係ないんだ、たぶん。,啊……是这样……！<br>毕竟这是心里。<br>所以外貌和身体的年龄没有关系，大概。
 105,シス/希斯,ならばあの子供は<br>やはりムゲンということか……<br>確かに面影はあるな。,这样的话，<br>那个孩子果然是无限吗……<br>的确能看出来有点相似。
 106,フュンフ/芬芙,お～いムゲン～！<br>むかえに来たよ～！<br>星屑の街に帰ろうよぉ！,喂～无限～！<br>我们来接你了～！<br>一起回星屑之街吧！
 107,ムゲン/无限,やだ！<br>ムゲン、いく、ない！<br>ここ、いる……ずっと！,不要！<br>无限，不，去！<br>在，这里……一直！
@@ -80,16 +80,16 @@ id,name,text,trans
 115,ソーン/索恩,…………,…………
 116,ムゲン/无限,みんな、みんな、ムゲンきらい！！<br>きらい、いたい……！,大家，大家，讨厌无限！！<br>讨厌，疼……！
 117,ソーン/索恩,…………！,…………！
-118,ムゲン/无限,<span class='scene-font-4'>もう、いる、ない！！</span>,<span class='scene-font-4'>已经，不，在！！</span>
+118,ムゲン/无限,<span class='scene-font-4'>もう、いる、ない！！</span>,<span class='scene-font-4'>已经，不，需要！！</span>
 119,シス/希斯,<span class='scene-font-4'>下がれ！！</span>,<span class='scene-font-4'>退下！！</span>
 128,ニオ/妮欧,ソーン！？,索恩！？
 129,ソーン/索恩,ムゲン。,无限。
-130,ムゲン/无限,ちかよる、ない！<br>きらい……きらい！！,不，靠近！<br>讨厌……讨厌！！
+130,ムゲン/无限,ちかよる、ない！<br>きらい……きらい！！,不要，靠近！<br>讨厌……讨厌！！
 131,ソーン/索恩,うん。嫌われるのなんて、嫌いよね。,嗯。我知道，你不想被大家讨厌吧。
 132,ムゲン/无限,うっ……うぅっ……,呜……呜呜……
 133,ソーン/索恩,怖がられるのは、寂しいね。,被大家害怕，很寂寞吧。
 134,ムゲン/无限,……っ……,……呜……
-135,ソーン/索恩,ただそう生まれただけなのに……<br>でも、だからこそ逃げられなくて。<br>どこにも居たくなくなって。,明明我们生来便是这样……<br>但是，正因如此，我们才无法逃避。<br>我们才会觉得无处可去。
+135,ソーン/索恩,ただそう生まれただけなのに……<br>でも、だからこそ逃げられなくて。<br>どこにも居たくなくなって。,明明只是生来便是这样……<br>但是，正因如此，才无法逃避。<br>才会觉得无处可去。
 136,ソーン/索恩,……嫌になっちゃうね。,……这种感觉，很让人讨厌吧。
 137,シス/希斯,…………,…………
 138,ムゲン/无限,う……,呜……
@@ -108,10 +108,10 @@ id,name,text,trans
 156,ソーン/索恩,じゃあ、帰って<br>みんなでご飯にしましょう。<br>ね？,那回去之后，<br>大家一起吃饭吧。<br>怎么样？
 157,,<span class='scene-font-katari'>暴れまわることで傷ついた手を握り、</span><br><span class='scene-font-katari'>ソーンはムゲンに歩き出すよう促す。</span>,<span class='scene-font-katari'>索恩握住无限因暴走而受伤的手，</span><br><span class='scene-font-katari'>鼓励着他离开这里。</span>
 158,ムゲン/无限,うん……かえる。,嗯……回去。
-159,エッセル/艾瑟尔,ん……そうしよう。<br>弟妹達もきっと<br>お腹を空かせて待ってるよ。,嗯……回来吧。<br>弟弟妹妹们一定正饿着肚子<br>等着我们呢。
+159,エッセル/艾瑟尔,ん……そうしよう。<br>弟妹達もきっと<br>お腹を空かせて待ってるよ。,嗯……回去吧。<br>弟弟妹妹们一定正饿着肚子<br>等着我们呢。
 160,ルリア/露莉亚,私、ご飯作るのお手伝いしますね！<br>みんなで一緒にご飯にしましょう！,我会帮忙做饭的！<br>大家一起来做饭吧！
 161,フュンフ/芬芙,そうと決まったら早く帰ろ！<br>ほらほらこっちこっち！,既然这么决定了就快点回去吧！<br>来来来，这边这边！
-162,,<span class='scene-font-katari'>姬塔達に背を押され、</span><br><span class='scene-font-katari'>ムゲンは廃墟となった村──</span><br><span class='scene-font-katari'>彼の心象風景から足を踏み出した。</span>,<span class='scene-font-katari'>在姬塔她们助力下，</span><br><span class='scene-font-katari'>无限从变成废墟的村庄──</span><br><span class='scene-font-katari'>他的印象风光中踏出来了。</span>
+162,,<span class='scene-font-katari'>姬塔達に背を押され、</span><br><span class='scene-font-katari'>ムゲンは廃墟となった村──</span><br><span class='scene-font-katari'>彼の心象風景から足を踏み出した。</span>,<span class='scene-font-katari'>在姬塔她们助力下，</span><br><span class='scene-font-katari'>无限走出了变成废墟的村庄──</span><br><span class='scene-font-katari'>他的印象风光。</span>
 163,シス/希斯,<span class='scene-font-kokoro'>（拒絶されることへの恐怖……か）</span>,<span class='scene-font-kokoro'>（因害怕被拒绝而产生的恐惧……吗）</span>
 164,シス/希斯,<span class='scene-font-kokoro'>（それは……おそらく……）</span>,<span class='scene-font-kokoro'>（那……恐怕是……）</span>
 info,,,scene_evt200226_cp7_q2_s10
