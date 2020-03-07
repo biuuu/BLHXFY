@@ -3,7 +3,7 @@ id,name,text,trans
 0-synopsis,,夜の星屑の街の片隅で、鼻歌を歌うムゲン。そこへ姬塔とルリア、ニオが現れる。鼻歌を聞いたニオは、「貴方らしい歌ね」と言ったあと、少しだけ寂しい旋律、と付け加える。ネハンがひとりで寂しいとこぼすムゲンに、ニオは「ネハンと一緒にいたいという気持ちを伝えたほうがいい」と優しく声をかける。頷いたムゲンは、ネハンと会いたい、と空を見上げるのだった。,在夜晚的星屑之街一角，无限正哼着歌。就在这时，姬塔、露莉亚和妮欧出现了。妮欧听了他哼的歌，说是「很有他风格的歌」，旋律中带了一点寂寞的感觉。无限说涅槃一个人会很寂寞，妮欧温柔地告诉他，「最好去向涅槃传达想和他在一起的心情」。无限点点头，说着想见到涅槃，抬头望着夜空。
 1,ムゲン/无限,♪～♪♪～<br>♪♪～～♪～,♪～♪♪～<br>♪♪～～♪～
 2,ルリア/露莉亚,♪～♪♪～<br>♪♪～～♪～,♪～♪♪～<br>♪♪～～♪～
-3,ムゲン/无限,ルリア、姬塔、ニオ……？<br>ねむる、ない？,露莉亚，姬塔，妮欧……？<br>你们，不困？
+3,ムゲン/无限,ルリア、姬塔、ニオ……？<br>ねむる、ない？,露莉亚，姬塔，妮欧……？<br>你们，不睡觉？
 4,ルリア/露莉亚,えへへ、なんだか目が冴えちゃって<br>姬塔やニオさんと一緒に<br>お散歩してたんです。,诶嘿嘿，总觉得睡不着，<br>就和姬塔还有妮欧一起出来散步了。
 5,ニオ/妮欧,こんばんは。<br>貴方らしい歌ね、ムゲン。,晚上好。<br>真是有你风格的歌呢，无限。
 6,ムゲン/无限,ムゲン……らしい？,有我……风格？
@@ -23,6 +23,6 @@ id,name,text,trans
 20,ムゲン/无限,うん……,嗯……
 21,ムゲン/无限,ネハン、あう、はなす……<br>はなす、したい……,涅槃，见到，说。<br>想，说……
 22,,<span class='scene-font-katari'>小さな望みは夜風に散り、</span><br><span class='scene-font-katari'>未だ相手へ届くことはない。</span>,<span class='scene-font-katari'>小小的期望被夜风吹散，</span><br><span class='scene-font-katari'>仍未传达给对方。</span>
-28,,<span class='scene-font-katari'>夜空に輝く月は</span><br><span class='scene-font-katari'>無言で子供達の眠る街を</span><br><span class='scene-font-katari'>見下ろしていた。</span>,<span class='scene-font-katari'>夜空中闪耀的月亮</span><br><span class='scene-font-katari'>沉默地俯视着这条</span><br><span class='scene-font-katari'>孩子们入睡的街道。</span>
+28,,<span class='scene-font-katari'>夜空に輝く月は</span><br><span class='scene-font-katari'>無言で子供達の眠る街を</span><br><span class='scene-font-katari'>見下ろしていた。</span>,<span class='scene-font-katari'>夜空中闪耀的月亮，</span><br><span class='scene-font-katari'>沉默地俯视着这条孩子们入睡的街道。</span>
 info,,,scene_evt200226_cp8_q4_s10
 译者,,,
