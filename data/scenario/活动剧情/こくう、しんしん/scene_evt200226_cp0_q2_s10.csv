@@ -23,7 +23,7 @@ id,name,text,trans
 23,ネハン/涅槃,……さようならだ、──,……再会了，——。
 26,,<span class='scene-font-katari'>自分の名を呼び決別を口にした</span><br><span class='scene-font-katari'>ネハンへ頷いて、</span><br><span class='scene-font-katari'>シスは踵を返す。</span>,<span class='scene-font-katari'>涅槃念着希斯的本名与他道别，</span><br><span class='scene-font-katari'>希斯对着他微微颔首，转身离开。</span>
 32,ムゲン/无限,あふぇーる……！<br>ネハン、いる！？,阿费尔……！涅槃，在！？
-33,シス/希斯,ああ。そこへ向かうと言っていた。<br>俺に伝えたということは、お前に<br>知らせてもいいということだろう。,没错。他说会去那里。<br>既然他告诉了我，<br>也就说明他应该不会介意我把这件事告诉你吧。
+33,シス/希斯,ああ。そこへ向かうと言っていた。<br>俺に伝えたということは、お前に<br>知らせてもいいということだろう。,没错。他说会去那里。<br>既然他告诉了我，也就说明<br>他应该不会介意我把这件事告诉你吧。
 34,ムゲン/无限,…………！,…………！
 35,エッセル/艾瑟尔,会いに行っておいでよ、ムゲン。<br>……会いたいなら、<br>そうすべきだと思うよ。,去见他吧，无限。<br>这是你该做的事，如果你想见他的话。
 36,フュンフ/芬芙,そうそう！<br>したいよーにするのが一番って<br>じっちゃも言ってたもん！,是呀是呀！<br>做想做的才是最棒的，<br>爷爷就是这么说的！
@@ -39,10 +39,10 @@ id,name,text,trans
 52,ムゲン/无限,…………！！,……！！
 53,,<span class='scene-font-katari'>街中での発砲音にざわつく人々を</span><br><span class='scene-font-katari'>押しのけるようにして表通りを抜けた</span><br><span class='scene-font-katari'>ムゲンは裏路地を駆け抜ける。</span>,<span class='scene-font-katari'>推开因为突如其来的枪响而骚动的人群，</span><br><span class='scene-font-katari'>无限穿过大道，在小路上飞奔。</span>
 57,ムゲン/无限,……ッ！,……！
-59,,<span class='scene-font-katari'>体を走る悪寒が呼ぶ</span><br><span class='scene-font-katari'>恐ろしい想像を振り払うように</span><br><span class='scene-font-katari'>乱暴に開かれたドアの先に──</span>,<span class='scene-font-katari'>无限的身体窜过一阵寒意，</span><br><span class='scene-font-katari'>像是要击碎脑内可怕的想象一样用粗暴的动作</span><br><span class='scene-font-katari'>打开了门，门内是——</span>
+59,,<span class='scene-font-katari'>体を走る悪寒が呼ぶ</span><br><span class='scene-font-katari'>恐ろしい想像を振り払うように</span><br><span class='scene-font-katari'>乱暴に開かれたドアの先に──</span>,<span class='scene-font-katari'>无限的身体窜过一阵寒意，</span><br><span class='scene-font-katari'>像是要击碎脑内可怕的想象一样</span><br><span class='scene-font-katari'>用粗暴的动作打开了门，门内是——</span>
 60,ムゲン/无限,<span class='scene-font-4'>ネハン！！</span>,<span class='scene-font-4'>涅槃！</span>
 62,ネハン/涅槃,…………,…………
-64,ビィ/碧,ネハン！？　どこに……,涅槃！？你在哪……，
+64,ビィ/碧,ネハン！？　どこに……,涅槃！？在哪……，
 65,ルリア/露莉亚,<span class='scene-font-4'>きゃああああ！？</span><br>た、大変……！<br>血が、血がこんなにたくさん……！！,<span class='scene-font-4'>呀啊啊！</span><br>糟，糟糕……！<br>出了好多，好多血……！！
 66,ムゲン/无限,ネ、ハン……<br>ネハン！　ムゲン、ここ！<br>ここ、いる！　ネハン！？,涅，涅槃……<br>涅槃！无限，这里！<br>在，这里！涅槃！？
 67,,<span class='scene-font-katari'>焦り、力の加減を間違えそうになる</span><br><span class='scene-font-katari'>ムゲンの肩を叩き落ち着かせた</span><br><span class='scene-font-katari'>姬塔はネハンの止血を急ぐ。</span>,<span class='scene-font-katari'>姬塔拍了拍已经急得</span><br><span class='scene-font-katari'>快要控制不住力道的无限的肩膀，</span><br><span class='scene-font-katari'>让他冷静下来，然后迅速为涅槃止血。</span>
@@ -79,12 +79,14 @@ id,name,text,trans
 110,リーシャ/莉夏,それもありますが……<br>貴方は、姬塔さんの<br>友人ですから。,这也是原因之一……<br>还有，因为你是姬塔的朋友啊。
 111,シス/希斯,姬塔……,姬塔……
 112,リーシャ/莉夏,私は姬塔さんの<br>正しさを信じます。<br>だから、貴方のことも信じたい。,我相信姬塔的正义。<br>所以，我也想相信你。
-113,リーシャ/莉夏,貴方のその力が<br>空の平穏を守るものであることを<br>願っています。……それでは。,希望你能用你的力量守护这片天空的平静。<br>……告辞。
+113,リーシャ/莉夏,貴方のその力が<br>空の平穏を守るものであることを<br>願っています。……それでは。,希望你能用你的力量<br>守护这片天空的平静。<br>……告辞。
 115,シス/希斯,…………,…………
 116,シス/希斯,友人、か……,朋友，吗……
 123,シス/希斯,姬塔、ここにいたのか。,姬塔，你在这里啊。
 124,シス/希斯,今回は……巻き込んですまなかった。<br>いや、それだけではないな……,抱歉，这次把你也卷进来。<br>不，不仅如此……
-125,シス/希斯,お前にも詫びるべきことが山ほどある。<br>お前が共に過ごすべき<br>父親の時間を、俺が……,要道歉的事情太多了。<br>你本来应该能和父亲一起相处的时间，被我……
+125,シス/希斯,お前にも詫びるべきことが山ほどある。<br>お前が共に過ごすべき<br>父親の時間を、俺が……,要道歉的事情太多了。<br>你本来应该能和父亲一起相处的时间，<br>被我……
+130,シス/希斯,<span class='scene-font-4'>うわ！？</span>,<span class='scene-font-4'>う呜哇！？</span>
+131,シス/希斯,<span class='scene-font-4'>か、返せ……！</span><br>今、俺は、真面目に……！,<span class='scene-font-4'>还，还我……！</span><br>我在认真的……！
 136,シス/希斯,<span class='scene-font-4'>うわ！？</span>,<span class='scene-font-4'>う呜哇！？</span>
 137,シス/希斯,<span class='scene-font-4'>か、返せ……！</span><br>今、俺は、真面目に……！,<span class='scene-font-4'>还，还我……！</span><br>我在认真的……！
 142,シス/希斯,……なんだ？,……什么？
@@ -93,7 +95,7 @@ id,name,text,trans
 145,シス/希斯,いや、お前が望むなら。<br>そうだな……,不，如果你希望的话。<br>让我想想从哪里说起……
 146,,<span class='scene-font-katari'>流れる時の中で悲劇は起こり</span><br><span class='scene-font-katari'>人々は苛まれ時に呪いを吐きながら</span><br><span class='scene-font-katari'>生きていかねばならない。</span>,<span class='scene-font-katari'>时间流转中悲剧时有发生。</span><br><span class='scene-font-katari'>被折磨的人们不得不一边咒骂一边活着。</span>
 147,,<span class='scene-font-katari'>だが同時にその中にこそ</span><br><span class='scene-font-katari'>輝ける希望があり、</span><br><span class='scene-font-katari'>故に人は生きていける。</span>,<span class='scene-font-katari'>但同时，其间闪烁着的希望，</span><br><span class='scene-font-katari'>让人们能够继续活下去。</span>
-150,,<span class='scene-font-katari'>素知らぬ顔で、同時に全てを眺める</span><br><span class='scene-font-katari'>蒼い蒼い空の下、</span><br><span class='scene-font-katari'>人は明日を求め歩き続けるのだ──</span>,<span class='scene-font-katari'>湛蓝的天空佯作不知，</span><br><span class='scene-font-katari'>却同时眺望着所有的一切。</span><br><span class='scene-font-katari'>在这片天空之下，人们追求着未来不断前行。</span><br>
+150,,<span class='scene-font-katari'>素知らぬ顔で、同時に全てを眺める</span><br><span class='scene-font-katari'>蒼い蒼い空の下、</span><br><span class='scene-font-katari'>人は明日を求め歩き続けるのだ──</span>,<span class='scene-font-katari'>湛蓝的天空佯作不知，</span><br><span class='scene-font-katari'>却同时眺望着所有的一切。</span><br><span class='scene-font-katari'>在这天空之下，人们追求着未来不断前行。</span><br>
 156,レイ/零,一件落着──かしら。,应该算是，告一段落了吧。
 157,ウーノ/乌诺,そうだね……<br>お疲れ様、シエテ。,是啊……辛苦了，希耶提。
 158,シエテ/希耶提,お疲れ様、ウーノ。<br>レイの方はここから先を<br>よろしく頼むね。,你也辛苦了乌诺。<br>零，之后的事情就拜托你了。
