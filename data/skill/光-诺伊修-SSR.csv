@@ -1,9 +1,9 @@
 ﻿id,name,detail
 npc,诺伊修,3040178000
-special,屠杀者,光属性伤害（特大）/自身获得圣枪效果（永续/不可消去）
-skill-1,骑士之盾,减免我方所受全属性伤害（50%）/减免暗属性伤害（20%）
+special,屠杀者,光属性伤害(特大)/自身获得圣枪效果(永续/不可消去)
+skill-1,骑士之盾,减免我方所受全属性伤害(50%)/减免暗属性伤害(20%)
 skill-2,辉光突刺,<div class=prt-text-small>对敌方单体造成光属性伤害/对光属性防御25%DOWN效果<span class=text-blue>◆消耗圣枪效果，发动2次攻击/弱化效果成功率50%UP</span></div>
-skill-3,黄金之姿,<div class=prt-text-small>自身奥义伤害80%UP/上限20%UP（1次）/50%概率造成1.5倍暴击<span class=text-blue>◆消耗圣枪效果，效果全体化</span></div>
+skill-3,黄金之姿,<div class=prt-text-small>自身奥义伤害80%UP/上限20%UP(1次)/50%概率造成1.5倍暴击<span class=text-blue>◆消耗圣枪效果，效果全体化</span></div>
 support-1,阿尔斯特王国骑士,<div class=prt-text-small>减轻OD状态的敌人造成的伤害/自身无弱化效果时连击率UP/有弱化效果时防御80%UP</div>
 support-2,常在之枪,战斗开始时获得圣枪效果
 skill-lb,LB技能,全属性伤害减免效果中攻击力UP

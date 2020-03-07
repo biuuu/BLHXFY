@@ -1,6 +1,6 @@
 id,name,detail
 npc,可露瓦,3040127000
-special,白色丝线,延长可露瓦赋予我方全体的特殊强化效果3回合/回复3丝线/追加1个灵感（最大3）
+special,白色丝线,延长可露瓦赋予我方全体的特殊强化效果3回合/回复3丝线/追加1个灵感(最大3)
 skill-1,夏日弧线,<div class=prt-text-small>我方风属性单体特殊强化(风属性UP/连击率UP)<br><span class=text-blue>◆消耗1丝线</span></div>
 skill-2,沁凉冰丝,<div class=prt-text-small>我方单人回合行动时进行2次攻击行动/伤害上限UP<br><span class=text-blue>◆消耗4丝线</span></div>
 skill-3,夏日模特,回复风属性角色HP<br><span class=text-blue>◆消耗2丝线</span>

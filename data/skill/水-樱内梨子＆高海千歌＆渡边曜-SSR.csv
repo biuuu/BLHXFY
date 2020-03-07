@@ -1,13 +1,13 @@
 ﻿id,name,detail
 npc,樱内梨子＆高海千歌＆渡边曜,3040183000
-special,有爱所以没问题！,水属性伤害（特大）/我方全体水属性攻击UP/HP回复
-special++,有爱所以没问题！,水属性伤害（特大）/我方全体水属性攻击UP/减轻火属性伤害/HP回复
+special,有爱所以没问题！,水属性伤害(特大)/我方全体水属性攻击UP/HP回复
+special++,有爱所以没问题！,水属性伤害(特大)/我方全体水属性攻击UP/减轻火属性伤害/HP回复
 skill-1,思念汇聚！,我方全体连续攻击几率UP
 skill-1++,思念汇聚！,我方全体连续攻击几率UP/活性效果
 skill-2,想要闪耀！,自身可即时发动奥义
 skill-2++,想要闪耀！,自身可即时发动奥义 <span class=text-blue>◆奥义的回复性能UP</span>
 skill-3,全速前进走起！,消去敌方1个强化效果/自身回避率大幅UP
-skill-3+,全速前进走起！,<div class=prt-text-small>消去敌方1个强化效果/自身回避率大幅UP/回避时我方全体气势UP（1次）</div>
+skill-3+,全速前进走起！,<div class=prt-text-small>消去敌方1个强化效果/自身回避率大幅UP/回避时我方全体气势UP(1次)</div>
 skill-4,决定了！手牵手！,赋予敌人魅惑效果<span class=text-blue>◆魅惑成功时我方全体攻击力20%UP</span>
 support-1,浦之星女子学院2年级学生,自身HP越多，奥义伤害越高
 support-2,C位,根据队伍中的Aqours成员人数，提升Aqours成员的连续攻击几率
