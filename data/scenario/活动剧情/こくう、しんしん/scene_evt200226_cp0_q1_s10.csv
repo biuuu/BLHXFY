@@ -1,0 +1,148 @@
+id,name,text,trans
+0-synopsis,,ある日、十天衆と秩序の騎空団が十天衆の本拠地『テラ』にて衝突する。それは秩序の騎空団からのある要請を、十天衆が拒否したことが原因だった。十天衆はヴァルフリート率いる秩序の騎空団に大きな損害を与えるも、シスがフュンフをかばって負傷してしまう。十天衆は星屑の街を合流場所と決め、エッセル、カトルがシスとフュンフを連れて先にその場を離脱するのだった。,某日，十天众与秩序骑空团于十天众的据点『特拉』产生冲突。起因是十天众拒绝了秩序骑空团的某项要求。十天众对瓦尔弗里德率领的秩序骑空团造成了沉重的打击，但希斯也为了保护芬芙而受伤。十天众决定由艾塞尔和卡托尔带着希斯和芬芙先走，和其他人在星屑之街汇合。
+2,,<span class='scene-font-spword'>『十天衆』</span><span class='scene-font-katari'>──</span><br><span class='scene-font-katari'>全空最強の武器の使い手達を集め、</span><br><span class='scene-font-katari'>武威を以て悪を毀損せんとする者達。</span>,<span class='scene-font-spword'>『十天众』</span><br><span class='scene-font-katari'>——汇集了全空最强的武器使用者，</span><br><span class='scene-font-katari'>以武威制裁邪恶的组织。</span>
+8,,<span class='scene-font-spword'>『秩序の騎空団』</span><br><span class='scene-font-katari'>──</span><br><span class='scene-font-katari'>七曜の騎士がひとり碧の騎士の旗下</span><br><span class='scene-font-katari'>全空の公正を守る者達。</span>,<span class='scene-font-spword'>『秩序骑空团』</span><br><span class='scene-font-katari'>——由七曜骑士之一的碧骑士率领，</span><br><span class='scene-font-katari'>守护全空公正的组织。</span>
+14,,<span class='scene-font-katari'>今、空の命運に関わるふたつの組織は</span><br><span class='scene-font-katari'>十天衆が本拠地</span><span class='scene-font-spword'>『テラ』</span><span class='scene-font-katari'>にて</span><br><span class='scene-font-katari'>邂逅を果たしていた。</span>,<span class='scene-font-katari'>现在，这两个足以影响天空命运的组织</span><br><span class='scene-font-katari'>在十天众的据点</span><span class='scene-font-spword'>『特拉』</span><span class='scene-font-katari'>邂逅了。</span>
+15,ヴァルフリート/瓦尔弗利德,君に頭を垂れることも<br>やぶさかではないが……,我也不是不愿意低下头来求你……
+16,ヴァルフリート/瓦尔弗利德,頼む、と言ったところで<br>受け入れてはもらえないようだな。,只是，就算我拜托你，<br>想必你也不会同意。
+17,シエテ/希耶提,そりゃねぇ。<br>子犬だって、くれと言われて<br>ホイホイ渡せるわけないのに……,那是。<br>就算是小狗，也不是你说要就能轻易给你的……
+18,シエテ/希耶提,<span class='scene-font-bold scene-font-blue'>『仲間を引き渡せ』</span>と言われて<br>簡単に頷けるわけがないでしょ？,你让我<span class='scene-font-bold scene-font-blue'>『交出同伴』</span>，<br>我怎么可能轻易答应呢？
+19,ヴァルフリート/瓦尔弗利德,交渉決裂か。<br>──残念だ。,交涉失败。<br>——太遗憾了。
+21,ヴァルフリート/瓦尔弗利德,<span class='scene-font-4'>──第四騎空艇団に告ぐ！</span><br><span class='scene-font-4'>全砲門、開け！！</span>,<span class='scene-font-4'>——第四骑空团听令！</span><br><span class='scene-font-4'>所有炮台，开炮！！</span>
+22,,<span class='scene-font-katari'>移動式拠点テラ付近に浮かぶ小島にて</span><br><span class='scene-font-katari'>シエテと対峙するヴァルフリートは、</span><br><span class='scene-font-katari'>上空に待機する騎空艇へ号令を掛ける。</span>,<span class='scene-font-katari'>在移动据点特拉附近的小岛上，</span><br><span class='scene-font-katari'>与希耶提对峙的瓦尔弗里德</span><br><span class='scene-font-katari'>向正在上空待机的骑空艇发号施令。</span>
+26,リーシャ/莉夏,了解！<br>第四騎空艇団、艦砲射撃用意！<br>速やかに全砲門開け！,收到！<br>第四骑空艇团，准备舰炮射击！<br>立刻启动所有炮台！
+27,秩序の騎空団伝令,<span class='scene-font-4'>イエスマム！</span>,<span class='scene-font-4'>遵命！</span>
+32,シエテ/希耶提,ソーン！　頼んだよ！,索恩！ 拜托你了！
+33,ソーン/索恩,ええ……任せて。,嗯……交给我吧。
+38,ソーン/索恩,響け、殲滅の鏑矢よ──,响彻吧，歼灭之镝矢——
+39,,<span class='scene-font-katari'>小島の上空に控える騎空艇の一団を</span><br><span class='scene-font-katari'>テラから魔眼によって捉えたソーンは</span><br><span class='scene-font-katari'>魔導弓を構えた。</span>,<span class='scene-font-katari'>身在特拉的索恩通过魔眼</span><br><span class='scene-font-katari'>捕捉到了小岛上空的骑空艇，</span><br><span class='scene-font-katari'>对准他们拉开魔导弓。</span>
+43,リーシャ/莉夏,……今ッ！<br>魔導灯起動！！,……就是现在！<br>打开魔导灯！！
+44,秩序の騎空団伝令,イエスマム！<br>担当艇に伝達！<br>魔導灯起動！,遵命！<br>通知负责的船只！<br>打开魔导灯！！
+55,ソーン/索恩,きゃっ！？,啊！？
+56,,<span class='scene-font-katari'>騎空艇の夜間航行に使用される光量をも</span><br><span class='scene-font-katari'>凌ぐ光を束ね照射され、艇団を見据える</span><br><span class='scene-font-katari'>ソーンはその視界を白く灼かれる。</span>,<span class='scene-font-katari'>被比骑空艇夜间航行用的灯光更加耀眼的光束集束照射，</span><br><span class='scene-font-katari'>直视骑空艇的索恩顿时失去了视野。</span>
+60,ウーノ/乌诺,ソーン。君の射撃はやはり<br>警戒されていたようだ。<br>大丈夫かい？,索恩，<br>看来他们果然对你的射击有所警戒。<br>你没事吧？
+61,ソーン/索恩,ごめんなさい、<br>あの光で眼が眩んでしまって……,抱歉，被那束光刺到眼了……
+62,フュンフ/芬芙,はいはーい！　あちしの出番！<br>ほらソーン見せて見せて！,好了好了——！轮到我出场了！<br>索恩快让我看看！
+71,ソーン/索恩,ありがとう、フュンフ。<br>……次は大丈夫、カレンちゃんに貰った<br>サングラスがあるから！,谢谢你，芬芙。<br>……之后就没事了，<br>因为我还带了卡莲给我的墨镜！
+72,カトル/卡托尔,魔導灯ひとつでも<br>ずいぶんな値段ですけど<br>あの人達、奮発しましたね。,一盏魔导灯都要不少钱呢，<br>那群人真是出手阔绰。
+73,エッセル/艾瑟尔,それだけ本気で<br>私達を相手取ろうとしてる、<br>ってことだね……,这也意味着，<br>他们是认真地想要对付我们……
+74,カトル/卡托尔,ちょっと気の毒になってきますね。<br>まあ他人の懐事情なんて<br>どうでもいいですけど。,看了感觉真可怜。<br>不过别人的经济状况也不关我的事。
+78,リーシャ/莉夏,今のうちに砲撃で足場を崩します！<br>艦砲射撃開始！！,趁现在用炮击摧毁他们的落脚点！<br>舰炮发射！！
+80,秩序の騎空団伝令,高魔力反応接近！！<br>これは──,高魔力反应接近！！<br>这是——
+96,オクトー/奥克托,<span class='scene-font-4'>捨狂煉路敷！！</span>,<span class='scene-font-4'>捨狂炼路敷！！</span>
+97,,<span class='scene-font-katari'>十天衆オクトーの操る</span><br><span class='scene-font-katari'>３本の刀が放つ斬撃が</span><br><span class='scene-font-katari'>秩序の騎空団の騎空艇を切りつける。</span>,<span class='scene-font-katari'>十天众奥克托操纵三把刀放出的斩击</span><br><span class='scene-font-katari'>砍中了秩序骑空团的骑空艇。</span>
+98,リーシャ/莉夏,……！？<br>オクトーの刃の射程が<br>報告よりも長い……！？,……！？<br>奥克托的刀，<br>射程比报告中提到的更远……！？
+99,秩序の騎空団伝令,魔導灯、全３０基のうち１８……<br>いや、２２まで破損！<br>第六艇より機関室破損の報告が……,魔导灯，共计30盏中有18盏……<br>不，22盏破损！<br>以及，六号艇报告其机械室破损……
+103,フュンフ/芬芙,ああ～！？<br>じっちゃやりすぎだよぉ～！<br>騎空艇落ちちゃう～！！,哎呀～！？<br>爷爷你太过火了！<br>骑空艇要掉下去了！！
+104,ウーノ/乌诺,フュンフの言う通りだ。<br>後の和解を考えると、<br>あまり禍根は残したくない。,芬芙说的对。<br>考虑到事后和解的事宜，<br>最好不要在这里留下祸根。
+105,ニオ/妮欧,でも、加減をして追い払うのは<br>難しいと思う。,可是，<br>我觉得手下留情的话很难赶走他们。
+107,ニオ/妮欧,近づいてくる。<br>大きくて力強い旋律が……,来了。<br>强而有力的旋律……
+108,ウーノ/乌诺,おや……,哦……？
+115,モニカ/莫妮卡,ははっ……流石に、<br>貴公達へ不意打ちなど<br>成立し得ないか……！,哈哈……不愧是十天众，<br>对你们偷袭根本无法成功……！
+116,ウーノ/乌诺,こちらには良く見える眼と<br>良く聞こえる耳がついているからね。<br>それに……,毕竟我们可有一双慧眼和一对聪耳啊。<br>而且……
+123,サラーサ/萨拉萨,よくわかんないけど、<br>こいつらをぶっとばせばいいんだな！<br>ウーノ！,虽然不是很清楚情况，<br>总之把他们打飞就行了吧，乌诺！
+124,ウーノ/乌诺,ああ、彼女の相手は頼んだよ、<br>サラーサ。,嗯，她就交给你了，萨拉萨。
+125,サラーサ/萨拉萨,任せとけっ！　さぁ、来い！<br>秩序の……えっと……,包在我身上！来吧！<br>秩序……什么来着……
+126,モニカ/莫妮卡,秩序の騎空団、<br>団長代理補佐モニカだ！<br><span class='scene-font-4'>……総員、突撃！！</span>,秩序骑空团代理团长辅佐，莫妮卡！<br><span class='scene-font-4'>……全员，突击！！</span>
+129,エッセル/艾瑟尔,ん……,嗯……
+130,ソーン/索恩,エッセル、手伝う？,艾瑟尔，要帮忙吗？
+131,エッセル/艾瑟尔,ううん、大丈夫。<br>ソーンはこのまま<br>騎空団の監視をお願い。,不用了，没关系。<br>索恩继续监视骑空团吧。
+132,ソーン/索恩,了解！　気を付けてね。,明白！你小心点。
+134,エッセル/艾瑟尔,ん……,嗯……
+138,秩序の騎空団団員,波状攻撃で相手を休ませるな！<br>手数を削ることに集中しろ！！,分批进攻，不要给他们休息的机会！<br>集中精神消耗他们的精神！
+139,エッセル/艾瑟尔,…………,
+142,秩序の騎空団団員,ぐあっ！？,唔啊！？
+143,,<span class='scene-font-katari'>陣を組んで突撃してくる秩序の騎空団の</span><br><span class='scene-font-katari'>騎空士達が構える武器が、</span><br><span class='scene-font-katari'>エッセルの弾丸で次々に破壊される。</span>,<span class='scene-font-katari'>秩序骑空团的骑空士们摆好阵势</span><br><span class='scene-font-katari'>突击而来，可他们手中的武器</span><br><span class='scene-font-katari'>一个接一个地被艾瑟尔的子弹摧毁了。</span>
+144,秩序の騎空団団員,くっ……！<br>銃が壊されたなら剣で……,呜……！<br>枪不行那就用剑……
+145,カトル/卡托尔,させると思います？,我会让你得逞吗？
+147,秩序の騎空団団員,ぐはっ……,啊……
+148,秩序の騎空団団員,ま、まだ……！,还、还没完……！
+152,,<span class='scene-font-katari'>騎空士が拾い上げようとした剣は</span><br><span class='scene-font-katari'>弾丸によって弾き飛ばされ、</span><br><span class='scene-font-katari'>その手が届かない場所へと突き刺さる。</span>,<span class='scene-font-katari'>骑空士想要捡起来的剑</span><br><span class='scene-font-katari'>被子弹弹飞，插进无法触及的远处的地面。</span>
+153,秩序の騎空団団員,ば……かな……！？<br>俺だけじゃなく……<br>この人数を相手に、こんな……！,怎……么会……！？<br>不只是我一个人……<br>面对那么多人，竟然还……！
+154,,<span class='scene-font-katari'>次々と無力化されていく</span><br><span class='scene-font-katari'>秩序の騎空団の騎空士達の頭上に、</span><br><span class='scene-font-katari'>美しい旋律が響き渡る。</span>,<span class='scene-font-katari'>就在秩序骑空团的骑空士们</span><br><span class='scene-font-katari'>一个个都失去战斗能力时，</span><br><span class='scene-font-katari'>一段美妙的旋律回响在他们的头上。</span>
+156,ニオ/妮欧,騒がしくて疲れる……<br>調律させてもらうね。,听着你们吵闹的旋律让我很累……<br>让我给你们调音吧。
+159,秩序の騎空団団員,ぐっ……こ、この演奏……！？<br>頭が……ふら、ついて……,唔……这、这个音乐……！？<br>头……好晕……
+162,ニオ/妮欧,聴こえるよ、穏やかな旋律……<br>貴方もその方が楽でしょう？<br>おやすみ。,我听见了，平静的旋律……<br>这对你来说也更轻松些吧？<br>晚安。
+163,,<span class='scene-font-katari'>エッセルとカトルに無力化された兵達は</span><br><span class='scene-font-katari'>ニオの演奏によって</span><br><span class='scene-font-katari'>強制的に眠りに落とされていく。</span>,<span class='scene-font-katari'>被艾瑟尔和卡托尔击倒的士兵们</span><br><span class='scene-font-katari'>在妮欧的演奏中被强制进入睡眠。</span>
+165,秩序の騎空団団員,ね、眠って……たまる……か……,我、我怎么……能……睡……
+166,カトル/卡托尔,へぇ……ナイフで自傷してまで<br>抗うとは、なかなか根性ありますね。,嗯……没想到你不惜自伤也要抵抗，<br>真是有血性。
+167,カトル/卡托尔,まあ、その状態で<br>何ができるのかって話ですけど。,可是，你这个样子又能做什么呢。
+172,秩序の騎空団団員,ぐうっ……,唔……
+174,エッセル/艾瑟尔,フュンフ！<br>その人、大怪我させちゃったから<br>治してあげて。,芬芙！<br>那个人受了重伤，<br>你来治疗一下吧。
+175,フュンフ/芬芙,おっけ～！<br>も～、カトルってば<br>手加減へたっぴなんだから～,好！<br>真是的～<br>卡托尔总是下手不知轻重。
+176,カトル/卡托尔,はぁ？<br>殺してないんですから<br>感謝してもらいたいぐらいですね。,哈？<br>我不杀他他就该感谢我了。
+177,エッセル/艾瑟尔,カトル……ウーノが言っていたよね？<br><span class='scene-font-bold scene-font-blue'>『後の和解を考えると、</span><br><span class='scene-font-bold scene-font-blue'>あまり禍根は残したくない』</span>って。,卡托尔……乌诺也说了。<br><span class='scene-font-bold scene-font-blue'>『考虑到事后和解的事宜，</span><br><span class='scene-font-bold scene-font-blue'>最好不要在这里留下祸根。』</span>
+178,カトル/卡托尔,喧嘩を売ってきたのはあっちでしょう？<br>ブチのめして、力尽くで<br>黙らせればそれでいいんですよ。,是他们先挑事的吧？<br>狠狠教训一顿，<br>用实力让他们闭嘴就行了。
+179,カトル/卡托尔,ああいう風に、ね。,就像那样。
+183,サラーサ/萨拉萨,<span class='scene-font-4'>はぁああああ！！</span>,<span class='scene-font-4'>哈啊啊啊啊啊！！</span>
+184,モニカ/莫妮卡,くぅっ……！,唔……！
+188,サラーサ/萨拉萨,<span class='scene-font-4'>ぶっ潰れろぉ！！</span>,<span class='scene-font-4'>看招！！</span>
+197,モニカ/莫妮卡,かはっ……,噶啊……
+202,ヴァルフリート/瓦尔弗利德,モニカが落とされたか……,莫妮卡被打倒了吗……
+203,シエテ/希耶提,おやおや～？<br>余所見なんて余裕だね。,哎呀哎呀～？<br>你还有空看别的地方吗。
+204,シエテ/希耶提,気を抜いてると……<br>剣拓、取っちゃうよっと！,你要是放松警惕……<br>我可就取走剑拓了！
+211,フュンフ/芬芙,ソーン～！<br>墜ちちゃった騎空艇の人達、<br>大丈夫そう～！？,索恩~！<br>坠落的骑空艇上的人没事吗！？
+212,ソーン/索恩,ちょっと待ってね。ええと……<br>……３時の方向、艇が燃えてるわ。,等一下。<br>嗯……<br>……三点钟方向的骑空艇着火了。
+213,フュンフ/芬芙,ええ！？　大変じゃん！<br>あちしちょっと助けに行ってくる！<br>ど～せうちのみんなはケガしないしぃ！,咦！？不好了！<br>我去救他们！<br>反正十天众的大家不会受伤的！
+215,ソーン/索恩,あっ！？<br>フュンフ、駄目よ！<br>ひとりで行かないの！,啊！？<br>芬芙，不行！<br>别一个人去！
+216,エッセル/艾瑟尔,…………！,
+217,シス/希斯,待て、俺が追う。<br>まだ集団で動く兵も残っているはずだ、<br>お前にはそちらの相手を頼む。,等等，我去追吧。<br>这里应该还有集体行动的杂兵，<br>你们留下来解决他们。
+218,エッセル/艾瑟尔,でも……,可是……
+219,シス/希斯,俺の方が脚は速い。<br>……連れてすぐ戻る。,我的速度更快。<br>……马上就带芬芙回来。
+220,エッセル/艾瑟尔,了解……フュンフのこと、お願い。<br>ふたりとも無茶はしないで。,好……芬芙拜托你了。<br>你们两个都别乱来。
+221,シス/希斯,ああ。,嗯。
+225,,<span class='scene-font-katari'>飛行の魔法で崩れた足場を越え、</span><br><span class='scene-font-katari'>フュンフは騎空艇の墜落現場へと</span><br><span class='scene-font-katari'>到着する。</span>,<span class='scene-font-katari'>芬芙用飞行魔法越过坍陷的地面，</span><br><span class='scene-font-katari'>来到骑空艇坠落的现场。</span>
+227,フュンフ/芬芙,ああ～！？<br>やっぱりケガした人<br>いっぱいいる～！！,啊！？<br>果然有好多人受伤了！！
+228,フュンフ/芬芙,ケガしたとこに小石とか入ってたら<br>入ったまま治っちゃうし……ええと……,要是伤口里进了小石子之类的，<br>直接治疗的话会把小石子封进去的……<br>嗯……
+229,フュンフ/芬芙,えーい！　まずは止血止血～！！,嗯！那就先止血止血！！
+236,ヴァルフリート/瓦尔弗利德,フンッ──！！,哼——！！
+239,シエテ/希耶提,おっと！<br>危ない危ない～,哎呀！<br>好险啊～
+240,ヴァルフリート/瓦尔弗利德,ずいぶんな余裕だ……<br>剣神の展開もせずに<br>私の剣拓を得るつもりでいるとは。,真是游刃有余……<br>你打算不展开剑神就拿走我的剑拓么。
+241,シエテ/希耶提,いや～、今回は趣味に走ってる<br>場合じゃないしね？<br>そっちもわかってるでしょ。,哎呀～<br>现在不是我凭兴趣胡来的时候。<br>你也明白吧。
+244,ヴァルフリート/瓦尔弗利德,勿論だとも。<br>全ては空の秩序のためだ……！！,当然。<br>一切都是为了空之世界的秩序……！！
+245,,<span class='scene-font-katari'>剣を構え直したヴァルフリートは</span><br><span class='scene-font-katari'>己の魔力を刃に走らせ</span><br><span class='scene-font-katari'>必殺の一撃を放たんとする。</span>,<span class='scene-font-katari'>瓦尔弗里德再次举起剑，</span><br><span class='scene-font-katari'>向剑刃注入魔力，</span><br><span class='scene-font-katari'>准备使出必杀一击。</span>
+246,シエテ/希耶提,あらら、こりゃヤバそうだ……,哎呀，看起来真可怕……
+247,ヴァルフリート/瓦尔弗利德,<span class='scene-font-4'>はぁあああああ！！</span>,<span class='scene-font-4'>哈啊啊啊啊啊！！</span>
+248,シエテ/希耶提,<span class='scene-font-kokoro'>（……見えた！</span><br><span class='scene-font-kokoro'>刃を逸らして直撃を避ける！！）</span>,<span class='scene-font-kokoro'>（……看破了！</span><br><span class='scene-font-kokoro'>错开他的剑直接躲开直击！！）</span>
+255,シエテ/希耶提,ディエス・ミル・エスパーダ！！,万剑！！
+260,,<span class='scene-font-katari'>シエテの操る幾つもの刃が</span><br><span class='scene-font-katari'>ヴァルフリートの剣が放つ攻撃を</span><br><span class='scene-font-katari'>削り、逸らし、砕いていく。</span>,<span class='scene-font-katari'>希耶提操纵数把剑，</span><br><span class='scene-font-katari'>逐渐削弱并化解了瓦尔弗里德的攻击。</span>
+261,,<span class='scene-font-katari'>当初の軌道を逸れた一撃は</span><br><span class='scene-font-katari'>あらぬ方向へと奔り──</span>,<span class='scene-font-katari'>这让攻击偏离原本的轨道，</span><br><span class='scene-font-katari'>朝意想不到的方向飞去——</span>
+265,フュンフ/芬芙,いったいのいったいの、<br>と～んで……,痛痛都飞～走……
+267,シス/希斯,<span class='scene-font-4'>フュンフ！！</span>,<span class='scene-font-4'>芬芙！！</span>
+268,フュンフ/芬芙,<span class='scene-font-4'>ふぇっ！？</span>,<span class='scene-font-4'>咦！？</span>
+275,シス/希斯,ぐっ……！！,呜……！！
+276,フュンフ/芬芙,シス！？,希斯！？
+277,シエテ/希耶提,<span class='scene-font-4'>フュンフ、シス！？</span><br>あの子達なんであんな──,<span class='scene-font-4'>芬芙，希斯！？</span><br>他们为什么会在那种地方——
+278,フュンフ/芬芙,シス！<br>す、すぐ治すからね！？,希斯！<br>我马上帮你治疗！？
+279,シス/希斯,いい……後、回しだ……<br>離脱するぞ……,没事……之后再说……<br>先离开这里……
+280,フュンフ/芬芙,でも血がいっぱい……！,可是你流了好多血……！
+282,ウーノ/乌诺,すまない！<br>テラを庇ってこちらへの対応が<br>遅れてしまった。,抱歉！<br>我忙着守住特拉，来晚了。
+283,フュンフ/芬芙,ウーノ！<br>シスが……,乌诺！<br>希斯他……
+284,ウーノ/乌诺,ああ、わかっている。,嗯，我知道。
+285,,<span class='scene-font-katari'>ウーノはシスとフュンフを連れ</span><br><span class='scene-font-katari'>墜落現場から離れ、</span><br><span class='scene-font-katari'>テラで待つ仲間達の元へ戻る。</span>,<span class='scene-font-katari'>乌诺带着希斯和芬芙</span><br><span class='scene-font-katari'>回到在特拉等待着的</span><br><span class='scene-font-katari'>其他同伴身边。</span>
+290,ウーノ/乌诺,エッセル、カトル。<br>君達はシスとフュンフを連れて<br>先にこの場を離れるんだ。,艾瑟尔，卡托尔，<br>你们带着希斯和芬芙先离开这里。
+291,エッセル/艾瑟尔,ん……わかった。<br>ウーノ達は？,嗯……我明白了。<br>乌诺你们呢？
+292,ウーノ/乌诺,秩序の騎空団も被害が大きい。<br>継戦の意志はないだろうが、<br>テラは鹵獲されてしまう可能性がある。,秩序骑空团也损失惨重，<br>应该不会再继续战斗了，<br>但他们可能会捕获特拉。
+293,ウーノ/乌诺,我々はテラを隠してから<br>ここを離れる。<br>合流は<span class='scene-font-spword'>“星屑の街”</span>……いいね？,我们会把特拉藏好之后再离开。<br>在<span class='scene-font-spword'>“星屑之街”</span>汇合……明白了吗？
+294,カトル/卡托尔,やれやれ……厄介事を<br>持ち込まないでほしいんですけどね。,唉……真希望他们别把星屑之街<br>也卷进这麻烦事里去啊。
+295,ニオ/妮欧,次に狙われるのは、<br>たぶん星屑の街だから……,他们的下一个目标，<br>大概就是星屑之街了……
+296,ニオ/妮欧,相手は、余裕があるけど万全じゃない。<br>次の手を塞がれたらどうするか<br>今も考え続けてる感じがあるの。,对方虽然还有余力，<br>但还没有准备周全。<br>我能感觉到他们仍在考虑<br>如果下一手失败之后的对策。
+297,ソーン/索恩,私達の拠点が知られていたとして、<br>テラと星屑の街のふたつだけ、<br>という可能性が高いわけね。,假如他们知道我们的据点，<br>也很可能只知道特拉和星屑之街两处。
+298,ソーン/索恩,だったら、私達全員が<br>星屑の街に集まって子供達を<br>守った方がマシ。……でしょ？,那么，我们全员还是在星屑之街集合<br>保护孩子们比较好，对吧？
+299,カトル/卡托尔,……わかってますよ。<br>行こう、姉さん。,……我明白。<br>走吧，姐姐。
+300,エッセル/艾瑟尔,ん。,嗯。
+301,エッセル/艾瑟尔,……大丈夫、シス？　肩を貸すよ。<br>フュンフ、ひとまず傷を塞いであげて。,……没事吧，希斯？我扶你。<br>芬芙，先把伤口堵住吧。
+302,フュンフ/芬芙,う、うん……！,嗯，嗯……！
+308,秩序の騎空団伝令,十天衆の一部が戦場を離脱！<br>砲撃を加えますか？,十天众的一部分离开了战场！<br>要追加炮击吗？
+309,リーシャ/莉夏,この場で片をつけないと……！<br>再装填、用意──,必须这里解决他们……！<br>准备装填弹药——
+310,ヴァルフリートの声/瓦尔弗利德的声音,<span class='scene-font-gray'>──いや、深追いは避ける。</span><br><span class='scene-font-gray'>このまま戦闘を継続すれば</span><br><span class='scene-font-gray'>剣神で残りの艇まで落とされかねん。</span>,<span class='scene-font-gray'>——不，别追了。</span><br><span class='scene-font-gray'>继续战斗的话，</span><br><span class='scene-font-gray'>剑神会把剩下的骑空艇都击坠的。</span>
+314,ヴァルフリート/瓦尔弗利德,──だろう？,——没错吧？
+315,シエテ/希耶提,…………,
+316,シエテ/希耶提,……わかってる、ってことでいいね？,……我能理解为，你明白吧。
+317,ヴァルフリート/瓦尔弗利德,それはこちらの台詞だ。,这是我要说的话。
+323,ヴァルフリート/瓦尔弗利德,あまり我々を待たせるようなら、<br>星屑の街への進攻も<br>考慮しなくてはならない。,如果让我们等太久，<br>那我们也不得不考虑进攻星屑之街。
+324,ヴァルフリート/瓦尔弗利德,君こそ……わかっているな？,你……明白这点吧？
+327,,<span class='scene-font-katari'>先に剣を鞘に納めたヴァルフリートの</span><br><span class='scene-font-katari'>切り込むような視線に肩を竦め</span><br><span class='scene-font-katari'>シエテは刃を引く。</span>,<span class='scene-font-katari'>看着瓦尔弗里德先行收剑入鞘，</span><br><span class='scene-font-katari'>并向自己投来尖锐的目光，</span><br><span class='scene-font-katari'>希耶提耸了耸肩，也收回了剑。</span>
+328,,<span class='scene-font-katari'>空を守らんとする者達の激突の最中も</span><br><span class='scene-font-katari'>空は全ての上に等しく</span><br><span class='scene-font-katari'>蒼き輝きを放つ──</span>,<span class='scene-font-katari'>即使守护空之世界的人们正展开激战，</span><br><span class='scene-font-katari'>天空也依旧在万物之上</span><br><span class='scene-font-katari'>散发着苍蓝的光辉——</span>
+info,,,scene_evt200226_cp0_q1_s10
+译者,,,

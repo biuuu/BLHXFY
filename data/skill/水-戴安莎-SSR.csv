@@ -1,8 +1,8 @@
 id,name,detail
 npc,戴安莎,3040129000
-special,沙滩偶像,<div class=prt-text-small>回复我方全体HP/赋予水属性追击效果/特殊强化（攻击UP/连续攻击率UP）</div>
+special,沙滩偶像,<div class=prt-text-small>回复我方全体HP/赋予水属性追击效果/特殊强化(攻击UP/连续攻击率UP)</div>
 skill-1,夏日安可,我方全体三连击率UP(100%)
-skill-2,登台演出,自己以外的所有我方其他队员的奥义性能UP(1次)/奥义槽UP（20%）
+skill-2,登台演出,自己以外的所有我方其他队员的奥义性能UP(1次)/奥义槽UP(20%)
 skill-3,掌声不绝,我方全体获得高涨效果
 support-1,海滩重演,高涨效果中有概率回避敌人所有的攻击
 support-2,夏日歌舞巫女,水属性角色的连续攻击几率UP
