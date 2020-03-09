@@ -4,14 +4,14 @@ special,万剑,风属性伤害(特大)/我方全体攻击30%UP
 special-シエン・ミル・エスパーダ,十万剑,<div class=prt-text-small>风属性伤害(特大)/我方全体攻击30%UP/自身无敌效果(1次)</div>
 skill-1,象征,自身获得剑光效果(最大3层)
 skill-1+,象征,自身获得剑光效果(最大3层)
-skill-1++,象征,<div class=prt-text-small>自己可即时发动奥义/奥义性能UP（1次）/剑光Lv上升2(最大5层)</div>
+skill-1++,象征,<div class=prt-text-small>自己可即时发动奥义/奥义性能UP(1次)/剑光Lv上升2(最大5层)</div>
 skill-2,无限创造,10次0.6~0.7倍风属性伤害，目标随机
 skill-2+,无限创造,10次0.6~0.7倍风属性伤害，目标随机
 skill-2++,无限创造,<div class=prt-text-small>10次0.6~0.7倍风属性伤害，目标随机/自身奥义值30%UP</div>
 skill-3,狮心,我方全体可即时发动奥义 <span class=text-blue>◆消耗3层剑光</span>
 skill-4,七星之辉光,我方全体奥义性能UP/可即时发动奥义 <span class=text-blue>◆无法再次使用</span>
-support-1,天星剑王,<div class=prt-text-small>风属性角色的奥义伤害50%UP/根据剑光lv，自身攻击UP/连续攻击率UP <span class=text-blue>◆剑光Lv每回合上升1，受到伤害时减少2（最大3）</span></div>
-support-1+,天星剑王,<div class=prt-text-small>风属性角色的奥义伤害50%UP/根据剑光lv，自身攻击UP/连续攻击率UP <span class=text-blue>◆剑光Lv每回合上升2，受到伤害时减少2（最大5）</span></div>
+support-1,天星剑王,<div class=prt-text-small>风属性角色的奥义伤害50%UP/根据剑光lv，自身攻击UP/连续攻击率UP <span class=text-blue>◆剑光Lv每回合上升1，受到伤害时减少2(最大3)</span></div>
+support-1+,天星剑王,<div class=prt-text-small>风属性角色的奥义伤害50%UP/根据剑光lv，自身攻击UP/连续攻击率UP <span class=text-blue>◆剑光Lv每回合上升2，受到伤害时减少2(最大5)</span></div>
 support-2,王中之王,对土属性敌人伤害20%UP
 skill-lb,LB技能,偶尔回避敌人所有攻击
 intro,十天众,威胁全空的至高剑圣管理着十种拔群的力量，掌握着遥远苍空的一切。他背负着从他非常热爱剑，悠然自得的态度中完全无法想象的强大骄傲与信念，威胁天空的强大力量只为纠正世界而挥舞。

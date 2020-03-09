@@ -5,7 +5,7 @@ special-フローズン・ブルーム,冰洁之花,<span class=prt-text-small>�
 skill-1,冰晶结界,减免我方全体遭受的火属性伤害(70%)
 skill-1++,冰晶结界,<span class=prt-text-small>赋予我方全体减轻火属性伤害效果(70%)/赋予玉水的刻印/赋予自己春风效果</div>
 skill-2,冰冻风暴,对敌方全体造成水属性伤害/冻结效果
-skill-2++,冰冻风暴,<span class=prt-text-small>对敌方全体造成水属性伤害/冻结效果/攻防DOWN（累积）<br><span class=text-blue>◆根据战斗队员的种族数量提升性能</span></div>
+skill-2++,冰冻风暴,<span class=prt-text-small>对敌方全体造成水属性伤害/冻结效果/攻防DOWN(累积)<br><span class=text-blue>◆根据战斗队员的种族数量提升性能</span></div>
 skill-3,纯白治愈,回复我方全体HP(上限1500)，净化一个弱化效果
 support-1,闪烁的结晶,防御10%UP
 support-1+,闪烁的结晶,<span class=prt-text-small>我方全体防御UP/水属性角色根据自身的玉水刻印数量减轻受到的火属性伤害<br><span class=text-blue>◆减轻火属性伤害的效果在自己处于后排时也有效</span></div>

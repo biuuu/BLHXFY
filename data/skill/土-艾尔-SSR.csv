@@ -6,9 +6,9 @@ skill-1,罪恶击破,<div class=prt-text-small>自身HP越少，攻击强化量�
 skill-1+,罪恶击破,<div class=prt-text-small>自身HP越少，攻击强化量越大　<span class=text-blue>◆消耗自身最大HP的25%</span></div>
 skill-2,震撼反击,<div class=prt-text-small>  不发动普攻和奥义，进行反击(2次)　<span class=text-blue>◆奥义值不上升，每回合消耗10%奥义值/再使用或奥义值为0时解除</span></div>
 skill-2+,震撼反击,<div class=prt-text-small>  不发动普通和奥义，进行反击(3次)　<span class=text-blue>◆奥义值不上升，每回合消耗10%奥义值/再使用或奥义值为0时解除</span></div>
-skill-ジョルトカウンターII,震撼反击II,<div class=prt-text-small>  不发动奥义，进行反击(3次)/自身奥义槽up（30%）　<span class=text-blue>◆每回合消耗10%奥义值/再使用或奥义值为0时解除</span></div>
+skill-ジョルトカウンターII,震撼反击II,<div class=prt-text-small>  不发动奥义，进行反击(3次)/自身奥义槽up(30%)　<span class=text-blue>◆每回合消耗10%奥义值/再使用或奥义值为0时解除</span></div>
 skill-3,挑衅,放马过来啊……凭你们是干不掉我的！<br><div class=prt-text-small>  <span class=text-blue>◆敌对心UP/受到致命伤害时维持1HP继续战斗</span></div>
-skill-灰色の咆哮,灰色的咆哮,我的拳头……是用来保护别人的！<br><div class=prt-text-small>  <span class=text-blue>◆追加2回合掩护/不沉之拳（不可消去）效果</span></div>
+skill-灰色の咆哮,灰色的咆哮,我的拳头……是用来保护别人的！<br><div class=prt-text-small>  <span class=text-blue>◆追加2回合掩护/不沉之拳(不可消去)效果</span></div>
 support-1,斗争的热血,自身HP越少，二连击率UP/伤害上限UP
 support-1+,斗争的热血,自身HP越少，连击率UP/伤害上限UP
 skill-lb,LB技能,极小概率回避敌方所有攻击

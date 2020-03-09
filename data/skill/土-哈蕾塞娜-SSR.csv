@@ -2,12 +2,12 @@
 npc,哈蕾塞娜,3040079000
 special,精彩肢解秀,土属性伤害(特大)<br><span class=text-blue>◆根据坏天刃LV，奥义性能UP</span>
 special-ベリベリナイ・ディスアセンブリ,超级精彩肢解秀,土属性伤害(特大)/兴致越来越高了！<span class=text-blue>◆根据坏天刃LV，奥义性能UP</span>
-skill-1,打不到我！！,回避所有攻击（2次）
+skill-1,打不到我！！,回避所有攻击(2次)
 skill-2,把你撕碎！！,对敌方全体造成土属性伤害/连续攻击几率DOWN
 skill-2++,把你撕碎！！,对敌方全体造成土属性伤害/连续攻击几率DOWN/自己的坏天刃LV上升2
 skill-3,你死定了！！,自己的暴击几率UP
 skill-3+,你死定了！！,自己的暴击几率UP/三连击几率UP
-support-1,顶级疯狂~~！,<div class=prt-text-small>根据坏天刃LV，攻击UP/伤害上限UP/连续攻击几率UP <br><span class=text-blue>◆坏天刃LV每回合上升1，受到伤害时减少2（最大5）</span></div>
+support-1,顶级疯狂~~！,<div class=prt-text-small>根据坏天刃LV，攻击UP/伤害上限UP/连续攻击几率UP <br><span class=text-blue>◆坏天刃LV每回合上升1，受到伤害时减少2(最大5)</span></div>
 support-2,大家的安全安心,发动三连击时，第三次攻击造成的伤害上升
 skill-lb,LB技能,极小概率回避所有攻击
 intro,坏天灾,年幼时作为虐待对象被时刻紧盯着的少女，为了保护自己戴上了虐待者的面具。少女携带凶恶的武器，不断寻求着安全和安心，当她注意到时，已经被称为了行走的天灾。
