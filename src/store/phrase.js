@@ -16,9 +16,9 @@ const getPhrase = async () => {
     }
     const list = parseCsv(csv)
     list.forEach(item => {
-      const text = trim(item.text)
-      const trans = filter(item.trans)
-      if (text && trans) {
+      const text = item.text
+      const trans = filter(item.trans, true)
+      if (trim(text) && trans) {
         phraseMap.set(text, trans)
       }
     })

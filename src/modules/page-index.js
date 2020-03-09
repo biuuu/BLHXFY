@@ -1,3 +1,5 @@
+import getPhrase from '../store/phrase'
+
 const replaceTime = (str) => {
   if (!str) return str
   return str.replace('時間', '小时')
@@ -16,7 +18,11 @@ const pageIndex = async (data) => {
   }
   if (messages.length) {
     const newMessages = []
+    const phraseMap = await getPhrase()
     messages.forEach(item => {
+      if (phraseMap.has(item.text)) {
+        item.text = phraseMap.get(item.text)
+      }
       if (item.url !== 'news/detail/1/20002') {
         newMessages.push(item)
       }
