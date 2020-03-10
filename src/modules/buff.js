@@ -1,7 +1,9 @@
 import replaceTurn from '../utils/replaceTurn'
 import getBuffData from '../store/buff'
 
-const transBuff = async (data) => {
+const transBuff = async (obj) => {
+  if (!obj || !obj.condition) return
+  let data = obj.condition
   const keys = ['buff', 'debuff']
   for (let key of keys) {
     if (data[key]) {
