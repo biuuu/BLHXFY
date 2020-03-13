@@ -390,7 +390,7 @@ path,text,trans,count
 /party/content/list_subaction,強化アビリティ,强化技能,
 /party/content/list_subaction,弱体アビリティ,弱化技能,
 /party/content/list_subaction,回復アビリティ,回复技能,
-/party/content/list_subaction,リミットアビリティ,LB技能,
+/party/content/list_subaction,リミットアビリティ,限定技能,
 /party/content/list_subaction,ベースアビリティ,基础技能,
 /quest/content/scene,このお話のあらすじ,这一节的故事梗概,
 /content/detail,メイン装備時,主召唤时,
