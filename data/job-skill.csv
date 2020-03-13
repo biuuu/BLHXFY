@@ -247,7 +247,7 @@ id,ja,en,name,detail
 30222,一人軍隊,One-Person Army,一人军队,根据经过的回合数，攻击UP/回避率UP
 7231,天眼陣,Omnipotent Eye,天眼阵,<div class=prt-text-small>我方全体的状态大幅度UP/再次使用解除<br><span class=text-blue>◆◆每回合消费3MP/自己的通常攻击单体化<br>◆再次使用或者MP为0后解除状态，自己弱体化</span></div>
 7300,宿命陣,Fate Foreseen,宿命阵,<div class=prt-text-small>自己的奥义槽转换为MP<span class=text-blue><br>◆奥义槽变为0</span></div>
-7233,他心陣,Splitting Spirit,他心阵,<div class=prt-text-small>将自己的HP转换为奥义槽<span class=text-blue><br>◆HP变为当前的一半</span></div>
+7233,他心陣,Splitting Spirit,他心阵,<div class=prt-text-small>将自己的HP转换为奥义槽<span class=text-blue><br>◆最多消耗当前一半的HP</span></div>
 30059,神足陣,New Vision,神足阵,<div class=prt-text-small>通常攻击变为全体攻击（天眼阵状态下仍为单体化）/使用奥义时消费所有MP伤害UP</div>
 30068,開明,Enlightenment,开明,<div class=prt-text-small>每回合恢复1点MP<br><span class=text-blue>◆不会从因MP归0而使天眼阵解除后的状态下降中恢复</span></div>
 200051,ブラックチャーム,Cat's Meow,黑猫阵,<div class=prt-text-small>我方全体的状态大幅度UP/再次使用解除 <br><span class=text-blue>◆每回合消费3点MP/再次使用或者MP为0状态解除时自己进入状态下降3回合</span></div>
