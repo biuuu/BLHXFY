@@ -4,7 +4,7 @@ import isString from 'lodash/isString'
 import isRegExp from 'lodash/isRegExp'
 import loginBonus from './modules/login-bonus'
 import transScenario from './modules/scenario'
-import transLangMsg from './modules/langMsg'
+import transLangMsg, { shopLabel } from './modules/phrase'
 import transNpcSkill from './modules/skill-npc'
 import transJobSkill from './modules/skill-job'
 import transHTML from './modules/content-html'
@@ -92,7 +92,8 @@ const requestList = [
   [/\/story_chapter_list\/\d+(_\d+)?$/, chapterList],
   [/\/story_episode_list\/\d+(_\d+)?\/\d+(_\d+)?$/, episodeList],
   ['/archive/npc_detail', npcChapterList],
-  [/^\/arcarum\/content\/summon_enhancement_detail\/\d+(_\d+)?$/, arcarumSceneName]
+  [/^\/arcarum\/content\/summon_enhancement_detail\/\d+(_\d+)?$/, arcarumSceneName],
+  ['/rest_shop_exchange_treasure/article_labels/', shopLabel]
 ]
 
 export default async function translate(state) {
