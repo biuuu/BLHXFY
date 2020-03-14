@@ -1,0 +1,52 @@
+id,name,text,trans
+0-chapter_name,,平和と静寂を望むが故,因为渴望着和平与安宁
+0-synopsis,,姬塔一行が犬と触れ合える村までやってくると、大盛況で多くの人が犬と戯れていた。ユーステスが喧噪を嫌うのを心配するビィであったが、ユーステスは姬塔の冗談を穏やかに受け流すほど彼は落ち着いていた。しかし突如、悲鳴が聞こえ、犬が森の方へ駆けていくのを見つける。その森には魔物が棲むことを知り、一行は慌てて後を追う。,姬塔一行人来到了能和狗狗接触的村庄，那里有很多人和狗狗玩耍着。虽然碧担心讨厌吵闹的尤斯缇斯会不喜欢这里，但看到尤斯缇斯还平静的和姬塔说笑，他也安心了。但是突然，听到了悲鸣，看到有狗狗跑向了森林。得知那森林里栖息着魔物，一行人急忙追了上去。
+0,,<span class='scene-font-katari'>犬と触れ合える村に訪れた一行。</span><br><span class='scene-font-katari'>村には様々な島や国から犬を目当てに</span><br><span class='scene-font-katari'>人々が集まっており、混雑していた。</span>,<span class='scene-font-katari'>一行人去到了能和狗狗接触的村庄。</span><br><span class='scene-font-katari'>在那村里能看见来自各个岛各种的狗狗，</span><br><span class='scene-font-katari'>也聚集了很多人，十分嘈杂。</span>
+1,,<span class='scene-font-katari'>騒然とした様子を見て、</span><br><span class='scene-font-katari'>ビィは不安そうに姬塔に</span><br><span class='scene-font-katari'>耳打ちした。</span>,<span class='scene-font-katari'>看着这喧嚷的景象，</span><br><span class='scene-font-katari'>碧不安地在姬塔耳边小声说道。</span>
+2,ビィ/碧,なぁ……大丈夫かな。<br>仏頂面の兄ちゃん。<br>アイツ、騒がしいの嫌いだったろ？,呐……没问题吗。<br>不高兴小哥他讨厌吵闹对吧？
+3,ルリア/露莉亚,たぶん、<br>大丈夫だと思いますよ？,我觉得大概没问题吧？
+4,ビィ/碧,でも、アイツ口癖みたいに<br>平穏と静寂を望むって<br>言ってるじゃねぇか。,但是他不是经常，<br>把渴望和平与安宁这句话挂在嘴边吗。
+5,ルリア/露莉亚,うーん、と……その言葉の意味は、<br>うるさいのや騒がしいのが<br>いやって意味じゃないと思うんです。,嗯……我觉得那句话的意思，<br>并不是讨厌吵闹和喧嚷。
+6,,<span class='scene-font-katari'>ルリアの言葉を聞いたビィは、</span><br><span class='scene-font-katari'>訝しげにユーステスの方を見る。</span>,<span class='scene-font-katari'>碧听了露莉亚的发言，</span><br><span class='scene-font-katari'>惊讶地看向尤斯缇斯那边。</span>
+7,ユーステス/尤斯缇斯,…………,…………
+8,,<span class='scene-font-katari'>ユーステスは木陰に佇み、</span><br><span class='scene-font-katari'>銃を磨きながら犬と触れ合う人々を</span><br><span class='scene-font-katari'>見守っていた。</span>,<span class='scene-font-katari'>尤斯缇斯站在树荫下，</span><br><span class='scene-font-katari'>一边擦拭着自己的枪，</span><br><span class='scene-font-katari'>一边看着和狗狗接触的人们。</span>
+9,ビィ/碧,確かに……いつもより、<br>なんか穏やかそうな感じするな。<br>……気のせいかもしれないけど。,确实……比起平时，<br>感觉他更平和了呢。<br>……可能是我的错觉吧。
+10,ルリア/露莉亚,ううん。気のせいじゃありませんよ。<br>ユーステスさん、優しいですもん。,不是的。你没感觉错哟。<br>因为尤斯缇斯很温柔啊。
+11,,<span class='scene-font-katari'>楽しげに微笑んだルリアは、</span><br><span class='scene-font-katari'>その場で屈み、近くで尻尾を</span><br><span class='scene-font-katari'>振っていた犬を撫でる。</span>,<span class='scene-font-katari'>露莉亚开心地笑着，</span><br><span class='scene-font-katari'>蹲下来摸了摸靠了过来摇着尾巴的狗狗。</span>
+12,犬,"ワンッ！ ","汪！ "
+13,ルリア/露莉亚,かわいいー……！<br>ほら、姬塔も<br>一緒に撫でようよ。,好可爱ー！<br>来吧，姬塔也一起摸摸狗狗吧。
+13-sel1_txt,,<span class='scene-font-katari'>ルリアを撫でる</span>,<span class='scene-font-katari'>摸摸露莉亚</span>
+13-sel2_txt,,<span class='scene-font-katari'>ユーステスを撫でる</span>,<span class='scene-font-katari'>摸摸尤斯缇斯</span>
+14,ルリア/露莉亚,ひぁわっ！<br>ちょ、ちょっと姬塔！<br>わ、私は撫でなくていいの！！,呀哇！<br>等，等下姬塔！<br>不用摸摸我的啦！！
+15,ルリア/露莉亚,ワンちゃん、ワンちゃん、<br>撫でてあげてくださいー！！,请，请你去摸摸狗狗ー！！
+16,ユーステス/尤斯缇斯,フッ……,呵……
+17,ルリア/露莉亚,ほらー！！　ユーステスさんに<br>笑われちゃったじゃないですかー！<br>もー！,你看ー！！这不是被尤斯缇斯笑了吗ー！<br>真是的ー！
+18,ビィ/碧,まぁまぁ、落ち着けって。<br>案外、悪い気分じゃないんだろ？,算了算了，冷静冷静。<br>感觉也不坏吧？
+19,ルリア/露莉亚,そ、それは……<br>その、そうですけど……,那，那是……<br>虽，虽然是这样……
+20,,<span class='scene-font-katari'>一行のやり取りを見て、</span><br><span class='scene-font-katari'>ユーステスは一瞬だけ、</span><br><span class='scene-font-katari'>本当に穏やかな笑みを浮かべた。</span>,<span class='scene-font-katari'>看着一行人的一举一动，</span><br><span class='scene-font-katari'>尤斯缇斯有一瞬间露出了真心的平和的微笑。</span>
+21,,<span class='scene-font-katari'>姬塔はこっそりと</span><br><span class='scene-font-katari'>手を伸ばし、ユーステスの頭を</span><br><span class='scene-font-katari'>ゆっくりと撫でた。</span>,<span class='scene-font-katari'>姬塔悄悄地伸出手，</span><br><span class='scene-font-katari'>缓缓地摸了摸尤斯缇斯的头。</span>
+22,ユーステス/尤斯缇斯,どうした……,怎么了……
+23,ユーステス/尤斯缇斯,俺は犬ではない。<br>耳は似ているかも知れないがな。,我又不是狗。<br>虽说或许耳朵很像吧。
+24,ユーステス/尤斯缇斯,犬を撫でてやれ。<br>俺より遥かに触り心地が良い。,去摸摸狗吧。<br>比摸我的头舒服多了。
+25,ビィ/碧,……急に頭を撫でた姬塔も<br>すげぇけど……仏頂面の兄ちゃんも<br>動じねぇんだな……,……虽然突然摸头的姬塔很厉害……<br>但不高兴小哥也毫不动摇呢……
+26,ルリア/露莉亚,え、なに？ 姬塔？<br>ユーステスさんの頭、<br>撫で心地が良かった……？,诶，什么？姬塔？<br>尤斯缇斯的头摸着很舒服吗……？
+27,ルリア/露莉亚,ほ、本当ですか……？<br>あ、あのユーステスさん……！<br>私も触ってみたいなー……なんて……,真，真的吗……？<br>那，那个，尤斯缇斯……！<br>我也想摸摸……
+28,ユーステス/尤斯缇斯,犬を触れ。犬を。<br>ここに何をしに来た。,去摸狗吧。摸狗。<br>你们是为什么来这里的。
+29,ルリア/露莉亚,た、確かにそうですね……<br>あはは……,说，说的也是呢……<br>啊哈哈……
+30,ルリア/露莉亚,ううう……な、なにか……<br>とても負けたような気が……,呜呜呜……总，总觉得……<br>哪里输了很多……
+31,ユーステス/尤斯缇斯,気のせいだ。,是你的错觉。
+32,,<span class='scene-font-katari'>そんなやり取りを交わすも、</span><br><span class='scene-font-katari'>ユーステスは不機嫌な様子を見せず、</span><br><span class='scene-font-katari'>穏やかに微笑んだ。</span>,<span class='scene-font-katari'>和他们玩闹着，</span><br><span class='scene-font-katari'>尤斯缇斯心情很好地平和地笑着。</span>
+33,,<span class='scene-font-katari'>穏やかに一行を見守る</span><br><span class='scene-font-katari'>ユーステスを見て、ルリアは</span><br><span class='scene-font-katari'>不思議そうに小首を傾げた。</span>,<span class='scene-font-katari'>看着平和地看着一行人的尤斯缇斯，</span><br><span class='scene-font-katari'>露莉亚一脸不可思议地歪了歪头。</span>
+34,ルリア/露莉亚,ユーステスさんは、<br>ワンちゃん撫でないんですか？,尤斯缇斯不摸摸狗狗吗？
+35,ユーステス/尤斯缇斯,…………,…………
+36,ユーステス/尤斯缇斯,止めておく。<br>お互いの為だ。,别再继续了。<br>这也是为了彼此好。
+37,ルリア/露莉亚,お互いの為……？,为了彼此好……？
+38,,<span class='scene-font-katari'>ルリアが理由を尋ねようとすると、</span><br><span class='scene-font-katari'>突然、悲鳴が上がる。</span>,<span class='scene-font-katari'>露莉亚正要追问原因，</span><br><span class='scene-font-katari'>突然听到了一声悲鸣。</span>
+39,犬好きの村人１,わ、ワンちゃんがぁ！！<br>森の方へ……！！,狗，狗狗！！<br>向着森林的方向……！！
+40,犬好きの村人２,なんだと！？<br>あの森には魔物が……！,你说什么！？<br>那森林里有魔物啊……！
+41,ルリア/露莉亚,大変です！ 姬塔！<br>は、はやくワンちゃんを、<br>助けに向かいましょう！,糟了！姬塔！<br>赶紧去帮助狗狗吧！
+42,,<span class='scene-font-katari'>姬塔は頷き、</span><br><span class='scene-font-katari'>武器を手に取って駆けだす。</span>,<span class='scene-font-katari'>姬塔点点头，把武器拿在手中跑向森林。</span>
+43,ユーステス/尤斯缇斯,……フッ。<br>お人好しだな。,……呵。<br>真是老好人啊。
+44,,<span class='scene-font-katari'>そう呟いたユーステスは、</span><br><span class='scene-font-katari'>楽しげに微笑み、駆けて行った</span><br><span class='scene-font-katari'>姬塔の後を追う。</span>,<span class='scene-font-katari'>尤斯缇斯喃喃道，</span><br><span class='scene-font-katari'>带着一脸愉悦的笑容，</span><br><span class='scene-font-katari'>去追赶先走的姬塔他们。</span>
+info,,,scene_chr227_q2_s10
+译者,,,

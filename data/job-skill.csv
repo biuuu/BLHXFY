@@ -14,6 +14,7 @@ id,ja,en,name,detail
 51,ランページII,Rampage II,加速II,自己的连续攻击概率UP(大)/防御DOWN
 462,パワーレイズ,Power Raise,力量射线,自己的暴击率UP
 6184,ブレイブソウル,Brave Soul,勇敢之魂,赋予自己浑身效果　★根据HP最大值提高性能
+200721,ウールヴヘジン,,狼皮,<div class=prt-text-small>效果中攻防UP/必定三连击/自属性追击效果/弱体效果无效/无法使用技能 <span class=text-blue>◆消耗100%奥义槽</span></div>
 30083,闘争本能,Battle Instincts,斗争本能,二连击概率UP/HP最大值UP
 30084,逆襲,Revenge Run Amok,逆袭,低概率防守反击效果（回避/1次）
 70,ファランクス,Phalanx,守护之盾,所有参战者获得全属性伤害减免（50%）
@@ -65,6 +66,7 @@ id,ja,en,name,detail
 467,チェイサー,Chaser,追猎者,赋予我方全体自属性追击效果
 1422,ブラックヘイズ,Dark Haze,黑雾,赋予敌方全体攻击DOWN/防御DOWN/毒效果/失明效果
 852,エーテルフラップ,Aether Bane,以太拍击,赋予敌人以太拍击效果
+200811,レプリケーションキャスト,,复写施法,<div class=prt-text-small>对敌方全体造成自属性伤害/我方全体的奥义槽UP（20%） <span class=text-blue>◆根据队伍中杖得意角色的数量提升性能</span></div>
 35436,魔導の達士,Arcane Master,魔导达人,技能伤害UP/聚焦的技能伤害UP/冷却时间缩短
 35437,摂理の彼方,Metaphysics,神眷之所,技能伤害上限UP
 5000,ブレイクアサシン,Crack Shot,要害痛击,自身的攻击力大幅度UP（敌人Break状态时/1次）
@@ -82,6 +84,7 @@ id,ja,en,name,detail
 716,ホワイトスモーク,White Smoke,白色烟雾,我方全体弱体效果无效（1次）/赋予幻影効果(1回)
 5020,ブレイクキープ,Extend Break,破坏维持,维持敌人BREAK状态  ★根据掉宝等级提高性能
 6009,トレジャーハントIV,Bounty Hunter IV,财宝猎手IV,<div class=prt-text-small>对敌人造成自属性伤害/敌人的物品掉落率UP(3回) <span class=text-blue>◆根据掉宝等级提高伤害性能</span></div>
+200741,楼門五三桐,,楼门五三桐,<div class=prt-text-small>赋予敌方全体强袭效果/根据掉宝等级赋予我方全体自属性追击效果（最大60%）</div>
 30087,トレジャーエイム,Eyes on the Prize,寻宝之眼,宝藏猎手成功概率UP/根据掉宝LV攻击力UP/金币获得量UP
 1200,ディレイ,Stall,指针倒退,对敌人造成自属性伤害/赋予SLOW效果
 200,エレメンタルフォース,Elemental Focus,元素之力,所有参战者的技能伤害UP（小）
@@ -132,6 +135,7 @@ id,ja,en,name,detail
 3570,ジャミング,Frequency Jam,干扰,我方全体的回避率UP/暴击率UP
 1148,トワイライトゾーン,Twilight Zone,暮光领域,赋予场地暮光领域效果
 1530,スタディエイム,Steady Aim,稳定瞄准,赋予敌人稳定瞄准效果/奥义槽UP
+200761,タイム・オン・ターゲット,,午时已到,<div class=prt-text-small>对敌人造成自属性伤害/随机赋予弱体效果 <span class=text-blue>◆根据队伍内弓、铳得意角色的数量增加发动次数</span></div>
 35705,闇夜の狩人,Night Hunter,暗夜猎手,对弱体状态的敌人攻击力UP/弱体效果[失明]无效
 3090,オーヴァチュア,Overture,序曲,我方全体的回复性能UP　★装备乐器时性能UP
 1701,チャームボイス,Angelic Voice,诱惑之音,赋予敌人魅惑效果　★装备乐器时性能UP
@@ -148,6 +152,7 @@ id,ja,en,name,detail
 3327,ソング・トゥ・ザ・デッド,Dirge for the Dead,死亡之歌,敌方全体的防御DOWN/自属性防御DOWN
 3334,解放の歌声,Voice Unveiled,解放的歌声,赋予我方全体死之祝福/活性效果
 3335,コール・オブ・アビス,Call of the Abyss,深渊呼唤,<div class=prt-text-small>我方全体的连续攻击率UP/奥义槽上升量DOWN　★乐器装备时性能UP</div>
+200791,オラトリオ,,清唱剧,赋予乐器得意角色连续攻击几率UP效果/自属性追击效果
 30100,ミステリオーソ,Misterioso,神秘奇袭,受到敌人OVER DRIVE时的伤害减少/我方全体对弱点属性的对象的弱化成功率UP
 30101,アパッショナート,Appassionato,齐奏,<div class=prt-text-small>调停之歌的二连击概率UP<br>使用终曲时根据参战者的人数我方全体攻击力UP防御力UP</div>
 4300,リードドライブ,Drive It In,过载引导,<div class=prt-text-small>对敌人造成自属性伤害<br><span class=text-blue>枪：维持Break状态<br>斧：减少OD条</span></div>
@@ -166,6 +171,7 @@ id,ja,en,name,detail
 9532,水鳥の歌詠,Swan Song,水鸟的歌咏,<div class=prt-text-small>所有参战者的奥义槽上升量UP<br><span class=text-blue>枪：所有参战者的暴击率UP<br>斧：赋予我方全体HP吸收效果/弱体成功率UP</span></div>
 200111,曼珠沙華,Crestfallen Flower,曼珠沙華,<div class=prt-text-small>自己的弱体耐性UP<br><span class=text-blue>枪：赋予我方全体浑身效果<br>斧：赋予我方全体逆境效果</span></div>
 5061,ランドグリース,Randgrith,碎盾者,降低敌人的防御
+200801,霹靂閃電,,霹雳闪电,<div class=prt-text-small>枪得意角色必定三连击/斧得意角色通常攻击造成的伤害UP</div>
 30097,水の中で動くもの、雲の海に生きるもの,"Swim Like a Bird, Fly Like a Fish",游于水中，翱翔云海,攻击力UP/防御力UP<br>枪装备时连续攻击概率UP<br>斧装备时在单次攻击时追加自属性伤害
 200481,アナザーブレード,Blade Swap,另一把武器,<div class=prt-text-small>效果中，奥义变化为双持武器的奥义/奥义伤害UP(1次)<br><span class=text-blue>◆仅装备双持武器时可以使用</span></div>
 200491,ツインサーキュラー,Twin Coil,双剑闪,对敌方全体造成2次自属性伤害
@@ -241,7 +247,7 @@ id,ja,en,name,detail
 30222,一人軍隊,One-Person Army,一人军队,根据经过的回合数，攻击UP/回避率UP
 7231,天眼陣,Omnipotent Eye,天眼阵,<div class=prt-text-small>我方全体的状态大幅度UP/再次使用解除<br><span class=text-blue>◆◆每回合消费3MP/自己的通常攻击单体化<br>◆再次使用或者MP为0后解除状态，自己弱体化</span></div>
 7300,宿命陣,Fate Foreseen,宿命阵,<div class=prt-text-small>自己的奥义槽转换为MP<span class=text-blue><br>◆奥义槽变为0</span></div>
-7233,他心陣,Splitting Spirit,他心阵,<div class=prt-text-small>将自己的HP转换为奥义槽<span class=text-blue><br>◆HP变为当前的一半</span></div>
+7233,他心陣,Splitting Spirit,他心阵,<div class=prt-text-small>将自己的HP转换为奥义槽<span class=text-blue><br>◆最多消耗当前一半的HP</span></div>
 30059,神足陣,New Vision,神足阵,<div class=prt-text-small>通常攻击变为全体攻击（天眼阵状态下仍为单体化）/使用奥义时消费所有MP伤害UP</div>
 30068,開明,Enlightenment,开明,<div class=prt-text-small>每回合恢复1点MP<br><span class=text-blue>◆不会从因MP归0而使天眼阵解除后的状态下降中恢复</span></div>
 200051,ブラックチャーム,Cat's Meow,黑猫阵,<div class=prt-text-small>我方全体的状态大幅度UP/再次使用解除 <br><span class=text-blue>◆每回合消费3点MP/再次使用或者MP为0状态解除时自己进入状态下降3回合</span></div>
@@ -287,3 +293,14 @@ id,ja,en,name,detail
 200181,アクチュエーション,Actuation,驱动,<div class=prt-text-small>机械同伴启动时、自己的HP变换为能量<br><span class=text-blue>◆HP变为现在的一半</span></div>
 30122,コンパニオン,Companion,伙伴机器人,启动状态时根据AI模块进行特定的行动<span class=text-blue>◆回合开始时能量点数不足的场合关闭</span>
 30123,コンバータ,Converter,转换器,奥义发动时，伙伴机器人在启动状态则追加2点能量点数
+200831,木こりのうた,,樵夫之歌,<div class=prt-text-small>赋予自己樵夫之歌效果 <span class=text-blue>◆效果中满足各种条件后森林伙伴会出现支援</span></div>
+200851,大伐断,,大伐断,<div class=prt-text-small>对敌人造成自属性伤害/自己的暴击几率UP <span class=text-blue>◆2次发动追加会心效果/3次发动追加伤害上限UP效果</span></div>
+200861,落葉焚き,,焚尽落叶,<div class=prt-text-small>赋予自己焚尽落叶效果/护盾效果 <span class=text-blue>◆焚尽落叶效果中，我方全体每回合攻防UP（累积）/高扬效果/护盾解除时解除焚尽落叶效果</span></div>
+200871,安らぎの木もれ日,,洒落叶间的和煦阳光,<div class=prt-text-small>回复我方全体HP <span class=text-blue>◆2次发动追加回复1个弱体效果/3次发动追加弱体伤害无效</span></div>
+38117,森と共に歩むもの,,林中漫步,随着回合经过提升自己的能力
+200881,ホースマンズデューティ,,骑士的职责,<div class=prt-text-small>赋予我方全体自属性追击效果 <br><span class=text-blue>枪：赋予自己格挡效果/敌对心大幅UP<br>铳：赋予自己受伤无效效果（1次）/敌对心大幅DOWN<span></div>
+200891,ドラグラクト,,拖拽,<div class=prt-text-small>无视目标造成5次自属性伤害<br> <span class=text-blue>◆枪：回复自身HP<br>铳：自己的奥义连携性能UP（累积）<span></div>
+200901,バタリング・ラム,,攻城锤,<div class=prt-text-small>对敌人造成自属性伤害 <span class=text-blue>枪：驱散敌人的1个强化效果  铳：赋予敌人slow效果 ◆人马一体LV3时发动2次<span></div>
+200911,ハイ・コマンド,,至高指令,<div class=prt-text-small>赋予自己崇高使命效果 <span class=text-blue>枪：增加重骑士的勋章的反击次数（2次）/全力反击<br>铳：我方全体的连续攻击几率UP<span></div>
+38128,重騎兵の勲,,重骑士的勋章,<div class=prt-text-small>装备枪时奥义槽积攒速度降低，受伤反击（2次）/被作为目标时人马一体LV上升1（最大3）<span class=text-blue>◆根据人马一体LV，防御UP/敌对心UP<span></div>
+38133,竜騎兵の勲,,龙骑士的勋章,<div class=prt-text-small>装备铳时减少15%最大HP/自己的剩余HP越多，我方全体的攻击力大幅UP/未受到伤害时人马一体LV上升1（最大3）<span class=text-blue>◆根据人马一体LV，连续攻击几率UP/敌对心DOWN<span></div>
