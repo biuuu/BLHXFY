@@ -1,6 +1,6 @@
 id,name,text,trans
 0-chapter_name,,"You and Me, No Matter What",你和我的羁绊
-0-synopsis,,"The hikers are rescued, but Vane and Lancelot fall into the rushing river below. Vane pulls them both to safety onto a riverbank and they realize that Lancelot's leg is injured. Vane manages to start a small fire, but monsters close in on their camp.",登山者们被拯救了，但是维恩和兰斯洛特落入了湍急的河流中，维恩把兰斯洛特拉到了河边发现兰斯洛特的腿受伤了。维恩设法生乐活，但是魔物已经逼近了他们。
+0-synopsis,,"The hikers are rescued, but Vane and Lancelot fall into the rushing river below. Vane pulls them both to safety onto a riverbank and they realize that Lancelot's leg is injured. Vane manages to start a small fire, but monsters close in on their camp.",登山者们被拯救了，但是维恩和兰斯洛特落入了湍急的河流中，维恩把兰斯洛特拉到了河边发现兰斯洛特的腿受伤了。维恩设法生了火，但是魔物已经逼近了他们。
 0,,The group manages to drive away the monsters and rescue the man and woman.,大家赶走了魔物救出了两人。
 1,Lancelot/兰斯洛特,Whew. That's the last of them. Nothing more to worry about. You're safe now.,呼，全解决干净了，现在不用再担心了哦。
 2,Frightened Woman,Th-thank you!,谢，真是谢谢你们！
@@ -9,7 +9,7 @@ id,name,text,trans
 6,,"When Vane and Lancelot approach them, the ground under the man and woman suddenly gives way.",当维恩和兰斯洛特接近他们的时候，他们脚下的石块突然崩塌了。
 7,Lancelot/兰斯洛特,Wha!,啊！
 8,Vane/维恩,No!,不好！
-9,,With lightning reflexes Vane and Lancelot lunge forward to save them.,维恩和兰斯洛特以闪电般的速度去营救它们。
+9,,With lightning reflexes Vane and Lancelot lunge forward to save them.,维恩和兰斯洛特以闪电般的速度去营救他们。
 11,Vane/维恩,Ngh!,呃！噢啦！
 14,Lancelot/兰斯洛特,Rgh!,呃！呃啊！
 16,,"Vane and Lancelot grab hold of each of the civilians and thrust them to safety, switching places with them.",维恩和兰斯洛特分别抓住了一个受害人并将他们拉到了安全的位置，同时也把自己置于危险的境地。
@@ -68,7 +68,7 @@ id,name,text,trans
 94,Vane/维恩,Whew. Guess we can breathe easy for now!,这样下去就暂时安心了呐。
 95,Vane/维恩,...!,……！
 96,Lancelot/兰斯洛特,Wait... I hear monsters nearby.,维恩，附近有魔物的气息。
-99,Vane/维恩,Damn it! There's nowhere for us to hide! I'll have to take them on alone. Stay here!,可恶，没有躲藏的地方了！魔物就由我一个人来打到，兰酱在这里好好等着。
+99,Vane/维恩,Damn it! There's nowhere for us to hide! I'll have to take them on alone. Stay here!,可恶，没有躲藏的地方了！魔物就由我一个人来打倒，兰酱在这里好好等着。
 100,Lancelot/兰斯洛特,That's madness! It's too dangerous by yourself!,说什么蠢话！你一个人很危险的！
 101,Vane/维恩,B-but you're—,但，但是……
 102,Lancelot/兰斯洛特,I'm fine! Don't worry about me—I know my limits.,没问题，我自己的身体状况，我自己最了解不过了。
