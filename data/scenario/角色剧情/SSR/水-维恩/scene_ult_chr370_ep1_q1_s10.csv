@@ -1,92 +1,92 @@
 id,name,text,trans
 0-chapter_name,,ヒロイックビート,英雄的心跳
 0-synopsis,,ある日ヴェインは、白竜騎士団の団員達が「ヴェイン副団長は人のおこぼれに預かって今の地位を獲得した」と噂しているのを偶然聞いてしまう。自身の実力不足に落ち込むヴェイン。そこに、姬塔達が遊びにやって来る。ヴェインから話を聞いた姬塔達はヴェインのために何か出来ないかと考え、思いついた姬塔が部屋を飛び出していくのだった。,一天，维恩偶然听到白龙骑士团团员间传言“维恩副团长是拾人余惠才获得了如今的地位”，因自身的实力不足而感到失落。这时，姬塔几人前来拜访，听维恩说了前因后果的几人开始思考能为维恩做些什么，姬塔灵机一动，冲出了房间。
-1,,<span class='scene-font-katari'>ある日のフェードラッヘ城内。</span><br><span class='scene-font-katari'>ランスロットが所用で外出している間、</span><br><span class='scene-font-katari'>代わりにヴェインが城を預かっていた。</span>,一天，在费德拉赫城内。兰斯洛特有事外出，维恩便替他看守着城堡。
-2,ヴェイン/维恩,ランちゃんが戻ってくるまでに<br>仕事を片付けておかないとな～,得在兰酱回来之前把工作处理掉才行啊～
+1,,<span class='scene-font-katari'>ある日のフェードラッヘ城内。</span><br><span class='scene-font-katari'>ランスロットが所用で外出している間、</span><br><span class='scene-font-katari'>代わりにヴェインが城を預かっていた。</span>,<span class='scene-font-katari'>一天，在费德拉赫城内。</span><br><span class='scene-font-katari'>兰斯洛特有事外出，</span><br><span class='scene-font-katari'>维恩便替他看守着城堡。</span>
+2,ヴェイン/维恩,ランちゃんが戻ってくるまでに<br>仕事を片付けておかないとな～,得在兰酱回来之前<br>把工作处理掉才行啊～
 3,ヴェイン/维恩,……ん？,……嗯？
-4,,<span class='scene-font-katari'>廊下を歩いていたヴェインは、</span><br><span class='scene-font-katari'>床が汚れていることに気づく。</span>,维恩注意到走廊上的地板有些污渍。
-5,ヴェイン/维恩,ここの当番は誰だったっけ……<br>まぁいいや、自分で掃除するか！,这里的值班是谁来着……嘛算了，我自己打扫掉吧！
-6,ヴェイン/维恩,確かその辺に掃除道具が<br>あったはずだよな……,我记得这附近应该有打扫工具的吧……
-7,,<span class='scene-font-katari'>近くの部屋の物置から掃除道具を</span><br><span class='scene-font-katari'>引っ張り出してきたヴェインは、</span><br><span class='scene-font-katari'>黙々と床掃除を始めるのだった。</span>,维恩从附近的库房里拉出打扫工具，默不作声地开始清扫地板。
-8,ヴェイン/维恩,ふんふんふ～ん♪<br>ゆかゆかゆかゆか磨き～♪<br>もっとキレイにな～れ～♪,哼哼哼～♪地板地板地板擦地板～♪变得更干净～吧～♪
-9,,<span class='scene-font-katari'>ヴェインが掃除に熱中していると、</span><br><span class='scene-font-katari'>廊下の曲がり角の先から</span><br><span class='scene-font-katari'>団員達の話し声が聞こえてきた。</span>,沉迷于打扫的维恩听见从走廊转角处传来了团员们的说话声。
-10,白竜騎士団団員１,知ってるか、ヴェイン副団長って<br>ランスロット団長と幼なじみだって。,你知道吗，维恩副团长他据说是兰斯洛特团长的青梅竹马啊。
-11,白竜騎士団団員２,知ってる知ってる！<br>実はさ、団長と幼なじみだから<br>副団長になれたって噂らしいぜ？,知道知道！传言说，就是因为是团长的幼驯染，他才当上了副团长的哦？
-12,白竜騎士団団員１,えっ……副団長になったのって、<br>過去に王都で起きた事件を解決して<br>評価されたからじゃないの？,诶……他不是因为解决了过去发生在王都的事件，受到了赞赏才当上副团长的吗？
-13,白竜騎士団団員２,あぁ～それなんだけど……<br>その事件ってヤツも、<br>色々噂があってさ。,啊啊～关于那件事啊……那个事件也有各种传闻啦。
-14,白竜騎士団団員２,黒竜騎士団団長のジークフリートと<br>副団長のパーシヴァルとかが<br>その場にいたおかげらしいとか？,比如说是多亏黑龙骑士团团长的齐格飞和副团长帕西瓦尔在场之类的？
-15,白竜騎士団団員１,……あ、聞いたことあるぞ！<br>なんか凄腕の騎空団も一緒にいて<br>ヴェイン副団長はそのおこぼれに……,……啊，我有听说过！好像也有厉害的骑空团在场，而维恩副团长就是捡了那个好处……
-16,ヴェイン/维恩,<span class='scene-font-4'>ゴホッゴホッ……ウオッホン！</span>,咳咳……咳！
-17,ふたり/两人,<span class='scene-font-4'>うわっ！</span>,呜哇！
-18,,<span class='scene-font-katari'>突然聞こえてきた咳払いに、</span><br><span class='scene-font-katari'>恐る恐る廊下の曲がり角の</span><br><span class='scene-font-katari'>先をのぞき込む団員達。</span>,突然听见咳嗽声的团员们战战兢兢地看向走廊转角后。
-19,ヴェイン/维恩,<span class='scene-font-4'>ハッ……ハックション……！</span>,啊……啊嚏……！
-20,ヴェイン/维恩,うわーなんか風邪ひいたかも！<br>ん？　あれ？　お前たち何してるんだ？,呜哇ー我搞不好感冒了啊！嗯？咦？你们在做什么？
+4,,<span class='scene-font-katari'>廊下を歩いていたヴェインは、</span><br><span class='scene-font-katari'>床が汚れていることに気づく。</span>,<span class='scene-font-katari'>维恩注意到走廊上的地板<br>有些污渍。</span>
+5,ヴェイン/维恩,ここの当番は誰だったっけ……<br>まぁいいや、自分で掃除するか！,这里的值班是谁来着……<br>嘛算了，我自己打扫掉吧！
+6,ヴェイン/维恩,確かその辺に掃除道具が<br>あったはずだよな……,我记得这附近应该<br>有打扫工具的吧……
+7,,<span class='scene-font-katari'>近くの部屋の物置から掃除道具を</span><br><span class='scene-font-katari'>引っ張り出してきたヴェインは、</span><br><span class='scene-font-katari'>黙々と床掃除を始めるのだった。</span>,<span class='scene-font-katari'>从附近的库房里拉出打扫工具，</span><br><span class='scene-font-katari'>维恩默不作声地开始清扫地板。</span>
+8,ヴェイン/维恩,ふんふんふ～ん♪<br>ゆかゆかゆかゆか磨き～♪<br>もっとキレイにな～れ～♪,哼哼哼～♪<br>地板地板地板擦地板～♪<br>变得更干净～吧～♪
+9,,<span class='scene-font-katari'>ヴェインが掃除に熱中していると、</span><br><span class='scene-font-katari'>廊下の曲がり角の先から</span><br><span class='scene-font-katari'>団員達の話し声が聞こえてきた。</span>,<span class='scene-font-katari'>沉迷于打扫的维恩听见</span><br><span class='scene-font-katari'>从走廊转角处传来了</span><br><span class='scene-font-katari'>团员们的说话声。</span>
+10,白竜騎士団団員１,知ってるか、ヴェイン副団長って<br>ランスロット団長と幼なじみだって。,你知道吗，维恩副团长他据说是<br>兰斯洛特团长的幼驯染啊。
+11,白竜騎士団団員２,知ってる知ってる！<br>実はさ、団長と幼なじみだから<br>副団長になれたって噂らしいぜ？,知道知道！<br>传言说，就是因为是团长的幼驯染，<br>他才当上了副团长的哦？
+12,白竜騎士団団員１,えっ……副団長になったのって、<br>過去に王都で起きた事件を解決して<br>評価されたからじゃないの？,诶……他不是因为解决了过去<br>发生在王都的事件，受到了赞赏<br>才当上副团长的吗？
+13,白竜騎士団団員２,あぁ～それなんだけど……<br>その事件ってヤツも、<br>色々噂があってさ。,啊啊～关于那件事啊……<br>那个事件也有各种传闻啦。
+14,白竜騎士団団員２,黒竜騎士団団長のジークフリートと<br>副団長のパーシヴァルとかが<br>その場にいたおかげらしいとか？,比如说<br>是多亏黑龙骑士团团长的齐格飞<br>和副团长帕西瓦尔在场之类的？
+15,白竜騎士団団員１,……あ、聞いたことあるぞ！<br>なんか凄腕の騎空団も一緒にいて<br>ヴェイン副団長はそのおこぼれに……,……啊，我有听说过！<br>好像也有厉害的骑空团在场，<br>维恩副团长就是捡了个好处……
+16,ヴェイン/维恩,<span class='scene-font-4'>ゴホッゴホッ……ウオッホン！</span>,<span class='scene-font-4'>咳咳……咳！</span>
+17,ふたり/两人,<span class='scene-font-4'>うわっ！</span>,<span class='scene-font-4'>呜哇！</span>
+18,,<span class='scene-font-katari'>突然聞こえてきた咳払いに、</span><br><span class='scene-font-katari'>恐る恐る廊下の曲がり角の</span><br><span class='scene-font-katari'>先をのぞき込む団員達。</span>,<span class='scene-font-katari'>突然听见咳嗽声的团员们</span><br><span class='scene-font-katari'>战战兢兢地看向走廊转角后。</span>
+19,ヴェイン/维恩,<span class='scene-font-4'>ハッ……ハックション……！</span>,<span class='scene-font-4'>啊……啊嚏……！</span>
+20,ヴェイン/维恩,うわーなんか風邪ひいたかも！<br>ん？　あれ？　お前たち何してるんだ？,呜哇ー我搞不好感冒了啊！<br>嗯？咦？你们在做什么？
 22,白竜騎士団団員１,あ、いえ……その……,啊、不……那个……
-23,白竜騎士団団員２,ヴェイン副団長こそ……<br>ここで何してるんですか？,维恩副团长才是……在这里做什么呢？
-24,ヴェイン/维恩,俺はほら……<br>見りゃ分かるだろ！<br>掃除だよ掃除！,我啊，看了就知道了吧！我在打扫呢，打扫！
-25,ヴェイン/维恩,あまりにも掃除に集中しすぎて<br>周りの音が何も聞こえなかったぜ！,太专注打扫了，周围有什么声音都没听见呢！
-26,ヴェイン/维恩,いやーすごい体験だったな～！<br>クリーニングハイってヤツか！<br>わはははははっ！,哎呀ー真是了不得的体验啊～！这就是扫嗨了吗！哇哈哈哈哈哈！
+23,白竜騎士団団員２,ヴェイン副団長こそ……<br>ここで何してるんですか？,维恩副团长才是……<br>在这里做什么呢？
+24,ヴェイン/维恩,俺はほら……<br>見りゃ分かるだろ！<br>掃除だよ掃除！,我啊，看了就知道了吧！<br>我在打扫呢，打扫！
+25,ヴェイン/维恩,あまりにも掃除に集中しすぎて<br>周りの音が何も聞こえなかったぜ！,太专注打扫了，<br>周围有什么声音都没听见呢！
+26,ヴェイン/维恩,いやーすごい体験だったな～！<br>クリーニングハイってヤツか！<br>わはははははっ！,哎呀ー真是了不得的体验啊～！<br>这就是扫嗨了吗！<br>哇哈哈哈哈哈！
 27,白竜騎士団団員１,ヴェイン副団長……,维恩副团长……
 28,白竜騎士団団員２,俺たち……その……,我们……那个……
-29,ヴェイン/维恩,あれ？<br>俺なんか熱っぽいかも……？,咦？我人好像有点热……？
-30,ヴェイン/维恩,ごめん！　ちょっと薬飲みたいから、<br>ホントに悪いんだけど……<br>ここの片付けを任せてもいいか？,抱歉！我想去喝点药，真的很对不住你们……不过能拜托你们收拾一下这里吗？
+29,ヴェイン/维恩,あれ？<br>俺なんか熱っぽいかも……？,咦？<br>我人好像有点热……？
+30,ヴェイン/维恩,ごめん！　ちょっと薬飲みたいから、<br>ホントに悪いんだけど……<br>ここの片付けを任せてもいいか？,抱歉！我想去喝点药，<br>真的很对不住你们……<br>不过能拜托你们收拾一下这里吗？
 31,白竜騎士団団員１,片付け……？,收拾……？
 32,白竜騎士団団員２,もっ……もちろんです！,当……当然了！
-33,ヴェイン/维恩,ありがとな～！<br>それじゃ俺はこれで……！,谢谢啊～！那我就先走啦……！
+33,ヴェイン/维恩,ありがとな～！<br>それじゃ俺はこれで……！,谢谢啊～！<br>那我就先走啦……！
 34,ヴェイン/维恩,いや～ホント助かった～！,哎呀～真的帮大忙了～！
-35,ヴェイン/维恩,あれ……？　おいおい嘘だろ！<br>なんか節々も痛くなってきたぜ！<br>こりゃ本格的に風邪かな～！,咦……？喂喂不是吧！怎么感觉关节也开始痛了！搞不好是真的感冒了啊～！
-36,,<span class='scene-font-katari'>ぶつぶつと独り言を呟きながら、</span><br><span class='scene-font-katari'>その場を去って行くヴェイン。</span>,一边不断嘀咕着自言自语，维恩一边离开了那里。
-37,白竜騎士団団員１,俺たちの話、<br>聞かれてたよな……？,我们说的话，被他听到了吧……？
-38,白竜騎士団団員２,あの白々しい演技……<br>絶対聞かれてるだろ……,那一目了然的演技……绝对被听到了啊……
-43,,<span class='scene-font-katari'>団員達と別れたヴェインは、</span><br><span class='scene-font-katari'>自室に戻って椅子に腰掛ける。</span>,与团员们分开后，维恩回到了自己的房间里，坐回了椅子上。
+35,ヴェイン/维恩,あれ……？　おいおい嘘だろ！<br>なんか節々も痛くなってきたぜ！<br>こりゃ本格的に風邪かな～！,咦……？喂喂不是吧！<br>怎么感觉关节也开始痛了！<br>搞不好是真的感冒了啊～！
+36,,<span class='scene-font-katari'>ぶつぶつと独り言を呟きながら、</span><br><span class='scene-font-katari'>その場を去って行くヴェイン。</span>,<span class='scene-font-katari'>一边不断嘀咕着自言自语，</span><br><span class='scene-font-katari'>维恩一边离开了那里。</span>
+37,白竜騎士団団員１,俺たちの話、<br>聞かれてたよな……？,我们说的话，<br>被他听到了吧……？
+38,白竜騎士団団員２,あの白々しい演技……<br>絶対聞かれてるだろ……,那一目了然的演技……<br>绝对被听到了啊……
+43,,<span class='scene-font-katari'>団員達と別れたヴェインは、</span><br><span class='scene-font-katari'>自室に戻って椅子に腰掛ける。</span>,<span class='scene-font-katari'>与团员们分开后，</span><br><span class='scene-font-katari'>维恩回到了自己的房间里，</span><br><span class='scene-font-katari'>坐回了椅子上。</span>
 44,ヴェイン/维恩,はぁ……,哈啊……
-45,,<span class='scene-font-katari'>副団長に与えられた部屋を</span><br><span class='scene-font-katari'>見渡しながら、ヴェインは</span><br><span class='scene-font-katari'>深いため息をついた。</span>,环视着分配给副团长的房间，维恩深深叹了口气。
-46,ヴェイン/维恩,<span class='scene-font-kokoro'>（今まで副団長になった嬉しさと</span><br><span class='scene-font-kokoro'>責任感でがむしゃらに</span><br><span class='scene-font-kokoro'>頑張ってきたつもりだけど）</span>,（我本来觉得过去都是靠着成为副团长的喜悦和责任感埋头努力到现在的）
-47,ヴェイン/维恩,<span class='scene-font-kokoro'>（よく考えたら……俺って</span><br><span class='scene-font-kokoro'>いつもみんなと一緒にいただけで</span><br><span class='scene-font-kokoro'>別に大したことしてないよな？）</span>,（仔细想想……我一直都只是和大家在一起，也没做什么了不得的事啊？）
-48,ヴェイン/维恩,<span class='scene-font-kokoro'>（昔と比べて、少しは成長できたと</span><br><span class='scene-font-kokoro'>思ってたんだけど……）</span>,（本来以为和以前相比稍微也有些成长了……）
-49,ヴェイン/维恩,<span class='scene-font-kokoro'>（俺って、</span><br><span class='scene-font-kokoro'>副団長の器じゃないのかな？）</span>,（我会不会不是做副团长的料啊？）
-50,ヴェイン/维恩,<span class='scene-font-kokoro'>（ランスロットの評判まで</span><br><span class='scene-font-kokoro'>下げるぐらいなら、</span><br><span class='scene-font-kokoro'>いっそのこと別の誰かに……）</span>,（要是连带着会让兰斯洛特的风评受影响，干脆让别的人来……）
-51,,<span class='scene-font-katari'>ヴェインがひとり悶々と悩んでいると</span><br><span class='scene-font-katari'>突然、扉がノックされるのだった。</span>,在维恩一个人默默烦恼的时候，突然，有人敲响了房门。
-52,ヴェイン/维恩,<span class='scene-font-4'>はっ……はいっ！</span>,啊……我在！
-53,ルリアの声/露莉亚的声音,ヴェインさん！<br>ルリアです！,维恩先生！我是露莉亚！
-54,ルリアの声/露莉亚的声音,近くに寄ったので<br>遊びにきちゃいました～！,我们正好来这附近，就来找你玩了～！
-55,ビィの声/碧的声音,おう！　突然悪ぃな！<br>ちょっと入ってもいいか？,哦哦！突然过来抱歉啦！我们能进来吗？
-56,ヴェイン/维恩,あ、ああ！　<br>なんだ姬塔たちか！,啊、啊啊！什么啊，是团长你们吗！
-57,ヴェイン/维恩,いいぞ～！<br>遠慮無く入ってくれ！,可以哦～！不用客气进来吧！
-63,,<span class='scene-font-katari'>ヴェインの部屋に入った</span><br><span class='scene-font-katari'>姬塔達は、早速</span><br><span class='scene-font-katari'>お茶とお茶菓子でもてなされる。</span>,姬塔几人一进到房间里，维恩就端来茶与茶点招待她们。
-64,ルリア/露莉亚,わぁ～<br>このお茶、甘い香りがして<br>美味しいです～！,哇啊～茶有股甜甜的味道，很好喝～！
-65,ヴェイン/维恩,あ、ああ……それは自分で<br>花とフルーツを調合してみた<br>オリジナルブレンドティーなんだ。,啊、啊啊……这是我自己用花和水果调合制作的原创混合茶。
-66,ルリア/露莉亚,さすがヴェインさん！<br>お茶屋さんにもなれますね～！,不愧是维恩先生！都可以开茶店了呢～！
+45,,<span class='scene-font-katari'>副団長に与えられた部屋を</span><br><span class='scene-font-katari'>見渡しながら、ヴェインは</span><br><span class='scene-font-katari'>深いため息をついた。</span>,<span class='scene-font-katari'>环视着分配给副团长的房间，</span><br><span class='scene-font-katari'>维恩深深叹了口气。</span>
+46,ヴェイン/维恩,<span class='scene-font-kokoro'>（今まで副団長になった嬉しさと</span><br><span class='scene-font-kokoro'>責任感でがむしゃらに</span><br><span class='scene-font-kokoro'>頑張ってきたつもりだけど）</span>,<span class='scene-font-kokoro'>（我本来觉得过去都是靠着</span><br><span class='scene-font-kokoro'>成为副团长的喜悦和责任感</span><br><span class='scene-font-kokoro'>埋头努力到现在的）</span>
+47,ヴェイン/维恩,<span class='scene-font-kokoro'>（よく考えたら……俺って</span><br><span class='scene-font-kokoro'>いつもみんなと一緒にいただけで</span><br><span class='scene-font-kokoro'>別に大したことしてないよな？）</span>,<span class='scene-font-kokoro'>（仔细想想……</span><br><span class='scene-font-kokoro'>我一直都只是和大家在一起，</span><br><span class='scene-font-kokoro'>也没做什么了不得的事啊？）</span>
+48,ヴェイン/维恩,<span class='scene-font-kokoro'>（昔と比べて、少しは成長できたと</span><br><span class='scene-font-kokoro'>思ってたんだけど……）</span>,<span class='scene-font-kokoro'>（本来以为和以前相比</span><br><span class='scene-font-katari'>稍微也有些成长了……）</span>
+49,ヴェイン/维恩,<span class='scene-font-kokoro'>（俺って、</span><br><span class='scene-font-kokoro'>副団長の器じゃないのかな？）</span>,<span class='scene-font-kokoro'>（我会不会</span><br><span class='scene-font-katari'>不是做副团长的料啊？）</span>
+50,ヴェイン/维恩,<span class='scene-font-kokoro'>（ランスロットの評判まで</span><br><span class='scene-font-kokoro'>下げるぐらいなら、</span><br><span class='scene-font-kokoro'>いっそのこと別の誰かに……）</span>,<span class='scene-font-kokoro'>（要是连带着会让</span><br><span class='scene-font-katari'>兰斯洛特的风评受影响，</span><br><span class='scene-font-katari'>干脆让别的人来……）</span>
+51,,<span class='scene-font-katari'>ヴェインがひとり悶々と悩んでいると</span><br><span class='scene-font-katari'>突然、扉がノックされるのだった。</span>,<span class='scene-font-katari'>在维恩一个人默默烦恼的时候，</span><br><span class='scene-font-katari'>突然，有人敲响了房门。</span>
+52,ヴェイン/维恩,<span class='scene-font-4'>はっ……はいっ！</span>,<span class='scene-font-4'>啊……我在！</span>
+53,ルリアの声/露莉亚的声音,ヴェインさん！<br>ルリアです！,维恩先生！<br>我是露莉亚！
+54,ルリアの声/露莉亚的声音,近くに寄ったので<br>遊びにきちゃいました～！,我们正好来这附近，<br>就来找你玩了～！
+55,ビィの声/碧的声音,おう！　突然悪ぃな！<br>ちょっと入ってもいいか？,哦哦！突然过来抱歉啦！<br>我们能进来吗？
+56,ヴェイン/维恩,あ、ああ！　<br>なんだ姬塔たちか！,啊、啊啊！<br>什么啊，是团长你们吗！
+57,ヴェイン/维恩,いいぞ～！<br>遠慮無く入ってくれ！,可以哦～！<br>不用客气进来吧！
+63,,<span class='scene-font-katari'>ヴェインの部屋に入った</span><br><span class='scene-font-katari'>姬塔達は、早速</span><br><span class='scene-font-katari'>お茶とお茶菓子でもてなされる。</span>,<span class='scene-font-katari'>姬塔几人一进到房间里，</span><br><span class='scene-font-katari'>维恩就端来茶与茶点招待她们。</span>
+64,ルリア/露莉亚,わぁ～<br>このお茶、甘い香りがして<br>美味しいです～！,哇啊～茶有股甜甜的味道，<br>很好喝～！
+65,ヴェイン/维恩,あ、ああ……それは自分で<br>花とフルーツを調合してみた<br>オリジナルブレンドティーなんだ。,啊、啊啊……<br>这是我自己用花和水果<br>调合制作的原创混合茶。
+66,ルリア/露莉亚,さすがヴェインさん！<br>お茶屋さんにもなれますね～！,不愧是维恩先生！<br>都可以开茶店了呢～！
 67,ヴェイン/维恩,はは……ありがとう。,哈哈……谢谢。
-68,ビィ/碧,うへぇ～<br>このお菓子もめちゃくちゃウンめぇな！,唔嘿～这个点心也超级好吃啊！
-69,ヴェイン/维恩,ああ……それはこの間、<br>お菓子作りの参考にしようと思ってさ。,啊啊……那个是我前阵子去出名的点心店买的。
-70,ヴェイン/维恩,焼き菓子で有名な店から<br>取り寄せてみたんだ。,想拿来做点心的参考的。
-71,ビィ/碧,へぇ～！<br>相変わらず、趣味にしとくのが<br>もったいないぐらい専門的だよな～！,嘿诶～！你还是一如既往，专业到只当作兴趣都有点可惜了啊～！
-72,ビィ/碧,これを参考にしたお菓子が出来たら<br>ぜひオイラに食べさせてくれよな！,参考这个做的点心要是做好了可一定要让咱尝尝啊！
-73,ルリア/露莉亚,あっ！<br>私にも食べさせて下さい～！,啊！也请让我吃吃看～！
+68,ビィ/碧,うへぇ～<br>このお菓子もめちゃくちゃウンめぇな！,唔嘿～<br>这个点心也超级好吃啊！
+69,ヴェイン/维恩,ああ……それはこの間、<br>お菓子作りの参考にしようと思ってさ。,啊啊……那个是我前阵子<br>去出名的点心店买的。
+70,ヴェイン/维恩,焼き菓子で有名な店から<br>取り寄せてみたんだ。,想拿来做点心的参考。
+71,ビィ/碧,へぇ～！<br>相変わらず、趣味にしとくのが<br>もったいないぐらい専門的だよな～！,嘿诶～！<br>你还是一如既往，专业到<br>只当作兴趣都有点可惜了啊～！
+72,ビィ/碧,これを参考にしたお菓子が出来たら<br>ぜひオイラに食べさせてくれよな！,参考这个做的点心要是做好了<br>可一定要让咱尝尝啊！
+73,ルリア/露莉亚,あっ！<br>私にも食べさせて下さい～！,啊！<br>也请让我吃吃看～！
 74,ヴェイン/维恩,はは……もちろんいいぜ。,哈哈……当然行啦。
-75,,<span class='scene-font-katari'>ヴェインの様子が変なことに</span><br><span class='scene-font-katari'>気づいた姬塔は、</span><br><span class='scene-font-katari'>「何かあった？」と声をかける。</span>,注意到维恩的样子有些奇怪，姬塔便问他“发生什么了？”
-76,ヴェイン/维恩,えっ……いや……<br>べ、別に何もないぜ！,诶……不……没、没什么啦！
-77,ルリア/露莉亚,そういえば……ヴェインさん、<br>なんかいつもより元気がないです。,这么说来……维恩先生，感觉没有平时那么精神啊。
-78,ヴェイン/维恩,そ、そうかぁ？<br>俺はいたって元気だぜ！　,是、是吗？我挺精神的哦！
-79,ビィ/碧,確かにいつもみたいに<br>でっかい声で笑ってねぇな……,的确，没有像平时一样高声大笑啊……
-80,ヴェイン/维恩,えっ……？<br>そうだったかな～<br>ははははは～！,诶……？是这样吗～哈哈哈哈哈～！
-81,,<span class='scene-font-katari'>ヴェインの異変に不安を感じた</span><br><span class='scene-font-katari'>姬塔達は、理由を</span><br><span class='scene-font-katari'>話すように詰め寄るのだった。</span>,因维恩的异变而感受到不安，姬塔几人靠向他，让他说出理由。
-82,ヴェイン/维恩,たはは……これ以上、<br>姬塔たちに<br>変に心配かけるのも悪いしな。,哈哈哈……让姬塔你们继续担心下去也不太好啊。
-83,ヴェイン/维恩,実は……<br>さっきこんなことがあってさ。,其实……刚刚发生了这么回事。
-84,,<span class='scene-font-katari'>ヴェインは、先ほど団員達の噂話を</span><br><span class='scene-font-katari'>聞いてしまった一部始終について</span><br><span class='scene-font-katari'>姬塔達に打ち明ける。</span>,维恩将自己刚刚听到团员们的传言的前因后果告诉了姬塔她们。
-85,,<span class='scene-font-katari'>その話を聞いた姬塔達は</span><br><span class='scene-font-katari'>納得がいかない様子で</span><br><span class='scene-font-katari'>口々に意見するのだった。</span>,听了这话，姬塔几人不满地开始抗议了起来。
-86,ルリア/露莉亚,……たぶんその人たちは、<br>まだヴェインさんのことを<br>よく知らないだけだと思います。,……我觉得那些人大概还不是很了解维恩先生。
-87,ルリア/露莉亚,一緒に訓練とかをしたら、<br>ヴェインさんが副団長として<br>頼りになるって気づくはずです！,等一起训练过了，他们应该就会意识到维恩先生作为副团长非常可靠了！
+75,,<span class='scene-font-katari'>ヴェインの様子が変なことに</span><br><span class='scene-font-katari'>気づいた姬塔は、</span><br><span class='scene-font-katari'>「何かあった？」と声をかける。</span>,<span class='scene-font-katari'>注意到维恩的样子有些奇怪，</span><br><span class='scene-font-katari'>姬塔便问他“发生什么了？”</span>
+76,ヴェイン/维恩,えっ……いや……<br>べ、別に何もないぜ！,诶……不……<br>没、没什么啦！
+77,ルリア/露莉亚,そういえば……ヴェインさん、<br>なんかいつもより元気がないです。,这么说来……维恩先生，<br>感觉没有平时那么精神啊。
+78,ヴェイン/维恩,そ、そうかぁ？<br>俺はいたって元気だぜ！　,是、是吗？<br>我挺精神的哦！
+79,ビィ/碧,確かにいつもみたいに<br>でっかい声で笑ってねぇな……,的确，没有像平时一样<br>高声大笑啊……
+80,ヴェイン/维恩,えっ……？<br>そうだったかな～<br>ははははは～！,诶……？<br>是这样吗～<br>哈哈哈哈哈～！
+81,,<span class='scene-font-katari'>ヴェインの異変に不安を感じた</span><br><span class='scene-font-katari'>姬塔達は、理由を</span><br><span class='scene-font-katari'>話すように詰め寄るのだった。</span>,<span class='scene-font-katari'>因维恩的异变而感受到不安，</span><br><span class='scene-font-katari'>姬塔几人靠向他，</span><br><span class='scene-font-katari'>让他说出理由。</span>
+82,ヴェイン/维恩,たはは……これ以上、<br>姬塔たちに<br>変に心配かけるのも悪いしな。,啊哈哈……让姬塔你们<br>继续担心下去也不太好啊。
+83,ヴェイン/维恩,実は……<br>さっきこんなことがあってさ。,其实……<br>刚刚发生了这么回事。
+84,,<span class='scene-font-katari'>ヴェインは、先ほど団員達の噂話を</span><br><span class='scene-font-katari'>聞いてしまった一部始終について</span><br><span class='scene-font-katari'>姬塔達に打ち明ける。</span>,<span class='scene-font-katari'>维恩将自己刚刚听到</span><br><span class='scene-font-katari'>团员们的传言的前因后果</span><br><span class='scene-font-katari'>告诉了姬塔她们。</span>
+85,,<span class='scene-font-katari'>その話を聞いた姬塔達は</span><br><span class='scene-font-katari'>納得がいかない様子で</span><br><span class='scene-font-katari'>口々に意見するのだった。</span>,<span class='scene-font-katari'>听了这话，</span><br><span class='scene-font-katari'>姬塔几人不满地开始抗议了起来。</span>
+86,ルリア/露莉亚,……たぶんその人たちは、<br>まだヴェインさんのことを<br>よく知らないだけだと思います。,……我觉得那些人<br>大概还不是很了解维恩先生。
+87,ルリア/露莉亚,一緒に訓練とかをしたら、<br>ヴェインさんが副団長として<br>頼りになるって気づくはずです！,等一起训练过了，<br>他们应该就会意识到<br>维恩先生作为副团长非常可靠了！
 88,ヴェイン/维恩,ありがとな、ルリア。,谢谢你呀，露莉亚。
-89,ヴェイン/维恩,でも実際、俺がジークフリートさんとか<br>パーさんとか姬塔たちみたいに<br>すごくないのは事実だからな……,但是实际上，我不如齐格飞先生、帕桑还有姬塔你们一样厉害，这点也是事实啊……
-90,ビィ/碧,そんなことねぇぞ！<br>今言ったヤツらの誰よりも料理が<br>得意じゃねぇか！,才没那回事呢！你不是比你提到的这些人都擅长做饭嘛！
-91,,<span class='scene-font-katari'>「ピンチの時は、いつもみんなが</span><br><span class='scene-font-katari'>ヴェインに助けられている」と</span><br><span class='scene-font-katari'>熱弁する姬塔。</span>,姬塔也激动地表示“在遇到危机的时候，大家总是被维恩所救”。
-92,ヴェイン/维恩,ううっ……<br>ビィくんも姬塔も<br>ありがとな～！,唔唔……碧君和姬塔也是，谢谢你们～！
-93,ヴェイン/维恩,ぐすっ……<br>せっかく遊びにきてくれたのに<br>なんか気を遣わせて悪かったな……,呜呜……难得你们来玩，却还让你们担心了，真是对不起……
-94,,<span class='scene-font-katari'>姬塔達からかけられた</span><br><span class='scene-font-katari'>温かい言葉の数々に、</span><br><span class='scene-font-katari'>思わず涙声になるヴェイン。</span>,听到姬塔几人温暖的话语，维恩不禁呜咽了起来。
-95,,<span class='scene-font-katari'>自信を持てないヴェインのために</span><br><span class='scene-font-katari'>何かしてやれることはないだろうかと</span><br><span class='scene-font-katari'>頭を悩ませる姬塔達。</span>,姬塔几人则开始思索，能不能为没有自信的维恩做些什么。
-95-sel1_txt,,<span class='scene-font-katari'>……！</span>,……！
-99,,<span class='scene-font-katari'>その時、何かを思いついた様子の</span><br><span class='scene-font-katari'>姬塔は、皆に集合場所を告げて</span><br><span class='scene-font-katari'>慌てて部屋を飛び出していくのだった。</span>,这时，像是想到了些什么一样，姬塔只留给大家一个集合地点，就匆匆飞奔出了房间。
+89,ヴェイン/维恩,でも実際、俺がジークフリートさんとか<br>パーさんとか姬塔たちみたいに<br>すごくないのは事実だからな……,但是实际上，我不如齐格飞先生、<br>帕桑还有姬塔你们一样厉害，<br>这点也是事实啊……
+90,ビィ/碧,そんなことねぇぞ！<br>今言ったヤツらの誰よりも料理が<br>得意じゃねぇか！,才没那回事呢！<br>你不是比你提到的这些人<br>都擅长做饭嘛！
+91,,<span class='scene-font-katari'>「ピンチの時は、いつもみんなが</span><br><span class='scene-font-katari'>ヴェインに助けられている」と</span><br><span class='scene-font-katari'>熱弁する姬塔。</span>,<span class='scene-font-katari'>姬塔也激动地表示</span><br><span class='scene-font-katari'>“在遇到危机的时候，</span><br><span class='scene-font-katari'>大家总是被维恩所救”。</span>
+92,ヴェイン/维恩,ううっ……<br>ビィくんも姬塔も<br>ありがとな～！,唔唔……<br>碧君和姬塔也是，<br>谢谢你们～！
+93,ヴェイン/维恩,ぐすっ……<br>せっかく遊びにきてくれたのに<br>なんか気を遣わせて悪かったな……,呜呜……<br>难得你们来玩，<br>却还让你们担心了，<br>真是对不起……
+94,,<span class='scene-font-katari'>姬塔達からかけられた</span><br><span class='scene-font-katari'>温かい言葉の数々に、</span><br><span class='scene-font-katari'>思わず涙声になるヴェイン。</span>,<span class='scene-font-katari'>听到姬塔几人温暖的话语，</span><br><span class='scene-font-katari'>维恩不禁呜咽了起来。</span>
+95,,<span class='scene-font-katari'>自信を持てないヴェインのために</span><br><span class='scene-font-katari'>何かしてやれることはないだろうかと</span><br><span class='scene-font-katari'>頭を悩ませる姬塔達。</span>,<span class='scene-font-katari'>姬塔几人则开始思索，</span><br><span class='scene-font-katari'>能不能为没有自信的维恩做些什么。</span>
+95-sel1_txt,,<span class='scene-font-katari'>……！</span>,<span class='scene-font-katari'>……！</span>
+99,,<span class='scene-font-katari'>その時、何かを思いついた様子の</span><br><span class='scene-font-katari'>姬塔は、皆に集合場所を告げて</span><br><span class='scene-font-katari'>慌てて部屋を飛び出していくのだった。</span>,<span class='scene-font-katari'>这时，像是想到了些什么一样，</span><br><span class='scene-font-katari'>姬塔只留给大家一个集合地点，</span><br><span class='scene-font-katari'>就匆匆飞奔出了房间。</span>
 info,,,scene_ult_chr370_ep1_q1_s10
 译者,,,久坂遥
