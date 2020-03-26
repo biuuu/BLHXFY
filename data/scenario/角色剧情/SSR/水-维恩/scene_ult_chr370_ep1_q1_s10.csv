@@ -10,8 +10,8 @@ id,name,text,trans
 7,,<span class='scene-font-katari'>近くの部屋の物置から掃除道具を</span><br><span class='scene-font-katari'>引っ張り出してきたヴェインは、</span><br><span class='scene-font-katari'>黙々と床掃除を始めるのだった。</span>,<span class='scene-font-katari'>从附近的库房里拉出打扫工具，</span><br><span class='scene-font-katari'>维恩默不作声地开始清扫地板。</span>
 8,ヴェイン/维恩,ふんふんふ～ん♪<br>ゆかゆかゆかゆか磨き～♪<br>もっとキレイにな～れ～♪,哼哼哼～♪<br>地板地板地板擦地板～♪<br>变得更干净～吧～♪
 9,,<span class='scene-font-katari'>ヴェインが掃除に熱中していると、</span><br><span class='scene-font-katari'>廊下の曲がり角の先から</span><br><span class='scene-font-katari'>団員達の話し声が聞こえてきた。</span>,<span class='scene-font-katari'>沉迷于打扫的维恩听见</span><br><span class='scene-font-katari'>从走廊转角处传来了</span><br><span class='scene-font-katari'>团员们的说话声。</span>
-10,白竜騎士団団員１,知ってるか、ヴェイン副団長って<br>ランスロット団長と幼なじみだって。,你知道吗，维恩副团长他据说是<br>兰斯洛特团长的幼驯染啊。
-11,白竜騎士団団員２,知ってる知ってる！<br>実はさ、団長と幼なじみだから<br>副団長になれたって噂らしいぜ？,知道知道！<br>传言说，就是因为是团长的幼驯染，<br>他才当上了副团长的哦？
+10,白竜騎士団団員１,知ってるか、ヴェイン副団長って<br>ランスロット団長と幼なじみだって。,你知道吗，维恩副团长他据说是<br>兰斯洛特团长的青梅竹马啊。
+11,白竜騎士団団員２,知ってる知ってる！<br>実はさ、団長と幼なじみだから<br>副団長になれたって噂らしいぜ？,知道知道！<br>传言说，就是因为是团长的青梅竹马，<br>他才当上了副团长的哦？
 12,白竜騎士団団員１,えっ……副団長になったのって、<br>過去に王都で起きた事件を解決して<br>評価されたからじゃないの？,诶……他不是因为解决了过去<br>发生在王都的事件，受到了赞赏<br>才当上副团长的吗？
 13,白竜騎士団団員２,あぁ～それなんだけど……<br>その事件ってヤツも、<br>色々噂があってさ。,啊啊～关于那件事啊……<br>那个事件也有各种传闻啦。
 14,白竜騎士団団員２,黒竜騎士団団長のジークフリートと<br>副団長のパーシヴァルとかが<br>その場にいたおかげらしいとか？,比如说<br>是多亏黑龙骑士团团长的齐格飞<br>和副团长帕西瓦尔在场之类的？
@@ -43,9 +43,9 @@ id,name,text,trans
 45,,<span class='scene-font-katari'>副団長に与えられた部屋を</span><br><span class='scene-font-katari'>見渡しながら、ヴェインは</span><br><span class='scene-font-katari'>深いため息をついた。</span>,<span class='scene-font-katari'>环视着分配给副团长的房间，</span><br><span class='scene-font-katari'>维恩深深叹了口气。</span>
 46,ヴェイン/维恩,<span class='scene-font-kokoro'>（今まで副団長になった嬉しさと</span><br><span class='scene-font-kokoro'>責任感でがむしゃらに</span><br><span class='scene-font-kokoro'>頑張ってきたつもりだけど）</span>,<span class='scene-font-kokoro'>（我本来觉得过去都是靠着</span><br><span class='scene-font-kokoro'>成为副团长的喜悦和责任感</span><br><span class='scene-font-kokoro'>埋头努力到现在的）</span>
 47,ヴェイン/维恩,<span class='scene-font-kokoro'>（よく考えたら……俺って</span><br><span class='scene-font-kokoro'>いつもみんなと一緒にいただけで</span><br><span class='scene-font-kokoro'>別に大したことしてないよな？）</span>,<span class='scene-font-kokoro'>（仔细想想……</span><br><span class='scene-font-kokoro'>我一直都只是和大家在一起，</span><br><span class='scene-font-kokoro'>也没做什么了不得的事啊？）</span>
-48,ヴェイン/维恩,<span class='scene-font-kokoro'>（昔と比べて、少しは成長できたと</span><br><span class='scene-font-kokoro'>思ってたんだけど……）</span>,<span class='scene-font-kokoro'>（本来以为和以前相比</span><br><span class='scene-font-katari'>稍微也有些成长了……）</span>
-49,ヴェイン/维恩,<span class='scene-font-kokoro'>（俺って、</span><br><span class='scene-font-kokoro'>副団長の器じゃないのかな？）</span>,<span class='scene-font-kokoro'>（我会不会</span><br><span class='scene-font-katari'>不是做副团长的料啊？）</span>
-50,ヴェイン/维恩,<span class='scene-font-kokoro'>（ランスロットの評判まで</span><br><span class='scene-font-kokoro'>下げるぐらいなら、</span><br><span class='scene-font-kokoro'>いっそのこと別の誰かに……）</span>,<span class='scene-font-kokoro'>（要是连带着会让</span><br><span class='scene-font-katari'>兰斯洛特的风评受影响，</span><br><span class='scene-font-katari'>干脆让别的人来……）</span>
+48,ヴェイン/维恩,<span class='scene-font-kokoro'>（昔と比べて、少しは成長できたと</span><br><span class='scene-font-kokoro'>思ってたんだけど……）</span>,<span class='scene-font-kokoro'>（本来以为和以前相比</span><br><span class='scene-font-kokoro'>稍微也有些成长了……）</span>
+49,ヴェイン/维恩,<span class='scene-font-kokoro'>（俺って、</span><br><span class='scene-font-kokoro'>副団長の器じゃないのかな？）</span>,<span class='scene-font-kokoro'>（我会不会</span><br><span class='scene-font-kokoro'>不是做副团长的料啊？）</span>
+50,ヴェイン/维恩,<span class='scene-font-kokoro'>（ランスロットの評判まで</span><br><span class='scene-font-kokoro'>下げるぐらいなら、</span><br><span class='scene-font-kokoro'>いっそのこと別の誰かに……）</span>,<span class='scene-font-kokoro'>（要是连带着会让</span><br><span class='scene-font-kokoro'>兰斯洛特的风评受影响，</span><br><span class='scene-font-kokoro'>干脆让别的人来……）</span>
 51,,<span class='scene-font-katari'>ヴェインがひとり悶々と悩んでいると</span><br><span class='scene-font-katari'>突然、扉がノックされるのだった。</span>,<span class='scene-font-katari'>在维恩一个人默默烦恼的时候，</span><br><span class='scene-font-katari'>突然，有人敲响了房门。</span>
 52,ヴェイン/维恩,<span class='scene-font-4'>はっ……はいっ！</span>,<span class='scene-font-4'>啊……我在！</span>
 53,ルリアの声/露莉亚的声音,ヴェインさん！<br>ルリアです！,维恩先生！<br>我是露莉亚！
@@ -71,7 +71,7 @@ id,name,text,trans
 78,ヴェイン/维恩,そ、そうかぁ？<br>俺はいたって元気だぜ！　,是、是吗？<br>我挺精神的哦！
 79,ビィ/碧,確かにいつもみたいに<br>でっかい声で笑ってねぇな……,的确，没有像平时一样<br>高声大笑啊……
 80,ヴェイン/维恩,えっ……？<br>そうだったかな～<br>ははははは～！,诶……？<br>是这样吗～<br>哈哈哈哈哈～！
-81,,<span class='scene-font-katari'>ヴェインの異変に不安を感じた</span><br><span class='scene-font-katari'>姬塔達は、理由を</span><br><span class='scene-font-katari'>話すように詰め寄るのだった。</span>,<span class='scene-font-katari'>因维恩的异变而感受到不安，</span><br><span class='scene-font-katari'>姬塔几人靠向他，</span><br><span class='scene-font-katari'>让他说出理由。</span>
+81,,<span class='scene-font-katari'>ヴェインの異変に不安を感じた</span><br><span class='scene-font-katari'>姬塔達は、理由を</span><br><span class='scene-font-katari'>話すように詰め寄るのだった。</span>,<span class='scene-font-katari'>因维恩异常的变化而感受到不安，</span><br><span class='scene-font-katari'>姬塔几人靠向他，</span><br><span class='scene-font-katari'>让他说出理由。</span>
 82,ヴェイン/维恩,たはは……これ以上、<br>姬塔たちに<br>変に心配かけるのも悪いしな。,啊哈哈……让姬塔你们<br>继续担心下去也不太好啊。
 83,ヴェイン/维恩,実は……<br>さっきこんなことがあってさ。,其实……<br>刚刚发生了这么回事。
 84,,<span class='scene-font-katari'>ヴェインは、先ほど団員達の噂話を</span><br><span class='scene-font-katari'>聞いてしまった一部始終について</span><br><span class='scene-font-katari'>姬塔達に打ち明ける。</span>,<span class='scene-font-katari'>维恩将自己刚刚听到</span><br><span class='scene-font-katari'>团员们的传言的前因后果</span><br><span class='scene-font-katari'>告诉了姬塔她们。</span>
