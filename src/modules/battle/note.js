@@ -20,6 +20,15 @@ const getQuestId = async (data, pathname) => {
   }
 }
 
+const reList = [
+  [/(Lv\d+\s)?(.+)が真の力を解放した！/, '$1$2释放了真正的力量！', { 2: 'name' }],
+  [/(Lv\d+\s)?(.+)の特殊行動が発動！/, '$1$2的特殊行动发动了！', { 2: 'name' }],
+  [/(Lv\d+\s)?(.+)が更なる力を覚醒させた！/, '$1$2唤醒了更强的力量！', { 2: 'name' }],
+  [/(Lv\d+\s)?(.+)のCTがMAXになった。/, '$1$2的CT达到了MAX。', { 2: 'name' }],
+  [/(.+)は麻痺していて動けない！/, '$1因麻痹效果无法行动！', { 1: 'name' }],
+  [/(.+)の効果により(.+)が復活した！/, '因$1的效果$2复活了！', { 1: 'skill', 2: 'name' }]
+]
+
 let textList = []
 const transNote = (item, key) => {
   if (!isObject(item)) return
@@ -31,11 +40,12 @@ const transNote = (item, key) => {
     let trans = battleNoteMap.get(text)
     trans = trans.replace('姬塔', CONFIG.displayName || CONFIG.userName)
     item[key] = trans
-  }
-  if (questMap.has(rid) && battleQuestNoteMap && battleQuestNoteMap.has(text)) {
+  } else if (questMap.has(rid) && battleQuestNoteMap && battleQuestNoteMap.has(text)) {
     let trans = battleQuestNoteMap.get(text)
     trans = trans.replace('姬塔', CONFIG.displayName || CONFIG.userName)
     item[key] = trans
+  } else {
+
   }
   if (CONFIG.log && !textList.includes(text)) {
     textList.push(text)
@@ -49,14 +59,6 @@ win.printBattleNote = () => {
     str = `quest-${questMap.get(rid)}.note.csv\n\n${str}`
   }
   console.log(str)
-}
-
-const battleLogTitle = (data) => {
-  if (isString(data.title)) {
-    data.title = data.title.replace('バトルログ', '战斗日志')
-  } else if (isObject(data.title) && data.title.ja) {
-    data.title.ja = data.title.ja.replace('バトルログ', '战斗日志')
-  }
 }
 
 const startData = (data) => {
@@ -78,11 +80,13 @@ const normalData = (data) => {
   if (isArray(data.scenario)) {
     data.scenario.forEach(item => {
       if (item.cmd === 'battlelog') {
-        battleLogTitle(item)
         if (isString(item.body)) {
           transNote(item, 'body')
+          transNote(item, 'title')
         } else if (isObject(item.body)) {
           transNote(item.body, 'ja')
+        } else if (isObject(item.title)) {
+          transNote(item.title, 'ja')
         }
       } else if (item.cmd === 'navi_information') {
         if (isArray(item.details)) {
@@ -95,6 +99,9 @@ const normalData = (data) => {
       } else if (item.cmd === 'line_message') {
         transNote(item, 'title')
         transNote(item, 'message')
+      } else if (item.cmd === 'resurrection') {
+        transNote(item, 'title')
+        transNote(item, 'comment')
       }
     })
   }
