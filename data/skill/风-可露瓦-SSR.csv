@@ -1,5 +1,5 @@
 ﻿id,name,detail
-npc,可露瓦,#3040081000
+npc,可露瓦,3040081000
 special,白色丝线,延长可露瓦赋予我方全体的特殊强化效果 <span class=text-blue>◆消耗全部丝线</span>
 skill-1,黑与白,我方全体特殊强化(攻击20%UP/弱化效果成功率5%UP)<span class=text-blue>◆消耗2丝线</span>
 skill-2,盛装,我方全体特殊强化(连击率UP)<span class=text-blue>◆消耗5丝线</span>
