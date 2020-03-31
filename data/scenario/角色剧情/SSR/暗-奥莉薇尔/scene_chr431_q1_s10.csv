@@ -1,0 +1,84 @@
+id,name,text,trans
+0-chapter_name,,堕天司の矜持,堕天司の矜持
+0-synopsis,,ある日、オリヴィエは姬塔達に誘われ劇を観に出向く。観劇後、飲み物を買いにオリヴィエが姬塔達の傍を離れていると、ひとりの青年が姬塔達に話しかけてきた。オリヴィエは青年が天司長ルシフェルの関係者であることに気づき、天司長の動向をより一層警戒するのだった。,某天，奥莉薇尔被姬塔邀请去观看歌剧。正看着，奥莉薇尔起身去买喝的，一名青年来向姬塔一行搭话。奥莉薇尔察觉到这名青年和天司长路西菲尔关系匪浅，于是更加戒备着天司长的动向。
+1,,<span class='scene-font-katari'>オリヴィエが</span><br><span class='scene-font-katari'>姬塔達の騎空団に加わり</span><br><span class='scene-font-katari'>しばらく経ったある日のこと。</span>,<span class='scene-font-katari'>在奥莉薇尔</span><br><span class='scene-font-katari'>加入姬塔的骑空团</span><br><span class='scene-font-katari'>后不久的一天。</span>
+2,,<span class='scene-font-katari'>私室で休んでいたオリヴィエの元に、</span><br><span class='scene-font-katari'>姬塔とルリア、ビィが</span><br><span class='scene-font-katari'>訪ねてきた。</span>,<span class='scene-font-katari'>姬塔，露莉亚，碧</span><br><span class='scene-font-katari'>来到了正在房间里</span><br><span class='scene-font-katari'>休息的奥莉薇尔的身边。</span>
+3,ルリア/露莉亚,オリヴィエさん、<br>もし良ければ明日、<br>一緒に劇を観に行きませんか？,奥莉薇尔さん，<br>如果方便的话，<br>一起去看看歌剧怎么样呢？
+4,オリヴィエ/奥莉薇尔,劇……？,歌剧……？
+5,ルリア/露莉亚,はい！　とっても面白いって<br>評判になってる劇なんです。,嗯！　是很有趣，<br>广受好评的歌剧哦。
+6,ビィ/碧,運良くチケットが取れたからさ！<br>暇だったら一緒に行かねえか？,我们运气好搞到票了！<br>有空的话要不要一起去？
+7,ビィ/碧,なんでも、空の底ってのを<br>題材にしてるらしいぜ！,而且，好像是以空之底<br>为题材的！
+8,オリヴィエ/奥莉薇尔,空の底……？,空之底……？
+9,オリヴィエ/奥莉薇尔,<span class='scene-font-kokoro'>（空の底……赤き地平のことか？</span><br><span class='scene-font-kokoro'>ヒトの子もかの地の情報を</span><br><span class='scene-font-kokoro'>得ているということなのか……？）</span>,<span class='scene-font-kokoro'>（空之底……是说赤之地的事？</span><br><span class='scene-font-kokoro'>难道说人类之子</span><br><span class='scene-font-kokoro'>也得到了那里的情报吗……？）</span>
+10,オリヴィエ/奥莉薇尔,<span class='scene-font-kokoro'>（しかし……）</span>,<span class='scene-font-kokoro'>（但是……）</span>
+11,オリヴィエ/奥莉薇尔,誘いは嬉しいが……<br>私はあまり人前に<br>出るべきではないだろう。,得到邀请我很高兴……<br>但是我<br>不怎么应该出现在人类面前吧。
+12,ルリア/露莉亚,えっ？,诶？
+13,オリヴィエ/奥莉薇尔,なにしろ、星晶獣だからな。<br>あまり人目に触れて、正体が露見しては<br>君達に迷惑が掛かるだろう。,不管怎说，我也是星晶兽。<br>去人多的地方，要是暴露了<br>对你们来说也是个麻烦吧。
+14,オリヴィエ/奥莉薇尔,<span class='scene-font-kokoro'>（それに、ヒトの子と</span><br><span class='scene-font-kokoro'>わざわざ親しく交わる必要も</span><br><span class='scene-font-kokoro'>あるまい）</span>,<span class='scene-font-kokoro'>（而且，没有必要</span><br><span class='scene-font-kokoro'>和人类之子</span><br><span class='scene-font-kokoro'>特意亲近）</span>
+15,,<span class='scene-font-katari'>オリヴィエは遠慮をする形で、</span><br><span class='scene-font-katari'>姬塔達の誘いを</span><br><span class='scene-font-katari'>断ろうとするが……</span>,<span class='scene-font-katari'>奥莉薇尔思虑着，</span><br><span class='scene-font-katari'>想要拒绝</span><br><span class='scene-font-katari'>姬塔一行的邀请……</span>
+16,ルリア/露莉亚,あ、あのっ！<br>そんなこと、気にしなくて<br>いいんじゃないかな、って思います！,啊，那个！<br>我觉得，不在意那种事<br>也可以吧！
+17,オリヴィエ/奥莉薇尔,ルリア……？,露莉亚……？
+18,ルリア/露莉亚,だって、オリヴィエさんが<br>星晶獣だからって、それで何か他の人に<br>迷惑がかかる訳じゃないですし……！,就算，奥莉薇尔さん是<br>星晶兽，也不代表<br>就会给别人添麻烦啊……！
+19,ビィ/碧,だよなぁ。<br>それで折角の劇を諦めちまうなんて、<br>勿体ないじゃねぇか！　なっ？,就是啊。<br>而且这是难得的歌剧，<br>不去太可惜了！　是吧？
+20,オリヴィエ/奥莉薇尔,しかし……,但是……
+21,ルリア/露莉亚,それに、オリヴィエさんには<br>依頼とか沢山お手伝いして<br>頂いてますけど……,而且，奥莉薇尔さん<br>在委托和各种方面<br>都帮了我们很多……
+22,ルリア/露莉亚,お買いものとか遊びに行ったりとかは<br>全然してないですよね。,但是完全没有和我们一起<br>出去逛街玩过。
+23,ルリア/露莉亚,折角一緒に旅をしてるんですから、<br>楽しいことも一緒にしましょう！,难得一起旅行，<br>就一起玩一玩嘛！
+24,,<span class='scene-font-katari'>熱心に誘うルリアとビィに、</span><br><span class='scene-font-katari'>姬塔も同意して</span><br><span class='scene-font-katari'>オリヴィエを誘う。</span>,<span class='scene-font-katari'>架不住露莉亚和碧的热心邀请，</span><br><span class='scene-font-katari'>姬塔也点头，</span><br><span class='scene-font-katari'>邀请着奥莉薇尔。</span>
+25,オリヴィエ/奥莉薇尔,フッ……,呼……
+26,オリヴィエ/奥莉薇尔,ははは、そこまで誘われて<br>断るのでは失礼というものだな。,哈哈哈，你们这么热切，<br>那就恭敬不如从命。
+27,ルリア/露莉亚,それじゃあ……！,それじゃあ……！
+28,オリヴィエ/奥莉薇尔,ああ、その劇とやら<br>共に観に行かせて貰おう。,啊，那就让我<br>一起去看看这个叫歌剧的东西吧。
+29,オリヴィエ/奥莉薇尔,<span class='scene-font-kokoro'>（意固地になって</span><br><span class='scene-font-kokoro'>断るのも不自然……か。</span><br><span class='scene-font-kokoro'>致し方あるまい）</span>,<span class='scene-font-kokoro'>（强行拒绝</span><br><span class='scene-font-kokoro'>也太不自然……。</span><br><span class='scene-font-kokoro'>没办法）</span>
+30,オリヴィエ/奥莉薇尔,<span class='scene-font-kokoro'>（これもヒトの子の情報精度を</span><br><span class='scene-font-kokoro'>探る一助となる……とでも、</span><br><span class='scene-font-kokoro'>考えておくとするか）</span>,<span class='scene-font-kokoro'>（就安慰自己</span><br><span class='scene-font-kokoro'>……这也是增加对人类之子</span><br><span class='scene-font-kokoro'>的细致认知的一环吧）</span>
+31,ルリア/露莉亚,やったぁ！,太好了！
+32,ルリア/露莉亚,ふふ、楽しみですね！<br>ねっ、姬塔！,呵呵，我好期待啊！<br>是吧，姬塔！
+33,,<span class='scene-font-katari'>こうして、姬塔達は</span><br><span class='scene-font-katari'>そろって観劇に出向くことになった。</span>,<span class='scene-font-katari'>就这样，姬塔一行</span><br><span class='scene-font-katari'>一起去剧场看歌剧了。</span>
+41,劇場の道化/剧场的小丑,今宵、お集まりいただいた皆様に<br>ご覧に入れますのは、<br>かの、おぞましき伝承――,今夜，为来场的各位<br>呈现的是，<br>那个，令人不安躁动的传说――
+42,劇場の道化/剧场的小丑,この空の底――<span class='scene-font-spword'>『赤き地平』</span>の<br>真実の物語に、ございます……！,在这空之底――<span class='scene-font-spword'>『赤之地平』</span>的<br>真实的故事……！
+45,劇場の道化/剧场的小丑,お覚悟は宜しいですかな？<br>では、どうぞ、最後まで<br>その目をふさぐことのなきよう……！,您做好准备了吗？<br>那么，就请把这让人疯狂的<br>剧目看到最后……！
+52,ルリア/露莉亚,ドキドキしますね……！,我好激动啊……！
+53,,<span class='scene-font-katari'>チケットを手に入れてから</span><br><span class='scene-font-katari'>劇をとても楽しみにしていた</span><br><span class='scene-font-katari'>ルリアだったが……</span>,<span class='scene-font-katari'>虽然露莉亚在</span><br><span class='scene-font-katari'>拿到票开始</span><br><span class='scene-font-katari'>就在期待剧目开演……</span>
+54,ルリア/露莉亚,は、はうぅう……,哈，呜呜呜……
+55,,<span class='scene-font-katari'>劇の内容は伝承を元にした</span><br><span class='scene-font-katari'>恐ろしいもので、</span><br><span class='scene-font-katari'>ルリアは次第に怯え始めてしまった。</span>,<span class='scene-font-katari'>剧目的内容是原原本本地/span><br><span class='scene-font-katari'>按照传说来的恐怖的东西，</span><br><span class='scene-font-katari'>露莉亚渐渐地开始害怕起来。</span>
+60,オリヴィエ/奥莉薇尔,<span class='scene-font-1'>ルリア、大丈夫か？</span><br><span class='scene-font-1'>気分が悪いなら、席を外すのも手だ。</span>,<span class='scene-font-1'>露莉亚，没事吧？</span><br><span class='scene-font-1'>要是感觉不好，就不要再看了。</span>
+61,ルリア/露莉亚,<span class='scene-font-1'>い、いえ、大丈夫……です！</span><br><span class='scene-font-1'>折角の劇ですし……！</span>,<span class='scene-font-1'>不，没，没事的……！</span><br><span class='scene-font-1'>难得的剧目……！</span>
+62,,<span class='scene-font-katari'>姬塔の手を握り締め、</span><br><span class='scene-font-katari'>ある意味客の中で一番</span><br><span class='scene-font-katari'>劇にのめり込むルリア。</span>,<span class='scene-font-katari'>她紧紧地握着姬塔的手</span><br><span class='scene-font-katari'>倒不如说</span><br><span class='scene-font-katari'>观众中最投入的就是她了。</span>
+63,,<span class='scene-font-katari'>幕が上がる頃には、</span><br><span class='scene-font-katari'>彼女はすっかり血の気が引いて</span><br><span class='scene-font-katari'>この上なく顔色が悪くなっていた。</span>,<span class='scene-font-katari'>拉开帷幕的时候，</span><br><span class='scene-font-katari'>她的脸瞬间血色全无，</span><br><span class='scene-font-katari'>脸色坏到不能再坏了。</span>
+68,ルリア/露莉亚,あ、あわ、あわわわわ、<br>そ、空の底って……<br>あんなにお化けが沢山……！,啊，啊，啊哇哇哇、<br>空，空之底……<br>有这么多妖怪……！
+69,オリヴィエ/奥莉薇尔,<span class='scene-font-kokoro'>（ふむ……想像以上に空の世界の</span><br><span class='scene-font-kokoro'>ヒトの子は、地上の実情を</span><br><span class='scene-font-kokoro'>把握しているようだな……）</span>,<span class='scene-font-kokoro'>（嗯……看来空域的</span><br><span class='scene-font-kokoro'>人之子，比想象中</span><br><span class='scene-font-kokoro'>更了解地上的情况啊……）</span>
+70,オリヴィエ/奥莉薇尔,<span class='scene-font-kokoro'>（しかし……）</span>,<span class='scene-font-kokoro'>（但是……）</span>
+71,オリヴィエ/奥莉薇尔,姬塔殿、<br>ルリアを少し休ませてやるべきだ。<br>彼女を看ていてやるといい。,姬塔阁下，<br>露莉亚还是休息一下比较好。<br>你来看着她吧。
+72,オリヴィエ/奥莉薇尔,私は飲み物でも買って来よう。<br>冷たい物を飲めば、<br>少しは気分が良くなるだろうからな。,我去买点喝的回来。<br>喝点冷的东西，<br>应该会好一点。
+73,ルリア/露莉亚,あ、あうぅ……<br>すみません、オリヴィエさん……,啊，呜呜……<br>对不起，奥莉薇尔さん……
+74,オリヴィエ/奥莉薇尔,大したことではない。<br>気にせず休んでいるんだ。,别在意。<br>你就好好休息吧。
+80,,<span class='scene-font-katari'>オリヴィエは劇場の売店で</span><br><span class='scene-font-katari'>飲み物を買い求め、</span><br><span class='scene-font-katari'>席に戻ろうとする。</span>,<span class='scene-font-katari'>正在奥莉薇尔</span><br><span class='scene-font-katari'>到剧场的商店买完东西，</span><br><span class='scene-font-katari'>回到座位上之时。</span>
+81,,<span class='scene-font-katari'>だが……</span>,<span class='scene-font-katari'>但是……</span>
+82,？？？,かつて、これほど核心に迫った物語が<br>作られたためしはない……,以前，从来没人写出过<br>如此逼近核心的故事……
+83,？？？,この世界が生まれて、それだけの時が<br>流れたということでしょう。,这个世界从出生，看来只是<br>经过了这么长时间罢了。
+84,オリヴィエ/奥莉薇尔,あれは……！？,那是……！？
+85,,<span class='scene-font-katari'>姬塔達に</span><br><span class='scene-font-katari'>話しかける人物を見て、</span><br><span class='scene-font-katari'>オリヴィエは血相を変える。</span>,<span class='scene-font-katari'>看着正向姬塔一行</span><br><span class='scene-font-katari'>说话的人，</span><br><span class='scene-font-katari'>奥莉薇尔的脸色都变了。</span>
+86,オリヴィエ/奥莉薇尔,<span class='scene-font-kokoro'>（あれは……あの力と姿、</span><br><span class='scene-font-kokoro'>天司長……！？）</span>,<span class='scene-font-kokoro'>（那是……那份力量与姿态，</span><br><span class='scene-font-kokoro'>天司长……！？）</span>
+87,オリヴィエ/奥莉薇尔,<span class='scene-font-kokoro'>（いや、天司長自身ではない……か。</span><br><span class='scene-font-kokoro'>もし天司長であるのなら、</span><br><span class='scene-font-kokoro'>この威圧感の薄さに説明がつかん）</span>,<span class='scene-font-kokoro'>（不，不是天司长自己……吗。</span><br><span class='scene-font-kokoro'>如果真的是天司长，</span><br><span class='scene-font-kokoro'>那么威压不应该这么微弱）</span>
+88,オリヴィエ/奥莉薇尔,<span class='scene-font-kokoro'>（天司長の分け身、もしくは</span><br><span class='scene-font-kokoro'>姿を似せた別の存在……？）</span>,<span class='scene-font-kokoro'>（天司长的分身，也许是</span><br><span class='scene-font-kokoro'>姿态相似的别的存在……？）</span>
+89,オリヴィエ/奥莉薇尔,<span class='scene-font-kokoro'>（だとしても、よもや直接的に</span><br><span class='scene-font-kokoro'>特異点にコンタクトを取るとは。</span><br><span class='scene-font-kokoro'>一体何が起きている……）</span>,<span class='scene-font-kokoro'>（即使这么说，</span><br><span class='scene-font-kokoro'>如此直接地与特异点接触。</span><br><span class='scene-font-kokoro'>到底发生了什么……）</span>
+90,,<span class='scene-font-katari'>オリヴィエは死角に身を隠しながら、</span><br><span class='scene-font-katari'>姬塔と天司長に似た青年の</span><br><span class='scene-font-katari'>やり取りを観察する。</span>,<span class='scene-font-katari'>奥莉薇尔一边把自己藏起来，</span><br><span class='scene-font-katari'>一边观察着</span><br><span class='scene-font-katari'>姬塔与那名青年的互动。</span>
+91,,<span class='scene-font-katari'>しかし、間もなく</span><br><span class='scene-font-katari'>天司長に似た青年に魅了された</span><br><span class='scene-font-katari'>人々が騒ぎを起こし……</span>,<span class='scene-font-katari'>但是，不久，</span><br><span class='scene-font-katari'>被这名青年魅惑的</span><br><span class='scene-font-katari'>人群就开始骚动……</span>
+95,劇場の座長/剧场的团长,アンタ！　役者志願かい？<br>アンタなら、すぐに<br>うちの花形になれるぜ……！,嘿！　你是志愿演员吗？<br>你的话，<br>一定马上就能成为我们的招牌……！
+97,他劇場の座長/其他剧场的团长,おい！　引っ込んでな！<br>そいつは、こっちが先に<br>目をつけたんだ……！,嗳！　抢什么！<br>这家伙，是我们<br>先发现的……！
+98,観劇に来た娘/前来观剧的女孩,なんて美しいお方……！<br>お近づきの印にぜひ、このお花を……,多么美丽的人……！<br>作为曾见过的证据，将这捧花……
+100,観劇に来た令嬢/前来观剧的大小姐,いいえ、どうか、こちらの細工物を<br>おとりになって？,不，请务必，收下这个<br>工艺品吧？
+101,ビィ/碧,うわぁ……<br>あっちこっちで、<br>つかみ合いが起こってるぜ……,哇……<br>他们打得好厉害……
+102,,<span class='scene-font-katari'>姬塔達は</span><br><span class='scene-font-katari'>青年と騒ぎから逃れるようにして、</span><br><span class='scene-font-katari'>劇場を出ようとする。</span>,<span class='scene-font-katari'>姬塔一行人</span><br><span class='scene-font-katari'>像是要从青年制造的混乱中逃走一样，</span><br><span class='scene-font-katari'>出了剧场。</span>
+103,ビィ/碧,うわっぷ！<br>通してくれよぅ！,呼啊！<br>让我们过去啊！
+105,オリヴィエ/奥莉薇尔,姬塔殿！<br>こちらだ、劇場を出よう！,姬塔阁下！<br>这边，快走吧！
+106,ルリア/露莉亚,あっ、オリヴィエさん！,啊，奥莉薇尔さん！
+107,オリヴィエ/奥莉薇尔,気分が悪いところに<br>この人ごみはきついだろう。<br>さぁ、早く騎空艇へ戻ろう。,在这种混乱又人多杂乱的<br>地方很难受吧。<br>好了，快点回骑空艇吧。
+108,ルリア/露莉亚,はい、ありがとうございます……！,嗯，谢谢你……！
+109,,<span class='scene-font-katari'>オリヴィエと姬塔は</span><br><span class='scene-font-katari'>人ごみからルリアを庇いつつ、</span><br><span class='scene-font-katari'>騎空艇へと帰ってきた。</span>,<span class='scene-font-katari'>奥莉薇尔和姬塔</span><br><span class='scene-font-katari'>在人流中把露莉亚护在中间，</span><br><span class='scene-font-katari'>回到了骑空艇。</span>
+113,,<span class='scene-font-katari'>オリヴィエは</span><br><span class='scene-font-katari'>ルリアを部屋に連れて行った後、</span><br><span class='scene-font-katari'>自身も私室へと戻った。</span>,<span class='scene-font-katari'>把露莉亚送回房间后，</span><br><span class='scene-font-katari'>奥莉薇尔也回到了自己的房间。</span>
+114,オリヴィエ/奥莉薇尔,<span class='scene-font-kokoro'>（しかし……あの男。</span><br><span class='scene-font-kokoro'>天司長が派遣した、と考えるのが</span><br><span class='scene-font-kokoro'>妥当だろうが……）</span>,<span class='scene-font-kokoro'>（不过……那个男人。</span><br><span class='scene-font-kokoro'>难道是</span><br><span class='scene-font-kokoro'>天司长派出的手下……）</span>
+115,オリヴィエ/奥莉薇尔,<span class='scene-font-kokoro'>（天司長の思惑は何処にある？）</span>,<span class='scene-font-kokoro'>（天司长的思绪难道在那里？）</span>
+116,オリヴィエ/奥莉薇尔,<span class='scene-font-kokoro'>（あるいは、私の意識と力の一部が</span><br><span class='scene-font-kokoro'>こうして封印を抜け出たことを</span><br><span class='scene-font-kokoro'>察知した可能性もある）</span>,<span class='scene-font-kokoro'>（也许，我的意识与力量的解放</span><br><span class='scene-font-kokoro'>被察觉到了）</span>
+117,オリヴィエ/奥莉薇尔,<span class='scene-font-kokoro'>（慎重に動かねば……）</span>,<span class='scene-font-kokoro'>（要慎重一些才行……）</span>
+info,麻友桑的话筒,,scene_chr431_q1_s10
