@@ -45,14 +45,16 @@ const replaceArchive = async (html) => {
 
 let settingHtml = false
 const getHtml = async (encodedHtml, pathname) => {
-  let html
+  let html = ''
   try {
     html = decodeURIComponent(encodedHtml)
   } catch (err) {
     return encodedHtml
   }
   if (CONFIG.log) {
-    console.log(`%c${pathname}%c\n\n${html}`,'background:#31ac79;color:#fff;padding:0 2px;font-size:14px','border-left:1px solid #31ac79;padding-left:2px;')
+    console.log({
+      [pathname]: html.trim()
+    })
   }
   try {
     if (pathname.includes('/archive/content/library/')) {

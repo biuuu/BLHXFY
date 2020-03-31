@@ -3,6 +3,7 @@ import isObject from 'lodash/isObject'
 import isString from 'lodash/isString'
 import { trim } from '../../utils/'
 import CONFIG from '../../config'
+import { bossNameMap } from '../battle'
 import { getBattleNoteQuest, getBattleNote } from '../../store/battle-note'
 
 const questMap = new Map()
@@ -20,6 +21,19 @@ const getQuestId = async (data, pathname) => {
   }
 }
 
+const reList = [
+  [/(Lv\d+\s)?(.+)が真の力を解放した！/, '$1$2释放了真正的力量！', { 2: 'name' }],
+  [/(Lv\d+\s)?(.+)の特殊行動が発動！/, '$1$2的特殊行动发动了！', { 2: 'name' }],
+  [/(Lv\d+\s)?(.+)が更なる力を覚醒させた！/, '$1$2唤醒了更强的力量！', { 2: 'name' }],
+  [/(Lv\d+\s)?(.+)のCTがMAXになった。/, '$1$2的CT达到了MAX。', { 2: 'name' }],
+  [/(?:Lv\d+\s)?(.+)は麻痺していて動けない！/, '$1因麻痹效果无法行动！', { 1: 'name' }],
+  [/(?<=>)(.+)の効果により(.+)が復活した！/, '因$1的效果$2复活了！', { 1: 'skill', 2: 'name' }],
+  [/(.+)を喚べますよ！/, '现在可以召唤$1了！', { 1: 'name' }],
+  [/(.+)召喚、いけます！/, '$1召唤，准备就绪！', { 1: 'name' }],
+  [/(?:Lv\d+\s)?(.+)は眠っていて動けない！/, '$1因睡眠效果无法行动！', { 1: 'name' }],
+  [/(?:Lv\d+\s)?(.+)は魅了されていて動けない！/, '$1因魅惑效果无法行动！', { 1: 'name' }]
+]
+
 let textList = []
 const transNote = (item, key) => {
   if (!isObject(item)) return
@@ -31,11 +45,27 @@ const transNote = (item, key) => {
     let trans = battleNoteMap.get(text)
     trans = trans.replace('姬塔', CONFIG.displayName || CONFIG.userName)
     item[key] = trans
-  }
-  if (questMap.has(rid) && battleQuestNoteMap && battleQuestNoteMap.has(text)) {
+  } else if (questMap.has(rid) && battleQuestNoteMap && battleQuestNoteMap.has(text)) {
     let trans = battleQuestNoteMap.get(text)
     trans = trans.replace('姬塔', CONFIG.displayName || CONFIG.userName)
     item[key] = trans
+  } else {
+    reList.forEach(reArr => {
+      if (reArr[0].test(text)) {
+        let trans = reArr[1]
+        item[key] = text.replace(reArr[0], function (...arr) {
+          for (let i = 1; i < arr.length - 2; i++) {
+            if (reArr[2][i] === 'name' && bossNameMap.has(arr[i])) {
+              trans = trans.replace(`$${i}`, bossNameMap.get(arr[i]))
+            } else {
+              trans = trans.replace(`$${i}`, arr[i])
+            }
+          }
+          trans = trans.replace('姬塔', CONFIG.displayName || CONFIG.userName)
+          return trans
+        })
+      }
+    })
   }
   if (CONFIG.log && !textList.includes(text)) {
     textList.push(text)
@@ -49,14 +79,6 @@ win.printBattleNote = () => {
     str = `quest-${questMap.get(rid)}.note.csv\n\n${str}`
   }
   console.log(str)
-}
-
-const battleLogTitle = (data) => {
-  if (isString(data.title)) {
-    data.title = data.title.replace('バトルログ', '战斗日志')
-  } else if (isObject(data.title) && data.title.ja) {
-    data.title.ja = data.title.ja.replace('バトルログ', '战斗日志')
-  }
 }
 
 const startData = (data) => {
@@ -78,11 +100,13 @@ const normalData = (data) => {
   if (isArray(data.scenario)) {
     data.scenario.forEach(item => {
       if (item.cmd === 'battlelog') {
-        battleLogTitle(item)
         if (isString(item.body)) {
           transNote(item, 'body')
+          transNote(item, 'title')
         } else if (isObject(item.body)) {
           transNote(item.body, 'ja')
+        } else if (isObject(item.title)) {
+          transNote(item.title, 'ja')
         }
       } else if (item.cmd === 'navi_information') {
         if (isArray(item.details)) {
@@ -95,6 +119,9 @@ const normalData = (data) => {
       } else if (item.cmd === 'line_message') {
         transNote(item, 'title')
         transNote(item, 'message')
+      } else if (item.cmd === 'resurrection') {
+        transNote(item, 'title')
+        transNote(item, 'comment')
       }
     })
   }
@@ -111,9 +138,8 @@ const battleNote = async (data, pathname) => {
   battleNoteMap = await getBattleNote()
   if (pathname.endsWith('start.json')) {
     startData(data)
-  } else {
-    normalData(data)
   }
+  normalData(data)
 }
 
 export default battleNote

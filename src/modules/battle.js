@@ -294,5 +294,5 @@ const transBattleR = async (data) => {
   return await transBattle(data, 'result')
 }
 
-export { transBattleR }
+export { transBattleR, bossNameMap }
 export default transBattle
