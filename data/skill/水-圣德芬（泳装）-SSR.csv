@@ -8,3 +8,4 @@ skill-2+,一・二・三・四,<div class=prt-text-small>对敌方全体造成�
 skill-3,奔流之光,<div class=prt-text-small>强化多次攻击率/水属性攻击/普攻伤害<br><span class=text-blue>◆消耗1层咖啡时光，效果全体化</span></div>
 support-1,回忆中的味道,免疫睡眠效果/每3回合恢复HP并增加1层咖啡时光(最多5层)
 support-2,天司长的假期,普攻时消耗1层咖啡时光，增加水属性追击
+skill-lb,LB技能,使用技能时，有几率不消费咖啡时光
