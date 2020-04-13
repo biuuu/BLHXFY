@@ -1,13 +1,13 @@
 id,name,text,trans
 0-chapter_name,,STAGE2 黒幕 の 思惑,STAGE2 黑幕的企图
-0-synopsis,,町外れで待機していたC.C.と合流し、ルルーシュはガウェインに乗り込む。艇に乗り上空へ逃げる偽ゼロを追い、ルルーシュは艇を落とそうとハドロン砲を撃つが、何かの力に阻まれてしまう。よろず屋からもらった艇の情報と偽ゼロの艇の情報を照合すれば偽ゼロの潜伏先は割り出せると判断し、ルルーシュは一旦島の方へ引き返すのだった。,鲁鲁修和在城外待机的CC汇合，乘上高文追击伪Zero。鲁鲁修企图击坠小型艇发射强子炮，但被某种力量所阻碍。之后，鲁鲁修认为对照万事屋提供的情报能够锁定伪Zero潜伏在何处，于是决定先返回到岛上。
+0-synopsis,,町外れで待機していたC.C.と合流し、ルルーシュはガウェインに乗り込む。艇に乗り上空へ逃げる偽ゼロを追い、ルルーシュは艇を落とそうとハドロン砲を撃つが、何かの力に阻まれてしまう。よろず屋からもらった艇の情報と偽ゼロの艇の情報を照合すれば偽ゼロの潜伏先は割り出せると判断し、ルルーシュは一旦島の方へ引き返すのだった。,鲁鲁修和在城外待机的C.C.汇合，乘上高文追击伪Zero。鲁鲁修企图击坠小型艇发射强子炮，但被某种力量所阻碍。之后，鲁鲁修认为对照万事屋提供的情报能够锁定伪Zero潜伏在何处，于是决定先返回到岛上。
 2,C.C.,おい、こっちだ。<br>そっちはどうだった。,喂，这边。<br>你那边怎么样。
 3,ルルーシュ,姬塔のおかげで<br>助けることが出来た。,多亏姬塔帮忙，救下人质了。
-4,,<span class='scene-font-katari'>予めC.C.と示し合わせていた</span><br><span class='scene-font-katari'>地点に来ると、人目を忍ぶように</span><br><span class='scene-font-katari'>身を隠すガウェインの姿があった。</span>,<span class='scene-font-katari'>鲁鲁修来到与CC事先约定的地点，只见高文就隐藏在某个角落。</span>
+4,,<span class='scene-font-katari'>予めC.C.と示し合わせていた</span><br><span class='scene-font-katari'>地点に来ると、人目を忍ぶように</span><br><span class='scene-font-katari'>身を隠すガウェインの姿があった。</span>,<span class='scene-font-katari'>鲁鲁修来到与C.C.事先约定的地点，只见高文就隐藏在某个角落。</span>
 5,,<span class='scene-font-katari'>昇降機を使ってハッチの開いた</span><br><span class='scene-font-katari'>コックピットまで上ると、</span><br><span class='scene-font-katari'>ルルーシュはシートに滑り込んだ。</span>,<span class='scene-font-katari'>鲁鲁修坐着升降机来到舱门打开的驾驶舱，滑进了座位。</span>
 11,ルルーシュ,奴の艇は？,那家伙的船呢？
 12,C.C.,上手く隠しているらしい。<br>やはり飛び立つ瞬間を狙うのが<br>確実だろう。,隐蔽得很好。<br>还是瞄准它起飞的瞬间比较保险吧。
-13,,<span class='scene-font-katari'>忙しなくパネルを操作しながら、</span><br><span class='scene-font-katari'>ルルーシュはC.C.からの</span><br><span class='scene-font-katari'>状況報告を受ける。</span>,<span class='scene-font-katari'>鲁鲁修不慌不忙地操作着版面，一边听CC报告情况。</span>
+13,,<span class='scene-font-katari'>忙しなくパネルを操作しながら、</span><br><span class='scene-font-katari'>ルルーシュはC.C.からの</span><br><span class='scene-font-katari'>状況報告を受ける。</span>,<span class='scene-font-katari'>鲁鲁修不慌不忙地操作着版面，一边听C.C.报告情况。</span>
 14,ルルーシュ,偽ゼロは姬塔たちが<br>追っている。<br>計算通りならもう間もなく……,姬塔他们在追伪Zero。<br>如果我想的没错，应该快了……
 16,,<span class='scene-font-katari'>ルルーシュが顔を上げたまさにその時</span><br><span class='scene-font-katari'>１機の小型騎空艇が</span><br><span class='scene-font-katari'>建物の間から空へと飛び出した。</span>,<span class='scene-font-katari'>就在鲁鲁修抬头的瞬间，一架小型骑空艇从建筑物之间飞上天空。</span>
 17,C.C.,奴の艇が飛び出した。<br>行くぞ。,那家伙起飞了。<br>我们走。
@@ -36,5 +36,5 @@ id,name,text,trans
 66,C.C.,奴が島の外へ出るぞ。,他要逃出岛外了。
 67,ルルーシュ,艇に関する必要なデータは取れた。<br>これとよろず屋からのリストを<br>照合すれば、奴の潜伏先が割り出せる。,我们已经掌握船的数据了。<br>接下来和万事屋的资料进行对比就能锁定他的藏身之处。
 68,ルルーシュ,いまは深追いせず、<br>次の作戦に備えるぞ。,现在无需咬得太紧，还是回去准备下一次作战。
-69,,<span class='scene-font-katari'>ルルーシュの判断を聞き、</span><br><span class='scene-font-katari'>C.C.はガウェインの向きを反転させ</span><br><span class='scene-font-katari'>島の奥へと引き返していった。</span>,<span class='scene-font-katari'>听了鲁鲁修的判断，CC调转方向返回岛屿。</span>
+69,,<span class='scene-font-katari'>ルルーシュの判断を聞き、</span><br><span class='scene-font-katari'>C.C.はガウェインの向きを反転させ</span><br><span class='scene-font-katari'>島の奥へと引き返していった。</span>,<span class='scene-font-katari'>听了鲁鲁修的判断，C.C.调转方向返回岛屿。</span>
 info,,,scene_evt190614_cp2_q3_s10

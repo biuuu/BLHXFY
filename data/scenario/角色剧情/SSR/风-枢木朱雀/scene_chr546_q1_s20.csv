@@ -3,14 +3,14 @@ id,name,text,trans
 0-synopsis,,偽ゼロからナナリーを取り戻して数日、スザクはルルーシュと直接話す機会を伺っていたが、タイミングが合わずにいた。そんな中、依頼で姬塔達と共に鉱山の麓の村へ物資を届けにいくことになる。スザク達が物資を届けた直後、大きな地震が起き、鉱山が崩れてしまう。鉱員達を助けに坑道へ向かったスザク達は、鉱員に襲い掛かる魔物達を相手取るのだった。,从冒牌ZERO手中夺回娜娜莉后数日，朱雀一直想与鲁鲁修直接交谈，却苦于没有合适的时机。就在这样的情况下，他接受委托与姬塔等人一起将物资运送到矿山脚下的村落。就在朱雀等人将物资送到之时，发生了大地震，矿山崩塌了。为了救助矿工们而赶赴矿道的朱雀一行人，阻挡在了袭击矿工的魔物面前。
 2,,<span class='scene-font-katari'>ルルーシュに復讐するため暗躍する</span><br><span class='scene-font-katari'>偽ゼロの手から、</span><br><span class='scene-font-katari'>ナナリーを取り戻して数日。</span>,<span class='scene-font-katari'>从为向鲁鲁修复仇而</span><br><span class='scene-font-katari'>暗中谋划的伪ZERO手中</span><br><span class='scene-font-katari'>夺回娜娜莉后数日。</span>
 3,,<span class='scene-font-katari'>薬で何とか保っているものの、</span><br><span class='scene-font-katari'>偽ゼロによって投与されたウイルスは</span><br><span class='scene-font-katari'>少しずつナナリーの体を蝕んでいた。</span>,<span class='scene-font-katari'>娜娜莉的病情通过药物勉强维持着，</span><br><span class='scene-font-katari'>但冒牌ZERO所投的病毒</span><br><span class='scene-font-katari'>在一点点地侵蚀着她的身体。</span>
-10,,<span class='scene-font-katari'>そんなある日、ルルーシュを</span><br><span class='scene-font-katari'>探していたスザクは、</span><br><span class='scene-font-katari'>C.C.の姿を見つけ声をかける。</span>,<span class='scene-font-katari'>某一天，寻找鲁鲁修</span><br><span class='scene-font-katari'>的朱雀看到了</span><br><span class='scene-font-katari'>CC的身影便叫住了她。</span>
-11,スザク/朱雀,C.C.。<br>ルルーシュを<br>見かけなかったかい？,CC。<br>你有看见<br>鲁鲁修吗？
+10,,<span class='scene-font-katari'>そんなある日、ルルーシュを</span><br><span class='scene-font-katari'>探していたスザクは、</span><br><span class='scene-font-katari'>C.C.の姿を見つけ声をかける。</span>,<span class='scene-font-katari'>某一天，寻找鲁鲁修</span><br><span class='scene-font-katari'>的朱雀看到了</span><br><span class='scene-font-katari'>C.C.的身影便叫住了她。</span>
+11,スザク/朱雀,C.C.。<br>ルルーシュを<br>見かけなかったかい？,C.C.。<br>你有看见<br>鲁鲁修吗？
 12,C.C.,ん？<br>アイツなら、今朝早くに出掛けたぞ。<br>情報収集とか言っていたな。,嗯？<br>那家伙的话，今天一大早就出去了。<br>说是要收集情报什么的。
 13,スザク/朱雀,そっか……,这样吗……
 14,C.C.,何か用事か？<br>それなら、お前が探していたと<br>伝えておいてやるが。,有什么事吗？<br>有事的话，我帮你告诉他<br>你在找他。
-15,スザク/朱雀,あ、いや。<br>急ぎの用事じゃないから大丈夫だよ。<br>ありがとう、C.C.。,啊，不。<br>不是什么急事，不要紧。<br>谢谢你，CC。
+15,スザク/朱雀,あ、いや。<br>急ぎの用事じゃないから大丈夫だよ。<br>ありがとう、C.C.。,啊，不。<br>不是什么急事，不要紧。<br>谢谢你，C.C.。
 16,C.C.,そうか？<br>ならいいが。,是吗？<br>那就好。
-17,,<span class='scene-font-katari'>C.C.に礼を告げたスザクは、</span><br><span class='scene-font-katari'>僅かに肩を落として甲板へと向かう。</span>,<span class='scene-font-katari'>向CC道了谢的朱雀，</span><br><span class='scene-font-katari'>稍稍怂下肩向甲板走去。</span>
+17,,<span class='scene-font-katari'>C.C.に礼を告げたスザクは、</span><br><span class='scene-font-katari'>僅かに肩を落として甲板へと向かう。</span>,<span class='scene-font-katari'>向C.C.道了谢的朱雀，</span><br><span class='scene-font-katari'>稍稍怂下肩向甲板走去。</span>
 23,スザク/朱雀,はぁ……<br>仕方ないとはいえ、<br>タイミングが合わないな……,哈……<br>虽然是没有办法的事，<br>但总找不到机会也……
 24,スザク/朱雀,<span class='scene-font-kokoro'>（ユフィは、</span><br><span class='scene-font-kokoro'>今ごろどうしているだろう。</span><br><span class='scene-font-kokoro'>きっと心配しているだろうな……）</span>,<span class='scene-font-kokoro'>（尤菲</span><br><span class='scene-font-kokoro'>现在在干什么呢？</span><br><span class='scene-font-kokoro'>她一定很担心吧……）</span>
 25,,<span class='scene-font-katari'>スザクの脳裏に浮かんでいるのは、</span><br><span class='scene-font-katari'>主であり、守り支えると誓ったばかりの</span><br><span class='scene-font-katari'>ユーフェミア皇女の姿だった。</span>,<span class='scene-font-katari'>浮现在朱雀脑海之中的是</span><br><span class='scene-font-katari'>他的主君，他刚立下要誓言要守护扶持的</span><br><span class='scene-font-katari'>尤菲米娅皇女。</span>

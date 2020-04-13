@@ -28,7 +28,7 @@ id,name,text,trans
 26,ルルーシュ,お前とともにいたゼロは俺、<br>ルルーシュ・ランペルージだ。,那时和你在一起的Zero，都是我鲁鲁修·兰佩路基。
 27,カレン/卡莲,……っ！,……唔！
 30,C.C.,いやにあっさりとバラすのだな。,你倒是坦白得很爽快啊。
-31,,<span class='scene-font-katari'>ガウェインの陰から</span><br><span class='scene-font-katari'>C.C.が姿を現す。</span>,<span class='scene-font-katari'>CC从高文的阴影中走了出来。</span>
+31,,<span class='scene-font-katari'>ガウェインの陰から</span><br><span class='scene-font-katari'>C.C.が姿を現す。</span>,<span class='scene-font-katari'>C.C.从高文的阴影中走了出来。</span>
 32,カレン/卡莲,C.C.……,
 33,カレン/卡莲,そっか、アンタがいるってことは、<br>ルルーシュが本物のゼロというのは<br>間違いなさそうね。,是么。既然你也在，那么鲁鲁修无疑就是真正的Zero了。
 34,ルルーシュ,言い訳はしない。,我不会找借口。
@@ -38,17 +38,17 @@ id,name,text,trans
 38,カレン/卡莲,ナナリーのためね。,为了娜娜莉。
 39,ルルーシュ,多くを話すことは出来ない。,我不能说太多。
 40,ルルーシュ,もし元の世界に戻れたら、<br>シュタットフェルト家、<br>お前に危害が及ぶ可能性がある。,这可能会在我们返回原本的世界之后危及你们修坦费尔德家。
-41,,<span class='scene-font-katari'>カレンはちらりとC.C.に</span><br><span class='scene-font-katari'>目をやるが、C.C.は</span><br><span class='scene-font-katari'>遠くの空を眺めたままだった。</span>,<span class='scene-font-katari'>卡莲看了一眼CC，但CC却依旧望着远处的天空。</span>
-42,,<span class='scene-font-katari'>もしかするとC.C.は</span><br><span class='scene-font-katari'>その理由さえも知っているのかも</span><br><span class='scene-font-katari'>しれないとカレンは思ったが……</span>,<span class='scene-font-katari'>卡莲想，也许CC连鲁鲁修不愿坦明的理由都一清二楚……</span>
+41,,<span class='scene-font-katari'>カレンはちらりとC.C.に</span><br><span class='scene-font-katari'>目をやるが、C.C.は</span><br><span class='scene-font-katari'>遠くの空を眺めたままだった。</span>,<span class='scene-font-katari'>卡莲看了一眼C.C.，但C.C.却依旧望着远处的天空。</span>
+42,,<span class='scene-font-katari'>もしかするとC.C.は</span><br><span class='scene-font-katari'>その理由さえも知っているのかも</span><br><span class='scene-font-katari'>しれないとカレンは思ったが……</span>,<span class='scene-font-katari'>卡莲想，也许C.C.连鲁鲁修不愿坦明的理由都一清二楚……</span>
 43,,<span class='scene-font-katari'>ルルーシュがゼロの正体を</span><br><span class='scene-font-katari'>打ち明けてくれただけでも、</span><br><span class='scene-font-katari'>随分と気が晴れやかだった。</span>,<span class='scene-font-katari'>但确认了鲁鲁修就是Zero，她的心情也明快了不少。</span>
 44,カレン/卡莲,……わかった。<br>どうしてあなたが<br>ゼロになったかは詮索しない。,……我知道了。<br>我不会再问你为什么成为了Zero。
 45,カレン/卡莲,でも、私にとって、<br>あなたは今からルルーシュじゃなくて<br>ゼロよ。,不过，对我来说，从现在起你就不再是鲁鲁修，而是Zero了。
 46,ルルーシュ,ん？<br>理解してくれたのはありがたいが、<br>それってどういう……,嗯？<br>我很感谢你的理解，但这是什么意思……
 47,C.C.,くくっ、<br>女心のわからん奴だ。,呵呵，你真是不懂女人心。
-48,カレン/卡莲,C.C.！<br>私だって気持ちの整理をつけるのが<br>大変なんだよ！,CC！<br>我哪能这么快就整理好心情啊！
+48,カレン/卡莲,C.C.！<br>私だって気持ちの整理をつけるのが<br>大変なんだよ！,C.C.！<br>我哪能这么快就整理好心情啊！
 49,,<span class='scene-font-katari'>ゼロに憧れにも似た</span><br><span class='scene-font-katari'>好意を抱いていたカレン。</span>,<span class='scene-font-katari'>卡莲对Zero抱有类似憧憬的好感。</span>
 50,,<span class='scene-font-katari'>その正体がクラスメイトの</span><br><span class='scene-font-katari'>ルルーシュと分かり、</span><br><span class='scene-font-katari'>その好意の行き先を決めあぐねていた。</span>,<span class='scene-font-katari'>但现在知道了Zero其实就是她的同班同学，她不知道究竟怎么处理这份好感。</span>
-51,,<span class='scene-font-katari'>そのことをC.C.に茶化され、</span><br><span class='scene-font-katari'>カレンは耳まで真っ赤にしてしまう。</span>,<span class='scene-font-katari'>听到CC拿这开玩笑，卡莲不禁面红耳赤。</span>
+51,,<span class='scene-font-katari'>そのことをC.C.に茶化され、</span><br><span class='scene-font-katari'>カレンは耳まで真っ赤にしてしまう。</span>,<span class='scene-font-katari'>听到C.C.拿这开玩笑，卡莲不禁面红耳赤。</span>
 52,カレン/卡莲,いい？<br>ルルーシュ、いえ、ゼロ。,听好了，鲁鲁修，不对，Zero。
 53,カレン/卡莲,私をあなたに協力させて！<br>私の能力はあなたが一番<br>知っているはずでしょう？,让我也来帮忙吧！<br>你应该最清楚我的能力。
 54,カレン/卡莲,女将さんを……罪のない人を襲い、<br>ナナリーまで……,那家伙袭击老板娘……袭击无辜的人，还抓走了娜娜莉……
@@ -108,7 +108,7 @@ id,name,text,trans
 116,ルルーシュ,<span class='scene-font-kokoro'>（俺がゼロだと知っているとなると、</span><br><span class='scene-font-kokoro'>いくつかの可能性が考えられる）</span>,<span class='scene-font-kokoro'>（是个知道我就是Zero的人，那也有很多种可能性。）</span>
 117,ルルーシュ,<span class='scene-font-kokoro'>（しかし、どれも決定打に欠ける。</span><br><span class='scene-font-kokoro'>何か手がかりは……）</span>,<span class='scene-font-kokoro'>（但要锁定其中一人，还缺少决定性的证据……）</span>
 118,ルルーシュ,<span class='scene-font-kokoro'>（ん？　そう言えば……）</span>,<span class='scene-font-kokoro'>（嗯？　说起来……）</span>
-119,ルルーシュ,なあ、C.C.。<br>お前、<span class='scene-font-spword'>『嚮主様』</span>という言葉に<br>心当たりはないか？,喂，CC。<br>你对<span class='scene-font-spword'>『向主大人』</span>这个称呼有印象吗？
+119,ルルーシュ,なあ、C.C.。<br>お前、<span class='scene-font-spword'>『嚮主様』</span>という言葉に<br>心当たりはないか？,喂，C.C.。<br>你对<span class='scene-font-spword'>『向主大人』</span>这个称呼有印象吗？
 120,C.C.,っ！<br>……お前、どこでそれを……,唔！<br>……你、在哪里听到这个名字的……
 121,,<span class='scene-font-katari'>朧げながらも見え始めた</span><br><span class='scene-font-katari'>偽ゼロの目的と正体。ルルーシュは</span><br><span class='scene-font-katari'>更に一歩答えへと近づいていく。</span>,<span class='scene-font-katari'>伪Zero的身份开始浮出水面。鲁鲁修离答案又接近了一步。</span>
 info,,,scene_evt190614_cp2_q1_s10

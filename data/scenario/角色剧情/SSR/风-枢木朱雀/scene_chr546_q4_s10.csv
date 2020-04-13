@@ -34,7 +34,7 @@ id,name,text,trans
 47,,<span class='scene-font-katari'>泣き出しそうな声と共に飛び込んできた</span><br><span class='scene-font-katari'>小さな影を抱き留めた姬塔は、</span><br><span class='scene-font-katari'>微笑みながら頭を撫でてやる。</span>,<span class='scene-font-katari'>抱住与想要哭出来的声音</span><br><span class='scene-font-katari'>一起飞来的小小的身影，</span><br><span class='scene-font-katari'>姬塔微笑地抚摸着碧的脑袋。</span>
 49,C.C.,間一髪、間に合ったようだな。,千钧一发，看上去是赶上了。
 50,ルルーシュ/鲁鲁修,ああ。<br>ガウェインに飛行能力があって<br>助かった。,啊啊。<br>高文有飞行能力<br>真是帮了大忙。
-51,スザク/朱雀,ルルーシュ、C.C.まで……<br>どうして君達がここに？,鲁鲁修，连CC也……<br>你们为什么在这里？
+51,スザク/朱雀,ルルーシュ、C.C.まで……<br>どうして君達がここに？,鲁鲁修，连C.C.也……<br>你们为什么在这里？
 52,ルルーシュ/鲁鲁修,ああ。<br>実は……,啊啊。<br>其实……
 58,,<span class='scene-font-katari'>姬塔達が坑道の地下に</span><br><span class='scene-font-katari'>落下したその頃。</span>,<span class='scene-font-katari'>在姬塔等人掉落至</span><br><span class='scene-font-katari'>矿坑地下的时候。</span>
 59,,<span class='scene-font-katari'>情報収集から戻ったルルーシュは、</span><br><span class='scene-font-katari'>具合の良くないナナリーの</span><br><span class='scene-font-katari'>看病に当たっていた。</span>,<span class='scene-font-katari'>收集完资料回来的</span><br><span class='scene-font-katari'>鲁鲁修照顾着</span><br><span class='scene-font-katari'>病情并不乐观的娜娜莉。</span>
@@ -48,7 +48,7 @@ id,name,text,trans
 68,ナナリー/娜娜莉,お兄様……私は大丈夫です。<br>だから、スザクさんを……<br>姬塔さん達を助けてください。,哥哥……我没事的。<br>所以请救救朱雀……<br>还有姬塔吧。
 69,ルルーシュ/鲁鲁修,…………,…………
 70,ルルーシュ/鲁鲁修,……分かった。<br>行ってくる。,……我明白了。<br>我这就去。
-76,スザク/朱雀,そうか、ナナリーが……<br>ルルーシュ、C.C.。<br>助けに来てくれてありがとう。,原来如此，是娜娜莉……<br>鲁鲁修，CC。<br>谢谢你们前来相救。
+76,スザク/朱雀,そうか、ナナリーが……<br>ルルーシュ、C.C.。<br>助けに来てくれてありがとう。,原来如此，是娜娜莉……<br>鲁鲁修，C.C.。<br>谢谢你们前来相救。
 77,ルリア/露莉亚,それにしても、<br>ルルーシュさんはどうして<br>私達の居場所が分かったんですか？,话虽是如此，<br>但鲁鲁修你是怎么知道<br>我们在这里的？
 78,ルルーシュ/鲁鲁修,大したことじゃない。<br>坑道の入り口にいた鉱員に<br>内部の地図を見せてもらったんだ。,没什么了不起的。<br>我让在矿道入口的矿工<br>给我看了矿道内部的地图。
 79,ルルーシュ/鲁鲁修,お前達が落下した場所と地図を<br>照らし合わせた結果、廃棄された<br>旧坑道に行きついたというわけだ。,把你们掉下的地方和地图<br>比照之后，我便知道了<br>你们是掉到了被废弃的旧矿道。

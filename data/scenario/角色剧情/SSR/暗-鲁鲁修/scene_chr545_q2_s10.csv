@@ -1,6 +1,6 @@
 id,name,text,trans
 0-chapter_name,,ルルーシュ イン ザ スカイ,Lelouch in the Sky
-0-synopsis,,グルメイベント当日、ルルーシュ達は「ねこのピザ屋さん」と名付けたピザ屋を出店する。カレン、ナナリー、ジェレミアの呼び込み、厨房のルルーシュとウェイターのスザクの息の合った連携、C.C.監修の質の高いピザ、そして姬塔達の手伝いで店は大繁盛を見せる。しかし、そんなねこのピザ屋さんを忌々しげに見つめる人影があるのだった。,美食节当天，鲁鲁修等人以「猫咪披萨屋」的店名出店。在卡莲、娜娜莉、杰雷米亚的拉客、大厨鲁鲁修和服务生朱雀完美的连携、CC监修下的高品质披萨、以及姬塔等人的帮助下，披萨店生意兴隆。但是有一个人影在暗中用令人生厌的眼神瞪视着猫咪披萨屋。
+0-synopsis,,グルメイベント当日、ルルーシュ達は「ねこのピザ屋さん」と名付けたピザ屋を出店する。カレン、ナナリー、ジェレミアの呼び込み、厨房のルルーシュとウェイターのスザクの息の合った連携、C.C.監修の質の高いピザ、そして姬塔達の手伝いで店は大繁盛を見せる。しかし、そんなねこのピザ屋さんを忌々しげに見つめる人影があるのだった。,美食节当天，鲁鲁修等人以「猫咪披萨屋」的店名出店。在卡莲、娜娜莉、杰雷米亚的拉客、大厨鲁鲁修和服务生朱雀完美的连携、C.C.监修下的高品质披萨、以及姬塔等人的帮助下，披萨店生意兴隆。但是有一个人影在暗中用令人生厌的眼神瞪视着猫咪披萨屋。
 1,,<span class='scene-font-katari'>グルメイベントにピザ屋を出すために</span><br><span class='scene-font-katari'>必要な資材や食材の調達などを</span><br><span class='scene-font-katari'>全て完璧に手配するルルーシュ。</span>,<span class='scene-font-katari'>鲁鲁修将为了在美食节开披萨店</span><br><span class='scene-font-katari'>所需的食材全部完美地</span><br><span class='scene-font-katari'>安排就绪。</span>
 2,,<span class='scene-font-katari'>資材の搬入を終えてピザ屋の設営を</span><br><span class='scene-font-katari'>終えたルルーシュ達は、意気揚々と</span><br><span class='scene-font-katari'>イベント当日を迎えた。</span>,<span class='scene-font-katari'>将所需材料搬运完毕，</span><br><span class='scene-font-katari'>并将披萨店布置完毕的鲁鲁修等人</span><br><span class='scene-font-katari'>志得意满地迎来了美食节。</span>
 3,ルルーシュ/鲁鲁修,突貫だが、なんとか間に合ったな。,虽然时间短暂，但总算是赶上了。
@@ -22,14 +22,14 @@ id,name,text,trans
 25,,<span class='scene-font-katari'>スザクがねこの顔型に整えたピザ生地に</span><br><span class='scene-font-katari'>美しく具材をトッピングしては、</span><br><span class='scene-font-katari'>次々とピザ窯に投入するルルーシュ。</span>,<span class='scene-font-katari'>朱雀在做成猫脸形状的披萨饼上</span><br><span class='scene-font-katari'>漂亮地撒上馅料，</span><br><span class='scene-font-katari'>鲁鲁修将披萨一块块放入窑中。</span>
 26,,<span class='scene-font-katari'>厨房のルルーシュとウェイターの</span><br><span class='scene-font-katari'>スザクは、息の合った連携で</span><br><span class='scene-font-katari'>ねこのピザ屋さんを回していた。</span>,<span class='scene-font-katari'>在负责厨房的鲁鲁修和服务生朱雀</span><br><span class='scene-font-katari'>完美无瑕的连携下，</span><br><span class='scene-font-katari'>猫咪披萨屋得以周转。</span>
 27,C.C.,ルルーシュ、<br>ピザはまだか？,鲁鲁修，<br>披萨还没好吗？
-28,ルルーシュ/鲁鲁修,C.C.！　お前な。<br>見てないで手伝え。,CC！　我说你啊。<br>不要光看着，快来帮忙。
+28,ルルーシュ/鲁鲁修,C.C.！　お前な。<br>見てないで手伝え。,C.C.！　我说你啊。<br>不要光看着，快来帮忙。
 29,C.C.,私は味見役だと言っただろう。<br>私のおかげでこのピザの完成度に<br>なったのを忘れたのか。,我都说了我是负责试吃的了。<br>你可别忘了，<br>多亏我披萨才能有这样的完成度。
 30,ルルーシュ/鲁鲁修,確かにお前の舌のおかげで、<br>この味に到達することが出来た。<br>それは認める。,的确多亏了你的舌头，<br>才能做出这样的味道。<br>这点我承认。
 31,ルルーシュ/鲁鲁修,が、如何せん人手が足りん。<br>お前の手でも借りたいぐらいだ。,但是现在人手不足。<br>就连你我也想借来帮忙。
 32,C.C.,なんか引っかかる言い方だな。,这说法让人有点在意啊。
-33,ルルーシュ/鲁鲁修,ほら、C.C.も接客を頼む。,好了，CC，拜托你也去接客。
+33,ルルーシュ/鲁鲁修,ほら、C.C.も接客を頼む。,好了，C.C.，拜托你也去接客。
 34,C.C.,ふん。まあいい。<br>ナナリーのためでもあるからな。,哼。算了。<br>就当是为了娜娜莉。
-35,,<span class='scene-font-katari'>あまりの人気ぶりで客足が絶えない中、</span><br><span class='scene-font-katari'>ルルーシュが、C.C.にも接客を</span><br><span class='scene-font-katari'>手伝わせようとした、その時……</span>,<span class='scene-font-katari'>因为太过人气客人接踵而至，</span><br><span class='scene-font-katari'>鲁鲁修正打算拜托CC帮忙接客，</span><br><span class='scene-font-katari'>这时……</span>
+35,,<span class='scene-font-katari'>あまりの人気ぶりで客足が絶えない中、</span><br><span class='scene-font-katari'>ルルーシュが、C.C.にも接客を</span><br><span class='scene-font-katari'>手伝わせようとした、その時……</span>,<span class='scene-font-katari'>因为太过人气客人接踵而至，</span><br><span class='scene-font-katari'>鲁鲁修正打算拜托C.C.帮忙接客，</span><br><span class='scene-font-katari'>这时……</span>
 37,ルリア/露莉亚,わぁ～！<br>なんだか美味しそうな<br>匂いがしてきましたね～！,哇啊～！<br>这是什么闻起来<br>超美味的味道～！
 38,ビィ/碧,おっ！<br>ねこのピザ屋さんって<br>ここみてぇだな！,噢！<br>猫咪披萨屋<br>好像就是这里了！
 39,ナナリー/娜娜莉,ビィさん！　ルリアさん！<br>来てくれたんですね！,碧！　露莉亚！<br>你们也来了啊！
@@ -41,7 +41,7 @@ id,name,text,trans
 43-sel2_txt,,<span class='scene-font-katari'>厨房を手伝おうか？</span>,<span class='scene-font-katari'>要帮忙厨房吗？</span>
 44,ルルーシュ/鲁鲁修,いいのか？<br>だがこれ以上迷惑をかけるわけには……,真的可以吗？<br>但我们不能再给你们添麻烦了……
 44-sel1_txt,,<span class='scene-font-katari'>ちょうど暇だったし！</span>,<span class='scene-font-katari'>正好我们也闲着！</span>
-45,ルルーシュ/鲁鲁修,姬塔、恩に着るよ。<br>ではC.C.とスザクと一緒に<br>接客を頼めるか？,姬塔，我又欠你们一个人情。<br>那我可以拜托你们<br>和朱雀还有CC一起接客吗？
+45,ルルーシュ/鲁鲁修,姬塔、恩に着るよ。<br>ではC.C.とスザクと一緒に<br>接客を頼めるか？,姬塔，我又欠你们一个人情。<br>那我可以拜托你们<br>和朱雀还有C.C.一起接客吗？
 46,C.C.,よし、姬塔。<br>存分に手伝ってくれよ。,那好，姬塔。<br>就让你们倾力相助了。
 47,ルルーシュ/鲁鲁修,いいのか？<br>だがこれ以上迷惑をかけるわけには……,真的可以吗？<br>但我们不能再给你们添麻烦了……
 47-sel1_txt,,<span class='scene-font-katari'>楽しそうだからいいよ！</span>,<span class='scene-font-katari'>没事，看上去很有趣呢！</span>

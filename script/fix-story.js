@@ -29,7 +29,9 @@ const readCsv = async (csvPath, silence) => {
 }
 
 const fixStory = (text) => {
-  return text.replace(/ー/g, '').replace(/ちゃん/g, '').replace(/さん/g, '').replace(/\.{3}/g, '…').replace(/\.{2}/g, '…').replace(/\./g, '')
+  return text.replace(/ー/g, '').replace(/ちゃん/g, '')
+    .replace(/さん/g, '').replace(/\.{3}/g, '…').replace(/\.{2}/g, '…').replace(/\./g, '')
+    .replace(/CC/g, 'C.C.')
 }
 
 const start = async () => {
