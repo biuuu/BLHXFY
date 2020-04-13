@@ -21,7 +21,7 @@ id,name,text,trans
 23,セン,お邪魔してしまってごめんなさい。<br>私達、今日この島に来たところで……,打扰到你非常抱歉。<br>我们、今天才到这座岛上……
 25,ガラの悪い猫１,…………,…………
 27,セン,あ、あれ……？,唔、咦……？
-28,ムクタ,フー……！,喵ー……！
+28,ムクタ,フー……！,喵……！
 29,セン,皆さん、<br>艇に帰りましょう……！,大家、<br>回骑空艇吧……！
 30,リベラ,…………,…………
 31,セン,故郷の村の近くにいた<br>山猫さんも同じでしたが、<br>縄張りに入ると怒られちゃいます。,和故乡的村子附近的<br>山猫看起来一样、<br>但是冒昧闯进来会惹他们生气。
@@ -37,18 +37,18 @@ id,name,text,trans
 42,セン,ああ、えっと、抱っこします！<br>しますから、早くここから<br>離れましょう……！,啊啊、唔、我抱你！<br>所以、快点<br>离开这里吧……！
 44,？？？,…………,…………
 45,,<span class='scene-font-katari'>こちらを取り囲む猫達の背後に、</span><br><span class='scene-font-katari'>一際大柄な猫が姿を現す。</span>,<span class='scene-font-katari'>堵塞着的猫群后、</span><br><span class='scene-font-katari'>出现了一只大型猫。</span>
-46,？？？,<span class='scene-font-4'>フシャーッ！！</span>,<span class='scene-font-4'>喵ー！！</span>
-47,ガラの悪い猫１,<span class='scene-font-4'>ニャーーーッ！！</span>,<span class='scene-font-4'>喵ーーー！！</span>
+46,？？？,<span class='scene-font-4'>フシャーッ！！</span>,<span class='scene-font-4'>喵！！</span>
+47,ガラの悪い猫１,<span class='scene-font-4'>ニャーーーッ！！</span>,<span class='scene-font-4'>喵！！</span>
 48,リベラ,…………にゃッ！,…………喵！
 49,,<span class='scene-font-katari'>大柄な猫の声を合図に、</span><br><span class='scene-font-katari'>島の猫達が一斉に襲い掛かってきた。</span>,<span class='scene-font-katari'>以大猫的声音为暗号、</span><br><span class='scene-font-katari'>岛上的猫一齐攻击了过来。</span>
 51,セン,<span class='scene-font-4'>きゃっ！？</span>,<span class='scene-font-4'>呀！？</span>
 52,,<span class='scene-font-katari'>センは、子猫を抱えたまま</span><br><span class='scene-font-katari'>驚愕に身を固くする。</span>,<span class='scene-font-katari'>千、抱着奶猫</span><br><span class='scene-font-katari'>惊愕地僵直了身子。</span>
 53,セン,あの、あの……皆さん……！,那个、那个……大家……！
-54,ムクタ,<span class='scene-font-4'>フギャー！</span>,<span class='scene-font-4'>喵ー！</span>
-55,ヴァパウス,<span class='scene-font-4'>ンナーッ！！</span>,<span class='scene-font-4'>喵ー！！</span>
+54,ムクタ,<span class='scene-font-4'>フギャー！</span>,<span class='scene-font-4'>喵！</span>
+55,ヴァパウス,<span class='scene-font-4'>ンナーッ！！</span>,<span class='scene-font-4'>喵！！</span>
 57,,<span class='scene-font-katari'>辺りはあっという間に</span><br><span class='scene-font-katari'>乱戦状態となる。</span>,<span class='scene-font-katari'>一瞬间</span><br><span class='scene-font-katari'>周围就陷入了混战状态。</span>
 58,セン,どど、どうしましょう……！？,怎、怎么办啊……！？
-59,ガラの悪い猫２,<span class='scene-font-4'>フシャーーーッ！！</span>,<span class='scene-font-4'>喵ーーー！！</span>
+59,ガラの悪い猫２,<span class='scene-font-4'>フシャーーーッ！！</span>,<span class='scene-font-4'>喵！！</span>
 60,エレフセリア,ミャオッ！？,喵！？
 61,セン,ああっ！<br>エレフセリアさん！,啊啊！<br>艾勒夫赛利亚！
 62,,<span class='scene-font-katari'>ダーントの師たる仲間の猫達を</span><br><span class='scene-font-katari'>助けたくとも、だからと言って</span><br><span class='scene-font-katari'>島の猫を傷つけることもできない。</span>,<span class='scene-font-katari'>虽说想要帮助</span><br><span class='scene-font-katari'>身为旦特的老师的猫们</span><br><span class='scene-font-katari'>但也无法出手伤害岛上的猫群。</span>
@@ -62,3 +62,4 @@ id,name,text,trans
 73,セン,えっ……？,欸……？
 75,,<span class='scene-font-katari'>それきり、センの意識は暗転した──</span>,<span class='scene-font-katari'>之后、千就陷入昏迷──</span>
 info,麻友桑的话筒,,scene_evt190131_cp1_q3_s10
+,,,

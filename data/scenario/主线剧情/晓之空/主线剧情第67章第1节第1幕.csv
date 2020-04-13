@@ -1,4 +1,4 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-chapter_name,67: Crimson Chronicles,第67章　緋色の過去,67：绯色的过去
 0-synopsis,"Baragona is greeted at the Dydroit Belt by the fierce Golden Knight. The knight relays orders from the True King and reminds Baragona that his negligent watch over Akasha allowed it to be stolen. In response, Baragona presents a blithe attitude that fans the flames of the Golden Knight's seething anger. The situation escalates until the two draw swords, causing a clash that resonates through the Dydroit Belt.",<span class='scene-font-place'>ダイダロイトベルト</span>に降り立ったバラゴナを待ち受けていたのは、殺気を纏った黄金の騎士だった。真王の勅命を告げるも飄々としているバラゴナに黄金の騎士は苛立ちを募らせ、星晶獣アーカーシャの監視の甘さを引き合いに出しバラゴナを詰る。なおも態度を変えないバラゴナに、ついに黄金の騎士は剣を振り下ろし、その衝撃は<span class='scene-font-place'>ダイダロイトベルト</span>中を揺るがした。, 在碎石环等待着刚刚降落到地面的巴拉戈纳的，是散发出杀气的黄金之骑士。即使接受真王的勒令仍然满不在乎的巴拉戈纳，引起了黄金骑士的不满，责问其在星晶兽阿卡夏的监视上犯下的掉以轻心。面对没有改变态度的巴拉戈纳，黄金骑士挥剑，引起的冲击使整个<span class='scene-font-place'>碎石环</span>抖了三抖。
 0,"Baragona arrives to the Dydroit Belt, and the Golden Knight appears eager to greet him, weapon at the ready.",<span class='scene-font-place'>ダイダロイトベルト</span><span class='scene-font-katari'>に</span><br><span class='scene-font-katari'>降り立ったバラゴナに対し、</span><br><span class='scene-font-katari'>黄金の騎士は明らかな殺気を放っていた。</span>,<span class='scene-font-katari'>面对着降到</span><span class='scene-font-place'>碎石环</span><span class='scene-font-katari'>地面的巴拉戈纳，黄金骑士放出了明显的杀气。</span>
@@ -19,11 +19,11 @@
 15,...which wouldn't be the case if you had carried out those orders in Nalhegrande Skydom.,これというのも、<br>お前がナル・グランデで<br>然るべき責務を果たさないせいだ……,事情会发展成这样，还不是你没能在纳尔格兰德空域履行理应达成的使命。
 16,It would only be right of you to make amends and dutifully obey this order.,せめてもの罪滅ぼしとして、<br>真摯に任務にあたることだな。,至少为了将功赎罪，还请务必尽职尽责完成这个任务。
 17,"Now now, that seems a bit stern...",やれやれ……<br>これは手厳しい……,呀嘞呀嘞，可真是严厉啊。
-18,...,…………,...
+18,...,…………,…
 19,Baragona's blithe attitude fans the flames of the knight's seething anger.,<span class='scene-font-katari'>飄々としたバラゴナの態度に、</span><br><span class='scene-font-katari'>黄金の騎士はなおも苛立ちを募らせる。</span>,<span class='scene-font-katari'>对于巴拉戈纳这一事不关己的态度，黄金骑士逐渐动怒。</span>
 20,"Under the king's orders, you were supposed to keep watch over Akasha at Lumacie.",陛下から命じられ、<span class='scene-font-place'>ルーマシー群島</span>で<br>お前は星晶獣アーカーシャを<br>監視していたはずだな……,根据陛下的命令，在<span class='scene-font-place'>露玛茜群岛</span>你本应该监视好阿卡夏。
 21,How could you do nothing when the Empire's men took Akasha away?,なぜエルステの手の者が、<br>アーカーシャを持ち出した時、<br>何も手を打たなかった？,在帝国的那些家伙得手阿卡夏时，为什么你什么都没做？
-22,...,…………,...
+22,...,…………,…
 23,"Answer me, Baragona!",答えろッ！　バラゴナッ！！,回答我，巴拉戈纳！
 24,Things happen as they happen. That is my answer.,物事は成るようにしかならない……<br>それが私の答えだ。,世事总是风云变幻捉摸不透，这就是我的回答。
 25,Fool! Do you taunt me?,このっ……！<br>お前は私をおちょくっているのか！？,你！！是在捉弄我吗！？
@@ -35,3 +35,4 @@
 31,!,………！！,！
 35,The clash shakes the ground beneath them as a loud rumble resonates through the Dydroit Belt.,<span class='scene-font-katari'>その衝突は巨大な振動と音になり、</span><br><span class='scene-font-place'>ダイダロイトベルト</span><span class='scene-font-katari'>全体を、</span><br><span class='scene-font-katari'>瞬く間に駆け巡るのだった。</span>,<span class='scene-font-katari'>那一冲击引发的巨大震动声，一瞬间就传遍了整个</span><span class='scene-font-place'>碎石环</span><span class='scene-font-katari'>。</span>
 info,1,1,scene_cp67_q1_s10
+,,,

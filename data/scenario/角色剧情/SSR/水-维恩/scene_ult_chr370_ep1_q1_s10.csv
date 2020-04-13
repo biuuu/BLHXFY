@@ -20,12 +20,12 @@ id,name,text,trans
 17,ふたり/两人,<span class='scene-font-4'>うわっ！</span>,<span class='scene-font-4'>呜哇！</span>
 18,,<span class='scene-font-katari'>突然聞こえてきた咳払いに、</span><br><span class='scene-font-katari'>恐る恐る廊下の曲がり角の</span><br><span class='scene-font-katari'>先をのぞき込む団員達。</span>,<span class='scene-font-katari'>突然听见咳嗽声的团员们</span><br><span class='scene-font-katari'>战战兢兢地看向走廊转角后。</span>
 19,ヴェイン/维恩,<span class='scene-font-4'>ハッ……ハックション……！</span>,<span class='scene-font-4'>啊……啊嚏……！</span>
-20,ヴェイン/维恩,うわーなんか風邪ひいたかも！<br>ん？　あれ？　お前たち何してるんだ？,呜哇ー我搞不好感冒了啊！<br>嗯？咦？你们在做什么？
+20,ヴェイン/维恩,うわーなんか風邪ひいたかも！<br>ん？　あれ？　お前たち何してるんだ？,呜哇我搞不好感冒了啊！<br>嗯？咦？你们在做什么？
 22,白竜騎士団団員１,あ、いえ……その……,啊、不……那个……
 23,白竜騎士団団員２,ヴェイン副団長こそ……<br>ここで何してるんですか？,维恩副团长才是……<br>在这里做什么呢？
 24,ヴェイン/维恩,俺はほら……<br>見りゃ分かるだろ！<br>掃除だよ掃除！,我啊，看了就知道了吧！<br>我在打扫呢，打扫！
 25,ヴェイン/维恩,あまりにも掃除に集中しすぎて<br>周りの音が何も聞こえなかったぜ！,太专注打扫了，<br>周围有什么声音都没听见呢！
-26,ヴェイン/维恩,いやーすごい体験だったな～！<br>クリーニングハイってヤツか！<br>わはははははっ！,哎呀ー真是了不得的体验啊～！<br>这就是扫嗨了吗！<br>哇哈哈哈哈哈！
+26,ヴェイン/维恩,いやーすごい体験だったな～！<br>クリーニングハイってヤツか！<br>わはははははっ！,哎呀真是了不得的体验啊～！<br>这就是扫嗨了吗！<br>哇哈哈哈哈哈！
 27,白竜騎士団団員１,ヴェイン副団長……,维恩副团长……
 28,白竜騎士団団員２,俺たち……その……,我们……那个……
 29,ヴェイン/维恩,あれ？<br>俺なんか熱っぽいかも……？,咦？<br>我人好像有点热……？
@@ -90,3 +90,4 @@ id,name,text,trans
 99,,<span class='scene-font-katari'>その時、何かを思いついた様子の</span><br><span class='scene-font-katari'>姬塔は、皆に集合場所を告げて</span><br><span class='scene-font-katari'>慌てて部屋を飛び出していくのだった。</span>,<span class='scene-font-katari'>这时，像是想到了些什么一样，</span><br><span class='scene-font-katari'>姬塔只留给大家一个集合地点，</span><br><span class='scene-font-katari'>就匆匆飞奔出了房间。</span>
 info,,,scene_ult_chr370_ep1_q1_s10
 译者,,,久坂遥
+,,,

@@ -1,6 +1,6 @@
 id,name,text,trans
 0-chapter_name,,ルルーシュ イン ザ スカイ,Lelouch in the Sky
-0-synopsis,,ある日、ルルーシュ達の乗るナイトメアフレームの充電代金として、姬塔達に100万ルピが請求されていると知ったルルーシュ達。姬塔達に迷惑をかけないよう金を稼ぐ方法はないかと悩む中、C.C.が街おこしグルメイベントの情報を持ってくる。出店して優勝すれば100万ルピというこのイベントに、ルルーシュ達はピザ屋を出店することに決めるのだった。,某日，鲁鲁修等人得知，为了支付他们乘坐的KMF的充电费用，姬塔等人收到了100万卢比的账单。为了不给姬塔等人添麻烦，鲁鲁修一行人正为赚钱的方法犯愁时，C.C.带回了为了振兴街区而筹办的美食节的情报。在这个开店优胜便能获得100万卢比的活动中，鲁鲁修等人决定开披萨店。
+0-synopsis,,ある日、ルルーシュ達の乗るナイトメアフレームの充電代金として、姬塔達に100万ルピが請求されていると知ったルルーシュ達。姬塔達に迷惑をかけないよう金を稼ぐ方法はないかと悩む中、C.C.が街おこしグルメイベントの情報を持ってくる。出店して優勝すれば100万ルピというこのイベントに、ルルーシュ達はピザ屋を出店することに決めるのだった。,某日，鲁鲁修等人得知，为了支付他们乘坐的KMF的充电费用，姬塔等人收到了100万卢比的账单。为了不给姬塔等人添麻烦，鲁鲁修一行人正为赚钱的方法犯愁时，CC带回了为了振兴街区而筹办的美食节的情报。在这个开店优胜便能获得100万卢比的活动中，鲁鲁修等人决定开披萨店。
 1,ビィ/碧,んなっ！？<br>見ろよこの請求書の金額……！,嗯什么！？<br>快看这账单上的金额……！
 2,ルリア/露莉亚,ええっと……<br>ナイトメアフレームの<br>充電代金……,诶诶……<br>KMF的<br>充电费用……
 3,,<span class='scene-font-katari'>その日、姬塔達は</span><br><span class='scene-font-katari'>支払期日の迫った</span><br><span class='scene-font-katari'>請求書に目を通していた。</span>,<span class='scene-font-katari'>那一天，姬塔等人</span><br><span class='scene-font-katari'>看着即将到</span><br><span class='scene-font-katari'>支付期限的账单。</span>
@@ -39,16 +39,16 @@ id,name,text,trans
 43,ルルーシュ/鲁鲁修,依頼以外で金を稼ぐ方法は無くはない。<br>ただ……,不是没有通过接任务以外赚钱的方法。<br>只是……
 44,,<span class='scene-font-katari'>その時、ルルーシュ達の前を</span><br><span class='scene-font-katari'>ふらりと人影が横切った。</span>,<span class='scene-font-katari'>その時、在鲁鲁修等人的面前</span><br><span class='scene-font-katari'>这时突然闪出一个人影</span>
 45,C.C.,おお、お前たち、<br>こんなところに揃っていたのか。,哦哦，你们这群人<br>聚在这种地方啊。
-46,ルルーシュ/鲁鲁修,C.C.<br>お前、今までどこにいたんだ？,C.C.<br>你刚才到哪里去了？
+46,ルルーシュ/鲁鲁修,C.C.<br>お前、今までどこにいたんだ？,CC<br>你刚才到哪里去了？
 47,C.C.,街をぶらぶらしていただけだ。<br>そんなことより、これを見ろ。,在街上转悠。<br>比起这个，你看。
 48,ルルーシュ/鲁鲁修,後にしろ。<br>今深刻な話をしているんだ。,等会儿再说。<br>我们现在正在讨论严峻的问题。
 49,C.C.,深刻だと？<br>何があった？,严峻的问题？<br>出了什么事？
-50,,<span class='scene-font-katari'>怪訝そうな表情を浮かべるC.C.に、</span><br><span class='scene-font-katari'>経緯を説明するルルーシュ達。</span>,<span class='scene-font-katari'>鲁鲁修向面露讶异的C.C.</span><br><span class='scene-font-katari'>解释了事情的缘由。</span>
+50,,<span class='scene-font-katari'>怪訝そうな表情を浮かべるC.C.に、</span><br><span class='scene-font-katari'>経緯を説明するルルーシュ達。</span>,<span class='scene-font-katari'>鲁鲁修向面露讶异的CC</span><br><span class='scene-font-katari'>解释了事情的缘由。</span>
 51,C.C.,なるほど……<br>それでナナリーまで<br>暗い顔をしていたのか。,原来如此……<br>所以就连娜娜莉都<br>一脸阴沉吗。
 52,ナナリー/娜娜莉,はい……<br>でも、私に出来ることなんて……,是的……<br>但有什么事是我能做到的吗……
 53,C.C.,心配するな。<br>丁度いいことに私が吉報を<br>持って来てやった。,别担心。<br>正好我给你们<br>带来了好消息。
 54,C.C.,これを見ろ。,看这个。
-55,,<span class='scene-font-katari'>吉報と言うC.C.が</span><br><span class='scene-font-katari'>皆の前に差し出した紙片には、</span><br><span class='scene-font-katari'>以下の文字が躍っていた。</span>,<span class='scene-font-katari'>说着有好消息的C.C.</span><br><span class='scene-font-katari'>把一张纸片举在众人眼前，</span><br><span class='scene-font-katari'>以下的文字跃然纸上。</span>
+55,,<span class='scene-font-katari'>吉報と言うC.C.が</span><br><span class='scene-font-katari'>皆の前に差し出した紙片には、</span><br><span class='scene-font-katari'>以下の文字が躍っていた。</span>,<span class='scene-font-katari'>说着有好消息的CC</span><br><span class='scene-font-katari'>把一张纸片举在众人眼前，</span><br><span class='scene-font-katari'>以下的文字跃然纸上。</span>
 56,,<span class='scene-font-bold scene-font-blue'>『街おこしグルメイベント開催！</span><br><span class='scene-font-bold scene-font-blue'>出店者絶賛募集中！</span><br><span class='scene-font-bold scene-font-blue'>優勝者には賞金100万ルピ進呈！』</span>,<span class='scene-font-bold scene-font-blue'>『振兴街区美食节开办！</span><br><span class='scene-font-bold scene-font-blue'>大力募集开店者！</span><br><span class='scene-font-bold scene-font-blue'>优胜者将获得100万卢比的奖励！』</span>
 57,カレン/卡莲,グルメイベントに出店……,在美食节开店……
 58,スザク/朱雀,優勝賞金100万ルピ……！,优胜奖金100万卢比……！
@@ -60,7 +60,7 @@ id,name,text,trans
 64,C.C.,決まっているだろう、ルルーシュ。,这不是早就决定了吗，鲁路修。
 65,C.C.,ピザだ。<br>ピザ屋を出店する。,当然是披萨啦。<br>开披萨店。
 66,ルルーシュ/鲁鲁修,お前がピザを食べたいだけだろう！,你只是想吃披萨吧！
-67,スザク/朱雀,いや……C.C.の提案<br>いいんじゃないか。,不……C.C.的提案<br>不错啊。
+67,スザク/朱雀,いや……C.C.の提案<br>いいんじゃないか。,不……CC的提案<br>不错啊。
 68,スザク/朱雀,幸いこちらの世界にピザは<br>普及していないみたいだし……,所幸这个世界<br>披萨尚未普及……
 69,スザク/朱雀,上手く行けば<br>優勝の可能性は十分にある。,顺利的话<br>优胜的可能性不小。
 70,カレン/卡莲,確かに！　似た食べ物はあっても、<br>私たちの世界のピザほど<br>美味しくないもんね。,没错！　就算有类似的食物，<br>也没有我们世界的披萨<br>好吃呢。

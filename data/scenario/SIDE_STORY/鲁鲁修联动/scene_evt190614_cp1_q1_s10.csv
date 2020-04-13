@@ -1,12 +1,12 @@
 id,name,text,trans
 0-chapter_name,,STAGE1 異世界 の ゼロ,STAGE1 异世界的Zero
-0-synopsis,,数日後、ルルーシュとC.C.は島々を渡り歩くため、素性を隠し姬塔一行の騎空団に身を寄せていた。ギアスを使わず一行と友好的な関係を築く中で、無事ガウェインの動力源に電気を供給する術も得る。会話の中で姬塔とルリアが命を共有するに至った経緯を知ったC.C.は、自分もルルーシュの命の恩人だと言い、ルルーシュと痴話げんかのような会話を交わすのだった。,数日后，鲁鲁修和C.C.为了周游列岛，隐藏身份投靠姬塔一行的骑空团。在不使用Geass和姬塔等人建立友好关系的过程中，鲁鲁修他们还获得了给高文动力源供电的方法。谈话中，C.C.得知姬塔和露莉亚共享生命的缘由，便说自己也是鲁鲁修的救命恩人，引得两人开始斗嘴。
+0-synopsis,,数日後、ルルーシュとC.C.は島々を渡り歩くため、素性を隠し姬塔一行の騎空団に身を寄せていた。ギアスを使わず一行と友好的な関係を築く中で、無事ガウェインの動力源に電気を供給する術も得る。会話の中で姬塔とルリアが命を共有するに至った経緯を知ったC.C.は、自分もルルーシュの命の恩人だと言い、ルルーシュと痴話げんかのような会話を交わすのだった。,数日后，鲁鲁修和CC为了周游列岛，隐藏身份投靠姬塔一行的骑空团。在不使用Geass和姬塔等人建立友好关系的过程中，鲁鲁修他们还获得了给高文动力源供电的方法。谈话中，CC得知姬塔和露莉亚共享生命的缘由，便说自己也是鲁鲁修的救命恩人，引得两人开始斗嘴。
 7,,<span class='scene-font-katari'>それから数日が過ぎた。</span>,<span class='scene-font-katari'>几天过去了。</span>
 8,ルリア/露莉亚,くんくん……,嗅嗅……
 9,ルリア/露莉亚,はわわ～、いいにおいです！<br>ヘンゼルさん、<br>今夜の献立は何にするんですか？,哇～好香啊！<br>汉森先生，今晚吃什么？
 10,ヘンゼル,キノコのシチューを作る予定だ。<br>ルリア、好きだろう。<br>キノコのシチュー,我打算做蘑菇炖菜。<br>露莉亚，你应该喜欢吧，蘑菇炖菜。
 11,ルリア/露莉亚,わぁ～、楽しみです！<br>姬塔にも教えてこよっと！,哇～好期待！<br>我去告诉姬塔吧！
-17,,<span class='scene-font-katari'>異世界転移後、ルルーシュとC.C.は</span><br><span class='scene-font-katari'>ヘンゼルとグレーテルと名を偽り、</span><br><span class='scene-font-katari'>姬塔の艇に身を寄せていた。</span>,<span class='scene-font-katari'>鲁鲁修和C.C.来到异世界后，化名为汉森和格雷特，投靠了姬塔的骑空艇。</span>
+17,,<span class='scene-font-katari'>異世界転移後、ルルーシュとC.C.は</span><br><span class='scene-font-katari'>ヘンゼルとグレーテルと名を偽り、</span><br><span class='scene-font-katari'>姬塔の艇に身を寄せていた。</span>,<span class='scene-font-katari'>鲁鲁修和CC来到异世界后，化名为汉森和格雷特，投靠了姬塔的骑空艇。</span>
 22,,<span class='scene-font-katari'>島を渡るためには艇に乗る必要がある。</span><br><span class='scene-font-katari'>定期便はあるが、ガウェインを持って</span><br><span class='scene-font-katari'>いちいち移動するのは現実的ではない。</span>,<span class='scene-font-katari'>在岛屿之间移动需要骑空艇。虽然也有定期航班，但带着高文一起，乘航班移动是不现实的。</span>
 23,,<span class='scene-font-katari'>かといってギアスで艇を手に入れても、</span><br><span class='scene-font-katari'>操舵には専門的な技術が必要で、</span><br><span class='scene-font-katari'>操舵士の数も限られている。</span>,<span class='scene-font-katari'>而且就算使用Geass获得了骑空艇，掌舵也需要专门的技术，操舵士的数量也有限。</span>
 24,,<span class='scene-font-katari'>ならばいっそ騎空団に入った方が</span><br><span class='scene-font-katari'>効率がいい。</span>,<span class='scene-font-katari'>还不如直接加入骑空团，这样效率更高。</span>
@@ -54,8 +54,9 @@ id,name,text,trans
 90,グレーテル,一人前の男なら、日ごろの感謝の言葉<br>一つぐらい女に送るべきだ。<br>ガキめ。,你要是个男人，就应该对我这个女人说哪怕一句感谢的话语。<br>臭小鬼。
 91,ヘンゼル,すまんね、ガキなもので。,抱歉啊，毕竟我还是个小鬼。
 92,ヘンゼル,なら、お前こそ<br>日頃身の回りの世話をしてやっている<br>俺に感謝を贈るべきじゃないか。,那么，你不是更应该对每天都在照顾你生活的我表示感谢吗？
-93,,<span class='scene-font-katari'>ルルーシュとC.C.は</span><br><span class='scene-font-katari'>痴話げんかのような会話を交わしながら</span><br><span class='scene-font-katari'>炊事当番のため炊事場へと向かう。</span>,<span class='scene-font-katari'>鲁鲁修和C.C.一边斗嘴一边走向厨房。</span>
+93,,<span class='scene-font-katari'>ルルーシュとC.C.は</span><br><span class='scene-font-katari'>痴話げんかのような会話を交わしながら</span><br><span class='scene-font-katari'>炊事当番のため炊事場へと向かう。</span>,<span class='scene-font-katari'>鲁鲁修和CC一边斗嘴一边走向厨房。</span>
 94,ルリア/露莉亚,不思議な感じですけど、<br>ヘンゼルさんとグレーテルさん、<br>信頼し合ってるんですね！,感觉好神奇啊，汉森和格雷特，很信赖彼此呢！
 95,ビィ/碧,でもただの仲良しって感じじゃねぇし、<br>どういう関係なのか<br>オイラはちょっと気になるなぁ。,而且也不是普通的要好，到底是什么关系呢，咱很好奇哎。
 96,,<span class='scene-font-katari'>付かず離れずの距離を保って歩く</span><br><span class='scene-font-katari'>背中を見ながら、姬塔たちは</span><br><span class='scene-font-katari'>他愛ない話に花を咲かせるのだった。</span>,<span class='scene-font-katari'>看着两人的背影保持着不远不近的距离，姬塔他们继续着杂谈。</span>
 info,,,scene_evt190614_cp1_q1_s10
+,,,

@@ -10,7 +10,7 @@ id,en,jp,trans
 11,,<span class='scene-font-katari'>姬塔は奮闘しているものの</span><br><span class='scene-font-katari'>イルザとコルワの息の合った連携に</span><br><span class='scene-font-katari'>苦戦を強いられている。</span>,<span class='scene-font-katari'>虽然姬塔也很努力奋斗，但在伊尔莎和可露瓦萨的默契配合下打得很艰苦。</span>
 12,,クソ！<br>こうなったら奥の手だぜ、<br>姬塔！,可恶！既然这样只能出绝招了，姬塔！
 13,,<span class='scene-font-katari'>姬塔は強く頷き、</span><br><span class='scene-font-katari'>ビィとポジションを入れ替える。</span>,<span class='scene-font-katari'>姬塔用力点了点头，和碧交换了位置。</span>
-14,,ほぅ……？<br>どんな作戦か見せてもらおうか。,哦...？让我看看你们要用什么样的策略吧。
+14,,ほぅ……？<br>どんな作戦か見せてもらおうか。,哦…？让我看看你们要用什么样的策略吧。
 16,,<span class='scene-font-katari'>イルザは真上に投げたボールを</span><br><span class='scene-font-katari'>姬塔達のコートに向かって</span><br><span class='scene-font-katari'>強く打ちこむ。</span>,<span class='scene-font-katari'>伊尔莎用力地将笔直抛到天上的球打向姬塔她们的场地。</span>
 17,,<span class='scene-font-katari'>姬塔は素早く屈み、</span><br><span class='scene-font-katari'>ボールをコートの中央に弾く。</span>,<span class='scene-font-katari'>姬塔迅速蹲下，把球弹到场地中央。</span>
 18,,とう！,喝！
@@ -75,7 +75,7 @@ id,en,jp,trans
 98,,ふふふ……ははははははっ！！<br>そう来たか！,呵呵……哈哈哈哈！ ！竟然这么说！
 99,,<span class='scene-font-katari'>イルザは大声で笑い、</span><br><span class='scene-font-katari'>姬塔の肩を抱き寄せる。</span>,<span class='scene-font-katari'>伊尔莎大声笑着搂紧了姬塔的肩膀。</span>
 100,,というわけだ、<br>これ以上の説明は要らないな？,就是这样，不用再说明什么了吧？
-101,,えっと……<br>は、はい……,呃……，是的....
+101,,えっと……<br>は、はい……,呃……，是的…
 102,,どうしてもと言うなら、<br>男の魅力で私を魅了してみな。,如果你还想说什么，就试着用男人的魅力让我着迷吧。
 103,,さぁ行こう、愛しの君。,我们走吧，我的爱人。
 105,,<span class='scene-font-katari'>男と別れ、</span><br><span class='scene-font-katari'>イルザは姬塔と浜辺を歩く。</span>,<span class='scene-font-katari'>跟男子告别后，伊尔莎和姬塔一起走在海边。</span>
@@ -86,3 +86,4 @@ id,en,jp,trans
 113,,<span class='scene-font-kokoro'>（ならば、ひとつ覚悟を決めておこう。</span><br><span class='scene-font-kokoro'>あの軽薄な男が相手とはいえ……</span><br><span class='scene-font-kokoro'>やはり気が進まないな）</span>,<span class='scene-font-kokoro'>（那么还是要先做好觉悟。虽然对手是那种轻浮的男人……果然一点都让人提不起劲）</span>
 114,,<span class='scene-font-katari'>イルザはやや気怠そうな様子で</span><br><span class='scene-font-katari'>遠くにいる男の背中を見やる。</span>,<span class='scene-font-katari'>伊尔莎有些倦怠地眺望着远处那个男人的背影。</span>
 info,,1,scene_chr471_q2_s10
+,,,

@@ -1,12 +1,12 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-chapter_name,"83: Old Battles, New Paths",第83章　決着と新たな旅路,第83章 了结与新的旅途
 0-synopsis,"The crew hurries back to the village to help Cain, after which he explains that Leona and the soldiers are his Idelva Army allies. But soon more of Reinhardtzar's men appear and a battle begins.",上空から一人村の様子を伺っていたビィにより、何か異変が起きている事を知った姬塔達は、封印を離れ村へと向かう。すると、村には既にイデルバ王国軍が押し寄せ緊迫した空気が流れていた。「もう終わりにしよう」と改めて降伏を促すカインだったが、ラインハルザはそれを拒絶し、盗賊達と共にイデルバ王国軍へと戦いを挑む。,碧在上空观察村中的情况，并将村中发生某种突发情况一事告知姬塔等人，然后他们离开封印地点向村中赶去。同时伊迪尔瓦王国军抵达村中，气氛愈加紧张。“就到此为止吧”——该隐再次劝降莱茵哈萨，但是他拒绝了，之后莱茵哈萨带着盗贼们与伊迪尔瓦王国军发生了战斗。
-0,Whoa... What's going on?,んなっ……<br>ど、どうなってんだ……？,嗯呐，到...到底发生什么了
+0,Whoa... What's going on?,んなっ……<br>ど、どうなってんだ……？,嗯呐，到…到底发生什么了
 1,"While flying high above the village, Vyrn gets a shock watching the scene below.",<span class='scene-font-katari'>上空から</span><br><span class='scene-font-katari'>村の様子をうかがっていたビィは、</span><br><span class='scene-font-katari'>一人、驚きの声をあげる。</span>,<span class='scene-font-katari'>在空中观察村中情况的碧突然惊讶地说道。</span>
 7,"He hurries back down to 姬塔 and the crew, who are eager to hear from him.",<span class='scene-font-katari'>慌てた様子で降りてきたビィに、</span><br><span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>不思議そうに声をかける。</span>,<span class='scene-font-katari'>对事态感到奇怪的碧慌忙地降落下来询问姬塔等人。
 8,What happened? It sounded like you were yelling something.,どうしたんだ？<br>先ほど、<br>何か驚いたような声をあげていたが……,怎么了？刚刚我好像有听到你惊慌的声音。
 9,And there was a loud noise coming from the village just now too...,それにさっき、<br>村があるほうから、<br>おっきな音が……,而且刚刚从村子那边传来了很大的声响。
-10,"I-I'm not really sure... But some lady showed up all of a sudden, and well...",オ、オイラもよくわかんねーんだ……<br>いきなり知らねー姉さんが出てきて、<br>何がなんだか……,我也不是很明白...突然一个不认识的大姐姐出现，到底发生了什么我也不太明白。
+10,"I-I'm not really sure... But some lady showed up all of a sudden, and well...",オ、オイラもよくわかんねーんだ……<br>いきなり知らねー姉さんが出てきて、<br>何がなんだか……,我也不是很明白…突然一个不认识的大姐姐出现，到底发生了什么我也不太明白。
 10-sel1_txt,Let's check it out.,<span class='scene-font-katari'>行ってみよう</span>,去看看吧
 10-sel2_txt,Let's wait here.,<span class='scene-font-katari'>まだ待機してよう</span>,还是继续等着吧
 11,I agree... Something might be happening that even Cain didn't predict.,そうだな……<br>何かカインも予想しない事態が<br>起きたのかもしれない……,是啊，也许发生了什么该隐都没有预想到的事态。
@@ -21,7 +21,7 @@
 22,Reinhardtzar seems bewildered for a moment before his expression twists into rage.,<span class='scene-font-katari'>困惑の表情を浮かべていた</span><br><span class='scene-font-katari'>ラインハルザだったが、</span><br><span class='scene-font-katari'>やがてその顔には憤怒の色が浮かぶ。</span>,<span class='scene-font-katari'>莱茵哈萨脸上一时充满困惑，但没多久就转变为愤怒。</span>
 23,"You... You're with the Idelva Army, aren't you!",てめぇ……<br><span class='scene-font-4'>イデルバ王国軍か！！</span>,混蛋，你是<span class='scene-font-4'>伊迪尔瓦王国军的吗！！</span>
 24,"But the woman ignores him, her eyes drawn to Cain who has jumped in between a villager and Reinhardtzar.",<span class='scene-font-katari'>しかし、女性は応じることなく、</span><br><span class='scene-font-katari'>村人とラインハルザの間に、</span><br><span class='scene-font-katari'>飛び込もうとしていたカインを見やる。</span>,<span class='scene-font-katari'>但是女性没有回应，她跳到该隐和村民中间然后看向该隐。</span>
-25,Cain...,カイン……,该隐...
+25,Cain...,カイン……,该隐…
 26,"Whew... You saved me back there, Leo.",ふぅ……助かったぜ、レオ姉。,哈，蕾欧姐，帮大忙了呀。
 27,Cain. You're getting a long lecture after this.,カイン……<br>あとでお説教だからね。,该隐，待会要好好说教你了。
 28,What!,うぇっ！？,呜诶！？
@@ -44,8 +44,9 @@
 46,Tzar!,キング！！,老大！！
 47,A swarm of outlaws comes rushing in with a fiery bloodlust in their eyes.,<span class='scene-font-katari'>そこには、</span><br><span class='scene-font-katari'>アジトから駆けつけたであろう盗賊達が</span><br><span class='scene-font-katari'>殺気立った様子でひしめいていた。</span>,<span class='scene-font-katari'>从要塞赶来的盗贼们杀气腾腾地蜂拥而来。</span>
 48,You can see the whole island from that fortress. Your army here's not the only backup that's arrived.,あの砦からは、<br>この島の全てが見えるからな。<br>援軍が来たのはお前達だけじゃねぇ。,从那座要塞可以看到这座岛全境，有援军的可不只有你们。
-49,We won't run. And we're not scared to fight... unlike you.,オレ達は逃げねぇ……<br>戦うことを恐れねぇ……<br>お前と違ってな。,我们不会逃避，也不会畏惧战斗...和你可不一样啊。
+49,We won't run. And we're not scared to fight... unlike you.,オレ達は逃げねぇ……<br>戦うことを恐れねぇ……<br>お前と違ってな。,我们不会逃避，也不会畏惧战斗…和你可不一样啊。
 50,...,っ……,っ……
 52,"If you want to defeat us, you'd better give it all you've got!",<span class='scene-font-4'>止めたければ</span><br><span class='scene-font-4'>力づくでやってみせろ！</.span>,<span class ='scene-font-4'>想阻止我们的话就全力以赴啊！</span>
 53,You're never gonna stop us!,<span class='scene-font-4'>もうオレ達は、</span><br><span class='scene-font-4'>止まるわけにはいかねぇんだ！</span>,我们已经，不可能停步于此了！
 info,1,1,scene_cp83_q1_s10
+,,,

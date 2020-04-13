@@ -50,10 +50,10 @@ id,name,text,trans
 79,,<span class='scene-font-katari'>騎空団での生活は雪山の暮らしとは違い</span><br><span class='scene-font-katari'>魔氷の力を頻繁に解放できる</span><br><span class='scene-font-katari'>環境ではなく──</span>,<span class='scene-font-katari'>骑空团的生活环境与雪山不同</span><br><span class='scene-font-katari'>没有能频繁释放魔力的</span><br><span class='scene-font-katari'>地方──</span>
 80,,<span class='scene-font-katari'>彼女自身、水野愛達を</span><br><span class='scene-font-katari'>怖がらせたくないと考え、力の解放を</span><br><span class='scene-font-katari'>抑えている事も一因していた。</span>,<span class='scene-font-katari'>而她自身、也不想让姬塔</span><br><span class='scene-font-katari'>感到害怕、而压抑</span><br><span class='scene-font-katari'>自身力量也是原因之一。</span>
 83,,<span class='scene-font-katari'>そんなある日のこと──</span>,<span class='scene-font-katari'>就是这样的某一天──</span>
-86,カレン/卡莲,今年の休暇、<br><span class='scene-font-place'>アウギュステ</span>で過ごすの！？<br>やったやったー！,今年的休假、<br><span class='scene-font-place'>要在奥古斯特</span>过吗！？<br>太棒了太棒了ー！
+86,カレン/卡莲,今年の休暇、<br><span class='scene-font-place'>アウギュステ</span>で過ごすの！？<br>やったやったー！,今年的休假、<br><span class='scene-font-place'>要在奥古斯特</span>过吗！？<br>太棒了太棒了！
 87,コルワ/可露瓦,<span class='scene-font-place'>アウギュステ</span>なんて久し振り！<br>私も仕事を片付けたら、<br>のんびりビーチで過ごしたいわ。,<span class='scene-font-place'>好久没有去过</span>奥古斯特了！<br>我也想在工作做完之后、<br>悠闲地在沙滩上消磨时光。
 88,,<span class='scene-font-katari'>水野愛からの発表を聞いた</span><br><span class='scene-font-katari'>団員達は歓喜の渦に包まれていた。</span>,<span class='scene-font-katari'>听了姬塔的发表</span><br><span class='scene-font-katari'>团员们都陷入欢喜的漩涡中。</span>
-89,カレン/卡莲,<span class='scene-font-place'>アウギュステ</span>といえば海だし、<br>水着も用意しないとじゃない？<br>あたしもかっわいいビキニが着たーい！,<span class='scene-font-place'>说起奥古斯特的话</span>就是海了、<br>不得准备一下泳装吗？<br>我也想穿可ー爱的泳装！
+89,カレン/卡莲,<span class='scene-font-place'>アウギュステ</span>といえば海だし、<br>水着も用意しないとじゃない？<br>あたしもかっわいいビキニが着たーい！,<span class='scene-font-place'>说起奥古斯特的话</span>就是海了、<br>不得准备一下泳装吗？<br>我也想穿可爱的泳装！
 90,イシュミール/伊休米尔,<span class='scene-font-place'>アウギュステ</span>……<br>みずぎ……？,<span class='scene-font-place'>奥古斯特</span>……<br>泳装……？
 91,カレン/卡莲,海に入る時、専用の服を着るの！<br>イシュミールはそういうの<br>初めてだっけ。,在海水里、要穿专用的服装！<br>伊休米尔难道是<br>第一次吗。
 92,イシュミール/伊休米尔,ええ……初めて。<br>海……,欸……第一次。<br>海……
@@ -86,7 +86,7 @@ id,name,text,trans
 132,ルリア/露莉亚,ララーナさんを見てますね。,在看着拉拉娜呢。
 133,ルリア/露莉亚,はわっ！　もしかして……<br>ナンパ、というやつでしょうか！？,哈哇！　难道说……<br>搭讪、这种事情吗！？
 134,ビィ/碧,放っておこうぜ！<br>オイラ達は遊ぶのに忙しいしよ！,管他们的呢！<br>我们还要赶紧去玩呢！
-135,カレンの声/卡莲的声音,おーい！　みんな何してんの！<br>ヨット借りられたから<br>はやく来てってばー！,喂ー！　大家在干什么啊！<br>借来了游艇<br>快点过来啊ー！
+135,カレンの声/卡莲的声音,おーい！　みんな何してんの！<br>ヨット借りられたから<br>はやく来てってばー！,喂！　大家在干什么啊！<br>借来了游艇<br>快点过来啊！
 136,ルリア/露莉亚,あ！<br>そうでした！<br>行きましょう、ララーナさん！,啊！<br>对啊！<br>走吧、拉拉娜！
 137,イシュミール/伊休米尔,ええ、楽しみ……！,欸、很期待……！
 138,,<span class='scene-font-katari'>注がれる熱い視線も御構い無しに</span><br><span class='scene-font-katari'>イシュミールはこのバカンスに賭ける</span><br><span class='scene-font-katari'>熱い想いを発散させるべく──</span>,<span class='scene-font-katari'>撇开那些焦灼的视线</span><br><span class='scene-font-katari'>伊休米尔应当赌上这个假期</span><br><span class='scene-font-katari'>发散自己的思绪──</span>

@@ -32,7 +32,7 @@ id,name,text,trans
 28,村長/村长,化物が実在しただなんて！<br>だ、誰か！　村の若いのを呼んでくれ！<br>助けてくれぇ！！,没想到真的有怪物！<br>快，快！　把村子里的年轻人！<br>救命啊！！
 29,,<span class='scene-font-katari'>悲鳴をあげて逃げ出す村長。</span><br><span class='scene-font-katari'>すると、武器を握る村人達が<br><span class='scene-font-katari'>家屋から現れ始めた。</span>,<span class='scene-font-katari'>村长悲鸣者跑走了。</span><br><span class='scene-font-katari'>之后，手握武器的村民，<br><span class='scene-font-katari'>从屋子里出来了。</span>
 30,ビィ/碧,う、うわぁ……<br>こりゃ逃げた方がよさそうだな……,唔，唔哇……<br>这么看还是先溜为妙啊……
-31,ヴァンピィ/斑比,むぅー……,唔ー……
+31,ヴァンピィ/斑比,むぅー……,唔……
 33,,<span class='scene-font-katari'>一行は村から逃げることに成功する。</span><br><span class='scene-font-katari'>だが、ヴァンピィは不機嫌そうに</span><br><span class='scene-font-katari'>頬を膨らませていた。</span>,<span class='scene-font-katari'>一行人成功从村子里逃出来。</span><br><span class='scene-font-katari'>但是，斑比一脸不高兴地</span><br><span class='scene-font-katari'>鼓起了腮帮。</span>
 35,ヴァンピィ/斑比,むぅぅ～～！！<br>なんなのよ～！！,唔～～！！<br>什么啊～！！
 36,ヴァンピィ/斑比,これじゃあ、<br>すーぷ作れないじゃない！！,这样子，<br>不就不能做汤了吗！！
@@ -40,6 +40,6 @@ id,name,text,trans
 38,ヴァンピィ/斑比,だってお腹すいたんだもん……<br>ルリア姉ちゃんだって、<br>お腹空いてるでしょ……？,因为我肚子饿了……<br>露莉亚姐姐也，<br>肚子饿了吧……？
 39,ルリア/露莉亚,そ、それは、そうですけど……,这，这倒是……
 40,ヴァンピィ/斑比,むぅぅ！！<br>これも全部全部、<br>森のヴァンパイアのせいよ！！,唔唔！！<br>这全都是，<br>森林里的吸血鬼的错！！
-41,ヴァンピィ/斑比,今から森へ行ってー……<br>思いっきり叱ってやるんだからぁ！,我们现在就去森林ー……<br>好好地骂他们一顿！
+41,ヴァンピィ/斑比,今から森へ行ってー……<br>思いっきり叱ってやるんだからぁ！,我们现在就去森林……<br>好好地骂他们一顿！
 42,ビィ/碧,つってもよ……<br>ヴァンパイアって<span class='scene-font-place'>メドヴェキア</span>にしか<br>いねぇはずじゃ……,不过……<br>吸血鬼不是只在<span class='scene-font-place'>梅德韦奇亚</span>出没吗……
 info,麻友桑的话筒,,scene_chr194_q2_s10

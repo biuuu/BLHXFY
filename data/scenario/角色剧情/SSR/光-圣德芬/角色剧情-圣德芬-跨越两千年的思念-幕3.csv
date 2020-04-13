@@ -80,7 +80,7 @@ id,en,jp,trans
 <span class='scene-font-katari'>サンダルフォンは、諦めきれない様子で</span><br>
 <span class='scene-font-katari'>農夫に語りかける。</span>",失望的圣德芬，像是要放弃了一般向农夫说到。
 50,,"……せめて近くで<br>
-この木を見させてはくれないか？",.....能不能至少让我近距离看看这棵树？
+この木を見させてはくれないか？",……能不能至少让我近距离看看这棵树？
 51,,"は、はい。<br>
 それはもちろん構いませんが。",嗯。这当然没问题。
 53,,"<span class='scene-font-katari'>サンダルフォンが木に近づくと、</span><br>
@@ -91,7 +91,7 @@ id,en,jp,trans
 <span class='scene-font-katari'>触れた瞬間──</span>",在圣德芬接触树木的一瞬间——
 56,,"<span class='scene-font-katari'>ふたりの足元から、眩い光の</span><br>
 <span class='scene-font-katari'>柱の様な物が立ち上がる。</span>",在两者底下，出现了眩目的光柱。
-57,,こ、これは……まさか！,这，这难道是.....
+57,,こ、これは……まさか！,这，这难道是……
 58,,"お、おい！　姬塔！<br>
 木を見て見ろ！",喂，团长，看看树啊！
 62,,"すごい勢いで<br>
@@ -113,10 +113,11 @@ id,en,jp,trans
 75,,"<span class='scene-font-katari'>サンダルフォンは、</span><br>
 <span class='scene-font-katari'>真紅色の実を掌に乗せて</span><br>
 <span class='scene-font-katari'>農夫に優しく尋ねた。</span>",圣德芬用手托着真红色的果实，温柔地询问农夫。
-76,,……この実は頂いても？,.....给我也没问题吗？
+76,,……この実は頂いても？,……给我也没问题吗？
 77,,"も、もちろんです！<br>
 あなたの好きにして下さい！",当然！请随意！
 78,,"<span class='scene-font-katari'>こうしてサンダルフォンは、</span><br>
 <span class='scene-font-katari'>始源の珈琲の木から珈琲の実を</span><br>
 <span class='scene-font-katari'>手に入れたのだった。</span>",于是圣德芬从始源之树得到了咖啡的果实。
 info,,1,scene_chr446_q3_s10
+,,,

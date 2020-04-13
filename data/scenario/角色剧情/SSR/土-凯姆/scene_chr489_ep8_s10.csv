@@ -116,9 +116,9 @@ id,name,text,trans
 138,ザ・ハングドマン,そうか。わかったよ。,是嘛。我知道了。
 139,,<span class='scene-font-katari'>表情を変えることなく頷いた</span><br><span class='scene-font-katari'>ザ・ハングドマンは、カイムに</span><br><span class='scene-font-katari'>近づいてその頬に手を当てる。</span>,<span class='scene-font-katari'>The・Hanged Man神色不变的点了点头</span><br><span class='scene-font-katari'>靠近了凯姆抚上了他的脸颊。</span>
 140,ザ・ハングドマン,それじゃあ、<br>またよろしく頼むよ。,那么，就再请多关照啦。
-148,カイム,おっきい騎空艇だー！<br>すごーい！,好大的骑空艇啊ー！<br>好厉害！
+148,カイム,おっきい騎空艇だー！<br>すごーい！,好大的骑空艇啊！<br>好厉害！
 150,ビィ/碧,おーいカイム！<br>あんまり走って落ちるんじゃねぇぞ！,喂凯姆！<br>你那么跑会摔倒的哦！
-151,カイム,大丈夫だよー！<br>僕、そんなに子供じゃないもん！,我没事的ー！<br>我才没那么小孩子气呢！
+151,カイム,大丈夫だよー！<br>僕、そんなに子供じゃないもん！,我没事的！<br>我才没那么小孩子气呢！
 152,,<span class='scene-font-katari'>ザ・ハングドマンと再契約したカイムは</span><br><span class='scene-font-katari'>この先の旅路を共にする為に</span><br><span class='scene-font-katari'>グランサイファーへとやって来た。</span>,<span class='scene-font-katari'>凯姆与The・Hanged Man再次缔结了契约</span><br><span class='scene-font-katari'>为了一同踏上接下来的旅程</span><br><span class='scene-font-katari'>他来到了格兰赛法。</span>
 153,ルリア/露莉亚,カイムくん、元気になって<br>本当に良かったです。,凯姆能变得这么有精神真是太好了呢。
 154,ルリア/露莉亚,グランサイファーにも<br>あんなに喜んでくれてますし。,而且看到格兰赛法居然还这么高兴呢。
@@ -164,3 +164,4 @@ id,name,text,trans
 202,,<span class='scene-font-katari'>何も知らぬ彼は、空の旅で</span><br><span class='scene-font-katari'>いったい何を見て、</span><br><span class='scene-font-katari'>何を想うことになるのか。</span>,<span class='scene-font-katari'>一无所知的他，究竟会在这空之旅路上</span><br><span class='scene-font-katari'>看到什么又想到什么呢。</span>
 203,,<span class='scene-font-katari'>それはまだ、誰にもわからない。</span>,<span class='scene-font-katari'>那，还无人知晓。</span>
 info,,,scene_chr489_ep8_s10
+,,,

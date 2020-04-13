@@ -1,10 +1,10 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-chapter_name,,第72章　騒乱のアガスティア,第72章混乱的阿加丝提亚
 0-synopsis,,オルキス救出のため、旧帝都アガスティアへ進むグランサイファー。しかし、誰よりオルキスの身を案じていたアダムの姿はそこになかった。オルキスの残した言葉に従い混乱した国を導くため王都に残ったアダムの思いを汲み、姬塔一行は、オルキスの笑顔を取り戻すためにも、フリーシアとの対決に臨む覚悟を固めるのだった。,众人为了救出奥尔琪斯，搭乘格兰赛法号向旧帝都阿加丝提亚前进了。但是，这里却没有比谁都更加关心奥尔琪斯安危的亚当的身影。亚当遵从了奥尔琪斯之前所说的话留在了王都处理国内混乱的情况，而姬塔等人为了夺回奥尔琪斯的笑容，重新确定了与芙莉西雅对决的决心。
 0,,<span class='scene-font-katari'>攫われたオルキスを助けるため、</span><br><span class='scene-font-place'>旧帝都アガスティア</span><span class='scene-font-katari'>へと進む</span><br><span class='scene-font-katari'>姬塔一行。</span>,<span class='scene-font-katari'>姬塔等人为了救出被拐走的奥尔琪斯，决定前往</span><span class='scene-font-place'>旧帝都阿加丝提亚</span><span class='scene-font-katari'>。</span>
 1,,<span class='scene-font-katari'>しかし、その艇の上に、</span><br><span class='scene-font-katari'>誰よりもオルキスの身を案じていた</span><br><span class='scene-font-katari'>アダムの姿は無かった。</span>,<span class='scene-font-katari'>然后骑空艇上却不见比谁都更关心奥尔琪斯安危的亚当的身影。</span>
 2,,オルキスちゃん……,奥尔琪斯酱……
-9,,えっ……？<br>ちょ、ちょっと待って！<br>いまなんて……,呃...？等下，刚刚你说什么？
+9,,えっ……？<br>ちょ、ちょっと待って！<br>いまなんて……,呃…？等下，刚刚你说什么？
 10,,私は……<br>姬塔さん達に<br>同行することは出来ません。,我不能……与团长及各位同行。
 11,,オルキス様が誘拐されたことで、<br>民は非常に混乱しています。,因为奥尔琪斯被诱拐，现在国民十分混乱。
 12,,いまエルステは、<br>指導者を欠くわけにはいかないのです。,现在的埃尔斯特不能缺少领导者。
@@ -27,3 +27,4 @@
 34,,<span class='scene-font-katari'>カタリナの言葉に、</span><br><span class='scene-font-katari'>姬塔は力強く頷く。</span>,<span class='scene-font-katari'>对于卡塔莉娜的话，姬塔深深点头赞同。</span>
 35,,<span class='scene-font-katari'>そんな一行を乗せたグランサイファーは、</span><br><span class='scene-font-katari'>旧エルステ帝国首都</span><span class='scene-font-place'>アガスティア</span><span class='scene-font-katari'>へと</span><br><span class='scene-font-katari'>徐々に近づきつつあった。</span>,<span class='scene-font-katari'>一行人就这样搭乘着格兰赛法号，慢慢向</span><span class='scene-font-place'>阿加丝提亚</span><span class='scene-font-katari'>接近了。</span>
 info,,1,scene_cp72_q2_s10
+,,,

@@ -1,6 +1,6 @@
 id,en,jp,trans
 0-chapter_name,Carefree Bomber Girl,,天真爆破少女
-0-synopsis,"An energetic girl named Clarisse helps the crew with a monster-hunting mission. While they celebrate their victory, she hears about the crew's journey and tells 姬塔 she wants to join.",一个名叫克拉莉丝，精力充沛的女孩帮助骑空团执行了一项讨伐委托。在庆功会上，她听说骑空团的旅程后告诉姬塔她想加入。
+0-synopsis,"An energetic girl named Clarisse helps the crew with a monster-hunting mission. While they celebrate their victory, she hears about the crew's journey and tells 姬塔 she wants to join.",一个名叫克拉莉丝，精力充沛的女孩帮助骑空团执行了一项讨伐委托。在庆功会上，她听说骑空团的旅程后告诉姬塔她想加入。,
 0,Ugh... I wonder how long our backup plans to keep us waiting.,,呃……我想知道增援是要让我们等多久。
 1,They should have been here by now. I wonder if they got lost.,,他们应该已经到了。我想也许是迷路了。
 2,The crew has undertaken a mission to hunt down monsters running rampant in the mountains of a certain island.,,在一座岛上，骑空团接受了一个讨伐山中成群魔物的委托。
@@ -10,7 +10,7 @@ id,en,jp,trans
 6,Who in the world could it be?,,会是谁呐☆
 6-sel1_txt,Why don't you tell us?,,是谁？
 6-sel2_txt,You're late.,,你迟到了。
-7,Well? Who do you think I am? Tee-hee...,,猜猜看我是谁？嘻嘻...
+7,Well? Who do you think I am? Tee-hee...,,猜猜看我是谁？嘻嘻…
 8,"Um, excuse me... Who are you, really?",,嗯，对不起……你到底是谁？
 9,"Fine... I guess I'll give it away. I'm Clarisse, the adorable alchemy prodigy! Yay!",,好吧……算了。我是美少女炼金术士克拉莉丝！耶！
 11,"Whoa now! If you were any crabbier, you'd have claws! Are you just at that age?",,哇奥，竟然这么生气，你到了那个微妙的年纪了吗？
@@ -24,32 +24,32 @@ id,en,jp,trans
 19,Um... Are you our only backup then?,,嗯……我们的增援只有克拉莉丝小姐一个人吗？
 20,"Yep! And it's a good thing too, because two or three people like me would be way too annoying!",,对！而且这也是件好事，因为我这样的人再有两三个会很烦的！
 21,(I wonder if she knows how annoying she is all on her own...),,（她倒是知道自己有多吵……）
-22,"Well, all hands are accounted for, so let's do some hunting! Um...",,好，所有的人手都到齐啦，那么我们出发讨伐魔物吧！嗯...
+22,"Well, all hands are accounted for, so let's do some hunting! Um...",,好，所有的人手都到齐啦，那么我们出发讨伐魔物吧！嗯…
 23,"Oh! I'm Lyria, and this is Vyrn.",,哦!我是露莉亚，这是阿碧。
 24,"And this is 姬塔, the captain of our crew.",,还有，这是我们骑空团的团长姬塔。
 25,"Okay! I know I was late, so I'll try to make up for lost time!",,我知道我迟到了，所以我会尽力弥补损失的时间！
 27,"Hey! Slow down! We're going too, y'know! Hurry, 姬塔!",,嘿!等一下！我们快跟上，快点，姬塔！
-30,Grrr...,,呜呜呜....
+30,Grrr...,,呜呜呜…
 31,Ha-ha! Oh my! There are so many of them!,,哼哼♪~哼哼♪~！！竟然有这么多！
 32,And they all look so strong!,,而且这些魔物，看上去都好强！
-33,What should we do? There are even more than we thought... Maybe we should regroup...,,该..该怎么办？魔物比想象中还要多……或许我们该重整下再来……
+33,What should we do? There are even more than we thought... Maybe we should regroup...,,该…该怎么办？魔物比想象中还要多……或许我们该重整下再来……
 34,It's all good! Just try to stay out of the way of my fireworks!,,没问题啦！注意，离我的烟火远一点哦☆~
 35,Huh? What do you mea—,,咦？什么意思？
 36,Boom!,,☆BOOM☆！
-40,Whoa... What the heck was that?,,刚..刚发生了什么？
+40,Whoa... What the heck was that?,,刚…刚发生了什么？
 41,Double boom!,,☆DOUBLE☆BOOM☆!
 45,Huh? Where'd all the monsters go?,,咦？那些魔物都去哪儿了？
 46,Aw yeah! Now I'm fired up! Let's go pop some more of these critters.,,哦哦哦~热血沸腾啦！接下来是这些☆
 49,"Using a mysterious technique, Clarisse blows the monsters away one after another.",,克拉莉丝运用一种不可思议的方法，魔物接二连三的消失了。
 50,Before long there are no signs of monsters anywhere.,,很快，周围已经感受不到魔物的气息了。
 52,All right! Does that just about do it?,,好吧！这就结束了？
-53,Hey! There's hardly anything left of the mountain either!,,...山上已经什么东西都看不到了！
+53,Hey! There's hardly anything left of the mountain either!,,…山上已经什么东西都看不到了！
 54,Uh-oh... We might get in trouble for this later...,,呃……我们可能遇到麻烦了……
 55,We'll be fine. I already cleared it with the client!,,没事哒☆，委托不是已经完成了嘛~
 56,"As a matter of fact, the client plans to develop this land, so clearing the way was part of my mission.",,实际上，委托者计划开发这里，所以任务也包括了清理道路。
 57,Oh! Straggler sighted!,,哦! 残存的魔物☆
 61,"Let's wrap up our mission and go party! Sound good, 姬塔?",,回去报告任务吧！怎么样，姬塔？
-63,Hey! Great. She ran off on her own again.,,喂!唉...又让她跑掉了。
+63,Hey! Great. She ran off on her own again.,,喂!唉…又让她跑掉了。
 64,"We should go help her! Come on, 姬塔!",,我们应该去帮她吧！来吧，姬塔！
 65,"If we don't stop her from getting carried away, who knows what could happen!",,如果我们让她再这么得意忘形下去，不知道会发生什么！
 68,"Well done, everyone!",,大家辛苦啦！
@@ -62,17 +62,17 @@ id,en,jp,trans
 75,It is! And it gives you a chance to hear the most interesting stories from the most incredible people!,,没错☆能了解好多有趣的人和有趣的事！
 76,"I grew up in a pretty isolated home, so I like hearing about lots of new things!",,我在一个被隔离开的地方长大，所以我超喜欢很多新鲜的事物！
 77,So... What did you do to take down all those monsters exactly?,,那么，刚刚讨伐魔物的时候，你究竟……做了什么？
-78,"Oh, that? I just used a little alchemy... though I suppose mine is somewhat unorthodox.",,哦,那个？只不过是炼金术……虽然感觉上有点不正统。"
+78,"Oh, that? I just used a little alchemy... though I suppose mine is somewhat unorthodox.",,哦
 79,Alchemy?,,炼金术吗？
 80,"Yep! But I can't do it exactly right, to be totally honest.",,是的！但是说起来，我做的其实并不规范。
 81,"Whenever I try, the alchemical transmutation comes to a halt at some point in the middle, while the substance in question is still unstable.",,每当我尝试时，炼金术在嬗变过程生成新物质之前突然停止，而所生成的物质却不稳定。
 82,But substances can't stay in an unstable state for long... They eventually explode.,,但物质不能长时间处于不稳定状态……它们最终会崩坏，爆炸。
-83,Sorry! Sorry! I don't want to bore you with all the gory details!,,抱歉!抱歉!我并不想说的这么残酷、详细...
+83,Sorry! Sorry! I don't want to bore you with all the gory details!,,抱歉!抱歉!我并不想说的这么残酷、详细…
 84,"Um... It's not boring, but it is a little hard to understand.",,嗯……这个虽然并不无聊，不过确实有些难以理解。
 85,I hear that! It was all gibberish to me at first too.,,没关系！最开始这些对我来说也是难以理解的。
 86,My ancestor was actually the sister of the Matriarch—the founder of alchemy—so I was brought up as an alchemist.,,我的祖先实际上是炼金术创始人的妹妹，所以我被培养成了炼金术士。
 87,"But even though they were blessed with the founder of alchemy, that house—",,"但即使他们得到了炼金术创始人的祝福，那个房子……
-88,"Actually, never mind all that! It's way too dark!",,呐，不过没什么啦！这些话题太沉重啦。
+88,""Actually, never mind all that! It's way too dark!"
 89,Now it's my turn to ask questions! Why are you all traveling?,,该轮到我提问了！你们是为了什么而旅行？
 90,We're going to the Island of the Astrals!,,我们要去星之岛！
 91,The Island of the Astrals?,,星之岛？
@@ -90,8 +90,9 @@ id,en,jp,trans
 103,"Yay! You're the best, 姬塔!",,太好啦！你最好了?，姬塔！
 104,Conditions? I sure hope it's nothing too annoying...,,条件？我当然希望没有什么太烦人的事情……
 105,I think the captain wants you to finish what you set out to do too.,,我想姬塔也会希望你完成你要做的事情。
-106,I see... I guess I'll do my best with that too then!,,明白了...那么我也要加油啦！
+106,I see... I guess I'll do my best with that too then!,,明白了…那么我也要加油啦！
 107,I'll make sure you're glad to have an adorable alchemy prodigy like me along!,,我相信你们会很开心和我这样的美少女炼金术士一起的☆。
 108,Thus the alchemist Clarisse is welcomed into the crew by 姬塔 and company.,,于是，姬塔和同伴欢迎炼金术士克拉莉丝加入骑空团。
 109,But they'll continue to find it almost impossible to keep up with her pace.,,只不过他们依旧跟不上她的节奏。
 info,1,,scene_fate_chr145_ep1
+,,,

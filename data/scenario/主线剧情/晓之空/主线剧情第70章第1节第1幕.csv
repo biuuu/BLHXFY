@@ -1,21 +1,21 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-chapter_name,70: Erste Kingdom,第70章　エルステ王国,第70章。埃尔斯特王国
 0-synopsis,"Sturm and Drang learn that primal beasts can be killed, and that 姬塔's father has done so in the past.",姬塔とその父が住んでいた家に、侵入を試みようとしていた見慣れぬ来訪者のアニシダとハイラック。そこに居合わせたスツルムとドランクは、その二人の正体を見破り侵入を阻止すべく刃を交える。激突する両者の戦いはやがて一つの決着を迎えるのだった。,两位不速之客阿妮西达和海拉克试图侵入姬塔家中。而正巧在此地的斯特姆和德朗克看穿了这两人的身份，为了阻止他们与他们交手，两方激烈的战斗迎来了结局。
 0,An island's calm is disrupted by the thunderous roar of combat.,<span class='scene-font-katari'>長閑な緑の島に、</span><br><span class='scene-font-katari'>高く重く、戦闘の音が響き続ける。</span>,<span class='scene-font-katari'>因为战斗产生的巨大的冲击声回响在这座和平的岛上。</span>
 1,"Anissida swings away with her canon, but Sturm brushes aside every blow, jumping back to keep her distance.",<span class='scene-font-katari'>アニシダの振るう一撃を受け止め、</span><br><span class='scene-font-katari'>その威力を受け流すように、</span><br><span class='scene-font-katari'>スツルムは後ろへ飛び、距離を取る。</span>,<span class='scene-font-katari'>为了避开阿妮西达全力使出的威力十足的挥击，斯特姆后跳保持了一定的距离。
-4,Nghh... Looks like we've got a heavy hitter.,くっ……！<br>重いな……一撃一撃が。,每一击...都很沉重...
+4,Nghh... Looks like we've got a heavy hitter.,くっ……！<br>重いな……一撃一撃が。,每一击…都很沉重…
 5,"No offense, lady, but I don't think you're using that thing properly.",っていうか、それ、<br>使い方違うんじゃないの？<br>おねーさん？,不如说是，大姐你这武器的使用方法搞错了吧？
 6,Anissida breaks into a grin as she readies her weapon.,<span class='scene-font-katari'>その問いにアニシダは笑みを浮かべ、</span><br><span class='scene-font-katari'>振り回していた臼砲を構え直す。</span>,<span class='scene-font-katari'>对这个问题阿妮西达以微笑回应，将挥舞着的巨炮重新持稳。
 7,"Maybe so, but it sure gets the job done. Here, I'll show you!",壊せりゃ全部一緒だろ？<br>それより、よそ見してんなよ！,用于破坏的话不是都一样吗？比起这个，好好当心自己啊！
 8,!,っ！？,っ！？
-11,"You both lack discipline, but you're only agents after all. Not troops like us.",戦い方に秩序が有りませんね……<br>所詮は傭兵、<br>僕達のような軍人とは……,你们的战斗方式毫无章法，区区佣兵和我们这样的军人相比...
+11,"You both lack discipline, but you're only agents after all. Not troops like us.",戦い方に秩序が有りませんね……<br>所詮は傭兵、<br>僕達のような軍人とは……,你们的战斗方式毫无章法，区区佣兵和我们这样的军人相比…
 12,"Hold it, Hailak. Since when did you get so uppity?",こらっ！　ハイラック……<br>いつからそんな<br>偉そうなこと言えるようになったんだ？,海拉克，什么时候你也会说出这么自鸣得意的话了？
 13,"What do I always say? Don't mock the enemy, no matter what.",何があっても敵を侮るな……<br>いつもそう言ってるだろ？,不管发生什么事，都不要轻视敌人。一直以来不是都这么说的吗？
 14,My apologies.,すみません……,对不起。
 15,...,…………,…………
 16,Sturm catches her breath before opening her mouth to speak.,<span class='scene-font-katari'>呼吸を整え、隙を窺うようにしながら、</span><br><span class='scene-font-katari'>スツルムはゆっくりと口を開く。</span>,<span class='scene-font-katari'>斯特姆重新调整呼吸并窥探情况，并缓缓开口说道。
 17,Cough it up. Tell us why you're here. What's so special about that house?,お前ら……本当に何しに来たんだ？<br>あのガキの家に、いったい何がある？,你们究竟是来这做什么的？那个小鬼的家里到底有着什么？
-18,"What's so special you ask? Well, I can't put my finger on it, but it's worth checking out.",なに？　何、ナニ、なに、か……<br>うーん……具体的には言えないけど、<br>探るだけの価値はあるんだよ。,什么？什么，什么...嗯，具体有什么没法说出，但是确实有搜查的价值。
+18,"What's so special you ask? Well, I can't put my finger on it, but it's worth checking out.",なに？　何、ナニ、なに、か……<br>うーん……具体的には言えないけど、<br>探るだけの価値はあるんだよ。,什么？什么，什么…嗯，具体有什么没法说出，但是确实有搜查的价值。
 19,"After all, it's where the legend began.",なにせ、<br>あの伝説が始まった場所でも<br>ありますからね。,毕竟是那段传说开始的地方。
 20,"Hm, so you've heard? Well, of course you have! You're from the other skydom.",へぇ……知ってるんだ？<br>いや、向こうの人なら、<br>知ってて当然なのかな？,诶，原来你知道啊。不，不如说对于你们那边的人知道也是理所当然的事。
 21,"Legend? What legend? You don't mean that kid, do you?",伝説……？　何の話だ。<br>まさかあのガキのことか？,传说？在说什么呢，是指那个小鬼吗？
@@ -35,7 +35,7 @@
 35,Who would've thought...,あのガキの父親が……,那个小鬼的父亲吗。
 36,So? What brings the two of you to an exceptional place like this?,それで？<br>ふたりはそんな特別な場所に、<br>何の用があって来たのかなぁ？,所以呢？两个人到这个特殊的地方来，到底是要做些什么呢？
 37,"You don't look like worshippers, and you mentioned something about a job, no?",どうも観光って感じでもないし、<br>お仕事だ、って言ってたし？,怎么看也不像是来观光的。而且还说了是工作上的事？
-38,Aha! You must be looking for something! Did I guess right?,そうだなぁ……何か探してるとか！<br>ねねっ、どう？　アタリ？,我想想...是在找什么东西吧！怎么样，对不？说中了？
+38,Aha! You must be looking for something! Did I guess right?,そうだなぁ……何か探してるとか！<br>ねねっ、どう？　アタリ？,我想想…是在找什么东西吧！怎么样，对不？说中了？
 39,"It's just a job, and we've no reason to discuss the details with you.",仕事は仕事だ……<br>任務の内容を他言するわけがないだろう。,工作就是工作，我没有必要对他人说出任务的内容。
 40,"But if you don't stay out of our way, we'll let our weapons do the talking.",それより……<br>これ以上邪魔をするつもりなら、<br>ここから先は脅しじゃすまないぞ。,比起这个，如果你们要继续碍事的话，接下来我就不仅仅是威慑的程度了。
 41,"With a curt warning, Hailak readies his weapon.",<span class='scene-font-katari'>そう警告すると、</span><br><span class='scene-font-katari'>ハイラックは自らの得物を構え直す。</span>,<span class='scene-font-katari'>海拉克一边警告着，一边准备好自己的武器。
@@ -44,3 +44,4 @@
 46,"After a brief moment, the warriors collide once again.",<span class='scene-font-katari'>僅かな間を置いて、</span><br><span class='scene-font-katari'>再び両者は激突する。</span>,<span class='scene-font-katari'>仅仅只是一瞬间，两方的战斗再次开始，
 47,"But this time, judging from the sound of clashing weapons, one conclusion has already been drawn.",<span class='scene-font-katari'>ぶつかり響く戦いの調べは、</span><br><span class='scene-font-katari'>やがて一つの決着を迎えるのだった。</span>,<span class='scene-font-katari'>但这一次，随着巨大的战斗声，战斗迎来了结局。
 info,1,1,scene_cp70_q1_s10
+,,,

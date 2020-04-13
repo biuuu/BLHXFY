@@ -30,7 +30,7 @@ id,name,text,trans
 33,スザク/朱雀,ランスロット……<br>ルルーシュの情報通り。<br>もしかしてルルーシュは……,是兰斯洛特……<br>果然就和鲁鲁修说的一样。<br>难道鲁鲁修是……
 34,,<span class='scene-font-katari'>ルルーシュから教わった</span><br><span class='scene-font-katari'>発着場近くの倉庫に忍び込むと、</span><br><span class='scene-font-katari'>そこにランスロットが格納されていた。</span>,<span class='scene-font-katari'>靠着鲁鲁修所说的情报</span><br><span class='scene-font-katari'>潜入了起落场附近的仓库，</span><br><span class='scene-font-katari'>在那发现了被收起来的兰斯洛特。</span>
 39,,<span class='scene-font-katari'>コックピットに滑り込んだスザクは</span><br><span class='scene-font-katari'>起動キーを挿し込み、</span><br><span class='scene-font-katari'>手早く起動準備を始める。</span>,<span class='scene-font-katari'>朱雀溜进了驾驶舱</span><br><span class='scene-font-katari'>插入启动钥匙，</span><br><span class='scene-font-katari'>麻利地开始做启动的准备。</span>
-40,スザク/朱雀,起動チェック完了。各部異常なし。<br>ヴァリス、ＭＶＳ、武装確認。<br>フロートシステム起動可能……,启动检查完成。所有部分情况正常。<br>V.A.R.I.S.、ＭＶＳ、武器确认。<br>浮空系统启动可能……
+40,スザク/朱雀,起動チェック完了。各部異常なし。<br>ヴァリス、ＭＶＳ、武装確認。<br>フロートシステム起動可能……,启动检查完成。所有部分情况正常。<br>VARIS、ＭＶＳ、武器确认。<br>浮空系统启动可能……
 42,スザク/朱雀,ガウェイン……,高文……
 43,,<span class='scene-font-katari'>スザクは倉庫の外に現れた</span><br><span class='scene-font-katari'>黒いナイトメアフレームを見て、</span><br><span class='scene-font-katari'>思考を巡らせる。</span>,<span class='scene-font-katari'>朱雀看到了</span><br><span class='scene-font-katari'>在仓库外出现的黑色的Knightmare Flame</span><br><span class='scene-font-katari'>陷入了思考。</span>
 44,？？？,…………,…………
@@ -84,10 +84,11 @@ id,name,text,trans
 102,ルルーシュ/鲁鲁修,うるさい。<br>出歯亀とは破廉恥な女だ。,吵死了。<br>你这个色鬼一样的无耻女。
 103,,<span class='scene-font-katari'>そう言うも、ルルーシュの顔には</span><br><span class='scene-font-katari'>穏やかな表情が浮かんでいた。</span>,<span class='scene-font-katari'>虽然这么说着，鲁鲁修的脸上却</span><br><span class='scene-font-katari'>露出了安稳的表情。</span>
 104,C.C.,…………,…………
-105,,<span class='scene-font-katari'>C.C.もモニターに反射する</span><br><span class='scene-font-katari'>それを見て頬を緩める。</span>,<span class='scene-font-katari'>C.C.从监视器里看到后</span><br><span class='scene-font-katari'>脸上的表情也变得放松了。</span>
+105,,<span class='scene-font-katari'>C.C.もモニターに反射する</span><br><span class='scene-font-katari'>それを見て頬を緩める。</span>,<span class='scene-font-katari'>CC从监视器里看到后</span><br><span class='scene-font-katari'>脸上的表情也变得放松了。</span>
 107,ルルーシュ/鲁鲁修,スザク。ナナリーが囚われているのは、<br>エルステ帝国の軍事要塞だ。<br>データをそちらに送る。,朱雀。娜娜莉现在被囚禁在，<br>埃尔斯特帝国的军事要塞里。<br>数据是从那里发出的。
 108,スザク/朱雀,了解。<br>確認出来た。<br>こちらもいつでも出られる。,了解了。<br>确认完毕。<br>我这里随时都能出发。
 109,ルルーシュ/鲁鲁修,よし！<br>行こう、ナナリーを助けに！,干的好！<br>那么让我们出发吧，去救回娜娜莉！
 111,,<span class='scene-font-katari'>黒と白の巨躯が空へと舞い上がる。</span>,<span class='scene-font-katari'>黑与白的巨大躯体飞上了天空。</span>
 112,,<span class='scene-font-katari'>目指すはモニターに映る大きな影、</span><br><span class='scene-font-katari'>偽ゼロの潜伏するエルステの</span><br><span class='scene-font-katari'>軍事要塞だった。</span>,<span class='scene-font-katari'>他们的目的地是监视器里映照出的巨大的影子</span><br><span class='scene-font-katari'>有冒牌ZERO潜伏着的</span><br><span class='scene-font-katari'>埃尔斯特帝国的军事要塞。</span>
 info,,,scene_evt190614_cp3_q3_s10
+,,,

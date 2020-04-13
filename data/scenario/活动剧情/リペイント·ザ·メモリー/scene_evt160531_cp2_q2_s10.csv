@@ -1,4 +1,4 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-chapter_name,,第2話　悪夢か現か,第二章 是恶梦还是现实
 0-synopsis,,騎空艇の操舵士を志すラカムは、星晶獣ミスラの力によって友人ノアがいなければ騎空艇を飛ばすことができなくなる。ラカムはノアを探して島々を巡るものの、再会することができないまま老境にさしかかり、自らの半生を振り返るのだった。,从小想要成为操舵士的拉卡姆，因受到星晶兽米斯拉能力的影响，如果不和好友诺亚一同的话就无法起航。拉卡姆为寻找诺亚辗转各个岛屿，却直到老去也没能再会。
 5,,<span class='scene-font-kokoro'>（ガキの頃、俺は友達と約束した……</span><br><span class='scene-font-kokoro'>俺が操舵する騎空艇で</span><br><span class='scene-font-kokoro'>一緒に旅をしようと。）</span>,（在小的时候，我和朋友约好了……由我来驾驶骑空艇，一起旅行。）
@@ -14,7 +14,7 @@
 26,,<span class='scene-font-kokoro'>（自分の操舵する騎空艇で</span><br><span class='scene-font-kokoro'>島々を訪れることができるなら</span><br><span class='scene-font-kokoro'>どんなにか幸せだろう……）</span>,（如果可以自己驾驶骑空艇造访各个岛屿的话，该是多么幸福的事情啊……）
 29,,<span class='scene-font-kokoro'>（そんなことを考えながら、</span><br><span class='scene-font-kokoro'>島を渡りノアを探し続けた。）</span>,（我一边想着这样的事情，一边渡岛寻找诺亚）
 32,,<span class='scene-font-kokoro'>（探して……</span><br><span class='scene-font-kokoro'>探して……</span><br><span class='scene-font-kokoro'>……探して。）</span>,（一直找……一直找…………一直找）
-38,,<span class='scene-font-kokoro'>（……そうして、俺は年を取り……</span><br><span class='scene-font-kokoro'>……今や、もう……）</span>,（……就这样，我老了……现在已经…….）
+38,,<span class='scene-font-kokoro'>（……そうして、俺は年を取り……</span><br><span class='scene-font-kokoro'>……今や、もう……）</span>,（……就这样，我老了……现在已经……）
 39,,<span class='scene-font-kokoro'>（俺の人生は、いったい何だったのか。</span><br><span class='scene-font-kokoro'>俺は何のために生きて来たのか……）</span>,（我的人生，到底算什么啊。我是为了什么才活到现在的啊……）
 40,,<span class='scene-font-kokoro'>（……答える者は、誰もいない……）</span>,（……可以回答我的人，一个也没有……）
 info,,1,scene_evt160531_cp2_q2_s10

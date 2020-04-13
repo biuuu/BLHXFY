@@ -3,7 +3,7 @@ id,name,text,trans
 0-synopsis,,ある日、オリヴィエは姬塔達に誘われ劇を観に出向く。観劇後、飲み物を買いにオリヴィエが姬塔達の傍を離れていると、ひとりの青年が姬塔達に話しかけてきた。オリヴィエは青年が天司長ルシフェルの関係者であることに気づき、天司長の動向をより一層警戒するのだった。,某天，奥莉薇尔被姬塔邀请去观看歌剧。正看着，奥莉薇尔起身去买喝的，一名青年来向姬塔一行搭话。奥莉薇尔察觉到这名青年和天司长路西菲尔关系匪浅，于是更加戒备着天司长的动向。
 1,,<span class='scene-font-katari'>オリヴィエが</span><br><span class='scene-font-katari'>姬塔達の騎空団に加わり</span><br><span class='scene-font-katari'>しばらく経ったある日のこと。</span>,<span class='scene-font-katari'>在奥莉薇尔</span><br><span class='scene-font-katari'>加入姬塔的骑空团</span><br><span class='scene-font-katari'>后不久的一天。</span>
 2,,<span class='scene-font-katari'>私室で休んでいたオリヴィエの元に、</span><br><span class='scene-font-katari'>姬塔とルリア、ビィが</span><br><span class='scene-font-katari'>訪ねてきた。</span>,<span class='scene-font-katari'>姬塔，露莉亚，碧</span><br><span class='scene-font-katari'>来到了正在房间里</span><br><span class='scene-font-katari'>休息的奥莉薇尔的身边。</span>
-3,ルリア/露莉亚,オリヴィエさん、<br>もし良ければ明日、<br>一緒に劇を観に行きませんか？,奥莉薇尔さん，<br>如果方便的话，<br>一起去看看歌剧怎么样呢？
+3,ルリア/露莉亚,オリヴィエさん、<br>もし良ければ明日、<br>一緒に劇を観に行きませんか？,奥莉薇尔，<br>如果方便的话，<br>一起去看看歌剧怎么样呢？
 4,オリヴィエ/奥莉薇尔,劇……？,歌剧……？
 5,ルリア/露莉亚,はい！　とっても面白いって<br>評判になってる劇なんです。,嗯！　是很有趣，<br>广受好评的歌剧哦。
 6,ビィ/碧,運良くチケットが取れたからさ！<br>暇だったら一緒に行かねえか？,我们运气好搞到票了！<br>有空的话要不要一起去？
@@ -18,10 +18,10 @@ id,name,text,trans
 15,,<span class='scene-font-katari'>オリヴィエは遠慮をする形で、</span><br><span class='scene-font-katari'>姬塔達の誘いを</span><br><span class='scene-font-katari'>断ろうとするが……</span>,<span class='scene-font-katari'>奥莉薇尔思虑着，</span><br><span class='scene-font-katari'>想要拒绝</span><br><span class='scene-font-katari'>姬塔一行的邀请……</span>
 16,ルリア/露莉亚,あ、あのっ！<br>そんなこと、気にしなくて<br>いいんじゃないかな、って思います！,啊，那个！<br>我觉得，不在意那种事<br>也可以吧！
 17,オリヴィエ/奥莉薇尔,ルリア……？,露莉亚……？
-18,ルリア/露莉亚,だって、オリヴィエさんが<br>星晶獣だからって、それで何か他の人に<br>迷惑がかかる訳じゃないですし……！,就算，奥莉薇尔さん是<br>星晶兽，也不代表<br>就会给别人添麻烦啊……！
+18,ルリア/露莉亚,だって、オリヴィエさんが<br>星晶獣だからって、それで何か他の人に<br>迷惑がかかる訳じゃないですし……！,就算，奥莉薇尔是<br>星晶兽，也不代表<br>就会给别人添麻烦啊……！
 19,ビィ/碧,だよなぁ。<br>それで折角の劇を諦めちまうなんて、<br>勿体ないじゃねぇか！　なっ？,就是啊。<br>而且这是难得的歌剧，<br>不去太可惜了！　是吧？
 20,オリヴィエ/奥莉薇尔,しかし……,但是……
-21,ルリア/露莉亚,それに、オリヴィエさんには<br>依頼とか沢山お手伝いして<br>頂いてますけど……,而且，奥莉薇尔さん<br>在委托和各种方面<br>都帮了我们很多……
+21,ルリア/露莉亚,それに、オリヴィエさんには<br>依頼とか沢山お手伝いして<br>頂いてますけど……,而且，奥莉薇尔<br>在委托和各种方面<br>都帮了我们很多……
 22,ルリア/露莉亚,お買いものとか遊びに行ったりとかは<br>全然してないですよね。,但是完全没有和我们一起<br>出去逛街玩过。
 23,ルリア/露莉亚,折角一緒に旅をしてるんですから、<br>楽しいことも一緒にしましょう！,难得一起旅行，<br>就一起玩一玩嘛！
 24,,<span class='scene-font-katari'>熱心に誘うルリアとビィに、</span><br><span class='scene-font-katari'>姬塔も同意して</span><br><span class='scene-font-katari'>オリヴィエを誘う。</span>,<span class='scene-font-katari'>架不住露莉亚和碧的热心邀请，</span><br><span class='scene-font-katari'>姬塔也点头，</span><br><span class='scene-font-katari'>邀请着奥莉薇尔。</span>
@@ -50,7 +50,7 @@ id,name,text,trans
 70,オリヴィエ/奥莉薇尔,<span class='scene-font-kokoro'>（しかし……）</span>,<span class='scene-font-kokoro'>（但是……）</span>
 71,オリヴィエ/奥莉薇尔,姬塔殿、<br>ルリアを少し休ませてやるべきだ。<br>彼女を看ていてやるといい。,姬塔阁下，<br>露莉亚还是休息一下比较好。<br>你来看着她吧。
 72,オリヴィエ/奥莉薇尔,私は飲み物でも買って来よう。<br>冷たい物を飲めば、<br>少しは気分が良くなるだろうからな。,我去买点喝的回来。<br>喝点冷的东西，<br>应该会好一点。
-73,ルリア/露莉亚,あ、あうぅ……<br>すみません、オリヴィエさん……,啊，呜呜……<br>对不起，奥莉薇尔さん……
+73,ルリア/露莉亚,あ、あうぅ……<br>すみません、オリヴィエさん……,啊，呜呜……<br>对不起，奥莉薇尔……
 74,オリヴィエ/奥莉薇尔,大したことではない。<br>気にせず休んでいるんだ。,别在意。<br>你就好好休息吧。
 80,,<span class='scene-font-katari'>オリヴィエは劇場の売店で</span><br><span class='scene-font-katari'>飲み物を買い求め、</span><br><span class='scene-font-katari'>席に戻ろうとする。</span>,<span class='scene-font-katari'>正在奥莉薇尔</span><br><span class='scene-font-katari'>到剧场的商店买完东西，</span><br><span class='scene-font-katari'>回到座位上之时。</span>
 81,,<span class='scene-font-katari'>だが……</span>,<span class='scene-font-katari'>但是……</span>
@@ -72,7 +72,7 @@ id,name,text,trans
 102,,<span class='scene-font-katari'>姬塔達は</span><br><span class='scene-font-katari'>青年と騒ぎから逃れるようにして、</span><br><span class='scene-font-katari'>劇場を出ようとする。</span>,<span class='scene-font-katari'>姬塔一行人</span><br><span class='scene-font-katari'>像是要从青年制造的混乱中逃走一样，</span><br><span class='scene-font-katari'>出了剧场。</span>
 103,ビィ/碧,うわっぷ！<br>通してくれよぅ！,呼啊！<br>让我们过去啊！
 105,オリヴィエ/奥莉薇尔,姬塔殿！<br>こちらだ、劇場を出よう！,姬塔阁下！<br>这边，快走吧！
-106,ルリア/露莉亚,あっ、オリヴィエさん！,啊，奥莉薇尔さん！
+106,ルリア/露莉亚,あっ、オリヴィエさん！,啊，奥莉薇尔！
 107,オリヴィエ/奥莉薇尔,気分が悪いところに<br>この人ごみはきついだろう。<br>さぁ、早く騎空艇へ戻ろう。,在这种混乱又人多杂乱的<br>地方很难受吧。<br>好了，快点回骑空艇吧。
 108,ルリア/露莉亚,はい、ありがとうございます……！,嗯，谢谢你……！
 109,,<span class='scene-font-katari'>オリヴィエと姬塔は</span><br><span class='scene-font-katari'>人ごみからルリアを庇いつつ、</span><br><span class='scene-font-katari'>騎空艇へと帰ってきた。</span>,<span class='scene-font-katari'>奥莉薇尔和姬塔</span><br><span class='scene-font-katari'>在人流中把露莉亚护在中间，</span><br><span class='scene-font-katari'>回到了骑空艇。</span>

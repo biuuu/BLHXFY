@@ -1,5 +1,5 @@
 id,name,text,trans
-0-chapter_name,,迷子の迷子のお姉ちゃん,迷子の迷子のお姉ちゃん
+0-chapter_name,,迷子の迷子のお姉ちゃん,迷子の迷子のお姉
 0-synopsis,,夏の<span class='scene-font-place'>アウギュステ</span>での休暇中、ジェシカは海の家でヘルエス、エッセルとの茶会に参加する。会話の中で、弟離れが出来ないと悩みを打ち明けるジェシカ。ヘルエスとエッセルはそれぞれの弟への想いを語る。それを聞いたジェシカは、アイルとより良い関係を築いていきたいという想いと共に、浜で遊ぶルシぬい達とアイルを優しく見つめるのだった。,在夏日度假的期间，杰西卡在海之家参加了与赫尔艾斯、艾瑟尔的茶话会。杰西卡在聊天中坦白自己因为无法离开弟弟而烦恼。赫尔艾斯和艾瑟尔也分别讲述了她们对弟弟的想法。听了这些后，杰西卡温柔地看着在沙滩上玩耍的姬塔等人和艾鲁，想要和艾鲁建立更好的关系。
 1,,<span class='scene-font-katari'>騎空団の仲間達と共に休暇を取るべく</span><br><span class='scene-font-katari'>夏の</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>を訪れた</span><br><span class='scene-font-katari'>ルシぬい。</span>,<span class='scene-font-katari'>姬塔和骑士团的同伴们一起来到了奥古斯特，享受夏季的假期。</span>
 2,,<span class='scene-font-katari'>ジェシカもその例外ではなく、</span><br><span class='scene-font-katari'>彼女は仲間に誘われ海の家のテラスで</span><br><span class='scene-font-katari'>話に花を咲かせていた。</span>,<span class='scene-font-katari'>杰西卡也不例外。</span><br><span class='scene-font-katari'>她受到同伴的邀请，</span><br><span class='scene-font-katari'>来到海之家的露台上聊天。</span>
@@ -12,7 +12,7 @@ id,name,text,trans
 18,,<span class='scene-font-katari'>お茶会に加わるエルーンの少女は</span><br><span class='scene-font-katari'>全空にその名を轟かせる騎空団</span><br><span class='scene-font-katari'>十天衆のひとり、エッセル。</span>,<span class='scene-font-katari'>参加茶会的兽耳族少女是在全空闻名的骑空团十天众之一，艾瑟尔。</span>
 19,,<span class='scene-font-katari'>ルシぬいとは</span><br><span class='scene-font-katari'>共にンナギにまつわる事件を</span><br><span class='scene-font-katari'>解決したことで縁を持っていた。</span>,<span class='scene-font-katari'>和姬塔因为一起解决了和鳗鱼有关的事件而结下了缘分。</span>
 22,ヘルエス/赫尔艾斯,折角遊びに出向くのですから、<br>小さなことからも非日常を得たい……<br>という観光客へ応えた品なのでしょう。,因为好不容易出来玩，哪怕是微小之处也想获得非日常的体验……<br>这是对游客们这种需求的回应吧。
-23,ジェシカ/杰西卡,確かに、<span class='scene-font-place'>アウギュステ</span>ですもんね！<br>ファータ・グランデ空域では<br>海で遊べるのはここだけですし……,确实，毕竟是奥古斯特！<br>在ファータ・グランデ空域，只有这里可以在海边游玩。
+23,ジェシカ/杰西卡,確かに、<span class='scene-font-place'>アウギュステ</span>ですもんね！<br>ファータ・グランデ空域では<br>海で遊べるのはここだけですし……,确实，毕竟是奥古斯特！<br>在ファタ・グランデ空域，只有这里可以在海边游玩。
 24,ジェシカ/杰西卡,リゾートに来るからには<br>特別なお休みにしたい、って<br>無意識にも思っている気がします。,既然来了度假村就想过一个特别的假期，<br>会无意识地那么想呢。
 25,エッセル/艾瑟尔,特別なお休み……,特别的假期……
 26,ジェシカ/杰西卡,お代わりしちゃおうかしら……？<br>ヘルエスさんとエッセルさんも……,再来一杯怎么样……？<br>赫尔艾斯小姐和艾瑟尔小姐……

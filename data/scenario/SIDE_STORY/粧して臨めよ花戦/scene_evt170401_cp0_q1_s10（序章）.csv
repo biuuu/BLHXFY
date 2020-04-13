@@ -13,7 +13,7 @@ id,name,text,trans
 20,３人,<span class='scene-font-4'>合コンンンンン……！<br><span class='scene-font-4'>的なヤツ！　ウェーイス！</span>,<span class='scene-font-4'>是！联！谊！呀！<br><span class='scene-font-4'>万岁！</span>
 21,,<span class='scene-font-katari'>鬨の声をあげ、戦意を高める３人。</span><br><span class='scene-font-katari'>胸に渦巻く熱の逃げ場を探すように、</span><br><span class='scene-font-katari'>体をうねらせ、上下させ──</span>,<span class='scene-font-katari'>发出高昂的叫声，兴致勃勃的三人。</span><br><span class='scene-font-katari'>好像是为了发散心中那无处安放的热情一般，</span><br><span class='scene-font-katari'>上下扭动着身体──</span>
 22,ローアイン/罗艾因,行くぜダチ公！<br>マジ今日メタクソ気合入ってく<br>ところだからマジで！,要上了兄弟们！<br>讲真今天真的是要<br>动用浑身解数了哦！
-23,２人,<span class='scene-font-4'>ゥゥウゥウウィー！</span>,<span class='scene-font-4'>唔哦哦哦哦哦ー！</span>
+23,２人,<span class='scene-font-4'>ゥゥウゥウウィー！</span>,<span class='scene-font-4'>唔哦哦哦哦哦！</span>
 29,,<span class='scene-font-katari'>たどりついたのは、とある酒場。</span><br><span class='scene-font-katari'>木製のドア一枚を隔てて、</span><br><span class='scene-font-katari'>戦いの場と対峙する３人。</span>,<span class='scene-font-katari'>三人前往的是某间酒馆。</span><br><span class='scene-font-katari'>三人仿佛是面对着战场一般，</span><br><span class='scene-font-katari'>站在酒馆的木质大门前。</span>
 30,３人,…………,…………
 31,,<span class='scene-font-katari'>そして決意とともにローアインらは</span><br><span class='scene-font-katari'>ドアに手をかける──</span>,<span class='scene-font-katari'>终于下定决心的罗艾因一行</span><br><span class='scene-font-katari'>打开了大门──</span>
@@ -74,3 +74,4 @@ id,name,text,trans
 109,,<span class='scene-font-katari'>こうして、大事故の現場は</span><br><span class='scene-font-katari'>救いの神コルワの出現で</span><br><span class='scene-font-katari'>なんとかなりそうな雰囲気になった。</span>,<span class='scene-font-katari'>就这样，大型事故现场的氛围</span><br><span class='scene-font-katari'>因为可露瓦的出现</span><br><span class='scene-font-katari'>而终于有所缓和了。</span>
 110,,<span class='scene-font-katari'>６人の男女による、</span><br><span class='scene-font-katari'>グランサイファーの団内懇親会。</span><br><span class='scene-font-katari'>果たしてその結末やいかに。</span>,<span class='scene-font-katari'>由这6位男女组成的，</span><br><span class='scene-font-katari'>格兰赛法内部联谊会。</span><br><span class='scene-font-katari'>究竟会迎来怎样的结局呢。</span>
 info,,,scene_evt170401_cp0_q1_s10
+,,,

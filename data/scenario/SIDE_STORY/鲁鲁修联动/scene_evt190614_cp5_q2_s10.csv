@@ -34,7 +34,7 @@ id,name,text,trans
 39,デルフィナ/黛尔菲娜,取引だ。明日、抗ウイルス薬を持ち<br>ナナリーを連れて<br>指定のポイントへ来い。,我们来做笔交易吧。明天你拿着抗病毒药<br>带上娜娜莉<br>来我指定的地点。
 40,デルフィナ/黛尔菲娜,そうすれば、<br>ナナリーだけでも元の世界に<br>戻してやる。,如果你这么做的话，<br>我就让娜娜莉<br>回到原来的世界。
 41,ルルーシュ/鲁鲁修,……本当に、ナナリーだけでも<br>元の世界に戻してくれるのか？,……你真的，会把娜娜莉<br>送回原来的世界吗？
-42,,<span class='scene-font-katari'>ルルーシュとデルフィナが</span><br><span class='scene-font-katari'>交渉する様を、C.C.、スザク、</span><br><span class='scene-font-katari'>カレンの３人が見守る。</span>,<span class='scene-font-katari'>C.C.、朱雀、卡莲三人</span><br><span class='scene-font-katari'>在一旁注视着</span><br><span class='scene-font-katari'>鲁鲁修和黛尔菲娜的交涉。</span>
+42,,<span class='scene-font-katari'>ルルーシュとデルフィナが</span><br><span class='scene-font-katari'>交渉する様を、C.C.、スザク、</span><br><span class='scene-font-katari'>カレンの３人が見守る。</span>,<span class='scene-font-katari'>CC、朱雀、卡莲三人</span><br><span class='scene-font-katari'>在一旁注视着</span><br><span class='scene-font-katari'>鲁鲁修和黛尔菲娜的交涉。</span>
 43,デルフィナ/黛尔菲娜,悪くない話のはずだ。<br>お前にとって優先すべきは<br>仲間よりも妹だろう？,应该是不错的条件吧。<br>因为对你来说<br>比起同伴更优先的是妹妹对吧？
 44,ルルーシュ/鲁鲁修,ああ。<br>その通りだ。,啊啊。<br>的确是那样。
 45,デルフィナ/黛尔菲娜,交渉成立だな。<br>では、詳細はデータを送る。<br>明日を楽しみにしている。,我们的交涉成立了呢。<br>那么，我把详细的数据传送过去。<br>期待着明天与你的再会。
@@ -45,7 +45,7 @@ id,name,text,trans
 52,ルルーシュ/鲁鲁修,カレン、スザク……<br>二人ともありがとう。,卡莲，朱雀……<br>谢谢你们。
 53,カレン/卡莲,うし！<br>じゃあ、最終決戦に向けて気合入れて<br>紅蓮の整備といきますか。,好！<br>那么，向着最终决战打起精神<br>我去做红莲的整备工作了。
 54,スザク/朱雀,そうだね。<br>じゃあ、ルルーシュ。<br>また後で。,说的也是。<br>那么，鲁鲁修。<br>稍后见。
-55,,<span class='scene-font-katari'>カレンとスザクがその場を後にすると、</span><br><span class='scene-font-katari'>ルルーシュとC.C.の</span><br><span class='scene-font-katari'>ふたりが残される。</span>,<span class='scene-font-katari'>卡莲和朱雀离开后，</span><br><span class='scene-font-katari'>这里就只剩下了</span><br><span class='scene-font-katari'>鲁鲁修和C.C.两个人。</span>
+55,,<span class='scene-font-katari'>カレンとスザクがその場を後にすると、</span><br><span class='scene-font-katari'>ルルーシュとC.C.の</span><br><span class='scene-font-katari'>ふたりが残される。</span>,<span class='scene-font-katari'>卡莲和朱雀离开后，</span><br><span class='scene-font-katari'>这里就只剩下了</span><br><span class='scene-font-katari'>鲁鲁修和CC两个人。</span>
 56,C.C.,なあ、私には礼はないのか？,呐啊，你不向我道谢吗？
 57,ルルーシュ/鲁鲁修,お前と俺は共犯者だろう。<br>手を貸して当然だ。,你是我的共犯者吧。<br>帮助我是理所应当的。
 58,C.C.,そういう「当たり前」のような態度が、<br>人間関係に亀裂を生むのだぞ。<br>憶えておくがいい。,你那种理所应当的态度，<br>可是容易让人际关系产生裂缝的哦。<br>给我好好记住啊。
@@ -61,8 +61,9 @@ id,name,text,trans
 68,ルルーシュ/鲁鲁修,ああ。<span class='scene-font-place'>ガロンゾ</span>やエルステ要塞、<br>地下施設で感じた<br>奴への違和感の正体はそれだった。,啊啊。<span class='scene-font-place'>在加隆佐和</span>埃尔斯特要塞的地下设施<br>感觉到的那家伙身上的违和感<br>原来是这么回事啊。
 69,C.C.,かつて似た能力のマオと戦った時は<br>お前が自分自身にギアスをかけることで<br>相手の意表を突けたが……,以前和这个能力相似的毛战斗的时候<br>你将Geass用在自己身上<br>打了对手一个出其不意……
 70,C.C.,同じ手は使えないぞ。,同样的方法可不能再用第二遍啊。
-71,ルルーシュ/鲁鲁修,わかっているさ。<br>今の俺にはあの時以上に仲間がいる。<br>頼りにしているぞ、C.C.。,那我当然知道了。<br>现在的我比那时的我拥有更多的同伴。<br>一切拜托你了啊，C.C.。
+71,ルルーシュ/鲁鲁修,わかっているさ。<br>今の俺にはあの時以上に仲間がいる。<br>頼りにしているぞ、C.C.。,那我当然知道了。<br>现在的我比那时的我拥有更多的同伴。<br>一切拜托你了啊，CC。
 72,C.C.,フッ、その素直な態度も<br>悪くないじゃないか。,呵，你这种坦率的态度<br>也不赖嘛。
 73,C.C.,いいだろう。<br>聞かせてくれ、お前の策を。,行啊。<br>告诉我吧，你的计划。
-74,,<span class='scene-font-katari'>ルルーシュはC.C.に</span><br><span class='scene-font-katari'>作戦を伝えると、</span><br><span class='scene-font-katari'>艇の停泊する発着場へと向かった。</span>,<span class='scene-font-katari'>鲁鲁修向C.C.</span><br><span class='scene-font-katari'>说明了计划后</span><br><span class='scene-font-katari'>向着骑空艇停泊着的始发场走去。</span>
+74,,<span class='scene-font-katari'>ルルーシュはC.C.に</span><br><span class='scene-font-katari'>作戦を伝えると、</span><br><span class='scene-font-katari'>艇の停泊する発着場へと向かった。</span>,<span class='scene-font-katari'>鲁鲁修向CC</span><br><span class='scene-font-katari'>说明了计划后</span><br><span class='scene-font-katari'>向着骑空艇停泊着的始发场走去。</span>
 info,,,scene_evt190614_cp5_q2_s10
+,,,

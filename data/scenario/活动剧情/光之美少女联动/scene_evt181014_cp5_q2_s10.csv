@@ -1,4 +1,4 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-chapter_name,,第5話 返して！大切なルリアの手帳,第5話 还回来！重要的露莉亚笔记
 0-synopsis,,ポルンがルリアの日記を元に星晶獣の絵を描いたことをきっかけに、姬塔達の旅の思い出を聞くなぎさとほのか。その中で姬塔とルリアの出会いの話題に触れた折、語りたがらないルリアの表情から心中を察したなぎさ達は話題を変える。一方、ルリアから借りたノートを抱え眠っていたポルンに、ザケンナーの魔の手が忍び寄っていたのだった。,保伦按照露莉亚的日记为蓝本画着星晶兽、以此为契机渚和穗乃香听起了姬塔他们的旅途中的回忆。当说道姬塔和露莉亚相遇的话题时、察觉到露莉亚难以开口的表情、渚改变了话题。另一边、在抱着从露莉亚那借来的笔记本睡着的保伦那、萨凯那偷偷地伸出了罪恶之手。
 1,,お絵描きポポ、お絵描きポポ。,画画波波、画画波波。
@@ -26,7 +26,7 @@
 50,,姬塔さんたちには<br>お世話になってるし。<br>なんでも言ってよ。,也是受了<br>姬塔和大家不少照顾。<br>有什么尽管说。
 51,,体力なら自信あるから、<br>まっかせといて！,体力方面我可是很有自信的、<br>包在我身上！
 52,,<span class='scene-font-katari'>なぎさとほのかは半ば強引に</span><br><span class='scene-font-katari'>掃除当番を引き受け、</span><br><span class='scene-font-katari'>持ち場へと向かった。</span>,<span class='scene-font-katari'>渚和穗乃香</span><br><span class='scene-font-katari'>有点强硬地接下了扫除的工作、</span><br><span class='scene-font-katari'>开始去扫除了。</span>
-57,,ふんふんふーん♪,呼呼呼ーん♪
+57,,ふんふんふーん♪,呼呼呼ん♪
 58,,なぎさ、ご機嫌ミポ？,渚、心情不错～米波？
 59,,お掃除当番を代わったお礼に<br>お菓子を貰えることになったのよね。,作为扫除的奖励<br>收到了糖果的样子。
 60,,そう！　こっちで甘い物を<br>食べられるなんて思ってなかったから。,是的！　没想到<br>在这边也能吃到甜食。
@@ -42,6 +42,7 @@
 75,,すぅ……すぅ……ポポ……<br>むにゃむにゃ……,呼……喵……波波……<br>牡扭牡扭……
 76,,<span class='scene-font-katari'>当のポルンは、ルリアから借りた</span><br><span class='scene-font-katari'>ノートを抱えて眠っていた。</span>,<span class='scene-font-katari'>保伦、正抱着从露莉亚那</span><br><span class='scene-font-katari'>借来的笔记本睡着。</span>
 86,,<span class='scene-font-2'>ザケンナ、ザケンナ……</span>,<span class='scene-font-2'>萨凯那、萨凯那……</span>
-87,,ザケンナー……,萨凯那ー……
+87,,ザケンナー……,萨凯那……
 88,,<span class='scene-font-katari'>無防備なポルンを見下ろし、</span><br><span class='scene-font-katari'>ザケンナーは手を伸ばした。</span>,<span class='scene-font-katari'>俯视着毫无防备的保伦、</span><br><span class='scene-font-katari'>萨凯那伸出了罪恶之手。</span>
 info,,1,scene_evt181014_cp5_q2_s10
+,,,

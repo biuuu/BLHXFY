@@ -22,7 +22,7 @@ id,en,jp,trans
 35,,うん……,嗯……
 37,,ああ……お腹空いた……,啊啊……肚子饿了……
 38,,お昼、まだ食べてませんもんね。<br>もう村も大丈夫そうですし、<br>食べに行きましょうか！,毕竟还没有吃午饭呢。<br>村子好像也没事了，<br>我们去吃东西吧！
-39,,さんせー！,赞成ー！
+39,,さんせー！,赞成！
 45,,<span class='scene-font-katari'>食事処に入った一行は</span><br><span class='scene-font-katari'>次々と運ばれてくる料理に</span><br><span class='scene-font-katari'>舌鼓を打つ。</span>,<span class='scene-font-katari'>进入饭店的一行人</span><br><span class='scene-font-katari'>因为接连不断送来的美食</span><br><span class='scene-font-katari'>而满足不已。</span>
 46,,もぐもぐ……<br>おいしいですね！,呜咕呜咕……<br>真好吃啊！
 47,,ええ！<br>この島の味付け、<br>イタリアンみたいでとってもおいしい！,嗯！<br>这座岛的风味<br>像是意大利一样真是好吃！
@@ -57,3 +57,4 @@ id,en,jp,trans
 86,,<span class='scene-font-katari'>彼の瞳に湛えられた闘志は、</span><br><span class='scene-font-katari'>新たなる波乱の幕開けを</span><br><span class='scene-font-katari'>物語っているのだった。</span>,<span class='scene-font-katari'>他眼中浮现出的斗志</span><br><span class='scene-font-katari'>正预示着另一场</span><br><span class='scene-font-katari'>骚乱的开始。</span>
 87,,<span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　　　　　　　　　　　　　──つづく</span>,<span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　　　　　　　　　　　　　──待续</span>
 info,,1,scene_evt181014_cp0_q2_s10
+,,,

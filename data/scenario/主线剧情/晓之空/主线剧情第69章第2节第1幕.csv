@@ -1,4 +1,4 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-chapter_name,69: What Was Found,第69章　ここにあるもの,69：存于此处之物
 0-synopsis,"While on their way to rescue stranded people, dangerous crag clusters narrow the Grandcypher's path. Despite Eugen's misgivings, Rackam is confident that the fastest way through is straight ahead.",姬塔一行は崩壊するダイダロイトベルトから人々を救うべく、グランサイファーを発進させる。その眼前に広がるのは無数の小岩塊群であり、オイゲンは舵を握るラカムに中型艇で小岩塊群を進むことの危険さを説くも、一行はいち早く人々を助け出すため、そのまま小岩塊群へと挑む。,在拯救陷入困境的人们的路上，危险的碎片群缩小了格兰赛法的道路。尽管欧根的疑虑，拉卡姆仍然相信最快的方式是直截了当。
 0,"Oy oy oy oy oy oy oy, beardy! Are you crazy?",おいおいおいおいおいおいおい！<br>正気か！？　ヒゲの兄ちゃんよぉ！,喂喂喂喂！胡子小哥你认真的吗？
@@ -18,7 +18,7 @@
 14,Rackam rocks the airship left and right as it dodges the encroaching crags.,<span class='scene-font-katari'>ラカムは機体を左右に揺らし、</span><br><span class='scene-font-katari'>潜り抜けるように</span><br><span class='scene-font-katari'>迫る岩塊をかわしていく。</span>,<span class='scene-font-katari'>拉卡姆驾驶骑空艇左右闪躲靠近的岩石，像是从这里面钻过去一样。
 15,"Ugh! I've seen my fair share of rough flights, but this is too much.",っ……！！<br>こ、これは騎空艇に乗り慣れていても、<br>なかなか堪えますね……,っ……！即便是已经乘坐骑空艇多次，也有点难以习惯这种体验呢。
 16,So this is your pilot's true talent!,これが……<br>この騎空団を支える<br>操舵士の実力か……！,这就是这个骑空团的操舵士的实力吗！
-17,"The Grandcypher moves forward, wavering back and forth with the stream. But...",<span class='scene-font-katari'>瞬時に身を任せる気流を切り替えながら、</span><br><span class='scene-font-katari'>グランサイファーは</span><br><span class='scene-font-katari'>順調に進んでいくが……</span>,<span class='scene-font-katari'>格兰赛法号顺着气流改变航行姿态，顺利地向前行进，但是...
+17,"The Grandcypher moves forward, wavering back and forth with the stream. But...",<span class='scene-font-katari'>瞬時に身を任せる気流を切り替えながら、</span><br><span class='scene-font-katari'>グランサイファーは</span><br><span class='scene-font-katari'>順調に進んでいくが……</span>,<span class='scene-font-katari'>格兰赛法号顺着气流改变航行姿态，顺利地向前行进，但是…
 18,Tch! I can't get around this one! It might hit the deck so watch out!,ちっ……悪ぃ！<br>小せぇのが一つ避けきれねぇ！<br>甲板に当たるだろうから注意してくれ！,不好了，这么小的实在躲不开。可能会击中甲板各位注意一下！
 19,Eek!,ひっ！！,ひっ！！
 20,Vyrn lets out a tiny shriek at the rock closing in before their eyes.,<span class='scene-font-katari'>眼前に迫る岩に、</span><br><span class='scene-font-katari'>ビィが小さな悲鳴を上げる。</span>,<span class='scene-font-katari'>看到近在眼前的岩石块，碧发出了小声的悲鸣。
@@ -29,3 +29,4 @@
 26,"Listen, you! Just keep your eyes forward!",ばっか、おめぇ、<br>お前は前だけ見てろってんだ。,蠢货啊你，好好看着前方啊！
 27,"Whether it's beasts or boulders, we'll take care of 'em. Right, Captain?",魔物やら何やらは、<br>オレ達で片付けるぞ！<br>なぁ、団長さんよぉ！,不管是魔物还是什么的，都交给我们来对付，对吧？团长呦！
 info,1,1,scene_cp69_q2_s10
+,,,

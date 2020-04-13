@@ -31,7 +31,7 @@ id,en,jp,trans
 39,"Then, if there aren't any primal beasts, what does Lyria keep sensing?",じゃあ、星晶獣は関係ないみたいだし、<br>ルリアが感じてる気配は、<br>いったい何なのかしら……？,就是说和星晶兽没有关系吧。那么露莉亚感受到的气息到底是什么呢？
 40,"The crew grows silent, unable to come up with a clear answer.",<span class='scene-font-katari'>その問いに誰もが首を傾げ、</span><br><span class='scene-font-katari'>一行は明確な結論を</span><br><span class='scene-font-katari'>出すことが出来なかった。</span>,<span class='scene-font-katari'>对于这个问题，众人都感到疑惑，一行人也没得出明确的结论。
 41,"Heading back to the city, they decide to depart the next morning for Amalthea Island to see the archives.",<span class='scene-font-katari'>一行はそのまま、中心街へ戻り、</span><br><span class='scene-font-katari'>翌朝、資料を求めて</span><br><span class='scene-font-place'>アマルティア島</span><span class='scene-font-katari'>へ戻ることを決める。</span>,<span class='scene-font-katari'>于是众人就这么回了中心街。第二天早上，为了继续寻找资料，众人决定返回</span><span class='scene-font-place'>阿玛提亚岛</span><span class='scene-font-katari'>。</span>
-47,Later that night...,<span class='scene-font-katari'>その夜――</span>,<span class='scene-font-katari'>那天晚上...
+47,Later that night...,<span class='scene-font-katari'>その夜――</span>,<span class='scene-font-katari'>那天晚上…
 48,"Unseen in the dark, a knight glares out at the rocky island chain.",<span class='scene-font-katari'>闇夜に紛れるようにして、</span><br><span class='scene-font-katari'>ひとりの騎士が、</span><br><span class='scene-font-katari'>歪な列島を睨みつけていた。</span>,<span class='scene-font-katari'>与黑夜一体的独自一人的骑士，注视着这座扭曲的岛屿。</span>
 49,There's no mistaking it.,……間違いない。,没有错。
 50,This... is going to get ugly.,これは……マズイことになったな。,这……恐怕变成了麻烦的事态了。
@@ -53,3 +53,4 @@ id,en,jp,trans
 75,A look of confusion is written all over 姬塔's face.,<span class='scene-font-katari'>ラカムのその言葉に、</span><br><span class='scene-font-katari'>姬塔は疑問符を浮かべる。</span>,<span class='scene-font-katari'>拉卡姆的话令姬塔心生疑惑。</span>
 76,But this is only the beginning of a series of curious incidents to come.,<span class='scene-font-katari'>しかし、これはあくまで、</span><br><span class='scene-font-katari'>一連の事件の始まりに過ぎないのだった。</span>,<span class='scene-font-katari'>但是，说这是一连串事件的开始也不为过。</span>
 info,1,1,scene_cp67_q4_s30
+,,,

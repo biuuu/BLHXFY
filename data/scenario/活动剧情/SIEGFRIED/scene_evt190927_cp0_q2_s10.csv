@@ -19,7 +19,7 @@ id,name,text,trans
 27,グンター,<span class='scene-font-4'>ジークフリートォォッ！</span>,<span class='scene-font-4'>齐格飞喔喔！</span>
 28,ジークフリート/齐格飞,<span class='scene-font-4'>グンタァァァァァァッ！</span>,<span class='scene-font-4'>古达啊啊啊啊啊啊！</span>
 29,,<span class='scene-font-katari'>竜化したグンターとジークフリートの</span><br><span class='scene-font-katari'>互いに譲れぬ気迫がぶつかり合う。</span>,<span class='scene-font-katari'>龙化的古达和齐格飞</span><br><span class='scene-font-katari'>以互不相让的气势互相对抗着。</span>
-31,,<span class='scene-font-katari'>次の瞬間、</span><br><span class='scene-font-katari'>ジークフリートの決死の一撃によって</span><br><span class='scene-font-katari'>その巨躯を静かに横たえるグンター</span>,<span class='scene-font-katari'>下个瞬间，</span><br><span class='scene-font-katari'>因为齐格飞必死的一击</span><br><span class='scene-font-katari'>古达的巨大身躯静静地倒下了ー</span>
+31,,<span class='scene-font-katari'>次の瞬間、</span><br><span class='scene-font-katari'>ジークフリートの決死の一撃によって</span><br><span class='scene-font-katari'>その巨躯を静かに横たえるグンター</span>,<span class='scene-font-katari'>下个瞬间，</span><br><span class='scene-font-katari'>因为齐格飞必死的一击</span><br><span class='scene-font-katari'>古达的巨大身躯静静地倒下了</span>
 33,グンター,グハッ……,咕哈……
 34,ジークフリート/齐格飞,はぁ……はぁ……<br>はぁ……はぁ……,哈啊……哈啊……<br>哈啊……哈啊……
 35,ジークフリート/齐格飞,これでようやく<br>落ち着いて話せるか……,这样终于能够<br>冷静下来谈谈了吧……
@@ -110,7 +110,7 @@ id,name,text,trans
 143,グンター,ジュツガ……<br>トケタトイウノカ！,是术式吗……<br>居然解开了吗！
 144,トネリロ/托涅利罗,うわぁぁぁっ！　た、食べないで！,呜哇啊啊啊！　请，请不要吃我！
 145,ヘンリー/亨利,なっ……！<br>何ですかこのバケモノは！,什么……！<br>这个怪兽是啥呀！
-146,アーサー/亚瑟,うわぁ……！　めっちゃ強そー！,呜哇啊……！　看起来好强ー！
+146,アーサー/亚瑟,うわぁ……！　めっちゃ強そー！,呜哇啊……！　看起来好强！
 147,モルドレッド/莫德雷德,おいおい……このデカイ竜って……！,喂喂……这个巨龙是……！
 148,クルス/库鲁斯,…………,…………
 149,ジークフリート/齐格飞,話は後だ……<br>そいつにもアルマを<br>分けてやってくれ……,之后再和你们解释……<br>先让我和这家伙<br>单独谈谈……
@@ -137,3 +137,4 @@ id,name,text,trans
 173,,<span class='scene-font-katari'>ジークフリートとグンターは、</span><br><span class='scene-font-katari'>人気のない場所へ移動して、</span><br><span class='scene-font-katari'>ふたりきりで話すのだった。</span>,<span class='scene-font-katari'>齐格飞和古达</span><br><span class='scene-font-katari'>移动去了人烟稀少的地方</span><br><span class='scene-font-katari'>开始了两个人的谈话。</span>
 info,,,scene_evt190927_cp0_q2_s10
 译者,,,
+,,,

@@ -39,13 +39,13 @@ id,name,text,trans
 58,ムクタ,にゃう～,喵～
 59,,<span class='scene-font-katari'>それぞれが後になり先になり、</span><br><span class='scene-font-katari'>不思議とつかず離れず</span><br><span class='scene-font-katari'>一団は自由な散歩を楽しんでいた。</span>,<span class='scene-font-katari'>各自有先有后、</span><br><span class='scene-font-katari'>保持着微妙的距离</span><br><span class='scene-font-katari'>一行人享受这自由的散步。</span>
 60,,<span class='scene-font-katari'>そんな時──</span>,<span class='scene-font-katari'>正在此时──</span>
-61,少女,あー！<br>猫ちゃんだー！,啊ー！<br>是猫ー！
+61,少女,あー！<br>猫ちゃんだー！,啊！<br>是猫！
 63,エレフセリア,みゃ……！,喵……！
 64,,<span class='scene-font-katari'>元気な少女が</span><br><span class='scene-font-katari'>歓声を上げて駆け寄ってくる。</span>,<span class='scene-font-katari'>活力十足的少女</span><br><span class='scene-font-katari'>欢呼着跑了过来。</span>
 65,セン,あ、こんにちは。,啊、你好。
-66,少女,すごーい！<br>猫ちゃんが沢山！,好ー厉害！<br>有好多猫！
+66,少女,すごーい！<br>猫ちゃんが沢山！,好厉害！<br>有好多猫！
 68,母親,コラ！<br>駄目よ！！,欸！<br>不能摸！！
-69,少女,えーっ！<br>やだやだー<br>猫ちゃん触るー！,欸ー！<br>不好不好ー<br>我要摸ー！
+69,少女,えーっ！<br>やだやだー<br>猫ちゃん触るー！,欸！<br>不好不好<br>我要摸！
 70,母親,何考えてるの！<br>駄目っ！<br>猫なんて……,你在想什么！<br>不行！<br>唯独猫……
 71,母親,危ないし、<br>汚いでしょう！？,又脏、<br>又危险！？
 73,エレフセリア,みゃ……,喵……
@@ -65,7 +65,7 @@ id,name,text,trans
 87,セン,はい……？,嗯……？
 88,少女,ねぇママ～<br>猫ちゃん触ってもいい？,馁、妈妈～<br>可以摸猫了吗？
 89,母親,そうねぇ……いいわよ。<br>でもお姉ちゃんに<br>ちゃんと聞いてからね？,也是啊……可以啊。<br>但是<br>要好好的问问姐姐才行哦？
-90,少女,わーい！<br>やったー！,哇ー啊！<br>太好了ー！
+90,少女,わーい！<br>やったー！,哇啊！<br>太好了！
 91,少女,お姉ちゃん、猫ちゃんを<br>触ってもいいですか？,姐姐、可以<br>摸猫吗？
 92,セン,あ、はい！<br>ちょっと待ってくださいね。<br>えっと……,啊、可以！<br>稍微等一下。<br>唔……
 94,セン,みぅちゃんさん、今<br>抱っこしてもいいですか？,咪呜、现在<br>可以抱抱吗？
@@ -78,3 +78,4 @@ id,name,text,trans
 101,少女,うん……ふふ……<br>ふわふわだぁ……,嗯……哈哈……<br>软绵绵的……
 102,,<span class='scene-font-katari'>少女は、うっとりと幸せそうに</span><br><span class='scene-font-katari'>子猫に頬をよせるのだった。</span>,<span class='scene-font-katari'>少女、一脸幸福地</span><br><span class='scene-font-katari'>用脸颊蹭着奶猫。</span>
 info,,,scene_evt190131_cp1_q1_s10
+,,,

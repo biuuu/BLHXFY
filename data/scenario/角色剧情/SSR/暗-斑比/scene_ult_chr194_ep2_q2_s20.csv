@@ -30,22 +30,22 @@ id,name,text,trans
 42,ベス,ぎゃうぎゃう！,嘎嘎！
 43,ラカム/拉卡姆,となると、だ……<br>ヴァンピィ達を襲った犯人は<br>ランベルト卿で間違いなさそうだな。,这么说……<br>兰贝尔卿就是<br>袭击你们的人了。
 44,ルリア/露莉亚,このまま進んで大丈夫でしょうか？<br>もし、像が急に動き出したら……,我们就这么前进吗？<br>如果，雕像突然动起来的话……
-45,ベス,ぎゃーう、ぎゃうぎゃっぎゃぎゃう、<br>ぎゅるー！,嘎ー，嘎嘎嘎嘎，<br>嘎ー！
+45,ベス,ぎゃーう、ぎゃうぎゃっぎゃぎゃう、<br>ぎゅるー！,嘎，嘎嘎嘎嘎，<br>嘎！
 46,ビィ/碧,えっと、動く時はどっかから<br>笛の音みたいなのが聞こえたって<br>言ってるぜ。,嗯，不是说<br>在它们动之前会听到<br>笛子一样的声音吗。
 47,ヴァンピィ/斑比,そういえば、襲われた時も<br>変な音がしてたよーな……,说起来，被袭击的时候，<br>好像也听到了奇怪的声音……
 48,ラカム/拉卡姆,笛の音か……<br>ひとまず何が起きてもいいように<br>剣は構えとけ、姬塔。,笛声……<br>有备无患<br>准备好，姬塔。
 54,,<span class='scene-font-katari'>立ち並ぶ像の前を</span><br><span class='scene-font-katari'>警戒しながら進む一行は、</span><br><span class='scene-font-katari'>やがて古びた大きな屋敷を見つける。</span>,<span class='scene-font-katari'>一边警戒着，</span><br><span class='scene-font-katari'>一行人一边前行，</span><br><span class='scene-font-katari'>终于他们看到了一座古老的房子。</span>
-55,ビィ/碧,ひゃー……<br>でっけぇ屋敷だなぁ……,哇ー……<br>这房子好大……
-56,ルリア/露莉亚,このどこかにヴァイトさんが……,斑特さん就在这里面的某个地方……
+55,ビィ/碧,ひゃー……<br>でっけぇ屋敷だなぁ……,哇……<br>这房子好大……
+56,ルリア/露莉亚,このどこかにヴァイトさんが……,斑特就在这里面的某个地方……
 57,,<span class='scene-font-katari'>静まり返った屋敷の門を潜ろうとした</span><br><span class='scene-font-katari'>姬塔の袖が、</span><br><span class='scene-font-katari'>不意に背後から引っ張られる。</span>,<span class='scene-font-katari'>姬塔正准备悄悄潜入的时候，</span><br><span class='scene-font-katari'>衣袖突然被拉住。</span>
 58,ヴァンピィ/斑比,待って、けんぞくぅ！,等一下，眷属！
 59,ヴァンピィ/斑比,お屋敷じゃなくて、<br>あっちのほうから<br>ヴァイトの気配がするの。,不在屋子里，<br>从那边能感受到<br>斑特的气息。
 60,,<span class='scene-font-katari'>ヴァンピィが指し示したのは、</span><br><span class='scene-font-katari'>屋敷の外れへと続く小道の先だった。</span>,<span class='scene-font-katari'>斑比指向的，</span><br><span class='scene-font-katari'>是屋外小路的前方。</span>
-61,ヴァンピィ/斑比,……うん、絶対いる。<br>ヴァンピィちゃんには分かるの。,……没错，就是那里。<br>斑比ちゃん能感觉到。
+61,ヴァンピィ/斑比,……うん、絶対いる。<br>ヴァンピィちゃんには分かるの。,……没错，就是那里。<br>斑比能感觉到。
 62,,<span class='scene-font-katari'>その言葉に頷きを返し、</span><br><span class='scene-font-katari'>姬塔はヴァンピィの示す</span><br><span class='scene-font-katari'>森の奥へと分け入っていく。</span>,<span class='scene-font-katari'>于是一行人，</span><br><span class='scene-font-katari'>朝着斑比所指的方向</span><br><span class='scene-font-katari'>往森林深处走去。</span>
 69,,<span class='scene-font-katari'>やがて辿り着いたのは、</span><br><span class='scene-font-katari'>屋敷の裏手にある離れ家だった。</span>,<span class='scene-font-katari'>在路的尽头，</span><br><span class='scene-font-katari'>是一座远离主屋的别栋。</span>
 70,ヴァンピィ/斑比,うー……<br>ここの下から感じるのに……,嗯……<br>明明感觉就在这下面……
-71,ルリア/露莉亚,うーん……<br>でも、階段も梯子も<br>見当たらないですね……,嗯ー……<br>但是，梯子也好台阶也好<br>都没有看到啊……
+71,ルリア/露莉亚,うーん……<br>でも、階段も梯子も<br>見当たらないですね……,嗯……<br>但是，梯子也好台阶也好<br>都没有看到啊……
 72,ビィ/碧,なぁ！<br>ここ、開くんじゃねぇか？,喂！<br>这里，好像能下去？
 73,,<span class='scene-font-katari'>暖炉の中を探していたビィが、</span><br><span class='scene-font-katari'>床に蓋のような物があるのを見つけ</span><br><span class='scene-font-katari'>声を上げた。</span>,<span class='scene-font-katari'>在暖炉中搜索的碧，</span><br><span class='scene-font-katari'>发现了一个暗门。</span>
 74,ラカム/拉卡姆,うし、ちょっとどいてろ。<br>そらよっと……！,好，你们躲开点。<br>诶嘿哟……！
@@ -57,10 +57,10 @@ id,name,text,trans
 90,ルリア/露莉亚,ふう……<br>あっちのほうに行ったみたいですね。,呼……<br>看来他们走了。
 91,ラカム/拉卡姆,えらく厳重な警備だな……<br>この先に何かあるってのは、<br>間違いなさそうだぜ。,真是戒备森严……<br>看来前面，<br>的确有什么东西。
 92,ビィ/碧,なぁ、ヴァンピィ。<br>ヴァイトの気配ってのは<br>どっちからしてるんだ？,哎，斑比。<br>斑特的气息<br>从那边传过来的？
-93,ヴァンピィ/斑比,んとねー……<br>こっちかな？,嗯ー……<br>是哪边呢？
+93,ヴァンピィ/斑比,んとねー……<br>こっちかな？,嗯……<br>是哪边呢？
 94,,<span class='scene-font-katari'>巡回する警備兵達の目を盗み、</span><br><span class='scene-font-katari'>気配を辿ってヴァイトを探す</span><br><span class='scene-font-katari'>姬塔達。</span>,<span class='scene-font-katari'>绕过卫兵的巡视，</span><br><span class='scene-font-katari'>循着气息走到头的</span><br><span class='scene-font-katari'>一行人。</span>
 99,魔物,────,────
-100,ルリア/露莉亚,きゃあっ！　魔物さん！？,呀啊！　魔物さん！？
+100,ルリア/露莉亚,きゃあっ！　魔物さん！？,呀啊！　魔物！？
 101,ヴァンピィ/斑比,でも、襲ってこないね？,但是，没有攻过来啊？
 102,ラカム/拉卡姆,……いや、コイツは剥製だ。,……不对，这是标本。
 103,ラカム/拉卡姆,つーか、ここにあんのは、<br>全部剥製かよ……,哇，这里的<br>全是标本吗……

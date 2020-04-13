@@ -1,4 +1,4 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-synopsis,,法で裁けない悪人達を改心させるべく日々活動している「心の怪盗団」の雨宮、竜司、杏、祐介、モルガナ。ある日一行は、大衆の認知が具現化した異世界である「メメントス」へ向かう。一行がメメントスを探索していると、壁に走る大きな亀裂からあふれる蒼い光に飲まれ、空にいくつもの島が浮かぶ異世界に移動してしまったのだった。,为使法律无法制裁的大人改心而日夜活跃着的「心之怪盗团」成员雨宫、龙司、杏、祐介、摩尔加纳。这一天，他们去往由大众认知具现化而出的「迷宫」中进行探索。
 6,,────ッ！,──────！
 7,,<span class='scene-font-katari'>雨宮蓮は、ふと目を覚まし</span><br><span class='scene-font-katari'>弾かれたように身を起こす。</span>,<span class='scene-font-katari'>雨宫莲忽然睁开眼睛，<br>整个身体坐起。</span>
@@ -10,7 +10,7 @@
 13,,わざわざ忠告してやったんだ！<br>せいぜい気をつけるがいい！,这可是特意给你的忠告！<br>给我们好好当心！
 14,,<span class='scene-font-katari'>妙な気配──</span><br><span class='scene-font-katari'>彼女達はそう告げるものの、</span><br><span class='scene-font-katari'>それ以上の説明は行わない。</span>,<span class='scene-font-katari'>微妙的气息——<br>她们仅仅只是这样宣告，<br>不再进行更一步的说明。</span>
 15,,<span class='scene-font-katari'>漠然と与えられた暗示を胸に、</span><br><span class='scene-font-katari'>意識はまた眠りの底へと</span><br><span class='scene-font-katari'>引きずり込まれていく──</span>,<span class='scene-font-katari'>一种说不清的感觉在胸中涌起，<br>意识却再次被拉扯，<br>陷入沉睡般的深渊中——</span>
-20,,<span class='scene-font-kokoro'>（…………</span><br><span class='scene-font-kokoro'>どういう意味なんだ……？）</span>,<span class='scene-font-kokoro'>（…………这是什么意思... ??）</span>
+20,,<span class='scene-font-kokoro'>（…………</span><br><span class='scene-font-kokoro'>どういう意味なんだ……？）</span>,<span class='scene-font-kokoro'>（…………这是什么意思… ??）</span>
 32,,<span class='scene-font-katari'>翌日。リーダーである雨宮の居候先、</span><br><span class='scene-font-katari'>純喫茶ルブランには、</span><br><span class='scene-font-spword'>「心の怪盗団」</span><span class='scene-font-katari'>の面々が集合していた。</span>,<span class='scene-font-katari'>第二天。队长雨宫的寄养家，<br>咖啡店卢布朗中，「心之怪盗団」<br>正在此集合。</span>
 38,,<span class='scene-font-katari'>心の怪盗団──</span><br><span class='scene-font-katari'>彼らが狙うのは、</span><br><span class='scene-font-katari'>芸術品でも金品でもない。</span>,<span class='scene-font-katari'>心之怪盗团——<br>他们看重的不是艺术品也不是金钱。</span>
 42,,<span class='scene-font-katari'>彼らは各々、理不尽な大人や社会に</span><br><span class='scene-font-katari'>虐げられた過去を持ち……</span>,<span class='scene-font-katari'>他们各自都有被蛮横的大人<br>与社会欺压的过去……</span>
@@ -75,3 +75,4 @@
 141,,貴方の周りで<br>何やら妙な気配が蠢いています。,你周围有一股微妙气息<br>正在蠢蠢欲动。
 144,,<span class='scene-font-kokoro'>（一体、何が……？）</span>,<span class='scene-font-kokoro'>（这到底，是什么……？）</span>
 info,,1,scene_evt180618_cp0_q1_s10
+,,,

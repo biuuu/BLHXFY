@@ -1,6 +1,6 @@
 id,name,text,trans
 0-chapter_name,,さくらと騎空団の団長さん,小樱和骑空团团长
-0-synopsis,,『水』捕獲に向け準備を進める中、さくらはビィをどこかで見たことがあると呟く。カタリナがそれはビィとケロちゃんが似ているからだと言うと、二人は互いに似ていないと憤慨する。ケロちゃんは、さくらに『替』でビィとカタリナの体を入れ替えるよう促すが、さくらは勘違いしてビィとケロちゃんを入れ替えてしまう。二人は一日経たなければ元に戻れないと知り、落胆するのだった。,在捕获'水'的途中，小樱嘟囔说感觉在什么地方见过碧。卡特莉娜则说是因为碧和可鲁ちゃん相似的原因，而当事的二人则对此很是不满。于是可鲁催促着小樱，让她使用'替'将卡特莉娜的身体和碧互换，但是，小樱却错误地理解为，可鲁想和碧互换身体。当二人知道必须经过一天才能恢复原状的时候，很是失望。
+0-synopsis,,『水』捕獲に向け準備を進める中、さくらはビィをどこかで見たことがあると呟く。カタリナがそれはビィとケロちゃんが似ているからだと言うと、二人は互いに似ていないと憤慨する。ケロちゃんは、さくらに『替』でビィとカタリナの体を入れ替えるよう促すが、さくらは勘違いしてビィとケロちゃんを入れ替えてしまう。二人は一日経たなければ元に戻れないと知り、落胆するのだった。,在捕获'水'的途中，小樱嘟囔说感觉在什么地方见过碧。卡特莉娜则说是因为碧和可鲁相似的原因，而当事的二人则对此很是不满。于是可鲁催促着小樱，让她使用'替'将卡特莉娜的身体和碧互换，但是，小樱却错误地理解为，可鲁想和碧互换身体。当二人知道必须经过一天才能恢复原状的时候，很是失望。
 1,,<span class='scene-font-katari'>『水』捕獲に向け、</span><br><span class='scene-font-katari'>姬塔一行とさくら達は、</span><br><span class='scene-font-katari'>騎空艇で各々準備を進めていた。</span>,<span class='scene-font-katari'>为了捕获'水'，</span><br><span class='scene-font-katari'>姬塔一行和小樱她们，</span><br><span class='scene-font-katari'>在骑空团上各自做着准备。</span>
 2,さくら,…………,…………
 3,ビィ/碧,うん？<br>なんだよ、嬢ちゃん。<br>オイラのことじっと見てよ。,嗯？<br>怎么了，小姐。<br>一直盯着我看。
@@ -36,14 +36,14 @@ id,name,text,trans
 35,ケロちゃん,<span class='scene-font-2'>ビィとわいは違うってことを</span><br><span class='scene-font-2'>証明するいい機会やないか。</span>,<span class='scene-font-2'>这不是证明和碧不同的</span><br><span class='scene-font-2'>好机会吗。</span>
 36,ケロちゃん,<span class='scene-font-2'>あの姉ちゃんも身をもって</span><br><span class='scene-font-2'>しることになるで！</span>,<span class='scene-font-2'>那个姐姐也会</span><br><span class='scene-font-2'>彻底认识到这件事！</span>
 37,さくら,え！？　ビィちゃんを？,欸！？　碧？
-38,さくら,<span class='scene-font-2'>うーん。</span><br><span class='scene-font-2'>ケロちゃんがそういうなら……</span>,<span class='scene-font-2'>嗯ー。</span><br><span class='scene-font-2'>小可这么说的话……</span>
+38,さくら,<span class='scene-font-2'>うーん。</span><br><span class='scene-font-2'>ケロちゃんがそういうなら……</span>,<span class='scene-font-2'>嗯。</span><br><span class='scene-font-2'>小可这么说的话……</span>
 39,ビィ/碧,なんだぁ？,怎么了？
 45,さくら,それじゃあいくよ？,那么开始了哦？
 46,ルリア/露莉亚,わくわく……！,好期待啊……！
 47,さくら,彼の者たちの心を入れ替えよ！,替换他人的心灵！
 48,さくら,『替』！,'替'！
 54,ケロちゃん,ん？　なんでわいの体が……,嗯？　为什么我的身体……
-55,ケロちゃん,<span class='scene-font-4'>って、えー！？</span><br>ちゃう、ちゃうでさくら！！,<span class='scene-font-4'>欸ー！？</span><br>等，等一下小樱！！
+55,ケロちゃん,<span class='scene-font-4'>って、えー！？</span><br>ちゃう、ちゃうでさくら！！,<span class='scene-font-4'>欸！？</span><br>等，等一下小樱！！
 56,ビィ/碧,<span class='scene-font-4'>んなっ！？</span><br>なんだってんだよ！？,<span class='scene-font-4'>嗯！？</span><br>怎么回事啊！？
 61,ビィ/碧,おいおい嬢ちゃん！<br>オイラに何したんだよ！？,喂喂小姐！<br>你对我做了什么啊！？
 62,ルリア/露莉亚,はわ？,啊？
@@ -56,7 +56,7 @@ id,name,text,trans
 69,さくら,アホってなによ！<br>そんな言いかたないじゃない！<br>ケロちゃんのバカ！,干嘛骂我！<br>哪有这样说话的！<br>可鲁你这个笨蛋！
 70,ケロちゃん,バカとはなんや、バカとは！！,你又干嘛骂我笨蛋啊，笨蛋是什么啊！！
 71,ビィ/碧,オイラの体……<br>オイラのからだぁ～……！！,从我的身体……<br>从我的身体里～……！！
-72,ルリア/露莉亚,えっと……<br>ビィさんがケロちゃんさんに<br>なっちゃったんですか？,唔……<br>碧さん变成了<br>可鲁ちゃん吗？
+72,ルリア/露莉亚,えっと……<br>ビィさんがケロちゃんさんに<br>なっちゃったんですか？,唔……<br>碧变成了<br>可鲁吗？
 73,カタリナ/卡塔莉娜,そして、ケルベロス君が<br>ビィ君になっている……<br>これはいったい！？,然后，可鲁贝洛斯<br>变成了碧……<br>这到底！？
 74,ビィ/碧,うう……ルリア、姬塔、<br>今のオイラはお前らの目には<br>どう見える？,呜呜……露莉亚，姬塔<br>现在我在你们眼中<br>是怎么样的啊？
 75,ビィ/碧,今まで一緒に旅してきた<br>オイラじゃなくなっても、<br>ちゃんと仲間だと思ってくれるか！？,即使外表不是<br>和你们一起旅行至今的我，<br>我也还是你们的伙伴吧！？
@@ -66,12 +66,12 @@ id,name,text,trans
 79,カタリナ/卡塔莉娜,ああ。いつでもどんな姿になっても<br>ビィ君は愛らしいんだ。<br>自信を持ってくれ。,嗯。无论何时，无论变成什么样<br>碧都是惹人怜爱的。<br>你要有自信。
 80,ビィ/碧,<span class='scene-font-4'>んなっ！？</span>,<span class='scene-font-4'>嗯！？</span>
 81,ビィ/碧,オイラの感動を返してくれ！<br>くそう！,把我的感动还回来！<br>可恶！
-82,ルリア/露莉亚,だ、大丈夫ですよ、ビィさん！<br>ビィさんだってちゃんと思えます！<br>そんなに変わってないと思います！,别，别着急，碧さん！<br>你还是碧啊！<br>我认为你没有改变多少！
+82,ルリア/露莉亚,だ、大丈夫ですよ、ビィさん！<br>ビィさんだってちゃんと思えます！<br>そんなに変わってないと思います！,别，别着急，碧！<br>你还是碧啊！<br>我认为你没有改变多少！
 83,ビィ/碧,<span class='scene-font-4'>おい！</span><br>そんなに変わってないって<br>どういう意味だよ、ルリア！,<span class='scene-font-4'>喂！</span><br>没有改变多少<br>是什么意思啊，露莉亚！
 84,ルリア/露莉亚,あ、えと、<br>そういう意味じゃなくて……！,啊，唔，<br>我不是那种意思……！
-85,さくら,ごめんなさい、ビィちゃん……,抱歉，碧ちゃん……
+85,さくら,ごめんなさい、ビィちゃん……,抱歉，碧……
 86,さくら,でも、明日になれば『替』の魔力が<br>弱まって元に戻せるから、<br>心配しないで！,但是，到明天的话'替'的魔力就会减弱<br>让你变回去，<br>不要担心！
-87,ルリア/露莉亚,よかったですね！<br>ビィさん、元に戻れますよ！,太好了！<br>碧さん，能变回去了！
+87,ルリア/露莉亚,よかったですね！<br>ビィさん、元に戻れますよ！,太好了！<br>碧，能变回去了！
 88,ビィ/碧,ああ、そうだな……,嗯，是啊……
 89,ビィ/碧,ってことはやっぱり今日一日は<br>この姿のままってことか！？,也就是说今天一天，<br>都是这个样子吗！？
 90,さくら,あ、それはその……うん。,啊，那个的话……是的。
@@ -87,11 +87,11 @@ id,name,text,trans
 100,ルリア/露莉亚,そうかな？<br>そうだとうれしいな。,这样吗？<br>那就好。
 101,,<span class='scene-font-katari'>激怒するケロちゃんと落胆するビィは</span><br><span class='scene-font-katari'>次第に今日の己の運命を受け入れ始め、</span><br><span class='scene-font-katari'>嘆いても仕方がないと諦めるのだった。</span>,<span class='scene-font-katari'>即使叹息也无法改变现状，</span><br><span class='scene-font-katari'>愤怒的可鲁和失望的碧</span><br><span class='scene-font-katari'>逐渐接受了自己的命运。</span>
 107,,<span class='scene-font-katari'>少し落ち着きを取り戻した騎空艇。</span><br><span class='scene-font-katari'>その甲板では姬塔がひとり、</span><br><span class='scene-font-katari'>空を眺めていた。</span>,<span class='scene-font-katari'>骑空艇总算稍微冷静了下来。</span><br><span class='scene-font-katari'>在甲板上，</span><br><span class='scene-font-katari'>姬塔一个人眺望着天空。</span>
-110,さくら,姬塔さん。,姬塔さん。
+110,さくら,姬塔さん。,姬塔。
 111,さくら,あの……ちょっとお話ししても<br>いいですか？,请问……能稍微<br>占点时间吗？
 112,さくら,『水』の捕獲に<br>協力していただけることになって、<br>ありがとうございます！,你能协助我<br>一起捕获'水'，<br>非常感谢！
 113,知世,それに、森の中で妖精さんにおそわれた<br>ときも助けてくださいましたし……<br>ちゃんとお礼を言いたかったんです。,而且，在被森林中的妖精掳走的时候，<br>你救了我们……<br>对此我们也想好好道谢。
-114,さくら,しらない場所でケロちゃんと李君と<br>はぐれちゃって、知世ちゃんと２人で<br>どうしたらいいかわからなくて……,在未知的地方可鲁ちゃん和李<br>分开，和知世俩个人<br>都不知该如何是好……
+114,さくら,しらない場所でケロちゃんと李君と<br>はぐれちゃって、知世ちゃんと２人で<br>どうしたらいいかわからなくて……,在未知的地方可鲁和李<br>分开，和知世俩个人<br>都不知该如何是好……
 115,さくら,だから、<br>そんな時に姬塔さんに<br>会えてとってもうれしかったです。,所以，<br>在那个时候<br>遇到姬塔让我们很安心。
 116,さくら,『水』と『風』を見つけるまで、<br>姬塔さん達に、迷惑を<br>かけちゃうかもしれません。,在找到'水'和'风'之前<br>会在此叨扰<br>你们也说不定。
 117,さくら,でも、精一杯がんばります。<br>だから……<br>これからよろしくおねがいします……！,但是，我会很努力的。<br>所以……<br>从今以后，请多指教……！
@@ -103,6 +103,6 @@ id,name,text,trans
 121,さくら,ほえ……？,唔……？
 122,,<span class='scene-font-katari'>さくらを安心させるようにそう告げると</span><br><span class='scene-font-katari'>姬塔は微笑み</span><br><span class='scene-font-katari'>さくらの頭をポンポンと撫でた。</span>,<span class='scene-font-katari'>为了让小樱安心而说了这种话之后</span><br><span class='scene-font-katari'>姬塔微笑着</span><br><span class='scene-font-katari'>轻抚着小樱的头。</span>
 123,さくら,えと……ありがとうございます。,唔……谢谢你。
-124,,<span class='scene-font-katari'>優しさと明るさを持ち合わせた</span><br><span class='scene-font-katari'>礼儀正しい勇敢な少女</span><br><span class='scene-font-katari'>“カードキャプター”さくら。</span>,<span class='scene-font-katari'>温柔纯洁，</span><br><span class='scene-font-katari'>礼仪端正的勇敢的少女</span><br><span class='scene-font-katari'>“卡牌魔法使ー”小樱。</span>
+124,,<span class='scene-font-katari'>優しさと明るさを持ち合わせた</span><br><span class='scene-font-katari'>礼儀正しい勇敢な少女</span><br><span class='scene-font-katari'>“カードキャプター”さくら。</span>,<span class='scene-font-katari'>温柔纯洁，</span><br><span class='scene-font-katari'>礼仪端正的勇敢的少女</span><br><span class='scene-font-katari'>“卡牌魔法使”小樱。</span>
 125,,<span class='scene-font-katari'>小さな彼女の大きな悩みに協力すべく、</span><br><span class='scene-font-katari'>姬塔は</span><br><span class='scene-font-katari'>騎空艇の舵を切るのだった。</span>,<span class='scene-font-katari'>理应帮助正在烦恼的她，</span><br><span class='scene-font-katari'>这么想着，</span><br><span class='scene-font-katari'>姬塔调转了骑空艇的前进方向。</span>
 info,,麻友桑的话筒,scene_fate_chr413_ep1

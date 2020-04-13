@@ -1,4 +1,4 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-chapter_name,,第6話 きずな繋いで！光を信じて！,第6話 连接羁绊！相信光明！
 0-synopsis,,何度も再生するヒドラへ果敢に挑み続けていた姬塔だが、ついに重い一撃を食らってしまう。ブラック、ホワイトもザケンナーの力によって倒れる中、ビィはひとりピーサードへ決死の覚悟で挑みかかる。仲間を守るため、幾度となく叩きのめされビィがついに倒れた時、ビィのそばで何かが光を放ち、ビィを鼓舞する光の園のクイーンの声が響き渡るのだった。,姬塔不断地向不停再生的多头龙发起挑战、终于吃到了一击重击。黑天使、雪天使也被萨凯那所击倒、阿碧做好了一个人与皮萨德决一死战的觉悟。为了守护同伴、奋起多次阿碧却最终还是被击倒了、此时阿碧的身边有什么放出光芒、阿碧的耳边响起了光之园的女王的声音。
 2,,<span class='scene-font-4'>ザァァケェェンナー！</span>,<span class='scene-font-4'>萨----凯----那----！</span>
@@ -72,7 +72,7 @@
 115,,ぜぇ、はぁ……,哈、哈……
 116,,<span class='scene-font-katari'>吹き飛ばされた先で、</span><br><span class='scene-font-katari'>ついに力尽きた。</span>,<span class='scene-font-katari'>被击飞出去、</span><br><span class='scene-font-katari'>终于用光了力气。</span>
 117,,ビ、ィ……<br>しっかり……するポポ……,碧、i……<br>没事吧……波波……
-118,,チビスケ……<br>お前こそ怪我とかしてねえか……,小鬼头……<br>你才是...没受伤吧……
+118,,チビスケ……<br>お前こそ怪我とかしてねえか……,小鬼头……<br>你才是…没受伤吧……
 119,,大丈夫、ポポ……<br>ポルンは大丈夫ポポ……<br>だから……もうやめるポポ……,没关系、～波波……<br>保伦没关系的～波波……<br>所以……可以停下了～波波……
 120,,そうも、言ってられねえ<br>状況だからさ……,并不是、可以说放弃的啊<br>这个状况……
 121,,ビィ……痛そうポポ……<br>もうやめるポポ……！,阿碧……看起来很痛～波波……<br>已经够了～波波……！
@@ -88,7 +88,7 @@
 138,,ビィ、逃げるポポ……！,阿碧、快逃啊～波波……！
 139,,ああ、くそ……<br>そうしてえけどさ……,啊啊、可恶……<br>虽然是想那样做……
 145,,<span class='scene-font-kokoro'>（もう目が開かねえや……）</span>,<span class='scene-font-kokoro'>（已经没法睁开眼睛了……）</span>
-146,,<span class='scene-font-4'>食らえーーーーっ！</span>,<span class='scene-font-4'>接招ーーーーっ！</span>
+146,,<span class='scene-font-4'>食らえーーーーっ！</span>,<span class='scene-font-4'>接招っ！</span>
 147,,ビィに、酷いことしちゃダメポポ……！,不可以对阿碧、做这么过分的事情～波波……！
 148,,ビィを……<br><span class='scene-font-4'>ビィをいじめるなポポーっ！！</span>,不要……<br><span class='scene-font-4'>不要欺负阿碧～波波っ！！</span>
 154,,<span class='scene-font-katari'>ポルンの叫び声とともに、</span><br><span class='scene-font-katari'>ビィのそばで何かが光を放った。</span>,<span class='scene-font-katari'>伴随着保伦的吼声、</span><br><span class='scene-font-katari'>阿碧的身旁有什么放出了光芒。</span>
@@ -109,5 +109,6 @@
 195,,ビィ……さん……？,阿碧…………？
 196,,そんな……なんてこと……！,怎么……会这样……！
 197,,ビィ……,阿碧……
-198,,<span class='scene-font-4'>ビィーーーーっ！</span>,<span class='scene-font-4'>碧ーーーー！</span>
+198,,<span class='scene-font-4'>ビィーーーーっ！</span>,<span class='scene-font-4'>碧！</span>
 info,,1,scene_evt181014_cp6_q3_s10
+,,,

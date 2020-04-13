@@ -8,9 +8,9 @@ id,name,text,trans
 9,バザラガ/巴萨拉卡,ゼタ、いいか。<br>よく聞け。,泽塔，注意。<br>听好了。
 10,バザラガ/巴萨拉卡,武器を握った手から<br>神経を繋げ、武器と身体が<br>一体になるイメージをしろ。,把武器握在手里，<br>想象武器和神经连接，<br>与身体成为一体。
 11,バザラガ/巴萨拉卡,イメージできたら、<br>あとはこう口にしろ。,想象完毕了的话，<br>就嘴里念诵这个。
-12,バザラガ/巴萨拉卡,──ﾓﾗｼｲ:ｺｲﾁﾄｶ.,──ﾓﾗｼｲ:ｺｲﾁﾄｶ.(mode:beast.)
+12,バザラガ/巴萨拉卡,──ﾓﾗｼｲ:ｺｲﾁﾄｶ.,──ﾓﾗｼｲ:ｺｲﾁﾄｶ(mode:beast)
 13,ゼタ/泽塔,はぁ？　なんて！？,哈啊？你说啥？
-14,バザラガ/巴萨拉卡,“ﾓﾗｼｲ:ｺｲﾁﾄｶ.”だ。,说“ﾓﾗｼｲ:ｺｲﾁﾄｶ.”。
+14,バザラガ/巴萨拉卡,“ﾓﾗｼｲ:ｺｲﾁﾄｶ.”だ。,说“ﾓﾗｼｲ:ｺｲﾁﾄｶ”。
 15,ゼタ/泽塔,なにそれ、それ言わなきゃだめなの？,啥玩意啊，非得要说这个才行吗？
 16,イルザ/伊尔莎,何をしている、ボサボサするな！<br>鎧チキンと仔犬らしく<br>ここに来て怖気づいたか！？,你们在干什么，磨磨唧唧的！<br>像大铠鸡和小狗崽一样<br>事到如今开始缩卵了吗！？
 17,バザラガ/巴萨拉卡,……いくぞ！,……上吧！
@@ -21,7 +21,7 @@ id,name,text,trans
 25,ゼタ/泽塔,<span class='scene-font-4'>アルベスの槍よ！！</span>,<span class='scene-font-4'>阿尔贝斯之枪啊！！</span>
 26,バザラガ/巴萨拉卡,星の獣の血を啜り、<br>その魂を刃となせ！,啜饮星之兽的血，<br>以其魂魄铸汝刀刃！
 27,ゼタ/泽塔,我らが信条、<br>示し、貫くための牙となれ！,吾等信条，<br>将其揭示、化为贯通的利牙！
-28,バザラガ/巴萨拉卡,ﾓﾗｼｲ:ｺｲﾁﾄｶ.,ﾓﾗｼｲ:ｺｲﾁﾄｶ.(mode:beast.)
+28,バザラガ/巴萨拉卡,ﾓﾗｼｲ:ｺｲﾁﾄｶ.,ﾓﾗｼｲ:ｺｲﾁﾄｶ(mode:beast)
 29,,<span class='scene-font-katari'>バザラガの口から人の耳では</span><br><span class='scene-font-katari'>聞き取れない言葉が滑り出す。</span>,<span class='scene-font-katari'>巴萨拉卡的口中，</span><br><span class='scene-font-katari'>发出了人类的耳朵</span><br><span class='scene-font-katari'>无法捕捉的语言。</span>
 30,,<span class='scene-font-katari'>すると鎌が禍々しく変形し、</span><br><span class='scene-font-katari'>それに同調するかのように</span><br><span class='scene-font-katari'>バザラガの鎧も変形していく。</span>,<span class='scene-font-katari'>然后镰刀的外形开始</span><br><span class='scene-font-katari'>变得妖异，而像是与其同步一样，</span><br><span class='scene-font-katari'>巴萨拉卡的铠甲也随之变形。</span>
 41,バザラガ/巴萨拉卡,ぐっ……おぉ……！<br><span class='scene-font-4'>おおおおオオっ！！</span>,呜……哦哦……！<br><span class='scene-font-4'>喔哦哦哦哦哦哦！！</span>

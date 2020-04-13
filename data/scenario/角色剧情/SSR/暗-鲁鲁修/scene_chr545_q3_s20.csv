@@ -66,7 +66,7 @@ id,name,text,trans
 93,,<span class='scene-font-katari'>ルルーシュの口から語られた言葉に</span><br><span class='scene-font-katari'>驚きを隠せない一同。</span>,<span class='scene-font-katari'>一行人对鲁鲁修所说的</span><br><span class='scene-font-katari'>内容难掩惊异。</span>
 94,,<span class='scene-font-katari'>だが、その場にいる仲間達は皆、</span><br><span class='scene-font-katari'>成功することを確信した。</span>,<span class='scene-font-katari'>但是，在场的每一个人</span><br><span class='scene-font-katari'>都确信他们会成功。</span>
 99,,<span class='scene-font-katari'>準備を整えた姬塔一行は、</span><br><span class='scene-font-katari'>グルメイベントの店で混雑したエリアに</span><br><span class='scene-font-katari'>隣接した広場の前に集まった。</span>,<span class='scene-font-katari'>准备就绪的姬塔一行人，</span><br><span class='scene-font-katari'>在邻近美食节店铺拥挤之处的</span><br><span class='scene-font-katari'>广场前集合。</span>
-100,ビィ/碧,お、おい見ろ！<br>何だあれはー！,喂喂，快看！<br>那是什么ー！
+100,ビィ/碧,お、おい見ろ！<br>何だあれはー！,喂喂，快看！<br>那是什么！
 101,ジェレミア/杰雷米亚,おお！<br>皆の者、あちらを仰ぎ見よ！,噢噢！<br>众人，请前去一观吧！
 102,ルリア/露莉亚,何でしょうか！<br>私達も行ってみましょう！,究竟是什么！<br>我们也去看看吧！
 103,,<span class='scene-font-katari'>大声を上げて騒ぎ立てながら</span><br><span class='scene-font-katari'>空を指差すビィ達。</span>,<span class='scene-font-katari'>碧等人一边大声交谈引起注意，</span><br><span class='scene-font-katari'>一边指向空中。</span>
@@ -84,7 +84,7 @@ id,name,text,trans
 118,,<span class='scene-font-katari'>ガウェインとランスロットの</span><br><span class='scene-font-katari'>もの珍しさから、すぐに広場は</span><br><span class='scene-font-katari'>大勢の観客で埋め尽くされる。</span>,<span class='scene-font-katari'>由于高文和兰斯洛特</span><br><span class='scene-font-katari'>本就珍奇，广场上很快就被</span><br><span class='scene-font-katari'>大量观众挤了个水泄不通。</span>
 119,C.C.,良い頃合いだな。<br>カレン、出番だぞ。,正是好时机。<br>卡莲，轮到你了。
 120,カレン/卡莲,はいよ！　任せといて！,好嘞！　交给我！
-121,,<span class='scene-font-katari'>C.C.の合図に合わせて</span><br><span class='scene-font-katari'>巨大なピザ生地を抱えて</span><br><span class='scene-font-katari'>広場に登場する紅蓮弐式。</span>,<span class='scene-font-katari'>配合C.C.给出的信号，</span><br><span class='scene-font-katari'>红莲二式抱着巨大的披萨面饼</span><br><span class='scene-font-katari'>在广场上登场。</span>
+121,,<span class='scene-font-katari'>C.C.の合図に合わせて</span><br><span class='scene-font-katari'>巨大なピザ生地を抱えて</span><br><span class='scene-font-katari'>広場に登場する紅蓮弐式。</span>,<span class='scene-font-katari'>配合CC给出的信号，</span><br><span class='scene-font-katari'>红莲二式抱着巨大的披萨面饼</span><br><span class='scene-font-katari'>在广场上登场。</span>
 122,客２/客人２,お？　なんだなんだ！<br>今度は赤いのが出て来たぞ！,噢？　那是什么！<br>这次出来个红色的！
 123,カレン/卡莲,いくよ、スザク！<br>受け取れぇーっ！,要上了哦，朱雀！<br>给我接住——！
 124,,<span class='scene-font-katari'>スザクに向かって全力で</span><br><span class='scene-font-katari'>ピザ生地を投げるカレン。</span>,<span class='scene-font-katari'>卡莲朝着朱雀</span><br><span class='scene-font-katari'>用全力扔出披萨面饼。</span>
@@ -92,7 +92,7 @@ id,name,text,trans
 126,スザク/朱雀,よっ、と！,哟嚯！
 127,,<span class='scene-font-katari'>放物線を描いて宙を舞うピザ生地を</span><br><span class='scene-font-katari'>見事にキャッチする</span><br><span class='scene-font-katari'>ランスロット・エアキャヴァルリー</span>,<span class='scene-font-katari'>兰斯洛特·空战奇兵</span><br><span class='scene-font-katari'>完美地接住了</span><br><span class='scene-font-katari'>在空中画出了一个抛物线的披萨面饼</span>
 128,ナナリー/娜娜莉,ただいま登場しましたのは、<br>ピザのベースとなる生地です。<br>今度はこの巨大なピザ生地を……,现在登场的是<br>披萨底层的生面饼。<br>接下来我们要把这巨大的面饼……
-130,客１/客人１,<span class='scene-font-4'>うぉー！</span><br><span class='scene-font-4'>いいぞいいぞー！</span>,<span class='scene-font-4'>喔噢ー！</span><br><span class='scene-font-4'>好好ー！</span>
+130,客１/客人１,<span class='scene-font-4'>うぉー！</span><br><span class='scene-font-4'>いいぞいいぞー！</span>,<span class='scene-font-4'>喔噢！</span><br><span class='scene-font-4'>好好！</span>
 132,スザク/朱雀,ふっ……ほっ……はあっ！,呼……嚯……哈啊！
 133,ナナリー/娜娜莉,この白い巨人が、<br>器用に回転させて薄く伸ばし始めます！,这个白色的巨人<br>灵巧地转动面饼让它延展变薄！
 134,客１/客人１,ん……待て！　……ねこ？<br>あれは猫の顔の形か……！　,嗯……等等！　……猫？<br>那是猫脸的形状吗……！　
@@ -127,8 +127,8 @@ id,name,text,trans
 181,スザク・ルリア/朱雀・露莉亚,<span class='scene-font-4'>はぁぁぁぁぁーっ！</span>,<span class='scene-font-4'>哈啊啊啊啊啊——！</span>
 183,,<span class='scene-font-katari'>スザクがピザピールの上に</span><br><span class='scene-font-katari'>ねこ型ピザを乗せたタイミングで</span><br><span class='scene-font-katari'>ピザ窯に投入するルリア。</span>,<span class='scene-font-katari'>在朱雀将猫脸型披萨放上</span><br><span class='scene-font-katari'>披萨铲的同时</span><br><span class='scene-font-katari'>露莉亚将披萨放入窑中。</span>
 184,,<span class='scene-font-katari'>コロッサスの力を帯びた炎によって、</span><br><span class='scene-font-katari'>巨大なピザ窯も適温に仕上がっている。</span>,<span class='scene-font-katari'>在克罗萨斯火炎的力量下，</span><br><span class='scene-font-katari'>巨大的披萨窑上升到了适宜的温度。</span>
-186,客２/客人２,<span class='scene-font-4'>うぉー！</span><br>ド迫力のパフォーマンスだぁーーっ！,<span class='scene-font-4'>唔噢ー！</span><br>真是超有魄力的演出ーー！
-187,客１/客人１,<span class='scene-font-4'>こんな訳の分からんものは</span><br><span class='scene-font-4'>初めて見たぜぇーーっ！</span>,<span class='scene-font-4'>像这样让人摸不着头脑的表演</span><br><span class='scene-font-4'>我真是第一次见到ーー！</span>
+186,客２/客人２,<span class='scene-font-4'>うぉー！</span><br>ド迫力のパフォーマンスだぁーーっ！,<span class='scene-font-4'>唔噢！</span><br>真是超有魄力的演出！
+187,客１/客人１,<span class='scene-font-4'>こんな訳の分からんものは</span><br><span class='scene-font-4'>初めて見たぜぇーーっ！</span>,<span class='scene-font-4'>像这样让人摸不着头脑的表演</span><br><span class='scene-font-4'>我真是第一次见到！</span>
 188,,<span class='scene-font-katari'>大迫力のパフォーマンスを見て</span><br><span class='scene-font-katari'>観客から拍手喝采が起こったその時、</span><br><span class='scene-font-katari'>どこからか魔物の群れが広場に現れる。</span>,<span class='scene-font-katari'>在观众们见到魄力十足的演出</span><br><span class='scene-font-katari'>拍手喝彩之时，</span><br><span class='scene-font-katari'>不知从何而来的魔物群出现在了广场。</span>
 189,魔物の群れ/魔物群,グォオオオオ……！,咕哦哦哦哦……！
 190,怪しい男/可疑的男人,チッ……<br>何事かと思えばしぶとい奴らめ！,呿……<br>我还以为发生了什么事，原来是他们！

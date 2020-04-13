@@ -1,4 +1,4 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-chapter_name,,エンディング,尾声
 0-synopsis,,眩い閃光が収まったとき、マナウィダンの暴走は鎮まっており、倒れたサラの姿があった。悲しみに暮れる一行だったが、ボレミアがサラを抱き上げると、サラが目を覚ます。ルリアの力によって、マナウィダンとグラフォスの力は吸収され、サラは奇跡的に一命をとりとめた。こうして、サラは自由を手に入れたのだった。,当耀眼的闪光褪去时，是镇压玛娜维丹后倒在地上的莎拉的姿态。一行人处于悲伤之后，波雷米亚将莎拉抱起之后，莎拉睁开了双眼。因露莉亚的力量吸收了玛娜维丹与格拉佛斯之力，莎拉奇迹般地保住了性命。于是如此，莎拉得到了自由。
 1,,<span class='scene-font-katari'>それからどれくらいの時間が</span><br><span class='scene-font-katari'>経ったのだろう──</span>,<span class='scene-font-katari'>从那时起，不知过了多少时间。</span>
@@ -43,7 +43,7 @@
 46,,なっ、なんだと！<br>いったいどういうことだ！？<br>詳しく説明しろ！,什，什么！？<br>这到底是怎么回事！？<br>详细说明情况！
 47,,マナウィダンが完全に起きようとした時に<br>それを封印しようとして、サラちゃんが<br>力を解放したんですけど……だよね？,当玛娜维丹完全醒来的时候，<br>为了封印她，莎拉就解放了力量……<br>是这样吧？
 48,,はい……私は……確かにグラフォスの<br>力を解放しました……でも……まだ、<br>グラフォスはこうしてそばにいます。,是的……我当时……<br>确实解放了格拉佛斯的力量……但是……<br>格拉佛斯现在也还在我的身边。
-49,,うーん……,嗯ーー……
+49,,うーん……,嗯……
 50,,どうしたんですか？,怎么了呢？
 51,,<span class='scene-font-katari'>サラとグラフォスを見つめたまま、</span><br><span class='scene-font-katari'>しばらく考え込んでしまうルリア。</span>,<span class='scene-font-katari'>看着莎拉与格拉佛斯样子，</span><br><span class='scene-font-katari'>露莉亚暂时陷入了思考。</span>
 52,,<span class='scene-font-katari'>ようやく考えがまとまった様子の</span><br><span class='scene-font-katari'>ルリアは、おもむろに口を開いた。</span>,<span class='scene-font-katari'>最终将思绪整合起来之后，</span><br><span class='scene-font-katari'>露莉亚缓缓地开口。</span>
@@ -58,3 +58,4 @@
 65,,<span class='scene-font-katari'>こうして、サラ、ボレミア、ジンの三人は</span><br><span class='scene-font-katari'>気持ちを新たに砂の島を旅立った。</span>,<span class='scene-font-katari'>于是，莎拉，波雷米亚，仁三人，</span><br><span class='scene-font-katari'>在重整思绪后从沙之岛启程。</span>
 71,,<span class='scene-font-katari'>そんな彼らの前途を祝福するかのような</span><br><span class='scene-font-katari'>一面の青空が、目の前には雄大に</span><br><span class='scene-font-katari'>どこまでも広がっていたのだった。</span>,<span class='scene-font-katari'>如同祝福他们的前途一般，</span><br><span class='scene-font-katari'>眼前的蓝天雄伟地延伸之无垠之处。</span>
 info,,1,scene_evt140531_cp0_q2_s10
+,,,

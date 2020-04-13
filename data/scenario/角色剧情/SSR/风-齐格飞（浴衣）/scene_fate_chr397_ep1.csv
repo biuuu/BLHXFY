@@ -29,7 +29,7 @@ id,name,text,trans
 32,齐格飞,確かに……<br>丁度いいサイズを探すというのも<br>なかなか難しいんだな。,确实……<br>要找完全合身的尺寸也相当困难啊。
 33,露莉亚,あっ！　これなんかどうですか？<br>このワンちゃん柄のシャツ！,啊！那这种怎么样？<br>这个印着小狗花纹的衬衫！
 34,齐格飞,ワンちゃん……<br>犬は好きだぞ。,小狗……<br>我很喜欢狗哦。
-35,露莉亚,んー……<br>やっぱりジークフリートさんには、<br>ちょっとかわいらしすぎますかね？,嗯ー……<br>果然这个对于齐格飞先生来说，<br>还是有点太可爱了吧？
+35,露莉亚,んー……<br>やっぱりジークフリートさんには、<br>ちょっとかわいらしすぎますかね？,嗯……<br>果然这个对于齐格飞先生来说，<br>还是有点太可爱了吧？
 36,齐格飞,……そういうものか。<br>奥深いんだな。,……是这样啊。<br>真是深奥呢。
 37,,<span class='scene-font-katari'>それぞれがジークフリートに</span><br><span class='scene-font-katari'>似合いそうな衣装を探しているが、</span><br><span class='scene-font-katari'>相応しい一着が見つからずに難航する。</span>,<span class='scene-font-katari'>虽然大家都在寻找可能适合</span><br><span class='scene-font-katari'>但是真正合适的一件都没有找到，</span><br><span class='scene-font-katari'>陷入僵局。</span>
 42,,<span class='scene-font-katari'>姬塔とビィ、ルリアは</span><br><span class='scene-font-katari'>それぞれ衣装選びに熱中しているうちに</span><br><span class='scene-font-katari'>半刻が経っていた。</span>,<span class='scene-font-katari'>姬塔和碧，露莉亚，</span><br><span class='scene-font-katari'>因为太过专注于挑选衣服</span><br><span class='scene-font-katari'>没注意到已经过去了半个小时。</span>
@@ -114,3 +114,4 @@ id,name,text,trans
 160,,<span class='scene-font-katari'>その時、ジークフリートと</span><br><span class='scene-font-katari'>姬塔達の間を</span><br><span class='scene-font-katari'>そっと風が流れて行く。</span>,<span class='scene-font-katari'>那时，在齐格飞与姬塔他们之间</span><br><span class='scene-font-katari'>阵阵微风静静吹过，流动。</span>
 161,,<span class='scene-font-katari'>頬を撫でる涼やかな風は、</span><br><span class='scene-font-katari'>夏の夕暮れ時の訪れを</span><br><span class='scene-font-katari'>静かに感じさせるのだった。</span>,<span class='scene-font-katari'>那轻抚着脸颊的凉爽微风，</span><br><span class='scene-font-katari'>让人沉浸在</span><br><span class='scene-font-katari'>夏日夕阳来时的静谧之中。</span>
 info,,,scene_fate_chr397_ep1
+,,,
