@@ -22,6 +22,8 @@
 - iOS: Alook
 - Android: Via/Kiwi/米侠/荟萃
 
+iOS注入脚本的另外一种方案：https://github.com/biuuu/BLHXFY/issues/322
+
 注：版本较旧的浏览器可能有兼容性问题，需要删除已安装的脚本，然后安装兼容版：https://blhx.danmu9.com/blhxfy/extension.es5.user.js
 
 另外可能部分地区的网络访问存放翻译数据的域名 blhx.danmu9.com 比较困难，会导致无限 Loading。解决办法是将 blhx.danmu9.com 这个域名也添加到你的代理列表（如果你有的话）。
