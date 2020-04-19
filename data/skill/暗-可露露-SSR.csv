@@ -1,0 +1,9 @@
+id,name,detail
+npc,可露露,3040222000
+special,碎石一击,<div class=prt-text-small>暗属性伤害(特大)<br><span class=text-blue>◆对处于黑暗状态的敌人增加奥义伤害及上限</span></div>
+skill-1,硬邦邦邦硬！,<div class=prt-text-small>自身获得援护(吸收全队收到的伤害)/格挡(减少50%伤害)
+skill-2,切斯特,<div class=prt-text-small>6次暗属性攻击/敌方防御力DOWN(累计)/黑暗(3回合)
+skill-3,我还活着呐,<div class=prt-text-small>奥义即刻发动/其它技能即刻使用<br><span class=text-blue>◆使用30%奥义值</span></div>
+support-1,宿命之枪,成功攻击目标增加一层独有效果宿命之枪<br><span class=text-blue>◆根据宿命之枪层数伤害UP</span>
+support-2,为了活下去,HP越少，强化攻击力和防御力/回合结束时处于濒死状态则发动一次切斯特/战斗开始时获得即死回避(1次/剩余HP1点)
+support-special,LB,防御力UP/敌对心UP
