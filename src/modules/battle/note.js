@@ -58,7 +58,7 @@ const transNote = (item, key) => {
             if (reArr[2][i] === 'name' && bossNameMap.has(arr[i])) {
               trans = trans.replace(`$${i}`, bossNameMap.get(arr[i]))
             } else {
-              trans = trans.replace(`$${i}`, arr[i])
+              trans = trans.replace(`$${i}`, arr[i] || '')
             }
           }
           trans = trans.replace('姬塔', CONFIG.displayName || CONFIG.userName)
