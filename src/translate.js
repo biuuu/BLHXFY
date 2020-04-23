@@ -20,8 +20,9 @@ import transArcarum from './modules/arcarum'
 import pageIndex, { replaceHour, replaceHourU } from './modules/page-index'
 import { showVoiceSubL } from './modules/voice-sub'
 import { getUserName, setUserName } from './store/name-user'
-import { chapterList, episodeList, npcChapterList, arcarumSceneName } from './modules/scenario/story-title'
+import { chapterList, episodeList, npcChapterList, arcarumSceneName } from './modules/story/story-title'
 import battleNote from './modules/battle/note'
+import storyNavi from './modules/story/story-navi'
 
 const apiHosts = ['game.granbluefantasy.jp', 'gbf.game.mbga.jp']
 
@@ -93,7 +94,8 @@ const requestList = [
   [/\/story_episode_list\/\d+(_\d+)?\/\d+(_\d+)?$/, episodeList],
   ['/archive/npc_detail', npcChapterList],
   [/^\/arcarum\/content\/summon_enhancement_detail\/\d+(_\d+)?$/, arcarumSceneName],
-  ['/rest_shop_exchange_treasure/article_labels/', shopLabel]
+  ['/rest_shop_exchange_treasure/article_labels/', shopLabel],
+  [/\/content\/navi/, storyNavi]
 ]
 
 export default async function translate(state) {
