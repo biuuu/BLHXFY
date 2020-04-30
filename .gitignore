@@ -3,9 +3,5 @@ node_modules/
 local/
 data/static/local/
 dist/
-userData/
-test-script.js
-config.local.json
-electron-builder.local.json
-yarn-error.log
-npm-debug.log
+script/
+.github/
