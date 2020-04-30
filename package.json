@@ -6,9 +6,10 @@
   "scripts": {
     "build": "node ./script/build.js",
     "data": "node ./script/data.js",
-    "deploy": "yarn build && yarn data && cross-env CUSTOM_DOMAIN=true node ./script/deploy.js",
+    "deploy": "yarn build && yarn data && node ./script/deploy.js",
     "deployc": "node ./script/index.js",
     "travis_deploy": "cross-env TRAVIS=true yarn deploy",
+    "deploy_action": "cross-env CUSTOM_DOMAIN=true GITHUB_ACTION=true yarn deploy",
     "server": "node ./script/server.js",
     "dev": "cross-env DEV=true LOCAL_HOST=true yarn build && yarn data && yarn server"
   },

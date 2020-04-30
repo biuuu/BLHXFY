@@ -8,8 +8,7 @@ const start = async () => {
   await fse.outputFile('./dist/blhxfy/game-config.js', `document.write('<script src="' + Game.jsUri + '/config.js?lyria"></script>')
 document.write('<script src="https://cdn.jsdelivr.net/gh/biuuu/BLHXFY@gh-pages/blhxfy/extension.ios.user.js?t=' + Math.floor(Date.now()/21600000) + '"></script>')`)
 
-  if (process.env.TRAVIS) {
-    console.log('travis')
+  if (process.env.TRAVIS || process.env.GITHUB_ACTION) {
     return
   }
   console.log('start publish...')

@@ -1,6 +1,9 @@
 # 碧蓝幻想翻译
-[![Build Status](https://travis-ci.org/biuuu/BLHXFY.svg?branch=master)](https://travis-ci.org/biuuu/BLHXFY)
+[![Build Status](https://github.com/biuuu/BLHXFY/workflows/Build/badge.svg?branch=master)](https://github.com/biuuu/BLHXFY/actions?query=workflow%3ABuild)
 <a href="http://game.granbluefantasy.jp/#quest/index"><img alt="Port Breeze" src="https://img.shields.io/badge/Port-Breeze-green.svg"></a>
+
+[☁检查更新](https://blhx.danmu9.com/blhxfy/extension.user.js)
+
 ## 前言
 插件的原理是通过在游戏的网页中注入 javascript 脚本，修改网络请求中返回的文本，以及添加部分 CSS（样式），来实现汉化。
 
@@ -11,9 +14,8 @@
 ## 简介
 安装插件：[说明](https://github.com/biuuu/BLHXFY/blob/master/src/README.md)
 
-提交翻译：[说明](https://github.com/BLHXFY-Group/BLHXFY/tree/master/data)
+提交翻译：[说明](https://github.com/BLHXFY-Group/BLHXFY)
 
-[☁检查更新](https://blhx.danmu9.com/blhxfy/extension.user.js)
 ## Devlopment
 
 ```bash
