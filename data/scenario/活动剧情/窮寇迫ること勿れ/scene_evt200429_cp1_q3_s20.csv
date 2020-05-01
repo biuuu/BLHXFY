@@ -1,0 +1,94 @@
+id,name,text,trans
+0-chapter_name,,第1話 窮鳥入懐,第1話 窮鳥入懐
+0-synopsis,,最終目標を重要拠点・ザハ市奪還と定め、エルデニ兵達と共にアヨール山脈に展開する前線に赴いたアルタイルは、前線を守る軍師シュラと合流する。かつての上司であるアルタイルとの思いがけぬ再会に驚愕するシュラ。アルタイルはシュラに状況を聞くと、すぐに作戦を指示。森の中に潜むユラントスク軍の兵を誘き寄せると、待機していたエルデニ兵達と共に戦闘を仕掛けるのだった。,将最终目标定为夺回核心据点扎哈市，阿尔泰尔与埃尔德尼士兵一起前往阿约尔山脉内，与正在前线的军师雪拉会合。雪拉对与过去的上官阿尔泰尔的意想不到的会面感到惊讶。阿尔泰尔向雪拉询问情况后立即下达作战指示。他们把尤兰托斯克士兵引到树林里，然后和等在那里的埃尔德尼士兵一起协同作战。
+2,,<span class='scene-font-katari'>半刻後。砦の前には</span><br><span class='scene-font-katari'>ポラリスによって集められた</span><br><span class='scene-font-katari'>エルデニ兵達が待機していた。</span>,<span class='scene-font-katari'>半小时后。</span><br><span class='scene-font-katari'>堡垒前面等待着</span><br><span class='scene-font-katari'>由珀拉莉丝召集的埃尔德尼士兵们。</span>
+3,,<span class='scene-font-katari'>彼らを前にし、</span><br><span class='scene-font-katari'>堂々たる様子でアルタイルは告げる。</span>,<span class='scene-font-katari'>阿尔泰尔在他们面前，</span><br><span class='scene-font-katari'>表情严肃地宣布。</span>
+4,アルタイル/阿尔泰尔,ザウラ将軍を介しレオニス王より<br>軍師として力を貸すよう依頼を受けた<br>アルタイルです。,受到雷欧尼斯国王的委托，<br>扎乌拉将军带我前来这里，<br>希望我——阿尔泰尔作为军师协力。
+5,アルタイル/阿尔泰尔,作戦実行のため、<br>これよりあなた達には<br>私の指揮下に入ってもらいます。,为了执行作战计划，<br>从现在开始，<br>你们将听从我的指挥。
+6,アルタイル/阿尔泰尔,最終目標はザハ市の奪還……<br>まずはこのアヨール山脈から、<br>ユラントスクの兵を一掃しましょう。,最终目标是夺回扎哈市……<br>首先我们要从阿约尔山脉开始，<br>清除尤兰托斯克的士兵。
+7,エルデニ兵３,ポラリス様は正気なのか？<br>突然どこの馬の骨ともわからん奴に<br>指揮を執らせるなんて……,珀拉莉丝大人疯了吗？<br>突然让一个不知道是谁的<br>混蛋来指挥……
+8,エルデニ兵４,それが……奴は噂に聞く<br>「銀の軍師」らしいぞ。,那个……他好像是那个传闻中的<br>“银之军师”哦。
+9,エルデニ兵５,へぇ……<br>ならお手並み拝見といくか。<br>この戦況を覆せたら伝説になるぜ。,哦……？<br>那就让我看看他的本事吧。<br>这种战况都能逆转的话，足以载入史册了吧。
+10,エルデニ兵３,……できるワケがねぇ。,……这不太可能吧。
+11,,<span class='scene-font-katari'>兵士達の陰口を耳にし、</span><br><span class='scene-font-katari'>ポラリスは彼らの気を引き締めるように</span><br><span class='scene-font-katari'>強い口調で告げる。</span>,<span class='scene-font-katari'>听到士兵们的背后议论，</span><br><span class='scene-font-katari'>珀拉莉丝用强硬的语气，</span><br><span class='scene-font-katari'>让他们注意言辞。</span>
+12,ポラリス/珀拉莉丝,改めて言っておくわ。<br>アルタイル殿はレオニス陛下が<br>直々に救援を要請した正式な客将。,我再说一遍。<br>阿尔泰尔殿下是雷欧尼斯陛下<br>亲自请求救援的正式客将。
+13,ポラリス/珀拉莉丝,その彼を貶めるということは、<br>すなわち、陛下を侮辱するに等しい。<br>それを理解しているかしら。,贬低他就等于侮辱陛下。<br>我想你们应该明白。<br>
+14,,<span class='scene-font-katari'>ポラリスの言葉を聞き、</span><br><span class='scene-font-katari'>兵達は顔をさっと青くし押し黙る。</span>,<span class='scene-font-katari'>听到珀拉莉丝的话，</span><br><span class='scene-font-katari'>士兵们脸色变得苍白，沉默不语。</span>
+15,,<span class='scene-font-katari'>一方、アルタイルは</span><br><span class='scene-font-katari'>ポラリスとは対照的に、</span><br><span class='scene-font-katari'>兵達に理解を示す様子で口を開く。</span>,<span class='scene-font-katari'>另一方，</span><br><span class='scene-font-katari'>阿尔泰尔与珀拉莉丝形成了鲜明的对比，</span><br><span class='scene-font-katari'>他以向士兵们表示理解的姿态开口。</span>
+16,アルタイル/阿尔泰尔,この状況で部外者である私に<br>不信感を抱くのはもっともです。,在这种情况下，<br>对作为局外人的我抱有不信任感是很正常的。
+17,アルタイル/阿尔泰尔,かつて……ですが、<br>私は軍師を生業としていました。,虽然已经过去许久……<br>但我曾以军师为职。
+18,アルタイル/阿尔泰尔,そして軍師としての職務に<br>己の知恵と技を注ぎ、<br>それを生き甲斐とすらしていた。,我作为军师，<br>把自己的智慧和技巧尽倾战场，<br>把这当作生存的意义。
+19,アルタイル/阿尔泰尔,今、その在りし日の武勲を辿り<br>私の力を必要とする者がいる。,如今，有追寻我那曾经的功勋、<br>需要我的力量的人。
+24,アルタイル/阿尔泰尔,ならば、私はそれに応えましょう。<br>今再び軍師として、<br>過去の己に恥じないように。,于是，我给予了回应。<br>现在重新作为军师，<br>定不会让过去的自己蒙羞。
+25,,<span class='scene-font-katari'>自らがここに在る意味と意思を語り、</span><br><span class='scene-font-katari'>続けてアルタイルは</span><br><span class='scene-font-katari'>命運を共にする兵達へ覚悟を示す。</span>,<span class='scene-font-katari'>阿尔泰尔说出了</span><br><span class='scene-font-katari'>自己在这里的意义和理由，</span><br><span class='scene-font-katari'>接着，他向士兵表达共同出生入死的决心。</span>
+26,アルタイル/阿尔泰尔,無論、私も前線へ出ます。<br>そうなれば後は一蓮托生です。,当然，我也会上前线。<br>这样的话，我们无论生死都在一起，接受相同的命运。
+27,アルタイル/阿尔泰尔,あなた達が私に従わず、<br>策の遂行を怠ったなら、<br>私もこの戦場で散ることになります。,如果你们不听我的命令，<br>不执行我的计划，<br>我也会死在战场上。
+28,アルタイル/阿尔泰尔,しかし、私を認め従ってくれるのなら、<br>私はあなた達に勝利を授ける。<br>そして、必ず生還させる。,但如果你们认同我并服从我，<br>我将给予你们胜利。<br>并且会让大家活着回来。
+29,アルタイル/阿尔泰尔,約束しましょう。<br>「銀の軍師」の名にかけて。,我向各位保证，<br>以“银之军师”的名义。
+34,,<span class='scene-font-katari'>アルタイルの静かな言葉に、</span><br><span class='scene-font-katari'>兵達は顔を見合わせばつが悪そうに</span><br><span class='scene-font-katari'>視線を落とす。</span>,<span class='scene-font-katari'>听到阿尔泰尔的话，</span><br><span class='scene-font-katari'>士兵们面面相觑，垂下视线。</span>
+35,,<span class='scene-font-katari'>そこから動く兵はひとりも存在せず、</span><br><span class='scene-font-katari'>兵達の総意を見て取ったアルタイルは</span><br><span class='scene-font-katari'>ポラリスへと向き直る。</span>,<span class='scene-font-katari'>没有一个士兵离开，</span><br><span class='scene-font-katari'>在看到全体士兵的默许之后，</span><br><span class='scene-font-katari'>阿尔泰尔转向了珀拉莉丝。</span>
+36,アルタイル/阿尔泰尔,では、ポラリス殿。<br>兵をお借りします。,那么，珀拉莉丝大人，<br>我就借用您的兵力了。
+37,ポラリス/珀拉莉丝,ご武運を。<br>貴方の采配に期待しているわ。,武运昌隆，阿尔泰尔殿下，<br>期待您的指挥。
+38,,<span class='scene-font-katari'>こうして、アルタイルは</span><br><span class='scene-font-katari'>姬塔とエルデニ兵と共に</span><br><span class='scene-font-katari'>戦場へ向け歩みを進めるのだった。</span>,<span class='scene-font-katari'>就这样，</span><br><span class='scene-font-katari'>阿尔泰尔、姬塔等人跟随士兵们</span><br><span class='scene-font-katari'>一起前往了战场。</span>
+44,ルリア/露莉亚,あの、アルタイルさん。,那个，阿尔泰尔先生。
+45,,<span class='scene-font-katari'>エルデニ兵の先導で森を進む最中、</span><br><span class='scene-font-katari'>ずっと口を噤んだままだったルリアは</span><br><span class='scene-font-katari'>意を決しアルタイルへ声を掛ける。</span>,<span class='scene-font-katari'>在埃尔德尼士兵的带领下穿过树林，</span><br><span class='scene-font-katari'>露莉亚途中一直没有说话。</span><br><span class='scene-font-katari'>此时她终于下定决心，对阿尔泰尔说。</span>
+46,アルタイル/阿尔泰尔,どうしました？,怎么了吗？
+47,ルリア/露莉亚,ずっと考えてたんですけど……<br>星晶獣にも力を貸してもらうのは<br>どうでしょうか？,我一直在想……<br>让星晶兽也出点力怎么样？
+48,ルリア/露莉亚,皆さん暗い顔をしていて……<br>この戦いがどれだけ辛いものかは、<br>私にも分かります。,大家都一脸阴沉……<br>我也知道这场战争有多痛苦。
+49,ルリア/露莉亚,ユグドラシルの力を借りれば、<br>誰も傷つけずに敵を追い出すことも<br>出来るし、街の奪還だって……,借助尤格多拉希尔的力量，<br>可以在不伤害任何人的情况下<br>赶走敌人，夺回城市……
+50,,<span class='scene-font-katari'>ルリアの提案を受けたアルタイルは、</span><br><span class='scene-font-katari'>幼子を諭すように</span><br><span class='scene-font-katari'>ゆっくりと優しく首を振る。</span>,<span class='scene-font-katari'>听到露莉亚建议的阿尔泰尔</span><br><span class='scene-font-katari'>像是在教育幼子一样，</span><br><span class='scene-font-katari'>慢慢地温柔地摇头。</span>
+51,アルタイル/阿尔泰尔,星晶獣に頼るつもりはありません。,我不打算依靠星晶兽。
+52,ルリア/露莉亚,で、でも……,但，但是……
+53,アルタイル/阿尔泰尔,星晶獣の力は、<br>人間にとって神の力にも等しい物。<br>人の戦いにおいて、それは強大過ぎる。,对人类来说，<br>星晶兽的力量等同于神的力量。<br>在人类间的战斗中，它太强大了。
+54,アルタイル/阿尔泰尔,世界の存亡がかかっているような、<br>絶対的な悪との戦いであれば、<br>私は迷いなくあなたを頼ったでしょう。,如果这是一场与世界存亡息息相关的<br>正邪分明的战斗，<br>我会毫不犹豫地向你求助。
+55,アルタイル/阿尔泰尔,ですが、これは戦争です。<br>国同士、人同士の戦いなんです。<br>どちらが正義ということはありません。,但这是一场战争。<br>是国家之间，人与人之间的战争。<br>哪一方都不能说是完全正义。
+56,ルリア/露莉亚,でも……私、不安なんです。<br>本当に、この戦いに<br>勝てるのかって……,但是……我，我很不安。<br>真的，能赢得这场战争吗……
+57,ルリア/露莉亚,姬塔やアルタイルさんに<br>もしものことがあったらって、<br>怖くて……！,姬塔和阿尔泰尔可能会出事，<br>我一想到这个就很害怕……！
+58,,<span class='scene-font-katari'>不安な気持ちを吐露するルリアを</span><br><span class='scene-font-katari'>宥めるように、姬塔は</span><br><span class='scene-font-katari'>震える背中を撫でる。</span>,<span class='scene-font-katari'>她的背轻轻颤抖，</span><br><span class='scene-font-katari'>姬塔抚摸着露莉亚，</span><br><span class='scene-font-katari'>仿佛在安慰吐露不安的她。</span>
+59,,<span class='scene-font-katari'>その様子を見ていたアルタイルは</span><br><span class='scene-font-katari'>一度小さく息を吐きだした後、</span><br><span class='scene-font-katari'>ルリアと向き合い視線を合わせる。</span>,<span class='scene-font-katari'>看到这一情景的阿尔泰尔</span><br><span class='scene-font-katari'>先轻轻地吐了一口气，</span><br><span class='scene-font-katari'>然后直视着露莉亚。</span>
+60,アルタイル/阿尔泰尔,私の軍師らしい活躍を<br>お見せしたことは、<br>あまりなかったかもしれませんね。,也许是我从来没有表现地像军师一样吧。
+61,アルタイル/阿尔泰尔,銀の軍師の名は伊達ではありません。<br>星晶獣に頼るまでもなく、<br>私の策だけで勝利へ導いてみせます。,但“银之军师”这个名号不是闹着玩的，<br>不用依靠星晶兽，<br>我也会用我的策略引导他们走向胜利。
+62,,<span class='scene-font-katari'>自信に満ちたアルタイルの言葉を聞き、</span><br><span class='scene-font-katari'>ようやくルリアは大きく頷いて見せる。</span>,<span class='scene-font-katari'>听到充满自信的阿尔泰尔的话后，</span><br><span class='scene-font-katari'>露莉亚终于用力点了点头。</span>
+63,ルリア/露莉亚,分かりました。<br>でも、私にも何か<br>お手伝いをさせてください。,我知道了。<br>但是，让我也帮忙做点什么吧。
+64,ルリア/露莉亚,星晶獣の力は使えなくても……<br>私も、何か力になりたいんです。,即使不能使用星晶兽的力量……<br>我也想做些什么。
+65,アルタイル/阿尔泰尔,そうですね……<br>では、あなたには後方での支援を<br>お願いします。,这样啊……<br>那么，就拜托你在后勤支援了。
+66,アルタイル/阿尔泰尔,怪我人の救護や物資の補給……<br>兵達を支える重要な仕事です。,救护伤员和补给物资……<br>是支援士兵们的重要工作。
+67,ルリア/露莉亚,わかりました！<br>私、精一杯頑張りますね！,我知道了！<br>我会尽力的！
+68,アルタイル/阿尔泰尔,それと……<br>もし万が一、ユラントスクが<br>星晶獣を用いるようなことがあれば……,另外……<br>如果万一，<br>尤兰托斯克使用星晶兽的话……
+69,アルタイル/阿尔泰尔,その時には、力を貸して頂けますか。<br>反則には反則を以て対処するのが<br>一番ですから。,到时候你能帮我吗？<br>以其人之道还治其人之身，<br>这是最好的方法。
+75,,<span class='scene-font-katari'>山を進み続けること数十分。</span><br><span class='scene-font-katari'>姬塔達はシュラ率いる部隊が</span><br><span class='scene-font-katari'>展開している陣へ辿り着く。</span>,<span class='scene-font-katari'>在山上继续前进数十分钟。</span><br><span class='scene-font-katari'>姬塔他们来到雪拉率领的部队的营地。</span>
+76,シュラ/雪拉,──アルタイル様？,——阿尔泰尔大人？
+77,シュラ/雪拉,伝令にあった増援の客将が、<br>まさか貴方だったとは……,我早已听到传令，<br>但没想到其中说的增援客将竟然是您……
+78,アルタイル/阿尔泰尔,話は後です。相手の状況は？,我们晚点再聊吧，敌人状况如何？
+79,,<span class='scene-font-katari'>厳しく告げるアルタイルに、</span><br><span class='scene-font-katari'>シュラは慌てて姿勢を正し</span><br><span class='scene-font-katari'>現在の状況を共有する。</span>,<span class='scene-font-katari'>面对一脸严肃的阿尔泰尔，</span><br><span class='scene-font-katari'>雪拉赶忙站正，</span><br><span class='scene-font-katari'>说出了现在的状况。</span>
+80,シュラ/雪拉,はっ。<br>先程戻った斥候からの情報を<br>共有致します。,是！<br>向您传达刚才回来的<br>侦察兵的情报。
+85,シュラ/雪拉,二時の方角、約四キロ先から<br>こちらへ向かい敵小隊が進軍中。,两点钟方向，距离我们大约四公里，<br>有一个敌方小队正在前进。
+86,シュラ/雪拉,本隊は十時の方角に中隊がひとつと<br>小隊が３つほど待機中です。,在我们的十点钟方向<br>有一个中队、三个小队在等待。
+87,アルタイル/阿尔泰尔,二時の方角にいる小隊は<br>敵の斥候部隊ですね？,两点钟方向的敌方小队，<br>是侦察部队吗？
+91,シュラ/雪拉,はっ。<br>人員構成、部隊の規模から見て、<br>斥候部隊で間違いないかと。,是的。<br>从人员配置和部队规模来看，<br>应该是侦察部队。
+92,シュラ/雪拉,しかし、慣れぬ山道と霧のせいで、<br>斥候としての役目を<br>万全には果たせていない様子でした。,但是，由于陌生山路上的雾气，<br>他们似乎没能好好履行侦察兵的职责。
+93,アルタイル/阿尔泰尔,それは良い知らせです。<br>全て想定の通りですね。,这是个好消息。<br>一切都在预料之中。
+94,,<span class='scene-font-katari'>そう言って、アルタイルは</span><br><span class='scene-font-katari'>これから行う作戦について</span><br><span class='scene-font-katari'>手短にシュラに説明する。</span>,<span class='scene-font-katari'>这样说着，</span><br><span class='scene-font-katari'>阿尔泰尔简单地向雪拉说明了</span><br><span class='scene-font-katari'>接下来要采取的作战计划。</span>
+100,シュラ/雪拉,……なるほど。<br>つまり、私達は斥候部隊を<br>この地点に誘導すればいいのですね。,……原来如此。<br>也就是说，<br>我们只需要引导侦察兵来到这个地方。
+101,アルタイル/阿尔泰尔,ええ。時間がありません。<br>すぐにでも作戦を開始します。,是的。<br>就要没时间了，马上开始行动。
+107,,<span class='scene-font-katari'>シュラの部隊が展開する</span><br><span class='scene-font-katari'>エルデニの本営から、</span><br><span class='scene-font-katari'>わずかに離れた山道。</span>,<span class='scene-font-katari'>距离雪拉的部队所在的</span><br><span class='scene-font-katari'>埃尔德尼主营地</span><br><span class='scene-font-katari'>仅仅只有一小段山路。</span>
+108,,<span class='scene-font-katari'>そこでは、数十人のユラントスク兵が</span><br><span class='scene-font-katari'>周囲を警戒しながら軍を進めていた。</span>,<span class='scene-font-katari'>在那里，数十名尤兰托斯克士兵</span><br><span class='scene-font-katari'>警戒着周围前进着。</span>
+110,ユラントスク兵１,むっ！？　誰だ！,嗯？！是谁！
+111,エルデニ兵５,…………,…………
+112,ユラントスク兵２,ッ！！<br>敵襲！　敵襲！！<br>来たぞ！　エルデニの残党だ！,! ！<br>敌袭！敌袭！<br>埃尔德尼的余党来了！
+113,,<span class='scene-font-katari'>霧に紛れる数名のエルデニ兵を見つけ、</span><br><span class='scene-font-katari'>ユラントスクの兵士は大声で叫び</span><br><span class='scene-font-katari'>仲間達を呼び寄せる。</span>,<span class='scene-font-katari'>尤兰托斯克的士兵发现了一些埃尔德尼士兵，</span><br><span class='scene-font-katari'>他们在雾中大喊大叫，</span><br><span class='scene-font-katari'>呼唤着同伴。</span>
+115,シュラ/雪拉,<span class='scene-font-4'>全軍に通達！</span><br>以降は作戦通りに指定地点まで<br>撤退しなさい！,<span class='scene-font-4'>通知全军！</span><br>按作战计划撤退到指定地点！
+116,ユラントスク兵３,追え！　狩りつくせ！<br>ひとりも逃がすな！！,快追! 快追! <br>一个也别放过! ！
+123,,<span class='scene-font-katari'>エルデニ兵達は、</span><br><span class='scene-font-katari'>戦場の怒号に怯えることなく、</span><br><span class='scene-font-katari'>誘うように森の奥へと逃げていく。</span>,<span class='scene-font-katari'>埃尔德尼士兵们没有被敌军的怒号吓到，像是在引诱一般向森林深处跑去。</span>
+134,,<span class='scene-font-katari'>そうしてユラントスク兵が</span><br><span class='scene-font-katari'>辿り着いたのは</span><br><span class='scene-font-katari'>高い木に囲まれたやや開けた場所。</span>,<span class='scene-font-katari'>于是，尤兰托斯克士兵追逐着他们的猎物，</span><br><span class='scene-font-katari'>来到了一个并不开阔的地方，</span><br><span class='scene-font-katari'>这周围全是高大的树木。</span>
+135,,<span class='scene-font-katari'>しかし、そこにエルデニ兵の姿はなく、</span><br><span class='scene-font-katari'>追いかけていたはずの影は、</span><br><span class='scene-font-katari'>忽然と姿を消していた。</span>,<span class='scene-font-katari'>但是，那里并没有埃尔德尼人的踪影，</span><br><span class='scene-font-katari'>原本应该落荒而逃的士兵们突然消失了。</span>
+136,ユラントスク兵２,なっ……！？<br>奴らはどこへ消えた！？,什……！？<br>他们消失到哪里去了？
+138,アルタイル/阿尔泰尔,さて……<br>あなた達が作戦の最後の鍵です。<br>我々の勝利のための礎となりなさい。,好了……<br>现在你们是作战的最后关键。<br>成为我们胜利的垫脚石吧。
+139,ユラントスク兵３,<span class='scene-font-4'>何者だ！？</span>,<span class='scene-font-4'>什么人！？</span>
+140,アルタイル/阿尔泰尔,素直な反応で大変よろしい。<br>では、作戦通りに。,很好，相当坦率的反应。<br>那么，按照作战计划进行吧。
+141,,<span class='scene-font-katari'>アルタイルがそう告げると、</span><br><span class='scene-font-katari'>身を潜めていたエルデニ兵達が</span><br><span class='scene-font-katari'>一斉にユラントスク兵を取り囲む。</span>,<span class='scene-font-katari'>阿尔泰尔话音刚落，</span><br><span class='scene-font-katari'>藏身于一旁的埃尔德尼士兵们</span><br><span class='scene-font-katari'>一齐包围了尤兰托斯克士兵。</span>
+142,ユラントスク兵３,くっ……罠か！,咕……是陷阱吗！
+143,アルタイル/阿尔泰尔,<span class='scene-font-4'>全軍に通達！</span><br><span class='scene-font-4'>目標を沈黙させよ！</span>,<span class='scene-font-4'>通知全军！</span><br><span class='scene-font-4'>让这些人闭嘴吧！！</span>
+144,エルデニ兵達,<span class='scene-font-4'>おおおおおー！！</span>,<span class='scene-font-4'>哦哦哦哦哦！！</span>
+info,,,scene_evt200429_cp1_q3_s20
+译者,Lunatis@秋庭月,初稿完成于2020.5.1,

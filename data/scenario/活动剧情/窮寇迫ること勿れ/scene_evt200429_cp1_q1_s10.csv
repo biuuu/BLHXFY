@@ -1,0 +1,92 @@
+id,name,text,trans
+0-chapter_name,,第1話 窮鳥入懐,
+0-synopsis,,とある街の図書館にいたアルタイルの元に、エルデニ国の使者ザウラが訪ねてくる。銀の軍師の力を貸してほしいと言うザウラに、アルタイルは「騎空団の意向を無視し個人で動くことはできない」と告げ姬塔の元へ案内する。話を聞いた姬塔はザウラの依頼を受ける事に決め、一行はエルデニの最前線、アヨール基地へ向かうのだった。,某个街道的图书馆内，埃尔德尼国的使者扎乌拉前来拜访阿尔泰尔。对想要借助银之军师力量的扎乌拉，阿尔泰尔以“不能无视骑空团的意向，单独行动。”的理由，将他引见姬塔。听闻来意的姬塔决定接受扎乌拉的委托，一行人前往战争的最前线——阿约尔基地。
+10,,<span class='scene-font-katari'>戦乱の喧騒とはかけ離れた</span><br><span class='scene-font-katari'>閑静な街の図書館の片隅に、</span><br><span class='scene-font-katari'>黙々と本を読む青年の姿があった。</span>,<span class='scene-font-katari'>远离战乱的喧嚣、</span><br><span class='scene-font-katari'>在街边图书馆的一隅，</span><br><span class='scene-font-katari'>有一位青年正默默阅读。</span>
+11,,<span class='scene-font-katari'>そこへ、頁に影を作りながら、</span><br><span class='scene-font-katari'>硬い表情を浮かべたドラフの男が</span><br><span class='scene-font-katari'>青年に声をかける。</span>,<span class='scene-font-katari'>青年手中的书页覆上阴影</span><br><span class='scene-font-katari'>提示着来客的接近。</span><br><span class='scene-font-katari'>脸上露出僵硬的表情，</span><br><span class='scene-font-katari'>多拉夫族的男性访客朝青年搭话。</span>
+12,ドラフの男,失礼。ご無沙汰しております。<br>アルタイル殿。,抱歉，久疏问候了，<br>阿尔泰尔殿下。
+13,アルタイル/阿尔泰尔,あなたは確か、エルデニの将軍……<br>名は、ザウラでしたか。,您是……埃尔德尼的将军，<br>名字，好像是扎乌拉，对吗？
+14,ザウラ/扎乌拉,ええ。<br>本日は貴殿に<br>頼みがあって参りました。,正是。<br>今日来拜访您，是有要事相托。
+15,アルタイル/阿尔泰尔,王の側近であるあなたが<br>わざわざ国を離れ、私に頼みとは……<br>あまり良い予感はしませんね。,您作为国王的亲信，<br>特地离开国家来找我，<br>我有不妙的预感。
+16,ザウラ/扎乌拉,単刀直入に申し上げます。<br>我が国、エルデニを救うため<br>貴殿のお力を拝借したい。,请原谅我直接切入正题，<br>为了拯救我的国家，埃尔德尼，<br>我想借用您的力量。
+17,ザウラ/扎乌拉,貴殿もご存知のことと思いますが……<br>エルデニは隣国ユラントスクと、<br>数年前より戦争状態にあります。,您或许已经知道了，<br>埃尔德尼与邻国尤兰托斯克，<br>在数年前就已经爆发战争。
+18,ザウラ/扎乌拉,先日、ついに流通の最大拠点である<br>ザハ市が陥落……<br>我が国は窮地に陥りました。,就在前几天，我们国内的机要城市<br>扎哈市也落入敌手，<br>我的国家亦陷入困境。
+19,ザウラ/扎乌拉,そこでレオニス陛下の命を受け、<br>銀の軍師に力添え頂きたく、<br>こうして馳せ参じたのです。,因此我奉雷欧尼斯陛下之命，<br>期盼银之军师能助我等一臂之力。
+20,,<span class='scene-font-katari'>ザウラの訴える内容を聞きながらも、</span><br><span class='scene-font-katari'>アルタイルは表情を変えず、</span><br><span class='scene-font-katari'>きっぱりと己の意思を告げる。</span>,<span class='scene-font-katari'>即便是听到了扎乌拉的诉求，</span><br><span class='scene-font-katari'>阿尔泰尔表情依旧不变，</span><br><span class='scene-font-katari'>决然地传达了自己的想法。</span>
+21,アルタイル/阿尔泰尔,ご期待に沿えず申し訳ありませんが……<br>その依頼を受けることは出来かねます。,很抱歉不能回应您的期待……<br>我恐怕不能接受这份委托。
+22,アルタイル/阿尔泰尔,なぜなら、今の私は騎空団の一員。<br>団の意向を無視して、個人で活動……<br>ましてや戦争に加担するなど。,因为我现在是骑空团内的一员，<br>无法以个人身份行动，无视团内的意向。<br>更不用说是参加战争了。
+23,アルタイル/阿尔泰尔,それに、私は部外者です。<br>そんな者が急に出張っていっても<br>軍からは強い反発もあがりましょう。,况且，我是战争的局外人。<br>让这样的人紧急出动，<br>军队内部也会出现强烈的反抗。
+24,アルタイル/阿尔泰尔,そういうことですので、<br>どうぞお引き取りを。,综合上述原因，<br>您还是请回吧。
+25,,<span class='scene-font-katari'>話は終わりだと再び書物に視線を</span><br><span class='scene-font-katari'>落とそうとしたアルタイルに対し、</span><br><span class='scene-font-katari'>ザウラは動じることなく話を続ける。</span>,<span class='scene-font-katari'>说完这些之后，</span><br><span class='scene-font-katari'>阿尔泰尔再次将视线转向书本。</span><br><span class='scene-font-katari'>扎乌拉没有就此离开，而是继续劝说。</span>
+26,ザウラ/扎乌拉,貴殿は……<br>この空の成り立ち、<br><span class='scene-font-spword'>“創世神話”</span>に深く興味がおありとか。,我听说……<br>您对这片空域的基石——<br><span class='scene-font-spword'>“创世神话”</span>有着很深的兴趣。
+27,アルタイル/阿尔泰尔,よくご存知で。<br>しかし、それに今何の関係が？,您知道的倒是清楚，<br>但这与我们的话题有何关系？
+28,ザウラ/扎乌拉,貴殿もご存知の通り、<br>エルデニの国土からは創世神話に関する<br>遺物が数多く発掘されます。,正如您已经知道的那样，<br>埃尔德尼国内如今<br>已经挖掘出许多与创世神话相关的遗物。
+29,ザウラ/扎乌拉,この件についてはまだ、<br>内密にお願いしたいのですが……,我要说的这件事，<br>还想请您保密……
+30,ザウラ/扎乌拉,先日、我が国のとある町から、<br>創世神話にまつわる記述が残された<br>新たな石碑が発掘されました。,先前在我国某个城市内，<br>挖掘出了新的石碑，<br>上面有着关于创世神话的详细记述。
+31,アルタイル/阿尔泰尔,ほう……<br>それは喜ばしいことですね。,哦……<br>那是值得高兴的事情啊。
+32,ザウラ/扎乌拉,ですが、石碑を初めとする<br>多くの書物や資料を保管している町こそ<br>先の戦いで陥落したザハ市なのです。,但是，保管着包括石碑在内的<br>许多书籍和资料的城市<br>正是在先前的战斗中沦陷的扎哈市。
+33,ザウラ/扎乌拉,大国ユラントスクは常に革新を是とし、<br>歴史を尊ぶということをしません。,大国尤兰托斯克向来以革新为是，<br>不做尊重历史的事。
+34,ザウラ/扎乌拉,歴史の守護者たるエルデニが滅びれば、<br>ザハ市にあるものだけでなく、<br>多くの遺物が葬られることでしょう。,如果作为历史守护者的埃尔德尼灭国，<br>不仅是扎哈市内的遗物，<br>还有更多文物会被遗弃。
+35,ザウラ/扎乌拉,歴史を守り、次代へ伝えるためにも、<br>どうか……どうか、お力添えを<br>頂けませんでしょうか。,为了保护历史，将历史讲述给下一代，<br>请无论如何都帮帮我们吧。
+36,,<span class='scene-font-katari'>深々と頭を下げるザウラに対し、</span><br><span class='scene-font-katari'>アルタイルは今度こそ思案するように</span><br><span class='scene-font-katari'>口を噤む。</span>,<span class='scene-font-katari'>面对深深垂下头的扎乌拉，</span><br><span class='scene-font-katari'>阿尔泰尔这次陷入了沉思，</span><br><span class='scene-font-katari'>没有立即回复。</span>
+37,アルタイル/阿尔泰尔,…………,……
+39,ザウラ/扎乌拉,<span class='scene-font-kokoro'>（万が一の場合はこの話を出すと良いと</span><br><span class='scene-font-kokoro'>陛下は仰られていたが、</span><br><span class='scene-font-kokoro'>まさかこれ程の効果があるとは……）</span>,<span class='scene-font-kokoro'>（“万一有什么情况，</span><br><span class='scene-font-kokoro'>把这句话说出来就好了。”</span><br><span class='scene-font-kokoro'>虽然陛下是这么说的，没想到会有这么大的效果……）</span>
+40,,<span class='scene-font-katari'>しばらくの沈黙の後、</span><br><span class='scene-font-katari'>アルタイルは自らの決心を</span><br><span class='scene-font-katari'>ザウラに告げる。</span>,<span class='scene-font-katari'>短暂的沉默后，</span><br><span class='scene-font-katari'>阿尔泰尔将自己的想法告诉扎乌拉。</span>
+41,アルタイル/阿尔泰尔,申し訳ないですが……<br>やはりお受けする事はできません。,实在是抱歉……<br>果然我还是无法接受委托。
+42,ザウラ/扎乌拉,っ……残念です。<br>どうあっても<br>引き受けては頂けないのですね。,……很遗憾。<br>无论如何也不能接受吗。
+43,アルタイル/阿尔泰尔,先程も言った通り、<br>今の私は騎空団の一団員です。,正如先前所述，<br>现在的我是骑空团的一员。
+44,アルタイル/阿尔泰尔,ですから、協力を求めるのであれば<br>私個人ではなく、騎空団への依頼、<br>という形を取ってください。,所以，如果想要寻求帮助，<br>比起向我个人，更应该向骑空团提出委托。<br>烦请您以这样的形式进行吧。
+45,,<span class='scene-font-katari'>その言葉に、</span><br><span class='scene-font-katari'>ザウラは弾かれたように</span><br><span class='scene-font-katari'>顔を上げる。</span>,<span class='scene-font-katari'>听到这句话，</span><br><span class='scene-font-katari'>扎乌拉猛地抬起了头。</span><br><span class='scene-font-katari'></span>
+46,ザウラ/扎乌拉,それは、つまり……<br>ご協力頂けると……？,也就是说……<br>您可以帮……？
+47,アルタイル/阿尔泰尔,それを判断するのは私ではなく、<br>騎空団の団長です。,可以做出如此决定的并非我，<br>而是团长。
+48,アルタイル/阿尔泰尔,案内くらいはしましょう。<br>団長はこの時間なら、<br>港に停泊してある艇にいるはずです。,我带您见她吧，<br>团长这段时间，<br>应该都在空港内停泊的骑空艇内。
+54,,<span class='scene-font-katari'>アルタイルの案内を受け、</span><br><span class='scene-font-katari'>グランサイファーを訪れたザウラは、</span><br><span class='scene-font-katari'>姬塔に深々と頭を下げる。</span>,<span class='scene-font-katari'>在阿尔泰尔的带领下，</span><br><span class='scene-font-katari'>到访格兰赛法的扎乌拉，</span><br><span class='scene-font-katari'>朝姬塔深深低下了头。</span>
+55,ザウラ/扎乌拉,──率直に申し上げて、<br>エルデニはいつ攻め滅ぼされようと、<br>おかしくはない状況です。,──说实话，<br>埃尔德尼何时被攻陷，<br>我都不会感到奇怪。
+56,ザウラ/扎乌拉,この戦況を覆すためには、<br>貴殿ら騎空団、ひいては<br>アルタイル殿のお力が必要なのです。,想要改变这个战况，<br>我需要您的骑空团——<br>需要阿尔泰尔殿下的力量。
+57,ザウラ/扎乌拉,どうか、どうか……<br>騎空団として我々にご助力頂きたい。,所以拜托了……<br>请帮帮我们吧。
+58,ビィ/碧,って、いきなり言われてもな……,……你突然这么说……
+59,,<span class='scene-font-katari'>姬塔達はザウラの話を聞くも、</span><br><span class='scene-font-katari'>遠い異国の出来事に、</span><br><span class='scene-font-katari'>どうすべきか判断に迷ってしまう。</span>,<span class='scene-font-katari'>姬塔一行听了扎乌拉的陈述，</span><br><span class='scene-font-katari'>但是对于在遥远的异国他乡能做的事情，</span><br><span class='scene-font-katari'>还在犹豫应当作何判断。</span>
+60,アルタイル/阿尔泰尔,……姬塔殿。,……姬塔殿下。
+61,,<span class='scene-font-katari'>そこに口を挟んだのは、</span><br><span class='scene-font-katari'>隣でじっと話を聞いていた</span><br><span class='scene-font-katari'>アルタイルだった。</span>,<span class='scene-font-katari'>此时说话的，</span><br><span class='scene-font-katari'>是在旁边一直听着他们谈话的阿尔泰尔。</span>
+62,アルタイル/阿尔泰尔,戦争に加わるとなれば<br>多くの命を奪い、奪われる瞬間を<br>目の当たりにすることになる。,一旦加入战争，<br>就会夺去很多生命，<br>也会见证很多生命被夺走。
+63,アルタイル/阿尔泰尔,仮に、あなたがこれを断っても、<br>エルデニがあなたを責めることは<br>無いでしょう。,哪怕您在这里拒绝，<br>埃尔德尼国也并不会<br>责备您的决定。
+64,アルタイル/阿尔泰尔,それを踏まえたうえで、<br>私は、あなたに判断を委ねます。,基于此，<br>我将选择权交给您。
+65,,<span class='scene-font-katari'>そんなアルタイルに対し、</span><br><span class='scene-font-katari'>窮状を訴えるエルデニについて、</span><br><span class='scene-font-katari'>姬塔は尋ねる。</span>,<span class='scene-font-katari'>面对这样的阿尔泰尔，</span><br><span class='scene-font-katari'>姬塔询问了关于埃尔德尼国，</span><br><span class='scene-font-katari'>这个陷入了穷途末路的国家的事。</span>
+65-sel1_txt,,<span class='scene-font-katari'>知ってる国？<br></span>,<span class='scene-font-katari'>是熟识的国家？<br></span>
+65-sel2_txt,,<span class='scene-font-katari'>遺物がよく発掘される国？</span>,<span class='scene-font-katari'>是那个经常出土文物的国家？</span>
+66,アルタイル/阿尔泰尔,ええ、まぁ……<br>エルデニからは創世神話時代の遺物が<br>数多く発掘されるんです。,嗯，算是……<br>从埃尔德尼国内挖掘出了<br>数量相当多的关于创世神话时代的遗物。
+67,アルタイル/阿尔泰尔,それで遺物の閲覧のために、<br>何度も訪れてはいますが……,为了研究这些文物，<br>我曾多次造访。
+68,アルタイル/阿尔泰尔,そうですね。<br>やはりエルデニにおいて<br>特筆すべき点はそこでしょう。,是啊。<br>果然对于埃尔德尼来说，<br>最值得一提的点还是这个。
+69,アルタイル/阿尔泰尔,遺物の閲覧のために、<br>私も幾度となく足を運びました。,为了阅览遗物，<br>连我也去过多次，十分熟悉了。
+70,ビィ/碧,だったら受けようぜ、この依頼！,既然如此，就接受这个委托吧！
+71,ビィ/碧,そのエルデニって国が無くなったら、<br>アルタイル以外にも、<br>色んな奴が困りそうだし……,这个叫埃尔德尼的国家灭亡了的话，<br>不止是阿尔泰尔，<br>还有很多家伙也会觉得困扰吧……
+72,ルリア/露莉亚,ですね。<br>それに、知っている人が困ってるなら、<br>助けてあげなきゃです！,说的没错！<br>而且，认识的人遇到困难了，<br>肯定还是要帮忙的！
+73,,<span class='scene-font-katari'>ビィとルリアの言葉に、</span><br><span class='scene-font-katari'>姬塔もまた</span><br><span class='scene-font-katari'>肯定を示すように頷きを返す。</span>,<span class='scene-font-katari'>对于碧和露莉亚的话，</span><br><span class='scene-font-katari'>姬塔点头表示肯定。</span>
+74,アルタイル/阿尔泰尔,やれやれ……<br>流石は、我らが団長と<br>言うべきでしょうか……,哎呀呀……<br>该说“不愧是我们团长”这种话吗……<br>
+75,アルタイル/阿尔泰尔,しかし、<br>団長が依頼を受けると言うなら、<br>私に断る理由はありません。,不过，<br>既然团长说了接下委托，<br>那我也不会有拒绝的理由。
+76,,<span class='scene-font-katari'>その言葉を聞き、</span><br><span class='scene-font-katari'>ほっと安堵した様子で、</span><br><span class='scene-font-katari'>ザウラは改めて頭を下げる。</span>,<span class='scene-font-katari'>听到这里，</span><br><span class='scene-font-katari'>扎乌拉松了一口气，</span><br><span class='scene-font-katari'>再次低下头。
+77,ザウラ/扎乌拉,姬塔殿、アルタイル殿。<br>騎空団の皆様……<br>寛大なお心に感謝致します。,姬塔殿下，阿尔泰尔殿下，<br>骑空团的各位，<br>我谨向大家致以诚挚的谢意。
+78,アルタイル/阿尔泰尔,早速ですが詳しい戦況を。,那还请立刻告诉我详细的战况。
+79,アルタイル/阿尔泰尔,戦況が頭に入っていれば、<br>現地に向かいながらでも<br>策を立てることは出来ます。,当战况进入我的脑中，<br>哪怕我还不在战场中心，<br>也能给出些许对策。
+80,ザウラ/扎乌拉,ではまず、我が軍の現状から<br>お伝え致します。,那么首先，<br>我先说一下我军现状。
+92,,<span class='scene-font-katari'>数日前、首都に次ぐ国の重要拠点である</span><br><span class='scene-font-katari'>流通都市、ザハ市を占拠された</span><br><span class='scene-font-katari'>エルデニ軍。</span>,<span class='scene-font-katari'>几天前，国内仅次于首都的重要城市，</span><br><span class='scene-font-katari'>——物资流通的中心城市，</span><br><span class='scene-font-katari'>扎哈市被占领。</span>
+93,,<span class='scene-font-katari'>ザハ市での戦いで多くの犠牲を出し、</span><br><span class='scene-font-katari'>戦力が低下したところに</span><br><span class='scene-font-katari'>ユラントスク軍の追撃を受けていた。</span>,<span class='scene-font-katari'>埃尔德尼军队在扎哈市的战斗中伤亡惨重，</span><br><span class='scene-font-katari'>战斗力不足的情况下，</span><br><span class='scene-font-katari'>被尤兰托斯克的军队连续乘胜追击。</span>
+113,ザウラ/扎乌拉,度重なる追撃の果てに<br>前線は我が国における最後の砦、<br>アヨール山脈まで後退させられました。,数次的追击后，<br>战线最前端撤到了我国最后的天然堡垒，<br>阿约尔山脉。
+114,アルタイル/阿尔泰尔,アヨール山脈……<br>エルデニの首都を守る<br>自然の要塞と名高い山ですね。,阿约尔山脉……<br>是那个守护着埃尔德尼首都，<br>被称作自然要塞的名山啊。
+115,ザウラ/扎乌拉,はい。その頂上が、<br>現在エルデニ軍の<br>最前線基地となっています。,是的，现在它的山顶<br>已经是埃尔德尼军队的<br>最前线基地了。
+116,ザウラ/扎乌拉,それ以上の進軍を許せば、<br>最早首都を守る砦も戦力も無い。<br>つまり、エルデニは終わります。,如果再让敌军前进，<br>那么再不会有能够守卫首都的堡垒和战力了。<br>埃尔德尼也将不复存在。
+120,アルタイル/阿尔泰尔,流通拠点を抑えられたのは、<br>かなりの痛手ですね……<br>残る資源はどれほどですか？,贸易城市被占领，<br>这一点相当的不妙啊……<br>剩下的资源还有多少？
+121,ザウラ/扎乌拉,食料も薬品も、<br>民の数を考えればひと月半……<br>切り詰めてもふた月が限界でしょう。,食品和药物，<br>考虑到民众的数量，只能支撑一个半月，<br>如果省吃俭用 或许可以撑到两个月。
+122,ビィ/碧,おいおい……<br>なんか思ったより<br>大変な状況じゃねぇか……,喂喂……<br>怎么比想象的更糟，<br>是相当不好的状况啊……
+123,アルタイル/阿尔泰尔,兵站を制する者が戦場を制する。<br>やはり、優先すべきは<br>ザハ市の奪還ですね。,制兵站者制战场，<br>果然首要任务是夺回扎哈市。<br>
+124,アルタイル/阿尔泰尔,しかし現状、アヨール山脈からでは、<br>ザハ市まで距離があり過ぎます。,只不过现在的情况下，<br>从阿约尔山脉到扎哈市还是有一段距离。
+125,アルタイル/阿尔泰尔,ましてや<br>背後を取られるようなことがあれば、<br>今度こそ全滅は免れない。,更何况<br>如果一旦腹背受敌，<br>这次一定会全军覆没。
+126,アルタイル/阿尔泰尔,まずはアヨール山脈の砦から、<br>段階的に拠点を取り返し、<br>ザハ市までのルートを確保しましょう。,那么首先先从阿约尔山脉开始，<br>先阶段性地夺回据点，<br>确保通往扎哈市的路线吧。
+127,,<span class='scene-font-katari'>アルタイルの方針を聞いたビィは、</span><br><span class='scene-font-katari'>やや残念そうに口を開く。</span>,<span class='scene-font-katari'>听着阿尔泰尔的计策，</span><br><span class='scene-font-katari'>碧有些遗憾地开口。</span>
+128,ビィ/碧,なんか……<br>思ったより変わったことは<br>しねぇんだな。,咱怎么觉得……这些计策听起来<br>还是比较保守的。
+129,アルタイル/阿尔泰尔,ご期待に沿えず恐縮ですが……<br>奇抜な策を取るのは最後の手段です。,很抱歉没能满足您的期待……<br>那种奇策会是最后的手段。
+130,アルタイル/阿尔泰尔,戦争は賭博ではありません。<br>順当に定石を固めていくことが、<br>一番の勝利への近道なんですよ。,战争并非赌博，<br>稳稳当当地一步一脚印，<br>才是通向胜利的最近道路。
+131,ザウラ/扎乌拉,ではまず、<br>アヨール山脈の砦へご案内します。,那首先，<br>我先带各位去阿约尔山脉的基地吧。
+132,ザウラ/扎乌拉,首都側からの航路を取れば、<br>ユラントスク軍に邪魔されずに<br>砦に入れるでしょう。,从首都那侧航行的话，<br>就不会被尤兰托斯克的军队干扰，<br>顺利进入堡垒。
+133,,<span class='scene-font-katari'>こうして、ザウラの依頼を受けた</span><br><span class='scene-font-katari'>姬塔達はエルデニの最前線、</span><br><span class='scene-font-katari'>アヨール山脈に向かうのだった。</span>,<span class='scene-font-katari'>就这样，接受了扎乌拉的委托，</span><br><span class='scene-font-katari'>姬塔一行人前往战争的最前线，</span><br><span class='scene-font-katari'>阿约尔山脉。</span>
+info,,,scene_evt200429_cp1_q1_s10
+译者,Lunatis@秋庭月,初稿完成于2020.4.30,修改于2020.5.2
