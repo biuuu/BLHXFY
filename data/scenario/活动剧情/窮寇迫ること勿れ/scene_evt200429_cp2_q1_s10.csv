@@ -1,0 +1,77 @@
+id,name,text,trans
+0-chapter_name,,第2話 捲土重来,
+0-synopsis,,アヨール山脈からユラントスク軍を撤退させたエルデニ軍は、次なる策としてザハ市が位置するヌフ平原の玄関口、ウーデン大橋にある監視塔の制圧に向け動き出す。アルタイルは案山子を用いた誘導作戦でユラントスク軍の注意を引き、警備の薄くなった監視塔へ乗り込んだポラリスがユラントスク軍の司令官を討つことに成功。エルデニ軍は見事に勝利を収めるのだった。,尤兰托斯克军队从阿约尔山脉撤退之后，埃尔德尼军下一步的计划是控制乌登大桥，它是通向扎哈市所在的努夫平原的必经道路。阿尔泰尔利用稻草人的诱导作战吸引了尤兰托斯克主力军的注意，登上警备变薄的瞭望塔后，珀拉莉丝成功杀死了尤兰托斯克军的司令官。埃尔德尼的军队取得了胜利。
+2,,<span class='scene-font-katari'>アヨール山脈に潜む、</span><br><span class='scene-font-katari'>ユラントスク軍を撤退させた</span><br><span class='scene-font-katari'>エルデニ軍。</span>,<span class='scene-font-katari'>埃尔德尼军队在阿约尔山脉</span><br><span class='scene-font-katari'>逼退了尤兰托斯克军队。</span>
+5,,<span class='scene-font-katari'>アヨール山脈の麓には、</span><br><span class='scene-font-katari'>ヌフ平原への唯一の玄関口である</span><br><span class='scene-font-katari'>ウーデン大橋があった。</span>,<span class='scene-font-katari'>而阿约尔山脉的山脚下，</span><br><span class='scene-font-katari'>则是通往努夫平原的唯一入口</span><br><span class='scene-font-katari'>——乌登大桥。</span>
+11,,<span class='scene-font-katari'>ヌフ平原に位置するザハ市の奪還には、</span><br><span class='scene-font-katari'>このウーデン大橋の制圧が</span><br><span class='scene-font-katari'>不可欠であり……</span>,<span class='scene-font-katari'>为了夺回位于努夫平原的扎哈市，</span><br><span class='scene-font-katari'>必须控制乌登大桥……</span>
+14,,<span class='scene-font-katari'>山脈の麓、ウーデン大橋の入り口に建つ</span><br><span class='scene-font-katari'>軍事基地を兼ねた監視塔の攻略が、</span><br><span class='scene-font-katari'>エルデニ軍の次なる目標となっていた。</span>,<span class='scene-font-katari'>于是，埃尔德尼军的下一个目标是攻占</span><br><span class='scene-font-katari'>位于山脚下、乌登大桥入口处的</span><br><span class='scene-font-katari'>军事基地兼瞭望塔。</span>
+35,シュラ/雪拉,──それならば、<br>この山腹の高台が最適かと。,——如果是这样的话，<br>那这个山坡所处的高地最合适不过了。
+36,シュラ/雪拉,部隊の展開に十分な広さがあり、<br>監視塔を魔導部隊の射程範囲に<br>入れることが出来ます。,可供军队活动的区域非常大，<br>瞭望塔也在魔导部队的射程范围内。
+37,,<span class='scene-font-katari'>シュラとアルタイルは、</span><br><span class='scene-font-katari'>アヨール山脈内に敷かれた本営にて</span><br><span class='scene-font-katari'>策を練っていた。</span>,<span class='scene-font-katari'>雪拉和阿尔泰尔</span><br><span class='scene-font-katari'>正在阿约尔山脉内的大本营里制定对策。</span>
+38,,<span class='scene-font-katari'>しかし、次なる制圧目標の性質から、</span><br><span class='scene-font-katari'>シュラは頭を悩ませる。</span>,<span class='scene-font-katari'>但是，由于下一个目标的特殊性，</span><br><span class='scene-font-katari'>雪拉感到头痛不已。</span>
+39,シュラ/雪拉,ただやはり、監視塔からは、<br>こちらが丸見えになって<br>しまいますね……,从瞭望塔上，<br>同样也能把我们的行动看得一清二楚……
+43,シュラ/雪拉,そもそもウーデン大橋の監視塔は、<br>山脈と橋の両方を警戒できるよう<br>建てられたものですから。,乌登大桥的监视塔，<br>本就是为了兼顾多方、<br>同时警戒山脉和桥梁两端而建造的。
+44,アルタイル/阿尔泰尔,構いません。<br>ただし、すぐに撤退できるよう<br>予め道の準備を。,没关系的。<br>不过为了能马上撤退<br>请预先准备回撤的道路。
+45,アルタイル/阿尔泰尔,ああ、それと、<br>破損して使えなくなった装備を<br>すぐに集めてください。,哦，还有，<br>请马上收集一些损坏后无法使用的装备。
+46,アルタイル/阿尔泰尔,作戦の決行は夜……<br>それまで少しばかり、<br>工作の時間と参りましょうか。,作战在晚上进行……<br>看来还有一段时间，<br>我们在工作的时间再来吧。
+52,,<span class='scene-font-katari'>日が沈み、周囲が夜闇に包まれた頃、</span><br><span class='scene-font-katari'>エルデニ軍は動き始める。</span>,<span class='scene-font-katari'>当太阳落山，周围被夜色笼罩之时，</span><br><span class='scene-font-katari'>埃尔德尼军队开始了行动。</span>
+53,,<span class='scene-font-katari'>最初の動きは、</span><br><span class='scene-font-katari'>光華の如く鮮やかな</span><br><span class='scene-font-katari'>魔導部隊による攻撃だった。</span>,<span class='scene-font-katari'>行动开始的信号，</span><br><span class='scene-font-katari'>来自在黑夜里如光一般耀眼的</span><br><span class='scene-font-katari'>魔导部队的攻击。<span class='scene-font-katari'></span>
+62,ユラントスク兵/尤兰托斯克士兵,<span class='scene-font-4'>敵襲、敵襲ー！！</span><br>エルデニ軍の襲撃です！,<span class='scene-font-4'>敌袭，敌袭! ! </span><br>是埃尔德尼军队的袭击！
+63,ユラントスク兵/尤兰托斯克士兵,魔法による監視塔周囲への攻撃、<br>及び、本隊と思われる<br>エルデニの軍勢がこちらへ接近中！,魔法正在攻击瞭望塔周围，<br>埃尔德尼的主力部队正向我们逼近！
+64,ユラントスク軍中佐,おのれ……<br>魔導部隊で援護しつつ、<br>本隊でこちらを制圧する気か。,这些混蛋……<br>难道他们要一边用魔导部队掩护，<br>一边用主力压制我们吗。
+65,ユラントスク軍中佐,射程から見て、<br>エルデニの魔導部隊は、<br>アヨール山脈中腹にいるはずだ！,从射程来看，埃尔德尼的魔导部队应该在阿约尔山脉的半山腰！
+66,ユラントスク軍中佐,<span class='scene-font-4'>探せ！</span><br>奴らはどこから撃ってきている！,<span class='scene-font-4'>找到他们，</span>看看他们从哪里发射的魔法！
+68,ユラントスク兵/尤兰托斯克士兵,……いました！<br>アヨール山脈中腹に<br>多数の敵影発見！,……找到了！<br>在阿约尔山脉中部发现许多敌人！
+69,ユラントスク軍中佐,馬鹿な奴らだ……<br>こちらの魔導部隊で応戦してやれ！<br>残りは敵本隊への応戦だ！,这些笨蛋……<br>用我们的魔导部队应战他们的魔法吧！<br>剩下的就是对他们大部队的战斗了！
+70,ユラントスク軍中佐,魔導部隊の援護をあてにしている<br>エルデニの連中は、<br>大慌てになるだろうがな……,依靠魔导部队掩护的<br>埃尔德尼的那些傻瓜，<br>这下恐怕会惊慌失措了……
+74,エルデニ兵,報告します！<br>アヨール山脈中腹が<br>敵魔導部隊による攻撃を受けています！,报告长官！<br>阿约尔山脉的半山腰<br>正受到敌方魔导部队的攻击！
+75,エルデニ兵,ユラントスク軍は<br>魔導部隊の全戦力を投じたらしく、<br>凄まじい勢いです……,尤兰托斯克军投入了魔导部队的全部战力，<br>气势惊人……
+76,エルデニ兵,完全に、「銀の軍師」様の<br>読み通りですね！,这正如"银之军师"您<br>所预料的一样啊！
+77,アルタイル/阿尔泰尔,…………,…………
+88,,<span class='scene-font-katari'>ユラントスクの魔導部隊による</span><br><span class='scene-font-katari'>凄まじい攻撃を受ける</span><br><span class='scene-font-katari'>アヨール山脈中腹部。</span>,<span class='scene-font-katari'>阿约尔山脉的半山腰，</span><br><span class='scene-font-katari'>正受到尤兰托斯克魔导部队的猛烈攻击。</span>
+89,,<span class='scene-font-katari'>しかし、そこにエルデニ兵の姿は、</span><br><span class='scene-font-katari'>ひとつも存在していなかった。</span>,<span class='scene-font-katari'>但是，那里其实根本没有</span><br><span class='scene-font-katari'>埃尔德尼士兵的踪影。</span>
+93,,<span class='scene-font-katari'>エルデニの魔導部隊は、</span><br><span class='scene-font-katari'>第一撃を放った後、</span><br><span class='scene-font-katari'>すぐさま撤退しており……</span>,<span class='scene-font-katari'>埃尔德尼的魔导部队</span><br><span class='scene-font-katari'>在发出第一击后就已经撤退了……</span>
+100,,<span class='scene-font-katari'>監視塔から発見された兵士達は、</span><br><span class='scene-font-katari'>廃棄する装備で作られた</span><br><span class='scene-font-katari'>ただの案山子達だった。</span>,<span class='scene-font-katari'>敌军在瞭望塔里看到的</span><br><span class='scene-font-katari'>只是用废弃装备制造的稻草人而已。</span>
+101,,<span class='scene-font-katari'>また、アルタイルが夜襲を選んだのも、</span><br><span class='scene-font-katari'>監視塔からしっかりと姿を</span><br><span class='scene-font-katari'>確認させないためである。</span>,<span class='scene-font-katari'>夜色笼罩之下，难以辨认清楚。</span><br><span class='scene-font-katari'>这正是阿尔泰尔选择晚上的原因。</span>
+107,アルタイル/阿尔泰尔,あくまで敵の一部隊を<br>引き付けているだけです。<br>油断してはなりませんよ。,只是吸引住了敌人的一部分火力，<br>诸位不要掉以轻心。
+108,エルデニ兵,<span class='scene-font-4'>はっ！</span>,<span class='scene-font-4'>明白！</span>
+109,アルタイル/阿尔泰尔,<span class='scene-font-kokoro'>（これまで敗戦が続いていたせいか、</span><br><span class='scene-font-kokoro'>少々、浮足立っているようですね……）</span>,<span class='scene-font-kokoro'>（可能是因为此前一直战败的缘故，<br>士兵们好像有些浮躁……）</span>
+115,,<span class='scene-font-katari'>夜陰に乗じ進行するエルデニ軍は</span><br><span class='scene-font-katari'>監視塔の麓にて、</span><br><span class='scene-font-katari'>ついにユラントスク軍と衝突する。</span>,<span class='scene-font-katari'>在夜色的掩护下，<br>埃尔德尼的军队在瞭望塔下<br>与尤兰托斯克人发生了冲突。</span>
+117,,<span class='scene-font-katari'>魔導部隊を</span><br><span class='scene-font-katari'>山脈に引き付けたこともあり、</span><br><span class='scene-font-katari'>戦局はエルデニ軍優勢となっていた。</span>,<span class='scene-font-katari'>因为将魔导部队的火力吸引到了半山腰，<br>埃尔德尼军在战局中占了上风。</span>
+124,ユラントスク軍中佐,ちっ……<br>少々押されているな……,切……<br>好像落入下风了啊……
+126,ユラントスク兵/尤兰托斯克士兵,報告します！<br>アヨール山脈中腹の敵魔導部隊、<br>完全に沈黙！　壊滅した模様です！,报告长官！<br>阿约尔山腰的敌魔导部队已经完全沉默！<br>看起来已经全灭了！
+127,ユラントスク軍中佐,<span class='scene-font-4'>よぉし！</span><br>ならば魔導部隊も前線の援護に回れ！<br>ここから連中を山に押し返してやる！,<span class='scene-font-4'>很好！</span><br>魔导部队也返回前线掩护！<br>我要让他们无法靠近这里一步！
+131,アルタイル/阿尔泰尔,そろそろ頃合いですね……,差不多是时候了……
+132,アルタイル/阿尔泰尔,全軍に通達。<br>作戦を第２段階へ移行。<br>アヨール山脈へ撤退を開始します。,通知所有军队。<br>行动进入第二阶段，<br>朝阿约尔山脉撤退！
+133,エルデニ兵,<span class='scene-font-4'>はっ！</span>,<span class='scene-font-4'>是！</span>
+134,アルタイル/阿尔泰尔,<span class='scene-font-kokoro'>（相手が押すに合わせて引けば、</span><br><span class='scene-font-kokoro'>その撤退がこちらの策とは</span><br><span class='scene-font-kokoro'>まず気付かれない……）</span>,<span class='scene-font-kokoro'>（只要配合对方的攻击撤退，<br>那么这场后撤<br>就不会被认为是我方的策略……）</span>
+135,アルタイル/阿尔泰尔,<span class='scene-font-kokoro'>（そして勢いづいた軍は、</span><br><span class='scene-font-kokoro'>このまま相手を殲滅せしめんと、</span><br><span class='scene-font-kokoro'>後詰めよりも追撃を優先させる）</span>,<span class='scene-font-kokoro'>（而士气正高的军队，<br>比起束手束脚地原地防守，<br>更想抓住机会一击决胜。）</span>
+136,アルタイル/阿尔泰尔,<span class='scene-font-kokoro'>（そうすれば……）</span>,<span class='scene-font-kokoro'>（这样的话……）</span>
+152,ユラントスク兵/尤兰托斯克士兵,<span class='scene-font-4'>報告します！</span><br>エルデニ軍が撤退を始めました！,<span class='scene-font-4'>报告长官！</span><br>埃尔德尼军队开始撤退了！
+153,ユラントスク軍中佐,ふん、だろうな……<br>こちらの全戦力だ。<br>そうそう連中に引けはとらん。,哼，果然啊……<br>我方战力也已经全部集结，<br>该让他们看看我们的厉害了！
+154,ユラントスク兵/尤兰托斯克士兵,すでに警戒範囲を<br>出つつありますが……<br>如何いたしますか？,他们已经离开监视塔的警戒范围了……<br>该怎么办？
+155,ユラントスク軍中佐,<span class='scene-font-4'>全軍追撃だ！</span><br><span class='scene-font-4'>このまま全部隊で追い詰めろ！</span>,<span class='scene-font-4'>全军追击！<br>就像这样，全体部队追击！</span>
+156,ユラントスク軍中佐,この勢いで、アヨール山脈山頂の砦も<br>潰してしまえ！,就这样乘着胜利的东风，<br>直到攻下阿约尔山顶的堡垒吧！
+157,ユラントスク兵/尤兰托斯克士兵,<span class='scene-font-4'>はっ！</span>,<span class='scene-font-4'>是！</span>
+158,,<span class='scene-font-katari'>上官からの命を受け、</span><br><span class='scene-font-katari'>全軍に追撃指示を出すべく</span><br><span class='scene-font-katari'>兵士は駆けていく。</span>,<span class='scene-font-katari'>按照上官的追击指示，<br>士兵们长驱直入。</span>
+171,ユラントスク軍中佐,くっくっく……<br>アヨール山脈を制圧すれば、<br>首都までは後一歩……,哈哈哈……<br>只要控制住了阿约尔山脉，<br>那么距离首都仅有一步之遥了……
+172,ユラントスク軍中佐,首都を陥落させれば大手柄だ。<br>昇進は間違いない。<br>いよいよ将官の座が見えてきたな……,只要攻下首都，就大功告成了。<br>升官肯定是没问题的，<br>将官的宝座对我来说不也是手到擒来……？
+175,ユラントスク兵/尤兰托斯克士兵,<span class='scene-font-4'>た、大変です！</span><br>エルデニ軍の小隊が塔内部に侵入、<br>こちらに真っ直ぐ向かって──,<span class='scene-font-4'>不、不好了！</span><br>埃尔德尼的一只小队进入了监视塔内部，<br>向这边──
+179,,<span class='scene-font-katari'>必死の形相で報告していた兵士は、</span><br><span class='scene-font-katari'>突然強張った表情のまま崩れ落ちる。</span>,拼死报告的士兵<br>突然僵硬地倒下了。
+181,ポラリス/珀拉莉丝,貴方がこの監視塔の司令官ね。<br>その首、討ち取らせてもらうわ。,你是这座瞭望塔的指挥官吧？<br>你的项上人头，就由我收下了！
+182,ユラントスク軍中佐,<span class='scene-font-4'>な……！？</span><br>ば、馬鹿な……どういうことだ！？,<span class='scene-font-4'>什……！</span><br>不、不可能……这是怎么回事！？
+183,ユラントスク軍中佐,戦局はこちらの優勢だったはず……<br>こんな別動隊がいるなど……,战局明明应该是我方占优势的……<br>竟然还有这样的别动队……
+184,ポラリス/珀拉莉丝,貴方達の動きも含めて、<br>全てがこちらの手の内だった。<br>それだけよ。,包括你们的行动在内，<br>一切都在我方掌控之中。<br>就是这么简单。
+186,,<span class='scene-font-katari'>その言葉と共に、</span><br><span class='scene-font-katari'>ユラントスク軍中佐の頭上で</span><br><span class='scene-font-katari'>風を切る音が鳴り響いた。</span>,<span class='scene-font-katari'>珀拉莉丝这么说着，与此同时，<br>尤兰托斯克军中校的头顶上<br>响起了武器破风的声音。</span>
+198,,<span class='scene-font-katari'>ポラリス率いる小隊が</span><br><span class='scene-font-katari'>監視塔を制圧したことで、</span><br><span class='scene-font-katari'>戦局は一気に逆転する。</span>,<span class='scene-font-katari'>随着珀拉莉丝率领的小队<br>控制了瞭望塔，<br>战局一下子逆转了。</span>
+199,,<span class='scene-font-katari'>夜のアヨール山脈で</span><br><span class='scene-font-katari'>苦戦を強いられていたユラントスク軍は</span><br><span class='scene-font-katari'>司令官と拠点を失ったことで崩壊。</span>,<span class='scene-font-katari'>在夜晚的阿约尔山脉<br>陷入苦战的尤兰托斯克军<br>因为失去了司令官和据点溃不成军。</span>
+203,,<span class='scene-font-katari'>その多くはエルデニ軍の捕虜となり、</span><br><span class='scene-font-katari'>エルデニ軍はザハ市奪還に</span><br><span class='scene-font-katari'>また一歩近づいたのだった。</span>,<span class='scene-font-katari'>其中许多人成了埃尔德尼的俘虏，<br>埃尔德尼人距离夺回扎哈市又近了一步。</span>
+209,シュラ/雪拉,<span class='scene-font-kokoro'>（あっという間に</span><br><span class='scene-font-kokoro'>ウーデン大橋まで</span><br><span class='scene-font-kokoro'>戦線を押し返してしまった……）</span>,<span class='scene-font-kokoro'>（转眼间就把战线<br>推回到了乌登大桥……）</span>
+210,シュラ/雪拉,<span class='scene-font-kokoro'>（やはり私には、知識と経験が</span><br><span class='scene-font-kokoro'>圧倒的に足りていない。</span><br><span class='scene-font-kokoro'>兵の動かし方も、作戦の種類も……）</span>,<span class='scene-font-kokoro'>（果然，我还缺乏足够的知识和经验，<br>无论是如何调动士兵，还是作战方式……）</span>
+211,,<span class='scene-font-katari'>この戦いを通し、自分の力不足を</span><br><span class='scene-font-katari'>感じ取っていたシュラは、</span><br><span class='scene-font-katari'>盛大な溜息を吐き、空を見る。</span>,<span class='scene-font-katari'>通过这场战斗<br>感觉到自己能力不足的雪拉<br>重重地叹了口气，看着天空。</span>
+212,シュラ/雪拉,<span class='scene-font-kokoro'>（「銀の軍師」の采配を学び、吸収し</span><br><span class='scene-font-kokoro'>少しでも我が糧としなければ……）</span>,<span class='scene-font-kokoro'>（学习“银之军师”的指挥，<br>哪怕仅学到一点也是极好……）</span>
+213,シュラ/雪拉,私自身の……<br>いいえ、エルデニのために。,为了我自己的……<br>不，为了埃尔德尼。
+214,,<span class='scene-font-katari'>同じ軍師であるアルタイルの采配を</span><br><span class='scene-font-katari'>見て、自身の未熟さを痛感したシュラ。</span>,<span class='scene-font-katari'>雪拉看到同为军师的阿尔泰尔的指挥后，<br>深切感受到了自己的不成熟。</span>
+215,,<span class='scene-font-katari'>この戦いを通し、</span><br><span class='scene-font-katari'>少しでも知識と経験を積まなければと</span><br><span class='scene-font-katari'>シュラは固く決意するのだった。</span>,<span class='scene-font-katari'>她下定决心，<br>必须通过这场战斗，<br>尽可能地积累知识和经验。</span>
+info,,,scene_evt200429_cp2_q1_s10
+译者,Lunatis@秋庭月,初稿完成于2020.5.2,
