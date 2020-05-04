@@ -1,0 +1,39 @@
+id,name,text,trans
+0-chapter_name,,第4話 慷慨憤激,
+0-synopsis,,激戦の末、ロウファに膝をつかせた姬塔。傷を負いながらなおも立ち上がるロウファは、ランファが突破されたことを受けユラントスクの兵達と共に撤退していく。態勢を立て直すべくタタル基地へ戻った姬塔達を迎えたのは、ロウファとの戦いで士気を低下させた兵達の姿であり、シュラはこの先の戦いに一抹の不安を抱くのだった。,激战之后，姬塔的攻击让洛法倒在地上。虽然受了伤，但在看到兰华被击败后，洛法还是站了起来，和尤兰托斯克的士兵一起撤退了。为了重整态势，众人返回塔塔尔基地；而士兵们在与洛法的战斗中受挫，士气低落。雪拉对未来的战斗感到一丝不安。
+15,,<span class='scene-font-katari'>姬塔の放った一撃は、</span><br><span class='scene-font-katari'>ロウファの脇を大きく切り裂き、</span><br><span class='scene-font-katari'>ロウファに膝をつかせる。</span>,<span class='scene-font-katari'>姬塔所发出的一击，<br>直直打在了洛法的胸膛，<br>让他倒在地上。</span>
+16,ロウファ/洛法,ぐぅっ……！,咕……！
+18,ロウファ/洛法,どうやら……<br>貴様の力量を少々見誤っていたようだ。,看来……我有点看走眼了。
+19,,<span class='scene-font-katari'>怪我を負いながらも、</span><br><span class='scene-font-katari'>なお立ち上がるロウファは、</span><br><span class='scene-font-katari'>一行の背後の様子を見やる。</span>,虽然受了伤，<br>但洛法还是站了起来，<br>看向他们身后的方向。</span>
+20,ロウファ/洛法,ランファは突破されたか……<br>なれば、これ以上の戦いは無意味だ。,兰华被突破了么……<br>看来再打下去毫无意义。
+21,ロウファ/洛法,ここは仕切り直しとさせてもらう。<br>いずれにせよ、この戦場が<br>我々どちらかの死地となるのだ。,让我们各自修整，下次再来吧。<br>无论如何，在这个战场上，<br>我们总有一方要死去。
+22,ロウファ/洛法,今はまだ、その時を、<br>楽しみにさせてもらおう……,现在，<br>还是让我们期待那个时刻吧……
+24,,<span class='scene-font-katari'>ロウファは</span><br><span class='scene-font-katari'>追撃のため散っていた兵を束ね、</span><br><span class='scene-font-katari'>その場を後にする。</span>,<span class='scene-font-katari'>洛法集结了为追击<br>而散开的尤兰托斯克士兵，<br>带着他们离开了。</span>
+25,,<span class='scene-font-katari'>姬塔達もまた、</span><br><span class='scene-font-katari'>ロウファを追う気力もなく、</span><br><span class='scene-font-katari'>タタル基地へと撤退するのだった。</span>,<span class='scene-font-katari'>姬塔一行也没有力气追赶洛法，<br>只好撤退到塔塔尔基地。</span>
+30,ルリア/露莉亚,良かった……<br>無事だったんですね！,太好了……都平安无事！
+31,,<span class='scene-font-katari'>タタル基地に戻った姬塔達を</span><br><span class='scene-font-katari'>泣き出しそうな顔のルリアが出迎える。</span>,<span class='scene-font-katari'>姬塔一行回到了塔塔尔基地，<br>露莉亚以一副泫然欲泣的表情，<br>迎接了他们。</span>
+32,ルリア/露莉亚,生命のリンクが繋がっているから、<br>姬塔が生きているのは<br>わかってたけど……,因为我们的生命相连着，<br>我知道姬塔还活着，但是……
+33,ルリア/露莉亚,でも、皆さんも、<br>大きな怪我をしていないか心配で……,但是，<br>我很担心大家受了重伤……
+34,シュラ/雪拉,申し訳ございません、ルリア様。<br>姬塔様にまで<br>無理をさせてしまって……,实在抱歉，露莉亚大人。<br>让姬塔大人勉强了自己……
+35,ルリア/露莉亚,いえ……<br>シュラさんも無事で、<br>本当に良かったです。,不……<br>雪拉小姐也平安无事，<br>真是太好了。
+36,アルタイル/阿尔泰尔,ルリア。<br>レオニス陛下とザウラ殿を<br>見かけませんでしたか？,露莉亚。<br>你见到雷欧尼斯陛下和扎乌拉殿下了吗？
+37,ルリア/露莉亚,ザウラさんなら<br>一度基地で手当てを受けてから<br>出かけて行きましたよ。,扎乌拉先生的话，<br>在基地接受过一次治疗后就离开了。
+38,ルリア/露莉亚,周囲の警戒をする、って、<br>何人かの兵士さんと一緒に……,和几个士兵一起，<br>对周围进行警戒……
+39,ルリア/露莉亚,確か、レオニスさんも<br>その中にいたと思います。,我想雷欧尼斯先生也在其中。
+40,アルタイル/阿尔泰尔,ありがとうございます。<br>しかし、ザウラ殿はまだしも、<br>何故あの人は前線に出たがるのか……,好的，谢谢。<br>不过，扎乌拉殿下也就算了，<br>那个人为什么要上前线……
+41,,<span class='scene-font-katari'>呆れたように溜息を吐いた</span><br><span class='scene-font-katari'>アルタイルに、シュラは</span><br><span class='scene-font-katari'>困ったような表情を浮かべた。</span>,<span class='scene-font-katari'>面对愣愣地叹息着的阿尔泰尔，<br>雪拉露出了为难的表情。</span>
+42,シュラ/雪拉,元々、レオニス陛下は<br>即位直前まで<br>前線で戦っていた方ですので……,雷欧尼斯陛下在即位前，<br>原本一直在前线作战……
+43,シュラ/雪拉,陛下が戦いに参加し、<br>自ら指揮を執ったことで<br>兵達の士気もやや持ち直したようです。,陛下现在亲自参加战斗，<br>亲自指挥作战，<br>肯定会提升士兵们的士气。
+44,シュラ/雪拉,とはいえ、被害は少なくありません。<br>何よりロウファへの恐怖心は、<br>より根深いものとなったでしょう……,话虽如此，我方损失也不小。<br>最重要的是，对于洛法的恐惧心理<br>将会更加根深蒂固……
+45,,<span class='scene-font-katari'>兵達の心配をするシュラに対し、</span><br><span class='scene-font-katari'>アルタイルはひとまず、</span><br><span class='scene-font-katari'>当面のやるべき仕事の指示を出す。</span>,<span class='scene-font-katari'>对于担心士兵们的雪拉，<br>阿尔泰尔首先下达了<br>当前的工作指示。</span>
+46,アルタイル/阿尔泰尔,シュラ。<br>あなたは兵の被害状況の調査を。<br>私は物資の方から当たります。,雪拉，你负责调查士兵的伤亡情况。<br>我去调查现有的物资。
+47,シュラ/雪拉,承知いたしました。,明白。
+48,シュラ/雪拉,ルリア様。<br>姬塔様の手当てを<br>お願い出来ますでしょうか？,露莉亚大人。<br>您方便带姬塔大人去简单治疗一下吗？
+49,ルリア/露莉亚,もちろんです！<br>医務室はこっちですよ。,当然! 医务室在这边哦。
+51,,<span class='scene-font-katari'>ルリアに手を引かれ医務室に向かう</span><br><span class='scene-font-katari'>姬塔達を見送った後、</span><br><span class='scene-font-katari'>シュラはひとつ息を吐く。</span>,<span class='scene-font-katari'>姬塔被露莉亚牵着手领向医务室，<br>雪拉目送着他们离开，叹了口气。</span>
+52,シュラ/雪拉,ザハ市奪還において、<br>ロウファとの戦いは避けられない。,在夺回扎哈市的过程中，<br>与洛法的战斗是不可避免的。
+53,シュラ/雪拉,しかし……<br>あの強大な力を、<br>私達に超えられるのでしょうか……,但是……我们能胜过那股强大的力量吗……
+54,,<span class='scene-font-katari'>何度目にしても、</span><br><span class='scene-font-katari'>ロウファの力は</span><br><span class='scene-font-katari'>人の域を超えたものだった。</span>,<span class='scene-font-katari'>洛法的力量，<br>每一次都超出了人类的能力范围。</span>
+55,,<span class='scene-font-katari'>単純ゆえに超えようのない</span><br><span class='scene-font-katari'>大きな障壁に、</span><br><span class='scene-font-katari'>シュラは密かに嘆息するのだった。</span>,<span class='scene-font-katari'>面对单纯无法逾越的巨大障碍，<br>雪拉暗自叹息。</span>
+info,,,scene_evt200429_cp4_q1_s10
+译者,Lunatis@秋庭月,初稿完成于2020.5.4,
