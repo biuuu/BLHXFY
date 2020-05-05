@@ -21,10 +21,10 @@ id,name,text,trans
 31,,<span class='scene-font-katari'>軍師シュラ、将軍ポラリス、</span><br><span class='scene-font-katari'>そして兵達の目には</span><br><span class='scene-font-katari'>劣勢の中でも逆転を狙う光があった。</span>,<span class='scene-font-katari'>在军师雪拉、将军珀拉莉丝，</span><br><span class='scene-font-katari'>以及士兵们的眼中，</span><br><span class='scene-font-katari'>虽然处于劣势，但还有反败为胜的希望。</span>
 32,,<span class='scene-font-katari'>しかし──</span>,<span class='scene-font-katari'>但是──</span>
 37,シュラ/雪拉,っ！？<br>な、何が……！？,！？<br>什、什么……！？
-38,ポラリス/珀拉莉丝,方角的には西地区ね。<br>まさかユラントスクに新兵器が……？,从方向来看，是西部地区，难道尤兰托斯克有了新武器……？
+38,ポラリス/珀拉莉丝,方角的には西地区ね。<br>まさかユラントスクに新兵器が……？,从方向来看，是西边……<br>难道尤兰托斯克有了新武器……？
 39,シュラ/雪拉,<span class='scene-font-kokoro'>（しまった……！</span><br><span class='scene-font-kokoro'>エリクの出陣は囮で、</span><br><span class='scene-font-kokoro'>本命はこっち……！？）</span>,<span class='scene-font-kokoro'>（糟了……! </span><br><span class='scene-font-kokoro'>埃里克的上阵是诱饵，</span><br><span class='scene-font-kokoro'>是为了掩盖这个……！？）</span>
 43,エルデニ兵２,う、嘘だ……<br>あり得ない……,骗、骗人……<br>不可能……
-44,,<span class='scene-font-katari'>呆然とする兵士の前には、</span><br><span class='scene-font-katari'>残骸の山へと姿を変えた</span><br><span class='scene-font-katari'>哀れな街並みが広がる。</span>,<span class='scene-font-katari'>在目瞪口呆的士兵面前，</span><br><span class='scene-font-katari'>是变成废墟的</span><br><span class='scene-font-katari'>可怜的街道。</span>
+44,,<span class='scene-font-katari'>呆然とする兵士の前には、</span><br><span class='scene-font-katari'>残骸の山へと姿を変えた</span><br><span class='scene-font-katari'>哀れな街並みが広がる。</span>,<span class='scene-font-katari'>在目瞪口呆的士兵面前，</span><br><span class='scene-font-katari'>是变成废墟的、可怜的街道。</span>
 45,,<span class='scene-font-katari'>しかし、それは戦禍による惨状ではなく</span><br><span class='scene-font-katari'>とある男のたった一撃によって</span><br><span class='scene-font-katari'>成されたものだった。</span>,<span class='scene-font-katari'>然而，这并不是单由</span><br><span class='scene-font-katari'>战祸造成的惨状，</span><br><span class='scene-font-katari'>而是由一个男人的一击造成的。</span>
 47,？？？,…………,…………
 51,エルデニ兵２,く、来るなっ……！<br>バケモノめ……！！,别、别过来……！<br>你这个怪物……！！
@@ -40,29 +40,29 @@ id,name,text,trans
 75,エルデニ伝令兵２,先程、ザハ市が陥落したとの情報が<br>入りました……,就在刚刚得到情报说<br>扎哈市沦陷了……
 76,側近らしき男,それは確かなのか？,能确定吗？
 77,エルデニ伝令兵２,は、はい。,是、是的。
-82,エルデニ伝令兵２,ユラントスクの将、ロウファにより<br>ザハ防衛に当たっていた兵のうち<br>約半数が失われたとのことです。,为了抵挡尤兰托斯克将军洛法，<br>扎哈市的守兵<br>已经损失了一半。
+82,エルデニ伝令兵２,ユラントスクの将、ロウファにより<br>ザハ防衛に当たっていた兵のうち<br>約半数が失われたとのことです。,为了抵挡尤兰托斯克将军洛法，<br>扎哈市的守兵已经损失了近一半。
 87,？？？,出たか……<br>あの男が……！,出现了吗……<br>那个男人……！
 88,側近らしき男,レオニス陛下。<br>どうか私情は抑えられますよう。,雷欧尼斯陛下。<br>请您先控制住自己的情绪。
-89,レオニス/雷欧尼斯,私情なものか。<br>奴こそ我がエルデニにとって、<br>不倶戴天の敵だ。,这不是私人恩怨，<br>他对我们埃尔德尼来说，<br>是不共戴天的死敌。
-90,,<span class='scene-font-katari'>エルデニ王は、</span><br><span class='scene-font-katari'>声こそ荒げることはないものの、</span><br><span class='scene-font-katari'>仇敵への憎悪を露わにする。</span>,<span class='scene-font-katari'>埃尔德尼国王</span><br><span class='scene-font-katari'>虽然没再多说，</span><br><span class='scene-font-katari'>但已经表现出对那位敌人的憎恶。</span>
-91,レオニス/雷欧尼斯,続けろ。<br>ザハ市にはシュラとポラリスが<br>居たはずだな。,继续吧。<br>雪拉和珀拉莉丝应该在扎哈市。
+89,レオニス/雷欧尼斯,私情なものか。<br>奴こそ我がエルデニにとって、<br>不倶戴天の敵だ。,这不是私人恩怨，<br>他对我们埃尔德尼来说，<br>亦是不共戴天的死敌。
+90,,<span class='scene-font-katari'>エルデニ王は、</span><br><span class='scene-font-katari'>声こそ荒げることはないものの、</span><br><span class='scene-font-katari'>仇敵への憎悪を露わにする。</span>,<span class='scene-font-katari'>埃尔德尼国王的声音并不大，</span><br><span class='scene-font-katari'>但已经流露出了对仇敌的憎恶。</span>
+91,レオニス/雷欧尼斯,続けろ。<br>ザハ市にはシュラとポラリスが<br>居たはずだな。,继续报告吧。<br>雪拉和珀拉莉丝应该在扎哈市。
 92,エルデニ伝令兵２,シュラ様、ポラリス様は、<br>両名共にご無事のようです。,雪拉大人和珀拉莉丝大人，<br>这两位好像都平安无事。
 93,エルデニ伝令兵２,現在はザハ市を放棄し、<br>ヌフ平原にある監視砦まで<br>撤退したとのこと。,现在已经放弃了扎哈市，<br>撤退到了努夫平原<br>的监视堡垒。
 94,側近らしき男,そうか……<br>最終的に残った兵はどれくらいだ？,是吗……<br>最终剩下多少士兵？
-95,エルデニ伝令兵２,出陣していた全兵数三万のうち、<br>砦まで撤退できたのは、<br>八千ほどと……,在出阵的三万兵力中，<br>只有八千撤回到了城堡……
+95,エルデニ伝令兵２,出陣していた全兵数三万のうち、<br>砦まで撤退できたのは、<br>八千ほどと……,在出阵的三万兵力中，<br>只有八千撤回到了堡垒……
 96,レオニス/雷欧尼斯,八千、か。,八千……么。
 97,エルデニ大臣,<span class='scene-font-4'>ええい！</span><br>ザハ市が陥落するとは、<br>我が国は負けたも同然ではないか！,<span class='scene-font-4'>什么！</span><br>扎哈市沦陷，<br>我们的国家就等于输了！
 98,エルデニ官僚,ザハ市は我が国最大の流通都市。<br>いわば、国の生命線とも<br>呼ぶべき街ぞ！,扎哈市是我国最大的贸易城市。<br>可以说是国家的生命线！<br>
 99,エルデニ官僚,スイからの流れ者などに<br>兵を任せるからこうなるのだ！<br>最初からザウラ将軍が出ていれば……,把士兵交给那种来自苏伊的流亡者，<br>我就知道会变成这样！<br>如果从一开始就由扎乌拉将军出阵指挥……
 100,レオニス/雷欧尼斯,あのロウファが相手だ。<br>今の我が国に残された全戦力を<br>ぶつけたところで勝ち目はあるまいよ。,对手是那个洛法，<br>就算把现在留在我们国家的<br>全部战力发挥出来也没有胜算。
-101,エルデニ大臣,<span class='scene-font-4'>なっ……！</span><br>では陛下は、このまま国が滅ぶのを<br>ただ待つと仰るのですか！？,<span class='scene-font-4'>什……！</span><br>那么陛下就只是这样等着国家灭亡吗！
-102,レオニス/雷欧尼斯,そうは言っていない。<br>今のままでは勝てないのなら、<br>外に助けを呼ぶしかない。,我可没这么说。<br>如果是现在这样，已经陷入穷途末路，那就只能向外面求救了。
+101,エルデニ大臣,<span class='scene-font-4'>なっ……！</span><br>では陛下は、このまま国が滅ぶのを<br>ただ待つと仰るのですか！？,<span class='scene-font-4'>什……！</span><br>那难道陛下就只是这样等着国家灭亡吗！
+102,レオニス/雷欧尼斯,そうは言っていない。<br>今のままでは勝てないのなら、<br>外に助けを呼ぶしかない。,我可没这么说。<br>如果是现在这样，已经陷入穷途末路，<br>那就只能向外面求救了。
 103,レオニス/雷欧尼斯,善は急げだ、ザウラ。<br><span class='scene-font-spword'>「銀の軍師」</span>を連れてこい。,最好能快一点，扎乌拉。<br>把<span class='scene-font-spword'>「银之军师」</span>请过来。
 104,ザウラ/扎乌拉,「銀の軍師」……！<br>そうか、彼ならば確かに<br>戦局をひっくり返せる……,“银之军师”……！<br>确实，如果是他，足以扭转战局……
 105,レオニス/雷欧尼斯,流通拠点を抑えられ、<br>ロウファと戦わねばならない我が国には<br>あの男の手腕が必要だ。,贸易城市被占、<br>更不敌洛法的埃尔德尼，<br>需要那个男人的能力。
 106,レオニス/雷欧尼斯,方法は任せる。<br>必ず奴の協力を取り付けろ。,不论你用什么方法，<br>一定要得到他的协力。
 107,ザウラ/扎乌拉,<span class='scene-font-4'>はっ！</span><br>我が忠義に誓い、必ずや<br>「銀の軍師」を連れて参ります。,<span class='scene-font-4'>是！</span><br>我以我的忠诚起誓，<br>一定会将“银之军师”带来。
-113,,<span class='scene-font-katari'>僅かな勝機を手繰り寄せるように、</span><br><span class='scene-font-katari'>王は「銀の軍師」に望みを賭け</span><br><span class='scene-font-katari'>使者を放つ。</span>,<span class='scene-font-katari'>将一线希望希望寄托在</span><br><span class='scene-font-katari'>“银之军师”身上，</span><br><span class='scene-font-katari'>国王派出了使者。</span>
-114,,<span class='scene-font-katari'>戦乱と因縁、その決着は、</span><br><span class='scene-font-katari'>ひとりの男の手に</span><br><span class='scene-font-katari'>委ねられようとしているのだった。</span>,<span class='scene-font-katari'>战乱和因缘，</span><br><span class='scene-font-katari'>其结果掌握在了一个男人的手中。</span>
+113,,<span class='scene-font-katari'>僅かな勝機を手繰り寄せるように、</span><br><span class='scene-font-katari'>王は「銀の軍師」に望みを賭け</span><br><span class='scene-font-katari'>使者を放つ。</span>,<span class='scene-font-katari'>将一线希望希望寄托在“银之军师”身上，</span><br><span class='scene-font-katari'>国王派出了使者。</span>
+114,,<span class='scene-font-katari'>戦乱と因縁、その決着は、</span><br><span class='scene-font-katari'>ひとりの男の手に</span><br><span class='scene-font-katari'>委ねられようとしているのだった。</span>,<span class='scene-font-katari'>战乱和诸多因缘，</span><br><span class='scene-font-katari'>其结果掌握在了一个男人的手中。</span>
 info,,,scene_evt200429_cp0_q1_s10
-译者,Lunatis@秋庭月,初稿完成于2020.5.1,
+译者,Lunatis@秋庭月,初稿完成于2020.5.1,校对于2020.5.4

@@ -1,0 +1,70 @@
+id,name,text,trans
+0-chapter_name,,第5話 薤露蒿里,
+0-synopsis,,両軍撤退から一夜明けた朝。戦闘開始の合図と共に、たったひとりでユラントスク軍へ切り込みエリクの首を狙うザウラ。ザウラを迎え撃ったエリクは、身近にいた兵を盾にしようとするも、それを予期していたザウラに先手を打たれ討ち倒される。しかし、その瞬間エリクの体に魔術の痕跡が浮かび、ザウラとその周囲は爆発音と白い光に包まれるのだった。,两军撤退后的第二天清晨，扎乌拉发出战斗开始的信号，独自向尤兰托斯克军队内的埃里克进发。迎击扎乌拉的埃里克，即使想用身边的士兵当做盾牌，也被预想到这些的扎乌拉先发制人、打倒在地。但当场殒命的埃里克的身上，浮现出了奇术的痕迹。在那一瞬间，扎乌拉的周围被爆炸声和白光包围了。
+1,,<span class='scene-font-katari'>両軍撤退から一夜明けた朝。</span><br><span class='scene-font-katari'>ザハ市近郊では、再びエルデニ軍と</span><br><span class='scene-font-katari'>ユラントスク軍が睨み合っていた。</span>,<span class='scene-font-katari'>两军撤退后的第二天清晨。<br>埃尔德尼和尤兰托斯克两军在扎哈市近郊，<br>再次互相瞪着对方。
+2,ロウファ/洛法,…………,…………</span>
+3,,<span class='scene-font-katari'>そこには、アルタイル達の読み通り</span><br><span class='scene-font-katari'>ロウファの姿があり……</span>,<span class='scene-font-katari'>正如阿尔泰尔所推测的那样，<br>战场上出现了洛法的身影……</span>
+4,,<span class='scene-font-katari'>そして、負傷したはずのエリクもまた、</span><br><span class='scene-font-katari'>前線に並んでいるのだった。</span>,<span class='scene-font-katari'>另外，本应受了重伤的埃里克也在前线。</span>
+5,エリク/埃里克,今のところ、痛みは止まってるけど……,现在，疼痛已经停止了……
+6,エリク/埃里克,ヴィターリー<br>お前、何をしたんだ？<br>本当に大丈夫なんだろうな。,维塔利，你做了什么？<br>真的没问题吗？
+7,ヴィターリー/维塔利,施術の前に説明はしたはずですが……,手术前应该已经说明过了……
+8,ヴィターリー/维塔利,怪我を治したわけではありませんよ。<br>私の編み出した少々特殊な魔術が、<br>傷口、体内に刻んでありまして……,我没有治好您的伤，<br>我只是在您的伤口和体内<br>刻下了一种特殊的魔法……
+9,エリク/埃里克,ふん……<br>まぁ、動けるならなんでもいいさ。,嗯……算了，只要能动，怎样都行。
+10,エリク/埃里克,この僕に傷を負わせた罪は重い……<br>それをあいつらの命で<br>ハッキリとわからせてやる……,我要让他们用自己的生命明白，<br>伤害我的代价是什么……
+11,ヴィターリー/维塔利,やれやれ……<br>説明を聞く耳は持ってもらえそうに<br>ありませんね。,哎呀……看来您不会继续听我解释了。
+12,ヴィターリー/维塔利,<span class='scene-font-kokoro'>（こちらとしては、</span><br><span class='scene-font-kokoro'>そちらの方が好都合ですが……）</span>,<span class='scene-font-kokoro'>（对我来说，这样更方便……）</span>
+13,ロウファ/洛法,エリク殿下……<br>まだ傷も癒えていないのに、<br>本当に戦うつもりなのか。,埃里克殿下……伤口还没愈合，<br>您真的打算战斗吗。
+14,ロウファ/洛法,やはり治療体制を整え、<br>ザハ市で待機していたほうが……,还是继续接受治疗，<br>在扎哈市待命比较好……
+15,エリク/埃里克,<span class='scene-font-4'>黙れよ！</span><br>王族の僕が怪我をしたんだぞ！,<span class='scene-font-4'>闭嘴！</span><br>身为王族的我受伤了哦！
+16,エリク/埃里克,エルデニのゴミ共に、<br>僕に歯向かうとどうなるか、<br>直々に教えてやる……,我会告诉埃尔德尼的那些垃圾，<br>他们反抗我的下场……
+17,エリク/埃里克,それとも何？<br>どうしても僕を止めるならロウファ、<br>お前も反逆者ってことになるけど。,还有什么要说的？<br>如果无论如何也要阻止我的话，<br>我会说你也是叛徒！
+18,ロウファ/洛法,…………,…………
+19,ロウファ/洛法,わかった……<br>殿下の気のすむようにするといい。,好吧……殿下您自己满意就行了。
+20,ロウファ/洛法,そろそろ各自、己の部隊に戻れ。<br>じきに最前線の部隊が<br>エルデニと交戦する。,各自回到自己的部队去吧。<br>前线部队很快就会和埃尔德尼交火。
+26,,<span class='scene-font-katari'>一方、エルデニ軍もまた、</span><br><span class='scene-font-katari'>出陣したユラントスク軍の様子を</span><br><span class='scene-font-katari'>捉えていた。</span>,<span class='scene-font-katari'>另一方面，<br>埃尔德尼军队也看到了出征的尤兰托斯克军。</span>
+27,シュラ/雪拉,ロウファ、エリク王子、<br>ヴィターリー、ランファの姿を<br>確認致しました。,洛法、埃里克王子、维塔利、兰华，<br>皆在其中。
+28,シュラ/雪拉,やはりユラントスクは、<br>総力戦を仕掛けるつもりのようですね。,尤兰托斯克果然打算全力以赴。
+29,ザウラ/扎乌拉,しかし、<br>エリク王子まで出てきているとは……,居然连埃里克王子都出来了……
+30,ザウラ/扎乌拉,ザハ市を出陣したとしても、<br>せいぜい本陣で大人しくしているかと<br>思っていましたが……,我还以为即使我们出阵扎哈市，<br>他最多也就在大本营里老老实实地待着……
+31,アルタイル/阿尔泰尔,ポラリスの部隊の兵の証言では、<br>エリク王子は相当の深手を<br>負っていたはずです。,根据珀拉莉丝部队士兵的证词，<br>埃里克王子应该受了相当严重的伤。
+32,アルタイル/阿尔泰尔,通常の治療や治癒術で<br>すぐに回復させられるとは<br>考えにくい……,通过正常的治疗或治愈手术<br>很难想象可以很快恢复……
+33,アルタイル/阿尔泰尔,やはりヴィターリーが<br>何らかの策を講じたようですね。,看来维塔利果然采取了一些措施。
+34,,<span class='scene-font-katari'>思い悩むアルタイルに対し、</span><br><span class='scene-font-katari'>ザウラは落ち着いた様子で</span><br><span class='scene-font-katari'>ユラントスク軍を見やる。</span>,<span class='scene-font-katari'>与苦恼的阿尔泰尔不同，<br>扎乌拉冷静地看着尤兰托斯克军队。</span>
+35,ザウラ/扎乌拉,油断ならないのというのは、<br>戦場の常です。<br>今更、変わることではありません。,不掉以轻心，是战场上的常识。<br>事到如今，也不会有任何改变就是了。
+36,ザウラ/扎乌拉,必ずや、エリク王子を<br>討ち取って参りましょう。<br>我らがエルデニのためにも……,为了埃尔德尼，我也定会讨伐埃里克……
+37,ザウラ/扎乌拉,そして、亡き戦友のためにも。,当然，更何况是为了已故的战友……
+38,,<span class='scene-font-katari'>その時、</span><br><span class='scene-font-katari'>戦闘開始を告げる兵達の雄叫びが、</span><br><span class='scene-font-katari'>前線から響き渡った。</span>,<span class='scene-font-katari'>这时，前线响起了士兵们的呐喊声，<br>战斗开始了。</span>
+39,,<span class='scene-font-katari'>その轟音を合図に、</span><br><span class='scene-font-katari'>ザウラはエリクを討ち取るため、</span><br><span class='scene-font-katari'>ユラントスク軍へと切り込んでいく。</span>,<span class='scene-font-katari'>以这些声音为信号，<br>扎乌拉向尤兰托斯克军队、<br>向埃里克的方向发起了进攻。</span>
+45,ザウラ/扎乌拉,<span class='scene-font-4'>おおおおっ！！</span>,<span class='scene-font-4'>哦哦哦哦！！</span>
+54,,<span class='scene-font-katari'>向かってくるユラントスクの兵達を</span><br><span class='scene-font-katari'>薙ぎ払い、真っ直ぐに将である</span><br><span class='scene-font-katari'>エリクの元を目指すザウラ。</span>,<span class='scene-font-katari'>扎乌拉将冲来的尤兰托斯克的士兵打向两边，<br>径直向将军埃里克冲去。</span>
+61,ザウラ/扎乌拉,ユラントスク第三王子エリク！<br>その首、貰い受ける！,尤兰托斯克第三王子埃里克！<br>我必将打倒你！
+62,エリク/埃里克,<span class='scene-font-4'>黙れ！</span><br>それはこっちの台詞だ！,<span class='scene-font-4'>闭嘴！</span><br>那是我要说的话！
+63,,<span class='scene-font-katari'>ザウラとエリクは</span><br><span class='scene-font-katari'>幾度となく刃をぶつけ合い、</span><br><span class='scene-font-katari'>互いの力量を確かめる。</span>,<span class='scene-font-katari'>扎乌拉和埃里克的战斗一触即发，<br>他们多次交锋以确认彼此的实力。</span>
+68,,<span class='scene-font-katari'>近づくことすら躊躇う激しい応酬に、</span><br><span class='scene-font-katari'>ユラントスクの兵達は固唾を呑んで</span><br><span class='scene-font-katari'>その行方を見守っていた。</span>,<span class='scene-font-katari'>那是相当激烈的交手，<br>尤兰托斯克的其他士兵很难靠近，<br>只是屏息凝神地注视着他们的动作。</span>
+76,エリク/埃里克,<span class='scene-font-kokoro'>（くそっ、重い……！</span><br><span class='scene-font-kokoro'>このままじゃあ押し負ける……！）</span>,<span class='scene-font-kokoro'>（可恶，好重的力道……！<br>再这样被压在下风，我就要输了！）</span>
+77,エリク/埃里克,違う……認めるものか！<br>強いのは僕だ！<br>お前じゃない！！,不……我才不承认！<br>我才是强者！不是你！！
+78,ザウラ/扎乌拉,確かに貴殿は強い……<br>だが、信念すら宿らぬ空虚な刃では、<br>我が首に届くことはない！,你的确很强……但是，<br>一把没有寄宿着信念的、空洞的刀刃，<br>是无法靠近我的命脉的！
+79,エリク/埃里克,なっ……！？,什……！？
+81,,<span class='scene-font-katari'>声と共にザウラは大きく剣を跳ね上げ、</span><br><span class='scene-font-katari'>剣を合わせていたエリクは</span><br><span class='scene-font-katari'>体勢を崩される。</span>,<span class='scene-font-katari'>随着这句话，扎乌拉举起了他的大刀，<br>埃里克跌倒在地。</span>
+82,エリク/埃里克,<span class='scene-font-kokoro'>（やばい……やばいやばいやばい！</span><br><span class='scene-font-kokoro'>負ける？　僕が？）</span>,<span class='scene-font-kokoro'>（糟糕……糟糕糟糕糟糕，糟糕！<br>我——要输了？）</span>
+83,エリク/埃里克,<span class='scene-font-kokoro'>（認めるか！　そんなことは絶対に！！）</span>,<span class='scene-font-kokoro'>（我会承认？怎么可能！）</span>
+84,エリク/埃里克,負けるか……絶対に！！,我不会输——绝对不会！！
+86,,<span class='scene-font-katari'>咄嗟に地を蹴ったエリクは、</span><br><span class='scene-font-katari'>ポラリスとの戦いと同じように</span><br><span class='scene-font-katari'>兵を盾にしようと手を伸ばすが……</span>,<span class='scene-font-katari'>瞬间飞奔离开的埃里克，<br>就像与珀拉莉丝的打斗时一样，<br>准备伸手将附近的士兵当做挡箭牌。</span>
+89,エリク/埃里克,ひっ……！？,咿……！？
+90,,<span class='scene-font-katari'>動きを読んでいたザウラの一閃が、</span><br><span class='scene-font-katari'>腕を伸ばしたエリクの指先をかする。</span>,<span class='scene-font-katari'>看着他的动作，扎乌拉的攻击一闪而过，<br>划过了伸出手臂的埃里克。</span>
+91,ザウラ/扎乌拉,わかっていましたよ。<br>追い詰められた貴方は<br>いったいどういう行動を取るのか。,我就知道。<br>被逼到绝路的你会采取什么行动。
+92,ザウラ/扎乌拉,これで……終わりです。,就这样吧……结束了。
+95,エリク/埃里克,かっ、は……,咳，哈……
+96,,<span class='scene-font-katari'>ザウラの一刀は、</span><br><span class='scene-font-katari'>動きを読まれ呆然としていたエリクを</span><br><span class='scene-font-katari'>正面から斜めに大きく切り裂いた。</span>,<span class='scene-font-katari'>扎乌拉的一刀，<br>从正面斜切开了<br>被看透了动作、正一脸呆滞的埃里克。</span>
+97,エリク/埃里克,なんだよ……なんで……<br>僕が……僕は……強い……<br>選ばれた……はずなのに……,什么啊……为什么啊……<br>我……我……我……很强大……<br>明明应该是被选中的……才对……
+99,,<span class='scene-font-katari'>茫然としたように呟きながら、</span><br><span class='scene-font-katari'>血の海に沈むエリクを</span><br><span class='scene-font-katari'>静かに見下ろすザウラ。</span>,<span class='scene-font-katari'>扎乌拉俯视着埃里克，<br>这个曾经高傲的王子倒在血泊中，<br>茫然地喃喃自语。</span>
+100,,<span class='scene-font-katari'>やがて、その目から命の灯火が</span><br><span class='scene-font-katari'>消えたことを確認し、</span><br><span class='scene-font-katari'>ゆっくりと呟く。</span>,<span class='scene-font-katari'>不久，他眼中的生命之火熄灭了。<br>扎乌拉轻声地念叨道。</span>
+101,ザウラ/扎乌拉,……仇は取りましたよ、<br>ポラリス。,……我已经为你报仇了，珀拉莉丝。
+102,,<span class='scene-font-katari'>短い黙祷を終えたザウラは、</span><br><span class='scene-font-katari'>エリクの遺体に背を向け</span><br><span class='scene-font-katari'>周囲の兵を見渡す。</span>,<span class='scene-font-katari'>结束短暂的默哀后，<br>扎乌拉背对着埃里克的尸体，<br>环视周围的士兵。</span>
+103,ザウラ/扎乌拉,聞け、ユラントスクの兵達よ。<br>貴殿らの将は私が討ち取った。<br>抵抗を続けるならば──,听好了！尤兰托斯克的士兵们。<br>你们的将军被我打倒了，<br>如果你们继续抵抗的话──
+105,,<span class='scene-font-katari'>その時、ザウラは背後から</span><br><span class='scene-font-katari'>ただならぬ気配を感じ、</span><br><span class='scene-font-katari'>咄嗟に振り向く。</span>,<span class='scene-font-katari'>这时，扎乌拉感觉到背后的不寻常的气息，<br>立刻回过头来。</span>
+106,,<span class='scene-font-katari'>視界の端で捉えたのは、</span><br><span class='scene-font-katari'>骸となったエリクの身体に浮かび上がる</span><br><span class='scene-font-katari'>魔術の痕跡。</span>,<span class='scene-font-katari'>他的视线边缘捕捉到了<br>埃里克尸体上浮现出的奇术的痕迹。</span>
+107,ザウラ/扎乌拉,まさか……！！,不会吧……！！
+109,,<span class='scene-font-katari'>全てを理解した瞬間、</span><br><span class='scene-font-katari'>爆発音と共にザウラとその周囲は、</span><br><span class='scene-font-katari'>白い光に飲み込まれたのだった。</span>,<span class='scene-font-katari'>理解了一切的那个瞬间，<br>伴随着爆炸声，<br>扎乌拉的周围被白光吞噬。</span>
+info,,,scene_evt200429_cp5_q4_s10
+译者,Lunatis@秋庭月,初稿完成于2020.5.5,

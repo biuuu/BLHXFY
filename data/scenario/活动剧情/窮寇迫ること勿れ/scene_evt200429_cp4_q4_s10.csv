@@ -1,13 +1,9 @@
 id,name,text,trans
-0-chapter_name,,第4話 慷慨憤激,慷慨的故事
+0-chapter_name,,第4話 慷慨憤激,
 0-synopsis,,夢から覚めたロウファは、傍らで眠るランファに失った妹の面影を重ねる。ロウファと同じくスイ国の貧しい家に生まれたランファは、ある日スイの貴族に強引に養女として引き取られ、政治の道具として扱われていた。ランファの境遇に妹を重ねたロウファは、ランファを守り幼い頃の悲劇を二度と繰り返さぬため、必ずやエルデニとの戦いに勝利すると決意するのだった。,洛法从梦中醒来，他从一旁睡觉的兰华身上，看到了亡妹的影子。和洛法一样，兰华也出生在苏伊的贫困家庭，有一天被苏伊贵族强行收养为收养，当作政治工具。从兰华的处境中联想到妹妹的洛法，为了守护兰华、不让小时候的悲剧再次重演，下定决心一定要在与埃尔德尼的战争中取得胜利。
-
-
 4,,<span class='scene-font-katari'>夜の帳が落ちた薄暗闇の中、</span><br><span class='scene-font-katari'>ふと、ロウファの意識が浮上する。</span>,<span class='scene-font-katari'>夜幕降临，一片昏暗中，<br>洛法的意识从深睡中浮现。</span>
 5,,<span class='scene-font-katari'>傍らに暖かいものを感じたロウファは</span><br><span class='scene-font-katari'>寝台から僅かに身を起こし、</span><br><span class='scene-font-katari'>視線を向けた。</span>,<span class='scene-font-katari'>感觉到身边的温暖的事物，<br>洛法从床上微微起身，视线投向那里。</span>
-
 6,ロウファ/洛法,……ランファ。,……兰华。
-
 7,,<span class='scene-font-katari'>いつの間にか眠ってしまった</span><br><span class='scene-font-katari'>ロウファに寄り添うように眠る、</span><br><span class='scene-font-katari'>ランファの姿。</span>,<span class='scene-font-katari'>不知不觉间睡着的洛法身旁，<br>依偎着熟睡的兰华。</span>
 8,,<span class='scene-font-katari'>稚いその寝顔を見つめながら、</span><br><span class='scene-font-katari'>ロウファは頬を緩める。</span>,<span class='scene-font-katari'>看着那张稚嫩的熟睡脸庞，<br>洛法放松了下来。</span>
 9,,<span class='scene-font-katari'>ロウファの脳裏に蘇るのは、</span><br><span class='scene-font-katari'>幼くして命を奪われた</span><br><span class='scene-font-katari'>最愛の妹の姿。</span>,<span class='scene-font-katari'>浮现在洛法脑海中的，<br>是小时候失去了生命的最亲爱的妹妹。</span>
@@ -19,18 +15,15 @@ id,name,text,trans
 34,,<span class='scene-font-katari'>ロウファがランファと</span><br><span class='scene-font-katari'>出会ったのは、そんな折だった。</span>,<span class='scene-font-katari'>就是在这个时候，<br>洛法遇到了兰华。</span>
 40,,<span class='scene-font-katari'>己と似通った過酷な境遇を聞き、</span><br><span class='scene-font-katari'>ロウファはかつての自分と妹を</span><br><span class='scene-font-katari'>ランファに重ね合わせる。</span>,<span class='scene-font-katari'>听到与自己相似的残酷处境，<br>洛法将以前自己和妹妹的遭遇<br>重叠在兰华身上。</span>
 41,,<span class='scene-font-katari'>その時、ロウファの中には</span><br><span class='scene-font-katari'>妹を失った時の激しい怒りが再び灯り、</span><br><span class='scene-font-katari'>ランファを奪い去っていったのだった。</span>,<span class='scene-font-katari'>洛法失去妹妹时的愤怒被再次点燃，<br>他夺走了兰华。</span>
-
 47,ランファ/兰华,ん……ロウファ様……？,唔……洛法大人……？
 48,ロウファ/洛法,すまない。起こしたか。,抱歉，我吵醒你了吗。
 49,ランファ/兰华,いいえ、大丈夫です。,不，没关系。
 50,ランファ/兰华,……どうしたのですか？<br>顔色があまりよくありませんよ。,……怎么了？脸色不太好哦。
-
 51,,<span class='scene-font-katari'>身を起こしたランファは、</span><br><span class='scene-font-katari'>心配そうにロウファの頬に触れる。</span>,<span class='scene-font-katari'>兰华起身，担心地摸了摸洛法的脸颊。</span>
 52,ロウファ/洛法,気にすることはない。<br>ただ少し、夢見が悪かっただけだ。,别在意，只是做了个噩梦而已。
 53,ランファ/兰华,ほんとうに？,真的吗？
 54,ロウファ/洛法,ああ。<br>すまないな、心配をかけて。,嗯。对不起啊，让你担心了。
 55,,<span class='scene-font-katari'>そう言いながら、</span><br><span class='scene-font-katari'>ロウファはランファの手を取り、</span><br><span class='scene-font-katari'>そのまま細い体を抱き締める。</span>,<span class='scene-font-katari'>说着，洛法拉住兰华的手，<br>紧紧抱住她纤细的身体。</span>
-
 60,ロウファ/洛法,もうすぐ、俺達の望みが叶う。<br>この戦が終わるまでの辛抱だ。,我们的愿望很快就会实现了，<br>这场战争结束之后，我们就不需要再忍耐了。
 61,ロウファ/洛法,エルデニを落とせば、爵位が貰える。<br>そうすれば、<br>俺達はようやく人になれるんだ。,打败了埃尔德尼之后，便可加官晋爵。<br>这样的话，我们也可以跻身为“人”了。
 62,ランファ/兰华,……はい。,……是的。
@@ -39,7 +32,6 @@ id,name,text,trans
 65,ロウファ/洛法,<span class='scene-font-kokoro'>（俺は二度と、</span><br><span class='scene-font-kokoro'>大切なものを手放さない）</span>,<span class='scene-font-kokoro'>（我再也不会放弃我珍视的东西了）</span>
 66,ロウファ/洛法,<span class='scene-font-kokoro'>（この手がどれだけ血に濡れようと、</span><br><span class='scene-font-kokoro'>決して奪わせたりはしない）</span>,<span class='scene-font-kokoro'>（哪怕这双手沾满鲜血，<br>我都不会让你夺走它）</span>
 67,ロウファ/洛法,<span class='scene-font-kokoro'>（必ずやり遂げる。</span><br><span class='scene-font-kokoro'>どれだけの犠牲を払っても……）</span>,<span class='scene-font-kokoro'>（我一定会做到的，<br>不管付出多大的代价……）</span>
-
 68,,<span class='scene-font-katari'>ロウファは誓いを立てるよう、</span><br><span class='scene-font-katari'>ランファを抱く腕に</span><br><span class='scene-font-katari'>強く力を籠める。</span>,<span class='scene-font-katari'>洛法像是对自己发誓一样，<br>用力抱住兰华。</span>
 73,,<span class='scene-font-katari'>悲劇に塗れたふたりの道行を、</span><br><span class='scene-font-katari'>薄闇の中、ただ月光だけが</span><br><span class='scene-font-katari'>照らしているのだった。</span>,<span class='scene-font-katari'>微暗之中，<br>只有月光侵染了两人悲惨的前路。</span>
 info,,,scene_evt200429_cp4_q4_s10
