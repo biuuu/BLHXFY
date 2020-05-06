@@ -6,11 +6,6 @@ const CSV = require('papaparse')
 const path = require('path')
 const pako = require('pako')
 
-const bdsign = {
-  token: 'd0a372e3e02871d51c42606a18702e2b',
-  gtk: '320305.131321201'
-}
-
 const cyweb_token = 't4d0s9zds4fw272poa11'
 
 const Glob = glob.Glob
@@ -142,11 +137,24 @@ const collectVoice = async () => {
   await fse.outputFile('./dist/blhxfy/data/voice.csv', csv)
 }
 
+const getDate = (offset = 0) => {
+  const dt = new Date(Date.now() + (offset * 60 * 60 * 1000))
+  const year = dt.getUTCFullYear()
+  const month = dt.getUTCMonth() + 1
+  const date = dt.getUTCDate()
+  const h = dt.getUTCHours()
+  const m = dt.getUTCMinutes()
+  const sec = dt.getUTCSeconds()
+  const msec = dt.getUTCMilliseconds()
+  return `${year}/${month}/${date} ${h}:${m}:${sec}.${msec}`
+}
+
 const start = async () => {
   await fse.emptyDir('./dist/blhxfy/data/')
   const hash = await md5Dir('./data/')
   console.log(hash)
-  await fse.writeJSON('./dist/blhxfy/manifest.json', { hash, version, bdsign, cyweb_token })
+  const date = getDate(8)
+  await fse.writeJSON('./dist/blhxfy/manifest.json', { hash, version, date, cyweb_token })
 
   console.log('move data files...')
   await fse.copy('./data/', './dist/blhxfy/data/')

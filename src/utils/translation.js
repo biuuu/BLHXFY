@@ -1,10 +1,7 @@
 import request from './request'
 import './fix-url-search-params'
 import UrlSearchParams from 'url-search-params'
-import isString from 'lodash/isString'
 import config from '../config'
-import bdsign from './bdsign'
-import { fetchInfo } from '../fetch'
 import { removeHtmlTag } from './index'
 import caiyunApi from './caiyun'
 
@@ -102,52 +99,11 @@ const googleApi = async (keyword, from = 'ja') => {
   return getTransResult(res)
 }
 
-const bdsApi = async (query, from = 'jp') => {
-  if (from === 'ja') from = 'jp'
-  let formData = new FormData()
-  formData.append('from', from)
-  formData.append('to', 'zh')
-  formData.append('query', query)
-  formData.append('transtype', 'realtime')
-  formData.append('simple_means_flag', '3')
-  formData.append('sign', bdsign(query))
-  formData.append('token', fetchInfo.data.bdsign.token || 'b8441b5ad0953d78dbf4c8829bd226d1')
-  let res = await request(`https://fanyi.baidu.com/v2transapi?from=${from}&to=zh`, {
-    data: formData,
-    method: 'POST',
-    headers: {
-      'accept': '*/*',
-      'referer': 'https://fanyi.baidu.com/translate',
-      'origin':'https://fanyi.baidu.com'
-    }
-  })
-  if (!res.trans_result || !isString(res.trans_result.data[0].dst)) {
-    console.log(res)
-    throw new Error('trans fail')
-  }
-  return res.trans_result.data.map(item => item.dst)
-}
-
 const googleTrans = async (source, from = 'ja') => {
   try {
     let [query, br] = joinText(source)
     let textArr = splitText(query)
     let result = await Promise.all(textArr.map(query => googleApi(query, from)))
-    let list = result.reduce((a, b) => a.concat(b))
-    let transArr = []
-    joinBr(list, br, transArr)
-    return transArr
-  } catch (e) {
-    console.log(e)
-    return []
-  }
-}
-
-const baiduTrans = async (source, from = 'jp') => {
-  try {
-    let [query, br] = joinText(source)
-    let textArr = splitText(query)
-    let result = await Promise.all(textArr.map(query => bdsApi(query, from)))
     let list = result.reduce((a, b) => a.concat(b))
     let transArr = []
     joinBr(list, br, transArr)
