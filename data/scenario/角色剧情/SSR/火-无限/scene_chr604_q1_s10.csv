@@ -3,6 +3,7 @@ id,name,text,trans
 0-synopsis,,姬塔達に連れられ、星屑の街に戻ってきたムゲン。姬塔達から助言を受け、ムゲンは他の人にどんなことが楽しいか尋ねることにする。エッセルやカトル達から答えを貰ったムゲンは他の十天衆にも話を聞きに向かいながら、質問に答えが返ってくることを嬉しく感じる。自分の知らないことを知り、ムゲンの世界は少しずつ広がっていくのだった。,无限被姬塔等人带回了星屑之街。听了姬塔等人出的主意后，无限决定去问别人他们觉得什么样的事会开心。听了艾瑟尔和卡托尔他们的回答后，无限继续去问其他十天众，同时他也对提问能够收到回答这件事感到高兴。知道了自己不知道的事情，无限的世界逐渐开阔了起来。
 1,,<span class='scene-font-katari'>姬塔達の艇に乗って</span><br><span class='scene-font-katari'>星屑の街に戻ってきたムゲン。</span>,<span class='scene-font-katari'>无限乘坐姬塔等人的骑空艇，</span><br><span class='scene-font-katari'>回到了星屑之街。</span>
 2,,<span class='scene-font-katari'>彼の巨躯をみつけたエッセルは</span><br><span class='scene-font-katari'>慌てた様子で一行を出迎えた。</span>,<span class='scene-font-katari'>艾瑟尔看到他巨大的身体，</span><br><span class='scene-font-katari'>慌慌忙忙地出来迎接众人。</span>
+3,,<span class='scene-font-katari'>後片づけのため姬塔達と</span><br><span class='scene-font-katari'>別行動をし、星屑の街に残っていた</span><br><span class='scene-font-katari'>エッセルが一行を出迎えた。</span>,<span class='scene-font-katari'>为了善后而另外行动的艾瑟尔</span><br><span class='scene-font-katari'>出来迎接众人。</span>
 4,エッセル/艾瑟尔,ムゲン……！<br>よかった、帰ってきてくれて……,无限……！<br>太好了，你回来了……
 5,ムゲン/无限,うん！　えーと……,嗯！那个……
 6,ルリア/露莉亚,こういう時は、<br>「ただいま」です！,这种时候，<br>要说“我回来了”！
@@ -37,7 +38,7 @@ id,name,text,trans
 39,エッセル/艾瑟尔,ふふ、ありがとう。<br>ひと針ひと針進めて<br>段々完成に近づくのも楽しいし……,呵呵，谢谢。<br>看着衣服一针一针缝起来<br>慢慢接近完成很开心……
 40,エッセル/艾瑟尔,それに……うん。<br>服とか、リネン類とか……<br>ボロボロでも生きてはいけるよね。,而且……嗯。<br>衣服啊，缎带这种的……<br>就算破破烂烂也能活用。
 41,ムゲン/无限,うん。,嗯。
-42,エッセル/艾瑟尔,だからこそ新しい服を作ったり<br>模様を入れたり……そういう手間を<br>かけられること自体が嬉しいんだ。,所以做衣服啊，加纹路啊，<br>这种要花工夫的事情本身我就很喜欢。
+42,エッセル/艾瑟尔,だからこそ新しい服を作ったり<br>模様を入れたり……そういう手間を<br>かけられること自体が嬉しいんだ。,所以做新衣服啊，加纹路啊，<br>这种要花工夫的事情本身我就很喜欢。
 43,エッセル/艾瑟尔,なんていうのかな……<br>ん……「普通」の暮らし……かな。<br>そういうの。,该怎么说呢……嗯……<br>这种就是，“普通”的生活……吧。
 44,ムゲン/无限,ふつう……<br>……ほか、おんなじ？,普通……<br>……其他，一样？
 45,エッセル/艾瑟尔,そうだね。<br>よくある、とか、ありふれた、とか。<br>でもだからこそ大事なことだと思うよ。,是啊。<br>很常见的，到处都是的。<br>但是我觉得这些才是重要的事。
@@ -50,6 +51,7 @@ id,name,text,trans
 54,カトル/卡托尔,姉さん、入るよ……って……,姐姐，我进来了……嗯？
 55,カトル/卡托尔,ムゲン！？<br>それに、姬塔さんも……？,无限！？<br>还有姬塔……？
 56,,<span class='scene-font-katari'>エッセルの双子の弟カトルは、</span><br><span class='scene-font-katari'>ムゲン達が街にいることに</span><br><span class='scene-font-katari'>驚いた様子を見せる。</span>,<span class='scene-font-katari'>艾瑟尔的双胞胎弟弟卡托尔</span><br><span class='scene-font-katari'>看到无限等人在街上感到很惊讶。</span>
+57,,<span class='scene-font-katari'>街の復興を進めるべく</span><br><span class='scene-font-katari'>姬塔達と離れ街に残っていた</span><br><span class='scene-font-katari'>カトルは、突然の再開に目を丸くする。</span>,<span class='scene-font-katari'>卡托尔为了复兴城市</span><br><span class='scene-font-katari'>离开姬塔等人留在城里，</span><br><span class='scene-font-katari'>突然与众人再会他感到很惊讶。</span>
 58,ムゲン/无限,カトル、たのしい、なに？<br>ムゲン、しりたい！,卡托尔，开心事，什么？<br>无限，想知道！
 59,カトル/卡托尔,はぁ？<br>なんです藪から棒に……,啊？<br>怎么了那么突然……
 60,エッセル/艾瑟尔,ん、ムゲンはね……,嗯，无限他啊……
