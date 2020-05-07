@@ -1,6 +1,6 @@
 id,name,text,trans
-0-chapter_name,,第1話 窮鳥入懐,第1話 窮鳥入懐
-0-synopsis,,最終目標を重要拠点・ザハ市奪還と定め、エルデニ兵達と共にアヨール山脈に展開する前線に赴いたアルタイルは、前線を守る軍師シュラと合流する。かつての上司であるアルタイルとの思いがけぬ再会に驚愕するシュラ。アルタイルはシュラに状況を聞くと、すぐに作戦を指示。森の中に潜むユラントスク軍の兵を誘き寄せると、待機していたエルデニ兵達と共に戦闘を仕掛けるのだった。,将最终目标定为夺回核心据点扎哈市，阿尔泰尔与埃尔德尼士兵一起前往阿约尔山脉内，与正在前线的军师雪拉会合。雪拉对与过去的上官阿尔泰尔的意想不到的会面感到惊讶。阿尔泰尔向雪拉询问情况后立即下达作战指示。他们把尤兰托斯克士兵引到树林里，然后和等在那里的埃尔德尼士兵一起协同作战。
+0-chapter_name,,第1話 窮鳥入懐,
+0-synopsis,,最終目標を重要拠点・ザハ市奪還と定め、エルデニ兵達と共にアヨール山脈に展開する前線に赴いたアルタイルは、前線を守る軍師シュラと合流する。かつての上司であるアルタイルとの思いがけぬ再会に驚愕するシュラ。アルタイルはシュラに状況を聞くと、すぐに作戦を指示。森の中に潜むユラントスク軍の兵を誘き寄せると、待機していたエルデニ兵達と共に戦闘を仕掛けるのだった。,将最终目标定为夺回核心据点扎哈市，阿尔泰尔与埃尔德尼士兵一起前往阿约尔山脉内，与正在前线的军师秋罗会合。秋罗对与过去的上官阿尔泰尔的意想不到的会面感到惊讶。阿尔泰尔向秋罗询问情况后立即下达作战指示。他们把尤兰托斯克士兵引到树林里，然后和等在那里的埃尔德尼士兵一起协同作战。
 2,,<span class='scene-font-katari'>半刻後。砦の前には</span><br><span class='scene-font-katari'>ポラリスによって集められた</span><br><span class='scene-font-katari'>エルデニ兵達が待機していた。</span>,<span class='scene-font-katari'>半小时后。</span><br><span class='scene-font-katari'>堡垒前面等待着</span><br><span class='scene-font-katari'>由珀拉莉丝召集的埃尔德尼士兵们。</span>
 3,,<span class='scene-font-katari'>彼らを前にし、</span><br><span class='scene-font-katari'>堂々たる様子でアルタイルは告げる。</span>,<span class='scene-font-katari'>阿尔泰尔在他们面前，</span><br><span class='scene-font-katari'>表情严肃地宣布。</span>
 4,アルタイル/阿尔泰尔,ザウラ将軍を介しレオニス王より<br>軍師として力を貸すよう依頼を受けた<br>アルタイルです。,受到雷欧尼斯国王的委托，<br>扎乌拉将军带我前来这里，<br>希望我——阿尔泰尔作为军师协力。
@@ -56,28 +56,28 @@ id,name,text,trans
 67,ルリア/露莉亚,わかりました！<br>私、精一杯頑張りますね！,我知道了！<br>我会尽力的！
 68,アルタイル/阿尔泰尔,それと……<br>もし万が一、ユラントスクが<br>星晶獣を用いるようなことがあれば……,另外……<br>如果万一，<br>尤兰托斯克使用星晶兽的话……
 69,アルタイル/阿尔泰尔,その時には、力を貸して頂けますか。<br>反則には反則を以て対処するのが<br>一番ですから。,到时候你能帮我吗？<br>以其人之道还治其人之身，<br>这是最好的方法。
-75,,<span class='scene-font-katari'>山を進み続けること数十分。</span><br><span class='scene-font-katari'>姬塔達はシュラ率いる部隊が</span><br><span class='scene-font-katari'>展開している陣へ辿り着く。</span>,<span class='scene-font-katari'>在山上继续前进数十分钟。</span><br><span class='scene-font-katari'>姬塔他们来到雪拉率领的部队的营地。</span>
-76,シュラ/雪拉,──アルタイル様？,——阿尔泰尔大人？
-77,シュラ/雪拉,伝令にあった増援の客将が、<br>まさか貴方だったとは……,我早已听到传令，<br>但没想到其中说的增援客将竟然是您……
+75,,<span class='scene-font-katari'>山を進み続けること数十分。</span><br><span class='scene-font-katari'>姬塔達はシュラ率いる部隊が</span><br><span class='scene-font-katari'>展開している陣へ辿り着く。</span>,<span class='scene-font-katari'>在山上继续前进数十分钟。</span><br><span class='scene-font-katari'>姬塔他们来到秋罗率领的部队的营地。</span>
+76,シュラ/秋罗,──アルタイル様？,——阿尔泰尔大人？
+77,シュラ/秋罗,伝令にあった増援の客将が、<br>まさか貴方だったとは……,我早已听到传令，<br>但没想到其中说的增援客将竟然是您……
 78,アルタイル/阿尔泰尔,話は後です。相手の状況は？,我们晚点再聊吧，敌人状况如何？
-79,,<span class='scene-font-katari'>厳しく告げるアルタイルに、</span><br><span class='scene-font-katari'>シュラは慌てて姿勢を正し</span><br><span class='scene-font-katari'>現在の状況を共有する。</span>,<span class='scene-font-katari'>面对一脸严肃的阿尔泰尔，</span><br><span class='scene-font-katari'>雪拉赶忙站正，</span><br><span class='scene-font-katari'>说出了现在的状况。</span>
-80,シュラ/雪拉,はっ。<br>先程戻った斥候からの情報を<br>共有致します。,是！<br>向您传达刚才回来的<br>侦察兵的情报。
-85,シュラ/雪拉,二時の方角、約四キロ先から<br>こちらへ向かい敵小隊が進軍中。,两点钟方向，距离我们大约四公里，<br>有一个敌方小队正在前进。
-86,シュラ/雪拉,本隊は十時の方角に中隊がひとつと<br>小隊が３つほど待機中です。,在我们的十点钟方向<br>有一个中队、三个小队在等待。
+79,,<span class='scene-font-katari'>厳しく告げるアルタイルに、</span><br><span class='scene-font-katari'>シュラは慌てて姿勢を正し</span><br><span class='scene-font-katari'>現在の状況を共有する。</span>,<span class='scene-font-katari'>面对一脸严肃的阿尔泰尔，</span><br><span class='scene-font-katari'>秋罗赶忙站正，</span><br><span class='scene-font-katari'>说出了现在的状况。</span>
+80,シュラ/秋罗,はっ。<br>先程戻った斥候からの情報を<br>共有致します。,是！<br>向您传达刚才回来的<br>侦察兵的情报。
+85,シュラ/秋罗,二時の方角、約四キロ先から<br>こちらへ向かい敵小隊が進軍中。,两点钟方向，距离我们大约四公里，<br>有一个敌方小队正在前进。
+86,シュラ/秋罗,本隊は十時の方角に中隊がひとつと<br>小隊が３つほど待機中です。,在我们的十点钟方向<br>有一个中队、三个小队在等待。
 87,アルタイル/阿尔泰尔,二時の方角にいる小隊は<br>敵の斥候部隊ですね？,两点钟方向的敌方小队，<br>是侦察部队吗？
-91,シュラ/雪拉,はっ。<br>人員構成、部隊の規模から見て、<br>斥候部隊で間違いないかと。,是的。<br>从人员配置和部队规模来看，<br>应该是侦察部队。
-92,シュラ/雪拉,しかし、慣れぬ山道と霧のせいで、<br>斥候としての役目を<br>万全には果たせていない様子でした。,但是，由于陌生山路上的雾气，<br>他们似乎没能好好履行侦察兵的职责。
+91,シュラ/秋罗,はっ。<br>人員構成、部隊の規模から見て、<br>斥候部隊で間違いないかと。,是的。<br>从人员配置和部队规模来看，<br>应该是侦察部队。
+92,シュラ/秋罗,しかし、慣れぬ山道と霧のせいで、<br>斥候としての役目を<br>万全には果たせていない様子でした。,但是，由于陌生山路上的雾气，<br>他们似乎没能好好履行侦察兵的职责。
 93,アルタイル/阿尔泰尔,それは良い知らせです。<br>全て想定の通りですね。,这是个好消息。<br>一切都在预料之中。
-94,,<span class='scene-font-katari'>そう言って、アルタイルは</span><br><span class='scene-font-katari'>これから行う作戦について</span><br><span class='scene-font-katari'>手短にシュラに説明する。</span>,<span class='scene-font-katari'>这样说着，</span><br><span class='scene-font-katari'>阿尔泰尔简单地向雪拉说明了</span><br><span class='scene-font-katari'>接下来要采取的作战计划。</span>
-100,シュラ/雪拉,……なるほど。<br>つまり、私達は斥候部隊を<br>この地点に誘導すればいいのですね。,……原来如此。<br>也就是说，<br>我们只需要引导侦察兵来到这个地方。
+94,,<span class='scene-font-katari'>そう言って、アルタイルは</span><br><span class='scene-font-katari'>これから行う作戦について</span><br><span class='scene-font-katari'>手短にシュラに説明する。</span>,<span class='scene-font-katari'>这样说着，</span><br><span class='scene-font-katari'>阿尔泰尔简单地向秋罗说明了</span><br><span class='scene-font-katari'>接下来要采取的作战计划。</span>
+100,シュラ/秋罗,……なるほど。<br>つまり、私達は斥候部隊を<br>この地点に誘導すればいいのですね。,……原来如此。<br>也就是说，<br>我们只需要引导侦察兵来到这个地方。
 101,アルタイル/阿尔泰尔,ええ。時間がありません。<br>すぐにでも作戦を開始します。,是的。<br>就要没时间了，马上开始行动。
-107,,<span class='scene-font-katari'>シュラの部隊が展開する</span><br><span class='scene-font-katari'>エルデニの本営から、</span><br><span class='scene-font-katari'>わずかに離れた山道。</span>,<span class='scene-font-katari'>距离雪拉的部队所在的</span><br><span class='scene-font-katari'>埃尔德尼主营地</span><br><span class='scene-font-katari'>仅仅只有一小段山路。</span>
+107,,<span class='scene-font-katari'>シュラの部隊が展開する</span><br><span class='scene-font-katari'>エルデニの本営から、</span><br><span class='scene-font-katari'>わずかに離れた山道。</span>,<span class='scene-font-katari'>距离秋罗的部队所在的</span><br><span class='scene-font-katari'>埃尔德尼主营地</span><br><span class='scene-font-katari'>仅仅只有一小段山路。</span>
 108,,<span class='scene-font-katari'>そこでは、数十人のユラントスク兵が</span><br><span class='scene-font-katari'>周囲を警戒しながら軍を進めていた。</span>,<span class='scene-font-katari'>在那里，数十名尤兰托斯克士兵</span><br><span class='scene-font-katari'>警戒着周围前进着。</span>
 110,ユラントスク兵１,むっ！？　誰だ！,嗯？！是谁！
 111,エルデニ兵５,…………,…………
 112,ユラントスク兵２,ッ！！<br>敵襲！　敵襲！！<br>来たぞ！　エルデニの残党だ！,! ！<br>敌袭！敌袭！<br>埃尔德尼的余党来了！
 113,,<span class='scene-font-katari'>霧に紛れる数名のエルデニ兵を見つけ、</span><br><span class='scene-font-katari'>ユラントスクの兵士は大声で叫び</span><br><span class='scene-font-katari'>仲間達を呼び寄せる。</span>,<span class='scene-font-katari'>尤兰托斯克的士兵发现了一些埃尔德尼士兵，</span><br><span class='scene-font-katari'>他们在雾中大喊大叫，</span><br><span class='scene-font-katari'>呼唤着同伴。</span>
-115,シュラ/雪拉,<span class='scene-font-4'>全軍に通達！</span><br>以降は作戦通りに指定地点まで<br>撤退しなさい！,<span class='scene-font-4'>通知全军！</span><br>按作战计划撤退到指定地点！
+115,シュラ/秋罗,<span class='scene-font-4'>全軍に通達！</span><br>以降は作戦通りに指定地点まで<br>撤退しなさい！,<span class='scene-font-4'>通知全军！</span><br>按作战计划撤退到指定地点！
 116,ユラントスク兵３,追え！　狩りつくせ！<br>ひとりも逃がすな！！,快追! 快追! <br>一个也别放过! ！
 123,,<span class='scene-font-katari'>エルデニ兵達は、</span><br><span class='scene-font-katari'>戦場の怒号に怯えることなく、</span><br><span class='scene-font-katari'>誘うように森の奥へと逃げていく。</span>,<span class='scene-font-katari'>埃尔德尼士兵们没有被敌军的怒号吓到，像是在引诱一般向森林深处跑去。</span>
 134,,<span class='scene-font-katari'>そうしてユラントスク兵が</span><br><span class='scene-font-katari'>辿り着いたのは</span><br><span class='scene-font-katari'>高い木に囲まれたやや開けた場所。</span>,<span class='scene-font-katari'>于是，尤兰托斯克士兵追逐着他们的猎物，</span><br><span class='scene-font-katari'>来到了一个并不开阔的地方，</span><br><span class='scene-font-katari'>这周围全是高大的树木。</span>

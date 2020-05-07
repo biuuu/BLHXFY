@@ -5,33 +5,33 @@ id,name,text,trans
 3,,<span class='scene-font-katari'>予め危惧されていた通り、</span><br><span class='scene-font-katari'>ついにエルデニ軍の兵站は</span><br><span class='scene-font-katari'>限界に達しつつあった。</span>,<span class='scene-font-katari'>正如所预料的那样，<br>埃尔德尼军队的储备资源终于达到了极限。</span>
 8,,<span class='scene-font-katari'>そのため、エルデニ軍には</span><br><span class='scene-font-katari'>レオニスとルリアをタタル基地に残し、</span><br><span class='scene-font-katari'>ザハ市への進攻を再開させたのだった。</span>,<span class='scene-font-katari'>正因为如此，<br>在把雷欧尼斯和露莉亚留在塔塔尔基地后，<br>埃尔德尼军队恢复了对扎哈市的进攻。</span>
 14,ポラリス/珀拉莉丝,──ユラントスク軍が見えてきたわね。<br>熱烈に歓迎してくれるみたい。<br>全く嬉しくないけど。,我看到尤兰托斯克军队了，<br>就好像在热烈欢迎我们似的。<br>虽然我一点都高兴不起来。
-15,シュラ/雪拉,兵站が底をつくのは、<br>時間の問題でしたから……,资源枯竭只是时间问题，所以……
-16,シュラ/雪拉,ユラントスクも、<br>こちらの動きはある程度<br>予想していたものと思われます。,尤兰托斯克在某种程度上，<br>也预料到了我们的行动。
+15,シュラ/秋罗,兵站が底をつくのは、<br>時間の問題でしたから……,资源枯竭只是时间问题，所以……
+16,シュラ/秋罗,ユラントスクも、<br>こちらの動きはある程度<br>予想していたものと思われます。,尤兰托斯克在某种程度上，<br>也预料到了我们的行动。
 17,ポラリス/珀拉莉丝,そうね……<br>きっとこちらから仕掛ける<br>最後の好機だったのだわ。,是啊……这是动手的最后机会了。
 18,,<span class='scene-font-katari'>エルデニ軍の最前線を預かる部隊で、</span><br><span class='scene-font-katari'>ポラリスはユラントスク軍を</span><br><span class='scene-font-katari'>鋭く睨みつけながら覚悟を固める。</span>,<span class='scene-font-katari'>埃尔德尼军最前线的部队中，<br>珀拉莉丝狠狠地瞪着尤兰托斯克军队，<br>坚定了自己的决心。</span>
-19,ポラリス/珀拉莉丝,さぁ、シュラ。貴方は早く本隊へ。<br>ここからは私の仕事。<br>貴方も貴方の仕事をしないとね。,那，雪拉。你快去本队吧。<br>从这儿开始就是我的工作了，<br>你也得完成你的使命。
-20,シュラ/雪拉,…………,…………
-21,ポラリス/珀拉莉丝,シュラ？,雪拉？
-22,シュラ/雪拉,どうかお気を付けください、<br>ポラリス様。,请务必小心，珀拉莉丝大人。
-23,シュラ/雪拉,エルデニにとってそうであるように、<br>ユラントスクにとっても、<br>ザハ市は重要な拠点です。,不论是对埃尔德尼来说，<br>还是对尤兰托斯克来说，<br>扎哈市都是非常重要的据点。
-24,シュラ/雪拉,ロウファを待機させているように、<br>ユラントスクもまた<br>死力を尽くしてくるはずです。,正如先前尤兰托斯克让洛法在这里待命，<br>他们也会拼尽全力。
+19,ポラリス/珀拉莉丝,さぁ、シュラ。貴方は早く本隊へ。<br>ここからは私の仕事。<br>貴方も貴方の仕事をしないとね。,那，秋罗。你快去本队吧。<br>从这儿开始就是我的工作了，<br>你也得完成你的使命。
+20,シュラ/秋罗,…………,…………
+21,ポラリス/珀拉莉丝,シュラ？,秋罗？
+22,シュラ/秋罗,どうかお気を付けください、<br>ポラリス様。,请务必小心，珀拉莉丝大人。
+23,シュラ/秋罗,エルデニにとってそうであるように、<br>ユラントスクにとっても、<br>ザハ市は重要な拠点です。,不论是对埃尔德尼来说，<br>还是对尤兰托斯克来说，<br>扎哈市都是非常重要的据点。
+24,シュラ/秋罗,ロウファを待機させているように、<br>ユラントスクもまた<br>死力を尽くしてくるはずです。,正如先前尤兰托斯克让罗法在这里待命，<br>他们也会拼尽全力。
 25,ポラリス/珀拉莉丝,それなら尚更、気合を入れて<br>戦いに臨まなくちゃね。,那样的话，更应该鼓起干劲战斗了。
 26,ポラリス/珀拉莉丝,ザハ市が陥落したあの日……<br>多くの部下を失ったもの。<br>彼らの仇をここで討ってやるのだわ。,扎哈市沦陷的那天……<br>我失去了很多部下，<br>我要在这里为他们报仇。
-27,,<span class='scene-font-katari'>気合の入った表情のポラリスに、</span><br><span class='scene-font-katari'>シュラは不安げな色を滲ませる。</span>,<span class='scene-font-katari'>看着脸上充满干劲的珀拉莉丝，<br>雪拉透出不安的神色。</span>
-28,,<span class='scene-font-katari'>それに気付いたポラリスは、</span><br><span class='scene-font-katari'>苦笑しながらシュラの顔を</span><br><span class='scene-font-katari'>覗き込んだ。</span>,<span class='scene-font-katari'>注意到这一点的珀拉莉丝，<br>苦笑着看着雪拉。</span>
-29,ポラリス/珀拉莉丝,もう、シュラったら！<br>戦いの前に軍師がそんな顔をしたら、<br>皆が不安がるのだわ！,雪拉你啊……<br>在战斗之前，军师就露出这种表情，<br>大家都会感到不安的！
-30,シュラ/雪拉,あ……<br>も、申し訳ございません！,啊……真是对不起！
-31,シュラ/雪拉,心配……というより、不安なのです。<br>この状況で戦いに臨むということが。,担心……与其说是担心，<br>不如说是不安吧。<br>毕竟要在这种状况下参战。
+27,,<span class='scene-font-katari'>気合の入った表情のポラリスに、</span><br><span class='scene-font-katari'>シュラは不安げな色を滲ませる。</span>,<span class='scene-font-katari'>看着脸上充满干劲的珀拉莉丝，<br>秋罗透出不安的神色。</span>
+28,,<span class='scene-font-katari'>それに気付いたポラリスは、</span><br><span class='scene-font-katari'>苦笑しながらシュラの顔を</span><br><span class='scene-font-katari'>覗き込んだ。</span>,<span class='scene-font-katari'>注意到这一点的珀拉莉丝，<br>苦笑着看着秋罗。</span>
+29,ポラリス/珀拉莉丝,もう、シュラったら！<br>戦いの前に軍師がそんな顔をしたら、<br>皆が不安がるのだわ！,秋罗你啊……<br>在战斗之前，军师就露出这种表情，<br>大家都会感到不安的！
+30,シュラ/秋罗,あ……<br>も、申し訳ございません！,啊……真是对不起！
+31,シュラ/秋罗,心配……というより、不安なのです。<br>この状況で戦いに臨むということが。,担心……与其说是担心，<br>不如说是不安吧。<br>毕竟要在这种状况下参战。
 32,ポラリス/珀拉莉丝,そうねぇ……結局兵の士気も<br>戻っていないし、それ以外にも<br>不安な要素は沢山あるわ。,是啊……结果士兵的士气也没有恢复，<br>除此之外还有很多不安的要素。
 33,ポラリス/珀拉莉丝,でも、だからと言って<br>負けた訳じゃないのだわ！<br>最後まで足掻き続けてやるんだから！,但这并不意味着我们就输了！<br>我会一直坚持到最后的！
-34,,<span class='scene-font-katari'>努めて明るくそう告げるポラリスに、</span><br><span class='scene-font-katari'>シュラは少しだけ表情を和らげる。</span>,<span class='scene-font-katari'>看着努力用明朗的语气<br>说出这句话的珀拉莉丝，<br>雪拉的表情稍微缓和了一些。</span>
-35,シュラ/雪拉,まだまだ私も未熟ですね。<br>この程度の不安すら振り払うことが<br>出来ないなんて。,我还是不够成熟啊，<br>连这种程度的不安都无法消除。
-36,ポラリス/珀拉莉丝,それはそれで、シュラの良さなのだわ。<br>不安を抱いているからこそ、<br>決して無謀な策を立てたりしないもの。,这就是雪拉的优点，<br>正因为常有不安全感，<br>所以你绝对不会制定鲁莽的计划。
-37,ポラリス/珀拉莉丝,絶対に勝ちましょう、シュラ。<br>私達の未来のために！,我们一定要赢，雪拉。<br>为了我们的未来！
+34,,<span class='scene-font-katari'>努めて明るくそう告げるポラリスに、</span><br><span class='scene-font-katari'>シュラは少しだけ表情を和らげる。</span>,<span class='scene-font-katari'>看着努力用明朗的语气<br>说出这句话的珀拉莉丝，<br>秋罗的表情稍微缓和了一些。</span>
+35,シュラ/秋罗,まだまだ私も未熟ですね。<br>この程度の不安すら振り払うことが<br>出来ないなんて。,我还是不够成熟啊，<br>连这种程度的不安都无法消除。
+36,ポラリス/珀拉莉丝,それはそれで、シュラの良さなのだわ。<br>不安を抱いているからこそ、<br>決して無謀な策を立てたりしないもの。,这就是秋罗的优点，<br>正因为常有不安全感，<br>所以你绝对不会制定鲁莽的计划。
+37,ポラリス/珀拉莉丝,絶対に勝ちましょう、シュラ。<br>私達の未来のために！,我们一定要赢，秋罗。<br>为了我们的未来！
 38,ポラリス/珀拉莉丝,そして、戦いが終わったら<br>今度はお酒でお祝いしましょう！<br>とっておきの果実酒を用意するのだわ！,然后，在战斗结束后，<br>让我们用酒来庆祝吧！<br>我会准备特别的果酒哦！
-39,シュラ/雪拉,はい！<br>楽しみにしておりますね。,嗯！我很期待。
-40,,<span class='scene-font-katari'>シュラはポラリスに励まされ、</span><br><span class='scene-font-katari'>強い決意を秘めた瞳で頷き返す。</span>,<span class='scene-font-katari'>雪拉在珀拉莉丝的鼓励下，<br>充满决心地点了点头。</span>
-41,,<span class='scene-font-katari'>その様子に満足したポラリスは、</span><br><span class='scene-font-katari'>シュラへ満面の笑みを贈り、</span><br><span class='scene-font-katari'>決戦へと臨むのだった。</span>,<span class='scene-font-katari'>珀拉莉丝向雪拉报以满意的笑容，<br>前往了决战的战场。</span>
+39,シュラ/秋罗,はい！<br>楽しみにしておりますね。,嗯！我很期待。
+40,,<span class='scene-font-katari'>シュラはポラリスに励まされ、</span><br><span class='scene-font-katari'>強い決意を秘めた瞳で頷き返す。</span>,<span class='scene-font-katari'>秋罗在珀拉莉丝的鼓励下，<br>充满决心地点了点头。</span>
+41,,<span class='scene-font-katari'>その様子に満足したポラリスは、</span><br><span class='scene-font-katari'>シュラへ満面の笑みを贈り、</span><br><span class='scene-font-katari'>決戦へと臨むのだった。</span>,<span class='scene-font-katari'>珀拉莉丝向秋罗报以满意的笑容，<br>前往了决战的战场。</span>
 48,,<span class='scene-font-katari'>ポラリス率いる前線部隊と、</span><br><span class='scene-font-katari'>第三王子エリクが率いる部隊が衝突し、</span><br><span class='scene-font-katari'>ついに戦端が開かれる。</span>,<span class='scene-font-katari'>她领导的前线部队率先与<br>第三王子埃里克领导的部队发生了冲突，<br>拉开了战斗的序幕。</span>
 49,,<span class='scene-font-katari'>好戦的なエリクの部隊を正面に配し、</span><br><span class='scene-font-katari'>そこに兵を固めることで、</span><br><span class='scene-font-katari'>一点突破を狙うユラントスク軍。</span>,<span class='scene-font-katari'>敌军正前方就是好战的埃里克率领的部队，<br>尤兰托斯克在那里集结兵力，<br>企图以点突破。</span>
 51,,<span class='scene-font-katari'>対しエルデニ軍はザウラが東側を、</span><br><span class='scene-font-katari'>アルタイル達が西側の部隊を率い、</span><br><span class='scene-font-katari'>敵を取り囲むように兵を動かしていく。</span>,<span class='scene-font-katari'>埃尔德尼的军队方面，<br>则由扎乌拉前往东侧、<br>阿尔泰尔带领西面的部队包围敌人。</span>
@@ -92,7 +92,7 @@ id,name,text,trans
 139,,<span class='scene-font-katari'>しかし、</span><br><span class='scene-font-katari'>エリクはユラントスク兵に拘束され、</span><br><span class='scene-font-katari'>無理やり戦線から撤退させられる。</span>,<span class='scene-font-katari'>但是他很快就被尤兰托斯克士兵带走，<br>被迫退出了战线。</span>
 140,,<span class='scene-font-katari'>将たるエリクが退いたことで、</span><br><span class='scene-font-katari'>エリク率いる部隊も撤退していく様子を</span><br><span class='scene-font-katari'>ポラリスはぼんやりと眺めていた。</span>,<span class='scene-font-katari'>随着将军埃里克的撤退，<br>埃里克率领的部队也开始撤退。<br>珀拉莉丝呆呆地注视着这一切。</span>
 141,ポラリス/珀拉莉丝,ふふ、ざまぁ……みなさい……<br>討ち取ることは……<br>出来なかったけど……,哼，他这是……活该啊……<br>虽然……没能打倒他……
-145,ポラリス/珀拉莉丝,ごめんね、シュラ。<br>ザウラ……レオニス……,对不起，雪拉。<br>扎乌拉……雷欧尼斯……
+145,ポラリス/珀拉莉丝,ごめんね、シュラ。<br>ザウラ……レオニス……,对不起，秋罗。<br>扎乌拉……雷欧尼斯……
 146,ポラリス/珀拉莉丝,果実酒……<br>折角、大事に……<br>取っておいたのに……,果酒……好不容易……<br>好好……保管了……
 147,ポラリス/珀拉莉丝,無駄に……なっちゃったな……,这样就……浪费了……啊……
 148,,<span class='scene-font-katari'>そう小さく呟くと共に、</span><br><span class='scene-font-katari'>ポラリスの双眸からは</span><br><span class='scene-font-katari'>光が失われる。</span>,<span class='scene-font-katari'>喃喃自语的同时，<br>珀拉莉丝的眼眸失去了光芒。</span>

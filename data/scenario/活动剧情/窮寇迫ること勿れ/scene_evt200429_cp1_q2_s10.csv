@@ -1,5 +1,5 @@
 id,name,text,trans
-0-chapter_name,,第1話 窮鳥入懐,第1話 窮鳥入懐
+0-chapter_name,,第1話 窮鳥入懐,
 0-synopsis,,アヨール基地を訪れた姬塔一行を出迎えたのは、エルデニの将ポラリスと士気を失った兵達だった。ポラリスから聞かされた前線を食い止めているエルデニの軍師の名が、かつての自分の部下であることに疑問を抱くアルタイル。しかしまずはこの状況を打破するのが先だと考え、アルタイルはポラリスに僅かな兵を待機させるよう指示するのだった。,迎接来到阿约尔基地的姬塔一行人的，是埃尔德尼军队的将军珀拉莉丝和士气低落的士兵们。 从珀拉莉丝处得知，埃尔德尼的军师是过去自己的部下，阿尔泰尔虽有疑问，但他首先准备打破这种士气低下的状况。于是阿尔泰尔指示珀拉莉丝派遣一小部分兵力待命。
 1,,<span class='scene-font-katari'>ザハ市より南。</span><br><span class='scene-font-katari'>ヌフ平原を越えた先には、</span><br><span class='scene-font-katari'>エルデニの首都を囲う山脈が聳える。</span>,<span class='scene-font-katari'>扎哈市以南。</span><br><span class='scene-font-katari'>穿过努夫平原，</span><br><span class='scene-font-katari'>便是耸立在埃尔德尼首都周围的山脉。</span>
 5,,<span class='scene-font-katari'>アヨール山脈と呼ばれるその山々は、</span><br><span class='scene-font-katari'>年中霧深く、複雑な森の植生もあり、</span><br><span class='scene-font-katari'>自然の要塞とも称される。</span>,<span class='scene-font-katari'>这些山脉被称为阿约尔山脉，</span><br><span class='scene-font-katari'>一年四季雾气弥漫，有复杂的森林植被，</span><br><span class='scene-font-katari'>因此也被称为自然要塞。</span>
@@ -47,8 +47,8 @@ id,name,text,trans
 55,,<span class='scene-font-katari'>スフィリアとは、</span><br><span class='scene-font-katari'>かつてアルタイルが軍師として</span><br><span class='scene-font-katari'>名を馳せた国だった。</span>,<span class='scene-font-katari'>阿尔泰尔过去</span><br><span class='scene-font-katari'>曾作为斯非利亚的军师名扬天下。</span>
 56,,<span class='scene-font-katari'>思いがけない名前が</span><br><span class='scene-font-katari'>飛び出したことに驚きつつも、</span><br><span class='scene-font-katari'>アルタイルは静かに尋ねる。</span>,<span class='scene-font-katari'>虽然对意想不到的名字</span><br><span class='scene-font-katari'>突然冒出来而感到惊讶，</span><br><span class='scene-font-katari'>阿尔泰尔依旧平静地问。</span>
 57,アルタイル/阿尔泰尔,その軍師殿の名前をお聞きしても？,能问一下那位军师的名字吗？
-58,ポラリス/珀拉莉丝,シュラ。<br>それが彼女の名前。<br>聞いたことはある？,雪拉。<br>这是她的名字。<br>您听说过吗？
-59,アルタイル/阿尔泰尔,シュラ……？<br>彼女ならスフィリア軍で、<br>私の部下でしたが……,雪拉……？<br>如果是她的话，<br>她是我在斯菲利亚军队时的部下……
+58,ポラリス/珀拉莉丝,シュラ。<br>それが彼女の名前。<br>聞いたことはある？,秋罗。<br>这是她的名字。<br>您听说过吗？
+59,アルタイル/阿尔泰尔,シュラ……？<br>彼女ならスフィリア軍で、<br>私の部下でしたが……,秋罗……？<br>如果是她的话，<br>她是我在斯菲利亚军队时的部下……
 60,アルタイル/阿尔泰尔,<span class='scene-font-kokoro'>（妙ですね。</span><br><span class='scene-font-kokoro'>彼女はエルデニに</span><br><span class='scene-font-kokoro'>縁は無かったはず……）</span>,<span class='scene-font-kokoro'>（真奇怪啊。</span><br><span class='scene-font-kokoro'>她跟埃尔德尼理应毫不沾边才对……）</span>
 61,ルリア/露莉亚,アルタイルさん？<br>どうしました？,阿尔泰尔先生？<br>怎么了吗？
 62,アルタイル/阿尔泰尔,いえ……話題がそれてしまいましたね。<br>戦況の確認を続けましょう。,没什么……这个话题先到此为止。<br>我们继续确认现在的战况。
@@ -67,7 +67,7 @@ id,name,text,trans
 75,アルタイル/阿尔泰尔,ありがとうございます、十分です。,谢谢，这些情报就足够了。
 76,,<span class='scene-font-katari'>状況の確認を終えたアルタイルは、</span><br><span class='scene-font-katari'>方針が固まった様子で</span><br><span class='scene-font-katari'>ポラリスに指示を投げる。</span>,<span class='scene-font-katari'>完成情报确认的阿尔泰尔</span><br><span class='scene-font-katari'>以确认好了战术的笃定神情</span><br><span class='scene-font-katari'>向珀拉莉丝发出指示。</span>
 77,アルタイル/阿尔泰尔,ポラリス殿。<br>動ける兵の中でも、山に詳しい者を<br>二十名ほど待機させてください。,珀拉莉丝殿下。<br>请在还能出动的士兵中<br>选出二十个熟悉这座山的准备待命。
-78,アルタイル/阿尔泰尔,半刻後に出陣し、<br>シュラの部隊に合流します。,半小时后出阵，<br>准备与雪拉的部队会合。
+78,アルタイル/阿尔泰尔,半刻後に出陣し、<br>シュラの部隊に合流します。,半小时后出阵，<br>准备与秋罗的部队会合。
 79,ポラリス/珀拉莉丝,二十？　そのくらいなら<br>すぐに集められるけれど……<br>そんな少人数で良いの？,二十人？这种程度的话<br>倒是马上就能凑齐了……<br>这么少的人就可以了吗？
 80,アルタイル/阿尔泰尔,ええ。それだけの手勢を頂ければ、<br>私には十分です。,是的。就这些，<br>对我来说就足够了。
 81,アルタイル/阿尔泰尔,天の与うるを取らざれば、<br>反ってその咎めを受く。,天与不取，反受其咎。
