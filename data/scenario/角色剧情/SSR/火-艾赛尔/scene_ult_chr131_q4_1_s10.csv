@@ -17,7 +17,7 @@ id,name,text,trans
 17,カトル/卡托尔,……姉さん。<br>正気かい？,……姐姐。<br>你认真的？
 18,エッセル/艾瑟尔,弟妹達を守るために、<br>仕方ないのなら……<br>私は、貴方を手にかける。,如果为了保护弟妹没有其他办法的话……<br>我来，对你动手。
 19,カトル/卡托尔,ハッ……ハハッ、そう。<br>急にどうしちゃったのか<br>知らないけどさ……,哈……哈哈，是吗。<br>虽然不知道你突然发生了什么……
-20,カトル/卡托尔,姉さんにしては面白い冗談だよ……<br>やれるもんならやってみろよ、<br>臆病者のエッセルがさぁ！！,姐姐可真是开了个有趣的玩笑……<br>做得到的话就来试试看啊，胆小鬼艾瑟尔！！
+20,カトル/卡托尔,姉さんにしては面白い冗談だよ……<br>やれるもんならやってみろよ、<br>臆病者のエッセルがさぁ！！,姐姐可真是开了个有趣的玩笑……<br>做得到的话就来试试看啊，<br>胆小鬼艾瑟尔！！
 21,カトル/卡托尔,<span class='scene-font-kokoro'>（くっ……誰かに幻術でも</span><br><span class='scene-font-kokoro'>かけられたのか？）</span>,<span class='scene-font-kokoro'>（咕……是被谁施加了幻术吗？）</span>
 22,カトル/卡托尔,<span class='scene-font-kokoro'>（だが今は僕がやるしかない……</span><br><span class='scene-font-kokoro'>くるっ……！！）</span>,<span class='scene-font-kokoro'>（但是现在只有我来做了……</span><br><span class='scene-font-kokoro'>来了……！！）</span>
 info,,,scene_ult_chr131_q4_1_s10
