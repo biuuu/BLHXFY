@@ -9,7 +9,7 @@ let loaded = false
 
 const getBattleNote = async () => {
   if (!loaded) {
-    let csv = await getLocalData('battle-note')
+    let csv = await getLocalData('battle/battle-note')
     if (!csv) {
       csv = await fetchData('/blhxfy/data/battle/battle-note.csv')
       setLocalData('battle-note', csv)

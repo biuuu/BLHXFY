@@ -9,7 +9,7 @@ let loaded = false
 
 const getBossName = async () => {
   if (!loaded) {
-    let csv = await getLocalData('boss-name')
+    let csv = await getLocalData('battle/boss-name')
     if (!csv) {
       csv = await fetchData('/blhxfy/data/battle/boss-name.csv')
       let csvNpc = await fetchData('/blhxfy/data/npc-name-jp.csv')

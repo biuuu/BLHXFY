@@ -39,7 +39,7 @@ const state = {
 
 const getCommSkillMap = async () => {
   if (state.cStatus === 'loaded') return
-  let csvData = await getLocalData('comm-skill')
+  let csvData = await getLocalData('common-skill')
   if (!csvData) {
     csvData = await fetchData('/blhxfy/data/common-skill.csv')
     setLocalData('comm-skill', csvData)
