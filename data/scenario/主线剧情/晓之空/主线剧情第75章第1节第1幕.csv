@@ -1,11 +1,11 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-chapter_name,75: Trial of Ice and Wind,第75章　極地の試練,第75章极地的试炼
 0-synopsis,Monika informs Lecia that she received a request to capture the crew and disband them within the borders of Phantagrande.,ひとりアマルティア島へと戻ったリーシャ。モニカがリーシャを呼び戻した理由は、七曜の騎士のひとりからイスタバイオン王国を経由して寄せられた依頼であるという。その内容は、空域内での影響力を強めた姬塔の騎空団を捕えて解散させよというものであり、しかしファータ・グランデ空域を出れば不問にするともとれる内容に二人は不穏な意図を感じるのだった。,莉夏独自返回了阿玛提亚岛。莫妮卡将莉夏召回的原因是从某位七曜骑士经由伊斯塔拜昂王国向秩序骑空团发出了该委托，委托内容虽然是将在该空域影响力巨大的姬塔的骑空团逮捕并使之解散，但是如果他们离开了法塔空域就不再过问，对于这一内容两人感觉有种不对劲的预感。
 0,姬塔 and the crew trudge on through the wind and snow of Silverwind Stretch. Meanwhile...,<span class='scene-font-katari'>姬塔一行が、</span><br><span class='scene-font-katari'>風雪吹きすさぶ</span><br><span class='scene-font-place'>白風の境</span><span class='scene-font-katari'>を進んでいたその頃。</span>,<span class='scene-font-katari'>正当姬塔等人在风雪交加的</span><span class='scene-font-place'>白风之境</span><span class='scene-font-katari'>上前进时。</span>
 3,"Lecia arrives on Amalthea Island, where an officer of small stature is waiting to greet her.",<span class='scene-font-place'>アマルティア島</span><span class='scene-font-katari'>に到着した</span><br><span class='scene-font-katari'>リーシャを乗せた騎空艇を、</span><br><span class='scene-font-katari'>小さな影が出迎えていた。</span>,<span class='scene-font-katari'>莉夏已经乘坐骑空艇降落到了</span><span class='scene-font-place'>阿玛提亚岛</span><span class='scene-font-katari'>上，此时一个小小的身影出来迎接。</span>
 4,Lecia! Glad you made it. Sorry for calling you here without disclosing the details.,リーシャ！　よく来てくれた……<br>事情も知らせず、<br>無理を言ってすまなかったな。,莉夏，你能来真是太好了！很抱歉没有告诉你实情就提出了这个强人所难的要求。
-5,"Monika, what's going on here? Is it about my father?",モニカさん……<br>いったい何があったんですか？<br>まさか父さんが……？,莫妮卡到底发生什么了？难道说父亲大人他...
-6,"No, Captain Walfried has nothing to do with it... I think.",いや、ヴァルフリート団長は<br>関係ない……ハズだ。,不，和瓦佛利特团长没关系...应该是这样的。
+5,"Monika, what's going on here? Is it about my father?",モニカさん……<br>いったい何があったんですか？<br>まさか父さんが……？,莫妮卡到底发生什么了？难道说父亲大人他…
+6,"No, Captain Walfried has nothing to do with it... I think.",いや、ヴァルフリート団長は<br>関係ない……ハズだ。,不，和瓦佛利特团长没关系…应该是这样的。
 7,You think?,……ハズ？,……应该？
 8,We can't talk here. Let's get inside first.,とにかくここでは話しにくい。<br>まずは中に入ってくれ。,总之这里不便说，先进里面去吧。
 13,"After a quick check of their surroundings, they enter a room. Monika takes a deep breath and begins speaking.",<span class='scene-font-katari'>周囲を確認しながら部屋に入り、</span><br><span class='scene-font-katari'>一度大きく息を吐いてから、</span><br><span class='scene-font-katari'>モニカは話し始める。</span>,<span class='scene-font-katari'>确认周围之后，两人走进屋中，莫妮卡先是大大吐了口气，然后说道。</span>
@@ -51,3 +51,4 @@
 53,"Monika and Lecia stand there for a moment, each with a puzzled look.",<span class='scene-font-katari'>至った結論に、</span><br><span class='scene-font-katari'>モニカとリーシャは揃って首を傾げる。</span>,<span class='scene-font-katari'>莫妮卡和莉夏静驻，对于得到的结论思考着。</span>
 54,Both of them are anxious at the possibility of someone sinister acting behind the scenes.,<span class='scene-font-katari'>しかし、密かに世界を操る</span><br><span class='scene-font-katari'>その何者かの暗躍に、</span><br><span class='scene-font-katari'>二人は薄ら寒いものを感じるのだった。</span>,<span class='scene-font-katari'>但是对于秘密操纵着世界的某个人的幕后活跃，两人都感到有点不寒而栗。</span>
 info,1,1,scene_cp75_q1_s10
+,,,

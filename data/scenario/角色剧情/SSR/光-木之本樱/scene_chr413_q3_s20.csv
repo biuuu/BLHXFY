@@ -1,11 +1,11 @@
 id,name,text,trans
 0-chapter_name,,さくらと魔女さんの薬草,小樱与魔女的草药
-0-synopsis,,さくらは老婆の部屋で、つやつやのケロちゃんを目にする。何でも老婆が淹れた真っ赤なお茶には、美しさと洗練された魅力を引き出す効果があるという。姬塔達は老婆から魔法に対する心構えを教わりながら、おいしいお茶になごむ。さくらは、この後に待ち受ける大きな試練を前に、束の間のひととき英気を養うのだった。,さくらは老婆の部屋で、つやつやのケロちゃんを目にする。何でも老婆が淹れた真っ赤なお茶には、美しさと洗練された魅力を引き出す効果があるという。姬塔達は老婆から魔法に対する心構えを教わりながら、おいしいお茶になごむ。さくらは、この後に待ち受ける大きな試練を前に、束の間のひととき英気を養うのだった。
+0-synopsis,,さくらは老婆の部屋で、つやつやのケロちゃんを目にする。何でも老婆が淹れた真っ赤なお茶には、美しさと洗練された魅力を引き出す効果があるという。姬塔達は老婆から魔法に対する心構えを教わりながら、おいしいお茶になごむ。さくらは、この後に待ち受ける大きな試練を前に、束の間のひととき英気を養うのだった。,さくらは老婆の部屋で、つやつやのケロを目にする。何でも老婆が淹れた真っ赤なお茶には、美しさと洗練された魅力を引き出す効果があるという。姬塔達は老婆から魔法に対する心構えを教わりながら、おいしいお茶になごむ。さくらは、この後に待ち受ける大きな試練を前に、束の間のひととき英気を養うのだった。
 2,ケロちゃん,おお、戻ってきたんか！<br>ようやったで、さくら！,哦哦，你们回来了啊！<br>干的漂亮，小樱！
-3,さくら,ケロちゃん、ここにいたのね！,可鲁ちゃん，你在这里啊！
+3,さくら,ケロちゃん、ここにいたのね！,可鲁，你在这里啊！
 4,さくら,でも、なんかすごく<br>つやつやになってる……！？,但是，你是不是<br>毛发光亮了不少……！？
-5,ケロちゃん,お？<br>わかるかー？<br>わいの魅力が急上昇しとるのが！,哦？<br>能看出来吗ー？<br>看来我的魅力急剧上升啊！
-6,ルリア/露莉亚,ケロちゃんさん、<br>すごくキラキラしてますね！,可鲁さん，<br>你浑身都闪闪发光啊！
+5,ケロちゃん,お？<br>わかるかー？<br>わいの魅力が急上昇しとるのが！,哦？<br>能看出来吗？<br>看来我的魅力急剧上升啊！
+6,ルリア/露莉亚,ケロちゃんさん、<br>すごくキラキラしてますね！,可鲁，<br>你浑身都闪闪发光啊！
 7,ビィ/碧,なんか、手入れが行き届いた<br>ネコ……じゃねぇ何かみてぇだな。,就像是，保养的很好的<br>猫……之类的东西吧。
 8,老婆/老婆婆,ふふふ。<br>その秘密はこのお茶だよ。<br>さぁどうぞ。,呵呵呵。<br>秘密在这杯茶里。<br>请吧。
 10,ビィ/碧,んなっ！？<br>すげぇ真っ赤な茶だな！,嗯！？<br>这茶好厉害，全红的啊！
@@ -22,7 +22,7 @@ id,name,text,trans
 21,老婆/老婆婆,貴方もね。,你也是。
 22,ケロちゃん,ばあさんが腰が痛い言うて<br>できひんいうから、かわりに<br>わいが挽いてやったんや！,老婆婆说她腰疼<br>不能做茶，所以<br>我就替她做了！
 23,ケロちゃん,ありがたーく飲むんやで！,你就感激地喝下吧！
-24,,<span class='scene-font-katari'>老婆とケロちゃんに</span><br><span class='scene-font-katari'>勧められたお茶に</span><br><span class='scene-font-katari'>口をつけると──</span>,<span class='scene-font-katari'>喝下老婆婆和可鲁ちゃん</span><br><span class='scene-font-katari'>极力推荐的茶后──</span>
+24,,<span class='scene-font-katari'>老婆とケロちゃんに</span><br><span class='scene-font-katari'>勧められたお茶に</span><br><span class='scene-font-katari'>口をつけると──</span>,<span class='scene-font-katari'>喝下老婆婆和可鲁</span><br><span class='scene-font-katari'>极力推荐的茶后──</span>
 25,さくら,わぁ……！<br>なんだか、ぽかぽかしてくる……！,哈……！<br>感觉，身体暖暖的（翻译吐槽：39胃泰！）……！
 26,ケロちゃん,せやろ！<br>ええよな～この茶！,对吧！<br>真好啊～这个茶！
 27,ルリア/露莉亚,ほんとうですね！,真的啊！
@@ -33,7 +33,7 @@ id,name,text,trans
 32,老婆/老婆婆,ふふ。小さな魔女さんがこれから<br>どんなすごい魔女になるか……<br>とても楽しみだね。,呵呵。年幼的魔女小姐<br>之后会成长为怎样厉害的魔女呢……<br>真是令人期待啊。
 33,老婆/老婆婆,頼もしい獣さんもそばに<br>いることだしね。,还有可靠的<br>兽先生跟着。
 34,ケロちゃん,お！<br>ばあさんは話がわかるなぁ～,哦！<br>老婆婆你真懂啊～
-35,,<span class='scene-font-katari'>魔法に対する心構えを教わり、</span><br><span class='scene-font-katari'>おいしいお茶になごむ</span><br><span class='scene-font-katari'>姬塔達。</span>,<span class='scene-font-katari'>在未知的巨大的试炼</span><br><span class='scene-font-katari'>来到之前......</span>
+35,,<span class='scene-font-katari'>魔法に対する心構えを教わり、</span><br><span class='scene-font-katari'>おいしいお茶になごむ</span><br><span class='scene-font-katari'>姬塔達。</span>,<span class='scene-font-katari'>在未知的巨大的试炼</span><br><span class='scene-font-katari'>来到之前……</span>
 36,,<span class='scene-font-katari'>この後に待ち受ける、</span><br><span class='scene-font-katari'>まだ見ぬ大きな試練を前に……</span>,<span class='scene-font-katari'>姬塔一行被美味的茶所温暖，</span><br><span class='scene-font-katari'>知晓了对待魔法的心情。</span>
 37,,<span class='scene-font-katari'>束の間のひとときで</span><br><span class='scene-font-katari'>英気を養うさくらなのだった。</span>,<span class='scene-font-katari'>小樱则在为数不多的日子里，</span><br><span class='scene-font-katari'>韬光养晦。</span>
 info,,麻友桑的话筒,scene_chr413_q3_s20

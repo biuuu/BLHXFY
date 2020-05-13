@@ -52,7 +52,7 @@ id,en,jp,trans
 53,,<span class='scene-font-katari'>親切すぎると</span><br><span class='scene-font-katari'>イルザは考えていた。</span>,<span class='scene-font-katari'>伊尔莎觉得他太过亲切了。</span>
 54,,<span class='scene-font-katari'>新設隊優遇の風潮を考えても</span><br><span class='scene-font-katari'>契約者のことを思って任務を与える</span><br><span class='scene-font-katari'>のは不自然だと彼女は思った。</span>,<span class='scene-font-katari'>即使考虑到优待新设部队的潮流，她也觉得为契约者着想给予他们任务是很不自然的事。</span>
 55,,<span class='scene-font-kokoro'>（だが、まだ組織の切り札は契約者だ。</span><br><span class='scene-font-kokoro'>我々に万が一のことがあれば、</span><br><span class='scene-font-kokoro'>組織にとっても大きな損失になる）</span>,<span class='scene-font-kokoro'>（但是，组织的王牌仍然是契约者。如果我们有什么万一，对组织来说也会是巨大的损失）</span>
-56,,<span class='scene-font-kokoro'>（フン……</span><br><span class='scene-font-kokoro'>さすがに私の思い過ごしか……）</span>,<span class='scene-font-kokoro'>（嗯…….大概是我多想了吧……）</span>
+56,,<span class='scene-font-kokoro'>（フン……</span><br><span class='scene-font-kokoro'>さすがに私の思い過ごしか……）</span>,<span class='scene-font-kokoro'>（嗯……大概是我多想了吧……）</span>
 57,,承知しました。<br>ご配慮、感謝します。,了解了。感谢您的关怀。
 58,,では、訓練に戻れ。,那么，回去训练吧。
 59,,はっ。,遵命。
@@ -128,3 +128,4 @@ id,en,jp,trans
 154,,…………<br><span class='scene-font-kokoro'>（無理と我慢の区別のつかない奴が</span><br><span class='scene-font-kokoro'>いるから、訓練も楽じゃない）</span>,<span class='scene-font-kokoro'>…………（就因为有无法区分勉强和忍耐的人在，所以训练也不容易）</span>
 155,,<span class='scene-font-katari'>こうしてイルザの厳しい訓練は</span><br><span class='scene-font-katari'>日没まで続けられるのだった。</span>,<span class='scene-font-katari'>就这样，伊尔莎的严格训练一直持续到日落。</span>
 info,,1,scene_fate_chr434_ep1
+,,,

@@ -2,7 +2,7 @@ id,设计稿,text,trans
 0-chapter_name,,第3話 だらけ～の,慵懒的对话
 0-synopsis,,女子部屋についての妄想を膨らませていると、ルナールから声をかけられたローアイン達。絵物語の新作に行き詰まっており、アイディアを求めているという。ふたたび始めた妄想の中で、ローアインは主人公となり、ゴリラやマッチョと戦うことに。そして一度は倒したゴリラとマッチョは唐突に合体し、ゴリマッチョとなって襲い掛かってくるのだった。,就在罗艾因等人的女生房间妄想继续的时候，露娜露过来搭话了。原来是因为连环画的新作品创作卡住了，希望他们能提供些点子。再一次开始的妄想之中，罗艾因等人自己成为了主角，与猩猩和肌肉兄贵展开了战斗。然而一度被打倒的猩猩和肌肉兄贵居然合体成为了猩猩肌肉兄贵再度袭来。
 1,,<span class='scene-font-katari'>昼下がりの喫茶店、</span><br><span class='scene-font-katari'>漂うコーヒーの香りに</span><br><span class='scene-font-katari'>ローアイン達の声が混じる。</span>,<span class='scene-font-katari'>在午后的咖啡店中，</span><br><span class='scene-font-katari'>飘荡着咖啡的香味</span><br><span class='scene-font-katari'>同时混杂着罗艾因等人的声音。</span>
-2,ローアイン/罗艾因,いやー……<br>やっぱすげえわカリさん。,唉呀ー……<br>果然厉害啊卡莉奥斯特萝酱。
+2,ローアイン/罗艾因,いやー……<br>やっぱすげえわカリさん。,唉呀……<br>果然厉害啊卡莉奥斯特萝酱。
 3,？？？,…………,…………
 4,エルセム/艾尔塞姆,カワイイを追求し続けたひとは<br>違うわ……,果然想要变得可爱的人就是不同啊
 5,？？？,…………,…………
@@ -136,7 +136,7 @@ id,设计稿,text,trans
 183,ローアイン/罗艾因,かなり盛り上がるヤツじゃね！？,但是能燃起来吧！？
 192,ポポル皇子,っべー……<br>戦場、激混みすぎてテンサゲだわ……<br>マキぴ、どこにいんのよ？,靠……<br>战场太混乱了……<br>Makiri到底在哪里啊？
 193,,<span class='scene-font-katari'>城を抜け出したポポル皇子が</span><br><span class='scene-font-katari'>戦場の中にマキリの姿を見つけようと</span><br><span class='scene-font-katari'>目を凝らしていたところ──</span>,<span class='scene-font-katari'>从城中出来的Popola皇子</span><br><span class='scene-font-katari'>为了寻找战场中Makiri的身影</span><br><span class='scene-font-katari'>定睛凝视的时候──</span>
-195,２人,<span class='scene-font-4'>皇子ー！</span>,<span class='scene-font-4'>皇子ー！</span>
+195,２人,<span class='scene-font-4'>皇子ー！</span>,<span class='scene-font-4'>皇子！</span>
 196,ポポル皇子,エルっち！　トモちゃん！<br>ははっ！　無事だったか～！,艾尔塞姆！　托莫伊！<br>哈哈！　平安无事啊～！
 197,エルセム/艾尔塞姆,ったりめーだろ！<br>勝手に殺すなっつーの！<br>ゴリラに負けるとかマジねーから！,这肯定的！<br>别小瞧我了！<br>不过是只猩猩怎么可能输！
 198,トモイ/托莫伊,マッチョも大したことなかったべ。<br>んで、皇子はなにしてる系？,肌肉兄贵也不过如此。<br>皇子你在干什么呢？
@@ -166,3 +166,4 @@ id,设计稿,text,trans
 254,ポポル皇子,いくぜ……<br>ハッピーエンドは目の前だ！！,上了……<br>Happy End就在眼前了！
 256,３人,<span class='scene-font-4'>イェア！</span>,<span class='scene-font-4'>Yeah！</span>
 info,,,scene_evt190331_cp3_q4_s20
+,,,

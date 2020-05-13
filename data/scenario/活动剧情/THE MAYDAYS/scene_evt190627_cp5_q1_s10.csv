@@ -1,5 +1,5 @@
 id,name,text,trans
-0-chapter_name,,第5話 ワニワニビーツ,第5話 ワニワニビーツ
+0-chapter_name,,第5話 ワニワニビーツ,第5話 ワニワニビツ
 0-synopsis,,姬塔一行のいる浜辺に、続々と襲来する羽の生えたサメ達。応戦する姬塔一行のもとにアウギュステ区長が現れ、観光客達に向かって、区役所に避難するよう呼びかける。サンダルフォンの提案により、姬塔達は観光客を先導して避難させることになり、サンダルフォンはひとり浜辺に残りサメを食い止めようとするのだった。,姬塔一行人所在的海滩，接连袭来了长了翅膀的鲨鱼们。在迎战的姬塔一行人面前奥古斯特区长现身，呼唤游客们去区役所避难。在圣德芬的提议下，姬塔等人诱导游客避难，而圣德芬独自留在海滩阻止鲨鱼。
 12,サメ/鲨鱼,<span class='scene-font-4'>ShaShaSharrrk！</span>,<span class='scene-font-4'>ShaShaSharrrk！</span>
 15,ショップ店員/商店店员,<span class='scene-font-4'>うわぁぁぁ！</span><br>あっちにもこっちにも飛んで来たぞ！？,<span class='scene-font-4'>呜哇啊啊啊！</span><br>从这里那里飞过来了！？
@@ -48,3 +48,4 @@ id,name,text,trans
 72,サメ/鲨鱼,<span class='scene-font-4'>Sharrrk！</span>,<span class='scene-font-4'>Sharrrk！</span>
 74,サンダルフォン/圣德芬,<span class='scene-font-4'>はあぁぁぁ──！</span>,<span class='scene-font-4'>哈啊啊啊──！</span>
 info,,,scene_evt190627_cp5_q1_s10
+,,,

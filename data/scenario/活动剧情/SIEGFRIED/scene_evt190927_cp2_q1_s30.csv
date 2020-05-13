@@ -11,7 +11,7 @@ id,name,text,trans
 9,ジークフリート/齐格飞,お前達。<br>おしゃべりをしている暇があったら<br>先を急ぐぞ。,你们啊，如果有闲聊的时间的话就赶紧赶路吧。
 10,,<span class='scene-font-katari'>アーサーとモルドレッドを置いて</span><br><span class='scene-font-katari'>どんどん先へ進むジークフリート。</span>,<span class='scene-font-katari'>齐格飞丢下</span><br><span class='scene-font-katari'>亚瑟和莫德雷德向前走了。</span>
 11,アーサー/亚瑟,あっ！　待ってください！,啊！请等等我！
-12,モルドレッド/莫德雷德,今行きますからー！！,我现在就过去啦ー！！
+12,モルドレッド/莫德雷德,今行きますからー！！,我现在就过去啦！！
 13,,<span class='scene-font-katari'>こうして、アーサーとモルドレッドは</span><br><span class='scene-font-katari'>ジークフリートと共に</span><br><span class='scene-font-katari'>ブルグント地方を目指すのだった。</span>,<span class='scene-font-katari'>就这样，亚瑟和莫德雷德</span><br><span class='scene-font-katari'>与齐格飞一同前往</span><br><span class='scene-font-katari'>勃艮第。</span>
 info,,,scene_evt190927_cp2_q1_s30
 译者,,,myu

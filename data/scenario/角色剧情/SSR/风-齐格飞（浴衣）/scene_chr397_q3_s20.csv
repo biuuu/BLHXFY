@@ -31,8 +31,8 @@ id,name,text,trans
 31,,<span class='scene-font-katari'>人混みをかき分けてこちらに向かうのは</span><br><span class='scene-font-katari'>両手に食料を抱えたランスロット、</span><br><span class='scene-font-katari'>ヴェイン、パーシヴァル達であった。</span>,<span class='scene-font-katari'>穿过人群走来这边的，</span><br><span class='scene-font-katari'>是两手抱着食物的兰斯洛特，</span><br><span class='scene-font-katari'>维恩，帕西瓦尔三人。</span>
 32,ランスロット/兰斯洛特,ジークフリートさん！<br>遅くなってすみません！,齐格飞先生！<br>我们迟到了，真对不起！
 33,ヴェイン/维恩,ん……？,嗯……？
-34,ヴェイン/维恩,おおーっ！<br>姬塔達も<br>一緒だったのか！,哦哦ー！<br>姬塔你们也在一起啊！
-35,ヴェイン/维恩,いやー、屋台の行列がスゴくてさー！<br>並んでたらすっかり<br>遅くなっちまったぜ！,哎呀ー，售货摊那边的队列真是太可怕了——！排了那个队就彻底迟到了！
+34,ヴェイン/维恩,おおーっ！<br>姬塔達も<br>一緒だったのか！,哦哦！<br>姬塔你们也在一起啊！
+35,ヴェイン/维恩,いやー、屋台の行列がスゴくてさー！<br>並んでたらすっかり<br>遅くなっちまったぜ！,哎呀，售货摊那边的队列真是太可怕了——！排了那个队就彻底迟到了！
 36,パーシヴァル/帕西瓦尔,おい駄犬！　<br>よそ見をするな！<br>足下に注意しろ！,喂劣狗！<br>别东张西望！<br>给我注意脚下！
 37,ヴェイン/维恩,わーってるって！<br>ホント、パーさんは心配症だよなー！,知道啦知道啦！<br>帕桑还真是爱操心啊——！
 38,パーシヴァル/帕西瓦尔,フン……<br>お前の心配など微塵もしていない。<br>皆の夕飯の心配をしているだけだ。,哼……<br>我可是一丁点也没在担心你。<br>我担心的不过是大家的晚饭。
@@ -44,7 +44,7 @@ id,name,text,trans
 44,パーシヴァル/帕西瓦尔,おのれランスロット！,兰斯洛特你这家伙！
 45,ヴェイン/维恩,わわわっ！<br>パーさん押すなっての！,哇哇哇！<br>帕桑别推我啊！
 46,ヴェイン/维恩,ランちゃん急いで！<br>パーさんめっちゃ怖い！,兰酱快点！<br>帕桑超可怕的！
-47,ランスロット/兰斯洛特,逃げろ逃げろー！,溜了溜了ー！
+47,ランスロット/兰斯洛特,逃げろ逃げろー！,溜了溜了！
 48,,<span class='scene-font-katari'>買い出しを終えて</span><br><span class='scene-font-katari'>姬塔達に</span><br><span class='scene-font-katari'>合流する三人。</span>,<span class='scene-font-katari'>三人买完东西后，</span><br><span class='scene-font-katari'>与姬塔等人汇合。</span>
 49,,<span class='scene-font-katari'>と同時に、海辺に向かって</span><br><span class='scene-font-katari'>ダヌアが歩き出す。</span>,<span class='scene-font-katari'>与此同时，妲奴亚朝着海边走去。</span>
 50,ダヌア,ちかぁ……,近……

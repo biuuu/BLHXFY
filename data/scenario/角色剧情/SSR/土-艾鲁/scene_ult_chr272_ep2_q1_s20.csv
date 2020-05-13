@@ -6,10 +6,10 @@ id,name,text,trans
 4,ルリア/露莉亚,あ、アイルさん。<br>おはようございます。,啊，艾鲁。<br>早上好。
 5,ボーマン/波曼,おぉ……,哦……
 6,ビィ/碧,眠そうだなぁ。<br>大丈夫か？,你好像很困啊。<br>没事吧？
-7,ボーマン/波曼,んー別にぃ。,嗯ー没什么。
+7,ボーマン/波曼,んー別にぃ。,嗯没什么。
 8,,<span class='scene-font-katari'>声をかけてくる団員達に</span><br><span class='scene-font-katari'>寝起きの気だるい反応を返しながら</span><br><span class='scene-font-katari'>何食わぬ顔で食卓につく。</span>,<span class='scene-font-katari'>波曼用刚睡醒的慵懒语调</span><br><span class='scene-font-katari'>回应着打招呼的团员们，</span><br><span class='scene-font-katari'>若无其事在餐桌旁坐下。</span>
-9,ローアイン/罗艾因,アッ君、ハヨッスー！,艾君，早上吼ー！
-10,ボーマン/波曼,んー……,嗯ー……
+9,ローアイン/罗艾因,アッ君、ハヨッスー！,艾君，早上吼！
+10,ボーマン/波曼,んー……,嗯……
 11,ローアイン/罗艾因,今朝は、この朝食当番ローアインが<br>アッ君の為に、<br>スペシャルモーニング用意してっから。,今天，负责早餐的在下罗艾因<br>为艾君你<br>准备了特制早餐。
 12,ボーマン/波曼,へぇ、スペシャル？,哦，特制？
 13,ローアイン/罗艾因,ジャーン！,锵！
@@ -32,7 +32,7 @@ id,name,text,trans
 42,ボーマン/波曼,なぁ、姬塔。<br>もっと面白ぇ仕事はねぇの？,我说，姬塔。<br>就没有更有意思的工作吗？
 43,,<span class='scene-font-katari'>ボーマンが「アイル」として</span><br><span class='scene-font-katari'>グランサイファーで生活を始めて、</span><br><span class='scene-font-katari'>また暫く時間が過ぎていた。</span>,<span class='scene-font-katari'>波曼扮成「艾鲁」</span><br><span class='scene-font-katari'>在格兰赛法上</span><br><span class='scene-font-katari'>又生活了一段时间。</span>
 44,ルリア/露莉亚,えっと……面白い、仕事ですか？,这个……有意思的工作？
-45,ボーマン/波曼,そーそー<br>身体がなまり気味でよぉ。<br>そろそろ派手に暴れたくてな。,对ー对ー<br>久不动身体都要迟钝了。<br>我想放肆大闹一场。
+45,ボーマン/波曼,そーそー<br>身体がなまり気味でよぉ。<br>そろそろ派手に暴れたくてな。,对对<br>久不动身体都要迟钝了。<br>我想放肆大闹一场。
 46,,<span class='scene-font-katari'>にこやかに吐き出される言葉だったが</span><br><span class='scene-font-katari'>それを受ける姬塔達の</span><br><span class='scene-font-katari'>表情には困惑が滲む。</span>,<span class='scene-font-katari'>他话中带着笑意，</span><br><span class='scene-font-katari'>但姬塔等人听后</span><br><span class='scene-font-katari'>表情里流露出困惑。</span>
 47,ビィ/碧,暴れるってなぁ……,你要大闹一场……
 48,,<span class='scene-font-katari'>アイル──ボーマンの言動には</span><br><span class='scene-font-katari'>徐々に粗野なものが</span><br><span class='scene-font-katari'>目立つようになっていた。</span>,<span class='scene-font-katari'>艾鲁──波曼的言行之中</span><br><span class='scene-font-katari'>渐渐开始藏不住</span><br><span class='scene-font-katari'>他本性里的粗野。</span>

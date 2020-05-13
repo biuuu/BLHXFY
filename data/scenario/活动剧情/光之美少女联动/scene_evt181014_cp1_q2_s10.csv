@@ -1,11 +1,11 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-chapter_name,,第1話 浮いてる！？不思議な空の園,第1話 浮在空中！？不可思议的空之园
 0-synopsis,,空の園に到着したなぎさ達は、初めて見る景色や大きな鳥に目を奪われていた。一方で、未来を予知する力を持つ妖精ポルンは、何かに導かれるようにひとり歩き出す。しばらく空の世界に目を奪われていたなぎさ達は、はっとしたように当初の目的を思い出すとともに、いつの間にかポルンがいなくなってしまっていることに気づく。,空の園に到着した渚達は，初めて見る景色や大きな鳥に目を奪われていた。一方で，未来を予知する力を持つ妖精保伦は，何かに導かれるようにひとり歩き出す。しばらく空の世界に目を奪われていた渚達は，はっとしたように当初の目的を思い出すとともに，いつの間にか保伦がいなくなってしまっていることに気づく。
 3,,<span class='scene-font-4'>うわーっ！？</span>,<span class='scene-font-4'>呜哇！？</span>
 4,,<span class='scene-font-4'>きゃーっ！？</span>,<span class='scene-font-4'>呀啊！？</span>
-5,,<span class='scene-font-4'>メポー！</span>,<span class='scene-font-4'>梅波ー！</span>
-6,,<span class='scene-font-4'>ミポー！</span>,<span class='scene-font-4'>米波ー！</span>
-7,,<span class='scene-font-4'>ポポー！</span>,<span class='scene-font-4'>波波ー！</span>
+5,,<span class='scene-font-4'>メポー！</span>,<span class='scene-font-4'>梅波！</span>
+6,,<span class='scene-font-4'>ミポー！</span>,<span class='scene-font-4'>米波！</span>
+7,,<span class='scene-font-4'>ポポー！</span>,<span class='scene-font-4'>波波！</span>
 18,,いたた……,好痛……
 19,,もう……！<br>長老ったら、ちょっと強引すぎない！？,真是……！<br>长老这人，也有点太强行了吧！？
 24,,ここが、空の園……,这里是，空之园……
@@ -34,3 +34,4 @@
 49,,<span class='scene-font-katari'>違和感を覚え、周囲を見回すなぎさたち。</span><br><span class='scene-font-katari'>普段いるはずの誰かが</span><br><span class='scene-font-katari'>姿を消していることにようやく気付く。</span>,<span class='scene-font-katari'>渚他们察觉到了违和感，向四周看去。</span><br><span class='scene-font-katari'>注意到了平时一直在的某人</span><br><span class='scene-font-katari'>不见了的事。</span>
 50,,<span class='scene-font-4'>ポルンがいない！？</span>,<span class='scene-font-4'>保伦不见了！？</span>
 info,,1,scene_evt181014_cp1_q2_s10
+,,,

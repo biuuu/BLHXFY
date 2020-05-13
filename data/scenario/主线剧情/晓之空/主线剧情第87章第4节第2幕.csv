@@ -2,12 +2,12 @@ id,name,text,trans
 0-chapter_name,,第87章　思わぬ再会,第87章 未预之再会
 0-synopsis,,カタリナの一刀を鎧に受け、ラカムはついに膝をつく。ラカムの苦しげな表情に姬塔が思わず駆け寄ると、ラカムは姬塔だけに聞こえる声で、グランサイファーを助けてほしいと、切実な憂いを帯びた言葉を囁くのだった。,铠甲受到了卡塔莉娜的一击，拉卡姆终于屈膝。看到拉卡姆痛苦的表情，姬塔不由得到他身边。拉卡姆用只有姬塔能听到的声音说出了，希望你们能请救救格兰塞法号，他的话语中确实包含了迫切的忧虑。
 0,カタリナ/卡塔莉娜,<span class='scene-font-4'>はあぁぁっ！</span>,<span class='scene-font-4'>哈！</span>
-2,ラカム/拉卡姆,くっ……,咕...
+2,ラカム/拉卡姆,くっ……,咕…
 3,,<span class='scene-font-katari'>カタリナの一刀を鎧に受け、</span><br><span class='scene-font-katari'>ついにラカムは膝をつく。</span>,<span class='scene-font-katari'>铠甲受到了卡塔莉娜的一击，拉卡姆终于屈膝。</span>
 4,,<span class='scene-font-katari'>仲間の苦しげな姿に、</span><br><span class='scene-font-katari'>姬塔は思わず</span><br><span class='scene-font-katari'>ラカムに駆け寄った。</span>,<span class='scene-font-katari'>看到同伴痛苦的身姿，姬塔不由得走到拉卡姆身边。</span>
 4-sel1_txt,,<span class='scene-font-katari'>大丈夫？</span>,<span class='scene-font-katari'>没事吧？</span>
 4-sel2_txt,,<span class='scene-font-katari'>ごめん、やりすぎた</span>,<span class='scene-font-katari'>抱歉，下手过头了</span>
-5,ラカム/拉卡姆,っつつ……<br>あれを受けておいて、<br>大丈夫なわけあるかよ……,疼疼...受到那一击，怎么可能会没事嘛。
+5,ラカム/拉卡姆,っつつ……<br>あれを受けておいて、<br>大丈夫なわけあるかよ……,疼疼…受到那一击，怎么可能会没事嘛。
 6,ラカム/拉卡姆,でも、ありがとな。<br>本気で戦ってくれてよ……,但是，多谢了。你们会认真地与我打。
 7,ラカム/拉卡姆,いや……<br>こうじゃねぇと意味がねぇからな。,不，不这样的话就没有意义了。
 8,ラカム/拉卡姆,しかしまぁ……<br>それにしても、いまのは効いたぜ……,但是话说回来，刚才那一下很有效果啊。

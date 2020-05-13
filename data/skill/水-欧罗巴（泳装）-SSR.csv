@@ -1,0 +1,11 @@
+id,name,detail
+npc,欧罗巴,3040226000
+special,金牛座的光辉,<div class=prt-text-small>水属性伤害(特大)/自身必定TA<br><span class=text-blue>◆根据星水层数追加伤害</span></div>
+skill-1,忒拜,<div class=prt-text-small>2倍水属性伤害/并施加水属性防御力DOWN<br><span class=text-blue>◆每层星水额外造成1次伤害(上限6次)</span></div>
+skill-1+,忒拜,<div class=prt-text-small>2倍水属性伤害/并施加水属性防御力DOWN<br><span class=text-blue>◆每层星水额外造成1次伤害(上限6次)</span></div>
+skill-2,星空宿命,<div class=prt-text-small>自身以外指定水属性角色获得星辰向导(消去不可)<br><span class=text-blue>◆自身星水5层时指定角色额外获得奥义再发动(1次)</span></div>
+skill-2+,星空宿命,<div class=prt-text-small>自身以外指定水属性角色获得星辰向导(消去不可)<br><span class=text-blue>◆自身星水5层时指定角色额外获得奥义再发动(1次)</span></div>
+skill-3,推罗的祝福,<div class=prt-text-small>我方指定角色获得追击效果/暴击率UP<br><span class=text-blue>◆消耗2层星水效果全体化</span></div>
+support-1,神泉的星水,伤害技能使用时星水增加1层/根据星水的数量攻击UP<br><span class=text-blue>◆战斗开始时获得2层星水</span>
+support-2,黄昏的奇迹,自身以外的我方角色复活时我方全体获得HP恢复/净化1个弱体效果<br><span class=text-blue>◆使用物品复活时不会发动此效果</span>
+skill-lb,LB技能,回合结束时，有几率获得1层星水

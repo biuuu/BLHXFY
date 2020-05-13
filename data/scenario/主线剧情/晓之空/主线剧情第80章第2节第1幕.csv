@@ -1,4 +1,4 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-chapter_name,80: An Unfamiliar Sky,第80章　見知らぬ空,第80章 陌生的天空
 0-synopsis,Vyrn awakens 姬塔 and they search for their missing crew. They soon discover that they've arrived on an island in Nalhegrande Skydom.,ビィに身体を揺すられ、目を覚ます姬塔。目の前に広がる景色に心当たりがない姬塔は、瘴流域に飲まれ、見知らぬ土地に来てしまった事を理解すると、ビィと共に現状を把握する為、周囲を探索する。そして、ここがナル・グランデ空域であると知ると、離れ離れになってしまった仲間達の身を案じるのだった。,碧摇着姬塔的身体让其醒来。对眼前的景色毫无印象的姬塔理解了被瘴流域吞噬然后来到陌生土地的事。姬塔与碧一同确认了状况后在附近探索。然后知道了这里就是纳尔格兰德空域，碧和姬塔开始挂念分散的其他伙伴的情况。
 0,Hey! Come on! You've gotta wake up!,――なぁ！　おい！<br>目ぇ覚ませって！,呐！喂！快睁开眼吧！
@@ -13,19 +13,19 @@
 7,What! No way... You've forgotten who I am?,んなっ！？　う、嘘だろ……<br>オイラのこと<br>忘れちまったってのか……？,嗯呐！？骗人的吧，你忘记了我的事了吗？
 8,"It's me! Vyrn! You're kidding, right? You remember me, don't ya? Don't ya?",オ、オイラだよ！　ビィだよ！<br>冗談だろ？　覚えてるよな？　なっ？,是我啊！是碧啊！你肯定是在开玩笑的吧？肯定还记得我的吧，呐？
 9,Vyrn is on the verge of tears as 姬塔 scrambles to reassure him it was only a joke.,<span class='scene-font-katari'>いまにも泣きそうなビィに、</span><br><span class='scene-font-katari'>姬塔は慌てて、</span><br><span class='scene-font-katari'>冗談であることを告げる。</span>,<span class='scene-font-katari'>碧像是要哭出来，姬塔慌忙地解释只是开个玩笑。</span>
-10,You had me going there... I guess you're all right if you're fine enough to joke like that.,勘弁してくれよ……<br>こんな状況で冗談が言えるなんて、<br>ちょっと肝が据わりすぎだぜ……,放过我吧...这样的情况下还开玩笑，你沉着过头了吧。
+10,You had me going there... I guess you're all right if you're fine enough to joke like that.,勘弁してくれよ……<br>こんな状況で冗談が言えるなんて、<br>ちょっと肝が据わりすぎだぜ……,放过我吧…这样的情况下还开玩笑，你沉着过头了吧。
 11,姬塔 apologizes and the two get back to piecing together how they got here.,<span class='scene-font-katari'>姬塔はビィに謝罪すると、</span><br><span class='scene-font-katari'>改めて自分達の置かれている</span><br><span class='scene-font-katari'>状況について考える。</span>,<span class='scene-font-katari'>姬塔向碧好好道歉之后，重新思考现在所处的状况。</span>
 12,At first we were in Silverwind Stretch. All covered in white...,オイラ達、<br>そこら中真っ白な、<br><span class='scene-font-place'>白風の境</span>に居たよな……？,我们之前是在一片雪白的<span class='scene-font-place'>白风之境</span>那一带吧？
 13,"Then we climbed the mountain, crossed through the Grim Basin... And we reached the peak in the end.",んで、山を登って、瘴流域を通って……<br>なんだかんだで、<br>山頂まで登りきったんだよな。,然后我们登上山峰，穿过瘴流域，这样那样之后就登上了山顶。
-14,"We were looking out at the Nalhegrande Skydom from the peak, and that's when the Grim Basin suddenly closed up behind us... ",それで……<br>山頂からナル・グランデ空域を見てたら、<br>通ってきた瘴流域が、突然閉じて……,然后我们从山顶眺望纳尔格兰德空域，之前通过了的瘴流域突然关闭了...
+14,"We were looking out at the Nalhegrande Skydom from the peak, and that's when the Grim Basin suddenly closed up behind us... ",それで……<br>山頂からナル・グランデ空域を見てたら、<br>通ってきた瘴流域が、突然閉じて……,然后我们从山顶眺望纳尔格兰德空域，之前通过了的瘴流域突然关闭了…
 15,"姬塔 nods again as Vyrn speaks, both recalling the final moment on the mountaintop at the same time.",<span class='scene-font-katari'>ビィの言葉に姬塔は頷き、</span><br><span class='scene-font-katari'>ビィとほぼ同時に、</span><br><span class='scene-font-katari'>己の身に何が起きたかを思い出す。</span>,<span class='scene-font-katari'>姬塔对碧的回忆连连点头，然后几乎与碧同时想起了什么。</span>
 16,We were all swallowed up by the Grim Basin...,オイラ達……<br>皆一緒に、<br>瘴流域に飲まれたんだ……,然后我们都被瘴流域吞进去了。
-17,...,…………,...
+17,...,…………,…
 18,Where did everyone else go? Where's Lyria? And Katalina? Is it only me and you here?,他の皆はどこ行ったんだ……？<br>ルリアは？　姐さんは？<br>ここにはオイラ達しか居ねーのか？,其他人去哪儿了？露莉亚在哪里？卡塔莉娜呢？只有我和你在这里吗？
 18-sel1_txt,I just don't know...,<span class='scene-font-katari'>わからない……</span>,我也不知道
 18-sel2_txt,Let's look for them.,<span class='scene-font-katari'>探してみよう</span>,去找他们吧
 19,"Seeing the discouraged look on 姬塔's face, Vyrn feels a bit guilty.",<span class='scene-font-katari'>力無くうな垂れる姬塔に、</span><br><span class='scene-font-katari'>ビィは慌てて謝罪する。</span>,<span class='scene-font-katari'>看到姬塔那副无力而沮丧的表情，碧慌忙道歉。</span>
-20,Yeah... I'm sorry. I guess I forgot I'm not the only one who's worried.,そ、そうだよな……<br>すまねぇ……<br>不安なのは、オイラだけじゃねーよな。,是的...对不住，并不是只有我感到不安的...
+20,Yeah... I'm sorry. I guess I forgot I'm not the only one who's worried.,そ、そうだよな……<br>すまねぇ……<br>不安なのは、オイラだけじゃねーよな。,是的…对不住，并不是只有我感到不安的…
 21,Maybe everyone's looking for us too. Let's walk around and check out the area!,もしかしたら、向こうも向こうで、<br>オイラ達を探してるかもしれねーし、<br>ちょっと近くを歩いてみようぜ！,说不定他们也从他们那边找我们了，我们在这附近稍微走走看吧！
 22,You're right! Standing around won't do us any good!,そうだな！<br>じっと待ってたって、<br>始まらねーや！,确实，一直待在这什么都改变不了。
 23,"For now let's walk around the area, but not too far.",とりあえず、<br>道に迷わない程度に、<br>辺りを歩いてみようぜ！,总之先在附近不至于迷路的范围内走走看。

@@ -1,4 +1,4 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-chapter_name,71: Captivating Truth,第71章　囚われの真実,71：囚禁的真实
 0-synopsis,"Orchis offers to give the crew a tour of Mephorash. While roaming the city, Orchis is overwrought with excitement as she speaks of the past.",エリヤ・ヘルム宮殿へと戻り、事の次第をオルキスに説明する姬塔一行。オルキスは、そんな一行に<span class='scene-font-place'>メフォラシュ</span>の街を案内したいと申し出る。<span class='scene-font-place'>メフォラシュ</span>の街へ繰り出し、ルリアやイオと共にはしゃぐオルキスの姿は、失った過去１０年間の時を必死に取り戻そうとしているかのようだった。,姬塔等人返回王宫后向奥尔琪斯说明了探狱时发生的一系列事情。奥尔琪斯提出带众人参观<span class='scene-font-place'>美佛拉修</span>的大街。来到<span class='scene-font-place'>美佛拉修</span>的大街后，奥尔琪斯像是要取回自己失去的十年一般与露莉亚伊欧一起尽兴地玩耍。
 0,姬塔 and crew return to the palace and explain to Orchis what they've discovered.,<span class='scene-font-katari'>エリヤ・ヘルム宮殿へと戻った</span><br><span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>オルキスに事の次第を説明する。</span>,<span class='scene-font-katari'>姬塔等人回到了埃利亚·海姆王宫，向奥尔琪斯说明了探狱时发生的事。</span>
@@ -8,12 +8,12 @@
 4,"Oh, that's right! I should give you all a tour of Mephorash since you're here!",そうだ！　せっかくだから、<br>私が姬塔さん達に、<br><span class='scene-font-place'>メフォラシュ</span>の街を案内するね！,对了！机会难得，就让我带团长你们去参观<span class='scene-font-place'>美佛拉修</span>的大街吧！
 5,Really? You'll do that for us? I figured you'd be busy.,わぁ……！　でも、いいの？<br>オルキス、忙しかったりとか……,哇！但是这样真的好吗，奥尔琪斯你好像很忙的样子。
 6,"Suddenly, Orchis stops in place.",<span class='scene-font-katari'>イオの言葉に、</span><br><span class='scene-font-katari'>はた、とオルキスの動きが止まる。</span>,<span class='scene-font-katari'>听到伊欧这么说，奥尔琪斯突然停住。</span>
-7,"Oh, yeah. You're right. I might be busy.",あー……うん、そだね。<br>私、やっぱり忙しい……？,啊...嗯，是这样呢，我……果然很忙？
+7,"Oh, yeah. You're right. I might be busy.",あー……うん、そだね。<br>私、やっぱり忙しい……？,啊…嗯，是这样呢，我……果然很忙？
 8,"With pleading eyes, Orchis turns her gaze to Adam.",<span class='scene-font-katari'>期待を込めた目で、</span><br><span class='scene-font-katari'>オルキスはじっとアダムを見つめる。</span>,<span class='scene-font-katari'>奥尔琪斯向亚当投去了期待的目光。</span>
 9,But Adam responds unfazed.,<span class='scene-font-katari'>それに対しアダムは、</span><br><span class='scene-font-katari'>あくまで淡々と言葉を続けるのだった。</span>,<span class='scene-font-katari'>作为回应，亚当平和地说道。</span>
 10,Her Highness has been confined to the palace for several days now due to her official duties.,ここ数日、事務仕事ばかりで、<br>女王陛下は宮殿に<br>篭ってらっしゃいましたね……,数日以来，女王陛下为了处理事务一直把自己关在宫中。
 11,And there's still a mountain of paperwork I would like to have her look over.,それでもまだ、<br>目を通して頂きたい書類は、<br>山ほどあるのですが……,即便如此，要处理的文书仍然堆积成山。
-12,...,…………,...
+12,...,…………,…
 13,But connecting with the citizens and inspecting the city are also important royal duties.,しかしながら、民との交流、街の視察は、<br>エルステ王家が重んじてきた<br>大事な公務でもあります。,但是，与民众的交流，视察城市情况，对于埃尔斯特王室来说也是极其重要的公务。
 14,"And after all, we owe 姬塔 and company very much for rescuing Erste.",ましてや、姬塔さん達は、<br>エルステを救った<br>大恩ある騎空団です。,更何况团长等人是拯救了埃尔斯特的，于我们有大恩的骑空团。
 15,It'd be a royal shame if we didn't show them our warmest hospitality.,そんな方々へのもてなしに<br>手を抜いたとあっては、<br>王家の名に傷がつくことでしょう。,对于这样的贵客如果不能倾力相待，恐怕有伤王家的名誉。
@@ -42,3 +42,4 @@
 47,Groarrr!,グオオォォッ！！,咕喔喔！
 48,"Even so, it seems you could use some more help. 姬塔, how about we take care of these?",それでも人手は足りてねぇようだな。<br>こいつらは俺達で蹴散らすぞ！<br>姬塔！,即便如此，人手还是不够的样子啊！就由我们处理这些魔物吧！
 info,1,1,scene_cp71_q3_s10
+,,,

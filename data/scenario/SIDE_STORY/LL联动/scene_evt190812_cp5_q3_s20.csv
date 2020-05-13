@@ -1,5 +1,5 @@
 id,name,text,trans
-0-chapter_name,,#5 ワンダーゾーン？,#5 ワンダーゾーン？
+0-chapter_name,,#5 ワンダーゾーン？,#5 ワンダゾン？
 0-synopsis,,今回の事態を引き起こしている星晶獣の役割が分からず首を傾げる一行。星晶獣と対話を試みようとした一行だったが、いつの間にか妖怪に似た異界の魔物達が現れていた。一行は、隊列を組んだ異界の魔物達を迎え撃つ。,因为不知道引起这次时间的星晶兽的职责，众人纷纷赶到疑惑。一行人虽然试着与星晶兽对话，酷似妖怪的异界的魔物们不知何时突然出现了。一行人排好队列，迎击异界的魔物。
 1,ビィ/碧,……にしても、<span class='scene-font-spword'>星の民</span>は<br>なんのためにこんな星晶獣を<br>造ったんだろうな。,……话说回来，<span class='scene-font-spword'>星之民</span>是为了什么<br>才造出这样的星晶兽的啊。
 2,真姫,そういえば、星晶獣って<br>役割を持って生まれてくるのよね。,好像你们都说过，星晶兽的话<br>都是带着职责诞生的呢。
@@ -22,7 +22,7 @@ id,name,text,trans
 19,メドゥーサ/美杜莎,できるもなにも、今アタシ達と<br>喋ってるじゃない。,什么叫做能不能对话，<br>你现在不就正在和我们说话吗。
 20,メドゥーサ/美杜莎,これも街みたいな形してるけど、<br>意思疎通するための手段が<br>どこかにあっても不思議じゃないわ。,虽然这家伙的外形像街道一样，<br>但就算有能够沟通的方法<br>也不足为奇啦。
 21,凛,そっか……,这样啊……
-22,凛,<span class='scene-font-4'>おーーーーーーーい！</span><br><span class='scene-font-4'>星晶獣さーーーーーん！</span><br><span class='scene-font-4'>凛達とお話ししよーーーーー！</span>,<span class='scene-font-4'>喂ーーーーーーー！</span><br><span class='scene-font-4'>星晶兽小姐ーーーーー！</span><br><span class='scene-font-4'>和凛我们来说说话吧ーーーーー！</span>
+22,凛,<span class='scene-font-4'>おーーーーーーーい！</span><br><span class='scene-font-4'>星晶獣さーーーーーん！</span><br><span class='scene-font-4'>凛達とお話ししよーーーーー！</span>,<span class='scene-font-4'>喂！</span><br><span class='scene-font-4'>星晶兽小姐！</span><br><span class='scene-font-4'>和凛我们来说说话吧！</span>
 23,アイナ/爱娜,！？,！？
 24,メドゥーサ/美杜莎,ア、アンタねえ！<br>いきなり大声出すんじゃないわよ！,我，我说你啊！<br>别突然就叫那么大声啊！
 25,花陽/花阳,そ、そうだよ凛ちゃん！<br>なにかあったら危ないよ！,就，就是啊小凛！<br>要是出什么事的话很危险的啊！
@@ -30,7 +30,7 @@ id,name,text,trans
 27,凛,それに……,而且……
 29,凛,ほら、ここ幽霊さんばっかりだし。,你看，这里到处也都只有幽灵小姐而已。
 30,異界の魔物/异界的魔物,ううむ……,唔唔姆……
-31,凛,<span class='scene-font-4'>にゃーーーーーっ！？</span>,<span class='scene-font-4'>喵ーーーーー…！？</span>
+31,凛,<span class='scene-font-4'>にゃーーーーーっ！？</span>,<span class='scene-font-4'>喵…！？</span>
 32,,<span class='scene-font-katari'>これまでなりを潜めていた魔物が</span><br><span class='scene-font-katari'>突如現れた事に驚きつつ、</span><br><span class='scene-font-katari'>姬塔は魔物を突き飛ばす。</span>,<span class='scene-font-katari'>连这里都隐藏着魔物，</span><br><span class='scene-font-katari'>一行人大吃一惊，</span><br><span class='scene-font-katari'>下一秒，姬塔就将魔物击飞。</span>
 33,異界の魔物/异界的魔物,くくく……<br>よう来たのう……,呵呵呵……<br>终于来了啊……
 42,異界の魔物/异界的魔物,我ら、お方様の精兵とおぬしら……<br>どちらが勝つか、いざ勝負じゃ……,我等，那位大人的精兵与汝等……<br>究竟谁能胜利，在此就决一胜负……

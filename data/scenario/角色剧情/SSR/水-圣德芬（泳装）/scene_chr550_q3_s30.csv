@@ -1,7 +1,7 @@
 id,name,text,trans
 0-chapter_name,,いつかまた訪れる場所,有一天会再寻访的场所
 0-synopsis,,男達を懲らしめたサンダルフォン。男達はいつか喫茶店を開くための修行として屋台を開いていたが、客が来ず焦っていたという。サンダルフォンは「また行きたいと思える場所にはきっと、また会いたいと思える人間がいるんだ」と男達に助言する。その夜、サンダルフォンはひとり海の向こうを眺めながら、天司長として様々な相談に乗っていたであろうルシフェルを想うのだった。,圣德芬把两个男人教训了一顿。他们说自己为了以后有一天开咖啡店而经营摊位修行，但一直没有客人很焦虑。圣德芬对他们说「人有想再次去的场所时，一定是因为有想再会的人」。当天晚上，他独自眺望海的另一面，想着作为天司长也会参与各种商谈的路西菲尔。
-1,別の屋台の店員達,<span class='scene-font-4'>すいませんでしたあぁーー！！</span>,<span class='scene-font-4'>对不起ーー！！</span>
+1,別の屋台の店員達,<span class='scene-font-4'>すいませんでしたあぁーー！！</span>,<span class='scene-font-4'>对不起！！</span>
 2,,<span class='scene-font-katari'>サンダルフォンは男達を懲らしめた後、</span><br><span class='scene-font-katari'>屋台に戻って男達から</span><br><span class='scene-font-katari'>事情を聞いていた。</span>,<span class='scene-font-katari'>圣德芬把两个人教训了一顿，</span><br><span class='scene-font-katari'>回到摊位听了他们的实情。</span>
 3,別の屋台の店員１,俺達、いつか喫茶店を開くために<br>修行のつもりで<br>屋台を開いてたんです……,我们是为了有一天开咖啡店，才在这里经营摊子训练自己……
 4,別の屋台の店員２,でも、客は全然来なくて……<br>それで焦っちまって、<br>俺達あんな真似を……,可是，完全没有客人过来……<br>我们非常焦虑，所以做了那种是……
@@ -45,3 +45,4 @@ id,name,text,trans
 51,,<span class='scene-font-katari'>サンダルフォンは静かに呟き、</span><br><span class='scene-font-katari'>自身のカップをもうひとつのカップに</span><br><span class='scene-font-katari'>隣り合うようにそっと置いた。</span>,<span class='scene-font-katari'>圣德芬轻轻呢喃着，</span><br><span class='scene-font-katari'>将自己的杯子放在另一只杯子旁边，</span><br><span class='scene-font-katari'>像是比邻而坐一般。</span>
 52,,<span class='scene-font-katari'>その顔に浮かぶ表情は、</span><br><span class='scene-font-katari'>夜空の光に照らされて、</span><br><span class='scene-font-katari'>穏やかにも切なさにも見えるのだった。</span>,<span class='scene-font-katari'>夜空之光下，</span><br><span class='scene-font-katari'>他脸上浮现的表情既安稳又有些难过。</span>
 info,,,scene_chr550_q3_s30
+,,,

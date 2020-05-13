@@ -25,13 +25,13 @@ id,name,text,trans
 39,七星剣,<span class='scene-font-gray'>なっ！？　なんだと！</span><br><span class='scene-font-gray'>自力で破ったのか！</span>,<span class='scene-font-gray'>什么！？　这是怎么回事！</span><br><span class='scene-font-gray'>居然靠自己破除了！</span>
 40,シエテ/希耶提,あのさぁ……<br>俺を誰だと思ってんの？,那个啊……<br>你以为我是谁啊？
 42,七星剣,<span class='scene-font-gray'>くっ……</span><br><span class='scene-font-gray'>汝は、力が欲しくないのか？</span><br><span class='scene-font-gray'>我に身を委ねれば更なる力が──</span>,<span class='scene-font-gray'>咕……</span><br><span class='scene-font-gray'>你，难道不想要力量吗？</span><br><span class='scene-font-gray'>只要顺从我的话就能获得更强的力──</span>
-43,シエテ/希耶提,えー、だって俺既に最強だし。<br>というか俺だけ強くなりすぎても<br>面白くないじゃない？,诶ー，但是我已经是最强了啊。<br>话说我要是变得强过头了的话那不是不好玩了吗？
+43,シエテ/希耶提,えー、だって俺既に最強だし。<br>というか俺だけ強くなりすぎても<br>面白くないじゃない？,诶，但是我已经是最强了啊。<br>话说我要是变得强过头了的话那不是不好玩了吗？
 45,七星剣,<span class='scene-font-gray'>そうか……他の</span><span class='scene-font-spword'>天星器</span><span class='scene-font-gray'>も十天衆を</span><br><span class='scene-font-gray'>主としたというのに残念だな……</span>,<span class='scene-font-gray'>是嘛……明明别的</span><span class='scene-font-spword'>天星器</span><span class='scene-font-gray'>已经把十天众的人奉为主人了呢，真遗憾啊……</span>
 46,シエテ/希耶提,……えっ？<br>十天衆が？,……诶？<br>你说十天众？
 48,七星剣,<span class='scene-font-gray'>左様だ。</span><br><span class='scene-font-spword'>天星器</span><span class='scene-font-gray'>は感覚を共有している。</span>,<span class='scene-font-gray'>是的。</span><br><span class='scene-font-spword'>天星器</span><span class='scene-font-gray'>是共有感觉的。</span>
 49,七星剣,<span class='scene-font-gray'>我は知っているぞ……</span><br><span class='scene-font-gray'>汝は、剣が最強であると、</span><br><span class='scene-font-gray'>証明したいのだろう？</span>,<span class='scene-font-gray'>我知道哦……</span><br><span class='scene-font-gray'>你想要证明剑是最强的对吧？</span>
-50,シエテ/希耶提,うーん……<br>なるほどそうきたか……<br>少し待って……,唔ー嗯……<br>原来如此你这么说啊……<br>你稍等一下……
-51,シエテ/希耶提,ま、そこまで言うなら、<br>少しだけ遊んじゃおっかなー,嘛，你都说到那个份上了，<br>我就稍微陪你玩玩吧ー
+50,シエテ/希耶提,うーん……<br>なるほどそうきたか……<br>少し待って……,唔嗯……<br>原来如此你这么说啊……<br>你稍等一下……
+51,シエテ/希耶提,ま、そこまで言うなら、<br>少しだけ遊んじゃおっかなー,嘛，你都说到那个份上了，<br>我就稍微陪你玩玩吧
 53,七星剣,<span class='scene-font-gray'>ふっふっふっ……</span><br><span class='scene-font-gray'>では、汝に力を与えよう。</span>,<span class='scene-font-gray'>呵呵呵……</span><br><span class='scene-font-gray'>那么，就赐予你力量吧。</span>
 54,シエテ/希耶提,おい……勘違いするなよ。,喂……你可别误会啊。
 55,シエテ/希耶提,俺はお前に選ばれるんじゃない、<br>俺がお前を選ぶんだよ。,我不是被你选中的，<br>而是我选中了你哟。
@@ -77,9 +77,9 @@ id,name,text,trans
 107,エッセル/艾瑟尔,今回ばかりは死を以て<br>償うべきかと思います。,我认为这次的事应该以死谢罪呢。
 108,シエテ/希耶提,じょ、冗談だよねエッセル？,你，你开玩笑的对吧艾瑟尔？
 109,ニオ/妮欧,冗談じゃない。<br>本気の音色。,不是玩笑。<br>是真心的音色呢。
-110,シエテ/希耶提,<span class='scene-font-4'>ひぇー！</span><br>みんな仲良くしようよ！<br>ねぇソーン！,<span class='scene-font-4'>噫ー！</span><br>大家友好一点嘛！<br>对吧索恩！
+110,シエテ/希耶提,<span class='scene-font-4'>ひぇー！</span><br>みんな仲良くしようよ！<br>ねぇソーン！,<span class='scene-font-4'>噫！</span><br>大家友好一点嘛！<br>对吧索恩！
 111,ソーン/索恩,えっ？<br>あ、ええ……,诶？<br>啊，嗯嗯……
-112,シエテ/希耶提,はぁー！<br>やっぱりソーンは優しいね～！<br>今度美味しいモノご馳走するね～！,哈啊ー！<br>果然索恩就是温柔呢～！<br>下次请你吃好吃的～！
+112,シエテ/希耶提,はぁー！<br>やっぱりソーンは優しいね～！<br>今度美味しいモノご馳走するね～！,哈啊！<br>果然索恩就是温柔呢～！<br>下次请你吃好吃的～！
 113,ソーン/索恩,…………<br>ちゃんと全員におごりなさいよ？,…………<br>要好好请全员的客哟？
 114,シス/希斯,フン……くだらん。<br>俺はもう行くぞ。,哼……无聊。<br>我要回去了。
 116,オクトー/奥克托,うむ。<br>では我も行くとしよう。,嗯。<br>那么我也要走了。
@@ -94,3 +94,4 @@ id,name,text,trans
 130,シエテ/希耶提,とほほほ……<br>またシェロちゃん伝手に<br>近況を聞く日々か……,呜呜呜呜……<br>又要回到通过榭洛酱去了解他们近况的日子了吗……
 131,,<span class='scene-font-katari'>十天衆の頭目シエテ。</span><br><span class='scene-font-katari'>このすごいんだかすごくないんだか</span><br><span class='scene-font-katari'>分からない彼の物語は続く──</span>,<span class='scene-font-katari'>十天众的头领希耶提。</span><br><span class='scene-font-katari'>不知出色与否的他的故事仍将继续──</span>
 info,,,scene_ult_chr132_q4_10_s20
+,,,

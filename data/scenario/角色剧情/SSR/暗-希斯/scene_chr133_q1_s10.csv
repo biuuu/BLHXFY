@@ -4,10 +4,10 @@ id,name,text,trans
 0,,<span class='scene-font-katari'>シスの探す騎空士の情報を求め</span><br><span class='scene-font-katari'>空の旅を続ける一行──</span>,<span class='scene-font-katari'>一行人追寻着希斯寻找的骑空士的情报，继续着他们的空之旅程──</span>
 1,,<span class='scene-font-katari'>いくつもの島を訪れるも</span><br><span class='scene-font-katari'>姬塔達は何の手がかりも</span><br><span class='scene-font-katari'>得られずにいた──</span>,<span class='scene-font-katari'>尽管造访了许多岛屿，姬塔一行还是没有找到任何线索──</span>
 2,ビィ/碧,騎空士を探すにしても<br>何の手がかりも無いんじゃなぁ……<br>次はどこ目指しゃいいってんだ？,就算想找骑空士，没有任何线索也无从下手啊……<br>接下来去哪好啊？
-3,ルリア/露莉亚,うーん……そう言えば<br><span class='scene-font-place'>カルムの郷</span>には、騎空士さんの<br>手がかりって無かったんでしょうか？,嗯ー……说起来，<br><span class='scene-font-place'>卡尔姆之乡</span>里没有骑空士的线索吗？
+3,ルリア/露莉亚,うーん……そう言えば<br><span class='scene-font-place'>カルムの郷</span>には、騎空士さんの<br>手がかりって無かったんでしょうか？,嗯……说起来，<br><span class='scene-font-place'>卡尔姆之乡</span>里没有骑空士的线索吗？
 4,ビィ/碧,そ、そう言えば……<br>シスが仲間になってすぐに<br>あの島から出港しちまったよな！,这，这么一说……<br>在希斯加入之后就立刻离开了那个岛了呢！
 5,シス/希斯,…………,…………
-6,ビィ/碧,うーん……いっそ<span class='scene-font-place'>カルムの郷</span>に戻って<br>手がかりを探すとこから<br>やり直すってのもありかもしれねーな！,嗯ー……干脆返回<span class='scene-font-place'>卡尔姆之乡</span>去从头找线索，<br>也许会有新发现呢！
+6,ビィ/碧,うーん……いっそ<span class='scene-font-place'>カルムの郷</span>に戻って<br>手がかりを探すとこから<br>やり直すってのもありかもしれねーな！,嗯……干脆返回<span class='scene-font-place'>卡尔姆之乡</span>去从头找线索，<br>也许会有新发现呢！
 7,ビィ/碧,どうだ、シス。<br><span class='scene-font-place'>カルムの郷</span>に戻ってみねーか？,如何，希斯。<br>要回<span class='scene-font-place'>卡尔姆之乡</span>试试看吗？
 8,シス/希斯,…………,…………
 9,ビィ/碧,…………,…………
@@ -19,7 +19,7 @@ id,name,text,trans
 17,ルリア/露莉亚,はい！<br>騎空士さんの手がかり<br>頑張って見つけましょう！,嗯！<br>努力去找那位骑空士的线索吧！
 18,ビィ/碧,……はぁ～、手間のかかる奴だぜ。,……哈啊～，真是让人费心的家伙啊。
 19,,<span class='scene-font-katari'>──その頃、</span><span class='scene-font-place'>カルムの郷</span><span class='scene-font-katari'>では</span><br><span class='scene-font-katari'>予期せぬ事態が発生していた。</span>,<span class='scene-font-katari'>──与此同时，在</span><span class='scene-font-place'>卡尔姆之乡</span><span class='scene-font-katari'>发生了预料之外的事。</span>
-22,ルリア/露莉亚,たた、大変です！<br><span class='scene-font-place'>カルムの郷</span>が大変な事になってるって<br>シェロさんからの連絡ですー！,事，事情不妙了！<br>据榭洛所说，<span class='scene-font-place'>卡尔姆之乡</span>现在发生了很不妙的事ー！
+22,ルリア/露莉亚,たた、大変です！<br><span class='scene-font-place'>カルムの郷</span>が大変な事になってるって<br>シェロさんからの連絡ですー！,事，事情不妙了！<br>据榭洛所说，<span class='scene-font-place'>卡尔姆之乡</span>现在发生了很不妙的事！
 23,ビィ/碧,そんなに慌てて<br>いったいどうしたってんだ？,看你那么慌张，到底发生了什么事？
 24,ルリア/露莉亚,それが……,那是……
 25,,<span class='scene-font-katari'>よろず屋からの情報によると……</span>,<span class='scene-font-katari'>根据万事屋那边来的情报……</span>
@@ -32,3 +32,4 @@ id,name,text,trans
 32,ルリア/露莉亚,そうですね！　<span class='scene-font-place'>カルムの郷</span>には<br>騎空士さんとの思い出だって<br>いっぱい詰まってるはずです！,说的也是呢！　在<span class='scene-font-place'>卡尔姆之乡</span>可是充满了你和那位骑空士的回忆啊！
 33,ルリア/露莉亚,取り返しがつかなくなる前に<br>私達も急いで向かいましょう！,在事情变得无法挽回之前，我们也赶紧过去吧！
 info,,,scene_chr133_q1_s10
+,,,

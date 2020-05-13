@@ -46,5 +46,6 @@ id,name,text,trans
 79,六崩拳,<span class='scene-font-gray'>……ほう？</span>,<span class='scene-font-gray'>……哦？</span>
 80,シス/希斯,……下らん御託はそこまでだ。<br>貴様の狙いが何なのかは<br>知らんが……,……无聊的废话就到此为止了。<br>虽然我不知道你的目的是什么……
 83,シス/希斯,この艇で怪しげなものを<br>放置することはできん！<br>ここで刈り取ってくれる！,我不能对在这船上的可疑之物置之不理！<br>就在这把你剪除！
-84,シス/希斯,<span class='scene-font-4'>キエエエェェェェーーッ！！</span>,<span class='scene-font-4'>呀啊啊啊啊ーー！！</span>
+84,シス/希斯,<span class='scene-font-4'>キエエエェェェェーーッ！！</span>,<span class='scene-font-4'>呀啊啊啊啊！！</span>
 info,,,scene_ult_chr133_q3_s10
+,,,

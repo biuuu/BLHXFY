@@ -25,7 +25,7 @@ id,name,text,trans
 35,スザク/朱雀,そうだ。<br>名前……<br>妹さんの名前を教えてください。,对了。<br>名字……<br>请告诉我你妹妹的名字。
 36,やつれた女性/消瘦憔悴的女性,名前……？<br>あ……なんだっけ？,名字……？<br>啊……是什么来着？
 37,やつれた女性/消瘦憔悴的女性,確か、ナ……<br>じゃなくてルイ……あ……,好像是，娜……<br>不对是路易……啊……
-38,やつれた女性/消瘦憔悴的女性,そんな……嫌……<br>嫌よ、嫌、嫌イヤイヤーーー！！！,那种事……不要……<br>不要啊、不要、不要不要不要ーーー！！！
+38,やつれた女性/消瘦憔悴的女性,そんな……嫌……<br>嫌よ、嫌、嫌イヤイヤーーー！！！,那种事……不要……<br>不要啊、不要、不要不要不要！！！
 39,スザク/朱雀,え？,诶？
 40,,<span class='scene-font-katari'>髪がグシャグシャに乱れるほど</span><br><span class='scene-font-katari'>頭を激しく振り、</span><br><span class='scene-font-katari'>女性は錯乱状態で騒ぎ始める。</span>,<span class='scene-font-katari'>女性的头发变得散乱，</span><br><span class='scene-font-katari'>她剧烈地摇着头，</span><br><span class='scene-font-katari'>精神错乱地开始大喊大叫。</span>
 42,やつれた女性/消瘦憔悴的女性,<span class='scene-font-4'>違う！</span><br><span class='scene-font-4'>私の妹は殺されたァァ！！</span>,<span class='scene-font-4'>不对！</span><br><span class='scene-font-4'>我的妹妹被杀掉了啊啊！！</span>
@@ -52,3 +52,4 @@ id,name,text,trans
 70,,<span class='scene-font-katari'>エルステ兵は駆けつけた応援とともに</span><br><span class='scene-font-katari'>気絶したスザクを引きずって行く。</span>,<span class='scene-font-katari'>埃尔斯特的士兵和赶来的增援一起，</span><br><span class='scene-font-katari'>把昏迷的朱雀带走了。</span>
 71,,<span class='scene-font-katari'>スザクが去った場所には</span><br><span class='scene-font-katari'>丁寧に折られた１羽の折り鶴が</span><br><span class='scene-font-katari'>風に揺れているのだった。</span>,<span class='scene-font-katari'>在朱雀离开的地方，</span><br><span class='scene-font-katari'>有一只仔细折成的千纸鹤，</span><br><span class='scene-font-katari'>被风吹拂轻轻摇晃着。</span>
 info,,,scene_evt190614_cp3_q1_s10
+,,,

@@ -17,8 +17,8 @@ id,name,text,trans
 45,ナナリー/娜娜莉,この度は、ねこのピザ屋さんのショーに<br>最後までお付き合い頂き<br>ありがとうございました！,这次感谢大家观看<br>猫咪披萨屋的表演<br>到最后！
 46,ナナリー/娜娜莉,間も無くピザが焼き上がりますので、<br>是非、ご賞味くださいね。,披萨马上就要烤好了，<br>请务必尝尝味道。
 47,,<span class='scene-font-katari'>ナナリーが挨拶を終える頃には、</span><br><span class='scene-font-katari'>観客達の盛り上がりは</span><br><span class='scene-font-katari'>最高潮に達していた。</span>,<span class='scene-font-katari'>在娜娜莉结束致辞之时，</span><br><span class='scene-font-katari'>观众间的气氛</span><br><span class='scene-font-katari'>已至最高潮。</span>
-48,客２/客人２,<span class='scene-font-4'>うぉー！</span><br><span class='scene-font-4'>お前達カッコ良かったぜー！</span>,<span class='scene-font-4'>唔噢ー！</span><br><span class='scene-font-4'>你们可帅了ー！</span>
-49,客１/客人１,大迫力のショーだ！<br>いいモン見せてくれてありがとなー！,真是超有魄力的表演！<br>谢谢你们让我们看到这么精彩的一幕ー！
+48,客２/客人２,<span class='scene-font-4'>うぉー！</span><br><span class='scene-font-4'>お前達カッコ良かったぜー！</span>,<span class='scene-font-4'>唔噢！</span><br><span class='scene-font-4'>你们可帅了！</span>
+49,客１/客人１,大迫力のショーだ！<br>いいモン見せてくれてありがとなー！,真是超有魄力的表演！<br>谢谢你们让我们看到这么精彩的一幕！
 50,,<span class='scene-font-katari'>怪しい男の襲撃を客寄せのショーとして</span><br><span class='scene-font-katari'>利用したルルーシュの策略の結果、</span><br><span class='scene-font-katari'>広場には大勢の観客が集まっていた。</span>,<span class='scene-font-katari'>鲁路修利用可以男人的袭击</span><br><span class='scene-font-katari'>作为集客表演的结果便是，</span><br><span class='scene-font-katari'>广场上聚集了大量的观众。</span>
 51,,<span class='scene-font-katari'>魔物をけしかけてきた怪しい男を</span><br><span class='scene-font-katari'>現行犯で捕らえたルルーシュ達は</span><br><span class='scene-font-katari'>イベントの主催者に身柄を突きだす。</span>,<span class='scene-font-katari'>将招来魔物的可疑男人</span><br><span class='scene-font-katari'>抓了个现行的鲁鲁修等人</span><br><span class='scene-font-katari'>将男人交给了美食节的主办方。</span>
 52,,<span class='scene-font-katari'>怪しい男の正体を暴露したところ</span><br><span class='scene-font-katari'>男は素直に罪を認め、妨害を依頼した</span><br><span class='scene-font-katari'>黒幕の出店者も逮捕されるのだった。</span>,<span class='scene-font-katari'>可疑男人暴露身份后，</span><br><span class='scene-font-katari'>坦白承认了自己的罪行，</span><br><span class='scene-font-katari'>委托他的幕后黑手也被逮捕了。</span>
@@ -30,8 +30,8 @@ id,name,text,trans
 63,ビィ/碧,さぁさぁ！<br>アツアツの美味しいピザだぜぇ～！,来来！<br>是刚出炉的美味披萨～！
 64,,<span class='scene-font-katari'>店の前で売り子をするナナリー達の</span><br><span class='scene-font-katari'>後方では、ナイトメアフレームに</span><br><span class='scene-font-katari'>乗ったスザク達がピザを作っている。</span>,<span class='scene-font-katari'>在店门前当看板娘的娜娜莉等人后方，</span><br><span class='scene-font-katari'>是架势KMF</span><br><span class='scene-font-katari'>制作披萨的朱雀等人。</span>
 65,スザク/朱雀,よし！<br>生地の準備が出来たぞ！,好了！<br>生面饼准备好了！
-66,カレン/卡莲,オッケー！<br>ソースとトッピング行くよ！,OKー！<br>接下来是酱料和馅料！
-67,ルリア/露莉亚,窯の準備も出来てますよー！,窑也准备好了ー！
+66,カレン/卡莲,オッケー！<br>ソースとトッピング行くよ！,OK！<br>接下来是酱料和馅料！
+67,ルリア/露莉亚,窯の準備も出来てますよー！,窑也准备好了！
 68,,<span class='scene-font-katari'>楽しそうな仲間達を見て</span><br><span class='scene-font-katari'>安堵の表情を浮かべるルルーシュの元に</span><br><span class='scene-font-katari'>やってくるC.C.。</span>,<span class='scene-font-katari'>C.C.来到</span><br><span class='scene-font-katari'>看着同伴们的高兴样子</span><br><span class='scene-font-katari'>一脸安心的鲁鲁修跟前。</span>
 69,C.C.,やれやれ。<br>何とかなったな。,哎呀哎呀。<br>总算是成功了。
 70,ルルーシュ/鲁鲁修,ああ。<br>みんなのおかげだ。,啊啊。<br>这是大家的功劳。
@@ -76,7 +76,7 @@ id,name,text,trans
 113,カレン/卡莲,私達は何をしたらいい？,我们做什么好？
 114,ルルーシュ/鲁鲁修,カレンとスザクは<br>紅蓮とランスロットでの<br>ピザの配達要員だな。,卡莲和朱雀是<br>用红莲和兰斯洛特の<br>外送披萨的要员。
 115,スザク/朱雀,ははっ、<br>ランスロットでピザ配達か、<br>それは楽しそうだ。,哈哈，<br>用兰斯洛特送披萨吗？<br>听起来很有趣。
-116,カレン/卡莲,紅蓮は空を飛べないから、<br>島内の配達担当かなー！,红莲不会飞，<br>所以担任岛内外送咯ー！
+116,カレン/卡莲,紅蓮は空を飛べないから、<br>島内の配達担当かなー！,红莲不会飞，<br>所以担任岛内外送咯！
 117,C.C.,ならば、<br>私はピザの商品開発を受け持とう。,既然如此，<br>我来担任新品披萨的开发工作。
 118,ビィ/碧,だったらオイラも味見……<br>商品開発係がいいな！,那我担任试吃……<br>商品开发工作不错！
 119,ルリア/露莉亚,あっ！<br>私も味見……じゃなかった！<br>商品開発したいです！,啊！<br>我也想试吃……对不！<br>是商品开发！

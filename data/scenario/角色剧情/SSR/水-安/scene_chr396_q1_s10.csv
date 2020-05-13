@@ -5,7 +5,7 @@ id,name,text,trans
 8,,<span class='scene-font-katari'>学院を見学中だった姬塔達は、</span><br><span class='scene-font-katari'>急遽生徒たちと一致団結して</span><br><span class='scene-font-katari'>襲い来る魔物達を退治する。</span>,<span class='scene-font-katari'>正在见学的姬塔一行，</span><br><span class='scene-font-katari'>与学生们团结一致</span><br><span class='scene-font-katari'>击退了袭击而来的魔物。</span>
 19,,<span class='scene-font-katari'>事件は解決したものの、学院内は</span><br><span class='scene-font-katari'>ひどく荒廃し、教師や生徒達が</span><br><span class='scene-font-katari'>一丸となって復興に力を注いでいた。</span>,<span class='scene-font-katari'>虽说解决了事件，但是学院</span><br><span class='scene-font-katari'>被破坏得很厉害，教师和学生们</span><br><span class='scene-font-katari'>都倾尽全力复兴学院。</span>
 20,,<span class='scene-font-katari'>そんな中、姬塔達は、</span><br><span class='scene-font-katari'>復興に必要な資材を積んで</span><br><span class='scene-font-katari'>マナリア学院を訪れていた。</span>,<span class='scene-font-katari'>此时，姬塔一行，</span><br><span class='scene-font-katari'>将积攒的复建所需的材料</span><br><span class='scene-font-katari'>带来马纳利亚学院。</span>
-21,ルリア/露莉亚,アンさーん！　グレアさーん！,安さーん！　古蕾雅さーん！
+21,ルリア/露莉亚,アンさーん！　グレアさーん！,安！　古蕾雅！
 22,アン/安,ん……？<br>あれは騎空団の……？,嗯……？<br>那是骑空团的……？
 23,アン/安,やっぱり依頼を受けてくれた<br>騎空団は姬塔さん達の<br>騎空団だったんだね！,果然接收了委托，<br>骑空团是姬塔的<br>骑空团！
 24,ビィ/碧,へへっ！　<br>マナリア魔法学院からの依頼って聞いて<br>いてもたってもいられなくってよ！,嘿嘿！　<br>听说有马纳利亚魔法学院的委托，<br>我们就坐不住了！
@@ -61,7 +61,7 @@ id,name,text,trans
 99,グレア/古蕾雅,……っ！　<br>アン！　アンッ！,……！　<br>安！　安！！
 100,オーウェン/欧文,姫様っ！<br>ご無事ですかっ！,公主！<br>您没事吧！
 101,ビィ/碧,お、おい！<br>大丈夫か！,喂，喂！<br>没事吧！
-102,ルリア/露莉亚,アンさん！,安さん！
+102,ルリア/露莉亚,アンさん！,安！
 103,,<span class='scene-font-katari'>姬塔達がアンの周りに</span><br><span class='scene-font-katari'>集まって口々に声をかける。</span>,<span class='scene-font-katari'>姬塔一行围在安的周围</span><br><span class='scene-font-katari'>不安地呼唤着她。</span>
 104,アン/安,う、うぅ～ん……,唔，唔～唔……
 105,グレア/古蕾雅,……アン！<br>無事でよかっ……た……？,……安！<br>你没……事……？
@@ -71,7 +71,7 @@ id,name,text,trans
 111,ビィ/碧,すっかりチビッ子じゃねーかよ！,这不是小孩子吗！
 112,アン/安,えっ……うそ？　なに？,诶……不是吧？　为什么？
 113,アン/安,<span class='scene-font-4'>チビッ子って私がぁ！？</span>,<span class='scene-font-4'>我变成了小孩！？</span>
-114,ルリア/露莉亚,た、大変です！　姬塔！<br>アンさんが子供になっちゃいました！,不，不好了！　姬塔！<br>安さん变成小孩子了！
+114,ルリア/露莉亚,た、大変です！　姬塔！<br>アンさんが子供になっちゃいました！,不，不好了！　姬塔！<br>安变成小孩子了！
 115,,<span class='scene-font-katari'>自分の体を調べるアンは</span><br><span class='scene-font-katari'>ようやく事態を把握する。</span>,<span class='scene-font-katari'>检查着自己身体的安</span><br><span class='scene-font-katari'>终于掌握了事态。</span>
 116,アン/安,え……？<br>なにコレ！,诶……？<br>怎么回事！
 117,アン/安,<span class='scene-font-4'>なんなのコレーッ！！！！</span>,<span class='scene-font-4'>这怎么回事啊！！！！</span>
@@ -86,3 +86,4 @@ id,name,text,trans
 133,オーウェン/欧文,ぬぅぅ……許せん！！,啧……不可饶恕！！
 135,オーウェン/欧文,<span class='scene-font-4'>いくぞ、姬塔殿！</span>,<span class='scene-font-4'>我们上，姬塔阁下！</span>
 info,麻友桑的话筒,,scene_chr396_q1_s10
+,,,

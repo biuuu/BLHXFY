@@ -36,7 +36,7 @@ id,en,jp,trans
 31,"When I look at you, I feel relieved. As if the world I know is coming back to me.",君を見ていると、<br>どこか私の世界が帰ってきたような、<br>そんな安心感があるんだ。,当我看着你时，我的内心世界就回到了原来的样子，有一种这样的安心感。
 32,This girl? Just who are you?,この子が……？<br>君はいったい……？,这个孩子……到底是谁？
 33,I guess she really doesn't remember Lyria.,やっぱりルリアのことも、<br>覚えてねーんだな……,我猜她真的不记得露莉亚了。
-34,...,…………,...
+34,...,…………,…
 35,Is your name Lyria?,君は……ルリアというのか？,你叫露莉亚吗？
 36,"Lyria answers her with a small nod, and Katalina bows her head deeply.",<span class='scene-font-katari'>その問いにルリアが小さく頷くと、</span><br><span class='scene-font-katari'>カタリナは深く頭を下げた。</span>,<span class='scene-font-katari'>对于她的问题露莉亚微微点头回应，卡塔莉娜则深深地低下了头。
 37,I'm sorry. I know it's sudden to ask...,すまない……<br>だが、非礼を承知で尋ねよう……,对不起，这么问可能很失礼。
@@ -49,7 +49,7 @@ id,en,jp,trans
 44,!,――――っ！！,！
 45,"Since Kikuri controls fated connections, memory distortion is no more than a side effect of its power.",星晶獣キクリの能力は、<br>「縁」を支配することであり、<br>記憶の改竄は副産物に過ぎません。,星晶兽菊理的能力，是支配缘。记忆篡改说到底不过是一个副产物。
 46,"When you consider other primal beasts and their powers, Kikuri's memory manipulation is rather crude.",他のそれらが専門の星晶獣と比べれば、<br>キクリの記憶操作能力は、<br>お粗末なものでしょう。,与其他专门司掌这一能力的星晶兽相比，菊理操作记忆的能力可能不过是很粗糙的东西而已。
-47,However...,しかし……,然而...
+47,However...,しかし……,然而…
 48,Katalina!,カタリナぁーっ！！,卡塔莉娜！！
 50,"Whoa there! Don't hurt yourself, Lyria.",うわっ！？<br>っとと……あ、危ないぞ？　ルリア。,哇！？很危险哦，露莉亚。
 51,"I'm sorry. It's just, I'm so happy!",ごめんなさい……<br>でも私、嬉しくって……！,对不起，但是我真的很开心！
@@ -71,3 +71,4 @@ id,en,jp,trans
 67,There may be information coming in already about the two of them.,もしかすると、<br>それぞれ何らかの情報が<br>入っているかもしれません。,可能已经有关于他们两个的信息了。
 68,"The gang agrees, and they head toward the Crew of Enforcers' station, driving back monsters along the way.",<span class='scene-font-katari'>黄金の騎士の言葉に一行は納得し、</span><br><span class='scene-font-katari'>強風の中襲いくる魔物を蹴散らしながら、</span><br><span class='scene-font-katari'>秩序の騎空団の駐屯所へと戻る。</span>,<span class='scene-font-katari'>接受了黄金骑士提议的众人，击退了在狂风中来袭的魔物，回到秩序骑空团的驻扎所去了。
 info,1,1,scene_cp68_q3_s10
+,,,
