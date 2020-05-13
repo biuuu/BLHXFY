@@ -38,7 +38,7 @@ id,en,jp,trans
 34,"Huh? Hey, what are you talking about? Who?",え？<br>ね、ねぇ……何の話？<br>あの人って？,咦？呐，你们在说什么话题呢？那个人是？
 35,"I wonder, could I have a bit of your time?",少しばかり、<br>お時間をいただけますかな？,请问可以稍稍占用一下诸位的时间吗？
 36,"If you wish to know the truth about Lyria and Vyrn, there's no harm in having a listen.",ルリアちゃんやビィくんについて、<br>真実を求めるならば、<br>聞いておいて損は無いはずです。,如果是想追寻露莉亚和碧有关的真实的话，这些话是且听无妨的。
-37,...,…………,...
+37,...,…………,…
 38,The truth about us?,私や……ビィさんの……,我和碧的……?
 39,"With a solemn face, Baragona begins to speak of his past.",<span class='scene-font-katari'>真剣な表情で頷いたバラゴナは、</span><br><span class='scene-font-katari'>滔々と自らの生い立ちを話し始める。</span>,<span class='scene-font-katari'>巴拉戈纳带着严肃的表情点了头，然后开始谈论他过去成长的事。
 40,"I had a pretty troubled childhood, you see.",私は、なかなか厄介な<br>子供時代を送りましてね。,我的孩童时代是伴随着种种麻烦度过的。
@@ -48,7 +48,7 @@ id,en,jp,trans
 44,What!,なっ……！？,什么！
 45,"Even though he was hired to protect me, he spoke to me no differently than his own friends.",彼は護衛として雇われた身でありながら、<br>護衛対象である私にも、<br>分け隔てなく話しかけてくれました……,即使他的身份只是被雇来保护我的，但是他和作为保护对象的我之间却话无不谈。
 46,"And Walfried, another young member of his crew, kept a constant scowl on his face.",同じ騎空団のもうひとりの青年……<br>ヴァルフリートは、<br>あまり良い顔はしてませんでしたがね。,与他同一骑空团的另一位青年，瓦佛利特对此，脸色却不是那么好看。
-47,Father...,父さんが……,父亲大人吗...
+47,Father...,父さんが……,父亲大人吗…
 48,"The captain taught me to use a sword. He had undeniable strength, and was blessed with more talent than technique.",私は彼から剣を教わりました。<br>問答無用の強さを持つ彼は、<br>技術というより才能の塊でしたが……,我从姬塔父亲那里学得了剑技，强大到不讲道理的他，与其说是技术了得，不如说是才赋異稟。
 49,"Regardless, I would copy his moves, ask him to teach me, and even spar with him, eventually improving myself.",それでも彼から技を盗み、<br>時に教えを乞い、時に剣を交え……<br>そうやって私は剣の腕を磨いたのです。,即便如此，我还是偷学了他的剑技，时而让他教我，时而与他比试，总算是磨练了自己的剑技。
 50,Some time passed. I was appointed the Scarlet Knight and given duties to fulfill on Lumacie.,そうして時は流れ……<br>私は緋色の騎士の名を拝命し、<br><span class='scene-font-place'>ルーマシー</span>で任務にあたっていました。,就这样时间流逝，很久之后我被赐名绯之骑士，去<span class='scene-font-place'>露玛茜</span>执行任务了。
@@ -80,3 +80,4 @@ id,en,jp,trans
 76,We'll see just how close we've gotten to his strength!,オイラ達が、どれだけ親父さんに<br>近づくことが出来たのか……<br>試させてもらおーぜ！,我们现在到底能多接近老爹的实力，就在这试一把吧！
 77,Let's give it all we've got and show him just how far we've come!,いまの私達の全力を……<br>私達があれから積み重ねたものを……<br>ここで全て出しきっちゃいましょう！,就将我们现在的全力，将我们从那时起积累起的一切，在这里全部使用出来吧！
 info,1,1,scene_cp67_q4_s10
+,,,

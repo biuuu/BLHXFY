@@ -1,8 +1,8 @@
 id,name,text,trans
-0-chapter_name,,STAGE4.5 人質 奪還,STAGE4.5 人質 奪還
+0-chapter_name,,STAGE4.5 人質 奪還,STAGE45 人質 奪還
 0-synopsis,,何故か偽ゼロは姬塔達の存在に気付いていた。偽ゼロはナナリーに殺人ウイルスを投与し、抗ウイルス薬が欲しければ自害するようルルーシュに求める。偽ゼロの持つ星晶獣マグネシアによって全てのナイトメアフレームも無力化され万策尽きた時、ジェレミアがナナリーを救出する。戦いの混乱の中で偽ゼロは姿を消し、ルルーシュはナナリーを救うため新たな策を練るのだった。,不知为何冒牌ZERO注意到了姬塔等人的存在。冒牌ZERO给娜娜注射了致死病毒，并提出只有鲁鲁修自杀才愿意交出解药。所有的Knightmare Frame也因冒牌ZERO的星晶兽马格涅西亚而无法战斗。正当走投无路之时，杰雷米亚将娜娜莉救出。冒牌ZERO趁乱消失，鲁鲁修为了拯救娜娜莉重新计划了策略。
 2,ジェレミア,これでは！　終われないのです！<br>私のぉ！　忠義は……ッ！,还不能在这里结束！<br>我的！　忠诚……！
-3,ジェレミア,<span class='scene-font-4'>ゼロォォォォーーー！！！</span>,<span class='scene-font-4'>ZEROOOOーーー！！！</span>
+3,ジェレミア,<span class='scene-font-4'>ゼロォォォォーーー！！！</span>,<span class='scene-font-4'>ZEROOOO！！！</span>
 12,,<span class='scene-font-katari'>ルルーシュたちの猛攻により</span><br><span class='scene-font-katari'>ジークフリートは完膚なきまでに</span><br><span class='scene-font-katari'>叩きのめされ、大破した。</span>,<span class='scene-font-katari'>因为鲁鲁修等人的猛攻，</span><br><span class='scene-font-katari'>齐格飞被攻击至体无完肤，最终大破。</span>
 13,ルルーシュ,なんとか勝つことが出来た……<br>スザクとカレンがいなければ<br>危うかったな。,总算是赢了……<br>要是没有朱雀和卡莲在就危险了。
 14,ルルーシュ,ナナリーは……,娜娜莉……
@@ -22,7 +22,7 @@ id,name,text,trans
 28,,<span class='scene-font-katari'>偽ゼロは懐から注射器を取り出すと、</span><br><span class='scene-font-katari'>ナナリーの首筋に突き立てた。</span>,<span class='scene-font-katari'>冒牌ZERO从怀中取出一个注射器，</span><br><span class='scene-font-katari'>并直直扎入娜娜莉的脖子。</span>
 29,ナナリー,うっ！,呜！
 30,ナナリー,く、首が熱い……<br>一体何が……,脖，脖子好烫……<br>到底发生什么……
-31,ルルーシュ,<span class='scene-font-4'>ナナリーー！！</span>,<span class='scene-font-4'>娜娜莉ーー！！</span>
+31,ルルーシュ,<span class='scene-font-4'>ナナリーー！！</span>,<span class='scene-font-4'>娜娜莉！！</span>
 32,偽ゼロ,フフ……,呵呵……
 33,,<span class='scene-font-katari'>偽ゼロは透明な液体の入った薬瓶を</span><br><span class='scene-font-katari'>取り出し、じらすように振った。</span>,<span class='scene-font-katari'>冒牌ZERO把装有透明液体的药瓶取出</span><br><span class='scene-font-katari'>像是讥讽一般，对着鲁鲁修摇了摇。</span>
 34,偽ゼロ,これはブリタニア軍の科学部が開発した<br>死に至るウイルスだ。<br>治すにはこの薬を飲ませるしかない。,我给她注射的是布里塔尼亚军科学部所研发的致死病毒。<br>想要救她，就必须得喝下这瓶解药。
@@ -158,5 +158,5 @@ id,name,text,trans
 254,,<span class='scene-font-katari'>ルルーシュは枕元に置かれた</span><br><span class='scene-font-katari'>折り鶴を手に取り、固く宣言する。</span>,<span class='scene-font-katari'>鲁鲁修拿起放在枕边的千纸鹤，坚定地宣言道。</span>
 255,ルルーシュ,俺は偽ゼロをおびき出し、<br>必ず抗ウイルス薬を手に入れ、<br>ナナリーを助ける。,我一定会诳出冒牌ZERO，<br>将解药拿到，拯救娜娜莉。
 256,ルルーシュ,そのためには……<br>俺を含む全員に犠牲になってもらう！,为此……我将牺牲所有人，包括我自己！
-262,,<span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　　　　　　──To Be Continued...</span>,<span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　　　　　　──To Be Continued...</span>
+262,,<span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　　　　　　──To Be Continued...</span>,<span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　　　　　　──To Be Continued…</span>
 info,,,scene_evt190614_cp0_q2_s10

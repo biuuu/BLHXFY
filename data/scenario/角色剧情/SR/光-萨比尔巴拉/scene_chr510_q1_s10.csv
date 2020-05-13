@@ -28,7 +28,7 @@ id,name,text,trans
 45,,The crew curiously follows behind the elder.,众人好奇地跟在长老身后。
 51,,姬塔 and company arrive at a cellar located on the premises.,姬塔众人来到长老家中的一间地下室。
 52,,"Lying inside are experimental apparatuses, along with various types of demon blades, all neatly arranged.",地下室里整齐地摆放着从未见过的各种实验器材，和各种不同形制的妖刀。
-53,Elder/老人,The blades in here each possess a different <span class='scene-font-italic'>attribute.</span>,在这里的每一把刀刃都具有独特的<span class='scene-font-italic'>力量.</span>
+53,Elder/老人,The blades in here each possess a different <span class='scene-font-italic'>attribute.</span>,在这里的每一把刀刃都具有独特的<span class='scene-font-italic'>力量</span>
 54,Elder/老人,"By employing a special technique, we can extract a portion of that <span class='scene-font-italic'>attribute.</span>",通过特定的方法，就能够将<span class='scene-font-italic'>力量</span>的一部分抽取出来。
 57,Lyria/露莉亚,You mean like that monster we fought in the garden?,就像是我们曾经战斗过的那种魔物吗？
 63,Elder/老人,Indeed. But bear in mind that it can be drawn out only because it governs a part of the demon blade's inner nature.,没错，但是这种被抽取出来的部分其实也包含着妖刀核心的一部分。
@@ -46,7 +46,7 @@ id,name,text,trans
 75,Elder/老人,I'm sorry to say it's too late for Krelkulkil... He's used the demon blade far too much.,很遗憾，卡拉库拉奇尔使用了太多妖刀的力量，已经太晚了。
 76,Elder/老人,He's reached a state where we can no longer do anything for him.,正如我之前所说，凭我们的力量已经……无能为力了。
 77,Vyrn/碧,"Now that's just straight-up coldhearted! We're talking about your grandson here, for goodness sake!",喂，这可是你的孙子啊，这么说是不是有点过分。
-78,Vyrn/碧,You're not even gonna <span class='scene-font-italic'>try</span> to keep up with the research on demon blades?,难道你连 <span class='scene-font-italic'>尝试</span>去研究妖刀都放弃了吗？ 
+78,Vyrn/碧,You're not even gonna <span class='scene-font-italic'>try</span> to keep up with the research on demon blades?,"难道你连 <span class='scene-font-italic'>尝试</span>去研究妖刀都放弃了吗？ "
 79,Elder/老人,...,……
 80,Sevilbarra,"Vyrn. Cool it, will you?",阿碧，冷静一下。
 81,Sevilbarra,The elder has spent much of his life studying the sealing technique. He sees things that we don't.,长老几乎一生都在研究封印术，比我们知道的肯定要多。

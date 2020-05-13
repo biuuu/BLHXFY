@@ -69,7 +69,7 @@ id,name,text,trans
 85,,<span class='scene-font-katari'>ジークフリートの号令で</span><br><span class='scene-font-katari'>陣営の準備を始める</span><br><span class='scene-font-katari'>黒竜騎士団団員。</span>,<span class='scene-font-katari'>在齐格飞的号令之下</span><br><span class='scene-font-katari'>黑龙骑士团的团员们</span><br><span class='scene-font-katari'>开始建设营地。</span>
 86,ジークフリート/齐格飞,早急に陣を張って<br>作戦を立てるぞ。,早点建成营地<br>就能早点确立作战计划了。
 87,,<span class='scene-font-katari'>その時、ランスロットの元に</span><br><span class='scene-font-katari'>ひとりの団員が駆け寄ってくる。</span>,<span class='scene-font-katari'>就在这时，有一个团员</span><br><span class='scene-font-katari'>来到了兰斯洛特的身边。</span>
-89,ヴェイン/维恩,おーいランちゃ～ん！<br>お弁当作ったんだけど<br>渡し忘れちゃってさ！,喂ー兰～酱！<br>我给你做的便当<br>忘记拿给你了！
+89,ヴェイン/维恩,おーいランちゃ～ん！<br>お弁当作ったんだけど<br>渡し忘れちゃってさ！,喂兰～酱！<br>我给你做的便当<br>忘记拿给你了！
 90,ランスロット/兰斯洛特,<span class='scene-font-2'>おっ……おいヴェイン！</span><br><span class='scene-font-2'>仕事中にランちゃん呼びは</span><br><span class='scene-font-2'>止めてくれと言っただろう！</span>,<span class='scene-font-2'>喂……喂维恩！</span><br><span class='scene-font-2'>我不是说过</span><br><span class='scene-font-2'>工作的时候别叫我兰酱吗！</span>
 91,ヴェイン/维恩,<span class='scene-font-2'>あっ！　ごめんなさいランちゃ……！</span><br><span class='scene-font-2'>ランスロット副団長様！　でしたねっ！</span>,<span class='scene-font-2'>啊！　对不起啊兰酱……！</span><br><span class='scene-font-2'>兰斯洛特副团长大人！　对吧！</span>
 92,ランスロット/兰斯洛特,<span class='scene-font-2'>ヴェイン、何か言葉遣いが変だぞ！</span><br><span class='scene-font-2'>次から気を付けてくれればいいから！</span>,<span class='scene-font-2'>维恩，你的说法哪里怪怪的啊！</span><br><span class='scene-font-2'>下次要注意哦！</span>
@@ -121,7 +121,7 @@ id,name,text,trans
 140,ヴェイン/维恩,俺はランスロット副団長の方が<br>いいかな～って、思っただけ！,但是我就是觉得<br>兰斯洛特副团长你更好！
 141,ランスロット/兰斯洛特,ヴェイン……,维恩……
 142,ヴェイン/维恩,ランスロットだって<br>誰もが認めるすげー奴だって！,兰斯洛特也是<br>无论是谁都会认可的很厉害的人哦！
-143,ヴェイン/维恩,俺はずーっと昔から、<br>団長にだってなれる器だって<br>そう思ってたぜ！,我从很ー久以前<br>就觉得<br>你具有成为团长的才能哦！
+143,ヴェイン/维恩,俺はずーっと昔から、<br>団長にだってなれる器だって<br>そう思ってたぜ！,我从很久以前<br>就觉得<br>你具有成为团长的才能哦！
 144,ランスロット/兰斯洛特,ありがとう……<br>ヴェイン。,谢谢你……<br>维恩。
 145,ランスロット/兰斯洛特,ふふっ……<br>流石に団長は言い過ぎだがな。,呵呵……<br>能成为团长什么的你也说得太过了吧。
 146,,<span class='scene-font-katari'>ヴェインの言葉を胸の中で反芻する</span><br><span class='scene-font-katari'>ランスロットは、不安など無かった様な</span><br><span class='scene-font-katari'>満面の笑みで答える。</span>,<span class='scene-font-katari'>兰斯洛特在心里反复品味维恩的话语后</span><br><span class='scene-font-katari'>不安都消失殆尽了的模样</span><br><span class='scene-font-katari'>露出了满脸的笑容回答道。</span>
@@ -132,3 +132,4 @@ id,name,text,trans
 151,,<span class='scene-font-katari'>そう言うとヴェインは</span><br><span class='scene-font-katari'>手際よく陣の設営を</span><br><span class='scene-font-katari'>始めるのだった。</span>,<span class='scene-font-katari'>维恩这么说着</span><br><span class='scene-font-katari'>开始投入</span><br><span class='scene-font-katari'>手上的营地建设工作。</span>
 info,,,scene_evt190927_cp1_q2_s10
 译者,,,
+,,,

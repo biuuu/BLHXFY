@@ -1,11 +1,11 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-chapter_name,81: King of the Outlaws,第81章　盗賊王,第81章　盗賊王
 0-synopsis,"The outlaws force Cain, 姬塔, and the crew to follow them to their den. The gang leader Reinhardtzar explains that they're all ex-soldiers from a corrupted, fallen country and that he wants to build a country safe for all. Cain angrily opposes his plan as it means war against other kingdoms and deaths of innocent people.",盗賊団のアジトに連行されるカインと姬塔達。その道中、姬塔達はラインハルザ率いる盗賊団が元々はトリッド王国の正規軍であり、今は、弱い立場の者でも生きていける国作りを目指していると聞かされる。カインはその考えを真っ向から非難するも、ラインハルザは顔色一つ変えず、「お前の思う理想の王ってのは、なんだ？」と問うのだった。,该隐和姬塔等人正在被带去盗贼据点的路上，姬塔等人意外知晓了莱茵哈萨率领的盗贼团原来是特利得王国的正规军，而现在他想建立一个让弱者可以生存的国家。该隐对于这一设想认真地提出了非议，莱茵哈萨脸色毫无改变，反问道“对你而言理想的王是怎样的”。
 0,"Cain, 姬塔, and the crew, led by Reinhardtzar's gang, walk the path to the den.",<span class='scene-font-katari'>姬塔達とカインは、</span><br><span class='scene-font-katari'>ラインハルザ率いる盗賊団に囲まれ、</span><br><span class='scene-font-katari'>彼らのアジトへの道を進む。</span>,<span class='scene-font-katari'>姬塔等人被莱茵哈萨统率的盗贼团包围着走向他们的据点。</span>
-1,...,…………,...
-2,I wonder what's going to happen to us...,はぁ……<br>この先、どうなっちまうんだ？<br>オイラ達……,哈...接下来我们会被怎么样啊...
-3,I don't know... But we have to find the others no matter what.,わかりません……<br>でも、絶対に、<br>他の皆と合流しないと……,不知道，但是我们必须和其他同伴汇合的...
-4,"Don't worry. Even in a pinch like this, we could easily...",大丈夫だ……<br>こんな包囲など、簡単に……,没关系，这样的包围圈很轻易就...
+1,...,…………,…
+2,I wonder what's going to happen to us...,はぁ……<br>この先、どうなっちまうんだ？<br>オイラ達……,哈…接下来我们会被怎么样啊…
+3,I don't know... But we have to find the others no matter what.,わかりません……<br>でも、絶対に、<br>他の皆と合流しないと……,不知道，但是我们必须和其他同伴汇合的…
+4,"Don't worry. Even in a pinch like this, we could easily...",大丈夫だ……<br>こんな包囲など、簡単に……,没关系，这样的包围圈很轻易就…
 5,I wouldn't try that. We aren't your average outlaws here.,やめとけよ。<br>これでもオレ達は、<br>ただの盗賊じゃねぇんだ。,劝你别动手，我们也不是普通的盗贼。
 6,"If you've been trained as we have, then you'd better think carefully about what you do next.",お前もまともな訓練を積んでるなら、<br>もう少し判断は冷静にな。,如果你已经经过了正经的训练的话就稍微冷静一点下判断吧。
 7,Trained... as you have?,お前、も、だと……？,你说“你也”？
@@ -16,7 +16,7 @@
 12,Don't look so disappointed. I think you guys have got some amazing strength.,そう悔しそうな顔をするな。<br>お前らの実力は認めてんだ。,别露出那副失望的表情嘛，我也认可你们的实力。
 13,"You kicked around my men within an inch of their lives, but you didn't take them. That's no small feat.",うちの連中を蹴散らしておきながら、<br>全員キッチリ命までは取らねぇ。<br>ホント、大したモンだ。,打散了我们的人还没有取走任何人的性命，身手真是了不得。
 14,Reinhardtzar nods pleasantly to himself before suddenly clapping his hands together.,<span class='scene-font-katari'>ひとり頷き感心すると、</span><br><span class='scene-font-katari'>ラインハルザは切り替えるように</span><br><span class='scene-font-katari'>一つ、手を打つ。</span>,<span class='scene-font-katari'>莱茵哈萨钦佩地点头，然后像是转换状态一般拍了拍手。</span>
-15,That poses the question...<br>Why don't you folks become my allies?,で、だ……ここからが本題だ。<br>お前ら、オレの仲間にならないか。,所以说...接下来切入正题，你们愿意当我的伙伴吗？
+15,That poses the question...<br>Why don't you folks become my allies?,で、だ……ここからが本題だ。<br>お前ら、オレの仲間にならないか。,所以说…接下来切入正题，你们愿意当我的伙伴吗？
 16,You need even more allies than the ones you've got here? Are you trying to build an army or something?,これだけ数がいて、<br>まだ足りないっての？<br>ホントに一個師団でも作るつもりかよ。,你们都已经有这么多人了还嫌不够吗？真的是打算组建一支师团吗？
 17,Yeah... I guess you could say that.,まぁ……そんなところだな。,嘛，就是这么回事。
 18,Beg your pardon?,なに……？,什么？
@@ -27,9 +27,9 @@
 23,But one day our country collapsed.,だが、ある日突然、<br>オレ達の国は崩れ去った。,但突然有一天，我们的国家崩坏了。
 24,Not from an outside attack though. It was already rotten from the core. We didn't realize it until it was too late.,外からの攻撃じゃねぇ、<br>内側が腐ってたんだ。<br>オレ達は最後までそれに気付けなかった。,不是因为外部的攻击，而是因为内部的腐败。我们直到最后才注意到这件事。
 25,Suddenly Cain's eyes grow wide in surprise.,<span class='scene-font-katari'>それを聞き、</span><br><span class='scene-font-katari'>カインは驚いたように目を見開く。</span>,<span class='scene-font-katari'>听说这件事后，该隐震惊地瞪大了眼。</span>
-26,Does that mean... you're from Torhid Kingdom?,それじゃあ……<br>お前、トリッド王国の……？,难道说...你是特利得王国的...
+26,Does that mean... you're from Torhid Kingdom?,それじゃあ……<br>お前、トリッド王国の……？,难道说…你是特利得王国的…
 27,"That's right. From the look on your face, I'm guessing you know something about it.",そうだよ。<br>その様子じゃ、お前も関係者か？,没错，看样子你也是相关人士啊。
-28,...,…………,...
+28,...,…………,…
 29,"Well, it's no matter. What's done is done. Hindsight's 50/50 they say, but it won't do us any good now.",まぁ、なんだっていい。<br>無いものはもう無いんだ。<br>それをとやかく言っても仕方がない。,嘛，怎样都好。已经没有的东西就没了吧，那件事再怎么说也没什么用。
 30,The real problems didn't start till later. We were looking for a new country that'd take us in.,問題はその後だ……<br>オレ達はオレ達を受け入れてくれる<br>新たな国を探した。,问题是在那之后，我们去寻找能接纳我们的新国家。
 31,But it was nowhere to be found. Despite the fact that our country was in such disarray.,だが、そんな国は、どこにも無かった。<br>あれだけ国の乱立していた時代にも<br>関わらず、だ。,但是那样的国家哪都没有，虽然也和各国分立的时代背景有关系就是了。
@@ -43,8 +43,8 @@
 39,So I'll make the rules. I'll build a country where even the powerless like us can live on in peace.,だからオレは作るんだよ。<br>弱い立場のいまのオレ達でも、<br>ちゃんと生きていける国ってのをな。,所以我才想去大干一场，去建立一个即便像我们这样处于弱者立场的人也能好好生活的国家。
 40,"The other outlaws gaze up at Reinhardtzar, with a faint glimmer of hope in their eyes.",<span class='scene-font-katari'>ラインハルザは強く拳を握りしめ、</span><br><span class='scene-font-katari'>盗賊達はそんなラインハルザの横顔に、</span><br><span class='scene-font-katari'>期待の眼差しを送っていた。</span>,<span class='scene-font-katari'>莱茵哈萨紧攥着拳，盗贼们期待的目光投向莱茵哈萨的侧脸。</span>
 41,"But Katalina seems unconvinced. Raising an eyebrow, she begins a bitter reply.",<span class='scene-font-katari'>しかし、それとは対照的に</span><br><span class='scene-font-katari'>カタリナは眉をひそめ、</span><br><span class='scene-font-katari'>吐き捨てるように告げる。</span>,<span class='scene-font-katari'>但是与之相对，卡塔莉娜蹙着眉厌恶地说。</span>
-42,That's a joke... What about the villagers? How can you threaten them one moment and spout your powerlessness in the next?,詭弁だな……<br>村人達を……弱者を虐げておきながら、<br>お前は何を言っているんだ。,真是诡辩，之前已经那样虐待村民...弱者们，你还能说出这样的话？
-43,...,…………,...
+42,That's a joke... What about the villagers? How can you threaten them one moment and spout your powerlessness in the next?,詭弁だな……<br>村人達を……弱者を虐げておきながら、<br>お前は何を言っているんだ。,真是诡辩，之前已经那样虐待村民…弱者们，你还能说出这样的话？
+43,...,…………,…
 44,Reinhardtzar glances once at Katalina before shifting his gaze to the rising fortress in the distance.,<span class='scene-font-katari'>ラインハルザはカタリナを一瞥すると、</span><br><span class='scene-font-katari'>遠くそびえる砦に目を向ける。</span>,<span class='scene-font-katari'>莱茵哈萨瞟过卡塔莉娜，目光朝向远处的据点。</span>
 45,Tell me. Have you ever wanted to be a ruler?,お前、王を志したことはあるか？,你有想过成为一名王者吗？
 46,What is this about?,何の話だ……,这又扯到什么话题了？
@@ -56,7 +56,7 @@
 52,Those folks aren't afraid of us. They're afraid of us leaving them.,アイツらはオレ達を恐れてるんじゃない。<br>オレ達がこの島を<br>出ていくことを恐れてんだ。,他们不是在害怕我们，而是在害怕我们离开这座岛。
 53,"And considering we don't draft people to join us, it's more peaceful to live here than in Idelva or Rhem.",しかも徴兵が無いことを考えれば、<br>イデルバ王国やレム王国よりも、<br>遥かに平和に暮らせている。,而且考虑到这里没有征兵制，比起伊迪尔瓦王国和雷姆王国，反倒是更和平的居住之所。
 54,So? You'd say we're a threat to the village still?,これでも……<br>オレ達が村を虐げてる、ってのか。,即便如此，还认为我们威胁着村子吗。
-55,Humph... But it's not just that...,くっ……<br>し、しかしだな……,くっ……但是...
+55,Humph... But it's not just that...,くっ……<br>し、しかしだな……,くっ……但是…
 56,I'll say you're a threat.,虐げてる、と俺は思うぜ。,我还是认为你们是村子的威胁。
 57,Cain interrupts without hesitation.,<span class='scene-font-katari'>カインは臆することなく、</span><br><span class='scene-font-katari'>キッパリとラインハルザに告げる。</span>,<span class='scene-font-katari'>该隐直言不讳地告知莱茵哈萨。</span>
 58,"The way you tell it, a ruler's job is to bully the citizens.",お前、そんな言い方したら、<br>王様は国民いじめるのが<br>仕事みたいじゃねーか。,你这样的说法就仿佛是，国王的工作就是欺负国民一样。
@@ -67,7 +67,7 @@
 63,Then why don't you tell me about sort of lord you'd wish to serve?,じゃあ、<br>お前が戴きたい主君ってのは、<br>どういうものなんだ？,那你告诉我你想侍奉的君主是怎样的？
 64,Sorry?,へっ……？,诶？
 65,What makes a good ruler to you? What sort of ruler keeps people happy and smiling?,お前の思う理想の王ってのは、なんだ。<br>皆を笑顔に、幸せに出来る王ってのは、<br>どんな存在なんだ？,对你而言理想的王是怎样的。让人民都能欢笑和幸福的王是一种怎样的存在？
-66,...,っ…………,...
+66,...,っ…………,…
 67,Cain grows silent all at once. His defiance from earlier begins to dissipate.,<span class='scene-font-katari'>滔々とラインハルザに</span><br><span class='scene-font-katari'>相対していたカインは、</span><br><span class='scene-font-katari'>不意に返すべき言葉を見失う。</span>,<span class='scene-font-katari'>莱茵哈萨咄咄逼人地问道，而该隐却意外地无法回答。</span>
 68,It's all right if you don't know the answer right now.,今はまとまらないのなら、<br>それで構わない。,现在不知道答案的话没有关系。
 69,"But if you happen to find it, let me hear it. I'm curious...",ただ、もし、見つけられたのなら……<br>聞かせてみろよ、興味がある。,但是，如果你找到了答案，也让我听听吧，我很感兴趣。

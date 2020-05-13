@@ -3,7 +3,7 @@ id,name,text,trans
 0-synopsis,,七星剣の様子がおかしいと姬塔から相談を受けたシエテは、七星剣を預かり語りかける。すると、七星剣はシエテの言葉に応え、強き者に振るわれることを欲すると答える。現在の所持者である姬塔よりもシエテの方が強者だと知る七星剣は、シエテに所持者になってもらおうと力ずくでシエテを支配しようとするのだった。,因为七星剑的样子很奇怪，姬塔便与希耶提商量，希耶提暂时保管七星剑并开始与它沟通。随后七星剑回应了希耶提的话语，回答说想被强者所使用。七星剑知道比起现在的持有者姬塔，希耶提更强，所以想要强行支配希耶提让他成为自己的持有者。
 0,,<span class='scene-font-katari'>ある時、</span><span class='scene-font-spword'>七星剣</span><span class='scene-font-katari'>の様子がおかしいと</span><br><span class='scene-font-katari'>シエテに相談する姬塔。</span>,<span class='scene-font-katari'>某一天，因为</span><span class='scene-font-spword'>七星剑</span><span class='scene-font-katari'>的样子很奇怪，</span><br><span class='scene-font-katari'>姬塔去找了希耶提商量。</span>
 1,,<span class='scene-font-katari'>シエテは剣の声を聞くために</span><br><span class='scene-font-katari'>姬塔から</span><span class='scene-font-spword'>七星剣</span><span class='scene-font-katari'>を預かる。</span>,<span class='scene-font-katari'>希耶提为了听取剑的声音，从姬塔那里拿走了</span><span class='scene-font-spword'>七星剑</span><span class='scene-font-katari'>代为保管。</span>
-5,シエテ/希耶提,うーん……<br>どうしちゃったんだろうねぇ、<br><span class='scene-font-spword'>七星剣</span>は。,嗯ー……<br>到底是发生了什么呢，<br><span class='scene-font-spword'>七星剑</span>。
+5,シエテ/希耶提,うーん……<br>どうしちゃったんだろうねぇ、<br><span class='scene-font-spword'>七星剣</span>は。,嗯……<br>到底是发生了什么呢，<br><span class='scene-font-spword'>七星剑</span>。
 6,,<span class='scene-font-katari'>シエテは、</span><span class='scene-font-spword'>七星剣</span><span class='scene-font-katari'>に</span><br><span class='scene-font-katari'>向かって語りかける。</span>,<span class='scene-font-katari'>希耶提向</span><span class='scene-font-spword'>七星剑</span><span class='scene-font-katari'>搭话。</span>
 7,シエテ/希耶提,我が名はシエテ……<br>この世全ての剣を総べし天星剣王。,我的名字是希耶提……<br>统率着这个世上所有的剑的天星剑王。
 8,シエテ/希耶提,<span class='scene-font-spword'>七星剣</span>よ、我が声に答えよ。,<span class='scene-font-spword'>七星剑</span>啊，响应我的呼唤。
@@ -23,3 +23,4 @@ id,name,text,trans
 28,シエテ/希耶提,……え？<br>ここはいい感じに納得する流れじゃ……,……诶？<br>这里难道不是感觉良好地接受了的走向吗……
 30,シエテ/希耶提,わわ！　ちょま！<br>ストップストォーップッ！,哇哇！　稍等稍等！<br>Stop，stop！
 info,,,scene_ult_chr132_q3_s10
+,,,

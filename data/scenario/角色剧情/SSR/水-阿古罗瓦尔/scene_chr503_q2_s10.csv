@@ -79,7 +79,7 @@ id,name,text,trans
 90,パーシヴァル/帕西瓦尔,<span class='scene-font-kokoro'>（兄上が同じ過ちを犯すなど、</span><br><span class='scene-font-kokoro'>考えられん。他に何か目的が……）</span>,<span class='scene-font-kokoro'>（我不认为兄长大人会犯同样的错误、</span><br><span class='scene-font-kokoro'>有什么其他的目的……）</span>
 90-sel1_txt,,<span class='scene-font-katari'>考えてる場合じゃない</span>,<span class='scene-font-katari'>现在不是犹豫的时候</span>
 92,パーシヴァル/帕西瓦尔,姬塔……<br>確かにその通りだ。<br>続け、家臣共！,姬塔……<br>确实如此。<br>前进吧、家臣们！
-93,ルリア/露莉亚,おー！,噢ー！
+93,ルリア/露莉亚,おー！,噢！
 94,ビィ/碧,おうよ！,噢！
 95,,<span class='scene-font-katari'>こうして、姬塔に</span><br><span class='scene-font-katari'>背中を押されたパーシヴァルは、</span><br><span class='scene-font-katari'>先陣を切り、坑道の奥へ進むのだった。</span>,<span class='scene-font-katari'>然后、被姬塔</span><br><span class='scene-font-katari'>推了一把的帕西瓦尔打头阵、</span><br><span class='scene-font-katari'>继向着坑道的深处前进。</span>
 info,,,scene_chr503_q2_s10

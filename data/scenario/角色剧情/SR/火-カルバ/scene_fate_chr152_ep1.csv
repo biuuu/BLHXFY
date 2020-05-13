@@ -38,7 +38,7 @@ id,en,jp,trans
 40,,<span class='scene-font-katari'>カルバを乗せ、街を目指して飛ぶ一行。</span><br><span class='scene-font-katari'>色々と話したがるカルバに付き合って</span><br><span class='scene-font-katari'>話をしていると……</span>,<span class='scene-font-katari'>载着カルバ、飞向城里的一行人。</span><br><span class='scene-font-katari'>与カルバ</span><br><span class='scene-font-katari'>聊着各种各样的话题的时候……</span>
 42,,ええっ！？　星の島ぁ！？,诶！？　星之岛！？
 43,,ああ！<br>姬塔の親父さんが<br>手紙を送ってきてだなぁ……,啊啊！<br>姬塔的老爸<br>有寄信过来……
-44,,はぁー……スッゴイ事聞いた。<br>ホントに目指してる人、いるんだね？,哈ー……听到了超厉害的事情呐。<br>真是有认真地以它为目标的人呢？
+44,,はぁー……スッゴイ事聞いた。<br>ホントに目指してる人、いるんだね？,哈……听到了超厉害的事情呐。<br>真是有认真地以它为目标的人呢？
 45,,んなっ！？<br>言っていい事と<br>悪い事があるぞ姉ちゃん！,啥！？<br>话也是分能说和不能说的啊<br>老姐！
 46,,いやいや違うの！　面白そうじゃん！<br>アレでしょ？　スッゴイお宝とか、<br>超文明だとかって奴でしょ？,不不我不是那个意思！　不是很有趣的样子嘛！<br>就是那啥？　有超厉害的宝藏啦、<br>有超级文明之类的不是吗？
 47,,うーん……実を言うと<br>そこんとこはオイラ達も<br>よくわかってねえんだが……,嗯一一……实话实说<br>关于这方面的事<br>我们也不太清楚……
@@ -65,10 +65,10 @@ id,en,jp,trans
 66,,うーん……<br>なんだか話がウマすぎるっつーか……,嗯一一……<br>总觉得这话听着太过顺利了啊……
 67,,えぇーっ！<br>私、罠にかかるのは好きだけど<br>人を罠にハメるのは嫌いだぜ？,那个！<br>我啊、最喜欢和陷阱相关的事情了<br>但是用陷阱去坑人的事是最讨厌的啊？
 68,,いやぁ、罠にかかるのが好きってのも<br>オイラどうかと思うけど……,啊哈、就算说是喜欢陷阱相关的事情<br>俺也觉得有点那啥……
-69,,星の民の遺跡とか星の島とか<br>私だって見てみたいんだよー！,星之民的遗迹呀星之岛之类的<br>我也想看看的哪ー！
-70,,だからお願ーい！<br>刺激がほーしーいーのー！,所以求你啦！<br>人家想要 找ー找ー刺ー激ー嘛！
+69,,星の民の遺跡とか星の島とか<br>私だって見てみたいんだよー！,星之民的遗迹呀星之岛之类的<br>我也想看看的哪！
+70,,だからお願ーい！<br>刺激がほーしーいーのー！,所以求你啦！<br>人家想要 找找刺激嘛！
 72,,<span class='scene-font-katari'>その後、カルバの遺跡への愛を</span><br><span class='scene-font-katari'>延々と聞かされた姬塔は、</span><br><span class='scene-font-katari'>ついに根負けして同行を許した。</span>,<span class='scene-font-katari'>那之后、不断地听着</span><br><span class='scene-font-katari'>カルバ对于遗迹的爱的姬塔、</span><br><span class='scene-font-katari'>最终还是投降并允许她同行了。</span>
-74,,いやー！　へへへ！<br>ありがとう姬塔！,呀ー！　嘿嘿嘿！<br>谢谢姬塔！
+74,,いやー！　へへへ！<br>ありがとう姬塔！,呀！　嘿嘿嘿！<br>谢谢姬塔！
 75,,遺跡の事……<br>特に罠の事なら任せてね！,遗迹的事情……<br>特别是陷阱的问题就交给我吧！
 76,,あー、燃えてきた！<br>星の民の遺跡は攻略した事ないから、<br>すっごく楽しみだね！,啊、都燃起来了！<br>星之民的遗迹可是从来没被人攻略过的、<br>超期待的呀！
 77,,ところで……<br>君は遺跡が専門なのか？,话说回来……<br>你是专攻遗迹方面的？
@@ -78,3 +78,4 @@ id,en,jp,trans
 81,,<span class='scene-font-katari'>かくしてトレジャーハンター</span><br><span class='scene-font-katari'>カルバが姬塔の旅に加わった。</span>,<span class='scene-font-katari'>于是宝物猎人</span><br><span class='scene-font-katari'>カルバ加入到了姬塔的旅途之中。</span>
 82,,<span class='scene-font-katari'>罠ある所に宝あり、を信条とする彼女。</span><br><span class='scene-font-katari'>その嗅覚の鋭さは、姬塔らの</span><br><span class='scene-font-katari'>大きな助けとなるのであった。</span>,<span class='scene-font-katari'>有陷阱的地方即有宝藏、她以此为信条。</span><br><span class='scene-font-katari'>这份敏锐的嗅觉、成为了姬塔等人</span><br><span class='scene-font-katari'>极大的助力。</span>
 info,,1,scene_fate_chr152_ep1
+,,,

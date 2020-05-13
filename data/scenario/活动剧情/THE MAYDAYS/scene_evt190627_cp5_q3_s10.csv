@@ -1,5 +1,5 @@
 id,name,text,trans
-0-chapter_name,,第5話 ワニワニビーツ,第5話 ワニワニビーツ
+0-chapter_name,,第5話 ワニワニビーツ,第5話 ワニワニビツ
 0-synopsis,,姬塔一行とハールート達が合流した頃、浜辺の洞窟では、サリエルがブルースを匿い怪我の様子を見ていた。そこにルシオが現れる。ルシオから、サリエルの探す次元の狭間は簡単に見つからないと告げられるも、諦める様子のないサリエル。そんな中、突如サメ達が洞窟に現れる。サメ達に共闘に誘われたブルースだったが、ブルースは突然変異してサメ達を薙ぎ払うのだった。,在姬塔一行人与哈露特等人汇合之时，海滩边的洞穴中，沙利叶和布鲁斯受伤藏匿着。在那里路西欧出现了。就算被路西欧告知寻找次元的夹缝并非容易之事，沙利叶也没余放弃的样子。就在那时，鲨鱼们突然出现在了洞穴中。布鲁斯被鲨鱼们邀请一同战斗，但布鲁斯却攻击了突然变异的鲨鱼们。
 2,,<span class='scene-font-katari'>一行が合流を果たす頃、</span><br><span class='scene-font-katari'>浜辺の洞窟にはサリエルが佇んでいた。</span>,<span class='scene-font-katari'>一行人汇合的时候，</span><br><span class='scene-font-katari'>沙利叶站在海边的洞穴中。</span>
 3,,<span class='scene-font-katari'>その側には彼に身を寄せるように、</span><br><span class='scene-font-katari'>水際で横たわる海洋生物の姿もあった。</span>,<span class='scene-font-katari'>一旁还可以看见好像靠在他身上一般，</span><br><span class='scene-font-katari'>横躺在水边的海洋生物的身姿。</span>
@@ -58,3 +58,4 @@ id,name,text,trans
 73,ルシオ/路西欧,彼も突然変異を……<br>だが同種を薙ぎ払った……？,它也突然变异了……<br>但却打退了同种……？
 74,ブルース/布鲁斯,<span class='scene-font-5'>Sharrrrrrk──</span>,<span class='scene-font-5'>Sharrrrrrk──</span>
 info,,,scene_evt190627_cp5_q3_s10
+,,,

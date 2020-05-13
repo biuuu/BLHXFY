@@ -6,7 +6,7 @@ id,name,text,trans
 5,,<span class='scene-font-katari'>ビィに襲い掛からんとした魔物は</span><br><span class='scene-font-katari'>グリームニルの鮮やかな攻撃によって</span><br><span class='scene-font-katari'>駆逐された。</span>,<span class='scene-font-katari'>袭击碧的魔物</span><br><span class='scene-font-katari'>在格里姆尼尔精湛的攻击下</span><br><span class='scene-font-katari'>被打倒了。</span>
 6,グリームニル,……今は眠れ。<br>汝らの行く末に、風の加護を。,……睡吧。<br>为你们的终途送上风之加护。
 7,ビィ/碧,助かったぜ！<br>それにしてもよぉ、暴風の兄ちゃんって<br>やっぱスゲェ強ぇんだな！,被救了！<br>还有就是那个，暴风小哥<br>果然超强！
-8,グリームニル,へ、へへ……<br>よせやい。<br>照れるだろー,嘿，嘿嘿……<br>呀。<br>有点害羞了ー
+8,グリームニル,へ、へへ……<br>よせやい。<br>照れるだろー,嘿，嘿嘿……<br>呀。<br>有点害羞了
 10,ルリア/露莉亚,ビィさん……<br>無事でよかったです！,碧……<br>没事真是太好了！
 11,ビィ/碧,ルリア！<br>何も見えなくなっちまったから<br>心配してたんだぜ！,露莉亚！<br>刚才什么都看不见<br>好担心的！
 12,ビィ/碧,あ、それはそうと……<br>大変なんだ！<br>ちょっとこっちに来てくれねーか？,啊，然后就是……<br>不好！<br>能不能过来一下？
@@ -16,9 +16,9 @@ id,name,text,trans
 21,ビィ/碧,ああ、微かに声がしたから、<br>ちょっと覗き込んでみたんだ。<br>そしたら……,嗯，因为传来了点声音<br>然后稍微朝里看了下<br>就……
 22,,<span class='scene-font-katari'>ルリアはクレバスに近付き、</span><br><span class='scene-font-katari'>滑落しないよう注意しながら</span><br><span class='scene-font-katari'>穴の中を覗き込む。</span>,<span class='scene-font-katari'>露莉亚靠近了裂缝，</span><br><span class='scene-font-katari'>注意着不要打滑</span><br><span class='scene-font-katari'>看向了裂缝。</span>
 23,ルリア/露莉亚,真っ暗で何も見えませんね……,一片暗什么都看不见……
-24,ルリア/露莉亚,ふたりともー！<br>大丈夫ですかー！？,两个人ー！<br>还好吗ー！？
+24,ルリア/露莉亚,ふたりともー！<br>大丈夫ですかー！？,两个人！<br>还好吗！？
 28,少年,あ、騎空士さん！<br>トカゲさんが皆を<br>連れてきてくれたみたいだよ！,啊，骑空士！<br>蜥蜴把<br>大家带过来了！
-29,少年,<span class='scene-font-4'>僕は大丈夫だよー！</span><br>でも、騎空士さんが<br>怪我をしてるんだー！,<span class='scene-font-4'>我没事ー！</span><br>但是骑空士负伤了ー！
+29,少年,<span class='scene-font-4'>僕は大丈夫だよー！</span><br>でも、騎空士さんが<br>怪我をしてるんだー！,<span class='scene-font-4'>我没事！</span><br>但是骑空士负伤了！
 33,ルリア/露莉亚,はわわ、姬塔が怪我を……<br>どうしましょう……,啊，姬塔受伤了……<br>该怎么办……
 34,グリームニル,急がねばなるまいな。<br>……ならば！<br>我が力を解放する……！,不要紧张。<br>……这样的话！<br>解放我的力量……！
 36,ビィ/碧,ちょ、ちょっと待ってくれよ……！<br>何をしようってんだ？,等，等等……！<br>你要做啥？
@@ -40,7 +40,7 @@ id,name,text,trans
 52,グリームニル,まずい……！<br>大地が震えている！<br>雪崩が来るぞ！,糟了……！<br>大地在振动！<br>雪崩要来了！
 59,,<span class='scene-font-katari'>魔物達に誘発されるように</span><br><span class='scene-font-katari'>凄まじい地響きが辺りに響き渡ると、</span><br><span class='scene-font-katari'>大きな雪崩が発生した。</span>,<span class='scene-font-katari'>好似被魔物们诱发</span><br><span class='scene-font-katari'>传来了可怕的地鸣</span><br><span class='scene-font-katari'>发生了大雪崩。</span>
 60,,<span class='scene-font-katari'>その勢いは凄まじく、</span><br><span class='scene-font-katari'>山道にいるグリームニル達をも</span><br><span class='scene-font-katari'>呑みこまんと迫りくる。</span>,<span class='scene-font-katari'>那是非常强大的气势</span><br><span class='scene-font-katari'>像是要将山路中的格里姆尼尔等人</span><br><span class='scene-font-katari'>吞噬一样袭来。</span>
-61,ビィ/碧,くっそー！<br>このままじゃオイラ達だけじゃなく、<br>クレバスに落ちた姬塔達も……,くっそー！<br>这样不止是我们<br>连掉进冰缝的姬塔他们也……
+61,ビィ/碧,くっそー！<br>このままじゃオイラ達だけじゃなく、<br>クレバスに落ちた姬塔達も……,くっそ！<br>这样不止是我们<br>连掉进冰缝的姬塔他们也……
 62,ルリア/露莉亚,どうしましょう！？,该怎么办！？
 63,グリームニル,策はある！<br>少々荒っぽいが……<br>仕方あるまい！,有办法！<br>虽然有些狂暴……<br>但是没办法！
 64,ルリア/露莉亚,グリームニルさん！？,格里姆尼尔！？
@@ -104,7 +104,7 @@ id,name,text,trans
 158,集落の女性,日々の小さな幸せを感じられれば、<br>もうそれだけで十分だね。,能感受到日常的点滴幸福，<br>已经足够了。
 159,グリームニル,……なるほど。<br>それもまた、強さか……,……原来如此。<br>这也是一种，强处……
 160,集落の女性,あ、ほら……<br>冷めちゃう前に食べなさい。,啊，喂……<br>在冷掉前快吃吧。
-161,グリームニル,はーい！<br>いっただっきまーす！,嗯ー！<br>我开动了！
+161,グリームニル,はーい！<br>いっただっきまーす！,嗯！<br>我开动了！
 162,グリームニル,<span class='scene-font-4'>……あ、あつっ！？</span>,<span class='scene-font-4'>……好，好烫！？</span>
 163,,<span class='scene-font-katari'>グリームニルは集落の女性や</span><br><span class='scene-font-katari'>姬塔達の考えを知り、</span><br><span class='scene-font-katari'>またひとつ、人の子について学んだ。</span>,<span class='scene-font-katari'>格里姆尼尔知道了</span><br><span class='scene-font-katari'>部落的女性和姬塔一行人的考量，</span><br><span class='scene-font-katari'>又从人类那里学到了些东西。</span>
 164,,<span class='scene-font-katari'>これからも姬塔との旅路で</span><br><span class='scene-font-katari'>更なる学びを得るだろう。</span>,<span class='scene-font-katari'>相信在这之后同姬塔一起的旅途上</span><br><span class='scene-font-katari'>能学到更多东西。</span>

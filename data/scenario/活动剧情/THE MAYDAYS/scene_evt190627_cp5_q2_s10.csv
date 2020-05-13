@@ -1,5 +1,5 @@
 id,name,text,trans
-0-chapter_name,,第5話 ワニワニビーツ,第5話 ワニワニビーツ
+0-chapter_name,,第5話 ワニワニビーツ,第5話 ワニワニビツ
 0-synopsis,,街の中で、海洋学者達を区役所へ避難させようとするハールートとマールート。しかし日焼けで羽が出せないことに気づき、一旦地下のバーに逃げ込む。海洋学者が「サメに羽が生えたのは沖に隕石が落ちたことによる突然変異ではないか」と気づいたとき、突如床からサメが現れる。襲われる海洋学者だったが、間一髪でサメハンターが助けに入り事無きを得るのだった。,城市中，将海洋学者等人引导至区役所避难的哈露特和玛露特，却因为发现了因为晒伤而无法生出翅膀一事，从而暂时逃入了地下的酒吧。海洋学者发现了「鲨鱼长出翅膀是因为深海区落下陨石而发生的突然异变」时、突然鲨鱼从地板下出现。被袭击的海洋学者，千钧一发之间被鲨鱼猎人所救从而无事。
 2,,<span class='scene-font-katari'>裏街道にもまた青き害獣が降り注ぎ、</span><br><span class='scene-font-katari'>餌を求め低空飛行で練り歩いていた。</span>,<span class='scene-font-katari'>小巷中也有蓝色的害兽从天而降，</span><br><span class='scene-font-katari'>为寻找饵食成队地在低空飞行游荡。</span>
 3,,<span class='scene-font-katari'>その光景に恐怖する人々は、</span><br><span class='scene-font-katari'>無我夢中で逃走するものの……</span>,<span class='scene-font-katari'>为这样的光景感到恐惧的人们，</span><br><span class='scene-font-katari'>忘我地逃命着，然而……</span>
@@ -67,3 +67,4 @@ id,name,text,trans
 101,アズラエル/亚兹拉尔,ちゅうちゅう。,亲亲。
 102,マスター/老板,フ……<br>最高にアツイぜ、おふたりさん。,呵……<br>简直如胶似漆啊，两位。
 info,,,scene_evt190627_cp5_q2_s10
+,,,

@@ -1,11 +1,11 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-chapter_name,74: What Lurks in the Snow,第74章　雪原に潜むもの,第74章：潜伏于雪原之物
 0-synopsis,"Drang is escorted from his cell to meet with the Golden Knight. He cleverly tricks her into revealing information, but she seems pleased by his cunning as it may prove useful.",白風の境にあるイスタバイオン軍の砦の中、囚われの身となったドランクはひとり思案する。そこへアニシダが現れ、ドランクを黄金の騎士の元へと連れていく。ひょうひょうとした態度を崩さないドランクは、窮地に立たされながらも黄金の騎士と舌先三寸で渡り合う。黄金の騎士はそんなドランクに興味を抱き、値踏みするような視線を送るのだった。,位于白风之境的伊斯塔拜恩军的据点内，身为囚犯的德朗克一个人思索着。在那里阿妮西达却现身了，她将德朗克带到了黄金骑士面前。德朗克一直保持着轻浮的态度，即便处于绝境也能以三寸不烂之舌与黄金骑士对峙。黄金骑士对于这样的德朗克颇有兴趣，像在评价着什么一般打量着他。
 0,"Guided by the light from Drang's crystal, 姬塔 and the crew continue to head toward Silverwind Stretch. Meanwhile...",<span class='scene-font-katari'>姬塔一行が、</span><br><span class='scene-font-katari'>ドランクの残した珠の光を頼りに、</span><br><span class='scene-font-place'>白風の境</span><span class='scene-font-katari'>へと向かっていたその頃。</span>,<span class='scene-font-katari'>正当姬塔等人借助德朗克珠子的光芒的指引，向</span><span class='scene-font-place'>白风之境</span><span class='scene-font-katari'>前进时。</span>
 3,...,…………,…………
 4,Drang seems fascinated as he gazes about his prison cell.,<span class='scene-font-katari'>ドランクはひとり興味深そうに、</span><br><span class='scene-font-katari'>自らの入れられた牢獄を眺めていた。</span>,<span class='scene-font-katari'>德朗克像是很感兴趣一样看着自己被关进的这个监狱。</span>
 5,"(Ah, I see... So that's why you put a fortress in Silverwind Stretch...)",<span class='scene-font-kokoro'>（これは……なるほどね。</span><br><span class='scene-font-kokoro'>だから</span><span class='scene-font-place'>白風の境</span><span class='scene-font-kokoro'>に、</span><br><span class='scene-font-kokoro'>砦を置けるわけか……）</span>,<span class='scene-font-kokoro'>（这是……我明白了。所以才要将据点设置在</span><span class='scene-font-place'>白风之境</span><span class='scene-font-kokoro'>啊。）</span>
-6,"(But if memory serves, this isn't the only thing here...)",<span class='scene-font-kokoro'>（でも、確か、</span><br><span class='scene-font-place'>白風の境</span><span class='scene-font-kokoro'>には、他にも……）</span>,<span class='scene-font-kokoro'>（但是，记得确实……</span><span class='scene-font-place'>白风之境</span><span class='scene-font-kokoro'>这里还有其他东西...）
+6,"(But if memory serves, this isn't the only thing here...)",<span class='scene-font-kokoro'>（でも、確か、</span><br><span class='scene-font-place'>白風の境</span><span class='scene-font-kokoro'>には、他にも……）</span>,<span class='scene-font-kokoro'>（但是，记得确实……</span><span class='scene-font-place'>白风之境</span><span class='scene-font-kokoro'>这里还有其他东西…）
 8,"Hey there! Your name's Drang, right? You're lookin' cool as a cucumber!",おや？<br>えーっと、ドランクだっけ？<br>アンタ、思ったよりも余裕そうだねぇ。,哦呀？诶，是叫德朗克吧？你似乎比想象的还更加余裕呢。
 9,Drang shrugs before answering.,<span class='scene-font-katari'>かけられた声に、</span><br><span class='scene-font-katari'>ドランクは肩をすくめながら答える。</span>,<span class='scene-font-katari'>听到这个声音，德朗克耸了耸肩然后说。</span>
 10,"Really? You think? It might seem that way, but I'm feeling utterly helpless right now.",え？　そーお？<br>こう見えて僕、<br>結構追い詰められてるんだけどなぁ～,诶？是这样吗？即便这么说我确实是被逼到绝境了啊。
@@ -28,7 +28,7 @@
 31,Oh! Now that's a surprise. But now it all makes sense.,ほう……これは意外ですね。<br>いえ、しかし、<br>これで合点がいきました。,ほう……这还真是令人吃惊，但是这样就理解了。
 32,"You're from Oarlyegrande, which explains why you know who we are...",貴方はアウライ・グランデ大空域の<br>出身であるがゆえに、<br>我々の事を知って……,因为你出生于奥莱・格兰德大空域，所以知道我们的事情。
 33,Oops. I fibbed.,まぁ、嘘だけど。,嘛，其实说的是假话。
-34,What!,なっ……！,什...！
+34,What!,なっ……！,什…！
 35,"Which means, you really are from Oarlyegrande?",っていうか、やっぱり黄金の騎士サマは、<br>アウライ・グランデの出身なわけ？,话说，黄金骑士大人果然是出身于奥莱・格兰德空域吗？
 36,Of course! So each of the Luminary Knights oversees the skydom where they're from?,そっかー！<br>七曜の騎士サマが担当する空域って、<br>それぞれの出身だったりするのかなぁ？,这样啊！七曜骑士大人负责的空域，就是各自出生的那个空域吧？
 37,"Ha-ha! This guy's a hoot and a half, eh?",ははっ……<br>ね？　こいつ面白いでしょ？,哈哈，是吧？这个家伙很有趣吧？
@@ -39,3 +39,4 @@
 42,Alliah narrows her eyes as she observes Drang.,<span class='scene-font-katari'>いつもの態度を崩さないドランクに対し、</span><br><span class='scene-font-katari'>黄金の騎士は</span><br><span class='scene-font-katari'>値踏みするように目を細める。</span>,<span class='scene-font-katari'>对于始终保持着轻浮态度的德朗克，黄金骑士像在评价着什么一般打量着他。</span>
 43,"She is unable to read his motives, but she is curious about him nonetheless.",<span class='scene-font-katari'>それは、</span><br><span class='scene-font-katari'>ドランクという男を測りかねながらも、</span><br><span class='scene-font-katari'>確かに興味を抱いている様子だった。</span>,<span class='scene-font-katari'>即便是猜不透德朗克这个人物，但是也确实对他抱有兴趣的样子。</span>
 info,1,1,scene_cp74_q3_s10
+,,,

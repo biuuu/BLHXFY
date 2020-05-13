@@ -2,7 +2,7 @@ id,en,jp,trans
 0-chapter_name,,,第4话 太恐怖了！复活的皮萨德！
 0-synopsis,,,降落到岛上的姬塔一行。正在对这份寂静和奇妙的人形石像感到奇怪的时候，皮萨德就大笑着出现了。为了得到露莉亚并对光之美少女进行复仇，皮萨德利用萨凯那讲格兰赛法变成了怪物。渚和穗乃香因为姬塔她们重要的伙伴被变成了可怕的怪物而愤怒起来，变身成了光之美少女。
 2,,,<span class='scene-font-katari'>姬塔一行并不知晓已经被皮萨德</span><br><span class='scene-font-katari'>抄到了前面，为了进行物资的补给</span><br><span class='scene-font-katari'>而降落到了某座边境的岛上。</span>
-5,,,是久违的地面ー！<br>还感觉有点摇摇晃晃的。
+5,,,是久违的地面！<br>还感觉有点摇摇晃晃的。
 6,,,因为身体已经习惯<br>船上的感觉了啊。<br>我想过一会儿就好了。
 7,,,这座岛上好像有很多吃饭的地方哟。<br>在筹备物资之前<br>先去填饱肚子吧！
 8,,,赞成！
@@ -10,7 +10,7 @@ id,en,jp,trans
 10,,,章鱼烧！<br>……再怎么说也不可能有吧，<br>那要是有什么粉类的就好了！
 11,,,没有粉哦啵啵。<br>只有石头啵啵。
 12,,,所谓的粉类是指吃的东西哟。<br>石头可吃不了吧？
-13,,,难道是在说<br>石板烧之类的东西吗？<br>那也挺不错的ー！
+13,,,难道是在说<br>石板烧之类的东西吗？<br>那也挺不错的！
 14,,,什么烧都好啦，<br>总之先去找家店吧！
 31,,,不过会说回来，还真是安静呢……<br>真的有人住在这里吗？
 32,,,咦？
@@ -43,14 +43,14 @@ id,en,jp,trans
 71,,,是吗。<br>那么……
 72,,,愤怒的空中妖气、萨凯那哟！<br>让她们品尝下邪恶之心、<br>黑暗的恐怖吧！
 79,,,<span class='scene-font-katari'>将手伸向天空</span><br><span class='scene-font-katari'>高声咏唱的瞬间，</span><br><span class='scene-font-katari'>四周就被黑暗所包围。</span>
-85,,,<span class='scene-font-4'>萨凯那ー！</span>
+85,,,<span class='scene-font-4'>萨凯那！</span>
 86,,,<span class='scene-font-katari'>不知从哪儿涌出的黑暗的影子</span><br><span class='scene-font-katari'>像是在嘲笑姬塔一行一样</span><br><span class='scene-font-katari'>发出邪恶的咆哮。</span>
 90,,,……我说那帮萨凯那，一出现就跑到别的地方去了哦？
 91,,,<span class='scene-font-katari'>远离姬塔一行</span><br><span class='scene-font-katari'>向空中冲去的妖气。</span><br><span class='scene-font-katari'>在其前面的是……</span>
 92,,,格兰赛法它……！
 99,,,<span class='scene-font-katari'>萨凯那冲进了停在起飞点的</span><br><span class='scene-font-katari'>格兰赛法的内部。</span>
 116,,,<span class='scene-font-katari'>格兰赛法一边不稳地震动着，</span><br><span class='scene-font-katari'>一边进行着变形，</span><br><span class='scene-font-katari'>在船头的龙的额头上现出了十字形的凹痕。</span>
-117,,,<span class='scene-font-4'>萨ー凯ー那ー！</span>
+117,,,<span class='scene-font-4'>萨凯那！</span>
 118,,,不会吧！
 119,,,巨大的龙<br>原来是指这个！
 120,,,怎么会……<br>格兰赛法被……
@@ -71,5 +71,6 @@ id,en,jp,trans
 164,,,<span class='scene-font-katari'>在彩虹色光芒的包裹下，</span><br><span class='scene-font-katari'>渚和穗乃香变身成了传说中的战士</span><br><span class='scene-font-katari'>光之美少女。</span>
 165,,,哼……就得这样才行！
 166,,,萨凯那哟、给我上！
-167,,,<span class='scene-font-4'>萨ー凯ー那ー！</span>
+167,,,<span class='scene-font-4'>萨凯那！</span>
 info,,1,scene_evt181014_cp4_q1_s10
+,,,

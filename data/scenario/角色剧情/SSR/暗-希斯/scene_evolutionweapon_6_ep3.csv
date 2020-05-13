@@ -17,13 +17,13 @@ id,name,text,trans
 13,ルリア/露莉亚,……それで、一族を滅ぼした男の子は<br>その後どうなったんでしょうか……,……然后呢，<br>那个毁灭了一族的男孩子之后怎么样了……
 14,ビィ/碧,そ、そうだぜ！<br>まさか、その生き残り……<br>この島のどっかに潜んでんじゃ……,对，对啊！<br>难道说，那个活下来的家伙……<br>至今还潜伏在这个岛的某处……
 15,シス/希斯,…………,…………
-16,ビィ/碧,うわーっ！　でたーーーっ！,呜哇ー！　出现了ーーー！
+16,ビィ/碧,うわーっ！　でたーーーっ！,呜哇！　出现了！
 17,ビィ/碧,……って、その仮面マント<br>前によろず屋で会った<br>十天衆じゃねぇか！,……那个假面披风，<br>不是之前在万事屋见过的十天众吗！
 18,シス/希斯,…………どうやら、<br><span class='scene-font-spword'>「天星器」</span>の「覚醒」も間近、か。,……看样子，<span class='scene-font-spword'>「天星器」</span>的「觉醒」已经近在咫尺了啊。
 19,ルリア/露莉亚,こんにちは、シスさん。<br>あの、<span class='scene-font-spword'>「天星器」</span>……って<br>この<span class='scene-font-spword'>「六崩拳」</span>の事なんですよね？,你好，希斯。<br>那个，你说的<span class='scene-font-spword'>「天星器」</span>……是指这个<span class='scene-font-spword'>「六崩拳」</span>吗？
 22,シス/希斯,そうだ。<br><span class='scene-font-spword'>「天星器」</span>とは<span class='scene-font-spword'>「六崩拳」</span>を含め<br>十種の武器からなる“伝説の武器”だ。,是的。<br><span class='scene-font-spword'>「天星器」</span>是包含<span class='scene-font-spword'>「六崩拳」</span>在内，由十种武器组成的“传说的武器”。
 23,シス/希斯,その威力は天をひしゃぎ、星を砕く……<br>……覇空戦争か、あるいはそれ以前から<br>存在すると言われている。,那个威力可以压垮天空，击碎星辰……<br>……据说在霸空战争的时候，甚至是更早之前就存在了。
-25,ルリア/露莉亚,はわー……<br>す、すごいですー……,哈哇ー……<br>好，好厉害啊ー……
+25,ルリア/露莉亚,はわー……<br>す、すごいですー……,哈哇……<br>好，好厉害啊……
 26,シス/希斯,それも知らずに「覚醒」させようと<br>していたとは……,你们连这都不知道就想让它「觉醒」吗……
 27,ビィ/碧,なるほどなぁ！<br>そんなすげぇ武器だったのか。<br>通りで手間がかかるわけだぜ！,原来是这样啊！<br>居然是这么了不得的武器。<br>难怪一路的工序这么费事啊！
 28,シス/希斯,……<span class='scene-font-spword'>「天星器」</span>の力を知ってなお<br>迷いなく先を見据えるその瞳。,……知道了<span class='scene-font-spword'>「天星器」</span>的力量之后仍旧毫不迷茫看着前方的那双眼睛。
@@ -39,3 +39,4 @@ id,name,text,trans
 41,ビィ/碧,んなっ！<br>仮面マントの野郎め！<br>勝手なこと言ってんじゃねぇや！！,什么！<br>假面披风你这家伙！<br>别在那里自说自话啊！！
 42,,<span class='scene-font-katari'>不穏な言葉を残し、去っていくシス。</span><br><span class='scene-font-spword'>「六崩拳」</span><span class='scene-font-katari'>の解放とは、彼にとって</span><br><span class='scene-font-katari'>どのような意味があるのだろうか──</span>,<span class='scene-font-katari'>希斯留下了危险的发言后离开了。</span><br><span class='scene-font-spword'>「六崩拳」</span><span class='scene-font-katari'>的解放，对他来说到底意味着什么呢──</span>
 info,,,scene_evolutionweapon_6_ep3
+,,,

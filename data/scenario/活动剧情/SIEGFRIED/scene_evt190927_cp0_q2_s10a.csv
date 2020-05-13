@@ -59,7 +59,7 @@ id,name,text,trans
 88,,<span class='scene-font-katari'>真新しい墓の前で、静かに</span><br><span class='scene-font-katari'>黙祷を捧げるジークフリート。</span>,<span class='scene-font-katari'>齐格飞在全新的墓前</span><br><span class='scene-font-katari'>静静地献上了默祷</span>
 89,ジークフリート/齐格飞,さてと……,那么……
 90,,<span class='scene-font-katari'>黙祷を終えたジークフリートが</span><br><span class='scene-font-katari'>顔を上げた先には、王都の練兵場で</span><br><span class='scene-font-katari'>稽古をする騎士達の姿が見えた。</span>,<span class='scene-font-katari'>结束了默祷的齐格飞</span><br><span class='scene-font-katari'>抬起头眼前看到的是</span><br><span class='scene-font-katari'>在王都的训练场上练习着的骑士们的身影。</span>
-95,ランスロット/兰斯洛特,おいヘンリー<br>もう息切れしてるぞー！<br>ちゃんと毎日走り込みしてるのか？,喂，亨利<br>你已经开始气喘吁吁了哦ー！<br>有每天好好做跑步练习吗？
+95,ランスロット/兰斯洛特,おいヘンリー<br>もう息切れしてるぞー！<br>ちゃんと毎日走り込みしてるのか？,喂，亨利<br>你已经开始气喘吁吁了哦！<br>有每天好好做跑步练习吗？
 96,ヘンリー/亨利,はっ……はいっ！<br>頑張ります！,是……是！<br>我会努力的！
 97,ヴェイン/维恩,クルス、トネリロ！<br>今日はこの間教えた技のおさらいな！,库鲁斯，托涅利罗！<br>今天来温习之前教的技巧！
 98,クルス/库鲁斯,はい。,是。
@@ -123,3 +123,4 @@ id,name,text,trans
 176,,<span class='scene-font-katari'>「SIEGFRIED」</span><br><span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　　　　　　　　　　　　　　　──完</span>,<span class='scene-font-katari'>「SIEGFRIED」</span><br><span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　　　　　　　　　　　　　　　──完</span>
 info,,,scene_evt190927_cp0_q2_s10a
 译者,,,
+,,,

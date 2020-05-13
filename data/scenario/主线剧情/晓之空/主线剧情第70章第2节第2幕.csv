@@ -1,4 +1,4 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-chapter_name,70: Erste Kingdom,第70章　エルステ王国,70：埃尔斯特王国
 0-synopsis,The note appears to be a list of islands that 姬塔's father and Walfrid visited on their journey to gather map pieces.,ヴァルフリートがリーシャに託したメモは、ロゼッタ曰く、姬塔の父やヴァルフリート達と旅をしていた頃、みんなで空図の欠片を手に入れた島を忘れないよう書き留めていたものだという。聞いたこともない島ばかりが記されている中、そのメモに記されていた島の一つである、かつて立ち寄ったことのある<span class='scene-font-place'>ラビ島メフォラシュ</span>へ、姬塔一行は騎空艇を進める。,萝赛塔说瓦佛利特所托付的笔记是在过去与姬塔的父亲一起旅行时，为了不至于忘记可以入手空图碎片的岛屿因而记录下来的。上面也记载着一些闻所未闻的岛屿。众人按照笔记提示，乘坐骑空艇前往过去曾来过的</span><span class='scene-font-place'>拉比岛的美佛拉修</span>。
 0,All righty then! Let's huddle up before we land in Mephorash.,うっし……<br>んじゃ、<span class='scene-font-place'>メフォラシュ</span>に着く前に、<br>改めて確認するぞ。,好嘞！那么，在到达<span class='scene-font-place'>美佛拉修</span>之前重新确认一下。
@@ -31,7 +31,7 @@
 26,"As for this one, I've never even heard of it.",こっちの島は、<br>オレですら聞いたこともねぇ名前だ。,而这个岛的名字我是完全没听说过。
 27,"How about this one? I don't know anything about it, but how about you, Eugen?",こっちのはどうだ？<br>俺はわからねぇが……<br>オイゲン、わかるか？,这个怎么样？我是什么都不知道，但你呢，欧根？
 28,"No siree. I've heard of the place, but I don't know anything about it either.",いやぁ……<br>名前を耳にしたことはあるが、<br>場所まではわからねぇな……,不，只是名字的话是有所听闻，但是但是连在哪里这样的信息都不知道啊。
-29,"In that case, there's only one place on this list we should head to.",そうするとやはり、<br>この中で私達が向かうべきは……,这么说来果然我们可以去的其中一个岛屿是...
+29,"In that case, there's only one place on this list we should head to.",そうするとやはり、<br>この中で私達が向かうべきは……,这么说来果然我们可以去的其中一个岛屿是…
 30,Ravi Island. It's the only place to start.,<span class='scene-font-place'>ラビ島メフォラシュ</span>……<br>ここしか無いようですね。,<span class='scene-font-place'>拉比岛美佛拉修</span>，只有这里了吧。
 31,"Mephorash is where Orchid is, right?",<span class='scene-font-place'>メフォラシュ</span>って、<br>オーキスちゃんの島ですよね？,</span><span class='scene-font-place'>美佛拉修</span>是奥琪斯酱所在的岛屿吧？
 32,I want to see her again.,私、また会いたいです、<br>オーキスちゃんに……,我想与奥琪斯酱见面。
@@ -39,3 +39,4 @@
 34,"You know, we've dropped by this place before. Is there even a primal beast here?",しかし、一度は立ち寄ってっけどよ……<br>あの島に<span class='scene-font-spword'>空図の欠片</span>を持ってるような<br>星晶獣なんているのか？,但是已经去过一次了呀。那个岛上真的有持有<span class='scene-font-spword'>空图碎片</span>的星晶兽吗？
 35,"We won't know until we get there. And it seems we're just about to arrive, so keep an eye out for monsters!",行けばわかるわ……<br>さぁ、もう島は目の前よ。<br>残った魔物も片付けちゃいましょ。,去了就知道了，就在前方了。不过先把魔物都收拾了吧。
 info,1,1,scene_cp70_q2_s20
+,,,

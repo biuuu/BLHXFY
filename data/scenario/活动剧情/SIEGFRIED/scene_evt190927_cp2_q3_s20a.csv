@@ -1,4 +1,4 @@
-﻿id,name,text,trans
+id,name,text,trans
 0-chapter_name,,第2話 異変,第2话 异变
 0-synopsis,,事態が収束した頃、真龍ファフニール討伐の功績から、グンターとジークフリートは表彰を受ける。同時に王立騎士団は黒竜騎士団に改名され、グンターの推薦によりジークフリートが黒竜騎士団の団長に任ぜられた。昔話を語り終えた頃、３人はブルグント地方にある村に到着し、村人を襲うワイバーンと遭遇するのだった。,解决了事件之后，因为讨伐真龙法芙娜的功绩，古达和齐格飞受到了表彰。同时，国立骑士团改名为黑龙骑士团，在古达的推荐之下由齐格飞担任团长。说完过去的故事后，齐格飞三人到达了勃艮第地区的某个村庄，并遇到了袭击村民的飞龙。
 1,,<span class='scene-font-katari'>時は流れ、全ての事態が収束した頃、</span><br><span class='scene-font-katari'>玉座の間には、グンターと</span><br><span class='scene-font-katari'>ジークフリートの姿があった。</span>,<span class='scene-font-katari'>时间流逝，全部的事情都解决之后，</span><br><span class='scene-font-katari'>古达和齐格飞的身影出现</span><br><span class='scene-font-katari'>在宫殿的王座之前。</span>
@@ -63,7 +63,7 @@
 65,ジークフリート/齐格飞,む……<br>アーサー、モルドレッド<br>村が見えたぞ。,む……<br>亚瑟、莫德雷德<br>可以看见村庄了。
 66,,<span class='scene-font-katari'>そうこうしている内に</span><br><span class='scene-font-katari'>ジークフリート達は、</span><br><span class='scene-font-katari'>ブルグント地方にある村に到着する。</span>,<span class='scene-font-katari'>そうこうしている内に</span><br><span class='scene-font-katari'>齐格飞他们，</span><br><span class='scene-font-katari'>到达了勃艮第地区的村庄。</span>
 70,,<span class='scene-font-katari'>そこでは、我が物顔で跋扈する</span><br><span class='scene-font-katari'>ワイバーンが村を襲っていた。　<br></span>,<span class='scene-font-katari'>在那里，旁若无人横行的飞龙，</span><br><span class='scene-font-katari'>正在袭击村庄。　<br></span>
-71,ワイバーン,<span class='scene-font-4'>グギャー！</span>,<span class='scene-font-4'>咕嘎ー！</span>
+71,ワイバーン,<span class='scene-font-4'>グギャー！</span>,<span class='scene-font-4'>咕嘎！</span>
 72,村人/村民,<span class='scene-font-4'>ひいっ！</span><br>あっちへ行け！,<span class='scene-font-4'>啊啊啊！</span><br>朝那里去了！
 73,ジークフリート/齐格飞,アーサー、モルドレッド！<br>村人達を助けるぞ！,亚瑟，莫德雷德！<br>一起去帮助村民吧！
 74,アーサー＆モルドレッド,<span class='scene-font-4'>はいっ！</span>,<span class='scene-font-4'>是！</span>

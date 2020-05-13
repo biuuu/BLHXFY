@@ -1,6 +1,6 @@
 id,name,text,trans
 0-chapter_name,,#2 みんなで始めよう！,#2 大家一起开始吧！
-0-synopsis,,<span class='scene-font-place'>ルーマシー群島</span>の街の一角で、μ'sとテナシーの街の少女達の路上ライブが開催される。μ'sやテナシーの街の少女達が懸命に歌う姿は、テナシーの街出身者のみならず地元の人々の胸をも打ち、人々はスクールアイドルの輪に加わっていく。しかしμ'sがライブを終えると、突如見たこともない魔物が星晶獣の気配と共に現れ、μ's達に襲い掛かるのだった。,<span class='scene-font-place'>ルーマシー群島</span>の街の一角で、μ'sとテナシーの街の少女達の路上ライブが開催される。μ'sやテナシーの街の少女達が懸命に歌う姿は、テナシーの街出身者のみならず地元の人々の胸をも打ち、人々はスクールアイドルの輪に加わっていく。しかしμ'sがライブを終えると、突如見たこともない魔物が星晶獣の気配と共に現れ、μ's達に襲い掛かるのだった。
+0-synopsis,,<span class='scene-font-place'>ルーマシー群島</span>の街の一角で、μ'sとテナシーの街の少女達の路上ライブが開催される。μ'sやテナシーの街の少女達が懸命に歌う姿は、テナシーの街出身者のみならず地元の人々の胸をも打ち、人々はスクールアイドルの輪に加わっていく。しかしμ'sがライブを終えると、突如見たこともない魔物が星晶獣の気配と共に現れ、μ's達に襲い掛かるのだった。,<span class='scene-font-place'>ルマシ群島</span>の街の一角で、μ'sとテナシの街の少女達の路上ライブが開催される。μ'sやテナシの街の少女達が懸命に歌う姿は、テナシの街出身者のみならず地元の人々の胸をも打ち、人々はスクルアイドルの輪に加わっていく。しかしμ'sがライブを終えると、突如見たこともない魔物が星晶獣の気配と共に現れ、μ's達に襲い掛かるのだった。
 1,,<span class='scene-font-katari'>そして、街の一角で</span><br><span class='scene-font-katari'>簡素ながらもμ'sと少女達の</span><br><span class='scene-font-katari'>路上ライブが開催される。</span>,<span class='scene-font-katari'>于是，在城镇的一角</span><br><span class='scene-font-katari'>μ's和少女们的</span><br><span class='scene-font-katari'>朴素的街头Live开始了。</span>
 2,女性１,う、歌います！<br>よろしくお願いします！,要，要唱歌了！<br>请多多指教！
 3,,<span class='scene-font-katari'>穂乃果達が持ち込んだ</span><br><span class='scene-font-katari'>音楽プレーヤーと拡張スピーカーを</span><br><span class='scene-font-katari'>繋げただけの音響設備であるが──</span>,<span class='scene-font-katari'>虽然音响设备</span><br><span class='scene-font-katari'>只有穗乃果一行人带来的</span><br><span class='scene-font-katari'>播放器和扬声器──</span>
@@ -40,16 +40,16 @@ id,name,text,trans
 41,,<span class='scene-font-katari'>拍手と歓声が響くなか、</span><br><span class='scene-font-katari'>人垣の外からその様子を眺める一行。</span>,<span class='scene-font-katari'>在掌声和欢呼声中，</span><br><span class='scene-font-katari'>一行人在眺望人墙外面的状况。</span>
 42,穂乃果,みなさん、はじめまして！<br>二番手は、<br>私達μ'sに歌わせてください！,大家，初次见面！<br>第二个登场的是我们μ's，<br>请让我们献歌一曲！
 43,にこ/妮可,ふふ……<br>ついに来たわね、私の本領発揮の時が！,呵呵……<br>终于到来了呢，我发挥本领的时候！
-44,にこ/妮可,にっこにっこにー！<br>あなたのハートににこにこにー！<br>笑顔届ける矢澤にこにこー！,NICONICONIー！<br>对着你的心里NICONICONIー！<br>我是传递笑容的矢泽妮可妮可ー！
+44,にこ/妮可,にっこにっこにー！<br>あなたのハートににこにこにー！<br>笑顔届ける矢澤にこにこー！,NICONICONI！<br>对着你的心里NICONICONI！<br>我是传递笑容的矢泽妮可妮可！
 45,にこ/妮可,にこにー、って覚えてラブにこっ☆,要记住妮可妮唷LOVE NICO☆
 46,メドゥーサ・アテナ/美杜莎・雅典娜,…………？,…………？
 47,ルリア/露莉亚,わぁ……！<br>なんだか、とっても可愛いですね！,哇……！<br>总感觉，非常的可爱呢！
 48,ビィ/碧,ああ、<br>何言ってんだかよくわかんねえけど<br>頑張ってるのは伝わってくるな！,是啊，<br>虽然不知道她在说什么<br>但是很努力的感觉已经传达到了呢！
-49,アテナ/雅典娜,メドゥーサ、<br>あの「にこにこにー」とは<br>なんなのですか？,美杜莎，<br>那个「NICONICONIー」的东西<br>是什么啊？
+49,アテナ/雅典娜,メドゥーサ、<br>あの「にこにこにー」とは<br>なんなのですか？,美杜莎，<br>那个「NICONICONI」的东西<br>是什么啊？
 50,メドゥーサ/美杜莎,さ、さぁ……<br>色々あるんじゃない？,不，不清楚呢……<br>祭典中也有各种各样的吧？
 51,,<span class='scene-font-katari'>その後、μ'sの９人によるライブも</span><br><span class='scene-font-katari'>盛況を博し──</span>,<span class='scene-font-katari'>在那之后，μ's的９人把Live</span><br><span class='scene-font-katari'>带向了空前盛况──</span>
 56,女性６,あ、あの……<br>ああいうことって、<br>私達もできるんでしょうか？,那，那个……<br>那种事情，<br>我们也能做到吗？
-57,凛,もっちろん！<br>あなたもやってみる？<br>とーっても楽しいよ？,当然啦！<br>你也要试试吗？<br>非ー常的开心唷？
+57,凛,もっちろん！<br>あなたもやってみる？<br>とーっても楽しいよ？,当然啦！<br>你也要试试吗？<br>非常的开心唷？
 58,,<span class='scene-font-katari'>テナシー・</span><span class='scene-font-place'>ルーマシー</span><span class='scene-font-katari'>の住民問わず</span><br><span class='scene-font-katari'>歌への興味を抱かせることとなった。</span>,<span class='scene-font-katari'>特纳西与</span><span class='scene-font-place'>路玛希</span><span class='scene-font-katari'>的住民毫无疑问</span><br><span class='scene-font-katari'>都对唱歌开始感兴趣了。</span>
 59,,<span class='scene-font-katari'>その時のことである。</span>,<span class='scene-font-katari'>就在这时。</span>
 67,？？？,<span class='scene-font-gray'>影響、確認……</span><br><span class='scene-font-gray'>新たなサンプルを……</span>,<span class='scene-font-gray'>影响，确认……</span><br><span class='scene-font-gray'>把新的样本……</span>
@@ -81,7 +81,7 @@ id,name,text,trans
 103,魔物,ぬぅん……,呶……
 104,穂乃果,で……,出……
 105,絵里/绘里,で……！,出……！
-106,穂乃果・絵里/穂乃果・绘里,<span class='scene-font-4'>出たーーーーっ！？</span>,<span class='scene-font-4'>出现了ーーーー…！？</span>
+106,穂乃果・絵里/穂乃果・绘里,<span class='scene-font-4'>出たーーーーっ！？</span>,<span class='scene-font-4'>出现了…！？</span>
 108,,<span class='scene-font-katari'>虚を衝かれて</span><br><span class='scene-font-katari'>後れをとった姬塔は</span><br><span class='scene-font-katari'>穂乃果達のもとへと駆け出す。</span>,<span class='scene-font-katari'>强行踏着没站稳的脚步</span><br><span class='scene-font-katari'>站在后面的姬塔</span><br><span class='scene-font-katari'>冲到了穗乃果她们身边。</span>
 109,魔物,み……みぅ……,μ……μ'……
 110,穂乃果,え……？,诶……？

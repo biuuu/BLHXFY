@@ -134,21 +134,22 @@ id,name,text,trans
 146,,<span class='scene-font-katari'>ミーツェノス島──</span>,<span class='scene-font-katari'>密切诺斯岛──</span>
 147,,<span class='scene-font-katari'>とある丘に、悲痛な猫の叫びが響く。</span>,<span class='scene-font-katari'>在某个山丘、转响着猫的悲鸣。</span>
 148,？？？,フシャーッ！！,嗷嗷嗷嗷！！
-150,？？？,ニャーーーッ！！,嗷ーーー呜！！
-151,？？？,ンニャーーー！,呜喵ーーー！
+150,？？？,ニャーーーッ！！,嗷呜！！
+151,？？？,ンニャーーー！,呜喵！
 152,,<span class='scene-font-katari'>まだ歳若い１匹の猫が、</span><br><span class='scene-font-katari'>多くの猫に囲まれていた。</span>,<span class='scene-font-katari'>年仅一岁的幼猫、</span><br><span class='scene-font-katari'>被众多的猫围在中间。</span>
-153,？？？,フーッ！,呜ー嗷！
+153,？？？,フーッ！,呜嗷！
 154,？？？,…………！,…………！
-156,？？？,ブミャー！,喵ー！
+156,？？？,ブミャー！,喵！
 157,？？？,ッ！！,唔！！
-158,？？？,<span class='scene-font-4'>シャーー！</span>,<span class='scene-font-4'>喵ーー！</span>
-159,？？？,<span class='scene-font-4'>シャーーーッ！！</span>,<span class='scene-font-4'>喵ーーー！！</span>
+158,？？？,<span class='scene-font-4'>シャーー！</span>,<span class='scene-font-4'>喵！</span>
+159,？？？,<span class='scene-font-4'>シャーーーッ！！</span>,<span class='scene-font-4'>喵！！</span>
 160,,<span class='scene-font-katari'>歳若い猫は多勢に敗れ、</span><br><span class='scene-font-katari'>取り押さえられてしまう。</span>,<span class='scene-font-katari'>幼猫寡不敌众、</span><br><span class='scene-font-katari'>败下阵来。</span>
-162,？？？,フッー……,呜喵ー……
-163,？？？,ブミャーッ！,喵ー！
+162,？？？,フッー……,呜喵……
+163,？？？,ブミャーッ！,喵！
 168,,<span class='scene-font-katari'>捕まった猫は、そのまま</span><br><span class='scene-font-katari'>どこかへ引きずられていく。</span>,<span class='scene-font-katari'>被抓到的猫、就这样</span><br><span class='scene-font-katari'>不知被带往何方。</span>
 169,？？？,…………,…………
 170,,<span class='scene-font-katari'>そんな中、凶暴な猫達の目を盗み</span><br><span class='scene-font-katari'>１匹の猫がその場から逃亡した。</span>,<span class='scene-font-katari'>之中、一匹猫瞅准时机</span><br><span class='scene-font-katari'>从凶暴的猫群中逃离。</span>
 171,？？？,…………,…………
 172,,<span class='scene-font-katari'>小さな島の猫達の社会は今、</span><br><span class='scene-font-katari'>重く危険な空気に包まれていた──</span>,<span class='scene-font-katari'>现在小岛上的猫群社会、</span><br><span class='scene-font-katari'>被厚重的危机所包围──</span>
 info,麻友桑的话筒,,scene_evt190131_cp0_q1_s10
+,,,

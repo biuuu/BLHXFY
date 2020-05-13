@@ -1,4 +1,4 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-chapter_name,"83: Old Battles, New Paths",第83章　決着と新たな旅路,第83章 了结与新的旅途
 0-synopsis,Cain reveals that he's a general in the Idelva Army and explains to the crew the danger of the seal they'd secured earlier. He invites the crew to stay in Idelva Kingdom as guests while he helps them find their missing friends.," 姬塔一行は、カインがイデルバ王国の将軍である事、そしてレオナと名乗る女性がカインの副官であり義姉でもある事を明かされる。はぐれた仲間を探す姬塔達に、カインは一時的にイデルバ王国に身を寄せてはどうかと提案し、仲間探しも手伝うと申し出る。 姬塔は提案に乗り、イデルバ王国へと渡る事を決めるのだった。",姬塔等人知道了该隐是伊迪尔瓦王国的将军，而名为蕾欧娜的女性自称为该隐的副官，同时也是他义姐。该隐向打算寻找失散同伴的姬塔等人提议，可以暂时寄身于伊迪尔瓦王国，并协助他们一同寻找。姬塔同意了这个建议，决定前往伊迪尔瓦王国。
 0,"Having surrendered to Idelva Kingdom, all the outlaws, regardless of their injuries, are to be escorted to the capital.",<span class='scene-font-katari'>イデルバ王国に降伏した盗賊達は、</span><br><span class='scene-font-katari'>傷を負った者は居るものの、</span><br><span class='scene-font-katari'>全員が王都へと連行されることとなった。</span>,<span class='scene-font-katari'>向伊迪尔瓦王国投降的盗贼，无论伤残与否，都要被押解到王都。</span>
@@ -7,18 +7,18 @@
 3,It sounded like one of those soldiers just called you a general...,兵達が先ほど、<br>君のことを「将軍」と<br>呼んでいたようだが……？,士兵刚才称呼你为“将军”了吧？
 4,"Katalina and the crew seem perplexed, but Cain answers in his usual carefree demeanor.",<span class='scene-font-katari'>訝しげなカタリナ達に対し、</span><br><span class='scene-font-katari'>カインは飄々と</span><br><span class='scene-font-katari'>いつもの調子のまま告げる。</span>,<span class='scene-font-katari'>对于卡塔莉娜等人的怀疑，该隐恢复了一如既往随性的态度说道。</span>
 5,Yeah... I'm sort of a general for the Idelva Kingdom.,ああ、俺、<br>イデルバ王国で将軍やってんだ。,啊，我在伊迪尔瓦王国担任将军来着。
-6,You?,なっ……,什么...
+6,You?,なっ……,什么…
 7,Well... let me take over from here.,ええっと……<br>私から説明しますね。,呃，由我来解释吧。
 8,"The woman introduces herself as Leona, Cain's adjutant.",<span class='scene-font-katari'>女性はレオナと名乗り、</span><br><span class='scene-font-katari'>自らはカインの副官であると説明する。</span>,<span class='scene-font-katari'>女性自称蕾欧娜，并说明了自己是该隐的副官。</span>
 9,Thank you so much for looking out for Cain... my little brother-in-law.,この度はカインが……<br>義弟が本当に<br>お世話になったみたいで……,这次该隐——我的义弟承蒙各位照顾了。
 9-sel1_txt,He's a handful.,<span class='scene-font-katari'>大変だった</span>,真的很辛苦啊
 9-sel2_txt,He's a lifesaver.,<span class='scene-font-katari'>むしろ助けられた</span>,不如说帮到我们了
-10,"Ohhh... I'm very, very, <span class='scene-font-italic'>very</span> sorry then.",ううっ……<br>ホント、ホントもう、<br>本当にごめんなさい……,呜...真的，真的，真的很抱歉……
+10,"Ohhh... I'm very, very, <span class='scene-font-italic'>very</span> sorry then.",ううっ……<br>ホント、ホントもう、<br>本当にごめんなさい……,呜…真的，真的，真的很抱歉……
 11,"Oh! But, see... he also shared a lot with us, so he was a big help too.",あ、あのっ、そんな……<br>私達、カインさんに色々教えてもらって、<br>助けてもらいましたし……,那，那个，比这么说，该隐也告诉我们很多事情帮到了我们。
 12,"That's right! If you think about it, it was kind of a give-and-take!",そうそう！<br>なんだかんだで、<br>持ちつ持たれつ、ってな！,是啊是啊！总之就是互相帮助吧！
 13,"He was, but not before getting us involved in his crazy antics only seconds after meeting him...",とはいえ、初めて会ったとき、<br>いきなり巻き込まれたのには<br>びっくりしたぜ……,虽说如此，刚见面的时候突然把我们卷进去也是吓了一跳呢。
-14,Ah... I knew there was more to the story. I'm really sorry.,ああああ……<br>やっぱりそんなことが……<br>本当にごめんなさい……,啊啊...果然发生了这样的事，真的很抱歉。
-15,"Well, you know, I was in a bit of a tight spot...<br>Sorry about that.",い、いや、あれは、<br>しょうがなかったっていうかさ……<br>なんていうか……すまん。,不，那件事，该说是无可奈何呢还是...总之，抱歉。
+14,Ah... I knew there was more to the story. I'm really sorry.,ああああ……<br>やっぱりそんなことが……<br>本当にごめんなさい……,啊啊…果然发生了这样的事，真的很抱歉。
+15,"Well, you know, I was in a bit of a tight spot...<br>Sorry about that.",い、いや、あれは、<br>しょうがなかったっていうかさ……<br>なんていうか……すまん。,不，那件事，该说是无可奈何呢还是…总之，抱歉。
 16,"I knew you were clever considering all the knowledge you had, but I'd never have pegged you for military...",しかし、やけに色々なことに<br>詳しいと思っていたが、<br>まさか一国の将だったとはな……,但是我只是以为你通晓诸多知识，没想到竟然是一国之将。
 17,"But that means you're top brass or something, right?",ってことは、<br>カインは結構偉い奴なんだよな？,也就是说该隐果然是个很了不起的家伙吧？
 18,So what were you doing arguing with outlaws all by yourself when we first saw you?,オイラ達と初めて会ったとき、<br>そんな偉い奴が、<br>一人で何してたんだよ？,和我们第一次见面的时候，那个了不起的家伙一个人在干些啥呢？
@@ -60,3 +60,4 @@
 54,...,…………,…………
 55,But hidden in the smoldering ashes of the battle is a quietly burning yet defiant flame.,<span class='scene-font-katari'>しかし、そこには未だ、</span><br><span class='scene-font-katari'>戦いの火種が消えることなく</span><br><span class='scene-font-katari'>燻っているのだった。</span>,<span class='scene-font-katari'>但是那里仍有争斗的火种尚未熄灭，微弱地燃烧着。</span>
 info,1,1,scene_cp83_q3_s10
+,,,

@@ -6,12 +6,12 @@ id,name,text,trans
 14,,<span class='scene-font-katari'>肩口からだらりと垂らした</span><br><span class='scene-font-katari'>４本の腕を、異形は小刻みに</span><br><span class='scene-font-katari'>揺らしながら、周囲を徘徊し始める。</span>,<span class='scene-font-katari'>这些异形开始在周围徘徊，晃动着它们肩头垂下的四只手臂。</span>
 18,,<span class='scene-font-katari'>不可解な動きを見せる異形の前に、</span><br><span class='scene-font-katari'>ひとりの青年が現れる。</span>,<span class='scene-font-katari'>没人知道它们在做什么。</span><br><span class='scene-font-katari'>此时，一名青年出现。</span>
 19,？？？,────……！？,
-20,？？？,ｶﾁｽｷｲｶ ﾊﾗﾅﾐｼ.,Target found.
-21,？？？,ﾓﾆﾄﾄﾆﾗﾐ ﾄｶﾁｽｶ.,Mission start.
+20,？？？,ｶﾁｽｷｲｶ ﾊﾗﾅﾐｼ.,Target found
+21,？？？,ﾓﾆﾄﾄﾆﾗﾐ ﾄｶﾁｽｶ.,Mission start
 28,,<span class='scene-font-katari'>青年は、次々と</span><br><span class='scene-font-katari'>異形の身体を槍で貫く。</span>,<span class='scene-font-katari'>青年挥动长枪接连刺穿异形的躯体。</span>
 32,？？？,────……,
 40,,<span class='scene-font-katari'>異形は波打つように</span><br><span class='scene-font-katari'>身もだえすると泥状となって</span><br><span class='scene-font-katari'>闇へと溶けて行った。</span>,<span class='scene-font-katari'>成群的异形倒下，在痛苦中化为污泥重归黑暗。</span>
-41,？？？,ｶﾁｽｷｲｶ ｼﾗﾃﾐ.,Target down.
+41,？？？,ｶﾁｽｷｲｶ ｼﾗﾃﾐ.,Target down
 42,,<span class='scene-font-katari'>異形を殺めた青年は、</span><br><span class='scene-font-katari'>その場から去ろうとする。</span>,<span class='scene-font-katari'>击杀异形的青年正打算离开——</span>
 43,？？？,────,
 50,？？？,──…………,

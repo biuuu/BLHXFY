@@ -7,7 +7,7 @@ id,name,text,trans
 4,,<span class='scene-font-katari'>記号を青年は理解しているのか、</span><br><span class='scene-font-katari'>時たま、興味深げに頷いて見せた。</span>,<span class='scene-font-katari'>青年似乎能够理解符号的意思，偶尔会饶有兴味地点头表示赞同。</span>
 7,,<span class='scene-font-katari'>青年が頁を捲ろうとした時、</span><br><span class='scene-font-katari'>無機質な音が部屋に響いた。</span>,<span class='scene-font-katari'>在青年准备翻页时，房中想起了机械的声音。</span>
 8,,<span class='scene-font-katari'>音の発生源は青年の耳飾りであり、</span><br><span class='scene-font-katari'>彼はそれを摩る。</span>,<span class='scene-font-katari'>声音来自青年的耳饰。他抬手摩擦耳饰的表面。</span>
-9,？？？,ﾁｷｲﾐｶ ｿﾁﾄﾄﾆﾅﾄ.,Agent Cassius.
+9,？？？,ﾁｷｲﾐｶ ｿﾁﾄﾄﾆﾅﾄ.,Agent Cassius
 10,？？？,…………,
 11,,<span class='scene-font-katari'>頭に響く無機質な音に青年は、</span><br><span class='scene-font-katari'>小さく息を吐き、</span><br><span class='scene-font-katari'>さらにチョーカーを摩った。</span>,<span class='scene-font-katari'>听着耳中的机械音，他叹了口气，这次摸了摸领边。</span>
 12,,<span class='scene-font-katari'>すると音は徐々に</span><br><span class='scene-font-katari'>とある言語へと変わり始める。</span>,<span class='scene-font-katari'>随后机械音变成了某种语言。</span>
@@ -26,3 +26,4 @@ id,name,text,trans
 29,カシウス,フッ。,哼。
 31,,<span class='scene-font-katari'>カシウスは小さく呟くと、</span><br><span class='scene-font-katari'>本を置き、部屋を出るのだった。</span>,<span class='scene-font-gray'>卡西乌斯低声笑道，放下书离开了房间。</span>
 info,,,scene_evt181231_cp1_q1_s30
+,,,

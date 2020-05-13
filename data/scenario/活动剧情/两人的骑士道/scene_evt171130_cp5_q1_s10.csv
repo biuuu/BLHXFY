@@ -46,7 +46,7 @@ id,en,jp,trans
 61,,<span class='scene-font-katari'>しばらく歩き続けた一行は、</span><br><span class='scene-font-katari'>古ぼけた石碑が置いてある</span><br><span class='scene-font-katari'>開けた場所に到着した。</span>,<span class='scene-font-katari'>人们又走了一会儿，</span><br><span class='scene-font-katari'>来到放置着石碑的场所。</span>
 62,,ここが、古竜の祠だ。,这里就是古龙的祠堂。
 63,,では、各班ごとに<br>改めて整列してくれ。,那么，各班请重新列队。
-64,,ひよこ班のみんな！<br>集合ー！,鸡仔班的各位！<br>集合ー！
+64,,ひよこ班のみんな！<br>集合ー！,鸡仔班的各位！<br>集合！
 68,,はいっ！,是！
 69,,はい。,是。
 72,,あ、はいっ！,啊，是！
@@ -68,3 +68,4 @@ id,en,jp,trans
 94,,石碑には近寄るな！,不要靠近石碑！
 95,,<span class='scene-font-katari'>皆を守ろうと、臨戦態勢のまま、</span><br><span class='scene-font-katari'>様子をうかがうランスロットと</span><br><span class='scene-font-katari'>ヴェインと姬塔。</span>,<span class='scene-font-katari'>兰斯洛特、维恩、姬塔</span><br><span class='scene-font-katari'>进入临战势态，保护着众人。</span>
 info,,1,scene_evt171130_cp5_q1_s10
+,,,

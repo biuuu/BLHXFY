@@ -47,9 +47,10 @@ id,name,text,trans
 44,ビィ/碧,ん？　どうした、姬塔。<br>騎空士の日記に<br>なにか気になる事でも書いてあるのか？,嗯？　怎么了，姬塔。<br>骑空士的日记里写了什么让你在意的事吗？
 44-sel1_txt,,<span class='scene-font-katari'>日記の文字に見覚えが……</span>,<span class='scene-font-katari'>我好像看过这个字迹……</span>
 44-sel2_txt,,<span class='scene-font-katari'>財宝の手がかりを探してる！</span>,<span class='scene-font-katari'>在寻找财宝的线索！</span>
-45,ビィ/碧,うーん……オイラには分からねぇけど<br>思い出せたら重要な手がかりに<br>なりそうだな！,呜ー嗯……我是看不出来，<br>如果想得起来的话好像会是重要的线索呢！
+45,ビィ/碧,うーん……オイラには分からねぇけど<br>思い出せたら重要な手がかりに<br>なりそうだな！,呜嗯……我是看不出来，<br>如果想得起来的话好像会是重要的线索呢！
 46,ビィ/碧,シスのためにも、早く騎空士を<br>見つけてやんねぇとな！,也为了希斯，要赶紧找到那个骑空士！
 47,ビィ/碧,そ、そうだぜ！<br>すっかり忘れてた！,对，对啊！<br>完全忘记了！
-48,ビィ/碧,それじゃさっそく、宝探しの開始だぜ！<br><span class='scene-font-place'>カルムの郷</span>に詳しいシスが一緒なら<br>すぐに見つけられるかもな！,那么赶紧的，开始寻宝吧！<br>跟对<span class='scene-font-place'>卡尔姆之乡</span>相当熟悉的希斯在一起.很快就能找到的吧！
+48,ビィ/碧,それじゃさっそく、宝探しの開始だぜ！<br><span class='scene-font-place'>カルムの郷</span>に詳しいシスが一緒なら<br>すぐに見つけられるかもな！,那么赶紧的，开始寻宝吧！<br>跟对<span class='scene-font-place'>卡尔姆之乡</span>相当熟悉的希斯在一起很快就能找到的吧！
 49,,<span class='scene-font-katari'>──こうして、仲間としての絆を深め</span><br><span class='scene-font-katari'>騎空士の待つ、空の果てを目指し</span><br><span class='scene-font-katari'>シスは再び故郷を旅立つのだった。</span>,<span class='scene-font-katari'>──就这样，希斯加深了与同伴之间牵绊，以骑空士等候着的天空的尽头为目标，再次离开故乡踏上旅途。</span>
 info,,,scene_chr133_q3_s20
+,,,

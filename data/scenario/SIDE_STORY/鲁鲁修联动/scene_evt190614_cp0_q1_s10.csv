@@ -1,5 +1,5 @@
 id,name,text,trans
-0-synopsis,,大規模テロを鎮圧するため、ヨコハマ租界に出撃したゼロことルルーシュ率いる黒の騎士団。ゼロと対立関係にあるブリタニア軍のスザクとともにテロを鎮圧した後、突如奇妙な光とともに空間に大穴が開きルルーシュ達を呑み込む。異世界に転移したと気づいたルルーシュはギアスが問題なく使えることを確認すると、情報を集めるためC.C.とともに近くの町へ向かうのだった。,Zero即鲁鲁修所率领的黑色骑士团来到横滨租界镇压大规模恐怖活动。与Zero对立的布里塔尼亚军人朱雀也参与了镇压行动，其后，伴随着奇妙的光线，空间中出现一个大洞吞噬了鲁鲁修等人。察觉到自己来到了异世界的鲁鲁修确认Geass依旧能照常使用后，和C.C一起前往附近的城市收集情报。
+0-synopsis,,大規模テロを鎮圧するため、ヨコハマ租界に出撃したゼロことルルーシュ率いる黒の騎士団。ゼロと対立関係にあるブリタニア軍のスザクとともにテロを鎮圧した後、突如奇妙な光とともに空間に大穴が開きルルーシュ達を呑み込む。異世界に転移したと気づいたルルーシュはギアスが問題なく使えることを確認すると、情報を集めるためC.C.とともに近くの町へ向かうのだった。,Zero即鲁鲁修所率领的黑色骑士团来到横滨租界镇压大规模恐怖活动。与Zero对立的布里塔尼亚军人朱雀也参与了镇压行动，其后，伴随着奇妙的光线，空间中出现一个大洞吞噬了鲁鲁修等人。察觉到自己来到了异世界的鲁鲁修确认Geass依旧能照常使用后，和C.C.一起前往附近的城市收集情报。
 1,,<span class='scene-font-gray'>皇歴2010年8月10日。</span><br><span class='scene-font-gray'>神聖ブリタニア帝国は、</span><br><span class='scene-font-gray'>中立を謳う島国、日本に宣戦布告した。</span>,<span class='scene-font-gray'>皇历2010年8月10日。神圣布里塔尼亚帝国向维持中立的岛国日本宣战。</span>
 2,,<span class='scene-font-gray'>ブリタニアの人型自在戦闘装甲騎</span><br><span class='scene-font-spword'>「ナイトメアフレーム」</span><span class='scene-font-gray'>の前に、</span><br><span class='scene-font-gray'>ひと月ともたずに敗れ去った日本は……</span>,<span class='scene-font-gray'>面对布里塔尼亚的人型自在战斗装甲骑「Knightmare Frame」，日本不到一个月便战败……</span>
 3,,<span class='scene-font-gray'>自由と伝統、権利と誇り、</span><br><span class='scene-font-gray'>そして、国を表す名前を奪われた。</span>,<span class='scene-font-gray'>并丧失了自由与传统、权利与尊严，以及代表国家的名字。</span>
@@ -69,7 +69,7 @@ id,name,text,trans
 129,カレン/卡莲,スザク！　邪魔するつもり？<br>なら！,朱雀！ 你想碍事吗？<br>那我就！
 136,,<span class='scene-font-katari'>左腕のグレネードをランスロットに</span><br><span class='scene-font-katari'>向けつつ、右腕でサザーランドを捕まえ</span><br><span class='scene-font-katari'>輻射波動で破壊する。</span>,<span class='scene-font-katari'>红莲的左臂向兰斯洛特掷出手榴弹，右臂抓住了桑德兰使用辐射波动进行破坏。</span>
 137,スザク,邪魔をするつもりはない。<br>しかし、君たちを見逃すつもりもない！,我没打算阻止你们。<br>但也没打算放过你们！
-139,,<span class='scene-font-katari'>同様に右腕のヴァリスと呼ばれる銃を</span><br><span class='scene-font-katari'>紅蓮弐式に向けつつも、左腕の剣で</span><br><span class='scene-font-katari'>逃走中のサザーランドを無力化させる。</span>,<span class='scene-font-katari'>兰斯洛特的右手也举起名为V.A.R.I.S.的枪对准红莲贰式，用左手的剑封住了桑德兰的行动。</span>
+139,,<span class='scene-font-katari'>同様に右腕のヴァリスと呼ばれる銃を</span><br><span class='scene-font-katari'>紅蓮弐式に向けつつも、左腕の剣で</span><br><span class='scene-font-katari'>逃走中のサザーランドを無力化させる。</span>,<span class='scene-font-katari'>兰斯洛特的右手也举起名为VARIS的枪对准红莲贰式，用左手的剑封住了桑德兰的行动。</span>
 143,,<span class='scene-font-katari'>結果を追い求めて時に</span><br><span class='scene-font-katari'>道理に反する手段を選ぶゼロと、</span><br><span class='scene-font-katari'>頑ななまでにルールを遵守するスザク。</span>,<span class='scene-font-katari'>Zero追求结果，有时会选择出格的手段，而朱雀则近乎顽固地遵守着规则。</span>
 144,,<span class='scene-font-katari'>「ブリタニアを変えたい」という</span><br><span class='scene-font-katari'>同じ目的を掲げながら、信念を異にする</span><br><span class='scene-font-katari'>両者は事あるごとに衝突していた。</span>,<span class='scene-font-katari'>两人拥有同一个目的「改变布里塔尼亚」，但因信念不同，事事都产生冲突。</span>
 148,,<span class='scene-font-katari'>ゼロを捕まえようとするスザクと</span><br><span class='scene-font-katari'>ゼロを守ろうとするカレンもまた、</span><br><span class='scene-font-katari'>戦場でしのぎを削り合う関係にあった。</span>,<span class='scene-font-katari'>而想要捉拿Zero的朱雀和保护着Zero的卡莲也时常在战场上激烈地斗争。</span>

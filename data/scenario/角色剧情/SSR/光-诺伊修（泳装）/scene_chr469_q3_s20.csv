@@ -7,7 +7,7 @@ id,name,text,trans
 5,ノイシュ/诺伊修,ふむ……どうやら、<br>屋台に並んでいるようだが……,嗯……好像是，<br>在排摊位的队啊……
 6,セルエル/塞鲁艾尔,これほどまでの長蛇の列……<br>一体何を売っているのでしょうね？,排得这么长的队列……<br>到底是在卖什么呢？
 7,？？？,冷麺、３つ入りました～！,冷面，三份装好了～！
-8,？？？,喜んでーっ！,祝用餐愉快ー！
+8,？？？,喜んでーっ！,祝用餐愉快！
 9,ルリア/露莉亚,あっ！<br>この声は……,啊！<br>这个声音是……
 10,,<span class='scene-font-katari'>列を避けて屋台を覗くと、</span><br><span class='scene-font-katari'>そこではイッパツが料理、</span><br><span class='scene-font-katari'>リルルが呼び込みをしていた。</span>,<span class='scene-font-katari'>绕过队伍去窥视摊位</span><br><span class='scene-font-katari'>那里是正做着料理的伊帕茨</span><br><span class='scene-font-katari'>和正招呼客人的莉露露。</span>
 12,イッパツ,おや、姬塔さん！<br>皆さんも、冷麺食べに<br>来てくれたんすか！,哦呀，姬塔桑！<br>还有各位，是为了吃冷面<br>来这里的吗！
@@ -54,3 +54,4 @@ id,name,text,trans
 66,空腹な男,イラつくぜ……<br>野郎ども！　やっちまうぞぉ！！,真让人心烦啊……<br>兄弟们！　给我一起上！！
 67,,<span class='scene-font-katari'>姬塔達は</span><br><span class='scene-font-katari'>空腹に我を忘れ</span><br><span class='scene-font-katari'>暴徒と化した男達を迎え撃つ。</span>,<span class='scene-font-katari'>姬塔她们</span><br><span class='scene-font-katari'>忘记了饥饿</span><br><span class='scene-font-katari'>迎击变成暴徒的男人们。</span>
 info,,,scene_chr469_q3_s20
+,,,
