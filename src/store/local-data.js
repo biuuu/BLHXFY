@@ -29,9 +29,13 @@ const getLocalData = async (type) => {
 const setLocalData = (type, value) => {
   // if (DEV) return false
   if (!data || isString(data.hash)) data = { hash: config.hash }
-  const newHash = config.hash[`${type}.csv`]
+  let key = type
+  if (!/(\.csv|\.json)/.test(type)) {
+    key = `${type}.csv`
+  }
+  const newHash = config.hash[key]
   if (newHash) {
-    data.hash[`${type}.csv`] = newHash
+    data.hash[key] = newHash
   }
   data[type] = value
   const str = JSON.stringify(data)

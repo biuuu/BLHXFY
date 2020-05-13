@@ -15,7 +15,7 @@ const getBossName = async () => {
       let csvNpc = await fetchData('/blhxfy/data/npc-name-jp.csv')
       csv = csv.replace(/\r\n/g, '\n')
       csv += csvNpc.replace(/\r\n/g, '\n').replace(/^name,trans/, '')
-      setLocalData('boss-name', csv)
+      setLocalData('battle/boss-name', csv)
     }
     const list = parseCsv(csv)
     list.forEach(item => {

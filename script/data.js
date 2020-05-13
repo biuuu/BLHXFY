@@ -40,43 +40,41 @@ const collectStoryId = async () => {
   const chapterName = []
   const titleSet = new Set()
   const result = []
-  const prims = files.map(file => {
-    return readCsv(file).then(list => {
-      let rs
-      for (let i = list.length - 1; i >= 0; i--) {
-        if (list[i].id === 'info') {
-          if (list[i].trans) {
-            const name = list[i].trans.trim()
-            if (name) {
-              rs = md5(file).then(hash => {
-                result.push([name, file.replace(/^\.\/data\/scenario\//, ''), hash.slice(0, 7)])
-              }) 
-            }
+  const prims = files.map(async file => {
+    const list = await readCsv(file)
+    for (let i = list.length - 1; i >= 0; i--) {
+      let infoLoaded = false
+      if (!infoLoaded && list[i].id === 'info') {
+        if (list[i].trans) {
+          const name = list[i].trans.trim()
+          if (name) {
+            const hash = (await md5(file)).slice(0, 7)
+            result.push([name, file.replace(/^\.\/data\/scenario\//, ''), `${hash}.csv`])
+            await fse.copy(file, `./dist/blhxfy/data/story/${hash}.csv`, {
+              overwrite: false, errorOnExist: true
+            })
+            infoLoaded = true
           }
-        } else if (/\d-chapter_name/.test(list[i].id)) {
-          if (list[i].trans) {
-            const trans = list[i].trans.trim()
-            let title = list[i].text || list[i].jp
-            title = title.trim()
-            if (!titleSet.has(title) && title && trans) {
-              titleSet.add(title)
-              chapterName.push([title, trans])
-            }
+        }
+      } else if (/\d-chapter_name/.test(list[i].id)) {
+        if (list[i].trans) {
+          const trans = list[i].trans.trim()
+          let title = list[i].text || list[i].jp
+          title = title.trim()
+          if (!titleSet.has(title) && title && trans) {
+            titleSet.add(title)
+            chapterName.push([title, trans])
           }
         }
       }
-      return rs
-    })
+    }
   })
   await Promise.all(prims)
   const storyData = {}
   const storyDataPast = {}
   result.forEach(item => {
     if (item && item[0] && item[1]) {
-      storyData[item[0]] = {
-        path: item[1],
-        hash: item[2]
-      }
+      storyData[item[0]] = item[2]
       storyDataPast[item[0]] = item[1]
     }
   })
@@ -89,48 +87,46 @@ const collectStoryId = async () => {
 
 const collectSkillId = async () => {
   console.log('skill...')
+  await fse.emptyDir('./dist/blhxfy/data/skill/')
   const files = await glob.promise('./data/skill/**/*.csv')
-  const prims = files.map(file => {
-    return readCsv(file).then(list => {
-      for (let i = 0; i < list.length; i++) {
-        if (list[i].id === 'npc') {
-          if (list[i].detail) {
-            const id = list[i].detail.trim()
-            if (id) {
-              return md5(file).then(hash => {
-                return [id, file.replace(/^\.\/data\/skill\//, ''), hash.slice(0, 7)]
-              })
-            }
+  const prims = files.map(async file => {
+    const list = await readCsv(file)
+    for (let i = 0; i < list.length; i++) {
+      if (list[i].id === 'npc') {
+        if (list[i].detail) {
+          const id = list[i].detail.trim()
+          if (id) {
+            const hash = (await md5(file)).slice(0, 7)
+            await fse.copy(file, `./dist/blhxfy/data/skill/${hash}.csv`, {
+              overwrite: false, errorOnExist: true
+            })
+            return [id, `${hash}.csv`]
           }
         }
       }
-    })
+    }
   })
   const result = await Promise.all(prims)
   const skillData = {}
-  const skillDataPast = {}
   result.forEach(item => {
     if (item && item[0] && item[1]) {
-      skillData[item[0]] = {
-        path: item[1],
-        hash: item[2]
-      }
-      skillDataPast[item[0]] = item[1]
+      skillData[item[0]] = item[1]
     }
   })
-  await fse.writeJSON('./dist/blhxfy/data/skill.json', skillDataPast)
-  await fse.writeJSON('./dist/blhxfy/data/skill-map.json', skillData)
+  await fse.writeJSON('./dist/blhxfy/data/skill.json', skillData)
 }
 
 const collectBattleNoteId = async () => {
   console.log('battle note...')
   const files = await glob.promise('./data/battle/note/**/*.note.csv')
-  const prims = files.map(file => {
+  const prims = files.map(async file => {
     let rgs = file.match(/quest-(\d+)\.note\.csv/)
     if (rgs && rgs[1]) {
-      return md5(file).then(hash => {
-        return [rgs[1], file.replace(/^\.\/data\/battle\/note\//, ''), hash.slice(0, 7)]
+      const hash = (await md5(file)).slice(0, 7)
+      await fse.copy(file, `./dist/blhxfy/data/battle/${hash}.csv`, {
+        overwrite: false, errorOnExist: true
       })
+      return [rgs[1], hash]
     }
   })
   const result = await Promise.all(prims)
@@ -138,14 +134,10 @@ const collectBattleNoteId = async () => {
   const battleNoteDataPast = {}
   result.forEach(item => {
     if (item && item[0] && item[1]) {
-      battleNoteData[item[0]] = {
-        path: item[1], hash: item[2]
-      }
-      battleNoteDataPast[item[0]] = item[1]
+      battleNoteData[item[0]] = item[1]
     }
   })
-  await fse.writeJSON('./dist/blhxfy/data/battle-note.json', battleNoteDataPast)
-  await fse.writeJSON('./dist/blhxfy/data/battle-note-map.json', battleNoteData)
+  await fse.writeJSON('./dist/blhxfy/data/battle-note.json', battleNoteData)
 }
 
 const collectVoice = async () => {

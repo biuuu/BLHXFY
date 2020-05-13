@@ -184,7 +184,7 @@ const fetchWithHash = async (pathname, hash) => {
     const key = pathname.replace('/blhxfy/data/', '')
     hash = hashes[key]
   }
-  const data = await request(`${pathname}?lacia=${hash || ''}`)
+  const data = await request(`${pathname}${hash ? `?lacia=${hash}` : ''}`)
   return data
 }
 
