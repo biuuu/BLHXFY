@@ -35,7 +35,8 @@ const state = {
   commSkillMap: new Map(),
   autoTransCache: new Map(),
   nounMap: new Map(),
-  nounRE: ''
+  nounRE: '',
+  failed: new Set()
 }
 
 const getCommSkillMap = async () => {
@@ -109,7 +110,7 @@ const getAutoTrans = async () => {
 }
 
 const setSkillMap = (list, stable = true) => {
-  let npcId, active, idArr
+  let npcId, active, idArr = []
   for (let row of list) {
     if (row.id === 'npc') {
       idArr = row.detail.split('|')
@@ -142,17 +143,6 @@ const setSkillMap = (list, stable = true) => {
   saveSkillMap(state.skillMap)
 }
 
-const getSkillPath = async () => {
-  if (state.skillData) return
-  const str = await getLocalData('skill.json')
-  try {
-    const data = JSON.parse(str)
-    state.skillData = data
-  } catch (e) {
-
-  }
-}
-
 const getSkillData = async (npcId) => {
   if (!state.locSkMap) await getSkillMap()
   if (!state.locASMap) await getAutoTrans()
@@ -163,10 +153,16 @@ const getSkillData = async (npcId) => {
     setLocalData('skill.json', state.skillData)
   }
   const csvName = state.skillData[npcId]
-  if (csvName) {
-    const csvData = await fetchData(`/blhxfy/data/skill/${csvName}`)
-    const list = parseCsv(filter(csvData))
-    setSkillMap(list)
+  if (csvName && !state.failed.has(csvName)) {
+    let csvData = ''
+    try {
+      csvData = await fetchData(`/blhxfy/data/skill/${csvName}`)
+      const list = parseCsv(filter(csvData))
+      setSkillMap(list)
+    } catch (e) {
+      state.failed.add(csvName)
+      console.log(e)
+    }
   }
   return state
 }

@@ -132,7 +132,10 @@ const request = async (pathname) => {
     return new Promise((rev, rej) => {
       fetch(`${origin}${pathname}`)
       .then(res => {
-        if (!res.ok) throw new Error(res)
+        if (!res.ok) {
+          rej(`${res.status} ${res.url}`)
+          return ''
+        }
         const type = res.headers.get('content-type')
         if (type.includes('json')) {
           return res.json()
