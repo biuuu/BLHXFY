@@ -5,6 +5,7 @@ import filter from '../utils/XSSFilter'
 import { trim } from '../utils/'
 import { getLocalData, setLocalData } from './local-data'
 import debounce from 'lodash/debounce'
+import isObject from 'lodash/isObject'
 
 const skillMap = new Map()
 
@@ -39,10 +40,10 @@ const state = {
 
 const getCommSkillMap = async () => {
   if (state.cStatus === 'loaded') return
-  let csvData = await getLocalData('comm-skill')
+  let csvData = await getLocalData('common-skill')
   if (!csvData) {
     csvData = await fetchData('/blhxfy/data/common-skill.csv')
-    setLocalData('comm-skill', csvData)
+    setLocalData('common-skill', csvData)
   }
   const list = await parseCsv(csvData)
   const sortedList = sortKeywords(list, 'comment')
@@ -107,21 +108,6 @@ const getAutoTrans = async () => {
   }
 }
 
-const saveSkillPath = async (skillData) => {
-  setLocalData('skill-path', JSON.stringify(skillData))
-}
-
-const getSkillPath = async () => {
-  if (state.skillData) return
-  const str = await getLocalData('skill-path')
-  try {
-    const data = JSON.parse(str)
-    state.skillData = data
-  } catch (e) {
-
-  }
-}
-
 const setSkillMap = (list, stable = true) => {
   let npcId, active, idArr
   for (let row of list) {
@@ -156,14 +142,25 @@ const setSkillMap = (list, stable = true) => {
   saveSkillMap(state.skillMap)
 }
 
+const getSkillPath = async () => {
+  if (state.skillData) return
+  const str = await getLocalData('skill.json')
+  try {
+    const data = JSON.parse(str)
+    state.skillData = data
+  } catch (e) {
+
+  }
+}
+
 const getSkillData = async (npcId) => {
   if (!state.locSkMap) await getSkillMap()
   if (!state.locASMap) await getAutoTrans()
   if (state.skillMap.has(npcId)) return state
-  await getSkillPath()
-  if (!state.skillData) {
+  state.skillData = await getLocalData('skill.json')
+  if (!state.skillData || !isObject(state.skillData)) {
     state.skillData = await fetchData('/blhxfy/data/skill.json')
-    saveSkillPath(state.skillData)
+    setLocalData('skill.json', state.skillData)
   }
   const csvName = state.skillData[npcId]
   if (csvName) {

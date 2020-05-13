@@ -9,10 +9,10 @@ let loaded = false
 
 const getBattleNote = async () => {
   if (!loaded) {
-    let csv = await getLocalData('battle-note')
+    let csv = await getLocalData('battle/battle-note')
     if (!csv) {
       csv = await fetchData('/blhxfy/data/battle/battle-note.csv')
-      setLocalData('battle-note', csv)
+      setLocalData('battle/battle-note', csv)
     }
     const list = parseCsv(csv)
     list.forEach(item => {
@@ -32,10 +32,10 @@ const battleNoteQuestMapId = {}
 let questNote
 const getBattleNoteQuest = async (id) => {
   if (battleNoteQuestMapId[id]) return battleNoteQuestMapId[id]
-  if (!questNote) questNote = await getLocalData('battle-note-path')
+  if (!questNote) questNote = await getLocalData('battle-note.json')
   if (!questNote) {
     questNote = await fetchData('/blhxfy/data/battle-note.json')
-    setLocalData('battle-note-path', questNote)
+    setLocalData('battle-note.json', questNote)
   }
   if (questNote[id]) {
     let questNoteData = getLocalData('battle-note-quest')

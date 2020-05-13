@@ -9,7 +9,7 @@ const insertCSS = (name) => {
   const link = document.createElement('link')
   link.type = 'text/css'
   link.rel = 'stylesheet'
-  link.href = `${origin}/blhxfy/data/static/style/${name}.css?lacia=${config.hash || config.localHash}`
+  link.href = `${origin}/blhxfy/data/static/style/${name}.css?lacia=${config.version || ''}`
   document.head.appendChild(link)
 }
 
@@ -157,12 +157,12 @@ let getHash = () => {
       tryFetch().then(() => {
         const beforeStart = (data) => {
           config.newVersion = data.version
-          config.hash = data.hash
+          config.hash = data.hashes
           insertCSS('BLHXFY')
         }
         if (fetchInfo.result) {
           beforeStart(fetchInfo.data)
-          rev(fetchInfo.data.hash)
+          rev(fetchInfo.data.hashes)
         } else {
           rej('加载manifest.json失败')
           // fetchData('/blhxfy/manifest.json').then(data => {
@@ -173,14 +173,18 @@ let getHash = () => {
         }
       }).catch(rej)
     } else {
-      rev(fetchInfo.data.hash)
+      rev(fetchInfo.data.hashes)
     }
   })
 }
 
-const fetchWithHash = async (pathname) => {
-  const hash = await getHash()
-  const data = await request(`${pathname}?lacia=${hash}`)
+const fetchWithHash = async (pathname, hash) => {
+  if (!hash) {
+    const hashes = await getHash()
+    const key = pathname.replace('/blhxfy/data/', '')
+    hash = hashes[key]
+  }
+  const data = await request(`${pathname}${hash ? `?lacia=${hash}` : ''}`)
   return data
 }
 

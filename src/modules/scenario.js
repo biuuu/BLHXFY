@@ -114,7 +114,7 @@ const getScenario = async (name) => {
   let csv = getPreviewCsv(name)
   if (!csv) {
     if (!scenarioData) {
-      const binaryString = await fetchData('/blhxfy/data/story.json')
+      const binaryString = await fetchData('/blhxfy/data/story-map.json')
       scenarioData = JSON.parse(pako.inflate(binaryString, { to: 'string' }))
     }
     const pathname = scenarioData[name]
@@ -122,7 +122,7 @@ const getScenario = async (name) => {
       return { transMap: null, csv: '' }
     }
     scenarioCache.originName = getFilename(pathname)
-    csv = await fetchData(`/blhxfy/data/scenario/${pathname}`)
+    csv = await fetchData(`/blhxfy/data/story/${pathname}`)
   }
   const list = parseCsv(csv)
   const transMap = new Map()
