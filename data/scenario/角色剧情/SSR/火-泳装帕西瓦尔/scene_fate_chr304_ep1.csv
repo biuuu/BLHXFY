@@ -110,7 +110,7 @@ id,name,text,trans
 130,,<span class='scene-font-katari'>気を取り直して、女の子の両親を</span><br><span class='scene-font-katari'>探し続ける一行の元に、</span><br><span class='scene-font-katari'>今度は怒声が飛びこんでくる。</span>,<span class='scene-font-katari'>重整旗鼓继续寻找女孩儿父母</span><br><span class='scene-font-katari'>一行人的耳边这次又传来了争吵声。</span>
 131,パーシヴァル/帕西瓦尔,……まったく。<br>次から次へと騒々しい限りだ。<br>ルシぬい、子供は任せたぞ！,……真是的<br>骚乱一个接着一个没完没了。<br>姬塔，那孩子就交给你了！
 132,ビィ/碧,はぁ……いつも率先して<br>首突っ込んで行くんだよなぁ。,啊…<br>他总是这样身先士卒冲上去呢。
-133,ルリア/露莉亚,あはは……<br>パーシヴァルさんは、海に来ても<br>パーシヴァルさんでしたね。,啊哈哈哈…….<br>帕西瓦尔到了海边也还是老样子呢。
+133,ルリア/露莉亚,あはは……<br>パーシヴァルさんは、海に来ても<br>パーシヴァルさんでしたね。,啊哈哈哈……<br>帕西瓦尔到了海边也还是老样子呢。
 134,女の子/女孩,……パーシヴァル、さん？,……帕西瓦尔？
 135,ルリア/露莉亚,はい！<br>一見厳しくて怖い人ですけど、<br>ホントはすっごく優しい人なんです！,是哦！<br>看着虽然很严格很可怕，<br>但他其实真的是非常温柔的人呢！
 136,女の子/女孩,……うん。,……嗯。
@@ -165,7 +165,7 @@ id,name,text,trans
 194,パーシヴァル/帕西瓦尔,では、今すぐそこに船を出してくれ。<br>皆の者、事態は一刻を争う、<br>手分けして捜索に当たるぞ！,那么现在马上派出船只前往那里。<br>诸位，事态紧急刻不容缓，<br>大家分头搜索吧！
 198,,<span class='scene-font-katari'>こうしてルシぬい一行は、</span><br><span class='scene-font-katari'>パーシヴァルの指揮の下</span><br><span class='scene-font-katari'>女の子の両親の捜索を始める。</span>,<span class='scene-font-katari'>就这样，</span><br><span class='scene-font-katari'>姬塔一行人在帕西瓦尔的指挥下，</span><br><span class='scene-font-katari'>开始搜索女孩的父母。</span>
 199,,<span class='scene-font-katari'>見事、パーシヴァルの読みは的中し、</span><br><span class='scene-font-katari'>女の子の両親は、水位の変化によって</span><br><span class='scene-font-katari'>移動手段を断たれた洞窟で保護された。</span>,<span class='scene-font-katari'>结果正如帕西瓦尔所料，</span><br><span class='scene-font-katari'>成功救助了因为水位变化</span><br><span class='scene-font-katari'>而被困在洞窟中的女孩父母。</span>
-200,,<span class='scene-font-katari'>足を怪我した父親に付き添う母親。</span><br><span class='scene-font-katari'>二人とも、脱水症状が見られた</span><br><span class='scene-font-katari'>以外は、命に別状はない様である。</span>,<span class='scene-font-katari'>脚部受伤的女孩父亲和照料他的女孩母亲，</span><br><span class='scene-font-katari'>两人都出现了脱水的症状，</span><br><span class='scene-font-katari'>除此之外并无大碍。</span> 
+200,,<span class='scene-font-katari'>足を怪我した父親に付き添う母親。</span><br><span class='scene-font-katari'>二人とも、脱水症状が見られた</span><br><span class='scene-font-katari'>以外は、命に別状はない様である。</span>,"<span class='scene-font-katari'>脚部受伤的女孩父亲和照料他的女孩母亲，</span><br><span class='scene-font-katari'>两人都出现了脱水的症状，</span><br><span class='scene-font-katari'>除此之外并无大碍。</span> "
 201,,<span class='scene-font-katari'>民衆から多大なる称賛を受ける</span><br><span class='scene-font-katari'>パーシヴァルであったが、</span><br><span class='scene-font-katari'>そそくさと海の家に帰ってしまう。</span>,<span class='scene-font-katari'>虽从民众那里收到诸多称赞，</span><br><span class='scene-font-katari'>但帕西瓦尔还是匆匆地回到了海之家。</span>
 205,パーシヴァル/帕西瓦尔,まったく……<br>忙しない一日だったな。,真是……<br>繁忙的一天啊。
 206,ビィ/碧,あぁ……<br>今日は色んな事があったよな～,啊……<br>今天确实遇到了各种各样的事情呢~

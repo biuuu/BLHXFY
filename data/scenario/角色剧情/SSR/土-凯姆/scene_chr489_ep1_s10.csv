@@ -21,7 +21,7 @@ id,name,text,trans
 18,ビィ/碧,えぇっ！？<br>こいつが！？,诶诶！？<br>这家伙吗！？
 19,？？？,……やっぱりあなたが<br>姬塔だったんだ。,……果然你就是<br>姬塔啊。
 20,,<span class='scene-font-katari'>小さな依頼人は、目深に被った</span><br><span class='scene-font-katari'>フードの下から姬塔の顔を</span><br><span class='scene-font-katari'>じっと見つめる。</span>,<span class='scene-font-katari'>小小的委托人，兜帽拉得很低</span><br><span class='scene-font-katari'>从披风之下</span><br><span class='scene-font-katari'>盯着姬塔看。</span>
-21,ルリア/露莉亚,えーっと、あの……<br>あなたが依頼人さんですか？,诶ー那个……<br>你就是委托人吗？
+21,ルリア/露莉亚,えーっと、あの……<br>あなたが依頼人さんですか？,诶那个……<br>你就是委托人吗？
 22,？？？,ああ、失礼。,啊，失礼了。
 24,,<span class='scene-font-katari'>取り払われたフードの下からは、</span><br><span class='scene-font-katari'>どこか気品のある風貌の</span><br><span class='scene-font-katari'>少年が顔を出す。</span>,<span class='scene-font-katari'>兜帽取下后</span><br><span class='scene-font-katari'>出现了一张</span><br><span class='scene-font-katari'>总让人觉得非常有气度的少年的脸庞。</span>
 25,カイム,僕はカイム。シェロカルテから<br>聞いただろうけど、あなた達に<br>お願いしたいことがあるんだ。,我是凯姆。你们应该已经从榭洛科特那里听过了。<br>我有事想要委托你们。
@@ -110,3 +110,4 @@ id,name,text,trans
 120,,<span class='scene-font-katari'>こうして、姬塔達は</span><br><span class='scene-font-katari'>目の前の激しい戦いに身を</span><br><span class='scene-font-katari'>投じる覚悟を決める。</span>,<span class='scene-font-katari'>就这样，姬塔他们下定决心</span><br><span class='scene-font-katari'>要投身于眼前的战争。</span>
 121,,<span class='scene-font-katari'>「この戦いが、世界を救うことに</span><br><span class='scene-font-katari'>つながる」というカイムの言葉が、</span><br><span class='scene-font-katari'>彼等を突き動かしていた。</span>,<span class='scene-font-katari'>「这场战斗，与拯救世界有着重大关联」这句凯姆的话语，</span><br><span class='scene-font-katari'>激励着他们。</span>
 info,,,scene_chr489_ep1_s10
+,,,

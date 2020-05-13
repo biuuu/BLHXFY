@@ -23,17 +23,17 @@ id,en,jp,trans
 22,,何の話をしている？<br>私は何も言っていないし、<br>お前は何も聞いていない。,你在说什么？我什么都没说，你也什么都没听到。
 23,,……いいな？,……听懂了吗？
 24,,は……はっ！,是……是！
-25,,フン……<br>わかればいい。,哼....明白就好。
+25,,フン……<br>わかればいい。,哼…明白就好。
 26,,申請書を持って準備室に来い。<br>担当教官のハンコをくれてやる。,带着申请表到准备室来，我给你盖个主管教官的章。
 32,,<span class='scene-font-katari'>仕事を終え、イルザはひとり</span><br><span class='scene-font-katari'>解放感と疲労感を覚えながら</span><br><span class='scene-font-katari'>夜の街を歩いている。</span>,<span class='scene-font-katari'>工作结束后，伊尔莎带着解放感和疲劳感，一个人走在夜晚的大街上。</span>
-33,,<span class='scene-font-kokoro'>（はぁ、今日は早く</span><br><span class='scene-font-kokoro'>帰るつもりだったんだがな……）</span>,<span class='scene-font-kokoro'>（唉，今天本来打算早点回去的...）</span>
+33,,<span class='scene-font-kokoro'>（はぁ、今日は早く</span><br><span class='scene-font-kokoro'>帰るつもりだったんだがな……）</span>,<span class='scene-font-kokoro'>（唉，今天本来打算早点回去的…）</span>
 34,,<span class='scene-font-kokoro'>（そろそろ海での訓練に向けて</span><br><span class='scene-font-kokoro'>水着を新調しなければ。</span><br><span class='scene-font-kokoro'>この先に良さそうな店があったはず）</span>,<span class='scene-font-kokoro'>（差不多该为海边训练做准备采购新泳装了。前面应该有家不错的店）</span>
 40,,はっ……！,这是！
 41,,<span class='scene-font-katari'>通りに面したショーウィンドウ、</span><br><span class='scene-font-katari'>そこに飾られた白い水着に</span><br><span class='scene-font-katari'>イルザの目は釘付けになる。</span>,<span class='scene-font-katari'>伊尔莎的眼光牢牢地钉在了面向街道的橱窗中展示着的一件白色泳装上。</span>
 42,,<span class='scene-font-kokoro'>（素晴らしいデザインだ！</span><br><span class='scene-font-kokoro'>新作だろうか？）</span>,<span class='scene-font-kokoro'>（非常棒的设计！是新作品吗？）</span>
 44,,やっぱり、コルワさんに頼んで<br>よかったわ～！,果然啊，拜托可露瓦小姐真是太对了~！
 45,,<span class='scene-font-katari'>店の奥から店主が現れ、</span><br><span class='scene-font-katari'>イルザがじっと見ている水着を</span><br><span class='scene-font-katari'>ショーウィンドウから下ろす。</span>,<span class='scene-font-katari'>店主从商店后面出现，将伊尔莎一直盯着的泳装从橱窗里撤下。</span>
-46,,っ！　まさか……,！难道是....！
+46,,っ！　まさか……,！难道是…！
 53,,はい、お釣りをどうぞ。<br>お買い上げありがとうございました！,请拿好找零。谢谢惠顾！
 55,,やはりか……,果然……
 56,,いらっしゃいませ。<br>どのような物をお探しですか？,欢迎光临。请问您在找什么样的衣服？
@@ -82,7 +82,7 @@ id,en,jp,trans
 126,,はい、勿論です。<br>ただフルオーダーの方は少々、<br>時間と費用を頂戴します。,是的，当然接。但是如果要完全订制的话，需要一些时间和费用。
 127,,構わない。<br>それは覚悟した上での依頼だ。,没有关系。我已经做好准备才想委托你制作。
 128,,<span class='scene-font-katari'>イルザは目の前で売れてしまった</span><br><span class='scene-font-katari'>コルワの水着が大変気に入ったので、</span><br><span class='scene-font-katari'>同じ物が欲しいのだと説明する。</span>,<span class='scene-font-katari'>伊尔莎向可露瓦说明道，她非常喜欢刚才那件在她眼前被别人买走的泳装，希望买同样款式的。</span>
-129,,なるほど……<br>お気に召していただけて<br>大変光栄です。,原来如此...我很荣幸您那么喜欢它。
+129,,なるほど……<br>お気に召していただけて<br>大変光栄です。,原来如此…我很荣幸您那么喜欢它。
 130,,ああ、ショーウィンドウで見た時から<br>あの水着でビーチに立つ自分の<br>イメージが頭から離れてくれない。,是啊，我看到橱窗里的那件泳装后，自己穿着那件泳装站在海滩上的影像就一直留在脑海里挥之不去。
 131,,<span class='scene-font-place'>アウギュステ</span>の<br>美しい海を堪能するなら、<br>それ相応の水着がなくてはならない。,要享受<span class='scene-font-place'>奥格斯提</span>的美丽大海的话就必须穿合适的泳装。</span>
 132,,状況が許すのであれば、<br>あの水着を私にも作ってほしい！,如果情况允许的话，我希望你能为我也做一件那样的泳装！
@@ -123,3 +123,4 @@ id,en,jp,trans
 192,,<span class='scene-font-kokoro'>（決めたぞ……</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-kokoro'>での訓練後に休暇を取る。</span><br><span class='scene-font-kokoro'>１日だけでも、絶対だ！）</span>,<span class='scene-font-kokoro'>（我决定了……一定要在奥格斯提的训练结束后休假。就算只有一天，也绝对要休！）</span>
 193,,<span class='scene-font-katari'>手紙を書きながらイルザは</span><br><span class='scene-font-katari'>固く決意するのだった。</span>,<span class='scene-font-katari'>伊尔莎一边写信，一边下决心。</span>
 info,,1,scene_fate_chr471_ep1
+,,,

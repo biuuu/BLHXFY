@@ -1,4 +1,4 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-chapter_name,,人生で最高の日,人生中最美好的一天
 0-synopsis,,魔物討伐後、新婦を助け出そうとする姬塔達を止めるイルザ。新郎が人さらいの男に渾身の拳を食らわせ、新婦を救出する。無事に事件が解決した後、イルザはルリア達に、愛する人に救ってほしいという自分の夢を新郎に被せたのだと胸の内を語る。休憩時間が終了し任務へ戻るイルザは、固く抱き合う新郎新婦を思い出し、恍惚とした吐息をつくのだった。,讨伐掉魔物以后，伊尔莎阻止姬塔等人去救新娘。新郎用拳头给了绑架犯全力一击以后救出了新娘。平安解决事件以后，伊尔莎向露莉亚等人吐露心声，说将自己的希望被所爱的人拯救的梦想推到了新郎身上。结束休息时间回到任务中的伊尔莎想起紧紧抱在一起的新郎新娘，恍惚地吐了口气。
 5,,グガァァ……,噶……
@@ -22,7 +22,7 @@
 30,,<span class='scene-font-katari'>強烈な拳を食らって倒れていた男が</span><br><span class='scene-font-katari'>ムクリと立ち上がり、</span><br><span class='scene-font-katari'>懐からナイフを取り出す。</span>,<span class='scene-font-katari'>吃了强有力的一拳倒下的男人忽地站了起来，从口袋里拿出刀。</span>
 31,,<span class='scene-font-4'>キャー！</span>,<span class='scene-font-4'>呀！</span>
 32,,大変です！<br>助けましょう、姬塔。,不好了！我们去帮忙吧，姬塔。
-35,,あぁ……？,啊...？
+35,,あぁ……？,啊…？
 36,,はぁっ！,哈！
 41,,<span class='scene-font-katari'>イルザは見事な射撃精度で、</span><br><span class='scene-font-katari'>男の手からナイフのみを撃ち落とすと</span><br><span class='scene-font-katari'>素早くその手を掴み地面にねじ伏せる。</span>,<span class='scene-font-katari'>伊尔莎靠她准确无比的射击精度将男人手中的刀射落，随后迅速抓住他的手把他摁在地面上。</span>
 42,,────！,─────！
@@ -65,3 +65,4 @@
 93,,<span class='scene-font-katari'>柔らかく微笑み</span><br><span class='scene-font-katari'>緩やかに手を振った後、</span><br><span class='scene-font-katari'>イルザはツカツカと歩き始める。</span>,<span class='scene-font-katari'>伊尔莎柔和地笑着挥了挥，随后果断地走了起来。</span>
 94,,<span class='scene-font-katari'>温かな風にマントをなびかせながら、</span><br><span class='scene-font-katari'>彼女は固く抱き合う新郎新婦を思い出し</span><br><span class='scene-font-katari'>恍惚とした吐息を漏らすのだった。</span>,<span class='scene-font-katari'>披风在温和的风中飘动着，她回想起紧紧抱在一起的新郎新娘，恍惚地吐了口气。</span>
 info,,1,scene_chr434_q3_s20
+,,,

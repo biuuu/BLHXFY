@@ -4,7 +4,7 @@ id,en,jp,trans
 0,,<span class='scene-font-katari'>旅の途中、十二年に一度だけ</span><br><span class='scene-font-katari'>開帳されるという霊験あらたかな</span><br><span class='scene-font-katari'>神社の噂を聞きつけた一行。</span>,在旅途中，一行人听说了每十二年才开放一次的很灵验的神社。
 1,,<span class='scene-font-katari'>一行は、その神社で無病息災の</span><br><span class='scene-font-katari'>福を授かるべく、騎空艇を</span><br><span class='scene-font-katari'>南南西に向けて航行させていた。</span>,一行人为了从神社祈得祛病消灾的福气，将骑空艇向南南西方向开去。<br>【译者注：南南西是指南和西南之间的方向】
 2,,本当に……<br>この方角であってるんでしょうか？<br>なんだか心配になってきました……,真的……<br>是这个方向没错吧？<br>感觉有点担心起来了……
-3,,ああ！<br>今年の恵方は南南西だから……<br>この<span class='scene-font-place'>羊神宮</span>で間違いないと思うぜ！,嗯！<br>因为今年吉利的方向是南南西.....<br>就是这个羊神宫没错了！
+3,,ああ！<br>今年の恵方は南南西だから……<br>この<span class='scene-font-place'>羊神宮</span>で間違いないと思うぜ！,嗯！<br>因为今年吉利的方向是南南西……<br>就是这个羊神宫没错了！
 4,,<span class='scene-font-katari'>その時……雲間から</span><br><span class='scene-font-katari'>大小さまざまの騎空艇が姿を現す。</span>,这时……在云中<br>出现了各式大小不一的骑空艇。
 5,,あっ！　見てください、ビィさん！<br>私たちの他にも、騎空艇がどんどん<br>集まってきましたよ！,啊！ 碧！快看！<br> 除了我们，还有很多骑空艇聚集了过来了！
 6,,こうしちゃいらんねぇ！<br>姬塔！<br>オイラ達も急ぐぞ！,事不宜迟！<br>姬塔！<br>我们也快点吧！
@@ -22,7 +22,7 @@ id,en,jp,trans
 22,,はぁ～仕方ねぇな……<br>オイラ達が止めに入るしかねぇな。<br>行くぞ、姬塔！,哈〜真没办法……<br>只能由我们来阻止了。<br>上，姬塔！
 23,,<span class='scene-font-katari'>姬塔が喧嘩の</span><br><span class='scene-font-katari'>仲裁に入ろうとしたその時……</span>,就在姬塔刚要去劝架的时候……
 24,,<span class='scene-font-katari'>騎空士達の間に割って入る、</span><br><span class='scene-font-katari'>一人のうら若き乙女の姿があった。</span>,一位年轻女性闯入了骑空士之间。
-26,,これこれ……そなた達……<br>ここを何処と心得る？,喂喂……你们.....<br>知道这里是什么地方吗？
+26,,これこれ……そなた達……<br>ここを何処と心得る？,喂喂……你们……<br>知道这里是什么地方吗？
 27,,神聖なる<span class='scene-font-place'>羊神宮</span>の境内で<br>諍いを起こすなど……<br>もっての外であるぞ。,在神圣的羊神宫里挑起事端……<br>岂有此理。
 28,,あぁ？<br>んだと……あ……！？,啊？<br> 你在……啊！ ？
 29,,あなたは……<br>あ、あ、アニラさま！？,你是……<br>阿、阿、阿妮拉大人！ ？
@@ -45,7 +45,7 @@ id,en,jp,trans
 45-sel1_txt,,<span class='scene-font-katari'>わかった！</span>,明白了！
 45-sel2_txt,,<span class='scene-font-katari'>申の刻って？</span>,申时的意思是？
 46,,うむ。<br>誠に気持ちの良い返事じゃ。,嗯。<br>真是令人舒服的回答。
-47,,申の刻とは……<br>大体、昼過ぎから日没前の<br>時刻のことじゃ。,申时是指...<br>午后到日落前的那段时间。
+47,,申の刻とは……<br>大体、昼過ぎから日没前の<br>時刻のことじゃ。,申时是指…<br>午后到日落前的那段时间。
 48,,その頃には、大方人も引けておろう。<br>……どうじゃ、わかったかの？,那时，人群已逐渐散去。<br> ……如何，<br>明白了么？
 49,,しからば、我は勤めに戻るのでな。<br>後ほど、ここでまた会おうぞ……,那么，吾就回去工作了。<br>之后再在这里见面吧……
 50,,<span class='scene-font-katari'>そう言い残して……</span><br><span class='scene-font-katari'>アニラはその場を立ち去る。</span>,留下这句话后……<br>阿妮拉就离开了。
@@ -96,3 +96,4 @@ id,en,jp,trans
 96,,<span class='scene-font-katari'>こうして、一行と共に</span><br><span class='scene-font-spword'>イスタルシア</span><span class='scene-font-katari'>を目指す運びとなった</span><br><span class='scene-font-katari'>十二神将が一人、羊神アニラ。</span>,就这样，和一行人以星之岛为共同目标的，十二神将中的一人，羊神阿妮拉。
 97,,<span class='scene-font-katari'>まだ見ぬ</span><span class='scene-font-spword'>イスタルシア</span><span class='scene-font-katari'>に思いを馳せ</span><br><span class='scene-font-katari'>アニラはころころと</span><br><span class='scene-font-katari'>鈴の音の様に笑うのだった。</span>,想象着没有见过的星之岛，阿妮拉像银铃一般笑着。
 info,,1,scene_fate_chr106_ep1
+,,,

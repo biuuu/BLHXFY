@@ -1,10 +1,10 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-chapter_name,,エンディング,终章
 0-synopsis,,姬塔とルリアが召喚したバハムートの炎にザケンナーは倒れ、ブラックとホワイトが放つ技がピーサードを再び闇へと還した。無事、空の園の危機を救うという使命を果たし、姬塔達と別れを惜しみながらも元の世界へ戻るなぎさとほのか。この先どんな苦難が待ち受けていようと、ふたりは互いに支え合い手を取り合いながら前に進むのだった。,姬塔和露莉亚召唤出巴哈姆特将萨凯那打倒、黑天使与雪天使释放的招数将皮萨德再次赶回了黑暗当中。安然无恙地、达成了拯救空之园的危机的使命、惋惜与姬塔等人分别回到原本世界的渚和穗乃香。今后无论遇到怎样的苦难、这两人也将携手面对吧。
 2,,<span class='scene-font-4'>ぐあああっ！？</span>,<span class='scene-font-4'>咕啊啊啊っ！？</span>
 3,,みんな！　今だよ！,大家！　就是现在！
 4,,うん！,嗯！
-6,,プリキュラ……プリキュラ……<br><span class='scene-font-4'>負けるなポポーーー！</span>,Precura……Precura……<br><span class='scene-font-4'>不要输啊～波波ーーー！</span>
+6,,プリキュラ……プリキュラ……<br><span class='scene-font-4'>負けるなポポーーー！</span>,Precura……Precura……<br><span class='scene-font-4'>不要输啊～波波！</span>
 7,,光のパワーを受け取れポポ！！！,请收下光之能量吧～波波！！！
 14,,<span class='scene-font-katari'>ポルンの叫びとともに、</span><br><span class='scene-font-katari'>その身から黄金色の光が放たれる。</span><br><span class='scene-font-katari'>光はブラックとホワイトに衝突し──</span>,<span class='scene-font-katari'>与保伦的叫声一道、</span><br><span class='scene-font-katari'>身上放出了黄金色的光芒。</span><br><span class='scene-font-katari'>光芒印入了黑天使和雪天使当中──</span>
 16,,くっ……うう！,喔……哦哦！
@@ -20,7 +20,7 @@
 29,,<span class='scene-font-katari'>続いて姬塔とルリアが</span><br><span class='scene-font-katari'>互いの手を取った。</span>,<span class='scene-font-katari'>接着姬塔与露莉亚</span><br><span class='scene-font-katari'>也握住了彼此的手。</span>
 30,,始原の竜……,始原之龙……
 32,,闇の炎の子……,暗之炎之子……
-34,,<span class='scene-font-4'>ザケンナァァァー！</span>,<span class='scene-font-4'>萨凯那ァァァー！</span>
+34,,<span class='scene-font-4'>ザケンナァァァー！</span>,<span class='scene-font-4'>萨凯那ァァァ！</span>
 35,,希望の力よ、光の意思よ！,希望的力哟、光的意志哟！
 36,,未来へ向かって突き進め！,向着未来勇往直前！
 37,,さ、せるか……！,不、不会让你出手……！
@@ -43,7 +43,7 @@
 79,,ぐ……,咕……
 84,,<span class='scene-font-4'>ぐわあああああああっ！</span>,<span class='scene-font-4'>咕哇啊啊啊啊啊啊啊っ！</span>
 97,,お、終わった……,结、结束了……
-98,,ポポー！,波波ー！
+98,,ポポー！,波波！
 99,,ポルン！,保伦！
 100,,うれしいポポ、<br>みんな一緒ポポ～！,好高兴～波波、<br>大家在一起～波波～！
 101,,チビスケ、無事かよ……,小鬼头、没事吧……
@@ -96,10 +96,10 @@
 168,,さすがにそのために長老たちの力は<br>使えないミポ……,有一说一<br>为了这个是没法使用长老们的力量的～米波……
 169,,日頃から真面目に授業を受けておけば<br>テストの心配をしたり<br>先生に怒られることもないメポ。,平时就认真学习的话<br>就不用担心考试<br>也不会被老师骂了呀～梅波。
 170,,はい……,是……
-171,,<span class='scene-font-4'>あーもー！</span><br><span class='scene-font-4'>ありえなーい！</span>,<span class='scene-font-4'>啊ー么ー！</span><br><span class='scene-font-4'>不可能的啦！</span>
+171,,<span class='scene-font-4'>あーもー！</span><br><span class='scene-font-4'>ありえなーい！</span>,<span class='scene-font-4'>啊么！</span><br><span class='scene-font-4'>不可能的啦！</span>
 172,,<span class='scene-font-katari'>こうして、使命を果たした</span><br><span class='scene-font-katari'>なぎさたちは日常へと戻っていく。</span>,<span class='scene-font-katari'>就这样、完成了使命的</span><br><span class='scene-font-katari'>渚等人回归到了日常的生活当中。</span>
 173,,ああ……テストが……憂鬱……,啊啊……考试啊……忧郁……
-174,,うーん……少し早く学校に着きそうだし<br>私と一緒にテスト勉強しよっか？,嗯ーん……看起来能稍微提早点抵达学校呢<br>要不要和我一起做考前学习？
+174,,うーん……少し早く学校に着きそうだし<br>私と一緒にテスト勉強しよっか？,嗯ん……看起来能稍微提早点抵达学校呢<br>要不要和我一起做考前学习？
 175,,ほんと！？<br>ありがとう、ほのかー！,真的！？<br>谢谢、穗乃香！
 176,,<span class='scene-font-katari'>どんな苦難が待ち受けていようと──</span>,<span class='scene-font-katari'>无论有怎样的苦难在等着──</span>
 177,,<span class='scene-font-katari'>後悔を残さぬように支え合いながら、</span><br><span class='scene-font-katari'>ふたりは手を取り合って</span><br><span class='scene-font-katari'>前に進むのだった。</span>,<span class='scene-font-katari'>不要留下悔恨地相互支撑、</span><br><span class='scene-font-katari'>两个人紧握彼此的手</span><br><span class='scene-font-katari'>一同向前。</span>

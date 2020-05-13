@@ -34,7 +34,7 @@ id,name,text,trans
 66,,<span class='scene-font-katari'>星晶獣の一撃を受け、</span><br><span class='scene-font-katari'>ヴァーサタイルに</span><br><span class='scene-font-katari'>一瞬の隙が出来る。</span>,<span class='scene-font-katari'>受到星晶兽这一击，</span><br><span class='scene-font-katari'>巴萨泰尔出现了一瞬间的破绽。</span>
 67,,<span class='scene-font-katari'>その隙を狙い、</span><br><span class='scene-font-katari'>バザラガはグロウノスを構えた。</span>,<span class='scene-font-katari'>瞄准了这个空隙，</span><br><span class='scene-font-katari'>巴萨拉卡举起了古洛诺斯。</span>
 68,バザラガ/巴萨拉卡,畳みかける……！<br>行くぞ、グロウノス！,一起攻击……！<br>我们上，古洛诺斯！
-69,バザラガ/巴萨拉卡,──ﾓﾗｼｲ:ｺｲﾁﾄｶ.,——ﾓﾗｼｲ:ｺｲﾁﾄｶ.（mode:beast.)
+69,バザラガ/巴萨拉卡,──ﾓﾗｼｲ:ｺｲﾁﾄｶ.,——ﾓﾗｼｲ:ｺｲﾁﾄｶ（mode:beast)
 80,バザラガ/巴萨拉卡,<span class='scene-font-4'>おおおオオオオオッッ！</span>,<span class='scene-font-4'>喔哦哦哦哦哦哦哦——！</span>
 82,,<span class='scene-font-katari'>獣のように唸ったバザラガは</span><br><span class='scene-font-katari'>目にもとまらぬ速さで動き、</span><br><span class='scene-font-katari'>ヴァーサタイルを斬りつける。</span>,<span class='scene-font-katari'>巴萨拉卡发出野兽般的低吼，</span><br><span class='scene-font-katari'>用肉眼无法看清的速度移动，</span><br><span class='scene-font-katari'>向巴萨泰尔斩了过去。</span>
 90,ヴァーサタイル,ガッ……！！,嘎……！！

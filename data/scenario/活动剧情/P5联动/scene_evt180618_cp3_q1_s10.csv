@@ -1,4 +1,4 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-chapter_name,,Voice of the Heart,心的声音
 0-synopsis,,パレスは主の認知によって姿が変わることから、この異空間の主は<span class='scene-font-place'>ザンクティンゼル</span>とグランサイファー両方に関係する誰かなのでは、と推測するジョーカー達。しかしパレスとは様子が異なる部分もあり、一行はビィを探しながら調査を進める。その後一行は姬塔の家でひとり佇むビィを見つけるが、ビィは唐突に飛び去ってしまうのだった。,因为殿堂是由主人的认知而变换姿态，Joker他们以此推测这个异空间的主人应该是与赞库提因泽和格兰赛法两方有关的人，但这个殿堂还是有些违和感，人们继续调查着。那之后他们来到姬塔家，见到了独自神伤的碧，又无视他们飞走了。
 7,,<span class='scene-font-katari'>扉の先に広がる</span><br><span class='scene-font-place'>ザンクティンゼル</span><span class='scene-font-katari'>の光景──</span>,<span class='scene-font-katari'>眼前出现的是<br><span class='scene-font-place'>赞库提因泽</span>的样子——</span>
@@ -10,7 +10,7 @@
 11,,ビィ達にとっての思い出の地か……<br>この空間、<br>やはりパレスに似ているな……,原来是有碧和你们回忆的地方……<br>这个空间果然很像殿堂……
 12,,確かに……私の知っている<br>姬塔とビィ君の故郷の風景とは<br>少々違うようだ……,确实……<br>这和我认识的姬塔和<br>碧的故乡有些不一样……
 13,,ビィ達にとっての思い出の地か……<br>この空間、<br>やはりパレスに似ているな……,原来是有碧和你们回忆的地方……<br>这个空间果然很像殿堂……
-14,,この異空間がパレスと同じだとしたら、<br>さっきも話したように、<br>パレスは主の認知によって姿が変わる。,这里如果和殿堂一样的话，<br>那就像刚才说的,<br>殿堂会根据主人的认知而改变样貌。
+14,,この異空間がパレスと同じだとしたら、<br>さっきも話したように、<br>パレスは主の認知によって姿が変わる。,这里如果和殿堂一样的话，<br>那就像刚才说的
 15,,この艇、<br>グランサイファーに関わっていて、<br>かつ、この村にも関係があるのは……,和这艘船、格兰赛法有关，<br>又与这个村子有关的……
 16,,姬塔、ビィ、<br>ルリア、カタリナの４人だけか。,就是姬塔、碧、露莉亚、<br>卡塔莉娜你们4个人了吧？
 17,,おいおいおい……<br>ってことは、<br>その中の誰かが……,喂喂喂……<br>也就是说这其中有人就是……
@@ -22,7 +22,7 @@
 22,,となると消去法で、<br>この場に居ない彼……<br>ビィが異空間の主となってしまうが。,那就使用排除法，<br>不在这里的碧就是这个<br>空间的主人了吧。
 22-sel1_txt,,<span class='scene-font-katari'>ありえない</span>,<span class='scene-font-katari'>不可能</span>
 22-sel2_txt,,<span class='scene-font-katari'>考えられない</span>,<span class='scene-font-katari'>不敢想象</span>
-23,,そ、そうですよ！<br>ビィさんがそんな、<br>歪んだ欲望を持ってるなんて……,是..是啊!<br>碧怎么会有什么扭曲的欲望啊……
+23,,そ、そうですよ！<br>ビィさんがそんな、<br>歪んだ欲望を持ってるなんて……,是…是啊!<br>碧怎么会有什么扭曲的欲望啊……
 24,,そうだな……<br>ビィ君はいつだって無邪気だ。<br>ビィ君に限ってそんなことは……,是啊……<br>碧一直很单纯。
 25,,<span class='scene-font-katari'>状況から導き出される結論に、</span><br><span class='scene-font-katari'>その場には重苦しい空気が漂い始める。</span>,<span class='scene-font-katari'>根据目前的状况所得出的结论，<br>反而使得气氛变得沉重起来。</span>
 26,,──何か変だ。,有些不对劲……
@@ -45,7 +45,7 @@
 46,,……のどかな場所だな。<br>こういう状況でなければ<br>ゆっくり過ごしてみたかったが。,好安逸的地方……<br>要不是现在这种状况，<br>还真想在这儿好好度过一阵。
 47,,ね。こういうトコでのスローライフって<br>憧れちゃう。,是啊。<br>我一直很憧憬这种慢节奏生活。
 48,,<span class='scene-font-4'>おーい、ビィーっ！</span><br>どっかにいるんだろーっ！<br>探しに来たぞーっ！,<span class='scene-font-4'>喂，碧！</span><br>你在哪儿呢！<br>我们来找你了！
-49,,<span class='scene-font-2'>ちょ、バカ……！</span><br><span class='scene-font-2'>そんな大声出したら</span><br><span class='scene-font-2'>敵に気付かれるだろ！</span>,<span class='scene-font-2'>喂，笨蛋...!<br>你那么大声会引起敌人注意的!</span>
+49,,<span class='scene-font-2'>ちょ、バカ……！</span><br><span class='scene-font-2'>そんな大声出したら</span><br><span class='scene-font-2'>敵に気付かれるだろ！</span>,<span class='scene-font-2'>喂，笨蛋…!<br>你那么大声会引起敌人注意的!</span>
 51,,わ、わりぃ……<br>俺達以外に<br>誰かいるかもしんねーって思って……,抱，抱歉……<br>我想着应该有我们以外的人在……
 52,,……反応がないな。<br>あまりに静かすぎる。,没反应……<br>这里有点过于安静了。
 53,,艇の時と同じく、<br>家の中も探してみるか？,我们就像在船上一样，<br>先去家里找找如何？
@@ -56,14 +56,14 @@
 58,,姬塔、アイツと<br>一緒に住んでたんだよな？<br>家まで案内してくれないか？,姬塔，你跟那家伙住一起来着吧?<br>可以带我们到家里去么?
 64,,<span class='scene-font-katari'>姬塔は全員を引き連れて</span><br><span class='scene-font-katari'>かつて生活していた家屋に向かった。</span>,<span class='scene-font-katari'>姬塔把大家带到曾经生活过的家。</span>
 65,,<span class='scene-font-katari'>家に辿り着き、姬塔が</span><br><span class='scene-font-katari'>入口の戸を開こうとすると、</span><br><span class='scene-font-katari'>モナが警戒を促す。</span>,<span class='scene-font-katari'>到了家门口，<br>姬塔正要开门的时候<br>MONA警戒了起来。</span>
-66,,注意しろよ！<br>鬼が出るか蛇が出るか……,小心点儿！<br>不知道会出现什么牛鬼蛇神...
+66,,注意しろよ！<br>鬼が出るか蛇が出るか……,小心点儿！<br>不知道会出现什么牛鬼蛇神…
 67,,<span class='scene-font-katari'>一行は警戒の色を強めつつ、</span><br><span class='scene-font-katari'>慎重に戸を開く。</span>,<span class='scene-font-katari'>一行人戒备着，<br>小心翼翼地开了门。</span>
 73,,<span class='scene-font-katari'>屋内に踏み入るなり、真っ先に</span><br><span class='scene-font-katari'>視界に飛び込んできたのは……</span>,<span class='scene-font-katari'>前脚刚迈进去，<br>首先映入眼帘的是……</span>
 74,,……ビィさん！,啊，碧……！
 75,,<span class='scene-font-katari'>食卓にひとりでポツンと座っている</span><br><span class='scene-font-katari'>ビィの姿だった。</span>,<span class='scene-font-katari'>碧落在餐桌旁，<br>一副无精打采的样子。</span>
 76,,…………,…………
 77,,おいビィ！<br>急にいなくなっちまって<br>心配したんだぜ？,喂碧！<br>你突然不见吓坏我们了！
-78,,何はともあれ、無事でよかっ──,不管怎样，<br>没事就...
+78,,何はともあれ、無事でよかっ──,不管怎样，<br>没事就…
 79,,オイラは、何者なんだ……？,我到底是什么呢……？
 80,,……ビィさん？,碧……？
 81,,オイラは皆と一緒に旅を続けてぇ。<br>でも、もしもオイラの正体が……,我想和大家继续旅行，<br>但如果我的真实身份……
@@ -72,6 +72,7 @@
 92,,────……！？<br>いま、一瞬……,————……！？<br>刚刚有一瞬间……
 93,,待て、様子がおかしい……<br>まさか、こいつが──！,等等，样子有些奇怪……<br>难道这家伙——！
 95,,…………,…………
-97,,ちょっ、おい！　ビィ！<br>どこに行くんだ！,等...喂！<br>碧！你去哪儿！
+97,,ちょっ、おい！　ビィ！<br>どこに行くんだ！,等…喂！<br>碧！你去哪儿！
 98,,<span class='scene-font-katari'>唐突に飛び立ったビィは、</span><br><span class='scene-font-katari'>一行と顔を合わせることもなく</span><br><span class='scene-font-katari'>森の方へ去ってしまうのだった。</span>,<span class='scene-font-katari'>突然飞出去的碧看也不看大家一眼，<br>头也不回地向森林方向飞走了。</span>
 info,,1,scene_evt180618_cp3_q1_s10
+,,,

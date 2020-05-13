@@ -1,4 +1,4 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-chapter_name,"66: Two Knights, Two Worlds",第66章　ふたりの騎士,第66章：两位骑士
 0-synopsis,"In an overgrown forest in Lumacie, a strange woman approaches Scarlet Knight Baragona as he practices his swordplay. The woman, on behalf of the True King, tells Baragona to go to the Dydroit Belt. He bows in acknowledgement and heads into town to gain transport to his next destination.",<span class='scene-font-place'>ルーマシー群島</span>で剣技を磨く緋色の騎士バラゴナの元へ、虚ろな様子の女性が現れる。女性は「<span class='scene-font-place'>ダイダロイトベルト</span>へ向かえ」とバラゴナに告げ、糸が切れたように崩れ落ちた。そのお告げに恭しく頭を下げたバラゴナは、意識を取り戻した女性を紳士的に介抱する。その後、島を訪れている騎空艇の情報を得たバラゴナは、指示された<span class='scene-font-place'>ダイダロイトベルト</span>へと向かうのだった。,绯之骑士巴拉戈纳在<span class='scene-font-place'>露玛茜群岛</span>磨炼剑技，在那里，一位面无生气的女性出现了。女性向巴拉戈纳传话：“到<span class='scene-font-place'>碎石环</span>那里去”，然后就像断了线的人偶一般倒了下去。恭恭敬敬接受了宣告的巴拉戈纳，十分绅士地看护着恢复了意识的这位女性。在那之后，取得降到这座岛上的骑空艇情报的巴拉戈纳，按照指示向<span class='scene-font-place'>碎石环</span>去了。
 1,"Deep within an overgrown forest, a blade cuts swiftly through the air.",<span class='scene-font-katari'>鬱蒼と生い茂る森の中、</span><br><span class='scene-font-katari'>空を切る刃の音が響く。</span>,<span class='scene-font-katari'>在一片茂密的森林深处中，切割开空气的刀刃的声音回荡着。</span>
@@ -6,7 +6,7 @@
 3,Humph... Hahhh!,ふっ……はああぁぁぁっ！！,嘿，哈啊……！ ！
 5,Whew...,ふぅ……,呼……
 6,"Baragona lowers his sword, gazing above at the birds scattering in the trees.",<span class='scene-font-katari'>バラゴナは一度剣を下ろし、</span><br><span class='scene-font-katari'>先ほどの衝撃で飛び去っていく、</span><br><span class='scene-font-katari'>鳥達を眺める。</span>,<span class='scene-font-katari'>巴拉戈纳一度放下剑，眺望着因为刚刚的冲击而飞走的鸟群。</span>
-7,...,………,……...
+7,...,………,………
 8,"He draws his sword again, sensing that he is no longer alone.",<span class='scene-font-katari'>しかし、今度は何かを警戒した様子で、</span><br><span class='scene-font-katari'>再び剣を構えるのだった。</span>,<span class='scene-font-katari'>但是，他又再次举起了剑，这回像是在提防着什么。</span>
 9,"Who's there? If you have business with me, how about you show yourself?",どなたでしょうか……？<br>私に用があるのなら、<br>姿を見せたらいかがですか。,请问阁下何人？如果找我有事的话，姑且现身出来如何。</span>
 10,His voice echoes within the cluster of trees.,<span class='scene-font-katari'>生い茂る木立に、</span><br><span class='scene-font-katari'>制するような声が轟く。</span>,<span class='scene-font-katari'>在密林中，他那具有压迫力的声音回响起来。</span>
@@ -31,7 +31,7 @@
 29,"You were blacked out when I found you, so I can't be sure...",私が貴女を見つけたときには、<br>すでに気を失っていたので、<br>詳しいことはわかりませんが……,当我找到你时你已经晕倒了，所以我不知道具体细节。
 30,R-really? Oh. Thank you for helping me.,そ、そうなんですか？<br>すみません、<br>声をかけていただいて……,嗯，是这样吗？对不起，劳烦你照顾我了。
 31,No no! I wouldn't be a knight if I didn't help a damsel in distress.,いえいえ！<br>倒れているご婦人を放って置いては、<br>騎士の名が泣くというものです。,没有关系。置昏倒的女士于不顾，有损骑士之名号。
-32,"Oh... Well, thank you.",はぁ……ありがとうございます。,哈...十分感激。
+32,"Oh... Well, thank you.",はぁ……ありがとうございます。,哈…十分感激。
 33,"The woman slowly comes out of her daze. Regaining her wits, she begins to stand up.",<span class='scene-font-katari'>女性は徐々に</span><br><span class='scene-font-katari'>ハッキリとした意識を取り戻しながら、</span><br><span class='scene-font-katari'>バラゴナに礼を述べ、立ち上がる。</span>,<span class='scene-font-katari'>这位女性意识逐渐清醒了起来，感谢了巴拉戈纳之后，站了起来。</span>
 34,"Her eyes are clear, showing no trace of the empty gaze from before.",<span class='scene-font-katari'>その足取りはしっかりしたものであり、</span><br><span class='scene-font-katari'>先ほどまでの虚ろな様子は、</span><br><span class='scene-font-katari'>どこにも無かった。</span>,<span class='scene-font-katari'>这回她的步态很稳，完全不同于之前那副毫无生气的样子。</span>
 35,"By the way, miss, have any airships arrived in Lumacie recently?",ところでご婦人……<br>この<span class='scene-font-place'>ルーマシー群島</span>に、<br>いま艇は来ていませんか？,这位女士，顺便一问，有船只来到这个<span class='scene-font-place'>露玛茜群岛</span>吗？
@@ -44,3 +44,4 @@
 42,Good grief... I never get used to talking to oracles.,やれやれ……<br>やはりシビュレを通した連絡は、<br>どうにも慣れませんね……,呀嘞呀嘞，果然我还是怎样都无法习惯通过西比尔进行联络的方式啊。
 43,"Shrugging his shoulders, Baragona makes his way toward the port. He wonders what lies in store for him at the Dydroit Belt.",<span class='scene-font-katari'>そう言って肩をすくめながらバラゴナは、</span><br><span class='scene-font-place'>ダイダロイトベルト</span><span class='scene-font-katari'>へ向かうべく</span><br><span class='scene-font-katari'>港へと歩を進めるのだった。</span>,<span class='scene-font-katari'>这么说着的巴拉戈纳，耸了耸肩，然后朝着港口那边走去了，他很好奇在</span><span class='scene-font-place'>碎石环</span><span class='scene-font-katari'>那里有什么等着他。</span>
 info,1,1,scene_cp66_q1_s10
+,,,

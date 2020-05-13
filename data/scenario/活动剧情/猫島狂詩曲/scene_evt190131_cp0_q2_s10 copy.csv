@@ -7,8 +7,8 @@ id,name,text,trans
 18,ルリア/露莉亚,お婆さんっ！,老婆婆！
 19,杖をついた老婆,う、うぅ……,唔，呜呜……
 20,ＮＹＡ‐ＯＮ,……────！！,……────！！
-27,エレフセリア,みゃー！？,喵ー！？
-28,ガラの悪い猫３,フシャーーー！！,煞ーーー！！
+27,エレフセリア,みゃー！？,喵！？
+28,ガラの悪い猫３,フシャーーー！！,煞！！
 29,ＮＹＡ‐ＯＮ,────！,────！
 30,ルリア/露莉亚,危ないですっ！,危险！
 31,ビィ/碧,婆ちゃんしっかりしろ！,老婆婆，振作一点！
@@ -161,3 +161,4 @@ id,name,text,trans
 220,,<span class='scene-font-katari'>そして、小さな新しい仲間の</span><br><span class='scene-font-katari'>揺れる尻尾を見て、</span><br><span class='scene-font-katari'>楽しそうに微笑むのだった。</span>,<span class='scene-font-katari'>看着新加入的小伙伴摇晃的尾巴，露出了开心的微笑。</span>
 226,,<span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　　　　　　　　　　　　　　　──完</span>,<span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　　　　　　　　　　　　　　　──完</span>
 info,,,scene_evt190131_cp0_q2_s10
+,,,

@@ -1,0 +1,86 @@
+id,name,text,trans
+0-chapter_name,,「塔」の逆位置,「塔」的逆位置
+0-synopsis,,姬塔一行がロベリアと出会ってから数か月後。依頼の帰り道、アウギュステの浜辺を訪れた一行の前に、破壊され続けているはずのロベリアが現れる。「幸福の音に出会わせてくれたお礼がしたい」と言うロベリア。ロベリアがこれ以上殺人を起こさないよう姬塔達が見張る意味も込めて、姬塔は自らの旅路への同行を許可するのだった。,姬塔一行人和罗贝利亚相遇那天的几个月后。在委托的归程，造访奥古斯都海边的一行人面前，应该正被持续破坏着的罗贝利亚现身了。罗贝利亚说「想给让我遇到幸福之音的你们一些回礼」。包含着不让罗贝利亚再实行杀人而监视他的含义，姬塔许可了他加入自己的旅途。
+1,,<span class='scene-font-katari'>姬塔一行が</span><br><span class='scene-font-katari'>ロベリアと出会ってから数か月後──</span>,<span class='scene-font-katari'>在姬塔一行</span><br><span class='scene-font-katari'>和罗贝利亚相遇那天的几个月后──</span>
+2,,<span class='scene-font-katari'>一行はとある依頼の帰り道、</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>の浜辺を歩いていた。</span>,<span class='scene-font-katari'>一行人在某个委托的归程路上，</span><br><span class='scene-font-place'>来到了奥古斯都</span><span class='scene-font-katari'>的海边。</span>
+3,,<span class='scene-font-katari'>すると、</span><br><span class='scene-font-katari'>浜辺に転がる巻き貝が目に映り、</span><br><span class='scene-font-katari'>一行はロベリアを想起し、足を止める。<br></span>,<span class='scene-font-katari'>于是，</span><br><span class='scene-font-katari'>滚落在地上的海螺映入眼帘，</span><br><span class='scene-font-katari'>让一行人想起了罗贝利亚，停下了脚步。<br></span>
+4,ルリア/露莉亚,ロベリアさん……,罗贝利亚……
+5,ビィ/碧,とんでもねぇヤツだったけど……<br>最期はなんつーか……<br>あんまりだったよな……,虽然是个很不得了的家伙……<br>最后那还是……<br>太过分了啊……
+5-sel1_txt,,<span class='scene-font-katari'>当然の報いだ</span>,<span class='scene-font-katari'>这是当然的报应</span>
+5-sel2_txt,,<span class='scene-font-katari'>あれは流石に……</span>,<span class='scene-font-katari'>那个实在是……</span>
+6,ビィ/碧,確かに、そうかもしれねぇな。,或许，确实是这样吧。
+7,ビィ/碧,アイツ、<br>信じられない数の人を殺してた<br>殺人鬼だったもんな……,那家伙，<br>毕竟是杀掉了让人无法相信的<br>数目的杀人鬼啊……
+8,ルリア/露莉亚,それでも……<br>流石に、あんな死に方は……<br>可哀想です……,即使如此……<br>那种死法，不愧是……<br>太可怜了……
+9,ルリア/露莉亚,どんなに悪い人でも……<br>あんな最期は、可哀想です……,无论是多么过分的坏人……<br>那样的最后，太可怜了……
+10,ビィ/碧,ああ、間違いねぇ……,是啊，确实如此……
+11,,<span class='scene-font-katari'>ロベリアを憐れむ中、</span><br><span class='scene-font-katari'>姬塔は</span><br><span class='scene-font-katari'>懐に違和感を覚える。</span>,<span class='scene-font-katari'>怜悯着罗贝利亚之时，</span><br><span class='scene-font-katari'>姬塔发觉</span><br><span class='scene-font-katari'>怀里有什么违和感。</span>
+12,,<span class='scene-font-katari'>姬塔は</span><br><span class='scene-font-katari'>懐を探ると、ロベリアの形見である</span><br><span class='scene-font-katari'>巻き貝が振動していることに気づく。</span>,<span class='scene-font-katari'>姬塔</span><br><span class='scene-font-katari'>试着摸索，发现那是罗贝利亚的遗物</span><br><span class='scene-font-katari'>海螺发出的震动造成的。</span>
+13,巻き貝,<span class='scene-font-italic scene-font-blue'>────</span>,<span class='scene-font-italic scene-font-blue'>────</span>
+14,ルリア/露莉亚,えっ……？,诶……？
+15,,<span class='scene-font-katari'>姬塔が巻き貝を取り出すと</span><br><span class='scene-font-katari'>僅かな音が漏れだし始め、</span><br><span class='scene-font-katari'>一行は目を見開いた。</span>,<span class='scene-font-katari'>姬塔取出海螺后，</span><br><span class='scene-font-katari'>些微的声音开始从里面漏出，</span><br><span class='scene-font-katari'>让一行人睁开了眼。</span>
+16,ビィ/碧,き、気のせいか……？,是、是错觉吗……？
+17,巻き貝,<span class='scene-font-italic scene-font-blue'>サリュ！</span><br><span class='scene-font-italic scene-font-blue'>ご機嫌いかがかな？</span>,<span class='scene-font-italic scene-font-blue'>Salut（你好）！</span><br><span class='scene-font-italic scene-font-blue'>今天心情如何？</span>
+18,ルリア/露莉亚,ロベリアさん！？<br>えっ、こ、これって……<br>コンセールですか！？,罗贝利亚！？<br>诶，这、这个是……<br>Concert（管弦乐，此处指魔术）吗！？
+19,ビィ/碧,えーっとこれは録音か？<br>なら、確か……<br>ルジストル……,呃——这是录音吗？<br>那，应该是……<br>Registre（记录）……
+20,？？？,ノンッ！<br>これはメサージュさ！,Non（不）！<br>这是Message（讯息）！
+21,,<span class='scene-font-katari'>突如として背後から響いた声に、</span><br><span class='scene-font-katari'>一行はびくりと身体を震わせる。</span>,<span class='scene-font-katari'>听见突然从背后响起的声音，</span><br><span class='scene-font-katari'>一行人的身体颤抖了一下。</span>
+22,,<span class='scene-font-katari'>恐る恐る振り返ると、</span><br><span class='scene-font-katari'>そこには気さくな笑みを</span><br><span class='scene-font-katari'>浮かべたロベリアがいた。</span>,<span class='scene-font-katari'>小心谨慎地回过头，</span><br><span class='scene-font-katari'>那里站着的是露出</span><br><span class='scene-font-katari'>温和笑容的罗贝利亚。</span>
+23,ビィ/碧,お、お前っ！？<br>なんでここにいるんだ！？<br>生きてやがったのか！？,你、你！？<br>为什么会在这里啊！？<br>你还活着的吗！？
+24,ルリア/露莉亚,い、今も……<br>壊され続けてるはずじゃ……,不、不应该……<br>现在也还持续被破坏着才……
+25,ロベリア,ウィ！　今も尚、<br>幸福の音の海を泳ぎ続けているよ。,Oui（是哦）！　我现在也，<br>在幸福之音的海洋之中持续游着泳呢。
+26,ロベリア,くはっ、ふふふ！　ほら！<br>たった今、ろっ骨を磨り潰され、<br>臓器がミンチになったところだ！,哈哈，呼哈哈！　看啊！<br>就在刚刚，我的肋骨还被碾碎，<br>脏器被磨成了肉糜哦！
+27,ロベリア,ああ、ああ！　トレッビアンッ！<br>我ながら、パルフェな音だ！<br>んんん～～～！　幸福だぁ……！,啊啊、啊啊！　Très bien（太棒了）！<br>不愧是我，真是parfait（完美）的声音！<br>嗯嗯嗯～～～！　太幸福了……！
+28,ビィ/碧,ど、どういうことだ……？<br>それなら目の前に居るお前は<br>一体なんなんだよ！,这，这是怎么回事……？<br>那样的话在我们眼前的你<br>究竟是怎么回事啊！
+29,ロベリア,オレはオレさ。<br>それともこの全空一の魔術師が<br>ロベリア以外に見えるのかい？,我就是我啊。<br>还是说看着不像是<br>全空第一的魔术师罗贝利亚吗？
+30,ロベリア,オレは壊され続けながら、<br>こうしてここに存在しているのさ。,我在被持续破坏的同时，<br>还能像这样存在于此哦。
+31,ビィ/碧,わけわからねぇ……！<br>どういうことだよ！,根本搞不懂……！<br>究竟怎么回事啊！
+32,ロベリア,中々難しいことを聞くね。,还真是会问很难回答的问题啊。
+33,ロベリア,ええっと、あっちのオレは<br>コンセールで<br>シュシュっと作った残響で……,这个嘛，那边的我是<br>用Concert咻咻地<br>做出来的残响……
+34,ロベリア,ああ、でももったいないから<br>神経は全てオレとピンッと繋げて、<br>壊される音を直に感じてるんだ。,啊，但是太浪费了<br>就把神经全都和我啪地连接起来，<br>让我能直接感受到被破坏的声音。
+35,ロベリア,それで、オレ自身はパッと抜けて、<br>こうしてキミらの前にいる……,然后，我自己就啪地溜出来，<br>于是就在你们眼前……
+36,ビィ/碧,その説明の下手さ……<br>間違いねぇ、本物だ……,这糟糕至极的说明……<br>肯定没错，是本人了……
+37,,<span class='scene-font-katari'>まったく緊張感がないロベリアに</span><br><span class='scene-font-katari'>一行はすっかりと油断しそうになり、</span><br><span class='scene-font-katari'>すかさず気を引き締める。</span>,<span class='scene-font-katari'>一行人因为毫无紧张感的罗贝利亚</span><br><span class='scene-font-katari'>差点就要放松警惕，</span><br><span class='scene-font-katari'>又迅速警戒起来。</span>
+38,ルリア/露莉亚,一体、何をしに来たんですか？,你究竟，是来做什么的？
+39,ロベリア,おいおい、悲しいな。<br>そんなに警戒しないでくれ。<br>敵対するつもりは全くないよ。,喂喂，真难过啊。<br>别那么警戒我嘛。<br>我完全没有和你们敌对的意思哦。
+40,ロベリア,オレはただ、<br>心からの感謝を伝えにきただけさ。,我只是、<br>想发自内心地向你们表示感谢啊。
+41,,<span class='scene-font-katari'>意図の読めないその言葉に、</span><br><span class='scene-font-katari'>姬塔達は</span><br><span class='scene-font-katari'>怪訝そうに眉をひそめる。</span>,<span class='scene-font-katari'>对于无法读出真意的这句话，</span><br><span class='scene-font-katari'>姬塔一行</span><br><span class='scene-font-katari'>诧异地皱起了眉头。</span>
+42,ロベリア,メルシー！<br>姬塔、ビィ、ルリア！,Merci（感谢）！<br>姬塔、碧、露莉亚！
+43,ロベリア,今も全身で感じられる、<br>自分が壊され続けるこの幸福な音！<br>これに出会えたのはキミらのおかげだ！,现在我的全身也能感觉到，<br>自己被持续破坏的这份幸福的声音！<br>能和这份声音相遇都是多亏了你们！
+44,ロベリア,この音を聴き続けられるのなら……<br>オレはもうなにも破壊しなくてもいい。<br>心から、そう思えるんだ！,如果能持续聆听这个声音的话……<br>我就算什么都不破坏也可以。<br>我发自内心，这么想啊！
+45,ロベリア,だからこそキミらにお礼がしたい！<br>オレの全ての力を……<br>キミらに捧げさせてくれ……！,正因如此才想向你们道谢！<br>让我将我全部的力量……<br>都奉献给你们吧……！
+46,ビィ/碧,な、なんだって……？<br>そんな、突然すぎるぜ……,你、你说什么……？<br>这也，太突然了吧……
+47,ビィ/碧,それによぉ、<br>オイラ、お前は信用できねぇよ。,而且啊，<br>我，没法相信你诶。
+48,ロベリア,さっきも言ったが、<br>もう絶対に破壊はしないと約束しよう。<br>いや、する必要がないんだ！,刚刚我也说过了，<br>我能约好绝对不再破坏什么。<br>不，已经没有那个必要了！
+49,ロベリア,オレらは心から<br>満たされているんだから！,因为我们已经<br>发自内心被满足了！
+50,ルリア/露莉亚,オレらって……<br>タワーさんもですか？,我们……<br>塔也是如此吗？
+51,ロベリア,ウィ！<br>アイツもオレを壊し続けることで<br>最高に満たされている……,Oui（是的）！<br>他也通过持续破坏着我<br>而得到了最大的满足……
+52,ロベリア,だからもうオレらは<br>世界を壊すことなんかに、<br>微塵も興味はないんだ！,所以我们已经<br>对破坏世界什么的，<br>一丁点兴趣都没有了！
+53,ロベリア,だから頼むよ、姬塔。<br>どうか、尽くさせてくれ……！<br>本当に、感謝しているんだ……！,所以拜托了，姬塔。<br>请务必，让我效力吧……！<br>我真的，非常感谢你啊……！
+54,ビィ/碧,う、うーん……<br>どうするよ、姬塔？,唔、嗯……<br>怎么办啊，姬塔？
+54-sel1_txt,,<span class='scene-font-katari'>世に尽くして罪を償い続けろ</span>,<span class='scene-font-katari'>要把力量奉献给世界来赎罪</span>
+54-sel2_txt,,<span class='scene-font-katari'>じゃあ、傍に居て</span>,<span class='scene-font-katari'>那，待在我身边</span>
+55,,<span class='scene-font-katari'>姬塔が放った言葉には</span><br><span class='scene-font-katari'>怒気を込められていた。</span>,<span class='scene-font-katari'>姬塔发出的话语中</span><br><span class='scene-font-katari'>带着满满的怒火。</span>
+56,ルリア/露莉亚,ロベリアさん。<br>私はあなたのこと……<br>絶対に許せないです。,罗贝利亚。<br>我绝对不会……<br>原谅你的所作所为。
+57,ルリア/露莉亚,でももしも本当に私達のために、<br>力を使ってくれるというのなら……,但如果你真的愿意为了我们，<br>使用那份力量的话……
+58,ルリア/露莉亚,タワーさんとあなたの力を、<br>この世界のために使ってください。<br>それが私達の望みです。,请你为了这个世界，<br>使用你和塔的力量。<br>这就是我们的期望。
+59,ロベリア,ウィ。<br>キミらがそう望むのならば、<br>オレは従おう。,Oui（好哦）。<br>如果你们如此期望的话，<br>我就会听从。
+60,ロベリア,オレの全てを償いのために捧げるよ。<br>この世界に、そしてキミらに。,我会将我的一切为了偿还赎罪而使用。<br>为了这个世界，也是为了你们。
+61,ロベリア,これからは是非、<br>キミらのもとでこの世界に尽くそう！,从今以后也请务必，<br>让我在你们身边为了这个世界而努力吧！
+62,ビィ/碧,って、ついてくるのかお前！？,话说，你要跟过来的吗！？
+63,ロベリア,ウィ！　そのほうが<br>キミらも安心できるだろう？,Oui（是的）！　这样<br>你们也比较安心吧？
+64,ビィ/碧,確かに……オイラ達が<br>見張ってた方が……いいのか？,确实如此……我们监视着<br>也会比较好……吧？
+65,ロベリア,何度でも言うが……<br>キミらはボクらの恩人だ。,我要再重复一次……<br>你们是我们的恩人。
+66,ビィ/碧,ええっ！？<br>マジか、姬塔！？,诶诶！？<br>真的吗，姬塔！？
+67,ルリア/露莉亚,私も姬塔に賛成です。,我也赞成姬塔。
+68,ビィ/碧,ルリアまで……！<br>コイツ殺人鬼なんだぞ！？,连露莉亚都……！<br>这家伙可是杀人鬼啊！？
+69,ルリア/露莉亚,だからこそ、<br>姬塔はロベリアさんを<br>傍で監視……したいんだと思います。,正因如此，<br>姬塔或许才想让罗贝利亚<br>在身边……方便监视他。
+70,ルリア/露莉亚,言ってることが、<br>ウソかもしれませんし……,他说的话，<br>说不定是谎言……
+71,ロベリア,ウソなんかもうつかないさ！<br>キミらはオレらの恩人なんだから！,我已经不会说谎了哦！<br>因为你们是我们的恩人！
+72,ロベリア,キミらに尽くせるのならば、<br>いくらでも傍に居続けよう！<br>この力、いくらでも捧げよう！！,只要能为了你们尽力，<br>无论何时我都可以待在你们！<br>这份力量，不管多少都可以奉上！！
+73,ロベリア,何度でも言うが……<br>キミらはボクらの恩人だ。,我要再重复一次……<br>你们是我们的恩人。
+74,ロベリア,オレとタワーはキミらのためなら、<br>なんだってする。,如果是为了你们的话，<br>我和塔什么都会做。
+75,ロベリア,覚えておいてくれ。<br>なんだってだ。,请务必记住了。<br>什么都会做的。
+76,,<span class='scene-font-katari'>ロベリアは純粋無垢な笑みを浮かべ、</span><br><span class='scene-font-katari'>力強くそう、断言してみせた。</span>,<span class='scene-font-katari'>罗贝利亚露出纯粹无垢的笑容，</span><br><span class='scene-font-katari'>语气强烈地，如此断言。</span>
+82,,<span class='scene-font-katari'>こうして油断ならぬ殺人鬼が</span><br><span class='scene-font-katari'>想像もしない形で姬塔の</span><br><span class='scene-font-katari'>旅路に加わるのだった。</span>,<span class='scene-font-katari'>就这样，不能对其大意的杀人鬼</span><br><span class='scene-font-katari'>以让人无法想象的形式，</span><br><span class='scene-font-katari'>加入了姬塔的旅途之中。</span>
+info,,,scene_chr490_ep8_s10
+译者,,,翻译：清羽

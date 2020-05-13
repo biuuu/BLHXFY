@@ -26,7 +26,7 @@ id,name,text,trans
 26,ランスロット/兰斯洛特,特に、仲間同士で傷つけあうなど、<br>絶対に許されないご法度だ。,特别是，让同伴受伤是绝对不能容忍的！
 27,ランスロット/兰斯洛特,その規則は、たとえ団長であれ絶対。<br>軍規を乱した者は、どんな理由であれ<br>裁きから逃れられない……,即使是团长，<br>无论有什么理由，<br>只要触犯了规章准则就一定不能赦免。
 28,ルリア/露莉亚,騎士としてやっていくのも<br>なかなか大変そうですね……,骑士的任务也很辛苦呢。
-29,ランスロット/兰斯洛特,怖がらせてすまない！<br>でも……,抱歉，我并没有想要吓到你们。<br>但是......
+29,ランスロット/兰斯洛特,怖がらせてすまない！<br>でも……,抱歉，我并没有想要吓到你们。<br>但是……
 30,ランスロット/兰斯洛特,それを言えば、騎空団を<br>まとめるのだって大変だろう？<br>なぁ、姬塔？,说到这个，<br>领导骑空团也不是件容易事，<br>对吧、姬塔？
 30-sel1_txt,,<span class='scene-font-katari'>それほどでも</span>,<span class='scene-font-katari'>也没那么厉害/span>
 30-sel2_txt,,<span class='scene-font-katari'>割と自由かな</span>,<span class='scene-font-katari'>比较自由吧</span>
@@ -43,7 +43,7 @@ id,name,text,trans
 39,ルリア/露莉亚,おやすみなさい！<br>ランスロットさん。,晚安！<br>兰斯洛特先生。
 40,ランスロット/兰斯洛特,おやすみ……,晚安
 41,ランスロット/兰斯洛特,<span class='scene-font-kokoro'>（騎空団か。</span><br><span class='scene-font-kokoro'>彼らの背負う使命とはいかほどのものか、</span><br><span class='scene-font-kokoro'>ふふ、実に興味深いな。）</span>,<span class='scene-font-kokoro'>（骑空团吗。</span><br><span class='scene-font-kokoro'>他们背负的究竟是怎样的使命、</span><br><span class='scene-font-kokoro'>嗯嗯、我真的很在意。）
-42,,<span class='scene-font-katari'>こうして……</span><br><span class='scene-font-katari'>ファフニール討伐を目前に控えた夜は、</span><br><span class='scene-font-katari'>静かに更けていった。</span>,<span class='scene-font-katari'>こうして……</span><br><span class='scene-font-katari'>ファフニール討伐を目前に控えた夜は、</span><br><span class='scene-font-katari'>静かに更けていった。</span>
+42,,<span class='scene-font-katari'>こうして……</span><br><span class='scene-font-katari'>ファフニール討伐を目前に控えた夜は、</span><br><span class='scene-font-katari'>静かに更けていった。</span>,<span class='scene-font-katari'>こうして……</span><br><span class='scene-font-katari'>ファフニル討伐を目前に控えた夜は、</span><br><span class='scene-font-katari'>静かに更けていった。</span>
 43,,<span class='scene-font-katari'>姬塔達は、明日の戦いに備えて</span><br><span class='scene-font-katari'>つかの間の休息を取るのだった。</span>,<span class='scene-font-katari'>姬塔一行，为了准备明日的战斗</span><br><span class='scene-font-katari'>短暂地休息了。</span>
 info,,,scene_fate_chr095_ep1
 译者,,,myu

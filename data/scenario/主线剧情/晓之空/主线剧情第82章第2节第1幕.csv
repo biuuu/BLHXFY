@@ -1,10 +1,10 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-chapter_name,82: Cain's Trap,第82章　カインの罠,第82章 该隐设陷
 0-synopsis,"Cain deduces that Reinhardtzar will take the villagers hostage to draw out the crew. Katalina wants to rescue them right away, but after Cain convinces her that the hostages won't be hurt, he gains her cooperation for a different plan of action.",姿をくらました姬塔達をおびき寄せる為、村人を人質に取る作戦を立てるラインハルザ。一方、 姬塔一行は、村に戻って盗賊を止めようとするカタリナを宥めながらカインの考察に耳を傾ける。話を聞き終え、全員が納得した事を確認したカインは、姬塔達と共に盗賊と相対する為の作戦を立てるのだった。,为了将藏匿起来的姬塔等人引诱出来，莱茵哈萨订立了劫持村民为人质的作战计划。另一方面，该隐劝阻想要返回村中阻止盗贼的卡塔莉娜，众人倾听了该隐的意见，听完后该隐确认所有人都接受了他的想法，就与姬塔等人一同为了对抗盗贼设定作战计划。
 0,An outlaw runs over to Reinhardtzar in a great panic.,<span class='scene-font-katari'>盗賊のひとりは、</span><br><span class='scene-font-katari'>慌てた様子で</span><br><span class='scene-font-katari'>ラインハルザの元へと駆け込んでくる。</span>,<span class='scene-font-katari'>一位盗贼慌忙地赶向莱茵哈萨所在之处。</span>
 2,Tzar! We can't find them anywhere! I think they've escaped!,――キング！<br>あいつらどこにも居ねぇ！<br>もうアジトを出たみてぇだ！,老大！那些家伙哪都找不着！似乎已经从据点逃出去了！
 3,"Humph... Trying to make a run for it to form a counterattack, huh?",ふん……<br>まずはオレの掌を出て、<br>作戦でも立てようって腹積もりか。,哼，先逃出我的掌心再准备作战计划吗。
-4,What'll we do? Maybe get a scout party together and track them?,どうする？<br>すぐに追跡部隊を組んで……,怎么办？迅速组织一支追击部队的话...
+4,What'll we do? Maybe get a scout party together and track them?,どうする？<br>すぐに追跡部隊を組んで……,怎么办？迅速组织一支追击部队的话…
 5,"No, it's fine. We still have the seal to worry about. I don't want to thin out our guard...",いや、いい。<br>封印の件もある。<br>人手は割きたくねぇ。,不，这样就可以了。我不想分散封印那边的人手。
 6,Reinhardtzar turns to one of his outlaws and gives a command.,<span class='scene-font-katari'>ラインハルザは</span><br><span class='scene-font-katari'>控えている盗賊のひとりに向き直ると、</span><br><span class='scene-font-katari'>素早く指示を出す。</span>,<span class='scene-font-katari'>莱茵哈萨转向他手下的一名盗贼，并迅速向他做出指示。</span>
 7,"Tell the men at the port that until this is cleared up, they're not to let a single person aboard the ships.",港の連中に、<br>事が片付くまで誰一人、<br>艇に乗せるなと伝えろ。,告诉港口的那些家伙，在事情解决前，不要让任何人搭上骑空艇。
@@ -13,7 +13,7 @@
 10,Then that means we can take our time combing through the island...,じゃあ、その上で、<br>ゆっくり島中を探して……,然后我们甚至可以慢慢地在岛上找他们。
 11,No need. We'll just wait until they show themselves.,いや、その必要もねぇ。<br>アイツらには自分から出て来てもらう。,不，那也没必要。让那些家伙自己出来就好了。
 12,The outlaws seem puzzled by his response.,<span class='scene-font-katari'>ラインハルザの言葉に、</span><br><span class='scene-font-katari'>盗賊達は皆一様に首を傾げる。</span>,<span class='scene-font-katari'>莱茵哈萨的话让盗贼们都感到不可思议。</span>
-13,"But, Tzar... People like them won't turn up if we just ask nicely.",で、でも、キング……<br>あんな捻くれた奴らが、<br>出て来い、つって出て来るとは……,但...但是，老大，要让那些性格古怪的家伙自己出来...
+13,"But, Tzar... People like them won't turn up if we just ask nicely.",で、でも、キング……<br>あんな捻くれた奴らが、<br>出て来い、つって出て来るとは……,但…但是，老大，要让那些性格古怪的家伙自己出来…
 14,"Oh, but they will. You saw for yourselves how he acted in the village.",出て来るさ。<br>お前らも見ただろ？<br>村でのアイツの反応を。,可以的，你们也看到了吧？他们在村里的反应。
 15,In the village?,村で……？,在村里……？
 16,We're going to the village and taking hostages. Take all the adults if need be.,村に人質を取りに行くぞ。<br>いっそ村の大人全員を<br>人質にしてもいい。,去村里劫持人质，把村里所有大人当作人质就可以了。
@@ -33,7 +33,7 @@
 35,"Humph... You say you don't want to see any more death, and yet you'll allow those villagers to be sacrificed...",ふん……<br>誰も死なせたくないと言ったその口で、<br>村人を犠牲にしようとするとはな……,哼，之前说过不想让任何人死去，现在却可以接受村民的牺牲吗。
 36,They won't be. No one will die.,村は犠牲にならない。<br>誰も死なない。,村里不会有牺牲，谁都不会死。
 37,"More importantly we need to tread carefully, or we'll lose our chance to counter.",むしろ、いま迂闊な行動を取れば、<br>反撃の機会を失うことになる。,不如说如果现在采取愚蠢的行动的话，反过来会失去反击的良机。
-38,What did you just say?,なんだと……,你说什么...
+38,What did you just say?,なんだと……,你说什么…
 38-sel1_txt,"Both of you, calm down.",<span class='scene-font-katari'>ふたりとも落ち着いて</span>,两人都冷静下来吧
 38-sel2_txt,Let's hear everything he has to say.,<span class='scene-font-katari'>話は最後まで聞こう</span>,听他说完
 39,Right! We need to talk this out first...,そ、そうですよ！<br>まずはちゃんとお話ししないと……,是，是的！首先要好好听他说完。
@@ -54,19 +54,19 @@
 52,"Ha-ha! I should've known you'd remember that much, 姬塔.",ははっ！<br>聞いといてなんだけど、<br>よく覚えてるなぁ、姬塔。,哈哈！我只想姑且听下你们的回复，没想到姬塔你还真记得啊。
 53,"Hey, I was next to you the whole time!",いや、オイラ、<br>ずっと隣にいたじゃねーか！,不，我不是一直都在你身边的嘛！
 54,I think... it was a man!,確か……男の人でしたよね。,我记得，应该是个男子吧。
-55,"That man had a young daughter. When he was in danger, she called out to him.",彼には小さな娘がいるようだったな。<br>人質に取られた後、<br>すぐさま女の子が……,他还有一个年幼的女儿，他被抓住当人质时，小女孩马上就...
+55,"That man had a young daughter. When he was in danger, she called out to him.",彼には小さな娘がいるようだったな。<br>人質に取られた後、<br>すぐさま女の子が……,他还有一个年幼的女儿，他被抓住当人质时，小女孩马上就…
 56,"Right. There was a little girl nearby, but the man was taken hostage instead.",そう……近くには彼の娘もいた。<br>にも関わらず、<br>アイツらは人質に彼を選んだ。,是的，尽管他身边就是他的女儿，但是那些家伙还是把他当做人质了。
 57,"If you're gonna hold someone hostage, you'd go for the easiest person to control or threaten.",人質に取るなら、<br>扱いやすく<br>最も効果のある相手を選ぶのが常識だ。,劫持人质的话，选择最有效果的那个对象才符合常理。
 58,Those outlaws have the village in the palm of their hands. They should know the parents of the children and whose buttons to push...,村に君臨してたアイツらのことだ、<br>村人達の家族関係は、<br>当然把握していただろうし……,他们完全统治着那个村子，想必也掌握了村民们的家族关系。
 59,"Even if that weren't the case, who would you choose? A big burly man or a tiny little girl?",そうでなくても、<br>力の強い大人の男と、小さな女の子なら、<br>普通どちらを人質に選ぶ？,即便并非如此，力量更强大的男人和幼小的女孩，一般会选哪边作为人质呢？
 60,I see now...,それは……,那……
 61,"These guys aren't your ordinary bandits. They're governing this island, just like Reinhardtzar said.",アイツらはただのならず者じゃない。<br>自分でも言っていたように、<br>この島を統治しているつもりなんだ。,他们不仅仅是普通的暴徒，正如他们自己所言，他们正统治着这座岛。
-62,"In other words, to him, the villagers are a ready workforce and source of tax...",つまり、ラインハルザにとって、<br>村の人達は税を徴収する<br>労働力であると同時に……,换句话说，对于莱茵哈萨而言，村民们不仅是需要向上征税的劳动力...
+62,"In other words, to him, the villagers are a ready workforce and source of tax...",つまり、ラインハルザにとって、<br>村の人達は税を徴収する<br>労働力であると同時に……,换句话说，对于莱茵哈萨而言，村民们不仅是需要向上征税的劳动力…
 63,"And at the same time, they're citizens to be protected by their king and country.",国として、王として守るべき、<br>かけがえのない国民でもある。,也是于一国而言，于王而言必须保护的，无比宝贵的国民。
 64,"With his sights set on that throne, I doubt he'll risk recklessly wounding people.",だから、王を志すラインハルザが、<br>闇雲に民を傷つけるとは考えにくい。,所以很难想象志在称王的莱茵哈萨会随便地伤害自己的国民。
 65,Cain raises one of his fingers as he continues speaking.,<span class='scene-font-katari'>そう言いながら、</span><br><span class='scene-font-katari'>カインは指を立てる。</span>,<span class='scene-font-katari'>该隐边说边举起一根手指。</span>
 66,But that's the first reason. The second is that hostages can be taken since they're guaranteed to stay safe.,これが一つ目の理由。<br>そしてもう一つ、人質は安全だからこそ、<br>人質たりうるんだ。,这是第一个原因，然后还有一个——正因人质安全，人质才能成为人质。
-67,Hm... So that means it's all right to let the villagers be taken?,えっと、それって……<br>人質になったほうが、<br>安全、ってことですか……？,那个，就是说...变成人质才安全的意思吗？
+67,Hm... So that means it's all right to let the villagers be taken?,えっと、それって……<br>人質になったほうが、<br>安全、ってことですか……？,那个，就是说…变成人质才安全的意思吗？
 68,That's the overall idea. Taking a hostage is basically an agreement between you and the enemy.,んー。大雑把に言うとな。<br>人質を取る、というのは、<br>相手と自分との約束だから。,嗯，大致是这个意思。劫持人质，这件事本身就是对方和自己双方的契约。
 69,"In exchange for setting the hostages free and unharmed, you can demand something of your enemy.",人質を取る、ってのは、<br>人質を無事に解放することを条件に、<br>相手に何かを要求する行為だ。,劫持人质就是以保证人质可以无事释放为条件，向对方提出要求的行为。
 70,"So in another way, it means that you lose the negotiation if a hostage is hurt.",だから、人質に危害を加えることは、<br>裏を返せば、<br>自分から交渉を潰すようなもんだ。,所以，加害于人质反过来说就是自己把交涉搞砸。
@@ -80,3 +80,4 @@
 78,"Cain smiles and nods happily at Katalina, having finally gained her cooperation.",<span class='scene-font-katari'>カタリナのその言葉を聞いたカインは、</span><br><span class='scene-font-katari'>笑顔で頷きを返す。</span>,<span class='scene-font-katari'>听到卡塔莉娜的话，该隐微笑点头回应。</span>
 79,And so 姬塔 and the crew put their plan in place to oppose the island's outlaws.,<span class='scene-font-katari'>こうして、姬塔達は、</span><br><span class='scene-font-katari'>盗賊達と相対するため、</span><br><span class='scene-font-katari'>密かに動き始めるのだった。</span>,<span class='scene-font-katari'>然后，姬塔等人为了对抗盗贼，开始秘密地行动。</span>
 info,1,1,scene_cp82_q2_s10
+,,,

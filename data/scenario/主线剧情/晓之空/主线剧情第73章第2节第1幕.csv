@@ -1,4 +1,4 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-chapter_name,73: Orchis and Orchid,第73章　オルキスとオーキス,第73章奥尔琪斯与奥琪斯
 0-synopsis,"Fresh footprints of imperial soldiers are found at the abandoned area, and Lyria detects faint traces of dark essence belonging to Freesia. Preparing for the worst, the party makes their way toward the tower where Orchis is being held.",廃墟に到着すると、空っぽの建物内には帝国兵のものと思われる真新しい足跡があり、ルリアはそこで、かすかに残るフリーシアの魔晶の力を感じ取る。フリーシアの持つ魔晶の力が暴走している事を知った姬塔一行は、この先に待ち受ける最悪の事態に身構えながら、タワーへと歩みを進めるのだった。到达废墟之后，空荡荡的建筑物中留下了疑似帝国军留下的崭新的足迹。露莉亚从那里感受到了芙莉西雅残留的魔晶之力。姬塔等人知道了芙莉西雅所持的魔晶之力已经暴走，并已经准备好了最坏的事态，向塔前进了。,
 2,姬塔 and the crew visit the ruins where Freesia was last seen.,<span class='scene-font-katari'>タワーへと向かう道すがら、</span><br><span class='scene-font-katari'>フリーシアが立ち寄ったという</span><br><span class='scene-font-katari'>寂れた廃墟を訪れる姬塔一行。</span>,<span class='scene-font-katari'>姬塔等人在去塔的途中转去了芙莉西雅之前来过的死寂的废墟。</span>
@@ -18,7 +18,7 @@
 17,"It's here. It's faint, but dark essence remains.",っ……！<br>ここ……<br>少しだけど魔晶の力が残ってます……,啊！这里……残留着一点点魔晶之力！
 18,Yikes. Then that means that we're about to battle something big like last time.,うげ……てことはやっぱり。<br>この間みてーな戦いは<br>避けらんねぇんだよな……,那么果然这次也要遭遇和上次一样的战斗了吗？
 19,And there's more. It's Freesia's dark essence.,それになんだか、この感じ……<br>もしかして、<br>フリーシアさんの魔晶は……,而且不知怎么的，这种感觉是……难道说芙莉西雅的魔晶……
-20,But it's out of control?,暴走……してる？,暴走...了？
+20,But it's out of control?,暴走……してる？,暴走…了？
 21,"Lyria grows silent, and a chill fills the air.",<span class='scene-font-katari'>ルリアが零したその言葉に、</span><br><span class='scene-font-katari'>姬塔一行は戦慄する。</span>,<span class='scene-font-katari'>对于露莉亚说出的话语，众人感到战栗。</span>
 22,The crew prepares for the worst as they set off again for the tower.,<span class='scene-font-katari'>ルリアが示した</span><br><span class='scene-font-katari'>最悪の可能性に身構えながら、</span><br><span class='scene-font-katari'>一行はいよいよタワーへと歩みを進める。</span>,<span class='scene-font-katari'>已经在心里准备好了最坏的事态后，大家继续向高塔前进。</span>
 info,1,1,scene_cp73_q2_s10

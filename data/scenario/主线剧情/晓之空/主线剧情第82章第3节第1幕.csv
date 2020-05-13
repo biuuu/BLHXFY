@@ -1,25 +1,25 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-chapter_name,82: Cain's Trap,第82章　カインの罠,第82章 该隐设陷
 0-synopsis,"Cain goes to the village to face the outlaws alone, after which 姬塔 and the crew decide that Cain is hard to read but not a bad guy after all. They then set off in search of the seal to begin the next part of the plan.",作戦通り、盗賊達の注意を引く為単身村へと戻るカインを見送る姬塔一行。ふと、その背を見送っていたカタリナが姬塔に対しカインをどう思うか、と尋ねる。姬塔の意見を聞いたカタリナは、真意が読めない人間ではあるが悪人ではないだろうと結論付ける。一行は作戦通り「封印」の場所を目指すのだった。,按照作战计划，该隐为了吸引村民单刀赴会于村中，姬塔等人目送他离开时，卡塔莉娜询问姬塔对该隐的看法，听取姬塔的意见之后，卡塔莉娜认为该隐是一个猜不透真意但是绝非恶徒的人。于是众人按照计划赶向“封印”所在的地点。
 0,"Great! Then I'll leave the rest to you, 姬塔.",――よし。<br>じゃ、後は任せたぜ、姬塔。,好了。那么，之后就交给你们了，姬塔。
 1,"Cain, are you sure this is all right?",カインさん……<br>本当に大丈夫ですか？,该隐，这样真的行得通吗？
 2,Of course! Don't you worry. Every little thing's been looked into already.,大丈夫だって！　安心しろよ。<br>もう全部、<br>調べがついてることなんだからさ。,没事的！放心吧，这全部都是经过调查得出的。
-3,"I get your concern, seeing as the fight is unavoidable. But as far as I can tell...",そりゃ、戦闘は避けられねぇだろうから<br>不安に思うのはわかるぜ。<br>でも、俺の見立てでは……,当然你的担心我能理解，战斗是无法回避的。但是在我看来...
+3,"I get your concern, seeing as the fight is unavoidable. But as far as I can tell...",そりゃ、戦闘は避けられねぇだろうから<br>不安に思うのはわかるぜ。<br>でも、俺の見立てでは……,当然你的担心我能理解，战斗是无法回避的。但是在我看来…
 4,"That's not the problem! We might not look like much, but we've seen our fair share of battles.",そうじゃねーって！<br>オイラ達だって、こう見えて、<br>結構な修羅場をくぐって来てんだぜ。,没问题的！虽然看着不像，但我们也是经历过相当的难关的呢。
 5,The real problem is you're the one about to face the most danger.,それより、さっきの作戦だと、<br>なんだかんだ一番危ない目に遭うのは、<br>カインなんじゃねーのか？,但说起来，刚才说的作战里不管怎么说过程最危险的不应该是该隐吗？
 6,Cain stares blankly at Vyrn.,<span class='scene-font-katari'>ビィの指摘に、</span><br><span class='scene-font-katari'>カインはきょとんとした表情を見せる。</span>,<span class='scene-font-katari'>对于碧指出的事情，该隐露出一副摸不着头脑的表情。</span>
 7,"Why, yes. I am. I came up with the plan after all.",そりゃそうだろ。<br>だって俺が立てた作戦だぜ？,这是当然的吧，毕竟是我制定的作战。
 8,Your best case scenario was that the villagers would be taken hostage.,君が村人達を人質に取らせたのは、<br>本当に最善を考えた結果だったのだな。,你是真的考虑到让村民们作为人质是最好的情况。
-9,"But you based your plan around their safety, not yours...",決して、<br>自らの保身のためなどではなく……,而绝非只是为了保全自己...
+9,"But you based your plan around their safety, not yours...",決して、<br>自らの保身のためなどではなく……,而绝非只是为了保全自己…
 10,"Oh, gimme a break. I've been saying this from the start, haven't I?",ったくもー！<br>最初っからそう言ってるだろ？,真是的！我不是一开始就这么说嘛！
 11,"Real sorry, but I refuse to live my life knowing someone sacrificed theirs for me.",俺はもう、<br>誰かの犠牲の上に生きるのなんて、<br>ごめんなんだよ。,基于他人的牺牲让自己活着这种事，我可再也不能接受了。
-12,Hm? What do you mean?,ん？　それは、どういう……,嗯？那是什么意思...
+12,Hm? What do you mean?,ん？　それは、どういう……,嗯？那是什么意思…
 13,"Cain turns away from her and claps his hands, changing the subject.",<span class='scene-font-katari'>おもむろにカタリナに背を向けると、</span><br><span class='scene-font-katari'>カインは切り替えるように</span><br><span class='scene-font-katari'>大きく手を打つ。</span>,<span class='scene-font-katari'>该隐慢慢背向卡塔莉娜，像是切换了状态一样大声击掌。</span>
 14,"Now then! Being swift and decisive is the key, they say! If we dawdle any longer, we won't make it in time.",さ！　兵は神速を尊ぶ、ってな！<br>ちんたらしてたら、<br>全部手遅れになっちまう。,好了！古云兵贵神速，再慢悠悠地磨蹭下去，什么都赶不上了。
 15,I'm off then! I'm counting on you to take care of the rest.,俺、もう行くわ。<br>後のこと、頼んだからな。,我这就出发了，之后的事都拜托你们了！
 16,"Cain runs off toward the village, leaving them behind.",<span class='scene-font-katari'>それだけ言うと、</span><br><span class='scene-font-katari'>カインは村の方向へと駆けていく。</span>,<span class='scene-font-katari'>留下这句话后，该隐向村子的方向赶去。</span>
 17,姬塔 and the crew watch as he disappears into the distance.,<span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>ただその後ろ姿を見送る。</span>,<span class='scene-font-katari'>姬塔等人目送着该隐的背影。</span>
-18,"姬塔, what's your take on this young man Cain?",姬塔……<br>君は彼を……カインをどう思う？,姬塔，你觉得他...该隐怎么样？
+18,"姬塔, what's your take on this young man Cain?",姬塔……<br>君は彼を……カインをどう思う？,姬塔，你觉得他…该隐怎么样？
 18-sel1_txt,He's an interesting guy.,<span class='scene-font-katari'>面白い奴</span>,有趣的家伙
 18-sel2_txt,He's a risk-taker.,<span class='scene-font-katari'>危ない奴</span>,冒险的家伙
 19,"Interesting, huh? Well if by interesting you mean curious, then I can agree.",面白い、か……<br>確かに興味深いという意味では、<br>私も同意見だ。,有趣吗，在对他感兴趣的层面上我也是这么认为的。
@@ -34,7 +34,7 @@
 30,"He seems a little cold, but surely it's a barrier to keep others away. Keep them from getting hurt...",ちょっと冷たく見えるのも、<br>きっと、<br>本当に誰も傷つけたくないからで……,虽然看上去有些冷酷，但是他一定是为了不让他人受伤吧。
 31,I'll admit I was pretty shocked when he said we're gonna leave those hostages alone...,村の奴が人質に取られるのを見過ごす、<br>って聞いたとき、<br>オイラもすっげーびっくりしたけど……,听到要不顾村民们被劫为人质一事的时候我也感到相当震惊的。
 32,"But in a roundabout way, he was thinking about them all along, right?",なんだかんだ言って、<br>ちゃんと村の奴らのことも、<br>考えてたもんな。,但是不管怎么说，他也是好好地考虑到了村民的事情的。
-33,Right. Even if his words and actions seem indifferent...,はい……<br>言っていることや、<br>やっていることが冷たくても……,是的，虽然他的所言所行看上去很冷酷...
+33,Right. Even if his words and actions seem indifferent...,はい……<br>言っていることや、<br>やっていることが冷たくても……,是的，虽然他的所言所行看上去很冷酷…
 34,I think he's actually a very kindhearted man.,でも、本当はすごく<br>温かい人なんじゃないかな、<br>って思うんです。,但是，他难道不是一个内心很热心肠的人吗。
 35,"With a troubled look on her face, Katalina lets out a heavy sigh.",<span class='scene-font-katari'>ルリアの言葉を聞き、</span><br><span class='scene-font-katari'>カタリナは困ったように眉を寄せ、</span><br><span class='scene-font-katari'>大きく息をつく。</span>,<span class='scene-font-katari'>听到露莉雅的话卡塔莉娜很困扰地大叹口气。</span>
 36,"When it comes to people like Cain, or even Drang, I can never tell what they're thinking...",カインといい、ドランクといい……<br>ああいうタイプは<br>どうも真意が読めないな……,该隐也好德朗克也好，对那种类型的人还真是猜不透他们的真意呢。
@@ -43,9 +43,10 @@
 39,We're on board too! Cain is gonna work it out on his end after all...,そうだぜ！<br>カインも向こうで<br>頑張ってくれてるだろうし……,是呀！该隐那边也在奋战呢。
 40,So we should hurry up and get to that seal he was talking about!,オイラ達も、<br>カインの言ってた「封印」、<br>とかってのに早く行こうぜ！,我们也赶快赶去该隐所说的“封印”那里吧。
 41,Everyone nods in agreement and begins the trek towards the where Cain says the seal is.,<span class='scene-font-katari'>ビィの言葉に頷きを返し、</span><br><span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>カインに指示された場所へと歩き始める。</span>,<span class='scene-font-katari'>姬塔等人点头赞成碧所说的话，然后迈步奔赴该隐指示的那个位置。</span>
-47,"Let's see now... This should be the place, right? Where we first met Cain?",えーっと……<br>確か、この辺だったよな？<br>オイラ達がカインに会ったのって。,呃...我记得确实是在这附近吧？我们和该隐第一次见面的地方。
+47,"Let's see now... This should be the place, right? Where we first met Cain?",えーっと……<br>確か、この辺だったよな？<br>オイラ達がカインに会ったのって。,呃…我记得确实是在这附近吧？我们和该隐第一次见面的地方。
 48,"I see. Then according to him, the seal should be around here somewhere...",そうか……<br>それなら、カインの話によれば、<br>この近くに「封印」があるはずだが……,这样啊，那么按照该隐所说的，这一带应该是有“封印”的才对。
 49,Grrr...,グオオォォッ！,咕哦哦哦！
-50,"Monsters... Perhaps it's our distance from the village, but I should've known there'd be monsters out here.",魔物か……<br>村から遠いせいか、この辺りには、<br>流石に魔物がいるようだな。,是魔物...离开村子这么远，这附近确实应该有魔物在呢。
+50,"Monsters... Perhaps it's our distance from the village, but I should've known there'd be monsters out here.",魔物か……<br>村から遠いせいか、この辺りには、<br>流石に魔物がいるようだな。,是魔物…离开村子这么远，这附近确实应该有魔物在呢。
 51,"Let's hop to it, 姬塔! With the villagers counting on us, we can't let anything stop us!",頑張りましょう！　姬塔！<br>村の人達のためにも、<br>足止めされるわけにはいきません！,加油吧，姬塔！为了村民们我们不能在这里停下脚步！
 info,1,1,scene_cp82_q3_s10
+,,,

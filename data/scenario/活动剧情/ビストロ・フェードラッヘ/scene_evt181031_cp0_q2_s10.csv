@@ -243,7 +243,7 @@ id,name,text,trans
 361,ランスロット/兰斯洛特,<span class='scene-font-2'>ジークフリートさん！</span><br><span class='scene-font-2'>いつの間にこんなものを！</span>,<span class='scene-font-2'>齐格飞先生！</span><br><span class='scene-font-2'>您什么时候做出这种！</span>
 362,ジークフリート/齐格飞,<span class='scene-font-2'>以前からヘクトアイズは</span><br><span class='scene-font-2'>濃厚なプリンの様な食感で</span><br><span class='scene-font-2'>ウマそうだと思っていたのでな。</span>,<span class='scene-font-2'>从以前开始我就觉得</span><br><span class='scene-font-2'>百目怪的口感就像是浓厚的布丁一样</span><br><span class='scene-font-2'>很好吃的样子。</span>
 363,ジークフリート/齐格飞,<span class='scene-font-2'>たった今、</span><br><span class='scene-font-2'>長年の疑問が晴れて、</span><br><span class='scene-font-2'>すっきりした心持ちだ。</span>,<span class='scene-font-2'>就在刚才、</span><br><span class='scene-font-2'>我常年的疑问得到了解答、</span><br><span class='scene-font-2'>心里很是舒畅啊。</span>
-364,ランスロット/兰斯洛特,<span class='scene-font-2'>え……ええーっ？</span><br><span class='scene-font-2'>今初めて調理したんですかー！</span><br><span class='scene-font-2'>しかも他人にぃぃ！</span>,<span class='scene-font-2'>诶……诶诶ー？</span><br><span class='scene-font-2'>您刚才是第一次做吗！</span><br><span class='scene-font-2'>而且还是给别人！</span>
+364,ランスロット/兰斯洛特,<span class='scene-font-2'>え……ええーっ？</span><br><span class='scene-font-2'>今初めて調理したんですかー！</span><br><span class='scene-font-2'>しかも他人にぃぃ！</span>,<span class='scene-font-2'>诶……诶诶？</span><br><span class='scene-font-2'>您刚才是第一次做吗！</span><br><span class='scene-font-2'>而且还是给别人！</span>
 365,ジークフリート/齐格飞,<span class='scene-font-2'>ああ……</span><br><span class='scene-font-2'>自信があったんだが、</span><br><span class='scene-font-2'>ダメだったのか？</span>,<span class='scene-font-2'>啊……</span><br><span class='scene-font-2'>我很有自信的但</span><br><span class='scene-font-2'>失败了吗？</span>
 366,,<span class='scene-font-katari'>厨房から事の成り行きを</span><br><span class='scene-font-katari'>見守っていたヴェイン達も</span><br><span class='scene-font-katari'>ほっと胸をなでおろす。</span>,<span class='scene-font-katari'>在厨房观察情况的</span><br><span class='scene-font-katari'>维恩们也</span><br><span class='scene-font-katari'>放下了心中的石头。</span>
 367,ヴェイン/维恩,ははは！<br>さすがジークフリートさんだぜ！,哈哈哈！<br>不愧是齐格飞先生！
@@ -331,3 +331,4 @@ id,name,text,trans
 482,,<span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　　　　　　　　　　　　　　　──完</span>,<span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　　　　　　　　　　　　　　　──完</span>
 info,,,scene_evt181031_cp0_q2_s10
 备注,,,翻译：MAMUS
+,,,

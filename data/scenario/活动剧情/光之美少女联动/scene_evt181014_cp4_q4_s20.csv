@@ -14,10 +14,10 @@ id,en,jp,trans
 12,,,吼……<br>本来还想着先解决了<br>光之美少女再说的……
 13,,,行吧！<br>就算多了一个小鬼<br>我的胜利也不会动摇！
 15,,,看我把你们一起收拾了！<br>来、出招吧！
-18,,,<span class='scene-font-4'>哈啊啊啊啊ーー！！！！</span>
+18,,,<span class='scene-font-4'>哈啊啊啊啊！！！！</span>
 19,,,<span class='scene-font-4'>哒哒哒哒哒哒！！！</span>
 20,,,<span class='scene-font-katari'>连续挥出猛烈的拳头的</span><br><span class='scene-font-katari'>Cure Black。</span>
-21,,,<span class='scene-font-4'>哈啊ーーーーー！</span>
+21,,,<span class='scene-font-4'>哈啊！</span>
 22,,,<span class='scene-font-katari'>不断使出强烈的踢击的</span><br><span class='scene-font-katari'>Cure White。</span>
 24,,,<span class='scene-font-4'>哈啊！！</span>
 25,,,呀啊！！
@@ -38,7 +38,7 @@ id,en,jp,trans
 68,,,────
 74,,,咕……这风是！
 75,,,<span class='scene-font-katari'>在提亚马特释放的疾风的吹拂下，</span><br><span class='scene-font-katari'>皮萨德失去了身体的平衡。</span>
-79,,,<span class='scene-font-4'>哒啊啊ー！！</span>
+79,,,<span class='scene-font-4'>哒啊啊！！</span>
 80,,,<span class='scene-font-katari'>抓住皮萨德退缩的这一瞬的空隙，</span><br><span class='scene-font-katari'>光之美少女们向皮萨德的胸口</span><br><span class='scene-font-katari'>使出了一记强烈的踢击</span>
 81,,,啊嘎！
 87,,,<span class='scene-font-4'>哈啊啊！</span>
@@ -58,3 +58,4 @@ id,en,jp,trans
 117,,,那就向我证明看看啊！<br>那个所谓的回忆能展现出的力量！
 118,,,<span class='scene-font-4'>正合我意！</span>
 info,,1,scene_evt181014_cp4_q4_s20
+,,,

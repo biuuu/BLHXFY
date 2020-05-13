@@ -1,5 +1,5 @@
 id,name,text,trans
-0-chapter_name,,#4.5 合同ライブ！ そして……,#4.5 合同live! 然后……
+0-chapter_name,,#4.5 合同ライブ！ そして……,#45 合同live! 然后……
 0-synopsis,,魔物を全て退けた姬塔達。穂乃果達のライブも大成功に終わったが、ライブを終えた瞬間、穂乃果達はアキバのような街で目を覚ます。元の世界に戻って来たのかと考えた穂乃果達だったが、街には誰もおらず明らかに様子がおかしい。そこに姬塔達とアイナも合流し、一行は突如として現れた謎の街に困惑するのだった。,姬塔等人将魔物全部击退，穗乃果她们的live也大功告成。但是就在live结束的瞬间，穗乃果她们在秋叶原一样的城镇醒来。穗乃果她们本以为是回到了原来的世界，但街上一个人也没有，明显很可疑。在那里她们与姬塔等人还有爱娜汇合。一行人因为这突然出现的谜之城镇而困惑不已。
 11,メドゥーサ/美杜莎,いくわよアテナ！<br>ちゃんとついてきなさい！,要上了雅典娜！<br>好好跟上！
 13,アテナ/雅典娜,ええ！,好！
@@ -70,5 +70,5 @@ id,name,text,trans
 136,穂乃果,そんなぁ……,怎么会……
 137,,<span class='scene-font-katari'>危険に溢れた世界から</span><br><span class='scene-font-katari'>日常への帰還とは相成らず、</span><br><span class='scene-font-katari'>穂乃果達は肩を落とす。</span>,<span class='scene-font-katari'>得知自己仍然没能从满是</span><br><span class='scene-font-katari'>危险的世界回归到日常生活中，</span><br><span class='scene-font-katari'>穗乃果她们的心中充满了失望。</span>
 138,,<span class='scene-font-katari'>突如として現れた謎の街に</span><br><span class='scene-font-katari'>姬塔達も</span><br><span class='scene-font-katari'>困惑を隠せないのであった。</span>,<span class='scene-font-katari'>面对这突然出现的谜之城镇，</span><br><span class='scene-font-katari'>姬塔等人也困惑不已。</span>
-139,,<span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　　　　　　──To Be Continued...</span>,<span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　　　　　　──To Be Continued...</span>
+139,,<span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　　　　　　──To Be Continued...</span>,<span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　　　　　　──To Be Continued…</span>
 info,,,scene_evt190812_cp0_q2_s10

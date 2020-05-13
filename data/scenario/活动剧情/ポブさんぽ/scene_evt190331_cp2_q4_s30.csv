@@ -1,4 +1,4 @@
-﻿id,name,text,trans
+id,name,text,trans
 0-chapter_name,,第2話 ツッパり～の,暴走时间
 0-synopsis,,ローアイン達とツバサ達は力を合わせて組長を倒し、ラスティナを救う。これをきっかけに両校は和解するのだった……という熱い妄想を終えて現実に戻った時、本物のツバサから声をかけられて驚くローアイン達。礼儀正しいツバサ達の姿勢にエルセムとトモイは感動し、ツバサ達に対する印象がガラリと変わるのだった。,罗艾因和翼齐心协力打倒组长，拯救了拉丝缇娜。 以此为契机，两所学校和解了…… 等结束妄想，回到现实中时，真正的翼向他们搭话。 他们彬彬有礼的举止让艾尔塞姆和托莫伊印象深刻，他们对他的印象完全改变了。
 1,組長,ヌフゥ…………,唔……
@@ -14,7 +14,7 @@
 13,ラスティナ,姐御！　テレーズ！,大姐头！ 特蕾丝！
 15,エジェリー,んんん！　んんん！？<br><span class='scene-font-kokoro'>（ラスティナちゃん！　大丈夫！？）</span>,嗯嗯嗯！ 嗯嗯嗯！ <span class='scene-font-kokoro'>（拉丝缇娜，你还好吗？）</span>
 16,ラスティナ,姐御～！<br>迷惑かけてすみませ～ん！,大姐头！ 对不起给你添麻烦了！
-17,エジェリー,んんん……んんぅんーん。<br><span class='scene-font-kokoro'>（迷惑なんてそんな……</span><br><span class='scene-font-kokoro'>無事でよかったです）</span>,嗯嗯嗯…… 嗯嗯嗯ー嗯。 <span class='scene-font-kokoro'>(怎么会有麻烦…… 平安无事真是太好了)</span>
+17,エジェリー,んんん……んんぅんーん。<br><span class='scene-font-kokoro'>（迷惑なんてそんな……</span><br><span class='scene-font-kokoro'>無事でよかったです）</span>,嗯嗯嗯…… 嗯嗯嗯嗯。 <span class='scene-font-kokoro'>(怎么会有麻烦…… 平安无事真是太好了)</span>
 18,ラスティナ,えっ……舎弟失格！？<br>そんなこと言わないでくださいよ～！,哎…… 作为小弟完全失格？请不要这么说 ~  ！
 19,エジェリー,んっんんーん～<br><span class='scene-font-kokoro'>（言ってないんだけどな～）</span>,嗯嗯嗯 ~<span class='scene-font-kokoro'> (我没说啊 ~)</span>
 20,,<span class='scene-font-katari'>泣きつくラスティナの背中を</span><br><span class='scene-font-katari'>エジェリーとテレーズが優しく撫でる。</span><br><span class='scene-font-katari'>ローアイン達はそれを遠目に見ていた。</span>,<span class='scene-font-katari'>艾洁丽和特蕾斯温柔地抚摸着哭泣的拉丝缇娜的背。 罗艾因和其他人远远地看着。</span>
@@ -61,3 +61,4 @@
 66,,<span class='scene-font-katari'>敬遠していたツバサ達とも打ち解け、</span><br><span class='scene-font-katari'>エルセムとトモイは</span><br><span class='scene-font-katari'>まんざらでもない様子。</span>,<span class='scene-font-katari'>艾尔塞姆和托莫伊与翼他们之间的关系深厚了起来。</span>
 67,,<span class='scene-font-katari'>そしてようやくランチを食べ終え、</span><br><span class='scene-font-katari'>４人は店を出ることになった。</span><br><span class='scene-font-katari'>休暇はまだ始まったばかりだ。</span>,<span class='scene-font-katari'>最后，他们吃完了午饭，四个人离开了饭店，而假期才刚刚开始。</span>
 info,,,scene_evt190331_cp2_q4_s30
+,,,

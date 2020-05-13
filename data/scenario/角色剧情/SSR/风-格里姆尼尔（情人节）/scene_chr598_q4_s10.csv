@@ -9,7 +9,7 @@ id,name,text,trans
 23,グリームニル,え、どうだ？<br>似合ってるか？,诶，怎么样？<br>我穿着合适吗？
 23-sel1_txt,,<span class='scene-font-katari'>似合ってるよ！</span>,<span class='scene-font-katari'>很合适哟！</span>
 23-sel2_txt,,<span class='scene-font-katari'>似合ってない……</span>,<span class='scene-font-katari'>不合适……</span>
-25,グリームニル,<span class='scene-font-4'>うぇぇぇっ！　ほ、本当か！</span><br>やったぜー！,<span class='scene-font-4'>唔诶诶诶！　真，真的吗？</span><br>太好了ー！
+25,グリームニル,<span class='scene-font-4'>うぇぇぇっ！　ほ、本当か！</span><br>やったぜー！,<span class='scene-font-4'>唔诶诶诶！　真，真的吗？</span><br>太好了！
 27,グリームニル,ちょ、え？　嘘だろ？<br><span class='scene-font-4'>似合ってないだとぉぉぉっ！</span>,等等，诶？骗人的吧？<br><span class='scene-font-4'>你说不合适————！</span>
 28,,<span class='scene-font-katari'>狼狽するグリームニルを見かねて</span><br><span class='scene-font-katari'>冗談だと訂正する姬塔。</span>,<span class='scene-font-katari'>不忍心看格里姆尼尔一副慌了神的样子，姬塔改口说是开玩笑的。</span>
 29,グリームニル,ほっ……<br>なんだよ冗談かよ～<br>焦らせるなよな～！,呼……<br>什么嘛是开玩笑啊~<br>别吓我啊~！
@@ -65,3 +65,4 @@ id,name,text,trans
 87,,<span class='scene-font-katari'>こうして、チョコレートを巡る</span><br><span class='scene-font-katari'>波乱のバレンタインデーは、様々な</span><br><span class='scene-font-katari'>想いが交錯しながら幕を閉じた。</span>,<span class='scene-font-katari'>就这样，围绕着巧克力波澜起伏的情人节，</span><br><span class='scene-font-katari'>在各色心意的交织中，迎来了落幕。</span>
 info,,,scene_chr598_q4_s10
 译者,,,
+,,,

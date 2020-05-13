@@ -1,4 +1,4 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-chapter_name,,第78章　瘴気の歓待,第78章 瘴气之迎
 0-synopsis,,砦の内部に侵入し、兵士達をなぎ倒しながらドランクらの姿を探す姬塔達。一方、砦に囚われていたドランクとイオ達は、物々しい様子から姬塔達が助けに来たことを悟る。牢から脱出し、合流を目指すイオ達。一方、ひとりその場に残ったドランクは、現れた黄金の騎士から仕事の話を持ちかけられるのだった。,侵入到据点内部后，姬塔一行将士兵尽数打倒，然后开始寻找德朗克的声音。另一方面，被囚禁在据点中的德朗克和伊欧等人，察觉到警戒变得森严起来，很快就明白姬塔他们赶来救自己了。从牢狱中逃出后，伊欧等人打算先汇合。而突然出现的黄金骑士向仍留在那里的德朗克提到了某件合作。
 0,,なっ！？　なんだお前ら！？<br>どうやってこの砦に……,什么！？你们是什么人！？怎么进这里来的？
@@ -17,7 +17,7 @@
 24,,<span class='scene-font-katari'>姬塔達の砦への侵入により、</span><br><span class='scene-font-katari'>イスタバイオン軍の兵士達は、</span><br><span class='scene-font-katari'>慌ただしく砦を駆けまわる。</span>,<span class='scene-font-katari'>因为姬塔等人的入侵，据点内伊斯塔拜恩军的士兵都慌忙地行动了起来。</span>
 25,,<span class='scene-font-katari'>そんな中、牢に捕えられたイオ達は、</span><br><span class='scene-font-katari'>ぼんやりとその光景を眺めていた。</span>,<span class='scene-font-katari'>被关在牢中的伊欧等人，呆呆看着眼前这幅场景。</span>
 26,,みんな行っちゃった……<br>いったい何が起きてるの……？,人都走了诶。到底发生什么了？
-27,,んふふ～……<br>来たんだろうね、助けがさ。,嗯哼哼...看来援军赶到了呢。
+27,,んふふ～……<br>来たんだろうね、助けがさ。,嗯哼哼…看来援军赶到了呢。
 28,,姬塔達が……？,姬塔他们吗？
 29,,そ、詳しいことはわかんないけどさ。<br>だって瘴流域の中にある砦だよ？<br>そうそう侵入者なんて来ないでしょ。,是的，虽然不确定具体情况。但是毕竟这里可是瘴流域中的据点哦？不太可能有普通的侵入者吧。
 30,,ははっ！　違ぇねぇ！<br>こんなとこまで来るのも、来れるのも、<br>あいつらくらいなもんだ。,哈哈！没错！能来这种地方，又能从这离开的，只可能是他们了呀。
@@ -26,17 +26,17 @@
 33,,さって……！<br>それじゃ、僕達も行こっか！,好嘞！那么，我们也出发吧。
 34,,ただぼんやり待ってたら、<br>スツルム殿に怒られちゃうからね～,只是呆呆等着，会惹斯特姆阁下生气的呢。
 35,,<span class='scene-font-katari'>そう言いながらドランクは、</span><br><span class='scene-font-katari'>のんびりとした様子で</span><br><span class='scene-font-katari'>牢の扉に近づいていく。</span>,<span class='scene-font-katari'>德朗克一边说着，一边悠哉地靠近了监狱的门。</span>
-36,,え？<br>行くって、でも、鍵が……,诶？说要出发，但是这里的钥匙...
-37,,ふっふーん……<br>鍵なんてものはね～,ふっふーん...钥匙这种东西呢~
+36,,え？<br>行くって、でも、鍵が……,诶？说要出发，但是这里的钥匙…
+37,,ふっふーん……<br>鍵なんてものはね～,ふっふん…钥匙这种东西呢~
 38,,<span class='scene-font-katari'>ドランクはおもむろに、</span><br><span class='scene-font-katari'>牢の扉の鍵を抱え込むようにして、</span><br><span class='scene-font-katari'>何らかの作業を始める。</span>,<span class='scene-font-katari'>德朗克像是身边带了牢门的钥匙一般，在那边慢慢地进行着某种作业。</span>
-39,,こうして……<br>こーやって……,这样...然后这么搞...
+39,,こうして……<br>こーやって……,这样…然后这么搞…
 41,,こう！,最后像这样！
 43,,おおー……,哦——
 44,,<span class='scene-font-katari'>作業を終えたドランクが</span><br><span class='scene-font-katari'>軽く牢の扉を押すと、</span><br><span class='scene-font-katari'>扉は自然と外へ開いていく。</span>,<span class='scene-font-katari'>施工结束后，德朗克轻轻一推，牢门就自动打开了。</span>
 45,,貴方、便利ね……,你还真是方便呢。
 46,,っていうか、こんなこと出来ちゃうなら、<br>あたし達が助けに来る必要<br>なかったんじゃないの……？,话说，能做到这件事的话，我们根本没必要过来救你吧。
 47,,いや、捕まって困ってたのは、<br>ホントだよ～？,不，被抓之后确实很困扰哦~？
-48,,僕ひとりじゃ、<br>砦の外には出られても、<br>瘴流域からは……,我一个人的话，就算从据点里出去了，外面的瘴流域也...
+48,,僕ひとりじゃ、<br>砦の外には出られても、<br>瘴流域からは……,我一个人的话，就算从据点里出去了，外面的瘴流域也…
 49,,…………,…………
 50,,……どうしたの？,怎么了？
 51,,ん？<br>んふふ～……ナイショ。,嗯？呵呵……秘密。
@@ -44,7 +44,7 @@
 53,,さ、それより、<br>スツルム殿達と合流しなくちゃね！<br>ほら、急いで急いで！,撒，比起这个，赶紧去和斯特姆殿下她们汇合吧！好了，快点快点！
 54,,う、うん……！,嗯，嗯！
 55,,<span class='scene-font-katari'>ドランクはイオ達を追い立てると、</span><br><span class='scene-font-katari'>しかし、自分はその後を追うことなく、</span><br><span class='scene-font-katari'>ゆっくりと牢の前に出る。</span>,<span class='scene-font-katari'>德朗克催促着伊欧她们离开，但是自己却，没有从后面追上去，慢慢地走出牢房。</span>
-56,,さて……,接下来...
+56,,さて……,接下来…
 57,,<span class='scene-font-katari'>大きく伸びをし、</span><br><span class='scene-font-katari'>ドランクはイオ達が消えたのとは、</span><br><span class='scene-font-katari'>反対方向の通路に向き直る。</span>,<span class='scene-font-katari'>德朗克大大地伸了个懒腰，然后朝着与伊欧她们离开的相反方向去了。</span>
 58,,止めないでくれたのは、<br>騎士サマなりの優しさかな……？,没有阻止我们是因为骑士大人的仁慈吗？
 59,,<span class='scene-font-katari'>ドランクは通路の虚空へと声を投げる。</span>,<span class='scene-font-katari'>德朗克对着空无一人的通道说话。</span>
@@ -58,3 +58,4 @@
 67,,<span class='scene-font-katari'>黄金の騎士アリアは、</span><br><span class='scene-font-katari'>ドランクに対し不敵な笑みを浮かべる。</span>,<span class='scene-font-katari'>黄金骑士亚里亚对德朗克露出了无畏的笑容。</span>
 68,,<span class='scene-font-katari'>そしてドランクもまた、</span><br><span class='scene-font-katari'>彼女の話に興味を抱いたように</span><br><span class='scene-font-katari'>口角を上げるのだった。</span>,<span class='scene-font-katari'>德朗克对她的话也颇感兴趣，嘴角上扬了起来。</span>
 info,,1,scene_cp78_q3_s10
+,,,

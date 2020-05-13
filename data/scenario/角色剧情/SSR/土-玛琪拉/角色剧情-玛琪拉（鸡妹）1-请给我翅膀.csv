@@ -51,7 +51,7 @@ id,en,jp,trans
 76,"Oh, okay...<br>Hey, wait a sec!",あぁ、なるほどな……,哦，是这样啊。
 77,<span class='scene-font-italic'>You're</span> the <span class='scene-font-italic'>queen</span>?,って、お前が主かよ！？,鸟神宫之主就是你啊！？
 78,"Uh, yeah. I'm Mahira. Pleasure to greet you.",そですよ？<br>マキラです、どぞよしなに。,没错哦？我叫玛琪拉，请随意。
-79,"Greet? Umm, the pleasure's all ours!",よしな……？<br>えっとこちらこそ、どぞよしなです！,随意....？那个，这边也是，请随意！
+79,"Greet? Umm, the pleasure's all ours!",よしな……？<br>えっとこちらこそ、どぞよしなです！,随意…？那个，这边也是，请随意！
 80,"So what's the deal with that machine? There's been trouble up at the temple, ya know.",で、なんで機械なんか弄ってるんだ？<br>鳥神宮が大変なことになってるのによ。,那么，你为什么在这里摆弄机器？鸟神宫那里都有大麻烦了。
 81,Trouble?,大変……？,大麻烦……？
 82,"Since you haven't been around, the visitors have been getting really backed up.",マキラさんがいないので、<br>参拝客の人達が大混雑してて……,因为玛琪拉小姐你不在，所以参拜者们一片混乱……
@@ -107,7 +107,7 @@ id,en,jp,trans
 148,But maybe I could use this ship as a reference...,でも……<br>この艇の構造を参考にすれば……,但是……如果参考这艘船的结构……
 149,"You're all trying to go to the island of the Astrals, right?",姬塔君達は、<br><span class='scene-font-spword'>星の島</span>を目指してるんですよね？,姬塔你们的目标是去星之岛，不是吗？
 150,Yeah! But we're goin' to all kinds of other places too!,あぁ！<br>でも団員達も色んな目的を持ってるぜ！,啊！但是团员们也各有各的目标！
-151,"Is that so? Well, then... if I might make another request...",そなんですか？<br>ではでは私も……<br>えと、改めて頼みたいことがあります。,是这样吗？那么那么……我...我想再拜托一些事。
+151,"Is that so? Well, then... if I might make another request...",そなんですか？<br>ではでは私も……<br>えと、改めて頼みたいことがあります。,是这样吗？那么那么……我…我想再拜托一些事。
 152,Could I... disassemble the Grandcypher?,グランサイファー……<br>分解してもいいですか？,格兰赛法……我可以拆了它吗？
 152-sel1_txt,You're very welcome to!,<span class='scene-font-katari'>大歓迎だよ！</span>,我们大欢迎的哦！
 152-sel2_txt,Are you nuts?,<span class='scene-font-katari'>なんだって？</span>,你说什么？
@@ -126,3 +126,4 @@ id,en,jp,trans
 165,"Having overcome her worries about never being able to fly, Mahira takes her dream of building a miniature airship and boards the Grandcypher.",<span class='scene-font-katari'>夢の超小型騎空艇を作り、</span><br><span class='scene-font-katari'>長年のコンプレックスを打破するため、</span><br><span class='scene-font-katari'>一行の旅に加わることになったマキラ。</span>,为了做出梦想中的超小型骑空艇，解决长年以来遇到的难题，玛琪拉加入了一行人的旅行中。
 166,"She joins the crew on their journey forward. Though she might perplex them at times, her passion will surely push them farther than ever into the deep blue sky.",<span class='scene-font-katari'>時に団員達を困惑させつつも、</span><br><span class='scene-font-katari'>その情熱は空に向かって迸るのだった。</span>,虽然她有时候会让团员们感到困扰，但她的那份热情也让她朝着天空进发了。
 info,1,1,scene_fate_chr350_ep1
+,,,

@@ -1,6 +1,6 @@
 id,en,jp,trans
 0-chapter_name,,第3話 みんなの船はみんなの仲間？,第3話 大家的船是大家的伙伴？
-0-synopsis,,,なぎさとほのかは、団員達が他の世界から来た自分達のことを自然に受け入れてくれたことに安心する。ベッドに身を横たえ、ルリア達の話を思い出しながらグランサイファーに改めて挨拶するなぎさ達。一緒にいられる時間は短くとも、せっかく出会えた仲間との時間を大事にしようと、なぎさ達は心に決めるのだった。,渚和穗乃香、对团员们自然地接受了来自异世界的他们的事情感到安心。上床躺下之后，一边回想着露莉亚她们所说的话，渚们再一次向格兰赛法打了声招呼。虽然能在一起的时间很短、还是好好珍惜和难得邂逅的伙伴们在一起的时间吧、渚她们这样下定了决心。
+0-synopsis,,,なぎさとほのかは、団員達が他の世界から来た自分達のことを自然に受け入れてくれたことに安心する。ベッドに身を横たえ、ルリア達の話を思い出しながらグランサイファに改めて挨拶するなぎさ達。一緒にいられる時間は短くとも、せっかく出会えた仲間との時間を大事にしようと、なぎさ達は心に決めるのだった。
 1,,<span class='scene-font-katari'>艇の中を見て回り、</span><br><span class='scene-font-katari'>団員たちに挨拶をしているうちに</span><br><span class='scene-font-katari'>辺りはすっかり暗くなっていた。</span>,<span class='scene-font-katari'>艇の中を見て回り、</span><br><span class='scene-font-katari'>和团员们打着招呼的时候</span><br><span class='scene-font-katari'>天色完全暗了下来。</span>
 2,,<span class='scene-font-katari'>食事を済ませたなぎさとほのかは</span><br><span class='scene-font-katari'>寝床を整えるため、</span><br><span class='scene-font-katari'>艇の空き部屋を訪れた。</span>,<span class='scene-font-katari'>吃完了饭的渚和穗乃香</span><br><span class='scene-font-katari'>为了整理睡觉的地方、</span><br><span class='scene-font-katari'>来到了船上空着的房间。</span>
 3,,晩ご飯、おいしかった～！<br>お腹いっぱい！,晚饭、真是好吃啊～！<br>肚子好饱！
@@ -50,3 +50,4 @@ id,en,jp,trans
 64,,<span class='scene-font-katari'>姬塔たちと</span><br><span class='scene-font-katari'>一緒にいられる時間は</span><br><span class='scene-font-katari'>短いかもしれない。</span>,<span class='scene-font-katari'>虽然和姬塔们</span><br><span class='scene-font-katari'>在一起的时间</span><br><span class='scene-font-katari'>很短暂也说不定。</span>
 65,,<span class='scene-font-katari'>それでも、せっかく出会えた</span><br><span class='scene-font-katari'>仲間との時間を大切にしよう──</span><br><span class='scene-font-katari'>彼女たちはそう強く心に決めた。</span>,<span class='scene-font-katari'>就算这样、和难得邂逅的</span><br><span class='scene-font-katari'>伙伴们在一起的的时间也应该好好珍惜──</span><br><span class='scene-font-katari'>少女们坚定的下了决心。</span>
 info,,1,scene_evt181014_cp3_q3_s10
+,,,

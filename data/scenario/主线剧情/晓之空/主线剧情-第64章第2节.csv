@@ -1,7 +1,7 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-chapter_name,64: Night of Reflection,第64章　逡巡の夜,64：逡巡之夜
 0-synopsis,"The night that 姬塔 and company are treated to a hearty welcome by the villagers, Rosetta walks in on Eugen maintaining his rifle. Rosetta asks him what he will do now that the Erste Empire and Black Knight have been defeated. A downcast Eugen tells of his disillusionment. Rosetta offers Eugen a suggestion, giving him newfound determination.",姬塔一行が村人達から歓待を受けたその日の夜、オイゲンが部屋で銃の手入れをしているとロゼッタが訪ねてくる。エルステ帝国や黒騎士と決着のついたいま、オイゲンが今後どうするのかを尋ねるロゼッタ。それに対しオイゲンは、覇気の無い様子で迷いを語る。そんなオイゲンにロゼッタはわずかな示唆を与え、オイゲンは新たな決意を固めるのだった。,姬塔和同伴受到村民们的热烈欢迎的那天夜里，欧根正在维护着他的步枪，此时萝赛塔走了进来。萝赛塔问他，现在埃尔斯特帝国和黑骑士都被打败，今后他会做些什么。而消沉的欧根则是说出了自己的迷茫。萝赛塔为欧根提供了建议，让他重新坚定了决心。
-0,...,…………,...
+0,...,…………,…
 1,"With a set of tools laid out before him, Eugen looks over his trusty rifle in silence.",<span class='scene-font-katari'>様々な工具を広げ、</span><br><span class='scene-font-katari'>オイゲンは黙々と愛銃の整備を続ける。</span>,<span class='scene-font-katari'>桌上摆放了各种各样的工具，欧根正在静静地整备自己的爱铳。
 2,"His face is stern, as if he's trying to shake off the worries on his mind.",<span class='scene-font-katari'>その表情は険しく、</span><br><span class='scene-font-katari'>まるで己の中の悩みを</span><br><span class='scene-font-katari'>振り払おうとしているかのようだった。</span>,<span class='scene-font-katari'>他的脸很严肃，就好像是在试图摆脱心中的担忧。
 3,A shadow appears behind him.,<span class='scene-font-katari'>そんなオイゲンの背中に</span><br><span class='scene-font-katari'>近づく影があった。</span>,<span class='scene-font-katari'>他身后出现了人影。</span>
@@ -14,9 +14,9 @@
 10,"I wouldn't say I'm lonely, but... well...",寂しい、なんて青臭ぇもんじゃねぇさ。<br>ただ、まぁ……ちぃっとな……,我不会说我很孤单这种不成熟的话，但……还是有点……
 11,"Eugen shifts his eyes hesitantly, and Rosetta poses a question.",<span class='scene-font-katari'>逡巡するようにオイゲンは目線を逸らす。</span><br><span class='scene-font-katari'>そんなオイゲンに、</span><br><span class='scene-font-katari'>ロゼッタは一つの質問を投げかける。</span>,<span class='scene-font-katari'>欧根犹豫地转过视线，萝赛塔提出了一个问题。
 12,Well... What do you plan to do?,ねぇ……<br>貴方は、この先どうするのかしら？,嗯……以后你打算怎么做？
-13,What do you mean? Whether I'll stay on this journey or not?,どうってのは……あれか？<br>旅を続けるかどうか、ってことか？,该怎么做...我是否会继续这个旅程，这之类的事吗？
+13,What do you mean? Whether I'll stay on this journey or not?,どうってのは……あれか？<br>旅を続けるかどうか、ってことか？,该怎么做…我是否会继续这个旅程，这之类的事吗？
 14,"Yes. I'm curious about you, since you no longer have Erste or the Black Knight to worry about.",そうね……興味があるのよ。<br>エルステや黒騎士との決着がついたいま、<br>貴方がどうするのか……,是。我很好奇，已经和黑骑士以及埃尔斯特作出了了断的你，接下来会怎么做。
-15,"Heh heh. That's a pretty impressive trick you did there. Reading my mind, huh?",へへっ……大したもんだなぁ、おい。<br>オレが何を考えてたか、<br>頭の中を読んだみてぇじゃねぇか。,哈哈，真是厉害啊。我在想着什么...你是能读心对吧？
+15,"Heh heh. That's a pretty impressive trick you did there. Reading my mind, huh?",へへっ……大したもんだなぁ、おい。<br>オレが何を考えてたか、<br>頭の中を読んだみてぇじゃねぇか。,哈哈，真是厉害啊。我在想着什么…你是能读心对吧？
 16,You know I can't do that. But it's not hard to figure out.,アタシにそんな能力は無いわ。<br>けれど……考えればわかることよ。,你知道我没有那种能力吧。但仔细思考的话，这是可以猜到的事哦。
 17,Well... I began this journey after I met 姬塔.,そうさなぁ……<br>姬塔達と出会って、<br>また旅を始めてよ……,嗯……与姬塔他们相遇之后，我开始了这段旅程。
 18,And I thought that I needed to settle things with Apollo... as a father.,オレぁ、アポロのことについて、<br>親として決着をつけなきゃいけねぇ、<br>ってな……そう思ってたわけだ。,而且我认为我需要与阿波罗做出了结……作为一个父亲而言。
@@ -34,7 +34,7 @@
 30,"But what about you, Rosetta? What'll you do?",ロゼッタ……<br>お前さんは、どうするつもりなんだ？,但是你呢，萝赛塔？你接下来怎么办？
 31,Are you going off with 姬塔 to the island of the Astrals?,お前さんは姬塔と一緒に、<br>星の島を目指すのか？,你打算和姬塔一起去星之岛吗？
 32,Yes... I want to see them through to the end.,あたしは……そうね……<br>あの子達の行く末を、<br>最後まで見守るつもりよ。,我吗？是呢……我希望守望着孩子们一直到最后。
-33,"The captain is that man's child. And he left a message for him to come and find him, after all.",あの子は彼の子供だもの……<br>彼からの言付けもあるし……,姬塔是那个男人的孩子...毕竟他留下了这样的嘱托。
+33,"The captain is that man's child. And he left a message for him to come and find him, after all.",あの子は彼の子供だもの……<br>彼からの言付けもあるし……,姬塔是那个男人的孩子…毕竟他留下了这样的嘱托。
 34,"I've grown so curious about them. Even if they're tossed around, they keep challenging the world.",あの子達自身にも興味が湧いたの。<br>翻弄されながらも、<br>世界と渡り合っていくあの子達にね。,现在我自己对他们也有很大的兴趣呢。即使他们被命运愚弄，但他们仍然在挑战世界。
 35,Rosetta stares off into the distance as she thinks about the young man from her past.,<span class='scene-font-katari'>遠くを見やるようにした</span><br><span class='scene-font-katari'>ロゼッタの瞳には、</span><br><span class='scene-font-katari'>在りし少年の影が映る。</span>,<span class='scene-font-katari'>萝赛塔此时的眼中，映着过去某位少年的身影。</span>
 36,"Regardless of the goal, if we're headed for Estalucia, a harsh journey awaits.",それに、星の島を目指す以上、<br>これからきっと、<br>旅はさらに過酷になっていくわ。,而且既然是目标为前往星之岛，接下来的旅途只会更加地艰辛。
@@ -58,3 +58,4 @@
 54,Eugen reflects on the path he has walked thus far.,<span class='scene-font-katari'>オイゲンは</span><br><span class='scene-font-katari'>自らの歩んできた旅路を回想する。</span>,<span class='scene-font-katari'>欧根回想了他迄今走过的道路。
 55,"And in a flash, new hope and determination flicker in his eyes.",<span class='scene-font-katari'>そうしてその瞳には、</span><br><span class='scene-font-katari'>新たな決意と希望の光が</span><br><span class='scene-font-katari'>灯りつつあるのだった。</span>,<span class='scene-font-katari'>那一瞬间，他的眼中闪烁着新的希望和决心。</span>
 info,1,1,scene_cp64_q2_s10
+,,,

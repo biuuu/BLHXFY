@@ -431,14 +431,6 @@ body .cnt-order-box .cnt-btn-bottombox .btn-evolution:not(.disapprove)::after {
   content: "道具";
   font-size: 14px;
 }
-#tab-legend::after {
-  content: "传说";
-  font-size: 14px;
-}
-#tab-lupi::after {
-  content: "券/其他";
-  font-size: 14px;
-}
 .btn-character[data-location-href^="gacha"] .prt-character-small::after {
   content: "角色详情";
   font-size: 10px;

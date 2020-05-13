@@ -12,10 +12,10 @@ id,name,text,trans
 15,,<span class='scene-font-katari'>すると、虫と魔導人形は</span><br><span class='scene-font-katari'>一行を通り越し、凄まじい勢いで</span><br><span class='scene-font-katari'>奥へと進んでいった。</span>,然后机械虫和魔导人偶就全部无视众人冲往下方。
 16,イルザ/伊尔莎,なんだ？<br>何が起きてる？,怎么了？出什么事了？
 17,バザラガ/巴萨拉卡,さあな。<br>ろくでもない事だけは確かだ。,谁知道，肯定不是什么好事。
-18,ユーステス/尤斯缇斯,……急ぐぞ。,...快点走吧。
+18,ユーステス/尤斯缇斯,……急ぐぞ。,…快点走吧。
 24,,<span class='scene-font-katari'>一行がしばらく進むと、</span><br><span class='scene-font-katari'>再び広い空間へと出た。</span>,一行人继续前往下方，不久后来到了一个宽敞的空间里。
 25,,<span class='scene-font-katari'>鉄と黴が混ざったような、</span><br><span class='scene-font-katari'>不快なにおいが漂う薄暗い部屋を</span><br><span class='scene-font-katari'>一行は目を凝らしてみる。</span>,昏暗的房间里充斥着铁粉的味道，一行人警惕地张望着。
-26,アランドゥーズ？/阿兰多斯？,…………,…….
+26,アランドゥーズ？/阿兰多斯？,…………,……
 27,,<span class='scene-font-katari'>すると、金属の台に</span><br><span class='scene-font-katari'>横たわるアランドゥーズの</span><br><span class='scene-font-katari'>姿を一行は見つける。</span>,然后众人就看到了躺在金属台上的阿兰多斯。
 28,ベアトリクス/贝阿朵丽丝,見つけたぞ！！<br>アランドゥーズ！！,找到你了！阿兰多斯！！
 29,ベアトリクス/贝阿朵丽丝,さぁ、エムブラスクを返──,快把亚伯拉斯克还给我——
@@ -29,19 +29,19 @@ id,name,text,trans
 37,ベアトリクス/贝阿朵丽丝,ま、まさか……！,难、难道………！
 38,,<span class='scene-font-katari'>目の前に居る</span><br><span class='scene-font-katari'>アランドゥーズの頭部は開き、</span><br><span class='scene-font-katari'>中身が抜けていたのだ。</span>,眼前的阿拉多斯头盖骨已经打开，而大脑却不见了踪影。
 39,イルザ/伊尔莎,己を機神の材料にしたのか！？<br>アランドゥーズ！！,难道用自己作为机神的材料了吗，阿兰多斯！！
-40,,<span class='scene-font-katari'>一行が戦慄する中、</span><br><span class='scene-font-katari'>機械が潰れる音が響く。</span>,众人不寒而栗，而此时却传出了碾碎金属的声响.
+40,,<span class='scene-font-katari'>一行が戦慄する中、</span><br><span class='scene-font-katari'>機械が潰れる音が響く。</span>,众人不寒而栗，而此时却传出了碾碎金属的声响
 41,,<span class='scene-font-katari'>音のなる方を見ると、</span><br><span class='scene-font-katari'>そこには虫や魔導人形を</span><br><span class='scene-font-katari'>捕食するセスラカの姿があった。</span>,众人在声响发出的地方看到了正在捕食虫子和魔导人偶的机神赛斯拉卡。
-43,セスラカ,…………,……..
+43,セスラカ,…………,………
 44,ゼタ/泽塔,せ、セスラカ！？<br>なんでここにも！？,赛、赛斯拉卡！？为什么这里也有！？
-45,バザラガ/巴萨拉卡,いや、あれはおそらく……,不，那个恐怕是....
-47,セスラカ？/赛斯拉卡？,身体の再生は完了した……<br>ノインも取り込んだ……,身体再生结束....诺因捕食结束....
+45,バザラガ/巴萨拉卡,いや、あれはおそらく……,不，那个恐怕是…
+47,セスラカ？/赛斯拉卡？,身体の再生は完了した……<br>ノインも取り込んだ……,身体再生结束…诺因捕食结束…
 48,セスラカ？/赛斯拉卡？,あとは、<br>「封印武器」を取り込むだけだ。,剩下的只有捕食封印武器了。
 49,ベアトリクス/贝阿朵丽丝,そ、その声！？<br>アランドゥーズなのか！？,那个声音、是阿兰多斯吗！？
-50,カシウス/卡西乌斯,機神と人間が一体化したのか。<br>いや、乗っ取った……？,和机神融合....不，取得机神控制权了...？
+50,カシウス/卡西乌斯,機神と人間が一体化したのか。<br>いや、乗っ取った……？,和机神融合…不，取得机神控制权了…？
 51,カシウス/卡西乌斯,興味深い。,挺有意思。
 52,ユーステス/尤斯缇斯,言ってる場合か。,是说这种话的时候吗。
 53,,<span class='scene-font-katari'>ユーステスは即座に銃を構え、</span><br><span class='scene-font-katari'>セスラカと化したアランドゥーズに</span><br><span class='scene-font-katari'>銃弾を撃ち込んだ。</span>,尤斯缇斯立即架起了枪向化为赛斯拉卡的阿兰多斯开火。
-54,セスラカ？,…………,……....
+54,セスラカ？,…………,………
 55,,<span class='scene-font-katari'>数発当たるものの、</span><br><span class='scene-font-katari'>アランドゥーズはひるまずに、</span><br><span class='scene-font-katari'>動き出す。</span>,虽然被子弹命中，但阿兰多斯毫无退意开始了行动。
 56,,<span class='scene-font-katari'>アランドゥーズの向かう先には、</span><br><span class='scene-font-katari'>「封印武器」が丁重に保管された、</span><br><span class='scene-font-katari'>硝子製のケースがあった。</span>,他的目标是被精心保管在玻璃箱中的封印武器。
 57,ベアトリクス/贝阿朵丽丝,エ、エムブラスク！！,艾、艾伯拉斯克！！

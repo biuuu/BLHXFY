@@ -1,4 +1,4 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-chapter_name,69: What Was Found,第69章　ここにあるもの,69：存于此处之物
 0-synopsis,"姬塔 and company fight off approaching monsters as they guide the stranded to safety on the Grandcypher. Suddenly, Lyria senses the primal beast Kikuri nearby.",崩落のおそれのある岩塊から人々をグランサイファーに避難させる姬塔一行。力を合わせ魔物を撃退しながら人々を誘導していると、ルリアは意を決した様子で、星晶獣キクリの居場所を見つけたと口にする。,姬塔等人将正在坠落的岩石上的住民转移到格兰赛法号上，众人合力击退魔物之后，正在引导人们上船时，露莉亚以肯定的口吻说出，星晶兽菊理所在的地方已经找到了。</span>
 0,"After slipping through the rock clusters, the crew shouts to the stranded people and guides them toward the Grandcypher.",<span class='scene-font-katari'>小岩塊群を潜り抜けた一行は、</span><br><span class='scene-font-katari'>声を張り上げ、</span><br><span class='scene-font-katari'>人々をグランサイファーへと誘導する。</span>,<span class='scene-font-katari'>成功突入小岩石群之后，众人大声呼喊，让当地人们搭乘上格兰赛法号避难。</span>
@@ -10,15 +10,15 @@
 6,"Hey! This is a pretty large ship, but can we all fit?",あの……！<br>これ、中型艇みたいですけど、<br>全員乗り切れるんですか……？,那个，这是中型艇吧？真能容纳所有人吗？
 7,Don't worry. A Crew of Enforcers ship will be arriving so there's no need to panic.,安心してください。<br>追って秩序の騎空団の艇も来ます。<br>心配する必要はありません。,请放心，接下来秩序骑空团的舰艇也要过来，所以不必担心。
 8,"As the crew leads the people aboard, a rustling comes from the nearby bushes. Suddenly, a shadowy figure springs out.",<span class='scene-font-katari'>一行が人々を誘導していると、</span><br><span class='scene-font-katari'>不意に茂みが揺れ、</span><br><span class='scene-font-katari'>一つの影が躍り出る。</span>,<span class='scene-font-katari'>正当众人引导当地岛民登船时，附近的灌木丛微微摇动，一个影子从中出现。
-9,Grrr...,グルルルル……,咕噜噜噜噜...
+9,Grrr...,グルルルル……,咕噜噜噜噜…
 10,"This doesn't look good. If it comes after the people while they're boarding, they'll be injured.",マズイな……<br>避難誘導中に魔物に襲われては、<br>かなりの被害が出る……,麻烦了，正在引导避难的时候被魔物袭击的话，恐怕会造成不小的伤害。
-11,"姬塔, before those monsters can get close, let's guard the—",姬塔。<br>ここは手分けして周囲の警戒に当たろう。<br>魔物が近づく前にそれぞれで……,姬塔，我们在这分头负责周边的警戒，魔物靠近时就各自将它们...
+11,"姬塔, before those monsters can get close, let's guard the—",姬塔。<br>ここは手分けして周囲の警戒に当たろう。<br>魔物が近づく前にそれぞれで……,姬塔，我们在这分头负责周边的警戒，魔物靠近时就各自将它们…
 12,Katalina! Watch out!,カタリナっ！　危ないっ！！,卡塔莉娜！危险！
 13,!,っ！？,っ！？
 15,Groar!,グオオォォッ！！,咕哦哦！
 16,A nimble monster tries to sink its claws into Katalina's armor.,<span class='scene-font-katari'>わずかに速い魔物の爪が、</span><br><span class='scene-font-katari'>カタリナの鎧を引き裂かんとした</span><br><span class='scene-font-katari'>その時だった。</span>,<span class='scene-font-katari'>就在魔物的爪差一点就要撕裂卡塔莉娜的铠甲之时。
-18,Haaa!,はあぁぁぁっ！！,哈...！
-20,Groar...,グオ……,咕哦...
+18,Haaa!,はあぁぁぁっ！！,哈…！
+20,Groar...,グオ……,咕哦…
 22,"Let's move in pairs. Vyrn, can you help the others with the boarding?",この場は二人一組で動きましょう。<br>ビィくん、避難する人達の<br>誘導をお願い出来ますか？,在此就2人一组行动吧，碧君可以继续引导人们避难吗？
 23,"I'm on it! Besides, I'm easy to spot in the air!",任せとけってんだ！<br>それに、飛んでるから<br>オイラのほうが目立つしな！,交给我吧！而且因为可以飞起来，我更引人注目一些。
 24,"Vyrn proudly sticks out his chest as he flies overhead, guiding the others to escape.",<span class='scene-font-katari'>ビィはリーシャの頼みに</span><br><span class='scene-font-katari'>誇らしげに胸を張り、</span><br><span class='scene-font-katari'>逃げ惑う人々を頭上から誘導する。</span>,<span class='scene-font-katari'>碧骄傲地接受了莉夏的请求，在正在逃难的人群上方指挥避难。
@@ -26,13 +26,14 @@
 26,It's no problem. But you can make up for it by covering my back.,構いません。<br>その代わりに、<br>私の背中、お願いしますね。,没关系，作为代替，我的背后就交给你了。
 27,Hah! Very well! It's strange though. It feels like this isn't the first time I've watched your back.,ふっ……心得た！<br>何故だろうな……君に背中を預けるのは、<br>これが初めてではないように思うよ。,呼，了解！不知为什么，站在你身后似乎不是头一回经历了。
 28,I thought so too!,私もです！,我也是！
-32,It's back...,あ、また……,啊，又来了...
-33,(It feels just like last time. Could it be Kikuri?),<span class='scene-font-kokoro'>（あの時も、そしていまも……</span><br><span class='scene-font-kokoro'>もしかして、星晶獣キクリは……！）</span>,<span class='scene-font-kokoro'>（那个时候也是，现在也是。难道说星晶兽菊理它是...！）
-34,Um... Excuse me!,あ、あのっ……！,那...那个！
+32,It's back...,あ、また……,啊，又来了…
+33,(It feels just like last time. Could it be Kikuri?),<span class='scene-font-kokoro'>（あの時も、そしていまも……</span><br><span class='scene-font-kokoro'>もしかして、星晶獣キクリは……！）</span>,<span class='scene-font-kokoro'>（那个时候也是，现在也是。难道说星晶兽菊理它是…！）
+34,Um... Excuse me!,あ、あのっ……！,那…那个！
 35,Lyria looks determined as she musters her confidence.,<span class='scene-font-katari'>ルリアは意を決した様子で、</span><br><span class='scene-font-katari'>どこか得意げに黄金の騎士アリアに</span><br><span class='scene-font-katari'>声をかける。</span>,<span class='scene-font-katari'>露莉亚下定决心，自信地向黄金骑士亚里亚说道。
 36,What's wrong?,どうしました？,怎么了？
 37,I think I might've found Kikuri.,私……<br>星晶獣キクリを、<br>見つけたかもしれません。,我想我可能找到菊理了。
-38,Really? The primal beast Kikuri which we can't even find a trace of?,ほう……<br>姿はおろか、気配すらほとんど掴めない、<br>あの星晶獣をですか？,喔...看不见身姿，而且也难以捕捉到气息的那只星晶兽吗？
+38,Really? The primal beast Kikuri which we can't even find a trace of?,ほう……<br>姿はおろか、気配すらほとんど掴めない、<br>あの星晶獣をですか？,喔…看不见身姿，而且也难以捕捉到气息的那只星晶兽吗？
 39,Yes! I'm sure of it. Kikuri is here!,はい……っ！<br>きっと……だからキクリは、<br>ここに居るんです！,是的！我敢肯定， 菊理就在这里！
 41,"Well then, let's hurry and deal with these monsters so we can finish this chat, shall we?",では、その答えを聞くためにも、<br>早々に魔物を片づけてしまいましょうか。,那么，为了能尽快听到你的答案，还是先早早收拾掉这些魔物吧。
 info,1,1,scene_cp69_q3_s10
+,,,

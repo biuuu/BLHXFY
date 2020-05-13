@@ -1,7 +1,7 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-chapter_name,74: What Lurks in the Snow,第74章　雪原に潜むもの,第74章：潜伏于雪原之物
 0-synopsis,The crew decides to meet at the mountain peak in case they get separated. A monster soon appears in their path to the top.,極寒の地、白風の境に到着した一行。ドランクの珠が放つ光は、吹雪の先、雪に覆われた山の一角を指し示していた。互いにはぐれぬよう、万一の時の集合場所を定めて歩き出す姬塔達。すると行く手に魔物が立ちはだかる。それは他の島でもよく目にした魔物だったが、しかし、異様なまでに巨大な姿をしていた。,抵达了极寒之地白风之境的姬塔一行人，看到德朗克宝珠的光芒指向了暴雪之中，白雪覆盖的山脉的一角。为了不走散，姬塔等人先找到了一处如有万一的集合地点。这时眼前出现了魔物，也是其他岛都见过很多的魔物，但是却变得异常巨大。
-1,So this is Silverwind Stretch...,これが……<span class='scene-font-place'>白風の境</span>、か。,这就是...<span class='scene-font-place'>白风之境</span>吗。
+1,So this is Silverwind Stretch...,これが……<span class='scene-font-place'>白風の境</span>、か。,这就是…<span class='scene-font-place'>白风之境</span>吗。
 2,"Hey, don'cha think it's kinda cold? Like freezing!",ね、ねぇ、ちょっと！<br>寒いんだけど！　すごく！,呐，等等！这里好冷啊！非常冷！
 3,I guess this is why they call it the harshest land in Phantagrande.,ちっ……ファータ・グランデで、<br>最も過酷ってなぁ、こういうことか……,ちっ……说是法塔空域环境最严酷的地方，就是这么一回事啊。
 4,"Can't get much explorin' done in a place as snowy as this, eh?",なるほどな。こんな吹雪いてる<br>土地じゃあ、そりゃ調査も<br>ロクに進むわけがねぇよなぁ、おい。,原来如此，在这片暴雪肆虐的土地上怎么可能顺利地进行调查。
@@ -28,12 +28,12 @@
 25,Good. Now we just follow this light.,よし……<br>それじゃあ、この光に従って……,好的，那就顺着这个光的方向。
 27,!,っ！？,っ！？
 28,W-what is it!,な、なんだ！？,什么！？
-29,Hey! Something's coming this way!,ねぇ、何か近づいてくるわよ！,ねぇ...有什么靠近过来了哦！
+29,Hey! Something's coming this way!,ねぇ、何か近づいてくるわよ！,ねぇ…有什么靠近过来了哦！
 30,Io points ahead at a shadow speeding its way toward the crew.,<span class='scene-font-katari'>イオの指さす先には、</span><br><span class='scene-font-katari'>高速で一行に近づく影があった。</span>,<span class='scene-font-katari'>伊欧所指的方向上有高速接近的黑影。</span>
 31,Is that a monster?,あれは……魔物か？,那是……魔物吗？
 32,"Katalina stares at the monster which, at first, appears to be a creature commonly found throughout Phantagrande.",<span class='scene-font-katari'>カタリナが睨んだ先に居たのは、</span><br><span class='scene-font-katari'>ファータ・グランデ空域の、</span><br><span class='scene-font-katari'>どこででも見かけるような魔物だった。</span>,<span class='scene-font-katari'>卡塔莉娜看着的那个地方，有着何处都能见到的魔物。</span>
 33,"However, she soon notices something strange about it and grips her sword.",<span class='scene-font-katari'>しかし、</span><br><span class='scene-font-katari'>剣を構えようとしたカタリナは、</span><br><span class='scene-font-katari'>ある異変に気付く。</span>,<span class='scene-font-katari'>但是，准备好剑的卡塔莉娜注意到了某个异样。</span>
-34,"Huh? W-wait, is that what I think it is?",む……？<br>ま、待て……いや、まさか！？,嗯？等，等等...不，难道说？
+34,"Huh? W-wait, is that what I think it is?",む……？<br>ま、待て……いや、まさか！？,嗯？等，等等…不，难道说？
 35,Groarrr!,<span class='scene-font-5'>グオォォッ！！</span>,咕哦噢噢噢噢！
 36,Were these monsters always this big?,こ、この魔物って……<br>こんなにおっきかったっけ……？,这个魔物有这么大的吗？
 37,"Not all of them are the same, you know. There are big ones, little ones, and some in between.",魔物にも個体差はあるわ。<br>大きな子も小さな子も、<br>それぞれね。,魔物也有个体差别的，大的小的，各种各样。
@@ -43,3 +43,4 @@
 41,"Who cares? Whatever monster stands in our way, we'll still take it down.",関係ない……<br>どんな魔物だろうと、<br>邪魔なら排除する。,没关系，无论是怎样的魔物，要妨碍我的话就排除掉。
 43,"Let's move, 姬塔. Don't be scared of this big bully!",いくぞ、姬塔……<br>こんなやつ、ただデカいだけだ。<br>大きさに気圧されるなよ……！,上吧，姬塔！这样的家伙徒有大小而已，可别被体型吓倒了哦！
 info,1,1,scene_cp74_q4_s10
+,,,

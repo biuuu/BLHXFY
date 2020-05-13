@@ -1,4 +1,4 @@
-﻿id,name,text,trans
+id,name,text,trans
 0-chapter_name,,第2話 異変,第2话 异变
 0-synopsis,,廃村を発見したジークフリート達。村に覚えがある様子のジークフリートは、アーサーとモルドレッドを待機させ、単身で廃屋へと入っていく。廃屋内の地下へと続く隠された扉の先には謎の研究室が広がっていた。驚くジークフリートの前に、突如グンターが現れる。グンターはアーサーとモルドレッドを人質にとり、動けばふたりを殺すとジークフリートを脅迫するのだった。,齐格飞他们发现了废村。齐格飞看起来对村子有印象，于是他让亚瑟和莫德雷德待机，一个人进入了废屋。齐格飞向废屋的地下探索，隐藏的门内出现了迷之实验室。在惊讶的齐格飞面前，古达突然现身。古达把亚瑟和莫德雷德作为人质，并威胁齐格飞敢动的话就杀了他们。
 1,,<span class='scene-font-katari'>ジークフリート達が進んだ先には、</span><br><span class='scene-font-katari'>廃村が広がっていた。</span>,<span class='scene-font-katari'>在齐格飞前进的路上，</span><br><span class='scene-font-katari'>出现了一个废弃的村庄。</span>
@@ -7,7 +7,7 @@
 4,ジークフリート/齐格飞,ここは……,这里是……
 5,,<span class='scene-font-katari'>そのままジークフリートは、</span><br><span class='scene-font-katari'>アーサーとモルドレッドを置いて</span><br><span class='scene-font-katari'>どこかへ歩き出してしまう。</span>,<span class='scene-font-katari'>这时齐格飞，</span><br><span class='scene-font-katari'>突然丢下亚瑟和莫德雷德，</span><br><span class='scene-font-katari'>向某处迈出了脚步。</span>
 6,モルドレッド/莫德雷德,ジークフリートさん？<br>どこに行くんですか？,齐格飞先生？<br>要去哪里？
-7,アーサー/亚瑟,あ、待ってくださいよー！,啊、等一下ー！
+7,アーサー/亚瑟,あ、待ってくださいよー！,啊、等一下！
 8,ジークフリート/齐格飞,…………,…………
 13,,<span class='scene-font-katari'>ジークフリートは、</span><br><span class='scene-font-katari'>明確な足取りで</span><br><span class='scene-font-katari'>一軒の廃屋の前に辿り着いた。</span>,<span class='scene-font-katari'>齐格飞他，</span><br><span class='scene-font-katari'>明确地</span><br><span class='scene-font-katari'>摸索到了一间废弃的屋子前。</span>
 14,ジークフリート/齐格飞,……お前達は<br>外で待っていてくれ。,……你们<br>在外面等着。

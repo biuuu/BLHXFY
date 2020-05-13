@@ -48,7 +48,7 @@ id,en,jp,trans
 61,,……仲間、だと？,……同伴吗？？
 62,,そうです、悪魔さんの仲間がいれば<br>みんな信じてくれるかも知れません。,如果有恶魔的同伴大家就会相信你的话了。
 63,,いたのかも知れない。,也许有吧。
-64,,え、かも知れないって……<br>どういう意味ですか？,哎？也许是什么意思...？
+64,,え、かも知れないって……<br>どういう意味ですか？,哎？也许是什么意思…？
 65,,記憶がないのだ。,我没有记忆。
 66,,ええっ！？,欸欸！？
 67,,俺が覚えているのは１つだけ。,我记得的只有一件事。
@@ -93,3 +93,4 @@ id,en,jp,trans
 112,,<span class='scene-font-4'>アザゼルだ！</span><br>青白い兄ちゃんはやめろ！,<span class='scene-font-4'>我叫阿萨谢尔！</span><br>不要叫我苍白小哥！
 113,,<span class='scene-font-katari'>こうして、自らを悪魔と名乗る</span><br><span class='scene-font-katari'>不思議な青年アザゼルが</span><br><span class='scene-font-katari'>一行の旅に加わることとなった。</span>,<span class='scene-font-katari'>就这样，自称恶魔的青年阿萨谢尔加入了姬塔一行。</span>
 info,,1,scene_fate_chr412_ep1
+,,,

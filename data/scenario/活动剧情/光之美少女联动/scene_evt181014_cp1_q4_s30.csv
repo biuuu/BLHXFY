@@ -1,6 +1,6 @@
-﻿id,en,jp,trans
+id,en,jp,trans
 0-chapter_name,,第1話 浮いてる！？不思議な空の園,第1話 浮在空中！？不可思议的空之园
-0-synopsis,,姬塔達をあざ笑うように、無数の闇の魔物を出現させるポンメルン。慌ててその場を逃げ出した姬塔達は、飛び出した先でなぎさとほのかに出会う。ポルンを見つけてくれた礼を言うなぎさとほのかだが、姬塔達が無数の闇の魔物?ザケンナーに追われていることに気付き、姬塔達と必死にその場を逃げ出すのだった。,姬塔達をあざ笑うように，無数の闇の魔物を出現させるポンメルン。慌ててその場を逃げ出した姬塔達は，飛び出した先で渚と穗乃香に出会う。保伦を見つけてくれた礼を言う渚と穗乃香だが，姬塔達が無数の闇の魔物?ザケンナーに追われていることに気付き，姬塔達と必死にその場を逃げ出すのだった。
+0-synopsis,,姬塔達をあざ笑うように、無数の闇の魔物を出現させるポンメルン。慌ててその場を逃げ出した姬塔達は、飛び出した先でなぎさとほのかに出会う。ポルンを見つけてくれた礼を言うなぎさとほのかだが、姬塔達が無数の闇の魔物?ザケンナーに追われていることに気付き、姬塔達と必死にその場を逃げ出すのだった。,姬塔達をあざ笑うように，無数の闇の魔物を出現させるポンメルン。慌ててその場を逃げ出した姬塔達は，飛び出した先で渚と穗乃香に出会う。保伦を見つけてくれた礼を言う渚と穗乃香だが，姬塔達が無数の闇の魔物?ザケンナに追われていることに気付き，姬塔達と必死にその場を逃げ出すのだった。
 1,,ザ、ザケンナー……！,萨，萨凯那……！
 14,,ゴメンナ、ゴメンナ……,对不起，对不起……
 15,,ふん……<br>相変わらず小賢しいガキですネェ……,哼……<br>还真是一点都没变爱耍小聪明的小子……
@@ -13,7 +13,7 @@
 32,,<span class='scene-font-4'>ザケンナー！</span>,<span class='scene-font-4'>萨凯那！</span>
 34,,<span class='scene-font-4'>はわっ！？</span>,<span class='scene-font-4'>啊哈！？</span>
 35,,<span class='scene-font-4'>うわっ！？</span>,<span class='scene-font-4'>呜哇！？</span>
-36,,<span class='scene-font-4'>ポポー！！</span>,<span class='scene-font-4'>波波ー！！</span>
+36,,<span class='scene-font-4'>ポポー！！</span>,<span class='scene-font-4'>波波！！</span>
 37,,大変ポポ！<br>大変ポポ～！！,不得了了波波！<br>不得了了波波～！！
 38,,あーもう暴れんなチビスケ！<br>これから逃げんだから！,啊——别胡闹了小不点！<br>现在要逃了！
 39,,<span class='scene-font-katari'>暴れるポルンを抱えたまま、</span><br><span class='scene-font-katari'>ビィは飛び始める。</span>,<span class='scene-font-katari'>碧抱着胡闹的保伦，</span><br><span class='scene-font-katari'>开始非了起来。</span>
@@ -44,7 +44,8 @@
 81,,逃げるぞ嬢ちゃんたち！,要逃了哦小姐们！
 82,,こっちです！,来这边！
 85,,あ……,怎……
-86,,<span class='scene-font-4'>ありえなーーーーい！</span>,<span class='scene-font-4'>怎么可ーーーー能！</span>
+86,,<span class='scene-font-4'>ありえなーーーーい！</span>,<span class='scene-font-4'>怎么可能！</span>
 87,,<span class='scene-font-katari'>異世界「空の園」へとやってきた</span><br><span class='scene-font-katari'>なぎさたちだったが──</span>,<span class='scene-font-katari'>终于来到了异世界「空之园」</span><br><span class='scene-font-katari'>的渚他们──</span>
 88,,<span class='scene-font-katari'>早速の手荒い歓迎に、</span><br><span class='scene-font-katari'>涙目になって逃げ惑うのだった。</span>,<span class='scene-font-katari'>迅速就受到了粗鲁的欢迎，</span><br><span class='scene-font-katari'>泪目地东逃西窜。</span>
 info,,1,scene_evt181014_cp1_q4_s30
+,,,

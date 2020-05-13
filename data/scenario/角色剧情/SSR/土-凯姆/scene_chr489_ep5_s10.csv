@@ -36,7 +36,7 @@ id,name,text,trans
 55,,<span class='scene-font-katari'>「星晶獣の記憶の世界」での</span><br><span class='scene-font-katari'>戦いを幾度も幾度も繰り返した</span><br><span class='scene-font-katari'>姬塔達。</span>,<span class='scene-font-katari'>在「星晶兽的记忆世界」里</span><br><span class='scene-font-katari'>姬塔一行人历经了无数次战斗。</span>
 56,,<span class='scene-font-katari'>その中で強くなる疑問を</span><br><span class='scene-font-katari'>持て余していた頃、カイムが</span><br><span class='scene-font-katari'>グランサイファーを訪ねてきた。</span>,<span class='scene-font-katari'>在他们心中的疑虑越滚越大之时，</span><br><span class='scene-font-katari'>凯姆造访了格兰赛法。</span>
 58,カイム,やあ、こんにちは。,呀啊，你们好。
-59,ルリア/露莉亚,カイムくん！<br>こんにちはー！,凯姆！<br>你好ー！
+59,ルリア/露莉亚,カイムくん！<br>こんにちはー！,凯姆！<br>你好！
 60,ビィ/碧,ちょうど良かったぜ！<br>オイラ達、お前に聞きたい<br>ことがあったんだ。,你来的刚刚好！<br>我们有事想问你。
 61,カイム,うん。<br>だから来たんだ。,嗯。<br>所以我才来的。
 62,ルリア/露莉亚,え？<br>そうなんですか？,诶？<br>是这样的吗？
@@ -87,3 +87,4 @@ id,name,text,trans
 105,,<span class='scene-font-katari'>姬塔の手の中で</span><br><span class='scene-font-katari'>光を放つカードに、カイムが</span><br><span class='scene-font-katari'>ゆっくり手を伸ばしてくる。</span>,<span class='scene-font-katari'>凯姆缓缓伸出手</span><br><span class='scene-font-katari'>要去拿姬塔手中的</span><br><span class='scene-font-katari'>发着光的卡牌。</span>
 106,,<span class='scene-font-katari'>静かで不気味な光景に、</span><br><span class='scene-font-katari'>姬塔達はただ呆然として</span><br><span class='scene-font-katari'>息を呑むのだった。</span>,<span class='scene-font-katari'>姬塔他们呆呆地</span><br><span class='scene-font-katari'>屏住呼吸</span><br><span class='scene-font-katari'>看着这安静的让人发毛的一幕。</span>
 info,,,scene_chr489_ep5_s10
+,,,

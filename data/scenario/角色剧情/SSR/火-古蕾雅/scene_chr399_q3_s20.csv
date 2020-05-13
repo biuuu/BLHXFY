@@ -7,8 +7,8 @@ id,en,jp,trans
 5,,ふふふ、心配してくれてありがとう。<br>大丈夫だよ。<br>本当にかすり傷だったんだから。,呼呼呼、这么关心我真是多谢啦。<br没事哦。<br>因为真的只是擦伤嘛。
 6,,そっか、良かった……,是吗，那就好……
 7,,<span class='scene-font-katari'>安心した様子でグレアが息を吐くと、</span><br><span class='scene-font-katari'>町の防衛に当たっていた</span><br><span class='scene-font-katari'>姬塔一行が駆けてきた。</span>,<span class='scene-font-katari'>安心下来的古蕾雅松了口气，</span><br><span class='scene-font-katari'>町の防衛に当たっていた</span><br><span class='scene-font-katari'>姬塔一行が駆けてきた。</span>
-8,,おいおい、見たぜ、ピアノの姉ちゃん！<br>すっげぇな、<br>あっという間に片付いちまったぞ！,おいおい、見たぜ、ピアノの姉ちゃん！<br>すっげぇな、<br>あっという間に片付いちまったぞ！
-9,,力のコントロールができたのね！<br>良かった……,你力のコントロールができたのね！<br>良かった……
+8,,おいおい、見たぜ、ピアノの姉ちゃん！<br>すっげぇな、<br>あっという間に片付いちまったぞ！,おいおい、見たぜ、ピアノの姉！<br>すっげぇな、<br>あっという間に片付いちまったぞ！
+9,,力のコントロールができたのね！<br>良かった……,你力のコントロルができたのね！<br>良かった……
 10,,そうそう！　すごかったよ、グレア！<br>これで目的も達成だね♪,うそう！　すごかったよ、グレア！<br>これで目的も達成だね♪
 11,,ううん……でもまだ、<br>完璧じゃないよ。<br>さっきのは偶然だと思う……,ううん……でもまだ、<br>完璧じゃないよ。<br>さっきのは偶然だと思う……
 12,,たぶん今、力を解放したら<br>きっと暴走しちゃうと思うんだ……,たぶん今、力を解放したら<br>きっと暴走しちゃうと思うんだ……
@@ -20,8 +20,9 @@ id,en,jp,trans
 18,,ありがとう、みんな……,谢谢大家……
 19,,みんなのおかげで……<br>いろんなことに気づけたよ。<br>本当に、ありがとう。,みんなのおかげで……<br>いろんなことに気づけたよ。<br>本当に、ありがとう。
 20,,良ければまた、<br>遊んでくれるとうれしいな。,良ければまた、<br>遊んでくれるとうれしいな。
-21,,もちろんですっ！<br>また遊びましょう、グレアさん！,もちろんですっ！<br>また遊びましょう、グレアさん！
+21,,もちろんですっ！<br>また遊びましょう、グレアさん！,もちろんですっ！<br>また遊びましょう、グレア！
 22,,ふふふ……<br>これからもよろしくね。,ふふふ……<br>これからもよろしくね。
 23,,<span class='scene-font-katari'>晴れ晴れとした様子で</span><br><span class='scene-font-katari'>グレアは優しげに微笑んだ。</span>,<span class='scene-font-katari'>晴れ晴れとした様子で</span><br><span class='scene-font-katari'>グレアは優しげに微笑んだ。</span>
 24,,<span class='scene-font-katari'>迷いが晴れた様子の彼女から、</span><br><span class='scene-font-katari'>姬塔一行はあたたかな信頼を</span><br><span class='scene-font-katari'>感じるのだった。</span>,<span class='scene-font-katari'>迷いが晴れた様子の彼女から、</span><br><span class='scene-font-katari'>感觉到了</span><br><span class='scene-font-katari'>温暖的信赖之情。</span>
 info,,1,scene_chr399_q3_s20
+,,,

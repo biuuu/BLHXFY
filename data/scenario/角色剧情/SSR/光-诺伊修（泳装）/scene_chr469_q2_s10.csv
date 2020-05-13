@@ -31,7 +31,7 @@ id,name,text,trans
 34,ノイシュ/诺伊修,他にも食べるのであれば、<br>ひとまず４本ほど<br>あれば良いだろうか？,因为还要吃别的<br>总之先来四串左右<br>这个数量应该可以吧？
 35,スカーサハ,足りなければ<br>後で買い足せばよかろう。<br>ベアトリクス、４本頼む。,如果不够的话<br>之后再多买点就够了吧。<br>贝阿朵丽丝，拜托你给我们四串烤鱼。
 36,ベアトリクス/贝阿朵丽丝,あっ……,啊……
-37,ベアトリクス/贝阿朵丽丝,<span class='scene-font-kokoro'>（ど、どうしよ……</span><br><span class='scene-font-kokoro'>荷物の見張りを</span><br><span class='scene-font-kokoro'>頼まれただけなんだけどなー……）</span>,<span class='scene-font-kokoro'>（该，该怎么办啊……</span><br><span class='scene-font-kokoro'>我只是被</span><br><span class='scene-font-kokoro'>拜托看着东西而已啊ー……）</span>
+37,ベアトリクス/贝阿朵丽丝,<span class='scene-font-kokoro'>（ど、どうしよ……</span><br><span class='scene-font-kokoro'>荷物の見張りを</span><br><span class='scene-font-kokoro'>頼まれただけなんだけどなー……）</span>,<span class='scene-font-kokoro'>（该，该怎么办啊……</span><br><span class='scene-font-kokoro'>我只是被</span><br><span class='scene-font-kokoro'>拜托看着东西而已啊……）</span>
 38,ベアトリクス/贝阿朵丽丝,<span class='scene-font-kokoro'>（でも焼くだけだし、大丈夫だよな……</span><br><span class='scene-font-kokoro'>いや、でも……んむむむむ……）</span>,<span class='scene-font-kokoro'>（但是只是烧烤的话，应该没问题的吧……</span><br><span class='scene-font-kokoro'>不，但是……呜呜呜呜呜……）</span>
 39,ヘルエス/赫尔艾斯,<span class='scene-font-place'>アウギュステ</span>の新鮮な魚となれば、<br>塩を振って焼いただけでも<br>随分と美味しいのでしょうね。,<span class='scene-font-place'>奥古斯特岛</span>的新鲜的鱼的话，<br>只要撒点盐烤一烤<br>就会变得相当好吃吧。
 40,ベアトリクス/贝阿朵丽丝,<span class='scene-font-kokoro'>（ううっ……</span><br><span class='scene-font-kokoro'>ものすごく期待されてる……！）</span>,<span class='scene-font-kokoro'>（呜呜……</span><br><span class='scene-font-kokoro'>被相当期待着啊……！）</span>
@@ -67,3 +67,4 @@ id,name,text,trans
 71,ノイシュ/诺伊修,お、美味しいですよ<br>ベアトリクス殿！<br>少なくとも私にとっては！,很，很好吃哦<br>贝阿朵丽丝殿下！<br>至少我是这么觉得的！
 72,ベアトリクス/贝阿朵丽丝,慰めになってないっ！！,没有觉得有被安慰到！！
 info,,,scene_chr469_q2_s10
+,,,

@@ -20,8 +20,8 @@ id,name,text,trans
 22,少女２,わぁ……！,哇……！
 23,にこ/妮可,ふふ。どう、楽しくなったでしょ？<br>にこーっ！,呵呵。怎么样，很棒吧？<br>NICO——！
 24,少女２,うん！　あのね、にこちゃん。<br>私、大きくなったら<br>にこちゃんになるの！,嗯！　那个啊，妮可酱！<br>我，长大以后，<br>要成为妮可酱！
-26,にこ/妮可,大きく出たわね。<br>宇宙ナンバーワンアイドルを目指す私に<br>果たして追いつけるかしら？,志向很高远嘛。<br>那么，你究竟能否追上<br>身为宇宙NO.1偶像的我呢？
-28,少女２,えー！<br>ぜったいなるもん！,诶ー！<br>我绝对要成为！
+26,にこ/妮可,大きく出たわね。<br>宇宙ナンバーワンアイドルを目指す私に<br>果たして追いつけるかしら？,志向很高远嘛。<br>那么，你究竟能否追上<br>身为宇宙NO1偶像的我呢？
+28,少女２,えー！<br>ぜったいなるもん！,诶！<br>我绝对要成为！
 29,にこ/妮可,なら本気で頑張りなさいよ。<br>途中で諦めたりしなければ、<br>きっと叶うから。,那就认真努力吧。<br>只要不在中途放弃，<br>就一定会实现的。
 30,少女２,うん！,嗯！
 37,？？？,<span class='scene-font-gray'>また、つながった……</span>,<span class='scene-font-gray'>又，连接上了……</span>
@@ -45,7 +45,7 @@ id,name,text,trans
 70,,<span class='scene-font-katari'>にこの叫びとともに、</span><br><span class='scene-font-katari'>青白い障壁が展開され</span><br><span class='scene-font-katari'>魔物を押しとどめる。</span>,<span class='scene-font-katari'>伴随着妮可的呼喊，</span><br><span class='scene-font-katari'>一道青白色的障壁展开，</span><br><span class='scene-font-katari'>阻挡了魔物的前进。</span>
 71,異界の魔物/异界的魔物,む……！！,姆……！！
 72,穂乃果,え……,诶……
-73,海未・穂乃果・ことり/海未・穂乃果・小鸟,<span class='scene-font-4'>ええーっ！？</span>,<span class='scene-font-4'>诶诶ー！？</span>
+73,海未・穂乃果・ことり/海未・穂乃果・小鸟,<span class='scene-font-4'>ええーっ！？</span>,<span class='scene-font-4'>诶诶！？</span>
 74,にこ/妮可,……私達が歌うと魔物が出る？<br>だからなに？,……只要我们唱歌魔物就会出现？<br>那又如何？
 75,異界の魔物/异界的魔物,む……うう……！,姆……呜呜……！
 76,にこ/妮可,<span class='scene-font-4'>いい！　あんた！</span><br>どこの誰だか……っていうか<br>そもそも何なのか知らないけど！,<span class='scene-font-4'>听好了！　你这家伙！</span><br>虽然不知道你是何方神圣……不如说，<br>我连你是什么东西都不知道！
