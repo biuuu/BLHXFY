@@ -130,13 +130,9 @@ const tryFetch = async () => {
 const request = async (pathname) => {
   if (true || fetchInfo.result) {
     return new Promise((rev, rej) => {
-      // let timer = setTimeout(() => {
-      //   rej(`加载${pathname}超时`)
-      //   timeoutStyle()
-      // }, config.timeout * 1000)
       fetch(`${origin}${pathname}`)
       .then(res => {
-        // clearTimeout(timer)
+        if (!res.ok) throw new Error(res)
         const type = res.headers.get('content-type')
         if (type.includes('json')) {
           return res.json()
