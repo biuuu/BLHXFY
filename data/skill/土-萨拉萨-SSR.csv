@@ -7,6 +7,7 @@ special-アニヒレイション・ノヴァ,湮灭新星,土属性伤害(特大
 special-Meteor Thrust,流星撞击,土属性伤害(特大)/切换到斧形态/追加造成999999无属性伤害
 special-Astro Destruction,宇宙毁灭,土属性伤害(特大)/切换到剑形态/土属性攻击UP
 special-Annihilation Nova,湮灭新星,土属性伤害(特大)/切换到斧形态/追加造成2次999999无属性伤害
+special-backup,,<div class=prt-text-small>土属性伤害(特大)/追加999999点无属性伤害/切换形态/【终突后附加】追加伤害发动两次</div>
 skill-1,致命狂怒,<div class=prt-text-small>敌方土属性伤害<br><span class=text-blue>斧:自身HP回复/愤怒效果<br>剑:愤怒效果中附加激昂效果</span></div>
 skill-1+,致命狂怒,<div class=prt-text-small>敌方土属性伤害<br><span class=text-blue>斧:自身HP回复/愤怒效果<br>剑:愤怒效果中附加激昂效果</span></div>
 skill-2,狂暴熔炉,斧:反击效果(回避·3次)<br>剑:自身HP越少攻击力越大上升
@@ -17,4 +18,4 @@ skill-4,三寅之祝福,<div class=prt-text-small>自身可立即发动奥义/�
 support-1,怪力乱神,<div class=prt-text-small>愤怒状态时连击率上升(90级追加暴击率上升)<br>激昂状态时奥义伤害上升/chain burst伤害上升(90级追加土属性追击效果)</div>
 support-2,暴虎,对水属性敌人造成1.2倍伤害
 skill-lb,LB技能,普通攻击时概率自身攻击上升
-special-backup,,<div class=prt-text-small>土属性伤害(特大)/追加999999点无属性伤害/切换形态/【终突后附加】追加伤害发动两次</div>
+intro,十天众,威胁着全空、号称最强的无双之兽，掌管着无垠的苍天的一切。她比任何人都了解自然的残酷，奉行弱肉强食之道。只为了不再失去一切。
