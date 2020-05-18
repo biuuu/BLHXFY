@@ -1,6 +1,6 @@
 id,name,text,trans
 0-chapter_name,,第4話 結紮,第4话 止血
-0-synopsis,,シスは姬塔とシエテ達により抑え込まれ、意識を失う。リーシャとシエテはシスの暴走の原因がネハンであると気づき、リーシャはネハンの監督不行き届きの責任を問われ星屑の街に留まることになる。その後目を覚ましたシスは、これ以上他人の厚意に甘え罪を重ねるわけにはいかないと決意し、十天衆の座を返上するとシエテに告げるのだった。,被姬塔和希耶提等人压制住的希斯失去了意识。莉夏和希耶提察觉到希斯的暴走与涅盘有关。由于对涅盘监督不到位，被问责的莉夏决定留在星屑之街上。在那之后，苏醒的希斯下定决心，不能再让自己罪上加罪，一味地依赖别人的好意，并告诉希耶提自己要将十天众的名号交还。
+0-synopsis,,シスは姬塔とシエテ達により抑え込まれ、意識を失う。リーシャとシエテはシスの暴走の原因がネハンであると気づき、リーシャはネハンの監督不行き届きの責任を問われ星屑の街に留まることになる。その後目を覚ましたシスは、これ以上他人の厚意に甘え罪を重ねるわけにはいかないと決意し、十天衆の座を返上するとシエテに告げるのだった。,被姬塔和希耶提等人压制住的希斯失去了意识。莉夏和希耶提察觉到希斯的暴走与涅槃有关。由于对涅槃监督不到位，被问责的莉夏决定留在星屑之街上。在那之后，苏醒的希斯下定决心，不能再让自己罪上加罪，一味地依赖别人的好意，并告诉希耶提自己要将十天众的名号交还。
 10,,<span class='scene-font-katari'>突如暴走したシスを止めるため、</span><br><span class='scene-font-katari'>彼と相対した姬塔、</span><br><span class='scene-font-katari'>そしてシエテ達。</span>,<span class='scene-font-katari'>姬塔和希耶提等人</span><br><span class='scene-font-katari'>为了阻止突然暴走的希斯，</span><br><span class='scene-font-katari'>与他展开对峙。</span>
 11,,<span class='scene-font-katari'>一同はシエテと姬塔の連係で</span><br><span class='scene-font-katari'>シスの動きを抑え、フュンフの魔法で</span><br><span class='scene-font-katari'>暴走の原因を取り除こうとする。</span>,<span class='scene-font-katari'>一行人准备在希耶提与姬塔</span><br><span class='scene-font-katari'>联手抑制住希斯的同时，</span><br><span class='scene-font-katari'>让芬芙用魔法消除导致希斯暴走的诱因。
 13,フュンフ/芬芙,これで……どうだぁ！！,尝尝……这招！！
@@ -28,7 +28,7 @@ id,name,text,trans
 48,シエテ/希耶提,……暴走の原因はわかる？,……暴走的原因查明了吗？
 49,フュンフ/芬芙,う～ん……魔法じゃないと思う。<br>たぶん、お薬……かな。シスの中の<br>力の流れをめちゃくちゃにしてる。,嗯～……我觉得应该不是魔法。<br>大概是……药吧。<br>它让希斯身体里的力量流动变得非常混乱。
 50,リーシャ/莉夏,薬……！？,药……！？
-51,リーシャ/莉夏,<span class='scene-font-kokoro'>（シスさんを害する理由があって、</span><br><span class='scene-font-kokoro'>薬の扱いに長けた人物なんて、</span><br><span class='scene-font-kokoro'>ひとりしかいない……）</span>,<span class='scene-font-kokoro'>（有伤害害希斯的动机，</span><br><span class='scene-font-kokoro'>且擅长制作药物的，</span><br><span class='scene-font-kokoro'>只有可能是那一个人……）</span>
+51,リーシャ/莉夏,<span class='scene-font-kokoro'>（シスさんを害する理由があって、</span><br><span class='scene-font-kokoro'>薬の扱いに長けた人物なんて、</span><br><span class='scene-font-kokoro'>ひとりしかいない……）</span>,<span class='scene-font-kokoro'>（有伤害希斯的动机，</span><br><span class='scene-font-kokoro'>且擅长制作药物的，</span><br><span class='scene-font-kokoro'>只有可能是那一个人……）</span>
 52,リーシャ/莉夏,<span class='scene-font-kokoro'>（マガザン製薬部門技術長にして、</span><br><span class='scene-font-spword'>『カルム一族虐殺事件』</span><span class='scene-font-kokoro'>の</span><br><span class='scene-font-kokoro'>調査を依頼してきた男……）</span>,<span class='scene-font-kokoro'>（玛格森制药部门技术部长，委托我们</span><br><span class='scene-font-kokoro'>调查</span><span class='scene-font-spword'>『卡尔姆一族虐杀事件』</span><span class='scene-font-kokoro'>的</span><br><span class='scene-font-kokoro'>那个男人……）</span>
 58,リーシャ/莉夏,<span class='scene-font-kokoro'>（ネハン……あの男しか……）</span>,<span class='scene-font-kokoro'>（涅槃……只可能是他……)</span>
 59,シエテ/希耶提,……さて、シスのことは俺が見てるよ。<br>姬塔ちゃんやフュンフは<br>休んどいで。,……那么，就由我来照顾希斯。<br>姬塔酱和芬芙快去休息吧。
