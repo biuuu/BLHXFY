@@ -1,7 +1,6 @@
 import EventEmitter  from 'events'
 import config from './config'
 
-const { origin } = config
 let ee = new EventEmitter()
 let lacia
 
@@ -9,7 +8,7 @@ const insertCSS = (name) => {
   const link = document.createElement('link')
   link.type = 'text/css'
   link.rel = 'stylesheet'
-  link.href = `${origin}/blhxfy/data/static/style/${name}.css?lacia=${config.version || ''}`
+  link.href = `${config.origin}/blhxfy/data/static/style/${name}.css?lacia=${config.version || ''}`
   document.head.appendChild(link)
 }
 
@@ -30,7 +29,7 @@ let loadIframe = () => {
   return new Promise((rev, rej) => {
     window.addEventListener('load', () => {
       const iframe = document.createElement('iframe')
-      iframe.src = `${origin}/blhxfy/lacia.html`
+      iframe.src = `${config.origin}/blhxfy/lacia.html`
       iframe.style.display = 'none'
       document.body.appendChild(iframe)
       lacia = iframe.contentWindow
@@ -58,7 +57,7 @@ const fetchData = async (pathname) => {
     lacia.postMessage({
       type: 'fetch',
       url, flag
-    }, origin)
+    }, config.origin)
   } catch (e) {
     console.log(e)
     return ''
@@ -87,7 +86,7 @@ let fetchInfo = {
 
 const saveManifest = async () => {
   const t = Math.floor(Date.now() / 1000 / 60 / 60 / 6)
-  const res = await fetch(`${origin}/blhxfy/manifest.json?t=${t}`)
+  const res = await fetch(`${config.origin}/blhxfy/manifest.json?t=${t}`)
   const data = await res.json()
   data.time = Date.now()
   localStorage.setItem('blhxfy:manifest', JSON.stringify(data))
@@ -130,7 +129,7 @@ const tryFetch = async () => {
 const request = async (pathname) => {
   if (true || fetchInfo.result) {
     return new Promise((rev, rej) => {
-      fetch(`${origin}${pathname}`)
+      fetch(`${config.origin}${pathname}`)
       .then(res => {
         if (!res.ok) {
           rej(`${res.status} ${res.url}`)
@@ -188,7 +187,7 @@ const fetchWithHash = async (pathname, hash) => {
 }
 
 const receiveMessage = (event) => {
-  if (event.origin !== origin) return
+  if (event.origin !== config.origin) return
   if (event.data && event.data.type) {
     if (event.data.type === 'response') {
       ee.emit(`response${event.data.flag}`, event.data)
