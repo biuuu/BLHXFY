@@ -1,0 +1,8 @@
+id,name,detail
+npc,莎拉,3040236000
+special,永恒之心,<div class=prt-text-small>光属性伤害(特大)净化自身全部弱体状态<br><span class=text-blue>◆无弱体状态时，发动一次惊雷</span></div>
+skill-1,结缘,<div class=prt-text-small>我方全体获得暗属性伤害60%减免
+skill-2,惊雷,<div class=prt-text-small>对敌方全体造成光属性攻击/自身以外的我方全体获得屏障/砂神古拉佛斯的铁锤获得1层<br><span class=text-blue>◆砂神古拉佛斯的铁锤打到5层时，屏障效果UP</span></div>
+skill-3,唤醒,<div class=prt-text-small>自身获得援护<br><span class=text-blue>◆拥有3层以上砂神古拉佛斯的铁锤时，追加攻击大幅UP</span></div>
+support-1,砂神古拉佛斯的铁锤,自身常驻奥义上升-25%/反击时获得1层砂神古拉佛斯的铁锤(最大5层)<br><span class=text-blue>◆根据砂神古拉佛斯的铁锤层数防御力UP/敌对心UP/弱体耐性UP</span>
+support-2,和大家一起向明天进发,敌方使用特殊技时，自动发动1次惊雷

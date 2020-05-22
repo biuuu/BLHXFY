@@ -1,0 +1,8 @@
+id,name,detail
+npc,齐格飞,3040237000
+special,残暴之牙,<div class=prt-text-small>火属性伤害(特大)/发动1册断位斩/HP回复
+skill-1,断位斩,<div class=prt-text-small>对敌方单体造成3倍火属性伤害/火属性防御力DOWN(累计)
+skill-2,蜃景,<div class=prt-text-small>我方全体获得风属性伤害70%减免
+skill-3,救世者,<div class=prt-text-small>我方火属性全体获得弱体耐性UP/格挡/吸收
+support-1,浴血的代价,每回合损失HP，但攻击UP/防御UP/连续攻击/奥义伤害及上限UP
+support-2,救国的忠骑士,我方得意武器为「剑」的火属性角色获得技能伤害及上限UP
