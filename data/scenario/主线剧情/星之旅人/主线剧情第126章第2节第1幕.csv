@@ -56,7 +56,7 @@ id,name,text,trans
 73,,<span class='scene-font-katari'>紫の騎士の一閃は、</span><br><span class='scene-font-katari'>正確に両膝を砕き、</span><br><span class='scene-font-katari'>兵士はその場に崩れ落ちる。</span>,紫之骑士的一闪，<br>正确地将士兵的两膝打碎，<br>士兵就这么倒在了地上。
 75,紫の騎士,これね、<br>あんたは傷痍軍人扱いになるから。<br>その分の手当も出すから。勘弁してね。,然后，你会被当做伤残军人来对待的。<br>我会给你一部分补贴的。饶了我吧。
 76,レム王国兵１/雷姆王国兵１,<span class='scene-font-4'>があああ……！！</span><br>あああああ！！,嘎啊啊啊……！！<br>啊啊啊啊啊！！
-77,,<span class='scene-font-katari'>膝を砕かれた兵士は、</span><br><span class='scene-font-katari'>それでも何かに突き動かされるように、</span><br><span class='scene-font-katari'>紫の騎士へと敵意を向ける。</span>,膝盖已经粉碎的士兵，<br>即便如此也像是被什么给推动者一般，<br>对紫之骑士带着敌意。
+77,,<span class='scene-font-katari'>膝を砕かれた兵士は、</span><br><span class='scene-font-katari'>それでも何かに突き動かされるように、</span><br><span class='scene-font-katari'>紫の騎士へと敵意を向ける。</span>,膝盖已经粉碎的士兵，<br>即便如此也像是被什么给推动着一般，<br>对紫之骑士带着敌意。
 78,紫の騎士,さて……,嘿哟……
 79,レム王国兵２/雷姆王国兵２,<span class='scene-font-4'>おおおぉぉっ！！</span>,哦哦 哦哦！！
 81,紫の騎士,おおっとぉっ！？,哎哟哟！？
@@ -74,6 +74,6 @@ id,name,text,trans
 96,ロゼッタ/萝赛塔,様子を見るに、<br>紫の騎士は相手を殺さないよう、<br>加減してるようだけど……,看样子，<br>紫之骑士并没有杀掉对手，<br>而是手下留情了……
 97,ロゼッタ/萝赛塔,アタシ達が加勢して、<br>紫の騎士の余裕が無くなれば、<br>被害が増えちゃうんじゃないかしら……,我们加入其中的话，<br>紫之骑士如果没有余裕了，<br>说不定被害反而会增加……
 98,イオ/伊欧,止めるなら兵隊さん達じゃない？<br>どう見たって、<br>正気じゃないわよ、あれ……,要阻止的难道不是军队那边嘛？<br>怎么看，那边都不太正常啊……
-99,,<span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>兵士達の様子から紫の騎士に加勢すべく</span><br><span class='scene-font-katari'>レム王国へと降り立つのだった。</span>,姬塔一行人看了士兵们的样子后，<br>决定假如紫之骑士，<br>降落到了雷姆王国的土地上。
+99,,<span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>兵士達の様子から紫の騎士に加勢すべく</span><br><span class='scene-font-katari'>レム王国へと降り立つのだった。</span>,姬塔一行人看了士兵们的样子后，<br>决定加入紫之骑士，<br>降落到了雷姆王国的土地上。
 info,,,scene_cp126_q2_s20
 译者,,,rei
