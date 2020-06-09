@@ -1,10 +1,10 @@
 ﻿id,name,detail
 npc,阿古罗瓦尔,3040192000
 special,银白世界,<div class=prt-text-small>水属性伤害(特大)/回复自身20%HP <span class=text-blue>◆处于水属性攻击UP效果中时，奥义性能UP</span></div>
-skill-1,撕裂,对敌方单体造成7-8倍水属性伤害/自身奥义值10%UP
+skill-1,撕裂,对敌方单体造成7-8倍水属性伤害/自身奥义值10%UP/赋予自己玉水的刻印
 skill-2,冰柱,对敌方全体造成水属性伤害/付与火属性攻击20%DOWN/冰牢效果
-skill-3,雪暴,<div class=prt-text-small>自身获得浑身效果/水属性攻击30%UP　<span class=text-blue>◆满HP时，追加30%水属性追击效果</span></div>
-support-1,霸者风范,强化效果「水属性攻击UP」效果30%UP
-support-2,绝对零度,奥义连击时，我方全体水属性攻击UP　<span class=text-blue>◆随奥义连击数获得不同性能强化</span></div>
+skill-3,雪暴,<div class=prt-text-small>赋予自己浑身效果/水属性追击效果<br><span class=text-blue>◆根据玉水的刻印数量追加强化效果</span></div>
+support-1,霸者风范,根据玉水的刻印数量提升水属性攻击力
+support-2,绝对零度,<div class=prt-text-small>奥义连击发动时，赋予我方全体水属性攻击UP　<span class=text-blue>◆随奥义连击数获得不同性能强化/自己在后排时也发动</span></div>
 skill-lb,LB技能,
-intro,冰皇,
+intro,冰皇,崇高的冰皇为了引导祖国而举起了旗帜。在他冷静的眼里映照的是称霸世界的强国。在他心里藏着的是为人民着想的热烈的爱。现在他正宣传着理想，在霸业的道路上迈进。

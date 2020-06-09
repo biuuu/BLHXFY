@@ -1,10 +1,10 @@
 ﻿id,name,detail
 npc,娜尔梅亚,3040089000
-special,无为自然,水属性伤害(特大)/自身幻影效果(2次)
-skill-1,蝴蝶刃,追加敌方弱点属性伤害/自身防御20%DOWN <span class=text-blue>◆每次使用时性能UP</span>
-skill-2,卧薪尝胆,消去敌方单体1个强化效果/连击率UP <span class=text-blue>◆每次使用时性能UP</span>
-skill-3,精神一到何事不成,自身攻击大幅UP(仅限敌方Break状态/1次)/暴击率UP<span class=text-blue>◆每次使用时性能UP</span>
-support-1,源氏舞·泡沫谣,奥义发动是攻击UP(累积，最大5次)
-support-2,神乐舞·梦幻谣,使用技能时回避率UP(累积，最大10次)
+special,无为自然,水属性伤害(特大)/回避敌人所有攻击（1次）
+skill-1,蝴蝶刃,<div class=prt-text-small>赋予自己弱点属性追击效果/自身防御DOWN <span class=text-blue>◆根据蝴蝶刃的使用次数提升性能</span></div>
+skill-2,卧薪尝胆,<div class=prt-text-small>消去敌方单体1个强化效果/自己的连击率UP <span class=text-blue>◆根据卧薪尝胆的使用次数提升性能</span></div>
+skill-3,精神一到,自身攻击大幅UP(1次)/暴击率UP<span class=text-blue>◆根据精神一到的使用次数提升性能</span>
+support-1,源氏舞·泡沫谣,发动奥义时攻击UP(累积/最大5次)
+support-2,神乐舞·梦幻谣,使用技能时回避率UP(累积，最大10次)/回避成功时，对敌方全体造成水属性伤害/SLOW效果
 skill-lb,LB技能,使用技能后有极小概率能够即时再次使用技能
-,,
+intro,爽凉的斩姬,剑豪与重要的伙伴们一起度过日日夜夜，不知不觉间那束缚着她的心的锁链也被解开。从中解放的剑豪面对真夏的碧海，想象着从今往后将会到来的快乐的日子，不禁感到内心雀跃无比。
