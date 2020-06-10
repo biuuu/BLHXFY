@@ -211,6 +211,8 @@ const start = async () => {
   const hashes = await md5File()
 
   await fse.writeJSON('./dist/blhxfy/manifest.json', { hash, version, date, hashes, cyweb_token })
+
+  await fse.emptyDir('./dist/blhxfy/data/scenario/')
 }
 
 start()
