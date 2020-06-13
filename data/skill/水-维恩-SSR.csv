@@ -1,8 +1,13 @@
 ﻿id,name,detail
 npc,维恩,3040117000
-special,狮爪狩猎,水属性伤害(特大)/自身防御UP
-skill-1,敌武摧毁II,对敌方单体造成水属性伤害/攻击DOWN/火属性攻击DOWN
-skill-2,击破,<div class=prt-text-small>自身HP越少，攻击UP/敌对心UP(累积)　<span class=text-blue>◆消耗自身最大HP的40%</span></div>
-skill-3,灵魂勃发,<div class=prt-text-small>回复自身HP，净化自身所有弱化效果/性能大幅UP　<span class=text-blue>◆只能在濒死状态使用/消耗全部奥义值</span></div>
-support-1,绝不屈服！,第一次无法战斗时以HP1继续战斗
+special,狮爪狩猎,水属性伤害(特大)/攻击DOWN（累积）/火属性攻击DOWN
+special++,狮爪狩猎,水属性伤害(特大)/攻击DOWN（累积）/火属性攻击DOWN/下次英勇打击发动2次
+skill-1,英勇打击,对敌方单体造成水属性伤害/恢复自己的HP和弱体效果
+skill-1++,英勇打击,对敌方单体造成水属性伤害/恢复自己的HP和弱体效果
+skill-2,击破,<div class=prt-text-small>赋予自己逆境效果/敌对心UP(累积)　<span class=text-blue>◆消耗自身最大HP的40%</span></div>
+skill-ワン・フォー・オール,one for all,<div class=prt-text-small>赋予自己逆境效果/防御UP/援护效果（全体）/不屈效果 <span class=text-blue>◆消耗自身最大HP的40%</span></div>
+skill-3,灵魂勃发,<div class=prt-text-small>回复自身HP，净化自身所有弱化效果/能力大幅UP　<span class=text-blue>◆只能在濒死状态使用/消耗全部奥义槽</span></div>
+support-1,绝不屈服！,身上有逆境效果时连续攻击率UP
+support-2,卧龙凤雏,敌人使用特殊技时发动英勇打击/延长自己身上的强化效果1回合<br><span class=text-blue>◆除有效时间为1回合的强化效果</span>
 skill-lb,LB技能,HP少于一半时，防御UP
+intro,不屈不挠的骑士,这是某个春日发生的事情。将过去的牵挂藏于心中的骑士，和亲友一同前往登山。虽然遇到了意想不到的灾祸，但是两人合力克服了困难。在这之后，无论是遇到了怎样的困难，他们也一定能跨越的吧。
