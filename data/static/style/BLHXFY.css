@@ -738,3 +738,16 @@ body .cnt-raid .prt-raid-log {
 .note-blhx+.note-blhx{
   margin-left:-0.2em;
 }
+
+body #loading, body #ready, body #opaque-mask {
+  height: 100%;
+  bottom: auto;
+}
+
+body .active-mask#multi-btn-mask {
+  height: 84px;
+}
+
+body .cnt-raid {
+  padding-bottom: 0;
+}
