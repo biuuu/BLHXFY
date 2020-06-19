@@ -23,6 +23,7 @@ import { getUserName, setUserName } from './store/name-user'
 import { chapterList, episodeList, npcChapterList, arcarumSceneName } from './modules/story/story-title'
 import battleNote from './modules/battle/note'
 import storyNavi from './modules/story/story-navi'
+import transSkin from './modules/skin'
 
 const apiHosts = ['game.granbluefantasy.jp', 'gbf.game.mbga.jp']
 
@@ -95,7 +96,8 @@ const requestList = [
   ['/archive/npc_detail', npcChapterList],
   [/^\/arcarum\/content\/summon_enhancement_detail\/\d+(_\d+)?$/, arcarumSceneName],
   ['/rest_shop_exchange_treasure/article_labels/', shopLabel],
-  [/\/content\/navi/, storyNavi]
+  [/\/content\/navi/, storyNavi],
+  [/^\/skin\/list\/\d+/, transSkin]
 ]
 
 export default async function translate(state) {
