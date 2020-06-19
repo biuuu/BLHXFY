@@ -24,6 +24,7 @@ import { chapterList, episodeList, npcChapterList, arcarumSceneName } from './mo
 import battleNote from './modules/battle/note'
 import storyNavi from './modules/story/story-navi'
 import transSkin from './modules/skin'
+import archiveCharName from './modules/archive/char-name'
 
 const apiHosts = ['game.granbluefantasy.jp', 'gbf.game.mbga.jp']
 
@@ -97,7 +98,8 @@ const requestList = [
   [/^\/arcarum\/content\/summon_enhancement_detail\/\d+(_\d+)?$/, arcarumSceneName],
   ['/rest_shop_exchange_treasure/article_labels/', shopLabel],
   [/\/content\/navi/, storyNavi],
-  [/^\/skin\/list\/\d+/, transSkin]
+  [/^\/skin\/list\/\d+/, transSkin],
+  [/^\/archive\/npc_list/, archiveCharName]
 ]
 
 export default async function translate(state) {

@@ -1,11 +1,12 @@
 import getSkinData from '../store/skin'
 import getNameData from '../store/name-npc'
+import transName from '../utils/trans-name'
 
 export default async function transSkin(data, pathname) {
   const skinMap = await getSkinData()
-  const { jpNameMap } = await getNameData()
+  const { jpNameMap, enNameMap } = await getNameData()
   data.list.forEach(char => {
-    if (jpNameMap.has(char.name)) char.name = jpNameMap.get(char.name).trans
+    char.name = transName(char.name, [jpNameMap, enNameMap])
     char.list_data.forEach(item => {
       const id = item.master.id
       if (skinMap.has(id)) {
