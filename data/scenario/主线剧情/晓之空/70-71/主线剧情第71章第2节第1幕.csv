@@ -1,0 +1,20 @@
+﻿id,en,jp,trans
+0-chapter_name,71: Captivating Truth,第71章　囚われの真実,第71章囚禁的真相
+0-synopsis,"With Freesia's refusal to cooperate, 姬塔 and the crew decide to head back to the city to form a new strategy.",フリーシアとの面会で、エルステに<span class='scene-font-spword'>空図の欠片</span>が存在するという情報を得た姬塔一行は、<span class='scene-font-place'>メフォラシュ</span>の街へと戻る道中、目の前に広がる広大な砂漠を見やる。ここから<span class='scene-font-spword'>空図の欠片</span>を探し出すことの途方のなさと、しかし一方で確実に星の島へと近づいている状況に、一喜一憂する姬塔一行なのだった。,与芙莉西雅会面后，众人知道了<span class='scene-font-spword'>空图碎片</span>确实存在于这个岛上的信息，正在返回<span class='scene-font-place'>美佛拉修</span>城内的路上。看到眼前无垠的沙漠，众人觉得这么去找<span class='scene-font-spword'>空图碎片</span>是一件徒劳无功的事情。但是现在确实离星之岛又近了一步，姬塔等人就这样半喜半忧地前进着。
+0,"In the end, she didn't tell us anything else about the map piece.",結局、<span class='scene-font-spword'>空図の欠片</span>については、<br>何にも教えてもらえなかったわね……,结果，最后她也没告诉我们任何有关<span class='scene-font-spword'>空图碎片</span>的事情。
+1,"The visit with Freesia has ended and 姬塔 and company, along with Adam, decide to head back to the city.",<span class='scene-font-katari'>フリーシアとの面会を終えた</span><br><span class='scene-font-katari'>姬塔一行はアダムと共に、</span><br><span class='scene-font-katari'>ひとまず街へと戻ろうとしていた。</span>,<span class='scene-font-katari'>与芙莉西雅面谈结束后，姬塔等人与亚当一起暂且返回城市区域了。</span>
+2,I'm sorry I couldn't be of more help.,申し訳ありません……<br>何もお力になれず……,非常抱歉，没能帮上你们。
+3,"Nah, that's not true. We now know for sure that there's a map piece somewhere around here.",いや、そうでもねぇさ……<br>この島に<span class='scene-font-spword'>空図の欠片</span>があるってのは、<br>これでハッキリしたんだ。,不，不能这么说。至少我们现在明确知道了这座岛上确实有着<span class='scene-font-spword'>空图碎片</span>了。
+4,Yeah! And 姬塔's dad got one from this island.,そうだよな！<br>親父さんも、ここで<span class='scene-font-spword'>空図の欠片</span>を<br>手に入れてたみてーだし……,是呀！老爹也是在这里得到了<span class='scene-font-spword'>空图碎片</span>。
+5,"If we just follow in his footsteps, we'll get closer to Estalucia!",オイラ達、<br>ちゃんと親父さんの跡を追って、<br>星の島に近づいてんだな！,我们现在正在追逐着老爹的轨迹向星之岛靠近呀！
+5-sel1_txt,There's a long way to go.,<span class='scene-font-katari'>まだまだこれから</span>,路还很远
+5-sel2_txt,We'll get there soon.,<span class='scene-font-katari'>すぐに追いつく</span>,要快点追上
+6,Ha-ha. You're being hard on yourself as always.,ふふっ……<br>君は相変わらず自分に厳しいな。,嗯，你还是一如既往地对自己严格啊。
+7,"Oh? Well, aren't you a bold one?",あら、ずいぶん強気じゃない……,啊啦，很有勇气啊。
+8,"But that's what I like about you, after all.",でも、そうよね……<br>それくらい強気の方が、<br>とっても貴方らしくて素敵だわ。,但是，也是呢。有如此的气魄才更像是你，很棒哦。
+9,A piece of the sky map on this island is fine and all...,しっかし……<br>この島に<span class='scene-font-spword'>空図の欠片</span>が<br>あるってのはいいが……,但是……虽说这岛上有<span class='scene-font-spword'>空图碎片</span>是很好没错……
+10,Eugen looks around at the seemingly endless desert spread out before them.,<span class='scene-font-katari'>オイゲンが見やる先には、</span><br><span class='scene-font-katari'>果ての見えない</span><br><span class='scene-font-katari'>広大な砂漠が広がっていた。</span>,<span class='scene-font-katari'>欧根眼前是一片看不到尽头的广阔的沙漠。</span>
+11,But how're we gonna find something like that in all this sand?,この中から、<br>どうやって見つけろってんだ……？,要怎样才能在这种地方找到啊？
+12,"If we put our heads together, I know we'll find it!",み、皆で頑張れば、<br>きっと見つかるはずです！,大家一起想办法的话一定能找到的！
+13,Let's get back to the city and figure out a strategy from there.,これからの方針を決めるためにも、<br>ひとまずいまは街に戻りましょう。,为了决定之后的行动方针，暂且先回城内吧。
+info,1,1,scene_cp71_q2_s10

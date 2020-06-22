@@ -1,0 +1,51 @@
+id,en,jp,trans
+0-chapter_name,71: Captivating Truth,第71章　囚われの真実,第71章囚禁的真实
+0-synopsis,"Freesia explains that a copy of the map piece was once given to 姬塔's father. However, she refuses to give any more information, vowing revenge.",<span class='scene-font-spword'>空図の欠片</span>の情報を求め、投獄されているフリーシアの元を訪れた姬塔一行。フリーシアは、<span class='scene-font-spword'>空図の欠片</span>を求めかつて姬塔の父もエルステを訪ねてきたことを明かし、エルステに<span class='scene-font-spword'>空図の欠片</span>が確かに存在することを示唆する。しかし、フリーシアは自らの野望を阻んだ憎き宿敵である姬塔一行への復讐を誓い、<span class='scene-font-spword'>空図の欠片</span>の在り処について、口を割ることはなかったのだった。,姬塔等人为了取得<span class='scene-font-spword'>空图碎片</span>的情报而来到了关押芙莉西雅的监狱。芙莉西雅提到了姬塔的父亲曾经为了空图碎片也来过埃尔斯特，这也暗示了埃尔斯特确实存在<span class='scene-font-spword'>空图碎片</span>。但是，芙莉西雅对于阻止了自己野心的宿敌们心中只剩下了憎恨与复仇，她没有透露任何一点关于<span class='scene-font-spword'>空图碎片</span>所在之处的信息。
+0,...,…………,…………
+1,...,…………,…………
+2,"姬塔 and company are visiting Freesia, who may know of the whereabouts of the Erste map piece.",<span class='scene-font-katari'>エルステが星の民から預けられた</span><br><span class='scene-font-spword'>空図の欠片</span><span class='scene-font-katari'>を探すため、</span><br><span class='scene-font-katari'>フリーシアに面会する姬塔一行。</span>,<span class='scene-font-katari'>为了寻找埃尔斯特从星之民那里取得的</span><span class='scene-font-spword'>空图碎片</span><span class='scene-font-katari'>，姬塔等人与芙莉西雅会面了。</span>
+3,"Although imprisoned, Freesia's eyes flash with an eagerness that has remained undaunted since their last meeting.",<span class='scene-font-katari'>投獄されてなお、</span><br><span class='scene-font-katari'>フリーシアの瞳から</span><br><span class='scene-font-katari'>野望の光が消えることはなかった。</span>,<span class='scene-font-katari'>即便是被囚禁的状态，芙莉西雅的眼神中仍然还包含着野心。</span>
+4,So it's you. What business do you have with me now?,貴様らか……<br>いまさら私に何の用です？,是你们啊……事到如今来找我还有什么事吗？
+4-sel1_txt,How are you?,<span class='scene-font-katari'>元気？</span>,还精神吗？
+4-sel2_txt,We have a question to ask.,<span class='scene-font-katari'>聞きたいことがある</span>,有一些想要打听的事
+5,"Ha. Fine, fine of course.",はっ……<br>ええ……ええ、もちろんです。,诶……当然了。
+6,"I'm a living disgrace, just as you wished. Are you happy now?",貴方達の望んだ通り、いまもこうして、<br>私は生き恥を曝しています……<br>こう言えば満足ですか？,如你们所愿，我现在还这幅模样屈辱地苟活于世，这么说你们满足了吗？
+7,"Hey, I think we might've hit a touchy topic here...",おい……余計なこと聞くから、<br>すっげー空気悪く<br>なっちまったじゃねーか……,喂……听到这些多余的话，谈话的气氛不是更糟糕了吗。
+8,"Freesia, we've come here to ask you a question.",フリーシア……<br>私達は君に尋ねたいことがあって、<br>ここまで来たんだ。,芙莉西雅，我们是有要向你询问的事情才来到这里的。
+9,Oh? And just what would you like to ask all the way out here in the middle of the desert?,ほう……<br>わざわざこの辺境の砂漠に<br>足を運んでまで、いったいなにを……？,哦？特意来到如此边远的沙漠也要问我的事，到底是什么呢？
+10,It's about the piece of sky map the Astrals gave to Erste.,かつてエルステが星の民から預かった、<br><span class='scene-font-spword'>空図の欠片</span>についてだ。,是关于过去埃尔斯特从星之民那里得到的<span class='scene-font-spword'>空图碎片</span>的事情。
+11,I can't promise you I'll answer.,答えるかどうかを<br>約束するつもりはありませんが……,我可不保证自己会不会回答你们。
+12,But what could you possibly want to know to warrant coming all the way here?,わざわざ私の元にまで来て、<br>いったい何を知りたいというのですか？,特意来到这里来找我，到底是想知道些什么？</span>
+13,We're looking for the piece of the sky map the Astrals gave to Erste.,私達はいま、<br>エルステが星の民から預かった<br><span class='scene-font-spword'>空図の欠片</span>を探しているんです。,我们目前正在寻找埃尔斯特从星之民那里取得的<span class='scene-font-spword'>空图碎片</span>。</span>
+14,A piece of the sky map?,<span class='scene-font-spword'>空図の欠片</span>……？,<span class='scene-font-spword'>空图碎片</span>……？
+15,"Freesia looks intensely at the faces of the crew, as if inspecting each one.",<span class='scene-font-katari'>そう呟くとフリーシアは、</span><br><span class='scene-font-katari'>姬塔一行の顔を、</span><br><span class='scene-font-katari'>ひとりひとり検分するように見つめる。</span>,<span class='scene-font-katari'>芙莉西雅如此嘟囔着，然后她像是盘查一般一个一个地扫过姬塔等人的脸。</span>
+16,...,…………,…………
+17,Her gaze stops at 姬塔.,<span class='scene-font-katari'>そうしてフリーシアの視線は、</span><br><span class='scene-font-katari'>ちょうど姬塔のところで、</span><br><span class='scene-font-katari'>止まったのだった。</span>,<span class='scene-font-katari'>芙莉西雅的目光落在姬塔身上时，她停了下来。</span>
+18,Don't tell me... You're his child?,お前……まさか、あの男の……？,你难道是那个男人的……？
+19,Does that mean you know 姬塔's dad?,もしかして、<br>親父さんを知ってんのか？,难道你也认识老爹吗？
+20,"Once, when the queen was still alive, a crew of skyfarers visited the Palace of Elijah Chelm.",かつて……まだあのお方が健在だった頃、<br>一つの騎空団が<br>エリヤ・ヘルム宮殿を訪ねてきました。,曾经那位大人还健在的时候，某个骑空团来访过埃利亚·海姆宫。
+21,"I don't know how they'd heard about it, but they asked about the map piece. Just like you.",どこで聞きつけたのかわかりませんが、<br>いまの貴方達と同じように、<br><span class='scene-font-spword'>空図の欠片</span>を知らないか、と……,不知道他们是在哪里听说的这件事，但是他们和你们一样来询问了<span class='scene-font-spword'>空图碎片</span>的事。
+22,"Feeling a bit nostalgic, Freesia continues speaking on the past.",<span class='scene-font-katari'>過去を懐かしむように、</span><br><span class='scene-font-katari'>フリーシアは話を続ける。</span>,<span class='scene-font-katari'>芙莉西雅一边怀念着过去，一边说道。</span>
+23,"A piece of the sky map, huh... Evidence of Erste's fealty to the Astrals was something that could never be acknowledged.",<span class='scene-font-spword'>空図の欠片</span>……<br>星の民への恭順の証は、<br>決して表に出すわけにはいかなかった。,<span class='scene-font-spword'>空图碎片</span>……作为恭顺于星之民的证明，是决不能示之于人的东西。
+24,"But she...<br>Her Majesty Queen Viola, handed it over to that crew.",しかし、あのお方……<br>ヴィオラ女王陛下は、<br>その騎空団に<span class='scene-font-spword'>空図の欠片</span>を渡したのです。,但是那位大人……薇奥拉女王陛下却把<span class='scene-font-spword'>空图碎片</span>交付给了他们。
+25,She thought that being ashamed of the past and denying history left no hope for the future.,過去を恥じていては、<br>歴史を認めないのでは、<br>未来は訪れない、と……,那位大人认为如果耻于过去而否认历史，是绝不会有未来的。
+26,"Even if the map piece was proof of Erste's submission to the Astrals, she never regretted her actions.",それが、星の民にエルステが屈服した<br>証だとしても、<br>決して恥じることなく……,即便那是埃尔斯特屈服于星之民的证明，也绝不是什么需要藏着掖着的东西。
+27,So that means 姬塔's dad has the map piece now?,じゃ、じゃあ、<br>エルステの<span class='scene-font-spword'>空図の欠片</span>は、<br>いまは親父さんが持ってんのか……？,那么现在埃尔斯特的<span class='scene-font-spword'>空图碎片</span>是在老爹那里吗？
+28,"Yes, in a manner of speaking.",あの男も持っている、<br>と言ったほうが正しいでしょう。,更准确地说，是那个人也有。
+29,"A map piece, like a primal beast, can divide itself as long as the main source still exists.",<span class='scene-font-spword'>空図の欠片</span>は星晶獣と同じように、<br>本体を残しながら、<br>自らの存在を分かつことが出来ますから。,<span class='scene-font-spword'>空图碎片</span>和星晶兽是一样的，只要本体还存在，就能将自己存在的一部分分离出来。
+30,So you mean it can make copies of itself from the original?,ってぇことはつまり、<br>分身っつーか、<br>本体から複製を作れるってことか？,这意味着分身或者说是可以从本体制作出复制品的意思吗？
+31,Then that means the original piece should still be here on the island!,それなら、<br>エルステの<span class='scene-font-spword'>空図の欠片</span>の本体は、<br>まだこの島にあるはずよね！,如果是这样的话，埃尔斯特<span class='scene-font-spword'>空图碎片</span>的本体应该还留在这个岛上吧！
+32,姬塔 and company grow excited by this new revelation.,<span class='scene-font-katari'>見出した希望に、</span><br><span class='scene-font-katari'>姬塔一行は色めき立つ。</span>,<span class='scene-font-katari'>众人再次有了希望，松了口气。</span>
+33,But Freesia breaks in with a cold voice.,<span class='scene-font-katari'>しかし、そんな姬塔一行に、</span><br><span class='scene-font-katari'>フリーシアは冷たい声を投げかける。</span>,<span class='scene-font-katari'>然而芙莉西雅却泼了一盆冷水。</span>
+34,What are you so happy about?,何を……喜んでいるのですか？,你们在高兴些什么呢？
+35,Huh? But you just said that the map piece is here.,え？<br>だって、<span class='scene-font-spword'>空図の欠片</span>が<br>ちゃんとこの島にあるって……,什么？因为<span class='scene-font-spword'>空图碎片</span>还在这个岛上啊……
+36,"Oh yes. A piece of the sky map is somewhere on this island, no doubt.",そうですね……<br><span class='scene-font-spword'>空図の欠片</span>は間違いなく、<br>この島のどこかにあることでしょう。,说的没错呢。<span class='scene-font-spword'>空图碎片</span>毫无疑问还在这座岛上的某个地方。
+37,"Oy, oy, give us a break here. Don't tell me you're keepin' yer lips sealed now!",お、おいおい……勘弁してくれ。<br>まさか場所は教えねぇ、<br>ってんじゃあねぇよな……？,喂喂，饶了我吧，不会是不告诉我们在哪吧？
+38,And why should I cooperate with the likes of you?,なぜ……私が貴様らに協力をすると？,为什么会觉得我会与你们协力呢？
+39,I will never forgive you. You ruined my plans. You defied me in every way.,私は絶対に貴様らを許しはしない。<br>私の計画を阻んだ貴様らを……<br>私の全てを否定した貴様らを……,我永远不会原谅你们，阻止了我的计划……否认了我所有的你们……
+40,"You might have spared my life, but I shall spend it making you pay.",そして、私を生かし続ける貴様らを、<br>貴様らが救った命の<br>全てをかけて復讐しましょう。,而且只要我还活着，我就会赌上你们所救下来的这条命的全部向你们复仇。
+41,...,…………,…………
+42,Mark my words. I will have my revenge.,必ず……必ずだ。<br>私はお前達に復讐する。,一定要…一定要…向你们复仇。
+43,"And until that day, may you wander the desert in search of your precious map piece.",せいぜいそのときまで、<br><span class='scene-font-spword'>空図の欠片</span>を探して、<br>この砂漠を彷徨い続けることです……,到那时为止你们就好好彷徨在这个大沙漠中寻找<span class='scene-font-spword'>空图碎片</span>去吧。
+44,姬塔 and company can only stare as a tranquil smile spreads slowly across her face.,<span class='scene-font-katari'>フリーシアは</span><br><span class='scene-font-katari'>姬塔一行にそう告げると、</span><br><span class='scene-font-katari'>穏やかな笑みを浮かべるのだった。</span>,<span class='scene-font-katari'>芙莉西雅对姬塔等人这么说着，脸上浮现了一种异样平静的笑容。</span>
+info,1,1,scene_cp71_q1_s10

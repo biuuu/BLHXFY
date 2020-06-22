@@ -1,8 +1,0 @@
-﻿id,name,detail
-npc,蕾‧芬耶,3040004000
-special,第七伤痛,光属性伤害(特大)/我方全体获得幻影效果(1次)
-skill-1,宝石之镜,<div class=prt-text-small>反击效果(回避/3次)/光属性追击效果<br><span class=text-blue>◆追击至受伤时停止</span></div>
-skill-2,光耀之炎,对敌方全体造成光属性伤害/光属性防御DOWN
-skill-3,再生,我方全体获得活性效果
-support-1,辉耀之结界,防御UP
-skill-lb,LB技能,我方全体回复力UP

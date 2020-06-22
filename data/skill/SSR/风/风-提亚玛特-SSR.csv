@@ -1,0 +1,11 @@
+id,name,detail
+npc,提亚玛特,3040152000
+special,高空群袭,风属性伤害(特大)/自身三连击率UP
+special-乱壊のテンペスト,乱坏之飓风,风属性伤害(特大)/效果时间内自己必定三连击/赋予自己狂风的刻印
+skill-1,丰收之风,<div class=prt-text-small>我方全体攻防UP/奥义槽上升量UP　<span class=text-blue>◆消耗10%奥义槽</span></div>
+skill-2,撕裂风暴,<div class=prt-text-small>对敌方全体造成风属性伤害/攻击DOWN　<span class=text-blue>◆对攻击DOWN状态的敌人，伤害上限UP</span></div>
+skill-3,风之斗篷,我方全体免疫弱化效果(1次)/获得幻影效果(1次)
+support-1,风之守护者,自身附有幻影效果时，攻击性能UP
+support-2,魂之指引,对土属性敌人的伤害UP
+skill-lb,LB技能,自身无弱化效果时，三连击率UP
+intro,风之守护者,

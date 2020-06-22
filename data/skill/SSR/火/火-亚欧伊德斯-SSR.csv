@@ -1,0 +1,8 @@
+﻿id,name,detail
+npc,亚欧伊德斯,3040076000
+special,Heavens On Fire,火属性伤害(特大)/自身获得高昂效果
+skill-1,Judgment Night,自身获得高昂效果
+skill-2,Bloody Garden,自身连击率UP/敌对心大幅UP
+skill-3,Legendary Warriors,我方全体获得高昂效果
+support-1,Killing Wing,有极小概率进行反击(回避/1次)
+skill-lb,LB技能,普攻时有概率赋予自身高昂效果

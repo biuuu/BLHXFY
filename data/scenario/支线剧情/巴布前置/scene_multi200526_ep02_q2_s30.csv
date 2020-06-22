@@ -1,0 +1,93 @@
+id,name,text,trans
+0-chapter_name,,混沌の再来・後編,混沌的再来・后篇
+0-synopsis,,倒されたベルゼバブは空の底へ消える。その後、落下するパンデモニウムを止める術がなく苦悩する一行だったが、突如眩い光と爆発音が響きパンデモニウムが消滅する。ヘレル・ベン・サハルとヘレル・ベン・シャレム、ふたりの預言者が強大な力でパンデモニウムを破壊したのだ。こうして空の世界の脅威は去ったが、また新たなる試練が忍び寄ろうとしているのだった。,被打倒的别西卜消失在了空底。之后，一行人为没有阻止伏魔殿下落的手段而苦恼之时，炫目光芒突然亮起，随着响亮的爆炸声，伏魔殿被消灭了。赫莱尔・本・沙哈尔和赫莱尔・本・夏蕾姆，两位预言者用强大的力量破坏了伏魔殿。虽然空之世界的威胁因此被退治，但新的试炼正悄然袭来。
+1,ベルゼバブ,ぬ、ぐぅ……！<br><span class='scene-font-4'>貴様等ァッ！！</span>,唔、咕……！<br><span class='scene-font-4'>你们——！！</span>
+3,サンダルフォン/圣德芬,<span class='scene-font-4'>姬塔っ！</span>,<span class='scene-font-4'>姬塔！</span>
+8,,<span class='scene-font-katari'>飛び上がるサンダルフォンの</span><br><span class='scene-font-katari'>声に応え、姬塔が</span><br><span class='scene-font-katari'>前に出て斬りかかる。</span>,<span class='scene-font-katari'>回应着展翅飞起的圣德芬</span><br><span class='scene-font-katari'>姬塔冲向前方斩击而下。</span>
+9,ベルゼバブ,おのれ……！,可恶……！
+19,サンダルフォン/圣德芬,これで終わらせてやる……！,用这招终结你……！
+20,サンダルフォン/圣德芬,──パラダイス・ロスト！,——Paradise・Lost！
+23,ベルゼバブ,<span class='scene-font-4'>特異点！</span><br><span class='scene-font-4'>サンダルフォンンンッ！！</span>,<span class='scene-font-4'>特异点！</span><br><span class='scene-font-4'>圣德芬——！！</span>
+24,ベルゼバブ,何故、余がまたっ……！,为什么，我又……！
+25,ベルゼバブ,<span class='scene-font-4'>ぬぁああああ──！！</span>,<span class='scene-font-4'>呃啊啊啊啊啊──！！</span>
+35,,<span class='scene-font-katari'>ベルゼバブの断末魔の叫びは尾を引き、</span><br><span class='scene-font-katari'>やがて、空の底へと消えていった。</span>,<span class='scene-font-katari'>别西卜绝望的叫喊拖出了尾音，</span><br><span class='scene-font-katari'>最终消失在了空底。</span>
+41,サンダルフォン/圣德芬,はぁ、はぁ……！,哈、哈……！
+42,ルリア/露莉亚,すごい……勝ちました！,好厉害……赢了呢！
+44,ビィ/碧,うおっ！？,唔哦！？
+45,カリオストロ/卡莉奥斯特萝,喜んでる場合じゃねぇ……<br>いよいよパンデモニウムが限界だ。<br>急いでグランサイファーに戻れ！,现在可不是高兴的时候……<br>伏魔殿终于要到界限了。<br>快点回格兰赛法上！
+46,ビィ/碧,チクショー！,可恶！
+50,ルリア/露莉亚,きゃっ！,呀！
+52,,<span class='scene-font-katari'>揺れる瓦礫に足を取られたルリアを</span><br><span class='scene-font-katari'>姬塔が支え、</span><br><span class='scene-font-katari'>甲板へ通じる梯子へと背中を押す。</span>,<span class='scene-font-katari'>姬塔支撑住了差点被落下的瓦砾</span><br><span class='scene-font-katari'>绊倒的露莉亚，</span><br><span class='scene-font-katari'>将她推向了通往甲板的梯子。</span>
+54,ルリア/露莉亚,ご、ごめんなさい……<br>ありがとうございます！,对、对不起……<br>谢谢！
+55,,<span class='scene-font-katari'>その時──</span>,<span class='scene-font-katari'>就在那时──</span>
+58,ルリア/露莉亚,あっ……！,啊……！
+59,,<span class='scene-font-katari'>姬塔の足元が崩れ、</span><br><span class='scene-font-katari'>その指先が空を切った。</span>,<span class='scene-font-katari'>姬塔的脚边崩塌，</span><br><span class='scene-font-katari'>手指划过了天空。</span>
+60,ルリア/露莉亚,いや──！,不要——！
+61,ビィ/碧,<span class='scene-font-4'>姬塔ーっ！</span>,<span class='scene-font-4'>姬塔ー！</span>
+62,サンダルフォン/圣德芬,っ！,唔！
+69,,<span class='scene-font-katari'>パンデモニウムの頂上から投げ出された</span><br><span class='scene-font-katari'>姬塔の手を</span><br><span class='scene-font-katari'>サンダルフォンが掴む。</span>,<span class='scene-font-katari'>圣德芬抓住了</span><br><span class='scene-font-katari'>从伏魔殿顶端坠落的</span><br><span class='scene-font-katari'>姬塔的手。</span>
+70,サンダルフォン/圣德芬,っ……はぁ。<br>危ないところだったな。,……呼。<br>真是千钧一发啊。
+70-sel1_txt,,<span class='scene-font-katari'>ありがとう</span>,<span class='scene-font-katari'>谢谢</span>
+70-sel2_txt,,<span class='scene-font-katari'>いつかの逆だ</span>,<span class='scene-font-katari'>和某一次正好相反</span>
+70-sel3_txt,,<span class='scene-font-katari'>華奢な指だ</span>,<span class='scene-font-katari'>纤细的手指</span>
+71,サンダルフォン/圣德芬,礼には及ばない。<br>ちゃんと掴まれ。,不用道谢。<br>好好抓紧。
+72,サンダルフォン/圣德芬,ああ……そうだな。<br>今はナイトサイファーも間に合わない。<br>俺に羽があってよかったな。,是啊……确实如此。<br>现在就算是奈特赛法也赶不上吧。<br>我有翅膀真是太好了。
+74,サンダルフォン/圣德芬,ぐ……<br>離したりしない！<br>頼むからそれはもうやめてくれ。,咕……<br>我不会松手的！<br>算我求你了别再提那件事了。
+75,サンダルフォン/圣德芬,それに今は、<br>君の軽口を聞いている<br>場合ではないぞ。,而且现在可不是听你开玩笑的时候。
+79,ルリア/露莉亚,大丈夫ですか！？,没事吧！？
+80,ビィ/碧,びっくりさせんなよぉ……！,别吓我们啊……！
+81,,<span class='scene-font-katari'>サンダルフォンによって無事に</span><br><span class='scene-font-katari'>グランサイファーの甲板へと戻された</span><br><span class='scene-font-katari'>姬塔の元に仲間達が駆け寄る。</span>,<span class='scene-font-katari'>姬塔被圣德芬平安地</span><br><span class='scene-font-katari'>带回了格兰赛法的甲板上，</span><br><span class='scene-font-katari'>同伴们也朝这里跑了过来。</span>
+82,ルリア/露莉亚,良かった、良かったです……！,太好了，真是太好了……！
+83,カリオストロ/卡莉奥斯特萝,とは言え、状況はまだ最悪だ。<br>なにせ世界が<br>終わろうとしてんだからな。,虽然如此，现在还是最糟糕的情况。<br>毕竟世界快要灭亡了。
+84,カリオストロ/卡莉奥斯特萝,何か方法はねぇのか……？<br>考えろ……何か……,就没有什么方法吗……？<br>快想啊……有没有什么……
+86,サンダルフォン/圣德芬,くっ……<br>何もできないのか……！？,可恶……<br>什么都做不到吗……！？
+87,サンダルフォン/圣德芬,空の世界を守ると<br>約束したのに……<br>ルシフェル様、俺は……！,明明约好了要保护空之世界……<br>路西菲尔大人，我……！
+89,？？？,……はぁ。,……哈。
+90,？？？,ふむ……,唔姆……
+91,？？？,…………,…………
+97,カリオストロ/卡莉奥斯特萝,っ、何の光だ……！？,这道光是……！？
+98,サンダルフォン/圣德芬,どこから……！？,从哪里……！？
+99,,<span class='scene-font-katari'>突如、辺りに満ちた光の中、</span><br><span class='scene-font-katari'>姬塔達は誰もが</span><br><span class='scene-font-katari'>目が眩んで視界を失う。</span>,<span class='scene-font-katari'>在突然遍布周边的光芒中，</span><br><span class='scene-font-katari'>姬塔一行人全都失去了视力。</span>
+101,？？？,パラダイス・ロスト！,Paradise・Lost！
+102,？？？,ケイオス・レギオン！,Chaos・Legion！
+118,ルリア/露莉亚,きゃっ！？,呀！？
+119,ビィ/碧,艇が揺れるぞ！<br>掴まれぇ！！,船在摇晃！<br>抓稳了！！
+120,サンダルフォン/圣德芬,くっ、何が……！？,咕，怎么……！？
+127,,<span class='scene-font-katari'>眩い閃光、轟音、</span><br><span class='scene-font-katari'>そして湧き上がる猛煙。</span>,<span class='scene-font-katari'>炫目的闪光，爆炸音，</span><br><span class='scene-font-katari'>以及喷涌而起的浓烟。</span>
+129,,<span class='scene-font-katari'>そして、煙が晴れた後、</span><br><span class='scene-font-katari'>姬塔達の</span><br><span class='scene-font-katari'>視界に映ったのは……</span>,<span class='scene-font-katari'>最终，当烟尘散去后，</span><br><span class='scene-font-katari'>出现在姬塔等人视线中的是……</span>
+130,ビィ/碧,おいおい……<br>どういうことだ！？,喂喂……<br>究竟是怎么回事啊！？
+131,サンダルフォン/圣德芬,パンデモニウムが、ない……？,伏魔殿，不见了……？
+132,ルリア/露莉亚,消えちゃいました……！,消失了……！
+133,カリオストロ/卡莉奥斯特萝,いや、よく見ろ。,不，看仔细了。
+134,カリオストロ/卡莉奥斯特萝,残骸がわずかに残ってる。<br>どうやら、木っ端微塵に<br>なったらしいな……,还留着些许残骸。<br>看样子，是直接粉碎掉了……
+135,サンダルフォン/圣德芬,パンデモニウムを？<br>あの質量が一瞬で消し飛ぶなど、<br>いったい何が……！？,把伏魔殿给？<br>居然能将那个质量一瞬间就全部消灭，<br>究竟是……！？
+136,サンダルフォン/圣德芬,自壊するとも思えん……<br>誰かが、やったということか……？,我不觉得这是自我毁灭……<br>也就是说，是谁做的吗……？
+137,カリオストロ/卡莉奥斯特萝,オレ様じゃあないし、お前でも、<br>姬塔でもない……<br>今はそれしかわからねぇな。,并不是本大爷，<br>也不是你，更不是姬塔……<br>现在也只明白这些。
+138,サンダルフォン/圣德芬,……だが、ひとつ確かなのは<br>これで次元の境界は<br>守られたということだ。,……但是，有一点可以确认，<br>那就是次元的境界被保住了。
+139,ルリア/露莉亚,それじゃあ、<br>世界はもう大丈夫なんですよね……？,那么，<br>世界已经不要紧了吧……？
+140,サンダルフォン/圣德芬,当面、<br>危機は去ったと考えて良いだろう。,目前来说，<br>可以看作已经顺利度过危机了吧。
+141,ルリア/露莉亚,はぁ……良かったです！,哈……那就太好了！
+142,ビィ/碧,まぁひと安心はしたけどよぉ……<br>何だかスッキリしねぇなぁ。,虽然姑且是安心了……<br>总感觉有些不清不楚的。
+143,カリオストロ/卡莉奥斯特萝,珍しく気が合うな。<br>また新しい問題事の<br>始まりじゃなきゃいいが……,难得意见一致啊。<br>别是什么新的麻烦的开端就好了……
+144,サンダルフォン/圣德芬,…………,…………
+150,ヘレル・ベン・サハル,危ないところでしたね。<br>君の写身にも困ったものだ。,真是千钧一发呢。<br>你的复制品也真是让人困扰。
+151,ヘレル・ベン・シャレム,わたちの所為だとでも言いたいのか？,你想说是我的错吗？
+152,ヘレル・ベン・サハル,とんでもない。<br>そんなことは言っていませんよ。,这怎么会。<br>我没有那么说哦。
+153,ヘレル・ベン・シャレム,フン……まぁいい。<br>それにしても、良かったのか？,哼……算了。<br>话说回来，这样好吗？
+154,ヘレル・ベン・シャレム,わたちはともかく、オマエは基本的に<br>世界には不干渉、静観が<br>スタイルだっただろう。,先不论我，<br>你基本都是保持对世界不干涉，<br>一直静观的态度的吧。
+155,ヘレル・ベン・サハル,ええ……けれど、今回ばかりは<br>私も看過できなかった。,是呢……但只有这次，<br>即使是我也无法袖手旁观。
+156,ヘレル・ベン・サハル,世界の因果の崩壊だけは<br>避けなければならない。,世界的因果的崩坏，<br>只有这个是一定要避免的。
+157,ヘレル・ベン・シャレム,それも全て、あの御方のためか……,这也全都，是为了那位大人吗……
+158,ヘレル・ベン・サハル,当然です。<br>私はその為に存在している。,当然。<br>我就是因此而存在的。
+159,ヘレル・ベン・シャレム,……それはともかく、<br>残ってしまった瑕はどうするのだ？,……先不管那个，<br>残留下的伤痕该怎么办？
+160,ヘレル・ベン・サハル,ああ、そうですね……,说来也是……
+168,ヘレル・ベン・サハル,不可逆な因果の歪みが<br>空の世界に残ってしまった……,不可逆的因果歪曲<br>留在了空之世界之中……
+169,ヘレル・ベン・サハル,やはり、混沌の力は脅威です。,果然，混沌的力量是威胁。
+170,ヘレル・ベン・シャレム,わたち自身の写身とは言え、<br>あんな力を身につけていたとはな……<br>ガチムチになってるし……,虽然说是我的复制品，<br>没想到居然得到了那种力量……<br>还变得浑身肌肉……
+171,ヘレル・ベン・シャレム,ともかく、暫くは<br>このまま静観するしかあるまい。,总之，<br>现在也只能静观其变了。
+172,ヘレル・ベン・サハル,ええ。<br>彼らがどう出るか、も<br>観察しなければ。,是啊。<br>他们会如何行动，<br>也要好好观察。
+173,ヘレル・ベン・サハル,全ては、主の御心のままに──,一切，都遵循吾主的意愿——
+174,,<span class='scene-font-katari'>姬塔達の戦いと</span><br><span class='scene-font-katari'>謎の力によって、</span><br><span class='scene-font-katari'>一度は去った空の世界の脅威。</span>,<span class='scene-font-katari'>由于姬塔他们的战斗</span><br><span class='scene-font-katari'>和谜样的力量，</span><br><span class='scene-font-katari'>空之世界的威胁暂时退去。</span>
+175,,<span class='scene-font-katari'>だが、また新たなる試練が</span><br><span class='scene-font-katari'>忍び寄ろうとしているのだった。</span>,<span class='scene-font-katari'>然而，还有全新的试炼</span><br><span class='scene-font-katari'>正在悄然袭来。</span>
+info,,,scene_multi200526_ep02_q2_s30
+译者,,,翻译：清羽

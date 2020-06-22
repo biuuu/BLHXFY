@@ -1,0 +1,15 @@
+﻿id,name,detail
+npc,斯卡哈,3040122000
+special,风纹之刺,风属性伤害(特大)/下一次发动的威力传说的性能UP
+special-リアタルマ,利亚塔尔马,风属性伤害(特大)/下一次发动的威力传说的性能UP/可即时使用
+special-Lia Talma,利亚塔尔马,风属性伤害(特大)/下一次发动的威力传说的性能UP/可即时使用
+skill-1,蒂亚多拉的加护,我方全体风属性攻击UP
+skill-1++,蒂亚多拉的加护,我方全体风属性攻击UP/净化我方全体1个弱化效果
+skill-2,威力传说,对敌方单体造成风属性伤害 <span class=text-blue>◆自身HP越少，伤害越高</span>
+skill-2++,威力传说,<div class=prt-text-small>对敌方单体造成风属性伤害/赋予自己逆境效果<br><span class=text-blue>◆自身HP越少，攻击力越高</span></div>
+skill-3,龙之心,我方单体获得屏障效果(效果量为自身25%MHP，最大5000)<span class=text-blue>◆消耗自身25%MHP</span>
+support-1,真龙的勾爪,对土属性敌人伤害20%UP
+support-2,久远的睿智,风属性攻击UP效果中，自身攻击30%UP/连击率UP
+support-2+,久远的睿智,<div class=prt-text-small>风属性攻击UP效果中，自身攻击30%UP/连击率UP/赋予有屏障效果的我方成员10%风属性追击效果</div>
+skill-lb,LB技能,风属性攻击UP效果中，回避率UP
+intro,护国真龙,真龙与人类签订契约，自与星之民争斗的时代起就在阿尔斯塔岛上闭门不出。在经历了可以认为是永远的孤独后，她开始于人类交流，并且被激起了好奇心。解放那如风一般自由的内心的时刻到了。

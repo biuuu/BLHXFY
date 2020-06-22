@@ -1,9 +1,0 @@
-﻿id,name,detail
-npc,安苏莉娅,3040103000
-special,火红热情,火属性伤害(特大)/回避率UP
-skill-1,狂舞,自身回避率UP/敌对心UP
-skill-2,魅惑舞步,我方全体获得高昂效果<span class=text-blue>◆自身回避成功时，我方全体获得1层攻击强化效果</span>
-skill-3,迷情,敌方全体连击率DOWN/我方全体获得屏障效果<span class=text-blue>◆自身回避成功时，回复我方全体HP</span>
-support-1,火之舞步,自身回避率UP
-skill-lb,LB技能,回避成功时攻击力UP(累积)
-intro,,红衣红发缠其身，可怜少女舞其真。其舞若赤炎，见者皆醉。红颜似火，峨眉具落。借游离祸水，寻如意之人。

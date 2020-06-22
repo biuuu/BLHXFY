@@ -1,9 +1,0 @@
-﻿id,name,detail
-npc,兰斯洛特,3040140000
-special,誓约之翼,风属性伤害(特大)/获得风属性追击效果
-skill-1,剑风,对敌方单体造成风属性伤害/技能伤害UP(累积)
-skill-2,涡流,<div class=prt-text-small>对敌方全体造成风属性伤害/防御DOWN(累积)/双连击率DOWN</div>
-skill-3,白龙骑士团,我方全体连击率UP/获得风属性追击效果
-support-1,护国双剑,对土属性敌人伤害UP
-support-2,白龙骑士团团长,附有追击效果时，奥义性能UP
-skill-lb,LB技能,附有追击效果时，三连击率UP

@@ -1,0 +1,13 @@
+﻿id,name,detail
+npc,蕾娜,3040021000
+special,烂漫花园,风属性伤害(特大)
+special-ル・アンフェー・デ・フルール,苦痛花狱,<div class=prt-text-small>风属性伤害(特大)/赋予敌人魔生花效果<br>◆随魔生花层数强化奥义性能</div>
+special-L'Enfer des Fleurs,苦痛花狱,<div class=prt-text-small>风属性伤害(特大)/赋予敌人魔生花效果<br>◆随魔生花层数强化奥义性能</div>
+skill-1,寒风中的花簇,对敌方全体造成风属性伤害/中毒效果
+skill-2,复生,回复我方全体HP/获得再生效果
+skill-2++,复生,回复我方全体HP/获得活性效果/净化我方全体1个弱化效果
+skill-3,希望,净化我方全体1个弱化效果
+skill-4,勿忘我,复活我方1名同伴
+support-1,魔生花之楔,弱化效果抗性UP
+support-2,寄生木,吸收中毒状态敌人的HP
+skill-lb,LB技能,对弱化效果「技能封印」的抗性UP

@@ -1,0 +1,15 @@
+﻿id,en,jp,trans
+0-chapter_name,75: Trial of Ice and Wind,第75章　極地の試練,第75章极地的试炼
+0-synopsis,"The woman stands surrounded by monsters. But without any weapons or other gear, her presence on the harsh mountain seems curious.",魔物達に襲われていたのは、武器と呼べる物を身に着けていない一人の女性だった。巨大な魔物達が跋扈する白風の境を歩くとは思えないその装備に首を傾げつつも、姬塔らは女性を襲う魔物達へと立ち向かう。,被魔物袭击的是一名完全没有携带任何武器的孤身一人的女性。众人对这名女性完全不像是在这个巨大魔物横行的白风之境中所应有的穿着的女性感到惊讶，然后面向袭击这位女性的魔物群。
+1,Eep...,ひっ……<br>ああ……,ひっ……ああ……
+2,Grrr...,グルルル……,咕噜噜噜噜！
+3,"姬塔 and the crew rush toward the source of a scream on Silverwind Stretch, previously presumed to be uninhabited.",<span class='scene-font-katari'>人が居ないはずの</span><span class='scene-font-place'>白風の境</span><span class='scene-font-katari'>において、</span><br><span class='scene-font-katari'>悲鳴を聞き駆けつけた<br>姬塔一行。</span>,<span class='scene-font-katari'>在这个无人居住的</span><span class='scene-font-place'>白风之境</span><span class='scene-font-katari'>听到悲鸣声然后赶过去的姬塔等人。</span>
+4,They find a woman barely armed and surrounded by giant monsters.,<span class='scene-font-katari'>そこには、</span><br><span class='scene-font-katari'>ほとんど武装の無い女性がひとり、</span><br><span class='scene-font-katari'>巨大な魔物達に囲まれていた。</span>,<span class='scene-font-katari'>那里有一位几乎完全没有武装的女性被巨大的魔物们包围了。</span>
+5,"Whoa now, what's going on here?",おいおい……<br>こいつはいったいどういうことだ……？,喂喂，这家伙到底怎么回事呀？
+6,Are you sayin' that someone actually lives in the roughest place in Phantagrande?,ファータ・グランデ空域で<br>最も過酷と言われる<span class='scene-font-place'>白風の境</span>に、<br>実は人が住んでたってのか？,在法塔格兰德空域中环境最为严酷的这个<span class='scene-font-place'>白风之境</span>上难道有住民吗？
+7,"Judging from her clothes, she didn't come to explore Silverwind Stretch.",あの格好を見るに、<br><span class='scene-font-place'>白風の境</span>を調査に来た騎空士、<br>ということもないだろうな……,看到那个穿着，实在不像是来到<span class='scene-font-place'>白风之境</span>进行调查的骑空士呢。
+8,Everyone has their motives. Some may be harder to figure out than others is all.,人にはそれぞれ、<br>他人にはすぐにはわからない<br>事情があるものだわ。,人们各自都有他人无法理解的情况在的。
+9,Let's take care of these monsters first and figure out the rest later.,ひとまず、詳しいことは<br>魔物を倒してから聞いてみればいいわ。,首先，把魔物们都打倒再听她说说具体的吧。
+10,"She's cornered by those things. No matter how you look at it, she needs our help!",魔物に囲まれてるんだもん。<br>困ってるのは、<br>どこからどう見ても間違いないわよね！,因为她被魔物包围了啊！不管怎么看她都陷入困境的样子！
+11,"We can't leave her like this, so let's hurry and get rid of those beasts!",相手がどんな人だって、<br>放っておくなんて出来ないし、<br>早く魔物を片付けちゃいましょ！,不管她是谁，不可能放任不顾的，快点收拾掉这些魔物吧！
+info,1,1,scene_cp75_q3_s10

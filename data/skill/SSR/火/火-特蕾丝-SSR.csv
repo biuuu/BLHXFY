@@ -1,0 +1,8 @@
+﻿id,name,detail
+npc,特蕾丝,3040149000
+special,炎之漩涡,火属性伤害(特大)/自身奥义值UP(10%)
+skill-1,决斗,<div class=prt-text-small>进入决斗状态，自身三连击率UP/敌对心UP/回避率大幅UP</div>
+skill-2,印记,自身三连击率UP/获得火属性追击效果　<span class=text-blue>◆最大HP减少10%</span>
+skill-3,苍色短剑,<div class=prt-text-small>对敌方单体造成火属性伤害/自身其他技能可即时使用　<span class=text-blue>◆消耗全部奥义值</span></div>
+support-1,奢华战衣,自身HP越少，回避率越高
+skill-lb,LB技能,回避成功时攻击UP(累积)

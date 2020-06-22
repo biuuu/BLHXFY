@@ -1,0 +1,21 @@
+﻿id,name,detail
+npc,萨拉萨,3040032000
+special,宇宙分断,土属性伤害(特大)/切换到剑形态
+special-メテオ・スラスト,流星撞击,土属性伤害(特大)/切换到斧形态/追加造成999999无属性伤害
+special-アストロ・デストラクション,宇宙毁灭,土属性伤害(特大)/切换到剑形态/自己的土属性攻击UP
+special-アニヒレイション・ノヴァ,湮灭新星,土属性伤害(特大)/切换到斧形态/追加造成2次999999无属性伤害
+special-Meteor Thrust,流星撞击,土属性伤害(特大)/切换到斧形态/追加造成999999无属性伤害
+special-Astro Destruction,宇宙毁灭,土属性伤害(特大)/切换到剑形态/土属性攻击UP
+special-Annihilation Nova,湮灭新星,土属性伤害(特大)/切换到斧形态/追加造成2次999999无属性伤害
+special-backup,,<div class=prt-text-small>土属性伤害(特大)/追加999999点无属性伤害/切换形态/【终突后附加】追加伤害发动两次</div>
+skill-1,致命狂怒,<div class=prt-text-small>敌方土属性伤害/赋予自己逆境效果<br><span class=text-blue>斧:吸收效果<br>剑:通常攻击造成的伤害UP</span></div>
+skill-2,狂暴熔炉,<div class=prt-text-small>斧:反击效果(回避·3次)<br>剑:不经过回合进行通常攻击</div>
+skill-2++,狂暴熔炉,<div class=prt-text-small>必定三连击 <span class=text-blue>斧:敌对心UP/反击效果(回避·3次) <br>剑:土属性追击效果/不经过回合进行通常攻击上升</span></div>
+skill-3,原爆点,牺牲自身HP对敌全体造成无属性伤害/自身屏障效果
+skill-3+,原爆点,<div class=prt-text-small>牺牲自身HP对敌全体造成无属性伤害/自身屏障效果/土属性防御DOWN</div>
+skill-4,三寅之祝福,<div class=prt-text-small>自身可立即发动奥义/效果时间中每回合结束奥义值变为100%/攻击大幅度上升(当回合)<span class=text-blue>◆无法再次使用</span></div>
+support-1,怪力乱神,战斗开始时获得不死身效果（3次）
+support-1[90],怪力乱神,战斗开始时获得不死身效果（3次）/发动三连击时，第三击造成的伤害上升
+support-2,暴虎,对水属性敌人造成的伤害UP
+skill-lb,LB技能,普通攻击时有几率提升自身攻击
+intro,十天众,威胁着全空、号称最强的无双之兽，掌管着无垠的苍天的一切。她比任何人都了解自然的残酷，奉行弱肉强食之道。只为了不再失去一切。
