@@ -1,8 +1,12 @@
 ﻿id,name,detail
 npc,亚欧伊德斯,3040076000
-special,Heavens On Fire,火属性伤害(特大)/自身获得高昂效果
-skill-1,Judgment Night,自身获得高昂效果
+special,Heavens On Fire,火属性伤害(特大)/延长自己的激奏效果2回合
+special-Heavens On Misery,Heavens On Misery,火属性伤害(特大)/延长火属性角色的激奏效果2回合
+skill-1,Judgment Night,自身的激奏层数UP
+skill-1++,Judgment Night,<div class=prt-text-small>自身的激奏层数UP<br><span class=text-blue>◆根据激奏层数，自己的伤害上限UP/激奏为4时，激奏层数UP效果全体化</span></div>
 skill-2,Bloody Garden,自身连击率UP/敌对心大幅UP
-skill-3,Legendary Warriors,我方全体获得高昂效果
-support-1,Killing Wing,有极小概率进行反击(回避/1次)
-skill-lb,LB技能,普攻时有概率赋予自身高昂效果
+skill-2++,Bloody Garden,<div class=prt-text-small>自己的连续攻击率UP<br><span class=text-blue>◆根据激奏层数，连续攻击率UP的性能上升</span></div>
+skill-3,Legendary Warriors,我方全体的激奏层数UP
+support-1,Killing Wing,我方全体根据各自的“激奏”层数获得火属性追击效果
+support-2,Absolute Wall,<div class=prt-text-small>我方全体根据各自的“激奏”层数提升防御<span class=text-blue>◆激奏为4时，可抵消一次驱散效果（激奏会被消去）</span></div>
+skill-lb,LB技能,普攻时有概率提升自身的激奏层数

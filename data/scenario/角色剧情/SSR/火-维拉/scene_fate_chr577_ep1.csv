@@ -1,0 +1,60 @@
+id,name,text,trans
+0-chapter_name,,舞い踊る心,跃动的心
+0-synopsis,,<span class='scene-font-place'>アルビオン</span>の元領主として招待された舞踏会に、姬塔達と共に参加することになったヴィーラ。それぞれ正装に着替えた姬塔達は、会場となっている城内で緊張しつつも舞踏会を楽しみにしていた。そんな中、真っ赤なドレスに身を包んで現れたヴィーラは、ある決意を秘めて舞踏会に臨むのだった。,作为<span class='scene-font-place'>阿鲁比昂</span>的原领主召开的舞会上，维拉与被招待来的姬塔一行一同出席。各自身着正装的姬塔一行，在变身会场的城堡中一边紧张，一边期待着舞会。一袭红裙裹身的维拉，带着一份隐秘的决意，出现在会场中。
+2,,<span class='scene-font-katari'>少女には、</span><br><span class='scene-font-katari'>果たしたかった約束があった。</span>,<span class='scene-font-katari'>少女有一个，</span><br><span class='scene-font-katari'>想要达成的约定。</span>
+3,,<span class='scene-font-katari'>そして、狂おしいほど憧れた女性に</span><br><span class='scene-font-katari'>伝えたかった言葉があった。</span>,<span class='scene-font-katari'>还有一句，想对那个</span><br><span class='scene-font-katari'>她疯狂迷恋的女性说的话。</span>
+4,,<span class='scene-font-katari'>しかし──</span>,<span class='scene-font-katari'>然而──</span>
+5,カタリナ/卡塔莉娜,っ……！,……！
+6,ヴィーラ/维拉,…………！,…………！
+7,ヴィーラ/维拉,<span class='scene-font-kokoro'>（お姉様……</span><br><span class='scene-font-kokoro'>お姉様がそう望まれるのならば……</span><br><span class='scene-font-kokoro'>私は……）</span>,<span class='scene-font-kokoro'>（姐姐大人……</span><br><span class='scene-font-kokoro'>如果这就是姐姐大人所盼望之事……</span><br><span class='scene-font-kokoro'>那么……）</span>
+8,ヴィーラ/维拉,<span class='scene-font-4'>はああああ──</span>,<span class='scene-font-4'>哈──</span>
+14,,<span class='scene-font-katari'>避けられない事態だった。</span><br><span class='scene-font-katari'>選択に後悔もない。</span>,<span class='scene-font-katari'>这是无法躲避的事态。</span><br><span class='scene-font-katari'>她丝毫不后悔。</span>
+15,,<span class='scene-font-katari'>ただ、後に残ったのは、</span><br><span class='scene-font-katari'>地位と、名誉と、人ならざる力。</span>,<span class='scene-font-katari'>只是，最后留下的</span><br><span class='scene-font-katari'>只有地位，名誉，与人力不可比拟的力量。</span>
+16,,<span class='scene-font-katari'>そして、かの女性への</span><br><span class='scene-font-katari'>想いを綴った日記の山と、</span><br><span class='scene-font-katari'>鮮血のように赤い、一着のドレス──</span>,<span class='scene-font-katari'>和，记载着</span><br><span class='scene-font-katari'>向那名女性表述的爱意的日记、</span><br><span class='scene-font-katari'>与一席如血般鲜红的长裙──</span>
+22,ヴィーラ/维拉,…………,…………
+23,ヴィーラ/维拉,<span class='scene-font-kokoro'>（……この日をどれだけ</span><br><span class='scene-font-kokoro'>待ちわびていたか……）</span>,<span class='scene-font-kokoro'>（……这一天</span><br><span class='scene-font-kokoro'>我等了多久呢……）</span>
+25,,<span class='scene-font-katari'>ヴィーラは日記帳を閉じると、</span><br><span class='scene-font-katari'>クラッチバッグにしまいこみ、</span><br><span class='scene-font-katari'>姿見の前に立つ。</span>,<span class='scene-font-katari'>维拉合上日记，</span><br><span class='scene-font-katari'>装入手包，</span><br><span class='scene-font-katari'>站到镜子前。</span>
+26,,<span class='scene-font-katari'>深紅のドレスは</span><br><span class='scene-font-katari'>薔薇の花弁のごとく美しく、</span><br><span class='scene-font-katari'>汚れのひとつもない。</span>,<span class='scene-font-katari'>深红的长裙，</span><br><span class='scene-font-katari'>没有一丝污渍，</span><br><span class='scene-font-katari'>像绽放的蔷薇花一样美丽。</span>
+27,ヴィーラ/维拉,<span class='scene-font-kokoro'>（信じていました……</span><br><span class='scene-font-kokoro'>このドレスの赤色は、</span><br><span class='scene-font-kokoro'>運命を紡ぐ糸そのもの……）</span>,<span class='scene-font-kokoro'>（我一直深信……</span><br><span class='scene-font-kokoro'>这火红的颜色</span><br><span class='scene-font-kokoro'>就是纺织命运的线绳……）</span>
+28,ヴィーラ/维拉,<span class='scene-font-kokoro'>（お姉様……</span><br><span class='scene-font-kokoro'>今宵は存分に踊りましょう）</span>,<span class='scene-font-kokoro'>（姐姐大人……</span><br><span class='scene-font-kokoro'>今夜，就来纵情舞蹈吧）</span>
+29,,<span class='scene-font-katari'>ヴィーラは目を閉じて</span><br><span class='scene-font-katari'>ひとつ息を吐くと、</span><br><span class='scene-font-katari'>おもむろに更衣室を出る。</span>,<span class='scene-font-katari'>维拉闭上双眼</span><br><span class='scene-font-katari'>深深地换了一口气，</span><br><span class='scene-font-katari'>徐徐地走出更衣室。</span>
+35,,<span class='scene-font-katari'>古き良き時代の風情を残した、</span><br><span class='scene-font-katari'>とある城の待合室で落ち合う</span><br><span class='scene-font-katari'>姬塔達。</span>,<span class='scene-font-katari'>在风格古老的城堡中，</span><br><span class='scene-font-katari'>姬塔一行人，</span><br><span class='scene-font-katari'>正待在会客室。</span>
+36,,<span class='scene-font-katari'>ヴィーラは、姬塔、</span><br><span class='scene-font-katari'>ビィ、ルリアと合流し、</span><br><span class='scene-font-katari'>カタリナが現れるのを待っていた。</span>,<span class='scene-font-katari'>维拉走过来，</span><br><span class='scene-font-katari'>与姬塔，碧，露莉亚一起，</span><br><span class='scene-font-katari'>等待着卡塔莉娜的到来。</span>
+37,ルリア/露莉亚,素敵なお城ですね！<br>灯りがキラキラしていて……<br>さすが、よいしょ正しい舞踏会です！,这座城好漂亮！<br>灯都闪闪发光……<br>不愧是，作风优良的舞会！
+38,ビィ/碧,おいおい、それを言うなら<br>「由緒正しい」だろ？,喂喂，你这么说应该是<br>「传统优良」吧？
+39,ビィ/碧,元領主としてヴィーラが<br>呼ばれた舞踏会なんだよな？<br>オイラ達まで来てよかったのか？,这是身为原领主的维拉<br>召集的舞会吧？<br>我们来是不是不好啊？
+40,ヴィーラ/维拉,構いませんよ。<br>せっかくの機会ですから、<br>皆で楽しめればと……,没有关系。<br>难得的机会，<br>要是大家能一起享乐……
+41,ルリア/露莉亚,ありがとうございます！<br>おいしいもの、<br>たくさんあるといいなぁ……,谢谢！<br>要是能有好多好多，<br>好吃的东西就好了……
+43,カタリナ/卡塔莉娜,遅れてすまない。<br>少々着替えに手間取ってな。,抱歉我来晚了。<br>换衣服稍微花了点时间。
+44,ヴィーラ/维拉,…………！,…………！
+45,ヴィーラ/维拉,嗚呼……！<br>なんて……なんてお美しい……！,啊……！<br>多么……多么美……！
+46,,<span class='scene-font-katari'>ヴィーラは、ドレス姿で現れた</span><br><span class='scene-font-katari'>カタリナのあまりの美しさに</span><br><span class='scene-font-katari'>めまいすら覚える。</span>,<span class='scene-font-katari'>身穿长裙的卡塔莉娜的美丽，</span><br><span class='scene-font-katari'>让维拉为之眩晕。</span>
+47,ヴィーラ/维拉,お姉様の<br>凛々しいお顔立ちによく映える青……<br>気品と優雅さを兼ね備えた意匠……,映衬出姐姐大人<br>俊朗脸庞的蓝色……<br>兼具品味与优雅的衣装……
+48,ヴィーラ/维拉,そして、<br>普段は見ることの出来ないうなじが、<br>お姉様の女性的な魅力を際立たせる……,而且，<br>平常无法看到的后颈，<br>将姐姐大人女性的魅力展现得淋漓尽致……
+49,ヴィーラ/维拉,本当に……<br>本当によくお似合いです、お姉様。,真的……<br>真的太适合你了姐姐大人。
+50,カタリナ/卡塔莉娜,はは……<br>ありがとう、ヴィーラ。<br>馬子にも衣装というやつかな。,哈哈……<br>谢谢你，维拉。<br>人靠衣装马靠鞍嘛。
+51,カタリナ/卡塔莉娜,そういう君こそ……,你才是……
+52,ヴィーラ/维拉,…………,…………
+53,カタリナ/卡塔莉娜,……とてもよく似合っている。<br>美しいよ。,……很衬你。<br>很美。
+54,ヴィーラ/维拉,嗚呼、そんな……<br>もったいないお言葉です。,啊，请……<br>别这么说。
+55,ヴィーラ/维拉,しかし、そう言っていただけるなら、<br>舞踏会のためにと、<br>こだわった甲斐がありました。,但是，能得到这份赞赏，<br>这场舞会的精心准备，<br>就没有白费。
+56,カタリナ/卡塔莉娜,お気に入りの一着か？,你很中意这件吗？
+57,ヴィーラ/维拉,ええ。ですから<span class='scene-font-place'>アルビオン</span>でも。,是啊。请在<span class='scene-font-place'>阿尔比昂</span>也。
+58,ルリア/露莉亚,カタリナもヴィーラさんも綺麗です！<br>私もふたりみたいに、<br>ドレスを着こなせたらなぁ……,卡塔莉娜和维拉都很漂亮！<br>我也能想两位一样，<br>穿出这种效果吗……
+59,ヴィーラ/维拉,ふふ、ルリアちゃんのドレスも、<br>とてもよく似合っていますよ？<br>絵本の中のお姫様のようです。,呵呵，ルリアちゃん的长裙，<br>也很衬你哦？<br>像童话故事里的公主一样。
+60,ルリア/露莉亚,ほ、本当ですか？<br>えへへ……お姫様……,真，真的吗？<br>诶嘿嘿……公主……
+67,,<span class='scene-font-katari'>和気藹々と話しながら</span><br><span class='scene-font-katari'>広間へ向かう一行。</span>,<span class='scene-font-katari'>他们和气地说着话，</span><br><span class='scene-font-katari'>走向大厅。</span>
+68,,<span class='scene-font-katari'>周囲には気品を漂わせた</span><br><span class='scene-font-katari'>紳士淑女達が歩いている。</span>,<span class='scene-font-katari'>周围走动着的绅士淑女们</span><br><span class='scene-font-katari'>身上都散发着高雅的气质。</span>
+69,ビィ/碧,うひゃあ……！<br>なんか洒落たヤツばっかりだなぁ。<br>ちょっと緊張してきたぜ……,唔哇……！<br>这群家伙真时尚啊。<br>搞得我有点紧张了……
+70,ルリア/露莉亚,はい……<br>でも、ワクワクしてきました！<br>いよいよ始まるんですね！,嗯……<br>但是，不觉得有点兴奋吗！<br>马上就要开始了！
+71,ヴィーラ/维拉,…………,…………
+72,,<span class='scene-font-katari'>ヴィーラは手にしていた</span><br><span class='scene-font-katari'>クラッチバッグを胸元に抱える。</span>,<span class='scene-font-katari'>维拉把手包</span><br><span class='scene-font-katari'>抱在胸前。</span>
+73,,<span class='scene-font-katari'>そして、中に入っている</span><br><span class='scene-font-katari'>日記の感触を確かめると、</span><br><span class='scene-font-katari'>ゆっくり息を吐いた。</span>,<span class='scene-font-katari'>感受到其中放着的</span><br><span class='scene-font-katari'>日记本后，</span><br><span class='scene-font-katari'>缓缓地舒了一口气。</span>
+74,ヴィーラ/维拉,<span class='scene-font-kokoro'>（絢爛な広間で舞う青と赤……</span><br><span class='scene-font-kokoro'>あの日、思い描いた通りに──）</span>,<span class='scene-font-kokoro'>（在绚烂的大厅中起舞的青与红……</span><br><span class='scene-font-kokoro'>就像，我想的一样──）</span>
+75,カタリナ/卡塔莉娜,ん？　どうしたヴィーラ？<br>緊張しているのか？,嗯？　怎么了维拉？<br>在紧张吗？
+76,ヴィーラ/维拉,……ふふ、実は少しだけ。,……呵呵，实际上，有点。
+77,ヴィーラ/维拉,さ、お姉様。<br>今宵の舞踏会……<br>心ゆくまで楽しみましょう。,来吧，姐姐大人。<br>今夜的舞会上……<br>就随心所欲地享受吧。
+78,,<span class='scene-font-katari'>ヴィーラは薄く微笑み、</span><br><span class='scene-font-katari'>姬塔達を先導していく。</span>,<span class='scene-font-katari'>维拉带着淡淡的微笑，</span><br><span class='scene-font-katari'>带着姬塔一行向前走。</span>
+79,,<span class='scene-font-katari'>その優美な微笑の下で、</span><br><span class='scene-font-katari'>ヴィーラは溢れる熱情を</span><br><span class='scene-font-katari'>静かに燃やしているのだった。</span>,<span class='scene-font-katari'>在优美的笑容之下，</span><br><span class='scene-font-katari'>维拉的热情</span><br><span class='scene-font-katari'>静静地燃烧着。</span>
+info,,,scene_fate_chr577_ep1
+译者,麻友桑的话筒,,
