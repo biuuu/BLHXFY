@@ -30,47 +30,21 @@ const versionPass = (ver) => {
   return res[0] > 0 || (res[0] === 0 && res[1] > 0) || ( res[0] === 0 && res[1] === 0 && res[2] >= 0)
 }
 
-const nameWithScenario = (list, key = 'name') => {
-  const newList = []
-  const keys = []
-  list.forEach(item => {
-    const existIdx = keys.indexOf(item[key])
-    if (existIdx !== -1) {
-      const obj = newList[existIdx]
-      if (item.scenario) {
-        obj[item.scenario] = item
-        obj.scenarios.push(item.scenario)
-      } else {
-        obj.trans = filter(item.trans)
-        obj.noun = !!item.noun
-      }
-    } else {
-      const obj = { [key]: item[key], scenarios: [] }
-      if (item.scenario) {
-        obj[item.scenario] = item
-        obj.scenarios.push(item.scenario)
-      } else {
-        obj.trans = filter(item.trans)
-        obj.noun = !!item.noun
-      }
-      newList.push(obj)
-      keys.push(item[key])
-    }
-  })
-  return newList
-}
-
 const getNameData = async () => {
   if (!loaded) {
     const nameEn = await fetchData('/blhxfy/data/npc-name-en.csv')
     const nameJp = await fetchData('/blhxfy/data/npc-name-jp.csv')
-    const listEn = nameWithScenario(parseCsv(nameEn))
-    const listJp = nameWithScenario(parseCsv(nameJp))
+    const listEn = parseCsv(nameEn)
+    const listJp = parseCsv(nameJp)
     sortKeywords(listEn, 'name').forEach(item => {
-      enNameMap.set(item.name, item)
+      const name = trim(item.name)
+      const trans = filter(item.trans)
+      enNameMap.set(name, trans)
     })
     sortKeywords(listJp, 'name').forEach(item => {
-      jpNameMap.set(item.name, item)
+      const name = trim(item.name)
+      const trans = filter(item.trans)
+      jpNameMap.set(name, trans)
     })
     loaded = true
   }
