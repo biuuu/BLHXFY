@@ -1,7 +1,7 @@
 import { trim } from './index'
 
 const ignoreList = ['null', '???', '？？？']
-const sepList = ['・', '&', ' and ', '＆']
+const sepList = ['・', '&', ' and ', '＆', '／']
 
 const getTrans = (text, maps) => {
   for (let map of maps) {
@@ -31,12 +31,13 @@ const transName = (text, maps) => {
     if (transTemp) trans = `${transTemp}的声音`
   } else if (!trans) {
     sepList.forEach(sep => {
+      let sep2 = sep === ' and ' ? '・' : sep
       if (new RegExp(sep).test(name)) {
         const arr = name.split(sep)
         trans = arr.map(nm => {
           const transTemp = getTrans(nm, maps)
           return transTemp || nm
-        }).join('・')
+        }).join(sep)
       }
     })
   }

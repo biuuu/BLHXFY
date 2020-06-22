@@ -3,9 +3,9 @@ import transName from '../../utils/trans-name'
 
 export default async function archiveCharName(data, pathname) {
   const { jpNameMap, enNameMap } = await getNameData()
-
-  data.npc_list.forEach(item => {
+  for (let key in data.npc_list) {
+    let item = data.npc_list[key]
     item.name = transName(item.name, [jpNameMap, enNameMap])
-  })
+  }
   return data
 }
