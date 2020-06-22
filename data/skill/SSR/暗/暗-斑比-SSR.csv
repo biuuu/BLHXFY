@@ -1,0 +1,14 @@
+﻿id,name,detail
+npc,斑比,3040057000
+special,血之洗涤,暗属性伤害(特大) <span class=text-blue>◆目标处于魅惑状态时奥义伤害UP</span>
+special-ブラッディ・アブソープション,血之汲取,暗属性伤害(特大)/自身获得2层血之印记(最大2)　<span class=text-blue>◆目标处于魅惑状态时奥义性能UP</span>
+special-Bloody Absorption,血之汲取,暗属性伤害(特大)/自身获得2层血之印记(最大2)　<span class=text-blue>◆目标处于魅惑状态时奥义性能UP</span>
+skill-1,圣约,对敌方单体造成暗属性伤害/驱散1个强化效果
+skill-1++,圣约,<div class=prt-text-small>对敌方单体造成暗属性伤害/驱散1个强化效果<br><span class=text-blue>◆消耗血之印记：暗属性防御DOWN</span></div>
+skill-2,绯色赏赐,吸收敌方1个蓄力计数点，转化为我方全体奥义值
+skill-3,迷魅心跳,赋予敌方单体魅惑效果/提高自身的攻击和防御/连击率UP
+skill-3+,迷魅心跳,<div class=prt-text-small>赋予敌方单体魅惑效果/攻防UP/必定连击/吸血效果　<span class=text-blue>◆消耗血之印记：魅惑命中率UP/血之女王效果/必定三连</span></div>
+support-1,任性的贵族,暴击率UP
+support-2,女王冲锋II,<div class=prt-text-small>战斗开始时获得1层血之印记　<span class=text-blue>◆根据血之印记的层数攻击性能UP/暗属性追击效果</span></div>
+skill-lb,LB技能,攻击处于魅惑状态的敌人时附带暗属性追击效果
+intro,吸血姬,在暗夜中起舞的幼小公主带着丰富多彩的表情自由奔放地穿梭在苍穹之间。她任性的行为虽然牵连了很多人，但其烂漫闪耀的心也将束缚着同胞的古老枷锁逐渐解开。

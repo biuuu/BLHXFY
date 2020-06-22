@@ -1,0 +1,91 @@
+id,name,text,trans
+0-chapter_name,,第84章　イデルバ王国,第84章 伊迪尔瓦王国
+0-synopsis,,イデルバ王国の首都、ルクスリエースに降り立った姬塔達は王に謁見する。カインは、メルクマール島を支配していた盗賊について、本来なら極刑であるが、島の治安を守っていたことをふまえ処遇を考え直すよう王を説得する。それに対し王は、一行に西の森の洞窟に棲み着いた星晶獣の討伐を命じ、盗賊達の処分や一行の扱いは、その結果により判断すると言い渡す。,姬塔一行降落在伊迪尔瓦王国首都卢克西里厄斯谒见国王。该隐想要说服国王，占领美克马尔岛的盗贼本应处以极刑，但看在他们维持着岛屿治安的份上应重新考虑。国王命众人前往西方森林的洞窟中讨伐星晶兽，根据众人的成果判断是否重新考虑盗贼的处分。
+0,,<span class='scene-font-katari'>魔物を退けながら航路を進み……</span>,<span class='scene-font-katari'>姬塔一行在与魔兽的战斗中继续航行……</span>
+1,,<span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>無事、イデルバ王国の首都、</span><br><span class='scene-font-place'>ルクスリエース</span><span class='scene-font-katari'>に降り立つ。</span>,<span class='scene-font-katari'>众人还是平安抵达了伊迪尔瓦王国的首都</span><span class='scene-font-place'>卢克西里厄斯</span><span class='scene-font-katari'>。</span>
+2,ルリア/露莉亚,わぁ……！<br>いままで見てきた街とは、<br>なんだかちょっぴり違う感じがします！,哇……！<br>感觉和之前去的地方都不太一样呢！
+2-sel1_txt,,<span class='scene-font-katari'>ワクワクするね！</span>,<span class='scene-font-katari'>好期待！</span>
+2-sel2_txt,,<span class='scene-font-katari'>気のせいじゃない？</span>,<span class='scene-font-katari'>是错觉吧？</span>
+3,ルリア/露莉亚,はい！<br>この街には、知らないことが<br>たっくさんありそうです！,是的！<br>感觉这座城市里有很多我们从没见过的东西呢！
+4,ビィ/碧,おいおいおい……<br>そりゃあ、いくらなんでも、<br>ちょっと冷めすぎじゃねーか？,喂喂……<br>你这样也太冷淡了吧？
+5,カタリナ/卡塔莉娜,ふふ……<br>団長として、常に冷静であることは<br>良いことだと思うが……,呵呵……作为团长，时刻保持冷静是一件好事……
+6,カタリナ/卡塔莉娜,このナル・グランデ空域に来て<br>初めて目にする大きな街なんだ……,不过，这还是我们在纳尔·格兰德空域看见的第一个大城市……
+7,カタリナ/卡塔莉娜,少しくらいはしゃいでも、<br>罰は当たらないんじゃないか？,稍微高兴一点也无妨啊。
+8,レオナ/蕾欧娜,ふふ……<br>興味がおありでしたら、<br>後で街をご案内しますね。,呵呵……<br>如果你们有兴趣，之后我带各位转转吧。
+9,カイン/该隐,けど、まずはその前に、<br>王様に挨拶しなくっちゃな。,不过，我们得先和国王打声招呼。
+10,カイン/该隐,俺達が来るって、<br>もう話は通ってるはずだ。<br>行こうぜ、姬塔。,她应该已经知道我们要来了。<br>走吧，姬塔。
+11,,<span class='scene-font-katari'>カインに促され、</span><br><span class='scene-font-katari'>一行は街を抜け王宮へと向かう。</span>,<span class='scene-font-katari'>在该隐的催促下，一行人穿过街市来到王宫。</span>
+17,,<span class='scene-font-katari'>王宮へ足を踏み入れた一行は、</span><br><span class='scene-font-katari'>兵士達に案内されながら、</span><br><span class='scene-font-katari'>玉座の間へと通されたのだった。</span>,<span class='scene-font-katari'>众人跟着带路的士兵来到谒见厅。</span>
+18,イデルバ王国兵,じきに陛下がお見えになられますので、<br>こちらでお待ちください。,陛下就要驾到，请在此稍等。
+19,カイン/该隐,ん、了解。<br>ありがとな。,嗯，明白了。<br>谢谢你。
+20,イデルバ王国兵,はっ！,是！
+21,,<span class='scene-font-katari'>カインに返事を返した兵士は、</span><br><span class='scene-font-katari'>そのまま玉座の間を後にする。</span>,<span class='scene-font-katari'>士兵回复该隐后就离开了谒见厅。</span>
+22,ルリア/露莉亚,うう……<br>き、緊張してきちゃいました……,呜呜……<br>好、好紧张……
+22-sel1_txt,,<span class='scene-font-katari'>同じく……</span>,<span class='scene-font-katari'>我也是……</span>
+22-sel2_txt,,<span class='scene-font-katari'>そうでもない</span>,<span class='scene-font-katari'>还好吧</span>
+23,カタリナ/卡塔莉娜,雰囲気に飲まれているようで情けないが、<br>こういう場でお会いするとなると、<br>どうにも身を硬くしてしまうな……,虽说被气氛所影响不太像话，不过一想到马上就要谒见国王，全身都紧张得僵硬起来……
+24,ビィ/碧,ホント、姬塔は、<br>どこ行っても肝が据わってるよな……,还是你胆子大啊，姬塔……
+25,,<span class='scene-font-katari'>姬塔達が小声で話していると、</span><br><span class='scene-font-katari'>どこからともなく厳かな声が響く。</span>,<span class='scene-font-katari'>正当姬塔等人窃窃私语时，一道严肃的声音响起。</span>
+26,？？？,間もなく王がお見えになられます。<br>どうぞお静かにお待ちください。,陛下就要驾到。<br>请各位保持肃静。
+27,ルリア/露莉亚,…………,
+28,ビィ/碧,…………,
+29,カタリナ/卡塔莉娜,…………,
+29-sel1_txt,,<span class='scene-font-katari'>…………</span>,
+35,,<span class='scene-font-katari'>姬塔達が</span><br><span class='scene-font-katari'>口をつぐんで待っていると、</span><br><span class='scene-font-katari'>やがて御簾の向こうに人影が現れる。</span>,<span class='scene-font-katari'>众人缄默稍许，御帘后终于出现一道人影。</span>
+36,イデルバ国王,――よく帰ったな、カイン、レオナ。<br>此度は<span class='scene-font-place'>メルクマール島</span>の制圧、<br>ご苦労じゃった。,——欢迎回来，该隐，蕾欧娜。<br>镇压<span class='scene-font-place'>美克马尔岛</span>的任务，辛苦了。
+37,カイン/该隐,はっ……,是……
+38,イデルバ国王,今回の件、<br>すでにあらましは聞いておるぞ。,这次的事妾身也已经听说了大概。
+39,イデルバ国王,相変わらず、<br>単独行動が過ぎるようではあるが……<br>結果を出している以上、妾も目を瞑ろう。,你们还是一样喜欢擅自行动……<br>不过既然拿出了成果，妾身也就睁一只眼闭一只眼。
+40,イデルバ国王,して、話にあった……,那么，关于那个……
+41,カイン/该隐,はい。<br><span class='scene-font-place'>メルクマール島</span>を占拠していた、<br>盗賊達についてですが……,是。关于占领<span class='scene-font-place'>美克马尔岛</span>的盗贼……
+42,カイン/该隐,彼らが企てていたのは、<br>イデルバからの独立、反乱であり、<br>本来であれば極刑は免れません。,他们企图从伊迪尔瓦独立。这是谋反之罪，本应处以极刑。
+43,イデルバ国王,そうじゃな……国を盤石に保つには、<br>内より出る芽には、<br>厳しくあたる他あるまい。,不错……为了巩固政权，从内部长出的叛乱之芽，必须从严打击。
+44,カイン/该隐,しかし……<br>彼らが<span class='scene-font-place'>メルクマール島</span>を統治し、<br>住民達を守っていたのもまた事実。,但是……<br>他们在统治<span class='scene-font-place'>美克马尔岛</span>期间保护居民，这也是事实。
+45,カイン/该隐,名目上、王国領であるにも関わらず、<br>我々は<span class='scene-font-place'>メルクマール島</span>を<br>放置してしまっておりました。,虽然<span class='scene-font-place'>美克马尔岛</span>名义上是王国的领土，但我们一直都弃之不顾。
+46,カイン/该隐,その間、王国臣民を魔物から守り、<br>安全な暮らしを提供していたのは、<br>あの盗賊達に他なりません。,在此期间，保护王国的臣民免受魔兽之害，保障他们安全的，正是这些盗贼。
+47,イデルバ国王,…………,
+48,カイン/该隐,またあの盗賊達は、<br>首領であったラインハルザを筆頭に、<br>非常に戦闘に長けた者達でした。,并且这些盗贼，特别是他们的首领莱茵哈萨，都十分善战。
+49,カイン/该隐,聞けば彼らは、<br>元々トリッド王国の軍人であり、<br>行き場を失い、盗賊に身をやつしたとか。,据说他们原本是特利德王国的军人，失去容身之处，才沦为了盗贼。
+50,イデルバ国王,ふむ……<br>亡国の忘れ形見であったか。,唔……<br>原来是亡国之余么。
+51,カイン/该隐,陛下……<br>彼らはその命を奪うには、<br>あまりに惜しい存在です。,陛下……<br>要取他们的性命，我想实在有些可惜。
+52,カイン/该隐,王国臣民を守り抜いた彼らを<br>無下に処刑したとあっては、<br>イデルバの名にも傷がつくことでしょう。,要将守护了王国臣民的他们处以极刑，想必也有损伊迪尔瓦的名誉。
+53,カイン/该隐,どうか彼らの処遇を<br>考え直してはいただけないでしょうか。,能请您再三考虑对他们的处置么。
+54,,<span class='scene-font-katari'>カインの説得に対し、</span><br><span class='scene-font-katari'>王は御簾の向こうで、</span><br><span class='scene-font-katari'>僅かに悩むように息を吐く。</span>,<span class='scene-font-katari'>听了该隐的话，御帘后的国王只是轻轻叹了口气。</span>
+55,イデルバ国王,カインよ……,该隐啊……
+56,カイン/该隐,はっ……,在……
+57,イデルバ国王,して、そこの者達が、<br>お主の言うていた<br>ファータ・グランデからの客人じゃな？,那边几个，就是你所说的法塔·格兰德空域来的客人么？
+58,イデルバ国王,面をあげよ、騎空士よ。<br>名はなんと言う？,抬起头来，骑空士。<br>你们叫什么名字？
+58-sel1_txt,,<span class='scene-font-katari'>姬塔です</span>,<span class='scene-font-katari'>姬塔</span>
+59,,<span class='scene-font-katari'>姬塔に続き、</span><br><span class='scene-font-katari'>ビィ、ルリア、カタリナも、</span><br><span class='scene-font-katari'>それぞれ名前を告げる。</span>,<span class='scene-font-katari'>碧、露莉亚、卡塔莉娜也接连报上自己的名字。</span>
+60,イデルバ国王,ふむ……,唔……
+61,イデルバ国王,……その、ビィ、とやらは、<br>星晶獣か何かか？,……叫做碧的，你是星晶兽之类的么？
+62,カイン/该隐,あ、いや、えーと……,啊，不是，那个……
+63,カイン/该隐,…………,
+64,カイン/该隐,<span class='scene-font-2'>……結局、ビィ、ってなんなんだ？</span>,<span class='scene-font-2'>……话说，碧到底是什么啊？</span>
+64-sel1_txt,,<span class='scene-font-katari'>ドラゴン</span>,<span class='scene-font-katari'>是龙</span>
+64-sel2_txt,,<span class='scene-font-katari'>トカゲ</span>,<span class='scene-font-katari'>是蜥蜴</span>
+65,イデルバ国王,ほう……<br>かようなドラゴンもおるのか……<br>まこと空は広いものじゃな。,哦……？<br>原来世上还有这样的龙……<br>世界真大……
+66,,<span class='scene-font-katari'>イデルバ国王はひとつ咳払いをすると、</span><br><span class='scene-font-katari'>姬塔達に対し、</span><br><span class='scene-font-katari'>歓迎の意を告げる。</span>,<span class='scene-font-katari'>伊迪尔瓦国王轻咳一声，对姬塔等人表示欢迎。</span>
+67,イデルバ国王,トカゲ……トカゲか。<br>なんとも奇怪なトカゲも<br>おるものじゃな……,蜥蜴……蜥蜴么。<br>世上还有这么稀奇的蜥蜴……
+68,ビィ/碧,いや、そもそもオイラは、<br>トカゲじゃ……！,不对，咱才不是什么蜥蜴……！
+69,ビィ/碧,もがっ……！？,唔……！？
+70,レオナ/蕾欧娜,ご、ごめんね、ビィ君……<br>いま一応、王様の前だから、<br>ちょーっと静かにしててね……,抱歉了，碧……<br>毕竟是在陛下面前，请你安静一点……
+71,,<span class='scene-font-katari'>レオナに口をふさがれ、</span><br><span class='scene-font-katari'>ビィの抗議の声はあえなく封殺される。</span>,<span class='scene-font-katari'>碧被蕾欧娜捂住了嘴，无法发出抗议之声。</span>
+73,,<span class='scene-font-katari'>イデルバ国王はひとつ咳払いをすると、</span><br><span class='scene-font-katari'>姬塔達に対し、</span><br><span class='scene-font-katari'>歓迎の意を告げる。</span>,<span class='scene-font-katari'>伊迪尔瓦国王轻咳一声，对姬塔等人表示欢迎。</span>
+74,イデルバ国王,よく来たな、異郷の騎空士達よ。<br>奇縁が結んだものとはいえ、<br>ずいぶんと遠くから参られたものじゃ。,欢迎你们来到这里，异乡的骑空士。<br>看来这也是奇妙的缘分，你们竟然跨越空域远道而来。
+75,カタリナ/卡塔莉娜,異邦人に過ぎない私達を<br>ここまで招き入れてくださったこと、<br>心より感謝致します。,您能召见我们这些无名无分的异邦人，实在是非常感谢。
+76,イデルバ国王,ふむ……<br>しかし、しかしな、<br>礼を言うのはまだ早いぞ。,唔……<br>不过，不过呢，要道谢还太早了。
+77,カタリナ/卡塔莉娜,……と、仰いますと？,……您的意思是？
+78,,<span class='scene-font-katari'>首を傾げる一同に対し、</span><br><span class='scene-font-katari'>イデルバ国王は凛とした声で告げる。</span>,<span class='scene-font-katari'>一行人正感纳闷，伊迪尔瓦国王凛然宣告道。</span>
+79,イデルバ国王,イデルバは強き者の国じゃ。<br>あらゆる処遇は、<br>その者の能力によってのみ決まる。,伊迪尔瓦是强者之国。<br>处置和待遇皆取决于能力。
+80,イデルバ国王,ここより西に進んだ森の中の洞窟に<br>ある星晶獣が棲み着いてしまっての……,往西的森林中有个洞穴，里面有一只星晶兽……
+81,イデルバ国王,流れ着いたその星晶獣は、<br>暴走しているようでな。<br>危なくて森に入れんと苦情が来ておる。,这只星晶兽流浪到此地便开始暴走，民众反映它太过危险无法进入森林。
+82,レオナ/蕾欧娜,まさか……,什么……
+83,イデルバ国王,カイン、レオナ、<br>そして異郷の騎空士達よ……,该隐，蕾欧娜，还有异乡的骑空士啊……
+84,イデルバ国王,お主らには、<br>森の洞窟に棲み着いた星晶獣の<br>討伐の任を言い渡す。,妾身命令你们前去讨伐森林中的星晶兽。
+85,イデルバ国王,盗賊の首領、ラインハルザを連れ、<br>お主らだけで、<br>見事、その星晶獣を討ち取って参れ。,带上盗贼首领莱茵哈萨，给妾身圆满地完成任务。
+86,,<span class='scene-font-katari'>取りつく島もない様子で、</span><br><span class='scene-font-katari'>イデルバ国王はキッパリと宣言する。</span>,<span class='scene-font-katari'>伊迪尔瓦国王冷冷地说道。</span>
+87,イデルバ国王,盗賊達の処分、<br>騎空士達の扱いについては、<br>その結果をもって判断する。,对盗贼的处分，对骑空士的待遇，都取决于此行的成果。
+88,イデルバ国王,良い報せを……期待しておるぞ。,期待，你们的好消息……
+89,,<span class='scene-font-katari'>それだけ告げると、</span><br><span class='scene-font-katari'>イデルバ国王は足早に、</span><br><span class='scene-font-katari'>御簾の向こう側へと去っていくのだった。</span>,<span class='scene-font-katari'>说完这些，伊迪尔瓦国王便消失在御帘的另一头。</span>
+info,,,scene_cp84_q2_s10

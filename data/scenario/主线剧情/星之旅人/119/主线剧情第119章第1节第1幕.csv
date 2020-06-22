@@ -1,0 +1,93 @@
+id,name,text,trans
+0-chapter_name,,第119章　旅人の意志,旅人的意志
+0-synopsis,,特異点として会えば父親と争うことになるかもしれない、と姬塔の覚悟を問うヴァルフリートに対し、姬塔はビィもルリアも、誰ひとり欠けることなく旅を続けると宣言する。ヴァルフリートはその答えを受け、姬塔達にグランサイファーの兄弟艇、グランスルースの動力部を託すことを決める。姬塔一行はノアの案内のもと、<span class='scene-font-place'>ガロンゾ島</span>へ向かうのだった。,作为特异点，如果和父亲相遇的话说不定会发生争斗。面对询问姬塔觉悟的瓦尔弗里德，姬塔说他不会抛下碧或是露莉亚其中任何一人，继续旅行下去。瓦尔弗里德听后，决定把格兰塞法兄弟艇的部件托付给他。
+1,ヴァルフリート,──いまのままでは、<br><span class='scene-font-spword'>星の島</span>で待つのは、<br>温かな再会だけとは限らない。,——从现在的状况来看，<br>在星之岛等待着的，<br>可能并不是温暖的再会了。
+2,ヴァルフリート,それでも君は、<br>特異点として彼に……<br>自らの父親に会いに行くのか。,即使这样，<br>作为特异点的你，<br>也要去见自己的父亲吗。
+3,ヴァルフリート,その意思を、<br>いまここで私に聞かせてほしい。,你的想法，<br>现在请让我听听吧。
+4,,<span class='scene-font-katari'>旅人の背を押す風が吹き抜ける草原で、</span><br><span class='scene-font-katari'>姬塔は</span><br><span class='scene-font-katari'>父のかつての戦友と相対していた。</span>,微风拂过草原，轻轻推着旅人，<br>姬塔正面对着父亲曾经的战友。
+5,,<span class='scene-font-katari'>皆が一様に固唾をのんで見守る中、</span><br><span class='scene-font-katari'>姬塔はゆっくりと</span><br><span class='scene-font-katari'>己の意思を言葉にしようとする。</span>,在大家屏住呼吸的注视之下，<br>姬塔缓缓地用言语，<br>表达出了自己的意志。
+5-sel1_txt,,<span class='scene-font-katari'>僕は──</span>,我——
+7,ビィ/碧,…………,…………
+9,ルリア/露莉亚,…………,…………
+10,ルリア/露莉亚,<span class='scene-font-kokoro'>（私のせいだ……）</span>,（是我的错……）
+11,,<span class='scene-font-katari'>決意を口にしようとする</span><br><span class='scene-font-katari'>姬塔の傍らで、</span><br><span class='scene-font-katari'>ルリアは悲痛な思いを募らせていた。</span>,站在下定决心张开口的姬塔身边，<br>露莉亚沉浸在悲痛之中。
+12,ルリア/露莉亚,<span class='scene-font-kokoro'>（私が……</span><br><span class='scene-font-kokoro'>彼の運命を狂わせてしまった）</span>,（是我……<br>扰乱了他的命运）
+29,ルリア/露莉亚,<span class='scene-font-kokoro'>（私があの時……</span><br><span class='scene-font-kokoro'>彼に助けを求めてしまったから……）</span>,（正因为我那时候……<br>向他求助了……）
+30,ルリア/露莉亚,<span class='scene-font-kokoro'>（彼は命を落として、</span><br><span class='scene-font-kokoro'>私と一心同体になって……）</span>,（他才失去生命，<br>成了和我一心同体的状态……）
+31,ルリア/露莉亚,<span class='scene-font-kokoro'>（彼は特異点になるしかなかった。</span><br><span class='scene-font-kokoro'>私のせいで……！！）</span>,（他只有成为特异点。<br>都是我的错……！！）
+52,ルリア/露莉亚,<span class='scene-font-kokoro'>（ずっとずっと憧れていた</span><br><span class='scene-font-kokoro'>お父さんとの幸せな再会を</span><br><span class='scene-font-kokoro'>私が壊してしまった……）</span>,（能和一直一直憧憬着的父亲，<br>幸福地重逢这件事，<br>被我破坏了……）
+53,ルリア/露莉亚,<span class='scene-font-kokoro'>（それだけじゃない……）</span>,（不只是这样而已……）
+54,ルリア/露莉亚,<span class='scene-font-kokoro'>（もしかしたら、</span><br><span class='scene-font-kokoro'>お父さんと争うことになるかも</span><br><span class='scene-font-kokoro'>しれないなんて……）</span>,（说不定，<br>他还会和父亲发生争执……）
+55,ルリア/露莉亚,<span class='scene-font-kokoro'>（私のせいで……</span><br><span class='scene-font-kokoro'>全部ぜんぶ私のせいで……！！）</span>,（是我的错……<br>这一切全都是我的错……！！）
+56,,<span class='scene-font-katari'>己の行いに対する</span><br><span class='scene-font-katari'>自責の念に打ち震えるルリア。</span>,沉浸在对自己的自责之中，<br>露莉亚的身体开始颤抖。
+57,,<span class='scene-font-katari'>しかし、その思いは胸中を駆け巡るも、</span><br><span class='scene-font-katari'>ルリアは言葉にすることを</span><br><span class='scene-font-katari'>躊躇っていた。</span>,但是，即使心中回荡着这样的话语，<br>露莉亚却依然犹豫着要不要说出了口。
+58,ルリア/露莉亚,<span class='scene-font-kokoro'>（全部私のせいなのに……</span><br><span class='scene-font-kokoro'>それなのに、私は……）</span>,（明明全都是我的错……<br>但、我却……）
+59,ルリア/露莉亚,……ッ。,……唔。
+60,ルリア/露莉亚,<span class='scene-font-kokoro'>（私は……</span><br><span class='scene-font-kokoro'>まだ姬塔と</span><br><span class='scene-font-kokoro'>一緒に居たい）</span>,（我还……<br>想和姬塔在一起）
+61,ルリア/露莉亚,<span class='scene-font-kokoro'>（姬塔に</span><br><span class='scene-font-kokoro'>許してもらえなくても、</span><br><span class='scene-font-kokoro'>私は姬塔と──）</span>,（就算无法得到姬塔的原谅，<br>我也想和姬塔——）
+61-sel1_txt,,<span class='scene-font-katari'>──皆と旅を続けます</span>,——我会和大家继续旅行
+62,ルリア/露莉亚,っ……！？,诶……！？
+63,ヴァルフリート,それは……<br>特異点として<br>あの男に会いに行くということかな？,也就是说……<br>你要作为特异点，去见那个男人吗？
+63-sel1_txt,,<span class='scene-font-katari'>関係ない</span>,没事
+63-sel2_txt,,<span class='scene-font-katari'>そのつもり</span>,就是这样
+64,リーシャ/莉夏,か、関係ない、ってそんな……<br>このままお父さんに会いに行けば、<br>姬塔さんは……,没、没事什么的……<br>如果就这样去见你父亲的话，姬塔会……
+65,リーシャ/莉夏,でも……<br>それじゃあまさか、<br>姬塔さんはお父さんと……,但是……<br>如果不这样的话，<br>姬塔和父亲就……
+67,ヴァルフリート,いや、いいんだリーシャ……<br>それは彼も重々承知しているだろう。,不，已经可以了莉夏……<br>他应该也知道这点。
+69,ヴァルフリート,何も手放す気は無い、と……<br>来たる運命と、<br>ただ向き合うというのだな。,没有放弃的意思……<br>也就是，<br>去面对即将到来的命运把。
+69-sel1_txt,,<span class='scene-font-katari'>はい</span>,没错
+69-sel2_txt,,<span class='scene-font-katari'>（頷く）</span>,（点头）
+71,,<span class='scene-font-katari'>問いかけるヴァルフリートに対し、</span><br><span class='scene-font-katari'>姬塔は力強い肯定と、</span><br><span class='scene-font-katari'>己の意思を返す。</span>,面对提出疑问的瓦尔弗里德，<br>姬塔用力地点了点头，<br>以自身的意识答道。
+71-sel1_txt,,<span class='scene-font-katari'>皆と一緒に会いに行く</span>,和大家一起去见他
+71-sel2_txt,,<span class='scene-font-katari'>いまの自分を認めてもらう</span>,让他认可现在的我
+72,,<span class='scene-font-katari'>それは、誰ひとり欠けることなく、</span><br><span class='scene-font-katari'>仲間達と共に旅を成し遂げる、</span><br><span class='scene-font-katari'>という決意。</span>,这是，不会抛下任何一人，<br>要和同伴们继续旅行的决意。
+73,,<span class='scene-font-katari'>それは、重ねた旅路を、その軌跡を、</span><br><span class='scene-font-katari'>はるかな果ての父親に認めさせる、</span><br><span class='scene-font-katari'>という決意。</span>,同时也是将重叠的旅途和轨迹，<br>让处在遥远之处的父亲认可的决意。
+74,,<span class='scene-font-katari'>確固たる己の意思を、</span><br><span class='scene-font-katari'>姬塔は</span><br><span class='scene-font-katari'>ひとつの言葉で締めくくる。</span>,为了坚定自己的意识，<br>姬塔用一句话概括道。
+74-sel1_txt,,<span class='scene-font-katari'>必ず、星の島へ辿りつく</span>,一定，要到达星之岛
+75,ルリア/露莉亚,…………！,…………！
+76,オイゲン/欧根,ははっ！<br>それでこそ我らが団長ってぇもんだ！,哈哈！<br>这才是我们的团长嘛！
+77,ラカム/拉卡姆,姬塔の親父さんの話を聞いて、<br>色々と驚かなかったわけじゃねぇが……,听了姬塔父亲的故事以后，<br>也不是一点都没惊讶吧……
+78,ラカム/拉卡姆,特異点だの何だのって言っても、<br>結局は親父と息子だろ？<br>会って話しゃあなんとかなんだろ！,虽然说是什么特异点的，<br>结果还是父亲和儿子吧？<br>见面以后聊一聊，总会有办法的！
+80,ロゼッタ/萝赛塔,そうね。<br>あの人だって、<br>そう頭が固いわけじゃないし……,也是。<br>那个人的脑子也没那么顽固……
+81,ロゼッタ/萝赛塔,いざとなったら、<br>親子喧嘩をしたって<br>いいんじゃないかしら。,就算发生什么 ，<br>也不过是亲子吵架罢了。
+82,ロゼッタ/萝赛塔,それもひとつの<br>スキンシップだと思うわ。,我想这也算是亲情的一种表现吧。
+83,イオ/伊欧,お話を聞いた限りだと、<br>ちょっととんでもない規模の喧嘩に<br>なりそうだけど……,虽然听了刚才的话以后，<br>总觉得会变成相当了不得的超大规模级吵架……
+84,イオ/伊欧,でも、<br>最後には絶対わかってくれるわよ！,但是，<br>最后一定会明白的！
+85,イオ/伊欧,だって、<br>姬塔のお父さんなんだもん！,毕竟，<br>那是姬塔的父亲啊！
+86,,<span class='scene-font-katari'>イオの言葉に、</span><br><span class='scene-font-katari'>一同は誰ともなく頷きを返す。</span>,伊欧的一番话，<br>让大家纷纷点了点头。
+87,カタリナ/卡塔莉娜,それにルリアの件もある。,还有露莉亚的事。
+88,カタリナ/卡塔莉娜,なにせ姬塔のお父上は、<br>ルリアにも<br>大きく関わっていたようだからな。,不管怎么说，姬塔的父亲<br>也和露莉亚有很大的关系呢。
+89,ヴァルフリート,蒼の少女については、<br>悪いがこれ以上は<br>私の口から語ることは出来ない。,有关苍之少女，<br>很抱歉，那并不是能从我嘴里能说出来的。
+90,ヴァルフリート,君達が<br>このまま旅を続けるというのなら、<br>なおのことだ。,如果你们能就这样<br>继续旅行下去的话，<br>那就更好了。
+91,ヴァルフリート,蒼の少女という存在について、<br>私の持つ答えも<br>確かなものではないのだ。,有关苍之少女的存在，<br>我持有的答案也不准确。
+92,ヴァルフリート,不確かな情報で君達を混乱させるのは、<br>私にとって、<br>意図するところではない。,以不确定的答案来让你们混乱，<br>我可不愿意这么做。
+93,カタリナ/卡塔莉娜,やはり、<br>自分達で確かめる他ない、<br>ということか……,果然，没有除了自己进行确认<br>意外的办法吗……
+94,ヴァルフリート,しかし……<br>ひとつだけ言えることがある。,但是……<br>有一件事可以说。
+95,ヴァルフリート,全ての答えは空の果てにある、<br>ということだ。,所有的答案，<br>都在空之尽头。
+96,ヴァルフリート,空の果て、<span class='scene-font-spword'>星の島</span>には、<br>ルリアの正体を知る者がいる。<br>これは確かだ。,在空之尽头，在星之岛上，<br>有知晓露莉亚真正身份的人。
+97,ルリア/露莉亚,<span class='scene-font-spword'>星の島</span>に……,星之岛上……
+98,ビィ/碧,だったら行こうぜ、皆でよ！<br>何があったって、<br>オイラ達の目的地は変わんねーや！,那么走吧，大家！<br>不管发生什么了，<br>我们的目的地都不会改变！
+98-sel1_txt,,<span class='scene-font-katari'>ルリアもビィも、一緒に</span>,露莉亚和碧也一起
+99,ルリア/露莉亚,……はい！<br>私達は騎空団の仲間と一緒に<br><span class='scene-font-spword'>星の島</span>を目指します。,……是的！<br>我们要和骑空团的同伴们，<br>一起向星之岛进发。
+100,ルリア/露莉亚,私達は……離れたりなんてしません！,我们……不会离开你！
+101,,<span class='scene-font-katari'>ルリアの決意の宣言に対し、</span><br><span class='scene-font-katari'>ヴァルフリートは</span><br><span class='scene-font-katari'>満足そうに顔を綻ばせる。</span>,面对露莉亚决意的宣言，<br>瓦尔弗里德绽放出了满足的笑容。
+102,ヴァルフリート,ふふ……<br>旅の中で良い仲間に恵まれたと見える。,呼呼……<br>看到你在旅行中遇到了很好的同伴啊。
+103,ヴァルフリート,共に在る者を誇るといい。<br>君達は間違いなく最高の騎空団だ。,以共同存在者为荣吧。<br>毫无疑问，你们是最棒的骑空团。
+104,ヴァルフリート,この碧の騎士<br>ヴァルフリートが、<br>それを保証しよう。,我瓦尔弗里德作为碧之骑士，<br>向你们保证。
+105,リーシャ/莉夏,姬塔さん達は、<br>どんな困難な旅路でも、<br>恐れずに進んでいくんですね。,姬塔他们，恐怕不论遇到<br>多么困难的旅程，<br>都能继续前进吧。
+106,リーシャ/莉夏,心配じゃないと言えば<br>嘘になっちゃうけど……,虽说不担心他们是骗人的……
+107,リーシャ/莉夏,でも……きっと大丈夫ですよね、<br>姬塔さんなら。,但……如果是姬塔的话，<br>一定不会有事的。
+108,リーシャ/莉夏,出来ることは少ないかもしれないけど、<br>姬塔さん達の旅、<br>私も精一杯お手伝いしますね。,虽然我能做到的事情很少，<br>但姬塔他们的旅行，<br>我也会竭尽全力帮忙的。
+109,,<span class='scene-font-katari'>ヴァルフリートは一度咳払いをすると、</span><br><span class='scene-font-katari'>厳かな様子で姬塔達に告げる。</span>,瓦尔弗里德咳了几声后，<br>严厉地对姬塔等人宣告。
+110,ヴァルフリート,真実を知ってもなお<br>進み続ける君達の意志を、<br>私は確かに聞き届けた。,知道真相依然决定继续前行的你的意志，<br>确实传达到我这里了。
+111,ヴァルフリート,あの男の影を追うのではない、<br>真実と向き合うための旅は<br>ここから始まると言える。,并不是为了追寻那个男人的影子，<br>而是为了追寻真实的旅行，<br>从现在就开始了。
+112,ヴァルフリート,君達の新たな旅の始まりに、<br>祝福の風の加護を祈ろう。,既然你们已经开始了新的旅程，<br>那么我祈愿祝福之风能加护你们。
+113,ヴァルフリート,そして、その祈りと共に……,然后，与祝福一起……
+114,ヴァルフリート,かつて我々を乗せ空を駆けた騎空艇<br><span class='scene-font-spword'>“グランスルース”</span>の動力部を<br>君達に託す。,将曾经与我共同在天空驰骋的骑空艇<br>“格兰斯鲁斯”的动力部，托付给你们。
+115,ラカム/拉卡姆,グランスルース……,格兰斯鲁斯……
+116,ヴァルフリート,ノアもそれで構わないな？,诺亚也没问题吧？
+117,ノア/诺亚,もちろん。<br>ここからは僕の役目だね。,当然。<br>这以后就是我的任务了。
+118,ノア/诺亚,それじゃあ早速案内しよう。<br>大いなる旅を終えた、<br>偉大な翼の眠る場所にね。,那么赶快带路吧。<br>到结束了大型航路，<br>伟大之翼的沉睡之地。
+119,,<span class='scene-font-katari'>旅への新たな決意を示し、</span><br><span class='scene-font-katari'>父のかつての戦友ヴァルフリートに</span><br><span class='scene-font-katari'>己を認めさせた姬塔。</span>,展示了对旅途全新的决意，<br>被父亲曾经的战友瓦尔弗里德<br>认可的姬塔。
+120,,<span class='scene-font-katari'>こうして一行は、</span><br><span class='scene-font-katari'>グランサイファーの兄弟艇に会うため、</span><br><span class='scene-font-katari'>一度</span><span class='scene-font-place'>ガロンゾ島</span><span class='scene-font-katari'>へと戻るのだった。</span>,就这样，一行人为了去见格兰塞法的兄弟艇，再次返回了噶隆索。
+info,,,scene_cp119_q1_s10
+译者,,,rei

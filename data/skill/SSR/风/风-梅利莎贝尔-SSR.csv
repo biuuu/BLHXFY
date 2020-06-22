@@ -1,0 +1,9 @@
+﻿id,name,detail
+npc,梅利莎贝尔,3040102000
+special,五月乱发,风属性伤害(特大)/自身技能使用间隔缩短2回合
+skill-1,连击,<div class=prt-text-small>当即发动奥义/暴击率UP　<span class=text-blue>◆消耗最大HP的20%</span></div>
+skill-2,右发刃,<div class=prt-text-small>5次单体伤害，目标随机<span class=text-blue>◆再次使用时攻击次数UP(最大10次)</span></div>
+skill-3,左发刃,<div class=prt-text-small>6次单体伤害，目标随机<span class=text-blue>◆再次使用时攻击次数UP(最大10次)</span></div>
+support-1,自动迎击发刃,HP越少，反击概率越大/技能伤害上限UP
+support-2,黄金的妖娆,受到伤害时技能使用间隔缩短1回合/攻击技能使用次数越多，攻击越强(最大10次)
+skill-lb,LB技能,普攻时有极少概率缩短1回合技能使用间隔

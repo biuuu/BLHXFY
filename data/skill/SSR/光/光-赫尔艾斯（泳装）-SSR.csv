@@ -1,0 +1,9 @@
+id,name,detail
+npc,赫尔艾斯,3040091000
+special,霍斯之战,光属性伤害(特大)/我方全体奥义值10%UP
+skill-1,锲而不舍,我方全体奥义值20%UP/奥义连击性能UP
+skill-2,死灭之影,自身攻击大幅UP(仅对OD状态敌人，普攻280%UP，奥义180%UP，1次)
+skill-3,谋虑之夜,<div class=prt-text-small>效果中必定三连击/反击效果(回避/1次)<br><span class=text-blue>◆消耗30％奥义值</span></div>
+support-1,赤炎舞枪,对OD状态的敌人攻击40%UP
+skill-lb,LB技能,极小概率回避并反击敌方普攻
+intro,,

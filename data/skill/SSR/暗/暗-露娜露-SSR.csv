@@ -1,0 +1,8 @@
+﻿id,name,detail
+npc,露娜露,3040172000
+special,Calamity Comics,完成一张原稿/我方全体奥义值10%UP
+skill-1,摹本 II,自身高昂效果/复制我方成员的技能(复制可能时)
+skill-2,Handsome Gorilla DA,暗属性角色Tension UP/必定连击(三连击率20%UP)/自身HP减少20%
+skill-3,灵感,可即时使用奥义与技能1/自身HP减少10%
+support-1,截稿日,根据自身HP减少量，我方全体攻防UP
+support-2,质量上升,每完成1张原稿，暗属性角色奥义性能UP

@@ -1,0 +1,13 @@
+id,name,detail
+npc,席尔瓦,3040049000
+special,致命子弹,水属性伤害(特大)
+special-バリー・ブリット,葬送之击,水属性伤害(特大)/自身回避率UP/技能再次使用间隔缩短2回合
+skill-1,鹰眼,<div class=prt-text-small>自身奥义伤害UP/奥义伤害上限UP/奥义连击伤害UP/防御DOWN</div>
+skill-2,战术家,自身暴击率UP
+skill-3,必死之敌,自身可即时发动奥义
+skill-3+,必死之敌,自身可即时发动奥义/奥义附加水属性追加伤害
+skill-4,制胜一击,<div class=prt-text-small>与候补成员替换3回合<br><span class=text-blue>◆替换后进行掩护射击</span></div>
+support-1,沉静的威压,奥义值上升量UP
+support-2,坚守阵地,奥义能够击中幻影或回避状态的敌人/水属性角色攻击暴击时伤害上限UP
+skill-lb,LB技能,敌人的数量越少，攻击力越高
+intro,奋勉的儁秀,威风凛凛的狙击手即使有着稀少的才华，仍旧不断提高自己。为了将自己的名声传到被封锁的故乡，她让自己的名字与枪声一起响彻全空。

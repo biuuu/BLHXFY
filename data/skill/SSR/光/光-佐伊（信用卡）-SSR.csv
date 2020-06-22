@@ -1,0 +1,11 @@
+﻿id,name,detail
+npc,佐伊,3040078000
+special,伽马射线,光属性伤害(特大)/消除自身技能赋予的敌对心UP效果
+skill-1,回旋挥击,<div class=prt-text-small>对敌方单体造成4.5倍光属性伤害/敌对心UP(累积)/晕厥值+10<span class=text-blue>◆消耗20%奥义值/晕厥值100时敌方晕厥30s</span></div>
+skill-1+,回旋挥击,<div class=prt-text-small>对敌方单体造成5倍光属性伤害/敌对心UP(累积)/晕厥值+10<span class=text-blue>◆消耗20%奥义值/晕厥值100时敌方晕厥30s</span></div>
+skill-2,棱晶光晕,自身获得幻影效果(2次)
+skill-3,雷电,对敌方全体造成3~3.5倍光属性伤害/赋予随机弱化效果
+skill-4,断裂,发动空间断裂场地效果(场上全体连击率UP)
+support-1,调停的使徒,我方成员属性越多，自身性能越强
+skill-lb,LB技能,场地效果空间断裂发动时，自身获得属性追击效果
+,,

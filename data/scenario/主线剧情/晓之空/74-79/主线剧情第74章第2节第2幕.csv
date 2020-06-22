@@ -1,0 +1,30 @@
+﻿id,en,jp,trans
+0-chapter_name,74: What Lurks in the Snow,第74章　雪原に潜むもの,第74章：潜伏于雪原之物
+0-synopsis,The crystal's light leads the crew to Silverwind Stretch. The crew believes the Istavion Troop is holding Drang at a secret base there.,針路の先にある島を知り、ラカムは顔をしかめる。ラカムによれば、一行は白風の境と呼ばれる場所に向かっているらしい。ノース・ヴァストという島にあるという白風の境は、この空域で最も過酷な地であるという。イスタバイオン軍は白風の境に秘密基地を設けており、そこに捕えたドランクを収容しているのであろうと考え、一行は覚悟を固めるのだった。,意识到罗盘指引前方的岛，拉卡姆脸色阴沉了下来。据拉卡姆所言，接下来要去的地方似乎叫做白风之境。处于North Vast岛的白风之境，是这片空域环境最恶劣的地区。考虑到伊斯塔拜恩军可能在白风之境设立了秘密基地而且收容了德朗克，一行人再次确立了决心。
+0,姬塔 and the crew continue to follow the light of Drang's sphere.,<span class='scene-font-katari'>ドランクの残した珠の放つ光を頼りに、</span><br><span class='scene-font-katari'>騎空艇を進める姬塔一行。</span>,<span class='scene-font-katari'>借助德朗克所留珠子散发出的光芒的指引，姬塔等人乘坐骑空艇前进着。</span>
+1,"After passing by several islands, Rackam starts to worry.",<span class='scene-font-katari'>光に従い、</span><br><span class='scene-font-katari'>幾つかの島を通り過ぎたあたりで、</span><br><span class='scene-font-katari'>ラカムは眉をしかめて声を上げた。</span>,<span class='scene-font-katari'>顺着光芒绕过了数个岛屿之后，拉卡姆皱起了眉头说道。</span>
+2,"Whoa, whoa, whoa! Are you kidding me? Gimme a break here...",おいおいおい、マジかよ……<br>勘弁してくれ……,喂喂喂，真的吗……饶过我吧。
+3,What is it? Is something wrong with the airship?,どうした？<br>何か航行に不具合でも……,怎么了？航行出什么问题了吗？
+4,"Nah, the ship's fine. But if we keep going, we're gonna hit some trouble.",いいや、艇は順調だ。<br>だが、このまま順調に行くと、<br>ロクでもないことになるぞ……,不，骑空艇很好。但是继续这样前进，可就要碰上麻烦了。
+5,"If that crystal's correct, then your friend's probably held up in Silverwind Stretch.",その珠の光に間違いがねぇなら、<br>あいつが捕まってんのは、<br><span class='scene-font-place'>白風の境</span>かもしれねぇ……,如果那个珠子光芒的指引没有错的话，那家伙可能是被抓进<span class='scene-font-place'>白风之境</span>了。
+6,Silverwind Stretch?,<span class='scene-font-place'>白風の境</span>……ですか？,<span class='scene-font-place'>白风之境</span>吗？
+7,I've heard of it. It's supposed to be the roughest island in Phantagrande.,聞いたことがある……<br>確か、ファータ・グランデ空域で<br>最も過酷と言われる島だ。,我听说过……记得是法塔格兰德空域环境最严酷的岛。
+8,"In fact, it's one of the territories of the giant island of North Vast.",厳密には、<span class='scene-font-place'>ノース・ヴァスト</span>と呼ばれる<br>巨大な島の一地域だな。,严格来说，那是名为<span class='scene-font-place'>North Vast</span>这座巨大岛屿的一部分地区。
+9,Silverwind Stretch is covered in mountains.,<span class='scene-font-place'>白風の境</span>はそのほとんどが、<br>山脈に覆われていて……,<span class='scene-font-place'>白风之境</span>大部分是山脉地形。
+10,And a part of its mountain range crosses into the Grim Basin.,さらにその山脈の一部は、<br>瘴流域にかかっていたはずだ。,此外，那些山脉的一部分处于瘴流域之中。
+11,"Into the Grim Basin, huh? The Dydroit Belt does that too, right?",瘴流域にかかってる、ってぇと、<br>確か、<span class='scene-font-place'>ダイダロイトベルト</span>も、<br>そうだったよな？,在瘴流域中的话……记得<span class='scene-font-place'>碎石环</span>也是这样的情况吧？
+12,"Right. Just like the Dydroit Belt, it's another boundary of the Phantagrande Skydom.",そうだな……だから言うなれば、<br><span class='scene-font-place'>ダイダロイトベルト</span>とはまた別の、<br>ファータ・グランデ空域の果てだ。,是的，所以要说的话那是与<span class='scene-font-place'>碎石环</span>不同的，法塔格兰德空域的另一处边界。
+13,"Well, it's not like there's anyone who'll try crossing the Grim Basin from Silverwind Stretch anyway.",まぁ、もっとも、<br><span class='scene-font-place'>白風の境</span>から瘴流域を<br>越えようとする奴は、まずいねぇだろ。,嘛，话说也没什么能跨越瘴流域的家伙吧。
+14,"Exploration hasn't turned up much. No one knows what's out there, and no one lives there to find out.",調査もロクに進んでねぇ、<br>何が出るかもわからねぇ、<br>人だって住んじゃいねぇはずだ。,调查进行地也不算顺利，那里会出现什么也不知道，完全是个无人岛。
+15,"See, no explorer ever returns from that place. So it's basically the wild.",何せ調査に行った連中が<br>軒並み帰ってこねぇ、<br>ほとんど未開の地だからな。,无论怎么说，去那里调查的人全都没有回来，完全就是个尚未开荒之地。
+16,And Drang is stuck there...,そんな場所に、<br>ドランクさんが……,德朗克被关在那样的地方……
+17,"But his kidnappers's hideout is there, isn't it?",でも、連れ去られた以上、<br>連れ去った子達の拠点が、<br>そこにはあるんじゃないかしら？,但是，既然他是被带走的，那么带走他的那些孩子的据点不就在那了吗？
+18,Oh right. They wouldn't take him somewhere with nothing at all.,あ、そっか……誘拐した人達も、<br>何も無い場所に連れてったりは<br>しないわよね……,哦，对啊。把他拐走的人不可能把他带到什么都没有的地方啊。
+19,You're saying soldiers from another skydom have a secret base on Silverwind Stretch?,じゃあ、未開の<span class='scene-font-place'>白風の境</span>に、<br>よその空域の軍隊が、<br>秘密基地でも作ってるってのか？,也就是说在<span class='scene-font-place'>白风之境</span>这个不毛之地，别的空域的军队在这设立了秘密基地吗？
+20,Oh my! A secret base? Isn't that exciting!,あら……<br>秘密基地なんて、<br>ずいぶんワクワクする響きじゃない。,啊啦，秘密基地这说法真是让人心跳加速呢。
+21,"Rescuing someone from a secret base is nothing to get excited about, if you ask me.",その秘密基地から、<br>人を助け出そうってんだから<br>ワクワクしてる場合じゃねぇだろ……,要从那个秘密基地里把人救出来，这可不是该心跳加速的场合吧。
+22,"The Istavion Troop has a secret base, huh?",イスタバイオン軍の秘密基地、か……,伊斯塔拜恩军的秘密基地，吗……
+23,"No matter what the deal is, it sounds like this won't exactly be a piece of cake.",なんであれ、<br>こりゃあ、<br>一筋縄じゃいかなさそーだぜ……,不管怎么说，这下事情没那么好处理了呀。
+24,姬塔 looks over at the mysterious island in the distance.,<span class='scene-font-katari'>ビィの言葉に姬塔は、</span><br><span class='scene-font-katari'>行く手に近づく瘴流域と、</span><br><span class='scene-font-katari'>見知らぬ島を見やる。</span>,<span class='scene-font-katari'>伴着碧这句话，姬塔眺望着已经接近的瘴流域以及这个未知的岛屿。</span>
+25,The crew prepare themselves to face the danger ahead as monsters begin creeping into view.,<span class='scene-font-katari'>危険な地への覚悟を固めながら、</span><br><span class='scene-font-katari'>一行は襲いくる空の魔物に</span><br><span class='scene-font-katari'>相対するのだった。</span>,<span class='scene-font-katari'>就在众人重新坚定面对危险的决心时，一群空中魔物袭来。</span>
+info,1,1,scene_cp74_q2_s20

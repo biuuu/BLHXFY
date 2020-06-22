@@ -1,0 +1,9 @@
+﻿id,name,detail
+npc,库库鲁,3040159000
+special,必胜突袭,水属性伤害(特大)/抑制效果
+skill-1,火药桶,消耗全部火药桶，对敌方单体造成水属性伤害<span class=text-blue>◆消耗火药桶越多，性能越强</span>
+skill-2,赶尽杀绝,<div class=prt-text-small>对敌方全体造成4倍水属性伤害/攻防DOWN(5%，累积，最大40%)　<span class=text-blue>◆4回合间每回合结束时进行一次压制射击</span></div>
+skill-3,武器鉴定,对我方单体进行特殊强化(攻击50%UP/二连击率60%UP/三连击率30%UP/回避率50%UP)
+support-1,膛线,使用奥义时，膛线Lv上升(最大2)<span class=text-blue>◆膛线Lv越高，「赶尽杀绝」和压制射击性能越强</span>
+support-2,火药桶,<div class=prt-text-small>火药桶数量每回合增加(最大5)/受伤时数量减少1/火药桶数量越多，连击率UP　<span class=text-blue>◆战斗开始时，火药桶数量为3</span></div>
+intro,创意的铳设计士,制作了自负为最好的铳以后，设计士的少女开始烦恼，接下来自己要做的铳究竟是什么样子的呢。作为设计士，作为骑空士，她正要突破一个独自的世界。

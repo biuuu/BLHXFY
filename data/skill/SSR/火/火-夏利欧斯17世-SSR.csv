@@ -1,0 +1,8 @@
+﻿id,name,detail
+npc,夏利欧斯17世,3040144000
+special,战事终结,火属性伤害(极大)/消去敌方单体3个强化效果/赋予自身「禁忌代价」效果<span class=text-blue>◆仅在威慑模式下发动</span>
+skill-1,高昂士气,回复我方单体HP/活性效果/伤害提升(敌MHP1%，上限30000)
+skill-2,炎令,我方全体火属性攻击大幅UP<span class=text-blue>◆消耗30%奥义值</span>
+skill-3,过载威慑,消耗所有「终灭之辉」，可立即发动奥义/启动威慑模式<span class=text-blue>◆「终灭之辉」数量在4以上才能发动</span>
+support-1,不畏神魔之王,使用技能时累积「终灭之辉」(最大4)<span class=text-blue>◆只能在威慑模式下发动奥义</span>
+skill-lb,LB技能,每回合结束时有概率积累「终灭之辉」

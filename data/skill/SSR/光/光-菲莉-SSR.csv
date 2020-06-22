@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,菲莉,3040073000
+special,艾德兰狂攻,光属性伤害(特大)
+skill-1,毒化,对敌方全体造成光属性伤害
+skill-1,毒化,对敌方全体造成2.5~3.5倍光属性伤害
+skill-2,残暴,<div class=prt-text-small>我方全体奥义伤害UP(60%)/伤害上限UP(10%)/防御DOWN(20%)</div>
+skill-2+,残暴,<div class=prt-text-small>我方全体奥义伤害UP(60%)/伤害上限UP(15%)/防御DOWN(20%)</div>
+skill-3,聚光,<div class=prt-text-small>我方全体必定三连击/获得光属性追击效果(30%)/奥义冻结效果<span class=text-blue>◆消耗我方全体成员100%奥义值</span></div>
+support-1,我来调教你,我方全体暴击率UP(5%概率，1.3倍伤害)
+skill-lb,LB技能,有极低概率回避敌方所有攻击

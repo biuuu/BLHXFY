@@ -1,0 +1,63 @@
+id,name,text,trans
+0-chapter_name,,第86章　千里眼の賢者,第86章 千里眼的贤者
+0-synopsis,,カイン達と共に<span class='scene-font-place'>クルーガー島</span>へと向かう途中、ビィは<span class='scene-font-place'>白風の境</span>に置いてきたグランサイファーのことを思い出す。やがて島に接近した姬塔達の戦艦内に、魔法による通信の声が響く。島への侵略ならば引き返すよう警告する声の主はイオだった。イオは姬塔がイデルバにいることに驚きつつも、千里眼の賢者の世話になっていることを説明し、島への案内を買って出るのだった。,在众人前往<span class='scene-font-place'>克尔加岛</span>途中，碧想起留在<span class='scene-font-place'>白风之境</span>的格兰赛法。当战舰靠近岛屿时，姬塔等人接收到魔法传来的通信。而警告众人不要侵略岛屿的正是伊欧的声音。对姬塔等人在伊迪尔瓦阵营一事，伊欧也非常震惊。她向同伴们说明是千里眼的贤者收留了她，并提出为众人带路。
+0,,<span class='scene-font-katari'>カイン達イデルバ王国軍と共に、</span><br><span class='scene-font-katari'>千里眼の賢者が待つという、</span><br><span class='scene-font-place'>クルーガー島</span><span class='scene-font-katari'>へと進む姬塔一行。</span>,<span class='scene-font-katari'>姬塔一行跟随该隐率领的伊迪尔瓦王国王国军一同前往千里眼的贤者所在的</span><span class='scene-font-place'>克尔加岛</span><span class='scene-font-katari'>。</span>
+1,,<span class='scene-font-katari'>その島の姿は、</span><br><span class='scene-font-katari'>すでに戦艦の甲板から</span><br><span class='scene-font-katari'>肉眼で捉えられるものとなっていた。</span>,<span class='scene-font-katari'>此时，从战舰的甲板上已经能看见岛屿了。</span>
+2,ビィ/碧,はぁ……,唉……
+2-sel1_txt,,<span class='scene-font-katari'>ため息なんて珍しい</span>,<span class='scene-font-katari'>很少见你叹气啊</span>
+2-sel2_txt,,<span class='scene-font-katari'>何か悩み事？</span>,<span class='scene-font-katari'>有什么心事吗？</span>
+3,ビィ/碧,いやぁ……<br>ふと思っちまったんだけどよぅ……,也没什么……<br>只是突然想起来了……
+4,ビィ/碧,こうして新しい島に行くときはいつも、<br>グランサイファーに乗ってたなぁ……<br>って思ってさ。,以前像这样去其他岛屿的时候，总是乘着格兰赛法……
+5,ビィ/碧,いやぁ……<br>置いてきちまったグランサイファー<br>どうしてっかなぁ、と思って……,嗯……<br>被咱们留在那里的格兰赛法现在怎么样了呢……
+6,カタリナ/卡塔莉娜,グランサイファーか……<br>いまは<span class='scene-font-place'>白風の境</span>に停泊させたままに<br>なってしまっているはずだな……,格兰赛法么……<br>现在应该还停在<span class='scene-font-place'>白风之境</span>吧……
+7,ルリア/露莉亚,そうですね……<br>私達がなかなか帰ってこないから、<br>寂しがってるんじゃないでしょうか……,是啊……<br>我们还不能回去，它会不会寂寞呢……
+8,レオナ/蕾欧娜,そのグランサイファーというのが、<br>姬塔さん達騎空団の<br>艇なんですか？,你们说的格兰赛法，是你们骑空团的船吗？
+9,ルリア/露莉亚,はい……でも、私達は<span class='scene-font-place'>白風の境</span>から、<br>この空域に来てしまったから、<br>一人ぼっちにさせてしまっているんです。,是的……我们从<span class='scene-font-place'>白风之境</span>来到这个空域，害它独自留在那里。
+10,カイン/该隐,仲間のことも心配だろうけど、<br>それはそれで確かに気にかかるな。,的确，你们不仅要担心走散的同伴，骑空艇留在原地也是个问题啊。
+11,カイン/该隐,しかし、<br>騎空艇で空域を越えるとなると……,但是，如果用骑空艇穿越空域的话……
+13,ラインハルザ/莱茵哈萨,もうじき<span class='scene-font-place'>クルーガー島</span>の港に着くそうだ。<br>この軍の指揮官が、<br>こんなところで何して――,马上就到<span class='scene-font-place'>克尔加岛</span>了。<br>你这个指挥官在这里闲逛什么——
+15,？？？,<span class='scene-font-gray'>えーっと……こほん。</span><br><span class='scene-font-gray'>そこの戦艦……</span><br><span class='scene-font-gray'>貴方達、イデルバ王国なのよね？</span>,<span class='scene-font-gray'>呃……咳咳。前面的战舰……你们是伊迪尔瓦王国的吧？</span>
+16,カイン/该隐,っ！？　これ……<br>魔法で声をこっちに<br>届けてるのか……！？,唔！？ 这是……<br>对方在用魔法和我们通讯吗……！？
+17,ルリア/露莉亚,こ、この声って……！！,这、这个声音是……！！
+18,？？？,<span class='scene-font-gray'>もし、この島を侵略に来たんだったら、</span><br><span class='scene-font-gray'>いますぐ引き返して。</span><br><span class='scene-font-gray'>そうすれば、マスターも――</span>,<span class='scene-font-gray'>如果你们是来侵略这座岛的，就请你们赶快回去。那样的话，老师也会——</span>
+19,ルリア/露莉亚,イ、イオちゃんっ！！<br>私達です！　ルリアです！,伊、伊欧！！<br>是我们！ 我是露莉亚！
+19-sel1_txt,,<span class='scene-font-katari'>忘れたとは言わせない！</span>,<span class='scene-font-katari'>可别说把我们忘了！</span>
+19-sel2_txt,,<span class='scene-font-katari'>やっと見つけた！</span>,<span class='scene-font-katari'>终于找到你了！</span>
+20,イオ/伊欧,<span class='scene-font-gray'>えっ……！</span><br><span class='scene-font-gray'>う、うそ……</span>,<span class='scene-font-gray'>咦……！</span><br><span class='scene-font-gray'>不会吧……！</span>
+26,,<span class='scene-font-katari'>一行が港にイデルバの軍艦を停泊させ、</span><br><span class='scene-font-katari'>クルーガー島に降り立つと、</span><br><span class='scene-font-katari'>すぐさま駆け寄ってくる姿があった。</span>,<span class='scene-font-katari'>伊迪尔瓦的军舰在克尔加岛的港口停下。众人一落地便看到伊欧向他们跑来。</span>
+32,イオ/伊欧,うわー！　なんで！？<br>どうしてルリア達が、<br>イデルバ王国の戦艦に……,哇！ 为什么！？<br>为什么你们会乘着伊迪尔瓦王国的战舰来……
+33,イオ/伊欧,ううん、それよりも！<br>とにかく無事で良かった！,不管这个了！<br>你们没事就好！
+34,ルリア/露莉亚,イオちゃん！<br>イオちゃんも無事で良かったです！,伊欧！<br>你也没事，真是太好了！
+35,ビィ/碧,へへっ……<br>まさかこの島で、<br>いきなりイオに会えるとはなぁ……,嘿嘿……<br>没想到能在这个岛遇见伊欧……
+36,カタリナ/卡塔莉娜,悩みはしたが、<br>この依頼は受けて正解だったようだな。,虽然之前犹豫再三……接受这个委托真是非常正确。
+37,,<span class='scene-font-katari'>思いがけず再会したイオに、</span><br><span class='scene-font-katari'>姬塔は声をかける。</span>,<span class='scene-font-katari'>面对意外再会的伊欧，姬塔也上前说道。</span>
+37-sel1_txt,,<span class='scene-font-katari'>びっくりした</span>,<span class='scene-font-katari'>真没想到</span>
+37-sel2_txt,,<span class='scene-font-katari'>びっくりした？</span>,<span class='scene-font-katari'>没想到吧？</span>
+38,イオ/伊欧,あたしだって、<br>すっごくびっくりしたんだから！,我也没想到呀！
+39,イオ/伊欧,うん……<br>まさか姬塔達が、<br>イデルバ王国に居たなんて……,嗯……<br>没想到姬塔你们会在伊迪尔瓦王国……
+40,イオ/伊欧,あたしね、マスターから、<br>イデルバ王国の良い話を<br>あんまり聞いてなくて……,关于伊迪尔瓦王国，我没从老师口中听到什么好评价呢……
+41,レオナ/蕾欧娜,たはは……まぁ、確かに、<br>いまイデルバと<span class='scene-font-place'>クルーガー島</span>は、<br>あまり良い関係ではありませんから……,啊哈哈……这个嘛，确实，现在伊迪尔瓦和<span class='scene-font-place'>克尔加岛</span>关系不太好……
+42,イオ/伊欧,でも、姬塔達が一緒ってことは、<br>きっと悪い人達じゃないのよね。,不过，既然和姬塔你们在一起，他们也不是什么坏人吧。
+43,賢者の弟子,イオちゃん……<br>この人達は、<br>イオちゃんの知り合いなのかい？,伊欧……<br>你认识他们吗？
+44,イオ/伊欧,うん、あたしの騎空団の仲間だよ。<br>いまはイデルバ王国の人達と、<br>一緒に居るみたいだけど……,嗯，他们是我骑空团的同伴。<br>虽然现在和伊迪尔瓦王国的人在一起……
+45,,<span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>自分達がイデルバに身を寄せるまでの</span><br><span class='scene-font-katari'>経緯をイオに説明する。</span>,<span class='scene-font-katari'>姬塔把他们暂留伊迪尔瓦的原委告诉了伊欧。</span>
+50,イオ/伊欧,そっか……<br>姬塔達も、<br>ずいぶん色々あったんだ……,这样啊……<br>姬塔你们也经历了很多呢……
+51,イオ/伊欧,あたしは瘴流域に巻き込まれた後、<br>気付いたらこの<span class='scene-font-place'>クルーガー島</span>にいて……<br>マスターに助けてもらったの。,我被卷进瘴流域之后，再次醒来就在<span class='scene-font-place'>克尔加岛</span>了……<br>是老师救了我。
+51-sel1_txt,,<span class='scene-font-katari'>マスター？</span>,<span class='scene-font-katari'>老师？</span>
+52,賢者の弟子,マスターとは我々の師……<br>貴方達が言うところの、<br>千里眼の賢者のことです。,就是我们的老师……<br>你们所说的千里眼的贤者。
+53,イオ/伊欧,あたしの師匠は師匠ひとりだし、<br>マスターの<br>弟子になったわけじゃないけど……,虽然我的师父就只有师父一个，我并没有成为老师的弟子……
+54,イオ/伊欧,でも、いまはお世話になってるから、<br>他のお弟子さん達と<br>同じように呼んでるんだ。,不过，既然在受他照顾，我就和其他弟子一样叫他老师了。
+55,イオ/伊欧,っと、そうそう……,哦，对了……
+56,イオ/伊欧,姬塔達も、<br>イデルバ王国の人も、この島には<br>マスターに会いに来たのよね？,姬塔，还有伊迪尔瓦王国的人，你们都是来见老师的吧？
+57,カイン/该隐,ああ……<br>一度、賢者様とちゃんと話がしたくてさ。,嗯……<br>我们想和贤者大人好好谈谈。
+58,イオ/伊欧,任せて！<br>それなら、あたしが案内したげる。,那交给我吧！<br>我来带路。
+59,イオ/伊欧,マスターは厳しい人だけど、<br>きっと姬塔達のことも、<br>気に入ると思うから！,虽然老师很严厉，但肯定会喜欢姬塔你们的！
+60,ルリア/露莉亚,ふふっ……<br>それに、イオちゃんを助けてくれた、<br>お礼を言わなくちゃいけませんしね。,呵呵……<br>我们还要去感谢他救了伊欧才行。
+60-sel1_txt,,<span class='scene-font-katari'>緊張してきた……</span>,<span class='scene-font-katari'>有点紧张……</span>
+60-sel2_txt,,<span class='scene-font-katari'>手土産を用意しないと</span>,<span class='scene-font-katari'>应该带见面礼去吧</span>
+61,イオ/伊欧,うーん……まぁ、確かにマスターは、<br>ちょっと怖い雰囲気があるけど……<br>姬塔なら大丈夫よ！,唔……虽然老师看起来有点可怕……<br>但是姬塔的话肯定没问题的！
+62,イオ/伊欧,そんなに畏まらなくて大丈夫。<br>マスターはちょっと怖く見えるけど、<br>意外と優しい人なんだから。,不用这么正式啦。<br>老师虽然看起来有些可怕，但其实是个很温柔的人。
+63,イオ/伊欧,そうそう……<br>この<span class='scene-font-place'>クルーガー島</span>にも、<br>魔物が出るんだけど……,对了……<br><span class='scene-font-place'>克尔加岛</span>也会有魔兽出没……
+64,カタリナ/卡塔莉娜,ふふ……<br>魔物相手とはいえ、<br>イオと一緒に戦うのは久しぶりだな。,呵呵……<br>区区魔兽而已。不过，很久没和伊欧一起战斗了呢。
+65,イオ/伊欧,えへへ……<br>魔法の腕が落ちてないってとこ、<br>ちゃーんと見せてあげるんだから！,哎嘿嘿……<br>我的魔法可一点都没有退步哦，看好了！
+info,,,scene_cp86_q2_s10

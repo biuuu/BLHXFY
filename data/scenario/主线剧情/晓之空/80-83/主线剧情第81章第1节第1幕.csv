@@ -1,0 +1,68 @@
+id,en,jp,trans
+0-chapter_name,81: King of the Outlaws,第81章　盗賊王,第81章　盗賊王
+0-synopsis,"姬塔 and the crew learn that the island is near Silverwind Stretch, but their friends may be in another skydom. The crew falls quiet, but the outlaws cut the silence.",姬塔達はカインの案内で訪れた村の長老に事情を説明する。そこで姬塔達が知らされたのは、この島が白風の境に近いという事と、瘴流域に飲まれ流されたらどこに吐き出されるか分からず、他の仲間達との合流が非常に難しいという事だった。呆然とする姬塔達にカインが何やら提案をしようとした瞬間、盗賊団が銃声を響かせ、村に押し寄せて来るのだった。,该隐带着姬塔等人来到村中并向长老说明了事情经过。而他们却被告知，这座岛离白风之境很近，但是被瘴流域吞进去后不知道会在哪被吐出来，因此和其他同伴汇合十分困难的事。正当该隐想向手足无措的姬塔等人提议时，盗贼团的枪声响起，麇集村中。
+0,"With Cain's help, 姬塔 and the crew arrive at the village.",<span class='scene-font-katari'>カインの案内で村を訪れた、</span><br><span class='scene-font-katari'>姬塔、</span><br><span class='scene-font-katari'>ビィ、ルリア、カタリナ。</span>,<span class='scene-font-katari'>该隐带着姬塔、碧、露莉雅、卡塔莉娜来到了村中。</span>
+1,They first meet with the village elder and explain their predicament.,<span class='scene-font-katari'>一行はまず、</span><br><span class='scene-font-katari'>自分達の置かれている状況を把握すべく、</span><br><span class='scene-font-katari'>村の長老に事情を説明する。</span>,<span class='scene-font-katari'>众人为了把握自身所处的状况，向村中的长老说明了各种事情。</span>
+2,"Unbelievable... Swallowed by the Grim Basin from the Silver Wall, and yet here you are...",なんと……<br>あの白壁から瘴流域に飲まれて、<br>こちらにいらっしゃったとは……,令人震惊啊，竟然是在那个银白之壁上被瘴流域卷入而来到这里的。
+3,"The elder, along with other villagers who have gathered there, stares in open wonder at 姬塔 and the crew.",<span class='scene-font-katari'>長老や、集まってきた村人達は、</span><br><span class='scene-font-katari'>皆一様に、</span><br><span class='scene-font-katari'>姬塔達へ奇異の目を向ける。</span>,<span class='scene-font-katari'>长老和聚集而来的村民们都向一行人投以惊诧的目光。</span>
+4,"Pardon me, but did you say Silver Wall?",あの……<br>白壁、というのは？,那个…你说的银白之壁是？
+5,"That's the Eoniho Mountains. It's what they're called in Phantagrande, right?",エオニオ山脈……<br>確かファータ・グランデじゃ、<br>そう呼ぶんだっけか。,艾欧尼欧山脉——我记得在法塔格兰德空域那边是这么称呼的吧。
+6,"So in Nalhegrande, those big mountains are called the Silver Wall. I see!",ナル・グランデ空域では、<br>あのおっきなお山のことを、<br>そんな風に呼ぶんですね。,纳尔格兰德空域这里是这样称呼那座大山的呢。
+7,"Now you mention it, they do look like one giant silvery wall!",確かに、<br>デッケぇ白い壁みたいにも見えるよな！,确实很像是一堵巨大的白色墙壁呢。
+8,Merkmal Island here is on the outskirts of Nalhegrande... Extremely close to the Silver Wall.,ここ、<span class='scene-font-place'>メルクマール島</span>は、<br>ナル・グランデ空域のはずれ……<br>白壁にずいぶん近い島ですから……,<span class='scene-font-place'>美克马尔岛</span>，这里是纳尔格兰德空域中离银白之壁最近的岛屿了。
+9,"As such, it's a name that came up naturally over time.",日々、目にする姿から、<br>自ずとそのような名前がついたのです。,每天都能亲眼目睹那里的景色，于是我们自己给它取了这样的名字。
+10,A wave of relief washes over Katalina after hearing how close they are to Silverwind Stretch.,<span class='scene-font-place'>メルクマール島</span><span class='scene-font-katari'>が</span><span class='scene-font-place'>白風の境</span><span class='scene-font-katari'>に近いと聞き、</span><br><span class='scene-font-katari'>カタリナは安堵した表情を見せる。</span>,<span class='scene-font-katari'>听说了</span><span class='scene-font-katari'>美克马尔岛</span><span class='scene-font-katari'>离</span><span class='scene-font-place'>白风之境</span><span class='scene-font-katari'>很近之后，卡塔莉娜安心了一些。</span>
+11,I guess we weren't thrown very far in the end.,あまり遠くまで<br>飛ばされたわけではなかったようだな。,看来我们还没有被吹飞到太远的地方啊。
+12,We had many more crew members with us though.,私達には、<br>もっとたくさんの仲間が<br>居たんだが……,我们原本是许多伙伴都在一起的。
+13,And since we were all at the top of the Eoniho Mountains... it's likely that they were all swallowed by the Grim Basin too.,エオニオ山脈の頂上……<br>あの場に居た恐らく全員が、<br>瘴流域に飲まれてしまったんだ。,在艾欧尼欧山脉顶峰那里…恐怕所有人都被瘴流域卷进去了。
+14,Have you received any word of other mysterious visitors like ourselves?,<br>他に私達のような漂流者の話を、<br>耳にしてはいないだろうか。,请问您对附近一带也有像我们这样的漂流者的事有所耳闻吗？
+15,...,…………,…
+16,"With a grave tone in his voice, the elder begins to answer.",<span class='scene-font-katari'>問いかけるカタリナに対し、</span><br><span class='scene-font-katari'>長老はそれを答えとするように、</span><br><span class='scene-font-katari'>沈痛な表情を浮かべる。</span>,<span class='scene-font-katari'>对于卡塔莉娜的问题，长老带着沉痛的表情准备回答。</span>
+17,Truth be told... it's a miracle that you all are even here.,あのさ……ハッキリ言うと、<br>いま姬塔達が<br>ここに居るだけでも、奇跡に近いんだぜ。,那个啊…直截了当地说，你们现在能待在这里已经是近乎奇迹的事了。
+18,What's that you say?,なに……？,什么？
+19,"Compared to Phantagrande, Grim Basin research has come pretty far in Nalhegrande.",このナル・グランデ空域は、<br>ファータ・グランデよりも、<br>瘴流域の研究が進んでてさ……,其实纳尔格兰德空域对于瘴流域的研究比法塔格兰德空域更进一步。
+20,We now know that within the Grim Basin is a fixed current that acts much like an airflow.,瘴流域には、<br>気流みたいな一定の流れがあることが<br>わかってんだ。,我们知道在瘴流域中有像气流那样的流体存在。
+21,But it's dozens of times stronger than those that normally carry airships.,ただそれは、<br>騎空艇を動かすような気流の<br>何十倍も強くて……,但是那个比驱动骑空艇飞行的气流要强上数十倍。
+22,"On top of that, it courses around the Grim Basin, ultimately connecting all the skydoms.",しかも、全空域を繋ぐ壁である<br>瘴流域全体を巡るように流れてる。,瘴流域是接邻着所有空域的障壁，而那股流体是在整个瘴流域中流动。
+23,So... what you're saying is...,えっと……<br>じゃあ、それって……,那…那么，就是说…
+24,"I'm saying... once you're taken in by the Grim Basin, there's no telling where you'll end up.",つまり……<br>一度、瘴流域に飲まれて流されたら、<br>どこで瘴流域を出られるかわからない。,也就是说，一旦被瘴流域卷入其中，就不知道会在哪从瘴流域中出来。
+25,It has been many decades since anyone has survived a Grim Basin collapse only to wind up here on Merkmal.,瘴流域に飲まれた漂流者が、<br>この<span class='scene-font-place'>メルクマール島</span>に流れ着いたのも、<br>もう数十年ぶりの出来事です……,上次被卷进瘴流域的漂流者漂流到这座<span class='scene-font-place'>美克马尔岛</span>上恐怕已经有数十年之久了。
+26,"Even if your friends were able to escape, we've no place to begin looking for them.",お連れさん方が瘴流域から<br>吐き出されていたとしても、<br>それがいったいどこになるか……,即便你们的同伴从瘴流域中出来，恐怕也无从得知他们究竟在哪。
+27,"In the worst case, they may have been swept away to some other unknown skydom...",最悪の場合、ナル・グランデでも、<br>ファータ・グランデでもない空域に、<br>流れ着くこともありましょうな……,最坏的情况是他们漂流到了既不是纳尔格兰德也不是法塔格兰德空域的其他空域去了。
+28,...,…………,…
+29,...,…………,…
+30,...,…………,…
+31,"Realizing the difficulty in finding their friends again, the crew is stunned into silence.",<span class='scene-font-katari'>仲間達との合流が</span><br><span class='scene-font-katari'>非常に難しいものだと知り、</span><br><span class='scene-font-katari'>一行はただただ呆然とする。</span>,<span class='scene-font-katari'>得知了与同伴汇合一事十分困难之后，众人呆住了。</span>
+32,"No way... I mean, what are we supposed to do then?",うそ、だろ……<br>じゃ、じゃあ、オイラ達、<br>いったいどうしたら……,骗人…的吧…那，那我们到底该怎么办？
+33,"Well, I've got an idea.",それなんだけどさ、<br>一つ、提案。,关于那件事，我有个建议。
+34,You do?,提案、ですか……？,建议吗？
+35,"Sure, if it's all right with you, 姬塔, why don't you and your friends join me—",ああ、姬塔達がよければ、<br>ひとまず、俺と一緒に――,如果你们乐意的话，就先和我——
+37,The sound of a gunshot suddenly rips through the quiet of the village.,<span class='scene-font-katari'>突如、閑静な村の中に、</span><br><span class='scene-font-katari'>甲高い銃声が響き渡る。</span>,<span class='scene-font-katari'>突然，尖锐的枪声在这个安静的村子中响起。</span>
+38,Hey! I know you're in there.<br>Come on out.,おう、居るんだろ。<br>出て来いよ。,喂，都在的吧，滚出来吧。
+39,That voice... It can't be!,この声……まさか！？,这个声音……难道是！？
+42,"If a couple of my guys roughed you up, it's only polite to make amends in person.",うちの部下が迷惑かけたってんなら、<br>挨拶くらいするのが、<br>礼儀だと思ってなぁ……,既然给我的部下造成了这么大的麻烦，至少打个招呼才合乎礼仪吧。
+43,"I'm not asking you to fix us some tea and crumpets, but you could at least come out for a chat. What do you say?",もてなせとは言わねぇがよ、<br>顔ぐらい見せてくれても<br>いいんじゃねぇか？　なぁ？,也没让你们好好招待我们，至少露个脸让我瞧瞧才好吧？
+46,"As the man speaks, the elder's face grows pale.",<span class='scene-font-katari'>外から響く声に、</span><br><span class='scene-font-katari'>長老の顔はみるみる青ざめていく。</span>,<span class='scene-font-katari'>听到外面传来的声音，长老的脸色变得铁青。</span>
+47,"I hate to ask, but did you folks happen to get involved with these fellows?",旅の方……<br>まさかとは思いますが、<br>連中と何か問題でも……？,各位旅人啊…虽然不愿意这么想，但你们该不会和那些人惹上了什么事吧？
+48,"Oops, you got us!",……てへ☆,……てへ☆
+49,How many times did I warn you not to cause any problems with them!,あれほど彼らとは<br>問題を起こさないようにと、<br>何度も言ったじゃありませんか！！,我不是交代了很多次不要和那些人纠缠起来吗！
+50,"Well, I was being careful until I got caught. But those guys just won't let bygones be bygones...",いや、俺も気を付けてたんだけど、<br>一回絡んでくると、<br>なかなか解放してくれなくてさ……,不是，我也很注意这件事了，但是被那些家伙牵扯上一次，就难脱关系了。
+51,This island is their territory! Do you know what will happen if we object to them?,この島は彼らの国なのです……！<br>逆らえば、いったいどうなるか……！,这座岛是他们的国家，反抗他们的话不知道会是何种后果！
+52,Just hurry and get out! I won't let you get us involved! Now all of you out!,と、とにかく早く出てください！<br>我々を巻き込んでくださるな！<br>さぁ、貴方達もです！,总，总之你们赶紧出去吧！不要把我们也卷进来！快，你们也是！
+53,Whoa! Wait a minute here! We're—,うわっ！？<br>ちょっと待てよ！<br>オイラ達は……,呜哇！等等啊，我们只是…
+54,This island is their territory... That means the comrades of those outlaws we saw are paying us a visit.,この島は彼らの国……<br>ということは、訪ねてきたのは<br>恐らくあの盗賊の仲間だろう。,这座岛是他们的国家…也就是说来这里的恐怕就是那些盗贼的同伴了吧。
+55,"If that's the case, then there's no talking our way out of this.",だとするならば、<br>私達も他人事では済まないぞ……,如果是这样的话，我们也不能把这当成是别人的事了。
+61,Tzar! It's them!,キング！　こいつらだ！,老大！就是他们！
+62,"Say, are you the ones my guys were giving trouble to?",おう、お前らか、<br>オレの部下が迷惑かけた、ってのは。,喔，给我部下造成麻烦的就是你们啊。
+63,The man called Tzar glares at 姬塔 and the crew.,<span class='scene-font-katari'>キングと呼ばれるドラフの男は、</span><br><span class='scene-font-katari'>ギロリと</span><br><span class='scene-font-katari'>姬塔達を睨みつける。</span>,<span class='scene-font-katari'>被叫做老大的那个牛族男子凶巴巴地瞪着姬塔一行人</span>
+64,I'm Reinhardtzar. I'm in charge of the outlaws on this island.,オレはラインハルザだ。<br>この島のゴロツキを仕切ってる。,我是莱茵哈萨，统率着这座岛上的盗贼们。
+65,Something about you folks has got me curious though. Come with me to our den.,それで、<br>お前らに興味があるんだ。<br>ちょっとアジトまで付き合えよ。,我对你们颇感兴趣，跟我去一趟据点如何。
+66,"Sorry, but we don't have time to go anywhere with you right now.",悪いが……<br>いま私達には貴殿らに付き合っている<br>時間はない。,抱歉，我们现在并没有时间奉陪你们。
+67,Oh yeah? Then you leave me no choice.,そうかい……<br>じゃあ、仕方ねぇな。,这样啊，那就没办法了。
+68,Reinhardtzar raises his hand only slightly before a group of outlaws step forward.,<span class='scene-font-katari'>ラインハルザが軽く手を挙げると、</span><br><span class='scene-font-katari'>控えていた盗賊達が前に出る。</span>,<span class='scene-font-katari'>莱茵哈萨轻轻抬手，听命于他的盗贼们就走上前来。</span>
+71,Don't kill them. We haven't finished our chat yet.,殺すなよ。<br>オレは話がしたいんだ。,可别弄死了，我还有话要和他们说呢。
+72,Aye!,おう……！,哦！
+73,Aw rats! I should've seen this coming...,くそぅ……！<br>やっぱこうなんのかよ……,可恶！果然变成这样了。
+74,We don't have any more time to waste... But there's no way around this fight.,いまは時間が惜しいが……<br>降りかかる火の粉は<br>自分で払うしかないな……,虽然现在时间很宝贵，但是自己惹的祸就要自己解决。
+76,We can't let them stop us here. We'll dispatch them and be swift about it!,ここで足止めされるわけには<br>いかないんだ……<br>早々に片付けさせてもらうぞ！,可不能让他们在这里挡住我们了，赶紧收拾了吧！
+info,1,1,scene_cp81_q1_s10

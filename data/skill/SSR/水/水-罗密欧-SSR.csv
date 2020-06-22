@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,罗密欧,3040098000
+special,维罗纳的黎明,水属性伤害(特大)<br><span class=text-blue>◆消耗1英灵追加伤害</span>
+skill-1,利刃,<div class=prt-text-small>对敌方单体造成2.5～3.5倍水属性伤害<span class=text-blue>◆消耗1英灵，赋予敌方水属性防御DOWN效果</span></div>
+skill-1+,利刃,<div class=prt-text-small>对敌方单体造成3～4倍水属性伤害<span class=text-blue>◆消耗1英灵，赋予敌方水属性防御DOWN效果</span></div>
+skill-2,信念,<div class=prt-text-small>成为攻击目标　<span class=text-blue>◆消耗1英灵，减轻火属性伤害</span></div>
+skill-3,蓝焰,进入增幅状态/技能可即时使用  <span class=text-blue>◆再使用后结束增幅状态，回复全部英灵(5英灵)</span>
+support-1,维罗纳的守护精灵,<div class=prt-text-small>每过5回合，赋予自身英灵效果/无英灵时，攻击力大幅DOWN　<span class=text-blue>◆普攻消耗1英灵</span></div>
+support-2,英灵的加护,英灵效果中攻防UP
+skill-lb,LB技能,使用技能有概率不消耗英灵

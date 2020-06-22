@@ -1,0 +1,8 @@
+id,name,detail
+npc,志鸟,3040244000
+special,天雷·星穿,<div class=prt-text-small>光属性伤害(特大)/自身奥义值+20%
+skill-1,月云花风,<div class=prt-text-small>敌方全体攻击DOWN/防御DOWN<br><span class=text-blue>◆天之羽雷层数为3时，追加麻痹效果</span></div>
+skill-2,双重编织,<div class=prt-text-small>对敌方全体造成光属性伤害/自身奥义值+20%/连续攻击率UP(累计)<br><span class=text-blue>◆消费1层天之羽雷发动2次</span></div>
+skill-3,祈祷天岩户的崩塌,<div class=prt-text-small>我方指定光属性角色获得技能使用间隔缩短10回合/奥义值+100%<br><span class=text-blue>◆再使用不可</span></div>
+support-1,境界的住人,最大奥义值变为200%/若回合结束时敌方处于麻痹状态，自身奥义值UP
+support-2,志操坚固,奥义发动时获得1层天之羽雷/根据天之羽雷的数量增加奥义性能(最大3层)

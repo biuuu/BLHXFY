@@ -1,0 +1,74 @@
+id,en,jp,trans
+0-chapter_name,68: What Was Lost,第68章　失われたもの,68：失去之物
+0-synopsis,"姬塔 and company arrive at a port to find Katalina and Eugen. Katalina doesn't remember Lyria, but feels relieved somehow at their meeting. Unable to find Io and Lecia there, the crew continues their search.",ダイダロイトベルトの外縁で、騎空艇に乗り込もうとするカタリナとオイゲンを見つける姬塔一行。カタリナはルリアの記憶を失っていたものの、ルリアを大切に思っていた感情だけは確かに残っていた。それを聞き、感極まった様子でカタリナに抱き着くルリア。カタリナ、オイゲンと合流した一行は、イオ、リーシャを見つけるべく捜索を続ける。,碎石环的外缘，姬塔等人找到了正想登上骑空艇的卡塔莉娜和欧根两人。卡塔莉娜失去了与露莉亚有关的记忆，但是她心中露莉亚仍然是最重要的人的感情还残留着。听到这句话的露莉亚，感动至极地抱住了卡塔莉娜。与卡塔莉娜、欧根合流的一行人，继续搜索伊欧和莉夏的下落。
+0,"姬塔 and company are searching for Katalina, Io, Eugen, and Lecia who've gone missing.",<span class='scene-font-katari'>消えたカタリナ、イオ、オイゲン、</span><br><span class='scene-font-katari'>リーシャを探す姬塔一行。</span>,<span class='scene-font-katari'>正在寻找行踪不明的卡塔莉娜、伊欧、欧根、莉夏的众人，
+1,"They arrive at the airship port in the Vergelands, where they see some familiar faces.",<span class='scene-font-katari'>ダイダロイトベルト外縁の</span><br><span class='scene-font-katari'>騎空艇発着所で、</span><br><span class='scene-font-katari'>一行はついに見知った人影を見つける。</span>,<span class='scene-font-katari'>在碎石环的边远地带，骑空艇着陆的场所，见到了认识的人。
+2,"Just listen to me, miss.",いやだからよ、姉さんよ……,所以说，这位大姐啊。
+3,"If you don't know where you're headed, what's the point in jumpin' on a ship?",あんたが何処に行きたいのか<br>わからないんじゃ、<br>艇に乗ったってどうしようもねぇだろ？,如果你不知道要去哪里，登上船也没有用吧？
+4,I know but... I just can't keep still here.,それはそうなんだが……<br>しかし、<br>居ても立っても居られないんだ。,我知道啊，但是……总觉得坐立不安的。
+5,"It's like, I need to hurry... for something important.",何かこう……<br>大切な何かが……私には……,感觉就像是什么很重要的东西，而我……
+7,Katalina!,カタリナーっ！,卡塔莉娜！
+8,So you were here all along! And Eugen's here with you!,へへっ！<br>姐さん、こんなとこに居たんだな！<br>それにオイゲンも居るじゃねーか！,嘿嘿，大姐头原来你在这里啊！而且欧根也和你在一块。
+9,Huh? How does this lizard know who I am?,あん？<br>このトカゲ、<br>何でオレの名前を知ってんだ？,啊？为什么这只四脚蛇知道我的名字啊？
+10,I ain't a lizard!,オイラはトカゲじゃねーっつの！,我才不是四脚蛇啊！
+11,Looks like you were about to get on that airship. We're just in time!,見たところ、<br>騎空艇に乗ろうとしてたみてーだな。<br>間一髪ってとこか？,看上去你们是要登上骑空艇的样子啊，真是千钧一发啊。
+12,But Io and Lecia aren't here. I'll go have a look inside.,イオちゃんとリーシャちゃんの姿は、<br>ここには無いようね……<br>アタシは騎空艇の中を見て来るわ。,但是还是不见伊欧酱和莉夏酱的身影呢，看起来是不在这里了。我去骑空艇内部看看。
+13,"If they're already off into the skies, we may never find them.",空に散ってしまったら、<br>さすがにもう、<br>探しようがないもの……,如果她们已经飞走了，恐怕就真的找不到了。
+14,"Rosetta boards the docked airship, unable to hide the concern on her face.",<span class='scene-font-katari'>ロゼッタはすがるような表情で、</span><br><span class='scene-font-katari'>停泊中の騎空艇に乗りこむ。</span>,<span class='scene-font-katari'>萝赛塔一副像是找着了救命稻草的表情，登上了停泊的骑空艇。
+15,"Katalina, full of confusion, begins to speak.",<span class='scene-font-katari'>その様子を不可解そうに見つめながら、</span><br><span class='scene-font-katari'>カタリナは呟いた。</span>,<span class='scene-font-katari'>对发生的事感到无法理解的卡塔莉娜开始说话。
+16,Who are you?,君達は……？,你们是谁？
+17,"Katalina, have you really forgotten me?",カタリナ……<br>やっぱり私のこと忘れちゃったの……？,卡塔莉娜，果然忘记了我的事情了吗？
+18,Forgotten? I've... forgotten something?,忘れる……？<br>私は……何かを忘れているのか？,忘记了？我……忘记了什么？
+19,Are you saying you can explain this unease I feel?,君は……<br>いま私が抱える言い知れぬ不安の正体を<br>知っているのか？,难道你……知道我胸中这股不安的真相是什么吗？
+20,"It's like, there's a hole in my heart. As if something's missing.",どこか胸に穴が開いたような……<br>何かが足りないような……<br>そんな気がするんだ。,就像心里开了一个洞，有什么东西没有填进去那样的感觉。
+20-sel1_txt,You need Lyria.,<span class='scene-font-katari'>ルリアが必要</span>,你需要露莉亚
+20-sel2_txt,She's what's missing.,<span class='scene-font-katari'>この子がその穴を埋める</span>,她就是你心中缺少的那一部分
+21,Lyria? Who is that?,ルリア……？<br>それは……？,露莉亚？那是谁？
+22,Katalina!,カタリナっ……！,卡塔莉娜！
+23,"Lyria hugs Katalina, clinging tightly to her armor.",<span class='scene-font-katari'>ルリアはカタリナに抱き着き、</span><br><span class='scene-font-katari'>その身体を覆う鎧にすがりつく。</span>,<span class='scene-font-katari'>露莉亚抱住了卡塔莉娜，将那副被铠甲包裹的身体抱住不放。
+24,Wait! What's going on?,っ！？<br>い、いきなり何を……！？,等……突然做什么呢？
+25,Katalina places her hands gently on Lyria's shoulders.,<span class='scene-font-katari'>カタリナは</span><br><span class='scene-font-katari'>抱き着くルリアの肩に手を伸ばす。</span>,<span class='scene-font-katari'>卡塔莉娜轻轻地将手放在露莉亚的肩膀上。
+26,The young girl trembles as she tries to hold back her sobs.,<span class='scene-font-katari'>その細い肩は、</span><br><span class='scene-font-katari'>涙をこらえるように、</span><br><span class='scene-font-katari'>小さく震えていたのだった。</span>,<span class='scene-font-katari'>那位少女就像是想要忍住哭泣一般，小小的肩膀一直在微微震动。
+27,You're Lyria. Right?,君が……ルリアなんだね？,你是露莉亚吗？
+28,"After a few moments, Lyria pulls away to look up at Katalina.",<span class='scene-font-katari'>少し間を置いてカタリナから離れると、</span><br><span class='scene-font-katari'>ルリアはカタリナを見つめ、</span><br><span class='scene-font-katari'>小さく呟いた。</span>,<span class='scene-font-katari'>过了一会露莉亚放开了卡塔莉娜，看着她，小声地说。
+29,You remember now?,思い出したんですか……？,你想起来了吗？
+30,No. But somehow...,いや……<br>だが、何故だろうな……,不，但不知怎的……
+31,"When I look at you, I feel relieved. As if the world I know is coming back to me.",君を見ていると、<br>どこか私の世界が帰ってきたような、<br>そんな安心感があるんだ。,当我看着你时，我的内心世界就回到了原来的样子，有一种这样的安心感。
+32,This girl? Just who are you?,この子が……？<br>君はいったい……？,这个孩子……到底是谁？
+33,I guess she really doesn't remember Lyria.,やっぱりルリアのことも、<br>覚えてねーんだな……,我猜她真的不记得露莉亚了。
+34,...,…………,…
+35,Is your name Lyria?,君は……ルリアというのか？,你叫露莉亚吗？
+36,"Lyria answers her with a small nod, and Katalina bows her head deeply.",<span class='scene-font-katari'>その問いにルリアが小さく頷くと、</span><br><span class='scene-font-katari'>カタリナは深く頭を下げた。</span>,<span class='scene-font-katari'>对于她的问题露莉亚微微点头回应，卡塔莉娜则深深地低下了头。
+37,I'm sorry. I know it's sudden to ask...,すまない……<br>だが、非礼を承知で尋ねよう……,对不起，这么问可能很失礼。
+38,But did I ever make a promise to you?,私は……<br>君と、何か約束をしていなかったか？,我与你曾经有过什么约定吗？
+39,!,……！！,！
+40,I feel like I promised something very important to you. Something I should never forget.,何か……とても大切なことを、<br>君に誓ったような気がするんだ……<br>決して忘れてはいけない何かを……,我好像与你作了一个十分重要的约定，绝对不应该忘记的约定。
+41,"Katalina! It's all coming back now that Lyria's here, eh?",姐さん……！<br>ルリアと会って、<br>色々思い出したんじゃねーか！？,大姐头已经想起了和露莉亚相遇以来发生的各种各样的事了吗！？
+42,"Not quite. You say I'm remembering, but I don't even know what I've forgotten.",いや……思い出すと言われても、<br>何を忘れているのかさえ、<br>未だにわからないが……,不……就算你说想起了什么，我都还不知道自己忘记了些什么。
+43,"But now that Lyria and everyone are here, I feel that the fog in my mind is beginning to lift.",だが、君達と……ルリアと出会って、<br>ずっと引っかかっていた何かが、<br>溶けてなくなったように思うんだ。,但是和你们，和露莉亚相遇之后，心中一直挂念着的什么事，好像突然就不见了的样子。
+44,!,――――っ！！,！
+45,"Since Kikuri controls fated connections, memory distortion is no more than a side effect of its power.",星晶獣キクリの能力は、<br>「縁」を支配することであり、<br>記憶の改竄は副産物に過ぎません。,星晶兽菊理的能力，是支配缘。记忆篡改说到底不过是一个副产物。
+46,"When you consider other primal beasts and their powers, Kikuri's memory manipulation is rather crude.",他のそれらが専門の星晶獣と比べれば、<br>キクリの記憶操作能力は、<br>お粗末なものでしょう。,与其他专门司掌这一能力的星晶兽相比，菊理操作记忆的能力可能不过是很粗糙的东西而已。
+47,However...,しかし……,然而…
+48,Katalina!,カタリナぁーっ！！,卡塔莉娜！！
+50,"Whoa there! Don't hurt yourself, Lyria.",うわっ！？<br>っとと……あ、危ないぞ？　ルリア。,哇！？很危险哦，露莉亚。
+51,"I'm sorry. It's just, I'm so happy!",ごめんなさい……<br>でも私、嬉しくって……！,对不起，但是我真的很开心！
+52,Getting memories to return after that precious connection is severed is nearly impossible.,しかし、それでも、<br>「縁」を断たれた相手に関することを<br>思い出すのは、至難の業です。,但是即便如此，想起切断了缘的对方的事还是十分困难的事。
+53,I guess the link between this young girl and knight is quite strong.,蒼の少女とあの騎士には……<br>とても強い結びつきがあるのですね。,我想苍之少女与那位骑士之间真的有着很深的羁绊呢。
+54,"You betcha! After all, she's known Lyria longer than any of us!",あたぼうよ！<br>姐さんはオイラ達よりずっと昔から、<br>ルリアと一緒に居るからな！,当然啦！大姐头和我们很早以前开始就一直待在一起了。
+55,"I don't really understand what's going on, but I guess that's settled then?",なんだかよくわからねぇが、<br>一件落着、ってことでいいのか？,虽然不知道发生了什么，但是姑且解决了一件事？
+56,A relieved Eugen appears as 姬塔 looks on and smiles at Lyria and the others.,<span class='scene-font-katari'>姬塔がルリア達の様子を</span><br><span class='scene-font-katari'>微笑ましく見守っていると、</span><br><span class='scene-font-katari'>どこか安堵した様子のオイゲンが現れる。</span>,<span class='scene-font-katari'>看到露莉亚她们的样子，姬塔只是在一旁微笑着守护着，而同样感觉安心下来的欧根站了出来。
+57,That bearded guy just told me everything.,話は全部、<br>そこのヒゲの兄ちゃんから<br>聞かせてもらったぜ。,我已经从胡子小哥那里听说了全部的事情了。
+58,"You're still looking for your friends, right? I hate to cut the reunion short, but we'd better get a move on finding them.",まだ見つかってない仲間もいるんだろ？<br>感動の再会も悪くねぇが、<br>残りもとっとと見つけちまおうぜ。,还有没找到的同伴吧？虽然感动的重逢也不坏，但是还是去赶紧做完剩下的事情先吧。
+59,"You're pretty quick on the uptake, old man.",おっさん、<br>えらく飲みこみが早ぇな……,大叔你理解的可真快啊。
+60,That saved me some trouble. How'd you wrap your head around all that?,いや、話が早いぶんには<br>助かるんだけどよ……<br>あんた、いったい何者なんだ？,不是，虽然能这么快领会确实是帮大忙了。但你到底是谁啊？
+61,It's nothing! There are still things I don't really get.,大したモンじゃあねぇさ。<br>ただ、オレも<br>すっきりしねぇもんがあったからな。,没什么大不了的，不过我也确实还有理不清的事情就是了。
+62,"But if it's a primal beast that's messin' with memories, then it makes a lot of sense.",星晶獣が絡んで<br>記憶をいじられてるってんなら、<br>このもやもやも納得ってぇもんだ。,但是既然和星晶兽有关，又是可以操作记忆的，也就能接受心中的那块疙瘩了。
+63,"Suddenly, Rosetta comes down from the airship with a sullen look on her face.",<span class='scene-font-katari'>そうこうしていると、</span><br><span class='scene-font-katari'>今度は暗い顔をしたロゼッタが、</span><br><span class='scene-font-katari'>騎空艇から降りてくるのだった。</span>,<span class='scene-font-katari'>在那时，萝赛塔从骑空艇上下来了，但是她脸上带着阴暗的表情。
+64,I couldn't find them. Io and Lecia aren't on this airship.,ダメね……<br>この騎空艇の中には、<br>イオちゃんもリーシャちゃんも居ないわ。,不行呢，伊欧和莉夏不在这艘骑空艇上。
+65,"Io is a young child, and there are hardly any children in the Dydroit Belt. She should stand out.",イオ、というのは確か幼い少女でしたね。<br>場所柄、ダイダロイトベルトで子供は、<br>非常に目立つはずです。,我记得，伊欧的话确实是那个年纪很小的女孩吧。这种情况下，在这碎石环上理应会有小孩的目击情报的。
+66,"And Lecia is a member of the Crew of Enforcers, so let's return to their station for now.",リーシャは秩序の騎空団の<br>団員ということもありますし、<br>一度、あの駐屯所に戻りましょう。,而莉夏是秩序骑空团的成员，不如就这么暂且回到驻扎所去吧。
+67,There may be information coming in already about the two of them.,もしかすると、<br>それぞれ何らかの情報が<br>入っているかもしれません。,可能已经有关于他们两个的信息了。
+68,"The gang agrees, and they head toward the Crew of Enforcers' station, driving back monsters along the way.",<span class='scene-font-katari'>黄金の騎士の言葉に一行は納得し、</span><br><span class='scene-font-katari'>強風の中襲いくる魔物を蹴散らしながら、</span><br><span class='scene-font-katari'>秩序の騎空団の駐屯所へと戻る。</span>,<span class='scene-font-katari'>接受了黄金骑士提议的众人，击退了在狂风中来袭的魔物，回到秩序骑空团的驻扎所去了。
+info,1,1,scene_cp68_q3_s10
+,,,

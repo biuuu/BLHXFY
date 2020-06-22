@@ -1,0 +1,53 @@
+﻿id,en,jp,trans
+0-chapter_name,73: Orchis and Orchid,第73章　オルキスとオーキス,第73章奥尔琪斯与奥琪斯
+0-synopsis,"姬塔 and company finally come face to face with Freesia who discovers that Lyria is unable to summon Akasha. She decides to look for Akasha on her own, and runs away with Orchis in tow to escape from the top of the tower, but the crew is hot on her heels.",ついに姬塔一行はフリーシアと相対する。星晶獣アーカーシャを呼び出すことの出来ないルリアに見切りをつけたフリーシアは、自らの手でアーカーシャを探し出すことを決め、オルキスを引きずり去っていく。タワー上階から逃げようと試みるフリーシアを逃がさないために、姬塔一行は急ぎその後を追うのだった。,终于，姬塔等人与芙莉西雅见面了。对于不能呼唤出星晶兽阿卡夏的露莉亚，芙莉西雅放弃了，她决定靠自己找出阿卡夏，并拖着奥尔琪斯离开了那里，芙莉西雅试图从塔上层逃离这里。姬塔等人急忙从后面追了上来。
+0,"You're here, which means you got my message.",――ここに来た、ということは、<br>言伝は伝わっていますね？,既然来到这里了，就意味着传话内容都了解了吧？
+1,...,…………,…………
+2,姬塔 and the crew enter the tower in central Agastia and find Freesia waiting for them.,<span class='scene-font-katari'>アガスティア中央、タワーに踏み込んだ</span><br><span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>ついにフリーシアと相対する。</span>,<span class='scene-font-katari'>终于，姬塔等人进入了位于阿加丝提亚中心的高塔，与芙莉西雅针锋相对。</span>
+3,You all came.,みんな……,大家……
+4,Where's Akasha? Or do you intend to use Lyria's power to summon it here?,アーカーシャはどこです？<br>それとも、ルリアの力で<br>この場に呼び出すつもりですか？,阿卡夏在哪里？还是说打算用露莉亚的力量在这里召唤出来吗？
+4-sel1_txt,We won't summon Akasha.,<span class='scene-font-katari'>アーカーシャは呼べない</span>,召唤不了阿卡夏
+4-sel2_txt,We won't hand over Akasha.,<span class='scene-font-katari'>アーカーシャは渡さない</span>,不会把阿卡夏交给你的
+5,You won't summon it?,呼べない……？,召唤不了？
+6,It appears that Akasha has been properly sealed away.,星晶獣アーカーシャは<br>特殊な封印を施されているそうだ。,星晶兽阿卡夏似乎已经被施加了特殊的封印了。
+7,"So even if we used Lyria's power, it can't respond.",だから、いまはルリアの力でも、<br>呼び出すことは出来ない。,所以即便是露莉亚的力量也无法召唤出它。
+8,Oh? So it matters not what happens to the girl?,ほう……<br>では、この娘はどうなっても良いと、<br>そういうことですか？,喔？那么你们的意思是这个姑娘怎么处理都行了吧？
+9,Nothing's gonna happen because we're getting Orchis back from you.,いや……<br>オルキスちゃんは返してもらうぜ。,不，会让你交还奥尔琪斯酱的。
+10,"We won't give in, Freesia.",フリーシア……<br>私達は貴女には屈しないということです。,芙莉西雅，我们是决不会屈服于你的。
+11,"I mean, if we let you near Akasha, you'll just try to ruin the world again, right?",っていうか、アーカーシャを渡したら、<br>また世界を<br>滅茶苦茶にしようとするんでしょ？,话说如果把阿卡夏给你的话，又要把这个世界搞得乱七八糟了吧？
+12,So there's no way we're gonna do what you say and hand it over!,だったら、言われた通り<br>アーカーシャを差し出すなんて、<br>出来るわけないじゃない！,那么就不可能乖乖听你的把阿卡夏交给你呀！
+13,"As soon as you use Akasha, the trade will be meaningless since you'd destroy this world in the end.",アーカーシャを渡してしまったら、<br>何を取り戻そうと、<br>無かったことにされてしまうものね。,把阿卡夏交给你的话，就算我们要回了什么也好，这一切都会变成没有意义的事情。
+14,Our only choice from the beginning has been to take back Orchis by force.,だからアタシ達には最初から、<br>オルキスちゃんを<br>力づくで取り戻すしかなかったのよ。,所以从一开始我们就只能用武力夺回奥尔琪斯酱。
+15,"姬塔 and the crew make their intentions clear, but Orchis is the first to respond.",<span class='scene-font-katari'>キッパリとした</span><br><span class='scene-font-katari'>姬塔達の物言いに</span><br><span class='scene-font-katari'>最初に反応を示したのはオルキスだった。</span>,<span class='scene-font-katari'>姬塔等人明确说出了来这的意图，但是最先回应的却是奥尔琪斯。</span>
+16,"Ah, I'm so glad. Thank you, 姬塔.",ふ……くく……<br>あー……良かった。<br>ありがとう、姬塔さん。,ふ……くく……啊，太好了，真的很感谢你，姬塔。
+17,?,……？,……？
+18,Orchis?,オルキスちゃん……？,奥尔琪斯酱？
+19,"After all, I didn't want 姬塔 and the crew to give in either.",だって私も、<br>姬塔さん達には<br>屈してほしくなかったから。,因为我也不希望团长及各位向她屈服。
+20,"But if my life is all that's needed to save the world, then that's a small price to pay.",私ひとりの命で世界が守れるなら、<br>抱えきれないくらいおつりが来ちゃうよ。,如果能用我一个人的性命来保护这个世界的话，真的是微不足道的代价了。
+21,You insolent...,貴様……,你这家伙……
+22,"Hey, don't say gloomy things like that!",ちょっとそんな寂しいこと<br>言うんじゃないわよ！,等等，不要说这么令人寂寞的话啊！
+23,"We're gonna save you, no matter what!",オルキスはオルキスで、<br>あたし達が絶対に助けるんだから！,奥尔琪斯就是奥尔琪斯，我们一定会救你的！
+24,"Thank you, Io.",ふふ……<br>ありがとう、イオちゃん。,ふふ……谢谢你，伊欧酱。
+25,Freesia watches coldly while the two friends reassure each other.,<span class='scene-font-katari'>温かい言葉を交わすオルキス達を、</span><br><span class='scene-font-katari'>フリーシアは冷ややかに見守る。</span>,<span class='scene-font-katari'>芙莉西雅冷眼看着两人温情的交谈。</span>
+26,"I expected as much from all of you, of course.",貴方達の回答は、<br>私のほうでも<br>予想しなかったわけではありません。,对于你们的回答，我也并非未曾预想到。
+27,"If you don't have Akasha, and you won't summon it here and now...",貴方達がいま、<br>アーカーシャを持っていないのなら、<br>呼び出すことが出来ないのなら……,如果你们现在既没有持有阿卡夏，也不能召唤它出来的话。
+28,Then that's it. There's nothing left to ask of you.,話はここまでです。<br>これ以上は私が貴方達に<br>何かを求めることはないでしょう。,交涉就到此为止了，在这之上你们都别想再要求什么了。
+29,!,っ……！？,っ……！？
+30,Freesia grabs Orchis and takes a step backwards.,<span class='scene-font-katari'>そう言うとフリーシアは、</span><br><span class='scene-font-katari'>オルキスを引きずり、一歩下がる。</span>,<span class='scene-font-katari'>芙莉西雅如此说道，然后她拖着奥尔琪斯走出了一步。</span>
+31,I have in my possession a lineage that can control primal beasts.,いま私の手には、<br>星晶獣を制御できる血筋の者がいる。,现在我手中抓住了能使役星晶兽者的血脉。
+32,"As such, there's no need to waste time asking you for anything else.",なればこそ、<br>無理に貴方達に頼む必要は無い……,正因如此，本就没有必要向你们提出请求。
+33,All I have to do is just search for Akasha myself.,自らの手で、星晶獣アーカーシャを<br>探し出せば良いだけの<br>話なのですから……,就是说我凭自己的手段去找到阿卡夏就好了。
+35,Wait!,待てっ！,等等！
+37,...,…………,…………
+38,What! Who are they?,なっ！？<br>彼らはいったい……！？,呐！？他们到底是？
+39,My oh my. We've already been acquainted with a few like these in Lumacie.,あら……<br>アタシ達はすでに<br>ルーマシーで近い子達に遭遇してるわ。,啊啦，我们在露玛茜就遇见过类似的人了吧。
+40,"Bestowed with power from an overflowing source, they were like puppets come to life.",崩壊しつつある器から溢れた力によって<br>操り人形のように<br>なってしまった子達にね……,由崩坏容器中溢出的力量操纵的人偶一般的人呢。
+41,You mean like what she did to Yggdrasil?,ってぇことは宰相サンは、<br>あの時の星晶獣ユグドラシルと、<br>似たような状態ってことか……？,也就是说现在宰相的状态很接近那时候的鱼骨了吗？
+42,To think that she's been driven so far into the corner...,魔晶を使った自分を、<br>自分自身で<br>あそこまで追い込むなんて……,把魔晶用在自己身上，将自己逼到这种地步……
+43,...,…………,…………
+44,Leave this to us! All of you must keep going ahead!,ここは我々に任せて、<br>貴方達は先に進みなさいィ！,这里交给我们，你们继续前进吧！
+45,"On the top floor of the tower, there's an airship dock just for government officials, I do say!",タワーの上階には、<br>政府要人専用の<br>騎空艇の発着場がありますからネェ！,在塔的上层有着政府专用骑空艇的起飞场所。
+46,"Once she reaches it, she'll be hard to chase after!",そこまで逃げられたら、<br>追うのが難しくなってしまいますよォ！,如果让她逃到哪里，再追就很困难了！
+47,Gotcha! We'll be taking our leave then!,ああ！<br>悪いがそうさせてもらうぜ！,哦！抱歉，我们会赶上去的！
+48,"If we keep her from boarding a ship, she'll have nowhere to run! Now's our chance!",騎空艇にさえ乗せなきゃ、<br>逆にもう逃げ場はねぇハズだ！<br>ここで一気に追い詰めるぞ！,只要不让她登上骑空艇，反过来说她也就无处可逃了，就这么一鼓作气追上去吧！
+info,1,1,scene_cp73_q3_s10

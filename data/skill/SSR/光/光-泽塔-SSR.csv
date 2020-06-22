@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,泽塔,3040056000
+special,日珥之枪,光属性伤害(特大)/自身奥义值上升量30%UP
+skill-1,韵律,攻击UP/敌方单体弱化效果抗性10%DOWN/阿尔贝斯之缚标记
+skill-1+,韵律,攻击40%UP/敌方单体弱化效果抗性10%DOWN/阿尔贝斯之缚标记
+skill-2,狂想曲,<div class=prt-text-small>自身攻击大幅UP(仅对阿尔贝斯之缚标记的敌人/1次)<span class=text-blue>◆对象Break时，攻击UP</span></div>
+skill-3,阿尔贝斯的音律,对敌方单体造成4~5倍光属性伤害/自身必定三连击
+support-1,火红魅力,我方全体对Break状态的敌人攻击5%UP
+skill-lb,LB技能,标记敌人并追击时连击率UP
+,,
