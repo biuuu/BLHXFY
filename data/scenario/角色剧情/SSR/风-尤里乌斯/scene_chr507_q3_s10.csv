@@ -1,67 +1,67 @@
 id,name,text,trans
 0-chapter_name,,レヴィオンの英雄,雷维翁的英雄
 0-synopsis,,魔物を倒したユリウスは、ぶどう農園の近くで魔物を運び込むガリアの部下の兵士を目撃する。先代の王の死にユリウスが関わっているとガリアから吹き込まれた兵士達は、ユリウスの話を聞こうとしない。その時、ユリウスの中に潜む星の力が呼び覚まされ、暴走しかける。動けないユリウスに魔物達が襲い掛かるが、その危機を、駆けつけたアルベールが救うのだった。,击败了魔物的尤里乌斯，在葡萄园附近看到了运送魔物的加利亚部下的身影。被加利亚鼓吹先王的死与尤里乌斯有关的士兵们，不肯听尤里乌斯的话。这时，尤里乌斯身体中潜在的星之力被唤醒并暴走了。怪物攻击了不能动弹的尤利乌斯，危机之时，阿尔贝尔赶来救援。
-1,ユリウス/尤里乌斯,<span class='scene-font-kokoro'>（ふむ、妙だな……</span><br><span class='scene-font-kokoro'>山から下りてきたのか……？）</span>,(嗯……奇怪。<br>它们是从山上来的吗?)
-2,,<span class='scene-font-katari'>魔物を倒したユリウスは、</span><br><span class='scene-font-katari'>ぶどう農園の先に続く山地を</span><br><span class='scene-font-katari'>探索してみることにする。</span>,尤里乌斯击败了怪物，<br>决定去调查葡萄酒厂附近的山脉。
+1,ユリウス/尤里乌斯,<span class='scene-font-kokoro'>（ふむ、妙だな……</span><br><span class='scene-font-kokoro'>山から下りてきたのか……？）</span>,<span class='scene-font-kokoro'>(嗯……好奇怪。</span><br><span class='scene-font-kokoro'>它们是从山上来的吗?)</span>
+2,,<span class='scene-font-katari'>魔物を倒したユリウスは、</span><br><span class='scene-font-katari'>ぶどう農園の先に続く山地を</span><br><span class='scene-font-katari'>探索してみることにする。</span>,<span class='scene-font-katari'>尤里乌斯击败了怪物，</span><br><span class='scene-font-katari'>决定去调查葡萄酒厂附近的山脉。</span>
 8,魔物,<span class='scene-font-4'>グルルァアア！！</span>,噶啊啊啊啊!
-9,ユリウス/尤里乌斯,……ふっ！,……哼!
-13,ユリウス/尤里乌斯,やはりおかしい……<br>まるで、人為的に魔物が<br>集められているかのような……,这不对劲……<br>这些怪物是被某些人转移到这里来的。
-14,,<span class='scene-font-katari'>ユリウスが思案していると、</span><br><span class='scene-font-katari'>木々の奥から声が聞こえてくる。</span>,尤里乌斯思考着当前的情况，<br>却突然听到其他人的声音从树丛外传来。
+9,ユリウス/尤里乌斯,……ふっ！,………嘿!
+13,ユリウス/尤里乌斯,やはりおかしい……<br>まるで、人為的に魔物が<br>集められているかのような……,果然很不对劲……<br>这些怪物是被人为的聚集到这里来的。
+14,,<span class='scene-font-katari'>ユリウスが思案していると、</span><br><span class='scene-font-katari'>木々の奥から声が聞こえてくる。</span>,<span class='scene-font-katari'>尤里乌斯思考着当前的情况，</span><br><span class='scene-font-katari'>却突然听到其他人的声音从树丛外传来。</span>
 16,？？？,それにしてもよ、<br>ガリア様もえげつないこと考えるぜ。<br>魔物をばら撒こうなんてな！,就算这样……<br>加利亚勋爵也有点过分了。散布怪物什么的!
-17,ユリウス/尤里乌斯,<span class='scene-font-kokoro'>（…………！</span><br><span class='scene-font-kokoro'>今、ガリアと言ったか……？）</span>,"(他刚刚，说了加利亚……？) "
-18,ガリア隊の隊員２/高卢兵队员２,まあ、この地方に投資されちゃ、<br>うちの地域の温泉街は<br>商売あがったりだからな。,"如果这里得到了投资，<br>那我们的温泉生意就泡汤了。 "
-19,ガリア隊の隊長/高卢兵队长,おい、ごちゃごちゃ喋ってないで<br>魔物を運び出せ！<br>起こさないよう慎重にな。,"不要再闲聊了，快移动怪物!<br>小心不要吵醒它们! "
+17,ユリウス/尤里乌斯,<span class='scene-font-kokoro'>（…………！</span><br><span class='scene-font-kokoro'>今、ガリアと言ったか……？）</span>,<span class='scene-font-kokoro'>(他刚刚，说了加利亚……？) </span>
+18,ガリア隊の隊員２/高卢兵队员２,まあ、この地方に投資されちゃ、<br>うちの地域の温泉街は<br>商売あがったりだからな。,唉，如果这里得到了投资，<br>那我们的温泉生意就泡汤了。 
+19,ガリア隊の隊長/高卢兵队长,おい、ごちゃごちゃ喋ってないで<br>魔物を運び出せ！<br>起こさないよう慎重にな。,不要再闲聊了，快把怪物运走!<br>小心不要吵醒它们! 
 20,ガリア隊の隊員１/高卢兵队员１,隊長は真面目っすねぇ……,队长还真认真啊……
-21,ユリウス/尤里乌斯,<span class='scene-font-kokoro'>（これは……！）</span>,(这是……!)
-22,,<span class='scene-font-katari'>木陰から様子を伺ってみると、</span><br><span class='scene-font-katari'>ガリアの部下らしき兵士達が、</span><br><span class='scene-font-katari'>昏睡状態の魔物を運び込んでいた。</span>,"在树木的掩护下，<br>尤里乌斯看到士兵正载着沉睡的怪物们缓缓移动。 "
+21,ユリウス/尤里乌斯,<span class='scene-font-kokoro'>（これは……！）</span>,<span class='scene-font-kokoro'>(这是……!)</span>,
+22,,<span class='scene-font-katari'>木陰から様子を伺ってみると、</span><br><span class='scene-font-katari'>ガリアの部下らしき兵士達が、</span><br><span class='scene-font-katari'>昏睡状態の魔物を運び込んでいた。</span>,<span class='scene-font-katari'>在树木的掩护下，</span><br><span class='scene-font-katari'>尤里乌斯看到士兵正载着沉睡的怪物们缓缓移动。 </span>
 24,ユリウス/尤里乌斯,貴様ら……<br>ガリア卿の手の者だな。,你们这些人……是加利亚的手下吧。
 25,ユリウス/尤里乌斯,ふざけた真似はやめたまえ。<br>今すぐ引き返せば、<br>見逃してやらんこともない。,⻢上停手。<br>现在回头的话，<br>我可以当做一切都没发生过。
 26,ガリア隊の隊員１/高卢兵队员１,おいおい！？<br>本物の英雄サマじゃねぇか！,喂喂？!<br>这不是真正的英雄大人吗!
 27,ガリア隊の隊員２/高卢兵队员２,隊長、どうしますか？,⻓官，<br>我们怎么办?
-28,ガリア隊の隊長/高卢兵队长,任務続行だ。<br>さっさと魔物を下ろせ。,按照原计划执行，<br>卸下怪物。
-29,ガリア隊の隊長/高卢兵队长,……ユリウス卿。<br>貴方こそ、何も見なかった事にして<br>立ち去れば痛い目を見ずに済みますが？,尤里乌斯……<br>你才是，要是当什么都没看过<br>就离开的话就不会让你吃点苦头了。
-30,ユリウス/尤里乌斯,ガリア卿の言葉に耳を貸すな！<br>この地を荒れ地にして何になる！,"你不要相信加利亚的话!<br>把这里化为一片荒地又能做些什么？ "
-31,ユリウス/尤里乌斯,……国が豊かにならなければ、<br>君達の住む地域も<br>発展していくことはない！,"如果不让我们的国家平稳繁盛的话，<br>你们所居住的地域也无法发展! "
-32,ユリウス/尤里乌斯,今は国内で足を引っ張り合っている<br>場合ではあるまい！<br>なぜそれがわからん！,"已经没有时间浪费在内斗上了<br>，为什么你们就是不明白呢? "
-33,ガリア隊の隊長/高卢兵队长,フン……貴様のような忌み子と、<br>戦うしか能の無い騎士団長なぞに<br>国を任せておけるか！,哼!正常人怎么可能把国家<br>交给一个禁忌之子和除了战斗外一无是处的团⻓呢?
+28,ガリア隊の隊長/高卢兵队长,任務続行だ。<br>さっさと魔物を下ろせ。,继续任务。<br>把怪物放出来。
+29,ガリア隊の隊長/高卢兵队长,……ユリウス卿。<br>貴方こそ、何も見なかった事にして<br>立ち去れば痛い目を見ずに済みますが？,尤里乌斯卿……<br>你才是，要是当什么都没看过就离开的话<br>就不会要你吃点苦头了。
+30,ユリウス/尤里乌斯,ガリア卿の言葉に耳を貸すな！<br>この地を荒れ地にして何になる！,你不要相信加利亚的话!<br>把这里荒废了又能怎么样呢！ 
+31,ユリウス/尤里乌斯,……国が豊かにならなければ、<br>君達の住む地域も<br>発展していくことはない！,如果不让我们的国家平稳繁盛的话，<br>你们所居住的地域也无法发展! 
+32,ユリウス/尤里乌斯,今は国内で足を引っ張り合っている<br>場合ではあるまい！<br>なぜそれがわからん！,已经没有时间浪费在内斗上了，<br>为什么你们就是不明白呢? 
+33,ガリア隊の隊長/高卢兵队长,フン……貴様のような忌み子と、<br>戦うしか能の無い騎士団長なぞに<br>国を任せておけるか！,哼!……正常人怎么可能把国家<br>交给一个像你这样的禁忌之子<br>和除了战斗外一无是处的团⻓呢?
 34,ユリウス/尤里乌斯,なんだと……！？,你说什么……！？
 35,ガリア隊の隊長/高卢兵队长,ガリア様から伺っているぞ。<br>先王の死には、<br>貴様が関わっているとな……！,我们从加利亚哪里得知了，<br>国王之死与你有关!
 36,ユリウス/尤里乌斯,…………っ！,……!
-37,ガリア隊の隊長/高卢兵队长,フン……<br>「物語」に騙される愚民ばかりだと<br>思わんことだ。,"哼……你虽然可以欺瞒群众，<br>让他们相信你是个英雄…… "
+37,ガリア隊の隊長/高卢兵队长,フン……<br>「物語」に騙される愚民ばかりだと<br>思わんことだ。,哼……你虽然可以用故事欺瞒群众，<br>让他们相信你是个英雄…… 
 38,ガリア隊の隊長/高卢兵队长,真実はいつか明るみになる。<br>その時、果たして今の立場で<br>いられると思うか？,但他们迟早会得知真相的。<br>那时候你又准备站在哪一边呢?
 39,ガリア隊の隊長/高卢兵队长,それでも民は、<br>貴様を英雄と称するのか？,会有人将弑君者称之为英雄吗?
 40,ユリウス/尤里乌斯,そ……れは……,我……
 41,ユリウス/尤里乌斯,それでも、私は……！<br>この国の未来のために……！,即便如此，<br>我也会为雷维翁的未来而奋斗!
 42,ガリア隊の隊員１/高卢兵队员１,ごちゃごちゃうるせぇんだよ！,叽里呱啦的吵死了啊！
-44,ユリウス/尤里乌斯,<span class='scene-font-4'>……がはっ！？</span>,啊!!!
+44,ユリウス/尤里乌斯,<span class='scene-font-4'>……がはっ！？</span>,……嘎啊!!!
 45,ガリア隊の隊員２/高卢兵队员２,偽物の英雄が……！<br>偉そうなこと言いやがって！,冒牌的英雄!<br>只会说些冠冕堂皇的话吧！
 47,ユリウス/尤里乌斯,<span class='scene-font-4'>……ぐあっ！？</span>,……呃啊!?
-48,ユリウス/尤里乌斯,……私を殴ったところで、<br>何も変わりはしない！<br>なぜ理解できん！,"攻击我解决不了任何问题，<br>你们怎样才能明白! "
-52,？？？,<span class='scene-font-gray'>クフフ……</span><br><span class='scene-font-gray'>理解させたければ、</span><br><span class='scene-font-gray'>「力」を振るいたまえ。</span>,哈哈哈，<br>用力量迫使他们理解吧。
+48,ユリウス/尤里乌斯,……私を殴ったところで、<br>何も変わりはしない！<br>なぜ理解できん！,……就算攻击我解决不了任何问题，<br>你们怎样才能明白! 
+52,？？？,<span class='scene-font-gray'>クフフ……</span><br><span class='scene-font-gray'>理解させたければ、</span><br><span class='scene-font-gray'>「力」を振るいたまえ。</span>,<span class='scene-font-gray'>哈哈哈，用力量迫使他们理解吧。</span>
 53,ユリウス/尤里乌斯,……ッ！？<br>あ、頭がっ……！,……！我的头……！
 54,ユリウス/尤里乌斯,<span class='scene-font-4'>がぁああああああ……！</span>,呃啊啊啊!
-58,？？？,<span class='scene-font-gray'>言葉は何も拓かず、誰も導かない。</span><br><span class='scene-font-gray'>全てを変えるのは「力」なのだ……</span>,话语毫无意义，<br>唯有力量方可主宰一切。
-59,？？？,<span class='scene-font-gray'>さぁ、解放しろ……</span><br><span class='scene-font-4 scene-font-gray'>解放しろ解放しろ解放しろッ！</span>,好了……解放我吧!<br>解放我吧!解放我吧!
+58,？？？,<span class='scene-font-gray'>言葉は何も拓かず、誰も導かない。</span><br><span class='scene-font-gray'>全てを変えるのは「力」なのだ……</span>,<span class='scene-font-gray'>话语毫无意义，</span><br><span class='scene-font-gray'>唯有力量方可主宰一切。</span>
+59,？？？,<span class='scene-font-gray'>さぁ、解放しろ……</span><br><span class='scene-font-4 scene-font-gray'>解放しろ解放しろ解放しろッ！</span>,<span class='scene-font-gray'>好了……解放我吧!</span><br><span class='scene-font-gray'>解放我吧!解放我吧!</span>
 60,ユリウス/尤里乌斯,もう……<br>血を、流す……わけには……！,已经…不需要<br>任何人……流血……
 61,ユリウス/尤里乌斯,<span class='scene-font-4'>あぁあああああっ！！</span>,啊啊啊啊啊!!!
-66,,<span class='scene-font-katari'>その瞬間──</span><br><span class='scene-font-katari'>ユリウスの身体から熱線が放たれ、</span><br><span class='scene-font-katari'>周辺の木々が一瞬で焼失する。</span>,在这一瞬间，<br>热浪从尤里乌斯体内放射出来，<br>烧却了周围的树木。
+66,,<span class='scene-font-katari'>その瞬間──</span><br><span class='scene-font-katari'>ユリウスの身体から熱線が放たれ、</span><br><span class='scene-font-katari'>周辺の木々が一瞬で焼失する。</span>,<span class='scene-font-katari'>在这一瞬间，</span><br><span class='scene-font-katari'>热浪从尤里乌斯体内放射出来，</span><br><span class='scene-font-katari'>烧却了周围的树木。</span>
 71,ガリア隊の隊員１/高卢兵队员１,ひぃっ！？,呜！？
-73,ガリア隊の隊長/高卢兵队长,何だ……！？<br>まるで『星の眼』の災厄のような……,怎么回事……这简直就像是星之眼……
-74,ユリウス/尤里乌斯,解放……解放だ……<br>力さえあれば……！,"解放我……解放我吧……<br>只要有力量的话! "
+73,ガリア隊の隊長/高卢兵队长,何だ……！？<br>まるで『星の眼』の災厄のような……,怎么回事……这简直就像是『星之眼』的灾厄……
+74,ユリウス/尤里乌斯,解放……解放だ……<br>力さえあれば……！,解放我……解放我吧……<br>只要有力量的话! 
 75,ガリア隊の隊長/高卢兵队长,チッ、引き揚げるぞ！,嘁，快撤退!
 77,ガリア隊の隊員２/高卢兵队员２,は、はいっ！,是，是的!
 80,ユリウス/尤里乌斯,……ッ！,……呜！
-83,ユリウス/尤里乌斯,<span class='scene-font-kokoro'>（くっ……！</span><br><span class='scene-font-kokoro'>身体に力が入らない……）</span>,"(可恶……<br>我的身体不能动了……) "
+83,ユリウス/尤里乌斯,<span class='scene-font-kokoro'>（くっ……！</span><br><span class='scene-font-kokoro'>身体に力が入らない……）</span>,<span class='scene-font-kokoro'>(可恶……使不上力……) 
 84,魔物,グルァアアアアア……！,噶啊啊啊啊!
-85,ユリウス/尤里乌斯,<span class='scene-font-kokoro'>（私は……</span><br><span class='scene-font-kokoro'>このまま食われるのか……）</span>,"(我会…<br>就这样死在这里吗……) "
-86,ユリウス/尤里乌斯,<span class='scene-font-kokoro'>（アルベール……</span><br><span class='scene-font-kokoro'>この国の未来は、君に……）</span>,:(阿尔⻉尔…<br>雷维翁的未来，<br>就交给你……)
-87,,<span class='scene-font-katari'>にじり寄ってくる魔物達──</span><br><span class='scene-font-katari'>ユリウスの視界は頭痛によりぼやけ、</span><br><span class='scene-font-katari'>その姿すら捉えきれない。</span>,怪物逐渐向尤里乌斯逼近，<br>但剧烈的疼痛模糊了他的视线。
-95,,<span class='scene-font-katari'>その時、霞む視界に</span><br><span class='scene-font-katari'>一筋の稲光が走った。</span>,在一切无可挽回之前，<br>一道电光在他眼前闪过。
+85,ユリウス/尤里乌斯,<span class='scene-font-kokoro'>（私は……</span><br><span class='scene-font-kokoro'>このまま食われるのか……）</span>,<span class='scene-font-kokoro'>(我会…就这样被怪物吃掉吗……) 
+86,ユリウス/尤里乌斯,<span class='scene-font-kokoro'>（アルベール……</span><br><span class='scene-font-kokoro'>この国の未来は、君に……）</span>,<span class='scene-font-kokoro'>(阿尔贝尔…<br>雷维翁的未来，<br>就交给你了……)
+87,,<span class='scene-font-katari'>にじり寄ってくる魔物達──</span><br><span class='scene-font-katari'>ユリウスの視界は頭痛によりぼやけ、</span><br><span class='scene-font-katari'>その姿すら捉えきれない。</span>,<span class='scene-font-katari'>怪物逐渐向尤里乌斯逼近，</span><br><span class='scene-font-katari'>但剧烈的疼痛模糊了他的视线。</span>
+95,,<span class='scene-font-katari'>その時、霞む視界に</span><br><span class='scene-font-katari'>一筋の稲光が走った。</span>,<span class='scene-font-katari'>在一切无可挽回之前，<br><span class='scene-font-katari'>一道电光在他眼前闪过。
 100,アルベール/阿尔贝尔,大丈夫か、ユリウス！,你没事吧，<br>尤里乌斯?
 101,ユリウス/尤里乌斯,アルベール……！,阿尔贝尔……！
-102,アルベール/阿尔贝尔,戻りが遅いと思えば……<br>話は後で聞かせてもらうぞ！,看到你迟迟没有归来……<br>解释的话之后再说!
-103,ユリウス/尤里乌斯,ああ……<br>ありがとう……,"好…谢谢…… "
-104,ユリウス/尤里乌斯,<span class='scene-font-kokoro'>（やはり君は……</span><br><span class='scene-font-kokoro'>紛うことなき英雄だな……）</span>,":(果然……<br>你终究是一个真正的英雄。) "
-105,,<span class='scene-font-katari'>ユリウスは、アルベールが</span><br><span class='scene-font-katari'>次々に魔物を切り伏せていくのを、</span><br><span class='scene-font-katari'>遠い目で見ているのだった。</span>,尤里乌斯虚弱地看着<br>阿尔⻉尔逐一将怪物消灭。
+102,アルベール/阿尔贝尔,戻りが遅いと思えば……<br>話は後で聞かせてもらうぞ！,看你迟迟没有归来就觉得……<br>解释的话之后再说!
+103,ユリウス/尤里乌斯,ああ……<br>ありがとう……,好…谢谢…… 
+104,ユリウス/尤里乌斯,<span class='scene-font-kokoro'>（やはり君は……</span><br><span class='scene-font-kokoro'>紛うことなき英雄だな……）</span>,<span class='scene-font-kokoro'>(果然……</span><br><span class='scene-font-kokoro'>你毫无疑问是一个真正的英雄。) </span>
+105,,<span class='scene-font-katari'>ユリウスは、アルベールが</span><br><span class='scene-font-katari'>次々に魔物を切り伏せていくのを、</span><br><span class='scene-font-katari'>遠い目で見ているのだった。</span>,<span class='scene-font-katari'>尤里乌斯在一旁地看着</span><br><span class='scene-font-katari'>阿尔贝尔逐一将怪物消灭。</span>
 info,,,scene_chr507_q3_s10
 译者,,,Atropa
