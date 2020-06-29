@@ -48,12 +48,16 @@ const collectStoryId = async () => {
         if (list[i].trans) {
           const name = list[i].trans.trim()
           if (name) {
-            const hash = (await md5(file)).slice(0, 7)
-            result.push([name, file.replace(/^\.\/data\/scenario\//, ''), `${hash}.csv`])
-            await fse.copy(file, `./dist/blhxfy/data/story/${hash}.csv`, {
-              overwrite: false, errorOnExist: true
-            })
-            infoLoaded = true
+            try {
+              const hash = (await md5(file)).slice(0, 7)
+              await fse.copy(file, `./dist/blhxfy/data/story/${hash}.csv`, {
+                overwrite: false, errorOnExist: true
+              })
+              result.push([name, file.replace(/^\.\/data\/scenario\//, ''), `${hash}.csv`])
+              infoLoaded = true
+            } catch (e) {
+              console.log(e.message)
+            }
           }
         }
       } else if (/\d-chapter_name/.test(list[i].id)) {
