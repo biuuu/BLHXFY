@@ -1,9 +1,13 @@
 ﻿id,name,detail
 npc,蕾‧芬耶,3040004000
 special,第七伤痛,光属性伤害(特大)/我方全体获得幻影效果(1次)
+special-セブンスディスパージョン,第七色散,光属性伤害(特大)/我方全体获得幻影效果(1次)/格挡效果
 skill-1,宝石之镜,<div class=prt-text-small>自身获得自己最大HP的70%的屏障效果(最大4000)/光属性追击效果<br><span class=text-blue>◆追击至受伤时停止</span></div>
+skill-プルウィウス,彩虹,<div class=prt-text-small>自身获得自己最大HP的70%的屏障效果(最大4000)/光属性追击效果/灿烂效果<br><span class=text-blue>◆追击至受伤时停止</span></div>
 skill-2,光耀之炎,对敌方全体造成光属性伤害/光属性防御DOWN/暗属性攻击DOWN
 skill-3,再生,回复我方全体HP/活性效果
-support-1,辉耀之结界,身上有屏障时，弱体耐性UP
+skill-ベネディクションライト,祈福之光,<div class=prt-text-small>回复我方全体HP/赋予活性效果/奥义槽UP（20%）/回复1个弱体效果/赋予极光的刻印
+support-1,闪熠结界,身上有屏障时，弱体耐性UP
+support-2,七宝石的光辉,光属性角色根据各自的极光的刻印的数量提升回复性能 <span class=text-blue>◆在后排也有效</div>
 skill-lb,LB技能,我方全体受到的回复的上限UP
 intro,七宝石之姬,贵石的公主虽然征服了宝石境内所有满溢的光辉，但有一束淡淡的光从她的手中溜走了。当虹色之心寻求那道光芒时，公主向着天空踏上旅程。

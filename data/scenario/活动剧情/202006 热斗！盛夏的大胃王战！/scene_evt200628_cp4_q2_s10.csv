@@ -1,0 +1,56 @@
+id,name,text,trans
+0-chapter_name,,第4話 激震！ 怒涛の結末！,第4话 激震！ 怒涛般的结尾！
+0-synopsis,,午後の部が開始し、レッドラックとマッシュはスタートと同時にデッドヒートを繰り広げる。最初は互角の勝負を演じるものの、マッシュのファイトスタイルは樹クラゲのゼリーアイスと組み合わせが悪く、次第に差が開き始める。マッシュが挽回を狙う一方、レッドラックはさらに勢いを上げて引き離しにかかり、決勝進出に王手をかけるのだった。,下午场的比赛开始了，雷德拉克和马修在开始的时候就一直重复着你追我赶。虽然一开始表现得不分上下，但因为马修的战斗方式和树水母做成的果冻冰淇淋不合，两人渐渐开始拉开差距。一边马修在瞄准机会挽回劣势，另一边雷德拉克趁势一口气拉开距离，使出了能进入决赛的绝杀。
+1,司会者,さあ、お待ちかね！<br>いよいよ本戦午後の部の開始が<br>近付いて参りました！,那么，让大家久等了！<br>终于下午场的比赛快开始了！
+3,司会者,午前の部では、私達の想像を<br>遥かに上回る熱いファイトが<br>繰り広げられました！,上午场出现了很多超乎我们想象的热烈的战斗呢！
+4,司会者,しかし午後の部では、<br>それすらも超えるドラマが<br>待っているかもしれません！,但是下午场说不定有着超越上午的戏剧性在等着我们！
+5,司会者,<span class='scene-font-4'>ついに！</span><br>あの優勝候補ふたりが<br>直接ぶつかり合います！,<span class='scene-font-4'>终于！</span><br>那两位优胜候补直接撞上了！
+6,司会者,<span class='scene-font-4'>そう！</span><br>レッドラック選手と<br>マッシュ選手です！,<span class='scene-font-4'>是的！</span><br>就是雷德拉克选手和马修选手！
+7,観客の男性２,<span class='scene-font-4'>レッドラックー！</span><br>王者の実力、見せつけてくれー！,<span class='scene-font-4'>雷德拉克ー！</span><br>让我们看看王者的实力吧ー！
+8,観客の女性２,今回こそ優勝よー！<br>そうでしょ、マッシュー！,这次会赢的哦——！<br>对吧，马修——！
+9,司会者,会場の至るところから<br>熱い声援が飛び交っております！<br>期待の高さが窺えます！,从莅临会场的各位那里传来了热烈的声援！<br>可以看出大家很期待呢！
+11,マッシュ,同率１位なぞ狙わん……<br><span class='scene-font-4'>ここで白黒つけたるどッ！</span>,同样瞄准了第一名……<br><span class='scene-font-4'>就在这一决胜负吧！</span>
+13,レッドラック,<span class='scene-font-4'>上等だッ！</span>,<span class='scene-font-4'>好啊！</span>
+14,司会者,<span class='scene-font-4'>おおーっと！</span><br>早くも火花を散らしております！,<span class='scene-font-4'>哎呀！</span><br>早早的就火花四射了呢！
+16,ビィ/碧,おっ、ギリギリセーフみてぇだな！,哦，似乎勉强赶上了呢！
+17,ルリア/露莉亚,レッドラックさーん！<br>頑張ってくださいねー！,雷德拉克！请加油！
+18,レッドラック,お前達！　間に合ったか！,你们！赶来了啊！
+19,レッドラック,よっしゃあ！<br>あいつらに俺のカッコいいところ<br>見せてやるとするか！,好！就让那些家伙看看我的帅气之处吧！
+20,,<span class='scene-font-katari'>各々奮起する参加者達の前に、</span><br><span class='scene-font-katari'>係員が料理を運んでいく。</span>,<span class='scene-font-katari'>在各自奋起的参赛者面前，</span><br><span class='scene-font-katari'>工作人员们运来了料理。</span>
+24,司会者,料理は午前の部と同様、<br>樹クラゲのゼリーアイスとなります！,料理和上午场一样，<br>是树水母的果冻冰淇淋！
+25,司会者,皆様は、午前の部参加者の方の<br>ファイトスタイルを参考にして挑むのも<br>ひとつの策かもしれません！,大家参考上午场的参赛者们的战斗方式去挑战，<br>说不定也是可行的策略！
+26,司会者,それでは参加者の皆様！<br>スタンバイをお願いいたします！,那么各位参赛者！请准备！
+28,ふたり/两人,…………！,…………！
+29,司会者,本戦午後の部……スタートです！！,下午场的本战……开始！
+36,レッドラック,<span class='scene-font-4'>うおおおおおおッ！！</span>,<span class='scene-font-4'>唔噢噢噢噢噢噢！！</span>
+37,マッシュ,<span class='scene-font-4'>どりゃああああッ！！</span>,<span class='scene-font-4'>喝呀啊啊啊啊！！</span>
+38,司会者,両選手、スタートと同時に<br>凄まじい勢いで<br>料理をかきこんでいきます！,两位选手，一开始就同时以超强的势头吞食料理！
+39,司会者,果たして勝利はどちらに！<br>いや、あるいは他の選手が<br>両選手の牙城を崩すのか！,究竟胜利会落在哪边呢！<br>不，或者是其他的选手给这两位选手沉重一击呢！
+40,司会者,ひと時も目が離せない、<br>手に汗握る展開が予想されます！,想必会是让人完全无法移开视线，<br>手都捏一把汗的展开！
+41,マッシュ,もぐもぐ、ごくん……<br>のう、レッドラック。,嚼嚼，吞……<br>喂，雷德拉克。
+43,マッシュ,ワシらがこがぁに<br>サシでぶつかり合うんは、<br>何度目になるんかいの？,我们已经有多少次像这样撞上了呢？
+45,レッドラック,ファイト中におしゃべりか？<br>えらく余裕だな。,战斗中还说话吗？<br>真是游刃有余啊。
+46,マッシュ,ワシぁ悲しゅうてのう。<br>おどれが負けてしもうたら、<br>応援しとる奴らに顔向けできんけぇ？,我很悲伤啊。<br>如果我失败的话，<br>就没脸去见那些支持我的人了啊。
+47,レッドラック,何度も聞いた言葉だな。<br>もちろん、てめぇが俺に負けた<br>回数分な。,是听过很多次的话呢。<br>和你输的次数一样哦。
+48,マッシュ,はっ、言いよるわ！<br>じゃが、今回のワシはちゃうど！,哈，就让我说吧！<br>但是，这次的我不一样了！
+49,マッシュ,今日という日を、<br>おどれの伝説に傷をつける<br>記念日にしちゃるわい！,就让我把今天变成打破你传说的纪念日！
+50,レッドラック,<span class='scene-font-4'>おう、やってみやがれ！</span>,<span class='scene-font-4'>哦，能做到的话就试试看啊！</span>
+51,,<span class='scene-font-katari'>レッドラックとマッシュは再び</span><br><span class='scene-font-katari'>料理に意識を戻し、怒涛の勢いで</span><br><span class='scene-font-katari'>料理を平らげていく。</span>,<span class='scene-font-katari'>雷德拉克和马修再次把注意力移回料理上，</span><br><span class='scene-font-katari'>以狂澜怒涛之势把料理一扫而空。</span>
+52,,<span class='scene-font-katari'>他の選手を置き去りにして</span><br><span class='scene-font-katari'>ふたりは互角の勝負を演じるが、</span><br><span class='scene-font-katari'>次第にその差が開いていく。</span>,<span class='scene-font-katari'>把其他选手甩在身后，</span><br><span class='scene-font-katari'>虽然两人上演着你来我往的胜负，</span><br><span class='scene-font-katari'>但渐渐地拉开了差距。</span>
+58,マッシュ,<span class='scene-font-4'>こん、クソがあッ！</span>,<span class='scene-font-4'>呃，可恶啊！</span>
+60,,<span class='scene-font-katari'>マッシュは得意のファイトスタイルで</span><br><span class='scene-font-katari'>料理を押し潰そうとするが、丸める前に</span><br><span class='scene-font-katari'>料理が飛び散って手間取っていた。</span>,<span class='scene-font-katari'>马修擅长的战斗风格是把料理打散，</span><br><span class='scene-font-katari'>但在揉成一团前就四散了很耗时间。</span>
+61,マッシュ,こがぁな、たいぎい料理<br>用意しくさって……<br>イライラするわい！,给我准备这种麻烦的料理……<br>真让人心烦意乱！
+63,レッドラック,料理に文句つけるのはお門違いだろ？<br>そういうのひっくるめて<br>フードファイトの醍醐味ってもんだ。,对料理发牢骚是不是搞错了什么啊？<br>包含那在内才是食战的精髓所在啊。
+64,マッシュ,<span class='scene-font-4'>じゃかあしゃあッ！</span><br><span class='scene-font-4'>わかっとるわい！</span>,<span class='scene-font-4'>吵死了！</span><br><span class='scene-font-4'>我知道了啦！</span>
+65,司会者,さあ！<br>間もなく制限時間が<br>迫って参りました！,那么！时间限制就快要到了！
+66,司会者,すでに勝者が両選手に絞られた中、<br>決勝への切符を手にするのは<br>どちらなのか！,胜者已经锁定在两人之中，<br>究竟谁能入手通往决赛的门票呢！
+67,レッドラック,<span class='scene-font-4'>ラストスパートだ！</span><br><span class='scene-font-4'>一気に決めてやらぁッ！</span>,<span class='scene-font-4'>最后冲刺！</span><br><span class='scene-font-4'>一口气决出胜负吧！</span>
+68,マッシュ,<span class='scene-font-kokoro'>（クソッ……！</span><br><span class='scene-font-kokoro'>このペースじゃと、ワシは……！）</span>,<span class='scene-font-kokoro'>（可恶……！</span><br><span class='scene-font-kokoro'>这样下去的话，我会……！）</span>
+69,マッシュ,<span class='scene-font-kokoro'>（どうする、アレを使うか……！</span><br><span class='scene-font-kokoro'>あの奥の手を……！）</span>,<span class='scene-font-kokoro'>（怎么办，要用那个吗……！</span><br><span class='scene-font-kokoro'>那个底牌……！）</span>
+70,レッドラック,<span class='scene-font-4'>手が止まってるぜ、マッシュ！</span><br><span class='scene-font-4'>どうしたどうした！</span>,<span class='scene-font-4'>你手停下了哦，马修！</span><br><span class='scene-font-4'>怎么了怎么了！</span>
+71,マッシュ,<span class='scene-font-4'>だ、黙らんかいッ！</span>,<span class='scene-font-4'>闭，闭嘴！</span>
+72,マッシュ,<span class='scene-font-4'>最後に勝つんは、ワシじゃッ！</span>,<span class='scene-font-4'>最后胜出的，是我！</span>
+73,司会者,追い込みをかけるレッドラック選手！<br>その背中を見据え、<br>猛追を見せるマッシュ選手！,进入最后阶段的雷德拉克选手！<br>还有紧盯他的背影，<br>看起来在猛追的马修选手。
+74,司会者,果たして、勝負の行方は……！,究竟，胜利会指向……！
+info,,,scene_evt200628_cp4_q2_s10
+译者,,,
