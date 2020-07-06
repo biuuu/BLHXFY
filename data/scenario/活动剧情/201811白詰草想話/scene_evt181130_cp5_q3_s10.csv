@@ -1,0 +1,33 @@
+﻿id,name,text,trans
+0-chapter_name,,5: With Condolences to None,传达不到的哀痛
+0-synopsis,,"The elder elaborates that those afflicted by a demon blade's influence do not return to their normal state even after the X-factor sliver is removed. This worries Sevilbarra greatly, reigniting his determination to find Krelkulkil.",长老告诉众人，即使【何物的碎片】被移除，被妖刀影响的人也没办法完全恢复正常。萨比尔巴拉因此十分担心拿着妖刀的卡拉库拉奇尔，懊悔万分。露莉亚，阿碧和姬塔的鼓励让萨比尔巴拉恢复力量，决心寻找卡拉库拉奇尔。
+1,Lyria/露莉亚,"Excuse me, Elder. After you remove the sliver from Corwell...",那个……长老先生，如果从克洛威尔先生那里抽取出【何物的碎片】……
+2,Lyria/露莉亚,"He'll lose the power given to him by the demon blade, right?",被妖刀加强的力量就会恢复原样了，是这样吧？
+3,Elder/老人,"Yes, it will be the same as removing him from the influence of the demon blade itself.",嗯，这和消除妖刀对他的影响是同义的。
+4,Lyria/露莉亚,So even though Corwell is having trouble speaking right now...,那么……那个，现在的克洛威尔先生连话语都很难表述……
+5,Lyria/露莉亚,"As long as the sliver is taken out, the old Corwell will come back too?",如果将碎片提取出来，是不是他就能变回原来的克洛威尔先生了？
+6,Elder/老人,That's not the case unfortunately. Removing the sliver will indeed cut off the link to the demon blade.,很遗憾并不会这样，移除碎片之后，妖刀的力量的确不会再影响他。
+7,Elder/老人,But any aspect of the wielder that is already altered by the demon blade can't be restored.,但是因为受到妖刀影响而变化的部分不能恢复原状。
+8,Lyria/露莉亚,Then that means Corwell will always be like this...,所以说，克洛威尔先生，就会一直这样……
+9,Elder/老人,Yes.,……是的。
+10,Lyria/露莉亚,I see...,是这样吗……
+11,Lyria/露莉亚,Um... Then...,那个……那个，那么……
+12,Lyria/露莉亚,Krelkulkil will also...,卡拉库拉奇尔先生……卡拉库拉奇尔也……
+13,Elder/老人,Suffer the same fate. I don't know how many times he's unsheathed the blade since leaving this residence.,也是一样的。我不知道那孩子自从离家后，让妖刀出鞘了多少次。
+14,Elder/老人,"A sealed demon blade is one thing, but one that's ready to be swung at a moment's notice? Its corruption leaks through the scabbard over time.",被封印的妖刀，只要保持着可以使用的状态，就算是携带着而不使用，也会慢慢侵蚀携带者。
+15,Elder/老人,"Considering how much time has passed since he left, sadly I would wager he's too far gone...",从那件事情之后已经过去了很久，很遗憾……恐怕……
+16,Sevilbarra/萨比尔巴拉,...!,……！
+17,Sevilbarra/萨比尔巴拉,(How could I let this happen?),（我是个……我是……！）
+18,Sevilbarra/萨比尔巴拉,"(I failed to protect Keralbarra, and all I could do was wallow about in my injured, unconscious state as Krelkulkil left...)",（没能保护库拉芭拉，还因为受伤昏迷让卡拉库拉奇尔也离开了……）
+19,Sevilbarra/萨比尔巴拉,(Two deaths... Two deaths are on my hands! I might as well have murdered them myself!),（两个人！两个人……就像是我亲自杀了他们一样……）
+20,Vyrn/碧,"Wh-whoa, let's not jump to conclusions, you two!",等，等等啊！老爷爷和斗笠小哥也是！
+21,Vyrn/碧,You've got no proof Krelkulkil is too messed up by his demon blade to go back to normal!,你们也没有卡拉库拉奇尔确实已经被妖刀侵蚀的证据不是吗？
+22,Vyrn/碧,Don't even start with those defeated looks on your faces! I think you're being way too down about the situation...,现在……现在还不是摆出放弃表情的时候啊！你们也太过悲观了吧。
+23,Sevilbarra/萨比尔巴拉,Vyrn...,碧……
+24,Lyria/露莉亚,I think we can still make it! We just need to find Krelkulkil and bring him back here!,可能还来得及！赶紧找到卡拉库拉奇尔先生，把他带回到这里吧！
+25,Lyria/露莉亚,"Then we can pull the sliver out of him, and he should be fine...",然后，把【何物的碎片】从卡拉库拉奇尔先生体内抽取出来……那样的话……
+26,Lyria/露莉亚,姬塔 thinks it'll work too!,姬塔也是这么想的吧！
+27,Sevilbarra/萨比尔巴拉,姬塔...,姬塔……
+28,Sevilbarra/萨比尔巴拉,"Yes, you're right. We must at least put up a search for Krelkulkil before thinking about giving up.",没错，你们说的对，在找到卡拉库拉奇尔之前说放弃还太早了。
+29,Sevilbarra/萨比尔巴拉,"(But with that said, where could he possibly be?)",（但是……卡拉库拉奇尔……你……现在，到底在哪里？）
+info,,,scene_evt181130_cp5_q3_s10

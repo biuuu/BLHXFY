@@ -1,0 +1,157 @@
+id,name,text,trans
+0-chapter_name,,第6話 竜攘虎搏,
+0-synopsis,,星晶獣セキトバと合体したロウファ──「飛将軍」に、手も足も出ない姬塔達。そこへ、星晶獣の気配を察知したルリアがレオニスと共に駆け付ける。アルタイルはエルデニ兵達と協力し飛将軍の感覚を一時的に麻痺させ、その隙にルリアが星晶獣に干渉し弱体化させることに成功する。勝機を見出した一行は、最後の決戦に臨むのだった。,面对与星晶兽赤兔马合体的罗法——「飞将军」，姬塔一行束手无策。察觉到星晶兽的气息的露莉亚和雷欧尼斯一起赶来。阿尔泰尔和埃尔德尼士兵合力，暂时麻痹了飞将军的感官，趁此机会，露莉亚成功干涉并削弱了星晶兽。一行人找到了胜利的机会，准备进行最后的决战。
+
+1,星晶獣セキトバ,────,────
+2,,<span class='scene-font-katari'>追い詰めたロウファに、</span><br><span class='scene-font-katari'>最終決戦を挑む姬塔達。</span>,<span class='scene-font-katari'>向被逼入绝境的罗法挑战的姬塔一行。</span>
+3,,<span class='scene-font-katari'>しかし、ロウファの用意していた</span><br><span class='scene-font-katari'>更なる奥の手に、</span><br><span class='scene-font-katari'>一行はただ唖然とする他無いのだった。</span>,<span class='scene-font-katari'>但是面对罗法所说的最后手段，<br>他们只能哑口无言。</span>
+
+4,ビィ/碧,ど、どーいうことだよ！<br>なんだよ、星晶獣セキトバって！,这、这是怎么回事！<br>什么啊，星晶兽赤兔马！
+5,ロウファ/罗法,スイを占領した際の戦利品だ。<br>強者にしか首を垂れぬ<br>気位の高い獣でな。,是我率军占领苏伊时得到的战利品，<br>是个仅承认强者的高傲野兽。
+6,ロウファ/罗法,主なくスイに祀られていたのを、<br>我が己の力を以て召抱えたのだ。,在苏伊被供奉的它没有主人，<br>我便以自己的力量召唤了它。
+7,ロウファ/罗法,しかし、<br>この程度で驚いてもらっては困るな。,但是，你们不能因为这种程度就感到惊讶。
+9,ロウファ/罗法,貴様らが相対するのは、<br>このセキトバでも、<br>このロウファでもない。,你们面对的不是赤兔马，<br>也不是罗法。
+27,飛将軍,人馬一体……<br><span class='scene-font-spword'>“飛将軍”</span>こそ、貴様らを葬る者の名だ！,而是人马一体……<span class='scene-font-spword'>“飞将军”</span>，<br>这才是埋葬你们的人的名字！
+37,ルリア/露莉亚,──いました！<br>あそこです！,——我看到了！他们在那里！
+
+39,,<span class='scene-font-katari'>レオニスに連れられ、</span><br><span class='scene-font-katari'>前線まで駆けてきたルリアは、</span><br><span class='scene-font-katari'>星晶獣の気配を頼りに一行に合流する。</span>,<span class='scene-font-katari'>被雷欧尼斯带到前线的露莉亚，<br>依靠着星晶兽的气息与一行人会合。</span>
+40,レオニス/雷欧尼斯,なん、だ……あれは。,那，那是什么……。
+41,,<span class='scene-font-katari'>しかし、そこでルリアとレオニスが</span><br><span class='scene-font-katari'>目にしたのは、</span><br><span class='scene-font-katari'>星晶獣よりも尚奇怪な存在だった。</span>,<span class='scene-font-katari'>但是，露莉亚和雷欧尼斯看到的，<br>却是比星晶兽更为奇怪的存在。</span>
+45,アルタイル/阿尔泰尔,はぁ……はぁ……,哈啊……哈啊……
+46,飛将軍,他愛ない……<br>やはり所詮はこんなものか。,真无趣啊……果然不过如此么……
+47,,<span class='scene-font-katari'>星晶獣、セキトバの力を得た</span><br><span class='scene-font-katari'>ロウファは、敵も味方も関係なく</span><br><span class='scene-font-katari'>文字通り蹂躙しつくしていた。</span>,<span class='scene-font-katari'>得到了星晶兽赤兔马的力量的罗法，<br>如同字面意思一样蹂躏着众生，<br>无论是敌是友。</span>
+53,,<span class='scene-font-katari'>ひとたび腕を振るえば</span><br><span class='scene-font-katari'>斬撃は大地を抉り、</span><br><span class='scene-font-katari'>奔る炎の海が兵を呑み込んでいく。</span>,<span class='scene-font-katari'>他挥动手臂便可斩裂大地，<br>奔腾的火海将士兵吞噬。</span>
+54,,<span class='scene-font-katari'>ユラントスク、エルデニ両軍の</span><br><span class='scene-font-katari'>被害は計り知れず、</span><br><span class='scene-font-katari'>周囲は地獄絵図と化していた。</span>,<span class='scene-font-katari'>尤兰托斯克和埃尔德尼两军的损失无法估量，<br>这周围已然是一副地狱般的景象。</span>
+
+57,ルリア/露莉亚,皆さん、大丈夫ですか！？,大家都没事吧！？
+58,レオニス/雷欧尼斯,<span class='scene-font-4'>アルタイル！</span><br><span class='scene-font-4'>何だあれは！？</span><br>あれはロウファなのか！？,<span class='scene-font-4'>阿尔泰尔！那是什么！</span><br>那是罗法吗 ！？
+59,ビィ/碧,ルリア！？<br>王様までなんでここに！,露莉亚！？连国王也在这里？<br>你们在干什么！
+60,ルリア/露莉亚,星晶獣の気配を感じて、<br>レオニスさんに無理を言って<br>連れてきてもらったんです！,我感觉到了星晶兽的气息，<br>于是就请雷欧尼斯先生把我带来了！
+61,レオニス/雷欧尼斯,突然星晶獣なんて言い出すから<br>半信半疑だったが、<br>連れてきて正解だったようだな。,突然提起什么星晶兽，<br>我本来还半信半疑的。<br>现在看来，带你来是正确的。
+62,アルタイル/阿尔泰尔,本来、前線に出て来たことを<br>責めるべきだとは思っていますが……<br>今は陛下の判断に感謝します。,本来应该责怪您出现在前线……<br>但是现在我要感谢陛下的判断。
+
+63,,<span class='scene-font-katari'>半人半馬の</span><br><span class='scene-font-katari'>異形となったロウファを示し、</span><br><span class='scene-font-katari'>アルタイルはその名を告げる。</span>,<span class='scene-font-katari'>半人半马的异形罗法出现，<br>阿尔泰尔说出了他的名字。</span>
+
+64,アルタイル/阿尔泰尔,あれは、飛将軍……<br>ロウファが星晶獣セキトバと、<br>一体となった姿です。,那是飞将军……<br>罗法与星晶兽赤兔马融为一体的姿态。
+65,レオニス/雷欧尼斯,星晶獣と一体に……？<br>星晶獣っていうのは、<br>だいたいそういうものなのか？,和星晶兽一体……？<br>所谓的星晶兽，就是那种东西？
+
+66,,<span class='scene-font-katari'>レオニスの疑問に対し、</span><br><span class='scene-font-katari'>ルリアと姬塔は</span><br><span class='scene-font-katari'>慌てて首を振る。</span>,<span class='scene-font-katari'>对于雷欧尼斯的疑问，<br>露莉亚和姬塔连忙摇头。</span>
+
+67,アルタイル/阿尔泰尔,姬塔殿達にとっても、<br>想定を超えた存在のようですね……,对姬塔殿下他们来说，<br>这似乎也是超乎想象的存在……
+68,アルタイル/阿尔泰尔,ルリア。<br>ロウファから星晶獣を<br>引き剥がすことは出来ますか？,露莉亚。<br>能把星晶兽从罗法身上分离开吗？
+69,ルリア/露莉亚,や、やってみます！,我、我试试看！
+
+70,,<span class='scene-font-katari'>そう言って、</span><br><span class='scene-font-katari'>ルリアは星晶獣セキトバに</span><br><span class='scene-font-katari'>干渉を試みるが……</span>,<span class='scene-font-katari'>这么说着，<br>露莉亚试图干涉星晶兽赤兔马……</span>
+
+74,ルリア/露莉亚,──ダメです。<br>今は、星晶獣の意識がロウファさんに<br>呑まれてしまっていて……！,──不行。<br>现在，星晶兽的意识被罗法先生吞噬了……！
+75,ルリア/露莉亚,せめて、一瞬でも隙が出来れば……,至少，哪怕只有一瞬间的空隙也好……
+76,アルタイル/阿尔泰尔,可能性があるのなら、<br>試す価値はあります。,如果这样就能干涉的话，那就值得一试。
+77,アルタイル/阿尔泰尔,しかし、問題はその隙を<br>どう作るか……！,那么，问题就是如何制造那个空隙……！
+78,シュラの声/秋罗的声音,目標正面！<br>ありったけを叩きこみなさい！！,目标正面！攻击！！！
+82,飛将軍,むっ……！,呜……！
+
+84,,<span class='scene-font-katari'>シュラの声が響いたと同時、</span><br><span class='scene-font-katari'>飛将軍の身体が爆炎に包まれる。</span>,<span class='scene-font-katari'>秋罗的声音响起的同时，<br>飞将军的身体被火焰包围。</span>
+85,シュラ/秋罗,援軍に馳せ参じました！<br>遅くなり申し訳ございません！,我们带着援军来了！抱歉来晚了！
+86,シュラ/秋罗,あれだけの砲撃が直撃すれば<br>しばらくは──,如果那样的炮击能直接击中，<br>那么暂时——
+88,飛将軍,──しばらくは、何だ？,——暂时什么？
+89,,<span class='scene-font-katari'>飛将軍はシュラを一瞥すると、</span><br><span class='scene-font-katari'>悲しげにシュラが来た方角を見やる。</span>,<span class='scene-font-katari'>飞将军瞥了秋罗一眼，<br>悲伤地望着秋罗来的方向。</span>
+90,飛将軍,そうか……<br>やはりランファは<br>貴様に敵わなかったようだな。,这样啊……<br>看来兰华果然比不上你啊。
+91,,<span class='scene-font-katari'>そう独り言ちる飛将軍の顔には、</span><br><span class='scene-font-katari'>悲壮と怒りが入り混じる。</span>,<span class='scene-font-katari'>这样自言自语的飞将军，<br>脸上混杂着悲壮和愤怒。</span>
+92,シュラ/秋罗,確かに全弾命中していたはずなのに、<br>どうして……！,明明应该全部击中的，为什么……！
+93,飛将軍,四方を囲み、銃撃、魔弾、砲撃の<br>三段構え……常人ならば確かに<br>避けることは不可能であろう。,枪击、魔弹、炮击从四面而来……<br>如果是普通人的话，确实无法避开。
+94,飛将軍,だが、その程度を見切ることなど<br>この飛将軍には容易なものよ。,但这种程度，对我来说，<br>躲开易如反掌。
+
+95,,<span class='scene-font-katari'>破壊の跡は、</span><br><span class='scene-font-katari'>足元の地面にのみ残されており、</span><br><span class='scene-font-katari'>攻撃が全て躱されたことを示していた。</span>,<span class='scene-font-katari'>破坏的痕迹仅仅只留在了他的脚下，<br>表明攻击都被他全部躲开。</span>
+96,シュラ/秋罗,ならば、命中するまで続けるのみ！！,那么，只需一直坚持到命中为止！！
+97,シュラ/秋罗,<span class='scene-font-4'>全隊、一斉掃射！！</span><br><span class='scene-font-4'>撃てぇッ！！</span>,<span class='scene-font-4'>所有人听令！一起开火！</span>
+
+100,,<span class='scene-font-katari'>シュラの号令と共に、</span><br><span class='scene-font-katari'>再び無数の弾丸が飛将軍を襲う。</span>,<span class='scene-font-katari'>随着秋罗的号令，<br>无数的子弹再次攻向飞将军。</span>
+101,飛将軍,何度やろうと同じことだ。,不管多少次，结果都是一样的。
+102,,<span class='scene-font-katari'>弾丸の雨霰は、</span><br><span class='scene-font-katari'>飛将軍をかすることすらせず、</span><br><span class='scene-font-katari'>ただ大地を抉り、土煙を巻き上げる。</span>,<span class='scene-font-katari'>暴雨般的子弹并没有击中飞将军，<br>只是剜开大地，卷起尘土。</span>
+103,飛将軍,さて……<br>逃げてばかりでは終わらんのでな。<br>今度はこちらからいくぞ。,那么……光是躲闪，是不会结束的。<br>现在轮到我们这边攻击了。
+109,,<span class='scene-font-katari'>そう呟いた次の瞬間。</span><br><span class='scene-font-katari'>飛将軍の姿は、</span><br><span class='scene-font-katari'>すでに後援部隊のもとにあった。</span>,<span class='scene-font-katari'>话音刚落的下一瞬间。<br>飞将军已经身处后援部队里了。</span>
+110,飛将軍,私怨は無い。<br>エルデニに生まれた己を恨め。,我们之间没有私人恩怨，<br>要恨就只恨你自己出生在埃尔德尼吧。
+114,エルデニ兵１/埃尔德尼士兵１,ひっ……,咿……
+
+
+115,,<span class='scene-font-katari'>後退りする兵に対し、</span><br><span class='scene-font-katari'>短い距離ゆえ制御が難しいのか、</span><br><span class='scene-font-katari'>飛将軍はあえてゆっくり距離を詰める。</span>,面对后退的士兵，<br>可能因为距离太短而难以控制，<br>飞将军慢慢地拉近距离。</span>
+116,エルデニ兵１/埃尔德尼士兵１,<span class='scene-font-4'>く、くそっ！</span><br><span class='scene-font-4'>これでも食らえ！！</span>,<span class='scene-font-4'>可、可恶！尝尝看这个！</span>
+121,,<span class='scene-font-katari'>腰を抜かしていた兵が、</span><br><span class='scene-font-katari'>不意に何かを投げつけたと思った瞬間、</span><br><span class='scene-font-katari'>周囲が真っ白な光に包まれる。</span>,<span class='scene-font-katari'>慌乱的士兵突然扔出了什么东西。<br>那一瞬间，这周围笼罩在一片白光之中。</span>
+122,ビィ/碧,なっ！？<br>なんだぁ！？,啊？那是什么？
+123,シュラ/秋罗,これは……閃光弾！？,这是……闪光弹！？
+124,飛将軍,<span class='scene-font-4'>ぐぁあっ……！！</span><br><span class='scene-font-4'>ぐっ、おおおおおお！！</span>,<span class='scene-font-4'>咕啊啊……！！咕，哦哦哦哦！！</span>
+125,飛将軍,ぬぅぅ……<br>うぐっ、くっ……,唔唔……唔咕，咕……
+126,,<span class='scene-font-katari'>ただの目晦ましにも関わらず、</span><br><span class='scene-font-katari'>異常に苦しむ飛将軍に気付き</span><br><span class='scene-font-katari'>アルタイルの頭にある仮説が浮かぶ。</span>,<span class='scene-font-katari'>尽管只是让眼睛无法视物，<br>但注意到表现地异常痛苦的飞将军，<br>阿尔泰尔脑海中浮现出假设。</span>
+127,ルリア/露莉亚,っ！！<br>星晶獣セキトバの気配、<br>捕えました！,星晶兽赤兔马的气息，捕捉到了！
+
+
+128,飛将軍,ぐ……ッ！<br>そんな小細工が通用すると思うか！<br>兵諸共薙ぎ払ってくれる！！,咕……！你以为这种小伎俩行得通吗！<br>这里的所有人都会成为我的刀下亡魂！
+130,ルリア/露莉亚,きゃっ……！,呀……！
+132,レオニス/雷欧尼斯,ぐっ……！<br>相変わらずの馬鹿力め……！,咕……！<br>还是一如既往不讲道理的力量……！
+133,,<span class='scene-font-katari'>ルリアに振り下ろされた鉾を、</span><br><span class='scene-font-katari'>寸でのところでレオニスが食い止める。</span>,<span class='scene-font-katari'>千钧一发之际，<br>雷欧尼斯替露莉亚挡住了罗法的攻击。</span>
+134,シュラ/秋罗,<span class='scene-font-4'>はぁぁぁぁっ！！</span>,<span class='scene-font-4'>哈啊啊啊啊啊啊——！！</span>
+144,,<span class='scene-font-katari'>その横からシュラが鉾を弾き飛ばし、</span><br><span class='scene-font-katari'>姬塔は背後から奇襲する。</span>,<span class='scene-font-katari'>秋罗从侧边弹开长刀，<br>姬塔则从背后发动奇袭。</span>
+145,レオニス/雷欧尼斯,<span class='scene-font-4'>アルタイル！</span><br><span class='scene-font-4'>何か策はあるか！？</span>,<span class='scene-font-4'>阿尔泰尔！有什么计划吗！？</span>
+146,アルタイル/阿尔泰尔,ええ、たった今<br>思いつきましたよ。,是的，我刚刚想到了。
+147,アルタイル/阿尔泰尔,皆さん。<br>あと一度だけ、<br>私に力を貸して下さい。,大家！再帮我一次。
+148,アルタイル/阿尔泰尔,この策すらも破られたその時は、<br>私がこの命に代えてもあなた達を<br>戦場から離脱させると誓います。,如果这个计划也失败了，<br>我发誓我会不惜一切代价<br>让你们离开战场。
+
+149,,<span class='scene-font-katari'>アルタイルの呼びかけを受け、</span><br><span class='scene-font-katari'>ひとり、またひとりと消沈していた</span><br><span class='scene-font-katari'>エルデニ兵達の目に気力が宿る。</span>,<span class='scene-font-katari'>在阿尔泰尔的呼唤下，<br>消沉的埃尔德尼士兵们，<br>眼神中又渐渐燃起希望。</span>
+150,,<span class='scene-font-katari'>士気を取り戻した</span><br><span class='scene-font-katari'>エルデニ兵達の声を聞き、</span><br><span class='scene-font-katari'>飛将軍は煩わしそうに顔を歪めた。</span>,<span class='scene-font-katari'>听到恢复士气的埃尔德尼士兵的声音，<br>飞将军不耐烦地皱起了眉头。</span>
+151,飛将軍,諦めの悪い雑兵共め……<br>何度挑もうと同じことだ。,不肯放弃的杂兵们……<br>再怎么挑战也是一样的结果。
+153,シュラ/秋罗,余所見をしている暇が<br>あるのですか？<br>貴方の相手は私達です！！,还有闲心看别的地方？ <br>你的对手是我们！！
+155,,<span class='scene-font-katari'>姬塔とシュラが</span><br><span class='scene-font-katari'>飛将軍を足止めするその裏で、</span><br><span class='scene-font-katari'>アルタイルは兵に指示を飛ばす。</span>,<span class='scene-font-katari'>姬塔和秋罗挡在飞将军的面前，<br>在他的背后，阿尔泰尔下达着指示。</span>
+
+156,アルタイル/阿尔泰尔,魔導部隊は目標周囲に<br>派手な爆発を起こしてください。<br>当てることは考えなくて結構です。,魔导部队请在目标周围制造华丽的爆炸。 <br>不用考虑命中问题。
+157,エルデニ魔導兵,承知致しました！,遵命，长官！
+158,アルタイル/阿尔泰尔,狙撃部隊は目標へ空砲を。<br>とにかく数を撃ち続けてください。,狙击部队向目标开空枪。<br>无论如何都不要停下。
+159,アルタイル/阿尔泰尔,必要なのは<span class='scene-font-spword'>“音”</span>です。<br>弾は必要ありません。,我们需要的是<span class='scene-font-spword'>“声音”</span>。<br>因此不需要子弹。
+160,エルデニ兵２/埃尔德尼士兵２,はっ！,是！
+161,アルタイル/阿尔泰尔,ルリア。<br>あなたはいつでも星晶獣に<br>干渉できるよう準備を。,露莉亚，你随时准备干涉星晶兽。
+162,ルリア/露莉亚,分かりました！,好的！
+163,飛将軍,<span class='scene-font-kokoro'>（厄介な……</span><br><span class='scene-font-kokoro'>あの銀の軍師が勝算なく動くとは思えん）</span>,<span class='scene-font-kokoro'>（真麻烦……<br>我不认为那个银之军师会毫无胜算地行动）</span>
+164,,<span class='scene-font-katari'>エルデニ兵達を視界の端に</span><br><span class='scene-font-katari'>捉えた飛将軍は、訝しげに眉を寄せる。</span>,<span class='scene-font-katari'>看到埃尔德尼士兵的飞将军<br>不解地皱起了眉头。</span>
+165,シュラ/秋罗,<span class='scene-font-4'>隙あり！！</span>,<span class='scene-font-4'>有破绽！！</span>
+167,,<span class='scene-font-katari'>死角から迫るシュラの気配を察知し、</span><br><span class='scene-font-katari'>そちらに目を向けることもなく</span><br><span class='scene-font-katari'>飛将軍は攻撃を防ぐ。</span>,<span class='scene-font-katari'>飞将军察觉到从视角盲区逼近的秋罗的气息，<br>看都没看一眼就阻止了攻击。</span>
+168,エルデニ魔導兵,<span class='scene-font-4'>とにかく撃ちまくれ！</span><br>下級魔術で構わん、質より量だ！,<span class='scene-font-4'>不管怎样，开火！</span><br>低等的魔法也没关系，数量比质量重要！
+169,エルデニ兵２/埃尔德尼士兵２,間違ってもシュラ様と<br>姬塔さんに当てるな！<br>腕に自信がない奴は空を撃て！,就算打错了<br>也不要打中秋罗大人和姬塔大人！<br>对自己的准头没信心的家伙，往天空射！
+170,,<span class='scene-font-katari'>途端、アルタイルの狙い通り、</span><br><span class='scene-font-katari'>戦場が騒々しい音に包まれる。</span>,<span class='scene-font-katari'>正如阿尔泰尔所预料的那样，<br>战场上响起了嘈杂的声音。</span>
+171,,<span class='scene-font-katari'>地面を抉る爆発音。</span><br><span class='scene-font-katari'>耳障りな銃撃音、砲撃音。</span><br><span class='scene-font-katari'>ありとあらゆる音が周囲に溢れる。</span>,<span class='scene-font-katari'>地上的爆炸声、刺耳的枪声、炮击声，<br>周围充斥着各种各样的声音。</span>
+173,飛将軍,ぐっ……！,咕……！
+174,飛将軍,<span class='scene-font-kokoro'>（なんだ……？</span><br><span class='scene-font-kokoro'>この頭が揺れるような衝撃は！）</span>,<span class='scene-font-kokoro'>（这是什么……？<br>这个脑袋震荡的冲击！）</span>
+175,,<span class='scene-font-katari'>戦場に身を置く者であれば、</span><br><span class='scene-font-katari'>既に慣れ親しんだ音であるはずの</span><br><span class='scene-font-katari'>それが、飛将軍の脳内を蝕んだ。</span>,<span class='scene-font-katari'>对于置身战场的人来说，<br>这本应是熟悉的声音，<br>但现在这种声音侵蚀着飞将军的脑内。</span>
+176,,<span class='scene-font-katari'>直接脳が揺さぶられるような</span><br><span class='scene-font-katari'>無数の音の衝撃を受けながらも、</span><br><span class='scene-font-katari'>飛将軍は鉾を振るい続ける。</span>,<span class='scene-font-katari'>在震耳欲聋的声音下，<br>飞将军仍然挥舞着长刀。</span>
+177,シュラ/秋罗,<span class='scene-font-kokoro'>（先程よりも動きが鈍っている……？</span><br><span class='scene-font-kokoro'>これなら、もしかしたら！）</span>,<span class='scene-font-kokoro'>（动作比刚才慢了……？<br>这样的话，说不定！）</span>
+179,シュラ/秋罗,<span class='scene-font-4'>姬塔様！</span>,<span class='scene-font-4'>姬塔大人！</span>
+180,,<span class='scene-font-katari'>飛将軍の変化に気付いたシュラが</span><br><span class='scene-font-katari'>姬塔と視線を交わらせる。</span>,<span class='scene-font-katari'>注意到飞将军变化的秋罗<br>与姬塔交换了视线。</span>
+183,,<span class='scene-font-katari'>シュラの意図を汲みとった</span><br><span class='scene-font-katari'>姬塔は勢いよく地を蹴ると、</span><br><span class='scene-font-katari'>飛将軍の目の前へ飛び上がった。</span>,<span class='scene-font-katari'>明白秋罗意图的姬塔猛地跳起，<br>顺势来到飞将军的眼前。</span>
+184,飛将軍,<span class='scene-font-4'>愚かな！</span><br>これで──,<span class='scene-font-4'>愚蠢！这下──</span>
+185,シュラ/秋罗,<span class='scene-font-4'>はぁぁぁぁぁぁっ！！</span>,<span class='scene-font-4'>哈啊啊啊啊啊啊——！</span>
+186,,<span class='scene-font-katari'>鉾を振り上げる飛将軍の側頭部に、</span><br><span class='scene-font-katari'>シュラが繰り出した</span><br><span class='scene-font-katari'>渾身の蹴りが叩きこまれる。</span>,<span class='scene-font-katari'>秋罗使出浑身解数的一击，<br>打中了飞将军脑侧。</span>
+187,飛将軍,なっ……！,啊……！
+188,,<span class='scene-font-katari'>その瞬間、</span><br><span class='scene-font-katari'>飛将軍の視界がぼやけ</span><br><span class='scene-font-katari'>体が大きくふらついた。</span>,<span class='scene-font-katari'>这一瞬间，他的视线模糊起来，<br>身体也摇晃了起来。</span>
+189,アルタイル/阿尔泰尔,<span class='scene-font-4'>ルリア！</span><br><span class='scene-font-4'>お願いします！！</span>,<span class='scene-font-4'>露莉亚，拜托了！</span>
+190,ルリア/露莉亚,はい！<br>星晶獣セキトバを<br>引き離します……！,嗯！我会把星晶兽赤兔马分离……！
+193,星晶獣セキトバ,────！！,————！！
+194,飛将軍,<span class='scene-font-4'>さ、せる、かぁぁぁぁっ！！</span>,<span class='scene-font-4'>怎、么可、能啊啊啊啊啊！！</span>
+196,ルリア/露莉亚,きゃああっ！！,呀啊啊啊！！
+197,レオニス/雷欧尼斯,大丈夫か、嬢ちゃん！,你没事吧，小姑娘！
+198,ルリア/露莉亚,は、はい……,没、没事……
+199,ルリア/露莉亚,アルタイルさん！<br>完全に引き剥がす前に<br>星晶獣に拒絶されてしまって……,阿尔泰尔先生！<br>在完全将他们剥离之前，<br>感受到了星晶兽的拒绝……
+200,アルタイル/阿尔泰尔,いえ、上出来です。<br>少なくとも奴は、手も足も出ない<br>化物などではありません。,不，你做得很好。<br>至少他现在没有之前那么可怕了。
+201,,<span class='scene-font-katari'>そのアルタイルの言葉通り、</span><br><span class='scene-font-katari'>息を乱しながら再び立ち上がる</span><br><span class='scene-font-katari'>飛将軍に、先程までの覇気は無い。</span>,<span class='scene-font-katari'>正如阿尔泰尔所说，<br>重新站起来的飞将军气息紊乱，<br>已经没有了之前的霸气。</span>
+202,飛将軍,貴様ら……<br>我に何をした！！,你们……对我做了什么！！
+203,アルタイル/阿尔泰尔,超高速で銃弾の嵐を避けるには、<br>およそふたつの力が必要になります。,要以极快的速度躲避子弹连发，<br>大概需要两种力量。
+204,アルタイル/阿尔泰尔,ひとつは、<br>避けることそのものに使う移動力……,第一，<br>是避开这些所需要的移动力……
+205,アルタイル/阿尔泰尔,もうひとつは、<br>どう避けるかを判断するための、<br>情報を集める方法です。,第二，<br>是收集信息、来判断如何避免的方法。
+208,アルタイル/阿尔泰尔,これには幾つか可能性がありましたが、<br>あなたはただの閃光弾を<br>異様に苦しんでいた。,这其中有几种可能性，<br>其中你只对闪光弹产生了强烈的反应。
+209,アルタイル/阿尔泰尔,そこで気づいたんです。<br>あなたの感覚は、常人以上に<br>敏感になっているのではないかと。,我注意到了这一点。<br>你现在的感觉应该会比常人更敏感。
+212,アルタイル/阿尔泰尔,故に、戦場で聴きなれた<br>音ですら、数を増やせば<br>あなたにとっての兵器になる。,因此，即使是在战场上听惯了的声音，<br>只要增加数量，<br>也会成为对付你的武器。
+213,飛将軍,小癪な……<br>どこまでもこざかしい……！,……只不过是小聪明而已。
+214,飛将軍,しかし、見事だ！<br>あの一瞬だけでそこまで見抜くとは！,但是干得漂亮！<br>单凭那一瞬间就能看穿那么多！
+215,飛将軍,だが、変わらぬ、何も変わらぬぞ！<br>我は負けるわけにはいかんのだ！！,不过，什么都没有改变！<br>我不能输！！
+217,飛将軍,我が悲願のため……<br>そして、我自身のために！！<br>死んでもらうぞ、雑兵共！！,为了我的悲愿……为了我自己！！<br>我要你们死，杂鱼们！！
+218,アルタイル/阿尔泰尔,これが正真正銘の決戦です。<br>全力を以て迎撃せよ！,现在开始就是真正的决战了。<br>全力迎击吧！
+220,一同/众人,<span class='scene-font-5'>おおー！</span>,<span class='scene-font-5'>哦哦——！</span>
+info,,,scene_evt200429_cp6_q4_s20
+译者,Lunati@秋庭月,初稿完成于2020.5.6,

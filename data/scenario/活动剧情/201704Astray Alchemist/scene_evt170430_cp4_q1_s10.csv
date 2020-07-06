@@ -1,0 +1,35 @@
+id,name,text,trans
+0-chapter_name,,第4話 残された可能性,第4话 剩下的可能性
+0-synopsis,,戦いの中で「ニグレド」と呼ばれる状態へと進化したヘルメスの門の特殊能力を前に打つ手がない姬塔達。そして、ついにカリオストロが倒れてしまう。絶体絶命の危機の中、本物のクラリスが現れ、姬塔達一行の窮地を救うのであった。,在战斗中进化为「Nigredo」的赫尔墨斯之门，它的特殊能力使姬塔一行束手无策。卡莉奥斯特萝终于体力不支倒下。危急时刻，真正的克拉莉丝出现救下了姬塔一行。
+3,,<span class='scene-font-katari'>姬塔達の猛攻を受け</span><br><span class='scene-font-katari'>崩れるように倒れるニグレド。</span>,<span class='scene-font-katari'>在姬塔等人的猛攻下，Nigredo终于倒地。</span>
+4,ビィ/碧,よしっ、これで……っ！,好，这样就……！
+5,パラケルスス,フン……無駄なことを。,哼……白费力气。
+8,,<span class='scene-font-katari'>そのパラケルススの言葉が</span><br><span class='scene-font-katari'>正しいというように、</span><br><span class='scene-font-katari'>倒れたニグレドは再び起き上がる。</span>,<span class='scene-font-katari'>像在应征帕拉塞尔苏斯的话一般，倒下的Nigredo再次站起。</span>
+9,ビィ/碧,んなっ！？,什么！？
+10,パラケルスス,ニグレドは<span class='scene-font-spword'>「黒化」</span>の影響で<br>自壊するのを待つか……,要么等Nigredo在<span class='scene-font-spword'>「黑化」</span>影响下自我毁灭……
+11,パラケルスス,ニグレドを構成する全てを<br>消滅させるかのどちらかでしか<br>倒すことができない。,要么就把构成Nigredo的所有物质完全消灭。只有这两种方法可以打倒它。
+12,パラケルスス,つまり、錬金術を用いなければ<br>このニグレドを倒すことは<br>できないのだ。,也就是说，不使用炼金术是无法打败Nigredo的。
+13,パラケルスス,そして唯一、<br>ニグレドを倒せるであろう開祖は<br>今やその力を弱体化させている。,然而，唯一能够击败Nigredo的始祖现在非常虚弱。
+14,パラケルスス,また、<span class='scene-font-spword'>「黒化」</span>で自壊するのを待つには<br>時間がかかりすぎる……,另一方面，等待它因<span class='scene-font-spword'>「黑化」</span>而自灭则需要太长时间……
+15,パラケルスス,さぁ、この状況で<br>どうやって俺を倒す？　開祖。,在这种情况下，你要怎么打败我，始祖？
+16,カリオストロ/卡莉奥斯特萝,どうにかして……だ。<br>こちとら生まれた時から、<br>手詰まりってのは慣れっこなんだよ。,总有办法。<br>我从出生起就已经习惯打破僵局了。
+17,カリオストロ/卡莉奥斯特萝,こう見えて往生際が悪くてな。<br>てめぇらなんざ……<br>絶対……に……,我可比你想得要顽固。<br>绝对要……把你们……
+18,,<span class='scene-font-katari'>そう言いながらも</span><br><span class='scene-font-katari'>カリオストロは身体をふらつかせ、</span><br><span class='scene-font-katari'>地面へと倒れ込んでしまう。</span>,<span class='scene-font-katari'>话还没说完，卡莉奥斯特萝就摇晃着倒在地上。</span>
+19,ルリア/露莉亚,カリオストロさん！,卡莉奥斯特萝！
+20,ビィ/碧,お、おいっ！<br>しっかりしろって！,喂！<br>振作点啊！
+21,パラケルスス,どうやら、もう限界の様だな。<br>では、ニグレド。<br>開祖を……,看来已经到极限了。<br>Nigredo，抓住始祖……
+29,帝国兵/帝国士兵,<span class='scene-font-4'>ぎゃぁぁぁぁっ！</span>,<span class='scene-font-4'>啊啊啊啊啊！</span>
+30,錬金術師,こ、この歪な錬金術は……まさか！,这、这扭曲的炼金术……难道是！
+31,ゼシード,くうっ！,呃！
+32,,<span class='scene-font-katari'>突如、響く爆音。</span><br><span class='scene-font-katari'>そして、それに合わせて屋敷自体が</span><br><span class='scene-font-katari'>激しく振動していく。</span>,<span class='scene-font-katari'>突然响起的爆炸声让房屋随之剧烈震动。</span>
+33,パラケルスス,……何事だ。,……怎么回事。
+34,？？？,みんな、まとめてドカーンだーっ！,把他们都炸飞！
+42,,<span class='scene-font-katari'>声が響くのと同時に</span><br><span class='scene-font-katari'>部屋の中で爆発が連鎖していく。</span>,<span class='scene-font-katari'>话音刚落，房间内发生了连锁爆炸。</span>
+44,,<span class='scene-font-katari'>そして、それに合わせ、</span><br><span class='scene-font-katari'>爆風に煽られるように、</span><br><span class='scene-font-katari'>ニグレドは吹き飛ばされるのだった。</span>,<span class='scene-font-katari'>Nigredo也被爆炸产生的冲击轰走。</span>
+45,パラケルスス,なに……？,什么……？
+47,？？？,助けに来たよ！<br>姬塔☆<br>ルリアちゃんっ☆,我来救你们了！<br>姬塔☆<br>露莉亚☆
+48,ルリア/露莉亚,えっ……,咦……
+49,ビィ/碧,んなっ！？,什么！？
+52,クラリス/克拉莉丝,美少女錬金術師クラリスちゃん、<br>ドカンと参上だぁっ！,美少女炼金术师克拉莉丝，闪亮登场！
+53,クラリス/克拉莉丝,いぇいっ☆,耶☆
+info,,,scene_evt170430_cp4_q1_s10

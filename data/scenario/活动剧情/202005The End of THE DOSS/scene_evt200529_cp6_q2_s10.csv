@@ -1,0 +1,65 @@
+id,name,text,trans
+0-chapter_name,,第6話 Unfinished Melody,
+0-synopsis,,アオイドスの戻らぬまま迎えたフェス当日。出番が来て、一行はバックステージでギリギリまでアオイドスを待つ。観客達を待たせることに限界を感じた一行は、急遽ルリアが代役としてアオイドスの代わりに歌うことに。しかし、ステージ上でのパフォーマンスに慣れないルリアはすぐに限界を迎えてしまう。これ以上の時間稼ぎは難しいと、一行の焦燥は募る。,到了音乐节当天，亚欧伊多斯还是没有回来。出场时间已经到了，成员们在后台等着亚欧伊多斯出现。观众们似乎已经等不及了，众人打算先让露莉亚代替亚欧伊多斯演唱一曲。但是不习惯舞台表演的露莉亚很快到了极限，无法再争取更多时间。
+2,,<span class='scene-font-katari'>そして、フェス当日。</span>,<span class='scene-font-katari'>音乐节当天。</span>
+3,,<span class='scene-font-katari'>特設ステージの前では</span><br><span class='scene-font-katari'>空域中から集まった</span><br><span class='scene-font-katari'>無数の観客がひしめく。</span>,<span class='scene-font-katari'>临时舞台前聚集着全空各地前来的无数观众。</span>
+4,,<span class='scene-font-katari'>中には見慣れぬ服装の一団もおり、</span><br><span class='scene-font-katari'>空域を渡ってまでこのフェスを</span><br><span class='scene-font-katari'>見に来たようである。</span>,<span class='scene-font-katari'>人群中还有一群奇装异服的人，似乎是穿越空域而来的。</span>
+5,,<span class='scene-font-katari'>全ては、急成長を遂げたと評判の</span><br><span class='scene-font-katari'>DOSSのGIGを味わうため。</span>,<span class='scene-font-katari'>大家都为一见急速成长的DOSS而等在台前。</span>
+6,,<span class='scene-font-katari'>その期待は熱気そして歓声となって</span><br><span class='scene-font-katari'>会場に溢れていた。</span>,<span class='scene-font-katari'>期待化为热情，最后变成欢呼，响彻在整个会场。</span>
+11,ビィ/碧,か、会場……<br>すげえ事になってんな……<br>とんでもねえ数が集まってんぜ。,会、会场……<br>真不得了啊……<br>有这么多人来看。
+12,ラカム/拉卡姆,……アオイドスは？,……亚欧伊多斯呢？
+13,マネージャー,…………,
+14,,<span class='scene-font-katari'>マネージャーは首を横に振り、</span><br><span class='scene-font-katari'>未だアオイドスが</span><br><span class='scene-font-katari'>戻っていない事を示す。</span>,<span class='scene-font-katari'>经纪人摇了摇头，表示亚欧伊多斯还是没有回来。</span>
+15,ラカム/拉卡姆,郵便屋さんよ。<br>アオイドスの奴に<br>通知は渡してくれたんだよな？,邮递员，你有把通知交到亚欧伊多斯手上吧？
+16,郵便屋,もちろんです。あちらからも<br>受け取りのサインは頂けていませんが。<br>あの、そろそろサインを……,当然了。只是那边也没有给我签收。话说，你们差不多给我签个字……
+17,マネージャー,アカイドスさん、申し訳ない……<br>運営に出場順の変更を打診しましたが、<br>今からでは無理だと……,亚卡伊多斯，抱歉……<br>我也向主办方提出过变更出场顺序，但是他们说现在已经不可能了……
+18,ルリア/露莉亚,ど、どうするんですか？<br>アオイドスさんがいないと<br>お歌なしになっちゃいます……,怎、怎么办？<br>亚欧伊多斯不在的话就没人唱歌了……
+19,マネージャー,彼が出場をすっぽかすとは<br>とても思えません。,我不觉得他会放弃演出。
+20,マネージャー,運営もそれに理解を示し、<br>可能な限り開始を遅らせることは<br>できると言っていましたが……,主办方也表示理解，说是会尽可能地延迟开场时间，不过……
+21,群衆,DOSS！　DOSS！　DOSS！　DOSS！,
+22,ビィ/碧,盛り上がってるうちに出ねえと、<br>しらけちまいそうだな……,不趁气氛热闹的时候上台的话会冷场吧……
+23,ルリア/露莉亚,…………,
+24,バアル/巴尔,確かに。歓声の音圧は<br>僅かずつであるが落ちてきている。<br>ひとつ手を打つか。,确实。欢呼声已经有那么一点变弱了。我们先采取行动。
+25,マネージャー,ギターヴォーカル不在で<br>ステージに出て時間稼ぎを？<br>分の悪い賭けになりそうですが……,吉他手和主唱不在就上台争取时间吗？<br>我不太看好这个赌局……
+26,ルリア/露莉亚,<span class='scene-font-4'>あ、あの！</span><br>私にもできる事、ありませんか！？,<span class='scene-font-4'>那、那个！</span><br>有没有我能帮上忙的地方！？
+27,バアル/巴尔,……ああ。<br>是非とも頼みたい。,……嗯，就拜托你了。
+28,,<span class='scene-font-katari'>バアルは冷静に返事をして</span><br><span class='scene-font-katari'>他のバンドのメンバーに歩み寄る。</span>,<span class='scene-font-katari'>巴尔冷静地回答，之后走到其他乐队的人身边。</span>
+29,バアル/巴尔,デカイドス。<br>お前のバンドのギターを<br>一本借りたい。,德卡伊多斯，能问你们乐队先借一把吉他吗？
+30,デカイドス,あ……ああ！？<br>構わねえが……,啊……啊！？<br>可以是可以……
+31,バアル/巴尔,ルリア。<br>着替えを。,露莉亚，去换衣服。
+32,ルリア/露莉亚,……いいんですか？<br>私がお歌を歌っても……,……可以吗？<br>我上去唱歌……
+33,バアル/巴尔,アオイドスの前座、<br>シロイドスだ。<br>このギターは任せよう。,在亚欧伊多斯上台之前暖场的希洛伊多斯。<br>这把吉他就交给你了。
+34,ルリア/露莉亚,<span class='scene-font-4'>ええーっ！？</span><br>私、ギターの弾き方わからないですよ！,<span class='scene-font-4'>咦！？</span><br>我、我不会弹吉他！
+35,バアル/巴尔,そこは俺に任せておけばいい。<br>いくぞ。,这一点就放心交给我吧。<br>我们走。
+37,,<span class='scene-font-katari'>ルリアの背中を</span><br><span class='scene-font-katari'>指先で優しくトンと突き、</span><br><span class='scene-font-katari'>バアルはステージへと向かう。</span>,<span class='scene-font-katari'>巴尔用手指轻轻戳了一下露莉亚的背，走向舞台。</span>
+38,ラカム/拉卡姆,お、おい、バアル！,喂、喂，巴尔！
+39,ビィ/碧,ステージに出ちまった……<br>オイラ達も行くっきゃねえ！,他上台了……<br>咱们也得去！
+40,ルリア/露莉亚,す、すみません！<br>更衣室どこですか！？,对、对不起！<br>更衣室在哪里！？
+46,ルリア/露莉亚,…………,
+47,,<span class='scene-font-katari'>フェス一番手を務めるDOSS──</span><br><span class='scene-font-katari'>そのリーダーであるアオイドスはおらず</span><br><span class='scene-font-katari'>見慣れぬ少女がステージに立つ。</span>,<span class='scene-font-katari'>音乐节第一个出场的DOSS乐队——队长亚欧伊多斯没有出现，上场的是一个面生的少女。</span>
+48,,<span class='scene-font-katari'>予想外の光景に、観客達からは</span><br><span class='scene-font-katari'>どよめきが広がっていく。</span>,<span class='scene-font-katari'>意想不到的一幕让观众们开始议论纷纷。</span>
+49,ルリア/露莉亚,<span class='scene-font-4'>み、みなさん、こんにちは！</span>,<span class='scene-font-4'>大、大家好！</span>
+50,群衆,…………,
+51,ルリア/露莉亚,えっと、アオイドスさんの前座の、<br>ルリ……ううん、シロイドスです。,那个，我是在亚欧伊多斯登场之前来暖场的露莉……希洛伊多斯。
+52,群衆,…………,
+53,ルリア/露莉亚,<span class='scene-font-4'>ま、まずは聴いてくださいっ！</span>,<span class='scene-font-4'>请、请大家听我们的音乐！</span>
+56,,<span class='scene-font-katari'>そしてギターを弾きはじめるルリア。</span>,<span class='scene-font-katari'>随后露莉亚便开始弹奏吉他。</span>
+57,群衆,…………！,
+58,,<span class='scene-font-katari'>ルリアが披露した演奏は</span><br><span class='scene-font-katari'>アオイドスの得意とするフレーズ。</span>,<span class='scene-font-katari'>露莉亚演奏的是亚欧伊多斯的拿手曲目。</span>
+59,バアル/巴尔,…………！,
+60,,<span class='scene-font-katari'>星晶獣であるバアルの力を借り、</span><br><span class='scene-font-katari'>彼の演奏テクニックをコピーしたのだ。</span>,<span class='scene-font-katari'>身为星晶兽的巴尔把他的演奏技巧复制给了露莉亚。</span>
+61,群衆,<span class='scene-font-5'>おおーっ！</span>,<span class='scene-font-5'>哦哦！</span>
+62,,<span class='scene-font-katari'>アオイドスとはテイストが違えど、</span><br><span class='scene-font-katari'>彼に迫る腕前をみせたルリアに</span><br><span class='scene-font-katari'>観客は拍手を送る。</span>,<span class='scene-font-katari'>虽然给人的感觉不同，但演奏水平逼近亚欧伊多斯的露莉亚也赢得了观众们的掌声。</span>
+63,,<span class='scene-font-katari'>そして──</span>,<span class='scene-font-katari'>于是——</span>
+75,,<span class='scene-font-katari'>人々の笑顔と興奮に、</span><br><span class='scene-font-katari'>ルリアも思わず笑顔をこぼすが──</span>,<span class='scene-font-katari'>人们的笑容与热情也让露莉亚笑了起来，然而——</span>
+76,ルリア/露莉亚,<span class='scene-font-kokoro'>（……痛……っ！）</span>,<span class='scene-font-kokoro'>（……痛……！）</span>
+77,,<span class='scene-font-katari'>わずかにその表情が苦痛にゆがんだ。</span>,<span class='scene-font-katari'>笑容突然因痛苦而僵硬。</span>
+78,ラカム/拉卡姆,<span class='scene-font-kokoro'>（まずい……指か！）</span>,<span class='scene-font-kokoro'>（糟了……她的手指！）</span>
+79,バアル/巴尔,<span class='scene-font-kokoro'>（俺の技術を使えど、</span><br><span class='scene-font-kokoro'>ギターの弦を押さえることに</span><br><span class='scene-font-kokoro'>慣れぬ指先では、１曲が限界か……）</span>,<span class='scene-font-kokoro'>（虽然能复制我的技巧，但毕竟没按过弦，一首歌就是极限了么……）</span>
+80,ビィ/碧,<span class='scene-font-kokoro'>（無理させらんねえぞ……</span><br><span class='scene-font-kokoro'>他の時間稼ぎを探さねえと！）</span>,<span class='scene-font-kokoro'>（不能勉强她……要想别的方法来争取时间了！）</span>
+81,ルリア/露莉亚,<span class='scene-font-kokoro'>（大丈夫……まだ、大丈夫……！）</span>,<span class='scene-font-kokoro'>（没关系……我还可以……！）</span>
+82,,<span class='scene-font-katari'>人々の笑顔を絶やさぬため、</span><br><span class='scene-font-katari'>指先の痛みに耐えて</span><br><span class='scene-font-katari'>歌い続けるルリア。</span>,<span class='scene-font-katari'>为了保持人们脸上的笑容，露莉亚忍耐着指尖的疼痛继续唱歌。</span>
+84,群衆,<span class='scene-font-4'>うおおおおおっ！</span><br>DOSS！　DOSS！　DOSS！　DOSS！,<span class='scene-font-4'>哦哦哦哦哦哦哦！</span><br>DOSS！　DOSS！　DOSS！　DOSS！
+85,,<span class='scene-font-katari'>どうにか演奏を終えた時には、</span><br><span class='scene-font-katari'>熱狂が島中に響き渡っていた──</span>,<span class='scene-font-katari'>演奏结束时，疯狂的欢呼回荡在整座岛上——</span>
+info,,,scene_evt200529_cp6_q2_s10
+译者,,,

@@ -1,0 +1,28 @@
+﻿id,name,text,trans
+0-chapter_name,,5: With Condolences to None,传达不到的哀痛
+0-synopsis,,The crew stays on the estate in preparation for the removal of Corwell's X-factor sliver. Krelkulkil uses the cover of the night to sneak onto the estate while everyone is asleep.,姬塔众人为了移除克洛威尔的碎片而住下，露莉亚感觉到了很多奇怪的气息。在众人熟睡的时候，卡拉库拉奇尔利用夜色的掩护靠近了这里。
+1,,"With night soon falling, the elder has a room prepared for 姬塔 and company.",夜晚临近，长老为众人准备了住宿的房间。
+2,,Preparations need to be arranged before the sliver can be extracted from Corwell. The crew takes this time to rest for the night.,为了给移除克洛威尔的碎片做准备，一行人决定休息一晚。
+8,Vyrn/碧,Let's all hit the sack! We've gotta be at our best to look for Krelkulkil tomorrow!,今天赶快睡下吧，明天就要去找卡拉库拉奇尔了！
+9,Lyria/露莉亚,Mm...,唔……
+10,Vyrn/碧,"What's the holdup, Lyria? Get under those covers!",怎么了，露莉亚？被子也铺好了，赶快躺下吧！
+11,Lyria/露莉亚,"Oh... Y-yeah! Tomorrow's a big day, so...",啊，是的，说的没错！明天一早就要忙起来了。
+12,Lyria/露莉亚,Hmm...,唔唔唔……
+13,Vyrn/碧,Why do you keep hemming and hawing? Something on your mind?,怎么了？这么奇怪，发生什么事了吗？
+14,Lyria/露莉亚,I can't really explain it...,唔，很难用言语来解释。
+15,Lyria/露莉亚,"I'm sensing a lot of things in this mansion... Like there's a presence, or we're being watched...",这个宅邸，有很多的气息，或者说视线……我感觉到了那种东西。
+16,Lyria/露莉亚,"It tries to be quiet, but it's loud at the same time. Sometimes it's coming, sometimes it's going...",有时候几乎感觉不到，有时候又感觉非常强烈，有时候好像在靠近，有时候好像在远离……
+17,Vyrn/碧,"C-cut it out! No horror stories, thank you very much!",诶，诶！！不要说这么吓人的事情！
+18,Lyria/露莉亚,"Scary isn't how I would describe it, but it definitely feels unsettling. What could it be?",吓人……还不至于，就是感觉很诡异，到底是怎么回事啊？
+19,Vyrn/碧,"Ugh, feels like a ghost is gonna pop out—",诶，这里应该不会闹鬼吧？
+20,Lyria/露莉亚,Eeek! A gh-ghost?,诶！妖怪，是妖怪吗？
+21,Vyrn/碧,Did you notice how few people we saw around here when we were being shown to our room?,因为来这个房间的路上，我们没有看到多少人吧？
+22,Lyria/露莉亚,Now that you mention it...,说起来……
+23,Lyria/露莉亚,"Um, 姬塔? Could you push your futon next to mine?",诶，那个，姬塔的床铺和我的床铺，能拼在一起吗？
+24,Vyrn/碧,"I'm sharing your futon tonight, 姬塔! I can, right, buddy?",喂，我要和姬塔睡在一个被子里，好吗？能行吧？可以吧？
+26,Lyria/露莉亚,"Hey! That's sneaky, Vyrn!",啊，好狡猾啊，碧！
+27,,"姬塔 calms down the both of them, and they finally lie down to sleep.",姬塔安抚了他们两个，三人并排躺下睡觉。
+36,Krelkulkil/卡拉库拉奇尔,...,……
+37,,"The mansion is still with the sounds of slumber. Standing outside in the night, a past resident of the mansion awaits his homecoming.",整栋宅子都陷入沉睡之中，在深沉的夜色里，青年站在他曾经生活过的宅邸门口。
+38,,"A pair of eyes devoid of nostalgia and affection looks over the house with quiet, seething hatred.",凝视着宅邸的双眼中没有怀念，只有安静燃烧着的憎恨。
+info,,,scene_evt181130_cp5_q4_s10

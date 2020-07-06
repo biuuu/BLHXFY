@@ -1,0 +1,52 @@
+id,name,text,trans
+0-chapter_name,,第1話 日常,第1話 日常
+0-synopsis,,ジークフリートに全く太刀打ちできなかったアーサーとモルドレッドがその強さを噛み締めていると、ブルグント地方で異変が起きたとの報せが入る。それは、パーシヴァルと共にウェールズを訪れ、アグロヴァルに謁見していた姬塔達の耳にも届いていた。アグロヴァルはフェードラッヘを心配する一行の様子を見ると、パーシヴァルにブルグント地方への偵察を命じるのだった。,在和齐格飞的较量中完全不敌的亚瑟和莫德雷德，又体会到了齐格飞的强大，就在这时有报告称勃艮第地区发生异变。这件事也传到了，和帕西瓦尔一起拜访威尔兹，拜见阿古罗瓦尔的姬塔一行的耳中。阿古罗瓦尔看着一行人担忧菲多拉厄的样子，命令帕西瓦尔去侦察勃艮第地区的情况。
+2,アーサー/亚瑟,くっそ～！　強すぎでしょ～！,可恶～！　也太强了吧～！
+3,モルドレッド/莫德雷德,手も足も出なかった……,强到束手无策啊……
+4,,<span class='scene-font-katari'>ジークフリートに</span><br><span class='scene-font-katari'>文字通り手も足も出なかった</span><br><span class='scene-font-katari'>アーサーとモルドレッド。</span>,<span class='scene-font-katari'>亚瑟和莫德雷德正如字面所说</span><br><span class='scene-font-katari'>面对齐格飞</span><br><span class='scene-font-katari'>毫无应对办法。</span>
+5,,<span class='scene-font-katari'>ふたりは地面に大の字になって</span><br><span class='scene-font-katari'>悔しそうにしている。</span>,<span class='scene-font-katari'>两个人以大字型躺在地上</span><br><span class='scene-font-katari'>一副不甘心的样子。</span>
+6,ジークフリート/齐格飞,ふっ……そう落ち込むな。<br>お前達も着実に成長している。,呵……不用那么失落。<br>你们都在稳健的进步着呢。
+7,アーサー/亚瑟,どの辺が成長したんですか？,是哪里有进步了呢？
+8,ジークフリート/齐格飞,そうだな……<br>以前より攻撃に幅が出て来たな。,嗯……<br>比起以前攻击的威力提升了吧。
+9,モルドレッド/莫德雷德,ちぇっ……<br>まるで本気を出して<br>なかったですけどね……,切……<br>简直就像在说<br>你完全没有认真起来啊……
+10,ジークフリート/齐格飞,本気を出してしまえば、<br>お前達が……,如果我认真起来的话<br>你们就……
+11,ジークフリート/齐格飞,いや……なんでもない。,不……没什么。
+12,アーサー/亚瑟,ええっ？<br>どうなっちゃうんですか？,诶诶？<br>会变成怎样啊？
+13,モルドレッド/莫德雷德,おいアーサー<br>それ以上ツッコむなって……,喂亚瑟<br>别再问下去啦……
+14,,<span class='scene-font-katari'>その時、ランスロットの元に</span><br><span class='scene-font-katari'>白竜騎士団員が駆け込んで来る。</span>,<span class='scene-font-katari'>就在这时，一个白龙骑士团团员</span><br><span class='scene-font-katari'>来到了兰斯洛特身边。</span>
+16,白竜騎士団団員,ランスロット団長！,兰斯洛特团长！
+17,ランスロット/兰斯洛特,どうした……そんなに慌てて？,怎么了……这么慌慌张张的？
+18,白竜騎士団団員,現在、ブルグント地方で異変が<br>起きているそうです！<br>至急、陛下の元にお戻りください！,现在，好像在勃艮第地区<br>发生了异变！<br>请尽快，回到陛下的身边！
+19,ランスロット/兰斯洛特,……っ！　わかった！<br>すぐに陛下の元に参じよう！,……！　我知道了！<br>我会立刻前往陛下身边！
+25,アグロヴァル ,今しがた入った商人達の情報によると<br>ブルグント地方で魔物の群れが<br>跋扈しているそうだ……,根据刚刚进来的商人的情报<br>在勃艮第地区<br>大群魔物在肆虐着……
+26,パーシヴァル/帕西瓦尔,……なっ！？　何故魔物が？,……什么！？　为什么魔物会？
+27,アグロヴァル ,さあな……<br>これ以上は我にも分かりかねる。,谁知道呢……<br>再进一步的情报我也不知道了。
+28,,<span class='scene-font-katari'>その頃、ウェールズに立ち寄っていた</span><br><span class='scene-font-katari'>パーシヴァルと姬塔達も</span><br><span class='scene-font-katari'>ブルグント地方の異変に気づいていた。</span>,<span class='scene-font-katari'>就在那时，停留在威尔兹的</span><br><span class='scene-font-katari'>帕西瓦尔和姬塔一行</span><br><span class='scene-font-katari'>也察觉到了勃艮第地区的异变。</span>
+29,ビィ/碧,なんだ……<br>そのブルグント地方ってのは？,怎么了……<br>那个勃艮第地区又怎么了？
+30,アグロヴァル ,……ブルグント地方は、<br>複数の国の国境に位置する<br>情勢が不安定な地域だ。,……勃艮第地区是<br>位于多国的国境相交处的<br>情况非常不稳定的地区。
+31,パーシヴァル/帕西瓦尔,俺がフェードラッヘにいた頃にも<br>大きな反乱が起きたことがある。,我在菲多拉厄的那时候<br>那里也发生过大规模的叛乱。
+32,ルリア/露莉亚,そうなんですか、<br>王都の皆さんが心配ですね……,是这样啊，<br>王都的大家也很担心吧……
+33,パーシヴァル/帕西瓦尔,ああ……そうだな。,嗯……是啊。
+34,,<span class='scene-font-katari'>パーシヴァルの不安そうな表情を</span><br><span class='scene-font-katari'>見て取ったアグロヴァルは、</span><br><span class='scene-font-katari'>軽い口調で提案する。</span>,<span class='scene-font-katari'>看到帕西瓦尔露出了不安的表情</span><br><span class='scene-font-katari'>阿古罗瓦尔轻描淡写地</span><br><span class='scene-font-katari'>提议说道。</span>
+35,アグロヴァル ,ふむ……パーシヴァルよ、<br>ブルグント地方へ偵察に行って参れ。,嗯……帕西瓦尔啊，<br>你去勃艮第地区侦查吧。
+36,パーシヴァル/帕西瓦尔,兄上……！,兄长……！
+37,アグロヴァル ,ブルグント地方は交易路の要所、<br>我がウェールズに行き来する<br>商人達にも影響が出よう。,勃艮第地区是贸易道路上的重要之地<br>也会影响到那些<br>来我国威尔兹的商人们。
+38,パーシヴァル/帕西瓦尔,ですが、兄上からの依頼は……？,但是，兄长委托我的任务……？
+39,アグロヴァル ,それはこちらで対処する。,那件事就由我来处理。
+40,アグロヴァル ,今はブルグント地方の問題の方が、<br>国益への影響が大きいと判断した。,我判断现在勃艮第地区的问题<br>对国家利益的影响更大。
+41,パーシヴァル/帕西瓦尔,承知致しました……！,我知道了……！
+42,ビィ/碧,ったく……回りくどいっていうか、<br>兄弟そろって素直じゃねぇな……,真是的……这么七弯八绕的<br>两兄弟都一样不坦率呢……
+43,ルリア/露莉亚,うふふっ、<br>でも、やっぱり兄弟だなって<br>感じがしますね。,呵呵呵，<br>但是，让人感觉<br>果然是兄弟呢。
+44,パーシヴァル/帕西瓦尔,……家臣共は、このまま<br>ウェールズで休んでいても良いが、<br>どうする？,……家臣们啊，你们是要就这样<br>待在威尔兹休息<br>还是？
+45,ビィ/碧,フェードラッヘが心配だし、<br>オイラ達も行くか。,我们也担心菲多拉厄那边呢<br>我们也一起去。
+46,ルリア/露莉亚,はい！<br>そうしましょう！,嗯！<br>就这么决定了！
+46-sel1_txt,,<span class='scene-font-katari'>一緒に行こう！</span>,<span class='scene-font-katari'>一起去吧！</span>
+47,パーシヴァル/帕西瓦尔,ふっ……<br>つくづくお人好しな奴らめ。,呵……<br>你们还真是老好人啊。
+48,パーシヴァル/帕西瓦尔,では、準備が出来次第、<br>家臣共もブルグント地方へ向かうぞ！,那么，准备结束就立刻<br>和家臣们一起前往勃艮第地区吧！
+49,,<span class='scene-font-katari'>こうして、パーシヴァルと</span><br><span class='scene-font-katari'>姬塔達も、ブルグント地方へと</span><br><span class='scene-font-katari'>向かうのだった。</span>,<span class='scene-font-katari'>就这样，帕西瓦尔和姬塔一行</span><br><span class='scene-font-katari'>向着勃艮第地区</span><br><span class='scene-font-katari'>前进。</span>
+54,,<span class='scene-font-katari'>姬塔達が出立した後、</span><br><span class='scene-font-katari'>アグロヴァルは近衛兵を呼んで</span><br><span class='scene-font-katari'>何かを耳打ちしている。</span>,<span class='scene-font-katari'>在姬塔他们离开后</span><br><span class='scene-font-katari'>阿古罗瓦尔唤来了近卫兵</span><br><span class='scene-font-katari'>耳语吩咐道。</span>
+55,アグロヴァル ,……手練れの者を集めて、<br><span class='scene-font-spword'>“龍脈”</span>の調査を進めろ。,……集合武艺高超的人<br>去调查<span class='scene-font-spword'>“龙脉”</span>。
+56,近衛兵,はっ！,是！
+57,,<span class='scene-font-katari'>立ち去る兵の背中を見つめながら、</span><br><span class='scene-font-katari'>アグロヴァルは、ひとり静かに</span><br><span class='scene-font-katari'>物思いに耽っているのだった。</span>,<span class='scene-font-katari'>看着士兵离去的背影</span><br><span class='scene-font-katari'>阿古罗瓦尔一个人静静地</span><br><span class='scene-font-katari'>陷入了沉思。</span>
+info,,,scene_evt190927_cp1_q4_s30
+译者,,,

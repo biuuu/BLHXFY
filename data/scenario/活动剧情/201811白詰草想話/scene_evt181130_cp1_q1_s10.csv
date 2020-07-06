@@ -1,0 +1,46 @@
+﻿id,name,text,trans
+0-chapter_name,,第1話 幾千の 闇夜を越へて,
+0-synopsis,,サビルバラの家は妖刀を守っていたが、妹が妖刀を封じる呪術を伝える一族の息子に嫁ぐ日、ひとりの男が妹を殺し妖刀を奪っていった。妹の仇と妖刀を追うサビルバラは、現在姬塔達と行動を共にしていた。ある日、リュミエール聖騎士団からサビルバラの追う人物に関して話したいことがある、という手紙を受け取った一行は、急ぎ手紙で指定された島へ向かう。,萨比尔巴拉的家族是守护妖刀的一族，但在妹妹嫁往传承封印妖刀的一族之子的那一天，一个男人将妹妹杀死并夺走了妖刀。追寻着妹妹的仇敌和妖刀的下落的萨比尔巴拉，现在正与姬塔同行。某一天，从卢米埃圣骑士团寄来了一封信件，说有关于萨比尔巴拉追寻的人物的消息。一行人收到消息后，急忙向指定的岛屿进发。
+8,,<span class='scene-font-katari'>昔……そう、昔の話だ。</span>,<span class='scene-font-katari'>很久以前……对，很久以前的故事。</span>
+9,,<span class='scene-font-katari'>あるところに、兄妹が住んでいた。</span><br><span class='scene-font-katari'>ふたりは亡き両親から</span><br><span class='scene-font-katari'>受け継いできたものを守っていた。</span>,<span class='scene-font-katari'>某个地方，曾住着一对兄妹。</span><br><span class='scene-font-katari'>他们守护着已故的双亲</span><br><span class='scene-font-katari'>所传承下来的东西。</span>
+10,,<span class='scene-font-katari'>ひとつは、妖刀。</span><br><span class='scene-font-katari'>星の獣をも殺し得ると言われる、</span><br><span class='scene-font-katari'>古い時代に作られた危険な刀。</span>,<span class='scene-font-katari'>其一，为妖刀。</span><br><span class='scene-font-katari'>是据说连星之兽也能够杀死的，</span><br><span class='scene-font-katari'>于古老年代所制作的危险刀具。</span>
+11,,<span class='scene-font-katari'>もうひとつは、剣術。</span><br><span class='scene-font-katari'>妖刀にて悪を断つため</span><br><span class='scene-font-katari'>心身を鍛える必要があった。</span>,<span class='scene-font-katari'>而另一件，为剑术。</span><br><span class='scene-font-katari'>要以妖刀斩奸除恶，</span><br><span class='scene-font-katari'>必需锻炼其身心。</span>
+12,,<span class='scene-font-katari'>だが、空と星の戦から時は流れ</span><br><span class='scene-font-katari'>妖刀も剣術も今の時代には</span><br><span class='scene-font-katari'>不要であるように思われた。</span>,<span class='scene-font-katari'>然而，空与星之战后时光飞逝，</span><br><span class='scene-font-katari'>无论妖刀还是剑术，</span><br><span class='scene-font-katari'>在这个时代都已不再被需要。</span>
+15,,<span class='scene-font-katari'>剣術を伝えるための道場は</span><br><span class='scene-font-katari'>島の子供達が一時、体を鍛えるために</span><br><span class='scene-font-katari'>通う程度の場所となり……</span>,<span class='scene-font-katari'>为传承剑术而建的道场，</span><br><span class='scene-font-katari'>现亦已成为岛上孩童，</span><br><span class='scene-font-katari'>进行身体锻炼时使用的地方。</span>
+16,,<span class='scene-font-katari'>妖刀をその手に握ろうとは</span><br><span class='scene-font-katari'>最早、受け継ぐ兄妹ですら</span><br><span class='scene-font-katari'>考えもしないことだった。</span>,<span class='scene-font-katari'>将妖刀握于手中这种事，</span><br><span class='scene-font-katari'>就连继承了妖刀的兄妹，</span><br><span class='scene-font-katari'>都从来没有考虑过。</span>
+23,,<span class='scene-font-katari'>……島にはもうひとつ、</span><br><span class='scene-font-katari'>妖刀を受け継ぐ家があった。</span>,<span class='scene-font-katari'>……岛上还有另一家，</span><br><span class='scene-font-katari'>传承着妖刀的家族。</span>
+24,,<span class='scene-font-katari'>彼らは妖刀を振るうための剣術ではなく</span><br><span class='scene-font-katari'>封じるための呪術を伝える一族だった。</span>,<span class='scene-font-katari'>他们所传承的</span><br><span class='scene-font-katari'>并非挥舞妖刀的剑术，</span><br><span class='scene-font-katari'>而是将其封印的咒术。</span>
+25,,<span class='scene-font-katari'>人を守ることを旨とした彼らは、</span><br><span class='scene-font-katari'>人々のために様々な呪術を学び</span><br><span class='scene-font-katari'>島の中心を担う家になっていた。</span>,<span class='scene-font-katari'>以守护人们为己任的他们，</span><br><span class='scene-font-katari'>为此学习了各种各样的咒术，</span><br><span class='scene-font-katari'>成为了引领整个岛的支柱。</span>
+29,,<span class='scene-font-katari'>兄は、家宝の妖刀を彼らに渡し</span><br><span class='scene-font-katari'>封印して貰うことを</span><br><span class='scene-font-katari'>考えるようになった。</span>,<span class='scene-font-katari'>于是哥哥产生了，</span><br><span class='scene-font-katari'>将家传的妖刀赠与他们，</span><br><span class='scene-font-katari'>让他们将其封印的想法。</span>
+30,,<span class='scene-font-katari'>呪術師の総領息子と妹が</span><br><span class='scene-font-katari'>婚礼を挙げることになったのは、</span><br><span class='scene-font-katari'>良い機会であるように思われた。</span>,<span class='scene-font-katari'>咒术师的家主公子与妹妹，</span><br><span class='scene-font-katari'>正要举办的婚礼，</span><br><span class='scene-font-katari'>似乎是一次好的契机。</span>
+31,,<span class='scene-font-katari'>嫁入り道具と共に妖刀を携え、</span><br><span class='scene-font-katari'>妹は山を越えて呪術師の元へと嫁いだ。</span><br><span class='scene-font-katari'>嫁ごうと、した。</span>,<span class='scene-font-katari'>随着嫁妆与妖刀，</span><br><span class='scene-font-katari'>妹妹翻越山岭嫁往了咒术师家族。</span><br><span class='scene-font-katari'>本应是，这样的。</span>
+35,,<span class='scene-font-katari'>けれど。嗚呼。</span>,<span class='scene-font-katari'>然而。呜呼。</span>
+36,,<span class='scene-font-katari'>ひとりの男が花嫁行列を止めた。</span><br><span class='scene-font-katari'>兄妹の家に伝わる妖刀を求める</span><br><span class='scene-font-katari'>その男の目は狂った獣のそれだった。</span>,<span class='scene-font-katari'>一个男人挡在了出嫁队伍前。</span><br><span class='scene-font-katari'>索求着兄妹家传的妖刀的他，</span><br><span class='scene-font-katari'>眼神宛如疯狂的野兽。</span>
+47,,<span class='scene-font-katari'>花嫁を守ろうとした列に連なる者達は</span><br><span class='scene-font-katari'>ひとり、またひとりと切り伏せられて</span><br><span class='scene-font-katari'>小道は血に染まった。</span>,<span class='scene-font-katari'>想要守护新娘的队伍成员们，</span><br><span class='scene-font-katari'>一个、又一个的被斩杀，</span><br><span class='scene-font-katari'>小道上染满了血红。</span>
+51,,<span class='scene-font-katari'>赤い泥の中に倒れた兄が</span><br><span class='scene-font-katari'>刀を杖代わりに立とうとした、</span><br><span class='scene-font-katari'>その目の前で。</span>,<span class='scene-font-katari'>倒在血红的泥土上的哥哥，</span><br><span class='scene-font-katari'>以刀作拐正试图站起来时，</span><br><span class='scene-font-katari'>在他的面前。</span>
+53,,<span class='scene-font-katari'>……白い花嫁衣裳が、</span><br><span class='scene-font-katari'>真っ赤に染まった。</span>,<span class='scene-font-katari'>……洁白的新娘衣裳，</span><br><span class='scene-font-katari'>被染成了鲜红色。</span>
+57,,<span class='scene-font-katari'>妹は死んだ。</span><br><span class='scene-font-katari'>妖刀は奪われた。</span><br><span class='scene-font-katari'>兄は何ひとつ、守れなかった。</span>,<span class='scene-font-katari'>妹妹死了。</span><br><span class='scene-font-katari'>妖刀被夺走了。</span><br><span class='scene-font-katari'>哥哥没能守护任何东西，</span>
+58,,<span class='scene-font-katari'>おめおめと生き残った兄が</span><br><span class='scene-font-katari'>目を覚ました時、</span><br><span class='scene-font-katari'>既に花婿は屋敷を飛び出した後だった。</span>,<span class='scene-font-katari'>当苟且存活的哥哥，</span><br><span class='scene-font-katari'>再次睁开眼睛的时候。</span><br><span class='scene-font-katari'>新郎早已飞奔离开了宅邸。</span>
+59,,<span class='scene-font-katari'>花婿は仇を討とうとしている。</span><br><span class='scene-font-katari'>そのためにならば</span><br><span class='scene-font-katari'>妖刀に己の魂を捧げるつもりだ。</span>,<span class='scene-font-katari'>新郎想要报仇。</span><br><span class='scene-font-katari'>为了这个目的，</span><br><span class='scene-font-katari'>他要把自己的灵魂献给妖刀。</span>
+60,,<span class='scene-font-katari'>兄もまた、花婿と同じ様に仇を追う。</span><br><span class='scene-font-katari'>悲劇の元となった家宝の妖刀を</span><br><span class='scene-font-katari'>その手で折るために。</span>,<span class='scene-font-katari'>哥哥也和新郎一样开始追寻仇敌。</span><br><span class='scene-font-katari'>为了将作为悲剧源头的传家妖刀，</span><br><span class='scene-font-katari'>亲手折断。</span>
+61,,<span class='scene-font-katari'>昔の話だ。</span><br><span class='scene-font-katari'>けれど、今もまだ続く話でもある。</span>,<span class='scene-font-katari'>这是很久以前的故事。</span><br><span class='scene-font-katari'>然而，也是正进行着的故事。</span>
+62,,<span class='scene-font-katari'>未だ誰も知らぬ結末は、</span><br><span class='scene-font-katari'>だがひたひたと近づいて来ていた。</span>,<span class='scene-font-katari'>那无人能够预知的结局，</span><br><span class='scene-font-katari'>已经悄然逼近了。</span>
+66,ルリア/露莉亚,サビルバラさ～ん！<br>どこですか～？,萨比尔巴拉先生～！你在哪里～？
+67,サビルバラ,……ん？,……嗯？
+68,ビィ/碧,あっ！　いたいた！<br>こんなところにいたのかよ、<br>編み笠の兄ちゃん。,啊！在这在这！原来你在这啊，斗笠小哥。
+69,サビルバラ,どうしたぜよ、ルリアにビィに<br>姬塔まで。<br>そんなに息せき切って。,怎么啦，露莉亚和碧，连姬塔也在。喘得那么厉害。
+70,ルリア/露莉亚,あの、実は<br>リュミエール聖騎士団から<br>お手紙が届いたんです。,那个，其实是，卢米埃圣骑士团寄来了一封信。
+71,サビルバラ,リュミエール聖騎士団……？<br>ああ、姬塔は<br>懇意にしちょるんだったか。,卢米埃圣骑士团……？哦，是跟姬塔有交情的那个。
+82,ルリア/露莉亚,はい！　元々リュミエール聖騎士団の<br>団員さんだった人も、姬塔の<br>騎空団の団員さんにいますし……,是的！原来在卢米埃圣骑士团里当过团员的人，也有几个在姬塔的骑空团里……
+83,ビィ/碧,姬塔がさ、<br>編み笠の兄ちゃんが追ってる奴について<br>何か知らないか問い合わせてみたんだ。,姬塔就去问了一下他们，关于斗笠小哥你在找的人有没有什么消息之类的。
+84,サビルバラ,そんなことを……？<br>すまん、姬塔。<br>手間を掛けちまったぜよ。,为我做了这种事……？不好意思，姬塔。真是让你费心了。
+85,,<span class='scene-font-katari'>姬塔は</span><br><span class='scene-font-katari'>手紙を一通だしただけだからと、</span><br><span class='scene-font-katari'>気にしないようサビルバラに伝える。</span>,<span class='scene-font-katari'>姬塔表示</span><br><span class='scene-font-katari'>只不过是写了一封信而已，</span><br><span class='scene-font-katari'>让萨比尔巴拉不用客气。</span>
+86,ルリア/露莉亚,それで……そのお手紙に、<br>お返事が来たんです。,然后……那封信的回信寄过来了。
+87,ルリア/露莉亚,詳しいことは書けないけど、<br>お話ししたいことがあるから<br>来てください、って……！,没有写什么详细的东西，只是提到有话要说请我们过去一趟。
+88,サビルバラ,…………！,…………！
+89,サビルバラ,そいつぁ……<br>……つまり、何か知っちょる<br>っちゅうことだな。,这个嘛……<br>……也就是说，他们知道些什么吧。
+90,ビィ/碧,だと思うぜ！<br>でなけりゃ、オイラ達をわざわざ<br>呼ぶ必要もねぇもんな。,应该是吧！不然应该不会特意让我们赶过去了。
+91,,<span class='scene-font-katari'>姬塔もビィに頷き、</span><br><span class='scene-font-katari'>指定された館のある島へ</span><br><span class='scene-font-katari'>騎空艇を向かわせることを決めた。</span>,于是大家决定用骑空艇赶往指定的岛上的宅邸。
+92,サビルバラ,……なにもかも、<br>すまんな姬塔。,……真是帮了大忙啊姬塔。
+93,サビルバラ,だが、これで……<br>やっと、奴の尻尾を<br>掴めるかもしれん……！,但是，这样一来……也许终于可以抓住那家伙的尾巴了……！
+info,,,scene_evt181130_cp1_q1_s10

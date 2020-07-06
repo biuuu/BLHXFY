@@ -1,0 +1,72 @@
+﻿id,name,text,trans
+0-chapter_name,,第1話 ビストロ再建計画、始動,第1話 餐厅重建计划，启动
+0-synopsis,,ヴェイン達が店に戻ってきた後、パーシヴァルとジークフリートチームはパーシヴァルが母から教わったというパテ・ド・カンパーニュを作ることにする。獣の肉を探しに出かけた一行はジークフリートの案内で「ドラッヘンボア」という猪の魔物を狩ることになり、パーシヴァル、ジークフリート、姬塔は力を合わせドラッヘンボアを追い詰めるのだった。,维恩等人回到店里后，帕西瓦尔和齐格飞组确定制作据说是帕西瓦尔从其母亲处学到的乡村肉酱。出门寻找兽肉的一行人在齐格飞的带领下决定狩猎名叫“德拉狠野猪”的魔物，帕西瓦尔、齐格飞和姬塔一起合力把德拉狠野猪逼到了绝境。
+1,,<span class='scene-font-katari'>ヴェインとランスロットが戻って来たが</span><br><span class='scene-font-katari'>未だに動きの無いパーシヴァルと</span><br><span class='scene-font-katari'>ジークフリート。</span>,<span class='scene-font-katari'>维恩和兰斯洛特回到了店里，但帕西瓦尔和齐格飞还没有动静。</span>
+2,,<span class='scene-font-katari'>前菜に何を作るか考えている</span><br><span class='scene-font-katari'>パーシヴァルの隣で、</span><br><span class='scene-font-katari'>ジークフリートは静かに佇む。</span>,<span class='scene-font-katari'>齐格飞静静地站在思考着前菜做什么的帕西瓦尔旁边。</span>
+3,ジークフリート/齐格飞,パーシヴァル、<br>何を作るか決まったのか？,帕西瓦尔，你决定做什么了吗？
+4,パーシヴァル/帕西瓦尔,ああ……<br>俺は、母上に教えてもらった<br>パテ・ド・カンパーニュを作る。,啊啊……我决定做母亲大人教我的乡村肉酱。
+5,,<span class='scene-font-katari'>遠い目をしながら語るパーシヴァルは、</span><br><span class='scene-font-katari'>レシピを覚えるほど何度も作った料理で</span><br><span class='scene-font-katari'>自信を持って出せる一品だと説明する。</span>,<span class='scene-font-katari'>一边望向远方一边说着的帕西瓦尔说明道，那是他做了无数次都能记住菜谱的料理，有自信拿的出手。</span>
+6,ジークフリート/齐格飞,パテ、とはどんな料理だ？,肉酱，是什么样的料理？
+7,パーシヴァル/帕西瓦尔,細かく刻んだ肉類に香草を混ぜて、<br>型にはめて焼いたものだ。,在切细的肉类里混入香草后倒在模具里烧出来的东西。
+8,パーシヴァル/帕西瓦尔,そのためには、豚肉や鳥肉などの<br>獣の肉が必要なのだが、<br>ただの肉では意味が無い。,所以需要猪肉或者鸟肉等兽肉，但是用一般的肉的话就没意义了。
+9,パーシヴァル/帕西瓦尔,どこかに良質な肉質の獣がいる<br>狩場を知らないか？,你知不知道哪个猎场有肉质优良的野兽？
+10,ジークフリート/齐格飞,なるほど……<br>獣の肉なら心当たりがある。<br>付いてこい。,原来如此……兽肉的话我心里有数。跟我来。
+11,,<span class='scene-font-katari'>ようやく料理のメニューが決まり</span><br><span class='scene-font-katari'>食材を探しに出かけることになる</span><br><span class='scene-font-katari'>パーシヴァルとジークフリート。</span>,<span class='scene-font-katari'>帕西瓦尔和齐格飞终于决定了料理的菜单，出门寻找食材。</span>
+15,,<span class='scene-font-katari'>その間、</span><br><span class='scene-font-katari'>ヴェインとランスロットは</span><br><span class='scene-font-katari'>店の留守を預かるのだった。</span>,<span class='scene-font-katari'>期间，维恩和兰斯洛特留下来看店。</span>
+20,,<span class='scene-font-katari'>ジークフリートに連れられて</span><br><span class='scene-font-katari'>森の中へ入っていくパーシヴァルと</span><br><span class='scene-font-katari'>姬塔達。</span>,<span class='scene-font-katari'>在齐格飞带领下，帕西瓦尔和姬塔等人进入了森林。</span>
+21,ジークフリート/齐格飞,さぁ着いたぞ。<br>昔、俺がよく野営をしていた森だ。,到了。<br>这里是以前我经常野营的森林。
+22,パーシヴァル/帕西瓦尔,ほう……<br>ここで何が狩れるんだ？,哦……<br>这里能猎到什么？
+23,ジークフリート/齐格飞,あいつだ。,那家伙。
+24,,<span class='scene-font-katari'>ジークフリートの指し示す先には</span><br><span class='scene-font-katari'>巨大な魔物が闊歩していた。</span>,<span class='scene-font-katari'>齐格飞手指的方向前方，巨大的魔物正在阔步前进。</span>
+25,？？？,…………,…………
+26,ビィ/碧,な、なんだあのデッケェ魔物は！,那、那个巨大的魔物是什么啊！
+27,ジークフリート/齐格飞,あれは<span class='scene-font-spword'>“ドラッヘンボア”</span>と呼ばれる、<br>この辺りに生息する猪の魔物だ。,那被叫做<span class='scene-font-spword'>“德拉狠野猪”</span>，是生活在这附近的猪的魔物。
+28,ジークフリート/齐格飞,アイツの肉は絶品でな、<br>きっとパテにも合うと思うぞ。,那家伙的肉是绝品啊，一定很适合做肉酱。
+29,ドラッヘンボア,フゴフゴ……,（猪叫声）……
+30,ビィ/碧,ずいぶんと凶暴そうだけど、<br>大丈夫なのか？,看上去好像很凶暴，不要紧吗？
+31,ルリア/露莉亚,フゴフゴ言って、<br>なんだか怒ってるみたいです。,哼哼叫着，好像在生气。
+32,パーシヴァル/帕西瓦尔,おい姬塔、<br>俺とお前でアイツを捕らえるぞ。,喂姬塔，我跟你去抓它。
+33,,<span class='scene-font-katari'>ドラッヘンボアに気付かれない様に</span><br><span class='scene-font-katari'>気配を消して距離を詰めていく</span><br><span class='scene-font-katari'>姬塔とパーシヴァル。</span>,<span class='scene-font-katari'>姬塔和帕西瓦尔隐去气息不让德拉狠野猪发现，逐渐靠近它。</span>
+34,ドラッヘンボア,…………,…………
+35,パーシヴァル/帕西瓦尔,姬塔、俺の作戦をよく聞け。<br>アイツに匂いで気取られない様に<br>このまま一人が風下に身を隠す。,姬塔，好好听我的作战计划。<br>我们中一个人就这样藏在下风处不要让它闻到味道。
+36,パーシヴァル/帕西瓦尔,もう一人は風上に回り込んで、<br>わざとアイツを追い立てるんだ。,另一个人绕到上风处故意去追赶它。
+37,パーシヴァル/帕西瓦尔,アイツが逃げた瞬間、<br>風下に身を隠していた方が<br>姿を現して挟み撃ちだ。,在那家伙要逃走的瞬间，藏身在下风处的人出来去夹击它。
+38,パーシヴァル/帕西瓦尔,どうだ、簡単だろう？<br>ところで姬塔、<br>お前は風上と風下のどっちをやりたい？,怎么样，很简单吧？说起来，上风处的和下风处的，姬塔你想做哪个？
+38-sel1_txt,,<span class='scene-font-katari'>風上から追い立てる方！</span>,<span class='scene-font-katari'>在上风处追赶的那个！</span>
+38-sel2_txt,,<span class='scene-font-katari'>風下でじっとする方……</span>,<span class='scene-font-katari'>在下风处等待的那个……</span>
+39,パーシヴァル/帕西瓦尔,分かった。<br>では俺はこのまま風下で<br>待機しているぞ。,明白了。<br>那么我就这样在下风处待机了。
+40,パーシヴァル/帕西瓦尔,健闘を祈る。,愿你奋斗到底。
+41,,<span class='scene-font-katari'>そのまま、ドラッヘンボアの</span><br><span class='scene-font-katari'>風上へ移動する姬塔。</span>,<span class='scene-font-katari'>就这样姬塔开始往德拉狠野猪的上风处移动。</span>
+45,,<span class='scene-font-katari'>姬塔は、頃合いを見計らって</span><br><span class='scene-font-katari'>ドラッヘンボアの前に</span><br><span class='scene-font-katari'>姿を現すのだった。</span>,<span class='scene-font-katari'>姬塔选好恰当的时机出现在了德拉狠野猪面前。</span>
+46,パーシヴァル/帕西瓦尔,分かった。<br>では俺が風上から<br>アイツを追い立てよう。,明白了。那么我去上风处追赶它。
+47,パーシヴァル/帕西瓦尔,姬塔は<br>このまま風下で<br>待機していてくれ。,姬塔你就在下风处待机。
+48,,<span class='scene-font-katari'>そう言うと、パーシヴァルは</span><br><span class='scene-font-katari'>ドラッヘンボアの風上の方へ</span><br><span class='scene-font-katari'>移動していく。</span>,<span class='scene-font-katari'>说着，帕西瓦尔开始往德拉狠野猪的上风处移动。</span>
+52,,<span class='scene-font-katari'>パーシヴァルは、頃合いを見計らって</span><br><span class='scene-font-katari'>ドラッヘンボアの前に</span><br><span class='scene-font-katari'>姿を現すのだった。</span>,<span class='scene-font-katari'>帕西瓦尔选好恰当的时机出现在了德拉狠野猪面前。</span>
+56,ドラッヘンボア,フゴッ！,哼！
+57,,<span class='scene-font-katari'>風上から現れた不審な人間を見るや否や</span><br><span class='scene-font-katari'>風下ではない方向へ逃げてしまう</span><br><span class='scene-font-katari'>ドラッヘンボア。</span>,<span class='scene-font-katari'>德拉狠野猪一看到从上风处出现的可疑人物，就往不是下风方向的方向逃跑了。</span>
+58,,<span class='scene-font-katari'>パーシヴァルと姬塔が</span><br><span class='scene-font-katari'>ドラッヘンボアを挟み撃ちにする作戦は</span><br><span class='scene-font-katari'>あえなく失敗してしまうのだった。</span>,<span class='scene-font-katari'>帕西瓦尔和姬塔的夹击德拉狠野猪的作战很轻易地就失败了。</span>
+61,パーシヴァル/帕西瓦尔,くっ……<br>何故あらぬ方向へ逃げた！,咕……<br>为什么朝没有预料到的方向逃走了！
+62,ドラッヘンボア,<span class='scene-font-4'>フゴゴゴゴ……！</span>,<span class='scene-font-4'>（猪叫声）……！</span>
+65,パーシヴァル/帕西瓦尔,ジークフリート！<br>そっちへ逃げたぞ！,齐格飞！<br>朝你那里逃了！
+66,ルリア/露莉亚,ジークフリートさん！<br>危ないです！,齐格飞先生！危险！
+67,,<span class='scene-font-katari'>ジークフリートに向かって</span><br><span class='scene-font-katari'>逃げていくドラッヘンボア。</span>,<span class='scene-font-katari'>德拉狠野猪朝齐格飞逃去。</span>
+68,ジークフリート/齐格飞,問題ない。,没问题。
+69,,<span class='scene-font-katari'>全く殺気の無い様子で、</span><br><span class='scene-font-katari'>悠然と構えるジークフリート。</span>,<span class='scene-font-katari'>齐格飞完全没有杀气，悠然地摆起架势。</span>
+70,ドラッヘンボア,<span class='scene-font-4'>フゴォォォォ！</span>,<span class='scene-font-4'>（猪叫）！</span>
+72,ジークフリート/齐格飞,<span class='scene-font-4'>はあっ……！</span>,<span class='scene-font-4'>哈……！</span>
+73,,<span class='scene-font-katari'>ドラッヘンボアが</span><br><span class='scene-font-katari'>襲い掛かろうとした瞬間、</span><br><span class='scene-font-katari'>殺気を放つジークフリート。</span>,<span class='scene-font-katari'>在德拉狠野猪冲过来的瞬间，齐格飞放出杀气。</span>
+77,ドラッヘンボア,…………！？,…………！？
+78,,<span class='scene-font-katari'>するとドラッヘンボアは</span><br><span class='scene-font-katari'>方向転換して逃げてしまう。</span>,<span class='scene-font-katari'>于是德拉狠野猪转变方向逃走了。</span>
+81,パーシヴァル/帕西瓦尔,何をしている！？<br>逃げられてしまうぞ！,你在做什么！？<br>它要逃走了！
+85,,<span class='scene-font-katari'>だが次の瞬間、</span><br><span class='scene-font-katari'>ドラッヘンボアがくくり罠にかかって</span><br><span class='scene-font-katari'>身動きが制限されるのだった。</span>,<span class='scene-font-katari'>然而下一瞬间，德拉狠野猪踩中了绳索陷阱，动弹不得。</span>
+86,ドラッヘンボア,フゴォォォォ……！,（猪叫）……！
+87,パーシヴァル/帕西瓦尔,な……に……！？,什……么……！？
+88,ビィ/碧,ス、スゲェぜジークフリートのヤツ！,好、好厉害啊齐格飞那家伙！
+89,ジークフリート/齐格飞,ヤツはなかなか賢いからな、<br>風下に人間が隠れることを<br>知っていたのだ。,它挺聪明的，知道下风处躲着人。
+90,ジークフリート/齐格飞,後は地形から逃げる方向を予測して、<br>事前にくくり罠を仕掛けておいた。,然后就根据地形预测逃跑方向，事先放好绳索陷阱。
+92,ジークフリート/齐格飞,だがこの程度でくたばるタマじゃない。<br>さぁ、一息に仕留めるぞ！<br>パーシヴァル、姬塔！,但是它不是这种程度就会被放倒的。来，一口气了结它吧！帕西瓦尔，姬塔！
+93,パーシヴァル/帕西瓦尔,分かっている！,知道！
+94,,<span class='scene-font-katari'>パーシヴァルと姬塔は、</span><br><span class='scene-font-katari'>くくり罠にかかったドラッヘンボアを</span><br><span class='scene-font-katari'>捕らえようと向かっていくのだった。</span>,<span class='scene-font-katari'>帕西瓦尔和姬塔一起冲过去准备抓住被陷阱困住的德拉狠野猪。</span>
+95,ドラッヘンボア,<span class='scene-font-4'>フゴォォォォォォ！</span>,<span class='scene-font-4'>（猪叫）！</span>
+info,,,scene_evt181031_cp1_q4_s20
+备注,,,翻译：shala9999

@@ -1,0 +1,13 @@
+id,name,text,trans
+0-chapter_name,,第5話 メイムの奇策,第5话 梅姆的奇策
+0-synopsis,,姬塔達が魔物を一手に引き受ける中、ルリアは懸命にユリウスに憑りついた星晶獣を吸収しようと集中する。しかし、ユリウスが弱っていないため、ルリアの体には大きな負担がかかっていたのだった。,趁姬塔等人拦住了魔兽，露莉亚拼命集中精神吸收附身尤里乌斯的星晶兽。然而，尤里乌斯并不处于虚弱状态，这给露莉亚带来了很大的负担。
+0,アルベール/阿尔贝尔,いけるか、ルリア！！,能行吗，露莉亚！？
+1,ルリア/露莉亚,はいっ！<br>…………！,是！<br>…………！
+2,,<span class='scene-font-katari'>ルリアは</span><br><span class='scene-font-katari'>ユリウスに取り憑いた星晶獣を</span><br><span class='scene-font-katari'>吸収しようと集中する。</span>,<span class='scene-font-katari'>露莉亚开始吸收附身尤里乌斯的星晶兽的力量。</span>
+5,ルリア/露莉亚,…………！<br>もう、ちょっと……！,…………！<br>还差、一点……！
+7,ユリウス/尤里乌斯,くっ……！,唔……！
+8,メイム/梅姆,やっちゃえ、ルリア！,上吧，露莉亚！
+9,ビィ/碧,頑張れ、ルリアーっ！,加油啊，露莉亚！
+10,,<span class='scene-font-katari'>仲間達の応援を受けながら、</span><br><span class='scene-font-katari'>ルリアは星晶獣の力を</span><br><span class='scene-font-katari'>吸収せんとする。</span>,<span class='scene-font-katari'>在同伴们的应援声中，露莉亚开始吸收星晶兽的力量。</span>
+11,,<span class='scene-font-katari'>だがその行為が彼女の体に</span><br><span class='scene-font-katari'>大きな負担となっていることを</span><br><span class='scene-font-katari'>まだ姬塔達は知らない。</span>,<span class='scene-font-katari'>但姬塔他们还不知道，这会对露莉亚造成巨大的负担。</span>
+info,,,scene_evt170131_cp5_q4_s30
