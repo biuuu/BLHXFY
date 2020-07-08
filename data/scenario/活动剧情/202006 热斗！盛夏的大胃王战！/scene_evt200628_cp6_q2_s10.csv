@@ -1,0 +1,89 @@
+id,name,text,trans
+0-chapter_name,,第6話 決戦！ 想いを糧に！,第6话 决战！化意志为力量！
+0-synopsis,,決勝戦の開始と同時に、アーミラとマッシュは怒涛の勢いで料理を口に運んでいく。一方、コルルは冷静さを保ちながら大食いの技術を胸の内で反芻し、最適な戦法を心に描いて食べ進める。戦いの中、次第にマッシュのペースが乱れていく。しかし、マッシュは突然に水を一気飲みすると、ペースを取り戻してトップに躍り出る。コルルとアーミラは負けじとその背を追うのだった。,随着决胜战开始，阿米拉和马修如怒涛般往嘴里送料理。另一面，可露露则保持冷静，一边在心中回想大胃王的技术，一边描绘出最适合的战法吃着料理。战斗中，马修的速度逐渐紊乱。然而他突然一口气喝了杯水，又重新取回原来的步调，一跃领先。可露露和阿米拉不甘落后紧追着他。
+2,,<span class='scene-font-katari'>司会者の合図をかき消すほどの声援で</span><br><span class='scene-font-katari'>埋め尽くされる会場内。</span>,<span class='scene-font-katari'>会场内充满了观众的声援，</span><br><span class='scene-font-katari'>甚至盖过了司仪发出的信号。</span>
+3,,<span class='scene-font-katari'>その声援を一斉に浴びながら、</span><br><span class='scene-font-katari'>アーミラとマッシュが同時に</span><br><span class='scene-font-katari'>飛びつくように料理に手を伸ばす。</span>,<span class='scene-font-katari'>阿米拉和马修一起沐浴着这声援，</span><br><span class='scene-font-katari'>像扑到料理上那样同时伸出了手。</span>
+4,アーミラ/阿米拉,はむ、もぐもぐもぐ！<br>はむはむもぐもぐもぐはむ！,哈姆，嚼嚼嚼！（大吃特吃嚼嚼嚼）
+5,マッシュ,<span class='scene-font-4'>どっせいッ！</span>,<span class='scene-font-4'>我吃！</span>
+10,司会者,<span class='scene-font-4'>おおーっと！</span><br>スタートダッシュを決めたのは<br>アーミラ選手とマッシュ選手！,<span class='scene-font-4'>噢噢！</span><br>一上来就冲刺的是<br>阿米拉选手和马修选手！
+11,司会者,アーミラ選手はひたすら料理を掴んでは<br>口に運び、マッシュ選手は料理を<br>ひとつに固めて口に放り込んでいく！,阿米拉选手不断地抓住料理往嘴里塞，<br>马修选手把料理捏成一个以后再往嘴里送。
+12,司会者,まさに物の怪の戦場！<br>しかしコルル選手は物怖じせず、<br>冷静に集中力を高めているようだ！,简直是怪物的战场！<br>然而可露露选手好像并没有胆怯，<br>她正在冷静地提高集中力！
+13,コルル,<span class='scene-font-kokoro'>（ふぅ……よし！</span><br><span class='scene-font-kokoro'>師匠との修行を思い出すでごんす）</span>,<span class='scene-font-kokoro'>（呼……好！</span><br><span class='scene-font-kokoro'>回想和师傅一起修行的时候的情况。</span>
+14,コルル,<span class='scene-font-kokoro'>（飲み水は最小限に。</span><br><span class='scene-font-kokoro'>水で胃の中を満たすのは</span><br><span class='scene-font-kokoro'>ご法度であり申す）</span>,<span class='scene-font-kokoro'>（喝水要控制在最少量。</span><br><span class='scene-font-kokoro'>让水充满胃是绝对不行的。）</span>
+15,コルル,<span class='scene-font-kokoro'>（咀嚼は最小限に。</span><br><span class='scene-font-kokoro'>噛む回数を減らし、</span><br><span class='scene-font-kokoro'>満腹感を抑えるでごんす）</span>,<span class='scene-font-kokoro'>（咀嚼次数控制在最少次。</span><br><span class='scene-font-kokoro'>减少咬合次数，抑制满腹感。）</span>
+16,コルル,いざ……いただくでごんす！,好……我开动了！
+17,,<span class='scene-font-katari'>コルルは修行内容を思い返し、</span><br><span class='scene-font-katari'>蓄えた知識と照らし合わせながら</span><br><span class='scene-font-katari'>最適な方法を探り始める。</span>,<span class='scene-font-katari'>可露露回忆起修行内容，</span><br><span class='scene-font-katari'>将情况与积蓄的知识对照，</span><br><span class='scene-font-katari'>摸索起最适合的方法。</span>
+18,コルル,<span class='scene-font-kokoro'>（棒状の樹クラゲ……</span><br><span class='scene-font-kokoro'>この長さのまま一気に飲み込んでは、</span><br><span class='scene-font-kokoro'>喉につっかえてしまうでごんす）</span>,<span class='scene-font-kokoro'>（棒状的树水母……</span><br><span class='scene-font-kokoro'>这个长度一口气吃进去的话</span><br><span class='scene-font-kokoro'>会堵住喉咙。）</span>
+19,コルル,ならば……！,那么……！
+20,,<span class='scene-font-katari'>コルルはホットドッグから</span><br><span class='scene-font-katari'>樹クラゲだけを引き抜き、束にして</span><br><span class='scene-font-katari'>勢いよく半分に引き千切る。</span>,<span class='scene-font-katari'>可露露从热狗里抽出树水母，</span><br><span class='scene-font-katari'>集中成束后一口气把它们全部拗断。</span>
+21,コルル,これで喉にもつっかえず、<br>短い分、咀嚼の負担が減り申した。<br>あとはこれを可能な限り詰め込み……,这样就不会堵住喉咙，<br>而且变短了也能减轻咀嚼的负担。<br>然后就是尽可能把这些装进嘴里……
+23,コルル,……ごくん！<br>よし、この調子でごんす！,……（咽）！<br>好，就这样继续！
+24,,<span class='scene-font-katari'>調子を掴んだコルルは、</span><br><span class='scene-font-katari'>樹クラゲを抜いて残された大量のパンに</span><br><span class='scene-font-katari'>すかさず目を向ける。</span>,<span class='scene-font-katari'>抓住了窍门的可露露</span><br><span class='scene-font-katari'>紧接着把目光转向抽出了树水母后</span><br><span class='scene-font-katari'>剩下的大量面包。</span>
+25,コルル,パンも樹クラゲと同様に半分に。<br>しかし樹クラゲと異なり、パンは<br>ふっくらしていて横幅があり申す……,面包也跟树水母一样掰成两半。<br>但是跟树水母不一样，<br>面包膨胀着很宽大……
+26,コルル,このままではひとつ食すだけで<br>時間を取られ、口の中もパサパサに……<br>どうすれば……,这样下去吃一个都会花费时间，<br>而且嘴里也觉得干……<br>该怎么办……
+27,,<span class='scene-font-katari'>頭を抱えるコルルは、ふと</span><br><span class='scene-font-katari'>手元のコップを目にして閃く。</span>,<span class='scene-font-katari'>烦恼的可露露看到手边的杯子，</span><br><span class='scene-font-katari'>灵光一闪。</span>
+28,コルル,<span class='scene-font-4'>そうでごんす！</span><br>水に浸せば、サイズが縮んで<br>パサパサも防ぎ申そう！,<span class='scene-font-4'>对了！</span><br>浸泡一下的话尺寸会缩小，<br>口干也能防止！
+29,コルル,物は試し、でごんす！,试试看就知道了！
+31,,<span class='scene-font-katari'>コルルはパンをコップの水に浸し、</span><br><span class='scene-font-katari'>縮んで柔らかくなったそれを口に運んで</span><br><span class='scene-font-katari'>一気に飲み込む。</span>,<span class='scene-font-katari'>可露露把面包浸入杯子的水中，</span><br><span class='scene-font-katari'>然后把缩水变软的面包放入口中一口气吞下。</span>
+32,コルル,ごくん……<br>よし、これならば！,（咽）……<br>好，这样行！
+33,コルル,あとは浸す水の量を調節し、<br>出来る限り胃の負担を減らすのみ！<br>一気に攻めるでごんす！,接下来只需要调节浸水的水量，<br>尽量减轻胃的负担！<br>该一口气进攻了！
+34,,<span class='scene-font-katari'>コルルは最適な戦法を見出し、</span><br><span class='scene-font-katari'>脇目も振らず料理を口に運んでいく。</span>,<span class='scene-font-katari'>可露露找到了最适合的战法，</span><br><span class='scene-font-katari'>目不转睛专心吃起了料理。</span>
+35,司会者,コルル選手！<br>ようやく本格的に動き出した模様！,可露露选手好像终于正式开始发力！
+36,司会者,しかしトップを走るマッシュ選手とは<br>すでに大きな差が開いている！<br>果たして逆転は可能なのか！,但是她与领先在前的马修选手之间<br>有着巨大的差距！<br>最终她是否能够逆转！
+37,マッシュ,<span class='scene-font-kokoro'>（余計な知恵つけよったようじゃが、</span><br><span class='scene-font-kokoro'>もう手遅れじゃ）</span>,<span class='scene-font-kokoro'>（看起来学会了额外的智慧啊，</span><br><span class='scene-font-kokoro'>不过已经迟了。）</span>
+38,マッシュ,<span class='scene-font-kokoro'>（こんガキは構わんでええ。</span><br><span class='scene-font-kokoro'>厄介なんは、こいつじゃ）</span>,<span class='scene-font-kokoro'>（这小鬼不用管也行，</span><br><span class='scene-font-kokoro'>麻烦的是这家伙。）</span>
+39,アーミラ/阿米拉,もぐもぐもぐ！<br>はむもぐもぐはむはむはむ！,（吃吃吃）！<br>（咬咬嚼嚼嚼）！
+40,,<span class='scene-font-katari'>一心不乱に料理を平らげるアーミラを、</span><br><span class='scene-font-katari'>マッシュは恨めしそうに睨みつける。</span>,<span class='scene-font-katari'>马修有点愤恨地看着</span><br><span class='scene-font-katari'>一心不乱消灭着料理的阿米拉。</span>
+41,マッシュ,<span class='scene-font-kokoro'>（この２日ガバガバ食いよって、</span><br><span class='scene-font-kokoro'>やおい胃袋になったんか……）</span>,<span class='scene-font-kokoro'>（这两天大把大把吃料理，</span><br><span class='scene-font-kokoro'>把胃都撑大了吗……）</span>
+42,マッシュ,<span class='scene-font-4'>チッ、うずろうしいわい！</span>,<span class='scene-font-4'>啧，太麻烦了！</span>
+43,,<span class='scene-font-katari'>短期間の大食いで胃袋が柔らかくなった</span><br><span class='scene-font-katari'>アーミラの予期せぬ底力に、</span><br><span class='scene-font-katari'>苛立ちを募らせるマッシュ。</span>,<span class='scene-font-katari'>阿米拉因为短时间内暴吃导致胃变软，</span><br><span class='scene-font-katari'>看到她这份无法预料的潜力，</span><br><span class='scene-font-katari'>马修越来越焦躁。</span>
+44,,<span class='scene-font-katari'>初めは両者ともに並んでいたが、</span><br><span class='scene-font-katari'>アーミラの理論を無視した戦法につられ</span><br><span class='scene-font-katari'>マッシュのペースが徐々に乱れ始める。</span>,<span class='scene-font-katari'>最初两人速度接近，</span><br><span class='scene-font-katari'>但受到阿米拉无视理论的战法的影响，</span><br><span class='scene-font-katari'>马修的步调逐渐被打乱。</span>
+45,マッシュ,クソッ……！<br>やりにくいガキじゃ……！,可恶……！<br>真是难办的小鬼……！
+47,司会者,<span class='scene-font-4'>あーっと！</span><br>これはなんということでしょう！,<span class='scene-font-4'>哎呀！</span><br>这到底是怎么回事！
+48,マッシュ,<span class='scene-font-4'>なんなら！？</span>,<span class='scene-font-4'>什么事！？</span>
+49,司会者,ここに来てコルル選手が<br>凄まじい追い上げを見せております！,现在可露露选手正以惊人的速度追赶上来！
+52,コルル,この調子ならば！,保持这样的话！
+53,マッシュ,なんじゃと……！？,什么……！？
+54,,<span class='scene-font-katari'>マッシュがアーミラに</span><br><span class='scene-font-katari'>気を取られている隙に、コルルは順調に</span><br><span class='scene-font-katari'>皿を積み上げてマッシュに迫っていた。</span>,<span class='scene-font-katari'>在马修被阿米拉吸引力注意力的时候，</span><br><span class='scene-font-katari'>可露露很顺利的积累着碟子逼近着马修。</span><br><span class='scene-font-katari'>
+55,マッシュ,こん……ガキどもぉッ！！,这些……臭小鬼！！
+57,マッシュ,<span class='scene-font-4'>ぬぐあああああッ！！</span>,<span class='scene-font-4'>唔啊啊啊！！</span>
+59,アーミラ/阿米拉,はむもぐもぐはむはむはむ！,（吃吃吃）！
+60,コルル,もぐもぐ、ごくん！<br>もぐもぐもぐ、ごくん！,（咬咬咬）！<br>（嚼嚼嚼）！
+61,司会者,コルル選手に焚きつけられたのか、<br>マッシュ選手とアーミラ選手が<br>ペースを上げていく！,不知是不是被可露露选手刺激到了，<br>马修选手和阿米拉选手都加快了速度！
+62,司会者,しかしコルル選手も負けてはいない！<br>必死に食らいついていきます！,但是可露露选手也没有认输！<br>她拼命地追赶着！
+63,,<span class='scene-font-katari'>ほぼ横並びの混戦が繰り広げられたが、</span><br><span class='scene-font-katari'>その中で真っ先にペースを落としたのは</span><br><span class='scene-font-katari'>優勝候補筆頭のマッシュだった。</span>,<span class='scene-font-katari'>虽然大家速度接近基本上是平行混战，</span><br><span class='scene-font-katari'>但其中率先减慢速度的</span><br><span class='scene-font-katari'>是头号优胜后补的马修。</span>
+66,マッシュ,クソッ……！,可恶……！
+67,司会者,な、なんと！<br>マッシュ選手の勢いが落ちている！,居然！<br>马修选手速度慢下来了！
+68,司会者,アーミラ選手とコルル選手に<br>意識を割きすぎたせいか、完全に<br>自らのペースを見失っております！,可能是太在意阿米拉选手和可露露选手，<br>完全失去了自己的步调！
+69,司会者,長年、マッシュ選手の戦いぶりを<br>この目で見てきた私から見ても、<br>非常に珍しい光景であります！,从常年观察马修选手<br>战斗情况的我的角度来看，<br>这一幕也是非常少有的！
+70,マッシュ,<span class='scene-font-kokoro'>（ワシが、負けるんか……？</span><br><span class='scene-font-kokoro'>たかが素人のガキどもに……？）</span>,<span class='scene-font-kokoro'>（我，会输吗……？</span><br><span class='scene-font-kokoro'>输给这些外行的小鬼……？）</span>
+71,マッシュ,<span class='scene-font-kokoro'>（いや……方法はある。</span><br><span class='scene-font-kokoro'>じゃが、アレに手ぇ出しよったら</span><br><span class='scene-font-kokoro'>ワシはフードファイターとして……）</span>,<span class='scene-font-kokoro'>（不……还有办法。</span><br><span class='scene-font-kokoro'>但是用那个的话我作为大胃王战士就……）</span>
+72,マッシュ,<span class='scene-font-kokoro'>（それでも、ワシは勝たんといけん！</span><br><span class='scene-font-kokoro'>あん人らが遠くから見とるんじゃ！）</span>,<span class='scene-font-kokoro'>（即使如此我也必须赢，</span><br><span class='scene-font-kokoro'>那些人在远处看着我！）</span>
+73,マッシュ,ワシは、ワシはのう……<br>負けるわけにはいかんのじゃあッ！！,我，我……<br>绝对不能输！！
+75,,<span class='scene-font-katari'>マッシュは力強く叫ぶと、</span><br><span class='scene-font-katari'>突然コップを掴み、呷るように</span><br><span class='scene-font-katari'>水を一気に飲み干す。</span>,<span class='scene-font-katari'>马修用力的大叫了一声，</span><br><span class='scene-font-katari'>然后他突然抓起杯子，</span><br><span class='scene-font-katari'>大口喝水一饮而尽。</span>
+76,コルル,……っ！？,……！？
+77,コルル,<span class='scene-font-kokoro'>（大食いにおいて、</span><br><span class='scene-font-kokoro'>意味もなく大量に水を飲むことは</span><br><span class='scene-font-kokoro'>自殺行為のはず……）</span>,<span class='scene-font-kokoro'>（在大胃王比赛里，</span><br><span class='scene-font-katari'>毫无意义大量喝水无疑是自杀行为……）</span>
+78,コルル,<span class='scene-font-kokoro'>（師匠と同じフードファイターならば、</span><br><span class='scene-font-kokoro'>その基本知識を知らぬはずがない……）</span>,<span class='scene-font-kokoro'>（他和师傅同样是大胃王战士，</span><br><span class='scene-font-kokoro'>不可能不知道这个基本知识……）</span>
+79,コルル,どういうことでごんすか……？,怎么回事……？
+80,マッシュ,<span class='scene-font-4'>っしゃあッ！</span><br><span class='scene-font-4'>勝負はこっからじゃッ！！</span>,<span class='scene-font-4'>好！</span><br><span class='scene-font-4'>胜负才刚刚开始！！</span>
+81,,<span class='scene-font-katari'>マッシュは気合いを入れ直すように</span><br><span class='scene-font-katari'>声を張り上げ、大食いを再開する。</span>,<span class='scene-font-katari'>仿佛是让自己重新振作，</span><br><span class='scene-font-katari'>马修大叫一声后又开始大吃。</span>
+83,マッシュ,<span class='scene-font-4'>どらあああああッ！！</span>,<span class='scene-font-4'>唔啊啊啊啊啊！！</span>
+84,司会者,<span class='scene-font-4'>な、なんとなんと！</span><br>マッシュ選手のペースが<br>戻り始めました！,<span class='scene-font-4'>局、居然！</span><br>马修选手的速度开始恢复了！
+85,司会者,まだ力を隠していたのか！<br>あるいはフードファイターとしての<br>底意地か！,是他还留了一手吗！<br>还是说这是作为大胃王战士的战术！
+86,司会者,これは勝負の行方が<br>わからなくなって参りました！,这样一来胜负情况就又变得不明了了！
+88,コルル,ま、まずいでごんす……！,糟糕了……！
+89,アーミラ/阿米拉,負けない！<br>はむはむもぐもぐもぐもぐ！,不会输！<br>（吃吃吃）！
+90,司会者,コルル選手とアーミラ選手！<br>マッシュ選手を引き離そうと<br>さらにペースを上げていくが……！,可露露选手和阿米拉选手！<br>为了和马修选手拉开距离再次加速……！
+94,マッシュ,<span class='scene-font-4'>うおらああああッ！！</span>,<span class='scene-font-4'>唔哦啦啊啊啊！！</span>
+96,司会者,<span class='scene-font-4'>ああーっと！　ついに！</span><br>ついにマッシュ選手が<br>単独トップに躍り出ました！,<span class='scene-font-4'>啊啊！终于！</span><br>马修选手终于超越2人单独领先了！
+97,司会者,独走のマッシュ選手！<br>この勢いにコルル選手とアーミラ選手は<br>ついていくことができない！,在前方独走的马修选手！<br>可露露选手和阿米拉选手无法跟上他的势头！
+98,マッシュのファン,<span class='scene-font-4'>マッシュ！</span><br><span class='scene-font-4'>マッシュ！！</span><br><span class='scene-font-4'>マッシュ！！！</span>,<span class='scene-font-4'>马修！</span><br><span class='scene-font-4'>马修！！</span><br><span class='scene-font-4'>马修！！！</span>
+99,司会者,ここ一番のマッシュコール！<br>声援がマッシュ選手の背中を<br>後押しします！,这次最响亮的马修应援！<br>观众的声援支援着马修选手前进！
+100,司会者,制限時間も半分を過ぎました！<br>このままマッシュ選手の勝利が<br>決まってしまうのか！,限制时间已经过去一半！<br>马修选手是否会就这样获得胜利！
+101,アーミラ/阿米拉,はむはむはむ、負け……！<br>もぐもぐもぐ、ない……！,（吃吃吃）不会……！<br>（嚼嚼嚼）输……！
+102,コルル,<span class='scene-font-kokoro'>（わたしが負けたら、</span><br><span class='scene-font-kokoro'>師匠の夢は……！）</span>,<span class='scene-font-kokoro'>（我要是输了，</span><br><span class='scene-font-kokoro'>师傅的梦想就……！）</span>
+104,コルル,<span class='scene-font-4'>諦めないでごんす！</span>,<span class='scene-font-4'>我不会放弃的！</span>
+105,マッシュ,<span class='scene-font-4'>ワシの勝ちじゃああぁッ！！</span>,<span class='scene-font-4'>是我胜了！！</span>
+106,司会者,マッシュ選手はすでに勝利を確信！<br>最後に笑うのは果たして誰なのか！,马修选手确信自己会胜利！<br>笑到最后的到底会是谁！
+info,,,scene_evt200628_cp6_q2_s10
+译者,,,
