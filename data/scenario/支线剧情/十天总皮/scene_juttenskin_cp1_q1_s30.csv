@@ -1,104 +1,104 @@
 id,name,text,trans
 0-chapter_name,,十天衆を総べし者,总领十天之人
-0-synopsis,,巨大な亀との腕試しを終えた姬塔。シエテによると、この亀は十天衆の本部兼ペットであり、姬塔の本部への立ち入りを認めさせるために腕試しをしてもらったのだという。世界の抑止を担う資格がある証として、シエテより十天衆とお揃いの衣装を贈られる姬塔。その後姬塔は懇親会の続きをして楽しい時間を過ごすのだった。,结束了与巨大乌龟之间的较量的姬塔。据希耶提所说，这只乌龟不仅是十天众的本部兼宠物，更是为了认可姬塔是否有踏入十天众本部的资格而存在于此。作为能够担当世界的抑制力这一职责的证明，姬塔从希耶提手中接过了十天众们为其准备的服装。在那之后姬塔又回到了联欢会，度过了一段愉快的时光。
-1,,<span class='scene-font-katari'>巨大な亀との腕試しを終えて</span><br><span class='scene-font-katari'>シエテの元に戻ってくる</span><br><span class='scene-font-katari'>姬塔。</span>,<span class='scene-font-katari'>结束了与巨大乌龟之间的较量，</span><br><span class='scene-font-katari'>回到了希耶提身边的</span><br><span class='scene-font-katari'>姬塔。</span>
-2,,<span class='scene-font-katari'>シエテの傍にはいつの間にか</span><br><span class='scene-font-katari'>十天衆のメンバーが集まっていた。</span>,<span class='scene-font-katari'>不知何时，在希耶提的身边</span><br><span class='scene-font-katari'>十天众的各位已经聚了过来。</span>
+0-synopsis,,巨大な亀との腕試しを終えた姬塔。シエテによると、この亀は十天衆の本部兼ペットであり、姬塔の本部への立ち入りを認めさせるために腕試しをしてもらったのだという。世界の抑止を担う資格がある証として、シエテより十天衆とお揃いの衣装を贈られる姬塔。その後姬塔は懇親会の続きをして楽しい時間を過ごすのだった。,姬塔结束了与巨大乌龟之间的较量。据希耶提所说，这只乌龟是十天众的本部兼宠物，为了让它认可姬塔有资格踏入十天众本部所以才安排了比试。作为能够担当世界的抑制力这一职责的证明，希耶提赠予了姬塔与十天众们同款的服装。在那之后姬塔又回到了联欢会，度过了一段愉快的时光。
+1,,<span class='scene-font-katari'>巨大な亀との腕試しを終えて</span><br><span class='scene-font-katari'>シエテの元に戻ってくる</span><br><span class='scene-font-katari'>姬塔。</span>,<span class='scene-font-katari'>结束了与巨大乌龟之间的较量，</span><br><span class='scene-font-katari'>姬塔回到了希耶提身边。</span>
+2,,<span class='scene-font-katari'>シエテの傍にはいつの間にか</span><br><span class='scene-font-katari'>十天衆のメンバーが集まっていた。</span>,<span class='scene-font-katari'>不知何时，</span><br><span class='scene-font-katari'>希耶提的身边聚齐了十天众的成员。</span>
 3,ソーン/索恩,姬塔大丈夫だった？<br>怪我してない？,姬塔你还好吗？<br>没受伤吧？
-4,ニオ/妮欧,安心して。<br>もうあの子は姬塔を<br>攻撃しないから。,安心吧。<br>那孩子已经不会再<br>攻击姬塔了。
+4,ニオ/妮欧,安心して。<br>もうあの子は姬塔を<br>攻撃しないから。,放心吧。<br>那孩子已经不会再攻击姬塔了。
 5,シエテ/希耶提,お疲れ様。<br>姬塔ちゃんなら<br>やってくれると思ったよー！,辛苦了。<br>我就知道是姬塔酱的话<br>肯定能够做到的啦ー！
-6,サラーサ/萨拉萨,シエテ！　シエテ！<br>今の姬塔と前のあたしなら<br>どっちが早く認めさせた？,希耶提！　希耶提！<br>现在的姬塔和以前的我<br>哪一个被更快的认可了？
-7,フュンフ/芬芙,あっ！　あちしも聞きた～い！<br>ねぇねぇ、あちしと姬塔<br>どっちが早かった～！？啊！　我也想知～道！<br>内个内个，我和姬塔<br>谁更快嘛～！？,
-8,シエテ/希耶提,う～んどうだろ？<br>時間とか計ってないからな～,嗯～是怎么样呢？<br>时间什么的根本就没有计啦～
-9,カトル/卡托尔,あなたも相変わらず<br>悪趣味ですね。,你也真是一成不变的<br>恶趣味呢。
-10,エッセル/艾瑟尔,ん……こんな危ないことを<br>しなくても、姬塔の力は<br>みんなが認めてるのに。,嗯……明明即使不做<br>这样危险的事，大家都已经<br>认可了姬塔的实力了。
-11,シエテ/希耶提,んーそれはまぁそうだけどさ、<br>これはなんというか儀式だからね。,嗯——虽然的确是这么个道理啊，<br>这个怎么说呢是个仪式一样的啦。
-12,ウーノ/乌诺,儀式を受けてもらったのは、<br>その力を十分に認めているからこそだ。,正是因为实力已经足以被认同了，<br>所以才要接受这个仪式。
-13,ウーノ/乌诺,姬塔を<br>危険な目に遭わせたかった<br>わけではないからね。,目的上来说<br>并不是为了让姬塔陷入<br>什么危险的情况。
-14,オクトー/奥克托,見事なものよ。<br>以前よりもその業前、<br>冴えを増しておるようだ。,无可挑剔。<br>，相较之前的身手，<br>已大有长进了。
-15,シス/希斯,ふっ……姬塔。<br>お前というヤツは<br>本当に底が知れないな。,呼……姬塔。<br>你这家伙还真是<br>深不见底啊。
+6,サラーサ/萨拉萨,シエテ！　シエテ！<br>今の姬塔と前のあたしなら<br>どっちが早く認めさせた？,希耶提！希耶提！<br>现在的姬塔和以前的我比<br>哪一个被更快的认可了？
+7,フュンフ/芬芙,あっ！　あちしも聞きた～い！<br>ねぇねぇ、あちしと姬塔<br>どっちが早かった～！？,啊！我也想知道～！<br>喂喂，我和姬塔谁更快啊～！？,
+8,シエテ/希耶提,う～んどうだろ？<br>時間とか計ってないからな～,嗯～是怎么样呢？<br>时间什么的我没有计算啊～
+9,カトル/卡托尔,あなたも相変わらず<br>悪趣味ですね。,你也是一成不变的恶趣味呢。
+10,エッセル/艾瑟尔,ん……こんな危ないことを<br>しなくても、姬塔の力は<br>みんなが認めてるのに。,嗯……明明不用做这样危险的事，<br>大家都已经认可了姬塔的实力了。
+11,シエテ/希耶提,んーそれはまぁそうだけどさ、<br>これはなんというか儀式だからね。,嗯——虽然的确是这么个道理啊，<br>这个怎么说呢算是个仪式啦。
+12,ウーノ/乌诺,儀式を受けてもらったのは、<br>その力を十分に認めているからこそだ。,正是因为实力已经充分被认同了，<br>所以才要接受这个仪式。
+13,ウーノ/乌诺,姬塔を<br>危険な目に遭わせたかった<br>わけではないからね。,目的上来说<br>并不是为了让姬塔陷入危险的情况。
+14,オクトー/奥克托,見事なものよ。<br>以前よりもその業前、<br>冴えを増しておるようだ。,无可挑剔。<br>相较之前的身手，<br>你也有长足的进步了。
+15,シス/希斯,ふっ……姬塔。<br>お前というヤツは<br>本当に底が知れないな。,哼……姬塔。<br>你这家伙还真是深不见底啊。
 16,,<span class='scene-font-katari'>十天衆の皆に温かく迎え入れられた</span><br><span class='scene-font-katari'>姬塔は、気を取り直して</span><br><span class='scene-font-katari'>シエテに詳しい説明を求めた。</span>,<span class='scene-font-katari'>被十天众们热情地迎接的</span><br><span class='scene-font-katari'>姬塔摆正了态势，</span><br><span class='scene-font-katari'>要求希耶提详细说明此事。</span>
 17,シエテ/希耶提,ふっふっふっ……<br>説明しよう！,呵 呵 呵……<br>让我来说明吧！
-18,シエテ/希耶提,実はこの巨大な亀・テラちゃんは、<br>十天衆の本部兼ペットなんだよね～！,实际上这只巨大的乌龟·特拉酱，<br>是我们十天众的本部兼宠物呢～！
+18,シエテ/希耶提,実はこの巨大な亀・テラちゃんは、<br>十天衆の本部兼ペットなんだよね～！,实际上这只巨大的乌龟·特拉酱，<br>是我们十天众的本部兼宠物～！
 19,テラちゃん,クォォォォォォン……！,呜嗷嗷嗷嗷嗷……！
 20,シエテ/希耶提,こんな巨大なペットの背中に<br>移動式の本部があるんだよ！,在这巨大的宠物背上<br>有我们移动式的本部哟！
 21,シエテ/希耶提,どう？　グッと来ない？,怎么样？  是不是很带感？
 22,,<span class='scene-font-katari'>嬉々として語るシエテを</span><br><span class='scene-font-katari'>冷やかに見返す姬塔。</span>,<span class='scene-font-katari'>希耶提高兴自满的热脸</span><br><span class='scene-font-katari'>却贴上了姬塔的冷屁股。</span>
-23,シエテ/希耶提,コ、コホン……テラちゃんは賢いから、<br>自分が認めた者の匂いを覚えて<br>本部への立ち入り許可を判断してて。,咳、咳咳……特拉酱很聪明的啦，<br>他会记住自己认可的人的气味<br>来判断别人是否有资格进入本部。
-24,シエテ/希耶提,だから姬塔ちゃんには<br>テラちゃんとひとつ<br>腕試しをしてもらったって訳さ！,所以让姬塔酱<br>和特拉酱来进行一场<br>较量就是这么一回事啦！
+23,シエテ/希耶提,コ、コホン……テラちゃんは賢いから、<br>自分が認めた者の匂いを覚えて<br>本部への立ち入り許可を判断してて。,咳、咳咳……特拉酱很聪明，<br>他会记住自己认可的人的气味<br>来判断别人是否有资格进入本部。
+24,シエテ/希耶提,だから姬塔ちゃんには<br>テラちゃんとひとつ<br>腕試しをしてもらったって訳さ！,所以才让姬塔酱和特拉酱<br>来进行一场较量！
 25,テラちゃん,フゴフゴ……,隆隆隆隆……
-26,シエテ/希耶提,おっ、テラちゃんも<br>姬塔ちゃんのことが<br>気に入ったみたいだよ！,喔，特拉酱似乎也<br>十分中意<br>姬塔你哦！
+26,シエテ/希耶提,おっ、テラちゃんも<br>姬塔ちゃんのことが<br>気に入ったみたいだよ！,喔，<br>特拉酱似乎也十分中意姬塔你哦！
 27,,<span class='scene-font-katari'>呆れた様子の姬塔は、</span><br><span class='scene-font-katari'>大きなため息をついた。</span>,<span class='scene-font-katari'>姬塔露出了一副已经受够了的样子，</span><br><span class='scene-font-katari'>大大的叹了一口气。</span>
 28,シエテ/希耶提,姬塔ちゃん……<br>何その面倒くさそうな顔！<br>お兄さんショックだな～！,姬塔酱……<br>怎么摆出一副麻烦死了的表情！<br>哥哥我很受打击呢～！
-29,,<span class='scene-font-katari'>大げさにリアクションをするシエテは、</span><br><span class='scene-font-katari'>突然、何かを思い出した様子で</span><br><span class='scene-font-katari'>姬塔を手招きする。</span>,<span class='scene-font-katari'>做出夸张反应的希耶提，</span><br><span class='scene-font-katari'突然像是想起了什么似的，</span><br><span class='scene-font-katari'>向着姬塔招了招手。</span>
-30,シエテ/希耶提,……あ！　そうだ忘れてた！<br>ちょっとこっちに来て！,……啊！　说起来差点忘了！<br>到这里来一下下！
-31,,<span class='scene-font-katari'>シエテに促されるまま建物の中に</span><br><span class='scene-font-katari'>連行される姬塔。</span>,<span class='scene-font-katari'>被希耶提催促着，</span><br><span class='scene-font-katari'>将姬塔带进了房子里。</span>
-38,,<span class='scene-font-katari'>しばらくして、シエテが建物から</span><br><span class='scene-font-katari'>出てきた後も、姬塔は</span><br><span class='scene-font-katari'>中でごそごそと何かをしていた。</span>,<span class='scene-font-katari'>少许片刻，在希耶提从房子里</span><br><span class='scene-font-katari'>出来之后，姬塔独自</span><br><span class='scene-font-katari'>在房里悄悄的做着什么。</span>
+29,,<span class='scene-font-katari'>大げさにリアクションをするシエテは、</span><br><span class='scene-font-katari'>突然、何かを思い出した様子で</span><br><span class='scene-font-katari'>姬塔を手招きする。</span>,<span class='scene-font-katari'>做出夸张反应的希耶提，</span><br><span class='scene-font-katari'>突然像是想起了什么似的，</span><br><span class='scene-font-katari'>向着姬塔招了招手。</span>
+30,シエテ/希耶提,……あ！　そうだ忘れてた！<br>ちょっとこっちに来て！,……啊！说起来差点忘了！<br>到这里来一下下！
+31,,<span class='scene-font-katari'>シエテに促されるまま建物の中に</span><br><span class='scene-font-katari'>連行される姬塔。</span>,<span class='scene-font-katari'>在希耶提催促下，</span><br><span class='scene-font-katari'>姬塔被带进了房子里。</span>
+38,,<span class='scene-font-katari'>しばらくして、シエテが建物から</span><br><span class='scene-font-katari'>出てきた後も、姬塔は</span><br><span class='scene-font-katari'>中でごそごそと何かをしていた。</span>,<span class='scene-font-katari'>片刻后，希耶提从房子里出来，</span><br><span class='scene-font-katari'>留下姬塔独自在房里悄悄的做着什么。</span>
 52,姬塔/姬塔,──……,──……
 57,姬塔/姬塔,──……,──……
-58,,<span class='scene-font-katari'>そして、再び皆の前に姿を現した</span><br><span class='scene-font-katari'>姬塔に、十天衆の皆の</span><br><span class='scene-font-katari'>視線が釘付けになる。</span>,<span class='scene-font-katari'>然后，再次出现在众人视线下的</span><br><span class='scene-font-katari'>姬塔，成为了十天众们</span><br><span class='scene-font-katari'>视线的焦点。</span>
-59,シエテ/希耶提,どうどう？　驚いたでしょ！<br>姬塔ちゃんのために<br>お揃いの衣装を特注したんだよね～！,如何如何？　被吓到了吧！<br>这是为了姬塔酱特别定做的<br>跟我们同款的服装哦～！
-60,ソーン/索恩,わぁ～素敵！<br>すごく似合ってる！,哇～好棒！<br>超合适呢！
-61,ニオ/妮欧,……ふふ、姬塔とおそろい。,呵呵，跟姬塔穿的成对了呢。
-62,シエテ/希耶提,うんうんそうだよねー！<br>シエテお兄さんも<br>頑張った甲斐があったよ～！,嗯嗯是这样的呢ー！<br>希耶提哥哥的<br>努力也有回报了呢～！
+58,,<span class='scene-font-katari'>そして、再び皆の前に姿を現した</span><br><span class='scene-font-katari'>姬塔に、十天衆の皆の</span><br><span class='scene-font-katari'>視線が釘付けになる。</span>,<span class='scene-font-katari'>然后，再次出现在众人视线下的姬塔，</span><br><span class='scene-font-katari'>成为了十天众们视线的焦点。</span>
+59,シエテ/希耶提,どうどう？　驚いたでしょ！<br>姬塔ちゃんのために<br>お揃いの衣装を特注したんだよね～！,如何如何？　被吓到了吧！<br>我为了姬塔酱特别定做了<br>跟我们同款的服装哦～！
+60,ソーン/索恩,わぁ～素敵！<br>すごく似合ってる！,哇～好棒！<br>超合适！
+61,ニオ/妮欧,……ふふ、姬塔とおそろい。,……呵呵，跟姬塔穿的成对了。
+62,シエテ/希耶提,うんうんそうだよねー！<br>シエテお兄さんも<br>頑張った甲斐があったよ～！,嗯嗯是这样的呢ー！<br>希耶提哥哥的努力也有回报了呢～！
 63,カトル/卡托尔,最初から素直に渡せばいいのに、<br>回りくどい人ですね。,一早老老实实的交给人家不就好了，<br>真是爱多事的人。
-64,エッセル/艾瑟尔,ん……シエテだから仕方ない。<br>昔から、こういうのが<br>好きだもの。,嗯……是希耶提所以没办法。<br>从以前开始，他就喜欢这种样子。
-65,シス/希斯,ああ、残念ながら<br>こいつのペースに巻き込まれたから<br>皆ここにこうしている訳だ。,是的，虽然很遗憾<br>大家就因为如此被卷进了这家伙的步调<br>然后便聚集于此了。
-66,シエテ/希耶提,あははは～！<br>それは褒め言葉ってことで<br>いいのかな～？,啊哈哈哈～！<br>我可不可以当你这是在<br>表扬我啊～？
-67,フュンフ/芬芙,やったぁー！<br>これで姬塔も<br>十天衆になったんだね！,太好了ー！<br>这样一来<br>姬塔也是十天众了！
+64,エッセル/艾瑟尔,ん……シエテだから仕方ない。<br>昔から、こういうのが<br>好きだもの。,嗯……是希耶提所以没办法。<br>从以前开始他就喜欢做这种事。
+65,シス/希斯,ああ、残念ながら<br>こいつのペースに巻き込まれたから<br>皆ここにこうしている訳だ。,是的，遗憾的是大家就是因为<br>被卷进了这家伙的步调<br>才会聚集于此。
+66,シエテ/希耶提,あははは～！<br>それは褒め言葉ってことで<br>いいのかな～？,啊哈哈哈～！<br>我可不可以当你这是在表扬我啊～？
+67,フュンフ/芬芙,やったぁー！<br>これで姬塔も<br>十天衆になったんだね！,太好了ー！<br>这样一来姬塔也是十天众了！
 68,,<span class='scene-font-katari'>無邪気に喜ぶフュンフの言葉を受けて、</span><br><span class='scene-font-katari'>少し表情を曇らせるシエテ。</span>,<span class='scene-font-katari'>听了芬芙高兴而又单纯的发言，</span><br><span class='scene-font-katari'>希耶提的表情像是蒙上了一层阴云。</span>
-69,シエテ/希耶提,んー、同じ衣装は作ったけどね、<br>姬塔ちゃんが十天衆の一員に<br>なった訳じゃないんだな～,嗯——，虽然做了同款的服装呢，<br>但这不代表姬塔已经<br>成为了十天众的一员呢～
-70,ウーノ/乌诺,姬塔には、<br>姬塔の進む道がある。,姬塔也有，<br>姬塔自己前进的道路。
-71,ウーノ/乌诺,世界の抑止を担う資格があるとはいえ、<br>姬塔の在り様は、<br>我々が決めて良いものではないからね。,即使有了担当世界的抑制力的资格，<br>姬塔的生活方式，<br>并不是我们决定就好的事。
-72,姬塔ーサ/萨拉萨,姬塔は<br>十天衆とか何とかじゃなくて、<br>好きにすればいいと思うぞ！,姬塔不要做<br>十天众啊或者是别的啥啊，<br>只要随自己喜欢的去做就好了！
-73,オクトー/奥克托,些末事よ。他者の与えた冠は<br>有様を変えるものではない。<br>高みを求れば自ずから目指そう。,何等琐事。他人冠于你的名号<br>不能改变你的本心。<br>追求高处的话便自己去追求吧。
-74,シエテ/希耶提,それに……姬塔ちゃんが<br>十天衆に正式加入しちゃうと──,而且啊……姬塔酱如果<br>正式加入了十天众的话──
+69,シエテ/希耶提,んー、同じ衣装は作ったけどね、<br>姬塔ちゃんが十天衆の一員に<br>なった訳じゃないんだな～,嗯——，虽然做了同款的服装，<br>但这不代表姬塔已经成为了十天众的一员哦～
+70,ウーノ/乌诺,姬塔には、<br>姬塔の進む道がある。,姬塔有姬塔自己要前进的道路。
+71,ウーノ/乌诺,世界の抑止を担う資格があるとはいえ、<br>姬塔の在り様は、<br>我々が決めて良いものではないからね。,即使有了担任世界的抑制力的资格，<br>姬塔的生活方式并不是我们能决定的事。
+72,姬塔ーサ/萨拉萨,姬塔は<br>十天衆とか何とかじゃなくて、<br>好きにすればいいと思うぞ！,姬塔不用做十天众啊或者是别的啥啊，<br>只要随自己喜欢的去做就好了！
+73,オクトー/奥克托,些末事よ。他者の与えた冠は<br>有様を変えるものではない。<br>高みを求れば自ずから目指そう。,零碎琐事。<br>他人赋予的名号并不能改变人的本心。<br>追求高处的话便自己去追求吧。
+74,シエテ/希耶提,それに……姬塔ちゃんが<br>十天衆に正式加入しちゃうと──,而且啊……<br>姬塔酱如果正式加入了十天众的话──
 75,シエテ/希耶提,十一天衆になっちゃうしね～！<br>わははははは～！,就要变成十一天众了呢～！<br>哇哈哈哈哈～！
 76,,<span class='scene-font-katari'>悦に入った様子で大笑いするが</span><br><span class='scene-font-katari'>思った以上に反応が薄い十天衆に</span><br><span class='scene-font-katari'>すぐに寂しげな表情に戻るシエテ。</span>,<span class='scene-font-katari'>虽然希耶提独自一人在放声大笑，</span><br><span class='scene-font-katari'>但对着比想象中反应跟冷淡的十天众们</span><br><span class='scene-font-katari'>希耶提再次露出了寂寞的表情。</span>
-77,シエテ/希耶提,うん……自分で言うのも辛いけどさ、<br>俺より姬塔ちゃんの方が<br>みんな懐いてるみたいだしね……,嗯……虽然由我自己说出来很痛苦，自分で言うのも辛いけどさ、<br>但比起我好像是姬塔酱<br>更受到大家的关心呢……
-78,シエテ/希耶提,俺に万が一の事があった場合は、<br>頭目代理をお願いできたらいいかな～<br>なんてねっ！,万一哪天我有事不在，<br>能不能委任姬塔酱头目代理呢～<br>开玩笑的！
-79,カトル/卡托尔,あ、それいいですね。<br>いっそのこと今すぐ頭目を<br>代わってもらいましょうか。,啊，这样挺好。<br>干脆现在就把头目交接了吧。
-80,シス/希斯,ああ、そうだな。<br>頭目交代の決を採るか。,嗯啊，是的呢。<br>现在就表决是否要交接头目吧。
+77,シエテ/希耶提,うん……自分で言うのも辛いけどさ、<br>俺より姬塔ちゃんの方が<br>みんな懐いてるみたいだしね……,嗯……虽然由我自己说出来很痛苦，<br>但比起我好像是姬塔酱更受到大家的关心呢……
+78,シエテ/希耶提,俺に万が一の事があった場合は、<br>頭目代理をお願いできたらいいかな～<br>なんてねっ！,万一哪天我出了什么事，<br>能不能委托姬塔酱当代理头领呢～<br>开玩笑的！
+79,カトル/卡托尔,あ、それいいですね。<br>いっそのこと今すぐ頭目を<br>代わってもらいましょうか。,啊，这样挺好。<br>干脆现在就把头领职位交接了吧。
+80,シス/希斯,ああ、そうだな。<br>頭目交代の決を採るか。,嗯啊，是啊。<br>现在就表决是否要交接头领吧。
 81,シエテ/希耶提,あははははは～！<br>冗談キツイなぁもぉー！,啊哈哈哈哈哈～！<br>开的玩笑可真毒辣呢ー！
-82,サラーサ/萨拉萨,お？　<br>シエテと姬塔が交代するのか？<br>だったら戦って強い方が頭目な！,哦？　<br>希耶提要和姬塔交接吗？<br>那么打架更厉害的当头目啦！
-83,フュンフ/芬芙,あはは、姬塔<br>やっちゃえやっちゃえ～！,啊哈哈，姬塔<br>干掉他干掉他～！
-84,シエテ/希耶提,ちょっとちょっと……！<br>なんで俺と姬塔ちゃんが<br>戦う流れになってんのよ！,停一停停一停……！<br>为什么变成我要和姬塔<br战斗了啦！
-85,ソーン/索恩,え、みんな本気で言ってるの？<br>どう、ニオ。,诶，大家是说认真的吗？<br>怎么样，妮欧。
+82,サラーサ/萨拉萨,お？　<br>シエテと姬塔が交代するのか？<br>だったら戦って強い方が頭目な！,哦？<br>希耶提要和姬塔交接吗？<br>那么打架更厉害的当头领啦！
+83,フュンフ/芬芙,あはは、姬塔<br>やっちゃえやっちゃえ～！,啊哈哈，<br>姬塔干掉他干掉他～！
+84,シエテ/希耶提,ちょっとちょっと……！<br>なんで俺と姬塔ちゃんが<br>戦う流れになってんのよ！,停一停停一停……！<br>为什么变成我要和姬塔战斗了啦！
+85,ソーン/索恩,え、みんな本気で言ってるの？<br>どう、ニオ。,诶，大家是认真的吗？<br>你怎么看，妮欧。
 86,ニオ/妮欧,え……<br>たぶん本気、みたい、だけど。,诶……<br>大概，像是，认真的。
 87,シエテ/希耶提,え……<br>ホントにホントなの……？,咦……<br>真的是真的吗……？
-88,,<span class='scene-font-katari'>ショックを隠し切れないシエテと</span><br><span class='scene-font-katari'>顔を見合わせる残りの十天衆。</span>,<span class='scene-font-katari'>藏不住惊讶的希耶提</span><br><span class='scene-font-katari'>将视线望向剩下几位十天众。</span>
-89,エッセル/艾瑟尔,……みんな。<br>これ以上意地悪したら<br>かわいそうだよ。,……大家。<br>再这样欺负他的话<br>太可怜了。
+88,,<span class='scene-font-katari'>ショックを隠し切れないシエテと</span><br><span class='scene-font-katari'>顔を見合わせる残りの十天衆。</span>,<span class='scene-font-katari'>藏不住受打击的希耶提</span><br><span class='scene-font-katari'>与剩下几位十天众目光交错。</span>
+89,エッセル/艾瑟尔,……みんな。<br>これ以上意地悪したら<br>かわいそうだよ。,……大家。<br>再这样欺负他的话就太可怜了。
 90,ソーン/索恩,ふふ、そうね。<br>せっかく姬塔が来てるんだし<br>懇親会の続きをしましょう！,呵呵，是呢。<br>难得姬塔来了，<br>让我们继续联欢会吧！
 91,シエテ/希耶提,エッセル……ソーン……<br>ありがとう……,艾瑟尔……索恩……<br>谢谢你们……
-92,,<span class='scene-font-katari'>エッセルとソーンが</span><br><span class='scene-font-katari'>助け船を出すのを見て、</span><br><span class='scene-font-katari'>ようやく諦めた様子のカトルとシス。</span>,<span class='scene-font-katari'>看着艾瑟尔和索恩</span><br><span class='scene-font-katari'>伸出了援助之手，</span><br><span class='scene-font-katari'>卡托尔和希斯终于放弃了。</span>
-93,カトル/卡托尔,これ以上立ち話するのも<br>時間の無駄ですね。,继续站在这里说话<br>也是在浪费时间呢。
-94,シス/希斯,中へ戻って<br>懇親会の続きをするか。,回到屋里<br>继续开联欢会吧。
+92,,<span class='scene-font-katari'>エッセルとソーンが</span><br><span class='scene-font-katari'>助け船を出すのを見て、</span><br><span class='scene-font-katari'>ようやく諦めた様子のカトルとシス。</span>,<span class='scene-font-katari'>看着艾瑟尔和索恩伸出了援助之手，</span><br><span class='scene-font-katari'>卡托尔和希斯终于放弃了。</span>
+93,カトル/卡托尔,これ以上立ち話するのも<br>時間の無駄ですね。,继续站在这里说话也是在浪费时间。
+94,シス/希斯,中へ戻って<br>懇親会の続きをするか。,回到屋里继续开联欢会吧。
 95,シエテ/希耶提,あっ、二人とも……！,啊，你们俩……！
-96,,<span class='scene-font-katari'>話を切り上げて建物に戻る</span><br><span class='scene-font-katari'>カトルとシス。</span>,<span class='scene-font-katari'>卡托尔和希斯</span><br><span class='scene-font-katari'>说完话便回到了屋里。</span>
-97,サラーサ/萨拉萨,あ！　まだ肉残ってたよな！<br>あとケーキも！,啊！　肉好像还有剩啊！<br>蛋糕也是！
-98,オクトー/奥克托,茶番は終いか。<br>ならば行くとしよう。,闹剧到此了吗。<br>那么走吧。
+96,,<span class='scene-font-katari'>話を切り上げて建物に戻る</span><br><span class='scene-font-katari'>カトルとシス。</span>,<span class='scene-font-katari'>卡托尔和希斯说完话便回到了屋里。</span>
+97,サラーサ/萨拉萨,あ！　まだ肉残ってたよな！<br>あとケーキも！,啊！肉好像还有剩啊！<br>蛋糕也是！
+98,オクトー/奥克托,茶番は終いか。<br>ならば行くとしよう。,闹剧结束了吗。<br>那么走吧。
 99,フュンフ/芬芙,行こ行こ！<br>シエテも変な顔はおしまいにして<br>皆でお菓子食べよ～？,走吧走吧！<br>希耶提也收起你那奇怪的表情<br>跟大家一起吃零食吧～？
 100,ウーノ/乌诺,ふふ……<br>これも一つの愛情表現、<br>といったところかな。,呵呵……<br>这是不是也能算的上，<br>是一种爱情表现呢。
 101,シエテ/希耶提,あはは……<br>愛情表現にしては辛辣過ぎない？,啊哈哈……<br>就爱情表现来说是不是太过辛辣了？
-102,,<span class='scene-font-katari'>続いて姬塔ーサ、オクトー</span><br><span class='scene-font-katari'>フュンフ、ウーノも</span><br><span class='scene-font-katari'>建物の中へ戻って行く。</span>,<span class='scene-font-katari'>随后萨拉萨、奥克托、</span><br><span class='scene-font-katari'>芬芙和乌诺</span><br><span class='scene-font-katari'>也回到了屋子里。</span>
-103,ニオ/妮欧,ごめん。<br>さっきのは嘘。,妮欧,抱歉。<br>刚才是骗你的。
+102,,<span class='scene-font-katari'>続いて姬塔ーサ、オクトー</span><br><span class='scene-font-katari'>フュンフ、ウーノも</span><br><span class='scene-font-katari'>建物の中へ戻って行く。</span>,<span class='scene-font-katari'>随后萨拉萨、奥克托、芬芙和乌诺</span><br><span class='scene-font-katari'>也回到了屋子里。</span>
+103,ニオ/妮欧,ごめん。<br>さっきのは嘘。,抱歉。<br>刚才是骗你的。
 104,ソーン/索恩,なんだかんだと、<br>みんなシエテに甘えてるんじゃない？,我总觉得，<br>大家是不是在对希耶提撒娇呢？
 105,エッセル/艾瑟尔,ん……<br>そんなに拗ねないで。<br>みんなで懇親会の続きをしよう。,嗯……<br>不要再闹别扭了。<br>跟大家继续联欢会吧。
 106,シエテ/希耶提,あ、ありがとう。<br>三人の気持ちは嬉しいけど、<br>もう少し一人にして。,谢、谢谢。<br>你们三人的心情我是很高兴啦，<br>但让我一个人静静。
-107,,<span class='scene-font-katari'>力なく笑うシエテを残して、</span><br><span class='scene-font-katari'>建物の中へ入って行く、</span><br><span class='scene-font-katari'>ニオとソーンとエッセル。</span>,<span class='scene-font-katari'>留下了笑的脱力的希耶提，</span><br><span class='scene-font-katari'>妮欧、索恩和艾瑟尔</span><br><span class='scene-font-katari'>先回到了屋里。</span>
-108,,<span class='scene-font-katari'>こうして、建物の前にはシエテと</span><br><span class='scene-font-katari'>姬塔だけが残された。</span>,<span class='scene-font-katari'>这样一来，屋外就只剩下了</span><br><span class='scene-font-katari'>希耶提和姬塔。</span>
-109,シエテ/希耶提,あれ？<br>姬塔ちゃんは<br>中へ入らないの……？,咦？<br>姬塔酱<br>不进去吗……？
+107,,<span class='scene-font-katari'>力なく笑うシエテを残して、</span><br><span class='scene-font-katari'>建物の中へ入って行く、</span><br><span class='scene-font-katari'>ニオとソーンとエッセル。</span>,<span class='scene-font-katari'>留下了露出脱力笑容的希耶提，</span><br><span class='scene-font-katari'>妮欧、索恩和艾瑟尔回到了屋里。</span>
+108,,<span class='scene-font-katari'>こうして、建物の前にはシエテと</span><br><span class='scene-font-katari'>姬塔だけが残された。</span>,<span class='scene-font-katari'>这样一来，</span><br><span class='scene-font-katari'>屋外就只剩下了希耶提和姬塔。</span>
+109,シエテ/希耶提,あれ？<br>姬塔ちゃんは<br>中へ入らないの……？,咦？<br>姬塔酱不进去吗……？
 110,,<span class='scene-font-katari'>シエテの問いかけに対して</span><br><span class='scene-font-katari'>静かに頭を振る姬塔。</span>,<span class='scene-font-katari'>对着希耶提的提问，</span><br><span class='scene-font-katari'>姬塔静静地摇了摇头。</span>
-111,シエテ/希耶提,そう……<br>俺、もう少しここにいるから<br>先に中に入ってていいよ。,是吗……<br>我，再在这边呆一会儿<br>你可以先进去哟。
+111,シエテ/希耶提,そう……<br>俺、もう少しここにいるから<br>先に中に入ってていいよ。,是吗……<br>我想再在这边呆一会儿，<br>你可以先进去哟。
 112,,<span class='scene-font-katari'>姬塔に背を向けたシエテは</span><br><span class='scene-font-katari'>遠くを見つめながら佇んでいる。</span>,<span class='scene-font-katari'>背向姬塔的希耶提</span><br><span class='scene-font-katari'>目光朝向了远方伫立着。</span>
-113,シエテ/希耶提,はぁ……俺……<br>本当に辞めちゃおうかな……頭目。,哈……我啊……<br>要不要真的辞职呢……头目的事情。
-114,,<span class='scene-font-katari'>シエテの哀愁漂う背中に</span><br><span class='scene-font-katari'>いたたまれなくなった姬塔は</span><br><span class='scene-font-katari'>その肩にそっと手をかける。</span>,<span class='scene-font-katari'>无法再忍耐希耶提那</span><br><span class='scene-font-katari'>满是哀愁的背影的姬塔</span><br><span class='scene-font-katari'>把手搭在了他的肩膀上。</span>
+113,シエテ/希耶提,はぁ……俺……<br>本当に辞めちゃおうかな……頭目。,哈……我啊……<br>要不要真的辞职呢……头领的事情。
+114,,<span class='scene-font-katari'>シエテの哀愁漂う背中に</span><br><span class='scene-font-katari'>いたたまれなくなった姬塔は</span><br><span class='scene-font-katari'>その肩にそっと手をかける。</span>,<span class='scene-font-katari'>无法再忍耐希耶提那</span><br><span class='scene-font-katari'>满是哀愁的背影，姬塔</span><br><span class='scene-font-katari'>姬塔把手搭在了他的肩膀上。</span>
 114-sel1_txt,,<span class='scene-font-katari'>一緒に行こう</span>,<span class='scene-font-katari'>一起进去吧</span>
 114-sel2_txt,,<span class='scene-font-katari'>元気を出して</span>,<span class='scene-font-katari'>打起精神来</span>
-115,シエテ/希耶提,そうだよね……<br>俺が拗ねてたら空気が<br>悪くなるもんね……,也是呢……<br>我这样闹别扭<br>会让气氛变得很差呢……
+115,シエテ/希耶提,そうだよね……<br>俺が拗ねてたら空気が<br>悪くなるもんね……,也是呢……<br>我这样闹别扭会让气氛变得很差呢……
 117,シエテ/希耶提,ううっ……ありがとう……<br>姬塔ちゃん……,呜呜……谢谢你……<br>姬塔酱……
 118,シエテ/希耶提,……よぉーし！<br>今日はとことん楽しもう！,……好——嘞！<br>今天就尽情玩吧！
 119,シエテ/希耶提,さぁ行こうか！<br>姬塔ちゃん！,那么走吧！<br>姬塔酱！
 120,,<span class='scene-font-katari'>姬塔はシエテと共に、</span><br><span class='scene-font-katari'>十天衆が待つ建物の中へ戻る。</span>,<span class='scene-font-katari'>姬塔和希耶提一同，</span><br><span class='scene-font-katari'>回到了十天众们都在等待的屋子里。</span>
-121,,<span class='scene-font-katari'>こうして、姬塔は</span><br><span class='scene-font-katari'>十天衆達と懇親会の続きをして</span><br><span class='scene-font-katari'>楽しい時間を過ごすのだった。</span>,<span class='scene-font-katari'>就这样，姬塔继续</span><br><span class='scene-font-katari'>和十天众们进行联欢，</span><br><span class='scene-font-katari'>度过了一段快乐的时光。</span>
+121,,<span class='scene-font-katari'>こうして、姬塔は</span><br><span class='scene-font-katari'>十天衆達と懇親会の続きをして</span><br><span class='scene-font-katari'>楽しい時間を過ごすのだった。</span>,<span class='scene-font-katari'>就这样，姬塔继续和十天众们进行联欢，</span><br><span class='scene-font-katari'>度过了一段快乐的时光。</span>
 info,,,scene_juttenskin_cp1_q1_s30
 译者,,,HoshinoNoa
