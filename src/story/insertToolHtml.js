@@ -10,7 +10,7 @@ export default function () {
     font-family: 'blhxwf';
     font-style: normal;
     font-weight: normal;
-    src: url('${config.origin}/blhxfy/data/static/webfont.otf');
+    src: url('${config.origin}/blhxfy/data/static/webfont.woff2');
   }
   .cnt-quest-scene .prt-log-display {
     padding-top: 74px;
