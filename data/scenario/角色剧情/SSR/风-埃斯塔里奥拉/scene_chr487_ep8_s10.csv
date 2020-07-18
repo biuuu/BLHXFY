@@ -1,252 +1,252 @@
 id,name,text,trans
-0-chapter_name,,覆水瓶に返る,
-0-synopsis,,エスタリオラとの一件から幾ばくかの時が流れたある日の夜、テンペランスが一行の前に現れ、自らの正体を語る。話の中でエスタリオラが生きていることを知った一行は、テンペランスの力で記憶の世界に向かい、瀕死のエスタリオラを発見して元の世界に帰還する。数か月後、目を覚ましたエスタリオラは自らの無事を確認し、一行からの誘いに応え仲間に加わるのだった。,
-1,,<span class='scene-font-katari'>テンペランスが姬塔を</span><br><span class='scene-font-spword'>“新たな水瓶”</span><span class='scene-font-katari'>と定めてから</span><br><span class='scene-font-katari'>幾ばくかの時が流れたある日。</span>,
-2,ルリア/露莉亚,うん……？,
-3,,<span class='scene-font-katari'>ルリアが神妙な面持ちで</span><br><span class='scene-font-katari'>テンペランスのカードを手に取った。</span>,
-4,ビィ/碧,どうしたんだ？<br>ルリア。,
-5,ルリア/露莉亚,なんだか、カードの力が<br>弱まってるみたいなんです……,
-6,ビィ/碧,カードの力が弱まってるだって？<br>それはどういうことだ？,
-7,ルリア/露莉亚,分かりません。<br>でも……,
-8,ルリア/露莉亚,あの事件があった時には、<br>もっと強い力をカードから<br>感じてたんです。,
-9,ルリア/露莉亚,けど……今はまるで、<br>割れてしまった水瓶から中身が<br>流れ出してしまっているような……,
-10,,<span class='scene-font-katari'>ビィとルリアと姬塔は</span><br><span class='scene-font-katari'>テンペランスのカードを見る度に</span><br><span class='scene-font-katari'>エスタリオラを想起していた。</span>,
-11,,<span class='scene-font-katari'>エスタリオラの死を目の当たりにした</span><br><span class='scene-font-katari'>わけではなくとも、姬塔達は</span><br><span class='scene-font-katari'>彼の死を察していた。</span>,
-12,ビィ/碧,もともとこのカードは、<br>ウトウトじいちゃんが<br>持ってたもんだしな……,
-13,ビィ/碧,こいつが弱ってる原因は<br>オイラにはわかんねぇけどよ……,
-14,ビィ/碧,ウトウトじいちゃんの命を使って<br>新世界を創ろうとしてた奴だぜ？,
-15,ビィ/碧,それを、ウトウトじいちゃんは<br>自分の身体を張って止めようとして<br>あんなことに……,
-16,ルリア/露莉亚,…………,
-17,ビィ/碧,はっきり言って、<br>あんまりこいつには関わりたくねぇな。,
-18,ビィ/碧,また新世界創造とかいう物騒なことを<br>企むかもしんねぇし……,
-19,ルリア/露莉亚,そうです、ね……,
-20,ルリア/露莉亚,…………,
-21,,<span class='scene-font-katari'>日々その力を弱らせていく</span><br><span class='scene-font-katari'>テンペランスに、</span><br><span class='scene-font-katari'>複雑な思いを抱く一行なのだった。</span>,
-37,テンペランス,応ぜよ……,
-38,テンペランス,小さき獣を従え、<br>蒼の少女と運命を共にせし者よ。<br>余に応ぜよ。,
-39,ビィ/碧,んあ……なんだ？,
-39-sel1_txt,,<span class='scene-font-katari'>……え？</span>,
-40,,<span class='scene-font-katari'>何者かの声に目覚めると、</span><br><span class='scene-font-katari'>部屋の中にテンペランスが佇んでいた。</span>,
-41,ルリア/露莉亚,あなたは……！,
-42,テンペランス,余の生はもう長くは持たん……<br>不完全な獣として生を終えぬ内に<br>汝等に告げん……,
-43,ビィ/碧,生を終える？<br>ちょっと待てよ、何のことだ？,
-44,ビィ/碧,あの一件の後から、<br>オイラ達がいくら呼びかけても<br>反応なしだったのによ……,
-45,,<span class='scene-font-katari'>だが、テンペランスは一行の</span><br><span class='scene-font-katari'>戸惑いなどは意に介す様子も見せず、</span><br><span class='scene-font-katari'>淡々と話を続けた。</span>,
-46,テンペランス,余のみにあらず……<br>アーカルムシリーズの一切の獣は、<br><span class='scene-font-spword'>ワールド</span>により創られし存在……,
-47,テンペランス,元は別の星晶獣であった余等は<br>覇空戦争で滅びている。,
-48,テンペランス,其の朽ちた身体よりコアを取り出し、<br>現在の姿へと再構築したのが<br>ワールドである。,
-49,ルリア/露莉亚,ワールド……？,
-50,テンペランス,<span class='scene-font-spword'>“胎動する世界”</span>を名乗りし<br>アーカルムシリーズの始祖。,
-51,テンペランス,汝等は一度、<br>ワールドと邂逅しておろう。,
-52,ビィ/碧,ってことは、<span class='scene-font-place'>アマルティア</span>で遭った<br>あの絵画野郎がワールドだってのか！？,
-53,ビィ/碧,星晶獣が星晶獣を創るなんて、<br>あいつ……<br>そんなやべぇやつだったのかよ……！,
-54,ルリア/露莉亚,…………！,
-55,テンペランス,ワールドに作られし<br>アーカルムの星晶獣は、<br>余も含めワールドには抗えぬ。,
-56,テンペランス,──筈だったが……,
-57,テンペランス,余の身は朽ち始めた。<br>其れと同じくして、<br>ワールドの楔もまた外れた。,
-58,ルリア/露莉亚,<span class='scene-font-spword'>“楔”</span>が外れた……？,
-59,テンペランス,余と契りを交わせし小さき者の<br>感情を食らい続けたことで……,
-60,テンペランス,余と奴に運命を共にする因果が生じた<br>ことに起因する事象と考えられる。,
-61,テンペランス,余もまた小さき者の魔力に<br>食われておったのだ。,
-62,テンペランス,余の肉体と魂を現世へと繋ぐ器であった<br>賢者無き今……<br>余が現世に留まるる刻は僅かもなし。,
-63,ビィ/碧,…………,
-64,ルリア/露莉亚,そんな……,
-65,,<span class='scene-font-katari'>ザ・ワールドの手により、</span><br><span class='scene-font-katari'>アーカルムシリーズとして</span><br><span class='scene-font-katari'>生まれ変わったというテンペランス。</span>,
-66,,<span class='scene-font-katari'>だが、ワールドの呪縛から</span><br><span class='scene-font-katari'>解き放たれたことで、その生も終わりを</span><br><span class='scene-font-katari'>迎えようとしていた。</span>,
-67,,<span class='scene-font-katari'>静かにその最期の時を受け入れている</span><br><span class='scene-font-katari'>テンペランスに、</span><br><span class='scene-font-katari'>複雑な感情を持て余す姬塔達。</span>,
-68,,<span class='scene-font-katari'>エスタリオラの死が頭をよぎり</span><br><span class='scene-font-katari'>テンペランスが朽ちるという事実に</span><br><span class='scene-font-katari'>戸惑う事しかできないでいた。</span>,
-69,ルリア/露莉亚,あれ……？<br>でも、待ってください……,
-70,ビィ/碧,どうしたんだ？　ルリア。,
-71,ルリア/露莉亚,さっき、テンペランスさんは<br>エスタリオラさんと運命を共有したって<br>言ってました……,
-72,ビィ/碧,ああ、そう言ってたぜ。,
-73,ルリア/露莉亚,それなら、おかしいです。,
-74,ビィ/碧,どういうことだ？,
-75,ルリア/露莉亚,だって……運命共同体なら、<br>一方が死んでしまったなら、その時に<br>もう一方も死んでしまうはず……,
-76,ルリア/露莉亚,でもテンペランスさんは<br>生きています。,
-77,ビィ/碧,確かにそうか……<br>ってことはもしかして……！,
-78,ビィ/碧,ウトウトじいちゃん、<br>無事かもしれねぇのか！？,
-79,ルリア/露莉亚,分かりません……<br>でも、エスタリオラさん<br>言ってましたよね。,
-80,ルリア/露莉亚,テンペランスさんは、<br>百科事典のようにこの世の事象を<br>記録し、再生するって……,
-81,ルリア/露莉亚,テンペランスさん、応えてください。<br>エスタリオラさんはまだ<br>生きているんですね？,
-82,テンペランス,…………,
-83,ルリア/露莉亚,お願いします！<br>応えてください！,
-84,ルリア/露莉亚,エスタリオラさんは<br>まだ生きているんですよね！？,
-85,テンペランス,……肯定する。,
-86,ルリア/露莉亚,やっぱり……！,
-87,ビィ/碧,ホントかよ！？,
-88,ルリア/露莉亚,けど……あなたには<br>エスタリオラさんを救う力がない。,
-89,テンペランス,肯定する。,
-90,テンペランス,余の余力も無し……<br>彼奴の命の灯火も、もう直に消えゆく。,
-91,テンペランス,朽ち行く運命に抗う術は無し。,
-92,ビィ/碧,なんだよ、それ……！,
-93,ルリア/露莉亚,そんな……！<br>だから諦めて死を待つなんて──,
-93-sel1_txt,,<span class='scene-font-katari'>生きる道ならいくらだってある！</span>,
-94,,<span class='scene-font-katari'>それまで話の成り行きを</span><br><span class='scene-font-katari'>静観していた姬塔が</span><br><span class='scene-font-katari'>声を上げた。</span>,
-95,ルリア/露莉亚,姬塔……！<br>そうですよ！<br>諦めるなんて、駄目です！,
-96,ビィ/碧,じいちゃんもまだ生きてるんだろ！？,
-97,ビィ/碧,お前の使命なんてオイラ達には<br>わかんねぇけど……！,
-98,ビィ/碧,お前だって……<br>ワールドから自由になったんなら、<br>生きればいいじゃねぇか！,
-99,,<span class='scene-font-katari'>姬塔はテンペランスに</span><br><span class='scene-font-katari'>もう一度、精神世界へと誘って欲しいと</span><br><span class='scene-font-katari'>頼み込んだ。</span>,
-100,テンペランス,されど、汝等を再び現世へ戻す力は<br>余には残されておらぬ。,
-101,テンペランス,心中する覚悟で参るというならば<br>送り出そう。,
-101-sel1_txt,,<span class='scene-font-katari'>心中なんかしない。助ける！</span>,
-102,テンペランス,愚かで拙き者よ……,
-103,テンペランス,汝等に運命を変える力があるか……<br>星に示してみるがよい……,
-109,ルリア/露莉亚,ここは……？,
-110,ビィ/碧,おい、誰かいるぞ……！,
-111,エスタリオラ,おお……おおおお……,
-112,エスタリオラ,おおおおおん……,
-113,エスタリオラ,何故……なぜ、妻を手に掛けた……！！<br>ああう……うう……,
-114,エスタリオラ,<span class='scene-font-4'>うう、</span><br><span class='scene-font-4'>うううあああああああ！！！</span>,
-115,ルリア/露莉亚,エスタリオラさん……！？,
-116,ビィ/碧,これは……？,
-119,エスタリオラ,ハァハァ、このままでは……！,
-120,エスタリオラ,テンペランスよ、応じよ！<br>ワシの……ワシの心を……<br>黒き激情を鎮めてくれ……！！,
-121,テンペランス,……承諾。余は汝の全てを肯定する。<br>さあ、小さき者よ、余と契りを──,
-124,エスタリオラ,あれは、まんまとしてやられたわい……,
-125,テンペランス,…………,
-126,エスタリオラ,ワシの身体は自由がきかなかったが、<br>微睡みの中で夢でも見ておるかの如く<br>貴様の所行を記憶しておる。,
-127,エスタリオラ,貴様は試運転をしたのであろう？,
-128,テンペランス,…………,
-129,エスタリオラ,ワシの身体を奪い、<br>人智を卓越した大魔術を施させ、<br>一夜にして国を滅ぼしたのだ。,
-130,テンペランス,……肯定する。,
-131,エスタリオラ,ワシは感情を<br>「節制」されたのではない。,
-132,エスタリオラ,もっと別の何か……ワシにとって、<br>大切な何かを「節制」されたのだ。,
-133,テンペランス,…………,
-134,エスタリオラ,して、アーカルムの獣よ。<br>年々、少しずつ死した妻の顔に<br>似てくるのは皮肉のつもりか？,
-135,エスタリオラ,それとも貴様なりの気遣いとでも<br>言うつもりであろうか？,
-136,テンペランス,…………,
-139,エスタリオラ,星晶獣に作られた星晶獣とは<br>不安定な獣じゃな。,
-140,エスタリオラ,ワールドに作られ、ワールドの思想を<br>実現する為の駒のひとつに<br>過ぎん事にも気づかぬとは……,
-141,エスタリオラ,愚かで哀れな獣よ……,
-144,エスタリオラ,貴様の力「節制」は<br>時間を抑制する。,
-145,エスタリオラ,だが時間そのものを止める訳ではない。<br>生物が持つ寿命という理を否定し、<br>命の流出の方を止めるのである。,
-146,エスタリオラ,この極限の抑制により<br>常時睡眠なる形で仮死状態を造り出し、<br>ワシはほぼ無限の命を手にしたのだ。,
-147,テンペランス,肯定する。,
+0-chapter_name,,覆水瓶に返る,覆水而收
+0-synopsis,,エスタリオラとの一件から幾ばくかの時が流れたある日の夜、テンペランスが一行の前に現れ、自らの正体を語る。話の中でエスタリオラが生きていることを知った一行は、テンペランスの力で記憶の世界に向かい、瀕死のエスタリオラを発見して元の世界に帰還する。数か月後、目を覚ましたエスタリオラは自らの無事を確認し、一行からの誘いに応え仲間に加わるのだった。,埃斯塔里奥拉的事件过去了一段时间，某天夜晚，Temperance出现在一行人面前，说明了自己的真实情况。从她的话中得知埃斯塔里奥拉还活着，一行人靠着Temperance的力量去到记忆世界，找到了濒死的埃斯塔里奥拉把他带回原来的世界。几个月后，醒来的埃斯塔里奥拉确认了自己身体无恙后，被一行人邀请加入成为他们的伙伴。
+1,,<span class='scene-font-katari'>テンペランスが姬塔を</span><br><span class='scene-font-spword'>“新たな水瓶”</span><span class='scene-font-katari'>と定めてから</span><br><span class='scene-font-katari'>幾ばくかの時が流れたある日。</span>,<span class='scene-font-katari'>Temperance把姬塔决定为“新的水瓶”后，过了一段时间。</span>
+2,ルリア/露莉亚,うん……？,嗯……？
+3,,<span class='scene-font-katari'>ルリアが神妙な面持ちで</span><br><span class='scene-font-katari'>テンペランスのカードを手に取った。</span>,<span class='scene-font-katari'>露莉亚一脸奇妙的表情把Temperance的卡牌拿在手中。</span>
+4,ビィ/碧,どうしたんだ？<br>ルリア。,怎么了？露莉亚。
+5,ルリア/露莉亚,なんだか、カードの力が<br>弱まってるみたいなんです……,总觉得，卡牌的力量在变弱……
+6,ビィ/碧,カードの力が弱まってるだって？<br>それはどういうことだ？,你说卡牌的力量在变弱？<br>那是怎么回事？
+7,ルリア/露莉亚,分かりません。<br>でも……,我也不知道。<br>但是……
+8,ルリア/露莉亚,あの事件があった時には、<br>もっと強い力をカードから<br>感じてたんです。,我感觉发生那件事的时候，<br>卡牌的力量更强。
+9,ルリア/露莉亚,けど……今はまるで、<br>割れてしまった水瓶から中身が<br>流れ出してしまっているような……,但是……现在就像是，<br>力量从破了的水瓶中流出一般……
+10,,<span class='scene-font-katari'>ビィとルリアと姬塔は</span><br><span class='scene-font-katari'>テンペランスのカードを見る度に</span><br><span class='scene-font-katari'>エスタリオラを想起していた。</span>,<span class='scene-font-katari'>碧和露莉亚再度看向Temperance的卡牌时，</span><br><span class='scene-font-katari'>又想起了埃斯塔里奥拉的事。</span>
+11,,<span class='scene-font-katari'>エスタリオラの死を目の当たりにした</span><br><span class='scene-font-katari'>わけではなくとも、姬塔達は</span><br><span class='scene-font-katari'>彼の死を察していた。</span>,<span class='scene-font-katari'>虽然没有亲眼目睹埃斯塔里奥拉死去，</span><br><span class='scene-font-katari'>但姬塔他们还是隐约察觉到了他的死亡。</span>
+12,ビィ/碧,もともとこのカードは、<br>ウトウトじいちゃんが<br>持ってたもんだしな……,本来这张卡牌也是打瞌睡爷爷拿着的东西呢……
+13,ビィ/碧,こいつが弱ってる原因は<br>オイラにはわかんねぇけどよ……,虽然这家伙变弱的原因我们也不清楚……
+14,ビィ/碧,ウトウトじいちゃんの命を使って<br>新世界を創ろうとしてた奴だぜ？,但这可是用打瞌睡爷爷的性命，<br>去创造新世界的家伙啊？
+15,ビィ/碧,それを、ウトウトじいちゃんは<br>自分の身体を張って止めようとして<br>あんなことに……,打瞌睡爷爷为了亲身阻止那件事，<br>才那样……
+16,ルリア/露莉亚,…………,…………
+17,ビィ/碧,はっきり言って、<br>あんまりこいつには関わりたくねぇな。,直白地说，<br>不太想和这家伙扯上关系啊。
+18,ビィ/碧,また新世界創造とかいう物騒なことを<br>企むかもしんねぇし……,说不定又在图谋创造新世界之类可怕的事……
+19,ルリア/露莉亚,そうです、ね……,说的也是，呢……
+20,ルリア/露莉亚,…………,…………
+21,,<span class='scene-font-katari'>日々その力を弱らせていく</span><br><span class='scene-font-katari'>テンペランスに、</span><br><span class='scene-font-katari'>複雑な思いを抱く一行なのだった。</span>,<span class='scene-font-katari'>对着日渐衰弱的Temperance，</span><br><span class='scene-font-katari'>一行人心情复杂。</span>
+37,テンペランス,応ぜよ……,回应我吧……
+38,テンペランス,小さき獣を従え、<br>蒼の少女と運命を共にせし者よ。<br>余に応ぜよ。,跟随着幼小的野兽，<br>与苍之少女共享命运之人哟。<br>回应我吧。
+39,ビィ/碧,んあ……なんだ？,嗯……怎么了？
+39-sel1_txt,,<span class='scene-font-katari'>……え？</span>,<span class='scene-font-katari'>……诶？</span>
+40,,<span class='scene-font-katari'>何者かの声に目覚めると、</span><br><span class='scene-font-katari'>部屋の中にテンペランスが佇んでいた。</span>,<span class='scene-font-katari'>意识到某人的声音的时候，</span><br><span class='scene-font-katari'>Temperance已经伫立在房间中了。</span>
+41,ルリア/露莉亚,あなたは……！,你是……！
+42,テンペランス,余の生はもう長くは持たん……<br>不完全な獣として生を終えぬ内に<br>汝等に告げん……,我已经时日不多了……<br>身为不完全的野兽，<br>在生命走到尽头之际，<br>想告诉你们……
+43,ビィ/碧,生を終える？<br>ちょっと待てよ、何のことだ？,生命走到尽头？<br>等等啊，你是指什么？
+44,ビィ/碧,あの一件の後から、<br>オイラ達がいくら呼びかけても<br>反応なしだったのによ……,那件事之后，<br>明明我们再怎么呼唤，<br>你都没有反应……
+45,,<span class='scene-font-katari'>だが、テンペランスは一行の</span><br><span class='scene-font-katari'>戸惑いなどは意に介す様子も見せず、</span><br><span class='scene-font-katari'>淡々と話を続けた。</span>,<span class='scene-font-katari'>但是，Temperance看上去却毫不在意一行人的困惑，</span><br><span class='scene-font-katari'>淡然地继续说道。</span>
+46,テンペランス,余のみにあらず……<br>アーカルムシリーズの一切の獣は、<br><span class='scene-font-spword'>ワールド</span>により創られし存在……,不止是我……<br>阿卡尔姆系列的所有野兽，<br>都是被<br><span class='scene-font-spword'>World</span>创造出来的存在。
+47,テンペランス,元は別の星晶獣であった余等は<br>覇空戦争で滅びている。,本来是别种星晶兽的我们，<br>因为霸空战争而毁灭了。
+48,テンペランス,其の朽ちた身体よりコアを取り出し、<br>現在の姿へと再構築したのが<br>ワールドである。,从朽坏的身体里取出核心，<br>构筑出我们现在姿态的人，<br>正是World。
+49,ルリア/露莉亚,ワールド……？,World……？
+50,テンペランス,<span class='scene-font-spword'>“胎動する世界”</span>を名乗りし<br>アーカルムシリーズの始祖。,冠以<span class='scene-font-spword'>“胎动的世界”</span>之名的阿尔卡姆系列的始祖。
+51,テンペランス,汝等は一度、<br>ワールドと邂逅しておろう。,你们曾经和World遇过一次吧。
+52,ビィ/碧,ってことは、<span class='scene-font-place'>アマルティア</span>で遭った<br>あの絵画野郎がワールドだってのか！？,也就是说，在<span class='scene-font-place'>阿玛提亚</span>遇到的那个画画的人就是World吗！？
+53,ビィ/碧,星晶獣が星晶獣を創るなんて、<br>あいつ……<br>そんなやべぇやつだったのかよ……！,作为星晶兽创造了星晶兽，<br>那家伙……居然是这么不得了的家伙啊……！
+54,ルリア/露莉亚,…………！,…………！
+55,テンペランス,ワールドに作られし<br>アーカルムの星晶獣は、<br>余も含めワールドには抗えぬ。,World创造的阿尔卡姆的星晶兽，<br>包括我在内都无法违抗World。
+56,テンペランス,──筈だったが……,──本应是这样的……
+57,テンペランス,余の身は朽ち始めた。<br>其れと同じくして、<br>ワールドの楔もまた外れた。,我的身体开始朽坏了。<br>在那同时，World的楔也剥离了。
+58,ルリア/露莉亚,<span class='scene-font-spword'>“楔”</span>が外れた……？,<span class='scene-font-spword'>“楔”</span>剥离了……？
+59,テンペランス,余と契りを交わせし小さき者の<br>感情を食らい続けたことで……,可以认为因为我持续吞食与我缔结契约的渺小之人的情感……
+60,テンペランス,余と奴に運命を共にする因果が生じた<br>ことに起因する事象と考えられる。,所以我和他产生了共享命运的因果。
+61,テンペランス,余もまた小さき者の魔力に<br>食われておったのだ。,我也在被渺小之人的魔力所吞噬。
+62,テンペランス,余の肉体と魂を現世へと繋ぐ器であった<br>賢者無き今……<br>余が現世に留まるる刻は僅かもなし。,如今，作为容器，<br>把我的肉体和灵魂与现世牵连的贤者不在了……<br>我能在现世停留的时间不过片刻了。
+63,ビィ/碧,…………,…………
+64,ルリア/露莉亚,そんな……,怎么会……
+65,,<span class='scene-font-katari'>ザ・ワールドの手により、</span><br><span class='scene-font-katari'>アーカルムシリーズとして</span><br><span class='scene-font-katari'>生まれ変わったというテンペランス。</span>,<span class='scene-font-katari'>经由The World之手，</span><br><span class='scene-font-katari'>Temperance转世重生为阿卡尔姆系列。</span>
+66,,<span class='scene-font-katari'>だが、ワールドの呪縛から</span><br><span class='scene-font-katari'>解き放たれたことで、その生も終わりを</span><br><span class='scene-font-katari'>迎えようとしていた。</span>,<span class='scene-font-katari'>但因为从World的咒缚中解放，</span><br><span class='scene-font-katari'>而迎来了生命的终结。</span>
+67,,<span class='scene-font-katari'>静かにその最期の時を受け入れている</span><br><span class='scene-font-katari'>テンペランスに、</span><br><span class='scene-font-katari'>複雑な感情を持て余す姬塔達。</span>,<span class='scene-font-katari'>姬塔他们心情复杂地看着默默接受了这是生命最后一刻的Temperance。</span>
+68,,<span class='scene-font-katari'>エスタリオラの死が頭をよぎり</span><br><span class='scene-font-katari'>テンペランスが朽ちるという事実に</span><br><span class='scene-font-katari'>戸惑う事しかできないでいた。</span>,<span class='scene-font-katari'>他们想起了埃斯塔里奥拉的死亡，</span><br><span class='scene-font-katari'>对Temperance即将死去一事更是一头雾水。</span>
+69,ルリア/露莉亚,あれ……？<br>でも、待ってください……,哎呀……？<br>但是，等一下……
+70,ビィ/碧,どうしたんだ？　ルリア。,怎么了？露莉亚。
+71,ルリア/露莉亚,さっき、テンペランスさんは<br>エスタリオラさんと運命を共有したって<br>言ってました……,刚刚Temperance说和埃斯塔里奥拉共享命运了……
+72,ビィ/碧,ああ、そう言ってたぜ。,嗯，是这么说了。
+73,ルリア/露莉亚,それなら、おかしいです。,那样的话很奇怪啊。
+74,ビィ/碧,どういうことだ？,你是指？
+75,ルリア/露莉亚,だって……運命共同体なら、<br>一方が死んでしまったなら、その時に<br>もう一方も死んでしまうはず……,因为……如果是命运共同体的话，<br>一方死了的话，<br>另一方应该也会立即死去……
+76,ルリア/露莉亚,でもテンペランスさんは<br>生きています。,但是Temperance还活着。
+77,ビィ/碧,確かにそうか……<br>ってことはもしかして……！,确实如此呢……<br>也就是说难道……！
+78,ビィ/碧,ウトウトじいちゃん、<br>無事かもしれねぇのか！？,难道说打瞌睡爷爷平安无事吗！？
+79,ルリア/露莉亚,分かりません……<br>でも、エスタリオラさん<br>言ってましたよね。,我不知道……<br>但是Temperance不是说了吗。
+80,ルリア/露莉亚,テンペランスさんは、<br>百科事典のようにこの世の事象を<br>記録し、再生するって……,Temperance像百科全书一样，<br>能记录此世万物，将其再现……
+81,ルリア/露莉亚,テンペランスさん、応えてください。<br>エスタリオラさんはまだ<br>生きているんですね？,Temperance，请回答我。<br>埃斯塔里奥拉还活着对吧？
+82,テンペランス,…………,…………
+83,ルリア/露莉亚,お願いします！<br>応えてください！,拜托了！请回答我！
+84,ルリア/露莉亚,エスタリオラさんは<br>まだ生きているんですよね！？,埃斯塔里奥拉还活着对吧！？
+85,テンペランス,……肯定する。,……肯定。
+86,ルリア/露莉亚,やっぱり……！,果然……！
+87,ビィ/碧,ホントかよ！？,真的吗！？
+88,ルリア/露莉亚,けど……あなたには<br>エスタリオラさんを救う力がない。,但是……你没有力量拯救埃斯塔里奥拉。
+89,テンペランス,肯定する。,肯定。
+90,テンペランス,余の余力も無し……<br>彼奴の命の灯火も、もう直に消えゆく。,我已经没有余力了……<br>那人的生命之火也快要熄灭了。
+91,テンペランス,朽ち行く運命に抗う術は無し。,无法违抗走向毁灭的命运。
+92,ビィ/碧,なんだよ、それ……！,那算什么啊……！
+93,ルリア/露莉亚,そんな……！<br>だから諦めて死を待つなんて──,怎么会……！<br>就算这样也不能放弃了等死——
+93-sel1_txt,,<span class='scene-font-katari'>生きる道ならいくらだってある！</span>,<span class='scene-font-katari'>肯定有方法活下来的！</span>
+94,,<span class='scene-font-katari'>それまで話の成り行きを</span><br><span class='scene-font-katari'>静観していた姬塔が</span><br><span class='scene-font-katari'>声を上げた。</span>,<span class='scene-font-katari'>至今都静静旁观对话展开的姬塔高声说道。</span>
+95,ルリア/露莉亚,姬塔……！<br>そうですよ！<br>諦めるなんて、駄目です！,姬塔……！<br>对啊！不能放弃啊！
+96,ビィ/碧,じいちゃんもまだ生きてるんだろ！？,打瞌睡爷爷不是还活着吗！？
+97,ビィ/碧,お前の使命なんてオイラ達には<br>わかんねぇけど……！,虽然我们不懂你们的使命……！
+98,ビィ/碧,お前だって……<br>ワールドから自由になったんなら、<br>生きればいいじゃねぇか！,但你也……既然已经从World那里获得自由了，<br>那么活下去不就好了吗！
+99,,<span class='scene-font-katari'>姬塔はテンペランスに</span><br><span class='scene-font-katari'>もう一度、精神世界へと誘って欲しいと</span><br><span class='scene-font-katari'>頼み込んだ。</span>,<span class='scene-font-katari'>姬塔拜托Temperance再一次把他们带进梦境的世界。</span>
+100,テンペランス,されど、汝等を再び現世へ戻す力は<br>余には残されておらぬ。,那样的话，我是无力将你们送回现世的。
+101,テンペランス,心中する覚悟で参るというならば<br>送り出そう。,如果你们做好了自杀的觉悟的话，<br>我就送你们去。
+101-sel1_txt,,<span class='scene-font-katari'>心中なんかしない。助ける！</span>,<span class='scene-font-katari'>不会自杀的。拜托你了！</span>
+102,テンペランス,愚かで拙き者よ……,愚蠢而笨拙之人哟……
+103,テンペランス,汝等に運命を変える力があるか……<br>星に示してみるがよい……,究竟你们是否有改变命运的力量……<br>就让星辰来见证吧……
+109,ルリア/露莉亚,ここは……？,这里是……？
+110,ビィ/碧,おい、誰かいるぞ……！,喂，好像有谁在哦……！
+111,エスタリオラ,おお……おおおお……,噢噢……噢噢噢噢……
+112,エスタリオラ,おおおおおん……,噢噢噢噢噢噢……
+113,エスタリオラ,何故……なぜ、妻を手に掛けた……！！<br>ああう……うう……,为什么……为什么，对我的妻子下手……！！<br>啊啊呜……呜呜……
+114,エスタリオラ,<span class='scene-font-4'>うう、</span><br><span class='scene-font-4'>うううあああああああ！！！</span>,<span class='scene-font-4'>呜呜，</span><br><span class='scene-font-4'>呜呜呜啊啊啊啊啊啊啊！！！</span>
+115,ルリア/露莉亚,エスタリオラさん……！？,埃斯塔里奥拉……！？
+116,ビィ/碧,これは……？,这是……？
+119,エスタリオラ,ハァハァ、このままでは……！,哈哈，再这样下去的话……！
+120,エスタリオラ,テンペランスよ、応じよ！<br>ワシの……ワシの心を……<br>黒き激情を鎮めてくれ……！！,Temperance哟，回应我！<br>把我……把我的心……<br>把这黑暗的情感镇压下来……！！
+121,テンペランス,……承諾。余は汝の全てを肯定する。<br>さあ、小さき者よ、余と契りを──,……承诺。我将肯定你的一切。<br>来吧，渺小之人哟，与我契约——
+124,エスタリオラ,あれは、まんまとしてやられたわい……,还真是，被完全骗了啊……
+125,テンペランス,…………,…………
+126,エスタリオラ,ワシの身体は自由がきかなかったが、<br>微睡みの中で夢でも見ておるかの如く<br>貴様の所行を記憶しておる。,虽然我不能自由操纵身体，<br>但就像在浅睡中梦见了一般，<br>我记得你的所作所为。
+127,エスタリオラ,貴様は試運転をしたのであろう？,你是在尝试操作对吧？
+128,テンペランス,…………,…………
+129,エスタリオラ,ワシの身体を奪い、<br>人智を卓越した大魔術を施させ、<br>一夜にして国を滅ぼしたのだ。,夺取我的身体，<br>施加超越人智的大魔法，<br>一夜之间毁灭了国家。
+130,テンペランス,……肯定する。,……肯定。
+131,エスタリオラ,ワシは感情を<br>「節制」されたのではない。,我的感情不是被「节制」了。
+132,エスタリオラ,もっと別の何か……ワシにとって、<br>大切な何かを「節制」されたのだ。,是更多的别的……<br>对我来说很重要的某物被「节制」了。
+133,テンペランス,…………,…………
+134,エスタリオラ,して、アーカルムの獣よ。<br>年々、少しずつ死した妻の顔に<br>似てくるのは皮肉のつもりか？,而且，阿卡尔姆之兽哟。<br>你一年比一年长得更像我死去的妻子，是打算讽刺我吗？
+135,エスタリオラ,それとも貴様なりの気遣いとでも<br>言うつもりであろうか？,或者你想说那是你的特意关怀吗？
+136,テンペランス,…………,…………
+139,エスタリオラ,星晶獣に作られた星晶獣とは<br>不安定な獣じゃな。,被星晶兽制作出的星晶兽是不稳定的啊。
+140,エスタリオラ,ワールドに作られ、ワールドの思想を<br>実現する為の駒のひとつに<br>過ぎん事にも気づかぬとは……,浑然不知自身只是被World制作出来，为了实现他所想的一枚棋子而已……
+141,エスタリオラ,愚かで哀れな獣よ……,真是愚蠢悲哀的野兽哟……
+144,エスタリオラ,貴様の力「節制」は<br>時間を抑制する。,你的力量「节制」可以抑制时间。
+145,エスタリオラ,だが時間そのものを止める訳ではない。<br>生物が持つ寿命という理を否定し、<br>命の流出の方を止めるのである。,但是时间并不能就此停止。<br>所以你否定生物寿命这一规律，<br>阻止了生命的流动。
+146,エスタリオラ,この極限の抑制により<br>常時睡眠なる形で仮死状態を造り出し、<br>ワシはほぼ無限の命を手にしたのだ。,凭借这极度的抑制，<br>以时常入睡的形式做出假死状态，<br>我于是获得了近乎无限的寿命。
+147,テンペランス,肯定する。,肯定。
 148,エスタリオラ,何が肯定するだ……<br>貴様が肯定せねばならぬものは<br>もっと他にあろう。,
 149,テンペランス,…………,
-150,エスタリオラ,ワシは必要最小限の生命活動の中で<br>高純度の精神深化が促されていった。,
-151,エスタリオラ,ワシはこれを<span class='scene-font-spword'>“自律抑制術式”</span>と名付けた。,
-152,エスタリオラ,貴様の施したこの術式は、<br>人智を越えた高次の魔導力を<br>理論上無限に高め得るものであった。,
-153,エスタリオラ,そうじゃ、ワシが手に入れた無限大は<br>命だけではない。器に満たされていく、<br>この、魔導力もまた……,
-156,ビィ/碧,今のって、ウトウトじいちゃんと<br>テンペランスの記憶……だよな？,
-157,ルリア/露莉亚,エスタリオラさん……,
-158,,<span class='scene-font-katari'>エスタリオラが抱えていた事情を</span><br><span class='scene-font-katari'>立て続けに目の当たりにした</span><br><span class='scene-font-katari'>姬塔達。</span>,
-159,ビィ/碧,じゃあ、なにか……今も、じいちゃんは<br>瀕死の状態で、どこかで命を節制されて<br>生き長らえてるってことかよ……,
-160,,<span class='scene-font-katari'>彼の秘匿を目の当たりにして、</span><br><span class='scene-font-katari'>今もなお生き長らえている</span><br><span class='scene-font-katari'>理由を知った姬塔達。</span>,
-161,,<span class='scene-font-katari'>それでも着実に死へと向かっている</span><br><span class='scene-font-katari'>エスタリオラとテンペランスの運命を</span><br><span class='scene-font-katari'>変えるべく、一行は捜索を続ける。</span>,
-167,ルリア/露莉亚,ここは……見覚えがあります。,
-168,ビィ/碧,じいちゃんに依頼されて戦った<br>覇空戦争の戦場じゃねぇか。,
-169,ルリア/露莉亚,あっ、見てください！<br>誰かが倒れてます！,
-170,ルリア/露莉亚,これも記憶の一つでしょうか……？,
-171,,<span class='scene-font-katari'>戦場に横たわる小さな人影。</span>,
-172,,<span class='scene-font-katari'>今まで見てきた過去の記憶とは</span><br><span class='scene-font-katari'>違った状況に違和感を覚え、</span><br><span class='scene-font-katari'>思わず駆け寄ると──</span>,
-173,,<span class='scene-font-katari'>そこには、肉が抉れ、喉が潰れ、</span><br><span class='scene-font-katari'>血に塗れた凄惨な姿の</span><br><span class='scene-font-katari'>エスタリオラが居た。</span>,
-174,ルリア/露莉亚,っ…………！,
-175,ビィ/碧,じいちゃん！？,
-176,ビィ/碧,なっ……おい……！<br>こんなんで本当に生きてんのか！？,
-177,ルリア/露莉亚,どうすればいいですか、<br>姬塔！,
-178,,<span class='scene-font-katari'>姬塔は、持っていた</span><br><span class='scene-font-katari'>テンペランスのカードに呼びかける。</span>,
-179,,<span class='scene-font-katari'>しかし、反応はない。</span>,
-180,,<span class='scene-font-katari'>テンペランスの創りだす空間が歪む。</span><br><span class='scene-font-katari'>精神世界を保つ力が弱まり始めた。</span>,
-181,ビィ/碧,おいおい、やべぇぞ！<br>テンペランスのヤツ、<br>もうここを保つ力もねぇみてーだ……！,
-182,ルリア/露莉亚,っ！,
-183,,<span class='scene-font-katari'>その時、ルリアは何かを閃いた様子で、</span><br><span class='scene-font-katari'>エスタリオラから距離を取った。</span>,
-184,ルリア/露莉亚,水の語り、贈ります……！,
-188,,<span class='scene-font-katari'>ルリアの癒しの水の効果で、</span><br><span class='scene-font-katari'>エスタリオラの身体の流血が</span><br><span class='scene-font-katari'>その勢いを弱めた。</span>,
-189,,<span class='scene-font-katari'>すると、同じく精神世界の歪みも</span><br><span class='scene-font-katari'>落ち着きを取り戻す。</span>,
-190,ルリア/露莉亚,よかった……<br>少しは意味があったみたいです……！,
-191,ビィ/碧,やるなぁ、ルリア！<br>でも、油断はしてらんねぇぞ！,
-192,,<span class='scene-font-katari'>姬塔は、再びテンペランスの</span><br><span class='scene-font-katari'>カードに呼びかける。</span>,
-193,,<span class='scene-font-katari'>依然として、カードの反応はない。</span>,
-194,,<span class='scene-font-katari'>焦りが絶望へと変わり始める中、</span><br><span class='scene-font-katari'>瀕死状態のエスタリオラの指が</span><br><span class='scene-font-katari'>微かに動いたのを確認する。</span>,
-195,ルリア/露莉亚,！？　おじいさん！？<br>聞こえますか！？<br>おじいさん！！,
-196,,<span class='scene-font-katari'>目を覚ます様子はないものの、</span><br><span class='scene-font-katari'>指先だけは微かに動き続けている。</span>,
-197,ルリア/露莉亚,そういえば……<br>おじいさんは指先で<br>術式を仕掛けていました……！,
-198,ルリア/露莉亚,この指の動きも……<br>何か意味があるのかもしれません！,
-199,ビィ/碧,そうかもしれねぇ！<br>姬塔、カードを<br>じいちゃんの指に近づけてみろ！,
-200,,<span class='scene-font-katari'>姬塔がテンペランスのカードを</span><br><span class='scene-font-katari'>エスタリオラの指に触れさせると──</span>,
-206,,<span class='scene-font-katari'>予想は的中。</span><br><span class='scene-font-katari'>エスタリオラが仕掛けた術式が発動。</span>,
-207,,<span class='scene-font-katari'>姬塔はエスタリオラを抱え</span><br><span class='scene-font-katari'>ビィとルリアと共に、</span><br><span class='scene-font-katari'>元の世界への帰還を果たす。</span>,
-208,ビィ/碧,は……あっ！<br>戻ったぜ！<br>オイラ達、元の世界に……！,
-209,ルリア/露莉亚,こんな状態になりながら……<br>私達を助けようと<br>してくれたんでしょうか……？,
-210,ビィ/碧,じいちゃんはどうだ！？,
-211,ルリア/露莉亚,っ！　大変です！！<br>出血がさらに酷くなってます！！,
-212,,<span class='scene-font-katari'>ベッドへ彼を運ぶと、</span><br><span class='scene-font-katari'>団内の治癒の術に長けた団員達総出で</span><br><span class='scene-font-katari'>エスタリオラの回復に当たるのだった。</span>,
-218,エスタリオラ,…………,
-219,ビィ/碧,…………,
-220,ルリア/露莉亚,…………,
-221,,<span class='scene-font-katari'>依然として、エスタリオラが</span><br><span class='scene-font-katari'>目覚める気配はない。</span>,
-222,テンペランス,…………,
-223,,<span class='scene-font-katari'>唯一の救いは、テンペランスが</span><br><span class='scene-font-katari'>エスタリオラの傍に</span><br><span class='scene-font-katari'>居続けていることだった。</span>,
-227,,<span class='scene-font-katari'>数か月後──</span>,
-230,エスタリオラ,むにゃ…………,
-231,エスタリオラ,ん……ここは……？,
-232,,<span class='scene-font-katari'>明るい陽が差し込む窓。</span><br><span class='scene-font-katari'>窓の外は青い空が広がり、</span><br><span class='scene-font-katari'>ドアを隔てて誰かの笑い声が聞こえる。</span>,
-233,,<span class='scene-font-katari'>数か月ぶりに目覚めたエスタリオラ。</span><br><span class='scene-font-katari'>辺りを見回すと、</span><br><span class='scene-font-katari'>視界に飛び込んでくる見慣れぬ風景。</span>,
-234,テンペランス,…………,
-235,,<span class='scene-font-katari'>傍らにはテンペランスの姿……</span><br><span class='scene-font-katari'>エスタリオラは全てを悟った。</span>,
-236,エスタリオラ,ワシは、生かされたのか……<br>彼らの手によって……,
-237,テンペランス,肯定する。,
-238,エスタリオラ,貴様も……彼らに救われたのか……,
-239,テンペランス,肯定する。,
-240,エスタリオラ,星の獣よ……<br>ワシと貴様は一心同体か。,
-241,テンペランス,肯定する。,
-242,エスタリオラ,ワシが死ねば貴様も死ぬか。,
-243,テンペランス,肯定する。,
-244,エスタリオラ,一蓮托生……<br>否、死なば諸共じゃな……,
-245,エスタリオラ,妻の顔によく似ておる……<br>優しく穏やかな顔をしおって……,
-246,テンペランス,余は汝から食らった汝の心を<br>映し出す。,
-247,エスタリオラ,はは……なんじゃと？,
-248,エスタリオラ,その顔は……<br>貴様が食らったワシの心を<br>映しておったというのか……,
-249,エスタリオラ,それが……ワシの心か……,
-250,テンペランス,…………,
-252,ビィ/碧,あっ！　おい！<br>ウトウトじいちゃん！<br>気が付いたかよ！？,
-253,ルリア/露莉亚,おじいさん！！<br>よかった、目が覚めて……！！,
-254,エスタリオラ,汝等……,
-255,,<span class='scene-font-katari'>エスタリオラの生還に喜び安堵する</span><br><span class='scene-font-katari'>姬塔達。</span>,
-256,,<span class='scene-font-katari'>エスタリオラは、己が生かされた事実と</span><br><span class='scene-font-katari'>姬塔達が恩人である事実を</span><br><span class='scene-font-katari'>受け入れた。</span>,
-257,エスタリオラ,汝等がワシを死の淵から<br>連れ戻してくれたのか……,
-258,ルリア/露莉亚,もう痛いところはありませんか？<br>平気ですか？,
-259,エスタリオラ,……ふふ。,
-260,ルリア/露莉亚,？,
-261,エスタリオラ,こう、生き長らえては……<br>恩に着るしかなくなるのう？,
-262,ビィ/碧,なんだよ、じいちゃん<br>生き返って嬉しくねぇのか？,
-263,エスタリオラ,すまぬ。爺の戯言じゃ……<br>もう何ともないぞ。<br>少女よ、心配無用じゃ。,
-264,ルリア/露莉亚,それならよかったです……！,
-265,エスタリオラ,よく聞いてくれるかの。<br>アーカルムシリーズの秘匿を……,
-266,ビィ/碧,ああ、そのことなら知ってるぜ！<br>こいつから聞いたんだ！,
-267,ビィ/碧,ワールドってやつが、<br>アーカルムシリーズを作ったんだろ？,
-268,エスタリオラ,ああ、そうじゃ。,
-269,ビィ/碧,じいちゃんが目覚めたら言おうと<br>思ってたんだけど……,
-270,ビィ/碧,テンペランスはワールドの呪縛から<br>解放されたんだってよ！,
-271,ビィ/碧,だから、じいちゃんはもう、<br>こいつの野望を止める必要は<br>なくなったんだぜ！,
-272,エスタリオラ,なんじゃと……？,
-273,ビィ/碧,だからよ……,
-273-sel1_txt,,<span class='scene-font-katari'>仲間になって！</span>,
-273-sel2_txt,,<span class='scene-font-katari'>一緒に旅しない？</span>,
-274,エスタリオラ,仲間じゃと？,
-275,,<span class='scene-font-katari'>エスタリオラの返答に</span><br><span class='scene-font-katari'>期待を込めた眼差しを向ける</span><br><span class='scene-font-katari'>姬塔達。</span>,
-276,エスタリオラ,ワシと一緒に旅をするじゃと？,
-277,,<span class='scene-font-katari'>エスタリオラの返答に</span><br><span class='scene-font-katari'>期待を込めた眼差しを向ける</span><br><span class='scene-font-katari'>姬塔達。</span>,
-278,,<span class='scene-font-katari'>その輝く瞳を目の当たりにして、</span><br><span class='scene-font-katari'>エスタリオラは言いかけた言葉を</span><br><span class='scene-font-katari'>ぐっと飲み込んだ。</span>,
-279,エスタリオラ,…………,
-280,エスタリオラ,若き騎空士よ……<br>そして小さき竜と少女……<br>汝等も聞いてくれ。,
-281,エスタリオラ,汝等がワシの力を必要とするならば<br>いくらでも力添え致す。,
-282,エスタリオラ,この大恩を返すことなど……<br>残りの寿命を鑑みても、<br>叶わぬことだと思えども……,
-283,エスタリオラ,拾って貰った老いぼれの命、<br>恩人の為、世界の為に使わせてくれ。,
-283-sel1_txt,,<span class='scene-font-katari'>仲間になるってこと？</span>,
-284,エスタリオラ,ああ。よろしく頼む。,
-285,ビィ/碧,じいちゃん……！,
-286,ルリア/露莉亚,誰かのために命を使うなんてダメです！<br>もう仲間なんですから。<br>ね、姬塔！,
-287,エスタリオラ,どの口が言っておる？<br>ワシを救う為に危険を顧みなかったのは<br>汝等のほうではなかったかの？,
-288,ルリア/露莉亚,え、えっと……<br>それは……！,
-289,エスタリオラ,ふふ。<br>おお、そうじゃ。,
-290,エスタリオラ,此奴もワールドの魂胆を潰す為に<br>役立ってもらうことにする。,
-291,エスタリオラ,此奴とワシは一蓮托生。,
-292,エスタリオラ,此奴らの魂胆……<br>みすみす見逃すわけにはいくまい。,
-293,エスタリオラ,ワシはアーカルムシリーズの賢者と<br>なった因縁がある。,
-294,テンペランス,…………,
-295,エスタリオラ,どちらかの命潰えるまで、<br>打倒ワールドの為に<br>奮闘することを誓おう。,
+150,エスタリオラ,ワシは必要最小限の生命活動の中で<br>高純度の精神深化が促されていった。,说什么肯定……<br>你还有别的东西要肯定的吧。
+151,エスタリオラ,ワシはこれを<span class='scene-font-spword'>“自律抑制術式”</span>と名付けた。,我将其命名为<span class='scene-font-spword'>“自律抑制术式”</span>。
+152,エスタリオラ,貴様の施したこの術式は、<br>人智を越えた高次の魔導力を<br>理論上無限に高め得るものであった。,你施加的这个术式，<br>能将超越人智的高水准魔力，<br>在理论上无限地提高。
+153,エスタリオラ,そうじゃ、ワシが手に入れた無限大は<br>命だけではない。器に満たされていく、<br>この、魔導力もまた……,那样的话，<br>我获得的就不只是无限的寿命了。<br>还有这蓄满容器的魔力……
+156,ビィ/碧,今のって、ウトウトじいちゃんと<br>テンペランスの記憶……だよな？,刚刚的那些，是打瞌睡爷爷和Temperance的回忆……吗？
+157,ルリア/露莉亚,エスタリオラさん……,埃斯塔里奥拉……
+158,,<span class='scene-font-katari'>エスタリオラが抱えていた事情を</span><br><span class='scene-font-katari'>立て続けに目の当たりにした</span><br><span class='scene-font-katari'>姬塔達。</span>,<span class='scene-font-katari'>姬塔他们目击着埃斯塔里奥拉的种种内情。</span>
+159,ビィ/碧,じゃあ、なにか……今も、じいちゃんは<br>瀕死の状態で、どこかで命を節制されて<br>生き長らえてるってことかよ……,那么，是某种东西……<br>在打瞌睡爷爷濒死的现在，<br>还在某处节制着延续他的生命的么……
+160,,<span class='scene-font-katari'>彼の秘匿を目の当たりにして、</span><br><span class='scene-font-katari'>今もなお生き長らえている</span><br><span class='scene-font-katari'>理由を知った姬塔達。</span>,<span class='scene-font-katari'>姬塔他门亲眼看到了他的秘密，</span><br><span class='scene-font-katari'>得知了他至今长寿的原因。</span>
+161,,<span class='scene-font-katari'>それでも着実に死へと向かっている</span><br><span class='scene-font-katari'>エスタリオラとテンペランスの運命を</span><br><span class='scene-font-katari'>変えるべく、一行は捜索を続ける。</span>,<span class='scene-font-katari'>为了改变正走向死亡的埃斯塔里奥拉和Temperance的命运，一行人继续着搜索。</span>
+167,ルリア/露莉亚,ここは……見覚えがあります。,这里……我有印象。
+168,ビィ/碧,じいちゃんに依頼されて戦った<br>覇空戦争の戦場じゃねぇか。,这不是爷爷拜托我们去战斗的，<br>霸空战争的战场吗。
+169,ルリア/露莉亚,あっ、見てください！<br>誰かが倒れてます！,啊，快看！<br>有谁倒在那里！
+170,ルリア/露莉亚,これも記憶の一つでしょうか……？,这也是记忆的一部分吗……？
+171,,<span class='scene-font-katari'>戦場に横たわる小さな人影。</span>,<span class='scene-font-katari'>战场上躺着一个小小的身影。</span>
+172,,<span class='scene-font-katari'>今まで見てきた過去の記憶とは</span><br><span class='scene-font-katari'>違った状況に違和感を覚え、</span><br><span class='scene-font-katari'>思わず駆け寄ると──</span>,<span class='scene-font-katari'>与至今看到的记忆不同，</span><br><span class='scene-font-katari'>一行人感觉到了违和感，</span><br><span class='scene-font-katari'>急忙赶了过去——</span>
+173,,<span class='scene-font-katari'>そこには、肉が抉れ、喉が潰れ、</span><br><span class='scene-font-katari'>血に塗れた凄惨な姿の</span><br><span class='scene-font-katari'>エスタリオラが居た。</span>,<span class='scene-font-katari'>在那里的是皮开肉绽、喉咙撕裂、浑身是血，</span><br><span class='scene-font-katari'>姿态凄惨的埃斯塔里奥拉。</span>
+174,ルリア/露莉亚,っ…………！,…………！
+175,ビィ/碧,じいちゃん！？,爷爷！？
+176,ビィ/碧,なっ……おい……！<br>こんなんで本当に生きてんのか！？,怎……喂……！<br>这种样子真的还活着吗！？
+177,ルリア/露莉亚,どうすればいいですか、<br>姬塔！,姬塔，该怎么办啊！
+178,,<span class='scene-font-katari'>姬塔は、持っていた</span><br><span class='scene-font-katari'>テンペランスのカードに呼びかける。</span>,<span class='scene-font-katari'>姬塔呼唤手中Temperance的卡牌。</span>
+179,,<span class='scene-font-katari'>しかし、反応はない。</span>,<span class='scene-font-katari'>但是，没有反应。</span>
+180,,<span class='scene-font-katari'>テンペランスの創りだす空間が歪む。</span><br><span class='scene-font-katari'>精神世界を保つ力が弱まり始めた。</span>,<span class='scene-font-katari'>Temperance做出的空间扭曲了。</span><br><span class='scene-font-katari'>她维持精神世界的力量开始变弱了。</span>
+181,ビィ/碧,おいおい、やべぇぞ！<br>テンペランスのヤツ、<br>もうここを保つ力もねぇみてーだ……！,喂喂，糟糕了啊！<br>Temperance那家伙，<br>看起来已经没有维持这里的力量了……！
+182,ルリア/露莉亚,っ！,！
+183,,<span class='scene-font-katari'>その時、ルリアは何かを閃いた様子で、</span><br><span class='scene-font-katari'>エスタリオラから距離を取った。</span>,<span class='scene-font-katari'>这时，露莉亚像是想到了什么，</span><br><span class='scene-font-katari'>和埃斯塔里奥拉拉开了距离。</span>
+184,ルリア/露莉亚,水の語り、贈ります……！,赠与你水之低语……！
+188,,<span class='scene-font-katari'>ルリアの癒しの水の効果で、</span><br><span class='scene-font-katari'>エスタリオラの身体の流血が</span><br><span class='scene-font-katari'>その勢いを弱めた。</span>,<span class='scene-font-katari'>因为露莉亚的治愈之水的效果，</span><br><span class='scene-font-katari'>埃斯塔里奥拉身上流血的势头减弱了。</span>
+189,,<span class='scene-font-katari'>すると、同じく精神世界の歪みも</span><br><span class='scene-font-katari'>落ち着きを取り戻す。</span>,<span class='scene-font-katari'>接着，精神世界的扭曲也同时恢复了稳定。</span>
+190,ルリア/露莉亚,よかった……<br>少しは意味があったみたいです……！,太好了……<br>看来有起一点作用……！
+191,ビィ/碧,やるなぁ、ルリア！<br>でも、油断はしてらんねぇぞ！,干得好，露莉亚！<br>但是可不能大意哦！
+192,,<span class='scene-font-katari'>姬塔は、再びテンペランスの</span><br><span class='scene-font-katari'>カードに呼びかける。</span>,<span class='scene-font-katari'>姬塔再次呼唤手中Temperance的卡牌。</span>
+193,,<span class='scene-font-katari'>依然として、カードの反応はない。</span>,<span class='scene-font-katari'>但卡牌仍然没有反应。</span>
+194,,<span class='scene-font-katari'>焦りが絶望へと変わり始める中、</span><br><span class='scene-font-katari'>瀕死状態のエスタリオラの指が</span><br><span class='scene-font-katari'>微かに動いたのを確認する。</span>,<span class='scene-font-katari'>在一行人着急得快绝望了的时候，</span><br><span class='scene-font-katari'>发现濒死状态的埃斯塔里奥拉手指微微动了一下。</span>
+195,ルリア/露莉亚,！？　おじいさん！？<br>聞こえますか！？<br>おじいさん！！,！？　老爷爷！？<br>能听到我说话吗！？<br>老爷爷！！
+196,,<span class='scene-font-katari'>目を覚ます様子はないものの、</span><br><span class='scene-font-katari'>指先だけは微かに動き続けている。</span>,<span class='scene-font-katari'>虽然看上去没有丝毫要苏醒的迹象，</span><br><span class='scene-font-katari'>指尖却继续微微动弹着。</span>
+197,ルリア/露莉亚,そういえば……<br>おじいさんは指先で<br>術式を仕掛けていました……！,说起来……<br>爷爷的指尖布下了术式……！
+198,ルリア/露莉亚,この指の動きも……<br>何か意味があるのかもしれません！,这个手指的动作……<br>说不定是有什么意义！
+199,ビィ/碧,そうかもしれねぇ！<br>姬塔、カードを<br>じいちゃんの指に近づけてみろ！,很有可能！<br>姬塔，把卡牌靠近爷爷的指尖试试！
+200,,<span class='scene-font-katari'>姬塔がテンペランスのカードを</span><br><span class='scene-font-katari'>エスタリオラの指に触れさせると──</span>,<span class='scene-font-katari'>姬塔一把Temperance的卡牌碰上埃斯塔里奥拉的指尖——</span>
+206,,<span class='scene-font-katari'>予想は的中。</span><br><span class='scene-font-katari'>エスタリオラが仕掛けた術式が発動。</span>,<span class='scene-font-katari'>正如他们所猜想的，</span><br><span class='scene-font-katari'>埃斯塔里奥拉布下的术式发动了。</span>
+207,,<span class='scene-font-katari'>姬塔はエスタリオラを抱え</span><br><span class='scene-font-katari'>ビィとルリアと共に、</span><br><span class='scene-font-katari'>元の世界への帰還を果たす。</span>,<span class='scene-font-katari'>最终姬塔抱着埃斯塔里奥拉，</span><br><span class='scene-font-katari'>和碧、露莉亚一起回到了原来的世界。</span>
+208,ビィ/碧,は……あっ！<br>戻ったぜ！<br>オイラ達、元の世界に……！,哈……啊！<br>回来了！<br>我们回到原来的世界了……！
+209,ルリア/露莉亚,こんな状態になりながら……<br>私達を助けようと<br>してくれたんでしょうか……？,一边持续着这种状态……<br>一边还救了我们吗……？
+210,ビィ/碧,じいちゃんはどうだ！？,爷爷怎么样了！？
+211,ルリア/露莉亚,っ！　大変です！！<br>出血がさらに酷くなってます！！,！　糟了！！<br>出血变得更严重了！！
+212,,<span class='scene-font-katari'>ベッドへ彼を運ぶと、</span><br><span class='scene-font-katari'>団内の治癒の術に長けた団員達総出で</span><br><span class='scene-font-katari'>エスタリオラの回復に当たるのだった。</span>,<span class='scene-font-katari'>把他运到床上后，立刻叫来了船上所有擅长治疗的团员来救治埃斯塔里奥拉。</span>
+218,エスタリオラ,…………,…………
+219,ビィ/碧,…………,…………
+220,ルリア/露莉亚,…………,…………
+221,,<span class='scene-font-katari'>依然として、エスタリオラが</span><br><span class='scene-font-katari'>目覚める気配はない。</span>,<span class='scene-font-katari'>但埃斯塔里奥拉仍然没有丝毫要苏醒的迹象。</span>
+222,テンペランス,…………,…………
+223,,<span class='scene-font-katari'>唯一の救いは、テンペランスが</span><br><span class='scene-font-katari'>エスタリオラの傍に</span><br><span class='scene-font-katari'>居続けていることだった。</span>,<span class='scene-font-katari'>唯一让人觉得安心的是，Temperance还好好地待在埃斯塔里奥拉身边。</span>
+227,,<span class='scene-font-katari'>数か月後──</span>,<span class='scene-font-katari'>几个月后——</span>
+230,エスタリオラ,むにゃ…………,姆呀……
+231,エスタリオラ,ん……ここは……？,嗯……这里是……
+232,,<span class='scene-font-katari'>明るい陽が差し込む窓。</span><br><span class='scene-font-katari'>窓の外は青い空が広がり、</span><br><span class='scene-font-katari'>ドアを隔てて誰かの笑い声が聞こえる。</span>,<span class='scene-font-katari'>洒满阳光的窗台。</span><br><span class='scene-font-katari'>窗外的蓝天广阔无垠，</span><br><span class='scene-font-katari'>隔着门还能听见谁的笑声。</span>
+233,,<span class='scene-font-katari'>数か月ぶりに目覚めたエスタリオラ。</span><br><span class='scene-font-katari'>辺りを見回すと、</span><br><span class='scene-font-katari'>視界に飛び込んでくる見慣れぬ風景。</span>,<span class='scene-font-katari'>时隔数月才醒来的埃斯塔里奥拉，</span><br><span class='scene-font-katari'>打量着周遭映入眼帘的陌生的环境。</span>
+234,テンペランス,…………,…………
+235,,<span class='scene-font-katari'>傍らにはテンペランスの姿……</span><br><span class='scene-font-katari'>エスタリオラは全てを悟った。</span>,<span class='scene-font-katari'>陪在身边的是Temperance……</span><br><span class='scene-font-katari'>埃斯塔里奥拉一下子就明白了这一切。</span>
+236,エスタリオラ,ワシは、生かされたのか……<br>彼らの手によって……,我是，被救活了吗……<br>被他们……
+237,テンペランス,肯定する。,肯定。
+238,エスタリオラ,貴様も……彼らに救われたのか……,你也……被他们拯救了吗……
+239,テンペランス,肯定する。,肯定。
+240,エスタリオラ,星の獣よ……<br>ワシと貴様は一心同体か。,星之兽哟……<br>我和你是一心同体的吗。
+241,テンペランス,肯定する。,肯定。
+242,エスタリオラ,ワシが死ねば貴様も死ぬか。,我死了你也会死吗。
+243,テンペランス,肯定する。,肯定。
+244,エスタリオラ,一蓮托生……<br>否、死なば諸共じゃな……,一莲托生……<br>不对，死亡对每个人来说都是一样的啊……
+245,エスタリオラ,妻の顔によく似ておる……<br>優しく穏やかな顔をしおって……,那张温柔又沉稳的脸……<br>和我的妻子很像……
+246,テンペランス,余は汝から食らった汝の心を<br>映し出す。,我映射出了被我吃掉的你的心。
+247,エスタリオラ,はは……なんじゃと？,哈哈……你说什么？
+248,エスタリオラ,その顔は……<br>貴様が食らったワシの心を<br>映しておったというのか……,那张脸……是被你吃掉的我的心映射出来的吗……
+249,エスタリオラ,それが……ワシの心か……,那就是……我的心吗……
+250,テンペランス,…………,…………
+252,ビィ/碧,あっ！　おい！<br>ウトウトじいちゃん！<br>気が付いたかよ！？,啊！喂！<br>打瞌睡爷爷！<br>你醒了啊！？
+253,ルリア/露莉亚,おじいさん！！<br>よかった、目が覚めて……！！,老爷爷！！<br>你能醒来真是太好了……！！
+254,エスタリオラ,汝等……,你们……
+255,,<span class='scene-font-katari'>エスタリオラの生還に喜び安堵する</span><br><span class='scene-font-katari'>姬塔達。</span>,<span class='scene-font-katari'>姬塔他们为埃斯塔里奥拉的生还感到开心且安心。</span>
+256,,<span class='scene-font-katari'>エスタリオラは、己が生かされた事実と</span><br><span class='scene-font-katari'>姬塔達が恩人である事実を</span><br><span class='scene-font-katari'>受け入れた。</span>,<span class='scene-font-katari'>埃斯塔里奥拉也接受了自己被救活以及姬塔他们是救命恩人的事实。</span>
+257,エスタリオラ,汝等がワシを死の淵から<br>連れ戻してくれたのか……,是你们把我从死亡的深渊带回来的吗……
+258,ルリア/露莉亚,もう痛いところはありませんか？<br>平気ですか？,还有哪里痛吗？<br>身体还好吗？
+259,エスタリオラ,……ふふ。,……呵呵。
+260,ルリア/露莉亚,？,？
+261,エスタリオラ,こう、生き長らえては……<br>恩に着るしかなくなるのう？,被这样延续了生命……<br>只能认下这份恩情了吧？
+262,ビィ/碧,なんだよ、じいちゃん<br>生き返って嬉しくねぇのか？,什么嘛，爷爷你活过来不高兴吗？
+263,エスタリオラ,すまぬ。爺の戯言じゃ……<br>もう何ともないぞ。<br>少女よ、心配無用じゃ。,抱歉啊。只是老爷子我的玩笑话……<br>我已经没事了。少女你不必担心。
+264,ルリア/露莉亚,それならよかったです……！,那就好……！
+265,エスタリオラ,よく聞いてくれるかの。<br>アーカルムシリーズの秘匿を……,能听我讲讲吗。<br>关于阿卡尔姆系列的秘密……
+266,ビィ/碧,ああ、そのことなら知ってるぜ！<br>こいつから聞いたんだ！,啊，那件事我们已经知道了哦！<br>从这家伙那里听过了！
+267,ビィ/碧,ワールドってやつが、<br>アーカルムシリーズを作ったんだろ？,叫做World的家伙制作了阿卡尔姆系列对吧？
+268,エスタリオラ,ああ、そうじゃ。,嗯，是的。
+269,ビィ/碧,じいちゃんが目覚めたら言おうと<br>思ってたんだけど……,我们想着爷爷你醒来的时候告诉你……
+270,ビィ/碧,テンペランスはワールドの呪縛から<br>解放されたんだってよ！,Temperance已经从World的咒缚中解放了哟！
+271,ビィ/碧,だから、じいちゃんはもう、<br>こいつの野望を止める必要は<br>なくなったんだぜ！,所以爷爷已经没有必要去阻止这家伙的野心了！
+272,エスタリオラ,なんじゃと……？,你说什么……？
+273,ビィ/碧,だからよ……,所以啊……
+273-sel1_txt,,<span class='scene-font-katari'>仲間になって！</span>,<span class='scene-font-katari'>请成为我们的伙伴！</span>
+273-sel2_txt,,<span class='scene-font-katari'>一緒に旅しない？</span>,<span class='scene-font-katari'>要不要一起旅行？</span>
+274,エスタリオラ,仲間じゃと？,你说伙伴？
+275,,<span class='scene-font-katari'>エスタリオラの返答に</span><br><span class='scene-font-katari'>期待を込めた眼差しを向ける</span><br><span class='scene-font-katari'>姬塔達。</span>,<span class='scene-font-katari'>姬塔他们满怀期待地看着埃斯塔里奥拉给出回答。</span>
+276,エスタリオラ,ワシと一緒に旅をするじゃと？,你说要和我一起旅行？
+277,,<span class='scene-font-katari'>エスタリオラの返答に</span><br><span class='scene-font-katari'>期待を込めた眼差しを向ける</span><br><span class='scene-font-katari'>姬塔達。</span>,<span class='scene-font-katari'>姬塔他们满怀期待地看着埃斯塔里奥拉给出回答。</span>
+278,,<span class='scene-font-katari'>その輝く瞳を目の当たりにして、</span><br><span class='scene-font-katari'>エスタリオラは言いかけた言葉を</span><br><span class='scene-font-katari'>ぐっと飲み込んだ。</span>,<span class='scene-font-katari'>面对着那几双闪闪发亮的眼睛，</span><br><span class='scene-font-katari'>埃斯塔里奥拉咽下了原本要说的话。</span>
+279,エスタリオラ,…………,…………
+280,エスタリオラ,若き騎空士よ……<br>そして小さき竜と少女……<br>汝等も聞いてくれ。,年轻的骑空士哟……<br>以及小小的龙和少女……<br>请你们听我一言。
+281,エスタリオラ,汝等がワシの力を必要とするならば<br>いくらでも力添え致す。,只要你们需要我，<br>我便会不辞余力帮助你们。
+282,エスタリオラ,この大恩を返すことなど……<br>残りの寿命を鑑みても、<br>叶わぬことだと思えども……,我想即使以余生为鉴也无法偿还这份天大的恩情吧……
+283,エスタリオラ,拾って貰った老いぼれの命、<br>恩人の為、世界の為に使わせてくれ。,请让我为了你们和世界，<br>去使用我这捡回的一条老命吧。
+283-sel1_txt,,<span class='scene-font-katari'>仲間になるってこと？</span>,<span class='scene-font-katari'>是指成为伙伴吗？</span>
+284,エスタリオラ,ああ。よろしく頼む。,嗯。请多关照了。
+285,ビィ/碧,じいちゃん……！,爷爷……！
+286,ルリア/露莉亚,誰かのために命を使うなんてダメです！<br>もう仲間なんですから。<br>ね、姬塔！,不可以为了谁去使用自己的生命！<br>因为我们已经是伙伴了。<br>对吧，姬塔！
+287,エスタリオラ,どの口が言っておる？<br>ワシを救う為に危険を顧みなかったのは<br>汝等のほうではなかったかの？,你们有资格说吗？<br>你们不也是为了救我而不顾危险吗？
+288,ルリア/露莉亚,え、えっと……<br>それは……！,那，那个……那是……！
+289,エスタリオラ,ふふ。<br>おお、そうじゃ。,呵呵。<br>啊，对了。
+290,エスタリオラ,此奴もワールドの魂胆を潰す為に<br>役立ってもらうことにする。,我要让这家伙帮助我们去击溃World的野心。
+291,エスタリオラ,此奴とワシは一蓮托生。,这家伙和我是一莲托生的关系。
+292,エスタリオラ,此奴らの魂胆……<br>みすみす見逃すわけにはいくまい。,不能眼睁睁地放过这些家伙的野心啊。
+293,エスタリオラ,ワシはアーカルムシリーズの賢者と<br>なった因縁がある。,我还有成为了阿卡尔姆系列的贤者这层因果关系在。
+294,テンペランス,…………,…………
+295,エスタリオラ,どちらかの命潰えるまで、<br>打倒ワールドの為に<br>奮闘することを誓おう。,起誓吧，直到一方的生命毁灭为止，<br>都要为了打倒World而奋斗。
 info,,,scene_chr487_ep8_s10
 译者,,,
