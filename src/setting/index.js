@@ -37,7 +37,8 @@ const keyMap = new Map([
   ['font-bold', 'fontBold'],
   ['plain-text', 'plainText'],
   ['battle-trans', 'battleTrans'],
-  ['origin-text', 'originText']
+  ['origin-text', 'originText'],
+  ['default-font', 'defaultFont']
 ])
 
 const setting = (type, value) => {

@@ -156,6 +156,10 @@ const template = `
 						<label for="hide-sidebar-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">隐藏侧边栏</label>
 					</div>
 					<div>
+						<input id="default-font-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'default-font', this.checked)" type="checkbox" value="">
+						<label for="default-font-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">调整字体</label>
+					</div>
+					<div style="margin-top:5px;">
 						<input id="keep-bgm-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'keep-bgm', this.checked)" type="checkbox" value="">
 						<label for="keep-bgm-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">保持BGM</label>
 					</div>
