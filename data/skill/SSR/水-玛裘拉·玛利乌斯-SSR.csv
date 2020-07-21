@@ -1,0 +1,9 @@
+id,name,detail
+npc,玛裘拉·玛利乌斯,3040213000
+special,约翰海姆,<div class=prt-text-small>水属性伤害(特大)/银华效果/我方全体HP回复
+skill-1,冰煌一挥,<div class=prt-text-small>对敌方全体造成水属性攻击/付与自身1层玉水的刻印/奥义值UP(20%)<br><span class=text-blue>◆根据玉水的刻印层数强化性能</span></div>
+skill-2,冰雹风暴,<div class=prt-text-small>对敌方单体造成水属性攻击/减速<br><span class=text-blue>◆玉水的刻印5层时发动2次</span></div>
+skill-3,冻封大地,<div class=prt-text-small>对敌方全体施加攻击DOWN/重力/冰结
+support-1,白银的冰华,回合结束时若敌人处于冰华，则发动1次冰煌的一挥
+support-2,美丽的冷公主,水属性角色根据玉水的刻印的层数技能性能UP<br><span class=text-blue>◆自身处于后排时也生效</span>
+skill-lb,LB技能,我方全体获得火属性伤害减轻

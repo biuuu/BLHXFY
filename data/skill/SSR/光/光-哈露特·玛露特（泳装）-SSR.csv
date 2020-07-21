@@ -1,0 +1,9 @@
+id,name,detail
+npc,哈露特·玛露特,3040223000
+special,永远的责苦,<div class=prt-text-small>光属性伤害(特大)/自身获得1层极光的刻印<br><span class=text-blue>◆处于限制解放时我方全体获得屏障</span></div>
+skill-1,永恒,<div class=prt-text-small>根据敌方现有HP造成无属性伤害/根据自身极光的刻印的层数我方全体HP回复<br><span class=text-blue>◆处于限制解放时发动2回</span></div>
+skill-2,永续,<div class=prt-text-small>付与我方全体极光的刻印/光属性攻击UP/暗属性伤害减轻<br><span class=text-blue>◆处于限制解放时额外获得光属性追击效果</span></div>
+skill-3,双子,<div class=prt-text-small>自身获得3层限制解放/自身数据大幅UP<br><span class=text-blue>◆被攻击3次解除</span></div>
+support-1,空域的邮递员小姐,必连续攻击/处于限制解放时技能和奥义有追加效果
+support-2,双子的冒险,我方全体光属性角色根据极光的刻印层数获得伤害上限UP<br><span class=text-blue>◆自身处于后排时也生效</span>
+skill-lb,LB技能,自身回避时获得攻击UP(累积)
