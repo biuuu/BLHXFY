@@ -1,8 +1,8 @@
 id,name,detail
 npc,贞德,3040245000
-special,闪光的救世主,<div class=prt-text-small>光属性伤害(特大)/自身获得神圣旗帜(下次神圣化效果全体化/可立即使用)
-skill-1,神圣逆转,<div class=prt-text-small>对敌方施加攻击DOWN/防御DOWN/神罚之枪(消去不可)，持续4回合
-skill-2,神圣化,<div class=prt-text-small>自身获得必定TA(1回合)/强壮(3回合)
-skill-3,永恒的神性,<div class=prt-text-small>我方全体光属性角色获得暴击率UP/伤害上限UP(3回合)/攻击UP(1回合)
+special,闪光的救世主,<div class=prt-text-small>光属性伤害(特大)/自身获得神圣旗帜(下次神圣化效果全体化/可立即使用)</div>
+skill-1,神圣逆转,<div class=prt-text-small>对敌方施加攻击DOWN/防御DOWN/神罚之枪(消去不可)，持续4回合</div>
+skill-2,神圣化,<div class=prt-text-small>自身获得必定TA(1回合)/强壮(3回合)</div>
+skill-3,永恒的神性,<div class=prt-text-small>我方全体光属性角色获得暴击率UP/伤害上限UP(3回合)/攻击UP(1回合)</div>
 support-1,盛装的圣女,自身发动TA时，永恒的神性冷却时间缩短1回合/我方光属性角色发动TA时，3次攻击均进行光属性追击
 support-2,身披圣衣的少女,我方全体光属性攻击UP的效果额外UP30%

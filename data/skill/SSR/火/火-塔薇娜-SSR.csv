@@ -1,8 +1,8 @@
 id,name,detail
 npc,塔维娜,3040234000
 special,挚爱之舞,<div class=prt-text-small>火属性伤害(特大)/热砂之眼的效果延长2回合<br><span class=text-blue>◆敌人处于热砂之眼时，奥义性能UP</span></div>
-skill-1,准备就绪,<div class=prt-text-small>对敌方单体造成火属性伤害/驱散1个强化/赋予热砂之眼
+skill-1,准备就绪,<div class=prt-text-small>对敌方单体造成火属性伤害/驱散1个强化/赋予热砂之眼</div>
 skill-2,侵蚀之雨,<div class=prt-text-small>对敌方单体造成4次攻击/施加攻防DOWN(累计)/随机弱体效果<br><span class=text-blue>◆消耗1层狩猎的箭筒</span></div>
-skill-3,箭在弦上,<div class=prt-text-small>自身获得奥义即刻发动/4层狩猎的箭筒
+skill-3,箭在弦上,<div class=prt-text-small>自身获得奥义即刻发动/4层狩猎的箭筒</div>
 support-1,热砂的猎人,每过5回合补充狩猎的箭筒4层(最大4层)/根据狩猎的箭筒的数量增加暴击率<br><span class=text-blue>◆战斗开始时获得4层狩猎的箭筒</span>
 support-2,热情的幽会者,根据敌人的弱体数量，增加连击率

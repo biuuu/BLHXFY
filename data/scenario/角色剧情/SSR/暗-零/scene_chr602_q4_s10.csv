@@ -1,0 +1,45 @@
+id,name,text,trans
+0-chapter_name,,久遠の慈母,永远的慈母
+0-synopsis,,数日後、レイとアシャは以前訪ねた老婆の葬式に参加する。老婆が遺していったレイへの贈り物を受け取り、老婆の死を悲しむレイ。それを見たアシャは「いつか自分もママを哀しませる」と謝る。そんなアシャをたしなめつつも愛しく思うレイは、子供達を必ず守り導いて見せると改めて心の中で誓うのだった。,几天后，零与阿霞参加了先前所拜访老媪的葬礼。零收下了来自老媪的礼物，为她的死感到悲伤。见此状阿霞对“有朝一日会让妈妈悲伤”感到愧疚。训诫阿霞的同时零的心中感到怜爱，再一次于心中发誓自己一定会指引并守护孩子们。
+1,,<span class='scene-font-katari'>数日後──</span>,<span class='scene-font-katari'>几天后——</span>
+2,,<span class='scene-font-katari'>レイはスーオファミリー総出で、</span><br><span class='scene-font-katari'>以前家を訪ねた老婆の葬式に</span><br><span class='scene-font-katari'>参加していた。</span>,<span class='scene-font-katari'>零与娑之家全员出动，</span><br><span class='scene-font-katari'>出席了先前所拜访的</span><br><span class='scene-font-katari'>老媪的葬礼。</span>
+8,,<span class='scene-font-katari'>式が終わり、人々が解散し始めても</span><br><span class='scene-font-katari'>レイとアシャは</span><br><span class='scene-font-katari'>会場に立ち尽くしていた。</span>,<span class='scene-font-katari'>葬礼进入尾声，人群开始散去</span><br><span class='scene-font-katari'>零与阿霞</span><br><span class='scene-font-katari'>却依旧停留在场。</span>
+9,レイ/零,…………,…………
+10,アシャ/阿霞,…………,…………
+11,アシャ/阿霞,突然、でしたね。,非常，突然啊。
+12,レイ/零,ええ。,是啊。
+13,アシャ/阿霞,ママ……<br>お義姉様が長くないことを……？,妈妈……<br>难道对姐姐命不久矣一事……？
+14,レイ/零,…………,…………
+15,アシャ/阿霞,そう、でしたか……<br>だからあの時の挨拶は……,原来，如此……<br>所以那时的对话……
+17,？？？,あの……,那个……
+18,アシャ/阿霞,貴方は……？,您是……？
+19,レイ/零,あの子の息子さんね……<br>ずいぶん大きくなったわね。,是她的儿子吧……<br>你也长成大人了呢。
+20,お婆さんの息子,お久しぶりです。<br>ママ。,好久不见。<br>妈妈。
+21,レイ/零,ふふふ、貴方は<br>私の子ではないのだもの。<br>そう呼ばなくてもいいのよ。,呵呵呵。你<br>不是我的孩子。<br>不必这样称呼的。
+22,お婆さんの息子,いえ、ママには<br>何度も助けられてますから。<br>僕もこう呼ばせて下さい。,不，我无数次<br>承蒙您照顾。<br>请允许我这样称呼您。
+23,お婆さんの息子,お葬式に参列して頂き<br>ありがとうございました。<br>母もきっと喜んでます。,感谢您特地前来<br>参加葬礼。<br>家母也一定对次感到高兴。
+24,お婆さんの息子,それで……その……<br>母の遺言なのですが、<br>これを渡してほしいと。,然后……那个……<br>遵循家母的遗言，<br>把这个交给您。
+25,レイ/零,あら、なにかしら……？,哎呀，是什么……？
+26,,<span class='scene-font-katari'>老婆の息子は、</span><br><span class='scene-font-katari'>レイに小さな箱を手渡す。</span>,<span class='scene-font-katari'>老媪的儿子</span><br><span class='scene-font-katari'>递给零一个小箱子。</span>
+27,お婆さんの息子,では、家族の集まりが<br>あるので僕はここで……<br>また、会いましょう、ママ。,那么，我还要参加家族的聚会<br>就先失陪了……<br>有朝一日，再见面吧，妈妈。
+28,レイ/零,ええ、また。<br>気落ちしすぎないようにと<br>伝えて頂戴ね。,嗯，再见。<br>告诉他们<br>不要过于沮丧。
+30,,<span class='scene-font-katari'>レイは老婆の息子を見送ると、</span><br><span class='scene-font-katari'>手渡された箱をゆっくりと開く。</span>,<span class='scene-font-katari'>目送老媪的儿子离开后，</span><br><span class='scene-font-katari'>零缓缓打开收到的盒子。</span>
+31,,<span class='scene-font-katari'>そこには老婆が大好きな花、</span><br><span class='scene-font-katari'>デュランタの花が入っていた。</span>,<span class='scene-font-katari'>盒子里，静静躺着老媪</span><br><span class='scene-font-katari'>最喜欢的花，金露花。</span>
+32,,<span class='scene-font-katari'>すると一瞬だけ、</span><br><span class='scene-font-katari'>亡くなったはずの老婆の声が</span><br><span class='scene-font-katari'>レイにだけ聞こえたような気がした。</span>,<span class='scene-font-katari'>就在这一瞬间</span><br><span class='scene-font-katari'>零似乎听见了本已离世的老媪</span><br><span class='scene-font-katari'>说话的声音。</span>
+34,お婆さん/老媪,どこへ行こうと、<br>心はずっと一緒よ、ママ。,无论身在何处，<br>我们的心永远相连，妈妈。
+35,レイ/零,…………,…………
+41,レイ/零,もう、いくつになっても<br>親離れ、できないんだから……<br>甘えんぼさんね、本当に……,真是，不管多少年纪<br>都没法，离开父母……<br>太爱撒娇了，真的是……
+42,レイ/零,心配しなくていいって……<br>言ったでしょう……,我不是说了……<br>不用担心的吗……
+43,レイ/零,子供の自立を手助けするのが、<br>母の務めだもの……,帮助孩子展翅高飞，<br>是母亲的本分啊……
+44,アシャ/阿霞,ママ……,妈妈……
+45,アシャ/阿霞,申し訳ありません。<br>私もいつか……<br>ママを哀しませ──,十分抱歉。<br>总有一天……我也会让妈妈感到悲——
+46,レイ/零,こら。,你看你。
+47,アシャ/阿霞,あたっ……,疼……
+48,レイ/零,変なことを<br>気にするものではないわ。<br>私は大丈夫だから。,不许把奇怪的事<br>放在心上。<br>我没事的。
+49,アシャ/阿霞,ですが……,但是……
+50,レイ/零,ふふ、本当に……困ってしまうくらい<br>真面目な子だこと。<br>まったく誰に似たのかしら。,呵呵，真是的……你较真的程度<br>真令人伤脑筋。<br>到底是像谁了。
+51,レイ/零,まだまだみんな、<br>手がかかりそうね……,看来大家<br>还不能让我省心啊……
+52,,<span class='scene-font-katari'>レイは</span><br><span class='scene-font-katari'>優しく寄り添うアシャの頭を、</span><br><span class='scene-font-katari'>ゆっくりと撫でた。</span>,<span class='scene-font-katari'>零温柔地</span><br><span class='scene-font-katari'>抚摸着阿霞</span><br><span class='scene-font-katari'>轻轻靠近的脑袋。</span>
+53,,<span class='scene-font-katari'>レイはその手に感じる温もりを</span><br><span class='scene-font-katari'>必ず守り導いて見せると、</span><br><span class='scene-font-katari'>改めて心の中で誓うのであった。</span>,<span class='scene-font-katari'>然后再一次在心中发誓</span><br><span class='scene-font-katari'>她一定会指引并守护</span><br><span class='scene-font-katari'>手中感受到的温度。</span>
+info,,,scene_chr602_q4_s10
+译者,,,SETSU_XY

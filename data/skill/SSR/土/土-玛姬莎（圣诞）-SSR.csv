@@ -1,8 +1,8 @@
 id,name,detail
 npc,玛姬莎,3040247000
-special,天空之锤,<div class=prt-text-small>土属性伤害(特大)/追加发动1次圣夜之光
-skill-1,小夜曲,<div class=prt-text-small>对我方土属性角色付与荒土的刻印/幻影(1回)/格挡/再生
-skill-2,圣夜之光,<div class=prt-text-small>对敌方单体造成土属性伤害/驱散1个强化效果/自身获得1层荒土的刻印
+special,天空之锤,<div class=prt-text-small>土属性伤害(特大)/追加发动1次圣夜之光</div>
+skill-1,小夜曲,<div class=prt-text-small>对我方土属性角色付与荒土的刻印/幻影(1回)/格挡/再生</div>
+skill-2,圣夜之光,<div class=prt-text-small>对敌方单体造成土属性伤害/驱散1个强化效果/自身获得1层荒土的刻印</div>
 skill-3,大地爆发,<div class=prt-text-small>对敌方全体造成土属性伤害/我方全体奥义值UP(20%)<br><span class=text-blue>◆10回合之后消耗自身全部荒土的刻印增加技能发动次数</span></div>
 support-1,土之秘术,使用大地爆发时，根据自身荒土的刻印的层数对应强化效果(攻防UP/必连续攻击/摩拉克斯援护攻击/土属性追击/奥义性能UP)
 support-2,圣夜的极魔女,我方全体根据荒土的刻印数量奥义性能UP<br><span class=text-blue>◆自身处于后排时也生效</span>
