@@ -1,0 +1,9 @@
+id,name,detail
+npc,美黛拉,3040195000
+special,稠密的爱抚,<div class=prt-text-small>光属性伤害(特大)<br><span class=text-blue>◆消耗1层空灵印进行技能追击</span></div>
+skill-1,绮罗星,<div class=prt-text-small>对敌方随机目标进行5次攻击/自身获得5层空灵印</div>
+skill-2,装饰的星星从天而降,<div class=prt-text-small>对敌方全体造成光属性攻击/攻防DOWN(累积)<br><span class=text-blue>◆消耗1层空灵印发动2回</span></div>
+skill-3,采花大盗,<div class=prt-text-small>自身连击率UP/回避率UP/回避时奥义值UP(20%)<br><span class=text-blue>◆消耗1层空灵印效果全体化</span></div>
+support-1,闪耀的圣诞节,自身敌对心UP/回避率UP/回避时对敌方单体造成光属性伤害/自身获得2层空灵印
+support-2,完全的魔导弓,普通攻击时消耗1层空灵印获得光属性追击
+skill-lb,LB技能,使用技能时，一定几率不消耗空灵印
