@@ -65,8 +65,8 @@ const storyPath = ['scenario', '/profile/content/index/']
 const requestList = [
   ['/loginbonus/', loginBonus],
   ['scenario', [setUserName, transScenario]],
-  ['/content/',[transLangMsg, transHTML, replaceHour]],
   ['/profile/content/index/', getUserName],
+  ['/content/',[transLangMsg, transHTML, replaceHour]],
   ['/user/content/index', [transTownInfo, pageIndex]],
   ['/comic/content/episode/', transComic],
   ['/comic/content/index', transComicT],
