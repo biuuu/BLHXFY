@@ -1,0 +1,72 @@
+﻿id,name,text,trans
+0-chapter_name,,善なる者,成为善良的人
+0-synopsis,,ブローディアと手分けして男達を追っていた姬塔は、男達に巨大兵器を差し向けられる。男達の卑怯な手口により、窮地に立たされる姬塔だったが、寸でのところでブローディアに救出された。その後、修理を終えた騎空艇が飛び立つのを見て安堵した姬塔とブローディアは、火山の噴火を警戒し逃げ出した男達を追うのだった。,和布罗蒂娅分头追击男人们的姬塔，被男人们的巨大兵器瞄准了。因男人们使用卑鄙手段，姬塔陷入了困境。千钧一发之际，布罗蒂娅救出了姬塔。之后，看见修理完成起飞的骑空艇，姬塔和布罗蒂娅也放下心来，提防火山爆发并继续追击男人们。
+1,,<span class='scene-font-katari'>入り組んだ雑木林の中、姬塔は</span><br><span class='scene-font-katari'>ブローディアと手分けし、</span><br><span class='scene-font-katari'>男達の姿を探していた。</span>,在错综复杂的杂木林中，姬塔和布罗蒂娅分头行动，寻找男人们的踪迹。
+4,,<span class='scene-font-katari'>その甲斐あって、</span><br><span class='scene-font-katari'>遂に姬塔は男達の姿を捉える。</span>,努力得到回报，姬塔终于发现了男人们的踪迹。
+5,大柄な男/高大的男人,ほぉ……ひとりで来るたぁ、感心だな。<br>他の奴らは必死こいて騎空艇の修理か？哦......一个人跟来真是令人佩服。其他的家伙在拼命修理骑空艇吗？
+6,大柄な男/高大的男人,<span class='scene-font-4'>ぎゃははっ！</span><br>団長がやられちまえば、<br>騎空団も何もねぇのになぁ！,哈哈哈，打倒团长的话，骑空团就不复存在了。
+7,大柄な男/高大的男人,さぁて、オレらの最高傑作の<br>お披露目といこうじゃねぇか！,那么，该展示我们的最高杰作了吧！
+18,？？？,────,
+19,,<span class='scene-font-katari'>雑木林を薙ぎ倒しながら現れた</span><br><span class='scene-font-katari'>巨大な兵器に対し、</span><br><span class='scene-font-katari'>姬塔は戦闘態勢に入る。</span>,巨大的兵器砍倒杂木林现身。面对巨大的兵器，姬塔进入战斗状态。
+22,,<span class='scene-font-katari'>そして、</span><br><span class='scene-font-katari'>すぐさま攻撃を仕掛けようとするも──</span>,但正准备攻击的时候──
+23,大柄な男/高大的男人,おっと、団長さんに忠告しとくぜ。<br>こいつの腹の中にはなぁ、<br>爆薬がたっぷり詰め込まれてんだ。,哎呀，给团长一个忠告吧。这家伙的肚子里可是装满炸药的哦。
+24,大柄な男/高大的男人,そして、この一帯の真下には、<br>火山の噴火を誘発する地脈がある。,而且这一带的正下方有引起火山爆发的地脉。
+25,大柄な男/高大的男人,それがどういう意味か……<br>わかるよなぁ？<br><span class='scene-font-4'>ぎゃははっ！</span>,知道这是什么意思吧？哈哈哈！
+26,,<span class='scene-font-katari'>まるで勝利でもしたかのように</span><br><span class='scene-font-katari'>男達は笑い、姬塔を挑発する。</span>,仿佛已经胜利一样，男人们笑着挑衅姬塔。
+27,,<span class='scene-font-katari'>そんな挑発には乗せられまいと、</span><br><span class='scene-font-katari'>姬塔は大きく息を吐き</span><br><span class='scene-font-katari'>心を落ち着かせると、武器を手放した。</span>,姬塔没有受到他的挑衅，深呼吸，使心平静下来，放下武器。
+30,,<span class='scene-font-katari'>だが、諦めたわけではない。</span><br><span class='scene-font-katari'>その目には、熱き意思が灯っていた。</span>,但是，不能放弃。眼睛里燃起炽热的意志。
+31,大柄な男/高大的男人,ぎゃははっ！　こいつぁ、いい！<br>いつまで耐えられるかなぁ？,哈哈哈！这家伙好啊！看你能忍受到什么时候？
+32,大柄な男/高大的男人,それ、やっちまえ！,给我上！
+33,？？？,────,
+38,,<span class='scene-font-katari'>一方その頃、騎空艇では、</span><br><span class='scene-font-katari'>ラカムの指示により</span><br><span class='scene-font-katari'>団員総出で必死に修理が行われていた。</span>,与此同时，全体团员按照拉卡姆的指示拼命修理骑空艇。
+39,ラカム/拉卡姆,よしっ、反対側から尾翼を支えてくれ。<br>一気に接合しちまうからなっ！,好，从对面一侧支撑住尾翼。一口气接上！
+40,ビィ/碧,なぁ、ルリア……<br>火山の煙だけどよ、量が増えてねーか？,喂，露莉亚......火山的烟是变多了吗？
+41,ルリア/露莉亚,……はわわっ、ど、どうしましょう？<br>このままだともう……,啊哇哇，怎、怎么办才好？这样下去的话......
+42,ラカム/拉卡姆,考えても仕方ねぇ……<br>今は俺達がやれることをやろうぜ。光想也没有用......现在应该做好我们该做的事情。
+43,ラカム/拉卡姆,早くグランサイファーを修理して、<br>あいつらを迎えにいってやんなきゃな！,快点把格兰赛法修理好，去迎接那些家伙吧！
+44,ルリア/露莉亚,はい！,是！
+45,ルリア/露莉亚,<span class='scene-font-kokoro'>（どうか無事でいてください……</span><br><span class='scene-font-kokoro'>姬塔……）</span>,（请一定要平安无事......姬塔......）
+50,,<span class='scene-font-katari'>ルリアの祈りも虚しく、</span><br><span class='scene-font-katari'>姬塔は窮地に陥っていた。</span>,露莉亚的祈祷也是徒劳的，姬塔正陷入困境。
+56,,<span class='scene-font-katari'>敵の攻撃を躱し続けていたが、</span><br><span class='scene-font-katari'>次第に疲弊していき、</span><br><span class='scene-font-katari'>遂にその攻撃を喰らい始めたのだ。</span>,连续闪躲敌人的攻击，姬塔逐渐地疲惫不堪，终于开始被攻击打到。
+57,？？？,────,
+58,大柄な男/高大的男人,あれぇ？<br>まだあんたんとこの騎空艇は、<br>飛び立たねぇようだな？,哎哟？你们的骑空艇还没有飞起来吗？
+59,大柄な男/高大的男人,せっかく団長さんが身体を張って、<br>食いとめてくれてるのによぉ。,团长都特意拖延时间了。
+61,大柄な男/高大的男人,おっと……そろそろか……？,啊.....时间快到了吗？
+62,大柄な男/高大的男人,よぉし、お前ら！　避難するぞ！,好，你们这些家伙！快去避难！
+62-sel1_txt,,<span class='scene-font-katari'>行かせないっ！</span>,不会让你走的！
+63,大柄な男/高大的男人,おいおい、余所見するんじゃねーよ……,喂喂，别东张西望啊...... 
+64,？？？,────,
+68,,<span class='scene-font-katari'>巨大兵器の攻撃が直撃し、</span><br><span class='scene-font-katari'>姬塔は</span><br><span class='scene-font-katari'>身体ごと吹き飛ばされてしまう。</span>,巨大兵器的攻击直接命中，姬塔被打飞了。
+69,大柄な男/高大的男人,おい、そこのガキに邪魔させんな。,喂，不要让那小鬼阻碍我们啊。
+70,？？？,────,
+71,大柄な男/高大的男人,ひとりでよく耐えたなぁ、<br>褒めてやるよ。,一个人竟然承受住了，值得称赞。
+72,大柄な男/高大的男人,だがな、これでもう……さよならだ。,但是，即使这样.....永别了。
+73,男達/男人们,<span class='scene-font-4'>ぎゃははっ！</span>,哈哈哈！
+74,,<span class='scene-font-katari'>男達は下卑た笑い声をあげながら、</span><br><span class='scene-font-katari'>その場から去って行く。</span>,男人们发出下贱的笑声从现场离去。
+76,？？？,────,
+78,,<span class='scene-font-katari'>巨大兵器は、</span><br><span class='scene-font-katari'>倒れていた姬塔を</span><br><span class='scene-font-katari'>掴みあげると、その動きを封じた。</span>,巨大兵器抓住倒下的姬塔，使其动弹不得。
+89,,<span class='scene-font-katari'>それは明らかに、</span><br><span class='scene-font-katari'>自爆の準備に他ならなかった。</span>,很明显，这是自爆的准备。
+90,？？？,────,
+90-sel1_txt,,<span class='scene-font-katari'>諦めるもんか！</span>,怎么能放弃！
+92,？？？,────,
+93,,<span class='scene-font-katari'>アラームが鳴り響き、</span><br><span class='scene-font-katari'>今まさに爆発しようという、</span><br><span class='scene-font-katari'>その刹那──</span>,警报声响起，快要爆炸的瞬间──
+95,ブローディアの声/布罗蒂娅的声音,<span class='scene-font-4'>刃鏡よっ！</span>,刃镜啊！
+101,ブローディア/布罗蒂娅,<span class='scene-font-4'>はああっ！</span>,哈啊啊！
+102,？？？,────,
+103,ブローディア/布罗蒂娅,……さらばだ。,再见了。
+104,？？？,<span class='scene-font-4'>────！</span>,
+107,,<span class='scene-font-katari'>神速の如く現れたブローディアは、</span><br><span class='scene-font-katari'>刃鏡を展開させ、</span><br><span class='scene-font-katari'>姬塔を助け出す。</span>,神速出现的布罗蒂娅展开了刃镜，救出了姬塔。
+109,,<span class='scene-font-katari'>そして、創りだした障壁の中に</span><br><span class='scene-font-katari'>巨大兵器を閉じ込め、</span><br><span class='scene-font-katari'>爆発を無力化したのだった。</span>,然后把巨大兵器关在创造出的障壁里，抵挡住了爆炸。
+110,ブローディア/布罗蒂娅,特異点よ、大丈夫か？,特异点啊，没事吧？
+110-sel1_txt,,<span class='scene-font-katari'>ははっ、待ちくたびれたよ？</span>,哈哈，等到疲倦了哦？
+111,ブローディア/布罗蒂娅,ふふっ、確かにそうだな……<br>すまなかった。,呵呵，确实是这样，对不起......
+113,,<span class='scene-font-katari'>互いの労をねぎらい合っていたその時、</span><br><span class='scene-font-katari'>ふたりは上空に</span><br><span class='scene-font-katari'>グランサイファーの姿を捉える。</span>,两人在互相慰劳的时候，看见上空的格兰赛法。
+114,ブローディア/布罗蒂娅,特異点よ、もう憂いはないだろう？,特异点啊，不用再忧虑了吧？
+115,ブローディア/布罗蒂娅,さぁ、このまま彼奴らを<br>野放しにしてはおけん。急ぐぞ。,来吧，不能就这样放任那些家伙。快点。
+116,,<span class='scene-font-katari'>こうして、</span><br><span class='scene-font-katari'>姬塔とブローディアは</span><br><span class='scene-font-katari'>意気揚々と逃げ去った男達を追う。</span>,于是，姬塔和布罗蒂娅继续追击得意扬扬地逃走的男人们。
+120,手下/手下,なっ！　お、親分！<br>奴らが……,啊！老，老大！那些家伙......
+121,大柄な男/高大的男人,あン？<br>なんで、生きてやがるんだ！？,什么？为什么还活着！？
+122,ブローディア/布罗蒂娅,逃れられると思うな。,不要以为能逃脱。
+128,ブローディア/布罗蒂娅,<span class='scene-font-4'>刃鏡展開！</span>,刃镜展开！
+info,,,scene_chr453_q3_s10
+译者,,,シエル

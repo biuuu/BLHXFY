@@ -403,7 +403,7 @@ body .cnt-order-box .cnt-btn-bottombox .btn-evolution:not(.disapprove)::after {
 .cnt-present .btn-tabs.history::after {
   content: "领取记录";
 }
-.prt-order-button .btn-order-sell[data-category="summon"]::after {
+/* .prt-order-button .btn-order-sell[data-category="summon"]::after {
   content: "出售召唤石";
   font-size: 12px;
 }
@@ -418,7 +418,7 @@ body .cnt-order-box .cnt-btn-bottombox .btn-evolution:not(.disapprove)::after {
 .prt-order-button .btn-order-container[data-category="weapon"]::after {
   content: "武器移到仓库";
   font-size: 12px;
-}
+} */
 #member-list-tabs::after {
   content: "队友";
   font-size: 14px;

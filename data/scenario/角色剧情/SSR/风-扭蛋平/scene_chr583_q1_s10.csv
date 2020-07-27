@@ -1,0 +1,88 @@
+id,name,text,trans
+0-chapter_name,,恐竜探偵ガチャピンの推理,恐龙侦探扭蛋平的推理
+0-synopsis,,とある日の夜。ガチャピンは暗がりの食堂の中で、何者かが無断で食料を貪る現場に遭遇。犯人は逃走したが床に落ちていた赤い毛から、ガチャピンはムックが犯人だと推理し問い質す。罪を告白し一行に謝罪しようと考えていたムックだったが、このままではガチャピンに諫められ観念した形となり、謝罪するにも意味合いが変わってしまうと大慌て。そのとき、騎空艇内にルリアの叫び声が響くのだった。,某天晚上。扭蛋在昏暗的食堂中，撞见了不知道是谁在偷吃食物。逃跑的犯人在地板上留下了红色的毛发，扭蛋平推理出犯人就是木克，并对他进行了质问。木克本想坦白罪状，向一行人谢罪，但是这样的发展，仅仅是受到扭蛋平的逼问，整个事件的缘由也就发生变化了。就在那时，骑空艇内响起了露莉亚的叫声。
+1,,<span class='scene-font-katari'>とある島での依頼を終えた</span><br><span class='scene-font-katari'>騎空団の面々は、疲れた体を癒すように</span><br><span class='scene-font-katari'>早々に眠りについていた。</span>,结束了在某个岛上的委托后，骑空团的众人为了消除一天的疲劳，早早就上床睡觉了。
+2,,<span class='scene-font-katari'>そんな静寂の中、</span><br><span class='scene-font-katari'>ガチャピンは騎空艇の甲板でひとり、</span><br><span class='scene-font-katari'>満天の星に心を躍らせる。</span>,就在这寂静的夜晚，扭蛋平独自一人在骑空艇的甲板上，看着天天的群星，满心欢喜。
+5,ガチャピン/扭蛋平,あ、流れ星！,啊，是流星！
+6,ガチャピン/扭蛋平,うわぁーすごいなぁ……<br>こんなキレイな星空、<br>独り占めしちゃもったいないよね。,哇ー好厉害啊……真漂亮的星空，只给我一人享用，这真是太浪费了。
+7,ガチャピン/扭蛋平,ムックにも教えてあーげよっと！<br>まだ起きてるといいなー,我去叫木克也来看吧！如果他还醒着就好了ー
+8,,<span class='scene-font-katari'>ガチャピンが上機嫌でムックの部屋に</span><br><span class='scene-font-katari'>向かおうとしたそのとき、どこからか</span><br><span class='scene-font-katari'>怪しげな物音が聞こえてくる。</span>,扭蛋平正要开开心心地去向木克的房间的时候，突然听到了不知从哪传来的一阵奇怪的声音。
+9,ガチャピン/扭蛋平,うん？<br>なんの音だろう？,嗯？这是什么声音啊？
+14,,<span class='scene-font-katari'>好奇心旺盛なガチャピンが</span><br><span class='scene-font-katari'>その物音の出どころを探っていくと</span><br><span class='scene-font-katari'>明かりもついていない食堂に辿り着く。</span>,好奇心旺盛的木克顺着声音的方向，来到了乌漆墨黑的食堂。
+15,ガチャピン/扭蛋平,あれぇ？<br>物音が聞こえた気がしたけど、<br>気のせいだったのかなー？,诶？感觉声音是在这里传来的啊，难道是听错了吗ー？
+16,,<span class='scene-font-katari'>暗がりの中、明かりを灯そうと</span><br><span class='scene-font-katari'>ガチャピンがランプの場所を</span><br><span class='scene-font-katari'>手探りで探し当てたその刹那……</span>,在这黑中，扭蛋平为了开灯，正要开始他的盲人摸象一般探索地刹那……
+17,？？？,もぐもぐ……,啊呜啊呜……
+18,,<span class='scene-font-katari'>食堂の奥で一心不乱に</span><br><span class='scene-font-katari'>食料を貪る怪しき人影が蠢く。</span>,在食堂深处，黑暗中，一个在专心致志偷吃着东西的人影蠢动着。
+20,ガチャピン/扭蛋平,<span class='scene-font-4'>うわああっ！</span>,呜啊啊啊！
+21,？？？,<span class='scene-font-4'>っ！？</span>,！？
+23,,<span class='scene-font-katari'>驚いたガチャピンは</span><br><span class='scene-font-katari'>さっき見つけたランプに</span><br><span class='scene-font-katari'>すぐさま明かりを灯す。</span>,扭蛋平吓了一跳，赶忙按上了刚才找到的开关，打开了灯。
+25,ガチャピン/扭蛋平,はぁはぁ……,哈哈……
+26,ガチャピン/扭蛋平,あれ？<br>え、ウソ……だぁれもいない……,诶？诶，不会吧……没人在啊……
+27,ガチャピン/扭蛋平,もしかして、き、消えちゃったの！？<br>ってことは……お化けーっ！？,难道说，是消、消失了！？
+28,ガチャピン/扭蛋平,わわわ、どうしよう……<br>とにかくみんなに報告しなくっちゃ！,哇哇哇，怎么办……总之先给大家报告吧！
+29,,<span class='scene-font-katari'>その場からすぐに駆け出そうとした</span><br><span class='scene-font-katari'>ガチャピンだったが、</span><br><span class='scene-font-katari'>床になにかが落ちていることに気づく。</span>,扭蛋平本准备拔腿就跑，但突然注意到地板上掉落的某个东西。
+30,ガチャピン/扭蛋平,なんだろう……,这是什么呢……
+31,,<span class='scene-font-katari'>ガチャピンが拾い上げたのは、</span><br><span class='scene-font-katari'>見覚えのある赤い毛だった。</span>,扭蛋平捡起来的，是他在何处曾见过的红毛。
+32,ガチャピン/扭蛋平,…………,…………
+33,,<span class='scene-font-katari'>一方その頃……</span>,另一方面，就在那时……
+37,ムック,ふぅ～……,呼……
+38,ムック,…………,…………
+39,ムック,いやいやいや、<br>逃げ切ったとか考えてはダメですぞ！,不行不行不行，想着成功溜掉什么的可不好啊！
+40,ムック,ああ、もう～<br>なんでわたくしはこんなにも<br>食いしん坊なんでしょう！,啊啊，真是的~为什么我就是这样一个贪吃鬼啊！
+41,,<span class='scene-font-katari'>空腹だったとはいえ、</span><br><span class='scene-font-katari'>無断で騎空団の食料に</span><br><span class='scene-font-katari'>手を付けたことを反省するムック。</span>,<span class='scene-font-katari'>虽说是因为肚子饿空腹だったとはいえ、</span><br><span class='scene-font-katari'>但擅自偷吃骑空团的东西也是不对的，</span><br><span class='scene-font-katari'>木克开始了他的深刻反省。</span>
+42,ムック,まずは……そうですね～<br>先ほど食堂にやってきた方に<br>事情を説明して……,首先要……对了～<br>要向刚才过来食堂的人先ほど食堂<br>说明情况……
+43,ムック,ああ、でも～……<br>バレたくない一心で<br>逃げ出してしまいましたし……,啊啊，但是～……<br>刚才因为怕被发现<br>一心想着逃跑了……
+44,ムック,はぁ……<br>これじゃあ泥棒と同じじゃないですか。,哈……<br>我这样不就跟小偷一样了吗。
+45,ムック,騎空団を追い出されても<br>文句を言えませんよね。<br>う～ん、どうしましょう……,就算被赶出骑空团<br>也没什么怨言能说的了。<br>嗯~怎么办呢……
+47,,<span class='scene-font-katari'>なにか良い案はないかと</span><br><span class='scene-font-katari'>ムックが頭をひねっていると、</span><br><span class='scene-font-katari'>部屋のドアがノックされる。</span>,<span class='scene-font-katari'>就在木克歪头晃脑地</span><br><span class='scene-font-katari'>想着什么好办法的时候，</span><br><span class='scene-font-katari'>房间的门被敲响了。</span>
+48,ムック,<span class='scene-font-4'>どき～っ！？</span>,<span class='scene-font-4'>吓～！？</span>
+49,ムック,<span class='scene-font-kokoro'>（こ、これ……</span><br><span class='scene-font-kokoro'>居留守ってわけには</span><br><span class='scene-font-kokoro'>いきませんよね……）</span>,<span class='scene-font-kokoro'>（现、现在……</span><br><span class='scene-font-kokoro'>也不能</span><br><span class='scene-font-kokoro'>装作人不在啊……）</span>
+51,,<span class='scene-font-katari'>焦るムックを</span><br><span class='scene-font-katari'>心理的に追い込むかのように</span><br><span class='scene-font-katari'>ふたたびドアがノックされる。</span>,<span class='scene-font-katari'>就像要给慌张的木克</span><br><span class='scene-font-katari'>施加心里上的压力一般</span><br><span class='scene-font-katari'>门再次被敲响了。</span>
+52,ムック,い、いま開けますので<br>お待ちくださ～い！,来、来了<br>请稍等下~！
+54,ガチャピン/扭蛋平,…………,…………
+55,ムック,あ、あれ？　誰かと思ったら<br>ガチャピンじゃないですか～,诶、诶？ 我还想是谁呢<br>这不是扭蛋平吗~
+56,ムック,いや、もうバレたのかと──,哎呀，我还想是不是暴露──
+57,ムック,あ、いやいや、その……<br>まだ起きてたんですか？,啊，没有没有，那个……你还醒着吗？
+58,ガチャピン/扭蛋平,うん、星がキラキラして<br>キレイだったから<br>甲板で眺めてたんだー,嗯，星星闪闪发光的很漂亮<br>所以我刚才在甲板欣赏呢。
+59,ムック,へぇ～そうだったんですね。<br>疲れてたので、すぐに<br>寝てしまったのかと思ってましたよ～！,诶~是这样啊。<br>看你那么累了，还以为你马上<br>就睡了呢~
+60,ガチャピン/扭蛋平,ふーん……<br>ぼく、寝てた方がよかったー？,嗯……我是睡着了比较好吗？
+61,ムック,へ？,诶？
+62,ガチャピン/扭蛋平,じ～っ……,盯~……
+63,ガチャピン/扭蛋平,ジロジロ。,我盯我盯。
+64,ガチャピン/扭蛋平,ジロジロ。,我盯我盯。
+65,ムック,な、なんなんですか！？<br>わたくしの顔になにかついてますか！？,什、什么事啊！？我的脸上沾了什么吗！？
+66,ガチャピン/扭蛋平,ねぇ、ムックはずーっと起きてたのー？,那个啊，木克你一直都醒着吗？
+67,ムック,<span class='scene-font-5'>どき～っ！？</span>,吓~！？
+68,ムック,<span class='scene-font-kokoro'>（も、もしかして……</span><br><span class='scene-font-kokoro'>わたくしが盗み食いをしていたとき</span><br><span class='scene-font-kokoro'>食堂にやってきたのはガチャピン！？）</span>,<span class='scene-font-kokoro'>（难、难到说……</span><br><span class='scene-font-kokoro'>刚才我在食堂偷吃的时候</span><br><span class='scene-font-kokoro'>过来的是扭蛋平吗！？）</span>
+69,ムック,<span class='scene-font-kokoro'>（でも、わたくしは明かりがつく前に</span><br><span class='scene-font-kokoro'>逃げましたし……あの暗がりの中では</span><br><span class='scene-font-kokoro'>姿は見えなかったはず……）</span>,<span class='scene-font-kokoro'>（但是，我在灯开之前</span><br><span class='scene-font-kokoro'>就逃掉了……在那么暗的环境</span><br><span class='scene-font-kokoro'>也应该看不到我的样子……）</span>
+70,ガチャピン/扭蛋平,…………,…………
+71,ムック,っ！？,！？
+72,ムック,<span class='scene-font-kokoro'>（これはもう、アレですぞ……</span><br><span class='scene-font-kokoro'>確実にわたくしが犯人だと思っている</span><br><span class='scene-font-kokoro'>目ですぞ……）</span>,<span class='scene-font-kokoro'>（这已经是那个了吧……</span><br><span class='scene-font-kokoro'>就是确信我就是犯人的</span><br><span class='scene-font-kokoro'>眼神啊……）</span>
+73,ムック,<span class='scene-font-kokoro'>（勘のいいガチャピンのことですから、</span><br><span class='scene-font-kokoro'>もうなにか証拠でもつかんでるのかも</span><br><span class='scene-font-kokoro'>しれません～……）</span>,（因为扭蛋平直觉很敏锐，</span><br><span class='scene-font-kokoro'>说不定他已经找到了</span><br><span class='scene-font-kokoro'>什么证据了~……）</span>
+74,ムック,<span class='scene-font-kokoro'>（やはりここは、</span><br><span class='scene-font-kokoro'>素直に謝るべきですよね。</span><br><span class='scene-font-kokoro'>うん、それが一番ですぞ～！）</span>,（果然，现在还是应该</span><br><span class='scene-font-kokoro'>老老实实道歉吧。</span><br><span class='scene-font-kokoro'>嗯，现在最这样做啊～！）</span>
+75,,<span class='scene-font-katari'>観念したムックは</span><br><span class='scene-font-katari'>全てを洗いざらい白状しようと</span><br><span class='scene-font-katari'>決意する。</span>,<span class='scene-font-katari'>木克放弃了内心的挣扎，</span><br><span class='scene-font-katari'>决定要将一切</span><br><span class='scene-font-katari'>都坦白出来。</span>
+76,ムック,えっと、その～<br>実はわたくしですね──,呃，那个~实际上是我啊──
+77,ガチャピン/扭蛋平,ぼくがドアをノックしてすぐに<br>出てきたってことは……,我刚一敲门<br>你就来开门了……
+78,ガチャピン/扭蛋平,ムックはまだ寝てなかった。<br>そういうことだよね？,这说明，<br>木克你也还没睡吧？
+79,ムック,あ、ええ……そのですね～<br>ベッドに入ったは入ったんですが、<br>少々小腹が──,啊，是啊……是这么回事~<br>虽然我是上了床了，但是感觉肚子有点饿──
+80,ガチャピン/扭蛋平,そっかぁー食いしん坊のムックには<br>今夜のご飯の量じゃ<br>物足りなかったのかぁー,这样啊，对贪吃鬼木克你来说，<br>今天晚饭是没吃饱啊ー
+81,ムック,あ～……すでに３杯も<br>おかわりしてましたし、新入りの身で<br>これ以上おかわりするのはなんとも……,啊~……都已经再盛了3碗了，作为一个新人，<br>要再来一晚的话那感觉还是……
+82,ガチャピン/扭蛋平,だから……<br>やったの？,所以……<br>你就那个了？
+83,ムック,やった？　やったってなにを……,那个了？ 指的是什么……
+84,ムック,<span class='scene-font-4'>ハッ！</span>,啊！
+86,ムック,<span class='scene-font-kokoro'>（盗み食いを</span><br><span class='scene-font-kokoro'>やったのかってことですか～！</span><br><span class='scene-font-kokoro'>うわ～、すごいですよガチャピン！）</span>,（是说</span><br><span class='scene-font-kokoro'>我偷吃了吗～！</span><br><span class='scene-font-kokoro'>呜啊～，扭蛋平真是不得了啊！）</span>
+87,ムック,<span class='scene-font-kokoro'>（これ、誘導尋問ってやつですよね？</span><br><span class='scene-font-kokoro'>さながら、犯人を追い詰める</span><br><span class='scene-font-kokoro'>探偵じゃありませんか～）</span>,<span class='scene-font-kokoro'>（这就是套供吧？</span><br><span class='scene-font-kokoro'>这简直就像将犯人逼上绝路的</span><br><span class='scene-font-kokoro'>侦探啊～）</span>
+88,ムック,<span class='scene-font-kokoro'>（ふふ、わたくし、</span><br><span class='scene-font-kokoro'>まんまとハマっちゃっていますぞ～）</span>,（呵呵，我真是</span><br><span class='scene-font-kokoro'>完全陷进去了啊～）</span>
+89,ムック,<span class='scene-font-kokoro'>（あ、でも、このままだと……</span><br><span class='scene-font-kokoro'>問い詰められたから渋々、盗み食いを</span><br><span class='scene-font-kokoro'>認めたってことになりませんかね？）</span>,（啊，但是，再这样下去……</span><br><span class='scene-font-kokoro'>我就会因为这逼问，而渐渐不得不承认</span><br><span class='scene-font-kokoro'>是我偷吃了吧？）</span>
+90,,<span class='scene-font-katari'>Van達に謝罪をするにも、</span><br><span class='scene-font-katari'>このままでは意味合いが</span><br><span class='scene-font-katari'>変わってしまうと懸念するムック。</span>,<span class='scene-font-katari'>但是木克担心，这样下去，即使是向姬塔他们谢罪了，</span><br><span class='scene-font-katari'>整个事情的来龙去脉</span><br><span class='scene-font-katari'>会变得不一样了。</span>
+91,ムック,<span class='scene-font-kokoro'>（となれば！</span><br><span class='scene-font-kokoro'>すぐにでも自らの悪事を</span><br><span class='scene-font-kokoro'>告白しなくてはいけませんぞ～）</span>,（这样的话！</span><br><span class='scene-font-kokoro'>这必须得马上坦白</span><br><span class='scene-font-kokoro'>自己所做的坏事啊～）</span>
+92,ムック,違う、違うんですよ、ガチャピン！<br>わたくしは最初から素直に──,不对，不对啊，扭蛋平！<br>我坦白把事情从头──
+93,ガチャピン/扭蛋平,あくまでもシラを切るつもりなのー！？,你还打算一直装作什么都不知道吗！？,
+94,ムック,いえ、そういうことじゃなくてですね。<br>認めるものは認めるんですが……<br>なんと言えばいいんですかね～,いえ、そういうことじゃなくてですね。<br>認めるものは認めるんですが……<br>なんと言えばいいんですかね～,いえ、そういうことじゃなくてですね。<br>認めるものは認めるんですが……<br>なんと言えばいいんですかね～,不是，不是你说的那样啊。<br>我确实是要坦白我做的事……<br>但该怎么说好呢～
+95,,<span class='scene-font-katari'>ガチャピンの探偵さながらの</span><br><span class='scene-font-katari'>名推理によって追い詰められ、</span><br><span class='scene-font-katari'>ムックが狼狽えたそのとき……</span>,<span class='scene-font-katari'>正当木克</span><br><span class='scene-font-katari'>被扭蛋平的名推理逼上绝路，</span><br><span class='scene-font-katari'>一脸狼狈之际……</span>
+96,ルリアの声/露莉亚的声音,<span class='scene-font-4'>きゃあああっ！</span>,<span class='scene-font-4'>咿呀啊啊啊！</span>
+97,ガチャピン/扭蛋平,んっ！？,嗯！？
+98,ムック,この声……<br>ルリアさん、ですよね？,是露莉亚的声音吧？
+99,,<span class='scene-font-katari'>騎空艇内に響くルリアの悲鳴を聞き、</span><br><span class='scene-font-katari'>ガチャピンとムックは</span><br><span class='scene-font-katari'>すぐさま部屋を飛び出すのだった。</span>,<span class='scene-font-katari'>听到了骑空艇内响起的露莉亚的悲鸣，</span><br><span class='scene-font-katari'>扭蛋平和木克</span><br><span class='scene-font-katari'>立马冲出了房间。</span>
+info,,,scene_chr583_q1_s10
+译者,,,Van
