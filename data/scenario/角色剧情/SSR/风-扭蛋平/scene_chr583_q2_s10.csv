@@ -1,0 +1,47 @@
+id,name,text,trans
+0-chapter_name,,恐竜探偵ガチャピンの推理,恐龙侦探扭蛋平的推理
+0-synopsis,,ルリアの部屋に現れた黒ムックを見て、ガチャピンとムックは驚く。そのことからガチャピンは、犯人は黒ムックだったのかと勘違い。そんな中、黒ムックは一行の隙をつき、闇夜に紛れ逃走してしまう。一行は夜が明けてから黒ムックを追うと決め、各自の部屋に戻っていく。自分の罪を自白し、早く謝罪しておこうと考えるムックだったが、その機会を得られず、悶々と眠りにつくのだった。,看到了露莉亚房间里出现的黑木克，扭蛋平和木克都吓了一跳。由此扭蛋平以为犯人是黑木克。就在那时，黑木克抓住一行人的疏忽，混进夜里逃走了。一行人决定天亮后再去追黑木克后，回到了各自的房间。木克本想着要坦白自己的罪状马上谢罪，但如今失去了那个机会，闷闷不乐地睡着了。
+1,,<span class='scene-font-katari'>ルリアの部屋に駆け付けた</span><br><span class='scene-font-katari'>ガチャピンとムックは、</span><br><span class='scene-font-katari'>そこで思いもよらない相手と遭遇する。</span>,<span class='scene-font-katari'>来到了露莉亚房间的</span><br><span class='scene-font-katari'>扭蛋平和木克</span><br><span class='scene-font-katari'>遇到了他们意想不到的对手。</span>
+2,黒ムック,デス、ゾ……<br>ＤＥＡＴＨ　ＺＯＮＥ……,DESU、ZO……<br>ＤＥＡＴＨ　ＺＯＮＥ……
+3,ガチャピン/扭蛋平,ええっ、<br>なんでここに黒ムックがいるのー！？,啊，<br>为什么在这里会有一个黑色的木克！？
+4,ムック,そ、そうですよ！<br>全員、<span class='scene-font-place'>ルーマシー</span>で<br>やっつけたはずですぞ～！？,对、对啊！<br>那全部<span class='scene-font-place'>都应该崽露玛茜</span>里<br>干掉了啊～！？
+5,ビィ/碧,オイラ達もなんでコイツが<br>騎空艇にいんのかわかんねーんだ！,我们也搞不懂为什么这家伙<br>会在骑空艇里出现啊！
+6,ルリア/露莉亚,はい……<br>気づいたら、部屋の隅っこで<br>体育座りをしてたんです……,是啊……<br>我注意到的时候，它就已经在房间的角落<br>双腿抱膝在那坐着了……
+7,,<span class='scene-font-katari'>黒ムックの出現により、</span><br><span class='scene-font-katari'>ガチャピンはふと食堂での一件を</span><br><span class='scene-font-katari'>思い返す。</span>,<span class='scene-font-katari'>看到这黑色的木克，</span><br><span class='scene-font-katari'>扭蛋平突然想到了在食堂发生的</span><br><span class='scene-font-katari'>那件事。</span>
+8,ガチャピン/扭蛋平,えっ、ちょっと待って……<br>じゃあ食堂にいたのは<br>ムックじゃなくて、黒ムック……？,诶，等等……<br>那么说的话，在食堂的<br>不是木克，而是黑木克……？
+9,ムック,あ～……いえ、ガチャピン！<br>食堂に忍び込んだのは──,啊～……不是啊，扭蛋平<br>偷偷跑进食堂的人是──
+10,ガチャピン/扭蛋平,そっか、そうだよね！,对啊，也没错啊！
+11,ガチャピン/扭蛋平,食堂にムックの毛が落ちてたって、<br>別におかしくないよねー<br>普段から食堂を使ってるんだし……,木克的毛会掉在食堂，<br>也不是什么奇怪事啊<br>因为平时都要去食堂吃饭……
+12,ガチャピン/扭蛋平,ごめんね、ムックー<br>勝手に犯人扱いしちゃって……,对不起啊，木克<br>擅自就把你当作是犯人了…… 
+13,ムック,あのですね、合ってるんですよ！<br>さすがガチャピンの名推理なんですよ！<br>ちょっとお腹が空いたもので──,那个啊，你猜的没错啊！<br>真不愧是扭蛋平的名推理啊！<br>我因为肚子有点饿了──
+14,黒ムック,ＤＥＡＴＨ　ＺＯＯＯＯＯＯＮＥ！,ＤＥＡＴＨ　ＺＯＯＯＯＯＯＮＥ！
+15,ムック,あわわっ……！,啊哇哇……！
+16,ビィ/碧,お、おい！<br>おしゃべりしてるヒマはねーぞ！,喂、喂！<br>现在不是给你们闲聊的时候啊！
+17,ガチャピン/扭蛋平,よぉーし！<br>ムック、下がってて！,好！<br>木克，你快到后面来！
+18,ムック,あ、は、はい……！,啊，好、好的……！
+19,ムック,<span class='scene-font-kokoro'>（黒ムックのせいで、</span><br><span class='scene-font-kokoro'>話がややこしくなっちゃった</span><br><span class='scene-font-kokoro'>じゃないですか、もう～……）</span>,<span class='scene-font-kokoro'>（都怪这黑木克，</span><br><span class='scene-font-kokoro'>事情都变得复杂</span><br><span class='scene-font-kokoro'>起来了啊，真是的～……）</span>
+20,ガチャピン/扭蛋平,姬塔！<br>我们快把这黑木克收拾掉吧！,
+23,,<span class='scene-font-katari'>姬塔とガチャピンは、</span><br><span class='scene-font-katari'>すぐさま剣を抜き放つ。</span>,<span class='scene-font-katari'>姬塔和扭蛋平</span><br><span class='scene-font-katari'>赶紧拔出了剑。</span>
+24,黒ムック,ＤＥＡＴＨ　ＺＯＮＥ……,ＤＥＡＴＨ　ＺＯＮＥ……
+26,,<span class='scene-font-katari'>襲い掛かって来るかと思われた</span><br><span class='scene-font-katari'>黒ムックは、一行の予想に反し、</span><br><span class='scene-font-katari'>背後の窓から逃走を図る。众人还以为</span>,<span class='scene-font-katari'>黑木克会向人扑过来</span><br><span class='scene-font-katari'>但是，</span><br><span class='scene-font-katari'>没想到它却想的是要从背后的窗口逃跑。</span>
+27,ビィ/碧,くっそ！<br>姬塔、みんな、<br>アイツを追うぞ！,可恶！姬塔，各位，<br>我们快去追上它吧！
+28,ガチャピン/扭蛋平,うん！,嗯！
+33,,<span class='scene-font-katari'>黒ムックを追いかけ、</span><br><span class='scene-font-katari'>騎空艇の甲板に飛び出した</span><br><span class='scene-font-katari'>姬塔一行だったが……</span>,<span class='scene-font-katari'>一行人为了追捕黑木克，</span><br><span class='scene-font-katari'>飞奔到了骑空艇的甲板上，</span><br><span class='scene-font-katari'>但是……</span>
+34,ガチャピン/扭蛋平,あれー<br>どこに行っちゃったのかなー,诶<br>它去哪了啊
+35,ルリア/露莉亚,はい……こんなにも暗いと、<br>黒ムックさんの姿が<br>全然見えませんね……,<br>嗯……周围这么黑，<br>也完全看不到黑木克的<br>身影啊……
+36,ガチャピン/扭蛋平,だよねー<br>食堂に忍び込んでるときも、<br>全然、わかんなかったし……,也是啊<br>它潜入食堂的时候，<br>我也是完全没有发现……
+37,ビィ/碧,食堂？,食堂？
+38,ムック,あ、いえ、それは……<br>黒ムックのせいではなくてですね……,啊，不是啊，那个……<br>不是黑木克做的……
+39,ガチャピン/扭蛋平,もしかしたら、<br>村の方に逃げちゃったのかな～,难道说，<br>它是往村子的方向跑了吗～
+40,ビィ/碧,あ～、それはマズイよな。<br>村で暴れる可能性もあるしよ……,啊～，这样的话可不妙啊。<br>有可能会在村子里搞破坏了……
+41,,<span class='scene-font-katari'>悩んだ末姬塔は、</span><br><span class='scene-font-katari'>黒ムックの捜索は</span><br><span class='scene-font-katari'>夜が明けてから再開しようと提案する。</span>,<span class='scene-font-katari'>一番烦恼过后，姬塔提议</span><br><span class='scene-font-katari'>将黑木克的搜寻</span><br><span class='scene-font-katari'>放到明天一早。</span>
+42,ガチャピン/扭蛋平,うん！　そうしよっか！<br>ということでみんなー<br>ひとまず仮眠を取ろうよー,嗯！ 就这么办吧！<br>那么各位<br>我们先睡一会吧
+43,ムック,あの、みなさん……<br>こんなときになんなんですが、<br>ちょっとお話が……,那个，各位……<br>不好意思，是在这个时候，<br>我有些话想说……
+44,ビィ/碧,ふあ～ぁ……話なら明日にしようぜ。<br>急に起こされたから<br>眠くて仕方ねーもんな。,呜啊~……你想说的话明天再说吧。<br>突然被叫醒了<br>真是太困了。
+46,ムック,あ、でもですね……,啊，但是……
+47,ガチャピン/扭蛋平,ぼくも眠くなってきちゃった。<br>ほらほら、行くよムックー,我也开始锟了。<br>行了行了，走啦木克
+49,ムック,あ、みなさん、待ってください～……,啊，大家等等我啊～
+50,ムック,…………,…………
+51,,<span class='scene-font-katari'>こうして、謝罪のタイミングを逃した</span><br><span class='scene-font-katari'>ムックは、モヤモヤした気分を</span><br><span class='scene-font-katari'>抱えながら眠りにつくのだった。</span>,<span class='scene-font-katari'>就这样，错失了谢罪的时机，</span><br><span class='scene-font-katari'>木克带着郁闷的心情</span><br><span class='scene-font-katari'>进入了梦乡。</span>
+info,,,scene_chr583_q2_s10
+译者,,,Van
