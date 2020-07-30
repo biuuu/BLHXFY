@@ -1,0 +1,30 @@
+id,name,text,trans
+0-chapter_name,,続・アンチラの空遊記,续・安琪拉的空游记
+0-synopsis,,一行は調査を請け負った翌日、その土地を治める領主・ハクヤの屋敷を訪れる。ハクヤの調査隊と共に山頂を訪れると、怪しい霧が漏れている洞窟を発見する。洞窟の奥に向かうと小さな祠があり、その周りには魔物が集まっていた。一行は魔物を退治するため武器を構える。,在一行接受调查委托的第二天、来到了治理这片土地的领主・白夜的宅邸。和白夜的调查队一同来到山顶、发现了泄露出可疑的雾的洞窟。在洞窟的深处发现了一座小小的祀堂、以及周围聚集着的大量魔物。一行为了退治魔物而架起了武器。
+1,,<span class='scene-font-katari'>翌日、女性の案内で</span><br><span class='scene-font-katari'>代々この土地を治める</span><br><span class='scene-font-katari'>領主・ハクヤの屋敷を訪れた。</span>,第二天、在女性的带领下</span><br><span class='scene-font-katari'>一行来到代代治理这边土地的</span><br><span class='scene-font-katari'>；领主・白夜的宅邸。</span>
+2,ハクヤ,ほう……お主達が<br>サンゾー様御一行の再来だな！,嚯……汝等<br>再见三藏大人一行一般啊！
+3,アンチラ/安琪拉,いえいえー<br>再来だなんて言い過ぎですけどぉー,不不ー<br>“再见”就说过头了ー
+4,ハクヤ,ふっ……何を謙遜している！<br>お主はあのゴクウ様と同じ<br>仙術を使うそうではないか！,呼……没必要谦虚！<br>汝不也和悟空大人一样<br>会使用仙术吗！
+5,アンチラ/安琪拉,いやぁーまぁー<br>そうなんですけどねぇー,不ー那个ー<br>虽然是这样ー
+6,ビィ/碧,<span class='scene-font-2'>ん……アンチラのヤツ、</span><br><span class='scene-font-2'>初対面にしては、なんかこう</span><br><span class='scene-font-2'>いつもより甘い感じだな。</span>,<span class='scene-font-2'>嗯……安琪拉这家伙、</span><br><span class='scene-font-2'>对初次见面的人、总觉得</span><br><span class='scene-font-2'>比平时更嫩呢。</span>
+7,ルリア/露莉亚,<span class='scene-font-2'>ゴクウ様に似てるっていうのが</span><br><span class='scene-font-2'>相当嬉しいみたいですね。</span>,<span class='scene-font-2'>看来被说是和悟空大人很像</span><br><span class='scene-font-2'>感到十分开心呢。</span>
+8,ハクヤ,ところで……<br>お主達は霧の正体を<br>調査してくれるそうだな。,话说回来……<br>汝等愿意调查<br>雾的事来着。
+9,アンチラ/安琪拉,そうなんです、<br>何か手がかりを教えて頂けませんか？,是的没错、<br>有什么线索的话可以告诉我们吗？
+10,ハクヤ,もちろんだ、<br>私にできることなら<br>何でも協力しよう。,这是当人、<br>我能帮的上忙地方<br>请尽管说。
+11,ハクヤ,では……<br>兵を集めて調査隊を結成次第、<br>早速出発するぞ！,那么……<br>集中兵力组成调查队后、<br>就马上出发吧！
+12,３人,<span class='scene-font-4'>おーっ！</span>,喔！</span>
+13,,<span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>ハクヤの調査隊と共に</span><br><span class='scene-font-katari'>屋敷を出発した。</span>,姬塔一行之后、</span><br><span class='scene-font-katari'>跟着白夜的调查队</span><br><span class='scene-font-katari'>从宅邸出发。</span>
+18,,<span class='scene-font-katari'>霧と共に現れる魔物を追って</span><br><span class='scene-font-katari'>発生源を調査する一行は、</span><br><span class='scene-font-katari'>山の頂上で洞窟を発見する。</span>,驱逐伴随着雾出现的魔物</span><br><span class='scene-font-katari'>追查发生源的一行、</span><br><span class='scene-font-katari'>在山顶发现了洞窟。</span>
+19,兵士/士兵,こんな所に洞窟なんて<br>ありませんでしたが……,在这种地方有洞窟什么的<br>以前有过吗……
+20,ハクヤ,ふむ、どうやら最近<br>大きな崖崩れがあって<br>入り口が現れた様だな。,呼姆、看来是最近<br>发生过大的崩落<br>让入口出现了的样子。
+21,アンチラ/安琪拉,ん……洞窟の中から<br>霧が漏れてるみたいだよ。,嗯……洞窟里面<br>好像有些许雾气。
+22,ビィ/碧,こりゃ調べてみる<br>価値はありそうだな！,看来这<br>有调查的价值啊！
+23,ルリア/露莉亚,はい！<br>中に入ってみましょう！,是！<br>进去里面看看吧！
+29,,<span class='scene-font-katari'>怪しげな洞窟に入った一行は、</span><br><span class='scene-font-katari'>最奥の開けた空間に</span><br><span class='scene-font-katari'>小さな祠を発見する。</span>,进入了可以洞窟中的一行、</span><br><span class='scene-font-katari'>在最里面的开阔空间</span><br><span class='scene-font-katari'>发现了一个小小的祀堂。</span>
+30,ルリア/露莉亚,見てください！<br>祠の周りに魔物さんが<br>集まってます！,请看那边！<br>祀堂周围<br>聚集了好多魔物！
+31,魔物,グルルルル……,（咆哮声）
+32,ビィ/碧,おい！<br>魔物がこっちに<br>気づいたみてぇだぜ！,喂！<br>魔物注意到に<br>这边了！
+34,アンチラ/安琪拉,大丈夫！<br>さぁ、姬塔と<br>ボクで思い切り蹴散らすよ！,没关系！<br>来、<br>姬塔和我一起打飞它们了哟！
+35,,<span class='scene-font-katari'>こうして姬塔一行は、</span><br><span class='scene-font-katari'>祠の周囲の魔物と戦うのだった。</span>,就这样姬塔一行、</span><br><span class='scene-font-katari'>和围在祀堂周围的魔物展开了战斗。</span>
+info,,,scene_ult_chr236_ep1_q3_s20
+译者,,,

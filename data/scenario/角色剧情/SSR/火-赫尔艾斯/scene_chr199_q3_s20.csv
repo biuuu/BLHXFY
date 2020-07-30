@@ -1,0 +1,48 @@
+id,name,text,trans
+0-chapter_name,,姫様自慢の近衛隊,公主大人自豪的近卫队
+0-synopsis,,魔物を食い止めたヘルエスは、近くに身を潜めていた子供を助け出す。その時、突然ヘルエスと子供に魔物が襲いかかる。咄嗟に魔物を退けた兵士達は、ヘルエスの身を案じるよりも先に、子供の安否を確認する。その判断を見て、満足そうに微笑むヘルエス。数日後、ヘルエスと兵士達は、それぞれの想いを胸に、再び別れるのだった。,阻止了魔物的赫尔艾斯一行，救出了藏在附近的孩子。这时，魔物突然袭击了赫尔艾斯和孩子。急忙击退魔物的士兵们比起赫尔艾斯，优先确认了孩子的安全。看到它们这样的判断，赫尔艾斯满足地微笑了。几天后，赫尔艾斯和士兵们各自心怀理想，再次告别了。
+0,,<span class='scene-font-katari'>魔物が街を蹂躙する前に</span><br><span class='scene-font-katari'>食い止めた姬塔一行。</span>,<span class='scene-font-katari'>在魔物冲进街道破坏前阻止了它们的姬塔一行人。</span>
+1,,<span class='scene-font-katari'>兵士達は、ヘルエスと一行の戦いに</span><br><span class='scene-font-katari'>改めて目を見張るのだった。</span>,<span class='scene-font-katari'>兵士们看到赫尔艾斯一行的战斗</span><br><span class='scene-font-katari'>再次睁大眼睛感慨着。</span>
+2,近衛兵１,さすがヘルエス様……<br>我々では足元にも及ばないな……,不愧是赫尔艾斯殿下……我们完全无法相比…… 
+3,近衛兵２,ははは……全くだ。<br>兵達の動きがまるで別物だった。,哈哈哈……真的是。士兵们的动作完全就像是别人一样。
+4,ヘルエス/赫尔艾斯,ふっ……<br>決して私だけの力ではありません。<br>普段の訓練の賜物です。,呼……这绝不是我一个人的力量。是平常的训练所赐。
+5,,<span class='scene-font-katari'>一行が談笑していると、</span><br><span class='scene-font-katari'>近くの茂みから子供の</span><br><span class='scene-font-katari'>すすり泣く声が聞こえてくる。</span>,<span class='scene-font-katari'>在一行说笑的时候，</span><br><span class='scene-font-katari'>听到附近的树丛中传来</span><br><span class='scene-font-katari'>孩子低声啜泣的声音。</span>
+6,,<span class='scene-font-katari'>茂みに身を潜めていた</span><br><span class='scene-font-katari'>子供を助け出す一行。</span>,<span class='scene-font-katari'>于是一行人救出了藏身在</span><br><span class='scene-font-katari'>树丛里的孩子。</span>
+7,子供/孩子,ひっぐ……っぐ……<br>怖かったよ……,呜……呜……好可怕啊……
+8,ヘルエス/赫尔艾斯,もう大丈夫…… <br>ひとりで良く耐えましたね。,已经没关系了……你一个人真是好好忍耐了呢。
+9,ヘルエス/赫尔艾斯,さぁ、街へ戻りましょう……,来，一起回到城镇吧……
+10,魔物,グォオオオ！！,咕噢噢噢噢！！
+11,,<span class='scene-font-katari'>ヘルエスが気を緩めた瞬間、</span><br><span class='scene-font-katari'>身を潜めていた魔物が飛び出す。</span>,<span class='scene-font-katari'>在赫尔艾斯放松的瞬间、</span><br><span class='scene-font-katari'>隐藏自己身形的魔物冲了出来。</span>
+12,ヘルエス/赫尔艾斯,っ！？,！？
+13,近衛兵１,危ないっ！,危险！
+17,魔物,グガフ……,咕嘎呼……
+19,,<span class='scene-font-katari'>ヘルエスが槍を構えるより早く、</span><br><span class='scene-font-katari'>銃で魔物を撃ちぬく近衛兵。</span>,<span class='scene-font-katari'>在赫尔艾斯架起枪之前、</span><br><span class='scene-font-katari'>近卫兵就用子弹击退了魔物。</span>
+22,近衛兵２,おい！　怪我は無いか！,喂！没有受伤吧！
+23,子供/孩子,う、うん……<br>ありがとう、お兄ちゃん。,呜、嗯……谢谢你，大哥哥。
+24,,<span class='scene-font-katari'>ヘルエスの身を案じるよりも先に、</span><br><span class='scene-font-katari'>子供の安否を確認する近衛兵。</span>,<span class='scene-font-katari'>近卫兵在确认赫尔艾斯的情况之前、</span><br><span class='scene-font-katari'>先确认了孩子的安全。</span>
+25,ヘルエス/赫尔艾斯,ふっ……,呵……
+26,近衛兵１,あっ……ヘルエス様！<br>申し訳ありません！,啊……赫尔艾斯殿下！非常抱歉！
+27,ヘルエス/赫尔艾斯,……何を謝るのですか？<br>もっと自信を持ちなさい。,……有什么好抱歉的？对自己更有自信一些吧。
+28,近衛兵１,はっ……,是……
+29,ヘルエス/赫尔艾斯,今の判断は正しい……<br>これからも貴様達は、<br>民のことを第一に考えなさい。,刚才的判断是正确的……这之后你们也要把民众的安全放到第一位考虑。
+30,ヘルエス/赫尔艾斯,そうすれば、<br>アイルストの未来は安泰でしょう……,只要这样，艾尔斯特的未来就是和平的吧……
+31,近衛兵２,は、はい！<br>肝に銘じておきます！,是、是！我会铭记于心的！
+32,,<span class='scene-font-katari'>近衛兵の言葉を受けたヘルエスは、</span><br><span class='scene-font-katari'>その日、初めて満足そうに微笑んだ。</span>,<span class='scene-font-katari'>听到了近卫兵的回答的赫尔艾斯、</span><br><span class='scene-font-katari'>露出了那一天第一个满足的微笑。</span>
+36,,<span class='scene-font-katari'>それから数日後。</span><br><span class='scene-font-katari'>再び旅立つ姬塔一行を</span><br><span class='scene-font-katari'>見送りに現れる近衛兵達。</span>,<span class='scene-font-katari'>在那之后又过了几天。</span><br><span class='scene-font-katari'>近卫兵们来为再次出发旅行的</span><br><span class='scene-font-katari'>姬塔一行人送行。</span>
+37,近衛兵１,どうかヘルエス様を<br>よろしくお願いします。,那么，赫尔艾斯殿下就拜托你们了。
+38,ルリア/露莉亚,わかりました！,我知道了！
+39,ルリア/露莉亚,でも……いつも私達の方が<br>助けられてばかりなんですよ。,但是……倒不如说我们是一直被帮助的呢。
+40,近衛兵２,またいつでも、<br><span class='scene-font-place'>アルスター島</span>にお立ち寄り下さい。,将来，也请常常顺道来阿尔斯塔岛。
+41,ビィ/碧,ああ！<br>また今度、稽古できる日を<br>楽しみにしてるぜ！,啊！我们会期待下次训练的日子的！
+42,近衛兵１,ヘルエス様も……<br>どうかお達者で……,赫尔艾斯大人也……请务必保重身体……
+43,ヘルエス/赫尔艾斯,ああ………<br>貴様達もな……,啊……你们也是呢……
+44,,<span class='scene-font-katari'>普段と変わらぬ調子で、</span><br><span class='scene-font-katari'>兵士と言葉を交わすヘルエス。</span>,<span class='scene-font-katari'>赫尔艾斯就像往常一样、</span><br><span class='scene-font-katari'>和士兵们交谈着。</span>
+45,ヘルエス/赫尔艾斯,では……<br>そろそろ参りましょうか。,那么……差不多就送到这里吧。
+49,,<span class='scene-font-katari'>一行を乗せた騎空艇が、</span><br><span class='scene-font-katari'>ゆっくりと離陸し始める。</span>,<span class='scene-font-katari'>一行所乘坐的骑空艇</span><br><span class='scene-font-katari'>开始缓缓驶离阿尔斯塔岛。</span>
+50,,<span class='scene-font-katari'>騎空艇の縁に歩み寄るヘルエスは、</span><br><span class='scene-font-katari'>兵士達に向かって言葉を投げかけた。</span>,<span class='scene-font-katari'>走在骑空艇的船边的赫尔艾斯、</span><br><span class='scene-font-katari'>朝着士兵们这样说道。</span>
+53,ヘルエス/赫尔艾斯,我が自慢の精鋭達よ……<br>アイルストの民を、頼みました。,我自豪的精锐们啊……艾尔斯特的子民，就拜托你们了。
+54,,<span class='scene-font-katari'>短い言葉の内に込められた</span><br><span class='scene-font-katari'>万感の思いを感じ取った兵士達は、</span><br><span class='scene-font-katari'>涙をこらえて敬礼する。</span>,<span class='scene-font-katari'>感受到蕴含在短短的话语里的</span><br><span class='scene-font-katari'>万千思绪的士兵们、</span><br><span class='scene-font-katari'>忍着泪水向赫尔艾斯敬礼。</span>
+55,,<span class='scene-font-katari'>敬礼を返すヘルエスの</span><br><span class='scene-font-katari'>表情は読み取れない。</span>,<span class='scene-font-katari'>虽然看不见回礼的赫尔艾斯的表情。</span>
+56,,<span class='scene-font-katari'>だが、手すりに零れた小さな滴を、</span><br><span class='scene-font-katari'>姬塔は見逃さなかった。</span>,<span class='scene-font-katari'>但是、姬塔并没有看漏那</span><br><span class='scene-font-katari'>滴在栏杆上的小小水珠。</span>
+info,,,scene_chr199_q3_s20
+译者,,,碘

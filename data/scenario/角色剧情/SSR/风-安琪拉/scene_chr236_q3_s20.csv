@@ -1,0 +1,73 @@
+id,name,text,trans
+0-chapter_name,,アンチラの空遊記,安琪拉的空游记
+0-synopsis,,牛鬼王に善戦する姬塔一行であったが、彼の体力は尽きることがない。戦況の不利を感じたアンチラは仙術を用い、分身を増やして攻勢に出る。攪乱で隙を突き金の輪を牛鬼王の頭へ嵌めると呪文を唱え、ついに牛鬼王を大人しくさせる。その後、山の炎も鎮火の兆しを見せ、アンチラと姬塔達との距離も大きく縮まるのだった。,尽管姬塔一行和牛鬼王巧妙的周旋着、但它的体力仿佛无穷无尽。感到战况不利的安琪拉便使用仙术、趋势众多的分身发起攻势。趁着牛鬼王被分身搅乱的瞬间、将金轮嵌套在它的头上、终于使其老实下来。在这之后、包裹的山之炎有了减灭的征兆、安琪拉和姬塔们的距离也大幅缩短。
+0,,<span class='scene-font-katari'>牛鬼王と善戦を繰り広げる一行。</span><br><span class='scene-font-katari'>だがその底なしの体力は、</span><br><span class='scene-font-katari'>一向に尽きる気配が見えない。</span>,尽管一行和牛鬼王巧妙的周旋。</span><br><span class='scene-font-katari'>但是那仿佛无穷无尽的体力、</span><br><span class='scene-font-katari'>完全感觉不到疲劳的征兆。</span>
+1,アンチラ/安琪拉,ぐっ……<br>このままだと体力が持たない……,可恶......<br>这样下去的话这边的体力就先撑不住了......
+2,アンチラ/安琪拉,ねぇ、姬塔。<br>少しだけ時間を稼いでくれないかな？,呐、姬塔。<br>能稍微帮我争取点时间吗？
+3,,<span class='scene-font-katari'>こくりと頷く姬塔は、</span><br><span class='scene-font-katari'>前衛のアンチラとスイッチする。</span>,姬塔点头答应后、</span><br><span class='scene-font-katari'>便和身处前卫的安琪拉交换位置。</span>
+4,アンチラ/安琪拉,これは疲れるから、<br>あんまり気乗りしないけど……,使用这个会感到很累、<br>所以并不怎么想用、但是......
+5,,<span class='scene-font-katari'>アンチラは、</span><br><span class='scene-font-katari'>数本の髪の毛を引き抜くと</span><br><span class='scene-font-katari'>軽く吐息を吹きかける。</span>,安琪拉拔下数根头发、</span><br><span class='scene-font-katari'>轻轻吹口气让头发飞散在空中。</span>
+6,アンチラ/安琪拉,千変万化……<br>身外身の法！,千变万化……<br>身外身之法！
+9,,<span class='scene-font-katari'>忽ち辺り一面が、</span><br><span class='scene-font-katari'>アンチラの分身で</span><br><span class='scene-font-katari'>一杯になる。</span>,忽然周围一片、</span><br><span class='scene-font-katari'>布满了安琪拉的分身。</span>
+10,アンチラ/安琪拉,行くよっ！,要上了！
+11,,<span class='scene-font-katari'>目の前の異様な光景に</span><br><span class='scene-font-katari'>その場にいる者は皆、</span><br><span class='scene-font-katari'>虚を突かれた。</span>,面对眼前异样的光景</span><br><span class='scene-font-katari'>在场的全员、</span><br><span class='scene-font-katari'>都愣住了。</span>
+12,,<span class='scene-font-katari'>その中の一体が、相手の攻撃を</span><br><span class='scene-font-katari'>掻い潜り、自らの頭の輪を</span><br><span class='scene-font-katari'>外して牛鬼王の頭に装着する。</span>,其中的一个分身、一边躲避着攻击</span><br><span class='scene-font-katari'>一边将自己头上的环摘下</span><br><span class='scene-font-katari'>套在了牛鬼王的头上。</span>
+13,アンチラ/安琪拉,金科玉条……縛めろ！<br>緊箍児！,金科玉条……束缚！<br>紧箍儿！
+14,,<span class='scene-font-katari'>牛鬼王の頭を激しく締め付ける</span><br><span class='scene-font-katari'>緊箍児と呼ばれる金の輪。</span>,
+16,,<span class='scene-font-katari'>アンチラが緊箍呪を唱え続けると、</span><br><span class='scene-font-katari'>牛鬼王の体は、みるみる小さくなり</span><br><span class='scene-font-katari'>とうとう人型の姿に戻るのだった。</span>,伴随着安琪拉的紧箍咒、</span><br><span class='scene-font-katari'>牛鬼王的身体慢慢变小</span><br><span class='scene-font-katari'>最终变回了人的形态。</span>
+17,金牛,長兄！？,长兄！？
+18,銀牛,あ、兄ィ～！,大、大哥～！
+19,,<span class='scene-font-katari'>牛鬼王の元へ駆けよる、</span><br><span class='scene-font-katari'>金牛と銀牛。</span>,金牛和银牛、</span><br><span class='scene-font-katari'>赶到了牛鬼王身边。</span>
+20,牛鬼王,兄弟……<br>俺は、いったい……,弟弟……<br>我、到底……
+21,,<span class='scene-font-katari'>肩を抱いて喜ぶ兄弟を</span><br><span class='scene-font-katari'>見届けたアンチラは、</span><br><span class='scene-font-katari'>安堵の表情を浮かべる。</span>,看着抱在一起欢喜的兄弟们</span><br><span class='scene-font-katari'>安琪拉、</span><br><span class='scene-font-katari'>露出了安心的表情。</span>
+22,アンチラ/安琪拉,ははは……<br>やっ、た……ね。,哈哈哈……<br>成功、了……呢。
+23,,<span class='scene-font-katari'>力を使い果たしたアンチラは、</span><br><span class='scene-font-katari'>そのまま姬塔の腕の中で</span><br><span class='scene-font-katari'>意識を失った。</span>,力量用尽的安琪拉、</span><br><span class='scene-font-katari'>就这样在姬塔的手臂中</span><br><span class='scene-font-katari'>失去了意识。</span>
+26,,<span class='scene-font-katari'>それからしばらくの</span><br><span class='scene-font-katari'>時間が流れた。</span>,在这之后</span><br><span class='scene-font-katari'>经过了一段时间。</span>
+27,,<span class='scene-font-katari'>心地よい揺れの中で、</span><br><span class='scene-font-katari'>目を覚ますアンチラ。</span>,在舒适的摇晃下、</span><br><span class='scene-font-katari'>安琪拉醒了过来。</span>
+28,,<span class='scene-font-katari'>目の前には、</span><br><span class='scene-font-katari'>姬塔の温かい</span><br><span class='scene-font-katari'>背中がある。</span>,浮现在眼前的是、</span><br><span class='scene-font-katari'>姬塔温暖的</span><br><span class='scene-font-katari'>后背。</span>
+29,アンチラ/安琪拉,ふぁああ……<br>どのくらい寝てたの？　ボク。,呼啊……<br>我睡了多久呢？
+30,ビィ/碧,まだ騎空艇まで距離があるから、<br>アンチラは眠ってていいぞ！,离骑空艇还有一段距离、<br>安琪拉还可以继续睡会哦！
+31,アンチラ/安琪拉,そうですか……ビィさん。<br>早く起きろって<br>言わないんですね？,这样啊……碧桑。<br>不会说什么<br>快点起床呢？
+32,ビィ/碧,んなっ！？<br>そんなのあったりめぇだろ！,什么！？<br>这是理所当然的吧！
+33,アンチラ/安琪拉,ふふふ……すいません。<br>冗談を言ってみました。,呼呼呼……对不起。<br>刚才只是个玩笑。
+34,ルリア/露莉亚,でも、あの三兄弟さん達、<br>アンチラちゃんにものすごく<br>感謝してましたよ！,但是、那兄弟三人、<br>对安琪拉酱<br>可是非常感谢的呢！
+35,ビィ/碧,これであの辺一帯の炎も、<br>じきに治まるだろうってよ。,而且这一带的火焰、<br>说是过不久也会熄灭哟。
+36,アンチラ/安琪拉,……そうですか。<br>それは良かったです。,
+37,ルリア/露莉亚,……ん？<br>どうか、しましたか？,……嗯？<br>还有、什么问题吗？
+38,ビィ/碧,「テンジク」の手掛かりが<br>何も無かったからか？,关于「天竺」的<br>线索什么都没找到吗？
+39,アンチラ/安琪拉,いえ……<br>それは別にいいんです……,不……<br>关于这到无所谓……
+40,,<span class='scene-font-katari'>不自然に言葉を切ったアンチラは</span><br><span class='scene-font-katari'>俯いたままポツリポツリと話す。</span>,不自然中断话题的安琪拉</span><br><span class='scene-font-katari'>俯着脸慢慢地诉说了起来。</span>
+41,アンチラ/安琪拉,実は、その……<br>ボクはひとりっ子で……,实际上、那个……<br>我其实是独生子……
+42,アンチラ/安琪拉,あんな風に互いを<br>想い合える兄弟が、<br>少し羨ましくて。,对像那样<br>互相关爱的兄弟、<br>稍微有点羡慕。
+43,,<span class='scene-font-katari'>アンチラの寂しげな横顔を</span><br><span class='scene-font-katari'>見たルリアは、ある提案をする。</span>,看着安琪拉寂寞的侧脸</span><br><span class='scene-font-katari'>露莉亚有了个提案。</span>
+44,ルリア/露莉亚,じゃあ私のことを、<br>お姉ちゃんだと思っていいですよ！,那把我、<br>当作姐姐也可以哟！
+45,アンチラ/安琪拉,へっ！？<br>そ、そんな急に言われても……,诶！？<br>就、就算突然这么说……
+46,ルリア/露莉亚,うぅ～！<br>なんでですか！,呜～！<br>为什么不行嘛！
+47,ルリア/露莉亚,姬塔とは、<br>いつも仲良さそうにしてるのに、<br>なんかズルいです！,明明和姬塔、<br>平时就关系很好的样子、<br>总觉的好狡猾！
+48,アンチラ/安琪拉,そ、そんなことありません！,才、才没有这回事！
+49,アンチラ/安琪拉,ボ、ボクは、<br>姬塔と同じように、<br>皆さんと接しているつもりです！,我、我对和、<br>姬塔的态度一样、<br>对待着大家！
+59,ルリア/露莉亚,だったら……姬塔を<br>試しにお姉ちゃんって<br>呼んでみて下さい！,那样的话……就请试着<br>叫姬塔<br>一声姐姐！
+60,アンチラ/安琪拉,なっ！？<br>なんでそうなるんですか！,什！？<br>为什么会变成这样啊！
+61,ルリア/露莉亚,変に意識していなかったら、<br>普通に呼べるはずです！　さぁ！,没有特别在意的话、<br>就能普通的说出来！　快！
+62,アンチラ/安琪拉,……今日のルリアさん、<br>何か変です。意味が分かりません！,……今天的露莉亚小姐、<br>总觉得很奇怪。意义不明！
+63,ルリア/露莉亚,そうやってムキになるところが<br>ますます悔しいです……,像这样固执的地方<br>更加觉得不甘心了……
+64,アンチラ/安琪拉,わかりました！<br>呼べば……呼べばいいんでしょ！,我知道了！<br>叫……叫就可以了对吧！
+65,ルリア/露莉亚,はい！<br>お願いします！,是！<br>请多指教！
+66,,<span class='scene-font-katari'>ごくりと大きく喉を鳴らした</span><br><span class='scene-font-katari'>アンチラは、恐る恐る</span><br><span class='scene-font-katari'>その言葉を口にする。</span>,伴随着清晰的吞咽声</span><br><span class='scene-font-katari'>安琪拉小心翼翼</span><br><span class='scene-font-katari'>的说出口。</span>
+67,アンチラ/安琪拉,お、お姉ちゃん……,姐、姐姐……
+68,アンチラ/安琪拉,わーっ！<br>やっぱり変です！<br>無理です！,哇ー！<br>果然很奇怪！<br>不可能啊！
+69,ルリア/露莉亚,そんなことないです！<br>今の感じ、すごく良かったです！,才没有这回事！<br>刚才的感觉十分好呢！
+70,ルリア/露莉亚,さぁ、もう一回お願いします！,来、请再来一次！
+71,アンチラ/安琪拉,だから無理です！,所以说不可能了！
+72,,<span class='scene-font-katari'>アンチラとルリアの</span><br><span class='scene-font-katari'>やりとりを眺めていた</span><br><span class='scene-font-katari'>ビィと姬塔は苦笑する。</span>,看着安琪拉和露莉亚</span><br><span class='scene-font-katari'>对话的样子</span><br><span class='scene-font-katari'>碧和姬塔露出了苦笑。</span>
+73,ビィ/碧,やれやれ……<br>二人が気付いてねぇだけで……,呀累呀累……<br>只是两个人自己没有注意到而已……
+74,ビィ/碧,どっからどう見ても<br>もう立派な姉妹じゃねぇか。<br>なぁ姬塔？,不管从哪来看<br>不已经是很好的姐妹了么。<br>对吧姬塔？
+75,,<span class='scene-font-katari'>ビィの言葉を受けて、</span><br><span class='scene-font-katari'>微笑む姬塔。</span>,听着碧的话、</span><br><span class='scene-font-katari'>姬塔露出了微笑。</span>
+76,アンチラ/安琪拉,二人とも！<br>何笑ってるんですか！,那边的两人！<br>在笑些什么啊！
+77,アンチラ/安琪拉,早くルリアさんの<br>暴走を止めて下さい！,请快点阻止<br>露莉亚小姐的暴走！
+78,ルリア/露莉亚,待ってください！<br>次は私の番ですよ！,请等一下！<br>这回轮到我了哟！
+79,ルリア/露莉亚,ほら！<br>ルリアお姉ちゃん！　です！,来！<br>露莉亚姐姐！　哦！
+80,,<span class='scene-font-katari'>その日から、</span><br><span class='scene-font-katari'>アンチラとルリアの距離が</span><br><span class='scene-font-katari'>以前よりぐんと近づいたという。</span>,从那天开始、</span><br><span class='scene-font-katari'>安琪拉和露莉亚直接的距离</span><br><span class='scene-font-katari'>比起之前大幅缩短了。</span>
+81,,<span class='scene-font-katari'>こうして、アンチラを取り巻く</span><br><span class='scene-font-katari'>関係性も、旅を続けるとともに</span><br><span class='scene-font-katari'>少しずつ変化していくのであった。</span>,就像这样、加上安琪拉</span><br><span class='scene-font-katari'>一行之间的关系性，随着旅行的继续</span><br><span class='scene-font-katari'>也在一点点变化着。</span>
+info,,,scene_chr236_q3_s20
+译者,,,

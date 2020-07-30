@@ -1,0 +1,49 @@
+id,name,text,trans
+0-chapter_name,,続・アンチラの空遊記,续・安琪拉 的空游记
+0-synopsis,,姬塔一行はテンジクに至る手がかりを求めて、高僧・サンゾーとご先祖様が通った旅路をアンチラと共に辿っていた。道中、アンチラはわたあめに舌鼓を打ちながら、ご先祖様であるゴクウについて語る。その時、一行は魔物に襲われる女性に遭遇し、女性を助けるため魔物を迎え撃つ。,姬塔一行为了寻求抵达天竺的线索、来到了高僧・三藏和先祖大人一同经过的旅路。途中、安琪拉一边满嘴塞满了棉花糖、一边降速着关于先祖大人悟空的故事。就在这时、一行遭遇了被魔物袭击的女性、为了救助其而对魔物进行了迎击。
+1,,<span class='scene-font-katari'>アンチラが姬塔達の</span><br><span class='scene-font-katari'>騎空団に加わってから、</span><br><span class='scene-font-katari'>しばらくの時が流れた。</span>,自从安琪拉加入姬塔们的</span><br><span class='scene-font-katari'>骑空团以来、</span><br><span class='scene-font-katari'>时间流逝。</span>
+2,,<span class='scene-font-katari'>テンジクに至る手がかりを求めて、</span><br><span class='scene-font-katari'>高僧・サンゾー様とご先祖様が通った</span><br><span class='scene-font-katari'>かつての旅路を辿る一行。</span>,为了寻求抵达天竺的线索、</span><br><span class='scene-font-katari'>一行来到了高僧・三藏大人和先祖大人</span><br><span class='scene-font-katari'>经过的旅路。</span>
+4,アンチラ/安琪拉,もふもふ～もふもふ～♪<br>わたあめもふもふ～♪,软绵绵～软绵绵～♪<br>棉花糖软绵绵～♪
+5,,<span class='scene-font-katari'>ご機嫌なアンチラは姬塔に</span><br><span class='scene-font-katari'>尻尾でぶら下がりながら、道中の</span><br><span class='scene-font-katari'>屋台で買ったわたあめを食べている。</span>,心情高涨的安琪拉</span><br><span class='scene-font-katari'>一边用尾巴倒吊在姬塔上、</span><br><span class='scene-font-katari'>一边吃着途中摊台上买的棉花糖。</span>
+6,アンチラ/安琪拉,はむっ……あむあむ……,哈姆……哈姆哈姆……
+7,アンチラ/安琪拉,んん～、もふもふふわふわ<br>甘くておいしぃ～♪,嗯嗯～、软绵绵轻飘飘<br>甜甜的好好吃～♪
+8,ルリア/露莉亚,アンチラちゃんって<br>本当に美味しそうにわたあめを<br>食べますよね。,安琪拉酱<br>真的吃的很美味<br>的样子呢。
+9,ビィ/碧,でも、あんなに大好きなわたあめなのに<br>さっきからちびちび慎重に食べてるな。,但是、明明是那样最喜欢吃的棉花糖<br>刚才开始却一点点吃的十分小心。
+10,アンチラ/安琪拉,そうだよ～！　<br>だって、また次いつわたあめさんに<br>巡り合えるか分からないですからね～！,是的哟～！　<br>因为、下次不知道什么时候<br>才能再和棉花糖相遇了呐～！
+11,,<span class='scene-font-katari'>その時、わたあめをちょうど</span><br><span class='scene-font-katari'>口に入れようとするアンチラと</span><br><span class='scene-font-katari'>姬塔の目があった。</span>,这时、刚把一点棉花糖</span><br><span class='scene-font-katari'>放入口中的安琪拉和</span><br><span class='scene-font-katari'>姬塔对上了视线。</span>
+12,アンチラ/安琪拉,あれ……もしかして<br>姬塔も欲しいの？,啊嘞……难道说<br>姬塔也想要吗？
+12-sel1_txt,,<span class='scene-font-katari'>欲しい！</span>,想要！</span>
+12-sel2_txt,,<span class='scene-font-katari'>べ、別に……</span>,并、并不……</span>
+14,アンチラ/安琪拉,わわっ！　気付かなくてごめんね！<br>おわびにボクがアーンしてあげるね！,哇哇！　没注意到真是对不起！<br>作为补偿我来喂给你吃！
+15,アンチラ/安琪拉,ん～？　何か我慢してない？<br>ホントのホントに欲しくないの～？,嗯～？　没有在逞强吧？<br>真的真的不想要么～？
+16,アンチラ/安琪拉,ねーねー<br>姬塔もボクと一緒に<br>わたあめ同好会に入ろうよ～？,呐ー呐ー<br>姬塔也和我一起加入<br>棉花糖同好会吧～？
+17,ビィ/碧,あの二人って<br>本当に仲がいいよな～,那两人<br>关系真的很好呢～
+18,ルリア/露莉亚,ふふっ……<br>アンチラちゃんのご先祖様達も、<br>こんな風に旅してたんですかね～,呼呼……<br>安琪拉酱的先祖大人们也像这样、<br>旅行着吗～
+19,アンチラ/安琪拉,あはは、<br>サンゾー様とゴクウ様達も<br>わたあめが好きだったりしたのかな～,啊哈哈、<br>三藏大人和悟空大人们也<br>喜欢棉花糖吗～
+20,ビィ/碧,……ん？　<br>そのゴクウって、誰だ？,……嗯？　<br>那个悟空、是谁？
+21,アンチラ/安琪拉,あれ？　ゴクウ様って<br>ボクのご先祖様にあたる人なんだけど、<br>言ってなかったっけ？,啊嘞？　悟空大人<br>就是我的先祖大人来着、<br>没说过么？
+22,ルリア/露莉亚,いえ、ご先祖様の<br>お名前は初めて聞きました！,不、先祖大人<br>的名字是第一次听到！
+23,ビィ/碧,そういや、<br>アンチラのご先祖様達のこと<br>詳しく知らねぇな。,说起来、<br>还没详细听过安琪拉先祖大人的事呢<br>安琪拉先祖大人的事呢。
+24,アンチラ/安琪拉,そっかー<br>んじゃ改めて話すね！,这样啊ー<br>那现在说说吧！
+25,,<span class='scene-font-katari'>そう言うとアンチラは、</span><br><span class='scene-font-katari'>姬塔によじ登って</span><br><span class='scene-font-katari'>姿勢を正して話し始める。</span>,一边这么说着、</span><br><span class='scene-font-katari'>安琪拉爬上姬塔</span><br><span class='scene-font-katari'>端正姿势后开始了讲述。</span>
+30,アンチラ/安琪拉,その昔、今から数百年程前、<br>覇空戦争で荒んだ世の中に<br>心を痛めたカンノン様は──,在很久以前、距今数百年前、<br>对因为霸空战争荒乱的世间<br>感到心痛的观音大人──
+31,アンチラ/安琪拉,世界に一筋の光明をもたらすため<br>サンゾー様とそのお供のゴクウ様、<br>ハッカイ様、ゴジョウ様のお三方に──,为了给世界带来一丝光明<br>三藏大人和其陪同名为悟空大人、<br>八戒大人、悟净大人三位──
+32,アンチラ/安琪拉,西の天の果てにあるとされる<br>聖地・テンジクへ取経の旅に<br>出る様に命じたそうなんです。,命令其前往西天之尽头存在的<br>圣地・天竺<br>踏上取经之旅。
+33,ビィ/碧,へぇ～、なんだかスゲェ旅だったんだな！,嘿～、总觉得是很厉害的旅程呢！
+34,ルリア/露莉亚,アンチラちゃんのご先祖様達のことを<br>知ることができて嬉しいです！,能知道安琪拉酱先祖们的事<br>真是很开心呢！
+35,アンチラ/安琪拉,へへ～、ホントに！,嘿嘿～、真的吗！
+36,アンチラ/安琪拉,こちらこそ興味を持って<br>もらえて嬉しいな～！,这边才是<br>能有兴趣很开心呢～！
+37,,<span class='scene-font-katari'>アンチラと姬塔達は、</span><br><span class='scene-font-katari'>和気藹々と会話しながら</span><br><span class='scene-font-katari'>橋を渡って山岳地帯に入る。</span>,安琪拉和姬塔一行、</span><br><span class='scene-font-katari'>一边这样悠闲地对话着</span><br><span class='scene-font-katari'>一边渡过桥进入了山岳地带。</span>
+42,,<span class='scene-font-katari'>山岳地帯に入った一行の行く手に</span><br><span class='scene-font-katari'>突然、深い霧が立ち込め始めた。</span>,一行刚刚进入山岳地带</span><br><span class='scene-font-katari'>突然、周围开始浮现出浓雾。</span>
+43,アンチラ/安琪拉,なんだか雲行きが怪しく<br>なってきましたね。,总觉得周围有种<br>可疑的气氛呢。
+44,ルリア/露莉亚,なんだか気味が悪いです。,感觉很不舒服。
+45,ビィ/碧,いや～な予感がするよな……,有种不好～的预感……
+46,女性,<span class='scene-font-4'>きゃ～っ！</span>,啊～！</span>
+48,,<span class='scene-font-katari'>悲鳴と共に、霧の中から</span><br><span class='scene-font-katari'>女性が逃げ出してくる。</span>,伴随着悲鸣、女性从雾中</span><br><span class='scene-font-katari'>逃了出来。</span>
+49,ルリア/露莉亚,どうしたんですか！,怎么了吗！
+50,女性,ま、魔物が……,魔、魔物……
+51,,<span class='scene-font-katari'>女性が逃げてきた霧の中で、</span><br><span class='scene-font-katari'>魔物の瞳が怪しく光る。</span>,从女性逃出的雾中、</span><br><span class='scene-font-katari'>魔物的眼睛发出异样的光芒。</span>
+52,ビィ/碧,おい、来るぞ！,喂、要来了！
+53,アンチラ/安琪拉,大丈夫、安心して。<br>行くよ！　姬塔！,没关系、放心吧。<br>要上了！　姬塔！
+info,,,scene_ult_chr236_ep1_q1_s20
+译者,,,

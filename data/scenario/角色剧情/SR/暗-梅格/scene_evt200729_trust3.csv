@@ -1,0 +1,38 @@
+id,name,text,trans
+1,メグ,私、平凡でなんの取り柄もないけど、<br>一度思い込んだら<br>突っ走る傾向があるみたいで……,我那么平凡，是完全没有什么优点，<br>但是我好像有一种只要一下决心，就会勇往直前的执着……
+2,メグ,小さい頃、<br><span class='scene-font-place'>アウギュステ</span>に行ったことがある人の<br>お話を聞いたりして本物に憧れたの。,在我小的时候，<br>听到去过<span class='scene-font-place'>奥古斯特</span>的人的见闻后，就一直憧憬着那里了。
+3,メグ,その時の憧れを持ったまま成長して<br>こうして<span class='scene-font-place'>アウギュステ</span>に来たんだ。,那时的憧憬就一直陪伴着我的成长<br>然后就像这样，我来到了<span class='scene-font-place'>奥古斯特</span>。
+4,メグ,そしていろんなことがあった結果、<br>今度はその<span class='scene-font-place'>アウギュステ</span>を<br>守りたいって思うようになって……,然后经历了各种事情后，<br>就想着，这次我要保护那个<span class='scene-font-place'>奥古斯特</span>才行……
+5,メグ,急いで地元に帰って<br>通信教育の格闘術に打ち込んだり、<br>魔物をしばき倒したり……,然后我马上就赶回了老家<br>专心上起了格斗术的网课，<br>然后不断地打倒这魔物……
+6,メグ,私なりに努力してみたんだけど<br>また突っ走っちゃったんだね……<br>今回はなにも起きなくて……,我只是想尽我所能努力一番<br>但没想到又陷入了那股执着劲里了……<br>不过这次是什么都没发生……
+7,メグ,ちょっと拍子抜けっていうか、<br>とまどい気味なんだ。,可能是感觉有点扫兴呢，<br>不过应该还是说沮丧吧。
+7-sel1_txt,,<span class='scene-font-katari'>努力は無駄じゃない</span>,<span class='scene-font-katari'>你的努力并不是徒劳</span>
+7-sel2_txt,,<span class='scene-font-katari'>次は起きるかも</span>,<span class='scene-font-katari'>说不定下次会发生些什么</span>
+7-sel3_txt,,<span class='scene-font-katari'>どうしたい？</span>,<span class='scene-font-katari'>你想怎么办？</span>
+9,メグ,ん～そっか……<br>確かにそうかも。,嗯～是吗……<br>说不定是你说的那样呢。
+10,メグ,<span class='scene-font-place'>アウギュステ</span>は<br>ここにあるわけだし、<br>また夏は来るもんね！,毕竟<span class='scene-font-place'>奥古斯特</span>就一直在这，<br>夏天还是会再次来临呢！
+11,メグ,ありがとう。<br>まだまだがんばれるよ。<br>なんだかやる気が出てきた。,谢谢你。<br>我还能继续加油呢。<br>感觉我的干劲又满上来了。
+12,メグ,あとはもっと強くなれるように<br>修行を積むだけだね。,下面就是要为了变得更强的各种修行了呢。
+13,メグ,姬塔に聞きたいんだけど、<br>強くなるためには<br>これからどうしたらいいと思う？,姬塔，我想问问你，<br>为了要变强的话<br>你觉得我接下来应该怎么做才好呢？
+14,,<span class='scene-font-katari'>姬塔は少し考え、</span><br><span class='scene-font-katari'>思いついたことを</span><br><span class='scene-font-katari'>メグに提案してみた。</span>,<span class='scene-font-katari'>姬塔稍作思考后，</span><br><span class='scene-font-katari'>将想到的提案</span><br><span class='scene-font-katari'>告诉了梅格。</span>
+15,メグ,え？<br>私を騎空団に！？,诶？<br>要我加入骑空团！？
+16,,<span class='scene-font-katari'>姬塔の提案を聞くと、</span><br><span class='scene-font-katari'>メグは目を丸くするのだった。</span>,<span class='scene-font-katari'>听完了姬塔的提案，</span><br><span class='scene-font-katari'>梅格瞪大了双眼。</span>,
+18,,<span class='scene-font-spword'>メグの信頼度が100あがった！</span>,<span class='scene-font-spword'>梅格的信赖度上升了100！！</span>
+20,メグ,そっか……確かに……,是吗……确实啊……
+21,メグ,なんだか想像したら<br>早くも緊張してきたよ。,不知道为什么想象了一下<br>就已经紧张看了起来呢。
+22,メグ,次はなにが現れるんだろう……<br>なにが現れても対応できるように<br>もっともっとがんばらないと……,之后可能会出现些什么吧……<br>为了应对之后可能会出现的东西<br>我得更加更加努力才行……
+23,メグ,でもこれから<br>どんな修行を積めばいいのかな……,但是这接下来我该进行些什么修行才好呢……
+24,,<span class='scene-font-katari'>姬塔はメグに</span><br><span class='scene-font-katari'>ある提案をしてみた。</span>,<span class='scene-font-katari'>姬塔将某个提案</span><br><span class='scene-font-katari'>告诉了梅格。</span>
+25,メグ,え？<br>騎空団に興味ないかって……？,诶？<br>你问我对骑空团有没兴趣……？
+26,,<span class='scene-font-katari'>姬塔の提案を聞くと、</span><br><span class='scene-font-katari'>メグは目を丸くするのだった。</span>,<span class='scene-font-katari'>听完了姬塔的提案，</span><br><span class='scene-font-katari'>梅格瞪大了双眼。</span>
+28,,<span class='scene-font-spword'>メグの信頼度が75あがった！</span>,<span class='scene-font-spword'>梅格的信赖度上升了75！！</span>
+30,メグ,<span class='scene-font-place'>アウギュステ</span>を守りたい<br>っていうこと以外に<br>私にはなにもないかな……,除了想守护<span class='scene-font-place'>奥古斯特</span>之外的话<br>我是不是就没什么欲求了呢……
+31,メグ,あはは……<br>昔から特技とか夢とか、<br>そういうのはないんだ。,啊哈哈……<br>从以前开始，特技啊，梦想啊什么的，<br>我一直都没有呢。
+32,メグ,とにかく敵が現れた時のために<br>修行をがんばらないとね。,总之，为了下次敌人的出现，<br>我得加紧训练才行呢。
+33,メグ,でも次はどんな風に<br>鍛えたらいいか<br>迷ってるんだけど……,但是这下次该怎么锻炼呢<br>我真是一头雾水了……
+34,,<span class='scene-font-katari'>考え込むメグに対し、</span><br><span class='scene-font-katari'>姬塔はある提案をしてみた。</span>,<span class='scene-font-katari'>看着陷入沉思的梅格，</span><br><span class='scene-font-katari'>姬塔对她说出了自己的提案。</span>,
+35,メグ,え？<br>私が……騎空団に……？,诶？<br>我来……加入骑空团……？
+36,,<span class='scene-font-katari'>姬塔の提案を聞くと、</span><br><span class='scene-font-katari'>メグは目を丸くするのだった。</span>,<span class='scene-font-katari'>听完了姬塔的提案，</span><br><span class='scene-font-katari'>梅格瞪大了双眼。</span>
+38,,<span class='scene-font-spword'>メグの信頼度が50あがった！</span>,<span class='scene-font-spword'>梅格的信赖度上升了50！！</span>
+info,,,scene_evt200729_trust3
+译者,,,Van

@@ -1,0 +1,48 @@
+id,name,text,trans
+0-chapter_name,,アンチラの空遊記,安琪拉的空游记
+0-synopsis,,魔物を成敗すると、ふたりは再び荒くれ者の姿へと戻る。姬塔達の実力を確認した彼らは態度を一変させ、今度は一行に力を貸して欲しいと願い出る。聞けば、ふたりは、兄である牛鬼王の魔力が突如暴走してしまったのを止められず、これ以上犠牲者が増えないよう見張っていたのだった。姬塔達は、襲い来る猛り狂った牛鬼王に戦いを挑む。,在击败魔物之后、两人又恢复了流氓的样子。认可了姬塔等人的实力之后两人的态度随之一变、这次则希望能借助一行人的力量。据说、两人无法阻止身为兄长的牛鬼王的魔力暴走、为了在此之上不再出现新的牺牲者而在这把风。姬塔一行、向袭来的凶猛狂暴的牛鬼王发起了挑战。
+0,,<span class='scene-font-katari'>戦闘後、再び人型に戻って、</span><br><span class='scene-font-katari'>大人しく降参する、金牛と銀牛。</span>,战斗后、金牛和银牛再次恢复人型、</span><br><span class='scene-font-katari'>老老实实的投降了。</span>
+1,金牛,こ、こいつら……<br>今までの騎空士とはけた違いに強ェ……,这、这些家伙......<br>和至今为止的骑空士完全不是一个等级的强......
+2,銀牛,ああ……<br>こいつらなら、兄ィを止められるかもな。,
+3,アンチラ/安琪拉,何か事情があるのなら、<br>話してくれませんか？,有什么私情的话、<br>能说给我们听吗？
+4,,<span class='scene-font-katari'>顔を見合わせる金牛と銀牛は、</span><br><span class='scene-font-katari'>態度を一転させて、その力を</span><br><span class='scene-font-katari'>貸して欲しいと頭を下げる。</span>,面面相觑的金牛和银牛、</span><br><span class='scene-font-katari'>态度一变、</span><br><span class='scene-font-katari'>低下头来请求帮助。</span>
+5,,<span class='scene-font-katari'>一行は、森の奥を目指す道すがら、</span><br><span class='scene-font-katari'>二人の話に耳を傾けるのだった。</span>,一行一边朝着森林深处前进、</span><br><span class='scene-font-katari'>一边听着两人的理由。</span>
+10,金牛,俺達は、元々三兄弟だったんだが、<br>数か月前に長兄の牛鬼王の魔力が<br>突然暴走しちまって。,我们原本是三兄弟、<br>数月前长兄的牛鬼王<br>魔力突然暴走。
+11,銀牛,この山の惨状は、暴走した兄ィの<br>吐き出す暴力が原因って訳だ……,座山的惨状、原因就是<br>暴走的大哥爆发而出的的魔力......
+12,アンチラ/安琪拉,そうだったんですね。,原来是这么回事啊。
+13,金牛,長兄は、俺達の中でも別格の力を<br>持っていたからな、止めようにも<br>俺達の力だけじゃ……,长兄就算在我们之中也拥有这破格的力量<br>就算想要阻止<br>但只靠我们的话......
+14,銀牛,だから、せめてこれ以上の<br>犠牲者が出ない様にと思って、<br>俺達がここで見張ってたんだ。,所以至少为了<br>在这之上不再出现新的牺牲者、<br>我们才在这里把风。
+15,金牛,頼む。お前達の力で……<br>長兄を楽にしてやってはくれないか？,拜托了。能借用你们的力量......<br>让长兄解放吗？
+16,アンチラ/安琪拉,……それは。,......这。
+17,,<span class='scene-font-katari'>必死に悩み抜いたであろう、</span><br><span class='scene-font-katari'>金牛と銀牛の導き出した答えに</span><br><span class='scene-font-katari'>言葉を詰まらせるアンチラ。</span>,应该是拼死的烦恼之后得出的结论吧、</span><br><span class='scene-font-katari'>看着这样的金牛和银牛</span><br><span class='scene-font-katari'>安琪拉想不到能说些什么。</span>
+18,アンチラ/安琪拉,姬塔は、<br>どう思う？,姬塔的话、<br>怎么认为？
+18-sel1_txt,,<span class='scene-font-katari'>兄弟で決めた結果なら</span>,如果这是兄弟之间决定的事的话
+18-sel2_txt,,<span class='scene-font-katari'>何かいい方法が……</span>,一定有其他什么更好的方法......
+19,アンチラ/安琪拉,だね……<br>ボク達が口出しできる問題じゃない。,是啊.......<br>这不是我们能插嘴的问题。
+20,アンチラ/安琪拉,ふふっ。<br>姬塔はいつもそうだね。,呼呼。<br>姬塔一直以来都是这样的人啊。
+21,アンチラ/安琪拉,最後まで諦めないで、<br>考えよう。,直到最后都不放弃、<br>好好思考吧。
+23,,<span class='scene-font-katari'>その時、凄まじい熱波とともに</span><br><span class='scene-font-katari'>大地を揺るがす咆哮が響き渡る。</span>,就在这时、伴随着强劲的热浪</span><br><span class='scene-font-katari'>响起了让大地震撼的咆哮。</span>
+24,金牛,ぐっ……長兄……<br>すっかり我を失ってる。,可恶.......长兄......<br>已经完全失去自我了吗。
+25,ビィ/碧,す、すげぇ迫力だな……,好、好强的魄力啊......
+26,銀牛,俺達もやってやる！<br>お前達は兄ィを頼んだぞ！,我们也会上的！<br>大哥就交给你们了！
+27,牛鬼王,グルァアアアア！,（咆哮声）
+28,,<span class='scene-font-katari'>眼前の巨大な暴君に怯むことなく、</span><br><span class='scene-font-katari'>姬塔と視線を交わす</span><br><span class='scene-font-katari'>アンチラ。</span>,毫不惧怕眼前庞大的暴君</span><br><span class='scene-font-katari'>安琪拉和姬塔互相交换视线。</span>
+29,アンチラ/安琪拉,……初手はボクに任せて。,......先制就交给我吧。
+30,,<span class='scene-font-katari'>アンチラの身を案じる</span><br><span class='scene-font-katari'>姬塔。</span>,担心着安琪拉安危的姬塔。</span>
+31,アンチラ/安琪拉,大丈夫。<br>ボクにあいつの攻撃は当たらない。,没关系。<br>那家伙的攻击是打不到我的。
+32,,<span class='scene-font-katari'>悪戯っぽく微笑む、</span><br><span class='scene-font-katari'>アンチラ。</span>,安琪拉一边说着、</span><br><span class='scene-font-katari'>一边露出了恶作剧般的微笑。</span>
+33,アンチラ/安琪拉,ボクが攻撃を引きつけるから、<br>姬塔は頃合いを見て<br>キツイ一発を頼んだよ！,我来牵制住它的攻击、<br>姬塔就看准时机<br>给它来上强劲的一击吧！
+34,ルリア/露莉亚,アンチラちゃん、<br>大丈夫ですか……？,安琪拉酱、<br>没关系吗......?
+35,牛鬼王,グルァアアア！,（咆哮声）
+37,アンチラ/安琪拉,っ！？,！？
+40,,<span class='scene-font-katari'>牛鬼王の攻撃が迫りくる。</span><br><span class='scene-font-katari'>ルリアの身柄を抱えたまま、</span><br><span class='scene-font-katari'>風の如く移動するアンチラ。</span>,牛鬼王发出了沉重的一击。</span><br><span class='scene-font-katari'>安琪拉一边抱着露莉亚、</span><br><span class='scene-font-katari'>一边像风一样移动。</span>
+41,ルリア/露莉亚,あ、ありがとう……,谢、谢谢......
+42,アンチラ/安琪拉,ふぃ～<br>危ない危ない。,呼～<br>好危险好危险。
+43,アンチラ/安琪拉,えと……ルリア、さん。<br>後はボク達に任せて下さい。,那个......露莉亚、小姐。<br>接下来请交给我们吧。
+44,,<span class='scene-font-katari'>身の丈ほどの如意棒で</span><br><span class='scene-font-katari'>勢いよく風を切った後、</span><br><span class='scene-font-katari'>牛鬼王に向けるアンチラ。</span>,用如同身长一般的如意棒</span><br><span class='scene-font-katari'>气势十足的划开空气、</span><br><span class='scene-font-katari'>安琪拉冲向了牛鬼王</span>
+46,アンチラ/安琪拉,おい……<br>オマエの相手はこのボクだろ？,喂......<br>你的对手是我才对吧？
+47,アンチラ/安琪拉,斉天大聖の意志を<br>継ぐこのボクが……<br>喜んで相手になるよ。,继承了齐天大圣意志的我......<br>乐意做你的对手。
+48,,<span class='scene-font-katari'>微かな怒りの色を浮かべるが、</span><br><span class='scene-font-katari'>すぐに冷静さを取り戻すアンチラ。</span>,虽然微微露出了些许愤怒的感觉、</span><br><span class='scene-font-katari'>但安琪拉马上取回了冷静。</span>
+49,アンチラ/安琪拉,さぁ……<br>気を取り直して行くよ！,撒......<br>重整旗鼓上了！
+info,,,scene_chr236_q3_s10
+译者,,,

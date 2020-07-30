@@ -1,0 +1,46 @@
+id,name,text,trans
+0-chapter_name,,続・アンチラの空遊記,续・安琪拉的空游记
+0-synopsis,,一行は魔物を退けて祠を調べようとするが、祠には結界が張られていた。ハクヤによると、魔王が魔物を呼び寄せるために使った祠の話が伝わっているという。アンチラの力に結界が反応したため、アンチラが咄嗟の判断で如意金箍棒で祠を叩くと、爆風が巻き起こり、祠が消滅する。霧も消え、一行は喜びを分かち合うが、それが更なる事件の引き金になるとは知る由もないのだった。,一行击退魔物后开始调查祀堂、发现祀堂张开着结界。据白夜所说、创说魔王为了使役魔物而使用祀堂。安琪拉的力量和祀堂产生反应、情急之下的判断便用如意金箍棒打向了祀堂、伴随着一阵爆风祀堂被破坏。雾气消散、一行人互相分享喜悦、却不知这成为了更大事件的导火索。
+2,,<span class='scene-font-katari'>魔物を追い払った姬塔一行は、</span><br><span class='scene-font-katari'>改めて祠を詳細に調べようとする。</span>,击退魔物的姬塔一行、</span><br><span class='scene-font-katari'>重新开展了对祀堂的调查。</span>
+3,,<span class='scene-font-katari'>だが祠は不思議な結界で守られており、</span><br><span class='scene-font-katari'>一定の距離以上は近づけない。</span>,但是祀堂被不可思议的结界守护着、</span><br><span class='scene-font-katari'>一定的距离以上便接近不了。</span>
+4,アンチラ/安琪拉,この結界は……一体。,这个结界……到底是。
+5,ハクヤ,そう言えば、言い伝えの中に<br>魔王が魔物を呼び寄せるために<br>使った祠の話があったな。,说起来、传说中<br>魔王为了使役魔物<br>而使用祀堂。
+6,ビィ/碧,確かに、よく見ると<br>祠から霧が漏れてるな。,确实、仔细看看<br>祀堂里面有雾渗透了出来。
+7,ルリア/露莉亚,でも、調べたくても<br>近づけないですよね。,但是、就算想要调查<br>也接近不了呢。
+8,ハクヤ,ああ、何とかしてあの祠に<br>干渉できればいいのだが……,啊、能做点什么<br>干涉那个祀堂就好了……
+9,アンチラ/安琪拉,ふむ……,呼姆……
+10,,<span class='scene-font-katari'>アンチラはひとり思案気な</span><br><span class='scene-font-katari'>顔で祠を見つめている。</span>,安琪拉一个人在思考</span><br><span class='scene-font-katari'>着什么的样子紧紧注视祀堂。</span>
+11,アンチラ/安琪拉,ハクヤさん……<br>もう少し言い伝えを詳しく<br>知っている人はいないんですか？,白夜小姐……<br>没有对传说く<br>了解更深的人了吗？
+12,ハクヤ,この村では私が一番詳しいはずだが、<br>何か気になることでも？,在这个村子里我应该是了解最详细的才对、<br>有什么在意的事吗？
+13,アンチラ/安琪拉,いえ……<br>事前に出来る限りの情報を<br>得ておきたかったもので。,不……<br>想要在事前<br>尽可能多地获取情报。
+14,アンチラ/安琪拉,まぁ仕方ないですね。<br>ひとまずボクが近づいて<br>調べてみてもいいですか？,嘛没办法了。<br>总之我先接近<br>调查看看可以吗？
+15,ハクヤ,もちろんだ！<br>自由に調べてみてくれ！,那当然！<br>请自由的调查看看！
+16,,<span class='scene-font-katari'>姬塔一行とハクヤは</span><br><span class='scene-font-katari'>慎重に祠を調べ始める。</span>,姬塔一行和白夜</span><br><span class='scene-font-katari'>开始慎重地调查起祀堂。</span>
+21,ビィ/碧,うーん……<br>やっぱりオイラは<br>近づけねぇな……,嗯ー……<br>果然我也<br>接近不了……
+22,ルリア/露莉亚,私も同じです……,我也一样……
+23,アンチラ/安琪拉,ボクも……<br>ん……待ってください！,我也……<br>嗯……请等等！
+26,,<span class='scene-font-katari'>アンチラが仙術に使う気を練ると、</span><br><span class='scene-font-katari'>結界が微かに反応し始めた。</span>,安琪拉为了使用仙术而凝练起气、</span><br><span class='scene-font-katari'>结界微微产生了反应。</span>
+27,アンチラ/安琪拉,ん……？　<br>ボクの力に結界が反応してるのかな？,嗯……？　<br>我的力量和结界产生反应了？
+28,,<span class='scene-font-katari'>その途端、祠の中から</span><br><span class='scene-font-katari'>霧が噴出し始める。</span>,就在这时、祀堂当中</span><br><span class='scene-font-katari'>雾气大量喷薄出来。</span>
+29,ハクヤ,いかん！<br>このままでは魔物が集まって来るぞ！,不好！<br>这样下去的话魔物会聚集过来的！
+30,ルリア/露莉亚,ど、どうしましょう！<br>姬塔！,怎、怎么办！<br>姬塔！
+31,ビィ/碧,おいアンチラ！<br>危ないから戻ってこい！,喂安琪拉！<br>很危险的快回来！
+32,アンチラ/安琪拉,くそっ……<br>こうなったら仕方ない！,可恶……<br>这样的话就没办法了！
+33,アンチラ/安琪拉,天上天下……如意自在！,天上天下……如意自在！
+35,アンチラ/安琪拉,<span class='scene-font-4'>行けっ！　如意金箍棒！</span>,去吧！　如意金箍棒！</span>
+43,,<span class='scene-font-katari'>咄嗟にありったけの力を込めた</span><br><span class='scene-font-katari'>如意金箍棒で祠を叩くアンチラ。</span>,瞬间将所有力量注入如意金箍棒</span><br><span class='scene-font-katari'>安琪拉打向了祀堂。</span>
+44,,<span class='scene-font-katari'>次の瞬間、巨大なエネルギーが</span><br><span class='scene-font-katari'>解き放たれた様に</span><br><span class='scene-font-katari'>辺りを爆風が包み込んだ。</span>,下一瞬间、仿佛巨大的力量</span><br><span class='scene-font-katari'>被解放一般</span><br><span class='scene-font-katari'>周围被爆风所覆盖。</span>
+50,アンチラ/安琪拉,<span class='scene-font-4'>うわぁーっ！</span>,呜哇ー！</span>
+54,,<span class='scene-font-katari'>吹き飛ばされたアンチラを</span><br><span class='scene-font-katari'>全身で受け止める姬塔。</span>,姬塔用全身接住了</span><br><span class='scene-font-katari'>被爆风吹飞的安琪拉。</span>
+56,アンチラ/安琪拉,あ、ありがとう、<br>姬塔。,谢、谢谢、<br>姬塔。
+57,ビィ/碧,スゲェ爆発だったな……,好强的爆发啊……
+58,ルリア/露莉亚,みなさん、無事ですか？,大家、没事吗？
+59,ハクヤ,はは、見ろ……！<br>祠が消滅したぞ！,哈哈、快看……！<br>祀堂被消灭了！
+60,ビィ/碧,ああ！<br>これで魔物ともおさらばだな！,啊！<br>这样就和魔物说再见了！
+61,ルリア/露莉亚,アンチラちゃん、すごいです！,安琪拉酱、真厉害！
+62,アンチラ/安琪拉,ははは……<br>良かった、ね。,哈哈哈……<br>太好了、呢。
+63,,<span class='scene-font-katari'>見事、魔物を引き寄せる祠を</span><br><span class='scene-font-katari'>破壊した姬塔一行は、</span><br><span class='scene-font-katari'>喜びを分かち合う。</span>,成功破坏了吸引魔物之祀堂</span><br><span class='scene-font-katari'>的姬塔一行、</span><br><span class='scene-font-katari'>互相分享着喜悦。</span>
+64,,<span class='scene-font-katari'>先ほどの霧は跡形もなく消え去り、</span><br><span class='scene-font-katari'>辺りには静寂だけが流れていた。</span>,刚才为止的雾气消失得无影无踪、</span><br><span class='scene-font-katari'>周围一带又恢复了寂静。</span>
+65,,<span class='scene-font-katari'>だが、これが更なる事件の</span><br><span class='scene-font-katari'>引き金になるとは、</span><br><span class='scene-font-katari'>この時はまだ誰も知る由が無かった。</span>,但是、这将成为更大事件</span><br><span class='scene-font-katari'>的导火索、</span><br><span class='scene-font-katari'>这事还无人可知。</span>
+info,,,scene_ult_chr236_ep1_q3_s30
+译者,,,

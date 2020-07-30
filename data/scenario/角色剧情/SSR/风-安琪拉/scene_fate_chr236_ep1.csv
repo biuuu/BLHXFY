@@ -1,0 +1,139 @@
+id,name,text,trans
+0-chapter_name,,西南西の守護神,西南西的守护神
+0-synopsis,,姬塔一行が西南西の神社へ向かっていると、空に浮かぶ不思議な少女アンチラに出会う。危うく船体にぶつかりそうになる彼女をつい姬塔は助けてしまい、アンチラはそんな姬塔に興味を持つ。アンチラは不思議な仙術を使い、歳神としてお役目を継承していたが、姬塔の旅について行きたいと願い出る。,姬塔一行正朝着西南西的神社前进的途中，遇见了浮在空中不可思议的女孩子安琪拉。在船体险些撞上她之前姬塔不禁相救，对于这样的姬塔安琪拉抱有了兴趣。安琪拉使用着不可思议的仙术，继承担当了岁神的职务、却依旧提出了想和姬塔一起旅行的愿望。
+0,,<span class='scene-font-katari'>旅の途中、十二年に一度だけ</span><br><span class='scene-font-katari'>開帳されるという霊験あらたかな</span><br><span class='scene-font-katari'>神社の噂を聞きつけた一行。</span>,旅行途中、听说了十二年</span><br><span class='scene-font-katari'>开张一次的灵验神社</span><br><span class='scene-font-katari'>传闻的一行。</span>
+1,,<span class='scene-font-katari'>昨年、南南西の守護神・アニラの元を</span><br><span class='scene-font-katari'>訪れた一行は、今年の恵方である</span><br><span class='scene-font-katari'>西南西の方角を目指していた。</span>,去年、访问了南南西的守护神・阿妮拉的一行</span><br><span class='scene-font-katari'>朝着今年的惠方</span><br><span class='scene-font-katari'>西南西的方向前进。</span>
+3,,<span class='scene-font-katari'>神社を目指して快調に進む一行の前に、</span><br><span class='scene-font-katari'>フワフワと空を漂う少女の姿。</span>,在朝着神社顺利航行的一行面前、</span><br><span class='scene-font-katari'>出现了轻飘飘般浮在空中的少女。</span>
+4,ビィ/碧,ん……おい……姬塔。<br>あれ……なんだ？,嗯……喂……姬塔。<br>那是……什么？
+5,,<span class='scene-font-katari'>目を凝らすと、雲に横たわる少女。</span><br><span class='scene-font-katari'>スヤスヤと気持ちよさそうに寝息を</span><br><span class='scene-font-katari'>立てるその姿に、呆気に取られる一行。</span>,眯眼凝视、少女躺在云上。</span><br><span class='scene-font-katari'>看上去很舒服般地在小睡着</span><br><span class='scene-font-katari'>眼前的景象、一行不禁看呆了。</span>
+6,ルリア/露莉亚,あっ、あっ、あのっ！　<br>そんなところで寝てたら危ないですよ！,那、那、那个！　<br>在那种地方睡觉很危险哟！
+7,ビィ/碧,その前に……<br>なんでこんな所で寝てんだよ！,在这之前……<br>为什么在这种地方睡觉啊！
+8,,<span class='scene-font-katari'>一行の声に薄目を開ける少女は、</span><br><span class='scene-font-katari'>気怠そうに体を起こした。</span>,被一行声音吵醒的少女、</span><br><span class='scene-font-katari'>懒懒散散地起身。</span>
+9,？？？,……ふぁぁ？　あ、あぁ……<br>そのままぶつかってくださいどうぞ……,……呼啊？　啊、啊……<br>请就这样撞上来……
+10,ビィ/碧,おーそうかそうかワリィな……<br>ってダメだろうぉい！！！,啊ー这样啊这样啊真不好意思呢……<br>不行的吧！！！
+11,？？？,そうですか……でもねむいんで。<br>ぶつかってもだいじょうぶなんで。<br>おきになさらずいってください。,这样啊……但是很困。<br>撞上来也没事的。<br>请不要介意。
+12,,<span class='scene-font-katari'>少女は昼寝の邪魔をされたくない</span><br><span class='scene-font-katari'>といった様子で再び横になろうとする。</span>,少女仿佛不想午睡再被打扰</span><br><span class='scene-font-katari'>再次躺倒了下去。</span>
+13,,<span class='scene-font-katari'>だが姬塔は少女の元へ、</span><br><span class='scene-font-katari'>何の躊躇もなく飛び込む。</span>,但是姬塔朝着少女、</span><br><span class='scene-font-katari'>毫无迷茫的跳了过去。</span>
+14,,<span class='scene-font-katari'>間一髪の所で、騎空艇との衝突を</span><br><span class='scene-font-katari'>免れた少女と姬塔は、</span><br><span class='scene-font-katari'>そのまま雲から転げ落ちた。</span>,毫米之差的地方、避免了和骑空艇相撞的</span><br><span class='scene-font-katari'>少女和姬塔、</span><br><span class='scene-font-katari'>就这样从云间落下。</span>
+15,？？？,きゃっ！？,吓！？
+16,,<span class='scene-font-katari'>目を丸くする少女と姬塔は、</span><br><span class='scene-font-katari'>固く抱き合ったまま、</span><br><span class='scene-font-katari'>空の底へ落ちて行く。</span>,睁大双眼的少女和姬塔、</span><br><span class='scene-font-katari'>维持着紧紧抱在一起的姿势、</span><br><span class='scene-font-katari'>朝着底端落下。</span>
+17,？？？,んぁ……えっ？<br>なんで……来ちゃった……んですか？,嗯……诶？<br>为什么……跳过来……了呢？
+17-sel1_txt,,<span class='scene-font-katari'>放って置けないから</span>,不能放着不管</span>
+17-sel2_txt,,<span class='scene-font-katari'>気付いたらここに</span>,回过神来就这样了</span>
+18,？？？,そ……そんな理由で！？<br>すごいなぁー！　<br>キミ、怖くなかったの？,这……这样的理由！？<br>真厉害啊ー！　<br>你、不害怕吗？
+19,？？？,あはは！　何それ？<br>バカだなぁー！<br>キミ、怖くなかったの？,啊哈哈！　这算什么啊？<br>真是笨蛋呢ー！<br>你、不害怕吗？
+20,,<span class='scene-font-katari'>目を輝かせながらにぱっと笑う少女は、</span><br><span class='scene-font-katari'>姬塔の反応を伺う。</span>,眼中熠熠生辉的少女一边笑着、</span><br><span class='scene-font-katari'>一边等待着姬塔的反应。</span>
+20-sel1_txt,,<span class='scene-font-katari'>怖い</span>,害怕
+20-sel2_txt,,<span class='scene-font-katari'>怖く……ない……</span>,不......害怕......
+21,？？？,うんうん。<br>このままだと死んじゃうもんねー<br>せっかくハジメマシテなのにねー。,嗯嗯。<br>这样下去的话就要死了呢ー<br>好不容易的初次见面呢ー。
+22,,<span class='scene-font-katari'>危機感のない声色で残念がる少女に、</span><br><span class='scene-font-katari'>申し訳なさそうに謝る姬塔。<br></span>，
+对用没有危机感的声音失望般回答的少女、</span><br><span class='scene-font-katari'>姬塔感到不好意思地道歉。  <br></span>
+23,？？？,キミって、すごく強いんだね……<br>助けに来てくれて、ありがとう。,
+24,,<span class='scene-font-katari'>少女はかすかに震える</span><br><span class='scene-font-katari'>姬塔の腕を掴む。</span>,少女微微颤抖着</span><br><span class='scene-font-katari'>抓住了姬塔的手臂。
+25,,<span class='scene-font-katari'>一転して真剣な声色になる少女に、</span><br><span class='scene-font-katari'>申し訳なさそうに謝る姬塔。  <br></span>,对突然用认真的声音说话的少女、</span><br><span class='scene-font-katari'>姬塔感到不好意思地道歉。  <br></span></span>
+26,？？？,ふふっ。<br>なんでキミが謝るのさ？,呼呼。<br>为什么是你在道歉啊？
+27,,<span class='scene-font-katari'>コロコロと表情を変える少女。</span><br><span class='scene-font-katari'>窮地に追い込まれた姬塔は</span><br><span class='scene-font-katari'>バタバタともがいて見せる。</span>,少女的表情不停变换着。</span><br><span class='scene-font-katari'>被逼入险地的姬塔</span><br><span class='scene-font-katari'>不断挣扎着。</span>
+28,？？？,あはは。キミって面白いね。<br>名前は、なんていうの？,啊哈哈。你真是有趣呢。<br>名字是、叫什么？
+29,,<span class='scene-font-katari'>姬塔、</span><br><span class='scene-font-katari'>と答える。</span>,姬塔、</span><br><span class='scene-font-katari'>这样回答道。</span>
+30,？？？,姬塔、か。<br>思った通り、面白い名前。,姬塔、吗。<br>和想的一样、有趣的名字。
+31,,<span class='scene-font-katari'>キミの名前は、</span><br><span class='scene-font-katari'>と聞き返す。</span>,你的名字是、</span><br><span class='scene-font-katari'>反问了回去。</span>
+32,アンチラ/安琪拉,アンチラ……<br>ボクの名前は、アンチラ。,安琪拉……<br>我的名字是、安琪拉。
+33,アンチラ/安琪拉,じゃあ……<br>今から姬塔を<br>助けてみせるから……,那么……<br>从现在开始由我来<br>帮助姬塔了……
+34,アンチラ/安琪拉,死ぬ気でボクにつかまっててよ！,拼命地抓紧我哟！
+35,,<span class='scene-font-katari'>言うや否や、</span><br><span class='scene-font-katari'>姬塔の体に</span><br><span class='scene-font-katari'>尻尾を這わすアンチラ。</span>,在回答之前、</span><br><span class='scene-font-katari'>安琪拉就将自己的尾巴</span><br><span class='scene-font-katari'>围在看姬塔身上。</span>
+36,アンチラ/安琪拉,行雲流水……<br>筋斗雲よ……有れ！,行云流水……<br>筋斗云哟……显现！
+37,,<span class='scene-font-katari'>二人の眼前に先ほどアンチラの</span><br><span class='scene-font-katari'>乗っていた筋斗雲が現れる。</span>,先前安琪拉乘坐着的筋斗云</span><br><span class='scene-font-katari'>出现在两人面前。</span>
+38,,<span class='scene-font-katari'>助かったと胸を撫で下ろす</span><br><span class='scene-font-katari'>姬塔は、雲に乗ろうとするが</span><br><span class='scene-font-katari'>体がすり抜けてしまう。</span>,想着得救了安心下来的姬塔</span><br><span class='scene-font-katari'>正当想坐上云的时候</span><br><span class='scene-font-katari'>身体却穿过了云。</span>
+39,アンチラ/安琪拉,うふふーざんねんでした。<br>もっくんはボク専用なんですー。,呜呼呼ー真是可惜了。<br>软软君是我的专用ー。
+40,,<span class='scene-font-katari'>筋斗雲の上で体勢を立て直した</span><br><span class='scene-font-katari'>アンチラは、手元の棒を構える。</span>,在筋斗云上重整旗鼓的安琪拉</span><br><span class='scene-font-katari'>举起了手中的棍棒。</span>
+41,アンチラ/安琪拉,天上天下……<br>如意自在！　行けっ！<br>如意金箍棒！,天上天下……<br>如意自在！　去吧！<br>如意金箍棒！
+42,,<span class='scene-font-katari'>そう唱えるや否や、</span><br><span class='scene-font-katari'>手元の棒が天に向かって</span><br><span class='scene-font-katari'>勢いよく伸びて行く。</span>,伴随着咏唱、</span><br><span class='scene-font-katari'>手中的棍棒向着空中</span><br><span class='scene-font-katari'>气势十足地伸长出去。</span>
+44,,<span class='scene-font-katari'>その棒がグランサイファーの</span><br><span class='scene-font-katari'>船底に突き刺さったところで、</span><br><span class='scene-font-katari'>ようやく二人の落下は停止する。</span>,那根长棒</span><br><span class='scene-font-katari'>刺入格兰塞法的船体、</span><br><span class='scene-font-katari'>两人终于停止了落下。</span>
+45,アンチラ/安琪拉,うんっ……<br>アレは後で弁償するっ！,
+46,,<span class='scene-font-katari'>アンチラの笑顔につられて、</span><br><span class='scene-font-katari'>思わず笑ってしまう姬塔。</span>,
+47,アンチラ/安琪拉,さぁ……<br>一緒に空へ帰ろう。,来……<br>一起回到空中吧。
+52,,<span class='scene-font-katari'>無事に甲板に戻った二人を</span><br><span class='scene-font-katari'>ビィとルリアが出迎える。</span>,看到平安回到甲板的两人</span><br><span class='scene-font-katari'>碧和露莉亚过来迎接。</span>
+53,,<span class='scene-font-katari'>姬塔は、</span><br><span class='scene-font-katari'>事の一部始終を</span><br><span class='scene-font-katari'>二人に伝える。</span>,姬塔将、</span><br><span class='scene-font-katari'>事情的来龙去脉</span><br><span class='scene-font-katari'>告诉了两人。</span>
+54,ルリア/露莉亚,うぅ～<br>二人とも、無事でよかったです。,呜～<br>两人都是、没事真是太好了。
+55,ビィ/碧,ったく……<br>無茶しやがって！,真是……<br>有乱来了！
+56,ビィ/碧,でもアンチラは<br>なんであんなところで寝てたんだよ？,但是安琪拉<br>为什么在那样的地方睡觉？
+57,アンチラ/安琪拉,ひる……いえ、その。<br>とにかく助けて頂いて<br>ありがとうございました。,午……不、那个。<br>总之救了我<br>真是非常感谢。
+58,ビィ/碧,ん……あ、ああ。<br>まぁ無事ならなんでも<br>いいんだけどよぉ。,嗯……啊、啊。<br>嘛没事的话<br>怎么样都好了。
+59,アンチラ/安琪拉,それで、あの……<br>船底の弁償をしたいので、<br>一緒に来てくれませんか？,然后、那个……<br>想要赔偿船底的修理费、<br>请问能一起来吗？
+60,ルリア/露莉亚,あれぐらいの穴ぼこなら<br>大丈夫ですよ！,那样的破洞的话<br>没关系的了！
+61,ルリア/露莉亚,それにアンチラちゃんは、<br>命の恩人なんですから<br>気にしないで下さい！,而且安琪拉酱是、<br>救命恩人<br>所以请不要在意！
+62,アンチラ/安琪拉,いえ。<br>むしろこちらが迷惑を……,不。<br>不如说是这边给添麻烦……
+63,ビィ/碧,気にすんなって！<br>それにオイラ達、西南西の神社まで<br>行かなくちゃならねぇんだ！,不用在意了！<br>而且我们、不得不去<br>西南西的神社！
+64,アンチラ/安琪拉,……あ、そうですか。<br>ではお礼にそこまで案内しましょう。,……啊、这样啊。<br>那么作为回礼由我来带路吧。
+67,,<span class='scene-font-katari'>道中、イスタルシアを目指すという</span><br><span class='scene-font-katari'>旅の目的をアンチラに語る一行。</span>,途中、一行向安琪拉说出</span><br><span class='scene-font-katari'>旅行的目的是星之岛伊斯塔卢西亚。</span>
+68,,<span class='scene-font-katari'>一行はアンチラの案内で</span><br><span class='scene-font-katari'>西南西の神社の境内に降り立つ。</span>,一行在安琪拉的带领下</span><br><span class='scene-font-katari'>在西南西神社的境内降落。</span>
+70,アンチラ/安琪拉,ここが西南西の<br><span class='scene-font-place'>猿神宮</span>です。,这里就是西南西的<br><span class='scene-font-place'>猿神宫</span>。
+71,ルリア/露莉亚,うわぁ～<br>ありがとう、アンチラちゃん。,呜啊～<br>谢谢、安琪拉酱。
+72,アンチラ/安琪拉,いえ。<br>これぐらい、当然ですので。,不。<br>这程度是理所当然的。
+73,ビィ/碧,しかし、なかなかの<br>大盛況っぷりだな……,但是、相当的<br>大盛况呐……
+74,ビィ/碧,ん……あれって……,嗯……那个是……
+75,,<span class='scene-font-katari'>ビィの指さす先には、</span><br><span class='scene-font-katari'>参拝客に囲まれる</span><br><span class='scene-font-katari'>アンチラの姿がある。</span>,碧指向的前方、</span><br><span class='scene-font-katari'>是被参拜者们围住的</span><br><span class='scene-font-katari'>安琪拉。</span>
+76,ルリア/露莉亚,えっ……<br>あそこにもアンチラちゃんがいて、<br>私達の隣にもアンチラちゃんがいる？,诶……<br>安琪拉酱在那边、<br>我们的旁边也有安琪拉酱？
+77,ビィ/碧,そう……なるな……,是……这么回事……
+78,ルリア/露莉亚,私、わかりました！<br>アンチラちゃんは、<br>双子だったんですね！,我、明白了！<br>安琪拉酱有、<br>双胞胎姐妹呢！
+79,アンチラ/安琪拉,違います。,不是。
+80,アンチラ/安琪拉,あっちがホンモノで、<br>こっちはニセモノです。,那边是真的、<br>这边则是是假货。
+81,ビィ/碧,……うん？<br>ニセモノってどういうことだよ？,……嗯？<br>假货是怎么回事？
+82,アンチラ/安琪拉,詳しくは後で説明するので、<br>参拝客が引けた頃に<br>もう一度来てください……,详细之后再说明、<br>参拜者们回去的时候<br>请再来一趟……
+84,,<span class='scene-font-katari'>アンチラが「解」と唱えると、</span><br><span class='scene-font-katari'>一行の隣にいたアンチラは</span><br><span class='scene-font-katari'>煙のごとく消え去った。</span>,安琪拉留下了句【解】、</span><br><span class='scene-font-katari'>一行身边的安琪拉</span><br><span class='scene-font-katari'>就像烟一样消失了。</span>
+85,ルリア/露莉亚,わわっ！<br>アンチラちゃんが<br>消えちゃいました！,哇哇！<br>安琪拉酱<br>消失了！
+88,,<span class='scene-font-katari'>そうして参拝客が引けた頃、</span><br><span class='scene-font-katari'>改めてアンチラの元を訪れる。</span>,之后在参拜者们回去之后、</span><br><span class='scene-font-katari'>一行便再次拜访安琪拉。</span>
+92,,<span class='scene-font-katari'>アンチラは、</span><br><span class='scene-font-katari'>自分が西南西の守護神。</span>,安琪拉称、</span><br><span class='scene-font-katari'>自己是西南西的守护神。
+93,,<span class='scene-font-katari'>今年のお役目を務める</span><span class='scene-font-place'>猿神宮</span><span class='scene-font-katari'>の主、</span><br><span class='scene-font-katari'>アンチラだと正体を明かす。</span>,表面自己的身份便是今年执务的</span><span class='scene-font-place'>猿神宫</span><span class='scene-font-katari'>之主。</span></span>
+94,,<span class='scene-font-katari'>今では、人々が一年の平和を祈り、</span><br><span class='scene-font-katari'>無病息災の福を授かるための場所</span><br><span class='scene-font-katari'>として機能している猿神宮。</span>,如今作为、人们为一年的和平祈祷、</span><br><span class='scene-font-katari'>希望授予无病无灾之福</span><br><span class='scene-font-katari'>场所的猿神宫。
+95,,<span class='scene-font-katari'>だが本来この</span><span class='scene-font-place'>猿神宮</span><span class='scene-font-katari'>は、覇空戦争の</span><br><span class='scene-font-katari'>後に、空の世界と星の世界の境界を</span><br><span class='scene-font-katari'>監視するために作られたと説明する。</span>,但是本来</span><span class='scene-font-place'>猿神宫</span><span class='scene-font-katari'>是、霸空战争</span><br><span class='scene-font-katari'>之后、为了监视</span><br><span class='scene-font-katari'>空之世界和星之世界边境而设立的场所。</span>
+96,,<span class='scene-font-katari'>十二の方位に存在する各神社には</span><br><span class='scene-font-katari'>十二神将たる「お役目」が遣わされ、</span><br><span class='scene-font-katari'>年ごとに「歳神」として任命される。</span>,存在于十二个方位的各个神社</span><br><span class='scene-font-katari'>有着被称为十二神将的「使命」、</span><br><span class='scene-font-katari'>逐年作为「岁神」被任命。</span>
+97,,<span class='scene-font-katari'>そして今年の「恵方」にあたる</span><br><span class='scene-font-katari'>西南西の</span><span class='scene-font-place'>猿神宮</span><span class='scene-font-katari'>には、</span><br><span class='scene-font-katari'>アンチラが選ばれたのだと言う。</span>,而今年作为「惠方」</span><br><span class='scene-font-katari'>西南西的</span><span class='scene-font-place'>猿神宫</span><span class='scene-font-katari'>中、</span><br><span class='scene-font-katari'>安琪拉则是今年的岁神。
+98,ビィ/碧,おいおい……<br>こんなちびっけぇ子が<br>お役目様だなんて驚いたぜ！,喂喂……<br>这样的小个子<br>担当岁神还真是令人吃惊啊！
+99,ビィ/碧,……でも、そんな歳で神社を<br>任されるなんてスゲェな！,……但是、这年纪就被托付神社<br>还真是厉害啊！
+100,アンチラ/安琪拉,いえ。<br>別にすごくありません。,不。<br>并没有什么了不起的。
+101,ルリア/露莉亚,すごいですよ！<br>さっきもアンチラちゃんは、<br>ふたりになってましたし！,很厉害的！<br>刚才安琪拉酱也、<br>变成两个了！
+102,アンチラ/安琪拉,あれは……仙術といって、<br>ご先祖様の代から脈々と伝わる<br>秘術の様なものです。,那个是……被称为仙术、<br>就像从先祖大人那代代传承下来的秘术一样。
+103,アンチラ/安琪拉,そのご先祖様は、「サンゾー」様と<br>呼ばれる高僧とともに旅をしていた<br>そうなんですが……,那位先祖大人、和被称作「三藏ー」大人<br>的高僧一同旅行<br>虽然是这样……
+104,,<span class='scene-font-katari'>少女は何か含みが</span><br><span class='scene-font-katari'>ある様子で俯く。</span>,少女欲言又止一般</span><br><span class='scene-font-katari'>低下了头。</span>
+105,ルリア/露莉亚,その「サンゾー」さんが、<br>どうかしたんですか？,那位「三藏ー」先生、<br>怎么了吗？
+106,アンチラ/安琪拉,あの……その……<br>話しに伝え聞く「サンゾー」様が、<br>……そっくりなんです。,那个……这个……<br>和传说中听到的「三藏ー」大人、<br>……一模一样。
+107,ビィ/碧,なんだよ……<br>ハッキリ言ってくれねぇと<br>わかんねぇよ！,什么啊……<br>不好好说清楚的话<br>听不懂啊！
+108,アンチラ/安琪拉,だから……何も考えずに<br>人助けしちゃうところとか……,所以说……什么都不考虑<br>就帮助别人的地方之类的……
+109,アンチラ/安琪拉,そんなバカなところが<br>姬塔に<br>そっくりなの！,这样笨蛋的地方<br>和姬塔<br>一模一样的说！
+110,,<span class='scene-font-katari'>何故か怒り気味に</span><br><span class='scene-font-katari'>姬塔を</span><br><span class='scene-font-katari'>指さすアンチラ。</span>,不知为何就像生气一样的</span><br><span class='scene-font-katari'>安琪拉</span><br><span class='scene-font-katari'>指着姬塔。</span>
+111,アンチラ/安琪拉,その昔、「サンゾー」様とご先祖様は、<br>「テンジク」って遠い遠い場所を<br>目指して旅したらしいんだけど……,过去、「三藏ー」大人和先祖大人、<br>貌似朝着名为「天竺」的遥远的地方<br>旅行……
+112,アンチラ/安琪拉,ボクもその「テンジク」に<br>どうしても行ってみたくて、<br>それで……,我也对那个「天竺」<br>无论如何也想去看看、<br>所以……
+113,アンチラ/安琪拉,姬塔と一緒なら、<br>ボクもその「テンジク」に<br>辿り着けるかもって。,和姬塔一起的话、<br>我也能抵达<br>「天竺」也说不定。
+114,,<span class='scene-font-katari'>遠い空の向こうを</span><br><span class='scene-font-katari'>仰ぎ見るアンチラ。</span>,安琪拉抬起头</span><br><span class='scene-font-katari'>仰望着天空远方。</span>
+115,アンチラ/安琪拉,……あのね。<br>一生のお願いがあるんだけど。,……那个呢。<br>这是一生的请求。
+116,アンチラ/安琪拉,ボクも姬塔と<br>一緒に旅しちゃダメかな？,我能不能也和姬塔<br>一起去旅行呢？
+116-sel1_txt,,<span class='scene-font-katari'>テンジクに行こう</span>,一起去天竺吧</span>
+116-sel2_txt,,<span class='scene-font-katari'>頼むよ、相棒</span>,拜托了哟、搭档</span>
+117,アンチラ/安琪拉,えっ！？<br>ほんとにいいの！！,诶！？<br>真的可以吗！！
+118,アンチラ/安琪拉,うわぁーい！<br>本当に嬉しいなぁ！<br>ありがとう！,哇噫！<br>真的很高兴呐！<br>谢谢！
+119,アンチラ/安琪拉,相棒……ってことは、<br>いいってことだね！,搭档……也就是说、<br>可以对吧！
+120,アンチラ/安琪拉,こちらこそ、よろしくねっ！,这边才是、请多关照呢！
+121,アンチラ/安琪拉,ふふっ。これからは……<br>いつなんどきでも、<br>ボクがキミを守ってあげるよ。,
+122,アンチラ/安琪拉,では……お供のふたりも、<br>よろしくお願いします。,那么……从者的两人也是、<br>请多关照。
+123,ビィ/碧,ん……<br>オトモってなんのことだ？,嗯……<br>从者是怎么回事？
+124,アンチラ/安琪拉,えっと……<br>赤いお方と青いお方は、<br>姬塔のお供では？,那个……<br>红色的这位和蓝色的这位、<br>是姬塔的从者对吧？
+125,ビィ/碧,オッ……<br>オイラはオトモじゃねぇ！,我……<br>我才不是从者！
+126,ルリア/露莉亚,あはは……<br>まぁまぁビィさん。,啊哈哈……<br>冷静冷静碧桑。
+127,ビィ/碧,止めてくれるなルリア！,不要阻止我露莉亚！
+128,ビィ/碧,オイラと姬塔は<br>れっきとした相棒だってんだ！,我和姬塔是<br>真真正正的搭档！
+129,アンチラ/安琪拉,それはそれは……<br>大変失礼しました。,这还真是这还真是……<br>真是失礼了。
+130,ビィ/碧,ぐっ……くそう……<br>妙に大人な対応だぜ！,咕……可恶……<br>回答微妙的大人风范！
+131,アンチラ/安琪拉,あっ！？,啊！？
+132,ルリア/露莉亚,どうしたんですか？,请问怎么了吗？
+133,アンチラ/安琪拉,ひとつ……<br>大事なことを忘れてました……,有一件……<br>重要的事情忘记了……
+134,ビィ/碧,なんだよ、大事なことって。,什么哟、重要的事是。
+135,アンチラ/安琪拉,旅の前に、おじいちゃんの<br>許可を取らないとです！,旅行之前、要先征求<br>爷爷的同意才行！
+136,ルリア/露莉亚,ええっ！？,
+137,アンチラ/安琪拉,でないと、<br>故郷の皆が心配するんで。,不然的话、<br>故乡的大家会担心的。
+138,ルリア/露莉亚,ははは……<br><span class='scene-font-kokoro'>（子供ということを</span><br><span class='scene-font-kokoro'>すっかり忘れてました。）</span>,哈哈哈……<br><span class='scene-font-kokoro'>（完全忘了</span><br><span class='scene-font-kokoro'>还是个小孩子来着。）</span>
+139,ビィ/碧,はいはい、もうわかったよ！<br>実家でもどこでも行ってやらぁ！,是是、知道了啊！<br>自家也好其他什么地方也好去吧！
+140,,<span class='scene-font-katari'>こうして、アンチラと</span><br><span class='scene-font-katari'>一行の旅は幕を開ける。</span>,就这样、安琪拉和</span><br><span class='scene-font-katari'>一行的旅途开始了。</span>
+141,,<span class='scene-font-katari'>後日、祖父から承諾を得た</span><br><span class='scene-font-katari'>アンチラは、正式に一行の</span><br><span class='scene-font-katari'>仲間に加わるのだった。</span>,后日、获得了祖父同意的</span><br><span class='scene-font-katari'>安琪拉</span><br><span class='scene-font-katari'>正式成为了一行的伙伴。</span>
+info,,,scene_fate_chr236_ep1
+译者,,,

@@ -1,0 +1,33 @@
+id,name,text,trans
+0-chapter_name,,アンチラの空遊記,安琪拉的空游记
+0-synopsis,,姬塔一行の仲間に加わったアンチラが、とある依頼に興味を示す。それは燃えさかる炎に包まれた山の調査だった。一行はアンチラの願いを聞き入れ、その依頼の島へと舵を切る。上機嫌のアンチラが甲板で姬塔の毛繕いをしていると、突然、魔物が襲いかかってくる。,加入了姬塔一行的安琪拉、对某个委托产生了兴趣。那是对传说被火焰包裹的山进行调查。一行人听取了安琪拉的愿望、向着委托目标的岛掌舵出发。心情极佳的安琪拉在甲板上帮姬塔梳头的时候、突然魔物袭击了过来。
+0,,<span class='scene-font-katari'>アンチラが一行の仲間になってから、</span><br><span class='scene-font-katari'>しばらくの時が流れた。</span>,自安琪拉加入一行以来、</span><br><span class='scene-font-katari'>时间缓缓流逝。</span>
+1,,<span class='scene-font-katari'>騎空艇の暮らしにも</span><br><span class='scene-font-katari'>すっかり馴染んだ様子のアンチラ。</span>,对于骑空艇的生活</span><br><span class='scene-font-katari'>安琪拉也已经习惯的样子。
+4,ビィ/碧,おい！　アンチラ！　<br>いつまで寝てんだよ！,喂！安琪拉！<br>要睡到什么时候啊！
+5,,<span class='scene-font-katari'>この日も、昼過ぎになっても</span><br><span class='scene-font-katari'>なかなか部屋から出てこない</span><br><span class='scene-font-katari'>アンチラを起こしに来たビィ。</span>,这天也和往常一样、</span><br><span class='scene-font-katari'>碧来叫醒午睡过头、</span><br><span class='scene-font-katari'>迟迟不肯从房间里出来的安琪拉。</span>
+6,アンチラ/安琪拉,あとごふんだけみのがして<br>くださいもうおきますのでー,再让我睡5分钟<br>已经起来了——
+7,ビィ/碧,昨日もそう言って<br>夕方まで寝てたじゃねぇか！,昨天也是这么说着<br>然后睡到了傍晚！
+8,アンチラ/安琪拉,ありがとうございます。<br>もうまにあってますのでー,非常感谢<br>已经足够了——
+10,ビィ/碧,なんだよもう！<br>全然話がつながってねぇぞ！,在说什么啊！<br>对话完全没成立啊！
+11,ルリア/露莉亚,あはは……<br>おねむのアンチラちゃんは、<br>何を言ってもダメそうです。,啊哈哈......<br>对睡着的安琪拉酱、<br>说什么都没用呢。
+12,,<span class='scene-font-katari'>その時、姬塔が</span><br><span class='scene-font-katari'>アンチラの様子を見に訪れる。</span>,这时、姬塔也过来</span><br><span class='scene-font-katari'>确认安琪拉的情况。</span>
+13,,<span class='scene-font-katari'>アンチラのだらしない様子を見て、</span><br><span class='scene-font-katari'>やれやれと苦笑する姬塔。</span>,看到安琪拉懒散的样子、</span><br><span class='scene-font-katari'>姬塔也只好露出苦笑。</span>
+14,アンチラ/安琪拉,……ん？　<br>姬塔か。,......嗯？<br>姬塔吗。
+15,アンチラ/安琪拉,ふぁああ……<br>ちょうどいいところにきた。,呼哈......<br>来的正是时候。
+16,,<span class='scene-font-katari'>するりと尻尾を伸ばして、</span><br><span class='scene-font-katari'>姬塔にぶら下がる</span><br><span class='scene-font-katari'>アンチラ。</span>,紧接着伸出尾巴、</span><br><span class='scene-font-katari'>把自己倒吊在姬塔身上。</span>
+17,,<span class='scene-font-katari'>アンチラは寝ぼけ眼のまま、</span><br><span class='scene-font-katari'>姬塔にぶら下がって</span><br><span class='scene-font-katari'>移動するのだった。</span>,安琪拉半睡迷糊的状态下、</span><br><span class='scene-font-katari'>倒吊在姬塔身上</span><br><span class='scene-font-katari'>移动。</span>
+18,ビィ/碧,なんなんだよ……<br>くそう！,怎么回事啊.....<br>那家伙！
+23,,<span class='scene-font-katari'>騎空艇の一室に集まる仲間達。</span><br><span class='scene-font-katari'>いつも通り依頼を仕分けていると、</span><br><span class='scene-font-katari'>アンチラがとある情報を見つける。</span>,在骑空艇的一室集中的伙伴们。</span><br><span class='scene-font-katari'>一如既往的在确认着委托、</span><br><span class='scene-font-katari'>安琪拉注意到了某个情报。</span>
+24,,<span class='scene-font-katari'>何でも、燃え盛る炎に包まれる</span><br><span class='scene-font-katari'>山があって、その原因を調査して</span><br><span class='scene-font-katari'>欲しいとのことである。</span>,据说那是一座被火焰所包裹着的山，</span><br><span class='scene-font-katari'>委托人想要委托调查其原因。</span>
+25,アンチラ/安琪拉,ねぇねぇ！<br>ボクここに行ってみたい！,呐呐！<br>我想去这里看看！
+26,,<span class='scene-font-katari'>目を輝かせるアンチラの一声で、</span><br><span class='scene-font-katari'>件の場所へ向けて舵を取る一行。</span>,随着眼睛闪闪发光的安琪拉的一声，</span><br><span class='scene-font-katari'>一行决定前往这个地方。</span>
+31,,<span class='scene-font-katari'>暇つぶしに甲板に出た</span><br><span class='scene-font-katari'>姬塔とアンチラは、</span><br><span class='scene-font-katari'>のんびり日向ぼっこを始める。</span>,为了打发时间来到甲板上的</span><br><span class='scene-font-katari'>姬塔和安琪拉、</span><br><span class='scene-font-katari'>开始悠闲的晒着太阳。</span>
+32,アンチラ/安琪拉,……あっ！<br>ここ変なねぐせついてるぞ……,.....啊！<br>这里有奇怪的睡毛......
+33,アンチラ/安琪拉,ほらほら！<br>枝毛見つけた！,你看你看！<br>找到分叉了！
+34,,<span class='scene-font-katari'>普段からの日課である様に</span><br><span class='scene-font-katari'>ごく自然な流れで</span><br><span class='scene-font-katari'>グルーミングするアンチラ。</span>,就像日常一样自然的流向、</span><br><span class='scene-font-katari'>安琪拉整理着睡毛。</span>
+35,アンチラ/安琪拉,姬塔には、<br>まだもふもふ力が足りないなー。,对你来说、<br>软绵力还是不足啊-。
+36,,<span class='scene-font-katari'>穏やかな時間を過ごすふたりの</span><br><span class='scene-font-katari'>元に突然魔物の咆哮が響き渡る。</span>,在度过悠闲时间的两人身边</span><br><span class='scene-font-katari'>突然响起了魔兽的咆哮。</span>
+37,アンチラ/安琪拉,あーもー。<br>うるさいなぁー。,啊-真是的-。<br>好吵啊-。
+38,アンチラ/安琪拉,ほらっ。<br>ちゃっちゃと片付けるよ！,真是的。<br>快速的解决掉吧！
+info,,,scene_chr236_q1_s10
+译者,,,

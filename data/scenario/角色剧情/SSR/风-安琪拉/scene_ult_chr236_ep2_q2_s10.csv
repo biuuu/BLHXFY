@@ -1,0 +1,58 @@
+id,name,text,trans
+0-chapter_name,,霧の村の真実,雾之村的真实
+0-synopsis,,ハクヤと兵士達を退け、命からがら逃げ延びた一行。アンチラは自分のせいでご先祖様の封印を解いてしまったことに酷く落ち込む。一行がハクヤの情報を求めて世話になった村人の女性のもとを尋ねると、女性はハクヤに肉親を人質に取られており、ハクヤの命令で一行を騙していたと打ち明ける。一行は事情を知り、人質の奪還を試みるのだった。,击退白夜和士兵们、终于逃跑成功的一行。安琪拉对因为自己的错打破了祖先封印的事感到很失落。一行为了获取白夜的情报而向曾经受照顾的女性村民询问、女性坦白亲人被白夜抓为人质、不得不欺骗一行。知道内情之后、一行打算将人质夺回。
+2,,<span class='scene-font-katari'>ハクヤと兵士を退けて、</span><br><span class='scene-font-katari'>命からがら洞窟から</span><br><span class='scene-font-katari'>逃げ延びた姬塔達。</span>,击退白夜和士兵之后、</span><br><span class='scene-font-katari'>拼命从洞窟中</span><br><span class='scene-font-katari'>逃出的姬塔一行。</span>
+3,,<span class='scene-font-katari'>ハクヤにまんまと騙された</span><br><span class='scene-font-katari'>アンチラは、自身の不甲斐なさに</span><br><span class='scene-font-katari'>酷く落ち込んでいる様子である。</span>,安琪拉对自身</span><br><span class='scene-font-katari'>完全被白夜骗了一事的不争气</span><br><span class='scene-font-katari'>感到十分失落。</span>
+4,アンチラ/安琪拉,はぁぁぁ……<br>ボクはダメダメだよ……,哈……<br>我还真是不行啊……
+5,ビィ/碧,いったい何が起きたってんだ？<br>オイラにも分かるように<br>教えてくれよ！,到底发生了什么？<br>解释得让我<br>也能明白啊！
+6,アンチラ/安琪拉,恐らくあの祠の封印には<br>ゴクウ様の仙術の力が<br>込められていたんだけど──,恐怕那个祀堂的封印<br>是注入了悟空大人的力量<br>做成的──
+7,アンチラ/安琪拉,そこにボクの仙術が反応して、<br>祠の封印が解けちゃったんだと思う。,然而却和我的仙术产生反应、<br>祀堂的封印就被解除了。
+8,アンチラ/安琪拉,ご先祖様の封印をボクの手で<br>解除しちゃうなんて、<br>ボクはなんてダメダメなんだ……,我亲手解除了<br>祖先大人的封印什么的、<br>为什么我会这么不争气啊……
+9,ルリア/露莉亚,アンチラちゃんだけの<br>責任じゃないです。,这不只是安琪拉酱<br>的责任。
+10,ルリア/露莉亚,だって私達も、<br>全然気付けてなかったですし。,因为我们也、<br>完全没有注意到。
+11,ビィ/碧,そうだぜ！<br>ひとりで全部しょい込むなって！,是的啊！<br>不要一个人全背负上去！
+12,ビィ/碧,オイラ達仲間だろ？<br>みんなで力を合わせて<br>何とかしようぜ！,我们不是伙伴吗？<br>大家合力<br>解决掉它吧！
+13,アンチラ/安琪拉,うう……<br>ありがとうございます、<br>ルリアさん、ビィさん。,呜呜……<br>十分感谢、<br>露莉亚小姐、碧桑。
+14,,<span class='scene-font-katari'>姬塔が皆の前に手を出すと</span><br><span class='scene-font-katari'>仲間達も手を重ねて、掛け声と共に</span><br><span class='scene-font-katari'>改めて気合を入れ直すのだった。</span>,姬塔在大家面前伸出手来</span><br><span class='scene-font-katari'>伙伴们将手重叠、和声喊话</span><br><span class='scene-font-katari'>再次重新振作起来。</span>
+15,ビィ/碧,で、これからどうする？,那么、接下来该怎么办？
+16,アンチラ/安琪拉,今後の対策を考えるためにも<br>あのハクヤって領主の<br>情報が欲しいですね。,就算为了考虑今后的对策<br>也需要白夜<br>作为领主的情报呢。
+17,ルリア/露莉亚,早く何とかしないと、<br>村の人達が心配です。,不快点做些什么的话、<br>很担心村子里的人们。
+18,アンチラ/安琪拉,そうですね、様子見もかねて、<br>ひとまず村人達に話を<br>聞いてみてもいいかも知れません。,是啊、兼备确认状况、<br>总之先去和村民们<br>交谈下说不定也不错。
+19,,<span class='scene-font-katari'>そうして姬塔達は、</span><br><span class='scene-font-katari'>お世話になった村人の女性の</span><br><span class='scene-font-katari'>家を訪ねるのだった。</span>,就这样姬塔一行、</span><br><span class='scene-font-katari'>造访曾受过照顾</span><br><span class='scene-font-katari'>的村民女性家中。</span>
+25,,<span class='scene-font-katari'>村人の女性の家の前に着いた一行は、</span><br><span class='scene-font-katari'>人気の無い部屋の中に入った。</span>,到达了村民女性家前的一行、</span><br><span class='scene-font-katari'>进入后却仿佛没有人的气息。</span>
+27,ルリア/露莉亚,すみませーん。,打扰了。
+28,ビィ/碧,おーい、ちょっといいかー,喂ー、有人在吗ー
+29,アンチラ/安琪拉,…………,…………
+31,女性,はーい、どなたですか……,来ー了、怎么了吗……
+32,,<span class='scene-font-katari'>姬塔一行の姿を</span><br><span class='scene-font-katari'>目の当たりにした女性は、</span><br><span class='scene-font-katari'>酷く取り乱すのだった。</span>,看到姬塔一行</span><br><span class='scene-font-katari'>的女性、</span><br><span class='scene-font-katari'>陷入了严重的混乱。</span>
+33,女性,<span class='scene-font-4'>ひいっ！</span><br>あ、あなた達……どうしてここに！,噫！</span><br>你、你们……为什么会在这里！
+34,ビィ/碧,お、脅かして悪かったな！,吓、吓到你真是不好意思！
+35,ルリア/露莉亚,私達、あなたにちょっと<br>聞きたいことが……,我们、稍微想<br>问你点事……
+36,女性,ごごご、ごめんなさい！　<br>仕方なかったんです！<br>どうか命だけは助けて下さい！,对对对、对不起！　<br>这是没办法的事！<br>还请饶我一命！
+37,ビィ/碧,お、おい！<br>ちょっと落ち着けって！,喂、喂！<br>稍微冷静一下！
+38,ルリア/露莉亚,な、何があったんですか？,发、发生什么了吗？
+39,アンチラ/安琪拉,……大丈夫です。<br>ボク達は何もしませんから、<br>詳しく事情を話してくれませんか？,……没关系。<br>我们什么都不会做、<br>所以能把详情告诉我们吗？
+40,,<span class='scene-font-katari'>姬塔達の優しい言葉に</span><br><span class='scene-font-katari'>次第に落ち着きを取り戻した女性は、</span><br><span class='scene-font-katari'>ぽつぽつと事情を語り始めた。</span>,在姬塔们温柔的劝解下</span><br><span class='scene-font-katari'>女性慢慢冷静了下来、</span><br><span class='scene-font-katari'>一点点开始讲述起事情的原委。</span>
+41,女性,すみません……<br>てっきり私に仕返しに来たんだと<br>勘違いしてしまって。,十分抱歉……<br>完全误会了你们<br>是来报复的。
+42,アンチラ/安琪拉,そもそもなぜボク達が<br>アナタに仕返しする<br>必要があるんですか？,归根到底为什么<br>我们会有<br>报复你的必要？
+43,女性,それは……私がハクヤ様に<br>あなた達を売ったからです。,那是因为……我把你们出卖<br>出卖给了白夜大人。
+44,アンチラ/安琪拉,売った？　,出卖？
+45,女性,私達は、この村を訪れる旅人を<br>ハクヤ様に引き渡す様に<br>命令されていたんです。,我们被、白夜大人命令要把<br>来到村子的旅人<br>交给她。
+46,アンチラ/安琪拉,何のために旅人を<br>引き渡すんですか？,为什么需要<br>把旅人交过去？
+47,女性,詳しい理由は分かりませんが、<br>旅人達は屋敷の地下牢に<br>幽閉されているみたいです……,具体的理由不太清楚、<br>女人们被幽闭在<br>宅邸的地下牢内……
+48,女性,でも……仕方なかったんです！<br>この村の村人は皆、<br>肉親を人質に取られています。,但是……这是没有办法的事！<br>这个村子里的大家、<br>亲人都被抓走做人质了。
+49,女性,私も……ハクヤ様に両親を<br>人質に取られています。,我也……被白夜大人抓走了双亲<br>当作人质。
+50,女性,私達だけじゃハクヤ様に<br>逆らうこともできず……<br>本当にごめんなさい！,只靠我们的话是无法<br>违抗白夜大人的……<br>真的十分抱歉！
+51,アンチラ/安琪拉,そうだったんですか。<br>アナタの事情も分かりました。,是这样啊。<br>你的内情已经充分了解了。
+52,ビィ/碧,ああ……<br>あのハクヤって領主は<br>ヒデェヤツだったんだな。,啊……<br>那个叫白夜的领主<br>真是个过分的家伙。
+53,ルリア/露莉亚,はい！<br>私達で村の人達を<br>助けましょう！,是啊！<br>我们去救<br>村子里的人们吧！
+54,女性,でも……どうやって……,可是……为什么……
+55,アンチラ/安琪拉,ボク達が強いことを<br>アナタはもう知ってるでしょう？,你也知道<br>我们十分强吧？
+56,アンチラ/安琪拉,アナタが協力してくれるなら、<br>ボク達はアナタのご両親を<br>必ず取り戻してみせます。,只要你肯协助我们、<br>我们一定能夺回<br>你的双亲。
+57,アンチラ/安琪拉,姬塔とボクがいれば、<br>不可能なんて無いよね？,只要我和姬塔在一起的话、<br>就没有不可能的事对吧？
+58,,<span class='scene-font-katari'>アンチラの問いかけに</span><br><span class='scene-font-katari'>自信を持って頷く</span><br><span class='scene-font-katari'>姬塔。</span>,面对安琪拉的提问</span><br><span class='scene-font-katari'>姬塔自信地</span><br><span class='scene-font-katari'>点头。</span>
+59,,<span class='scene-font-katari'>姬塔達の真剣な思いを</span><br><span class='scene-font-katari'>感じ取った女性は、</span><br><span class='scene-font-katari'>意を決した様子で顔を上げる。</span>,被姬塔们的真挚的羁绊</span><br><span class='scene-font-katari'>感染到的女性、</span><br><span class='scene-font-katari'>下定决心般抬起头来。</span>
+60,女性,……分かりました。<br>私に出来ることなら、<br>何でも言ってください！,……我知道了。<br>我能做到的事情的话、<br>什么都会做！
+61,,<span class='scene-font-katari'>こうして姬塔達と</span><br><span class='scene-font-katari'>女性が協力して、村人奪還作戦を</span><br><span class='scene-font-katari'>練ることになるのだった。</span>,就这样姬塔一行</span><br><span class='scene-font-katari'>和女性协力、制定了</span><br><span class='scene-font-katari'>村民夺还计划。</span>
+info,,,scene_ult_chr236_ep2_q2_s10
+译者,,,

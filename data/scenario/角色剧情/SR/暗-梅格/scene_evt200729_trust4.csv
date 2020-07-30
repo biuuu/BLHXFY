@@ -1,0 +1,29 @@
+id,name,text,trans
+1,メグ,私が騎空団に入る……,要我加入骑空团……
+2,メグ,<span class='scene-font-4'>そんなの考えたことも</span><br><span class='scene-font-4'>なかったんだけど！</span><br><span class='scene-font-4'>これまで、ただの一度も！</span>,<span class='scene-font-4'>这种事情，</span><br><span class='scene-font-4'>我从来都没想过呢！</span><br><span class='scene-font-4'>迄今为止，一次都没有过！</span>
+3,メグ,だって私にとって<br>あなた達の印象って……,因为对我来说<br>你们给我的印象……
+4,メグ,<span class='scene-font-4'>あぁ、ごめん！</span><br>悪い意味じゃないんだよ！,<span class='scene-font-4'>啊啊，对不起！</span><br>我不是说你们坏话的意思！
+5,メグ,その……私が不幸な目に遭った時、<br>なぜかあなた達がそばにいたから、<br>えっと……イメージというか……,那个……因为我每次遭遇不幸的时候，<br>不知道为什么每次都有你们在，<br>呃……说是印象还是……
+6,メグ,ご、ごめん……<br>正直、当初は悪いイメージを<br>持っていたかも……,对、对不起……<br>说实话，开始我说不定是对你们有不好的印象……
+7,メグ,でもよく考えてみたら<br>私ってあなた達に<br>助けられてばかりだったんだよね。,但是我又认真想了想<br>我一直以来都被你们救着呢。
+8,メグ,その騎空団に、私が……,那个骑空团，我……
+8-sel1_txt,,<span class='scene-font-katari'>入りたくない？</span>,<span class='scene-font-katari'>你不想加入？</span>
+8-sel2_txt,,<span class='scene-font-katari'>強くなりたいなら</span>,<span class='scene-font-katari'>如果你想变强的话</span>
+8-sel3_txt,,<span class='scene-font-katari'>鍛えられるよ</span>,<span class='scene-font-katari'>能锻炼自己哦</span>
+10,メグ,えっ？,诶？
+11,メグ,う～ん……,嗯～……
+12,メグ,えへへ……<br>正直、興味あるよ。,诶嘿嘿……<br>实话说，我有兴趣哦。
+13,メグ,あなた達と一緒に旅をしたら……<br>私も強くなれるかな？,能和你们一起旅行的话……<br>我也可以变强的吧？
+14,,<span class='scene-font-katari'>姬塔は快くうなずいた。</span>,<span class='scene-font-katari'>姬塔高兴地点了点头。</span>
+15,メグ,そっか……<br>そうだよね！,是吗……<br>那也确实啊！
+17,,<span class='scene-font-spword'>メグの信頼度が50あがった！</span>,<span class='scene-font-spword'>梅格的信赖度上升了50！！</span>
+19,メグ,もちろんなりたい！,我当然想啊！
+20,メグ,ふふふ……！<br>きっと厳しい旅なんだろうね。<br>考えるとちょっと緊張するな。,呵呵呵……！<br>一定会是一场艰辛的旅程吧。<br>一想就紧张起来了呢。
+21,メグ,でもあなた達となら<br>いい刺激をもらえそう。,但是只要和你们在一起的话<br>好像会有很刺激的体验呢。
+23,,<span class='scene-font-spword'>メグの信頼度が75あがった！</span>,<span class='scene-font-spword'>梅格的信赖度上升了75！！</span>
+25,メグ,おぉっ！<br>カッコいいこと言ってくれるね！,哦哦！<br>你说的这可不得了啊！
+26,メグ,ふふふ～！<br>それだけ厳しい旅って<br>ことなんだろうけど……,呵呵呵～！<br>那肯定就是一场与之相应的艰辛旅程吧……
+27,メグ,うん……！<br><span class='scene-font-place'>アウギュステ</span>を守るためなら<br>私、どんなことも挑戦したいな！,嗯……！<br>既然是为了要守护<span class='scene-font-place'>奥古斯特的话</span><br>不管是什么我都想挑战一番呢！,
+29,,<span class='scene-font-spword'>メグの信頼度が100あがった！</span>,<span class='scene-font-spword'>梅格的信赖度上升了100！！</span>
+info,,,scene_evt200729_trust4
+译者,,,Van
