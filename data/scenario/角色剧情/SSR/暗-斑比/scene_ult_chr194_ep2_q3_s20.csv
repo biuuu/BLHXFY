@@ -1,0 +1,103 @@
+id,name,text,trans
+0-chapter_name,,おねえさんだもん！,我可是姐姐！
+0-synopsis,,警備兵を退けると、今度は機械人形達が現れる。姬塔達に相手を任せて地下の奥へと進んだヴァンピィは、傷だらけのヴァイトを発見する。そこにランベルト卿と対ヴァンパイア兵器が現れヴァンピィ達の前に立ち塞がるも、ヴァンピィはヴァイトと共に逃げることを決して諦めようとしない。そこに姬塔達が駆けつけ、一行は対ヴァンパイア兵器に立ち向かう。,击退警卫后，又出现了机械人偶。将对手留给姬塔一行的斑比前往地下深处，发现了受伤的班特。即使兰贝尔卿与对付吸血鬼的兵器站在那里，也丝毫没有消磨斑比与班特的一同逃出的意志。正在此时姬塔一行赶到，开始与兵器的战斗。
+1,,<span class='scene-font-katari'>警報を聞きつけ駆け付けた</span><br><span class='scene-font-katari'>警備兵達を撃退した姬塔達。</span>,<span class='scene-font-katari'>一行人将闻警报前来的</span><br><span class='scene-font-katari'>警卫兵击退。</span>
+3,ベス,ぎゃうぎゃうぎゃうー！,嘎嘎嘎ー！
+6,,<span class='scene-font-katari'>しかし、笛の音が響くと</span><br><span class='scene-font-katari'>物陰から無数の機械人形が現れ、</span><br><span class='scene-font-katari'>姬塔達の行く手を阻む。</span>,<span class='scene-font-katari'>但是，随着笛声，</span><br><span class='scene-font-katari'>从阴影中出现越来越多的警卫兵，</span><br><span class='scene-font-katari'>挡住一行人的去路。</span>
+7,ラカム/拉卡姆,コイツらがヴァンピィ達を<br>襲ったっていう銀の機械人形か！,这些就是袭击<br>你们的银色机械人偶吗！
+8,ヴァンピィ/斑比,もー！　アンタたちに構ってる<br>ヒマなんて無いの！,啊ー！　我们可没时间<br>和你们纠缠啊！
+9,ヴァンピィ/斑比,早くヴァイトを見つけて<br>助けてあげなきゃいけないのにー！,快点找斑特<br>早点去救他才行ー！
+10,機械人形/机械人偶,────！,────！
+11,ルリア/露莉亚,ヴァンピィちゃん、危ない！,斑比ちゃん，危险！
+12,,<span class='scene-font-katari'>機械人形は姬塔達を無視し、</span><br><span class='scene-font-katari'>真っ直ぐにヴァンピィだけを狙う。</span>,<span class='scene-font-katari'>机械人偶无视一行人，</span><br><span class='scene-font-katari'>直直攻向斑比。</span>
+15,,<span class='scene-font-katari'>姬塔は咄嗟に、</span><br><span class='scene-font-katari'>ヴァンピィを機械人形から庇い、</span><br><span class='scene-font-katari'>振り下ろされた銀の剣を受け止める。</span>,<span class='scene-font-katari'>姬塔反应灵敏，</span><br><span class='scene-font-katari'>将斑比护在身后，</span><br><span class='scene-font-katari'>挡住了挥下的银剑。</span>
+16,ビィ/碧,こいつ、ヴァンピィばっかり<br>狙いやがって！,这家伙，只瞄着斑比打！
+23,ベス,グォォォォォ！,嘎嗷嗷嗷！
+27,ラカム/拉卡姆,ヴァンピィ！<br>機械人形は俺達が引き受ける！<br>お前はヴァイトを探せ！,斑比！<br>机械人偶就交给我们！<br>你去找斑特！
+28,ヴァンピィ/斑比,うん、わかった！<br>ありがとう、みんな！,嗯，我知道了！<br>谢谢大家！
+29,,<span class='scene-font-katari'>姬塔達が機械人形を</span><br><span class='scene-font-katari'>足止めしている隙に、</span><br><span class='scene-font-katari'>奥へと駆けだすヴァンピィ。</span>,<span class='scene-font-katari'>趁着一行人阻挡</span><br><span class='scene-font-katari'>机械人偶的时候，</span><br><span class='scene-font-katari'>斑比向里面跑去。</span>
+30,ヴァンピィ/斑比,<span class='scene-font-kokoro'>（待ってて、ヴァイト。</span><br><span class='scene-font-kokoro'>今助けてあげるから……！）</span>,<span class='scene-font-kokoro'>（等着我，斑特。</span><br><span class='scene-font-kokoro'>现在就去救你……！）</span>
+36,,<span class='scene-font-katari'>進む程に強くなる気配を辿り、</span><br><span class='scene-font-katari'>駆けて行くヴァンピィは、</span><br><span class='scene-font-katari'>こじんまりとした空間に辿り着く。</span>,<span class='scene-font-katari'>随着斑比的前进，</span><br><span class='scene-font-katari'>斑特的气息越来越强烈，</span><br><span class='scene-font-katari'>最终，她来到一个小巧精致的房间。</span>
+37,ヴァンピィ/斑比,ヴァイト！,斑特！
+38,ヴァイト/斑特,……う……,……唔……
+39,ヴァンピィ/斑比,っ！？　ひどい傷……！<br>すぐ助けるからね！,！？　好重的伤……！<br>我马上救你出去！
+40,ヴァイト/斑特,……ッ！<br>来るな、ヴァンピィ……<br>来ちゃダメだ！,……！<br>快回去，斑比……<br>这里很危险！
+41,ヴァンピィ/斑比,なに言ってるの！<br>早く手当しなきゃ、傷が……！,你说什么啊！<br>不赶紧处理的话，你的伤……！
+44,ヴァンピィ/斑比,きゃっ！？,呀！？
+47,,<span class='scene-font-katari'>足元から音が聞こえた直後、</span><br><span class='scene-font-katari'>床から現れた銀色に光る柵が</span><br><span class='scene-font-katari'>ヴァンピィを囲い閉じ込めた。</span>,<span class='scene-font-katari'>从脚边传来一阵声音，</span><br><span class='scene-font-katari'>斑比看到闪着光的银色栅栏</span><br><span class='scene-font-katari'>将斑特围在里面。</span>
+48,ヴァンピィ/斑比,もう！<br>こんなの、すぐ壊してやるんだから！,啊！<br>这种东西，看我一下子搞掉它！
+49,ヴァイト/斑特,ヴァンピィ、<br>下手に触らないほうがいい……！<br>それは……,斑比，<br>不要随便动它……！<br>这是……
+50,？？？,それはキミ達の力を奪う、<br>純銀で出来たヴァンパイア用の檻だ。<br>大人しくしていたほうが身のためだよ。,这是专门为了限制你们，<br>用纯银打造的栅栏。<br>还是乖乖呆着比较好哦。
+51,ランベルト,はは、まさか助けに来るとはね！<br>ヴァンパイアにも<br>情はあるということか。,哈哈哈，没想到你会来救他！<br>看来吸血鬼<br>也不是没有感情。
+52,ランベルト,ここにヴァンパイア用の<br>罠を仕掛けておいて<br>正解だったな。,在这里布置<br>对付吸血鬼的陷阱<br>真是太对了。
+53,ヴァンピィ/斑比,アンタ……！<br>そんなにヴァンパイアのことが<br>嫌いなの！？,你……！<br>就这么<br>讨厌吸血鬼！？
+54,ランベルト,嫌い？　まさか！<br>むしろ私は、キミ達の美しさに<br>心底惚れこんでいるんだよ！,讨厌？　大错特错！<br>不如说，我打心底里<br>沉溺于你们的美丽！
+55,ランベルト,飾ってあった剥製を見たかい？<br>あれはね、昔偶然手にいれた<br>ヴァンパイアの死体で作ったのさ。,看到装饰起来的标本了吗？<br>那些，是偶然间<br>得到的吸血鬼的尸体做成的。
+56,ランベルト,だが、いかんせん死んでから時間が<br>経ちすぎていた。あれじゃ、<br>伝説と謳われる存在としては醜すぎる。,但是，他们死去的时间<br>实在太久。作为讴歌传说的存在，<br>他们过于丑陋。
+57,ランベルト,それから私は、生きたヴァンパイアを<br>自らの手で狩り、新鮮なまま<br>美しい剥製にしたいと夢見ていたんだ。,既然如此，那我就亲手<br>狩猎吸血鬼，我一直梦想着<br>能制作一个新鲜的标本。
+58,ランベルト,そんな時だよ。<br>街でキミが起こしたあの騒ぎに<br>出くわしたのは。,就在这时。<br>你们在镇上<br>引起骚动。
+59,ランベルト,ははは！　ありがとう、お嬢ちゃん！<br>キミの愚かな行動のおかげで、<br>ようやく私の夢が叶う！,哈哈哈！　小姐，真是感谢你！<br>你们愚蠢的骚动，<br>终于让我得偿所愿！
+60,,<span class='scene-font-katari'>自分が起こした騒ぎがこの状況を</span><br><span class='scene-font-katari'>作り出したのだと知り、目を見開く</span><br><span class='scene-font-katari'>ヴァンピィ。</span>,<span class='scene-font-katari'>得知这一切的源头</span><br><span class='scene-font-katari'>来自自己的所作所为时，斑比</span><br><span class='scene-font-katari'>瞪大了眼睛。</span>
+61,ヴァンピィ/斑比,全部……ヴァンピィちゃんのせい？,全部……都是斑比ちゃん的错？
+62,ヴァンピィ/斑比,もしあの時、ヴァンパイアだって<br>知られなければ、ヴァイトも<br>痛い思いをしなくてよかったの……？,如果那个时候，<br>没有被人知道自己是吸血鬼，斑特也<br>不会受伤……？
+63,ヴァイト/斑特,違う！<br>こうなったのは<br>ヴァンピィのせいじゃない！,不对！<br>变成这样<br>不是斑比的错！
+64,ランベルト,ははっ、それだけの傷を負いながら<br>そのお嬢ちゃんを庇うのか？,哈哈，受了这么重的伤，<br>还是要庇护这位小姐吗？
+65,ランベルト,お嬢ちゃんさえ大人しくしていれば、<br>ヴァンパイアであることも<br>知られなかっただろうに。,只要小姐老老实实的话，<br>身为吸血鬼的事情<br>也就不会被知道了。
+66,ヴァイト/斑特,……黙れ、下衆が……！<br>ヴァンピィに指一本触れてみろ。<br>噛みついてでも殺してやる……！,……闭嘴，小人……！<br>你试试碰她一下。<br>就算是咬也要把你杀死……！
+67,ランベルト,"ははっ！<br>今にも気を失いそうになっている癖に<br>よく吠える。 ","哈哈！<br>明明马上就要失去意识了<br>真敢说啊。 "
+68,ランベルト,ふむ……料理も剥製も、<br>素材の活きが大事だからね。<br>坊やから加工するとしようか。,嗯…料理也好，标本也好，<br>素材或者才是最重要的。<br>就从小哥开始下手吧。
+69,ランベルト,なに、どちらが先だろうが<br>結末は同じだ。<br>安心するといい。,别担心，<br>不论从谁开始。<br>结局都是一样的。
+70,ヴァイト/斑特,くっ……！,咳……！
+71,ヴァンピィ/斑比,っ！！　<br>ヴァイト！,！！　<br>斑特！
+72,,<span class='scene-font-katari'>ヴァイトに近付く男を止めようと</span><br><span class='scene-font-katari'>檻に手を掛けたヴァンピィだが、</span><br><span class='scene-font-katari'>痺れるような痛みに顔を歪める。</span>,<span class='scene-font-katari'>想要阻止男人接近斑特</span><br><span class='scene-font-katari'>的斑比紧紧地抓住栅栏，</span><br><span class='scene-font-katari'>却痛的脸纠做一团。</span>
+73,ヴァンピィ/斑比,出して、出しなさい！！<br>アンタが狙ってたのは<br>ヴァンピィちゃんでしょ！,放开我！放开我！！<br>你要抓的是<br>斑比ちゃん吧！
+74,ヴァンピィ/斑比,やめて、やめてよぉ……！<br>誰か……っ！,住手，住手……！<br>谁来……！
+75,,<span class='scene-font-katari'>祈るように目を閉じた</span><br><span class='scene-font-katari'>ヴァンピィの耳に、</span><br><span class='scene-font-katari'>遠くから咆哮が轟いた。</span>,<span class='scene-font-katari'>闭上眼睛祈祷的斑比</span><br><span class='scene-font-katari'>的耳旁，</span><br><span class='scene-font-katari'>远远地传来一阵轰鸣。</span>
+77,ベス,<span class='scene-font-4'>グォォォォォォッ！！</span>,<span class='scene-font-4'>嘎嗷嗷嗷！！</span>
+78,ランベルト,何っ！？,怎么！？
+80,ランベルト,ぐあ……っ！,唔啊……！
+81,,<span class='scene-font-katari'>咆哮と共に現れた</span><br><span class='scene-font-katari'>ベスの体当たりを受け、</span><br><span class='scene-font-katari'>男は弾き飛ばされる。</span>,<span class='scene-font-katari'>与咆哮一同出现的</span><br><span class='scene-font-katari'>贝斯用身体攻击，</span><br><span class='scene-font-katari'>将男人弹飞。</span>
+82,,<span class='scene-font-katari'>ヴァンピィを捕える檻に</span><br><span class='scene-font-katari'>噛みついたベスは、</span><br><span class='scene-font-katari'>そのまま力づくで檻を破壊した。</span>,<span class='scene-font-katari'>贝斯将困住斑比</span><br><span class='scene-font-katari'>的栅栏咬住，</span><br><span class='scene-font-katari'>就这样使劲弄坏了。</span>
+87,ヴァンピィ/斑比,ベスちゃん！<br>来てくれたんだね！,贝斯ちゃん！<br>你来了！
+94,ベス,ぎゅるるるるぅ……,咕噜噜噜噜……
+95,,<span class='scene-font-katari'>ヴァンピィが檻を出るとほぼ同時、</span><br><span class='scene-font-katari'>力尽きたベスの身体は</span><br><span class='scene-font-katari'>元の愛らしい姿に戻ってしまう。</span>,<span class='scene-font-katari'>就在斑比逃出来的同时，</span><br><span class='scene-font-katari'>力竭的贝斯</span><br><span class='scene-font-katari'>变回原来的可爱的样子。</span>
+96,ランベルト,うぅ……,唔唔……
+97,ヴァンピィ/斑比,今のうちに逃げなきゃ……！<br>ヴァイト、掴まって！,必须趁现在逃走……！<br>斑特，抓紧！
+98,,<span class='scene-font-katari'>ヴァンピィはヴァイトに肩を貸し、</span><br><span class='scene-font-katari'>ベスと共に部屋の出口へと向かう。</span>,<span class='scene-font-katari'>斑比半抗这斑特，</span><br><span class='scene-font-katari'>与贝斯一同走向房间的出口。</span>
+104,ヴァンピィ/斑比,ヴァイト、もうちょっと頑張って！<br>けんぞくぅのところまで行ったら<br>手当してあげるから！,斑特，就快了，坚持一下！<br>等到了眷属那里，<br>就帮你治疗！
+105,ランベルト,おっと、そこまでだ！,哦，到此为止！
+107,ヴァンピィ/斑比,この音……！,这个声音……！
+108,,<span class='scene-font-katari'>男が笛の音を響かせると、</span><br><span class='scene-font-katari'>地面が微かに揺れどこからか機械の</span><br><span class='scene-font-katari'>起動音が鳴り響く。</span>,<span class='scene-font-katari'>随着男人的笛声响起，</span><br><span class='scene-font-katari'>从地面微震的地方</span><br><span class='scene-font-katari'>传来机械启动的声音。</span>
+109,ランベルト,遥か昔、ヴァンパイアを狩るために<br>作られたという純銀の兵器……<br>これを手に入れるのは苦労したよ。,在古代，为了狩猎吸血鬼<br>而制作的纯银兵器……<br>得到这个可费了我老大劲。
+117,,<span class='scene-font-katari'>崩れた部屋の壁から現れたのは、</span><br><span class='scene-font-katari'>全身に様々な凶器を携えた</span><br><span class='scene-font-katari'>純銀の機械だった。</span>,<span class='scene-font-katari'>房间崩坍之后出现的，</span><br><span class='scene-font-katari'>是全副武装的</span><br><span class='scene-font-katari'>纯银机械。</span>
+118,対ヴァンパイア兵器,────……,────……
+119,ヴァイト/斑特,ヴァンピィ、僕を置いて逃げろ。<br>共倒れになるくらいなら、<br>ヴァンピィだけでも無事に……,斑比，丢下我快跑。<br>与其一起被抓，<br>哪怕只有斑比平安……
+120,ヴァンピィ/斑比,逃げない！<br>一緒にけんぞくぅのところに<br>帰るんだから！,我不跑！<br>要一起回到<br>眷属那里！
+121,ヴァイト/斑特,どう考えても無茶だ、<br>ベスも戦えないのに！,别傻了，<br>贝斯都不能战斗了！
+122,ヴァンピィ/斑比,それでも、ぜったいヴァイトを<br>置いていったりなんかしない！,就算这样，我也绝对<br>不会丢下斑特不管！
+123,ヴァンピィ/斑比,ヴァンピィちゃんが怪我してた時、<br>ヴァイトが守ってくれたから、<br>今度はヴァンピィちゃんが守るの！,斑比ちゃん受伤的时候，<br>是斑特保护了我，<br>这次就换斑比来保护你！
+124,ヴァンピィ/斑比,それに、ヴァイトは大事な……<br>世界でたったひとりしかいない、<br>ヴァンピィちゃんの弟だから。,而且，斑特是……<br>世界上独一无二的<br>斑比ちゃん重要的弟弟。
+125,ヴァンピィ/斑比,だから、ヴァイトのこと<br>もう置いていったりしない！<br>見捨てたりしない！,所以，我不会<br>再丢下班特不管！<br>我不会见死不救！
+126,ヴァンピィ/斑比,だって、ヴァンピィちゃんは<br>ヴァイトのおねえさんだもん！,毕竟，斑比ちゃん<br>可是班特的姐姐！
+127,ヴァイト/斑特,ヴァンピィ……,斑比……
+128,対ヴァンパイア兵器,────,────
+129,,<span class='scene-font-katari'>迫る機械を前に、</span><br><span class='scene-font-katari'>怯みそうになる己を叱咤し、</span><br><span class='scene-font-katari'>ヴァンピィは力強く睨みつける。</span>,<span class='scene-font-katari'>在迫近的机械面前，</span><br><span class='scene-font-katari'>她斥责着害怕的自己</span><br><span class='scene-font-katari'>斑比气势汹汹的瞪视着它。</span>
+130,ランベルト,美しい姉弟愛か。<br>ふふ、ならば敬意を示して、<br>せめて一緒に楽にしてやろう。,多美妙的兄弟情。<br>呵呵，那我也要展示一下敬意，<br>至少让你们一起升天。
+131,ランベルト,最早生け捕りでなくても構わない。<br>殺してすぐに加工すれば<br>何の問題もないんだからな！,不能生擒也没有关系。<br>杀掉以后立刻加工的话<br>就不成问题！
+133,対ヴァンパイア兵器,────,────
+135,ヴァンピィ/斑比,……っ！,……！
+140,,<span class='scene-font-katari'>機械の腕がヴァンピィの上に</span><br><span class='scene-font-katari'>振り下ろされる寸前、飛び込んだ</span><br><span class='scene-font-katari'>姬塔の剣が機械の腕を弾く。</span>,<span class='scene-font-katari'>就在机械铁腕</span><br><span class='scene-font-katari'>砸向斑比的一刹那，姬塔那飞来的剑</span><br><span class='scene-font-katari'>将其弹开。</span>
+140-sel1_txt,,<span class='scene-font-katari'>おまたせ！</span>,<span class='scene-font-katari'>久等了！</span>
+141,ヴァイト/斑特,姬塔サン……！,姬塔……！
+142,ヴァンピィ/斑比,けんぞくぅ……！！,眷属……！！
+143,ヴァンピィ/斑比,もう、来るの遅いんだから～！,真是的，来得太慢了～！
+145,ラカム/拉卡姆,ヴァンピィ、ヴァイト！<br>無事か！？,斑比，班特！<br>没事吧！？
+146,ランベルト,な……っ！？<br>まさか、あの数の人形から<br>逃れたのか！？,啊……！？<br>不可能，从那么多人偶中<br>逃出来了吗！？
+147,ビィ/碧,へっ！<br>あんなの、姬塔の<br>敵じゃねーぜ！,哼！<br>那种东西，<br>根本就不是姬塔的敌人！
+148,ランベルト,クソッ！<br>全員まとめて殺してやる！！,该死！<br>我要把你们全杀掉！！
+150,対ヴァンパイア兵器,────！！,────！！
+151,ヴァンピィ/斑比,ふーんだ！<br>もうアンタなんか怖くないもん！,哼！<br>你们已经没什么好怕的了！
+152,ヴァンピィ/斑比,覚悟しなさい！<br>泣いたって許してあげないからね！,做好觉悟吧！<br>求我我也不会放过你们的！
+153,ヴァンピィ/斑比,ヴァンピィちゃん、<br>本気出しちゃうんだから！,斑比ちゃん，<br>要动真格的了！
+info,,,scene_ult_chr194_ep2_q3_s20
+译者,麻友桑的话筒,,

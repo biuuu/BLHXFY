@@ -1,0 +1,79 @@
+id,name,text,trans
+0-chapter_name,,おねえさんだもん！,我可是姐姐！
+0-synopsis,,姬塔達が作った隙をついて対ヴァンパイア兵器を破壊したヴァンピィ。ランベルト卿を縛り上げ一件落着となる。ヴァンピィは自分が身勝手な行動をとったことをヴァイトに謝り、無茶をしたヴァイトを怒る。互いを大事に想っている気持ちを知ったヴァンピィとヴァイトは仲直りし、そのまま疲労から眠りにつくのだった。,趁着一行人制造的间隙，斑比将对付吸血鬼的兵器破坏掉。之后一行人将兰贝尔绑了起来。斑比对自己采取贸然行动的事情向班特道了歉，也对班特乱来的事情发了火。在知道对方都很重视自己之后，斑比和班特和好了。之后就这样力竭睡着了。
+1,対ヴァンパイア兵器,────,────
+2,ビィ/碧,やったか！？,成了吗！？
+3,対ヴァンパイア兵器,────！！,────！！
+4,ルリア/露莉亚,ダメです、ビィさん！<br>まだ来ます！,不行，碧！<br>又来了！
+5,ラカム/拉卡姆,くそ！<br>意外としぶといなコイツ！,该死！<br>这帮家伙好缠人！
+6,ヴァンピィ/斑比,このままじゃみんなやられちゃう……<br>ちょっとだけでいいから……<br>アイツの動き、止められたら……！,这样下去大家都会被干掉……<br>只有一下也好……<br>要是能阻止这家伙的动作……！
+7,ランベルト,<span class='scene-font-4'>ははははは！</span><br>何をしようが無駄だ！<br>全員ここで死ね！！,<span class='scene-font-4'>哈哈哈哈哈！</span><br>白费心机！<br>你们都得死！！
+9,ヴァイト/斑特,この音……！,这个声音……！
+10,ヴァイト/斑特,姬塔サン、<br>機械を操ってるのはあの男の笛だ！,姬塔，<br>操纵机械的是那个男人的笛子！
+11,ラカム/拉卡姆,よし、姬塔！<br>俺がこのデカブツを引き受けてる間に<br>お前は笛を奪え！,好，姬塔！<br>我掩护你<br>把那家伙的笛子夺来！
+12,,<span class='scene-font-katari'>ラカムの言葉に頷いた姬塔は、</span><br><span class='scene-font-katari'>機械が放つ斬撃を皮一枚で避けると</span><br><span class='scene-font-katari'>ランベルトの懐に向かって飛びこむ。</span>,<span class='scene-font-katari'>姬塔冲拉卡姆点点头，</span><br><span class='scene-font-katari'>躲开机械的一击之后，</span><br><span class='scene-font-katari'>向兰贝尔卿身边飞奔过去。</span>
+13,ランベルト,な……っ！！,什……！！
+15,,<span class='scene-font-katari'>姬塔が剣先で笛を</span><br><span class='scene-font-katari'>弾き飛ばすと、すかさず飛んできた</span><br><span class='scene-font-katari'>ビィがそれを回収した。</span>,<span class='scene-font-katari'>姬塔用剑尖</span><br><span class='scene-font-katari'>将笛子挑飞后，碧立刻飞来</span><br><span class='scene-font-katari'>将其回收。</span>
+16,ビィ/碧,へへーん！<br>これでもう命令は出せないぜ！,哼哼！<br>这样你就没办法命令了！
+17,対ヴァンパイア兵器,────！！,────！！
+18,ラカム/拉卡姆,おいおい、笛を奪えば<br>止まるんじゃないのかよ！？,喂，喂，不是说夺走笛子的话，<br>它们就不会动了吗！？
+19,ヴァンピィ/斑比,ラカム兄ちゃん、<br>もうちょっとだけがんばって！,ラカム兄ちゃん、<br>もうちょっとだけがんばって！
+20,,<span class='scene-font-katari'>深く息を吸い込み、</span><br><span class='scene-font-katari'>目を閉じたヴァンピィの周囲に、</span><br><span class='scene-font-katari'>力の奔流が渦を巻いた。</span>,<span class='scene-font-katari'>她深深地吸了一口气</span><br><span class='scene-font-katari'>闭上眼睛的斑比的周围，</span><br><span class='scene-font-katari'>卷起了力量的漩涡。</span>
+21,ランベルト,何をしようが無駄だ！<br>ヴァンパイアの攻撃など、<br>通用するはずもない！,无用功！<br>吸血鬼的攻击<br>是不可能有用的！
+22,ヴァンピィ/斑比,これが、ヴァンピィちゃんの<br>本気の本気！<br>バラバラになっちゃえっ！,这就是，斑比ちゃん的<br>真正实力！<br>给我变成碎块吧！
+23,ヴァンピィ/斑比,<span class='scene-font-4'>ブラッディ・アブソープション！</span>,<span class='scene-font-4'>鲜血吸收！</span>
+31,対ヴァンパイア兵器,────！！,────！！
+42,,<span class='scene-font-katari'>激しい光と共に</span><br><span class='scene-font-katari'>室内に轟音が鳴り響き、</span><br><span class='scene-font-katari'>機械は煙を上げて停止する。</span>,<span class='scene-font-katari'>伴随着闪耀的光</span><br><span class='scene-font-katari'>屋内响起剧烈的轰鸣声</span><br><span class='scene-font-katari'>机器冒着烟，停止了活动。</span>
+43,ランベルト,な………<br>そんな、バカな……！,怎………<br>怎么会，这样……！
+44,,<span class='scene-font-katari'>動かなくなった機械を見つめ、</span><br><span class='scene-font-katari'>呆然と立ち尽くすランベルトの前に、</span><br><span class='scene-font-katari'>ヴァンピィは悠然と立ち塞がる。</span>,<span class='scene-font-katari'>看着无法动弹的机械</span><br><span class='scene-font-katari'>兰贝尔呆呆地站立着，</span><br><span class='scene-font-katari'>斑比则悠闲地堵到他面前。</span>
+45,ランベルト,ひっ……！,噫……！
+51,ヴァンピィ/斑比,けんぞくぅたちを機械に襲わせて、<br>死んでたとはいえ、<br>ヴァンパイアをあんな風にして……,你用机械袭击眷属他们，<br>虽然是死了，<br>但是那样对待吸血鬼……
+52,ヴァンピィ/斑比,なにより一番、<br>ヴァイトを散々痛い目に遭わせて……,最重要的是，<br>让班特遭受了那么多痛苦……
+53,ヴァンピィ/斑比,覚悟はいーい？,你做好准备了吧？
+54,ランベルト,や、やめろ……<br>やめてください！,放，放过我……<br>请放过我吧！
+56,ヴァンピィ/斑比,<span class='scene-font-4'>反省しなさーいっ！</span>,<span class='scene-font-4'>好好反省吧！</span>
+64,ランベルト,<span class='scene-font-4'>ぎゃあああああっ！！</span>,<span class='scene-font-4'>呀啊啊啊啊啊！！</span>
+69,,<span class='scene-font-katari'>ヴァンピィに怒りの一撃を喰らい、</span><br><span class='scene-font-katari'>情けなくも気絶したランベルトを</span><br><span class='scene-font-katari'>縛り上げた一行。</span>,<span class='scene-font-katari'>挨了斑比愤怒的一击之后，</span><br><span class='scene-font-katari'>兰贝尔很丢人地气绝倒地，</span><br><span class='scene-font-katari'>被一行人绑了起来。</span>
+70,ヴァイト/斑特,ぐ……っ！,唔……っ！
+71,ヴァンピィ/斑比,ヴァイト、大丈夫？<br>痛いよね……<br>ちょっとだけガマンしてね。,班特，没事吧？<br>很痛吧……<br>稍微忍一下。
+72,ヴァイト/斑特,ああ……,嗯……
+73,,<span class='scene-font-katari'>ぐったりと壁にもたれかかる</span><br><span class='scene-font-katari'>ヴァイトの傷を見るヴァンピィ。 </span>,<span class='scene-font-katari'>斑比查看着</span><br><span class='scene-font-katari'>精疲力尽靠在墙上的班特的伤势。 </span>
+74,,<span class='scene-font-katari'>塞がっていない腹の傷だけでなく、</span><br><span class='scene-font-katari'>まだ真新しい無数の傷跡を見て</span><br><span class='scene-font-katari'>ヴァンピィは顔を歪めた。</span>,<span class='scene-font-katari'>不只是还没有包扎的肚子上的伤，</span><br><span class='scene-font-katari'>还有很多新增的伤痕</span><br><span class='scene-font-katari'>看着这些斑比的脸都皱住了。</span>
+75,ヴァンピィ/斑比,……ごめんね、ヴァイト。,……对不起，班特。
+76,ヴァンピィ/斑比,ヴァンピィちゃんが<br>言うこと聞かなかったから、<br>こんなにいっぱい怪我して……,都是因为斑比ちゃん<br>没有听你的话，<br>才让你受这么重的伤……
+77,,<span class='scene-font-katari'>ヴァンピィの素直な言葉に</span><br><span class='scene-font-katari'>目を丸くしたヴァイトは、</span><br><span class='scene-font-katari'>戸惑ったように視線を彷徨わせる。</span>,<span class='scene-font-katari'>听了斑比直率的话，</span><br><span class='scene-font-katari'>班特略带迷惑地，彷徨地</span><br><span class='scene-font-katari'>睁大了眼睛。</span>
+78,ヴァイト/斑特,…………<br>…………いや。,…………<br>…………啊。
+79,ヴァイト/斑特,……ヴァンピィが問題を起こすのは<br>いつものことだろ。<br>反省しているなら、それでいい。,……斑比惹祸，<br>已经是家常便饭了。<br>只要你反省了，就行了。
+80,ヴァイト/斑特,今回のことで分かっただろ。<br>いくら人間にいい人がいても、<br>こういう悪い人もいるんだって。,这次你总应该明白了吧。<br>不论人类中有多少好人，<br>也还会有这样的坏人存在。
+81,ヴァイト/斑特,もし、似たようなことが起きても、<br>僕や姬塔サンが<br>助けられるとは限らないんだからな。,就算再发生这样的事情，、<br>我，或者姬塔<br>也不一定能赶来救你。
+82,ヴァンピィ/斑比,…………うん。,…………嗯。
+83,ヴァンピィ/斑比,……でも！<br>ヴァイトが無茶したことは<br>ヴァンピィちゃん許さないからね！,……但是！<br>斑比ちゃん不允许班特乱来！
+84,ヴァイト/斑特,なっ……！？<br>あれは仕方ないだろ！,啊……！？<br>那是没办法吧！
+85,ヴァンピィ/斑比,仕方なくない！　ヴァイトが<br>無茶するたび、ヴァンピィちゃん、<br>本当はすっごく怒ってるんだからね！,不是没办法！　班特<br>乱来的时候，斑比ちゃん<br>真的很生气！
+86,ヴァンピィ/斑比,だいたいねぇ、ヴァイトより<br>ヴァンピィちゃんのほうが<br>ずっとずーっと強いんですからー！,说到底，比起班特<br>斑比ちゃん<br>要厉害得多得多ー！
+87,,<span class='scene-font-katari'>反論しようとしたヴァイトだったが、</span><br><span class='scene-font-katari'>ヴァンピィの目が涙で滲んでいるのを</span><br><span class='scene-font-katari'>見てぐっと言葉を飲み込む。</span>,<span class='scene-font-katari'>班特刚要反驳</span><br><span class='scene-font-katari'>就看到斑比眼角渗出的泪水，</span><br><span class='scene-font-katari'>于是又把话咽回肚子。</span>
+88,ヴァンピィ/斑比,……だからヴァイトも、<br>もう、あんなことしないで。,……所以班特也，<br>不要再做这种事了。
+89,ヴァンピィ/斑比,あの時、ヴァイトが死んじゃうって<br>思って……ほんとのほんとに、<br>怖かったんだからぁ……！,那个时候，我还以为<br>班特就要死了……我真的真的，<br>很害怕……！
+91,ヴァンピィ/斑比,<span class='scene-font-4'>うわぁぁぁんっ！</span>,<span class='scene-font-4'>呜呜呜呜呜！</span>
+93,ヴァイト/斑特,ヴァンピィ……,斑比……
+94,ヴァイト/斑特,……ごめん、ヴァンピィ。<br>そんな風に思ってたなんて、<br>知らなくて……,……抱歉，斑比。<br>我不知道，<br>你是这么想的……
+95,ヴァンピィ/斑比,うぅ……ぐすっ……<br>もう、ぜったいぜったい、<br>やっちゃダメだからね！,呜呜……嗝……<br>绝对绝对，、<br>不嫩再这么做了！
+96,,<span class='scene-font-katari'>たったひとりの姉弟として、大事に</span><br><span class='scene-font-katari'>想っていた気持ちを知ることができた</span><br><span class='scene-font-katari'>ヴァンピィとヴァイト。</span>,<span class='scene-font-katari'>斑比和班特</span><br><span class='scene-font-katari'>知道了，对方都将自己作为</span><br><span class='scene-font-katari'>最重要的，唯一的兄弟姐妹来看待。</span>
+97,,<span class='scene-font-katari'>姬塔達はそんなふたりを</span><br><span class='scene-font-katari'>少し離れた所で見守っていた。</span>,<span class='scene-font-katari'>见此，姬塔一行</span><br><span class='scene-font-katari'>退到了稍远的地方，守护着他们。</span>
+98,ビィ/碧,へへっ！<br>仲直りできたみたいで良かったな！,嘿嘿！<br>太好了，看来他们和好了！
+99,ルリア/露莉亚,はい！<br>色々ありましたけど、ふたりとも<br>無事で良かったです！,是啊！<br>虽然发生了很多，但是辛亏两个人<br>都没事！
+100,ラカム/拉卡姆,やれやれ……<br>これであのお姫様も少しは<br>大人しくなってくれるといいがな……,真是的……<br>这样一来<br>那名大小姐也会稍微安分点了吧……
+102,,<span class='scene-font-katari'>しかし、突然ふたりが床に</span><br><span class='scene-font-katari'>崩れ落ちるのを見て、</span><br><span class='scene-font-katari'>姬塔達は慌てて駆け寄る。</span>,<span class='scene-font-katari'>但是，两个人</span><br><span class='scene-font-katari'>倒在了地板上，</span><br><span class='scene-font-katari'>一行人慌慌张张地前去查看。</span>
+103,ラカム/拉卡姆,おい、大丈夫か！？<br>,嗳，没事吧！？<br>
+104,ラカム/拉卡姆,……って、これは……,……呃，这是……
+106,ふたり/两人,…………,…………
+107,ビィ/碧,寝てるだけ……？,只是睡着了……？
+108,ビィ/碧,なぁんだ、驚かせやがって！,什么啊，吓人一跳！
+109,,<span class='scene-font-katari'>穏やかな寝顔を晒すふたりを見て、</span><br><span class='scene-font-katari'>ほっと胸を撫で下ろす</span><br><span class='scene-font-katari'>姬塔達。</span>,<span class='scene-font-katari'>看着安稳地睡在那里的两人，</span><br><span class='scene-font-katari'>一行人呼地松了一口气</span>
+110,ルリア/露莉亚,あっ……,啊……
+111,ビィ/碧,ん？<br>ルリア、どうかしたか？,嗯？<br>露莉亚，怎么了？
+112,ルリア/露莉亚,ふふっ、見てください。,呵呵，快来看。
+113,,<span class='scene-font-katari'>声を潜めたルリアの視線の先で、</span><br><span class='scene-font-katari'>ふたりの手がしっかりと</span><br><span class='scene-font-katari'>握られているのを見つける。</span>,<span class='scene-font-katari'>露莉亚压低了声音，在她面前</span><br><span class='scene-font-katari'>是两人</span><br><span class='scene-font-katari'>紧紧握在一起的手。</span>
+114,,<span class='scene-font-katari'>微笑ましい姉弟の絆に、</span><br><span class='scene-font-katari'>姬塔達は顔を見合わせ</span><br><span class='scene-font-katari'>笑みを浮かべるのだった。</span>,<span class='scene-font-katari'>看到温馨的姐弟情，</span><br><span class='scene-font-katari'>一行人互相看了一眼，</span><br><span class='scene-font-katari'>不由地浮现出笑容。</span>
+info,,,scene_ult_chr194_ep2_q3_s30
+译者,麻友桑的话筒,,

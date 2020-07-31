@@ -1,0 +1,78 @@
+id,name,text,trans
+0-chapter_name,,依頼の行方,委托的去向
+0-synopsis,,舞台の感想を喫茶店で語らうスツルムと姬塔。その様子を見守るターニャとフィーナとドランクも、順調そうなふたりの様子にほっとする。次の作戦として、スツルムは商店街でショッピングをしようとするが、目的なく商品を見る経験がなかったため狼狽えてしまう。しかし、見守っていた３人の陰からの助けもあり、姬塔と共に楽しく商店街を巡るのだった。,斯特姆和姬塔在咖啡厅讨论舞台剧的感想。始终观察着两人的塔妮亚、菲娜与德朗克看到计划顺利进行，安下心来。下一个作战计划，斯特姆本打算在商业街购物，但从未体验过漫无目的逛街的她惊慌失措。好在有三人的暗中帮助，斯特姆与姬塔享受了逛街的整个过程。
+1,スツルム/斯特姆,──簡単な話だ。<br>あの主人公がすぐに想いを伝えれば、<br>万事丸く収まってたはずだ。,——其实很简单。<br>如果主人公立刻把自己的想法说出来，<br>就万事大吉了。
+2,スツルム/斯特姆,秘めた想いだかなんだか知らないが、<br>そのせいでふたりはすれ違って……<br>これが戦場なら奴らに命は無い。,不管它是隐藏多年的想法还是什么，<br>两人因此失之交臂……<br>如果这是战场他们早已丧命黄泉。
+3,スツルム/斯特姆,解決したからよかったものの、<br>仲間を何人も巻き込んで……,就算最后解决了问题，<br>也波及到了好几位同伴……
+3-sel1_txt,,<span class='scene-font-katari'>楽しかったね</span>,<span class='scene-font-katari'>很有趣的故事</span>
+3-sel2_txt,,<span class='scene-font-katari'>熱中してたんだね</span>,<span class='scene-font-katari'>你很入迷啊</span>
+5,スツルム/斯特姆,…………！,…………！
+6,スツルム/斯特姆,まあ、退屈はしなかった……,嗯，倒没有特别无聊……
+7,スツルム/斯特姆,お前はどう思ったんだ？,你怎么认为？
+9,スツルム/斯特姆,なっ……！？,什……！？
+10,スツルム/斯特姆,あ、あたしの感想はいい。<br>お前はどうだったんだ？,别、别管我怎么想了。<br>你怎么认为？
+11,,<span class='scene-font-katari'>舞台を観終えて、</span><br><span class='scene-font-katari'>喫茶店にやって来た</span><br><span class='scene-font-katari'>スツルムと姬塔。</span>,<span class='scene-font-katari'>舞台剧落幕后，</span><br><span class='scene-font-katari'>斯特姆与姬塔</span><br><span class='scene-font-katari'>来到了咖啡厅。</span>
+12,,<span class='scene-font-katari'>感想を語らうふたりの様子を、</span><br><span class='scene-font-katari'>隅のテーブルから見つめる３人がいた。</span>,<span class='scene-font-katari'>3人坐在角落的桌子目不转睛地盯着</span><br><span class='scene-font-katari'>正在讨论感想的两人。</span>
+13,ドランク/德朗克,うんうん……<br>姬塔さんも楽しそうだし、<br>なかなかいい感じじゃない？,嗯嗯……<br>姬塔看上去也乐在其中，<br>不是感觉挺好的？
+14,フィーナ/菲娜,おーいおいおい……<br>よがっだよぉおお～！！,呜呜呜……<br>太好啦～！！
+15,ターニャ,わっ、フィーナ……！<br>ま、周りの人、こっち見てる……,哇，菲娜……！<br>周围的人都在看我们……
+16,フィーナ/菲娜,だってぇ～！<br>最後にちゃんと気持ちを伝えて……<br>主人公、あんなに弱虫だったのに……！,可是～！<br>最后主人公鼓足勇气表达了自己的感情……<br>一开始还是个胆小鬼来着……！
+17,フィーナ/菲娜,ターニャもドランクも、<br>むしろなんで泣いてないのよ！？,反倒是塔妮亚和德朗克，<br>为什么能忍住不哭啊！？
+18,ターニャ,わ、わかる……けど、<br>泣き止まないと、<br>気づかれちゃうから……！,我、我明白……但是，<br>如果不忍住，<br>会被发现的……！
+19,ドランク/德朗克,まぁ、劇のチョイスは<br>バッチリだったってことで……<br>それで、次の作戦は何だっけ？,好啦，就当作是<br>选对了剧……<br>然后呢，下一个计划是什么？
+20,ターニャ,え、えっと……<br>次は、私の……,嗯……<br>下一个，是我的……
+26,フィーナ/菲娜,劇を観終わったら、<br>近くの喫茶店でダベるのは確定ね。,看完剧以后，<br>当然要在附近的咖啡厅用餐啦。
+27,フィーナ/菲娜,これはもうセット！<br>スツルムとドランク、<br>アタシとミニゴブくらい黄金コンビ！,这已经成了固定搭配！<br>就像斯特姆和德朗克，<br>我和迷你哥布一样的黄金组合！
+28,スツルム/斯特姆,今、いないだろ。<br>ミニゴブもドランクも。,但是，迷你哥布和德朗克<br>现在都不在啊
+29,フィーナ/菲娜,ミニゴブは宿でスヤスヤお休み中。<br>でも、心はこの瞬間も繋がってるし！,迷你哥布现在在家里呼呼大睡。<br>但是，此时此刻心也紧紧相连！
+30,フィーナ/菲娜,アンタ達だってそうでしょ？,你们也一样吧？
+31,スツルム/斯特姆,今何をしているかは知らないし、<br>あいつの考えてることは、<br>だいたいよくわからない。,我怎么可能知道他现在在干什么，<br>他脑子里想的事情，<br>基本难以理解。
+32,ターニャ,あ、あの、話が逸れてる……,那、那个，话题偏了……
+33,フィーナ/菲娜,あ、そうそう。<br>問題は喫茶店の後よね……,啊，对对。<br>问题是离开咖啡厅以后……
+34,フィーナ/菲娜,ターニャだったらどうする？,这种情况塔妮亚会怎么办？
+35,ターニャ,えっ？　わ、私か……？,咦？　我……？
+36,スツルム/斯特姆,ターニャが楽しめることでいい。<br>考えるきっかけになる。,说你想做的事就行。<br>能作为思考的契机。
+37,ターニャ,…………,…………
+38,ターニャ,そ、それなら……,那、那就……
+44,スツルム/斯特姆,さぁ、次は買い物だ。,好了，接下来是购物。
+45,,<span class='scene-font-katari'>喫茶店を出たスツルムと</span><br><span class='scene-font-katari'>姬塔は、商店街へと</span><br><span class='scene-font-katari'>やって来ていた。</span>,<span class='scene-font-katari'>离开咖啡厅后，</span><br><span class='scene-font-katari'>斯特姆与姬塔</span><br><span class='scene-font-katari'>来到商业街。</span>
+46,,<span class='scene-font-katari'>しかし、行き交う人波の中、</span><br><span class='scene-font-katari'>スツルムは怪訝な表情で</span><br><span class='scene-font-katari'>立ち止まる。</span>,<span class='scene-font-katari'>然而，在来去匆匆的人流中，</span><br><span class='scene-font-katari'>斯特姆露出异样的表情</span><br><span class='scene-font-katari'>停下了脚步。</span>
+47,スツルム/斯特姆,<span class='scene-font-kokoro'>（買い物、か……</span><br><span class='scene-font-kokoro'>フィーナも太鼓判を押していた。</span><br><span class='scene-font-kokoro'>しかし、そんなに楽しいものか？）</span>,<span class='scene-font-kokoro'>（购物啊……</span><br><span class='scene-font-kokoro'>菲娜也认准了。</span><br><span class='scene-font-kokoro'>可是，就这么有意思吗？）</span>
+48,スツルム/斯特姆,<span class='scene-font-kokoro'>（買い物は目的でなく手段だ。</span><br><span class='scene-font-kokoro'>物資調達と言い換えてもいい。</span><br><span class='scene-font-kokoro'>目的のものを手に入れることが──）</span>,<span class='scene-font-kokoro'>（购物并非目的而是手段。</span><br><span class='scene-font-kokoro'>或者可以称之为筹备物资。</span><br><span class='scene-font-kokoro'>为了得到想要的东西——）</span>
+49,,<span class='scene-font-katari'>そこでスツルムは、</span><br><span class='scene-font-katari'>あることに気づいて目を見開く。</span>,<span class='scene-font-katari'>此时斯特姆</span><br><span class='scene-font-katari'>注意到了某件事，睁大了双眼。</span>
+50,スツルム/斯特姆,<span class='scene-font-kokoro'>（し、しまった……！</span><br><span class='scene-font-kokoro'>何を買うべきか聞いてない……）</span>,<span class='scene-font-kokoro'>（完、完了……！</span><br><span class='scene-font-kokoro'>忘了问应该买点什么……）</span>
+55,ターニャ,あ、あれ……？<br>スツルムさん、何か困ってる？,咦……？<br>斯特姆，是不是遇到了麻烦？
+56,ドランク/德朗克,だろうねぇ。<br>スツルム殿がぶらぶら<br>街歩きしてるのって見たことないし。,估计是了。<br>我根本没见过斯特姆阁下<br>在街上闲逛。
+57,ドランク/德朗克,ショッピングって聞いても、<br>物資調達くらいにしか<br>思ってないんじゃない？,就算跟她说购物，<br>估计也只认为是<br>筹备物资之类的了吧？
+58,ターニャ,そ、それって……！<br>まずいんじゃ……,那、那岂不是……！<br>问题很严重……
+59,スツルム/斯特姆,<span class='scene-font-kokoro'>（ど、どうする……？）</span>,<span class='scene-font-kokoro'>（怎、怎么办……？）</span>
+60,,<span class='scene-font-katari'>行動の指針がないことに気づき、</span><br><span class='scene-font-katari'>狼狽えるスツルム。</span>,<span class='scene-font-katari'>注意到没有行动方针，</span><br><span class='scene-font-katari'>斯特姆惊慌失措起来。</span>
+60-sel1_txt,,<span class='scene-font-katari'>何を買いに行くの？</span>,<span class='scene-font-katari'>我们是去买什么？</span>,
+61,スツルム/斯特姆,い、いや……そうだな……,嗯……就是……
+62,スツルム/斯特姆,<span class='scene-font-kokoro'>（何も思いつかない……</span><br><span class='scene-font-kokoro'>せめて商店街に</span><br><span class='scene-font-kokoro'>何があるかわかれば──）</span>,<span class='scene-font-kokoro'>（毫无头绪……</span><br><span class='scene-font-kokoro'>至少要是知道</span><br><span class='scene-font-kokoro'>商业街有什么东西——）</span>
+65,フィーナ/菲娜,お詫びにほら、<br>さっき歩いてたら貰った、<br>商店街のおトク情報マップを……,作为赔礼，给，<br>我刚才走路的时候拿到的，<br>商业街的打折地图……
+68,スツルム/斯特姆,<span class='scene-font-kokoro'>（そうだ、あの地図……）</span>,<span class='scene-font-kokoro'>（对了，那张地图……）</span>
+71,スツルム/斯特姆,<span class='scene-font-4'>いるか！</span>,<span class='scene-font-4'>谁要啊！</span>
+74,スツルム/斯特姆,<span class='scene-font-kokoro'>（くっ……！</span><br><span class='scene-font-kokoro'>あの時、受け取っておけば……）</span>,<span class='scene-font-kokoro'>（唔……！</span><br><span class='scene-font-kokoro'>当时收下该多好……）</span>
+75,,<span class='scene-font-katari'>その時、一枚の紙きれが</span><br><span class='scene-font-katari'>ひらひらと足元に舞ってくる。</span>,<span class='scene-font-katari'>此时，一张纸片</span><br><span class='scene-font-katari'>飘落到脚边。</span>
+76,,<span class='scene-font-katari'>スツルムが何気なく拾い上げると……</span>,<span class='scene-font-katari'>斯特姆无意中捡起后……</span>
+77,スツルム/斯特姆,<span class='scene-font-kokoro'>（こ、これは……！）</span>,<span class='scene-font-kokoro'>（这、这是……！）</span>
+78,スツルム/斯特姆,姬塔、おトクな店はあっちだ。<br>あたしが案内する。,姬塔，那边有正在促销的店。<br>我带你去。
+79,,<span class='scene-font-katari'>スツルムが拾った紙は、</span><br><span class='scene-font-katari'>あの時フィーナが渡そうとしていた</span><br><span class='scene-font-katari'>商店街のおトク情報マップだった。</span>,<span class='scene-font-katari'>斯特姆捡起的纸，</span><br><span class='scene-font-katari'>是当时菲娜本打算给她的</span><br><span class='scene-font-katari'>商业街的打折地图。</span>
+84,ターニャ・フィーナ/ターニャ・菲娜,あ、危なかった……,千、千钧一发……
+85,フィーナ/菲娜,あの地図、ターニャが<br>拾っておいてくれて助かったよ……,还好塔妮亚<br>捡了那张地图……
+86,ターニャ,う、ううん。<br>それより、ドランクさんが<br>風の魔法で届けてくれたおかげ……,不、不算什么。<br>还是多亏了德朗克<br>用风之魔法送达……
+87,ドランク/德朗克,あれくらいお安い御用だよ～<br>だって、<br>ここで終わっちゃ面白くないし？,小事一桩～<br>毕竟，<br>要是就此结束可太无趣了。
+93,スツルム/斯特姆,セール中の店なら、<br>どこに行っても任務に支障はない。,只要是打折的店，<br>去哪家都对任务没有影响。
+94,スツルム/斯特姆,行きたい店はあるか？<br>お前の好きにしろ。,想去哪？<br>选你喜欢的就行。
+94-sel1_txt,,<span class='scene-font-katari'>服を見に行きたい</span>,<span class='scene-font-katari'>想去看看衣服</span>
+94-sel2_txt,,<span class='scene-font-katari'>屋台で軽食をとりたい</span>,<span class='scene-font-katari'>想去摊位随便吃点什么</span>
+95,スツルム/斯特姆,服……？<br>足りなくなったのか？,衣服……？<br>不够穿了？
+96,スツルム/斯特姆,……行ってみないとわからない？<br>何だ、ハッキリしないな……,……非得去了才知道？<br>怎么了，支支吾吾的……
+97,スツルム/斯特姆,まあいい。行くぞ。,算了。走吧。
+98,スツルム/斯特姆,そういうのは、<br>さっきの喫茶店で言え……,这种话，<br>刚才才咖啡厅怎么不说……
+99,スツルム/斯特姆,なに……？<br>この先に串焼きの店が……？,什么……？<br>前面有烧烤店……？
+100,スツルム/斯特姆,……悪くない。,……也行。
+101,,<span class='scene-font-katari'>その後、スツルムと</span><br><span class='scene-font-katari'>姬塔は日が暮れるまで</span><br><span class='scene-font-katari'>商店街を巡るのだった。</span>,<span class='scene-font-katari'>后来，直到太阳落山为止</span><br><span class='scene-font-katari'>斯特姆与姬塔</span><br><span class='scene-font-katari'>都在四处逛街。</span>
+info,,,scene_chr605_q3_s10
+译者,,,SETSU_XY

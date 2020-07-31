@@ -1,0 +1,113 @@
+id,name,text,trans
+0-chapter_name,,真夜中の邂逅,深夜里的邂逅
+0-synopsis,,ある夜、仕事を終えたスツルムは街の料理店で偶然ターニャと出会う。ターニャに誘われ、相席して食事をとることになったスツルム。初めはぎこちない会話しかできなかったものの、スツルムの言葉をきっかけに、ふたりは少しずつ打ち解け合っていく。そんな折、スツルムがターニャにある相談を持ち掛けようとすると、傭兵の少女フィーナが乱入してくるのだった。,某天晚上，结束工作的斯特姆在街上的餐厅里偶然与塔妮亚相遇。斯特姆受塔妮亚邀请，与她拼桌共进晚餐。起初只是一些生硬的对话，但以斯特姆的话为契机，两人逐渐聊开了话题。就当斯特姆正打算就某件事与塔妮亚商量时，佣兵少女菲娜突然闯进两人之间。
+1,,<span class='scene-font-katari'>ある夜、仕事を終えたスツルムは</span><br><span class='scene-font-katari'>街の料理店を訪れていた。</span>,<span class='scene-font-katari'>某天晚上，斯特姆结束了工作</span><br><span class='scene-font-katari'>来到了街上的餐厅。</span>
+3,スツルム/斯特姆,…………,…………
+4,,<span class='scene-font-katari'>店内はほぼ満席の大盛況。</span><br><span class='scene-font-katari'>どこかに空席がないかと</span><br><span class='scene-font-katari'>見回していると……</span>,<span class='scene-font-katari'>店内几乎座无虚席。</span><br><span class='scene-font-katari'>当她环视周围</span><br><span class='scene-font-katari'>是否有空座位时……</span>
+5,ターニャ,あっ……,啊……
+6,スツルム/斯特姆,<span class='scene-font-kokoro'>（あれは……</span><br><span class='scene-font-kokoro'>確か姬塔の艇にいる……）</span>,<span class='scene-font-kokoro'>（她……</span><br><span class='scene-font-kokoro'>应该是在姬塔骑空艇上的……）</span>
+9,ターニャ,…………,…………
+15,,<span class='scene-font-katari'>ターニャ──</span><br><span class='scene-font-katari'>傭兵だった父の死の真相を追うべく、</span><br><span class='scene-font-katari'>姬塔と共に旅する少女だった。</span>,<span class='scene-font-katari'>塔妮亚——</span><br><span class='scene-font-katari'>为了追寻身为佣兵的父亲死亡的真相，</span><br><span class='scene-font-katari'>与姬塔一起旅行的少女。</span>
+21,ターニャ,…………,…………
+22,スツルム/斯特姆,…………,…………
+23,スツルム/斯特姆,<span class='scene-font-kokoro'>（あまり話したこともないし、</span><br><span class='scene-font-kokoro'>あたしがいたら、</span><br><span class='scene-font-kokoro'>落ち着かないだろうな……）</span>,<span class='scene-font-kokoro'>（没怎么和她说过话，</span><br><span class='scene-font-kokoro'>要是我在，</span><br><span class='scene-font-kokoro'>估计她也静不下心来吧……）</span>
+24,,<span class='scene-font-katari'>スツルムはターニャを気遣い、</span><br><span class='scene-font-katari'>くるりと踵を返して、</span><br><span class='scene-font-katari'>店の出口へと向かう。</span>,<span class='scene-font-katari'>考虑到塔妮亚，</span><br><span class='scene-font-katari'>斯特姆转过身，</span><br><span class='scene-font-katari'>朝着出口走去。</span>
+26,ターニャ,い、一緒に食べよう！　ご飯！,一、一起！　吃饭吧！27,スツルム/斯特姆,……は？,……啊？
+28,ターニャ,あ、その……急にすまない。<br>私、ターニャだ。<br>スツルムさん……だろ？,啊，那个……抱歉我有点急了。<br>我叫塔妮亚。<br>你是……斯特姆对吧？
+29,ターニャ,えっと、昔、依頼を受けた時、<br>一緒になったことがあって……<br>あ、その時より、髪は伸びたかも……,那个，以前，我们接到过<br>同一个委托……<br>啊，可能比起那个时候，头发长长了些……
+30,スツルム/斯特姆,顔は覚えてる。<br>でも、知り合いだからって、<br>無理に一緒に食事しなくても……,我记得你的脸。<br>但是，就算有过一面之缘，<br>也不用勉强自己和我一起吃饭……
+31,ターニャ,そ、そんな……<br>その、せっかく、会ったんだし、<br>何かの縁だと思って……,不、不是的……<br>那个，难得，遇见了，<br>应该是缘分……
+32,スツルム/斯特姆,……ひとりでゆっくり<br>食べてたんじゃないのか？,……你不是一个人<br>在慢慢吃饭的来着吗？
+33,ターニャ,で、でも……その……<br>お話、してみたくて。<br>スツルムさんと……,但、但是……那个……我想，试着跟你<br>聊一聊……
+34,スツルム/斯特姆,話と言われてもな……,就算你这么说……
+35,ターニャ,だ、だめなら、<br>私の向かいの席、空いてるし……,不、不行的话，<br>我对面的座位，还空着……
+36,ターニャ,料理、いっぱい頼んだから……<br>一緒に食べるだけでも……<br>どう、かな……？,我，点了很多食物……<br>就当是一起把这些吃掉……<br>怎么样？
+37,スツルム/斯特姆,…………,…………
+39,,<span class='scene-font-katari'>スツルムはターニャの脇を抜け、</span><br><span class='scene-font-katari'>早足で歩みを進めると……</span>,<span class='scene-font-katari'>斯特姆穿过塔妮亚，</span><br><span class='scene-font-katari'>快速向前进……</span>
+41,,<span class='scene-font-katari'>ターニャが座っていた席の</span><br><span class='scene-font-katari'>向かいに腰掛けた。</span>,<span class='scene-font-katari'>然后在塔妮亚的</span><br><span class='scene-font-katari'>对面坐下。</span>
+42,ターニャ,スツルムさん……！,斯特姆……！
+43,スツルム/斯特姆,たまたまここが空いていた。<br>それだけだ。, 这里偶然空着。<br>仅此而已。
+49,,<span class='scene-font-katari'>ターニャと相席することに</span><br><span class='scene-font-katari'>なったスツルム。</span>,<span class='scene-font-katari'>斯特姆最终与塔妮亚</span><br><span class='scene-font-katari'>共进晚餐。</span>
+50,スツルム/斯特姆,…………,…………
+51,ターニャ,…………,…………
+52,,<span class='scene-font-katari'>笑い声が絶えない店内で、</span><br><span class='scene-font-katari'>ふたりがいるテーブルだけが</span><br><span class='scene-font-katari'>別世界のように静かだった。</span>,<span class='scene-font-katari'>在笑声不绝于耳的店里，</span><br><span class='scene-font-katari'>两人所处的位置</span><br><span class='scene-font-katari'>仿佛别样的世界般寂静。</span>
+53,ターニャ,ここは肉料理が美味しくて……<br>ほら、その、ローストビーフとか。<br>お気に入りの店なんだ。,这里的肉很好吃……<br>比如，那个，烤牛肉之类的。<br>我很喜欢这里。
+54,スツルム/斯特姆,そうか。,这样啊。
+55,ターニャ,えっと、スツルムさんは……<br>どんな料理が好き？,那个，斯特姆……<br>你喜欢什么样的料理？
+56,スツルム/斯特姆,肉。,肉。
+57,ターニャ,うん、肉……肉はいいな。<br>ここ、お気に入りの店で、<br>肉料理が美味しくて……,嗯，肉……肉是好东西。<br>我，很喜欢这里，<br>肉很好吃……
+58,スツルム/斯特姆,……それはさっき聞いた。,……你刚才说过了。
+59,ターニャ,あっ……そうだな。<br>そうだった。はは……,啊……对哦。<br>是这样的。哈哈……
+60,ターニャ,そ、その……<br>すまない……,那、那个……<br>抱歉……
+61,スツルム/斯特姆,どうして謝る？,为什么要道歉？
+62,ターニャ,えっと、私、話すのが下手で……<br>さ、誘ったのは私なのに……,那个，我，不擅长表达……<br>明、明明是我邀请你的……
+63,スツルム/斯特姆,……注文していいか。,……我能点些吃的吗。
+64,,<span class='scene-font-katari'>スツルムは店員を呼び止め、</span><br><span class='scene-font-katari'>飲み物と小料理、そして</span><br><span class='scene-font-katari'>ローストビーフを注文した。</span>,<span class='scene-font-katari'>斯特姆叫住店员，</span><br><span class='scene-font-katari'>点了一些饮料和小菜，</span><br><span class='scene-font-katari'>以及烤牛肉。</span>
+65,スツルム/斯特姆,無理に喋る必要はないだろ。,你没必要勉强自己说话。
+66,ターニャ,あっ、うん……<br>ごめんなさい……,啊，嗯……<br>抱歉……
+67,スツルム/斯特姆,…………,…………
+68,スツルム/斯特姆,自分のペースで話せばいい。,按照自己的节奏来就可以。
+69,スツルム/斯特姆,あたしならそうする。,如果是我就会这么做。
+70,,<span class='scene-font-katari'>店員がスツルムのテーブルに</span><br><span class='scene-font-katari'>飲み物と小料理を運んでくる。</span>,<span class='scene-font-katari'>店员送来了</span><br><span class='scene-font-katari'>饮料和小菜。</span>
+71,スツルム/斯特姆,飲み物は……あるな。<br>じゃあ乾杯だ。,饮料……还有剩。<br>那干杯。
+72,ターニャ,か、乾杯……,干、干杯……
+74,,<span class='scene-font-katari'>スツルムはグラスを傾けると、</span><br><span class='scene-font-katari'>黄金色の麦酒をぐいっと呷り、</span><br><span class='scene-font-katari'>ターニャとの記憶を語る。</span>,<span class='scene-font-katari'>斯特姆把杯子向上抬起，</span><br><span class='scene-font-katari'>咕嘟咕嘟喝下金黄色的麦酒，</span><br><span class='scene-font-katari'>回忆起和塔妮亚的故事。</span>
+75,スツルム/斯特姆,お前のことはよく覚えてる。<br>なかなかのナイフ捌きだった。,我很清楚地记得你。<br>刀法很熟练。
+76,ターニャ,えぇっ……！？　ほ、本当か……？<br>戦場で、一度会ったきりなのに……？,咦……！？　真、真的吗……？<br>我们，只在战场上见过一面啊……？
+77,スツルム/斯特姆,こんなことで<br>嘘をついても仕方ないだろ。,这种事<br>有什么好骗人的。
+78,ターニャ,だ、だって、私、感動して……<br>その、すごい連携だったから。,因、因为，我，非常感动……<br>那个，你们配合很默契。
+79,ターニャ,そうだ、相方のドランクさん……<br>今日は一緒じゃないのか？,对了，搭档的德朗克……<br>今天不在吗？
+80,スツルム/斯特姆,いない方が静かでいい。,他不在才岁月静好。
+81,,<span class='scene-font-katari'>そこへ、赤身が眩しい</span><br><span class='scene-font-katari'>ローストビーフが運ばれ、</span><br><span class='scene-font-katari'>辺りに爽やかな香草の匂いが漂う。</span>,<span class='scene-font-katari'>此时，店员送上了</span><br><span class='scene-font-katari'>外焦里嫩的烤牛肉，</span><br><span class='scene-font-katari'>散发出清爽的香草气息。</span>
+82,スツルム/斯特姆,…………！,…………！
+83,ターニャ,スツルムさん、本当に肉が好きなんだ。<br>目、少し大きくなったから。,斯特姆，真的很喜欢肉类啊。<br>眼睛都瞪圆了。
+84,スツルム/斯特姆,肉なら何でもいいわけじゃない。,也不是什么肉都可以的。
+85,,<span class='scene-font-katari'>スツルムはぼそっと言うと、</span><br><span class='scene-font-katari'>フォークを肉に突き刺して</span><br><span class='scene-font-katari'>口へと運ぶ。</span>,<span class='scene-font-katari'>斯特姆轻轻说着，</span><br><span class='scene-font-katari'>用叉子叉起肉，</span><br><span class='scene-font-katari'>送到嘴里。</span>
+86,スツルム/斯特姆,もぐもぐ……,吧唧吧唧……
+87,ターニャ,…………,…………
+88,スツルム/斯特姆,これは……美味いな。<br>薦めるだけのことはある。,这个……味道不错。<br>怪不得被人推荐。
+89,ターニャ,ほっ……<br>よかった。嬉しい。,呼……<br>太好了。我很高兴。
+90,スツルム/斯特姆,どうしてお前が喜ぶ？,为什么你要高兴？
+91,ターニャ,はは……どうしてだろう。,……为什么呢。
+92,スツルム/斯特姆,おかしな奴だな……,奇怪的人……
+93,,<span class='scene-font-katari'>ふたりは黙々と肉を食べ進める。</span><br><span class='scene-font-katari'>言葉はなくとも、</span><br><span class='scene-font-katari'>それは温かな食卓だった。</span>,<span class='scene-font-katari'>两人默默地吃着肉。</span><br><span class='scene-font-katari'>即使没有交流，</span><br><span class='scene-font-katari'>餐桌上也十分温暖。</span>
+98,スツルム/斯特姆,そうか……<br>父親の死について知るために<br>姬塔と旅を……,这样啊……<br>你为了了解父亲的死<br>才和姬塔一起……
+99,,<span class='scene-font-katari'>各々のペースで</span><br><span class='scene-font-katari'>酒と肴を進めながら、</span><br><span class='scene-font-katari'>ふたりはぽつぽつと語らう。</span>,<span class='scene-font-katari'>她们以自己的节奏</span><br><span class='scene-font-katari'>一边进餐，</span><br><span class='scene-font-katari'>一边聊着点点滴滴。</span>
+100,スツルム/斯特姆,ナイフ、習ったのか？<br>傭兵だった父親に。,刀的使用技巧，是你父亲<br>教你的吗？
+101,ターニャ,えっ……？<br>ど、どうしてわかったの？,咦……？<br>你、你怎么知道？
+102,スツルム/斯特姆,別に……<br>ただ、似たような話を<br>聞いた覚えがあっただけだ。,没什么……<br>只是，感觉以前<br>听过类似的故事。
+103,ターニャ,父さんの形見のナイフ……<br>今も大事に使ってるんだ。,作为父亲遗物的刀……<br>我现在也在谨慎使用。
+104,ターニャ,毎日、ピカピカに磨いてる。,每天，都把它磨到发亮。
+105,スツルム/斯特姆,それも父親の教えか？,这也是父亲教你的？
+106,ターニャ,うん。毎日しっかり磨けって。,他让我每天认真打磨。
+107,スツルム/斯特姆,そうか……,这样啊……
+108,スツルム/斯特姆,……偉いな。,……了不起。
+109,ターニャ,えっと……<br>あ、ありがとう……,嗯……<br>谢、谢谢……
+110,スツルム/斯特姆,…………,…………
+111,ターニャ,スツルムさん、ちょっと顔赤い……？<br>もしかして、お酒弱いとか？,斯特姆，脸有点红……？<br>难道，你不能喝太多酒？
+112,スツルム/斯特姆,このくらいで酔うか！<br>ったく、あいつみたいなことを……！,这点量怎么可能醉！<br>真是，跟那人说一样的话……！
+113,ターニャ,ふふ……すまない。,呵呵……抱歉。
+114,スツルム/斯特姆,…………,…………
+115,スツルム/斯特姆,ひとつ、相談したいことがある。,有件事，想找你商量。
+116,スツルム/斯特姆,お前が言うところの「何かの縁」だ。<br>嫌だと言っても聞いて──,就像你所说“应该是什么缘分”。<br>就算你不情愿也听——
+119,フィーナ/菲娜,超絶カワイイくんくん鼻利き<br>フィーナちゃんが、<br>面白そうな匂いを感知～！！,超级可爱嗅觉灵敏<br>的菲娜，<br>感知到了有趣的味道～！！
+120,スツルム・ターニャ/斯特姆・ターニャ,…………！？,…………！？
+121,フィーナ/菲娜,なんか珍しい組み合わせじゃない！？<br>いいねいいねー！<br>仲良きことは美しきかな、ってやつ？,这组合真罕见！？<br>不错不错—！<br>这就是所谓，友谊天长地久？
+122,フィーナ/菲娜,あ、椅子足りないね！<br>お誕生日席つくろっか。,啊，椅子不够！<br>在桌角加一个吧。
+123,フィーナ/菲娜,<span class='scene-font-4'>すいません、店員さ～ん！</span><br>椅子ひとつ貰ってもいいですか～！,<span class='scene-font-4'>不好意思，服务员～！</span><br>可以再加一把椅子吗～！
+124,,<span class='scene-font-katari'>静かな食卓に現れた</span><br><span class='scene-font-katari'>ひとつの嵐は、</span><br><span class='scene-font-katari'>当たり前のようにテーブルに着く。</span>,<span class='scene-font-katari'>出现在宁静餐桌的</span><br><span class='scene-font-katari'>狂风暴雨，</span><br><span class='scene-font-katari'>理所当然般坐了下来。</span>
+125,フィーナ/菲娜,いや～、たまたま入った店で<br>こんな面白い女子会に出くわすなんて！<br>さすがフィーナちゃん、持ってる～！,哎呀～，随便进了家店<br>居然能撞见这么有趣的聚会！<br>不愧是菲娜，运气真好～！
+126,フィーナ/菲娜,それで、ふたりで何の話してたの？<br>あ、傭兵ガールズトークみたいな！？,然后，你们在聊什么？<br>啊，佣兵悄悄话之类的！？
+127,ターニャ,あ、あの……えっと……<br>わ、私は傭兵ってわけじゃ……,那、那个……嗯……<br>我、我不是佣兵……
+128,スツルム/斯特姆,……帰る。,……走了。
+129,,<span class='scene-font-katari'>突然、現れた傭兵の少女フィーナ。</span><br><span class='scene-font-katari'>ターニャは狼狽えており、</span><br><span class='scene-font-katari'>スツルムはにわかに席を立つ。</span>,<span class='scene-font-katari'>佣兵少女菲娜突然出现。</span><br><span class='scene-font-katari'>这令塔妮亚不知所措，</span><br><span class='scene-font-katari'>斯特姆则是立刻从座位上站起来。</span>
+130,フィーナ/菲娜,あー、待って待って！<br>いきなりごめんってば！,啊—，等下等下！<br>我道歉！
+131,フィーナ/菲娜,でも、なんか相談があるんでしょ？<br>そういうの実績バッチリだからさ、<br>アタシに任せときなって！,但是，你们是要商量什么的来着吧？<br>我在这方面业绩很不错的，<br>交给我！
+132,スツルム/斯特姆,き、聞いてたのか……！？,你、你听见了……！？
+133,フィーナ/菲娜,まあね～！<br>お耳ピンピンフィーナちゃんでも<br>あったのでした！,嗯哼～！<br>我同时也是<br>顺风耳菲娜！
+134,フィーナ/菲娜,スツルムが困ってるなんて珍しいし、<br>力になりたいよー！<br>ターニャもそう思うでしょ？,斯特姆居然在发愁<br>我想帮点什么忙—！<br>塔妮亚也这么认为吧？
+135,ターニャ,う、うん……<br>私に協力できることがあれば、<br>させてほしい……！, 嗯……<br>如果是力所能及的事，<br>希望可以让我帮忙……！
+136,,<span class='scene-font-katari'>フィーナの勢いに飲まれながら、</span><br><span class='scene-font-katari'>ターニャもやる気に満ちた様子で、</span><br><span class='scene-font-katari'>こくこくと頷く。</span>,<span class='scene-font-katari'>被菲娜的气势淹没，</span><br><span class='scene-font-katari'>塔妮亚也一副干劲十足的样子，</span><br><span class='scene-font-katari'>一个劲地点头。</span>
+137,,<span class='scene-font-katari'>そしてスツルムは</span><br><span class='scene-font-katari'>相談を持ち掛けたことを、</span><br><span class='scene-font-katari'>さっそく後悔しつつあるのだった。</span>,<span class='scene-font-katari'>然而斯特姆</span><br><span class='scene-font-katari'>已经逐渐开始后悔起</span><br><span class='scene-font-katari'>向别人寻求建议的决定了。</span>
+info,,,scene_fate_chr605_ep1
+译者,,,SETSU_XY
