@@ -4,11 +4,11 @@ import config from './config'
 let ee = new EventEmitter()
 let lacia
 
-const insertCSS = (name) => {
+const insertCSS = () => {
   const link = document.createElement('link')
   link.type = 'text/css'
   link.rel = 'stylesheet'
-  link.href = `${config.origin}/blhxfy/data/static/style/${name}.css?lacia=${config.version || ''}`
+  link.href = `${config.origin}/blhxfy/data/static/style/BLHXFY.css?lacia=${config.hash['BLHXFY.css'] || ''}`
   document.head.appendChild(link)
 }
 

@@ -181,6 +181,8 @@ const md5File = async () => {
       data[file] = hash.slice(0, 7)
     })
   })
+  const cssMd5 = await md5('./dist/blhxfy/data/static/style/BLHXFY.css')
+  data['BLHXFY.css'] = cssMd5.slice(0, 7)
   await Promise.all(prms)
   return data
 }
