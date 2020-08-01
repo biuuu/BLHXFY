@@ -1,0 +1,8 @@
+id,name,detail
+npc,阿妮拉,3040288000
+special,前途羊羊意气羊羊,<div class=prt-text-small>风属性伤害(特大)/下一次夏云奇迹全体化/即刻可以使用</div>
+skill-1,森罗万象,<div class=prt-text-small>对敌方全体造成6次全属性攻击/全属性防御DOWN</div>
+skill-2,夏云奇迹,<div class=prt-text-small>自身必TA/浑身</div>
+skill-3,羊姿玉质,<div class=prt-text-small>我方单体获得敌方弱点属性追击/完全回避(1次)</div>
+support-1,真正夏日的我的味道喜欢吗？,风属性角色TA时进行风属性追击
+support-2,整个夏天的服装,风属性角色无弱体状态时攻击UP/有时防御UP
