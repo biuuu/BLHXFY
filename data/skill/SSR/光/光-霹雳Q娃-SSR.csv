@@ -1,0 +1,10 @@
+id,name,detail
+npc,霹雳Q娃,3040188000
+special,亮晶晶黑白回转,<div class=prt-text-small>光属性伤害(特大)/自身奥义值UP(10%)<br><span class=text-blue>◆消耗全部奇迹之光</span></div>
+skill-1,黑色飞扑,<div class=prt-text-small>对敌方随机目标造成3次攻击<</div>
+skill-2,白色反击,<div class=prt-text-small>完全回避/援护/无法行动<br><span class=text-blue>◆回避时追加：对敌方单体造成3次光属性攻击</span></div>
+skill-3,绝对不放弃！,<div class=prt-text-small>自身获得高扬/即死回避(1次)</div>
+skill-4,羁绊的力量,<div class=prt-text-small>自身HP回复/攻防UP</div>
+support-1,二人是光之美少女！,两个人一起行动必DA
+support-2,奇迹之光,请大家应援光之美少女！<br><span class=text-blue>◆受到我方回复技能或者强化技能影响时，获得1层奇迹之光(最大3层)，奥义性能UP</span>
+skill-lb,LB技能,回合开始时，有几率自身获得反击

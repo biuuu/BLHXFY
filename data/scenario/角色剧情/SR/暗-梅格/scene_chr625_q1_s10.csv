@@ -1,0 +1,64 @@
+id,name,text,trans
+0-chapter_name,,フツー？　の女の子,普通？ 的女孩
+0-synopsis,,姬塔一行がマシャル島という島での魔物討伐の依頼を受けると、目的地を聞いたメグが目を輝かせる。そこにはメグが通信教育で学んだ近接格闘術、リュミオーラ格闘術の開祖であるマスター・シャルルがいるという。しかしマスター・シャルルの経歴はシャルロッテと酷似していた。格闘術がインチキである疑惑が浮上し、メグは真相を知るべく一行と共に島へ向かうのだった。,姬塔一行人接受了一个委托，要在一个马夏尔岛讨伐魔物，听到了这个目的地的梅格眼神闪闪发光。在那里，梅格在网课上学了近战格斗术，露米欧拉格斗术的开祖查尔斯大师就在那里。但是查尔斯大师的经历实在是与夏洛特太过相像了。这格斗术是否就是个骗局，这样的疑惑浮上了梅格的心头，为了知晓真相，梅格和一行人一起前往了那座岛。
+2,メグ/梅格,<span class='scene-font-gray'>わたし、メグ！</span><br><span class='scene-font-gray'>どこにでもいるフツーの女の子！</span>,<span class='scene-font-gray'>我是梅格！</span><br><span class='scene-font-gray'>一个平平无奇的普通女孩！</span>
+7,メグ/梅格,<span class='scene-font-gray'>地元のカフェで働いておカネを貯め、</span><br><span class='scene-font-gray'>ついにやってきたのは</span><br><span class='scene-font-gray'>憧れのリゾート地、</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-gray'>！</span>,<span class='scene-font-gray'>我在老家的咖啡厅打着工，攒着钱，</span><br><span class='scene-font-gray'>最后终于来到了我憧憬的度假胜地</span><span class='scene-font-place'>奥古斯提</span><span class='scene-font-gray'>！</span>
+12,メグ/梅格,<span class='scene-font-gray'>海で泳いだり、</span><br><span class='scene-font-gray'>おいしいものを食べたり……</span><br><span class='scene-font-gray'>ドキドキわくわくのバカンスの始まり☆</span>,<span class='scene-font-gray'>我终于能在海里游个够，</span><br><span class='scene-font-gray'>还能吃很多好吃的……</span><br><span class='scene-font-gray'>激动人心的度假终于要开始了☆</span>
+18,メグ/梅格,<span class='scene-font-gray'>と思っていたら、</span><br><span class='scene-font-gray'>ひょんなことから</span><br><span class='scene-font-gray'>お空を旅する騎空団に入っちゃった♪</span>,<span class='scene-font-gray'>就在我这么想着的时候，</span><br><span class='scene-font-gray'>因为各种意外，</span><br><span class='scene-font-gray'>我加入了在空中旅行的骑空团♪</span>
+19,メグ/梅格,<span class='scene-font-gray'>その騎空団はなんだか</span><br><span class='scene-font-gray'>個性的な人ばっかりで</span><br><span class='scene-font-gray'>びくびくのメグメグだけど……</span>,<span class='scene-font-gray'>在那个骑空团里，</span><br><span class='scene-font-gray'>感觉都是些充满个性的人，</span><br><span class='scene-font-gray'>梅格我真是战战兢兢的……</span>
+20,メグ/梅格,<span class='scene-font-place'>アウギュステ</span><span class='scene-font-gray'>を守るため</span><br><span class='scene-font-gray'>これから頑張らなくっちゃね！</span><br><span class='scene-font-gray'>ファイト♪　メグ！</span>,<span class='scene-font-gray'>但是为了守护</span><span class='scene-font-place'>奥古斯提</span><br><span class='scene-font-gray'>我必须得加油才行啊！</span><br><span class='scene-font-gray'>FIGHT♪　梅格！</span>
+25,ビィ/碧,うん？<br>さっきから何ぶつぶつ言ってんだ？,嗯？<br>从刚才开始你都在嘟囔些什么啊？
+26,メグ/梅格,な、なんでもない……！,什、什么都没……！
+27,ルリア/露莉亚,あの、メグさん！<br>もし悩んでいることがあるなら、<br>なんでも相談してくださいね！,那个，梅格！<br>如果你有什么烦恼的话，不管是什么都可以<br>都可以来找我商量哦！
+28,メグ/梅格,うん……,嗯……
+29,,<span class='scene-font-katari'>メグは姬塔達と過ごした</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>での思い出を振り返り、</span><br><span class='scene-font-katari'>小さく笑みを浮かべる。</span>,<span class='scene-font-katari'>回想起了和姬塔他们在</span><br><span class='scene-font-place'>奥古斯提</span><span class='scene-font-katari'>的各种回忆，</span><br><span class='scene-font-katari'>梅格露出了微笑。</span>
+30,メグ/梅格,それで、今度はどこに行くの？<br>依頼を受けたって聞いたんだけど……,那么这次我们要去哪呢？<br>我听说了是接受了什么的委托……
+31,メグ/梅格,このトンデモ団のことだから、<br><span class='scene-font-place'>アウギュステ</span>の時みたいに<br>変な化け物と戦ったりするのかな？,是这个骑空团的话，<br>肯定会和在<span class='scene-font-place'>奥古斯提</span>时一样，和一些很奇怪的魔物战斗吧？
+32,ビィ/碧,おいおい……オイラ達だって<br>好きで妙なやつらと戦ってる<br>わけじゃねぇんだけどなぁ……,喂喂……我们也不是自己喜欢去那些奇怪的家伙战斗的啊……
+33,ルリア/露莉亚,あははは……<br>私達って、なぜか大きな騒動に<br>巻き込まれちゃいますよね……,啊哈哈哈……<br>我们好像每次都会莫名的被卷入各种大骚乱中呢……
+34,ルリア/露莉亚,でも、今回は安心してください！<br>簡単な魔物退治ですから！,但是这次的话你就放心吧！<br>只是很简单的魔物讨伐而已！
+35,,<span class='scene-font-katari'>姬塔達は簡略に</span><br><span class='scene-font-katari'>依頼の内容をメグに説明する。</span>,<span class='scene-font-katari'>姬塔他们向梅格简单说明了一下委托的内容。</span>
+36,,<span class='scene-font-katari'>するとメグは、目的地が</span><br><span class='scene-font-katari'>マシャルという島であると聞いた途端、</span><br><span class='scene-font-katari'>両目を輝かせる。</span>,<span class='scene-font-katari'>然后梅格一听到目的地是马夏尔岛，</span><br><span class='scene-font-katari'>两眼瞬间闪起了光。</span>
+37,メグ/梅格,<span class='scene-font-4'>マシャル島！？</span><br>え……ホントに！？,<span class='scene-font-4'>马夏尔岛！？</span><br>诶……是真的吗！？
+38,メグ/梅格,すごい……<br>もしかしてあの人に会えるかも！,好厉害……<br>说不定能遇到那个人啊！
+39,ビィ/碧,うん？<br>急にはしゃいで、どうしたんだ？,嗯？<br>怎么突然那么大的反应，有什么事吗？
+40,メグ/梅格,だって、<span class='scene-font-spword'>“マスター・シャルル”</span>に<br>会えるかもなんだよ！<br>わはーっ！　どうしようどうしよう！,因为在那说不定能遇到<span class='scene-font-spword'>“查尔斯大师”</span>啊！<br>哇哈！怎么办怎么办！
+41,ルリア/露莉亚,えっと……<br>マスター・シャルルさん、ですか……？,呃……<br>你说的是，查尔斯大师吗……？
+42,メグ/梅格,私の恩人で、恩師でもある人！,是我的恩人啊，也是我的恩师！
+43,メグ/梅格,私が地元で山籠もりしてる間に<br>通信教育の一年コースで学んだ<br>近接格闘術……,我在老家的山里闭关修炼的时候，通过网课<br>学习了一年的近战格斗术的课程……
+44,メグ/梅格,そのリュミオーラ格闘術の<br>開祖こそ、マスター・シャルル<br>その人なの！,那个露米欧拉格斗术的开祖，就是查尔斯大师啊！
+45,メグ/梅格,おかげで私は、<br>強くなれたんだ！<br>だからすっごく尊敬してるの！,多亏了他，<br>我才能变强啊！<br>所以我非常尊敬他！
+46,ウルスラ,Sharrrk……,Sharrrk……
+47,メグ/梅格,うんうん、そうだね。<br>私が強くなれたから、きっと<br>ウルスラとも会えたんだよね♪,嗯嗯，是啊。<br>肯定也是因为我变强了<br>才能遇到乌苏拉啊♪
+48,ビィ/碧,へぇ……！<br>開祖って言うくらいだから、<br>きっとスゲェ強いんだろうな！,诶……！<br>你说是开祖的话，<br>那肯定是非常强了啊！
+49,メグ/梅格,もっちろん♪<br>会ったことはないけど、<br>経歴がとにかくすごいんだから！,那当然♪<br>虽然我还没见过他，<br>但是从他的经历上看就很不得了了！
+54,メグ/梅格,リュミオーラ格闘団っていう、<br>その国一番の精鋭部隊で<br>歴代最強の団長って呼ばれてて……,听说是所属露米欧拉格斗团，<br>在那个国家里最精锐的部队里，被称作历代最强的团长……
+55,メグ/梅格,でも最初から強かったわけじゃなくて、<br>血の滲むような鍛錬を積んで<br>団長まで上り詰めた努力家なの！,但是肯定也不是从一开始就那么强的，<br>他肯定也是积累了血泪的锻炼<br>才爬上团长一位的努力家啊！
+60,メグ/梅格,それだけで尊敬の塊なのに、<br>引退した理由がカッコいいんだ♪,但是他明明是一个那么受尊敬的存在却引退了，<br>那理由也非常帅气呢♪
+61,メグ/梅格,「身長が高すぎて目立つゆえに<br>敵に見つかりやすく、味方を無闇に<br>危険に晒してしまう」からだって！,因为「身高实在高得离谱，过于显眼，<br>太容易被敌人发现，会给队友带来过分的危险」！
+62,メグ/梅格,ねえ、カッコよすぎない？<br>強くて努力家で仲間想い！<br>はぁ～、生で拝みたいなぁ♪,那真是帅呆了吧？<br>那么强大，又是个努力家，还为伙伴着想！<br>哈～，真的好想现实去拜见一次啊♪
+63,ビィ・ルリア/碧・露莉亚,…………,…………
+64,メグ/梅格,ん？　どうかした？,嗯？ 怎么了？
+65,ビィ/碧,いやぁ、なんつーか……<br>どっかで聞いたことある<br>話なんだよなぁ……,哎呀，该怎么说呢……<br>这话好像是在哪里听过啊……
+66,ルリア/露莉亚,あの……<br>気のせいかもしれませんけど、<br>シャルロッテさんの経歴と……,那个……<br>说不定是我的错觉，<br>不过这和夏洛特的经历……
+67,ビィ/碧,ああ、それだ！<br>身長のとこが逆だけどな！,啊啊，没错！<br>不过身高上的说法就是相反的啊！
+68,メグ/梅格,シャルロッテ……さん？,夏洛特……？
+69,ビィ/碧,なぁ、気になるから<br>シャルロッテを呼んで<br>話を聞いてみようぜ！,看你那么在意<br>我们就去找找夏洛特<br>问问她吧！
+70,,<span class='scene-font-katari'>ビィの提案で、姬塔達は</span><br><span class='scene-font-katari'>シャルロッテを探して声をかける。</span>,<span class='scene-font-katari'>在碧的提案下，姬塔他们找到了夏洛特</span><br><span class='scene-font-katari'>并问了一番。</span>
+76,,<span class='scene-font-katari'>そして一行が事情を話すと、</span><br><span class='scene-font-katari'>シャルロッテは腕を組みながら</span><br><span class='scene-font-katari'>悩ましそうに答える。</span>,<span class='scene-font-katari'>然后一行人原委说完后，</span><br><span class='scene-font-katari'>夏洛特一边挽着手</span><br><span class='scene-font-katari'>一边一脸苦恼的样子回答道。</span>
+77,シャルロッテ/夏洛特,そうでありますか。<br>身長の話はともかく、確かに<br>自分の経歴と似ているであります……,是这样啊。<br>先不说身高的内容，确实<br>那和我的经历有点像……
+78,シャルロッテ/夏洛特,ふむ……<br>名前まで似ているところからも、<br>意図的なものを感じるような……,唔……<br>这名字上也有点像，这么判断的话，<br>感觉这其中是有什么意图呢……
+79,メグ/梅格,そ、そんな……じゃあ……,不、不会吧……那……
+80,メグ/梅格,リュミオーラ格闘術も<br>マスター・シャルルも……<br>全部ぜーんぶインチキってこと！？,露米欧拉格斗术<br>还有查尔斯大师……<br>这全部都是骗人的吗！？
+81,ビィ/碧,でも、実際メグは<br>強くなれたわけだしなぁ……<br>スゲェ偶然って可能性もあるぜ？,但是，实际上梅格也变强了啊……<br>说不定这只是一次很巧的巧合吧？
+82,ルリア/露莉亚,それなら、直接会いに行きましょう！<br>そうすれば、はっきりするはずです！,这么说的话，我们就直接去见见他吧！<br>这样应该就能将一切搞明白了！
+83,ビィ/碧,そうだな！<br>依頼が終わったら<br>ちょっくら訪ねてみるか！,是啊！<br>委托结束后<br>我们直接去拜访他吧！
+84,メグ/梅格,ありがとう！<br>姬塔も<br>私のワガママ聞いてくれる？,谢谢！<br>不过姬塔你也能接受我这任性的请求吗？
+84-sel1_txt,,<span class='scene-font-katari'>自分も気になる</span>,<span class='scene-font-katari'>我也很在意</span>
+84-sel2_txt,,<span class='scene-font-katari'>嘘なら見過ごせない</span>,<span class='scene-font-katari'>如果是骗人的话我可不能放过他</span>
+86,メグ/梅格,そうだよね……<br>シャルロッテさんのことがあるし、<br>姬塔も気になるよね。,也是哦……<br>这事关夏洛特，<br>姬塔你也很在意呢。
+88,シャルロッテ/夏洛特,ふむ……そうでありますね。<br>理由はどうあれ、<br>嘘は良くないであります！,嗯……没错啊。<br>就算是有理由，<br>骗人也是不好的！
+89,メグ/梅格,そ、そうですね……,是、是啊……
+90,,<span class='scene-font-katari'>マスター・シャルルの疑惑を</span><br><span class='scene-font-katari'>追及するべく、メグは奮起して</span><br><span class='scene-font-katari'>一行と共にその島に向かうのだった。</span>,<span class='scene-font-katari'>为了探明查尔斯大师的真相，梅格打起了精神</span><br><span class='scene-font-katari'>与一行人前往了那座岛。</span>
+info,,,scene_chr625_q1_s10
+译者,,,Van

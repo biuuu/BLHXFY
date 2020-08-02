@@ -1,0 +1,22 @@
+id,name,text,trans
+1,メグ/梅格,姬塔の騎空団は<br>個性的な人がいっぱいだね。<br>圧倒されちゃうな……,姬塔的骑空团里，<br>真的好多充满个性的人啊。<br>我人都要被压倒了……
+2,まりっぺ,ちなみに姬塔さん、<br>メグはこれを本心から言ってるわ。,我再多说一句哦，姬塔，<br>梅格这句可是出自真心的哦
+3,メグ/梅格,私、騎空団の人達に<br>どういう風に挨拶したら<br>覚えてもらえるかな？,我，应该要怎样向骑空团的人们打招呼，<br>才能让她们记住我呢？
+3-sel1_txt,,<span class='scene-font-katari'>大声で</span>,<span class='scene-font-katari'>大声打招呼</span>
+3-sel2_txt,,<span class='scene-font-katari'>笑って</span>,<span class='scene-font-katari'>笑着打招呼</span>
+3-sel3_txt,,<span class='scene-font-katari'>歌って</span>,<span class='scene-font-katari'>唱着歌去打招呼</span>
+5,メグ/梅格,そっか。<br>インパクトって大事だよね。,这样啊。<br>意思是冲击力是最重要的吗。
+6,メグ/梅格,私、地元で何度も<br><span class='scene-font-place'>アウギュステ</span>行きの定期船に<br>乗り遅れそうになったんだけど……,我在老家的时候，<br>有好几次坐去<span class='scene-font-place'>奥古斯提</span>的定期船时都差点迟到了……
+7,メグ/梅格,いつも「乗りま～す！」って<br>大声で言ってたからいけるかも！,我每次都是大声说着「我要上船～！」，<br>说不定这个方式可以呢。
+9,,<span class='scene-font-spword'>メグの信頼度が75あがった！</span>,<span class='scene-font-spword'>梅格的信赖度上升了75！！</span>
+11,メグ/梅格,笑ってかぁ……<br>ちょっと自信ないかな……,笑着啊……<br>但我可能没什么自信呢……
+12,まりっぺ,<span class='scene-font-4'>なに言ってるの！？ </span><br>メグの笑顔はとっても素敵じゃない！<br>大丈夫！　アタシが保証するから！,<span class='scene-font-4'>你在说什么呢！？ </span><br>梅格的笑容可是最棒的了！<br>没事的！　我向你保证！
+13,メグ/梅格,え、そ……そう？,呃，是……是吗？
+14,メグ/梅格,ありがとう、まりっぺ。<br>じゃあ、そうするね！,谢谢你，玛丽丽。<br>那我就这么决定啦！
+16,,<span class='scene-font-spword'>メグの信頼度が100あがった！</span>,<span class='scene-font-spword'>梅格的信赖度上升了100！！</span>
+18,メグ/梅格,<span class='scene-font-4'>歌！？</span><br>歌には自信ないな……,<span class='scene-font-4'>唱歌！？</span><br>但我对唱歌没什么自信啊……
+19,メグ/梅格,え？<br>騎空団には音楽できる人も<br>たくさんいるの……？,诶？<br>骑空团里还有很多会音乐的人吗……？
+20,メグ/梅格,そ、そうなんだ……<br>本当にいろんな人がいるんだね……<br>すごいなぁ……,这、这样啊……<br>真的是有各种各样的人在啊……<br>太厉害了……
+22,,<span class='scene-font-spword'>メグの信頼度が50あがった！</span>,<span class='scene-font-spword'>梅格的信赖度上升了50！！</span>
+info,,,scene_evt200729_trust7
+译者,,,Van

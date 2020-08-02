@@ -1,0 +1,24 @@
+id,name,text,trans
+1,ウルスラ,Sharrrk……,Sharrrk……
+2,ルリア/露莉亚,メグさんは<br>ウルスラさんの話してることが<br>わかるんですか？,梅格，乌苏拉它说的话<br>你都能听懂吗？
+3,メグ/梅格,うん、なんとなく。<br>合体すると、<br>もっと詳しく通じ合える感じかな。,嗯，我也不知道为什么能懂。<br>在合体之后，<br>感觉我们之间就能沟通得更加流畅了。
+4,ビィ/碧,それにしても、<br>あの時のサメの生き残りが<br>いたとは思わなかったぜ。,话说回来，<br>我真没想到那时候的鲨鱼还能活下来啊。
+5,メグ/梅格,私も路地裏でウルスラを見つけた時、<br>野良鮫っているんだぁって驚いたよ。,我那时候在小巷看到乌苏拉的时候也是，<br>没想到竟然还会有野鲨的存在，吓了一跳呢。
+6,メグ/梅格,でもここは<span class='scene-font-place'>アウギュステ</span>だし、<br>そういうこともあるよねって<br>すぐに思い直したんだけど……,但是我想着这毕竟是是在<span class='scene-font-place'>奥古斯提</span>，<br>会有这种事情存在也不奇怪，<br>所以马上就接纳了这个事实。
+6-sel1_txt,,<span class='scene-font-katari'>あるある</span>,<span class='scene-font-katari'>确实</span>
+6-sel2_txt,,<span class='scene-font-katari'>あるかな？</span>,<span class='scene-font-katari'>会吗？</span>
+6-sel3_txt,,<span class='scene-font-katari'>ないない</span>,<span class='scene-font-katari'>怎么会呢</span>
+8,メグ/梅格,だよね。<br>だって<span class='scene-font-place'>アウギュステ</span>だもんね！,没错吧。<br>因为那可是<span class='scene-font-place'>奥古斯提</span>啊！
+9,メグ/梅格,姬塔達からしたら<br>なおさら慣れたものでしょ？,那对姬塔你们来说的话<br>已经是习以为常了吧？
+10,メグ/梅格,だってこれまでおかしなのと<br>ずっと戦ってきたわけだし、<br>いまさら野良鮫くらい……ね？,因为你们一直以来都在和一些奇怪的东西在战斗，<br>再看到野鲨的话也会觉得没什么的吧？
+12,,<span class='scene-font-spword'>メグの信頼度が100あがった！</span>,<span class='scene-font-spword'>梅格的信赖度上升了100！！</span>
+14,メグ/梅格,あるでしょ？,那当然会啊？
+15,メグ/梅格,これまで姬塔達が<br>戦ってきたのと比べたら<br>フツーじゃない？,这和姬塔你们一直战斗的逼起来<br>那不是很普通吗？
+16,ビィ/碧,ふつうではねぇだろ……,哪里普通了……
+18,,<span class='scene-font-spword'>メグの信頼度が75あがった！</span>,<span class='scene-font-spword'>梅格的信赖度上升了75！！</span>
+20,メグ/梅格,えっ！？,诶！？
+21,メグ/梅格,姬塔！<br>これまで戦ってきたものを<br>忘れちゃったの？,姬塔！<br>你都忘记了你迄今为止都在和什么东西在战斗了吗？
+22,メグ/梅格,ダメだよ～、<span class='scene-font-place'>アウギュステ</span>じゃ<br>なにが起きるかわからないんだし、<br>ちゃんと思い出してね。,那可不行哦～，<br>不知道在<span class='scene-font-place'>奥古斯提</span>还会再发生些什么事态，<br>所以得好好回想起来哦。
+24,,<span class='scene-font-spword'>メグの信頼度が50あがった！</span>,<span class='scene-font-spword'>梅格的信赖度上升了50！！</span>
+info,,,scene_evt200729_trust8
+译者,,,Van

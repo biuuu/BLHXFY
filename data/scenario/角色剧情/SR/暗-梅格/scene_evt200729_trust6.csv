@@ -1,0 +1,35 @@
+id,name,text,trans
+1,,<span class='scene-font-katari'>姬塔と</span><br><span class='scene-font-katari'>まりっぺが話しているところへ</span><br><span class='scene-font-katari'>メグが現れた。</span>,<span class='scene-font-katari'>就在姬塔</span><br><span class='scene-font-katari'>和玛丽丽说着话的时候</span><br><span class='scene-font-katari'>梅格出现了。</span>
+3,メグ/梅格,ふたりともどうしたの？<br>いつの間にかいなくなっちゃったから<br>探してたんだよ。,你们两个怎么了啊？<br>突然间人就不见了<br>我还在找你们呢。
+4,まりっぺ,うふふ！<br>姬塔さんと<br>メグのことを話してたのよ。,呵呵！<br>我在和姬塔<br>聊着关于你的话题呢
+5,メグ/梅格,え、なにそれ！？<br>恥ずかしい話？,诶，那是啥！？<br>在聊我丢脸的事情吗？
+6,まりっぺ,ウソウソ。<br>ちょっとした世間話だから安心して。,没有没有。<br>只是在聊些日常，你别担心啦。
+7,メグ/梅格,本当……？<br>気になるんだけど～……,真的吗……？<br>不过我很在意啊～……
+8,まりっぺ,<span class='scene-font-place'>アウギュステ</span>でおすすめの場所を<br>姬塔さんに聞いてたの。<br>知りたいじゃない？,我在问姬塔<span class='scene-font-place'>奥古斯提</span><br>有什么推荐去游玩的地方。<br>你不也很想知道嘛？
+9,メグ/梅格,あっ、確かにそうだね！<br>騎空団はいつも来てるし。,啊，也是哦！<br>毕竟骑空团经常都会来这里。
+10,まりっぺ,姬塔さん、<br><span class='scene-font-place'>アウギュステ</span>でアタシらに<br>おすすめしたい場所ってある？,姬塔，<br>在<span class='scene-font-place'>奥古斯提</span>有什么好玩的地方向我们推荐吗？
+10-sel1_txt,,<span class='scene-font-katari'>スシのトォノシ島</span>,<span class='scene-font-katari'>去托诺西岛吃寿司</span>
+10-sel2_txt,,<span class='scene-font-katari'>一等地ベネーラビーチ</span>,<span class='scene-font-katari'>一等度假地金星海滩</span>
+10-sel3_txt,,<span class='scene-font-katari'>ンナギのシィラス島</span>,<span class='scene-font-katari'>去希拉斯岛吃鳗鱼</span>
+12,メグ/梅格,トォノシ島？<br>どこにあるの？　それは……,诺西岛？<br>那是在哪啊？ 那座岛……
+13,まりっぺ,ベネーラビーチから船で海を渡るの？,是从金星海滩坐船过去吗？
+14,まりっぺ,へぇ～！<br>知らなかった。,诶～！<br>我都不知道呢。
+15,メグ/梅格,スシかぁ……<br>食べてみたいなぁ……<br>どんな食べ物なんだろ？,寿司啊……<br>好想吃吃看呢……<br>是一种怎么样的食物啊？
+16,メグ/梅格,まりっぺ、次はトォノシ島へ<br>一緒に行こうね！,玛丽丽，我们下次<br>就一起去特诺西岛吧！
+17,まりっぺ,え……アタシを誘ってくれるの？,诶……你是在邀请我吗？
+18,メグ/梅格,もちろんだよ！<br>私の<span class='scene-font-place'>アウギュステ</span>には<br>まりっぺがいなくちゃ！,当然啊！<br>我的<span class='scene-font-place'>奥古斯提</span>度假<br>可不能没有玛丽丽啊！
+19,まりっぺ,メグ……,梅格……
+21,,<span class='scene-font-spword'>メグの信頼度が100あがった！</span>,<span class='scene-font-spword'>梅格的信赖度上升了100！！</span>
+23,まりっぺ,勝手知ったるベネーラビーチが<br>イチバンってことね。,那确实要最推荐的话就是金星海滩呢。
+24,メグ/梅格,いいところだよね。<br>でも高級リゾート地を<br>おすすめしてくるとは……,是个不错的地方呢。<br>你推荐的是高级的度假胜地，这是在是……
+25,メグ/梅格,そういえばあそこで私、<br>生まれて初めてナンパされたんだっけ。,话说回来，我在那里<br>好像经历了我人生的第一次搭讪啊。
+26,まりっぺ,<span class='scene-font-4'>はぁ！？</span><br>ちょっとそれ、どういうこと！？<br>どこのクソ男よ！！,<span class='scene-font-4'>哈！？</span><br>喂喂喂，那是怎么回事！？<br>是哪来的臭男人啊！！
+27,メグ/梅格,お、落ち着いてまりっぺ……<br>どうしたの……？,冷、冷静点，玛丽丽……<br>你怎么了啊……？
+29,,<span class='scene-font-spword'>メグの信頼度が75あがった！</span>,<span class='scene-font-spword'>梅格的信赖度上升了75！！</span>
+31,メグ/梅格,シ、シィラス島……<br>私がデンキンナギにやられた、あの……,希、希拉斯……<br>在那里我被电鳗电了……
+39,まりっぺ,そういえばンナギは<br>食べられなかったわね……,话说回来，<br>我之前都没吃到鳗鱼呢……
+40,メグ/梅格,そうだね。<br>食べる方もリベンジしたいし、<br>デンキンナギにもリベンジしたいね！,是啊。<br>不管是吃的方面还是怎么样，<br>我都想向电鳗报仇啊！
+41,まりっぺ,メグったら、武闘派！,梅格你还是个武斗派啊！
+43,,<span class='scene-font-spword'>メグの信頼度が50あがった！</span>,<span class='scene-font-spword'>梅格的信赖度上升了50！！</span>
+info,,,scene_evt200729_trust6
+译者,,,Van
