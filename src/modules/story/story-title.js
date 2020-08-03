@@ -7,6 +7,7 @@ const getName = async () => {
     nameMap = new Map(chapterName)
     nameMap.set('エンディング', '终章')
     nameMap.set('オープニング', '序章')
+    nameMap.set('信頼度エピソード', '信赖度剧情')
   }
   return nameMap
 }
@@ -41,6 +42,19 @@ const npcChapterList = async (data) => {
         item.chapter_name = nameMap.get(name)
       }
     })
+  }
+  if (data.other_episode) {
+    if (nameMap.has(data.other_episode.title)) {
+      data.other_episode.title = nameMap.get(data.other_episode.title)
+    }
+    if (data.other_episode.list) {
+      data.other_episode.list.forEach(item => {
+        let name = item.scene_name
+        if (nameMap.has(name)) {
+          item.scene_name = nameMap.get(name)
+        }
+      })
+    }
   }
 }
 
