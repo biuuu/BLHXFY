@@ -50,7 +50,10 @@ const build = async function (type = '') {
     format: 'iife',
     name: 'blhxfyex',
     banner: banner,
-    intro: `const DEV = ${process.env.DEV ? true : false};
+    intro: `const __win_blhxfy = window.unsafeWindow || window;
+    if (__win_blhxfy.BLHXFY) return;
+    __win_blhxfy.BLHXFY = true;
+    const DEV = ${process.env.DEV ? true : false};
     const LOCAL_HOST = ${process.env.LOCAL_HOST ? true : false};`
   })
 }
