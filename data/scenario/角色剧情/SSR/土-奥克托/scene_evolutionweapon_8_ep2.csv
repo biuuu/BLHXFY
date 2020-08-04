@@ -1,0 +1,53 @@
+id,name,text,trans
+0-chapter_name,,十天衆との邂逅②,
+0-synopsis,,シェロカルテの協力を受け、八命切の覚醒の準備を進める姬塔一行。するとオクトーが現れて八命切を「玩具」と言い、店から去っていく。憤るビィだが、シェロカルテは彼なら仕方ないと告げる。さらにシェロカルテは、オクトーが全空一の実力者が集う十天衆の一員であると語り、一行を驚愕させるのだった。,得到榭洛科特的帮助，姬塔等人准备让八命切觉醒。这时奥克托出现，将八命切戏称为玩具后离开了店内。碧为此生气，榭洛科特表示对于奥克托来说确实如此。并且告知了姬塔等人关于奥克托所属的全空第一实力者集团十天众的消息，一行人倍感震惊。
+0,,<span class='scene-font-katari'>シェロカルテの協力を受け、</span><br><span class='scene-font-spword'>「八命切」</span><span class='scene-font-katari'>を「覚醒」させるべく</span><br><span class='scene-font-katari'>着々と準備を進める姬塔達。</span>,<span class='scene-font-katari'>通过榭洛科特的帮助，</span><br><span class='scene-font-spword'>「八命切」</span><span class='scene-font-katari'>的觉醒所需要的</span><br><span class='scene-font-katari'>种种准备正在进行当中。</span>
+1,,<span class='scene-font-katari'>この日も姬塔達は</span><br><span class='scene-font-katari'>シェロカルテのアドバイスを求め</span><br><span class='scene-font-katari'>よろず屋へと足を運んだ。</span>,<span class='scene-font-katari'>这天姬塔等人</span><br><span class='scene-font-katari'>为了向榭洛科特寻求建议</span><br><span class='scene-font-katari'>来到了万事屋。</span>
+2,オクトー/奥克托,…………,
+3,ビィ/碧,……うわっ！？<br>じ、爺さんいたのかよ！<br>気配を感じなかったぜ……,……呜哇！？<br>老、老爷爷是你啊！<br>都没察觉到……
+4,オクトー/奥克托,…………,
+5,,<span class='scene-font-katari'>オクトーはビィの言葉にも振り向かず、</span><br><span class='scene-font-katari'>黙ってよろず屋の棚を眺め続けていた。</span>,<span class='scene-font-katari'>奥克托并没有在意碧说了什么</span><br><span class='scene-font-katari'>继续沉默着眺望万事屋的店铺。</span>
+6,ルリア/露莉亚,あの……もしかして、<br>お爺さんは何かを探してるんですか？,那个……难道说<br>爷爷您在找什么东西吗？
+7,オクトー/奥克托,……おなごの方が解り良かろうな。,……或许小姑娘更明白吧。
+8,ルリア/露莉亚,……？,
+9,オクトー/奥克托,そこな娘。頼みがある。,这位小姑娘。有件事要拜托。
+10,ルリア/露莉亚,好、好的！<br>是什么事呢？,
+11,ルリア/露莉亚,<span class='scene-font-kokoro'>（呜 面对面地说话</span><br><span class='scene-font-kokoro'>果然压迫感好强……！）</span>,
+12,オクトー/奥克托,幼き娘へ渡す、<br>手鏡を探しておる。,我在找<br>送给小女孩的手镜。
+13,ルリア/露莉亚,…………,
+14,オクトー/奥克托,…………,
+15,ルリア/露莉亚,えーっと、<br>プレゼントってことですか？,这是——<br>是要送礼物吗？
+16,オクトー/奥克托,然り。鏡は我が身を映す物。<br>時に見つめ己に正道を問うも<br>良かろうと思うてな。,然也。镜乃映身之物。<br>迷惘之时向其问证己之正道<br>也不失为良选。
+17,オクトー/奥克托,が、我にはハイカラは解らん。,然，我并不懂何为流行。
+18,ルリア/露莉亚,ハイカラ……う～んと、<br>小さな女の子が喜ぶような手鏡を<br>選べばいいんですね！,流行……嗯~就是说<br>您正在找<br>能让小女孩喜欢的手镜对吧！
+19,オクトー/奥克托,左様也。<br>よしなに頼む。,正是。<br>拜托了。
+20,ルリア/露莉亚,解りました！<br>姬塔、少し待っていて下さい。,我明白了！<br>姬塔，请稍等一下。
+22,,<span class='scene-font-katari'>ルリアはオクトーの頼みを聞き、</span><br><span class='scene-font-katari'>棚に置かれた手鏡を見始める。</span>,<span class='scene-font-katari'>露莉亚听了奥克托的委托</span><br><span class='scene-font-katari'>开始在店铺中的手镜里挑选。</span>
+23,,<span class='scene-font-katari'>ルリアを待つ間に、</span><br><span class='scene-font-katari'>オクトーはふと</span><br><span class='scene-font-katari'>姬塔に目を止めた。</span>,<span class='scene-font-katari'>等待露莉亚的时候</span><br><span class='scene-font-katari'>奥克托转过身</span><br><span class='scene-font-katari'>将视线停留在了姬塔身上。</span>
+25,オクトー/奥克托,ん……<br>うぬは、<span class='scene-font-spword'>「天星器」</span>を持つか。,嗯……<br>看来汝持有<span class='scene-font-spword'>「天星器」</span>
+26,ビィ/碧,<span class='scene-font-spword'>「天星器」</span>？<br>なんだそりゃ？,<span class='scene-font-spword'>「天星器」</span>？<br>那是什么啊？
+27,オクトー/奥克托,その<span class='scene-font-spword'>「八命切」</span>の別名。<br>いや、未だ覚醒せぬ刃では<br><span class='scene-font-spword'>「天星器」</span>とは呼べぬな。,那把<span class='scene-font-spword'>「八命切」</span>的别名。<br>不对，尚未觉醒的刀，还称不上<br><span class='scene-font-spword'>「天星器」</span>
+28,オクトー/奥克托,その刃はなまくらよ。<br>それならば子供の玩具、<br>うぬが持つも構うまい。,此刀还是稚嫩得很。<br>与孩童玩具无异<br>汝带着也无妨。
+29,ビィ/碧,んなっ！？<br>玩具ぅ！？,什么！？<br>玩具！？
+30,ルリア/露莉亚,オクトーさん！<br>この手鏡はどうですか……って、<br>ビィさん、なんで怒ってるんですか？,奥克托先生！<br>这面小镜子如何……啊<br>碧，为什么这么生气？
+31,ビィ/碧,だってよぅ、この爺さんが<br><span class='scene-font-spword'>「八命切」</span>を玩具だって……,因为啊，这个老爷爷把<br><span class='scene-font-spword'>「八命切」</span>说成是玩具……
+32,ルリア/露莉亚,玩具……？<br>おもちゃってことですよね。<br>こんなに鋭い刃なのに……？,玩具……？<br>小孩子玩的那种是吧。<br>可是刀刃这么锋利……？
+33,,<span class='scene-font-katari'>ルリアが差し出した手鏡を受け取り、</span><br><span class='scene-font-katari'>支払いに向かったオクトーは</span><br><span class='scene-font-katari'>姬塔とすれ違いざま、呟いた。</span>,<span class='scene-font-katari'>收下了露莉亚递出去的小镜子</span><br><span class='scene-font-katari'>准备去付钱的奥克托</span><br><span class='scene-font-katari'>并没有看着姬塔等人，自言自语。</span>
+34,オクトー/奥克托,今、それを振るわれても<br>我に刃は届くまいな。,就算现在对着我拔刀<br>也无法伤我分毫。
+35,,<span class='scene-font-katari'>オクトーは手鏡の勘定を済ませると、</span><br><span class='scene-font-katari'>のっそりとよろず屋を出て行った。</span>,<span class='scene-font-katari'>奥克托付完了手镜的钱后</span><br><span class='scene-font-katari'>慢步走出了万事屋。</span>
+36,ビィ/碧,なんでぇ、我には届くまいって……<br>エラそうに！<br>姬塔の強さも知らないでさ！,搞什么啊，说什么无法伤我分毫<br>有什么神气的！<br>都不知道姬塔有多强！
+37,シェロカルテ/榭洛科特,う～ん……ですが、<br>オクトーさんですからね～……,嗯~……但是啊<br>奥克托先生倒是有这资格～……
+38,ビィ/碧,なんだよ！<br>よろず屋まで爺さんの方が<br>姬塔より強いってのか！？,什么啊！<br>连万事屋都觉得老爷爷<br>要比姬塔强吗！？
+39,シェロカルテ/榭洛科特,オクトーさんはですね～、<br>十天衆のおひとりなんですよ～,奥克托先生他啊～、<br>可是十天众之一哦～
+40,ルリア/露莉亚,十天衆……ですか？,十天众……吗？
+41,シェロカルテ/榭洛科特,はい～生ける伝説と呼ばれる騎空団で、<br>所属する十人はそれぞれが<br>異なる武器の全空一の使い手でして～,是的～被称为活着的传说的骑空团<br>团内的十个人各自都是<br>不同武器的全空第一使用者～
+42,シェロカルテ/榭洛科特,１人１人が、あの七曜の騎士とも並ぶ<br>実力を持っているそうですよ～,每个人，都有着能和七曜骑士<br>一较高下的实力哦～
+43,シェロカルテ/榭洛科特,伝説の勇者の集団とも、<br>恐るべき脅威とも<br>言われているんです～,也被称为<br>传说的勇者集团<br>可怕的威胁～
+44,ビィ/碧,ゴクリ……そ、そうなのか……<br>でも確かに、あの爺さん立ってるだけで<br>プレッシャー感じるもんな……,咽口水……是、是这样啊……<br>不过那位老爷爷确实只是站在那里<br>就能让人感受到压力啊……
+45,ビィ/碧,ぐぬぬ……<br>でも、姬塔はきっと<br>あの爺さんにだって負けねぇぜ！,咕呶呶……<br>但是，姬塔她肯定<br>不会输给那个老爷爷的！
+46,シェロカルテ/榭洛科特,このところ、十天衆の皆さんは<br>この空域で<br>活動しているみたいです～,最近这段时间，十天众的各位<br>好像在这个空域<br>当中活动哦～
+47,ルリア/露莉亚,そうなんですか……<br>じゃあ、オクトーお爺さんに、<br>また会うかもしれないですね。,原来是这样……<br>那，或许还会再跟奥克托爷爷<br>碰上面也说不定。
+48,,<span class='scene-font-katari'>伝説の騎空団「十天衆」が１人、</span><br><span class='scene-font-katari'>全空一の刀使いオクトー。</span>,<span class='scene-font-katari'>传奇骑空团[十天众]的一员</span><br><span class='scene-font-katari'>全空第一的刀使奥克托。</span>
+49,,<span class='scene-font-katari'>果たして彼との出会いは、</span><br><span class='scene-font-katari'>姬塔にとって</span><br><span class='scene-font-katari'>どんな意味を持つのであろうか。</span>,<span class='scene-font-katari'>与他的相遇</span><br><span class='scene-font-katari'>对于姬塔来说</span><br><span class='scene-font-katari'>到底代表着什么呢。</span>
+info,,,scene_evolutionweapon_8_ep2
+译者,,,

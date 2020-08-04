@@ -1,0 +1,19 @@
+id,name,text,trans
+0-chapter_name,,最強を名乗る刀,名为最强之刀
+0-synopsis,,真夜中の静まり返る騎空艇の甲板で、独り瞑想にふけるオクトー。しかしそれを邪魔するかのように響き渡る怪しい声に、オクトーは瞑想を切り上げ出所を探る。その声の出所を突き止めたオクトーの前にぼんやりと光る人影が現れ、怪しい気配を醸し出す。オクトーは、その光る人影が最強の名を冠する刀「八命切」だと見抜くと、「強さを示せ」と挑発してみせるのだった。,深夜中宁静的骑空艇甲板上，奥克托独自一人沉浸在冥想中。但是被突然响起的奇怪声音所打断，于是起身寻找来由。到了发出声音的地方，奥克托面前的出现是发出朦胧光线的人影，并带有诡异的气息。奥克托看穿那个发光的人影就是冠有最强之名的刀「八命切」，并提出要一较高下。
+0,,<span class='scene-font-katari'>深夜、静まり返る騎空艇。</span><br><span class='scene-font-katari'>その甲板でオクトーは</span><br><span class='scene-font-katari'>独り瞑想にふけっていた。</span>,<span class='scene-font-katari'>深夜中，骑空艇重回宁静。</span><br><span class='scene-font-katari'>甲板上的奥克托</span><br><span class='scene-font-katari'>独自一人沉浸在冥想中。</span>
+2,オクトー/奥克托,…………,
+3,オクトー/奥克托,やけに癇に障る……<br>常なる声でなし。<br>……何者であるか。,实在是吵闹……<br>不是寻常声响<br>……是什么人。
+5,,<span class='scene-font-katari'>オクトーは瞑想を切り上げ、</span><br><span class='scene-font-katari'>聞こえてきた声が</span><br><span class='scene-font-katari'>どこから響いて来たかを探る。</span>,<span class='scene-font-katari'>奥克托起身</span><br><span class='scene-font-katari'>开始寻找</span><br><span class='scene-font-katari'>传来声音的地方。</span>
+10,オクトー/奥克托,……ここか。,……这里吗。
+11,オクトー/奥克托,<span class='scene-font-4'>誰ぞおる！</span><br><span class='scene-font-4'>姿を現すがいい！</span>,<span class='scene-font-4'>来者何人！</span><br><span class='scene-font-4'>还不现身！</span>
+12,,<span class='scene-font-katari'>呼ばわる声に応え、</span><br><span class='scene-font-katari'>室内にぼんやりと光る</span><br><span class='scene-font-katari'>人影が現れる。</span>,<span class='scene-font-katari'>回应着奥克托的呼声</span><br><span class='scene-font-katari'>室内出现了朦胧的光</span><br><span class='scene-font-katari'>现出了一个人影。</span>
+14,？？？,<span class='scene-font-gray'>我が名を問うか、</span><br><span class='scene-font-gray'>刀神よ……</span>,<span class='scene-font-gray'>要问我的名字吗</span><br><span class='scene-font-gray'>刀神……</span>
+15,オクトー/奥克托,……この気色。<br>怪しからんモノよ。<br>お主、<span class='scene-font-spword'>八命切</span>か。,……这气息<br>真是古怪。<br>你是<span class='scene-font-spword'>八命切</span>吧。
+21,八命切,<span class='scene-font-gray'>いかにも。</span><br><span class='scene-font-gray'>だが、怪しからんとは随分だな。</span>,<span class='scene-font-gray'>正是。</span><br><span class='scene-font-gray'>不过，这古怪说得还真是随意。</span>
+22,八命切,<span class='scene-font-gray'>私こそ、お主の渇望する「最強」の名を</span><br><span class='scene-font-gray'>冠するモノだというのに。</span>,<span class='scene-font-gray'>明明我就有着</span><br><span class='scene-font-gray'>你所追求的「最强」之名。</span>
+23,オクトー/奥克托,刀一本、<br>使う者なく大口を叩くものよ。,区区一把刀<br>未免太过放肆。
+24,オクトー/奥克托,姦しく口を開く前に、<br>その強さとやらを示してみせるのだな。,废话少说<br>让我看看汝到底有几斤几两。
+26,八命切,<span class='scene-font-gray'>……それでいい。</span><br><span class='scene-font-gray'>お主の持つ強さ、</span><br><span class='scene-font-gray'>確かめてやるとしよう！</span>,<span class='scene-font-gray'>……也好。</span><br><span class='scene-font-gray'>让我见识一下</span><br><span class='scene-font-gray'>你究竟有多强！</span>
+info,,,scene_ult_chr126_q3_s10
+译者,,,

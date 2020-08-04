@@ -1,0 +1,40 @@
+id,name,text,trans
+0-chapter_name,,十天衆との邂逅③,
+0-synopsis,,覚醒が近い八命切を眺め、感嘆の声をあげる姬塔一行。その元にオクトーが現れ、「下らん」と一蹴する。オクトーは、八命切が星を断つほどのものであると語り、一行を驚かせる。さらに最強の刀使いしか八命切は持てないとオクトーは告げ、「時が来れば我がうぬらの元に現れよう」と、姬塔に宣戦布告するのだった。,随着八命切逐渐接近觉醒，姬塔等人感想颇深。奥克托突然出现在他们身边，只是评价道[无趣]。奥克托叙述着八命切所拥有的斩断星辰的力量，让一行人震惊。并告诉姬塔等人只有最强的刀使才能持有八命切，说「等到时机成熟我自会现于汝等面前」，向姬塔下了战书。
+0,,<span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>「覚醒」が近づいた</span><span class='scene-font-spword'>「八命切」</span><span class='scene-font-katari'>を携え</span><br><span class='scene-font-katari'>よろず屋を訪れていた。</span>,<span class='scene-font-katari'>姬塔等人</span><br><span class='scene-font-katari'>将已经接近[觉醒]了的</span><span class='scene-font-spword'>「八命切」</span><span class='scene-font-katari'>带在身上</span><br><span class='scene-font-katari'>造访了万事屋。
+1,,<span class='scene-font-katari'>姬塔が</span><br><span class='scene-font-spword'>「八命切」</span><span class='scene-font-katari'>を鞘から抜くと、</span><br><span class='scene-font-katari'>シェロカルテは感嘆の声を上げた。</span>,<span class='scene-font-katari'>姬塔把</span><br><span class='scene-font-spword'>「八命切」</span><span class='scene-font-katari'>从刀鞘中拔出，</span><br><span class='scene-font-katari'>榭洛科特发出了感叹。</span>
+2,シェロカルテ/榭洛科特,おお～……！<br>これはこれは、美しいと言うか……<br>妖しいというか……,噢噢～……！<br>太厉害了太厉害了，该说是美丽好呢……<br>还是说妖艳好呢……
+3,ルリア/露莉亚,とても澄んだ光を放つのに……<br>なんだか、恐ろしい感じがします……,散发着非常澄澈的光……<br>但是却总有种可怕的感觉……
+4,ビィ/碧,完成したら、どんな刀に<br>なるんだろうなぁ！,最终完成了的话<br>会变成怎样的刀啊！
+5,オクトー/奥克托,下らん。,无趣。
+6,ビィ/碧,んなっ！？<br>急に首突っ込んできて、<br>なんだってんだ！,啊啊！？<br>突然把头伸过来<br>搞什么啊！
+7,オクトー/奥克托,<span class='scene-font-spword'>「八命切」</span>は<span class='scene-font-spword'>「天星器」</span>……<br><span class='scene-font-spword'>「天星器」</span>はその力に因りて<br>畏れられ、封印を受けた武器。,<span class='scene-font-spword'>「八命切」</span>是<span class='scene-font-spword'>「天星器」</span>……<br><span class='scene-font-spword'>「天星器」</span>是因其自身力量<br>而被封印，被恐惧的武器。
+9,オクトー/奥克托,封印を解かれ<br>「覚醒」せし<span class='scene-font-spword'>「天星器」</span>は<br>一振りにて天を断ち星を分かつ。,要是解开封印<br>又将其「觉醒」的话<span class='scene-font-spword'>「天星器」</span>一刀就能<br>断开星辰了吧。
+10,ルリア/露莉亚,<span class='scene-font-spword'>「天星器」</span>って、そんなに<br>すごいものだったんですか！？,<span class='scene-font-spword'>「天星器」</span>有那么<br>厉害吗！？
+11,オクトー/奥克托,然り。,然也。
+12,オクトー/奥克托,十あると伝わる<br><span class='scene-font-spword'>「天星器」</span>がひとつ、<span class='scene-font-spword'>「八命切」</span>。<br>うぬは器に見合わぬ力を求るか。,相传总共十把的<br><span class='scene-font-spword'>「天星器」</span>其中之一的<span class='scene-font-spword'>「八命切」</span>。<br>汝这是不知天高地厚。
+13,オクトー/奥克托,過ぎたる力は己はおろか<br>遍くものを滅ぼす。,过于强大的力量会让自己甚至<br>周遭都走向毁灭。
+15,オクトー/奥克托,刃を鍛えるのであれば、<br>まずうぬという存在そのものを鍛えよ。,既然想要锻炼刀刃，<br>那就先将汝自身锤打一番。
+16,シェロカルテ/榭洛科特,ま、まぁまぁオクトーさん～<br>そんな叱るような<br>言い方をしなくても～,算、算啦 奥克托先生～<br>也用不着<br>说得这么凶嘛～
+17,シェロカルテ/榭洛科特,姬塔さんは、<br>むやみやたらに<span class='scene-font-spword'>「天星器」</span>を<br>振り回すような方じゃないですし～,姬塔小姐她<br>是不会不分青红皂白就把<span class='scene-font-spword'>「天星器」</span>给<br>到处挥来挥去的人～
+18,オクトー/奥克托,よろず屋。<br>うぬが、これなる者に<br><span class='scene-font-spword'>「天星器」</span>覚醒の術を教えたか。,万事屋。<br>是汝，告诉了她<br><span class='scene-font-spword'>「天星器」</span>的觉醒方法吧。
+19,オクトー/奥克托,鞘となる力を持たぬ者に、<br>あたら手にする道を示すな。,别向当不了刀鞘之人<br>传授如此危险之事。
+20,ビィ/碧,おいおい爺さん！<br>まるで姬塔が<br>力不足みたいじゃねぇか！,喂喂 老爷爷！<br>你这说得跟<br>姬塔能力不足一样！
+21,オクトー/奥克托,そう言っておる。,就是如此。
+22,ビィ/碧,ぐぬぬ……！<br>腹立つ爺さんだな！<br>姬塔も言ってやれ！,咕呶呶……！<br>真是让人窝火的老爷爷！<br>姬塔你也说两句！
+23,ルリア/露莉亚,ま、待ってビィさん！<br>お爺さんは「危ないよ」って<br>注意してくれてるんですよ！　たぶん！,等、等一下 碧！<br>老爷爷他是想告诉我们危险<br>让我们小心谨慎！　大概！
+24,ビィ/碧,たぶんかよぅ！<br>まぁ確かに、話を聞く限り<br>とんでもない武器らしいけど……,是大概啊！<br>不过也确实，听他说的<br>好像确实是非常厉害的武器……
+25,ルリア/露莉亚,あの……姬塔みたいに<br>強い人でも、<span class='scene-font-spword'>「天星器」</span>を持つのは<br>危ないんですよね？,那个……像姬塔这样<br>这么强的人，拿着<span class='scene-font-spword'>「天星器」</span><br>也会有危险吗？
+26,オクトー/奥克托,然り。,然也。
+27,ルリア/露莉亚,それじゃあ……<br>どんな人なら、「覚醒」した<br><span class='scene-font-spword'>「八命切」</span>を持てるんでしょう？,那样的话……<br>要是怎样的人能持有「觉醒」了的<br><span class='scene-font-spword'>「八命切」</span>呢？
+28,オクトー/奥克托,…………,
+29,ルリア/露莉亚,オクトーお爺さん……？,奥克托爷爷……？
+30,オクトー/奥克托,最強と目される我もまた、道半ば。<br>なれば、我程度は越えて貰わねばな。,追求最强的我也不过是半桶水。<br>那么，就必须先超越我。
+31,ビィ/碧,そ、それってつまり、<br>最強の刀使いしか<br>持てないってことか……！？,那、那就是说<br>只有最强的刀使<br>才有资格持有……！？
+32,オクトー/奥克托,……時が来れば、<br>我がうぬらの元に現れよう。,……时机成熟时<br>我自会出现于汝等面前。
+33,オクトー/奥克托,面白き哉。<br>会いまみえるを楽しみにしておるぞ。,有趣。<br期待着下次再会。
+35,ビィ/碧,……あれっ？<br>もしかして今のって、<br>決闘の申し込みなんじゃ……？,……啊？<br>难道说刚才那个是<br>提出决斗了……？
+36,ルリア/露莉亚,えっ……？<br>あ、お爺さんを越えるって……<br>そういうこと、になるのかな……？,欸……？<br>啊，超越老爷爷……<br>也就是说要决斗吗……？
+37,,<span class='scene-font-katari'>不安そうなビィとルリアに見つめられる</span><br><span class='scene-font-katari'>姬塔は、既に店から去った</span><br><span class='scene-font-katari'>オクトーの背をじっと眺めていた。</span>,<span class='scene-font-katari'>碧和露莉亚心怀不安地看着姬塔</span><br><span class='scene-font-katari'>而姬塔则是远眺着</span><br><span class='scene-font-katari'>已经离开店铺远去了的奥克托的背影。</span>
+info,,,scene_evolutionweapon_8_ep3
+译者,,,

@@ -1,0 +1,24 @@
+id,name,text,trans
+0-chapter_name,,問おう、汝が最強を,试问，汝之最强
+0-synopsis,,攻防の最中、仮面が外れてしまったシスは動揺を見せる。オクトーはそんなシスに「容易に揺らぐ心は容易く負けを呼び込む」と告げる。またオクトーは、シスに道を変える事も出来ると説く。けれどシスは自身の罪を鑑みて、もう生き方を変える事は出来ないと漏らす。そんなシスをオクトーは優しく見守るのだった。,你来我往之下，希斯的面具脱落而露出了破绽，奥克托告诉希斯「易于动摇之心 也易于败北」，又告诉他如今再做改变也不迟。但是希斯仍旧认为自己无法摆脱罪孽，已经无力回天了。看着这样的希斯，奥克托的眼神中流露出了关怀。
+0,,<span class='scene-font-katari'>激しい攻防の合間、</span><br><span class='scene-font-katari'>オクトーの一撃がシスの頭をかすめ</span><br><span class='scene-font-katari'>仮面が弾き飛ばされてしまった。</span>,<span class='scene-font-katari'>激烈的你来我往之下</span><br><span class='scene-font-katari'>奥克托的一击略过了希斯的头</span><br><span class='scene-font-katari'>面具也被弹飞。</span>
+1,シス/希斯,っ……！,啊……！
+2,,<span class='scene-font-katari'>思わず視線で仮面を追うシスに、</span><br><span class='scene-font-katari'>オクトーは刀を操る手を止め</span><br><span class='scene-font-katari'>足元に転がった仮面を拾う。</span>,<span class='scene-font-katari'>看希斯不自觉将视线移向面具</span><br><span class='scene-font-katari'>奥克托停下了刀</span><br><span class='scene-font-katari'>捡起了掉在脚边的面具。</span>
+3,オクトー/奥克托,拠り所か。,归宿吗。
+4,シス/希斯,かっ……返せっ！,还……还给我！
+5,オクトー/奥克托,そら、受け取るがいい。,给，拿好。
+6,,<span class='scene-font-katari'>激しい戦いの末に外れた</span><br><span class='scene-font-katari'>シスの仮面を、</span><br><span class='scene-font-katari'>オクトーは投げ渡す。</span>,<span class='scene-font-katari'>奥克托将</span><br><span class='scene-font-katari'>希斯在战斗中掉落的面具</span><br><span class='scene-font-katari'>扔了回去。</span>
+7,シス/希斯,うぅ……,唔……
+8,オクトー/奥克托,容易に揺らぐ心は<br>容易く負けを呼び込む。,易于动摇之心<br>也易于败北。
+9,シス/希斯,……別に、好き好んで<br>最強と呼ばれているわけじゃない。,……我也，不是自己愿意<br>被人称为最强的。
+10,オクトー/奥克托,ウーノやシエテが聞けば<br>どう思うことか。<br>面白きことよ。,若是乌诺和希耶提听了这话<br>会作何想法。<br>有趣。
+11,シス/希斯,用は終わったのか？<br>俺はもう行くぞ……,没事了吧？<br>那我要走了……
+12,オクトー/奥克托,あぁ。うぬの姿にかつて見た者を<br>思い出すようにも思うが……<br>忘れたことだ、構うまい。,啊啊，本以为<br>看着汝能想起些什么……<br>既然忘了，也无妨。
+13,シス/希斯,自らの名すら忘却に貶めてまで<br>手を伸ばすようなものか……<br>……最強の名など……,连自己的名字都忘了的人<br>还追求什么最强……
+14,オクトー/奥克托,さぁ、どうであろうな。<br>今や我と我が身に同体となり、<br>切り捨てることもできぬだけ。,这可不好说。<br>如今此身此心<br>想舍去也无从下手。
+15,オクトー/奥克托,ここに来て、見果てぬ境地を諦め<br>歩み方を変えるのも<br>つまらんのでな。,事已至此，要我放弃那未至之境<br>换个活法<br>未免也太没意思。
+16,オクトー/奥克托,うぬは若い。<br>変えたくば幾らでも道を変えるがいい。<br>それもまた一興よ。,汝还年轻<br>换个路子也无妨。<br>自会横生趣味。
+17,シス/希斯,……変わらない。<br>変われやしない。<br>この身に焼きついた罪を思えば……,……变不了了<br>我也不会变。<br>犯下的罪孽无力回天……
+18,,<span class='scene-font-katari'>呟くシスを見つめる双眸は、</span><br><span class='scene-font-katari'>僅かに優しい気配を漂わせていた。 <br></span>,<span class='scene-font-katari'>看着自言细语的希斯</span><br><span class='scene-font-katari'>奥克托眼中流露出了关怀。 <br></span>
+info,,,scene_ult_chr126_q4_8_s20
+译者,,,

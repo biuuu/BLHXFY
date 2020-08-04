@@ -1,0 +1,24 @@
+id,name,text,trans
+0-chapter_name,,再戦の予感,再战的预感
+0-synopsis,,依頼を受けずに過ごす休日。ビィとルリアが見守る中、姬塔は刀の修業に励んでいた。するとそこにやって来たオクトーは、手刀を構え姬塔の修行に付き合う。激しい攻防にも汗ひとつかかないオクトーに対し、姬塔は刀を抜いて欲しいと頼む。するとオクトーはその提案を面白がり、意気揚々と刀を抜き放つのだった。,没有接受委托的休息日，姬塔在碧与露莉亚的陪伴中修炼刀术。正在这时奥克托到场，以手刀来与姬塔陪练。激烈的攻防之下奥克托却是游刃有余，姬塔则拜托奥克托拔刀对战。对这个要求，奥克托兴致盎然，拔刀对决。
+0,,<span class='scene-font-katari'>依頼を受けずに過ごす休みの日、</span><br><span class='scene-font-katari'>姬塔は自主的に</span><br><span class='scene-font-katari'>刀の修行を始めていた。</span>,<span class='scene-font-katari'>没接受委托的这个休息日</span><br><span class='scene-font-katari'>姬塔自行开始</span><br><span class='scene-font-katari'>刀术的修炼。</span>
+1,,<span class='scene-font-katari'>木と藁で作った的に向かって</span><br><span class='scene-font-katari'>刀で相対する姬塔を、</span><br><span class='scene-font-katari'>ビィとルリアが見守る。</span>,<span class='scene-font-katari'>姬塔用刀对着</span><br><span class='scene-font-katari'>木头和稻草做成的假人练习</span><br><span class='scene-font-katari'>而碧和露莉亚则在一旁陪伴。</span>
+2,ビィ/碧,たまには休めばいいのによぅ、<br>ホント姬塔は<br>真面目だよなぁ！,偶尔休息一下也不挺好的<br>姬塔你真的是<br>太认真啦！
+7,オクトー/奥克托,……ほう。<br>鍛錬の最中であったか。,……嚯<br>正在练习吗。
+8,,<span class='scene-font-katari'>オクトーは的の前に立ち、</span><br><span class='scene-font-katari'>手刀を構える。</span>,<span class='scene-font-katari'>奥克托站在假人的面前</span><br><span class='scene-font-katari'>架起了手刀。</span>
+9,オクトー/奥克托,かかってくるがいい。<br>木の棒を叩くよりは意味もあろう。,放马过来<br>总比敲这种木棒要好得多。
+10,ルリア/露莉亚,ま、待ってください！<br>オクトーお爺さん、姬塔は<br>真剣ですから危ないですよ！,请、请等一下！<br>奥克托爷爷<br>姬塔是在认真练习，很危险的！
+11,,<span class='scene-font-katari'>慌てて止めようとしたルリアを、</span><br><span class='scene-font-katari'>姬塔が制する。</span>,<span class='scene-font-katari'>露莉亚慌忙想要制止奥克托</span><br><span class='scene-font-katari'>姬塔却拒绝了。</span>
+12,ルリア/露莉亚,えっ……で、でも……,啊……但、但是……
+13,オクトー/奥克托,構うな。<br>仮に危険であるならば、<br>それこそ面白い。,无妨<br>若是真有危险<br>反倒算得上一趣。
+14,オクトー/奥克托,さぁ、参れ！,好了，来吧！
+15,,<span class='scene-font-katari'>オクトーに言われるがまま、</span><br><span class='scene-font-katari'>姬塔は刀を片手に</span><br><span class='scene-font-katari'>彼に打ち込む。</span>,<span class='scene-font-katari'>照着奥克托所说</span><br><span class='scene-font-katari'>姬塔单手架起了刀</span><br><span class='scene-font-katari'>向着奥克托砍去。</span>
+16,オクトー/奥克托,ふむ……,嗯……
+18,,<span class='scene-font-katari'>だが、渾身の一撃は</span><br><span class='scene-font-katari'>いとも簡単に躱されオクトーの手刀が</span><br><span class='scene-font-katari'>姬塔の背中を打った。</span>,<span class='scene-font-katari'>但是，姬塔的全力一击</span><br><span class='scene-font-katari'>被奥克托轻易躲开</span><br><span class='scene-font-katari'>并以一记手刀击中后背。</span>
+19,ビィ/碧,刀の爺さんの反撃もアリかよぅ！,用刀的爷爷还要反击的啊！
+20,オクトー/奥克托,その方が面白かろう？,如此更为有趣吧？
+21,,<span class='scene-font-katari'>激しい攻防にも汗ひとつかかない</span><br><span class='scene-font-katari'>オクトーに、姬塔は</span><br><span class='scene-font-katari'>頼みごとをする。</span>,<span class='scene-font-katari'>激烈的攻防之下奥克托游刃有余</span><br><span class='scene-font-katari'>而姬塔</span><br><span class='scene-font-katari'>提出了一个请求。</span>
+22,オクトー/奥克托,ほう……刀を取れ、とな。<br>我にそう申すか。<br>……面白い！,嚯……要我用刀啊。<br>对我说出这话来，<br>……有趣！
+24,オクトー/奥克托,かかってくるがいい。<br>その手と胸に真剣を掲げよ！,放马过来<br>让我见识见识真本事！
+info,,,scene_ult_chr126_q1_s10
+译者,,,

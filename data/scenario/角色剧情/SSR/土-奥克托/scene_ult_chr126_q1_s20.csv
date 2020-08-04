@@ -1,0 +1,19 @@
+id,name,text,trans
+0-chapter_name,,再戦の予感,再战的预感
+0-synopsis,,姬塔はオクトーの刀を弾き飛ばし、己の成長を示す。それを喜んだオクトーは、覚醒した天星器の真の力を引き出すには銀の依代が必要だという巷説を姬塔に伝えると、その場から立ち去る。姬塔はオクトーとの戦いの時が迫っている事を感じながら、その背中を見送るのだった。,姬塔将奥克托的刀弹飞，证明了自己的成长。为此而高兴的奥克托，告诉了姬塔想要发挥觉醒后天星器真正的力量需要银依代的传言并离开。姬塔一边回想自己与奥克托对战时的劣势，一边看着奥克托走去的背影。
+2,オクトー/奥克托,ほぅ……！,嚯……！
+3,ビィ/碧,すげぇ……！<br>姬塔、爺さんの<br>刀を弾き飛ばしたぜ！,好厉害……！<br>姬塔把爷爷的刀<br>给弹飞了！
+5,オクトー/奥克托,小気味好し。<br>腕を上げたようだな、<br>姬塔。,痛快<br>有进步啊<br>姬塔。
+6,オクトー/奥克托,<span class='scene-font-kokoro'>（再び刃交える刻も</span><br><span class='scene-font-kokoro'>近いやもしれんな……）</span>,<span class='scene-font-kokoro'>（再度交手</span><br><span class='scene-font-kokoro'>看来是越发精进了……）</span>
+7,オクトー/奥克托,……姬塔。<br>銀の依代なるものの<br>名を聞いたことはあるか。,……姬塔<br>可曾听说过<br>银依代。
+8,オクトー/奥克托,<span class='scene-font-spword'>天星器</span>の覚醒こそ成ったが、<br>真の力はまだほど遠い。,<span class='scene-font-spword'>天星器</span>的觉醒虽已完成<br>要想发挥出真正的力量还是差得远。
+9,オクトー/奥克托,その境地に行き着くには、<br>銀の依代の力が要ると言う。,为达目的<br>银依代必不可少。
+10,ルリア/露莉亚,銀の……依代……<br>今まで聞いたこともないです……<br>……どこにあるんでしょう？,银……依代……<br>从来都没听说过啊……<br>……到哪里才有？
+11,オクトー/奥克托,かつての戦場、それも多くの魂が<br>揺蕩う場所に現れる、<br>と聞くが、さて……,听说过<br>曾经的战场，或是众多灵魂<br>徘徊的地方会出现……
+12,ビィ/碧,う～ん、刀の爺さんも<br>知らねぇのか……,嗯~用刀的爷爷<br>也不知道啊……
+13,ビィ/碧,でもいい話を聞けたな姬塔！<br>調べてみる価値は<br>あるんじゃねぇかな？,不过这消息很重要啊 姬塔！<br>看来有必要去<br>调查一下了吧？
+14,オクトー/奥克托,力を求めんとするも良し。<br>力を危険と退けるも良し。<br>うぬの心に従うがよかろう。,追求力量是好，<br>担心危险也罢。<br>汝想怎么做都行。
+15,,<span class='scene-font-katari'>言うと、オクトーは</span><br><span class='scene-font-katari'>姬塔達を置いて</span><br><span class='scene-font-katari'>修行場を離れる。</span>,<span class='scene-font-katari'>说完话，奥克托</span><br><span class='scene-font-katari'>不再管姬塔等人</span><br><span class='scene-font-katari'>独自离开了修炼场。</span>
+16,,<span class='scene-font-katari'>姬塔もまた、</span><br><span class='scene-font-katari'>去り行くオクトーの背中に彼との戦いが</span><br><span class='scene-font-katari'>迫っていることを感じていた。</span>,<span class='scene-font-katari'>姬塔再一次</span><br><span class='scene-font-katari'>一边看着奥克托走去的背影</span><br><span class='scene-font-katari'>一边回想对战时的劣势。</span>
+info,,,scene_ult_chr126_q1_s20
+译者,,,
