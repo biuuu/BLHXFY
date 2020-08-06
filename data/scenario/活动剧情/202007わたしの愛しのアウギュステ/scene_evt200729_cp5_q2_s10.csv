@@ -1,0 +1,124 @@
+id,name,text,trans
+0-chapter_name,,第5話 ビリビリメグDAYS☆クロニクル,第5话 麻麻酥酥梅格DAYS☆年代记
+0-synopsis,,メグを助けたのは、夢に見続けてきた白馬の王子様の条件に合致するアルベールという男だった。メグはデンキンナギという魚に襲われたそうだ。さらに話を聞こうとしたところアルベールは急に走り出し、その先には例の騎空団がいた。そしてデンキンナギとの戦いが始まる。傍から見ていたメグはついにキレた。そしてなにかを決意すると、故郷に帰ると宣言して島を発つのだった。,救了梅格的人是，和她一直梦寐以求的白马王子殿下条件一致的男人，阿尔贝尔。梅格似乎是被名为电鳗的鱼袭击了。而且正说着话，阿尔贝尔突然跑了出去，和那个骑空团汇合。于是他们和电鳗展开了战斗。旁观的梅格终于忍无可忍。然后像是下定了某个决心，说要回去了，离开了这座岛。
+1,,<span class='scene-font-katari'>意識を取り戻すと、</span><br><span class='scene-font-katari'>メグは重いまぶたを開くよりも先に</span><br><span class='scene-font-katari'>そこがビーチであることに気づいた。</span>,<span class='scene-font-katari'>恢复意识后，</span><br><span class='scene-font-katari'>梅格在撑开沉重的眼皮前，</span><br><span class='scene-font-katari'>察觉到自己正处于沙滩上。</span>
+2,,<span class='scene-font-katari'>背中一面に触れる熱い砂の感触と、</span><br><span class='scene-font-katari'>寄せては返す波の音が</span><br><span class='scene-font-katari'>生きている実感を与えてくれたのだ。</span>,<span class='scene-font-katari'>背后一整面贴着热砂的触感，</span><br><span class='scene-font-katari'>和若远若近的海浪拍打声，</span><br><span class='scene-font-katari'>让她感觉到自己还活着。</span>
+3,,<span class='scene-font-katari'>そして自分の後頭部を支えてくれる</span><br><span class='scene-font-katari'>分厚い手のひらの感触も……</span>,<span class='scene-font-katari'>而且扶在自己头后部的厚实的手掌的触感也……</span>
+4,メグ/梅格,<span class='scene-font-kokoro'>（男の人だ……</span><br><span class='scene-font-kokoro'>わたしを助けてくれたの？</span><br><span class='scene-font-kokoro'>まさか白馬の王子様……？）</span>,<span class='scene-font-kokoro'>（是位男性……救了我吗？</span><br><span class='scene-font-kokoro'>难道是白马王子殿下……？）</span>
+5,メグ/梅格,<span class='scene-font-kokoro'>（……いや、ちょっと待った。</span><br><span class='scene-font-kokoro'>なんか以前にもこんなことが</span><br><span class='scene-font-kokoro'>あったような……）</span>,<span class='scene-font-kokoro'>（……不对，稍等一下。</span><br><span class='scene-font-kokoro'>总觉得之前也发生过同样的事……）</span>
+6,,<span class='scene-font-katari'>恐る恐るまぶたを開くと、</span><br><span class='scene-font-katari'>なにか白いものが見えた。</span>,<span class='scene-font-katari'>战战兢兢地睁开眼，</span><br><span class='scene-font-katari'>她看到了某个白色的东西。</span>
+11,メグ/梅格,う……ふんどし……？,呜……兜裆布……？
+12,？？？,気がついたか。,你醒了啊。
+13,メグ/梅格,え……？,诶……？
+14,？？？,無理して起き上がる必要はない。<br>しかし、ふんどしとはいったい……？,不必勉强自己起身。<br>但是，兜裆布是指……？
+15,メグ/梅格,<span class='scene-font-4'>えぇっ！？</span>,<span class='scene-font-4'>诶诶！？</span>
+16,？？？,ん？,嗯？
+17,メグ/梅格,<span class='scene-font-kokoro'>（金髪で……！）</span>,<span class='scene-font-kokoro'>（金色的头发……！）</span>
+18,メグ/梅格,<span class='scene-font-kokoro'>（明るい瞳の色で……！）</span>,<span class='scene-font-kokoro'>（明艳的瞳色……！）</span>
+19,メグ/梅格,<span class='scene-font-kokoro'>（憂いを帯びた顔つき……！）</span>,<span class='scene-font-kokoro'>（略带忧郁的神情……！）</span>
+20,？？？,どうした？<br>どこか痛むのか？,怎么了？<br>是有哪里痛吗？
+21,メグ/梅格,<span class='scene-font-kokoro'>（は、は、白馬の王子様……！）</span>,<span class='scene-font-kokoro'>（白，白，白马王子殿下……！）</span>
+22,まりっぺ,メグ、気がついたの？<br>この人がアンタを助けてくれたのよ！,梅格，你清醒过来了吗？<br>是这个人救了你哟！
+24,メグ/梅格,わたしを助けてくれた？<br><span class='scene-font-kokoro'>（てことは、正義感あふれるお方？</span><br><span class='scene-font-kokoro'>やっぱり白馬の王子様だよ……！）</span>,救了我？<br><span class='scene-font-kokoro'>（也就是说，是个充满正义感的人？</span><br><span class='scene-font-kokoro'>果然是白马王子殿下啊……！）</span>
+25,メグ/梅格,そ、そうだったんですか……<br>助けて頂いてありがとうございます……<br>あのぉ、お名前は……？,是，是这样啊……<br>谢谢您救了我……<br>那个，您的名字是……？
+26,アルベール/阿尔贝尔,アルベールだ。,我叫阿尔贝尔。
+27,メグ/梅格,素敵なお名前……<br>ご、ご趣味は？,很棒的名字呢……<br>您的兴趣爱好是？
+28,アルベール/阿尔贝尔,おい、大丈夫か……？<br>意識ははっきりしているのか？,喂，你没事吧……<br>确定意识还清醒吗？
+29,まりっぺ,すみませ～ん！<br>このコ、まだちょっと<br>ショックで混乱してるみたいで～！,不好意~思！<br>这孩子好像因为冲击还有点混乱呢~！
+30,まりっぺ,ちょっとどこかで<br>休ませることができたら<br>いいんですけど～！,让她去哪里休息一下比较好呢~！
+31,アルベール/阿尔贝尔,そうだな……<br>そこの海の家へ連れていこう。,说的也是……<br>那就去那边的海之家吧。
+32,,<span class='scene-font-katari'>するとアルベールは</span><br><span class='scene-font-katari'>メグの身体を抱きかかえ、</span><br><span class='scene-font-katari'>立ち上がった。</span>,<span class='scene-font-katari'>于是阿尔贝尔便抱着梅格站了起来。</span>
+33,メグ/梅格,<span class='scene-font-4 scene-font-kokoro'>（ひゃあああああぁぁぁっ！</span><br><span class='scene-font-kokoro'>お姫様抱っこ～！</span><br><span class='scene-font-kokoro'>まりっぺ、ナイスアシストだよ～！）</span>,<span class='scene-font-4 scene-font-kokoro'>（呀啊啊啊啊啊啊啊啊！</span><br><span class='scene-font-kokoro'>是公主抱！</span><br><span class='scene-font-kokoro'>玛丽丽，漂亮的助攻~！）</span>
+34,アルベール/阿尔贝尔,どっ……こいしょ。,呼……嘿咻。
+35,メグ/梅格,<span class='scene-font-kokoro'>（え……？）</span>,<span class='scene-font-kokoro'>（诶……？）</span>
+41,,<span class='scene-font-katari'>海の家へ着くと、</span><br><span class='scene-font-katari'>アルベールは抱きかかえていたメグを</span><br><span class='scene-font-katari'>イスに腰掛けさせた。</span>,<span class='scene-font-katari'>到了海之家，阿尔贝尔把抱着的梅格放到椅子上。</span>
+42,アルベール/阿尔贝尔,よっ……こらせ。,哟……嘿呀。
+43,メグ/梅格,<span class='scene-font-kokoro'>（ちょっとおじさんくさいかな……</span><br><span class='scene-font-kokoro'>で、でもこのギャップも</span><br><span class='scene-font-kokoro'>魅力のひとつだよね……うん）</span>,<span class='scene-font-kokoro'>（是不是有点大叔味啊……</span><br><span class='scene-font-kokoro'>但这种反差也是一种魅力吧……嗯）</span>
+44,メグ/梅格,<span class='scene-font-kokoro'>（どこから見ても</span><br><span class='scene-font-kokoro'>白馬の王子様だし……</span><br><span class='scene-font-kokoro'>そのはず、なんだけど……）</span>,<span class='scene-font-kokoro'>（看上去完全是白马王子殿下嘛……</span><br><span class='scene-font-kokoro'>应该，是吧……）</span>
+45,,<span class='scene-font-katari'>金髪で明るい瞳の色を持ち、</span><br><span class='scene-font-katari'>憂いを帯びた顔つきの正義漢……</span>,<span class='scene-font-katari'>有着金色的头发和明艳的瞳色，</span><br><span class='scene-font-katari'>神情略带忧郁的正义男性……</span>
+46,,<span class='scene-font-katari'>目の前にいるアルベールという男は</span><br><span class='scene-font-katari'>長年待ち焦がれていた理想の男性像、</span><br><span class='scene-font-katari'>白馬の王子様に見事に合致している。</span>,<span class='scene-font-katari'>眼前这位名为阿尔贝尔的男性，</span><br><span class='scene-font-katari'>和长年以来所追求的梦中男性，</span><br><span class='scene-font-katari'>即白马王子殿下的模样完美地达成了一致。）</span>
+47,,<span class='scene-font-katari'>しかし……</span>,<span class='scene-font-katari'>但是……</span>
+48,メグ/梅格,おかしい……,奇怪……
+49,アルベール/阿尔贝尔,ん？<br>やはりどこか痛むのか？,嗯？<br>果然是有哪里痛吗？
+50,メグ/梅格,え？<br>あっ、いえ、全然！,诶？<br>啊，不，完全没有。
+51,メグ/梅格,<span class='scene-font-kokoro'>（こんな空前絶後の美男子が</span><br><span class='scene-font-kokoro'>目の前に現れたのに、</span><br><span class='scene-font-kokoro'>どうしてわたしは……？）</span>,<span class='scene-font-kokoro'>（明明眼前出现了如此空前绝后的美男子，</span><br><span class='scene-font-kokoro'>为什么我会……？）</span>
+52,,<span class='scene-font-katari'>気絶から目覚めた当初こそ</span><br><span class='scene-font-katari'>眉目秀麗のアルベールに</span><br><span class='scene-font-katari'>メグは胸をときめかせたが……</span>,<span class='scene-font-katari'>自从昏迷后醒来，</span><br><span class='scene-font-katari'>梅格就一直对英俊的阿尔贝尔心动不已……</span>
+53,,<span class='scene-font-katari'>落ち着いてくると、</span><br><span class='scene-font-katari'>待ち望んでいたほど</span><br><span class='scene-font-katari'>心が弾んでいないことに気づいた。</span>,<span class='scene-font-katari'>但冷静下来后，</span><br><span class='scene-font-katari'>发现自己并没有翘首以盼的那么开心。</span>
+54,メグ/梅格,あの、そもそもわたしって……<br>どうなったんですか？<br>海を泳いでいたような……,那个，话说回来……<br>我是怎么了？<br>我记得我好像在海里游泳……
+55,アルベール/阿尔贝尔,デンキンナギだ。<br>電流を発する魚で、<br>そいつに襲われたのさ。,是电鳗。<br>一种能发出电流的鱼，<br>那家伙袭击了你。
+56,アルベール/阿尔贝尔,なにか水分をとった方がいいな。<br>待っててくれ。,你最好摄取一些水分。<br>稍等一下。
+60,,<span class='scene-font-katari'>アルベールがカウンターへ向かうと、</span><br><span class='scene-font-katari'>離れたところにいたまりっぺが</span><br><span class='scene-font-katari'>メグに近づいてきた。</span>,<span class='scene-font-katari'>阿尔贝尔一走向柜台，</span><br><span class='scene-font-katari'>待在稍远处的玛丽丽就凑到了梅格身边。</span>
+61,まりっぺ,ちょっとメグ！<br>せっかく恋のアシストしてやったのに<br>なに世間話してんの？,喂梅格！<br>难得帮你恋情助攻，<br>为什么在聊家常话啊？
+62,まりっぺ,あんたの好きなタイプじゃん！<br>昔っからずーっと言い続けてきた、<br>白馬の王子様でしょ！？,那种人不是你喜欢的类型吗！<br>是你以前就一直念叨的白马王子殿下对吧！？
+63,メグ/梅格,でも、なにをすればいいのやら……<br>皆目見当がつかないんだけど……,但是，该怎么做才好……<br>我完全没有头绪……
+64,まりっぺ,はぁ……<br>さっきは成長したと思ってたけど、<br>すっかり昔のメグに戻ってるのね。,哈啊……<br>刚刚还觉得你成长了，<br>一下子就变回原来的梅格了呢。
+65,まりっぺ,ふだんはなにしてるのかとか<br>どこに宿泊してるのかとか、<br>山ほど聞くことあるでしょーが！,平时在做什么呀，<br>在哪住宿呀，<br>要问的问题有很多吧！
+66,メグ/梅格,確かに……！<br>まりっぺ、すごい！,确实……！<br>玛丽丽，好厉害！
+67,まりっぺ,ま、せいぜいがんばんなさいよ。<br>それじゃアタシはカレと過ごすから、<br>バイバ～イ♪,算了，你就尽力加油吧。<br>之后我要和男朋友一起过了，拜拜~♪
+69,メグ/梅格,<span class='scene-font-kokoro'>（そっか……そうだよね……</span><br><span class='scene-font-kokoro'>白馬の王子様が現れたんだし、</span><br><span class='scene-font-kokoro'>ボケッとしてちゃダメだ！）</span>,<span class='scene-font-kokoro'>（是嘛……是这样啊……</span><br><span class='scene-font-kokoro'>既然白马王子殿下也出现了，</span><br><span class='scene-font-kokoro'>那就不能在这发呆了！）</span>
+71,アルベール/阿尔贝尔,待たせたな。<br>これを飲むといい。,让你久等了。<br>喝吧。
+72,メグ/梅格,あ、ありがとうございます！,谢，谢谢你！
+73,メグ/梅格,あの、アルベールさんは<br>どうして<span class='scene-font-place'>アウギュステ</span>へ……？,那个，阿尔贝尔为什么来<span class='scene-font-place'>奥古斯提</span>呢……？
+74,アルベール/阿尔贝尔,仲間達と休暇中だ。<br>まぁ妙な魚のせいで<br>休んでばかりもいられないが……,和同伴一起来度假的。<br>但因为这奇怪的鱼，<br>不能好好休息了……
+75,メグ/梅格,ふだんはなにをされてるんですか？,平常都会做些什么呢？
+76,アルベール/阿尔贝尔,職業や身分という意味か？<br>祖国の騎士団で団長を務めている……,是问我的职业和身份吗？<br>我在祖国担任骑士团的团长……
+77,メグ/梅格,<span class='scene-font-4'>えっ！</span><br><span class='scene-font-kokoro'>（騎士様……？</span><br><span class='scene-font-kokoro'>本物の白馬の王子様だ！）</span>,<span class='scene-font-4'>诶！</span><br><span class='scene-font-kokoro'>（骑士大人……？</span><br><span class='scene-font-kokoro'>是货真价实的白马王子殿下！）</span>
+78,アルベール/阿尔贝尔,……が、いまはわけあって、<br>とある騎空団の旅に加わっている。,……但现在加入了某个骑空团踏上了旅途。
+79,メグ/梅格,<span class='scene-font-4'>えっ！？</span><br><span class='scene-font-kokoro'>（騎空団って、まさか……）</span>,<span class='scene-font-4'>诶！？</span><br><span class='scene-font-kokoro'>（他说骑空团，莫非……）</span>
+80,,<span class='scene-font-katari'>メグが口をあんぐりさせた時、</span><br><span class='scene-font-katari'>ふいにアルベールは立ち上がり、</span><br><span class='scene-font-katari'>海の方を厳しい目でにらんだ。</span>,<span class='scene-font-katari'>梅格正吃惊不已之时，</span><br><span class='scene-font-katari'>阿尔贝尔突然站了起来，</span><br><span class='scene-font-katari'>以严峻的目光盯着海那边。</span>
+81,アルベール/阿尔贝尔,なにか騒がしいな……,好像有什么骚动……
+82,メグ/梅格,そうですか……？,是吗……？
+84,？？？,アルベール！<br>またデンキンナギが出やがったぜ！,阿尔贝尔！<br>电鳗又出现了！
+85,アルベール/阿尔贝尔,わかった！,我知道了！
+87,メグ/梅格,え？<br>ちょ、ちょっと……！,诶？<br>等，等等……
+88,,<span class='scene-font-katari'>アルベールは海の家を飛び出し、</span><br><span class='scene-font-katari'>メグも慌ててその後を追った。</span>,<span class='scene-font-katari'>阿尔贝尔冲出了海之家，</span><br><span class='scene-font-katari'>梅格慌张地跟在他后面追了出去。</span>
+94,？？？,みなさん、気をつけてください！,大家要小心！
+95,？？？,一気に片づけちまおうぜ！,一口气收拾掉吧！
+96,アルベール/阿尔贝尔,<span class='scene-font-4'>はぁっ！！</span>,<span class='scene-font-4'>哈啊！！</span>
+98,デンキンナギ,────！,────！
+105,メグ/梅格,…………,…………
+106,,<span class='scene-font-katari'>これまでに何度、</span><br><span class='scene-font-katari'>似たような光景を見ただろうか……</span>,<span class='scene-font-katari'>至今为止到底看过多少次类似的场景了呢……</span>
+107,,<span class='scene-font-katari'>例の騎空団とデンキンナギによる</span><br><span class='scene-font-katari'>波打ち際の戦いを</span><br><span class='scene-font-katari'>メグはぼう然と眺めていた。</span>,<span class='scene-font-katari'>梅格怔怔地眺望着那个骑空团与电鳗在海浪边缘战斗。</span>
+108,,<span class='scene-font-katari'>同時にその脳裏には</span><br><span class='scene-font-katari'>いままで</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>で受けた</span><br><span class='scene-font-katari'>数々の不幸な思い出が蘇るのだった。</span>,<span class='scene-font-katari'>同时她在脑海中回忆起了，</span><br><span class='scene-font-katari'>至今为止在</span><span class='scene-font-place'>奥古斯提</span><span class='scene-font-katari'>经历的诸多不幸。</span>
+112,？？？,…………！！,…………！！
+113,メグ/梅格,<span class='scene-font-4'>ほんぎゃああああぁぁぁッ！？</span>,<span class='scene-font-4'>哦嘎啊啊啊啊啊啊啊！？</span>
+117,？？？,…………！,…………！
+118,メグ/梅格,<span class='scene-font-4'>ほんぎゃああああぁぁぁッ！？</span>,<span class='scene-font-4'>哦嘎啊啊啊啊啊啊啊！？</span>
+121,？？？,…………！！,…………！！
+124,メグ/梅格,<span class='scene-font-4'>もがっ！！</span>,<span class='scene-font-4'>哦嘎！！</span>
+129,魔物,…………！,
+130,メグ/梅格,<span class='scene-font-4'>ごめんなさいごめんなさい！</span><br><span class='scene-font-4'>油断してました～！！</span>,<span class='scene-font-4'>对不起对不起！</span><br><span class='scene-font-4'>是我大意了~！！</span>
+133,？？？,────！,────！
+135,メグ/梅格,<span class='scene-font-4'>あばばばばばばばばば……！</span>,<span class='scene-font-4'>阿巴巴巴巴巴巴巴巴巴……！</span>
+138,メグ/梅格,…………！,…………！
+140,まりっぺ,メグ、<br>こんなとこでなにやってんの！？<br>巻き込まれるわよ！,梅格，你在这做什么呢！？<br>会被卷进去的哦！
+141,,<span class='scene-font-katari'>まりっぺに腕をつかまれたが、</span><br><span class='scene-font-katari'>メグは勢いよく振りほどいた。</span>,<span class='scene-font-katari'>虽然被玛丽丽拉住了手腕，</span><br><span class='scene-font-katari'>但梅格用力地甩开了。</span>
+142,まりっぺ,え……メグ？,诶……梅格？
+143,メグ/梅格,何度も何度も……,一而再再而三的……
+144,まりっぺ,え？,诶？
+145,メグ/梅格,<span class='scene-font-4'>何度も何度もなんなの！？</span>,<span class='scene-font-4'>为什么总是一而再再而三的！？</span>
+146,まりっぺ,<span class='scene-font-4'>ひぃっ！？</span>,<span class='scene-font-4'>噫！？</span>
+147,メグ/梅格,わたしはただ<span class='scene-font-place'>アウギュステ</span>で<br>バカンスを過ごしにきただけなのに！！,我明明只是想在<span class='scene-font-place'>奥古斯提</span>度个假而已！！
+148,メグ/梅格,それなのに……もう……<br>どいつもこいつもことごとく邪魔して！,明明只是那样而已……真是的……<br>这家伙也好那家伙也好每次都来妨碍我！
+149,まりっぺ,えぇ……メ、メグ……？,诶诶……梅，梅格……？
+150,メグ/梅格,許さない……<br>アルバなんとかもカツウォなんとかも<br>デンキなんとかも……！,绝不原谅……<br>不管是长鳍金枪鱼还是鲣鱼还是电鳗……！
+151,メグ/梅格,わたしの大好きな<span class='scene-font-place'>アウギュステ</span>と<br>楽しいバカンスを邪魔するすべてを<br>もう……,妨碍我在最喜欢的<span class='scene-font-place'>奥古斯提</span>度假的所有事物，<br>我已经……
+152,メグ/梅格,<span class='scene-font-4'>絶対に許さないから！！</span>,<span class='scene-font-4'>绝不会原谅了！！</span>
+153,,<span class='scene-font-katari'>怒りに満ちたメグの頭の中は</span><br><span class='scene-font-katari'>これまでの災難の数々で満ちていたが、</span><br><span class='scene-font-katari'>ふと蘇る別の記憶があった。</span>,<span class='scene-font-katari'>怒气勃发的梅格脑海中，</span><br><span class='scene-font-katari'>尽是至今为止经历过的苦难记忆，</span><br><span class='scene-font-katari'>但她突然又想起了某个回忆。</span>
+156,アニラ/阿妮拉,大切なものを守るためなら、<br>時に脅威に立ち向かう気概を<br>持つことも肝要じゃぞ。,为了守护重要的事物，<br>有时需要勇敢去面对威胁。
+159,メグ/梅格,…………！,…………！
+161,メグ/梅格,…………帰る。,…………我回去了。
+163,まりっぺ,<span class='scene-font-4'>帰る！？</span><br>あ、ちょっと！<br>もう、なんなの？　急に……,<span class='scene-font-4'>回去！？</span><br>啊，等等！<br>真是的，你怎么了嘛？这么突然……
+164,メグ/梅格,予定を早めて帰るよ。<br>わたし、やることがあるんだ。,我要打破预定提早回去了。<br>我有事要做。
+165,まりっぺ,はぁ……？<br>イミわかんない……,哈啊……？<br>不知道你在讲什么……
+166,,<span class='scene-font-katari'>メグはホテルに戻って</span><br><span class='scene-font-katari'>荷物をまとめると、</span><br><span class='scene-font-katari'>迷うことなく定期船に乗り込んだ。</span>,<span class='scene-font-katari'>梅格回到旅馆打包好行李，</span><br><span class='scene-font-katari'>毫不犹豫地登上了定期船。</span>
+172,メグ/梅格,<span class='scene-font-kokoro'>（変わらなくちゃ……！）</span>,<span class='scene-font-kokoro'>（我必须改变……！）</span>
+173,メグ/梅格,<span class='scene-font-kokoro'>（白馬の王子様はもう要らない。</span><br><span class='scene-font-kokoro'>憧れを待ってるだけのわたしとは</span><br><span class='scene-font-kokoro'>今日でサヨナラだ！）</span>,<span class='scene-font-kokoro'>（我已经不需要白马王子殿下了。</span><br><span class='scene-font-kokoro'>今天就和只会等着梦想实现的我告别吧！）</span>
+177,,<span class='scene-font-katari'>一方、ビーチでは……</span>,<span class='scene-font-katari'>另一边的沙滩上……</span>
+178,アルベール/阿尔贝尔,<span class='scene-font-4'>くしゅっ……</span>,<span class='scene-font-4'>哈啾……</span>
+179,ビィ/碧,んん？<br>海で戦って冷えたか？,嗯嗯？<br>在海里战斗冷到了吗？
+180,アルベール/阿尔贝尔,いや……なぜだろう……<br>理不尽にフラれたような気分を<br>味わった気がしてな……,不……为什么呢……<br>总感觉自己被毫不讲理地甩掉了……
+181,ビィ/碧,なに言ってんだ……？,你在说什么呢……？
+182,,<span class='scene-font-katari'>そしてまた、</span><br><span class='scene-font-katari'>月日は巡るのだった。</span>,<span class='scene-font-katari'>于是在这之后，日月流转过了一段时间。</span>
+info,,,scene_evt200729_cp5_q2_s10
+译者,,,

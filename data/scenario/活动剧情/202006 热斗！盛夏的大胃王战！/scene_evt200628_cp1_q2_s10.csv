@@ -18,7 +18,7 @@ id,name,text,trans
 16,レオナ/蕾欧娜,<span class='scene-font-4'>おー！</span>,<span class='scene-font-4'>哦！</span>
 17,ルリア/露莉亚,おー！　です！,哦！　是的！
 18,シェロカルテ/榭洛科特,ではでは～<br>これからルールを説明いたしますので、<br>少々お静かに願います～,那么那么～<br>接下来我要进行规则说明，<br>请稍微安静一点～
-20,,<span class='scene-font-katari'>会場の熱気が収まったところで、</span><br><span class='scene-font-katari'>シェロカルテはルール説明を始める。</span>,<span class='scene-font-katari'>会场冷静下来后，</span><br><span class='scene-font-katari'>谢洛科特开始说明规则。</span>
+20,,<span class='scene-font-katari'>会場の熱気が収まったところで、</span><br><span class='scene-font-katari'>シェロカルテはルール説明を始める。</span>,<span class='scene-font-katari'>会场冷静下来后，</span><br><span class='scene-font-katari'>榭洛科特开始说明规则。</span>
 21,シェロカルテ/榭洛科特,今大会は<br>予選、本戦、決勝の<br>３日間で行われます～,这次的大赛，<br>分预选、本战、决战，<br>在三天中举行～
 22,シェロカルテ/榭洛科特,予選では、こちらが設定した基準を<br>超えた量を食べられた方が<br>本戦進出となります～,预选赛中，<br>只要选手吃超过我们规定的基准分量的食物，<br>就可以晋级到本战～
 23,シェロカルテ/榭洛科特,本戦では午前の部と午後の部に<br>分かれていただき、それぞれの部で<br>１位の方が決勝進出となります～,本战分上午场和下午场，<br>在两场比赛中，每场获得第一名的选手可以晋级到决赛～
@@ -27,7 +27,7 @@ id,name,text,trans
 26,,<span class='scene-font-katari'>シェロカルテが</span><br><span class='scene-font-katari'>台の上に被せてあった布を外すと、</span><br><span class='scene-font-katari'>竹皿に乗った山盛りの海産物が現れる。</span>,<span class='scene-font-katari'>榭洛科特</span><br><span class='scene-font-katari'>掀开了在台子山盖着的布，</span><br><span class='scene-font-katari'>在竹盆中装着成山高的海产出现在了众人眼前。</span>
 27,シェロカルテ/榭洛科特,<span class='scene-font-place'>アウギュステ</span>の名産セットです～<br>自腹で購入すると、結構お高いですよ～,<span class='scene-font-place'>奥古斯提</span>的名特产礼盒～<br>自己掏腰包的话，会很贵哦～
 28,シェロカルテ/榭洛科特,というわけで皆さん、<br>優勝目指して頑張ってくださいね～,总而言之，<br>大家朝着优胜努力吧～
-30,ルリア/露莉亚,わぁ～！<br>シェロさんが言ってた豪華な賞品って<br>あれだったんですね！,哇～！<br>谢洛科特说的豪华奖品，<br>是那个啊！
+30,ルリア/露莉亚,わぁ～！<br>シェロさんが言ってた豪華な賞品って<br>あれだったんですね！,哇～！<br>榭洛科特说的豪华奖品，<br>是那个啊！
 31,コルル,ごくり……あれが噂に名高い<br><span class='scene-font-place'>アウギュステ</span>の海の幸……<br>美味しそうでごんす！,这个……那是传说中有名的<br><span class='scene-font-place'>奥古提斯</span>的海珍……<br>看起来很好吃！
 32,アーミラ/阿米拉,私がいちばん食べれば……<br>あの魚が食べれる……！,我如果吃到第一的话……<br>那个鱼也能吃到了……！
 33,レオナ/蕾欧娜,ナル・グランデでは見かけない<br>海産物がいっぱい……<br>私も食べてみたいな。,在纳尔·格兰得没见过的海产品有好多……<br>我也想尝尝看。

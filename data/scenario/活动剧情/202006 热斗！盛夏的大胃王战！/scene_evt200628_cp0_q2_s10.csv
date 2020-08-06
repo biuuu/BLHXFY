@@ -22,7 +22,7 @@ id,name,text,trans
 23,司会者,これにて今大会は閉幕となります！<br>３日間、熱い声援をお送りいただき<br>誠にありがとうございました！,那么到此本次大赛就闭幕了！<br>诚挚地感谢这3天中，大家热烈的声援。
 24,司会者,最後に皆様、選手達の健闘を称え<br>盛大な拍手をお送りください！,最后请大家赞美选手们的奋斗，<br>向他们送上热烈的掌声吧！
 25,,<span class='scene-font-katari'>会場内から拍手が巻き起こる中、</span><br><span class='scene-font-katari'>コルルはステージの上で</span><br><span class='scene-font-katari'>誇らしげな表情を浮かべるのだった。</span>,<span class='scene-font-katari'>在会场内响起的掌声中，</span><br><span class='scene-font-katari'>可露露在舞台上露出了骄傲的神情。</span>
-31,,<span class='scene-font-katari'>大会が閉幕し、コルルは</span><br><span class='scene-font-katari'>トロフィーと名産セットを抱えて</span><br><span class='scene-font-katari'>姬塔達の元に戻ってくる。</span>,<span class='scene-font-katari'>大赛闭幕后，</span><br><span class='scene-font-katari'>可露露抱着奖杯和特产礼盒，</span><br><span class='scene-font-katari'>回到姬塔等人的身边。</span>
+31,,<span class='scene-font-katari'>大会が閉幕し、コルルは</span><br><span class='scene-font-katari'>トロフィーと名産セットを抱えて</span><br><span class='scene-font-katari'>姬塔達の元に戻ってくる。</span>,<span class='scene-font-katari'>大赛闭幕后，</span><br><span class='scene-font-katari'>可露露抱着奖杯和名特产礼盒，</span><br><span class='scene-font-katari'>回到姬塔等人的身边。</span>
 33,イオ/伊欧,おめでとう、コルル！<br>ほんっとにおめでとう！,恭喜你，可露露！<br>真的恭喜你！
 34,コルル,イ、イオ……！<br>そんなに抱きつかれると、<br>トロフィーと賞品が落ち申そう……！,伊、伊欧……！<br>这样抱着我的话，<br>奖杯和奖品会掉……！
 35,ルリア/露莉亚,イオちゃんの気持ちもわかります！<br>私も抱きつきたいくらい<br>嬉しいですから！,我明白伊欧的心情！<br>我也高兴到想要拥抱你！
@@ -30,11 +30,11 @@ id,name,text,trans
 37,ビィ/碧,本当のダークホースは、<br>アーミラじゃなくて<br>行き倒れ嬢ちゃんだったな！,真正的黑马，<br>不是阿米拉而是倒在路上的小姑娘啊！
 38,コルル,あっ！<br>そう言えばアーミラは……！,啊！<br>说到这个阿米拉她……！
 40,レッドラック,問題ねぇとさ。<br>さっき医務室に顔覗きに行ったが、<br>ちょいと寝てりゃ治るそうだ。,没什么大碍。<br>我刚去医务室探望了下，<br>好像说稍微休息一下就能治好。
-41,コルル,<span class='scene-font-4'>師匠！</span>,<span class='scene-font-4'>师傅！</span>
+41,コルル,<span class='scene-font-4'>師匠！</span>,<span class='scene-font-4'>师父！</span>
 42,レッドラック,お前の活躍、この目でちゃんと<br>拝ませてもらったぞ。,你的活跃表现，<br>我亲眼见识到了。
 43,レッドラック,もちろん信じちゃいたが、<br>本当に優勝しちまうたぁ俺も驚きだ。<br>よくやった！,虽然我一直相信你可以，<br>但真的看到你获胜了我还是很吃惊。<br>干得漂亮！
 44,レッドラック,俺の夢を叶えてくれて、ありがとな。<br>俺はお前を誇りに思う。,谢谢你，实现了我的梦想。<br>我以你为傲。
-45,コルル,……っ！<br>はい、師匠！,……啊！<br>是，师傅！
+45,コルル,……っ！<br>はい、師匠！,……啊！<br>是，师父！
 46,マッシュの声,<span class='scene-font-4'>なんでじゃあッ！</span>,<span class='scene-font-4'>为什么！</span>
 47,,<span class='scene-font-katari'>一行がコルルの優勝の余韻に</span><br><span class='scene-font-katari'>浸っている中、遠くから</span><br><span class='scene-font-katari'>マッシュの無念を叫ぶ声が響く。</span>,<span class='scene-font-katari'>当一行人沉浸在获胜喜悦的余韵中时，</span><br><span class='scene-font-katari'>从远处传来了马修悔恨的喊声。</span>
 51,マッシュ,あがぁな手ぇ使うて、なんで……,明明用了那样的手段，为什么……
@@ -82,7 +82,7 @@ id,name,text,trans
 109,ビィ/碧,はぁ……<br>相変わらずよくわかんねぇな……,哈……<br>还是一如既往的难以理解……
 110,ルシオ/路西欧,皆、この海を愛していますから。<br>海に危機が訪れれば皆さんも守ろうと<br>するでしょう？ その一助をと思い。,因为大家都爱着这片海。<br>所以如果海面临危机的话大家都会想保护它对吧？ <br>我也想助上一臂之力。
 111,ルシオ/路西欧,それに……こうして徳を積めば、<br>いつかサンちゃんお手製の珈琲に<br>ありつけるかもしれませんしね。,而且……像这样积点德的话，<br>说不定哪天就可以喝到芬酱亲手冲泡的咖啡了呢。
-112,マッシュ,おう、兄ちゃん。<br>ひとつ聞かせてくれんか。,兄、兄弟。<br>可以问一个问题吗。
+112,マッシュ,おう、兄ちゃん。<br>ひとつ聞かせてくれんか。,喂，小哥。<br>可以问一个问题吗。
 113,マッシュ,ワシは結果的に薬を使うてなかった。<br>ならワシが決勝戦で<br>追い上げできたんは、なんでじゃ？,结果来看我没有吃那个药。<br>那我在决战的时候，为什么能追上来呢？
 114,ルシオ/路西欧,それが貴方の真の実力だったと<br>いうことでしょう。,那个应该说是，<br>你真正的实力吧。
 115,ルシオ/路西欧,心の枷を外す儀式と暗示を、<br>半ば偶然に行っていたのです。,因为你半偶然地对自己进行了，<br>取下心中枷锁仪式和暗示。
@@ -133,7 +133,7 @@ id,name,text,trans
 185,,<span class='scene-font-katari'>レッドラックとマッシュは</span><br><span class='scene-font-katari'>力強く腕を組み合い、</span><br><span class='scene-font-katari'>いつかの再戦を誓う。</span>,<span class='scene-font-katari'>雷德拉克和马修用力地互相挽臂，</span><br><span class='scene-font-katari'>发誓有一天要再次交战。</span>
 187,,<span class='scene-font-katari'>その後マッシュと別れ、</span><br><span class='scene-font-katari'>一行はコルルの優勝を祝うため</span><br><span class='scene-font-katari'>バーベキューの準備をするのだった。</span>,<span class='scene-font-katari'>在那之后，一行人告别了马修，</span><br><span class='scene-font-katari'>为了庆祝可露露的胜利准备烧烤。</span>
 197,,<span class='scene-font-katari'>夕方から始まったコルルの祝賀会は、</span><br><span class='scene-font-katari'>夜深くになっても</span><br><span class='scene-font-katari'>変わらず盛り上がり続けていた。</span>,<span class='scene-font-katari'>从傍晚开始的可露露的庆祝宴会，</span><br><span class='scene-font-katari'>一直持续到深夜，依旧热闹非凡。</span>
-198,コルル,もぐもぐ……,嚼嚼……
+198,コルル,もぐもぐ……,啊呜啊呜……
 199,コルル,<span class='scene-font-4'>おおっ！？</span><br>こ、これがカツウォヌス！！,<span class='scene-font-4'>哦哦！？</span><br>这、这是鲣鱼王！！
 200,コルル,絶品でごんす～！<br>ほっぺが溶け落ちそうで申すな！,这真是绝品～！<br>脸颊快要融化掉了！
 201,イオ/伊欧,もう、コルルったら。<br>口にご飯ついてるじゃない。<br>拭いてあげるから動かないで。,真是的，可露露你啊。<br>嘴周围沾上饭粒了。<br>我要帮你擦一擦，不要动。
@@ -147,16 +147,16 @@ id,name,text,trans
 210,レッドラック,昨日の敵は今日の友ってな。<br>正確に言やぁ<br>昨日じゃなく今日の敵だが。,俗话说昨天的敌人就是今天的朋友。<br>虽然正确说来不是昨天是今天的敌人。
 211,レオナ/蕾欧娜,ふふ……<br>わかるなぁ、そういうの。,呵呵……<br>这种事，我也理解。
 212,レッドラック,おう、コルル！<br>相変わらずいい食いっぷりだな！,哦，可露露！<br>还是老样子，吃的很香啊！
-213,コルル,<span class='scene-font-4'>師匠！</span>,<span class='scene-font-4'>师傅！</span>
+213,コルル,<span class='scene-font-4'>師匠！</span>,<span class='scene-font-4'>师父！</span>
 214,レッドラック,どうだ、チャンピオンの気分は？,成为冠军的感觉，如何？
 215,コルル,いんやぁ～……<br>正直、チャンピオンと呼ばれるのも<br>歯痒いほどであり申すが……,嗯~<br>说实在的，<br>叫我冠军真是让我过意不去……
-216,コルル,これも全て、師匠のおかげでごんす！,这全都是师傅的功劳！
+216,コルル,これも全て、師匠のおかげでごんす！,这全都是师父的功劳！
 217,レッドラック,<span class='scene-font-4'>だはははっ！</span><br>なぁに謙遜してやがる！,<span class='scene-font-4'>啊哈哈！</span><br>你在谦虚个啥啊！
-218,レッドラック,言ったろ？　お前は原石だって。<br>俺ぁ輝き方を教えてやっただけだ。,我说过的吧？　<br>你是块原石。<br>我只是教会了你怎么让自己发光的办法而已。。
+218,レッドラック,言ったろ？　お前は原石だって。<br>俺ぁ輝き方を教えてやっただけだ。,我说过的吧？　<br>你是块原石。<br>我只是教会了你怎么让自己发光的办法而已。
 219,レッドラック,輝いたのはお前自身だ、コルル！<br>胸を張れ！,发光的是你自己，可露露！<br>挺起胸膛来！
-220,コルル,<span class='scene-font-4'>はい、師匠！</span>,<span class='scene-font-4'>是，师傅！</span>
+220,コルル,<span class='scene-font-4'>はい、師匠！</span>,<span class='scene-font-4'>是，师父！</span>
 221,コルル,わたし、また皆でこうして<br>楽しくご飯を食べたいでごんす！,我还想像这样，<br>和大家一起开心的吃饭！
-222,コルル,まるで大家族のようで、<br>わたしは幸せで申す！,就像一大家一样，<br>我感到很幸福！
+222,コルル,まるで大家族のようで、<br>わたしは幸せで申す！,就像一个大家庭一样，<br>我感到很幸福！
 223,,<span class='scene-font-katari'>コルルは大会の優勝以上に得た</span><br><span class='scene-font-katari'>幸せを噛み締めながら、一行とともに</span><br><span class='scene-font-katari'>ひと夏の思い出を過ごす。</span>,<span class='scene-font-katari'>可露露获得了比在大赛上获胜更大的幸福，</span><br><span class='scene-font-katari'>与一行人一起度过了充满回忆的夏天。</span>
 224,,<span class='scene-font-katari'>後に伝説として語り継がれる</span><br><span class='scene-font-katari'>熱闘のフードファイトは、</span><br><span class='scene-font-katari'>晴れやかに幕を閉じたのだった。</span>,<span class='scene-font-katari'>之后作为传说流传下来的热斗大胃王大赛，</span><br><span class='scene-font-katari'>顺利的落下了帷幕。
 230,,<span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　　　　　　　　　　　　　　　──完</span>,

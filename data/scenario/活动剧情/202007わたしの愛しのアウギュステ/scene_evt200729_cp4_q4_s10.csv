@@ -1,0 +1,76 @@
+id,name,text,trans
+0-chapter_name,,第4話 ポーチャーズ・メグ,第4话 偷猎者・梅格
+0-synopsis,,メグは魔物に襲われそうになったが、フェリという少女とそのペットが助けてくれた。フェリも騎空団の一員であるという。メグは感激して礼を言うが、話の流れからフェリは自分達が幽霊であると告白する。とっくの昔に死んでいるが、何故かこの世に留まっているそうだ。メグは恐怖から気を失ってしまい、目覚めると朝になっていた。すでに騎空団は旅立った後だった。,梅格要被魔物袭击的时候，名为菲利的少女和其宠物救了她。菲利说她也是骑空团的一员。梅格向她道谢，谈话间菲利坦白了自己是幽灵这一事实。她在很久之前就死去了，但不知为何仍留在这个世界。梅格吓得昏了过去，醒来已经是第二天早上了。那个骑空团已经离开这里踏上旅途了。
+1,メグ/梅格,<span class='scene-font-4'>わぁ～っ！！</span>,<span class='scene-font-4'>哇啊~！！</span>
+2,魔物,…………！,…………！
+3,メグ/梅格,<span class='scene-font-4'>ごめんなさいごめんなさい！</span><br><span class='scene-font-4'>油断してました～！！</span>,<span class='scene-font-4'>对不起对不起！</span><br><span class='scene-font-4'>是我大意了~！！</span>
+4,,<span class='scene-font-katari'>ハサミを掲げる魔物から</span><br><span class='scene-font-katari'>メグは全力で逃げる。</span>,<span class='scene-font-katari'>梅格拼命从举着大钳的魔物那里逃走。</span>
+5,メグ/梅格,<span class='scene-font-kokoro'>（魚とか魔物とか……</span><br><span class='scene-font-kokoro'>どうしてわたしのバカンスは</span><br><span class='scene-font-kokoro'>いつもこんなことになるの～！？）</span>,<span class='scene-font-kokoro'>（鱼也好魔物也好……</span><br><span class='scene-font-kokoro'>为什么我的假期总是变成这样啊~！？）</span>
+7,メグ/梅格,<span class='scene-font-4'>へぶしっ！？</span>,<span class='scene-font-4'>呜哇啊！？</span>
+8,,<span class='scene-font-katari'>暗がりで足がもつれ、</span><br><span class='scene-font-katari'>メグは派手に転倒してしまい、</span><br><span class='scene-font-katari'>振り返ると魔物は背後に迫っていた。</span>,<span class='scene-font-katari'>因为太暗脚绊了一下，</span><br><span class='scene-font-katari'>梅格摔了个大跤，</span><br><span class='scene-font-katari'>回头发现魔物已经逼近到背后了。</span>
+9,魔物,…………！,…………！
+10,メグ/梅格,あ、あ、あぁ……！,啊，啊，啊啊……！
+11,,<span class='scene-font-katari'>恐怖で動けないメグの前で</span><br><span class='scene-font-katari'>魔物は大きなハサミを振りかざした。</span>,<span class='scene-font-katari'>在害怕得不能动弹的梅格面前，</span><br><span class='scene-font-katari'>魔物挥舞着那只巨钳。</span>
+12,？？？,<span class='scene-font-4'>させるかっ！</span>,<span class='scene-font-4'>不会让你得逞的！</span>
+16,魔物,…………！？,…………！？
+17,？？？,まだ逃げないつもりなら、<br>こっちも手加減なしだ！<br>やるぞ！　みんな！,还不逃的话，<br>我们这边也不会手下留情的！<br>要上了！大家！
+18,？？？,────！,────！
+19,？？？,──！,──！
+20,？？？,──,──
+23,魔物,…………！,…………！
+24,,<span class='scene-font-katari'>畳みかけられると、</span><br><span class='scene-font-katari'>魔物は慌てて</span><br><span class='scene-font-katari'>暗闇の向こうへ逃げていった。</span>,<span class='scene-font-katari'>在连番紧逼之下，</span><br><span class='scene-font-katari'>魔物慌张地逃向黑暗中。</span>
+25,？？？,やれやれ……<br>いまのはちょっとしつこかったな……,真是的……<br>刚刚那只稍微有点缠人呢……
+26,？？？,大丈夫か？,你没事吧？
+27,メグ/梅格,あ、はい……！,啊，嗯……！
+29,,<span class='scene-font-katari'>少女に立たされ、</span><br><span class='scene-font-katari'>メグはようやく</span><br><span class='scene-font-katari'>自分が助かったことを自覚した。</span>,<span class='scene-font-katari'>被少女拉着站起来，</span><br><span class='scene-font-katari'>梅格终于反应过来自己被救了。</span>
+30,メグ/梅格,し、死ぬかと思った……！,我，我还以为要死了……！
+31,？？？,もう心配しなくていい。<br>ケガはないか？,已经不用担心了。<br>你没受伤吧？
+32,メグ/梅格,ちょっと転んだ程度で、大丈夫です……<br>えっと、あなたはどうしてここに？,只是稍微摔了一跤，我没事的……<br>那个，你为什么会在这里？
+33,？？？,私は騎空団の一員で、<br>いまは仲間達と一緒に<br>この島に滞在してるんだ。,我也是骑空团的一员，<br>现在和伙伴们一起暂留这座岛上。
+34,メグ/梅格,あ～……なるほど……<br>シェロカルテさんと<br>交流のある人達、ですよね……？,啊~原来如此……<br>是和榭洛科特有来往的那些人，对吧……？
+35,？？？,よろず屋さんを知ってるのか？<br>やっぱりあの人は顔が広いな……,你认识万事屋吗？<br>果然那个人的人脉很广呢……
+36,メグ/梅格,あ、そういえば名前！<br>名前、教えてくれませんか？<br>わたしはメグっていいます。,啊，对了名字！<br>你能告诉我你的名字吗？<br>我叫梅格。
+37,フェリ/菲莉,フェリだ。<br>いい名前だろう？,我叫菲利。<br>是个好名字吧？
+38,メグ/梅格,助けてくれてありがとう、<br>フェリちゃん！<br>本当に本当にありがとう！,谢谢你救了我，菲利酱！<br>真的真的很谢谢你！
+39,メグ/梅格,それと、この子達も助けてくれたよね。<br>フェリちゃんのペット？<br>お利口さんだね。,而且这些孩子也帮了我吧。<br>是菲利酱的宠物吗？<br>真聪明呢！
+40,フェリ/菲莉,ベッポとフージー、それにジジだ。<br>私が抱いているのはニコラで、<br>他にもモモっていう子がいる。,贝波和弗吉，还有吉吉。<br>我抱着的是尼古拉，<br>还有一个叫莫莫的孩子。
+41,ベッポ,────！,────！
+42,フージー,──！,──！
+43,ジジ,──,──
+44,メグ/梅格,わぁ、かわいいワンちゃ……じゃなくて<br>かわいいウサちゃ……あー……<br>えーっと……,哇啊，可爱的狗狗……也不对，<br>可爱的兔兔……吗……额……
+45,メグ/梅格,<span class='scene-font-kokoro'>（なんだろう……？</span><br><span class='scene-font-kokoro'>ワンちゃんでも</span><br><span class='scene-font-kokoro'>ウサちゃんでもない……）</span>,<span class='scene-font-kokoro'>（那是什么……？</span><br><span class='scene-font-kokoro'>不是狗狗也不是兔子……）</span>
+46,メグ/梅格,<span class='scene-font-kokoro'>（ていうか、青白く光ってない？</span><br><span class='scene-font-kokoro'>それになんだか……心なしか</span><br><span class='scene-font-kokoro'>透き通ってるように見えるんだけど）</span>,<span class='scene-font-kokoro'>（话说，是不是散发着青白色的光？</span><br><span class='scene-font-kokoro'>而且总觉得……是错觉吗，看上去有点透明）</span>
+47,ベッポ,────！,────！
+48,メグ/梅格,……！？,……！？
+49,フェリ/菲莉,そうだな……<br>ベッポの言うように<br>夜道には気をつけなきゃダメだぞ。,说的也是……<br>就像贝波说的，<br>走夜路的时候要注意哦。
+50,メグ/梅格,え？<br>なにを言ってるかわかるの？,诶？<br>你知道它们在说什么吗？
+51,フェリ/菲莉,ああ……<br>私もこいつらも幽霊だからな。<br>だいたいのことはわかるんだ。,嗯……<br>因为我和这些孩子们都是幽灵。<br>大概的意思都能懂。
+52,メグ/梅格,へぇ…………え？<br>幽霊？,这样啊…………诶？<br>幽灵？
+53,フェリ/菲莉,っと……<br>そ、その、幽霊とはいえ、<br>そんなに身構えないでくれ……,啊……<br>那，那个虽说是幽灵，<br>你也不用那么警戒……
+54,メグ/梅格,…………,…………
+55,,<span class='scene-font-katari'>その時、夜の海からやって来た</span><br><span class='scene-font-katari'>やけに涼しい風に身体を撫でられ、</span><br><span class='scene-font-katari'>メグはぞくりと背筋を震わせた。</span>,<span class='scene-font-katari'>就在这时，</span><br><span class='scene-font-katari'>被来自海洋的夜风所吹拂，</span><br><span class='scene-font-katari'>梅格突然感觉一阵恶寒。</span>
+56,フェリ/菲莉,私達はもう、<br>とっくの昔に死んでるんだ。,我们在很久以前就已经死了。
+57,フェリ/菲莉,だけどどういうわけか、<br>こうして幽霊として、<br>この世に留まってて……,但不知为何，<br>以这副幽灵的形态，<br>留在了这个世界……
+58,メグ/梅格,…………,…………
+59,？？？,<span class='scene-font-4'>ガウッ！</span>,<span class='scene-font-4'>嘎呜！</span>
+60,メグ/梅格,<span class='scene-font-4'>ひぃっ！？</span>,<span class='scene-font-4'>噫！？</span>
+61,フェリ/菲莉,こら！　ダメだぞ、モモ。,喂！不行哦，莫莫！
+62,フェリ/菲莉,すまない……びっくりしただろ？,抱歉……吓到你了吧？
+63,フェリ/菲莉,こいつは元々、<br>廃墟に住み着いた悪霊だったんだ。<br>そのせいか人を脅かすのが好きで……,这家伙原本是住在废墟的恶灵。<br>因此特别喜欢吓人……
+64,メグ/梅格,あくりょう……？,恶灵……？
+65,フェリ/菲莉,あ、大丈夫！<br>いまは悪さなんてしないさ。<br>ちゃんと私が躾けてある。,啊，没事的！<br>现在已经不会干坏事了。<br>我有好好管教它的。
+66,フェリ/菲莉,モモもさみしかっただけなんだ。<br>長い間、誰にも名前を<br>呼んでもらえなくて……,莫莫也很寂寞的。<br>很长时间都没人叫它的名字……
+67,フェリ/菲莉,暗くてさみしい場所にひとりでいると、<br>少しずつ良くないモノに<br>変わってしまうんだろうな……,在昏暗又寂寞的地方一个人待着的话，<br>就会渐渐变得有点不对劲呢……
+68,メグ/梅格,…………,…………
+69,フェリ/菲莉,なんて……<br>いまはむしろ、<br>騒がしいくらいの毎日だけどな。,虽说以前是这样……<br>现在反而每天都很吵闹呢。
+70,フェリ/菲莉,暑い日なんかは、<br>近くに居るとひんやりするって、<br>みんなに引っ張りだこで……,天气很热的时候，<br>因为我在附近就会感觉很凉爽，<br>所以被大家拉拉扯扯搂搂抱抱……
+71,フェリ/菲莉,ん……？<br>どうしたんだ？<br>ちょっと顔が青白いような……,嗯……？<br>你怎么了？<br>脸色有点苍白啊……
+72,メグ/梅格,…………,…………
+74,フェリ/菲莉,だ、大丈夫か！？<br>どこか具合でも……,你，你没事吧！？<br>是哪里不舒服……
+75,メグ/梅格,う～ん……,呜~嗯……
+76,,<span class='scene-font-katari'>少女が幽霊であることを知ると</span><br><span class='scene-font-katari'>メグは恐怖から</span><br><span class='scene-font-katari'>泡を吹いて気を失ってしまった。</span>,<span class='scene-font-katari'>得知少女是幽灵这一真相，</span><br><span class='scene-font-katari'>梅格吓得口吐白沫昏了过去。</span>
+77,フェリ/菲莉,どうしよう……<br>と、とりあえず、<br>よろず屋さんを呼んでくるか……,该怎么办……<br>总，总之，<br>先把万事屋叫来吧……
+83,,<span class='scene-font-katari'>翌朝、目を覚ましたメグは</span><br><span class='scene-font-katari'>自分がいつの間にかコテージに</span><br><span class='scene-font-katari'>戻っていることに気づいた。</span>,<span class='scene-font-katari'>第二天，睁开眼的梅格发现自己竟不知不觉间回到了别墅。</span>
+87,,<span class='scene-font-katari'>恐る恐るシェロカルテに尋ねると、</span><br><span class='scene-font-katari'>例の騎空団は揉め事を解決したため、</span><br><span class='scene-font-katari'>すでに旅立ったということだった。</span>,<span class='scene-font-katari'>她战战兢兢地问了榭洛科特后，</span><br><span class='scene-font-katari'>得知那个骑空团为了解决纠纷已经离开这里踏上旅途了。</span>
+info,,,scene_evt200729_cp4_q4_s10
+译者,,,

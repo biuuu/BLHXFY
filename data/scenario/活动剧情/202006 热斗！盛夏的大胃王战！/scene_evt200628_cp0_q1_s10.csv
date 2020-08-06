@@ -1,7 +1,7 @@
 id,name,text,trans
-0-synopsis,,夏真っ盛りのある日、姬塔一行はシェロカルテから大食い大会の誘いを受ける。<span class='scene-font-place'>アウギュステ</span>では現在、樹クラゲという生物が大量発生して漁業に被害を与えており、退治した樹クラゲの処分に困っているという。そこでシェロカルテが大食い大会を企画し、参加者を募るため、縁のある一行に声をかけたのだ。一行は大会を盛り上げるため、大会への参加を申し出るのだった。,盛夏的某日，姬塔一行人收到了来自谢洛科特的大胃王大赛邀请。据说<span class='scene-font-place'>奥古斯提</span>现在出现了大量名为树水母的生物，对渔业产生了危害，而且在处理击退了的树水母的事上也遇到了麻烦。因此榭洛科特计划举办大胃王大赛，为了召集参赛者，谢洛科特向姬塔等熟人打了招呼，姬塔一行人为了使大赛的气氛更高涨，提出要参加大赛。
+0-synopsis,,夏真っ盛りのある日、姬塔一行はシェロカルテから大食い大会の誘いを受ける。<span class='scene-font-place'>アウギュステ</span>では現在、樹クラゲという生物が大量発生して漁業に被害を与えており、退治した樹クラゲの処分に困っているという。そこでシェロカルテが大食い大会を企画し、参加者を募るため、縁のある一行に声をかけたのだ。一行は大会を盛り上げるため、大会への参加を申し出るのだった。,盛夏的某日，姬塔一行人收到了来自榭洛科特的大胃王大赛邀请。据说<span class='scene-font-place'>奥古斯提</span>现在出现了大量名为树水母的生物，对渔业产生了危害，而且在处理击退了的树水母的事上也遇到了麻烦。因此榭洛科特计划举办大胃王大赛，为了召集参赛者，榭洛科特向姬塔等熟人打了招呼，姬塔一行人为了使大赛的气氛更高涨，提出要参加大赛。
 2,,<span class='scene-font-katari'>肌を焼くような強い陽射しが</span><br><span class='scene-font-katari'>降り注ぐ、夏真っ盛りのある日。</span>,<span class='scene-font-katari'>仿佛要烤熟皮肤一般强烈的阳光倾泻而下，</span><br><span class='scene-font-katari'>盛夏的一天。</span>,
-3,,<span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>挨拶がてら訪れたシェロカルテから</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>の現状を知らされる。</span>,<span class='scene-font-katari'>姬塔一行人从来打招呼的谢洛科特那里</span><br><span class='scene-font-katari'>听说了奥古斯提的现状</span>
+3,,<span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>挨拶がてら訪れたシェロカルテから</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>の現状を知らされる。</span>,<span class='scene-font-katari'>姬塔一行人从来打招呼的榭洛科特那里</span><br><span class='scene-font-katari'>听说了奥古斯提的现状。</span>
 4,ビィ/碧,<span class='scene-font-spword'>“樹クラゲ”</span>、だってぇ？,你是说，<span class='scene-font-spword'>“树水母”</span>吗？
 5,シェロカルテ/榭洛科特,はい～<br>比較的温厚で毒もありませんし、<br>普段は害のない生き物なんですが～……,是～<br>虽然比较性格温厚，也没有毒，<br>一般是一种无害的生物，但是～……
 6,シェロカルテ/榭洛科特,今年はその樹クラゲが大量発生して<br>お魚を食い荒らしているせいで、<br>漁業に被害が出ているんです～,但是今年那种树水母大量爆发，<br>疯狂地捕食鱼类，<br>对渔业造成了损害～
@@ -12,15 +12,15 @@ id,name,text,trans
 11,ビィ/碧,ん？　困ってんだろ？<br>遠慮しなくても、<br>オイラ達なら力を貸すぜ！,嗯？很困扰吧？<br>不用客气，<br>我们一定会帮你的！
 12,シェロカルテ/榭洛科特,困っているのは事実なんですが～<br>本日、足を運んだのは<br>皆さんをお誘いするためでして～,虽然感到困扰是事实～<br>但今天我来这里，<br>是来邀请各位的～
 13,ルリア/露莉亚,お誘い？<br>どういうことですか？,邀请？<br>什么意思？
-14,シェロカルテ/榭洛科特,実は、この度<span class='scene-font-spword'>“大食い大会”</span>を<br>開催することになりまして～<br>私がその主催者なんです～,其实是，这次决定举办<span class='scene-font-spword'>“大胃王大赛”</span>～<br>我是主办者～
+14,シェロカルテ/榭洛科特,実は、この度<span class='scene-font-spword'>“大食い大会”</span>を<br>開催することになりまして～<br>私がその主催者なんです～,其实是，这次我们决定举办<span class='scene-font-spword'>“大胃王大赛”</span>～<br>我是主办者～
 15,シェロカルテ/榭洛科特,日頃お世話になっている皆さんにも<br>楽しんでいただきたく、<br>お声がけをと思いまして～,希望平时关照我的各位也可以来享受乐趣，<br>所以我来打声招呼～
 16,ルリア/露莉亚,大食い大会ですか！<br>面白そうですね！,大胃王大赛吗！<br>好像很有趣啊！
 17,ビィ/碧,うーんと、話が見えねぇな。<br>魚が減って困ってんのに、<br>大会を開く余裕なんてあんのか？,嗯，话没说清楚啊。<br>不是在为鱼类减少而烦恼吗，<br>还有精力来开比赛吗？
 18,シェロカルテ/榭洛科特,それはですね～……,说到这个～
-19,,<span class='scene-font-katari'>首を傾げる姬塔達に、</span><br><span class='scene-font-katari'>シェロカルテは経緯を語る。</span>,<span class='scene-font-katari'>面对疑惑的姬塔等人，</span><br><span class='scene-font-katari'>谢洛科特讲述了事情的经过。</span>
+19,,<span class='scene-font-katari'>首を傾げる姬塔達に、</span><br><span class='scene-font-katari'>シェロカルテは経緯を語る。</span>,<span class='scene-font-katari'>面对疑惑的姬塔等人，</span><br><span class='scene-font-katari'>榭洛科特讲述了事情的经过。</span>
 24,,<span class='scene-font-katari'>樹クラゲ退治はさほど困難ではなく、</span><br><span class='scene-font-katari'>地元の漁師達だけの力で</span><br><span class='scene-font-katari'>問題なく対処できていた。</span>,<span class='scene-font-katari'>治理树水母其实并不困难，</span><br><span class='scene-font-katari'>只靠当地渔夫们就解决了这个问题。</span>
 25,,<span class='scene-font-katari'>しかし樹クラゲは食材として</span><br><span class='scene-font-katari'>利用出来るため、</span><br><span class='scene-font-katari'>廃棄するのはもったいない。</span>,<span class='scene-font-katari'>但是因为树水母可以作为食材，</span><br><span class='scene-font-katari'>直接丢掉太浪费了。</span>
-26,,<span class='scene-font-katari'>とはいえ量が膨大で対策に</span><br><span class='scene-font-katari'>困っていたところ、シェロカルテが</span><br><span class='scene-font-katari'>大食い大会の開催を申し出たのだった。</span>,<span class='scene-font-katari'>话虽如此，但面对数量如此庞大的树水母，</span><br><span class='scene-font-katari'>要如何处理还是让人困恼。</span><br><span class='scene-font-katari'>于是谢洛科特提议举办大胃王大赛。</span>,
+26,,<span class='scene-font-katari'>とはいえ量が膨大で対策に</span><br><span class='scene-font-katari'>困っていたところ、シェロカルテが</span><br><span class='scene-font-katari'>大食い大会の開催を申し出たのだった。</span>,<span class='scene-font-katari'>话虽如此，但面对数量如此庞大的树水母，</span><br><span class='scene-font-katari'>要如何处理还是让人很头疼。</span><br><span class='scene-font-katari'>于是榭洛科特提议举办大胃王大赛。</span>,
 32,ビィ/碧,なるほどなぁ、捨てる代わりに<br>皆で食べちまおうってワケか！<br>そりゃ面白ぇな！,原来如此，不是丢掉，<br>而是让大家一起吃吗！<br>那真是有趣！
 33,ビィ/碧,で、その樹クラゲってのは<br>味はどうなんだよ？<br>ウマいのか？,那，那个什么树水母，<br>味道怎么样啊？<br>好吃吗？
 34,シェロカルテ/榭洛科特,もちろん～<br>噛めば噛むほど、旨味が<br>口いっぱいに広がります～,当然～<br>这个越嚼越好吃，<br>所有味道会在整个口腔散开～
@@ -37,15 +37,15 @@ id,name,text,trans
 54,シェロカルテ/榭洛科特,地方では無敗を誇る選手でさえ、<br>その大会では予選敗退というのも<br>珍しくないレベルだったそうで……,据说即使是在地方上以不败为傲的选手，<br>在那个比赛的预选就被击败，<br>也不是什么稀罕事。
 59,シェロカルテ/榭洛科特,それほど厳しい大会ゆえに、優勝者は<br>チャンピオンの中のチャンピオン、<br>全空一のフードファイターと呼ばれ……,因为正是这么严酷的比赛，<br>所以获得优胜的选手被称为是冠军中的冠军，<br>全空第一的大胃王斗士……
 62,シェロカルテ/榭洛科特,優勝者の中には、その雄姿が<br>とある大きな国のお姫様に伝わり、<br>婿入りを申し込まれた方もいたとか～,在优胜者中，<br>也有被某大国公主听说其英勇事迹，<br>被招去做女婿的。
-63,シェロカルテ/榭洛科特,優勝すればどんな大きな夢も叶う、<br>とまで言われたほどだったそうですよ～,甚至有人说，<br>如果获得了优胜，不管是多大的愿望都可以实现。
-67,シェロカルテ/榭洛科特,その伝説の大会が数十年ぶりに復活～！<br>と銘打って参加者を募っていますので、<br>強者揃いの大会になるかと～,因为用“传说中的大会在时隔数十年后复活～！”<br>这样的名号召集参赛者，<br一定会有很多强者前来参加～
+63,シェロカルテ/榭洛科特,優勝すればどんな大きな夢も叶う、<br>とまで言われたほどだったそうですよ～,甚至有人说，<br>如果获得了优胜，<br>不管是多大的愿望都可以实现。
+67,シェロカルテ/榭洛科特,その伝説の大会が数十年ぶりに復活～！<br>と銘打って参加者を募っていますので、<br>強者揃いの大会になるかと～,“传说中的大会在时隔数十年后复活～！”<br>因为用这样的名号召集参赛者，<br>一定会有很多强者前来参加～
 68,ビィ/碧,そ、そんなにガチのやつなのかよ……,这、这么多认真的人吗……
 69,ルリア/露莉亚,じゃあ、私達は<br>お邪魔かもしれませんね……,这样的话，<br>我们会不会妨碍他们……
 70,シェロカルテ/榭洛科特,いえいえ～<br>真剣な方もいるというだけで、<br>楽しんでいただくことが一番ですから～,没事没事～<br>虽然会有认真参加的人，<br>获得快乐才是最重要的～
-71,シェロカルテ/榭洛科特,お料理目当てで参加する方も、<br>もちろん大歓迎ですよ～,如果有人对料理有兴趣的话，<br>当然也是非常欢迎的～
+71,シェロカルテ/榭洛科特,お料理目当てで参加する方も、<br>もちろん大歓迎ですよ～,如果有人对料理有兴趣而参赛的话，<br>当然也是非常欢迎的～
 72,シェロカルテ/榭洛科特,豪華な賞品も用意しておりますので、<br>皆さんいかがでしょう～？,我还准备了豪华的奖品，<br>大家意下如何～？
 73,ビィ/碧,って言ってるけど、<br>どうするよ姬塔？,话是这么说的，<br>你觉得呢姬塔？
-74,ルリア/露莉亚,わ、私は参加したいです！<br>ダメですか、姬塔……？,哇，我想参加！<br>不可以吗，姬塔……？
+74,ルリア/露莉亚,わ、私は参加したいです！<br>ダメですか、姬塔……？,我，我想参加！<br>不行吗，姬塔……？
 74-sel1_txt,,<span class='scene-font-katari'>目一杯楽しもう！</span>,<span class='scene-font-katari'>尽情享受吧！</span>
 74-sel2_txt,,<span class='scene-font-katari'>優勝を目指そう！</span>,<span class='scene-font-katari'>目标是优胜！</span>
 76,ルリア/露莉亚,わーい！<br>ありがとうございます！,哇啊！<br>谢谢你！
@@ -61,7 +61,7 @@ id,name,text,trans
 87,ルリア/露莉亚,今年は食べ物を食べるだけなので、<br>ゆっくり過ごせそうですね！,今年看来只是去吃东西，<br>应该可以过得很悠闲吧！
 88,ビィ/碧,樹クラゲも無害で大人しいなら、<br>襲われることもなさそうだしな！,树水母无害又老实，<br>应该不会被袭击的！
 89,ビィ/碧,そう毎年毎年、変な生き物に<br>襲われてたまるかってんだ！,怎么能容忍每年<br>都被奇怪的生物袭击啊！
-90,,<span class='scene-font-katari'>シェロカルテの誘いを受け、</span><br><span class='scene-font-katari'>大食い大会に参加することになった</span><br><span class='scene-font-katari'>姬塔一行。</span>,<span class='scene-font-katari'>接受了谢洛科特的邀请，</span><br><span class='scene-font-katari'>姬塔一行人决定参加大胃王大赛</span>
+90,,<span class='scene-font-katari'>シェロカルテの誘いを受け、</span><br><span class='scene-font-katari'>大食い大会に参加することになった</span><br><span class='scene-font-katari'>姬塔一行。</span>,<span class='scene-font-katari'>接受了榭洛科特的邀请，</span><br><span class='scene-font-katari'>姬塔一行人决定参加大胃王大赛</span>
 91,,<span class='scene-font-katari'>真夏の太陽にも劣らぬ</span><br><span class='scene-font-katari'>激闘必至の熱き戦いが</span><br><span class='scene-font-katari'>今、始まろうとしているのだった。</span>,<span class='scene-font-katari'>不亚于盛夏烈日的，</span><br><span class='scene-font-katari'>定会引发激烈对决的热血大战，</span><br><span class='scene-font-katari'>马上就要开始了。</span>
 info,,,scene_evt200628_cp0_q1_s10
 译者,,,二抠
