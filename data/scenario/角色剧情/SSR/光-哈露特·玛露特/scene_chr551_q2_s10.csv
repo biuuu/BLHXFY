@@ -1,0 +1,76 @@
+id,name,text,trans
+0-chapter_name,,Sending Our Thoughts,送去我们的思念
+0-synopsis,,"The twins arrive on the island where the girl last resided, only to discover her village has long since been destroyed by monsters. A local islander says the girl's family moved to another island. The islander then asks the twins to deliver something for her since they're heading in that direction.",双子到达了女孩最后所居住的岛上，却发现她的村子早已被魔物摧毁了。一位当地的岛民说女孩一家已经搬到别的岛上去了。得知双子要前往那座岛，岛民便也请求双子帮他送些东西去那。
+1,,Halluel and Malluel follow the elderly man's directions and arrive at an island far from Auguste.,1.哈露特和玛露特根据老人的指示来到了一座离奥古斯特很远的岛上。
+2,Halluel/哈露特,"Well, we're here. The village where the girl used to live is supposed to be around here somewhere...",根据老爷爷的话，那个女孩以前住的村子应该就在这附近...
+3,Malluel/玛露特,"Look, Hal! There's a house over there!",看，哈酱，那边有个房子！
+4,Halluel/哈露特,You're right. Let's go!,真的诶，过去看看吧！
+11,Villager,What the!,哇，什么鬼？！
+12,Malluel/玛露特,Sorry for startling you like that. We're looking for someone.,不好意思吓到你了，我们正在找人。
+13,Halluel/哈露特,This is the village we're trying to find. Do you happen to know how to get there?,我们在找这个村子，请问你知道怎么去那里吗？
+14,,Halluel shows the villager a piece of paper with the name of their destination written on it.,14.哈露特把写着目的地名字的纸递给这个村民看。
+15,Villager,Ah... That's probably the neighboring village.,啊...这大概就是附近的那个村子吧。
+16,Villager,"Thing is, I heard it hit the skids a long time ago. Seems a horde of monsters wrecked it pretty bad.",但我听说这村子以前倒了大霉，好像被一群魔物完全毁坏了。
+17,Malluel/玛露特,The village was destroyed by monsters? Then all those poor people...,毁坏了？！那住在村子的人们也...
+18,Villager,I'm sure there were survivors. Word is they escaped to another village on the other side of the mountain.,我记得还有一些幸存者，他们逃去山那边的村子里避难了。
+19,Halluel/哈露特,"Hm, so we're not out of options yet. Thanks, we'll go check it out.",山那边的村子么，谢谢！我们会去看看的。
+20,Villager,"Oh, wait!",请等一下！
+21,,The villager stops the twins as they are about to take off.,21.在双子准备出发时，村民叫住了她们。
+22,Villager,"Since you're heading over there anyway, would you mind delivering a letter for me?",两位小姐也要往山的那边走对吧，那能不能顺便也帮我送一封信呢？
+23,Malluel/玛露特,"Sure, of course. Who should we give it to?",嗯，当然！你要给谁寄信呢？
+24,Villager,A childhood friend of mine recently tied the knot. This wedding card is for him.,我的一位童年玩伴最近结婚了，所以我想给他送一张结婚贺卡。
+25,,The twins nod and take the card.,25.双子点了点头接过了卡片。
+26,Villager,"Thank you. I wanted to give it to him in person, but I just can't seem to find the time to.",谢谢，虽然我真的很想亲自交给他，但一直没时间。
+27,Malluel/玛露特,"It's all right, that's what we're here for. Piece of cake.",没关系，我们是邮递员呀，这点小事轻轻松松。
+28,Halluel/哈露特,Your card is safe with us.,小哥你的信件一定会安全送达的。
+29,,"With a final goodbye, the twins take to the skies and head for the other village.",29.双子再次道了别后，飞向空中，朝着另外一个村庄出发。
+34,,Halluel and Malluel fly over the mountain and arrive at a village in the forest. They promptly go to deliver the wedding card.,哈露特和玛露特飞过了这座山，来到了一个森林中的村庄。刚落地，她们就去送了结婚贺卡。
+35,Malluel/玛露特,Good day. Your friend asked us to deliver this wedding card to you.,你好，你的朋友托我们送信给你。
+36,Childhood Friend,You mean the guy from across the mountain? I don't believe it...,你们说的难道是山那边的那家伙吗？难以置信..
+37,,The twins share a confused look. This isn't the reaction they were expecting.,37.双子交换了一个疑惑的眼神，这并不是她们所期待的反应。
+38,Halluel/哈露特,Did something happen between you two?,你们之间发生过什么吗？
+39,Childhood Friend,"Nah, nothing like that. I just wasn't counting on getting a response this quickly.",不，只是平时不会这么快就收到回信，所以有些吃惊。
+40,Malluel/玛露特,Does he take that long to answer back?,他很久才会回一次信吗？
+41,Childhood Friend,"Eh, it's more like this place has a shortage of messengers and travelers willing to take on extra tasks.",不，我们这里没什么邮递员，所以都是拜托旅行者送信。
+42,Childhood Friend,That's why it's commonplace for letters to take weeks to arrive.,所以一般来说信要过个好几周才能送到。
+43,Halluel/哈露特,I see. It must be difficult for the residents here.,原来如此，这边的住民一定很难受吧。
+44,Childhood Friend,"Haha. Hey, you get used to it. But in any case, thanks for the delivery.",哈哈..都已经习惯了，无论如何谢谢你们把信送来。
+45,,The twins return the man's smile.,双子也回以男人微笑。
+46,Malluel/玛露特,"No problem! By the way, maybe you can help us with something.",啊，对了对了，小哥你有听过这件事吗？
+47,Malluel/玛露特,"Your friend told us about a village that got attacked by monsters a long time ago, and that some of the survivors fled here.",你的朋友告诉我们很久以前有个村子被怪兽袭击，而幸存者都逃到这个村子来了。
+48,Childhood Friend,"Oh yeah, we had a few move in. What about 'em?",啊..是有几个人呢，他们怎么了吗？
+49,Halluel/哈露特,One of them might be the person we're searching for.,其实我们正在寻找其中的某个人。
+50,,"As Halluel and Malluel describe the girl in detail, the man furrows his brow in thought.",当哈露特和玛露特描述完女孩的一些细节后，这个男人皱着眉陷入了沉思。
+51,Childhood Friend,"Sorry, that doesn't ring a bell at all.",抱歉，我对她没有什么印象呢。
+52,Halluel/哈露特,"Hm... Well, so much for that. It was our only clue.",这样啊..这下难办了，这可是我们唯一的线索了
+53,Childhood Friend,"Actually, maybe my mother would know.",对了，也许我妈会知道些什么。
+59,,The man disappears inside his house. Eventually an old woman shuffles to the door.,59.男人说完便转身进了屋，不一会儿，一位老妇人拖着脚到了门口。
+60,Man's Mother,"Guests are such a rarity these days. You're looking for survivors of that ruined village, you say?",哦呀，这儿好久都没来客人了。你们是在找被毁村子的幸存者吗？
+61,Malluel/玛露特,Yes. Does this name sound familiar to you?,是的，这个名字您觉得耳熟吗?
+62,,"Malluel shows her the name written on the elderly man's letter and explains the situation. The old woman listens intently, then nods knowingly.",玛露特给她看了老人信封上写的名字并解释了前因后果。老妇人专心地听着，然后会意地点了点头。
+63,Man's Mother,"Yes, I distinctly remember a girl who lived there that matches your description.",你们说的一定是曾住在这附近的那个孩子了。
+64,Man's Mother,She was the only girl from that village who had been to Auguste before.,她是那个村庄唯一去过奥古斯特岛的女孩。
+65,Halluel/哈露特,Does she live here now?,那她现在住在这个村子吗？
+66,Man's Mother,No. Her family packed up and moved to another island the very day their village was attacked.,66.不。在她们的村子即将被袭击的前几天，她们一家就收拾行李离开，去了别的岛。
+67,Halluel/哈露特,"I see. You wouldn't happen to know where they moved to, would you?",这样啊...那婆婆，你知道她们搬到哪去了吗？
+68,Man's Mother,Let me see...,唔...让我想想...
+69,,"According to the old woman, the girl moved to an island that would take days even by airship.",根据老妇人的记忆，那个女孩搬去了一座乘飞艇都要花上数天的岛。
+70,,"On top of that, since airships only come to this island once every few days, getting to the other island could take up to a month.",除此之外，因为飞艇几天才会来这座岛一次，所以想去别的岛甚至要花上一个月。
+71,Malluel/玛露特,That's not an issue. We have wings of our own.,不必担心，我们有翅膀！
+72,Halluel/哈露特,Auguste was basically a stone's throw away for us.,奥古斯特对我们来说也只是一箭之遥而已。
+73,Man's Mother,Is that right?,哦呀，真的吗？
+74,Childhood Friend,Yeah. These two just delivered a wedding card from my friend down by the foot of the mountain.,是啊，她们刚从山那边帮我的朋友把他的结婚贺卡送来呢。
+75,Man's Mother,That's impressive. Can I bother you with a request of my own then?,真厉害啊，这样的话，能麻烦你们也帮我一个忙吗？
+76,Halluel/哈露特,Certainly. What would you like us to deliver?,没问题，您想让我们送什么呢？
+77,,The old woman picks a bunch of flowers from her garden and arranges them into a beautiful bouquet.,老妇人从她家的花园里摘了一些花，并将它们包成了一个漂亮的花束。
+78,Man's Mother,My daughter got married and settled down on the same island you're about to head to.,我的女儿也去了那个女孩搬去的岛，她已经在那结婚成家了。
+79,Man's Mother,"She loves these flowers, but I was never able to send her any because they'd wilt by the time they reached her.",她很喜欢这些花，可花在送到那座岛上时就已经枯萎了。
+80,Halluel/哈露特,Gotcha. We'll get these flowers to your daughter while they're still fresh.,我明白了，交给我们吧。我们会把新鲜的花束送到您女儿手上的。
+81,Malluel/玛露特,Thank you so much for the information! I think we're finally on track to getting this letter to the right place!,谢谢你婆婆！多亏了您的帮忙，我们会把这封信送到的！
+82,Man's Mother,I'm glad I could help. Have a safe trip.,能帮上你们的忙真是太好了。那么，请一路小心。
+83,,The family waves goodbye as the twins take off for the next island.,母子俩朝飞向下一座岛的双子挥手道别。
+88,Halluel/哈露特,"Careful with those flowers, Mal. We don't want their petals scattering in the wind.",玛酱，小心别让花被风吹散了。
+89,Malluel/玛露特,"I know that, Hal! Now let's go full speed ahead without losing a single petal!",当然了哈酱，让我们保护着花、全速向下一个岛进发吧！
+90,,"The two winged couriers, each carrying precious cargo, make haste across the blue sky.",90.两位长着翅膀的邮递员拿着珍贵的货物，迅速地向天空的另一端飞去。
+info,,,scene_chr551_q2_s10
+译者,,,九鸟&炎溪

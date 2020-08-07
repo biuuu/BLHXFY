@@ -1,0 +1,40 @@
+id,name,text,trans
+0-chapter_name,,世界を穿つ楔,贯穿世界之楔
+0-synopsis,,ジャンヌダルクは星晶獣を打ち倒すが、最後の抵抗を食らい倒れる。気を失ったジャンヌダルクは啓示を与えた存在に労われ目を覚ます。心配していた仲間達はジャンヌダルクが目覚めたことに喜び、星晶獣はしばらく動けないだろうと話す。ジャンヌダルクは安堵しつつも、これからも世界を揺るがすものとの戦いは続くだろうと予期するのだった。,贞德虽然打倒了星晶兽，却遭到了最后的抵抗攻击而倒地。失去意识的贞德在赐予她启示的存在的慰劳下苏醒了过来。担忧的同伴们看到贞德苏醒后十分高兴，并告诉她星晶兽暂时无法再动弹了。贞德感到安心的同时，也预感到今后也将继续同动摇世界的存在作战。
+1,ジャンヌダルク/贞德,<span class='scene-font-4'>でりゃあっ！！</span>,<span class='scene-font-4'>哈！！</span>
+3,？？？,…………！！,…………！！
+4,,<span class='scene-font-katari'>ジャンヌダルクの渾身の一撃が</span><br><span class='scene-font-katari'>星晶獣の体を貫く。</span>,<span class='scene-font-katari'>贞德用尽全力的一击贯穿了星晶兽的躯体。</span>
+6,ジャンヌダルク/贞德,やった……か……！？,干掉了……吗……！？
+8,？？？,<span class='scene-font-4'>――！</span>,<span class='scene-font-4'>――！</span>
+9,,<span class='scene-font-katari'>だが、星晶獣が放った</span><br><span class='scene-font-katari'>最後の抵抗をジャンヌダルクは</span><br><span class='scene-font-katari'>まともに食らってしまった。</span>,<span class='scene-font-katari'>但贞德遭到了星晶兽释放的最后的抵抗一击。</span>
+10,ジャンヌダルク/贞德,がはっ……！,咳……！
+11,ビィ/碧,<span class='scene-font-4'>ジャンヌーッ！！</span>,<span class='scene-font-4'>贞德！！</span>
+17,ジャンヌダルク/贞德,う……私、は……？,唔……我……？
+18,？？？,<span class='scene-font-gray'>………</span>,<span class='scene-font-gray'>………</span>
+19,ジャンヌダルク/贞德,…………！<br>この気配、貴方は啓示の……！,…………！<br>这个气息是……您是赐予我启示的……！
+20,？？？,<span class='scene-font-gray'>よくぞ、世界を歪める力を</span><br><span class='scene-font-gray'>その手で削いでみせた……</span>,<span class='scene-font-gray'>亲手削除了扭曲世界之力，你做得很好……</span>
+21,？？？,<span class='scene-font-gray'>汝の行いは、</span><br><span class='scene-font-gray'>明日への礎となろう……</span>,<span class='scene-font-gray'>你所做的一切，都会成为未来的基石……</span>
+22,ジャンヌダルク/贞德,…………そう、ですか……<br>今度こそ、私は……<br>世界の、人々の、ために……,…………是、这样吗……<br>这一次，我一定要……<br>为了世界……为了众人……
+30,ビィ/碧,ジャンヌ！<br>ジャンヌ、しっかりしろよ！<br>おいっ！,贞德！<br>贞德，振作些！<br>喂！
+31,ルリア/露莉亚,ジャンヌさん、目を開けてください！！,贞德，快睁开眼睛啊！！
+32,ジャンヌダルク/贞德,……う……,……唔……
+33,ジャンヌダルク/贞德,……ビィ、様……<br>ルリア、姬塔……<br>それに、ロゼッタも……,……碧、大人……<br>露莉亚，姬塔……<br>还有萝赛塔也……
+34,ビィ/碧,ったく、無茶しやがってぇ！<br>あの星晶獣の攻撃を<br>まともに食らっちまったんだぞ！,真是的，太逞强了！<br>你居然一个人接下了那个星晶兽的所有攻击！
+35,ジャンヌダルク/贞德,そう……だったのですか？,是……这样吗？
+36,ビィ/碧,そうなんだよ！<br>心配させやがってぇ……ひっく……,是啊！<br>让我们担心……呜……
+37,ジャンヌダルク/贞德,ビ、ビィ様！？,碧、碧大人！？
+38,ロゼッタ/萝赛塔,ふふ、とっても心配していたのよ？<br>本当に、無事で良かった。,呵呵，我们可是很担心的哦？<br>没事真是太好了。
+39,ジャンヌダルク/贞德,心配させてすまない。<br>……星晶獣はどうなった？,抱歉让大家担心了。<br>……星晶兽怎么样了？
+40,ロゼッタ/萝赛塔,安心して。<br>しばらくはあの星晶獣も<br>力を振るうことはできないでしょう。,放心吧。<br>那个星晶兽暂时都无法使用力量了。
+41,ロゼッタ/萝赛塔,……貴女はすごい子ね、ジャンヌ。,……你真是个厉害的孩子啊，贞德。
+42,,<span class='scene-font-katari'>ロゼッタに褒められたジャンヌは、</span><br><span class='scene-font-katari'>微笑みながらも首を振る。</span>,<span class='scene-font-katari'>被萝赛塔称赞的贞德微笑着摇了摇头。</span>
+43,ジャンヌダルク/贞德,いや……私はまだ、道半ばだ。<br>これからも研鑽を積まなければ。,不……我只是个半吊子。<br>接下来还要更加积累钻研才行。
+44,ジャンヌダルク/贞德,おそらくは、あの星晶獣とて<br>世界を揺るがすものの<br>ひとつに過ぎないのだろうから。,那个星晶兽大概只不过是动摇世界和平的其中之一而已。
+45,ジャンヌダルク/贞德,とはいえ……,不过……
+46,ジャンヌダルク/贞德,はは……<br>流石に、今回は……<br>私も、疲れた……,哈哈……<br>这次就算是我……<br>也真的很累了……
+49,ルリア/露莉亚,わわっ！<br>ジャンヌさんっ！,哇！<br>贞德！
+50,,<span class='scene-font-katari'>倒れ込みそうになるジャンヌダルクを</span><br><span class='scene-font-katari'>姬塔は受け止め、</span><br><span class='scene-font-katari'>彼女に肩を貸す。</span>,<span class='scene-font-katari'>姬塔接住了差点倒下去的贞德，让她靠着自己的肩膀。</span>
+51,,<span class='scene-font-katari'>人々の力となることを</span><br><span class='scene-font-katari'>決意した聖女の戦いは、</span><br><span class='scene-font-katari'>本人の言う通りまだまだ続く。</span>,<span class='scene-font-katari'>下定决心要成为众人之力的圣女的战斗，如本人所言还在继续着。</span>
+52,,<span class='scene-font-katari'>だが、ひとつの脅威を退け</span><br><span class='scene-font-katari'>ひとときの安寧を得ることが</span><br><span class='scene-font-katari'>できたのもまた確かだった。</span>,<span class='scene-font-katari'>但击退一个威胁之后，她也算是能获得片刻的安宁了。</span>
+info,,,scene_ult_chr114_ep2_q3_s20
+译者,,,蘑菇

@@ -1,8 +1,8 @@
 id,name,text,trans
 0-chapter_name,,第4話 ポーチャーズ・メグ,第4话 偷猎者・梅格
 0-synopsis,,メグは支配人の勧めで、リゾート地として開発されたばかりというベンディク島で過ごすことに。しかし待っていたのはシェロカルテ。そしてやはり例の騎空団も来ているらしい。そこでメグはコテージから一歩も外に出ないことを決意。室内で過ごすが、屋外から怒号や轟音が届いてきた。しかしメグはそれを雑音と割り切り、意地でも聞こえないふりを続けるのだった。,梅格在老板的推荐下，在刚刚开发为度假区的本迪克岛度过假期。但是等着她的却是榭洛科特。而且果然那个骑空团也来了的样子。梅格于是决定待在别墅里一步也不出去。虽然在室内度过着假期，但从屋外传来了各种怒喊声和轰鸣声。梅格却和那些噪音划开界限，强撑着继续装作听不见的样子。
-1,ホテル支配人,ベンディク島をご存じでしょうか？<br>漁師の多い島なのですが、最近になって<br>リゾート地として開発されまして……,你知道本迪克岛吗？<br>是个有很多渔夫的岛，<br>最近作为度假地被开发了……
-2,メグ/梅格,はぁ……ベンディク島……？,哈啊……本迪克岛……？
+1,ホテル支配人,ベンディク島をご存じでしょうか？<br>漁師の多い島なのですが、最近になって<br>リゾート地として開発されまして……,您知道本迪克岛吗？<br>是个有很多渔夫的岛，<br>最近作为度假地被开发了……
+2,メグ/梅格,はぁ……ベンディク島……？,哦……本迪克岛……？
 3,ホテル支配人,さほど不便なく過ごせますし、<br>かといって観光客で賑わうほどの<br>知名度はまだありません。,既不会生活不便，<br>也还没有名到游客很多很热闹的程度。
 4,ホテル支配人,そのベンディク島でしたら<br>メグ様も静かに、そして快適に<br>お過ごしいただけるのではないかと……,我想在那本迪克岛的话，<br>梅格大人应该能够平静舒适地度过假期……
 5,ホテル支配人,ご希望でしたら<br>手配させていただきますが……<br>いかがでしょうか？,如果您有意的话我这就去做准备……<br>您意下如何呢？
@@ -16,26 +16,26 @@ id,name,text,trans
 16,,<span class='scene-font-katari'>シェロカルテの姿を見た途端、</span><br><span class='scene-font-katari'>メグは膝から崩れ落ちてしまった。</span>,<span class='scene-font-katari'>一看到榭洛科特，</span><br><span class='scene-font-katari'>梅格当场跪倒在地。</span>
 17,シェロカルテ/榭洛科特,おや～、どうされましたか～？,哦呀~您是怎么了吗~？
 18,メグ/梅格,どうして……<br>どうしてここにいるんですか……？<br>どうして……？,为什么……为什么你会在这里呢……？<br>为什么……？
-19,シェロカルテ/榭洛科特,このベンディク島を<br>リゾート地に開発したのは、<br>何を隠そう、このシェロちゃんでして～,因为开发这座本迪克岛的，<br>就是我榭洛酱啊~
-20,メグ/梅格,そうですか……<br>手広いんですね……,是吗……<br>你涉猎范围真广呢……
+19,シェロカルテ/榭洛科特,このベンディク島を<br>リゾート地に開発したのは、<br>何を隠そう、このシェロちゃんでして～,因为将这座本迪克岛开发成度假地的，<br>就是我榭洛酱啊~
+20,メグ/梅格,そうですか……<br>手広いんですね……,是吗……<br>你业务范围真广呢……
 21,シェロカルテ/榭洛科特,いえいえ、それほどでも～,不不不，也没那么厉害啦~
 22,メグ/梅格,<span class='scene-font-kokoro'>（もういい……決めた……</span><br><span class='scene-font-kokoro'>わたし、帰る日まで</span><br><span class='scene-font-kokoro'>ずっとコテージから出ない！）</span>,<span class='scene-font-kokoro'>（算了……我决定了……</span><br><span class='scene-font-kokoro'>在回去之前都要一直待在别墅里不出去！）</span>
 23,メグ/梅格,<span class='scene-font-kokoro'>（外出しなければ</span><br><span class='scene-font-kokoro'>どうということはないのよ！）</span>,<span class='scene-font-kokoro'>（只要不出门的话，</span><br><span class='scene-font-kokoro'>就不会发生那些事了！）</span>
 29,シェロカルテ/榭洛科特,なにかありましたら<br>いつでもお申しつけください～<br>それでは～,要是有什么事的话，<br>一直都可以和我说哦~<br>那么我就先离开了~
-31,,<span class='scene-font-katari'>コテージに案内されたメグは</span><br><span class='scene-font-katari'>シェロカルテが去るのを見届けると、</span><br><span class='scene-font-katari'>すぐに扉を閉めた。</span>,<span class='scene-font-katari'>被领到别墅来的梅格目送榭洛科特离开后，立刻关上了门。</span>
+31,,<span class='scene-font-katari'>コテージに案内されたメグは</span><br><span class='scene-font-katari'>シェロカルテが去るのを見届けると、</span><br><span class='scene-font-katari'>すぐに扉を閉めた。</span>,<span class='scene-font-katari'>被领到别墅来的梅格目送榭洛科特离开后，</span><br><span class='scene-font-katari'>立刻关上了门。</span>
 32,メグ/梅格,ふぅ……これでよし、と。<br>あとはおとなしく<br>この部屋で過ごしていれば──,呼……这样就行了。<br>之后只要老实地在这房间里度过——
 33,シェロカルテ/榭洛科特,あ、すみません～,啊，不好意思~
 34,メグ/梅格,<span class='scene-font-4'>んひゃあっ！！</span>,<span class='scene-font-4'>噫呀！！</span>
-35,シェロカルテ/榭洛科特,お伝えしそびれていたのですが～<br>この島の名物のンニについては、<br>夜にはお持ちできるかと～,刚刚错过告诉你的机会了~<br>晚上我会带着这座岛的名产海胆来~
+35,シェロカルテ/榭洛科特,お伝えしそびれていたのですが～<br>この島の名物のンニについては、<br>夜にはお持ちできるかと～,刚刚错过告诉你的时机了~<br>晚上我会带着这座岛的名产海胆来~
 36,メグ/梅格,は、はぁ……ンニ……？,哦，哦……海胆……？
-37,シェロカルテ/榭洛科特,実は島で密猟者達とンニを巡る<br>トラブルが起きていまして～<br>ですが、どうぞご安心を～,其实这座岛上，<br>围绕海胆和偷猎者们起了冲突~<br>但是还请您放心~
+37,シェロカルテ/榭洛科特,実は島で密猟者達とンニを巡る<br>トラブルが起きていまして～<br>ですが、どうぞご安心を～,其实这座岛上围绕着海胆，<br>渔夫和偷猎者们起了冲突~<br>但是还请您放心~
 38,シェロカルテ/榭洛科特,とある騎空団に<br>対応をお願いしていますし、<br>すぐに落ち着くと思います～,我委托了某个骑空团来解决，<br>我想情况很快就会稳定下来的~
 39,メグ/梅格,騎空団……？<br><span class='scene-font-kokoro'>（やっぱりあの人達、</span><br><span class='scene-font-kokoro'>今年も来てるんだ……）</span>,骑空团……？<br><span class='scene-font-kokoro'>（果然那些人……今年也来了啊……）</span>
 40,シェロカルテ/榭洛科特,そういえばメグさんは<br>あの方達をご存じでしたね～,说起来梅格你也知道那些人呢~
 41,シェロカルテ/榭洛科特,腕利きの騎空団ですからね～<br>きっとすぐに解決してくれますので～<br>そうしたらンニをお持ちしますね～,是个手腕了得的骑空团呢~<br>肯定很快就能为我们解决~<br>那之后我就拿海胆过来哦~
 44,,<span class='scene-font-katari'>シェロカルテを今度こそ見送ると、</span><br><span class='scene-font-katari'>メグは扉を閉めて鍵をかけ、</span><br><span class='scene-font-katari'>指差し確認も済ませた。</span>,<span class='scene-font-katari'>这次真的目送走了榭洛科特，</span><br><span class='scene-font-katari'>梅格关上门锁上锁，也完成了确认。</span>
 45,メグ/梅格,今度こそよし、と。<br>はぁ……来たばっかりなのに<br>もう疲れたんだけど……,这次真的行了吧。<br>哈……明明才刚来，<br>我已经觉得好累了……
-46,,<span class='scene-font-katari'>コテージの中は高級感にあふれ、</span><br><span class='scene-font-katari'>メグをもてなそうと</span><br><span class='scene-font-katari'>細かい配慮も行き届いていた。</span>,<span class='scene-font-katari'>别墅中洋溢着高级感，</span><br><span class='scene-font-katari'>传达出对梅格细致的顾虑和郑重的对待。</span>
+46,,<span class='scene-font-katari'>コテージの中は高級感にあふれ、</span><br><span class='scene-font-katari'>メグをもてなそうと</span><br><span class='scene-font-katari'>細かい配慮も行き届いていた。</span>,<span class='scene-font-katari'>别墅中洋溢着一股高级感，</span><br><span class='scene-font-katari'>表现着对梅格细致的顾虑和郑重的对待。</span>
 47,メグ/梅格,わぁ、フルーツがたくさん！<br>これ食べちゃっていいんだよね？<br>あ、ジュースもある！,哇啊，有好多水果！<br>这个我可以吃吧？<br>啊，还有果汁！
 48,メグ/梅格,<span class='scene-font-place'>アウギュステ</span>について<br>書かれた書物もいっぱい……<br>これ読んで過ごそっかな！,还有好多记载<span class='scene-font-place'>奥古斯提</span>相关的书……<br>就读这些书度过假期吧！
 54,,<span class='scene-font-katari'>メグはフルーツを食べやすいように</span><br><span class='scene-font-katari'>カットして皿に盛りつけると、</span><br><span class='scene-font-katari'>本を広げてソファに寝転がった。</span>,<span class='scene-font-katari'>梅格把水果切好装在盘中便于取食，</span><br><span class='scene-font-katari'>摊开书躺倒在沙发上。</span>
