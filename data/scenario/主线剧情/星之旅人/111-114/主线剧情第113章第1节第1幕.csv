@@ -109,9 +109,9 @@ id,name,text,trans
 130,シトリ,<span class='scene-font-kokoro'>（それなら、私は……）</span>,（这样的话，我……）
 133,境界の民１,シトリ……ッ！<br>こ、ここに居たのか……,志鸟……啧！<br>你、你在这里啊……
 134,シトリ,どうしたの？<br>そんなに慌てて。,怎么了吗？<br>这么慌张。
-135,境界の民１,ミカが……攫われた。<br>攫ったのは、福音の民の連中だ。,米卡她……被抓走了。<br>带走她的是，那帮福音之民。
+135,境界の民１,ミカが……攫われた。<br>攫ったのは、福音の民の連中だ。,米卡她……被抓走了。<br>带走她的，是那帮福音之民。
 136,シトリ,っ！？,唔！？
 137,,<span class='scene-font-katari'>境界の民からの報せを聞き、</span><br><span class='scene-font-katari'>シトリは言葉を失う。</span>,听到了境界之民的报告以后，<br>志鸟陷入了沉默。
-138,,<span class='scene-font-katari'>姬塔達の決意に構うことなく、</span><br><span class='scene-font-katari'>事態はすでに動き出しているのだった。</span>,和姬塔一行人的决意五官，<br>事态正稳步向前发展着。
+138,,<span class='scene-font-katari'>姬塔達の決意に構うことなく、</span><br><span class='scene-font-katari'>事態はすでに動き出しているのだった。</span>,和姬塔一行人的决意无关，<br>事态正稳步向前发展着。
 info,,,scene_cp113_q1_s10
 译者,,,rei

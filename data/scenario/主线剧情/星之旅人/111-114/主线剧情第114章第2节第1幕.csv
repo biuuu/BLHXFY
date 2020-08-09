@@ -1,6 +1,6 @@
 id,name,text,trans
 0-chapter_name,,第114章　福音からの帰還,从福音归来
-0-synopsis,,福音の民を退けた姬塔達はミカとロキ、フェンリル、そしてミカに嬲られた見張り達を見つける。その様子からシトリは、ミカが記憶を取り戻したことを悟る。シトリはかつてミカ──ミカボシに育てられたが、自身を虐げた星の民への復讐のため破滅の道を歩むミカボシの封印に手を貸した。そして贖罪のため、シトリ自身もグレートウォールに封印されていたのだった。,击退了福音之民的姬塔一行人发现了米卡、洛基、芬里尔以及一伙负责监视米卡的人。看到现场的样子后，志鸟立刻反应过来米卡应该已经取回了接。志鸟回忆起自己过去被米卡——也就是米卡波希养育的事，由于受到星之民的欺负，米卡波西为了报仇而走向了毁灭之路，因此才会被自己封印起来。为了赎罪，志鸟自身也和长城一起被封印了。
+0-synopsis,,福音の民を退けた姬塔達はミカとロキ、フェンリル、そしてミカに嬲られた見張り達を見つける。その様子からシトリは、ミカが記憶を取り戻したことを悟る。シトリはかつてミカ──ミカボシに育てられたが、自身を虐げた星の民への復讐のため破滅の道を歩むミカボシの封印に手を貸した。そして贖罪のため、シトリ自身もグレートウォールに封印されていたのだった。,击退了福音之民的姬塔一行人发现了米卡、洛基、芬里尔以及负责监视米卡的一群人。看到现场的样子后，志鸟立刻反应过来米卡应该已经取回了记忆。志鸟回忆起自己过去被米卡——曾经她叫做米卡波西——养育的事。由于受到星之民的虐待，米卡波西为了报仇而走向了毁灭之路，因此被志鸟封印。为了赎罪，志鸟自身也和长城一起被封印了。
 3,福音の民１,がはっ……,咳哈……
 5,カタリナ/卡塔莉娜,これで粗方片付いたようだな。,基本都解决掉了啊。
 6,,<span class='scene-font-katari'>カタリナは念のため確認するも、</span><br><span class='scene-font-katari'>周囲の福音の民は皆、倒れ伏していた。</span>,为了确保安全，卡塔丽娜看向四周。周围的福音之民全都倒在地上，<br>一动也不动。
@@ -62,7 +62,7 @@ id,name,text,trans
 90,シトリ,<span class='scene-font-spword'>“シトリ”</span><span class='scene-font-gray'>──というその名前。</span>,那个名字叫做——<br>“志鸟”。
 91,シトリ,<span class='scene-font-gray'>拾った</span><span class='scene-font-spword'>星の民</span><span class='scene-font-gray'>自身の名前と</span><br><span class='scene-font-gray'>何か繋がりがあるらしいが、</span><br><span class='scene-font-gray'>結局、教えてもらえなかった。</span>,这个名字和捡到她的星之民<br>究竟有什么关系，<br>直到现在，也没有说出来过。
 97,シトリ,<span class='scene-font-gray'>気まぐれな</span><span class='scene-font-spword'>星の民</span><span class='scene-font-gray'>が赤ん坊を育て始め、</span><br><span class='scene-font-gray'>幾つかの季節が過ぎた。</span>,心血来潮的星之民就这样<br>开始抚养孩子，<br>并和她一起度过了无数个四季。
-103,シトリ,<span class='scene-font-gray'>ある秋の日、彼女は教えてくれた。</span><br><span class='scene-font-gray'>私には赤ん坊のお前が</span><br><span class='scene-font-gray'>自分自身に見えた、と。</span>,在秋天的某个日子里，<br>她告诉少女，<br>在我看来，你就是个婴儿。
+103,シトリ,<span class='scene-font-gray'>ある秋の日、彼女は教えてくれた。</span><br><span class='scene-font-gray'>私には赤ん坊のお前が</span><br><span class='scene-font-gray'>自分自身に見えた、と。</span>,在秋天的某个日子里，她告诉少女<br>当时看到作为婴儿的她，<br>就仿佛看到了多年前的自己。
 104,シトリ,<span class='scene-font-gray'>彼女も星の世界では、</span><br><span class='scene-font-gray'>ひどく虐げられて育ったらしい。</span>,她在星之世界，<br>似乎也是受尽虐待才长大的。
 105,シトリ,<span class='scene-font-gray'>空も星も変わらない。</span><br><span class='scene-font-gray'>そんな思いを抱きながら、</span><br><span class='scene-font-gray'>私は大病を患うこともなく育った。</span>,空和星都没有变化。<br>怀揣着这种想法，<br>我没生过什么大病，就这么长大了。
 106,シトリ,<span class='scene-font-gray'>むしろ、その時、</span><br><span class='scene-font-gray'>身体を蝕まれていたのは、</span><br><span class='scene-font-gray'>その</span><span class='scene-font-spword'>星の民</span><span class='scene-font-gray'>のほうだった。</span>,倒不如说，那个时候<br>身体受到侵蚀的反而是星之民那方。
@@ -71,13 +71,13 @@ id,name,text,trans
 124,シトリ,<span class='scene-font-spword'>“グレートウォール”</span><span class='scene-font-gray'>。</span>,“长城”
 125,シトリ,<span class='scene-font-gray'>それは他空域へ攻め込み、</span><br><span class='scene-font-gray'>統治する</span><span class='scene-font-spword'>星の民</span><span class='scene-font-gray'>をも屠るための兵器。</span>,这是为了屠杀<br>统治其他空域的星之民，<br>而制造的兵器。
 126,シトリ,<span class='scene-font-gray'>育ての親の、</span><br><span class='scene-font-gray'>その身を滅ぼす狂気に対し、</span><br><span class='scene-font-gray'>私はただ無事を祈るしかなかった。</span>,看着抚养自己的亲人逐渐陷入<br>狂气与毁灭，<br>我只能不断地为了祈求平安。
-132,シトリ,<span class='scene-font-gray'>そんな私に、</span><br><span class='scene-font-gray'>ひとつの転機が訪れる。</span>,正在那时，<br>我找到了某个专辑。
+132,シトリ,<span class='scene-font-gray'>そんな私に、</span><br><span class='scene-font-gray'>ひとつの転機が訪れる。</span>,正在那时，<br>事态有了转机。
 133,シトリ,<span class='scene-font-gray'>覇空戦争が始まろうかという最中、</span><br><span class='scene-font-gray'>私は空の民から打診を受ける。</span>,在霸空战争爆发的途中，<br>我受到了空之民的探询。
 134,シトリ,<span class='scene-font-gray'>彼女を封印するために、</span><br><span class='scene-font-gray'>力を貸してほしい、と──</span>,为了将她封印，<br>请借给我们力量——
 135,シトリ,<span class='scene-font-gray'>このままでは彼女は破滅する。</span><br><span class='scene-font-gray'>そう直感していた私は、</span><br><span class='scene-font-gray'>空の民に手を貸すことを決める。</span>,在这么下去她会走向毁灭的——<br>这么想着的我，<br>决定向空之民伸出援手。
-141,シトリ,<span class='scene-font-gray'>私は空の民と協力し、</span><br><span class='scene-font-gray'>彼女を……育ての親を、</span><br><span class='scene-font-gray'>グレートウォールに封印した。</span>,我和空之民齐心协力，<br>把她……也就是将我抚养长大的亲人，<br>和长城一起封印了起来。
+141,シトリ,<span class='scene-font-gray'>私は空の民と協力し、</span><br><span class='scene-font-gray'>彼女を……育ての親を、</span><br><span class='scene-font-gray'>グレートウォールに封印した。</span>,我和空之民齐心协力，<br>把她……把将我抚养长大的亲人，<br>和长城一起封印了起来。
 142,シトリ,<span class='scene-font-gray'>そして私は、せめてもの贖罪として、</span><br><span class='scene-font-gray'>彼女と共に封印されることを選んだ。</span>,为了赎罪，<br>我选择和她一起<br>被封印在长城之中。
-148,シトリ,<span class='scene-font-gray'>そんな、</span><br><span class='scene-font-gray'>私にとって唯一、</span><br><span class='scene-font-gray'>家族と……母と呼べる存在。</span>,这位对我来说……<br>唯一的、能够被称为母亲的存在……
+148,シトリ,<span class='scene-font-gray'>そんな、</span><br><span class='scene-font-gray'>私にとって唯一、</span><br><span class='scene-font-gray'>家族と……母と呼べる存在。</span>,这位对我来说独一无二的……<br>能够被称作家人、称作母亲的存在……
 149,シトリ,<span class='scene-font-gray'>その半生を</span><br><span class='scene-font-gray'>狂気に飲まれた</span><span class='scene-font-spword'>星の民</span><span class='scene-font-gray'>の名は──</span>,后半生坠入狂气的星之民，<br>名为——
 150,シトリ,<span class='scene-font-gray'>──</span><span class='scene-font-spword'>“ミカボシ”</span><span class='scene-font-gray'>といった。</span>,——“米卡波西”。
 info,,,scene_cp114_q2_s10
