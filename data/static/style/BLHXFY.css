@@ -579,29 +579,25 @@ body .prt-request-info .txt-request {
 
 #box-sub-blhxfy {
   position: absolute;
-  top: 324px;
-  left: 50%;
-  width: 232px;
-  align-items: center;
+  top: 272px;
+  left: 0;
+  width: 320px;
+  box-sizing: border-box;
   white-space: pre-line;
-  border-radius: 12px;
-  padding: 32px 30px 26px 30px;
-  display: inline-flex;
+  padding: 20px 40px 100px 40px;
   min-height: 24px;
-  background-color: rgba(228, 219, 198, 0.96);
-  z-index: 99999;
-  transform: translate(-50%, -50%);
+  background-color: rgba(0,0,0,0.6);
+  background: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,0.6) 18%,rgba(0,0,0,0.6) 38%,rgba(0,0,0,0) 100%);
+  z-index: 9999;
   backface-visibility: hidden;
-  line-height: 18px;
-  letter-spacing: 0.2px;
-  color: #1f170c;
+  line-height: 1.4;
+  color: #ffffff;
+  text-shadow: 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000, 0 0 1px #000;
   font-size: 12px;
   text-align: justify;
   transition: opacity 0.5s;
   opacity: 0;
   pointer-events: none;
-  background: url(../image/chat-box.png?lacia) no-repeat;
-  background-size: 100% 100%;
 }
 
 /* image */

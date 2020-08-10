@@ -33,7 +33,7 @@ const hideBox = () => {
 }
 
 const setSubBox = (text, duration) => {
-  const cont = document.querySelector('.cnt-mypage .prt-user-scene') || document.querySelector('.cnt-detail .prt-image')
+  const cont = document.querySelector('.cnt-mypage') || document.querySelector('.cnt-detail .prt-image')
   if (!cont) return
   let box = document.getElementById('box-sub-blhxfy')
   if (!box) {
@@ -67,6 +67,21 @@ const showSub = async (src) => {
   setSubBox(data.trans, data.duration)
 }
 
+const setFont = () => {
+  const css = `@font-face {
+    font-family: 'blhxwf';
+    font-style: normal;
+    font-weight: normal;
+    src: url('${config.origin}/blhxfy/data/static/webfont.woff2');
+  }
+  #box-sub-blhxfy {
+    font-family: blhxwf, sans-serif;
+  }`
+  const tag = document.createElement('style')
+  tag.innerHTML =css
+  document.head.appendChild(tag)
+}
+
 let soundInjected = false
 async function showVoiceSub(data, pathname, type) {
   if (!soundInjected) {
@@ -78,6 +93,7 @@ async function showVoiceSub(data, pathname, type) {
         playVoice.call(this, src, force)
       }
     })
+    setFont()
   }
   soundInjected = true
   if (type === 'list') {
