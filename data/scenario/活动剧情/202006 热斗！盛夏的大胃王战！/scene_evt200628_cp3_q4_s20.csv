@@ -1,57 +1,57 @@
 id,name,text,trans
 0-chapter_name,,第3話 伯仲！ 不屈の少女！,第3话 伯仲！ 不屈的少女！
 0-synopsis,,午前の部が終了後、本戦で敗退した男が、人けのない浜辺で食べずに隠し持っていたゼリーアイスを捨てていると、アイスの匂いに誘われた巨大樹クラゲが現れる。響く男の悲鳴に、休憩していた姬塔達が駆けつける。一行は食べ物を粗末にしたことが原因だと知って怒りを露わにするが、人命を優先して巨大樹クラゲを迎え撃つのだった。,上午场结束后，一名在正赛输了的男人，在无人的海边，将自己藏着没吃的果冻冰淇淋扔到了海里，巨大树水母被冰淇淋的气味吸引而来。听到了男人的悲鸣，还在休息着的姬塔他们赶忙跑了过来。一行人知道了事情发生的原因是男人浪费的食物后，十分生气，但救人要紧，一行人还是选择先迎击巨大树水母。
-1,,<span class='scene-font-katari'>メインビーチから少し離れた、</span><br><span class='scene-font-katari'>岩礁に囲まれた浜辺。</span>,在主沙滩的不远处，满布礁石的海边。
-2,,<span class='scene-font-katari'>その人けのない場所で、</span><br><span class='scene-font-katari'>本戦午前の部で敗退した男のひとりが</span><br><span class='scene-font-katari'>周囲を警戒しながらうろついていた。</span>,就在这没有人烟的地方，一名在正赛上午场输了的男人一边警戒着周围，一边在转悠着。
-3,本戦参加者の男,くそっ、あのガキども……！<br>余計な真似してくれやがって……！,可恶，那几个臭小孩……！真是做了些多余的事……！
-4,本戦参加者の男,俺が決勝に残れば、賭けた金<br>全取りだったってのに……！,本来我进到了决赛，就能把下注的线全都赢回来了……！
+1,,<span class='scene-font-katari'>メインビーチから少し離れた、</span><br><span class='scene-font-katari'>岩礁に囲まれた浜辺。</span>,<span class='scene-font-katari'>在离开主沙滩的一段距离的地方，</span><br><span class='scene-font-katari'>满布礁石的海边。</span>
+2,,<span class='scene-font-katari'>その人けのない場所で、</span><br><span class='scene-font-katari'>本戦午前の部で敗退した男のひとりが</span><br><span class='scene-font-katari'>周囲を警戒しながらうろついていた。</span>,<span class='scene-font-katari'>就在这没有人烟的地方，</span><br><span class='scene-font-katari'>一名在正赛上午场输了的男人一边警戒着周围，</span><br><span class='scene-font-katari'>一边在转悠着。</span>
+3,本戦参加者の男,くそっ、あのガキども……！<br>余計な真似してくれやがって……！,可恶，那几个臭小鬼……！<br>真是做了多余的事……！
+4,本戦参加者の男,俺が決勝に残れば、賭けた金<br>全取りだったってのに……！,本来我进到了决赛，<br>就能把下注的钱全都赢回来了……！
 5,本戦参加者の男,ツイてねぇぜ、ちくしょう……！,真是太倒霉了，可恶啊……！
-6,,<span class='scene-font-katari'>仲間内で賭博をしていた男は、</span><br><span class='scene-font-katari'>悪態をつきながら</span><br><span class='scene-font-katari'>服に隠していたものを海に捨てる。</span>,与同伴下了赌注的男人一边骂着狠话，一边把藏在衣服里的东西掏了出来，扔到了海里。
-7,本戦参加者の男,やってらんねぇぜ！<br>こんな大会、さっさと終わっちまえ！,真是白参加了！这种比赛赶紧给我玩完吧！
+6,,<span class='scene-font-katari'>仲間内で賭博をしていた男は、</span><br><span class='scene-font-katari'>悪態をつきながら</span><br><span class='scene-font-katari'>服に隠していたものを海に捨てる。</span>,<span class='scene-font-katari'>与同伴下了赌注的男人一边骂着狠话，</span><br><span class='scene-font-katari'>一边把藏在衣服里的东西掏了出来，</span><br><span class='scene-font-katari'>扔到了海里。</span>
+7,本戦参加者の男,やってらんねぇぜ！<br>こんな大会、さっさと終わっちまえ！,真是白参加了！<br>这种比赛赶紧给我玩完吧！
 12,？？？,────……,……
 13,本戦参加者の男,あん……？,诶……？
 15,？？？,────！,────！
-16,本戦参加者の男,<span class='scene-font-4'>な、なななんだコイツ……！？</span>,这、这这这这是什么啊……！？
-22,,<span class='scene-font-katari'>その頃姬塔達は、飲み物片手に</span><br><span class='scene-font-katari'>大会の来場者用に設けられた休憩所で</span><br><span class='scene-font-katari'>ひと息ついていた。</span>,在那时，姬塔他们正拿着饮料，在大赛观众专用的休息站午休。
-23,ビィ/碧,ふぃ～！<br>生き返るぜ～！,啊～！活过来了～！
+16,本戦参加者の男,<span class='scene-font-4'>な、なななんだコイツ……！？</span>,<span class='scene-font-4'这、这这这这是什么啊……！？</span>
+22,,<span class='scene-font-katari'>その頃姬塔達は、飲み物片手に</span><br><span class='scene-font-katari'>大会の来場者用に設けられた休憩所で</span><br><span class='scene-font-katari'>ひと息ついていた。</span>,<span class='scene-font-katari'>此时，姬塔他们正拿着饮料，</span><br><span class='scene-font-katari'>在大赛观众专用的休息站小憩。</span>
+23,ビィ/碧,ふぃ～！<br>生き返るぜ～！,啊～！<br>活过来了～！
 24,ルリア/露莉亚,極楽です～,像在天堂一样～
 25,レッドラック,もぐもぐ、んぐ……,嚼嚼、嚼……
-26,,<span class='scene-font-katari'>同じく休憩所では、</span><br><span class='scene-font-katari'>レッドラックが黙々と</span><br><span class='scene-font-katari'>野菜を食べている。</span>,同样在休息站的，还有雷德拉克，他正默默地在一旁吃着蔬菜。
-27,ビィ/碧,おっさんもこの暑さで結構汗かいたろ？<br>ちょっとならオイラのやるぜ？,现在这么热，大叔你也出了很多汗吧？要不要来喝点饮料啊？
-28,レッドラック,気遣いはありがてぇが、<br>極力胃に負担をかけたくねぇんでな。<br>悪ぃが遠慮しとくぜ。,谢谢你的关心啊，不过我现在是极力不想增加胃的负担啊。所以不好意思，我就算了。
-29,ビィ/碧,ふーん、なるほどな。<br>でも野菜はいいのかよ？,嗯，是这样啊。但是你吃蔬菜就没事吗？
-30,レッドラック,勝負はすでに始まってんのさ。,因为比试已经开始了啊。
-31,ビィ/碧,どういうこった？,什么意思啊？
-32,レッドラック,そいつは秘密だ。<br>それを聞かせちまったら、明日の敵に<br>塩を送っちまうことになるからな。,那就是秘密了。如果告诉你了，就相当于送敌于盐了啊。（日正赛国时代典故，指在困境中的即使是敌人，也向其伸出援手）
-33,,<span class='scene-font-katari'>そう言ってレッドラックは一瞬、</span><br><span class='scene-font-katari'>コルルとアーミラをちらりと見る。</span>,雷德拉克这么说着，往可露露和阿米拉那看了一眼。
+26,,<span class='scene-font-katari'>同じく休憩所では、</span><br><span class='scene-font-katari'>レッドラックが黙々と</span><br><span class='scene-font-katari'>野菜を食べている。</span>,<span class='scene-font-katari'>同样在休息站的，</span><br><span class='scene-font-katari'>还有雷德拉克，</span><br><span class='scene-font-katari'>他正默默地在一旁吃着蔬菜。</span>
+27,ビィ/碧,おっさんもこの暑さで結構汗かいたろ？<br>ちょっとならオイラのやるぜ？,现在这么热，<br>大叔你也出了很多汗吧？<br>要不要来喝点饮料啊？
+28,レッドラック,気遣いはありがてぇが、<br>極力胃に負担をかけたくねぇんでな。<br>悪ぃが遠慮しとくぜ。,谢谢你的关心，<br>不过我现在是极力不想增加胃的负担啊。<br>所以不好意思这次算了。
+29,ビィ/碧,ふーん、なるほどな。<br>でも野菜はいいのかよ？,嗯，是这样啊。<br>但是你吃蔬菜就没事吗？
+30,レッドラック,勝負はすでに始まってんのさ。,因为比试已经开始了。
+31,ビィ/碧,どういうこった？,什么意思？
+32,レッドラック,そいつは秘密だ。<br>それを聞かせちまったら、明日の敵に<br>塩を送っちまうことになるからな。,那就是秘密了。<br>如果告诉你了，就相当于送敌于盐了啊。<br><span class='scene-font-2'>（日本典故，指帮助困境中的敌人）</span>
+33,,<span class='scene-font-katari'>そう言ってレッドラックは一瞬、</span><br><span class='scene-font-katari'>コルルとアーミラをちらりと見る。</span>,<span class='scene-font-katari'>雷德拉克这么说着，</span><br><span class='scene-font-katari'>往可露露和阿米拉那看了一眼。</span>
 34,コルル・アーミラ/コルル・阿米拉,……？,……？
-35,レッドラック,ま、興味があるなら教えてやるよ。<br>この大会が終わったら──,哼，如果有兴趣的话我就教你们啊。不过是在大赛结束之后啊──
-36,本戦参加者の男の声,<span class='scene-font-4'>ひえええぇぇーーーーーっ！？</span>,噫啊啊啊啊啊ーーーーー！？
-37,コルル,<span class='scene-font-4'>っ！？</span><br>な、何事でごんす！？,！？发、发生什么了！？
-38,アーミラ/阿米拉,<span class='scene-font-4'>あっち！　岩場！</span>,在那边！岩滩！
-39,レッドラック,<span class='scene-font-4'>急ぐぞ！</span>,赶紧过去了！
-40,,<span class='scene-font-katari'>一行は休憩所を飛び出し、</span><br><span class='scene-font-katari'>悲鳴の聞こえた場所へと急ぐ。</span>,一行人赶紧跑出了休息站，冲往悲鸣发出的地方。
+35,レッドラック,ま、興味があるなら教えてやるよ。<br>この大会が終わったら──,如果你们有兴趣的话我也可以教你们。<br>不过是在大赛结束之后──
+36,本戦参加者の男の声,<span class='scene-font-4'>ひえええぇぇーーーーーっ！？</span>,<span class='scene-font-4'>噫啊啊啊啊啊ーーーーー！？</span>
+37,コルル,<span class='scene-font-4'>っ！？</span><br>な、何事でごんす！？,<span class='scene-font-4'>！？</span><br>发、发生什么了！？
+38,アーミラ/阿米拉,<span class='scene-font-4'>あっち！　岩場！</span>,<span class='scene-font-4'>在那边！岩滩！</span>
+39,レッドラック,<span class='scene-font-4'>急ぐぞ！</span>,<span class='scene-font-4'>快走！</span>
+40,,<span class='scene-font-katari'>一行は休憩所を飛び出し、</span><br><span class='scene-font-katari'>悲鳴の聞こえた場所へと急ぐ。</span>,<span class='scene-font-katari'>一行人赶紧跑出了休息站，</span><br><span class='scene-font-katari'>冲往悲鸣发出的地方。</span>
 47,ルリア/露莉亚,いました！　あそこです！,找到了！ 在那边！
-48,,<span class='scene-font-katari'>一行が現場に駆けつけると、</span><br><span class='scene-font-katari'>巨大な生物が悲鳴を上げる男を</span><br><span class='scene-font-katari'>襲おうとしているところだった。</span>,一行人到达了现场后，看到一个巨大的生物正打算扑往发出悲鸣的男人。
-49,本戦参加者の男,<span class='scene-font-4'>た、助けてくれぇーーーっ！！</span>,救、救救我ーーー！！
-50,？？？,<span class='scene-font-4'>────！！</span>,────！！
-51,ビィ/碧,な、なんだ、あのデッケェのは！？,那、那个怪物是什么啊！？
-52,レッドラック,あの見た目と形状からして、<br>おそらく樹クラゲだろうな。,从它的外表来看，应该是树水母吧。
-53,ビィ/碧,あいつが？<br>でもよろず屋は、地元のやつらでも<br>倒せるくらいの生物だって言ってたぜ？,树水母？但是万事屋那人说那生物就算是这里的本地人都能随便干掉的啊？
-54,ビィ/碧,ありゃどう見ても、<br>並の魔物よりよっぽど危険だぞ！,但这东西不管怎么看都跟平时的那种魔物一样危险了吧！
-55,レッドラック,奴らの親玉だな、あいつは。<br>仲間を人間様に大量に捕獲されちまって<br>怒り心頭ってところか。,估计是那些家伙的老大吧。因为大量的同伴都被人类抓去吃了，正怒火中烧啊！
-56,レッドラック,にしちゃあ、やけに興奮してるな……<br>あれは怒ってるってより、<br>何かにつられてるような……,但是看它的兴奋情况也很异常啊……比起说是在愤怒，感觉像是被什么刺激了一样……
-57,コルル,……っ！<br>皆、あの男の足元を見るでごんす……！,……！各位，快看那个男人的脚边……！
-58,,<span class='scene-font-katari'>一行は一斉に男の足元を見ると、</span><br><span class='scene-font-katari'>そこには鮮やかに光る青いものが</span><br><span class='scene-font-katari'>散らばっていた。</span>,一行人一起看向了男人的脚边，在那里不知散落着什么东西，闪耀着蓝光。
-59,ルリア/露莉亚,あれって……<br>もしかして、本戦で用意された<br>デザートじゃないですか！,那个……难道说，是正赛上准备的甜品吗！
-60,レッドラック,そういうことか……<br>あの野郎、本番で<br>インチキしやがったな。,是这样啊……那家伙，是在正赛的时候作弊了啊。
-61,レッドラック,本番中に料理を服にでも隠して、<br>こっそり捨てに来たってところか。,在正赛的时候将料理藏到了衣服里，然后带到这里来扔掉了吗。
-62,コルル,なんと……！<br>せっかくのデザートを<br>無駄にするとは……！,什么……！竟然浪费了好不容易准备好的甜品……！
-63,レッドラック,何より許しがたい蛮行だぜ！<br>あんな野郎、助ける義理なんざ<br>全く感じねぇが……,这真是无法饶恕的恶行啊！完全没有情理救这种家伙啊……
-64,レッドラック,人死にが出て、大会が<br>中止になっても困るからな。,不过出了人命，大赛终止的话也很困扰啊。
-65,レッドラック,<span class='scene-font-4'>おい、てめぇ！</span><br><span class='scene-font-4'>そこ動くんじゃねぇぞ！</span>,喂，你这混蛋！给我待在那别动啊！
-66,コルル,<span class='scene-font-4'>助太刀致す！</span>,我来帮你！
+48,,<span class='scene-font-katari'>一行が現場に駆けつけると、</span><br><span class='scene-font-katari'>巨大な生物が悲鳴を上げる男を</span><br><span class='scene-font-katari'>襲おうとしているところだった。</span>,<span class='scene-font-katari'>一行人到达了现场后，</span><br><span class='scene-font-katari'>看到一个巨大的生物</span><br><span class='scene-font-katari'>正打算袭击发出悲鸣的男人。</span>
+49,本戦参加者の男,<span class='scene-font-4'>た、助けてくれぇーーーっ！！</span>,<span class='scene-font-4'>救、救救我ーーー！！</span>
+50,？？？,<span class='scene-font-4'>────！！</span>,<span class='scene-font-4'>────！！</span>
+51,ビィ/碧,な、なんだ、あのデッケェのは！？,那、那个庞然大物是什么啊！？
+52,レッドラック,あの見た目と形状からして、<br>おそらく樹クラゲだろうな。,从它的外表来看，<br>应该是树水母吧。
+53,ビィ/碧,あいつが？<br>でもよろず屋は、地元のやつらでも<br>倒せるくらいの生物だって言ってたぜ？,树水母？<br>但是万事屋说那生物<br>就算是这里的本地人都能随便干掉的啊？
+54,ビィ/碧,ありゃどう見ても、<br>並の魔物よりよっぽど危険だぞ！,这东西不管怎么看都比普通的魔物更危险啊！
+55,レッドラック,奴らの親玉だな、あいつは。<br>仲間を人間様に大量に捕獲されちまって<br>怒り心頭ってところか。,估计是那些家伙的老大。<br>大概因为大量的同伴都被人类抓去吃了，<br>正怒火中烧吧。
+56,レッドラック,にしちゃあ、やけに興奮してるな……<br>あれは怒ってるってより、<br>何かにつられてるような……,但是看它的兴奋情况也很异常啊……<br>比起说是在愤怒，<br>感觉像是被什么刺激了一样……
+57,コルル,……っ！<br>皆、あの男の足元を見るでごんす……！,……！<br>各位，快看那个男人的脚边……！
+58,,<span class='scene-font-katari'>一行は一斉に男の足元を見ると、</span><br><span class='scene-font-katari'>そこには鮮やかに光る青いものが</span><br><span class='scene-font-katari'>散らばっていた。</span>,<span class='scene-font-katari'>一行人一起看向了男人的脚边，</span><br><span class='scene-font-katari'>在那里不知散落着什么东西，</span><br><span class='scene-font-katari'>闪耀着蓝光。</span>
+59,ルリア/露莉亚,あれって……<br>もしかして、本戦で用意された<br>デザートじゃないですか！,那个……<br>莫非是，正赛上准备的甜品！
+60,レッドラック,そういうことか……<br>あの野郎、本番で<br>インチキしやがったな。,是这样啊……<br>那家伙，在正赛的时候作弊了。
+61,レッドラック,本番中に料理を服にでも隠して、<br>こっそり捨てに来たってところか。,应该是在正赛的时候将料理藏到了衣服里，<br>然后带到这里来扔掉吧。
+62,コルル,なんと……！<br>せっかくのデザートを<br>無駄にするとは……！,什么……！<br>竟然浪费了好不容易准备好的甜品……！
+63,レッドラック,何より許しがたい蛮行だぜ！<br>あんな野郎、助ける義理なんざ<br>全く感じねぇが……,真是无法饶恕的恶行！<br>完全没有情理救这种家伙，<br>不过……
+64,レッドラック,人死にが出て、大会が<br>中止になっても困るからな。,要是出了人命，<br>让大赛终止的话我也会很困扰啊。
+65,レッドラック,<span class='scene-font-4'>おい、てめぇ！</span><br><span class='scene-font-4'>そこ動くんじゃねぇぞ！</span>,<span class='scene-font-4'喂，你这混蛋！</span><br><span class='scene-font-4'待在那别动！</span>
+66,コルル,<span class='scene-font-4'>助太刀致す！</span>,<span class='scene-font-4'我来帮你！</span>
 67,ビィ/碧,オイラ達も続こうぜ、姬塔！,我们也过去吧，姬塔！
-68,巨大樹クラゲ,<span class='scene-font-4'>────！！</span>,────！！
+68,巨大樹クラゲ,<span class='scene-font-4'>────！！</span>,<span class='scene-font-4'────！！</span>
 info,,,scene_evt200628_cp3_q4_s20
 译者,,,Van

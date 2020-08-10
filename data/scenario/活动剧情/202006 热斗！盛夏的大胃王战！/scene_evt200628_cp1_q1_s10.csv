@@ -1,6 +1,6 @@
 id,name,text,trans
 0-chapter_name,,第1話 集結！ 宿敵現る！,第1話 集结！宿敌出现！
-0-synopsis,,大食い大会の予選当日。姬塔一行は会場である<span class='scene-font-place'>アウギュステ</span>に降り立ち、大会参加者であるレッドラック、ルリア、コルル、アーミラ、レオナを連れて、大会前の余暇を自由に過ごしていた。やがてシェロカルテが挨拶がてら、ルール説明を行うため呼びかけにやって来る。一行はシェロカルテに案内されて会場に向かうのだった。,大胃王大会预选的当天。姬塔一行人来到了比赛会场所在的<span class='scene-font-place'>奥古斯提，</span>参加大赛的雷德拉克、露莉亚、可露露、阿米拉、蕾欧娜一起自在的度过了大赛前的时光。不久，谢洛卡特为了进行规则说明而来向大家打了招呼。一行人在榭洛科特的向导下朝会场出发。
+0-synopsis,,大食い大会の予選当日。姬塔一行は会場である<span class='scene-font-place'>アウギュステ</span>に降り立ち、大会参加者であるレッドラック、ルリア、コルル、アーミラ、レオナを連れて、大会前の余暇を自由に過ごしていた。やがてシェロカルテが挨拶がてら、ルール説明を行うため呼びかけにやって来る。一行はシェロカルテに案内されて会場に向かうのだった。,大胃王大赛预选的当天。姬塔一行人来到了比赛会场所在的<span class='scene-font-place'>奥古斯提，</span>参加大赛的雷德拉克、露莉亚、可露露、阿米拉、蕾欧娜一起自在的度过了大赛前的时光。不久，谢洛卡特为了进行规则说明而来向大家打了招呼。一行人在榭洛科特的向导下朝会场出发。
 9,,<span class='scene-font-katari'>シェロカルテの訪問から数日後。</span>,<span class='scene-font-katari'>在榭洛科特拜访的数天后。</span>
 10,,<span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>大食い大会に参加するため、会場である</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>のビーチを訪れていた。</span>,<span class='scene-font-katari'>姬塔一行人为了参加比赛，</span><br><span class='scene-font-katari'>来到了会场所在的</span><span class='scene-font-place'>奥古斯提</span><span class='scene-font-katari'>的海滩。</span>
 11,,<span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>は観光地として名高く、</span><br><span class='scene-font-katari'>一行は大会前の空き時間、各々</span><br><span class='scene-font-katari'>羽を伸ばしていた。</span>,<span class='scene-font-place'>奥古斯提</span><span class='scene-font-katari'>作为观光胜地名气很大，</span><br><span class='scene-font-katari'>一行人在大会开始前空闲的时间里四处游玩。</span>
@@ -54,9 +54,9 @@ id,name,text,trans
 111,レッドラック,はははっ、それでいいんじゃねぇか？<br>勝負事でも楽しむって気持ちは<br>大事だぞ？,哈哈哈，那样也不错不是吗？<br>就算是比赛，<br>享受的心也很重要哦？
 112,レッドラック,それに、優勝は<br>俺がもらってくからな！,而且，冠军，<br>是要被我拿下的啊！
 113,ビィ/碧,おお、おっさん！<br>やっぱおっさんも参加すんだな！,哦哦，大叔！<br>果然大叔你也参加了！
-114,レッドラック,あったりめぇだろ！<br>大食い大会って聞いて<br>黙ってられるかってんだ！,那是当然的吧！<br>听说要开大胃王大会，<br>怎么可能无动于衷！
+114,レッドラック,あったりめぇだろ！<br>大食い大会って聞いて<br>黙ってられるかってんだ！,那是当然的吧！<br>听说要开大胃王大赛，<br>怎么可能无动于衷！
 117,,<span class='scene-font-katari'>レッドラック──</span><br><span class='scene-font-katari'>フードファイターとして名を馳せる、</span><br><span class='scene-font-katari'>ゼエン教の僧侶。</span>,<span class='scene-font-katari'>雷德拉克──</span><br><span class='scene-font-katari'>因为大胃王而知名的</span><br><span class='scene-font-katari'>泽恩教的僧侣。</span>
-118,,<span class='scene-font-katari'>僧侶ながら、大食い大会と聞いては</span><br><span class='scene-font-katari'>各地を飛び回り賞金を荒稼ぎしている</span><br><span class='scene-font-katari'>豪快な人物である。</span>,<span class='scene-font-katari'>尽管是僧侣，但每当听到有大胃王大会，</span><br><span class='scene-font-katari'>就会在各地来回奔波赚赏金，</span><br><span class='scene-font-katari'>是一位豪爽人。</span>
+118,,<span class='scene-font-katari'>僧侶ながら、大食い大会と聞いては</span><br><span class='scene-font-katari'>各地を飛び回り賞金を荒稼ぎしている</span><br><span class='scene-font-katari'>豪快な人物である。</span>,<span class='scene-font-katari'>尽管是僧侣，但每当听到有大胃王大赛，</span><br><span class='scene-font-katari'>就会在各地来回奔波赚赏金，</span><br><span class='scene-font-katari'>是一位豪爽人。</span>
 124,レッドラック,まさか、あの伝説の大会が復活たぁ<br>思ってもみなかったなぁ。,没想到，那个传说中的大会竟然会复活啊。
 125,レッドラック,フードファイターにとっちゃ<br>夢にまで見た舞台……<br>腕が鳴るってもんだ！！,对大胃王斗士来说，<br>这就是梦想中的的舞台啊……<br>我真是已经摩拳擦掌了啊！！
 126,観光客の男性,なあ、おい！<br>あれってレッドラックじゃないか！,喂，喂！<br>那不是雷德拉克吗！

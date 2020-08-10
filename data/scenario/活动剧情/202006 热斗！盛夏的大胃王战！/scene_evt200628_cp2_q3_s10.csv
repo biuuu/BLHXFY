@@ -1,33 +1,33 @@
 id,name,text,trans
 0-chapter_name,,第2話 開幕！ 火花散る闘志！,第2话 开幕！ 激烈的斗志！
 0-synopsis,,大食い大会の予選から少し時間が過ぎた頃、マッシュが無人の浜辺で血眼になって落とし物を探していると、通りかかったルシオがマッシュに小瓶を渡す。マッシュはルシオに感謝しつつも、小瓶のことは誰にも打ち明けるなとルシオを脅し、最後は上機嫌に去っていく。ルシオは去っていくマッシュの背中を見送りながら、思案顔を浮かべるのだった。,大胃王比赛的预选结束没多久，马修来到了一个无人的海边，满眼血丝，不知道在找着什么东西，这时路西欧路过，给了马修一个小瓶子。马修向路西欧表示感谢，并威胁他不许把瓶子的事情告诉别人，最后高高兴兴地离开了。目送着离去的马修的背影，路西欧露出了一副若有所思的表情。
-2,マッシュ,クソッ、どこいったんじゃ……！,可恶，去哪了啊……！
-3,,<span class='scene-font-katari'>大食い大会の予選が終わり、</span><br><span class='scene-font-katari'>少し時間が過ぎた頃……</span>,就在大胃王大赛的预选刚结束没多久的时候……
-4,,<span class='scene-font-katari'>参加者や観客がすでに</span><br><span class='scene-font-katari'>会場を後にした無人の浜辺で、</span><br><span class='scene-font-katari'>マッシュは落とし物を探していた。</span>,在观众们都已散去的会场的海边，马修在找着丢失的东西。
-5,マッシュ,アレがのうなったら、ワシは……<br>ワシの夢はどうなるんじゃ……！,如果没有了那东西，我……我的梦想要怎么办啊……！
-6,マッシュ,優勝を逃したら、ワシを育ててくれた<br>あん人らに顔向けできん……！,要是没获得优胜，我还怎么有脸面对养大我的那个人啊……！
-7,マッシュ,絶対に見つけちゃる……<br>さっさと出てこんかい！,我一定要找到它……快点给我出来啊！
-8,,<span class='scene-font-katari'>マッシュは砂浜に両膝をつき、</span><br><span class='scene-font-katari'>苛立ち交じりに指先で砂をかき分ける。</span>,马修跪到了地上，一脸焦躁，不断刨着沙子。
-9,,<span class='scene-font-katari'>血眼になってしばらく探していると、</span><br><span class='scene-font-katari'>近付いてくる砂を踏む音に気付き、</span><br><span class='scene-font-katari'>マッシュは慌てて顔を上げる。</span>,马修满眼血丝找了一会后，突然注意到旁边传来了脚步踩到沙上的声音，慌慌张张抬起了头。
+2,マッシュ,クソッ、どこいったんじゃ……！,可恶，丢哪了……！
+3,,<span class='scene-font-katari'>大食い大会の予選が終わり、</span><br><span class='scene-font-katari'>少し時間が過ぎた頃……</span>,<span class='scene-font-katari'>就在大胃王大赛的预选刚结束没多久的时候……</span>
+4,,<span class='scene-font-katari'>参加者や観客がすでに</span><br><span class='scene-font-katari'>会場を後にした無人の浜辺で、</span><br><span class='scene-font-katari'>マッシュは落とし物を探していた。</span>,<span class='scene-font-katari'>在参赛者和观众们都已散去的会场的海边，</span><br><span class='scene-font-katari'>马修寻找着丢失的东西。</span>
+5,マッシュ,アレがのうなったら、ワシは……<br>ワシの夢はどうなるんじゃ……！,如果没有了那东西，我……<br>我的梦想要怎么办啊……！
+6,マッシュ,優勝を逃したら、ワシを育ててくれた<br>あん人らに顔向けできん……！,要是没获得优胜，<br>我还怎么有脸面对养大我的那些人啊……！
+7,マッシュ,絶対に見つけちゃる……<br>さっさと出てこんかい！,我一定要找到它……<br>快点给我出来啊！
+8,,<span class='scene-font-katari'>マッシュは砂浜に両膝をつき、</span><br><span class='scene-font-katari'>苛立ち交じりに指先で砂をかき分ける。</span>,<span class='scene-font-katari'>马修跪在沙滩上，</span><br><span class='scene-font-katari'>焦躁地刨着沙子。</span>
+9,,<span class='scene-font-katari'>血眼になってしばらく探していると、</span><br><span class='scene-font-katari'>近付いてくる砂を踏む音に気付き、</span><br><span class='scene-font-katari'>マッシュは慌てて顔を上げる。</span>,<span class='scene-font-katari'>马修拼命地找了一会后，</span><br><span class='scene-font-katari'>突然注意到旁边传来了踩着沙子的脚步声，</span><br><span class='scene-font-katari'>慌慌张张抬起了头。</span>
 10,ルシオ/路西欧,お探しのものはこれでしょうか？,请问你要找的是这个东西吗？
 12,マッシュ,おおっ！　それじゃそれじゃ！！,哦哦！就是这个就是这个！！
-13,,<span class='scene-font-katari'>ルシオが差し出した小瓶を、</span><br><span class='scene-font-katari'>マッシュは奪い取るような勢いで</span><br><span class='scene-font-katari'>素早く掴み取る。</span>,马修一把将路西欧递过的小瓶子夺了过来。
-14,マッシュ,いやぁ、たいがたいのう！<br>ワシとしたことが、<br>うっかりしとったわい！,哎呀，真是多谢了！我真是太不小心了，弄丢了这东西！
-15,ルシオ/路西欧,よかった。誰かの想いが<br>宿っていたように思えて、<br>預かっていたのです。,真是太好了。我感受到这东西里寄托了不知是谁的思念，所以才收了起来。
-16,マッシュ,がははっ！<br>兄ちゃん、気が回るのう！<br>勲章モンじゃ！,啊哈哈！小哥，你想的还真周到啊！要给你颁个奖章啊！
-17,ルシオ/路西欧,お役に立てて何よりです。,能帮上你的忙我就很高兴了。
+13,,<span class='scene-font-katari'>ルシオが差し出した小瓶を、</span><br><span class='scene-font-katari'>マッシュは奪い取るような勢いで</span><br><span class='scene-font-katari'>素早く掴み取る。</span>,<span class='scene-font-katari'>马修一把将路西欧递过的小瓶子夺了过来。</span>
+14,マッシュ,いやぁ、たいがたいのう！<br>ワシとしたことが、<br>うっかりしとったわい！,哎呀，真是多谢了！<br>我真是太不小心了，<br>弄丢了这东西！
+15,ルシオ/路西欧,よかった。誰かの想いが<br>宿っていたように思えて、<br>預かっていたのです。,真是太好了。<br>我感受到这东西里寄托了不知是谁的思念，<br>所以才收了起来。
+16,マッシュ,がははっ！<br>兄ちゃん、気が回るのう！<br>勲章モンじゃ！,啊哈哈！<br>小哥，你想的还真周到啊！<br>要给你颁个奖章啊！
+17,ルシオ/路西欧,お役に立てて何よりです。,能帮上你的忙我很高兴。
 18,マッシュ,…………,…………
-19,,<span class='scene-font-katari'>最初は明るく笑っていた</span><br><span class='scene-font-katari'>マッシュだったが、次第にその表情が</span><br><span class='scene-font-katari'>険しいものに変わっていく。</span>,前一刻，马修还是满脸爽朗的笑容，下一刻，表情就变得阴险了起来。
-20,マッシュ,のう、兄ちゃん。<br>恩人にこがぁなこと<br>言いとうないんじゃがのう……,喂，小哥。虽然是不该向恩人说这种话啊。
-21,マッシュ,このこと、誰にも<br>チンコロしよったらアカンど？<br>ええか？,瓶子的事，别给我跟其他人搞小报告哦？可以吧？
-22,ルシオ/路西欧,チンコロするな、とは……<br>ああ、<span class='scene-font-spword'>「誰にも話すな」</span><br>ということですね。,不要打小报告，啊啊，是「不准跟任何人说」的意思吧。
-23,ルシオ/路西欧,わかりました。<br>私も無用なトラブルは好みませんので。,我知道了。我也不喜欢惹无谓的麻烦。
+19,,<span class='scene-font-katari'>最初は明るく笑っていた</span><br><span class='scene-font-katari'>マッシュだったが、次第にその表情が</span><br><span class='scene-font-katari'>険しいものに変わっていく。</span>,<span class='scene-font-katari'>前一刻马修还是满脸爽朗的笑容，</span><br><span class='scene-font-katari'>下一刻表情就变得阴险了起来。</span>
+20,マッシュ,のう、兄ちゃん。<br>恩人にこがぁなこと<br>言いとうないんじゃがのう……,喂，小哥。<br>虽然这话不该向恩人说……
+21,マッシュ,このこと、誰にも<br>チンコロしよったらアカンど？<br>ええか？,瓶子的事，<br>别跟其他人打小报告哦？<br>可以吧？
+22,ルシオ/路西欧,チンコロするな、とは……<br>ああ、<span class='scene-font-spword'>「誰にも話すな」</span><br>ということですね。,不要打小报告是……<br>啊啊，是<span class='scene-font-spword'>“不准跟任何人说”</span>的意思吧。
+23,ルシオ/路西欧,わかりました。<br>私も無用なトラブルは好みませんので。,我知道了。<br>我也不喜欢惹无谓的麻烦。
 24,マッシュ,おう！　物分かりええのう！,哦！ 还真是通情达理啊！
-25,,<span class='scene-font-katari'>ドスの利いた声から一転、</span><br><span class='scene-font-katari'>マッシュは上機嫌に笑い声を上げて</span><br><span class='scene-font-katari'>ルシオの肩を軽く叩く。</span>,一转阴沉的声音，马修又发出了爽朗的笑声，轻轻拍了拍路西欧的肩膀。
-26,マッシュ,ほんじゃあ、ワシは帰るわい！<br>これも何かの縁じゃ、<br>明日のワシの応援よろしゅうの！,那么，我就先回去了！这也是某种缘分，希望你明天能帮我应援啊！
+25,,<span class='scene-font-katari'>ドスの利いた声から一転、</span><br><span class='scene-font-katari'>マッシュは上機嫌に笑い声を上げて</span><br><span class='scene-font-katari'>ルシオの肩を軽く叩く。</span>,<span class='scene-font-katari'>一转阴沉的声音，</span><br><span class='scene-font-katari'>马修又发出了爽朗的笑声，</span><br><span class='scene-font-katari'>轻轻拍了拍路西欧的肩膀。</span>
+26,マッシュ,ほんじゃあ、ワシは帰るわい！<br>これも何かの縁じゃ、<br>明日のワシの応援よろしゅうの！,那么，我就先回去了！<br>这也算是缘分，<br>希望你明天能帮我应援啊！
 28,ルシオ/路西欧,ええ、それではまた……,好，那么明天见……
-29,,<span class='scene-font-katari'>マッシュは背中を向けたまま手を振り、</span><br><span class='scene-font-katari'>弾んだ足取りで去っていく。</span>,马修就这么背过了身去，挥了挥手，踏着欢快的脚步离开了。
+29,,<span class='scene-font-katari'>マッシュは背中を向けたまま手を振り、</span><br><span class='scene-font-katari'>弾んだ足取りで去っていく。</span>,<span class='scene-font-katari'>马修就这么背过了身去，挥了挥手，</span><br><span class='scene-font-katari'>踏着欢快的脚步离开了。</span>
 30,ルシオ/路西欧,…………,…………
-31,,<span class='scene-font-katari'>ルシオは、遠ざかる</span><br><span class='scene-font-katari'>マッシュの背中を見送りながら</span><br><span class='scene-font-katari'>思案顔を浮かべるのだった。</span>,路西欧目送着渐渐远去的马修的背影，浮现出了一副若有所思的表情。
+31,,<span class='scene-font-katari'>ルシオは、遠ざかる</span><br><span class='scene-font-katari'>マッシュの背中を見送りながら</span><br><span class='scene-font-katari'>思案顔を浮かべるのだった。</span>,<span class='scene-font-katari'>路西欧目送着渐渐远去的马修的背影，</span><br><span class='scene-font-katari'>露出了若有所思的表情。</span>
 info,,,scene_evt200628_cp2_q3_s10
 译者,,,Van
