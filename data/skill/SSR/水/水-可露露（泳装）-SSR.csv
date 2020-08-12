@@ -1,0 +1,9 @@
+id,name,detail
+npc,可露露,3040283000
+special,破鸣一击,<div class=prt-text-small>水属性伤害(特大)/<br><span class=text-blue>◆对处于黑暗状态的敌人奥义性能UP</span></div>
+skill-1,晒斑,<div class=prt-text-small>牺牲自身HP对我方全体水属性角色付与特殊强化(攻击UP/防御大幅UP/连击率UP)/1层玉水的刻印</div>
+skill-2,切斯特！,<div class=prt-text-small>对敌方单体造成6次水属性攻击/黑暗/防御DOWN<br><span class=text-blue>◆玉水的刻印3层以上时，此技能变更为「切斯特奥古斯提！」</span></div>
+skill-ちぇすとアウギュステ！,切斯特奥古斯提！,对敌方单体造成12次水属性攻击/黑暗/防御DOWN/我方全体获得逆境
+skill-3,亮闪闪闪亮！,<div class=prt-text-small>自身获得高扬/攻击无效(2回)<br><span class=text-blue>◆自身处于濒死状态时追加逆境</span></div>
+support-1,海边的钢铁少女,自身处于濒死状态时，必TA/水属性追击/受到致死攻击时消耗3层玉水的刻印承受
+support-2,海的醍醐味,我方水属性角色根据玉水的刻印的层数对应获得伤害上限上升<br><span class=text-blue>◆自身处于后排时也生效</span>

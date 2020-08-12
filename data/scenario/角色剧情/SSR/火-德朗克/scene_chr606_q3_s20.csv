@@ -1,0 +1,68 @@
+id,name,text,trans
+0-chapter_name,,異邦から来た二人組,来自异域的二人组
+0-synopsis,,強盗団の縄張りに乗り込んだ姬塔達。情報より遥かに多い敵を相手取る中、ドランクはどこか調子が悪く、思うように戦えない。そこに突如、他の傭兵組合経由で来たというスツルムが現れる。スツルムと連携したドランクはいつもの調子を取り戻し、ふたりはあっと言う間に強盗団をなぎ倒す。他の傭兵達は敬意と恐れの念と共にスツルムとドランクの名を記憶に刻むのだった。,姬塔等人来到强盗团的领地。正当对付数量远在情报之上的敌人之时，德朗克不知哪里出了问题，无法随心所以战斗。此时突然，经由其他佣兵工会赶来的斯特姆出现。和斯特姆合作攻击的德朗克恢复了往常的状态，两人瞬间打倒了强盗团。其他的佣兵们感到敬佩与恐惧的同时把斯特姆与德朗克的名字刻在了心里。
+2,,<span class='scene-font-katari'>他の多くの傭兵達と討伐隊を組み、</span><br><span class='scene-font-katari'>姬塔達は</span><br><span class='scene-font-katari'>強盗団の縄張りに乗り込んだ。</span>,,<span class='scene-font-katari'>和其他众多佣兵及讨伐队组合在一起，</span><br><span class='scene-font-katari'>姬塔等人</span><br><span class='scene-font-katari'>来到了强盗团的领地。</span>
+3,,<span class='scene-font-katari'>しかし、敵の数は</span><br><span class='scene-font-katari'>組合から聞いていたよりも</span><br><span class='scene-font-katari'>遥かに多く……</span>,<span class='scene-font-katari'>然而，敌人数量却比</span><br><span class='scene-font-katari'>在工会里了解到的</span><br><span class='scene-font-katari'>要多出几倍……</span>
+8,ラインハルザ/莱茵哈萨,<span class='scene-font-4'>ふんっ！</span>,<span class='scene-font-4'>哼！</span>
+13,ドランク/德朗克,<span class='scene-font-4'>よっと！</span>,<span class='scene-font-4'>嘿！</span>
+20,ドランク/德朗克,こうしてると、<br>スツルム殿と出会った時を思い出すな～<br>その国、クーデターの真っ最中でさ……,这种时候，<br>就会想起和斯特姆阁下相遇的时候啊~<br>那个国家，当时正在武装政变……
+21,ビィ/碧,んなこと言ってる場合かよ！<br>聞いてたよりも数が多くねぇか！？,现在是说这种话的时候吗！<br>不觉得人数比听说的还要多吗！？
+22,ドランク/德朗克,空域の情勢が落ち着いてないから<br>みんな不安なんだよ、きっと。<br>だから強盗も群れたりするし。,空域的形式不稳定<br>所以大家才会忐忑不安，一定是这样。<br>所以强盗也成群结队。
+23,ドランク/德朗克,でも、統制は取れてないみたいね。<br>てんでばらばらって感じ。<br>寄り集まっただけで、組織としては……,但是，似乎没有统率的人。<br>完全是零散的感觉。<br>他们只是聚集起来，作为组织而言……
+24,,<span class='scene-font-katari'>その時、姬塔達の近くで戦う</span><br><span class='scene-font-katari'>若い傭兵の背後に</span><br><span class='scene-font-katari'>強盗団のひとりが迫っていた。</span>,<span class='scene-font-katari'>此时，在姬塔附近战斗的</span><br><span class='scene-font-katari'>年轻佣兵背后，</span><br><span class='scene-font-katari'>强盗团的一人正在靠近。</span>
+25,ゴロツキ１/小混混１,<span class='scene-font-4'>うおおおおっ！</span>,<span class='scene-font-4'>唔哦哦哦哦！</span>
+26,若い傭兵,うわ、うわわっ！？,呜哇，呜哇哇！？
+27,ドランク/德朗克,はいはい……<br>見逃さないよ、そういうの。,行了行了……<br>这种，我不会放过的。
+32,ゴロツキ１/小混混１,ぐへっ……！？,咕啊……！？
+33,ドランク/德朗克,ほら、怪我は無い？　大丈夫？<br>目先の相手にばっかり<br>気を取られないようにしないとね。,好了，受伤了吗？　没事吧？<br>可不能只关注<br>眼前的对手哦。
+34,ドランク/德朗克,今はこっちが優勢だけど、<br>あちらさんも必死だよ。<br>何せもう後がないんだから。,目前虽然我们占优势，<br>但他们也是拼出性命。<br>毕竟已经没有后路了。
+35,ドランク/德朗克,ネズミだって追い詰められたら、<br>ネコちゃんに噛みつくわけ。<br>油断は禁物だよ～,老鼠走投无路的时候，<br>还会咬猫呢。<br>可不能掉以轻心。
+36,若い傭兵,な、なるほど……<br>どうも、助かりました……,原、原来如此……<br>谢谢你，救了我……
+37,ドランク/德朗克,いえいえ～気をつけてね～<br>聞いてた情報より数が多いけど、<br>制圧まであとちょっとじゃないかな。,没事没事~小心点哦~<br>虽然人数比听说的多，<br>但是距离镇压应该只差一点了。
+38,ドランク/德朗克,って……<br>あっれー……なんで？,这……<br>咦—……为什么？
+40,ゴロツキ１/小混混１,痛てててて……<br>魔法かよ……クソが……,疼死我了……<br>是魔法啊……可恶……
+41,,<span class='scene-font-katari'>痛みにうめきながらも</span><br><span class='scene-font-katari'>立ちあがったゴロツキを目にし、</span><br><span class='scene-font-katari'>ドランクは目を丸くする。</span>,<span class='scene-font-katari'>看见一边叫唤着疼痛</span><br><span class='scene-font-katari'>一边站起来的喽啰，</span><br><span class='scene-font-katari'>德朗克瞪大了眼睛。</span>
+42,ドランク/德朗克,おっかしいなぁ……<br>気絶させたと思ったんだけど……,好奇怪啊……<br>我应该让他失去意识了才对……
+43,,<span class='scene-font-katari'>戦闘中にもかかわらず、</span><br><span class='scene-font-katari'>ドランクは自分の手を見つめ、</span><br><span class='scene-font-katari'>首をかしげた。</span>,<span class='scene-font-katari'>德朗克不顾自己仍处于战斗之中，</span><br><span class='scene-font-katari'>盯着自己的手，</span><br><span class='scene-font-katari'>歪起脑袋。</span>
+44,ドランク/德朗克,<span class='scene-font-kokoro'>（あ、そっか……</span><br><span class='scene-font-kokoro'>そうだよねぇ……）</span>,<span class='scene-font-kokoro'>（啊，这样……</span><br><span class='scene-font-kokoro'>确实啊……）</span>
+45,ゴロツキ１/小混混１,<span class='scene-font-4'>よそ見してんじゃねぇ！</span>,<span class='scene-font-4'>就你还东张西望！</span>
+46,ドランク/德朗克,おっと……！,哎哟……！
+50,ゴロツキ１/小混混１,<span class='scene-font-4'>うおっ！？</span>,<span class='scene-font-4'>唔哦！？</span>
+55,,<span class='scene-font-katari'>ドランクの魔法に驚いた拍子に</span><br><span class='scene-font-katari'>ゴロツキは転倒するも、</span><br><span class='scene-font-katari'>偶然、魔法の軌道から逃れる。</span>,<span class='scene-font-katari'>小喽啰因德朗克的魔法受到惊吓，</span><br><span class='scene-font-katari'>摔倒之时偶然</span><br><span class='scene-font-katari'>逃离了魔法的轨道。</span>
+56,ドランク/德朗克,<span class='scene-font-4'>えぇっ！</span><br>ちょっとそんなのあり！？,<span class='scene-font-4'>咦！</span><br>还有这种的吗！？
+57,ゴロツキ１/小混混１,なんでもありだッ！<br>くらえっ！！,什么都有可能！<br>看我的！！
+59,,<span class='scene-font-katari'>至近距離まで攻め寄られ、</span><br><span class='scene-font-katari'>距離を置くため</span><br><span class='scene-font-katari'>ドランクが退こうとすると……</span>,<span class='scene-font-katari'>两人之间的距离变短，</span><br><span class='scene-font-katari'>为了拉开距离，</span><br><span class='scene-font-katari'>德朗克正要向后退时……</span>
+60,スツルム/斯特姆,<span class='scene-font-4'>ふっ！</span>,<span class='scene-font-4'>呼！</span>
+65,ドランク/德朗克,<span class='scene-font-4'>スツルム殿！？</span>,<span class='scene-font-4'>斯特姆阁下！？</span>
+66,スツルム/斯特姆,<span class='scene-font-4'>ドランク！</span><br>お前が油断してどうする！,<span class='scene-font-4'>德朗克！</span><br>你怎么能粗心大意！
+68,ドランク/德朗克,<span class='scene-font-4'>痛ったぁっ！？　なんで！？</span>,<span class='scene-font-4'>好痛啊！？　为什么！？</span>
+70,スツルム/斯特姆,情けない姿を見せた罰だ。<br>お前の評判はあたしにも影響する。<br>お前とあたしはコンビだからな。,是你丢人现眼的惩罚。<br>对你的评价会影响到我。<br>因为你和我是组合。
+71,ドランク/德朗克,でも、スツルム殿……<br>どうしてここに？<br>まさか僕を追って──,但是，斯特姆阁下……<br>为什么在这里？<br>难道追着我——
+72,スツルム/斯特姆,あたしは別の傭兵組合経由で来た。<br>この討伐隊は複数の組合が<br>合同で作ったものだからな。,我是经由别的佣兵工会来的。<br>这个讨伐队是<br>很多个工会共同组成的。
+73,ドランク/德朗克,あ、そぉ……,啊，这样……
+74,ドランク/德朗克,でも、こんな乱戦で<br>よく僕を見つけたよねぇ！<br>やっぱりコンビの絆ってヤツが──,但是，这样的乱战里<br>你竟然能找到我！<br>这就是组合的纽带啊——
+75,スツルム/斯特姆,あたしはそいつを見てただけだ。<br>同じ組合から来た駆け出しの傭兵だ。<br>まだどうにも危なっかしいからな。,我是看见了他而已。<br>他是同一个工会的新手佣兵。<br>现在还有点靠不住。
+76,若い傭兵,ど、どうも……,你、你好……
+77,スツルム/斯特姆,案の定、危険な目に遭ったわけだが、<br>戦地にも関わらず、<br>こいつを助ける妙な奴が現れた。,不出意料，陷入了危险，<br>但是这种战场上，<br>居然出现了帮助他的怪人。
+78,スツルム/斯特姆,それがお前だったというだけだ。,那人就是你。
+79,ドランク/德朗克,あ～、はいはい、さっきの彼ね！ <br>やっぱりスツルム殿って<br>面倒見良いよね～,啊~，好的好的，刚才的人啊！<br>果然斯特姆阁下<br>很会照顾人啊~
+80,若い傭兵,貴方がスツルムさんの言っていた<br>相棒の方なんですね。<br>確か……ドランクさん、でしたっけ？,你就是斯特姆<br>所说的搭档啊。<br>我记得……是叫德朗克？
+81,ドランク/德朗克,えぇ～なになに？<br>スツルム殿、なんて言ってた？<br>僕のこと褒めてた？　ねぇねぇ！,嗯~怎么怎么？<br>斯特姆阁下，说了些什么？<br>她夸我了？　说呀说呀！
+82,スツルム/斯特姆,<span class='scene-font-4'>和んでる場合か！</span><br>戦いに集中しろ！,<span class='scene-font-4'>现在是聊天的时候吗！</span><br>集中精神战斗！
+83,,<span class='scene-font-katari'>最後の悪あがきか、</span><br><span class='scene-font-katari'>強盗団は残ったほぼすべての勢力で</span><br><span class='scene-font-katari'>一行を取り囲んでいた。</span>,<span class='scene-font-katari'>或许是最后的挣扎，</span><br><span class='scene-font-katari'>强盗团集中剩下的所有人力</span><br><span class='scene-font-katari'>包围了一行人。</span>
+84,スツルム/斯特姆,<span class='scene-font-4'>いくぞ！</span><br>援護しろ、ドランク！,<span class='scene-font-4'>走！</span><br>支援我，德朗克！
+86,ドランク/德朗克,まっかせて～！<br>ほ～ら！,交给我~！<br>来~！
+96,ドランク/德朗克,<span class='scene-font-4'>えいっ！</span>,<span class='scene-font-4'>嘿！</span>
+101,ドランク/德朗克,<span class='scene-font-4'>スツルム殿！</span>,<span class='scene-font-4'>斯特姆阁下！</span>
+102,スツルム/斯特姆,<span class='scene-font-4'>はぁっ！</span>,<span class='scene-font-4'>哈！</span>
+111,,<span class='scene-font-katari'>ドランクが魔法で敵をけん制し、</span><br><span class='scene-font-katari'>スツルムの追撃によって</span><br><span class='scene-font-katari'>仕留めたかと思えば……</span>,<span class='scene-font-katari'>德朗克用魔法牵制住敌人</span><br><span class='scene-font-katari'>以斯特姆的追击</span><br><span class='scene-font-katari'>结束战斗……</span>
+112,,<span class='scene-font-katari'>スツルムが剣で敵の攻撃をいなした隙に</span><br><span class='scene-font-katari'>ドランクが魔法で無力化させるなど</span><br><span class='scene-font-katari'>ふたりは多様な連携を繰り出していく。</span>,<span class='scene-font-katari'>或是斯特姆用剑回避敌人的攻击时，</span><br><span class='scene-font-katari'>德朗克用魔法使其无效等</span><br><span class='scene-font-katari'>两人陆续使用了多种多样的组合招数。</span>
+114,,<span class='scene-font-katari'>次々に仲間が倒されていく光景に</span><br><span class='scene-font-katari'>強盗団が怯む一方、</span><br><span class='scene-font-katari'>傭兵達もあっけにとられるのだった。</span>,<span class='scene-font-katari'>在强盗团看到同伴陆续倒下</span><br><span class='scene-font-katari'>而害怕的同时，</span><br><span class='scene-font-katari'>佣兵们也目瞪口呆。</span>
+115,若い傭兵,互いが互いをカバーしあって<br>敵に反撃の隙をいっさい与えない……<br>なんて息の合ったコンビなんだ……,互相支援对方的同时<br>让敌人无机可乘……<br>多么有默契的组合啊……
+116,若い傭兵,これがファータ・グランデから<br>やってきた傭兵コンビ……<br>スツルムとドランクか……！,这就是来自法塔·格兰迪的<br>佣兵组合……<br>斯特姆和德朗克……！
+117,,<span class='scene-font-katari'>スツルムとドランク。</span><br><span class='scene-font-katari'>周囲の傭兵達はその名を覚え、</span><br><span class='scene-font-katari'>敬意と畏れを口にし始める。</span>,<span class='scene-font-katari'>斯特姆和德朗克。</span><br><span class='scene-font-katari'>周围的佣兵记住了他们的名字，</span><br><span class='scene-font-katari'>表达出敬畏之情。</span>
+118,,<span class='scene-font-katari'>その頃、ふたりの周りには</span><br><span class='scene-font-katari'>気を失った強盗団が折り重ねられ、</span><br><span class='scene-font-katari'>大きな山が築かれつつあった。</span>,<span class='scene-font-katari'>此时，两人的周围</span><br><span class='scene-font-katari'>失去意识的强盗团叠起来，</span><br><span class='scene-font-katari'>形成了巨大的山坡。</span>
+119,ドランク/德朗克,<span class='scene-font-4'>スツルム殿！</span><br>そろそろ終わりにしよっか？,<span class='scene-font-4'>斯特姆阁下！</span><br>该结束战斗了吧！
+120,スツルム/斯特姆,<span class='scene-font-4'>ああ！</span><br><span class='scene-font-4'>格の違いを見せるぞ！</span>,<span class='scene-font-4'>啊啊！</span><br><span class='scene-font-4'>让他们看看实力的差距！</span>
+info,,,scene_chr606_q3_s20
+译者,,,SETSU_XY
