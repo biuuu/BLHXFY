@@ -2,7 +2,7 @@ id,name,text,trans
 0-chapter_name,,第3話 伯仲！ 不屈の少女！,第3话 伯仲！ 不屈的少女！
 0-synopsis,,午前の部が終了後、本戦で敗退した男が、人けのない浜辺で食べずに隠し持っていたゼリーアイスを捨てていると、アイスの匂いに誘われた巨大樹クラゲが現れる。響く男の悲鳴に、休憩していた姬塔達が駆けつける。一行は食べ物を粗末にしたことが原因だと知って怒りを露わにするが、人命を優先して巨大樹クラゲを迎え撃つのだった。,上午场结束后，一名在正赛输了的男人，在无人的海边，将自己藏着没吃的果冻冰淇淋扔到了海里，巨大树水母被冰淇淋的气味吸引而来。听到了男人的悲鸣，还在休息着的姬塔他们赶忙跑了过来。一行人知道了事情发生的原因是男人浪费的食物后，十分生气，但救人要紧，一行人还是选择先迎击巨大树水母。
 1,,<span class='scene-font-katari'>メインビーチから少し離れた、</span><br><span class='scene-font-katari'>岩礁に囲まれた浜辺。</span>,<span class='scene-font-katari'>在离开主沙滩的一段距离的地方，</span><br><span class='scene-font-katari'>满布礁石的海边。</span>
-2,,<span class='scene-font-katari'>その人けのない場所で、</span><br><span class='scene-font-katari'>本戦午前の部で敗退した男のひとりが</span><br><span class='scene-font-katari'>周囲を警戒しながらうろついていた。</span>,<span class='scene-font-katari'>就在这没有人烟的地方，</span><br><span class='scene-font-katari'>一名在正赛上午场输了的男人一边警戒着周围，</span><br><span class='scene-font-katari'>一边在转悠着。</span>
+2,,<span class='scene-font-katari'>その人けのない場所で、</span><br><span class='scene-font-katari'>本戦午前の部で敗退した男のひとりが</span><br><span class='scene-font-katari'>周囲を警戒しながらうろついていた。</span>,<span class='scene-font-katari'>就在这没有人烟的地方，</span><br><span class='scene-font-katari'>一名在正赛上午场输了的男人一边警戒着周围，一边在转悠着。</span>
 3,本戦参加者の男,くそっ、あのガキども……！<br>余計な真似してくれやがって……！,可恶，那几个臭小鬼……！<br>真是做了多余的事……！
 4,本戦参加者の男,俺が決勝に残れば、賭けた金<br>全取りだったってのに……！,本来我进到了决赛，<br>就能把下注的钱全都赢回来了……！
 5,本戦参加者の男,ツイてねぇぜ、ちくしょう……！,真是太倒霉了，可恶啊……！
@@ -49,9 +49,9 @@ id,name,text,trans
 62,コルル,なんと……！<br>せっかくのデザートを<br>無駄にするとは……！,什么……！<br>竟然浪费了好不容易准备好的甜品……！
 63,レッドラック,何より許しがたい蛮行だぜ！<br>あんな野郎、助ける義理なんざ<br>全く感じねぇが……,真是无法饶恕的恶行！<br>完全没有情理救这种家伙，<br>不过……
 64,レッドラック,人死にが出て、大会が<br>中止になっても困るからな。,要是出了人命，<br>让大赛终止的话我也会很困扰啊。
-65,レッドラック,<span class='scene-font-4'>おい、てめぇ！</span><br><span class='scene-font-4'>そこ動くんじゃねぇぞ！</span>,<span class='scene-font-4'喂，你这混蛋！</span><br><span class='scene-font-4'待在那别动！</span>
-66,コルル,<span class='scene-font-4'>助太刀致す！</span>,<span class='scene-font-4'我来帮你！</span>
+65,レッドラック,<span class='scene-font-4'>おい、てめぇ！</span><br><span class='scene-font-4'>そこ動くんじゃねぇぞ！</span>,<span class='scene-font-4'>喂，你这混蛋！</span><br><span class='scene-font-4'>待在那别动！</span>
+66,コルル,<span class='scene-font-4'>助太刀致す！</span>,<span class='scene-font-4'>我来帮你！</span>
 67,ビィ/碧,オイラ達も続こうぜ、姬塔！,我们也过去吧，姬塔！
-68,巨大樹クラゲ,<span class='scene-font-4'>────！！</span>,<span class='scene-font-4'────！！</span>
+68,巨大樹クラゲ,<span class='scene-font-4'>────！！</span>,<span class='scene-font-4'>────！！</span>
 info,,,scene_evt200628_cp3_q4_s20
 译者,,,Van

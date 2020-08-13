@@ -1,0 +1,75 @@
+id,name,text,trans
+0-chapter_name,,男らしく、兄らしく,
+0-synopsis,,コウとヨウは幽霊を退治し、開かずの間から脱出する。その後ふたりは怪奇現象が消えた開かずの間に姬塔一行を招待し、おもてなしを成功させる。その夜、コウはいたずらのつもりで姬塔の布団に入るが、姬塔はコウを布団から逃がさず、コウはそのままは姬塔と添い寝をすることに。コウは姬塔の温もりを感じながら、安らかに眠りにつくのだった。,蔻和容解决了幽灵，从不能打开的房间逃了出来。之后两人在已经没有怪奇现象的不能打开的房间招待了姬塔一行人，成功完成了招待的任务。那晚，蔻打算恶作剧，钻进了姬塔的被窝，但姬塔不放蔻逃走，两人就这样一起度过了夜晚。蔻感受到姬塔的温暖，安心地入睡了。
+1,笑う幽霊,<span class='scene-font-4'>ヒィィィィィッ！！</span>,噫！！！！！！
+4,,<span class='scene-font-katari'>コウに圧倒された幽霊は、</span><br><span class='scene-font-katari'>この世のものとは思えないほど</span><br><span class='scene-font-katari'>おぞましい悲鳴を上げて消える。</span>,被蔻打倒的幽灵发出了仿佛不存在于这个世上的悲鸣，就这样消失了。
+5,,<span class='scene-font-katari'>すると、次の瞬間、</span><br><span class='scene-font-katari'>部屋の扉が音を立てて開いた。</span>,然后，下一秒，房门传来了声音被打开了。
+6,コウ/蔻,あ……み、皆さん……！,啊……大、大家……！
+8,ユエル/尤艾尔,コウ！　ヨウ！,蔻！容！
+9,ソシエ/苏丝雅,ふたりとも大丈夫！？<br>怪我は……してへんみたいやね……<br>よかった……,你们两个都没事吗！？受伤了吗……好像没受伤的样子，太好了……
+10,ヨウ/容,ユエ姉ぇ……！<br>ソシ姉ぇ……！,尤艾姐姐……！苏思姐姐……！
+11,ユエル/尤艾尔,ほんま、心配したんやで！<br>いつの間にかどこにもおらんし、<br>いくら待っても帰ってこんし……,真的是，让人担心呢！突然人就不见了，等了好久也没有回来……
+12,コウ/蔻,ご、ごめんなさい……<br>でも、どうしてここにいるって<br>分かったんですか……？,对、对不起……但是、怎么会知道我们在这里……？
+13,ソシエ/苏丝雅,たぶんここにおるんやないかと思て、<br>皆で迎えに来たんよ。,觉得你们是不是会在这里，大家都过来接你们了哦。
+14,ソシエ/苏丝雅,そしたらおかみさんからふたりが<br>その部屋から<br>出てこーへんって聞いて……,然后从老板娘那里听说你们两个一直在这个房间里没有出来……
+15,ビィ/碧,みんなで扉開けようとしたんだけどよ。<br>全然開かなくて……びっくりしたぜ。<br>なぁ、なにがあったんだ？,大家想着要打开这扇门。但完全打不开……吓了一跳呢。
+16,コウ/蔻,それが……,这个啊……
+17,,<span class='scene-font-katari'>コウは開かずの間に閉じ込められ、</span><br><span class='scene-font-katari'>脱出するまでの経緯を語った。</span>,蔻把之前的经过讲述了一遍。
+18,ルリア/露莉亚,そ、そんなことが……<br>ふたりとも、怖かったですね……,还、还有这种事……你们两个、一定很害怕吧……
+19,ヨウ/容,ぐすっ、コウ兄ぃが……<br>いてくれなかったら、オレ……！,嘶，蔻哥哥不在的话，我……！
+20,ソシエ/苏丝雅,よしよし……<br>コウ君が守ってくれたんやね。<br>ヨウちゃんも、ほんまよう耐えたね。,很好很好……是小蔻保护了小容呢。小容也是，努力撑过来了呢。
+20-sel1_txt,,<span class='scene-font-katari'>コウ、よく頑張ったね</span>,蔻，好好努力了呢
+21,コウ/蔻,ッ……！,
+22,,<span class='scene-font-katari'>姬塔は、</span><br><span class='scene-font-katari'>コウの頭を優しく撫でた。</span>,姬塔温柔地摸了摸蔻的头。
+23,,<span class='scene-font-katari'>すると緊張の糸が切れたのか、</span><br><span class='scene-font-katari'>コウは涙を流し始めた。</span>,结果好像是绷紧的弦突然断了一般，蔻哭了起来。
+24,コウ/蔻,あれ、あれ……？<br>ふっ、うくっ……,咦，咦……？呜、呜呜……
+25,ユエル/尤艾尔,コウ……<br>ほんまよう頑張ったな。,蔻……真的是努力了呢。
+26,コウ/蔻,う、うぅぅ……ぐす……<br>本当は、僕も……怖くて……<br>もう出られないかもって……ぐすっ……,呜、呜呜……嘶……其实，我也……很害怕……还以为出不来了……嘶……
+27,,<span class='scene-font-katari'>姬塔は泣き出すコウを</span><br><span class='scene-font-katari'>優しく抱きしめた。</span>,姬塔抱紧了抽泣的蔻。
+28,コウ/蔻,<span class='scene-font-4'>うわぁぁぁぁんっ……</span>,呜哇啊啊啊啊啊……
+29,ユエル/尤艾尔,よしよし……<br>今、アンタめちゃ恰好ええで、コウ。,没事了没事了……现在，你看起来超帅的，蔻。
+30,,<span class='scene-font-katari'>一行は年相応に泣きじゃくる</span><br><span class='scene-font-katari'>ふたりをなぐさめ、</span><br><span class='scene-font-katari'>騎空艇へと連れて帰った。</span>,一行人安慰着终于像年龄一般哭着的两个孩子，把他们带回了骑空艇。
+36,,<span class='scene-font-katari'>そして数日後、コウとヨウは</span><br><span class='scene-font-katari'>勇気を振り絞って再び、</span><br><span class='scene-font-katari'>開かずの間を訪れた。</span>,于是几天后，蔻和容再次鼓起勇气来到了“不能打开的房间”。
+37,,<span class='scene-font-katari'>開かずの間は怪奇現象が</span><br><span class='scene-font-katari'>一切起きなくなっており、</span><br><span class='scene-font-katari'>お札や髪の毛や人形なども消えていた。</span>,“不能打开的房间”已经完全没有那些怪奇现象，连那些符印、头发和人偶都消失了。
+38,,<span class='scene-font-katari'>ふたりは安心すると、</span><br><span class='scene-font-katari'>開かずの間を綺麗に清掃し、</span><br><span class='scene-font-katari'>そこへ一行を招待した。</span>,两人安心下来，将“不能打开的房间”打扫干净，在那里招待了大家。
+44,,<span class='scene-font-katari'>一行は部屋に入ると、</span><br><span class='scene-font-katari'>しばらくして扉を叩く音が</span><br><span class='scene-font-katari'>聞こえてきた。</span>,大家进入房间后没多久，听见了敲门声。
+46,コウとヨウ,失礼いたします。,失礼了。
+47,,<span class='scene-font-katari'>コウとヨウは扉を静かに開け、</span><br><span class='scene-font-katari'>ゆっくりと丁寧な所作で</span><br><span class='scene-font-katari'>一行の目の前に正座する。</span>,蔻和容静静地把门打开，慢慢地用非常认真的动作在大家的面前正坐下来。
+48,コウ/蔻,当館にお越しいただき、<br>誠にありがとうございます。<br>担当させて頂きます、コウと。,衷心感谢在百忙之中莅临敝馆。我是本次负责的，蔻和。
+49,ヨウ/容,ヨウ、です。,容。
+50,コウ/蔻,僕達は皆さまの命の洗濯を、<br>お手伝いさせていただきます。<br>心ゆくまで、おくつろぎください。,我们会为各位今日的消遣服务。请放宽心，放松下来。
+51,ヨウ/容,とーかン、とくせーの茶菓子です。<br>よろしかったら、どうぞ。<br>すげぇー……あ、すごくうまいですよ。,来了，这是特制的点心。请用。超……啊，非常好吃的哦。
+52,コウ/蔻,ふふふ……<br>ではお食事の準備をしてまいりますね。,哼哼哼……那，我们去准备食物了。
+55,,<span class='scene-font-katari'>コウとヨウは座りながら、</span><br><span class='scene-font-katari'>ゆっくりと礼をすると、</span><br><span class='scene-font-katari'>部屋から出て行った。</span>,蔻和容正坐着缓缓行了一礼，离开了房间。
+56,ユエル/尤艾尔,アカン、なんや……<br>泣きそうなんやけど……<br>ふたりともあないちゃんとして……,不行，什么啊……我都快感动哭了……两个人都这么得体……
+57,ソシエ/苏丝雅,ふたりとも……<br>ほんま成長したなぁ……,他们两个……真的是成长了呢……
+58,ビィ/碧,いや、感動するにしたって、<br>早すぎるだろ……親馬鹿っていうか、<br>姉馬鹿が過ぎるぜ……,不，要感动也太快了吧……该说是溺爱孩子的父母吗，也太过溺爱孩子的姐姐了……
+59,,<span class='scene-font-katari'>その後、一行はコウとヨウの</span><br><span class='scene-font-katari'>愛情のこもったおもてなしをうける。</span>,之后，大家接受了蔻和容饱含爱意的招待。
+60,,<span class='scene-font-katari'>一行はコウとヨウの手料理にお酌、</span><br><span class='scene-font-katari'>そして宴会中のふたりの舞など、</span><br><span class='scene-font-katari'>心ゆくまで楽しんだ。</span>,大家享受了蔻和容的手作料理和斟酒，然后还有宴会中两人的舞蹈，心灵上至高的享受。
+65,,<span class='scene-font-katari'>そしてその日の夜。</span><br><span class='scene-font-katari'>身も心も癒された一行は、</span><br><span class='scene-font-katari'>ふたりが用意した布団で横になる。</span>,当天晚上，身心都得到放松的一行人在两人准备的被褥中睡去。
+66,,<span class='scene-font-katari'>一行はふたりのおもてなしのおかげで</span><br><span class='scene-font-katari'>普段の疲れがすっかりととれ、</span><br><span class='scene-font-katari'>熟睡していた。</span>,因为两人的招待，大家缓解了平时的疲劳，纷纷陷入熟睡。
+67,,<span class='scene-font-katari'>しかし姬塔だけは</span><br><span class='scene-font-katari'>慣れた環境ではないためか、</span><br><span class='scene-font-katari'>なかなか寝付けず夜の散歩をしていた。</span>,但可能是不在熟悉的环境吧，只有姬塔怎么都睡不着，在夜里散步。
+72,,<span class='scene-font-katari'>そして散歩が終わり、</span><br><span class='scene-font-katari'>しばらくして寝室へ戻ると──</span>,散完步回到寝室之后——
+73,コウ/蔻,おかえりなさい。,你回来了。
+74,,<span class='scene-font-katari'>コウが姬塔の布団に</span><br><span class='scene-font-katari'>入っていた。</span>,蔻躺在姬塔的被窝里。
+75,コウ/蔻,今日は少し冷えますから……<br>布団が冷えないよう、<br>温めておきました。,今天有一点冷……为了让被窝不那么冷，我来帮你暖被窝了。
+81,コウ/蔻,それに眠れないようですが……<br>僕でよければ添い寝……しましょうか？<br>もしかしたら落ち着いて眠れるかも……,而且你好像睡不着……如果可以的话我们……一起睡觉吗？说不定可以平静下来睡个好觉……
+82,コウ/蔻,ふふふ、なんて、冗談ですよ。<br>びっくりしましたか？<br>いつものいたずらのお返しです。,哼哼哼，当然，这是开玩笑的。吓了一跳吧？这是一直以来的恶作剧的回礼。
+83,コウ/蔻,では、そろそろ失礼──,那么，我差不多该走了——
+84,,<span class='scene-font-katari'>姬塔はコウが布団から出る前に</span><br><span class='scene-font-katari'>素早い動きで音を立てずに</span><br><span class='scene-font-katari'>布団の中に潜り込む。</span>,姬塔在蔻离开被窝之前迅速钻进了被窝。
+85,コウ/蔻,わっ！？　ちょ、っと……<br>姬塔さん……！？,哇！？等一下……姬塔……！？
+86,コウ/蔻,冗談だったのに……<br>強引なんですから……,说了是开玩笑的……你这么硬来……
+87,コウ/蔻,も、もうしょうがないですね。<br>けど、みんなには内緒で<br>お願いしますよ……？,那、那我也没办法。但是，请不要告诉其他人……？
+88,,<span class='scene-font-katari'>コウは観念し、姬塔と</span><br><span class='scene-font-katari'>同じ布団で横になる。</span>,蔻死了心，和姬塔一起躺下。
+89,コウ/蔻,姬塔さん。<br>今日のおもてなし……<br>どうでしたか？,姬塔。今天的招待……怎么样？
+90,コウ/蔻,普段僕が受けてる<br>姬塔さんへの<br>ご恩を少しでも返せてたら……,平时我一直受到姬塔的照顾，能报答一点恩惠的话……
+91,コウ/蔻,姬塔さん……？,姬塔……？
+92,コウ/蔻,寝てる……？<br>え、布団入って、一瞬で……？<br>あのー……,睡着了……？诶，进了被窝，一瞬间就……？那个—……
+93,コウ/蔻,お、起きない……<br>爆睡してる……ってことは……<br>癒せたってことなのかな……？,叫、叫不醒……完全爆睡了……那也就是说……有被治愈到吧……？
+94,,<span class='scene-font-katari'>コウは小さく微笑むと、</span><br><span class='scene-font-katari'>姬塔に寄り添って目を閉じる。</span>,蔻笑了笑，在姬塔身边渐渐闭上双眼。
+95,,<span class='scene-font-katari'>信頼する人の温もりを感じながら、</span><br><span class='scene-font-katari'>コウは安らかに眠りについた。</span>,感受到信赖的人的温暖，蔻安心地入睡。
+96,,<span class='scene-font-katari'>そして翌日──</span>,第二天——
+97,,<span class='scene-font-katari'>コウはうっかり寝過ぎてしまい、</span><br><span class='scene-font-katari'>添い寝してる姿をユエルとソシエと</span><br><span class='scene-font-katari'>ヨウに見られてしまう。</span>,蔻不小心睡过了头，和姬塔一起睡的样子被尤艾尔、苏思雅和容发现了。
+98,,<span class='scene-font-katari'>３人は当然のように羨ましがり、</span><br><span class='scene-font-katari'>結局コウは半ば強引にだが全員と</span><br><span class='scene-font-katari'>添い寝することになるのだった。</span>,3人当然非常羡慕，最终半推半就地让蔻和全员一起睡觉了。
+info,,,scene_chr574_q3_s30
+译者,,,tearanne
