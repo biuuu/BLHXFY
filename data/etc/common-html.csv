@@ -13,8 +13,8 @@ path,text,trans,count
 /content,残り,还剩,20
 /content,報酬,报酬,20
 /content,図鑑,图鉴,10
-/content,闇,暗,30
-/content,風,风,30
+/content,"<div class=""prt-type-text"">闇</div>",<div class=prt-type-text>暗</div>,30
+/content,"<div class=""prt-type-text"">風</div>",<div class=prt-type-text>风</div>,30
 /content,設定する,设置,10
 /content,キャンセル,取消,10
 /content,マイページに戻る,返回首页,
