@@ -1,0 +1,102 @@
+id,name,text,trans
+0-chapter_name,,To the Top!,
+0-synopsis,,"姬塔 and company begin their ascent up the mountains with climbing gear and supplies prepped. When Honoka mentions wanting to see the view from the top of a mountain, Umi decides to make that wish a reality, turning their climb into an overnight camping trip.",带着他们准备好的装备开始登山。当穗乃果提到想从山顶看到风景时，海未决定实现这个愿望，这把她们的攀登变成了一次彻夜的野营旅行。
+2,,"Fully prepared for the journey ahead, 姬塔 and company trek up the mountain path.",为旅途做好了充分的准备，姬塔和同伴沿着山路出发。
+5,Umi,"Breathe in... And out... I must say, the air and nature here are amazing!",吸气…呼气…我不得不说，这里的空气实在是太新鲜了！
+6,,"And while the cool forest air and chirping birds are pleasant, the steep path is not.",虽然清爽的空气和清脆的鸟叫声令人愉快，陡峭的山路却令人疲惫。
+10,Honoka,Gasp... I can't go on...,“喘息”…不行了我走不动了
+11,Umi,Honoka! We haven't even reached the first level of the mountain yet!,穗乃果！我们连这座山的第一阶梯都没爬到呢！
+12,Honoka,Th-this is harder than running up the shrine stairs...,这…这比每天为了练功爬神社的阶梯难多了。
+13,Umi,"Honoka... I might be imagining things, but did you perhaps gain weight?",穗乃果…可能是我想多了，但是会不会是你变胖了？
+14,Honoka,"N-no! No way! I'm totally fine! I'm tired, but not because of that!",不！才不是呢！我只是有点累了罢了，才没有变胖！
+15,Umi,Then let's go! A mountain is conquered one step at a time! Perserverance is key!,那我们出发吧！一步一步的征服这座山！坚持就是关键！
+16,Honoka,Woo-hoo...,喔...吼...
+17,,Honoka raises a weak fist in support of Umi's enthusiasm.,穗乃果弱弱的举起拳头为海未的热情打气。
+19,Lyria/露莉亚,"Pant, pant... This is a little tough, but I'm happy to see Umi's having fun.",气喘吁吁…虽然很劳累，但是我很高兴看到海未这么开心。
+20,Vyrn/碧,"She sure is, isn't she? Her eyes are all lit up.",她当然开心了，不是吗？她眼睛里都闪烁着光芒。
+21,,"Weighed down by a backpack full of supplies, 姬塔 adjusts the backpack's straps while watching Honoka and Umi.",背着装满装备的包，姬塔一边调整背包的背带一遍看着海未和穗乃果。
+22,Kotori,"Uhm, 姬塔? Do you need help carrying anything?",海未，姬塔？需不需要帮忙拿点什么？
+22-sel1_txt,,I got this.,没关系的的。
+22-sel2_txt,,Please. I'm dying.,太感谢了，我快要不行了。
+24,Kotori,"Really? You're pretty strong, aren't you, 姬塔!",真的？你看起来真的十分健壮不是吗，姬塔！
+25,Vyrn/碧,"Considerin' 姬塔 grew up choppin' wood and running round the mountains for herbs, I'm not surprised.",一想到姬塔从小就砍柴，在山上跑来跑去采药我就一点都不觉得奇怪了。
+27,Kotori,A-are you okay? You don't need to push yourself. Why don't you let me carry something?,你还好吗？真的不用勉强。为什么不让我帮你拿点什么呢？
+28,Lyria/露莉亚,I'll help too!,我也来帮忙！
+29,Vyrn/碧,"Hold on a sec. Now that I'm takin' a closer look at you, you seem completely fine, 姬塔.",等等。让我凑近看看你，嗯你看起来完全没问题姬塔。
+30,Kotori & Lyria,What?,什么？
+31,,"Sure enough, 姬塔 seems sweaty but certainly not tired.",没错，姬塔看起来微微流汗但是并没有显得疲惫。
+32,Vyrn/碧,"With all the huntin' and stuff 姬塔 did in the hills growin' up, this is nothin'.",对于从小在山里狩猎的姬塔来说这不算什么。
+34,Lyria/露莉亚,Wow... I didn't know 姬塔 did other things in addition to sword training.,哇哦…我不知道姬塔除了练习剑术以外的其他事情。
+35,Vyrn/碧,"Oh, did we never tell you? If there was stuff to get done, 姬塔 got it done without relyin' on others.",咦，我们没告诉过你吗？如果有事情需要去做，姬塔会靠自己的力量去完成。
+36,Lyria/露莉亚,"I see. It's nice to learn new things about you, 姬塔.",我明白了。很高兴又能多了解你一些了呢，姬塔。
+37,Kotori,Hehe. I feel the same.,嘿嘿，我也这么认为。
+38,Kotori,"That reminds me. 姬塔, Vyrn, are you two childhood friends?",这倒是提醒我了。姬塔，碧，你们从孩童时代就是朋友了吗。
+39,Vyrn/碧,Yeah. I even saw 姬塔 in diapers!,是的，我甚至见过穿纸尿裤的姬塔。
+40,Kotori,"It's the same for Honoka, Umi, and myself. We knew each other even before elementary school, and we've been together since.",这和我跟穗乃果还有海未一样。我们在小学以前就认识了。
+41,Lyria/露莉亚,...,…
+42,Kotori,Lyria? Did I say something weird?,露莉亚？我刚刚说了什么奇怪的话嘛？
+43,Lyria/露莉亚,Oh. Ahaha... I was just thinking I'm a little jealous.,哦，哈哈哈哈…我只是觉得稍微有点嫉妒。
+44,Kotori,Hmm...,嗯...
+45,Kotori,"You know, I only met the other members of μ's after entering high school.",你知道吗，我也是上了高中才遇到了μ's 的其他成员。
+46,Kotori,"But they're just as important to me, and I know we're all going to be together from now on.",但是他们对我来说一样重要，我也知道我们从现在起一定会在一起。
+47,Kotori,I have the feeling you and 姬塔 will be too. Isn't that just as amazing as having childhood friends?,我觉得你跟姬塔也会一直在一起，这跟有童年伙伴一样令人惊喜不是吗？
+48,Lyria/露莉亚,...,…
+49,Lyria/露莉亚,Ehehe... I sure hope we will be.,嗯…我当然希望我们能。
+50,,Lyria and 姬塔 look at each other and exchange bashful smiles.,露莉亚和姬塔相视一笑。
+51,Honoka's Voice,"Umi, are you serious!",海未，你是认真的吗？
+52,Vyrn/碧,The heck is Honoka shoutin' for?,穗乃果在尖叫些什么？
+58,,姬塔 and the others catch up to a defeated-looking Honoka and a grave-faced Umi.,姬塔和其他人赶上来看到了一脸恐惧的穗乃果和一脸沉重的海未。
+59,Kotori,"Did something happen, you guys?",发生了什么吗，大伙？
+60,Honoka,...,…
+61,,Honoka raises her hand and weakly points at the top of the mountain.,穗乃果颤颤巍巍的举起手指向山顶。
+62,Umi,"Well, Honoka was saying how she wanted to see the view from the top.",好吧，穗乃果说他是多么想要一览从山顶看下去的风景。
+63,Honoka,Now hold on! It was just a spur-of-the-moment thing! This mountain is way too tall to actually do it!,等一下！这不过是一时冲动罢了！这座山实在是太高了！
+64,Vyrn/碧,We'd hafta camp out for two days if we did that.,如果我们真的这样做的话我们需要在外面露营两天。
+65,Umi,We have our equipment and plenty of supplies. I think we can do it.,我们有设备和充足的物资。我想我们能做到。
+66,Kotori,Hmm... I don't know...,嗯...我也不清楚...
+67,Umi,...,…
+68,,Umi grows quiet and appears to think for a moment.,海未静下来仔细思考了一会
+69,Umi,I want to try it. I want to see the view that Honoka wants to see.,我想试试看，我也想看看穗乃果想看到的景色。
+70,Honoka & Kotori,...,…
+71,Kotori,"Hehe. What do you say, Honoka?",嘿嘿，你觉得呢
+72,Honoka,Okay. We're doing it. I'll do my best to keep up.,好的，就这么决定了。我会尽力坚持下去的。
+73,Umi,"We've only got a little bit of time before the sun goes down, so we should find a place to camp soon.",太阳下山前我们只有一点点时间了，所以我们应该尽快找个地方露营。
+79,,"By the time 姬塔 and company find a nice open area for their tent and pitch it, the sun has already sunk below the horizon.",当姬塔他们找到一个很好的空地搭建帐篷时，太阳已经沉到地平线以下了。
+80,Vyrn/碧,"I'm amazed you could make somethin' like a tent though, Kotori.",我很惊讶你能做个像帐篷一样的东西，小鸟。
+81,Kotori,It wasn't anything that amazing. All I did was stitch some sails together and apply some waterproofing wax and oil.,这没什么了不起的。我所做的就是把帆缝在一起，涂上防水蜡和油。
+82,Lyria/露莉亚,"I wouldn't have thought of using wax! I'd love to learn sewing from you, Kotori!",我怎么没有想到还能用蜡的！我很想跟你学缝纫，小鸟！
+83,Kotori,Really? I'm happy to hear that.,真的吗，我很开心你这么说。
+84,Umi,Zzz...,Zzz...
+85,,Everyone's gazes are drawn to the peacefully sleeping Umi who passed out immediately after eating.,所有人的目光都被安睡的海未吸引住了，她吃完饭就睡过去了。
+86,Vyrn/碧,"She put on a brave face earlier, but I guess she must've been pretty tired.",她之前一副干劲十足的样子，但我想她一定是很累了。
+87,Honoka,"No, it's not that... Umi always sleeps the soundest out of everyone in μ's.",不，不是因为这个…在μ's里，海未是睡得最香的那个。
+88,Honoka,"Anyway, you think tomorrow's gonna be okay? I don't feel like I'm gonna make it...",总之，你觉得明天会顺利吗？我觉得我要撑不下去了…
+89,Lyria/露莉亚,"Ahaha, weren't you excited just a little bit ago?",哈哈，刚才你不是还很兴奋吗？
+90,Honoka,Yeah. I couldn't help myself since this is something Umi wants to do.,是啊。我无法抑制自己，因为这是海未想做的事。
+91,Vyrn/碧,What do you mean by that?,这是什么意思？
+92,Kotori,"Ever since we were kids, Umi's always been reserved.",从小时候开始，海未就一直很内向。
+93,Kotori,So it made us happy to hear her tell us so plainly that she wants to do something.,能听到海未主动说出她想要去做的事情我们真的很高兴。
+94,Honoka,That's right. That's why we'll make sure she gets to do it.,没错。这也是为什么我们要确保她能做到。
+95,Honoka,Breathing in the air at the top doesn't sound bad either.,能呼吸到山顶的空气听起来也不错。
+96,Honoka,I'm just not sure I can make it there... I only got this far because Umi made sure I didn't give up.,我只是不确定我能不能做到…我之所以能坚持到现在也是因为海未。
+97,Kotori,"Umi always pulls you forward after all, Honoka.",海未总是能拉着你向前，穗乃果。
+98,Honoka,"She sure does. Without all her scolding, I definitely wouldn't have made it this far...",是的她确实。没有她的斥训我绝对走不到这么远。
+99,Kotori,"But you know, if you hadn't said anything about going to the top, then we would have never had this chance to try. I'm glad you did.",你知道吗，如果不是你说要登上顶峰，我们可能连尝试的机会都没有。我很高兴你这么做了。
+100,Honoka,Really? Then I guess I better pump myself up.,这的吗，那我最好要振作起来。
+101,Honoka,"Tomorrow, I'm gonna go all out!",明天，我要全力以赴！
+102,Honoka,"It's probably gonna be super hard and tiring, but if we take it one step at a time together, we'll definitely get to see the view up there!",可能会非常辛苦和累，但如果我们一起一步一步地向前走，我们一定能看到上面的风景！
+103,Kotori,"You said it! Lyria, Vyrn, 姬塔, let's do our best!",你们说过的，露莉亚，碧，姬塔，让我们尽力而为！
+104,Kotori,"Wait, guys?",大伙，等一下？
+106,Vyrn & Lyria,Zzz... Mmm...,Zzz…Mmm…
+107,Lyria/露莉亚,Ah! I-I didn't fall asleep or anything! I'm completely fine!,啊！我-我才没有睡着或者怎么样。我好得很！
+108,Vyrn/碧,"The heck, we're outta apples?",见鬼，我们没有苹果了？
+109,Kotori,Hehe. Looks like everyone's pretty tired.,嘿嘿，看起来大家都很累呢。
+110,Honoka,I'm feeling sleepy too. Should we head to bed?,我也觉得困了，我们要不要上床睡觉？
+111,Kotori,"That's a good idea. Umi did say ""a mountain can only be conquered with plenty of rest!""",听起来是个好主意。海未说过“想要征服一座山必须要休息好”。
+112,,Their little meeting dissolves after that.,他们的小会谈在那之后便结束了。
+115,,姬塔 puts out the fire and carries the sleeping Vyrn into the tent with Kotori and the others.,姬塔熄灭篝火火，把睡着的碧。小鸟和其他人抬进帐篷。
+117,,"Before falling asleep, 姬塔 recalls Honoka's words.",在睡着之前，姬塔回忆起穗乃果的话。
+122,,To aim for the top with friends by your side every step of the way—,在每一步前进的旅途中，都有朋友陪伴在身边-
+127,,"That's how 姬塔's journey to the Island of the Astrals has been so far, and that's how it will continue to be.",这也是目前为止姬塔是如何一路从走来，也会是如何今后继续走下去的方式。
+info,,,scene_chr560_q2_s10
+译者,Ted,,
