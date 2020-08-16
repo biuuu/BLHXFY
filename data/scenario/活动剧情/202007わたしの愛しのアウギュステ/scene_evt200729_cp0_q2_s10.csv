@@ -1,0 +1,62 @@
+id,name,text,trans
+0-chapter_name,,エンディング,Ending
+0-synopsis,,右腕がサメの男と両足がサメの男が、今年の<span class='scene-font-place'>アウギュステ</span>の脅威だとメグは意気込む。しかし、男達はすでに帰ったという。結局、今年はなにも起きなかった。メグは遊んだだけだったので困惑するが、それこそが幼い頃から夢見ていたバカンスであることに気付く。初めて体験できたと大喜びするメグ。姬塔達はその様子を見て首を傾げるのだった。,梅格很在意右臂是鲨鱼的男人和两足鲨鱼的男人是不是今年<span class='scene-font-place'>奥古斯提</span>的威胁。但是、男人们都已经回去了。结果，今年什么都没有发生。玩耍之后的梅格感到很困惑，但却发现那正是从小就梦想着的假期。第一次体验到的梅格感到非常开心。姬塔他们看到这一幕不禁歪着头。
+1,,<span class='scene-font-katari'>バカンスを終えて帰ろうとしていた</span><br><span class='scene-font-katari'>姬塔達のもとに、</span><br><span class='scene-font-katari'>気になる情報が舞い込んできた。</span>,<span class='scene-font-katari'>在结束了假期之后</span><br><span class='scene-font-katari'>一些令人在意的消息</span><br><span class='scene-font-katari'>传到了姬塔耳边。</span>
+2,,<span class='scene-font-katari'>それはメグにとっては</span><br><span class='scene-font-katari'>決して無視できないものであった。</span>,<span class='scene-font-katari'>那对梅格来说是</span><br><span class='scene-font-katari'>是绝对无法无视的东西。</span>
+3,ビィ/碧,右腕がサメの男と……<br>両足がサメの男だってぇ！？,右手鲨鱼的男人和……<br>两足鲨鱼的男人！？
+4,シェロカルテ/榭洛科特,私も聞いた時は驚きました～<br>まさかそんな特徴を持った方が<br>メグさん以外にいるとは～,我听到的时候也震惊了～<br>没想到除了梅格之外还有拥有那种特征的人。
+5,メグ/梅格,やっぱり来た……<br>それが私の敵なんだよ！,果然来了……<br>那是我的敌人！
+6,ルリア/露莉亚,メ、メグさん？,梅、梅格？
+7,メグ/梅格,<span class='scene-font-2'>なるほど。</span><br><span class='scene-font-2'>そのふたりは私と同じく</span><br><span class='scene-font-2'>野良鮫を拾って手懐けたんだね。</span>,<span class='scene-font-2'>原来如此。</span><br><span class='scene-font-2'>那两个人和我一样</span><br><span class='scene-font-2'>捡到野生鲨鱼养起来了</span>
+8,メグ/梅格,それで、そのふたりは<br>どこで暴れてるの？<br>シェロさん、教えて！,然后，那两个人<br>在哪里暴走了呢？<br>谢洛，告诉我！
+9,シェロカルテ/榭洛科特,いえ～、そういったことは特になく、<br>もうバカンスを終えて<br>お帰りになったそうです～,没有～、好像没有这回事，<br>好像已经结束假期回去了。
+10,メグ/梅格,…………え？,…………诶？
+11,シェロカルテ/榭洛科特,メグさんと似ているので<br>お伝えしておこうと<br>思っただけですよ～,只是像梅格那样<br>但是在口口相传里变味了而已吧～
+12,ビィ/碧,なぁんだ。<br>じゃあ特に問題はないってことか。,什么啊。<br>那就不是啥问题嘛。
+13,シェロカルテ/榭洛科特,はい～<br>そのおふたりも<span class='scene-font-place'>アウギュステ</span>を存分に<br>楽しんでいらっしゃったそうで～,是～<br>那两个人在<span class='scene-font-place'>奥古斯提</span>过的非常开心～
+14,メグ/梅格,えっと……,那个……
+15,ルリア/露莉亚,うふふ、よかったですね。,呜呼，太好了。
+16,ビィ/碧,大食い大会が終わってからは<br>のんびり過ごせたな～,大胃王大赛结束后，<br>过的太悠闲了啊～
+17,フェリ/菲莉,平和でなによりだ。<br>いい休暇になってよかった。,平平淡淡才是真。<br>好好修休息了。
+18,アニラ/阿妮拉,そうじゃのう、<br>骨休めにはうってつけじゃった。,没错。<br>非常适合休息。
+19,ビカラ/碧卡拉,<span class='scene-font-kokoro'>（鬱い……</span><br><span class='scene-font-kokoro'>ようやく海に慣れてきたのに</span><br><span class='scene-font-kokoro'>もう帰る日になっちゃった……）</span>,<span class='scene-font-kokoro'>（郁闷……</span><br><span class='scene-font-kokoro'终于习惯了大海<span><br><span class='scene-font-koro'>已经到了回去的日子了……）</span>
+20,メグ/梅格,え、ちょっと待って。<br>本当にこれで終わり……？,诶、等等。<br>真的这么结束了吗……？
+20-sel1_txt,,<span class='scene-font-katari'>なにか不満？</span>,<span class='scene-font-katari'>有什么不满的吗？</span>
+20-sel2_txt,,<span class='scene-font-katari'>メグのおかげで平和が保たれた</span>,<span class='scene-font-katari'>托梅格的福保住了和平</span>
+22,メグ/梅格,えっと、不満はないんだけど……<br>今日まで地元で<br>たくさん修行を積んできたから……,诶，也不是不满意……<br>虽然直到今天也一直在本地<br>做很多的修行训练……
+23,メグ/梅格,サメを持ってるそのふたりと<br>お互いのサメを賭けた戦いとか、<br>てっきりそういうのがあるのかと……,和带有鲨鱼的那两个人<br>赌上各自的鲨鱼对战，<br>我想一定会发生那样的事……
+24,ビィ/碧,よくそんなこと思いつくな……,亏你还能想到那种东西……
+25,ビィ/碧,でもよ、メグのおかげで<br>平和で済んだとも<br>考えられるんじゃねぇか？,但是啊，我觉得是托梅格你的福，<br>才平安无事的度过了哦？
+26,メグ/梅格,わ、私？<br>どうして……？,我、我？<br>为什么……？
+27,ルリア/露莉亚,魔物さんをやっつけたり、<br>ケンカを止めたりしたじゃないですか。,击退了魔物，<br>阻止了争吵不是吗。
+28,メグ/梅格,それはそうだけど……<br>そうなのかな……？,虽然是这样……<br>但只是那样……？
+30,メグ/梅格,え、私……？<br>私はなにもしてないよ。,诶、我……？<br>我什么都没有做啊。
+31,ビィ/碧,いや、そうでもねぇだろ。<br>ついさっきも魔物を倒したり、<br>ケンカを止めたりしたじゃねぇか。,不，不是的吧。<br>刚才不是打倒了魔物，<br>阻止了吵架吗。
+32,メグ/梅格,いや、でもそれは……<br>そう……なのかな？,啊、但是那个……<br>是……这样吗？
+33,ルリア/露莉亚,そうですよ。<br>自信を持ってください！,是的哦。<br>更加自信一点吧！
+37,メグ/梅格,でも……海の家でみんなと<br>ブルー・アウギュステ飲んだり……,但是……在海之家和大家一起<br>喝蓝·奥古斯提……
+41,メグ/梅格,ボール遊びしただけで、なにも……,只是一起玩排球，什么都没做……
+46,メグ/梅格,…………,…………
+47,メグ/梅格,<span class='scene-font-4'>…………あぁっ！！</span>,<span class='scene-font-4'>…………啊！！</span>
+48,ビィ/碧,<span class='scene-font-4'>うわっ！？</span><br>なんだよ、まだなにかあんのかぁ？,<span class='scene-font-4'>哇！？</span><br>怎么了，还有什么吗？
+49,メグ/梅格,い、いま気づいたんだけど……<br>私、初めて<span class='scene-font-place'>アウギュステ</span>で<br>ちゃんとバカンスしたかも……！,现、线在我才察觉到……<br>我第一次在<span class='scene-font-place'>奥古斯提</span>で<br>好好的度过假期……！
+50,まりっぺ,…………,…………
+51,メグ/梅格,そうだ……そうだよ……<br>これが子供の頃から憧れてた……<br><span class='scene-font-place'>アウギュステ</span>でのバカンスだよ！！,没错……没错啊……<br>这是我从小就憧憬的……<br><span class='scene-font-place'>奥古斯提</span>で的假期！！
+52,ビィ/碧,なに言ってんだぁ？<br>だからそう言ってるじゃねぇか……,你在说什么？<br>所以说我说的不是那个啊……
+53,メグ/梅格,ねぇまりっぺ、そうだよね？<br>今日、騎空団のみんなと過ごしたの……<br>バカンスだったよね！？,呐，玛丽丽，对不对？<br>今天，我和骑空团的大家一起度过的是……<br>假期对吧！？
+54,まりっぺ,よかったね、メグ。<br>小さい頃からの夢……叶ったね！,太好了，梅格。<br>小时候的愿望……实现了！
+55,メグ/梅格,<span class='scene-font-4'>うん！</span>,<span class='scene-font-4'>嗯！</span>
+56,,<span class='scene-font-katari'>涙ぐむまりっぺと</span><br><span class='scene-font-katari'>笑顔でうなずくメグを見て</span><br><span class='scene-font-katari'>姬塔達は首を傾げた。 <br></span>,<span class='scene-font-katari'>看到哭了的玛丽丽和</span><br><span class='scene-font-katari'>笑着点头的梅格</span><br><span class='scene-font-katari'>姬塔等人歪了头。 <br></span>
+57,ビィ/碧,なんなんだぁ？<br><span class='scene-font-place'>アウギュステ</span>はバカンスに<br>来るところだし、当然だよな……？,什么啊？<br>来<span class='scene-font-place'>奥古斯提</span>は当然是来休假的吧……？
+58,ルリア/露莉亚,よくわからないですけど……,虽然我没太听懂……
+59,ルリア/露莉亚,ふふふ、<br>メグさんもまりっぺさんも<br>嬉しそうでよかったです。,呼呼呼、<br>メ不管是梅格还是玛丽琳，<br>看起来都很高兴。
+60,,<span class='scene-font-katari'>数々の災難に見舞われ、</span><br><span class='scene-font-katari'>時に少女は幼い頃からの憧れを</span><br><span class='scene-font-katari'>嫌いになりかけたこともあった。</span>,<span class='scene-font-katari'>经历了许多灾难，</span><br><span class='scene-font-katari'>少女有时会讨厌/span><br><span class='scene-font-katari'>自己儿时的憧憬。</span>
+61,,<span class='scene-font-katari'>だが好きを諦めなかったことで</span><br><span class='scene-font-katari'>ついにとびきりのバカンスを</span><br><span class='scene-font-katari'>手にすることができたのだ。</span>,<span class='scene-font-katari'>但是正因为没有放弃喜欢</span><br><span class='scene-font-katari'>终于迎来了</span><br><span class='scene-font-katari'>难得 的假期。</span>
+66,メグ/梅格,<span class='scene-font-gray'>わたし、メグ！</span><br><span class='scene-font-gray'>どこにでもいるフツーの女の子！</span>,<span class='scene-font-gray'>我，梅格！</span><br><span class='scene-font-gray'>无论从哪看都是普通的女孩！</span>
+67,メグ/梅格,<span class='scene-font-gray'>だけど今日はちょっぴり特別なの☆</span><br><span class='scene-font-gray'>なんたって……</span>,<span class='scene-font-gray'>但是今天稍微有点特别☆</span><br><span class='scene-font-gray'>要说为什么……</span>
+68,メグ/梅格,<span class='scene-font-gray'>小さい頃から憧れてた</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-gray'>で</span><br><span class='scene-font-gray'>ついにバカンスができたんだもん♪</span>,<span class='scene-font-gray'>是小时候憧憬的在</span><span class='scene-font-place'>奥古斯提</span><span class='scene-font-gray'></span><br><span class='scene-font-gray'>度过假期终于实现了♪</span>
+69,,<span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>はいつもそこにある。</span><br><span class='scene-font-katari'>また次のシーズンも、そのまた先も</span><br><span class='scene-font-katari'>誰かの憧れの土地であり続ける。</span>,<span class='scene-font-place'>奥古斯提</span><span class='scene-font-katari'>一直在那里。</span><br><span class='scene-font-katari'>无论是下一个赛季还是下下个赛季，都将继续是大家憧憬的地方。</span>
+70,,<span class='scene-font-katari'>ずっと、ずっと……</span>,<span class='scene-font-katari'>一直、一直……</span>
+76,,<span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　　　　　　　　　　　　────fin.</span>,
+info,,,scene_evt200729_cp0_q2_s10
+译者,,,
