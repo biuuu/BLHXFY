@@ -306,7 +306,8 @@ body .cnt-order-box .cnt-btn-bottombox .btn-evolution:not(.disapprove)::after {
 .prt-enhance-button .btn-enhance {
   font-size: 0 !important;
 }
-.prt-enhance-button .btn-enhance::after {
+.prt-enhance-button .btn-enhance::after,
+.prt-follow-button-enhance .btn-follow-base.js-location-enhancement-base::after {
   content: "强化";
   font-size: 12px;
 }
