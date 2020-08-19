@@ -27,7 +27,7 @@ id,name,text,trans
 24,シルヴァ/席尔瓦,そうだな、気持ち良さそうだ。<br>私も一緒に行くよ。,是啊，看起来很舒服。<br>我也一起去。
 25,ククル/库库鲁,そう来なくっちゃ！<br>そんじゃクム坊、お店がどこにあるか<br>あの人に聞きに行こー！,就该这样！<br>那么小库姆，<br>我们去问问那个人店在哪吧！
 26,クムユ/库姆优,合点です！,了解！
-27,,<span class='scene-font-katari'>ククル達が質問しに行く間に、</span><br><span class='scene-font-katari'>姬塔達が食器を片付けるのを</span><br><span class='scene-font-katari'>少し離れた場所でダンが見守っていた。</span>,<span class='scene-font-katari'>库库鲁2人去问店的地方的时候，</span><br><span class='scene-font-katari'>丹在稍微离开一点的地方观察着姬塔等人收拾餐具。</span>
+27,,<span class='scene-font-katari'>ククル達が質問しに行く間に、</span><br><span class='scene-font-katari'>姬塔達が食器を片付けるのを</span><br><span class='scene-font-katari'>少し離れた場所でダンが見守っていた。</span>,<span class='scene-font-katari'>库库鲁2人去问店的地方的时候，</span><br><span class='scene-font-katari'>丹在稍微离开一点的地方</span><br><span class='scene-font-katari'>观察着姬塔等人收拾餐具。</span>
 28,ダン伯父さん/丹舅舅,<span class='scene-font-kokoro'>（お、飯は済んだのか。</span><br><span class='scene-font-kokoro'>どっか行くみたいだな……）</span>,<span class='scene-font-kokoro'>（噢，饭吃完了啊。好像要去哪……）</span>
 29,ダン伯父さん/丹舅舅,<span class='scene-font-kokoro'>（ううん、人が多いもんだから</span><br><span class='scene-font-kokoro'>隠れるにはいいけど</span><br><span class='scene-font-kokoro'>見失わないようにしねぇと……）</span>,<span class='scene-font-kokoro'>（嗯……人很多容易藏是很好，</span><br><span class='scene-font-kokoro'>不过得注意不要跟丢她们……）</span>
 30,マッサージ屋の店員の声,これはありがとうございます！<br>皆さん、お店までご案内しますね！,谢谢惠顾！<br>我带各位去店里！
@@ -85,7 +85,7 @@ id,name,text,trans
 110,,<span class='scene-font-katari'>シルヴァの怒鳴り声に、</span><br><span class='scene-font-katari'>ダンを捕まえていた男は</span><br><span class='scene-font-katari'>その手を放す。</span>,<span class='scene-font-katari'>听到席尔瓦的怒吼，</span><br><span class='scene-font-katari'>抓住了丹的男人放开手。</span>
 111,ダン伯父さん/丹舅舅,いてて……,好痛痛……
 112,シルヴァ/席尔瓦,ダン伯父さん、大丈夫ですか！？,丹舅舅，你没事吧！？
-113,ダン伯父さん/丹舅舅,お、おう！<br>あんまり怒らねぇでやってくれ、<br>しつこく頼んだおじさんが……,哦，喔！<br>你不要对他们生气，<br>是舅舅我烦他们……
+113,ダン伯父さん/丹舅舅,お、おう！<br>あんまり怒らねぇでやってくれ、<br>しつこく頼んだおじさんが……,哦，喔！<br>你不要对他们生气，<br>是大叔我烦他们……
 114,柄の悪い男,へぇ、マジで上玉だな。<br>……おい、裏から野郎共呼んできな！<br>こいつを逃す手はねぇ。,哦~还真是上等货。<br>……喂，把后门的小子们叫过来！<br>不能让她逃走。
 115,シルヴァ/席尔瓦,…………！,……！
 116,シルヴァ/席尔瓦,お前達、なんのつもりだ？,你们要做什么？
