@@ -1,0 +1,82 @@
+id,name,text,trans
+0-chapter_name,,第2話 メグ、白波を蹴立てる,第2话 梅格，破浪前行
+0-synopsis,,ホテルを訪れたメグは、昨年のお詫びとして支配人から一等地のベネーラビーチに招待される。現地ではコンシェルジュを務めるシェロカルテという人物がメグを待っており、海の家でもてなしを受けることに。そこには騎空団というものに所属しているという異様な従業員も複数いた。その後、店を出たメグはしつこいナンパ男に絡まれてしまうが、ふいに誰かの声がかかるのだった。,梅格来到了酒店后，等待她的酒店经理为了表示去年的歉意，将她招待到了一等度假胜地的金星海滩。担任接待员的榭洛科特早已在那等候着梅格，并带她到了海之家用了餐。在海之家里，有几名所属名为骑空团这一组织的奇怪服务员。在那之后，梅格离开了海之家，被喋喋不休的搭讪男缠上了，但就在那时，她突然听到了不知是谁的搭话声。
+1,ホテル支配人,メグ様！<br>お待ちしておりました……！<br>ご来館、ありがとうございます。,梅格大人！<br>我等您很久了……！<br>感谢您光临本馆。
+2,メグ/梅格,お久しぶりです、支配人さん。<br>今年もよろしくお願いします♪,好久不见了，经理先生。<br>今年也请多多指教啦♪
+3,ホテル支配人,昨年はあんなことになってしまったので<br>もうお越しいただけないのではないかと<br>思っておりましたが……,因为去年发生了那种事情<br>我还想着您可能不会再过来了……
+4,メグ/梅格,サク……ネン……？,去……年……？
+10,メグ/梅格,うっ……頭が……！,呜……我的头……！
+11,,<span class='scene-font-katari'>メグは突発的な頭痛に襲われ、</span><br><span class='scene-font-katari'>思わず両手で頭を押さえた。</span>,<span class='scene-font-katari'>突然一阵突发头痛袭来，</span><br><span class='scene-font-katari'>梅格不由得双手抱住了头。</span>
+12,ホテル支配人,だ、大丈夫ですか！？,您、您没事吧！？
+13,メグ/梅格,あ、いえ……<br>全然大丈夫です！<br>ちょっと艇に酔ったのかも……,啊、没事……<br>完全没问题！<br>可能是我有点晕船了……
+14,ホテル支配人,気が回らず、申し訳ございません……<br>やはり本館にお部屋を<br>ご用意した方がよさそうですね……,真是非常抱歉，我没能提前注意到……<br>果然还是先给您准备本馆的房间比较好……
+15,ホテル支配人,実は……メグ様を特別に<br>ご招待したいところがあったのですが、<br>体調不良でしたら仕方ありません。,但其实……我已经特别准备了款待梅格大人的地方，<br>但是您如今身体不适的话那实在是没有办法了。
+16,メグ/梅格,え、特別……？,诶，特别……？
+17,ホテル支配人,昨年のユディスティラ島の一件ですが、<br>メグ様にツアーをプレゼントした<br>私共にも責任の一端がございます。,就是去年在优蒂斯缇拉岛上的遭遇，<br>为梅格大人准备了那场旅程的我们也有一部分的责任。
+18,ホテル支配人,創業100万人目のお客様を<br>トラブルに巻き込ませてしまったこと、<br>申し開きのしようもございません。,让开业第100万名的客人<br>卷进了那种麻烦，<br>我们也是无法辩解。
+19,ホテル支配人,そのお詫びといってはなんですが……<br>ベネーラビーチにあるコテージへ<br>ご招待させていただこうと思い……,所以为了表示歉意……<br>我们准备了位于金星海滩的度假小屋来招待您……
+20,メグ/梅格,ベ、ベネーラビーチっていったら、<br><span class='scene-font-place'>アウギュステ</span>の一等地じゃないですか！,金、金星海滩，<br>这不是<span class='scene-font-place'>奥古斯提</span>的一等度假胜地吗！
+21,ホテル支配人,はい、メグ様には<br>まさにそのベネーラビーチで心ゆくまで<br>くつろいでいただくつもりでした。,是的，我们衷心希望梅格大人您<br>能在金星海滩尽情地放松自己。
+22,ホテル支配人,しかしながら、<br>ご気分がすぐれないようでしたら<br>やはりこの本館にお部屋を──,但是，<br>如果您身体不适的话<br>那还是为您准备在本馆的房间──
+23,メグ/梅格,<span class='scene-font-4'>行きます！</span><br>行きたいです、ベネーラビーチ！<br>船酔いなんてもう消えちゃいました！,<span class='scene-font-4'>我去！</span><br>我想去金星海滩！<br>我已经完全没有感觉晕船了！
+24,ホテル支配人,おぉ、それは安心しました……！<br>かしこまりました。<br>ではご案内させていただきます。,哦，那我就安心了……！<br>我明白了。<br>那么下面我先来为您带路。
+25,ホテル支配人,当ホテルの者ではございませんが、<br>現地ではコンシェルジュが<br>メグ様をお待ちしております。,虽然不是本酒店的工作人员，<br>但在当地，接待员已经在等候着梅格大人您了。
+26,ホテル支配人,用件は伝えておりますので、<br>なにかございましたらご遠慮なく<br>その者にお申しつけください。,您的到访我已经事先传达过去了，<br>所以有什么不明白的话，请不要客气<br>尽管吩咐接待员就好。
+27,,<span class='scene-font-katari'>こうしてメグは</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>の一等地、</span><br><span class='scene-font-katari'>ベネーラビーチへ向かうことに……</span>,<span class='scene-font-katari'>就这样，梅格</span><br>前往了<span class='scene-font-place'>奥古斯提</span><span class='scene-font-katari'>的一等度假胜地金星海滩……</span>
+28,,<span class='scene-font-katari'>メグは心を躍らせながら</span><br><span class='scene-font-katari'>現地を訪れるが、</span><br><span class='scene-font-katari'>彼女を待っていたのは小さな影だった。</span>,<span class='scene-font-katari'>梅格欢欣雀跃地来到了目的地，</span><br><span class='scene-font-katari'>但是，在那等候着她的是一个小小的人影。</span>
+34,？？？,お待ちしておりました～<br>メグ様ですね～,我一直在等候着您哦～<br>是梅格大人没错吧～
+35,メグ/梅格,えっと……え？<br>あなたがコンシェルジュさん？<br>お名前はたしか、シャロ……シュロ……,呃……诶？<br>你就是接待员吗？<br>我记得名字是叫，夏洛……修洛……
+36,シェロカルテ/榭洛科特,シェロカルテと申します～<br>メグ様がご宿泊されるホテルと<br>業務提携をしておりまして～,我叫榭洛科特～<br>我会为您提供住宿的酒店<br>还有各种业务的合作～
+37,メグ/梅格,えぇ……？<br>お、お父さんとお母さんはどこ？,诶……？你、你的爸爸还有妈妈在哪啊？
+38,シェロカルテ/榭洛科特,ふふふ～<br>こう見えてもシェロちゃんは、<br>メグ様よりも年長なんですよ～,呵呵呵～<br>您别看我这样，但我榭洛酱<br>可是要比梅格大人您还要年长呢～
+39,メグ/梅格,あ、もしかして……<br>シェロカルテさんはハーヴィン？,啊，难道说……<br>榭洛科特小姐你是哈文族的吗？
+40,メグ/梅格,ごめんなさい……<br>私の地元にはいないので、<br>つい失礼なことを……,对不起……<br>我不是本地人，<br>所以不小心说了些失礼的话……
+41,シェロカルテ/榭洛科特,いえいえ、お気になさらず～<br>ハーヴィンに会うのは初めてですか～？,没事没事，您不用在意～<br>您是第一次见到哈文族吗～？
+42,メグ/梅格,えっと、どうだろ……<br>去年も<span class='scene-font-place'>アウギュステ</span>に来たんですけど、<br>その時に見た……かも……？,呃，到底有没呢……<br>我去年也来了<span class='scene-font-place'>奥古斯提</span>，<br>在那时我好像……看到了……？
+43,メグ/梅格,うっ……すみません！<br>去年のことを思い出そうとすると<br>頭痛が……,呜……对不起！<br>一想到去年的事情<br>头痛就……
+44,シェロカルテ/榭洛科特,無理はいけませんよ～<br>昨年は大変だったそうで<br>支配人さんから聞いてますよ～,勉强自己可不好哦～<br>您去年好像是遇到了些麻烦事<br>我都从酒店经理那听说了～
+45,メグ/梅格,はぁ……ところで、<br>業務提携って言ってましたけど、<br>なにか別のことをされてるんですか？,哈……对了，你刚说了业务合作，<br>意思是你还有些别的工作吗？
+46,シェロカルテ/榭洛科特,ふだんはよろず屋なのですが～<br>今年からこのビーチで<br>海の家を開いたんですよ～,我平时是在经营着万事屋呢～<br>不过今年开始我在这个沙滩<br>开了一间海之家哦～
+47,メグ/梅格,そうだったんですか……<br>わたし、海の家って初めてです！<br>素敵なところですね！,是这样啊……<br>我也是第一次去海之家呢！真是很棒的地方啊！
+48,シェロカルテ/榭洛科特,メグ様には食べ放題飲み放題のプランで<br>おもてなしさせていただきますね～<br>といっても裏はないのでご安心を～,我已经为梅格大人您准备好了免费的无限量餐饮自助～<br>而且是没有隐含消费的请您放心～
+49,メグ/梅格,へ？　裏？,诶？隐含消费？
+50,シェロカルテ/榭洛科特,裏はなくてもおもてなし……うぷぷ……,虽然没有隐含消费，但这也确实是我提供的免费套餐哦……呵呵呵……
+51,シェロカルテ/榭洛科特,それではどうぞごゆるりと～,那么就请您尽情放松吧～
+57,,<span class='scene-font-katari'>ホテルのおもてなしによって</span><br><span class='scene-font-katari'>一等地のコテージで過ごせるだけでなく</span><br><span class='scene-font-katari'>海の家も使い放題であるという。</span>,<span class='scene-font-katari'>因为酒店的招待</span><br><span class='scene-font-katari'>梅格不仅可以在一等的度假胜地入住进度假小屋</span><br><span class='scene-font-katari'>还能享用到海之家的餐饮自助。</span>
+58,,<span class='scene-font-katari'>いくつか頼んでみた料理はどれも美味で</span><br><span class='scene-font-katari'>しかもおカネがかからないというから</span><br><span class='scene-font-katari'>文句などあるはずもないのだが……</span>,<span class='scene-font-katari'>点的几份料理都非常美味</span><br><span class='scene-font-katari'>而且也不用自己花钱</span><br><span class='scene-font-katari'>所以本应也没什么怨言的……</span>
+59,メグ/梅格,…………,…………
+60,メグ/梅格,<span class='scene-font-kokoro'>（なんだろう、</span><br><span class='scene-font-kokoro'>この海の家の店員さん達……</span><br><span class='scene-font-kokoro'>なんかフツーじゃないっていうか……）</span>,<span class='scene-font-kokoro'>（怎么回事，</span><br><span class='scene-font-kokoro'>感觉这个海之家里的店员……</span><br><span class='scene-font-kokoro'>每一个都很不普通啊……）</span>
+65,メグ/梅格,<span class='scene-font-kokoro'>（どの店員さんも丁寧だけど……</span><br><span class='scene-font-kokoro'>目つきヤバいっていうか……</span><br><span class='scene-font-kokoro'>カタギに見えないっていうか……）</span>,<span class='scene-font-kokoro'>（虽然不管哪个都很有礼貌……</span><br><span class='scene-font-kokoro'>不过总觉得他们的眼神很犀利……</span><br><span class='scene-font-kokoro'>还有感觉看上去不是很正经啊……）</span>
+66,,<span class='scene-font-katari'>店内はにぎわっていたが、</span><br><span class='scene-font-katari'>メグはひとりということもあり、</span><br><span class='scene-font-katari'>店員の纏う雰囲気がやけに気になった。</span>,<span class='scene-font-katari'>虽然店里是挺热闹的，</span><br><span class='scene-font-katari'>但也有梅格现在是只身一人的原因，</span><br><span class='scene-font-katari'>她现在尤其在意店员散发出的气场。</span>
+67,メグ/梅格,あ、あの……シェロカルテさん。<br>ちょっといいですか？,那、那个……榭洛科特小姐。<br>能稍稍问你点事吗？
+68,シェロカルテ/榭洛科特,はい～、どうされましたか～？,好的～，您有什么事吗～？
+69,メグ/梅格,ここの店員さんってなんていうか、<br>とっても個性的というか……<br>本当に海の家が本業？　って感じが……,就是这里的店员啊，<br>感觉非常有个性……<br>在海之家工作真的是他们的本职吗？
+70,シェロカルテ/榭洛科特,いえいえ～<br>みなさんはある騎空団に<br>所属してらっしゃる方なんですよ～,不是哦～<br>他们都是所属某个骑空团的人哦～
+71,メグ/梅格,きくうだん……？,QiKongTuan……？
+72,シェロカルテ/榭洛科特,よろず屋のお得意様でして～<br>いまはこの店のお手伝いを<br>していただいているんですよ～,他们都是我万事屋的老顾客～<br>现在都在这个店里帮我的忙哦～
+73,,<span class='scene-font-katari'>するとシェロカルテと入れ違いに</span><br><span class='scene-font-katari'>青い髪の店員がやってきた。</span>,<span class='scene-font-katari'>然后，从榭洛科特的旁边</span><br><span class='scene-font-katari'>一个蓝发店员走了过来。</span>
+74,青い髪の店員,お待たせしました～！<br>炎獄焼きです！,您久等了～！<br>这是您点的炎狱烧！
+75,メグ/梅格,炎獄焼き……？<br>えっと、あれ……？,炎狱烧……？<br>呃，诶……？
+76,店員？/店员？,"おい、ルリア！<br>その嬢ちゃんが頼んだのは<br>こっちのジュースじゃねぇか？ ","喂，露莉亚！<br>那位小姐点的<br>不是这杯饮料吗？"
+77,メグ/梅格,ひっ……！？,咿……！？
+78,青い髪の店員,はわわっ！<br>間違えちゃいました！<br>ご、ごめんなさい……！,哈哇哇！<br>我搞错了！<br>对、对不起……！
+79,店員？/店员？,ワリィな～、嬢ちゃん！<br>ゆっくりしてってくれよな！<br>ほら、注文してたジュースだぜ！,小姐，抱歉啊～<br>让您久等了！<br>这是您点的果汁！
+80,メグ/梅格,あ、はぁ……どうも……<br><span class='scene-font-kokoro'>（トカゲがジュース</span><br><span class='scene-font-kokoro'>持ってきたんだけど！）</span>,啊，哈……谢谢……<br><span class='scene-font-kokoro'>（不过果汁</span><br><span class='scene-font-kokoro'>是个蜥蜴给我送过来的啊！）
+86,,<span class='scene-font-katari'>個性的な店員に気圧されたメグは</span><br><span class='scene-font-katari'>早々に食後のジュースを飲み干すと、</span><br><span class='scene-font-katari'>海の家を出てビーチを歩くことにした。</span>,<span class='scene-font-katari'>被充满个性的店员们的气场震慑住的梅格</span><br><span class='scene-font-katari'>赶紧喝完了饭后的饮料，</span><br><span class='scene-font-katari'>离开了海之家，决定到沙滩散散步。</span>
+87,メグ/梅格,はぁ……<span class='scene-font-place'>アウギュステ</span>ってすごい。<br>いろんな人が集まるんだなぁ……<br>人じゃなかったかもしれないけど……,哈……<span class='scene-font-place'>奥古斯提</span>真是不得了啊。<br>会那么多的人在……<br>不过可能有些说不定不是人……
+88,,<span class='scene-font-katari'>気分を変えるため</span><br><span class='scene-font-katari'>海を眺めようとしたメグに</span><br><span class='scene-font-katari'>背後から声をかける者が現れた。</span>,<span class='scene-font-katari'>为了转换心情，</span><br><span class='scene-font-katari'>梅格来到了海边，眺望大海，</span><br><span class='scene-font-katari'>就在那时一个人从她身后向她搭话了。</span>
+89,ナンパ男,おじょ～ちゃん♪<br>おひとり様ですか～？,小姐～♪<br>你是一个人吗～？
+90,メグ/梅格,え？<br>そうですけど……,诶？<br>是啊……
+91,ナンパ男,奇遇じゃ～ん！<br>オレもひとりなんだけど、<br>一緒に<span class='scene-font-place'>ギュステ</span>デートしな～い？,那可真是奇遇啊～！<br>我也是一个人啊，<br>让我们一起在<span class='scene-font-place'>奥古斯提</span>约会吧～？
+92,メグ/梅格,えっと……<br><span class='scene-font-kokoro'>（これってもしかして……</span><br><span class='scene-font-kokoro'>ナンパってヤツ……？）</span>,呃……<br><span class='scene-font-kokoro'>（这难道就是……</span><br><span class='scene-font-kokoro'>搭讪吗……？）</span>
+93,メグ/梅格,<span class='scene-font-kokoro'>（人生初のナンパ！</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-kokoro'>効果かな！？</span><br><span class='scene-font-kokoro'>でも……）</span>,<span class='scene-font-kokoro'>（人生第一次的搭讪</span><br><span class='scene-font-kokoro'>是因为我在</span><span class='scene-font-place'>奥古斯提</span><span class='scene-font-kokoro'>有的效果吗！？</span><br><span class='scene-font-kokoro'>但是……）</span>
+94,ナンパ男,ねぇ、いいでしょ～？,喂，可以吧～？
+95,メグ/梅格,<span class='scene-font-kokoro'>（白馬の王子様にはほど遠い……</span><br><span class='scene-font-kokoro'>金髪じゃないし、</span><br><span class='scene-font-kokoro'>なんか人相も悪いんだけど……）</span>,<span class='scene-font-kokoro'>（这和我心目中的白马王子比，差的有点远啊……</span><br><span class='scene-font-kokoro'>既不是金发，</span><br><span class='scene-font-kokoro'>而且面相也好可怕……）</span>
+96,メグ/梅格,えーっと……<br>ご、ごめんなさい。<br>遠慮しときます……！,呃……<br>不、不好意思。<br>我不太方便……！
+97,ナンパ男,まぁまぁ、そんなこと言わずにさ！<br>とりあえずそこの海の家でも行こうよ！,哎呀哎呀，别说那种话嘛！<br>总之我们先一起去那边的海之家吧！
+98,,<span class='scene-font-katari'>男はそう言うと、</span><br><span class='scene-font-katari'>メグの腕をつかみ、</span><br><span class='scene-font-katari'>強引に引っ張り始めた。</span>,<span class='scene-font-katari'>男人说完，</span><br><span class='scene-font-katari'>就抓住了梅格的手臂，</span><br><span class='scene-font-katari'>想强行把她拉走。
+99,メグ/梅格,痛っ……は、離してください……！<br>あと、そこの海の家は<br>変なトカゲがいるのでどうかと……,好痛……请、请你松手……！<br>还有，那边的海之家<br>有一个奇怪的蜥蜴，所以还请你……
+100,,<span class='scene-font-katari'>男はメグの訴えなど</span><br><span class='scene-font-katari'>まったく聞いていない様子だが、</span><br><span class='scene-font-katari'>近くでむくりと起き上がる影が言った。</span>,<span class='scene-font-katari'>看样子</span><span class='scene-font-katari'>男人好像没有听进去梅格的请求，</span><br><span class='scene-font-katari'>但就在那时旁边突然出现了一个人影，发出了声音。</span>
+101,？？？,これ、そこの者。<br>待たぬか。,喂，那边的人。<br>你给我等等。
+info,,,scene_evt200729_cp2_q2_s10
+译者,,,Van

@@ -1,0 +1,52 @@
+id,name,text,trans
+0-chapter_name,,第2話 メグ、白波を蹴立てる,第2话 梅格，破浪前行
+0-synopsis,,去年の分を取り返そうという思いから、メグはひとけのないビーチを散策していた。そこへアニラの声が聞こえる。しかし岩陰から顔を出してみると、またも巨大魚が出現。アニラは騎空団という仲間と共にその魚と戦っていたのだ。腰を抜かしたメグは引き返そうとするが、別の巨大魚に襲われてしまう。アウギュステはもうこりごりだと思いながら、メグの意識は薄れていった。,想着要把去年的那一份都玩回来，梅格在没有人的沙滩上散着步。就在那时，她听到了阿妮拉的声音。但是，她从岩石后面窥了一眼后，突然一条巨大的鱼又出现在了她的眼前。原来阿妮拉正和她的骑空团的朋友一起在和那条鱼战斗。梅格被吓得浑身瘫软，正当她想逃跑的时候，另一条巨大的鱼又向她袭来。一边想着自己再也受不了奥古斯提，梅格的意识逐渐远去了。
+1,メグ/梅格,わはぁ～！ <br>この辺もきれいだなぁ～,哇哈～！ <br>这一带也很漂亮呢～！ 
+2,メグ/梅格,人も少ないし、<br>プライベートビーチみたいに<br>使えちゃったりして♪,人也很少，<br>就像是在享受着私人海滩一样呢♪
+3,,<span class='scene-font-katari'>不幸な出来事に遭った去年の分を</span><br><span class='scene-font-katari'>取り返そうという気持ちからか、</span><br><span class='scene-font-katari'>この日、メグは散策を楽しんでいた。</span>,<span class='scene-font-katari'>像是要把去年遭遇不幸的那一份</span><br><span class='scene-font-katari'>都玩回来，</span><br><span class='scene-font-katari'>这天，梅格在享受着她的海滩漫步。</span>
+4,,<span class='scene-font-katari'>そこへふと聞こえてきたのは……</span>,<span class='scene-font-katari'>就在那时，她听到了某人的声音……</span>
+8,？？？,そっち行ったぞ！,它去那边了！
+9,？？？,気をつけてください、アニラさん！,阿妮拉，你要小心啊！
+10,？？？,まかせるがよい！,就交给我吧！
+11,メグ/梅格,いまの声って……アニラさん？,刚才的声音……是阿尼拉？
+13,アニラ/阿妮拉,くふふ！<br>実に楽しませてくれるのう！,哦呵呵！<br>还真是让人愉悦啊！
+14,メグ/梅格,<span class='scene-font-kokoro'>（やっぱりアニラさんの声だ ……！</span><br><span class='scene-font-kokoro'>今日もアニラさんと</span><br><span class='scene-font-kokoro'>お話しできたらいいな）</span>,<span class='scene-font-kokoro'>（果然那是阿妮拉的声音啊……！</span><br><span class='scene-font-kokoro'>要是今天也能和阿妮拉说上话就好了）</span>
+15,メグ/梅格,アニラさ～ん！,阿妮拉～！
+16,,<span class='scene-font-katari'>岩陰の向こうにアニラがいるとわかり、</span><br><span class='scene-font-katari'>喜び勇んでメグが身を乗り出すと……</span>,<span class='scene-font-katari'>知道阿妮拉在岩石的对面后，</span><br><span class='scene-font-katari'>梅格高高兴兴向岩石的另一侧探出了身子……</span>
+17,？？？,…………！,…………！
+18,メグ/梅格,<span class='scene-font-4'>ほんぎゃああああぁぁぁッ！？</span>,<span class='scene-font-4'>哇呀啊啊啊啊啊啊啊！？</span>
+19,アニラ/阿妮拉,む？<br>メグっ子ではないか。<br>こんなところでなにをしておる？,嗯？<br>这不是梅格子嘛。<br>你在这儿做些什么呢？
+20,メグ/梅格,あ、あああ、あわわばばばば……<br>ささ、魚……<br>アル、アル……アルバコア……,啊，啊啊啊，啊啊啊吧吧吧吧……<br>是鱼、鱼……<br>长、长……长鳍金枪鱼……
+21,？？？,…………！,…………！
+22,,<span class='scene-font-katari'>好き勝手に暴れる巨大な魚は、</span><br><span class='scene-font-katari'>それを取り囲む者達と</span><br><span class='scene-font-katari'>戦闘を繰り広げているようだった。</span>,<span class='scene-font-katari'>一条巨大的鱼恣意妄为地在沙滩大闹，</span><br><span class='scene-font-katari'>现在好像正在和包围着它的人在战斗着。</span>
+23,アニラ/阿妮拉,これはアルバコアではない。<br>カツウォヌスという名の<br>極めて力強い魚らしいな。,这不是长鳍金枪鱼哦。<br>它叫鲣鱼，<br>好像是一种非常强大的鱼啊。
+24,アニラ/阿妮拉,モドリカツウォヌスは制したものの、<br>まだこやつらが海沿いに現れて<br>我らも困っておってのう。,虽然是把仇鲣鱼制服了，<br>但现在沿海又出现了鲣鱼<br>我们也很是困扰啊。
+25,アニラ/阿妮拉,故にこうして警戒しておるのじゃ。<br>メグっ子も気をつけるがよい。,所以我们现在这么警戒着啊。<br>梅格子你也要小心哦。
+26,アニラ/阿妮拉,<span class='scene-font-4'>はぁっ！！</span>,<span class='scene-font-4'>哈！！</span>
+27,カツウォヌス,…………！,…………！
+29,,<span class='scene-font-katari'>暴れる巨大魚に</span><br><span class='scene-font-katari'>アニラが強烈な一撃を放つと、</span><br><span class='scene-font-katari'>その衝撃で一帯に水しぶきがあがった。</span>,<span class='scene-font-katari'>阿妮拉向狂暴着的巨大鱼</span><br><span class='scene-font-katari'>送上了强烈的一击，</span><br><span class='scene-font-katari'>伴随的冲击，带起了一片水花。</span>
+30,メグ/梅格,ア、アニラさんは……<br>ここにいるみなさんは……<br>何者なんですか……？,阿、阿妮拉……<br>还有在这里的人……<br>都是些什么来头啊……？
+31,アニラ/阿妮拉,我らは騎空団じゃ。,我们是骑空团啊。
+32,メグ/梅格,きくうだん……,QiKongTuan……
+33,アニラ/阿妮拉,メグっ子よ、<br><span class='scene-font-place'>アウギュステ</span>に憧れて<br>ここへ来たと言っておったな。,梅格子啊，<br>你说你是憧憬着<span class='scene-font-place'>奥古斯提</span>才来的这儿的吧。
+34,アニラ/阿妮拉,大切なものを守るためなら、<br>時に脅威に立ち向かう気概を<br>持つことも肝要じゃぞ。,如果是要保护最重要的东西的话，<br>时刻心怀能面对各种威胁的气概<br>这是很重要的哦。
+35,メグ/梅格,立ち向かうって……わたしが！？,面对威胁……你说我！？
+36,アニラ/阿妮拉,そういう道もある。<br>愛すべきものとは<br>すなわち守るべきものじゃ。,那种路也是有的啊。<br>心爱之物<br>换句话说，也就是需要保护之物啊。
+37,メグ/梅格,ム、ムリムリムリムリ……<br>無理ですよぉ～……,不、不行不行不行不行……<br>我做不到的啊～……
+38,メグ/梅格,<span class='scene-font-kokoro'>（アニラさんがなに言ってるのか</span><br><span class='scene-font-kokoro'>全然わかんないけど、</span><br><span class='scene-font-kokoro'>とにかく逃げなきゃ……！）</span>,<span class='scene-font-kokoro'>（虽然不知道阿妮拉</span><br><span class='scene-font-kokoro'>是在说些什么，</span><br><span class='scene-font-kokoro'>总之我现在得赶紧逃啊……！）</span>
+39,,<span class='scene-font-katari'>半ば腰を抜かしていたものの、</span><br><span class='scene-font-katari'>メグはどうにか這いつくばって</span><br><span class='scene-font-katari'>来た道を戻ろうとするが……</span>,<span class='scene-font-katari'>梅格虽被吓得浑身瘫软，</span><br><span class='scene-font-katari'>但她以爬在地上的匍匐姿态</span><br><span class='scene-font-katari'>想要按原路爬回住处……</span>
+40,アニラ/阿妮拉,あ、これ！<br>うかつに動くでない！,啊、喂！<br>你这个样子太不谨慎了！
+41,メグ/梅格,え？,诶？
+43,,<span class='scene-font-katari'>メグが戻ろうとした方向から</span><br><span class='scene-font-katari'>別のカツウォヌスが海面から飛び出し、</span><br><span class='scene-font-katari'>地面で大きく跳ねた。</span>,<span class='scene-font-katari'>突然，就在梅格要回去的方向</span><br><span class='scene-font-katari'>另一条鲣鱼又从海面上飞出，</span><br><span class='scene-font-katari'>在地面上大幅弹跳了起来。</span>
+44,カツウォヌス,…………！,…………！
+45,,<span class='scene-font-katari'>そしてカツウォヌスの尾びれは</span><br><span class='scene-font-katari'>宙に大きな弧を描き、</span><br><span class='scene-font-katari'>メグの顔面を叩いたのだった。</span>,<span class='scene-font-katari'>然后鲣鱼进行了一个甩尾，</span><br><span class='scene-font-katari'>在空中划出了一道巨大的弧线，</span><br><span class='scene-font-katari'>就这么打到了梅格的脸上。</span>
+46,メグ/梅格,<span class='scene-font-4'>へぶっ……！？</span>,<span class='scene-font-4'>啊呜……！？</span>
+47,アニラ/阿妮拉,メグっ子！,梅格子！
+48,メグ/梅格,きゅ～……,我晕～……
+51,アニラ/阿妮拉,"メグっ子～！<br>気を確かに持つんじゃ～！ ","梅格子～！<br>你要坚持住啊～！"
+55,,<span class='scene-font-katari'>薄れゆく意識の中、</span><br><span class='scene-font-katari'>アニラの声と波の音を聞き、</span><br><span class='scene-font-katari'>メグはこう思った。</span>,<span class='scene-font-katari'>朦胧的意识中，</span><br><span class='scene-font-katari'>梅格听到了阿妮拉的呼唤还有波涛声，</span><br><span class='scene-font-katari'>她这么想着。</span>
+58,メグ/梅格,トホホ……<br><span class='scene-font-place'>アウギュステ</span>はもうこりごりだ～……,晕乎乎……<br><span class='scene-font-place'>奥古斯提</span>，我以后再也不想来了～……
+59,,<span class='scene-font-katari'>メグは意識を失い、</span><br><span class='scene-font-katari'>次に目覚めた時は</span><br><span class='scene-font-katari'>丸一日が経過していた。</span>,<span class='scene-font-katari'>梅格随即失去了意识，</span><br><span class='scene-font-katari'>等她醒来的时候</span><br><span class='scene-font-katari'>已经是整整一天之后的事了。</span>
+63,,<span class='scene-font-katari'>以降、帰郷の日が来るまで</span><br><span class='scene-font-katari'>メグは二度と海に近づかず、</span><br><span class='scene-font-katari'>街で怯えるように過ごしたという。</span>,<span class='scene-font-katari'>那之后，直到启程回家之前，</span><br><span class='scene-font-katari'>梅格再也没有去过到海边</span><br><span class='scene-font-katari'>就这么在街上心惊胆战地度过了剩下的假期。</span>
+info,,,scene_evt200729_cp2_q4_s10
+译者,,,Van

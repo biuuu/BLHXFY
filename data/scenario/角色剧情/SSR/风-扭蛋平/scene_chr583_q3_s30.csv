@@ -1,0 +1,58 @@
+id,name,text,trans
+0-chapter_name,,恐竜探偵ガチャピンの推理,恐龙侦探扭蛋平的推理
+0-synopsis,,洞窟内に潜んでいた黒ムックを発見し、退治した姬塔一行。村人達は真犯人を目にし、
+ムックを犯人扱いしてしまったことを謝罪するのだった。こうして一件落着と思われたが、ムックは無断で食料を貪ったことを一行に告白し謝罪する。それを聞き、一行は自分達も同じことをしたことがあると、その謝罪を受け入れるのだった。,一行人在洞窟里发现了躲藏着的黑木克，并将其退治了。村人们看到了真正的犯人后，为自己把木克当作犯人的一事谢罪了。虽然这事就此告一段落，但这时木克为他的擅自偷吃向一行人坦白谢罪了。听到了这么说的木克，一行人表示自己也做过同样的事，并接受了他的谢罪。
+1,,<span class='scene-font-katari'>村人達は、姬塔一行が</span><br><span class='scene-font-katari'>退治した黒ムックを見て、</span><br><span class='scene-font-katari'>驚きを隠せないでいた。</span>,<span class='scene-font-katari'>村人们看到了姬塔一行人退治的黑木克后，</span><br><span class='scene-font-katari'>惊愕之情溢于言表。</span>
+2,怒っている村人,は、はは……まさか本当に<br>黒いモジャモジャの毛のヤツが<br>いたとはな……,哈、哈哈……没想到<br>真的有一个黑色的毛乱蓬蓬的家伙在啊……
+3,冷静な村人,ムックくんと言ったね。<br>すまなかった。<br>僕らは見当違いをしていたようだ。,你是叫木克吧。<br>对不起。<br>看来是我们搞错了。
+4,ムック,いえいえ～<br>わかってもらえればいいんですよ～,没事没事～<br>你们理解了就最好了～
+5,ルリア/露莉亚,でも、畑は残念でしたね……,但是，田里真的太可惜了……
+6,冷静な村人,ははっ、長らく農家をやっていれば<br>こんなこともあるさ。<br>大丈夫。みんなでもう１度耕すよ。,哈哈，种了那么多年的地，<br>碰到这种事也是难免的。<br>没事。我们再耕一次就好了。
+7,怒っている村人,ああ！<br>こんなことでへこたれるほど、<br>俺達はやわじゃないからな！,啊啊！<br>怎能因为这种事情被打倒，<br>我们也不是吃干饭的啊！
+8,,<span class='scene-font-katari'>こうして、姬塔一行は</span><br><span class='scene-font-katari'>村人達に見送られ、</span><br><span class='scene-font-katari'>空に向かって飛び立つのだった。</span>,<span class='scene-font-katari'>就这样，姬塔一行人</span><br><span class='scene-font-katari'>在村民们的目送下，</span><br><span class='scene-font-katari'>再次踏上了前往天空的旅途。</span>
+14,ムック,…………,
+15,ガチャピン/扭蛋平,ねぇ、ムックー<br>もう疑いは晴れたんだよ？<br>なのに暗い顔してどうしたのー？,喂，木克<br>你的嫌疑都被洗清了啊？<br>怎么还一脸阴阴沉沉的啊？
+16,ムック,あの～……<br>実は姬塔さんをはじめ、<br>みなさんに謝りたいことがあるんです。,那个啊～……<br>其实我有事想向姬塔，<br>还有大家谢罪的。
+17,ビィ/碧,うん？<br>黒ムックが悪さをしたのは、<br>ムックのせいじゃねーぞ？,嗯？<br>那是黑木克的错吧，<br>和木克你没关系啊？
+18,ムック,いえ、そうではなくてですね……,不是，不是那件事……
+19,,<span class='scene-font-katari'>ムックは神妙な顔つきで、</span><br><span class='scene-font-katari'>姬塔一行を見据える。</span>,<span class='scene-font-katari'>木克一脸老实的样子，</span><br><span class='scene-font-katari'>注视着姬塔一行人。</span>
+20,ムック,昨日の夜、わたくし……<br>お腹が空き過ぎましてね、<br>食堂に忍び込んでしまったんです……,昨天晚上，我……<br>肚子太饿了，<br>偷偷跑到了食堂……
+21,ムック,それでその……みなさんの大事な食料を<br>勝手に食べてしまいまして……<br>本当にごめんなさい。,然后……我擅自吃了大家宝贵的食物……<br>真是非常对不起。
+21-sel1_txt,,<span class='scene-font-katari'>許さない！</span>,<span class='scene-font-katari'>不可饶恕！</span>
+21-sel2_txt,,<span class='scene-font-katari'>あははっ！</span>,<span class='scene-font-katari'>啊哈哈！</span>
+23,ムック,<span class='scene-font-4'>ごめんなさい！</span><br>お怒りはごもっともでして……<br>どんな罰でも受けるつもりです～,<span class='scene-font-4'>对不起！</span><br>你会生气也是当然的……<br>无论是什么惩罚我都接受的～
+24,,<span class='scene-font-katari'>姬塔一行は</span><br><span class='scene-font-katari'>互いに視線を交わし、</span><br><span class='scene-font-katari'>真摯に頭を下げるムックを受け入れる。</span>,
+<span class='scene-font-katari'>姬塔一行人</span><br><span class='scene-font-katari'>互相交换了视线，</span><br><span class='scene-font-katari'>接受了扭蛋平真挚的道歉。</span>
+25,ムック,…………,…………
+26,ビィ/碧,おいおい、ムック～<br>顔をあげて<br>姬塔の顔を見てみろって！,喂喂，木克～<br>抬起头来啊<br>快看看姬塔的脸！
+28,ムック,へ？<br>あ……わ、笑ってます……<br>え！？　でも、許さないって……,诶？<br>啊……在、在笑……<br>诶！？  但是，刚才不是说不可饶恕了……
+29,ビィ/碧,へへっ！<br>悪戯好きの姬塔に<br>からかわれたんだよ。,嘿嘿！<br>你是被喜欢开玩笑的姬塔捉弄了啊。
+31,ムック,へ？　えっと、その……<br>なんで笑うんですか？<br>わたくしは悪事を働いたのですぞ！？,诶？ 呃，那个……<br>为什么在笑啊？<br>我可是做了坏事啊！？
+32,ルリア/露莉亚,その……<br>ちょっと恥ずかしい話なんですけどね。,那个……<br>虽然很不好意思说出口。
+33,ルリア/露莉亚,実は私達も<br>食堂に忍び込んだことがあるんです。,其实<br>我们都有去食堂偷吃过。
+34,ムック,え、ええっ？<br>みなさんもですかぁ～？,呃，诶诶？<br>大家都去过吗～？
+35,ビィ/碧,まぁな！　って……<br>自信満々に言っていいモンか<br>わかんねーけどよ。,是啊！ 不过……<br>这是能一脸自信地说出口的话吗<br>我真是搞不懂。
+36,ルリア/露莉亚,だからなんていうか……<br>ムックさんの気持ちも<br>わかるなと思って。,所以该怎么说呢……<br>我感觉，也能理解木克的心情呢。
+37,ムック,ほえ～……あ、でもでも、<br>新参者のわたくしがやるのと<br>みなさんとでは話が違うのでは……？,诶～……啊，但是但是，<br>我这个新入团的人去偷吃<br>和大家的情况不一样啊……？
+38,ビィ/碧,こうして謝ってくれたんだしよ、<br>もう気にすんなって！<br>なぁ姬塔！,你都这样跟我们道歉了，<br>所以就不要再多想了！<br>是吧，姬塔！
+39,,<span class='scene-font-katari'>姬塔はにっこり笑い、</span><br><span class='scene-font-katari'>ムックの肩をポンと叩く。</span>,<span class='scene-font-katari'>姬塔一脸微笑，</span><br><span class='scene-font-katari'>拍了拍木克的肩膀。</span>
+40,ムック,なな、なんとお優しい……<br>ありがとうございます、みなさん！,这这、这真是太温柔了……<br>谢谢大家！
+41,ガチャピン/扭蛋平,うふふ、よかったねムック！,呵呵，太好了，木克！
+42,ムック,はい～、ホッとしましたぞ～,嗯～，松了一口气啊～
+43,ガチャピン/扭蛋平,いやぁ、でもー<br>食堂に忍び込んだ犯人が<br>ムックだったってことはさー,哎呀，但是～没想到偷跑进食堂的犯人<br>竟然是木克。
+44,ガチャピン/扭蛋平,ぼくの推理が<br>当たってたってことでしょ？,那说明我的推理没有错吧？
+45,ガチャピン/扭蛋平,ふふっ、<br>もしかしてぼく、<br>名探偵の素質があるんじゃないかなぁ。,呵呵，<br>难道说我有一个当名侦探的资质啊。
+46,ムック,いやいや、ガチャピン。<br>確かにそうかもしれませんが、<br>いまは喜ぶところじゃありませんぞ～,哎呀呀，扭蛋平。<br>确实可能是像你说的那么一回事，<br>但现在不是该高兴的时候哦～
+47,ガチャピン/扭蛋平,ええー？<br>だってー<br>犯人を当てたんだよ、すごくなぁい？,诶诶？<br>但是<br>你可是说中了我是犯人啊，这不是很厉害吗？
+48,,<span class='scene-font-katari'>ガチャピンとムックのやり取りを</span><br><span class='scene-font-katari'>穏やかな表情で見つめる</span><br><span class='scene-font-katari'>姬塔一行。</span>,
+<span class='scene-font-katari'>姬塔一行人一脸恬静地注视着扭蛋平和木克的对话。</span>
+50,,<span class='scene-font-katari'>だがそのとき、</span><br><span class='scene-font-katari'>グ～ッというお腹の音が</span><br><span class='scene-font-katari'>幾重にも重なり愉快に鳴り響く。</span>,<span class='scene-font-katari'>但就在那时，</span><br><span class='scene-font-katari'>不知是谁肚子发出的咕～的一声，</span><br><span class='scene-font-katari'>之后此起彼伏，形成一波又一波快乐的旋律。</span>
+51,ルリア/露莉亚,はわわ……,哈哇哇……
+52,ビィ/碧,へへっ！,嘿嘿！
+53,ムック,あら、あらあら～……,哎呀，哎呀哎呀～……
+54,ガチャピン/扭蛋平,うふふ、ねぇ姬塔ー<br>この騎空団には食いしん坊さんが<br>たくさんいるみたいだね～,呵呵，姬塔<br>看来这个骑空团里真的很有贪吃鬼啊～
+56,,<span class='scene-font-katari'>お腹を鳴らしたビィ、ルリア、ムックは</span><br><span class='scene-font-katari'>互いを見やると頬を赤らめ、</span><br><span class='scene-font-katari'>照れ臭そうに微笑む。</span>,<span class='scene-font-katari'>肚子叫起来的碧、露莉亚和木克，</span><br><span class='scene-font-katari'>互相看向了对方，脸都变得红彤彤的，</span><br><span class='scene-font-katari'>一脸羞涩地笑了起来。</span>
+62,,<span class='scene-font-katari'>穏やかな空気が一行を包み込む中、</span><br><span class='scene-font-katari'>騎空艇は一路、次なる目的地に向かって</span><br><span class='scene-font-katari'>空を駆けるのだった。</span>,
+<span class='scene-font-katari'>一行人就这么被安稳的气氛感染着，</span><br><span class='scene-font-katari'>乘着骑空艇，飞向了他们的</span><br><span class='scene-font-katari'>下一个目的地。</span>
+info,,,scene_chr583_q3_s30
+译者,,,Van
