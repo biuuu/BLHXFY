@@ -1,0 +1,105 @@
+id,name,text,trans
+0-chapter_name,,第6話 反乱軍、あるいは傭兵ギルド,反叛军，或者是佣兵公会
+0-synopsis,,反乱軍とエルステ王国軍の戦いが始まるも、戦況は明らかに反乱軍の旗色が悪い。そんな中、ひとり斥候に出て王国軍の様子を窺うスツルムに、ドランクが合流する。ドランクはスツルムがやろうとしていることを察し、手伝いにきたという。迷いのないスツルムの様子に、初めて出会ったときのことを思い出したドランクは、スツルムへの敬慕の念を改めて感じるのだった。,叛乱军和埃尔斯特王国军的战斗开始了，但是战况明显是叛乱军的形势不好。这时，斯特姆作为斥候一个人去侦察王国军的情况，与德朗克汇合。德朗克察觉到了斯特姆要做的事情，跑来帮忙。对于毫不犹豫的斯特姆的样子，德朗克想起了第一次见面时的事情，再次感受到了对斯特姆的敬慕。
+1,反乱軍兵士１,っ、ダメだ！<br>とても攻め込めない！,嘶，不行了！<br>怎么也攻不进去！
+2,,<span class='scene-font-katari'>スツルムとアギエルバを含む</span><br><span class='scene-font-katari'>反乱軍は、</span><span class='scene-font-place'>アガスティア</span><span class='scene-font-katari'>の郊外で</span><br><span class='scene-font-katari'>エルステ王国軍とぶつかっていたが……</span>,<span class='scene-font-katari'>包括斯特姆和艾奇尔巴在内的反叛军</span><br><span class='scene-font-katari'>在</span><span class='scene-font-place'>阿加丝提亚</span><span class='scene-font-katari'>的郊外</span><br><span class='scene-font-katari'>与埃尔斯特王国军交战……</span>
+4,反乱軍兵士２,王国軍の奴ら、防備がぶ厚すぎる……！<br>このまま繰り返しても<br>こちらが疲弊するだけです！,王国军的那些家伙，防备太严密了……！<br>这样持续下去<br>只会让我方变得疲惫而已！
+5,反乱軍兵士１,クッ……一度立て直すぞ！<br>退却ーっ！,可恶……<br>调整军势！<br>后撤——！
+6,,<span class='scene-font-katari'>戦況は明らかに</span><br><span class='scene-font-katari'>反乱軍の旗色が悪かった。</span>,<span class='scene-font-katari'>战况很明了</span><br><span class='scene-font-katari'>是反叛军的形势不好。</span>
+7,アギエルバ,ったくよぉ……,真是的……
+10,アギエルバ,退路は確保してやる！<br>さっさと退け！！,确保退路！<br>赶紧撤退！
+11,反乱軍兵士１,すまん！<br>たのむぞ！！,抱歉！<br>拜托了！
+18,アギエルバ,……王国軍は追ってこねぇな。,……王国军没追来呐。
+19,スツルム/斯特姆,おそらく、今はもう追撃はない。,或许，现在是没有追击。
+20,アギエルバ,まぁ、そう見とくとするか。<br>それにしても……,嘛，那就看看吧。<br>不过说起来……
+21,アギエルバ,見くびってたつもりはないんだが、<br>エルステ王国軍は<br>思ったよりやりやがるな。,没有小看的意思，<br>但是埃尔斯特王国军比想象的要有能力。
+22,アギエルバ,こっちも無策じゃねぇ。<br>指揮系統を分断するように動いてた。,这边也不是毫无对策。<br>指挥系统分割零散去调动。
+23,アギエルバ,にも拘わらず、<br>少しも統率が乱れねぇ。<br>随分とうまく訓練されてるじゃねぇか。,尽管如此，<br>统率一点也不乱。<br>真是训练有素啊。
+24,スツルム/斯特姆,エルステ王国軍は、<br>この程度の反乱に後れをとるほど<br>腑抜けじゃない。,埃尔斯特王国军面对这种程度的叛乱，<br>
+25,アギエルバ,おいおい……状況分かってんのか？<br>連中は今、俺様達の敵だぜ？,喂喂……搞清状况没有？<br>那些家伙现在可是我们的敌人呀？
+26,アギエルバ,しかし、ドナがこの戦力差を<br>読んでなかったとは思えねぇ。,但是，我不认为<br>多娜没料到双方的战力差距。
+27,アギエルバ,反乱軍が負けることに<br>意味があるってか……？,反叛军输了的话<br>有什么意味吗……？
+28,スツルム/斯特姆,「戦うことに」かもしれないがな。,“为了什么而战”也说不定。
+29,アギエルバ,へぇ……なるほどな。,哎……原来如此。
+30,アギエルバ,ドナとの付き合いは俺様よりも<br>お前の方が長ぇ。<br>お前がそう言うなら、そうなのかもな。,比起我来，你和多娜认识更久。<br>你这样说的话，也许就是这样。
+31,スツルム/斯特姆,……辺りの様子を見てくる。,……我去看看周边的情况。
+32,アギエルバ,それじゃあ俺様は陣営まで戻って<br>護衛に加わるとするかね。,那本大王就回营地，<br>加强护卫吧。
+33,アギエルバ,気をつけろよ。,注意安全。
+34,スツルム/斯特姆,そっちこそ。,你也是。
+40,エルステ王国兵１,…………,…………
+41,エルステ王国兵２,…………,…………
+45,スツルム/斯特姆,…………,…………
+46,,<span class='scene-font-katari'>斥候に出たスツルムは、木立の影に</span><br><span class='scene-font-katari'>身を潜め、エルステ王国軍の</span><br><span class='scene-font-katari'>陣の様子をうかがっていた。</span>,<span class='scene-font-katari'>作为斥候出来的斯特姆</span><br><span class='scene-font-katari'>在树木从的阴影中隐藏身形</span><br><span class='scene-font-katari'>观察着埃尔斯特王国军的阵营。</span>
+48,？？？,動きはないみたいだねぇ。,好像没有动静呐。
+50,スツルム/斯特姆,はぁ……,哈……
+51,,<span class='scene-font-katari'>いつの間にかすぐ傍に来ていた影に、</span><br><span class='scene-font-katari'>スツルムは大きなため息を吐く。</span>,<span class='scene-font-katari'>面对不知道什么时候来到身旁的影子</span><br><span class='scene-font-katari'>斯特姆大大的叹了口气。</span>
+52,スツルム/斯特姆,ドランク……,德朗克……
+53,ドランク/德朗克,エルステ王国軍、<br>すごくいい感じじゃない？<br>僕達の指導のたまものだよねぇ！,埃尔斯特王国军感觉非常好不是？<br>是我们的指导结果对吧！
+54,スツルム/斯特姆,お前……どうして来た？,你这家伙……为什么来了？
+55,ドランク/德朗克,うーん……？,嗯——……
+56,ドランク/德朗克,僕はさ、スツルム殿がやることの<br>全部を手伝うのは無理だけど……,我的话，是无法对斯特姆殿下<br>所有的帮都忙上的……
+57,ドランク/德朗克,今、ここには<br>僕にやれることがあると思ったからね。,但是现在，在这里，<br>我认为有我可以做的事情。
+58,ドランク/德朗克,スツルム殿、<br>どうやってカタをつけるか<br>決めたんでしょ？,斯特姆殿下，<br>怎么解决已经决定好了吧？
+59,スツルム/斯特姆,…………,…………
+60,ドランク/德朗克,スツルム殿？,斯特姆殿下？
+61,スツルム/斯特姆,その、見透かしたような……<br>なんでもわかってるとでも<br>言いたげな口調に腹が立つ……！,那个，仿佛什么都看穿了的样子……<br>什么都知道，<br>但又想要说什么的语调让人窝火……！
+63,ドランク/德朗克,ちょ、待って！　刺さないで！<br>今はダメだって！<br>見つかっちゃうってば！,等，等一下！不要扎我！<br>现在不行！<br>会被发现的！
+64,スツルム/斯特姆,<span class='scene-font-2'>歯を食いしばれ。</span><br><span class='scene-font-2'>静かにしてれば見つからない。</span>,<span class='scene-font-2'>咬紧牙关。</span><br><span class='scene-font-2'>静默不出声就不会被发现。</span>
+65,ドランク/德朗克,<span class='scene-font-2'>いや、無理だよね！？</span><br><span class='scene-font-2'>痛いからね！？</span>,<span class='scene-font-2'>呀，做不到啊！？</span><br><span class='scene-font-2'>疼啊！？</span>
+66,スツルム/斯特姆,<span class='scene-font-2'>うるさい、静かにしろ！</span>,<span class='scene-font-2'>吵死了，安静！</span>
+67,ドランク/德朗克,<span class='scene-font-2'>無茶言わないで！</span>,<span class='scene-font-2'>不要说做不到的事！</span>
+68,ドランク/德朗克,も～スツルム殿ってば……,真是~斯特姆殿下啊……
+69,,<span class='scene-font-katari'>再び声を潜めたドランクは</span><br><span class='scene-font-katari'>木の幹に肩を預けて腕を組んだ。</span>,<span class='scene-font-katari'>再次收声的德朗克</span><br><span class='scene-font-katari'>肩靠在树干上，交叉着双臂。</span>
+70,ドランク/德朗克,そういえばさ、ここのところ<br>傭兵と騎空士がやたらと<br>ぶつかってたのは……,说起来，<br>这附近佣兵和骑空士随意交战……
+71,スツルム/斯特姆,……自然発生的なものだろ。,……是自然发生的事情吧。
+72,ドランク/德朗克,まぁ、そうとしか<br>言いようがないよね。,嘛，只能这么说了吧。
+73,スツルム/斯特姆,この反乱だって同じだ。,这叛乱也一样。
+74,ドランク/德朗克,うん……<br>帝国の崩壊後、ファータ・グランデは<br>まだまだ不安定だからねぇ。,嗯……<br>帝国崩坏后<br>法塔·格兰迪还是不稳定啊。
+75,ドランク/德朗克,緊張状態が続けば、不満がたまって<br>揉め事も増える……,紧张状态继续持续的话<br>不满在积攒，纠纷也在增加……
+76,スツルム/斯特姆,単純に、傭兵にも騎空士にも<br>仕事が増えてるからだろ。,只是单纯的因为<br>佣兵和骑空士的工作增加了吧。
+77,スツルム/斯特姆,動きが活発になれば、衝突も増える。,行动变得活跃，冲突也随之增加。
+78,ドランク/德朗克,ははは、そりゃあそうか。,哈哈哈，也是呢。
+79,ドランク/德朗克,……ドナさんじゃなくてよかったね。,……不是因为多娜太好了。
+80,スツルム/斯特姆,あいつは……,这家伙……
+81,スツルム/斯特姆,ふざけた奴だが、<br>下らないことはしない。<br>そんなのはわかってる。,虽然是个胡闹的家伙，<br>但是不会做些无聊的事。<br>这我知道。
+82,ドランク/德朗克,…………,…………
+83,ドランク/德朗克,……で、本当にいいの？,……所以，真的没问题吗？
+84,スツルム/斯特姆,何も問題はない。<br>あたしは別に、何かを<br>失うわけじゃないからな。,什么问题也没有<br>反正我也不会失去什么。
+85,スツルム/斯特姆,自由でい続けるための<br>ただの手段だ。,只是为了维持自由的手段。
+87,ドランク/德朗克,そっか……そうだよね。<br>本当に……,这样吗……是啊。<br>真是……
+88,ドランク/德朗克,スツルム殿はかっこいいなぁ……<br>僕がどれだけかっこつけても<br>全然敵わないんだから……,斯特姆殿下真帅啊……<br>无论我怎么装酷也完全比不上啊……
+90,ドランク/德朗克,初めて会った時からずっと、さ。,从第一次见面时候一直。
+96,青い髪のエルーン,傭兵だから、仕事だから……<br>仕方ないよね。<br>戦うしかない。,因为是佣兵，是工作……<br>所以没办法。<br>只能战斗。
+97,スツルム/斯特姆,ペラペラとよく喋る……<br>見透かしたような態度が<br>癇に障る奴だな。,喋喋不休的真能说……<br>看穿一切的态度但让人不爽的家伙。
+98,青い髪のエルーン,傭兵ってさ、<br>なんだか窮屈だよねぇ。,佣兵的话，<br>总感觉有些拘束。
+99,スツルム/斯特姆,仕事をして、金をもらうのは<br>当然のことだ。<br>何が悪い？,做工作然后拿钱，<br>这是理所应当的。<br>有什么问题？
+100,青い髪のエルーン,別に？<br>不自由で気の毒だなぁって<br>思うだけだよ。,没。<br>只觉得不自由而感到悲哀罢了。
+101,,<span class='scene-font-gray'>どいつもこいつも、</span><br><span class='scene-font-gray'>不自由でかわいそう。</span>,<span class='scene-font-gray'>哪个家伙也是</span><br><span class='scene-font-gray'>不自由而让人同情。</span>
+102,,<span class='scene-font-gray'>家族とか仲間とか常識とか</span><br><span class='scene-font-gray'>そういうものに縛られるの、</span><br><span class='scene-font-gray'>皆やめたらいいのにね。</span>,<span class='scene-font-gray'>家族呀伙伴呀，常识什么的</span><br><span class='scene-font-gray'>被这些东西所束缚</span><br><span class='scene-font-gray'>大家还是不要做佣兵好了。</span>
+103,,<span class='scene-font-gray'>あの頃、そんな下らないことを</span><br><span class='scene-font-gray'>いつも考えていた。</span>,<span class='scene-font-gray'>那时候，总是想着这些无聊的事</span>
+104,スツルム/斯特姆,不自由か……,不自由吗……
+105,青い髪のエルーン,だってそうじゃないの？<br>教えてくれないから<br>君の事情はよくわからないけど……,难道不是这样吗？<br>你不告诉我<br>我也不太不太了解你的事情……
+106,青い髪のエルーン,君みたいな若い子がさ、<br>自分のために、好きなように<br>生きられないなんて、可哀そうだよ。,像你这样的年轻人，<br>不能为了自己而肆意的活着，<br>令人同情。
+107,,<span class='scene-font-gray'>上から目線を隠して、わざと</span><br><span class='scene-font-gray'>優しい口調を作って</span><br><span class='scene-font-gray'>悟ったようなことを言って……</span>,<span class='scene-font-gray'>把从上俯视的目光隐藏</span><br><span class='scene-font-gray'>故作温柔的语调</span><br><span class='scene-font-gray'>说出一些道理……</span>
+108,,<span class='scene-font-gray'>動揺する人達を見て</span><br><span class='scene-font-gray'>内心、安心していたんだ。</span>,<span class='scene-font-gray'>看着动摇的人</span><br><span class='scene-font-gray'>内心安定了下来。</span>
+109,,<span class='scene-font-gray'>自分は、この手で自由を</span><br><span class='scene-font-gray'>勝ち取ったんだ。</span><br><span class='scene-font-gray'>他の人とは違うんだ……ってね。</span>,<span class='scene-font-gray'>我自己用这双手获得自由</span><br><span class='scene-font-gray'>和别人不同。</span>
+110,,<span class='scene-font-gray'>けれど彼女は──</span>,<span class='scene-font-gray'>但是这个女人──</span>
+111,スツルム/斯特姆,あたしは好きに生きている。,我是以自己喜欢的方式生活着。
+112,スツルム/斯特姆,家族のために何かすることを<br>不自由だと思ったこともない。,我从不觉得<br>为了家人而做些什么不自由。
+113,,<span class='scene-font-gray'>それまでも、反論してくる人は</span><br><span class='scene-font-gray'>沢山いたけれど、</span><br><span class='scene-font-gray'>彼女はなんだか違って見えた。</span>,<span class='scene-font-gray'>到此为止，反驳的人有很多</span><br><span class='scene-font-gray'>但是她看起来有哪里不一样。</span>
+114,スツルム/斯特姆,自由は、<br>繋がりを断ち切って掴むものじゃない。,自由，<br>不是斩断联系就抓住的东西。
+115,スツルム/斯特姆,身軽になれば、好きなように<br>生きられるわけでもない。,也不是没有牵挂<br>自己随意的活着。
+116,青い髪のエルーン,…………,…………
+117,,<span class='scene-font-gray'>この人は、自分の生き方に、</span><br><span class='scene-font-gray'>何も疑問など持ってはいない。</span>,<span class='scene-font-gray'>这个人对自己的生存方式，</span><br><span class='scene-font-gray'>没有任何的怀疑。</span>
+118,,<span class='scene-font-gray'>上っ面な言葉なんかで</span><br><span class='scene-font-gray'>揺らされる人じゃない。</span>,<span class='scene-font-gray'>也不会因为表面话</span><br><span class='scene-font-gray'>而动摇的人。</span>
+119,スツルム/斯特姆,お前が傭兵の仕事を<br>どう思ってるか知らないが、<br>こんなのはただの手段だ。,你如何思考佣兵的工作<br>我不知道，<br>但这只不过是方式罢了。
+120,スツルム/斯特姆,何を大げさなことを。,有什么好小题大做的。
+121,青い髪のエルーン,ふーん……そう？,嗯——……是吗？
+122,,<span class='scene-font-gray'>動揺したのはこちらの方だった。</span>,<span class='scene-font-gray'>动摇的反而是我吗。</span>
+123,,<span class='scene-font-gray'>そんなことは初めてで、</span><br><span class='scene-font-gray'>少し腹が立った。</span><br><span class='scene-font-gray'>けれど……</span>,<span class='scene-font-gray'>这样的事还是头一次，</span><br><span class='scene-font-gray'>有些生气。</span><br><span class='scene-font-gray'>但是……</span>
+124,スツルム/斯特姆,ともかく……,总之……
+125,スツルム/斯特姆,お前は気に食わない。<br>ぶちのめすのが仕事のうちで<br>ありがたい。,我不喜欢你。<br>能在工作中干掉你真是太好了。
+127,,<span class='scene-font-gray'>無表情な彼女の瞳が</span><br><span class='scene-font-gray'>剣呑な光を宿すのが</span><br><span class='scene-font-gray'>すごくまぶしくて。</span>,<span class='scene-font-gray'>面无表情的她的眼睛里</span><br><span class='scene-font-gray'>寄宿着危险的光芒</span><br><span class='scene-font-gray'>非常耀眼。</span>
+128,,<span class='scene-font-gray'>なんてかっこいい人なんだろうと</span><br><span class='scene-font-gray'>思ったのだ。</span>,<span class='scene-font-gray'>怎么会有这么帅气的人</span><br><span class='scene-font-gray'>我不禁这么想着。</span>
+info,,,scene_evt200328_cp6_q3_s10
+译者,,,非常交易

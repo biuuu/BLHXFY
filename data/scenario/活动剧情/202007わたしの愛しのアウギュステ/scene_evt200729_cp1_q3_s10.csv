@@ -1,0 +1,21 @@
+id,name,text,trans
+0-chapter_name,,第1話 蒼海を征くメグ,第一话 征服苍海的梅格
+0-synopsis,,ユディスティラはたくさんの漁師が住む島として知られている。メグはこの海で心ゆくまで遊び、コテージでは島の名産である海鮮料理に舌鼓を打った。最高のバカンス初日だ。しかし満腹で夢見心地のメグがまどろんでいると、ふいに何者かの声が聞こえ、ハッと目を覚ます。それは屋外から聞こえてきたようだった。,由迪斯非拉岛作为捕鱼人所居住的岛屿非常有名。梅格在这里的大海尽情玩耍，还在别墅里享用了海鲜料理满足味蕾。是非常棒的度假第一天。但是在肚子很饱的梦幻气氛里，梅格因为听见了什么声音而睁开眼睛。那好像是从屋外传来的。
+2,メグ/梅格,わぁ……ここがユディスティラ島！,哇……这是由迪斯非拉岛！
+3,,<span class='scene-font-katari'>ユディスティラは</span><br><span class='scene-font-katari'>たくさんの漁師が住む島として知られ、</span><br><span class='scene-font-katari'>新鮮な海鮮料理が有名である。</span>,由迪斯非拉岛因为有很多捕鱼人居住而闻名，新鲜的海鲜料理非常有名。
+4,メグ/梅格,わは～！<br>ひとりでコテージ貸し切りの上、<br>料理もタダで食べられるなんて最高！,哇哈～！不仅一个人包下一整栋别墅，还能免费吃料理真是太棒了！
+5,メグ/梅格,<span class='scene-font-kokoro'>（まぁ、本来ならミザレアで</span><br><span class='scene-font-kokoro'>バカンスの予定だったけど……</span><br><span class='scene-font-kokoro'>あっちにはまりっぺもいるし……）</span>,（嘛，原来打算在米萨雷亚度假的……但是那里有玛丽丽……）
+6,メグ/梅格,うん……！<br>予定変更も旅の醍醐味だよね♪,嗯……！变成行程也是旅游的乐趣呢♪
+7,メグ/梅格,<span class='scene-font-gray'>正直に言うとこの時のわたしは</span><br><span class='scene-font-gray'>まりっぺにバカにされたという</span><br><span class='scene-font-gray'>悔しい気持ちが原動力になっていた。</span>,说实话，现在我是被想着不要被玛丽丽当笨蛋的悔恨心情所驱使着。
+13,メグ/梅格,よーし、泳ぐぞ～！<br>地元の川で練習した泳ぎを<br><span class='scene-font-place'>アウギュステ</span>の海にぶつけるぞ～！,好ー，去游泳吧～！让这在家乡的河里锻炼出来的游技与奥古斯特的大海对决吧～！
+14,メグ/梅格,<span class='scene-font-4'>それ～！</span>,看我的～！
+16,,<span class='scene-font-katari'>大興奮のメグは裸足で砂浜を駆け、</span><br><span class='scene-font-katari'>人生で初めての海に突っ込んでいく。</span>,非常兴奋的梅格赤脚奔向沙滩，人生第一次扎进大海里。
+22,,<span class='scene-font-katari'>そして日が暮れるまで</span><br><span class='scene-font-katari'>とことんビーチを楽しむのだった。</span>,那天在海滩尽兴的玩到了日落。
+28,,<span class='scene-font-katari'>その夜、コテージに戻ったメグは</span><br><span class='scene-font-katari'>おいしい海鮮料理に舌鼓を打った後、</span><br><span class='scene-font-katari'>ソファに身体を横たえていた。</span>,那天晚上，回到了别墅的梅格，以美味的海鲜料理满足了味蕾后。躺在了沙发上。
+29,メグ/梅格,んん……お腹いっぱ～い……<br>おいしすぎてもはや身体に毒だよ～……<br>太っちゃったら困るんだけど……,嗯嗯……好饱～……太好吃了也对身体是一种毒药呢～……要是变胖了那就困扰了……
+30,,<span class='scene-font-katari'>外から届く波の音を聞きながら</span><br><span class='scene-font-katari'>心地良い疲労感に身を任せて</span><br><span class='scene-font-katari'>うつらうつらしていた時だった。</span>,听着外面传来的波浪声。将身体交给舒服的疲劳感，在朦朦胧胧的时候。
+34,？？？,そこだ！<br>やっちまえ！,是那里！快上！
+35,メグ/梅格,<span class='scene-font-4'>んあっ！？</span><br>な、なに？　いまの声……,嗯啊！？什，什么？刚才的声音……
+36,,<span class='scene-font-katari'>唐突に聞こえたその声に驚き、</span><br><span class='scene-font-katari'>メグは身を起こすのだった。</span>,被突然传来的声音惊醒，梅格站起身。
+info,,,scene_evt200729_cp1_q3_s10
+译者,,,卜葛

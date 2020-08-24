@@ -1,0 +1,65 @@
+id,name,text,trans
+0-chapter_name,,第4話 小休止、あるいは美味しい酒場,短暂的休息，或者是美味的酒馆
+0-synopsis,,ルリア達が荷を捨てると、魔物達は荷を追って艇から離れていく。結局荷をほとんど捨てることになった商人と共に、スツルムとドランクはファータ・グランデに戻る。ドランクを昔から知っている様子で「坊ちゃん」と呼ぶ商人と<span class='scene-font-place'>アガスティア</span>で別れ、スツルムとドランクは酒場へ入っていくのだった。,露莉亚他们扔掉了货物，魔物们追着货物离开了飞艇。结果斯特姆、德朗克和几乎扔掉货物的商人一起回到了法塔·格兰德。好人好像从很早以前就认识德朗克叫他年轻人的商人，在<span class='scene-font-place'>阿加丝提亚</span>分别，斯特姆和德朗克进入了酒馆。
+11,ルリア/露莉亚,よいしょ、よいしょ……！,哟噫咻，哟噫咻……
+14,ビィ/碧,急げ急げぇー！,加快加快——！
+15,,<span class='scene-font-katari'>ビィとルリアを中心とした団員達が、</span><br><span class='scene-font-katari'>倉庫から甲板へと荷を運び出す。</span>,<span class='scene-font-katari'>以碧和露莉亚为中心的团员们</span><br><span class='scene-font-katari'>把货物从仓库运到甲板上。</span>
+16,オイゲン/欧根,本当に捨てちまっても<br>いいんだな？,扔掉真的没关系吗？
+17,商人,はい……お願いします！,是的……有劳了！
+18,オイゲン/欧根,わかった。<br>んじゃあ、やっちまうぞ！,知道了。<br>那就干吧！
+19,ルリア/露莉亚,<span class='scene-font-4'>いきまーす！</span><br><span class='scene-font-4'>えーい！</span>,<span class='scene-font-4'>一起——！</span><br><span class='scene-font-4'>嘿——！</span>
+21,小型の魔物,────？,————？
+22,小型の魔物,……──！,……——？
+24,ザーリリャオー,あっ！<br>魔物達が！,啊！<br>魔物们！
+25,ミラオル,荷を追っていくわね。,去追货物了。
+26,ビィ/碧,なんだかわかんねぇけど<br>どんどん捨てちまえー！,虽然不太清楚怎么回事<br>继续不停的扔吧——！
+28,大型の魔物,────！,————！
+31,,<span class='scene-font-katari'>艇にむらがっていた魔物達は、</span><br><span class='scene-font-katari'>甲板から投げ捨てられる荷を</span><br><span class='scene-font-katari'>追いかけるように離れていく。</span>,<span class='scene-font-katari'>向飞艇聚集的魔物们</span><br><span class='scene-font-katari'>朝着从甲板扔下去的货物追寻离去。</span>
+32,スツルム/斯特姆,……成功か？,……成功了吗？
+33,ドランク/德朗克,なんとかなりそうだねぇ。,总之是解决了。
+34,,<span class='scene-font-katari'>やがて、魔物達の咆哮は</span><br><span class='scene-font-katari'>残らず遠ざかり、グランサイファーの</span><br><span class='scene-font-katari'>乗員達は安堵の息を吐いた。</span>,<span class='scene-font-katari'>不久，魔物们的咆哮声渐渐远去了</span><br><span class='scene-font-katari'>格兰赛法号上的成员们都安心的出了口气。</span>
+35,ビィ/碧,やれやれ。<br>危ねぇところだったぜ。,呀嘞呀嘞。<br>真是危险的情况啊。
+36,ルリア/露莉亚,びっくりしましたね。,好吓人呀。
+37,商人,こちらの商品の所為で<br>とんだご迷惑を……！,因为我这商品的缘故，<br>添了这么大麻烦……！
+38,オイゲン/欧根,悪気があったわけじゃねぇんだ、<br>言いっこなしでいこうや。<br>こっちとしてもいい経験になった。,也不是有意的，<br>就这么算了吧<br>这对我们来说也是一次宝贵的经验。
+39,商人,そう言っていただけると<br>大変ありがたいです……,能这么说，真是太感谢了……
+40,ビィ/碧,さて、と……<br>落ち着いたところで、<br>後片付けしねぇとな。,然后呢……<br>冷静下来，开始清理吧。
+41,ルリア/露莉亚,沢山散らかっちゃいましたから……<br>お掃除ですね！,散落了很多东西呢……<br>进行扫除吧！
+48,ドランク/德朗克,なんか、大変なことに<br>なっちゃってごめんね～,总觉得，变成了非常麻烦的事情。<br>抱歉啦~
+49,商人,あ……ドランク、さん。,啊……德朗克，先生。
+50,,<span class='scene-font-katari'>団員達が後始末に追われる甲板の片隅、</span><br><span class='scene-font-katari'>ドランクは、依頼主である商人に</span><br><span class='scene-font-katari'>近づいて声をかけた。</span>,<span class='scene-font-katari'>团员们忙着收拾去到甲板的角落</span><br><span class='scene-font-katari'>德朗克来到雇主商人身边叫住他。</span>
+51,ドランク/德朗克,荷物、大半がダメに<br>なっちゃったでしょ？,货物，大半都不行了吧？
+52,商人,まぁ……そうですね。<br>ほとんどが空の底です。,嘛……是这样啊。<br>差不多都丢进了天空之下。
+53,ドランク/德朗克,護衛として、瘴流域を甘く見てた<br>僕の責任でもあるかな～なんて……,虽然是护卫，但是小看了瘴流域的我，<br>大概也是有责任的~……
+54,商人,いえ、それを言うのなら<br>責任はこちらも同じです。,不，如果这样说的话<br>我也有相同的责任。
+55,商人,護衛という意味でなら、<br>その役目は十分に<br>果たしていただきました。,如果是护卫的工作的话，<br>已经完全履行了这个角色。
+56,商人,契約には、私自身の安全の保障は<br>入っていますが、荷に関しては<br>含まれていませんからね。,契约只是说，<br>我自己的安全得道保障，并不包含货物在这当中。
+57,ドランク/德朗克,ん～……<br>その辺りがさ、お人好しだよねぇ。<br>本当に。,嗯~……<br>那附近还真都是好人啊，真是的。
+58,ドランク/德朗克,<span class='scene-font-2'>相変わらずなんだけどさ。</span>,<span class='scene-font-2'>还是像以前那样啊。</span>
+59,商人,あなたは一見、お変わりに<br>なられたようですが……,乍一看，你好像变了样……
+60,ドランク/德朗克,どうだろうねぇ。,谁知道呢。
+61,商人,それでもやっぱり、<br>坊ちゃんに謝られると<br>落ち着きませんから。,尽管如此，<br>不向小伙儿道歉，就冷静不下来啊。
+62,ドランク/德朗克,こらこら～！<br>やめてって言ってるでしょ？,喂喂~！<br>不是说了不要这么叫我了吗？
+64,スツルム/斯特姆,…………,…………
+65,スツルム/斯特姆,おい。,喂。
+66,ドランク/德朗克,<span class='scene-font-4'>わっ！</span><br>なになにスツルム殿、どしたの？,<span class='scene-font-4'>哦！</span><br>什么什么斯特姆殿下，怎么了？
+67,スツルム/斯特姆,人手がいる。<br>お前もあっちを手伝え。,需要人手。<br>你也过来帮忙。
+68,ドランク/德朗克,はいは～い。<br>それじゃあ働きますかね！,好的好的~<br>那么就开始干活吧！
+69,,<span class='scene-font-katari'>明るく言いながら手を振る</span><br><span class='scene-font-katari'>ドランクの背に、</span><br><span class='scene-font-katari'>商人は小さく頭を下げたのだった。</span>,<span class='scene-font-katari'>说清之后挥了挥手</span><br><span class='scene-font-katari'>德朗克转过身背去</span><br><span class='scene-font-katari'>商人小小的头捶了下去。</span>
+75,ドランク/德朗克,や～れやれ……<br>思ったよりも、<br>大変な仕事になっちゃったねぇ。,呀嘞呀嘞……<br>与想象中不同，<br>还是变成麻烦的工作了。
+76,スツルム/斯特姆,あの商人にとっては<br>無駄足だったわけだしな。,对于那个商人来说<br>算是白跑一趟了。
+81,,<span class='scene-font-katari'>荷を失った依頼人は、新空域での</span><br><span class='scene-font-katari'>商い計画を白紙に戻す他なくなり……</span>,<span class='scene-font-katari'>失去货物的委托人别无他法</span><br><span class='scene-font-katari'>在新空域的商业计划变为白纸……</span>
+82,,<span class='scene-font-katari'>グランサイファーは、結局</span><br><span class='scene-font-katari'>ファータ・グランデへと</span><br><span class='scene-font-katari'>とんぼ返りすることになったのだった。</span>,<span class='scene-font-katari'>最终，格兰赛法号还是返回了</span><br><span class='scene-font-katari'>法塔·格兰德空域。</span>
+87,,<span class='scene-font-katari'>スツルムとドランクも</span><br><span class='scene-font-katari'>商人と一緒に騎空艇を降り、</span><br><span class='scene-font-place'>アガスティア</span><span class='scene-font-katari'>の街に立ち寄っている。</span>,<span class='scene-font-katari'>斯特姆、德朗克</span><br><span class='scene-font-katari'>和商人一同下了骑空艇</span><br>顺路到<span class='scene-font-place'>阿加丝提亚</span><span class='scene-font-katari'>的街上。</span>
+88,ドランク/德朗克,とは言っても、依頼料は<br>いただいちゃったからねぇ……,虽然这么说，<br>但是委托费还是收下了……
+89,スツルム/斯特姆,…………,…………
+90,,<span class='scene-font-katari'>スツルムは、どこか探るような視線で</span><br><span class='scene-font-katari'>ドランクを見上げた。</span>,<span class='scene-font-katari'>斯特姆用像是寻找什么的眼神</span><br><span class='scene-font-katari'>看向了德朗克。</span>
+91,ドランク/德朗克,えっと……スツルム殿、どうかした？,那个……斯特姆殿下，怎么了？
+92,スツルム/斯特姆,別に。<br>相変わらず騒々しい艇に<br>長居したせいで疲れた。,没什么。<br>只是在吵闹的骑空艇上呆久了，<br>有些疲惫。
+93,ドランク/德朗克,ははは、皆元気だったよね～,哈哈哈哈，大家都很有活力呢~
+94,ドランク/德朗克,あ、スツルム殿～<br>そこのお店見て見て。新しいみたい。<br>この前はなかったよね～？,啊，斯特姆殿下~<br>快看那边的点，好像是新的业。<br>之前还没有呢吧~？
+95,スツルム/斯特姆,寄っていくか。,顺便去看看吧。
+96,ドランク/德朗克,行こ行こ～,走，走~
+97,,<span class='scene-font-katari'>ふたりは、日の傾き始めた</span><br><span class='scene-font-place'>アガスティア</span><span class='scene-font-katari'>で見つけた</span><br><span class='scene-font-katari'>酒場の扉をくぐった。</span>,<span class='scene-font-katari'>日落时分</span><br>两人钻进了<span class='scene-font-place'>阿加丝提亚</span><span class='scene-font-katari'>发现的酒馆的门里。</span>
+info,,,scene_evt200328_cp4_q1_s10
+译者,,,非常交易

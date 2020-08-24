@@ -1,0 +1,20 @@
+id,name,text,trans
+0-chapter_name,,第1話 蒼海を征くメグ,第一话 征服苍海的梅格
+0-synopsis,,メグは初めての<span class='scene-font-place'>アウギュステ</span>に到着すると、真っ先にビーチにやってきた。青い海と白い砂浜を自分の目で見ることができて感激するメグ。行き交う観光客も<span class='scene-font-place'>アウギュステ</span>にいるというだけでどこか魅力的に見えるほどだ。胸を高鳴らせていると、ふと背後から声がかかるのだった。,梅格第一次到奥古斯特，首先去了海滩。梅格对于能亲眼看到蓝色的大海和白色的沙滩而非常感激。连人数众多的观光客这点也对她非常有吸引力。在这样心情高涨的时候，背后有呼唤她的声音。
+11,,<span class='scene-font-katari'>メグが降り立った</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>の首都、</span><br><span class='scene-font-katari'>水上都市ミザレアの街並みには</span><br><span class='scene-font-katari'>見たことない文化が根づいていた。</span>,梅格于奥古斯特的首都梅萨米亚下地，那里是从未看过的充满异域文化的街道。
+12,,<span class='scene-font-katari'>だが刺激的な風景に目を奪われつつも</span><br><span class='scene-font-katari'>メグが真っ先に向かったのは</span><br><span class='scene-font-katari'>予約しているホテルではなく……</span>,就算被眼花缭乱的异域风景围绕着，梅格去往的不是预约的酒店……
+17,メグ/梅格,<span class='scene-font-4 scene-font-gray'>青い海！</span>,蓝蓝的海！
+18,メグ/梅格,<span class='scene-font-4 scene-font-gray'>白い砂浜！</span>,白色的沙滩！
+19,メグ/梅格,<span class='scene-font-4 scene-font-gray'>あと青い空！</span>,还有蓝蓝的天空！
+20,メグ/梅格,海だ……,是海……
+21,メグ/梅格,<span class='scene-font-4'>海だぁ～っ！！</span>,是海～！！
+22,,<span class='scene-font-katari'>周囲の観光客が怪訝な顔を見せようが</span><br><span class='scene-font-katari'>メグはおかまいなしで</span><br><span class='scene-font-katari'>ふたつの瞳をキラキラと輝かせた。</span>,就算周围的游客露出怪异的表情，梅格也完全不在意，双眼闪闪发光。
+23,メグ/梅格,<span class='scene-font-kokoro'>（わは～！　なんて素敵なの……！）</span>,（哇哈～！ 太棒了……！）
+24,メグ/梅格,<span class='scene-font-kokoro'>（こんなきれいな景色が</span><br><span class='scene-font-kokoro'>この世にあるなんて</span><br><span class='scene-font-kokoro'>目の前にしても信じられないよ……）</span>,（就算亲眼看到了还是不太相信，原来世界上有这么漂亮的景色……）
+34,メグ/梅格,それにしても人がたくさん……<br>お祭りってわけでもないのに……<br>みんな、わたしと同じ観光客？,而且有好多人……也不是因为祭典之类的关系……大家，和我一样都是游客？
+35,メグ/梅格,でもなんだか<br><span class='scene-font-place'>アウギュステ</span>にいるっていうだけで<br>どの人もオシャレに見えるなぁ。,因为是在奥古斯特吗，每个人看起来都打扮的好好看。
+36,メグ/梅格,はっ……ということは……<br>わたしも他人から<br>そう見えてるってこと？,嗯……总之是这样……别人看我也是这样觉得的吗？
+37,メグ/梅格,<span class='scene-font-kokoro'>（もしかしてだけど……</span><br><span class='scene-font-kokoro'>ナンパとかされちゃったりして……</span><br><span class='scene-font-kokoro'>ちょっと緊張しちゃうんだけど ……）</span>,（说不定……还会被搭讪……有点紧张起来了……）
+39,,<span class='scene-font-katari'>メグがそんなことを考えていると、</span><br><span class='scene-font-katari'>ふと背後から声がかかるのだった。</span>,在梅格这么思考起来的时候，身后传来了呼唤她的声音。
+info,,,scene_evt200729_cp1_q1_s10
+译者,,,卜葛
