@@ -14,21 +14,21 @@ id,name,text,trans
 11,,<span class='scene-font-katari'>その女性が男の手首をつかんで</span><br><span class='scene-font-katari'>少し傾けると、</span><br><span class='scene-font-katari'>大きな悲鳴が周囲に響き渡った。</span>,<span class='scene-font-katari'>那名女性抓住了男人的手腕，</span><br><span class='scene-font-katari'>稍稍一扯，</span><br><span class='scene-font-katari'>巨大的悲鸣声随机响彻了这附近。</span>
 12,？？？,相手の感情を理解せぬ無神経な輩が、<br>別の女子に言い寄ろうとは笑止千万。<br>どちらにも礼を欠いておるぞ。,如此无视她人情感的反应迟钝之人，还向女孩发起邀请，真是荒唐可笑。<br>不管怎么看你都是缺乏教养。
 13,ナンパ男,は、離してくれ～っ！！,放、放开我～！！
-14,,<span class='scene-font-katari'>男が涙ながらに懇願すると、</span><br><span class='scene-font-katari'>女性はすぐに手首を離した。</span>,<span class='scene-font-katari'>男人一边飙着眼泪一边求饶后，</span><br><span class='scene-font-katari'>女性马上把抓住她的手松开了。</span>
+14,,<span class='scene-font-katari'>男が涙ながらに懇願すると、</span><br><span class='scene-font-katari'>女性はすぐに手首を離した。</span>,<span class='scene-font-katari'>男人一边飙着眼泪一边求饶后，</span><br><span class='scene-font-katari'>女性马上把抓住他的手松开了。</span>
 15,？？？,さて、お主に必要なのは<br>女子ではなく礼儀のようじゃが……<br>よければ我が叩き込んでやろうかの？,那么，你需要的<br>不是女人而是教养啊……<br>可以的话，要不要我来教教你啊？
 16,ナンパ男,く……！<br>お、覚えてやがれ～！！,咕……！<br>你、你给我记住啊～！！
 18,？？？,くふふ……断る。<br>かような瑣末事、<br>明日にも忘れておるわ。,呵呵呵……我拒绝。<br>像这种琐碎事，<br>过一晚我就忘了啊。
 19,,<span class='scene-font-katari'>ナンパ男が消えると、</span><br><span class='scene-font-katari'>その女性はメグに声をかけた。</span>,<span class='scene-font-katari'>搭讪男溜走后，</span><br><span class='scene-font-katari'>那名女性向梅格搭话了。</span>
 20,？？？,怪我はないかの？,你没有受伤吧？
 21,メグ/梅格,あ、はい……！<br>あの、ありがとうございました！<br>ナンパって初めてで、困ってて……,啊，没有……！<br>那个，非常感谢你！<br>因为是第一次被搭讪，很困扰……
-22,？？？,よいよい。<br>我も昼寝の邪魔をされて<br>あの輩にいささか腹が立ってのう。,很好很好。<br>我也是因为被那家伙打扰了午觉<br>非常生气啊。
+22,？？？,よいよい。<br>我も昼寝の邪魔をされて<br>あの輩にいささか腹が立ってのう。,没事没事。<br>我也是因为被那家伙打扰了午觉<br>非常生气啊。
 23,アニラ/阿妮拉,我はアニラと申す。<br>そなたはひとりかの？,我叫阿妮拉。<br>你是一个人吗？
 24,メグ/梅格,わたし、メグっていいます。<br><span class='scene-font-place'>アウギュステ</span>にはひとりで来ました。<br>アニラさんは……？,我叫梅格。<br>是一个人过来<span class='scene-font-place'>奥古斯提</span>的。<br>阿妮拉你呢……？
 25,アニラ/阿妮拉,仲間とバカンスのつもりで来たが<br>知り合いに仕事も頼まれての。<br>いまは休憩時間で休んでおったが……,我和同伴过来本来是想度假的<br>但是又接受了熟人委托的工作。<br>现在是休息时间，我刚就在午休……
 26,メグ/梅格,<span class='scene-font-kokoro'>（素敵……</span><br><span class='scene-font-kokoro'>きれいで、強くて、</span><br><span class='scene-font-kokoro'>自信にあふれて……）</span>,<span class='scene-font-kokoro'>（好棒……</span><br><span class='scene-font-kokoro'>又漂亮，又强大，</span><br><span class='scene-font-kokoro'>还那么有自信……）</span>
 27,メグ/梅格,<span class='scene-font-kokoro'>（わたしもいつか</span><br><span class='scene-font-kokoro'>こんな風になりたいなぁ）</span>,<span class='scene-font-kokoro'>（我以后</span><br><span class='scene-font-kokoro'>也好想变成那样啊）</span>
 28,アニラ/阿妮拉,なんじゃ？<br>そんなにまじまじと……<br>我の顔になにかついておるのか？,怎么了？<br>一直盯着我看……<br>是我脸上沾了些什么吗？
-29,メグ/梅格,あ、ごめんなさい。<br>全然そんなことないです……！,啊，对不起。<br>完全不是那样……！
+29,メグ/梅格,あ、ごめんなさい。<br>全然そんなことないです……！,啊，对不起。<br>完全没有……！
 30,アニラ/阿妮拉,む？<br>よく見れば、そなた……<br>良い目をしておるの。,唔？<br>仔细一看，你啊……<br>眼神还真是不错啊。
 31,メグ/梅格,え？<br>わたしの目、ですか……？,诶？<br>我的眼神吗……？
 32,アニラ/阿妮拉,ふむ……強い光を感じる。<br>ひょっとしたら我らと<br>縁があるかもしれんのう。,嗯……我能感受到其中很耀眼的光芒啊。<br>说不定你和我之间<br>存在某种缘分呢。

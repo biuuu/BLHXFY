@@ -91,7 +91,7 @@ id,name,text,trans
 111,シエテ/希耶提,そう……<br>俺、もう少しここにいるから<br>先に中に入ってていいよ。,是吗……<br>我想再在这边呆一会儿，<br>你可以先进去哟。
 112,,<span class='scene-font-katari'>姬塔に背を向けたシエテは</span><br><span class='scene-font-katari'>遠くを見つめながら佇んでいる。</span>,<span class='scene-font-katari'>背向姬塔的希耶提</span><br><span class='scene-font-katari'>目光朝向了远方伫立着。</span>
 113,シエテ/希耶提,はぁ……俺……<br>本当に辞めちゃおうかな……頭目。,哈……我啊……<br>要不要真的辞职呢……头领的事情。
-114,,<span class='scene-font-katari'>シエテの哀愁漂う背中に</span><br><span class='scene-font-katari'>いたたまれなくなった姬塔は</span><br><span class='scene-font-katari'>その肩にそっと手をかける。</span>,<span class='scene-font-katari'>无法再忍耐希耶提那</span><br><span class='scene-font-katari'>满是哀愁的背影，姬塔</span><br><span class='scene-font-katari'>姬塔把手搭在了他的肩膀上。</span>
+114,,<span class='scene-font-katari'>シエテの哀愁漂う背中に</span><br><span class='scene-font-katari'>いたたまれなくなった姬塔は</span><br><span class='scene-font-katari'>その肩にそっと手をかける。</span>,<span class='scene-font-katari'>无法再忍耐希耶提那</span><br><span class='scene-font-katari'>满是哀愁的背影，</span><br><span class='scene-font-katari'>姬塔把手搭在了他的肩膀上。</span>
 114-sel1_txt,,<span class='scene-font-katari'>一緒に行こう</span>,<span class='scene-font-katari'>一起进去吧</span>
 114-sel2_txt,,<span class='scene-font-katari'>元気を出して</span>,<span class='scene-font-katari'>打起精神来</span>
 115,シエテ/希耶提,そうだよね……<br>俺が拗ねてたら空気が<br>悪くなるもんね……,也是呢……<br>我这样闹别扭会让气氛变得很差呢……

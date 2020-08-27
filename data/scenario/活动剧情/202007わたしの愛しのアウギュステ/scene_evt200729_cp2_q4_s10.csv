@@ -8,7 +8,7 @@ id,name,text,trans
 8,？？？,そっち行ったぞ！,它去那边了！
 9,？？？,気をつけてください、アニラさん！,阿妮拉，你要小心啊！
 10,？？？,まかせるがよい！,就交给我吧！
-11,メグ/梅格,いまの声って……アニラさん？,刚才的声音……是阿尼拉？
+11,メグ/梅格,いまの声って……アニラさん？,刚才的声音……是阿妮拉？
 13,アニラ/阿妮拉,くふふ！<br>実に楽しませてくれるのう！,哦呵呵！<br>还真是让人愉悦啊！
 14,メグ/梅格,<span class='scene-font-kokoro'>（やっぱりアニラさんの声だ ……！</span><br><span class='scene-font-kokoro'>今日もアニラさんと</span><br><span class='scene-font-kokoro'>お話しできたらいいな）</span>,<span class='scene-font-kokoro'>（果然那是阿妮拉的声音啊……！</span><br><span class='scene-font-kokoro'>要是今天也能和阿妮拉说上话就好了）</span>
 15,メグ/梅格,アニラさ～ん！,阿妮拉～！
@@ -35,7 +35,7 @@ id,name,text,trans
 37,メグ/梅格,ム、ムリムリムリムリ……<br>無理ですよぉ～……,不、不行不行不行不行……<br>我做不到的啊～……
 38,メグ/梅格,<span class='scene-font-kokoro'>（アニラさんがなに言ってるのか</span><br><span class='scene-font-kokoro'>全然わかんないけど、</span><br><span class='scene-font-kokoro'>とにかく逃げなきゃ……！）</span>,<span class='scene-font-kokoro'>（虽然不知道阿妮拉</span><br><span class='scene-font-kokoro'>是在说些什么，</span><br><span class='scene-font-kokoro'>总之我现在得赶紧逃啊……！）</span>
 39,,<span class='scene-font-katari'>半ば腰を抜かしていたものの、</span><br><span class='scene-font-katari'>メグはどうにか這いつくばって</span><br><span class='scene-font-katari'>来た道を戻ろうとするが……</span>,<span class='scene-font-katari'>梅格虽被吓得浑身瘫软，</span><br><span class='scene-font-katari'>但她以爬在地上的匍匐姿态</span><br><span class='scene-font-katari'>想要按原路爬回住处……</span>
-40,アニラ/阿妮拉,あ、これ！<br>うかつに動くでない！,啊、喂！<br>你这个样子太不谨慎了！
+40,アニラ/阿妮拉,あ、これ！<br>うかつに動くでない！,啊、喂！<br>你这个样子太乱来了！
 41,メグ/梅格,え？,诶？
 43,,<span class='scene-font-katari'>メグが戻ろうとした方向から</span><br><span class='scene-font-katari'>別のカツウォヌスが海面から飛び出し、</span><br><span class='scene-font-katari'>地面で大きく跳ねた。</span>,<span class='scene-font-katari'>突然，就在梅格要回去的方向</span><br><span class='scene-font-katari'>另一条鲣鱼又从海面上飞出，</span><br><span class='scene-font-katari'>在地面上大幅弹跳了起来。</span>
 44,カツウォヌス,…………！,…………！
