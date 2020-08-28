@@ -1,9 +1,10 @@
 id,name,text,trans
 0-chapter_name,,第3話 メグ、来たりて,第3话 梅格，到来
-0-synopsis,,翌年、バカンスのシーズンを間近に控えても、メグの心は弾んでいない。今年は<span class='scene-font-place'>アウギュステ</span>に行くつもりはなかったのだ。しかしメグはある日、地元の商店街の福引きで１等の<span class='scene-font-place'>アウギュステ</span>旅行を当ててしまう。はじめこそとまどいはしたが、周囲に集まった人だかりから羨望の眼差しを受け、単純な性格のメグはやはり行こうと心変わり。こうしてまたも定期船に乗り込むのだった。,第二年，马上又要到度假的季节了，梅格的心理却毫无波动。因为今年她并不打算去<span class='scene-font-place'>奥古斯提</span>。但是在某一天，梅格在她当地的商店街抽奖抽到了能去<span class='scene-font-place'>奥古斯提</span>旅游的1等奖。开始虽然是陷入犹豫，但沐浴在周围的人的羡慕的眼光下，单纯的梅格还是改变了注意，选择去旅行。就这样，她又乘上了那一艘定期船。
+0-synopsis,,翌年、バカンスのシーズンを間近に控えても、メグの心は弾んでいない。今年は<span class='scene-font-place'>アウギュステ</span>に行くつもりはなかったのだ。しかしメグはある日、地元の商店街の福引きで１等の<span class='scene-font-place'>アウギュステ</span>旅行を当ててしまう。はじめこそとまどいはしたが、周囲に集まった人だかりから羨望の眼差しを受け、単純な性格のメグはやはり行こうと心変わり。こうしてまたも定期船に乗り込むのだった。,第二年，马上又要到度假的时节了，梅格的心理却毫无波动。因为今年她并不打算去<span class='scene-font-place'>奥古斯提</span>。但是在某一天，梅格在她当地的商店街抽奖抽到了能去<span class='scene-font-place'>奥古斯提</span>旅游的1等奖。开始虽然是陷入犹豫，但沐浴在周围的人的羡慕的眼光下，单纯的梅格还是改变了注意，选择去旅行。就这样，她又乘上了那一艘定期船。
 2,メグ/梅格,<span class='scene-font-4 scene-font-gray'>前回のわたし！</span>,<span class='scene-font-4 scene-font-gray'>回顾上一回的我！</span>
 3,メグ/梅格,<span class='scene-font-gray'>今度こそは楽しもうとやってきた</span><br><span class='scene-font-gray'>憧れのビーチ、</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-gray'>！</span><br><span class='scene-font-gray'>（１年ぶり２回目）</span>,<span class='scene-font-gray'>这次我来到</span><span class='scene-font-gray'></span><span class='scene-font-place'>奥古斯提</span>，<span class='scene-font-gray'>一定要好好享受一番我憧憬的海滩！（时隔１年的第2回）</span>
-9,メグ/梅格,<span class='scene-font-gray'>でも海の家でわたしを待っていたのは</span><br><span class='scene-font-gray'>妙な雰囲気の騎空団っていう人達で</span><br><span class='scene-font-gray'>ビビリのメグは内心びっくびく☆</span>,<span class='scene-font-gray'>但是在海之家那等着我的</span><br><span class='scene-font-gray'>是一群有着微妙气氛，叫作骑空团的群体</span><br><span class='scene-font-gray'>胆小的梅格我的内心也是战战兢兢☆</span>
+9,メグ/梅格,<span class='scene-font-gray'>でも海の家でわたしを待っていたのは</span><br><span class='scene-font-gray'>妙な雰囲気の騎空団っていう人達で</span><br>
+<span class='scene-font-gray'>ビビリのメグは内心びっくびく☆</span>,<span class='scene-font-gray'>但是在海之家那等着我的</span><br><span class='scene-font-gray'>是一群有着微妙气氛，叫作骑空团的群体</span><br><span class='scene-font-gray'>胆小的梅格我内心也是战战兢兢☆</span>
 15,メグ/梅格,<span class='scene-font-gray'>だけどアニラさんっていう</span><br><span class='scene-font-gray'>素敵な人と知り合えてハッピハピ♪</span>,<span class='scene-font-gray'>但是我结识到了</span><br><span class='scene-font-gray'>一个名叫阿妮拉的很棒的朋友，真是HAPPYHAPPY♪</span>
 16,メグ/梅格,<span class='scene-font-gray'>と思ったら、</span><br><span class='scene-font-gray'>またまたお魚さんがこんにちは！</span>,<span class='scene-font-gray'>但我刚这么想完，</span><br><span class='scene-font-gray'>鱼先生又来向我问好了！</span>
 17,カツウォヌス,<span class='scene-font-4'>コンニチハ！</span>,<span class='scene-font-4'>NIHAO！</span>
@@ -16,10 +17,10 @@ id,name,text,trans
 41,,<span class='scene-font-katari'>それはひと月ほど前のこと……</span>,<span class='scene-font-katari'>那是大概一个月前发生的事……</span>
 47,,<span class='scene-font-katari'>この時、地元のカフェで働くメグは</span><br><span class='scene-font-katari'>長期休暇の時期を目前に控えていたが、</span><br><span class='scene-font-katari'>その心はまったく弾んでいなかった。</span>,<span class='scene-font-katari'>在那时，梅格正在当地的咖啡厅打着工，</span><br><span class='scene-font-katari'>虽然长假马上又要来临，</span><br><span class='scene-font-katari'>梅格的内心却毫无波动。</span>
 48,メグ/梅格,<span class='scene-font-kokoro'>（今年はやめとこう……</span><br><span class='scene-font-kokoro'>きっと</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-kokoro'>は</span><br><span class='scene-font-kokoro'>わたしに向いてないんだよ……）</span>,<span class='scene-font-kokoro'>（今年就算了吧……</span><br><span class='scene-font-place'>奥古斯提</span><span class='scene-font-kokoro'>肯定是不适合我了……）</span>
-49,メグ/梅格,<span class='scene-font-kokoro'>（大好きな場所……</span><br><span class='scene-font-kokoro'>になるはずだったんだけど……）</span>,<span class='scene-font-kokoro'>（明明那里应该是我最喜欢的地方……）</span>
+49,メグ/梅格,<span class='scene-font-kokoro'>（大好きな場所……</span><br><span class='scene-font-kokoro'>になるはずだったんだけど……）</span>,<span class='scene-font-kokoro'>（明明那里是我最喜欢的地方……）</span>
 50,,<span class='scene-font-katari'>小さな頃から憧れていた</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>で</span><br><span class='scene-font-katari'>メグは２年連続で散々な思いをし、</span><br><span class='scene-font-katari'>かつてのときめきを失いつつあった。</span>,<span class='scene-font-katari'>梅格从小就憧憬着</span><span class='scene-font-place'>奥古斯提</span><br><span class='scene-font-katari'>但是连续两年都烙下了倒霉的回忆，</span><br><span class='scene-font-katari'>内心里那曾经的鼓动已经开始渐渐消失了。</span>
 51,,<span class='scene-font-katari'>肩を落として</span><br><span class='scene-font-katari'>トボトボと商店街を歩くメグは</span><br><span class='scene-font-katari'>ふと横から声をかけられた。</span>,<span class='scene-font-katari'>毫无精气的梅格拖着她的脚步，走在商店街的时候，</span><br><span class='scene-font-katari'>突然有人向她搭话了。</span>
-52,商店街店主,やあ、メグちゃん！<br>買い物帰りかい？,呀，小梅！<br>你刚买完东西准备回家吗？
+52,商店街店主,やあ、メグちゃん！<br>買い物帰りかい？,呀，梅格！<br>你刚买完东西准备回家吗？
 53,メグ/梅格,はい……<br>おつかいの帰りですけど……,是的……<br>就是刚买完东西准备回去……
 54,商店街店主,それじゃあ、福引やってってよ？<br>いま大感謝祭やってるんだ！<br>買い物１件につき、１回だよ！,那你要不要来抽个奖啊？<br>现在在举行大感谢祭啊！买一件东西就能抽一次哦！
 55,メグ/梅格,大感謝祭？<br>はぁ……<br>それじゃあ１回……,大感谢祭？<br>哈……<br>那我就抽一次吧……
@@ -29,7 +30,7 @@ id,name,text,trans
 68,商店街店主,<span class='scene-font-4'>おめでとうございまーす！！</span><br><span class='scene-font-4'>１等、大当たりぃ～！</span>,<span class='scene-font-4'>恭喜你！！</span><br><span class='scene-font-4'>是大奖，中了１等奖啊～！</span>
 69,メグ/梅格,え……ウソ？<br>ウソウソウソウソウソ！？,诶……不会吧？<br>真的真的真的真的！？
 70,,<span class='scene-font-katari'>騒ぎを聞きつけた通行人が</span><br><span class='scene-font-katari'>メグの周囲に集まってきた。</span>,<span class='scene-font-katari'>听到了这里的吵闹声，路过的行人</span><br><span class='scene-font-katari'>都聚集到了梅格的周围。</span>
-71,商店街店主,いやぁ～ツイてるねぇ、メグちゃん！<br>おめでとう！,哎呀～小梅，你运气真好啊！<br>恭喜你！
+71,商店街店主,いやぁ～ツイてるねぇ、メグちゃん！<br>おめでとう！,哎呀～梅格，你运气真好啊！<br>恭喜你！
 72,メグ/梅格,え～、嬉しいです！<br>やだ、どうしよ……！<br>え～！　びっくりなんだけど～！,诶～，好开心啊！<br>啊，怎么办啊……！<br>诶～！ 我真是吓了一跳啊～！
 73,メグ/梅格,それで……<br>１等ってなにがもらえるんですか？,那个……<br>１等奖能拿到什么奖品啊？
 74,商店街店主,なんと１等は……！<br><span class='scene-font-place'>アウギュステ</span>旅行で～っす！！,１等的话……！<br>奖品就是<span class='scene-font-place'>奥古斯提</span>的旅游～！！
@@ -43,7 +44,7 @@ id,name,text,trans
 82,商店街店主,いやぁ～、羨ましい！<br>ねぇ、お集まりの皆さん？<br><span class='scene-font-place'>アウギュステ</span>ですよ、<span class='scene-font-place'>アウギュステ</span>！,哎呀～，真羡慕你啊<br>是吧，周围的看热闹的大伙们？<br>那可是<span class='scene-font-place'>奥古斯提</span>哦，<span class='scene-font-place'>奥古斯提</span>！
 83,,<span class='scene-font-katari'>店主が呼びかけると、</span><br><span class='scene-font-katari'>通行人は口々に「羨ましい」と応え、</span><br><span class='scene-font-katari'>１等を引き当てたメグに賛辞を贈った。</span>,<span class='scene-font-katari'>听到了店主的呼声，</span><br><span class='scene-font-katari'>周围的人无一不在说着「羡慕死了」，</span><br><span class='scene-font-katari'>向着中了１等奖的梅格送去赞美之情。</span>
 84,メグ/梅格,あの、でも……<br>みなさん、ちょっと待──,那个，但是……<br>各位，请等──
-85,商店街店主,楽しんできてね、メグちゃん！<br>きみはとってもラッキーだよ！,要开开心心地去玩哦，小梅！<br>你真是太幸运啦！
+85,商店街店主,楽しんできてね、メグちゃん！<br>きみはとってもラッキーだよ！,要开开心心地去玩哦，梅格！<br>你真是太幸运啦！
 86,メグ/梅格,ラッキー……？,幸运……？
 87,,<span class='scene-font-katari'>周囲を見回すと人々は皆、</span><br><span class='scene-font-katari'>羨望の眼差しを送っており、</span><br><span class='scene-font-katari'>単純な性格のメグの心に変化が起きた。</span>,<span class='scene-font-katari'>看着周围的人</span><br><span class='scene-font-katari'>无不都是一副羡慕的眼神，</span><br><span class='scene-font-katari'>单纯的梅格，内心发生了变化。</span>
 88,メグ/梅格,<span class='scene-font-kokoro'>（やっぱり行こっかな……）</span>,<span class='scene-font-kokoro'>（那还是去吧……）</span>
