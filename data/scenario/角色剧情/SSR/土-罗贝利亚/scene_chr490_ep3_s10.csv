@@ -28,9 +28,9 @@ id,name,text,trans
 25,ロベリア,絶対に繋がらないからね。,因为绝对无法接通呢。
 26,ルリア/露莉亚,え……？,诶……？
 27,ロベリア,さぁ、聴いてくれ。<br>これがオレのパパとママだ！,来，请听吧。<br>这就是我的爸爸和妈妈！
-30,,<span class='scene-font-katari'>ロベリアは喜々とした様子で</span><br><span class='scene-font-katari'>指を鳴らすと、瞬時に一行の前に</span><br><span class='scene-font-katari'>小さな巻き貝がふたつ現れる。</span>,<span class='scene-font-katari'>ロベリアは喜々とした様子で</span><br><span class='scene-font-katari'>指を鳴らすと、瞬時に一行の前に</span><br><span class='scene-font-katari'>小さな巻き貝がふたつ現れる。</span>
+30,,<span class='scene-font-katari'>ロベリアは喜々とした様子で</span><br><span class='scene-font-katari'>指を鳴らすと、瞬時に一行の前に</span><br><span class='scene-font-katari'>小さな巻き貝がふたつ現れる。</span>,<span class='scene-font-katari'>罗贝利亚兴高采烈地打了个响指，</span><br><span class='scene-font-katari'>在一行人的面前</span><br><span class='scene-font-katari'>瞬间出现了两个海螺。</span>
 31,ロベリア,ルジストル！,Register（记录）！
-35,巻き貝,<span class='scene-font-italic scene-font-blue'>────！</span>,<span class='scene-font-italic scene-font-blue'>────！</span>
+35,巻き貝/海螺,<span class='scene-font-italic scene-font-blue'>────！</span>,<span class='scene-font-italic scene-font-blue'>────！</span>
 36,ルリア/露莉亚,な、なんですか、この音……,什、什么，这个声音……
 37,ビィ/碧,なんか気持ち悪ぃな……<br>貝殻……いや、クラポティ<br>間違えたんじゃねぇのか！？,感觉好恶心啊……<br>你拿错了海螺……<br>不是、搞错了Clapotis吧！？
 38,ロベリア,間違えるものか！<br>これがパパさ！！,怎么会拿错呢！<br>这就是爸爸啊！！
@@ -43,7 +43,7 @@ id,name,text,trans
 45,ロベリア,おっと、失礼。<br>エレガンスに振る舞うべきだった。<br>オレとしたことがはしたない。,啊呀，失礼了。<br>应该更Elégance（优雅）地行动的。<br>我还真是不像样啊。
 46,ロベリア,それに食事の前だったね。<br>それならばママを先に<br>聴いてもらうべきだったなぁ。,而且现在是饭前时间呢。<br>那样的话应该先<br>给你们听妈妈的声音啊。
 47,ロベリア,ルジストル！,Register（记录）！
-51,巻き貝,<span class='scene-font-italic scene-font-blue'>いや、いやぁあぎ、ぎぃぃいあ！！</span>,<span class='scene-font-italic scene-font-blue'>いや、いやぁあぎ、ぎぃぃいあ！！</span>
+51,巻き貝/海螺,<span class='scene-font-italic scene-font-blue'>いや、いやぁあぎ、ぎぃぃいあ！！</span>,<span class='scene-font-italic scene-font-blue'>不要、不要啊、咿呀啊啊啊啊啊！！！！</span>
 52,ルリア/露莉亚,ひっ！？　いやぁっ！！,咿！？　不要！！
 53,,<span class='scene-font-katari'>突如、響いた凄惨な音に、</span><br><span class='scene-font-katari'>ルリアは顔を青くし、耳を</span><br><span class='scene-font-katari'>押さえてその場に崩れ落ちる。</span>,<span class='scene-font-katari'>对突然响起的凄惨的声音，</span><br><span class='scene-font-katari'>露莉亚脸色发青，</span><br><span class='scene-font-katari'>捂住双耳当场坐倒在地。</span>
 54,,<span class='scene-font-katari'>姬塔はすぐに耳を押さえる</span><br><span class='scene-font-katari'>ルリアの手を優しく両手でおおい、</span><br><span class='scene-font-katari'>ロベリアを睨み付ける。</span>,<span class='scene-font-katari'>姬塔温柔地用双手盖住</span><br><span class='scene-font-katari'>捂住双耳的露莉亚的手，</span><br><span class='scene-font-katari'>瞪视着罗贝利亚。</span>
@@ -51,7 +51,7 @@ id,name,text,trans
 56,ロベリア,肉と骨がミンチになる音と<br>ママの綺麗な声が混ざって生まれる<br>アルモニー！,骨头和肉变成碎屑的声音<br>和妈妈美丽的声音混合而成的<br>Harmonien（和弦）！
 57,ロベリア,<span class='scene-font-4'>トレッビアンッ！</span>,<span class='scene-font-4'>Très bien（太棒了）！</span>
 58,,<span class='scene-font-katari'>ロベリアはもはや姬塔達を</span><br><span class='scene-font-katari'>無視して、ひとりで嬉しそうに笑い、</span><br><span class='scene-font-katari'>テーブルに置かれたパスタを頬張る。</span>,<span class='scene-font-katari'>罗贝利亚已经无视了</span><br><span class='scene-font-katari'>姬塔一行，一个人高兴地笑着，</span><br><span class='scene-font-katari'>将桌上的意面塞进嘴里。</span>
-59,ロベリア,あむ、はむっ、んんっ！！　<br>ああ……！　やっぱりママの音と<br>ブイヤベース・パスタはよく絡み合う！,啊唔、唔姆、嗯嗯！！　<br>啊啊……！　果然妈妈的声音和やっぱりママの音と<br>海鲜意面非常契合！
+59,ロベリア,あむ、はむっ、んんっ！！　<br>ああ……！　やっぱりママの音と<br>ブイヤベース・パスタはよく絡み合う！,啊唔、唔姆、嗯嗯！！　<br>啊啊……！　果然妈妈的声音和<br>海鲜意面非常契合！
 60,ロベリア,<span class='scene-font-4'>くはっ、あはははっ！</span><br>まさにおふくろの味だ！！<br>ん～～～～！！　セボーン！！,<span class='scene-font-4'>哈哈，哈哈哈哈！</span><br>真不愧是妈妈的味道！！<br>嗯～～～～！！　C'est bon（太棒了）！！
 61,ビィ/碧,オェ……く、狂ってやがる……,呕呃……你、真是疯了……
 62,ロベリア,おや、どうしたんだい？<br>こんなにも幸福な音が響いてるのに、<br>どうしてそんな顔をするのさ。,哦呀，怎么了吗？<br>明明听见了这么幸福的声音，<br>为什么是那样的神色啊。
@@ -83,50 +83,50 @@ id,name,text,trans
 90,ロベリア,ああ、外のことは気にするな。<br>これまでの音は全部漏れないように<br>操作してるからね。,啊对了，不用在意外面的事哦。<br>我做了功夫让这之前的声音<br>都没有漏出去。
 91,ロベリア,おっと！<br>これから鳴る音も、か。<br>くはっ、あはははっ！,对了！<br>这之后的声音也一样，哦。<br>哈哈、啊哈哈哈！
 92,ルリア/露莉亚,う、うぅう……ぐすっ……<br>なに、するつもりなんですか……,呜、呜呜……呜咕……<br>你、想做什么……
-93,ロベリア,くはっ！<br>ただ昔話を聞いてほしいだけさ。<br>ほら、どうした？　座りなって。,哈哈！<br>只是想让你们听听我以前的故事而已br>好了，怎么了？　坐下吧。
-94,,<span class='scene-font-katari'>姬塔は逆らえばルリアとビィに</span><br><span class='scene-font-katari'>危害が加えられると考え、</span><br><span class='scene-font-katari'>ロベリアの言うことに従った。</span>,<span class='scene-font-katari'>考虑到如果违抗他，或许</span><br><span class='scene-font-katari'>他会伤害露莉亚和碧，</span><br><span class='scene-font-katari'>姬塔遵从了罗贝利亚的话语。</span>
-95,,<span class='scene-font-katari'>一行が椅子に腰かけたのを</span><br><span class='scene-font-katari'>確認すると、ロベリアは、</span><br><span class='scene-font-katari'>ゆっくりと己の過去を語り出した。</span>,<span class='scene-font-katari'>确认到一行人坐下</span><br><span class='scene-font-katari'>后，罗贝利亚</span><br><span class='scene-font-katari'>缓缓地讲述起了自己的过去。</span>
+93,ロベリア,くはっ！<br>ただ昔話を聞いてほしいだけさ。<br>ほら、どうした？　座りなって。,哈哈！<br>只是想让你们听听我以前的故事而已<br>好了，怎么了？　坐下吧。
+94,,<span class='scene-font-katari'>姬塔は逆らえばルリアとビィに</span><br><span class='scene-font-katari'>危害が加えられると考え、</span><br><span class='scene-font-katari'>ロベリアの言うことに従った。</span>,<span class='scene-font-katari'>考虑到如果违抗他，</span><br><span class='scene-font-katari'>或许他会伤害露莉亚和碧，</span><br><span class='scene-font-katari'>姬塔遵从了罗贝利亚的话语。</span>
+95,,<span class='scene-font-katari'>一行が椅子に腰かけたのを</span><br><span class='scene-font-katari'>確認すると、ロベリアは、</span><br><span class='scene-font-katari'>ゆっくりと己の過去を語り出した。</span>,<span class='scene-font-katari'>确认到一行人坐下后，</span><br><span class='scene-font-katari'>罗贝利亚缓缓地</span><br><span class='scene-font-katari'>讲述起了自己的过去。</span>
 99,,<span class='scene-font-katari'>ロベリアは、</span><br><span class='scene-font-katari'>海がある珍しい島の</span><br><span class='scene-font-katari'>極々平凡な魔術師の家に生まれた。</span>,<span class='scene-font-katari'>罗贝利亚出生在</span><br><span class='scene-font-katari'>某个罕见的海上岛屿的</span><br><span class='scene-font-katari'>某个平凡的魔术师的家中。</span>
 100,,<span class='scene-font-katari'>生まれてしばらくして</span><br><span class='scene-font-katari'>すぐにロベリアは才能を開花させ、</span><br><span class='scene-font-katari'>両親を驚かせた。</span>,<span class='scene-font-katari'>出生不久后，</span><br><span class='scene-font-katari'>罗贝利亚的才能迅速发展，</span><br><span class='scene-font-katari'>让双亲也为之惊讶。</span>
 101,,<span class='scene-font-katari'>両親はロベリアを心から愛し、</span><br><span class='scene-font-katari'>ことあるごとにある教えを</span><br><span class='scene-font-katari'>聞かせていた。</span>,<span class='scene-font-katari'>双亲发自内心爱着罗贝利亚，</span><br><span class='scene-font-katari'>将能教会他的一切</span><br><span class='scene-font-katari'>全都教给了他。</span>
-102,ロベリアの母,人は誰であろうと幸福に<br>生きる権利を持っているんだよ。<br>ロベリアも例外なくね。,无论是谁<br>都有幸福地生活的权利。<br>罗贝利亚也不例外哦。
-103,ロベリアの父,その才能を使えば、<br>お前は必ず幸福になれる！,用那个才能的话，<br>你一定会幸福的！
-104,ロベリアの父,ロベリア、お前は天才だ。<br>必ず成功する！<br>幸せに生きろよ、ロベリア！,罗贝利亚，你是天才。<br>一定会成功的！<br>要幸福地生活哦，罗贝利亚！
+102,ロベリアの母/罗贝利亚的母亲,人は誰であろうと幸福に<br>生きる権利を持っているんだよ。<br>ロベリアも例外なくね。,无论是谁<br>都有幸福地生活的权利。<br>罗贝利亚也不例外哦。
+103,ロベリアの父/罗贝利亚的父亲,その才能を使えば、<br>お前は必ず幸福になれる！,用那个才能的话，<br>你一定会幸福的！
+104,ロベリアの父/罗贝利亚的父亲,ロベリア、お前は天才だ。<br>必ず成功する！<br>幸せに生きろよ、ロベリア！,罗贝利亚，你是天才。<br>一定会成功的！<br>要幸福地生活哦，罗贝利亚！
 105,,<span class='scene-font-katari'>ロベリアは愛する両親の言葉を疑わず、</span><br><span class='scene-font-katari'>自分は天才であり、幸福に生きることが</span><br><span class='scene-font-katari'>できると強く思うようになった。</span>,<span class='scene-font-katari'>罗贝利亚对双亲的话语毫不怀疑，</span><br><span class='scene-font-katari'>深信着自己是天才，深信着自己</span><br><span class='scene-font-katari'>能幸福地生活。</span>
 106,,<span class='scene-font-katari'>しかし、幼いロベリアには</span><br><span class='scene-font-katari'>幸福というものが、一体なんなのか</span><br><span class='scene-font-katari'>理解できなかった。</span>,<span class='scene-font-katari'>但是，幼小的罗贝利亚</span><br><span class='scene-font-katari'>还完全不能理解，幸福究竟</span><br><span class='scene-font-katari'>是什么样的东西。</span>
 107,,<span class='scene-font-katari'>幸福について考える日々を</span><br><span class='scene-font-katari'>過ごしていたロベリアに、</span><br><span class='scene-font-katari'>ある日、転機が訪れる。</span>,<span class='scene-font-katari'>每日都在思考幸福</span><br><span class='scene-font-katari'>之中度过的罗贝利亚，</span><br><span class='scene-font-katari'>在某一天迎来了转机。</span>
 113,,<span class='scene-font-katari'>両親と共に浜辺を</span><br><span class='scene-font-katari'>散歩していた時のことだった。</span>,<span class='scene-font-katari'>那是和双亲一同</span><br><span class='scene-font-katari'>在海滨边散步的时候。</span>
 114,,<span class='scene-font-katari'>ロベリアは転んでしまい、</span><br><span class='scene-font-katari'>その際に巻き貝を</span><br><span class='scene-font-katari'>踏み潰してしまったのだ。</span>,<span class='scene-font-katari'>罗贝利亚不小心摔倒，</span><br><span class='scene-font-katari'>在那时踩碎了</span><br><span class='scene-font-katari'>一枚海螺。</span>
-116,ロベリアの父,ロベリアッ！？<br>ああ、大丈夫か？<br>怪我はしてないか？,罗贝利亚！？<br>啊，不要紧吧？<br>没有受伤吧？
-117,ロベリアの母,大丈夫？<br>ロベリア、どうしたの？,没事吧？<br>罗贝利亚，怎么了？
-118,,<span class='scene-font-katari'>両親に抱きかかえられたロベリアだが、</span><br><span class='scene-font-katari'>彼はふたりの言葉が一切、</span><br><span class='scene-font-katari'>聞こえていなかった。</span>,<span class='scene-font-katari'>虽然罗贝利亚被双亲拥抱着，</span><br><span class='scene-font-katari'>他却完全没有听见</span><br><span class='scene-font-katari'>两人的一言一语</span>
+116,ロベリアの父/罗贝利亚的父亲,ロベリアッ！？<br>ああ、大丈夫か？<br>怪我はしてないか？,罗贝利亚！？<br>啊，不要紧吧？<br>没有受伤吧？
+117,ロベリアの母/罗贝利亚的母亲,大丈夫？<br>ロベリア、どうしたの？,没事吧？<br>罗贝利亚，怎么了？
+118,,<span class='scene-font-katari'>両親に抱きかかえられたロベリアだが、</span><br><span class='scene-font-katari'>彼はふたりの言葉が一切、</span><br><span class='scene-font-katari'>聞こえていなかった。</span>,<span class='scene-font-katari'>虽然罗贝利亚被双亲拥抱着，</span><br><span class='scene-font-katari'>他却完全没有听见</span><br><span class='scene-font-katari'>两人的一言一语。</span>
 119,,<span class='scene-font-katari'>それは彼の頭にいつまでも</span><br><span class='scene-font-katari'>巻き貝が潰れる音が</span><br><span class='scene-font-katari'>響いていたためだった。</span>,<span class='scene-font-katari'>因为他的脑内</span><br><span class='scene-font-katari'>一直在回响着</span><br><span class='scene-font-katari'>海螺被踩碎的声音。</span>
-120,幼きロベリア,<span class='scene-font-kokoro'>（この感触、この音……！</span><br><span class='scene-font-kokoro'>ああ、なんだ、この感覚は……</span><br><span class='scene-font-kokoro'>この心が満たされる感覚は！）</span>,<span class='scene-font-kokoro'>（这个感触，这个声音……！</span><br><span class='scene-font-kokoro'>啊啊，这是、什么感觉……</span><br><span class='scene-font-kokoro'>这种内心被填满的感觉！）</span>
-121,幼きロベリア,<span class='scene-font-kokoro'>（ああ、そうか！</span><br><span class='scene-font-kokoro'>物が壊れるこの音！）</span>,<span class='scene-font-kokoro'>（啊啊、是吗！</span><br><span class='scene-font-kokoro'>这份物体被破坏的声音！）</span>
-122,幼きロベリア,<span class='scene-font-kokoro'>（この音が幸福なんだ！</span><br><span class='scene-font-kokoro'>無機物でこれなら……くはっ！</span><br><span class='scene-font-kokoro'>生き物だと、どれほど……！）</span>,<span class='scene-font-kokoro'>（这个声音就是幸福！</span><br><span class='scene-font-kokoro'>无机物就是如此……哈哈！</span><br><span class='scene-font-kokoro'>如果是生物，会有多么……！）</span>
-123,ロベリアの父,ロベリア？　もしかして、<br>どこか打ったのか！？,罗贝利亚？　难道说<br>撞到哪里了吗！？
-124,幼きロベリア,……大丈夫。<br>大丈夫だよ、パパ。,……不要紧。<br>不要紧哦，爸爸。
-125,幼きロベリア,もう、大丈夫だ。<br>オレは幸福に生きれるよ。,已经，不要紧了<br>我会幸福地活下去哦。
-126,ロベリアの父,なに……？,什么……？
+120,幼きロベリア/年幼的罗贝利亚,<span class='scene-font-kokoro'>（この感触、この音……！</span><br><span class='scene-font-kokoro'>ああ、なんだ、この感覚は……</span><br><span class='scene-font-kokoro'>この心が満たされる感覚は！）</span>,<span class='scene-font-kokoro'>（这个感触，这个声音……！</span><br><span class='scene-font-kokoro'>啊啊，这是、什么感觉……</span><br><span class='scene-font-kokoro'>这种内心被填满的感觉！）</span>
+121,幼きロベリア/年幼的罗贝利亚,<span class='scene-font-kokoro'>（ああ、そうか！</span><br><span class='scene-font-kokoro'>物が壊れるこの音！）</span>,<span class='scene-font-kokoro'>（啊啊、是吗！</span><br><span class='scene-font-kokoro'>这份物体被破坏的声音！）</span>
+122,幼きロベリア/年幼的罗贝利亚,<span class='scene-font-kokoro'>（この音が幸福なんだ！</span><br><span class='scene-font-kokoro'>無機物でこれなら……くはっ！</span><br><span class='scene-font-kokoro'>生き物だと、どれほど……！）</span>,<span class='scene-font-kokoro'>（这个声音就是幸福！</span><br><span class='scene-font-kokoro'>无机物就是如此……哈哈！</span><br><span class='scene-font-kokoro'>如果是生物，会有多么……！）</span>
+123,ロベリアの父/罗贝利亚的父亲,ロベリア？　もしかして、<br>どこか打ったのか！？,罗贝利亚？　难道说<br>撞到哪里了吗！？
+124,幼きロベリア/年幼的罗贝利亚,……大丈夫。<br>大丈夫だよ、パパ。,……不要紧。<br>不要紧哦，爸爸。
+125,幼きロベリア/年幼的罗贝利亚,もう、大丈夫だ。<br>オレは幸福に生きれるよ。,已经，不要紧了<br>我会幸福地活下去哦。
+126,ロベリアの父/罗贝利亚的父亲,なに……？,什么……？
 127,,<span class='scene-font-katari'>人懐っこい笑みで</span><br><span class='scene-font-katari'>ロベリアは笑い、</span><br><span class='scene-font-katari'>指を鳴らして見せた。</span>,<span class='scene-font-katari'>罗贝利亚露出</span><br><span class='scene-font-katari'>温柔的笑容，</span><br><span class='scene-font-katari'>轻轻打了个响指。</span>
 139,,<span class='scene-font-katari'>一瞬の出来事だった。</span><br><span class='scene-font-katari'>ロベリアは音魔術を使い、</span><br><span class='scene-font-katari'>父親を一瞬で破裂させたのだ。</span>,<span class='scene-font-katari'>那是一瞬间的事。</span><br><span class='scene-font-katari'>罗贝利亚使用了音魔术，</span><br><span class='scene-font-katari'>让父亲一瞬间就破裂了。</span>
 140,,<span class='scene-font-katari'>そしてロベリアはその時の音を</span><br><span class='scene-font-katari'>即座に魔術で録音した。</span>,<span class='scene-font-katari'>然后罗贝利亚迅速用魔术</span><br><span class='scene-font-katari'>录下了那时候的声音。</span>
-141,幼きロベリア,<span class='scene-font-kokoro'>（ああ、パパ、パパ！</span><br><span class='scene-font-kokoro'>なんて幸せな音を奏でるんだ！</span><br><span class='scene-font-kokoro'>トレッビアンッ……！）</span>,<span class='scene-font-kokoro'>（啊啊、爸爸、爸爸！</span><br><span class='scene-font-kokoro'>奏出了多么幸福的声音啊！</span><br><span class='scene-font-kokoro'>Très bien（太棒了）……！）</span>
-142,ロベリアの母,パパ……？<br>なに、え……？　ロベ、リア……？,丈夫……？<br>什么、诶……？　罗贝、利亚……？
-143,ロベリアの母,<span class='scene-font-4'>いやぁぁぁぁああぁぁっ！！</span>,<span class='scene-font-4'>不要啊啊啊啊啊啊啊啊啊！！</span>
+141,幼きロベリア/年幼的罗贝利亚,<span class='scene-font-kokoro'>（ああ、パパ、パパ！</span><br><span class='scene-font-kokoro'>なんて幸せな音を奏でるんだ！</span><br><span class='scene-font-kokoro'>トレッビアンッ……！）</span>,<span class='scene-font-kokoro'>（啊啊、爸爸、爸爸！</span><br><span class='scene-font-kokoro'>奏出了多么幸福的声音啊！</span><br><span class='scene-font-kokoro'>Très bien（太棒了）……！）</span>
+142,ロベリアの母/罗贝利亚的母亲,パパ……？<br>なに、え……？　ロベ、リア……？,丈夫……？<br>什么、诶……？　罗贝、利亚……？
+143,ロベリアの母/罗贝利亚的母亲,<span class='scene-font-4'>いやぁぁぁぁああぁぁっ！！</span>,<span class='scene-font-4'>不要啊啊啊啊啊啊啊啊啊！！</span>
 144,,<span class='scene-font-katari'>事態が理解できず混乱して、</span><br><span class='scene-font-katari'>痛ましい悲鳴をあげる母親を見て、</span><br><span class='scene-font-katari'>ロベリアは幸せそうに微笑んだ。</span>,<span class='scene-font-katari'>看见无法理解这一切，</span><br><span class='scene-font-katari'>在混乱中发出悲鸣的母亲，</span><br><span class='scene-font-katari'>罗贝利亚幸福地笑了起来。</span>
-145,幼きロベリア,<span class='scene-font-kokoro'>（ママ……</span><br><span class='scene-font-kokoro'>ママはいったいどんな音がするの？）</span>,<span class='scene-font-kokoro'>（妈妈……</span><br><span class='scene-font-kokoro'>妈妈会是什么样的声音呢？）</span>
+145,幼きロベリア/年幼的罗贝利亚,<span class='scene-font-kokoro'>（ママ……</span><br><span class='scene-font-kokoro'>ママはいったいどんな音がするの？）</span>,<span class='scene-font-kokoro'>（妈妈……</span><br><span class='scene-font-kokoro'>妈妈会是什么样的声音呢？）</span>
 146,,<span class='scene-font-katari'>破壊の音に幸福を見出したロベリアは、</span><br><span class='scene-font-katari'>幸福に生きるようにと教えてきた</span><br><span class='scene-font-katari'>両親に強く感謝し、恩返しを考えた。</span>,<span class='scene-font-katari'>从破坏的声音中看见幸福的罗贝利亚，</span><br><span class='scene-font-katari'>对教会自己要幸福地活下去的双亲</span><br><span class='scene-font-katari'>深深地感谢着，想要报恩。</span>
 147,,<span class='scene-font-katari'>そして彼が思いついた恩返しは、</span><br><span class='scene-font-katari'>「両親の教え」を</span><br><span class='scene-font-katari'>実現する事だったのだ。</span>,<span class='scene-font-katari'>而他所能想到的报恩，</span><br><span class='scene-font-katari'>便是实现</span><br><span class='scene-font-katari'>「双亲的教诲」。</span>
-151,ロベリアの母,いやぁ……いやぁあぎ、ぎぃぃいあ！！,不要……不要啊、咿呀啊啊啊啊啊！！
+151,ロベリアの母/罗贝利亚的母亲,いやぁ……いやぁあぎ、ぎぃぃいあ！！,不要……不要啊、咿呀啊啊啊啊啊！！
 158,,<span class='scene-font-katari'>ロベリアは父親を一瞬で破壊した</span><br><span class='scene-font-katari'>方法とは真逆の方法で母親を破壊した。</span>,<span class='scene-font-katari'>罗贝利亚用和一瞬间就破坏了父亲的方法</span><br><span class='scene-font-katari'>完全相反的方法破坏了母亲。</span>
 159,,<span class='scene-font-katari'>四肢の先端から徐々に、徐々に</span><br><span class='scene-font-katari'>肉と骨を砕いていったのだ。</span>,<span class='scene-font-katari'>从四肢的前端开始慢慢地、慢慢地</span><br><span class='scene-font-katari'>将骨肉全部粉碎。</span>
 160,,<span class='scene-font-katari'>ロベリアは恍惚とした笑みを浮かべ、</span><br><span class='scene-font-katari'>その音をしっかりと魔術で録音する。</span>,<span class='scene-font-katari'>罗贝利亚洋溢着恍惚的笑容，</span><br><span class='scene-font-katari'>用魔术录下了那些声音。</span>
-161,幼きロベリア,ああ、ああああ……！,啊、啊啊啊啊……！
+161,幼きロベリア/年幼的罗贝利亚,ああ、ああああ……！,啊、啊啊啊啊……！
 162,,<span class='scene-font-katari'>ふたりの凄惨な死体を前にして、</span><br><span class='scene-font-katari'>ロベリアは嬉しそうに</span><br><span class='scene-font-katari'>録音した音を再生し続けた。</span>,<span class='scene-font-katari'>在两人凄惨的尸体前，</span><br><span class='scene-font-katari'>罗贝利亚开心地</span><br><span class='scene-font-katari'>不停播放着录下的声音。</span>
-163,幼きロベリア,<span class='scene-font-4'>トレッビアンッ！</span><br>心の底から生を感じるよ！,<span class='scene-font-4'>Très bien（太棒了）！</span><br>我从心底感到了自己活着！
-164,幼きロベリア,メルシー！　ジュテーム！<br>パパ、ママ！　オレは！　くはっ！<br>あはははっ！　幸福に生きてみせるよ！,Merci（谢谢）！　Je t'aime（我爱你们）！<br>爸爸、妈妈！　我会！　哈哈！<br>啊哈哈哈！　幸福地生活下去的！
-165,幼きロベリア,<span class='scene-font-4'>くはっ！！　あははははっ！</span>,<span class='scene-font-4'>哈哈！！　哈哈哈哈哈！</span>
+163,幼きロベリア/年幼的罗贝利亚,<span class='scene-font-4'>トレッビアンッ！</span><br>心の底から生を感じるよ！,<span class='scene-font-4'>Très bien（太棒了）！</span><br>我从心底感到了自己活着！
+164,幼きロベリア/年幼的罗贝利亚,メルシー！　ジュテーム！<br>パパ、ママ！　オレは！　くはっ！<br>あはははっ！　幸福に生きてみせるよ！,Merci（谢谢）！　Je t'aime（我爱你们）！<br>爸爸、妈妈！　我会！　哈哈！<br>啊哈哈哈！　幸福地生活下去的！
+165,幼きロベリア/年幼的罗贝利亚,<span class='scene-font-4'>くはっ！！　あははははっ！</span>,<span class='scene-font-4'>哈哈！！　哈哈哈哈哈！</span>
 166,,<span class='scene-font-katari'>そしてこの日から、</span><br><span class='scene-font-katari'>ロベリアは人を壊し始めるのだった。</span>,<span class='scene-font-katari'>从这一天开始，</span><br><span class='scene-font-katari'>罗贝利亚开始破坏人类。</span>
 167,,<span class='scene-font-katari'>ただ、自分が幸福に生きるために。</span>,<span class='scene-font-katari'>这一切，都只是为了让自己幸福地活着。</span>
 info,,,scene_chr490_ep3_s10
