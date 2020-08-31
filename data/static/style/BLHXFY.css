@@ -373,6 +373,7 @@ body .cnt-order-box .cnt-btn-bottombox .btn-evolution:not(.disapprove)::after {
   content: "继续强化";
   font-size: 12px;
 }
+.prt-follow-button-enhance .btn-follow-base.js-location-evolution-base::after,
 .prt-module-evolution .btn-follow-again::after {
   content: "继续上限解放";
   font-size: 12px;
