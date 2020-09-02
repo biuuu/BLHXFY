@@ -1,0 +1,8 @@
+id,name,detail
+npc,米姆露梅莫露,3040292000
+special,？？？？,<div class=prt-text-small>火属性伤害(极大)/自身转晕获得气绝</div>
+skill-1,水溅跃,<div class=prt-text-small>我方火属性全体奥义值UP(70%)<br><span class=text-blue>◆无法再次使用</span></div>
+skill-2,海边喇叭,<div class=prt-text-small>我方火属性全体获得攻击UP/<br><span class=text-blue>◆无法再次使用</span></div>
+skill-3,鎏金钢管,<div class=prt-text-small>我方全体火属性全体获得屏障/弱体无效(1次)/驱散防御(1次)<br><span class=text-blue>◆无法再次使用</span></div>
+support-1,冲浪海龟,使用技能时获得1层冲浪(最大3层/消去不可)<br><span class=text-blue>◆冲浪3层时自身获得攻击UP/必TA/伤害上限UP</span>
+support-2,真夏的阳气,普通攻击的第3次攻击分裂为3次乱击/伤害UP
