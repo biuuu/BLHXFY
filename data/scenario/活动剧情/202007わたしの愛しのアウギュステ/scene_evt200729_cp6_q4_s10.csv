@@ -1,6 +1,6 @@
 id,name,text,trans
-0-chapter_name,,第6話 わたしの愛しのアウギュステ,第6話 我爱的水岛
-0-synopsis,,つい騎空団と楽しく遊んでしまったが、ハッと我に返るメグ。<span class='scene-font-place'>アウギュステ</span>の脅威は必ず現れるはずだと警戒し直すと、ふいに悲鳴が。しかし急いで駆けつけてみても、ありふれた魔物やゴロツキのケンカなどの些事ばかりだった。拍子抜けのメグをよそに、騎空団は間もなく帰ると言い出す。しかしその時、シェロカルテから、右腕がサメの男と両足がサメの男の目撃情報が入る。,一不小心就与骑空团一起玩了起来的梅格突然清醒过来。应该保持警惕<span class='scene-font-place'>奥古斯提</span>肯定会出现的威胁，梅格这样悲叹到。但是即使急忙赶去看，也尽是些常见的魔物和摩擦吵架之类的小事。不顾失望的梅格，骑空团表示自己马上就要回去了。但是这个时候，从谢洛科特那里传来了右手是鲨鱼的男人和双脚是鲨鱼的男人的目击信息。
+0-chapter_name,,第6話 わたしの愛しのアウギュステ,第6话 我最爱的奥古斯提
+0-synopsis,,つい騎空団と楽しく遊んでしまったが、ハッと我に返るメグ。<span class='scene-font-place'>アウギュステ</span>の脅威は必ず現れるはずだと警戒し直すと、ふいに悲鳴が。しかし急いで駆けつけてみても、ありふれた魔物やゴロツキのケンカなどの些事ばかりだった。拍子抜けのメグをよそに、騎空団は間もなく帰ると言い出す。しかしその時、シェロカルテから、右腕がサメの男と両足がサメの男の目撃情報が入る。,虽然是终于有机会和骑空团的人一起快乐玩耍了，但梅格突然醒悟过来。为了必定会出现在<span class='scene-font-place'>奥古斯提</span>的威胁，必须要保持警惕，突然传来了一声悲鸣，但是她急忙赶到后，见到的也只是一些常见的魔物和小混混的干架之类的小事。不顾失望的梅格，骑空团表示自己马上就要回去了。但是这个时候，从榭洛科特那里听到了右手是鲨鱼的男人和双脚是鲨鱼的男人的目击信息。
 1,メグ/梅格,それっ！,看招！
 2,,<span class='scene-font-katari'>メグが叩いたボールは</span><br><span class='scene-font-katari'>宙に放物線を描き、</span><br><span class='scene-font-katari'>ルリアのもとへ落ちていく。</span>,<span class='scene-font-katari'>梅格扣下的球</span><br><span class='scene-font-katari'>在空中划出一道抛物线，</span><br><span class='scene-font-katari'>朝露莉亚的脚边飞去。</span>
 3,ルリア/露莉亚,はいっ！,哈！
@@ -10,23 +10,23 @@ id,name,text,trans
 7,,<span class='scene-font-katari'>ビカラは宙で軽やかに一回転して</span><br><span class='scene-font-katari'>着地する前に</span><br><span class='scene-font-katari'>足でボールを蹴ってみせた。</span>,<span class='scene-font-katari'>碧卡拉在空中轻盈的转了一圈，</span><br><span class='scene-font-katari'>在落地之前</span><br><span class='scene-font-katari'>用脚将球踢了出去。</span>
 8,アニラ/阿妮拉,ほう！<br>見事じゃな、ビカラ！,嚯！<br>干的漂亮、碧卡拉！
 9,フェリ/菲莉,すごいな……！<br>ちょっと私には難しそうだ……,好厉害啊……！<br>好像有些难到我了……
-10,ビィ/碧,つっても、<br>ボールが飛んでっちまったぞ！,但是、<br>球飞出去了！
-11,,<span class='scene-font-katari'>ビカラが蹴ったボールが</span><br><span class='scene-font-katari'>地面に落ちる直前、</span><br><span class='scene-font-katari'>ひとつの影が下に滑り込んだ。</span>,<span class='scene-font-katari'>在碧卡拉踢出去的球</span><br><span class='scene-font-katari'>快要落到地上的瞬间，</span><br><span class='scene-font-katari'>一个黑影飞快的从下面滑过。</span>
+10,ビィ/碧,つっても、<br>ボールが飛んでっちまったぞ！,话说这么说，<br>球可是飞出去了啊！
+11,,<span class='scene-font-katari'>ビカラが蹴ったボールが</span><br><span class='scene-font-katari'>地面に落ちる直前、</span><br><span class='scene-font-katari'>ひとつの影が下に滑り込んだ。</span>,<span class='scene-font-katari'>在碧卡拉踢出去的球</span><br><span class='scene-font-katari'>快要落到地上的瞬间，</span><br><span class='scene-font-katari'>一个黑影飞快地从下面滑过。</span>
 13,ウルスラ,<span class='scene-font-4'>Sharrrk！</span>,<span class='scene-font-4'>Sharrrk！</span>
-15,ルリア/露莉亚,はわっ！<br>ウルスラさん、すごいです！<br>ボールを打ち上げました！,哈哇！<br>威尔斯拉、好厉害！<br>把球击出去了！
-16,メグ/梅格,あははっ！<br>よくやったね、ウルスラ……<br>って……,啊哈哈！<br>做得好，威尔斯拉……<br>嗯……
-17,メグ/梅格,フツーに遊んじゃってるんだけど！,普通的玩起来了！
+15,ルリア/露莉亚,はわっ！<br>ウルスラさん、すごいです！<br>ボールを打ち上げました！,哈哇！<br>乌苏拉，好厉害！<br>把球击出去了！
+16,メグ/梅格,あははっ！<br>よくやったね、ウルスラ……<br>って……,啊哈哈！<br>做得好，乌苏拉……<br>啊……
+17,メグ/梅格,フツーに遊んじゃってるんだけど！,这不只是很普通地在玩吗！
 18,ビィ/碧,なんだぁ？<br>遊んじゃダメなのか？,怎么了？<br>不可以玩吗？
 19,メグ/梅格,そういうわけじゃないけど……<br>ていうか、<br>それが目的だったわけだし……,也不是……<br>不如说，<br>那应该才是目的……
 20,メグ/梅格,あ、あれ？<br>じゃあ、いいのかな？<br>よくわからなくなってきちゃった……,啊，等等？<br>那么这样真的可以吗？<br>变得有些不太明白了……
 21,まりっぺ,落ち着いて、メグ。<br>きっと大丈夫よ。<br>なにも起きないわ。,冷静一点，梅格。<br>肯定没问题的啦。<br>啥都没发生啊。
-22,メグ/梅格,それはもちろん、<br>その方がいいけど……<br>でも……私もいるわけだし……,那当然是，<br>什么都没发生更好，但……<br>但……我也在这……
+22,メグ/梅格,それはもちろん、<br>その方がいいけど……<br>でも……私もいるわけだし……,那确实，<br>什么都没发生更好……<br>但是……我可是在这里啊……
 23,ビカラ/碧卡拉,なんだい？<br>メグがここにいると<br>なにかあるのかい？,怎么了？<br>梅格在这的话<br>会发生什么吗？
-24,メグ/梅格,私が<span class='scene-font-place'>アウギュステ</span>にいるってことは<br>なにか起きるってことなんだよ！<br>ジンクスっていうのかな……,如果我在<span class='scene-font-place'>奥古斯提</span>的话<br>就会发生点什么的！<br>该说是厄运体质吗……
-25,ビィ/碧,メグはおもしれぇこと言うなぁ！<br>心配し過ぎなんじゃねーか？,梅格说了很有趣的话呢！<br>但是不是担心过头啦？
+24,メグ/梅格,私が<span class='scene-font-place'>アウギュステ</span>にいるってことは<br>なにか起きるってことなんだよ！<br>ジンクスっていうのかな……,如果我在<span class='scene-font-place'>奥古斯提</span>的话<br>就肯定会发生点什么的！<br>该说是厄运体质吗……
+25,ビィ/碧,メグはおもしれぇこと言うなぁ！<br>心配し過ぎなんじゃねーか？,梅格说的还真是有趣啊！<br>但是不是担心过头啦？
 26,メグ/梅格,本当だよ……<br>冗談じゃないんだよ……,是真的啊……<br>没有在开玩笑……
 27,ビィとルリア/碧与露莉亚,…………,…………
-28,アニラ/阿妮拉,ふむ……<br>まぁ用心するに越したことはないが<br>各々、警戒はしつつ──,呼……<br>嘛还是小心一点好<br>要保持警惕──
+28,アニラ/阿妮拉,ふむ……<br>まぁ用心するに越したことはないが<br>各々、警戒はしつつ──,嗯……<br>确实小心行事是该放在第一的<br>我们就一边保持警惕──
 29,,<span class='scene-font-katari'>その時だった。</span>,<span class='scene-font-katari'>就在这时。</span>
 30,誰かの悲鳴,<span class='scene-font-4'>うわあああぁぁぁッ！！</span>,<span class='scene-font-4'>哇啊啊啊啊啊啊！！</span>
 31,メグ/梅格,やっぱりなにか起きた……<br>私、行ってくる！,果然出事了……<br>我去去就来！
@@ -37,39 +37,39 @@ id,name,text,trans
 41,魔物,…………,…………
 44,街の住民１,おぉ、すごい……って、<br>よく見ればメグちゃんじゃないか！<br>ありがとう！　頼もしいね！,哦，好厉害……这<br>仔细一看这不是梅格吗！<br>谢谢！　太可靠了！
 45,メグ/梅格,<span class='scene-font-4'>他は！？</span>,<span class='scene-font-4'>没别的了！？</span>
-46,街の住民１,え？　いや……<br>これだけだと思うけど……<br>まだなにか？,诶？　没……<br>虽然我觉得大概就是这样……<br>还有什么吗？
-47,メグ/梅格,あ、そうですか……,啊、这样吗……
+46,街の住民１,え？　いや……<br>これだけだと思うけど……<br>まだなにか？,诶？　没……<br>我觉得就是这么多了……<br>难道还有什么吗？
+47,メグ/梅格,あ、そうですか……,啊，这样吗……
 48,ちがう誰かの悲鳴,<span class='scene-font-4'>きゃあああぁぁぁッ！！</span>,<span class='scene-font-4'>呀啊啊啊啊啊啊啊！！</span>
 49,メグ/梅格,……あっちか！？,……在那边吗！？
-53,街の住民２,<span class='scene-font-4'>ケ、ケンカよぉ！！</span>,<span class='scene-font-4'>在、在吵架！！</span>
-54,ナンパ男,なんだぁ！？<br>テメーが肩、<br>ぶつけてきたんだろーがよぉ！？,怎么样！？<br>你的肩膀<br>撞到我了啊！？
+53,街の住民２,<span class='scene-font-4'>ケ、ケンカよぉ！！</span>,<span class='scene-font-4'>是、是在吵架啊！！</span>
+54,ナンパ男,なんだぁ！？<br>テメーが肩、<br>ぶつけてきたんだろーがよぉ！？,搞什么啊！？<br>是你的肩膀<br>撞到我了啊！？
 55,メグ/梅格,<span class='scene-font-4'>たあっ！！</span>,<span class='scene-font-4'>你这家伙！！</span>
 58,ナンパ男,<span class='scene-font-4'>ぐふっ！？</span>,<span class='scene-font-4'>呃啊！？</span>
 61,街の住民２,わぁ、すごい！<br>って、メグちゃんじゃない！<br>去年と同様に、カッコいいわね～,哇，好厉害！<br>这不是梅格吗！<br>和去年一样酷呢～
 62,メグ/梅格,いえ、そんなこと……,没这回事……
-64,アニラ/阿妮拉,くふふふっ！<br>八面六臂の活躍じゃのう～<br>感心、感心♪,库呼呼！<br>你真是活跃呢～<br>佩服、佩服♪
+64,アニラ/阿妮拉,くふふふっ！<br>八面六臂の活躍じゃのう～<br>感心、感心♪,呵呵！<br>真是像有三头六臂一样活跃呢～<br>佩服，佩服♪
 65,フェリ/菲莉,ああ、メグは強くなったんだな。,啊啊，梅格变强了呢。
 66,メグ/梅格,いや、こんな雑魚じゃなくて、<br>もっとこう……あるでしょ！？,没有，不是这样的杂鱼，<br>没有更那什么的……了吗！？
-72,,<span class='scene-font-katari'>しかし、メグの要求に</span><br><span class='scene-font-katari'>応えられる存在が現れる気配はなく、</span><br><span class='scene-font-katari'>ついには……</span>,<span class='scene-font-katari'>但是，没有符合梅格要求的气息存在。</span><br><span class='scene-font-katari'>最后……</span>
+72,,<span class='scene-font-katari'>しかし、メグの要求に</span><br><span class='scene-font-katari'>応えられる存在が現れる気配はなく、</span><br><span class='scene-font-katari'>ついには……</span>,<span class='scene-font-katari'>但是，现在完全没有应梅格要求的东西现身。</span><br><span class='scene-font-katari'>最后……</span>
 73,ビィ/碧,お～い！<br>そろそろ帰るぞ～！<br>次の依頼も入ってるしよ！,哦～<br>差不多可以回去了～！<br>还有下一个委托哦！
-74,アニラ/阿妮拉,もうそんな時間か、<br>名残惜しいのう……,已到这个时间了吗<br>真是遗憾……
-75,ルリア/露莉亚,この夏も楽しく過ごせましたね！,这个夏天也过的很开心！
-76,フェリ/菲莉,来年もまたみんなで来よう。<br>まだ回れてない島もあるしな。,明年大家再来吧。<br>还有岛还没转呢。
+74,アニラ/阿妮拉,もうそんな時間か、<br>名残惜しいのう……,已到这个时间了吗<br>真是舍不得啊……
+75,ルリア/露莉亚,この夏も楽しく過ごせましたね！,这个夏天也过得很开心！
+76,フェリ/菲莉,来年もまたみんなで来よう。<br>まだ回れてない島もあるしな。,我们明年也来吧。<br>还有没去转过的岛呢。
 77,メグ/梅格,え～……,诶～……
-78,,<span class='scene-font-katari'>帰ろうとする騎空団の面々を</span><br><span class='scene-font-katari'>メグはぼう然と眺めていたが、</span><br><span class='scene-font-katari'>ふと遠くから声がかかった。</span>,<span class='scene-font-katari'>面对说着“回去吧”的骑空团，</span><br><span class='scene-font-katari'>梅格呆呆的看着</span><br><span class='scene-font-katari'>突然从远处传来了声音呢。</span>
+78,,<span class='scene-font-katari'>帰ろうとする騎空団の面々を</span><br><span class='scene-font-katari'>メグはぼう然と眺めていたが、</span><br><span class='scene-font-katari'>ふと遠くから声がかかった。</span>,<span class='scene-font-katari'>就在梅格傻傻地看着要回去的骑空团一行人的时候，</span><br><span class='scene-font-katari'>突然从远处传来了声音。</span>
 79,シェロカルテ/榭洛科特,みなさ～ん、大変です～！,大～家、不好啦～！
 85,ルリア/露莉亚,どうしたんですか？,怎么了？
 86,ビィ/碧,まさか……！？,难道说……！？
-87,メグ/梅格,<span class='scene-font-4'>なにかあったの！？</span>,<span class='scene-font-4'>发生了什么吗！？</span>
-88,シェロカルテ/榭洛科特,メグさんが心配されていたので<br>私も気になって<span class='scene-font-place'>アウギュステ</span>中の<br>情報をかき集めてみたんです～,梅格之前担心的，<br>我也在留意，从<span class='scene-font-place'>奥古斯提</span>中<br>试着收集情报～
-89,シェロカルテ/榭洛科特,そうしましたら～<br>気になる話が飛び込んできまして～……,这样做了之后～<br>有些令人在意的流言传到了我这里～……
+87,メグ/梅格,<span class='scene-font-4'>なにかあったの！？</span>,<span class='scene-font-4'>是发生了什么吗！？</span>
+88,シェロカルテ/榭洛科特,メグさんが心配されていたので<br>私も気になって<span class='scene-font-place'>アウギュステ</span>中の<br>情報をかき集めてみたんです～,梅格一直在担心，<br>所以我也在留意着，在收集着<span class='scene-font-place'>奥古斯提</span>的各种情报～
+89,シェロカルテ/榭洛科特,そうしましたら～<br>気になる話が飛び込んできまして～……,然后呢～<br>有些令人在意的流言传到了我这里～……
 90,３人,気になる話……？,令人在意的传言……？
-91,シェロカルテ/榭洛科特,なんと……<br>ユディスティラ島とベンディク島で……,怎么说……<br>在奥古斯提岛和班迪克岛上……
-92,シェロカルテ/榭洛科特,右腕がサメの男性と<br>両足がサメの男性が<br>それぞれ目撃されていたとか～,有右臂是鲨鱼的男性<br>和双脚是鲨鱼的男性<br>被很多人看到了～
+91,シェロカルテ/榭洛科特,なんと……<br>ユディスティラ島とベンディク島で……,那个啊……<br>在由迪斯提拉岛和本迪克岛……
+92,シェロカルテ/榭洛科特,右腕がサメの男性と<br>両足がサメの男性が<br>それぞれ目撃されていたとか～,有人目击到了<br>右臂是鲨鱼的男人和双脚是鲨鱼的男人啊～
 93,ビィ/碧,な、なんだってぇ！？,什、什么！？
 94,ルリア/露莉亚,それって……！,也就是说……！
 95,メグ/梅格,私と同じ……？,和我一样……？
-96,,<span class='scene-font-katari'>シェロカルテが持ってきた、</span><br><span class='scene-font-katari'>右腕がサメの男と両足がサメの男の</span><br><span class='scene-font-katari'>目撃情報は一行に衝撃を与えた。</span>,<span class='scene-font-katari'>谢洛科特带来的关于</span><br><span class='scene-font-katari'>右手鲨鱼和两足鲨鱼的目击情报，</span><br><span class='scene-font-katari'>给大家带来了冲击。</span>
+96,,<span class='scene-font-katari'>シェロカルテが持ってきた、</span><br><span class='scene-font-katari'>右腕がサメの男と両足がサメの男の</span><br><span class='scene-font-katari'>目撃情報は一行に衝撃を与えた。</span>,<span class='scene-font-katari'>榭洛科特带来的关于</span><br><span class='scene-font-katari'>右手鲨鱼和两足鲨鱼的男人的目击情报，</span><br><span class='scene-font-katari'>给大家带来了冲击。</span>
 97,,<span class='scene-font-katari'>果たしてこれからなにが起きるのか。</span>,<span class='scene-font-katari'>在这之后又会发生什么呢。</span>
 info,,,scene_evt200729_cp6_q4_s10
 译者,,,

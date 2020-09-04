@@ -1,32 +1,32 @@
 id,name,text,trans
 0-chapter_name,,第5話 ビリビリメグDAYS☆クロニクル,第5话 麻麻酥酥梅格DAYS☆年代记
 0-synopsis,,メグはこれまでの数々の災難に対する怒りを灼弩火罹にぶつけ、灼弩火罹を倒す。それを見た人々はメグを英雄と称え、メグはこの夏、<span class='scene-font-place'>アウギュステ本島</span>の話題の中心となった。しかし、すでにメグは来年現れるであろう新たな脅威を見据えているのだった。,梅格把对至今的诸多苦难的怒火一股脑倾泻在灼弩火罹身上，打倒了灼弩火罹。目睹了这一切的人们称赞梅格为英雄，梅格在这个夏天，成为了<span class='scene-font-place'>奥古斯提本岛</span>的热门话题。但是，梅格很快又预想到了明年会出现新的威胁。
-1,メグ/梅格,これは初めてのバカンスを<br>アルバコアに台無しにされた時の分！,这是第一次的假期，<br>被长鳍金枪鱼弄泡汤的份！
+1,メグ/梅格,これは初めてのバカンスを<br>アルバコアに台無しにされた時の分！,这是第一次的度假，<br>被长鳍金枪鱼弄泡汤的份！
 3,灼弩火罹,──……！！,──……！！
 4,メグ/梅格,これはカツウォヌスの時の分！<br>これはウオノタユウの！,这是鲣鱼那时候的份！<br>这是翻车鱼的份！
 12,灼弩火罹,──……！,──……！
 13,メグ/梅格,これはベンディク島での分！<br>これはデンキンナギの！,这是本迪克岛那时的份！<br>这是电鳗的份！
 16,灼弩火罹,──……,──……
-17,メグ/梅格,そしてこれは……<br><span class='scene-font-4'>ただの私の憂さ晴らしだっ！！</span>,然后这是……<br><span class='scene-font-4'>只是为了排解我的郁闷！！</span>
+17,メグ/梅格,そしてこれは……<br><span class='scene-font-4'>ただの私の憂さ晴らしだっ！！</span>,然后这……<br><span class='scene-font-4'>只是为了排解我的郁闷！！</span>
 19,灼弩火罹,──…………,──…………
 23,,<span class='scene-font-katari'>それがトドメとなり、</span><br><span class='scene-font-katari'>灼弩火罹は崩れるように倒れ、</span><br><span class='scene-font-katari'>完全に沈黙した。</span>,<span class='scene-font-katari'>那一下成为了致命一击，</span><br><span class='scene-font-katari'>灼弩火罹像是崩塌一般地倒下，</span><br><span class='scene-font-katari'>完全归于沉寂了。</span>
 24,メグ/梅格,はぁ……はぁ……はぁ……,哈啊……哈啊……哈啊……
-26,まりっぺ,メグ～！,梅格~！
-27,シェロカルテ/榭洛科特,いや～本当に倒してしまいましたね～<br>素晴らしい活躍でした～,哎呀~真的打倒了呢~<br>真是精彩的表现啊~
-28,街の住民１,す、すごい！<br>あの女の子、<br>ひとりでバケモノを倒したぞ！,好，好厉害！<br>那个女孩子，一个人打倒了怪物呢！
+26,まりっぺ,メグ～！,梅格～！
+27,シェロカルテ/榭洛科特,いや～本当に倒してしまいましたね～<br>素晴らしい活躍でした～,哎呀～真的打倒了呢～<br>真是精彩的表现啊～
+28,街の住民１,す、すごい！<br>あの女の子、<br>ひとりでバケモノを倒したぞ！,好、好厉害！<br>那个女孩子，一个人打倒了怪物呢！
 29,街の住民２,でも左腕がサメよ……？<br>この前の騒ぎを思い出して、<br>なんだか怖いわ……,但是她的左手是鲨鱼吧……？<br>想起之前发生的骚乱，<br>总觉得好可怕啊……
 30,街の住民１,な～に、<br>ここは<span class='scene-font-place'>アウギュステ</span>じゃないか！<br>それがなんだってんだ！,说什么呢，这里可是<span class='scene-font-place'>奥古斯提</span>啊！<br>那又算得了什么呢！
 31,街の住民２,それもそうね！<br><span class='scene-font-place'>アウギュステ</span>を守ってくれた英雄なら<br>そういうこともあるわよね！,说的也是啊！<br>既然是守护了<span class='scene-font-place'>奥古斯提</span>的英雄，<br>那种事也可以接受的吧！
 32,街の住民１,ああ、そうだ！<br>英雄だ！<br><span class='scene-font-place'>アウギュステ</span>の新たな英雄だ！,啊啊，是啊！是英雄！<br>是我们<span class='scene-font-place'>奥古斯提</span>的新英雄！
-33,メグ/梅格,え、英雄……？<br>そんな……私は別に……,诶，英雄……？<br>怎么会……我并不……
+33,メグ/梅格,え、英雄……？<br>そんな……私は別に……,诶，英雄……？<br>怎么会……我也没做什么……
 34,,<span class='scene-font-katari'>死闘を見届けていた人々に</span><br><span class='scene-font-katari'>喝采を送られると、</span><br><span class='scene-font-katari'>メグはとまどったが……</span>,<span class='scene-font-katari'>被全程目睹死斗的人们致以喝彩，</span><br><span class='scene-font-katari'>梅格有些困惑……</span>
-35,シェロカルテ/榭洛科特,ふふふ～<br>メグさん、胸を張ってください～<br><span class='scene-font-place'>アウギュステ</span>を守ったんですから～,呵呵呵~梅格，请挺起胸膛吧~<br>你可是守护了<span class='scene-font-place'>奥古斯提</span>呀~
-36,メグ/梅格,あ、ど……どうも……<br>あはははは……<br>ありがとうございます～……,啊……谢……谢谢……<br>啊哈哈哈哈……<br>谢谢你们~
-37,,<span class='scene-font-katari'>ぎこちない笑顔で賛辞に応える</span><br><span class='scene-font-katari'>慣れない様子のメグを見て</span><br><span class='scene-font-katari'>となりに立つまりっぺは思った。</span>,<span class='scene-font-katari'>梅格以生疏的笑容应对赞誉，</span><br><span class='scene-font-katari'>一副十分不习惯的模样，</span><br><span class='scene-font-katari'>一旁看着她的玛丽丽不由想道。</span>
-38,まりっぺ,<span class='scene-font-kokoro'>（白馬の王子様になる、か……）</span>,<span class='scene-font-kokoro'>（成为白马王子殿下，吗……）</span>
-39,まりっぺ,<span class='scene-font-kokoro'>（王子様じゃなくて女の子だし、</span><br><span class='scene-font-kokoro'>白馬じゃなくてサメだけど、</span><br><span class='scene-font-kokoro'>こういうのもアリかもね……）</span>,<span class='scene-font-kokoro'>（虽然不是王子殿下而是个女孩子……</span><br><span class='scene-font-kokoro'>随行的不是白马而是鲨鱼……</span><br><span class='scene-font-kokoro'>但这样的也可以有吧……）</span>
+35,シェロカルテ/榭洛科特,ふふふ～<br>メグさん、胸を張ってください～<br><span class='scene-font-place'>アウギュステ</span>を守ったんですから～,呵呵呵～梅格，请挺起胸膛吧～<br>你可是守护了<span class='scene-font-place'>奥古斯提</span>呀～
+36,メグ/梅格,あ、ど……どうも……<br>あはははは……<br>ありがとうございます～……,啊……谢……谢谢……<br>啊哈哈哈哈……<br>谢谢你们～
+37,,<span class='scene-font-katari'>ぎこちない笑顔で賛辞に応える</span><br><span class='scene-font-katari'>慣れない様子のメグを見て</span><br><span class='scene-font-katari'>となりに立つまりっぺは思った。</span>,<span class='scene-font-katari'>梅格以僵笑应对赞誉，</span><br><span class='scene-font-katari'>一副十分不习惯的模样，</span><br><span class='scene-font-katari'>一旁看着她的玛丽丽不由想道。</span>
+38,まりっぺ,<span class='scene-font-kokoro'>（白馬の王子様になる、か……）</span>,<span class='scene-font-kokoro'>（成为白马王子，吗……）</span>
+39,まりっぺ,<span class='scene-font-kokoro'>（王子様じゃなくて女の子だし、</span><br><span class='scene-font-kokoro'>白馬じゃなくてサメだけど、</span><br><span class='scene-font-kokoro'>こういうのもアリかもね……）</span>,<span class='scene-font-kokoro'>（虽然不是王子而是个女孩子……</span><br><span class='scene-font-kokoro'>随行的不是白马而是鲨鱼……</span><br><span class='scene-font-kokoro'>但这样的也可以有吧……）</span>
 40,,<span class='scene-font-katari'>こうして灼弩火罹を倒したメグは</span><br><span class='scene-font-katari'>この夏、</span><span class='scene-font-place'>アウギュステ本島</span><span class='scene-font-katari'>で</span><br><span class='scene-font-katari'>話題の中心となった。</span>,<span class='scene-font-katari'>就这样，打倒了灼弩火罹的梅格，</span><br><span class='scene-font-katari'>在这个夏天里成为了</span><span class='scene-font-place'>奥古斯提本岛</span><span class='scene-font-katari'>的热门话题。</span>
-45,,<span class='scene-font-katari'>しかし、メグの瞳はすでに</span><br><span class='scene-font-katari'>来年も必ず現れるであろう</span><br><span class='scene-font-katari'>まだ見ぬ新たな脅威を映していた。</span>,<span class='scene-font-katari'>但是，梅格的眼中很快又映照出明年必将来访的，</span><br><span class='scene-font-katari'>至今从未见过的全新的威胁。</span>
+45,,<span class='scene-font-katari'>しかし、メグの瞳はすでに</span><br><span class='scene-font-katari'>来年も必ず現れるであろう</span><br><span class='scene-font-katari'>まだ見ぬ新たな脅威を映していた。</span>,<span class='scene-font-katari'>但是，梅格的眼中很快又映照出明年必将来临的，</span><br><span class='scene-font-katari'>至今从未见过的全新的威胁。</span>
 46,,<span class='scene-font-katari'>すべては幼い頃からの憧れの、</span><br><span class='scene-font-katari'>大好きな</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>を守るために……</span>,<span class='scene-font-katari'>一切都是为了守护自幼时开始一直憧憬的，</span><br><span class='scene-font-katari'>最爱的</span><span class='scene-font-place'>奥古斯提</span><span class='scene-font-katari'>……</span>
 info,,,scene_evt200729_cp5_q4_s30
 译者,,,
