@@ -7,7 +7,7 @@ import config from '../config'
 import insertToolHtml from '../story/insertToolHtml'
 import autoDownloadCsv from '../setting/autoDownloadCsv'
 import cloneDeep  from 'lodash/cloneDeep'
-import { getPreviewCsv, replaceWords, removeHtmlTag } from '../utils/'
+import { getPreviewCsv, replaceWords, removeHtmlTag, restoreHtml } from '../utils/'
 import filter from '../utils/XSSFilter'
 import transApi from '../utils/translation'
 import setFont from '../setting/scenarioFont'
@@ -67,7 +67,7 @@ const getStartIndex = (data) => {
 }
 
 const transMulti = async (list, nameMap, nounMap, nounFixMap, caiyunPrefixMap) => {
-  
+
   const userName = config.userName
   const lang = Game.lang
   const _list = list.map(txt => {
@@ -101,7 +101,7 @@ const transMulti = async (list, nameMap, nounMap, nounFixMap, caiyunPrefixMap) =
         const name = config.displayName || userName
         if (lang === 'en') {
           _str = _str.replace(new RegExp(`${config.defaultEnName}`, 'g'), name)
-        } 
+        }
         _str = _str.replace(new RegExp(`${config.defaultName}(先生|小姐)?`, 'g'), name)
       }
     }
@@ -262,10 +262,10 @@ const transStart = async (data, pathname) => {
     txtKeys.forEach(key => {
       if (obj[key]) {
         if (key === 'detail' && config.originText) {
-          item[key] = `${obj[key]}
+          item[key] = `${restoreHtml(obj[key], item[key])}
           <div class="blhxfy-origin-text" data-text='${removeHtmlTag(item[key], 0, true)}'> </div>`
         } else {
-          item[key] = obj[key]
+          item[key] = restoreHtml(obj[key], item[key])
         }
       }
     })

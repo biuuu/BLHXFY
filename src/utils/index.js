@@ -48,6 +48,44 @@ const removeHtmlTag = (str, count = 0, wrap) => {
   return removeNotMatchedHtmlTag(_str)
 }
 
+
+const isFullTag = (text) => {
+  let _text = trim(text.replace(/<br\s?\/?>/ig, ''))
+  let isFull = true
+  let type = ''
+  while (_text && isFull) {
+    let _type = ''
+    if (/^<span[^>]*>.+<\/span>/.test(_text)) {
+      _type = _text.match(/^(<span[^>]*>).+<\/span>/)[1]
+      _text = trim(_text.replace(/^<span[^>]*>.+<\/span>/, ''))
+      if (!type) type = _type
+      if (type !== _type) isFull = false
+    } else {
+      isFull = false
+    }
+  }
+  return isFull
+}
+
+const simpleHtml = (text) => {
+  let _text = text.replace(/<br\s?\/?>/ig, '\\n')
+  if (!isFullTag(text)) return _text
+  _text = _text.replace(/<(\w{1,7})[^>]*>([^<]*)<\/\1>/g, '$2')
+  return _text
+}
+
+const restoreHtml = (text, origin) => {
+  let html = text.replace(/\\n/g, '<br>')
+  if (!isFullTag(text) && isFullTag(origin)) {
+    let startText = origin.match(/(^<\w+[^>]*>)/)[1]
+    let tagName = startText.match(/<(\w+)[^>]*>/)[1]
+    html = html.split('<br>').map(txt => {
+      return `${startText}${txt}</${tagName}>`
+    }).join('<br>')
+  }
+  return html
+}
+
 const replaceWords = (str, map, lang = 'en') => {
   if (!str) return str
   let _str = str
@@ -137,5 +175,7 @@ export {
   removeTag,
   removeHtmlTag,
   getPlusStr,
-  race
+  race,
+  simpleHtml,
+  restoreHtml
 }

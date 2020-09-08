@@ -1,5 +1,5 @@
 import { scenarioCache, replaceChar } from '../modules/scenario'
-import { tryDownload, replaceWords, removeTag, removeHtmlTag } from '../utils/'
+import { tryDownload, replaceWords, removeTag, removeHtmlTag, simpleHtml } from '../utils/'
 import CONFIG from '../config'
 import CSV from 'papaparse/papaparse.min'
 import cloneDeep  from 'lodash/cloneDeep'
@@ -33,6 +33,7 @@ const dataToCsv = (data, fill, isTrans, isAutoTrans) => {
       let hasName = key === 'detail' && name && name !== 'null'
       if (txt) {
         txt = txt.replace(/\n/g, '')
+        txt = simpleHtml(txt)
         let trans = ''
         if (isTrans) {
           const obj = scenarioCache.transMap.get(item.id)
