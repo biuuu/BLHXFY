@@ -5,7 +5,7 @@ id,name,text,trans
 1,,<span class='scene-font-katari'>その島の中心部は市場が栄え、</span><br><span class='scene-font-katari'>商人や人々が行き交い、</span><br><span class='scene-font-katari'>活気に満ち溢れていた。</span>,<span class='scene-font-katari'>这是一个商业繁荣的岛、</span><br><span class='scene-font-katari'>商人和顾客来来往往、</span><br><span class='scene-font-katari'>街道充满了活力。</span>
 2,ヘルエス/赫尔艾斯,ふむ……,呼呣……
 3,ルリア/露莉亚,あれ？　ヘルエスさん、<br>そんな難しい顔してどうしたんです？,诶？赫尔艾斯小姐，一副很深奥的表情是怎么了吗？
-4,ヘルエス/赫尔艾斯,すみません……この活気ある市場を<br>見ていたら、かつてのアイルスト王国を<br>思い出しまして……,对不起……看着这样有活力的市场，就让人回忆起过去的艾尔斯特王国……
+4,ヘルエス/赫尔艾斯,すみません……この活気ある市場を<br>見ていたら、かつてのアイルスト王国を<br>思い出しまして……,对不起……看着这样有活力的市场，就让人回忆起过去的埃卢斯塔王国……
 5,ビィ/碧,そっか……<br>早く元通りになるといいな。,是吗……能早点恢复就好了啊。
 6,ヘルエス/赫尔艾斯,ええ、そのためにも<br>私もこれまでより一層、<br>努力をしていきたいと思います。,是的，就算是为了这个，我也要进一步努力才行。
 7,ヘルエス/赫尔艾斯,<span class='scene-font-kokoro'>（私が国のために何が出来るのか……</span><br><span class='scene-font-kokoro'>それをもっともっと</span><br><span class='scene-font-kokoro'>突き詰めていかなくては……）</span>,<span class='scene-font-kokoro'>（我就竟能为了国家做些什么……</span><br><span class='scene-font-kokoro'>如果不能更加深入这个</span><br><span class='scene-font-kokoro'>问题的核心的话……）</span>
@@ -29,7 +29,7 @@ id,name,text,trans
 29,,<span class='scene-font-katari'>パーシヴァルとヘルエスが、国造りの</span><br><span class='scene-font-katari'>参考のため、行き交う商人達から様々な</span><br><span class='scene-font-katari'>話を聞いて回っていたその時──</span>,<span class='scene-font-katari'>帕西瓦尔和赫尔艾斯、为了作为</span><br><span class='scene-font-katari'>建立国家的参考、准备向来往的商人</span><br><span class='scene-font-katari'>问各种各样的问题——</span>
 30,,<span class='scene-font-katari'>一隻の騎空艇が荒々しく港に着陸した。</span>,<span class='scene-font-katari'>这时，一艘骑空艇有些慌乱地到港了。</span>
 31,パーシヴァル/帕西瓦尔,ん？　<br>あの騎空艇に描かれた国旗は……,嗯？那艘骑空艇上的国旗是……
-32,ヘルエス/赫尔艾斯,はっ！？　<br>あれは、祖国である<br>アイルスト王国の騎空艇です！,哈！？那是、我的祖国艾尔斯特王国的骑空艇！
+32,ヘルエス/赫尔艾斯,はっ！？　<br>あれは、祖国である<br>アイルスト王国の騎空艇です！,哈！？那是、我的祖国埃卢斯塔王国的骑空艇！
 37,,<span class='scene-font-katari'>着陸したばかりの騎空艇に駆け寄る</span><br><span class='scene-font-katari'>ヘルエスとパーシヴァル。</span>,<span class='scene-font-katari'>赫尔艾斯和帕西瓦尔两人朝着</span><br><span class='scene-font-katari'>刚刚着陆的骑空艇靠近。</span>
 38,,<span class='scene-font-katari'>その騎空艇の中から降り立ったのは、</span><br><span class='scene-font-katari'>アルスター島からやって来た</span><br><span class='scene-font-katari'>伝令兵だった。</span>,<span class='scene-font-katari'>その騎空艇の中から降り立ったのは、</span><br><span class='scene-font-katari'>アルスター島からやって来た</span><br><span class='scene-font-katari'>伝令兵だった。</span>
 39,伝令兵,おお！　ヘルエス様！<br>まさかこんな早くに<br>お目にかかれるとは！,哦哦！赫尔艾斯殿下！竟然能够这么早就见到您真是！

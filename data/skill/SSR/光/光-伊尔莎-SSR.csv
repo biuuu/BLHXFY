@@ -1,0 +1,8 @@
+id,name,detail
+npc,伊尔莎,3040258000
+special,爆破清除,<div class=prt-text-small>光属性伤害(特大)/自身链接技能可立即使用/自身获得1层军资</div>
+skill-1,呼叫武装,<div class=prt-text-small>我方全体获得暗属性伤害减轻/自身展开阵地战<br><span class=text-blue>◆在阵地战状态下，敌人发动特殊技时自身获得2层军资</span></div>
+skill-2,午夜机动,<div class=prt-text-small>我方全体获得光属性追击/自身展开机动战<br><span class=text-blue>◆在机动战状态下，我方回避成功的回合结束时自身获得2层军资</span></div>
+skill-3,Guns R Us,<div class=prt-text-small>对敌方全体造成光属性伤害<br><span class=text-blue>阵地战状态:我方全体HP回复/防御UP(累积)/机动战状态：我方全体连击率UP(累积)</span></div>
+support-1,战术切换,阵地战状态时我方全体防御UP/机动战状态时我方全体回避率UP<br><span class=text-blue>◆阵地战和机动战只能展开一个</span>
+support-2,鬼教官的后勤,战斗开始时自身获得3层军资(最大3层)<br><span class=text-blue>◆回合结束时消耗1层军资发动「Guns R Us」</span>

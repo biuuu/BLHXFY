@@ -2,7 +2,7 @@ id,name,text,trans
 0-chapter_name,,想郷の旧姫,思念故乡的前公主 
 0-synopsis,,真龍メイヴを撃退後、アルスター島に住む者達には深い傷跡が残されていた。議会の議員達は慰霊祭を開こうと意見を交わすが、なかなかまとまらない。ヘルエスは旧王家の自分が口を出すべきではないと思い悩むが、乳母エルバハの言葉により決意を固め、議員達に意見を述べ協力を仰ぐ。元王女と議員達は、立場関係なく、島のために働こうという強い意志で一丸となるのだった。,击退真龙梅芙后，阿尔斯塔岛留下了深刻的伤痕。虽然议员们打算举办慰灵祭并交换了意见，但意见难以统一。赫尔艾斯认为身为前王族的自己不该开口而感到烦恼，但在乳母的埃尔芭哈的建议下下定了决心，向议员们提出了意见并共同协力。原王女和议员们无关身份立场，为了能为岛做出贡献而团结一心。
 2,,<span class='scene-font-spword'>星の民</span><span class='scene-font-katari'>による空の世界への侵攻を受け、</span><br><span class='scene-font-katari'>アルスター島に住む空の民と</span><br><span class='scene-font-katari'>力を合わせ戦った真龍ディアドラ。</span>,<span class='scene-font-katari'>受到星之民对空之世界的侵略，真龙和住在阿尔斯塔岛的空之民合力战斗。</span>
-3,,<span class='scene-font-katari'>彼女はアルスター島に興った</span><br><span class='scene-font-katari'>アイルスト王国の初代の王と契約を結び</span><br><span class='scene-font-katari'>長年島の魔物達を鎮めてきました。</span>,<span class='scene-font-katari'>她和让阿尔斯塔岛兴旺起来的艾尔斯特王国的初代王签订了契约，常年镇压着岛上的魔物。</span>
+3,,<span class='scene-font-katari'>彼女はアルスター島に興った</span><br><span class='scene-font-katari'>アイルスト王国の初代の王と契約を結び</span><br><span class='scene-font-katari'>長年島の魔物達を鎮めてきました。</span>,<span class='scene-font-katari'>她和让阿尔斯塔岛兴旺起来的埃卢斯塔王国的初代王签订了契约，常年镇压着岛上的魔物。</span>
 4,,<span class='scene-font-katari'>しかし長い時の中で契約は失伝し、</span><br><span class='scene-font-katari'>人の王はディアドラ討伐を騎士に命じ</span><br><span class='scene-font-katari'>彼女の器を滅ぼしてしまいます。</span>,<span class='scene-font-katari'>可是在漫长的岁月中王家的契约失传。人类的王命令骑士去讨伐迪亚朵拉并破坏了她的身体。</span>
 9,,<span class='scene-font-katari'>暴れる魔物達によって王国は滅び、</span><br><span class='scene-font-katari'>王の子セルエルとヘルエスは</span><br><span class='scene-font-katari'>真実を知りディアドラの核を保護。</span>,<span class='scene-font-katari'>暴乱的魔物毁灭了王国，王的孩子赫尔艾斯和塞鲁艾尔知道了真相，保护了迪亚朵拉的核心。</span>
 10,,<span class='scene-font-katari'>その後、仮の器の身で</span><br><span class='scene-font-katari'>人の子の営みに触れたディアドラは</span><br><span class='scene-font-katari'>王家の罪を許しました。</span>,<span class='scene-font-katari'>在那之后，身处人的姿态的容器中的迪亚朵拉接触到了人类的生活，原谅了王家的罪。</span>
@@ -15,7 +15,7 @@ id,name,text,trans
 41,スカーサハ/斯卡哈,…………,…………
 43,スカーサハ/斯卡哈,……エルバハか。,…………是埃尔芭哈吗。
 44,エルバハ/埃尔芭哈,ディアドラ様、ご機嫌麗しゅう。<br>風が強くなって参りましたが、<br>お寒くはございませんか？,迪亚朵拉大人，贵安。风逐渐变强了，您有感到冷吗？
-45,スカーサハ/斯卡哈,この程度、吾にはそよ風よ。<br>だが気遣いには礼を言う。,这种程度，对我来说只是微风。但是感谢你为我费心了。
+45,スカーサハ/斯卡哈,この程度、吾にはそよ風よ。<br>だが気遣いには礼を言う。,这种程度，对吾来说只是微风。但是感谢你为我费心了。
 46,スカーサハ/斯卡哈,……ヒトの子等にとっては、<br>この風は厳しくはないのか。<br>住む場所を失った者も多かろう。,……对于人类的孩子，这阵风会不会太大了。失去住所的人应该很多吧。
 47,エルバハ/埃尔芭哈,無事だった家屋を都合し<br>冬を凌いでおります。<br>持ちつ持たれつ、でございますね。,大家都暂住在没有损坏的房子里，准备过冬呢。这就是互相帮助、相互支持呢。
 48,エルバハ/埃尔芭哈,それも難しい場合は、王都にて<br>宿を用意するなど手配しておりますから<br>どうかご案じ召されませんよう。,就算这样还是很困难的情况、会在王都为他们准备好居住的地方。请不要过于担忧。
@@ -25,7 +25,7 @@ id,name,text,trans
 52,スカーサハ/斯卡哈,……そなた達は、強いな。,……你们，真是坚强啊。
 53,エルバハ/埃尔芭哈,貴女様がお守りくださるからこそです、<br>ディアドラ様。<br>……どうか御心安らかに。,正是因为有您的守护，我们才会这么坚强的，迪亚朵拉大人。……请安心。
 54,スカーサハ/斯卡哈,<span class='scene-font-kokoro'>（…………）</span>,<span class='scene-font-kokoro'>（…………）</span>
-55,スカーサハ/斯卡哈,<span class='scene-font-kokoro'>（……気を遣わせているのは</span><br><span class='scene-font-kokoro'>吾の方、か……</span><br><span class='scene-font-kokoro'>情けの無い……）</span>,<span class='scene-font-kokoro'>（……被担心的反而是我这边、吗……真是丢脸啊……）</span>
+55,スカーサハ/斯卡哈,<span class='scene-font-kokoro'>（……気を遣わせているのは</span><br><span class='scene-font-kokoro'>吾の方、か……</span><br><span class='scene-font-kokoro'>情けの無い……）</span>,<span class='scene-font-kokoro'>（……被担心的反而是吾这边、吗……真是丢脸啊……）</span>
 56,スカーサハ/斯卡哈,<span class='scene-font-kokoro'>（島を守ると言いながら、</span><br><span class='scene-font-kokoro'>この体たらくとは。</span><br><span class='scene-font-kokoro'>真龍の名が泣くというもの）</span>,<span class='scene-font-kokoro'>（嘴上说着要守护岛、却是这副狼狈的样子。真龙之名都要哭出声了。）</span>
 57,スカーサハ/斯卡哈,<span class='scene-font-kokoro'>（……真龍といえど、この程度よ。</span><br><span class='scene-font-kokoro'>わからぬのだろうなメイヴ、</span><br><span class='scene-font-kokoro'>そなたには……）</span>,<span class='scene-font-kokoro'>（……说是真龙，也不过是这种程度的东西。你是不会明白的吧，梅芙……）</span>
 63,,<span class='scene-font-katari'>メイヴの襲撃を退けるため、</span><br><span class='scene-font-katari'>住民達を率いていた</span><br><span class='scene-font-katari'>ヘルエス、セルエル、ノイシュ。</span>,<span class='scene-font-katari'>击败了梅芙、统率着岛上居民们的赫尔艾斯、塞鲁艾尔、诺伊修。</span>
@@ -78,7 +78,7 @@ id,name,text,trans
 117,セルエル/塞鲁艾尔,我々が同席することで<br>彼らが冷静さを保てるのなら、<br>幾らでも同席しましょう。,如果我们出席能让他们保持冷静的话、无论几次我们都能出席。
 118,セルエル/塞鲁艾尔,しかしそれ以上となれば話は異なる。<br>……我々は、<br>ただあるがままを見守るべきです。,但是如果超过这个范围就不一样了。……我们、应该只是守望着他们保持现状的样子。
 119,ヘルエス/赫尔艾斯,あるがまま……,保持现状……
-120,セルエル/塞鲁艾尔,議会のことだけではありません。<br>アイルスト王国が滅亡し、今また<br>アルスター島も甚大な被害を受けた。,并不只是议会的事情。艾尔斯特王国灭亡了、现在阿尔斯塔岛也受到了很大的伤害。
+120,セルエル/塞鲁艾尔,議会のことだけではありません。<br>アイルスト王国が滅亡し、今また<br>アルスター島も甚大な被害を受けた。,并不只是议会的事情。埃卢斯塔王国灭亡了、现在阿尔斯塔岛也受到了很大的伤害。
 121,セルエル/塞鲁艾尔,もし仮に、島の住民達が<br>故郷を離れる選択をしたとしても、<br>我々は受け入れなくては。,就算是岛上的住民选择了离开故乡，我们也不得不接受。
 122,ヘルエス/赫尔艾斯,それは……<br>……そうですね。<br>責めることなどできない選択です。,那是……是的呢。是无法去责备的选择呢。
 123,ヘルエス/赫尔艾斯,彼らにも生活がある。<br>故郷を離れるという辛い思いを経てでも<br>生きていかねばならない……,他们也有自己的生活。虽然离开故乡会觉得很难受，但也必须活下去……

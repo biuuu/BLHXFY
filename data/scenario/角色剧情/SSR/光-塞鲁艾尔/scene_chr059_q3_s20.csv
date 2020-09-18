@@ -7,12 +7,12 @@ id,name,text,trans
 3,ビィ/碧,それにしても意外だったよな。<br>セルエルが、<br>あんなに熱くなるなんてよ！,话说，还真令人意外呐。那个塞鲁艾尔竟然那么激动！
 4,セルエル/塞鲁艾尔,今度こそ救わねばと思ったのです……<br>一度……<br>似たような状況がありましたから。,是想着这次一定要拯救成功……毕竟……曾经有过一次类似的情况。
 5,セルエル/塞鲁艾尔,あの時は……<br>私が駆けつけた時には全て……<br>全て終わった後でした。,那个时候……等我赶到的时候……已经全部结束了。
-6,,<span class='scene-font-katari'>そう言ってセルエルが語る過去は、</span><br><span class='scene-font-katari'>祖国、アイルスト王国が</span><br><span class='scene-font-katari'>滅んだ時の記憶だった。</span>,<span class='scene-font-katari'>这样说着的塞鲁艾尔所讲述的、</span><br><span class='scene-font-katari'>是祖国、艾尔斯特王国被</span><br><span class='scene-font-katari'>毁灭时的记忆。</span>
+6,,<span class='scene-font-katari'>そう言ってセルエルが語る過去は、</span><br><span class='scene-font-katari'>祖国、アイルスト王国が</span><br><span class='scene-font-katari'>滅んだ時の記憶だった。</span>,<span class='scene-font-katari'>这样说着的塞鲁艾尔所讲述的、</span><br><span class='scene-font-katari'>是祖国、埃卢斯塔王国被</span><br><span class='scene-font-katari'>毁灭时的记忆。</span>
 7,セルエル/塞鲁艾尔,首都のすぐ隣の山には、<br>ディアドラという強大な魔物が、<br>魔物達の王として君臨していました。,就在首都附近的山上、居住着名为迪亚朵拉的强大的魔物、作为魔物的王居住在山上。
 8,セルエル/塞鲁艾尔,ディアドラと魔物達は山脈を根城に<br>国を脅かすことなく<br>長い間沈黙を守っていたのですが……,迪亚朵拉和魔物们以山脉作为根据地，不对国家造成威胁、长时间保持着沉默……
 11,,<span class='scene-font-katari'>星晶獣の討伐要請に出征し、</span><br><span class='scene-font-katari'>国を空けていたセルエルに</span><br><span class='scene-font-katari'>信じられない知らせが飛び込んでくる。</span>,<span class='scene-font-katari'>接受了讨伐星晶兽的委托、</span><br><span class='scene-font-katari'>离开祖国的塞鲁艾尔收到了</span><br><span class='scene-font-katari'>令人难以置信的消息。</span>
 12,,<span class='scene-font-katari'>それは、</span><br><span class='scene-font-katari'>ディアドラが何者かによって</span><br><span class='scene-font-katari'>倒された……という内容だった。</span>,<span class='scene-font-katari'>那是、</span><br><span class='scene-font-katari'>迪亚朵拉被不知道什么人打到了</span><br><span class='scene-font-katari'>……这样的内容。</span>
-13,,<span class='scene-font-katari'>そして、</span><br><span class='scene-font-katari'>ディアドラによる制御を失った魔物達が</span><br><span class='scene-font-katari'>アイルストを滅ぼしたというものだった。</span>,<span class='scene-font-katari'>于是、</span><br><span class='scene-font-katari'>失去了迪亚朵拉控制的魔物们开始暴走</span><br><span class='scene-font-katari'>艾尔斯特王国灭亡了。</span>
+13,,<span class='scene-font-katari'>そして、</span><br><span class='scene-font-katari'>ディアドラによる制御を失った魔物達が</span><br><span class='scene-font-katari'>アイルストを滅ぼしたというものだった。</span>,<span class='scene-font-katari'>于是、</span><br><span class='scene-font-katari'>失去了迪亚朵拉控制的魔物们开始暴走</span><br><span class='scene-font-katari'>埃卢斯塔王国灭亡了。</span>
 16,セルエル/塞鲁艾尔,そのディアドラを<br>倒したとされているのが<br>……私が探している男なのです。,而打倒迪亚朵拉的……正是我在寻找的男人。
 17,セルエル/塞鲁艾尔,生き残った民から聞いた話では、<br>彼は己の武勲を増やすため暴走し、<br>ディアドラの討伐に向かった……,从活下来的民众那里听到的话来看，他是为了增加自己的武勋而暴走，才前去讨伐迪亚朵拉的……
 18,セルエル/塞鲁艾尔,私の父である王が<br>こと切れる間際に、<br>そのように語っていたそうです。,似乎是我的父亲也就是国王，在临死时是这样传达的。
@@ -20,8 +20,8 @@ id,name,text,trans
 20,セルエル/塞鲁艾尔,いいえ、<br>彼は私の父である王に忠を尽くす<br>最高の騎士だった……,不、他是向我的父亲献上忠诚的最优秀的骑士……
 21,セルエル/塞鲁艾尔,彼に限って、<br>己が名誉のためだけに民を……<br>国を危険にさらすなどありえない。,只有他、是绝不会为了自己的名誉而让民众……让国家陷入危险之中的。
 22,セルエル/塞鲁艾尔,だから探しているのです。<br>真実を知るため……<br>そして彼にいまの祖国を伝えるため。,所以我在找他……为了知道真相……也为了告诉他现在祖国的情况。
-23,ビィ/碧,いまの祖国って、<br>アイルストは滅んじまったんじゃ……,现在的祖国什么的、艾尔斯特已经毁灭了不是吗……
-24,セルエル/塞鲁艾尔,ふっ……アイルスト王国の民を<br>侮ってはいけません。,呵……请不要小看艾尔斯特王国的子民。
+23,ビィ/碧,いまの祖国って、<br>アイルストは滅んじまったんじゃ……,现在的祖国什么的、埃卢斯塔已经毁灭了不是吗……
+24,セルエル/塞鲁艾尔,ふっ……アイルスト王国の民を<br>侮ってはいけません。,呵……请不要小看埃卢斯塔王国的子民。
 25,セルエル/塞鲁艾尔,かつてに比べれば細々としたものですが<br>生き残りの民や臣下を集め、<br>祖国はすでに復興を始めています。,虽然和以前比起来是有些勉强，但是活下来的民众和臣子都集合起来，祖国已经开始复兴了。
 26,セルエル/塞鲁艾尔,このことを、<br>どこかへと姿を消した彼に、<br>何としても伝えたいのです。,我想将这件事情，不论如何都要传达给不知道在哪里消失了踪迹的他。
 27,ルリア/露莉亚,ふふ……<br>伝えられるといいですね……<br>いつか必ず、その人に……,呵呵……能传达到就好了呢……某一天一定、向那个人……

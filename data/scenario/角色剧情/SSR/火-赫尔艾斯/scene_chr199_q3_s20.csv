@@ -25,7 +25,7 @@ id,name,text,trans
 27,ヘルエス/赫尔艾斯,……何を謝るのですか？<br>もっと自信を持ちなさい。,……有什么好抱歉的？对自己更有自信一些吧。
 28,近衛兵１,はっ……,是……
 29,ヘルエス/赫尔艾斯,今の判断は正しい……<br>これからも貴様達は、<br>民のことを第一に考えなさい。,刚才的判断是正确的……这之后你们也要把民众的安全放到第一位考虑。
-30,ヘルエス/赫尔艾斯,そうすれば、<br>アイルストの未来は安泰でしょう……,只要这样，艾尔斯特的未来就是和平的吧……
+30,ヘルエス/赫尔艾斯,そうすれば、<br>アイルストの未来は安泰でしょう……,只要这样，埃卢斯塔的未来就是和平的吧……
 31,近衛兵２,は、はい！<br>肝に銘じておきます！,是、是！我会铭记于心的！
 32,,<span class='scene-font-katari'>近衛兵の言葉を受けたヘルエスは、</span><br><span class='scene-font-katari'>その日、初めて満足そうに微笑んだ。</span>,<span class='scene-font-katari'>听到了近卫兵的回答的赫尔艾斯、</span><br><span class='scene-font-katari'>露出了那一天第一个满足的微笑。</span>
 36,,<span class='scene-font-katari'>それから数日後。</span><br><span class='scene-font-katari'>再び旅立つ姬塔一行を</span><br><span class='scene-font-katari'>見送りに現れる近衛兵達。</span>,<span class='scene-font-katari'>在那之后又过了几天。</span><br><span class='scene-font-katari'>近卫兵们来为再次出发旅行的</span><br><span class='scene-font-katari'>姬塔一行人送行。</span>
@@ -40,7 +40,7 @@ id,name,text,trans
 45,ヘルエス/赫尔艾斯,では……<br>そろそろ参りましょうか。,那么……差不多就送到这里吧。
 49,,<span class='scene-font-katari'>一行を乗せた騎空艇が、</span><br><span class='scene-font-katari'>ゆっくりと離陸し始める。</span>,<span class='scene-font-katari'>一行所乘坐的骑空艇</span><br><span class='scene-font-katari'>开始缓缓驶离阿尔斯塔岛。</span>
 50,,<span class='scene-font-katari'>騎空艇の縁に歩み寄るヘルエスは、</span><br><span class='scene-font-katari'>兵士達に向かって言葉を投げかけた。</span>,<span class='scene-font-katari'>走在骑空艇的船边的赫尔艾斯、</span><br><span class='scene-font-katari'>朝着士兵们这样说道。</span>
-53,ヘルエス/赫尔艾斯,我が自慢の精鋭達よ……<br>アイルストの民を、頼みました。,我自豪的精锐们啊……艾尔斯特的子民，就拜托你们了。
+53,ヘルエス/赫尔艾斯,我が自慢の精鋭達よ……<br>アイルストの民を、頼みました。,我自豪的精锐们啊……埃卢斯塔的子民，就拜托你们了。
 54,,<span class='scene-font-katari'>短い言葉の内に込められた</span><br><span class='scene-font-katari'>万感の思いを感じ取った兵士達は、</span><br><span class='scene-font-katari'>涙をこらえて敬礼する。</span>,<span class='scene-font-katari'>感受到蕴含在短短的话语里的</span><br><span class='scene-font-katari'>万千思绪的士兵们、</span><br><span class='scene-font-katari'>忍着泪水向赫尔艾斯敬礼。</span>
 55,,<span class='scene-font-katari'>敬礼を返すヘルエスの</span><br><span class='scene-font-katari'>表情は読み取れない。</span>,<span class='scene-font-katari'>虽然看不见回礼的赫尔艾斯的表情。</span>
 56,,<span class='scene-font-katari'>だが、手すりに零れた小さな滴を、</span><br><span class='scene-font-katari'>姬塔は見逃さなかった。</span>,<span class='scene-font-katari'>但是、姬塔并没有看漏那</span><br><span class='scene-font-katari'>滴在栏杆上的小小水珠。</span>
