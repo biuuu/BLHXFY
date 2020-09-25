@@ -19,6 +19,7 @@ const saveList = async (data) => {
 const createBox = () => {
   const box = document.createElement('div')
   box.id = 'box-sub-blhxfy'
+  box.innerHTML = '<div></div>'
   return box
 }
 
@@ -44,7 +45,7 @@ const setSubBox = (text, duration) => {
   if (config.userName && (config.userName !== '姬塔' || config.userName !== '古兰')) {
     _text = _text.replace(/(团长|姬塔)/g, config.displayName || config.userName)
   }
-  box.innerText = _text.replace(/\\n/g, '\n')
+  box.querySelector('div').innerText = _text.replace(/\\n/g, '\n')
   setTimeout(() => {
     box.style.opacity = 1
     box.style.pointerEvents = 'auto'
