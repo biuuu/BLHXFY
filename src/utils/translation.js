@@ -12,9 +12,7 @@ const joinBr = (list, br, transArr) => {
     while (i >= 0) {
       i--
       let _str = list.shift()
-      if (_str) {
-        str += _str + '\n'
-      }
+      str += _str + '\n'
     }
     if (str) {
       transArr.push(str.slice(0, str.length - 1))
