@@ -1,0 +1,40 @@
+id,name,text,trans
+0-chapter_name,,十天衆との邂逅②,十天衆との邂逅②
+0-synopsis,,十狼雷の覚醒についての相談をするため、よろず屋を訪れた姬塔一行。そこには、以前すれ違った女性客エッセルが居た。その後一行は、シェロカルテからエッセルが最強の十天衆のひとりであることを聞き、驚愕する。一行はエッセルから十狼雷の危険性を忠告され、改めて気を引き締めるのだった。,姬塔一行人为了让十狼雷觉醒而来到万事屋商量。之前来过的客人艾瑟尔正好也在那里。然后一行人惊讶的从榭洛科特口中听闻了艾瑟尔正是最强的十天众之一。一行人被艾瑟尔告知了十狼雷的危险性，重新绷紧了神经。
+0,,<span class='scene-font-katari'></span><span class='scene-font-spword'>「十狼雷」</span><span class='scene-font-katari'>の「覚醒」を進める</span><br><span class='scene-font-katari'>姬塔達は、アドバイスを求め</span><br><span class='scene-font-katari'>シェロカルテのよろず屋へ足を向けた。</span>,<span class='scene-font-katari'>进行着</span><span class='scene-font-spword'>「十狼雷」</span><span class='scene-font-katari'>的「觉醒」的姬塔等人，为了寻求意见前往榭洛科特的万事屋。</span>
+1,,<span class='scene-font-katari'>よろず屋の店先には</span><br><span class='scene-font-katari'>荷物を詰めた箱が</span><br><span class='scene-font-katari'>所狭しと積まれていた。</span>,<span class='scene-font-katari'>万事屋前面装着货物的箱子堆得满满当当。</span>
+2,ルリア/露莉亚,わぁ～、すごい荷物の量……！<br>これ、全部食べ物みたいです。,哇～、好多货物……！<br>这些、好像全部都是食物。
+3,ビィ/碧,この量じゃ、<br>揃えるだけで一苦労だろうなぁ。<br>何かあったのか？,这个数量光是备齐就很辛苦了。<br>发生了什么吗？
+4,？？？,ん……ゴメン、通りにくい？,嗯……抱歉，妨碍你们通行了吗？
+5,ルリア/露莉亚,あっ、この荷物は<br>お姉さんのですか？,啊、这些货物都是姐姐你的吗？
+6,？？？,そう。<br>よろず屋さんに注文した。,是的。<br>是我跟万事屋订的。
+7,ビィ/碧,なぁなぁ、こんなに沢山の食い物、<br>何に使うんだ？,我说，这么多食物，你要用在什么地方啊？
+8,？？？,ん……弟妹達のご飯。,嗯……弟妹他们的饭。
+9,ルリア/露莉亚,そうなんですか！？<br>大家族なんですねぇ。,是这样吗！？<br>真是个大家族啊。
+10,シェロカルテ/榭洛科特,エッセルさんは、<br><span class='scene-font-place'>星屑の街</span>の子供達全員が<br>家族ですからね～,因为艾瑟尔小姐她把<span class='scene-font-place'>星屑之街</span>里所有孩子都当做家人啊～
+11,ビィ/碧,……ん？　街全員が家族？<br>そりゃ、どういうこった？,……嗯？　街上的所有人都是家人？<br>这是怎么回事啊？
+12,エッセル/艾瑟尔,ん……<span class='scene-font-place'>星屑の街</span>は、親のない子、<br>捨てられた子、逃げ出した子……<br>行き場のない子が集まる場所。,嗯……<span class='scene-font-place'>星屑之街</span>是没有双亲的孩子、被丢弃的孩子、逃出来的孩子……<br>没有归处的孩子的聚集地。
+13,シェロカルテ/榭洛科特,エッセルさんは<br><span class='scene-font-place'>星屑の街</span>にいる子供達の<br>世話を焼いているんですよ～,艾瑟尔小姐她正在照顾<span class='scene-font-place'>星屑之街</span><br>的孩子们呢～
+14,シェロカルテ/榭洛科特,それだけでなく～<br>なんと～！<br>あの十天衆のおひとりなんですよ～,不仅如此～<br>而且～！<br>还是那个十天众其中的一人哦～
+15,ルリア/露莉亚,十天衆……ですか？,十天众……吗？
+16,シェロカルテ/榭洛科特,あ、あれ～！？<br>ご存じないんですか～！？<br>最強の騎空団、十天衆を～！？,啊、啊勒～！？<br>你们不知道吗～！？<br>那个最强的骑空团，十天众～！？
+17,シェロカルテ/榭洛科特,十天衆は一人ひとりが異なる武器の<br>最強の使い手でして～<br>全空の脅威とも呼ばれているんです～！,十天众的每一个人都是不同武器的最强使用者～<br>可是被称为全空的威胁啊～！
+18,ルリア/露莉亚,最強……！？<br>そ、そんなに<br>すごい騎空団なんですか！？,最強……！？<br>那、那么厉害的骑空团吗！？
+19,エッセル/艾瑟尔,……普段は、みんな<br>好きにしているし……大それたことは、<br>しない……と、思う。,……其实平时、大家都各自做自己的事……<br>不会做无法无天的事……应该。
+20,エッセル/艾瑟尔,ん……いや、サラーサあたりは……？<br>でも、脅威と呼ばれても、<br>悪事を働く訳じゃないよ。,嗯……不、萨拉萨那边的话……？<br>但是、虽然被称为威胁，但并不是做了什么坏事哦。
+21,ルリア/露莉亚,なるほど、子供達の世話を見ている<br>エッセルさんみたいに、<br>みなさん優しい人なんですね！,原来如此，<br>大家一定都是像照顾孩子的艾瑟尔小姐一样，<br>都是温柔的人吧！
+22,エッセル/艾瑟尔,ん……褒められることでは……<br>…………！？,嗯……这不是值得表扬的……<br>…………！？
+23,エッセル/艾瑟尔,…………,…………
+24,ビィ/碧,お、おぅ？　どうした姉ちゃん、<br>どうかしたのか？<br><span class='scene-font-spword'>「十狼雷」</span>をじっと見つめてさ。,哦、哦？　怎么了小姐姐？发生了什么事吗？<br>一直盯着<span class='scene-font-spword'>「十狼雷」</span>。
+25,エッセル/艾瑟尔,……<span class='scene-font-spword'>「十狼雷」</span>……<br>ん……これは、間違いなく<br><span class='scene-font-spword'>「天星器」</span>……,……<span class='scene-font-spword'>「十狼雷」</span>……<br>嗯……这个、毫无疑问是<span class='scene-font-spword'>「天星器」</span>……
+26,ルリア/露莉亚,てんせいき……？<br>それはなんですか？,tian xing qi……？<br>那是什么？
+27,エッセル/艾瑟尔,私も、話に聴いただけ……<br>でも、とても強い力を持つ武器だから、<br>危険だと聴いたよ。,我也只是听说过……<br>不过我听说的是它是非常强力的武器，所以很危险。
+28,エッセル/艾瑟尔,……扱いには、気をつけて。,……要使用的话，请多加小心。
+29,エッセル/艾瑟尔,ん……急に、ごめんね。<br>よろず屋さん、表の荷物を<br><span class='scene-font-place'>星屑の街</span>に運びたいのだけど。,嗯……抱歉，突然说这些。<br>万事屋，我想把那些货物运到<span class='scene-font-place'>星屑之街</span>。
+30,シェロカルテ/榭洛科特,はいはい～！<br>お任せください～！,好的好的～！<br>包在我身上～！
+32,ビィ/碧,<span class='scene-font-spword'>「天星器」</span>か……<br>なんとなくは解ってたけど、<br>やっぱりいわくつきなんだな。,<span class='scene-font-spword'>「天星器」</span>吗……<br>虽然多少猜到了，果然是有点问题的东西啊。
+33,ビィ/碧,とはいえ、ここまでやってきたんだ！<br>「覚醒」させても姬塔なら<br>きっと扱いきれるさ！　なっ！,话虽如此、但都做到这一步了！<br>让它「覚醒」之后姬塔也一定能使用的！　对吧！
+34,,<span class='scene-font-katari'>最強と目される十天衆の１人、</span><br><span class='scene-font-katari'>エッセルさえ警戒するという</span><br><span class='scene-font-katari'></span><span class='scene-font-spword'>「天星器」</span><span class='scene-font-katari'>の力。</span>,<span class='scene-font-katari'>连被认为最强的十天众中的一员的艾瑟尔都警戒的</span><span class='scene-font-spword'>「天星器」</span><span class='scene-font-katari'>的力量。</span>
+35,,<span class='scene-font-katari'>己が手にしようとしている物を</span><br><span class='scene-font-katari'>改めて自覚し、気を引き締める</span><br><span class='scene-font-katari'>姬塔だった。</span>,<span class='scene-font-katari'>姬塔重新认识了自己想要得到的东西，绷紧了神经。</span>
+info,,,scene_evolutionweapon_10_ep2
+译者,,,

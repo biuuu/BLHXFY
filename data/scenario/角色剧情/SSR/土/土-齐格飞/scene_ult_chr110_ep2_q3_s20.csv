@@ -1,0 +1,121 @@
+id,name,text,trans
+0-chapter_name,,黒き陰謀,漆黑的阴谋
+0-synopsis,,アンデッドの剣士を一刀両断したジークフリート。教会に逃げ込んだハーゲンは逃げ遅れた親子を人質にジークフリートに致命傷を負わせる。しかし、ジークフリートは隠し持っていた刃でついにハーゲンを討ち取る。ジークフリートもまた瀕死の状態だったものの、人間離れした驚異的な回復力を見せ、再び仲間達と笑いあえる時間を取り戻したのだった。,齐格飞将活死人剑士一刀两断。逃进教堂的哈根抓住一对没能逃走的母子做人质，并趁机给了齐格飞致命一击。可是，齐格飞用藏在手中的小刀将哈根杀死。尽管齐格飞已经陷入濒死状态，但他凭借着超人的回复能力，再一次与同伴们度过了欢声笑语的时光。
+0,,<span class='scene-font-katari'>アンデッド達を蹴散らす</span><br><span class='scene-font-katari'>姬塔一行。</span>,<span class='scene-font-katari'>姬塔一行人将活死人们一个个击垮了。</span>
+1,,<span class='scene-font-katari'>ジークフリートは、</span><br><span class='scene-font-katari'>アンデッドの剣士と</span><br><span class='scene-font-katari'>せめぎ合う。</span>,<span class='scene-font-katari'>齐格飞正与活死人剑士互相对峙。</span>
+2,ジークフリート/齐格飞,はぁぁああああッ！,哈啊啊啊啊啊啊！
+5,アンデッドの剣士,うぐあっ！？,咕啊！？
+6,,<span class='scene-font-katari'>圧倒的な膂力で相手を押し切り、</span><br><span class='scene-font-katari'>その身体を強引に一刀両断する</span><br><span class='scene-font-katari'>ジークフリート。</span>,<span class='scene-font-katari'>齐格飞以压倒性的膂力向对手砍去，将他的身体一刀两断。</span>
+7,アンデッドの剣士,ぐっ……がふっ……,呜……噶哈……
+9,ハーゲン,ば、馬鹿な！<br>私の最高傑作が一撃で……,不、不可能！<br>居然一击就将我的最高杰作给……
+10,ジークフリート/齐格飞,所詮、俺に形を似せただけの<br>木偶人形……,归根结底，这不过就是个<br>外形与我相似的<br>傀儡人偶罢了……
+11,ジークフリート/齐格飞,この程度で後れを取るはずもない。,我可不会输给这种东西。
+12,ランスロット/兰斯洛特,やった！<br>ジークフリートさんが仕留めたぞ！,太好了！<br>齐格飞先生解决掉它了！
+13,ヴェイン/维恩,うおお！<br>さっすがジークフリートさん！,喔哦哦！<br>不愧是齐格飞先生！
+14,ハーゲン,くそっ！<br>ば、化物めぇ！,可恶！<br>你、你这怪物！
+15,ハーゲン,くそっ！　くそっ！<br>くそがぁぁぁーっ！,可恶！可恶！<br>可恶啊啊啊——！
+16,,<span class='scene-font-katari'>追い詰められたハーゲンは、</span><br><span class='scene-font-katari'>教会の建物へ逃げ込もうとする。</span>,<span class='scene-font-katari'>被逼入绝路的哈根</span><br><span class='scene-font-katari'>逃进了教堂里。</span>
+17,ジークフリート/齐格飞,後は雑魚を片付ければ終いだ。<br>観念しろ、ハーゲン。,接下来，只要把这群虾兵蟹将<br>给解决干净，就结束了。<br>死心吧，哈根。
+18,,<span class='scene-font-katari'>その時、教会の陰で震える</span><br><span class='scene-font-katari'>親子を発見するハーゲン。</span>,<span class='scene-font-katari'>就在这时，哈根发现了一对在教堂的阴影中瑟瑟发抖的母子。</span>
+19,ハーゲン,くっ……くははははっ！<br>天はまだ私を見捨ててはいなかった！,呵……呵哈哈哈哈！<br>看来老天还没有舍弃我！
+20,母親/母亲,ひっ……<br>た、助けて……,咿……<br>救、救救我……
+21,子供/孩子,お、お母さん……,妈、妈妈……
+22,ハーゲン,それ以上動いてみろ、<br>こいつらをぶっ殺すぞ！,你再敢动一下试试，<br>我就杀了他们！
+23,ジークフリート/齐格飞,くっ……,啧……
+24,ハーゲン,おい！　どうした？<br>早くその剣も捨てろ！,喂！怎么了？<br>快点把剑扔掉！
+25,ジークフリート/齐格飞,わかった……,我知道了……
+26,,<span class='scene-font-katari'>ハーゲンの言う通りに</span><br><span class='scene-font-katari'>大剣を投げ捨てるジークフリート。</span>,<span class='scene-font-katari'>齐格飞只能听从哈根的指令，</span><br><span class='scene-font-katari'>扔掉了大剑。</span>
+27,ジークフリート/齐格飞,言う通りにしたぞ……<br>その親子を解放しろ。,我已经照你说的做了……<br>马上放了那对母子。
+28,ハーゲン,まだだ！<br>お前の仲間達も近づかせるな！,不行！<br>你的同伙也不许接近！
+29,ジークフリート/齐格飞,お前達……<br>それ以上、こっちに来るな。,你们……<br>不许靠过来。
+30,ランスロット/兰斯洛特,ジークフリートさん！,齐格飞先生！
+31,ヴェイン/维恩,で、でもよぉ！,但、但是！
+32,ジークフリート/齐格飞,頼む……<br>俺の言う事を聞いてくれ。,拜托了……<br>照我说的做吧。
+33,ランスロット/兰斯洛特,わかりました……,我知道了……
+34,,<span class='scene-font-katari'>ジークフリートの言葉に</span><br><span class='scene-font-katari'>従う姬塔一行。　</span>,<span class='scene-font-katari'>姬塔一行人听从了齐格飞说的话。</span>
+35,,<span class='scene-font-katari'>ジークフリートの気が</span><br><span class='scene-font-katari'>逸れた瞬間。</span>,<span class='scene-font-katari'>就在齐格飞走神的瞬间。</span>
+37,ジークフリート/齐格飞,ぐ……がはっ……,咕……哈……
+38,,<span class='scene-font-katari'>ハーゲンの剣が</span><br><span class='scene-font-katari'>その身体を貫いていた。</span>,<span class='scene-font-katari'>哈根的剑贯穿了他的身体。</span>
+39,ランスロット/兰斯洛特,貴様！　やめろぉぉぉ！,你！　住手啊啊啊！
+40,ジークフリート/齐格飞,動く……なっ！<br>ランスロット！,不许……动！<br>兰斯洛特！
+41,ランスロット/兰斯洛特,ぐっ……！,呜……！
+42,ヴェイン/维恩,これが黙ってられるかってんだ！,这让人怎么坐得住啊！
+43,ジークフリート/齐格飞,頼む。<br>俺なら問題無い……,拜托了。<br>我没事的……
+44,ハーゲン,くくくく……<br>問題無いだとぉ……？,呵呵呵……<br>你说没事……？
+45,ハーゲン,人体の急所をついたんだ！<br>これでもう動けるはずがない……,我已经击3中了你的要害！<br>你已经死了……
+46,ジークフリート/齐格飞,…………,…………
+47,ハーゲン,ふふふ……<br>お前の肉体を使えば、<br>我が最高傑作は間違いない……,呵呵呵……<br>如果使用了你的肉体，<br>我肯定能做出最棒的杰作……
+48,,<span class='scene-font-katari'>ジークフリートの傍に</span><br><span class='scene-font-katari'>歩み寄るハーゲン。</span>,<span class='scene-font-katari'>哈根向齐格飞走去。</span>
+49,,<span class='scene-font-katari'>ハーゲンがジークフリートに</span><br><span class='scene-font-katari'>術式を施そうとした瞬間。</span>,<span class='scene-font-katari'>就在哈根对齐格飞实战法术的瞬间。</span>
+51,ハーゲン,あ……え……？,啊……诶……？
+52,,<span class='scene-font-katari'>ハーゲンの首元から</span><br><span class='scene-font-katari'>赤い鮮血が噴き出す。</span>,<span class='scene-font-katari'>哈根的脖子喷出了鲜红的血液。</span>
+53,,<span class='scene-font-katari'>ジークフリートは、腕に仕込んだ刃で</span><br><span class='scene-font-katari'>ハーゲンの首を切り裂いたのだった。</span>,<span class='scene-font-katari'>齐格飞用藏在手里的小刀，</span><br><span class='scene-font-katari'>划开了哈根的脖子。</span>
+54,ジークフリート/齐格飞,だ、大丈夫か……<br>ゴフッ……,没、没事吧……<br>咳……
+55,,<span class='scene-font-katari'>ハーゲンの返り血を浴びた</span><br><span class='scene-font-katari'>ジークフリートは、必死に</span><br><span class='scene-font-katari'>親子の元へ這い寄る。</span>,<span class='scene-font-katari'>齐格飞浑身沾满了哈根的血，</span><br><span class='scene-font-katari'>向那对母子走去。</span>
+56,母親/母亲,ひっ……あ、あの……<br>ご、ごめんなさい！,咿……那、那个……<br>对、对不起！
+58,,<span class='scene-font-katari'>怯えきった母親は、</span><br><span class='scene-font-katari'>子供を連れて</span><br><span class='scene-font-katari'>一目散に逃げ去る。</span>,<span class='scene-font-katari'>胆怯的母亲带着孩子，</span><br><span class='scene-font-katari'>一溜烟地逃跑了。</span>
+59,ハーゲン,くくく……<br>お前も……既に……<br>化物だったようだなぁ……,呵呵呵……<br>你已经……<br>变成怪物了……
+61,,<span class='scene-font-katari'>薄笑いを浮かべたまま</span><br><span class='scene-font-katari'>息絶えるハーゲンに呼応して、</span><br><span class='scene-font-katari'>アンデッド達は消滅していった。</span>,<span class='scene-font-katari'>在哈根冷笑着死去的同时，</span><br><span class='scene-font-katari'>所有的活死人也随之消失了。</span>
+62,,<span class='scene-font-katari'>慌ててジークフリートの元に</span><br><span class='scene-font-katari'>駆けつける一行。</span>,<span class='scene-font-katari'>一行人赶忙冲到齐格飞身边。</span>
+63,ランスロット/兰斯洛特,ジ、ジークフリートさん……<br>そんな……,齐、齐格飞先生……<br>怎么会……
+64,ジークフリート/齐格飞,うぐっ……があっ！,呜咕……呃哈！
+65,ヴェイン/维恩,お、おいジークフリートさん！<br>剣を抜いたら血が噴き出しちまうって！,喂、喂齐格飞先生！<br>把剑拔出来的话会喷血的！
+66,ジークフリート/齐格飞,ぐっ……がふっ……,呜……哈……
+67,ジークフリート/齐格飞,ふふっ……<br>今回は、さすがに堪えたな……,呵呵……<br>这次，实在是撑不住了……
+68,ランスロット/兰斯洛特,ジークフリートさん！<br>意識をしっかり持ってください！,齐格飞先生！<br>请保持清醒！
+69,ジークフリート/齐格飞,すまない……ランスロット。<br>いまは少し……眠らせてくれ……,抱歉……兰斯洛特。<br>现在就让我……睡一会吧……
+70,ランスロット/兰斯洛特,ジークフリートさん！<br>ジークフリートさぁん！,齐格飞先生！<br>齐格飞先生！
+71,,<span class='scene-font-katari'>一行の呼びかけも空しく、</span><br><span class='scene-font-katari'>そのまま意識を失う</span><br><span class='scene-font-katari'>ジークフリート。</span>,<span class='scene-font-katari'>一行人的呼喊声并没有任何作用，齐格飞就那样失去了意识。</span>
+72,,<span class='scene-font-katari'>かくして、ハーゲンの目論みは、</span><br><span class='scene-font-katari'>ジークフリート達の活躍によって</span><br><span class='scene-font-katari'>打ち砕かれた。</span>,<span class='scene-font-katari'>就这样，齐格飞一行人大展身手，粉碎了哈根的阴谋。</span>
+73,,<span class='scene-font-katari'>村を襲ったアンデッド化の波は、</span><br><span class='scene-font-katari'>ジークフリートの対処によって</span><br><span class='scene-font-katari'>それ以上、広がることは無かった。</span>,<span class='scene-font-katari'>那场席卷了村庄的活死人化风波，</span><br><span class='scene-font-katari'>也因为齐格飞的处理，</span><br><span class='scene-font-katari'>没有再扩大范围。</span>
+74,,<span class='scene-font-katari'>それから、数日の時が流れた。</span>,<span class='scene-font-katari'>自那以后，过去了数日。</span>
+75,,<span class='scene-font-katari'>城の医務室のベッドに横たわる</span><br><span class='scene-font-katari'>ジークフリートの周囲には、</span><br><span class='scene-font-katari'>仲間達が集まっていた。</span>,<span class='scene-font-katari'>在城堡的医务室里，</span><br><span class='scene-font-katari'>同伴们聚集在卧病在床的齐格飞身边。</span>
+76,ランスロット/兰斯洛特,…………,…………
+77,ヴェイン/维恩,…………,…………
+78,ビィ/碧,…………,…………
+79,ルリア/露莉亚,…………,…………
+80,ジークフリート/齐格飞,う……うぅ……,呜……呜……
+81,ランスロット/兰斯洛特,ジークフリートさん！,齐格飞先生！
+82,ジークフリート/齐格飞,ランスロット、か……<br>俺は……,兰斯洛特，吗……<br>我这是……
+83,ランスロット/兰斯洛特,あれからずっと……<br>眠ってたんですよ？,你从那次之后……<br>就一直一睡不起哦。
+84,ランスロット/兰斯洛特,でも良かった……<br>ジークフリートさん……,但是太好了……<br>齐格飞先生……
+85,ヴェイン/维恩,あの後、瀕死のジークフリートさんを<br>俺がここまで担いで来たんだぜ！,那之后，是我把濒死的齐格飞先生搬到这里来的！
+86,ヴェイン/维恩,ランちゃんは動揺しすぎて、<br>それどころじゃなかったもんな！,兰酱那个时候都快崩溃了，<br>根本帮不上忙嘛！
+87,ランスロット/兰斯洛特,お、おいヴェイン！,喂、喂维恩！
+88,ヴェイン/维恩,わはははは！<br>冗談だって冗談！,哇哈哈哈哈！<br>我开玩笑的，玩笑啦！
+89,ヴェイン/维恩,ランちゃんも必死に医者を<br>呼びに行ってくれたよな！,兰酱也尽全力去找医生了嘛！
+90,ジークフリート/齐格飞,ランスロット……ヴェイン……<br>それから姬塔達……,兰斯洛特……维恩……<br>还有姬塔你们……
+91,ジークフリート/齐格飞,本当に、ありがとう。,真的，谢谢你们。
+92,ジークフリート/齐格飞,皆には……すっかり世話を<br>かけてしまったようだな……,给各位……添了不少麻烦……
+93,ビィ/碧,まぁまぁ気にすんなって！<br>だってオイラ達、仲間だろ？,好了好了别在意啦！<br>我们不是同伴吗？
+94,ルリア/露莉亚,はい！　みんなが無事で<br>本当に良かったです！,是的！　大家都没事<br>真是太好了！
+95,ジークフリート/齐格飞,ふふっ……<br>お前達らしいな。,呵呵……<br>真有你们的作风。
+96,ジークフリート/齐格飞,……っ！？<br>……うぐっ。,……！？<br>……呜。
+97,,<span class='scene-font-katari'>ベッドから体を起こそうとした</span><br><span class='scene-font-katari'>ジークフリートは、苦痛に顔を歪める。</span>,<span class='scene-font-katari'>齐格飞试着从床上坐起来，却疼得皱紧了眉头。</span>
+98,ランスロット/兰斯洛特,ジークフリートさん！<br>まだ無理は禁物です！,齐格飞先生！<br>不可以勉强自己！
+99,ヴェイン/维恩,あ……そうだそうだ！<br>実は、医者に見せた時には、<br>もうほとんど出血も止まってて……,啊……对了对了！<br>其实，医生赶来的时候，<br>血已经差不多止住了……
+100,ヴェイン/维恩,普通なら死んでて当然なのに、<br>人間離れした生命力だーって……<br>医者もスッゲー驚いてたんだぜ！,要是普通人的话肯定已经没命了，<br>医生都惊了！<br>说你的生命力简直超出常人。
+101,,<span class='scene-font-katari'>実際、ジークフリートの体の傷は、</span><br><span class='scene-font-katari'>もうほとんど塞がっていた。</span>,<span class='scene-font-katari'>实际上，齐格飞身上的伤，</span><br><span class='scene-font-katari'>已经差不多痊愈了。</span>
+102,,<span class='scene-font-katari'>傷口の上に手を当てた</span><br><span class='scene-font-katari'>ジークフリートは、</span><br><span class='scene-font-katari'>微笑を湛えながら答える。</span>,<span class='scene-font-katari'>齐格飞将手覆在伤口上，</span><br><span class='scene-font-katari'>满面微笑地回答道。</span>
+103,ジークフリート/齐格飞,実はな……<br>いつかのファフニール退治で、<br>その返り血を全身に浴びてから……,实际上……<br>在某次退法夫尼尔后，<br>我的全身都布满了它的血……
+104,ジークフリート/齐格飞,俺の体は、<br>人よりも傷の治りが早くてな。,自那之后，<br>我的身体就比普通人恢复的更快了。
+105,ジークフリート/齐格飞,……ふっ……どうだ？<br>もはや化物だろう？,……呵……怎么样？<br>是不是像怪物一样？
+106,,<span class='scene-font-katari'>ジークフリートの言葉に</span><br><span class='scene-font-katari'>固唾を呑んで聞き入る一行。</span>,<span class='scene-font-katari'>听闻齐格飞的话，</span><br><span class='scene-font-katari'>一行人不禁吞了口唾沫。</span>
+107,,<span class='scene-font-katari'>小刻みに震えるヴェインは、</span><br><span class='scene-font-katari'>ジークフリートに掴みかかる。</span>,<span class='scene-font-katari'>微微颤抖的维恩</span><br><span class='scene-font-katari'>紧紧地抓住齐格飞。</span>
+108,ヴェイン/维恩,……いやいやいや！<br>スゲーよジークフリートさん！,……不不不不！<br>超厉害啊齐格飞先生！
+109,ヴェイン/维恩,マジでカッコいいっすよ！<br>もうヒーロー過ぎじゃないですか！,这也太帅了！<br>不是像英雄一样吗！
+110,ジークフリート/齐格飞,か、かっこいい……だと？,帅……？
+111,,<span class='scene-font-katari'>隣りのランスロットが</span><br><span class='scene-font-katari'>堪えきれずに笑いだす。</span>,<span class='scene-font-katari'>一旁的兰斯洛特忍不住笑出了声。</span>
+112,ランスロット/兰斯洛特,ははははは！<br>カッコいい……か。,哈哈哈哈哈！<br>帅……吗。
+113,ランスロット/兰斯洛特,でも……<br>今回ばかりはヴェインに賛成します。,但是……<br>这次我要赞同维恩。
+114,ランスロット/兰斯洛特,俺達は、ジークフリートさんが<br>無事なら……何もいう事はありません。,对于我们来说，<br>只要齐格飞先生没事……<br>我们就别无所求了。
+115,,<span class='scene-font-katari'>二人の言葉を受けて、</span><br><span class='scene-font-katari'>呆れた表情のジークフリート。</span>,<span class='scene-font-katari'>听闻两人的话后，</span><br><span class='scene-font-katari'>齐格飞一脸愕然。</span>
+116,ジークフリート/齐格飞,まったく……<br>お前達というヤツは……,真是的……<br>你们两个……
+117,ビィ/碧,そうだな！<br>オイラ達も別に気にしねぇぞ！,没错！<br>我也一点都不在意哦！
+118,ルリア/露莉亚,うふふっ……<br>みんな、ジークフリートさんのことが<br>大好きなんですね！,呵呵呵……<br>大家都最喜欢齐格飞先生了！
+119,,<span class='scene-font-katari'>仲間達の姿を見つめながら、</span><br><span class='scene-font-katari'>優しく目を細めるジークフリート。</span>,<span class='scene-font-katari'>注视着同伴们的身姿，</span><br><span class='scene-font-katari'>齐格飞温柔的笑了起来。</span>
+120,ジークフリート/齐格飞,ふっ……,呵……
+121,ジークフリート/齐格飞,<span class='scene-font-kokoro'>（……これではおちおち</span><br><span class='scene-font-kokoro'>死ぬこともできんな。）</span>,<span class='scene-font-kokoro'>（……看来，我暂时还不能安心赴死啊。）</span>
+122,,<span class='scene-font-katari'>こうして、仲間達の手厚い看護の</span><br><span class='scene-font-katari'>甲斐もあり、ジークフリートは</span><br><span class='scene-font-katari'>みるみる内に回復していった。</span>,<span class='scene-font-katari'>就这样，在同伴们热情的照顾下，齐格飞很快就痊愈了。</span>
+123,,<span class='scene-font-katari'>病床に伏せるジークフリートの周りでは、</span><br><span class='scene-font-katari'>仲間達の笑い声が絶える事が無かった。</span>,<span class='scene-font-katari'>在齐格飞的病床周围，</span><br><span class='scene-font-katari'>同伴们的笑声不断。</span>
+info,,,scene_ult_chr110_ep2_q3_s20

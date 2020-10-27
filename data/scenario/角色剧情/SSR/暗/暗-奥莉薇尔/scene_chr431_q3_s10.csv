@@ -1,0 +1,44 @@
+id,name,text,trans
+0-chapter_name,,堕天司の矜持,堕天司の矜持
+0-synopsis,,魔物との最初の戦いを終えた直後、姬塔達の前に幽世の存在が姿を現す。幽世の存在は魔物に囲まれ危機を迎えた女性に、「姬塔達を呼び出せば助けてやる」と呼び掛けて自らを空の世界に顕現させていた。依頼人に半ば騙された形となった姬塔は呆然とするが、オリヴィエに発破をかけられ幽世の存在と戦う。,就在与魔物战斗完之后，姬塔一行的面前出现了幽世的存在。它们对被魔物围困的女性说‘你把姬塔他们叫过来，我就帮你’，借此出现在空之世界。被委托人欺骗的姬塔愣住了，但是奥莉薇尔让她振作起来于幽世的存在开始战斗。
+1,,<span class='scene-font-katari'>魔物達を倒した姬塔は、</span><br><span class='scene-font-katari'>他の場所にいる仲間達と合流し</span><br><span class='scene-font-katari'>別の魔物の集団の元へ向かおうとする。</span>,<span class='scene-font-katari'>姬塔打倒魔物后，</span><br><span class='scene-font-katari'>与其他人汇合</span><br><span class='scene-font-katari'>前往别的魔物的根据地。</span>
+2,オリヴィエ/奥莉薇尔,待て、姬塔殿。<br>焦る気持ちは解るが<br>まずは傷の手当てを。,慢着，姬塔阁下。<br>我明白你焦急的心情<br>但是要先处理伤口。
+3,オリヴィエ/奥莉薇尔,急がば回れだ。<br>焦るだけでは却って効率が悪い。,欲速则不达。<br>着急上火只会让事态变糟。
+4,,<span class='scene-font-katari'>姬塔は</span><br><span class='scene-font-katari'>オリヴィエの言葉に従い、</span><br><span class='scene-font-katari'>傷の確認をしようとする。</span>,<span class='scene-font-katari'>姬塔</span><br><span class='scene-font-katari'>听了奥莉薇尔的话，</span><br><span class='scene-font-katari'>去处理了伤口。</span>
+5,,<span class='scene-font-katari'>しかし、それを完了する前に</span><br><span class='scene-font-katari'>姬塔は異様な気配に</span><br><span class='scene-font-katari'>気づき顔を上げた。</span>,<span class='scene-font-katari'>但是，在处理完之前，</span><br><span class='scene-font-katari'>姬塔注意到奇怪的气息</span><br><span class='scene-font-katari'>抬起脸来。</span>
+6,ルリア/露莉亚,この気配、<br>魔物、じゃないですよね……？,这个气息，<br>不是，魔物吧……？
+7,ルリア/露莉亚,でも、感じたことがあります……,但是，在哪里见过……
+8,ルリア/露莉亚,これは……,这是……
+15,幽世の存在,…………！<br>見つけたぞ、赤き竜に蒼の娘……！,…………！<br>找到了，赤龙和苍之少女……！
+16,オリヴィエ/奥莉薇尔,……幽世の存在か！,……幽世的东西吗！
+17,,<span class='scene-font-katari'>姬塔とオリヴィエは</span><br><span class='scene-font-katari'>ビィとルリアを</span><br><span class='scene-font-katari'>庇うように立ちはだかる。</span>,<span class='scene-font-katari'>姬塔和奥莉薇尔把</span><br><span class='scene-font-katari'>碧和露莉亚</span><br><span class='scene-font-katari'>护在中间。</span>
+17-sel1_txt,,<span class='scene-font-katari'>誰が呼び出したんだろう……？</span>,<span class='scene-font-katari'>是谁召唤出来的……？</span>
+18,オリヴィエ/奥莉薇尔,姬塔殿の言う通りだ。<br>奴らがこちらに出てくるには、<br>一定の手順が要る。,姬塔阁下问得好。<br>要让他们出现，<br>需要一定的仪式。
+19,オリヴィエ/奥莉薇尔,中でも、<br>奴らの呼び声へ応える者の存在は<br>必須のはず……,其中，<br>回应他们呼声的人<br>是重中之重……
+20,オリヴィエ/奥莉薇尔,<span class='scene-font-kokoro'>（しかし……姬塔は</span><br><span class='scene-font-kokoro'>一体どこでその情報を得た……？）</span>,<span class='scene-font-kokoro'>（但是……姬塔</span><br><span class='scene-font-kokoro'>是从哪里得到这个情报的……？）</span>
+21,幽世の存在,我に応えた者……か。<br>知りたいのなら教えよう……,回应吾之人……吗。<br>想知道的话就告诉你吧……
+22,村の女性/村里的女性,う、うぅっ……,唔，唔唔……
+23,ビィ/碧,んなっ！？<br>姉ちゃんは村から助けを呼びに来た……,！？<br>姐姐你不是为了救村子……
+24,ビィ/碧,騎空艇で待っててくれって言ったのに、<br>どうしてここにいるんだぁ！？,不是说让你待在骑空艇上，<br>你怎么在这里！？
+25,幽世の存在,く、くく……<br>無垢にして愚かな……！,哈，哈哈……<br>纯粹的愚昧……！
+26,村の女性/村里的女性,ごめんなさい、ごめんなさい……！,对不起，对不起……！
+27,村の女性/村里的女性,村が魔物に囲まれて……<br>もう何日も経って……,村子被魔物包围……<br>已经好几天了……
+28,村の女性/村里的女性,どうしようもなくなった時に……<br>言われたの……,正在我手足无措的时候……<br>它说……
+29,村の女性/村里的女性,あなた方を呼び出せば、<br>私や村の人の命を助けてやるって……！,只要找到你们，<br>就会救我和村里人的性命……！
+30,ルリア/露莉亚,……そんな……！,……这……！
+31,村の女性/村里的女性,ごめんなさい……ごめんなさい！！<br>あなた方が危ない目に遭うって、<br>それは解ってたけど……！,对不起……对不起！！<br>让你们遇到危险<br>这我很清楚……！
+32,村の女性/村里的女性,それでも、私達は死にたくない！<br><span class='scene-font-4'>死にたくないの！！</span>,但是，我们也不想死啊！<br><span class='scene-font-4'>不想死啊！！</span>
+33,,<span class='scene-font-katari'>村の女性の言葉に</span><br><span class='scene-font-katari'>呆然とする姬塔。</span>,<span class='scene-font-katari'>村里女性的发言</span><br><span class='scene-font-katari'>让姬塔呆住了。</span>
+34,幽世の存在,お前達はヒトの子を<br>救いたがる……,你们太想<br>救这些人了……
+35,幽世の存在,呼び出すことは容易。<br>奪うことも……容易！！,引蛇出洞很容易。<br>夺取……也容易！！
+40,,<span class='scene-font-katari'>吠えた幽世の存在は</span><br><span class='scene-font-katari'>ビィとルリアに手を伸ばす。</span>,<span class='scene-font-katari'>叫嚣不止的幽世的存在</span><br><span class='scene-font-katari'>把手伸向碧和露莉亚。</span>
+41,ビィ/碧,うひゃぁっ！？,呜哇！？
+42,ルリア/露莉亚,きゃあっ！,呀啊！
+43,オリヴィエ/奥莉薇尔,<span class='scene-font-4'>下がるんだ！</span><br><span class='scene-font-4'>ふたり共っ！！</span>,<span class='scene-font-4'>你们两个！</span><br><span class='scene-font-4'>快退下！！</span>
+49,,<span class='scene-font-katari'>幽世の存在の力を、</span><br><span class='scene-font-katari'>オリヴィエが切り払い</span><br><span class='scene-font-katari'>ふたりを守る。</span>,<span class='scene-font-katari'>奥莉薇尔用力斩断，</span><br><span class='scene-font-katari'>幽世之力，</span><br><span class='scene-font-katari'>守护着两个人。</span>
+50,オリヴィエ/奥莉薇尔,姬塔殿ッ！<br>敵前だぞ、気を抜くな！,姬塔阁下！<br>敌人就在眼前，不要放松！
+51,オリヴィエ/奥莉薇尔,ビィとルリアを<br>むざむざと渡すつもりか！,难道要将碧和露莉亚<br>随随便便地交给他吗！
+52,オリヴィエ/奥莉薇尔,動揺している場合ではない、<br>幽世の存在を討ち果たすぞ！！,现在不是动摇的时候，<br>准备好干掉幽世的东西！！
+53,,<span class='scene-font-katari'>オリヴィエに叱咤され、</span><br><span class='scene-font-katari'>姬塔は武器を構え直す。</span>,<span class='scene-font-katari'>被奥莉薇尔呵斥了的姬塔，</span><br><span class='scene-font-katari'>重新举起武器。</span>
+54,オリヴィエ/奥莉薇尔,それでいい……行くぞ！,这就对了……上！
+info,麻友桑的话筒,,scene_chr431_q3_s10

@@ -1,0 +1,26 @@
+id,name,text,trans
+0-chapter_name,,善良なる協力者,善良なる協力者
+0-synopsis,,一行はテレサの願いを聞き入れ、覇空戦争の記憶の中で、迫りくる星晶獣や魔物を相手に獅子奮迅の働きを見せる。テレサはそんな一行を神妙な表情で高台から見下ろしながら、一行の無事を祈るのだった。,一行はテレサの願いを聞き入れ、覇空戦争の記憶の中で、迫りくる星晶獣や魔物を相手に獅子奮迅の働きを見せる。テレサはそんな一行を神妙な表情で高台から見下ろしながら、一行の無事を祈るのだった。
+1,,<span class='scene-font-katari'>至る所で巻き上がる土煙と火薬の香り。</span>,<span class='scene-font-katari'>尘土四处飞扬，弥漫着硝烟的气息。</span>
+13,,<span class='scene-font-katari'>轟音が鳴り響き、数多の星晶獣達が</span><br><span class='scene-font-katari'>蠢き、交差し、衝突している。</span>,<span class='scene-font-katari'>轰鸣不止，无数的星晶兽蠢动着、</span><br><span class='scene-font-katari'>针锋相对地发生着冲突。</span>
+14,,<span class='scene-font-spword'>星の民</span><span class='scene-font-katari'>と空の民との間で</span><br><span class='scene-font-katari'>過去に勃発した熾烈を極めた戦いが</span><br><span class='scene-font-katari'>繰り広げられている。</span>,<span class='scene-font-katari'>星之民与空之民之间展开了</span><br><span class='scene-font-katari'>过去曾爆发过的激烈战争。</span>
+15,,<span class='scene-font-katari'>その戦争に参加する新たな３つの影。</span>,<span class='scene-font-katari'>有三个未曾见过的身影出现于其中。</span>
+16,ビィ/碧,ルリア！　こっちだ！,露莉亚！　这边！
+20,ルリア/露莉亚,召喚します！,我要召唤了！
+20-sel1_txt,,<span class='scene-font-katari'>はあああっ！</span>,<span class='scene-font-katari'>哈啊啊啊！</span>
+24,マリア・テレサ/玛利亚・特蕾莎,姬塔さん達、本当にすごい……<br>記憶の中とはいえ、<br>これは覇空戦争なのに……,姬塔他们，真的好厉害……<br>虽说只是在记忆中，但这可是霸空战争啊……
+25,,<span class='scene-font-katari'>一行は戦争の前線に立ち、</span><br><span class='scene-font-katari'>迫りくる星晶獣や魔物を相手に、</span><br><span class='scene-font-katari'>獅子奮迅の働きを見せる。</span>,<span class='scene-font-katari'>一行人站在战争的最前线，</span><br><span class='scene-font-katari'>以逼近的星晶兽与魔物作为对手，</span><br><span class='scene-font-katari'>展现出了狮子般的勇猛。</span>
+26,マリア・テレサ/玛利亚・特蕾莎,不思議な人達……<br>普通、あんな風に言ったら<br>協力しようなんて思わないのに……,真是一群不可思议的人啊……<br>一般来说，如果说出那样的话，<br>谁都不会想协助的……
+27,マリア・テレサ/玛利亚・特蕾莎,嘘のない……真っ直ぐな人達……,没有半点虚伪……真是一群正直的人……
+28,,<span class='scene-font-katari'>テレサは耳から下げた赤い宝石に触れ</span><br><span class='scene-font-katari'>神妙な表情で語りかける。</span>,<span class='scene-font-katari'>特蕾莎触摸着挂在耳垂上的红宝石，</span><br><span class='scene-font-katari'>用一副神秘的神色在自言自语。</span>
+29,マリア・テレサ/玛利亚・特蕾莎,これでデータは集まりそう？<br>……いい人達と縁が出来てよかった。,这样就能收集齐数据吗？<br>……能和一群好人们结缘真是太好了。
+30,マリア・テレサ/玛利亚・特蕾莎,私の運命も……まだまだ<br>捨てた物じゃないのかもしれない。,我的命运也……应该还没有被抛弃。
+31,マリア・テレサ/玛利亚・特蕾莎,お飾りの無能な皇帝……<br>そんな評判で持ち切りだって。,只会粉饰自己无能的皇帝……<br>一直拥有着这种评价。
+32,マリア・テレサ/玛利亚・特蕾莎,欺瞞に満ちた議会が牛耳る<br>現在のあの国がどう在るかなんて……,那个由满是欺瞒的议会<br>所掌控的国家现在又怎么样了呢……
+33,マリア・テレサ/玛利亚・特蕾莎,ううん。<br>もう迷わないって決めたんだ。<br>私は私の役割を全うする──,不对。<br>我已经决定不再迷茫。<br>我会尽我职责所能──
+34,,<span class='scene-font-katari'>姬塔一行を高台から見下ろし、</span><br><span class='scene-font-katari'>祈るように呟く。</span>,<span class='scene-font-katari'>特蕾莎从高台上眺望着姬塔一行、</span><br><span class='scene-font-katari'>像是在祈祷一般地嘟哝着。</span>
+35,マリア・テレサ/玛利亚・特蕾莎,巻き込んでごめんなさい……<br>せめて怪我はしないで……,把你们卷进来真是抱歉……<br>请至少不要受伤……
+36,マリア・テレサ/玛利亚・特蕾莎,私があるべき立場を取り戻して、<br>自由な身になれたら……,当我取回自己的地位，<br>恢复自由之身的时候……
+37,マリア・テレサ/玛利亚・特蕾莎,必ず……<br>皆さんの優しさに報いるよ……<br>ありがとう。,一定会……<br>报答各位的善举……<br>谢谢你们。
+info,,,scene_chr485_ep2_s10
+备注,翻译：七叶落羽、黒澤的发夹G,,

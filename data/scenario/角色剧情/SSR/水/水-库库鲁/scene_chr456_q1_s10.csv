@@ -1,0 +1,58 @@
+id,name,text,trans
+0-chapter_name,,いってみよう、やってみよう！,去吧、去做吧！
+0-synopsis,,難航する「敵の牽制を行える銃」の設計を一旦切り上げ、姬塔達の受けた依頼に同行するククル。メンバーの中にはソーンもおり、ククルはこれを機に仲良くなろうと気合いを入れる。今回の依頼は、畑に下りてきた魔物を山に追い返すというものだった。ソーンは上空から魔眼で魔物の群れを探し、一行はその誘導を受けて魔物の群れの元へと向かう。,库库鲁决定暂时放下陷入瓶颈的[牵制敌人行动的枪]设计、和姬塔一行所接受的委托同行。同行成员中也包含了索恩、库库鲁觉得这是和她打好关系的好机会。这次的委托是把来到田地的魔物赶回山中。索恩在上空用魔眼探查魔物群的动向、一行则听从其引导朝着魔物群前进。
+1,,<span class='scene-font-katari'>新しく作る銃の方向性を定めるため、</span><br><span class='scene-font-katari'>シルヴァやクムユの意見を</span><br><span class='scene-font-katari'>聞いたククル。</span>,为了确定新作枪械的方向性、</span><br><span class='scene-font-katari'>库库鲁征求了席尔瓦和库姆尤</span><br><span class='scene-font-katari'>的意见。</span>
+6,,<span class='scene-font-katari'>敵の牽制を行う、という</span><br><span class='scene-font-katari'>目的は決まったものの、それを成せる</span><br><span class='scene-font-katari'>銃の設計は難しく、なかなか進まない。</span>,虽然确定了以牵制敌人行动</span><br><span class='scene-font-katari'>为目标、但是为了达成这一目的</span><br><span class='scene-font-katari'>枪械的设计十分困难、进展不顺。</span>
+7,ククル/库库鲁,敵を倒すってよりは<br>足止めを重視するとして……<br>そのためには弾幕が必要そうで……,比起打到敌人<br>更重视阻止其行动的话……<br>为了这个弹幕好像也是必须的……
+8,ククル/库库鲁,……となると、大量の弾丸を<br>連続で撃てるといいんだけど……,……这样的话、能让大量子弹<br>进行连击的话就好了……
+9,ククル/库库鲁,……単純に銃口の数を増やすとして、<br>装填がやっぱりネックなんだよなぁ……,……就算单纯地增加枪口的数量、<br>装填本身也很成问题……
+10,ククル/库库鲁,あんまり複雑な機構じゃ<br>壊れやすくなっちゃうし……,构造过于复杂的话<br>也很容易坏掉……
+11,ククル/库库鲁,ぐぬぬぬぬ……,库奴奴奴……
+12,,<span class='scene-font-katari'>黒板に設計図を描いては消すのを</span><br><span class='scene-font-katari'>繰り返すククルに、</span><br><span class='scene-font-katari'>姬塔達が声を掛ける。</span>,库库鲁不停在黑板上重复着</span><br><span class='scene-font-katari'>设计图的填埋与擦去、</span><br><span class='scene-font-katari'>这时姬塔们正好过来搭话。</span>
+14,ビィの声/碧的声音,銃職人の姉ちゃん、<br>ちょっといいか？,枪职人的姐姐、<br>现在没问题吗？
+15,ククル/库库鲁,はいはーい！<br>なんかあった？,来了来ー了！<br>发生什么了吗？
+20,,<span class='scene-font-katari'>姬塔は</span><br><span class='scene-font-katari'>人手が必要な依頼を受けたと話し、</span><br><span class='scene-font-katari'>団員を集めていると伝える。</span>,姬塔</span><br><span class='scene-font-katari'>说接受了需要人手的委托、</span><br><span class='scene-font-katari'>现在正在募集团员。</span>
+21,ルリア/露莉亚,あっ……でも、ククルさん<br>今、なにか作業をしてるところですか？,啊……但是、库库鲁小姐<br>现在、正在进行着什么作业吗？
+22,ククル/库库鲁,うん、ちょっと設計図を描いてたとこ。<br>いや～、なかなかいいアイデアが<br>浮かばなくて。,嗯、正好在画设计图的地方。<br>呀～、但总是没什么<br>好点子浮现出来。
+23,ビィ/碧,ってことなら、まだ時間かかるよな？<br>今回の依頼は別の奴に<br>頼むことにしようぜ、姬塔。,也就是说、还会花费不少时间吧？<br>这次的委托就去拜托<br>其他家伙吧、姬塔。
+24,ククル/库库鲁,あ、大丈夫だよ！<br>ついてくついてく！,啊、没关系的哦！<br>我要去我要去！
+25,ルリア/露莉亚,いいんですか、ククルさん？,可以吗、库库鲁小姐？
+26,ククル/库库鲁,うん！<br>……ちょっと、考え過ぎて<br>袋小路に入っちゃっててさ。,嗯！<br>……正好、考虑过头 <br>进死胡同了。
+27,ククル/库库鲁,一回別のことした方が、<br>却って進みが早くなる気がするんだ。<br>だからついて行かせてよ！　ねっ！,感觉先去干下其他事、<br>反而能更好地进展。<br>所以让我也跟着去吧！　呐！
+28,ビィ/碧,銃職人の姉ちゃんが<br>そう言うんなら、<br>一緒に行ってもらうとするかぁ！,枪职人的姐姐<br>这么说的话、<br>就一起去吧！
+29,ククル/库库鲁,そうこなくっちゃ！<br>ちょいと待っててね、<br>すぐ準備するから！,就要这样才好！<br>稍微等一下、<br>马上就去准备！
+32,,<span class='scene-font-katari'>ククルは手早く道具を片付け</span><br><span class='scene-font-katari'>身支度をする。</span>,库库鲁迅速地整理好道具</span><br><span class='scene-font-katari'>收拾好剩余的事。</span>
+39,,<span class='scene-font-katari'>甲板では、先に出発の準備を終えた</span><br><span class='scene-font-katari'>ソーンが待っていた。</span>,在甲板、有先做好准备的</span><br><span class='scene-font-katari'>索恩等待着。
+40,ソーン/索恩,姬塔さん！<br>依頼に向かうメンバーは決まった？,姬塔小姐！<br>解决委托的成员决定了吗？
+41,ビィ/碧,おう！　声かけて来たぜ！,哦！　去喊来了！
+42,ククル/库库鲁,今回はソーンさんも一緒なんだ！<br>こりゃ依頼を<br>失敗する気がしないな～,这次索恩小姐也一起来啊！<br>这样完全不觉得<br>委托会失败呢～
+43,ソーン/索恩,ふふ、よろしくねククルちゃん。,呼呼、请多关照库库鲁酱。
+44,ククル/库库鲁,うん！,嗯！
+45,ククル/库库鲁,<span class='scene-font-kokoro'>（これって、もしかして</span><br><span class='scene-font-kokoro'>ソーンさんと</span><br><span class='scene-font-kokoro'>仲良くなるチャンスかも！）</span>,（这、说不定是</span><br><span class='scene-font-kokoro'>和索恩小姐</span><br><span class='scene-font-kokoro'>打好关系的机会！）</span>
+46,ククル/库库鲁,<span class='scene-font-kokoro'>（よぉし、依頼ともども</span><br><span class='scene-font-kokoro'>頑張っちゃうぞ～！）</span>,（好、和委托一起</span><br><span class='scene-font-kokoro'>加油了哦～！）</span>
+47,,<span class='scene-font-katari'>姬塔は</span><br><span class='scene-font-katari'>集めた団員たちを率いて、</span><br><span class='scene-font-katari'>依頼主のいる村へと向かった。</span>,姬塔</span><br><span class='scene-font-katari'>率领着聚集起来的团员、</span><br><span class='scene-font-katari'>朝着委托人的村庄出发。</span>
+53,,<span class='scene-font-katari'>姬塔は</span><br><span class='scene-font-katari'>集めた団員たちを率いて、</span><br><span class='scene-font-katari'>依頼主のいる村へと向かった。</span>,姬塔</span><br><span class='scene-font-katari'>率领着聚集起来的团员、</span><br><span class='scene-font-katari'>朝着委托人的村庄出发。</span>
+59,ソーン/索恩,姬塔さん！<br>待っていたわ。,姬塔小姐！<br>久等了。
+60,ククル/库库鲁,あれ、ソーンさん？,啊嘞、索恩小姐？
+61,ソーン/索恩,ククルちゃんもこんにちは。<br>姬塔さんに頼まれて、<br>依頼のお手伝いをすることになったの。,库库鲁酱你好。<br>被姬塔小姐拜托、<br>来做委托的帮忙了。
+62,ククル/库库鲁,そうだったんだ！<br>ソーンさんがいるなら百人力だね！,是这样啊！<br>索恩小姐的话能顶百人力呢！
+63,ソーン/索恩,ふふ、一緒に頑張りましょうね。,呼呼、一起加油吧。
+64,ククル/库库鲁,うん、よろしくねソーンさん！,嗯、请多关照索恩小姐！
+65,ククル/库库鲁,<span class='scene-font-kokoro'>（こいつぁもしかして、</span><br><span class='scene-font-kokoro'>ソーンさんともっと仲良くなる</span><br><span class='scene-font-kokoro'>チャンスかも……！）</span>,<span class='scene-font-kokoro'>（这说不定是、</span><br><span class='scene-font-kokoro'>和索恩小姐打好关系</span><br><span class='scene-font-kokoro'>的机会……！）</span>
+66,ククル/库库鲁,<span class='scene-font-kokoro'>（よぉし、ククル姉ちゃん</span><br><span class='scene-font-kokoro'>頑張っちゃうぞ～！）</span>,（好、库库鲁姐姐</span><br><span class='scene-font-kokoro'>要加油了哦～！）</span>
+67,ソーン/索恩,今回の依頼の内容を<br>確認させてもらっても<br>いいかしら？,这次委托的内容<br>可以让我<br>确认下么？
+68,ルリア/露莉亚,はい！<br>ええと、この村の人たちからの<br>依頼なんですけど……,好的！<br>那个、这是这个村子里的人<br>的委托……
+69,ルリア/露莉亚,このところ、<br>畑を魔物さんに荒らされて<br>とっても困ってるんだそうです。,这段时间、<br>农田被魔物荒坏<br>感到十分困扰。
+70,ルリア/露莉亚,魔物さんたちはもともと、<br>もっと山奥の方で<br>暮らしていたらしくて……,魔物们原本、<br>是生活在山野深处<br>的样子……
+71,ククル/库库鲁,なるほど……元の住処に<br>戻ってほしい、ってことだね。,原来如此……希望它们<br>回到原本的住处、么。
+72,ソーン/索恩,じゃあ、二度と人里に下りて来ないよう<br>痛い目を見させて、元の縄張りまで<br>しっかり追い立てないとね。,那么、就教训它们到不敢再次来到<br>村子、然后再<br>确实地将它们赶回原本的地盘吧。
+73,,<span class='scene-font-katari'>姬塔はソーンの言葉に頷き、</span><br><span class='scene-font-katari'>彼女に魔物の群れの居場所を</span><br><span class='scene-font-katari'>上空から探して欲しいと頼む。</span>,姬塔赞同了索恩的计划、</span><br><span class='scene-font-katari'>并拜托她在上空</span><br><span class='scene-font-katari'>搜索魔物的所在。</span>
+74,ソーン/索恩,解ったわ。<br>任せておいて！,我明白了。<br>交给我吧！
+79,,<span class='scene-font-katari'>空へと舞い上がったソーンは</span><br><span class='scene-font-katari'>魔眼を使い山に潜む</span><br><span class='scene-font-katari'>魔物の群れを探す。</span>,飞上空中的索恩</span><br><span class='scene-font-katari'>使用魔眼寻找着</span><br><span class='scene-font-katari'>潜伏在山间的魔物群。</span>
+80,ソーン/索恩,…………,…………
+81,ソーン/索恩,……いたわね。<br>ちょうど村に来ようとしているみたい。,……找到了呢。<br>好像正好打算前往村子。
+82,ビィ/碧,おぉ……！<br>流石だぜ、あっという間だな！,哦……！<br>不愧是你、只花了一会呢！
+83,ククル/库库鲁,そんじゃあ、一丁<br>魔物たちを追っ払うとしますか！,那么、稍微去<br>赶走魔物下吧！
+84,,<span class='scene-font-katari'>姬塔達は</span><br><span class='scene-font-katari'>ソーンの誘導を受け、</span><br><span class='scene-font-katari'>魔物の群れの元へと向かう。</span>,姬塔一行</span><br><span class='scene-font-katari'>听从着索恩的诱导、</span><br><span class='scene-font-katari'>朝着魔物群的方向前进。</span>
+info,,,scene_chr456_q1_s10
+译者,,,

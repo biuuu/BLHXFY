@@ -1,0 +1,110 @@
+id,name,text,trans
+0-chapter_name,,伝説の再来,
+0-synopsis,,異形の姿に変わったユリウスと対峙するアルベールだったが、防戦一方となる。『天雷剣』が無ければユリウスの暴走を止めることが出来ないと、アルベールが天に祈ったその時、いずこからか『天雷剣』が飛来した。その光景を見ていた民衆は、『天雷剣の伝説』を思い出し、アルベールを英雄と讃える。こうしてアルベールは『天雷剣』を手に取り、ユリウスに立ち向かうのだった。,阿尔贝尔与化为异形的尤里乌斯对峙着，但是战况完全是一边倒。没有天雷剑他无法阻止尤里乌斯的暴走。就在阿尔贝尔祈祷天雷剑在身边时，天雷剑不知从何处飞来了。看到这一幕的民众想起了“天雷剑的传说”，并称阿尔贝尔是英雄。就这样，阿尔贝尔手持天雷剑，对尤里乌斯举起。
+2,,<span class='scene-font-katari'>その場から逃げ出す者。</span><br><span class='scene-font-katari'>腰を抜かし動けぬ者。</span><br><span class='scene-font-katari'>ただ呆然と立ち尽くす者。</span>,有人慌忙奔逃。<br>有人瘫倒在地。<br>有人呆立不动。
+3,,<span class='scene-font-katari'>異形の姿となったユリウスにより、</span><br><span class='scene-font-katari'>辺りは大混乱に陥っていた。</span>,因为变成异形的尤里乌斯，周围陷入了大混乱。
+4,ユリウス/尤里乌斯,逃げたければ逃げるがいい！<br>亡びゆくレヴィオンに<br>執着する必要などない！,想逃就逃吧！没有必要执着于雷维昂这种快要灭亡的国家！
+5,アルベール/阿尔贝尔,…………,…………
+6,ユリウス/尤里乌斯,親友殿、そのような顔をするな……<br>共にこの国を捨て、我らで新たな国を<br>建国しようじゃないか。,我的亲友啊，不要摆出那种表情……让我们舍弃这个国家，建立我们自己的新国家吧。
+7,アルベール/阿尔贝尔,<span class='scene-font-4'>ここは我らの祖国！</span><br>捨てることなど<br>できるはずもないだろう？,这是我们的祖国！怎能轻言抛弃呢？
+8,アルベール/阿尔贝尔,なぁユリウス……<br>レヴィオンを復興させる……<br>それが俺達の使命じゃないか。,呐尤里乌斯……复兴雷维昂，不是我们的使命吗。
+9,アルベール/阿尔贝尔,<span class='scene-font-4'>そうだろう！？</span>,是这样的吧！？
+10,ユリウス/尤里乌斯,クフフ……<br><span class='scene-font-4'>フハハハ！</span>,哈哈……呼哈哈哈！
+11,ユリウス/尤里乌斯,このような目に遭っても<br>まだそのような戯言を……<br>英雄らしい見事な忠誠心だ！,即使遭遇这样的对待也还能说出这种玩笑一样的话，还真是英雄般的忠诚心！
+12,アルベール/阿尔贝尔,俺はレヴィオンの騎士だ。<br>忠誠こそ、我が矜持！,我是雷维昂的骑士。忠诚就是我的矜持！
+13,ユリウス/尤里乌斯,フン、となれば……,哼，这样的话……
+14,ユリウス/尤里乌斯,私はもう……雷迅卿殿と<br>相容れることなどできん！,我也无法与你相容了！
+15,ユリウス/尤里乌斯,<span class='scene-font-4'>はああああっ！</span>,啊啊啊啊！
+18,アルベール/阿尔贝尔,……！,……！
+21,,<span class='scene-font-katari'>ユリウスはアルベールを</span><br><span class='scene-font-katari'>突き飛ばすと、その勢いのまま</span><br><span class='scene-font-katari'>呆然と佇んでいる諸侯達に襲い掛かる。</span>,尤里乌斯推开阿尔贝尔，向呆住的诸侯们扑过去。
+22,ユリウス/尤里乌斯,<span class='scene-font-4'>死ねええええっ！</span>,去死吧！
+23,ガリア,ひいいいいっ！,哇啊啊啊！
+24,マウロ/毛洛,…………！,…………！
+31,アルベール/阿尔贝尔,ぐっ……,咕……！
+32,,<span class='scene-font-katari'>ガリア卿とマウロ卿の前に躍り出た</span><br><span class='scene-font-katari'>アルベールは、身を挺して、</span><br><span class='scene-font-katari'>ふたりをユリウスの攻撃から守り抜く。</span>,阿尔贝尔在高卢和毛洛面前挺身而出，从尤里乌斯的攻击下保护了他们。
+33,ユリウス/尤里乌斯,……フッ、仇敵を守るとは……,哼，居然保护仇敌……
+34,ガリア/高卢,い、今更このようなことをしても<br>無駄だ！,事、事到如今你这么做也没用的！
+35,ガリア/高卢,貴方を即刻処刑にせよと、<br>新王からの詔が──,新王已经下诏立即处决你——
+36,アルベール/阿尔贝尔,<span class='scene-font-4'>だからなんだ！？</span>,那又如何？
+37,アルベール/阿尔贝尔,俺はレヴィオン騎士団の団長だ！<br>この国の民を守るのに<br>理由など必要ないだろう！？,我是雷维昂骑士团团长！保护这个国家的人民不需要理由吧！？
+38,ガリア/高卢,…………,…………
+39,マイム/麦姆,おふたりとも、<br>ここを離れて下さい！,两位，请离开这里！
+40,マウロ/毛洛,……恩に着る。,谢谢。
+41,マウロ/毛洛,ガリア卿、<br>我々がいては足手まといですぞ！<br>さぁ！,高卢卿，我们在这里只会碍手碍脚，快走！
+42,ガリア/高卢,あ、ああ……,啊，啊啊……
+43,,<span class='scene-font-katari'>アルベールとマイムはユリウスを</span><br><span class='scene-font-katari'>牽制し、ガリア卿とマウロ卿が</span><br><span class='scene-font-katari'>この場を離れていくのを見守る。</span>,阿尔贝尔和麦姆牵制住尤里乌斯，保护高卢和毛洛离开这里。
+44,,<span class='scene-font-katari'>一方、</span><br><span class='scene-font-katari'>そんなアルベールの様子を見ていた</span><br><span class='scene-font-katari'>民衆は困惑していた。</span>,另一边，看到阿尔贝尔这幅模样的民众们十分困惑。
+45,過激派の男１,なぁ……あの噂は……<br>一体なんだったんだ？<br>俺達は何を信じりゃいいんだ？,喂，那个传闻……究竟是怎么回事？我们到底该相信什么？
+46,過激派の男２,雷迅卿は本当に<br>レヴィオンの英雄だったってことか？<br>そんな……,雷迅卿真的是雷维昂的英雄？怎么会……
+47,少年,だからいったじゃんか！<br>アルベール団長は<br>わるいひとじゃないって！,我不是说过的吗！阿尔贝尔团长不是坏人！
+48,過激派の民衆,…………,…………
+49,,<span class='scene-font-katari'>民衆のアルベールに対する想いに</span><br><span class='scene-font-katari'>変化が見え始めたその頃──</span>,民众对阿尔贝尔的态度开始改変了——
+50,,<span class='scene-font-katari'>人混みを掻き分けて、</span><br><span class='scene-font-katari'>ミイムとメイムが姿を現した。</span>,穿过骚动的人群，米姆和梅姆出现了。
+52,メイム/梅姆,ほらほら、どいたどいた～！,喂喂喂，让一下让一下～
+53,ミイム/米姆,アルベール団長！　マイム姉！<br>そんな枷をはめられてたんじゃ、<br>守るものも守れないでしょ！,阿尔贝尔团长！麦姆姐！被那种枷锁锁住的话，想要守护的东西也守护不了吧！
+54,ミイム/米姆,ええいっ！,嘿——！
+60,,<span class='scene-font-katari'>ミイムによって枷が破壊され、</span><br><span class='scene-font-katari'>アルベールとマイムは</span><br><span class='scene-font-katari'>自由を取り戻す。</span>,枷锁被米姆破坏，阿尔贝尔和麦姆重获自由。
+61,アルベール/阿尔贝尔,ミイム、メイム……<br>恩に着る。,米姆，梅姆，谢谢你们。
+62,ミイム/米姆,それよりも団長……<br>なんでユリウス様が<br>またこんなことになってるんですか？,话说回来团长，为什么尤里乌斯大人又变成这样了？
+63,アルベール/阿尔贝尔,ああ……,啊啊……
+64,アルベール/阿尔贝尔,マイム、ミイム、メイム……<br>お前達は皆を安全なところへ<br>誘導してくれ。,麦姆，米姆，梅姆。你们带大家到安全的地方去。
+65,マイム/麦姆,え、しかし……,诶，但是……
+66,アルベール/阿尔贝尔,俺のことは案ずるな……,不用担心我。
+67,マイム/麦姆,……いくぞ！<br>ミイム、メイム！,走吧！米姆，梅姆！
+68,ミイム/米姆,うん！,嗯！
+69,メイム/梅姆,オッケー！,OK—！
+70,,<span class='scene-font-katari'>マイム、ミイム、メイムは</span><br><span class='scene-font-katari'>混乱する民衆を誘導する為、</span><br><span class='scene-font-katari'>三方に散っていく。</span>,麦姆、米姆、梅姆为了引导混乱的民众而四散。
+71,ユリウス/尤里乌斯,……どうあっても、<br>私を止めようと？,无论如何，都要阻止我吗？
+72,アルベール/阿尔贝尔,ああ……,啊啊……
+73,ユリウス/尤里乌斯,ならば仕方ない……,那就没办法了……
+75,ユリウス/尤里乌斯,う、ぐぐぐ……<br><span class='scene-font-4'>があああっ！</span>,唔唔……啊啊啊啊！
+82,ユリウス/尤里乌斯,<span class='scene-font-4'>はああああっ！！</span>,哈啊——！！
+86,,<span class='scene-font-katari'>ユリウスの体から溢れ出た触手は</span><br><span class='scene-font-katari'>凄まじい勢いをもって、手当たり次第に</span><br><span class='scene-font-katari'>身近な物を捉えては破壊していく。</span>,从尤里乌斯体内溢出的触手以惊人的力量，随手抓住并破坏着身边的东西。
+87,アルベール/阿尔贝尔,ユリウス……！,尤里乌斯……！
+90,ルリア/露莉亚,すぐにできるかはわかりませんが……<br>ユリウスさんに取り憑いた星晶獣を<br>吸収できないかやってみます！,我不知道能不能马上做到，但我会努力尝试吸收附在尤里乌斯先生身上的星晶兽！
+93,アルベール/阿尔贝尔,<span class='scene-font-kokoro'>（いまここに</span><br><span class='scene-font-kokoro'>姬塔やルリアはいない。</span><br><span class='scene-font-kokoro'>俺がどうにかしなくては……）</span>,（现在这里没有姬塔和露莉亚。我必须做些什么……）
+94,ユリウス/尤里乌斯,<span class='scene-font-4'>フハハハ！！</span>,哈哈哈！
+95,アルベール/阿尔贝尔,<span class='scene-font-kokoro'>（……このままでは</span><br><span class='scene-font-kokoro'>多くの被害が出てしまう。どうすれば、</span><br><span class='scene-font-kokoro'>俺はユリウスを止められる……？）</span>,（这样下去损失会很大。我要怎么才能阻止尤里乌斯……？）
+96,,<span class='scene-font-katari'>いま必死にこの場から逃げゆく人々を、</span><br><span class='scene-font-katari'>そしてこのレヴィオンを守る為、</span><br><span class='scene-font-katari'>アルベールは思案する。</span>,为了保护那些拼命逃离这里的人，也为了保护雷维昂，阿尔贝尔思考着。
+97,,<span class='scene-font-katari'>その時──</span><br><span class='scene-font-katari'>山小屋でユリウスと交わした言葉が</span><br><span class='scene-font-katari'>ふと、脳裏を掠める。</span>,这时，他和尤里乌斯在山中小屋所说的话从脑海中浮现。
+100,ユリウス/尤里乌斯,だがもしもまた、<br>私が星晶獣の力で暴走し、<br>自決機構も働かないことがあれば……,但是如果我的星晶兽之力暴走，也无法自杀的话……
+101,ユリウス/尤里乌斯,それを止められるのは、<br>雷迅卿、君と……<br>その手にある『天雷剣』だけだ。,那时能阻止我的，只有你—雷迅卿<br>和你手中的天雷剑了。
+102,ユリウス/尤里乌斯,『天雷剣』も『星の零涙』と同様に<br>星の力を有したもの……,天雷剑具有和星之零泪同样的星之力。
+103,ユリウス/尤里乌斯,まだ解明されぬ力が<br>宿されているかもしれん。,也许还蕴藏着尚未解明的力量。
+106,アルベール/阿尔贝尔,<span class='scene-font-kokoro'>（……そうだとも、親友殿。</span><br><span class='scene-font-kokoro'>暴走したお前を止められるのは</span><br><span class='scene-font-kokoro'>俺と天雷剣だけ……）</span>,（是的，我的亲友啊。能阻止你暴走的只有我和天雷剑了。）
+107,アルベール/阿尔贝尔,<span class='scene-font-kokoro'>（まずは、宝物庫へ運ばれた天雷剣を</span><br><span class='scene-font-kokoro'>取りに行かねばなるまい）</span>,（首先，要去取回运到宝物库的天雷剑）
+108,,<span class='scene-font-katari'>アルベールは決意した。</span><br><span class='scene-font-katari'>だが目の前で暴走するユリウスを</span><br><span class='scene-font-katari'>おいて天雷剣を取りに行く余裕はない。</span>,阿尔贝尔下定决心。但是眼前暴走的尤里乌斯使他没有去取天雷剑的余裕。
+111,触手,───,───
+113,アルベール/阿尔贝尔,くそっ！<br>次から次へと……！,可恶！一个接一个……！
+114,,<span class='scene-font-katari'>次々と迫り来る触手の猛攻により</span><br><span class='scene-font-katari'>アルベールは守勢に回るほかなく、</span><br><span class='scene-font-katari'>徐々に疲弊していく。</span>,由于不断袭来的触手的猛攻，阿尔贝尔只能以守势进行周旋，逐渐变得疲惫不堪。
+117,アルベール/阿尔贝尔,はぁ、はぁはぁ……,哈、哈啊……
+118,アルベール/阿尔贝尔,<span class='scene-font-kokoro'>（天雷剣さえあれば……！）</span>,（如果天雷剑在的话……！）
+119,,<span class='scene-font-katari'>アルベールが天雷剣を</span><br><span class='scene-font-katari'>強く願ったその時──</span>,阿尔贝尔强烈希冀着天雷剑在他身边之时——
+127,,<span class='scene-font-katari'>上空に暗雲が垂れ込め</span><br><span class='scene-font-katari'>月明かりを遮断すると、</span><br><span class='scene-font-katari'>稲光が走った。</span>,天空乌云密布，遮蔽了月色，雷光在游走着。
+131,,<span class='scene-font-katari'>そして、激しい落雷の音と共に、</span><br><span class='scene-font-katari'>稲光によって視覚を奪われる。</span>,并且，随着剧烈的落雷声，闪电的光夺走了视觉。
+136,,<span class='scene-font-katari'>目映い光がゆっくりと暗闇に</span><br><span class='scene-font-katari'>溶けていったその時、</span><br><span class='scene-font-katari'>アルベールは息を呑んだ。</span>,当眼前的光逐渐融化在黑暗中时，阿尔贝尔深吸了一口气。
+137,アルベール/阿尔贝尔,…………！,…………！
+138,,<span class='scene-font-katari'>いずこから飛来したのだろうか。</span><br><span class='scene-font-katari'>天雷剣がなんと、</span><br><span class='scene-font-katari'>雄々しく大地に突き立っていたのだ。</span>,究竟是从哪里飞来的呢。天雷剑气势恢宏地直插在大地上。
+139,集まった民衆,…………,…………
+140,ユリウス/尤里乌斯,…………,…………
+141,アルベール/阿尔贝尔,<span class='scene-font-kokoro'>（まさか……こんなことが……）</span>,（竟然会有……这种事……）
+142,,<span class='scene-font-katari'>アルベールは、</span><br><span class='scene-font-katari'>大地に突き立った天雷剣を</span><br><span class='scene-font-katari'>勢いよく引き抜く。</span>,阿尔贝尔用力拔出插在地上的天雷剑。
+151,,<span class='scene-font-katari'>──すると、</span><br><span class='scene-font-katari'>その刀身から激しい稲妻が迸った。</span>,——这时，刀身迸出强烈的闪电。
+173,アルベール/阿尔贝尔,フッ……,呼……
+174,,<span class='scene-font-katari'>その様子を目の当たりにした</span><br><span class='scene-font-katari'>民衆や諸侯達は、レヴィオンに伝わる</span><br><span class='scene-font-katari'>『天雷剣の伝説』を思い出す。</span>,看到这一幕的民众和诸侯都想到了流传于雷维昂的“天雷剑的传说”。
+175,過激派の男１,すげぇ昔によぉ……<br>『星の眼』倒す為、天雷剣は空から<br>落っこちてきたんだったよな？,很久以前，天雷剑是为了打倒星之眼，从天而降的吧？
+176,過激派の男２,これはまさに伝説の再来……<br>やっぱりアルベール団長は……,这简直就是传说的再现……果然阿尔贝尔团长是
+177,過激派の男２,<span class='scene-font-4'>レヴィオンの英雄だ！！</span>,雷维昂的英雄！
+178,,<span class='scene-font-katari'>天雷剣を手にしたアルベールこそ、</span><br><span class='scene-font-katari'>レヴィオンの英雄だと民衆は</span><br><span class='scene-font-katari'>手のひらを返し称える。</span>,民众纷纷称赞手持天雷剑的阿尔贝尔是雷维昂的英雄。
+179,,<span class='scene-font-katari'>その声を聞き、</span><br><span class='scene-font-katari'>人々を避難誘導していたマイム達は</span><br><span class='scene-font-katari'>ほっと胸を撫で下ろした。</span>,听到这些话，引导人们避难的麦姆松了一口气。
+180,マイム/麦姆,…………,…………
+181,ミイム/米姆,マイム姉、よかったね。,麦姆姐，太好了。
+182,メイム/梅姆,よしっ！<br>あとは……<br>ユリウス様だけだ！,好！剩下的就是……尤里乌斯大人了！
+183,マイム/麦姆,さぁもう一息だ、ふたりとも！<br>団長が心置きなく剣を振るえるように<br>皆をここから避難させなくては！,不要放松，你们两个！为了让团长随心所欲地挥剑，我们要疏散这里的所有人！
+184,,<span class='scene-font-katari'>薄ら笑いを浮かべる</span><br><span class='scene-font-katari'>ユリウスに向かって、</span><br><span class='scene-font-katari'>アルベールは天雷剣を構える。</span>,阿尔贝尔对微笑的尤里乌斯举起了天雷剑。
+185,アルベール/阿尔贝尔,ユリウスの中に巣食う星晶獣よ……<br>今度こそ、その息の根を断たん！,栖息在尤里乌斯体内的星晶兽啊……这次一定将你根除！
+186,ユリウス/尤里乌斯,クフッ、クハハハ！<br>さぁ来い。雷迅卿……！,哈哈哈！来吧。雷迅卿……！
+187,アルベール/阿尔贝尔,<span class='scene-font-4'>たあああっ！</span>,啊啊——！
+188,,<span class='scene-font-katari'>こうして──</span><br><span class='scene-font-katari'>アルベールはユリウスに向かって</span><br><span class='scene-font-katari'>天雷剣を振り下ろすのだった。</span>,就这样，阿尔贝尔向尤里乌斯挥下天雷剑。
+info,,,scene_ult_chr141_ep2_q3_s20
+译者,,,

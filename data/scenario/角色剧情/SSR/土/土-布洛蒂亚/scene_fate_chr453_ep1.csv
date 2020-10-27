@@ -1,0 +1,106 @@
+﻿id,name,text,trans
+0-chapter_name,,使徒たる生真面目な心得,作为使徒一本正经的心得
+0-synopsis,,ある日の真夜中、自室で眠っている姬塔の前に天司ウリエルが現れ、弟子であるブローディアを旅に同行させてほしいと話す。ブローディアは、新たな脅威に備え姬塔と共に成長したいと申し出る。姬塔一行は、師匠と弟子なのに雰囲気が全然違うと笑いながらも、快く申し出を受け入れるのだった。,某天深夜，姬塔正在自己房间睡觉，天司乌列尔出现，商量让徒弟布罗蒂娅跟随姬塔旅行的事。布罗蒂娅为了防备新的威胁，提出想和姬塔共同成长。看着他们明明是师徒感觉却截然不同，姬塔一行笑着接受了提议。
+1,,<span class='scene-font-katari'>ひっそりと静まり返った真夜中。</span><br><span class='scene-font-katari'>姬塔は騎空艇の自室で</span><br><span class='scene-font-katari'>すやすやと眠りについていた。</span>,<span class='scene-font-katari'>万籁俱寂的深夜，</span><br><span class='scene-font-katari'>姬塔在自己骑空艇的房间里睡的正香。</span>
+2,,<span class='scene-font-katari'>しかし──</span>,<span class='scene-font-katari'>但是──</span>
+4,,<span class='scene-font-katari'>静寂を切り裂くように起こった</span><br><span class='scene-font-katari'>地鳴りにより、姬塔は</span><br><span class='scene-font-katari'>ベッドから飛び起きた。</span>,<span class='scene-font-katari'>地震声打破了夜的寂静，</span><br><span class='scene-font-katari'>姬塔从床上一跃而起。</span>
+5,？？？/？？？,ハハハ……！<br>よぉ、特異点。目が覚めたか？,哈哈哈……！<br>哟，特异点。醒了吗？
+7,,<span class='scene-font-katari'>姬塔は、</span><br><span class='scene-font-katari'>壁にもたれかかっている</span><br><span class='scene-font-katari'>屈強な男性を見てハッとする。</span>,<span class='scene-font-katari'>姬塔吃惊地看着靠在墙上的强壮男人。</span>
+7-sel1_txt,,<span class='scene-font-katari'>……ウリエル？</span>,<span class='scene-font-katari'>……乌列尔？</span>
+8,ウリエル/乌列尔,フフ……<br>この前は世話になったな。<br>ありがとよ。,呵呵……之前承蒙关照。<br>谢啦。
+9,ウリエル/乌列尔,まさか人間共に助けられるとは<br>夢にも思わなかったけどな。,我做梦也没想到会被人类搭救。
+10,,<span class='scene-font-katari'>姬塔はウリエルの姿を</span><br><span class='scene-font-katari'>確認すると、今は夢に違いないと</span><br><span class='scene-font-katari'>二度寝しようとするが──</span>,<span class='scene-font-katari'>姬塔看清了乌列尔的身影后，</span><br><span class='scene-font-katari'>觉得现在一定是做梦，</span><br><span class='scene-font-katari'>准备睡回笼觉——</span>
+11,ウリエル/乌列尔,おいおい、<br>俺を無視するたぁ、<br>いい度胸じゃねぇか。,喂喂，居然无视我，<br>好大的胆子啊。
+11-sel1_txt,,<span class='scene-font-katari'>夢じゃないの？</span>,<span class='scene-font-katari'>不是做梦吗？</span>
+11-sel2_txt,,<span class='scene-font-katari'>え、本物！？</span>,<span class='scene-font-katari'>啊，是真人！？</span>
+12,ウリエル/乌列尔,ハハハ……！<br>どんだけ、<br>俺の試練を恋しがってたんだ？,哈哈哈……！<br>你就这么想念我的试炼吗？
+13,ウリエル/乌列尔,……ったくよぉ、<br>なんなら一勝負するか？<br>眠気を根こそぎ吹き飛ばしてやるぜ？,……真是的，要不干脆来打一场？<br>把你的睡意连根拔除哦？
+14,,<span class='scene-font-katari'>姬塔は</span><br><span class='scene-font-katari'>豪快に笑い飛ばすウリエルを見て、</span><br><span class='scene-font-katari'>今が夢などではなく現実だと認識する。</span>,<span class='scene-font-katari'>姬塔看着豪爽的一笑了之的乌列尔，</span><br><span class='scene-font-katari'>才意识到这并不是梦。</span>
+15,,<span class='scene-font-katari'>──と同時に、</span><br><span class='scene-font-katari'>また新たな災厄が起きたのかと</span><br><span class='scene-font-katari'>不安を覚え、顔を曇らせた。</span>,<span class='scene-font-katari'>与此同时，开始担心是否又有新的灾难发生，</span><br><span class='scene-font-katari'>脸上蒙上一层阴影。</span>
+16,ウリエル/乌列尔,ったく……<br>そんなしけたツラすんな。<br>凶報を伝えに来たわけじゃねぇ。,真是的……<br>不要一脸忧愁啊。<br>我不是来告诉你坏消息的。
+17,ウリエル/乌列尔,天司長がな……仲間と高め合い、<br>庇い合い、個では到達できねぇ<br>力と覚悟に至った──,天司长他说……<br>同伴间互助共勉，<br>能发挥出个人所达不到力量和觉悟──
+18,ウリエル/乌列尔,そんな特異点のお前から<br>学ばなくちゃいけねぇ、<br>なんて言うわけだ。,我们必须向做到这些的特异点你学习。
+19,ウリエル/乌列尔,だから今日は、<br>そのことで頼みがあってよ。,所以今天因为这事有事相求。
+19-sel1_txt,,<span class='scene-font-katari'>仲間になりたいとか？</span>,<span class='scene-font-katari'>是想成为同伴吗？</span>
+20,ウリエル/乌列尔,ハハハ……！<br>そいつも悪かねぇな。,哈哈哈……！<br>这也不错啊。
+21,ウリエル/乌列尔,でもよ、俺にも果たさなきゃならねぇ、<br>使命ってモンがあるんだ。<br>だからよ──,但是啊，我还有不得不完成的使命。<br>所以啊──
+23,,<span class='scene-font-katari'>再び大きな揺れが起こると、</span><br><span class='scene-font-katari'>ウリエルは申し訳なさそうに</span><br><span class='scene-font-katari'>姬塔に微笑みかける。</span>,<span class='scene-font-katari'>震动再次出现，</span><br><span class='scene-font-katari'>乌列尔有点抱歉的对着姬塔笑。</span>
+24,ウリエル/乌列尔,ったく……,真是的……
+25,ウリエル/乌列尔,悪ぃ、ちょっと外まで頼むわ。,抱歉，到外面去下。
+31,,<span class='scene-font-katari'>姬塔を連れ、</span><br><span class='scene-font-katari'>外に出たウリエルは、</span><br><span class='scene-font-katari'>眼前に巻き起こった砂塵を睨みつけた。</span>,<span class='scene-font-katari'>乌列尔带着姬塔来到外面，</span><br><span class='scene-font-katari'>盯着眼前掀起的砂尘。</span>
+32,ウリエル/乌列尔,バカヤロウ、とっとと出てこい。<br>騒々しい奴だな。,笨蛋，赶快现身。<br>真是吵闹的家伙啊。
+42,,<span class='scene-font-katari'>ウリエルの声に反応したのか、</span><br><span class='scene-font-katari'>大気が震え、砂塵が収まっていくと</span><br><span class='scene-font-katari'>中から見覚えのある女性が姿を現した。</span>,<span class='scene-font-katari'>大概是对乌列尔的声音有了反应，</span><br><span class='scene-font-katari'>砂尘消散，一个眼熟的女人的身影出现。</span>
+42-sel1_txt,,<span class='scene-font-katari'>ブローディア！</span>,<span class='scene-font-katari'>布罗蒂娅！</span>
+43,ブローディア/布罗蒂娅,久しいな、特異点よ。,好久不见，特异点啊。
+44,ウリエル/乌列尔,おい、俺が話をつけるって言ったろ？,喂，我告诉过你由我来说的吧？
+45,ブローディア/布罗蒂娅,ですが、わざわざウリエル様が<br>お越しにならなくとも、<br>我が直接、特異点に──,但是不用乌列尔大人特意驾临，<br>不如我直接告诉特异点也──
+46,ウリエル/乌列尔,こういうもんはな、<br>俺から頼むのが筋ってもんだろう。,这种事，由我来说才合规矩啊。
+49,,<span class='scene-font-katari'>その時、騒ぎを聞きつけた</span><br><span class='scene-font-katari'>ルリアとビィが、慌てふためきながら</span><br><span class='scene-font-katari'>騎空艇の甲板へとやってくる。</span>,<span class='scene-font-katari'>这时，听到骚动的碧和露莉亚慌慌张张地来到骑空艇的甲板。</span>
+50,ビィ/碧,い、一体なんだってんだ！？,到底是怎么回事！？
+51,ルリア/露莉亚,姬塔、大丈夫ですか？,姬塔，没事吧？
+52,ルリア/露莉亚,って……はわわっ！<br>ウ、ウリエルさん！,啊哇哇！<br>乌列尔！
+53,ビィ/碧,うん？　隣の姉ちゃんは誰だ？,嗯？旁边的姐姐是谁啊？
+54,,<span class='scene-font-katari'>何が起きているのか分からず、</span><br><span class='scene-font-katari'>困惑するルリアとビィを見て、</span><br><span class='scene-font-katari'>ウリエルは豪快に笑う。</span>,<span class='scene-font-katari'>乌列尔看着不明所以的露莉亚和碧，</span><br><span class='scene-font-katari'>豪爽的笑了。</span>
+55,ウリエル/乌列尔,ハハハ……！<br>ほら見ろ、起こしちまったじゃねぇか。,哈哈哈……！<br>你看吧，还是吵醒他们了嘛。
+56,ブローディア/布罗蒂娅,蒼の少女と赤き竜か……,苍之少女和赤色龙吗……
+57,ウリエル/乌列尔,おい、ついでだ。<br>お前らにも説明してやるよ。,喂，反正是顺便，跟你们也解释下好了。
+62,,<span class='scene-font-katari'>ウリエルは</span><br><span class='scene-font-katari'>ルリアとビィを呼び寄せると、</span><br><span class='scene-font-katari'>歯に衣を着せずに話し始めた。</span>,<span class='scene-font-katari'>乌列尔把露莉亚和碧叫到跟前，</span><br><span class='scene-font-katari'>直言不讳地说起来了。</span>
+63,ウリエル/乌列尔,今日、尋ねて来たのはな、<br>お前らの旅に、こいつを<br>同行させてもらおうと思ってな。,今天来找你们，<br>是想让她跟随你们旅行。
+64,ブローディア/布罗蒂娅,蒼の少女と赤き竜よ、<br>我が名はブローディア。<br>地のウリエル様の使徒だ。,苍之少女和赤色龙啊，<br>我的名字是布罗蒂娅。<br>是地之天司乌列尔大人的使徒。
+65,ルリア/露莉亚,しと……？,shitu……？
+66,ウリエル/乌列尔,まぁ、簡単に言やぁ……<br>俺の弟子ってこった。,嘛，简单来说……<br>就是我的徒弟。
+67,ビィ/碧,弟子？　天司が弟子をとるのか？,徒弟？天司也会收徒弟吗？
+68,ウリエル/乌列尔,まぁ、そもそもの始まりはな……,嘛，一开始是因为……
+74,ウリエル/乌列尔,新たなる脅威に備えるために、<br>空の世界の一助となれる奴を<br>探してたんだ。,为了防备新的威胁，<br>我想找个对空之世界有帮助的人。
+78,ウリエル/乌列尔,いやぁ、それで、<br>あっちこっち足を運んだんだが、<br>なかなかいい奴が見つかんなくてよ。,哎呀，后来，我四处走访，<br>也没发现合适的人。
+79,ウリエル/乌列尔,けど……遂に見つけたんだ。<br>俺の力とも相性がいい、<br>根性のある星晶獣を！,但是……最后还是找到了。<br>和我的力量的相性不错的，<br>有斗志的星晶兽！
+86,ウリエル/乌列尔,フフ……こいつの体からは、<br>強大な土の元素の力が<br>バンバン溢れ出てやがったんだぜ？,哈哈……强大的土元素的力量<br>正源源不断的从这家伙体内涌现出来。
+87,ブローディア/布罗蒂娅,我はウリエル様と邂逅したその時……<br>天司という存在がいることを知った。,我和乌列尔大人邂逅的时候……<br>知道了名为天司的存在。
+88,ブローディア/布罗蒂娅,天司と星晶獣と、それらの親とも言える<br><span class='scene-font-spword'>星の民</span>との関係を改めて知り、<br>世界の広さを知った。,重新认识了天司和星晶兽，<br>以及可以说是它们父母的星之民之间的关系，<br>知晓了世界的广阔。
+89,ブローディア/布罗蒂娅,そして無謀にも挑んだのだ。<br>我の力が通じるのかを知りたくてな。,然后我鲁莽的发起挑战。<br>我想知道我的力量是否比得上他们。
+90,ブローディア/布罗蒂娅,だが…… <br>,然而……
+91,ブローディア/布罗蒂娅,ウリエル様には、<br>全く歯が立たなかった。,我根本不是乌列尔大人的对手。
+92,ルリア/露莉亚,はわわ……,哈哇哇……
+93,ウリエル/乌列尔,その後だ。<br>こいつが急に真剣な顔してよ、<br>弟子にしてくれって、頭下げてきてな。,之后，这家伙忽然一脸严肃低下头，<br>要我收她为徒。
+94,ブローディア/布罗蒂娅,弱き者を護るためには、<br>強くならねばならない。,为了保护弱者，<br>我必须变强。
+95,ブローディア/布罗蒂娅,そして何よりも……我は確信したのだ。<br>ウリエル様のもとでならば<br>それが叶うと。,更重要的是……<br>我确信留在乌利尔大人身边就一定会实现。
+96,ビィ/碧,ふぇ～、やっぱり天司って<br>すげーんだな…… <br>,哇～<br>天司果然很厉害啊……
+97,ウリエル/乌列尔,ここまで言われたらよ、<br>応えてやんなきゃ悪ぃだろ？,话都说到这个份上了，<br>不答应不好吧？
+98,ウリエル/乌列尔,ハハ……まぁ、それに、<br>俺も目的が叶ったわけだしな。,哈哈……<br>而且我的目的也达到了。
+99,ウリエル/乌列尔,ってことで、それ以来……<br>新たな脅威に備えるためによ、<br>試練を与え、面倒みてたってわけだ。,就是这样，从那以后……<br>为了防备新的威胁，<br>我就给她考验，顺便照顾着她。
+100,ビィ/碧,うん？<br>でもよぉ、そういうことなら……,嗯？<br>但是啊，这么说的话……
+101,ビィ/碧,ウリエルの傍にいた方が<br>いいんじゃねぇのか？ <br>,留在乌列尔身边不就行了吗？
+102,ウリエル/乌列尔,まぁ、<br>俺もちょいと忙しくなっちまってよ。,怎么说呢，<br>我最近也有点忙啊。
+103,ウリエル/乌列尔,だから、しばらくの間、<br>お前達のところで<br>修行をしてもらおうってわけだ。,所以，<br>就想暂时安排她<br>留在你们这边修行。
+104,ブローディア/布罗蒂娅,ウリエル様から聞いたぞ？<br>先の<span class='scene-font-spword'>『災厄』</span>で<br>汝らは大役を果たしたと。,从乌列尔大人那里听说了哦？<br>之前发生的<span class='scene-font-spword'>『灾难』</span>中，<br>你们完成了艰巨的任务。
+105,ビィ/碧,あん時は、ほんと大変だったぜ……,那时，真的太不容易了……
+106,ブローディア/布罗蒂娅,我は、ウリエル様の役に立つよう、<br>特異点と共に成長したいのだ。,为了能帮上乌列尔大人的忙，<br>我希望能和特异点共同成长。
+107,ブローディア/布罗蒂娅,どうだろう……<br>頼みを聞いてもらえぬだろうか？,怎么样……<br>接受我的请求吗？
+107-sel1_txt,,<span class='scene-font-katari'>もちろん！</span>,<span class='scene-font-katari'>当然！</span>
+108,ブローディア/布罗蒂娅,決断を感謝する。,感谢你的果断。
+109,ウリエル/乌列尔,さすが特異点、話が早ぇ。<br>ありがとよ！,不亏是特异点，快人快语。<br>谢谢了！
+110,ウリエル/乌列尔,こいつは生真面目な奴だが、<br>お前達同様、お人よしだ。<br>仲良くしてやってくれ。,她是一本正经的家伙啊，<br>和你们一样都是老好人。<br>你们好好相处吧。
+111,ウリエル/乌列尔,あとはまぁ、お前らと一緒にいりゃ、<br>もう少し融通が<br>利くようになると思うんだがな……,还有就是，<br>希望她能在和你相处一段时间后<br>变得更灵活一些……
+112,ブローディア/布罗蒂娅,…………,…………
+113,ウリエル/乌列尔,ま、その辺は期待しないで<br>待つとするか。,嘛，我还是不要抱太大期望比较好。
+114,ウリエル/乌列尔,とにかく頼んだぜ！　あばよっ！,总之就拜托了！<br>再见了！
+121,,<span class='scene-font-katari'>ウリエルは一行にそう言い残すと、</span><br><span class='scene-font-katari'>大気を震わせ、</span><br><span class='scene-font-katari'>砂塵の中へと消え去って行った。</span>,<span class='scene-font-katari'>乌列尔留下这样的话后，</span><br><span class='scene-font-katari'>一阵风吹来，消失在砂尘之中。</span>
+122,,<span class='scene-font-katari'>ブローディアはウリエルを見送ると、</span><br><span class='scene-font-katari'>一行に向き直り、</span><br><span class='scene-font-katari'>穏やかな笑顔を見せる。</span>,<span class='scene-font-katari'>布罗蒂亚目送乌列尔离开后，</span><br><span class='scene-font-katari'>转身面向众人，</span><br><span class='scene-font-katari'>露出微笑。</span>
+123,ブローディア/布罗蒂娅,ウリエル様の信頼を裏切らぬよう、<br>汝を艱難辛苦から護り抜こう。<br>皆、宜しく頼む。,为了不辜负乌列尔大人的信赖，<br>让我保护你免除艰难险阻吧。<br>大家，请多多关照。
+124,ビィ/碧,……ぷっ、ぎゃははっ！,噗，哈哈哈！
+125,ルリア/露莉亚,ビィさんっ！？,碧！？
+126,ブローディア/布罗蒂娅,赤き竜よ、何故笑うのだ？,赤色龙啊，为什么要笑？
+127,ビィ/碧,だってよ、<br>すげぇ丁寧だから<br>面白くなっちまってよぉ！,因为你，<br>毕恭毕敬的，超有趣啊！
+128,ビィ/碧,ウリエルの弟子だってのに<br>全然違うんだもんな。,明明是乌列尔的徒弟，<br>却完全不一样。
+129,ルリア/露莉亚,うふふ、確かにそうですね。,呵呵，的确是这样。
+130,ブローディア/布罗蒂娅,ウリエル様は武勇に優れ、<br>信義に厚いからこそ、<br>感情で動くことも多い。,正因为乌列尔大人英勇善战，<br>重信义，<br>所以才感情波动大。
+131,ブローディア/布罗蒂娅,そんなウリエル様を支えるためにも、<br>我は常に冷静であれと……<br>そう心がけているからな。,为了协助乌列尔大人，<br>我要时常保持冷静……<br>我是这样铭记于心的。
+132,ビィ/碧,へぇ、そんなことも考えてんのか！<br>弟子ってのも大変なんだな。,嘿，这些事都要考虑啊！<br>作为徒弟真是不容易啊。
+133,ルリア/露莉亚,ウリエルさんとブローディアさんも<br>四大元素のように、バランスを<br>とっているのかもしれませんね！,说不定乌列尔和布罗蒂亚<br>也像四大元素那样保持平衡了呢！
+134,ブローディア/布罗蒂娅,ふふ、さて、どうだろうな。,呵呵，谁知道呢？
+135,ブローディア/布罗蒂娅,何はともあれ、<br>皆、世話になるぞ。 <br>,不管怎样，<br>要各位多关照了。
+136,ルリア/露莉亚,はい！,好的！
+137,,<span class='scene-font-katari'>こうして、新たなる脅威に備えるため、</span><br><span class='scene-font-katari'>姬塔一行の旅に</span><br><span class='scene-font-katari'>ブローディアが同行することになった。</span>,<span class='scene-font-katari'>就这样，为了防备新的威胁，</span><br><span class='scene-font-katari'>布罗蒂娅和姬塔众人一同踏上旅途。</span>
+138,,<span class='scene-font-katari'>だが、その危惧が、</span><br><span class='scene-font-katari'>近い将来現実のものとなるとは、</span><br><span class='scene-font-katari'>この時はまだ誰も知る由もなかった──</span>,<span class='scene-font-katari'>但是，这个时候谁都不知道</span><br><span class='scene-font-katari'>那种担心会在不久的将来变成现实──</span>
+info,,,scene_fate_chr453_ep1
+译者,,,シエル

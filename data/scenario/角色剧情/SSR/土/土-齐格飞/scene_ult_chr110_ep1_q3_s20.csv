@@ -1,0 +1,39 @@
+id,name,text,trans
+0-chapter_name,,漆黒の悪魔,漆黑的恶魔
+0-synopsis,,戦いの最中、ジークフリートの刃がランスロットを捉えたかと思われた刹那、もうひとりのジークフリートが現れ、その刃を受け流す。ふたりのジークフリートが睨み合う中、突如ハーゲンという男が現れ、血に狂うジークフリートを御し、その場を去っていく。一行は目の前のジークフリートを信じ、逃げた二人の後を追うのだった。,在战斗中，眼看齐格飞的剑刃就要刺中兰斯洛特，那一瞬间，另一个齐格飞出现，并接下了那一击。正在两个齐格飞对峙的时候，一个名叫哈根的男人突然出现，控制了嗜血的齐格飞并离开现场。一行人决定相信自己眼前的齐格飞，并且一起追捕那逃跑的两人。
+0,,<span class='scene-font-katari'>ジークフリート相手に</span><br><span class='scene-font-katari'>防戦一方になる一行。</span>,<span class='scene-font-katari'>面对齐格飞，</span><br><span class='scene-font-katari'>一行人只能一味地进行防御。</span>
+1,ランスロット/兰斯洛特,ジークフリートさん……<br>どうして！！,齐格飞先生……<br>为什么！！
+2,ジークフリート/齐格飞,…………,…………
+3,ランスロット/兰斯洛特,答えて下さい！<br>……俺は……俺は！,请回答我！<br>……我……我！
+4,,<span class='scene-font-katari'>その時、気の迷いから</span><br><span class='scene-font-katari'>一瞬の隙を突かれ、</span><br><span class='scene-font-katari'>剣を弾かれるランスロット。</span>,<span class='scene-font-katari'>就在那时，兰斯洛特因为内心的迷茫，露出了一瞬间的破绽。他的剑被齐格飞无情地打开了。</span>
+5,,<span class='scene-font-katari'>すかさずジークフリートの刃が</span><br><span class='scene-font-katari'>ランスロットを捉えた。</span>,<span class='scene-font-katari'>眼看齐格飞的剑刃就要刺中兰斯洛特。</span>
+6,,<span class='scene-font-katari'>かと思われた瞬間、</span><br><span class='scene-font-katari'>突然現れた、黒い影が</span><br><span class='scene-font-katari'>その刃を大剣で受け流した。</span>,<span class='scene-font-katari'>就在这时，一个突然出现的黑影接下了那一击。</span>
+7,ジークフリート/齐格飞,どうした……<br>ランスロット。,怎么了……<br>兰斯洛特。
+8,ジークフリート/齐格飞,動きが鈍いぞ？<br>慟哭の谷での勢いはどうした？,你的动作很迟钝啊？<br>在恸哭之谷的时候的气势呢？
+9,ランスロット/兰斯洛特,ジークフリート……さん？,齐格飞……先生？
+10,ジークフリート/齐格飞,たとえかつての師であろうとも、<br>俺が人の道を踏み外した時は……<br>全力で殺しにかかれ。,就算我是你曾经的师傅，<br>当我在人生的道路上脱离正轨的时候……<br>你也要尽全力杀掉我。
+11,ヴェイン/维恩,ど、ど、どういうことだぁ！？<br>ジークフリートさんが二人！？,怎、怎、怎么回事啊！<br>有两个齐格飞先生！？
+12,ジークフリート/齐格飞,ヴェイン……説明は後だ。<br>ひとまず目の前のコイツを叩くぞ。,维恩……我之后再说明。<br>先把眼前的敌人干掉吧。
+13,,<span class='scene-font-katari'>ランスロットを助けたジークフリートの</span><br><span class='scene-font-katari'>冷静な言葉が、自然と腑に落ちる一行。</span>,<span class='scene-font-katari'>拯救了兰斯洛特的齐格飞所说的话，</span><br><span class='scene-font-katari'>十分冷静和务实，一行人非常赞同。</span>
+14,ジークフリート/齐格飞,見つけたぞ……,找到你了……
+15,ジークフリート？/齐格飞？,……殺す。,……杀死。
+16,？？？,下がれッ！,退下！
+17,,<span class='scene-font-katari'>突然現れた男が命令すると、</span><br><span class='scene-font-katari'>もう一人のジークフリートは</span><br><span class='scene-font-katari'>その言葉に大人しく従った。</span>,<span class='scene-font-katari'>当一个突然出现的男人下令后，</span><br><span class='scene-font-katari'>另一个齐格飞便老老实实地照做了。</span>
+18,？？？,チッ……騎士団の奴らを<br>殺れると思ったのによ……,嘁……我还以为<br>你能杀了那群骑士团的人呢……
+19,ジークフリート/齐格飞,ハーゲン……,哈根……
+20,ランスロット/兰斯洛特,……貴様は何者だ！,……你是谁！
+21,ハーゲン/哈根,フン……<br>一旦退くぞ……,哼……<br>撤退……
+22,ジークフリート？/齐格飞？,御意。,遵命。
+23,ジークフリート/齐格飞,待てッ！　ハーゲン！,等等！　哈根！
+24,ハーゲン/哈根,お前らは……<br>コイツらの相手でもしていろ。,你们……<br>就和它们去玩吧。
+25,,<span class='scene-font-katari'>ハーゲンの言葉に呼応して、</span><br><span class='scene-font-katari'>瞬く間にアンデッド達が現れる。</span>,<span class='scene-font-katari'>哈根的话音刚落，</span><br><span class='scene-font-katari'>转瞬间，大批的活死人出现了。</span>
+26,ランスロット/兰斯洛特,ぐっ……<br>数が多いな。,呜……<br>数量太多了。
+27,ジークフリート/齐格飞,問題ない。<br>一点突破で活路を切り開くぞ！,没问题。<br>让我们找到突破点，<br>开出一条生路吧！
+28,ランスロット/兰斯洛特,は、はいッ！,是、是！
+29,ヴェイン/维恩,お、おう！<br>ほ、本物のジークフリート、さん？<br>で、いいんだよな……？,喂、喂！<br>你真的是……<br>真的齐格飞先生吧……？
+30,ジークフリート/齐格飞,ああ……今は信じてくれ。<br>ここを切り抜けたら説明しよう！,是的……现在就相信我吧。<br>突破这里以后我会再做说明的！
+31,ジークフリート/齐格飞,行くぞッ！<br>俺に続けッ！,上吧！<br>跟着我！
+32,,<span class='scene-font-katari'>目の前のジークフリートと共に</span><br><span class='scene-font-katari'>群がるアンデッド達を蹴散らして、</span><br><span class='scene-font-katari'>ハーゲン達の後を追う一行。</span>,<span class='scene-font-katari'>一行人跟着眼前的齐格飞一起</span><br><span class='scene-font-katari'>将成群的活死人打垮，</span><br><span class='scene-font-katari'>冲出一条活路，追在哈根的后面。</span>
+33,,<span class='scene-font-katari'>突然現れた二人のジークフリート。</span><br><span class='scene-font-katari'>一行はこの不可解な謎を抱えながらも、</span><br><span class='scene-font-katari'>目の前の背中を信じようと決めた。</span>,<span class='scene-font-katari'>对于突然出现的两个齐格飞，</span><br><span class='scene-font-katari'>一行人虽然心中仍然感到不可思议，</span><br><span class='scene-font-katari'>但他们在心中决定，相信他们眼前的背影。</span>
+info,,,scene_ult_chr110_ep1_q3_s20
+译者,,,

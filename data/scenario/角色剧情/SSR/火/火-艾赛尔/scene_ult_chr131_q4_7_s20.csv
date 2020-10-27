@@ -1,0 +1,14 @@
+id,name,text,trans
+0-chapter_name,,君に眠りを、私に銃を,给我手铳，赐你永眠
+0-synopsis,,エッセルの想像以上の強さに、打ち負かされてしまったシエテ。シエテが軽口を叩くも、エッセルは敗者に興味を持たず、その場から立ち去ってしまう。シエテはエッセルを傷つけず、十狼雷をどう手放させるのか、思考を巡らせるのだった。,希耶提被强大得超乎想象的艾瑟尔打败。面对插科打诨的希耶提，艾瑟尔对败者没有兴趣便离开了。希耶提思考着如何在不伤害艾瑟尔的情况下让她放开十狼雷。
+0,シエテ/希耶提,くそっ……！<br>さすがに他の十天衆を<br>倒すだけあるねぇ～,可恶……！<br>不愧打倒过其他十天众～
+1,シエテ/希耶提,<span class='scene-font-kokoro'>（試しに戦力を計ってみたが</span><br><span class='scene-font-kokoro'>想像以上の強さだな……）</span>,<span class='scene-font-kokoro'>（尝试测试了一下她的战斗力，结果比我想象得还要强啊……）</span>
+2,エッセル/艾瑟尔,…………,…………
+4,シエテ/希耶提,え、なになに、見逃してくれるの～？,诶，怎么怎么，你要放过我吗～？
+5,シエテ/希耶提,<span class='scene-font-kokoro'>（……負けた奴には興味がない</span><br><span class='scene-font-kokoro'>ってことか……）</span>,<span class='scene-font-kokoro'>（……也就是说对输掉的家伙没有兴趣……）</span>
+6,シエテ/希耶提,<span class='scene-font-kokoro'>（早いところ止めないと</span><br><span class='scene-font-spword'>十狼雷</span><span class='scene-font-kokoro'>を手放させたところで</span><br><span class='scene-font-kokoro'>エッセルが傷つく結果になりそうだ……）</span>,<span class='scene-font-kokoro'>（不赶紧阻止的话，就算成功让她放开</span><span class='scene-font-spword'>十狼雷</span><span class='scene-font-kokoro'>，最终也会伤到她……）</span>
+7,シエテ/希耶提,<span class='scene-font-kokoro'>（……さーて</span><br><span class='scene-font-kokoro'>どうしたもんかな）</span>,<span class='scene-font-kokoro'>（……那么，要怎么办呢）</span>
+8,,<span class='scene-font-katari'>エッセルの去った森で、</span><br><span class='scene-font-katari'>シエテは彼女を元に戻すため</span><br><span class='scene-font-katari'>思考を巡らせる。</span>,<span class='scene-font-katari'>在艾瑟尔离去的森林中，</span><br><span class='scene-font-katari'>希耶提思考着让她恢复正常的方法。</span>
+9,,<span class='scene-font-katari'>果たして、彼等は</span><br><span class='scene-font-katari'>エッセルの心を</span><br><span class='scene-font-katari'>取り戻すことができるのか。</span>,<span class='scene-font-katari'>最后，他们能够夺回艾瑟尔的心吗。</span>
+info,,,scene_ult_chr131_q4_7_s20
+译者,,,

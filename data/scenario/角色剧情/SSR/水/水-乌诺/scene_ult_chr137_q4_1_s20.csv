@@ -1,0 +1,12 @@
+id,name,text,trans
+0-chapter_name,,最強は最強に問え,最强追问着最强
+0-synopsis,,戦いはウーノの勝利に終わる。ウーノとソーンは戦いの中で、「強さ」とは何なのか純粋で真摯な問答を交わし、互いに充実感を得ていた。ウーノはこの戦いで、また一つ答えに近づけたとソーンに感謝し、立ち去るのだった。,战斗以乌诺的胜利告终。乌诺和索恩在战斗中就「强大」为何物，进行了纯粹的诚挚的交流，互相都觉得很满足。乌诺感谢索恩让他在这次战斗中离答案更进一步，就离开了。
+2,,<span class='scene-font-katari'>ウーノはソーンとの戦いで</span><br><span class='scene-font-katari'>勝利を収めた。</span>,<span class='scene-font-katari'>乌诺在与索恩的战斗中取得了胜利。</span>
+3,,<span class='scene-font-katari'>しかし、双方の顔には</span><br><span class='scene-font-katari'>勝者の歓喜も敗者の屈辱も</span><br><span class='scene-font-katari'>存在しない。</span>,<span class='scene-font-katari'>但是双方的脸上都没有半点胜者的喜悦或者败者的屈辱。</span>
+4,,<span class='scene-font-katari'>ただ、強さというものに対する</span><br><span class='scene-font-katari'>純粋で真摯な問答を交わした</span><br><span class='scene-font-katari'>充実感だけを静かに湛えていた。</span>,<span class='scene-font-katari'>只是静静弥漫着就强大进行纯粹诚挚交流后的满足感。</span>
+5,ソーン/索恩,流石、ウーノね。<br>歴戦の強者に相応しい<br>威厳に満ちた強さ……,不愧是乌诺啊。这与历战强者相应的威严感十足的强大……
+6,ウーノ/乌诺,感謝するよ、ソーン。<br>君のおかげで、また一つ、<br>私は答えに近づけた。,感谢你，索恩。多亏了你，我又离答案更进一步了。
+7,ソーン/索恩,ふふ、お役に立てて嬉しいわ。<br>いつでも相手になるわ。<br>その気になったら、いつでもどうぞ。,呵呵，能帮到你我很开心。我一直都可以做你的对手。如果想战斗的话，我随时奉陪。
+8,ウーノ/乌诺,…………,……
+info,,,scene_ult_chr137_q4_1_s20
+译者,,,

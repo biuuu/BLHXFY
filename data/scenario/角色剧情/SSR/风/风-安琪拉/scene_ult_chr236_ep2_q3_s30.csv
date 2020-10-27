@@ -1,0 +1,119 @@
+id,name,text,trans
+0-chapter_name,,霧の村の真実,雾之村的真实
+0-synopsis,,白骨大王は最後の力で、アンチラを霧の中に呑み込んでしまう。アンチラは脱出を試みようと足掻くが、一向に出口は見つからず、力なく倒れ伏す。しかしその時、姬塔達の声が聞こえ、アンチラは奮起し見事ハクヤの支配を逃れる。数日後、一行は平穏が戻った村でお祭りに参加する。アンチラは大好きなわたあめを頬張りながら、姬塔との絆を確かめ合うのだった。,白骨大王用最后的力量，将安琪拉吞入迷雾之中。安琪拉为了逃脱不停挣扎、却始终发现不了出口、用尽力量倒在地上。但就在这时、安琪拉听到姬塔们的声音、鼓起劲来成功逃脱了白夜的支配。数日后、一行参加了成功取回和平后村子的祭典。安琪拉将最喜欢的棉花糖塞满口中、确实感受着和姬塔的羁绊。
+8,白骨大王,ぐっ……<br>まさか……ここまでやるとはな。,可恶……<br>没想到……居然能做到这种地步。
+9,アンチラ/安琪拉,思い知ったか！<br>これがボク達の実力だ！,尝到了吧！<br>这就是我们的实力！
+10,,<span class='scene-font-katari'>姬塔達の攻撃を受けて、</span><br><span class='scene-font-katari'>消耗している白骨大王。</span>,受到姬塔一行的攻击、</span><br><span class='scene-font-katari'>白骨大王不停消耗着。</span>
+11,ビィ/碧,アンチラ！<br>行けーっ！,安琪拉！<br>上吧ー！
+12,ルリア/露莉亚,アンチラちゃん！<br>今ですっ！,安琪拉酱！<br>就是现在！
+13,,<span class='scene-font-katari'>姬塔達は</span><br><span class='scene-font-katari'>最後の一撃を</span><br><span class='scene-font-katari'>アンチラに任せる。</span>,姬塔将</span><br><span class='scene-font-katari'>最后一击</span><br><span class='scene-font-katari'>交予了安琪拉。</span>
+15,アンチラ/安琪拉,白骨大王！<br>これで終わりだっ！,白骨大王！<br>这样就结束了！
+16,アンチラ/安琪拉,天上天下……如意自在！<br>行けっ！　如意金箍棒！,天上天下……如意自在！<br>上吧！　如意金箍棒！
+17,アンチラ/安琪拉,<span class='scene-font-4'>はぁぁぁぁぁぁぁぁっ！</span>,哈———！</span>
+19,,<span class='scene-font-katari'>天を衝くほどに巨大化した</span><br><span class='scene-font-katari'>如意金箍棒を、全身全霊をかけて</span><br><span class='scene-font-katari'>勢いよく打ち込むアンチラ。</span>,冲破天际般巨大化了的</span><br><span class='scene-font-katari'>如意金箍棒、安琪拉仿佛用尽全身力量</span><br><span class='scene-font-katari'>打了下去。</span>
+20,白骨大王,<span class='scene-font-4'>ぐぁぁぁぁぁぁぁぁっ！</span>,咕啊——！</span>
+24,,<span class='scene-font-katari'>アンチラの渾身の一撃を</span><br><span class='scene-font-katari'>受けた白骨大王は</span><br><span class='scene-font-katari'>地面に倒れ込んだ。</span>,受到安琪拉全力一击的</span><br><span class='scene-font-katari'>白骨大王は</span><br><span class='scene-font-katari'>倒在了地面上。</span>
+25,アンチラ/安琪拉,はぁ……はぁ……<br>や、やったよ……ボク……！,哈……哈……<br>成、成功了……我……！
+26,ビィ/碧,やったなアンチラ！,干得漂亮安琪拉！
+27,ルリア/露莉亚,アンチラちゃん、すごいです！,安琪拉酱、好厉害！
+28,アンチラ/安琪拉,はは……<br>姬塔達の<br>おかげだよ……,哈哈……<br>多亏了<br>姬塔们哟……
+29,,<span class='scene-font-katari'>白骨大王を倒して</span><br><span class='scene-font-katari'>安堵する姬塔達。</span>,对打倒白骨大王感到安心</span><br><span class='scene-font-katari'>的姬塔一行。</span>
+30,白骨大王,<span class='scene-font-kokoro'>（こ、こんなところで</span><br><span class='scene-font-kokoro'>終われるか……）</span>,（怎、怎么能在这种地方</span><br><span class='scene-font-kokoro'>就结束啊……）</span>
+31,白骨大王,<span class='scene-font-kokoro'>（こうなったら……</span><br><span class='scene-font-kokoro'>全員道連れにしてやる）</span>,（既然这样……</span><br><span class='scene-font-kokoro'>就拉全员一起去陪葬吧）</span>
+34,,<span class='scene-font-katari'>だが次の瞬間、最後の力を</span><br><span class='scene-font-katari'>振り絞って姬塔達に</span><br><span class='scene-font-katari'>襲いかかる白骨大王。</span>,下一瞬间、白骨大王挤出</span><br><span class='scene-font-katari'>最后的力量</span><br><span class='scene-font-katari'>向姬塔一行袭击过来。</span>
+35,アンチラ/安琪拉,危ないっ……！,危险……！
+41,,<span class='scene-font-katari'>アンチラは咄嗟に</span><br><span class='scene-font-katari'>姬塔達を</span><br><span class='scene-font-katari'>遠くへ突き飛ばす。</span>,安琪拉情急之下</span><br><span class='scene-font-katari'>将姬塔们</span><br><span class='scene-font-katari'>退飞出去。</span>
+42,ビィ/碧,アンチラっ！,安琪拉！
+43,ルリア/露莉亚,アンチラちゃん！,安琪拉酱！
+44,アンチラ/安琪拉,うわぁぁぁぁっ！,呜哇！
+45,白骨大王,これで……<br>お前も終わりだ……,这样……<br>你也完蛋了……
+46,,<span class='scene-font-katari'>白骨大王の体から噴出した</span><br><span class='scene-font-katari'>霧に飲み込まれたアンチラ。</span>,安琪拉被从白骨大王体内</span><br><span class='scene-font-katari'>喷出的浓雾所吞没。</span>
+48,,<span class='scene-font-katari'>意識が真っ黒に塗りつぶされた</span><br><span class='scene-font-katari'>アンチラはそのまま気絶してしまう。</span>,整个意识都被涂黑一般</span><br><span class='scene-font-katari'>安琪拉就这样失去了意识。</span>
+54,,<span class='scene-font-katari'>しばらくしてアンチラが目覚めると、</span><br><span class='scene-font-katari'>そこは何もない暗黒空間だった。</span>,一段时间过后安琪拉恢复了意识、</span><br><span class='scene-font-katari'>却发现身处空无一物的漆黑空间。</span>
+57,アンチラ/安琪拉,こ……ここは……どこ？,这……这里是……哪？
+58,白骨大王,ここは私の霧の中だ……,这里是我的雾中……
+59,白骨大王,お前は決して抜け出せない、<br>霧に囚われた。,你被绝对无法逃脱的雾、<br>困住了。
+60,白骨大王,ふっふっふっ……<br>このまま果てろ。,呼呼呼……<br>就这样腐朽吧。
+61,アンチラ/安琪拉,ぐっ……<br>諦めるか。,可恶……<br>谁会认命啊。
+62,アンチラ/安琪拉,行雲流水……<br>筋斗雲よ……有れ！,行云流水……<br>筋斗云哟……来！
+67,アンチラ/安琪拉,これで……<br>出口を探せば。,就这样……<br>去找出口的话。
+69,,<span class='scene-font-katari'>筋斗雲に乗ったアンチラは、</span><br><span class='scene-font-katari'>霧の中を飛び回る。</span>,安琪拉乘坐着筋斗云、</span><br><span class='scene-font-katari'>在雾中飞复着。</span>
+70,,<span class='scene-font-katari'>だが、どこまで行っても</span><br><span class='scene-font-katari'>一向に出口が見当たらない。</span>,但是、无论去到哪</span><br><span class='scene-font-katari'>都无法找到出口。</span>
+71,アンチラ/安琪拉,まだだっ……まだ諦めるかっ！,还没有……还没有结束！
+72,アンチラ/安琪拉,天上天下……如意自在……<br>伸びろ！　如意金箍棒……！,天上天下……如意自在……<br>伸长吧！　如意金箍棒……！
+73,アンチラ/安琪拉,はっ！　やっ！　とおっ！,哈！　呀！　哆！
+74,,<span class='scene-font-katari'>アンチラは如意金箍棒で</span><br><span class='scene-font-katari'>辺りを攻撃するが、</span><br><span class='scene-font-katari'>空しく空を切るだけだった。</span>,安琪拉用如意金箍棒</span><br><span class='scene-font-katari'>攻击周围、</span><br><span class='scene-font-katari'>却只是划过空气罢了。</span>
+75,アンチラ/安琪拉,くそっ！<br>出口はどこにあるんだっ！,可恶！<br>出口到底在哪！
+76,白骨大王,無駄だ無駄だ、<br>もう諦めろ。,没用的没用的、<br>差不多放弃吧。
+79,,<span class='scene-font-katari'>やがて消耗したアンチラは</span><br><span class='scene-font-katari'>バランスを崩して</span><br><span class='scene-font-katari'>筋斗雲から落下する。</span>,最终体力消耗过度的安琪拉</span><br><span class='scene-font-katari'>失去了平衡</span><br><span class='scene-font-katari'>从筋斗云上跌落下来。</span>
+80,,<span class='scene-font-katari'>地面に落下したアンチラは、</span><br><span class='scene-font-katari'>そのまま動かなくなってしまう。</span>,落到地上的安琪拉、</span><br><span class='scene-font-katari'>就这样再也一动不动。</span>
+81,アンチラ/安琪拉,もう力が……出ないよ……,已经……使不出力气了……
+82,白骨大王,そうだ……<br>諦めてもう死ね。,是啊……<br>快点放弃去死吧。
+83,アンチラ/安琪拉,ビィさん……ルリアさん……<br>姬塔が無事なら……,碧桑……露莉亚小姐……<br>姬塔没事的话……
+84,アンチラ/安琪拉,良かった……<br>もう……眠っていいかな……,太好了……<br>已经……可以睡了吧……
+90,,<span class='scene-font-katari'>アンチラが諦めかけたその時、</span><br><span class='scene-font-katari'>どこからか懐かしい声が響いてきた。</span>,就在安琪拉快要放弃的时候、</span><br><span class='scene-font-katari'>不知从何处传来了熟悉的声音。</span>
+91,ビィの声/碧的声音,起きろアンチラ！<br>そんな所で寝たら風邪ひくぞ！,快起来安琪拉！<br>在这种地方睡觉的话会感冒的！
+92,ルリアの声/露莉亚的声音,アンチラちゃん！<br>みんなで一緒にテンジクに<br>行くんですよね！,安琪拉酱！<br>不是要和大家一起<br>去天竺的吗！
+93,アンチラ/安琪拉,ビィさん……<br>ルリアさん……,碧桑……<br>露莉亚小姐……
+93-sel1_txt,,<span class='scene-font-katari'>アンチラ！</span>,安琪拉！</span>
+94,アンチラ/安琪拉,姬塔か……,姬塔……
+94-sel1_txt,,<span class='scene-font-katari'>諦めちゃダメだ！</span>,还不能放弃！</span>
+96,アンチラ/安琪拉,わかったよ……<br>まだ、諦めるもんか！,我知道……<br>怎么、能就这样放弃啊！
+96-sel1_txt,,<span class='scene-font-katari'>一緒にテンジクへ行こう！</span>,一起去天竺吧！</span>
+98,アンチラ/安琪拉,うんっ！<br>目指せ、テンジクだね！,嗯！<br>目标、天竺对吧！
+99,,<span class='scene-font-katari'>再び立ち上がったアンチラは</span><br><span class='scene-font-katari'>その場で仙術の印を結ぶ。</span>,再度站了起来的安琪拉</span><br><span class='scene-font-katari'>当场结起仙术的印。</span>
+100,アンチラ/安琪拉,ボクは斉天大聖の遺志を継ぐ者、<br>大仙猿アンチラだ！,我是齐天大圣遗志的继承者、<br>大仙猿安琪拉！
+101,,<span class='scene-font-katari'>アンチラは自身の髪の毛を抜いて</span><br><span class='scene-font-katari'>息を吹きかけた。</span>,安琪拉拔下自身的头发</span><br><span class='scene-font-katari'>轻轻吹气。</span>
+102,アンチラ/安琪拉,千変万化……<br>身外身の法！,千变万化……<br>身外身之法！
+107,,<span class='scene-font-katari'>途端にあたり一面を</span><br><span class='scene-font-katari'>アンチラの分身が埋め尽くす。</span>,突然周围一片</span><br><span class='scene-font-katari'>被安琪拉的分身所填满。
+108,アンチラ/安琪拉,まだまだっ行くよっ！,还不止这种程度！</span>
+113,,<span class='scene-font-katari'>アンチラは自身の限界まで</span><br><span class='scene-font-katari'>辺りに分身を生み出した。</span>,安琪拉到自身的极限为止</span><br><span class='scene-font-katari'>不停地在周围制造分身。</span>
+114,アンチラ/安琪拉,はぁ……はぁ……<br>これが最後の術だ……,哈……哈……<br>这就是最后的仙术了……
+115,,<span class='scene-font-katari'>アンチラの全ての分身体が</span><br><span class='scene-font-katari'>印を結んで力を解放する。</span>,安琪拉所有的分身同时</span><br><span class='scene-font-katari'>结印并解放其力量。</span>
+119,アンチラ/安琪拉,慧眼開花……<br>テンジクを目指せ！,慧眼开花……<br>目标天竺！
+120,アンチラ/安琪拉,<span class='scene-font-4'>千手千猿・猿皇波！</span>,千手千猿・猿皇波！</span>
+127,,<span class='scene-font-katari'>アンチラの全ての分身体から、</span><br><span class='scene-font-katari'>凄まじい数の光弾が放たれた。</span>,从安琪拉所有分身手中、</span><br><span class='scene-font-katari'>发出了数量惊人的光弹。</span>
+128,,<span class='scene-font-katari'>次の瞬間、光弾が全て弾け飛んで、</span><br><span class='scene-font-katari'>視界の全てをすさまじい光の洪水が</span><br><span class='scene-font-katari'>塗りつぶした。</span>,下一瞬间、光弹全部飞出、</span><br><span class='scene-font-katari'>视野被光的洪流</span><br><span class='scene-font-katari'>所覆盖。</span>
+131,白骨大王,な……なんだと！<br>これほどまでの力とは……！,什……什么！<br>居然会有这种程度的力量……！
+132,白骨大王,おのれおのれおのれぇ！<br>憎き斉天大聖の子孫めぇぇぇぇ！,可恶可恶可恶！<br>可恨的齐天大圣的子孙！
+133,白骨大王,この屈辱は決して忘れんぞぉ！<br>覚えていろぉぉぉぉ！,绝对不会忘记这份屈辱！<br>给我记住了！
+151,,<span class='scene-font-katari'>光の洪水に飲み込まれて</span><br><span class='scene-font-katari'>そのまま意識を失うアンチラ。</span>,被光之洪流所吞没</span><br><span class='scene-font-katari'>安琪拉就这样失去了意识。</span>
+160,,<span class='scene-font-katari'>それからいくばくかの</span><br><span class='scene-font-katari'>時間が流れた。</span>,在这之后</span><br><span class='scene-font-katari'>不知过了多久。</span>
+161,,<span class='scene-font-katari'>靄のかかった様な意識の中、</span><br><span class='scene-font-katari'>アンチラは懐かしい声を聞く。</span>,在朦胧的意识之中、</span><br><span class='scene-font-katari'>安琪拉听见了怀念的声音。</span>
+169,ビィ/碧,……チラ……おい……<br>ろって……アンチラ！,……琪拉……喂……<br>睡……安琪拉！
+170,ルリア/露莉亚,ちゃん……アン……<br>きて……アンチラちゃん！,酱……安……<br>起……安琪拉酱！
+171,アンチラ/安琪拉,んん……<br>ビィさん……ルリアさん……,嗯嗯……<br>碧桑……露莉亚小姐……
+172,,<span class='scene-font-katari'>薄らと目をあけたアンチラは、</span><br><span class='scene-font-katari'>ビィ、ルリア、姬塔の</span><br><span class='scene-font-katari'>懐かしい顔を見る。</span>,微微睁开双眼的安琪拉、</span><br><span class='scene-font-katari'>看到了碧、露莉亚、姬塔</span><br><span class='scene-font-katari'>怀念的面容。</span>
+173,ルリア/露莉亚,アンチラちゃん！<br>目が覚めて良かったです！,安琪拉酱！<br>醒过来真是太好了！
+174,ビィ/碧,へへっ！<br>なんとか無事だったみてぇだな！,嘿嘿！<br>看来总算是没事的样子啊！
+176,,<span class='scene-font-katari'>姬塔はそっとアンチラの</span><br><span class='scene-font-katari'>身体を抱きかかえると、</span><br><span class='scene-font-katari'>その場を後にする。</span>,姬塔轻轻抱起</span><br><span class='scene-font-katari'>安琪拉、</span><br><span class='scene-font-katari'>离开了这地方。</span>
+177,,<span class='scene-font-katari'>アンチラはその心地よい感覚に</span><br><span class='scene-font-katari'>再び眠りに落ちてしまった。</span>,安琪拉在这舒心的感觉中</span><br><span class='scene-font-katari'>再度熟睡了过去。</span>
+183,,<span class='scene-font-katari'>それから数日後──</span>,那之后过了数日──</span>
+184,,<span class='scene-font-katari'>村人達を領主・ハクヤの支配から</span><br><span class='scene-font-katari'>解放することに成功した</span><br><span class='scene-font-katari'>姬塔一行。</span>,成功将村民从</span><br><span class='scene-font-katari'>领主・白夜手中解放的</span><br><span class='scene-font-katari'>姬塔一行。</span>
+185,,<span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>村人達が開催するお祝いの</span><br><span class='scene-font-katari'>お祭りに参加している。</span>,姬塔一行、</span><br><span class='scene-font-katari'>参加了村民们举办的</span><br><span class='scene-font-katari'>祝贺祭典。</span>
+186,アンチラ/安琪拉,わぁーい！<br>お祭りだお祭りだぁー！,哇ー噫！<br>是祭典是祭典ー！
+187,ビィ/碧,ははっ、<br>アンチラが元気そうで良かったぜ。,哈哈、<br>安琪拉精神的样子真是太好了。
+188,ルリア/露莉亚,今回は色々と大変でしたから<br>楽しんでくれるといいですね。,这次发生了很多辛苦的事<br>能好好享受就好了。
+189,アンチラ/安琪拉,う～ん……<br>何から食べるか迷っちゃうなぁ～,嗯～……<br>要吃些什么还真是让人烦恼啊～
+190,,<span class='scene-font-katari'>様々な屋台に目移りしている</span><br><span class='scene-font-katari'>アンチラに、特大のわたあめを</span><br><span class='scene-font-katari'>手渡す姬塔。</span>,在摊贩之间视线来回摆动</span><br><span class='scene-font-katari'>的安琪拉、姬塔将特大棉花糖</span><br><span class='scene-font-katari'>递给了她。</span>
+191,アンチラ/安琪拉,あっ……姬塔が<br>わたあめを買ってくれたんだ！,啊……姬塔<br>买给我棉花糖了啊！
+191-sel1_txt,,<span class='scene-font-katari'>おつかれさま</span>,幸苦了</span>
+192,アンチラ/安琪拉,そんな顔して<br>急にどうしたの？,摆出这副表情<br>突然怎么了？
+193,アンチラ/安琪拉,ふへへ～<br>それじゃあいっただきまーす！,呼嘿嘿～<br>那么就我开动ー了！
+194,ビィ/碧,ああしてわたあめに<br>大喜びしてるのを見ると<br>まだまだ子供って感じだよな～,看着那样会因为<br>棉花糖那么高兴的样子<br>还是小孩的感觉呢～
+195,ルリア/露莉亚,うふふっ、<br>いつも通りのアンチラちゃんで<br>安心しました。,呜呼呼、<br>是一如既往的安琪拉酱<br>安心了。
+196,,<span class='scene-font-katari'>姬塔と並んで歩く</span><br><span class='scene-font-katari'>アンチラは、嬉しそうに</span><br><span class='scene-font-katari'>わたあめを頬張ろうとする。</span>,和姬塔并排走在一起</span><br><span class='scene-font-katari'>的安琪拉、十分开心地</span><br><span class='scene-font-katari'>将棉花糖塞满嘴中。</span>
+197,,<span class='scene-font-katari'>だが、なぜかアンチラは</span><br><span class='scene-font-katari'>ふと我に返った様子で、</span><br><span class='scene-font-katari'>わたあめを食べるのを止めた。</span>,但是、不知为何安琪拉</span><br><span class='scene-font-katari'>突然回神一般、</span><br><span class='scene-font-katari'>停止吃棉花糖。</span>
+198,,<span class='scene-font-katari'>気になってアンチラに</span><br><span class='scene-font-katari'>理由を尋ねる姬塔。</span>,姬塔在意地向</span><br><span class='scene-font-katari'>安琪拉询问理由。</span>
+199,アンチラ/安琪拉,あのさ……ボクも大人になったら、<br>わたあめよりも好きなものが<br>出てきちゃうのかなって。,那个……我如果成为大人的话、<br>会出现比棉花糖<br>更喜欢的东西吗。
+200,アンチラ/安琪拉,そしたら、<br>なんか寂しいなって……,那样的话、<br>好像有一点寂寞呢……
+201,アンチラ/安琪拉,だから、ボクはわたあめとは、<br>ずっと変わらない仲良しの<br>関係がいいなって思ったんだ。,所以、我想和棉花糖、<br>一直是好朋友<br>就好了。
+202,,<span class='scene-font-katari'>少し感傷的なアンチラの</span><br><span class='scene-font-katari'>想いを感じ取って、</span><br><span class='scene-font-katari'>静かに頷く姬塔。</span>,感受到了安琪拉</span><br><span class='scene-font-katari'>些许伤感的的心情、</span><br><span class='scene-font-katari'>姬塔静静地点了点头。</span>
+203,アンチラ/安琪拉,ありがとう、姬塔。,谢谢、姬塔。
+204,アンチラ/安琪拉,ボクと姬塔も、<br>ずーっと変わらず仲良しでいようね？,我和姬塔也是、<br>永远这样好好相处就好了呢？
+205,,<span class='scene-font-katari'>どこか大人びた表情のアンチラに</span><br><span class='scene-font-katari'>優しく微笑み返す姬塔。</span>,看着安琪拉些许大人般的表情</span><br><span class='scene-font-katari'>姬塔露出温柔的微笑回答。</span>
+206,アンチラ/安琪拉,うふふっ<br>ゼッタイに約束だよ！,呜呼呼<br绝对的约定哦！
+207,,<span class='scene-font-katari'>いつもの子供っぽい調子に戻った</span><br><span class='scene-font-katari'>アンチラは、屈託のない笑みを</span><br><span class='scene-font-katari'>浮かべてわたあめを頬張った。</span>,安琪拉回到一如既往小孩般</span><br><span class='scene-font-katari'>的状态、一边自然地微笑着</span><br><span class='scene-font-katari'>一边将棉花糖塞入口中。
+208,,<span class='scene-font-katari'>この先どんな苦難が待ち受けていようが</span><br><span class='scene-font-katari'>アンチラと姬塔は</span><br><span class='scene-font-katari'>変わらず支え合って行くのだろう。</span>,在这前方无论有怎么的苦难等待着</span><br><span class='scene-font-katari'>安琪拉和姬塔</span><br><span class='scene-font-katari'>会一直互相支撑下去的吧。</span></span>
+info,,,scene_ult_chr236_ep2_q3_s30
+译者,,,

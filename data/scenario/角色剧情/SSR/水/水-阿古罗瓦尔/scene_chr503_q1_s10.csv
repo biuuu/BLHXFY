@@ -1,0 +1,51 @@
+id,name,text,trans
+0-chapter_name,,辣腕と剛腕,辣腕と剛腕
+0-synopsis,,ある夜、ウェールズ城内に怪しい影が現れ、尚書官を襲いその身体を乗っ取ってしまう。翌日、乗っ取られた尚書官はアグロヴァルに、崩壊した地下空間と幽世について調べていた研究施設を掘り起こし、再び幽世の者と手を組むよう進言する。話を聞いたアグロヴァルは、「ならば地下空間と研究施設を掘り起こしてみよ」と尚書官に告げるのだった。,某天夜里，威尔士城内出现了可疑的身影袭击了尚书官，然后夺取了他的身体。第二天，假冒尚书官建议阿古罗瓦尔挖掘坍塌的地下空间和幽世的研究设施，重新与幽世者合作。听了这番话的阿古罗瓦尔对尚书官宣告到“那你就去挖掘地下空间和研究设施吧”。
+8,？？？,くぁっくぁっくぁっ……,咔、咔、咔……
+9,,<span class='scene-font-katari'>月が暗雲に呑まれた、とある闇夜──</span>,<span class='scene-font-katari'>在某个月亮被乌云吞没的夜晚——</span>
+10,,<span class='scene-font-katari'>ウェールズ城内に</span><br><span class='scene-font-katari'>突如現れた怪しき影は、</span><br><span class='scene-font-katari'>何かを探すように蠢いていた。</span>,<span class='scene-font-katari'>在威尔士城内</span><br><span class='scene-font-katari'>突然出现的可疑身影、</span><br><span class='scene-font-katari'>好像在寻找什么似的蠢蠢欲动。</span>
+12,尚書官,……ふぅ……,……呼……
+13,？？？,…………,…………
+19,,<span class='scene-font-katari'>怪しき影は己の体を黒煙へと変化させ、</span><br><span class='scene-font-katari'>目の前を通りかかる人間に</span><br><span class='scene-font-katari'>襲い掛かった。</span>,<span class='scene-font-katari'>可疑的身影把自己化作一团黑烟</span><br><span class='scene-font-katari'>袭击了眼前路过的人</span>
+20,尚書官の声,ぐ、ぐああああッ！,咕、唔啊啊啊啊啊！
+21,？？？の声,その身体……<br>使わせてもらおうか……,把你的身体……<br>借我一用吧……
+22,尚書官の声,ぐ、うう……<br>貴様は……！？,咕、唔……<br>你是……！？
+28,,<span class='scene-font-katari'>唆された人間は、怪しき影に呑まれた。</span><br><span class='scene-font-katari'>それにより意識も体も、</span><br><span class='scene-font-katari'>最早、傀儡と成り果てたのだった。</span>,<span class='scene-font-katari'>被引诱的人逐渐被黑影所吞噬。</span><br><span class='scene-font-katari'>无论是意识还是身体、</span><br><span class='scene-font-katari'>最后、变成了一具傀儡。</span>
+29,尚書官,…………,…………
+31,？？？の声,くぁっくぁっくぁっ……,咔、咔、咔……
+37,,<span class='scene-font-katari'>翌日──</span>,<span class='scene-font-katari'>第二天──</span>
+38,,<span class='scene-font-katari'>尚書官は、円卓会議を終えた</span><br><span class='scene-font-katari'>アグロヴァルの前に進み出ると、</span><br><span class='scene-font-katari'>恭しく頭を垂れる。</span>,<span class='scene-font-katari'>圆桌会议结束之后</span><br><span class='scene-font-katari'>尚书官走到阿古罗瓦尔面前</span><br><span class='scene-font-katari'>恭敬的低下了头。</span>
+39,尚書官,アグロヴァル様に<br>どうしても<br>進言致したき儀が御座います。,我有必须得向<br>阿古罗瓦尔大人<br>进言的事情。
+40,アグロヴァル/阿古罗瓦尔,……ならば何故、<br>円卓会議の際に発言をしなかったのだ？,……那么为什么、<br>不在圆桌会议的时候说出来？
+41,尚書官,事が事で御座いますので、<br>まずはアグロヴァル様だけに<br>お伝えしたいと思った次第……,事出有因<br>我想先只告诉阿古罗瓦尔大人……
+42,アグロヴァル/阿古罗瓦尔,……申してみよ。,……你说说看。
+43,尚書官,先の……<br><span class='scene-font-spword'>“幽世の門”</span>を開こうとなさった<br>あの一件のことで御座います。,是关于……<br>之前打算打开<span class='scene-font-spword'>“幽世之门”</span>的事。
+44,アグロヴァル/阿古罗瓦尔,それはごく一部の者しか知らぬこと……,那是只有极少数人才知道的事情……
+45,尚書官,私にかかれば、<br>そのような情報を手に入れることなど、<br>容易きこと。,对我来说、<br>想要知道这样的情报并不困难。
+46,尚書官,だからこそ、<br>在野に埋もれていた私を<br>登用して下さったので御座いましょう？,正因为如此、<br>要不要起用被埋没在野党的我呢？
+47,アグロヴァル/阿古罗瓦尔,……ふむ、<br>確かに貴様の言う通りだ。<br>続けろ……,……嗯、<br>确实如你所说。<br>接着讲……
+48,尚書官,崩落してしまった地下の巨大な空間。<br>そして、幽世について調べていた<br>研究施設──,崩塌的地下巨大空间。<br>然后、调查幽世的研究设施————
+49,尚書官,それらを掘り起こしては如何でしょう？,把它们挖掘出来如何？
+50,尚書官,今日、アグロヴァル様の改革により、<br>ウェールズは日の出の勢い。,因为现在阿古罗瓦尔大人的改革<br>威尔士正蒸蒸日上。
+51,尚書官,今こそ、悲願を果たすべきでは？<br>世界を覇する帝国を<br>建国すべきではないでしょうか？,现在不正是实现夙愿的时刻？<br>不正是<br>应该建立称霸世界的帝国？
+52,アグロヴァル/阿古罗瓦尔,…………,…………
+53,,<span class='scene-font-katari'>アグロヴァルは</span><br><span class='scene-font-katari'>尚書官の真意を読み解こうと、</span><br><span class='scene-font-katari'>その一挙手一投足を窺う。</span>,<span class='scene-font-katari'>阿古罗瓦尔为了</span><br><span class='scene-font-katari'>解读尚书官的本意窥探着他的</span><br><span class='scene-font-katari'>一举一动。</span>
+54,,<span class='scene-font-katari'>だが尚書官はそんな視線に気づかず、</span><br><span class='scene-font-katari'>アグロヴァルを説得する為、</span><br><span class='scene-font-katari'>身振り手振りを交え熱弁を続ける。</span>,<span class='scene-font-katari'>但是尚书官并没有注意到这股视线</span><br><span class='scene-font-katari'>为了说服阿古罗瓦尔</span><br><span class='scene-font-katari'>继续手舞足蹈地热情演讲。</span>
+55,尚書官,フェードラッヘの手の者に<br>破壊されはしましたが──,虽然被费德拉赫的那群人给破坏了————
+56,尚書官,魔法陣に力を供給する<br>竜脈の位置は既に把握済み。,但是我已经掌握了<br>给魔法阵供能的龙脉的位置。
+57,尚書官,そして調べましたところ、<br>竜脈からは今でも僅かにその力が<br>流れ出ております。,然后在调查的同时、<br>那股力量现在也在一点点的<br>从龙脉之中流出。
+58,尚書官,ならば、迷うことなどありませぬ。<br>掘り起こすべきかと……,那么就不需要再迷茫了。<br>应该挖掘出来……
+59,アグロヴァル/阿古罗瓦尔,つまりは……<br>ふたたび幽世の者と手を組め、<br>そう言いたいわけか。,也就是说……<br>你在说让我、<br>再次和幽世的人联手吗。
+60,尚書官,仰せのとおり。,如您所言。
+61,アグロヴァル/阿古罗瓦尔,ふむ……,嗯……
+62,,<span class='scene-font-katari'>玉座に座り、</span><br><span class='scene-font-katari'>沈思黙考するアグロヴァルを</span><br><span class='scene-font-katari'>焚きつけるかのように尚書官は告げる。</span>,<span class='scene-font-katari'>尚书官向着、</span><br><span class='scene-font-katari'>坐在王座上沉默思考的阿古罗瓦尔</span><br><span class='scene-font-katari'>煽动似的宣告到。</span>
+63,尚書官,以前と違い、今は優秀な学者も<br>多く登用しております。,和之前不同、这次我起用了许多优秀的学者。
+64,尚書官,私とその者達が手を組めば、<br>幽世の者の恐るべき力をも利用し、<br>覇道を邁進するお力添えが出来るかと！,只要我跟他们联手、<br>就能够利用幽世那令人畏惧的力量向着霸道迈进！
+65,アグロヴァル/阿古罗瓦尔,<span class='scene-font-kokoro'>（ふん、これほどまで</span><br><span class='scene-font-kokoro'>大胆不敵なことを抜かすとはな……）</span>,<span class='scene-font-kokoro'>（哼、居然敢说出</span><br><span class='scene-font-kokoro'>如此胆大包天的话……）</span>
+66,アグロヴァル/阿古罗瓦尔,ならば貴様の申す通り、<br>地下空間と研究施設を<br>掘り起こしてみよ。,那就如你所说、<br>挖掘地下空间和研究所吧。
+67,アグロヴァル/阿古罗瓦尔,話はそこからであろう？,先挖出来再说别的吧？
+68,尚書官,ハッ！<br>必ずや、アグロヴァル様の為に！,是！<br>保证完成、为了阿古罗瓦尔大人！
+69,,<span class='scene-font-katari'>こうして、</span><br><span class='scene-font-katari'>アグロヴァルの命を受けた尚書官は、</span><br><span class='scene-font-katari'>掘削に長けた人材を在野から登用する。</span>,<span class='scene-font-katari'>就这样、</span><br><span class='scene-font-katari'>接受阿古罗瓦尔命令的尚书官</span><br><span class='scene-font-katari'>起用了擅长挖掘的人才。</span>
+70,,<span class='scene-font-katari'>そして尚書官は自ら掘削の一団を率い、</span><br><span class='scene-font-katari'>崩落した地下空間を</span><br><span class='scene-font-katari'>掘り起こしに向かうのだった。</span>,<span class='scene-font-katari'>然后尚书官亲自率领挖掘团队</span><br><span class='scene-font-katari'>向着崩落的地下空间进发</span>
+info,,,scene_chr503_q1_s10
+译者,,,

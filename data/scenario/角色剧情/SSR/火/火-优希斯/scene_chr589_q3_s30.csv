@@ -1,0 +1,142 @@
+id,name,text,trans
+0-chapter_name,,夢の行方,夢の行方
+0-synopsis,,ゼリオン組の頭にトドメを刺そうとするユイシス。しかし、そこにかつて姐と慕ったエイレアが現れ、ゼリオン組の頭を守る。エイレアはユイシスに対し、ディートリア組の仇が頭を務める敵対組織に入ったことを明かす。その夜、墓標の前で思い悩むユイシスはその胸の内を一行に打ち明ける。ユイシスは姬塔達から後押しされ、組の再興への誓いを新たにするのだった。,优希斯准备向泽里昂组头目做出最后一击。但是，突然出现的曾经被优希斯作为姐姐仰慕的艾莉亚保护了头目。艾莉亚告诉了优希斯，迪特里亚组的仇敌已经加入了作为领头的敌对组织的事。那一晚，在墓碑前烦恼的优希斯向一行倾诉了自己的内心。优希斯在姬塔她们的支持下，再次立下了要再兴迪特里亚组的誓言。
+1,,<span class='scene-font-katari'>襲いくるゼリオン組の頭と</span><br><span class='scene-font-katari'>組員達を倒した姬塔達。</span>,<span class='scene-font-katari'>将袭来的泽里昂组头目与</span><br><span class='scene-font-katari'>组员全部打倒了的姬塔一行人。</span>
+2,,<span class='scene-font-katari'>そんな中、ユイシスは</span><br><span class='scene-font-katari'>倒れたゼリオン組の頭に近寄ると</span><br><span class='scene-font-katari'>剣を高く振り上げる。</span>,<span class='scene-font-katari'>优希斯上前一步，</span><br><span class='scene-font-katari'>向倒在地上的泽里昂组头目</span><br><span class='scene-font-katari'>高高举起了剑。</span>
+3,ビィ/碧,お、おい、物騒な姉ちゃん！<br>何をするつもりだよ！,喂，喂！危险的姐姐！<br>你想做什么啊！
+4,ユイシス/优希斯,もちろん、命をもらうのよ。,当然是，取他性命了。
+5,ルリア/露莉亚,そ、そんなの絶対に駄目ですっ！<br><span class='scene-font-4'>剣を下ろしてください！</span>,那、那种事绝对是不能做的！<br><span class='scene-font-4'>请你把剑放下！</span>
+6,ユイシス/优希斯,ごめんなさい。<br>姬塔達の命令でも<br>それは聞けないわ。,抱歉。<br>就算是姬塔们的命令，<br>我也不能够从命了。
+7,ユイシス/优希斯,これはスジモノとしてのケジメなの。<br>だから、邪魔しないで。,这是道上之人要做的决断。<br>所以，请不要妨碍我。
+8,,<span class='scene-font-katari'>その言葉と共にユイシスの剣が</span><br><span class='scene-font-katari'>ゼリオン組の頭へと向かって</span><br><span class='scene-font-katari'>振り下ろされる。</span>,<span class='scene-font-katari'>说完，优希斯便挥下剑</span><br><span class='scene-font-katari'>向着泽里昂组头目的脑袋</span><br><span class='scene-font-katari'>劈了下去。</span>
+13,,<span class='scene-font-katari'>しかし、次の瞬間、ひとりの女性が</span><br><span class='scene-font-katari'>ゼリオン組の頭の前に飛び出してくると</span><br><span class='scene-font-katari'>ユイシスの剣を防ぐ。</span>,<span class='scene-font-katari'>但是，下一个瞬间，一个女性</span><br><span class='scene-font-katari'>跳了出来挡在了泽里昂组头目身前</span><br><span class='scene-font-katari'>为他挡下了优希斯的剑。</span>
+14,ユイシス/优希斯,何者ですか……,来者何人……
+16,？？？/？？？,…………,…………
+17,ユイシス/优希斯,って、え……,咦，唉……
+18,ユイシス/优希斯,う、嘘……<br>エイレアの姐……さん？,骗、骗人……<br>艾莉亚……姐姐？
+19,,<span class='scene-font-katari'>女性の姿を見て、</span><br><span class='scene-font-katari'>ユイシスは呆然とした表情を浮かべる。</span>,<span class='scene-font-katari'>看着女性的身影，</span><br><span class='scene-font-katari'>优希斯脸上浮现出了呆然的表情。</span>
+20,エイレア/艾莉亚,久しぶりですね、ユイシス。<br>こうして言葉を交わすのは<br>７年ぶり……ですか。,好久不见了呢，优希斯。<br>像这样能够说上话，<br>已经过了……七年吗。
+21,ユイシス/优希斯,え、ええ……　<br>エイレアの姐さんとは<br>父様と母様のお葬式以来だから……,嗯，是啊……　<br>和艾莉亚姐姐自从<br>父亲大人和母亲大人的葬礼之后就……
+22,エイレア/艾莉亚,なるほど……<br>道理で見間違えるわけです。,原来如此……<br>怪不得我会看错呢。
+23,エイレア/艾莉亚,惜しむらくは再会の形が<br>こんな形に<br>なってしまったこと……ですね。,不过遗憾的是<br>竟然变成这种<br>形式的再会……了呢。
+26,,<span class='scene-font-katari'>エイレアと呼ばれた女性は</span><br><span class='scene-font-katari'>剣を構えると</span><br><span class='scene-font-katari'>ユイシスへと斬りかかる。</span>,<span class='scene-font-katari'>名为艾莉亚的女性</span><br><span class='scene-font-katari'>举起了剑向</span><br><span class='scene-font-katari'>优希斯斩去。</span>
+33,ユイシス/优希斯,<span class='scene-font-4'>っ！？</span><br>どういうつもりよ！<br>エイレアの姐さん！,<span class='scene-font-4'>っ！？</span><br>你想做什么啊！<br>艾莉亚姐姐！
+34,,<span class='scene-font-katari'>戸惑いながらも</span><br><span class='scene-font-katari'>ユイシスはエイレアの剣を防ぐ。</span>,<span class='scene-font-katari'>在疑惑的同时</span><br><span class='scene-font-katari'>优希斯也挡住了艾莉亚的剑击。</span>
+36,エイレア/艾莉亚,今の私の頭……<br>アロゲントからの命令です。,这是我现在的头头……<br>阿洛根特下的命令。
+37,エイレア/艾莉亚,ゼリオン組の頭を<br>生きたまま自分の元に<br>連れて来い。,把泽里昂组的头目<br>活着带到他的身边。
+38,エイレア/艾莉亚,そして、ユイシス。<br>貴方の持つ魔具<span class='scene-font-spword'>“ディートリア”</span>を<br>奪ってこい……と。,还有，优希斯。<br>把你持有的魔具<span class='scene-font-spword'>“迪特里亚”</span>给<br>夺过来……的命令。
+39,ユイシス/优希斯,嘘……<br>姐さん、まさか……<br>アイツの組織に入った……の？,骗人……<br>姐姐，难道说……<br>你加入了那家伙的组织……の？
+40,エイレア/艾莉亚,ええ。ですので、今の私は<br>アロゲントの組の幹部にして、<br>アイツ直属の私兵です。,嗯。所以说，现在的我<br>已经是阿洛根特的干部、<br>是那家伙直属的私兵了。
+41,ユイシス/优希斯,<span class='scene-font-4'>っ！？</span><br><span class='scene-font-4'>姐さんっ！！</span>,<span class='scene-font-4'>！？</span><br><span class='scene-font-4'>姐姐！！</span>
+42,,<span class='scene-font-katari'>ユイシスは怒りを露わにすると</span><br><span class='scene-font-katari'>エイレアへと斬りかかる。</span>,<span class='scene-font-katari'>优希斯抑制不住愤怒地</span><br><span class='scene-font-katari'>向艾莉亚砍去。</span>
+44,ユイシス/优希斯,アイツの所為で父様や母様が……っ！<br>多くの組の家族が死んだのよっ！<br><span class='scene-font-4'>わかってるの！</span>,因为那家伙做的事父亲大人和母亲大人……！<br>众多组里的家人们都死了！<br><span class='scene-font-4'>你知道吗！</span>
+45,エイレア/艾莉亚,ええ、わかっていますよ。,当然，我知道的哦。
+46,ユイシス/优希斯,なら、なんで、<br>アイツの組なんかに入ったのよっ！,那么，为什么，<br>要加入那家伙的组织啊！
+48,エイレア/艾莉亚,…………,…………
+49,ユイシス/优希斯,<span class='scene-font-4'>答えなさいっ！</span>,<span class='scene-font-4'>回答我啊！</span>
+50,エイレア/艾莉亚,知りたいのでしたら、<br>私を倒して唄わせることです。,你想知道的话，<br>就打倒我吧。
+51,ユイシス/优希斯,<span class='scene-font-4'>エイレアの姐さんっ！</span>,<span class='scene-font-4'>艾莉亚姐姐！</span>
+52,エイレア/艾莉亚,今の私と貴方は違う頭に仕える敵同士。<br>説得など無意味です。,现在的我们是侍从于不同头儿的敌人。<br>想说服我是无意义的。
+53,エイレア/艾莉亚,知りたいことがあるのなら、<br>力づくで吐かせる以外、<br>方法はありません。,有想要知道的事情的话，<br>除了用力量让对方吐露外，<br>没有别的办法。
+54,ユイシス/优希斯,っ！？　そう……<br>なら、その言葉通り、<br>力づくで吐かせてみせるわ。,！？　是吗……<br>那么，就和你说的一样，<br>让我用力量请你说出来了。
+55,,<span class='scene-font-katari'>ユイシスは剣を構えなおすと</span><br><span class='scene-font-katari'>その切っ先をエイレアへと向ける。</span>,<span class='scene-font-katari'>优希斯重新提起剑摆好架势，</span><br><span class='scene-font-katari'>将剑峰对准了艾莉亚。</span>
+56,ユイシス/优希斯,勝負よ、エイレアの姐さん。<br>お互いの想いをかけて、<br>サシでの……,决一胜负吧，艾莉亚姐姐。<br>赌上双方思念的，<br>正面决斗……
+57,ビィ/碧,お、おい、本気かよ<br>物騒な姉ちゃん！？,喂，喂，认真的吗<br>危险的姐姐！？
+58,ビィ/碧,そっちの姉ちゃんは<br>物騒な姉ちゃんの大切な家族なんだろ？<br>なのに……,那边的姐姐是<br>危险的姐姐重要的家人吧？<br>那为什么……
+59,ユイシス/优希斯,エイレアの姐さんの意思は固いわ。<br>だから、こうするしかないのよ。,艾莉亚姐姐的心思很顽固。<br>所以，我只能这么做了。
+60,エイレア/艾莉亚,サシで殺り合って私に勝つ……と？<br>随分と大物を<br>たれるようになりましたね。,是想正面相杀然后赢过我……吗？<br>你真是变得<br>很会说大话了呢。
+61,エイレア/艾莉亚,いいでしょう。<br>ならば、相手になってあげます。好吧。<br>那么，我就来会会你吧。
+62,ユイシス/优希斯,行くわよ、エイレアの姐さん！,要上了，艾莉亚姐姐！
+66,ユイシス/优希斯,<span class='scene-font-4'>破煌刃・天終っ！</span>,<span class='scene-font-4'>破煌刃・天终！</span>
+68,,<span class='scene-font-katari'>エイレアに対し、</span><br><span class='scene-font-katari'>初手から全力の攻撃を仕掛ける</span><br><span class='scene-font-katari'>ユイシス。</span>,<span class='scene-font-katari'>面对着艾莉亚，</span><br><span class='scene-font-katari'>优希斯从最初的一招开始</span><br><span class='scene-font-katari'>便拼尽了全力。</span>
+70,,<span class='scene-font-katari'>しかし、エイレアは</span><br><span class='scene-font-katari'>ユイシスの全力の攻撃を</span><br><span class='scene-font-katari'>容易く防ぐ。</span>,<span class='scene-font-katari'>但是，艾莉亚却</span><br><span class='scene-font-katari'>轻易地防下了</span><br><span class='scene-font-katari'>来自优希斯全力的一击。</span>
+71,エイレア/艾莉亚,なるほど……腕を上げましたね。,原来如此……本领有长进了嘛。
+72,ユイシス/优希斯,<span class='scene-font-4'>…………！！</span>,<span class='scene-font-4'>…………！！</span>
+74,,<span class='scene-font-katari'>己の奥義を容易く防いだ</span><br><span class='scene-font-katari'>エイレアに驚き、ユイシスは</span><br><span class='scene-font-katari'>思わず飛びのく。</span>,<span class='scene-font-katari'>惊讶于艾莉亚轻易地</span><br><span class='scene-font-katari'>挡下了自己的奥义，优希斯不自觉地</span><br><span class='scene-font-katari'>拉开了距离。</span>
+75,エイレア/艾莉亚,ユイシス。<br>貴方の成長に敬意を表し、<br>私も本気で行かせていただきます。,优希斯。<br>以表我对你成长的敬意，<br>我也认真使出全力上吧。
+76,エイレア/艾莉亚,目覚めなさい、ヴァースリア。,睁开双眼吧，瓦斯利亚。
+77,,<span class='scene-font-katari'>その言葉と共に</span><br><span class='scene-font-katari'>エイレアの持った大剣が</span><br><span class='scene-font-katari'>黒く輝き始める。</span>,<span class='scene-font-katari'>随着话音，</span><br><span class='scene-font-katari'>艾莉亚手持的大剑</span><br><span class='scene-font-katari'>开始闪烁起黑色光辉。</span>
+78,ユイシス/优希斯,<span class='scene-font-4'>っ！？</span><br>何、その剣……,<span class='scene-font-4'>嗯！？</span><br>什么，那把剑……
+79,エイレア/艾莉亚,ディートリア組の頭の証たる魔具<br>ディートリア。,作为迪特里亚组头目之证的魔具，迪特里亚<br>。
+80,エイレア/艾莉亚,その対たる暴戻の魔具<br><span class='scene-font-spword'>“ヴァースリア”</span>です。,以及与它成对的暴虐魔具<br><span class='scene-font-spword'>“瓦斯利亚”</span>。
+81,エイレア/艾莉亚,本来の使い手はアロゲントですが、<br>今回に限り、私に貸与されました。<br>貴方と戦う。そのためだけに……,本来这是阿洛根特使用的武器，<br>只是这次，碰巧借给我了。<br>和你战斗。仅仅为了这个……
+82,,<span class='scene-font-katari'>エイレアはユイシスと同じように</span><br><span class='scene-font-katari'>ヴァースリアを構えると</span><br><span class='scene-font-katari'>その切っ先をユイシスへと向ける。</span>,<span class='scene-font-katari'>艾莉亚和优希斯同样的</span><br><span class='scene-font-katari'>举起了瓦斯利亚，</span><br><span class='scene-font-katari'>并将剑锋对准了优希斯。</span>
+83,エイレア/艾莉亚,破煌刃・天終。,破煌刃・天终。
+84,ユイシス/优希斯,<span class='scene-font-4'>っ！？</span>,<span class='scene-font-4'>！？</span>
+96,ルリア/露莉亚,え……<br>あの技って、ユイシスさんの……,哎……<br>那个招式是，优希斯小姐的……
+98,エイレア/艾莉亚,私とユイシスは同門です。<br>ですので、ユイシスの使う技は<br>私も使えるのですよ。,我和优希斯师出同门。<br>因此，优希斯使用的招式<br>我也可以使用。
+99,エイレア/艾莉亚,この様に……破煌刃・風雅。,像这样……破煌刃・风雅。
+106,ユイシス/优希斯,<span class='scene-font-4'>くっ！</span><br><span class='scene-font-4'>破煌刃・絶影っ！</span>,<span class='scene-font-4'>呃！</span><br><span class='scene-font-4'>破煌刃・绝影！</span>
+110,,<span class='scene-font-katari'>ぶつかり合う、ふたりの剣技。</span><br><span class='scene-font-katari'>しかし、時が経つと共に</span><br><span class='scene-font-katari'>徐々にその差が明確に出始める。</span>,<span class='scene-font-katari'>两人的剑技互相交织碰撞。</span><br><span class='scene-font-katari'>但是，随着时间的经过</span><br><span class='scene-font-katari'>渐渐的开始出现了差距。</span>
+116,ユイシス/优希斯,はぁ……はぁ……,哈……哈……
+117,エイレア/艾莉亚,あれだけ大物をたれておいて、<br>この程度ですか……<br>些かガッカリですね。,明明刚才说了那样的大话，<br>却只有这种程度吗……<br>稍微有些失望了呢。
+118,エイレア/艾莉亚,では、そろそろ、<br>終わりにしましょう。,那么，差不多，<br>该结束了。
+119,エイレア/艾莉亚,破煌刃・絶禍。,破煌刃・绝祸。
+133,,<span class='scene-font-katari'>エイレアの技を防ぎきれず、</span><br><span class='scene-font-katari'>ユイシスの身体が</span><br><span class='scene-font-katari'>背後の壁に叩きつけられる。</span>,<span class='scene-font-katari'>没能够防下艾莉亚的招式，</span><br><span class='scene-font-katari'>优希斯整个人</span><br><span class='scene-font-katari'>撞上了身后的墙壁。</span>
+134,ユイシス/优希斯,げほっ……げほっ……<br>くぅっ……,咳……咳……<br>呃……
+135,,<span class='scene-font-katari'>何とか起き上がろうとするユイシス。</span><br><span class='scene-font-katari'>しかし、その意志に反して、</span><br><span class='scene-font-katari'>身体はピクリとも動かない。</span>,<span class='scene-font-katari'>无论如何想先起身的优希斯。</span><br><span class='scene-font-katari'>但与她的意志相悖的是，</span><br><span class='scene-font-katari'>身体已经完全动弹不得了。</span>
+137,,<span class='scene-font-katari'>エイレアはそんなユイシスに近寄ると</span><br><span class='scene-font-katari'>剣を突き付ける。</span>,<span class='scene-font-katari'>艾莉亚继续逼近那样的优希斯</span><br><span class='scene-font-katari'>并用剑指向了她。</span>
+138,エイレア/艾莉亚,大人しく魔具ディートリアを<br>私に渡しなさい。<br>そうすれば命だけは助けてあげます。,老老实实把魔具迪特里亚<br>交给我。<br>那样的话至少还能留你一命。
+139,ユイシス/优希斯,ふざけ……ないでっ！<br>これはディートリア組の……<br><span class='scene-font-4'>頭の証よっ！</span>,不要……开玩笑了！<br>这可是迪特里亚组的……<br><span class='scene-font-4'>头目的证明！</span>
+140,ユイシス/优希斯,だから、絶対に……渡さないっ！,所以，绝对……不会交给你！
+141,エイレア/艾莉亚,ならば仕方ありません。,那就没办法了呢。
+142,,<span class='scene-font-katari'>その言葉と共にエイレアは</span><br><span class='scene-font-katari'>剣を高く振り上げる。</span>,<span class='scene-font-katari'>随着话音艾莉亚</span><br><span class='scene-font-katari'>将剑高高举起。</span>
+143,エイレア/艾莉亚,組という呪縛に囚われし、その魂……<br>私の一刀にて自由の空へと<br>解放してあげましょう。,让我来解放你这被<br>名为组织的枷锁所囚禁的灵魂，<br>一刀就让你前往自由的天空。
+144,エイレア/艾莉亚,さようなら、ユイシス。<br>後のことは私に任せて<br>安らかに眠ってください。,再见了，优希斯。<br>之后的事情就交给我，<br>请安心的睡吧。
+145,,<span class='scene-font-katari'>ユイシスめがけて</span><br><span class='scene-font-katari'>振り下ろされるヴァースリア。</span>,<span class='scene-font-katari'>瓦斯利亚向着优希斯</span><br><span class='scene-font-katari'>斩了下去。</span>
+146,ユイシス/优希斯,すみません……姬塔……,对不起……姬塔……
+149,,<span class='scene-font-katari'>避けようのない一撃に</span><br><span class='scene-font-katari'>ユイシスは目をつむる。</span>,<span class='scene-font-katari'>对着完全无法回避的一击</span><br><span class='scene-font-katari'>优希斯闭上了双眼。</span>
+149-sel1_txt,,<span class='scene-font-katari'>させない！</span>,<span class='scene-font-katari'>不会让你这么做的！</span>
+155,,<span class='scene-font-katari'>姬塔はユイシスの前に</span><br><span class='scene-font-katari'>飛び込むと手に持った剣で</span><br><span class='scene-font-katari'>エイレアの剣を防ぐ。</span>,<span class='scene-font-katari'>姬塔飞奔至优希斯身前</span><br><span class='scene-font-katari'>用手持的剑挡下了</span><br><span class='scene-font-katari'>艾莉亚的剑。</span>
+156,ユイシス/优希斯,<span class='scene-font-4'>姬塔っ！？</span>,<span class='scene-font-4'>姬塔！？</span>
+157,エイレア/艾莉亚,……頭？,……头儿？
+158,,<span class='scene-font-katari'>エイレアはユイシスの言葉に</span><br><span class='scene-font-katari'>驚いた表情を浮かべた後、</span><br><span class='scene-font-katari'>姬塔を凝視する。</span>,<span class='scene-font-katari'>艾莉亚对优希斯的话语</span><br><span class='scene-font-katari'>露出了惊讶的表情，</span><br><span class='scene-font-katari'>随后便凝视起姬塔。</span>
+159,エイレア/艾莉亚,ユイシスが頭と認めるほどの人物……<br>なるほど……確かに……,能够让优希斯认为是头儿的人物……<br>原来如此……确实是……
+160,,<span class='scene-font-katari'>エイレアはそう言うと</span><br><span class='scene-font-katari'>ヴァースリアを鞘へと戻す。</span>,<span class='scene-font-katari'>说着，艾莉亚把</span><br><span class='scene-font-katari'>瓦斯利亚收回了剑鞘。</span>
+161,ユイシス/优希斯,姐さん……どういう……つもり？,姐姐……你是想……做什么？
+162,エイレア/艾莉亚,剣をあわせれば、<br>おおよその実力はわかります。,用剑交锋后，<br>大概就能明白对方的实力了。
+163,エイレア/艾莉亚,貴方の組の頭は強い。<br>私とて殺り合えば<br>ただではすまないでしょう。,你的组的头儿很强。<br>跟我打起来的话<br>事儿就大条了。
+164,エイレア/艾莉亚,そうなってしまっては<br>もうひとつの命令を<br>遂行できなくなります。,变成那样的话<br>另一个命令<br>我也没办法完成了。
+165,エイレア/艾莉亚,ですので、ここで手打ちと<br>いたしましょう。,所以说，今天在这<br>就算我们平手吧。
+166,,<span class='scene-font-katari'>エイレアは倒れたままの</span><br><span class='scene-font-katari'>ゼリオン組の頭を掴むと</span><br><span class='scene-font-katari'>屋敷の出口へと向かって歩き出す。</span>,<span class='scene-font-katari'>艾莉亚将倒在一边的</span><br><span class='scene-font-katari'>泽里昂组头目一把拎起</span><br><span class='scene-font-katari'>便向屋子的出口走去。</span>
+167,ユイシス/优希斯,<span class='scene-font-4'>待って、エイレアの姐さん！</span><br>私はまだ、聞きたいことが……っ！,<span class='scene-font-4'>等等，艾莉亚姐姐！</span><br>我还有，想知道的事……！
+168,エイレア/艾莉亚,……ユイシス。<br>今の貴方ではアロゲントにも<br>私にも遠く及びません。,……优希斯。<br>不论是阿洛根特还是我，<br>今天的你都远远不及我们。
+169,エイレア/艾莉亚,ディートリア組を<br>再興したいと思うのなら<br>もっと強くなりなさい。,如果想再兴<br>迪特里亚组的话，<br>就变得更强吧。
+170,ユイシス/优希斯,<span class='scene-font-4'>待って！</span><br><span class='scene-font-4'>エイレアの姐さん！</span><br><span class='scene-font-4'>お願いだから、待って！</span>,<span class='scene-font-4'>等一下！</span><br><span class='scene-font-4'>艾莉亚姐姐！</span><br><span class='scene-font-4'>求求你了，别走！</span>
+171,,<span class='scene-font-katari'>去っていくエイレアの姿を見ながら</span><br><span class='scene-font-katari'>ユイシスはいつまでも</span><br><span class='scene-font-katari'>その名前を呼ぶのだった。</span>,<span class='scene-font-katari'>看着转身离去的艾莉亚的背影，</span><br><span class='scene-font-katari'>优希斯不停地呼喊着</span><br><span class='scene-font-katari'>她的名字。</span>
+177,,<span class='scene-font-katari'>カチコミを終え、</span><br><span class='scene-font-katari'>宿で休む姬塔達。</span>,<span class='scene-font-katari'>在这次袭击结束后，</span><br><span class='scene-font-katari'>姬塔一行人在旅馆休息。</span>
+178,,<span class='scene-font-katari'>そんな中、姬塔達は、</span><br><span class='scene-font-katari'>ユイシスがひとりで</span><br><span class='scene-font-katari'>宿を出ていく姿を見かける。</span>,<span class='scene-font-katari'>人群中，姬塔他们</span><br><span class='scene-font-katari'>看到了优希斯</span><br><span class='scene-font-katari'>独自离开旅馆的身影。</span>
+179,,<span class='scene-font-katari'>ユイシスのことが気になった一行は</span><br><span class='scene-font-katari'>慌ててその後を</span><br><span class='scene-font-katari'>追いかけていくのだった。</span>,<span class='scene-font-katari'>过于在意优希斯的一行人</span><br><span class='scene-font-katari'>急匆匆的追着她</span><br><span class='scene-font-katari'>跑了出去。</span>
+185,,<span class='scene-font-katari'>両親の眠る墓標の前で</span><br><span class='scene-font-katari'>ユイシスはひとり佇む。</span>,<span class='scene-font-katari'>在双亲长眠的墓碑前，</span><br><span class='scene-font-katari'>优希斯独自一人伫立着。</span>
+186,ユイシス/优希斯,…………,…………
+187,ルリア/露莉亚,<span class='scene-font-4'>ユイシスさん！</span>,<span class='scene-font-4'>优希斯小姐！</span>
+188,ユイシス/优希斯,え、姬塔に<br>ルリアさんにビィさん！？<br>ど、どうしてここに……,诶，姬塔还有<br>露莉亚小姐和碧君！？<br>为、为什么在这里……
+189,ルリア/露莉亚,その……ユイシスさんがひとりで<br>出かけるのが見えたので……,那个……因为看到优希斯<br>独自一人出门了所以……
+190,ビィ/碧,あんなことがあったばかりだろ。<br>だから、物騒な姉ちゃんのことが<br>心配になってよ。,因为刚刚发生了那样的事嘛。<br>所以，我们就变得很担心<br>危险的姐姐了。
+191,ユイシス/优希斯,ごめんなさい。<br>心配をかけたわね。,抱歉。<br>让你们担心了。
+192,ルリア/露莉亚,それで、その……大丈夫ですか？　<br>あれから、ずっとなにかを<br>考え込んでるみたいですけど……,那么，那个……你还好吗？　<br>在那之后，一直像在<br>想着什么的样子……
+193,ユイシス/优希斯,正直にいうなら、<br>大丈夫じゃないわ。,老实说的话，<br>并不怎么好呢。
+194,,<span class='scene-font-katari'>そう言うとユイシスは</span><br><span class='scene-font-katari'>苦悩の表情を浮かべる。</span>,<span class='scene-font-katari'>优希斯说着，</span><br><span class='scene-font-katari'>露出了苦恼的表情。</span>
+195,ユイシス/优希斯,ねぇ、姬塔。<br>私はこれからどうすればいいと思う？,呐，姬塔。<br>你觉得从这以后我该怎么办呢？
+196,ユイシス/优希斯,裏切り者には死を……<br>それがスジモノの掟よ。,背叛者应该处死……<br>这是道上之人的规矩。
+197,ユイシス/优希斯,でも、私はもう一度、<br>エイレアの姐さんと話がしたい。,但是，我想再一次，<br>和艾莉亚姐姐说说话。
+198,ユイシス/优希斯,そして、許されるなら<br>エイレアの姐さんと一緒に<br>ディートリア組を再興したい……,然后，如果允许的话，<br>我想和艾莉亚姐姐一起<br>复兴迪特里亚组……
+199,ユイシス/优希斯,だけど、それはスジモノとして<br>許されないことで……,但是，这是作为道上之人<br>绝对不能允许的事情……
+199-sel1_txt,,<span class='scene-font-katari'>したいようにすればいい</span>,<span class='scene-font-katari'>按照你想的去做不就好了</span>
+201,ユイシス/优希斯,ですが……,但是……
+202,,<span class='scene-font-katari'>姬塔の言葉に</span><br><span class='scene-font-katari'>ユイシスは迷いの表情を浮かべる。</span>,<span class='scene-font-katari'>听了姬塔的话</span><br><span class='scene-font-katari'>优希斯露出了难以形容的表情。</span>
+203,ルリア/露莉亚,私達のお頭さんが<br>ユイシスさんの好きにしていいって、<br>言ってるんですよ。,我们的头头说了，<br>按照优希斯喜欢的方式去做<br>就好了哟。
+204,ルリア/露莉亚,だから、難しいことを考えずに<br>ユイシスさんの<br>やりたいことをやりましょうよ。,所以说，不要去考虑太多复杂的问题，<br>优希斯小姐<br>想怎么做就怎么做。
+205,ビィ/碧,だな。それにこれは<br>オイラ達の頭からの<br>命令でもあるんだぜ。,是呢。而且这还是<br>来自我们头头的<br>命令呢。
+206,ビィ/碧,物騒な姉ちゃんは頭からの命令に<br>従ってるだけ。<br>だから、何の問題もねぇだろ。,危险的姐姐只是在遵从<br>头儿的命令而已。<br>所以，没有什么问题的啦。
+207,ユイシス/优希斯,もう……<br>姬塔達には敵わないわね……,真是……<br>敌不过姬塔你们呢……
+208,,<span class='scene-font-katari'>姬塔達の言葉に</span><br><span class='scene-font-katari'>ユイシスは涙を流しながらも</span><br><span class='scene-font-katari'>笑みを浮かべる。</span>,<span class='scene-font-katari'>听了姬塔他们的话，</span><br><span class='scene-font-katari'>优希斯一边流下了眼泪</span><br><span class='scene-font-katari'>一边笑了起来。</span>
+209,ユイシス/优希斯,わかったわ。<br>なら、姬塔の命令通り、<br>私の好きにさせてもらうわね。,我明白了。<br>那么，就和姬塔的命令一样，<br>让我按照我喜欢的去做吧。
+210,,<span class='scene-font-katari'>ユイシスの言葉に</span><br><span class='scene-font-katari'>姬塔達は笑顔で頷く。</span>,<span class='scene-font-katari'>听了优希斯的话，</span><br><span class='scene-font-katari'>姬塔他们笑着点了点头。</span>
+211,ユイシス/优希斯,<span class='scene-font-kokoro'>（父様……母様……</span><br><span class='scene-font-kokoro'>ディートリア組は</span><br><span class='scene-font-kokoro'>私が必ず再興してみせます）</span>,<span class='scene-font-kokoro'>（父亲大人……母亲大人……</span><br><span class='scene-font-kokoro'>我一定会将迪特里亚组</span><br><span class='scene-font-kokoro'>复兴给你们看的。）</span>
+212,ユイシス/优希斯,<span class='scene-font-kokoro'>（姬塔達と</span><br><span class='scene-font-kokoro'>エイレアの姐さん……</span><br><span class='scene-font-kokoro'>家族のみんなで……)</span>,<span class='scene-font-kokoro'>（和姬塔他们</span><br><span class='scene-font-kokoro'>艾莉亚姐姐……</span><br><span class='scene-font-kokoro'>还有家族的大家一起……)</span>
+213,ユイシス/优希斯,<span class='scene-font-kokoro'>（だから、私達のことを</span><br><span class='scene-font-kokoro'>見守っていてください）</span>,<span class='scene-font-kokoro'>（所以，请你们好好的</span><br><span class='scene-font-kokoro'>保佑我们吧。）</span>
+214,,<span class='scene-font-katari'>両親の墓前で誓いを新たにする</span><br><span class='scene-font-katari'>ユイシス。</span>,<span class='scene-font-katari'>优希斯在双亲的墓前再次</span><br><span class='scene-font-katari'>立下了誓言。</span>
+215,,<span class='scene-font-katari'>そして、それは</span><br><span class='scene-font-katari'>ユイシスにとって</span><br><span class='scene-font-katari'>新たな戦いの始まりでもあった。</span>,<span class='scene-font-katari'>然后，</span><br><span class='scene-font-katari'>对于优希斯来说，</span><br><span class='scene-font-katari'>这也将是她开始新的战斗的标志。</span>
+info,,,scene_chr589_q3_s30
+译者,,,HoshinoNoa

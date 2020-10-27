@@ -1,0 +1,11 @@
+id,name,text,trans
+0,ユリウス/尤里乌斯,…………,…………
+1,,<span class='scene-font-katari'>前方を歩くユリウスを</span><br><span class='scene-font-katari'>見つけたルシぬいは、</span><br><span class='scene-font-katari'>後ろから急に声を掛けてみた。</span>,<span class='scene-font-katari'>发现在前面走着的尤里乌斯，</span><br><span class='scene-font-katari'>SSS突然从后面喊住他。</span>
+1-sel1_txt,,<span class='scene-font-katari'>わぁーっ！！！</span>,<span class='scene-font-katari'>哇！！！</span>
+4,ユリウス/尤里乌斯,……ん？　ルシぬいか。<br>どうしたんだい、<br>大きな声を出して。,嗯……？　是团长啊。<br>为什么这么大声？
+5,ユリウス/尤里乌斯,……驚かないのかって？<br>まあ、レヴィオンでは、<br>いつでも雷鳴が轟いているからな……,你问我怎么不怕……？<br>这个嘛，因为雷维翁一直有雷鸣……
+6,ユリウス/尤里乌斯,急に大きな音がしたくらいで、<br>そこまで驚きはしないよ。,只是突然大吼的话，<br>我不会那么惊讶的。
+7,ユリウス/尤里乌斯,……ああ、なるほど。<br>ハロウィンだから悪戯で……<br>申し訳ないことをしたかな。,啊……原来如此。<br>是因为万圣节所以要搞恶作剧啊……<br>看来我失礼了啊。
+8,ユリウス/尤里乌斯,フッ、これに懲りず、<br>来年はぜひ、大きな音以外の<br>悪戯に挑戦してくれたまえ。,呵，不要因此气馁，<br>明年请一定用大叫以外的恶作剧来挑战我。
+info,,,scene_s1_halloween_3122_v1_0_2004_1_3040199000
+译者,,,碧哈姆特

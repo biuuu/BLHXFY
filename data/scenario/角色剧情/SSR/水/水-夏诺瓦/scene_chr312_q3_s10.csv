@@ -1,0 +1,24 @@
+id,name,text,trans
+0-chapter_name,,The Art of Thievery,怪盗的艺术
+0-synopsis,,"Chat Noir believes the mastermind behind the theft is his former master, who taught him how to be a phantom thief. For the time being, the crew sets out to return the stolen jewels.",夏诺瓦相信指使这些盗贼的正是教导他成为怪盗的前师傅，不过目前归还被偷走的宝石才是众人的首要目标。
+0,Suspicious Man 1/可疑男子1,Grr... Who are you people?,唔……你是谁？
+1,Suspicious Man 2/可疑男子2,And what are you doing here?,呃……为什么会在这里？
+2,,The crew gets the jump on the men and apprehends them before they have a chance to act.,众人在两人有机会逃跑前逮捕了他们。
+3,Vyrn/碧,You jerks! Are you the jewel thieves?,喂！你们就是偷走宝石的混蛋吧！
+4,Chat Noir,"No, these are just lackeys. The real mastermind is somewhere else.",不，他们两个只是负责跑腿的，真实的幕后黑手另有其人。
+5,Chat Noir,"Now then, I've got a question for you. Who are you working for?",那么，我有问题问你们，是谁指使你们这么干的。
+6,Suspicious Man 1/可疑男子1,"Look, we were only told to deliver the goods!",我，我们只是听从命令把宝石拿到这里。
+7,Chat Noir,"Calm yourselves. We don't intend to harm you. That is, of course, if you tell me what I want to know.",安心吧，我没有伤害你们的理由，当然前提是你们能告诉我问题的答案。
+8,Chat Noir,And I only want to know one thing: the name of the one pulling the strings.,我想知道的只有一件事，幕后黑手，你们知道是谁吗？
+9,Suspicious Man 2/可疑男子2,"I don't know anything about the boss! Please, ya gotta believe me!",关于首领的事情我一点都不知道，你要相信我啊！
+10,Chat Noir,Humph. I knew it'd be pointless to ask. Our opponent isn't one to be caught so easily.,哼，果然这样的询问也没有什么作用，那家伙也不是会轻易露出马脚的人。
+11,Chat Noir,"姬塔, let's depart for now.",姬塔，现在先离开这里吧。
+12,,The crew returns to the airship upon Chat Noir's request.,众人按照夏诺瓦的请求回到了骑空艇上。
+18,Vyrn/碧,So do you have any idea who this mastermind is?,所以，夏诺瓦猜到幕后黑手可能是谁了吗？
+19,Chat Noir,"Judging from what I've seen, it's probably the one who taught me how to be a phantom thief.",这次的事件，应该是教给我怪盗艺术的那个人的手笔。
+20,Lyria/露莉亚,"You had a teacher, Chat Noir?",夏诺瓦先生有一个师傅吗？
+21,Chat Noir,We no longer have ties.,我们之间已经没有联系了。
+22,,A rare serious expression crosses his face.,他的脸上出现了罕见的严肃表情。
+23,Chat Noir,"In any case, we must return these jewels at once.",比起这个，现在还是归还这些宝石比较重要。
+24,Chat Noir,"Heh heh. It's so easy to slip through security and pilfer these days. Let's go, 姬塔.",哼，这两个国家这几天的警备守卫力量也太薄弱了，咱们走吧，姬塔。
+info,,,scene_chr312_q3_s10

@@ -1,0 +1,100 @@
+id,name,text,trans
+0-chapter_name,,信託せよ,信託せよ
+0-synopsis,,姬塔一行が倒しても、洞穴の中から次々と現れる魔物達。姬塔は立体機動装置を使うリヴァイに、先に男達の救出に向かうよう頼む。リヴァイは、ついに男達を見つけるものの、何か隠している様子。リヴァイが剣で脅すと男達は因習に従い、山の主への人身御供として子供を差し出そうとし、思いとどまったことを白状する。リヴァイは一行と共に祠へと向かい、山の主に戦いを挑むのだった。,魔物们就算被姬塔他们打倒后，还是接连不断地从洞穴中涌出。姬塔拜托使用立体机动装置的利威尔，先前去救出男人们。终于找到男人们的利威尔，发现他们似乎在隐瞒些什么。被利威尔用剑威胁后，男人们向他说明了他们放弃了遵循传统，没有将小孩子当做祭品献给山之主。利威尔与一行人一同去向祠堂，向山之主挑战。
+13,魔物,グルゥゥゥ……,咕唔……
+19,ビィ/碧,ふぃ～<br>さすが、調査兵団の兵長だな！,诶～<br>不愧是调查兵团的兵长啊！
+20,リヴァイ,フン……,哼……
+23,魔物,<span class='scene-font-4'>グガァァァ！</span>,<span class='scene-font-4'>咕嘎————！</span>
+24,ビィ/碧,んなっ！<br>なんでまた出てきやがるんだ！？,什么！<br>怎么还有啊！？
+25,ルリア/露莉亚,あ！<br>あそこを見て下さい！,啊！<br>快看那边！
+26,,<span class='scene-font-katari'>ルリアが指差した洞穴の中から、</span><br><span class='scene-font-katari'>魔物達が</span><br><span class='scene-font-katari'>どんどん湧いて出てくるのが見える。</span>,<span class='scene-font-katari'>能够看见，</span><br><span class='scene-font-katari'>魔物正不断地从露莉亚指着的洞穴中涌出。</span>
+27,リヴァイ,チッ、空気の読めねぇクズどもだ。,啧，真是一群看不懂气氛的渣滓。
+28,,<span class='scene-font-katari'>魔物達を睨みつけ、</span><br><span class='scene-font-katari'>ふたたびスナップブレードを</span><br><span class='scene-font-katari'>構えるリヴァイ。</span>,<span class='scene-font-katari'>利威尔睥睨着魔物们，</span><br><span class='scene-font-katari'>再次架起了刀刃。</span>
+29,,<span class='scene-font-katari'>姬塔はそんなリヴァイを</span><br><span class='scene-font-katari'>制止すると、立体機動装置を使い、</span><br><span class='scene-font-katari'>先に島の男性達を探しに行くよう頼む。</span>,<span class='scene-font-katari'>姬塔制止了利威尔，</span><br><span class='scene-font-katari'>并拜托利威尔用立体机动装置去寻找男人们。</span>
+31,リヴァイ,…………,…………
+32,ビィ/碧,そうだな。兵長の兄ちゃんだけなら、<br>この山の中をスイスイ進めるだろ？<br>ここはオイラ達に任せてくれ！,是啊。如果只有兵长小哥一个人的话，<br>就能在山里顺利的前进了吧？<br>这里就交给我们吧！
+33,リヴァイ,<span class='scene-font-kokoro'>（何を優先すべきか……</span><br><span class='scene-font-kokoro'>その判断は間違っていないようだな）</span>,<span class='scene-font-kokoro'>（什么才是最优先的吗……</span><br><span class='scene-font-kokoro'>看来这个判断没错啊。）</span>
+34,リヴァイ,了解した。<br>お前達も後からすぐに来い。,知道了。<br>你们之后快点赶过来。
+35,ルリア/露莉亚,はい！<br>皆さんのこと、宜しくお願いします！,是！<br>大家就交给你了！
+40,,<span class='scene-font-katari'>こうしてリヴァイは、</span><br><span class='scene-font-katari'>立体機動装置を駆り、ひとりで</span><br><span class='scene-font-katari'>男達の探索に向かうのだった。</span>,<span class='scene-font-katari'>利威尔驱使着立体机动装置，</span><br><span class='scene-font-katari'>独自前去搜索男人们。</span>
+49,リヴァイ,<span class='scene-font-kokoro'>（……山に慣れ親しんだ者達なら、</span><br><span class='scene-font-kokoro'>地滑りを警戒している可能性もある。</span><br><span class='scene-font-kokoro'>恐らくは、身を隠す洞穴の場所も……）</span>,<span class='scene-font-kokoro'>（……习惯了山中环境的人，</span><br><span class='scene-font-kokoro'>应该也会警戒着山体滑坡的。</span><br><span class='scene-font-kokoro'>恐怕，藏身的洞穴的位置也……）</span>
+50,,<span class='scene-font-katari'>地滑りが起きた周辺を中心に</span><br><span class='scene-font-katari'>捜索するリヴァイ。</span>,<span class='scene-font-katari'>利威尔以发生山体滑坡的地点为中心搜寻着。</span>
+51,男,<span class='scene-font-4'>うわぁぁぁっ！</span>,<span class='scene-font-4'>呜哇————！</span>
+52,,<span class='scene-font-katari'>そんな彼の耳に、男達の悲鳴が届く。</span>,<span class='scene-font-katari'>他的耳中传来了男性的悲鸣。</span>
+53,リヴァイ,チッ……,啧……
+61,魔物,<span class='scene-font-4'>グガァァァ！</span>,<span class='scene-font-4'>咕嘎————！</span>
+62,男,ひぃぃっ！<br>あ、あっちに行け！,噫——！<br>滚，滚去那边啊！
+68,,<span class='scene-font-katari'>その時、一陣の風の如く現れた</span><br><span class='scene-font-katari'>リヴァイは、男達に襲い掛からんとした</span><br><span class='scene-font-katari'>魔物達を一瞬のうちに切り捨てる。</span>,<span class='scene-font-katari'>这时，如同疾风般现身的利威尔</span><br><span class='scene-font-katari'>在一瞬将正要袭击男人们的魔物解决了。</span>
+69,男,あ、ああ……,啊，啊啊……
+70,リヴァイ,お前達……無事か？,你们……没事吧？
+71,男,はい、ありがとうございます！,是的，十分感谢！
+77,,<span class='scene-font-katari'>男達は、突如の地滑りから</span><br><span class='scene-font-katari'>身を守るため洞穴に逃げ込んだが、</span><br><span class='scene-font-katari'>そこが魔物の巣だったと説明する。</span>,<span class='scene-font-katari'>男人们向利威尔说明了</span><br><span class='scene-font-katari'>他们为了从突如其来的山体滑坡中逃生而来到了这个洞穴，</span><br><span class='scene-font-katari'>却没有想到这是魔物的巢穴。</span>
+78,男,ウットリュフを採りに出かけて<br>こんなことになるとは<br>思いもしませんでした……,谁都没有想到来采集乌特鲁夫却遇上了这种事……
+79,男,あなたが来てくれなかったら、<br>一体どうなっていたことか……,要是您没有来的话，<br>到底会怎么样啊……
+80,リヴァイ,お前達、<br>他に何か隠しごとはないだろうな？,你们啊，<br>没有什么隐瞒的事情吧？
+82,男,か、隠しごと……とは、<br>一体なんのことでしょうか？,隐、隐瞒的事……是，<br>到底是指什么呢？
+83,,<span class='scene-font-katari'>男達の顔を順々に</span><br><span class='scene-font-katari'>睨みつけて行くリヴァイ。</span>,<span class='scene-font-katari'>利威尔一边走着，一边盯着男人们的脸。</span>
+84,,<span class='scene-font-katari'>そんな中、男達に紛れ、</span><br><span class='scene-font-katari'>おどおどしている少年が</span><br><span class='scene-font-katari'>いることに気づく。</span>,<span class='scene-font-katari'>在他们之中，</span><br><span class='scene-font-katari'>利威尔注意到了有一个惶恐不安的少年混进了男人们之间。</span>
+85,リヴァイ,オイ、ガキ……<br>何に怯えてるんだ？,喂，小鬼……<br>你在害怕什么？
+86,少年,え！？<br>いや……その……,诶！？<br>没有……那个……
+87,男,魔物に驚いたんだよな？<br>そうだよな？,是被魔物吓到了什么的吧？<br>对吧？
+88,少年,……あ、うん……,……啊，嗯……
+89,リヴァイ,"なんだ？<br>この島の連中は<br>隠しごとをするのが趣味なのか？ ","什么的？<br>这个岛上的人都有隐瞒的爱好吗？"
+90,リヴァイ,まあ、いい。,嘛，算了。
+93,,<span class='scene-font-katari'>リヴァイはスナップブレードを抜き、</span><br><span class='scene-font-katari'>男へ刃を向ける。</span>,<span class='scene-font-katari'>利威尔拔出刀刃，</span><br><span class='scene-font-katari'>指向了男人。</span>
+94,男,ひっ！？<br>な、何を……,诶！？<br>什、什么……
+95,リヴァイ,しゃべりたくねぇんだろ？<br>なら……しゃべりたくなるように<br>してやろうと思ってな。,你不是不想说吗？<br>那……我就让你想说啊。
+96,男,わ、わかった！<br>話す！　話すからやめてくれ……！,我，我知道了！<br>我说！我会说的所以还请您住手……！
+97,リヴァイ,フン、だったら最初から意地を張るな。,哼，要这样的话还不如一开始就不要瞒着我啊。
+99,,<span class='scene-font-katari'>リヴァイが武器を収めると、</span><br><span class='scene-font-katari'>男は訥々と今回の経緯を話し始める。</span>,<span class='scene-font-katari'>利威尔收起武器后，</span><br><span class='scene-font-katari'>男人开始结结巴巴地说明。</span>
+100,,<span class='scene-font-katari'>この島では数十年に一度、</span><br><span class='scene-font-katari'>幼き子供を人身御供として、山の主に</span><br><span class='scene-font-katari'>差し出す風習があるのだという。</span>,<span class='scene-font-katari'>在这个岛上，</span><br><span class='scene-font-katari'>有着几十年一次将幼小的孩子作为贡品，</span><br><span class='scene-font-katari'>上贡给山之主的风俗。</span>
+101,男,山の主様の祠の前まで行ったんだが……<br>どうも、可哀想になってね。その子を<br>家に送り届けようと話し合ったんだ。,我们原来是要去山之主的祠堂前的………<br>但是，我们后来是同情起这个孩子了吧，<br>就说起了要把这个孩子送回家。
+102,男,そしたら……<br>山の主様の逆鱗に触れたのか、<br>突如、地滑りが起きてこのざまだ。,然后……就<br>大概是触到了山之主的逆鳞吧，<br>突然就发生了滑坡。
+103,リヴァイ,……お前達の判断は間違っていない。,……你们的判断没有错。
+104,男,はは……そう言ってもらえると、<br>ありがたい。しかし、山の主様の怒りを<br>どう収めたらいいものか……,哈哈……能够被你这么说，<br>还真是感激啊。<br>但是，要怎样镇压山之主的怒火啊……
+105,,<span class='scene-font-katari'>男達が頭を抱え、黙り込んだその時、</span><br><span class='scene-font-katari'>隅っこで膝を抱え怯えていた少年が、</span><br><span class='scene-font-katari'>すっくと立ち上がった。</span>,<span class='scene-font-katari'>正当男人们抱着头，陷入沉默之时，</span><br><span class='scene-font-katari'>在角落害怕地抱着膝盖的少年站了起来。</span>
+106,少年,おじさん、皆……ありがとう。<br>でも、もう大丈夫。<br>僕、この身を山の主様に捧げるよ。,叔叔，大家……谢谢你们。<br>但是，没关系了。<br>我要将我自己献给山之主大人。
+107,少年,ずっとずっと昔から<br>続いてきたことなんでしょ？,这不是从很早以前<br>持续至今的事情吗？
+108,少年,なのに、<br>僕だけが命を捧げなかったら……<br>死んでいった子達に悪いもん！,但是，<br>只有我不献上我的生命的话……<br>也对不起那些死去的孩子们啊！
+109,男,うう……,呜呜……
+110,リヴァイ,……オイ、ガキ。<br>怖いんだったら怖いって言え。<br>震えてるくせに意地を張るな。,……喂，小鬼。<br>你要是害怕的话就说出来。<br>明明怕得发抖就别逞强了。
+111,少年,こ、怖くなんかないや！,我，我才不害怕啊！
+112,少年,僕が山の主様に命を捧げれば……<br>この島が平和になって、ウットリュフも<br>たくさん採れるんだ！,只要把我的生命献给山之主的话……<br>这个岛就能变得和平，<br>也能够采集到许多的乌特鲁夫了！
+113,リヴァイ,…………,…………
+114,リヴァイ,<span class='scene-font-kokoro'>（……壁の外も……</span><br><span class='scene-font-kokoro'>理不尽な世界だってのか？）</span>,<span class='scene-font-kokoro'>（……墙壁外也是……</span><br><span class='scene-font-kokoro'>如此不合理的世界吗？）</span>
+115,？？？,<span class='scene-font-4'>グガァァァ！</span>,<span class='scene-font-4'>咕嘎————！</span>
+116,,<span class='scene-font-katari'>突如、大きな雄叫びが響き、</span><br><span class='scene-font-katari'>山々を振動させる。</span>,<span class='scene-font-katari'>突然，巨大的吼声响起，</span><br><span class='scene-font-katari'>令群山开始震动。</span>
+117,男,山の主様がお怒りだ……,山之主生气了……
+118,少年,…………,…………
+119,リヴァイ,洞穴の外に出ろ！<br>グズグズするな！,快点去洞穴外面！<br>别磨磨蹭蹭的！
+124,,<span class='scene-font-katari'>男達と共に</span><br><span class='scene-font-katari'>洞穴の外に避難したリヴァイ。</span>,<span class='scene-font-katari'>男利威尔与男人们一起去到洞穴外面避难。</span>
+125,,<span class='scene-font-katari'>その直後、大きな地滑りが起き、</span><br><span class='scene-font-katari'>先ほどまでいた洞穴は土砂により</span><br><span class='scene-font-katari'>埋め尽くされた。</span>,<span class='scene-font-katari'>在那之后，发生了剧烈的滑坡，</span><br><span class='scene-font-katari'>一行人刚才待着的洞穴被泥土与沙子掩埋了。</span>
+126,リヴァイ,お前達、大丈夫か？,你们没事吧？
+127,男,あ、ああ……<br>アンタのお陰で助かったよ……,啊，啊啊……<br>多亏了您，得救了……
+128,少年,ありがとう……,谢谢您……
+129,リヴァイ,フン……,哼……
+130,リヴァイ,<span class='scene-font-kokoro'>（さて、どうするか……）</span>,<span class='scene-font-kokoro'>（那么，要怎么做呢……）</span>
+131,,<span class='scene-font-katari'>リヴァイが思案していると、</span><br><span class='scene-font-katari'>他の木々を伝ってやってくる</span><br><span class='scene-font-katari'>姬塔一行の姿が見える。</span>,<span class='scene-font-katari'>正当利威尔这么想着的时候，</span><br><span class='scene-font-katari'>他看见了在树上的姬塔他们的身影。</span>
+137,ビィ/碧,おーい、兵長の兄ちゃん！<br>島の皆は無事だったのか？,喂——！兵长小哥！<br>岛上的大家都没事吧？
+138,リヴァイ,今のところはな。,现在还没事。
+139,ルリア/露莉亚,ふぅ、よかったです！<br>それなら、早く山を下りましょう！,啊，太好了！<br>それなら、那就快点下山吧！
+140,リヴァイ,そうしたいのはやまやまだが……,虽然我很想这么做……
+141,,<span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>リヴァイから現状を説明され、</span><br><span class='scene-font-katari'>憤りを覚える。</span>,<span class='scene-font-katari'>利威尔对姬塔一行人说明了现状后，</span><br><span class='scene-font-katari'>一行人都感到十分愤怒。</span>
+146,ビィ/碧,ムキーッ！<br>なんだってんだよ、<br>そんな風習許せねぇぞ！,真火大！<br>什么啊，、<br>我才没办法原谅这样的风俗啊！
+147,ルリア/露莉亚,皆さん、その山の主さんの怒りを<br>鎮める方法は他にないんですか？,大家，没有其他让那位山之主的怒火平息的方法吗？
+148,男,ああ……<br>その子を差し出すしか方法は……,啊啊……<br>除了把这个孩子交给他以外没有了……
+149,リヴァイ,違うだろうが。<br>山の主だかなんだか知らねぇが、<br>そんなヤツを崇める必要はない。,不对吧。<br>管他什么山之主啊，<br>没必要去崇拜这样的家伙吧。
+150,リヴァイ,そんなヤツなら俺が──,这样的家伙就让我来——
+150-sel1_txt,,<span class='scene-font-katari'>懲らしめてやる！</span>,<span class='scene-font-katari'>惩罚它！</span>
+151,リヴァイ,…………,…………
+152,,<span class='scene-font-katari'>自分と同じことを考えていた</span><br><span class='scene-font-katari'>姬塔のことを感心し、</span><br><span class='scene-font-katari'>見直すリヴァイ。</span>,<span class='scene-font-katari'>利威尔认可了与自己有着同样想法的姬塔，</span><br><span class='scene-font-katari'>对他产生了新的看法。</span>
+153,リヴァイ,山の主の祠はどこにある？<br>直談判して来てやる……,山之主的祠堂在哪？<br>我要直接去和他谈谈……
+154,,<span class='scene-font-katari'>こうして一行は、</span><br><span class='scene-font-katari'>山の頂上にあるという</span><br><span class='scene-font-katari'>山の主の祠へ急ぐ。</span>,<span class='scene-font-katari'>于是，一行人赶去了位于山顶的山之主的祠堂。</span>
+159,ビィ/碧,あそこじゃねぇか？<br>なんだか嫌な空気が<br>漂ってるしよ……,是在那边吗？<br>总感觉那边的氛围很让人讨厌……
+160,,<span class='scene-font-katari'>おどろおどろしい山の主の祠に</span><br><span class='scene-font-katari'>辿り着くや否や、巨大な魔物が</span><br><span class='scene-font-katari'>一行の前にその姿を現した。</span>,<span class='scene-font-katari'>就当一行人要抵达可怖的祠堂时，</span><br><span class='scene-font-katari'>巨大的魔物出现了。</span>
+166,山の主,<span class='scene-font-5'>グガァァァ！</span>,<span class='scene-font-5'>咕嘎————！</span>
+167,ルリア/露莉亚,きゃぁ！,呀！
+169,リヴァイ,暴れるんじゃねぇ……<br>埃っぽいだろうが。,不要到处乱叫乱动……<br>脏死了。
+170,リヴァイ,さて、ゴミ掃除の時間だ……,那么，到了清扫垃圾的时间了……
+171,ビィ/碧,姬塔、オイラ達も行くぞ！,姬塔，我们也上吧！
+info,,,scene_chr423_q3_s10

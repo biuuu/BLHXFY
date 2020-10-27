@@ -1,0 +1,46 @@
+id,name,text,trans
+0-chapter_name,,マルモッコとの約束,与马尔摩科的约定
+0-synopsis,,海の家に戻ったパーシヴァルは、マルモッコの生態についての文献を読み漁る。その中で、事の核心を掴んだ様子のパーシヴァルは自身の仮説を確かめる為、ルシぬい一行、地元の漁師達と共に船を出す。海の上には、パーシヴァルの予想通り怪しげな船影があった。一行は、怪しげな船の主に対して戦闘を仕掛けるのであった。,回到海之家的帕西瓦尔阅读有关马尔摩科生态的文献。似乎从中抓住了事情核心的帕西瓦尔为了验证自己的猜想，与姬塔一行人还有当地的渔民们一同出海。海上，正如帕西瓦尔所料，他们发现了可疑的船影。一行人与可疑船只的主人展开战斗。
+1,ルリア/露莉亚,モコさんモコさーん！<br>ほらほらご飯ですよー♪,摩科摩科！<br>来吧吃饭啦——♪
+2,マルモッコ,キュウキュウ♪<br>キュッキュッキューン♪,啾啾♪<br>啾啾啾♪
+3,,<span class='scene-font-katari'>海の家でマルモッコを</span><br><span class='scene-font-katari'>保護することになった</span><br><span class='scene-font-katari'>ルシぬい一行。</span>,<span class='scene-font-katari'>姬塔一行人将马尔摩科保护在了海之家。</span>
+4,,<span class='scene-font-katari'>ルリアはマルモッコに名前を付けて、</span><br><span class='scene-font-katari'>楽しそうにお世話をしている。</span>,<span class='scene-font-katari'>露莉亚给马尔摩科起了名字，</span><br><span class='scene-font-katari'>开心地照顾起了马尔摩科。</span>
+5,ルリア/露莉亚,わぁ～！　ほらほらみて下さい！<br>ルシぬい！,呜哈~！快看快看！姬塔！
+6,ルリア/露莉亚,モコさんが、石で貝を割って<br>器用に食べてますよ！<br>ホントにカワイイです～♪,摩科用石头砸开扇贝，<br>很灵巧地吃着呢！<br>真的非常可爱啊~♪
+7,ビィ/碧,やれやれ……<br>ソイツはペットじゃねぇんだぞ？,真是的……<br>那家伙可不是宠物哦？
+8,,<span class='scene-font-katari'>そこに、マルモッコの様子を見に</span><br><span class='scene-font-katari'>パーシヴァルが現れる。</span>,<span class='scene-font-katari'>这时，帕西瓦尔前来观察马尔摩科的状况。</span>
+10,パーシヴァル/帕西瓦尔,……ビィの言う通りだ。<br>ゆくゆくは自然に返すのだからな。,正如碧所说，<br>因为之后要慢慢让它回归大自然啊。
+11,パーシヴァル/帕西瓦尔,度を過ぎた接触は<br>互いの為にならない。,过多的接触对双方都没有好处。
+12,ルリア/露莉亚,ご、ごめんなさい……<br>マルモッコさんが<br>ついつい可愛くって……,对、对不起……<br>不知不觉想要疼爱马尔摩科……
+13,パーシヴァル/帕西瓦尔,ルリア……気持ちは分かるが、<br>マルモッコのことを<br>真に思うなら、だ。,露莉亚……我明白你的心情，<br>但如果你是真心想马尔摩科好的话……。
+14,ルリア/露莉亚,そうですね……<br>これからは気を付けます。,说的是呢……<br>之后我会注意的。
+15,パーシヴァル/帕西瓦尔,ああ……引き続き<br>マルモッコの世話をよろしく頼む。,嗯……<br>就拜托你继续照顾马尔摩科了。
+16,ルリア/露莉亚,は、はいっ！<br>私に任せて下さい！,啊，好的！！<br>请交给我吧！
+19,,<span class='scene-font-katari'>満足そうな笑みを浮かべる</span><br><span class='scene-font-katari'>パーシヴァルは、自室に戻って</span><br><span class='scene-font-katari'>マルモッコについての文献を読み漁る。</span>,<span class='scene-font-katari'>帕西瓦尔露出满意的微笑，</span><br><span class='scene-font-katari'>便回到自己的房间。</span><br><span class='scene-font-katari'>阅览各种有关马尔摩科的文献。</span>
+20,パーシヴァル/帕西瓦尔,モッコ目……マルモッコ科……<br>蟹やウニなどを好んで食べ、<br>ケルプの森を棲家とする……,摩科目……马尔摩科科……<br>喜欢吃螃蟹和海胆，<br>栖息在海藻森林中。
+21,パーシヴァル/帕西瓦尔,……その毛皮は高級品として珍重され、<br>高値で取引される……か。,……其皮毛被视为贵重的高级品。<br>进行着高价买卖……吗。
+22,パーシヴァル/帕西瓦尔,ふむ……あの漁師達は、<br>マルモッコと距離を取っていたが……,嗯……<br>那些渔民虽说和马尔摩科保持距离……
+23,,<span class='scene-font-katari'>何かが引っかかる様子の</span><br><span class='scene-font-katari'>パーシヴァルは、</span><br><span class='scene-font-katari'>更に他の文献に当たる。</span>,<span class='scene-font-katari'>似乎察觉到了什么，</span><br><span class='scene-font-katari'>帕西瓦尔开始寻找其他的文献。</span>
+24,パーシヴァル/帕西瓦尔,ケルプの森……<br>そこに生息する生物は、<br>食物連鎖によって均衡を……,海藻森林……<br>栖身在那里的生物<br>藉由食物链保持生态平衡……
+25,パーシヴァル/帕西瓦尔,……が減少することによって<br>その均衡が崩れ、ケルプの新芽が<br>食い荒らされる……,……但是会因为马尔摩科的数量减少<br>导致平衡崩溃，<br>海藻的新芽会遭到过度吞食。
+26,パーシヴァル/帕西瓦尔,なるほど。<br>そういうことか……,原来如此，<br>原来是这么一回事吗……
+27,,<span class='scene-font-katari'>核心を掴んだ様子の</span><br><span class='scene-font-katari'>パーシヴァル。</span>,<span class='scene-font-katari'>帕西瓦尔似乎掌握了问题的核心。</span>
+28,,<span class='scene-font-katari'>その夜、パーシヴァルは、</span><br><span class='scene-font-katari'>ルシぬい達と地元の漁師を</span><br><span class='scene-font-katari'>つれて海へと出るのだった。</span>,<span class='scene-font-katari'>当晚，帕西瓦尔带着姬塔一行人</span><br><span class='scene-font-katari'>和当地的渔民一起出海。</span>
+34,地元の漁師,……今夜の結果次第で、俺達の<br>アバロニの問題も解決するって、<br>一体どういう事なんだ？,……您说的，根据今晚的结果，<br>能够解决亚巴罗尼的问题，<br>到底是怎么一回事？
+35,ビィ/碧,なぁなぁトサカの兄ちゃん、<br>ここで待ってりゃいいのか？,呐呐火鸡哥，<br>在这里等着就行吗？
+36,パーシヴァル/帕西瓦尔,ああ……恐らくな。<br>今は俺を信じてくれ。,嗯……很有可能。<br>现在就相信我吧。
+37,,<span class='scene-font-katari'>先日、マルモッコに襲われた地点に</span><br><span class='scene-font-katari'>程近いエリアで灯を消して停泊して、</span><br><span class='scene-font-katari'>波間を漂うルシぬい一行。</span>,<span class='scene-font-katari'>姬塔一行人灭了灯</span><br><span class='scene-font-katari'>将船停在前几日受到马尔摩科攻击的地点，</span><br><span class='scene-font-katari'>让船只漂浮在浪间。</span>
+38,,<span class='scene-font-katari'>しばらく一行がそこで待っていると、</span><br><span class='scene-font-katari'>他の船の気配が近づいてくる。</span>,<span class='scene-font-katari'>一行人在此处等候了片刻，</span><br><span class='scene-font-katari'>便察觉到其他的船靠近的气息。</span>
+39,地元の漁師,ん……あの船は？<br>今夜は俺ら以外に<br>船は出てないはずだが！,嗯……那艘船怎么回事？<br>今晚除了我们之外再没有别的船出海才对！
+40,パーシヴァル/帕西瓦尔,しっ……<br>いいから待て。,嘘……<br>不要多问再等一下。
+41,,<span class='scene-font-katari'>息を殺して待ち続けると</span><br><span class='scene-font-katari'>突然、怒声に交じって、</span><br><span class='scene-font-katari'>悲痛な声が辺りに響く。</span>,<span class='scene-font-katari'>一行人屏息凝神继续等待着，</span><br><span class='scene-font-katari'>突然，怒吼交杂着悲鸣响彻四周。</span>
+42,,<span class='scene-font-katari'>怪しい船影に船を接近させる様に</span><br><span class='scene-font-katari'>指示をするパーシヴァル。</span>,<span class='scene-font-katari'>帕西瓦尔指挥着船只靠近可疑的船影。</span>
+43,ビィ/碧,ゴクリ……<br>トサカの兄ちゃんの言う通り<br>本当に現れやがったぜ……,咕……<br>真的如火鸡哥所说，<br>嫌犯出现了啊……
+44,地元の漁師,くそっ……<br>一体誰がこんな真似を！,该死……<br>到底是谁做出这种事情啊！
+45,パーシヴァル/帕西瓦尔,家臣共……<br>準備はいいか？,家臣们……<br>准备好了吗？
+46,ルリア/露莉亚,はい！<br>私、絶対に許しません！,是！<br>我绝对不会原谅他们的！
+47,地元の漁師,おう！<br>俺達も戦うぞ！,哦！<br>我们也要战斗！
+48,パーシヴァル/帕西瓦尔,ふっ……いい気迫だ。<br>だが戦闘経験の浅い者は<br>後ろに下がっていろ。,哼……气势不错。<br>不过没多少战斗经验的人<br>就在后方等着吧。
+49,パーシヴァル/帕西瓦尔,さぁ……今だ！　<br>ルシぬい、俺に続け！,好了……就是现在！<br>姬塔，跟着我！
+info,,,scene_chr304_q3_s10
+译者,,,

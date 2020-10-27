@@ -1,0 +1,47 @@
+id,name,text,trans
+0-chapter_name,,異邦から来た二人組,来自异域的二人组
+0-synopsis,,ラードゥガを訪れた翌日、ドランクはラインハルザの案内で傭兵組合へと向かい、姬塔達はふたりの相性を心配して同行する。ドランクは街を歩く中で、かつて盗賊団の頭領だったラインハルザに向けられる敵意や恐怖の視線に気づく。ラインハルザはドランクの抜け目ない一面に関心を寄せ、ドランクもラインハルザの性分を見定めようとするのだった。,造访彩虹酒吧的第二天，莱茵哈萨带着德朗克前往佣兵工会，姬塔等人担心两人会性格不合决定一同前去。走在街上，德朗克注意到了投向曾经盗贼团首领莱茵哈萨的充满敌意与恐怖的视线。莱茵哈萨对德朗克滴水不漏的一面很感兴趣，德朗克也决定仔细观察莱茵哈萨的性格。
+2,,<span class='scene-font-katari'>新たな空域での仕事探しについて、</span><br><span class='scene-font-katari'>コンビを組むスツルムと</span><br><span class='scene-font-katari'>意見が分かれてしまったドランク。</span>,<span class='scene-font-katari'>关于在新空域寻找工作一事，</span><br><span class='scene-font-katari'>德朗克与搭档斯特姆</span><br><span class='scene-font-katari'>发生了争执。</span>
+8,,<span class='scene-font-katari'>そこでドランクはスツルムに内緒で</span><br><span class='scene-font-katari'>ナル・グランデ空域の傭兵組合を</span><br><span class='scene-font-katari'>訪ねることを決める。</span>,<span class='scene-font-katari'>于是德朗克决定不与斯特姆商量，</span><br><span class='scene-font-katari'>先自己造访</span><br><span class='scene-font-katari'>纳尔·格兰迪空域的佣兵工会。</span>
+14,,<span class='scene-font-katari'>その案内役に駆り出されたのは、</span><br><span class='scene-font-katari'>思いもよらない人物だった。</span>,<span class='scene-font-katari'>而奉命负责带路的，</span><br><span class='scene-font-katari'>竟是意想不到的人物。</span>
+15,ラインハルザ/莱茵哈萨,この辺りには馴染みの店が多い。<br>傭兵連中はそこでよく見かけたな。,这附近都是些老店。<br>经常能在店里看见佣兵。
+16,ラインハルザ/莱茵哈萨,ただ、オレ自身は<br>傭兵に詳しいわけじゃない。<br>組合の場所を知ってるだけだ。,但是，倒不是<br>我比较清楚佣兵。<br>顶多是知道工会的地址而已。
+17,ラインハルザ/莱茵哈萨,契約やら何やらまで<br>世話してやる気はねぇ……<br>それはわかってるな？,我可没打算照顾你<br>到签契约啥的……<br>明白的吧？
+18,ドランク/德朗克,もちろん！<br>そういうのは僕が上手ーくやるから、<br>案内してくれるだけで十分だよ。,那当然！<br>这种东西我很在行，<br>只要能指路就足够了。
+19,ラインハルザ/莱茵哈萨,念のために言っておくが……<br>面倒事には巻き込むなよ。<br>手が焼けるのはあいつだけで十分だ。,以防万一……<br>别把我卷进麻烦事里。<br>要给我添麻烦的有那人一个就够了。
+23,,<span class='scene-font-katari'>ドランクとラインハルザが</span><br><span class='scene-font-katari'>肩を並べて歩く後方から</span><br><span class='scene-font-katari'>姬塔達は様子を見守っていた。</span>,<span class='scene-font-katari'>姬塔等人从背后默默观察着</span><br><span class='scene-font-katari'>并肩向前进的</span><br><span class='scene-font-katari'>德朗克与莱茵哈萨。</span>
+24,ビィ/碧,あのふたりが上手くやれるか心配で<br>オイラ達もついてきちまったけど……,虽然因为担心他们两个<br>我们也跟了过来……
+25,ルリア/露莉亚,思ったよりも仲が良さそうですね！<br>意外と気が合うんでしょうか……,没想到其实关系很好啊！<br>好像意外很合得来……
+26,ビィ/碧,いやぁ……どうだかな。,嗯……难说啊。
+30,ドランク/德朗克,それにしても、流石はナル・グランデで<br>１、２を争う都市だねぇ。<br>ずいぶん賑わってるみたいだし──,不过话说回来，不愧是纳尔·格兰迪<br>数一数二的都市啊。<br>看上去非常热闹——
+31,ドランク/德朗克,おっとぉ！？　何かな、あれ！<br>ファータ・グランデじゃ、<br>見たことないけど……,哎哎！？　那个是什么！<br>好像从来没在<br>法塔·格兰迪见过……
+33,ビィ/碧,おいこら！<br>観光で来たんじゃねーだろ！？,喂！<br>你不是来观光的吧！？
+34,,<span class='scene-font-katari'>ビィが声をかけるより先に、</span><br><span class='scene-font-katari'>ドランクはあちこちの店頭で</span><br><span class='scene-font-katari'>様々な品を観察し始める。</span>,<span class='scene-font-katari'>在碧搭话之前，</span><br><span class='scene-font-katari'>德朗克已经四处观察起</span><br><span class='scene-font-katari'>各种各样的商品。</span>
+35,ビィ/碧,はぁ……<br>いつもはスツルムって奴がいて、<br>すぐに止めてくれるんだけどよぅ……,唉……<br>这要是平常会有一个叫斯特姆的人，<br>立刻就能阻止他的……
+36,ラインハルザ/莱茵哈萨,別にオレは構わない。<br>今日は案内役に徹するつもりだ。<br>レオナにもそうするよう頼まれてる。,我倒是无所谓。<br>反正今天打算始终当向导。<br>蕾欧娜也是这么拜托我的。
+37,ラインハルザ/莱茵哈萨,立場上、カインやレオナには、<br>そうそう逆らえないからな。<br>観光でも何でも好きにしろ。,立场而言，我没法轻易<br>违抗该隐和蕾欧娜。<br>不管是观光还是别的都随他便吧。
+38,ビィ/碧,う～ん……<br>そんなに気を使う必要は<br>ねぇと思うけどよ……,嗯~……<br>我觉得没必要<br>这么在意啊……
+39,ラインハルザ/莱茵哈萨,いや……<br>客将扱いとはいえ、元は盗賊団だ。<br>一線はわきまえなくちゃあな。,不……<br>就算现在是将士，原本也是盗贼团。<br>得划清界限。
+40,ドランク/德朗克,その様子からすると、<br>盗賊団の頭領だったって感じ？<br>下っ端って雰囲気じゃないよねぇ。,看你这个样子，<br>以前应该是盗贼团的首领？<br>完全没有小喽啰的感觉啊。
+41,ビィ/碧,うわ！<br>いつの間に戻ってきたんだ！？,呜啊！<br>你什么时候回来的！？
+42,ドランク/德朗克,ちょーっと視線が気になっちゃってね。<br>こっちを睨んでくる人とか<br>逆にこそこそ隠れる人とかいるけど……,我有点在意周围的视线。<br>有盯着这边看的<br>还有反而藏起来的人……
+43,ドランク/德朗克,もしかしてアレ、<br>君の盗賊時代に関係ある人達？,难道他们，<br>是你盗贼时代认识的人？
+44,ラインハルザ/莱茵哈萨,なに……？,什么……？
+45,,<span class='scene-font-katari'>姬塔達は周囲を見渡すが、</span><br><span class='scene-font-katari'>どこにも不審な人物を</span><br><span class='scene-font-katari'>見つけることはできなかった。</span>,<span class='scene-font-katari'>姬塔等人环视周围，</span><br><span class='scene-font-katari'>却没有发现什么</span><br><span class='scene-font-katari'>奇怪的人。</span>
+46,ビィ/碧,本当にいたのかぁ？　そんな奴……,真的存在吗？　那种人……
+47,ラインハルザ/莱茵哈萨,いても不思議はねぇ……<br>敵対していた悪党は腐るほどいた。,有也不奇怪……<br>当时敌对的人要多少有多少。
+48,ラインハルザ/莱茵哈萨,まぁ、襲ってくるわけじゃあないなら、<br>放っておけばいい。,但是，又不是攻击我们，<br>放着别管就行了。
+49,ビィ/碧,むしろ、仲間だった奴らじゃねーのか？<br>盗賊から足を洗って、<br>街で普通に暮らしてる奴もいるんだろ？,倒不如说，不是曾经的同伴吗？<br>也有摆脱盗贼金盆洗手，<br>在镇上普通生活的人吧？
+50,ラインハルザ/莱茵哈萨,それなら気軽に声をかけてくるさ。<br>最近どうしてるか……<br>むしろ顔を見たいぐらいだがな。,要是这样肯定会来搭话。<br>问问最近在干什么之类的……<br>我反而想见见他们呢。
+51,ルリア/露莉亚,ふふ……<br>ラインハルザさんは<br>とっても仲間想いですよね。,呵呵……<br>莱茵哈萨<br>很在乎同伴啊。
+52,ドランク/德朗克,ほうほう……<br>ラインハルザくんは、<br>ぶっきらぼうながら仲間想い、と。,嗯嗯……<br>莱茵哈萨虽然言行粗鲁，<br>却很在乎同伴。
+53,ラインハルザ/莱茵哈萨,ちっ……<br>人をおちょくるのはそのへんに……,切……<br>戏弄人就到此为止吧。
+54,ラインハルザ/莱茵哈萨,いや、いい……<br>お前みたいな手合いには、<br>熱くなったら負けだからな。,不，算了……<br>你小子这种人，<br>较真就是我输了。
+55,ドランク/德朗克,あらぁ……？<br>ずいぶんと扱いに<br>手慣れてらっしゃる。,咦……？<br>你好像很习惯<br>对付我这种人。
+56,ドランク/德朗克,<span class='scene-font-kokoro'>（なんだかんだ面倒見はいいけど、</span><br><span class='scene-font-kokoro'>おそらく敵に対して容赦はない……）</span>,<span class='scene-font-kokoro'>（好像很会照顾人，</span><br><span class='scene-font-kokoro'>恐怕对敌人绝对不会手下留情……）</span>
+57,ドランク/德朗克,<span class='scene-font-kokoro'>（身内から慕われはするけど、</span><br><span class='scene-font-kokoro'>絆されることはなさそう……</span><br><span class='scene-font-kokoro'>ちょっぴりスツルム殿に似てるかな）</span>,<span class='scene-font-kokoro'>（虽然被身边的人仰慕，</span><br><span class='scene-font-kokoro'>但也不会被谁束缚……</span><br><span class='scene-font-kokoro'>稍微有点像斯特姆阁下啊）</span>
+58,ラインハルザ/莱茵哈萨,<span class='scene-font-kokoro'>（ドランク……こいつは狸だな。</span><br><span class='scene-font-kokoro'>飄々としてるのは、</span><br><span class='scene-font-kokoro'>そう見せたいからか……？）</span>,<span class='scene-font-kokoro'>（德朗克……这人是狸啊。</span><br><span class='scene-font-kokoro'>看上去轻飘飘的，</span><br><span class='scene-font-kokoro'>是故意给人的错觉吗……？）</span>
+59,ラインハルザ/莱茵哈萨,<span class='scene-font-kokoro'>（しかし、学ぶところはある……</span><br><span class='scene-font-kokoro'>エルステに出入りしていた傭兵なら</span><br><span class='scene-font-kokoro'>それも当然かもしれないが……）</span>,<span class='scene-font-kokoro'>（但是，有值得学习的地方……</span><br><span class='scene-font-kokoro'>既然是出入埃尔斯特的佣兵</span><br><span class='scene-font-kokoro'>这也是理所当然的吧……）</span>
+60,,<span class='scene-font-katari'>そんな会話をしながら一行は</span><br><span class='scene-font-katari'>傭兵組合を目指し、</span><br><span class='scene-font-katari'>雑然とした街を歩くのだった。</span>,<span class='scene-font-katari'>一行人谈笑着</span><br><span class='scene-font-katari'>朝着佣兵工会，</span><br><span class='scene-font-katari'>走在喧闹的街上。</span>
+info,,,scene_chr606_q1_s10
+译者,,,SETSU_XY

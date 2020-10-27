@@ -1,0 +1,24 @@
+id,name,text,trans
+0-chapter_name,,結んだ実は、土に還って,果实归土
+0-synopsis,,レナが無数の魔生花に姿を変えて散るのを、姬塔達は呆然と眺めることしかできなかった。ルリアは弔いとばかりに大量の魔生花を集め始める。姬塔とビィも何かせずにいられず、ルリア同様に花を集め始める。そのとき、周囲に集まっていた魔物達が一面に咲くレナの花を襲う。姬塔達は花を守ろうと魔物と対峙する。,姬塔等人呆呆地看着蕾娜化作无数魔生花消失，不知所措。露莉亚为了吊唁蕾娜开始收集留下的大量魔生花，姬塔和碧也不想呆站着，和露莉亚一起收集。这时，周围的魔兽群向蕾娜的花发动攻击，姬塔他们为了保护蕾娜的花与魔兽对峙。
+1,レナ,ありがとう、姬塔さん、<br>ルリアちゃん、ビィちゃん……,谢谢你们，姬塔，露莉亚，碧……
+8,ルリア/露莉亚,レナさんっ！？,蕾娜！？
+9,,<span class='scene-font-katari'>レナの姿は消え、辺りには</span><br><span class='scene-font-katari'>おびただしい量の魔生花が残された。</span>,<span class='scene-font-katari'>蕾娜消失了，只留下一簇簇魔生花。</span>
+10,,<span class='scene-font-katari'>風に揺れる魔生花を、</span><br><span class='scene-font-katari'>姬塔達は呆然と眺めるほか</span><br><span class='scene-font-katari'>なく──</span>,<span class='scene-font-katari'>姬塔等人呆呆地望着魔生花在风中摇曳，不知所措——</span>
+11,ビィ/碧,何が起きてるってんだよ……！<br>オイラてんでわかんねえぞ！,怎么回事啊……！<br>咱完全不明白！
+12,男性,私の息子を樹木化から救うために、<br>もうひとつの魔生花の実を<br>取り込んだせいだ……,她为了不让我儿子变成树，把他体内的魔生花果实也吃下去了……
+13,男性,魔生花を咲かせる力が暴走して<br>こんなことに……！,因此创造魔生花的力量暴走了，才会发生这种事……！
+14,ルリア/露莉亚,そんな……！　嘘です！<br>だってレナさんは……！,怎么会……！骗人！<br>蕾娜她……！
+15,,<span class='scene-font-katari'>一行はしばし立ち尽くすが、</span><br><span class='scene-font-katari'>ふと、ルリアはその身をかがめる。</span>,<span class='scene-font-katari'>一行人呆站在原地。但很快，露莉亚行动起来。</span>
+16,ビィ/碧,……ルリア、何してんだ？,……露莉亚，你在干什么？
+17,ルリア/露莉亚,わかりません……<br>ただ、レナさんのお花……<br>集めておこうと思って……,不知道……<br>我只是，想把蕾娜的花都捡起来……
+18,,<span class='scene-font-katari'>ルリアの行動に何の意味があろうか。</span><br><span class='scene-font-katari'>おそらく本人にもわかっては</span><br><span class='scene-font-katari'>いないだろう。</span>,<span class='scene-font-katari'>大概连露莉亚本人也不知道她的行为到底有什么意义吧。</span>
+19,ルリア/露莉亚,レナさん、レナさん……<br>うう……,蕾娜，蕾娜……
+20,,<span class='scene-font-katari'>ただ、何かせずにはいられなかった。</span><br><span class='scene-font-katari'>姬塔とビィもルリアとともに</span><br><span class='scene-font-katari'>レナが最後に残した花を集める。</span>,<span class='scene-font-katari'>只是想要做点什么。于是，姬塔和碧也开始和露莉亚一起收集蕾娜最后留下的花。</span>
+23,魔物達/魔物们,グルルルル……,吼……
+24,ビィ/碧,やっべえ……！<br>まだ、魔物どもが残ってやがったのか！,糟了……！<br>魔兽还在！
+25,魔物達/魔物们,<span class='scene-font-4'>グオオオオオオッ！</span>,<span class='scene-font-4'>哦哦哦哦哦哦哦！</span>
+29,,<span class='scene-font-katari'>いつの間にか集まっていた魔物達は</span><br><span class='scene-font-katari'>一面に咲くレナの花に食らいついた。</span>,<span class='scene-font-katari'>姬塔他们发现魔兽正在啃食蕾娜的花海。</span>
+31,ルリア/露莉亚,やめてください！<br>レナさんのお花、食べないでください！,不要这样！<br>不要吃蕾娜的花！
+32,ビィ/碧,ルリア！　飛び出すんじゃねえ！<br>くそっ！　姬塔！<br>あいつらを追っ払うぞ！,露莉亚！别过去！<br>可恶！姬塔！咱们去把魔兽赶走！
+info,,,scene_ult_chr091_ep2_q1_s10

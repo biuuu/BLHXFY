@@ -1,0 +1,10 @@
+id,name,text,trans
+0,ティアマト/提亚玛特,────？,————？
+1,,<span class='scene-font-katari'>姬塔に呼ばれ、</span><br><span class='scene-font-katari'>何用かと首を傾げるティアマトに</span><br><span class='scene-font-katari'>ホワイトデーの贈り物を手渡す。</span>,<span class='scene-font-katari'>被姬塔叫了一下后，</span><br><span class='scene-font-katari'>提亚玛特歪头询问姬塔有什么事。</span><br><span class='scene-font-katari'>随后，姬塔把白色情人节的礼物交给了她。</span>
+2,ティアマト/提亚玛特,────！,————！
+3,,<span class='scene-font-katari'>一瞬だけ不思議そうに目を瞬かせるも</span><br><span class='scene-font-katari'>ティアマトはすぐに合点がいったのか</span><br><span class='scene-font-katari'>微かに表情を緩ませる。</span>,<span class='scene-font-katari'>她一时间觉得有点不可思议眨了下眼睛，</span><br><span class='scene-font-katari'>不过马上就理解了事情，</span><br><span class='scene-font-katari'>脸上露出了微笑。</span>
+4,ティアマト/提亚玛特,────,————
+8,,<span class='scene-font-katari'>柔らかい風と聴こえた音に、</span><br><span class='scene-font-katari'>ティアマトの感謝の気持ちが</span><br><span class='scene-font-katari'>伝わってくる。</span>,<span class='scene-font-katari'>提亚玛特感谢的心情</span><br><span class='scene-font-katari'>随着柔和的风和传过来的声音</span><br><span class='scene-font-katari'>传达到了心中。</span>
+9,,<span class='scene-font-katari'>──どういたしまして。</span>,<span class='scene-font-katari'>——不用客气。</span>
+10,,<span class='scene-font-katari'>心に直接語りかけてくるような</span><br><span class='scene-font-katari'>ティアマトの思いに、姬塔は</span><br><span class='scene-font-katari'>絆の深まりを感じるのだった。</span>,<span class='scene-font-katari'>面对如同直接与心对话般传来的提亚玛特的心意，</span><<br><span class='scene-font-katari'>姬塔感受到了互相之间深刻的牵绊。</span>
+info,,,scene_s2_white_3095_v1_0_2003_2_3040152000_1

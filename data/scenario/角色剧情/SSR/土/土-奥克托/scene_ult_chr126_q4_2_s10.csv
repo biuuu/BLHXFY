@@ -1,0 +1,12 @@
+id,name,text,trans
+0-chapter_name,,問おう、汝が最強を,试问，汝之最强
+0-synopsis,,「最強」の意味を問うべく、十天衆との手合せを求めるオクトー。続いて星屑の街に訪れたオクトーは、エッセルの手が空いているかどうかを確認すると「では、手合せと参るか」と唐突に告げる。エッセルはそんな急な話にも「オクトーらしいと言えばらしい、かな？」と素直に引き受けるのだった。,为了询问「最强」的含义，奥克托寻找十天众切磋，接下来来到了星屑街的奥克托，确认了艾瑟尔有没有时间后，突然提出切磋。艾瑟尔感慨这确实是奥克托的风格，并接受了。
+0,,<span class='scene-font-spword'>八命切</span><span class='scene-font-katari'>の「最強」という</span><br><span class='scene-font-katari'>言葉を確かめるべく</span><br><span class='scene-font-katari'>十天衆と戦うオクトー</span>,<span class='scene-font-katari'>为了确认</span><br><span class='scene-font-spword'>八命切</span><span class='scene-font-katari'>所说的「最强」</span><br><span class='scene-font-katari'>奥克托与十天众交战</span>
+1,,<span class='scene-font-katari'>彼は星屑の街に住む</span><br><span class='scene-font-katari'>エッセルの元を訪れた。</span>,<span class='scene-font-katari'>随后他拜访了</span><br><span class='scene-font-katari'>居住于星屑街的艾瑟尔。</span>
+2,エッセル/艾瑟尔,ん……？<br>オクトーが、私を訪ねてくるなんて<br>もしかして初めて……かな？,嗯……？<br>奥克托来拜访我<br>好像还是第一回……吧？
+3,オクトー/奥克托,かもしれんな。<br>今は手隙であるか？,或许吧。<br>现在可有空？
+4,エッセル/艾瑟尔,……ん。<br>急ぎの縫い物じゃないから、大丈夫。,……嗯。<br>现在缝的东西也不着急，没事。
+5,オクトー/奥克托,では、手合せと参るか。<br>街の外れにて待つ。,那就跟我切磋切磋吧。<br>我在城镇外面等。
+8,エッセル/艾瑟尔,……手合せ？　急な話だけど……<br>オクトーらしいと言えば<br>らしい、かな？,……切磋？　来得有些突然……<br>不过也确实<br>算是你的风格吧？
+info,,,scene_ult_chr126_q4_2_s10
+译者,,,

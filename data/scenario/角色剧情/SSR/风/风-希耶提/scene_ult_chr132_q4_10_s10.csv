@@ -1,0 +1,124 @@
+id,name,text,trans
+0-chapter_name,,終局,终局
+0-synopsis,,エッセルに向け振り下ろされた七星剣を寸でのところで止めたのは、姬塔だった。ウーノの呼びかけにより集められた十天衆の面々と姬塔は、シエテを止めるため力を合わせて共闘する。シエテは剣神達を呼び出し応戦。十天衆達がコンビネーションを発揮し剣神達の相手をする中、姬塔がシエテを止めるため立ちはだかるのだった。,在七星剑向着艾瑟尔挥下的前一秒，姬塔出现阻止了。因为乌诺的召唤而聚集起来的十天众们和姬塔，为了阻止希耶提而合力共同战斗。希耶提唤出了剑神们来应战。十天众们对付着配合作战的剑神们，姬塔为了阻止希耶提阻挡在他身前。
+1,,<span class='scene-font-katari'>シエテが振り下ろした</span><span class='scene-font-spword'>七星剣</span><span class='scene-font-katari'>の</span><br><span class='scene-font-katari'>切っ先は、姬塔によって</span><br><span class='scene-font-katari'>弾かれた。</span>,<span class='scene-font-katari'>希耶提挥下的</span><span class='scene-font-spword'>七星剑</span><span class='scene-font-katari'>的剑锋，被姬塔弹开。</span>
+2,シエテ/希耶提,っ！？,！？
+3,エッセル/艾瑟尔,姬塔！,姬塔！
+4,シエテ/希耶提,やるね～<br>ナイスタイミングだ！,真能干啊～<br>时机抓得正好呢！
+5,ビィ/碧,ふぃ～！<br>なんとか間に合ったぜ！,呼～！<br>总算是赶上了！
+6,ルリア/露莉亚,大丈夫ですか？<br>エッセルさん！,你没事吧？<br>艾瑟尔！
+7,エッセル/艾瑟尔,ありがとう……<br>もう大丈夫。,谢谢……<br>我已经没事了。
+8,シエテ/希耶提,さすが姬塔ちゃん達だね～,不愧是姬塔酱你们啊～
+9,ウーノ/乌诺,遅くなってすまない、<br>エッセル。,抱歉来迟了，<br>艾瑟尔。
+10,エッセル/艾瑟尔,ウーノさん……<br>それにみんな！,乌诺……<br>而且大家也！
+11,,<span class='scene-font-katari'>エッセルが顔を上げた先には</span><br><span class='scene-font-katari'>十天衆のメンバー達が</span><br><span class='scene-font-katari'>堂々と居並ぶ。</span>,<span class='scene-font-katari'>艾瑟尔抬起了头，在前方十天众的伙伴们威风凛凛地并排站着。</span>
+12,ソーン/索恩,ウーノの呼びかけで集まったわ。<br>姬塔さんもね。,我们是因为乌诺的召唤所以聚集到了一起。<br>姬塔也是。
+13,ニオ/妮欧,もう逃がさない。,不会再让你逃走了。
+14,サラーサ/萨拉萨,おいシエテ！<br>さっきの借りは<br>すげーいっぱいにして返してやるぜ！,喂希耶提！<br>你刚刚打我的那份我要超加倍地奉还！
+15,シス/希斯,ふん……<br>このまま引き下がれるか。,哼……<br>怎么可能就这样退场。
+16,オクトー/奥克托,多勢で囲むのは<br>流儀に反するが。<br>うぬを止めるため故。,虽然以多欺少有失礼节。<br>但这也是为了阻止你。
+17,フュンフ/芬芙,シエテのアホー！<br>あちしたちの力でごめんなさいって<br>あやまらせてやるんだからね！,希耶提你个笨蛋！<br>就用我们的力量让你向我们谢罪说对不起吧！
+18,カトル/卡托尔,さぁ……<br>覚悟してもらいますよ。,那么……<br>给我做好觉悟吧。
+19,エッセル/艾瑟尔,シエテ。<br>流石のあなたも勝ち目は無いわ。,希耶提。<br>这种情况下就算是你也没有胜算的吧。
+20,,<span class='scene-font-katari'>姬塔を中心に</span><br><span class='scene-font-katari'>集まった十天衆の面々と</span><br><span class='scene-font-katari'>対峙するシエテ。</span>,<span class='scene-font-katari'>希耶提与以姬塔为中心聚集的十天众们对峙着。</span>
+21,シエテ/希耶提,へぇ～！<br>やればできるじゃない、キミ達。,嘿～！<br>想做的话还是能做到的嘛，你们。
+22,ウーノ/乌诺,大人しく降参するんだ、シエテ。<br>さしもの君でも分が悪い。,乖乖投降吧，希耶提。<br>即使是那样的你现在也已经处于劣势了。
+23,シエテ/希耶提,うん、そうだね……<br>流石に俺一人じゃキツイ。,嗯，的确如此呢……<br>就算是我，要一个人战斗也很吃力啊。
+24,ウーノ/乌诺,それが分かるなら、<br>早く武器を下ろすんだ。,如果你懂了的话，<br>就快点放下武器吧。
+25,シエテ/希耶提,う～ん……<br>でも──,唔～嗯……<br>但是──
+26,シエテ/希耶提,俺、一人じゃないんだよな～,我，又不是一个人在战斗～
+27,ソーン/索恩,強がってみせる余裕があるとはね。,没想到你还有余力在这里逞强。
+28,シエテ/希耶提,あ、酷いな～ソーンは。<br>俺、こう見えて友達には<br>恵まれてるんだよ～,啊，好过分啊～索恩。<br>我，虽然看上去是这个样子其实还有挺多朋友的哦～
+29,ニオ/妮欧,全然焦って無い。<br>むしろ……ワクワクしてる。,一点也不着急。<br>不如说是……在兴奋着。
+30,シエテ/希耶提,ニオ、奥の手は<br>最後まで取って置くものさ……,妮欧，杀手锏就是在最后关头才用的嘛……
+31,ソーン/索恩,奥の手……？<br>そんな事！,杀手锏……？<br>那种事怎么可能！
+32,シエテ/希耶提,もう……遅いって。,已经……晚了哟。
+35,,<span class='scene-font-katari'>瞬間、シエテの足元に</span><br><span class='scene-font-katari'>異空間の海が広がる。</span>,<span class='scene-font-katari'>一瞬间，异空间之海在希耶提的脚边扩散开来。</span>
+36,,<span class='scene-font-katari'>絶え間なく放出される</span><br><span class='scene-font-katari'>凄まじいエネルギーの波により</span><br><span class='scene-font-katari'>一行は近寄ることが出来ない。</span>,<span class='scene-font-katari'>因为不间断放出的强力的能量波，一行人难以靠近。</span>
+37,シエテ/希耶提,我が名は<br>天星剣王のシエテ。,我之名为天星剑王希耶提。
+38,シエテ/希耶提,我が名を以て<br><span class='scene-font-spword'>七星剣</span>に命ずる。,以我之名讳，命令<span class='scene-font-spword'>七星剑</span>。
+39,シエテ/希耶提,星の海より来たれ……剣の神々よ……<br>出でよ、七星剣神！,由星之海而来……剑的神灵们啊……<br>现身吧，七星剑神！
+43,シエテ/希耶提,ドゥーベ……,杜贝……
+45,シエテ/希耶提,メラク……,梅拉库……
+47,シエテ/希耶提,フェグダ……,菲古达……
+49,シエテ/希耶提,メグレズ……,梅古雷兹……
+51,シエテ/希耶提,アリオト……,艾利欧特……
+53,シエテ/希耶提,ミザール……,米扎尔……
+55,シエテ/希耶提,アルカイド……,阿尔凯多……
+63,,<span class='scene-font-katari'>シエテの言葉に応じて</span><br><span class='scene-font-katari'>背後に具現化する剣神達。</span>,<span class='scene-font-katari'>与希耶提的话语相呼应，剑神们在他的背后实体化。</span>
+64,カトル/卡托尔,なん……だと……,那是……什么……
+65,シエテ/希耶提,どう？　カトル？<br>すっごく強そうでしょう？,怎么样？　卡托尔？<br>看起来超强的对吧？
+66,フュンフ/芬芙,急にポコポコふやして<br>ずるいぞ！,突然咕噜咕噜地变多，太狡猾了！
+70,,<span class='scene-font-katari'>剣神達の凄まじい圧力に</span><br><span class='scene-font-katari'>身構える十天衆。</span>,<span class='scene-font-katari'>面对着剑神们强力的威压，十天众们都摆好了战斗架势。</span>
+71,ウーノ/乌诺,姬塔……,姬塔……
+72,ウーノ/乌诺,あいつらは、私達が<br>引き受ける。,那些家伙们，就由我们来对付。
+73,ウーノ/乌诺,シエテは君が止めてくれ！,你去阻止希耶提！
+74,シエテ/希耶提,ふっ……<br>思い通りにはさせないよっと！,呵……<br>我可不会如你们的意！
+75,,<span class='scene-font-katari'>シエテの動きに合わせて</span><br><span class='scene-font-katari'>剣神達が剣を構える。</span>,<span class='scene-font-katari'>应和着希耶提的动作，剑神们举起了剑。</span>
+78,ドゥーベ,<span class='scene-font-gray'>天枢……</span>,<span class='scene-font-gray'>天枢……</span>
+80,メラク,<span class='scene-font-gray'>天璇……</span>,<span class='scene-font-gray'>天璇……</span>
+82,フェグダ,<span class='scene-font-gray'>天璣……</span>,<span class='scene-font-gray'>天玑……</span>
+84,メグレズ,<span class='scene-font-gray'>天権……</span>,<span class='scene-font-gray'>天权……</span>
+86,アリオト,<span class='scene-font-gray'>玉衡……</span>,<span class='scene-font-gray'>玉衡……</span>
+88,ミザール,<span class='scene-font-gray'>開陽……</span>,<span class='scene-font-gray'>开阳……</span>
+90,アルカイド,<span class='scene-font-gray'>揺光……</span>,<span class='scene-font-gray'>揺光……</span>
+92,シエテ/希耶提,これで終わりだっ！<br>シエン・ミル・エスパーダ！,一切在此终结！<br>十万剑！
+94,,<span class='scene-font-katari'>指揮者の様に大げさな</span><br><span class='scene-font-katari'>シエテの一振りに合わせて、</span><br><span class='scene-font-katari'>剣神達が同時に斬撃を放つ。</span>,<span class='scene-font-katari'>应和着希耶提像是指挥家一样夸张挥出的一击，剑神们同时放出了斩击。</span>
+95,ウーノ/乌诺,城廓の構え……！,城郭构筑……！
+103,,<span class='scene-font-katari'>だがウーノの力によって</span><br><span class='scene-font-katari'>かろうじて攻撃は無効化される。</span>,<span class='scene-font-katari'>但是凭借乌诺的力量勉强地防住了攻击。</span>
+106,ウーノ/乌诺,はぁ……はぁ……<br>なんという力だ……,哈啊……哈啊……<br>何等强大的力量啊……
+107,シエテ/希耶提,チッ……さすがウーノ。<br>上手いコト凌がれちゃったか～！,切……不愧是乌诺。<br>用你擅长的防御抵挡过去了啊～！
+108,ウーノ/乌诺,ぐっ……<br>今の攻撃を二度は<br>防げない……,咕……<br>如果是刚刚那种攻击的话我没法再防下第二次了……
+109,ウーノ/乌诺,今の内に……<br>それぞれの剣神達を<br>シエテから引きはがせ！,趁现在……<br>把各个剑神从希耶提身边引开！
+111,ソーン/索恩,わかったわ。,我知道了。
+113,サラーサ/萨拉萨,<span class='scene-font-4'>ぶっ潰す！</span>,<span class='scene-font-4'>击溃你！</span>
+115,カトル/卡托尔,<span class='scene-font-4'>ぶっ殺す！</span>,<span class='scene-font-4'>杀了你！</span>
+117,フュンフ/芬芙,あちしに任せて！,就交给我吧！
+119,シス/希斯,フン……後悔させてやる。,哼……我会让你追悔莫及的。
+121,オクトー/奥克托,こちらは任せよ。,这边就交给我了。
+123,ニオ/妮欧,やってみる。,我会试试的。
+125,エッセル/艾瑟尔,無駄にはしない。,我不会白费你的努力的。
+126,,<span class='scene-font-katari'>初手を引き受けたサラーサが</span><br><span class='scene-font-katari'>シエテ達に向かって飛びかかる。</span>,<span class='scene-font-katari'>受命打头阵的萨拉萨</span><br><span class='scene-font-katari'>向着希耶提他们飞奔而去。</span>
+127,サラーサ/萨拉萨,まとめて叩き潰してやる！,把你整个打碎！
+129,シエテ/希耶提,――！,――！
+137,サラーサ/萨拉萨,アストロ・スプレション！,宇宙分断！
+138,,<span class='scene-font-katari'>サラーサの渾身の一撃によって</span><br><span class='scene-font-katari'>瞬時に散開する剣神達。</span>,<span class='scene-font-katari'>因为受到了萨拉萨全力的一击，剑神们一瞬间四散开了。</span>
+140,シエテ/希耶提,ぐっ……,咕……
+141,シエテ/希耶提,ま、これは一発でも<br>貰ったら即アウトだから<br>仕方ないね～,嘛，这招只要吃了一记的话就会出局了呢，真没办法啊～
+145,ソーン/索恩,行くわよ、ニオ。,要上了哟，妮欧。
+146,ニオ/妮欧,うん、分かってる。,嗯，我知道了。
+147,ソーン・ニオ/索恩・妮欧,アストラル・ハウザー！<br>ネビリューサ・フリューデ！,星之猎人！<br>星云之乐！
+168,,<span class='scene-font-katari'>ソーンとニオの波状攻撃によって</span><br><span class='scene-font-katari'>剣神達の連携は分断される。</span>,<span class='scene-font-katari'>因为索恩和妮欧的波纹攻击，剑神们之间的合作被切断了。</span>
+169,シエテ/希耶提,ちっ……<br>あのコンビは厄介だねっ！,切……<br>那对搭档可真棘手啊！
+170,シエテ/希耶提,まぁいいや……<br>キミ達の思惑に乗って、<br>それぞれ相手してあげるよ！,算了……<br>就顺你们的心意，<br>让你们各自为战吧！
+171,,<span class='scene-font-katari'>十天衆達は息の合った連携で</span><br><span class='scene-font-katari'>シエテから剣神達を引きはがす。</span>,<span class='scene-font-katari'>十天众们默契的合作之下，剑神们被从希耶提身边引开了。</span>
+173,オクトー/奥克托,冥途の土産だ。<br>とくと受け取れぃ！<br>捨狂神武器！,这是送你下地狱的赠礼。<br>给我好好收下吧！<br>捨狂神武器！
+180,ドゥーベ,<span class='scene-font-gray'>むぅ……</span>,<span class='scene-font-gray'>呜……</span>
+181,シス/希斯,遅いっ！　断ち切る！<br>天地虚空夜叉閃刃！,太慢了！　斩断吧！<br>天地虚空夜叉闪刃！
+197,メラク,<span class='scene-font-gray'>ぐっ……</span>,<span class='scene-font-gray'>咕……</span>
+198,カトル/卡托尔,行くよ姉さん！,要上了姐姐！
+199,エッセル/艾瑟尔,援護は任せて！,支援就交给我吧！
+200,エッセル・カトル/艾瑟尔・卡托尔,メメント・モリ！<br>ダンス・マカブル！,终有一死！<br>死亡之舞！
+222,フェグダ,<span class='scene-font-gray'>おのれ……</span>,<span class='scene-font-gray'>你们这些家伙……</span>
+224,,<span class='scene-font-katari'>それぞれの相手を見つけて</span><br><span class='scene-font-katari'>すかさず追撃を始める十天衆。</span>,<span class='scene-font-katari'>寻找到各自的对手，十天众们立刻开始了追击。</span>
+226,シエテ/希耶提,くっ……まだ上手く<br>剣神達を使いこなせないか……,切……还不能熟练地使用剑神们啊……
+227,フュンフ/芬芙,よーし！<br>最後にあちしの全力最強魔法で<br>ぶっ飛ばしてやる！,好的！<br>最后就用我倾尽全力的最强魔法把你打飞吧！
+228,ウーノ/乌诺,フュンフ。<br>すまないが、<br>君には援護を頼みたい。,芬芙。<br>抱歉啊，我想拜托你做后方支援。
+229,フュンフ/芬芙,え～,诶～
+230,ウーノ/乌诺,相手は回復手段に乏しい。<br>戦闘が長引くほど、<br>こちらが有利になる。,对方缺乏回复手段。<br>战斗时间越长<br>对我们这边更有利。
+231,ウーノ/乌诺,これは君にしか<br>できない仕事だ。,这是只有你才能胜任的工作。
+232,フュンフ/芬芙,うん……<br>わかった！,嗯……<br>我知道了！
+233,シエテ/希耶提,ふっ……<br>こっちも元より長引かせる<br>つもりは無いけどねっ！,呵……<br>我这里一开始就没有打算打长期战啊！
+234,,<span class='scene-font-katari'>十天衆の見事な連携により、</span><br><span class='scene-font-katari'>剣神達は完全にシエテから</span><br><span class='scene-font-katari'>引き離されたのだった。</span>,<span class='scene-font-katari'>因为十天众漂亮的合作，剑神们完全离开了希耶提。</span>
+235,,<span class='scene-font-katari'>各地で激しい戦闘を繰り広げる</span><br><span class='scene-font-katari'>十天衆と剣神達。</span>,<span class='scene-font-katari'>十天众和剑神们在各个地方展开了激烈的战斗。</span>
+236,シエテ/希耶提,ははっ！　やるね～<br>さすが十天衆だ！<br>俺が認めただけある！,哈哈！　真能干啊～<br>不愧是十天众！<br>不愧是我认可的人！
+237,シエテ/希耶提,<span class='scene-font-kokoro'>（仕方ない……</span><br><span class='scene-font-kokoro'>オートモードでいくしかないね）</span>,<span class='scene-font-kokoro'>（真没办法……只能放任他们自动战斗了。）</span>
+238,ウーノ/乌诺,さぁ……今だ！<br>姬塔！,上吧……就是现在！<br>姬塔！
+239,,<span class='scene-font-katari'>こくりと頷いた姬塔は</span><br><span class='scene-font-katari'>シエテの前に立ちはだかる。</span>,<span class='scene-font-katari'>姬塔点点头，挡在了希耶提的面前。</span>
+240,シエテ/希耶提,ふふ……やっぱり<br>最後は姬塔か……,呵呵……果然最后是姬塔啊……
+241,シエテ/希耶提,いやさ……<br>なんとなくこうなる<br>予感はしてたんだ。,那个啊……<br>我有预感会变成这样呢。
+242,シエテ/希耶提,というか……俺は<br>これを望んでいたのかも知れないね。,或者说……我或许正期待着这一幕也说不定。
+243,シエテ/希耶提,ほら……おいでよ？,来吧……过来吧？
+244,シエテ/希耶提,キミが俺を止めなきゃ、<br>誰が止めるの？,如果你都阻止不了我的话，<br>还有谁能阻止得了我呢？
+info,,,scene_ult_chr132_q4_10_s10
+,,,

@@ -1,0 +1,20 @@
+id,name,text,trans
+0-chapter_name,,黒き陰謀,漆黑的阴谋
+0-synopsis,,ハーゲンを追いかける道中、ジークフリートは事のあらましを一行に話し始める。発端はハーゲンからの手紙に、国に死の呪いをかけたと記されていたことだった。ジークフリートはハーゲンの陰謀から国を救うため、すぐさま指定された村へと向かった。,在追逐哈根的途中，齐格飞开始和一行人讲述事情的来龙去脉。这一切的开端都是一封来自哈根的信。信里写到：“我对这个国家下了死亡的诅咒”。齐格飞为了从哈根的手中拯救国家，马上前往了他指定的村庄。
+0,,<span class='scene-font-katari'>ハーゲンと名乗った男を追いかける</span><br><span class='scene-font-katari'>ジークフリートと姬塔一行。</span>,<span class='scene-font-katari'>齐格飞和姬塔一行人</span><br><span class='scene-font-katari'>正在追那个名为哈根的男人。</span>
+1,,<span class='scene-font-katari'>ジークフリートは、事の発端から</span><br><span class='scene-font-katari'>現在に至るまでの出来事を、</span><br><span class='scene-font-katari'>一行に対して静かに語り始める。</span>,<span class='scene-font-katari'>齐格飞用平静的语气，</span><br><span class='scene-font-katari'>对众人讲述了至今为止</span><br><span class='scene-font-katari'>所发生的变故。</span>
+2,ジークフリート/齐格飞,そう……<br>あれは数日前の出来事だった……,没错……<br>那是几天前发生的一件事。
+8,,<span class='scene-font-katari'>数日前。</span><br><span class='scene-font-katari'>ジークフリートの元に</span><br><span class='scene-font-katari'>一通の手紙が届いた。</span>,<span class='scene-font-katari'>几天前，</span><br><span class='scene-font-katari'>齐格飞收到了一封信。</span>
+9,？？？,この国に死の呪いをかけた……<br>始まりは、そう、思い出のあの村だ。,我对这个国家下了死亡的诅咒……<br>就让这一切，从那个充满回忆的村庄开始吧。
+10,？？？,早く動かなければ、<br>お前の救ったこの国が<br>再び地獄を見るだろう……,如果不快点开始行动的话，<br>想必你曾经拯救过的这个国家，<br>马上就会再度陷入地狱之中吧……
+11,？？？,私は眺めの良い場所で待つ。<br>お前は誰にも言わず……<br>ただひとりで来い。,我会在视野开阔的地方等待你的到来。<br>你不可以告诉任何人……<br>必须只身一人前往。
+12,？？？,くくくくく……<br>さぁ、ジークフリート。<br>あの時の様に解決できるかな？,呵呵呵呵呵……<br>来吧，齐格飞。<br>你还能像那个时候一样，突破困境吗？
+13,ジークフリート/齐格飞,まさか、奴が……,难道说，那家伙……
+14,,<span class='scene-font-katari'>手紙を読んだジークフリートは、</span><br><span class='scene-font-katari'>すぐさま単独行動を開始する。</span>,<span class='scene-font-katari'>读过信的齐格飞立刻开始单独行动。</span>
+17,ジークフリート/齐格飞,くそっ……<br>間に合ってくれ。,可恶……<br>一定要赶上啊。
+18,魔物,<span class='scene-font-4'>グォォォォン！</span>,<span class='scene-font-4'>呜嗷嗷嗷嗷嗷！</span>
+19,ジークフリート/齐格飞,<span class='scene-font-4'>邪魔だァ！！</span>,<span class='scene-font-4'>碍事！！</span>
+22,魔物,<span class='scene-font-4'>グギャァ……</span>,<span class='scene-font-4'>呜嗷……</span>
+24,,<span class='scene-font-katari'>ジークフリートを狙って</span><br><span class='scene-font-katari'>取り囲む魔物達。</span>,<span class='scene-font-katari'>魔物们向齐格飞包围了过来。</span>
+25,ジークフリート/齐格飞,俺は今気がたっている……<br>手加減は出来んぞ……,我现在非常愤怒……<br>绝对不会手下留情……
+info,,,scene_ult_chr110_ep2_q1_s10

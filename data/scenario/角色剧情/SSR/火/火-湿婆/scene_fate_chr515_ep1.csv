@@ -1,0 +1,108 @@
+id,name,text,trans
+0-chapter_name,,破壊神顕現,破坏神显现
+0-synopsis,,ある夜、助けを求める少年の夢を見た姬塔は、夢の記憶を頼りにとある村を訪れる。しかし、村は病に侵された村の神木が発した瘴気に包まれており、姬塔一行の侵入を拒んでいた。そこへ、かつて姬塔が<span class='scene-font-place'>クルーガー島</span>の寺院で出会った星晶獣シヴァが現れる。予期せぬ邂逅に戸惑う姬塔に、シヴァは「この地で何をしている」と鋭い視線を向けるのだった。,某日夜里，姬塔梦见了一个正在求救的少年，于是便沿着梦的记忆访问了那个村庄。然而被病魔侵蚀的神木发出的瘴气包围了整个村庄，拒绝姬塔一行人的入侵。此时，过去姬塔在科尔加岛的寺院里遇见过的星晶兽湿婆出现了。姬塔因为这预料之外的邂逅而困惑，而湿婆向姬塔投来了锐利的视线，询问众人为何而来。
+3,村人１/村民１,うう……あうぅ……,呜呜……啊呜……
+4,村人２/村民２,はぁー……はぁー……,哈啊……哈啊……
+5,,<span class='scene-font-katari'>雨が降り続くとある辺境の村。</span><br><span class='scene-font-katari'>一帯には咽返るような</span><br><span class='scene-font-katari'>悪臭と瘴気が立ち込める。</span>,<span class='scene-font-katari'>某个不停地下着雨的边境村庄。那一带弥漫着呛人的恶臭和瘴气。</span>
+6,,<span class='scene-font-katari'>村の中心には神木が祀られており、</span><br><span class='scene-font-katari'>その周りには、薄い麻布の上に</span><br><span class='scene-font-katari'>横たわる村人達の姿があった。</span>,<span class='scene-font-katari'>村庄中心供奉着神木，周围铺着的麻布上躺满了村民。</span>
+7,村人３/村民３,うぅう……ああぅ……,呜……啊……
+8,,<span class='scene-font-katari'>皮膚は爛れ、声は掠れ、</span><br><span class='scene-font-katari'>身体を動かすこともままならない。</span>,<span class='scene-font-katari'>他们皮肤溃烂，嗓音嘶哑，甚至不能自己活动身体。</span>
+9,村人４/村民４,嗚呼……神籬様……<br>我らに、救いを、与えたまえ……！,啊啊……神灵大人……请、拯救、我们……！
+10,村人４/村民４,嗚呼……嗚呼……,啊……啊……
+11,村人４/村民４,だれ、か……,有、谁……
+12,村人４/村民４,我らに……救い、を──,来拯救……我们——
+28,？？？,…………,…………
+29,村人４/村民４,っ…………！,…………！
+30,シヴァ,我が名はシヴァ。<br>“救い”を与える者。,吾名为湿婆。为赐予“救赎”之人。
+31,,<span class='scene-font-katari'>突如として現れた神々しい存在に</span><br><span class='scene-font-katari'>村人達は息を呑む。</span>,<span class='scene-font-katari'>看到这突然出现的神圣人物，村民们都屏住了气</span>
+32,,<span class='scene-font-katari'>シヴァは、村の中心に鎮座する</span><br><span class='scene-font-katari'>神木へ視線を移した。</span>,<span class='scene-font-katari'>湿婆看向坐镇于村庄中心的神木。</span>
+33,シヴァ,疫病か……,疫病吗……
+34,,<span class='scene-font-katari'>樹皮が剥げ落ち、</span><br><span class='scene-font-katari'>中から変色した幹が覗く。</span>,<span class='scene-font-katari'>树皮剥落，露出了已经变色的树干。</span>
+35,,<span class='scene-font-katari'>神木が病魔の温床となり、</span><br><span class='scene-font-katari'>有害な胞子が村全域を侵していた。</span>,<span class='scene-font-katari'>神木成为了病魔的温床，有害的孢子侵占了村庄全域。</span>
+36,シヴァ,…………,…………
+38,,<span class='scene-font-katari'>シヴァは神木へ歩み寄り掌を翳す。</span><br><span class='scene-font-katari'>劫火が焚かれ、</span><br><span class='scene-font-katari'>神木は音を立てて燃え始めた。</span>,<span class='scene-font-katari'>湿婆走近神木，举起手，劫火被点燃，神木发出声响燃烧了起来。</span>
+39,村人４/村民４,っ……──！,……——！
+40,,<span class='scene-font-katari'>村人達は力なく地に臥せたまま、</span><br><span class='scene-font-katari'>燃え盛る炎をただ見つめている。</span>,<span class='scene-font-katari'>村民们只能无力地倒在地上，看着这旺盛的火焰。</span>
+41,シヴァ,強き願いを唱えし者達よ。<br>汝等の心願に応えよう。,强烈祈祷着的人啊，吾来回应汝等的愿望。
+42,村人２/村民２,うぅ……,呜……
+43,村人３/村民３,はあ……うぁぁ……,哈啊……呜……
+44,,<span class='scene-font-katari'>村人達はシヴァの言葉に涙を流し、</span><br><span class='scene-font-katari'>シヴァは彼らの願いを</span><br><span class='scene-font-katari'>聞き入れるかのように瞼を閉じた。</span>,<span class='scene-font-katari'>村民们听到湿婆的话，流下了眼泪。湿婆闭上了眼睛像是在倾听他们的愿望。</span>
+45,シヴァ,…………,…………
+46,,<span class='scene-font-katari'>村人達の身体は腐食が進んでおり、</span><br><span class='scene-font-katari'>まともに喋ることも、</span><br><span class='scene-font-katari'>動くことも叶わない。</span>,<span class='scene-font-katari'>村民们身体的腐蚀已经恶化，已经无法正常说话和活动。</span>
+47,,<span class='scene-font-katari'>神木だったものは、</span><br><span class='scene-font-katari'>燃え尽き灰となって、</span><br><span class='scene-font-katari'>その場で崩れ落ちた。</span>,<span class='scene-font-katari'>曾经是神木的东西化为了灰烬，当场倒塌了。</span>
+48,村人１/村民１,うぅ……うぅぅ……,呜……呜呜……
+49,,<span class='scene-font-katari'>この神木と同じように、</span><br><span class='scene-font-katari'>もう間もなく、</span><br><span class='scene-font-katari'>村人達の命の灯火は消える。</span>,<span class='scene-font-katari'>像神木一样，不久之后，村民们生命的灯火也熄灭了。</span>
+50,シヴァ,…………,…………
+51,,<span class='scene-font-katari'>シヴァは深い瞑想の末に、</span><br><span class='scene-font-katari'>やがて、ひとつの結論を導き出した。</span>,<span class='scene-font-katari'>湿婆经过了深刻的冥想之后，得出了一个结论</span>
+52,シヴァ,……至り。,……事已至此，别无他法。
+57,シヴァ,我が劫火を以って一切を無に帰さん。,以吾之劫火将一切回归虚无。
+64,,<span class='scene-font-katari'>夜空を滑空するグランサイファーの</span><br><span class='scene-font-katari'>自室にて、姬塔は</span><br><span class='scene-font-katari'>深い眠りについていた。</span>,<span class='scene-font-katari'>翱翔在夜空中的格兰赛法上，姬塔在自己的房间里沉睡。</span>
+71,村の少年,……くうし、さま……,……骑空、士大人……
+72,村の少年,はぁ……はぁ……<br>……こえ、ます、か……？,哈啊……哈啊……<br>……能、听见、吗……？
+73,,<span class='scene-font-katari'>姬塔の眼前には、</span><br><span class='scene-font-katari'>暗く淀んだ空気に覆われた村の中で</span><br><span class='scene-font-katari'>横たわる少年の姿があった。</span>,<span class='scene-font-katari'>姬塔眼前看到的是，一名躺在被昏暗沉淀的空气覆盖的村子里的少年。</span>
+74,村の少年,はぁ……からだ、が……あつくて……<br>あたまが……ぼうっとします……,哈啊……身体……好热……<br>思考……好模糊……
+75,,<span class='scene-font-katari'>姬塔は、目の前にいる少年に</span><br><span class='scene-font-katari'>手を伸ばそうとするが、</span><br><span class='scene-font-katari'>その手は届かない。</span>,<span class='scene-font-katari'>姬塔向眼前的少年伸出手，然而无法碰到他。</span>
+76,村の少年,ぼくは……約束……した……ら……,我跟……约好……了
+77,村の少年,パパがかえってくるまで……<br>ママを、守るって……,在爸爸回来之前……会好好保护好、妈妈……
+78,,<span class='scene-font-katari'>少年は息も絶え絶えながら、</span><br><span class='scene-font-katari'>空に向かって必死に祈りを捧げている。</span>,<span class='scene-font-katari'>少年呼吸逐渐微弱，但仍旧朝着天空拼命祈祷着。</span>
+79,村の少年,……ねがい、します……<br>騎空士、さま……,……拜托了……<br>骑空士、大人……
+80,村の少年,ぼくたちを……<br>たす……て……くだ……い……,请救……救……我们……
+89,,<span class='scene-font-katari'>夢から覚めた姬塔。</span><br><span class='scene-font-katari'>周りを見回し、今しがた見ていたのは</span><br><span class='scene-font-katari'>夢だったことを悟る。</span>,<span class='scene-font-katari'>从梦中清醒过来的姬塔环顾四周，意识到刚才看到的一切都是梦。</span>
+90,,<span class='scene-font-katari'>少年の痛々しい姿を思い出した</span><br><span class='scene-font-katari'>姬塔の背中に、</span><br><span class='scene-font-katari'>じんわりと汗が伝う。</span>,<span class='scene-font-katari'>回想起少年令人痛心的样子，姬塔背后流下了冷汗。</span>
+93,村の少年,……ねがい、します……<br>騎空士、さま……,……拜托了……<br>骑空士、大人……
+94,村の少年,ぼくたちを……<br>たす……て……くだ……い……,请救……救……我们……
+100,,<span class='scene-font-katari'>姬塔は、</span><br><span class='scene-font-katari'>急いで操舵室へと向かった。</span>,<span class='scene-font-katari'>姬塔赶紧跑向了操舵室。</span>
+108,ルリア/露莉亚,ここが……<br>姬塔が見た夢の場所ですか？,这里就是……姬塔梦到的地方吗？
+109,,<span class='scene-font-katari'>姬塔が見た夢の記憶を頼りに</span><br><span class='scene-font-katari'>とある村に訪れた一行。</span>,<span class='scene-font-katari'>一行人沿着姬塔梦中的记忆，访问了某个村庄。</span>
+110,,<span class='scene-font-katari'>目の前に広がる光景は</span><br><span class='scene-font-katari'>夢の中で見た村だった。</span>,<span class='scene-font-katari'>展现在眼前的景色就是梦中见过的那个村子。</span>
+111,ビィ/碧,ほんとに夢で見た場所があるなんてな。<br>予知夢ってやつか？,梦中见到的地方还真有啊。是预知梦吗？
+112,ルリア/露莉亚,きっと、姬塔がその夢を<br>見たのには理由があると思うんです。,我觉得，姬塔会做那个梦一定有什么理由。
+113,ルリア/露莉亚,この村のどこかに、<br>その男の子がいるはずです。<br>はやく探しに行きましょう！,那个男孩子就在这村子的某个地方。我们快去找他吧！
+114,ビィ/碧,ああ、そうだな！,是啊！
+115,,<span class='scene-font-katari'>歩き出そうとするビィとルリアを</span><br><span class='scene-font-katari'>姬塔が止める。</span>,<span class='scene-font-katari'>姬塔阻止了想要往前走的碧和露莉亚。</span>
+116,ルリア/露莉亚,どうかしたんですか？,怎么了吗？
+117,ビィ/碧,なんだ？,什么事？
+118,,<span class='scene-font-katari'>姬塔が指し示す先には、</span><br><span class='scene-font-katari'>夜暗で視覚化されていない</span><br><span class='scene-font-katari'>陰湿な気配があった。</span>,<span class='scene-font-katari'>姬塔手指的方向，有因为夜晚黑暗无法看见的阴湿的气息。</span>
+119,ビィ/碧,うわっ……なんだよこれ！,哇……这是什么啊！
+120,ルリア/露莉亚,そんな……！<br>こんなことって……！,怎么会……！怎么会这样……！
+121,,<span class='scene-font-katari'>立ち上る悪臭と共に、</span><br><span class='scene-font-katari'>命あるものの侵入を拒むかのように、</span><br><span class='scene-font-katari'>村全域に瘴気が発生していた。</span>,<span class='scene-font-katari'>与散发着的恶臭一起，村庄全域都产生了瘴气，就像想要阻止有生命的东西入侵一样。</span>
+122,ビィ/碧,この村はいったい何が起きてんだ？<br>これじゃ中になんて入れねぇぞ……！,这个村子到底发生了什么事？这样的话没办法进去啊……！
+129,ルリア/露莉亚,きゃあっ！？,呀！？
+130,ビィ/碧,んなっ！？<br>今度はなんだ！？,什么！？这次又是什么事！？
+131,,<span class='scene-font-katari'>突然の劫火に、姬塔は</span><br><span class='scene-font-katari'>咄嗟にビィとルリアを背に隠し、</span><br><span class='scene-font-katari'>剣を抜く。</span>,<span class='scene-font-katari'>面对突然出现的劫火，姬塔立刻把碧和露莉亚护在背后，拔出了剑。</span>
+132,ルリア/露莉亚,この気配は……,这个气息是……
+133,ビィ/碧,星晶獣か……！？,星晶兽吗……！？
+143,,<span class='scene-font-katari'>劫火が落ち着き、</span><br><span class='scene-font-katari'>澄んだ視界の先に見えたのは</span><br><span class='scene-font-katari'>見覚えのある姿だった。</span>,<span class='scene-font-katari'>劫火逐渐平息，出现在清澈的视野中的是一个有印象的人。</span>
+146,シヴァ,…………,…………
+146-sel1_txt,,<span class='scene-font-katari'>あなたは……！</span>,<span class='scene-font-katari'>你是……！</span>
+147,シヴァ,久しいな。人の子よ。,好久不见了。人之子啊。
+148,白蛇,チロロロ。,嘶嘶。
+149,ルリア/露莉亚,え？　姬塔、<br>この方とお知り合いですか？,咦？姬塔，你认识这位吗？
+150,ビィ/碧,知らねぇ顔だぜ……,这人我没见过……
+151,,<span class='scene-font-katari'>その人物は白蛇を撫でながら、</span><br><span class='scene-font-katari'>ビィとルリアへ視線を投げた。</span>,<span class='scene-font-katari'>那位人物抚摸着白蛇，看向碧和露莉亚。</span>
+152,シヴァ,蒼の少女ルリアと、<br>赤き竜ビィか。,苍之少女露莉亚，和赤之龙碧吗。
+153,ビィ/碧,オイラ達を知ってんのか？,你知道我们吗？
+154,シヴァ,無論。<br>我は万象悉くを御する。,当然。吾可驾驭森罗万象。
+155,シヴァ,我が名はシヴァ。<br>劫火を以って破壊と再生の末に<br>“救い”を与えるもの。,吾名为湿婆。以劫火带来破坏和再生，最终赐予“救赎”之人。
+156,ルリア/露莉亚,シヴァさん……っていうんですね。<br>はじめまして。,是湿婆先生啊……。初次见面。
+157,白蛇,シュー……,嘶……。
+158,シヴァ,是はナーガラージャ。<br>我が寵愛する蛇君である。,这是娜迦拉嘉。吾所宠爱的蛇君。
+159,ビィ/碧,蛇君ぃ？,蛇君？
+160,白蛇,<span class='scene-font-4'>シャァァァァ！</span>,<span class='scene-font-4'>嚇啊！</span>
+161,ビィ/碧,うおっ！<br>なんだよ、やるのか！？,唔哦！什么啊，想打架吗！？
+162,ルリア/露莉亚,ま、まあまあ、ビィさん。,冷静，冷静，碧先生。
+163,ルリア/露莉亚,ナーガラージャさんっていうんですね！<br>こんにちは。私はルリアです。,你是娜迦拉嘉小姐吧！你好，我是露莉亚。
+164,ビィ/碧,で？　姬塔はどっかで<br>会ったことがあるみてぇだけど、<br>一体どこでだ？,那么，姬塔你好像在哪见过他，具体是在哪见到的？
+167,,<span class='scene-font-katari'>姬塔は、ビィとルリアに</span><br><span class='scene-font-place'>クルーガー島</span><span class='scene-font-katari'>の寺院で、</span><br><span class='scene-font-katari'>シヴァと出会っていた事を説明する。</span>,<span class='scene-font-katari'>姬塔向碧了露莉亚说明了一下在科尔加岛的寺院里遇到湿婆的事。</span>
+168,,<span class='scene-font-katari'>夢枕に立ったシヴァと刃を交え、</span><br><span class='scene-font-katari'>彼の課す試練を乗り越えたのだ。</span>,<span class='scene-font-katari'>与在梦中出现的湿婆交战，跨越了他提出的试炼。</span>
+171,ルリア/露莉亚,そんなことがあったんですか……！,原来发生过这种事……！
+172,ビィ/碧,オイラ達は寝てたってのか？<br>妙な話だぜ……,我们那时候都睡着了？真是奇妙的事啊……
+173,,<span class='scene-font-katari'>予期せぬ相手との、</span><br><span class='scene-font-katari'>予期せぬ邂逅に戸惑う一行。</span>,<span class='scene-font-katari'>与预料之外的对象的预料之外的邂逅让众人都感到困惑。</span>
+174,,<span class='scene-font-katari'>一方で悠然と構えていたシヴァは</span><br><span class='scene-font-katari'>再び口を開いた。</span>,<span class='scene-font-katari'>另一方面，悠闲自在的湿婆再次开口了。</span>
+175,シヴァ,して、人の子よ。,那么，人之子啊。
+176,シヴァ,彼らを引き連れ、<br>この地で何をしている？,你带着他们，在这里做什么？
+177,シヴァ,この地は最早、生ある者が<br>立ち入るべきではない。,这里已经不是活人应该来的地方了。
+178,,<span class='scene-font-katari'>見定めるように投げられる</span><br><span class='scene-font-katari'>シヴァの鋭い視線。</span>,<span class='scene-font-katari'>湿婆投来锐利的视线像是要看清一切。</span>
+179,,<span class='scene-font-katari'>その得も言われぬ圧に、</span><br><span class='scene-font-katari'>蛇に睨まれた蛙の如く、</span><br><span class='scene-font-katari'>動けなくなる姬塔だった。</span>,<span class='scene-font-katari'>其无言的压力让姬塔像是被蛇盯着的青蛙一样无法动弹。</span>
+info,,,scene_fate_chr515_ep1
+备注,,,翻译：shala9999

@@ -1,0 +1,102 @@
+id,name,text,trans
+0-chapter_name,,遼遠なる郷国,遥远的故国
+0-synopsis,,退位したフォリアは真王の手から逃れるため、カインの計らいでイデルバ王国を永久追放され、自由を得た。出国後、フォリアはゼエンを頼り<span class='scene-font-place'>クルーガー島</span>を訪れる。ゼエンはフォリアとハクタクの間の絆が教えの最奥に近いことを見抜くが、フォリア達の意志を汲んで旅を続けさせる。フォリアは遠くに見える<span class='scene-font-place'>グロース島</span>に郷愁を覚えながら、ハクタクと共に旅を続けるのだった。,为了让退位的芙莉亚从真王的手上逃脱，该隐使计让芙莉亚以永久流放的形式，获得自由。出国后，芙莉亚依托着泽恩，来到<span class='scene-font-place'>科尔加岛</span>泽恩察觉到芙莉亚与白泽之间的牵绊与教义的根源相近，在得到了芙莉亚他们的意志之后，便继续让他们旅行了。芙莉亚他们远远地看着<span class='scene-font-place'>古洛斯岛</span>一边品味着乡愁的滋味，一边踏上旅途。
+1,,<span class='scene-font-katari'>グレートウォールの崩壊から</span><br><span class='scene-font-katari'>暫く経った後、フォリアはハクタクと</span><br><span class='scene-font-place'>クルーガー島</span><span class='scene-font-katari'>を訪れていた。</span>,<span class='scene-font-katari'>在长城崩坏的</span><br><span class='scene-font-katari'>的一段时间后，芙莉亚与白泽一同</span><br><span class='scene-font-place'>到访了</span><span class='scene-font-katari'>科尔加岛</span>
+6,ゼエン,まさか君が直々に<br>私のもとを訪れるとはね。,没想到你会如此直接的<br>来找我啊。
+7,フォリア/芙莉亚,はっ……白々しい。<br>お得意の千里眼で、妾が来ることなど<br>とうに見通しておったのじゃろ？,哈……可笑。<br>你那厉害的千里眼，妾身回来这种事情<br>早就知道了吧？
+8,ゼエン,いかにも。<br>だからこうして<br>手厚く歓迎しているのだ。,正是。<br>所以才这样<br>热情的欢迎你啊
+9,,<span class='scene-font-katari'>イデルバ王国の建国者であり、</span><br><span class='scene-font-katari'>国王として民を守りながら、</span><br><span class='scene-font-katari'>国を立派に育て上げたフォリア。</span>,<span class='scene-font-katari'>作为伊提巴王国的建立者，</span><br><span class='scene-font-katari'>一边守护着王国与人民，</span><br><span class='scene-font-katari'>一边出色地治理着国家。</span>
+10,,<span class='scene-font-katari'>ナル・グランデ空域に迫っていた</span><br><span class='scene-font-katari'>真王の謀略を退けた後、</span><br><span class='scene-font-katari'>彼女の立場は大きく変化していた。</span>,<span class='scene-font-katari'>在击退逼迫至纳尔・格兰德空域</span><br><span class='scene-font-katari'>的真王的谋略之后，</span><br><span class='scene-font-katari'>她的立场也发生了很大改变。</span>
+15,,<span class='scene-font-katari'>それはほんの数日前のこと、</span><br><span class='scene-font-katari'>フォリアはイデルバ王国の民の前で</span><br><span class='scene-font-katari'>高らかに宣言した。</span>,<span class='scene-font-katari'>那是数日前的事情，</span><br><span class='scene-font-katari'>芙莉亚在伊提巴王国国民面前</span><br><span class='scene-font-katari'>进行了宣言。</span>
+16,フォリア/芙莉亚,いまこそ、<br>我が名において宣言しよう。,现在，<br>以我之名进行宣言。
+17,フォリア/芙莉亚,妾は正式に、<br>イデルバ国王の座から退位する。,妾身正式，<br>从伊提巴国王之位退位。
+18,フォリア/芙莉亚,いまこそ、<br>この国をナル・グランデの民に返そう。,现在，<br>就将这个王国还给纳尔・格兰德的人民。
+19,,<span class='scene-font-katari'>突然の国王退位の宣言に</span><br><span class='scene-font-katari'>イデルバ王国の民は色めき立った。</span>,<span class='scene-font-katari'>在突然的退位宣言下，/span><br><span class='scene-font-katari'>伊提巴国民神色各异。</span>
+24,,<span class='scene-font-katari'>そこへ、機を見計らったように</span><br><span class='scene-font-katari'>イスタバイオン王国の特使が現れ、</span><br><span class='scene-font-katari'>フォリアにある要求を突きつける。</span>,<span class='scene-font-katari'>这时，瞅到机会的</span><br><span class='scene-font-katari'>伊斯塔拜昂王国特使出现了，</span><br><span class='scene-font-katari'>向芙莉亚提出了几个要求。</span>
+25,アニシダ,イスタバイオン王国国王、<br>真王陛下の命により、<br>アタシらが伝える要求は３つ。,根据伊斯塔拜昂国王，<br>真王陛下的命令，<br>由我传达三个命令。
+26,アニシダ,１つ。真王陛下のご息女であられる<br>フォリア王女の<br>イスタバイオン王国への帰還。,第一。作为真王陛下的女儿，<br>芙莉亚王女<br>向伊斯塔拜昂王国的返还。
+27,アニシダ,２つ。同じく真王陛下のご息女であり、<br>フォリア王女の妹君、アリア王女の<br>イスタバイオン王国への帰還。,第二。同为真王陛下的女儿的<br>芙莉亚王女的妹妹，艾丽娅王女<br>向伊斯塔拜昂王国的返还。
+28,アニシダ,３つ。真王陛下の配下である騎士、<br>緋色の騎士バラゴナの<br>イスタバイオン王国への返還……,第三。真王陛下麾下的骑士，<br绯色骑士巴拉格纳<br>向伊斯塔拜昂王国的返还……
+29,,<span class='scene-font-katari'>逃れられない宿命を感じ、</span><br><span class='scene-font-katari'>フォリアは自らの身を引き渡すことで</span><br><span class='scene-font-katari'>全ての幕引きをしようと試みるが……</span>,<span class='scene-font-katari'>感到无法逃脱的命运的</span><br><span class='scene-font-katari'>芙莉亚想要利用自己</span><br><span class='scene-font-katari'>将全部的黑幕引出……</span>
+34,カイン/该隐,陛下……<br>ひとつ、相談があるんだ。,陛下……<br>能否，借一步说话。
+35,フォリア/芙莉亚,……？,……？
+36,,<span class='scene-font-katari'>カインの提案により、</span><br><span class='scene-font-katari'>イデルバ王国からの永久追放という形で</span><br><span class='scene-font-katari'>フォリアは自由を手に入れたのだった。</span>,<span class='scene-font-katari'>根据该隐的提案，</span><br><span class='scene-font-katari'>以从伊提巴永久流放的形式，</span><br><span class='scene-font-katari'>将芙莉亚变为自由身。</span>
+41,フォリア/芙莉亚,全く……妾はもう<br>国王の身分を捨て、<br>ただの村娘も同然というに。,真是的……妾身明明已经<br>舍弃了国王的身份，<br>与一介村姑别无二致。
+42,フォリア/芙莉亚,発着場に着けばお主の弟子が勢揃いで、<br>あれよあれよと食事の席が用意され、<br>まるで国賓扱いじゃ。,到的时候你的弟子阵势浩大，<br>招呼这个招呼那个准备了一桌食物，<br>好像我是什么国宾一样。
+43,ゼエン,しかし、困っていたのだろう？<br>ロクな用意もなく<br>国を出たはずだ。,但是，你们也很不便吧？<br>没有什么准备<br>就出国了。
+44,ゼエン,君達が真王の要求に背いたことで、<br>イスタバイオン軍が君の消息を追い、<br>諸国を嗅ぎ回っている。,你们背离了真王的要求，<br>伊斯塔拜昂的军队正为了搜寻你们，<br>在各国转来转去。
+45,ゼエン,奴らから逃れられ、尚且つ<br><span class='scene-font-place'>グロース島</span>から程近いこの島は、<br>逃げ場所として最適であったはずだ。,从他们手里逃脱，而且作为离<br><span class='scene-font-place'>古洛斯岛</span>距离最近的岛，<br>作为逃亡地是最合适的。
+46,ハクタク/白泽,ええ、仰る通りです。,是啊，正如你所说。
+47,ハクタク/白泽,しかし、貴方が我が王を<br>受け入れるかどうかは賭けでした。,但是，你能够接收吾王<br>也是做了很大的赌注。
+48,ハクタク/白泽,我が王も口ではこう言っていますが、<br>心の中ではありがたく<br>思っているはずです。,吾王虽然嘴上这么说，<br>心中其实很感激你。
+49,ゼエン,委細、把握している。<br>準備が整うまで<br>島に滞在していきなさい。,我已经掌握了细节。<br>在你们准备好之前<br>就留在岛上吧。
+50,フォリア/芙莉亚,ふむ……ずいぶんと<br>優しくしてくれるものじゃな。,唔姆……你真是<br>照顾周到啊。
+51,フォリア/芙莉亚,助けてもらった身で<br>このようなことを訊くのも<br>変な話ではあるが……,作为被救助的人，<br>询问这样的事情<br>也许有些奇怪……
+52,フォリア/芙莉亚,イデルバの遣いを送っても<br>聞く耳すら持たなかったお主が、<br>一体どういう心境の変化じゃ？,即使将伊提巴的慰问品送过来<br>也对此不闻不问的你，<br>究竟是为什么？
+53,ゼエン,何、君がイデルバとは関係のない<br>ただの村娘になったからこそ、<br>保護したまでだ。,因为你已经和伊提巴王国毫无关系<br>只是一介村姑，<br>我只是在保护村姑罢了。
+54,ゼエン,私とて冷酷非情の鬼ではない。<br>そちらの状況が変われば<br>こちらの出方も変わる。,我也不是什么残酷的恶鬼。<br>你的状况变了，<br>我的对应方式也会变。
+55,フォリア/芙莉亚,なるほど、<br>賢者を名乗るだけの<br>懐の深さはあるようじゃの。,原来如此，<br>不愧是贤者，<br>胸怀宽广。
+56,,<span class='scene-font-katari'>フォリアはほろ苦い茶を口に含み、</span><br><span class='scene-font-katari'>畏まった様子で背筋を伸ばした。</span>,<span class='scene-font-katari'>芙莉亚喝了一口微苦的茶，</span><br><span class='scene-font-katari'>正襟危坐，舒展了一下身子。</span>
+57,フォリア/芙莉亚,礼を言うぞ。<br>こうして妾とハクタクを<br>受け入れてくれたこともじゃが……,谢谢你。<br>虽然包含你收留了<br>我和白泽……
+58,フォリア/芙莉亚,お主が姬塔達に力を貸して<br>くれなければ、ナル・グランデは今頃<br>死の空域と化しておったじゃろう。,但是你如果没有<br>帮助姬塔，纳尔·格兰德空域现在已经<br>一片死寂了吧。
+59,フォリア/芙莉亚,妾もナル・グランデの住人の<br>ひとりじゃ。故郷が失われるのは<br>想像するだけで胸が痛む。,妾身也是纳尔·格兰德的住民之一。无法想象<br>丧失家园的痛苦。
+60,ゼエン,私はほんの少し手助けをしただけだ。<br>真に讃えられるべきは<br>姬塔達だろう。,我只是稍微推了他们一把。<br>真正应该感谢的<br>是姬塔他们。
+61,フォリア/芙莉亚,うむ、まさかお主と<br>意見が合う日が来るとはの。,唔姆，没想到<br>有一天会与你意见相通啊。
+63,,<span class='scene-font-katari'>フォリアは満足げに微笑み、</span><br><span class='scene-font-katari'>甘い茶菓子を頬張る。</span>,<span class='scene-font-katari'>芙莉亚一脸满足地，</span><br><span class='scene-font-katari'>吃下了茶点。</span>
+64,フォリア/芙莉亚,カインより<br>この<span class='scene-font-place'>クルーガー島</span>の<br>星晶獣の力については聞いておる。,从该隐那里听说了，<br>这座<span class='scene-font-place'>科尔加岛</span>的<br>星晶兽的力量。
+65,フォリア/芙莉亚,今ある情報から未来を計算し、<br>導き出せる力、つまり<br>未来予測という話じゃったな。,以现有的情报为基础，计算未来，<br>并对此诱导，也就是说<br>预测未来。
+66,フォリア/芙莉亚,空の底へ向かった姬塔達の<br>その後については何か見えぬのか？,向空之底出发的姬塔他们的<br>未来能看到什么吗？
+67,ゼエン,残念ながら、<br>空の底についての情報がない以上、<br>予見することは不可能に等しい。,很遗憾，<br>鉴于没有空之底的相关情报，<br>预测未来是不可能的。
+68,ゼエン,しかし、数々の困難を切り抜けてきた<br>姬塔達のことだ、<br>この程度で屈することはないだろう。,但是，姬塔他们一路上越过了无数的困难<br>这种程度的困难还不会打倒他们。
+69,フォリア/芙莉亚,千里眼の賢者も淡い願望を<br>語ることがあるのだな。,千里眼的贤者也会<br>期许着淡淡的愿望啊。
+70,ゼエン,私とて人間だ。<br>それに、君も根拠もなく<br>私と同意見なのではないかな？,我也是人。<br>而且，即使没有根据，<br>你不是也同意我说的吗？
+71,フォリア/芙莉亚,くくく……どうも今日は<br>お主と意見が合って<br>仕方がないようじゃの。,哈哈哈……看来今天<br>是无论如何<br>也会和你的意见相通了啊。
+72,,<span class='scene-font-katari'>茶と甘い菓子を堪能すると、</span><br><span class='scene-font-katari'>フォリアは寛いだ様子で</span><br><span class='scene-font-katari'>大きく伸びをする。</span>,<span class='scene-font-katari'>享受着茶和茶点，</span><br><span class='scene-font-katari'>芙莉亚逐渐放松，</span><br><span class='scene-font-katari'>伸了个懒腰。</span>
+73,,<span class='scene-font-katari'>そんなフォリアにゼエンは</span><br><span class='scene-font-katari'>ふと思いついた様子で</span><br><span class='scene-font-katari'>問いかける。</span>,<span class='scene-font-katari'>看着这样的芙莉亚，</span><br><span class='scene-font-katari'>泽恩像是突然想到什么</span><br><span class='scene-font-katari'>开口问道。</span>
+74,ゼエン,先程、準備が整うまで<br>島に滞在していきなさいと<br>言ったが……,先前，我说过<br>在准备好之前<br>就留在岛上……
+75,ゼエン,行き先がないのなら、<br>ここで修行をする道もあるということも<br>伝えておこう。,如果没有去处的话，<br>就在这里将修行的方法<br>教给你吧。
+76,フォリア/芙莉亚,妾にこの島で暮らせと？,让妾身在岛上生活吗？
+77,ゼエン,ここならばイスタバイオン軍から<br>君を匿うことも可能だ。<br>そう悪い話ではないだろう。,这里可以让你逃过<br>伊斯塔拜昂军队的搜索。<br>也不是一件坏事吧。
+78,フォリア/芙莉亚,ほう……<br>今日のお主はなかなか<br>面白いことを言う。,哦……<br>今天你总是说一些<br>有趣的话啊。
+79,フォリア/芙莉亚,折角の誘いじゃが、断る。<br>ここの料理は味付けが薄くて<br>かなわんからの。,虽然是难得的邀请，但是容我拒绝。<br>这里的饭菜味道实在是<br>淡到极致了。
+82,フォリア/芙莉亚,世話になった、ゼエンよ。<br>料理はともかく、<br>茶菓子はなかなかに美味かった。,受你照顾了，泽恩啊。<br>先不说料理，<br>茶点还是很美味的。
+83,フォリア/芙莉亚,ゆくぞ、ハクタク。,走了，白泽。
+84,ハクタク/白泽,仰せのままに、我が王よ。,谨遵吾王吩咐。
+87,,<span class='scene-font-katari'>長居はしないと宣言するように、</span><br><span class='scene-font-katari'>フォリアとハクタクは</span><br><span class='scene-font-katari'>颯爽と客間を出ていく。</span>,<span class='scene-font-katari'>爽快地宣布不会长居之后，</span><br><span class='scene-font-katari'>芙莉亚与白泽，</span><br><span class='scene-font-katari'>利落地走出客房。</span>
+88,ゼエン,…………,…………
+89,ゼエン,<span class='scene-font-kokoro'>（フォリアとハクタクの間に結ばれた</span><br><span class='scene-font-kokoro'>信頼関係、あれは教えの最奥に</span><br><span class='scene-font-kokoro'>近いものを感じさせる）</span>,<span class='scene-font-kokoro'>（芙莉亚与白泽之间缔结的</span><br><span class='scene-font-kokoro'>信赖关系，与教义的根源</span><br><span class='scene-font-kokoro'>很相近了）</span>
+90,ゼエン,<span class='scene-font-kokoro'>（その才能を開花させるのも</span><br><span class='scene-font-kokoro'>ひとつの道ではあるが……</span><br><span class='scene-font-kokoro'>今の彼らには不要だったか）</span>,<span class='scene-font-kokoro'>（让那份才能开花结果</span><br><span class='scene-font-kokoro'>也不失为一条道路……</span><br><span class='scene-font-kokoro'>但是对于现在的他们来说还不是必要的啊）</span>
+91,,<span class='scene-font-katari'>フォリア達の出ていった扉に</span><br><span class='scene-font-katari'>視線を向けたまま、</span><br><span class='scene-font-katari'>ゼエンは静かに微笑んだ。</span>,<span class='scene-font-katari'>静静地看向</span><br><span class='scene-font-katari'>芙莉亚他们离去的方向，</span><br><span class='scene-font-katari'>泽恩淡淡地笑着。</span>
+96,,<span class='scene-font-katari'>フォリアはハクタクを連れ、</span><br><span class='scene-font-place'>クルーガー島</span><span class='scene-font-katari'>の外縁に立って</span><br><span class='scene-font-katari'>遠くを眺めていた。</span>,<span class='scene-font-katari'>芙莉亚带着白泽，站在</span><br><span class='scene-font-place'>科尔加岛</span><span class='scene-font-katari'>的边缘</span><br><span class='scene-font-katari'>向远处眺望。</span>
+97,,<span class='scene-font-katari'>陽光に染まった雲海に浮かぶ</span><br><span class='scene-font-katari'>美しき</span><span class='scene-font-place'>グロース島</span><span class='scene-font-katari'>、</span><br><span class='scene-font-katari'>故郷と呼んだ場所がそこにはあった。</span>,<span class='scene-font-katari'>在阳光照射下漂浮在云层中的</span><br><span class='scene-font-katari'>美丽的</span><span class='scene-font-place'>古洛斯岛</span><span class='scene-font-katari'>，</span><br><span class='scene-font-katari'>那里是可以称之为故乡的地方。</span>
+102,フォリア/芙莉亚,<span class='scene-font-place'>首都ルクスリエース</span>……<br>つい最近まで妾もあの場所に<br>いたのじゃな。,<span class='scene-font-place'>首都鲁克塞利尔斯</span>……<br>直到最近妾身<br>也还在那里啊。
+103,フォリア/芙莉亚,島は目と鼻の先じゃ。<br>しかし、今はどうして遥か遠くに<br>感じるのじゃろうな……,岛屿就在眼前。<br>但是，为什么现在<br>却感到是那么遥不可及……
+104,ハクタク/白泽,それは寂しいと思っているからでは<br>ないのですか？,这岂不是说明您<br>感到寂寞了吗？
+105,フォリア/芙莉亚,ふむ……そういうものかの。,唔姆……是这样吗。
+106,フォリア/芙莉亚,カインやレオナのような<br>からかい甲斐のある者がおらんから、<br>単に退屈しておるだけかもしれんぞ？,也许只是像该隐和蕾欧娜那样的<br>值得调戏的人不在身边，<br>单纯地感到无聊也说不定哦？
+107,ハクタク/白泽,彼らは玩具ではありませんよ。<br>過ぎた悪戯はいけません。,他们并不是玩具。<br>不能过度的戏弄。
+108,フォリア/芙莉亚,くくく……<br>相変わらず、お主は真面目よの。,哈哈哈……<br>还是没变，你还是一样认真啊。
+109,,<span class='scene-font-katari'>フォリアはハクタクの首を</span><br><span class='scene-font-katari'>フカフカの毛に手を埋めるようにして</span><br><span class='scene-font-katari'>優しく撫でる。</span>,<span class='scene-font-katari'>芙莉亚将手埋进白泽</span><br><span class='scene-font-katari'>那柔软的毛发中</span><br><span class='scene-font-katari'>悠悠地抚摸着。</span>
+110,フォリア/芙莉亚,<span class='scene-font-kokoro'>（胸にぽっかりと穴が空いたようなとは</span><br><span class='scene-font-kokoro'>よくいったものじゃが……）</span>,<span class='scene-font-kokoro'>（心口像是突然破了大洞一般</span><br><span class='scene-font-kokoro'>也不是什么稀奇事……）</span>
+111,フォリア/芙莉亚,<span class='scene-font-kokoro'>（寂しい……この気持ちは、</span><br><span class='scene-font-kokoro'>案外そのような簡単な言葉で</span><br><span class='scene-font-kokoro'>片づけられるものなのかもしれん）</span>,<span class='scene-font-kokoro'>（寂寞……这种心情</span><br><span class='scene-font-kokoro'>也许正是这种简单的语言</span><br><span class='scene-font-kokoro'>就能描述的）</span>
+112,ハクタク/白泽,いかがされましたか？,您怎么了吗？
+113,フォリア/芙莉亚,……ハクタクよ、<br>妾はイデルバが好きじゃった。,……白泽啊，<br>妾身喜欢伊提巴。
+114,フォリア/芙莉亚,美しく、したたかで、<br>妾の誇りそのものじゃった。<br>あの国での暮らしは夢のようでの……,美丽，又强大，<br>是妾身的荣耀。<br>在那个国家生活就像是梦境一般……
+115,フォリア/芙莉亚,妾はもうイデルバには戻れん。<br>しかしあの国を故郷と思いたい気持ちは<br>変わりそうにない。,妾身已经不会回到伊提巴。<br>但是那个国家会一直不变<br>会是我永久的故乡。
+116,ハクタク/白泽,その気持ちを偽る必要はありません。<br>どこを故郷と思うかは貴方の自由です。,没有必要伪造这种心情。<br>将哪里认作故乡是您的自由。
+117,ハクタク/白泽,貴方は全てのしがらみから解放された<br>自由の身。自ら何かに縛られようと<br>しなくて良いのです。,您已经是从所有的事物中解脱的<br>自由之身。还是不要自己束缚自己<br>方为上策。
+118,フォリア/芙莉亚,うむ、お主も良いことを言うの。,嗯，你也会说一些哲理的话啊。
+120,ハクタク/白泽,私は貴方が一国の王であるがゆえに<br>我が王と呼んでいたわけでは<br>ありません。,我并不是因为您是一国之主<br>才称呼您为<br>吾王的。
+121,ハクタク/白泽,私は貴方に王たる資質を見た。<br>そして私は王に侍る星の獣。,我看到了您身上有成王的资质。<br>而且我是侍奉王的星晶兽。
+122,ハクタク/白泽,私が貴方を王と呼ぶ理由は、<br>それで十分です。,我称呼您为王的理由，<br>这已足够。
+123,フォリア/芙莉亚,ふっ……ならばよい。<br>王と呼ぶからには、<br>どこまでも付いて参れよ、ハクタク。,哼……那便好。<br>既然称呼我为王，<br>那就要跟着我南征北战了，白泽。
+125,フォリア/芙莉亚,…………,…………
+126,,<span class='scene-font-katari'>ハクタクの首元に顔を埋めながら、</span><br><span class='scene-font-katari'>フォリアは国王退位を決意した時の</span><br><span class='scene-font-katari'>やり取りを振り返る。</span>,<span class='scene-font-katari'>将脸埋在白泽的颈子上，</span><br><span class='scene-font-katari'>芙莉亚取回了退位时的</span><br><span class='scene-font-katari'>决心。</span>
+127,フォリア/芙莉亚,いつか自由になって旅に出るのなら、<br>ひとり旅でも構わぬと<br>思っておったが……,以前总想着，<br>如果有一天能恢复自由，<br>就算一个人也要去旅行……
+128,フォリア/芙莉亚,お主がついて来てくれたことを<br>妾は心底嬉しく思っておる。,但是你能跟来<br>妾身从心底里感到欢喜。
+129,フォリア/芙莉亚,妾のもとを離れるでないぞ、<br>ハクタク。,不能从妾身身边离开啊，<br>白泽。
+130,ハクタク/白泽,無論です、我が王よ。,当然，吾王啊。
+131,フォリア/芙莉亚,うむ、良い返事じゃ！,嗯，回答的好！
+132,,<span class='scene-font-katari'>温もりを確かめるように、</span><br><span class='scene-font-katari'>フォリアは更に強くハクタクの首元に</span><br><span class='scene-font-katari'>額を押しつける。</span>,<span class='scene-font-katari'>为了确认这个温度</span><br><span class='scene-font-katari'>芙莉亚更加用力地</span><br><span class='scene-font-katari'>贴在白泽颈子上。</span>
+137,,<span class='scene-font-katari'>虚空な自由に投げ出されたふたりを</span><br><span class='scene-font-katari'>見守るように、故郷の島はただ</span><br><span class='scene-font-katari'>遠くの空に佇んでいるのだった。</span>,<span class='scene-font-katari'>故乡的岛</span><br><span class='scene-font-katari'>静静地伫立在天边，</span><br><span class='scene-font-katari'>守望着被投放到虚无的自由中的二人。</span>
+info,麻友桑的话筒,,scene_fate_chr482_ep1

@@ -1,0 +1,96 @@
+id,name,text,trans
+0-chapter_name,,悪意無き悪意,毫无恶意的恶意
+0-synopsis,,激しく凄惨な死闘を制した姬塔一行の前で、突如ロベリアの肉体が破裂する。タワーの力により再生したロベリアは、契約の代償として、これまで契約者が行ってきた全ての破壊を受けるのだと幸せそうに語り、自身が破壊される音を楽しむ。ロベリアによりレストランへと帰還させられた姬塔の手には、いつの間にかタワーのカードと巻き貝が握られていたのだった。,在赢得了激烈又凄惨的死斗后，罗贝利亚的肉体在姬塔一行人面前突然破裂了。借由塔的力量重生的罗贝利亚，幸福地告知契约的代价是契约者将要承受至今为止实施的所有破坏，享受着自己被破坏的声音。被罗贝利亚送回餐厅的姬塔，塔的卡片以及一枚海螺，不知何时出现在了手中。
+2,,<span class='scene-font-katari'>姬塔とロベリアは</span><br><span class='scene-font-katari'>それこそ戦争を想起させる程、</span><br><span class='scene-font-katari'>激しく凄惨な死闘を繰り広げていた。</span>,<span class='scene-font-katari'>姬塔和罗贝利亚</span><br><span class='scene-font-katari'>进行着像是至今为止的战争般的，</span><br><span class='scene-font-katari'>激烈而又凄惨的死斗。</span>
+3,,<span class='scene-font-katari'>そして、地面が砕けて陥没し、</span><br><span class='scene-font-katari'>地形が大きく変わるほどの闘いを</span><br><span class='scene-font-katari'>制したのは──</span>,<span class='scene-font-katari'>最终，赢得这场连地面都陷落塌碎，</span><br><span class='scene-font-katari'>甚至让地形大幅度变化的</span><br><span class='scene-font-katari'>战斗的——</span>
+4,ロベリア,くはっ、あははっ！！,哈哈，啊哈哈！！
+5,ロベリア,くはっ！　あはははっ！<br>トレッビアンッ！！,哈哈！　啊哈哈哈！<br>Très bien（太棒了）！！
+7,,<span class='scene-font-katari'>姬塔であった。</span>,<span class='scene-font-katari'>是姬塔。</span>
+8,ルリア/露莉亚,はぁ、はぁ……<br>信じられない、力でした……,哈、哈……<br>真是让人无法置信的、力量……
+9,ビィ/碧,勝てたのが奇跡だ……<br>なんて強さだよ……,能获胜都是奇迹了……<br>这是有多强啊……
+10,ビィ/碧,でもこれで……<br>終わったんだよな……,但是这样……<br>就结束了吧……
+12,ロベリア,くはっ、あははっ！,哈哈，啊哈哈！
+13,ビィ/碧,なっ！？<br>ま、まだ立てるのかよ！！,什么！？<br>他、他还站得起来吗！！
+14,ロベリア,<span class='scene-font-2'>ノン……くはっ！</span><br><span class='scene-font-2'>フィナールだ。</span><br><span class='scene-font-2'>オレは、失敗した。</span>,<span class='scene-font-2'>Non（不）……哈哈！</span><br><span class='scene-font-2'>是Final（终曲）了。</span><br><span class='scene-font-2'>我，失败了。</span>
+15,ザ・タワー,…………,…………
+16,ロベリア,<span class='scene-font-2'>ああ、</span><br><span class='scene-font-2'>都合のいい力なんて</span><br><span class='scene-font-2'>早々ありはしないよな。</span>,<span class='scene-font-2'>啊啊，</span><br><span class='scene-font-2'>方便又好用的力量什么的</span><br><span class='scene-font-2'>果然是不存在的啊。</span>
+17,ロベリア,<span class='scene-font-2'>今ならわかるよ。</span><br><span class='scene-font-2'>タワー……キミの契約者が……</span><br><span class='scene-font-2'>何故、永い事現れなかったのか……</span>,<span class='scene-font-2'>现在我能明白哦。</span><br><span class='scene-font-2'>塔……为何你的契约者……</span><br><span class='scene-font-2'>在久远的时间里，从未出现过……</span>
+18,ロベリア,<span class='scene-font-2'>くはっ、いや、</span><br><span class='scene-font-2'>現れては消えていた……</span><br><span class='scene-font-2'>というのが、正確、か。</span>,<span class='scene-font-2'>哈哈，不对，</span><br><span class='scene-font-2'>该说是出现之后消失了……</span><br><span class='scene-font-2'>才是正确的、吧。</span>
+19,ザ・タワー,…………,…………
+20,ビィ/碧,なにブツブツいってんだ……？,你在嘀嘀咕咕说什么啊……？
+21,ロベリア,すぐにわかるさ。<br>ほら、ウヴェルテュールが<br>奏でられるぜ──,马上就会明白的哦。<br>看吧，Ouverture（序曲）<br>将要奏响──
+22,,<span class='scene-font-katari'>満身創痍になりながら、</span><br><span class='scene-font-katari'>歌うように語るロベリアを、</span><br><span class='scene-font-katari'>一行は怪訝そうに睨む。</span>,<span class='scene-font-katari'>一行人诧异地看着</span><br><span class='scene-font-katari'>即便满身疮痍，仍用歌唱的语气</span><br><span class='scene-font-katari'>开口的罗贝利亚。</span>
+23,,<span class='scene-font-katari'>だが次の瞬間──</span>,<span class='scene-font-katari'>然而下个瞬间──</span>
+24,ロベリア,がっ…………！,咳…………！
+33,ビィ・ルリア/碧・露莉亚,<span class='scene-font-4'>ひっ！？</span>,<span class='scene-font-4'>咿！？</span>
+34,,<span class='scene-font-katari'>一行の目の前で、</span><br><span class='scene-font-katari'>ロベリアは破裂した。</span>,<span class='scene-font-katari'>罗贝利亚在一行人的眼前，</span><br><span class='scene-font-katari'>破裂了。</span>
+35,,<span class='scene-font-katari'>あまりの出来事に</span><br><span class='scene-font-katari'>一行は顔を青くする。</span>,<span class='scene-font-katari'>一行人被突如其来的事件</span><br><span class='scene-font-katari'>吓得脸色铁青。</span>
+36,ルリア/露莉亚,ロベ、リア……さん……？,罗贝、利……亚……？
+37,ビィ/碧,なにが、起きたんだよ……！！,究竟是，发生了什么啊……！！
+38,ザ・タワー,…………,…………
+39,,<span class='scene-font-katari'>一行が狼狽えている中、タワーは</span><br><span class='scene-font-katari'>巨大な拳を強く握りしめる。</span>,<span class='scene-font-katari'>在一行人慌张的时候，</span><br><span class='scene-font-katari'>塔用力握紧了巨大的拳头。</span>
+40,,<span class='scene-font-katari'>すると眩い閃光が</span><br><span class='scene-font-katari'>あたりを包み込む。</span>,<span class='scene-font-katari'>于是炫目的闪光</span><br><span class='scene-font-katari'>将这一带包裹。</span>
+46,,<span class='scene-font-katari'>しばらくして閃光が消えると、</span><br><span class='scene-font-katari'>五体満足のロベリアが</span><br><span class='scene-font-katari'>一行の目の前で横たわってた。</span>,<span class='scene-font-katari'>过了一会儿闪光便消失了，</span><br><span class='scene-font-katari'>而四肢健全的罗贝利亚</span><br><span class='scene-font-katari'>横躺在了一行人面前。</span>
+47,ロベリア,はぁ……はぁ……！！<br>ああ、ぐっ……！！,哈……哈……！！<br>啊啊、咕……！！
+48,ビィ/碧,な、え……！？<br>クラポティ兄ちゃん！？<br>なんで、マジで何が起きてんだ！？,什、诶……！？<br>海螺小哥！？<br>怎么，这究竟是怎么回事啊！？
+49,ロベリア,キミらが……見た通りさ。<br>くはっ、あはは……！,就像你们……看到的那样啊。<br>哈哈，啊哈哈……！
+50,ロベリア,これが、タワーの<span class='scene-font-spword'>“代償”</span>だ……！,这就是、塔的<span class='scene-font-spword'>“代价”</span>啊……！
+51,ビィ/碧,代償だって……？,你说代价……？
+52,ロベリア,タワーは契約者が一度でも<br>破壊に失敗すると……,塔的契约者只要有一次<br>没能成功实行破坏……
+53,ロベリア,これまでに契約者が行ってきた<br>全ての破壊を……<br>契約者に与える……！,至今为止契约者所实施的<br>全部的破坏……<br>都会被塔施加于契约者……！
+54,ロベリア,くはっ！　あははっ！<br>例え契約者が途中で死んでも！<br>蘇らせてバツを与えるんだ！,哈哈！　啊哈哈！<br>即使契约者在途中死亡！<br>也会被其复活继续给予惩罚！
+55,ビィ/碧,な、なんだって……！？<br>それじゃ、お前は……！,你、你说什么……！？<br>那、那这样你会……！
+56,ロベリア,オレは、<br>クラポティコレクションと<br>同じ数だけ、壊され続ける……！,我会、<br>被持续破坏、和我的海螺收藏<br>相同的次数……！
+57,ルリア/露莉亚,そ、そんな……！！,怎、怎么会……！！
+58,ロベリア,さっきのは、パパの破壊だ……<br>なら、次はママのッ……！,刚刚的是，爸爸的破坏……<br>接下来，就是妈妈的……！
+60,ロベリア,ぐ、ぐああっ、いぎぁあぁあっ！,咕、咕啊啊、啊啊啊啊！
+61,,<span class='scene-font-katari'>言葉の途中でロベリアは</span><br><span class='scene-font-katari'>聞くに堪えない悲鳴をあげる。</span>,<span class='scene-font-katari'>在话语的中途，罗贝利亚</span><br><span class='scene-font-katari'>发出了让人听不下去的悲鸣。</span>
+62,,<span class='scene-font-katari'>見れば、彼の四肢は先端から</span><br><span class='scene-font-katari'>徐々に潰され始めていた。</span>,<span class='scene-font-katari'>视线之中，他的四肢正从指尖开始</span><br><span class='scene-font-katari'>一点点地溃散开来。</span>
+63,ロベリア,ぐぎっ……！<br><span class='scene-font-4'>ぁああぁあぁああ！！</span>,咕呃……！<br><span class='scene-font-4'>啊啊啊啊啊啊啊啊！！</span>
+64,,<span class='scene-font-katari'>痛みに耐え切れず、</span><br><span class='scene-font-katari'>絞り出された大きな悲鳴で、</span><br><span class='scene-font-katari'>ロベリアの喉は裂けていく。</span>,<span class='scene-font-katari'>无法忍受这样的疼痛，</span><br><span class='scene-font-katari'>用尽全身挤出的悲鸣，</span><br><span class='scene-font-katari'>撕裂了罗贝利亚的喉咙。</span>
+65,ロベリア,ごぼぁ、がほっ！<br>が、ぐ、ぐぎぃああぁあ！！,咳、咳咳！<br>啊、咕、呜啊啊啊啊啊！！
+74,,<span class='scene-font-katari'>激しく血を吹き出しながら、</span><br><span class='scene-font-katari'>ロベリアはもがき苦しみ、</span><br><span class='scene-font-katari'>その場でのたうちまわる。</span>,<span class='scene-font-katari'>血液从全身喷涌而出，</span><br><span class='scene-font-katari'>罗贝利亚痛苦地挣扎着，</span><br><span class='scene-font-katari'>倒在了原地蜷缩翻滚。</span>
+75,ロベリア,…………,…………
+76,,<span class='scene-font-katari'>そのうちロベリアは</span><br><span class='scene-font-katari'>ピクリとも動かなくなった。</span>,<span class='scene-font-katari'>片刻之后，罗贝利亚</span><br><span class='scene-font-katari'>便完全无法动弹了。</span>
+77,ザ・タワー,…………,…………
+78,,<span class='scene-font-katari'>すると先程と同じように</span><br><span class='scene-font-katari'>タワーがその巨大な拳を握りしめた。</span>,<span class='scene-font-katari'>于是像之前那次一样，</span><br><span class='scene-font-katari'>塔握紧了巨大的拳头。</span>
+84,ロベリア,くあッ！？　はぁ……！<br>はぁっ……はぁ……！,唔啊！？　哈……！<br>哈……哈……！
+85,ロベリア,<span class='scene-font-4'>ぎっ！？</span><br><span class='scene-font-4'>ぎゃあぁぁあぁあぁっ！</span>,<span class='scene-font-4'>咕！？</span><br><span class='scene-font-4'>咿啊啊啊啊啊啊啊！</span>
+88,,<span class='scene-font-katari'>蘇生するロベリアだが、</span><br><span class='scene-font-katari'>またすぐに身体が壊れ始め、</span><br><span class='scene-font-katari'>悲痛な叫び声をあげる。</span>,<span class='scene-font-katari'>复活的罗贝利亚，</span><br><span class='scene-font-katari'>身体很快再度崩坏，</span><br><span class='scene-font-katari'>发出悲痛的喊声。</span>
+89,ルリア/露莉亚,いやぁ……こんなの……！,不要……这也太……！
+90,ビィ/碧,見てらんねぇ……！！<br>助けるぞ！　姬塔！,看不下去了……！！<br>去救他吧！　姬塔！
+91,ロベリア,ぐ、よ、余計なぁ……！<br><span class='scene-font-4'>事をするなぁぁぁぁっ！</span>,咕、别、做……！<br><span class='scene-font-4'>多余的事啊啊啊啊！</span>
+92,ルリア/露莉亚,ッ！？,！？
+93,,<span class='scene-font-katari'>のたうちまわりながら、</span><br><span class='scene-font-katari'>鬼気迫る声でロベリアが叫び、</span><br><span class='scene-font-katari'>近寄ろうとした一行は足を止める。</span>,<span class='scene-font-katari'>即使痛苦地在地上翻滚，</span><br><span class='scene-font-katari'>罗贝利亚依旧用充斥威压的声音呐喊，</span><br><span class='scene-font-katari'>制止了想要靠近的一行人。</span>
+94,ロベリア,オレは……今ぁ……<br>最高に、ぎっ、ぐぐ……！<br>幸福で……満たされているんだ！,我……现在……<br>正被、唔、咕……！<br>幸福……包围着啊！
+95,ビィ/碧,そ、そんな状態で<br>なに言ってんだよお前！,你、你在这种情况下<br>说什么呢！
+96,ロベリア,くはっ、あはっ！<br>あはははははははっ！,哈哈、啊哈！<br>啊哈哈哈哈哈哈哈！
+97,,<span class='scene-font-katari'>狂ったようにロベリアは笑うと、</span><br><span class='scene-font-katari'>壊れゆく手を動かし、</span><br><span class='scene-font-katari'>指を鳴らした。</span>,<span class='scene-font-katari'>像是疯了一般，罗贝利亚笑着</span><br><span class='scene-font-katari'>挪动开始被破坏的手，</span><br><span class='scene-font-katari'>鸣响了响指。</span>
+98,,<span class='scene-font-katari'>軽快な音は鳴らず、</span><br><span class='scene-font-katari'>指を擦る音が響く。</span>,<span class='scene-font-katari'>轻快的声音没有响起，</span><br><span class='scene-font-katari'>只有指腹擦过的声音。</span>
+102,,<span class='scene-font-katari'>すると、一瞬にして</span><br><span class='scene-font-katari'>姬塔達は姿を消した。</span>,<span class='scene-font-katari'>然后，下一个瞬间，</span><br><span class='scene-font-katari'>姬塔一行的身影消失了。</span>
+103,ロベリア,こ、れ……で……<br>誰の、邪魔も……ぎっ……,这、样……就……<br>不会、有人妨碍……了……
+104,ロベリア,あ…………,啊…………
+105,ザ・タワー,…………,…………
+111,ロベリア,はぁっ！？<br>ふぅー……ふぅー……！,哈！？<br>呼——……呼——……！
+112,ロベリア,ぐ、ああぁあっ！？,咕、啊啊啊啊啊！？
+130,,<span class='scene-font-katari'>絶命し、蘇生され、破壊される。</span><br><span class='scene-font-katari'>そしてまた蘇生され、</span><br><span class='scene-font-katari'>あらゆる方法で破壊し尽くされる。</span>,<span class='scene-font-katari'>死亡、被复活、再被破坏。</span><br><span class='scene-font-katari'>然后再一次被复活，</span><br><span class='scene-font-katari'>被用尽一切方法破坏至死亡。</span>
+131,,<span class='scene-font-katari'>凄惨な地獄の中、ロベリアは</span><br><span class='scene-font-katari'>心から嬉しそうに微笑んでいた。</span>,<span class='scene-font-katari'>凄惨的地狱之中，罗贝利亚</span><br><span class='scene-font-katari'>发自内心地喜悦着露出笑容。</span>
+132,ロベリア,<span class='scene-font-kokoro'>（この、音だ……！）</span>,<span class='scene-font-kokoro'>（就是，这个声音……！）</span>
+133,ロベリア,<span class='scene-font-kokoro'>（オレが壊されるこの音……</span><br><span class='scene-font-kokoro'>オレが死に往くこの音……！）</span>,<span class='scene-font-kokoro'>（我被破坏的这个声音……</span><br><span class='scene-font-kokoro'>我朝向死亡的这个声音……！）</span>
+134,ロベリア,<span class='scene-font-kokoro'>（これこそが、本当の幸福！</span><br><span class='scene-font-kokoro'>オレの、オレの求めた音！）</span>,<span class='scene-font-kokoro'>（这才是，真正的幸福！</span><br><span class='scene-font-kokoro'>我所，追求的声音！）</span>
+135,ロベリア,<span class='scene-font-kokoro'>（ああ、満たされる……</span><br><span class='scene-font-kokoro'>なぁ、タワー！！</span><br><span class='scene-font-kokoro'>キミも、そうだろう！？）</span>,<span class='scene-font-kokoro'>（啊啊，被满足着……</span><br><span class='scene-font-kokoro'>是吧，塔！！</span><br><span class='scene-font-kokoro'>你也，是如此吧！？）</span>
+136,ロベリア,がっ、ごぼぁっ！<br>くはっ！　あははははははっ！,呃、咳咳！<br>哈哈！　啊哈哈哈哈哈哈！
+137,ロベリア,<span class='scene-font-4'>オレはっ、ようやくっ！！！</span><br><span class='scene-font-4'>幸福に、なれた！！</span>,<span class='scene-font-4'>我、终于！！！</span><br><span class='scene-font-4'>变得、幸福了！！</span>
+138,ロベリア,幸福にぃっ！！<br>生き果せたぁっ！！,幸福地！！<br>活到最后了！！
+139,ロベリア,くはっ、あはははははっ！！,哈哈、啊哈哈哈哈哈！！
+140,,<span class='scene-font-katari'>笑い続けるロベリアに</span><br><span class='scene-font-katari'>タワーは一切、反応を示さない。</span>,<span class='scene-font-katari'>面对笑着的罗贝利亚，</span><br><span class='scene-font-katari'>塔没有给予任何反应。</span>
+141,,<span class='scene-font-katari'>彼は精巧な機械のように、</span><br><span class='scene-font-katari'>破壊に失敗した契約者を</span><br><span class='scene-font-katari'>繰り返し壊し続けるのだった。</span>,<span class='scene-font-katari'>他宛如精密的机械仪器一般，</span><br><span class='scene-font-katari'>只是对失败了的契约者</span><br><span class='scene-font-katari'>持续不断地重复着破坏。</span>
+147,,<span class='scene-font-katari'>一方、一行は</span><br><span class='scene-font-katari'>元居た場所である</span><br><span class='scene-font-katari'>レストランに帰還していた。</span>,<span class='scene-font-katari'>另一边，一行人</span><br><span class='scene-font-katari'>回到了本来所在的</span><br><span class='scene-font-katari'>那个餐厅。</span>
+148,,<span class='scene-font-katari'>しかし、一行はロベリアの</span><br><span class='scene-font-katari'>凄惨な最期を見てしまったせいか、</span><br><span class='scene-font-katari'>しばらく言葉を失っていた。</span>,<span class='scene-font-katari'>然而，是因为目睹了</span><br><span class='scene-font-katari'>罗贝利亚那凄惨的最后吗，</span><br><span class='scene-font-katari'>一行人一时不知如何开口。</span>
+149,,<span class='scene-font-katari'>長い沈黙の中、姬塔は</span><br><span class='scene-font-katari'>タワーのカードと巻き貝を</span><br><span class='scene-font-katari'>いつの間にかに持っていた事に気づく。</span>,<span class='scene-font-katari'>在漫长的沉默之中，姬塔</span><br><span class='scene-font-katari'>注意到自己不知何时</span><br><span class='scene-font-katari'>拿着塔的卡片和一枚海螺。</span>
+150,ビィ/碧,それ……<br>タワーのカード、か。,那是……<br>塔的卡片、吗。
+151,ビィ/碧,じゃあクラポティ兄ちゃんの<br>次の契約者は……<br>姬塔ってことなのか……？,那继海螺小哥的<br>下一个契约者……<br>就是姬塔吗……？
+152,,<span class='scene-font-katari'>戦慄した様子でビィは呟くが、</span><br><span class='scene-font-katari'>姬塔には答えることが</span><br><span class='scene-font-katari'>出来なかった。</span>,<span class='scene-font-katari'>碧以颤栗的样子轻声开口，</span><br><span class='scene-font-katari'>而姬塔没有办法</span><br><span class='scene-font-katari'>给出任何回答。</span>
+153,,<span class='scene-font-katari'>しばらくの間、姬塔は、ジッと</span><br><span class='scene-font-katari'>ロベリアを滅ぼした破滅のカードと</span><br><span class='scene-font-katari'>彼の形見の巻き貝を眺めるのだった。</span>,<span class='scene-font-katari'>在这期间，姬塔只是静静地注视着，</span><br><span class='scene-font-katari'>毁灭了罗贝利亚的破灭之卡，</span><br><span class='scene-font-katari'>和他的遗物一般的海螺。</span>
+info,,,scene_chr490_ep7_s10
+译者,,,翻译：清羽

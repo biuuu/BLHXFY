@@ -1,0 +1,44 @@
+id,name,text,trans
+0-chapter_name,,男らしく、兄らしく,
+0-synopsis,,コウとヨウは開かずの間に閉じ込められ、助けも呼べず夜を迎えてしまう。ヨウは怪奇現象に怯え、コウに慰められるが、コウも恐怖を我慢していることを知って自らを奮い立たせる。しかしヨウは幽霊に遭遇し再び泣き出してしまい、コウは幽霊が意図的にヨウを怖がらせていると気が付いて、怒りを露わに幽霊に攻めかかる。,蔻和容被关在那间不能打开的房间，也无法求救，就这样迎来了夜晚。容非常害怕这种怪奇现象，虽然蔻安抚她让她不要怕，但蔻自己更是顶着怯意奋斗。但是容遇到了幽灵又再次大哭，蔻发现幽灵是故意吓容，因此愤怒的蔻对幽灵发起了攻击。
+1,,<span class='scene-font-katari'>ふたりはあらゆる手を使うが、</span><br><span class='scene-font-katari'>扉を開けることが出来ずにいた。</span>,两人用了许多方式，也没办法打开那扇门。
+2,,<span class='scene-font-katari'>ならば助けを呼ぼうと、</span><br><span class='scene-font-katari'>ふたりは大声を出したが、</span><br><span class='scene-font-katari'>外からの反応はなく徒労に終わる。</span>,那只能叫人来帮忙了，于是两人大声求救，但外面完全没有反应。
+3,,<span class='scene-font-katari'>そうこうしているうちに日が暮れ、</span><br><span class='scene-font-katari'>ふたりは不気味な部屋で</span><br><span class='scene-font-katari'>夜を迎えてしまっていた。</span>,不知不觉天色已近黄昏，两人在这间可怕的房间里迎来了夜晚。
+4,,<span class='scene-font-katari'>ヨウはすっかり怯え、</span><br><span class='scene-font-katari'>涙目でコウにくっついていた。</span>,容已经完全受到了惊吓，泪眼婆娑地粘着蔻。
+6,ヨウ/容,ひぃッ！？　ま、まただ！<br>またなンか聞こえたッ！,噫！？又、又来了！又有什么声音了！
+8,ヨウ/容,<span class='scene-font-4'>ひぃあぁぁぁッ！？</span>,哇啊啊啊啊！？
+9,笑い声/笑声,ヒヒヒヒヒヒッ！,嘿嘿嘿嘿嘿嘿！
+10,ヨウ/容,うぐっ……うう……<br>なンだよ、なンなンだよぉ……,呜呜……呜呜……这是什么啊……什么啊……
+11,コウ/蔻,ヨウ……,容……
+12,,<span class='scene-font-katari'>コウは泣き出すヨウを</span><br><span class='scene-font-katari'>優しく撫でてあげた。</span>,蔻温柔地安抚着哭泣的容。
+13,コウ/蔻,ヨウ、僕を見てください。,容，看着我。
+14,ヨウ/容,え……？,诶……？
+15,コウ/蔻,ヨウ、ほら。<br>僕の声を聞いて、僕を見てください。<br>できますか？,容，你看。听着我的声音，看着我。做得到吗？
+16,ヨウ/容,あ、あぁ……ぐすッ……<br>それぐらい……できる……,啊、啊啊……嘶……这种程度的……做得到……
+17,コウ/蔻,流石ですね、ヨウ。<br>ふふふ、えらいえらい。,不愧是你呢、容。哼哼哼，了不起了不起。
+18,ヨウ/容,な、なンだよ急に！？<br>そンな頭撫でンなってッ！,干、干嘛啦突然！别一直摸我的头！
+19,コウ/蔻,じゃあ、耳にしますか？<br>いっぱい撫でてあげますよ。<br>ヨウはいつも頑張ってますし。,那、改成耳朵？会继续摸摸头的哦。容一直在努力呢。
+21,ヨウ/容,いいって！　やめろよコウ兄ぃ！<br>なンかユエ姉ぇとソシ姉ぇみてぇだ！<br>てかホントなンなンだよッ！？,都说了不用啦！别这样蔻哥哥！总觉得好像尤艾姐姐和苏思姐姐一样！这到底是怎么了啊！？
+22,,<span class='scene-font-katari'>ヨウは頬を染めながら、</span><br><span class='scene-font-katari'>コウを見つめ直す。</span>,容脸上泛起了红晕，重新凝视着蔻。
+23,,<span class='scene-font-katari'>すると彼が僅かに震え、</span><br><span class='scene-font-katari'>表情もこわばっていることに気付く。</span>,然后发现他有点发抖，表情也很僵硬。
+24,ヨウ/容,<span class='scene-font-kokoro'>（コウ兄ぃも怖いのか……？）</span>,（蔻哥哥也害怕吗……？）
+25,ヨウ/容,<span class='scene-font-kokoro'>（じゃあ、なンで……</span><br><span class='scene-font-kokoro'>急に褒めてきたりなンか……）</span>,（那，为什么……突然开始夸我……）
+26,ヨウ/容,<span class='scene-font-kokoro'>（まさか……</span><br><span class='scene-font-kokoro'>オレを元気づけるためか……？</span><br><span class='scene-font-kokoro'>自分だって怖がってるのに……）</span>,（难道……是想鼓励我吗……？明明自己也害怕……）
+27,ヨウ/容,<span class='scene-font-kokoro'>（なンだよ……コウ兄ぃが</span><br><span class='scene-font-kokoro'>頑張ってンのに……音なンかで</span><br><span class='scene-font-kokoro'>ビビってなにしてンだオレ……）</span>,（什么嘛……蔻哥哥这么努力……害怕声音什么的，我到底在做什么……）
+29,ヨウ/容,コウ兄ぃ……ごめン、ありがとう。<br>もう、大丈夫……！！,蔻哥哥……对不起、谢谢。已经，没事了……！！
+30,コウ/蔻,本当ですか？<br>無理はダメですよ。,真的吗？别硬撑哦。
+32,ヨウ/容,ああ、大丈夫だ！<br>こンな音もう、<br>ちょっとしかこわくねぇッ！,啊啊，没问题的！这种声音我已经完全不怕了！
+33,ヨウ/容,よっしゃ、コウ兄ぃ！<br>一緒にここ出る方法考えようぜ！<br>こンな音無視だ、無──,好，蔻哥哥！一起来想从这里出去的方法吧！这种声音无视就好，无——
+37,,<span class='scene-font-katari'>そう意気込んだヨウは、</span><br><span class='scene-font-katari'>背後に冷気を感じ硬直する。</span>,这样鼓起干劲的容，在背后感受到一阵寒意，突然僵硬。
+38,,<span class='scene-font-katari'>ヨウはぎこちなく</span><br><span class='scene-font-katari'>振り返ると──</span>,容尴尬地回头——
+39,笑う幽霊,ヒヒヒ……,嘿嘿嘿……
+40,ヨウ/容,<span class='scene-font-4'>ひぁッ！？</span><br>見えるのはだ、ダメだってぇ！<br>いやぁぁぁぁッ！　コウ兄ぃ！！,啊！？看得见的不、不行啊！不要啊啊啊啊！蔻哥哥！！
+41,,<span class='scene-font-katari'>ヨウは再び泣き出し、</span><br><span class='scene-font-katari'>コウの背後に隠れてしまう。</span>,容再次哭着躲到了蔻的背后。
+42,笑う幽霊,<span class='scene-font-4'>ヒヒヒヒヒヒヒヒッ！</span>,嘿嘿嘿嘿嘿嘿嘿嘿！
+43,コウ/蔻,<span class='scene-font-kokoro'>（コイツ……</span><br><span class='scene-font-kokoro'>さっきから聞こえる声と同じだ……）</span>,（这家伙……声音和刚才听到的一样……）
+44,コウ/蔻,<span class='scene-font-kokoro'>（そういえば……</span><br><span class='scene-font-kokoro'>決まってヨウが悲鳴をあげた時だけ……</span><br><span class='scene-font-kokoro'>聞こえてきていたな……）</span>,（这样说起来……好像只在容一定会被吓到的时候……才听的到声音啊……）
+45,コウ/蔻,ヨウを怖がらせて……<br>楽しんでいるんですか？,这样吓容……很开心吗？
+46,笑う幽霊,<span class='scene-font-4'>ヒヒヒヒヒヒヒヒッ！</span>,嘿嘿嘿嘿嘿嘿嘿嘿！
+48,コウ/蔻,下衆が……！！<br><span class='scene-font-4'>ヨウに近づくなッ！！</span>,卑鄙……！！别靠近容！！
+info,,,scene_chr574_q3_s20
+译者,,,tearanne

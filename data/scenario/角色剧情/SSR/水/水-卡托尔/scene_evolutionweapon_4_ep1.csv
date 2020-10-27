@@ -1,0 +1,21 @@
+id,name,text,trans
+0-chapter_name,,十天衆との邂逅①,与十天众的邂逅①
+0-synopsis,,四天刃の力の末端を引き出した姬塔一行。更なる覚醒を促すべく、シェロカルテから助言を受けてよろず屋を後にする。その時、エルーンの少年が一行とすれ違う。少年はシェロカルテから一行の話を聞き、一行に対して興味を抱くのだった。,姬塔一行引出了四天刃的力量的一小部分。为了促进其进一步的觉醒，一行人在获得了榭洛科特的建议后，离开了万事屋。这时，一位艾伦族少年与一行人擦肩而过。少年从榭洛科特那边听闻了一行人的事，对他们有了兴趣。
+0,,<span class='scene-font-katari'></span><span class='scene-font-spword'>「四天刃」</span><span class='scene-font-katari'>の秘めるさらなる力の一端を</span><br><span class='scene-font-katari'>引き出すことに成功した一行。</span>,<span class='scene-font-katari'>一行人成功地引出了</span><span class='scene-font-spword'>「四天刃」</span><span class='scene-font-katari'>所隐藏的力量的一部分。</span>
+1,,<span class='scene-font-katari'>シェロカルテの助けもあり</span><br><span class='scene-font-katari'>着々と「覚醒」へと近づけていた。</span>,<span class='scene-font-katari'>在榭洛科特的帮助下，逐步接近「觉醒」。</span>
+2,シェロカルテ/榭洛科特,ふむふむ……<br>しばらくはこの工程を辛抱強く<br>繰り返していかなくてはですね～,嗯嗯……<br>暂时只能耐心地不断重复这个过程了呢~
+3,シェロカルテ/榭洛科特,「覚醒」を実現するには<br>武器自体の強度と、内に秘める魔力の<br>密度の両方を高める必要があります～,要完成「觉醒」需要提升武器自身的强度和内藏的魔力两方面才行~
+4,ビィ/碧,なるほどなぁ。<br>地味だけどやるしかねぇか！<br>……これまでも地味だったけど。,原来如此。<br>只能踏实地继续干啦！<br>……虽然之前就是这样。
+5,シェロカルテ/榭洛科特,「覚醒」は一日にしてならず！<br>ということですね～,有话说得好~<br>「觉醒」并非一日之功！
+6,,<span class='scene-font-katari'>そんなやりとりの後、</span><br><span class='scene-font-katari'>騎空艇に戻ろうとした姬塔は、</span><br><span class='scene-font-katari'>よろず屋を訪れた一人の客とすれ違う。</span>,<span class='scene-font-katari'>一番交谈之后，准备回骑空艇的姬塔与另一名造访万事屋的客人擦身而过。</span>
+9,？？？,…………,…………
+12,シェロカルテ/榭洛科特,あ、これはこれはいらっしゃ〜い。<br>本日は何のご用ですか〜？,啊，欢迎光临。<br>今日有何贵干~
+13,？？？,……あ、はい。<br>取り置いてもらっていた<br>薬をお願いします。,……啊，嗯。<br>我今天来取之前拜托进货的药品。
+14,シェロカルテ/榭洛科特,はいはい〜<br>少々お待ちを〜,好的好的~<br>请稍等~
+15,？？？,ところで……今のお客さん。<br>なかなか珍しい武器を<br>持っていましたね。,话说回来……刚才的那位客人。<br>拿着特别少见的武器呢。
+16,？？？,とても綺麗な、金色の……<br>あれは……まさか。,非常漂亮的，金色的武器……<br>那个……该不会是。
+17,シェロカルテ/榭洛科特,おお〜わかりますか～<br>姬塔さん達は、<br>この界隈でも有名な騎空士なんですよ〜,噢噢~你看得出来啊~<br>姬塔他们可是这附近有名的骑空士哦~
+18,？？？,へぇ。,是吗。
+19,？？？,<span class='scene-font-kokoro'>（まさかとは思うけど……</span><br><span class='scene-font-kokoro'>「覚醒」させようとしているのか？</span><br><span class='scene-font-kokoro'>……面白そうじゃあないか。）</span>,<span class='scene-font-kokoro'>（该不会是……想要让这把武器「觉醒」吧</span><br><span class='scene-font-kokoro'>……看来这事情很有趣啊。）</span>
+info,,,scene_evolutionweapon_4_ep1
+译者,,,sora_vicki

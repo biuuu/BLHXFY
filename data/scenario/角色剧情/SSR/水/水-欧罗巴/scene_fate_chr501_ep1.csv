@@ -1,0 +1,107 @@
+id,name,text,trans
+0-chapter_name,,美しき水の姫は突然に,美丽的水之姬突然降临
+0-synopsis,,真夜中、騎空艇の自室で眠りについていた姬塔は頭の中に響く声で目を覚ます。ビィ、ルリアと共に甲板に出ると、そこには四大天司ガブリエルの使徒・エウロペがいた。現れたガブリエルいわく、これから訪れる争いや脅威に立ち向かうため、エウロペに力添えをさせて欲しいという。姬塔達は喜んでエウロペを仲間に迎え入れるのだった。,半夜，在骑空艇的房间，睡梦中的姬塔他们被脑海中响起的声音吵醒了。与碧、露莉亚一起来到了甲板后，站在那里的是四大天司加百列的使徒·欧罗巴。随之出现的加百列告诫、为了能与不久后的纷争和威胁抗争，希望各位能带上欧罗巴让她添一份力。姬塔她们最后高兴地迎来了新伙伴欧罗巴。
+1,,<span class='scene-font-katari'>ひっそりと静まり返った真夜中。</span><br><span class='scene-font-katari'>姬塔は騎空艇の自室で</span><br><span class='scene-font-katari'>眠りについていた。</span>,<span class='scene-font-katari'>万籁俱寂的深夜。</span><br><span class='scene-font-katari'>姬塔在骑空艇的房间里酣睡着。</span>
+2,？？？,皆様方……<br>どうぞ、お目覚めに<br>なってくださいませ。,各位……<br>请从梦中醒来吧。
+3,,<span class='scene-font-katari'>頭の中に響く清流の様に</span><br><span class='scene-font-katari'>穏やか且つ清らかな声。</span>,<span class='scene-font-katari'>脑海里传来了如清流一般温和且清澈的声音。</span>
+4,,<span class='scene-font-katari'>その声に姬塔達は</span><br><span class='scene-font-katari'>ゆっくりと目を覚ます。</span>,<span class='scene-font-katari'>听到了这个声音的姬塔他们缓缓睁开了双眼。</span>
+6,ビィ/碧,あふっ……<br>なんか、スゲェ綺麗な声が<br>聴こえたような……,呼……<br>刚才，好像刚才听到了非常美妙的声音啊……
+7,ルリア/露莉亚,ふぁい……<br>誰かいるんですかぁ……,是啊……<br>是有谁在吗……
+8,,<span class='scene-font-katari'>そう言うとルリア達は</span><br><span class='scene-font-katari'>目を擦りながら、</span><br><span class='scene-font-katari'>周囲を見渡す。</span>,<span class='scene-font-katari'>说完，露莉亚他们一边揉着惺忪的双眼，</span><br><span class='scene-font-katari'>一边看向了周围。</span>
+9,ルリア/露莉亚,あれ……誰もいません……,诶……一个人都没有啊……
+10,ビィ/碧,ん……<br>でも、確かに声が聴こえたよな……,嗯……但是，刚才确实能听到声音啊
+11,ルリア/露莉亚,はい……<br>私も聴こえましたぁ……,是啊……<br>我也听到了……
+12,？？？,お目覚めになられたようですね。<br>でしたら、<br>どうぞ、甲板へとおいでください。,看来各位都醒来了呢。<br>那么，<br>请各位移步到甲板上来吧。
+13,？？？,そちらでお待ちしております。,我在那里等候着各位。
+14,ルリア/露莉亚,はわっ！？<br>聴こえてるというか……<br>これって頭の中に声が……？,哇！？<br>这说是能听到……<br>不如说是直接从脑袋里传来的声音吧……？
+15,ビィ/碧,おいおい、<br>こりゃどういう事だぁ？,喂喂，<br>这到底是怎么回事啊？
+16,ビィ/碧,甲板に来いって言ってたけど……,说是让我们来甲板那里……
+16-sel1_txt,,<span class='scene-font-katari'>何が待ってると思う？</span>,<span class='scene-font-katari'>你觉得是什么在那里等我们？</span>
+16-sel2_txt,,<span class='scene-font-katari'>とりあえず行こう</span>,<span class='scene-font-katari'>总之我们先走吧</span>
+17,ビィ/碧,お化け……じゃねぇよなぁ？,怪物……应该是不会有的吧？
+18,ルリア/露莉亚,<span class='scene-font-4'>えぇっ！</span><br>お、お化けですか！？,诶诶！会是怪、怪物吗！？
+19,ルリア/露莉亚,うううっ……<br>あの、行くのやめませんか？<br>もし本当にお化けだったら……,呜呜呜……<br>那个，我们还是不要去了吧？<br>如果真的是怪物的话……
+20,ビィ/碧,でも、このままってわけにも<br>いかねぇし……,但是，把这事丢着不管也不行啊……
+21,ビィ/碧,とりあえず、注意しながら<br>行ってみようぜ。,总之，<br>我们就打起十二分的精神过去吧。
+22,,<span class='scene-font-katari'>ビィの言葉に姬塔も頷く。</span>,<span class='scene-font-katari'>听完碧的话，姬塔点了点头。</span>
+23,ルリア/露莉亚,わ、私も行きます！<br>ひとりで残る方が怖いです！,我、我也要去！<br>留下我一个人的话也好恐怖！
+24,,<span class='scene-font-katari'>その言葉に苦笑を浮かべると</span><br><span class='scene-font-katari'>姬塔達は</span><br><span class='scene-font-katari'>警戒しながら甲板へと向かう。</span>,<span class='scene-font-katari'>听到这话姬塔他们不禁苦笑，</span><br><span class='scene-font-katari'>随后提起了万分警戒心前往甲板。</span>
+25,ビィ/碧,そうだな。<br>とりあえず、用心していこうぜ。<br>何がいるかわかんねぇし。,是啊。<br>总之，我们过去时候就小心点吧。<br>都不知道那里有什么东西在。
+26,ルリア/露莉亚,……そうですね。,……说的也是呢。
+27,,<span class='scene-font-katari'>その言葉に姬塔は頷くと</span><br><span class='scene-font-katari'>甲板へと向かう。</span>,<span class='scene-font-katari'>听到这话，姬塔微微点头，</span><br><span class='scene-font-katari'>随后前往了甲板。</span>
+32,,<span class='scene-font-katari'>姬塔達が甲板に出ると、</span><br><span class='scene-font-katari'>そこには空を見上げたたずむ</span><br><span class='scene-font-katari'>ひとりの少女の姿があった。</span>,<span class='scene-font-katari'>姬塔他们来到了甲板，</span><br><span class='scene-font-katari'>在那里，一名少女伫立着，</span><br><span class='scene-font-katari'>仰望着夜空。</span>
+33,,<span class='scene-font-katari'>少女は姬塔達に気付くと、</span><br><span class='scene-font-katari'>スカートの端を持ち上げ</span><br><span class='scene-font-katari'>優雅に礼をする。</span>,<span class='scene-font-katari'>少女注意到了姬塔他们，</span><br><span class='scene-font-katari'>提起了裙子优雅地行了个屈膝礼。</span>
+34,,<span class='scene-font-katari'>透き通るような肌と艶やかな衣装が</span><br><span class='scene-font-katari'>月明かりに照らされ、人ならざる</span><br><span class='scene-font-katari'>美しさをありありと描き出していた。</span>,<span class='scene-font-katari'>白皙透亮的肌肤，高雅华丽的身着，</span><br><span class='scene-font-katari'>在月光的照耀下形成了一幅曼妙绝伦的画卷。</span>
+35,エウロペ/欧罗巴,あの時以来ですね。<br>ご無沙汰しております、特異点。,上次见面都是那个时候了吧。<br>真是好久不见了，特异点
+36,エウロペ/欧罗巴,そして、初めまして。<br>蒼の少女と赤き竜……,还有，初次见面。<br>苍之少女和红色的龙……
+37,エウロペ/欧罗巴,私はエウロペ……<br>ガブリエル様の使徒です。<br>以後、お見知りおきを……,我是欧罗巴……是加百列大人的使徒。<br>今后，请你们多多指教……
+38,,<span class='scene-font-katari'>その可憐且つ上品な仕草を前に</span><br><span class='scene-font-katari'>姬塔達は見惚れてしまう。</span>,<span class='scene-font-katari'>这怜人且又高雅的一举一动，</span><br><span class='scene-font-katari'>姬塔她们都看得入了迷。</span>
+39,エウロペ/欧罗巴,どうかなさいましたか？,请问你们有什么问题吗？
+40,ルリア/露莉亚,はっ！？　あ、い、いえ、<br>よろしくお願いします？,哈！？啊、没、没事，请多关照啊？
+41,ルリア/露莉亚,すごく綺麗で……びっくりしました。,真是太漂亮了……我都吓了一跳。
+42,ビィ/碧,ああ……っていうか、<br>あの天司の姉ちゃんの<br>知り合い……でいいんだよな？,啊啊……<br>话说回来你应该是……那个天司姐姐的熟人吧？
+43,エウロペ/欧罗巴,いいえ。知り合いではなく<br><span class='scene-font-spword'>“使徒”</span>になります。,不是的。我不是熟人<br><span class='scene-font-spword'>而是“使徒”。</span>
+44,ルリア/露莉亚,使徒……ですか？<br>えっと、それって、一体……,使徒……吗？<br>呃，那个，到底是……
+46,？？？,定義は色々あるけれど……<br>この場合は私が最も信頼する存在。<br>そう思ってくれればいいわ。,定义的话有很多种……<br>现在要说的话就是我最信任的存在。<br>你这么想就好了。
+47,,<span class='scene-font-katari'>その言葉と共に周囲に青い光が満ちる。</span><br><span class='scene-font-katari'>そして、それは瞬く間に収束し、</span><br><span class='scene-font-katari'>人の姿へと変わっていく。</span>,<span class='scene-font-katari'>随着话音落下，周围亮起了蓝色的光芒。</span><br><span class='scene-font-katari'>之后，</span>,<span class='scene-font-katari'>又瞬间聚集在一起化成了人形。</span>
+59,ルリア/露莉亚,ガブリエルさん！,加百列！
+60,ガブリエル/加百列,久しぶりね。<br>みんな元気そうでよかったわ。,真是好久不见了呢。<br>大家还是这么精神真是还好了。
+60-sel1_txt,,<span class='scene-font-katari'>どうしてここに？</span>,<span class='scene-font-katari'>为什么会到这来了？</span>
+61,ガブリエル/加百列,エウロペの事で、ちょっとね。<br>エウロペ自身も説明するだろうけど……,因为关于欧罗巴的事情、我想做些说明。</span>不过欧罗巴自己也会为你们讲的吧……
+62,ガブリエル/加百列,私からもちゃんと貴方達に<br>話をしておいた方が良いと、<br>そう思ったから。,不过我觉得还是要过来跟你们聊一聊比较好，</span>所以就过来了。
+63,ビィ/碧,ん？　そりゃどういうことだぁ？,嗯？ 所以要说的是什么呢？
+64,エウロペ/欧罗巴,姬塔様。<br>かつて私が貴方にお伝えしたことを、<br>覚えておいでですか？,姬塔大人。<br>之前我告诉过你们的事情，<br>你们还记得吗？
+66,エウロペ/欧罗巴,このエウロペ、<br>ガブリエル様と同様に、<br>貴方のお傍でお力添えいたします。,我欧罗巴，<br>会和加百列大人一样，<br>您身边为您添一份力。
+66-sel1_txt,,<span class='scene-font-katari'>確か、傍で力になってくれるって……</span>,<span class='scene-font-katari'>好像，是说过会在我们身边添一份力。</span>
+68,エウロペ/欧罗巴,はい……その通りです。,是的……就是这样。
+69,エウロペ/欧罗巴,此度はその誓いを果たすべく<br>こちらへと参りました。,现在<br>我就是为了履行这个誓言而来的。
+70,エウロペ/欧罗巴,このエウロペの力……<br>姬塔様の望む様に<br>お使いください。,我欧罗巴的力量……<br>就请姬塔大人<br>您按您所希望的那样使用吧。
+71,,<span class='scene-font-katari'>そう言うとエウロペは</span><br><span class='scene-font-katari'>姬塔達に対し、</span><br><span class='scene-font-katari'>深く頭を垂れる。</span>,<span class='scene-font-katari'>说完，</span><br><span class='scene-font-katari'>欧罗巴对着姬塔他们深深低下了头。</span>
+72,ルリア/露莉亚,それって……<br>ええと、騎空団の一員に<br>なってくれるってことですか？,所以……那个，<br>意思就是<br>你会成为我们骑空团的一员吗？
+73,エウロペ/欧罗巴,ええ、その通りです。,嗯，就是这样。
+74,ビィ/碧,なんでだよ？<br>それに力を使って、たってなぁ。,为什么啊？<br>你还说要我们使用你的力量吧。
+75,エウロペ/欧罗巴,ガブリエル様より、姬塔様達の<br>お傍でお力添えをするように──<br>との命を受けましたゆえ。,因为加百列大人命令<br>要我协助你们，<br>我也是奉命而来的。
+76,ガブリエル/加百列,貴方達は<span class='scene-font-spword'>“特異点”</span>……<br>この空の行く末に関わる存在よ。,你们是<span class='scene-font-spword'>“特异点”</span>……<br>是关乎这片天空未来的存在。
+77,ガブリエル/加百列,それ故に貴方達は<br>今後、間違いなく大きな争いや脅威に<br>巻き込まれていくわ。,因此，你们以后<br>肯定会被卷入各种巨大的纷争和威胁中。
+78,ガブリエル/加百列,そして、それは貴方達だけでは<br>どうにもならない程、<br>強大なものかもしれない……,然后，<br>说不定也会出现你们束手无策的强大的存在……
+79,ガブリエル/加百列,でもね、私は信じてるの。,但是，我相信你们。
+80,ガブリエル/加百列,貴方達と私達が手を取り合えば、<br>どんな脅威だって<br>乗り越えられるって……,我相信只要你们和我们携起手来，<br>无论出现什么威胁<br>我们都能将其战胜
+81,ガブリエル/加百列,でも、そのためには貴方達と私達……<br>その双方に密接に関わりあえる存在が<br>必要だわ。,但是，在你们和我们之间……<br>需要一个与双方都有密切关联的存在。
+82,ガブリエル/加百列,貴方達と共に歩む存在でありながら、<br>私達とも連絡を取り合える、<br>そんな存在がね……,既要能和你们共同前进，<br>又要能和我们保持联系。
+83,ガブリエル/加百列,私はね、その役をエウロペに<br>お願いしたの。,所以，我就把这个任务<br>交给了欧罗巴。
+84,ガブリエル/加百列,というよりも、エウロペ自身が<br>その役に就くことを希望したのよ。,虽然我是这说，<br>但欧罗巴自己也想接下这个任务哦。
+85,エウロペ/欧罗巴,災厄の後、ガブリエル様と天司長は<br>私にこうおっしゃられました。,灾厄之后，<br>加百列大人和天司长大人是这么对我说的。
+87,エウロペ/欧罗巴,世界には新緑の如き、<br>美しきものが沢山ある……,这世界新绿盎然，<br>到处是美丽之物……
+88,エウロペ/欧罗巴,そして、助け合い、庇い合い、<br>個ではできないことを可能とする<br>空の民の勇気宿る意志──,然后，星之民互相帮助，互相保护，以此将一人做不到的事情化为了可能，<br>在寄宿了他们的勇气的意志中──
+89,エウロペ/欧罗巴,それには至高の美しさを感じる。,你能感受到何为至高之美。
+94,エウロペ/欧罗巴,また、こうも言っておられました。<br>姬塔様達がいたからこそ、<br>あの美しい光景が生まれたのだと……,他们还说。<br>正因有姬塔大人你们在，<br>才孕育出了这一切如此美妙的光景。
+95,エウロペ/欧罗巴,私は、その至高の美しさというものを<br>この目で見てみたいのです。,我，想用我的这双眼睛，<br>亲自见证这何为至高之美。
+96,エウロペ/欧罗巴,そして、そのためには<br>姬塔様のお傍にいることが<br>最良──,所以，为了实现我这个愿望，<br>最好的办法<br>就是待在姬塔大人的身边──
+97,エウロペ/欧罗巴,私は、そう考えております。,我，就是这么认为的。
+98,エウロペ/欧罗巴,ですので、どうかご同行の許可を<br>いただけませんか？,所以，<br>能允许我与你们同行吗？
+99,ガブリエル/加百列,エウロペの力は<br>私に並ぶほど強大なものよ。,欧罗巴拥有和你们一样强大的力量哦。
+100,ガブリエル/加百列,きっと、貴方達を助ける力に<br>なってくれるわ。,她的力量<br>一定会对你们有所帮助的。
+100-sel1_txt,,<span class='scene-font-katari'>そう言う事なら歓迎するよ</span>,<span class='scene-font-katari'>这样的话我可是非常欢迎哦</span>
+100-sel2_txt,,<span class='scene-font-katari'>ガブリエルも来てよ</span>,<span class='scene-font-katari'>加百列你也来吧</span>
+101,エウロペ/欧罗巴,感謝いたします、<br>姬塔様。,非常感谢您，<br>姬塔大人
+102,ガブリエル/加百列,私からも感謝を……,我也由衷感谢你……
+103,ガブリエル/加百列,ふふっ、ありがとう。<br>誘ってくれて。<br>嬉しいわ。,呵呵，谢谢。<br>你会邀请我。<br>我感到非常开心哦。
+104,ガブリエル/加百列,でも、ごめんなさい。<br>私にはまだ、やらなければ<br>ならないことがあるの。,但是，很对不起。<br>我现在，<br>还有很多非做不可的事情。
+105,ガブリエル/加百列,だから、貴方達と<br>一緒にはいけないわ。,所以，<br>我现在不能和你们待在一起。
+106,ルリア/露莉亚,ちょっと残念です。,真是有点可惜啊。
+107,,<span class='scene-font-katari'>残念そうにする姬塔達に</span><br><span class='scene-font-katari'>ガブリエルは苦笑を浮かべる。</span>,<span class='scene-font-katari'>看着一脸可惜的姬塔他们，</span><br><span class='scene-font-katari'>加百列露出了苦笑。
+108,,<span class='scene-font-katari'>姬塔達との話が落ち着くと、</span><br><span class='scene-font-katari'>ガブリエルはエウロペへと</span><br><span class='scene-font-katari'>向き直る。</span>,<span class='scene-font-katari'>结束了与姬塔他们的对话，</span><br><span class='scene-font-katari'加百列面向了欧罗巴。</span>
+109,ガブリエル/加百列,エウロペ。貴方にとって、<br>その美しさを知ることは<br>きっと良い経験となるわ。,欧罗巴。你一直都想知晓何为美丽，<br>这对你来说一定是个很好的经历。
+110,ガブリエル/加百列,そして、それは貴方という存在を<br>さらに高めることでしょう。,那之后，那个名为你的存在<br>一定能登上更高一层的境界。
+111,ガブリエル/加百列,エウロペ、貴方には期待しているわ。<br>私と共に在れる存在となる事を……,欧罗巴，我对你非常期待哦。<br>就拜托你担任联系我们之间的存在一职了……
+112,エウロペ/欧罗巴,ガブリエル様……<br>必ずや、そのご期待に<br>お応えしてみせます。,加百列大人……<br>我一定，<br>不会辜负您的期待。
+113,エウロペ/欧罗巴,ガブリエル様の望まれることは<br>エウロペの望むこと……,加百列大人的愿望<br>就是我的愿望。
+114,エウロペ/欧罗巴,そして、この身の全ては<br>ガブリエル様のものなれば……,并且，我全身心<br>本就属于加百列大人……
+115,,<span class='scene-font-katari'>そう言うとエウロペは</span><br><span class='scene-font-katari'>ガブリエルに対し、</span><br><span class='scene-font-katari'>深く頭を垂れる。</span>,<span class='scene-font-katari'>说完，</span><br><span class='scene-font-katari'>欧罗巴对着加百列深深低下了头。</span>
+116,ガブリエル/加百列,エウロペ、私の使徒……<br>貴方に水の祝福を……,欧罗巴，我的使徒……<br>向你送上水之祝福……
+124,,<span class='scene-font-katari'>その言葉を最後にガブリエルは</span><br><span class='scene-font-katari'>風に舞う無数の羽根となって</span><br><span class='scene-font-katari'>吹き消える。</span>,<span class='scene-font-katari'>话音结束，</span><br><span class='scene-font-katari'>加百列化成了无数的羽毛飘散在空中，</span><br><span class='scene-font-katari'>随风消散了。</span>
+127,エウロペ/欧罗巴,それでは、姬塔様。<br>今後ともどうぞ良しなに……,那么，姬塔大人。<br>今后也请您多多指教……
+128,,<span class='scene-font-katari'>エウロペはそう言うと</span><br><span class='scene-font-katari'>スカートの端を持ち、</span><br><span class='scene-font-katari'>姬塔達に対しお辞儀する。</span>,<span class='scene-font-katari'>语毕，欧罗巴提起了裙子，</span><br><span class='scene-font-katari'>向姬塔他们行了礼。</span>
+129,,<span class='scene-font-katari'>それに対し、</span><br><span class='scene-font-katari'>姬塔達も穏やかに</span><br><span class='scene-font-katari'>微笑むのだった。</span>,<span class='scene-font-katari'>随后，</span><br><span class='scene-font-katari'>姬塔他们也向欧罗巴投以了温柔的微笑。</span>
+info,,,scene_fate_chr501_ep1
+译者,,,Van

@@ -1,0 +1,24 @@
+id,name,text,trans
+0-chapter_name,,求めた先にある答えとは……,所追求的答案是……
+0-synopsis,,姬塔ーサは十天衆の頭目であるシエテを訪ねる。姬塔ーサがシエテに何故強くなりたいのかを聞くと、シエテは質問した理由を問い返す。姬塔ーサは、三寅斧に「強敵と戦い、その相手が抱えているものを知れ」と言われたことを説明する。シエテは、姬塔ーサが三寅斧に呑まれたのではないかと危惧していたが、杞憂だったと分かる。,萨拉萨造访了十天众的头目希耶提。萨拉萨问希耶提为什么要变强，却被希耶提反问了问这问题的理由。萨拉萨解释说，是因为三寅斧说了「要与强敌战斗，并知道对方所拥有的东西」。希耶提害怕萨拉萨是不是被三寅斧所控制了，但最终知道他只是杞人忧天了。
+0,シエテ/希耶提,……ん？　どうした姬塔ーサ……<br>今日はウーノじゃなくて、<br>俺を訪ねて来たのか？,……嗯？　为什么萨拉萨……<br>今天不是来找乌诺，<br>而是来找我的？
+1,姬塔ーサ/萨拉萨,シエテにしか頼めない<br>お願いがあるんだ！,因为我有只能拜托<br>希耶提的请求！
+2,シエテ/希耶提,えっ、俺にしか頼めないお願いだって？<br>……偉いぞ姬塔ーサ！,诶，只能拜托我的请求？<br>……了不起啊，萨拉萨！
+3,シエテ/希耶提,他人に迷惑をかける前に<br>ちゃんと俺に相談できたな！<br>さぁ、なんでも言ってみろ～！,在给他人添麻烦之前<br>先来找我商量了！<br>来吧，无论什么事都说出来吧～！
+4,姬塔ーサ/萨拉萨,本当か！<br>それじゃあ、あたしと戦ってくれ！,真的吗！<br>那么，和我一战吧！
+5,シエテ/希耶提,……は？　待て待て！<br>どうして俺と戦いたいんだよ？,……哈？　等等！<br>为什么要跟我战斗？
+6,姬塔ーサ/萨拉萨,あたしは今よりも<br>もっと強くなりたいんだ！,因为我想变得<br>比现在更强！
+7,姬塔ーサ/萨拉萨,そうしたら、コイツが<br>今より強くなるためには<br>心を鍛えろっていうんだ。,这样做了，就是这家伙说的<br>想要比现在更强的话，<br>就要锻炼心。
+9,,<span class='scene-font-katari'>そういうと姬塔ーサはシエテに</span><br><span class='scene-font-katari'>手に持った</span><span class='scene-font-spword'>三寅斧</span><span class='scene-font-katari'>を見せていく。</span>,<span class='scene-font-katari'>这样说着的萨拉萨</span><br><span class='scene-font-katari'>将手中提着的</span><span class='scene-font-spword'>三寅斧</span><span class='scene-font-katari'>给希耶提看。</span>
+10,姬塔ーサ/萨拉萨,そんで、そのためには<br>あたしより強い相手と戦えって……,接下来它还说，为了变强，<br>要与比我强的对手战斗……
+11,姬塔ーサ/萨拉萨,あ、それと、<br>なんで相手が強くなりたいのかを、<br>知らなきゃいけないとかなんとか……,啊，还有，<br>还要知道对手为什么<br>想要变强的理由……
+12,姬塔ーサ/萨拉萨,とにかく、シエテ！<br>あたしと戦ってくれ！<br>それと強くなった理由も教えてくれ！,总之，希耶提！<br>跟我一战！<br>然后告诉我你想变强的理由！
+13,シエテ/希耶提,姬塔ーサ……お前、もしかして<br><span class='scene-font-spword'>天星器</span>に……<span class='scene-font-spword'>三寅斧</span>に呑まれてない？,萨拉萨……你该不会被<br><span class='scene-font-spword'>天星器</span>に……<span class='scene-font-spword'>三寅斧</span>给吞噬了？
+14,姬塔ーサ/萨拉萨,ん？　呑まれる？<br>よくわかんないけど、<br>あたしはあたしだぞ？,嗯？　被吞噬？<br>不知道你在说什么，<br>我就是我啊？
+15,シエテ/希耶提,う、うん……ああ、そう。,嗯、嗯……啊啊，没错。
+16,シエテ/希耶提,<span class='scene-font-kokoro'>（……姬塔ーサは通常運転っぽいし、</span><br><span class='scene-font-kokoro'>俺の杞憂だよな？　コレ？）</span>,<span class='scene-font-kokoro'>（……萨拉萨好像和平时一样，</span><br><span class='scene-font-kokoro'>难道这是我的杞人忧天？）</span>
+17,シエテ/希耶提,<span class='scene-font-kokoro'>（それにしても、まさか</span><span class='scene-font-spword'>三寅斧</span><span class='scene-font-kokoro'>が</span><br><span class='scene-font-kokoro'>そんなアドバイスをするとはね……</span><br><span class='scene-font-kokoro'>意外と世話焼きのいい子じゃないの）</span>,<span class='scene-font-kokoro'>（比起这个，没想到</span><span class='scene-font-spword'>三寅斧</span><span class='scene-font-kokoro'>会</span><br><span class='scene-font-kokoro'>提出这种建议呢……</span><br><span class='scene-font-kokoro'>真是意外的需要操心的孩子啊）</span>
+18,シエテ/希耶提,……ま、いっか。,……哎，算了。
+19,シエテ/希耶提,そういうことなら、<br>俺が相手してあげるよ～！,这样的话，<br>就让我来当你的对手吧～！
+info,,,scene_ult_chr128_q4_1_s10
+译者,,,

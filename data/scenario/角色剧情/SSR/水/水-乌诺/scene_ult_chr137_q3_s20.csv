@@ -1,0 +1,28 @@
+id,name,text,trans
+0-chapter_name,,挑める者の矜持,挑战者的矜持
+0-synopsis,,夜が明け、一伐槍との激闘を終えたウーノの表情は晴れがましい。戦いを通じて示唆を得たウーノは、その足で姬塔達のもとに向かい、暇を申し出る。急にどうしたのかとビィが聞くと、ウーノは強さとは何かを一伐槍と共に問い直したいと言い、艇を降りていくのだった。,天亮了，结束了与一伐枪的激战，乌诺的表情也变得明朗了。乌诺从战斗中得到提示，于是去到姬塔身边，表示要离开一段时间。碧问他这么突然是怎么了，乌诺说想要和一伐枪一起再弄清一次何为强大，便离开了骑空艇。
+1,,<span class='scene-font-katari'>気がつくと夜が明けていた。</span>,<span class='scene-font-katari'>注意到的时候天已经亮了。</span>
+2,,<span class='scene-font-spword'>一伐槍</span><span class='scene-font-katari'>との激闘を経て</span><br><span class='scene-font-katari'>ウーノは輝く朝陽を浴びている。</span>,<span class='scene-font-katari'>与</span><span class='scene-font-spword'>一伐枪</span><span class='scene-font-katari'>激战过后，乌诺沐浴在清晨的阳光下。</span>
+3,,<span class='scene-font-katari'>その表情に憂いは無い。</span><br><span class='scene-font-katari'>晴れがましい顔で</span><br><span class='scene-font-spword'>一伐槍</span><span class='scene-font-katari'>を見つめていた。</span>,<span class='scene-font-katari'>他带着不再忧虑而明朗的表情，看着</span><span class='scene-font-spword'>一伐枪</span><span class='scene-font-katari'>。</span>
+4,ウーノ/乌诺,なるほど……<br>そういう考え方もあるのだね。,原来如此……还有这种想法啊。
+5,,<span class='scene-font-katari'>ウーノは戦いを通して示唆を得たようで</span><br><span class='scene-font-katari'>謝辞を述べるように優しくそう呟くと、</span><br><span class='scene-font-spword'>一伐槍</span><span class='scene-font-katari'>を手に取った。</span>,<span class='scene-font-katari'>乌诺因为通过战斗得到了提示，像是道谢一般温柔地低声说着，把</span><span class='scene-font-spword'>一伐槍</span><span class='scene-font-katari'>拿在手中。</span>
+9,,<span class='scene-font-katari'>それを大事そうに抱えると、</span><br><span class='scene-font-katari'>姬塔達の元へ向かい、</span><br><span class='scene-font-katari'>こう願い出るのだった。</span>,<span class='scene-font-katari'>然后珍重地抱着它，去到了姬塔身边，如此请求道。</span>
+11,ウーノ/乌诺,やあ、姬塔、<br>実はお願いがあってね。,你好，姬塔，其实我有事相求。
+12,ウーノ/乌诺,この、<span class='scene-font-spword'>一伐槍</span>を<br>しばらくの間、<br>私に貸して欲しいのだが……,我希望你能把这把<span class='scene-font-spword'>一伐枪</span>暂时借我一段时间……
+12-sel1_txt,,<span class='scene-font-katari'>え、どうしてですか？</span>,<span class='scene-font-katari'>诶，为什么呢？</span>
+12-sel2_txt,,<span class='scene-font-katari'>いいですよ</span>,<span class='scene-font-katari'>可以啊</span>
+13,ウーノ/乌诺,ふふふ、もう少しばかり、<br>この者と語り合いたくなってしまってね。,呵呵呵，我还想和这位再多聊会儿呢。
+14,ルリア/露莉亚,ええっ、語り合いたくって……？,诶诶，你说多聊会儿……？
+15,ビィ/碧,おいおい、槍と語り合うなんて<br>できるわけないだろ？,喂喂，能和枪聊天的吗？
+16,ウーノ/乌诺,さて、それはどうかな。,嘛，是不是呢。
+17,ウーノ/乌诺,ふむ、理由は聞かないのだね。,呼姆，不问我理由呢。
+18,ウーノ/乌诺,聞かなくても解っている。<br>何やらそう言いたげに見えるのは<br>私の勘違いだろうか……,你不用问也知道啊。看来以为你想问的我感觉错了呢……
+19,ビィ/碧,なっ、そうなのか！？<br>なんでなんだ？,什么，是那样吗！？为啥为啥？
+20,ルリア/露莉亚,ずるいです、私も知りたいです！,太狡猾了，我也想知道！
+22,ウーノ/乌诺,おっと、もうひとつ<br>頼みがあってね。,对了，我还有一个请求。
+23,ウーノ/乌诺,しばしの間、<br>暇をもらおうと思っている。,希望这段时间暂时让我离开一下。
+24,ビィ/碧,ええっ、急になんでだよ？,诶诶，这么突然为什么啊？
+25,ウーノ/乌诺,ふふふ、強さとは何か、<br>今一度この槍と共に<br>問い直してみようと思うのだよ。,呵呵呵，想我要和这把枪一起再弄清一次何为强大啊。
+26,,<span class='scene-font-katari'>ウーノはそう言うと、</span><br><span class='scene-font-spword'>一伐槍</span><span class='scene-font-katari'>とともに</span><br><span class='scene-font-katari'>艇を降りていくのだった。</span>,<span class='scene-font-katari'>乌诺这么说了之后，便带着</span><span class='scene-font-spword'>一伐枪</span><span class='scene-font-katari'>一起离开了骑空艇。</span>
+info,,,scene_ult_chr137_q3_s20
+译者,,,

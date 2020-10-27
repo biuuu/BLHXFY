@@ -1,0 +1,81 @@
+id,name,text,trans
+0-chapter_name,,An Unexpected Offer,
+0-synopsis,,"姬塔 and Meteon accept Sierokarte's invitation to an upcoming air show. As preparation for the event, Meteon gives the captain a lesson in aerobatics.",缪恩和姬塔接受了榭洛科特举办的赛艇展的邀请，为此，缪恩给大家上了一节赛艇特技课。
+1,,A little while has passed since the skyrace on Nimmus Island and all the hubbub surrounding the Ishkur weather-control device.,尼姆斯岛上的赛艇比赛上由伊什库尔天气控制仪产生的骚动已经过去一段时间。
+2,,"Today, 姬塔 and Meteon are visiting Fangio's pit stall for some speedship maintenance.",今天，缪恩和姬塔来到范吉奥的工作间进行赛艇的维护。
+3,Fangio,That oughta do it. Blue Orbit and Nightcypher are ready to race.,这就行了，苍蓝轨迹和夜环星都已经做好准备。
+4,Meteon,"Thanks, Fange.",非常感谢，老爷子。
+5,Vyrn/碧,"Hehe, sorry to make you do double-duty.",嘿嘿，抱歉给您添麻烦了。
+6,Lyria/露莉亚,We really appreciate you giving the Nightcypher its checkup!,非常感谢您为夜环星也进行了维护。
+7,Fangio,"Enh. Everyday tuning is something the kid can handle, but overhauls're a different story.",害，每天的调整检修是这小鬼能处理的，但是整修就是另一码事了。
+8,Fangio,"I was already under one speedship, so I might as well check 'em both out. Don't worry about it.",既然已经成为这小鬼的专业修整人员了，还是都看一下比较好，不用在意。
+9,Vyrn/碧,"Thanks a million, gramps!",太感谢您了，机械师爷爷！
+10,Fangio,All they need now is a fresh coat of wax. Sit tight.,现在只需要上一层蜡就够了，稍等一下。
+11,,"As Fangio moves the speedships out for their wax jobs, a familiar voice rings out in the stall.",当范吉奥把赛艇搬出去打蜡时，熟悉的声音在工作间响起。
+14,Sierokarte/榭洛科特,Hellooo! Anybody heeere?,你好！有人在吗？
+15,Meteon,"Oh, hey, Siero. What's up?",哦，嗨，是榭洛啊，有什么事？
+16,Sierokarte/榭洛科特,"Well, I've got a little request for you guys...",其实啊，我有一点小小的请求。
+17,Sierokarte/榭洛科特,"I'm putting together a big, holiday-themed air show.",我马上要举办一个盛大的圣诞节主题赛艇表演。
+18,Sierokarte/榭洛科特,And I'm rounding up skyracers for the aerobatics showcase.,正在召集赛艇手参加赛艇特技表演。
+19,Sierokarte/榭洛科特,I'd love to have the Nightcypher and Blue Orbit fly in the show. Whaddya say?,我想让苍蓝轨迹和夜环星这场表演中一齐展翼，觉得怎么样？
+20,Lyria/露莉亚,What's aerobatics?,什么是赛艇特技啊？
+21,Meteon,"Acrobatics is trick flying. Maneuvers like flying upside down, or turning loops through the air.",赛艇特技就是花式飞行，比如倒立飞行，或者在空中进行环状飞行。
+22,Vyrn/碧,Huh! I didn't know speedships could do that kinda thing.,诶？我还不知道赛艇居然还有这种技巧。
+23,Meteon,They can. It's a whole different skill set from skyracing though.,确实可以，虽然跟赛艇竞技的技巧完全不一样。
+24,Sierokarte/榭洛科特,"Meteon's right—it'd be a big departure from the races you're used to, but are you interested?",缪恩说的没错，赛艇特技和竞技比赛有很大的区别，有兴趣吗？
+24-sel1_txt,,You bet I am!,那是当然！
+25,Sierokarte/榭洛科特,Hehe! Glad to hear it!,哦吼吼，很高兴听你这么说。
+26,Meteon,"Didn't even have to think about it, did you? You're nothing if not gutsy, 姬塔.",哈哈！想都不用想，对吧，这点勇气都没有的话就不是姬塔你了。
+27,Sierokarte/榭洛科特,"Sooo? Are you in too, Meteon?",所以缪恩你也来吗？
+28,,Meteon looks thoughtful.,缪恩看起来若有所思。
+29,Meteon,Usually around this time I'd be too busy prepping in the run-up to the PSC.,通常这个时候我都在忙着准备PSC。
+30,Meteon,"But if the PSC isn't being held this year, an air show might be a good way to pass the time.",但是如果今年不举办PSC的话，用赛艇表演来消磨这段时间也不错。
+31,Sierokarte/榭洛科特,Is that a yeees?,是接受了吗？
+32,Meteon,Yeah. I'll do it.,嗯，我会参加的。
+33,Meteon,"With these guys in the mix, I'm sure I won't be bored.",有姬塔他们一起参加，好像会变得很有趣呢。
+34,Sierokarte/榭洛科特,Hehehe. Thank you! The event won't disappoint—I promise!,欸嘿嘿嘿，感谢你们啦，我敢肯定这场展出肯定会让大家满意的。
+35,Sierokarte/榭洛科特,"With you two on board, it's sure to be a success!",有你们两个在，一定会大成功！
+36,,Fangio returns from waxing the two speedships.,范吉奥完成了打蜡工作，回到工作棚来。
+37,Fangio,"You're quite the promoter, roping the two of them into an aerobatics gig.",嚯，你真是一个很厉害的推销员啊，让这二位都去参加特技展了。
+38,Sierokarte/榭洛科特,Tee hee hee. I knew I could get them.,欸嘿嘿，我知道他们一定会来的。
+39,Sierokarte/榭洛科特,No way two crack pilots like Meteon and 姬塔 could resist!,缪恩和姬塔这种优秀的赛艇手一定无法拒绝。
+40,,"Her mission achieved, Sierokarte prepares to depart.",榭洛科特的任务完成了，她准备离开。
+41,Sierokarte/榭洛科特,"Well, I have a few other pilots to wrangle!",那么呢，我再去问问别的赛艇手～
+42,Sierokarte/榭洛科特,I'll be in touch soon with the time and location of the show!,我会尽快联系你们演出的时间和地点的!
+43,Meteon,Sure. We'll be waiting.,好啊，我们等着你。
+45,,"When Sierokarte has gone, Meteon turns to 姬塔, a calm look on his face.",榭洛科特走后，缪恩一脸沉着地看向姬塔。
+46,Meteon,"We'd better get down to some aerobatics lessons then, hm?",那我们最好上几堂特技训练课，嗯？
+47,Vyrn/碧,Yeah! We need to get those skills down ASAP!,对的！我们最好尽快拿下哪些技巧！
+48,Lyria/露莉亚,I can't wait to see all the different tricks!,我已经等不及想要看看各种各样的特技了！
+49,Meteon,Heh... Let's see if that enthusiasm lasts once training starts...,哼，我们来看看这股热情能不能持续到训练开始吧。
+50,,"Meteon's wry smile makes the crew somewhat wary, but they are still eager to begin preparing for the air show.",缪恩意味深长的笑让大家感到一丝不安，但是大家仍然很期待特技飞行的练习。
+51,,Fangio calls out to 姬塔 and Meteon as they approach their freshly tuned-up speedships.,范吉奥将缪恩和姬塔叫到已经整备完毕的赛艇前来。
+52,Fangio,Hold it right there! Those ships need to be completely rejigged for aerobatics.,稍等一下，小鬼们，为了特技表演需要重新调整赛艇。
+53,Meteon,"Whoa, you're right. Lucky thing we've got you, Fange!",的确是这样，有你在真是得救了！
+54,Vyrn/碧,Can you get jiggy with the Nightcypher too?,您能帮忙对夜环星也进行改装吗？
+55,Fangio,Try and stop me.,这还用说吗。
+56,Lyria/露莉亚,Yay! Thank you so much!,太感谢您了！
+57,Fangio,"Can it. You just concentrate on training, so you don't make fools of yourselves in front of the spectators.",你们就专心进行训练吧，可不要在观众面前出丑啊。
+58,,"Beneath the bluster, Fangio seems perfectly happy to dive straight back under the two speedships' hoods.",范吉奥这么说着，似乎非常高兴地直接钻进了两艘赛艇的发动机罩下。
+59,,"Once modifications are complete, Meteon and the crew throw themselves into daily aerobatics training. Time flies when you're flying, and the air show rolls around before they know it.",休整完成之后，赛艇手们专注于每日的特技训练之中。在空中飞行时，时间似乎过得更快了，终于迎来了圣诞赛艇展的这一天。
+65,Meteon,"Well, we're finally here.",那么……终于到了正式表演的时候了。
+66,Vyrn/碧,Yeah! Time to show everybody what we've learned!,是啊，是时候展现我们的训练成果了！
+67,Lyria/露莉亚,"Um, Meteon? What's that costume for?",诶？缪恩你的这身衣服是？
+68,Meteon,"Costume? Oh, this?",嗯？衣服？这个啊。
+69,Meteon,I thought I'd get into the spirit of the season with a new outfit!,我想这一身衣服更能融入圣诞节的氛围。
+70,Meteon,So? How do I look?,怎么样，合适吧？
+71,,Meteon seems to be in high spirits. He does a turn to show off his new finery.,缪恩兴致勃勃地展示着他的新衣装。
+72,Meteon,"Oh, and look! There are so many people in the audience, you'd think it was a skyrace!",看那边！来了这么多观众，真像竞技比赛呢。
+73,Lyria/露莉亚,Ohh... Now I'm starting to get nervous...,哦……我已经开始紧张起来了。
+74,Meteon,"That's perfectly normal, Lyria.",会紧张是正常的，没有关系，露莉亚。
+75,Meteon,"How are you feeling, 姬塔?",姬塔感觉如何？
+75-sel1_txt,,I'm pumped!,果然好兴奋！
+75-sel2_txt,,I've got butterflies in the breadbasket.,心里七上八下的。
+77,Meteon,Hahaha! I figured you'd say that!,我就知道你会这么说！
+78,Meteon,Huh! So even <span class='scene-font-italic'>you</span> get nervous sometimes.,原来你也会紧张啊。
+79,Meteon,You put a lot of effort into your training. Relax and trust yourself.,毕竟已经训练这么久了，放松下来自信一点。
+80,Meteon,"C'mon, let's get this show off the runway.",开始这场演出吧。
+81,,Meteon leads 姬塔 and the others into the amphitheater.,缪恩带着姬塔进入了会场。
+82,,None of them suspects what surprises this day has in store.,谁也不知道会有怎样的惊喜等着他们。
+info,,,scene_fate_chr581_ep1
+译者,,,旌歌

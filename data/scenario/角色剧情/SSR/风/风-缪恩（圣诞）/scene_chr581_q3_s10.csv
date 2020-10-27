@@ -1,0 +1,91 @@
+id,name,text,trans
+0-chapter_name,,The Holiday Air Show,
+0-synopsis,,"After Meteon, 姬塔, Fehr, and Maddie put on an incredible air show, someone collapses in the shadows. It turns out to be Santa Claus, who had planned on dropping presents from the air at show's end. So as not to let the spectators down, Meteon decides to take on this role.",在缪恩、姬塔、马蒂和费尔给大家献上了精彩的赛艇表演之后，本来打算到空中给大家洒礼物的暗中观察的圣诞老人不小心摔了一跤，没法继续发礼物了。为了不让观众失望，缪恩打算接手这份工作。
+1,,The amphitheater is filled with spectators eager for the main event—the aerobatics show—to begin.,竞技场内坐满了期待着欣赏赛艇特技表演的观众。
+2,Commentator,Ladies and gentlemen! Speedship fans of all ages!,女士们先生们，喜爱着赛艇的各路粉丝们！
+3,Commentator,"To celebrate this wonderful season, we've got something a little different to amaze and delight you!",为了庆祝圣诞节，我们给大家准备了独一无二的特技表演，让大家大开眼界！
+4,Commentator,"And of course, manning the mics and keeping you up to speed will be myself and Sierokarte!",带你跟上赛艇的速度并负责主持和解说的是我和榭洛科特！
+5,Sierokarte/榭洛科特,Happy holidays!,圣诞节快乐！
+6,Commentator,"Happy holidays, Sierokarte!",圣诞节快乐，榭洛科特！
+7,Commentator,I heard you were the main backer of this event!,我听说你是这次活动的赞助商。
+8,Sierokarte/榭洛科特,That's right! I want to spread the joy of speedships to even more people!,确实，我想让大家都体验到赛艇的乐趣。
+9,Sierokarte/榭洛科特,And what better introduction than an aerobatics show that people of all ages can appreciate?,请大家一起感受刺激非凡的赛艇特技表演吧！
+10,Commentator,You're right! What a great idea!,说的没错，真是无比令人期待。
+11,Commentator,"This will be my first time commentating on an air show, but I'll give it a hundred and twelve percent!",这是我第一次担任赛艇比赛解说，但是我会百分之一百二地投入我的全部！
+12,Commentator,"Oh! While we've been shooting the breeze, it looks like they've gotten everything set to begin the show!",看起来在我们闲聊的时候，一切表演都已经准备就绪。
+13,Commentator,It's time for some holiday wonder and magic! Is everyone ready?,圣诞夜的奇妙魔法秀就要开场了，各位准备好了吗？
+20,Commentator,The Holiday Spectacular Air Show is about to begin!,圣诞赛艇特技表演开始啦！
+22,,"At the signal, four speedships take to the air in a diamond formation, drawing thick trails of smoke behind them through the blue sky.",听到信号，四艘赛艇以菱形的队形飞向空中，在湛蓝的天空中留下四道烟雾。
+23,,"At the head of the diamond is Blue Orbit, with Nightcypher at the left point and Lightning Violet on the right.",菱形的顶端是苍蓝轨迹，身后左边是夜环星、右边是雷霆紫。
+24,,"Bringing up the rear is Beokaiser. The four ships fly in flawless formation, keeping perfect pace with each other.",跟在最后的是领航者，四艘赛艇保持着队形，彼此保持着完美的步调。
+25,Meteon,"This is Azure 1! Squadron, check in!",我是一号，收到请回复。
+25-sel1_txt,,Azure 2 here!,二号收到。
+31,Vyrn/碧,Everything's A-okay aboard the Nightcypher!,夜环星——一切准备就绪！
+32,Lyria/露莉亚,Yes! Just like we practiced!,是的！就跟我们彩排的一样！
+33,Fehr,"Azure 3, Lightning Violet here! All systems go!",三号雷霆紫收到，一切正常。
+34,Maddie,"If you skyslugs keep dragging your tails, I'm gonna leave you all in my wake!",如果你们这群憨憨们还要在这墨迹，我可要冲到前面去了。
+36,Vyrn/碧,"Yeesh, even when he's not racing, Machine-Man's trying to bite our heads off.",喂，这都不是竞技比赛，机甲大叔还要跟我们扛啊。
+37,Maddie,Ugh! That's because I shouldn't be in the back!,我可不会在你们后面的！
+38,Meteon,"Sorry, Maddie! I figured you were the best pilot to handle that position, since it means flying through the other ships' smoke trails.",对不起，马蒂，我觉得你是担任那个位置的最佳人选了，毕竟要沿着前面的烟雾轨迹飞行。
+39,Maddie,"Tch... Yeah, there's no way your puny little ships could handle it back here.",是啊，你那艘小破船我想是不行吧。
+40,Maddie,"But if you don't fly like your lives depend on it, I'll crush you all into scrap metal!",但是你们要是太墨迹的话，我可不保证不会把你们碾成碎片。
+42,Vyrn/碧,Yikes!,收到！呜哇！
+44,Commentator,Wow! Four speedships have taken off in formation!,哇，四艘赛艇成队形起飞了。
+45,Sierokarte/榭洛科特,This formation is called Diamond in the Blue! The beauty lies in how the ships maintain a fixed distance from one another.,这个阵型叫做“钻石蓝空”，需要赛艇直接保持合适的距离。
+46,Meteon,"Squadron, change formation!",伙计们，改变阵型。
+46-sel1_txt,,Roger!,收到！
+48,Fehr,Copy that!,好的！
+49,Maddie,Roger!,没问题！
+51,Commentator,Oh! All four ships just performed a 180-degree roll and started flying upside down!,哇，四艘赛艇进行一百八十度旋转，开始颠倒飞行。
+52,Sierokarte/榭洛科特,"A Four-Ship Roll! Flying upside down like that, they have to work their control sticks in reverse, so it's quite the tricky maneuver.",四方逆航！像这样颠倒飞行，必须反方向操作操纵杆，是相当复杂的特技。
+53,Commentator,And now they seem to be climbing higher!,他们似乎还要提升高度。
+55,Lyria/露莉亚,Nngh... It's still kinda scary flying upside down!,啊……这样颠倒飞行还有点恐怖。
+56,Meteon,"Doing fine, squadron. Are you ready?",做得好，伙计们，准备好了吗？
+56-sel1_txt,,Standing by!,完全OK！
+58,Fehr,Ready!,准备就绪。
+59,Maddie,"Hahaha! Finally, we're getting to the good part!",哈哈哈哈，终于到了最精彩的部分！
+61,Commentator,"Ohh! First a dive, and now they seem to be spreading out in different directions!",哇！先是俯冲，现在他们似乎向不同方向散开了！
+62,Sierokarte/榭洛科特,Ooh! A Sky Flower maneuver! See how the formation opens up like a huge flower?,哇哦，天花烂漫！看到他们像开花一样的阵型了吗？
+63,Meteon,Next is the big finale! Here we go!,接下来就是大结局了，上吧！
+63-sel1_txt,,Copy that!,没问题！
+69,Lyria/露莉亚,Copy!,收到！
+70,Vyrn/碧,Roger!,冲！
+71,Fehr,Let's do this!,一起上吧！
+72,Maddie,"Hah! Don't mess it up, now!",哈，都别给我搞砸了！
+74,Commentator,What's this? The other ships have peeled off from Blue Orbit and are zigzagging through the air!,这是怎么回事，其他赛艇脱离了苍蓝轨迹，在空中曲折盘旋。
+75,Sierokarte/榭洛科特,Hmm! I don't recognize this maneuver!,嗯……我不记得这个花式了，
+76,Commentator,"They're drawing zigzags in three directions, and climbing again...",他们三个走了一个之字型，然后继续提升高度。
+77,Commentator,They seem to have leveled off... And now they're crossing each other's trails...,他们似乎已经平稳下来……开始沿着其他人的轨迹飞行。
+90,Commentator,"Oh, is this a star formation? Wait... Wait just one minute! Don't tell me...",哦，这是星星形状吗？等等……别吧……
+91,Sierokarte/榭洛科特,"I seee! It's a holiday tree, complete with a star on top!",我看出来了！这是圣诞树，最上面有一个星星！
+92,Sierokarte/榭洛科特,Hehehe... These aerobats really know how to celebrate the holiday season!,嚯嚯嚯，这些赛艇手们可真会玩！
+93,Commentator,Now that's what I call a generous spirit! That's one heck of a festive gift they got us!,这应该就是节日的精髓所在了，他们给了我们一个惊喜！
+94,,"The four speedships' smoke trails have outlined a huge, decorated tree in the sky above the amphitheater.",四艘快艇的烟雾轨迹在竞技场的上空勾勒出一棵装饰过的圣诞树。
+95,,A resounding cheer goes up from the audience as they gaze skyward.,观众们仰望着天空，发出雷鸣般的掌声。
+101,Meteon,Hahaha! I think they like it!,看来演出取得了大成功啊！
+102,Fehr,Yes! They seem so happy!,是的，大家非常开心。
+103,Maddie,Heh! Guess you're not all useless after all.,哈啊，看来你们还是有点实力的。
+106,Vyrn/碧,Hehe! You're darn tootin'!,诶嘿，这才像话嘛！
+107,Lyria/露莉亚,"We did it, 姬塔! I'm so proud of us!",姬塔！我们做到了！
+108,,姬塔 and the others congratulate each other on their performance.,表演获得了大成功，大家互相道贺。
+109,,"Still riding high on their success, they come in for a perfect landing.",完美着陆令人欣喜。
+116,???,Hngh... Gyah!,……啊！
+118,,"In the middle of a high five with his neighbor, an audience member collapses with a cry of pain.",当观众席热烈的掌声响起时，一名观众痛苦地倒下了。
+119,,"With the aerobatics display over, closing ceremonies are about to begin.",特技表演结束之后，闭幕式即将开始。
+125,,"Meteon and the other pilots are relaxing backstage, waiting for their cue, when Sierokarte runs in.",缪恩和其他赛艇手正在后台休息等待指示，这时，榭洛科特匆忙地跑了进来。
+126,Sierokarte/榭洛科特,"Bad news, everyone!",各位，有个坏消息！
+127,Meteon,What is it?,怎么回事？
+128,Sierokarte/榭洛科特,"Well, Santa Claus was scheduled to do a flyover and drop gifts for the audience during the closing ceremonies.",本来圣诞老人打算在闭幕式上飞一圈给观众洒礼物。
+129,Sierokarte/榭洛科特,"But he threw his back out, so now he can't do it!",但他不小心摔到了背，所以没法发礼物了。
+130,Lyria/露莉亚,Poor Santa... I hope he'll be all right.,好可怜，希望圣诞老人没事。
+131,Vyrn/碧,Couldn't we just hand out the gifts on the ground then?,要不我们就在地上给大家发礼物吧？
+132,Sierokarte/榭洛科特,"That'd be fine, but it seems word got out there wouldn't be any gifts, and so everybody started going home...",但是现在大家都以为没有发礼物环节了，都开始准备回家。
+133,Meteon,And here the event was going so well...,活动到现在一直都很顺利……
+134,,Meteon thinks of all the dejected speedship fans.,缪恩想到了失望的赛艇迷们。
+135,Meteon,We can't let them go home disappointed.,我们可不能让他们留下遗憾。
+136,Meteon,"Say, Siero. Could I do it?",那啥，要不然我去好了？
+137,Sierokarte/榭洛科特,"You? It's a fine idea, but I think everyone's gone home by now...",你去？这也是个办法，但是现在大家都准备离场了……
+138,Meteon,Don't worry. Blue Orbit and I can catch up.,不用担心，我和苍蓝轨迹能追上大家的。
+139,,"Flush with the holiday spirit, Meteon decides to take on Santa Claus's mantle and finish the air show off right. ",为了打造一个完美的圣诞节，缪恩决定穿上圣诞老人的衣服，完成最后的空中秀。
+info,,,scene_chr581_q3_s10
+译者,,,旌歌

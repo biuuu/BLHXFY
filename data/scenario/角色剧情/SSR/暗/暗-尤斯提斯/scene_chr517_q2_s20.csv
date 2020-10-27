@@ -1,0 +1,53 @@
+id,name,text,trans
+0-chapter_name,,平穏の灯火,平穏的灯火
+0-synopsis,,ユーステスのいない姬塔達の艇に、突然組織の兵が現れる。組織の兵は、ユーステスが任務中に危機に陥り、連絡が取れないので救出作戦に協力して欲しいと話す。姬塔は作戦に協力するためルリアとビィを連れて出立するが、組織の兵がルリアの力を利用しようとしていることに気づき、組織の兵に戦いを挑む。,在尤斯缇斯不在的时候，骑空艇上的姬塔他们面前突然出现了组织的士兵。组织的士兵说，因为尤斯缇斯在作战中陷入危机，与他取不上联络，所以想要他们帮忙救出尤斯缇斯。姬塔为了协助他们的作战，把碧和露莉亚也带了出去，察觉到组织的士兵想利用露莉亚的力量，姬塔和组织的士兵展开了战斗。
+1,,<span class='scene-font-katari'>喪失の余韻は心を凍らし、</span><br><span class='scene-font-katari'>それを覚悟と呼んでいた。</span>,<span class='scene-font-katari'>失去某物的残存感觉冻结了心脏</span><br><span class='scene-font-katari'>那是被唤作觉悟之物。</span>
+2,,<span class='scene-font-katari'>けれど、いつの間にか胸に触れた</span><br><span class='scene-font-katari'>温かさは少しずつ氷を解かす。</span>,<span class='scene-font-katari'>但是不知何时起胸口被温暖所触碰</span><br><span class='scene-font-katari'>心口的寒冰渐渐地，渐渐地融化了。</span>
+7,,<span class='scene-font-katari'>知らなかったわけではない。</span><br><span class='scene-font-katari'>止まっていただけの感情は</span><br><span class='scene-font-katari'>動き始めた。</span>,<span class='scene-font-katari'>并非毫不知晓。</span><br><span class='scene-font-katari'>曾一度停滞的情感</span><br><span class='scene-font-katari'>开始萌动了。</span>
+8,,<span class='scene-font-katari'>手に入れた力は、</span><br><span class='scene-font-katari'>泣けるくらい優しく心地よい</span><br><span class='scene-font-katari'>その灯火を守る為にふるう。</span>,<span class='scene-font-katari'>手中挥舞的力量，</span><br><span class='scene-font-katari'>是为了守护那温柔的</span><br><span class='scene-font-katari'>惬意得近乎使他落泪的那片灯火。</span>
+9,,<span class='scene-font-katari'>凍土から蒼天を焦がすほどの</span><br><span class='scene-font-katari'>強さで、そう誓った。</span>,<span class='scene-font-katari'>以连冻土与苍天都能烧灼的这份力量</span><br><span class='scene-font-katari'>如此起誓道。</span>
+15,組織の兵１,すみません！<br>どなたかいらっしゃいませんか！？,非常抱歉！<br>请问诸位在吗！？
+16,ビィ/碧,なんだぁ？<br>大きな声がしたけど……,怎么了？<br>这么大声地叫我们……
+17,組織の兵１,ああ、お会いできて良かった！<br>急ぎのお願いがあって<br>参りました！,啊啊，能见到你们真是太好了！<br>我是有个紧急的请求<br>才来到这里的！
+18,ルリア/露莉亚,確か、ユーステスさんの<br>組織の兵士さん……？,确实是，尤斯缇斯所属的<br>组织的士兵……？
+19,ビィ/碧,急ぎの用事？,紧急的要事？
+20,ビィ/碧,どうしたってんだ？<br>ユーステスなら今いねぇぞ。<br>,怎么了吗？<br>尤斯缇斯现在不在这里哦。<br>
+21,組織の兵２,そのユーステスさんについて<br>お話があるんです。,是与那位尤斯缇斯<br>有关的事情。
+22,組織の兵１,実は、任務の最中でユーステスさんが<br>危機に陥ったと連絡がありまして……,其实，是因为传来了在任务途中<br>尤斯缇斯陷入了危机的消息……
+23,ルリア/露莉亚,ええっ！？,诶诶！？
+24,ビィ/碧,だ、大丈夫なのか！？,他，他还好吗！？
+25,組織の兵２,現在、連絡のとれない<br>状態が続いています。,现在仍旧是<br>无法取得联络的状态。
+26,ルリア/露莉亚,そんな……！,怎么会这样……！
+27,組織の兵１,救出作戦に、姬塔さんの<br>ご協力を要請しに参りました。,我来这是想请求姬塔<br>加入这次援救作战协助我们。
+28,,<span class='scene-font-katari'>ユーステスの安全のためにも</span><br><span class='scene-font-katari'>目立たずに行動したいと言う</span><br><span class='scene-font-katari'>兵達の言葉に従い──</span>,<span class='scene-font-katari'>听从了士兵所说的</span><br><span class='scene-font-katari'>为了尤斯缇斯的安全</span><br><span class='scene-font-katari'>不要做出惹眼的行动的话语──</span>
+29,,<span class='scene-font-katari'>姬塔は、</span><br><span class='scene-font-katari'>ビィとルリアだけを連れて</span><br><span class='scene-font-katari'>グランサイファーを発った。</span>,<span class='scene-font-katari'>姬塔只是</span><br><span class='scene-font-katari'>带上了碧和露莉亚</span><br><span class='scene-font-katari'>就离开了格兰赛法。</span>
+34,組織の兵２,姬塔さん達は、<br>俺達の組織が「星晶獣」を<br>狩っていることは知っていますか？,姬塔你们，<br>知道我们的组织<br>正狩猎着「星晶兽」这件事吗？
+35,ルリア/露莉亚,はい、一応は。,是的，姑且还是知道的。
+36,ビィ/碧,詳しいことは知らねぇけど、<br>アイツらの武器が、星晶獣相手に<br>力を発揮するのは知ってるぜ。,虽然具体的详情我们也不是很了解，<br>但是那些家伙们的武器，和星晶兽作战的时候<br>能发挥出强大的力量这件事我们还是知道的。
+37,組織の兵１,それなら話が早いです。,那么就省去我的一番说明了呢。
+38,ビィ/碧,なんだ？<br>どうしたんだ？,怎么了？<br>是有什么事吗？
+39,組織の兵１,単刀直入に言いますが、<br>今回に限らず、今後も我々に<br>ご協力いただけないですか？,我就单刀直入的说了，<br>不仅限于这次，能否在今后<br>也协助与我们呢？
+40,ビィ/碧,そりゃあ……どういう意味だ？,那是……什么意思呢？
+41,組織の兵２,そちらの……<br>ルリアさんのことは聞いています。,我听说过……<br>那边那位露莉亚的事。
+42,ルリア/露莉亚,私……ですか？,我……吗？
+43,組織の兵２,星晶獣を操ることができるとか。<br>素晴らしい力じゃないですか！,能够操纵星晶兽什么的。<br>不是非常了不起的力量吗！
+44,ルリア/露莉亚,あ、あの……,那，那个……
+45,,<span class='scene-font-katari'>姬塔は、</span><br><span class='scene-font-katari'>ルリアを庇うようにさりげなく</span><br><span class='scene-font-katari'>前に出る。</span>,<span class='scene-font-katari'>姬塔为了保护露莉亚</span><br><span class='scene-font-katari'>不假思索地</span><br><span class='scene-font-katari'>往前走上一步。</span>
+46,組織の兵１,その力、我々組織の元で<br>使ってもらうわけには<br>いかないですか？,那力量，难道不能<br>在我们的组织里<br>为我们所用吗？
+47,ビィ/碧,いや、オイラ達は……,不，我们……
+48,組織の兵２,そうですよ！<br>組織に来てもらえたら、<br>その力をもっとうまく使えますよ！,说的是啊！<br>如果来我们组织的话，<br>就能更好地使用那力量了！
+49,ルリア/露莉亚,でも、私……,但是，我……
+49-sel1_txt,,<span class='scene-font-katari'>お断りします</span>,<span class='scene-font-katari'>请容我拒绝</span>
+49-sel2_txt,,<span class='scene-font-katari'>ふざけるな</span>,<span class='scene-font-katari'>别说傻话了</span>
+50,ビィ/碧,そうだぜ！<br>オイラ達は騎空士だ。,对啊！<br>我们可是骑空士啊。
+51,ビィ/碧,オイラ達にはオイラ達の<br>目的があって旅をしてるんだ！,我们也是有我们的目的<br>才踏上旅途的啊！
+52,ビィ/碧,そんな言い方してくる奴らの<br>ところになんて<br>ルリアをやれるもんか！,才不会让露莉亚<br>去到和我们说这种话的<br>家伙们的身边去呢！
+53,ビィ/碧,よく言った！<br>姬塔！,说得好啊！<br>姬塔！
+54,ビィ/碧,なんかいい感じな<br>言い方してるけどよぉ……,还觉得你们的态度<br>感觉挺好的呢……
+55,ビィ/碧,お前ら結局、ルリアの力を<br>都合のいいように利用したがった<br>帝国と同じじゃねぇか！,但是结果你们，<br>和想要利用露莉亚的力量的帝国<br>不是一样的吗！
+56,ルリア/露莉亚,姬塔、ビィさん……！,姬塔，碧……！
+57,組織の兵２,ふーん……<br>なるほどね。,哼……<br>原来如此啊。
+58,組織の兵１,手荒な真似は<br>したくなかったんですが……,虽然我并不想<br>做出这么粗暴的行为……
+60,組織の兵２,俺達も、黙って引き下がるわけには<br>いきませんよ！,但是我们也，不能就这么<br>默默地退下呢！
+info,,,scene_chr517_q2_s20
+译者,,,

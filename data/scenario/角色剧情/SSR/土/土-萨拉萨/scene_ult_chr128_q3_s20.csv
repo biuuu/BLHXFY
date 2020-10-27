@@ -1,0 +1,26 @@
+id,name,text,trans
+0-chapter_name,,真なる強さを得るために,为了得到真正的强大
+0-synopsis,,腕試しを終えた三寅斧は、意思が弱いと姬塔ーサの弱点を指摘する。そして「最強を目指すならば、自分よりも強い相手と戦い、その相手が抱えているものを知れ」と姬塔ーサに告げる。姬塔ーサは十天衆を倒し、姬塔に再度挑むことを決めると、三寅斧を担ぎ歩き出すのだった。,结束了试炼的三寅斧指出了萨拉萨意志薄弱以及弱点。然后告诉萨拉萨「要追求最强，就要与比自己更强的对手战斗，并且知道对手所拥有的东西」。萨拉萨决定打倒十天众，并且再度挑战姬塔，便提着三寅斧迈出步伐。
+2,三寅斧,<span class='scene-font-gray'>……見事。</span>,<span class='scene-font-gray'>……漂亮。</span>
+3,姬塔ーサ/萨拉萨,なかなか強かったけど、<br>まだまだだな！,虽然你很强，<br>但还远远不够！
+5,三寅斧,<span class='scene-font-gray'>……ふむ。</span><br><span class='scene-font-gray'>主は先ほど最強になりたいと言ったな。</span>,<span class='scene-font-gray'>……哼。</span><br><span class='scene-font-gray'>主人你刚才说你想成为最强吧。</span>
+6,姬塔ーサ/萨拉萨,ああ！,啊啊！
+8,三寅斧,<span class='scene-font-gray'>主は強い。</span><br><span class='scene-font-gray'>それは事実だ。</span><br><span class='scene-font-gray'>されど、主は心が……意思が弱い。</span>,<span class='scene-font-gray'>主人你很强。</span><br><span class='scene-font-gray'>这是事实。</span><br><span class='scene-font-gray'>但是，主人你的心……你的意志薄弱。</span>
+9,三寅斧,<span class='scene-font-gray'>今のままでは、</span><br><span class='scene-font-gray'>主が望む最強には決して届かぬ。</span>,<span class='scene-font-gray'>像这样下去，</span><br><span class='scene-font-gray'>主人你绝对无法达到你所期望的最强。</span>
+10,三寅斧,<span class='scene-font-gray'>今以上の強さを……</span><br><span class='scene-font-gray'>最強を求めるのであれば、</span><br><span class='scene-font-gray'>身体だけでなく心を鍛えよ。</span>,<span class='scene-font-gray'>你如要追求超越现在的强大……</span><br><span class='scene-font-gray'>追求最强的话，</span><br><span class='scene-font-gray'>不仅要锻炼肉体还有心。</span>
+11,三寅斧,<span class='scene-font-gray'>否、己が意思を自覚せよ。</span><br><span class='scene-font-gray'>さすれば、主はさらに強くなれる。</span>,<span class='scene-font-gray'>不，你要让自己的意志觉醒。</span><br><span class='scene-font-gray'>这样的话，主人你会变得更强。</span>
+12,姬塔ーサ/萨拉萨,…………,…………
+13,姬塔ーサ/萨拉萨,む、難しいこと言うな！<br>全然わかんないぞ！,别、别说这么复杂的话！<br>完全听不懂！
+15,三寅斧,<span class='scene-font-gray'>……我をもって、</span><br><span class='scene-font-gray'>自分より強い相手と戦え。</span><br><span class='scene-font-gray'>そして、相手の抱えているものを知れ。</span>,<span class='scene-font-gray'>……拿着我，</span><br><span class='scene-font-gray'>去和比自己强的对手战斗。</span><br><span class='scene-font-gray'>然后知晓对手所拥有的东西。</span>
+16,姬塔ーサ/萨拉萨,えーっと、つまり……<br>あたしより強い奴と戦えばいいんだな！,那个，也就是说……<br>只要跟比我强的家伙战斗就行了对吗！
+18,三寅斧,<span class='scene-font-gray'>そうだ。</span><br><span class='scene-font-gray'>そして聞くがよい。</span><br><span class='scene-font-gray'>なぜ、強くなりたいのかを……</span>,<span class='scene-font-gray'>没错。</span><br><span class='scene-font-gray'>然后你去问就对了。</span><br><span class='scene-font-gray'>为什么你想要变强……</span>
+19,姬塔ーサ/萨拉萨,そうすれば、<br>あたしは今より強くなれるのか？,这样的话，<br>我就能变得比现在更强吗？
+21,三寅斧,<span class='scene-font-gray'>ああ。</span><br><span class='scene-font-gray'>この</span><span class='scene-font-spword'>三寅斧</span><span class='scene-font-gray'>が約束しよう。</span>,<span class='scene-font-gray'>啊啊。</span><br><span class='scene-font-gray'>我</span><span class='scene-font-spword'>三寅斧</span><span class='scene-font-gray'>向你保证。</span>
+22,姬塔ーサ/萨拉萨,わかった！,知道了！
+23,姬塔ーサ/萨拉萨,でも、あたしと同じくらい強い奴って、<br>十天衆のみんなか<br>姬塔ぐらいだよな。,但是，与我差不多强的，<br>就只有十天众的大家<br>和姬塔了吧。
+24,姬塔ーサ/萨拉萨,でも、姬塔には、<br>負けたばっかりだしな……,但我刚<br>输给了姬塔……
+25,姬塔ーサ/萨拉萨,よし、なら、十天衆のみんなを倒して、<br>強くなってから、<br>もう一度、姬塔に挑もう！,好嘞，那就先打倒十天众的大家，<br>变强了以后，<br>再挑战姬塔一次！
+26,,<span class='scene-font-katari'>そう言うと姬塔ーサは</span><br><span class='scene-font-spword'>三寅斧</span><span class='scene-font-katari'>を担ぎ、</span><br><span class='scene-font-katari'>ゆっくりと歩き出す。</span>,<span class='scene-font-katari'>这样说着，萨拉萨提着</span><br><span class='scene-font-spword'>三寅斧</span><span class='scene-font-katari'>，</span><br><span class='scene-font-katari'>慢慢地迈出步伐。</span>
+27,,<span class='scene-font-katari'>更なる強さを……</span><br><span class='scene-font-katari'>最強を目指して……</span>,<span class='scene-font-katari'>目标变得更强……</span><br><span class='scene-font-katari'>成为最强……</span>
+info,,,scene_ult_chr128_q3_s20
+译者,,,

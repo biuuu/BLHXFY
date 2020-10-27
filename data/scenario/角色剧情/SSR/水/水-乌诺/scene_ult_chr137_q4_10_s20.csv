@@ -1,0 +1,26 @@
+id,name,text,trans
+0-chapter_name,,遙か、孤高を望む,期待着，遥远的孤高
+0-synopsis,,戦いは姬塔の勝利に終わる。ウーノは姬塔の真っ直ぐな強さを称え、一伐槍を姬塔へと返す。ビィとルリアはウーノが得た答えが何なのかを訊く。ウーノは戦った者にしか解らないもので言葉にするのは難しいと言い、自分と手合せをしないかと、ビィとルリアをからかうのだった。,战斗以姬塔的胜利告终。乌诺说姬塔是率直的强大，并把一伐枪还给了姬塔。碧和露莉亚问乌诺得到了什么答案。乌诺说这是只有战斗的人才能明白的，用言语很难表述，还捉弄碧和露莉亚说要不要与他战斗。
+1,,<span class='scene-font-katari'>ウーノは姬塔に敗北するも、</span><br><span class='scene-font-katari'>実に心地よい顔で笑う。</span>,<span class='scene-font-katari'>虽然乌诺输给了姬塔，却一脸舒心地笑了。</span>
+2,,<span class='scene-font-katari'>それはまるで、</span><br><span class='scene-font-katari'>最初からこうなることが</span><br><span class='scene-font-katari'>解っていたかのように清々しかった。</span>,<span class='scene-font-katari'>仿佛一开始就知道会是这个结果一般，十分神清气爽的模样。</span>
+3,ウーノ/乌诺,ふふふ、やはり君はいいね。<br>真っ直ぐな強さが実に心地良い。,呵呵呵，果然你很好啊。率直的强大真是令人舒心啊。
+4,ウーノ/乌诺,おっと、忘れるところだった。<br>これは君に返しておかないとね。,哎呀，差点忘了。这个必须还给你啊。
+5,,<span class='scene-font-katari'>そう言って、</span><br><span class='scene-font-spword'>一伐槍</span><span class='scene-font-katari'>を姬塔へ渡す。</span>,<span class='scene-font-katari'>这么说着，把</span><span class='scene-font-spword'>一伐枪</span><span class='scene-font-katari'>递给了姬塔。</span>
+6,ウーノ/乌诺,しかし、<span class='scene-font-spword'>天星器</span>というものは<br>なんとも不思議なものだ。,但是，<span class='scene-font-spword'>天星器</span>这种东西还真是不可思议啊。
+7,ウーノ/乌诺,求めている者を見極め、<br>求めている物を与えてくれる。,确认寻求者，并给予寻求之物。
+8,ウーノ/乌诺,しかし、やや頼もし過ぎる嫌いがある。<br>扱いには重々注意するといいだろう。,但是太过依赖也不好。使用的时候要着重注意才行啊。
+9,ウーノ/乌诺,もっとも、君のことだ、<br>心配には及ばないだろうがね。,不过因为是你，肯定不必担心的吧。
+10,ルリア/露莉亚,えーっと……<br>それで、ウーノさんの答えって<br>なんだったんでしょう？,那个……那乌诺的答案是什么呢？
+11,ビィ/碧,そうだよ、オイラ、<br>ちっとも解んなかったぞ！,是啊，我们完全不懂啊！
+12,ウーノ/乌诺,先ほどの戦い、それが全てだ。,全部都在刚刚的战斗中了。
+13,ルリア/露莉亚,えーっと……,那个……
+14,ビィ/碧,いや、だからそれじゃ解んねーって<br>言ってんじゃねーかよ！,不，所以不是说了只有那样我们不懂嘛！
+15,ウーノ/乌诺,うーん……<br>それは戦った者にしか解らないものだ。<br>言葉にするのは難しくてね……,嗯……那是只有战斗者才能明白的，用语言很难以描述呢……
+16,ウーノ/乌诺,ああ、そうだ。<br>だったら君達も、<br>私と一つ手合わせをしてみるかい？,啊啊，对了。那你们也和我比试一场吧？
+17,ルリア/露莉亚,<span class='scene-font-4'>ええっ！？</span><br>そんなの無理です！,<span class='scene-font-4'>诶诶！？</span><br>那种事做不到的啦！
+18,ビィ/碧,おいおい、いくらなんでも<br>そんなことできるわけねーだろ！,喂喂，那种事无论如何我们都做不到的吧！
+19,ウーノ/乌诺,ふふふ……,呵呵呵……
+20,,<span class='scene-font-katari'>ウーノが冗談めかして笑うと、</span><br><span class='scene-font-katari'>ルリアとビィもつられて笑う。</span>,<span class='scene-font-katari'>乌诺玩笑得逞地笑了，露莉亚和碧也跟着笑了。</span>
+21,,<span class='scene-font-katari'>先ほどまでの勇ましい顔つきが崩れ、</span><br><span class='scene-font-katari'>姬塔も子供らしい顔で</span><br><span class='scene-font-katari'>笑い続けるのだった。</span>,<span class='scene-font-katari'>姬塔也撑不住刚刚那勇猛的表情，和他们一起孩子气地笑了。</span>
+info,,,scene_ult_chr137_q4_10_s20
+译者,,,

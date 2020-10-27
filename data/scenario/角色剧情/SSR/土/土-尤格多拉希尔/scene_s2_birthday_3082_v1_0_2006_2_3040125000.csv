@@ -1,0 +1,9 @@
+id,name,text,trans
+0,,<span class='scene-font-katari'>姬塔は自室から漏れてくる</span><br><span class='scene-font-katari'>賑やかな声を聞き、</span><br><span class='scene-font-katari'>誰だろうと思って扉を開けると──</span>,<span class='scene-font-katari'>姬塔听到自己房间里有很热闹的声音传出来，</span><br><span class='scene-font-katari'>一边想着是谁，一边打开房门——</span>
+6,ユグドラシル/尤格多拉希尔,────！,————！
+7,,<span class='scene-font-katari'>ユグドラシルが笑顔で出迎え、</span><br><span class='scene-font-katari'>机の上にはケーキが用意されていた。</span>,<span class='scene-font-katari'>尤格多拉希尔出来迎接，</span><span class='scene-font-katari'>桌子上还准备了蛋糕。</span>
+8,,<span class='scene-font-katari'>いや、よく見れば</span><br><span class='scene-font-katari'>それは本物のケーキではなく、</span><br><span class='scene-font-katari'>花で作られたものらしい。</span>,<span class='scene-font-katari'>不，仔细看看的话发现那不是真正的蛋糕，</span><br><span class='scene-font-katari'>是用花做成的。</span>
+9,,<span class='scene-font-katari'>なるほど、彼女らしい贈り物だ。</span><br><span class='scene-font-katari'>姬塔は花の香りに包まれながら</span><br><span class='scene-font-katari'>微笑ましい気分になる。</span>,<span class='scene-font-katari'>原来如此，还真是她的风格的礼物。</span><br><span class='scene-font-katari'>姬塔被花香包围，不禁想要微笑。</span>
+10,,<span class='scene-font-katari'>我知らず頬が緩んでいたのか、</span><br><span class='scene-font-katari'>姬塔の表情を見た</span><br><span class='scene-font-katari'>彼女の顔が一層明るくなるのだった。</span>,<span class='scene-font-katari'>大概在自己不知道的情况下笑了起来，</span><br><span class='scene-font-katari'>她看到姬塔的表情后表情更加开心了。</span>
+11,ユグドラシル/尤格多拉希尔,────！！,————！！
+info,,,scene_s2_birthday_3082_v1_0_2006_2_3040125000

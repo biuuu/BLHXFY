@@ -1,0 +1,110 @@
+id,name,text,trans
+0-chapter_name,,蒼き世界の邂逅,碧蓝世界的邂逅
+0-synopsis,,ジョーカー達がメメントス探索中に見つけた亀裂の先には、島が空に浮かぶ不思議な世界が広がっていた。辿り着いた街を散策中、一同は腕相撲で賭け事を行う無頼漢を見かける。スカルが挑戦しようとするが、スカル達と無頼漢の話は噛み合わず、一触即発の状況となる。ジョーカーが仲裁に入ろうとしたところで、背後から姬塔達の足音が近づいて来るのだった。,JOKER一行人在探索印象空间时发现了裂缝，穿过裂缝展现在眼前的，是个岛屿漂浮在空中的不可思议的世界。一行人好不容易来到城镇，在闲逛时遇到了靠扳手腕赌博的流氓。SKULL想要进行挑战，但一行人和流氓发生口角，形势一触即发。就在JOKER想要介入调停的时候，背后传来团长一行人走近的脚步声。
+1,,<span class='scene-font-katari'>ジョーカー達がメメントス探索中に</span><br><span class='scene-font-katari'>見つけた亀裂の先には、見渡す限りの</span><br><span class='scene-font-katari'>草原と果てしない蒼空が広がっていた。</span>,<span class='scene-font-katari'>JOKER一行人在探索印象空间时</span><br><span class='scene-font-katari'>发现了裂缝，穿过裂缝</span><br><span class='scene-font-katari'>展现在眼前的是一望无际的草原和蓝天。</span>
+7,スカル,なぁなぁ！　<br>あんなデッケェ島が<br>どうやって空に浮いてんだ？,喂喂！　<br>这么大一个岛<br>是怎么浮在空中的啊？
+9,パンサー,んーっ！<br>風が気持ちいい～！,嗯——！<br>好舒服的风～！
+10,フォックス,蒼空の蒼、雲海の白……<br>スーツの赤、草原の緑……,蓝色的碧空，白色的云海……<br>红色的衣服，绿色的草原……
+11,,<span class='scene-font-katari'>伸びをするパンサーに向かって</span><br><span class='scene-font-katari'>指先で構図を取るフォックス。</span>,<span class='scene-font-katari'>面朝正在伸懒腰的PANTHER</span><br><span class='scene-font-katari'>FOX用手指框起了构图。</span>
+12,モナ,おいお前達！<br>はしゃぎ過ぎて崖から落っこちるなよ！,喂我说你们！<br>小心别闹过头从悬崖掉下去啊！
+13,スカル,大丈夫だって！<br>落ちたら、モナが飛行機に<br>変身して助けに来てくれるもんな！,没事的啦！<br>要是掉下去，MONA会变身成<br>飞机来救我们的嘛！
+14,モナ,無理だっつーの！,不可能的好吧！
+15,パンサー,ねぇねぇ、モナの力で<br>向こうの島に渡れないかな？,我说，可以用MONA的力量<br>把我们带到对面的岛上吗？
+16,モナ,だからワガハイは便利な<br>ネコ型ロボットじゃねぇ！,吾辈才不是那种便利的<br>猫型机器人！
+17,フォックス,ああ……美しい……<br>見事なコントラストだ……,啊啊……真美……<br>这对比太棒了……
+18,フォックス,<span class='scene-font-kokoro'>（これは……</span><br><span class='scene-font-kokoro'>なかなか良い構想が浮かびそうだ）</span>,<span class='scene-font-kokoro'>（这是……</span><br><span class='scene-font-kokoro'>感觉有不错的灵感浮现出来了）</span>
+19,,<span class='scene-font-katari'>ジョーカーは、騒がしい怪盗団の</span><br><span class='scene-font-katari'>仲間達を前に、ひとり黙考していた。</span>,<span class='scene-font-katari'>JOKER看着眼前闹腾的</span><br><span class='scene-font-katari'>怪盗团的伙伴，独自默默思考着。</span>
+20,モナ,ん……<br>どうしたジョーカー？,嗯……<br>怎么了JOKER？
+21,ジョーカー,見ろ……！,你看……！
+26,,<span class='scene-font-katari'>ジョーカーの指差す雲の合間から</span><br><span class='scene-font-katari'>突如巨大な騎空艇が現れ</span><br><span class='scene-font-katari'>風と共に通り過ぎていく。</span>,<span class='scene-font-katari'>从JOKER手指着的云朵缝隙间</span><br><span class='scene-font-katari'>突然出现了巨大的骑空艇</span><br><span class='scene-font-katari'>乘着风飞了过去。</span>
+32,パンサー,キャッ！<br>すごい風！,呀！<br>好大的风！
+33,スカル,うぉー！<br>なんだよあの空飛ぶデカいの！,呜哇！<br>天上飞的那大家伙是什么啊！
+34,モナ,飛行船か！？,是飞船吗！？
+35,フォックス,このローアングルもまた画になるな……,这个仰角也像是一幅画呢……
+36,ジョーカー,あの飛行船を追いかけるぞ。,我们追上那艘飞船。
+37,スカル,……っ！　そうだな！<br>何かこの世界の手がかりがあるかもな！,……！　对啊！<br>说不定会有什么关于这个世界的线索！
+38,,<span class='scene-font-katari'>こうしてジョーカー達は、</span><br><span class='scene-font-katari'>飛行船らしきものの後を</span><br><span class='scene-font-katari'>追いかけるのだった。</span>,<span class='scene-font-katari'>就这样JOKER一行人，</span><br><span class='scene-font-katari'>向着那个像飞船一样的东西</span><br><span class='scene-font-katari'>追了过去。</span>
+45,,<span class='scene-font-katari'>飛行船らしきものが降りた場所には、</span><br><span class='scene-font-katari'>高い塔が聳える街が広がっていた。</span>,<span class='scene-font-katari'>在飞船降落的地方，</span><br><span class='scene-font-katari'>出现了一个高塔耸立的城镇。</span>
+47,スカル,スゲー！<br>何かヨーロッパの街みたいだな！,好厉害！<br>感觉就像欧洲的城镇一样！
+48,モナ,おいスカル！<br>シャドウがいるかもしれないから<br>気を抜くなよ！,喂SKULL！<br>说不定这里有暗影<br>不要掉以轻心！
+49,スカル,はいはい！<br>分かってるって！,是是！<br>我知道啦！
+50,パンサー,見たところシャドウもいなそうだし<br>安全そうだけど……？,看上去附近也没有暗影<br>好像挺安全的……？
+51,フォックス,ふむ、ではこのまま<br>街を散策してみるか。,嗯，那就直接<br>在城里闲逛一下吧。
+59,,<span class='scene-font-katari'>警戒を緩めたジョーカー達は、</span><br><span class='scene-font-katari'>賑やかな街の大通りを進む。</span>,<span class='scene-font-katari'>JOKER一行人放松警戒，</span><br><span class='scene-font-katari'>在热闹的大道上向前走。</span>
+66,スカル,おい見ろよ！<br>アイツ等、獣っぽい耳とか<br>角が生えてるぜ！,喂你们看！<br>那些人，长着野兽一样的<br>耳朵和角诶！
+67,パンサー,コスプレ……？　なのかな？<br>私達も目立たなくていいけど……,难道是……？　COSPLAY吗？<br>我们没那么引人注意了倒也不错……
+68,モナ,そう言えば……<br>我々が怪盗服姿のままということは、<br>ここは異世界に近い世界だってことか？,说起来……<br>我们还穿着怪盗服，也就是说<br>这里是类似异世界的地方吗？
+69,フォックス,待ってくれ。<br>どこからかいい匂いがする……,等一下。<br>从哪里飘来好香的味道……
+70,フォックス,よし、試食コーナーが<br>無いか探してくる……！,好，我去找找看<br>有没有试吃的柜台……！
+72,モナ,今はそれどころじゃねーから！,现在不是做这种事的时候！
+73,パンサー,ねぇ見て！<br>あっちで何かやってるみたい！,喂快看！<br>那边好像在做什么！
+74,ジョーカー,行ってみよう。,去看看吧。
+81,,<span class='scene-font-katari'>ジョーカー達が向かった先は、</span><br><span class='scene-font-katari'>街で一番賑わう広場であった。</span>,<span class='scene-font-katari'>JOKER一行人走去的方向，</span><br><span class='scene-font-katari'>正是城里最热闹的广场。</span>
+82,モナ,これは……<br>お祭りか何かか？,这难道……<br>是什么祭典之类的吗？
+83,フォックス,大道芸人達が芸を披露しているな。,街头艺人们在表演节目呢。
+84,,<span class='scene-font-katari'>目の前で様々な芸を披露する</span><br><span class='scene-font-katari'>大道芸人達に目を奪われる一行。</span>,<span class='scene-font-katari'>一行人被眼前表演各种各样节目的</span><br><span class='scene-font-katari'>街头艺人吸引了目光。</span>
+85,パンサー,わぁー！<br>スゴイスゴイ！,哇——！<br>好厉害好厉害！
+86,スカル,ん……？　<br>アレを見てくれ！,嗯……？　<br>你们快看那个！
+87,ジョーカー,何だ？,什么？
+88,スカル,ほら……！　<br>あのアームレスリングの挑戦者求む！<br>って看板！,你看……！　<br>寻求扳手腕挑战者！<br>的那个招牌！
+89,,<span class='scene-font-katari'>スカルの指差した看板には、</span><br><span class='scene-font-katari'>「勝者には、今までの挑戦料を</span><br><span class='scene-font-katari'>全額プレゼント！」と書かれていた。</span>,<span class='scene-font-katari'>SKULL指着的招牌上，</span><br><span class='scene-font-katari'>写了「获胜者，将赢得至今为止</span><br><span class='scene-font-katari'>全部的挑战费！」</span>
+90,フォックス,腕相撲を用いた賭け事か。,靠扳手腕进行的赌博吗。
+91,スカル,なんか面白そうじゃん！<br>俺、アレやってみようかな！,好像很有趣的样子！<br>要不，我去试试看吧！
+92,パンサー,……えっ？<br>や、止めなよ！<br>なんか怖そうな人達だよ？,……咦？<br>别，别去啦！<br>那些人看上去很恐怖啊？
+93,無頼漢,さぁさぁ！<br>どこかに挑戦者はいないか？,来吧来吧！<br>有没有挑战者要来啊？
+94,,<span class='scene-font-katari'>怯えるパンサーの視線の先では</span><br><span class='scene-font-katari'>人相の悪いドラフの男性が、</span><br><span class='scene-font-katari'>威勢よく口上を述べていた。</span>,<span class='scene-font-katari'>PANTHER恐惧的视线望着的</span><br><span class='scene-font-katari'>那个面相凶恶的多拉夫族男性，</span><br><span class='scene-font-katari'>正很有气势地揽着客。</span>
+95,モナ,確かに見るからに<br>悪そうなヤツだな。,确实看上去<br>像是个坏人呢。
+96,スカル,なぁ、ジョーカー！　<br>いいよな？　試しに１回だけ？,喂，JOKER！　<br>可以吧？　我就去试1次？
+97,ジョーカー,好きにしたらいい。,随便你吧。
+98,スカル,オッケー！<br>んじゃ早速挑戦してみるぜ！,OK！<br>那我这就去挑战看看！
+99,,<span class='scene-font-katari'>スカルの後について</span><br><span class='scene-font-katari'>アームレスリングの</span><br><span class='scene-font-katari'>屋台の前に移動する一行。</span>,<span class='scene-font-katari'>一行人跟在SKULL身后</span><br><span class='scene-font-katari'>来到了扳手腕的</span><br><span class='scene-font-katari'>摊位前。</span>
+104,スカル,なぁアンタ！<br>俺にも挑戦させてくれ！,喂老板！<br>也让我挑战看看吧！
+105,無頼漢,なんだその仮面？<br>珍妙な格好のヤツらだな……,怎么戴着面具？<br>真是些奇怪打扮的家伙……
+106,スカル,仮面？　あ、ああ、え～と……,面具？　啊，啊啊，这个……
+107,スカル,趣味だよ趣味！<br>さっき店で買ったの！,是兴趣啦兴趣！<br>刚才在店里买的！
+108,無頼漢,まぁいいか……<br>んじゃ挑戦料を払ってくれ！,算了……<br>那就先付挑战费吧！
+110,スカル,オッケー！<br>これでエントリーだ！,OK！<br>这样就算报名了！
+111,,<span class='scene-font-katari'>その時、スカルの払ったお金を見て</span><br><span class='scene-font-katari'>無頼漢の顔色が変わる。</span>,<span class='scene-font-katari'>这时，看见SKULL付的钱</span><br><span class='scene-font-katari'>流氓的脸色变了。</span>
+112,無頼漢,……あ？　何だよこりゃあ。<br>賭けるのは金だ、カ・ネ。,……啊？　这啥啊。<br>要赌的是钱啊，钱。
+113,スカル,……えっ？<br>どうみても金だろ？,……咦？<br>怎么看这都是钱吧？
+114,無頼漢,……？<br>挑戦料はルピで払いな。,……？<br>挑战费要用卢比支付。
+115,スカル,ルピ？,卢比？
+117,無頼漢,あぁ？　テメェ舐めてんのか？<br>冷やかしならはっ倒すぞ。,啊啊？　你小子耍我吗？<br>要参赛不给钱的话揍你哦。
+119,モナ,お、おいスカル！<br>もう行くぞ！,喂，喂SKULL！<br>我们快走吧！
+120,,<span class='scene-font-katari'>仲裁に入るモナの姿を</span><br><span class='scene-font-katari'>興味深そうに眺める無頼漢。</span>,<span class='scene-font-katari'>流氓饶有兴趣地看着</span><br><span class='scene-font-katari'>前来调停的MONA。</span>
+121,無頼漢,何だその変な生き物は？,这奇怪的生物是啥？
+122,モナ,変な生き物とはなんだ！<br>ワガハイはレッキとしたニンゲンだ！,你才奇怪的生物呢！<br>吾辈可是货真价实的人类！
+123,スカル,おいおい！<br>止めに来たんじゃねーのかよ！<br>ケンカ売ってどーすんだよ！,喂喂！<br>你不是来劝架的吗！<br>怎么反倒变成挑衅了啊！
+124,無頼漢,ほぅ……面白いな。,嚯……有趣。
+125,無頼漢,その猫みたいな生き物を<br>挑戦料の代わりに賭けるなら<br>勝負してもいいぞ？,要是拿这个像猫一样的生物<br>充当挑战费的话<br>我可以和你比试一下哦？
+126,スカル,えっ？　そう来る？<br>どうするモ……,咦？　这也可以？<br>怎么样MO……
+127,モナ,ワガハイを賭けるなんてありえん！<br>考えるまでもないだろう！,拿吾辈当赌注想都不要想！<br>这种事还需要考虑吗！
+128,モナ,あと、猫じゃねーし！,还有，吾辈也不是猫！
+129,パンサー,ねぇ……みんな見てるよ！<br>もう行こう！,喂……大家都在围观我们！<br>快点走了啦！
+130,,<span class='scene-font-katari'>二人を見かねて連れ出そうとした</span><br><span class='scene-font-katari'>パンサーを見た無頼漢の顔色が変わる。</span>,<span class='scene-font-katari'>PANTHER看不下去想要带两人离开</span><br><span class='scene-font-katari'>流氓见了PANTHER脸色变了。</span>
+131,無頼漢,おぉ……そっちの<br>綺麗な姉ちゃんの方がいいな！,哦哦……还是要那边的<br>漂亮小姐姐好了！
+132,パンサー,ええっ！？　私？,咦咦！？　说我吗？
+133,無頼漢,なぁ姉ちゃん、<br>俺と一緒に遊ぼうぜ？,我说小姐姐，<br>和我一起玩玩吧？
+134,パンサー,絶対嫌だ。,绝对不要。
+135,無頼漢,なっ！？,啥！？
+136,モナ,そうだそうだ！<br>誰がお前なんかと遊ぶか！,就是就是！<br>谁会和你这种人玩啊！
+137,スカル,あーもう！<br>みんな落ち着けって！,啊——够了！<br>大家都冷静点！
+139,フォックス,待てっ……！,慢着……！
+140,,<span class='scene-font-katari'>突然、フォックスが無頼漢の前に</span><br><span class='scene-font-katari'>威勢よく立ちはだかる。</span>,<span class='scene-font-katari'>突然，FOX很有气势地</span><br><span class='scene-font-katari'>挡在流氓面前。</span>
+141,フォックス,仕方ない。<br>そこまで言うなら……<br>この俺を賭ければいいだろう？,没办法。<br>既然这样的话……<br>用我来当赌注就行了吧？
+142,無頼漢,ダメだ。,不行。
+143,フォックス,……なっ！　何でだ！<br>何で俺じゃダメなんだ！,……什么！　为什么！<br>为什么我就不行！
+144,無頼漢,うるせぇ！<br>いいからテメェは引っ込んでろ！,吵死了！<br>你给我一边儿去！
+145,スカル,なぁ、おっさんおっさん！<br>もうアームレスリングはいいから！<br>な？　俺達が悪かったって！,喂，大叔大叔！<br>我们不比扳手腕了！<br>行吗？　这次是我们的不对！
+146,,<span class='scene-font-katari'>怒りに震える無頼漢の前から</span><br><span class='scene-font-katari'>強引に立ち去ろうとするスカル。</span>,<span class='scene-font-katari'>SKULL想要从气到浑身发抖的</span><br><span class='scene-font-katari'>流氓面前强行离开。</span>
+150,無頼漢,さんざん人をおちょくりやがって！<br>テメェら許さねぇぞ！,尽把人当猴耍！<br>我不会原谅你们！
+151,スカル,……だから悪かったって<br>謝ってるだろ？,……所以说是我们不好<br>我都道歉了吧？
+152,,<span class='scene-font-katari'>スカルの肩を掴む無頼漢との間に</span><br><span class='scene-font-katari'>一触即発の空気が流れる。</span>,<span class='scene-font-katari'>流氓抓着SKULL的肩膀</span><br><span class='scene-font-katari'>气氛变得一触即发。</span>
+153,パンサー,ちょ……ちょっと！<br>なんかマズくない！,等……等等！<br>这不太妙吧！
+154,フォックス,ああ……このままだと<br>喧嘩は避けられないな。,是啊……这样下去<br>免不了一场争斗。
+156,モナ,ジョーカー！<br>何とかしてくれ！,JOKER！<br>你快做点什么！
+157,ジョーカー,……仕方ない。,……没办法。
+158,,<span class='scene-font-katari'>やれやれと肩をすくめながら</span><br><span class='scene-font-katari'>ジョーカーが仲裁に入ろうとすると、</span><br><span class='scene-font-katari'>どこからともなく足音が近づいて来る。</span>,<span class='scene-font-katari'>正当JOKER不情不愿地按着肩膀</span><br><span class='scene-font-katari'>准备介入调停的时候，</span><br><span class='scene-font-katari'>不知从哪里传来了走近的脚步声。</span>
+159,,<span class='scene-font-katari'>この後、騎空士と名乗る者達と</span><br><span class='scene-font-katari'>邂逅し、意気投合する未来など</span><br><span class='scene-font-katari'>この時はまだ、誰も知らない。</span>,<span class='scene-font-katari'>这时，谁也不知道</span><br><span class='scene-font-katari'>在不久的未来，他们会邂逅这群自称</span><br><span class='scene-font-katari'>骑空士的人们，并与之意气相投。</span>
+info,,,scene_fate_chr467_ep1
+译者,,,KYO

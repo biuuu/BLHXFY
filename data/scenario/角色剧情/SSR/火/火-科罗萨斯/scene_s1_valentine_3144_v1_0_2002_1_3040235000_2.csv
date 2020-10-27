@@ -1,0 +1,30 @@
+id,name,text,trans
+0,コロッサス/科罗萨斯,────……,————
+1,ルリア・イオ/露莉亚・伊欧,うわぁ……！,呜哇……！
+2,,<span class='scene-font-katari'>コロッサスが</span><br><span class='scene-font-katari'>水平に構えるブレードに乗った</span><br><span class='scene-font-katari'>鍋に見入る姬塔達。</span>,<span class='scene-font-katari'>姬塔她们坐在科罗萨斯横举着的刀上，看着锅里。</span>
+3,,<span class='scene-font-katari'>水の張られた鍋には、</span><br><span class='scene-font-katari'>チョコレートの入ったボウルが</span><br><span class='scene-font-katari'>浮かんでいて──</span>,<span class='scene-font-katari'>盛满水的锅里，浮着加入了巧克力的碗——</span>
+4,ルリア/露莉亚,すごい！　コロッサス、すごいです！<br>チョコがみるみる溶けていきますよ！,好厉害！科罗萨斯好厉害！巧克力肉眼可见地融化了呢！
+5,イオ/伊欧,やるじゃない！　剣の温度を、<br>湯煎に丁度いいくらいに維持するなんて<br>ずいぶん器用なことするわね！,做的挺好啊！能把剑的温度控制在刚好把水煮开的程度，你还真是灵巧啊！
+6,コロッサス/科罗萨斯,────……,————
+7,ルリア/露莉亚,ふふ。みんながキッチンに集まって<br>混雑しているところに<br>「力になりたい」って言ってくれて。,呵呵。在大家聚集在厨房拥挤着的时候，说「想帮大家」。
+8,イオ/伊欧,いやー……まさか、チョコづくりに<br>コロッサスが大活躍するなんて<br>思いもしなかったわ、あたし。,哎呀，我完全没料到制作巧克力的时候，会是科罗萨斯的大活跃呢。
+13,,<span class='scene-font-katari'>その後、姬塔達は</span><br><span class='scene-font-katari'>チョコレートを型に流し込み、無事</span><br><span class='scene-font-katari'>バレンタインの贈り物を完成させる。</span>,<span class='scene-font-katari'>那之后，姬塔她们把巧克力注入模型，顺利地完成了情人节赠礼。</span>
+14,ルリア/露莉亚,ふぅ、よかったです。<br>一時はどうなることかと思いました！,呼，太好了。我一开始还想着会变成什么样呢。
+15,コロッサス/科罗萨斯,────……,————
+16,,<span class='scene-font-katari'>安堵する３人の笑顔を見て、</span><br><span class='scene-font-katari'>コロッサスは「命令を完遂」と</span><br><span class='scene-font-katari'>判断──</span>,<span class='scene-font-katari'>看着三人安心的笑容，科罗萨斯判断「命令完成」——</span>
+17,コロッサス/科罗萨斯,────……,————
+18,ルリア/露莉亚,うーん……？　コロッサス、<br>ずっとチョコを見てますけど……<br>もしかして、食べたいんでしょうか？,嗯……？科罗萨斯一直盯着巧克力看呢……难道是想吃吗？
+19,イオ/伊欧,え……欲しいなら、いる？<br>っていうか、食べれるの？<br>よくわかんないけど……,诶……会有想吃这种念头吗？话说能吃吗？我也不是很清楚……
+20,コロッサス/科罗萨斯,────……,————
+21,,<span class='scene-font-katari'>ルリアとイオが各々バットを差し出すと</span><br><span class='scene-font-katari'>チョコレートをひとつずつつまみ上げ、</span><br><span class='scene-font-katari'>頭部装甲の穴に放り込むコロッサス。</span>,<span class='scene-font-katari'>科罗萨斯各拿了一块露莉亚和伊欧递出的巧克力，放进了头部装甲的空洞处。</span>
+22-sel3_txt,,null,
+23-sel3_txt,,null,
+24-sel3_txt,,null,
+25-sel3_txt,,null,
+26-sel3_txt,,null,
+27-sel3_txt,,null,
+28-sel3_txt,,null,
+29-sel3_txt,,null,
+30,,<span class='scene-font-katari'>そして味の感想を告げるかのように、</span><br><span class='scene-font-katari'>親指を立てて消えていった。</span>,<span class='scene-font-katari'>然后像是在表达对味道的感想一般，竖着拇指站着消失了。</span>
+info,,,scene_s1_valentine_3144_v1_0_2002_1_3040235000_2
+译者,,,

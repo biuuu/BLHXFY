@@ -1,0 +1,19 @@
+id,name,text,trans
+0-chapter_name,,七星剣との邂逅,七星剣との邂逅
+0-synopsis,,勝利したシエテに、七星剣は満足げな様子で汝に選ばれようと迫るが、シエテは七星剣の所有者となることを拒む。だが七星剣も譲らない。シエテは七星剣に一人が寂しかったのかと慈愛の心を見せ、何の気なしに手に取ってしまう。まんまと七星剣の思惑に嵌ったシエテは、七星剣に心を乗っ取られてしまうのだった。,面对着取胜的希耶提，七星剑满足地强迫他选择自己，然而希耶提拒绝成为七星剑的持有者。但是七星剑也不肯退让。希耶提怀着慈爱之心认为七星剑只是一个人感觉寂寞了，毫不在意地碰触了七星剑。希耶提完全地陷入七星剑的圈套，被它趁机夺去了心智。
+1,シエテ/希耶提,おいおい……<br>急になんなんだよ。<br>びっくりするだろ？,喂喂……<br>突然要做什么啊。<br>吓了我一跳啊？
+3,七星剣,<span class='scene-font-gray'>…………</span>,<span class='scene-font-gray'>…………</span>
+4,シエテ/希耶提,コラコラ～<br>だんまり決めても<br>ダメだぞー,哎呀哎呀～<br>无言地决定可是不行的哟
+6,七星剣,<span class='scene-font-gray'>さぁ……手に取れ……</span><br><span class='scene-font-gray'>我は汝に選ばれよう！</span>,<span class='scene-font-gray'>快……拿起我……</span><br><span class='scene-font-gray'>你就选择我吧！</span>
+7,シエテ/希耶提,何この強引な子！<br>てか今の俺の話聞いてた！？,这个强硬的孩子怎么回事啊！<br>我刚刚在说什么你有听吗！？
+9,七星剣,<span class='scene-font-gray'>…………</span>,<span class='scene-font-gray'>…………</span>
+10,シエテ/希耶提,ったく……都合が悪くなったら<br>だんまりなのやめなよー,真是的……不要一看时机不好就立刻闭口不言啊
+12,シエテ/希耶提,なんなのこの剣は。<br>面倒くさいなぁ……もー,什么啊这把剑。<br>超麻烦的啊……真是的
+13,シエテ/希耶提,でもまぁ……<br>キミも一人で寂しかったのかな？,不过……<br>你也是一个人很寂寞吗？
+14,,<span class='scene-font-katari'>仕方なさそうな様子で、</span><br><span class='scene-font-spword'>七星剣</span><span class='scene-font-katari'>に手を伸ばすシエテ。</span>,<span class='scene-font-katari'>希耶提一脸无奈，对</span><span class='scene-font-spword'>七星剑</span><span class='scene-font-katari'>伸出了手。</span>
+15,シエテ/希耶提,じゃあ記念に剣拓だけ取って<br>あげるから……,那么就让我做个纪念性质的剑拓吧……
+17,七星剣,<span class='scene-font-gray'>…………かかったな！</span>,<span class='scene-font-gray'>…………中计了呢！</span>
+18,シエテ/希耶提,えっ！？,诶！？
+21,シエテ/希耶提,うぐっ……<br>ぐあぁああああああ！！,呜咕……<br>咕啊啊啊啊啊啊啊啊啊！！
+info,,,scene_ult_chr132_q3_s20
+,,,

@@ -1,0 +1,21 @@
+id,name,text,trans
+0-chapter_name,,真夜中の出会い,深夜中的相遇
+0-synopsis,,フュンフは溢れる魔力により、再び体調を崩しつつあった。その夜、騎空艇内でフュンフは、光輝きながら言葉を話す天星器・五神杖と遭遇する。不審に思ったフュンフは、五神杖を退治しようとする。五神杖はフュンフの力を計れるなら好都合と挑戦を受けるのだった。,芬芙因为满溢的魔力，再次倒下了。那天夜里，芬芙在骑空艇里遇到了发着光还会说话的天星器・五神杖。芬芙觉得很可疑，想要驱除五神杖。五神杖却说正好可以来试试芬芙的实力，接受了挑战。
+0,,<span class='scene-font-katari'>姬塔との戦いで</span><br><span class='scene-font-katari'>魔力を発散し、</span><br><span class='scene-font-katari'>一度は健康を取り戻したフュンフ。</span>,<span class='scene-font-katari'>芬芙因为与姬塔战斗，释放出魔力，一度恢复了健康。</span>
+1,,<span class='scene-font-katari'>しかし彼女の溢れる魔力は</span><br><span class='scene-font-katari'>日を追うごとに膨れ上がり</span><br><span class='scene-font-katari'>フュンフは再び体調を崩しつつあった。</span>,<span class='scene-font-katari'>但是因为她那满溢的魔力日渐膨胀，芬芙又倒下了。</span>
+4,フュンフ/芬芙,う～……<br>なんか、つっかえてる感じする～……<br>うがいして来よっかな～……<br>,呜~总觉得塞塞的~咳出来是不是会好呢~
+5,フュンフ/芬芙,んん？,嗯嗯？
+7,フュンフ/芬芙,……なんだろ、<br>なんか声が聞こえる……,……怎么回事，总觉得听得到声音……
+9,,<span class='scene-font-katari'>フュンフは自室を出て</span><br><span class='scene-font-katari'>声を辿り騎空艇を歩き回る。</span>,<span class='scene-font-katari'>芬芙出了自己房间，循着声音在骑空艇内来回走动。</span>
+14,フュンフ/芬芙,お～い、誰か起きてんの～？<br>…………返事、ないね？,喂~是谁醒着吗~？……没人回答呢？
+15,フュンフ/芬芙,あっ！<br>もしかしてドロボー！？<br>ふんじばってやらなきゃ！,啊！难道说是小偷——！？必须把他们一网打尽啊！
+20,フュンフ/芬芙,<span class='scene-font-4'>こらーっ！</span><br><span class='scene-font-4'>観念しろ～っ！</span>,<span class='scene-font-4'>喂——！</span><br><span class='scene-font-4'>快投降吧~！</span>
+21,フュンフ/芬芙,……って、あり？<br>誰もいない……？,……诶，有人吗？没有人吗……？
+23,？？？,<span class='scene-font-gray'>私の声が聞こえたのですね、</span><br><span class='scene-font-gray'>幼いながらに</span><br><span class='scene-font-gray'>驚嘆すべき魔力を持つ子よ……</span>,<span class='scene-font-gray'>你能听到我的呼唤呢，年幼却拥有让人惊叹魔力的孩子啊……</span>
+24,フュンフ/芬芙,えっ！？　誰、どこっ！？<br>フシンシャめぇ、<br>隠れてないで出てこ～い！,诶！？谁，在哪！？<br>你这个可疑的家伙，<br>别躲了快给我出来~！
+26,五神杖,<span class='scene-font-gray'>逃げも、隠れもしません。</span><br><span class='scene-font-gray'>私の名は</span><span class='scene-font-spword'>五神杖</span><span class='scene-font-gray'>。</span><br><span class='scene-font-gray'>ほら、あなたの目の前に……</span>,<span class='scene-font-gray'>我没有逃跑也没有躲藏。</span><br>我的名字是</span><span class='scene-font-spword'>五神杖</span><span class='scene-font-gray'>。</span><br><span class='scene-font-gray'>现在就在你的眼前……</span>
+27,フュンフ/芬芙,ふぇっ！？<br>つ、杖が勝手に光ってる！？<br>ゆゆゆゆーれい～！？,呜诶！？杖自己在发光！？<br>有有有有——鬼——啊~！？
+28,フュンフ/芬芙,な、なんでもいいやっ！<br>あやしーヤツめ、<br>このフュンフ様が退治してやるっ！,不，不管了！<br>你这个可疑的家伙，<br>就由我芬芙大人来驱除！
+30,五神杖,<span class='scene-font-gray'>何やら誤解があるようですが……</span><br><span class='scene-font-gray'>……あなたの力が計れるのなら好都合。</span><br><span class='scene-font-gray'>一戦、交えるとしましょうか。</span>,<span class='scene-font-gray'>虽然你好像误会了什么……但正好可以试试你的实力。来打一场吧。</span>
+info,,,scene_ult_chr125_q3_s10
+译者,,,

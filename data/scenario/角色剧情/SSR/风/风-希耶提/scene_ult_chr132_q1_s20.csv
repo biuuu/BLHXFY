@@ -1,0 +1,31 @@
+id,name,text,trans
+0-chapter_name,,変わらぬ日常,一成不变的日常
+0-synopsis,,姬塔との手合わせを終えると、シエテは姬塔にもっと強くなりたくないか問いかける。強くなりたいと言う姬塔にシエテは、七星剣をもっと強くする方法があるらしい、その方法を一緒に探してみないか、と誘う。半ばシエテの口車に乗せられた形だが姬塔はシエテと協力して情報収集を始めることにするのだった。,与姬塔的比试结束之后，希耶提问姬塔是否想变得更强。面对回答想变得更强的姬塔，希耶提说好像是有让七星剑变强的方法，并邀请姬塔一起去寻找。虽然一半是被希耶提的花言巧语所骗，姬塔还是开始协助希耶提搜集情报。
+0,シエテ/希耶提,うんうん、今日も強い強い！,嗯嗯，今天也很强很强！
+1,シエテ/希耶提,相変わらずほれぼれするような<br>強さだねー姬塔ちゃんは。,还是一如往常的令人心醉的强大呀姬塔酱。
+2,,<span class='scene-font-katari'>満足そうに頷くシエテと</span><br><span class='scene-font-katari'>面倒くさそうな姬塔。</span>,<span class='scene-font-katari'>希耶提一脸满足地点着头，而姬塔却一脸嫌弃。</span>
+3,シエテ/希耶提,はい……<br>じゃあこれ、約束の品。,好……<br>那么这个给你，之前约好的。
+4,,<span class='scene-font-katari'>シエテの持って来たアレを手渡された</span><br><span class='scene-font-katari'>途端に目を輝かせる姬塔。</span>,<span class='scene-font-katari'>希耶提一把带来的那个递给姬塔，他的眼睛立刻就闪闪发光起来。</span>
+5,,<span class='scene-font-katari'>二人は、仲よく横並びになって</span><br><span class='scene-font-katari'>しばらくアレを頬張るのだった。</span>,<span class='scene-font-katari'>一时间，两个人友好地站在了一起</span><br><span class='scene-font-katari'>大口地吃着那个。</span>
+6,シエテ/希耶提,ところで……<br>姬塔ちゃんさーあ、<br>もっと強くなりたくなーい？,话说啊……<br>姬塔酱你啊，<br>想变得更强吗？
+6-sel1_txt,,<span class='scene-font-katari'>なりたい！</span>,<span class='scene-font-katari'>想！</span>
+6-sel2_txt,,<span class='scene-font-katari'>べつにー</span>,<span class='scene-font-katari'>并不想</span>
+7,シエテ/希耶提,おお、今日の姬塔ちゃんは<br>ずいぶん素直さんだねー！,噢噢，今天的姬塔酱<br>真是相当坦率呢！
+8,シエテ/希耶提,いいねいいねー<br>性格まで真っ直ぐな剣の様に<br>なってきたんだねー！,真好啊真好啊<br>连性格也变成直来直去的剑的样子了呢！
+9,シエテ/希耶提,実はね……キミのその<span class='scene-font-spword'>七星剣</span>。<br>更に強くする方法があってさ……,其实啊……你的那把<span class='scene-font-spword'>七星剑</span>，<br>有办法让它变得更强……
+10,シエテ/希耶提,べつにぃー,并不想
+11,シエテ/希耶提,ってそんな反抗期真っ只中みたいな<br>冷たい反応しないで！<br>俺だってさすがに傷つくよ！,不要像正处在反抗期的孩子那样反应那么冷淡啊！<br>就算是我也是会觉得受伤的哦！
+12,シエテ/希耶提,まぁまぁ……いいから<br>話だけでも聞いてよ？　ね？,算啦算啦……<br>至少听听我说的话吧？　好吗？
+13,,<span class='scene-font-katari'>無視するのも面倒なので</span><br><span class='scene-font-katari'>仕方なくシエテの話に</span><br><span class='scene-font-katari'>耳を傾ける姬塔。</span>,<span class='scene-font-katari'>因为觉得无视他也会很麻烦，所以姬塔不得已听希耶提说了起来。</span>
+14,シエテ/希耶提,実はね……キミのその<span class='scene-font-spword'>七星剣</span>。<br>更に強くする方法があってさ……,其实啊……你的那把<span class='scene-font-spword'>七星剑</span>，<br>有办法让它变得更强……
+15,シエテ/希耶提,「銀のなんとか」ってヤツを手に入れて<br><span class='scene-font-spword'>七星剣</span>を鍛えることによって……<br>更に強くなるみたいなんだよねー,获得叫「银的什么什么」的东西，用它来锤炼<span class='scene-font-spword'>七星剑</span>……<br>似乎就能变得更强呢
+15-sel1_txt,,<span class='scene-font-katari'>銀のなんとかって？</span>,<span class='scene-font-katari'>银的什么什么是？</span>
+15-sel2_txt,,<span class='scene-font-katari'>全然わかんないだけど？</span>,<span class='scene-font-katari'>完全听不懂你在说什么？</span>
+16,シエテ/希耶提,いや、俺も良く知らないんだけどね、<br>銀の……しろ……なんとかみたいな<br>名前だったかなぁ？,哎呀，我也不是很清楚呢，<br>好像名字是银的……材料……什么的吧？
+17,シエテ/希耶提,あははは～、だよねー！<br>俺も言ってて全然わかんなかったよー,啊哈哈哈～，说的也是啊！<br>我这么说其实我也完全不知道呢
+18,シエテ/希耶提,でもさぁ……<br>全部誰かに教えてもらうってのも<br>つまらないでしょう？,但是啊……<br>如果全部都被告知了的话不是很无聊吗？
+19,シエテ/希耶提,俺も一緒に協力するからさー<br>二人で頑張ろうぜ！,我也会一起帮忙<br>所以我们两个一起努力吧！
+20,,<span class='scene-font-katari'>よく分からない流れで</span><br><span class='scene-font-katari'>シエテに丸め込まれた</span><br><span class='scene-font-katari'>姬塔。</span>,<span class='scene-font-katari'>姬塔就这么不明不白地被希耶提骗上了贼船。</span>
+21,,<span class='scene-font-katari'>姬塔とシエテは</span><br><span class='scene-font-spword'>七星剣</span><span class='scene-font-katari'>の更なる覚醒のために</span><br><span class='scene-font-katari'>情報収集を続けるのだった。</span>,<span class='scene-font-katari'>姬塔和希耶提为了</span><br><span class='scene-font-spword'>七星剑</span><span class='scene-font-katari'>更进一步的觉醒，</span><br><span class='scene-font-katari'>继续收集着情报</span>
+info,,,scene_ult_chr132_q1_s20
+,,,

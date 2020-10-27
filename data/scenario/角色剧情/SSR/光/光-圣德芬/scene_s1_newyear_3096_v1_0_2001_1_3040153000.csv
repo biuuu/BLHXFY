@@ -1,0 +1,8 @@
+id,name,text,trans
+0,サンダルフォン/圣德芬,新年になったことだ。<br>気持ちも新たに目標を立てるか。,已经是新的一年了。<br>你立下新的目标了吗？
+1,サンダルフォン/圣德芬,目標はもちろん、<br>天司長の最後の務めを果たすことだ。,我的目标，<br>当然是完成天司长最后的职责。
+2,サンダルフォン/圣德芬,俺の力はまだ完全ではないが、<br>悠長に回復を待ってはいられない。,虽然我的力量还不完整，<br>但不能一直等待回复。
+3,サンダルフォン/圣德芬,そのためには君にも協力してもらう。<br>わかっているな、姬塔？,因此我也需要你的帮助。<br>你知道的吧，姬塔？
+4,サンダルフォン/圣德芬,<span class='scene-font-kokoro'>（……待っていてくれ</span><br><span class='scene-font-kokoro'>姬塔フェル様……）</span>,<span class='scene-font-kokoro'>（……请等着我，</span><br><span class='scene-font-kokoro'>路西菲尔大人……）</span>
+5,サンダルフォン/圣德芬,<span class='scene-font-kokoro'>（あなたの仇は</span><br><span class='scene-font-kokoro'>俺が、必ず……）</span>,<span class='scene-font-kokoro'>（您的仇……</span><br><span class='scene-font-kokoro'>我一定会……）</span>
+info,,,scene_s1_newyear_3096_v1_0_2001_1_3040153000

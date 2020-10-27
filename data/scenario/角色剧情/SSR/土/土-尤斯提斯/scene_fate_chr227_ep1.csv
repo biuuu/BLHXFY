@@ -1,0 +1,79 @@
+id,name,text,trans
+0-chapter_name,,抹殺指令,抹杀指令
+0-synopsis,,姬塔一行は、ベアトリクス救出のためオダヅモッキーのアジトへ向かっていた。先頭を行くスカルが仲間の秘密について語り始める。それによると、オダヅモッキーは全員犬派で、犬の豆知識を豊富に持っているらしい。ユーステスは強く興味を抱くが、突如、組織からルリア抹殺の指令が入る。しばし黙考の後、ユーステスは旅の同行を姬塔に申し出る。,姬塔一行人为了救出贝阿朵丽丝动身前往奥达兹摩基的秘密基地。走在前面的斯卡尔告诉了他们一些同伴的秘密。据他所说奥达兹摩基全员都是狗派，似乎知道很多与狗有关的小知识。尤斯缇斯正觉得很有趣，突然，他从组织那里接收到了抹杀露莉亚的指令。在短暂的无言思索后，尤斯缇斯向姬塔提出一起同行。
+0,,<span class='scene-font-katari'>姬塔一行はノース・ヴァストで</span><br><span class='scene-font-katari'>消息を絶ったベアトリクスを捜索する為</span><br><span class='scene-font-katari'>ユーステスと共にその地を訪れる。</span>,<span class='scene-font-katari'>姬塔一行人为了寻找在北威斯特失去音讯的贝阿朵莉丝，与尤斯缇斯一起去到了那里。</span>
+1,,<span class='scene-font-katari'>一行は無法者集団、オダヅモッキーの</span><br><span class='scene-font-katari'>一員である、スカルから情報を引き出し、</span><br><span class='scene-font-katari'>スカルのアジトへと向かっていた。</span>,<span class='scene-font-katari'>一行人从非法集团奥达兹摩基的一员斯卡尔那里得到情报，并前往他的秘密基地。</span>
+2,,<span class='scene-font-katari'>アジトへと向かう道中、</span><br><span class='scene-font-katari'>スカルは暇なのか、</span><br><span class='scene-font-katari'>ユーステスに絡んでいた。</span>,<span class='scene-font-katari'>在去往秘密基地的路上，斯卡尔缠着尤斯缇斯问他是否空闲。</span>
+3,スカル,なぁ、おいおいおい！<br>取って置きの秘密、知りてぇか？<br>なぁユーステスこら。,呐，喂喂喂！<br>想不想知道我珍藏的秘密啊？<br>呐尤斯缇斯呀。
+4,ユーステス/尤斯缇斯,…………,…………
+5,スカル,なぁおいぃ？　知りたいだろ？<br>オダヅモッキーの秘密ぅ？<br>なぁ、ユーステスこら。,呐喂？你想知道对吧？<br>奥达兹摩基的秘密？<br>呐尤斯缇斯呀。
+6,ユーステス/尤斯缇斯,黙れ。頭スカスカル。,闭嘴。你这头发稀疏的家伙。
+7,スカル,なぁんだとぉ！？<br>誰が頭スカスカルだバカ野郎ぉ！<br>オレ様は天才だぁ！！,你说什么！？<br>我才没头发稀疏呢你个蠢货！<br>本大爷我可是天才！！
+8,ルリア/露莉亚,ま、まぁまぁ……<br>その秘密……私、知りたいです！,算了算了……<br>我想知道那个秘密！
+9,スカル,そうかそうかぁ！<br>なら話してやるよぉ！<br>なんとオダヅモッキーは……,是嘛是嘛！<br>那我就告诉你吧！<br>奥达兹摩基可是……
+10,スカル,全員、犬派なんだぜぇ！！<br>みんなみんな、<br>ワンちゃんがだぁい好きなんだぁ！,全员都是狗派哦！！<br>大家都超喜欢狗狗的！
+11,ユーステス/尤斯缇斯,！,！
+12,ルリア/露莉亚,へー！<br>あ、だからオダヅモッキーの人達は、<br>ワンちゃんに乗っていたんですか？,哦！所以奥达兹摩基的人才都骑着狗狗吗？
+13,スカル,そうだぜぇ？<br>アイツらふっかふかでもこもこでぇ、<br>とんでもなく気持ちいいんだぁ～,是啊。那些狗狗都是毛又厚又软软乎乎的，很舒服哦～
+14,ビィ/碧,でもよぉ、犬に乗るだなんて、<br>ちょっぴり酷い気がするぜ……？,但是啊，<br>坐在狗狗身上，<br>是不是有点残忍……？
+15,,<span class='scene-font-katari'>ビィの言葉に、</span><br><span class='scene-font-katari'>ユーステスは静かに頷く。</span>,<span class='scene-font-katari'>听了碧的提问，</span><br><span class='scene-font-katari'>尤斯缇斯也默默地点了点头。</span>
+16,スカル,あぁ？　酷いだとぉ？<br>テメェらは何もわかっちゃいねぇな！,啊？你说残忍？<br>你这家伙知道什么啊！
+17,スカル,オレ達オダヅモッキーと、<br>ノース・ハスキーちゃん達は、<br>固い絆で結ばれてんだぞぉ？,我们奥达兹摩基的人，<br>可是和雪地哈士奇酱们，<br>有着牢固的羁绊啊！
+18,ユーステス/尤斯缇斯,ノース・ハスキー……犬種か？,雪地哈士奇……是狗的种类吗？
+19,スカル,ああ、そうだぜ。ノース・ハスキーは、<br>人を食い殺すぐらいに獰猛だがぁ、<br>利口で義理堅いワンちゃんなんだよぉ！,嗯，是啊。<br>雪地哈士奇虽然凶猛到能扑杀人类，<br>但却是聪明又忠诚的狗狗哦！
+20,スカル,オレ達はワンちゃんに愛を持って接し、<br>ワンちゃん達はオレ達に敬意をもって、<br>積極的に役に立ってくれるんだぜぇ！,我们爱着狗狗们，<br>狗狗们也收下我们的敬意，<br>积极地为我们出力呢！
+21,ユーステス/尤斯缇斯,なるほど。<br>助け合っているわけだな。,原来如此。<br>是在相互帮助啊。
+22,,<span class='scene-font-katari'>楽しげに頷くユーステスを見たビィは</span><br><span class='scene-font-katari'>姬塔とルリアに耳打ちする。</span>,<span class='scene-font-katari'>碧看着愉悦地点头肯定的尤斯缇斯，</span><br><span class='scene-font-katari'>悄悄在姬塔耳边小声说道。</span>
+23,ビィ/碧,仏頂面の兄ちゃんさ。<br>妙に楽しそうじゃねぇか？,不高兴小哥他。<br>好像有点开心啊？
+24,ルリア/露莉亚,そういえば……そうですね。<br>ワンちゃん、好きなんでしょうか？,说起来……对了。<br>他喜欢狗狗对吧？
+25,スカル,テメェら、<br>なぁにこそこそしてんだぁ？<br>飽きたのかぁ？　オレ様の話によぉ？,你们啊，在说什么悄悄话呢？<br>已经听腻我的话了吗？
+26,スカル,せっかくオレ様がさらに役に立つ<br>ワンちゃん豆知識を話そうと<br>したのによぉ……,难得本大爷想告诉你们一些<br>关于狗狗的有用小知识呢……
+27,ユーステス/尤斯缇斯,ワンちゃん……豆知識だと……？,你说狗狗的……小知识……？
+28,ユーステス/尤斯缇斯,それは懐かれる方法……<br>だったりするのか？,那是指一些……<br>能让狗狗亲近的方法吗？
+29,スカル,……ああ？<br>なんだテメェ？　もしかして、<br>ワンちゃん、好きなのか？,……啊啊？你为什么要问这个？<br>难道说，你喜欢狗狗吗？
+30,ユーステス/尤斯缇斯,…………,…………
+31,スカル,ひひへへっ、そうかぁ好きなんだな？<br>そうかそうか……ワンちゃん豆知識ぃ<br>教えてほしいかぁ？　おおぉん？,嘿嘿，是嘛你喜欢啊？<br>是嘛是嘛……<br>你想让我教你狗狗的小知识对吧？
+32,スカル,ひはははっ教えてほしいならぁ！<br>オレ様に忠誠を誓いなぁ！<br>ほらほら頭がたけぇぞぉ！！,哈哈哈想让我教给你的话，<br>就向本大爷我效忠吧！<br>赶紧点头答应！！
+33,ユーステス/尤斯缇斯,…………,…………
+34,ビィ/碧,お、おい……あんまり煽るなよ。<br>仏頂面の兄ちゃんが怖ぇからよ……,喂，喂……别那么挑衅他啊。<br>不高兴小哥现在表情好可怕啊……
+35,ビィ/碧,それにしても意外だなぁ。<br>仏頂面の兄ちゃん、<br>犬が好きだったんだなぁ。,话说回来真意外啊。<br>不高兴小哥居然喜欢狗。
+36,ルリア/露莉亚,そうですね……ふふっ、<br>ユーステスさんにもそういう<br>可愛らしい一面があるんですね。,是啊……呵呵，<br>尤斯缇斯也有可爱的一面呢。
+37,ルリア/露莉亚,あ、そうだ。<br>姬塔……,啊，对了。<br>姬塔……
+38,伝声機,<span class='scene-font-gray'>ブブブブブブ</span>,<span class='scene-font-gray'>嗡嗡嗡嗡嗡嗡</span>
+39,ユーステス/尤斯缇斯,…………,…………
+40,,<span class='scene-font-katari'>伝声機の振動を感じ取ったユーステスは</span><br><span class='scene-font-katari'>一行が楽しそうに話し出した隙を狙って</span><br><span class='scene-font-katari'>近くの岩場へ移動した。</span>,<span class='scene-font-katari'>尤斯缇斯感觉到传声器在震动，</span><br><span class='scene-font-katari'>趁一行人聊得开心的时候，</span><br><span class='scene-font-katari'>走开去到附近的岩地。</span>
+43,？？？,<span class='scene-font-gray'>ユーステス。</span><br><span class='scene-font-gray'>二つ報告がある。</span>,<span class='scene-font-gray'>尤斯缇斯。</span><br><span class='scene-font-gray'>有两件事要和你通告。</span>
+44,？？？,<span class='scene-font-gray'>一つ目、ゼタとバザラガだが、</span><br><span class='scene-font-gray'>現在任せている仕事が終わり次第、</span><br><span class='scene-font-gray'>そちらへ向かわせる。</span>,<span class='scene-font-gray'>第一件，是泽塔和巴萨拉卡完成了现在的任务，</span><br><span class='scene-font-gray'>将即刻前往你那边。</span>
+45,ユーステス/尤斯缇斯,了解。,了解。
+46,？？？,<span class='scene-font-gray'>二つ目、</span><br><span class='scene-font-gray'>お前に追加の任務を、</span><br><span class='scene-font-gray'>与えることになった。</span>,<span class='scene-font-gray'>第二件，是要给你下达追加任务。</span>
+47,？？？,<span class='scene-font-gray'>お前が行動を共にしている、</span><br><span class='scene-font-gray'>蒼い髪の少女は星晶獣の力を操る。</span>,<span class='scene-font-gray'>和你一起行动的苍蓝色头发的少女，</span><br><span class='scene-font-gray'>拥有操纵星晶兽的力量。</span>
+48,？？？,<span class='scene-font-gray'>その少女はもしかすると、</span><br><span class='scene-font-gray'>我々の脅威になり得るかもしれん。</span>,<span class='scene-font-gray'>那个少女或许会威胁到我们。</span>
+49,？？？,<span class='scene-font-gray'>しばらくの間、少女と騎空士を監視。</span><br><span class='scene-font-gray'>脅威と判断したら、即座に始末しろ。</span>,<span class='scene-font-gray'>暂时监视那少女和骑空士一段时间。</span><br><span class='scene-font-gray'>一旦判断有威胁，就立刻解决。</span>
+50,ユーステス/尤斯缇斯,…………,…………
+51,？？？,<span class='scene-font-gray'>頼んだぞ。ユーステス。</span>,<span class='scene-font-gray'>就拜托你了，尤斯缇斯。</span>
+52,,<span class='scene-font-katari'>一方的に通信は切れる。</span><br><span class='scene-font-katari'>静かになった伝声機を</span><br><span class='scene-font-katari'>ユーステスは胸元にしまう。</span>,<span class='scene-font-katari'>传声机那边切断了通信。</span><br><span class='scene-font-katari'>尤斯缇斯把它收回胸口处。</span>
+53,ユーステス/尤斯缇斯,……始末、か。,……解决，吗。
+56,ビィ/碧,……そうだな。<br>今度仏頂面の兄ちゃんも連れて……,……对了。<br>下次把不高兴小哥也带上……
+57,ビィ/碧,って、あれ！？<br>仏頂面の兄ちゃんはどこへ行った？！,哎呀！？<br>不高兴小哥去哪了？！
+58,ユーステス/尤斯缇斯,ここだ。,我在这。
+59,ルリア/露莉亚,ひゃわっ！　い、いつの間に<br>姬塔の後ろに……,呀哇！什，什么时候出现在姬塔背后的……
+60,ユーステス/尤斯缇斯,……姬塔。話がある。,……姬塔。我有话要和你说。
+61,ユーステス/尤斯缇斯,この依頼が終わった後、<br>しばらくお前に同行する。,在这件委托结束之后，<br>暂且让我和你们同行。
+62,ビィ/碧,んなっ！？　<br>ま、またどうして……,什么！？<br>，又，又是怎么了……
+63,ユーステス/尤斯缇斯,気まぐれだ。,一时兴起罢了。
+64,ビィ/碧,なんだそれ……まぁ、<br>その方が都合はいいかもな！,什么啊……<br>算了，那样或许刚好！
+65,ユーステス/尤斯缇斯,なに？,什么？
+66,ルリア/露莉亚,私達、ユーステスさんが居ない間に、<br>みんなでワンちゃんを<br>触りに行こうって約束してたんです。,我们刚刚在尤斯缇斯不在的时候，<br>约好了一起去摸狗狗。
+67,ルリア/露莉亚,その時は、<br>ユーステスさんも一緒にって。,想说那个时候让尤斯缇斯也一起去。
+68,ユーステス/尤斯缇斯,俺も、一緒に……,我也，一起……
+69,ルリア/露莉亚,ユーステスさん、ワンちゃん<br>好きなんですよね？　それなら<br>いつか、一緒に行きましょうよ！,尤斯缇斯喜欢狗对吧？<br>那就日后一起去吧！
+70,ユーステス/尤斯缇斯,……ああ。,……啊啊。
+71,ビィ/碧,おっ？　<br>今、笑ったか？,噢？<br>刚刚，是笑了吗？
+72,ユーステス/尤斯缇斯,…………,…………
+73,,<span class='scene-font-katari'>ユーステスは答えず、</span><br><span class='scene-font-katari'>早足で先へと進んでしまう。</span>,<span class='scene-font-katari'>尤斯缇斯没有回答，</span><br><span class='scene-font-katari'>率先向前走去。</span>
+74,ルリア/露莉亚,ど、どうしたんでしょうか……<br>ユーステスさん……,到，到底是怎么了呢……<br>尤斯缇斯……
+75,ビィ/碧,うーん、わかんねぇけど……<br>嫌そうでは、なかった……よな？,嗯——虽然不是很明白……<br>但应该没有觉得……讨厌吧？
+76,,<span class='scene-font-katari'>ユーステスの反応に</span><br><span class='scene-font-katari'>疑問を憶えながらも、</span><br><span class='scene-font-katari'>一行は先へ進む彼を追いかける。</span>,<span class='scene-font-katari'>一行人一边奇怪尤斯缇斯的反应，</span><br><span class='scene-font-katari'>一边追上走在前头的他。</span>
+77,,<span class='scene-font-katari'>ユーステスは新たな任務を負い、</span><br><span class='scene-font-katari'>一行との約束に対し、複雑な思いを</span><br><span class='scene-font-katari'>抱いているとは知らずに……</span>,<span class='scene-font-katari'>他们对尤斯缇斯因为接到新任务，而面对他们的约定感到心情复杂一事，还浑然不知……</span>
+info,,,scene_fate_chr227_ep1
+译者,,,

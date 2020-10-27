@@ -1,0 +1,10 @@
+id,name,text,trans
+0-chapter_name,,君に眠りを、私に銃を,给我手铳，赐你永眠
+0-synopsis,,弟妹達を守る力を得るため、十狼雷を手にし、正気を失ったエッセル。オクトーはそんなエッセルが何かに憑かれていると見極めるも、エッセルに銃口を向けられてしまう。オクトーは「つまらぬ仕儀ではあるが、仕方あるまい」と漏らすと、刀を抜き放つのだった。,艾瑟尔为了得到保护弟妹们的力量，拿起十狼雷，失去了理智。奥克托看穿了艾瑟尔被什么东西附身，但依旧被她举枪相对。奥克托说着“虽然无聊但是也没办法”随即拔出了刀。
+0,,<span class='scene-font-spword'>十狼雷</span><span class='scene-font-katari'>を手に彷徨うエッセル。</span><br><span class='scene-font-katari'>そんな彼女の元に、</span><br><span class='scene-font-katari'>十天衆がひとりオクトーが現れた。</span>,<span class='scene-font-katari'>艾瑟尔拿着</span><span class='scene-font-spword'>十狼雷</span><span class='scene-font-katari'>到处徘徊。</span><br><span class='scene-font-katari'>十天众之一的奥克托出现在了她的面前。</span>
+2,オクトー/奥克托,……成程、妖の類か。<br>怪しからんモノに憑かれたな。,……原来如此，是妖怪一类的东西啊。<br>你被奇怪的东西附体了啊。
+3,エッセル/艾瑟尔,オクトー……,奥克托……
+5,オクトー/奥克托,その目と相対したところで<br>つまらぬ仕儀ではあるが……<br>仕方あるまい。,虽然与现在这个眼神的你相对也是无聊的事……<br>但是没办法。
+7,オクトー/奥克托,……参る！,……我上了！
+info,,,scene_ult_chr131_q4_3_s10
+译者,,,

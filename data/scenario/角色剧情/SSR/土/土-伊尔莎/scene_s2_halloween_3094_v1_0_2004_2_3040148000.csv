@@ -1,0 +1,15 @@
+id,name,text,trans
+0,イルザ/伊尔莎,ん？,嗯？
+1,,<span class='scene-font-katari'>オオカミの仮装をした人物が</span><br><span class='scene-font-katari'>イルザの肩を叩いて走り去る。</span><br><span class='scene-font-katari'>違和感を覚え、背中に手を伸ばすと……</span>,<span class='scene-font-katari'>变装成狼的人拍了一下伊尔莎的肩膀后跑走。</span><br><span class='scene-font-katari'>觉得有点异样，伸手一摸背后……</span>
+2,イルザ/伊尔莎,<span class='scene-font-kokoro'>（やれやれ、この私が悪戯で</span><br><span class='scene-font-kokoro'>背中に紙を貼られるとは……</span><br><span class='scene-font-kokoro'>しかも何か書いてあるな……）</span>,<span class='scene-font-kokoro'>（真是的，没想到我会因为恶作剧被背后贴纸……而且好像写着什么……）</span>
+3,イルザ/伊尔莎,<span class='scene-font-kokoro'>（な、「愛の鞭」だと！？）</span>,<span class='scene-font-kokoro'>（什，“爱的鞭子”！？）</span>
+4,イルザ/伊尔莎,<span class='scene-font-kokoro'>（あのオオカミ、訓練兵達の</span><br><span class='scene-font-kokoro'>仮装パーティーで見かけた気がする。</span><br><span class='scene-font-kokoro'>私も舐められたものだな……）</span>,<span class='scene-font-kokoro'>（那头狼，我好像在训练兵们的变装派对上看到过。我也被小看了啊……）</span>
+5,イルザ/伊尔莎,…………,…………
+6,イルザ/伊尔莎,<span class='scene-font-4'>どこのクソだ！</span><br>止まれ、そこの虚仮威し野郎！,<span class='scene-font-4'>哪里的混蛋！</span><br>站住，那边那个装腔作势的家伙！
+7,イルザ/伊尔莎,教官に向かって「愛の鞭」とは<br>見上げた覚悟だな！<br>弛んだクソ精神ここで叩き直してやる！,敢对教官说“爱的鞭子”，还真是让人尊敬的觉悟啊！<br>就由我在这里把你那松弛的垃圾精神回炉重造吧！
+10,イルザ/伊尔莎,なっ、姬塔だったのか！？<br>すまない、訓練兵の仮装と<br>後ろ姿がそっくりだったのでな……,什么，是姬塔啊！？<br>抱歉，因为你这身跟训练兵变装后的背后的样子一模一样……
+11,イルザ/伊尔莎,だが、鬼と呼ばれた私に<br>悪戯を仕掛けるとは大した肝っ玉だ。,不过，敢对被称为鬼的我恶作剧你也真是胆大。
+12,イルザ/伊尔莎,やられっぱなしで終わる私ではない。<br>これより反撃といかせてもらおうか！,我可不会被恶作剧了就过了。<br>接下来我要反击了！
+13,イルザ/伊尔莎,くくく……逃げるなよ。,呵呵呵……你别跑哦。
+info,,,scene_s2_halloween_3094_v1_0_2004_2_3040148000
+译者,,,

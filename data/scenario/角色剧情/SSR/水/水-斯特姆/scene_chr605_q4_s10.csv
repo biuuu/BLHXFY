@@ -1,0 +1,96 @@
+id,name,text,trans
+0-chapter_name,,依頼の行方,委托的去向
+0-synopsis,,スツルムは、依頼の報酬と称して姬塔にプレゼントを渡す。本当は礼をするために呼んだと伝えたいスツルムだが、素直に言い出せず言葉に詰まってしまう。そんな中、ふいに陰で見守る３人の姿が目に入り、緊張がほぐれたスツルムは、ついに感謝の言葉を伝える。ターニャとフィーナに礼を言うスツルムだが、野次馬であるドランクは許さず、いつものように剣で突くのだった。,斯特姆以报酬的名义把礼物递给姬塔。她本想说出自己真正的目的是想表示感谢，却无法坦率表达而变的支支吾吾起来。此时，暗中观察着的3人不经意间进入了斯特姆的视线，她克服紧张，最终说出了感谢的话语。她向塔妮亚与菲娜道谢，却无法容忍瞎起哄的德朗克，像往常一样用剑刺向他。
+5,フィーナ/菲娜,もぐもぐ……そういえばさ、<br>プレゼントとかはいいの？<br>一番、大事なとこじゃない？,吧唧吧唧……说起来啊，<br>你准备礼物了吗？<br>这不是，最重要的吗？
+6,,<span class='scene-font-katari'>ローストビーフをつまみながら、</span><br><span class='scene-font-katari'>フィーナが尋ねる。</span>,<span class='scene-font-katari'>菲娜一边往嘴里塞着烤牛肉，</span><br><span class='scene-font-katari'>一边问道。</span>
+7,スツルム/斯特姆,実は……ターニャと喋っていて、<br>思いついた品がある。,其实……和塔妮亚说着说着，<br>我想到了好东西。
+8,ターニャ,わ、私と喋って……？,和、和我……？
+9,,<span class='scene-font-katari'>スツルムは</span><br><span class='scene-font-katari'>思いついたその品について</span><br><span class='scene-font-katari'>ターニャとフィーナに説明する。</span>,<span class='scene-font-katari'>斯特姆向</span><br><span class='scene-font-katari'>塔妮亚与菲娜</span><br><span class='scene-font-katari'>说明了自己想到的物品。</span>
+10,フィーナ/菲娜,あ～！　なるほど……<br>そういう系のやつね！,啊～！　原来如此……<br>你是指这类东西！
+11,スツルム/斯特姆,悪いか？,不太好？
+12,フィーナ/菲娜,ううん、すっごくいいよ！<br>アタシも貰ったら嬉しいし……,不，我觉得很不错！<br>如果是我收到也会很高兴……
+13,ターニャ,うん……私もそう思う。<br>姬塔もきっと喜んでくれる。,嗯……我也这么认为。<br>姬塔肯定也会感到高兴。
+14,スツルム/斯特姆,そう、か……<br>そうなら、いいな……,这样，啊……<br>那就，再好不过了……
+20,,<span class='scene-font-katari'>街の灯りがともり始めた頃、</span><br><span class='scene-font-katari'>スツルムと姬塔は</span><br><span class='scene-font-katari'>昼に集合した場所に戻ってきていた。</span>,<span class='scene-font-katari'>街上的灯逐渐亮起时，</span><br><span class='scene-font-katari'>斯特姆和姬塔</span><br><span class='scene-font-katari'>回到了白天集合的地方</span>
+21,スツルム/斯特姆,依頼はこれで終了だ。<br>お陰で……探索も無事に済んだ。,委托到这里就结束了。<br>多亏你……调查也平安结束了。
+22,スツルム/斯特姆,これは、その……報酬だ。<br>黙って受け取れ。,这个是，那个……报酬。<br>拿着，不准有意见。
+23,,<span class='scene-font-katari'>スツルムは、華やかに</span><br><span class='scene-font-katari'>ラッピングされた箱を</span><br><span class='scene-font-katari'>懐から取り出して差し出す。</span>,<span class='scene-font-katari'>斯特姆从怀里</span><br><span class='scene-font-katari'>掏出一个</span><br><span class='scene-font-katari'>包装精致的箱子。</span>
+24,スツルム/斯特姆,か、勘違いするな。<br>店員が勝手に装飾したんだ。,别、别乱想。<br>是店员自说自话包装的。
+24-sel1_txt,,<span class='scene-font-katari'>開けてもいい？</span>,<span class='scene-font-katari'>我能打开吗？</span>
+25,スツルム/斯特姆,……好きにしろ。,……随你便。
+26,,<span class='scene-font-katari'>姬塔がリボンをほどき、</span><br><span class='scene-font-katari'>包装を解いていくと……</span>,<span class='scene-font-katari'>姬塔解开丝带</span><br><span class='scene-font-katari'>拆开包装后……</span>
+27,,<span class='scene-font-katari'>黒塗りの小箱が現れ、</span><br><span class='scene-font-katari'>中には様々な砥石や油、</span><br><span class='scene-font-katari'>柔らかな布、魔具が入っていた。</span>,<span class='scene-font-katari'>映入眼帘的是黑色的小箱子，</span><br><span class='scene-font-katari'>里面装着各种各样的磨刀石、油</span><br><span class='scene-font-katari'>以及柔软的布、魔具等。</span>
+28,スツルム/斯特姆,武器や防具の手入れ道具一式だ。,是武器盔甲保养的套装。
+29,スツルム/斯特姆,消耗品だからな。<br>いくらあっても困らないだろ。,毕竟是消耗品。<br>没有嫌多的道理。
+29-sel1_txt,,<span class='scene-font-katari'>ありがとう！</span>,<span class='scene-font-katari'>谢谢！</span>
+30,スツルム/斯特姆,礼を言う必要なんてない。<br>これは今日の「依頼」の報酬で……,不必道谢。<br>这是作为今天“委托”的报酬……
+31,スツルム/斯特姆,<span class='scene-font-kokoro'>（いや……そうじゃない）</span>,<span class='scene-font-kokoro'>（不……不是这样）</span>
+37,スツルム/斯特姆,ふう……<br>これで計画はだいたい固まったな。<br>後は当日に備えて……,呼……<br>计划差不多能够确定了。<br>接下来只要准备当天……
+38,ターニャ,あ、待って……！,啊，等等……！
+39,ターニャ,本当に大事なのは、<br>きっと、スツルムさんの言葉だ。,最重要的，<br>一定，是斯特姆的话语。
+40,スツルム/斯特姆,何の話だ……？,指什么……？
+41,ターニャ,す、すまない、言葉足らずで……<br>その……贈り物は、物だけじゃないと<br>思ったんだ。,对、对不起，表达欠佳……<br>就是……我觉得，礼物应该<br>不仅限于物品。
+42,ターニャ,言葉にしなきゃ、伝わらないって……<br>姬塔と旅をして、<br>少しだけど、わかってきたから。,必须得化作语言，表达出来……<br>和姬塔一起旅行，<br>我稍微，明白了一些。
+43,フィーナ/菲娜,ターニャ……！<br>メッチャ良いこと言うじゃん！,塔妮亚……！<br>说得太对了！
+44,フィーナ/菲娜,スツルムは無口なのがカワイイけど、<br>肝心なことは言わなきゃダメだよ？,虽然斯特姆少言寡语很可爱，<br>但是重要的内容必须得表达出来哦？
+45,フィーナ/菲娜,超絶カワイイフィーナちゃんとの、<br>や・く・そ──,这是和超级可爱菲娜的<br>约·定——
+47,フィーナ/菲娜,<span class='scene-font-4'>いったぁ！？</span><br>なに！？　なんで刺したの！？,<span class='scene-font-4'>疼死了！？</span><br>什么！？　为什么用剑刺我！？
+48,スツルム/斯特姆,わ、悪い……<br>あまりにイラっときて<br>つい癖が出た。,抱、抱歉……<br>实在是气上头<br>老毛病犯了。
+54,スツルム/斯特姆,っ……！,……！
+55,スツルム/斯特姆,<span class='scene-font-kokoro'>（姬塔を呼んだ、</span><br><span class='scene-font-kokoro'>本当の理由……確かに伝えるべきだ）</span>,<span class='scene-font-kokoro'>（我得告诉姬塔</span><br><span class='scene-font-kokoro'>这次行动的……真正理由）</span>
+56,スツルム/斯特姆,<span class='scene-font-kokoro'>（しかし、なぜだ……？</span><br><span class='scene-font-kokoro'>言葉が出てこない……）</span>,<span class='scene-font-kokoro'>（但是，为什么……？</span><br><span class='scene-font-kokoro'>说不出口……）</span>
+59,スツルム/斯特姆,──簡単な話だ。<br>あの主人公がすぐに想いを伝えれば、<br>万事丸く収まってたはずだ。,——其实很简单。<br>如果主人公立刻把自己的想法说出来，<br>就万事大吉了。
+62,スツルム/斯特姆,<span class='scene-font-kokoro'>（クソッ……</span><br><span class='scene-font-kokoro'>これじゃ、あの劇の</span><br><span class='scene-font-kokoro'>腑抜けた主人公と変わらない……！）</span>,<span class='scene-font-kokoro'>（可恶……</span><br><span class='scene-font-kokoro'>这样下去，就和剧里的</span><br><span class='scene-font-kokoro'>废物主角没什么两样了……！）</span>
+63,,<span class='scene-font-katari'>スツルムが唇を噛んだ瞬間──</span>,<span class='scene-font-katari'>斯特姆咬紧嘴唇的瞬间——</span>
+64,３人,わわっ！？<br>うわぁっ！？<br>おっと！？,哇哇！？<br>呜哇！？<br>哎呀！？
+66,,<span class='scene-font-katari'>遠くの家屋の陰から、</span><br><span class='scene-font-katari'>折り重なった３人が飛び出した。</span>,<span class='scene-font-katari'>远处房屋的阴影里，</span><br><span class='scene-font-katari'>突然蹿出了叠在一起的3人。</span>
+68,フィーナ/菲娜,ちょっと、ドランク！？<br>押さないでよ、もう！,我说，德朗克！？<br>你别推我啊，真是的！
+69,ドランク/德朗克,ごめんねぇ～……<br>スツルム殿がんばれーって思ったら、<br>つい力が入っちゃって……,抱歉啊～……<br>我想着斯特姆阁下加油，<br>就一不小心用力过猛……
+70,ターニャ,ふ、ふたりとも、<br>早く隠れないと……！,你、你们两个，<br>快躲起来……！
+72,,<span class='scene-font-katari'>３人はドタバタと</span><br><span class='scene-font-katari'>物陰に引っ込み、</span><br><span class='scene-font-katari'>顔だけをひょっこり出す。</span>,<span class='scene-font-katari'>3人匆匆忙忙</span><br><span class='scene-font-katari'>躲进阴影里，</span><br><span class='scene-font-katari'>只露出半张脸。</span>
+73,,<span class='scene-font-katari'>そして、息をひそめながら、</span><br><span class='scene-font-katari'>熱い視線をスツルムに送るのだった。</span>,<span class='scene-font-katari'>然后，屏住呼吸，</span><br><span class='scene-font-katari'>向斯特姆送去灼热的目光。</span>
+74,スツルム/斯特姆,はぁ～～～……,唉～～～……
+75,スツルム/斯特姆,<span class='scene-font-kokoro'>（何をしてるんだ、あいつらは……）</span>,<span class='scene-font-kokoro'>（这群人在干什么……）</span>
+75-sel1_txt,,<span class='scene-font-katari'>今、あそこに……</span>,<span class='scene-font-katari'>刚才，那里……</span>
+76,スツルム/斯特姆,気にするな……<br>今日はどうも猫が騒がしい日らしい。, 别在意……<br>看来今天是猫大吵大闹的日子。
+77,スツルム/斯特姆,…………,…………
+78,スツルム/斯特姆,今日、お前を呼んだのは、<br>本当は依頼のためじゃない……<br>お前に、礼をするために呼んだんだ。,今天，叫你出来，<br>其实不是为了委托……<br>而是，为了表示感谢。
+79,スツルム/斯特姆,あたしとドランクが、<br>その、何かと世話になったり……,我和德朗克，<br>那个，受你照顾……
+80,スツルム/斯特姆,なんとなく、わかるだろ？<br>だから、まあ、なんだ……,你应该，能明白吧？<br>所以，嗯，就是……
+81,スツルム/斯特姆,……ありがとう。,……谢谢。
+82,,<span class='scene-font-katari'>スツルムは感謝の気持ちを込め、</span><br><span class='scene-font-katari'>なんとかその一言を絞り出す。</span>,<span class='scene-font-katari'>斯特姆心怀感激，</span><br><span class='scene-font-katari'>总算是挤出了这一句话。</span>
+82-sel1_txt,,<span class='scene-font-katari'>楽しかった</span>,<span class='scene-font-katari'>今天玩得很高兴</span>
+82-sel2_txt,,<span class='scene-font-katari'>こちらこそありがとう！</span>,<span class='scene-font-katari'>彼此彼此！</span>
+84,スツルム/斯特姆,…………！,…………！
+85,,<span class='scene-font-katari'>スツルムは頬に集まってくる熱を</span><br><span class='scene-font-katari'>振り払うように、大声を出す。</span>,<span class='scene-font-katari'>斯特姆像是要散去</span><br><span class='scene-font-katari'>集中在脸颊上的热度一般，大声喊道。</span>
+86,スツルム/斯特姆,<span class='scene-font-4'>お前らもだ！　そこにいる３人！</span>,<span class='scene-font-4'>你们也一样！　那边的3个！</span>
+88,フィーナ/菲娜,あはは……<br>バレちゃったか……,啊哈哈……<br>露馅了啊……
+89,ターニャ,ご、ごめん……<br>怒ってるよね？,对、对不起……<br>你生气了？
+90,スツルム/斯特姆,当然だ。<br>あたしは見世物じゃない。,那当然。<br>我又不是展示品。
+91,スツルム/斯特姆,だが……これで貸し借りは無しだ。<br>いいな？,但是……这样就两清了。<br>可以吧？
+92,ドランク/德朗克,それ、許してくれるってことだよねぇ！<br>スツルム殿ってば優し──,这个，意思是原谅我们了吧！<br>果然斯特姆阁下就是温——
+94,ドランク/德朗克,<span class='scene-font-4'>痛ああぁぁっ！！</span>,<span class='scene-font-4'>疼死了！！</span>
+95,スツルム/斯特姆,ドランク、お前は駄目だ。<br>ただの野次馬だからな。,除了你，德朗克。<br>你就是来凑热闹的。
+96,ドランク/德朗克,ちょ、ちょっとぉ！？<br>僕だって少しは貢献して……<br>ほら、風の魔法をぴゅうっと──,谁、谁说的！？<br>我也做了点贡献……<br>就是，用风之魔法呼——
+98,ドランク/德朗克,<span class='scene-font-4'>痛ったい！！</span>,<span class='scene-font-4'>疼！！</span>
+99,スツルム/斯特姆,そもそも、<br>お前に今日のことは言ってない。<br>なのに何でここに居るんだ。,说到底，<br>我根本没告诉你今天的事情。<br>你为什么会在？
+100,スツルム/斯特姆,まさかとは思うが……<br>いつもあたしをつけてたのか……！？,难道……<br>你一直在跟踪我……！？
+103,ドランク/德朗克,<span class='scene-font-4'>いたたっ！！</span><br>ぼ、僕はスツルム殿が心配で……<br>面白そうなんてこれっぽちも痛ぁあい！,<span class='scene-font-4'>好痛！！</span><br>我、我只是担心斯特姆阁下……<br>怎么会是觉得好玩才疼疼疼！
+104,ドランク/德朗克,ホントにごめんってば！<br>お詫びにスツルム殿の好きなお店、<br>僕がおごるからぁ！,真的抱歉！<br>作为补偿我请你去<br>你最喜欢的店吃饭！
+105,スツルム/斯特姆,ふん、肉料理のあそこか？<br>あの店はそこそこ値が張るぞ。,哼，是肉餐厅那家吗？<br>那家店可不便宜。
+106,ドランク/德朗克,ぜ～んぜん！<br>許してもらえるなら安い安い！,哪～里哪里！<br>只要能原谅我就算不了什么！
+108,スツルム/斯特姆,なら、ここにいるみんなの分だ。<br>それで手打ちにしてやる。,那，就请现在在场的所有人。<br>这样我就饶了你。
+109,ドランク/德朗克,<span class='scene-font-4'>げええっ！？</span><br>そ、それはいくらなんでも……, <span class='scene-font-4'>啥！？</span><br>那、那就算多少钱也……
+110,スツルム/斯特姆,行くぞ。<br>ドランクが美味い肉を<br>ご馳走してくれるらしい。,走吧。<br>德朗克好像说<br>他请客大鱼大肉。
+111,ターニャ,い、いいのかな……？,真、真的可以吗……？
+112,フィーナ/菲娜,わぁ、スツルムが好きな店とか、<br>メッチャ楽しみだよ～！<br>ミニゴブも連れてきていい？,好耶，好期待<br>斯特姆喜欢的店～！<br>可以带迷你哥布一起去吗？
+113,ドランク/德朗克,いやいや！<br>そんなの、もちろん──,不不！<br>那当然—
+114,スツルム/斯特姆,もちろん？,当然？
+115,ドランク/德朗克,わぁーはは……<br>うん、もうどんどん<br>連れてきちゃって……,哇—哈哈……<br>嗯，当然是人越多<br>越热闹……
+116,,<span class='scene-font-katari'>スツルムに連れられ、</span><br><span class='scene-font-katari'>姬塔達は歩き始める。</span>,<span class='scene-font-katari'>斯特姆带着姬塔等人</span><br><span class='scene-font-katari'>朝店铺走去。</span>,
+117,,<span class='scene-font-katari'>その後ろから、</span><br><span class='scene-font-katari'>ドランクがとぼとぼと続く。</span>,<span class='scene-font-katari'>德朗克跟在后面，</span><br><span class='scene-font-katari'>有气无力地前进着。</span>
+118,スツルム/斯特姆,<span class='scene-font-kokoro'>（みんなの分、か……）</span>,<span class='scene-font-kokoro'>（在场的，所有人……）</span>
+119,,<span class='scene-font-katari'>心の中で、自分が放った言葉を反芻し、</span><br><span class='scene-font-katari'>思わず口の端をあげるスツルム。</span>,<span class='scene-font-katari'>斯特姆在心中，反复咀嚼着自己说的话，</span><br><span class='scene-font-katari'>嘴角不自觉上扬。</span>
+120,,<span class='scene-font-katari'>先頭を行くスツルムの表情は、</span><br><span class='scene-font-katari'>スツルム自身にも</span><br><span class='scene-font-katari'>見えていないのだった。</span>,<span class='scene-font-katari'>然而走在最前的斯特姆</span><br><span class='scene-font-katari'>未曾察觉</span><br><span class='scene-font-katari'>自己的表情。</span>
+info,,,scene_chr605_q4_s10
+译者,,,SETSU_XY

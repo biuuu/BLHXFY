@@ -1,0 +1,46 @@
+id,name,text,trans
+0-chapter_name,,十天衆との邂逅②,与十天众的邂逅②
+0-synopsis,,姬塔一行がよろず屋へ訪れると、ハーヴィンの男と再会する。彼はウーノと名乗り、全空の脅威を担う十天衆の一員だと一行に語る。そしてウーノは一行に対し、一伐槍を完成させるなら、いずれ十天衆と関わらざるを得ないと告げ、店を去る。一行は、十天衆と一伐槍との関係について、疑問を覚えるのだった。,姬塔一行拜访了万事屋，再次遇到了那个哈文族男子。他告诉一行人他叫乌诺，是被称作全空威胁的十天众的一员。然后乌诺对一行人说，如果一伐枪完成了的话，他们总有一天会和十天众扯上关系，便离开了。一行人对一伐枪和十天众的关系产生了疑问。
+0,,<span class='scene-font-spword'>「一伐槍」</span><span class='scene-font-katari'>の</span><br><span class='scene-font-katari'>覚醒の度合いを確かめるべく</span><br><span class='scene-font-katari'>改めてよろず屋を訪れる一行。</span>,<span class='scene-font-katari'>为了确认<span class='scene-font-spword'>「一伐枪」</span><span class='scene-font-katari'>觉醒的时机，一行人再度拜访了万事屋。</span>
+1,,<span class='scene-font-katari'>するとそこには、</span><br><span class='scene-font-katari'>以前にも見た小さな先客の姿があった。</span>,<span class='scene-font-katari'>然后在那又看见了之前那位娇小的客人。</span>
+2,？？？,やぁ……<br>また会ったね、騎空士さん。,呀……又见面了呢，骑空士。
+3,ルリア/露莉亚,あっ、貴方は……<br>えと……,啊，你是……嗯……
+4,？？？,ああ、いや、失敬！<br>自己紹介がまだだったね。,啊，失礼了！我还没自我介绍过呢。
+5,ウーノ/乌诺,私の名はウーノ……<br>全空の脅威を担う十天衆の一人だ。,我叫乌诺……是被称为全空威胁的十天众的一员。
+6,ビィ/碧,うん？<br>なんだぁ？　十天衆って……,嗯？你说什么？十天众什么的……
+7,ウーノ/乌诺,む……<br>君達は十天衆を知らないのかい？<br>いままで耳にしたことも？,嗯……你们不知道十天众吗？至今为止都没听说过吗？
+8,ルリア/露莉亚,えと……ごめんなさい。<br>ちょっとわからないです。,那个……对不起。不是很清楚呢。
+9,ウーノ/乌诺,そうか……<br>ああ、いや、気にしなくていい。,是嘛……啊，没事的，请不必介意。
+10,ウーノ/乌诺,ところで、君……<br>君が手にしている、それは……,话说回来，你……你手上的那是……
+12,シェロカルテ/榭洛科特,<span class='scene-font-spword'>「一伐槍」</span>ですね～<br>姬塔さん、<br>また一段と覚醒に近づけたみたいで～,是<span class='scene-font-spword'>「一伐枪」</span>啊~<br>姬塔，离觉醒又近了一步的样子呢~
+13,ビィ/碧,へへんっ！　あたぼうよ！<br>オイラ達にかかりゃあ、<br>こんな槍の覚醒なんてスグだぜ！,嗯哼！那是当然！因为我们的努力，这把枪才这么快觉醒！
+14,シェロカルテ/榭洛科特,ああ、いえ……<br>近づいてはいますけど、<br>覚醒にはもう少しかかりますよ、これ～,啊，不是的……虽说是接近了，但要觉醒还是要再努力啊~
+15,ビィ/碧,うげっ……<br>まだかかるってのかよ……,呜诶……还要再努力啊……
+16,シェロカルテ/榭洛科特,そうですね～<br>何せ<span class='scene-font-spword'>「一伐槍」</span>は<br><span class='scene-font-spword'>「天星器」</span>の一つですから～,是啊~毕竟<span class='scene-font-spword'>「一伐枪」</span>可是<span class='scene-font-spword'>「天星器」</span>之一啊~
+17,シェロカルテ/榭洛科特,覇空戦争の最終兵器と呼ばれた<br><span class='scene-font-spword'>「天星器」</span>の潜在能力は、<br>計り知れないものです～,被称作霸空战争最终兵器的<span class='scene-font-spword'>「天星器」</span>的潜能可是难以估量的呢~
+18,ウーノ/乌诺,文献で見たことはあったが……<br>これが本物か……<br>それにこの力は……！,我在文献上看过……这就是真品吗……而且这股力量……！
+19,ウーノ/乌诺,君は<span class='scene-font-spword'>「一伐槍」</span>を<br>完全に覚醒させるつもりなのか？,你打算让<span class='scene-font-spword'>「一伐枪」</span>完全觉醒吗？
+19-sel1_txt,,<span class='scene-font-katari'>もちろん</span>,<span class='scene-font-katari'>当然了</span>
+19-sel2_txt,,<span class='scene-font-katari'>悩んでる……</span>,<span class='scene-font-katari'>还在烦恼中……</span>
+20,ウーノ/乌诺,そうか……<br>確かにそれは手に入れた者として、<br>当然の選択なのかもしれないな……,是嘛……确实对于获得它的人来说，是理所当然的选择呢……
+21,ウーノ/乌诺,それは恐らく、<br><span class='scene-font-spword'>「一伐槍」</span>の秘める力の凄まじさを<br>無意識に感じ取っているからだろう。,那恐怕是因为你下意识感觉到了<span class='scene-font-spword'>「一伐枪」</span>蕴含的那强大的力量吧……
+22,ウーノ/乌诺,ともかく……<br>もしも君達がこのまま<br><span class='scene-font-spword'>「一伐槍」</span>の覚醒を目指すのなら……,总之……如果你要继续让<span class='scene-font-spword'>「一伐枪」</span>觉醒的话……
+23,ウーノ/乌诺,君達はいずれ、<br>私達十天衆と……<br>全空の脅威と関わらざるをえない。,你们总有一天……会不得不与我们十天众……全空的威胁扯上关系。
+24,ウーノ/乌诺,それは避けられぬことだ……<br>それだけはしっかりと<br>覚えておいておくれ……,那是无可避免的……给我好好记住这件事吧……
+26,,<span class='scene-font-katari'>そう告げると、</span><br><span class='scene-font-katari'>険しい表情のまま、</span><br><span class='scene-font-katari'>ウーノは去って行った。</span>,<span class='scene-font-katari'>说完，乌诺一脸严峻地离开了。</span>
+27,ビィ/碧,なんだぁ、ありゃあ……<br>結局、なんだってんだよ？,怎么了，那个人……结果是怎样啊？
+28,ルリア/露莉亚,えと……十天衆って、<br>なんのことなんでしょうか？,那个……十天众是怎样的存在呢？
+29,シェロカルテ/榭洛科特,珍しいですね～<br>十天衆をご存じないとは～,真稀奇啊~居然不知道十天众~
+30,シェロカルテ/榭洛科特,十天衆はその名の通り、<br>とある十人からなる<br>伝説の騎空団なんですよ～,十天众正如其名，是由十人组成的传说骑空团~
+31,シェロカルテ/榭洛科特,その十人はそれぞれが<br>異なる武器の使い手でして……,那十人使用着不同的武器……
+32,シェロカルテ/榭洛科特,最強の十人が集まった十天衆は、<br>全空の脅威とも呼ばれてるんです～,聚集了最强十人的十天众，被称作全空的威胁~
+33,ビィ/碧,あ、あの髭のおっさん、<br>そんなすげぇ騎空団の一員なのかよ……,那，那个胡子大叔，是那么厉害的骑空团的一员吗……
+34,ルリア/露莉亚,でも……その十天衆さん達が、<br><span class='scene-font-spword'>「一伐槍」</span>の覚醒に<br>どう関係あるんでしょうか……？,但是……十天众们和<span class='scene-font-spword'>「一伐枪」</span>的觉醒有什么关系呢……？
+35,シェロカルテ/榭洛科特,それは……<br>まぁ、仕方のないことだと思います～,那是……嘛，我觉得那也是无可奈何的~
+36,シェロカルテ/榭洛科特,十天衆は言ってしまえば、<br>そのためにあるようなもの<br>と、仰ってましたし～,他也说过既然被称作十天众，就要有相应的行动啊~
+37,ビィ/碧,なんだぁ？<br>なーんか煮え切らねーなぁ……,什么啊？说得这么不清不楚的……
+38,シェロカルテ/榭洛科特,んん……<br>いまシェロちゃんから言えるのは、<br>これくらいなんです～,嗯嗯……目前榭洛酱我只能说这么多了~
+39,,<span class='scene-font-katari'>その後、何度か尋ねるものの、<br><span class='scene-font-katari'>シェロカルテが口を割ることは<br><span class='scene-font-katari'>決してなかった。</span>,<span class='scene-font-katari'>在那之后，不论再怎么追问，榭洛科特也闭口不言。</span>
+40,,<span class='scene-font-katari'>そして姬塔一行は、</span><br><span class='scene-font-katari'><span class='scene-font-spword'>「一伐槍」</span>の覚醒と共に、</span><br><span class='scene-font-katari'>その真相を知ることになるのだった。</span>,<span class='scene-font-katari'>随着</span><span class='scene-font-spword'>「一伐槍」</span><span class='scene-font-katari'>的觉醒，姬塔一行也将得知真相。</span>
+info,,,scene_evolutionweapon_1_ep2
+译者,,,

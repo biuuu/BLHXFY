@@ -1,0 +1,23 @@
+id,en,jp,trans
+0-chapter_name,,ソーンの故郷で,重归故里
+0-synopsis,,ソーンに連れられ、彼女の故郷を訪れた姬塔一行。ソーンは住んでいた村について、一行に語っていると、遠くにある山村の異変を感じ取る。そのことをソーンは一行に告げて、一行と共に村へと急ぐ。,在索恩的带领下，来到她的故乡的姬塔一行。在索恩向一行人介绍自己曾经住过的村子的时候，突然感觉到远处的某个山村的异变。索恩将情况传达给一行人后，大家开始向那个村子快速进发。
+0,,<span class='scene-font-katari'>ソーンに連れられ、</span><br><span class='scene-font-katari'>彼女の故郷を訪れた</span><br><span class='scene-font-katari'>姬塔達。</span>,<span class='scene-font-katari'>在索恩的带领下，</span><br><span class='scene-font-katari'>姬塔们来到了她的家乡。</span>
+1,,<span class='scene-font-katari'>騎空団の面々を気に入ったソーンは、</span><br><span class='scene-font-katari'>姬塔らを家族に紹介したいと</span><br><span class='scene-font-katari'>申し出たのである。</span>,<span class='scene-font-katari'>对骑空团各方面都很满意的索恩，</span><br><span class='scene-font-katari'>提出了想把姬塔们介绍给</span><br><span class='scene-font-katari'>家人的想法。</span>
+2,,なあなあ、姉ちゃんの故郷って<br>どんなトコなんだ？,呐呐，大姐姐的家乡<br>是什么样的地方啊？
+3,,ふふ、物凄い田舎よ。<br>する事といえば、弓を作るか、<br>獲物を処理してるくらいの。,嘿嘿，是个非常不得了的村子哟。<br>提到平时做的事的话，也就是<br>做做弓、处理处理猎物什么的。
+4,,へぇ……なんかいかにも狩人の村、<br>ってカンジだな！,诶……好像完全就是猎人之村<br>的感觉啊！
+5,,懐かしい。<br>小さい頃、このあたりの山で<br>狩りをして過ごしたな。,真是令人怀念啊。<br>小的时候，我一直都是<br>在这村子附近的山上去打猎度过的。
+6,,その頃から弓が得意だったんですか？,从那时开始就很擅长用弓了吗？
+7,,うん。生まれつき目も良かったし。<br>山の頂上に立てば<br>獲物がどこにいるかすぐにわかったの。,怎么说呢。天生眼神就已经非常好了。<br>只要站在山的顶上<br>就能马上知道猎物在哪里了。
+8,,幼馴染とよく狩りをしたな。<br>同い年の女の子。<br>今じゃ、もう会っても話さないけどね。,小时候总是和青梅竹马去狩猎呐。<br>是个和我同年的女孩子。<br>现在的话，即使见面也不会和我说话了。
+9,,<span class='scene-font-katari'>寂しそうな表情を浮かべ、</span><br><span class='scene-font-katari'>道案内するソーン。彼女の後に続いて</span><br><span class='scene-font-katari'>姬塔達も森を歩いた。</span>,<span class='scene-font-katari'>作为向导的索恩在提起这些的时候，</span><br><span class='scene-font-katari'>露出了一副孤寂的表情。</span><br><span class='scene-font-katari'>跟随着她的脚步，姬塔们进入森林。</span>
+12,,<span class='scene-font-katari'>やがて、遠くにぽつんと</span><br><span class='scene-font-katari'>小さな山村が見えてきたのだった。</span>,<span class='scene-font-katari'>不久后，大家能够看见很远的地方</span><br><span class='scene-font-katari'>有一个孤零零的小山村。</span>
+13,,見える？　あれが私の生まれた……,能看见吗？　那个就是我出生的村……
+14,,ソーンさん？<br>どうしたんですか？,索恩姐？ 怎么了？
+15,,村の様子が変……,村子的情况好奇怪……
+16,,うん？　変ってなんだ？<br>オイラ達の目じゃ<br>この距離だとよくわかんねえや。,嗯？　哪里奇怪？<br>我们眼睛的话<br>从这个距离什么都不知道呀。
+17,,元々人の多い村じゃないけど……<br>いくらなんでも少なすぎる……<br>何が……,虽然原来不是有那么多人的村子……<br>但是无论怎么说也太少了吧……<br>是不是发生了什么……
+18,,なんだか、心配ですね……,总觉得有些担心呢……
+19,,急いだ方がいい感じだなぁ。<br>もし姉ちゃんの村の連中が困ってたら、<br>オイラ達も手を貸すぜ！,事不宜迟。<br>如果姐姐村子里的人遇到麻烦的话<br>我们就去帮忙吧！
+20,,そうです！<br>急いで行きましょう、姬塔！,是啊！<br>我们快走吧，姬塔！
+info,,1,scene_chr129_q1_s10

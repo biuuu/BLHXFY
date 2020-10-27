@@ -1,0 +1,83 @@
+id,name,text,trans
+0-chapter_name,,緑閃光,绿色闪光
+0-synopsis,,ある早朝、目が覚めた姬塔が海岸に出ると、そこにはルシオがひとり佇んでいた。陽の出の瞬間まれに太陽が緑色に輝くらしく、それを見ると願いが叶うと聞いたのだが見られなかった、という。何か叶えるのが困難な願いを持つらしいルシオは、「私も成長し、変化すべき時が来た」と語り、姬塔を成長の導として試練を乗り越えると微笑むのだった。,某日清晨，醒来的姬塔到沙滩上散步，看到了独自一人的路西欧。他告诉姬塔，听说太阳刚出现的时候偶尔会发出绿色光辉，看到那个的话心愿就会实现，然而他特地来看却并没有看到。看似有难以达成的愿望的路西欧表示“我也该成长、变化了”，微笑说到姬塔将会引导自己成长并克服神的试炼。
+1,ルシオ/路西欧,…………,…………
+4,,<span class='scene-font-katari'>早朝、まだ陽の昇らぬ刻。</span><br><span class='scene-font-katari'>ルシオはひとり</span><br><span class='scene-font-katari'>海岸に佇んでいた。</span>,<span class='scene-font-katari'>清晨，太阳还未升起的时候，</span><br><span class='scene-font-katari'>路西欧独自一人静静地站在海岸边。</span>
+10,,<span class='scene-font-katari'>いつからそこにいたのか、</span><br><span class='scene-font-katari'>待ちくたびれた様子もなく。</span><br><span class='scene-font-katari'>やがて陽は昇り──</span>,<span class='scene-font-katari'>无人知晓他是何时开始站在那里，</span><br><span class='scene-font-katari'>但丝毫不见他慌乱。</span><br><span class='scene-font-katari'>终于太阳升起——</span>
+11,,<span class='scene-font-katari'>早朝、まだ陽の昇らぬ刻。</span><br><span class='scene-font-katari'>美しい青年が</span><br><span class='scene-font-katari'>ひとり海岸に佇んでいた。</span>,<span class='scene-font-katari'>清晨，太阳还未升起的时候，</span><br><span class='scene-font-katari'>一位美丽的青年静静地站在海岸边。</span>
+17,,<span class='scene-font-katari'>彼の名はルシオ。かつて劇団の</span><br><span class='scene-font-katari'>花形役者をしていた青年で今は</span><br><span class='scene-font-katari'>姬塔の騎空団の一員である。</span>,<span class='scene-font-katari'>他叫路西欧，</span><br><span class='scene-font-katari'>过去曾经是一名剧团的当红演员，</span><br><span class='scene-font-katari'>现在是姬塔骑空团的成员。</span>
+20,,<span class='scene-font-katari'>姬塔達の旅に加わった経緯は</span><br><span class='scene-font-katari'>定かではない。というか、</span><br><span class='scene-font-katari'>誰も覚えていないのだ。</span>,<span class='scene-font-katari'>他加入姬塔等人的旅途的经过并不明确，</span><br><span class='scene-font-katari'>不如说，没有人记得他。</span>
+21,,<span class='scene-font-katari'>そして「いつ」「どうして」彼が</span><br><span class='scene-font-katari'>同行したのかわからない事に</span><br><span class='scene-font-katari'>誰も疑問を抱かずにいた。</span>,<span class='scene-font-katari'>但是大家都没有怀疑</span><br><span class='scene-font-katari'>不知【何时】【为何】加入进来的他。</span>
+22,,<span class='scene-font-katari'>ただ──</span>,<span class='scene-font-katari'>不过──</span>
+28,ルシオ/路西欧,……主は、かつて私に仰せられた。<br>混沌に満ちた世界を、この光で<br>照らし、導くようにと……,……主曾对我说，<br>要照亮并引导充满混沌的世界……
+29,ルシオ/路西欧,ならば、世界が闇に没しようと<br>している今、私は降り立ち、<br>示さねばならない。,那么在这个世界即将被黑暗笼罩的时刻，<br>我必须降临于此并彰显主的威光。
+30,ルシオ/路西欧,我が輝きを……<br>この空と星の果てまでも……,我的光辉将照遍<br>整个天空与星之世界的尽头……
+31,,<span class='scene-font-katari'>時折姬塔の夢に響く声が</span><br><span class='scene-font-katari'>ルシオの同行を不可欠なものと</span><br><span class='scene-font-katari'>認識させていた。</span>,<span class='scene-font-katari'>偶然出现在姬塔梦中的声音</span><br><span class='scene-font-katari'>让姬塔知道了路西欧是不可或缺的伙伴。</span>
+32,,<span class='scene-font-katari'>その正体は判然としないまでも、</span><br><span class='scene-font-katari'>ルシオは世界の根源に繋がる何かと</span><br><span class='scene-font-katari'>関係があるらしい。</span>,<span class='scene-font-katari'>虽然不知道那个声音的主人，</span><br><span class='scene-font-katari'>但路西欧似乎和世界的根源有所联系。</span>
+33,,<span class='scene-font-katari'>時に巨大な力を行使することもあり</span><br><span class='scene-font-katari'>底知れぬものを秘めた青年だった。</span>,<span class='scene-font-katari'>他时不时还会展现出巨大的力量，</span><br><span class='scene-font-katari'>是个深不可测的人。</span>
+39,,<span class='scene-font-katari'>しかし、今はひとり</span><br><span class='scene-font-katari'>憂いを帯びた目で</span><br><span class='scene-font-katari'>白みはじめた水平線を眺めていた。</span>,<span class='scene-font-katari'>但这个路西欧现在正用忧愁的目光</span><br><span class='scene-font-katari'>眺望着开始泛白的海平面。</span>
+40,ルシオ/路西欧,…………,…………
+41,,<span class='scene-font-katari'>水平線から顔を出した朝陽に目を細め</span><br><span class='scene-font-katari'>小さく息をつく。</span>,<span class='scene-font-katari'>他眯眼看着升起的太阳<span class='scene-font-katari'>然后小声地叹了一口气。</span>
+42,ルシオ/路西欧,おや。<br>あれは姬塔……,咦，是姬塔啊……
+43,,<span class='scene-font-katari'>ちょうどその時、</span><br><span class='scene-font-katari'>海岸を散歩していた姬塔が</span><br><span class='scene-font-katari'>ルシオを見つけたのだった。</span>,<span class='scene-font-katari'>在海边散步的姬塔正好看到了路西欧。</span>
+45,ルシオ/路西欧,おはようございます。<br>姬塔。<br>どうしたのですか、このような時間に。,早上好，姬塔，<br>今天怎么这么早呀。
+45-sel1_txt,,<span class='scene-font-katari'>朝早く目が覚めちゃった</span>,<span class='scene-font-katari'>今天很早就醒了。</span>
+45-sel2_txt,,<span class='scene-font-katari'>ルシオの気配にあてられて</span>,<span class='scene-font-katari'>察觉到了路西欧的气息。</span>
+46,ルシオ/路西欧,おや……<br>何か心配事でも？,嗯……难道是在担心什么吗？
+48,ルシオ/路西欧,心穏やかでなければ<br>眠りに支障が出るといいます。<br>私でよければ伺いますよ。,据说情绪会影响睡眠，<br>如果需要我的帮助请务必吩咐。
+49,ルシオ/路西欧,姬塔が必要となさるなら、<br>私はいつでも力になりましょう。,只要是你需要，<br>我随时都会尽力的。
+50,ルシオ/路西欧,……とはいえ、<br>私の力でできる事も<br>限られてはいるのですが。,……话虽如此，<br>也要是我能做到的才行。
+51,ルシオ/路西欧,気配ですか！？<br>力を行使した覚えはないのですが……<br>困りましたね。,我的气息吗！？<br>可是我并没有使用力量啊……<br>真头疼。
+52,ルシオ/路西欧,時に、私は自覚なく<br>人の心を乱してしまうことがあります。<br>主が私を美しく創られたばかりに……,有时我会无意间扰乱人们的心境，<br>因为主把我创造的太美丽了……
+53,ルシオ/路西欧,ハロウィンの仮装で<br>この顔を隠せども、不思議と私は<br>人々を魅了してしまい……,即使我用万圣节变装的衣服遮住脸，<br>还是很不可思议地会引人注目……
+54,,<span class='scene-font-katari'>頭を抱えてしまったルシオへ</span><br><span class='scene-font-katari'>慌てて「冗談だ」と</span><br><span class='scene-font-katari'>告げる姬塔。</span>,<span class='scene-font-katari'>姬塔看到头痛不已的路西欧</span><br><span class='scene-font-katari'>赶紧坦白“开玩笑的”。</span>
+55,ルシオ/路西欧,あ……フフ。失礼しました。<br>なにぶん、このような存在なもので。<br>時に人の感覚がわからず。,啊……呵呵。失礼了。我生来如此，<br>有时候真的不通晓人类的感情，<br>非常抱歉。
+56,,<span class='scene-font-katari'>どこか自嘲するような素振りを</span><br><span class='scene-font-katari'>見せるルシオ。</span><br><span class='scene-font-katari'>その理由を問うと──</span>,<span class='scene-font-katari'>路西欧有些自嘲地说。</span><br><span class='scene-font-katari'>问其驻足于海滩上的理由—</span>
+57,ルシオ/路西欧,ああ……実は。,啊……其实。
+58,ルシオ/路西欧,この海では、<br>陽の出と陽の入りの瞬間、ごくまれに<br>太陽が緑色に輝くのだそうです。,这片大海的日出日落<br>偶尔会出现绿色的闪光。
+59,ルシオ/路西欧,それを見た者には幸運が訪れ、<br>願い事が叶うのだと聞いて。<br>ぜひこの目で見たいと思いました。,听说看到的人会遇到幸运的事，<br>愿望会实现，<br>所以我非常想要见到。
+59-sel1_txt,,<span class='scene-font-katari'>願い事？</span>,<span class='scene-font-katari'>愿望？</span>
+60,ルシオ/路西欧,……ええ、<br>どうしても叶えたいことがひとつ。<br>しかし今日は見られませんでした。,……是的，我有一个非常想要实现的愿望。<br>但是今天并没有看见绿色闪光。
+61,,<span class='scene-font-katari'>そう言いながら、</span><br><span class='scene-font-katari'>朝陽を眺めるルシオ。その横顔は</span><br><span class='scene-font-katari'>切なくも穏やかな笑みを浮かべている。</span>,<span class='scene-font-katari'>路西欧虽然嘴角挂着微笑，</span><br><span class='scene-font-katari'>但他眺望着朝阳的侧颜却略显忧伤。</span>
+62,ルシオ/路西欧,フフ。残念な反面、嬉しいのです。<br>我が主が創り賜うた世界はかくも美しく<br>そして私はここに在る──,不过看到主创造的世界是如此美丽，<br>而我又置身于其中，<br>还是很开心的，呵呵。
+63,ルシオ/路西欧,──たとえようのない喜びです。<br>特別でなくともそう思わせてくれる、<br>それほどに美しい陽の出でした。,──这种喜悦无法用语言形容，<br>虽然并不特别但是会让我产生出这种想法，<br>就是如此美丽的日出。
+64,,<span class='scene-font-katari'>涼やかな早朝の風を楽しみながら</span><br><span class='scene-font-katari'>ルシオは微笑む。</span>,<span class='scene-font-katari'>路西欧享受着清晨凉爽的海风微笑着说道。</span>
+65,,<span class='scene-font-katari'>その目に映った朝陽は</span><br><span class='scene-font-katari'>どれほど美しかったのだろう──</span><br><span class='scene-font-katari'>ふと興味をひかれる姬塔。</span>,<span class='scene-font-katari'>他看到的朝阳究竟是多么美丽啊，</span><br><span class='scene-font-katari'>姬塔产生了一丝好奇。</span>
+66,ルシオ/路西欧,おや。姬塔も<br>ご覧になりたいですか？<br>それでは特別に──,咦，姬塔也想看吗？<br>那就——
+68,,<span class='scene-font-katari'>ルシオが一瞥すると、</span><br><span class='scene-font-katari'>みるみる陽が沈んでいく。</span>,<span class='scene-font-katari'>路西欧看了一眼，</span><br><span class='scene-font-katari'>太阳就沉了下去。</span>
+69,ルシオ/路西欧,ええ。いちど陽を沈めて<br>あの朝陽を姬塔にも<br>お見せしたいと──,先让太阳沉下去，<br>再让它升起来你就能看到日出了——
+70,,<span class='scene-font-katari'>……やっちゃダメな気がする。</span><br><span class='scene-font-katari'>姬塔はそう直感した。</span>,<span class='scene-font-katari'>……不能让他这么做。</span><br><span class='scene-font-katari'>姬塔的直觉告诉自己。</span>
+71,,<span class='scene-font-katari'>一度昇った陽がまた沈んだとあれば、</span><br><span class='scene-font-katari'>それを見た者がどう騒ぎ出すか</span><br><span class='scene-font-katari'>わかったものではない。</span>,<span class='scene-font-katari'>升起的太阳又沉了下去，</span><br><span class='scene-font-katari'>要是被人看到这般场景不知道会引发多大的骚动。</span>
+72,,<span class='scene-font-katari'>無用な混乱を招くわけにはいかない。</span><br><span class='scene-font-katari'>慌てて止めに入る姬塔。</span>,<span class='scene-font-katari'>为了不引起混乱姬塔慌忙制止了他。</span>
+73,ルシオ/路西欧,む……？<br>陽を沈めない方がいいのですか？,唔……？<br>不用把太阳沉下去吗？
+74,ルシオ/路西欧,ああ、陽の出の時間がずれてしまうと<br>確かに困る方もいらっしゃいますね。<br>それでは元の位置に戻しましょう。,啊，改变日出时间确实会给人造成麻烦，<br>那我就让太阳回去吧。
+76,,<span class='scene-font-katari'>すると明らかに不自然な速さで</span><br><span class='scene-font-katari'>太陽が昇りはじめる。</span>,<span class='scene-font-katari'>然后太阳就以异常的速度迅速爬升。</span>
+77,,<span class='scene-font-katari'>昇った陽が再び沈み、また昇り──</span><br><span class='scene-font-katari'>さすがに天変地異の前触れとも</span><br><span class='scene-font-katari'>受け取られかねない。</span>,<span class='scene-font-katari'>太阳升起后下沉又升了起来，</span><br><span class='scene-font-katari'>可能会被人当成天翻地覆的前兆。</span>
+78,,<span class='scene-font-katari'>むしろ、ルシオが起こしているこれが</span><br><span class='scene-font-katari'>天変地異そのものである事に気づき、</span><br><span class='scene-font-katari'>姬塔はまたも止めに入る。</span>,<span class='scene-font-katari'>倒不如说路西欧干的这件事本身就是天翻地覆，</span><br><span class='scene-font-katari'>姬塔又慌忙制止了他。</span>
+79,ルシオ/路西欧,あ……<br>これも良くないのでしょうか？,啊……这样也不行吗？
+80,,<span class='scene-font-katari'>頷き、陽の昇りを加速するのは</span><br><span class='scene-font-katari'>人が認識できない程度にとどめ、</span><br><span class='scene-font-katari'>上手く帳尻を合わせてほしいと頼む。</span>,<span class='scene-font-katari'>姬塔点了点头，</span><br><span class='scene-font-katari'>拜托他以正常人察觉不到的速度恢复太阳的位置。</span>
+81,ルシオ/路西欧,フフ、すみません。<br>やはり……難しいものですね。<br>他者の感じる事を推し量るというのは。,呵呵，不好意思。<br>推量别人的感觉真的很难啊……
+82,ルシオ/路西欧,なるほど、緑色に輝く太陽を<br>見られなかった理由がわかりました。,原来如此，<br>我知道为什么看不到闪耀着绿色的太阳了。
+83,ルシオ/路西欧,私の願いは<br>容易く叶うものではないという、<br>主の思し召しなのでしょう。,是主让我的愿望不会轻易实现吧。
+84,,<span class='scene-font-katari'>横顔に射す朝陽に目を細め、</span><br><span class='scene-font-katari'>ルシオは微笑む。</span>,<span class='scene-font-katari'>沐浴着朝日的阳光，</span><br><span class='scene-font-katari'>路西欧微微一笑。</span>
+85,ルシオ/路西欧,さあ、そろそろ戻りましょうか。<br>今朝は風が少し冷たいですからね。,一起回去吧，今早的海风有些冷呢。
+86,,<span class='scene-font-katari'>続く砂浜を辿るように、</span><br><span class='scene-font-katari'>姬塔とルシオは並んで歩く。</span>,<span class='scene-font-katari'>宛如想要寻找延续不断的沙滩的尽头，</span><br><span class='scene-font-katari'>姬塔和路西欧排行走着。</span>
+92,ルシオ/路西欧,…………,…………
+93,,<span class='scene-font-katari'>逡巡のルシオ。その願い事は、</span><br><span class='scene-font-katari'>超常の力を持つ彼にすら</span><br><span class='scene-font-katari'>容易に叶えられるものではないという。</span>,<span class='scene-font-katari'>路西欧看上去略有踌躇，</span><br><span class='scene-font-katari'>他的愿望就连拥有着超常能力的他也无法轻易完成。</span>
+94,ルシオ/路西欧,あ……<br>悩みが顔に出ていましたか？,啊……<br>我看上去很烦恼的样子？
+95,ルシオ/路西欧,悲観しているわけではありませんよ。<br>私も成長し、変化すべき時が来たと<br>理解できたのですから。,并不是悲观哦，<br>我明白了自己该成长、变化了。
+96,ルシオ/路西欧,……そして、成長の導となる方は<br>こうして目の前にいる。,……而且，<br>能引导我成长的人就在眼前。
+97,ルシオ/路西欧,ええ、あなたです、姬塔。<br>フフ……なんと恵まれた事か。<br>この試練、必ず乗り越えてみせます。,是的，就是你，姬塔。<br>呵呵……真是幸运啊，<br>我一定会克服这场试炼的。
+98,ルシオ/路西欧,さて。<br>私の成長のためにも、まずは……,好了。<br>为了我的成长，首先……
+99,,<span class='scene-font-katari'>ルシオは宿の前にちょうど出てきた</span><br><span class='scene-font-katari'>人影に目を止め、にっこりと微笑む。</span>,<span class='scene-font-katari'>路西欧盯着刚好从旅馆出来的人影，</span><br><span class='scene-font-katari'>嘴角微微上扬。</span>
+103,サンダルフォン/圣德芬,…………！,…………
+104,ルシオ/路西欧,まずはサンちゃんの<br>お手伝いをしなければ。,首先要帮芬酱打下手。
+105,サンダルフォン/圣德芬,…………,…………
+107,ルシオ/路西欧,おはようございます、サンちゃん。<br>屋台のお手伝いをさせてもらっても？,芬酱早安，<br>我能帮忙摆摊吗？
+108,サンダルフォン/圣德芬,……要らん。,……不要。
+109,ルシオ/路西欧,フフフ。まあ、そう言わず。<br>力仕事も雑用も、サンちゃんに<br>必要な事はなんでもやりますよ。,呵呵呵，不要这么说嘛。<br>无论是力气活还是杂活，<br>只要是芬酱需要的我什么都会做哦。
+110,サンダルフォン/圣德芬,その顔で雑用だと……！？<br>貴様、どこまで不敬を重ねる気だ……！,顶着和那位大人一样的脸干杂活……！？<br>你这家伙到底要多不敬才知足！
+111,,<span class='scene-font-katari'>微笑むルシオと、</span><br><span class='scene-font-katari'>それを睨むサンダルフォン。</span>,<span class='scene-font-katari'>笑容可掬的路西欧</span><br><span class='scene-font-katari'>与怒目而视的圣德芬。</span>
+112,,<span class='scene-font-katari'>今年の夏もまた、</span><br><span class='scene-font-katari'>平穏なバカンスとはいかないようで──</span>,<span class='scene-font-katari'>今年的夏天似乎也不太平稳──</span>
+info,,,scene_fate_chr619_ep1
+译者,,,sol

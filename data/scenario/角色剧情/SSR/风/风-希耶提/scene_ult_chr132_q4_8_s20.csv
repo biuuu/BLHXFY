@@ -1,0 +1,14 @@
+id,name,text,trans
+0-chapter_name,,天の覇,天之霸主
+0-synopsis,,カトルを下し楽しげなシエテ。そんなシエテの元に、突如、一筋の閃光が襲い掛かる。,希耶提正为了击败卡托尔而高兴。这时一道闪光突然袭向了希耶提。
+1,カトル/卡托尔,はぁ……はぁ……<br>クソがぁ！,哈啊……哈啊……<br>可恶！
+2,シエテ/希耶提,ふふ……<br>もう終わり、かな？,呵呵……<br>已经结束了，吗？
+3,カトル/卡托尔,<span class='scene-font-4'>ウルセェ！</span><br><span class='scene-font-4'>テメェぶっ殺す！</span>,<span class='scene-font-4'>吵死了！</span><br><span class='scene-font-4'>我要杀了你！</span>
+4,シエテ/希耶提,ははは……<br>威勢がいいねぇ。,哈哈哈……<br>气势不错呢。
+5,シエテ/希耶提,キミがまだヤルってんなら、<br>俺は止めはしないけど？,如果你还想战斗，<br>我不会阻止你哦？
+6,シエテ/希耶提,もうボロボロじゃない？,不过你不是已经伤痕累累了嘛？
+7,カトル/卡托尔,<span class='scene-font-4'>黙れェェェェ！</span>,<span class='scene-font-4'>闭嘴啊啊啊啊！</span>
+10,シエテ/希耶提,ふっ……,呵……
+11,,<span class='scene-font-katari'>その時、シエテの元に</span><br><span class='scene-font-katari'>一筋の閃光が襲いかかる。</span>,<span class='scene-font-katari'>这时，一道闪光袭向希耶提。</span>
+12,シエテ/希耶提,っ！？,！？
+info,,,scene_ult_chr132_q4_8_s20

@@ -1,0 +1,53 @@
+id,name,text,trans
+0-chapter_name,,依頼の行方,委托的去向
+0-synopsis,,スツルムと姬塔の様子を、ターニャとフィーナ、そしてそこに加わったドランクが陰で見守る。スツルムが最初に行う「作戦」は、一緒に観劇をするというものだった。演劇艇で開演を待つふたり。スツルムは姬塔が目を輝かせるのを見て、弟妹達と観劇した時のことを思い出し、頬をわずかに緩めるのだった。,塔妮亚与菲娜，以及临时加入的德朗克暗中观察着斯特姆和姬塔的一举一动。斯特姆最先执行的“作战”，是一起观剧。两人在戏剧艇里等待开演。斯特姆看见姬塔眼中的光，想起来与弟妹们观剧时的样子。神情微微舒缓下来。
+1,ターニャ・フィーナ/ターニャ・菲娜,あ、危なかった……,好、好险……
+2,,<span class='scene-font-katari'>スツルムと姬塔が</span><br><span class='scene-font-katari'>町の探索に出発した直後。</span>,<span class='scene-font-katari'>斯塔姆和姬塔</span><br><span class='scene-font-katari'>一出发去调查小镇。</span>
+3,,<span class='scene-font-katari'>物陰で、フィーナとターニャが</span><br><span class='scene-font-katari'>安堵の息を吐いていた。</span>,<span class='scene-font-katari'>菲娜和塔妮亚就在隐蔽处</span><br><span class='scene-font-katari'>舒了口气。</span>
+4,フィーナ/菲娜,思わずツッコんじゃったよ～<br>スツルムってば、<br>まさか依頼として呼んでるなんて……,一个没忍住就吐槽了～<br>斯特姆真是，<br>居然是以委托的名义叫出来的……
+5,ターニャ,あ、あの、フィーナ……<br>やっぱり、後をつけるなんて、<br>よくないんじゃ……,我说，菲娜……<br>果然尾随这种事，<br>是不是不太好……
+6,フィーナ/菲娜,いい、ターニャ？<br>アタシ達には作戦の成功を<br>見届ける義務があるの！, 听好了，塔妮亚？<br>我们有义务<br>见证作战计划的成功！
+7,フィーナ/菲娜,それに、傭兵稼業は<br>ギブアンドテイクって、<br>スツルムも言ってたでしょ？,而且，斯特姆也说了<br>干佣兵这一行<br>就得互惠互利吧？
+8,フィーナ/菲娜,せっかく協力したんだから、<br>これくらい、ご褒美だって！,难得帮了她忙，<br>这点就当作是赏金！
+9,ターニャ,い、いいのかな……,真、真的好吗……
+11,？？？,いいと思うよ、僕は。<br>スツルム殿の雄姿、<br>みんなで見届けようじゃないの。,我觉得挺好的。<br>大家一起见证斯特姆阁下的英姿，<br>不是挺好的吗？
+12,フィーナ/菲娜,うんうん、そうよね、<br>ドランクもそう──,嗯嗯，就是啊，<br>德朗克也这么——
+13,フィーナ/菲娜,<span class='scene-font-4'>って、ド、ドランク！？</span><br>やばっ、もうバレちゃった！？,<span class='scene-font-4'>哎，德、德朗克！？</span><br>完了，已经露馅了！？
+14,ターニャ,あ、あわわわ……<br>す、すす、すまない！<br>尾行なんて、とんだ失礼を……,啊，啊哇哇哇……<br>对、对对、对不起！<br>我们居然，干尾随这种无礼之事……
+15,ドランク/德朗克,尾行してたのは僕も一緒。<br>たまたま今日は暇だったからね。,要说尾随我也一样。<br>今天偶尔闲下来了。
+16,,<span class='scene-font-katari'>ドランクは、スツルムの様子から</span><br><span class='scene-font-katari'>「何か面白いことがある」と直感し、</span><br><span class='scene-font-katari'>後をつけていたのだと話す。</span>,<span class='scene-font-katari'>德朗克说自己看到斯特姆的样子后</span><br><span class='scene-font-katari'>直觉告诉他“有什么好玩的事要发生”，</span><br><span class='scene-font-katari'>就跟了过来。</span>
+17,ドランク/德朗克,で、スツルム殿は<br>何をしようとしてるわけ？<br>ふたりは知ってるんでしょ？,所以，斯特姆阁下<br>是打算做什么？<br>你们应该知情吧？
+18,,<span class='scene-font-katari'>フィーナとターニャは、</span><br><span class='scene-font-katari'>先日、料理店で相談を受けたことを</span><br><span class='scene-font-katari'>ドランクに話した。</span>,<span class='scene-font-katari'>菲娜与塔妮亚</span><br><span class='scene-font-katari'>把前些日子在料理店的谈话</span><br><span class='scene-font-katari'>告诉了德朗克。</span>
+19,ドランク/德朗克,なるほどなるほど……<br>スツルム殿、<br>相変わらず律義だなぁ～,原来如此原来如此……<br>斯特姆阁下<br>还是那么规规矩矩啊～
+20,ドランク/德朗克,じゃあ、もしかしてこの前、<br>演劇艇について聞かれたのって……,那，难道之前<br>她问我关于戏剧艇的事……
+21,ターニャ,そ、それ……<br>たぶん、作戦の……,那、那个……<br>大概，是作战计划……
+27,フィーナ/菲娜,やっぱり王道なのよ！<br>それが観劇！　誰もが認める娯楽！<br>姬塔も絶対に喜ぶ！,果然是王道啊！<br>这才是观剧！　谁都认同的娱乐项目！<br>姬塔也一定会高兴的！
+28,フィーナ/菲娜,題して……<br>ドラマチック・スツルムちゃん大作戦☆,其名曰……<br>戏剧性·斯特姆大作战☆
+29,スツルム/斯特姆,おい、やめろ。<br>なんだそのふざけた名前は！,喂，别捣乱。<br>这是什么乱七八糟的名字啊！
+30,フィーナ/菲娜,いいじゃないの！<br>こういうのってノリが大事なんだから！,不是挺好的吗！<br>这种东西势头也很重要！
+31,スツルム/斯特姆,<span class='scene-font-kokoro'>（頭が痛くなってきた……）</span>,<span class='scene-font-kokoro'>（我开始头疼了……）</span>,
+32,ターニャ,そういえば、ルリアから聞いたな。<br>最近、話題の公演があるって……,说起来，我从露莉亚那里听说了。<br>最近，有演出成为了议论的焦点……
+33,ターニャ,たしか、サオウという劇作家の、<br>最新の作品だとか……,好像，是叫莎翁的戏剧作家，<br>好像是最新作品……
+34,スツルム/斯特姆,……タイトルは。,……名字是什么。
+35,フィーナ/菲娜,お、なんだかんだ乗り気だね～！<br>ドラマチック・スツルムちゃん大作戦！,噢，开始感兴趣啦～！<br>戏剧性·斯特姆大作战！
+36,スツルム/斯特姆,<span class='scene-font-4'>それはやめろ！</span>,<span class='scene-font-4'>别再说这个了！</span>
+42,スツルム/斯特姆,<span class='scene-font-kokoro'>（はぁ……</span><br><span class='scene-font-kokoro'>まったく、思い出すだけで疲れる……）</span>,<span class='scene-font-kokoro'>（唉……</span><br><span class='scene-font-kokoro'>真是的，想想就疲倦……）</span>
+43,,<span class='scene-font-katari'>スツルムと姬塔は、</span><br><span class='scene-font-katari'>町で興行をおこなっている</span><br><span class='scene-font-katari'>演劇艇を訪れていた。</span>,<span class='scene-font-katari'>斯特姆和姬塔</span><br><span class='scene-font-katari'>来到了正在街上表演宣传的</span><br><span class='scene-font-katari'>某个戏剧艇里。</span>
+44,,<span class='scene-font-katari'>スツルムが事前に</span><br><span class='scene-font-katari'>用意していたチケットで、</span><br><span class='scene-font-katari'>ふたりは特等席へと座る。</span>,<span class='scene-font-katari'>斯特姆拿出提前</span><br><span class='scene-font-katari'>准备好的门票，</span><br><span class='scene-font-katari'>两人坐在了特等席。</span>
+44-sel1_txt,,<span class='scene-font-katari'>これも依頼……？</span>,<span class='scene-font-katari'>这也是委托……？</span>
+45,スツルム/斯特姆,そうだ。姬塔は<br>舞台に集中してくれればいい。,对。姬塔只要<br>认真看剧就行了。
+46,スツルム/斯特姆,そもそも……<br>カモフラージュが目的だからな。,本来……<br>目的就是伪装啊。
+47,スツルム/斯特姆,<span class='scene-font-kokoro'>（少し露骨だったか……？）</span>,<span class='scene-font-kokoro'>（有点太明显了……？）</span>
+48,スツルム/斯特姆,<span class='scene-font-kokoro'>（いや、そもそもバレたところで</span><br><span class='scene-font-kokoro'>問題はない。つい「依頼」という形で</span><br><span class='scene-font-kokoro'>呼びつけてしまったが……）</span>,<span class='scene-font-kokoro'>（不，说到底就算露馅了</span><br><span class='scene-font-kokoro'>也无所谓。只是出于习惯</span><br><span class='scene-font-kokoro'>以“委托”的名义约了出来……）</span>
+49,スツルム/斯特姆,<span class='scene-font-kokoro'>（どのみち、最後には、</span><br><span class='scene-font-kokoro'>本来の用件を伝えないと……）</span>,<span class='scene-font-kokoro'>（反正最后</span><br><span class='scene-font-kokoro'>也得说清楚原本的目的……）</span>
+50,,<span class='scene-font-katari'>やがて客席が暗くなり、</span><br><span class='scene-font-katari'>開演を知らせる鐘の音が鳴った。</span>,<span class='scene-font-katari'>观众席逐渐变暗，</span><br><span class='scene-font-katari'>预示开演的钟声响起。</span>
+51,スツルム/斯特姆,…………,…………
+52,,<span class='scene-font-katari'>姬塔の様子を</span><br><span class='scene-font-katari'>そっと窺うスツルム。</span>,<span class='scene-font-katari'>斯特姆偷偷看了看</span><br><span class='scene-font-katari'>姬塔的样子。</span>
+53,スツルム/斯特姆,<span class='scene-font-kokoro'>（ふん、目を輝かせて……</span><br><span class='scene-font-kokoro'>こうして見るとまだまだ子供だな）</span>,<span class='scene-font-kokoro'>（哼，眼里发光……</span><br><span class='scene-font-kokoro'>这么看来还只是个孩子啊）</span>
+61,三男,わっ！　急に暗くなった！<br>ど、どうしたんだろ？,哇！　突然变暗了！<br>怎、怎么回事？
+62,幼いスツルム/幼年斯特姆,大丈夫。もうすぐ始まるんだ。,别怕。马上要开始了。
+63,次女,ふふ……<br>楽しみだね、お姉ちゃん！,嘿嘿……<br>好期待啊，姐姐！
+69,スツルム/斯特姆,<span class='scene-font-kokoro'>（そっくりだ……</span><br><span class='scene-font-kokoro'>あの時の弟妹達と……）</span>,<span class='scene-font-kokoro'>（简直……</span><br><span class='scene-font-kokoro'>和那时的弟妹们一模一样……）</span>
+70,,<span class='scene-font-katari'>スツルムは頬をわずかに緩めると、</span><br><span class='scene-font-katari'>舞台に視線を戻すのだった。</span>,<span class='scene-font-katari'>斯特姆的神情微微舒缓，</span><br><span class='scene-font-katari'>视线回到了舞台上。</span>
+info,,,scene_chr605_q2_s10
+译者,,,SETSU_XY

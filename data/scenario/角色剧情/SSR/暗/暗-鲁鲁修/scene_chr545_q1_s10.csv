@@ -1,0 +1,95 @@
+id,name,text,trans
+0-chapter_name,,ルルーシュ イン ザ スカイ,Lelouch in the Sky
+0-synopsis,,ある日、ルルーシュ達の乗るナイトメアフレームの充電代金として、姬塔達に100万ルピが請求されていると知ったルルーシュ達。姬塔達に迷惑をかけないよう金を稼ぐ方法はないかと悩む中、C.C.が街おこしグルメイベントの情報を持ってくる。出店して優勝すれば100万ルピというこのイベントに、ルルーシュ達はピザ屋を出店することに決めるのだった。,某日，鲁鲁修等人得知，为了支付他们乘坐的KMF的充电费用，姬塔等人收到了100万卢比的账单。为了不给姬塔等人添麻烦，鲁鲁修一行人正为赚钱的方法犯愁时，C.C.带回了为了振兴街区而筹办的美食节的情报。在这个开店优胜便能获得100万卢比的活动中，鲁鲁修等人决定开披萨店。
+1,ビィ/碧,んなっ！？<br>見ろよこの請求書の金額……！,嗯什么！？<br>快看这账单上的金额……！
+2,ルリア/露莉亚,ええっと……<br>ナイトメアフレームの<br>充電代金……,诶诶……<br>KMF的<br>充电费用……
+3,,<span class='scene-font-katari'>その日、姬塔達は</span><br><span class='scene-font-katari'>支払期日の迫った</span><br><span class='scene-font-katari'>請求書に目を通していた。</span>,<span class='scene-font-katari'>那一天，姬塔等人</span><br><span class='scene-font-katari'>看着即将到</span><br><span class='scene-font-katari'>支付期限的账单。</span>
+4,ルリア/露莉亚,いち、じゅう、ひゃく、せん……<br>まん……,个、十、百、千……<br>万……
+5,ルリア/露莉亚,ひゃ……ひゃ……<br><span class='scene-font-4'>ひゃくまんるぴぃぃぃ！？</span>,一……一……<br><span class='scene-font-4'>一百万卢比！？</span>
+6,ビィ/碧,あのデッケェ機械の維持費って<br>こんなにかかるのかよ！,那超大机械的维护费用<br>要花费这么多吗！
+7,ルリア/露莉亚,す、すごく高いんですね……,真、真的很贵呢……
+8,ビィ/碧,う～ん……<br>ルルーシュ達に余計な心配を<br>かける訳にもいかねぇしな。,嗯……<br>但也不能让鲁鲁修他们<br>太过担心啊。
+9,ビィ/碧,こうなったら<br>今まで以上に単価の高い仕事を<br>増やすしかねぇかなぁ？,既然如此<br>就只能多接些<br>比现在的单价更高的工作了？
+9-sel1_txt,,<span class='scene-font-katari'>…………</span>,<span class='scene-font-katari'>…………</span>
+10,,<span class='scene-font-katari'>ルルーシュ達に、余計な心配を</span><br><span class='scene-font-katari'>かけないようにと、こっそりと</span><br><span class='scene-font-katari'>話し合う姬塔達であった。</span>,<span class='scene-font-katari'>姬塔等人为了不让</span><br><span class='scene-font-katari'>鲁鲁修等人太过担心</span><br><span class='scene-font-katari'>偷偷交谈着。</span>
+14,ナナリー/娜娜莉,<span class='scene-font-kokoro'>（お兄様たちのナイトメアフレームの</span><br><span class='scene-font-kokoro'>維持にそんなにお金が</span><br><span class='scene-font-kokoro'>かかっているなんて……）</span>,<span class='scene-font-kokoro'>（哥哥他们的KMF维护</span><br><span class='scene-font-kokoro'>竟然要花费</span><br><span class='scene-font-kokoro'>那么多钱……）</span>
+15,ナナリー/娜娜莉,<span class='scene-font-kokoro'>（どうにかしないと……！）</span>,<span class='scene-font-kokoro'>（一定的做点什么……！）</span>
+16,,<span class='scene-font-katari'>偶然、姬塔達の</span><br><span class='scene-font-katari'>懐事情についての会話を</span><br><span class='scene-font-katari'>聞いてしまったナナリー</span>,<span class='scene-font-katari'>偶然间听到了</span><br><span class='scene-font-katari'>姬塔等人谈论资金问题的</span><br><span class='scene-font-katari'>娜娜莉。</span>
+17,,<span class='scene-font-katari'>責任を感じたナナリーは、</span><br><span class='scene-font-katari'>ルルーシュ達に集まってもらい</span><br><span class='scene-font-katari'>その内容を打ち明ける。</span>,<span class='scene-font-katari'>深感责任的娜娜莉</span><br><span class='scene-font-katari'>让鲁鲁修等人聚集起来</span><br><span class='scene-font-katari'>言明了此事。</span>
+23,ナナリー/娜娜莉,姬塔さん達に金銭面で<br>ご迷惑を……,我们在金钱方面<br>给姬塔她们添麻烦了……
+24,ナナリー/娜娜莉,なんとかして姬塔さん達の<br>負担を無くしたいのです。,我想做些什么<br>减轻姬塔她们的负担。
+25,ナナリー/娜娜莉,ですが、<br>私には良い考えが無くて……,但是，<br>我没什么好主意……
+26,ルルーシュ/鲁鲁修,ありがとう、ナナリー<br>教えてくれて。,谢谢你，娜娜莉<br>将这事告诉我。
+27,スザク/朱雀,確かに経費に関しては、<br>姬塔に任せっきり<br>だったから……,的确我们将经费方面的事<br>都交给姬塔<br>处理了……
+28,スザク/朱雀,僕たちのナイトメアの運用で<br>こんなに迷惑をかけていたなんてね。,我们使用KMF<br>竟然给她们添了这么多麻烦。
+29,ルルーシュ/鲁鲁修,そうだな。姬塔達に<br>迷惑がかからないよう、<br>俺達だけで解決するのが道理だ。,没错。由我们自己解决，<br>不给姬塔她们添麻烦，<br>才是理所应当的。
+30,カレン/卡莲,今まで姬塔達には<br>甘えっぱなしだったから、この機会に<br>大きく借りを返しちゃおう！,一直以来我们都<br>太依靠姬塔他们了，趁此机会<br>我们要还了这个人情！
+31,ジェレミア/杰雷米亚,うむ。賛成だ。<br>して、その具体策だが……,嗯，我赞成。<br>所以，具体的方案是……
+32,スザク/朱雀,しばらくナイトメアの使用を<br>控えるというのはどうだろう？,暂时不要使用KMF<br>怎么样？
+33,ルルーシュ/鲁鲁修,根本的な解決策にはならないな。<br>支払期日が迫っているんだ、<br>当座の金を用意しないと。,这并不能解决根本问题。<br>支付期限要到了。<br>我们必须立即准备好钱。
+34,カレン/卡莲,それにもうナイトメアを使う<br>予定の任務が入ってるし。,而且我们已经接了<br>要使用KMF的任务。
+35,カレン/卡莲,頑張って依頼をこなしても<br>また稼働費がかかるんなら<br>意味無いもんなぁ。,就算努力完成工作，<br>还是会花费运转费用的话<br>不就没有意义了吗。
+36,ナナリー/娜娜莉,何か依頼以外に……<br>私でもお金を稼げる方法があれば……,有什么接任务以外的……<br>就算是我也能赚钱的方法……
+37,ジェレミア/杰雷米亚,ナナリー様……！,娜娜莉大人……！
+38,ルルーシュ/鲁鲁修,ナナリー……,娜娜莉……
+39,ルルーシュ/鲁鲁修,確かに依頼以外の方法で稼ぐ、<br>というのは良いアイデアだと思う。,的确通过接任务以外的方法赚钱，<br>是个好主意。
+40,スザク,でも、そんな100万ルピも<br>稼げる方法なんて簡単には……,但是要赚100卢比的方法<br>并不是那么容易……
+41,ルルーシュ/鲁鲁修,無くはない。,但并不是没有。
+42,カレン/卡莲,何？　その言い方。<br>はっきりしないんだけど。,什么？　你这是什么意思。<br>我听得不是很明白。
+43,ルルーシュ/鲁鲁修,依頼以外で金を稼ぐ方法は無くはない。<br>ただ……,不是没有通过接任务以外赚钱的方法。<br>只是……
+44,,<span class='scene-font-katari'>その時、ルルーシュ達の前を</span><br><span class='scene-font-katari'>ふらりと人影が横切った。</span>,<span class='scene-font-katari'>その時、在鲁鲁修等人的面前</span><br><span class='scene-font-katari'>这时突然闪出一个人影</span>
+45,C.C.,おお、お前たち、<br>こんなところに揃っていたのか。,哦哦，你们这群人<br>聚在这种地方啊。
+46,ルルーシュ/鲁鲁修,C.C.<br>お前、今までどこにいたんだ？,C.C.<br>你刚才到哪里去了？
+47,C.C.,街をぶらぶらしていただけだ。<br>そんなことより、これを見ろ。,在街上转悠。<br>比起这个，你看。
+48,ルルーシュ/鲁鲁修,後にしろ。<br>今深刻な話をしているんだ。,等会儿再说。<br>我们现在正在讨论严峻的问题。
+49,C.C.,深刻だと？<br>何があった？,严峻的问题？<br>出了什么事？
+50,,<span class='scene-font-katari'>怪訝そうな表情を浮かべるC.C.に、</span><br><span class='scene-font-katari'>経緯を説明するルルーシュ達。</span>,<span class='scene-font-katari'>鲁鲁修向面露讶异的C.C.</span><br><span class='scene-font-katari'>解释了事情的缘由。</span>
+51,C.C.,なるほど……<br>それでナナリーまで<br>暗い顔をしていたのか。,原来如此……<br>所以就连娜娜莉都<br>一脸阴沉吗。
+52,ナナリー/娜娜莉,はい……<br>でも、私に出来ることなんて……,是的……<br>但有什么事是我能做到的吗……
+53,C.C.,心配するな。<br>丁度いいことに私が吉報を<br>持って来てやった。,别担心。<br>正好我给你们<br>带来了好消息。
+54,C.C.,これを見ろ。,看这个。
+55,,<span class='scene-font-katari'>吉報と言うC.C.が</span><br><span class='scene-font-katari'>皆の前に差し出した紙片には、</span><br><span class='scene-font-katari'>以下の文字が躍っていた。</span>,<span class='scene-font-katari'>说着有好消息的C.C.</span><br><span class='scene-font-katari'>把一张纸片举在众人眼前，</span><br><span class='scene-font-katari'>以下的文字跃然纸上。</span>
+56,,<span class='scene-font-bold scene-font-blue'>『街おこしグルメイベント開催！</span><br><span class='scene-font-bold scene-font-blue'>出店者絶賛募集中！</span><br><span class='scene-font-bold scene-font-blue'>優勝者には賞金100万ルピ進呈！』</span>,<span class='scene-font-bold scene-font-blue'>『振兴街区美食节开办！</span><br><span class='scene-font-bold scene-font-blue'>大力募集开店者！</span><br><span class='scene-font-bold scene-font-blue'>优胜者将获得100万卢比的奖励！』</span>
+57,カレン/卡莲,グルメイベントに出店……,在美食节开店……
+58,スザク/朱雀,優勝賞金100万ルピ……！,优胜奖金100万卢比……！
+59,スザク・カレン/朱雀・卡莲,<span class='scene-font-4'>これだ！</span>,<span class='scene-font-4'>就是这个！</span>
+60,ナナリー/娜娜莉,それってグルメイベントに出店して<br>優勝すれば100万ルピが<br>いただけるということですか？,就是说在美食节开店<br>优胜的话就能得到<br>100万卢比的奖金吗？
+61,ジェレミア/杰雷米亚,その通りです。<br>ナナリー様。,没错。<br>娜娜莉大人。
+62,ルルーシュ/鲁鲁修,ま、待て、お前達！<br>あくまで優勝したら、の話だ。,等、等等，你们！<br>这是得优胜了才行吧。
+63,ルルーシュ/鲁鲁修,そもそも何の店を<br>出店するというんだ！？,说到底<br>你们打算开什么店！？
+64,C.C.,決まっているだろう、ルルーシュ。,这不是早就决定了吗，鲁路修。
+65,C.C.,ピザだ。<br>ピザ屋を出店する。,当然是披萨啦。<br>开披萨店。
+66,ルルーシュ/鲁鲁修,お前がピザを食べたいだけだろう！,你只是想吃披萨吧！
+67,スザク/朱雀,いや……C.C.の提案<br>いいんじゃないか。,不……C.C.的提案<br>不错啊。
+68,スザク/朱雀,幸いこちらの世界にピザは<br>普及していないみたいだし……,所幸这个世界<br>披萨尚未普及……
+69,スザク/朱雀,上手く行けば<br>優勝の可能性は十分にある。,顺利的话<br>优胜的可能性不小。
+70,カレン/卡莲,確かに！　似た食べ物はあっても、<br>私たちの世界のピザほど<br>美味しくないもんね。,没错！　就算有类似的食物，<br>也没有我们世界的披萨<br>好吃呢。
+71,C.C.,そうだろう？<br>そこに美少女ふたりが<br>売り子をすれば優勝は間違いない。,没错吧？<br>让那里的两个美少女<br>当看板娘的话一定能优胜的。
+72,カレン/卡莲,ふたり？<br>ナナリーと私と……アンタは？,两个？<br>娜娜莉和我……那你呢？
+73,C.C.,ああ、私は当然味見係だ。,啊啊，我当然是负责试吃的。
+74,カレン/卡莲,そこはアンタも協力しなさいよ！,你也给我出份力啊！
+75,ルルーシュ/鲁鲁修,……ふむ。<br>悪くない話だが、<br>確実性がないのも事実……,……哼。<br>听起来还不错，<br>但有不确定性也是事实……
+76,C.C.,難しく考えるな、<br>ルルーシュ。,不要想得太复杂<br>鲁路修。
+77,C.C.,それに、賭けチェスなんかで<br>手に入れた金だと<br>ナナリーは納得できないと思うぞ。,而且，靠赌棋<br>赢来的钱，<br>你觉得娜娜莉能接受吗。
+78,ルルーシュ/鲁鲁修,……！<br>お前、どうしてそれを……,……！<br>你为什么会知道……
+79,C.C.,お前の考えぐらい読めるさ。,我可以读出你在想什么。
+80,ルルーシュ/鲁鲁修,<span class='scene-font-kokoro'>（火遊び好きの貴族相手に</span><br><span class='scene-font-kokoro'>賭けチェスでもすれば、</span><br><span class='scene-font-kokoro'>確実に大金を稼げるだろう……）</span>,<span class='scene-font-kokoro'>（把喜欢玩火的贵族</span><br><span class='scene-font-kokoro'>作为对手赌棋的话，</span><br><span class='scene-font-kokoro'>可以确确实实地赚到一大笔钱……）</span>
+81,ルルーシュ/鲁鲁修,<span class='scene-font-kokoro'>（しかし、姬塔達に迷惑を</span><br><span class='scene-font-kokoro'>かけないようにというナナリーの</span><br><span class='scene-font-kokoro'>想いを無下にすることになる）</span>,<span class='scene-font-kokoro'>（但是这样就会糟蹋</span><br><span class='scene-font-kokoro'>不想给姬塔她们添麻烦的</span><br><span class='scene-font-kokoro'>娜娜莉的心意）</span>
+82,,<span class='scene-font-katari'>考え込むルルーシュの手を</span><br><span class='scene-font-katari'>ナナリーがそっと握る。</span>,<span class='scene-font-katari'>娜娜莉握紧了</span><br><span class='scene-font-katari'>思考至深的鲁鲁修的手。</span>
+83,ナナリー/娜娜莉,お兄様、どうなさったのですか？<br>やはり、私たちには<br>無理なのでしょうか……,哥哥，你怎么了？<br>果然我们<br>还是不行吗……
+84,ルルーシュ/鲁鲁修,そんなことないよ、ナナリー<br>俺達全員が力を合わせれば<br>きっと優勝できる。,并没有这回事哟，娜娜莉<br>只要我们全员齐心协力<br>一定能优胜的。
+85,ルルーシュ/鲁鲁修,ナナリーも手伝ってくれるだろう？,娜娜莉你也会帮忙的吧？
+86,ナナリー/娜娜莉,はい！<br>私もピザ屋さん、頑張ってみたいです！,是的！<br>我也会努力开披萨店的！
+87,ルルーシュ/鲁鲁修,よし、決まりだ。<br>優勝して姬塔達を<br>驚かせよう。,好，那就这样决定了。<br>赢得比赛<br>给姬塔她们一个惊喜。
+88,ナナリー/娜娜莉,はい。<br>頑張ります！,好。<br>我会努力的！
+89,ジェレミア/杰雷米亚,そうと決まれば、<br>まずは窯の準備でしょうか。,既然决定了，<br>首先要准备窑吧。
+90,スザク/朱雀,なら、食材も揃えないと。,还得准备好食材。
+91,カレン/卡莲,店名とかメニューも考えないとね！,还得考虑店名和菜单！
+92,C.C.,宅配ピザのメニューを全制覇した<br>私の舌を発揮する時が来たようだな。,我已经吃遍了外卖披萨菜单上所有的披萨，<br>看来是发挥我舌头的时候了。
+93,ルルーシュ/鲁鲁修,いいか、みんな！<br>やるからには優勝以外は無い……,听好了，大家！<br>既然要做就要优胜……
+94,ルルーシュ/鲁鲁修,俺達で全空一のピザ屋を出すぞ！,让我们开出全空第一的披萨店！
+95,5人,<span class='scene-font-4'>おーっ！</span>,<span class='scene-font-4'>喔！</span>
+96,,<span class='scene-font-katari'>こうしてルルーシュ達は、</span><br><span class='scene-font-katari'>優勝賞金の100万ルピ目当てで</span><br><span class='scene-font-katari'>グルメイベントへの参加を決意する。</span>,<span class='scene-font-katari'>就这样鲁鲁修等人</span><br><span class='scene-font-katari'>冲着100万卢比的赏金</span><br><span class='scene-font-katari'>决定参加美食节。</span>
+97,,<span class='scene-font-katari'>果たして一行は、無事に優勝を</span><br><span class='scene-font-katari'>掴みとることができるのか……？</span>,<span class='scene-font-katari'>究竟一行人可以</span><br><span class='scene-font-katari'>取得优胜吗……？</span>
+info,,,scene_chr545_q1_s10
+译者,,,

@@ -1,0 +1,54 @@
+﻿id,name,text,trans
+0-chapter_name,,建国式典,建国庆典
+0-synopsis,,ファフニールの石像は破壊され、式典はその場で中止となった。後の調査で、騒動の原因は真龍ファフニールの怨念の残滓であることが判明する。その後、アーサーからどちらが強いのかと尋ねられたヴェインとランスロット。「実際に戦ってみないとわからない」とヴェインの実力を認めるランスロットの言葉を受け、ヴェインは自身を少し誇らしく思うのだった。,法夫纳的石像被毁，仪式被迫取消。在后续的调查中，发现骚动的原因是真龙法夫纳残留的怨念。后来，亚瑟询问兰斯洛特和维恩到底谁更强。兰斯洛特对维恩的实力做出了充分的肯定，维恩有点为自己觉得骄傲。
+6,ランスロット/兰斯洛特,<span class='scene-font-4'>遅いっ！</span>,<span class='scene-font-4'>太慢了！</span>
+16,ファフニールの石像,グガァァァ……,————
+17,,<span class='scene-font-katari'>ランスロットの目にもとまらぬ連撃で</span><br><span class='scene-font-katari'>ファフニールの石像の関節部に</span><br><span class='scene-font-katari'>大きくヒビが入る。</span>,<span class='scene-font-katari'>在兰斯洛特令人眼花缭乱的连击下，</span><br><span class='scene-font-katari'>法夫纳石像的关节处出现了巨大的裂痕。</span>
+18,ランスロット/兰斯洛特,今だヴェイン！<br>思い切りやれ！,就是现在！维恩！用尽全力！
+19,ヴェイン/维恩,<span class='scene-font-4'>任せろランスロット！</span>,<span class='scene-font-4'>交给我吧兰斯洛特！</span>
+20,ヴェイン/维恩,<span class='scene-font-4'>うおぉぉぉぉぉぉっ！</span>,<span class='scene-font-4'>呼啊啊啊啊啊啊啊！</span>
+21,ヴェイン/维恩,<span class='scene-font-4'>ぶっ飛ばぁぁぁぁす！</span>,<span class='scene-font-4'>把你打飞！</span>
+29,ファフニールの石像,……ォォ、ォ…………,————
+32,,<span class='scene-font-katari'>ヴェインの渾身の一撃によって</span><br><span class='scene-font-katari'>ファフニールの石像は</span><br><span class='scene-font-katari'>粉々に砕け散るのだった。</span>,<span class='scene-font-katari'>在维恩强力的一击下，</span><br><span class='scene-font-katari'>法夫纳的雕像碎裂成片散落四周。</span>
+33,ヴェイン/维恩,はぁ……はぁ……<br>やったか？,哈啊……哈啊……干掉了吗？
+34,ランスロット/兰斯洛特,ああ……もう動かない。<br>どうやら倒したようだな。,啊……已经不动了，看样子已经被你打倒了。
+35,,<span class='scene-font-katari'>ランスロットとヴェインが</span><br><span class='scene-font-katari'>ファフニールの石像と戦っている間に、</span><br><span class='scene-font-katari'>観客達は無事に避難を終えていた。</span>,<span class='scene-font-katari'>在兰斯洛特和维恩与石像战斗的时候，</span><br><span class='scene-font-katari'>观众们都已经平安地撤离到了安全的地方。</span>
+36,,<span class='scene-font-katari'>改めて、ランスロットとヴェインの</span><br><span class='scene-font-katari'>大活躍に大歓声を送る観客達であった。</span>,<span class='scene-font-katari'>看到兰斯洛特和维恩的成功，</span><br><span class='scene-font-katari'>观众为他们献上欢呼和掌声。</span>
+37,ランスロット/兰斯洛特,やれやれ……<br>ひとまず皆が無事でよかった。,哎呀，大家都没事真是太好了。
+38,ヴェイン/维恩,ふぃ～、とりあえず今日のところは<br>もう式典を中止にした方がいいよな？,唔……总之今天的庆典还是先中止一下比较好吧？
+40,ランスロット/兰斯洛特,賢明な判断だ。<br>手分けして撤収作業に入るぞ。,这是明智的决定，我们分头处理一下现场吧。
+41,,<span class='scene-font-katari'>結局、ランスロットとヴェインの試合は</span><br><span class='scene-font-katari'>決着がつかないまま、式典は終わりを</span><br><span class='scene-font-katari'>迎えるのだった。</span>,<span class='scene-font-katari'>结果，兰斯洛特和维恩的对决，</span><br><span class='scene-font-katari'>因为庆典的中途停止而取消了。</span>
+46,,<span class='scene-font-katari'>その後、石像が暴れた原因について</span><br><span class='scene-font-katari'>改めて調査を試みるランスロットと</span><br><span class='scene-font-katari'>ヴェイン。</span>,<span class='scene-font-katari'>在那之后，</span><br><span class='scene-font-katari'>维恩与兰斯洛特调查了石像暴走的原因。</span>
+47,,<span class='scene-font-katari'>文献や識者によると、</span><br><span class='scene-font-katari'>真龍ファフニールの怨念の残滓の</span><br><span class='scene-font-katari'>仕業だということが判明する。</span>,<span class='scene-font-katari'>根据文献和学者的说法，</span><br><span class='scene-font-katari'>应该是真龙法夫纳怨念的残留导致石像发生暴动。</span>
+48,,<span class='scene-font-katari'>その怨念が戦没者などの無念を食らって</span><br><span class='scene-font-katari'>成長し、それが大衆の感情によって</span><br><span class='scene-font-katari'>刺激され顕現して石像に憑依したのだ。</span>,<span class='scene-font-katari'>这种怨念以战死者的遗憾为饵食成长起来，</span><br><span class='scene-font-katari'>又因为大量人类的情绪刺激而表现出来，</span><br><span class='scene-font-katari'>最终附身在了石像上。</span>
+53,,<span class='scene-font-katari'>調査の報告結果について</span><br><span class='scene-font-katari'>練兵場で話し合う</span><br><span class='scene-font-katari'>ランスロットとヴェイン。</span>,<span class='scene-font-katari'>兰斯洛特和维恩在练兵场讨论调查结果。</span>
+54,ランスロット/兰斯洛特,どうやら他の真龍でも、<br>怨念の力によって同じような<br>被害が出ていることが分かった。,好像其他的真龙也因为怨念的力量而造成过危害。
+55,ランスロット/兰斯洛特,やはり真龍の力には、<br>まだまだ底知れないものがあるな。,果然真龙的力量是深不可测的。
+56,ヴェイン/维恩,とにかく、国の中に<br>怨念が好む負の感情とかを<br>溜めないことが重要なのかな？,总之，重要的是不要在国内积累会被怨念吸收的负面感情吧？
+57,ランスロット/兰斯洛特,恐らくだが、<br>そういうことになるな。,虽然说不准，但应该就是这样。
+58,,<span class='scene-font-katari'>休憩中の見習い騎士団員達は、</span><br><span class='scene-font-katari'>ランスロットとヴェインが</span><br><span class='scene-font-katari'>並んで話す姿を見て感心している。</span>,<span class='scene-font-katari'>正在休息中的见习骑士团员们，</span><br><span class='scene-font-katari'>敬佩地看着兰斯洛特和维恩并排讨论的情景。</span>
+59,アーサー/亚瑟,やっぱりランスロット団長と<br>ヴェイン副団長が並ぶと<br>カッコいいよな～！,果然兰斯洛特团长和维恩副团长在一起作战太酷了！
+60,モルドレッド/莫德雷德,悔しいけど、あのふたりが<br>揃ったら怖いもんなしだもんな。,虽然很不甘心，但是那两个人在一起的话就没什么好怕的了。
+61,,<span class='scene-font-katari'>その時、ランスロットとヴェインが</span><br><span class='scene-font-katari'>見習い騎士達の元へ近づいて来る。</span>,<span class='scene-font-katari'>这时，兰斯洛特和维恩走到见习骑士面前。</span>
+62,ランスロット/兰斯洛特,よし、<br>そろそろ休憩も終わりにして<br>鍛錬に戻るとするか。,好了，差不多是时候结束休息，继续训练了。
+63,ヴェイン/维恩,うし！<br>あともう一息頑張ろうぜ！,好的！让我们继续努力吧！
+64,,<span class='scene-font-katari'>アーサーは、ずっと気になっていた</span><br><span class='scene-font-katari'>質問を我慢できない様子で、</span><br><span class='scene-font-katari'>ふたりに投げかけるのだった。</span>,<span class='scene-font-katari'>亚瑟有点急切地问了一个一直都想问的问题。</span>
+65,アーサー/亚瑟,ランスロット団長とヴェイン副団長って<br>結局どっちが強いんですか？,兰斯洛特团长和维恩副团长，到底谁更厉害呢？
+66,ヴェイン/维恩,わはははっ！　<br>そんなの団長に決まってるだろ～？,哈哈哈！那肯定当然是团长了？
+67,,<span class='scene-font-katari'>豪快に笑い飛ばすヴェインの隣で</span><br><span class='scene-font-katari'>小首を傾げるランスロット。</span>,<span class='scene-font-katari'>在豪爽地笑着的维恩身边，</span><br><span class='scene-font-katari'>兰斯洛特稍微歪了歪头。</span>
+68,ランスロット/兰斯洛特,いや……分からないな。,不……不好说啊。
+69,ランスロット/兰斯洛特,うん、ヴェインと本気で<br>戦ったことが無いから分からないぞ。,因为我从来没有和维恩认真对决过，所以没有办法弄清。
+70,ヴェイン/维恩,え……？,诶……？
+71,ランスロット/兰斯洛特,何より最近のヴェインは<br>目を見張るほど強くなってるし、<br>正直勝負してみないと分からないな。,而且最重要的是，维恩最近已经变得非常强大了，说真的，如果不是真正的进行一次对决的话是不会知道的。
+72,ランスロット/兰斯洛特,……まぁでも、<br>ヴェインと本気で戦う場面が<br>想像できないけどな。,……不过，我还是无法想象和维恩认真战斗的样子。
+73,,<span class='scene-font-katari'>真顔で語るランスロットに</span><br><span class='scene-font-katari'>驚きを隠せない様子のヴェイン。</span>,<span class='scene-font-katari'>看到兰斯洛特这么一本正经地说着，维恩十分惊讶。</span>
+74,ヴェイン/维恩,は、はははっ、それもそうだな～！,啊，哈哈哈，说的也是啊~！
+75,ヴェイン/维恩,でも俺が、<br>ランちゃんにそんな風に<br>思われてたなんて意外だったな～,但是，兰酱居然是这么看待我的，真是意外呢。
+76,ランスロット/兰斯洛特,おいヴェイン、<br>お前はもっと自信を持てって。,嘿，维恩，你应该对自己更有自信一点。
+77,ヴェイン/维恩,ああ、そうだったな！<br>ありがと、ランちゃん！,是的，你说得对！谢谢你，兰酱！
+78,ランスロット/兰斯洛特,ふっ……<br>では鍛錬を再開するぞ！,呼……那么，重新开始训练吧！
+79,４人,はい！,是！
+80,ヴェイン/维恩,<span class='scene-font-kokoro'>（ふふ……</span><br><span class='scene-font-kokoro'>今日も一日頑張るぞ！）</span>,<span class='scene-font-kokoro'>（嘿嘿，今天一天也要加油咯！）</span>
+81,,<span class='scene-font-katari'>ランスロットから成長を認められた様に</span><br><span class='scene-font-katari'>感じられたヴェインは、自分のことを</span><br><span class='scene-font-katari'>少し誇らしく思うのだった。</span>,<span class='scene-font-katari'>看到兰斯洛特认可了他的成长，</span><br><span class='scene-font-katari'>维恩有那么一点为自己感到骄傲。</span>
+85,,<span class='scene-font-katari'>ふたりの幼馴染の根本は変わらないが、</span><br><span class='scene-font-katari'>団長と副団長という関係を経て</span><br><span class='scene-font-katari'>少しずつ成長していくのであった。</span>,<span class='scene-font-katari'>两人的青梅竹马从未改变，</span><br><span class='scene-font-katari'>他们的袍泽之谊正在怒放。</span>
+info,,,scene_chr502_q3_s30

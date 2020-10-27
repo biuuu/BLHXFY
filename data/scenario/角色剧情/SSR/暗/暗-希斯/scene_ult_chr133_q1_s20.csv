@@ -1,0 +1,44 @@
+id,name,text,trans
+0-chapter_name,,血だまりに降る光,光辉照耀血水
+0-synopsis,,姬塔は、シスとの手合せに勝利する。姬塔は、自らを化け物だというシスに勝った自分は、もっと化け物だと語る。そんな姬塔の言葉を慌てて否定するシス。姬塔達は、それならシスも化け物ではない、悲しいことを言わないでほしいと真意を伝える。安堵しかけたシスの耳奥で、突如として謎の声が響き、シスは身を強張らせる。しかし、その冷たい気配はすぐに消え去ってしまうのだった。,姬塔在与希斯的比试中胜出了。姬塔说，赢了自称怪物的希斯的自己，更加该被叫做怪物。希斯慌张地否定了姬塔的话。姬塔一行向希斯传达了真心，既然这么说，那他也不是怪物，希望他不要再说那么令人悲伤的话了。安心下来的希斯的耳边，突然响起了迷之声音，使他浑身僵硬。但是，那种冰冷的感觉很快就消失了。
+0,ルリア/露莉亚,わぁ！<br>姬塔の勝ちですね！,哇啊！<br>是姬塔的胜利！
+1,ビィ/碧,やったな姬塔！,做得好啊姬塔！
+2,,<span class='scene-font-katari'>姬塔は、</span><br><span class='scene-font-katari'>まだ少し荒い息を弾ませながら</span><br><span class='scene-font-katari'>真っ直ぐにシスを見た。</span>,<span class='scene-font-katari'>姬塔还有些凌乱地喘着气，直直地看着希斯。</span>
+3,ビィ/碧,ん？<br>姬塔？,嗯？<br>姬塔？
+4,,<span class='scene-font-katari'>姬塔は、</span><br><span class='scene-font-katari'>「これで、自分はもっと化け物だ」</span><br><span class='scene-font-katari'>と言う。</span>,<span class='scene-font-katari'>姬塔说道，</span><br><span class='scene-font-katari'>「这样的话，我就更加该被说是怪物了。」</span>
+5,シス/希斯,っ！？<br>何を言っている！？,！？<br>你在说什么！？
+6,ルリア/露莉亚,……そうですね。,……说的也是啊。
+7,ビィ/碧,ああ。兄ちゃんが化け物なら、<br>それに勝った姬塔も<br>化け物ってことになるな。,是啊。如果小哥你是怪物的话，<br>赢了你的姬塔就也是怪物了呢。
+8,シス/希斯,やめろ！　そんなわけはない！<br>姬塔は<br>化け物なんかじゃない！,别说了！　才不是那样的！<br>姬塔才不会是什么怪物！
+9,ルリア/露莉亚,それじゃあシスさんも<br>化け物じゃないですよ。,那么希斯也不是什么怪物哦。
+10,シス/希斯,それは……,那是……
+11,,<span class='scene-font-katari'>まっすぐにぶつけられる</span><br><span class='scene-font-katari'>真摯な声と視線に、</span><br><span class='scene-font-katari'>シスは返す言葉を失った。</span>,<span class='scene-font-katari'>在一行人的直率地投过来的真挚的话语和眼神下，希斯说不出反驳的话语。</span>
+15,シス/希斯,お前達は一体、<br>何が言いたいんだ……？,你们到底，想说什么……？
+16,ビィ/碧,あのな、兄ちゃん……,那个啊，小哥……
+17,ビィ/碧,兄ちゃんはすげぇ強いけど、<br>それを悪く思ったことなんて<br>オイラ達は一度もねぇぞ。,虽然小哥你超强的，<br>但是我们可从来都没有觉得这是不好的呦。
+18,ルリア/露莉亚,当たり前です。私達、シスさんの<br>強さにいつも助けられてて、<br>とっても嬉しくて頼もしいです。,那是当然的。<br>我们总是被希斯的强大所帮助，<br>所以觉得很开心也很可靠呢。
+19,ルリア/露莉亚,だから、悲しいこと<br>言わないでください……,所以，请不要再说那么令人悲伤的话了……
+20,シス/希斯,……そうか。,……是这样啊。
+21,,<span class='scene-font-katari'>緩く息を吐き出したシスは</span><br><span class='scene-font-katari'>ルリア達の言葉を噛みしめるように</span><br><span class='scene-font-katari'>目を伏せようとした。</span>,<span class='scene-font-katari'>希斯缓缓地呼出一口气，像是要仔细品味露莉亚一行的话语一样闭上了眼睛。</span>
+22,,<span class='scene-font-katari'>しかしその時――</span>,<span class='scene-font-katari'>但是就在那时――</span>
+24,？？？,<span class='scene-font-gray'>わす――な、</span><br><span class='scene-font-gray'>そのち――が、も――……を……</span>,<span class='scene-font-gray'>不要――忘记，</span><br><span class='scene-font-gray'>那个力量――，已――…………</span>
+25,シス/希斯,っ！？<br>何……,！？<br>什么……
+26,,<span class='scene-font-katari'>突如として背筋を舐めた冷たい気配と</span><br><span class='scene-font-katari'>耳の奥に直接響く様な謎の声に</span><br><span class='scene-font-katari'>シスは全身に緊張を漲らせる。</span>,<span class='scene-font-katari'>因为突如其来的像是舔舐着后背一样的冰冷的气息，和在耳朵深处直接响起的谜之声，希斯全身都紧绷起来了。</span>
+28,？？？,<span class='scene-font-gray'>お前の――は、</span><br><span class='scene-font-gray'>また、は――……ろう――</span>,<span class='scene-font-gray'>你的――，</span><br><span class='scene-font-gray'>又会，――……吧――</span>
+29,シス/希斯,な、んだ……！？,什、么……！？
+30,ビィ/碧,おーい、兄ちゃん？<br>どうかしたのか？,喂，小哥？<br>你怎么了吗？
+31,シス/希斯,っ、は……！,哈……！
+32,,<span class='scene-font-katari'>言い様のない気配が消え、</span><br><span class='scene-font-katari'>ビィの声がシスの身体を揺らす。</span>,<span class='scene-font-katari'>难以言喻的气息消失，碧的声音唤回了希斯的意识。</span>
+33,ルリア/露莉亚,シスさん？,希斯？
+34,シス/希斯,……いや、なんでもない。,……不，没什么。
+35,シス/希斯,<span class='scene-font-kokoro'>（もう声も気配もない……</span><br><span class='scene-font-kokoro'>気のせいか？</span><br><span class='scene-font-kokoro'>だが、今のは……）</span>,<span class='scene-font-kokoro'>（声音和气息都消失了……</span><br><span class='scene-font-kokoro'>是我的错觉吗？</span><br><span class='scene-font-kokoro'>但是，刚刚那是……）</span>
+36,ビィ/碧,えっと、何を気にしてるのか<br>知らねぇけど、兄ちゃんが<br>化け物ってのはやっぱり違うと思うぜ。,那个，<br>虽然我不知道你在介意什么，<br>但是我觉得小哥你和怪物还是不一样的。
+37,ビィ/碧,だってよぉ……,因为啊……
+41,シス/希斯,お、おい……？,喂，喂……？
+42,ビィ/碧,だって兄ちゃんはこの<br>仮面がなかったら……,因为小哥你没有了这个面具的话…
+43,シス/希斯,ひっ……！？<br>や、やめろ！<br>触るなっ！,噫……！？<br>快，快住手！<br>不要碰我！
+45,ビィ/碧,ほらな。<br>仮面外されたくなくて、そんな風に<br>逃げちまう化け物は怖くねぇもんな。,你看吧。<br>因为不想被摘掉面具，就这个样子逃走的怪物一点也不可怕嘛。
+48,シス/希斯,よ、寄るなっ！,别，别靠近我！
+49,,<span class='scene-font-katari'>悪戯に追いかけるビィと逃げるシス。</span><br><span class='scene-font-katari'>それを見て、ルリアと姬塔は</span><br><span class='scene-font-katari'>穏やかに微笑むのだった。</span>,<span class='scene-font-katari'>看着被恶作剧的碧追着逃跑的希斯，露莉亚和姬塔都露出了安宁的微笑。</span>
+info,,,scene_ult_chr133_q1_s20
+,,,

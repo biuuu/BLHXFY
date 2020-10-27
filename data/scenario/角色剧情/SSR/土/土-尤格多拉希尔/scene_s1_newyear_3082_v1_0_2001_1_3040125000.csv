@@ -1,0 +1,17 @@
+﻿id,name,text,trans
+0,,<span class='scene-font-katari'>今日は元旦。</span><br><span class='scene-font-katari'>１年で最もまっさらな１日が始まる日。</span>,<span class='scene-font-katari'>今天是元旦。是1年中最新的1天开始的日子。</span>
+1,,<span class='scene-font-katari'>遙か東方に故郷をもつ団員の提案で</span><br><span class='scene-font-katari'>餅つきをやろうということになった。</span>,<span class='scene-font-katari'>在故乡是遥远的东方的团员的提议下，众人决定捣年糕。</span>
+2,,<span class='scene-font-katari'>つきあがった餅はまだ温かく</span><br><span class='scene-font-katari'>柔らかい内に皆に振る舞われた。</span>,<span class='scene-font-katari'>随后趁年糕刚捣好又热又软，把年糕分给大家吃了。</span>
+3,,<span class='scene-font-katari'>普段はあまり口にすることのない</span><br><span class='scene-font-katari'>珍しい郷土料理に皆舌鼓を打つ。</span>,<span class='scene-font-katari'>大家都香甜地吃着这平常不怎么吃得到的珍奇的乡土料理。</span>
+4,,<span class='scene-font-katari'>ところが、独り、ユグドラシルは</span><br><span class='scene-font-katari'>白い塊を前にきょとんとしている。</span>,<span class='scene-font-katari'>唯独尤格多拉希尔一个人，捧着这白色物体发愣。</span>
+5,ユグドラシル/尤格多拉希尔,────？,————？
+6,,<span class='scene-font-katari'>姬塔が心配して声をかけると、</span><br><span class='scene-font-katari'>ユグドラシルはあせあせと首を振る。</span>,<span class='scene-font-katari'>姬塔有点担心去问了她一下以后，尤格多拉希尔赶紧摇头。</span>
+7,,<span class='scene-font-katari'>姬塔は思い出す。</span><br><span class='scene-font-katari'>そう言えば、ユグドラシルは</span><br><span class='scene-font-katari'>まだ固形物が苦手だったか、と──</span>,<span class='scene-font-katari'>姬塔想起，尤格多拉希尔好像还不擅长对付固体事物——</span>
+8,,<span class='scene-font-katari'>姬塔はふと思いつき</span><br><span class='scene-font-katari'>暫くその場を離れると、</span><br><span class='scene-font-katari'>手にお椀をもって戻って来た。</span>,<span class='scene-font-katari'>姬塔突然想起了什么，离开了一会以后，拿着一个碗回来了。</span>
+9,ユグドラシル/尤格多拉希尔,────！？,————！？
+10,,<span class='scene-font-katari'>何かを嗅ぎ取ったユグドラシルは、</span><br><span class='scene-font-katari'>そのお椀を手に取ると</span><br><span class='scene-font-katari'>夢中になって食べ始めるのだった。</span>,<span class='scene-font-katari'>嗅到什么味道的尤格多拉希尔接过碗，热心地开始吃了起来。</span>
+11,ユグドラシル/尤格多拉希尔,ちゅるちゅるちゅる……,（吸吮音）
+12,,<span class='scene-font-katari'>それもまた、東方の団員が作ってくれた</span><br><span class='scene-font-katari'>豆を漉した汁粉という甘い汁だった。</span>,<span class='scene-font-katari'>这也是东方的团员做的，滤掉小豆的名叫年糕汤的甜汁。</span>
+13,,<span class='scene-font-katari'>姬塔はいつまでも、一生懸命に</span><br><span class='scene-font-katari'>人間世界の食べ物を食べようと頑張る</span><br><span class='scene-font-katari'>そんな彼女を優しく見守るのだった──</span>,<span class='scene-font-katari'>姬塔在一边一直温柔地看着努力吃着人类世界的食物的尤格多拉希尔——</span>
+14,ユグドラシル/尤格多拉希尔,ちゅるちゅるちゅる……,（吸吮音）
+info,,,scene_s1_newyear_3082_v1_0_2001_1_3040125000

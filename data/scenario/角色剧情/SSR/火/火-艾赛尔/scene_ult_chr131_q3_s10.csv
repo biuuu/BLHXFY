@@ -1,0 +1,29 @@
+id,name,text,trans
+0-chapter_name,,果て無き闘争への誘い,通往无尽争斗的诱惑
+0-synopsis,,エッセルは、星屑の街を守るには、どうすればいいのか思い悩んでいた。そんなある夜、エッセルの頭の中に不審な声が直接語りかけてくる。不審に思ったエッセルが艇内を探ると、そこに“十狼雷”の姿を見る。エッセルが銃であるはずの十狼雷が声を発していることに戸惑いを見せると、「その力を試してやろう」と十狼雷が撃鉄を起こすのだった。,艾瑟尔正在烦恼着要怎么做才能守护星屑之街。某日夜里，艾瑟尔脑海中传来了可疑的声音。觉得可疑的艾瑟尔在艇内搜寻，然后在那里看见了“十狼雷”的身影。艾瑟尔困惑于明明只是铳的十狼雷居然发出了声音，十狼雷却说着“考验你的力量”发起了攻击。
+0,,<span class='scene-font-katari'>姬塔達に連れ帰られ、</span><br><span class='scene-font-katari'>ひとまずエッセルは</span><br><span class='scene-font-katari'>マフィアへの出頭を思いとどまった。</span>,<span class='scene-font-katari'>被姬塔等人带回来后，艾瑟尔暂时打消了去黑手党那里的念头。</span>
+1,,<span class='scene-font-katari'>しかし彼女の心に広がった暗雲が</span><br><span class='scene-font-katari'>それで払われたわけではなく、</span><br><span class='scene-font-katari'>エッセルは思い悩む日々を過ごす。</span>,<span class='scene-font-katari'>但是在她心中扩散的阴霾却并没有消散，每天都过着烦恼的生活。</span>
+4,エッセル/艾瑟尔,<span class='scene-font-kokoro'>（私や、散っていった子達が</span><br><span class='scene-font-kokoro'>してきたことが、</span><br><span class='scene-font-kokoro'>弟妹達を傷付ける……）</span>,<span class='scene-font-kokoro'>（我和死去的孩子们所做的事，会伤害弟妹们……）</span>
+5,エッセル/艾瑟尔,…………,…………
+6,エッセル/艾瑟尔,<span class='scene-font-kokoro'>（落ち込んでる場合じゃない、</span><br><span class='scene-font-kokoro'>何か手段を探さないと……）</span>,<span class='scene-font-kokoro'>（现在不是消沉的时候，必须得找到其他的手段……）</span>
+7,エッセル/艾瑟尔,<span class='scene-font-kokoro'>（弟妹達には、</span><br><span class='scene-font-kokoro'>ちゃんと大人になって……</span><br><span class='scene-font-kokoro'>幸せに暮らして欲しい……）</span>,<span class='scene-font-kokoro'>（希望弟妹们都能顺利长大成人……幸福的生活下去……）</span>
+8,エッセル/艾瑟尔,<span class='scene-font-kokoro'>（……カトルが言うように、</span><br><span class='scene-font-kokoro'>私達が最強の存在になれば</span><br><span class='scene-font-kokoro'>星屑の街を守れるのかな……）</span>,<span class='scene-font-kokoro'>（……如果像卡托尔说的那样，我们成为了最强的存在的话，就能保护好星屑之街了吗……）</span>
+10,エッセル/艾瑟尔,…………？<br>……ん、これ誰の声だろう……？<br>起きてる人が、いるのかな……？,…………？<br>……嗯、这是谁的声音……？<br>还有人醒着吗……？
+11,,<span class='scene-font-katari'>聴こえてきた声に首を傾げ、</span><br><span class='scene-font-katari'>エッセルは気分を変えるつもりで</span><br><span class='scene-font-katari'>騎空艇の中を散歩する。</span>,<span class='scene-font-katari'>把头转向听到的声音，带着转换心情的想法开始在骑空艇里散步。</span>
+16,エッセル/艾瑟尔,……これ、もしかして……<br>耳に届いてるんじゃなくて、<br>頭の中に響いてる……？,……这，难道说……<br>不是从耳朵听到的，是在脑海中回响……？
+17,エッセル/艾瑟尔,…………,…………
+18,,<span class='scene-font-katari'>エッセルは足音を潜め、</span><br><span class='scene-font-katari'>頭に直接響く声を辿り</span><br><span class='scene-font-katari'>その声の主の元へ足を運ぶ。</span>,<span class='scene-font-katari'>艾瑟尔隐藏起脚步声，追寻着在脑海中回响的声音，向着声音的主人处前进。</span>
+22,エッセル/艾瑟尔,……そこに、誰かいるの？<br>私を呼ぶのは、何故……？,……是谁，在那里？<br>为什么呼唤我……？
+24,？？？,<span class='scene-font-gray'>………………</span>,<span class='scene-font-gray'>………………</span>
+25,エッセル/艾瑟尔,…………！？<br>今の……<span class='scene-font-spword'>十狼雷</span>から！？,…………！？<br>刚刚的是……从<span class='scene-font-spword'>十狼雷</span>传来的！？
+27,十狼雷,<span class='scene-font-gray'>……いかにも。</span><br><span class='scene-font-gray'>我が名は</span><span class='scene-font-spword'>天星器十狼雷</span><span class='scene-font-gray'>。</span>,<span class='scene-font-gray'>……正是。</span><br><span class='scene-font-gray'>我名为</span><span class='scene-font-spword'>天星器十狼雷</span><span class='scene-font-gray'>。</span>
+28,エッセル/艾瑟尔,……！？<br>そんな、まさか……,……！？<br>怎么、可能……
+30,十狼雷,<span class='scene-font-gray'>呆けるのは構わんが、娘。</span><br><span class='scene-font-gray'>我が声が届く程度には</span><br><span class='scene-font-gray'>秀でた銃士であるようだな。</span>,<span class='scene-font-gray'>被吓到也无妨，小姑娘。</span><br><span class='scene-font-gray'>既然能听到我的声音，说明你也是相当优秀的铳士。</span>
+31,エッセル/艾瑟尔,……ん。<br>私は確かに銃を扱うよ。,……嗯。<br>我确实是在使用铳。
+33,十狼雷,<span class='scene-font-gray'>……悪くない。</span><br><span class='scene-font-gray'>お前の元にあれば</span><br><span class='scene-font-gray'>存分に我が力を発揮できる。</span>,<span class='scene-font-gray'>……还不坏。</span><br><span class='scene-font-gray'>在你手中的话，能够充分的发挥我的力量。</span>
+34,十狼雷,<span class='scene-font-gray'>だがその前に、</span><br><span class='scene-font-gray'>我が使い手として相応しいか</span><br><span class='scene-font-gray'>その力、試してやるとしよう。</span>,<span class='scene-font-gray'>但是在此之前，</span><br><span class='scene-font-gray'>让我来测试一下你到底有没有与我的使用者所相称的实力吧。</span>
+35,エッセル/艾瑟尔,力を……試す？<br>何を言って……,测试……实力？<br>你到底再说什么……
+37,十狼雷,<span class='scene-font-gray'>ははは！</span><br><span class='scene-font-gray'>死にたくなければ</span><br><span class='scene-font-gray'>戦い、そして勝ってみせるがいい！</span>,<span class='scene-font-gray'>哈哈哈！</span><br><span class='scene-font-gray'>不想死的话就战斗吧，然后获得胜利！</span>
+38,,<span class='scene-font-katari'>戸惑うエッセルの眼前で</span><br><span class='scene-font-katari'>ひとりでに</span><span class='scene-font-spword'>十狼雷</span><span class='scene-font-katari'>の撃鉄が起こった。</span>,<span class='scene-font-katari'>在困惑的艾瑟尔面前，</span><span class='scene-font-spword'>十狼雷</span><span class='scene-font-katari'>自己发射了子弹。</span>
+info,,,scene_ult_chr131_q3_s10
+译者,,,

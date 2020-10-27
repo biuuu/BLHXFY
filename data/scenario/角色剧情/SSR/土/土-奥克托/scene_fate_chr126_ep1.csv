@@ -1,0 +1,32 @@
+id,name,text,trans
+0-chapter_name,,刀神襲来,刀神袭来
+0-synopsis,,八命切を完成させた姬塔一行の元に、オクトーが現れる。オクトーとの決闘の約束を守るべく、姬塔はオクトーの後を追う。,完成了八命切的姬塔等人身边，奥克托突然出现。为了如约与奥克托决斗，姬塔跟上了奥克托。
+0,,<span class='scene-font-katari'>遂に</span><span class='scene-font-spword'>「八命切」</span><span class='scene-font-katari'>を「覚醒」させた</span><br><span class='scene-font-katari'>姬塔。</span>,<span class='scene-font-katari'>姬塔终于将</span><span class='scene-font-spword'>「八命切」</span><span class='scene-font-katari'>的「觉醒」</span><br><span class='scene-font-katari'>彻底完成。
+1,,<span class='scene-font-katari'>ビィとルリアがシェロカルテを</span><br><span class='scene-font-katari'>グランサイファーに呼び、</span><br><span class='scene-font-spword'>「天星器」</span><span class='scene-font-katari'>の完成祝いを行っていた。</span>,<span class='scene-font-katari'>碧和露莉亚</span><br><span class='scene-font-katari'>邀请了榭洛科特一起到格兰塞法上庆祝</span><br><span class='scene-font-spword'>「天星器」</span><span class='scene-font-katari'>的觉醒。</span>
+2,シェロカルテ/榭洛科特,いや～姬塔さん、<br>まさか、本当に<span class='scene-font-spword'>「八命切」</span>を<br>完成させるなんてすごいですよ～！,哎呀～姬塔小姐<br>居然真的把<span class='scene-font-spword'>「八命切」</span>给<br>彻底做成了啊～！
+3,ビィ/碧,おいおい、それじゃまるで<br>姬塔を<br>信じてなかったみたいじゃねぇか！,喂喂，你这话说得<br>就像是不相信姬塔能完成一样！
+4,シェロカルテ/榭洛科特,それくらい<br>すごいことだってことですよ～！,毕竟要完成这东西<br>可是困难得很啊～！
+5,ルリア/露莉亚,シェロさんにも<br>沢山力をお借りしましたし、<br>今日はゆっくりしていってくださいね！,榭罗小姐也是<br>帮了我们这么多忙<br>今天就请随便玩吧！
+6,シェロカルテ/榭洛科特,はい～<br>お気遣い、ありがとうございます～,好的～<br>非常感谢各位的照顾～
+7,ルリア/露莉亚,それにしても、<span class='scene-font-spword'>「八命切」</span>……<br>綺麗な刀ですけど、見ていると<br>なんだか空恐ろしいというか……,话说回来<span class='scene-font-spword'>「八命切」</span>……<br>看上去很漂亮，但是盯着看的话<br>又莫名地感觉有些可怕……
+8,ビィ/碧,流石、<span class='scene-font-spword'>「天星器」</span>ってことなのかな……<br>この威圧感、<br>あの刀の爺さんに似てるよなぁ。,毕竟是<span class='scene-font-spword'>「天星器」</span>啊……<br>这股压迫感<br>有点像用刀的老爷爷啊。
+9,シェロカルテ/榭洛科特,ああ～……<br>ちょっと解る気がします～,啊啊～……<br>这我倒能理解～
+11,,<span class='scene-font-katari'>和やかな祝いの席が、ふと静かになる。</span><br><span class='scene-font-katari'>そうさせたのは、不意に姿を見せた</span><br><span class='scene-font-katari'>オクトーだった。</span>,<span class='scene-font-katari'>原本和谐庆祝的桌前，突然安静了下来</span><br><span class='scene-font-katari'>原因在于突然现身的</span><br><span class='scene-font-katari'>奥克托。</span>
+13,オクトー/奥克托,…………<span class='scene-font-spword'>「天星器」</span>、<br>覚醒成ったか。<br>頃合いだと思うていた。,…………<span class='scene-font-spword'>「天星器」</span>、<br>觉醒了啊<br>我也觉得差不多是时候了。
+14,ルリア/露莉亚,あれ？　あの……オクトーお爺さん。<br>どうしてそれを知ってるんですか？,奇怪？　那个……奥克托爷爷。<br>您是怎么知道的？
+15,オクトー/奥克托,<span class='scene-font-spword'>「天星器」</span>の脈動、<br>隠し通せるものではない。,<span class='scene-font-spword'>「天星器」</span>的心跳<br>可是无法隐藏的。
+16,オクトー/奥克托,……ほう。姬塔と言うたか。<br>以前にまみえた時よりも、<br>鋭き瞳を持つようになった。,……嚯，汝就是姬塔吧<br>比起上次见面<br>眼神要锐利了不少。
+17,オクトー/奥克托,ここでは場所が悪い。<br>参るぞ。,这里不合适<br>换个地方。
+18,,<span class='scene-font-katari'>オクトーの後に続こうとする</span><br><span class='scene-font-katari'>姬塔を、</span><br><span class='scene-font-katari'>ビィが引きとめた。</span>,<span class='scene-font-katari'>面对跟在奥克托身后的</span><br><span class='scene-font-katari'>姬塔，</span><br><span class='scene-font-katari'>碧出声挽留。</span>
+19,ビィ/碧,な、なぁ姬塔……<br>危ねぇんじゃ……,喂，姬塔……<br>很危险……
+20,オクトー/奥克托,我を恐れ逃げる程度では、<br>いずれ<span class='scene-font-spword'>「八命切」</span>に<br>その命盗られよう。,连我都要怕<br>迟早有一天会被<span class='scene-font-spword'>「八命切」</span>给<br>夺去性命。
+22,ビィ/碧,あっ！　爺さん、待てよ！<br>……行っちまった。,啊！ 爷爷，等一下！<br>……走掉了。
+23,ルリア/露莉亚,姬塔……行くんですね？<br>……私も、ついていきます！,姬塔……你要去吗？<br>……我也 跟你一起去！！
+24,ルリア/露莉亚,なにかできるわけじゃないけど……<br>でも、一緒にいますから！,虽然不知道我能做些什么……<br>但是，我想陪在你身边！
+25,ビィ/碧,オイラだって一緒に行くぜ！<br>オイラとお前の仲だもんなっ！,咱也要一起去！<br>毕竟咱们是同伴啊！
+27,,<span class='scene-font-katari'>姬塔は２人に頷き、</span><br><span class='scene-font-katari'>オクトーの後を追う。</span>,<span class='scene-font-katari'>姬塔对两人点了点头</span><br><span class='scene-font-katari'>继续跟着奥克托。</span>
+28,,<span class='scene-font-katari'>オクトーは、開けた場所に着くと</span><br><span class='scene-font-katari'>姬塔を振り返った。</span>,<span class='scene-font-katari'>奥克托走到了一处开阔的地方，</span><br><span class='scene-font-katari'>转身面对姬塔。</span>
+30,オクトー/奥克托,<span class='scene-font-spword'>「天星器」</span>の力、<br>今更語るまでもなし。,<span class='scene-font-spword'>「天星器」</span>的强大<br>如今也不必再多说。
+31,オクトー/奥克托,うぬの器、<br>その力の主足り得るか確かめん！,剩下的，<br>就是确认汝是否够格！
+info,,,scene_fate_chr126_ep1
+译者,,,

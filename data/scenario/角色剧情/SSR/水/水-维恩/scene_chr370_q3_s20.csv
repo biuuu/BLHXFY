@@ -1,0 +1,73 @@
+id,name,text,trans
+0-chapter_name,,"You and Me, No Matter What",你和我的羁绊
+0-synopsis,,"The weather finally clears, allowing Vane and Lancelot to leave the cave. Not long after venturing out, they hear 姬塔 and the crew calling out in search of them. Vane and Lancelot realize their bond is even stronger after overcoming this hardship.",天空终于放晴，维恩和兰斯洛特得以离开洞窟。在他们离开后不久，听到姬塔和船员们一边喊着一遍寻找他们。通过这次难关，维恩和兰斯洛特意识到他们的羁绊更加牢固了。
+0,,Vane deals with the monster that had awoken in the cave.,维恩解决了山洞里醒来的魔物。
+1,,"However, day after day, the weather permits them no passage to the outside world.",但是，一天天过去，外面的天气还是不允许他们离开山洞。
+5,Vane/维恩,Lancey... Have some water.,兰酱，来喝点水。
+6,Lancelot/兰斯洛特,"Glug, glug...<br>Thank you, Vane.",咕……咕……谢谢你，维恩。
+7,Vane/维恩,How's the leg?,腿没有问题吧？
+8,Lancelot/兰斯洛特,I'm managing...,啊，应该没有。
+10,Vane/维恩,Argh... The monster in my tummy's growling again.,可恶，肚子里的馋虫还真精神啊。
+11,Lancelot/兰斯洛特,Vane. This is the last of our food. You take it.,维恩，这是最后的口粮了，你把它吃了吧。
+12,Vane/维恩,"Huh? What's gotten into you? No, we're splitting it like we always do!",啊？你在说什么蠢话啊，当然是像往常一样分开吃啊。
+13,Lancelot/兰斯洛特,"Wait! Think about this. With my leg, I'm in no state to go down the mountain.",等等，你冷静地思考一下，我的腿受的伤，已经不允许我下山了。
+14,Lancelot/兰斯洛特,"When the weather clears, you need to go without me. So take this—",当天空放晴的时候，你就一个人下山去，所以拿着这个——
+15,Vane/维恩,I said no!,我不要！
+16,Lancelot/兰斯洛特,Listen to me! We're <span class='scene-font-italic'>both</span> going to die out here at this rate!,好好听着！这样下去的话我们两个人都会死在这个地方的！
+17,Vane/维恩,I'd rather die with you than survive alone!,与其我一个人活下去，不如和兰酱一起死了呢。
+18,Lancelot/兰斯洛特,Wha! Have you gone <span class='scene-font-italic'>insane</span>?,什！你在说什么呢！
+19,Vane/维恩,Besides! I'm bigger and burlier than you. It's gonna be a long time before <span class='scene-font-italic'>I</span> starve!,而且没问题的，我比兰酱身体要强壮许多，，能在饿死之前撑得更久一些。
+20,Lancelot/兰斯洛特,"Sigh... Sometimes you amaze me, Vane. I didn't think you could be this stubborn.",哎……真是输给你了，没想到你这家伙，到现在了还这么顽固。
+21,Vane/维恩,"There are some things I can't do, Lancey. Even if you're the one asking me to do it.",即使是兰酱的要求，我也会有不去做的时候哦。
+22,Vane/维恩,Don't worry! I haven't given up yet! Rescue's coming—I know it!,我还没放弃呢，不用担心！兰酱和我，一定能够得救的！
+23,Lancelot/兰斯洛特,"Heh. Very well. I'll believe in you, Vane.",我知道了，我相信维恩。
+24,Vane/维恩,"That's my boy. Well, no use wasting energy staying awake. Let's turn in for the night.",这才是好孩子，好了，醒着很浪费体力，今天就先睡觉吧。
+25,Lancelot/兰斯洛特,All right. Here's hoping to a clear sky on the morrow.,啊，希望明天是一个晴天。
+26,Vane/维恩,"Good night, Lancey.",晚安，兰酱。
+27,Lancelot/兰斯洛特,"Good night, Vane.",晚安，维恩。
+32,,The screaming winds and pouring rain rage beyond the cave as the two weary knights rest.,两位疲乏的骑士所歇息的山洞外，狂风和暴雨正在肆虐。
+33,,"The following day, however, is the blue sky they had so hoped for. For the first time in days, they leave the cave.",然而第二天，期盼着的蓝天终于来临，他们终于可以离开山洞。
+35,Vane/维恩,Lancey. Can you stand?,兰酱，站得起来吗？
+36,Lancelot/兰斯洛特,Yes. I should be able to handle this much.,没问题，这种程度就被打倒的话就不是我了。
+37,Lancelot/兰斯洛特,Ngh!,呃！
+39,Vane/维恩,Lance!,兰酱！
+40,Lancelot/兰斯洛特,"I'm all right, Vane.",我没事，维恩。
+41,Vane/维恩,"No, you're not! Here, hop on my back.",你明明就有事，别逞强了，趴到我的背上。
+42,Lancelot/兰斯洛特,Don't be absurd! You can barely stand on your own!,笨蛋，你不也是也已经到极限了吗。
+43,Vane/维恩,Just get on!,别说了快上来。
+44,Lancelot/兰斯洛特,Ah! Hey!,呃啊，你……
+48,,"Ignoring Lancelot's protests, Vane scoops him onto his back. Step by heavy step, he trudges along the mountain trail.",无视兰斯洛特的反对，维恩把他背到了自己背上，踏着沉重的步伐，他沿着小路行进。
+50,Vane/维恩,First... we go up the ridge... and find a path we recognize.,首先去山脊上，找一条我们认识的路……
+51,Lancelot/兰斯洛特,Mm...,啊……
+52,Vane/维恩,Whew... Exercise on an empty stomach... sure is something...,呃，果然空腹运动……很辛苦啊。
+53,Lancelot/兰斯洛特,Vane. Don't do this. I can walk.,维恩，已经可以了，我可以走路。
+54,Vane/维恩,No... I'm stronger this way... I'm... never... giving up!,不，我还有一点力气，我……绝不……放弃！
+55,Lancelot/兰斯洛特,Vane...,维恩……
+56,Vane/维恩,Whatever happens... as long as we have each other... no matter what... we're gonna make it...,只要我们在一起的话……不管什么样的困境……也绝对能……克服！
+57,Vane/维恩,The both of us... are getting home... alive! Graaagh!,我们两个……要一起……一起回去！
+58,,It is then that they hear voices echoing in the distance.,这是他们听到不远处回响的声音。
+59,Vyrn/碧,Vane! Lancelot! Are you out there?,喂——维恩——兰斯洛特——
+60,Lyria/露莉亚,Vane! Lancelot! Answer if you can you hear us!,维恩先生——兰斯洛特先生——听到了话请回答——
+61,Vane/维恩,Lancey! D-did you hear that?,兰酱，刚才的声音，你听到了吗？
+62,Lancelot/兰斯洛特,"I did! Vane, they're really here!",啊，维恩！刚才那不是幻觉！
+63,Vane/维恩,Heeey!,喂！
+64,Vane/维恩,Vyrn! Lyria!,碧！露莉亚！
+65,Vane/维恩,We're over here!,我们在这里！
+66,Lancelot/兰斯洛特,We're saved! And all the knights from the order are here too!,得救了！看起来白龙骑士团的人也来到这里了！
+71,,姬塔 and company rush toward Vane and Lancelot.,姬塔和大家跑向维恩和兰斯洛特所在的位置。
+73,Vyrn/碧,Sob...<br>Vane! Lancelot! You're safe now! You made it!,呜哇哇……维恩，兰斯洛特！你们没事吧！你们做到了！
+74,Vane/维恩,"Heh. Thanks, bud.",嘿嘿嘿，谢谢你们啊。
+75,Lyria/露莉亚,Sniffle... Sniffle... Thank heavens you're safe... We were so worried...,呜呜……呜呜……维恩先生和兰斯洛特先生没事，真的太好了！
+77,Lancelot/兰斯洛特,"Thank you, Lyria. We always knew 姬塔 and the rest of you would be looking for us.",谢谢你，露莉亚，我们一直坚信姬塔和你们一定在寻找着我们。
+78,,姬塔 checks to see that the two knights are safe and breathes a sigh of relief.,姬塔检查发现两位骑士都很安全，松了一口气。
+79,Lancelot/兰斯洛特,"I see you've called the other knights to help in the search, 姬塔. Thank you, we are in your debt.",我看到你把骑士团的人们都叫来寻找我们了啊，谢谢你的恩情，姬塔。
+80,Vane/维恩,We would've been goners if you hadn't.,要是没有你们的话，事情就糟糕啦。
+81,Vane/维恩,"Thanks, 姬塔",谢谢，姬塔。
+82,,"With tears welling, 姬塔 gives a soft smile.",姬塔流着眼泪向他们微笑。
+83,,The knights of the Order of the White Dragons gather around in concern.,白龙骑士团的骑士们也关心地围了上来。
+84,Vane/维恩,"Thanks, guys, I really can't thank all of you enough.",哎呀，要向你们每个人都道谢可真是辛苦啊。
+85,Lancelot/兰斯洛特,"Haha. As long as we have each other, we'll always make it, right?",哈哈，只要有我们两个人的话，发生什么都没问题的吧？
+86,Vane/维恩,"Yep. No truer words! You and me, no matter what!",啊，没问题的，只要有你和我的羁绊在，就绝对没问题的！
+87,,Vane and Lancelot are saved from their ordeal and live to tell their harrowing tale.,维恩和兰斯洛特度过了这次严峻的考验。
+88,,"The bonds between them stronger than ever before, they know that no matter what may come to pass, united they shall abide.",他们之间的羁绊愈发坚固，只要两个人在一起的话，不论发生什么都能一起跨过。
+info,,,scene_chr370_q3_s20

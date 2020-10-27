@@ -1,0 +1,50 @@
+id,name,text,trans
+0-chapter_name,,無名の騎士だったからこそ,正因为是无名的骑士
+0-synopsis,,王都へ戻ったランスロットはひとり鍛錬に励む。ランスロットが悩んでいることを見抜いたジークフリートは、ひとりで全てを変えられなくともきっかけを作ることはできるとランスロットを励ます。ランスロットは心を決めるため、いつかのように手合わせしてほしいとジークフリートに願い出る。,回到王都的兰斯洛特开始一个人锻炼。齐格飞看出了兰斯洛特苦恼，并鼓励兰斯洛特，即使不能独自改变一切，也可以制造契机。 兰斯洛特为了下定决心，一如既往地向齐格飞请求比试。
+3,,<span class='scene-font-katari'>調査を終え、王都へと戻った</span><br><span class='scene-font-katari'>ランスロットは一人</span><br><span class='scene-font-katari'>訓練場を訪れる。</span>,<span class='scene-font-katari'>调查结束后，兰斯洛特一个人</span><br><span class='scene-font-katari'>回到了王都的</span><br><span class='scene-font-katari'>训练场。</span>
+4,,<span class='scene-font-katari'>不在中の状況確認と対応に追われ、</span><br><span class='scene-font-katari'>気がつけば日はすっかり暮れて</span><br><span class='scene-font-katari'>しまっているのだった。</span>,<span class='scene-font-katari'>确认完他离开期间骑士团的状况后，</span><br><span class='scene-font-katari'>他才意识到</span><br><span class='scene-font-katari'>已经是傍晚了。</span>
+5,ランスロット/兰斯洛特,<span class='scene-font-kokoro'>（ここ数日はまともに鍛錬に</span><br><span class='scene-font-kokoro'>励めていなかった。</span><br><span class='scene-font-kokoro'>少し体を動かすか……）</span>,<span class='scene-font-kokoro'>（在这几天里都</span><br><span class='scene-font-kokoro'>完全没有锻炼呢。</span><br><span class='scene-font-kokoro'>稍微训练一下吧……）</span>
+12,,<span class='scene-font-katari'>しっかりと手入れのされた</span><br><span class='scene-font-katari'>双剣を握りしめ、</span><br><span class='scene-font-katari'>人気のない訓練場で素振りを繰り返す。</span>,<span class='scene-font-katari'>兰斯洛特手握</span><br><span class='scene-font-katari'>精心保养的双剑，</span><br><span class='scene-font-katari'>在无人的训练场中反复挥剑。</span>
+13,,<span class='scene-font-katari'>そんなランスロットの方へ</span><br><span class='scene-font-katari'>一人の男が静かに歩みを進める。</span>,<span class='scene-font-katari'>有一个男人静静地</span><br><span class='scene-font-katari'>向兰斯洛特走过去。</span>
+15,ジークフリート/齐格飞,踏み込みが甘い。<br>それでは相手に逃げる隙を<br>与えてしまうぞ。,步伐不够紧凑。这样会给对手逃跑的机会哦。
+16,ランスロット/兰斯洛特,ジークフリートさん……,齐格飞先生……
+17,ジークフリート/齐格飞,……随分と悩んでいるようだな。,……看上去你很烦恼呢。
+18,ジークフリート/齐格飞,遊学に行ってきたと小耳に挟んだが、<br>入団試験について<br>有益な情報は得られなかったのか？,我偶然听到了你去游学的事，<br>你没得到有关于入团考试的有益情报吗？
+19,ランスロット/兰斯洛特,いいえ。是非我々の試験制度にも<br>取り入れたいと思えるような<br>素晴らしい内容でした。しかし……,不。那绝对是我们的考试制度<br>能够引入的优秀内容。但是……
+20,ジークフリート/齐格飞,どうした。<br>聞かせてみてくれないか。,怎么了。<br>说给我听听吧。
+26,,<span class='scene-font-katari'>ランスロットは遊学先で見た</span><br><span class='scene-font-katari'>入団試験制度について</span><br><span class='scene-font-katari'>ジークフリートに説明する。</span>,<span class='scene-font-katari'兰斯洛特和齐格飞</span><br><span class='scene-font-katari'>说明了游学所见</span><br><span class='scene-font-katari'>的考试制度。</span>
+27,ランスロット/兰斯洛特,日常の姿から騎士としての素質を<br>見極めるこの制度にはどうしても個々の<br>試験官の裁量に任せる部分があります。,要从日常中评判骑士的制度，<br>无论如何都有依靠考官的判断的部分。
+28,ランスロット/兰斯洛特,試験官によって評価の基準に差異が<br>あってはなりませんから、試験官全員の<br>意思を合わせる必要があります。,对于考官来说不可能没有评价基准的差异，<br>所以所有考官有必要达成一致的意见。
+29,ランスロット/兰斯洛特,少人数であれば信頼のできる者を<br>選出すれば済む話ではありますが……,如果人少的话，<br>选择能够信赖的人即可……
+30,ランスロット/兰斯洛特,多くの試験官を必要とするとなれば<br>俺とは違う価値観の者にも<br>協力を仰がなければなりません。,但是如果需要很多的考官，<br>那么一定要请求和我价值观不同的人。
+31,ランスロット/兰斯洛特,ですが、試験官全員に同じ目標を<br>浸透させることが俺にできるのか<br>自信がないんです。,我没有自信<br>让所有考官能够同心协力。
+32,ジークフリート/齐格飞,……そうか。,……这样啊。
+33,ジークフリート/齐格飞,お前が不安に思うのももっともだ。<br>家柄や育ちで他人を軽蔑するような輩は<br>どこの騎士団にも少なからずいる。,确实会让你不安呢。<br>哪里的骑士团里都会有不少<br>因为家族教育而轻视他人的家伙。
+34,ジークフリート/齐格飞,古きを重んじる者に<br>新しい価値観を浸透させるというのは<br>一筋縄ではいかんだろう。,对于重视古典的人来说，<br>一般的方法是没办法让他们接受新的价值观的。
+35,ランスロット/兰斯洛特,…………,…………
+36,ジークフリート/齐格飞,だが、変化はきっかけがなければ<br>決して起こらない。,但是，<br>也绝对不会没有变化。
+37,ジークフリート/齐格飞,一人で全てを変えようとするのは<br>難しいかもしれないが、きっかけを<br>作ることはできるんじゃないか？,也许一个人改变全局很困难，<br>但是制造契机还是可以的吧？
+38,ランスロット/兰斯洛特,きっかけ、ですか。,契机、吗。
+39,ジークフリート/齐格飞,お前は決して恵まれていない環境の中、<br>騎士になりたい一心で腕を磨いて入団を<br>果たし、騎士団団長にまでなった男だ。,你是在绝对恶劣的环境中，<br>为了入团成为骑士，一心锻炼自己，<br>最后成为了骑士团长的男人。
+40,ジークフリート/齐格飞,変化のきっかけを作るには<br>相応しい境遇だと思うぞ？, 你不认为制造变化的契机<br>也是一样的境遇吗？
+41,,<span class='scene-font-katari'>城から漏れる微かな光に照らされた</span><br><span class='scene-font-katari'>ジークフリートの表情は穏やかで、</span><br><span class='scene-font-katari'>温もりを感じさせる。</span>,<span class='scene-font-katari'>从城边渗出的微光</span><br><span class='scene-font-katari'>洒在齐格飞露出平静表情的脸上。</span><br><span class='scene-font-katari'>让人感觉到一丝温暖。</span>
+42,,<span class='scene-font-katari'>夜の訓練場に恩師と二人――</span><br><span class='scene-font-katari'>ランスロットはかつてここで剣の稽古を</span><br><span class='scene-font-katari'>つけてもらっていた日々を思い出す。</span>,<span class='scene-font-katari'>夜里在训练场和恩师两人——</span><br><span class='scene-font-katari'>兰斯洛特想起了过去</span><br><span class='scene-font-katari'>在这里被教授剑术的日子。</span>
+43,ランスロット/兰斯洛特,ふふっ、こうしてあなたに<br>悩みを聞いてもらうなんて、<br>入団した頃のようです。,哈哈，从入团时就开始<br>像这样向你诉说烦恼了呢。
+44,ランスロット/兰斯洛特,成長したつもりでいたんですが……<br>あなたにはまだまだ敵いませんね。,虽然我应该成长了一点，<br>但还远远不及你呢。
+45,ジークフリート/齐格飞,ふっ……<br>真剣に国を思えばこそ悩むのだ。,是因为认真地<br>为国家考虑你才会烦恼呢。
+46,ジークフリート/齐格飞,お前はあの頃の見習い騎士とは違う。<br>王都が誇る気高き騎士団長だ。,你和那时是实习骑士不同，<br>已经是王都高尚的骑士团长了。
+47,ランスロット/兰斯洛特,お言葉、誠に痛み入ります……,不敢当……
+48,,<span class='scene-font-katari'>無名の騎士だったランスロットに</span><br><span class='scene-font-katari'>騎士としての全てを教えてくれた</span><br><span class='scene-font-katari'>恩師の言葉。</span>,<span class='scene-font-katari'>只是将骑士的全部教授给了</span><br><span class='scene-font-katari'>兰斯洛特的无名骑士</span><br><span class='scene-font-katari'>如此说道。</span>
+49,,<span class='scene-font-katari'>その重みと温もりを感じて、</span><br><span class='scene-font-katari'>双剣を握るランスロットの手に</span><br><span class='scene-font-katari'>自然と力がこもる。</span>,<span class='scene-font-katari'>感受到了这份分量和温暖</span><br><span class='scene-font-katari'>的兰斯洛特</span><br><span class='scene-font-katari'>握紧双剑的手也充满了力量。</span>
+50,ランスロット/兰斯洛特,ジークフリートさん、<br>一つお願いがあります。,齐格飞先生，<br>我有一事相求。
+51,ランスロット/兰斯洛特,俺と……<br>手合せしてもらえませんか？,能请和我……<br>比试一下吗？
+52,ジークフリート/齐格飞,ふむ……<br>初心に戻りたいということか。,哼……<br>回归初心了吗。
+53,ジークフリート/齐格飞,……いいだろう。,……好吧。
+55,ジークフリート/齐格飞,さぁ、どこからでも<br>かかってくるといい。,那么，<br>放马过来吧。
+57,ランスロット/兰斯洛特,ありがとうございます。,非常感谢。
+58,ジークフリート/齐格飞,ランスロット、<br>お前は既に自分が何をするべきか<br>答えを得ているはずだ。,兰斯洛特，<br>你应该已经知道自己应该做什么了。
+59,ジークフリート/齐格飞,この戦いで己の信念を<br>しっかりと見極めろ。,好好在这场战斗中<br>看清自己的信念吧。
+60,ランスロット/兰斯洛特,はい……！！,是…！！
+61,ランスロット/兰斯洛特,では、参ります！！！,那么、上了！！！
+64,,<span class='scene-font-katari'>静寂に包まれた夜の訓練場で</span><br><span class='scene-font-katari'>人知れず師弟の稽古が始まる。</span>,<span class='scene-font-katari'>在寂静的夜里，</span><br><span class='scene-font-katari'>不为人知的师徒对决在训练场展开。</span>
+info,,,scene_chr421_q3_s10

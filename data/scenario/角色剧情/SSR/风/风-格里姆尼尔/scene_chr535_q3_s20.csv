@@ -1,0 +1,24 @@
+id,name,text,trans
+0-chapter_name,,踊り狂う風雪,狂舞的风雪
+0-synopsis,,グリームニルは、襲い来る魔物達からルリアを護ろうと臨戦態勢に入る。しかし、突如猛吹雪の向こう側からビィの悲鳴が聞こえ、魔物達の殺気がビィに向けられる。それに気づいたグリームニルはビィのもとへと駆けつけ、いままさにビィに襲い掛からんとする魔物達に向かって飛び込んでいくのだった。,格里姆尼尔在袭来的魔兽前为了保护露莉亚进入了战斗状态。但是，在听到暴风雪的另一侧的碧的声音后魔物们的杀气朝向了碧那一侧。意识到了这一点的格里姆尼尔赶向碧那里，飞入了要袭击碧的魔物群之中。
+1,グリームニル,……蒼の少女。<br>俺の後ろに下がっていろ。,……苍之少女。<br>请退到我的身后。
+2,ルリア/露莉亚,……グリームニルさん……,……格里姆尼尔……
+3,グリームニル,問題は無い。,没问题。
+4,グリームニル,我が颶風の前では……<br>闇も、魔も、等しく無力だ！,在吾飓风之前……<br>暗、魔都是无力的！
+5,,<span class='scene-font-katari'>グリームニルは猛吹雪のカーテンの</span><br><span class='scene-font-katari'>向こう側で蠢く魔物達に視線を移すと、</span><br><span class='scene-font-katari'>不敵な笑みを浮かべる。</span>,<span class='scene-font-katari'>格里姆尼尔将视线移向了</span><br><span class='scene-font-katari'>暴风雪之后蠢蠢欲动的魔物，</span><br><span class='scene-font-katari'>露出了无畏的笑容。</span>
+6,,<span class='scene-font-katari'>そして大きく息を吸い込み──</span>,<span class='scene-font-katari'>然后深吸一口气──</span>
+7,グリームニル,さぁ行くぞ！<br>我が風の暴威を受けてみるが良い！,那开始了！<br>好好感受吾风之暴威！
+8,？？？,うわあああ！,呜啊啊啊！
+9,グリームニル,む……！,嗯……！
+10,ルリア/露莉亚,グリームニルさん！<br>いまの声、ビィさんです！,格里姆尼尔！<br>刚才是的声音，是碧！
+11,グリームニル,やはりか……！<br>とすると……,果然这样吗……！<br>这样的话……
+12,,<span class='scene-font-katari'>先ほどまで放たれていた殺気が</span><br><span class='scene-font-katari'>明らかにビィの方に向かったことに</span><br><span class='scene-font-katari'>気づいたグリームニル。</span>,<span class='scene-font-katari'>格里姆尼尔意识到</span><br><span class='scene-font-katari'>刚才四处感受到的杀气</span><br><span class='scene-font-katari'>朝向了碧的方向。</span>
+13,グリームニル,……弱きを狙うは魔物の性。<br>諫めはすまい。<br>しかし……看過は出来ん！,……紧盯弱者是魔物之本性。<br>不说也罢。<br>但……无法视之不管！
+14,グリームニル,赤き竜よ、いま助ける！<br>風よ！　舞い踊れ！,赤龙哟，现在来帮你！<br>风啊！　舞起吧！
+18,,<span class='scene-font-katari'>風に乗って加速したグリームニルは、</span><br><span class='scene-font-katari'>空中を飛び跳ねるようにして、</span><br><span class='scene-font-katari'>ビィの前へ颯爽と降り立った。</span>,<span class='scene-font-katari'>乘着风加快速度的格里姆尼尔</span><br><span class='scene-font-katari'>像是在空中跳过那样，</span><br><span class='scene-font-katari'>英姿飒爽的出现在了碧面前。</span>
+20,ビィ/碧,ぼ、暴風の兄ちゃん！,哦，暴风小哥！
+21,魔物,グルルル……！,咕噜噜噜……！
+22,グリームニル,……魔物よ。<br>畏れることはない……,……魔物们。<br>没有什么可以害怕的……
+23,グリームニル,この颶風は天の意志……<br>汝らを安寧へと導かん！,此飓风乃天之意志……<br>将你们导向安宁之地！
+24,,<span class='scene-font-katari'>グリームニルは槍を小脇に構えると、</span><br><span class='scene-font-katari'>意気揚々と魔物の群れの中に</span><br><span class='scene-font-katari'>飛び込んで行くのだった。</span>,<span class='scene-font-katari'>格里姆尼尔将枪夹在胳膊下，</span><br><span class='scene-font-katari'>意气风发的</span><br><span class='scene-font-katari'>飞进了魔物群之中。</span>
+info,,,scene_chr535_q3_s20

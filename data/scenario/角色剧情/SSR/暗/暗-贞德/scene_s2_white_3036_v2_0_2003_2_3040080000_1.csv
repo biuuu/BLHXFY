@@ -1,0 +1,7 @@
+id,name,text,trans
+0,ジャンヌダルク/贞德,私に……贈り物を？<br>…………,要给我……礼物？<br>…………
+1,ジャンヌダルク/贞德,……ありがとう。<br>大切にさせてもらう。,……谢谢。<br>我会珍惜的。
+2,ジャンヌダルク/贞德,<span class='scene-font-kokoro'>（遠からず、私達が道を違い</span><br><span class='scene-font-kokoro'>キミが私に</span><br><span class='scene-font-kokoro'>憎しみを向ける時が来るだろう……）</span>,<span class='scene-font-kokoro'>（不久的将来，我们将分道扬镳</span><br><span class='scene-font-kokoro'>你向我宣泄憎恨的时刻也会到来……）</span>
+3,ジャンヌダルク/贞德,<span class='scene-font-kokoro'>（それでも、こうして</span><br><span class='scene-font-kokoro'>温かい思い出をくれたことを、</span><br><span class='scene-font-kokoro'>忘れずにいても……いいだろうか）</span>,<span class='scene-font-kokoro'>（但是，我是不是可以不要忘记</span><br><span class='scene-font-kokoro'>你像这样给予了我温暖的回忆……）</span>
+4,ジャンヌダルク/贞德,<span class='scene-font-kokoro'>（例えキミが、</span><br><span class='scene-font-kokoro'>今日という日のことを</span><br><span class='scene-font-kokoro'>忘れてしまうとしても……）</span>,<span class='scene-font-kokoro'>（即使你已经忘记了今天这个日子……）</span>
+info,,,scene_s2_white_3036_v2_0_2003_2_3040080000_1

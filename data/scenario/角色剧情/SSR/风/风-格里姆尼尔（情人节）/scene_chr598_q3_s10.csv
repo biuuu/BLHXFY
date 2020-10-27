@@ -1,0 +1,64 @@
+id,name,text,trans
+0-chapter_name,,続・チョコに狂う暴風,续·为巧克力而狂的暴风
+0-synopsis,,グリームニルは暴風によってチョコレートの精を一掃する。するとチョコレートの破片にグリームニルの魔力の残滓が宿り、斬新な食感になった。グリームニルとサヴァランはそのチョコレートを素材として試行錯誤を重ね、バレンタイン当日の朝、ついにオリジナルチョコを完成させる。グリームニルはサヴァランからのプレゼントを受け取ると、姬塔の元へ急ぎ向かうのだった。,格里姆尼尔用暴风把巧克力精灵彻底解决。于是巧克力的的碎片就附上了格里姆尼尔魔力的残余，拥有了崭新的口感。格里姆尼尔和萨瓦兰以那巧克力为素材，反复进行着试错，在情人节那天早上，终于完成了特制巧克力。格里姆尼从萨瓦兰那收到礼物后，便急忙赶往姬塔身边。
+1,グリームニル,<span class='scene-font-4'>受けよ暴風！</span><br><span class='scene-font-4'>我が一槍は、終焉なり！</span>,<span class='scene-font-4'>承接暴风吧！</span><br><span class='scene-font-4'>我之一枪，即为终末！</span>
+2,チョコレートの精,────！？,————！？
+17,,<span class='scene-font-katari'>踊り狂う暴風によって</span><br><span class='scene-font-katari'>チョコレートの精を</span><br><span class='scene-font-katari'>一蹴するグリームニル。</span>,<span class='scene-font-katari'>格里姆尼尔用狂舞的暴风，</span><br><span class='scene-font-katari'>将巧克力精灵消灭殆尽。</span>
+18,グリームニル,やった！<br>決まったぁー！,太好了！<br>我赢了！
+19,サヴァラン/萨瓦兰,ふっ……さすがだな。<br>お前の想い、しかと受け取った。,呼……不愧是你啊。<br>你的心意，我已经充分体会到了。
+20,サヴァラン/萨瓦兰,む……これは？,唔……这是？
+21,,<span class='scene-font-katari'>その時、バラバラに砕け散った</span><br><span class='scene-font-katari'>チョコの破片に異変が</span><br><span class='scene-font-katari'>起きていることに気づいたサヴァラン。</span>,<span class='scene-font-katari'>就在这时，萨瓦兰察觉到，</span><br><span class='scene-font-katari'>零碎散落的巧克力碎片产生了异变。</span>
+22,サヴァラン/萨瓦兰,これは……<br>チョコレートの破片に<br>魔力の残滓が宿っているのか？,这是……<br>巧克力的碎片里，<br>附上了魔力的残余吗？
+23,グリームニル,なんだって？,你说什么？
+24,,<span class='scene-font-katari'>グリームニルは、</span><br><span class='scene-font-katari'>チョコのひとかけらを</span><br><span class='scene-font-katari'>口の中へ放り込んだ。</span>,<span class='scene-font-katari'>格里姆尼尔把一块巧克力碎片放入口中。</span>
+25,グリームニル,はむっ……あむっ……,嚼嚼……嚼嚼……
+27,グリームニル,<span class='scene-font-4'>こっ、これはぁぁぁぁっ！</span>,<span class='scene-font-4'>这，这是——————！</span>
+28,グリームニル,漆黒の破片に込められしは、<br>蒼空を駆け抜ける如き薫風！,注入于漆黑碎片中的，<br>是恍如翱翔于苍空的初夏之风！
+29,サヴァラン/萨瓦兰,私も一口いただくぞ！<br>はむっ……あむっ……,也让我吃一口！<br>嚼嚼……嚼嚼……
+31,サヴァラン/萨瓦兰,<span class='scene-font-4'>はっ、はうぁぁぁぁぁっ！</span>,<span class='scene-font-4'>哈，哈呜啊啊啊啊啊！</span>
+32,サヴァラン/萨瓦兰,はぁ……はぁ……<br>なっ、なんだこの優しい口溶けの中に<br>広がる爽やかな風味は！,哈……哈……<br>这，这温柔地融化在口中，<br>扩散开的清爽的风味！
+38,サヴァラン/萨瓦兰,<span class='scene-font-kokoro'>（これは……</span><br><span class='scene-font-kokoro'>エレメンタルソルベと</span><br><span class='scene-font-kokoro'>似た現象が起きているのか？）</span>,<span class='scene-font-kokoro'>（这是……发生了和精灵雪糕那时一样的现象？）</span>
+44,サヴァラン/萨瓦兰,姬塔に対する想いの強さが、<br>本来ならありえない<br>奇跡を起こしたようだ……,看来你对姬塔的强烈心意，<br>引发了本应不可能发生的奇迹啊……
+45,サヴァラン/萨瓦兰,軍神の颶風を含んだ斬新な食感か……<br>これは……いけるぞ！,蕴含军神飓风的崭新口感……<br>这……能行！
+46,グリームニル,じゃあオリジナルレシピの<br>チョコがつくれるのか？,那能做出特制巧克力了吗？
+47,サヴァラン/萨瓦兰,ああ！　この素材を使って<br>私と一緒に新しいチョコを開発しよう！,嗯！用这个素材和我一起开发新的巧克力吧！
+48,グリームニル,……っ！？<br>望むところだ！,……！？<br>正合我意！
+49,,<span class='scene-font-katari'>サヴァランの手を取って</span><br><span class='scene-font-katari'>固い握手を交わす</span><br><span class='scene-font-katari'>グリームニルであった。</span>,<span class='scene-font-katari'>格里姆尼尔和萨瓦兰紧紧地握住了手。</span>
+50,ビィ/碧,やれやれ……<br>なんだかよくわかんねぇけど<br>上手く行きそうなんだな！,哎呀哎呀……虽然不是很懂，<br>似乎进展很顺利呢！
+51,ルリア/露莉亚,ううぅ……<br>グリームニルさん、<br>良かったですね～！,呜呜呜……<br>格里姆尼尔，太好了呢~！
+52,グリームニル,ああ！<br>赤き竜と蒼の少女もありがとなー！,啊啊！<br>赤龙和苍之少女，也谢谢你们啊——！
+53,,<span class='scene-font-katari'>こうして、図らずもオリジナリティ</span><br><span class='scene-font-katari'>溢れるチョコレート作りの</span><br><span class='scene-font-katari'>材料を手に入れたグリームニル達。</span>,<span class='scene-font-katari'>就这样，格里姆尼尔他们出乎意料地，</span><br><span class='scene-font-katari'>获得了制作充满独特感巧克力的材料。</span>
+54,,<span class='scene-font-katari'>その日から、グリームニル達は、</span><br><span class='scene-font-katari'>新感覚オリジナルチョコの開発に</span><br><span class='scene-font-katari'>昼夜を問わず努力し続けるのだった。</span>,<span class='scene-font-katari'>从那天开始，格里姆尼尔他们就为了开发出新的特制巧克力，不分昼夜地持续努力着。</span>
+57,グリームニル,くそっ……<br>また失敗だ。,可恶……<br>又失败了。
+58,サヴァラン/萨瓦兰,大丈夫だ……<br>次こそは成功する！,没关系……<br>下次肯定会成功的！
+59,ビィ/碧,ふぃ～、オイラもう……<br>これ以上チョコは食えねぇぜ～,呜诶~我已经……<br>再也吃不下巧克力了~
+60,ルリア/露莉亚,私はまだまだ行けます！<br>私に試食させて下さい！,我还可以继续吃！<br>试吃就交给我吧！
+61,グリームニル,頼むぞ、蒼の少女……！,拜托你了，苍之少女……！
+62,サヴァラン/萨瓦兰,さぁ……<br>次はこの組み合わせを試してみよう！,那么……<br>接下来就试试这个组合吧！
+63,グリームニル,はいっ！,是！
+66,,<span class='scene-font-katari'>それから数え切れないほどの</span><br><span class='scene-font-katari'>試行錯誤を経て、とうとう納得のいく</span><br><span class='scene-font-katari'>仕上がりのチョコにたどり着いた一行。</span>,<span class='scene-font-katari'>在那之后经历了数不胜数的试错，</span><br><span class='scene-font-katari'>一行人终于完成了满意的巧克力。</span>
+67,,<span class='scene-font-katari'>それは、バレンタイン当日の</span><br><span class='scene-font-katari'>朝のことであった。</span>,<span class='scene-font-katari'>那时，已经是情人节当天的早上了。</span>
+68,グリームニル,ついに……<br>ついに完成したぞ！,终于……终于完成了！
+69,サヴァラン/萨瓦兰,ああ……これ以上は無い<br>最高のチョコレートだ！,啊啊……是无与伦比的最棒的巧克力！
+70,グリームニル,うぅ……ありがとう……<br>ミスターサヴァラン……<br>蒼の少女……赤き竜。,呜呜……谢谢你们……<br>萨瓦兰先生……苍之少女……赤龙。
+71,サヴァラン/萨瓦兰,ふっ……<br>私など大したことはしていない。,呼……对我来说只是件小事而已。
+72,サヴァラン/萨瓦兰,お前の熱意が無ければ、<br>決して完成しなかっただろう。,如果没有你的热情，<br>是绝对没法做到的。
+73,ルリア/露莉亚,私は色んなチョコが食べられて<br>とっても楽しかったです！,我也能吃到各种巧克力，<br>很开心呢！
+74,ビィ/碧,へへっ！<br>早いとこ姬塔に<br>渡しに行ってやれって！,嘿嘿！<br>快点去送给姬塔吧！
+75,グリームニル,……ああ！　そうだな！,……啊啊！是啊！
+76,サヴァラン/萨瓦兰,待てっ！　グリームニル！,等等！格里姆尼尔！
+77,,<span class='scene-font-katari'>そのまま姬塔の元に</span><br><span class='scene-font-katari'>向かおうとするグリームニルを</span><br><span class='scene-font-katari'>呼び止めるサヴァラン。</span>,<span class='scene-font-katari'>萨瓦兰叫住了打算就这样去见姬塔的格里姆尼尔。</span>
+78,サヴァラン/萨瓦兰,そんなチョコまみれの格好で<br>姬塔に会いに行くのか？,你打算用那副沾满巧克力的模样去见姬塔吗？
+79,グリームニル,ああ……そのつもりだったけど……,啊啊……我的确是这么打算的……
+80,サヴァラン/萨瓦兰,ふっ……<br>これを持って行け,呼……<br>带上这个去吧。
+81,,<span class='scene-font-katari'>グリームニルに向かって</span><br><span class='scene-font-katari'>何かが入った袋を投げるサヴァラン。</span>,<span class='scene-font-katari'>萨瓦兰把装着什么的袋子丢给了格里姆尼尔。</span>
+82,グリームニル,これは……？,这是……？
+83,サヴァラン/萨瓦兰,……私からのバレンタインの<br>プレゼントといったところか。,……是我送给你的情人节礼物。
+84,グリームニル,ッ……！　<br>いっ、いいのか？　<br>ミスターサヴァラン！,……！<br>我，我可以收下吗？<br>萨瓦兰先生！
+85,サヴァラン/萨瓦兰,礼はいいから、<br>最高のバレンタインにしてこい。,不必道谢，<br>去度过一个最棒的情人节吧。
+86,グリームニル,ああ……わかった！<br>恩に着る。,啊啊……我知道了！<br>感谢你！
+87,グリームニル,よし……<br>姬塔の元へ向かうぞ！,好……去见姬塔吧！
+88,ふたり/两人,<span class='scene-font-4'>おーっ！</span>,<span class='scene-font-4'>噢——！</span>
+89,,<span class='scene-font-katari'>グリームニルは、サヴァランから</span><br><span class='scene-font-katari'>受け取ったプレゼントを手にして、</span><br><span class='scene-font-katari'>姬塔の元へ向かった。</span>,<span class='scene-font-katari'>格里姆尼尔拿着从萨瓦兰那收到的礼物，去往姬塔身边。</span>
+info,,,scene_chr598_q3_s10
+译者,,,

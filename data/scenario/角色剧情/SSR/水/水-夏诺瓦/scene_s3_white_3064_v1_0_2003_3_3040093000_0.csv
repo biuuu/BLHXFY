@@ -1,0 +1,16 @@
+﻿id,name,text,trans
+1,,<span class='scene-font-katari'>朝起きると、部屋のドアに奇妙な鍵が</span><br><span class='scene-font-katari'>かけられていた。姬塔は</span><br><span class='scene-font-katari'>ドアの下に一枚のカードを見つける。</span>,"<br>早上醒来，发现房间的门被上了奇怪的锁。 姬塔在门下找到一张卡片。"
+2,ヒントカード/提示卡片,"<span class='scene-font-italic scene-font-blue scene-font-2'>鍵を開けるキーワード＝</span><br><span class='scene-font-italic scene-font-blue scene-font-2'>Ｔ２，Ｃ３，Ｐ１，Ｐ１，Ｓ９</span><br><span class='scene-font-italic scene-font-blue scene-font-2'>Sincerely, Phantom Thief Chat Noir</span>",“打开锁的关键词 = T 2，C 3，P 1，P 1，S 9 Sincerely，Phantom Thief Chat Noir”
+3,,<span class='scene-font-katari'>姬塔は考えを巡らせる。</span><br><span class='scene-font-katari'>暫くして、小さく微笑むと</span><br><span class='scene-font-katari'>部屋の隅のクローゼットを開けた。</span>,姬塔冥思苦想。 过了一会儿，微微一笑地打开了房间角落的衣橱。
+5,シャノワール/夏诺瓦,おっと……<br>まさか私が隠れていることを<br>見破られていたとはな。,哎呀…… 没想到你竟然看穿了我的藏身之处。
+6,シャノワール/夏诺瓦,まだ鍵を開けていないようだが、<br>私の謎は楽しんでもらえているかな？,你好像还没把锁打开啊，我的谜题你玩得开心吗？
+6-sel1_txt,,<span class='scene-font-katari'>解けたから答えを言いにきた</span>,已经解开了，所以我来告诉你答案了
+6-sel2_txt,,<span class='scene-font-katari'>推理放棄だ！　ヒントは？</span>,放弃推理了！ 有提示吗？
+7,シャノワール/夏诺瓦,あの短時間で……<br>お見逸れしたよ。,在这么短的时间内就…… 我真是小看你了。
+8,シャノワール/夏诺瓦,そう、答えはハッピーだ。<br>解けた瞬間、胸の中がポッと<br>温かくなっただろう？,没错，答案是Happy。 解开谜题的瞬间，胸口也突然感觉暖和了起来吧？
+9,シャノワール/夏诺瓦,フッ、<br>その手は例の物を催促しているのか？<br>ならば期待に応えるとしよう。,哼，那只手是在催促某个东西吗？ 那么就让我来回应你的期待吧。
+10,シャノワール/夏诺瓦,ハハハ！<br>まさか姬塔の口から<br>名探偵の決め台詞が聞けるとはね！,哈哈哈！ 没想到能从姬塔口中听到名侦探的经典台词！
+11,シャノワール/夏诺瓦,ヒントだが、例えばＴ２というのは<br>Ｔから始まる言葉の２文字目のことだ。<br>カードの私の名前は見てくれたかな？,提示，例如，T 2是从 T 开始的词的第二个字母。 你看到卡片上我的名字了吧？
+12,シャノワール/夏诺瓦,謎はゆっくり楽しんでくれればいい。<br>まずは隠れ場所を暴いたことに<br>敬意を表してこれを渡しておこう。,慢慢享受谜题就好了。 不过在那之前，为了对你找到了我的藏身之处表达敬意，就把这个给你吧。
+13,シャノワール/夏诺瓦,ハッピーホワイトデー<br>君の今日という日が<br>素敵でありますように……,白色情人节快乐，希望你的今天无比美妙……
+info,,,scene_s3_white_3064_v1_0_2003_3_3040093000_0

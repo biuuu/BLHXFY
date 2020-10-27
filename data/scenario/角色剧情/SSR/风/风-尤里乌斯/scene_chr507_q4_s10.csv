@@ -1,0 +1,94 @@
+id,name,text,trans
+0-chapter_name,,レヴィオンの英雄,雷维翁的英雄
+0-synopsis,,サントレザン城に戻った後のある深夜、アルベールは書庫にいるユリウスを訪れる。「私の正体は英雄ではなく、父王殺しの罪人だ」と言うユリウスに、「俺もお前も物語の英雄にはなれないが、だからこそ一緒に力を合わせてこの国に尽くすんだ」と語るアルベール。アルベールが去った後、ユリウスは自身に潜む星の力が暴走した時のことを考え、自決の想定をするのだった。,在回到圣特雷森城的某天深夜，阿尔贝尔拜访了在书库的尤里乌斯。尤里乌斯对他说：“我并不是真正的英雄，而是杀死国王的罪人。”而阿尔贝尔说：“正因我们都不是故事中的英雄，所以才要一起为国效力。”阿尔贝尔走后，尤里乌斯想起自己体内星之力暴走的事情，有了自杀的想法。
+1,マイム/麦姆,本当なのか！？<br>アルベール団長とユリウス様が<br>旅先で襲われたというのは……,是真的吗?<br>阿尔贝尔团长和尤里乌斯大人<br>在度假时遭到袭击的事…… 
+2,ミイム/米姆,まだ正確な状況はわからないけど……<br>魔物が放たれていたとか……,我们还不知道具体情况……<br>但是听说有怪物被放出来了……
+4,マウロ/毛洛,……失礼。<br>今のお話、本当ですかな？<br>ご無事だといいが……,……打扰了，真的发生了这种事吗?<br>我希望他们平安无事。
+5,メイム/梅姆,あっ、マウロさん！<br>それは大丈夫ですよ！,马洛勋爵!<br>您不需要担心!
+6,メイム/梅姆,今、魔物をやっつけて<br>帰ってきてる途中だって！,他们击败了怪物，<br>现在正在回来的路上!
+7,マウロ/毛洛,そうでしたか……<br>流石、『レヴィオンの英雄』と<br>讃えられるおふたりだ。,是这样吗……<br>那二位真不愧是被誉为雷维翁英雄的人物啊。
+8,マウロ/毛洛,マイム様、ミイム様、メイム様も<br>どうかお気を付け下さい。,⻨姆、米姆和梅姆三位大人<br>也请多加小心。
+9,マイム/麦姆,マウロ殿……<br>お気遣い、痛み入ります。,马洛勋爵……<br>感谢您的关心。
+10,マウロ/毛洛,では、失礼します。,那么，各位再⻅。
+17,マウロ/毛洛,……フン、ガリアめ。<br>先走りおったか……,哼。加利亚……<br>他倒是行动很快嘛……
+18,マウロ/毛洛,どこまでも単純な奴だ。<br>まあ、扱いやすくていいが。,真是个头脑简单的傻瓜。<br>也好，正因为这样他才很容易被操控。
+19,,<span class='scene-font-katari'>マイム達と別れたマウロは、</span><br><span class='scene-font-katari'>誰もいない廊下を歩きながら、</span><br><span class='scene-font-katari'>不気味にほくそ笑む。</span>,<span class='scene-font-katari'>马洛在空旷的廊间行走着，</span><br><span class='scene-font-katari'>脸上挂着阴险的笑容。</span>
+20,マウロ/毛洛,……やれやれ。<br>英雄の化けの皮が剥がれるのも、<br>時間の問題だな……,那么现在……<br>那些英雄暴露出野兽的真面目，<br>也只是时间问题罢了…… 
+21,マウロ/毛洛,ククク……<br><span class='scene-font-4'>ハハハハハ……！</span>,呵呵……哈哈哈哈!
+22,,<span class='scene-font-katari'>マウロは口の端を</span><br><span class='scene-font-katari'>片方だけ上げて笑いながら、</span><br><span class='scene-font-katari'>廊下の奥に消えていくのだった。</span>,<span class='scene-font-katari'>马洛得意地笑着</span><br><span class='scene-font-katari'>消失在大厅深处。</span>
+28,アルベール/阿尔贝尔,ここにいたのか。<br>……ユリウス。,你在这里啊，<br>尤里乌斯。
+29,,<span class='scene-font-katari'>日付も変わった深夜。</span><br><span class='scene-font-katari'>アルベールはサントレザン城内の</span><br><span class='scene-font-katari'>書庫を訪れていた。</span>,<span class='scene-font-katari'>几天过后的某个夜晚，</span><br><span class='scene-font-katari'>阿尔贝尔来到尤里乌斯位于圣特雷森城堡的书房内。</span>
+34,ユリウス/尤里乌斯,ん……アルベールか。<br>どうした？,嗯……?阿尔贝尔?<br>怎么了吗?
+35,アルベール/阿尔贝尔,ああ……例の件、<br>どうなったかと思ってな。,啊……关于之前的提案，<br>我来看看进展如何。
+36,ユリウス/尤里乌斯,投資先をいくつかに分け、そこに<br>ガリア卿の領地を紛れ込ませてやったら<br>見事にこちらについたよ。,我想把投资分成几份，<br>然后就可以在加利亚勋爵<br>的领地内建设度假村，他同意了这项提议。
+37,ユリウス/尤里乌斯,フッ……治安の件は<br>君達がいるから安心だと掌を返した。<br>現金な男だ。,哼，现在他突然表示有雷维翁骑士在，<br>完全不需要担心治安问题。<br>真是反复无常。
+38,アルベール/阿尔贝尔,そうか……<br>観光地化は進められそうか？,我明白了……<br>创建旅游景点的计划顺利吗?
+39,ユリウス/尤里乌斯,ああ。やはり、現地まで<br>視察に行ったのが良かったね。<br>各所との連携もいたってスムーズさ。,是的。幸亏能去实地考察，<br>和当地的合作非常顺利。 
+40,ユリウス/尤里乌斯,今回の結果をベースに<br>他の温泉地の投資計画も<br>立てられそうだ。,通过这些合作，<br>我们也可以在建设其它温泉上取得进展。
+41,アルベール/阿尔贝尔,そうか……<br>皆に感謝しないとな。,我明白了……<br>那我们也要感谢许多人的帮助。
+42,ユリウス/尤里乌斯,Myu達については、<br>また今度、丁重にもてなすとしよう。<br>ぶどうジュースを御馳走したい。,我们会请姬塔和他的团员们<br>喝最好的葡萄汁。
+43,アルベール/阿尔贝尔,フッ……そいつはいい。<br>早速、醸造所での研究成果が<br>発揮できるな。,哈哈……好主意。<br>你可以赶紧发挥一下你在酿酒厂获得的研究成果了。
+44,アルベール/阿尔贝尔,……ところで、ユリウス。<br>こんな夜更けまで何をしていたんだ？,这么说来，尤里乌斯……<br>你这么晚还在做什么?
+45,ユリウス/尤里乌斯,……これを読んでいたんだ。,我在读这个。 
+46,,<span class='scene-font-katari'>山のように積まれた本の一番上、</span><br><span class='scene-font-katari'>表紙には『サントレザン物語』と</span><br><span class='scene-font-katari'>金色の字で記されていた。</span>,<span class='scene-font-katari'>在案头堆积的书山之上，</span><br><span class='scene-font-katari'>放着一本烫金标题的著作——</span><br><span class='scene-font-katari'>《圣特雷森传说》。</span>
+47,ユリウス/尤里乌斯,……なぁ、エクレール。<br>やはり私はアストリスにはなれないよ。,呐，埃库莱尔……<br>果然我无法成为阿斯特利斯。
+48,アルベール/阿尔贝尔,そんな呼び方はするな。<br>……俺だって、<br>エクレールにはなれないさ。,别这样叫我，<br>……我才是没法成为成为埃库莱尔。
+49,ユリウス/尤里乌斯,だが、民はそう呼ぶだろう。<br>英雄を求めて、時に讃えるように、<br>時に縋るように、私達をそう呼ぶ……,但人们就是这样叫我们的。<br>也许他们想称颂我们，<br>抑或是他们想仰赖于我们。
+52,ガリア隊の隊長/高卢兵队长,真実はいつか明るみになる。<br>その時、果たして今の立場で<br>いられると思うか？,但他们迟早会得知真相的。<br>那时候你又准备站在哪一边呢? 
+53,ガリア隊の隊長/高卢兵队长,それでも民は、<br>貴様を英雄と称するのか？,即使如此，<br>他们会将你称之为英雄吗? 
+56,ユリウス/尤里乌斯,……君は本物のエクレールさ。<br>だが、私の正体は<br>父王殺しの罪人だ……,你是英雄，<br>但我只是个杀害亲生父亲的罪人罢了。
+57,アルベール/阿尔贝尔,違う！　俺から見れば逆だ。<br>お前こそ、民を導く英雄さ。,不!在我看来，<br>你才是引领人民的英雄。
+58,アルベール/阿尔贝尔,俺はエクレールになんて……！,我怎么会是埃库莱尔……！
+59,ユリウス/尤里乌斯,…………,……
+60,アルベール/阿尔贝尔,……なぁ、ユリウス。<br>英雄になる必要など、<br>ないのかもしれないな。,呐，尤里乌斯……<br>我们没有必要成为英雄。
+61,ユリウス/尤里乌斯,……民がそれを求めたとしても？,即使那是大家的期望?
+62,アルベール/阿尔贝尔,そうだ。<br>俺もお前も完璧じゃない。<br>物語の中の英雄にはなれない。,是的。<br>我们并不完美，<br>我们永远不会像故事中的英雄那样。
+63,アルベール/阿尔贝尔,だからこそ、<br>一緒に力を合わせて、<br>この国のために尽くす……,正因如此，一起努力吧，<br>为了我们的王国……
+64,アルベール/阿尔贝尔,ひとりでは無理でも、<br>ふたりならやれる気がしないか？<br>俺とお前の、ふたりでなら。,独自一人无法成事，<br>我们必须携手共进。你和我，两个人的话。
+65,ユリウス/尤里乌斯,アルベール……,阿尔贝尔……
+66,ユリウス/尤里乌斯,……やれやれ。<br>小っ恥ずかしいことを<br>言わないでくれたまえ。,真是的。<br>请不要说这么让人害羞的话。
+67,アルベール/阿尔贝尔,す、すまん。<br>つい熱が入ってな……,不，不好意思。<br>脑袋一下就发热了……
+68,ユリウス/尤里乌斯,まったく……<br>ぶどう酒を煽ってきては<br>いないだろうね？,真是的……<br>是被红酒影响到了吧？
+69,ユリウス/尤里乌斯,だが……<br>君の言うことには一理ある。,但你说的话是对的。
+70,ユリウス/尤里乌斯,英雄を名乗ろうと思うから、<br>気負ってしまう。,成为一名传说中的英雄，<br>这种压力令我不堪重负。
+71,アルベール/阿尔贝尔,俺達の目的はレヴィオンの再興だ。<br>英雄になることじゃない。,我们的目的是复兴雷维翁，<br>并不是成为英雄。
+72,ユリウス/尤里乌斯,そうだな……<br>本当にその通りだ。,是啊……<br>正是如此。
+73,アルベール/阿尔贝尔,……長く話し過ぎたな。<br>俺はもう寝るよ。,……谈太久了。<br>我要回去睡了。
+75,,<span class='scene-font-katari'>去り際、アルベールは振り返り、</span><br><span class='scene-font-katari'>ユリウスに向けて声を掛ける。</span>,<span class='scene-font-katari'>在离开之前，</span><br><span class='scene-font-katari'>阿尔贝尔又一次转身看向尤里乌斯。</span>
+76,アルベール/阿尔贝尔,……何かあれば相談してくれよ。<br>「ひとりで抱え込むな」は、<br>お前の口癖だっただろう？,发生了什么就来找我谈谈吧。<br>“不要一个人背负一切”，是你的口癖吧？
+77,ユリウス/尤里乌斯,……ああ。<br>そうさせてもらうよ、我が親友殿。,确实。从今以后我会这样做的，我的挚友。
+78,アルベール/阿尔贝尔,おやすみ。<br>……あまり夜更かしするなよ。,晚安。不要老是熬夜。
+79,ユリウス/尤里乌斯,相変わらず小言が多いやつだ。<br>……おやすみ。,还是和以前一样话多的家伙……晚安。
+81,ユリウス/尤里乌斯,さて……,那么……
+82,,<span class='scene-font-katari'>ユリウスは『サントレザン物語』を</span><br><span class='scene-font-katari'>どけると、その下にある書物の山に</span><br><span class='scene-font-katari'>目を向ける。</span>,<span class='scene-font-katari'>尤里乌斯移开《圣特雷森传说》，</span><br><span class='scene-font-katari'>将目光放投在它下面的书籍上。 </span>
+83,,<span class='scene-font-katari'>『天雷剣の伝説』、</span><br><span class='scene-font-katari'>『星の零涙に関する研究報告』、</span><br><span class='scene-font-katari'>『星の眼・災害白書』──</span>,<span class='scene-font-katari'>《天雷剑的传奇》、《星之零泪的研究》</span><br><span class='scene-font-katari'>和《星之眼灾害报告》摊放在书桌上。</span>
+84,ユリウス/尤里乌斯,書物から得られる情報はもう無い……<br>あとは実験を繰り返し、<br>「抑える」方法を模索しなければ……,这其中并没有任何有价值的信息……<br>我只能通过无数次实验来寻找抑制的方法……
+90,？？？,<span class='scene-font-gray'>クフフ……</span><br><span class='scene-font-gray'>理解させたければ、</span><br><span class='scene-font-gray'>「力」を振るいたまえ。,<span class='scene-font-gray'>哈哈哈，</span><br><span class='scene-font-gray'>用力量迫使他们理解吧。
+91,？？？,<span class='scene-font-gray'>言葉は何も拓かず、誰も導かない。</span><br><span class='scene-font-gray'>全てを変えるのは「力」なのだ……</span>,<span class='scene-font-gray'>话语毫无意义，</span><br><span class='scene-font-gray'>唯有力量方可主宰一切。</span>
+92,？？？,<span class='scene-font-gray'>さぁ、解放しろ……</span><br><span class='scene-font-4 scene-font-gray'>解放しろ解放しろ解放しろッ！</span>,<span class='scene-font-gray'>来吧……解放我吧!</span><br><span class='scene-font-gray'</span>解放我吧!解放我吧!</span>
+93,ユリウス/尤里乌斯,もう……<br>血を、流す……わけには……！,已经…<br>不需要任何人……流血……
+94,ユリウス/尤里乌斯,<span class='scene-font-4'>あぁあああああっ！！</span>,<span class='scene-font-4'>啊啊啊啊啊!!!</span>
+100,ユリウス/尤里乌斯,<span class='scene-font-kokoro'>（あの時のようなことは、二度と……）</span>,<span class='scene-font-kokoro'>(我绝不允许这样的事再次发生……) </span>
+101,ユリウス/尤里乌斯,……さて。<br>もうひと踏ん張りするかな。,好吧……<br>我再坚持一会。
+102,,<span class='scene-font-katari'>ユリウスが取りだした書類の表紙には、</span><br><span class='scene-font-katari'>『温泉地投資範囲の拡大について』と</span><br><span class='scene-font-katari'>記されていた。</span>,<span class='scene-font-katari'>尤里乌斯拿出一份</span><br><span class='scene-font-katari'>名为“扩建温泉度假村”的文件。</span>
+103,ユリウス/尤里乌斯,ガリア卿のような諸侯にも<br>歩み寄らなければ、<br>平和な再興は望めない、か……,如果不愿与加利亚勋爵这样的人妥协，<br>也就无法期待一条和平的复兴之路……
+107,？？？,<span class='scene-font-gray'>剣を手に取れ……</span><br><span class='scene-font-gray'>邪魔者は排除しろ……！</span>,<span class='scene-font-gray'>拿起剑吧……</span><br><span class='scene-font-gray'>阻碍你的人，全部杀光就好!</span>
+108,ユリウス/尤里乌斯,ぐぅっ……！？,呜……！？
+112,？？？,<span class='scene-font-gray'>思い出せ……</span><br><span class='scene-font-gray'>力を振るう快感を……！</span>,<span class='scene-font-gray'>回想起来吧……</span><br><span class='scene-font-gray'>拥有力量是何等滋味! </span>
+113,？？？,<span class='scene-font-gray'>父王を殺めた時の恍惚……</span><br><span class='scene-font-gray'>仄暗く、温かな、感傷……</span><br><span class='scene-font-gray'>君の原点はそこにあるのだ……！</span>,<span class='scene-font-gray'>回想起谋杀你亲生父亲时的狂喜……</span><br><span class='scene-font-gray'>深藏于其中的黑暗是如此温暖……这就是你的本性! </span>
+114,ユリウス/尤里乌斯,そんなもの……！<br>私の中にはっ……！,这种东西，<br>在我的体内……
+115,ユリウス/尤里乌斯,<span class='scene-font-4'>がぁああああああっ……！</span>,<span class='scene-font-4'>啊啊啊啊啊!</span>
+116,,<span class='scene-font-katari'>ひとりきりの書庫で、</span><br><span class='scene-font-katari'>苦悶の声をあげるユリウス。</span>,<span class='scene-font-katari'>在只有一人的书房里，</span><br><span class='scene-font-katari'>尤里乌斯发出了痛苦的呻吟。</span>
+117,,<span class='scene-font-katari'>その腰から一本、</span><br><span class='scene-font-katari'>自在にしなる腕のような影が飛び出す。</span>, <span class='scene-font-katari'>尤里乌斯的腰间伸出了一道阴影，</span><br><span class='scene-font-katari'>仿佛像手臂一样自由活动。</span>
+123,,<span class='scene-font-katari'>それは、紛れもなく触手だった。</span>,<span class='scene-font-katari'那东西，</span><br><span class='scene-font-katari'毫无疑问是一条触手。</span>
+129,ユリウス/尤里乌斯,はぁ……はぁ……,哈……哈……
+130,ユリウス/尤里乌斯,……フッ、触手のある英雄なんて<br>聞いたこともないな。,哼……<br>我可没听说过会长触手的英雄。
+131,ユリウス/尤里乌斯,……英雄でなくてもいいさ。<br>だが、私は生きなければならない。,……就算不是英雄也无所谓。<br>不管怎样，我必须活下去。
+132,ユリウス/尤里乌斯,死してなお償えぬ、<br>罪を贖うために……！,死亡不会弥补任何罪责……
+133,,<span class='scene-font-katari'>ユリウスが触手を撫でると、</span><br><span class='scene-font-katari'>その影は体内に引っ込んだ。</span>,尤里乌斯轻抚触手，<br>它缓缓缩回了尤里乌斯体内。</span>
+134,ユリウス/尤里乌斯,だが……<br>万一を考えねば研究者とは言えない。<br>もしコイツが暴走した際は──,但如果我不能做好最坏打算，<br>我也不配称为研究者。<br>一旦情况继续失控下去…… 
+135,ユリウス/尤里乌斯,速やかに自決できるよう、<br>準備を進めねばな……,为了能够快速了结我自己，<br>我得准备一下……
+136,,<span class='scene-font-katari'>窓の外には黒雲が広がり、</span><br><span class='scene-font-katari'>雷鳴が轟いている。</span>,<span class='scene-font-katari'>在他窗外，</span><br><span class='scene-font-katari'>夜色正被不详的黑云所笼罩，</span><br><span class='scene-font-katari'>天空中传来闪电的怒吼。</span>
+137,,<span class='scene-font-katari'>それは、レヴィオン王国では</span><br><span class='scene-font-katari'>実に見慣れた風景だった。</span>,<span class='scene-font-katari'>但这已是雷维翁司空见惯的景象。</span>
+info,,,scene_chr507_q4_s10
+译者,,,Atropa

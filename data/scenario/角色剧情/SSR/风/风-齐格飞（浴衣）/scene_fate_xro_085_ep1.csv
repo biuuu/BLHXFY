@@ -1,0 +1,143 @@
+id,name,text,trans
+0-chapter_name,,それぞれの想いを込めて,それぞれの想いを込めて
+0-synopsis,,ある祭り会場で迷子の母親を探すことになった姬塔一行。途中、酔った中年と出会ったジークフリートは、家族への接し方に悩む中年を力づけ、中年は決意を固める。一方、迷子の母親を見つけたユイシスは、母親から離婚した夫とやり直すことへの不安を聞き励ましてやる。合流後、ユイシスから話を聞いたジークフリートは、中年が迷子の母親の夫であると気づき微笑むのだった。,姬塔一行人在某个祭典中帮助走丢的孩子寻找母亲。途中，齐格飞遇见了一位醉酒的中年人。他鼓舞了正在烦恼如何面对家人的中年人，让他下定了决心。另一方面，优希斯找到了孩子的母亲。听说她因为要和离婚的丈夫复合而感到不安，便鼓励了她。汇合后，齐格飞听了优希斯的话，意识到中年人就是那孩子的母亲，默默地微笑。
+2,,<span class='scene-font-katari'>とある街で、</span><br><span class='scene-font-katari'>祭り会場の警備を引き受けた</span><br><span class='scene-font-katari'>姬塔一行。</span>,<span class='scene-font-katari'>在某条街上，</span><br><span class='scene-font-katari'>姬塔一行人正在负责维护祭典会场的警备。</span>
+3,,<span class='scene-font-katari'>祭りの盛り上がりに水を差さぬよう、</span><br><span class='scene-font-katari'>団員達はユカタヴィラ姿で</span><br><span class='scene-font-katari'>警備にあたる。</span>,<span class='scene-font-katari'>为了不破坏祭典的气氛，</span><br><span class='scene-font-katari'>团员们都穿上了浴衣</span><br><span class='scene-font-katari'>在四处警备。</span>
+4,,<span class='scene-font-katari'>特に大きなトラブルも起きず、</span><br><span class='scene-font-katari'>そろそろ祭りも終わりの時間に</span><br><span class='scene-font-katari'>差しかかろうという時だった。</span>,<span class='scene-font-katari'>祭典上并没与发生什么事故，</span><br><span class='scene-font-katari'>再过不久祭典就要结束了。</span>
+5,ユイシス/优希斯,え？<br>あの子、ひとりで……,诶？<br>那孩子，一个人……
+6,迷子の子供,ひっく……っく……,呜呜……呜……
+7,,<span class='scene-font-katari'>ユイシスは祭りの人混みの中に、</span><br><span class='scene-font-katari'>ひとりで泣きじゃくる男の子を見つけ、</span><br><span class='scene-font-katari'>そのそばに駆け寄る。</span>,<span class='scene-font-katari'>优希斯在祭典上混杂的人群之中，</span><br><span class='scene-font-katari'>发现了一个正独自一人抽泣的男孩子，</span><br><span class='scene-font-katari'>向他走去。</span>
+11,ユイシス/优希斯,どうしたの、君？,你怎么了，小弟弟？
+12,迷子の子供,ひっく……うぅ、おかあさんが……<br>いなくて……,呜呜……呜，妈妈……<br>不见了……
+13,ジークフリート/齐格飞,ふむ……迷子か。<br>この人ごみだ。<br>はぐれてしまっても無理はない。,嗯……走丢了吗。<br>这里人这么多。<br>会和家人走散也不奇怪。
+14,ユイシス/优希斯,きっと母親も<br>探しているとは思いますが、<br>見つけるのは簡単ではなさそうですね。,我想他的母亲一定也在找他，<br>但是要在这里找人可不是件容易的事啊。
+15,ジークフリート/齐格飞,ああ……<br>だが迷子を放っておいては、<br>何か事件に巻き込まれるかもしれない。,啊啊……<br>但要是放着这孩子不管，<br>可能会被卷入什么麻烦的。
+16,ジークフリート/齐格飞,姬塔。<br>俺達で母親を探してやろう、<br>これも警備の仕事の範疇だろう。,姬塔。<br>我们去帮他寻找母亲吧，<br>这也是警卫分内的工作。
+16-sel1_txt,,<span class='scene-font-katari'>うん、探してあげよう</span>,<span class='scene-font-katari'>嗯，去找吧</span>
+17,ジークフリート/齐格飞,なぁに……安心しろ。<br>お前の母親は必ず見つけ出してみせる。,没事的……放心吧。<br>我们一定会帮你找到母亲的。
+18,迷子の子供,ひっく……う、うん……,呜呜……嗯、嗯……
+19,ユイシス/优希斯,では、手分けして探しましょう。<br>ただ、この子の面倒も<br>誰かが見てないと……,那么，我们就分头去找吧。<br>只是，也得有人照看这孩子才行……
+20,迷子の子供,あのぉ……,那个……
+21,,<span class='scene-font-katari'>泣き止んだ子供は何かを言おうとするも</span><br><span class='scene-font-katari'>しかし上手く言葉にすることが</span><br><span class='scene-font-katari'>できないようだった。</span>,<span class='scene-font-katari'>不再哭泣的孩子似乎想要说些什么，</span><br><span class='scene-font-katari'>但又没办法好好表达的样子。</span>
+22,,<span class='scene-font-katari'>そして子供はジークフリートの</span><br><span class='scene-font-katari'>ユカタヴィラの裾を掴むと、</span><br><span class='scene-font-katari'>うつむいてしまう。</span>,<span class='scene-font-katari'>然后，孩子抓住了齐格飞的浴衣下摆，</span><br><span class='scene-font-katari'>低下了头。</span>
+23,ジークフリート/齐格飞,やれやれ……<br>どうやらこの手は、<br>放してもらえそうにないな。,哎呀哎呀……<br>看来你是不愿意放手了呢。
+24,ビィ/碧,ははっ！<br>気に入られちまったみたいだな。,哈哈！<br>他似乎很喜欢你呢。
+25,ジークフリート/齐格飞,そうだな……<br>この子の面倒は、<br>ひとまず俺が見るとしよう。,是呢……<br>那这孩子就先交给我来照看吧。
+26,迷子の子供,あ、ありがと……<br>トカゲさん……,谢，谢谢你……<br>蜥蜴先生……
+27,ビィ/碧,うえぇ！！　なんだよ！？<br>なんでオイラの尻尾も<br>掴んでんだ！？,呜诶诶！！　干嘛呀！？<br>为啥要抓我的尾巴！？
+28,,<span class='scene-font-katari'>子供はビィのことも気に入ったらしく、</span><br><span class='scene-font-katari'>尻尾を掴んで離そうとしない。</span>,<span class='scene-font-katari'>孩子似乎也很喜欢碧，</span><br><span class='scene-font-katari'>抓住他的尾巴就不愿松手。</span>
+29,ビィ/碧,はぁ……これじゃあオイラも、<br>こっちに残るしかねーな。,哈……这样的话我也只能一起留在这了。
+30,ジークフリート/齐格飞,ああ、助かる。,啊啊，谢谢。
+31,ユイシス/优希斯,私は母親を探しに行きます。<br>姬塔も一緒に来てくれる？,那我去寻找母亲。<br>姬塔也和我一起来吗？
+31-sel1_txt,,<span class='scene-font-katari'>もちろん！</span>,<span class='scene-font-katari'>当然了！</span>
+33,ルリア/露莉亚,はい！<br>早くお母さんを<br>見つけてあげましょう！,是！<br>尽快找到他的母亲吧！
+34,,<span class='scene-font-katari'>こうして姬塔は</span><br><span class='scene-font-katari'>ジークフリート達に子供を任せ、</span><br><span class='scene-font-katari'>ユイシスと共に母親を探しに出る。</span>,<span class='scene-font-katari'>就这样，姬塔将孩子交给了齐格飞和碧，</span><br><span class='scene-font-katari'>和优希斯一同前去寻找母亲。</span>
+40,,<span class='scene-font-katari'>姬塔達が母親を探しに出た後、</span><br><span class='scene-font-katari'>しばらくジークフリート達が</span><br><span class='scene-font-katari'>手持無沙汰にしていた時だった。</span>,<span class='scene-font-katari'>在姬塔等人出发去寻找母亲后，</span><br><span class='scene-font-katari'>齐格飞等人便一时半会闲了下来。</span>
+41,酔った中年,な……！　この野郎！<br>やるってぇのかぁ！,喂……！　你这混账！<br>想打架吗！
+42,酔った青年,くっ……ざけんじゃねぇ！<br>そっちがその気ならやってやるぞ！,可恶……开什么玩笑！<br>你要是想打架我可奉陪到底！
+43,ジークフリート/齐格飞,ふむ……<br>酔客同士の喧嘩か……,嗯……<br>醉鬼吵架吗……
+44,迷子の子供,ひっ……！,咿……！
+45,,<span class='scene-font-katari'>先程まで笑顔だった子供は</span><br><span class='scene-font-katari'>喧嘩の様子を見て怯え始め、</span><br><span class='scene-font-katari'>周りの人々も迷惑そうにしている。</span>,<span class='scene-font-katari'>刚刚还面带笑容的孩子看到醉汉们的争执后，开始害怕。周围的人们也感到不安。</span>
+46,酔った青年,くそっ……本当にやってやるよ！<br>ぶっ殺してやる！,可恶……我要来真的了！<br>我杀了你！
+47,,<span class='scene-font-katari'>酔っぱらいの青年は</span><br><span class='scene-font-katari'>足元に転がっているビンを手に取り、</span><br><span class='scene-font-katari'>酔っぱらいの中年に向けて構える。</span>,<span class='scene-font-katari'>醉酒的青年踉踉跄跄地拿起酒瓶，</span><br><span class='scene-font-katari'>对着另一个醉醺醺的中年人摆好架势。</span>
+48,ビィ/碧,お、おい……！<br>さすがにまずいんじゃ──,喂，喂……！<br>这不太妙吧──
+52,ジークフリート/齐格飞,おい、いくら酔っているとはいえ<br>こんなもので殴れば<br>相手はただでは済まないだろう。,喂，就算你们醉成这样，<br>用这种东西打人的话，<br>对方可非死即伤啊。
+53,,<span class='scene-font-katari'>酔っ払いの青年が振り下ろしたビンを</span><br><span class='scene-font-katari'>ジークフリートが受け止めていた。</span>,<span class='scene-font-katari'>齐格飞阻止了醉酒青年挥下的酒瓶。</span>
+54,酔った青年,ちっ……うるせぇ！<br>テメェもやるってんなら相手に──,嘁……吵死了！<br>你要是也想打架我就——
+57,,<span class='scene-font-katari'>ジークフリートが掴んだビンを引くと</span><br><span class='scene-font-katari'>酔っぱらいの青年も一緒に引っ張られ、</span><br><span class='scene-font-katari'>体勢を崩して地面に転がった。</span>,<span class='scene-font-katari'>齐格飞抓住酒瓶一拉，</span><br><span class='scene-font-katari'>醉酒的青年就失去了平衡，</span><br><span class='scene-font-katari'>摔倒在地上。</span>
+58,酔った青年,くっ……！？<br>いってぇな……この野郎……,咕……！？<br>痛死了……你这混账……
+59,,<span class='scene-font-katari'>酔っぱらいの青年は近くに落ちている</span><br><span class='scene-font-katari'>別のビンに手を伸ばす。しかしそれも</span><br><span class='scene-font-katari'>先にジークフリートが拾い上げた。</span>,<span class='scene-font-katari'>醉酒的青年伸手去拿另一个掉在近处的酒瓶。</span><br><span class='scene-font-katari'>但是在得手之前就被齐格飞抢先了。</span>
+60,酔った青年,なっ……,什……
+61,ジークフリート/齐格飞,さて、このビンも片付けておこう。<br>誰かが躓いて<br>怪我をするかもしれないからな。,好了，这个酒瓶我也处理吧。<br>要是谁被绊倒<br>受伤了可就不好了。
+62,ジークフリート/齐格飞,そういうわけで、<br>お前も気を付けることだ。,总而言之，<br>你也注意点吧。
+63,,<span class='scene-font-katari'>ジークフリートはビンを拾うように</span><br><span class='scene-font-katari'>酔っぱらいの青年を軽々と持ち上げ、</span><br><span class='scene-font-katari'>その場に立たせてやる。</span>,<span class='scene-font-katari'>齐格飞像是捡瓶子一样，</span><br><span class='scene-font-katari'>轻松地就拎起了醉酒的青年，</span><br><span class='scene-font-katari'>让他站在原地。</span>
+65,酔った青年,……はっ！？<br>なんて力……ウソだろ……,……哈！？<br>这什么力气……不是吧……
+66,ジークフリート/齐格飞,それで、何をやると言うんだ？,好了，你刚才是说了打架什么的吗？
+67,酔った青年,ひぃぃいいい！<br>ご、ごめんなさいぃぃ～！,咿————————！<br>对，对不起～！
+71,ジークフリート/齐格飞,まったく……<br>酔った勢いに任せて喧嘩とはな。<br>早く酔いが覚めて反省すればいいが……,真是的……<br>借着酒劲就去四处惹事。<br>但愿他能快点醒酒好好反省……
+72,酔った中年,くっ……ちくしょう……<br>俺は酔ってねぇ……<br>酔っちゃいねぇんだよ…………,咕……可恶……<br>我可没醉……<br>我可没醉啊…………
+73,ジークフリート/齐格飞,やれやれ。<br>しかし気を付けることだ、<br>次は怪我をするかもしれないぞ。,哎呀哎呀。<br>不管怎样还是要小心，<br>下次再这样说不定会受伤的。
+74,酔った中年,くそっ、分かっちゃいるけどよぉ……<br>でも俺は昔からこんなんで……<br>おかげで女房には逃げられちまうし……,可恶，这我都知道……<br>但是我从以前就是这样……<br>结果老婆也给跑了……
+75,,<span class='scene-font-katari'>男は自らの身の上を語り始めた。</span><br><span class='scene-font-katari'>それによれば、別れた妻と和解し、</span><br><span class='scene-font-katari'>また一緒に暮らすことになったという。</span>,<span class='scene-font-katari'>男人开始讲述自己的境遇。</span><br><span class='scene-font-katari'>据他所说，他似乎和分别的妻子和解，</span><br><span class='scene-font-katari'>并再次住在了一起。</span>
+76,酔った中年,しかし別れる前に女房は身ごもっていて<br>別れてから子供を生んだらしいんだ。<br>俺は最近になってそれを知って……,但是在分开前妻子似乎就怀有身孕，<br>再分开之后才生下了孩子。<br>我也是最近才知道的……
+77,酔った中年,そりゃあ子供は大切にしてやりてぇよ。<br>でも家族としてやっていけるのか<br>自信が持てなくて……,我当然想要好好珍惜我的孩子了。<br>但是我没有自信胜任他的家人……
+78,ジークフリート/齐格飞,ふむ……大切なものができたが、<br>どうやってその責任を果たせばいいか<br>悩んでいるといったところか。,嗯……你虽然拥有了重要的事物，<br>但是你正在烦恼<br>应该如何去为之尽职尽责，对吧。
+79,酔った中年,あ、ああ……,啊，是的……
+80,ジークフリート/齐格飞,そうか。俺に子供はいないが……<br>大切なものを守りたいという<br>気持ちは理解できる。,这样啊。虽然我没有孩子……<br>但是我能理解，<br>你想要守护珍贵之物的心情。
+81,酔った中年,なぁ……教えてくれよ……<br>俺はどうすりゃいいってんだ……,呐……请告诉我吧……<br>我应该怎么做才好……
+82,ジークフリート/齐格飞,そうだな……想いがあるなら、<br>何が起ころうとも成し遂げる。<br>その覚悟を持って行動することだ。,如果你有这份心的话，<br>不管发生什么，都一定要将其实现。<br>抱着这份觉悟去行动吧。
+83,酔った中年,しかし……覚悟って……<br>そんなこと言われても、<br>俺にはよく分からねぇ……,但是……觉悟什么的……<br>就算你这么说，<br>我也不是很懂……
+84,ジークフリート/齐格飞,では、すべて忘れてしまい、<br>もう気にしなければいいだろう。,那么，就请忘掉这一切，<br>别再去想了吧。
+85,ジークフリート/齐格飞,そしてこの先、お前の妻や子供が<br>どんな困難に出くわしても<br>何もしてやる必要はない。,从今以后，<br>不管你的妻子和孩子遇到什么困难，<br>你也什么都不用做。
+86,酔った中年,おい！　ふざけんじゃねぇ！<br>あいつが……あいつらが困ってるなら<br>放っておけるわけねぇだろ！,喂！　开什么玩笑！<br>她……她要是遇到麻烦的话，<br>我怎么可能放着不管！
+87,,<span class='scene-font-katari'>男は眉を吊り上げ怒鳴り散らすが、</span><br><span class='scene-font-katari'>その様子を見つめるジークフリートは</span><br><span class='scene-font-katari'>穏やかな笑みを浮かべるのだった。</span>,<span class='scene-font-katari'>看着男人火烧眉毛怒号的模样，</span><br><span class='scene-font-katari'>齐格飞露出了沉稳的微笑。</span>
+88,ジークフリート/齐格飞,ああ、その意気だ。<br>それだけの強い想いを持っているなら、<br>きっと成し遂げられるだろう。,没错，就是这种气势。<br>只要你一直怀有这份强烈的意志，<br>就一定能够实现的。
+89,酔った中年,あんた……<br>もしかしてわざと……,你……<br>难道是故意的……
+90,ジークフリート/齐格飞,どうだ？<br>覚悟は持てそうか？,怎么样？<br>做好觉悟了吗？
+91,,<span class='scene-font-katari'>ジークフリートが問いかけると、</span><br><span class='scene-font-katari'>男の瞳に次第に力強い光が宿り始める。</span><br><span class='scene-font-katari'>そして男は静かに拳を握った。</span>,<span class='scene-font-katari'>听过齐格飞的话后，</span><br><span class='scene-font-katari'>男人的眼瞳中燃起了强烈的光芒，</span><br><span class='scene-font-katari'>然后，他静静地握紧了拳头。</span>
+92,酔った中年,ああ……俺がやらないとな……<br>もう酒なんか飲んでる場合じゃねぇ。<br>あいつらのために……頑張るよ！,没错……我必须行动起来……<br>已经不是喝酒的时候了。<br>为了他们……我得加油！
+93,ジークフリート/齐格飞,そうか……<br>それは良かった。,是吗……<br>那真是太好了。
+94,,<span class='scene-font-katari'>ジークフリートが手を差し伸べる。</span><br><span class='scene-font-katari'>男はその手を取って立ち上がると、</span><br><span class='scene-font-katari'>確かな足取りで去って行くのだった。</span>,<span class='scene-font-katari'>齐格飞伸出手，</span><br><span class='scene-font-katari'>握住男人的手将他扶起后，</span><br><span class='scene-font-katari'>男人便踏着坚定的步伐离去了。</span>
+95,ビィ/碧,へへっ、あのおっちゃん、<br>バッチリ目が覚めたみてぇだぜ。<br>アレならもう大丈夫だな！,嘿嘿，那个大叔，<br>完全清醒过来了呢。<br>看样子是没问题了！
+96,ジークフリート/齐格飞,ふむ……<br>そうなるよう期待している。,嗯……<br>我也期待他的未来。
+100,,<span class='scene-font-katari'>一方、迷子の子供の母親を探す</span><br><span class='scene-font-katari'>姬塔達は、その途中で</span><br><span class='scene-font-katari'>ナンパ男から女性を助けていた。</span>,<span class='scene-font-katari'>另一方面，在帮迷路的孩子寻找母亲的姬塔等人，</span><br><span class='scene-font-katari'>在途中帮助了被搭讪男缠上的女性。</span>
+101,ユイシス/优希斯,──待ちなさい。<br>これ以上、絡むようでしたら、<br>オトシマエをつけて貰いますよ。,──给我等一下。<br>你要是再缠着她，<br>就别怪我不客气了。
+102,ユイシス/优希斯,貴方に、その覚悟はあるのですか？,您，做好觉悟了吗？
+103,ナンパ男,ひぃぃいいい！<br>すいませーん！！,咿————！<br>对不起——！！
+105,,<span class='scene-font-katari'>ナンパ男はユイシスの迫力に圧倒され、</span><br><span class='scene-font-katari'>情けない声を出しながら</span><br><span class='scene-font-katari'>逃げ去って行った。</span>,<span class='scene-font-katari'>搭讪男被优希斯的魄力所压倒，</span><br><span class='scene-font-katari'>一边发出丢人的声音，</span><br><span class='scene-font-katari'>一边逃走了。</span>
+106,穏やかな女性,ありがとうございます。<br>おかげで助かりました。,谢谢你们。<br>多亏你们，我得救了。
+107,ユイシス/优希斯,ふふっ、これが私達の仕事ですから。<br>困ったことがあったら、<br>なんでも言ってください。,呵呵，这是我们分内的事情。<br>要是有什么困扰，<br>请尽管说。
+108,穏やかな女性,はい……あっ！<br>そうだ、うちの子を見ませんでしたか？,是……啊！<br>对了，请问你们有没有看到我家的孩子？
+109,穏やかな女性,その……この人混みの中で<br>はぐれてしまったんです。<br>服装は緑色の帽子をかぶっていて……,那个……我和他在人潮中走散了。<br>他戴着绿色的帽子……
+110,ユイシス/优希斯,それは、もしかして……<br>あの迷子の……？,难道说……<br>是那个走丢了的……？
+111,,<span class='scene-font-katari'>姬塔達は女性に事情を話し、</span><br><span class='scene-font-katari'>迷子の子が待つ</span><br><span class='scene-font-katari'>ジークフリート達のもとへ案内する。</span>,<span class='scene-font-katari'>姬塔等人和女性说明情况，</span><br><span class='scene-font-katari'>带领她前往与走失的孩子在一起的齐格飞那里。</span>
+115,穏やかな女性,その……あの子の様子は<br>どうでしょうか？,那个……那孩子<br>他还好吗？
+116,ユイシス/优希斯,ふふっ、安心してください。<br>お子さんは大人しく、<br>良い子にして待っていますよ。,呵呵，请您放心。<br>那孩子很听话，<br>正在乖乖等您呢。
+117,穏やかな女性,まぁ……本当ですか？<br>良かった……,呀……是真的吗？<br>太好了……
+118,,<span class='scene-font-katari'>言葉ではそう言うが、</span><br><span class='scene-font-katari'>女性はどこか浮かない顔をしていた。</span>,<span class='scene-font-katari'>话虽如此，</span><br><span class='scene-font-katari'>女性似乎仍然有些愁眉苦脸的样子。</span>
+119,ユイシス/优希斯,あの……<br>他に何か気になることがあるのですか？,那个……<br>还有什么在意的事情吗？
+120,穏やかな女性,ええ。こんなことを人に話すべきでは<br>ないのかもしれないけど……<br>ずっと心配していることがあって……,是的。虽然这种事或许不该随便和人讲……<br>但是我一直很担心……
+121,,<span class='scene-font-katari'>女性は以前に別れた夫と</span><br><span class='scene-font-katari'>やり直すことになったが、</span><br><span class='scene-font-katari'>その胸中には拭えぬ不安があった。</span>,<span class='scene-font-katari'>女性虽然和以前分开的丈夫复合了，</span><br><span class='scene-font-katari'>但是她的心中仍有消逝不去的不安。</span>
+122,穏やかな女性,その……<br>あの子は別れた後に生まれたので、<br>夫は子供の顔も見たことがなくて……,那个……<br>因为那孩子是在我们分开后才出生的，<br>我丈夫连孩子的脸都没见过……
+123,穏やかな女性,しかし、彼はすべてを承知の上で<br>やり直そうと言ってくれました。,但是，他尽管知道了一切真相，<br>仍然愿意和我复合。
+124,穏やかな女性,でも、やっぱり負担だと思うんです。<br>それならいっそやり直さない方が<br>いいのかと思って……,但是，我觉得这对他来说一定是种负担。<br>如果是这样的话，<br>我宁愿不和他复合……
+125,ユイシス/优希斯,いえ……<br>そんなことはないと思います。,不……<br>我觉得不是这样的。
+126,ユイシス/优希斯,その……家族だからこそ迷惑を<br>かけてもいいのではないでしょうか？,那个……正因为你们是一家人，<br>所以稍微麻烦一下彼此，也是没关系的吧？
+127,穏やかな女性,それは……,那是……
+128,ユイシス/优希斯,私も昔、似たことを考えていました。<br>家族に尽くすのが私の役目であり、<br>迷惑をかけることは許されないと……,我曾经也想过同样的事情。<br>为家族效力才是我的使命，<br>绝不能允许自己为家人添麻烦。
+129,ユイシス/优希斯,だから私はずっと<br>姬塔達に遠慮していました。,所以我一直<br>都对姬塔他们非常客气。
+130,ユイシス/优希斯,だけど、それは未熟な考え方でした。<br>そのことを私は姬塔達から<br>教えてもらったのです。,但是，那是一种不成熟的思考方式。<br>是姬塔他们教会了我这一点。
+131,ユイシス/优希斯,私が遠慮したままでは、<br>本当の家族になれない。<br>もっと甘えて、迷惑をかけてもいい……,我如果一直这样客气，<br>就永远成为不了真正的家人。<br>多撒撒娇，多依赖一下大家也是可以的……
+132,ユイシス/优希斯,それが本当の家族になる<br>ということだと……,那才算得上<br>成为了真正的家人……
+133,,<span class='scene-font-katari'>ユイシスは昔の自分を思い出し、</span><br><span class='scene-font-katari'>無意識に言葉に力がこもった。</span>,<span class='scene-font-katari'>优希斯想起了以前的自己，</span><br><span class='scene-font-katari'>无意间，她的话语中充满了力量。</span>
+134,,<span class='scene-font-katari'>その話を聞いていた女性は</span><br><span class='scene-font-katari'>初めこそ驚いた様子だったが、</span><br><span class='scene-font-katari'>最後には笑顔を見せるのだった。</span>,<span class='scene-font-katari'>女性听着她的话，</span><br><span class='scene-font-katari'>虽然一开始很惊讶，</span><br><span class='scene-font-katari'>最后却露出了笑容。</span>
+135,穏やかな女性,うふふふ、そうよね。<br>始める前から諦めるなんて……<br>あの子のためにもしっかりしないと。,呵呵呵，也是啊。<br>在开始之前就放弃可不行……<br>为了那孩子，我也得振作起来。
+142,,<span class='scene-font-katari'>ユイシス達が連れ帰った女性を見ると、</span><br><span class='scene-font-katari'>迷子の子供は顔をくしゃくしゃにし、</span><br><span class='scene-font-katari'>駆け寄って飛びついた。</span>,<span class='scene-font-katari'>一看见优希斯等人身边的女性，</span><br><span class='scene-font-katari'>走散的孩子便笑眯眯地冲进她怀里。</span>
+143,,<span class='scene-font-katari'>無事に再会を果たせた親子は、</span><br><span class='scene-font-katari'>ユイシス達、ジークフリート達、</span><br><span class='scene-font-katari'>全員に丁寧に礼を言って去って行った。</span>,<span class='scene-font-katari'>优希斯和齐格飞等人看着平安再会的母子，</span><br><span class='scene-font-katari'>礼貌地与他们道别。</span>
+144,ルリア/露莉亚,うふふ、良かったですね。<br>あの子もちゃんとお母さんと会えて。,呵呵呵，太好了呢。<br>那孩子好好地和母亲相会了。
+145,ユイシス/优希斯,ええ。<br>特にトラブルもなかったし……,是的。<br>也没出现什么麻烦。
+146,ビィ/碧,ああ！<br>オイラ達の方も<br>大きな問題はなかったぜ。,啊啊！<br>我们这边也没什么大问题。
+147,ルリア/露莉亚,ふふっ、でもさっきは凄かったです。<br>ユイシスさんの言葉……<br>私、感動しちゃいました。,呵呵，但是刚才真是好厉害呀。<br>优希斯的话语……<br>我很感动。
+148,ユイシス/优希斯,あれは貴方達が……,那是因为你们……
+154,ユイシス/优希斯,私は姬塔の家族よ。,我是姬塔的家人啊。
+155,ユイシス/优希斯,だからこそ、姬塔の<br>そばにいるし、家族の代表である<br>姬塔に尽くすわ。,所以，为了做好家庭的表率，<br>我会为姬塔效忠。
+156,ユイシス/优希斯,でも、その逆はダメ。<br>私が姬塔に迷惑を<br>かけるのは許されないの！,但是，你不能这样。<br>我可不允许自己给姬塔添麻烦！
+157,ビィ/碧,ん？　どうしてだよ？,呃？　这是为什么？
+158,ユイシス/优希斯,え、だ、だって、<br>姬塔を信頼して<br>従うのが下の役目でしょ？,诶，因，因为，<br>去信赖姬塔，<br>听从姬塔的命令才是部下的职责吧？
+158-sel1_txt,,<span class='scene-font-katari'><span class='scene-font-katari'>それは家族じゃないと思う</span></span>,<span class='scene-font-katari'><span class='scene-font-katari'>我觉得那不是家人</span></span>
+159,ユイシス/优希斯,え……,诶……
+162,ユイシス/优希斯,その……私、<br>姬塔達に甘えて……いいの？<br>頼って……迷惑をかけていいの？,那个……我，<br>真的可以对姬塔撒娇吗……？<br>真的可以依赖你……给你添麻烦吗？
+168,ユイシス/优希斯,くすっ……<br>あの時のことは絶対に忘れない……,呵呵……<br>那个时候的事情，我永远无法忘记……
+169,ユイシス/优希斯,私がそうだったように、<br>あの親子も上手くやれることを<br>願っているけれど……,就像你们帮了我一样，<br>希望那对母子也能好好活下去……
+170,ユイシス/优希斯,でも、本当は心配なこともあるの。<br>あの親子と家族になる人について、<br>私は何も知らないから……,但是，我也挺担心的。<br>关于要和那对母子成为家人的人，<br>我也一无所。
+171,ルリア/露莉亚,んー……確かにお父さんとは<br>会ったことないですもんね……,嗯——……确实，毕竟我们也没见过那位父亲呢……
+172,ビィ/碧,ん？<br>さっきから、<br>なんの話をしてんだ？,嗯？<br>从刚刚开始，<br>就在说什么？
+173,,<span class='scene-font-katari'>事情を知らないジークフリートとビィに</span><br><span class='scene-font-katari'>ユイシスは母親から聞かされた話を</span><br><span class='scene-font-katari'>簡単に説明した。</span>,<span class='scene-font-katari'>优希斯对不知情的齐格飞和碧</span><br><span class='scene-font-katari'>简单说明了从那位母亲那里听到的事情。</span>
+174,,<span class='scene-font-katari'>そして父親のことは知らないため、</span><br><span class='scene-font-katari'>ちゃんと家族としてやっていけるのか</span><br><span class='scene-font-katari'>少しだけ不安を持っていると明かす。</span>,<span class='scene-font-katari'>然后说明了因为不知道那位父亲的事情，</span><br><span class='scene-font-katari'>对于是否能好好成为家人，</span><br><span class='scene-font-katari'>她十分不安。</span>
+175,ビィ/碧,なるほど、そういうことか……<br>って、あれ？<br>似た話をどっかで聞いたような……,原来如此，是这样啊……<br>嗯，诶？<br>怎么感觉在哪里听过……
+176,,<span class='scene-font-katari'>ビィはジークフリートの顔を覗き見る。</span><br><span class='scene-font-katari'>するとジークフリートは穏やかな笑みを</span><br><span class='scene-font-katari'>浮かべながら頷くのだった。</span>,<span class='scene-font-katari'>碧偷偷瞄了一眼齐格飞。</span><br><span class='scene-font-katari'>齐格飞露出了稳重的微笑，点了点头。</span>
+177,ジークフリート/齐格飞,ああ、確かに知っているな。<br>その事なら心配はいらない。<br>すでに解決済みだ。,啊啊，我们确实听过。<br>这事无需担心。<br>已经解决了。
+178,ユイシス/优希斯,え？,诶？
+179,ビィ/碧,へへっ、<br>今度はオイラ達の番だな。<br>じっくり教えてやるぜ。,嘿嘿，<br>这次轮到我们了。<br>且听我解释。
+180,,<span class='scene-font-katari'>意味が分からず戸惑う</span><br><span class='scene-font-katari'>ユイシス達の顔を眺めながら</span><br><span class='scene-font-katari'>ビィは得意げに笑うのだった。</span>,<span class='scene-font-katari'>看着一脸困惑的优希斯，</span><br><span class='scene-font-katari'>碧露出了得意的笑容。</span>
+info,,,scene_fate_xro_085_ep1

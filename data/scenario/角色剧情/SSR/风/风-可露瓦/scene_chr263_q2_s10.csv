@@ -1,0 +1,37 @@
+id,name,text,trans
+0-chapter_name,,Interwoven Fates,交织的命运
+0-synopsis,,"The wedding dress was intended for the customer's daughter, who is being married off as part of a strategic marriage. The crew escorts the hapless bride to another island to see what kind of man she is marrying.",这次任务中的婚纱是给客户为了自己女儿的政治联姻而准备的。对这件事情有兴趣的姬塔一行陪伴着新娘去访问她未婚夫的岛屿。
+0,,The crew arrive at the customer's house.,姬塔一行与可露瓦一起来到了定制婚纱的顾客家里。
+1,Korwa/可露瓦,"I'm terribly sorry, sir. I'm grateful that you asked for me personally, but my skills are still lacking. ",很抱歉，先生。我知道您希望我亲自接受委托，但我的技术目前还不到火候。
+2,Korwa/可露瓦,I can't accept your request at this time. I apologize from the bottom of my heart.,我再一次的，真诚的道歉，但我不能接受您的请求。
+3,Bride's Dad,I see. You came all the way out here to tell me personally so I guess it can't be helped.,是吗？哎，不过瞧你亲自跑过来特意告诉我不行，我也不好意思强求啊。
+4,Bride's Dad,"Since this is going to be a marriage of convenience, I'd hoped to at least give my daughter the most beautiful gown in the world.",因为我女儿的这场婚事是个……策略性上的婚姻，你懂的。所以我本来希望能至少给我女儿世界上最漂亮的婚纱呢……
+5,Bride's Dad,"You could say it's my way of being a loving father. ",作为爱孩子的父亲我想我至少能做到这些吧。
+6,Korwa/可露瓦,Marriage of convenience? What do you mean?,策略，婚姻？这是什么意思？
+7,Bride's Dad,"I understand how my daughter must feel, but this is what you would call a tactical marriage.",我理解我女儿的心情，但策略婚姻，就是为了家族利益的婚姻啊。
+8,Lyria/露莉亚,I...see...,是……这样啊……
+9,,The dejected crew leave the house.,姬塔一行消沉的离开了新娘的家。
+12,Korwa/可露瓦,Tactical marriage! Did he say tactical marriage?,策略婚姻？！策！略！！婚姻？！
+13,Korwa/可露瓦,"Ugh, what a greedy slimeball! He doesn't care about his daughter at all, he's just in it for the money and power!",啊啊啊啊这是什么混蛋逻辑啊！说什么爱自己的女儿，这明显就是为了金钱和荣誉，把自己女儿给送出去了对吧？！
+14,Korwa/可露瓦,"There's no way this could end happily ever after, no matter how you look at it!",不可能不可能。这种故事，怎么可能有happy ending呢？不管怎么想都不可能有完美结局的！
+15,Korwa/可露瓦,"Think, think, think! Okay, what if she runs off with the person she truly loves?",啊啊，不行，我想想，想想……如果新娘找了自己合心的恋人，手拉手一起逃跑，行不行……
+16,Korwa/可露瓦,"No, actually, what if she seizes her happiness with her own two hands?",不，或者……与其说逃跑，不如她自己用双手来抓住幸福！
+17,Vyrn/碧,"Geez, she's still off in her own little story world.",哎呀，裁缝姐姐又沉迷在自己的故事世界当中了呢……
+18,,"As if on cue, the bride suddenly appears beside Korwa.",突然间，新娘在可露瓦身旁出现了。
+19,Bride,"Um, excuse me. Were you the ones that came to my house just now?",那个，对不起，请问你们是那些刚刚来过我家的人，对吧……
+20,Lyria/露莉亚,"Your house? Oh, are you the one getting married, by any chance?",刚才？哦哦，你是那个新娘吧，对吧？
+21,Bride,"Yes. Um, I know we're complete strangers, but if you have a moment, I would like to ask you for a favor.",是，我是。我知道我们互不相识，但，如果你有时间的话，我有个事情想求你们帮个忙……
+22,Lyria/露莉亚,"Sure, no problem! What can we do for you?",好的好的！我们能帮你做什么呢？
+23,Korwa/可露瓦,Do you want us to kidnap you?,我们帮您私奔吧，怎么样？或者绑架什么的也可以哦！
+24,Bride,"Oh no, nothing like that. I want to meet the man I'm supposed to marry, just once, before the wedding.",哪-哪里，不用这样夸张啦！我只是想在结婚前，跟我未婚夫见一下，看看他是什么样的人……
+25,Korwa/可露瓦,Huh? You've never even met him before?,……哎哎？！难道你，你连见都没见过吗？
+26,Bride,We used to play together when we were kids but I haven't seen him since then.,我们小时候其实是玩伴，但长大后，就一直没有联系了。
+27,Bride,I just want to know what kind of person he's become. I've prepared myself for the worst.,我想做好心理准备。想知道他变成了个什么样的人……
+28,Vyrn/碧,"So, we need to take you to the island he's living on, right?",好啊好啊！那，这样，我想我们把你带到他现在居住的那个岛屿里不就好了吗？
+29,Bride,Yes. Is that okay?,太好了，那，能否拜托你们……
+30,Korwa/可露瓦,Leave it to me! I'll even cover your travel expenses.,交给我吧！路费我出。
+31,Bride,You really shouldn't...,哎？！但，这个……
+32,Korwa/可露瓦,It's fine; this is my mission. I'm going to make sure you find happiness.,没关系。这是我想要做的。我人生的任务，就是保证大家能找到幸福快乐啊。
+33,Bride,Thank you!,……谢谢！！
+34,Vyrn/碧,"Great, let's get a move on, Gran!",好啊。那，咱们出发吧，姬塔！
+info,,,scene_chr263_q2_s10

@@ -1,0 +1,101 @@
+id,name,text,trans
+0-chapter_name,,続・アンチラの空遊記,续・安琪拉的空游记
+0-synopsis,,魔物を退けた姬塔達は、女性に夕食に誘われる。姬塔達は快く申し出を受け入れるが、アンチラはなぜか乗り気ではなかった。一行はその食事中、サンゾー一行がかつて村を支配していた霧を操る魔王を退治した話と共に、近頃妙な霧が村の周辺に立ち込めて魔物が凶暴化していると聞かされ、怪しい霧の調査を請け負うのだった。,击退了魔物的姬塔一行、被女性邀请共进晚餐。姬塔爽快的答应了邀请、但安琪拉不知为何不是很赞同。一行在吃饭时、听说三藏一行过去打倒了支配村子的操控雾之魔王、最近奇妙的雾张开在村子周围使魔物凶暴化、便接受了调查奇怪的雾的委托。
+1,,<span class='scene-font-katari'>魔物を追い払うと同時に、</span><br><span class='scene-font-katari'>周囲の霧も消え去った。</span>,在赶走魔物的同时、</span><br><span class='scene-font-katari'>周围的雾也消失了。</span>
+2,ルリア/露莉亚,大丈夫ですか？,请问没事吗？
+3,女性,は、はい……<br>お蔭さまで。,是、是的……<br>拖你们的福。
+4,ビィ/碧,無事でよかったな！,没事太好了呢！
+5,女性,危ないところを助けて頂いて、<br>本当にありがとうございました。,危机时刻救了我、<br>真的十分感谢。
+6,アンチラ/安琪拉,じぃー,盯ー
+7,,<span class='scene-font-katari'>ひとり女性を訝しむ様な</span><br><span class='scene-font-katari'>眼差しを向けるアンチラ。</span>,安琪拉对孤身一人的女性</span><br><span class='scene-font-katari'>投出了怀疑的视线。</span>
+8,アンチラ/安琪拉,こんなところにひとりで<br>何をしてたんですか？,一个人在这样的地方<br>做什么呢？
+9,女性,……え？<br>私は夕食で使う水を汲みに<br>家の裏の川まで行ってたんですが。,……诶？<br>我是为了汲取晚饭用的水<br>到家背后的河边去。
+10,女性,思った以上に霧が深くて、<br>道に迷ってしまって……,雾比想象中还浓、<br>一不留神就迷路了……
+11,アンチラ/安琪拉,ふ～ん……<br>そうですか。,呼～嗯……<br>这样啊。
+12,,<span class='scene-font-katari'>その時、姬塔と</span><br><span class='scene-font-katari'>ビィとルリアの</span><br><span class='scene-font-katari'>腹の虫が一斉に鳴った。</span>,就在这时、姬塔和</span><br><span class='scene-font-katari'>碧和露莉亚</span><br><span class='scene-font-katari'>的肚子一齐叫了起来。</span>
+13,ルリア/露莉亚,あはは……<br>恥ずかしいです。,啊哈哈……<br>真不好意思。
+14,ビィ/碧,そろそろ腹が減ってきたな……,肚子差不多饿了呢……
+15,女性,あの……良かったら<br>家で一緒に夕飯を食べませんか？,那个……不嫌弃的话<br>要不要来我家一起吃晚饭？
+16,ルリア/露莉亚,い、いいんですか……！,可、可以吗……！
+17,女性,もちろんです！<br>私にも何かお礼をさせてください！,这是当然！<br>我也想做些什么来回礼！
+18,ビィ/碧,やったな姬塔！<br>ここはご馳走になるとしようぜ！,太好了呢姬塔！<br>这里就接受邀请吧！
+19,,<span class='scene-font-katari'>女性の厚意を素直に受け入れる</span><br><span class='scene-font-katari'>姬塔達とは異なり、</span><br><span class='scene-font-katari'>ひとり距離を取るアンチラ。</span>,有别于率直地接受了</span><br><span class='scene-font-katari'>女性好意的一行、</span><br><span class='scene-font-katari'>安琪拉独自一人拉开了距离。</span>
+20,アンチラ/安琪拉,まぁ姬塔達が<br>そう言うならぁ？<br>ボクも一緒に行きますけどぉー？,嘛姬塔<br>这么说的话？<br>我也就一起跟去ー？
+21,,<span class='scene-font-katari'>結局、アンチラも仲間の意向に従い、</span><br><span class='scene-font-katari'>姬塔達と共に</span><br><span class='scene-font-katari'>女性の家にお邪魔することになる。</span>,最终、安琪拉也顺从伙伴们的意向、</span><br><span class='scene-font-katari'>和姬塔一起</span><br><span class='scene-font-katari'>去女性家叨扰。</span>
+26,女の子/女孩,おかえりなさいおねえちゃん！<br>ちょっとおそかったね？,姐姐欢迎回来！<br>稍微有点晚了呢？
+27,,<span class='scene-font-katari'>女性の家に着いた一行の前に</span><br><span class='scene-font-katari'>小さな女の子が姿を現した。</span>,来到了女性家中的一行</span><br><span class='scene-font-katari'>出现了小小的女孩子的姿态。</span>
+28,女性,遅くなってごめんね。<br>魔物に襲われて危ないところを、<br>この方たちに助けてもらってたの。,回来晚了对不起。<br>在被魔物袭击的时候、<br>是这几位救了我。
+29,女の子/女孩,みなさん、<br>おねえちゃんをたすけてくれて<br>ありがとうございました！,各位、<br>救了姐姐<br>真是十分感谢！
+30,女の子/女孩,なにぶんせまいところですが、<br>どうぞくつろいでいってください！,虽然是个很窄的地方、<br>但还是请尽情放松！
+31,ルリア/露莉亚,こちらこそよろしくお願いします！,这边才是请多关照！
+32,ビィ/碧,おう、世話になるぜ！,喔、受你照顾了！
+33,アンチラ/安琪拉,はーい。,你ー好。
+34,女の子/女孩,ん……？,嗯……？
+35,,<span class='scene-font-katari'>妙に元気のないアンチラが</span><br><span class='scene-font-katari'>気がかりそうな女の子。</span>,女孩子看着微妙地没有精神的安琪拉</span><br><span class='scene-font-katari'>感到有些在意。</span>
+36,女の子/女孩,ねーねーおねえちゃん<br>おなまえはなんていうの？,呐ー呐ー姐姐<br>名字叫什么呢？
+37,アンチラ/安琪拉,え？　アンチラだけど……,诶？　安琪拉……
+38,女の子/女孩,アンチラおねえちゃん！<br>いっしょにあそぼ！,安琪拉姐姐！<br>一起来玩吧！
+39,アンチラ/安琪拉,い、いいけど……<br>何するの？,倒、倒是可以……<br>要玩什么呢？
+40,女の子/女孩,おままごと！<br>あっちでいっしょにやろう！,过家家！<br>去那边一起玩吧！
+41,アンチラ/安琪拉,う、うん……,嗯、嗯……
+42,,<span class='scene-font-katari'>女の子に手を引かれて</span><br><span class='scene-font-katari'>おままごとに誘われるアンチラ。</span>,安琪拉被女孩拉着手</span><br><span class='scene-font-katari'>邀请一起去玩过家家。</span>
+43,ビィ/碧,アンチラが子供に<br>懐かれて困ってるぜ。,安琪拉被小孩粘上<br>在困扰着呢。
+44,アンチラ/安琪拉,べ、別にー<br>困ってないですけどー,并、并没有ー<br>在困扰什么的ー
+45,ルリア/露莉亚,アンチラちゃん！<br>ファイトですよ！,安琪拉酱！<br>加油哟！
+45-sel1_txt,,<span class='scene-font-katari'>わたあめをあげたら？</span>,给她棉花糖怎样？</span>
+45-sel2_txt,,<span class='scene-font-katari'>一緒に遊ぼうか？</span>,要一起玩吗？</span>
+46,女の子/女孩,わたあめ？　くれるの？,棉花糖？　要给我吗？
+47,アンチラ/安琪拉,わわわわっ！<br>わたあめはダメですっ！,绵绵绵绵！<br>棉花糖不行！
+48,女の子/女孩,え……ダメなの？<br>わたあめ？,诶……不行吗？<br>棉花糖？
+49,アンチラ/安琪拉,ダメっ……うぐっ……<br>と、特別に……あげます……<br><span class='scene-font-kokoro'>（最後の……わたあめ…………）</span>,不行……唔咕……<br>特、特例一次……给你吧……<br><span class='scene-font-kokoro'>（最后的……棉花糖…………）</span>
+50,女の子/女孩,わぁいわぁい！<br>ありがとうアンチラおねえちゃん！,哇哇！<br>谢谢你安琪拉姐姐！
+51,アンチラ/安琪拉,<span class='scene-font-kokoro'>（うぅ……残りは姬塔と</span><br><span class='scene-font-kokoro'>一緒に食べようと思ってたのに……</span><br><span class='scene-font-kokoro'>このバカアホマヌケー！）</span>,呜……剩下的明明打算</span><br><span class='scene-font-kokoro'>和姬塔一起吃的……</span><br><span class='scene-font-kokoro'>这个笨蛋蠢蛋木头人ー！）</span>
+53,女の子/女孩,うん！<br>じゃあ……わたしがこどもで<br>ふたりがおとうさんとおかあさんね！,嗯！<br>那么……我就做小孩<br>两人就当爸爸和妈妈！
+54,アンチラ/安琪拉,わかった。<br>ボクはどっちでもいいけど、<br>姬塔はどっちをやりたい？,我知道了。<br>我当哪边都可以、<br>姬塔想做什么？
+60,,<span class='scene-font-katari'>しばらく女の子と一緒に遊んでいると、</span><br><span class='scene-font-katari'>部屋の中に料理の香りが漂い始めた。</span>,在和女孩一起玩了一会之后、</span><br><span class='scene-font-katari'>屋内飘出了饭菜的香味。</span>
+61,,<span class='scene-font-katari'>夕食が出来上がったタイミングで</span><br><span class='scene-font-katari'>姬塔達は食卓を囲む。</span>,晚饭做好之后</span><br><span class='scene-font-katari'>姬塔一行围在了饭桌前。</span>
+63,女性,さぁ、どうぞ召し上がれ。,来、请品尝吧。
+65,４人,いただきまーす！<br>いただきます。,我开动ー了！<br>我开动了。
+66,,<span class='scene-font-katari'>姬塔達が姉の手料理を</span><br><span class='scene-font-katari'>喜んで食べる中、</span><br><span class='scene-font-katari'>ひとり手を付けないアンチラ。</span>,在姬塔一行开心地享用着</span><br><span class='scene-font-katari'>姐姐的料理的时候、</span><br><span class='scene-font-katari'>只有安琪拉没有开动。</span>
+67,女性,アンチラちゃんは<br>食べないの？,安琪拉酱<br>不吃么？
+68,アンチラ/安琪拉,はい。<br>ボクはあまりお腹が<br>空いていないので。,是的。<br>我的肚子<br>还不怎么饿。
+69,女性,じゃあ、お腹が空いたら<br>いつでも食べてね。,那么、等肚子饿的时候<br>在慢慢吃吧。
+70,アンチラ/安琪拉,ありがとうございます。,十分感谢。
+71,アンチラ/安琪拉,……この広いお家には、<br>お二人で住んでるんですか？,……只有两个人生活在、<br>这么大的家里吗？
+72,女性,い、いえ……<br>両親と妹とです。,不、不……<br>双亲和妹妹都在。
+73,アンチラ/安琪拉,ご両親はいまどこに？,请问令尊现在在哪？
+74,女性,……両親は今<br>出稼ぎに行っているの。,……双亲现在<br>外出挣钱去了。
+75,女性,あの……<br>私からも質問していいかしら？,那个……<br>我这边也能提问吗？
+76,アンチラ/安琪拉,はい、どうぞ。,好的、请讲。
+77,女性,さっき魔物と戦った時に<br>使っていた術は、<br><span class='scene-font-spword'>“仙術”</span>というものですか？,刚才和魔物战斗时<br>使用的法术、<br><span class='scene-font-spword'>是叫</span>“仙术”吗？
+78,アンチラ/安琪拉,そうだけど……<br>仙術を知ってるの？,是这样没错……<br>您知道仙术吗？
+79,女性,はい、<br>言い伝えに聞いたゴクウ様の<br>仙術によく似ていたもので。,是的、<br>很传说中悟空大人<br>的仙术十分相似。
+80,アンチラ/安琪拉,……え？<br>ゴクウ様のことを知ってるの？,……诶？<br>您知道悟空大人的事吗？
+81,女性,ええ、実はかつてこの村に、<br>サンゾー様御一行が<br>訪れたことがあったのです。,嗯、实际上这个村子、<br>三藏大人一行<br>曾经造访过。
+82,アンチラ/安琪拉,<span class='scene-font-4'>そうだったの！</span><br>それでそれで！<br>サンゾー様達はどんな感じだったの？,<span class='scene-font-4'>是这样吗！</span><br>然后呢然后呢！<br>三藏大人一行是什么样的感觉？
+83,女性,サンゾー様とゴクウ様は、今の<br>姬塔さんとアンチラちゃんの<br>関係にそっくりだったみたいですよ。,三藏大人和悟空大人、就和<br>现在的姬塔小姐和安琪拉酱<br>的感觉一模一样。
+84,アンチラ/安琪拉,<span class='scene-font-4'>ええーっ！</span><br>ホントにぃ！　嬉しいなぁ～！,<span class='scene-font-4'>诶ー！</span><br>真的吗！　好开心啊～！
+85,アンチラ/安琪拉,ねぇねぇお姉さん！<br>ふたりのことをもっと詳しく教えて！,呐呐姐姐！<br>请告诉我更多关于两人的事！
+86,女性,はい、もちろんです。,好的、当然。
+87,,<span class='scene-font-katari'>すると女性は、かつてこの村を</span><br><span class='scene-font-katari'>襲った危機について語り始める。</span>,然后女性开始讲述起、过去袭向</span><br><span class='scene-font-katari'>村子的危机。</span>
+92,女性,その昔、霧の力で魔物を操り、<br>この地域一帯を支配する<br>魔王がいたそうなんです。,从前、有用雾的力量操纵魔物、<br>将这片地域支配的<br>魔王存在着。
+96,女性,そんな時に、サンゾー様御一行が<br>この村を訪れて、見事魔王を討伐して<br>平和を取り戻して下さったそうです。,就在这时、三藏大人一行<br>来到这个村庄、出色地讨伐了魔王<br>成功取回了和平的故事。
+102,アンチラ/安琪拉,霧の力……？,雾的力量……？
+103,,<span class='scene-font-katari'>霧と聞いて眉をひそめる</span><br><span class='scene-font-katari'>アンチラと姬塔達。</span>,听到雾这个单词</span><br><span class='scene-font-katari'>安琪拉和姬塔不禁皱起了眉头。</span>
+104,,<span class='scene-font-katari'>女性は姬塔一行の</span><br><span class='scene-font-katari'>疑問を悟った様子で話を続ける。</span>,女性察觉到姬塔一行的疑问一般</span><br><span class='scene-font-katari'>继续讲述着。</span>
+105,女性,実は最近、魔王の霧と酷似する<br>妙な霧が村の周辺に立ち込めて、<br>魔物が狂暴化しているんです。,其实最近、酷似魔王的雾<br>一般奇妙的雾张开在村子周边、<br>而且不断使魔物狂暴化。
+106,ルリア/露莉亚,そうだったんですね……,是这样呢……
+107,女性,何かの前触れでなければ<br>いいんですが……,不是什么的前兆的话<br>就好了……
+108,,<span class='scene-font-katari'>女性の話を聞いて</span><br><span class='scene-font-katari'>意を決した様子のアンチラ。</span>,听完女性的话</span><br><span class='scene-font-katari'>安琪拉下定了决心。</span>
+109,アンチラ/安琪拉,だったらボク達に<br>調査を任せてくれませんか？,那样的话请将<br调查交给我们？
+110,アンチラ/安琪拉,姬塔もボクに<br>賛成してくれるよね？,姬塔也<br>赞成我吧？
+111,,<span class='scene-font-katari'>アンチラの提案を受けて</span><br><span class='scene-font-katari'>力強く頷く姬塔。</span>,接受了安琪拉的提案</span><br><span class='scene-font-katari'>姬塔深深地点了点头。</span>
+112,女性,ですが、あなた達にそこまで<br>ご迷惑をかけるわけには……,但是、不能麻烦你们<br>到这地步……
+113,ビィ/碧,さっきの戦い見てただろ？<br>こう見えてもオイラ達<br>騎空士なんだぜ！,见识到刚才的战斗了吧？<br>别看我们这样<br>我们可是骑空士呢！
+114,ルリア/露莉亚,おいしい晩ご飯のお返しです、<br>だから気にしないでください！,就当作美味的晚餐的回礼、<br>所以请不要在意！
+115,女性,皆さん……<br>ありがとうございます。,各位……<br>真的十分感谢。
+116,女の子/女孩,アンチラおねえちゃん、<br>ちょうさがんばってね！,安琪拉姐姐、<br>调查请加油！
+117,アンチラ/安琪拉,うん、任せといて！,嗯、交给我吧！
+118,,<span class='scene-font-katari'>こうして姬塔達は、</span><br><span class='scene-font-katari'>怪しい霧についての調査を</span><br><span class='scene-font-katari'>請け負うのだった。</span>,就这样姬塔一行、</span><br><span class='scene-font-katari'>接受了关于调查奇妙的雾</span><br><span class='scene-font-katari'>的委托。</span>
+info,,,scene_ult_chr236_ep1_q2_s10
+译者,,,

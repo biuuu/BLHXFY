@@ -1,0 +1,14 @@
+id,name,text,trans
+1,,<span class='scene-font-katari'>今日はハロウィン。</span><br><span class='scene-font-katari'>騎空団の恒例行事である。</span>,<span class='scene-font-katari'>今天是万圣节。</span><br><span class='scene-font-katari'>是骑空团的例行节日活动。</span>
+2,,<span class='scene-font-katari'>騎空艇の甲板を仮装した団員達が</span><br><span class='scene-font-katari'>ドタバタと走り抜けて行く。</span>,<span class='scene-font-katari'>变装过的团员们噔噔噔地穿过骑空艇的甲板。</span>
+3,ティアマト/提亚玛特,────,————
+4,,<span class='scene-font-katari'>団員達が脅かし合っている様を見て、</span><br><span class='scene-font-katari'>ティアマトは何を思ったのだろう。</span>,<span class='scene-font-katari'>看到团员们互相吓唬，提亚玛特可能想到了什么。</span>
+5,ティアマト/提亚玛特,────,————
+6,,<span class='scene-font-katari'>彼女は突如、</span><br><span class='scene-font-katari'>暴風を巻き起こす。</span>,<span class='scene-font-katari'>她突然卷起暴风。</span>
+7,,<span class='scene-font-katari'>姬塔達は吹き飛ばされないよう</span><br><span class='scene-font-katari'>近くの柱や手摺りに掴まり、</span><br><span class='scene-font-katari'>必死に耐え抜いた。</span>,<span class='scene-font-katari'>姬塔等人为了不被吹飞，抓住附近的柱子及扶手拼命忍耐。</span>
+8,,<span class='scene-font-katari'>団員達が大人しくなるのを見てとると、</span><br><span class='scene-font-katari'>ティアマトは満足したのか、</span><br><span class='scene-font-katari'>風を鎮める。</span>,<span class='scene-font-katari'>看到团员们都老实下来，提亚玛特可能觉得满足了，散去了暴风。</span>
+9,ティアマト/提亚玛特,────,————
+10,,<span class='scene-font-katari'>もしかしたら彼女は、</span><br><span class='scene-font-katari'>団員達が喧嘩をしていたと</span><br><span class='scene-font-katari'>思ったのかも知れない。</span>,<span class='scene-font-katari'>莫非她觉得团员们是在吵架。</span>
+11,,<span class='scene-font-katari'>ハロウィンがなんたるかを</span><br><span class='scene-font-katari'>先に説明しておくべきだったと</span><br><span class='scene-font-katari'>姬塔は思うのだった。</span>,<span class='scene-font-katari'>姬塔心想，应该事先跟她说明万圣节具体是什么活动。</span>
+info,,,scene_s1_halloween_3095_v1_0_2004_1_3040152000
+译者,,,

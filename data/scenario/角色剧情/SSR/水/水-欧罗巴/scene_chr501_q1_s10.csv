@@ -1,0 +1,90 @@
+id,name,text,trans
+0-chapter_name,,人の持つ美しさ,人所拥有之美
+0-synopsis,,とある街を訪れ、買い物と食事をした姬塔達とエウロペ。異様なほど静かな街の様子に、人に興味がないエウロペ以外が疑問を抱いていた時、突如姬塔が倒れてしまう。街の医者によると、この街で流行っている原因も治療方法も不明の病にかかっているという。街の治療院に運び込まれた苦しげな姬塔を、ルリア達は心配そうに見守るのだった。,姬塔他们和欧罗巴来到了某条商业街，采购完并吃了饭后。除了对人类没有兴趣的欧罗巴，其他人都对街上异样的寂静感到疑惑，正在这时、姬塔突然倒下了。据街上的医生所说，这条街正流行着一种不明缘由也没有治疗方法的疾病。姬塔被带到街上的诊所，露莉亚他们则在一旁照看着。看着痛苦的姬塔、露莉亚他们非常担心。
+1,,<span class='scene-font-katari'>物資補給のために</span><br><span class='scene-font-katari'>とある街を訪れた姬塔達。</span>,为了进行物资补给，姬塔他们来到了某条商业街。
+2,,<span class='scene-font-katari'>そして、買い物を終えた</span><br><span class='scene-font-katari'>姬塔達は</span><br><span class='scene-font-katari'>休憩がてら酒場で食事をしていた。</span>,不久，采购结束一段落，姬塔他们来到了某个酒馆休息并准备吃个饭。
+3,ルリア/露莉亚,なんだか、この街……<br>凄く静かですね……,总觉得，这条街……<br>真的好安静啊……
+3-sel1_txt,,<span class='scene-font-katari'>歩いている人もほとんど見なかった</span>,<span class='scene-font-katari'>基本上也看不到什么行人</span>
+3-sel2_txt,,<span class='scene-font-katari'>ここもガラガラだし……</span>,<span class='scene-font-katari'>这里也是空荡荡的</span>……
+4,ビィ/碧,だな。<br>こんなに立派な街なのによ。<br>なんだか暗い雰囲気だぜ。,是啊。<br>明明是那么漂亮的一条街。<br>感觉现在都被一股阴暗的氛围笼罩了。
+5,ビィ/碧,だな……<br>それに街の中を歩いてても<br>全然人とすれ違わなかったもんな。,是啊……<br>而且刚才走在街上都没多少行人呢。
+6,ルリア/露莉亚,はい……<br>ちょっと寂しい感じですね。,嗯……<br>总感觉有点寂寞啊。
+7,,<span class='scene-font-katari'>そんなルリアの言葉に対し、</span><br><span class='scene-font-katari'>エウロペは不思議そうな</span><br><span class='scene-font-katari'>表情を浮かべる。</span>,<span class='scene-font-katari'>听到露莉亚这番话，</span><br><span class='scene-font-katari'>欧罗巴露出了一副很不可思议的表情。</span>
+8,エウロペ/欧罗巴,そうなのですか？<br>私としてはこれでも十分、<br>大勢と思っていたのですが。,是这样吗？我认为在这里的人<br>已经非常多了。
+9,エウロペ/欧罗巴,というよりも正直なところ、<br>騒々しいと感じております。,而且要说实话，<br>我认为现在是有点吵了。
+10,エウロペ/欧罗巴,お茶、というものに興じるにしても<br>不適当と言いますか……,已经是不太适合品茶的气氛了……
+11,ルリア/露莉亚,あ、あはは……,啊，啊哈哈……
+12,ビィ/碧,とりあえず、腹も膨れたし、<br>買い出しに戻ろうぜ。,总之，现在我们都吃饱了，<br>就继续去采购吧。
+13,,<span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>その言葉に頷くと</span><br><span class='scene-font-katari'>皆で店を出る。</span>,<span class='scene-font-katari'>姬塔他们点了点头，以示同意。</span><br><span class='scene-font-katari'>随后，大家一起走出了酒馆。</span>
+17,,<span class='scene-font-katari'>店を出た後、</span><br><span class='scene-font-katari'>グランサイファーへの帰路につく</span><br><span class='scene-font-katari'>姬塔達。</span>,<span class='scene-font-katari'>离开商店后，</span><br><span class='scene-font-katari'>姬塔他们踏上了回格兰赛法的归途。</span>
+18,,<span class='scene-font-katari'>そんな中、姬塔は</span><br><span class='scene-font-katari'>街で買ったばかりの水を</span><br><span class='scene-font-katari'>しきりに飲んでいた。</span>,<span class='scene-font-katari'>在途中，</span><br><span class='scene-font-katari'>姬塔不断地在喝刚才在商业街买的水。</span>
+20,ビィ/碧,なぁ、さっきから<br>水ばっか飲んでるけど、<br>どうしたんだよ？,喂，从刚才开始你就一直在喝水啊，<br>你怎么了？
+20-sel1_txt,,<span class='scene-font-katari'>なんだか喉が渇いて</span>,<span class='scene-font-katari'>总觉得喉咙好干</span>
+21,エウロペ/欧罗巴,先程の食事が<br>口にあわなかったのでしょうか？,是刚才吃的饭菜<br>不合口味吗？
+22,ビィ/碧,う～ん、そこそこウマかったし<br>こいつの好きな味だったはずだけどな。,嗯~我觉得很好吃啊，<br>也应该挺合这家伙的口味啊。
+24,,<span class='scene-font-katari'>姬塔は</span><br><span class='scene-font-katari'>突然めまいに見舞われ、</span><br><span class='scene-font-katari'>倒れそうになる。</span>,,<span class='scene-font-katari'>这时，</span><br><span class='scene-font-katari'>姬塔突然感到一阵眩晕，</span><br><span class='scene-font-katari'>眼看就要摔倒了。</span>
+25,ビィ/碧,あ、おいっ！,啊、喂！
+26,,<span class='scene-font-katari'>しかし、そんな姬塔の身体を</span><br><span class='scene-font-katari'>エウロペはそっと支える。</span>,<span class='scene-font-katari'>幸好，</span><br><span class='scene-font-katari'>在一旁的欧罗巴轻轻扶住了姬塔。</span>
+27,エウロペ/欧罗巴,姬塔様、<br>どうなされたのですか？,姬塔大人，<br>您怎么了？
+28,エウロペ/欧罗巴,なにやら、<br>顔色が優れないようですが……,感觉，<br>您的脸色并不是很好……
+29,ルリア/露莉亚,だ、大丈夫ですか、<br>姬塔……？<br>って──,你没、没事吧，<br>姬塔……？
+30,ルリア/露莉亚,身体がすごく熱いです……！<br>それに、お肌に<br>青いブツブツができて……,身体好热啊……！<br>而且皮肤上都起蓝色的疹子了……
+31,？？？,む……？<br>君達、どうしたんだい？,嗯……？<br>你们，有什么问题吗？
+32,,<span class='scene-font-katari'>慌てた様子のルリア達の姿に気づき</span><br><span class='scene-font-katari'>近くを歩いていた男性が</span><br><span class='scene-font-katari'>駆け寄ってくる。</span>,,<span class='scene-font-katari'>注意到了慌张的露莉亚他们，</span><br><span class='scene-font-katari'>在一旁的男人走了过来。</span>
+33,ルリア/露莉亚,わ、分かりません。<br>その……急に具合が<br>悪くなったみたいで……,我、我也不知道怎么回事。<br>那个……<br>好像是突然很不舒服的样子……
+34,ルリア/露莉亚,それに体中に<br>青いブツブツが……,身上还起了蓝色的疹子……
+35,？？？,急に具合が悪く？<br>それに体中にできた<br>この青い湿疹とむくみ……,突然很不舒服？<br>还有身上又蓝色的湿疹……
+36,？？？,まさか……！,难道说……！
+37,,<span class='scene-font-katari'>男性は慌てた様子で、</span><br><span class='scene-font-katari'>姬塔の額や首筋を</span><br><span class='scene-font-katari'>触診していく。</span>,<span class='scene-font-katari'>男人一脸慌张，</span><br><span class='scene-font-katari'>将手放上了姬塔的额头和脖子上</span><br><span class='scene-font-katari'>进行了触诊。</span>
+39,？？？,君達、ひとつ聞いていいかい？<br>彼女は妙に喉が渇くとか<br>言ってなかったかい？,我可以问你们一个问题吧？<br>他有说突然感觉非常渴之类的话吗？
+40,？？？,後は、大量に水を<br>飲んだりとか……,然后，<br>有没一直不停大量喝水之类的……
+41,エウロペ/欧罗巴,ええ。先程からしきりに水を<br>飲んでいらっしゃいましたね。,有的。<br>从刚才开始就在一直不停喝水了。
+42,？？？,やはりか……,果然啊……
+43,ビィ/碧,お、おい、何か知ってんのか？,喂，喂，你知道些什么吗？
+46,？？？,話は後だ！<br>まずは彼女を治療院に<br>連れて行かねば……,详细的之后再说！<br>现在要先把他带到诊所去……
+48,,<span class='scene-font-katari'>男性は焦った表情で</span><br><span class='scene-font-katari'>姬塔を背中に担ぐと、</span><br><span class='scene-font-katari'>ルリア達にそう告げ、走り出す。</span>,<span class='scene-font-katari'>男人一脸焦躁，</span><br><span class='scene-font-katari'>对露莉亚他们说完后就背起了姬塔，</span><br><span class='scene-font-katari'>奔向了诊所。</span>
+49,ルリア/露莉亚,ま、待ってください！,请、请等我们一下！
+50,エウロペ/欧罗巴,とりあえず、今はあの者を<br>追いかけましょう。,总之，我们先追上他吧。
+51,,<span class='scene-font-katari'>そして、ルリア達も</span><br><span class='scene-font-katari'>慌てて男性の後を</span><br><span class='scene-font-katari'>追うのだった。</span>,<span class='scene-font-katari'>随后，</span><br><span class='scene-font-katari'>露莉亚他们慌慌张张地追上了那个男人。</span>
+55,,<span class='scene-font-katari'>治療院に着いた姬塔達。</span>,<span class='scene-font-katari'>姬塔他们到了诊所。</span>
+56,,<span class='scene-font-katari'>そこでは多くの人達が</span><br><span class='scene-font-katari'>ベッドに寝かされ、</span><br><span class='scene-font-katari'>痛苦に喘いでいた。</span>,<span class='scene-font-katari'>诊所里，大量的人躺在病床上，</span><br><span class='scene-font-katari'>痛苦地呻吟着。</span>
+57,？？？,とりあえず、<br>ここに寝かせるよ。,总之，<br>我先让你躺在这里。
+58,,<span class='scene-font-katari'>男性は空いていたベッドに</span><br><span class='scene-font-katari'>姬塔を寝かせる。</span>,<span class='scene-font-katari'>说完，</span><br><span class='scene-font-katari'>男人便将姬塔搬上了一个空床上。</span>
+59,？？？,今はそのまま<br>安静にしていてくれ。,现在你就让安静待一会吧。
+60,エウロペ/欧罗巴,失礼ですが、貴方様は一体……,不好意思，请问您到底是……
+61,街医者,私はこの治療院で<br>働いている医者だよ。,我是在这个诊所里工作的医生。
+62,街医者,それとさっきはすまない。<br>何の説明もせずに<br>ここに連れてきてしまった。,刚才真是很抱歉。<br>什么都没说就把你们带到这里来了。
+63,街医者,そのことを、お詫びさせてほしい。,因此，请允许我向你们道个歉。
+64,,<span class='scene-font-katari'>医者は姬塔達に向き直ると</span><br><span class='scene-font-katari'>深く頭を下げる。</span>,<span class='scene-font-katari'>说完，</span><br><span class='scene-font-katari'>医生就对着姬塔他们深深低下了头。</span>
+65,エウロペ/欧罗巴,<span class='scene-font-2'>医者……確か、</span><br><span class='scene-font-2'>病を判別し、治癒する職でしたか。</span>,<span class='scene-font-2'>医生……</span><br><span class='scene-font-2'>应该是为人诊病治病的职业吧。</span>
+66,エウロペ/欧罗巴,では、お医者様。<br>ひとつ、ご質問させていただいても<br>よろしいですか？,那么，医生大人。<br>可以让我问一个问题吗？
+68,街医者,彼女の容体かい？,是想问他的病情吗？
+69,エウロペ/欧罗巴,はい。<br>姬塔様は一体、<br>どうなさったのでしょうか？,是的。<br>姬塔大人到底是得了什么病呢？
+70,エウロペ/欧罗巴,それにここにいる<br>たくさんの人達はいったい……,还有，在这里的人也是，<br>到底……
+71,エウロペ/欧罗巴,皆、一様に青い湿疹が<br>できているようですが……,大家好像都一样<br>起了蓝色的湿疹……
+72,街医者,……少し前から、<br>この街では原因不明の病が<br>流行っていてね。,不久之前，<br>这条街上流行起了一种不明原因的疾病。
+73,街医者,ここにいる人達は皆、<br>その病に感染した人達だ。,在这里的人，<br>全都是感染了那个病。
+75,街医者,彼女と同じように……,都和他一样……
+76,エウロペ/欧罗巴,なんと……<br>姬塔様が病に……？,这可真是……<br>姬塔大人竟然得了这样的病……？
+77,ルリア/露莉亚,<span class='scene-font-4'>そんなっ！？</span>,<span class='scene-font-4'>不会吧！？</span>
+78,,<span class='scene-font-katari'>医者の言葉にエウロペは</span><br><span class='scene-font-katari'>動揺した表情を浮かべる。</span>,<span class='scene-font-katari'>听完医生的话，</span><br><span class='scene-font-katari'>欧罗巴浮现了一副有所动摇的表情。</span>
+79,エウロペ/欧罗巴,その……<br>空の民はなにかと様々な理由で<br>身体が病に冒されるのだとか。,那个……<br>我听说空之民会因为各种各样的不明原因而得病。
+80,エウロペ/欧罗巴,一体、なぜ姬塔様が<br>その病にかかっていると、<br>すぐおわかりに？,那么，请问<br>您是怎么样一下子就能判断<br>姬塔大人是得了那个病呢？
+81,街医者,この病に感染した人は<br>喉の渇きを訴え、無性に水を<br>欲しがるようになるんだ。,因为感染了那个病的人<br>都会说自己的喉咙很干，<br>并且会对水异常渴望。
+82,街医者,そして、次から次へと<br>水を飲んでいく。,然后，<br>就会一直喝水喝个不停。
+83,街医者,でも、どれだけ飲んでも<br>渇きが収まらない。,但是，<br>无论喝了多少水都解不了渴。
+84,街医者,それどころか、<br>水を飲めば飲むほど、<br>症状が悪化していくんだ。,不仅如此，<br>越喝水，<br>症状就会越恶化。
+85,街医者,そして、ある時を境に<br>高熱と共に体中に青い湿疹が出て、<br>倒れてしまう……,之后，到了某个时间，<br>蓝色的湿疹就会伴随着高烧出现，最终就会体力不支而病倒。
+86,エウロペ/欧罗巴,なるほど。<br>先程の姬塔様の症状と<br>同じですね。,原来如此。<br>确实和刚才姬塔大人的症状一模一样。
+88,街医者,うん。だから、私は<br>彼女がこの原因不明の病に<br>感染していると判断したんだ。,嗯。所以<br>我就是根据这些判断他是得了这原因不明的病。
+89,エウロペ/欧罗巴,お医者様、治療方法は……<br>私達にできることがあるのでしたら、<br>協力させていただきましょう。,医生大人，关于治疗方法……<br>如果有我们能做的，请务必安排我们帮忙。
+90,街医者,私達の方でもこの病を治そうと<br>様々なことを試したさ。,为了治疗这个病，<br>我们也试了各种各样的办法。
+91,街医者,でも、どんな対処療法も薬も<br>効果がなかった。,但是，不管是用了什么疗法和药物都完全没有效果。
+92,街医者,いや、それどころか、どれだけ調べても<br>この病の原因がなんなのか……<br>それすらわからないんだ……,而且，不仅如此。<br>不管怎么努力调查这个病的原因……都完全找不出头绪……
+93,街医者,だから、現状、治療はできないんだ……,所以，就现在而言是治不好的……
+94,ルリア/露莉亚,そんな……,怎么会……
+95,街医者,とりあえず、今は<br>安静にしていてくれ。,总之，<br>现在你就先好好安静待一会吧。
+96,,<span class='scene-font-katari'>その言葉に苦しげに頷く</span><br><span class='scene-font-katari'>姬塔。</span>,<span class='scene-font-katari'>听完这话，</span><br><span class='scene-font-katari'>姬塔痛苦地点了点头。</span>
+97,,<span class='scene-font-katari'>そんな姬塔の姿を</span><br><span class='scene-font-katari'>ルリア達は心配げな表情で</span><br><span class='scene-font-katari'>見つめるのだった。</span>,<span class='scene-font-katari'>看着这样的姬塔，</span><br><span class='scene-font-katari'>在一旁的露莉亚只能他们一脸担心的守候着他。</span>
+info,,,scene_chr501_q1_s10
+译者,,,Van

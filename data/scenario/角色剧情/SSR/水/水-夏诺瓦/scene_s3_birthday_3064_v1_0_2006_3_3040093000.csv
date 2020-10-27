@@ -1,0 +1,10 @@
+id,name,text,trans
+1,,<span class='scene-font-katari'>夜、姬塔が</span><br><span class='scene-font-katari'>艇の甲板に出ると、</span><br><span class='scene-font-katari'>不意に空が明るくなった。</span>,<span class='scene-font-katari'>夜里，姬塔走上甲板，</span><br><span class='scene-font-katari'>忽然发现天空变亮了。</span>
+6,,<span class='scene-font-katari'>空に上がる無数の光華玉。</span><br><span class='scene-font-katari'>鮮やかな光の華の中に姬塔の</span><br><span class='scene-font-katari'>誕生日を祝う言葉が浮かび上がった。</span>,<span class='scene-font-katari'>无数的光华玉升上天空。</span><br><span class='scene-font-katari'>鲜艳的光华中浮现出庆祝姬塔生日的语句。</span>
+9,シャノワール/夏诺瓦,フフフ、<br>私の用意したサプライズは<br>気に入ってもらえたかな？,呵呵呵，<br>你喜欢我准备的惊喜吗？
+10,シャノワール/夏诺瓦,お誕生日おめでとう。<br>祝いの気持ちを込めて、<br>君にこの巨大な宝石を贈ろう。,生日快乐。<br>我将含有我想为你庆祝的心意的这个巨大的宝石送给你。
+11,,<span class='scene-font-katari'>姬塔はガラスの器に乗せられた</span><br><span class='scene-font-katari'>宝石を受け取り、</span><br><span class='scene-font-katari'>よく見ようと指で摘まもうとする。</span>,<span class='scene-font-katari'>姬塔收下放在玻璃器皿上的宝石，</span><br><span class='scene-font-katari'>用手指拿起准备好好看一看。</span>
+12,,<span class='scene-font-katari'>シャノワールは</span><br><span class='scene-font-katari'>素早くスプーンを取り出すと、</span><br><span class='scene-font-katari'>宝石を掬い姬塔の口に入れた。</span>,<span class='scene-font-katari'>夏诺瓦迅速掏出勺子，</span><br><span class='scene-font-katari'>舀了一勺宝石送入姬塔口中。</span>
+13,シャノワール/夏诺瓦,宝石は宝石でも、食べられる宝石だ。<br>ゼリーのお味はいかがかな？,这宝石虽然是宝石，不过是可以吃的宝石。<br>果冻的味道怎么样？
+14,シャノワール/夏诺瓦,君には宝石よりも冒険がお似合いさ。<br>さぁ、共に一夜限りの<br>逃避行に出かけようではないか！,比起宝石，冒险更加适合你。<br>来，我们一起来一场只限今晚的逃避行吧！
+info,,,scene_s3_birthday_3064_v1_0_2006_3_3040093000

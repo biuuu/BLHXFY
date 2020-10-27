@@ -1,0 +1,71 @@
+id,name,text,trans
+0-chapter_name,,伝説の再来,
+0-synopsis,,アルベールによって、異形と化したユリウスはレヴィオンから去った。逆賊を討った英雄として赦免されたアルベールは、復興に向けて忙しい日々を過ごす中で、ユリウスはアルベールを英雄として祖国に残す為に、暴走したふりをしたのではないかと気づく。アルベールは真相を確かめる為にも、いつかどこかでユリウスと再会することを願うのだった。,被阿尔贝尔打败的异形化的尤里乌斯离开了雷维昂。阿尔贝尔也作为讨伐逆贼的英雄而被赦免。在为了复兴而忙碌的日子里，阿尔贝尔发现了尤里乌斯为让他作为英雄留在祖国而假装暴走的事实。阿尔贝尔希望能有一天再见到尤里乌斯，听他亲口说出真相。
+2,アルベール/阿尔贝尔,<span class='scene-font-4'>うおおおおっ！</span>,噢噢噢噢！
+13,ユリウス/尤里乌斯,ぐ、ぐがああああ……,咕、啊啊啊……
+16,アルベール/阿尔贝尔,はぁはぁ……,哈……哈啊……
+17,,<span class='scene-font-katari'>アルベールの渾身の一撃によって</span><br><span class='scene-font-katari'>異形と化したユリウスは崩れ落ちた。</span>,被阿尔贝尔全力一击所击溃的异形化的尤里乌斯。
+18,,<span class='scene-font-katari'>するとその姿がみるみるうちに</span><br><span class='scene-font-katari'>もとのユリウスの姿に戻っていく。</span>,他的姿态恢复成了原本的尤里乌斯。
+19,アルベール/阿尔贝尔,……ユリウス……？,尤里乌斯……？
+27,ユリウス/尤里乌斯,う、ぐぐ……,唔，咕……
+28,,<span class='scene-font-katari'>よろめくユリウスを心配し、</span><br><span class='scene-font-katari'>アルベールが駆け寄ろうとするも──</span>,因为担心摇摇欲坠的尤里乌斯，阿尔贝尔想跑过去——
+29,ユリウス/尤里乌斯,く、くるなああっ……！,别、别过来……！
+30,アルベール/阿尔贝尔,しかし……,但是……
+35,ユリウス/尤里乌斯,<span class='scene-font-4'>うがあああああッ！</span>,呜啊啊啊啊！
+36,アルベール/阿尔贝尔,…………,…………
+45,ユリウス/尤里乌斯,…………,…………
+46,,<span class='scene-font-katari'>天を衝くような咆哮をあげたユリウスは</span><br><span class='scene-font-katari'>ふたたび異形の姿と化す。</span>,向天咆哮的尤里乌斯再度变为异形。
+47,ユリウス/尤里乌斯,……さらばだ。<br>レヴィオンの英雄よ……,再见了，雷维昂的英雄啊……
+51,,<span class='scene-font-katari'>アルベールに鋭い視線を投げかけた</span><br><span class='scene-font-katari'>ユリウスは、最後の力を振り絞るように</span><br><span class='scene-font-katari'>その場から消え去るのだった。</span>,尤里乌斯对阿尔贝尔投以锐利的视线，像使出最后的力气似的从原地消失了。
+52,アルベール/阿尔贝尔,どうしてなんだ……ユリウス……,为什么……尤里乌斯……
+53,アルベール/阿尔贝尔,ふたりで……レヴィオンを<br>復興させるんじゃなかったのか？,不是说好<br>两人一起……复兴雷维昂的吗？
+54,,<span class='scene-font-katari'>ユリウスを想うアルベールの呟きは、</span><br><span class='scene-font-katari'>吹きすさぶ風によって</span><br><span class='scene-font-katari'>掻き消されてしまうのだった。</span>,阿尔贝尔寄托着对尤里乌斯思念的喃喃自语<br>消散在狂风之中。
+59,,<span class='scene-font-katari'>こうして──</span>,就这样——
+60,,<span class='scene-font-katari'>逆賊ユリウスを討った英雄として、</span><br><span class='scene-font-katari'>アルベールは赦免された。</span>,作为讨伐了逆贼的英雄，阿尔贝尔被赦免了。
+66,,<span class='scene-font-katari'>ユリウスが去ってから数日後──</span>,在尤里乌斯离开的数日后——
+67,,<span class='scene-font-katari'>アルベールは、</span><br><span class='scene-font-katari'>レヴィオンの復興に向けて</span><br><span class='scene-font-katari'>忙しい日々を過ごしていた。</span>,阿尔贝尔每天都忙于重建雷维昂。
+68,アルベール/阿尔贝尔,<span class='scene-font-kokoro'>（ユリウス……</span><br><span class='scene-font-kokoro'>お前が暴走したあの日以来……）</span>,（尤里乌斯……从你暴走的那天以来……）
+69,アルベール/阿尔贝尔,<span class='scene-font-kokoro'>（新王や諸侯達は、</span><br><span class='scene-font-kokoro'>俺をレヴィオンの英雄と称え、</span><br><span class='scene-font-kokoro'>勲章まで下賜して下さった）</span>,新王和诸侯们称我为英雄，授予我勋章。）
+70,アルベール/阿尔贝尔,<span class='scene-font-kokoro'>（……フン、くだらん。</span><br><span class='scene-font-kokoro'>何が英雄だ）</span>,（哼，无聊。什么英雄啊。）
+71,アルベール/阿尔贝尔,<span class='scene-font-kokoro'>（俺達はただレヴィオン復興の為、</span><br><span class='scene-font-kokoro'>尽力していただけ……</span><br><span class='scene-font-kokoro'>なぁそうだろう、親友殿……）</span>,我们只是想尽全力复兴雷维昂……对吧，我的亲友啊？
+72,,<span class='scene-font-katari'>アルベールはあの日、</span><br><span class='scene-font-katari'>どこかに消え去ったユリウスのことを</span><br><span class='scene-font-katari'>思い返していた。</span>,阿尔贝尔回想起那天不知消失去了哪里的尤里乌斯。
+75,ユリウス/尤里乌斯,<span class='scene-font-4'>死ねええええっ！</span>,去死吧！
+76,ガリア,ひいいいいっ！,哇啊啊啊！
+77,マウロ,…………！,…………！
+84,アルベール/阿尔贝尔,ぐっ……,咕……！
+85,,<span class='scene-font-katari'>ガリア卿とマウロ卿の前に躍り出た</span><br><span class='scene-font-katari'>アルベールは、身を挺して、</span><br><span class='scene-font-katari'>ふたりをユリウスの攻撃から守り抜く。</span>,阿尔贝尔在高卢和毛洛面前挺身而出，从尤里乌斯的攻击下保护了他们。
+86,ユリウス/尤里乌斯,……フッ、仇敵を守るとは……,哼，居然保护仇敌……
+89,アルベール/阿尔贝尔,……そうだ……,……说起来……
+90,アルベール/阿尔贝尔,俺がガリア卿達を守ったあの時、<br>ユリウスは確かに微笑んだ……,那时我保护高卢时，尤里乌斯确实露出了微笑。
+91,アルベール/阿尔贝尔,何故だ？,为什么？
+92,アルベール/阿尔贝尔,<span class='scene-font-kokoro'>（俺の行動を……</span><br><span class='scene-font-kokoro'>ユリウスは見越していた……？）</span>,（我的行动……他早就料到了……？）
+93,アルベール/阿尔贝尔,<span class='scene-font-kokoro'>（いや、そもそも……</span><br><span class='scene-font-kokoro'>暴走したユリウスの力は</span><br><span class='scene-font-kokoro'>あんなものじゃなかったはずだ）</span>,（不，说到底……暴走的尤里乌斯不应该只有那种程度的力量…。）
+94,,<span class='scene-font-katari'>アルベールの中に浮かび上がった</span><br><span class='scene-font-katari'>疑問の数々。</span>,阿尔贝尔心中浮现出许多疑问。
+95,アルベール/阿尔贝尔,<span class='scene-font-kokoro'>（本当にユリウスは</span><br><span class='scene-font-kokoro'>暴走してしまったのだろうか？）</span>,（尤里乌斯他……真的失控了吗？）
+96,アルベール/阿尔贝尔,<span class='scene-font-kokoro'>（あの忌まわしき力に</span><br><span class='scene-font-kokoro'>呑まれたのならば、甚大な被害が</span><br><span class='scene-font-kokoro'>出ていてもおかしくなかったはず）</span>,（他被那种禁忌之力吞噬的话，损失应该会更大）
+97,アルベール/阿尔贝尔,もしや……,如果……
+100,ユリウス/尤里乌斯,フッ……<br>まぁ、この身がどうなろうとも<br>全てをこの国に捧げる覚悟だ。,呼……不管我的身体变成怎样，我都已经有了把一切奉献给祖国的觉悟。
+101,ユリウス/尤里乌斯,この想いは如何なることがあろうと<br>決して揺らぐことは無い。,无论如何，这个想法都不会动摇。
+104,アルベール/阿尔贝尔,<span class='scene-font-kokoro'>（……隠し通したい秘密さえ</span><br><span class='scene-font-kokoro'>あの場で明かすことによって……）</span>,（他把想要隐瞒的秘密也当场揭露……）
+105,アルベール/阿尔贝尔,<span class='scene-font-kokoro'>（国民の怒りを</span><br><span class='scene-font-kokoro'>一身に受けようとしたのか？）</span>,（是想把国民的愤怒集中到自己身上吗？）
+108,ユリウス/尤里乌斯,……さらばだ。<br>レヴィオンの英雄よ……,（再见了……雷维昂的英雄啊……）
+111,アルベール/阿尔贝尔,そうか……そうだったのか……<br>俺を英雄のまま、この国に残す為に……,是吗，是这样啊……为了让我成为英雄，留在这个国家……
+112,アルベール/阿尔贝尔,だとすれば……<br>俺は……,这样的话……我……
+113,,<span class='scene-font-katari'>頭を抱えるように</span><br><span class='scene-font-katari'>机に突っ伏したアルベール。</span>,阿尔贝尔趴在桌上，抱住了头。
+114,,<span class='scene-font-katari'>誰もいない執務室に</span><br><span class='scene-font-katari'>彼の嗚咽が静かに響き渡るのだった。</span>,在无人的办公室中，他的呜咽静静地回响。
+120,,<span class='scene-font-katari'>それから暫くして、</span><br><span class='scene-font-katari'>マイムがアルベールの執務室に訪れた。</span>,
+121,,<span class='scene-font-katari'>だがアルベールは</span><br><span class='scene-font-katari'>マイムの存在に気づかず、</span><br><span class='scene-font-katari'>ただただ中空を見つめ続ける。</span>,阿尔贝尔并未注意麦姆的存在，只是一直凝视着天空。
+122,マイム/麦姆,団長、大丈夫ですか？,团长，您没事吗？
+123,アルベール/阿尔贝尔,あ、ああ……マイムか。<br>問題ない。,啊啊……是麦姆啊。没关系的。
+124,マイム/麦姆,私の前で無理などなさらぬよう……,您在我面前不需要勉强自己……
+125,アルベール/阿尔贝尔,フッ、無理など……<br>ちょっと休んでただけだ。,呼，没有勉强……<br>我只是休息一下罢了。
+126,マイム/麦姆,本当に……<br>ユリウス様を捜しに行かなくても<br>良いのですか？,您不去找尤里乌斯大人<br>……真的好吗？
+127,アルベール/阿尔贝尔,……気にならないと言ったら嘘になる。,……要说不在意那当然是假的。
+128,アルベール/阿尔贝尔,だがいまは……,但是现在……
+129,,<span class='scene-font-katari'>瞳に強い意思を宿したアルベールは、</span><br><span class='scene-font-katari'>涼しげな笑顔をマイムに向ける。</span>,阿尔贝尔的眼中充满了强烈的意志，对麦姆露出冷静的微笑。
+130,アルベール/阿尔贝尔,親友殿との<br>約束を果たすのが先だ。,首先要履行与我挚友的约定。
+131,アルベール/阿尔贝尔,さぁ、これから忙しくなるぞ！,好了，我们要开始忙了！
+136,,<span class='scene-font-katari'>アルベールは力強くそう告げると、</span><br><span class='scene-font-katari'>窓から空を見上げる。</span>,阿尔贝尔这么宣言，从窗口仰望天空。
+137,,<span class='scene-font-katari'>このどこまでも続く果てしない空の下、</span><br><span class='scene-font-katari'>いつかどこかで</span><br><span class='scene-font-katari'>ユリウスと再会することを願って──</span>,在这无尽的天空下，希望有一天能再见到尤里乌斯。
+info,,,scene_ult_chr141_ep2_q3_s30
+译者,,,

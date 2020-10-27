@@ -1,0 +1,12 @@
+id,name,text,trans
+0-chapter_name,,彷徨う刃,彷徨之刃
+0-synopsis,,四天刃の力により心を失くしてしまったカトルは、最強になる為に、最愛の姉であるエッセルにも、その鋭い刃を振り下ろすのだった。,因为四天刃的力量失去了理智的卡托尔，为了成为最强，即使面对最爱的姐姐艾瑟尔，都不惜挥下利刃。
+1,エッセル/艾瑟尔,きゃっ！？,呀啊！？
+2,カトル/卡托尔,ネエサン……<br>何でワカッテくれないンダ？,姐姐……<br>你为什么不懂呢？
+3,エッセル/艾瑟尔,カトル……,卡托尔……
+4,カトル/卡托尔,サイキョウになれば……<br>もうヤツラをノバナシニ<br>しなくてイインダ……,只要我成为最强……<br>就不用再放任那些家伙了……
+5,カトル/卡托尔,ダカラ……ダカラ……<br>ゼンブ倒さなきゃイケナイ！,所以……所以……<br>我必须打倒所有人！
+6,,<span class='scene-font-katari'>カトルの手に握られた</span><br><span class='scene-font-spword'>四天刃</span><span class='scene-font-katari'>が怪しく光る。</span>,<span class='scene-font-katari'>卡托尔手握的</span><span class='scene-font-spword'>四天刃</span><span class='scene-font-katari'>发出了奇怪的光芒。</span>
+7,,<span class='scene-font-spword'>四天刃</span><span class='scene-font-katari'>を振り上げたカトルは、</span><br><span class='scene-font-katari'>身を震わせながらエッセルに</span><br><span class='scene-font-katari'>振り下ろした。</span>,<span class='scene-font-katari'>卡托尔举起</span><span class='scene-font-spword'>四天刃</span><span class='scene-font-katari'>，一边颤抖着一边对着艾瑟尔挥了下去。</span>
+info,,,scene_ult_chr121_q4_8_s20
+译者,,,sora_vicki

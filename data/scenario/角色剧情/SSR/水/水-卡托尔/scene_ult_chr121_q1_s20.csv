@@ -1,0 +1,19 @@
+id,name,text,trans
+0-chapter_name,,届かぬ刃,传达不到的剑刃
+0-synopsis,,姬塔との激しい戦闘に疲弊したカトルの元へ、星屑の街の子供達が心配そうに駆け寄る。だが、カトルは頭を冷やすためしばらく一人になりたい、とその場を去っていく。残された姬塔と子供たちは皆、一様にカトルの身を案じるのだった。,在与姬塔激斗之后疲惫的卡托尔的身边，聚集起了担心卡托尔的星屑之街的孩子们。但是，卡托尔借想要一个人冷静一下的理由，离开了那里。被留在原地的孩子们和姬塔都十分担心卡托尔的安危。
+1,カトル/卡托尔,ぐっ……くそっ……<br>やはり……僕は姬塔に<br>及ばない……のかっ！,唔……可恶……<br>果然我还是……比不过……姬塔吗！
+2,,<span class='scene-font-katari'>激しい戦闘を終えて</span><br><span class='scene-font-katari'>肩で息をするカトルと</span><br><span class='scene-font-katari'>姬塔。</span>,<span class='scene-font-katari'>在激烈的战斗之后，卡托尔和姬塔大口喘着粗气。</span>
+3,ルリア/露莉亚,だ、大丈夫ですか！<br>二人ともっ！,你们两个！<br>没、没事吧！
+4,カトル/卡托尔,はぁ……はぁ……<br>僕に……もっと力があれば……,哈……哈……<br>要是我有……更强大的力量话……
+5,ビィ/碧,カトル……,卡托尔……
+6,傷ついた子供,カトルお兄ちゃん……<br>ケンカは……ダメだよ……？,卡托尔哥哥……<br>不可以……打架噢……？
+7,カトル/卡托尔,ああ……<br>急に驚かせて悪かった。,啊啊……<br>不好意思突然吓着你们了。
+8,,<span class='scene-font-katari'>カトルと姬塔達の周りに</span><br><span class='scene-font-katari'>心配そうに集まる星屑の街の子供達。</span>,<span class='scene-font-katari'>在卡托尔和姬塔的周围聚集起担心他们的星屑之街的孩子们。</span>
+9,カトル/卡托尔,……頭を冷やしたいので、<br>しばらく一人にして下さい。,……我想冷静一下，<br>暂时让我一个人待一会儿。
+10,ルリア/露莉亚,あ……あの！<br>もう危ないコト、しませんよね？,那……那个！<br>不会再做危险的事了吧？
+11,カトル/卡托尔,ええ……<br>僕はそこまで馬鹿じゃありません。,嗯……<br>我也没有蠢到那个地步。
+12,カトル/卡托尔,ご迷惑……おかけしました。,给你们……添麻烦了。
+13,,<span class='scene-font-katari'>そう言って、姬塔達の</span><br><span class='scene-font-katari'>前から立ち去るカトルの背中は、</span><br><span class='scene-font-katari'>どこか憂いを帯びていた。</span>,<span class='scene-font-katari'>卡托尔这么说着，从姬塔一行人的面前离开了。</span><br><span class='scene-font-katari'>他的背影中带着一份忧郁。</span>
+14,,<span class='scene-font-katari'>姬塔達や子供達は、</span><br><span class='scene-font-katari'>口々にカトルの身を</span><br><span class='scene-font-katari'>案じるのであった。</span>,<span class='scene-font-katari'>姬塔一行人和孩子们都无一例外地担心着卡托尔的安危。</span>
+info,,,scene_ult_chr121_q1_s20
+译者,,,sora_vicki

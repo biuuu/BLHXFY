@@ -1,0 +1,33 @@
+id,name,text,trans
+0-chapter_name,,救国の騎士の迷い,救国の騎士の迷い
+0-synopsis,,白竜騎士団の面々と姬塔達は魔物討伐を終え王都に帰還するが、ランスロットは民の不安を拭えぬことを悩み続けていた。そこへカール王が訪れ、しばらくの間国を離れ、騎空団に身を寄せるよう申し渡す。それは国のために必死に働くランスロットへのねぎらいであり、自らの騎士道に答えを見出すべく、ランスロットは国を離れることを決めるのだった。,白龙骑士团的人们与姬塔一行结束了任务回到王都，兰斯洛特仍在烦恼如何解决人民的不安。这时卡尔王前来提出了让兰斯洛特暂时离开国家，与骑空团一起游历的建议。这既是对辛苦工作的他的犒劳，也是为了让他得出自己的骑士道的答案，于是兰斯洛特决定离开这个国家。
+0,,<span class='scene-font-katari'>姬塔達と白竜騎士団は<br><span class='scene-font-katari'>無事、魔物の討伐を終えて</span><br><span class='scene-font-katari'>城へと帰還した。</span>,<span class='scene-font-katari'>姬塔一行和白龙骑士团<br><span class='scene-font-katari'>平安结束了讨伐怪物的任务</span><br><span class='scene-font-katari'>回到了王城。</span>
+1,,<span class='scene-font-katari'>翌日からも討伐を続けながら、</span><br><span class='scene-font-katari'>ランスロットは</span><br><span class='scene-font-katari'>ひとり悩み続けていた。</span>,<span class='scene-font-katari'>虽然第二天还有讨伐任务，</span><br><span class='scene-font-katari'>但兰斯洛特</span><br><span class='scene-font-katari'>仍然独自继续烦恼着。</span>
+2,ランスロット/兰斯洛特,<span class='scene-font-kokoro'>（ただ敵を、魔物を倒すだけでは</span><br><span class='scene-font-kokoro'>民の不安は拭い去れない……）</span>,<span class='scene-font-kokoro'>（仅仅是打倒敌人、怪物</span><br><span class='scene-font-kokoro'>是无法抹去人们心中的不安的……）</span>
+3,ランスロット/兰斯洛特,<span class='scene-font-kokoro'>（だが……俺はいったい……</span><br><span class='scene-font-kokoro'>……どうすれば……？）</span>,<span class='scene-font-kokoro'>（但……我究竟……</span><br><span class='scene-font-kokoro'>……应该做什么……？）</span>
+4,ランスロット/兰斯洛特,<span class='scene-font-kokoro'>（……己の王道が見えている</span><br><span class='scene-font-kokoro'>パーシヴァルからすれば、</span><br><span class='scene-font-kokoro'>俺は愚かに見えるのかもな……）</span>,<span class='scene-font-kokoro'>（……如果从贯彻自己的王道的</span><br><span class='scene-font-kokoro'>帕西瓦尔看来，</span><br><span class='scene-font-kokoro'>也许我很傻吧……）</span>
+6,ランスロット/兰斯洛特,<span class='scene-font-kokoro'>（……ん？</span><br><span class='scene-font-kokoro'>こんな時間に誰だ？）</span>,<span class='scene-font-kokoro'>（……嗯？</span><br><span class='scene-font-kokoro'>这个时候，是谁？）</span>
+7,カール/卡尔,邪魔をするぞ、ランスロット。,打扰了，兰斯洛特。
+8,ランスロット/兰斯洛特,陛下！？<br>このようなむさくるしいところに……！,陛下！？<br>怎么能来到这样脏乱的地方……！
+9,カール/卡尔,良い良い。<br>はっはっは、なるほど……,没关系。<br>哈哈哈，原来如此……
+10,カール/卡尔,これはヴェインが<br>片づけねばならぬのも道理だ。,这就是不得不让维恩来收拾的理由啊。
+11,ランスロット/兰斯洛特,も、申し訳ありません……,非，非常抱歉……
+12,カール/卡尔,部屋の片づけもままならぬほど、<br>そなたには負担をかけてしまったな。,你的负担已经重到，<br>没法整理房间了吗。
+13,カール/卡尔,それに、このところ<br>なにやら考え込んでおるようだ。,而且，最近你好像在想些什么的样子。
+14,ランスロット/兰斯洛特,申し訳ありません……<br>己の騎士道に足りない物が<br>あるのでは、と……,非常抱歉……<br>我在思考的是，自己的骑士道不足的东西……
+15,ランスロット/兰斯洛特,ですが、任務には<br>決して手抜かりは……！,但是，绝对不会怠慢人物……！
+16,カール/卡尔,まあまあ、そう力むでない。<br>ふふ……本当に真面目だな。,嘛嘛，没有那个意思。<br>哈哈……你真的很认真呢。
+17,カール/卡尔,……ランスロット。<br>ワシは以前より、働きすぎな<br>そなたを心配しておってな。,……兰斯洛特。<br>我从很久以前就很担心你过度劳累。
+18,ランスロット/兰斯洛特,私は騎士です！<br>国のため、陛下のために<br>身を粉にするのは当然です！,我是一名骑士！<br>为了国家和殿下，粉身碎骨理所应当！
+19,カール/卡尔,……そう言ってくれるな。<br>たまには羽を伸ばして欲しいのだ。,……就知道你会这样说。<br>但有时候希望你能够更加施展才华。
+20,カール/卡尔,どうだ？<br>ワシから姬塔殿に<br>頼んでおこう……,怎样？<br>我会拜托姬塔殿……
+21,カール/卡尔,そなたは暫く騎空団に身を寄せ、<br>しばらく仕事から離れると良い。,你就暂时离开工作，<br>去骑空团好了。
+22,ランスロット/兰斯洛特,陛下……！？,陛下……！？
+23,カール/卡尔,ふふ……<br>これは命令だ、ランスロット。,呵呵……<br>这是命令，兰斯洛特。
+24,ランスロット/兰斯洛特,<span class='scene-font-kokoro'>（いや……陛下の言う通り、</span><br><span class='scene-font-kokoro'>少し仕事を離れてみるか……）</span>,<span class='scene-font-kokoro'>（不……就如殿下所说、</span><br><span class='scene-font-kokoro'>试试先别工作了……）</span>
+25,ランスロット/兰斯洛特,……陛下のお心遣い、<br>誠に痛み入ります。,……我谨记殿下的好心。
+26,,<span class='scene-font-katari'>こうしてカール王の頼みで、</span><br><span class='scene-font-katari'>姬塔はランスロットを</span><br><span class='scene-font-katari'>騎空艇に乗せることになった。</span>,<span class='scene-font-katari'>就这样在卡尔王的拜托下，</span><br><span class='scene-font-katari'>姬塔让兰斯洛特</span><br><span class='scene-font-katari'>登上了骑空艇。</span>
+27,,<span class='scene-font-katari'>騎士団を、国を外から眺め</span><br><span class='scene-font-katari'>ランスロットが何を想うか……</span>,<span class='scene-font-katari'>从国外眺望骑士团的</span><br><span class='scene-font-katari'>兰斯洛特在想什么……</span>
+28,,<span class='scene-font-katari'>彼が自らの騎士道に</span><br><span class='scene-font-katari'>答えを見出すには、</span><br><span class='scene-font-katari'>しばしの時間を必要としていた。</span>,<span class='scene-font-katari'>在他对自己的骑士道</span><br><span class='scene-font-katari'>得出答案之前，</span><br><span class='scene-font-katari'>还需要一定的时间。</span>
+info,,,scene_ult_chr095_ep1_q3_s20
+译者,,,myu

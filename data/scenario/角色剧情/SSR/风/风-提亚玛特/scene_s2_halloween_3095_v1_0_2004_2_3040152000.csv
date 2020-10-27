@@ -1,0 +1,16 @@
+id,name,text,trans
+1,,<span class='scene-font-katari'>ハロウィンパーティーが催され、</span><br><span class='scene-font-katari'>大いに賑わいを見せる艇内。</span>,<span class='scene-font-katari'>骑空艇内举办了万圣节派对，热闹非凡。</span>
+2,ティアマト/提亚玛特,────,————
+3,,<span class='scene-font-katari'>その様子を穏やかな表情で</span><br><span class='scene-font-katari'>見守っていた姬塔は、</span><br><span class='scene-font-katari'>ティアマトのもとへ足を向ける。</span>,<span class='scene-font-katari'>一脸温柔地看着这一切的姬塔走向了提亚玛特。</span>
+4,ティアマト/提亚玛特,────？,————？
+5,,<span class='scene-font-katari'>不思議そうに見つめてくる</span><br><span class='scene-font-katari'>ティアマトに、姬塔は</span><br><span class='scene-font-katari'>とある言葉を投げかけた。</span>,<span class='scene-font-katari'>对着一脸不可思议盯着姬塔看的提亚玛特，姬塔说了一句话。</span><br>
+5-sel1_txt,,<span class='scene-font-katari'>トリック・オア・トリート！</span>,<span class='scene-font-katari'>不给糖就捣蛋！</span>
+6,ティアマト/提亚玛特,────！,————！
+14,,<span class='scene-font-katari'>姬塔の言葉の後、</span><br><span class='scene-font-katari'>突然、艇内に暴風が吹き荒れる。</span>,<span class='scene-font-katari'>今天说出这句话后，骑空艇内突然刮起了暴风。</span>
+16,,<span class='scene-font-katari'>かと思えば、大量のお菓子が</span><br><span class='scene-font-katari'>降り注ぎ瞬く間に床を</span><br><span class='scene-font-katari'>埋め尽くしていった。</span>,<span class='scene-font-katari'>就在姬塔这么想的时候，大量糖果落了下来瞬间淹没了地板。</span>
+17,ティアマト/提亚玛特,────,————
+18,,<span class='scene-font-katari'>呆然とする姬塔に、</span><br><span class='scene-font-katari'>得意げに胸を張ってみせる</span><br><span class='scene-font-katari'>ティアマト。</span>,<span class='scene-font-katari'>提亚玛特有些得意地向吃惊的姬塔挺胸夸耀。</span>
+19,,<span class='scene-font-katari'>意外なサプライズに呆気にとられた</span><br><span class='scene-font-katari'>姬塔だが、ティアマトの</span><br><span class='scene-font-katari'>自慢げな様子を見て笑いを零す。</span>,<span class='scene-font-katari'>虽然被意料之外的惊喜吓到发愣，不过看到提亚玛特自满的样子，姬塔还是笑出了声。</span>
+20,,<span class='scene-font-katari'>その声は次第に艇内に伝染していき、</span><br><span class='scene-font-katari'>団員達に笑顔の花を咲かせたのだった。</span>,<span class='scene-font-katari'>笑声逐渐传染给船内的其他人，团员们的脸上都露出了笑容。</span>
+info,,,scene_s2_halloween_3095_v1_0_2004_2_3040152000
+译者,,,

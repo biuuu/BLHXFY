@@ -1,0 +1,11 @@
+id,name,text,trans
+1,,<span class='scene-font-katari'>のんびりと過ごしていた</span><br><span class='scene-font-katari'>姬塔の前に、</span><br><span class='scene-font-katari'>突如、小さな竜巻が起きた。</span>,<span class='scene-font-katari'>一个小型龙卷风突然出现在正在悠闲休息的姬塔面前。</span>
+2,,<span class='scene-font-katari'>何事かと慌てる姬塔だったが、</span><br><span class='scene-font-katari'>その小さな竜巻が運んできた</span><br><span class='scene-font-katari'>チョコレートを見てハッとする。</span>,<span class='scene-font-katari'>姬塔以为发生了什么事慌张了起来，</span><br><span class='scene-font-katari'>看到小龙卷风送过来的巧克力松了口气。</span>
+4,,<span class='scene-font-katari'>そして、すぐさま周囲を見渡し、</span><br><span class='scene-font-katari'>ティアマトの名を呼ぶと、</span><br><span class='scene-font-katari'>風の中から彼女が姿を現した。</span>,<span class='scene-font-katari'>姬塔马上环视周围，呼唤提亚玛特的名字，</span><br><span class='scene-font-katari'>随后她出现在风中。</span>
+5,ティアマト/提亚玛特,────！,————！
+6,,<span class='scene-font-katari'>まさか星晶獣であるティアマトが</span><br><span class='scene-font-katari'>バレンタインチョコをくれるなど、</span><br><span class='scene-font-katari'>夢にも思わなかった姬塔。</span>,<span class='scene-font-katari'>姬塔做梦也没有想过，</span><br><span class='scene-font-katari'>身为星晶兽的提亚玛特会送巧克力。</span>
+7,,<span class='scene-font-katari'>だからこそ、</span><br><span class='scene-font-katari'>それが嬉しくて堪らなかった。</span>,<span class='scene-font-katari'>所以看到她送才会那么开心。</span>
+8,ティアマト/提亚玛特,────,————
+9,,<span class='scene-font-katari'>そんな姬塔に</span><br><span class='scene-font-katari'>つられるかのように</span><br><span class='scene-font-katari'>ティアマトも微かに口元を緩める。</span>,<span class='scene-font-katari'>仿佛被这么开心的姬塔影响，</span><br><span class='scene-font-katari'>提亚玛特也微微翘起了嘴角。</span>
+10,,<span class='scene-font-katari'>これからも、人間の行事を</span><br><span class='scene-font-katari'>ティアマトと楽しめたらいいなと、</span><br><span class='scene-font-katari'>姬塔は思うのだった。</span>,<span class='scene-font-katari'>姬塔心想，</span><br><span class='scene-font-katari'>今后提亚玛特也能继续享受人类的节庆活动就好了。</span>
+info,,,scene_s1_valentine_3095_v1_0_2002_1_3040152000_1

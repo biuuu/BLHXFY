@@ -1,0 +1,27 @@
+id,name,text,trans
+0-chapter_name,,十天衆との邂逅①,十天衆との邂逅①
+0-synopsis,,十狼雷の更なる覚醒について姬塔一行とシェロカルテが話をしていると、よろず屋に新たな女性客がやってくる。邪魔をしては悪いと感じた一行は店を出てから、十狼雷を必ず覚醒させると意気込むのだった。,姬塔一行人和榭洛科特说着十狼雷进一步觉醒的事的时候，一位新的女客人来到万事屋。不好意思妨碍营业的一行人走出了店，带着干劲想着一定要让十狼雷觉醒。
+0,,<span class='scene-font-katari'></span><span class='scene-font-spword'>「十狼雷」</span><span class='scene-font-katari'>の「覚醒」を試みる</span><br><span class='scene-font-katari'>姬塔達は、その力の一端を</span><br><span class='scene-font-katari'>引き出すことに成功した。</span>,<span class='scene-font-katari'>姬塔一行人尝试让</span><span class='scene-font-spword'>「十狼雷」</span><span class='scene-font-katari'>「覚醒」，成功的引出了它的一部分力量。</span>
+1,,<span class='scene-font-katari'>更なる「覚醒」に至るべく、</span><br><span class='scene-font-katari'>一行はシェロカルテの意見を求めて</span><br><span class='scene-font-katari'>よろず屋へやってきていた。</span>,<span class='scene-font-katari'>为了让其进一步「觉醒」，一行人来到万事屋向谢罗科特寻求意见。</span>
+2,シェロカルテ/榭洛科特,ふむふむ～……しばらくは、<br>今の工程を繰り返していくことが<br>求められるみたいですね～,嗯嗯～……<br>暂时好像需要不断重复现在的工序呢～
+3,シェロカルテ/榭洛科特,「覚醒」のためには<span class='scene-font-spword'>「十狼雷」</span>の<br>強度と内に秘める魔力の密度、<br>その両方を高める必要があります～,为了「觉醒」，<span class='scene-font-spword'>「十狼雷」</span>的强度和其蕴含魔力的密度都需要提高～
+4,ビィ/碧,なるほどなぁ……<br>一朝一夕じゃできないんだな……,原来如此……<br>这不是一朝一夕能做到的啊……
+5,ルリア/露莉亚,大変なことなんですね、「覚醒」って。<br>でも、きっとそこまでできたら<br>ものすごい武器になるんでしょうね！,「觉醒」真是辛苦的工作啊。<br>但是做到了之后一定会成为不得了的武器吧！
+6,ルリア/露莉亚,頑張ってください、姬塔！<br>私、応援してますから！,请加油、姬塔！<br>我也会给你打气的！
+7,,<span class='scene-font-katari'>一同が</span><span class='scene-font-spword'>「十狼雷」</span><span class='scene-font-katari'>を前に</span><br><span class='scene-font-katari'>盛り上がっていたところ、</span><br><span class='scene-font-katari'>よろず屋に新たな客がやってきた。</span>,<span class='scene-font-katari'>大家在</span><span class='scene-font-spword'>「十狼雷」</span><span class='scene-font-katari'>面前情绪高涨的时候，万事屋来了新的客人。</span>
+8,？？？,……よろず屋さん。<br>今、大丈夫？,……万事屋。<br>现在有空吗？
+9,シェロカルテ/榭洛科特,あらら～、すみません～！<br>話し込んじゃってました～,啊啦啦～、抱歉～！<br>太专注对话了没注意到～
+10,？？？,前に、話した……<br>書類のことで、来たのだけど。,之前跟你说过的……关于资料的事情。<br>我为此而来。
+11,シェロカルテ/榭洛科特,はいはい～！<br>今取ってきますね～,好的好的～！<br>我现在就给你拿来～
+13,ルリア/露莉亚,長居すると、<br>お店の邪魔になっちゃいますね。<br>そろそろ帰りましょうか。,待太久了会妨碍营业呢。<br>差不多该回去了。
+14,ルリア/露莉亚,シェロさーん、お邪魔しました！<br>また来ますね！,榭洛桑、打扰了！<br>我们下次再来！
+15,シェロカルテ/榭洛科特,は～い～！<br>また是非いらしてください～,好～的～！<br>请一定再次光临～
+16,,<span class='scene-font-katari'>姬塔達は</span><br><span class='scene-font-katari'>よろず屋を後にしようと</span><br><span class='scene-font-katari'>女性の隣をすり抜け出口に向かう。</span>,<span class='scene-font-katari'>姬塔一行人准备离开，从那位女性旁边走向出口。</span>
+19,？？？,ん……それ、もしかして……,嗯……那个、难道说……
+20,ビィ/碧,ん？<br>姉ちゃん、何かオイラ達に<br>気になるところがあったか？,嗯？<br>小姐姐，我们有什么让你在意的地方吗？
+21,？？？,……ごめん、きっと見間違い。<br>……よろず屋さんと話してたのに、<br>邪魔してしまった？,……抱歉、一定是我搞错了。<br>……刚才你们在跟万事屋说话，我打扰你们了吗？
+22,ルリア/露莉亚,いえ！<br>そろそろお暇しようと<br>思ってましたから。,没有！<br>我们正想着差不多该告辞了。
+23,？？？,そう。<br>なら、良かった。,这样啊。<br>那就好。
+24,ビィ/碧,それにしても、「覚醒」には<br>相当手間がかかるみてぇだな……<br>地道にやっていこうぜ、姬塔！,话说回来、让它「觉醒」相当的费功夫呢……<br>踏实的一步步来吧、姬塔！
+info,,,scene_evolutionweapon_10_ep1
+译者,,,

@@ -1,0 +1,32 @@
+id,name,text,trans
+0-chapter_name,,戦死の追憶,阵亡的回忆
+0-synopsis,,またしてもガイゼンボーガは小高い丘の上から戦況を見守りつつ、何者かと会話を交わしていた。ガイゼンボーガは星晶獣と出会った頃の思い出を語る。かつて、味方に裏切られ砂漠に取り残されたガイゼンボーガは、不可思議な体験をしていた。死を覚悟したガイゼンボーガは、気づけば満身創痍の身で砂漠を踏破し、奇跡的に王都への帰還を果たしたのだった。,盖森伯格还在山丘上看着战况，与谁交谈着。他叙述了和星晶兽相遇时的事。曾经，他被战友背叛，抛弃在沙漠中。他经历了一些不可思议的事，这使本来濒死的他却带着满身疮痍奇迹般地跨越了沙漠，回到了王城。
+1,,<span class='scene-font-katari'>またしてもガイゼンボーガが独り、</span><br><span class='scene-font-katari'>小高い丘の上から</span><br><span class='scene-font-katari'>悠然と戦況を見守っていた。</span>,盖森伯格仍独自站在山丘之上，悠然观察着战况。
+2,,<span class='scene-font-katari'>戦線は一進一退の攻防を繰り返し、</span><br><span class='scene-font-katari'>ともすれば膠着気味ともとれるが、</span><br><span class='scene-font-katari'>心なしか終結の時は近いように見える。</span>,攻防的战线反复进退<br>，给人一种战况胶着的印象。<br>但也许是心理作用，这一战看上去要结束了。
+6,,<span class='scene-font-katari'>それに呼応してか、</span><br><span class='scene-font-katari'>彼の首に下がる血の如く赤い結晶が</span><br><span class='scene-font-katari'>愉悦の光を帯びて激しく明滅した。</span>,他脖子上所戴如血般赤红的结晶剧烈闪烁着，<br>仿佛十分愉悦。
+7,ガイゼンボーガ/盖森伯格,ククッ……そうか、昂ぶるか。<br>こうして戦場を見渡していると、<br>貴様と出会った頃を思い出すな……,呼呼，兴奋起来了吗。<br>看到这样的战场，<br>我想起了我们相遇的那一次。
+8,ガイゼンボーガ/盖森伯格,そうだ、あの、砂漠の砂が、<br>血と脂で泥濘と化した、<br>悲惨の戦場のことをな……,没错，那片沙漠，<br>那个悲惨的战场，血与肉所化作的泥潭。
+14,,<span class='scene-font-katari'>かつて吾輩は、とある国に従軍し、</span><br><span class='scene-font-katari'>砂漠の戦争に参加したことがあった。</span>,过去的我服役于某个国家，投身于一场发生在沙漠的战争。
+15,,<span class='scene-font-katari'>吾輩は戦況を打開すべく</span><br><span class='scene-font-katari'>単独で進軍を試み、</span><br><span class='scene-font-katari'>遂に敵将を討ち取ってみせた。</span>,我为了推动战况利于己方，单独深入敌后，终于讨伐了敌军的大将。
+16,,<span class='scene-font-katari'>だが、かねてより買い続けた恨みで、</span><br><span class='scene-font-katari'>味方の軍からは見捨てられ、</span><br><span class='scene-font-katari'>気づけば砂漠の真ん中で孤立……</span>,但是，由于长期以来的新仇旧怨，<br>回过神来，我军已将我一个人抛弃在沙漠中央。
+17,,<span class='scene-font-katari'>食料の補給路はとうに断たれ、</span><br><span class='scene-font-katari'>水の一滴さえもなく、最悪なことに、</span><br><span class='scene-font-katari'>無謀な戦闘で全身を負傷していた。</span>,既没有食物补给，水也一滴不剩。<br>最糟的是，我还因鲁莽的战斗而受了一身伤。
+18,ガイゼンボーガ/盖森伯格,ぬううぅ……<br>もはや、これまでか……,啊啊，已经，到此为止了吗……
+19,,<span class='scene-font-katari'>我が剣に屠られた</span><br><span class='scene-font-katari'>無数の骸とともに横たわり、</span><br><span class='scene-font-katari'>後は静かに死の訪れを待つだけだった。</span>,我躺在那些死于我剑下的无数尸体中间，<br>静静等待着死亡的降临。
+20,,<span class='scene-font-katari'>見上げれば夜空。</span>,我望向夜空。
+21,,<span class='scene-font-katari'>我が周りを遮るものはなく、</span><br><span class='scene-font-katari'>砂漠特有の乾いた空気が澄み渡り、</span><br><span class='scene-font-katari'>純度の高い満天の星々を見せてくれた。</span>,我的周围毫无遮蔽，<br>只有沙漠特有的澄澈而干燥的空气。<br>满天的繁星看起来格外干净而清晰。
+22,ガイゼンボーガ/盖森伯格,ククッ……<br>手向けの送り灯には<br>ちと上等過ぎるが……,呼呼，这漫天繁星<br>作为指引亡途的灯火来说太过华丽了……
+23,,<span class='scene-font-katari'>手を伸ばせば届きそうなほど星は近く、</span><br><span class='scene-font-katari'>その中でも、一際強く燃え盛る星を</span><br><span class='scene-font-katari'>吾輩は見つけた。</span>,群星近在咫尺，<br>仿佛触手可及，<br>其中有一颗星星燃烧地格外明亮。
+24,,<span class='scene-font-katari'>気づいた時には祈っていた。</span><br><span class='scene-font-katari'>神など信じず、己の力のみを頼りに</span><br><span class='scene-font-katari'>生きてきた男が、涙を流し祈っていた。</span>,回过神来我发现我在祈祷。<br>一个不相信神，<br>只依靠自己的力量生存的男人，<br>居然在流泪祈祷着。
+25,ガイゼンボーガ/盖森伯格,嗚呼、煌然たる極星よ……<br>願わくば、王の都へと凱旋し、<br>今一度勝ちどきの歌に酔わせ給え……,啊……灿烂的极星啊，<br>求你让我凯旋于王城……<br>再一次沉醉于胜利的赞歌中吧……
+26,,<span class='scene-font-katari'>何度そう唱えたであろうか。</span><br><span class='scene-font-katari'>吾輩は疲労と衰弱から</span><br><span class='scene-font-katari'>深き眠りへ落ちていく。</span>,究竟祈祷了多少次呢。<br>由于疲劳和衰弱，我渐渐陷入沉眠。
+27,,<span class='scene-font-katari'>その間際、微かに星の声を</span><br><span class='scene-font-katari'>聞いたような気がしたのだ……</span>,在那之中，<br>我隐约听到了些微星星的声音……
+29,？？？,……汝ノ願イ……聞キ届ケタ……,汝之期望，传达于此……
+35,ガイゼンボーガ/盖森伯格,その三日後。<br>吾輩は灼熱の砂漠を越え、<br>無事、王都へ帰還した。,那之后过了三天。<br>我跨越了灼热的沙漠，平安返回了王城。
+36,ガイゼンボーガ/盖森伯格,不思議なことに、吾輩の身体からは<br>一滴の汗も流れていなかった。,不可思议的是，我的身上一滴汗都没流下。
+37,ガイゼンボーガ/盖森伯格,しかし皮膚は焼けただれ、<br>臓腑は半ば壊死し、四肢は立っている<br>のが不思議なほど複雑に骨折していた。,但我的皮肤已经烧焦，<br>我的器官一半都坏死了，<br>我严重骨折的四肢不可思议地支撑着我的身体。
+38,ガイゼンボーガ/盖森伯格,どう考えても砂漠を踏破できる<br>状態ではなく、それどころか<br>いつ死んでもおかしくなかったのだ。,不管怎么看我都不可能跨越沙漠，<br>甚至可以说我处于随时都会死亡的状态。
+39,ガイゼンボーガ/盖森伯格,ククッ……<br>よもや戻ってくるとは<br>思ってもみなかったのだろう。,呼呼，大概是没想到我还能回来吧。
+40,ガイゼンボーガ/盖森伯格,吾輩を置き去りにした自軍の者どもは<br>真っ青な顔で聞いてきたぞ。<br>お前、その身体痛くはないのか、と──,那些抛弃了我的、<br>曾经的战友脸色煞白的问道，<br>你的身体感觉不到痛吗？
+41,ガイゼンボーガ/盖森伯格,クククッ……痛みなど微塵もなかった。<br>空言でも虚勢でも無く……<br>吾輩は本当に気づかなかったのだ……,库呼呼……我感觉不到丝毫疼痛。<br>这既不是胡言乱语也不是虚张声势。<br>我真的什么都感觉不到了……
+info,,,scene_chr488_ep4_s10
+译者,,,

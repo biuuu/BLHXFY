@@ -1,0 +1,23 @@
+id,name,text,trans
+0-chapter_name,,忠騎士の覚悟,忠骑士的觉悟
+0-synopsis,,訪れた王都フェードラッヘで、ランスロットの師匠とも言える英雄ジークフリートは、ランスロットが探し続けた答えを問う。胸を張って真の忠臣のあるべき姿を答えたランスロットに、ジークフリートはその覚悟を貫く強さがあるかどうかを試すべく勝負を挑む。,到达王都费德拉赫后、作为兰斯洛特老师的英雄齐格飞询问兰斯洛特寻求的问题的答案。兰斯洛特挺起胸膛回答了真正的忠臣应有的面貌，但是齐格飞为了测试他贯彻这种觉悟的强大而与他一决胜负。
+0,,<span class='scene-font-katari'>グランサイファーは、</span><br><span class='scene-font-katari'>フェードラッヘの発着場に</span><br><span class='scene-font-katari'>到着した。</span>,<span class='scene-font-katari'>古兰塞法、</span><br><span class='scene-font-katari'>到达了</span><br><span class='scene-font-katari'>费德拉赫的飞行坪。</span>
+7,,<span class='scene-font-katari'>騎空艇を降り</span><br><span class='scene-font-katari'>城へ向かおうとするランスロットを、</span><br><span class='scene-font-katari'>ジークフリートが呼び止めた。</span>,<span class='scene-font-katari'>从骑空艇下来</span><br><span class='scene-font-katari'>向着城里走去的兰斯洛特，</span><br><span class='scene-font-katari'>被齐格飞叫住了。</span>
+8,ランスロット/兰斯洛特,ジークフリートさん……？,齐格飞先生……？
+9,ジークフリート/齐格飞,……騎士とは何か、答えは出たか。,……你能回答，骑士是什么吗。
+10,ランスロット/兰斯洛特,ふっ……あなたはいつだって、<br>俺の悩みなんかお見通しですね。,嗯……你一直都能看穿我的烦恼呢。
+11,,<span class='scene-font-katari'>ランスロットは、曇り無い眼で、</span><br><span class='scene-font-katari'>ジークフリートを見据える。</span>,<span class='scene-font-katari'>兰斯洛特用毫无阴霾的眼神、</span><br><span class='scene-font-katari'>凝视着齐格飞。</span>
+12,ランスロット/兰斯洛特,……答えは、出ました。<br>俺はもう、迷いません。,……我已经得到答案了。<br>我已经不会迷茫了。
+13,ジークフリート/齐格飞,ふっ……<br>では、聞かせて貰おうか。<br>お前の、答えとやらを。,哼……<br>那么，让我听听看吧。<br>你的回答。
+14,,<span class='scene-font-katari'>ジークフリートの問いかけに、</span><br><span class='scene-font-katari'>胸を張って答えるランスロット。</span>,<span class='scene-font-katari'>面对齐格飞的疑问、</span><br><span class='scene-font-katari'>兰斯洛特挺起胸膛回答。</span>
+15,ランスロット/兰斯洛特,……王の言葉を盲信するのではなく、<br>王が誤った道を進もうとされる時は<br>それを正すのが真の忠臣……,……并不是盲信王的话、<br>在国王走错道路时<br>将其纠正，才是真正的忠臣……
+16,ランスロット/兰斯洛特,脅威から王を守るだけでなく、<br>民に慕われ、国を愛する王の……<br>その志をお守りします。,并不是仅仅从威胁中保护王、<br>而是要守护爱国爱民的王的意志。
+17,ジークフリート/齐格飞,ほう……,嚯……
+18,ランスロット/兰斯洛特,それが、国を守ること<br>真の騎士道に繋がると……<br>俺は、そう考えます。,这样才能将守护国家和真正的骑士道联系起来……<br>我是这么想的。
+19,ジークフリート/齐格飞,……なるほどな。<br>良い答えだ。,……原来如此啊。<br>不错的回答。
+20,ジークフリート/齐格飞,だが、それを成すためには<br>何事にも揺るがぬ意志を<br>貫く強さが不可欠……,但是，为了完成这件事，<br>需要贯彻任何事情都不动摇的强烈意志……
+21,ジークフリート/齐格飞,ランスロット。<br>お前の力と覚悟、この俺が試そう。<br>さぁ……かかってこい！,兰斯洛特。<br>让我来验证你的力量和觉悟吧。<br>那么，放马过来吧！
+22,ランスロット/兰斯洛特,ジークフリートさん……！,齐格飞先生……！
+23,ランスロット/兰斯洛特,わかりました……<br>あなたの胸をお借りします！,我知道了……<br>承蒙您的陪练！
+info,,,scene_ult_chr095_ep2_q3_s10
+译者,,,myu

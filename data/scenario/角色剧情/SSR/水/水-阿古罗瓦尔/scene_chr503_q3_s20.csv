@@ -1,0 +1,97 @@
+id,name,text,trans
+0-chapter_name,,辣腕と剛腕,辣腕と剛腕
+0-synopsis,,地下空間に足を踏み入れたアグロヴァルは、尚書官に取り憑いた幽世の者を倒す。アグロヴァルはかつて契約を結んだ幽世の者と再び相対する為、騙されたふりをしていた。そこに姬塔達が現れる。アグロヴァルは一行の前で地下空間の魔法陣を用い、かつて契約を結んだ幽世の者を呼び出すと、ひとり決着をつけるため斬りかかる。,来到地下空间的阿古罗瓦尔，打倒了附身于尚书官的幽世之人。为了能够再次对峙过去缔结契约的幽世之人、才装作被骗的样子。然后姬塔他们出现了。阿古罗瓦尔在姬塔一行人的面前使用了地下空间的魔法阵，召唤出了过去缔结契约的幽世之人，为了独自一人做个了断，阿古罗瓦尔挥舞起了剑。
+2,,<span class='scene-font-katari'>アグロヴァルは、</span><br><span class='scene-font-katari'>尚書官の働きによって掘り起こされた</span><br><span class='scene-font-katari'>巨大な地下空間に足を踏み入れる。</span>,<span class='scene-font-katari'>阿古罗瓦尔来到了、</span><br><span class='scene-font-katari'>由尚书官带领挖掘的</span><br><span class='scene-font-katari'>巨大地下空间之中。</span>
+3,,<span class='scene-font-katari'>瓦礫や土砂が綺麗に取り除かれた</span><br><span class='scene-font-katari'>その場所は、まさに、</span><br><span class='scene-font-katari'>崩落する以前の姿を取り戻していた。</span>,<span class='scene-font-katari'>瓦砾和沙土都被清理得干干净净</span><br><span class='scene-font-katari'>甚至恢复到了崩落之前的样子。</span>
+4,アグロヴァル/阿古罗瓦尔,<span class='scene-font-kokoro'>（ふん、</span><br><span class='scene-font-kokoro'>あの忌まわしき魔法陣までもが、</span><br><span class='scene-font-kokoro'>消えずに残っておるとはな……）</span>,<span class='scene-font-kokoro'>（哼、</span><br><span class='scene-font-kokoro'>居然连那个不舒服的魔法阵、</span><br><span class='scene-font-kokoro'>都保留了下来……）</span>
+5,尚書官,アグロヴァル様、<br>研究施設にあった資料も無事、<br>回収致しました。,阿古罗瓦尔大人、<br>在研究设施里的资料也全部安全回收了。
+6,アグロヴァル/阿古罗瓦尔,ふはは、<br>二度と掘り起こせまいと<br>思っていたが……,哈哈哈、<br>虽然没有想过会再次<br>挖掘出来……
+7,アグロヴァル/阿古罗瓦尔,貴様の活躍、見事だ。<br>褒めて遣わす。,你干得不错。<br>值得夸奖。
+8,尚書官,これはこれは、勿体なきお言葉……,哪里哪里、不胜感激……
+9,,<span class='scene-font-katari'>アグロヴァルは、</span><br><span class='scene-font-katari'>研究施設に残されていたという</span><br><span class='scene-font-katari'>資料を手に取り、目を通し始める。</span>,<span class='scene-font-katari'>阿古罗瓦尔、</span><br><span class='scene-font-katari'>拿起残留在研究设施的资料</span><br><span class='scene-font-katari'>开始过目。</span>
+10,アグロヴァル/阿古罗瓦尔,<span class='scene-font-kokoro'>（彼奴とふたたび相まみえることこそ、</span><br><span class='scene-font-kokoro'>我の願い……そして、必ずや……）</span>,<span class='scene-font-kokoro'>（再次和他们相遇才是、</span><br><span class='scene-font-kokoro'>我的愿望……而且、这次一定……）</span>
+11,尚書官,さぁ、アグロヴァル様！<br>まずはこの魔法陣にて、<br>彼の者を呼び寄せましょうぞ！,好了、阿古罗瓦尔大人！<br>先用这个魔法阵、<br>将他们召唤来吧！
+12,尚書官,そして契約を……！<br>さすれば、幽世の鍵を手に入れ、<br>幽世の門を開くことも叶いましょう。,然后缔结契约……！<br>如此一来、就能得到幽世之匙、<br>打开幽世之门。
+13,,<span class='scene-font-katari'>嬉々として告げられた尚書官の言葉に、</span><br><span class='scene-font-katari'>アグロヴァルは資料をめくっていた</span><br><span class='scene-font-katari'>その手を止める。</span>,<span class='scene-font-katari'>听着尚书官兴奋的话语、</span><br><span class='scene-font-katari'>阿古罗瓦尔停下了</span><br><span class='scene-font-katari'>翻阅书籍的手。</span>
+14,アグロヴァル/阿古罗瓦尔,……それはつまり、<br>あの幽世の者とふたたび契約を交わす、<br>と言うことか？,……那就是说、<br>再次和幽世之人交换契约是吗？
+15,尚書官,ええ、父君が研究していた魔法陣は、<br>彼の者を<br>呼び出す為のもので御座います。,没错、您父亲所研究的魔法阵、<br>正是为了召唤出他们的东西。
+16,尚書官,さぁ今度こそ、竜脈から力を──,来吧这次一定、从龙脉将力量──
+17,アグロヴァル/阿古罗瓦尔,ふ、ふふ……,呼、呵呵……
+18,アグロヴァル/阿古罗瓦尔,ふはははは！,哈哈哈哈哈！
+19,尚書官,アグロヴァル様……<br>如何なされました？,阿古罗瓦尔大人……<br>您怎么了？
+20,アグロヴァル/阿古罗瓦尔,いやはや……<br>我も早合点であったと思うてな。,哎呀哎呀……<br>没想到我也自作聪明了啊。
+21,,<span class='scene-font-katari'>アグロヴァルはそう呟くと、</span><br><span class='scene-font-katari'>侮蔑を込めた視線を尚書官に向ける。</span>,<span class='scene-font-katari'>如此嘟哝着的阿古罗瓦尔、</span><br><span class='scene-font-katari'>用侮蔑的眼神看着尚书官。</span>
+22,アグロヴァル/阿古罗瓦尔,もう終いだ。,已经结束了。
+23,尚書官,は？,哈？
+24,アグロヴァル/阿古罗瓦尔,貴様と契約をせねば、<br>彼奴を呼び寄せることが出来ぬと<br>勘違いしておった。,我误以为、<br>只要不和你签订契约<br>就不会召唤出那群家伙。
+25,アグロヴァル/阿古罗瓦尔,だが……父の研究結果と<br>あの魔法陣さえあれば、<br>それが叶うと知った今──,但是……在知道有父亲的研究成果<br>和那个魔法阵的话、<br>就能够办到的现在──
+26,アグロヴァル/阿古罗瓦尔,貴様の出来の悪い芝居に<br>付き合っている暇などない。,你导演的这出拙劣的戏<br>我可没功夫陪你。
+27,尚書官,…………,…………
+28,アグロヴァル/阿古罗瓦尔,さぁ、姿を現したらどうだ？<br>ひとりの力では何もできぬ、小者よ。,现出真身如何？<br>靠自己就什么都做不到的，渺小之人。
+29,尚書官,なっ……！？,什……！？
+30,アグロヴァル/阿古罗瓦尔,どうしたのだ？<br>我の家臣の中で震えておるのか？,怎么了？<br>在我家臣的体内瑟瑟发抖吗？
+31,,<span class='scene-font-katari'>アグロヴァルの手のひらの上で</span><br><span class='scene-font-katari'>踊らされていたと知った尚書官は、</span><br><span class='scene-font-katari'>激怒する。</span>,<span class='scene-font-katari'>愤怒的尚书官</span><br><span class='scene-font-katari'>发现自己正被阿古罗瓦尔玩弄于股掌之中。</span>
+32,尚書官,貴様ああッ……！,混蛋……！
+33,アグロヴァル/阿古罗瓦尔,ほう、咆えるか。<br>咆えるならば、<br>隠れてないでその姿を見せるがいい！,哦、还能喊吗。<br>既然还有力气喊出声、<br>就不要躲躲藏藏让我看看你的真身吧！
+34,尚書官,人間如きが小賢しいことを……,区区人类还敢耍小聪明……
+36,？？？,許さん……<br><span class='scene-font-4'>許さんぞおおッ！</span>,不原谅……<br><span class='scene-font-4'>绝对不原谅你！</span>
+46,,<span class='scene-font-katari'>尚書官の体が痙攣を始めたかと思うと、</span><br><span class='scene-font-katari'>その口の中から黒煙が立ち上り、</span><br><span class='scene-font-katari'>幽世の者の姿をかたどっていく。</span>,<span class='scene-font-katari'>尚书官的身体开始痉挛、</span><br><span class='scene-font-katari'>然后从他口中缓缓吐出黑烟、</span><br><span class='scene-font-katari'>那黑烟形成了幽世之人的姿态。</span>
+47,アグロヴァル/阿古罗瓦尔,…………,…………
+49,？？？,くぁっくぁっくぁっ……,咔、咔、咔……
+50,？？？,小者と罵ったこと、<br>とくと思い知らせて──,让你知道、<br>侮辱我的下──
+51,アグロヴァル/阿古罗瓦尔,<span class='scene-font-4'>ハアアアアッ！</span>,<span class='scene-font-4'>喝啊啊啊啊！</span>
+54,,<span class='scene-font-katari'>それは、ほんの一瞬の出来事だった。</span>,<span class='scene-font-katari'>那不过是一瞬之间。</span>
+55,,<span class='scene-font-katari'>アグロヴァルは剣を薙ぎ払い、</span><br><span class='scene-font-katari'>幽世の者の首を刎ねたのだ。</span>,<span class='scene-font-katari'>阿古罗瓦尔挥起剑、</span><br><span class='scene-font-katari'>砍下了幽世之人的头颅。</span>
+56,？？？,おごごご……,呃、嗝、、……
+61,アグロヴァル/阿古罗瓦尔,我を唆そうなど……愚かな者よ。,居然打算教唆我……真的愚蠢之人。
+62,,<span class='scene-font-katari'>幽世の者が消滅したのと同時に、</span><br><span class='scene-font-katari'>倒れていた尚書官が目を覚ました。</span>,<span class='scene-font-katari'>就在幽世之人被消灭的同时、</span><br><span class='scene-font-katari'>倒下的尚书官清醒了过来。</span>
+63,尚書官,う、うう……<br>わ、私は一体？,唔、唔……<br>我、我到底？
+64,アグロヴァル/阿古罗瓦尔,フッ……,哼……
+65,,<span class='scene-font-katari'>アグロヴァルは、</span><br><span class='scene-font-katari'>意識を取り戻した尚書官に手を貸し、</span><br><span class='scene-font-katari'>引き起こしてやる。</span>,<span class='scene-font-katari'>阿古罗瓦尔、</span><br><span class='scene-font-katari'>向清醒过来的尚书官伸出手、</span><br><span class='scene-font-katari'>把他拉了起来。</span>
+67,尚書官,わ、私は……,我、我……
+68,アグロヴァル/阿古罗瓦尔,何も考えるな。<br>自室に戻り、休むがいい。,什么都别想。<br>回到自己的房间、好好休息。
+69,尚書官,ですが……,但是……
+70,アグロヴァル/阿古罗瓦尔,無理をすれば、<br>明日の会議に響くであろう？<br>養生することも国の為だ。,勉强自己的话、<br>会影响到明天的会议吧？<br>休养也是为了国家。
+71,尚書官,……アグロヴァル様のお言葉に<br>甘えさせて頂きます。,……那我就遵循阿古罗瓦尔大人的建议<br>恭敬不如从命了。
+73,,<span class='scene-font-katari'>アグロヴァルは、出口に向かって</span><br><span class='scene-font-katari'>歩いていく尚書官の背中に</span><br><span class='scene-font-katari'>優しい眼差しを向ける。</span>,<span class='scene-font-katari'>阿古罗瓦尔用温柔的眼神</span><br><span class='scene-font-katari'>看着走向出口的尚书官的背影</span>
+74,アグロヴァル/阿古罗瓦尔,<span class='scene-font-kokoro'>（いささか疲れておったのだな……</span><br><span class='scene-font-kokoro'>そうでなければ、奴が幽世の者などに</span><br><span class='scene-font-kokoro'>唆されるわけもあるまい）</span>,<span class='scene-font-kokoro'>（好像真的累坏了……</span><br><span class='scene-font-kokoro'>不然的话、他不可能会</span><br><span class='scene-font-kokoro'>中幽世之人的暗示）</span>
+75,アグロヴァル/阿古罗瓦尔,<span class='scene-font-kokoro'>（家臣の健康を気遣うことも我の任。</span><br><span class='scene-font-kokoro'>今後はもっと、</span><br><span class='scene-font-kokoro'>気を配らなくてはならんな）</span>,<span class='scene-font-kokoro'>（担心家臣的健康也是我的责任。</span><br><span class='scene-font-kokoro'>今后必须、</span><br><span class='scene-font-kokoro'>更加注意才行）</span>
+77,パーシヴァルの声/帕西瓦尔的声音,兄上！,兄长！
+78,アグロヴァル/阿古罗瓦尔,ほう……,哦……
+79,,<span class='scene-font-katari'>尚書官と入れ替わるように</span><br><span class='scene-font-katari'>息せき切って現れた一行を見て、</span><br><span class='scene-font-katari'>アグロヴァルは笑みを漏らす。</span>,<span class='scene-font-katari'>阿古罗瓦尔看着</span><br><span class='scene-font-katari'>像是代替离开的尚书官而出现的、</span><br><span class='scene-font-katari'>气喘吁吁的一行人露出了微笑。</span>
+80,アグロヴァル/阿古罗瓦尔,ウェールズに積み荷でも運びに来たか？,来威尔士运货的吗？
+82,パーシヴァル/帕西瓦尔,ええ、ですが今は──,是的，但是现在──
+83,アグロヴァル/阿古罗瓦尔,ふははは！<br>しかし、さすがは我が弟達よ。<br>よくぞ、この場所がわかったな。,哈哈哈！<br>不过、不愧是我弟弟。<br>真亏你能找到这个地方。
+84,ビィ/碧,トサカの兄ちゃんが、<br>大きな穴から漂う<br>火薬の臭いに気づいたんだぜ！,因为鸡冠头的小哥、<br>注意到了<br>从巨大的洞穴飘来的火药味！
+85,アグロヴァル/阿古罗瓦尔,ほう……,哦……
+86,パーシヴァル/帕西瓦尔,兄上。そのようなことよりも、<br>ここで何をなさろうと<br>していたのですか？,兄长。比起那些、<br>你到底在这里做什么？
+87,アグロヴァル/阿古罗瓦尔,我が同じ過ちを犯すとでも思うたか？,你以为我会犯同样的错误吗？
+88,パーシヴァル/帕西瓦尔,いえ、そのようなことは……<br>ですが心配しておりました。,不、并不是那样……<br>但是我很担心。
+89,アグロヴァル/阿古罗瓦尔,故あって、<br>ふたたびこの場所に<br>降り立つことが叶ったのだ。,事出有因、<br>我能够再次来到这个地方。
+90,アグロヴァル/阿古罗瓦尔,ならばやるべきことは、ただひとつ。,那么要做的事，只有一样。
+91,,<span class='scene-font-katari'>アグロヴァルは、</span><br><span class='scene-font-katari'>父が遺した研究資料を片手に、</span><br><span class='scene-font-katari'>四方の壁に魔法陣を描いていく。</span>,<span class='scene-font-katari'>阿古罗瓦尔、</span><br><span class='scene-font-katari'>单手拿着父亲留下来的研究资料、</span><br><span class='scene-font-katari'>在四面的墙上画下了魔法阵。</span>
+92,パーシヴァル/帕西瓦尔,それは……,那是……
+93,アグロヴァル/阿古罗瓦尔,まぁ、見ておれ。,好好看着。
+96,,<span class='scene-font-katari'>アグロヴァルが資料に従い</span><br><span class='scene-font-katari'>術を唱えると、</span><br><span class='scene-font-katari'>四方の壁が発光する。</span>,<span class='scene-font-katari'>阿古罗瓦尔吟唱起</span><br><span class='scene-font-katari'>资料上记载的术式、</span><br><span class='scene-font-katari'>四面的墙壁发出了光芒。</span>
+101,,<span class='scene-font-katari'>それからアグロヴァルは、</span><br><span class='scene-font-katari'>地下空間の中央に残されていた魔法陣に</span><br><span class='scene-font-katari'>向き直り、幽世の者を呼び出し始めた。</span>,<span class='scene-font-katari'>然后阿古罗瓦尔、</span><br><span class='scene-font-katari'>重新面向地下空间中央留下的魔法阵</span><br><span class='scene-font-katari'>开始召唤起幽世之人。</span>
+102,,<span class='scene-font-katari'>──と同時に周囲の空間が歪んでいき、</span><br><span class='scene-font-katari'>そして遂には、</span><br><span class='scene-font-katari'>漆黒の闇が辺りに広がった。</span>,<span class='scene-font-katari'>──与此同时，周围的空间开始扭曲、</span><br><span class='scene-font-katari'>最后、</span><br><span class='scene-font-katari'>无边的黑暗开始向四周蔓延。</span>
+103,ルリア/露莉亚,きゃあ！,啊！
+104,ビィ/碧,うわあっ！,啊！
+113,,<span class='scene-font-katari'>視界を覆った漆黒の闇が消失すると、</span><br><span class='scene-font-katari'>魔法陣の中央に、かつてアグロヴァルを</span><br><span class='scene-font-katari'>唆した幽世の者が姿を現した。</span>,<span class='scene-font-katari'>覆盖视线的黑暗消失之后、</span><br><span class='scene-font-katari'>在魔法阵的中央</span><br><span class='scene-font-katari'>出现了过去教唆阿古罗瓦尔的幽世之人。</span>
+117,？？？,…………,…………
+118,アグロヴァル/阿古罗瓦尔,久しいな。<br>別れも言わずに姿を消したので、<br>心配しておったぞ。,好久不见。<br>连道别都没有就消失了、<br>我很担心啊。
+119,？？？,はて？　今更何を……<br>ヒトの情にほだされたわぬしに<br>何ができようか。,那么？　事到如今……<br>被人类的情感所束缚的你<br>又能做到什么。
+120,アグロヴァル/阿古罗瓦尔,我を見くびるでない。,别小看我。
+121,？？？,くくく……<br>笑わせてくれる。,呵呵呵……<br>别逗人发笑了。
+122,？？？,諸国を滅ぼさんと言うならば、<br>力を貸そうとも思うたが……,我还想着要是你跟我说你要毁灭诸国的话、<br>就吧力量借给你……
+123,？？？,わぬしの目的は違うようだな。<br>ならば……用はない。,但看起来你的目的并不是如此。<br>那么就……没什么好说的了。
+124,アグロヴァル/阿古罗瓦尔,貴様に無くとも我にはある。<br>汚名を雪がなくてはならんのでな。,就算你没有但我有。<br>污名必须得洗清。
+125,パーシヴァル/帕西瓦尔,兄上、加勢します。,兄长、我来帮忙。
+126,アグロヴァル/阿古罗瓦尔,いや……<br>ここは我ひとりで十分。<br>お前達はそこで見ているがいい。,不用……<br>这里只要我一人足矣。<br>你们就在那好好看着。
+127,,<span class='scene-font-katari'>アグロヴァルは深呼吸をすると、</span><br><span class='scene-font-katari'>幽世の者を睨みながら、</span><br><span class='scene-font-katari'>ゆっくりと剣を構えた。</span>,<span class='scene-font-katari'>阿古罗瓦尔做了一个深呼吸、</span><br><span class='scene-font-katari'>一边凝视着幽世之人、</span><br><span class='scene-font-katari'>一边缓缓的架起了剑。</span>
+128,アグロヴァル/阿古罗瓦尔,…………,…………
+129,？？？,矜持の為に命を賭すか。<br>ふはは……まあ、よい……<br>塵と化してやろう。,为了矜持堵上性命吗。<br>呼哈哈……也好……<br>化为尘埃吧。
+139,アグロヴァル/阿古罗瓦尔,<span class='scene-font-4'>ハアアアッ！</span>,<span class='scene-font-4'>呵啊啊啊啊！</span>
+140,,<span class='scene-font-katari'>アグロヴァルは勢いよく剣を振り上げ、</span><br><span class='scene-font-katari'>不敵に笑う幽世の者に向かって、</span><br><span class='scene-font-katari'>斬りかかるのだった。</span>,<span class='scene-font-katari'>阿古罗瓦尔气势汹汹地挥舞着剑、</span><br><span class='scene-font-katari'>向着正在嘲笑的幽世之人、</span><br><span class='scene-font-katari'>斩了过去。</span>
+info,,,scene_chr503_q3_s20
+译者,,,

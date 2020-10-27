@@ -1,0 +1,30 @@
+id,en,jp,trans
+0-chapter_name,,蛇とリンゴ,蛇与禁果
+0-synopsis,,姬塔は夢の中で、雲海に包まれた夜明けの中にいた。夢の中で、ルシオは謎めいた声の主から「この世界を照らす光となれ」との命を受ける。これはルシオの記憶なのかと気付いた姬塔に、ルシオが告げる。「ついに幽世の者たちが動き出した……から目を離すな……」しかし、肝心の部分が聞き取れないまま、魔物の襲撃のために、夢は中断されてしまうのだった。,姬塔梦见了云海中的黎明。梦中，神秘的声音命令路西欧去成为「照亮这个世界的光」。姬塔察觉到这是路西欧的记忆，此时又听见路西欧对自己说道：「幽世的住人开始行动了……不能放松对……的监视……」。但姬塔总是无法听清楚关键的部分，最后因魔兽的袭击而中断了梦境。
+1,,<span class='scene-font-katari'>それは、かつて見た景色。</span><br><span class='scene-font-katari'>世界が産声をあげた、</span><br><span class='scene-font-katari'>夜明けの光景だった……</span>,<span class='scene-font-katari'>那是，昔日的光景。世界诞生之日的黎明。</span>
+2,,――主よ、ご下命を。<br>私は、何をすればよいのです？,——主人，请下令。我应该怎么做？
+3,,お与えくださった、この命で<br>私に、何を為せとお望みなのです……？,您赐予我生命，是希望我完成何种使命……？
+4,,<span class='scene-font-katari'>――その『声』は、言葉ではなく</span><br><span class='scene-font-katari'>心に聞こえてくるようだった。</span>,<span class='scene-font-katari'>——那『声音』并非言语，而是直接传入了路西欧的心中。</span>
+5,,<span class='scene-font-kokoro'>……安らぎと繁栄……</span>,<span class='scene-font-kokoro'>……将安宁与繁荣……</span>
+6,,<span class='scene-font-kokoro'>調和と幸福を、この空に……</span><br><span class='scene-font-kokoro'>混沌のもたらす闇を退け……</span>,<span class='scene-font-kokoro'>和谐与幸福，带给这片天空……击退混沌所带来的黑暗……</span>
+7,,<span class='scene-font-kokoro'>この世界を照らす光となれ……</span>,<span class='scene-font-kokoro'>成为照亮这个世界的光……</span>
+8,,――はっ！　この身にかえても、必ず……,——是！粉身碎骨，在所不辞……
+10,,……！,
+16,,愚かな……,真是愚蠢……
+17,,眠りについた主は、<br>お前の呼びかけに応えたか？,你早已沉睡的主人，难道回应了你的呼唤？
+18,,その真意について<br>一度でも応えたことがあるか……！,关于其中的真意，祂哪一次回答过你……！？
+19,,……黙れ。,……闭嘴。
+20,,あるはずもない……！<br>お前の主は、すでに<br>この世界を見捨てたのだか……,不可能的……！你的主人，早就抛弃了这个世界……
+29,,<span class='scene-font-4'>ギャアアア……！</span>,<span class='scene-font-4'>啊啊啊啊啊……！</span>
+31,,去れ……！,消失吧……！
+37,,<span class='scene-font-katari'>――ああ、これは『彼』の記憶だ。</span><br><span class='scene-font-katari'>以前と同じ……</span>,<span class='scene-font-katari'>——啊，这是『他』的记忆。和之前一样……</span>
+38,,<span class='scene-font-katari'>そう、姬塔が思った時。</span><br><span class='scene-font-katari'>突然、『彼』は</span><br><span class='scene-font-katari'>呼びかけてきた――</span>,<span class='scene-font-katari'>姬塔想道。这时，『他』开始对姬塔说话——</span>
+39,," 姬塔。<br>『幽世』の者たちが動き出した……<br>どうか、くれぐれも……",姬塔。『幽世』的住人开始行动了……请千万……
+41,,……から、目を離さぬよう……,不能放松对……的监视……
+42,,<span class='scene-font-katari'>……え？　</span><br><span class='scene-font-katari'>姬塔は、聞き返す……</span>,<span class='scene-font-katari'>……什么？</span><br><span class='scene-font-katari'>姬塔问道……</span>
+44,,……から、目を離さぬよう……,不能放松对……的监视……
+45,,<span class='scene-font-katari'>…………え？</span>,<span class='scene-font-katari'>…………什么？</span>
+46,,……すまない、もう時間が……,……抱歉，没时间了……
+51,,ウッヒャアア……！<br>お、起きろ、姬塔……！,呜哇啊啊啊……！快、快起来，姬塔……！
+52,,どうやら、グランサイファーが<br>魔物に、襲われてるみたいだぜぇ……！,格兰赛法好像被魔兽袭击了……！
+info,,1,scene_chr344_q1_s10

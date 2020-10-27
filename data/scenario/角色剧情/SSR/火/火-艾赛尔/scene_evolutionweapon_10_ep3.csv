@@ -1,0 +1,55 @@
+id,name,text,trans
+0-chapter_name,,十天衆との邂逅③,十天衆との邂逅③
+0-synopsis,,商隊を襲う魔物と交戦する姬塔一行。商人の子をルリアは庇おうとする。だが、どこからか放たれた銃弾が魔物を撃ち抜き、ルリアは救われる。その後、一行と再会したエッセルは、一行が見返りを求めずに商隊を助けたことを知って感心する。そして、エッセルは覚醒の近い十狼雷を一瞥し、改めて一行に十狼雷の危険性を忠告するのだった。,姬塔一行人与袭击商队的魔物交战。露莉亚打算庇护商队的小孩。但是不知从何处射来的子弹打到了魔物，救下了露莉亚。然后，与一行人再次见面的艾瑟尔，钦佩一行人不图回报帮助商队的行为。然后，艾瑟尔看着即将觉醒的十狼雷，再次忠告一行人十狼雷的危险性。
+0,,<span class='scene-font-katari'></span><span class='scene-font-spword'>「十狼雷」</span><span class='scene-font-katari'>の「覚醒」について</span><br><span class='scene-font-katari'>話し合うため、よろず屋へ向かっていた</span><br><span class='scene-font-katari'>姬塔一行。</span>,<span class='scene-font-katari'>姬塔一行为了商量<span class='scene-font-spword'>「十狼雷」</span><span class='scene-font-katari'>「觉醒」的事，正前往万事屋。</span>
+1,,<span class='scene-font-katari'>道中、魔物に襲われている</span><br><span class='scene-font-katari'>商隊を発見した姬塔達は、</span><br><span class='scene-font-katari'>急いで助けに入った。</span>,<span class='scene-font-katari'>在路途中，姬塔们发现了被魔物袭击的商队，急忙赶过去救援。</span>
+2,ビィ/碧,よぉし！<br>あらかた魔物は倒したな！,好！<br>魔物基本上都打倒了吧！
+3,魔物,グルォオオオッ！,咕噢噢噢噢噢！
+4,商人の子,うわあああああ！？,唔哇啊啊啊啊！？
+5,ルリア/露莉亚,危ないっ！！,危险！！
+6,,<span class='scene-font-katari'>一瞬の隙を突いた魔物の前に</span><br><span class='scene-font-katari'>今にも襲われようとした子供を、</span><br><span class='scene-font-katari'>ルリアは庇おうとする。</span>,<span class='scene-font-katari'>露莉亚正打算庇护让魔物钻了空子马上就要被袭击的孩子。</span>
+7,ルリア/露莉亚,…………！,…………！
+10,魔物,グ、グォォオ……,咕、咕噢噢噢……
+11,,<span class='scene-font-katari'>その時、どこからか放たれた</span><br><span class='scene-font-katari'>一発の銃弾が、魔物を撃ち抜き</span><br><span class='scene-font-katari'>危ういところでルリアは救われた。</span>,<span class='scene-font-katari'>正在此时，不知从何处射来的一发子弹贯穿了魔物，在千钧一发之际救下了露莉亚。</span>
+12,ルリア/露莉亚,はぁ～……！<br>た、助かりました……,哈～……！<br>得、得救了……
+13,ビィ/碧,今の狙撃、いったい誰が……！？<br>いや、今はそれよりも<br>魔物を倒さねぇとな！,刚刚的狙击、到底是谁……！？<br>不，比起这些现在得赶紧打到魔物！
+15,,<span class='scene-font-katari'>その後、姬塔達は</span><br><span class='scene-font-katari'>無事魔物を撃退し、</span><br><span class='scene-font-katari'>お礼を言う商隊を見送った。</span>,<span class='scene-font-katari'>之后姬塔他们平安的击退了魔物，送走了向他们道谢的商队。</span>
+17,ビィ/碧,やれやれ、危ないところだったけど<br>被害が出なくて良かったぜ！,哎呀、虽然很危险但是没有损失真是太好了！
+18,ルリア/露莉亚,そうですね！<br>それじゃ、シェロさんのお店へ<br>行きましょうか、姬塔。,说的是呢！<br>那么，我们赶紧去榭洛的店吧，姬塔。
+21,エッセル/艾瑟尔,ん……久しぶりだね。,嗯……好久不见。
+22,ルリア/露莉亚,あっ！　エッセルさん。<br>お久しぶりです、こんにちは！,哈！　艾瑟尔小姐。<br>你好，好久不见！
+23,エッセル/艾瑟尔,よろず屋さんは、<br>今用事で席を外しているよ。,万事屋现在有事不在。
+24,ビィ/碧,あれ、そうなのか？<br>んじゃ、店の中で待つとするか！,哎，这样吗？<br>那么我们就在店里等吧！
+25,エッセル/艾瑟尔,……キミ達、魔物に襲われた<br>商隊を助けたそうだね。,……你们刚才好像帮助了被魔物袭击的商队呢。
+26,ルリア/露莉亚,はい！<br>……あれ、なんでご存じなんですか？,是的！<br>……咦，你为什么会知道？
+27,エッセル/艾瑟尔,どこにでも、<br>見ている人はいるものだから。,因为无论在哪里，都会有人看着。
+28,エッセル/艾瑟尔,それで……キミ達は、<br>商隊の護衛をしていたんじゃないの。<br>ここにいて、いいの？,然后……你们不是正在做商队的护卫吗。<br>在这里，没问题吗？
+29,ビィ/碧,ああ！　あの商隊は<br>偶然行き会っただけで、<br>護衛してたわけじゃねぇのさ。,啊！<br>我们跟那个商队只不过是偶然遇到的，并没有做他们的护卫。
+30,エッセル/艾瑟尔,……報酬が確約されていないのに、<br>魔物と戦って商隊を助けたの？,……没有说好报酬，就跟魔物战斗救助了商队吗？
+31,ルリア/露莉亚,はい、困っている人を助けるのは、<br>当然のことですから。,嗯，帮助有困难的人是理所应当的。
+32,エッセル/艾瑟尔,…………<br>……そう。<br>キミ達、いい人なんだね。,…………<br>……原来如此。<br>你们真是善良的人。
+33,ビィ/碧,へへっ！<br>褒められると悪い気はしねぇな！,嘿嘿！<br>被夸奖的感觉真不错！
+34,エッセル/艾瑟尔,……会えて、よかった。<br>よろず屋さんに<span class='scene-font-spword'>「天星器」</span>について<br>言伝てようと思っていたから。,……在这里见到你们正好。<br>我正打算向万事屋传达关于<span class='scene-font-spword'>「天星器」</span>的事情。
+35,ルリア/露莉亚,わざわざ調べてくださったんですか？<br>ありがとうございます！,你特意去调查过了吗？<br>谢谢！
+36,エッセル/艾瑟尔,ん……<span class='scene-font-spword'>「天星器」</span>は<br>古い時代に作られた十種の武器。<br><span class='scene-font-spword'>「十狼雷」</span>もそのひとつ。,嗯……<span class='scene-font-spword'>「天星器」</span>是在很久之前被做出来的十种武器。<br><span class='scene-font-spword'>「十狼雷」</span>也是其中之一。
+39,エッセル/艾瑟尔,天を割り、星に大穴を開けるという<br>その力を危険視した人々が、<br><span class='scene-font-spword'>「天星器」</span>を封印した。,据说其力量能撕裂天空，洞穿星辰，<br>畏惧这份力量的人们便将<span class='scene-font-spword'>「天星器」</span>封印了起来。
+40,ビィ/碧,な、なんか……<br>ものものしい武器なんだな、<br><span class='scene-font-spword'>「天星器」</span>って。,总觉得……<br><span class='scene-font-spword'>「天星器」</span>这武器好夸张啊。
+41,エッセル/艾瑟尔,ん……銃は、引き金を引けば<br>人を傷つけ命さえ奪うことが出来る。<br>度胸も技術も、必要とせずに。,嗯……<br>铳只要扣动扳机就能对人造成伤害甚至夺走性命。<br>既不需要胆量也不需要技术。
+42,エッセル/艾瑟尔,だからこそ、とても危険なものだし、<br>扱いを気をつけなくてはいけない。,正因如此，铳才是非常危险的东西，<br>使用时也必须小心谨慎。
+44,ルリア/露莉亚,そうですね……<br>エッセルさんの言う通りです。,是呢……<br>正如艾瑟尔小姐所言。
+45,エッセル/艾瑟尔,<span class='scene-font-spword'>「天星器」</span>なら、なおさらだよ。<br>封印は、<br>意味があることだったと思うんだ。,<span class='scene-font-spword'>「天星器」</span>的话，就更应该如此了。<br>我认为封印也是有它的意义的。
+46,エッセル/艾瑟尔,キミは、その<span class='scene-font-spword'>「天星器」</span>で<br>何をするつもりなの？<br>……それを考えること、忘れないで。,你打算用那把<span class='scene-font-spword'>「天星器」</span>做些什么？<br>……不要忘记思考这个问题。
+47,エッセル/艾瑟尔,……でなければ。<br>キミまで、危険な存在になってしまう。,……不然的话。<br>连你都会成为危险的存在。
+48,エッセル/艾瑟尔,ん……ごめんね、煩かった？<br>「覚醒」を止めろ、と<br>言いたいわけじゃないよ。,嗯……抱歉，我有点啰嗦了吧？<br>我并不是想要阻止你「觉醒」它。
+49,ルリア/露莉亚,はい！<br>確かに、<span class='scene-font-spword'>「十狼雷」</span>の扱いは<br>気をつけないといけないですもんね。,嗯！<br>确实，对待<span class='scene-font-spword'>「十狼雷」</span>必须小心谨慎才行。
+50,ルリア/露莉亚,でも、姬塔は<br><span class='scene-font-spword'>「十狼雷」</span>を使って悪いことを<br>したりはしませんから、大丈夫です！,但是姬塔他不会用<span class='scene-font-spword'>「十狼雷」</span>做坏事的，所以没关系！
+51,エッセル/艾瑟尔,ん……だと、いいと……<br>私も、思っている。,嗯……那，就好……<br>我也是这样想的。
+52,シェロカルテ/榭洛科特,あ～！　すみません～！！<br>お待たせしてしまいました～,啊～！　抱歉～！！<br>让你们久等了～
+53,エッセル/艾瑟尔,ん……よろず屋さん、来たね。<br>私はもう帰るよ。,嗯……万事屋，你来了。<br>我准备回去了。
+54,ビィ/碧,おう！<br><span class='scene-font-spword'>「天星器」</span>のこと、<br>教えてくれてありがとな！,嗯！<br>谢谢你告诉我们关于<span class='scene-font-spword'>「天星器」</span>的事情！
+57,エッセル/艾瑟尔,……<span class='scene-font-spword'>「天星器」</span>……<br>杞憂だとは思う、……でも。,……<span class='scene-font-spword'>「天星器」</span>……<br>也许是我杞人忧天……但是。
+58,エッセル/艾瑟尔,……………,……………
+59,,<span class='scene-font-katari'>近づく</span><span class='scene-font-spword'>「十狼雷」</span><span class='scene-font-katari'>の「覚醒」を</span><br><span class='scene-font-katari'>十天衆がひとりエッセルは</span><br><span class='scene-font-katari'>重く見ているようだ。</span>,<span class='scene-font-katari'>十天众之一的艾瑟尔谨慎地看待着即将「觉醒」的</span><span class='scene-font-spword'>「十狼雷」</span>
+60,,<span class='scene-font-katari'>「覚醒」を迎えた時、</span><br><span class='scene-font-katari'>彼女は、いったい</span><br><span class='scene-font-katari'>どんな決断を下すのだろうか。</span>,<span class='scene-font-katari'>当其迎来「觉醒」的时候，她到底会做出怎样的判断呢。</span>
+info,,,scene_evolutionweapon_10_ep3
+译者,,,

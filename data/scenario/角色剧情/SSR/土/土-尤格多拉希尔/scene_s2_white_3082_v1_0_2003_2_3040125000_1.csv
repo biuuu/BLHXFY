@@ -1,0 +1,12 @@
+id,name,text,trans
+0,ユグドラシル/尤格多拉希尔,────,————
+1,,<span class='scene-font-katari'>落ち着かない様子のユグドラシル。</span><br><span class='scene-font-katari'>おそらくバレンタインのお返しを</span><br><span class='scene-font-katari'>期待しているのだろう。</span>,<span class='scene-font-katari'>尤格多拉希尔一副坐立不安的样子。</span><br><span class='scene-font-katari'>大概是在期待情人节的返礼吧。</span>
+2,,<span class='scene-font-katari'>その姿はいじらしい。</span><br><span class='scene-font-katari'>姬塔は微笑ましい気分で</span><br><span class='scene-font-katari'>彼女にお返しの贈り物を手渡した。</span>,<span class='scene-font-katari'>她那样子非常可爱。</span><span class='scene-font-katari'>姬塔欣慰地把返礼的礼物交给了她</span>
+3,ユグドラシル/尤格多拉希尔,────……？,————……？
+4,,<span class='scene-font-katari'>彼女に手渡したのはアロマ。</span><br><span class='scene-font-katari'>今まで見たことがないのか、渡された</span><br><span class='scene-font-katari'>小瓶を不思議そうに見つめている。</span>,<span class='scene-font-katari'>送给她的是香料。</span><br><span class='scene-font-katari'>不知是否是因为这个以前没有见过，她有点不可思议地盯着小瓶子。</span>
+5,,<span class='scene-font-katari'>姬塔が説明すると、</span><br><span class='scene-font-katari'>彼女はおそるおそる瓶の蓋を開け、</span><br><span class='scene-font-katari'>鼻腔を擽る香りに驚いた表情を見せる。</span>,<span class='scene-font-katari'>姬塔说明了一下以后，她小心翼翼地打开瓶盖，闻到渗入鼻腔的香味，露出了惊讶的表情。</span>
+6,,<span class='scene-font-katari'>なぜ瓶から花の香りがするのか、</span><br><span class='scene-font-katari'>彼女は不思議でたまらないようだ。</span>,<span class='scene-font-katari'>为什么瓶子里面会传出花香，她好奇无比。</span>
+7,ユグドラシル/尤格多拉希尔,────！？,————！？
+8,,<span class='scene-font-katari'>最初は驚いていた彼女も、それが</span><br><span class='scene-font-katari'>怪しいものではないとわかったようで、</span><br><span class='scene-font-katari'>興奮した様子で何度も香りを確かめる。</span>,<span class='scene-font-katari'>她一开始有点惊讶，不过发现这并不是可疑的东西以后，有点兴奋地闻了好几次香味。</span>
+9,,<span class='scene-font-katari'>どうやら気に入ってもらえたようだと、</span><br><span class='scene-font-katari'>姬塔は</span><br><span class='scene-font-katari'>ほっと胸を撫で下ろすのだった。</span>,<span class='scene-font-katari'>看起来她很喜欢，姬塔也放下了心。</span>
+info,,,scene_s2_white_3082_v1_0_2003_2_3040125000_1

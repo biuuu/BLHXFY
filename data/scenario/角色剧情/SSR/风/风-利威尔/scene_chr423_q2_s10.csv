@@ -1,0 +1,25 @@
+id,name,text,trans
+0-chapter_name,,信託せよ,信託せよ
+0-synopsis,,姬塔一行が、男達を探しに山に向かうと、地滑りに見舞われるが、いち早く察知したリヴァイの呼びかけで木の上に登り、難を逃れる。一行は、島の男達も地滑りに巻き込まれた可能性が高いと考え、急いで救出に向かおうとする。しかしその行く手を阻むように魔物達が現れるのだった。,姬塔一行去到山中寻找男人后，遇上了山体滑坡。事先察觉到这的利威尔叫他们爬上树，一行人得以逃生。一行人考虑到岛上的男人们被卷进山体滑坡的可能性很高，正准备去救出他们。但这时，却出现了想要阻止他们的魔物。
+1,,<span class='scene-font-katari'>山の中腹まで登ってきた一行だったが、</span><br><span class='scene-font-katari'>未だに島の男性達の姿を</span><br><span class='scene-font-katari'>見つけられずにいた。</span>,<span class='scene-font-katari'>一行人来到了山的中部，</span><br><span class='scene-font-katari'>却仍未见到岛上男人们的身影。</span>
+2,ルリア/露莉亚,皆さん、<br>一体どこに行っちゃったんでしょう？,大家到底去了哪里呢？
+3,ビィ/碧,ウットリュフを採りに来たんだろ？<br>だったら、この辺りにいても<br>おかしくねーのにな……,不是说来采集乌特鲁夫了吗？<br>那么，他们会在这一块活动的可能性很大呢……
+4,リヴァイ,…………,…………
+5,ルリア/露莉亚,リヴァイさん、どうかしましたか？,利威尔先生，怎么了？
+6,リヴァイ,チッ、まずいな……,啧，糟了……
+7,ルリア/露莉亚,え？,诶？
+8,リヴァイ,<span class='scene-font-4'>出来るだけ高い木に登れ！</span><br><span class='scene-font-4'>今すぐだ！！</span>,<span class='scene-font-4'>尽可能地爬上树！越高越好！</span><br><span class='scene-font-4'>快点！！</span>
+14,,<span class='scene-font-katari'>立体機動装置を駆使し、</span><br><span class='scene-font-katari'>ルリアとビィを</span><br><span class='scene-font-katari'>木の上に避難させるリヴァイ。</span>,<span class='scene-font-katari'>利威尔使用了立体机动装置，</span><br><span class='scene-font-katari'>带着露莉亚和碧上树避难。</span>
+15,,<span class='scene-font-katari'>木に登り終え、皆の無事を</span><br><span class='scene-font-katari'>確認した姬塔は、</span><br><span class='scene-font-katari'>リヴァイの判断に感心する。</span>,<span class='scene-font-katari'>姬塔爬上树，</span><br><span class='scene-font-katari'>确认了大家都没事后，</span><br><span class='scene-font-katari'>对利威尔的判断十分地敬佩。</span>
+16,,<span class='scene-font-katari'>その直後、山が揺れ、</span><br><span class='scene-font-katari'>地滑りが起きた。</span>,<span class='scene-font-katari'>その直後、山が揺れ、</span><br><span class='scene-font-katari'>地滑りが起きた。</span>
+21,ルリア/露莉亚,わわわ……<br>リヴァイさん、<br>ありがとうございました……！,哇哇哇……<br>利威尔先生，<br谢谢你……！
+22,ビィ/碧,ふぅ、危機一髪だったぜ……<br>なぁ、もしかして……,呼，真是千钧一发……<br>喂，说不定……
+23,リヴァイ,島の男達も地滑りに<br>巻き込まれた可能性が高いな。,岛上的男人们被卷进山体滑坡的可能性也很高啊。
+24,ルリア/露莉亚,っ！？<br>それなら早く探し出さないと……！,！？<br>那要赶快出发去找他们了……！
+26,魔物,<span class='scene-font-4'>グガァァァ！</span>,<span class='scene-font-4'>咕嘎————！</span>
+27,リヴァイ,なんだコイツらは……,这些家伙是什么……
+28,ルリア/露莉亚,魔物です！,是魔物！
+29,リヴァイ,魔物？<br>外の世界には面白いツラをしたヤツが<br>わんさといるんだな。,魔物？<br>外面的世界里有趣的家伙还真多啊。
+31,リヴァイ,構ってる時間はない。<br>とっとと削いでやる……,没时间想那么多了。<br>马上就把你们削成块……
+32,ビィ/碧,よぉし、オイラ達も行くぜ！<br>姬塔！,好啊，我们也上吧！<br>姬塔！
+info,,,scene_chr423_q2_s10

@@ -1,0 +1,81 @@
+id,name,text,trans
+0-chapter_name,,波打ち際の夕涼み,夕日下的海边乘凉
+0-synopsis,,姬塔達はサンダルフォンと共に海の家の経営に励む。しかしその日はルシオが手伝いをしており、ルシオの美貌に惹かれて次々と客が訪れることに。サンダルフォンは客が皆ルシフェルと同じ顔をしたルシオに見惚れていることに不機嫌になる。飲み物のストックが無くなったことで昼過ぎには店じまいとなった後も、サンダルフォンは複雑な面持ちでいるのだった。,姬塔一行与圣德芬努力地经营着海之家，前来帮忙的路西欧用颜值引来了大量客人，圣德芬看到拥有着路西菲尔容貌的路西欧迷倒众人的景象后闷闷不乐。即便是饮料销售一空中午就提早收摊，圣德芬的内心也是五味杂陈。
+1,ビィ/碧,……これまた、とんでもねえ数の<br>お客が来てんなぁ……,又来了好多客人啊……
+3,,<span class='scene-font-katari'>サンダルフォンが</span><br><span class='scene-font-katari'>シェロカルテから任された店の前には</span><br><span class='scene-font-katari'>大行列ができていた。</span>,<span class='scene-font-katari'>榭洛科特委任的摊子前站满了大量的客人。</span>
+4,ルリア/露莉亚,ふふ、張り切ってお迎えしないと<br>いけませんね！,呵呵，要鼓足干劲接客了！
+5,,<span class='scene-font-katari'>思わぬ繁盛に</span><br><span class='scene-font-katari'>気合の入る姬塔達。</span><br><span class='scene-font-katari'>その一方で──</span>,<span class='scene-font-katari'>对于意料之外的盛况，</span><br><span class='scene-font-katari'>虽然姬塔一行人干劲十足，</span><br><span class='scene-font-katari'>但是在另一边──</span>
+6,サンダルフォン/圣德芬,…………,…………
+7,,<span class='scene-font-katari'>当のサンダルフォンは</span><br><span class='scene-font-katari'>すこぶる不機嫌である。</span>,<span class='scene-font-katari'>圣德芬本人却闷闷不乐。</span>
+8,サンダルフォン/圣德芬,…………,…………
+9,,<span class='scene-font-katari'>その視線の先には、</span><br><span class='scene-font-katari'>店の看板ウェイターがいた。</span>,<span class='scene-font-katari'>他视线的前方是店铺的看板服务生。</span>
+10,ルシオ/路西欧,ご注文はお決まりですか？,您决定好点什么了吗？
+11,男性客１,あ……あなたの連絡先を……,来……来一份你的联系方式……
+12,ルシオ/路西欧,フフ。あいにく私の居場所はここだけ。<br>ぜひまたご来店ください。<br>お飲物はいかがですか？　お勧めは──,呵呵，不好意思我的地址只有这里。<br>欢迎再来光顾本店。<br>需要点一份饮料吗？我们这里有──
+13,男性客１,<span class='scene-font-4'>メニューにあるもの全て頼む！</span><br>げ、限界まで飲ませていただきます！,<span class='scene-font-4'>菜单上的所有东西都来一份！</span><br>我、我要喝爆！
+14,ルシオ/路西欧,ありがとうございます。<br>しかし、ご無理はなさらぬよう。,非常感谢，<br>但是请不要勉强自己。
+15,サンダルフォン/圣德芬,…………,…………
+16,,<span class='scene-font-katari'>ルシオからすれば特別な事を</span><br><span class='scene-font-katari'>しているつもりはないのだが──</span>,<span class='scene-font-katari'>虽然在路西欧看来</span><br><span class='scene-font-katari'>自己并没有做什么特别的事情，但是──</span>
+17,女性客１,ねえ、あのお店は混んでるから<br>やめておかな……い……？,喂，<br>那个店也太挤我们就不……要……？
+18,ルシオ/路西欧,おや、休憩場所をお探しですか？,你好，<br>在找休息的地方吗？
+19,客達,…………！！！！　はいっ！,…………！！！！对对对！
+20,サンダルフォン/圣德芬,…………,…………
+26,客達,注文お願いしまーす！,我们要点单！
+27,ビィ/碧,リンゴとみかんのミックス、<br>２杯追加だってさ！,苹果桔子混合果汁再追加两杯！
+28,サンダルフォン/圣德芬,……ああ。,……好。
+29,ルリア/露莉亚,す、すいません！<br>あと、リンゴ３杯とパイン２杯と<br>みかんとブドウと……,啊、不好意思！<br>再追加三杯苹果汁两杯菠萝汁<br>和桔子葡萄……
+30,ビィ/碧,……このままじゃヤバくねえか？<br>飲み物のストック切れそうだし<br>とてもじゃねえけど間に合わねえ……,……这样下去好像不妙呀，<br>根本忙不过来，<br>饮料也要卖完了……
+31,,<span class='scene-font-katari'>しかし店には長蛇の列ができ、</span><br><span class='scene-font-katari'>その客足は──</span>,<span class='scene-font-katari'>但是店里的客人已经排成了长列，</span><br><span class='scene-font-katari'>客人仍然源源不断地增加着──</span>
+32,ルシオ/路西欧,フフ……,呵呵……
+33,男性客２,…………！！！！,…………！！！！
+34,,<span class='scene-font-katari'>海岸中の人々が集まるがごとく</span><br><span class='scene-font-katari'>ルシオに引き寄せられ、</span><br><span class='scene-font-katari'>途絶える事はない。</span>,<span class='scene-font-katari'>海滩上的路人一波接着一波被路西欧吸引过来。</span>
+35,ビィ/碧,もう店じまいだって<br>言ってんのに、少し目ぇ離したら<br>列がドバっと増えててよ……,都说了店要关门了，<br>一不留神人又多了起来……
+36,サンダルフォン/圣德芬,…………,…………
+37,サンダルフォン/圣德芬,デザート用の果物を<br>ありったけ持ってきてくれ。,做甜品的水果都拿来。
+38,ビィ/碧,お、おう……？,哦、好的……
+44,サンダルフォン/圣德芬,さて。,好。
+47,,<span class='scene-font-katari'>大きめのシェイカーに果物を放り込んで</span><br><span class='scene-font-katari'>風の元素を流し込むと、</span><br><span class='scene-font-katari'>剥かれた皮がひとりでに飛び出した。</span>,<span class='scene-font-katari'>圣德芬先把水果放入比较大的雪克壶里，</span><br><span class='scene-font-katari'>然后注入风之元素，</span><br><span class='scene-font-katari'>瞬间果皮就自己飞了出来。</span>
+48,客達,<span class='scene-font-4'>おおっ！</span>,<span class='scene-font-4'>噢噢！</span>
+49,,<span class='scene-font-katari'>筒内に残った果肉に水を加え、</span><br><span class='scene-font-katari'>蓋をしたシェイカーを振りながら</span><br><span class='scene-font-katari'>さらに風を送ってグラスにあければ──</span>,<span class='scene-font-katari'>随后他加入水盖上盖子，</span><br><span class='scene-font-katari'>一边摇晃雪克壶一边再次加入风之元素。</span>
+51,サンダルフォン/圣德芬,お待たせした。<br>ミックス、リンゴとみかんだ。,让您久等了，<br>苹果和桔子的混合果汁做好了。
+52,客達,<span class='scene-font-4'>すっごーい！</span>,<span class='scene-font-4'>太厉害了！</span>
+53,女性客２,今の、どうやったんですか？,刚才的是怎么做到的？
+54,サンダルフォン/圣德芬,……企業秘密だ。,……商业机密。
+55,女性客１,不思議……<br>店長さんもカッコいいし<br>とっても楽しいお店ね！,真不可思议……<br>店长也那么帅，这个店真好！
+56,女性客２,ね！　最初は<br>あのウェイターさん<br>目当てで来たけど……,对吧！<br>虽然我们一开始都是冲着服务生来的……
+60,ルシオ/路西欧,……フッ。,……呵呵。
+61,客達,ああ……,啊啊……
+62,サンダルフォン/圣德芬,く……！,唔……！
+64,ルシオ/路西欧,サンちゃん、<br>グラスを下げてきました。,芬酱，<br>我把玻璃杯收回来了。
+65,サンダルフォン/圣德芬,ああ。,哦。
+66,ルシオ/路西欧,ほかに何かご入り用であれば。,还有什么需要我帮忙的吗？
+67,客達,なんて美しいお顔……,太美了……
+68,サンダルフォン/圣德芬,…………,…………
+69,サンダルフォン/圣德芬,……グラスもカップも足りん。<br>奥で食器洗いを。,……玻璃杯和咖啡杯都不够用，<br>你去厨房清洗一下。
+70,ルシオ/路西欧,ええ、わかりました。,好的，我知道了。
+71,,<span class='scene-font-katari'>厨房へと入っていくルシオ。</span><br><span class='scene-font-katari'>客達はその姿を名残惜しそうに</span><br><span class='scene-font-katari'>見送り──</span>,<span class='scene-font-katari'>客人们眼巴巴的望着路西欧步入厨房。</span>
+73,ルシオ/路西欧,終わりましたよ、サンちゃん。,芬酱，杯子都洗好了哦。
+74,サンダルフォン/圣德芬,な……！？,什么……！？
+75,ルシオ/路西欧,穢れを消し去るだけの事ですから、<br>そう時間はかかりません。<br>サンちゃん、次は何をしましょう？,去除污秽这种事也不用多少时间，<br>芬酱接下来我该做什么？
+76,サンダルフォン/圣德芬,厨房の掃除を。,打扫厨房。
+77,ルシオ/路西欧,ええ。,好的。
+79,ルシオ/路西欧,……はい、終わりました。,……嗯，打扫好了。
+80,サンダルフォン/圣德芬,…………,…………
+81,ルシオ/路西欧,サンちゃん、次は何を？,芬酱，接下来是什么？
+82,サンダルフォン/圣德芬,……厨房で米粒の数でも<br>数えていろ。,……去厨房数米粒。
+83,ルシオ/路西欧,ああ、それなら確か341万──,哦，米粒的数量的话是341万——
+84,サンダルフォン/圣德芬,……もういい。<br>とにかく貴様は表に出るな。,……够了。<br>总之你不要在外面干活。
+85,ルシオ/路西欧,おや、何故です？,咦，为什么呀？
+86,サンダルフォン/圣德芬,…………,…………
+87,,<span class='scene-font-katari'>ホールに目を向けるサンダルフォン。</span><br><span class='scene-font-katari'>そこにひしめく客達は──</span>,<span class='scene-font-katari'>圣德芬看了看店里拥挤的人流──</span>
+88,客達,ああ……,啊啊……
+89,サンダルフォン/圣德芬,人間達が、<br>あのお方の顔を評するなど、<br>不敬だ……！,人们评论那位大人的容貌，<br>真的是……大不敬！
+90,ルシオ/路西欧,……なるほど。,……原来如此。
+91,ルシオ/路西欧,わかりました。<br>それでは私は姿を見せず、<br>今日は厨房作業に徹しましょう。,我明白了，<br>那我今天就不露脸，<br>只在厨房帮忙吧。
+93,サンダルフォン/圣德芬,…………,…………
+94,,<span class='scene-font-katari'>ルシオが表に出なくなった事から</span><br><span class='scene-font-katari'>異様なまでの客足も徐々に減っていく。</span>,<span class='scene-font-katari'>路西欧没有出来后，</span><br><span class='scene-font-katari'>异常爆满的客人也开始缓缓减少了。</span>
+100,,<span class='scene-font-katari'>売り上げも上々、</span><br><span class='scene-font-katari'>昼過ぎには店じまいの準備が始まり、</span><br><span class='scene-font-katari'>皆は上機嫌で後片付けをするが──</span>,<span class='scene-font-katari'>销售额非常可观，</span><br><span class='scene-font-katari'>午后大家开开心心准备收摊，</span><br><span class='scene-font-katari'>但是──</span>
+101,サンダルフォン/圣德芬,……何故、ヤツは……！,……那家伙……到底为什么！
+102,,<span class='scene-font-katari'>サンダルフォンはひとり、</span><br><span class='scene-font-katari'>複雑な面持ちでいた。</span>,<span class='scene-font-katari'>圣德芬的内心却是五味杂陈。</span>
+info,,,scene_chr619_q1_s10
+译者,,,sol

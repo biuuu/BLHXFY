@@ -1,0 +1,89 @@
+id,name,text,trans
+0-chapter_name,,暁天におよびて,触及黎明
+0-synopsis,,カルムの郷を後にし、グランサイファーに戻ってきた姬塔一行。空腹を訴え先に艇内へ戻ったルリアとビィを追いかけようとする姬塔を呼び止めたシスは、自分の過去と罪を受け入れ前に進んでいくと誓う。その上で、共に旅路を歩む姬塔だけには知っておいてほしいと、シスは自分の本当の名前を明かすのだった。,姬塔一行离开卡尔姆之乡后，回到了格兰赛法。露莉亚和碧说着饿了要先回艇内，希斯喊住了要跟上他们的姬塔，誓言要背负自己的罪过继续前进。而且，希望只让一同踏上旅途的姬塔知道，希斯告诉了姬塔自己真正的名字。
+1,,<span class='scene-font-katari'>思い出の場所でしばし語り合った後、</span><br><span class='scene-font-katari'>グランサイファーへと戻ってきた</span><br><span class='scene-font-katari'>姬塔一行。</span>,<span class='scene-font-katari'>在充满回忆的地方谈了一会后，</span><br><span class='scene-font-katari'>姬塔一行回到了格兰赛法。</span>
+2,シス/希斯,…………,…………
+3,,<span class='scene-font-katari'>不意に立ち止まったシスに</span><br><span class='scene-font-katari'>気付いた姬塔、ルリア、</span><br><span class='scene-font-katari'>ビィも足を止め振り返る。</span>,<span class='scene-font-katari'>姬塔、露莉亚和碧，</span><br><span class='scene-font-katari'>察觉到希斯突然停下脚步，</span><br><span class='scene-font-katari'>也停下脚步回头看他。</span>
+4,ビィ/碧,どうしたんだ？<br>なんか忘れ物か？,怎么了？<br>有忘了的东西吗？
+5,シス/希斯,いや……,不……
+6,,<span class='scene-font-katari'>迷うように俯いていたシスは、</span><br><span class='scene-font-katari'>意を決したように顔を上げる。</span>,<span class='scene-font-katari'>迷茫地低着头的希斯，</span><br><span class='scene-font-katari'>下定决心一般抬起了头。</span>
+7,シス/希斯,カルムの郷に満ちるあの静寂は、<br>俺が作り出したものだ。,笼罩卡尔姆之乡的寂静，<br>是我一手造成的。
+8,シス/希斯,俺は多くの命を奪い、一族を滅ぼし、<br>そして、生き残ったひとりの男の人生を<br>復讐だけに染め上げてしまった。,我剥夺了许多生命，毁灭了一族，<br>而且让唯一幸存的男人的人生，<br>也变得只有复仇。
+9,シス/希斯,それは、俺の罪だ。<br>どんな理由があったにせよ、<br>その過去が揺るぐことはない。,那是我的罪孽。<br>不管有什么理由，<br>这个过去也是不可动摇的。
+10,シス/希斯,それでも、俺は<br>お前達と共にいきたい。,即使如此，<br>我还是想和你们一起活下去。
+11,シス/希斯,姬塔。<br>どうか、お前の往く旅路を、<br>共に歩ませてくれないか。,姬塔。<br>请让我，在接下来的旅途中，<br>也和你一起前行吧。
+12,,<span class='scene-font-katari'>真剣な声色で告げられた言葉に、</span><br><span class='scene-font-katari'>姬塔達は顔を見合わせると</span><br><span class='scene-font-katari'>苦笑しながら肩を竦めた。</span>,<span class='scene-font-katari'>听了希斯这认真的发言，</span><br><span class='scene-font-katari'>姬塔他们面面相觑，</span><br><span class='scene-font-katari'>苦笑着耸了耸肩。</span>
+13,ビィ/碧,まったく、何を言うかと思えば<br>そんなことかよ！,真是的，<br>还以为你要说什么呢，<br>就这种事啊！
+14,ビィ/碧,言われなくても、オイラ達は<br>ずっと兄ちゃんと一緒に<br>旅していくつもりだったぜ！,就算你不说，<br>我们也打算一直和小哥你，<br>一起继续旅行哦！
+15,ルリア/露莉亚,騎空団にはいろんな仲間がいて、<br>仲間の分だけ、旅をする理由も、<br>それぞれが抱える事情も違います。,骑空团里也有各种不同的伙伴，<br>有那么多同伴，大家旅行的理由都有自己的内情。
+16,ルリア/露莉亚,だから、一緒に旅がしたいっていう<br>気持ちがあれば十分です！,所以只要有想一起旅行的心，<br>就已经足够了！
+17,ビィ/碧,それに、姬塔が<br>オマエを降ろしたりなんか<br>絶対するもんか！,而且，<br>姬塔也绝对不会让你下船的！
+18,ビィ/碧,な！　姬塔！,对吧！姬塔！
+19,,<span class='scene-font-katari'>ビィの問いかけに、</span><br><span class='scene-font-katari'>姬塔は</span><br><span class='scene-font-katari'>当然だと大きく頷く。</span>,<span class='scene-font-katari'>面对碧的提问，</span><br><span class='scene-font-katari'>姬塔理所当然地点点头。</span>
+19-sel1_txt,,<span class='scene-font-katari'>目指す場所は同じ</span>,<span class='scene-font-katari'>目的地是同一个</span>
+19-sel2_txt,,<span class='scene-font-katari'>会いたい人は同じ</span>,<span class='scene-font-katari'>想见的人是同一个</span>
+20,ルリア/露莉亚,……<span class='scene-font-spword'>星の島</span>、<span class='scene-font-spword'>イスタルシア</span>。<br>そこに、シスさんが探している……<br>姬塔のお父さんがいる。,……<span class='scene-font-spword'>星之岛</span>，<span class='scene-font-spword'>伊斯塔鲁西亚</span>。<br>希斯在寻找的……姬塔的父亲就在那里。
+21,ルリア/露莉亚,姬塔もシスさんも、<br>旅の目的地は同じです。,姬塔和希斯的目的地是一样的。
+22,ルリア/露莉亚,……星の島、<span class='scene-font-spword'>イスタルシア</span>。<br>そこに、シスさんが探している……<br>姬塔のお父さんがいる。,……星之岛，<span class='scene-font-spword'>伊斯塔鲁西亚</span>。<br>希斯在寻找的……姬塔的父亲就在那里。
+23,ルリア/露莉亚,姬塔もシスさんも、<br>旅の目的地は同じです。,姬塔和希斯的目的地是一样的。
+24,ルリア/露莉亚,だから、最後の最後まで<br>私達と一緒に旅を続けましょう！,所以和我们一起旅行到最后吧！
+25,ビィ/碧,姬塔もシスも、<br>会いたい人はおんなじだろ？,姬塔和希斯想见的人是同一个对吧？
+26,ビィ/碧,シスが探してる騎空士は、<br>姬塔の<br>親父さんなんだからさ！,因为希斯在找的骑空士，<br>就是姬塔的父亲啊！
+27,ビィ/碧,姬塔がその親父さんに<br>会いに行くってんだ。<br>一緒に行かない理由がないだろ？,姬塔也想去见见父亲。<br>所以没理由不一起去对吧？
+28,,<span class='scene-font-katari'>力強く語る姬塔達に、</span><br><span class='scene-font-katari'>シスは一瞬言葉を詰まらせた後、</span><br><span class='scene-font-katari'>ゆっくりと口を開いた。</span>,<span class='scene-font-katari'>被姬塔他们热烈回应，</span><br><span class='scene-font-katari'>希斯一时语塞了，</span><br><span class='scene-font-katari'>然后缓缓开口道。</span>
+29,シス/希斯,……ありがとう。<br>改めて、よろしく頼む。,……谢谢。<br>再次，请多关照了。
+30,ビィ/碧,おう！<br>頼りにしてるぜぇ！,喔！<br>我们可是很依靠你啊！
+31,ルリア/露莉亚,こちらこそ、<br>よろしくお願いしますね！<br>シスさん！,我们才是，还请多关照啦，希斯！
+33,,<span class='scene-font-katari'>和やかな空気が流れる中、</span><br><span class='scene-font-katari'>どこかからか盛大な腹の虫が鳴く</span><br><span class='scene-font-katari'>音が聞こえた。</span>,<span class='scene-font-katari'>在和乐融融的氛围中，</span><br><span class='scene-font-katari'>突然响起了夸张的肚子叫声。</span>
+34,ルリア/露莉亚,す、すみません……<br>艇に帰ってきたら、<br>急にお腹が空いてきちゃって……,对，对不起……<br>一回到骑空艇，<br>肚子突然就饿了……
+35,ビィ/碧,オイラもすっげぇ腹減ったぜ……<br>そろそろ夕飯の時間だよな？,我也感觉好饿了……<br>差不多到晚饭时间了吧？
+36,ルリア/露莉亚,うぅ～……もう我慢できません！,呜呜~我已经忍不了了！
+37,ルリア/露莉亚,姬塔、シスさん！<br>私、先に食堂に行ってますね！,姬塔，希斯！<br>我先去食堂了！
+38,ビィ/碧,あっ、おい！<br>待てよルリア、オイラも行くぜ！,啊，喂！<br>等等啊露莉亚，我也要去！
+40,,<span class='scene-font-katari'>慌ただしく艇の中へ駆けていく</span><br><span class='scene-font-katari'>ルリアとビィに苦笑しながら、</span><br><span class='scene-font-katari'>後を追おうと踵を返す姬塔。</span>,<span class='scene-font-katari'>看着慌张奔向船内的碧和露莉亚，</span><br><span class='scene-font-katari'>姬塔苦笑着抬脚要去追他们。</span>
+41,シス/希斯,姬塔！,姬塔！
+42,,<span class='scene-font-katari'>だが、背に投げかけられた</span><br><span class='scene-font-katari'>シスの声に、姬塔は</span><br><span class='scene-font-katari'>その場に足を止めた。</span>,<span class='scene-font-katari'>但是背后传来的希斯的呼喊，</span><br><span class='scene-font-katari'>止住了姬塔的脚步。</span>
+43,シス/希斯,あ……<br>その…………,啊……<br>那个……
+44,,<span class='scene-font-katari'>口ごもるシスに首を傾げた</span><br><span class='scene-font-katari'>姬塔は、どうかしたのかと</span><br><span class='scene-font-katari'>声を掛け一歩近づく。</span>,<span class='scene-font-katari'>疑惑的看着又闭上嘴的希斯，</span><br><span class='scene-font-katari'>姬塔问着怎么了靠近了他。</span>
+45,シス/希斯,…………,…………
+46,シス/希斯,……ひとつだけ、<br>姬塔には<br>知っておいて欲しい事がある。,……我有一件，</span>想让姬塔你知道的事。
+47,,<span class='scene-font-katari'>緊張した声色でそう告げた後、</span><br><span class='scene-font-katari'>一度深呼吸したシスは</span><br><span class='scene-font-katari'>ゆっくりと語り始めた。</span>,<span class='scene-font-katari'>略带紧张地说完这句话后，</span><br><span class='scene-font-katari'>希斯又深呼吸了一次，</span><br><span class='scene-font-katari'>缓缓地讲述了起来。</span>
+48,シス/希斯,……きっと、これは俺の<br>業なのだろう。<br>決して逃れられはしない宿命。,……这肯定是我的罪业吧。<br>是我无法逃离的宿命。
+49,シス/希斯,俺は、ネハンにも、<br>カルムの者達にも償う術を<br>持ってはいない。,我没有办法补偿涅槃，<br>和卡尔姆的人们。
+50,シス/希斯,だが、前に進み続けなければならない。<br>十天衆の皆に、そして、共にいてくれる<br>姬塔に恥じないように。,但是，我必须前行。<br>为了不让十天众的大家，<br>以及和我在一起的姬塔蒙羞。
+51,シス/希斯,過去に囚われることなく、<br>だが、過去を忘れることなく。<br>俺が為すべきことを為すために。,不被过去所拘禁，<br>但是也铭记过去。<br>为了去做我该做的事。
+52,シス/希斯,そのためにも、<br>姬塔には<br>知っていて欲しいんだ。,为此，我想让姬塔你知道。
+53,シス/希斯,最後まで、共に歩み続ける<br>姬塔だけには……十天衆の<br>シスではない、俺の本当の名を。,只告诉直到最后都一起前行的姬塔你……<br>并非十天众的希斯的，我真正的名字。
+55,,<span class='scene-font-katari'>それからしばしの逡巡の後、</span><br><span class='scene-font-katari'>意を決し己の顔を隠す仮面へ</span><br><span class='scene-font-katari'>手を伸ばすシスに驚く姬塔。</span>,<span class='scene-font-katari'>姬塔吃惊地看到，</span><br><span class='scene-font-katari'>在短暂的犹豫后，希斯下定决心，</span><br><span class='scene-font-katari'>向遮住自己脸的面具伸出了手。</span>
+56,,<span class='scene-font-katari'>震える手で、ゆっくりと自ら</span><br><span class='scene-font-katari'>仮面を外したシスは、姬塔を</span><br><span class='scene-font-katari'>真っ直ぐに見つめた。</span>,<span class='scene-font-katari'>希斯用颤抖的手缓缓摘下面具，</span><br><span class='scene-font-katari'>正视着姬塔。</span>
+57,シス/希斯,…………,…………
+58,シス/希斯,<span class='scene-font-2'>シ…………</span>,<span class='scene-font-2'>si…………</span>
+59,シス/希斯,……シンク。,……sinku(星)。
+60,シス/希斯,これが俺の、本当の名だ。,这是我，真正的名字。
+61,シス/希斯,俺にとっては、咎の証。<br>だが、あの男が意味を教えてくれて、<br>そして、ネハンが思い出させたもの。,对我来说这是罪过的证明。<br>但那个男人告诉了我名字的意思，<br>而涅槃也让我想起了它。
+61-sel1_txt,,<span class='scene-font-katari'>どんな意味なの？</span>,<span class='scene-font-katari'>那是什么意思呢？</span>
+62,シス/希斯,……あの男は、<br>光、だと。,……那个男人，说是，光。
+63,シス/希斯,お前の名は、空に在る<br>あの美しい光を示すと、<br>言っていた。,他说我的名字，<br>是表示高挂于空中的，<br>美丽的光辉。
+64,シス/希斯,に、似合わないだろう。<br>俺なんかには……,很，很不适合对吧。<br>像我这种人……
+65,,<span class='scene-font-katari'>目を伏せ、そう語るシスに</span><br><span class='scene-font-katari'>姬塔はそんなことはないと</span><br><span class='scene-font-katari'>首を振り否定する。</span>,<span class='scene-font-katari'>对着垂下视线这么说着的希斯，</span><br><span class='scene-font-katari'>姬塔摇头否定说才不是这样。</span>
+66,シス/希斯,ぅぐ……,呜咕……
+67,,<span class='scene-font-katari'>居心地悪そうに顔を伏せ黙り込む</span><br><span class='scene-font-katari'>シスに、姬塔は微笑みながら</span><br><span class='scene-font-katari'>手を差し出した。</span>,<span class='scene-font-katari'>对着郁闷地低头沉默着的希斯，</span><br><span class='scene-font-katari'>姬塔微笑着向他伸出了手。</span>
+68,シス/希斯,あ…………,啊…………
+69,,<span class='scene-font-katari'>その時、姬塔の姿が</span><br><span class='scene-font-katari'>シスの記憶の中の人物と重なる。</span>,<span class='scene-font-katari'>就在这时，</span><br><span class='scene-font-katari'>姬塔的模样和希斯记忆中的人物重合了。</span>
+70,,<span class='scene-font-katari'>絶望の底に沈んでいたシスを、</span><br><span class='scene-font-katari'>引き上げてくれた騎空士の──</span><br><span class='scene-font-katari'>姬塔の父親の顔。</span>,<span class='scene-font-katari'>是将沉落在绝望之底的希斯，</span><br><span class='scene-font-katari'>拉上来的那个骑空士</span><br><span class='scene-font-katari'>——姬塔父亲的脸。</span>
+71,シス/希斯,<span class='scene-font-kokoro'>（……あの時の俺は、</span><br><span class='scene-font-kokoro'>あの男に手を引かれるままだった）</span>,<span class='scene-font-kokoro'>（那个时候的我，</span><br><span class='scene-font-kokoro'>只是被那个男人牵着手）</span>
+72,シス/希斯,<span class='scene-font-kokoro'>（だけど、今は違う。</span><br><span class='scene-font-kokoro'>俺は、俺自身の意思で……）</span>,<span class='scene-font-kokoro'>（但是，现在不一样了。</span><br><span class='scene-font-kokoro'>我要，以我自身的意志……）</span>
+73,,<span class='scene-font-katari'>緊張した面持ちで、シスは</span><br><span class='scene-font-katari'>姬塔が差し出す手を</span><br><span class='scene-font-katari'>取った。</span>,<span class='scene-font-katari'>希斯一脸紧张地，</span><br><span class='scene-font-katari'>握住了姬塔伸出的手。</span>
+73-sel1_txt,,<span class='scene-font-katari'>一緒に行こう、シンク</span>,<span class='scene-font-katari'>一起走吧，星</span>
+75,シス/希斯,ッ！！,！！
+77,,<span class='scene-font-katari'>シスが手を取ったのを見て、</span><br><span class='scene-font-katari'>その名を呼ぶ姬塔。</span>,<span class='scene-font-katari'>看到希斯握住了自己的手，</span><br><span class='scene-font-katari'>姬塔呼唤了他的名字。</span>
+78,,<span class='scene-font-katari'>何かを堪えるように</span><br><span class='scene-font-katari'>しばし顔を伏せたシスは、</span><br><span class='scene-font-katari'>ゆっくりと顔を上げ頷いた。</span>,<span class='scene-font-katari'>希斯像在忍耐着什么低了会头，</span><br><span class='scene-font-katari'>又缓缓抬起头来。</span>
+84,シス/希斯,…………うん。,…………嗯。
+85,,<span class='scene-font-katari'>掬いあげてくれた手に縋り、</span><br><span class='scene-font-katari'>なお届かない光に焦がれ</span><br><span class='scene-font-katari'>漆黒の世界に閉じこもったあの頃。</span>,<span class='scene-font-katari'>从前他一心向往着</span><br><span class='scene-font-katari'>依靠拯救自己的那双手仍无法触及的光，</span><br><span class='scene-font-katari'>将自己关进了漆黑的世界里。</span>
+86,,<span class='scene-font-katari'>今、自ら光に手を伸ばし、</span><br><span class='scene-font-katari'>消せない過去も、背負うべき未来も、</span><br><span class='scene-font-katari'>全てを受け入れ足を踏み出す。</span>,<span class='scene-font-katari'>现在，他自己对光伸出了手，</span><br><span class='scene-font-katari'>将无法抹去的过去和应背负的未来，</span><br><span class='scene-font-katari'>全部接受踏出了一步。</span>
+91,,<span class='scene-font-katari'>この手で奪ってしまった、</span><br><span class='scene-font-katari'>多くの命と明日に償うために。</span>,<span class='scene-font-katari'>为了偿还这双手夺去的诸多生命及其未来。</span>
+101,,<span class='scene-font-katari'>罪深き咎人である自分を受け入れ、</span><br><span class='scene-font-katari'>共に歩むことを赦してくれた</span><br><span class='scene-font-katari'>仲間達のために。</span>,<span class='scene-font-katari'>也为了接纳了罪孽深重的自己，</span><br><span class='scene-font-katari'>允许自己一起前行的伙伴们。</span>
+102,,<span class='scene-font-katari'>歩むのは、</span><br><span class='scene-font-katari'>決して楽ではない贖罪の道。</span>,<span class='scene-font-katari'>他将要走的，</span><br><span class='scene-font-katari'>绝不是一条轻松的赎罪之路。</span>
+103,,<span class='scene-font-katari'>それでも、前を向いて歩き続けると、</span><br><span class='scene-font-katari'>シスは改めて誓うのだった。</span>,<span class='scene-font-katari'>即使如此，他也要继续前进。</span><br><span class='scene-font-katari'>希斯再度起誓道。</span>
+info,,,scene_chr599_q4_s10
+译者,,,

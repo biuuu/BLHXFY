@@ -1,0 +1,13 @@
+id,name,text,trans
+2,,<span class='scene-font-katari'>部屋の机にあった見覚えのない</span><br><span class='scene-font-katari'>封筒を開けると、中から</span><br><span class='scene-font-katari'>予告状と書かれたカードが出てきた。</span>,<span class='scene-font-katari'>打开放在桌子上的没见过的信封后，</span><br><span class='scene-font-katari'>里面有一张写了预告函的卡。</span>
+3,,<span class='scene-font-bold scene-font-blue'>今宵、</span><br><span class='scene-font-bold scene-font-blue'>君の心と時間を頂きに参上する。</span>,<span class='scene-font-bold scene-font-blue'>今夜、</span><br><span class='scene-font-bold scene-font-blue'>我来取走你的心和时间。</span>
+4,,<span class='scene-font-bold scene-font-blue'>さぁ、ドアの外に出てごらん。</span><br>　<br><span class='scene-font-bold scene-font-blue'>─怪盗シャノワール─</span>,<span class='scene-font-bold scene-font-blue'>来，出门看看吧。</span><br>　<br><span class='scene-font-bold scene-font-blue'>─怪盗夏诺瓦─</span>
+6,,<span class='scene-font-katari'>どこからともなく部屋に入りこんだ</span><br><span class='scene-font-katari'>一枚のバラの花びらが、風に吹かれて</span><br><span class='scene-font-katari'>舞い上がる。</span>,<span class='scene-font-katari'>不知何时进入房间的一枚蔷薇花瓣，</span><br><span class='scene-font-katari'>被风吹起飘舞在空中。</span>
+12,,<span class='scene-font-katari'>姬塔が部屋のドアを開けると、</span><br><span class='scene-font-katari'>艇のエンジン音が押し寄せてきた。</span>,<span class='scene-font-katari'>姬塔打开房间的门、</span><br><span class='scene-font-katari'>听到骑空艇的引擎声逐渐靠近。</span>
+13,シャノワールの声/夏诺瓦的声音,姬塔、<br>お誕生日おめでとう！,姬塔，<br>生日快乐！
+17,,<span class='scene-font-katari'>自動操縦に切り替えると、</span><br><span class='scene-font-katari'>シャノワールは縁から落とした</span><br><span class='scene-font-katari'>縄梯子を伝って降りてきた。</span>,<span class='scene-font-katari'>切换到自动操作以后，</span><br><span class='scene-font-katari'>夏诺瓦沿着船边放下来的绳梯降落下来。</span>
+18,シャノワール/夏诺瓦,フフフ……さすがに<br>小型騎空艇でのお迎えは<br>予想が出来なかったようだね。,呵呵呵……你没想到我会开着小型骑空艇来迎接你吧。
+19,シャノワール/夏诺瓦,今宵は君が主人公だ。<br>君の行きたい場所ならどこへでも、<br>この私が連れていってあげよう。,今晚你是主角。<br>你想去的地方，无论哪里我都会带你去。
+20,シャノワール/夏诺瓦,安心したまえ。帰りたくなったら<br>きちんと艇まで送り届けるさ。,放心吧。<br>你想回来的话我会好好把你送回船上。
+21,シャノワール/夏诺瓦,さぁ、姬塔、<br>私と一緒にここから逃げ出そう！,来，姬塔。<br>和我一起逃离这里吧！
+info,,,scene_s2_birthday_3064_v1_0_2006_2_3040093000

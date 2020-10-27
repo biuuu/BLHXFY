@@ -1,0 +1,20 @@
+id,name,text,trans
+0-chapter_name,,万華なる世界,大千世界
+0-synopsis,,十天衆の面々とオクトーの手合せが終わったある日、姬塔のもとにオクトーからの果たし状が届く。オクトーと戦う事を決意した姬塔は、ビィとルリアを伴い、果し合いの場所へ赴く。 姬塔こそが天星器の主であると認めたオクトーは「うぬにとって最強とは何か」との答えを、言葉ではなく斬撃で知らしめるよう求め、抜刀するのだった。,奥克托与诸位十天众对决之后的一天，姬塔收到了来自奥克托的决斗书。决意要与奥克托对决的姬塔，在露莉亚和碧的陪同下来到了决斗的地点。认同姬塔作为天星器主人的奥克托，要求姬塔用刀来回答「何为最强」，并拔刀出鞘。
+0,,<span class='scene-font-katari'>十天衆の面々とオクトーの</span><br><span class='scene-font-katari'>手合せが終わったある日のこと。</span>,<span class='scene-font-katari'>奥克托与诸位十天众的对决</span><br><span class='scene-font-katari'>结束后的某一天。</span>
+1,,<span class='scene-font-katari'>姬塔の元に</span><br><span class='scene-font-katari'>一通の書状が届いた。</span>,<span class='scene-font-katari'>姬塔收到了</span><br><span class='scene-font-katari'>来自奥克托的一封书信。</span>
+2,ビィ/碧,果たし状！？<br>しかも刀の爺さんからぁ！？<br>なんだってまた……,决斗书！？<br>还是用刀的爷爷送来的！？<br>又要搞什么啊……
+3,ルリア/露莉亚,姬塔……<br>やっぱり、行くんですか……？,姬塔……<br>你果然是 要去吗……？
+4,ルリア/露莉亚,……わかりました。<br>私もついていきます。,……我明白了<br>我也要去。
+5,ルリア/露莉亚,本当は、お爺さんと姬塔に<br>戦ってほしくはないですけど……<br>でも、ふたりがそう決めたなら。,说真的 我不希望<br>姬塔和爷爷打……<br>但是，你们都下定决心了。
+6,ルリア/露莉亚,私、ふたりを見守りますね！<br>一緒に連れて行ってください。,我会好好看着你们的！<br>请带我一起去吧。
+7,ビィ/碧,オイラだってそうさ！<br>相棒として、絶対ついてくからな！,咱也要去！<br>作为你的搭档 一定要去！
+8,,<span class='scene-font-katari'>姬塔は</span><br><span class='scene-font-katari'>ルリアとビィを伴い、</span><br><span class='scene-font-katari'>オクトーが指定した場所へ赴く。</span>,<span class='scene-font-katari'>姬塔在</span><br><span class='scene-font-katari'>露莉亚和碧的陪同下</span><br><span class='scene-font-katari'>前往了奥克托所指定的地方。</span>
+12,オクトー/奥克托,…………来たか。,…………来啦。
+13,オクトー/奥克托,うぬが<span class='scene-font-spword'>天星器</span>の主たること、<br>最早疑いなし。,汝作为<span class='scene-font-spword'>天星器</span>之主<br>早已毋庸置疑。
+14,オクトー/奥克托,だが、果たして<span class='scene-font-spword'>天星器</span>の力を前に、<br>うぬは勝る力を出せるものか。,不过，说到底<span class='scene-font-spword'>天星器</span>的力量<br>汝到底能否驾驭。
+15,オクトー/奥克托,天を断ち星を分かつ<span class='scene-font-spword'>天星器</span>……<br>刀神と呼ばれし者……<br>越えればうぬは最強と呼ばれよう。,断天裂星之<span class='scene-font-spword'>天星器</span>……<br>被称为刀神者……<br>若能超越，汝便是最强。
+22,オクトー/奥克托,故に問う。<br>うぬにとっての最強とは何か。<br>力とは何か！,因此发问<br>于汝，何为最强。<br>何为力量！
+23,オクトー/奥克托,言葉は不要。<br>ただ斬撃にて我に知らしめい！！,不必动嘴<br>用刀说话！！
+info,,,scene_ult_chr126_q4_10_s10
+译者,,,

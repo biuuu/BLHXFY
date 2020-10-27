@@ -1,0 +1,166 @@
+id,name,text,trans
+0-chapter_name,,The Holiday Air Show,
+0-synopsis,,"After a skyracing Q & A session with Meteon and Maddie, the crew helps Beatrix out with her creperie in the food stall area. Meteon seems suspiciously on guard the entire while; it turns out he usually avoids sweets to stay fit as a skyracer.",在缪恩与马蒂的赛艇问答环节结束之后，大家伙帮忙照顾贝阿特里克丝的可丽饼铺子，整个过程中，缪恩似乎很可疑地警惕着什么，在大家的追问下才得知，这位赛艇选手为了维持体重，甚至不吃甜食，
+1,Host with the Most,"All righty, gentlefolk! It's time for the Q & A segment you've been waiting for—Ask a Skyracer!",女士们先生们，终于到了振奋人心的赛艇手问答环节！
+2,Host with the Most,Our guests are none other than ace skyracers Meteon and Maddie!,我们今天的嘉宾是，缪恩选手和马蒂选手！
+5,Meteon,Thanks for having me.<br>Wow... This is quite the crowd.,大家好，哇，来了这么多人啊。
+6,Maddie,Hah! You all turned out to see us even without a speedship in sight? No accounting for taste.,哼，居然不是赛艇比赛还来看我们？这种品味真是可笑。
+7,Lyria/露莉亚,"Gooo, Meteon! You can do it!",加油啊！缪恩——
+8,Vyrn/碧,"Hey, Machine-Man's onstage too!",哇，机甲大叔也来了！
+9,,The promise of an up-close-and-personal chat with Meteon and Maddie has drawn a sizable audience.,与缪恩与马蒂的近距离接触让观众们兴奋极了。
+10,Host with the Most,Let's get right into it! Raise your hand if you'd like to ask a question!,那就让我们直奔主题，想问问题的观众请举手！
+11,,"From the sea of hands that shoot up, the host manages to pick one.",在一群举起手的观众之中，主持人选出一位。
+13,Sully Spectator,This is a question for both of you! What's the most important thing you need to win a skyrace?,我有个问题想问你们二位，对于赢得比赛冠军来说，最重要的是什么呢？
+14,Maddie,What a dumb question! You need the determination to win no matter what!,好蠢的问题！当然是无论怎样都要赢的决心了！
+15,Maddie,You gotta have that burning resolve not to lose to your rival. That's what wins out in the end. That's it.,你必须有不输于人的强烈决心，这样才能取得最终的胜利，就是这样。
+16,Host with the Most,"Exactly the kind of straight answer I'd expect from you, Maddie! What's your take on it, Meteon?",果然是这种直接又确切的回答，缪恩是怎么看的呢？
+17,Meteon,"This might sound strange, but lately I'm starting to think that experiencing defeat is essential if you ever want to achieve a true victory.",这样说可能会有点怪，其实我最近开始思考，在超越别人取得胜利的道路上，失败其实是必然的。
+18,Meteon,Accepting your defeats and learning from them... Not losing to your<span class='scene-font-italic'>self...</span> I think that might be where the real victory lies.,接受自己的失败并从中吸取教训，永不言弃，我想这就是胜利的诀窍。
+19,Host with the Most,"You're really giving us something to think about!<br>All right, hands up! Who else has a question?",原来如此，真是引人深思的回答，那么接下来，还有想问问题的举手。
+20,,"Once again, almost every hand in the house rises, and the host selects one.",又是基本上所有人都举手了，主持人选出一位。
+22,Sammy Spectator,Um... What do you think is the most important quality in someone who wants to become a skyracer?",嗯……你们认为成为对于一名赛艇手来说最重要的品质是什么？
+23,Maddie,"What a dumb question! Use your brain, why don't you!",又是这种愚蠢的问题！能不能动点脑子再说话！
+24,Maddie,You an' me are different. There's no guarantee that what works for me would work for you. That's it.,我们是不一样的，不能保证我的方法对你来说也有用，就是这样。
+25,Sammy Spectator,Th... Thank you!,是这样，非常感谢！
+26,Host with the Most,"Uh... Another distinctly Maddie answer! A little tough-love for my tastes, but it looks like the question-asker was happy with it!",啊这……不愧是马蒂选手，虽然听起来有点苛刻，但提问的观众好像很满意！
+27,Maddie,Shut it! One more dumb question and I'm outta here!,烦死了！再出现一个愚蠢的问题，我就立马离开这里。
+28,Host with the Most,"Yikes! Okay! Sorry, I got a little carried away there.",好的，抱歉，我都有点紧张了啊。
+29,Host with the Most,"So... What would your answer be, Meteon?",所以，缪恩选手的回答呢。
+30,Meteon,"If you're asking for advice, I'd recommend studying under someone more experienced. Learn all you can, and start out by imitating the way they race.",如果想听我的建议的话，我还是觉得向更有经验的人学习会比较好。尽可能多的向前辈学习，从模仿他们开始。
+31,Meteon,"But in the end, Maddie's right.",但还是，马蒂是对的。
+32,Meteon,"Everyone's different, you know? So every racer has their own style.",每个人是不一样的，明白吗，每一位赛艇手都有自己的风格。
+33,Sammy Spectator,Their own style... I see! Thank you!,自己的风格……明白了，非常感谢！
+34,Host with the Most,"Another thoughtful, practical answer from Meteon! He sure is good at giving advice!",不愧是缪恩选手，真是大有裨益的回答，给了大家很好的建议呢。
+35,Host with the Most,Well! Does anyone else have a question for our guests?,大家还有什么问题想问吗？
+36,,"Maddie's sharp answer seems to have discouraged many of the spectators, but one girl eagerly waves her hand in the air.",马蒂严厉的态度似乎劝退了很多想问问题的观众，不过还有一名少女急切地挥着手。
+37,Lyria/露莉亚,"Me! I do, I do!",我我我，选我！
+38,Vyrn/碧,"(Augh, Lyria! Don't get Machine-Man mad at us by asking something weird!)",啊露莉亚，你可别问什么点燃机甲大叔的怪问题啊！
+39,Host with the Most,Yes! The girl with the blue hair!,好的，就那位蓝色头发的小姐吧。
+40,Lyria/露莉亚,Yay! He picked me!,噢耶，他选我了！
+41,Lyria/露莉亚,Um... Is there a new racer either of you are keeping an eye on?,那个，二位有看好的新人赛艇选手吗？
+42,Maddie,"A new racer, you say?",新人赛艇手吗？
+43,,"Maddie's eyes narrow and the audience members shrink back in their seats, collectively holding their breath.",马蒂眯起眼睛，观众们都缩到座位上不敢说话，大家都屏住呼吸。
+44,Maddie,Nicholas and Dr. Rashomon.,士郎和罗生门博士吧。
+45,Maddie,I got a chance to see their work in action during the race on Nimmus Island. Nicholas is a solid skyracer.,我在尼姆斯岛上的比赛中有机会目睹了他们的风采，尼古拉斯是一名不折不扣的赛艇手。
+46,Maddie,"Along with their mechanical skills, that's a killer combo.",再加上他们的发明，绝对前途无量。
+47,Maddie,Theirs is a good team to watch.,可以期待一下了。
+48,Lyria/露莉亚,Okay! Thank you!,好的，谢谢您！
+49,Vyrn/碧,"(So he thinks Mecha-Nick's got what it takes, huh?)",所以他是觉得那个机甲小哥获得了他的真传是吧。
+50,Lyria/露莉亚,(Nicholas and the Rashomon crew really are impressive. Even Maddie has to admit it!),士郎先生和罗生门博士的比赛确实让人印象深刻，就连马蒂先生也这么觉得。
+51,Host with the Most,They do say that a mechanic is even more important to a skyracer than their speedship itself.,他们确实说过，一个好的机械师对于赛艇手来说，比一艘好的赛艇更加重要。
+52,Meteon,The most advanced speedship in the skies is no better than a pushcart without a talented mechanic to take care of it.,如果没有一名优秀的机械师进行维护的话，最先进的赛艇连人力车都不如。
+53,Host with the Most,"Sounds like you have a few words to say on the subject, Meteon.",听起来缪恩对于这个话题也很有想法呢。
+54,Meteon,"Yeah, although I'm departing a little from the original question.",是的，虽然可能有点跑题了。
+55,Meteon,"The old man—uh, Fangio, my mechanic—deserves a lot of the credit for my success as a skyracer. No matter how unreasonable my demands, he always manages to meet them.",那个老头子——范吉奥，也就是我的机械师，在我的赛艇生涯中功不可没，不管我的要求有多么离谱，他总能想办法达成。
+56,Host with the Most,"That's right! Your mechanic is none other than Fangio, one of the biggest names from the early days of skyracing!",确实是这样，缪恩选手的机械师是范吉奥，他在之前的赛艇比赛中也非常有名。
+57,Host with the Most,"Behind every great racer is a great mechanic, as they say!",正如人们所说，优秀的赛艇选手背后，总有一名优秀的机械师。
+58,Meteon,Fangio taught me that a good skyracer needs a mechanic's knowledge and techniques too.,是范吉奥让我明白，赛艇手同样需要机械相关知识和技术。
+59,Meteon,Which is why I don't just leave the Blue Orbit's customization to him—I'm involved every step of the way.,因此，我也参与了苍蓝轨迹的休整和维护工作的所有环节。
+60,Host with the Most,"You heard it here first, race fans! This is the kind of exclusive peek into skyracing life you won't get anywhere else!",嚯！赛艇迷们听清楚了吗，这可是只有在这里才能窥见的独一无二的赛艇生活！
+61,Host with the Most,"To return to the little lady's question though, Meteon, who have <span class='scene-font-italic'>you</span> got your eye on out on the track?",让我们回到这位小姐的问题，缪恩选手最看好的新人赛艇选手是哪位呢？
+62,Meteon,As far as promising new racers go...,就我见识到的新人赛艇手来说……
+63,,Meteon's pensive gaze swings around to the audience.,缪恩的目光停留在观众席。
+64,Meteon,I'd have to say 姬塔's team.,我觉得应该是姬塔和她的团队吧。
+65,Lyria/露莉亚,Huh? Us?,……欸？？我们？
+66,Meteon,"They debuted pretty recently, but they've already made their mark on the racing scene.",虽然她们加入赛艇比赛还没多久，但已经留下了非常好的成绩。
+67,Meteon,Anyone in the know will have their eye on the Nightcypher.,了解赛艇的人应该都听说过夜环星了
+68,Maddie,"Hunh... I don't like it, but the results don't lie.",哈？虽然我不喜欢，但是事实就是这样。
+69,Host with the Most,Now that <span class='scene-font-italic'>is</span> a surprise! The blue-haired girl in the audience turns out to be on the Nightcypher's crew!,真是太巧了，观众席的这位蓝头发的小姐就是夜环星团队的一员。
+70,Lyria/露莉亚,Ehehe... You're making me blush.,欸嘿嘿，被夸了，有点开心。
+71,Vyrn/碧,"Next time, we're shooting for first place!",下次我们一定会得到冠军的！
+72,Maddie,"What? Don't get cocky, lizard! The only way you cross the finish line is covered in my exhaust!",你说什么？别得瑟，你这个笨蛋蜥蜴，你们只能在我的尾气覆盖之中通过终点线！
+73,Vyrn/碧,Yeek! I-I... I ain't no... lizard...,我，我……我不是蜥蜴……
+75,Host with the Most,Whoops! That's about all the time we have for questions!,哦豁，提问环节到这里就要结束了。
+76,Host with the Most,"To wrap up, how about a word from Meteon and Maddie about today's aerobatics display?",最后，让缪恩选手与马蒂选手用一句话讲讲对今天的特技表演的看法吧。
+77,Maddie,Hunh... Keep your eyes peeled. You're about to see that power isn't all I've got going for me.,睁大你们的眼睛吧，你们会发现我擅长的可不只是马力。
+78,Meteon,This is a great chance to see techniques no one uses on the racetrack. I hope you all enjoy the show.,这是一个能够欣赏到不同于竞技比赛的特技表演的机会，希望大家能够喜欢。
+79,,The interview segment wraps up amid clear appreciation from the audience.,访谈节目在观众的掌声中落下帷幕。
+83,???,He even has a way with words...,他也很擅长说辞啊……
+84,,Someone has been watching the Q & A session with rapt interest.,有人在暗处目睹了整个问答环节。
+90,,"Meteon, 姬塔, and the others head to the area where all the stalls are set up.",缪恩和姬塔一行人来到了设置摊位的地方。
+92,Beatrix,Huff... Puff...<br>You guys! Your timing couldn't be better!,是缪恩和姬塔啊，能不能稍微等一下。
+93,Lyria/露莉亚,Beatrix! What's wrong? Why are you so out of breath?,贝阿特里克丝？你怎么会在这里？
+94,Beatrix,I need help making crepes! Please! You're my only hope!,那个，我的可丽饼需要救援！你们是我唯一的希望了！
+95,Vyrn/碧,"Hey, hold your horseradishes. Why do we need to make crepes now?",诶，等等，你是说要我们做可丽饼？
+96,Meteon,Maybe you should start from the beginning.,你最好还是从头开始解释吧。
+97,Beatrix,"Okay, so here's the thing. Sierokarte asked me to participate in this event.",其实是这样的，榭洛她来邀请我参与这个活动了。
+98,Beatrix,"The Pinky Bearheart Pop-Along Fighter was totaled, so I decided to convert it into a crepe stand!",我的粉红熊熊爱心砰砰战斗机已经报废了，所以我打算把它改装成一个可丽饼铺。
+99,Beatrix,I call it the Pinky Bearheart Pop-Along Creperie!,我把它叫做——粉红熊熊爱心砰砰可丽饼铺！
+100,,"Beaming with pride, Beatrix points to a stand which is, clearly, a converted speedship.",贝阿特里克丝自豪的指向那边的铺子，很明显那是一艘改装过的赛艇。
+101,Lyria/露莉亚,Ohh! What an adorable crepe stand!,哇！好可爱的可丽饼铺啊！
+102,Vyrn/碧,That name did always sound like it belonged on a candy store or something.,就是那个名字听起来有点像糖果店。
+103,Vyrn/碧,But it seems like a bit of a waste just to sell crepes when you <span class='scene-font-italic'>have</span> a speedship you could use to perform.,就是用一艘能比赛的赛艇来卖可丽饼好像有点浪费。
+104,Meteon,So what is it you need our help with?,所以你要我们帮忙做什么呢？
+105,Beatrix,"Some urgent business came up, and I need to leave...",工作来的太突然了，我必须得离开一下……
+106,Beatrix,"So could you take care of the stand while I'm gone? I won't be long! Pleeease, I'm begging you!",所以那个，你们能不能帮我照看一下铺子啊，我保证我不会离开太久的，拜托了啊！
+107,Lyria/露莉亚,"Watching it shouldn't be a problem, but I'm not so sure about the crepe-making part.",帮你照看倒是没什么问题，可是我还不知道如何做可丽饼呢。
+108,Beatrix,Don't worry! I'll give you a crash course right now!,不用担心，我可以给你们现场教学！
+109,Meteon,"Crepes, huh?",可丽饼啊……
+110,Beatrix,Don't you like crepes?,你不喜欢可丽饼吗？
+111,Meteon,It's not that...,不是这样的……
+111-sel1_txt,,"C'mon, we can do it together!",来吧，我们一起！
+111-sel2_txt,,Don't you wanna make crepes with us?,你不想跟我们一起做可丽饼吗？
+112,Meteon,"Sure... Yeah, okay.",啊，嗯……当然……没问题。
+113,Meteon,No... That's not the problem...,不是，问题不在这……
+114,Vyrn/碧,"Hey, we're not gonna twist your arm, y'know.",如果你不想去的话，那就算了。
+115,Meteon,"Argh, fine! I'll do it, okay? I'm in!",啊，不是，我去的！现在就走吧。
+116,Beatrix,Thank you sooo much! You're saving my life here! Just sit tight while I get everything ready!,太太太太感谢你们啦！你们救了我的命！我会把一切都准备好的！
+117,,"Meteon, 姬塔, Lyria, and Vyrn dutifully listen to Beatrix's lecture on crepe-making.",缪恩、姬塔、露莉亚和碧认真的听了贝阿特里克丝的可丽饼制作教学。
+118,,"Lessons imparted, Beatrix heads out, leaving the crew to handle the Pinky Bearheart Pop-Along Creperie.",教学结束后，贝阿特里克丝就离开了，留下了粉红熊熊爱心砰砰可丽饼铺给大家。
+124,Meteon,...,……
+125,,"Meteon and 姬塔 stand side by side, making crepes just as instructed by Beatrix.",缪恩和姬塔站在一起，按照贝阿教的做着可丽饼。
+126,Lyria/露莉亚,"Ooh, look! Meteon's crepes look delicious!",快看，缪恩做的可丽饼看起来很好吃！
+127,Vyrn/碧,Wow! You've got a knack for this!,哇，你看起来得心应手！
+128,Meteon,Maybe.,大概吧。
+129,,姬塔 is surprised just how well Meteon wields a spatula.,姬塔惊讶地看着缪恩的操作。
+130,Vyrn/碧,I figured you didn't wanna do this 'cause you were a lousy cook.,我觉得你不想接这个活是不想暴露你是个隐藏的大厨。
+131,Meteon,Don't be ridiculous.,别开玩笑了。
+132,Meteon,"A pilot has to make thousands of minute adjustments with the control stick during a race, all split-second decisions.",在比赛中，赛艇手必须操作控制杆在数千分钟内持续进行调整，并且需要瞬间进行决策。
+133,Meteon,We tend to be good at tasks involving fine motor skills—cooking included.,所以我们很擅长需要进行精密调整的工作，包括烹饪。
+134,,"Why did Meteon hesitate then, 姬塔 wants to know.",所以缪恩到底犹豫些什么，这让姬塔非常好奇。
+135,Meteon,Well...,这个啊……
+136,,The skyracer seems to struggle with his reply.,赛艇手似乎很犹豫该怎么回答。
+137,Meteon,I was worried about... the crepes.,我其实是担心……可丽饼。
+138,Vyrn/碧,Why? They won't bite you.,为什么？它们又不会吃了你。
+139,,Meteon's friends persist until he gives them a reason.,缪恩的好友们都很想知道他为何如此排斥可丽饼。
+140,Meteon,"Since I set my sights on a career as a skyracer, I've avoided sweets in order to keep my weight down.",自从我下定决心成为一名赛艇手之后，为了维持体重，我一直不吃甜食。
+141,Meteon,"I try not to even look at them, so I won't be tempted.",我甚至不会去看它们，这样就不会馋了，
+142,Lyria/露莉亚,Oh...,这样啊……
+143,Meteon,I've worked so hard to keep junk food out of my life that I didn't want to make any myself.,我已经努力告别垃圾食品了，更别说自己做了。
+144,,姬塔 and the others find themselves smiling at Meteon's unusually flustered demeanor.,姬塔、碧和露莉亚看到缪恩如此提防的样子忍不住笑了出来。
+145,Meteon,"Hey, don't laugh at me! That's why I didn't wanna explain!",哼，有什么好笑的嘛，所以我才不想说这些！
+146,,A group of customers step up to the Pinky Bearheart Pop-Along Creperie.,一群顾客走进粉红熊熊爱心砰砰可丽饼铺。
+147,Crepe Lover Clem,"Ooh, a crepe stand! I gotta have one!",哇，一个可丽饼铺，我想要来一个。
+148,Crepe Lover Clem,Hmmm... What toppings do I want...<br>Excuse me! Can I have—,让我看看我要什么馅的……你好，给我来一份……
+149,Crepe Lover Clem,Whuh! Meteon? You're making crepes? Nooo waaay!,哇啊啊，缪恩？你在做可丽饼，不会吧！
+150,,"Word spreads quickly that Meteon is manning a crepe stall, and soon the Pinky Bearheart Pop-Along Creperie is doing a booming trade.",缪恩正在打点可丽饼铺的消息很快就传遍了，没过多久，粉红熊熊爱心砰砰可丽饼铺就已经人满为患。
+151,,"When Beatrix returns, Meteon and the others slip out back.",贝阿特里克丝回来之后，缪恩一行人偷偷溜了出来。
+157,,They take with them some piping hot crepes as a thank-you from Beatrix.,贝阿为了表示感谢，给了他们一些还在泛着热气的香香可丽饼。
+158,Lyria/露莉亚,"Ooohhh, Beatrix's crepes are sooo goood!",哇哦！贝阿的可丽饼真是太好吃了！
+159,Vyrn/碧,"Yeah! They look just like the ones we made, but they're a cut above!",是的！虽然看着和我们做的一样，但比我们的好吃多了。
+160,Meteon,...,……
+161,,Meteon seems to have frozen with a crepe held in both hands. 姬塔 asks if he's trying to absorb it psychically.,缪恩看着手中的可丽饼犹豫不决，姬塔关心地询问他现在能不能吃这个。
+162,Meteon,"Well... I don't need to slim down at the moment, so there's no reason I <span class='scene-font-italic'>can't</span> eat it...",我目前确实不需要控制体重，所以吃这个倒是没什么……
+163,Meteon,"But as a skyracer, I have to be strict about my weight.",但是作为赛艇手，我必须严格控制体重。
+164,Lyria/露莉亚,That makes sense. The lead-up to a race really is demanding. There are so many preparations to make.,确实是这样，参加比赛确实是一件很辛苦的事，要做很多准备工作。
+165,Meteon,That said... I'd feel bad to waste a gift like this.,但是啊，这有的礼物浪费了就太可惜了。
+166,Vyrn/碧,"I'll eat yours, if you don't want it.",如果冠军小哥你不想吃的话，我可以帮你吃掉喔，
+167,Meteon,Wha...,哇啊……
+168,,Meteon's eyes open wide.,缪恩一下子慌张起来。
+169,Meteon,"I hadn't thought of that... Of course, that's a perfectly good solution.",啊……我怎么没想到……当然可以，确实，这样最合适不过了。
+170,,姬塔 stops Meteon in the act of handing over his crepe.,当缪恩准备将可丽饼交给碧的时候，姬塔阻止了他。
+171,,"The captain insists that because it was a gift to Meteon, Meteon should be the one to eat it.",团长坚持说那是给缪恩的礼物，缪恩必须亲自吃掉。
+172,Meteon,"You have a point, 姬塔. I should at least try a bite.",你说的对，姬塔，至少我得尝一口吧！
+173,,"Meteon slowly raises the crepe to his lips, then takes a huge bite.",缪恩缓缓地将可丽饼送到嘴边，咬了一大口。
+174,Meteon,Mmph... Munch... Munch...,哈呣哈呣哈呣
+175,Meteon,...!<br>This is <span class='scene-font-italic'>incredible!</span>,……！啊这，这也太好吃了吧！
+176,,Meteon devours the crepe with an appetite his friends have never before seen him display.,小小的可丽饼让缪恩暴露了他对美食的原始欲望。
+177,Meteon,Phew... That was delicious...,哇啊，真是绝了。
+178,Vyrn/碧,"Wow, you really looked like you enjoyed that!",哇哦，你看起来吃的真香。
+179,Lyria/露莉亚,"Hehehe... I never guessed you had such a sweet tooth, Meteon.",我都没想到缪恩你原来这么馋甜食啊。
+180,,The dreamy look in Meteon's eyes takes quite a while to fade as he savors the lingering taste of whipped cream and chocolate sauce.,缪恩细细地品着奶油和巧克力酱混在一起的味道，他觉得自己好像陷入梦境一般。
+184,???,"Munch... Munch... Crunch, crunch... Even his crepes are delicious...",……哈呣，他做的可丽饼也很好吃啊。
+185,,"The solitary figure is still observing Meteon, this time with a cream-topped snack in hand.",那个人影还在偷偷观察着缪恩，他手上拿着一份可丽饼。
+186,,"Over the loudspeakers, a voice announces the beginning of the aerobatics show.",场内的广播通知宣布，表演即将开始。
+info,,,scene_chr581_q2_s10
+译者,,,旌歌      

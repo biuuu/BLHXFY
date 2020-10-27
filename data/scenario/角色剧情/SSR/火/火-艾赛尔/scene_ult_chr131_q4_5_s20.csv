@@ -1,0 +1,11 @@
+id,name,text,trans
+0-chapter_name,,君に眠りを、私に銃を,给我手铳，赐你永眠
+0-synopsis,,勝負には負けてしまったが、十狼雷がエッセルを変えた事に気づくニオ。エッセルは打ち負かしたニオに興味を失くしたのか、「十狼雷で弟妹達を守る」と言い残し踵を返す。その場に残されたニオは、そんなエッセルを憂いつつ「最初からシエテかウーノに話しておけばよかった」と後悔するのだった。,虽然落败，但是妮欧注意到了是十狼雷改变了艾瑟尔。艾瑟尔貌似对于落败的妮欧失去了兴趣，留下一句“我会用十狼雷保护弟妹们”便转身离去。留在原地的妮欧一边为艾瑟尔担忧着，一边后悔“要是最开始就跟希耶提或者乌诺说就好了”。
+0,ニオ/妮欧,その銃……<br><span class='scene-font-spword'>十狼雷</span>が貴方を調律したのね。<br>いびつに、めちゃくちゃに……,那把铳……<br>是<span class='scene-font-spword'>十狼雷</span>对你进行了调律吧。<br>把你变得扭曲，杂乱……
+1,エッセル/艾瑟尔,……私は。<span class='scene-font-spword'>十狼雷</span>で<br>弟妹達を守る……！,……我会用<span class='scene-font-spword'>十狼雷</span>来保护弟妹们……！
+2,,<span class='scene-font-katari'>打ち負かしたニオに</span><br><span class='scene-font-katari'>興味を失くしたのか、</span><br><span class='scene-font-katari'>エッセルは踵を返す。</span>,<span class='scene-font-katari'>貌似对落败的妮欧失去了兴趣，艾瑟尔随即转身离去。</span>
+3,ニオ/妮欧,もう、何も見えてないし、<br>聴こえてもいないのね。,你已经什么都看不见，也什么都听不进了吧。
+4,ニオ/妮欧,……最初から、シエテかウーノに<br>話しておけばよかった。,……要是一开始就跟希耶提或乌诺商量就好了。
+6,,<span class='scene-font-katari'>ニオの呟きは</span><br><span class='scene-font-katari'>エッセルの耳には</span><br><span class='scene-font-katari'>届いていなかった。</span>,<span class='scene-font-katari'>妮欧的呢喃并没有传到艾瑟尔的耳中。</span>
+info,,,scene_ult_chr131_q4_5_s20
+译者,,,

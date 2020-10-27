@@ -1,0 +1,65 @@
+id,name,text,trans
+0-chapter_name,,Sending Our Thoughts,送去我们的思念
+0-synopsis,,"An elderly man asks Halluel and Malluel to deliver a letter to a woman he lost contact with when they were both children. Despite the man being unable to provide much detail about the intended recipient, the twins readily accept his request. They head to the woman's last known location when she was a child to gather information.",一位老人请求露特和玛露特给一位女性送信，当他们还都是孩子时双方就失去了联系。尽管他无法提供更多和这位收信人有关的细节，但双子还是爽快地答应了这个请求。之后她们便出发前往有传闻那位女性小时候最后出现的地方搜集信息。
+1,,"As their vacation comes to an end, 姬塔 and company are enjoying the fireworks when an elderly man grabs their attention.",姬塔一行人的假期已经接近尾声，正在欣赏烟花时，一位老人引起了她们的注意。
+2,Elderly Man,"Excuse me, but are you two the winged messengers people have been talking about?",请问你们就是最近大家都在讨论的有翅膀的邮递员吗?
+3,Halluel/哈露特,"Hm? If you mean the Archangel Parcel Service, then yes, that's us.",嗯？如果您指的是天司邮政的话，没错，就是我们。
+4,Malluel/玛露特,Is there a letter you'd like to have delivered?,您是想要寄信么？
+5,Elderly Man,"Yes, if you would humor a preposterous request.",是的，不知你们能否答应我这个有些荒唐的请求。
+6,Elderly Man,I once met a girl searching for pink seashells on an island when I was a wee lad. I'd like you to deliver this letter to her.,在我还是个小男孩时，曾经遇见一个在岛上寻找粉色贝壳的女孩，我想让你们把这封信寄给她。
+7,,"Halluel and Malluel take a glance at the man's letter, then look at each other with raised eyebrows.",7.哈露特和玛露特看了一眼老人的信，接着望向彼此，惊讶地扬起了眉毛。
+8,Lyria/露莉亚,"Um, there doesn't seem to be an address on the envelope...",唔，信封上似乎没有地址呢...
+9,Elderly Man,That's because I don't know where she currently resides.,那是因为我并不知道她现在住在哪。
+10,Elderly Man,All I have to go on is her nickname and the name of her village from way back when.,我知道的仅仅是她的爱称和很久之前她村庄的名字。
+11,Halluel/哈露特,I can see why you called it a preposterous request.,原来如此，所以你才说这是个荒唐的请求...
+12,Malluel/玛露特,"Okay, mister. Can you tell us everything you know?",老爷爷，可以的话，你能告诉把你知道的一切都告诉我们吗？
+13,,"The elderly man's shoulders sag a little, as if embarrassed to be inconveniencing the crew. He recounts a story from his past.",老人微微垂下肩膀，好像是对给团长她们带来不便而感到羞愧。接着他把自己过去的故事娓娓道来。
+19,,"Long ago, when the elderly man was just a boy...",很久以前，当这位老人还只是个小男孩时...
+21,Young Boy,Whatcha lookin' for?,喂，你在找什么呀？
+22,,It's a warm summer day. A young boy comes across a girl scouring the sandy shores of Auguste. He doesn't hide his curiosity.,这是一个温暖的夏天。一个小男孩偶然遇见一个在奥古斯特的沙滩边四处找着什么的女孩，他忍不住好奇心上前发问。
+23,Shell-Hunting Girl,I'm looking for seashells.,我在找贝壳呢。
+24,Young Boy,"Seashells? They're everywhere. Look, there's a whole bunch right there.",贝壳？这里不是有很多吗？
+25,Shell-Hunting Girl,"Uh-uh, not those. I'm looking for pink ones.",不不，我在找的是粉红色的贝壳哦。
+26,Shell-Hunting Girl,"There's a story that if you have a pink, heart-shaped seashell, it'll bring you happiness!",我听说粉色心形的贝壳会给人带来幸福！
+27,Young Boy,Hmm... Okay. I'll help ya look too.,嗯...那我也一起来帮你找吧。
+28,Shell-Hunting Girl,You will? Thanks!,真的吗？谢谢你！
+29,,The boy visits the beach every day without fail to help the girl look for her heart-shaped seashells.,之后，男孩每天一定都会来沙滩帮女孩一起找心形的贝壳。
+30,,But that blissful summer draws to a close without them finding a single one.,可当炙热的夏季都要结束时，他们连一枚贝壳都还没找到。
+31,,"It was time for the girl, who had been staying with relatives only for the summer, to go home to her parents.",并且，因为女孩只是和亲戚过来待一个夏天，现在也要离开这里了。
+32,Shell-Hunting Girl,It's too bad we didn't find anything even though you spent your summer helping me.,真可惜啊，亏你一整个夏天都在帮我找贝壳，可惜一无所获。
+33,Shell-Hunting Girl,"Even with both of us looking, we couldn't find anything... I guess it was just a fairy tale.",即使我们两人都那么努力地找了，还是什么都没有...也许那只是一个谣言而已罢了。
+34,Young Boy,I'll find one!,我一定会找到的！
+35,Shell-Hunting Girl,Huh?,诶？
+36,Young Boy,"I'll find one and send it to ya, even if you live somewhere far away. That's what letters are for, right?",我一定会找到贝壳然后寄给你的。即使你住的地方离这里很远，我也能寄信过来，对吧？
+37,Young Boy,"So just wait, okay? I'll definitely get one to ya!",所以，等着我，我绝对会给你找到的！
+43,Elderly Man,We kept writing each other letters from across the vast sky while I continued looking for her shells.,就这样我们天各一方，在给彼此写信的同时，我也在继续寻找着贝壳。
+44,Elderly Man,That is until...,直到...
+49,,"After many months, he finally finds the promised shell and sends it out with his usual letter.",数月之后，他终于找到了约定的那枚贝壳，并和往常一样，将它随信件一起寄出了。
+50,,But he never receives a reply. No correspondence from the girl ever came again.,但他再也没有从女孩那边收到过任何回信。
+55,Malluel/玛露特,Did you try sending her any more letters afterward?,在那之后你有试着再给她寄信吗？
+56,Elderly Man,"No matter how many letters I sent out, they always came back as undeliverable.",不管我寄出了多少封信，它们基本上都因为无法送达而被退回了。
+57,Vyrn/碧,How come you wanna reach her again even though you've no way of getting in touch anymore?,老爷爷，为什么你明明已经没有办法再联络到她了，但事到如今还是想要寄信呢？
+58,Elderly Man,"Call it a whim. One day, my granddaughter gathered a large pile of shells.",实际上，是因为我的外孙女收集了一大堆的贝壳...
+63,,"The elderly man had forgotten about the little girl he once knew, but those dormant memories came flooding back at the sight of the shells.",本来老人已经忘记了女孩，但当看见这些贝壳时，尘封的回忆就如洪水般涌入了他的脑海。
+64,,"Did the heart-shaped shell he sent ever reach her? If it did, did it bring her happiness like the story claimed?",他寄出的那个心形贝壳她有没有收到呢？如果收到了，它是否像故事所说的那样给她带来了幸福呢？
+65,,"In order to find out, he wants to try sending her just one more letter.",为了确认这些想法，他想试着再给她寄一封信。
+66,,"But without her address, he was almost ready to give up on the near impossible task.",可没有她的地址，老人几乎已经打算放弃了。
+71,Halluel/哈露特,I see. That's why you came to us.,原来如此，所以您才会过来问我们啊
+72,Malluel/玛露特,I can definitely see regular delivery services having a difficult time delivering your letter.,的确，对于一般的邮递员，要送达这样的信是很困难的。
+73,Malluel/玛露特,"If you know her name at least, that might be enough to go on...",毕竟至少要知道那位女性的名字才能好好地开始...
+74,Elderly Man,"We were just kids, you know? We both used nicknames in our letters to keep things simple.",那时我们还小嘛，为了方便，我们在信里都只用爱称。
+75,Elderly Man,"Remembering her nickname isn't a problem, but I never learned her real name.",所以我只记住了她的爱称，但却一直不知道她的真名。
+76,Halluel/哈露特,"Okay, I think I get the picture. We can probably get this done, right, Mal?",嗯，大概情况我了解了。如此一来我们也许也能完成这个任务，对吧？
+77,Malluel/玛露特,Mm-hm! We're the Archangel Parcel Service. We'll get it delivered to wherever and whomever. That's our motto.,嗯！我们天司邮政的座右铭是“无论在何方、无论是何人，我们都能为你送达”
+78,Malluel/玛露特,No letter is too impossible to deliver.,无论如何都送不到的信可是不存在的哦！
+79,Halluel/哈露特,"Take heart, sir. We'll make sure your precious letter gets to her.",所以放心吧老爷爷，我们一定会把你重要的信交到她手上的。
+80,Lyria/露莉亚,And we'll help too! She won't stay missing for long with all of us on the case!,我们也会来帮忙的！大家齐心协力，一定可以找到她！
+81,Elderly Man,Oh! I can't thank you all enough. I'll be waiting for the good news.,哦！真的非常感谢。那就拜托你们了。
+87,,"The next day, the crew discusses how to tackle delivering the elderly man's letter.",第二天，大家便讨论起如何帮老人送信。
+88,Halluel/哈露特,Malluel and I will go to the village where the girl used to live.,那我和玛酱就去她以前住过的村庄。
+89,Malluel/玛露特,The locals might know something about her.,那里的住民说不定知道一些关于她的线索呢。
+90,Lyria/露莉亚,Okay! We'll stay here and ask around for any information.,好的！那我们就留在这座岛上继续收集信息吧。
+91,Vyrn/碧,There's gotta be other people besides the old-timer who've met her before!,除了那个老爷爷以外，这里以前肯定还有别人见过她吧!
+92,,"With their efforts focused on delivering the letter, Halluel and Malluel split off from the crew to begin their assignment.",抱着完成任务的决心，哈露特和玛露特先行离开并开始了她们的送信之旅。
+info,,,scene_chr551_q1_s10
+译者,,,九鸟&炎溪

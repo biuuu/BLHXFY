@@ -1,0 +1,53 @@
+id,name,text,trans
+0-chapter_name,,漆黒の悪魔,漆黑的恶魔
+0-synopsis,,一行が空を見上げると、黒煙が立ち上っていた。煙の正体を確かめに向かうと、炎にまかれた村でジークフリートが次々と村人を手にかけていた。信じられない光景を目の当たりにした一行に問答無用で斬りかかってくるジークフリート。戸惑いを拭えないままランスロットが先陣を切り、動きを封じようと試みる。,一行人抬头望向天空，发现了一缕缓缓上升的黑烟。他们前去确认烟的来路，却看到齐格飞正在一个被烈火吞噬的村庄里，将村民们一个一个地杀死。就在一行人对眼前的这幅光景感到无法相信的时候，齐格飞二话不说地砍了过来。虽然仍然疑惑不解，但兰斯洛特选择先打头阵，与所有人一起限制齐格飞的行动。
+0,,<span class='scene-font-katari'>アンデッド達の包囲網を突破した一行は、</span><br><span class='scene-font-katari'>安全な場所で呼吸を整える。</span>,<span class='scene-font-katari'>一行人突破了活死人们的包围网，</span><br><span class='scene-font-katari'>来到安全的地方，调整呼吸。</span>
+1,ランスロット/兰斯洛特,……周りに魔物の気配は無い。<br>よし、ここなら安全だ。,……周围没有魔物的气息。<br>好，到这里就安全了。
+2,ランスロット/兰斯洛特,みんな……<br>よく頑張ったな！,各位……<br>干得好！
+3,ビィ/碧,ふぃ～！<br>一時はどうなることかと思ったぜ。,呼～！<br>我刚刚还以为会怎么样呢。
+4,ヴェイン/维恩,まぁ、こんだけ逃げたら<br>さすがにもう追ってこないだろ？,不过，我们都逃出这么远了，<br>他们应该追不过来了吧？
+5,ルリア/露莉亚,あ、あの……<br>ヴェインさん？,那、那个……<br>维恩先生？
+6,ヴェイン/维恩,ん……<br>どうしたルリア？,嗯……<br>怎么了露莉亚？
+7,ルリア/露莉亚,その……<br>もう降ろしてもらっても<br>大丈夫そうです……,那个……<br>可以把我放下来了，<br>我已经没事了……
+8,ヴェイン/维恩,おっ……わりぃわりぃ！<br>軽いから気付かなかったぜ！,哦……抱歉抱歉！<br>你太轻了，我都没注意到！
+9,,<span class='scene-font-katari'>恥ずかしそうなルリアを</span><br><span class='scene-font-katari'>背中から降ろすヴェイン。</span>,<span class='scene-font-katari'>维恩蹲下，好让有些害羞的露莉亚下来。</span>
+10,,<span class='scene-font-katari'>改めて休憩を取る一行は、</span><br><span class='scene-font-katari'>空に立ち昇る黒煙を見つける。</span>,<span class='scene-font-katari'>一行人休息了一段时间后，</span><br><span class='scene-font-katari'>注意到了空中升起的黑烟。</span>
+11,ビィ/碧,なぁ……ランスロット。<br>あの煙はなんだ？,喂……兰斯洛特。<br>那个黑烟是什么啊？
+12,ランスロット/兰斯洛特,ん……煙？<br>確かに黒煙が上がっている……,嗯……烟？<br>确实有黑烟在上升……
+13,ヴェイン/维恩,それに見ろよ……<br>なーんか空も妙に明るいぜ？,快看那个……<br>怎么感觉天空异常地亮啊？
+14,,<span class='scene-font-katari'>煙を不審がるランスロット達は、</span><br><span class='scene-font-katari'>その正体を確かめたいと</span><br><span class='scene-font-katari'>姬塔一行に申し出る。</span>,<span class='scene-font-katari'>兰斯洛特和维恩觉得那股黑烟非常可疑，便向姬塔提议前去确认。</span>
+15,,<span class='scene-font-katari'>その申し出に同意した一行は、</span><br><span class='scene-font-katari'>ランスロット達と共に煙の</span><br><span class='scene-font-katari'>元へ向かうのだった。</span>,<span class='scene-font-katari'>一行人同意了这个提议，</span><br><span class='scene-font-katari'>与兰斯洛特和维恩一起</span><br><span class='scene-font-katari'>前往烟的源头。</span>
+18,,<span class='scene-font-katari'>煙の元へたどり着くと、</span><br><span class='scene-font-katari'>そこには紅蓮の炎に包まれる</span><br><span class='scene-font-katari'>村らしき場所があった。</span>,<span class='scene-font-katari'>抵达了烟的源头后，他们看见</span><br><span class='scene-font-katari'>那里被鲜红的烈焰所包围，</span><br><span class='scene-font-katari'>似乎是一个村庄。</span>
+19,,<span class='scene-font-katari'>その炎のただ中で、村人達を<br><span class='scene-font-katari'>次々と手にかける剣士。</span>,<span class='scene-font-katari'>在那片火海中，<br><span class='scene-font-katari'>一名剑士将村民们一个接一个地杀害了。</span>
+20,？？？,…………,…………
+23,村人/村民,がはっ……,呃哈……
+25,,<span class='scene-font-katari'>村人の返り血を全身に</span><br><span class='scene-font-katari'>浴びた剣士の姿が、</span><br><span class='scene-font-katari'>炎に照らし出される。</span>,<span class='scene-font-katari'>剑士的全身被村民们的鲜血染红。</span><br><span class='scene-font-katari'>火焰照亮了他的身姿。</span>
+26,ジークフリート/齐格飞,…………,…………
+27,ランスロット/兰斯洛特,……え？,……诶？
+28,ランスロット/兰斯洛特,ジークフリート……さん？,齐格飞……先生？
+29,ジークフリート/齐格飞,……ランスロット、か。,……兰斯洛特，吗。
+30,ランスロット/兰斯洛特,どうして……<br>ジークフリートさん！,为什么……<br>齐格飞先生！
+31,ジークフリート/齐格飞,…………<br>消えてもらう。,…………<br>消失吧。
+32,,<span class='scene-font-katari'>言うや否や、ジークフリートは</span><br><span class='scene-font-katari'>問答無用で斬りかかって来る。</span>,<span class='scene-font-katari'>话音刚落，</span><br><span class='scene-font-katari'>齐格飞便二话不说地砍了过来。</span>
+33,ジークフリート/齐格飞,はぁああああ！,哈啊！
+36,ランスロット/兰斯洛特,ぐっ……,呜……
+37,,<span class='scene-font-katari'>ジークフリートの斬撃を</span><br><span class='scene-font-katari'>すんでのところで</span><br><span class='scene-font-katari'>受けるランスロット。</span>,<span class='scene-font-katari'>兰斯洛特差点就死在齐格飞的斩击之下。</span>
+38,ヴェイン/维恩,うぉおおおお！,呵啊啊啊啊啊！
+40,ジークフリート/齐格飞,……ふっ。,……哼。
+41,,<span class='scene-font-katari'>二人の間に入ったヴェインの一撃を</span><br><span class='scene-font-katari'>なんなく躱すジークフリート。</span>,<span class='scene-font-katari'>维恩介入两人之间攻击齐格飞，</span><br><span class='scene-font-katari'>却被他轻易地躲开了。</span>
+42,ランスロット/兰斯洛特,ヴェイン！<br>……助かった！,维恩！<br>……谢谢你救了我！
+43,ヴェイン/维恩,おい、ランスロット！<br>ジークフリートさんは<br>やる気みてーだぜ！,喂，兰斯洛特！<br>齐格飞先生好像是认真的！
+44,ランスロット/兰斯洛特,……その様だな。,……看来是这样的。
+45,ヴェイン/维恩,操られてんのか<br>なんだか知らねーけど！<br>考えんのは後だ！,不知道是被操控了还是怎么样！<br>总之之后再想吧！
+46,ヴェイン/维恩,躊躇したら……<br>こっちがやられるぜ！,要是有所犹豫……<br>我们就会被干掉了！
+47,ランスロット/兰斯洛特,ああ……わかってる！,啊啊……我知道！
+48,ビィ/碧,おいおい……<br>いったい何がどうなってやがんだ！,喂喂……<br>到底是怎么回事啊！
+49,ルリア/露莉亚,わかりません……<br>でも、ジークフリートさんの<br>殺気は……本物です。,不知道……<br>但是，齐格飞先生的杀气……<br>是真的。
+50,ランスロット/兰斯洛特,姬塔！<br>見ての通り……<br>相手はこちらを殺す気だ。,姬塔！<br>如你所见……<br>对方是真的想杀了我们。
+51,ヴェイン/维恩,全力でかからないと、<br>勝ち目は無いぜ！,如果不全力以赴，<br>可没有胜算哦！
+52,ランスロット/兰斯洛特,皆で連携を取って、<br>動きを封じるぞ！,大家一起合力限制他的行动！
+53,ランスロット/兰斯洛特,<span class='scene-font-kokoro'>（どうしたんだ……</span><br><span class='scene-font-kokoro'>ジークフリートさん……）</span>,<span class='scene-font-kokoro'>（你究竟怎么了……</span><br><span class='scene-font-kokoro'>齐格飞先生……）</span>
+54,ジークフリート/齐格飞,フン……,哼……
+55,ランスロット/兰斯洛特,くっ……<br>迎え撃つぞ！,可恶……<br>迎击！
+info,,,scene_ult_chr110_ep1_q3_s10
+译者,Yumeko,Yumeko,

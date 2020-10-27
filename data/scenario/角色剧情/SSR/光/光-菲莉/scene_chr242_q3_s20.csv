@@ -1,0 +1,34 @@
+id,name,text,trans
+0-chapter_name,,永遠の略奪者,永远的掠夺者
+0-synopsis,,一行は男の用意した兵器を破壊するも、男はすでに行方をくらませてしまっていた。幽霊達は救出されると、モモの前に一列に並んでお礼を言う。まだぎこちなさが残るものの、モモと幽霊達は少しだけ、互いの距離を縮めたのだった。,一行人破坏掉男人准备好的武器之后，男人已经不知所踪。幽灵们被救出来之后，在莫莫面前排成一排向它道谢。虽然还有些不适应，但莫莫和幽灵们的距离，已经缩短了一些。
+0,,<span class='scene-font-katari'>男の用意した兵器を、</span><br><span class='scene-font-katari'>見事破壊する姬塔一行。</span>,<span class='scene-font-katari'>一行人成功地，</span><br><span class='scene-font-katari'>将男人的兵器破坏。</span>
+1,,<span class='scene-font-katari'>しかし、その時すでに</span><br><span class='scene-font-katari'>男は行方をくらませていたものの、</span><br><span class='scene-font-katari'>幽霊達は、無事保護されたのだった。</span>,<span class='scene-font-katari'>但是，那时</span><br><span class='scene-font-katari'>男人已不知所踪，</span><br><span class='scene-font-katari'>幽灵们被保护了下来。</span>
+2,ベッポ,――――！！,――――！！
+3,フージーとニコラ,――！！　――！！,――！！　――！！
+4,ジジ,――――,――――
+5,フェリ/菲莉,ふふ……<br>そうか、ごめんな……<br>お前達を怖い目に遭わせて……,呵呵……<br>是吗，抱歉啊……<br>让你们碰到了恐怖的事情……
+6,ビィ/碧,なぁ……<br>結局、あのおっさん、<br>何者だったんだ……？,嗳……<br>到底，那大叔<br>到底什么人啊……？
+7,ルリア/露莉亚,わかりません……<br>エルステ帝国とは、<br>また少し違うみたいですし……,不知道……<br>和埃尔斯特帝国<br>好像又有些不一样……
+8,フェリ/菲莉,何だっていいさ……<br>こうしてこの子達が<br>無事に帰ってきたんだ……,什么都好……<br>孩子们总算<br>平安回来了……
+9,フェリ/菲莉,いまは……それだけで十分だ。,目前……这就足够了。
+10,,<span class='scene-font-katari'>そう言ってフェリは、</span><br><span class='scene-font-katari'>幽霊達を抱きしめる。</span>,<span class='scene-font-katari'>这么说着</span><br><span class='scene-font-katari'>菲莉抱住了幽灵们。</span>
+11,モモ,…………,…………
+12,ベッポ,――――！,――――！
+13,フェリ/菲莉,うん？<br>どうしたんだ？　ベッポ。,嗯？<br>怎么了？　贝波。
+14,,<span class='scene-font-katari'>フェリが手を離すと、</span><br><span class='scene-font-katari'>ベッポ、フージー、ニコラ、ジジの</span><br><span class='scene-font-katari'>４匹はモモの前に並び始める。</span>,<span class='scene-font-katari'>离开菲莉的手心，</span><br><span class='scene-font-katari'>贝波，弗吉，尼古拉和吉吉</span><br><span class='scene-font-katari'>并排站在了莫莫面前。</span>
+15,モモ,ガウ？,嘎呜？
+16,ベッポ,――――！,――――！
+17,フージーとニコラ,――！　――！,――！　――！
+18,ジジ,――――,――――
+19,フェリ/菲莉,ふふっ……<br>そうか……良かったな、モモ。<br>お前、頑張ったもんな。,呵呵……<br>这样啊……太好了，莫莫。<br>你也，努力了啊。
+20,ルリア/露莉亚,幽霊さん達、<br>何て言ったんですか？,幽灵们，<br>在说什么啊？
+21,フェリ/菲莉,ふふ……<br>ベッポ達はいま、モモに、<br>ありがとう、と言ったんだ……,呵呵……<br>贝波他们现在，在和莫莫说<br>谢谢……
+22,フェリ/菲莉,ま……とはいえまだぎこちないし、<br>照れ隠しも入ってたけどな。,嗯……不过还是有点尴尬啊，<br>你看还有点扭扭捏捏。
+23,フージーとニコラ,――！！　――！！,――！！　――！！
+24,フェリ/菲莉,うわわっ！<br>わかった！　わかった！<br>もうからかったりしないって！,呜哇哇哇！<br>知道了！　知道了！<br>不要在捉弄我了！
+25,モモ,ガウッ！,嘎呜！
+26,ルリア/露莉亚,ふふ……<br>フェリちゃん、楽しそうですね。,呵呵……<br>菲莉ちゃん，看起来很开心的样子。
+27,ビィ/碧,ああ……<br>フェリだけじゃなくって、<br>周りの奴らもな！,是啊……<br>不只是菲莉，<br>周围的家伙们也一样啊！
+28,,<span class='scene-font-katari'>幽霊達の言葉は、</span><br><span class='scene-font-katari'>フェリ以外には、</span><br><span class='scene-font-katari'>決して伝わることはない。</span>,<span class='scene-font-katari'>幽灵们的语言，</span><br><span class='scene-font-katari'>绝不会传达给菲莉</span><br><span class='scene-font-katari'>以外的人。</span>
+29,,<span class='scene-font-katari'>しかし、彼らから伝わる和やかな空気は、</span><br><span class='scene-font-katari'>自然と姬塔達の頬を</span><br><span class='scene-font-katari'>緩ませるのだった。</span>,<span class='scene-font-katari'>但是，他们传达出的温和的气氛</span><br><span class='scene-font-katari'>自然地</span><br><span class='scene-font-katari'>缓和了一行人的脸庞。</span>
+info,,麻友桑的话筒,scene_chr242_q3_s20

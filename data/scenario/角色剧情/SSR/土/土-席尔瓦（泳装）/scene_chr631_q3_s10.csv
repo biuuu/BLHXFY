@@ -1,0 +1,113 @@
+id,name,text,trans
+0-chapter_name,,みんな一緒の夏季休暇,大家一起度过的夏季休假
+0-synopsis,,シルヴァが起きた後、シルヴァを気遣った一行はマッサージ屋に入ることに。お香やオイルの香りで一行は眠ってしまうが、そこはマフィア達の息がかかった店だった。シルヴァ達が攫われかけたその時、姬塔達を見守っていたダンが現れ、騒ぎに姬塔達は目を覚ます。女子供と見て油断した相手に姬塔が一撃を見舞い、マッサージ屋とその関係者はお縄につくのだった。,席尔瓦醒过来后，一行人担心她，最后决定去按摩店。在熏香及香油的影响下一行人睡着，然而这家店跟黑手党有关联。就在席尔瓦等人即将被绑架的时候，一直在旁看守着的丹出现，引发骚动叫醒了姬塔等人。姬塔一击击沉了因为一行人都是女孩子而疏忽大意的敌人，逮捕了按摩店店员和其相关人员。
+1,クムユ/库姆优,ごちそうさまでした～！,我吃饱了~！
+2,,<span class='scene-font-katari'>シルヴァが目覚めるのを待って、</span><br><span class='scene-font-katari'>姬塔達は昼ご飯を食べに</span><br><span class='scene-font-katari'>屋台村へと足を伸ばしていた。</span>,<span class='scene-font-katari'>等席尔瓦醒来后，</span><br><span class='scene-font-katari'>姬塔等人为了吃午饭前往货摊村。</span>
+3,シルヴァ/席尔瓦,すまない、みんな。<br>私が寝入ってしまったせいで<br>昼食が遅くなってしまった。,抱歉，大家。<br>因为我睡着了拖晚了大家吃午饭的时间。
+4,ククル/库库鲁,も～、シルヴァ姉ったら！<br>そんなこと気にしなくて<br>いいんだってば。,席尔瓦姐真是的~！<br>都说了不用在意这种事了啦。
+4-sel1_txt,,<span class='scene-font-katari'>寝顔見られて得した！</span>,<span class='scene-font-katari'>看到你的睡容赚了！</span>
+4-sel2_txt,,<span class='scene-font-katari'>空腹は最高のスパイスだよ！</span>,<span class='scene-font-katari'>空腹是最好的调味品！</span>
+6,シルヴァ/席尔瓦,なっ……！,什……！
+7,ソーン/索恩,ふふ、可愛かったね、<br>姬塔。,呵呵，很可爱，<br>对吧姬塔。
+8,シルヴァ/席尔瓦,う、うぅ……<br>からかいのネタを自分から<br>提供してしまった……,呜、呜……<br>居然自己给她们提供了捉弄自己的机会……
+9,,<span class='scene-font-katari'>ソーンに頷く姬塔を前に、</span><br><span class='scene-font-katari'>頬を赤くしたシルヴァは頭を抱える。</span>,<span class='scene-font-katari'>面对同意索恩意见的姬塔，</span><br><span class='scene-font-katari'>席尔瓦红着脸抱住头。</span>
+11,ククル/库库鲁,そうそう！<br>お昼の時間少し過ぎてたから<br>並ばずに済んだし……,没错没错！<br>因为过了午饭时间所以不用排队……
+12,ククル/库库鲁,昨日の夜たくさん食べちゃったから、<br>このくらい時間空けた方が<br>美味しく食べられて良かったよ～,昨天晚上吃了很多，<br>所以空开这点时间正好可以更美味的享受午饭~
+13,ルリア/露莉亚,海鮮焼きそば美味しかったです！<br>あ、あとクムユちゃんと分けっこした<br>ポム焼きも！,烤海鲜很好吃！<br>啊，还有跟库姆优酱分着吃的烤面包也很好吃！
+14,シルヴァ/席尔瓦,そうかい……？<br>なら、良かったけれど……,是吗……？<br>那就好……
+15,ビィ/碧,そういや、今日の午後は<br>何するか決めてねぇよな。<br>どうする？,说起来，<br>今天下午去做什么还没决定好吧。<br>要做什么？
+16,ククル/库库鲁,うーん、やっぱり今日は<br>ゆっくりと……,嗯……<br>今天还是悠闲地……
+17,,<span class='scene-font-katari'>考え込んだククルの耳に、</span><br><span class='scene-font-katari'>屋台村の呼び込みの声が</span><br><span class='scene-font-katari'>飛び込んでくる。</span>,<span class='scene-font-katari'>库库鲁正在思考时，</span><br><span class='scene-font-katari'>耳边传来了货摊村的叫卖声。</span>
+18,マッサージ屋の店員,マッサージいかがですか～？<br>日頃の疲れも遊び疲れも、<br>魔法の手ですっきりさせちゃいますよ～,要不要来试试按摩~？<br>不管是日常的疲劳还是游玩的疲劳，<br>都可以用魔法之手全部清光哦~
+19,ククル/库库鲁,……いいかも！<br>ねぇねぇビィ、<br>マッサージってのはどう？,……听起来不错！<br>喂喂碧，<br>去试试按摩怎么样？
+20,ビィ/碧,マッサージ？　でもオイラ……,按摩？<br>但是我……
+21,,<span class='scene-font-katari'>きょとんとしたビィは、</span><br><span class='scene-font-katari'>姬塔の目配せで</span><br><span class='scene-font-katari'>浜辺での会話を思い出す。</span>,<span class='scene-font-katari'>碧有些发愣，</span><br><span class='scene-font-katari'>但随后看到姬塔的眼神暗示</span><br><span class='scene-font-katari'>想起了之前在海边的对话。</span>
+22,ビィ/碧,あっ！　そっか。<br>そうだな、いいかもしれねぇな！,啊！是啊。<br>对，这或许很不错！
+23,ククル/库库鲁,シルヴァ姉も、どう？<br>疲れをドーンと落として、<br>残りのお休み楽しく過ごそうよ！,席尔瓦姐也去试试看？<br>把疲劳都祛除，<br>好好享受剩下的假期吧！
+24,シルヴァ/席尔瓦,そうだな、気持ち良さそうだ。<br>私も一緒に行くよ。,是啊，看起来很舒服。<br>我也一起去。
+25,ククル/库库鲁,そう来なくっちゃ！<br>そんじゃクム坊、お店がどこにあるか<br>あの人に聞きに行こー！,就该这样！<br>那么小库姆，<br>我们去问问那个人店在哪吧！
+26,クムユ/库姆优,合点です！,了解！
+27,,<span class='scene-font-katari'>ククル達が質問しに行く間に、</span><br><span class='scene-font-katari'>姬塔達が食器を片付けるのを</span><br><span class='scene-font-katari'>少し離れた場所でダンが見守っていた。</span>,<span class='scene-font-katari'>库库鲁2人去问店的地方的时候，</span><br><span class='scene-font-katari'>丹在稍微离开一点的地方</span><br><span class='scene-font-katari'>观察着姬塔等人收拾餐具。</span>
+28,ダン伯父さん/丹舅舅,<span class='scene-font-kokoro'>（お、飯は済んだのか。</span><br><span class='scene-font-kokoro'>どっか行くみたいだな……）</span>,<span class='scene-font-kokoro'>（噢，饭吃完了啊。好像要去哪……）</span>
+29,ダン伯父さん/丹舅舅,<span class='scene-font-kokoro'>（ううん、人が多いもんだから</span><br><span class='scene-font-kokoro'>隠れるにはいいけど</span><br><span class='scene-font-kokoro'>見失わないようにしねぇと……）</span>,<span class='scene-font-kokoro'>（嗯……人很多容易藏是很好，</span><br><span class='scene-font-kokoro'>不过得注意不要跟丢她们……）</span>
+30,マッサージ屋の店員の声,これはありがとうございます！<br>皆さん、お店までご案内しますね！,谢谢惠顾！<br>我带各位去店里！
+31,ククルの声/库库鲁的声音,はーい！<br>よろしくお願いしまーす！,好的！<br>拜托你了！
+35,,<span class='scene-font-katari'>店員の案内でマッサージ屋へ向かう</span><br><span class='scene-font-katari'>姬塔一行を、</span><br><span class='scene-font-katari'>こっそりと追いかけるダンだったが……</span>,<span class='scene-font-katari'>姬塔一行人在店员带领下前往按摩店，</span><br><span class='scene-font-katari'>丹在后面悄悄跟着……</span>
+36,ダン伯父さん/丹舅舅,<span class='scene-font-kokoro'>（えーっと、今この角を曲がって……）</span>,<span class='scene-font-kokoro'>（嗯，刚才她们在那个转角拐弯……）</span>
+37,ダン伯父さん/丹舅舅,あれ？　もう次の角を<br>曲がっちまったのか……！？<br>ど、どこだ……！？,咦？<br>已经拐到下一个街角了吗……！？<br>哪、哪去了……！？
+43,,<span class='scene-font-katari'>一行を見失い、焦るダンを知らず</span><br><span class='scene-font-katari'>姬塔達はそれぞれ</span><br><span class='scene-font-katari'>マッサージ屋の個室に案内された。</span>,<span class='scene-font-katari'>丹跟丢了众人非常焦急，</span><br><span class='scene-font-katari'>然而姬塔等人不知道这个情况，</span><br><span class='scene-font-katari'>被带进了按摩店的个人间。</span>
+44,マッサージ屋の店員,水着のお客様はそのまま<br>マッサージを受けていただけますので、<br>お荷物だけ籠に入れてくださいね。,穿泳装的客人可以直接接受按摩，<br>请把行李放入篮中。
+45,シルヴァ/席尔瓦,わかりました。<br>……何か、甘い香りがしますね。,知道了。<br>……好像有股很甜的香味。
+46,マッサージ屋の店員,ふふ、リラックスしていただくために<br>お香を焚いているんです。,呵呵，<br>为了让客人放松我们点了熏香。
+47,マッサージ屋の店員,これから使うアロマオイルと合わせると<br>眠ってしまうお客様も<br>いらっしゃるくらいなんですよ。,配合接下来使用的香油，<br>甚至有些客人会直接睡着。
+48,シルヴァ/席尔瓦,う……それは、<br>私も眠ってしまうかもしれないな……,唔……也就是说，<br>我可能也会睡着吧……
+49,マッサージ屋の店員,眠っていただいて大丈夫ですよ！<br>体から力が抜けていた方が、<br>マッサージも良く効くんです。,睡着也完全没关系！<br>全身放松按摩的效果会更好。
+50,シルヴァ/席尔瓦,そうなんですか？,是这样吗？
+51,マッサージ屋の店員,そうなんですよ～！<br>それでは、施術台へ<br>横になってください。,就是这样啊~！<br>那么，请躺倒床上。
+52,シルヴァ/席尔瓦,はい。よろしくお願いします。,好的。麻烦你了。
+58,,<span class='scene-font-katari'>店員と入れ違いにやって来た</span><br><span class='scene-font-katari'>マッサージ師は</span><br><span class='scene-font-katari'>シルヴァに心地良い按摩をもたらす。</span>,<span class='scene-font-katari'>按摩师和店员一进一出，</span><br><span class='scene-font-katari'>进入房间后给席尔瓦带来了舒适的按摩。</span>
+59,シルヴァ/席尔瓦,んっ……,嗯……
+60,シルヴァ/席尔瓦,<span class='scene-font-kokoro'>（少し、痛いけれど……</span><br><span class='scene-font-kokoro'>それが気持ちいいな……）</span>,<span class='scene-font-kokoro'>（虽然有点痛……不过好舒服啊……）</span>
+61,シルヴァ/席尔瓦,ふぅ……,呼……
+62,シルヴァ/席尔瓦,んん……<br>あっ……！　そこ……！,嗯嗯……<br>啊……！那里！
+63,シルヴァ/席尔瓦,<span class='scene-font-kokoro'>（コリがほぐれていくのが解る……</span><br><span class='scene-font-kokoro'>いい香りもして、ああ、本当に……）</span>,<span class='scene-font-kokoro'>（可以感觉到酸痛都消失了……</span><br><span class='scene-font-kokoro'>还有这么好的香味，啊，真的会……）</span>
+64,シルヴァ/席尔瓦,<span class='scene-font-kokoro'>（寝て、しまう……）</span>,<span class='scene-font-kokoro'>（睡，着……）</span>
+65,シルヴァ/席尔瓦,…………,…………
+72,柄の悪い男,おい、調子はどうだ。,喂，情况怎么样。
+73,マッサージ屋の店員,やだ、表から入ってこないで下さいよ！,哎呀，你别从正门进来啊！
+74,柄の悪い男,カタいこと言うな。<br>で、どうなんだよ？,别那么顽固嘛。<br>那么，情况怎么样？
+75,マッサージ屋の店員,上玉のお客さんが今入ってますよ。<br>若くて綺麗な……,现在来了几个上等货的客人。<br>又年轻又漂亮……
+76,柄の悪い男,そりゃ何よりだ。<br>眠った奴から運んで行くから、<br>下手打つなよ？,那可真是太好了。<br>从睡着的开始搬，<br>你可别搞事哦？
+77,マッサージ屋の店員,わかってますよ、ご心配なく。<br>お兄さん達の方こそ<br>尻尾出さないでくださいよ。,我知道，不用担心。<br>小哥你们才是别露出马脚。
+78,柄の悪い男,へっ、わかってる……とは言えねぇか。<br>ンナギの時は<br>俺らの上が下手こいたからな。,哼，我知道……不过也没法这么说。<br>毕竟之前鳗鱼的时候我们的上级搞砸了。
+79,マッサージ屋の店員,おかげで<span class='scene-font-place'>アウギュステ</span>では<br>商売やりづらくなっちゃって……,托他们的福，<br>在<span class='scene-font-place'>奥古斯提</span>做生意都变难了……
+80,柄の悪い男,まあ、お前らのおかげで<br>商工会にも嫌がらせができるんだ。<br>感謝しといてやるよ。,不过，托你们的福还能让商工会不愉快。<br>我还是挺感谢你们的。
+82,ダン伯父さん/丹舅舅,あの～……,那个~……
+83,マッサージ屋の店員,あら！　いらっしゃいませ～<br>すみません、今個室が埋まってしまって<br>ご案内できないんですよ～,哎呀！欢迎光临~<br>不好意思，现在个人间全都客满了，<br>无法带客人进去~
+84,マッサージ屋の店員,<span class='scene-font-kokoro'>（それに、こんなおじさんじゃあ</span><br><span class='scene-font-kokoro'>さらっても売り込む先がないしね。</span><br><span class='scene-font-kokoro'>力仕事も頼りにならなそうだし……）</span>,<span class='scene-font-kokoro'>（而且绑架这种大叔也没地方卖，</span><br><span class='scene-font-kokoro'>看上去也不像能做体力活的……）</span>
+85,ダン伯父さん/丹舅舅,あ、ええと、だったら<br>ここで待たせてもらってもいいかい？,啊，那么，<br>我能在这里等吗？
+86,マッサージ屋の店員,う～ん、すみません。<br>ちょっとそれは……,嗯~抱歉。<br>这有点不太方便……
+87,ダン伯父さん/丹舅舅,そこをなんとか……<br>さっき青くて長い髪の子達が来たろ？<br>あの子達の知り合いなんだ。,拜托你通融一下……<br>刚才有蓝色长发的孩子们来这里吧？<br>我是她们的熟人。
+88,ダン伯父さん/丹舅舅,<span class='scene-font-kokoro'>（せっかく店の場所を探し当てたのに</span><br><span class='scene-font-kokoro'>また見失っちまったら困るし……）</span>,<span class='scene-font-kokoro'>（好不容易找到的店的位置，</span><br><span class='scene-font-kokoro'>再跟丢就麻烦了……）</span>
+89,柄の悪い男,あのなぁ、ダメっつってんだろ？<br>大人しく帰ればいいんだよおっさん。<br>それとも……,喂，都说了不行吧？<br>乖乖的回去啊大叔。<br>还是说……
+90,ダン伯父さん/丹舅舅,ひっ！？,噫！？
+91,,<span class='scene-font-katari'>柄の悪い男はダンに近づくと、</span><br><span class='scene-font-katari'>手首を掴み腕をひねる。</span>,<span class='scene-font-katari'>人品不好的男人靠近丹，</span><br><span class='scene-font-katari'>抓住他的手腕扭过来。</span>
+92,ダン伯父さん/丹舅舅,あいてててっ！？,好痛痛痛！？
+93,柄の悪い男,もっと痛い目見たいか？<br>アァン？,你想再多尝点苦头？<br>啊？
+94,ダン伯父さん/丹舅舅,ひぇえええっ……！！,呀啊啊啊啊……！！
+98,シルヴァ/席尔瓦,…………,…………
+99,ダン伯父さんの声/丹舅舅的声音,あいてててっ！？,好痛痛痛！？
+100,シルヴァ/席尔瓦,────ッ！？,——！？
+102,シルヴァ/席尔瓦,今の声……ダン伯父さん！？,刚才的声音是……丹舅舅！？
+107,マッサージ屋の店員,<span class='scene-font-4'>あっ！？　お客さん！？</span>,<span class='scene-font-4'>啊！？客人！？</span>
+108,シルヴァ/席尔瓦,<span class='scene-font-4'>貴様！</span><br><span class='scene-font-4'>何をしている！！</span>,<span class='scene-font-4'>你这家伙！在做什么！！</span>
+109,柄の悪い男,チッ……,啧……
+110,,<span class='scene-font-katari'>シルヴァの怒鳴り声に、</span><br><span class='scene-font-katari'>ダンを捕まえていた男は</span><br><span class='scene-font-katari'>その手を放す。</span>,<span class='scene-font-katari'>听到席尔瓦的怒吼，</span><br><span class='scene-font-katari'>抓住了丹的男人放开手。</span>
+111,ダン伯父さん/丹舅舅,いてて……,好痛痛……
+112,シルヴァ/席尔瓦,ダン伯父さん、大丈夫ですか！？,丹舅舅，你没事吧！？
+113,ダン伯父さん/丹舅舅,お、おう！<br>あんまり怒らねぇでやってくれ、<br>しつこく頼んだおじさんが……,哦，喔！<br>你不要对他们生气，<br>是大叔我烦他们……
+114,柄の悪い男,へぇ、マジで上玉だな。<br>……おい、裏から野郎共呼んできな！<br>こいつを逃す手はねぇ。,哦~还真是上等货。<br>……喂，把后门的小子们叫过来！<br>不能让她逃走。
+115,シルヴァ/席尔瓦,…………！,……！
+116,シルヴァ/席尔瓦,お前達、なんのつもりだ？,你们要做什么？
+117,柄の悪い男,お姉ちゃんが知る必要はねぇよ。<br>すーぐいいところに連れてってやる。<br>……おい、早くしな！,大姐你不必知道。<br>我们马上就带你去个好地方。<br>……喂，快点！
+118,マッサージ屋の店員,はいはい、店を壊さないように<br>気をつけてくださいよ。,好的好的，<br>小心别把店搞坏啊。
+119,ソーン/索恩,了解。店の原型を残すよう努める。<br>ただし結果の保証は無い。了承を。,了解，会尽力留下店铺原型。<br>但是不保证结果，请知悉。
+120,マッサージ屋の店員,へ？,呃？
+121,ソーン/索恩,店を壊すなと言うべき相手が<br>違うのでは？,让人不要破坏店面，<br>你搞错了说话的对象了吧？
+122,,<span class='scene-font-katari'>店員が振り向いた先には、</span><br><span class='scene-font-katari'>ダンの悲鳴で目を覚ました</span><br><span class='scene-font-katari'>姬塔達が勢ぞろいしていた。</span>,<span class='scene-font-katari'>店员回头看到的就是，</span><br><span class='scene-font-katari'>姬塔等人因为丹的悲鸣纷纷醒来，</span><br><span class='scene-font-katari'>聚集到这里。</span>
+123,クムユ/库姆优,ダン伯父ちゃんに<br>何しやがったんでぇ！<br>このずんぐり大根～っ！,你对丹舅舅做什么！<br>你这个矮胖大萝卜！
+124,ビィ/碧,そうだそうだ！　オイラにも<br>マッサージしてくれるってんで<br>いい店だと思ってたのによぉ！,就是就是，<br>连我也给按摩我还以为你们是个好店，<br>没想到！
+125,柄の悪い男,へっ……眠ったままなら<br>最後にいい夢見れたのによ！<br>可哀想になぁ！,哼……睡着的话到最后都能有个好梦！<br>真是可怜啊！
+126,柄の悪い男,女子供がイキがったって、<br>どうしようも──,女人孩子在那里哇哇乱叫，<br>也没什么——
+129,,<span class='scene-font-katari'>下卑た笑いを浮かべる男に</span><br><span class='scene-font-katari'>姬塔は無言で近づき、</span><br><span class='scene-font-katari'>力を込めた拳を放つ。</span>,<span class='scene-font-katari'>姬塔无言地靠近笑得卑劣的男人，</span><br><span class='scene-font-katari'>集中力量给了他一拳。</span>
+130,柄の悪い男,げはっ……！？,唔哈……！？
+132,マッサージ屋の店員,えっ……ええっ！？,欸……欸欸！？
+133,柄の悪い男,ぐえぇ……,唔欸……
+134,ククル/库库鲁,さっすが姬塔！<br>一撃だぁ！,不愧是姬塔！<br>一击必杀！
+135,ダン伯父さん/丹舅舅,相変わらず強ぇなぁ、<br>姬塔……,姬塔还是那么强啊……
+136,ソーン/索恩,この店の関係者、<br>汚い素性をしていそうね。<br>隅々まで洗った方がいいかな。,这家店的相关人员，<br>看来不干净。<br>有必要好好调查一下。
+137,シルヴァ/席尔瓦,ああ。……まずは、<br>裏に居る仲間とやらのところへ<br>案内してもらうとしよう。,是啊……首先，<br>就先麻烦她带我们到后门的伙伴那里去吧。
+138,シルヴァ/席尔瓦,……いいな？,……懂？
+139,マッサージ屋の店員,ひぃっ……<br>は、はいぃ～……！,呀……<br>好、好的~……！
+info,,,scene_chr631_q3_s10
+译者,,,

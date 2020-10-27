@@ -1,0 +1,41 @@
+id,name,text,trans
+0-chapter_name,,誘いの手、振り払いて,诱惑之手，拒而推开
+0-synopsis,,幽世の存在に騙されたジャンヌダルクは、心に深い傷を負ってしまう。ジャンヌダルクは夢の中で自分が救えなかった村での出来事を再び体験する。ジャンヌダルクとオルレアンの仲間達は、圧政に苦しむ村を救おうとしていた。怪しい人影を見たという部下の報告を受け、ジャンヌダルクは領主が差し向けた手下を撃退しようとする。,被幽世的存在欺骗的贞德留下了巨大的心理创伤。在梦中，她再次想起了自己没能拯救的村子中发生的事情。贞德与奥尔良的同伴们欲拯救被苛政压迫的村庄。从部下那接到发现了可疑人影的报告，贞德前去击退领主派来的手下。
+0,,<span class='scene-font-katari'>オルレアンの仲間達から連絡を受け、</span><br><span class='scene-font-katari'>共に領主に苦しめられる小さな村を</span><br><span class='scene-font-katari'>救う為騎空団を離れたジャンヌダルク。</span>,<span class='scene-font-katari'>贞德从奥尔良的同伴那获知消息，</span><br><span class='scene-font-katari'>为拯救被领主苛待的小村庄离开了骑士团。</span>
+1,,<span class='scene-font-katari'>姬塔達は約束の日に</span><br><span class='scene-font-katari'>彼女を迎えに村へ向かったが、</span><br><span class='scene-font-katari'>村は灰燼に帰していた。</span>,<span class='scene-font-katari'>姬塔等人在约定好的日子前往村庄迎接她，</span><br><span class='scene-font-katari'>却发现村子已经化为一片灰烬。</span>
+2,,<span class='scene-font-katari'>村を救えという啓示を受けていた</span><br><span class='scene-font-katari'>ジャンヌダルクは自らの無力に</span><br><span class='scene-font-katari'>打ちひしがれる。</span>,<span class='scene-font-katari'>明明接受了“拯救村庄”的启示却无法拯救，</span><br><span class='scene-font-katari'>贞德几乎被无力感击溃。</span>,
+3,,<span class='scene-font-katari'>心折れかけた彼女は新たなる啓示を受け</span><br><span class='scene-font-katari'>世界の平和のため</span><br><span class='scene-font-katari'>ビィとルリアの命を狙った。</span>,<span class='scene-font-katari'>心灵几近被摧毁的贞德又接到了新的启示，</span><br><span class='scene-font-katari'>世界の平和のため</span><br><span class='scene-font-katari'>为了世界的和平，她准备夺去碧和露莉亚的性命。</span>
+4,,<span class='scene-font-katari'>しかし、全ては空の世界侵略を狙う</span><br><span class='scene-font-katari'>幽世の存在の</span><br><span class='scene-font-katari'>策謀だったことが判明する。 </span>,<span class='scene-font-katari'>然而，最终发现这一切都是幽世的存在为了侵略空之世界的阴谋。</span>
+5,,<span class='scene-font-katari'>騙されていたことを知り、</span><br><span class='scene-font-katari'>ジャンヌダルクは姬塔達と</span><br><span class='scene-font-katari'>幽世の存在を打ち払ったのだが……</span>,<span class='scene-font-katari'>得知被欺骗后，</span><br><span class='scene-font-katari'>贞德与姬塔等人合力击退了幽世的存在……</span>
+13,ルリア/露莉亚,…………,……
+14,ビィ/碧,あ、ルリア……<br>ジャンヌ眠ったかぁ？,啊，露莉亚……<br>贞德睡下了吗？
+15,ルリア/露莉亚,はい……<br>よく眠れるといいんですけど……,嗯……<br>希望她能睡个好觉……
+16,ルリア/露莉亚,ジャンヌさんここのところずっと<br>顔色も悪いし……<br>……心配です……,贞德最近脸色一直很差……<br>……真担心啊……
+17,ビィ/碧,くそぉ、あのニョロニョロ野郎……！ <br>ジャンヌを利用してオイラとルリアの<br>力を奪おうとするなんてよぉ！,可恶，那个绕来绕去的混蛋……！<br>居然想利用贞德夺走我和露莉亚的力量！
+18,ビィ/碧,卑怯なことしてねぇで、<br>来るなら直接来いってんだ！,有本事就别干这种卑鄙的事情，<br>直接冲着我们来啊！
+19,ルリア/露莉亚,ただでさえ、<br>村を助けられなかったって<br>とっても傷ついてたのに……,贞德本来就已经因为没能拯救村子的人们遍体鳞伤了……
+20,ビィ/碧,それだってニョロニョロ野郎の<br>手引きだったんだろ！<br>ひとを弄びやがって許せねぇぜ！,那不也是绕来绕去的混蛋干的好事吗！<br>玩弄人心，绝不原谅它！
+21,ルリア/露莉亚,？<br>なんですか、姬塔？,？<br>怎么了，姬塔？
+22,ルリア/露莉亚,……そうですね……<br>まずは幽世の存在よりも、<br>ジャンヌさんですよね……,……是啊……<br>比起幽世的存在，现在更重要的是贞德的事……
+23,ルリア/露莉亚,私達がなにかジャンヌさんに<br>してあげられることって<br>ないんでしょうか……,我们能不能为贞德做些什么呢……
+24,ビィ/碧,だよなあ……<br>なんか、元気にしてやる方法が<br>ありゃいいんだけど……,是啊……<br>要是有能让她振作起来的方法就好了……
+25,,<span class='scene-font-katari'>姬塔、ルリア、ビィは</span><br><span class='scene-font-katari'>深刻に話し合うも、</span><br><span class='scene-font-katari'>良い結論はなかなか出ない。</span>,<span class='scene-font-katari'>姬塔、露莉亚和碧认真地商量了很久，也没想出什么好办法。</span>
+28,,<span class='scene-font-katari'>一方その頃、ジャンヌダルクは</span><br><span class='scene-font-katari'>ルリアに促されたとおり</span><br><span class='scene-font-katari'>先に寝室で横になっていた。</span>,<span class='scene-font-katari'>此刻另一边，贞德遵照露莉亚的话先在寝室中睡下了。</span>
+29,ジャンヌダルク/贞德,……うう……<br>………っ……,……唔……<br>………嗯……，
+35,ジャンヌダルク/贞德,<span class='scene-font-kokoro'>（小さくとも人々が助け合い、</span><br><span class='scene-font-kokoro'>穏やかに暮らしていけるはずの</span><br><span class='scene-font-kokoro'>この村に……今、笑顔はない……）</span>,<span class='scene-font-kokoro'>（这个原本村民互帮互助、过着安稳生活的小村庄……</span><br><span class='scene-font-kokoro'>如今，却看不到笑容……）</span>
+36,ジャンヌダルク/贞德,<span class='scene-font-kokoro'>（村の人々は皆、</span><br><span class='scene-font-kokoro'>領主の圧政と私兵に</span><br><span class='scene-font-kokoro'>苦しめられ、怯えている）</span>,<span class='scene-font-kokoro'>（村民们都因领主的苛政和私兵而痛苦、畏惧着）</span>
+37,ジャンヌダルク/贞德,<span class='scene-font-kokoro'>（彼等に安寧を取り戻すため</span><br><span class='scene-font-kokoro'>尽力せねば……！）</span>,<span class='scene-font-kokoro'>为了取回属于他们的安宁生活，我必须要竭尽全力……！）</span>
+40,オルレアンの兵士,ジャンヌダルク様！<br>周囲を警戒にあたっていた者が、<br>村の周辺で怪しい人影を見たと！,贞德大人！<br>负责周边警戒的人报告，在村庄周围发现了可疑的人影！
+41,ジャンヌダルク/贞德,人影……領主の私兵の斥候か……？<br>解った、私が見に行ってくる。,人影……是领主的私兵的斥候吗……？<br>知道了，我去看一下。
+42,オルレアンの兵士,了解しました！<br>我々は引き続き、<br>村の警護にあたります。,明白！<br>我等继续护卫村子！
+43,ジャンヌダルク/贞德,ご苦労。<br>では行ってくる！,辛苦了。<br>那我走了！
+46,,…………,……
+48,ジャンヌダルク/贞德,<span class='scene-font-kokoro'>（……いた！</span><br><span class='scene-font-kokoro'>私兵とは違うようだが……</span><br><span class='scene-font-kokoro'>おそらく、領主が雇った者達だな）</span>,<span class='scene-font-kokoro'>（……在那！</span><br><span class='scene-font-kokoro'>看来好像不是私兵……</span><br><span class='scene-font-kokoro'>大概是领主雇佣的人们吧）</span>
+49,ジャンヌダルク/贞德,そこの者達！　止まれ！！,那边的人！站住！！
+50,雇われた荒くれ者,あぁん？<br>なんだぁアンタ。,嗯？<br>你谁啊。
+51,ジャンヌダルク/贞德,私はこの先の村を、<br>領主の圧政から救うために来た。,<br>我是为拯救被领主苛待的前面的村子而来。
+52,ジャンヌダルク/贞德,お前達は領主に雇われた者達だな？<br>今すぐ引き返せ。<br>でなくば、痛い目を見ることになるぞ。,你们就是被领主雇佣的人们吧？<br>即刻返回，否则我就不客气了。
+54,雇われた荒くれ者,へっ、女ひとりで生意気言いやがって！<br>引き返した方がいいのは<br>アンタの方だぜ！,哈哈，一个女人也敢口出狂言！<br>该回去的人是你才对！
+55,ジャンヌダルク/贞德,聞く耳持たずか……<br>仕方あるまい！,不听劝告吗……<br>没办法了！
+info,,,scene_ult_chr114_ep1_q1_s10
+译者,,,蘑菇
