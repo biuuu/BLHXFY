@@ -1,0 +1,25 @@
+id,name,text,trans
+0-chapter_name,,赤い石に笑む,向红石微笑
+0-synopsis,,姬塔達が戦う戦場を見下ろすフラウは、首元の赤い石に触れ、見えぬ何者かと会話するようなそぶりを見せる。いつもの明るい調子で「だいたい予想通りの戦況」だと語るフラウはふと、どこか遠くを想うように「どこまでも純粋で不思議な子……少しだけ似てるのかも」と呟くのだった。,芙拉乌在高台俯瞰姬塔一行战斗的战场，摸着胸前的红石像在对看不见的某人说话。她以平时轻快的语调说道「战况和预想的一样」，随后又遥想着什么自言自语「姬塔真是个纯粹的，不可思议的孩子……这么看有点像呢」。
+1,,<span class='scene-font-katari'>フラウは、戦場を見下ろす</span><br><span class='scene-font-katari'>高台に一人佇んでいる。</span>,<span class='scene-font-katari'>芙拉乌独自伫立于高台俯瞰战场。</span>
+2,フラウ,ほら見て。<br>だいたい予想通りの戦況に<br>なってきたんじゃない？,看吧。<br>战况和我预想的一样。
+4,,<span class='scene-font-katari'>彼女の言葉に呼応するように、</span><br><span class='scene-font-katari'>首元の赤い石がほんのりと光る。</span>,<span class='scene-font-katari'>她胸前的红石以微弱的闪光回应。</span>
+5,フラウ,ふふふっ！<br>あの子達は、今回もすごく<br>いい働きをしてくれてるみたい。,呵呵呵！<br>这一次他们也做得很好呢。
+6,フラウ,あの子達を使うことにして<br>本当に正解だったな。,利用他们，的确是个正确的判断。
+7,フラウ,あ、そうだ。<br>そっちの調子はどうなの？,啊，对了。<br>你那边怎么样？
+9,フラウ,……へえ、じゃあ<br>もう暫くかかるんだ。,……这样，那还要等一段时间吧。
+10,,<span class='scene-font-katari'>目に見えぬ何者かと対話するような</span><br><span class='scene-font-katari'>フラウ一人分の声が、</span><br><span class='scene-font-katari'>妙に明るい調子で響く。</span>,<span class='scene-font-katari'>她仿佛在和某个看不见的人说话，语调还是和平时一样轻快。</span>
+11,フラウ,あっ！　あの辺りで<br>あの子達が戦ってる。,啊！ 他们在那边战斗呢。
+12,,<span class='scene-font-katari'>フラウは、眼下の戦場の</span><br><span class='scene-font-katari'>一角に目をとめて声をあげた。</span>,<span class='scene-font-katari'>芙拉乌将视线停留在战场的一角，情不自禁地说道。</span>
+13,フラウ,それにしても……,话说回来……
+14,,<span class='scene-font-katari'>フラウは、首元の赤い石から</span><br><span class='scene-font-katari'>そっと指を離す。</span>,<span class='scene-font-katari'>芙拉乌放开了胸前的红石。</span>
+15,フラウ,姬塔……あの子が私に<br>向けてたのは、畏怖でも敵意でも<br>欲望でもない……,姬塔……那孩子对我没有畏惧没有敌意也没有欲望……
+16,フラウ,どこまでも純粋で、<br>不思議な子。<br>少しだけ、似てるのかも……,真是个纯粹的，不可思议的孩子。<br>有点像……
+17,フラウ,ふふっ……<br>さて、と！,呵呵……<br>那么接下来！
+18,,<span class='scene-font-katari'>笑って首を振ったフラウは、</span><br><span class='scene-font-katari'>また赤い石に触れる。</span>,<span class='scene-font-katari'>芙拉乌笑着摇摇头，再次触碰红石。</span>
+20,フラウ,うん。<br>今回はそろそろ終わりみたいね。,嗯。<br>看来这次也快要结束了。
+21,,<span class='scene-font-katari'>眼下の戦いは、</span><br><span class='scene-font-katari'>徐々に収束しつつあった。</span>,<span class='scene-font-katari'>眼下的战斗逐渐平息下来。</span>
+22,フラウ,なかなかに有意義な<br>データが得られたんじゃない？,我们得到了很有意义的数据，不是吗？
+23,フラウ,順調順調。<br>この調子で、次も<br>がんばってもらわないとね。,一切顺利。<br>下一次也要请他们努力啊。
+24,,<span class='scene-font-katari'>いつも通り明るく言った</span><br><span class='scene-font-katari'>フラウは、軽い足取りで</span><br><span class='scene-font-katari'>その場から立ち去って行った。</span>,<span class='scene-font-katari'>芙拉乌还是像平时一样爽朗地说道，随后踏着轻快的脚步离开了。</span>
+info,,,scene_chr486_ep3_s10
