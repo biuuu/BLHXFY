@@ -1,0 +1,30 @@
+id,name,text,trans
+0-chapter_name,,2: A Firey Acquaintance,第2话 火焰的因缘
+0-synopsis,,"Richard describes the inspiration for the festival to the crew, the fearsome Phoenix of legend. However, no living person has ever seen this mystical creature, and its very existence has become but superstition. Sturm and Drang watch insidiously as the crew takes out the escaped monsters.",理查德为一行人讲述节日的来源，传说中令人恐惧的菲尼克斯。然而，没有人活着见过这个谜一样的生物，甚至它的存在变成了迷信。一行人解决出逃的怪物的时候，斯特姆和德朗在一旁偷偷看着。
+5,Monster/魔物,Gwooan...,嗷~!
+10,Katalina/卡塔莉娜,Whew... That should be all of them.,呼...这应该就是全部了吧。
+11,Katalina/卡塔莉娜,"So, Richard, let's continue where we left off.",那么，理查德，继续之前没讲完的吧。
+12,Richard,Word has it that the Festival of Falling Flame was started by the islanders as an offering to appease the fearsome Phoenix.,我们讲到了阵焰祭的起源是岛民们为了安抚恐怖的菲尼克斯。
+13,Richard,"According to legend, the Phoenix has magnificent, multicolored wings and an imposing crest that resembles a royal crown.",根据传说来看，菲尼克斯有壮丽多彩的翅膀和雄伟的类似皇冠的鸟冠。
+14,Richard,"It is said that with a single beat of its wings, it can burn entire forests to ashes.",据说只要挥一下翅膀，就能把一整片森林烧成灰烬。
+15,Vyrn/碧,Whoa! And that thing comes to the island every year? That's crazy! How can anyone live with that?,哇！这样的东西还每年来一次这座岛？太恐怖了！那些人是怎么活下来的？
+16,Richard,Don't worry. No one alive has ever actually seen the beast. It's just a legend. Most people don't really believe it exists.,别担心。没有人活着见过那个巨兽。这只是一个传说。大部分人并不真的认为它是存在的。
+17,Richard,The festival isn't seen as an offering to the Phoenix anymore. It's just one big excuse for a celebration!,这个节日也不再是专门为了菲尼克斯。只是一个用来狂欢的借口。
+18,Lyria/露莉亚,It feels a bit sad just knowing that...,知道这一点还稍微有点可惜...
+19,,The crew muses over the long-lost origins of the Festival of Falling Flame.,一行人沉浸在消失已久的阵焰祭的起源中。
+20,,"But Richard is quick to break the quiet, somber mood.",但是理查德很快打破了寂静、阴郁的氛围。
+21,Richard,Excellent! Now I must visit the lovely Therese and inform her of my heroic deeds!,很好！我要去见我可爱的特蕾莎了，然后向她述说我的英雄事迹。
+22,Vyrn/碧,Seriously? You're gonna just waltz in and tell her you're a hero now?,认真的吗？你现在就要要大摇大摆地走进去然后告诉她你是个英雄？
+23,Lyria/露莉亚,Let's get going! I can't wait to see how happy Therese will be!,我们走吧！我迫不及待地想看到特蕾莎有多么高兴了！
+29,Sturm/斯特姆,Did you hear that? The Phoenix is just some kind of superstition...,你听到了吗？菲尼克斯只不过是个迷信罢了。
+30,Drang/德朗,"Well, if you consider that this <span class='scene-font-italic'>superstition</span> is interesting enough for him to bother remembering all that info, there's gotta be something more to it!",行吧，如果你认为这个<span class='scene-font-italic'>迷信</span>有趣到让他记住所有的信息，那么肯定不止这一点东西。
+32,Drang/德朗,"You know, releasing those fire monsters might not have been such a bad idea after all.",也许释放那些火系魔物并不是一个很坏的主意。
+33,Sturm/斯特姆,...,...
+35,Drang/德朗,"Hey, where are you going? Lemme guess: the festival? Always a fun time to be had there!",嘿，你要去哪？让我来猜猜：去庆祝节日？那里的时光总是很有趣！
+38,Drang/德朗,"Yeowch! Seriously, Sturm, you've gotta stop doing that. You should really see someone about this whole lashing out thing of yours.",哎呦！说正经的，斯特姆，你最好别再这么做了。你真的应该找人看看这动不动打人的习惯。
+39,Drang/德朗,"Sheesh, all I did was ask where you're going.",我只是问问你要去哪里而已。
+40,Sturm/斯特姆,To the Casino Liner.,去Liner赌场
+41,Drang/德朗,"Oh, I get it! Good thinking, Sturm!",行，我知道了！想法不错，斯特姆！
+42,,The dynamic duo put on a fearless smile as they make their way to the Casino Liner.,这富有活力的二人组动身前往Liner赌场，脸上挂着毫不担心的笑容。
+info,,,scene_evt131201_cp2_q4_s10
+译者,,,swhoro

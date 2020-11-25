@@ -1,0 +1,20 @@
+id,name,text,trans
+0-chapter_name,,2: A Firey Acquaintance,第2话 火焰的因缘
+0-synopsis,,"Upon hearing of the escaped monsters from the circus of horrors, Richard agrees to handle the problem in hopes that it will earn him favor with Therese. Either way, the crew decides the monsters cannot be left to roam free and follow behind the high-stakes gambler.",听到魔物从马戏团逃出得消息后，理查德决定帮忙解决这个问题，认为这样可以获得特蕾莎的芳心。不论怎样，骑空士认为不能放任魔物自由，于是跟在了不知危险的赌徒身后。
+2,Merchant,"Hey, you folks are skyfarers, right? I could really use a hand here!",嘿，你们是骑空士吧。我需要你们的帮忙！
+3,Merchant,Some monsters have escaped from our circus of horrors!,有一些魔物从我们的马戏团跑出来了！
+4,Vyrn/碧,What!,什么！
+5,Merchant,"We managed to get them out of town, but they're lurking around the main gate. Who knows when they might try and break back in.",我们成功把他们赶出了镇子，但是他们一直埋伏在主门外。鬼知道他们什么时候会突破大门。
+6,Merchant,"And while they're still there, people leaving town are in danger of being attacked.",只要他们一直在那里，出镇的人们就有可能被他们攻击。
+7,Merchant,"I can't believe I let this happen. I was sure I had locked their cages... ",不敢相信我让这一切发生了。我明明已经锁上笼子了。
+8,Merchant,"Please, will you help a guy out?",求你们了，你们能帮个忙吗？
+9,Richard,Aha! This is the perfect opportunity!,啊！这就是个很好的机会！
+10,Vyrn/碧,Huh? What do you mean?,啊？什么意思？
+11,Richard,"If she sees me selflessly helping others, earning the gratitude of the people, she's sure to fall for me! ",如果她看见我不顾自我地帮助他人，获得他人的感谢，她一定会爱上我！
+12,Richard,A perfect plan!,简直是个完美的计划
+13,Richard,"Outstanding! Let's hop to it, 姬塔!",太棒了！我们快走吧，姬塔！
+15,Vyrn/碧,"Hey, wait up!",嘿，等一下！
+16,Katalina/卡塔莉娜,"Well, in spite of his questionable motives, I suppose we can't just leave those monsters to roam free. Come on, let's go!",行吧，尽管他的动机有问题，我觉得我们不能让魔物随性乱走。走吧，我们也出发！
+17,,"Unable to contain their curiosity and excitement, 姬塔 and company run after Richard.",姬塔一行人无法遏制住自己的好奇与兴奋，跟在了理查德身后。
+info,,,scene_evt131201_cp2_q2_s10
+译者

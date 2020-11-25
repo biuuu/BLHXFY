@@ -1,0 +1,21 @@
+id,name,text,trans
+0-chapter_name,,2: A Firey Acquaintance,第2话 火焰的因缘
+0-synopsis,,姬塔 and company agree to help Richard become better acquainted with Therese in whatever way they can. Just then an ashen-faced merchant comes running to the crew.,姬塔一行人答应理查德，尽力帮助他结识特蕾莎。这时灰头土脸的商人奔向了这一队人。
+0,,"Mixing a bit of hesitation with absolute sincerity, Richard makes his request to the crew.",带着一丝犹豫和发自内心的真诚，理查德向一行人述说他的请求。
+1,Katalina/卡塔莉娜,So what did you want to ask of us?,那么，你想拜托我们什么事呢？
+2,Richard,"Ah, yes, of course. The truth of the matter is... Um... Well...",嗯，是这样的。我想拜托的是...嗯...
+3,Richard,"How shall I put this... I'd like you to help me, well... get closer to that lovely lady, Therese!",我应该怎样...希望你们能帮我...与那位可爱的小姐，特蕾莎，认识。
+4,Katalina/卡塔莉娜,What?,什么？
+5,Richard,I must confess—she stole my heart the moment I laid eyes on her. Without a doubt we were destined to meet this day.,我坦白了，就在我看到那位小姐的第一眼，我就被她俘获了。毫无疑问，那一天是我们命中注定的相遇。
+6,Lyria/露莉亚,"Ooh, this could get interesting! I think we should help him out, 姬塔!",哇，这一定很有趣！我觉得我们应该帮他，姬塔！
+6-sel1_txt,,"This one's for you, Lyria.",这是为了你，露莉亚。
+6-sel2_txt,,"Yeah, let's help!",行，让我们来帮他吧。
+7,Lyria/露莉亚,"Yay! ",好耶！
+8,Lyria/露莉亚,"There's nothing like a good love story, hee hee!",没有什么能比得上一段美好的爱情故事了，哈哈！
+9,Richard,You'll really help? Yes! I knew you would understand!,你们愿意帮忙？太好了！我就知道你们能够理解！
+10,Katalina/卡塔莉娜,"But even if we are going to help, what exactly can we do?",但是即便我们能帮你，我们到底要做些什么呢？
+11,Richard,A good question indeed. Hmm...,好问题。嗯...
+14,Merchant,"Hey, you folks are skyfarers, right? I could really use a hand here!",嘿，你们是骑空士吧。我这需要你们帮忙！
+15,,"As Richard hangs his head bashfully, an ashen-faced merchant comes running up to the crew.",理查德一脸害羞样低下了头，这时脸色苍白的商人跑向了这一行人。
+info,,,scene_evt131201_cp2_q1_s10
+译者,,,swhoro
