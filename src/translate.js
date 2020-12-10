@@ -25,6 +25,7 @@ import battleNote from './modules/battle/note'
 import storyNavi from './modules/story/story-navi'
 import transSkin from './modules/skin'
 import archiveCharName from './modules/archive/char-name'
+import storyNpcDetail from './modules/archive/story-npc'
 
 const apiHosts = ['game.granbluefantasy.jp', 'gbf.game.mbga.jp']
 
@@ -48,7 +49,7 @@ const requestRouter = async (data, type, list) => {
       for (let handle of handles) {
         try {
           if (isString(handle)) {
-          
+
           } else {
             await handle(data, type)
           }
@@ -72,7 +73,7 @@ const requestList = [
   ['/comic/content/index', transComicT],
   ['/comic/list/', transComicD],
   [['/npc/npc/', '/archive/npc_detail'], transNpcSkill],
-  [['/party_ability_subaction/', '/party/job_equipped/', 
+  [['/party_ability_subaction/', '/party/job_equipped/',
     '/party/ability_list/', '/zenith/ability_list/', '/party/job_info/'], transJobSkill],
   ['/island/init', transIslandInfo],
   [['/rest/sound/mypage_voice', '/rest/sound/archive_voice'], showVoiceSubL],
@@ -99,7 +100,8 @@ const requestList = [
   ['/rest_shop_exchange_treasure/article_labels/', shopLabel],
   [/\/content\/navi/, storyNavi],
   [/^\/skin\/list\/\d+/, transSkin],
-  [/^\/archive\/npc_list/, archiveCharName]
+  [/^\/archive\/npc_list/, archiveCharName],
+  [/^\/archive\/story_npc_detail/, storyNpcDetail]
 ]
 
 export default async function translate(state) {
