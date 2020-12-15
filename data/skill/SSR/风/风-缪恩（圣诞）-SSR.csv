@@ -1,0 +1,8 @@
+id,name,detail
+npc,缪恩,3040246000
+special,超音速圣夜,<div class=prt-text-small>风属性伤害(特大)/获得1层流星(最大2层)</div>
+skill-1,解体,<div class=prt-text-small>对敌方造成3次风属性伤害/施加防御DOWN/风属性防御DOWN/弱体耐性DOWN</div>
+skill-2,幻影俯冲,<div class=prt-text-small>自身获得完全回避(1次)/不消耗回合，发动1次普攻</div>
+skill-3,氮气加速,<div class=prt-text-small>自身获得氮气加速<br><span class=text-blue>◆消耗2层流星</span></div>
+support-1,飞速奔驰,通常攻击上限大幅UP/奥义性能UP/回避率UP/通常攻击后对敌方全体技能伤害且自身奥义值UP(10%)
+support-2,单骑制限,不会连击<br><span class=text-blue>◆处于氮气加速状态时，自身必TA/暴击率UP/技能伤害性能UP/弱体无效</span>
