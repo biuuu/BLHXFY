@@ -86,6 +86,17 @@ path,text,trans,count
 /content,リストに戻る,返回列表,
 /content,標準,标准,15
 /content,イベントTOPへ,回到活动,15
+/content,水着,泳装,3
+/content,浴衣,浴衣,3
+/content,バレンタイン,情人节,3
+/content,ハロウィン,万圣节,3
+/content,クリスマス,圣诞节,3
+/content,十二神将,十二神将,3
+/content,リミテッド,六限,3
+/content,アナザー,异版,3
+/content,コラボ,联动,3
+/content,十天衆,十天众,3
+/content,十賢者,十贤者,3
 /decompose/content/index,獲得トレジャー確認,确认获得的素材,
 /sell/content/index,決定して売却,决定并出售,
 /container,一括選択する,批量选择,
@@ -288,6 +299,7 @@ path,text,trans,count
 /shop_exchange/content/list,究竟の証,究竟之证,
 /shop_exchange/content/list,アーカルムの契約者,阿尔卡那的契约者,
 /shop_exchange/content/list,窮極への道,通往究极之路,
+/shop_exchange/content/list,限界超越,超越极限,
 /shop_exchange/content/list,ショップTOPへ,返回商店首页,
 /shop_exchange/content/list,一覧に戻る,回到一览表,
 /shop_exchange/content/list,制限なし,无限制,2
