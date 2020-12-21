@@ -173,7 +173,7 @@ const getDate = (offset = 0) => {
 
 const md5File = async () => {
   const files = await glob.promise('{battle/*,*}.{csv,json}', {
-    nodir: true, cwd: path.resolve(process.cwd(), './dist/blhxfy/data/') 
+    nodir: true, cwd: path.resolve(process.cwd(), './dist/blhxfy/data/')
   })
   const data = {}
   const prms = files.map(file => {
@@ -189,6 +189,7 @@ const md5File = async () => {
 
 const start = async () => {
   await fse.emptyDir('./dist/blhxfy/data/')
+  await fse.emptyDir('./dist/gacha/')
   const hash = version
   console.log(hash)
   const date = getDate(8)
@@ -205,6 +206,8 @@ const start = async () => {
 
   console.log('move iframe...')
   await fse.copy('./src/lacia.html', './dist/blhxfy/lacia.html')
+
+  await fse.copy('./src/gacha.html', './dist/gacha/index.html')
 
   await collectBattleNoteId()
 
