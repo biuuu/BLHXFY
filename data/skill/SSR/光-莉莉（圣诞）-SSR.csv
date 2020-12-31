@@ -1,0 +1,11 @@
+id,name,detail
+npc,莉莉,3040311000
+special,冰封烁光,<div class=prt-text-small>光属性伤害(特大)/净化我方全体1个弱体效果</div>
+skill-1,圣诞之光,<div class=prt-text-small>我方全体获得光属性攻击UP/奥义值上升量UP/HP回复</div>
+skill-2,圣晶结界,<div class=prt-text-small>我方全体获得屏障/弱体无效(1次)<br><span class=text-blue>◆根据前排角色的种族数量追加幻影(1次)/格挡</span></div>
+skill-3,冰封颂歌,<div class=prt-text-small>对敌方全体施加攻击力DOWN/重力/冰结</div>
+support-1,闪光水晶,战斗前排角色的种族数量对应自身攻击UP/奥义性能UP
+support-2,圣诞快乐小队,连锁奥义「Ascension」发生时自动发动圣诞之光/我方全体奥义值UP(10%)
+skill-lb,LB技能,
+
+自身处于后排时也生效
