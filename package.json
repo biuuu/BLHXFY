@@ -22,7 +22,7 @@
     "lodash": "^4.17.19",
     "pako": "^1.0.11",
     "papaparse": "^5.2.0",
-    "urijs": "^1.19.0",
+    "urijs": "^1.19.4",
     "url-search-params": "^1.1.0"
   },
   "devDependencies": {
