@@ -1,0 +1,45 @@
+id,name,text,trans
+0-chapter_name,,最期の再会,最后的相遇
+0-synopsis,,幽世の住人を退けたフェリ。幽世の住人は、向こうの世界の軍勢をこちら側へ送り込むため、どちらの世界にも干渉できるフェリを求めたのだという。幽世の住人は「向こうの世界で家族と再会する機会はもう訪れない、己の選択を後悔しないことだ」と語り姿を消す。フェリは来たる脅威の予兆に覚悟を決め、新たな力と共に故郷を後にするのだった。,菲莉将幽世的人击退了。幽世的人为了将大部队往现世传送而找上了两个世界都可以干涉的菲莉。幽世的人留下了"你再也不会在那边的世界与家人相遇了，不要后悔自己的选择"的话。菲莉做好了面对将要到来的威胁的准备，获得了新的力量离开了故乡
+1,,<span class='scene-font-katari'>フェリはペットの幽霊達と共に、</span><br><span class='scene-font-katari'>妹を騙った異形の存在を追い詰める。</span>,<span class='scene-font-katari'>菲莉和幽灵宠物一起</span><br><span class='scene-font-katari'>追击以伪装成妹妹骗过自己的异形</span>
+2,幽世の住人,はぁ……はぁ……,哈……哈……
+3,フェリ/菲莉,まだ続けるつもりなのか……,你还想继续下去吗……
+4,幽世の住人,それはこちらの台詞だ。<br>また家族に会えるという希望を、<br>お前は自ら捨てようとしているのだぞ。,这是我说的话才对。<br>你这是把亲手摒弃了与家人重遇的希望哦。
+5,幽世の住人,お前は家族を捨て、<br>それでもこの世界に<br>留まり続けるというのか？,你真的要舍弃自己的家人<br>继续留在这个世界吗?
+6,,<span class='scene-font-katari'>異形の存在の言葉に対し、</span><br><span class='scene-font-katari'>フェリは否定するように</span><br><span class='scene-font-katari'>ゆっくりと首を振る。</span>,<span class='scene-font-katari'>菲莉听了异形的话，否定一样地摇了摇头</span>
+7,フェリ/菲莉,家族を捨てたわけじゃない。<br>みんなのところには必ず帰るさ。,并不是放弃了家人<br>我只是一定要回到大家的身边。
+8,フェリ/菲莉,そして、帰る場所があるからこそ、<br>私はまだ戦えるんだ。,而且，正因为我有可回之处<br>我才得以继续战斗。
+14,幽世の住人,ふん……安息を自ら否定するか。,嗯……自己拒绝了安息吗?
+15,幽世の住人,どうやら我々は、<br>こちらの住人を<br>少々侮っていたらしい。,看来我们这边的人<br>有点被小看了呢。
+16,,<span class='scene-font-katari'>異形の存在は</span><br><span class='scene-font-katari'>自らを虚空に溶かすように、</span><br><span class='scene-font-katari'>徐々にその存在を希薄にしていく。</span>,<span class='scene-font-katari'>异形仿佛将身体与虚空融合了一样</span><br><span class='scene-font-katari'>样子逐渐淡化在空气中</span>
+17,フェリ/菲莉,最期に一つ、教えてくれないか。,最后可以告诉我一件事吗
+18,フェリ/菲莉,お前はどうして、<br>私を自分達の世界に<br>連れて行こうとしたんだ？,你们为什么要将我带到你们那边的世界去？
+19,幽世の住人,察しはついているだろう。<br>全てはお前のその、<br>黄昏の立ち位置ゆえだ。,你也应该知道了的<br>这都是因为你所谓的站在了黄昏了位置。
+20,幽世の住人,幽世とこちらの世界を結ぶ道は、<br>非常に脆く曖昧なものでしかない。,幽世和现世相连的通道<br>本来是相当脆弱且暧昧的。
+21,幽世の住人,しかし、お前がやってのけたように、<br>黄昏に立つ者は、こちらに居ながら、<br>向こうに干渉することが出来る。,但是，就像你那样子<br>站在黄昏的位置的话，既能继续存在于这个世界<br>还能对那个世界进行干涉。
+22,幽世の住人,船頭が、道標が欲しかったのだ。<br>我々の大軍勢が、<br>こちらへ攻め込むためのな。,我们的先头部队需要一个路标<br>好指引大部队打进这个世界。
+23,フェリ/菲莉,お前は私に、<br>そんなことを<br>させようとしていたのか……,你居然<br>想要我帮你做这样的事吗……
+24,フェリ/菲莉,しかし、<br>どうして素直に話したんだ？,但是<br>为什么要这么坦率地和我说这些事呢？
+25,フェリ/菲莉,話を聞いてしまった以上、<br>この先、私はお前達を警戒するぞ。,你现在和我说了的话<br>我就不能装作听不到了
+26,幽世の住人,私は尖兵に過ぎない。<br>本隊が動けば、お前の警戒など、<br>何の意味も無い。,我只不过是来探察情报的<br>大部队有动作的话，你们怎么警戒起来都没有意义的。
+27,幽世の住人,それに……,而且……
+28,,<span class='scene-font-katari'>異形の存在は、</span><br><span class='scene-font-katari'>皮肉げにその口元をわずかに歪ませる。</span>,<span class='scene-font-katari'>异形讽刺一样地歪了歪嘴</span>
+29,幽世の住人,お前の境遇を憐れに思ったまでよ。<br>私がお前に向けた同情は本物だった。,我觉得你的处境是真的可怜<br>这份同情心是真的。
+30,幽世の住人,これから待つ無限の孤独の中で、<br>己の選択を後悔しないことだな……,你不要后悔因为你这个选择<br>而陷入了无限的孤独。
+40,,<span class='scene-font-katari'>異形の存在は呪いのような言葉を残し、</span><br><span class='scene-font-katari'>禍々しい力の気配と共に姿を消す。</span>,<span class='scene-font-katari'>异形放下了像是诅咒一般的话语，和灾祸的气息一起消失了。</span>
+41,,<span class='scene-font-katari'>そうしてフェリは、</span><br><span class='scene-font-katari'>ひとまず事態が解決したことに、</span><br><span class='scene-font-katari'>大きな安堵のため息をついたのだった。</span>,<span class='scene-font-katari'>然后，菲莉因为暂时解决了一件事</span><br><span class='scene-font-katari'>而发出了一声长叹</span>
+42,フェリ/菲莉,ふぅ……,呼……
+43,フージーとニコラ,──！　──！,──！　──！
+44,フェリ/菲莉,ああ、大丈夫だよ。<br>お前達も、お疲れ様。,啊，没事的<br>你们也辛苦了。
+45,ペットの幽霊達,────,────
+49,,<span class='scene-font-katari'>フェリは</span><br><span class='scene-font-katari'>徐々に霧の晴れていくトラモント島で、</span><br><span class='scene-font-katari'>遠い空を見上げる。</span>,<span class='scene-font-katari'>菲莉在逐渐清朗的特拉蒙特岛上抬起头来望向了远方的天空。</span>
+50,フェリ/菲莉,幽世か……<br>あんなとんでもない連中が、<br>空の世界を狙っていたなんて……,幽世吗……<br>居然还有这样的东西在盯着空之世界……
+51,,<span class='scene-font-katari'>フェリは己の力を確かめるように、</span><br><span class='scene-font-katari'>強く握った拳を見やる。</span>,<span class='scene-font-katari'>菲莉像是确认自己的力量一样看着自己紧握着的拳头</span>
+52,フェリ/菲莉,もしかすると、<br>幽霊でありながら、<br>私がこちらに残された理由……,说不定<br>这就是我一个幽灵留在这里的理由。
+53,フェリ/菲莉,これが私の、<br>成すべきことなのかもしれないな。,这就是我<br>不得不做的事情啊。
+54,,<span class='scene-font-katari'>来たる脅威の予兆に対しフェリは、</span><br><span class='scene-font-katari'>更なる戦いに</span><br><span class='scene-font-katari'>身を投じることを覚悟する。</span>,<span class='scene-font-katari'>面对着即将来到的威胁，菲莉做好了继续投身于战斗的觉悟。</span>
+60,,<span class='scene-font-katari'>こうしてフェリは、</span><br><span class='scene-font-katari'>家族の死と己の存在に折り合いをつけ、</span><br><span class='scene-font-katari'>新たな力を得て故郷を後にする。</span>,<span class='scene-font-katari'>菲莉妥协了自己的存在和家人的死亡，获得了新的力量之后离开了故乡</span>
+65,？？？,……いってらっしゃい、お姉ちゃん。,……一路顺风，姐姐。
+78,,<span class='scene-font-katari'>フェリによく似たその少女は、</span><br><span class='scene-font-katari'>再び旅立つフェリの背を押すように、</span><br><span class='scene-font-katari'>優しく温かく見守り続けるのだった。</span>,<span class='scene-font-katari'>一个身影和菲莉相似的少女，带着温柔的目光注视着菲莉，仿佛在背后推了重新开始旅行的菲莉一把一样，</span>
+info,,,scene_chr531_q3_s30
+译者,,,Serval

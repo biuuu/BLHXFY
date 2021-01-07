@@ -1,0 +1,75 @@
+id,name,text,trans
+0-chapter_name,,最期の再会,最后的再会
+0-synopsis,,妹の葬儀を行った後、フェリはトラモント島の館で家族や自分の遺品の整理をしていた。しかし、突然ひとりの少女が館を訪れる。それはフェリの妹であるフィラだった。フェリを迎えに来たのだというフィラの姿にフェリは感極まり、ふたりは固く抱擁を交わす。しかしフェリのペットであるモモは、フィラを警戒するように唸り声を上げるのだった。,举行了妹妹的葬礼之后，菲莉在特拉蒙特岛的家里整理着自己的遗物。突然一位少女来到了家门前。那是菲莉的妹妹菲拉。菲莉被菲拉一句"是来迎接姐姐的"所感动，两人紧紧地抱在了一起。但是菲莉的宠物莫莫却发出了警戒的声音。
+1,,<span class='scene-font-katari'>妹の死を受け入れ、</span><br><span class='scene-font-katari'>故郷であるトラモント島の村で</span><br><span class='scene-font-katari'>弔いを行ったフェリ。</span>,<span class='scene-font-katari'>接受了妹妹的死亡</span><br><span class='scene-font-katari'>回到了故乡特拉蒙特岛举行葬礼的菲莉。</span>
+7,フェリ/菲莉,──よし。<br>これでこっちの部屋は、<br>だいたい片付いたかな……,好了。<br>这样这边的房间就基本收拾好了……
+8,ベッポ,────,────
+9,フェリ/菲莉,ああ、ありがとう、ベッポ。<br>その箱はクローゼットに<br>運んでおいてくれ。,啊啊，贝波，谢谢。<br>那个箱子帮我放进壁橱里吧。
+10,フェリ/菲莉,って、ニコラ！　フージー！<br>さっそく散らかすな！<br>そっちは片付けたばっかりなんだぞ！,这，尼古拉!弗吉!<br>这就给我弄乱了吗!<br>那边刚才才整理好的!
+11,フージーとニコラ,──！！,──！！
+13,フェリ/菲莉,まったく……,真是的
+14,ジジ,…………,…………
+15,フェリ/菲莉,うん？　そうだな。<br>根気よくやっていこう。,嗯?也是呢。<br>拿出点耐心吧。
+16,フェリ/菲莉,私の気持ちに、<br>きちんと整理をつけるためにも、な……,这也是因为<br>可以整理我的心情…呢…
+17,,<span class='scene-font-katari'>妹の葬儀の後、</span><br><span class='scene-font-katari'>姬塔達のもとへ戻る前に、</span><br><span class='scene-font-katari'>フェリはそのまま島に残り……</span>,<span class='scene-font-katari'>举行了妹妹的葬礼之后</span><br><span class='scene-font-katari'>在回去姬塔一行人身边之前</span><br><span class='scene-font-katari'>菲莉暂时留在了岛上……</span>
+18,,<span class='scene-font-katari'>自らの思いに区切りをつけるため、</span><br><span class='scene-font-katari'>館に残っている両親や妹、</span><br><span class='scene-font-katari'>そして自分自身の遺品を整理していた。</span>,<span class='scene-font-katari'>为了给自己的思念画上句号</span><br><span class='scene-font-katari'>菲莉回到了以前的家里</span><br><span class='scene-font-katari'>整理着妹妹，父母以及自己的遗物。</span>
+19,フェリ/菲莉,さて、次は、と……,好了，接下来……
+20,フェリ/菲莉,…………,…………
+21,フェリ/菲莉,……まぁ、いつまでも<br>後回しにしておくわけには<br>いかないよな。,……嘛，事情也不能总是就这么拖着呢。
+28,,<span class='scene-font-katari'>そう言ってフェリがやってきたのは、</span><br><span class='scene-font-katari'>生前、長い時間を過ごした、</span><br><span class='scene-font-katari'>自分自身の部屋だった。</span>,<span class='scene-font-katari'>菲莉一边说着一边走到了一个房间的门前</span><br><span class='scene-font-katari'>这是自己生前一直住着的房间。</span>
+29,フェリ/菲莉,しかし、いざ自分の部屋を<br>片付けるとなると、<br>どこから手を付けたものかな。,但是，真要到收拾自己的房间的时候<br>还真不知道从哪开始收拾好了。
+30,フェリ/菲莉,本棚……はやめておこう、うん。,书架……还是不收拾了吧，嗯。
+31,フェリ/菲莉,本の整理を始めると、<br>ついつい手に取って、<br>読み始めちゃうからな……,如果开始整理书本的话<br>一不小心就会拿起书读起来了呢……
+32,モモ,ガウ！,嗷!
+33,フェリ/菲莉,ん？　どうしたんだ、モモ。,嗯？莫莫？怎么了吗？
+34,,<span class='scene-font-katari'>大きな犬の姿をした幽霊であるモモは、</span><br><span class='scene-font-katari'>一冊の手帳を咥え、</span><br><span class='scene-font-katari'>フェリに差し出していた。</span>,<span class='scene-font-katari'>长得像大型犬的幽灵莫莫</span><br><span class='scene-font-katari'>将一本记事本叼起来</span><br><span class='scene-font-katari'>递给了菲莉</span>
+35,フェリ/菲莉,これ……<br>失くしたと思ってた日記だ……！<br>ど、どこで見つけたんだ！？,这……<br>是我以为不见了的日记本……!<br>这…这是在哪找到的！？
+36,モモ,ガウ！　ガウ！,嗷! 嗷!
+37,フェリ/菲莉,机と本棚の間に？<br>そんな隙間に落としちゃってたのか……,桌子和书架的缝隙中?<br>居然掉在了夹缝中啊……
+38,,<span class='scene-font-katari'>モモから受け取った日記帳を、</span><br><span class='scene-font-katari'>フェリは何気ない様子で開く。</span>,<span class='scene-font-katari'>菲莉很自然地就打开了</span><br><span class='scene-font-katari'>莫莫递过来的日记本。</span>
+39,フェリ/菲莉,懐かしいなぁ……<br>これ、あの子と書いていた<br>交換日記なんだ。,好怀念啊……<br>这是我和那孩子一起写的交换日记啊。
+40,フェリ/菲莉,ふふ……<br>あの子はベッドから<br>出られない日も多かったからな。,呵呵……<br>因为那孩子还是躺在床上下不来床的日子多点呢。
+41,フェリ/菲莉,それで、退屈しないように、って、<br>ふたりで交換日記を始めたんだ。,于是为了不让她觉得无聊<br>我们两个就开始写交换日记了。
+42,フェリ/菲莉,でも、あの子の体調が良くて、<br>家族みんなで出かけた日なんかは、<br>あの子が自分で書きたがって……,但是，也有那孩子状况好的时候<br>像是全家人一起出门的日子<br>那种时候就是她写的日记呢
+43,フェリ/菲莉,もう、<br>日記を書く順番なんて、<br>滅茶苦茶になってたっけ……,真是的<br>把写日记的顺序弄得乱七八糟的
+44,,<span class='scene-font-katari'>フェリは懐かしそうに、愛おしそうに、</span><br><span class='scene-font-katari'>幼い姉妹が拙い文字で綴った日記を</span><br><span class='scene-font-katari'>めくっていく。</span>,<span class='scene-font-katari'>菲莉带着怜爱和怀念</span><br><span class='scene-font-katari'>慢慢地翻看着</span><br><span class='scene-font-katari'>年幼妹妹留下笨拙的字迹的日记本</span>
+45,,<span class='scene-font-katari'>その途中、</span><br><span class='scene-font-katari'>フェリはとあるページで手を止める。</span>,<span class='scene-font-katari'>突然</span><br><span class='scene-font-katari'>菲莉在其中的一页停下了翻动的手。</span>
+46,フェリ/菲莉,見えるか？　モモ。<br>ほら、これ、あの子の描いた絵だ。,快看，莫莫<br>这是那孩子画的画。
+47,モモ,ガウ！,嗷！
+48,フェリ/菲莉,あの子の調子が良くて、<br>家族で島のはずれまで、<br>ピクニックに行ったときの絵だな。,这是那天那孩子状态不错<br>全家人一起出岛野餐的画啊.
+49,フェリ/菲莉,ふふ……楽しかったなぁ。<br>あの子もすっごくはしゃいでた。,呵呵……真是开心啊。<br>那孩子也玩得很开心来着
+50,フェリ/菲莉,今度は、<br>いつも部屋から見える裏山に<br>ふたりで行こう、って約束して……,那时候约好了下次<br>要带她去能从家里看到的后山来着……
+51,フェリ/菲莉,病気を治したら絶対だよ、って。<br>それで、でも……,在病好了之后绝对…<br>那之后，但是……
+52,フェリ/菲莉,でも……あの子はもう……,但是……那孩子已经……
+53,,<span class='scene-font-katari'>ページの中で</span><br><span class='scene-font-katari'>幸せそうに微笑む妹の絵を、</span><br><span class='scene-font-katari'>フェリは愛おしそうに撫でる。</span>,<span class='scene-font-katari'>菲莉怜爱地抚摸着</span><br><span class='scene-font-katari'>日记本上画着的妹妹幸福的笑脸</span>
+54,,<span class='scene-font-katari'>しかし、そこにあるのは</span><br><span class='scene-font-katari'>ただの思い出であり、</span><br><span class='scene-font-katari'>フェリの手は遠く、妹には届かない。</span>,<span class='scene-font-katari'>但是在那里的</span><br><span class='scene-font-katari'>只是单纯的回忆</span><br><span class='scene-font-katari'>妹妹已经在菲莉的手所触碰不到的地方了</span>
+55,フェリ/菲莉,あの子は……<br>死者の在るべき場所で、<br>父さんや母さんに会えたのかな。,那孩子……<br>在逝者所在的地方<br>遇到了父亲和母亲了吗
+56,フェリ/菲莉,向こうで……<br>この絵みたいに、<br>幸せに暮らしているのかな……,在那里是不是……<br>也过着像这幅画一样的幸福日子呢……
+57,フェリ/菲莉,みんなで……昔みたいに……,大家都……像以前一样……
+58,フェリ/菲莉,っ…………,…………
+59,モモ,ガル……,嗷呜……
+60,フェリ/菲莉,っ……大丈夫、大丈夫だよ、モモ。<br>私はもう──,……没事的，没事的，莫莫<br>我已经
+61,,<span class='scene-font-katari'>その時、館全体に、</span><br><span class='scene-font-katari'>古ぼけた大扉を開く音が響き渡る。</span>,<span class='scene-font-katari'>在这时</span><br><span class='scene-font-katari'>屋子里响起了老旧大门的推门声</span>
+62,モモ,ガウッ！,嗷!
+63,フェリ/菲莉,そうだな。<br>これはエントランスの扉を開いた音だ。,是啊。<br>这是入口的开门声。
+64,フェリ/菲莉,この島にはもう、<br>生者はおろか、死者すら<br>私達しか居ないはずなのに……,这个岛上已经<br>别说活人了<br>死人应该也只有我们而已
+65,モモ,グルルル……,咕噜噜噜……
+66,フェリ/菲莉,わかってる……<br>警戒しながら様子を見に行こう。,我知道……<br>小心点去看看是什么情况吧。
+67,,<span class='scene-font-katari'>フェリはモモを伴い、</span><br><span class='scene-font-katari'>警戒を強めながら、</span><br><span class='scene-font-katari'>館のエントランスへと向かう。</span>,<span class='scene-font-katari'>菲莉在莫莫的陪伴下</span><br><span class='scene-font-katari'>小心翼翼地走向了屋子的入口处</span>
+72,,<span class='scene-font-katari'>しかし、そこでフェリを出迎えたのは、</span><br><span class='scene-font-katari'>懐かしくも愛おしい、小さな影だった。</span>,<span class='scene-font-katari'>然而，在那里迎接菲莉的</span><br><span class='scene-font-katari'>是令人怀念且可爱的小身影</span>
+73,？？？,──ただいま、お姉ちゃん。<br>迎えに来たよ。,──我回来了，姐姐。<br>我来接你了
+74,フェリ/菲莉,…………！！,…………！！
+75,フェリ/菲莉,そんな……<br>でも、お前はもう……！！,怎么会……<br>但是，你应该已经……！！
+77,？？？,ふふ……そうだよ。<br>だから、こうして迎えに来たんだよ。,呵呵……是啊<br>所以以这样的形式来接你了呢。
+78,,<span class='scene-font-katari'>その柔らかな笑みは、</span><br><span class='scene-font-katari'>フェリが霧の中で永きに渡り</span><br><span class='scene-font-katari'>願い続けたものに違いなかった。</span>,<span class='scene-font-katari'>那个温柔的笑容</span><br><span class='scene-font-katari'>正是菲莉在雾中苦苦寻找</span><br><span class='scene-font-katari'>一直许愿追寻的东西</span>
+79,？？？,それより……<br>やっと帰って来たんだよ、あたし。,比起那些……<br>我终于回到来了呢
+80,？？？,ずっとずっと、<br>お姉ちゃんにまた会いたい、って<br>願い続けて……,一直一直<br>我都在许愿着<br>与姐姐相遇
+81,？？？,だから……ね？,所以……来吧?
+82,,<span class='scene-font-katari'>そう言うと、</span><br><span class='scene-font-katari'>少女は誘うように、</span><br><span class='scene-font-katari'>フェリに向かって両腕を広げる。</span>,<span class='scene-font-katari'>说着</span><br><span class='scene-font-katari'>少女像邀请一般</span><br><span class='scene-font-katari'>向菲莉张开了双臂</span>
+83,フェリ/菲莉,っ……！<br>フィラっ……！！,……！<br>菲拉……！！
+85,,<span class='scene-font-katari'>フェリは</span><br><span class='scene-font-katari'>感極まった様子で妹の名前を呼び、</span><br><span class='scene-font-katari'>その胸に飛び込んでいく。</span>,<span class='scene-font-katari'>菲莉感动地叫唤着妹妹的名字</span><br><span class='scene-font-katari'>扑向了妹妹的怀里。</span>
+86,,<span class='scene-font-katari'>永い時を経て再会した姉妹は、</span><br><span class='scene-font-katari'>その隔たりを埋めるように、</span><br><span class='scene-font-katari'>固い抱擁を交わす。</span>,<span class='scene-font-katari'>经过长久时间才得以相遇的姐妹</span><br><span class='scene-font-katari'>仿佛要将人身体的间隔全部填满一般</span><br><span class='scene-font-katari'>深深地拥抱在一起</span>
+87,モモ,グルルル……,咕噜噜噜……
+88,,<span class='scene-font-katari'>しかし、</span><br><span class='scene-font-katari'>モモは警戒を続けるように、</span><br><span class='scene-font-katari'>低く唸り声を上げていたのだった。</span>,<span class='scene-font-katari'>但是</span><br><span class='scene-font-katari'>莫莫却像警戒着什么一样</span><br><span class='scene-font-katari'>发出了低沉的声音</span>
+info,,,scene_chr531_q1_s10
+译者,,,Serval

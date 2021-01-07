@@ -1,0 +1,97 @@
+id,name,text,trans
+0-chapter_name,,最期の再会,
+0-synopsis,,館に戻った後、ペットの幽霊達の姿がどこにも無いことに気付くフェリ。そこにフィラが現れ、「死者のあるべき場所で、家族みんなで一緒に暮らそう」と誘う。しかしフェリは、これまでに感じた違和感からフィラが偽者であることを見破る。真の姿を現した幽世の住人と対峙したフェリは、向こうとこちらの世界の狭間に立つ者としての力を覚醒させ、ペット達を呼び戻し戦いに挑むのだった。,回到家里之后，菲莉突然发现她的宠物不见了。然后菲拉出现了。"让我们在死者该去的地方和家人一起生活下去吧"，菲拉邀请到。但是菲莉因为一直以来的违和感而看出了菲拉是别人伪装的。和现出真身的幽世居民对峙的菲利觉醒了连通幽世和现世的能力，叫上了宠物们一起前来应战。
+2,,<span class='scene-font-katari'>裏山の森で遭遇した魔物を</span><br><span class='scene-font-katari'>無事に退けたフェリとペットの幽霊達。</span>,<span class='scene-font-katari'>菲莉和她的宠物幽灵们一起</span><br><span class='scene-font-katari'>顺利击退了在后山的森林里遭遇的怪物</span>
+8,,<span class='scene-font-katari'>その後、</span><br><span class='scene-font-katari'>妹と共に館へ帰って来たものの、</span><br><span class='scene-font-katari'>フェリは自室で悶々と考え込んでいた。</span>,<span class='scene-font-katari'>随后</span><br><span class='scene-font-katari'>虽然和妹妹一起回到了屋子里</span><br><span class='scene-font-katari'>但菲莉陷入了沉思。</span>
+9,フェリ/菲莉,<span class='scene-font-kokoro'>（何か……変だ）</span>,<span class='scene-font-kokoro'>（总感觉……有点怪）</span>
+13,フィラ,<span class='scene-font-4'>──お姉ちゃんっ！</span>,<span class='scene-font-4'>姐姐！</span>
+14,フィラ,お姉ちゃんの家族は<br>あたしとパパとママで、<br>お姉ちゃんが帰る場所はここでしょ？,姐姐的家人是我和爸爸妈妈<br>姐姐的归宿应该是这里才对吧
+15,フィラ,それで全部！　そうでしょ？<br>そうだよね？　お姉ちゃん。,这就是姐姐的全部，<br>没错吧，姐姐？
+19,フェリ/菲莉,<span class='scene-font-kokoro'>（どうしてあんなことを……</span><br><span class='scene-font-kokoro'>フィラはむしろ私よりも、</span><br><span class='scene-font-kokoro'>社交的だったのに……）</span>,<span class='scene-font-kokoro'>（为什么会说这样的话呢……</span><br><span class='scene-font-kokoro'>菲拉应该比我更擅长交际的……）</span>
+20,フェリ/菲莉,<span class='scene-font-kokoro'>（外を出歩けるのは珍しかったけれど、</span><br><span class='scene-font-kokoro'>それでも村の人達と</span><br><span class='scene-font-kokoro'>楽しそうに色んな話をしていた……）</span>,<span class='scene-font-kokoro'>（虽然她不经常外出走动</span><br><span class='scene-font-kokoro'>但就算这样</span><br><span class='scene-font-kokoro'>她也可以做到可以和村民们谈天说地……）</span>
+21,フェリ/菲莉,<span class='scene-font-kokoro'>（それなのに……</span><br><span class='scene-font-kokoro'>どうしてあんな、</span><br><span class='scene-font-kokoro'>他人を拒絶するような……）</span>,<span class='scene-font-kokoro'>（可是为什么……</span><br><span class='scene-font-kokoro'>这样的孩子</span><br><span class='scene-font-kokoro'>会变得如此排斥他人……）</span>
+25,,<span class='scene-font-katari'>思い悩むフェリの脳裏に、</span><br><span class='scene-font-katari'>ふとフィラを初めて見たときの</span><br><span class='scene-font-katari'>ペット達の様子が思い浮かぶ。</span>,<span class='scene-font-katari'>正在烦恼着的菲莉的脑海里</span><br><span class='scene-font-katari'>突然浮现出了刚遇到菲拉时</span><br><span class='scene-font-katari'>宠物们的奇怪表现</span>
+29,フェリ/菲莉,……そうだ。<br>あの子達は何故か、<br>最初からフィラを警戒していた。,……是啊。<br>那些孩子为什么会<br>一开始就警戒着菲拉呢
+30,フェリ/菲莉,<span class='scene-font-kokoro'>（いったい何故？</span><br><span class='scene-font-kokoro'>初対面だったから……なのか？）</span>,<span class='scene-font-kokoro'>（到底是为什么</span><br><span class='scene-font-kokoro'>是因为是刚见面……吗？）</span>
+31,,<span class='scene-font-katari'>その理由を聞くため、</span><br><span class='scene-font-katari'>フェリはペットの幽霊達の姿を</span><br><span class='scene-font-katari'>探し始めるが……</span>,<span class='scene-font-katari'>为了寻找这其中的原因</span><br><span class='scene-font-katari'>菲莉开始找起了她的宠物们……</span>
+36,フェリ/菲莉,ベッポ……？<br>ジジ……？,贝波……？<br>吉吉……？
+40,フェリ/菲莉,<span class='scene-font-4'>フージー！　ニコラ！　モモ！</span><br>返事を……返事をしてくれ！,<span class='scene-font-4'>弗吉！　尼古拉！　莫莫！</span><br>听到的话回我一下！
+41,,<span class='scene-font-katari'>館中を探し回ろうとも、</span><br><span class='scene-font-katari'>ペットの幽霊達が</span><br><span class='scene-font-katari'>姿を現すことはなかった。</span>,<span class='scene-font-katari'>可是菲莉找遍了家里</span><br><span class='scene-font-katari'>幽灵宠物都没有出现</span>
+42,フェリ/菲莉,いったいどこに……<br>外に居るだけなのか……？,到底在哪里……<br>难道会是在外面吗……?
+46,,<span class='scene-font-katari'>外を探すため館から出ると、</span><br><span class='scene-font-katari'>そこには待ち受けていたように、</span><br><span class='scene-font-katari'>愛する妹の姿があった。</span>,<span class='scene-font-katari'>菲莉走出大门寻找宠物</span><br><span class='scene-font-katari'>但是在那里等待菲莉的</span><br><span class='scene-font-katari'>却是怜爱的妹妹</span>
+47,フィラ,どうしたの？　お姉ちゃん。<br>そんなに慌てて……,怎么了吗姐姐<br>这样慌慌张张的……
+48,フェリ/菲莉,すまない、<br>フィラも一緒に探してくれないか？,不好意思<br>菲拉也能和我一起找吗
+49,フェリ/菲莉,実は、<br>モモ達の姿がさっきからどこにも──,其实，<br>从刚才开始我就没见着宠物们──
+50,フィラ,──知ってるよ。<br>だってもう、ここには居ないもん。,──我知道哦<br>因为他们已经不在这里了。
+51,フィラ,あの子達はもう、<br>パパとママのところにいったんだよ。,那些孩子都已经<br>去了爸爸妈妈在的世界了。
+52,フェリ/菲莉,父さんと、母さんの……？,父亲和，母亲？
+53,フィラ,死者のあるべき場所……<br>失われたモノの世界に還ったんだよ。,死者该去的地方……<br>回到了逝者该回的地方哦。
+54,フィラ,あたしも、お姉ちゃんも、<br>もう行かないと。<br>みんな向こうで待ってるよ？,我和姐姐也<br>是时候该出发了。<br>大家都在那里等着哦？
+55,,<span class='scene-font-katari'>そう言うと、</span><br><span class='scene-font-katari'>フィラは柔らかな笑みを浮かべ、</span><br><span class='scene-font-katari'>フェリへと手を差し伸べる。</span>,<span class='scene-font-katari'>菲拉一边说着</span><br><span class='scene-font-katari'>一边微笑着向菲莉伸出了手。</span>
+56,フェリ/菲莉,そんな……,怎么会……
+57,フィラ,これからはパパとママと、<br>あたしとお姉ちゃんと……<br>家族みんなでずっと一緒だよ。,从今以后爸爸和妈妈<br>我还有姐姐……<br>一家人要整整齐齐一起过哦。
+58,フィラ,ねぇ……<br>お姉ちゃんも、<br>それを望んでいたでしょ？,呐……<br.姐姐也是有着这样的愿望的吧？
+59,フェリ/菲莉,っ…………,…………
+60,,<span class='scene-font-katari'>そう問いかけるフィラに対し、</span><br><span class='scene-font-katari'>フェリは言葉を返すことが出来ない。</span>,<span class='scene-font-katari'>对着妹妹的发问</span><br><span class='scene-font-katari'>菲莉无言以对。</span>
+64,,<span class='scene-font-katari'>しかしそれでも、</span><br><span class='scene-font-katari'>自らに手を差し伸べてくれた</span><br><span class='scene-font-katari'>騎空士の姿がフェリの脳裏をよぎる。</span>,<span class='scene-font-katari'>但是尽管是这样</span><br><span class='scene-font-katari'>菲莉脑中出现了向自己伸出援助之手的姬塔的样子。</span>
+72,フィラ,ねぇ、お姉ちゃん……どうして？,呐，姐姐……为什么？
+73,フィラ,あたしにとっても、<br>お姉ちゃんにとっても、<br>大切な人はもうみんな向こうにいるよ。,对我来说，<br>对姐姐来说也是十分重要的人<br>大家都在那边等着哦
+74,フィラ,もうこっちには何も無いよ。<br>だから、一緒にみんなに会いにいこう？,这边已经没有什么好留恋的了<br>我们一起去那边和大家相见吧。
+75,フィラ,それで、向こうで幸せに暮らそう？<br>みんな一緒に。<br>いつまでも一緒に。,然后，大家一起，一直<br>在那边过上幸福的生活吧？
+76,フェリ/菲莉,…………,…………
+77,,<span class='scene-font-katari'>フェリはフィラの告げる言葉を聞き、</span><br><span class='scene-font-katari'>伸ばしかけていた手を握りしめ、</span><br><span class='scene-font-katari'>ゆっくりと口を開く。</span>,<span class='scene-font-katari'菲莉听完菲拉的话</span><br><span class='scene-font-katari'>握紧了自己的拳头</span><br><span class='scene-font-katari'>慢慢地开口说道。</span>
+78,フェリ/菲莉,ありがとう……<br>お前のおかげで気付くことが出来たよ。,谢谢……<br>多亏了你我才发现了。
+79,フェリ/菲莉,偽者であっても、<br>この数日は、まるで本当に、<br>フィラが帰って来たみたいだった。,你这个假货<br>这几天仿佛真的让我感到<br>菲拉真的回来了一样。
+80,,<span class='scene-font-katari'>しっかりと、どこか晴れやかな様子で、</span><br><span class='scene-font-katari'>フェリは相対する少女にそう告げる。</span>,<span class='scene-font-katari'>解开心结的菲莉</span><br><span class='scene-font-katari'>豁然开朗地对少女说到</span>
+81,フィラ,……いつ気が付いた。,什么时候发现的。
+82,フェリ/菲莉,最初から違和感はあった。<br>あまりに幸せで、夢のようで……<br>理想的過ぎたんだ。,最开始就感到违和感了<br>总觉得过得太幸福了，就像梦中一样……<br>太过理想了
+83,フェリ/菲莉,フィラは身体が弱かったからな……<br>外で遊ぶなんて、<br>本当に調子が良いときだけだったんだ。,菲拉她因为身子很弱……<br>要出去玩的话<br>真的只有状况好的时候才出去玩的
+84,フェリ/菲莉,だから、ふたりでよく話していたさ……<br><span class='scene-font-spword'>“身体が良くなったら”</span>、<br>一緒に裏山で遊ぼう、って。,所以，以前我们就立下了……<br>"好了之后"<br>一起去后山玩的约定。
+85,フェリ/菲莉,しかしお前は、<br>裏山で遊んでいた時、<br><span class='scene-font-spword'>“懐かしいね”</span>と言っただろう？,但是你去后山玩的时候<br>说出了"好怀念啊"的话。
+86,フェリ/菲莉,初めてだったんだよ……<br>ふたりであんなふうに、<br>あの山で遊んだのは。,但是那其实是第一次啊……<br>两个人一起去那座山玩………
+87,フィラ,…………,…………
+88,,<span class='scene-font-katari'>さらにフェリは、</span><br><span class='scene-font-katari'>毅然とした態度で話を続ける。</span>,<span class='scene-font-katari'>菲莉还继续</span><br><span class='scene-font-katari'>用着十分坚定的语气说着。</span>
+89,フェリ/菲莉,そして何より……<br>フィラにとっても、この世界は<br>何も無い世界なんかじゃない。,然后还有……<br>队菲拉来说<br>这并不是什么都没有的世界。
+90,フェリ/菲莉,フィラが最期を過ごした島で<br>フィラのために建てられた墓標を<br>私は見てきたよ。,菲拉最后是在这个岛上过得<br>为了她建起来的墓碑<br>我确实看到了。
+91,フェリ/菲莉,綺麗に手入れされていて……<br>みんなから、<br>よく慕われていたんだろうな。,被打理得相当干净……<br>大家都很敬慕她吧。
+92,フェリ/菲莉,それに、<br>大切にしていた孫もいて、<br>大層仲が良かったそうだ。,然后<br>还有和子孙的关系也应该相当好吧。
+93,,<span class='scene-font-katari'>妹の幸せな晩年を想像し、</span><br><span class='scene-font-katari'>フェリは嬉しそうに微笑む。</span>,<span class='scene-font-katari'>妹の幸せな晩年を想像し、</span><br><span class='scene-font-katari'>フェリは嬉しそうに微笑む。</span>
+94,フェリ/菲莉,そんなたくさんの人の想いを置いて、<br>こっちにはもう何も無いなんて……<br>そんなこと言うはずがないだろう？,明明有着这么多人的思念<br>但是你这边却说什么都没有……<br>没有这样说话的吧？
+96,,<span class='scene-font-katari'>フェリの問いに対し相対する少女は、</span><br><span class='scene-font-katari'>その容姿にそぐわぬ</span><br><span class='scene-font-katari'>達観した様子を見せる。</span>,<span class='scene-font-katari'>听着菲莉一连串的质问</span><br><span class='scene-font-katari'>少女的身体逐渐开始变化</span>
+98,フィラ,やれやれ……,真是的……
+105,幽世の住人,参照した情報が少々古かったか……<br>これだからこちらの住人は難しい。,打听到的情报是稍微有点过时了吗……<br>所以说这边的住民难搞懂呢。
+106,フェリ/菲莉,それが……お前の本当の姿か。,这就是……你真正的样子吗
+107,幽世の住人,どうかな。<br>先の姿が偽りであったことは、<br>間違いないが。,怎么样呢。<br>刚刚的姿态是伪装的。
+108,幽世の住人,しかしだ……<br>お前を騙そうとしたのは事実だが、<br>私の話した内容もまた事実だぞ。,但是……<br>要骗过你也是事实<br>我说过的话也是事实。
+109,フェリ/菲莉,……どういうことだ。,……怎么回事
+110,,<span class='scene-font-katari'>警戒を強めるフェリに対し、</span><br><span class='scene-font-katari'>しかし、異形の存在は、</span><br><span class='scene-font-katari'>むしろ真摯に話を続ける。</span>,<span class='scene-font-katari'>面对着带着警戒心的菲莉</span><br><span class='scene-font-katari'>异形却真挚地说着话</span>
+111,幽世の住人,我々の世界……<br>幽世は失われたモノの世界と、<br>深く繋がっている。,我们的所在世界……<br>幽世与逝者的世界<br>有着深厚的关系。
+112,幽世の住人,ここで私の手を取れば、<br>私はお前を両親や妹に<br>会わせてやることが出来る。,如果你现在和我联手的话<br>我就能让你和你妹妹和父母见面。
+113,幽世の住人,そして何より、<br>お前は死者でありながらこちらに留まる<br>特異で歪な存在だ。,而且<br>你虽然是死者，却还留在了这个世界<br>你是特别的存在。
+114,幽世の住人,この機を逃せば、<br>もはやお前に死という安寧は<br>永遠に訪れぬ。,如果你放弃了这个机会<br>死亡的安宁将永远不会降到你身上了。
+115,幽世の住人,愛した家族との再会も叶わず、<br>ひとり孤独に、<br>無数の死を見送ることになる。,不单止不能和家人见面<br>你还得一个人目睹无数人的死亡。
+116,フェリ/菲莉,…………,…………,
+117,幽世の住人,もう十分だろう。<br>お前は楽になっていいんだ。<br>もう安らかに眠っていいんだ。,已经很足够了吧<br>你已经享受够了<br>是时候安眠了。
+118,幽世の住人,私の手を取れ。<br>歪に続いてしまったお前の生を、<br>いまこそ真に終わらせよう。,只要和我联手<br>你扭曲的一生就可以得到终结了
+119,,<span class='scene-font-katari'>差し伸べられたその手に対し、</span><br><span class='scene-font-katari'>しかし、それでもフェリは首を振る。</span>,<span class='scene-font-katari'>对着伸出来的手</span><br><span class='scene-font-katari'>菲莉摇了摇头。</span>
+120,フェリ/菲莉,家族には必ず会いに行く。<br>だけどいまは……さよならだ。,家人的话我一定会去见的<br>但是现在话……还是再见吧。
+121,フェリ/菲莉,私はお前の手を取ることは出来ない。<br>そして、<br>フィラを騙ったお前を許しはしない。,我不能和你联手。<br>而且<br>我不能容忍你假冒菲拉骗我的行为。
+122,,<span class='scene-font-katari'>そう宣言するフェリに対し、</span><br><span class='scene-font-katari'>異形の存在は己の力を露わにする。</span>,<span class='scene-font-katari'>听到菲莉的宣言</span><br><span class='scene-font-katari'>异形露出了自己真正的力量。</span>
+124,幽世の住人,従わぬというのなら力づくだ。<br>たかが小娘ひとりに何が出来る？,如果不听从我的话我就要利用我的力量了<br>你一个小女孩能做什么？
+125,フェリ/菲莉,ふふ……ひとりじゃないさ。,呵呵……我不是一个人哦。
+126,幽世の住人,なに……？,什么……？
+127,フェリ/菲莉,──ベッポ、ジジ。,──贝波，吉吉。
+140,ベッポとジジ,──……,──……
+141,フェリ/菲莉,フージー、ニコラ。,弗吉，尼克拉。
+154,フージーとニコラ,──！　──！,──！　──！
+155,フェリ/菲莉,それに……モモ。,还有……莫莫。
+168,モモ,ガウッ！,敖呜！
+169,,<span class='scene-font-katari'>主に寄り添うペットの幽霊達を見て、</span><br><span class='scene-font-katari'>異形の存在は</span><br><span class='scene-font-katari'>困惑した様子で声を上げる。</span>,<span class='scene-font-katari'>看着向主人亲近的宠物</span><br><span class='scene-font-katari'>异形带着困惑提高了声音说话</span>
+170,幽世の住人,馬鹿な……<br>そいつらは向こうへ、<br>失われたモノの世界へ送ったはず……,不可能……<br>他们应该<br>要前往逝者的世界才对
+171,フェリ/菲莉,教えてくれたのはお前だろう？<br>私が特異な存在であることを。,我是特别的存在<br>告诉我这点的可是你哦
+172,フェリ/菲莉,私がそれを……<br>永遠の黄昏に立ち続けることを<br>受け入れたなら……,我如果……<br>可以接受永远站在黄昏时刻的话……
+173,フェリ/菲莉,私の声は、<br>失われたモノの世界にも届くはずだ。,我的声音<br>应该可以传到逝者的世界
+174,幽世の住人,最悪の展開だ……<br>引き込めなかったにも関わらず、<br>その力を覚醒させてしまうとはな。,真是最糟糕的展开了<br>不仅没有把你拉过来<br>那个力量居然也觉醒了。
+175,幽世の住人,もはや誘うなどという<br>生ぬるいことはせぬ……<br>否が応でもこちらに来てもらうぞ！,已经不用邀请了<br>我也不用再做这些不温不火的事了<br>管你答不答应我都要强行让你过来了
+info,,,scene_chr531_q3_s20
+译者,,,Serval

@@ -1,0 +1,97 @@
+id,name,text,trans
+0-chapter_name,,葬送の日,葬送之日
+0-synopsis,,ある日フェリは、シェロカルテから妹の嫁ぎ先と妹が既に死亡していることを知らされる。フェリはひとり妹の嫁ぎ先へ向かい、墓参りをした後トラモント島へ戻る。母の喪服を身に着け、過去の記憶を頼りに妹の葬儀を執り行うフェリ。ペットの幽霊達に励まされ、自分は独りではない事を感じたフェリは、現実を受け入れ祈りを捧げるのだった。,某天，菲莉从榭洛科特那知晓了妹妹和妹夫都已经去世的事实。她去了妹妹出嫁的地方，扫墓后回到了特拉蒙特岛。少女穿上母亲的丧服，凭着过去的记忆举行了妹妹的葬礼。被作为宠物的幽灵们鼓励，知道自己不是独自一人的菲莉接受了事实开始了她的祈祷。
+3,,<span class='scene-font-katari'>旅の途中、トラモント島に</span><br><span class='scene-font-katari'>迷い込んだ姬塔達は</span><br><span class='scene-font-katari'>幽霊の少女フェリと出会う。</span>,<span class='scene-font-katari'>旅途中、在特拉蒙特岛</span><br><span class='scene-font-katari'>陷入困境的姬塔一行</span><br><span class='scene-font-katari'>与幽灵少女相遇了。</span>
+4,,<span class='scene-font-katari'>姬塔達は旅を続けるため、</span><br><span class='scene-font-katari'>島を閉ざしていた星晶獣セレストを</span><br><span class='scene-font-katari'>フェリと一緒に鎮めた。</span>,<span class='scene-font-katari'>为了姬塔一行的旅行可以继续下去，</span><br><span class='scene-font-katari'>他们与菲莉联手</span><br><span class='scene-font-katari'>一起打倒了将岛封闭起来的星晶兽塞勒斯特。</span>
+11,,<span class='scene-font-katari'>しかしセレストの持つ不死の力で</span><br><span class='scene-font-katari'>存在を保っていた村人達は、</span><br><span class='scene-font-katari'>全員砂となって消えてしまう。</span>,<span class='scene-font-katari'>但是受到塞勒斯特不死之力的影响</span><br><span class='scene-font-katari'>而一直活到现在的村民们、</span><br><span class='scene-font-katari'>全部都变成沙子消失了。</span>
+14,,<span class='scene-font-katari'>ひとりぼっちになったフェリを心配した</span><br><span class='scene-font-katari'>姬塔達は、一緒に行こうと</span><br><span class='scene-font-katari'>フェリを説得し艇に乗せたのだった。</span>,<span class='scene-font-katari'>担心菲莉一个人会变得寂寞</span><br><span class='scene-font-katari'>姬塔一行提出了"和我们一起走吧"</span><br><span class='scene-font-katari'>说服了菲莉让她上了船。</span>
+19,,<span class='scene-font-katari'>こうしてフェリが姬塔達と</span><br><span class='scene-font-katari'>行動を共にするようになってから</span><br><span class='scene-font-katari'>暫く経ったある日のこと。</span>,<span class='scene-font-katari'>这是菲莉和姬塔</span><br><span class='scene-font-katari'>开始一起旅行之后</span><br><span class='scene-font-katari'>过了一段时间的某一天的事情。</span>
+20,,<span class='scene-font-katari'>フェリが姬塔達の旅に</span><br><span class='scene-font-katari'>同行するようになってから</span><br><span class='scene-font-katari'>暫く経ったある日のこと。</span>,<span class='scene-font-katari'>这是菲莉和姬塔一行</span><br><span class='scene-font-katari'>开始一起旅行之后</span><br><span class='scene-font-katari'>过了一段时间的某一天的事情。</span>
+21,,<span class='scene-font-katari'>物資補給のために立ち寄った島で</span><br><span class='scene-font-katari'>停泊中の艇にひとりの客人が現れた。</span>,<span class='scene-font-katari'>因为要进行物资补给</span><br><span class='scene-font-katari'>而停靠在岛上的骑空艇上出现了一位客人</span>
+23,シェロカルテ/榭洛科特,すみません～<br>フェリさんは<br>いらっしゃいますでしょうか～？,不好意思~<br>菲莉在吗?
+24,フェリ/菲莉,ん？　私ならここだ。<br>何か用か？,嗯?我在的。<br>有什么事吗？
+25,シェロカルテ/榭洛科特,実は、先日ご依頼のあった<br>妹さんの件について<br>お話ししたいことがありまして～……,之前菲莉的关于妹妹的委托<br>我有话想说一下
+26,,<span class='scene-font-katari'>数十年前、病を治すために</span><br><span class='scene-font-katari'>故郷の島を出たきり生き別れになった</span><br><span class='scene-font-katari'>フェリの妹。</span>,<span class='scene-font-katari'>几十年前为了治病离开了故乡岛</span><br><span class='scene-font-katari'>结果变成了生离死别的</span><br><span class='scene-font-katari'>菲莉的妹妹。</span>
+27,,<span class='scene-font-katari'>その大切な肉親の足取りを追うため、</span><br><span class='scene-font-katari'>フェリはシェロカルテに</span><br><span class='scene-font-katari'>妹の消息を捜す依頼を出していた。</span>,<span class='scene-font-katari'>为了追迹重要的亲人</span><br><span class='scene-font-katari'>菲莉向榭洛科特提出了寻找妹妹消息的委托。</span>
+28,ビィ/碧,おお？<br>何かわかったのか？,哦?<br>是有什么消息了吗?
+29,シェロカルテ/榭洛科特,実はですね～<br>フェリさんの妹さんの嫁ぎ先が<br>判明したんですが～……,其实呢~<br>我打听到了菲莉的妹妹嫁去了哪里
+30,ルリア/露莉亚,わぁ～！<br>よかったですね、フェリちゃん！,哇~!<br>太好了呢菲莉
+31,ビィ/碧,嫁ぎ先ってのはどこの島なんだ？<br>早く会いに行こうぜ！,那是嫁去了哪个岛啊<br>快点去见她吧!
+32,シェロカルテ/榭洛科特,そ、それが、その～……<br>嫁ぎ先の島や家のことは<br>わかったんですが……,那是…厄…<br>虽然知道了嫁去了哪里…
+33,シェロカルテ/榭洛科特,肝心の妹さんが……<br>何と申し上げたら良いか……,你重要的妹妹……<br>该怎么说好呢……
+34,フェリ/菲莉,…………,…………
+35,,<span class='scene-font-katari'>気まずそうに口ごもる</span><br><span class='scene-font-katari'>シェロカルテを見て、</span><br><span class='scene-font-katari'>フェリは事態を察し、表情を曇らせる。</span>,<span class='scene-font-katari'>看着支支吾吾说不出话的榭洛科特</span><br><span class='scene-font-katari'>菲莉的脸上也挂上了乌云。</span>
+36,フェリ/菲莉,シェロさん、<br>あの子のこと、色々調べてくれて<br>ありがとう。,榭洛<br>能给我这些消息我已经相当感谢了
+37,フェリ/菲莉,そうか……<br>あの子はやっぱり……,是吗……<br>那孩子果然已经……
+38,ルリア/露莉亚,フェリちゃん……,菲莉酱……
+39,フェリ/菲莉,大丈夫……<br>大丈夫だよ、ルリア。<br>覚悟はしていたんだ。,没事…<br>没事的，露利亚。<br>我早就做好心理准备了
+40,フェリ/菲莉,止まっていた時間を動かさないと……<br>私も前に進む時が来たんだ。,要让停滞的时间重新开始流动的话……<br>我也是时候迈出这一步了。
+41,,<span class='scene-font-katari'>自分に言い聞かせるように呟くと、</span><br><span class='scene-font-katari'>フェリは妹が嫁いだ島へひとりで行くと</span><br><span class='scene-font-katari'>姬塔に告げる。</span>,<span class='scene-font-katari'>菲莉像念叨一样告诉姬塔</span><br><span class='scene-font-katari'>她想一个人前往妹妹嫁过去的岛。</span>
+41-sel1_txt,,<span class='scene-font-katari'>行ってらっしゃい</span>,<span class='scene-font-katari'>一路顺风</span>
+42,フェリ/菲莉,すまない、こんなワガママを言って。,对不起啊，说着这样任性的话。
+43,フェリ/菲莉,でもこれは……<br>私がひとりで<br>向き合わなくちゃいけないと思うんだ。,但是…<br>我认为…<br>这是只能我一个人去的
+44,ルリア/露莉亚,何かあったら呼んでくださいね。<br>すぐに行きますから！,如果有什么麻烦的话一定要告诉我们<br>我们会马上赶到的
+45,ビィ/碧,ああ、気をつけて行ってこいよ！,是啊，你就去的时候小心点就好了!
+46,フェリ/菲莉,ありがとう……<br>行ってきます。,谢谢……<br>那我出发了。
+47,,<span class='scene-font-katari'>こうしてフェリは</span><br><span class='scene-font-katari'>姬塔達に見送られながら、</span><br><span class='scene-font-katari'>件の島を目指すのだった。</span>,<span class='scene-font-katari'>菲莉在姬塔一行的送行中</span><br><span class='scene-font-katari'>出发前往了妹妹嫁去的岛</span>
+52,フェリ/菲莉,うん……良い島だ。<br>明るくて、空気も綺麗で。<br>こんな島であの子は結婚したんだな。,嗯…是个不错的岛啊。<br>又明亮，空气也清新。<br>那孩子在这个岛结的婚啊。
+53,フェリ/菲莉,式は挙げたのかな……？<br>ふふっ……<br>ドレス、すごく似合ってただろうな。,有没有办婚礼呢……？<br>呵呵……<br>婚纱一定很适合她吧。
+54,,<span class='scene-font-katari'>妹の痕跡を辿るように、</span><br><span class='scene-font-katari'>フェリはのどかな道を歩いていく。</span>,<span class='scene-font-katari'>为了寻找妹妹的足迹</span><br><span class='scene-font-katari'>菲莉走上了宁静的小道</span>
+59,,<span class='scene-font-katari'>雲海を望む高台に</span><br><span class='scene-font-katari'>ぽつりと立っている石碑を見つけ、</span><br><span class='scene-font-katari'>フェリはゆっくりと歩み寄る。</span>,<span class='scene-font-katari'>在能看见云海的高台上</span><br><span class='scene-font-katari'>菲莉发现了一块孤零零竖着的石碑</span><br><span class='scene-font-katari'>她悠闲的走近上去看
+60,フェリ/菲莉,……！,……！
+61,,<span class='scene-font-katari'>その墓標には、</span><br><span class='scene-font-katari'>フェリの妹の名前が、</span><br><span class='scene-font-katari'>無慈悲にもしっかりと刻まれていた。</span>,<span class='scene-font-katari'>在那块墓碑上</span><br><span class='scene-font-katari'>冷冷地刻着菲莉妹妹的名字</span>
+62,フェリ/菲莉,…………,…………
+63,フェリ/菲莉,そう、だよな……<br>うん……わかってたさ。,也是呢……<br>嗯…我知道的
+64,フェリ/菲莉,あれからどれだけ時間が経ったか……<br>それを考えたら、<br>こんなの、不思議でもなんでもない。,从那以来都过了多久了…<br>想到这些的话<br>其实这也不是什么不可思议的事了
+65,フェリ/菲莉,なのに……おかしいな。<br>覚悟していたはずなのに……<br>なんで、こんな……,但是……好奇怪。<br>明明已经是做好心理准备的了……<br>为什么，会这么……
+66,,<span class='scene-font-katari'>寂しさを押し込めるように</span><br><span class='scene-font-katari'>フェリは自分の腕を抱き、</span><br><span class='scene-font-katari'>その場にしゃがみ込む。</span>,<span class='scene-font-katari'>像是要抑制自己的寂寞一般</span><br><span class='scene-font-katari'>菲莉抱起双手</span><br><span class='scene-font-katari'>蹲在了墓碑前</span>
+67,フェリ/菲莉,っ…………,…………
+68,,<span class='scene-font-katari'>ふとブーツを履いた足元に</span><br><span class='scene-font-katari'>馴染みのある花が咲いていることに</span><br><span class='scene-font-katari'>フェリは気がつく。</span>,<span class='scene-font-katari'>突然菲莉注意到</span><br><span class='scene-font-katari'>在她脚边开着的</span><br><span class='scene-font-katari'>是一种自己很熟悉的花</span>
+69,フェリ/菲莉,<span class='scene-font-kokoro'>（これ……</span><br><span class='scene-font-kokoro'>村に咲いてた花だ。</span><br><span class='scene-font-kokoro'>あの子が好きだった……）</span>,<span class='scene-font-kokoro'>（这是……</span><br><span class='scene-font-kokoro'>以前村里的花啊</span><br><span class='scene-font-kokoro'>那孩子很喜欢来着</span>
+70,フェリ/菲莉,<span class='scene-font-kokoro'>（この島にも自生してたのか？</span><br><span class='scene-font-kokoro'>それとも誰かがあの村から</span><br><span class='scene-font-kokoro'>種を持ってきてくれた、とか……？）</span>,<span class='scene-font-kokoro'>（这是这个岛上原生的吗</span><br><span class='scene-font-kokoro'>还是说有谁从村子里</span><br><span class='scene-font-kokoro'>把种子带到了这里来……？）</span>
+71,,<span class='scene-font-katari'>よく見れば石碑は丁寧に磨かれ、</span><br><span class='scene-font-katari'>長く雨ざらしになっているはずなのに</span><br><span class='scene-font-katari'>ほとんど土埃が積もっていない。</span>,<span class='scene-font-katari'>仔细一看墓碑有被细心地打磨过的痕迹</span><br><span class='scene-font-katari'>明明已经在这里日晒雨淋很久了</span><br><span class='scene-font-katari'>但是却几乎一点都没有积尘。</span>
+72,,<span class='scene-font-katari'>いまも誰かが訪れて</span><br><span class='scene-font-katari'>妹の生きた証を手入れしてくれている。</span><br><span class='scene-font-katari'>その事実がフェリの胸を温かくした。</span>,<span class='scene-font-katari'>现在也仍有人来这里</span><br><span class='scene-font-katari'>好好修缮着妹妹生命的痕迹</span><br><span class='scene-font-katari'>这样的事实使菲莉的内心涌起了一股暖流。</span>
+73,フェリ/菲莉,<span class='scene-font-kokoro'>（あの子が嫁いだ先の館の住人も、</span><br><span class='scene-font-kokoro'>あの子は随分と孫に懐かれていたって</span><br><span class='scene-font-kokoro'>言ってたっけ……）</span>,<span class='scene-font-kokoro'>（好像那孩子嫁过去的地方的人也说过、</span><br><span class='scene-font-kokoro'>那孩子的后代十分怀念着她来着）</span>
+74,フェリ/菲莉,<span class='scene-font-kokoro'>（ちゃんと幸せになってくれたんだ。</span><br><span class='scene-font-kokoro'>病気を治して、</span><br><span class='scene-font-kokoro'>この地でしっかり生きてたんだ……）</span>,<span class='scene-font-kokoro'>（变得十分幸福了呢。</span><br><span class='scene-font-kokoro'>病也治好了，</span><br><span class='scene-font-kokoro'>在这里过上了好日子呢……）</span>
+75,フェリ/菲莉,…………,…………
+76,,<span class='scene-font-katari'>柔らかく微笑み、フェリは</span><br><span class='scene-font-katari'>故郷から持ってきた思い出の花を</span><br><span class='scene-font-katari'>そっと石碑に供える。</span>,<span class='scene-font-katari'>菲莉带着温柔的笑容</span><br><span class='scene-font-katari'>将从故乡带来的充满回忆的花</span><br><span class='scene-font-katari'>供在了石碑前面</span>
+77,フェリ/菲莉,時間を進めるって決めたからな。<br>私もちゃんと、<br>現実を受け入れなくちゃな……,决定了让时间前进的我也<br>是时候接受现实了……
+78,,<span class='scene-font-katari'>別れを告げるように</span><br><span class='scene-font-katari'>石碑に刻まれた愛しい名前を見つめ、</span><br><span class='scene-font-katari'>フェリはその場を立ち去った。</span>,<span class='scene-font-katari'>菲莉像道别一样</span><br><span class='scene-font-katari'>注视着石碑上刻着的名字</span><br><span class='scene-font-katari'>然后离开了。</span>
+79,ペット達,──……,──……
+80,,<span class='scene-font-katari'>物陰に隠れていたペット達も</span><br><span class='scene-font-katari'>物思いに耽るフェリを見守るように、</span><br><span class='scene-font-katari'>静かに主の後を追った。</span>,<span class='scene-font-katari'>藏在阴处的宠物们</span><br><span class='scene-font-katari'>像在守护着陷入忧虑的菲莉一般</span><br><span class='scene-font-katari'>静静地跟在了主人后面。</span>
+85,,<span class='scene-font-katari'>トラモント島に戻ったフェリは</span><br><span class='scene-font-katari'>自分なりに妹を弔うため、</span><br><span class='scene-font-katari'>生前の記憶を頼りに葬儀を準備する。</span>,回到特拉蒙特岛之后</span><br><span class='scene-font-katari'>为了悼念妹妹</span><br><span class='scene-font-katari'>菲莉凭着生前的记忆做起了葬礼的准备。</span>
+91,,<span class='scene-font-katari'>そして、かつて見た姿を真似るように、</span><br><span class='scene-font-katari'>生家の館から見つけた母の喪服に、</span><br><span class='scene-font-katari'>袖を通すのだった。</span>,<span class='scene-font-katari'>为了模仿生前的样子</span><br><span class='scene-font-katari'>菲莉穿上了在故乡找到的</span><br><span class='scene-font-katari'>母亲的丧服。</span>
+92,フェリ/菲莉,これでよし……,这样就好了……
+93,フェリ/菲莉,ふふっ、おかしな話だ……<br>幽霊である私が<br>妹の葬儀を執り行おうなんて。,呵呵，真是怪事啊……<br>一个幽灵<br>居然会给妹妹举行葬礼。
+99,,<span class='scene-font-katari'>死者を弔う儀礼の場は、</span><br><span class='scene-font-katari'>幼い頃に見た非日常の一幕であり、</span><br><span class='scene-font-katari'>死の完了として強い印象を残していた。</span>,<span class='scene-font-katari'>吊唁死者并不是小时候常能经历的事</span><br><span class='scene-font-katari'>但是却给菲莉留下了很深的"死的完结"的印象。
+100,,<span class='scene-font-katari'>妹のために拵えたそれを見て、</span><br><span class='scene-font-katari'>フェリはより一層、妹の死を</span><br><span class='scene-font-katari'>現実のものと実感する。</span>,
+101,フェリ/菲莉,どうして私は<br>“ここ”に居るんだろうな……,为什么我<br>会在"这里"呢……
+102,,<span class='scene-font-katari'>妹も自分も死んだはずなのに、</span><br><span class='scene-font-katari'>自分だけが幽霊として島に残っている。</span>,<span class='scene-font-katari'>自己和妹妹都应该已经去世了</span><br><span class='scene-font-katari'>但是只有菲莉变成了幽灵留在了岛上。</span>
+103,,<span class='scene-font-katari'>フェリは自分が</span><br><span class='scene-font-katari'>いかに不自然な存在であるかを</span><br><span class='scene-font-katari'>突きつけられた思いだった。</span>,<span class='scene-font-katari'>"自己是多么非自然的存在啊"的想法</span><br><span class='scene-font-katari'>突然出现在了菲莉脑海中。</span>
+104,フェリ/菲莉,<span class='scene-font-kokoro'>（あの子は亡くなってしまったけれど、</span><br><span class='scene-font-kokoro'>ここにあの子の姿は無い……）</span>,<span class='scene-font-kokoro'>（明明那孩子已经去世了</span><br><span class='scene-font-kokoro'>这里却没有她的身影……）</span>
+105,フェリ/菲莉,<span class='scene-font-kokoro'>（あの子はもう、</span><br><span class='scene-font-kokoro'>死者の在るべき場所へ</span><br><span class='scene-font-kokoro'>いってしまったのだとしたら……）</span>,<span class='scene-font-kokoro'>（她是不是已经、</span><br><span class='scene-font-kokoro'>去了逝者该去的地方了呢……）</span>
+106,フェリ/菲莉,<span class='scene-font-kokoro'>（この世界に残ってしまった私は</span><br><span class='scene-font-kokoro'>もう二度と、</span><br><span class='scene-font-kokoro'>あの子に会えないんだろうか）</span>,<span class='scene-font-kokoro'>（留在了这个世界的我</span><br><span class='scene-font-kokoro'>是不是已经</span><br><span class='scene-font-kokoro'>再也见不到她了呢）</span>
+107,フェリ/菲莉,<span class='scene-font-kokoro'>（あの子にも、父さんにも母さんにも、</span><br><span class='scene-font-kokoro'>消えていった村の人達にも……</span><br><span class='scene-font-kokoro'>ずっとこのまま永遠に……）</span>,（妹妹、爸爸、妈妈</span><br><span class='scene-font-kokoro'>还有已经消失了的村民们……</span><br><span class='scene-font-kokoro'>就这样永远地……）</span>
+108,フェリ/菲莉,…………,…………
+109,,<span class='scene-font-katari'>ぞわりと寒気がした。</span><br><span class='scene-font-katari'>沈黙する島の空気が胸の中の空虚感を</span><br><span class='scene-font-katari'>増幅させ、眩暈がするほど怖くなった。</span>,<span class='scene-font-katari'>突然一阵寒气掠过，</span><br><span class='scene-font-katari'>岛上沉默着的空气加重了菲莉心中的空虚感</span><br><span class='scene-font-katari'>使得少女几乎要晕倒过去</span>
+110,ペット達,────,────
+115,フェリ/菲莉,うわっ！？<br>お前達……！,啊!?<br>你们……！
+116,フェリ/菲莉,ふっ、ふふっ……<br>くすぐったいよ……<br>……あはははは！,呵，呵呵……<br>很痒的呀……<br>……啊哈哈哈哈!
+117,,<span class='scene-font-katari'>葬儀を準備する間、放置されたことに</span><br><span class='scene-font-katari'>不平を言うように、ペット達は</span><br><span class='scene-font-katari'>しつこくフェリに体を擦りつける。</span>,<span class='scene-font-katari'>仿佛因为准备葬礼的时候被放置在一边</span><br><span class='scene-font-katari'>而在表现出不满的宠物们</span><br><span class='scene-font-katari'>粘人地蹭起了菲莉来。</span>
+118,フージーとニコラ,──！　──！,──！　──!
+119,ジジ,────,────
+120,モモ,────,────
+121,フェリ/菲莉,……うん。<br>そうだったな。,……嗯。<br>也是呢。
+123,ルリア/露莉亚,何かあったら呼んでくださいね。<br>すぐに行きますから！,如果有什么麻烦的话一定要告诉我们呀<br>我们会马上赶到的!
+124,ビィ/碧,ああ、気をつけて行ってこいよ！,是啊，你就去的时候小心点就好了!
+126,フェリ/菲莉,こんな私でも、お前達や<br>受け入れてくれる仲間がいる……,就算是这样的我<br>也有你们和接受我的同伴在……
+127,フェリ/菲莉,だったら、<br>ひとりぼっちなんかじゃないな。,这样的话<br>我也不是孤零零一个了。
+128,ペット達,──！！,──！！
+129,フェリ/菲莉,ありがとう……<br>ゆっくりだけど、前に進めそうだ。,谢谢……<br>尽管是慢慢来，我也想要向前进啊。
+130,,<span class='scene-font-katari'>悲しい現実もそばにいてくれる存在が</span><br><span class='scene-font-katari'>いるなら受け入れられる。</span><br><span class='scene-font-katari'>そう確信し、フェリは空を仰ぐ。</span>,<span class='scene-font-katari'>悲しい現実もそばにいてくれる存在が</span><br><span class='scene-font-katari'>いるなら受け入れられる。</span><br><span class='scene-font-katari'>そう確信し、フェリは空を仰ぐ。</span>
+131,,<span class='scene-font-katari'>フェリが明るさを取り戻したのを見て、</span><br><span class='scene-font-katari'>ペット達はフェリの用意した花の前に</span><br><span class='scene-font-katari'>行儀よく座った。</span>,<span class='scene-font-katari'>看到菲莉重新打起了精神</span><br><span class='scene-font-katari'>宠物们整齐地坐在了菲莉准备的花的前面</span>
+132,ジジ,──？,──？
+133,フェリ/菲莉,そうだな……<br>いまは祈ろう。,也是呢……<br>现在就先祈祷吧。
+134,,<span class='scene-font-katari'>誰もいないトラモント島で</span><br><span class='scene-font-katari'>フェリは妹を想い、</span><br><span class='scene-font-katari'>静かに祈りを捧げるのだった。</span>,<span class='scene-font-katari'>在空无一人的特拉蒙特岛上/span><br><span class='scene-font-katari'>菲莉的心挂念着妹妹</span><br><span class='scene-font-katari'>静静地祈祷了起来</span>
+info,,,scene_fate_chr531_ep1
+译者,,,serval
