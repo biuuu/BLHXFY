@@ -1,0 +1,17 @@
+id,name,text,trans
+0-chapter_name,,素敵な景色のその先に,在那美丽景色的前方
+1,,<span class='scene-font-katari'>──……</span>,<span class='scene-font-katari'>──……</span>
+8,,<span class='scene-font-katari'>窮極たる弓の極意を習得して、</span><br><span class='scene-font-katari'>更なる力を得た姬塔。</span>,<span class='scene-font-katari'>姬塔习得了穷极之弓的极意，</span><br><span class='scene-font-katari'>得到了更上一层楼的力量。</span>
+13,,<span class='scene-font-katari'>ある時、姬塔達は、</span><br><span class='scene-font-katari'>十天衆のソーンと</span><br><span class='scene-font-katari'>カフェで食事をしていた。</span>,<span class='scene-font-katari'>某一天，姬塔和</span><br><span class='scene-font-katari'>十天众的索恩一起</span><br><span class='scene-font-katari'>在咖啡店用餐。</span>,
+14,ソーン/索恩,ふふ。このお店のパンケーキ、<br>美味しいでしょ？<br>前にシルヴァと来たの。,呵呵。这家店的蛋糕，<br>很好吃吧？<br>之前和席尔瓦来过。
+15,ソーン/索恩,うん？　私のも気になるの？<br>それじゃあ一口交換する？<br>ふふ……,嗯？也想尝尝我的？<br>那我们换着吃一口？<be>呵呵……
+16,ソーン/索恩,ああ、嬉しい。<br>こうして姬塔達と<br>食事をするのは何回目かな。,啊啊，好开心。<br>像这样和姬塔你们<br>一起吃饭已经多少次了呢。
+17,ソーン/索恩,姬塔と出会って、<br>私の普通は変わっていって……<br>やっと私は自分の力を受け入れられた。,和姬塔相遇之后，<br>我的普通开始发生改变……<br>终于，我可以接受我自己的力量了。
+18,ソーン/索恩,だけど姬塔、<br>あなたはあの日のままでは<br>終わらないのね。,但是姬塔，<br>你不会像这样<br>就结束了。
+19,ソーン/索恩,あなたはどんどん強くなっていく。<br>きっと、私の眼でも捉えられないくらい<br>高い場所へと行ってしまうわ。,你在变得越来越强了。<br>一定，会去到连我的眼睛也<br>无法捕捉的高高的地方吧。
+20,ソーン/索恩,置いていかれるかもって思うと<br>少し寂しいから……<br>私も、もっと強くなりたいな。,一想到会被抛下<br>就会稍稍有些寂寞……<br>所以，我也想变得更强。
+21,ソーン/索恩,これまでとは違う理由で、<br>私は強くなりたい。<br>あなたの姿を見ていて、そう思ったの。,我想要变强，<br>理由和过去都不一样。<br>因为一直看着你的样子，所以我才这样想。
+22,ソーン/索恩,ありがとう、姬塔。<br>私に目標をくれて。,谢谢你，姬塔。<br>给了我目标。
+23,ソーン/索恩,あなたがどれほど高く飛んでも、<br>私はきっと追いついてみせるわ。,不论你飞得到多高，<br>我一定会追上你给你看的。
+info,,,scene_juttenskin_cp2_q2_s10
+译者,,,HoshinoNoa

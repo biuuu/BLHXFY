@@ -1,0 +1,17 @@
+id,name,text,trans
+0-chapter_name,,賢人の憂い,贤人的忧心
+1,,<span class='scene-font-katari'>──……</span>,<span class='scene-font-katari'>──……</span>
+8,,<span class='scene-font-katari'>窮極たる槍の極意を習得して、</span><br><span class='scene-font-katari'>更なる力を得た姬塔。</span>,<span class='scene-font-katari'>姬塔习得了穷极之枪的极意，</span><br><span class='scene-font-katari'>得到了更上一层楼的力量。</span>
+13,,<span class='scene-font-katari'>ある時、姬塔は、</span><br><span class='scene-font-katari'>十天衆のウーノと</span><br><span class='scene-font-katari'>よろず屋を訪れていた。</span>,<span class='scene-font-katari'>，某一天，姬塔和</span><br><span class='scene-font-katari'>十天众的乌诺</span><br><span class='scene-font-katari'>一同造访了万事屋。</span>
+14,ウーノ/乌诺,いやはや……<br>今回の依頼も、<br>ほとんど君の独壇場だったね。,哎呀哎呀……<br>这次的委托也是，<br>几乎是你的一人秀呢。
+15,ウーノ/乌诺,姬塔……<br>君は本当に強くなった。<br>もはやその力は十天衆をも凌駕する。,姬塔……<br>你真的变强了呢。<br>这力量已经快能凌驾于十天众之上了。
+16,ウーノ/乌诺,しかし……しかしだ、姬塔。<br>その力、君の無邪気さゆえに、<br>私は危惧せねばならない。,但是……但是啊，姬塔。<br>因为你的天真，所以我不得不<br>去惧怕你的力量。
+17,ウーノ/乌诺,君という存在は<br>すでに十分すぎるほど、<br>全空の脅威、抑止となり得る。,你的存在，<br>已经成长到足以成为<br>全空的威胁，需要被抑制。
+18,ウーノ/乌诺,しかし、<br>それでもまだ君は力を求め続ける……<br>それは決して悪いことではない。,但是，<br>即便如此你也要继续寻求力量……<br>这绝不是一件坏事。
+19,ウーノ/乌诺,だが……ひとつ、覚えておいてほしい。<br>力とは手段に過ぎないということを。,不过……有一点，希望你可以记住。<br>力量只不过是一种手段。
+20,ウーノ/乌诺,手段とは目的あってのものだ。<br>信念無き力は最悪の結果すら招く。,手段是为了达到目的才存在的。<br>没有信念的力量会招来最坏的结果。
+21,ウーノ/乌诺,君は、その極限まで高めた力で、<br>いったい何を成すつもりなんだい？,你，究竟想用那达致极限的力量，<br>去成就一些什么？
+22,ウーノ/乌诺,今はそれが見えずとも構わない。<br>しかし、いつか必ず聞かせてほしい。,现在你还没有找到目标也没关系。<br>但是，总有一天希望请你一定告诉我。
+23,ウーノ/乌诺,私は信じているよ。<br>君の成す未来は、<br>温かな光に溢れているということを。,我相信着你哦。<br>你将成就的未来，<br>一定满溢着温暖的光辉。
+info,,,scene_juttenskin_cp2_q1_s10
+译者,,,HoshinoNoa

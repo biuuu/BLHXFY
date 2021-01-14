@@ -1,0 +1,14 @@
+id,name,text,trans
+0-chapter_name,,刀神嘱目,刀神的嘱咐
+1,,<span class='scene-font-katari'>──……</span>,<span class='scene-font-katari'>──……</span>,
+8,,<span class='scene-font-katari'>窮極たる太刀の極意を習得して、</span><br><span class='scene-font-katari'>更なる力を得た姬塔。</span>,<span class='scene-font-katari'>姬塔习得了穷极之刀的极意，</span><br><span class='scene-font-katari'>得到了更上一层楼的力量。</span>
+15,姬塔,──……,──……
+25,,<span class='scene-font-katari'>姬塔とすれ違ったオクトーは、</span><br><span class='scene-font-katari'>歩き去る姬塔を振り返る。</span>,<span class='scene-font-katari'>与姬塔擦肩而过的奥克托，</span><br><span class='scene-font-katari'>回头望着已迈步远去的姬塔。</span>
+26,オクトー/奥克托,……面白き哉……<br>と言うには、早計か。,……真是有趣……<br>说这话，还为时尚早吗。
+27,オクトー/奥克托,<span class='scene-font-kokoro'>（力を求めいずれ理を体現するも良し、</span><br><span class='scene-font-kokoro'>理すらも不要とする</span><br><span class='scene-font-kokoro'>破壊神になるも良し）</span>,<span class='scene-font-kokoro'>（渴求力量终有一天能够体现出真理也好，</span><br><span class='scene-font-kokoro'>成为抛弃真理</span><br><span class='scene-font-kokoro'>的破坏神亦可）</span>
+28,オクトー/奥克托,<span class='scene-font-kokoro'>（だが果たして、<br><span class='scene-font-kokoro'>力の元に得る形は姬塔が<br><span class='scene-font-kokoro'>望むものであるのか、否か）,（然而究竟，<br><span class='scene-font-kokoro'>如此获得力量的形态是姬塔<br><span class='scene-font-kokoro'>所期望的吗）
+29,オクトー/奥克托,<span class='scene-font-kokoro'>（余人が何と名付けるかを問わず、</span><br><span class='scene-font-kokoro'>己が歩む道、辿り着く形は</span><br><span class='scene-font-kokoro'>自ら選ぶものでなければ取るに足りん）</span>,<span class='scene-font-kokoro'>（不论他人如何说三道四，</span><br><span class='scene-font-kokoro'>自己的前进步伐、所到之处</span><br><span class='scene-font-kokoro'>不由自己来选择的话可谓之不足。）</span>
+30,オクトー/奥克托,<span class='scene-font-kokoro'>（……が、力に使われているとしても</span><br><span class='scene-font-kokoro'>その事実には己にて</span><br><span class='scene-font-kokoro'>覚らねば意味もあるまい）</span>,<span class='scene-font-kokoro'>（……但，即使被力量蒙蔽双目，</span><br><span class='scene-font-kokoro'>只要能牢记这一事实</span><br><span class='scene-font-kokoro'>也并非毫无意义）</span>
+31,オクトー/奥克托,……つまらぬものに<br>成り果てるなよ、姬塔。,……不要沦落于<br>太过无聊的结局哦，姬塔。
+info,,,scene_juttenskin_cp2_q8_s10
+译者,,,HoshinoNoa
