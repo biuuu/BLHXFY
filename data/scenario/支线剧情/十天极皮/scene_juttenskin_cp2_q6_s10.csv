@@ -1,19 +1,19 @@
 id,name,text,trans
-0-chapter_name,,それは翼のように,如同那翅膀一般
+0-chapter_name,,それは翼のように,那翅膀一般
 1,,<span class='scene-font-katari'>──……</span>,<span class='scene-font-katari'>──……</span>
 8,,<span class='scene-font-katari'>窮極たる手甲の極意を習得して、</span><br><span class='scene-font-katari'>更なる力を得た姬塔。</span>,<span class='scene-font-katari'>姬塔习得了穷极之拳甲的极意，</span><br><span class='scene-font-katari'>得到了更上一层楼的力量。</span>
-13,,<span class='scene-font-katari'>ある日、姬塔は</span><br><span class='scene-font-katari'>手合せのために</span><br><span class='scene-font-katari'>シスと向き合っていた。</span>,<span class='scene-font-katari'>某一天，姬塔找寻</span><br><span class='scene-font-katari'>希斯切磋，</span><br><span class='scene-font-katari'>两人相视而立。</span>
-14,シス/希斯,……姬塔、<br>この手合せが、お前は<br>そんなに楽しいのか？,……姬塔，<br>这次切磋，能让你<br>这么期待吗？
+13,,<span class='scene-font-katari'>ある日、姬塔は</span><br><span class='scene-font-katari'>手合せのために</span><br><span class='scene-font-katari'>シスと向き合っていた。</span>,<span class='scene-font-katari'>某一天，</span><br><span class='scene-font-katari'>姬塔与希斯切磋，</span><br><span class='scene-font-katari'>两人相视而立。</span>
+14,シス/希斯,……姬塔、<br>この手合せが、お前は<br>そんなに楽しいのか？,……姬塔，<br>这次切磋，能让你这么开心吗？
 15,,<span class='scene-font-katari'>わくわくした様子の姬塔に</span><br><span class='scene-font-katari'>シスは小さく首を傾げる。</span>,<span class='scene-font-katari'>对着跃跃欲试的姬塔，</span><br><span class='scene-font-katari'>希斯稍稍歪了歪脑袋。</span>
 16,シス/希斯,お前は十分に強い。<br>もう俺との手合せなど、<br>不要に思えるが……,你已经足够强了。<br>已经没有什么必要，<br>来和我切磋了吧……
 17,シス/希斯,…………,…………
 18,シス/希斯,ああ、そうだった。<br>お前の強さは、<br>力を得ることを楽しめることだな。,啊啊，是这样啊。<br>你的强大，<br>是因为你乐衷于获得力量啊。
-19,シス/希斯,……力とは、大きくなればなるほど<br>全てを飲み込んで沈み込んでいく……<br>重い枷のようなものだと思っていた。,……我认为所谓的力量，越强大越是容易<br>将一切都渐渐吞没……<br>像沉重的枷锁一样。
-20,シス/希斯,けれど姬塔、お前の力は違う。<br>まるで蒼い空を飛ぶ翼のようだ。,但是姬塔，你的力量并不是如此。<br>而是仿佛飞翔于碧空的翅膀一样。
-21,シス/希斯,大きくなればなるほど、<br>高く美しく舞い上がる。,展翅高飞的话，<br>便能在高处美丽地起舞。
-22,シス/希斯,だから俺は、お前の力に<br>何も不安はない。,所以说我，对你的力量<br>不会感到任何的不安。
-23,シス/希斯,思うまま、自由にいけ。<br>俺の力も好きなだけ利用すればいい。,随心所欲地，自由地去吧。<br>你若需要我的力量也随你拿去用就好了。
-24,,<span class='scene-font-katari'>シスは仮面の奥で小さく微笑み、</span><br><span class='scene-font-katari'>ゆっくりと構えを取る。</span>,<span class='scene-font-katari'>希斯在假面的深处露出了微微的笑容，</span><br><span class='scene-font-katari'>慢慢地摆好了架势。</span>
+19,シス/希斯,……力とは、大きくなればなるほど<br>全てを飲み込んで沈み込んでいく……<br>重い枷のようなものだと思っていた。,……我认为所谓的力量，<br>越强大越是容易将一切都渐渐吞没……<br>像沉重的枷锁一样。
+20,シス/希斯,けれど姬塔、お前の力は違う。<br>まるで蒼い空を飛ぶ翼のようだ。,但是姬塔，你的力量并不是如此。<br>而是犹如翱翔于碧空的翅膀一样。
+21,シス/希斯,大きくなればなるほど、<br>高く美しく舞い上がる。,你变得越强，<br>越能飞得更高更美。
+22,シス/希斯,だから俺は、お前の力に<br>何も不安はない。,所以说我对你的力量<br>不会感到任何的不安。
+23,シス/希斯,思うまま、自由にいけ。<br>俺の力も好きなだけ利用すればいい。,随心所欲，自由行事吧。<br>我的力量也随便你用。
+24,,<span class='scene-font-katari'>シスは仮面の奥で小さく微笑み、</span><br><span class='scene-font-katari'>ゆっくりと構えを取る。</span>,<span class='scene-font-katari'>希斯在假面后面露出了微微的笑容，</span><br><span class='scene-font-katari'>慢慢地摆好了架势。</span>
 25,シス/希斯,……よし、それじゃあ始めるか。,……好了，那么开始吧。
 26,シス/希斯,<span class='scene-font-4'>キエエエェェェェーーッ！！</span>,<span class='scene-font-4'>咿耶耶耶耶耶耶ーー！！</span>
 info,,,scene_juttenskin_cp2_q6_s10

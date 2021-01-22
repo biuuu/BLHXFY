@@ -2,14 +2,14 @@ id,name,text,trans
 0-chapter_name,,響く音色は愛おしく,鸣起的音色令人怜爱
 1,,<span class='scene-font-katari'>──……</span>,<span class='scene-font-katari'>──……</span>
 8,,<span class='scene-font-katari'>窮極たる竪琴の極意を習得して、</span><br><span class='scene-font-katari'>更なる力を得た姬塔。</span>,<span class='scene-font-katari'>姬塔习得了穷极之竖琴的极意，</span><br><span class='scene-font-katari'>得到了更上一层楼的力量。</span>
-13,,<span class='scene-font-katari'>ある時、姬塔は、</span><br><span class='scene-font-katari'>十天衆のニオと合奏していた。</span>,<span class='scene-font-katari'>某一天，姬塔和</span><br><span class='scene-font-katari'>十天众的妮欧合奏共演了一曲。</span>
+13,,<span class='scene-font-katari'>ある時、姬塔は、</span><br><span class='scene-font-katari'>十天衆のニオと合奏していた。</span>,<span class='scene-font-katari'>某一天，姬塔和</span><br><span class='scene-font-katari'>十天众的妮欧合奏了一曲。</span>
 14,ニオ/妮欧,…………,…………
-15,,<span class='scene-font-katari'>互いが奏でる旋律に身を委ね、</span><br><span class='scene-font-katari'>忘我の中で弦を爪弾く。永くも短くも</span><br><span class='scene-font-katari'>思える時間はやがて終わり──</span>,<span class='scene-font-katari'>二人委身于对方奏响的旋律里，</span><br><span class='scene-font-katari'>在忘我中拨弄着琴弦。即悠长又短暂的</span><br><span class='scene-font-katari'>时间终将画上休止符──</span>
-20,ニオ/妮欧,姬塔は<br>また演奏が上手になったわ。<br>初めて一緒に演奏した時より、ずっと。,姬塔，<br>演奏又变得更加熟练了呢。<br>与最初一起演奏的时候比起来，进步很多。
-22,ニオ/妮欧,私が思いつきもしない弾き方を<br>するようになって、同じ曲も<br>あの頃とはまるで違って聴こえるの。,已经变得会用连我都想不到<br>的弹法了呢，即使是同一首曲子，<br>和那时候比起来听起来也完全不一样了。
-23,ニオ/妮欧,だけど奏者が貴方だという事はわかる。<br>たとえ目を閉じて聴いても。貴方の<br>芯にあるものは何も変わってないから。,但是我能明白奏者是你。<br>即便我闭上眼睛去聆听也能明白。因为<br>你内心里的东西完全没有改变。
-24,ニオ/妮欧,誰かの旋律が、何かをきっかけに<br>変わってしまうのが怖かったけれど……<br>姬塔、貴方は違う。,虽然我很怕有谁的旋律，<br>会因为什么契机而发生改变……<br>姬塔，你并不会如此。
-25,ニオ/妮欧,どんな力を手に入れても、<br>きっと貴方の旋律は変わらないわ。,不管获得了什么样的力量，<br>你的旋律一定不会有变。
+15,,<span class='scene-font-katari'>互いが奏でる旋律に身を委ね、</span><br><span class='scene-font-katari'>忘我の中で弦を爪弾く。永くも短くも</span><br><span class='scene-font-katari'>思える時間はやがて終わり──</span>,<span class='scene-font-katari'>二人沉浸于对方奏响的旋律里，</span><br><span class='scene-font-katari'>在忘我中拨弄着琴弦。</span><br><span class='scene-font-katari'>悠长又短暂的时间最终迎来结束──</span>
+20,ニオ/妮欧,姬塔は<br>また演奏が上手になったわ。<br>初めて一緒に演奏した時より、ずっと。,姬塔，演奏又变得更加熟练了呢。<br>与最初一起演奏的时候比起来，进步很多。
+22,ニオ/妮欧,私が思いつきもしない弾き方を<br>するようになって、同じ曲も<br>あの頃とはまるで違って聴こえるの。,已经变得会用连我都想不到的弹法，<br>即使是同一首曲子，<br>和那时候比起来听起来也完全不一样了。
+23,ニオ/妮欧,だけど奏者が貴方だという事はわかる。<br>たとえ目を閉じて聴いても。貴方の<br>芯にあるものは何も変わってないから。,但是我能明白奏者是你，<br>即便我闭上眼睛只靠聆听。<br>因为你内心完全没有改变。
+24,ニオ/妮欧,誰かの旋律が、何かをきっかけに<br>変わってしまうのが怖かったけれど……<br>姬塔、貴方は違う。,虽然我很怕别人的旋律，<br>会因为什么契机而发生改变……<br>姬塔，你并不会如此。
+25,ニオ/妮欧,どんな力を手に入れても、<br>きっと貴方の旋律は変わらないわ。,不管获得了什么样的力量，<br>你的旋律一定不会变。
 26,,<span class='scene-font-katari'>そう言うと、ニオは姬塔の胸に</span><br><span class='scene-font-katari'>耳を寄せる。</span>,<span class='scene-font-katari'>这样说着，妮欧将耳朵靠上</span><br><span class='scene-font-katari'>了姬塔的胸前。</span>
 27,ニオ/妮欧,これからも聴かせてほしいな。<br>強く勇敢に成長を続けながら、<br>変わらず優しい貴方の旋律を。,从今往后也希望能给我听呢。<br>成长得又强又勇敢的同时，<br>又不会改变的你的温柔旋律。
 28,ニオ/妮欧,ふふ……<br>こんなにも信じられる人に出会えて<br>私は嬉しい。,呵呵……<br>能遇到如此值得信赖的人，<br>我真的很开心。
