@@ -26,9 +26,9 @@
     "url-search-params": "^1.1.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.9.0",
-    "@babel/polyfill": "^7.9.0",
-    "@babel/preset-env": "^7.9.0",
+    "@babel/core": "^7.12.10",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.12.11",
     "cross-env": "^5.2.0",
     "fs-extra": "^5.0.0",
     "gh-pages": "^2.0.1",
