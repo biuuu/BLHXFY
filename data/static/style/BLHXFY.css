@@ -693,7 +693,13 @@ body .cnt-raid .prt-raid-log {
 .autotrans-hint-blhxfy.google-blhxfy::before {
   content: '(本节使用Google翻译机翻，可通过右上Log-设置关闭)'
 }
-
+.autotrans-hint-blhxfy.translator-blhxfy::before {
+  content: attr(data-text);
+}
+.txt-message .autotrans-hint-blhxfy.translator-blhxfy {
+  color: #8bc34a;
+  font-style: normal;
+}
 .blhxfy-btn-origin-text {
   position: absolute;
   width: 64px;
