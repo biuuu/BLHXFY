@@ -228,7 +228,6 @@ const md5File = async () => {
 
 const start = async () => {
   await fse.emptyDir('./dist/blhxfy/data/')
-  await fse.emptyDir('./dist/gacha/')
   const hash = version
   console.log(hash)
   const date = getDate(8)
