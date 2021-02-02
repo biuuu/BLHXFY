@@ -1,7 +1,7 @@
 .vscode/
 node_modules/
 local/
-data/static/local/
+data/
 dist/
 userData/
 test-script.js
