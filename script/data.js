@@ -207,8 +207,6 @@ const start = async () => {
   console.log('move iframe...')
   await fse.copy('./src/lacia.html', './dist/blhxfy/lacia.html')
 
-  await fse.copy('./src/gacha.html', './dist/gacha/index.html')
-
   await collectBattleNoteId()
 
   await collectStoryId()
