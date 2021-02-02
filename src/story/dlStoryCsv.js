@@ -24,10 +24,14 @@ const dataToCsv = (data, fill, isTrans, isAutoTrans) => {
   const result = []
   const _data = cloneDeep(data)
   _data.forEach(item => {
-    const name = removeTag(item.charcter1_name)
+    let name = removeTag(item.charcter1_name)
     replaceChar('charcter1_name', item, scenarioCache.nameMap, scenarioCache.name)
     const transName = removeTag(item.charcter1_name)
-    const hasTransName = name !== transName
+    let hasTransName = name !== transName
+    if (name && CONFIG.userName === name) {
+      name = CONFIG.defaultName
+      hasTransName = false
+    }
     txtKeys.forEach(key => {
       let txt = item[key]
       let hasName = key === 'detail' && name && name !== 'null'

@@ -162,7 +162,12 @@ const collectNameHtml = (str) => {
 const replaceChar = (key, item, map) => {
   const nameStr = item[key] ? item[key].trim() : ''
   const { name, html } = collectNameHtml(nameStr)
-  let trans = transName(name, [map])
+  let trans
+  if (name && name === config.userName && config.displayName) {
+    trans = config.displayName
+  } else {
+    trans = transName(name, [map])
+  }
   if (trans !== name) {
     if (html) {
       trans = html.replace('$name', trans)
