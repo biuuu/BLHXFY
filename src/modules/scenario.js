@@ -272,8 +272,12 @@ const transStart = async (data, pathname) => {
         } else {
           item[key] = restoreHtml(obj[key], item[key])
         }
-        if (config.showTranslator && key === 'detail' && index === startIndex && transMap.has('translator')) {
-          item[key] = `<a class="autotrans-hint-blhxfy translator-blhxfy" data-text="译者：${transMap.get('translator').detail}"> </a>${item[key]}`
+        if (scenarioCache.hasTrans && config.showTranslator && key === 'detail' && index === startIndex) {
+          let name = '我们仍未知道翻译这篇剧情的骑空士的名字'
+          if (transMap.has('translator')) {
+            name = transMap.get('translator').detail || name
+          }
+          item[key] = `<a class="autotrans-hint-blhxfy translator-blhxfy" data-text="译者：${name}"> </a>${item[key]}`
         }
       }
     })

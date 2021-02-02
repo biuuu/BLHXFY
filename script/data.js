@@ -102,10 +102,12 @@ const collectStoryId = async () => {
           }
         }
         translatorName = arr.join('-')
-        shortList.push({
-          id: 'translator',
-          trans: translatorName
-        })
+        if (translatorName) {
+          shortList.push({
+            id: 'translator',
+            trans: translatorName
+          })
+        }
       }
     }
     if (csvHash) {
