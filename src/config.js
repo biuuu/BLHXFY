@@ -24,6 +24,7 @@ const config = {
   removeScroller: true,
   hideSidebar: false,
   battleTrans: true,
+  showTranslator: true,
   log: false,
   localHash: '',
   transJa: true,
@@ -47,7 +48,7 @@ const getLocalConfig = () => {
     config.origin = 'http://127.0.0.1:15945'
   }
   const keys = [
-    'autoDownload', 'bottomToolbar', 'displayName', 'removeScroller', 'hideSidebar', 'originText', 'storyOnly',
+    'autoDownload', 'bottomToolbar', 'displayName', 'removeScroller', 'hideSidebar', 'originText', 'storyOnly', 'showTranslator',
     'transJa', 'transEn', 'keepBgm', 'font', 'transApi', 'fontBold', 'plainText', 'battleTrans', 'log', 'defaultFont'
   ]
   keys.forEach(key => {

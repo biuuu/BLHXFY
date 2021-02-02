@@ -133,7 +133,7 @@ const getScenario = async (name) => {
       const id = idArr[0]
       const type = idArr[1] || 'detail'
       const obj = transMap.get(id) || {}
-      obj[type] = item.trans ? filter(item.trans.replace(new RegExp(config.defaultName, 'g'), config.displayName || config.userName)) : false
+      // obj[type] = item.trans ? filter(item.trans.replace(new RegExp(config.defaultName, 'g'), config.displayName || config.userName)) : false
       if (item.trans) {
         const rep = new RegExp(config.defaultName, 'g')
         const uname = config.displayName || config.userName
@@ -202,6 +202,7 @@ const transStart = async (data, pathname) => {
   }
   insertToolHtml()
   autoDownloadCsv()
+  const startIndex = getStartIndex(data)
   const scenarioName = sNameTemp
   scenarioCache.data = cloneDeep(data)
   scenarioCache.name = scenarioName
@@ -218,7 +219,6 @@ const transStart = async (data, pathname) => {
       const { nounMap, nounFixMap, caiyunPrefixMap } = await getNounData()
       transMap = new Map()
       const { txtList, infoList } = collectTxt(data)
-      const startIndex = getStartIndex(data)
       const transList = await transMulti(txtList, nameMap, nounMap, nounFixMap, caiyunPrefixMap)
       let transNotice = false
       const transApiName = {
@@ -257,7 +257,7 @@ const transStart = async (data, pathname) => {
     setFont()
   }
 
-  data.forEach((item) => {
+  data.forEach((item, index) => {
     replaceChar('charcter1_name', item, nameMap)
     replaceChar('charcter2_name', item, nameMap)
     replaceChar('charcter3_name', item, nameMap)
@@ -271,6 +271,9 @@ const transStart = async (data, pathname) => {
           <div class="blhxfy-origin-text" data-text='${removeHtmlTag(item[key], 0, true)}'> </div>`
         } else {
           item[key] = restoreHtml(obj[key], item[key])
+        }
+        if (config.showTranslator && key === 'detail' && index === startIndex && transMap.has('translator')) {
+          item[key] = `<a class="autotrans-hint-blhxfy translator-blhxfy" data-text="译者：${transMap.get('translator').detail}"> </a>${item[key]}`
         }
       }
     })

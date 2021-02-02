@@ -131,7 +131,7 @@ const template = `
 			<div class="prt-setting-article">
 				<div class="txt-article-title">剧情CSV文件快捷下载</div>
 				<ul class="txt-article-lead">
-					<li>激活后在 SKIP 的时候自动下载剧情CSV</li>
+					<li>激活后在 SKIP 的时候自动下载剧情CSV（此功能仅供译者使用，这里的下载文件并不是指加载数据）</li>
 				</ul>
 				<div class="prt-button-l">
 					<div>
@@ -168,7 +168,11 @@ const template = `
 						<label for="origin-text-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">原文对照</label>
 					</div>
 					<div style="margin-top:5px;">
-						<input id="log-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'log', this.checked);window.blhxfy.sendEvent('setting', 'fast-mode', event);" type="checkbox" value="" data-post-name="scene_fast_text_mode" name="scene-fast-text-mode">
+						<input id="show-translator-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'show-translator', this.checked);" type="checkbox" value="">
+						<label for="show-translator-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">显示译者</label>
+					</div>
+					<div style="margin-top:5px;">
+						<input id="log-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'log', this.checked);" type="checkbox" value="">
 						<label for="log-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">显示Log</label>
 					</div>
 				</div>
