@@ -77,7 +77,7 @@ const collectStoryId = async () => {
               // await fse.copy(file, `./dist/blhxfy/data/story/${hash}.csv`, {
               //   overwrite: false, errorOnExist: true
               // })
-              // result.push([name, file.replace(/^\.\/data\/scenario\//, ''), `${hash}.csv`])
+              result.push([name, file.replace(/^\.\/data\/scenario\//, ''), `${csvHash}.csv`])
               infoLoaded = true
             } catch (e) {
               console.log(e.message)
