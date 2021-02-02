@@ -34,26 +34,50 @@ const readCsv = async (csvPath, silence) => {
   }
 }
 
+const writeCsv = async (csvPath, list) => {
+  try {
+    const text = CSV.unparse(list)
+    await new Promise((rev, rej) => {
+      fse.writeFile(csvPath, text, (err) => {
+        if (err) rej(err)
+        rev()
+      })
+    })
+  } catch (err) {
+    console.error(`写入csv失败：${err.message}\n${err.stack}`)
+  }
+}
+
 const collectStoryId = async () => {
   console.log('story...')
   const files = await glob.promise('./data/scenario/**/*.csv')
   const chapterName = []
   const titleSet = new Set()
   const result = []
+  await fse.ensureDir('./dist/blhxfy/data/story/')
   const prims = files.map(async file => {
     const list = await readCsv(file)
+    const shortList = []
+    let translatorName = ''
+    let csvHash = ''
     for (let i = list.length - 1; i >= 0; i--) {
       let infoLoaded = false
+      if (list[i].id && list[i].trans && list[i].id !== '译者') {
+        shortList.push({
+          id: list[i].id,
+          trans: list[i].trans
+        })
+      }
       if (!infoLoaded && list[i].id === 'info') {
         if (list[i].trans) {
           const name = list[i].trans.trim()
           if (name) {
             try {
-              const hash = (await md5(file)).slice(0, 7)
-              await fse.copy(file, `./dist/blhxfy/data/story/${hash}.csv`, {
-                overwrite: false, errorOnExist: true
-              })
-              result.push([name, file.replace(/^\.\/data\/scenario\//, ''), `${hash}.csv`])
+              csvHash = (await md5(file)).slice(0, 7)
+              // await fse.copy(file, `./dist/blhxfy/data/story/${hash}.csv`, {
+              //   overwrite: false, errorOnExist: true
+              // })
+              // result.push([name, file.replace(/^\.\/data\/scenario\//, ''), `${hash}.csv`])
               infoLoaded = true
             } catch (e) {
               console.log(e.message)
@@ -70,7 +94,22 @@ const collectStoryId = async () => {
             chapterName.push([title, trans])
           }
         }
+      } else if (list[i].id === '译者') {
+        let arr = []
+        for (let key in list[i]) {
+          if (key !== 'id' && list[i][key]) {
+            arr.push(list[i][key])
+          }
+        }
+        translatorName = arr.join('-')
+        shortList.push({
+          id: 'translator',
+          trans: translatorName
+        })
       }
+    }
+    if (csvHash) {
+      await writeCsv(`./dist/blhxfy/data/story/${csvHash}.csv`, shortList)
     }
   })
   await Promise.all(prims)
