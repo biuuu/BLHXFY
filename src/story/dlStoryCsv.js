@@ -67,6 +67,10 @@ const dataToCsv = (data, fill, isTrans, isAutoTrans) => {
       }
     })
   })
+  let translator = ''
+  if (isTrans && scenarioCache.transMap.has('translator')) {
+    translator = scenarioCache.transMap.get('translator').detail
+  }
   const extraInfo = {
     id: 'info',
     name: '',
@@ -79,7 +83,7 @@ const dataToCsv = (data, fill, isTrans, isAutoTrans) => {
     id: '译者',
     name: '',
     text: '',
-    trans: ''
+    trans: translator
   })
   return CSV.unparse(result)
 }
@@ -89,7 +93,7 @@ export default function (type = 'normal') {
     tryDownload(dataToCsv(scenarioCache.data), scenarioCache.name + '.csv')
   } else if (type === 'trans') {
     if (scenarioCache.hasTrans) {
-      tryDownload(dataToCsv(scenarioCache.data, false, true), scenarioCache.originName || `${scenarioCache.name}.csv`)
+      tryDownload(dataToCsv(scenarioCache.data, false, true), `${scenarioCache.originName || scenarioCache.name}.csv`)
     } else {
       if (scenarioCache.hasAutoTrans) {
         if (confirm('这个章节还没有翻译，是否下载含有机翻文本的文件。')) {

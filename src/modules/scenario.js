@@ -122,7 +122,6 @@ const getScenario = async (name) => {
     if (!pathname) {
       return { transMap: null, csv: '' }
     }
-    scenarioCache.originName = getFilename(pathname)
     csv = await fetchData(`/blhxfy/data/story/${pathname}`)
   }
   const list = parseCsv(csv)
@@ -133,7 +132,6 @@ const getScenario = async (name) => {
       const id = idArr[0]
       const type = idArr[1] || 'detail'
       const obj = transMap.get(id) || {}
-      // obj[type] = item.trans ? filter(item.trans.replace(new RegExp(config.defaultName, 'g'), config.displayName || config.userName)) : false
       if (item.trans) {
         const rep = new RegExp(config.defaultName, 'g')
         const uname = config.displayName || config.userName
@@ -209,8 +207,10 @@ const transStart = async (data, pathname) => {
   scenarioCache.hasTrans = false
   scenarioCache.hasAutoTrans = false
   scenarioCache.transMap = null
-  scenarioCache.originName = ''
   let { transMap, csv } = await getScenario(scenarioName)
+  if (transMap && transMap.has('filename')) {
+    scenarioCache.originName = transMap.get('filename').detail
+  }
   const nameData = await getNameData()
   const nameMap = Game.lang !== 'ja' ? nameData['enNameMap'] : nameData['jpNameMap']
   scenarioCache.nameMap = nameMap

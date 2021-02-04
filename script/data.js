@@ -60,6 +60,10 @@ const collectStoryId = async () => {
     const shortList = []
     let translatorName = ''
     let csvHash = ''
+    shortList.push({
+      id: 'filename',
+      trans: path.basename(file, '.csv')
+    })
     for (let i = list.length - 1; i >= 0; i--) {
       let infoLoaded = false
       if (list[i].id && list[i].trans && list[i].id !== '译者') {
