@@ -1,0 +1,23 @@
+﻿id,name,text,trans
+0-chapter_name,,誓いと祝福をのせて,承载誓言与祝福
+0-synopsis,,星晶獣ミスラを退け、「必ず空の果てへたどり着く」と誓約を述べる姬塔一行。ノアがグランサイファーの復活を祝福し、大きくその手を空にのばすと、どこまでも広がる青空の中に、姬塔一行の元まで駆けつけた、躍動感あふれるグランサイファーの姿があるのだった。,姬塔一行击退了星晶兽密斯拉，发誓「一定会抵达天空尽头」。诺亚为格兰塞法的复活奉上祝福，将手高高地伸向天空，在无边无垠的蓝天中，出现了格兰塞法充满跃动感的身影，向姬塔一行的身边驰骋。
+0,ミスラ/密斯拉,――――,
+2,ノア/诺亚,さぁ……<br>ミスラに誓約を……,那么……<br>向密斯拉起誓……
+3,ラカム/拉卡姆,ああ、誓うぜ……よく聞きな。<br>俺達は必ず空の果てへとたどり着く。<br>そうだろ？　姬塔。,啊啊，我发誓……听好了。<br>我们一定会抵达天空尽头。<br>是吧？姬塔。
+3-sel1_txt,,<span class='scene-font-katari'>グランサイファーと共に</span>,<span class='scene-font-katari'>与格兰塞法一同</span>
+3-sel2_txt,,<span class='scene-font-katari'>みんなで一緒に</span>,<span class='scene-font-katari'>与大家一起</span>
+4,ミスラ/密斯拉,――――,
+9,イオ/伊欧,ねぇ……<br>これでグランサイファーは、<br>また飛べるようになるの？,那……<br>这样格兰塞法就又能飞起来了吗？
+10,ノア/诺亚,ミスラは確かに、誓約を聞き届けたよ。<br>だから、今度は僕の番だ。,誓约确实传达给密斯拉了。<br>所以，现在轮到我了。
+11,ノア/诺亚,生まれ変わったグランサイファーの<br>新たな船出を、<br>艇造りの星晶獣たるこの僕が祝福しよう。,为重获新生的格兰塞法新的出航，<br>身为造船的星晶兽的我来奉上祝福吧。
+14,ノア/诺亚,ふふ……<br>さぁ、ほら、見上げてごらん。,呵呵……<br>来，看吧，抬头看吧。
+17,,<span class='scene-font-katari'>姬塔達が空を見上げると、</span><br><span class='scene-font-katari'>そこには確かに、</span><br><span class='scene-font-katari'>グランサイファーの姿があった。</span>,<span class='scene-font-katari'>姬塔他们抬头看向天空，</span><br><span class='scene-font-katari'>那里确实出现了，</span><br><span class='scene-font-katari'>格兰塞法的身影</span>
+21,ビィ/碧,なっ！？<br>グ、グランサイファーが……,什！？<br>格、格兰塞法……
+22,ノア/诺亚,さぁ、これで必要な儀式は終わり。<br>グランサイファーはもう大丈夫さ。,好了，这样必须的仪式结束了。<br>格兰塞法已经没事了。
+23,ノア/诺亚,君達の絶対の意思による誓約と、<br>艇造りの星晶獣の祝福が、<br>新たな翼となったんだ……,基于你们绝对意志的誓约和<br>造船的星晶兽的祝福，<br>成为了新的翅膀……
+24,ノア/诺亚,きっと……いいや、必ず。<br>グランサイファーは必ず、<br>君達を空の果てへと導くよ。,一定……不，绝对。<br>格兰塞法绝对会引导你们前往天空尽头。
+25,ノア/诺亚,ふふ……<br>今度はこの僕が、<br>そう約束しようじゃないか。,呵呵……<br>这次就由我来保证吧。
+26,,<span class='scene-font-katari'>そう言って、</span><br><span class='scene-font-katari'>満足そうにノアは微笑む。</span>,<span class='scene-font-katari'>说着，</span><br><span class='scene-font-katari'>似乎很满足的诺亚露出微笑。</span>
+27,,<span class='scene-font-katari'>新たな力を得たグランサイファーは、</span><br><span class='scene-font-katari'>躍動感に満ちた様子で、</span><br><span class='scene-font-katari'>悠々と空を進むのだった。</span>,<span class='scene-font-katari'>获得新的力量的格兰塞法，</span><br><span class='scene-font-katari'>充满跃动感的样子悠然向天空前进。</span>
+info,,,scene_ult_chr086_ep1_q2_s20
+译者,,,Antares
