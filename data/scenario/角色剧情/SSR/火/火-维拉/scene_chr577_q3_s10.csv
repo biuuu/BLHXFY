@@ -1,0 +1,69 @@
+id,name,text,trans
+0-chapter_name,,影はひとつに,一影
+0-synopsis,,ヴィーラの言動から、カタリナは過去の出来事を思い出す。士官学校時代、カタリナはヴィーラを卒業式の舞踏会のパートナーに指名していたが、当時の領主の急逝により、それは実現していなかった。今度こそ約束を果たすべくカタリナはヴィーラを舞踏に誘い、ようやくヴィーラの念願が叶う。優雅に踊るふたりの影は、眩い照明の下でひとつになるのだった。,维拉的言语，勾起卡塔莉娜对过去的记忆。士官学校的时侯，卡塔莉娜指明要维拉在毕业舞会上做她的舞伴，可领主的骤然逝世，打乱了一切。卡塔莉娜想着这次一定要兑现诺言，于是邀请了维拉，维拉的愿望终于得以实现。二人迈着优雅的舞步，在炫目的灯光下，她们的身影渐渐重叠。
+1,ヴィーラ/维拉,ふ……,呼……
+2,貴族の男,はぁ……はぁ……,哈……哈……
+3,,<span class='scene-font-katari'>曲の終わりとともに</span><br><span class='scene-font-katari'>ふたりは踊るのをやめ、</span><br><span class='scene-font-katari'>互いに顔を見合わせる。</span>,<span class='scene-font-katari'>一曲终了，</span><br><span class='scene-font-katari'>两人停下脚步，</span><br><span class='scene-font-katari'>看着对方。</span>
+4,貴族の男,まさか、これほどとは……,没想到，这么强烈……
+5,貴族の男,完敗です、ヴィーラ殿。<br>燃え盛る炎のような見事な舞踏でした。,是我输了，维拉阁下。<br>您的舞蹈就像猛烈的火焰。
+6,ヴィーラ/维拉,ありがとうございます。<br>決闘を受けてくださった、<br>貴方の真摯な心に感謝と敬意を。,谢谢。<br>我对接受了决斗的，<br>您的真挚的心表示感谢。并奉上敬意。
+7,貴族の男,感謝するのはこちらの方です。<br>私にとって得難い経験となりました。,要说感谢的应该是我。<br>我也得到了宝贵的经验。
+8,貴族の男,今宵、貴女達に幸福な時間が<br>訪れることを祈っています。,我衷心地祝愿，今晚二位能得到幸福的时光。
+10,,<span class='scene-font-katari'>男は爽やかに笑うと、</span><br><span class='scene-font-katari'>手を振りながら</span><br><span class='scene-font-katari'>人ごみにまぎれていった。</span>,<span class='scene-font-katari'>男人爽快地一笑，</span><br><span class='scene-font-katari'>挥着手，</span><br><span class='scene-font-katari'>混入人群之中。</span>
+11,カタリナ/卡塔莉娜,決闘……？,决斗……？
+12,ヴィーラ/维拉,ふふ。お姉様、<br>覚えていらっしゃいますか？,呵呵，姐姐大人，<br>您还记得吗？
+13,ヴィーラ/维拉,<span class='scene-font-place'>アルビオン</span>では、<br>時にこうして決闘が起きていたことを。,在<span class='scene-font-place'>阿尔比昂</span>，<br>时不时会有这种决斗出现。
+14,ヴィーラ/维拉,譲れぬもののため。<br>舞踏会の相手をかけて。<br>そして、約束を果たすために……,为了不能放弃的事物。<br>押上舞伴。<br>还，为了约定……
+15,カタリナ/卡塔莉娜,…………！,…………！
+16,カタリナ/卡塔莉娜,ヴィーラ、もしかして君は……,维拉，难道说你……
+17,,<span class='scene-font-katari'>何かに気づいた様子の</span><br><span class='scene-font-katari'>カタリナを見て、</span><br><span class='scene-font-katari'>ヴィーラは穏やかに微笑む。</span>,<span class='scene-font-katari'>看着察觉到什么的</span><br><span class='scene-font-katari'>卡塔莉娜，</span><br><span class='scene-font-katari'>维拉轻轻地笑着。</span>
+18,,<span class='scene-font-place'>アルビオン</span><span class='scene-font-katari'>式の敬礼を同時に取り、</span><br><span class='scene-font-katari'>カタリナはヴィーラに手を差し伸べる。</span>,与<span class='scene-font-place'>阿尔比昂</span><span class='scene-font-katari'>式的礼一同，</span><br><span class='scene-font-katari'>卡塔莉娜向维拉伸出手。</span>
+19,カタリナ/卡塔莉娜,……卒業生代表、<br><span class='scene-font-place'>アルビオン</span>総代、カタリナ・アリゼ。<br>今宵の舞踏、貴殿の相手と相成りたく。,……毕业生代表，<br><span class='scene-font-place'>阿尔比昂</span>总代表，卡塔莉娜・亚利泽。<br>今晚的舞会，由我担任您的舞伴。
+20,ヴィーラ/维拉,在校生代表、<span class='scene-font-place'>アルビオン</span>次期総代<br>ヴィーラ・リーリエ。<br>謹んでお受け致します。,在校生代表，<span class='scene-font-place'>阿尔比昂</span>次任总代表<br>维拉・莉莉耶。<br>接受邀请。
+22,,<span class='scene-font-katari'>ヴィーラがカタリナの手を取ると</span><br><span class='scene-font-katari'>ふたりは優雅な所作で</span><br><span class='scene-font-katari'>フロアへと向かう。</span>,<span class='scene-font-katari'>维拉将手搭在卡塔莉娜的手上</span><br><span class='scene-font-katari'>两人迈着优雅的步子</span><br><span class='scene-font-katari'>走向大厅。</span>
+23,,<span class='scene-font-katari'>絢爛な広間に響き渡る音楽。</span><br><span class='scene-font-katari'>そこに、ふたりの靴が奏でる</span><br><span class='scene-font-katari'>ステップの音も加わった。</span>,<span class='scene-font-katari'>音乐回荡在金碧辉煌的大厅中。</span><br><span class='scene-font-katari'>两人的靴子也在叩击着地面</span><br><span class='scene-font-katari'>加入合奏。</span>
+25,カタリナ/卡塔莉娜,こうして、<br>卒業生側から誘うのだったな。,你就这样，<br>把我从毕业生那边邀请过来。
+27,ヴィーラ/维拉,ええ。<br>忘れようはずもありません。,是啊。<br>我怎么会忘记。
+33,カタリナ/卡塔莉娜,卒業式の後の舞踏会なんだが……<br>頼まれてくれるか、ヴィーラ。,毕业后的舞会……<br>能邀请你吗，维拉。
+34,ヴィーラ/维拉,お、お姉様……！,姐姐，姐姐大人……！
+35,ヴィーラ/维拉,そのような重大な役目……<br>私に任せていただいて、<br>本当によろしいのですか？,这么重要的事情……<br>真的可以，<br>交给我吗？
+36,カタリナ/卡塔莉娜,ああ。あの場で<br>仮に私がヘマをしたとして、君なら<br>上手くフォローしてくれるだろう？,嗯。如果舞厅上<br>我跳错了，你也会<br>很快跟上来。
+37,カタリナ/卡塔莉娜,他に頼れる相手もいない……<br>気心知れた君ならと、そう思ったんだ。,其他人也不可靠……<br>如果是对我知根知底的你，就不必忧虑了。
+38,ヴィーラ/维拉,はい……はいっ！<br>お姉様の門出を祝うべく、<br>精一杯、務めさせていただきます！,没……没问题！<br>为了庆祝姐姐崭新的旅程，<br>我会，竭尽全力扮好自己的角色！
+44,ヴィーラ/维拉,ついに……ついに完成した！,终于……终于完成了！
+45,ヴィーラ/维拉,運命の赤い糸で織られた、<br>世界にただひとつのドレス……,由命运的红线织成的，<br>独一无二的长裙……
+46,,<span class='scene-font-katari'>ヴィーラの机の上には、</span><br><span class='scene-font-katari'>ドレスのオーダーに関する</span><br><span class='scene-font-katari'>膨大な量の書類や道具があった。</span>,<span class='scene-font-katari'>维拉的桌子上</span><br><span class='scene-font-katari'>摆着一摞又一摞</span><br><span class='scene-font-katari'>与礼服制作相关的书籍</span>
+47,,<span class='scene-font-katari'>幾多の苦悩を乗り越えて、</span><br><span class='scene-font-katari'>ヴィーラの部屋には一着の</span><br><span class='scene-font-katari'>深紅のドレスが届いていた。</span>,<span class='scene-font-katari'>跨越过诸多苦恼</span><br><span class='scene-font-katari'>一件深红色的礼服，</span><br><span class='scene-font-katari'>被送到维拉的房间里。</span>
+57,ヴィーラ/维拉,このドレスで着飾って、<br>お姉様の晴れ舞台に<br>華を添えられれば……,如果这条长裙能做为点缀，<br>让姐姐大人的华丽舞台<br>更添光彩……
+58,ヴィーラ/维拉,そして、私の想いを──,并且，将我的思绪──
+59,,<span class='scene-font-katari'>しかし、約束は叶わなかった。</span>,<span class='scene-font-katari'>然而，约定没能实现。</span>
+60,,<span class='scene-font-place'>アルビオン</span><span class='scene-font-katari'>領主が急逝し、</span><br><span class='scene-font-katari'>武術大会が開かれた後、</span><br><span class='scene-font-katari'>状況は一変してしまったのだった。</span>,<span class='scene-font-place'>阿尔比昂</span><span class='scene-font-katari'>的领主突然逝世，</span><br><span class='scene-font-katari'>武会结束后，</span><br><span class='scene-font-katari'>状况急转直下。</span>
+67,カタリナ/卡塔莉娜,待ってくれていたんだな。<br>私から誘うのを……,你在等。<br> 我的邀请……
+69,ヴィーラ/维拉,はい……<br>お待ちしておりました。<br>私のわがままですが……,嗯……<br>我已等候多时。<br>虽然这是我的任性……
+70,,<span class='scene-font-katari'>夢のようなひとときに、</span><br><span class='scene-font-katari'>ヴィーラは瞳を潤ませる。</span>,<span class='scene-font-katari'>这梦幻的一刻，</span><br><span class='scene-font-katari'>让维拉的双眼溢出泪水。</span>
+71,ヴィーラ/维拉,お姉様のために選んだドレス……<br>お見せしたかったんです。<br>ずっと……,我一直……<br>想让姐姐大人看看这条，<br>为你选择的长裙……
+72,カタリナ/卡塔莉娜,ああ。<br>とてもよく似合っている。<br>美しいよ。,嗯。<br>非常适合你。<br>真是美。
+73,ヴィーラ/维拉,お姉様……,姐姐大人……
+76,紳士,なんて美しい舞踏だ……！<br>羽でも生えているのか？,多么曼妙的舞蹈……！<br>像是长了翅膀一样。
+77,貴族の男,まるで美しい絵画のようだ……<br>天上の景色とはこのことだな。,就像是画一样……<br>此景只应天上有。
+78,,<span class='scene-font-katari'>ふたりの舞踏はひときわ輝きを放ち、</span><br><span class='scene-font-katari'>周囲の人々は踊るのを忘れて</span><br><span class='scene-font-katari'>見惚れてしまっていた。</span>,<span class='scene-font-katari'>二人的舞蹈绽放出无与伦比的光彩，</span><br><span class='scene-font-katari'>让周围的人忘记自我，</span><br><span class='scene-font-katari'>沉溺其中。</span>
+79,,<span class='scene-font-katari'>豪華絢爛な広間も、</span><br><span class='scene-font-katari'>荘厳な音楽も──</span>,<span class='scene-font-katari'>忘记豪华绚丽的大厅，</span><br><span class='scene-font-katari'>忘记恢宏的乐曲──</span>
+80,,<span class='scene-font-katari'>何もかもが、</span><br><span class='scene-font-katari'>ヴィーラとカタリナのために</span><br><span class='scene-font-katari'>あるかのように輝いている。</span>,<span class='scene-font-katari'>一切的一切，</span><br><span class='scene-font-katari'>仿佛都只为维拉与卡塔莉娜</span><br><span class='scene-font-katari'>而绽放光芒。</span>
+81,,<span class='scene-font-katari'>しかし、ヴィーラの全神経は、</span><br><span class='scene-font-katari'>カタリナのすべてを感じるためだけに</span><br><span class='scene-font-katari'>注がれていた。</span>,<span class='scene-font-katari'>而维拉，则全身心地，</span><br><span class='scene-font-katari'>投入到对卡塔莉娜的</span><br><span class='scene-font-katari'>感知中。</span>
+82,ヴィーラ/维拉,<span class='scene-font-kokoro'>（ああ、お姉様……</span><br><span class='scene-font-kokoro'>こうしていつまでも</span><br><span class='scene-font-kokoro'>踊り続けていたい……）</span>,<span class='scene-font-kokoro'>（啊，姐姐大人……</span><br><span class='scene-font-kokoro'>真想就这样</span><br><span class='scene-font-kokoro'>一直跳下去……）</span>
+84,,<span class='scene-font-katari'>眩い照明の下で、</span><br><span class='scene-font-katari'>ふたりの影は合わさって</span><br><span class='scene-font-katari'>ひとつになっている。</span>,<span class='scene-font-katari'>在炫目的灯光下，</span><br><span class='scene-font-katari'>二人的身影</span><br><span class='scene-font-katari'>重合在一起。</span>
+85,ヴィーラ/维拉,<span class='scene-font-kokoro'>（あの時、伝えたかった言葉は……</span><br><span class='scene-font-kokoro'>もう必要ありませんね）</span>,<span class='scene-font-kokoro'>（那时，想要传递的话语……</span><br><span class='scene-font-kokoro'>已不必赘言）</span>
+87,,<span class='scene-font-katari'>ヴィーラはうっとりと微笑み、</span><br><span class='scene-font-katari'>夢中で踊り続けた。</span>,<span class='scene-font-katari'>维拉迷醉地微笑着，</span><br><span class='scene-font-katari'>沉溺于舞中。</span>
+93,,<span class='scene-font-katari'>やがて演奏が終わり、</span><br><span class='scene-font-katari'>青と赤の舞踏も終わると、</span><br><span class='scene-font-katari'>万雷の拍手がふたりを包み込んだ。</span>,<span class='scene-font-katari'>舞曲最终结束，</span><br><span class='scene-font-katari'>青与红的舞蹈也随之终结，</span><br><span class='scene-font-katari'>掌声如同雷鸣将两人包围。</span>
+94,,<span class='scene-font-katari'>深紅のドレスにまつわる</span><br><span class='scene-font-katari'>数年越しの悲願を叶え、</span><br><span class='scene-font-katari'>満面の笑みを浮かべるヴィーラ。</span>,<span class='scene-font-katari'>持续数年的夙愿，终于实现</span><br><span class='scene-font-katari'>被红裙包裹的维拉</span><br><span class='scene-font-katari'>的脸上满是笑容。</span>
+95,,<span class='scene-font-katari'>周囲から歓声が上がる中、</span><br><span class='scene-font-katari'>ヴィーラは夢見心地で</span><br><span class='scene-font-katari'>カタリナを見つめるのだった。</span>,<span class='scene-font-katari'>在欢声中，</span><br><span class='scene-font-katari'>维拉迷醉地</span><br><span class='scene-font-katari'>看着卡塔莉娜。</span>
+104,,<span class='scene-font-katari'>少女には、</span><br><span class='scene-font-katari'>果たしたかった約束があった。</span>,<span class='scene-font-katari'>少女，</span><br><span class='scene-font-katari'>还有想要实现的约定。</span>
+105,,<span class='scene-font-katari'>そして、狂おしいほど憧れた女性に</span><br><span class='scene-font-katari'>伝えたかった言葉があった。</span>,<span class='scene-font-katari'>还有，想要向那她狂热地憧憬的女性</span><br><span class='scene-font-katari'>传达的话语。</span>
+106,,<span class='scene-font-katari'>とある日記帳には、</span><br><span class='scene-font-katari'>何度も推敲を重ねた痕跡と共に、</span><br><span class='scene-font-katari'>その言葉が記されている。</span>,<span class='scene-font-katari'>在某本日记中，</span><br><span class='scene-font-katari'>那句话与无数揣摩锤炼的痕迹，</span><br><span class='scene-font-katari'>一同被记载在上面。</span>
+107,,<span class='scene-font-katari'>隅に書かれた日付は、</span><br><span class='scene-font-place'>アルビオン</span><span class='scene-font-katari'>領主が急逝する</span><br><span class='scene-font-katari'>数日前のものだった。</span>,<span class='scene-font-katari'>角落里写下的日期，是</span><br><span class='scene-font-place'>阿尔比昂</span><span class='scene-font-katari'>的领主逝世的</span><br><span class='scene-font-katari'>前几天。</span>
+108,ヴィーラ/维拉,──お姉様、このたびは<br>ご卒業おめでとうございます。,──姐姐大人，<br>恭喜你顺利毕业。
+109,ヴィーラ/维拉,少しの間、会えなくなりますが、<br>私もすぐに卒業して<br>お姉様を追いかけますから。,虽说，会有一段时间无法相见，<br>我也会在毕业后，<br>尽快追上姐姐大人。
+110,ヴィーラ/维拉,たとえ卒業しても、<br>この空のどこにいても……<br>私とお姉様は、ずっと一緒です。,即使毕业，<br>无论您在哪里……<br>我也会，一直与姐姐大人在一起。
+111,ヴィーラ/维拉,私の愛するお姉様……<br>これからも、末永く、<br>よろしくお願い致します。,我敬爱的姐姐大人……<br>从今往后，直到永远，<br>也请你多多指教。
+info,,,scene_chr577_q3_s10
+译者,麻友桑的话筒,,
