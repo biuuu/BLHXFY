@@ -1,11 +1,11 @@
 id,name,text,trans
 0-chapter_name,,影はひとつに,一影
-0-synopsis,,舞踏の前の交流会が始まると、ヴィーラは元領主らしい立ち振る舞いを見せつつ、カタリナに話しかけようとする者に先回りして声をかけ、不埒な輩がカタリナに近づかぬよう警戒する。ヴィーラは、今宵のカタリナの舞踏の相手は自分こそが務めると決意を新たにするのだった。,在舞会前的交流会上，作为前领主的维拉四处与人寒暄，一边抢先与想要向卡塔莉娜搭话的人搭话，警戒着不让令人讨厌的男人靠近卡塔莉娜。维拉决心，今晚的舞会上，卡塔莉娜的舞伴一定要是自己。
+0-synopsis,,舞踏の前の交流会が始まると、ヴィーラは元領主らしい立ち振る舞いを見せつつ、カタリナに話しかけようとする者に先回りして声をかけ、不埒な輩がカタリナに近づかぬよう警戒する。ヴィーラは、今宵のカタリナの舞踏の相手は自分こそが務めると決意を新たにするのだった。,在舞会前的交流会上，作为前领主的维拉一边四处与人寒暄，一边抢先与想要向卡塔莉娜搭话的人搭话，警戒着不让令人讨厌的男人靠近卡塔莉娜。维拉再一次下定决心，今晚的舞会，卡塔莉娜的舞伴一定得是自己。
 3,ヴィーラ/维拉,…………,…………
 4,,<span class='scene-font-katari'>姬塔達を付き添いに誘って、</span><br><span class='scene-font-katari'>舞踏会に参加する事になったヴィーラ。</span>,<span class='scene-font-katari'>维拉邀请了姬塔一行人</span><br><span class='scene-font-katari'>前来参加舞会。</span>
 5,ヴィーラ/维拉,…………,…………
-6,,<span class='scene-font-katari'>一行の先頭に立って、</span><br><span class='scene-font-katari'>控室からホールまでの廊下を歩く。</span>,<span class='scene-font-katari'>她走在一行人前头</span><br><span class='scene-font-katari'>从控制室走向大厅。</span>
-7,,<span class='scene-font-katari'>その胸の中には、</span><br><span class='scene-font-katari'>忘れられぬ思い出が渦巻いていた──</span>,<span class='scene-font-katari'>在她心中，</span><br><span class='scene-font-katari'>难以忘怀的记忆卷起漩涡──</span>
+6,,<span class='scene-font-katari'>一行の先頭に立って、</span><br><span class='scene-font-katari'>控室からホールまでの廊下を歩く。</span>,<span class='scene-font-katari'>她走在一行人前头</span><br><span class='scene-font-katari'>从准备室走向走廊。</span>
+7,,<span class='scene-font-katari'>その胸の中には、</span><br><span class='scene-font-katari'>忘れられぬ思い出が渦巻いていた──</span>,<span class='scene-font-katari'>难以忘怀的记忆，</span><br><span class='scene-font-katari'>在她的内心卷起漩涡──</span>
 13,ヴィーラ/维拉,お姉様、舞踏会お疲れ様でした。<br>拍手喝采でしたね。<br>さすがはお姉様です。,姐姐大人，舞会辛苦了。<br>大家都拍手叫好。<br>不愧是姐姐大人。
 14,カタリナ/卡塔莉娜,はは、あれは君に向けてのものだろう？<br>私のつたないダンスでは<br>ああはならないさ。,哈哈，那是给你的喝彩吧？<br>以我这样拙劣的舞技，<br>是得不到那样的喝彩的。
 15,ヴィーラ/维拉,いえ、私など……<br>お姉様の美しさを引き立てるための<br>飾りにすぎません。,不，我这种……<br>不过是为了衬托姐姐大人的<br>装饰罢了。
@@ -13,63 +13,63 @@ id,name,text,trans
 17,,<span class='scene-font-katari'>祭りが終わり、後片付けが済むと、</span><br><span class='scene-font-katari'>校内は先程までの喧騒が</span><br><span class='scene-font-katari'>嘘のように静まり返っていた。</span>,<span class='scene-font-katari'>祭典结束，收拾妥当之后，</span><br><span class='scene-font-katari'>先前喧闹的校园，</span><br><span class='scene-font-katari'>又恢复了一片寂静。</span>
 18,ヴィーラ/维拉,改めて、ありがとうございました。<br>聖騎士祭のダンスの相手を<br>引き受けてくださって……,您接受了在圣骑士祭上做我的舞伴的请求，<br>为此，我要再一次感谢您……
 19,カタリナ/卡塔莉娜,それはこちらの台詞だ。<br>選んでもらえて光栄だったよ。,哪里哪里。<br>被选中是我的荣幸。
-20,カタリナ/卡塔莉娜,だが、しばらくは恨まれるだろうな。<br>君の相手に立候補した者同士での<br>決闘まで起きたという話じゃないか。,但是，我也会被记恨一段时间吧。<br>传言说为了与你共舞一曲的人<br>都排成了队甚至打了起来。
-21,ヴィーラ/维拉,私達の姿を見て、<br>私の相手はお姉様以外にいないと<br>おわかりいただけたはずです。,看了我们两个人的身影，<br>他们也应该明白我的舞伴<br>只有姐姐大人一人。
-22,カタリナ/卡塔莉娜,そう言ってもらえて光栄だが……<br>私は君の足を<br>引っ張ってはいなかったか？,你这么说我很开心，但……<br>我不会<br>成为你的绊脚石吗？
+20,カタリナ/卡塔莉娜,だが、しばらくは恨まれるだろうな。<br>君の相手に立候補した者同士での<br>決闘まで起きたという話じゃないか。,但是，我也会被记恨一段时间吧。<br>传言说，为了与你共舞一曲<br>他们甚至都打了起来。
+21,ヴィーラ/维拉,私達の姿を見て、<br>私の相手はお姉様以外にいないと<br>おわかりいただけたはずです。,看了我们两个人的身影，<br>他们就应该明白我的舞伴<br>只有姐姐大人一人。
+22,カタリナ/卡塔莉娜,そう言ってもらえて光栄だが……<br>私は君の足を<br>引っ張ってはいなかったか？,你这么说我很开心，但……<br>我不会<br>拖你后腿吗？
 23,ヴィーラ/维拉,まさか、そんな……<br>夢だとしても出来過ぎな程の、<br>幸福なひとときでした……,怎么会，不会的……<br>即使是梦中，也不会<br>有比那更幸福的时光……
-24,カタリナ/卡塔莉娜,ふふ、そうか。<br>ヴィーラにそう言ってもらえて<br>良かったよ。,呵呵，是吗。<br>维拉这么说的话，<br>就好。
-25,カタリナ/卡塔莉娜,最後の聖騎士祭……<br>私にとっても良い思い出になった。<br>本当にありがとう。,最后的圣骑士祭……<br>是对我来说很好的回忆。<br>真的谢谢你。
+24,カタリナ/卡塔莉娜,ふふ、そうか。<br>ヴィーラにそう言ってもらえて<br>良かったよ。,呵呵，是吗。<br>能被维拉如此称赞<br>我很开心。
+25,カタリナ/卡塔莉娜,最後の聖騎士祭……<br>私にとっても良い思い出になった。<br>本当にありがとう。,最后的圣骑士祭……<br>对我来说也是很棒的回忆。<br>真的谢谢你。
 26,ヴィーラ/维拉,…………！,…………！
-27,ヴィーラ/维拉,<span class='scene-font-kokoro'>（……そう。</span><br><span class='scene-font-kokoro'>次の聖騎士祭の頃には、</span><br><span class='scene-font-kokoro'>もうお姉様はいらっしゃらない……）</span>,<span class='scene-font-kokoro'>（……啊。</span><br><span class='scene-font-kokoro'>下次的圣骑士祭，</span><br><span class='scene-font-kokoro'>姐姐大人已经不在了……）</span>
+27,ヴィーラ/维拉,<span class='scene-font-kokoro'>（……そう。</span><br><span class='scene-font-kokoro'>次の聖騎士祭の頃には、</span><br><span class='scene-font-kokoro'>もうお姉様はいらっしゃらない……）</span>,<span class='scene-font-kokoro'>（……啊。</span><br><span class='scene-font-kokoro'>来年的圣骑士祭，</span><br><span class='scene-font-kokoro'>姐姐大人已不在此处……）</span>
 28,ヴィーラ/维拉,<span class='scene-font-kokoro'>（……じきにお姉様は</span><br><span class='scene-font-place'>アルビオン</span><span class='scene-font-kokoro'>を卒業される……</span><br><span class='scene-font-kokoro'>私はお姉様と、離れ離れに……）</span>,<span class='scene-font-kokoro'>（……很快姐姐大人就会从</span><br><span class='scene-font-place'>阿尔比昂</span><span class='scene-font-kokoro'>毕业……</span><br><span class='scene-font-kokoro'>我和姐姐大人，就要天各一方……）</span>
 34,大臣,ほう、あのヴィーラ殿が<br>騎空士に！,哦，维拉阁下居然成了骑空士！
-35,ヴィーラ/维拉,……ええ。<br>今は騎空団に所属していて、<br>空から空へと駆ける日々です。,……嗯。<br>现在所属于骑空团，<br>过着从一片天空到另一片天空的日子。
+35,ヴィーラ/维拉,……ええ。<br>今は騎空団に所属していて、<br>空から空へと駆ける日々です。,……嗯。<br>现在从属于骑空团，<br>过着在天空中漂泊的日子。
 36,ヴィーラ/维拉,こちらが姬塔です。<br>武勇に優れ、人望にも厚い、<br>とても頼りになる方です。,这位是姬塔。<br>英勇优秀，人望也高，<br>是很值得依靠的人。
 37,大臣,おお、貴方が姬塔殿！<br>お初にお目にかかります。<br>ご高名はかねがね……,哦，您就是姬塔阁下！<br>初次见面。<br>久仰大名……
-38,,<span class='scene-font-katari'>深々とお辞儀をする大臣に、</span><br><span class='scene-font-katari'>姬塔もあわてて礼を返す。</span><br><span class='scene-font-katari'>手にしたグラスの水が大きく揺れた。</span>,<span class='scene-font-katari'>面对深深地行礼的大臣</span><br><span class='scene-font-katari'>姬塔也慌慌张张地行礼。</span><br><span class='scene-font-katari'>酒杯中的水摇摇晃晃。</span>
-39,,<span class='scene-font-katari'>城の広間では立食パーティーが</span><br><span class='scene-font-katari'>始まっており、上品な雰囲気の中で</span><br><span class='scene-font-katari'>人々が交流を図っている。</span>,<span class='scene-font-katari'>城中的大厅里，</span><br><span class='scene-font-katari'>酒会开演，在高级的气氛中</span><br><span class='scene-font-katari'>人们互相交谈。</span>
-40,,<span class='scene-font-katari'>舞踏会は２部制で、</span><br><span class='scene-font-katari'>１部は飲食を楽しみ、</span><br><span class='scene-font-katari'>２部で舞踏を行う予定になっていた。</span>,<span class='scene-font-katari'>舞会分为两部分，</span><br><span class='scene-font-katari'>一部分用于享受饮食，</span><br><span class='scene-font-katari'>一部分用于举办舞蹈。</span>
-41,ビィ/碧,さっきのが大臣で、<br>あと話したのは貴族と豪商と……<br>なんだかお偉いさんばっかりだな。,刚刚的大臣，<br>还有贵族和富商……<br>感觉都是很牛的人啊。
-42,ルリア/露莉亚,ヴィーラさん、かっこいいです！<br>な、なんだかすごい場所なのに<br>いつもと全然かわらなくて……,维拉姐，好酷啊！<br>这，这儿明明是很厉害的地方<br>却和平常没有改变……
+38,,<span class='scene-font-katari'>深々とお辞儀をする大臣に、</span><br><span class='scene-font-katari'>姬塔もあわてて礼を返す。</span><br><span class='scene-font-katari'>手にしたグラスの水が大きく揺れた。</span>,<span class='scene-font-katari'>面对深深地行礼的大臣</span><br><span class='scene-font-katari'>姬塔也慌慌张张地回礼。</span><br><span class='scene-font-katari'>她手中拿着的酒杯中的水摇摇晃晃。</span>
+39,,<span class='scene-font-katari'>城の広間では立食パーティーが</span><br><span class='scene-font-katari'>始まっており、上品な雰囲気の中で</span><br><span class='scene-font-katari'>人々が交流を図っている。</span>,<span class='scene-font-katari'>城中的大厅中，</span><br><span class='scene-font-katari'>酒会开场。在上层社会的气氛中</span><br><span class='scene-font-katari'>人们互相交谈。</span>
+40,,<span class='scene-font-katari'>舞踏会は２部制で、</span><br><span class='scene-font-katari'>１部は飲食を楽しみ、</span><br><span class='scene-font-katari'>２部で舞踏を行う予定になっていた。</span>,<span class='scene-font-katari'>舞会分为两部分，</span><br><span class='scene-font-katari'>一部分用于享受饮食，</span><br><span class='scene-font-katari'>一部分用于举办舞会。</span>
+41,ビィ/碧,さっきのが大臣で、<br>あと話したのは貴族と豪商と……<br>なんだかお偉いさんばっかりだな。,刚刚的大臣，<br>还有贵族和富商……<br>感觉都是很厉害的人啊。
+42,ルリア/露莉亚,ヴィーラさん、かっこいいです！<br>な、なんだかすごい場所なのに<br>いつもと全然かわらなくて……,维拉姐，你好酷啊！<br>在，在这种看起来就很厉害的场合，<br>也和平常一样……
 43,カタリナ/卡塔莉娜,ああ。まったく大したものだよ。<br>この錚々たる顔ぶれに<br>気後れすることはないのか？,嗯。真是不得了。<br>面对这些威风八面的人<br>你不会胆怯吗？
 44,ヴィーラ/维拉,ふふ。お褒めに預かり光栄です。,呵呵。得到您的夸赞我很是荣幸。
 45,ルリア/露莉亚,…………,…………
-46,,<span class='scene-font-katari'>カタリナに褒められるヴィーラを見て</span><br><span class='scene-font-katari'>ルリアの表情が少し変わったように</span><br><span class='scene-font-katari'>姬塔は感じた。</span>,<span class='scene-font-katari'>姬塔感觉到露莉亚看着</span><br><span class='scene-font-katari'>被卡塔莉娜夸赞的维拉时</span><br><span class='scene-font-katari'>脸上的表情有些许改变。</span>
+46,,<span class='scene-font-katari'>カタリナに褒められるヴィーラを見て</span><br><span class='scene-font-katari'>ルリアの表情が少し変わったように</span><br><span class='scene-font-katari'>姬塔は感じた。</span>,<span class='scene-font-katari'>姬塔感觉到露莉亚在看着</span><br><span class='scene-font-katari'>被卡塔莉娜夸赞的维拉时</span><br><span class='scene-font-katari'>脸上的表情有些许改变。</span>
 47,ルリア/露莉亚,わ、私もキオクレ、しませんから！<br>カタリナに昔、色々教わりましたもん！,我，我也不会心生胆怯！<br>毕竟，卡塔莉娜，以前教过我很多！
 48,ルリア/露莉亚,えっと、まず挨拶をするときは、<br>背筋は伸ばしたまま、<br>足を後ろに引いて……,嗯，首先是打招呼的时候，<br>要把背挺直，<br>脚向后移……
 49,カタリナ/卡塔莉娜,ふふ、ばっちりじゃないか。<br>だが、ヒールで裾を踏まないように<br>気を付けるんだぞ？,哈哈，不是做得很好吗。<br>但是，要小心鞋跟不要踩到衣裙哦？
 50,ルリア/露莉亚,うん、カタリナっ！,嗯，卡塔莉娜！
-51,,<span class='scene-font-katari'>そんなやりとりをしていると</span><br><span class='scene-font-katari'>ホールの一角で小さく声が上がる。</span>,<span class='scene-font-katari'>正在他们说话间</span><br><span class='scene-font-katari'>大厅的一隅响起声音。</span>
+51,,<span class='scene-font-katari'>そんなやりとりをしていると</span><br><span class='scene-font-katari'>ホールの一角で小さく声が上がる。</span>,<span class='scene-font-katari'>正在他们说话间</span><br><span class='scene-font-katari'>大厅的一隅有声音传来。</span>
 52,ヴィーラ/维拉,…………,…………
 53,,<span class='scene-font-katari'>見れば、ヴィーラを舞踏会に招いた</span><br><span class='scene-font-katari'>主賓が登場したようだった。</span>,<span class='scene-font-katari'>看过去，是维拉为舞会请来的</span><br><span class='scene-font-katari'>嘉宾到场了。</span>
 54,ヴィーラ/维拉,すみません、お姉様。<br>私は少々、挨拶回りに……,对不起，姐姐大人。<br>我，要去打个招呼……
 55,カタリナ/卡塔莉娜,ああ、わかった。<br>こちらは任せてくれ。,啊，知道了。<br>这边就交给我吧。
 56,ヴィーラ/维拉,はい。<br>では、行ってまいります。,好。<br>那，我去了。
 62,ヴィーラ/维拉,…………,…………
-63,,<span class='scene-font-katari'>姬塔達と離れたヴィーラは、</span><br><span class='scene-font-katari'>参加者と交流しつつ、警戒するように</span><br><span class='scene-font-katari'>カタリナの周囲に視線を送っていた。</span>,<span class='scene-font-katari'>离开姬塔一行人的维拉，</span><br><span class='scene-font-katari'>一边与客人们交谈，一边</span><br><span class='scene-font-katari'>将警戒的视线送到卡塔莉娜身边。</span>
+63,,<span class='scene-font-katari'>姬塔達と離れたヴィーラは、</span><br><span class='scene-font-katari'>参加者と交流しつつ、警戒するように</span><br><span class='scene-font-katari'>カタリナの周囲に視線を送っていた。</span>,<span class='scene-font-katari'>离开姬塔一行人的维拉，</span><br><span class='scene-font-katari'>一边与客人们交谈，一边</span><br><span class='scene-font-katari'>警戒地看着卡塔莉娜的周围。</span>
 64,紳士,あの青いドレスの方は……！<br>なんとお美しい……<br>ぜひお近づきになりたいものだ……,那名身着蓝裙的女性……！<br>多么美丽……<br>真想到她身边……
 65,ヴィーラ/维拉,<span class='scene-font-kokoro'>（あの男……！</span><br><span class='scene-font-kokoro'>お姉様に不躾な視線を……）</span>,<span class='scene-font-kokoro'>（那男人……！</span><br><span class='scene-font-kokoro'>竟然用那种眼神看姐姐大人……）</span>
 68,ヴィーラ/维拉,ごきげんよう。<br>お初にお目にかかります。<br>私、ヴィーラ・リーリエと申します。,晚上好。<br>初次见面。<br>我叫维拉・莉莉耶。
-69,紳士,ん……？<br>おお、もしや<span class='scene-font-place'>アルビオン</span>前領主の……<br>お会いできて光栄です。,嗯……？<br>哦，难道说<span class='scene-font-place'>阿尔比昂</span>的前领主……<br>能见到您不胜荣幸。
+69,紳士,ん……？<br>おお、もしや<span class='scene-font-place'>アルビオン</span>前領主の……<br>お会いできて光栄です。,嗯……？<br>哦，难道说，是<span class='scene-font-place'>阿尔比昂</span>的前领主……<br>能见到您不胜荣幸。
 70,ヴィーラ/维拉,<span class='scene-font-kokoro'>（不埒な輩に、</span><br><span class='scene-font-kokoro'>お姉様を誘う機会など与えない……）</span>,<span class='scene-font-kokoro'>（我不会给这种不端庄的男人</span><br><span class='scene-font-kokoro'>邀请姐姐大人的机会……）</span>
-71,ヴィーラ/维拉,<span class='scene-font-kokoro'>（お姉様のお相手は私……</span><br><span class='scene-font-kokoro'>そうですよね？　お姉様……）</span>,<span class='scene-font-kokoro'>（姐姐大人的舞伴是我……</span><br><span class='scene-font-kokoro'>没错吧？　姐姐大人……）</span>
+71,ヴィーラ/维拉,<span class='scene-font-kokoro'>（お姉様のお相手は私……</span><br><span class='scene-font-kokoro'>そうですよね？　お姉様……）</span>,<span class='scene-font-kokoro'>（姐姐大人的舞伴是我……</span><br><span class='scene-font-kokoro'>对吧？　姐姐大人……）</span>
 72,,<span class='scene-font-katari'>カタリナに話しかけようとする者に、</span><br><span class='scene-font-katari'>先回りして話しかけるヴィーラ。</span>,<span class='scene-font-katari'维拉抢先向想要向</span><br><span class='scene-font-katari'>卡塔莉娜搭话的人搭话了。</span>
 73,,<span class='scene-font-katari'>しかし、ヴィーラが会話している隙に、</span><br><span class='scene-font-katari'>カタリナに声を掛ける男が現れる。</span>,<span class='scene-font-katari'>然而，就在维拉谈话的时候，</span><br><span class='scene-font-katari'>出现了向卡塔莉娜搭话的男人。</span>
 74,貴族の男,麗しきお嬢様……<br>私、スペンス・ペルムという者です。,小姐您太美了……<br>我，叫史密斯・贝尔姆。
 75,貴族の男,この城の近隣で領主を務めております。<br>以後、どうかお見知りおきください。,是阿尔比昂附近的领主。<br>还请交个朋友。
 76,カタリナ/卡塔莉娜,これは、ご丁寧に……<br>カタリナ・アリゼと申します。<br>騎空士を務めている者です。,嗳，您这么客气……<br>我叫卡塔莉娜・阿利泽。<br>是一名骑空士。
-77,貴族の男,なんと、あのアリゼ家の！<br>剣の名門とお聞きしますが<br>カタリナ嬢も剣を？,居然，是阿利泽家的！<br>是剑术名门<br>卡塔莉娜小姐也带着剑吗？
+77,貴族の男,なんと、あのアリゼ家の！<br>剣の名門とお聞きしますが<br>カタリナ嬢も剣を？,居然，是阿利泽家的！<br>听说家中是剑术名门，<br>卡塔莉娜小姐也使剑？
 78,ルリア/露莉亚,はいっ！<br>カタリナはとっても強いんです！<br>あ、えっと、私はルリアです！,嗯！<br>卡塔莉娜很厉害的！<br>啊，呃，我是露莉亚！
 79,,<span class='scene-font-katari'>姬塔も自己紹介し、</span><br><span class='scene-font-katari'>自分達が騎空団の仲間だと話す。</span>,<span class='scene-font-katari'>姬塔也介绍过自己后</span><br><span class='scene-font-katari'>解释说他们是骑空团的伙伴。</span>
 80,貴族の男,なるほど……<br>強さと美しさを併せ持たれていると。<br>なんと素敵なお方だろうか……,原来如此……<br>美丽又强大。<br>多么完美的人……
 82,ヴィーラ/维拉,お話中に失礼いたします、<br>ペルム卿。,抱歉中途插话，<br>贝尔姆卿。
 83,貴族の男,ヴィーラ殿……！<br>お元気そうで何よりです。<br>晩餐会でお会いして以来になりますか。,维拉阁下……！<br>您精神百倍真是太好了。<br>自晚餐会就没有见过了吧
-84,ヴィーラ/维拉,ええ、まだ私が<br><span class='scene-font-place'>アルビオン</span>の領主だった頃に。<br>お久しぶりです。,是啊，那还是我做<br><span class='scene-font-place'>阿尔比昂</span>领主的时候。<br>好久不见了。
+84,ヴィーラ/维拉,ええ、まだ私が<br><span class='scene-font-place'>アルビオン</span>の領主だった頃に。<br>お久しぶりです。,是啊，那时我还是<br><span class='scene-font-place'>阿尔比昂</span>的领主。<br>好久不见了。
 85,ヴィーラ/维拉,私の所属する騎空団の面々と共に<br>いらしたので、<br>ご挨拶に伺う良き機会かと思い……,看着你和我所属的骑空团的各位<br>在说话，就想着这是向你<br>打招呼的再好不过的机会……
 86,貴族の男,なんと……！<br>では、こちらの方々が……,这样吗……！<br>那么，这边的各位……
 87,ヴィーラ/维拉,はい。今の私にとって、<br>家族のような存在で──,嗳。对于现在的我来说<br>是家人一般的存在──
 88,ヴィーラ/维拉,<span class='scene-font-kokoro'>（少し目を離した隙に……</span><br><span class='scene-font-kokoro'>お姉様の美しさを考えれば、</span><br><span class='scene-font-kokoro'>仕方のないことですが……）</span>,<span class='scene-font-kokoro'>（只是稍稍没有注意……</span><br><span class='scene-font-kokoro'>不过考虑到姐姐大人的美丽</span><br><span class='scene-font-kokoro'>这也是没有办法的……）</span>
-89,ヴィーラ/维拉,<span class='scene-font-kokoro'>（しかし、今日ばかりは、</span><br><span class='scene-font-kokoro'>邪魔者を近づけるわけには……）</span>,<span class='scene-font-kokoro'>（只是，今天</span><br><span class='scene-font-kokoro'>不能让人打扰……）</span>
-90,,<span class='scene-font-katari'>ヴィーラはにこやかに喋りつつ、</span><br><span class='scene-font-katari'>決意を新たにするのだった。</span>,<span class='scene-font-katari'>维拉就这样一边说着，</span><br><span class='scene-font-katari'>下定了决心。</span>
+89,ヴィーラ/维拉,<span class='scene-font-kokoro'>（しかし、今日ばかりは、</span><br><span class='scene-font-kokoro'>邪魔者を近づけるわけには……）</span>,<span class='scene-font-kokoro'>（只是，唯独今天</span><br><span class='scene-font-kokoro'>不能让人打扰……）</span>
+90,,<span class='scene-font-katari'>ヴィーラはにこやかに喋りつつ、</span><br><span class='scene-font-katari'>決意を新たにするのだった。</span>,<span class='scene-font-katari'>维拉就这样笑谈着，</span><br><span class='scene-font-katari'>再一次下了决心。</span>
 info,,,scene_chr577_q1_s10
 译者,麻友桑的话筒,,
