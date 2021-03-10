@@ -679,7 +679,7 @@ raid/,召喚石情報,召唤石信息,
 /setting/content/index/useful,※SSレア以外のキャラクター・装備と入れ替えを行う場合、上位のレアリティも絞り込み対象となります,※对SSR以外的角色·装备进行替换时，其上位稀有度也会成为筛选对象。,
 /setting,購入金額通知機能の表示設定,购入金额通知功能的显示设置,2
 /setting,毎月、一定額以上のモバコインを使用した場合に、その旨のポップアップを表示できます,每月使用了一定数额以上的moba硬币时，使用弹出窗口通知此事,
-/setting,表示する,显示,3
+/setting,表示する,显示,6
 /setting,今日からはじめるグラブルアイコンの非表示,不显示“今天开始玩碧蓝”图标,
 /setting,「今日からはじめるグラブル」アイコンを非表示にします,不显示“今天开始玩碧蓝”图标,
 /setting,アイコンの非表示設定,不显示图标的设置,
@@ -767,6 +767,11 @@ raid/,召喚石情報,召唤石信息,
 /setting,マイページ設定,主页设置,
 /setting,ボタン設定,按钮设置,
 /setting,マイページにおける「強化」「共闘」「マルチバトルリスト」ボタンの表示を切り替えます,切换主页上显示的“强化”“共斗”和“多人战列表”按钮,
+/setting/content/index/mypage,マイページにおける「目標設定」「スカイスコープ」の表示を切り替えます,切换主页上显示的“目标设定”和“任务”按钮,
+/setting/content/index/mypage,両方显示,两个都显示,
+/setting/content/index/mypage,スカイスコープのみ表示,仅显示任务,
+/setting/content/index/mypage,両方表示しない,两个都不显示,
+/setting/content/index/mypage,マイページにおける「マイページ表示キャラ設定ボタン」の表示を切り替えます,切换主页上显示的“mypage显示角色设定”按钮,
 /setting,マイページのBGM設定,主页BGM设置,
 /setting,マイページに表示しているキャラクターやスキンに専用のBGMが設定されている場合、専用BGMを再生するかどうか設定します,设置主页上显示的角色或皮肤带有专用BGM的场合是否播放专用BGM,
 /setting,専用BGMを再生,播放专用BGM,
@@ -911,6 +916,7 @@ raid/,召喚石情報,召唤石信息,
 /enhancement_weapon/content,素材を選択してください（最大20個）,请选择素材（最大20个),
 /enhancement_weapon/content,素材にできる武器がありません,没有可作为素材的武器,
 /enhancement_weapon/content/material,素材武器を選択してください,请选择素材武器,5
+/enhancement_weapon/content,育成アイテムを使用できます,可使用育成道具
 /party/content/set_poses,スキン・POSE切り替え,皮肤·POSE切换,
 /party/content/set_poses,スキンを選択してください,请选择皮肤,
 /party/content/set_poses,推しキャラTwitter投稿画像,喜爱角色Twitter投稿画像,
