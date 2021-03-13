@@ -1,0 +1,9 @@
+id,name,detail
+npc,秋罗,3040273000
+special,苍华风刃,<div class=prt-text-small>水属性伤害(极大)/自身获得苍华效果<br><span class=text-blue>◆</span></div>
+skill-1,战术策：宝典,<div class=prt-text-small>我方全体攻击力UP/水属性攻击力UP<br><span class=text-blue>◆奥义值120%以上时，变为「战术策：舜典」</span></div>
+skill-戦術策：舜典,战术策：舜典,<div class=prt-text-small>我方全体攻击力UP/水属性攻击力UP/攻击UP<br><span class=text-blue>
+skill-2,苍丽的策略,<div class=prt-text-small>自身获得武成</div>
+skill-3,零舞枪,<div class=prt-text-small>消耗一半现在的奥义值，对敌方全体造成水属性伤害/攻防DOWN(累积)<br><span class=text-blue>◆根据消耗的奥义值对应发动次数UP</span></div>
+support-1,征道之书,奥义最大值200/奥义上升量DOWN/对火属性伤害上限UP
+support-2,战志之书,苍华效果中，必TA/水属性追击<br><span class=text-blue>◆每回合消耗30%奥义值维持苍华效果</span>

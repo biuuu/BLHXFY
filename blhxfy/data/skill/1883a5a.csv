@@ -1,0 +1,17 @@
+﻿id,name,detail
+npc,优希斯,3040105000
+special,破煌刃・星薙,<div class=prt-text-small>风属性伤害(特大)侠气Lv上升/获得吸血效果</div>
+special-破煌刃・天終,破煌刃・天终,<div class=prt-text-small>风属性伤害(特大)侠气Lv上升/获得20%风属性追击效果</div>
+special-Skyblade Heavensbane,破煌刃・天终,<div class=prt-text-small>风属性伤害(特大)侠气Lv上升/获得20%风属性追击效果</div>
+skill-1,坚定信念,切换为天终之型
+skill-不忠への報い,惩戒不忠,切换为星薙之型
+skill-No Regrets,惩戒不忠,切换为星薙之型
+skill-2,杯之庇护,获得守护效果/减免70%全属性伤害◆消耗20%奥义值
+skill-一刀専心,一刀专心,自身获得一刀专心效果(1次/无法驱散)◆消耗20%最大HP
+skill-Ardent Blade,一刀专心,自身获得一刀专心效果(1次/无法驱散)◆消耗20%最大HP
+skill-3,叛意即斩,自身获得反击效果(受伤时/2次)
+skill-仇花散華,仇花散华,自身必定二连击
+skill-Unfettered,仇花散华,自身必定二连击
+support-1,迪特利亚流剑术・星薙式,<div class=prt-text-small>星薙之型下防御UP/敌对心UP<span class=text-blue>◆根据侠气Lv奥义值上升量UP/回复性能UP</span></div>
+support-2,迪特利亚流剑术・天终式,<div class=prt-text-small>天终之型下攻击UP/敌对心DOWN<span class=text-blue>◆根据侠气Lv奥义伤害UP/奥义上限UP</span></div>
+skill-lb,LB技能,切换姿态时侠气Lv有概率上升

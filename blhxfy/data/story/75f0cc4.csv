@@ -1,0 +1,79 @@
+id,trans
+filename,scene_chr605_q3_s10
+translator,SETSU_XY
+info,scene_chr605_q3_s10
+101,<span class='scene-font-katari'>后来，直到太阳落山为止</span><br><span class='scene-font-katari'>斯特姆与姬塔</span><br><span class='scene-font-katari'>都在四处逛街。</span>
+100,……也行。
+99,什么……？<br>前面有烧烤店……？
+98,这种话，<br>刚才才咖啡厅怎么不说……
+97,算了。走吧。
+96,……非得去了才知道？<br>怎么了，支支吾吾的……
+95,衣服……？<br>不够穿了？
+94-sel2_txt,<span class='scene-font-katari'>想去摊位随便吃点什么</span>
+94-sel1_txt,<span class='scene-font-katari'>想去看看衣服</span>
+94,想去哪？<br>选你喜欢的就行。
+93,只要是打折的店，<br>去哪家都对任务没有影响。
+87,小事一桩～<br>毕竟，<br>要是就此结束可太无趣了。
+86,不、不算什么。<br>还是多亏了德朗克<br>用风之魔法送达……
+85,还好塔妮亚<br>捡了那张地图……
+84,千、千钧一发……
+79,<span class='scene-font-katari'>斯特姆捡起的纸，</span><br><span class='scene-font-katari'>是当时菲娜本打算给她的</span><br><span class='scene-font-katari'>商业街的打折地图。</span>
+78,姬塔，那边有正在促销的店。<br>我带你去。
+77,<span class='scene-font-kokoro'>（这、这是……！）</span>
+76,<span class='scene-font-katari'>斯特姆无意中捡起后……</span>
+75,<span class='scene-font-katari'>此时，一张纸片</span><br><span class='scene-font-katari'>飘落到脚边。</span>
+74,<span class='scene-font-kokoro'>（唔……！</span><br><span class='scene-font-kokoro'>当时收下该多好……）</span>
+71,<span class='scene-font-4'>谁要啊！</span>
+68,<span class='scene-font-kokoro'>（对了，那张地图……）</span>
+65,作为赔礼，给，<br>我刚才走路的时候拿到的，<br>商业街的打折地图……
+62,<span class='scene-font-kokoro'>（毫无头绪……</span><br><span class='scene-font-kokoro'>至少要是知道</span><br><span class='scene-font-kokoro'>商业街有什么东西——）</span>
+61,嗯……就是……
+60-sel1_txt,<span class='scene-font-katari'>我们是去买什么？</span>
+60,<span class='scene-font-katari'>注意到没有行动方针，</span><br><span class='scene-font-katari'>斯特姆惊慌失措起来。</span>
+59,<span class='scene-font-kokoro'>（怎、怎么办……？）</span>
+58,那、那岂不是……！<br>问题很严重……
+57,就算跟她说购物，<br>估计也只认为是<br>筹备物资之类的了吧？
+56,估计是了。<br>我根本没见过斯特姆阁下<br>在街上闲逛。
+55,咦……？<br>斯特姆，是不是遇到了麻烦？
+50,<span class='scene-font-kokoro'>（完、完了……！</span><br><span class='scene-font-kokoro'>忘了问应该买点什么……）</span>
+49,<span class='scene-font-katari'>此时斯特姆</span><br><span class='scene-font-katari'>注意到了某件事，睁大了双眼。</span>
+48,<span class='scene-font-kokoro'>（购物并非目的而是手段。</span><br><span class='scene-font-kokoro'>或者可以称之为筹备物资。</span><br><span class='scene-font-kokoro'>为了得到想要的东西——）</span>
+47,<span class='scene-font-kokoro'>（购物啊……</span><br><span class='scene-font-kokoro'>菲娜也认准了。</span><br><span class='scene-font-kokoro'>可是，就这么有意思吗？）</span>
+46,<span class='scene-font-katari'>然而，在来去匆匆的人流中，</span><br><span class='scene-font-katari'>斯特姆露出异样的表情</span><br><span class='scene-font-katari'>停下了脚步。</span>
+45,<span class='scene-font-katari'>离开咖啡厅后，</span><br><span class='scene-font-katari'>斯特姆与姬塔</span><br><span class='scene-font-katari'>来到商业街。</span>
+44,好了，接下来是购物。
+38,那、那就……
+37,…………
+36,说你想做的事就行。<br>能作为思考的契机。
+35,咦？　我……？
+34,这种情况塔妮亚会怎么办？
+33,啊，对对。<br>问题是离开咖啡厅以后……
+32,那、那个，话题偏了……
+31,我怎么可能知道他现在在干什么，<br>他脑子里想的事情，<br>基本难以理解。
+30,你们也一样吧？
+29,迷你哥布现在在家里呼呼大睡。<br>但是，此时此刻心也紧紧相连！
+28,但是，迷你哥布和德朗克<br>现在都不在啊
+27,这已经成了固定搭配！<br>就像斯特姆和德朗克，<br>我和迷你哥布一样的黄金组合！
+26,看完剧以后，<br>当然要在附近的咖啡厅用餐啦。
+20,嗯……<br>下一个，是我的……
+19,好啦，就当作是<br>选对了剧……<br>然后呢，下一个计划是什么？
+18,我、我明白……但是，<br>如果不忍住，<br>会被发现的……！
+17,反倒是塔妮亚和德朗克，<br>为什么能忍住不哭啊！？
+16,可是～！<br>最后主人公鼓足勇气表达了自己的感情……<br>一开始还是个胆小鬼来着……！
+15,哇，菲娜……！<br>周围的人都在看我们……
+14,呜呜呜……<br>太好啦～！！
+13,嗯嗯……<br>姬塔看上去也乐在其中，<br>不是感觉挺好的？
+12,<span class='scene-font-katari'>3人坐在角落的桌子目不转睛地盯着</span><br><span class='scene-font-katari'>正在讨论感想的两人。</span>
+11,<span class='scene-font-katari'>舞台剧落幕后，</span><br><span class='scene-font-katari'>斯特姆与姬塔</span><br><span class='scene-font-katari'>来到了咖啡厅。</span>
+10,别、别管我怎么想了。<br>你怎么认为？
+9,什……！？
+7,你怎么认为？
+6,嗯，倒没有特别无聊……
+5,…………！
+3-sel2_txt,<span class='scene-font-katari'>你很入迷啊</span>
+3-sel1_txt,<span class='scene-font-katari'>很有趣的故事</span>
+3,就算最后解决了问题，<br>也波及到了好几位同伴……
+2,不管它是隐藏多年的想法还是什么，<br>两人因此失之交臂……<br>如果这是战场他们早已丧命黄泉。
+1,——其实很简单。<br>如果主人公立刻把自己的想法说出来，<br>就万事大吉了。
+0-synopsis,斯特姆和姬塔在咖啡厅讨论舞台剧的感想。始终观察着两人的塔妮亚、菲娜与德朗克看到计划顺利进行，安下心来。下一个作战计划，斯特姆本打算在商业街购物，但从未体验过漫无目的逛街的她惊慌失措。好在有三人的暗中帮助，斯特姆与姬塔享受了逛街的整个过程。
+0-chapter_name,委托的去向

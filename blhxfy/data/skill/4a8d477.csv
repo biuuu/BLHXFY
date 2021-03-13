@@ -1,0 +1,15 @@
+id,name,detail
+npc,卡莉奥斯特萝,3040009000
+special,大炼金术,伤害(特大)(4.5倍)/我方全体土属性攻击UP
+special+,大炼金术,伤害(特大)(5倍)/(终突后)回复量上升50%，回复性能上升50%
+skill-1,瓦解,对敌方全体造成土属性伤害/防御DOWN(10%)
+skill-1+,瓦解,对敌方全体造成土属性伤害/防御DOWN(10%)
+skill-1++,瓦解,对敌方全体造成土属性伤害(2.5-3倍)/防御DOWN(15%，片面类)/土属性防御DOWN
+skill-2,幻灯,<div class=prt-text-small>对我方全体施加特殊強化(攻防UP/连击率UP)/赋予荒土的刻印</div>
+skill-2+,幻灯,<div class=prt-text-small>对我方全体施加特殊強化(攻防UP/连击率UP)/赋予荒土的刻印</div>
+skill-2++,幻灯,<div class=prt-text-small>对我方全体施加特殊強化(攻防UP/连击率UP)/暴击率UP/会心效果/赋予荒土的刻印</div>
+skill-3,强化,回复我方全体HP(25%MHP，上限2000)/回复1个弱体效果
+support-1,世界第一可爱☆,<div class=prt-text-small>根据各自的荒土的刻印的数量提升土属性角色暴击率  <span class=text-blue>◆自己在后排时也有效</span></div>
+support-2,备用的躯体,战斗开始时，获得自动复活效果
+skill-lb,LB技能,受伤时有极小概率回复全部HP(3%)
+intro,开拓的炼金术师,绝世天才为了给世界开拓新的道路，跨越悠久的时间，将自己的身体转变成了理想中的样子。从久远的封印中苏醒的鼻祖，按照他的兴趣再次开始究明世界。

@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,维拉,3040141000
+special,史实幻影,光属性伤害(特大)/回复所有星晶玉
+skill-1,守护盾,<div class=prt-text-small>净化自身所有弱化效果/发动守护盾 <span class=text-blue>◆每回合消耗1星晶玉，消耗完毕时解除(最大3回合)<span></div>
+skill-2,光剑,对敌方全体造成8倍光属性伤害/消去1个强化效果
+skill-3,神圣武器,<div class=prt-text-small>必定三连击/奥义值上升量20%UP/特殊强化(光属性攻击50%UP)<span class=text-blue>◆守护盾效果中影响我方全体<span></div>
+support-1,星晶玉,<div class=prt-text-small>消耗1星晶玉必定1.3倍暴击/对暗属性敌人伤害10%UP<span class=text-blue>◆战斗开始时，星晶玉数量为6<span></div>
+support-2,绝对守护障壁,<div class=prt-text-small>守护盾效果中防御10倍UP/弱化效果抗性100%UP/成为攻击目标(包括全体攻击)/每回合回复HP</div>
+skill-lb,LB技能,普攻时有概率缩短1回合技能冷却时间
+intro,庄严的双刃,软弱的内心让噩梦乘虚而入，不断重复再现侵蚀着少女的内心。为了保护主人骑士站了出来。无论它的方法如何滑稽可笑也要完成使命。

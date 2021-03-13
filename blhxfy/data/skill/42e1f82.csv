@@ -1,0 +1,9 @@
+﻿id,name,detail
+npc,拉斯缇娜,3040109000
+special,地裂波,土属性伤害(特大)/充能至Lv3
+skill-1,绝对正义,<div class=prt-text-small>成为攻击对象/获得反击效果(受伤时/3次)/防御大幅UP　<span class=text-blue>◆消耗30%奥义值</span></div>
+skill-2,爆发,<div class=prt-text-small>对敌方单体造成土属性伤害/自身防御DOWN/充能归零 <span class=text-blue>◆伤害/伤害上限根据充能等级UP</span></div>
+skill-3,恶之破灭,自身可即时发动奥义/暴击率UP
+support-1,充能,受伤时充能等级上升1级(最大10)
+support-2,钢铁意志,防御力高，但容易成为攻击目标
+skill-lb,LB技能,HP在一半以下时，防御UP

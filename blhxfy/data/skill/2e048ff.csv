@@ -1,0 +1,9 @@
+id,name,detail
+npc,尤斯提斯,3040198000
+special,蚀怒之嚎,<div class=prt-text-small>暗属性伤害(特大)/攻击DOWN/黑暗/消耗全部充填</div>
+skill-1,二位一体,<div class=prt-text-small>自身与我方指定角色获得二位一体<br><span class=text-blue>◆同时只能付与一个人</span></div>
+skill-2,永远是你的,<div class=prt-text-small>对敌方随机目标进行4次攻击/防御DOWN(累积)<br><span class=text-blue>◆根据使用次数增加攻击回数(最大6回)</span></div>
+skill-3,流着你的血,<div class=prt-text-small>我方全体暗属性角色获得暴击率UP<br><span class=text-blue>◆奥义80%以上时，下一次自身奥义发动后追加一次技伤</span></div>
+support-1,近身作战,二位一体效果中的自身与指定角色获得连击率UP/暗属性追击/回避率UP 
+support-2,震狼,根据对应充填LV攻击UP/奥义伤害UP/奥义伤害上限UP<br><span class=text-blue>◆使用技能时获得1层充填(最大3层)</span>
+skill-lb,LB技能,普通攻击时，几率获得攻击力UP(累积)

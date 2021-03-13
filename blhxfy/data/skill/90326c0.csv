@@ -1,0 +1,8 @@
+id,name,detail
+npc,阿米拉,3040287000
+special,诅咒之谷,<div class=prt-text-small>暗/光属性伤害(特大)/消耗3层满腹度<br><span class=text-blue>◆满幅度3层以上时可发动</span></div>
+skill-1,夏日终结,<div class=prt-text-small>对敌方单体造成暗属性攻击/施加暗属性防御DOWN/自身奥义可立即发动</div>
+skill-2,光之心,<div class=prt-text-small>自身获得援护(全体)<br><span class=text-blue>◆最多消耗3层满腹度，根据消耗层数对应追加强化效果</span></div>
+skill-3,极限过载,<div class=prt-text-small>自身HP回复/净化1个弱体状态/回复2层满腹度<br><span class=text-blue>◆消耗20%奥义值</span></div>
+support-1,……肚子饿了,战斗开始时获得3层满腹度(最大5层)<br><span class=text-blue>◆回合结束奥义值20%以上时发动极限过载</span>
+support-2,大口吃东西的放浪女孩,有满腹度时，攻防大幅UP/敌对心UP/必连击/根据被伤害次数消耗满腹度进行反击(最大5次)

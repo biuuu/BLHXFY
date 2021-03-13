@@ -1,0 +1,8 @@
+id,name,detail
+npc,萝莎米娅,3040289000
+special,操符术･彩丽闪,<div class=prt-text-small>光属性伤害(特大)/爆花符可立即使用/自身获得1层极光的刻印<br><span class=text-blue>◆</span></div>
+skill-1,爆花符,<div class=prt-text-small>随机获得1个爆花符<br><span class=text-blue>◆根据使用次数增加爆花符种类(最大5个)</span></div>
+skill-2,龙吟符,<div class=prt-text-small>我方全体奥义值UP(30%)<br><span class=text-blue>◆当自身极光的刻印5层时，我方全体奥义性能UP(1次)/伤害上限UP</span></div>
+skill-3,重来符,<div class=prt-text-small>敌方CT增加1自身奥义发动2次</div>
+support-1,回忆里的澄音,根据极光的刻印对应以下效果(攻击UP/防御UP/必连击/奥义伤害UP/奥义伤害上限UP)
+support-2,魔祓风音,敌方使用特殊技时，自身奥义值UP(30%)

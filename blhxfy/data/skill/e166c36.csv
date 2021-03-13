@@ -1,0 +1,15 @@
+id,name,detail
+npc,安琪拉,3040071000
+special,金牙神然,风属性伤害(特大)
+special-千手千猿・猿皇波,千手千猿·猿皇波,风属性伤害(特大)/驱散一个强化效果
+skill-1,不生不灭,回复参战者HP/我方全体防御DOWN/弱化效果抗性DOWN
+skill-2,君子万年,赋予我方单体屏障效果(2500)/敌对心UP
+skill-2+,君子万年,赋予我方单体屏障效果(3500)/敌对心UP
+skill-2++,君子万年,<div class=prt-text-small>赋予我方单体屏障效果(4000)/敌对心UP/风属性追击效果<br><span class=text-blue>◆追击持续到受到伤害为止</span></div>
+skill-3,韦编三绝,逐渐强化我方全体性能 <span class=text-blue>◆3回合后达到顶峰，随后效果逐渐减少</span>
+skill-3+,韦编三绝,<div class=prt-text-small>强化我方全体<br><span class=text-blue>◆第2次发动时追加暴击率UP，第3次发动时追加伤害上限UP</span></div>
+skill-4,三令五申,<div class=prt-text-small>对敌方全体造成风属性伤害/赋予三猿效果<br><span class=text-blue>◆三猿效果根据发动次数强化性能(最大LV3)</span></div>
+support-1,猿神宫之主,我方全体有概率回避敌方通常攻击
+support-2,身外身之术,<div class=prt-text-small>发动奥义时赋予自己身外身之术<br><span class=text-blue>◆效果中攻击力UP/连续攻击几率UP/风属性追击效果/回避敌人所有攻击(回避成功时解除效果)</span></div>
+skill-lb,LB技能,普攻有极小概率缩短1回合技能使用间隔
+intro,西南西的守护神,守护西南西方位，十二神将之一。对过去祖先前往的理想乡抱有梦想的猿神，遵从命运的相会踏上了旅途。少女小小的身躯中蕴藏的坚定不移的意志，将会成为对众人强有力的支持。

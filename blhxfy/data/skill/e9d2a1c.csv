@@ -1,0 +1,9 @@
+﻿id,name,detail
+npc,安,3040132000
+special,震慑之枪,水属性伤害(特大)/回复2英灵
+skill-1,相克之咒,<div class=prt-text-small>我方全体防御力100%UP　<span class=text-blue>◆消耗1英灵获得格挡效果(5回合)(70%概率，30%减免)</span></div>
+skill-2,公主的引领,<div class=prt-text-small>获得反击效果(受伤时/2次，2.5倍)/敌对心UP(+30)　<span class=text-blue>◆消耗1英灵，防御UP(累积，20%，上限100%)</span></div>
+skill-3,光之召唤,回复自身HP(30%，上限1500)　<span class=text-blue>◆消耗1英灵，回复量UP(40%，上限3000)/去除所有弱化效果</span>
+support-1,学院的守护者,敌对心常时UP(+10)，英灵效果中攻防UP(攻击30%，防御30%)　<span class=text-blue>◆战斗开始时，英灵为3(最大3)</span>
+support-2,伟大的魔术师,受伤时奥义伤害UP(累积，15%，上限75%)
+skill-lb,LB技能,防御UP/敌对心UP

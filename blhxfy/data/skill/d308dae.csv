@@ -1,0 +1,8 @@
+﻿id,name,detail
+npc,阿丽莎,3040083000
+special,炎鸣流奥义改·灼龙炎牙,火属性伤害(特大)/自身暴击率UP
+skill-1,重重热浪,成为攻击目标/获得反击效果(回避/3次)　<span class=text-blue>◆消耗25％奥义值</span>
+skill-2,华焰·临天,自身暴击率UP/伤害上限UP
+skill-3,鸣神,<div class=prt-text-small>对敌方全体造成火属性伤害/自身攻击UP(累积)　<span class=text-blue>◆敌方数量越多，伤害越大</span></div>
+support-1,不绝之意志,成为攻击目标时二连击率UP(累积)
+skill-lb,LB技能,减轻风属性伤害

@@ -1,0 +1,13 @@
+﻿id,name,detail
+npc,伊什米尔,3040100000
+special,寒冰冲击,水属性伤害(特大)/清除冰剑
+special-マロス・ブラスト,极寒冲击,<div class=prt-text-small>水属性伤害(特大)  <span class=text-blue>◆消费5层冰剑赋予自己以外的水属性角色奥义性能UP效果（累积）</span></div>
+skill-1,死人之国,对敌人造成水属性伤害/获得1层冰剑/攻击UP（累积）
+skill-2,离别,我方全体暴击率UP<span class=text-blue>◆消耗20%奥义值</span>
+skill-2++,离别,我方全体暴击率UP/会心效果/活性效果
+skill-3,矢志,奥义值上升速度UP/敌对心DOWN
+skill-3+,矢志,<div class=prt-text-small>展开魔冰结界，能力大幅提升/自己获得屏障效果 <span class=text-blue>◆屏障解除时解除魔冰结界</span>
+support-1,纯白剑锋,每2回合追加1层冰剑（最大5）/根据冰剑数量提高奥义伤害和奥义伤害上限
+support-2,冷若冰霜,水属性角色对火属性敌人的伤害UP/发动暴击时的伤害上限UP
+skill-lb,LB技能,使用技能「离别」时有几率获得1层冰剑
+intro,冰室的守护者,遵从村子里的严格戒律，少女被作为祭品献祭。她面对孤独，接受了命运。随后她预见了在天空自由翱翔的骑空士，为了让自己的生命能够善终，决定踏上旅途。

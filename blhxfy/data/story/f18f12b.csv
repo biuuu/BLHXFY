@@ -1,0 +1,53 @@
+id,trans
+filename,主线剧情-序章第1节
+info,scene_tutorial00
+81,————！
+78,切……真麻烦，那我们只能来硬的了。臭小鬼可别后悔！
+76,就是就是！你们别自说自话了！她明明非常害怕！
+74-sel2_txt,<span class='scene-font-katari'>我不相信你们！</span>
+74-sel1_txt,<span class='scene-font-katari'>她向我求救了，我不能不管！</span>
+74,现在就放开那个女孩。我们也不想动粗。
+73,不……不要……！
+72,<span class='scene-font-katari'>面对露骨的敌意与杀意，</span><br><span class='scene-font-katari'>少女在恐惧中选择拒绝。</span>
+70-sel2_txt,<span class='scene-font-katari'>我不相信你们！</span>
+70-sel1_txt,<span class='scene-font-katari'>她向我求救了，我不能不管！</span>
+70,现在就放开那个女孩。我们也不想动粗。
+69,不……不要……！
+68,<span class='scene-font-katari'>面对露骨的敌意与杀意，</span><br><span class='scene-font-katari'>少女在恐惧中选择拒绝。</span>
+67,如果还想活命，就老老实实把那少女交出来。
+66,你们是谁啊！还想动手吗！？
+65,<span class='scene-font-katari'>少女看向声音的主人，认出他们身上的铠甲。那是凭武力支配其他国家，臭名昭著的“埃尔斯特帝国”的铠甲。</span>
+62,啊！！
+61,那边的，给我站住！把剑放在脚边，举起双手！
+60,喂、喂喂……究竟发生了什么？
+59,<span class='scene-font-4'>……那、那个！请、请救救我！</span>
+57-sel1_txt,<span class='scene-font-katari'>你没事吧？有没有受伤？</span>
+57,这个女孩是怎么了？没见过她呢……
+56,…………！
+55,好痛……
+53,<span class='scene-font-4'>呀啊！</span>
+50,如果军舰掉了什么东西下来，那大概，在这附近……
+42-sel1_txt,<span class='scene-font-katari'>我们去看看！</span>
+42,要是那东西……还在燃烧就掉进森林的话……
+41,什么？难道是军舰掉下的碎片着火了之类的？
+40-sel1_txt,<span class='scene-font-katari'>刚才，有什么发光了……</span>
+40,——……
+37,什！？怎么了！？它刚刚爆炸了！
+32,那东西……是别国的战舰吗！？怎么在咱这个荒僻的小村子里！
+30,嗯……？喂、等一下，等一下！那，那是什么！？
+28,不过，你既然都提出来了，肯定不听劝了。比起生活在这小村子里，肯定是那样有趣呀！嘿嘿。
+27,要是真有那东西，肯定哪儿都能去啦。可那不只是个传说吗？
+26,啊……你说<span class='scene-font-spword'>完整的空图</span>？据说是几百年前<br><span class='scene-font-spword'>星之民</span>绘制的那个……
+25-sel2_txt,<span class='scene-font-katari'>我有计划</span>
+25-sel1_txt,<span class='scene-font-katari'>肯定能抵达</span>
+25,就算是你父亲留下的信提到了天空的彼方，可那种地方怎么到得了……
+24,——我说我说。你真的打算离开村子？
+18,<span class='scene-font-katari'>现在，空与星的故事开启新的篇章。前路漫漫，当为其启程献上祝福——</span>
+14,<span class='scene-font-katari'>此处，未完成的大地浮荡于云海。遭神遗弃的“天空世界”。</span>
+7,<span class='scene-font-katari'>然而，空之民亦在成长，终于从傲慢的星之民手中夺回了世界。日后，人们称之为霸空战争。</span>
+6,<span class='scene-font-spword'>星之民</span><span class='scene-font-katari'>使用星晶兽，眨眼间征服了世界，长久以来将天空占为己有。</span>
+5,<span class='scene-font-katari'>然而，侵略者出现了。从远在天边的他界而来，他们被称为星之民。</span>
+3,<span class='scene-font-katari'>其名巴哈姆特，司掌由破灭带来的创造。它贯彻自己的使命，使被抛弃的世界变得更为芳醇。</span>
+2,<span class='scene-font-katari'>——在被神遗弃的世界里，</span><br><span class='scene-font-katari'>有一条龙的身影。</span>
+1-synopsis,少女在父亲留言的指引下，决定踏上前往天际的旅途。但与此同时，村里出现了一艘战舰，一位神秘少女向他寻求帮助。
+0-synopsis,少年在父亲留言的指引下，决定踏上前往天际的旅途。但与此同时，村里出现了一艘战舰，一位神秘少女向他寻求帮助。

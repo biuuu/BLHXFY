@@ -1,0 +1,8 @@
+id,name,detail
+npc,帕西瓦尔,3040279000
+special,高贵烈焰,<div class=prt-text-small>光属性伤害(特大)/自身奥义值UP(20%)</div>
+skill-1,征战,<div class=prt-text-small>对敌方单体造成光属性伤害/付与自身1层极光的刻印<br><span class=text-blue>◆对处于恐怖的敌人发动2次</span></div>
+skill-2,真相,<div class=prt-text-small>对敌方施加恐怖/连击率DOWN/驱散1个强化效果</div>
+skill-3,加冕,<div class=prt-text-small>对我方全体付与1层极光的刻印/光属性追击</div>
+support-1,王者行进,回合结束时消耗1层极光的刻印对敌方造成光属性伤害/攻击DOWN(累积)<br><span class=text-blue>◆有3层以上极光的刻印时，对敌方造成7-8倍伤害.自身HP回复</span>
+support-2,闪光的炎帝,我方光属性角色根据极光的刻印层数对应技能伤害UP<br><span class=text-blue>◆自身处于后排时也生效</span>
