@@ -8,7 +8,7 @@ id,name,text,trans
 4,黒騎士/黑骑士,……オーキス？,……欧姬丝？
 5,オーキス/欧姬丝,本当は、アポロと一緒にいたい。<br>私もついていきたい……,其实、我想和阿波罗在一起。<br>想让你带我一起去……
 6,黒騎士/黑骑士,オーキス……,欧姬丝……
-7,オーキス/欧姬丝,でも、わかってる。<br>アポロがやらないといけない事も、<br>私が一緒に行けない事も……,但是、我明白。<br>阿波罗必须要做的事情也好、<br>无法带我一起去的事情也好……
+7,オーキス/欧姬丝,でも、わかってる。<br>アポロがやらないといけない事も、<br>私が一緒に行けない事も……,但是、我明白。<br>阿波罗有必须要做的事情、<br>而我不能和你一起去……
 8,黒騎士/黑骑士,……すまない、オーキス。<br>私はいつも、オーキスに我慢ばかり<br>させてしまっているな……,……对不起、欧姬丝。<br>我总是、让欧姬丝<br>忍耐……
 9,オーキス/欧姬丝,そんなことない。<br>大丈夫だから、そんな顔しないで。,没有这种事情。<br>我没事、不要做出这样的表情。
 10,オーキス/欧姬丝,それに私は、アポロの邪魔に<br>なりたくないから……<br>アポロが戻ってくるの、待ってる。,而且我、不想成为<br>阿波罗的负担……<br>我等着、阿波罗回来。
@@ -23,25 +23,25 @@ id,name,text,trans
 19,オーキス/欧姬丝,アポロ……<br>私はアポロに貰ってばかりだから、<br>私もアポロになにか返したい。,阿波罗……<br>我总是从阿波罗那里收到东西、<br>我也想还给阿波罗什么。
 20,黒騎士/黑骑士,私はこれ以上ないほどのものを<br>お前達から貰っている。,我已经从你们那里<br>得到很多了。
 21,黒騎士/黑骑士,私にとって、<br>お前達が居てくれることが奇跡で……<br>一番の贈り物なのだからな。,对我来说、<br>与你们相伴已经是奇迹……<br>这是最好的礼物了。
-22,オーキス/欧姬丝,それなら嬉しい……<br>けど、こうやって触れるものも……<br>何か返したい……,那就太好了……<br>但是、即使是微不足道的事情……<br>我也想给你什么……
+22,オーキス/欧姬丝,それなら嬉しい……<br>けど、こうやって触れるものも……<br>何か返したい……,那就太好了……<br>但是、像这样的纪念品……<br>我也想给你一个……
 23,黒騎士/黑骑士,ふっ……そういう事なら、<br>帰って来た時の楽しみに<br>取って置かせてくれ。,哈……这样的话、<br>我就期待着<br>回来的时候收礼物了。
 24,オーキス/欧姬丝,楽しみ……<br>うん……分かった。<br>その時まで考えておく。,期待……<br>嗯……我知道了。<br>我会好好考虑的。
 25,黒騎士/黑骑士,ああ。<br>……では、行ってくる。,嗯。<br>……那么、我走了。
 27,オーキス/欧姬丝,……アポロ。,……阿波罗。
-28,,<span class='scene-font-katari'>その背中を見送るオーキスの瞳からは、</span><br><span class='scene-font-katari'>人知れず涙が零れ落ちていた――</span>,<span class='scene-font-katari'>目送着阿波罗远去的背影、</span><br><span class='scene-font-katari'>泪水从欧姬丝的眼中滑落――</span>
+28,,<span class='scene-font-katari'>その背中を見送るオーキスの瞳からは、</span><br><span class='scene-font-katari'>人知れず涙が零れ落ちていた――</span>,<span class='scene-font-katari'>目送着阿波罗远去的背影、</span><br><span class='scene-font-katari'>不为人所知的泪水从欧姬丝的眼中滑落――</span>
 34,,<span class='scene-font-katari'>この日、オーキスは</span><br><span class='scene-font-katari'>エリヤ・ヘルム宮殿内を</span><br><span class='scene-font-katari'>ひとりで徘徊していた。</span>,<span class='scene-font-katari'>这一天，欧姬丝正独自</span><br><span class='scene-font-katari'>在埃利耶·贝尔姆宫殿</span><br><span class='scene-font-katari'>徘徊。</span>
 35,オーキス/欧姬丝,……ここ、なんだろう。,……这是，哪里。
 39,オーキス/欧姬丝,埃だらけ……<br>あんまり掃除してない……？,满是灰尘……<br>不怎么打扫吗 ……？
 40,,<span class='scene-font-katari'>そこには、人型から無機質な形状の</span><br><span class='scene-font-katari'>物まで取り取りのゴーレムが</span><br><span class='scene-font-katari'>無造作に放置されていた。</span>,<span class='scene-font-katari'>在那里，从人形到无意义的形状</span><br><span class='scene-font-katari'>各种各样的魔像</span><br><span class='scene-font-katari'>随意地摆放在那里。</span>
 41,オーキス/欧姬丝,ゴーレム……,魔像……
 43,,<span class='scene-font-katari'>オーキスは庫内を</span><br><span class='scene-font-katari'>ゆっくり見回り始めると、</span><br><span class='scene-font-katari'>とあるゴーレムの前で足を止めた。</span>,<span class='scene-font-katari'>欧姬丝缓缓地</span><br><span class='scene-font-katari'>巡视着仓库，</span><br><span class='scene-font-katari'>在某个魔像前停下了脚步。</span>
-44,オーキス/欧姬丝,アポロに似てる……<br>ちょっとだけ。<br>黒い、ところとか……,有一点……<br>像阿波罗。<br>黑，这种地方……
+44,オーキス/欧姬丝,アポロに似てる……<br>ちょっとだけ。<br>黒い、ところとか……,有一点……<br>像阿波罗。<br>黑，这种地方之类的……
 45,,<span class='scene-font-katari'>オーキスは、そのゴーレムの体に</span><br><span class='scene-font-katari'>文字が記されていることに気づき、</span><br><span class='scene-font-katari'>確認しようと近づく。</span>,<span class='scene-font-katari'>欧姬丝注意到，</span><br><span class='scene-font-katari'>这个魔像上刻有文字，</span><br><span class='scene-font-katari'>于是凑近瞧了瞧。</span>
 46,オーキス/欧姬丝,ろ、いど……？<br>ロイドって書いてある……<br>あなたの名前……？,罗伊特……？<br>写着的是罗伊特……<br>你的名字……？
 47,オーキス/欧姬丝,私はオーキス。よろしく。,我叫欧姬丝。请多指教。
 48,,<span class='scene-font-katari'>その日から、オーキスは物言わぬ</span><br><span class='scene-font-katari'>ゴーレム“ロイド”に会いに、しばしば</span><br><span class='scene-font-katari'>この倉庫を訪れるようになるのだった。</span>,<span class='scene-font-katari'>从那天开始，</span><br><span class='scene-font-katari'>欧姬丝开始悄悄地，去见'罗伊特'，</span><br><span class='scene-font-katari'>渐渐地成为仓库的常客。</span>
 54,,<span class='scene-font-katari'>それから、数週間が経ったある日。</span>,<span class='scene-font-katari'>那之后数周的某一天。</span>
-55,,<span class='scene-font-katari'>執務をこなすアダムの傍で</span><br><span class='scene-font-katari'>ぼんやりと窓の外を眺めていた</span><br><span class='scene-font-katari'>オーキスに異変が訪れる。</span>,<span class='scene-font-katari'>异变，来到</span><br><span class='scene-font-katari'>正在执行公务的亚当身边的</span><br><span class='scene-font-katari'>呆呆地望着窗外的欧姬丝身边。</span>
+55,,<span class='scene-font-katari'>執務をこなすアダムの傍で</span><br><span class='scene-font-katari'>ぼんやりと窓の外を眺めていた</span><br><span class='scene-font-katari'>オーキスに異変が訪れる。</span>,<span class='scene-font-katari'>欧姬丝站在正在执行公务的亚当身边</span><br><span class='scene-font-katari'>呆呆地看着窗外，</span><br><span class='scene-font-katari'>此时，异变来了。</span>
 59,オーキス/欧姬丝,オルキス……？<br>っオルキスが……,欧尔姬丝……？<br>欧尔姬丝她……
 60,アダム/亚当,いかがされましたか？,发生了什么吗？
 66,,<span class='scene-font-katari'>エルステ王家の最後の血を引く王女</span><br><span class='scene-font-katari'>“オルキス”が、長きに渡る空白の</span><br><span class='scene-font-katari'>時間を経て、ついに目覚めたのだった。</span>,<span class='scene-font-katari'>流着埃尔斯特皇家血脉的</span><br><span class='scene-font-katari'>'欧尔姬丝'，度过漫长的</span><br><span class='scene-font-katari'>空白期，终于，睁开了双眼。</span>
@@ -82,15 +82,15 @@ id,name,text,trans
 118,オーキス/欧姬丝,それに、ロイドの力があれば……<br>私も、この世界を旅する事が出来る。,而且，有了罗伊特的力量……<br>我也，能在这个世界旅行。
 119,オーキス/欧姬丝,この世界を自分の目で<br>見ることが出来る。,能够亲眼，<br>看看这个世界。
 120,アダム/亚当,確かに……ロイドにアーカーシャを<br>封印し、番人を立てるのは<br>有効な手段ではありますが……,确实……将阿卡夏封印起来，<br>让人看守，<br>是更有效的手段……
-121,アダム/亚当,それは同時に、その番人に<br>危険が集中する事を意味します。,可与此同时，<br>也意味着危险会聚集在看守身边。
+121,アダム/亚当,それは同時に、その番人に<br>危険が集中する事を意味します。,可与此同时，<br>也意味着危险会聚集在看守者的身边。
 122,アダム/亚当,もし、その危険を避けるのであれば、<br>一つところには決して長く留まれない<br>孤独な旅となることでしょう。,如果，要避开这种危险的话，<br>只能不在同一个地方驻足，<br>独自旅行。
 123,オルキス/欧尔姬丝,え、待って……それじゃあ……<br>オーキスはこの国を出るつもりなの？,欸，等一下……那么……<br>欧姬丝你是打算离开吗？
 124,オーキス/欧姬丝,……うん。,……嗯。
-125,オルキス/欧尔姬丝,そんな……！,怎么……！
+125,オルキス/欧尔姬丝,そんな……！,为什么……！
 126,オーキス/欧姬丝,でも目立たないようにするし……<br>誰にも知られないように気を付ける。<br>だから、心配しな――,但是我会低调……<br>小心地不让别人注意到我。<br>所以，别――
-127,オルキス/欧尔姬丝,そんなことを心配してるんじゃない！<br>私は……オーキスが一人で<br>行っちゃう事が心配なの……！,这种事情当然会担心！<br>我……不放心<br>让欧姬丝一个人……！
+127,オルキス/欧尔姬丝,そんなことを心配してるんじゃない！<br>私は……オーキスが一人で<br>行っちゃう事が心配なの……！,我怎么可能不担心！<br>我……不放心<br>让欧姬丝一个人……！
 128,オーキス/欧姬丝,オルキス……,欧尔姬丝……
-129,オルキス/欧尔姬丝,だって……それは、<br>とても寂しい思いをする事になるし……,因为……这样的话，<br>肯定会变得很寂寞……
+129,オルキス/欧尔姬丝,だって……それは、<br>とても寂しい思いをする事になるし……,因为……这样的话，<br>你就会变得更加寂寞……
 130,オルキス/欧尔姬丝,危ない目にだって遭うんだよ！？,也会遇到危险的事情啊！？
 131,オルキス/欧尔姬丝,どうしていきなりそんな事言うの？<br>私はオーキスをそんな目に<br>遭わせたくないよ……！,为什么突然提起这样的事，<br>我不想<br>让欧姬丝体会这样的事情……！
 132,,<span class='scene-font-katari'>オルキスはオーキスが自ら孤独を選び</span><br><span class='scene-font-katari'>人柱となろうとする姿に、</span><br><span class='scene-font-katari'>憤りを覚えずにはいられなかった。</span>,<span class='scene-font-katari'>欧尔姬丝对欧姬丝</span><br><span class='scene-font-katari'>选择孤独，成为看守这件事，</span><br><span class='scene-font-katari'>愤慨不已。</span>
@@ -111,15 +111,15 @@ id,name,text,trans
 147,アダム/亚当,…………,…………
 148,オーキス/欧姬丝,大切な人を守りたい。<br>そのために強くなりたい、って思う。,我想保护身边的人。<br>为此，我要变强。
 149,オーキス/欧姬丝,だから、私にやらせてほしい。,所以，让我走吧。
-150,,<span class='scene-font-katari'>まっすぐに見つめるオーキスの瞳から</span><br><span class='scene-font-katari'>揺るぎない意志が見て取れる。</span>,<span class='scene-font-katari'>まっすぐに見つめるオキスの瞳から</span><br><span class='scene-font-katari'>揺るぎない意志が見て取れる。</span>
+150,,<span class='scene-font-katari'>まっすぐに見つめるオーキスの瞳から</span><br><span class='scene-font-katari'>揺るぎない意志が見て取れる。</span>,<span class='scene-font-katari'>目不斜视的欧姬丝的眼中</span><br><span class='scene-font-katari'>透露出坚定的意志。</span>
 151,,<span class='scene-font-katari'>オーキスが一人で抱えていた思いを</span><br><span class='scene-font-katari'>はじめて知ったオルキスは、それ以上</span><br><span class='scene-font-katari'>反論する余地を見いだせなかった。</span>,<span class='scene-font-katari'>第一次知道欧姬丝的想法的</span><br><span class='scene-font-katari'>欧尔姬丝，</span><br><span class='scene-font-katari'>没法再反驳她。</span>
-152,オルキス/欧尔姬丝,……もう、頑固だなぁ、オーキスは。,……你啊，太努力了，欧姬丝。
+152,オルキス/欧尔姬丝,……もう、頑固だなぁ、オーキスは。,……你啊，真是顽固，欧姬丝。
 153,オーキス/欧姬丝,え……？,欸……？
-154,オルキス/欧尔姬丝,きっとね……<br>オーキスと私は似てるんだよね。,肯定是……<br>欧姬丝和我很像。
-155,オルキス/欧尔姬丝,頑固で……一度決めたら、<br>絶対にやり遂げたくなっちゃう。<br>姉妹だし、似てて当然かぁ。,又顽固……决定的事情，<br>就绝对会做。<br>我们是姐妹，当然像了。
+154,オルキス/欧尔姬丝,きっとね……<br>オーキスと私は似てるんだよね。,欧姬丝一定……<br>和我很像。
+155,オルキス/欧尔姬丝,頑固で……一度決めたら、<br>絶対にやり遂げたくなっちゃう。<br>姉妹だし、似てて当然かぁ。,顽固……决定的事情，<br>就绝对会做。<br>我们是姐妹，当然像了。
 156,オーキス/欧姬丝,姉妹……？<br>私とオルキスが……？,姐妹……？<br>我和欧尔姬丝……？
-157,オルキス/欧尔姬丝,少しの時間しか、こうして<br>お喋りできていないけど……,虽然，只说了这么点话……
-158,オルキス/欧尔姬丝,オーキスのことはもうずいぶん昔から<br>お互いを分かり合ってきた親友とか、<br>家族みたいに感じてたよ。,从很久之前，<br>我就认为欧姬丝是与我相互理解的密友，<br>家人一样。
+157,オルキス/欧尔姬丝,少しの時間しか、こうして<br>お喋りできていないけど……,虽然，时间很短，我们的交流还很少……
+158,オルキス/欧尔姬丝,オーキスのことはもうずいぶん昔から<br>お互いを分かり合ってきた親友とか、<br>家族みたいに感じてたよ。,可是从很久之前，<br>我就认为欧姬丝是与我相互理解的密友，<br>像家人一样。
 159,オルキス/欧尔姬丝,だって、おんなじ体から<br>生まれたんだもん。姉妹よりも<br>もっと近い存在かもしれない。,因为，我们是从同一个身体<br>出生的。也许，<br>比姐妹更为亲近。
 160,オーキス/欧姬丝,家族……？<br>私の……家族……,家人……？<br>我的……家人……
 161,オルキス/欧尔姬丝,うん。オーキスは一人じゃないから。<br>私もいるし、アダムもいるし、<br>皆も居る。アポロだって……,嗯。欧姬丝不是一个人。<br>你有我，还有亚当，<br>还有大家，还有阿波罗……

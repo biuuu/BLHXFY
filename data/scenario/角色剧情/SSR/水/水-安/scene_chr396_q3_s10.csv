@@ -1,6 +1,6 @@
 id,name,text,trans
-0-chapter_name,,手を取り合えば,如果合力
-0-synopsis,,マナリア学院の地下迷宮を進む姬塔一行は、寝息を立てるアンを守りつつ、光の祭壇に辿り着く。目を覚ましたアンが祭壇に近づくと、侵入者を阻む術式が起動し、クレイゴーレムが立ちはだかる。グレアは一人でクレイゴーレムを倒そうとするが、アンの一人じゃないという言葉で仲間の存在に気づかされ、姬塔とオーウェンと力を合わせクレイゴーレムに立ち向かう。,来到马纳利亚地下迷宫的姬塔一行，一边保护睡着的安，一边前进到达光祭坛。醒来的安靠近祭坛之后，阻止入侵者的术式启动，出现了一批黏土人偶。古蕾雅正打算一个人收拾他们的时候，听了安的话注意到身旁的伙伴，开始与姬塔，欧文合力面对人偶。
+0-chapter_name,,手を取り合えば,执你之手
+0-synopsis,,マナリア学院の地下迷宮を進む姬塔一行は、寝息を立てるアンを守りつつ、光の祭壇に辿り着く。目を覚ましたアンが祭壇に近づくと、侵入者を阻む術式が起動し、クレイゴーレムが立ちはだかる。グレアは一人でクレイゴーレムを倒そうとするが、アンの一人じゃないという言葉で仲間の存在に気づかされ、姬塔とオーウェンと力を合わせクレイゴーレムに立ち向かう。,来到马纳利亚地下迷宫的姬塔一行，一边保护睡着的安，一边前进到达光祭坛。醒来的安靠近祭坛之后，阻止入侵者的术式启动，出现了一批黏土人偶。古蕾雅正打算一个人收拾他们的时候，按告诉她她不是一个人，注意到身边的伙伴的古蕾雅，开始与姬塔，欧文合力对抗人偶。
 1,,<span class='scene-font-katari'>マナリア学院の地下にある</span><br><span class='scene-font-katari'>迷宮の廊下を進む一行。</span>,<span class='scene-font-katari'>一行人在马纳利亚</span><br><span class='scene-font-katari'>地下迷宫回廊上前进。</span>
 2,グレア/古蕾雅,ここが地下迷宮……<br>気を引き締めて行こう。,这里就是地下迷宫……<br>前进时请多加小心。
 3,オーウェン/欧文,何やら厳かな<br>雰囲気がありますね。,有一种<br>严峻的气氛啊。
@@ -18,15 +18,15 @@ id,name,text,trans
 11,アン/安,ぐれぁ……,古蕾雅……
 12,,<span class='scene-font-katari'>優しくアンを</span><br><span class='scene-font-katari'>抱きかかえるグレア。</span>,<span class='scene-font-katari'>古蕾雅温柔地</span><br><span class='scene-font-katari'>抱着安。</span>
 13,,<span class='scene-font-katari'>こうして、姬塔達に</span><br><span class='scene-font-katari'>守られたアンは、安心からか</span><br><span class='scene-font-katari'>すやすやと寝息を立てるのだった。</span>,<span class='scene-font-katari'>就这样，被姬塔一行守护的</span><br><span class='scene-font-katari'>安，安心地</span><br><span class='scene-font-katari'>沉沉睡去。</span>
-14,グレア/古蕾雅,ま、まぁ姬塔さんが<br>そう言うなら、<br>それでいいんじゃない？,唔，好吧，姬塔<br>这么说的话，<br>那就这样吧。
+14,グレア/古蕾雅,ま、まぁ姬塔さんが<br>そう言うなら、<br>それでいいんじゃない？,唔，好吧，姬塔さん<br>这么说的话，<br>那就这样吧。
 15,オーウェン/欧文,さっ、姫様……<br>どうぞ私の背中に。,公主，请……<br>来我背上。
 16,アン/安,おーうぇん……,欧文……
 17,,<span class='scene-font-katari'>力強くアンを</span><br><span class='scene-font-katari'>背負うオーウェン。</span>,<span class='scene-font-katari'>欧文把安</span><br><span class='scene-font-katari'>牢牢地抱在背上。</span>
 18,,<span class='scene-font-katari'>こうして、姬塔達に</span><br><span class='scene-font-katari'>守られたアンは、安心からか</span><br><span class='scene-font-katari'>すやすやと寝息を立てるのだった。</span>,<span class='scene-font-katari'>就这样，被姬塔一行守护的</span><br><span class='scene-font-katari'>安，安心地</span><br><span class='scene-font-katari'>沉沉睡去。</span>
-19,グレア/古蕾雅,……えっ？<br>姬塔さんが？<br>で、でも……,……诶？<br>姬塔来？<br>但，但是……
+19,グレア/古蕾雅,……えっ？<br>姬塔さんが？<br>で、でも……,……诶？<br>姬塔さん来？<br>但，但是……
 20,オーウェン/欧文,姬塔殿に<br>その様なご迷惑を<br>かける訳には……,怎么能让姬塔阁下<br>做这种<br>麻烦事……
 21,ビィ/碧,まぁいいんじゃねぇか？<br>姬塔は子供受けもいいしな！,这不是挺好吗？<br>姬塔很受小孩子欢迎的！
-22,アン/安,姬塔さぁん……,姬塔……
+22,アン/安,姬塔さぁん……,姬塔さん……
 23,,<span class='scene-font-katari'>姬塔の背中に</span><br><span class='scene-font-katari'>自ら進んでよじ登るアン。</span>,<span class='scene-font-katari'>说着安自己</span><br><span class='scene-font-katari'>爬上了姬塔的背。</span>
 24,,<span class='scene-font-katari'>こうして、姬塔達に</span><br><span class='scene-font-katari'>守られたアンは、安心からか</span><br><span class='scene-font-katari'>すやすやと寝息を立てるのだった。</span>,<span class='scene-font-katari'>就这样，被姬塔一行守护的</span><br><span class='scene-font-katari'>安，安心地</span><br><span class='scene-font-katari'>沉沉睡去。</span>
 25,グレア/古蕾雅,は、はぁ……<br>くじ引き……ですか？,哈，哈啊……<br>抽签……吗？
@@ -58,12 +58,12 @@ id,name,text,trans
 63,アン/安,だから……<br>みんなで、ちからをあわせて<br>いっしょに、やっつけよ？,所以……<br>和大家一起，<br>合力，干掉他们吧？
 64,グレア/古蕾雅,うん……わかった！,嗯……知道了！
 65,,<span class='scene-font-katari'>アンの言葉で我に返ったグレアは、</span><br><span class='scene-font-katari'>改めて仲間達を見回す。</span>,<span class='scene-font-katari'>听了安的话重拾自我的古蕾雅，</span><br><span class='scene-font-katari'>重新看向同伴。</span>
-66,グレア/古蕾雅,姬塔さん！<br>オーウェン！<br>お願い……力を貸して！,姬塔！<br>欧文！<br>拜托了……帮我一把！
+66,グレア/古蕾雅,姬塔さん！<br>オーウェン！<br>お願い……力を貸して！,姬塔さん！<br>欧文！<br>拜托了……帮我一把！
 67,オーウェン/欧文,姫様の笑顔とグレア君の笑顔を<br>取り戻す為ならば……,只要能够夺回<br>公主与古蕾雅的笑容……
 68,オーウェン/欧文,このオーウェン、<br>全力で万難を排しましょう！,在下欧文，<br>将竭尽全力排除万难！
 69,ビィ/碧,ああ、もちろんだぜ！<br>なっルリア！　姬塔！,嗯，那是当然！<br>对吧 露莉亚！　姬塔！
 70,ルリア/露莉亚,はい！<br>みんなで力を合わせて<br>戦いましょう！,嗯！<br>大家一起<br>战斗吧！
-71,クレイゴーレム,<span class='scene-font-4'>ンゴゴゴゴー！</span>,<span class='scene-font-4'>哐哐哐！</span>
+71,クレイゴーレム,<span class='scene-font-4'>ンゴゴゴゴー！</span>,<span class='scene-font-4'>哐哐哐ー！</span>
 73,オーウェン/欧文,今です！,就是现在！
 74,グレア/古蕾雅,うんっ！　<br>行こう！　みんなっ！,嗯！　<br>大家！　准备好！
 info,麻友桑的话筒,,scene_chr396_q3_s10

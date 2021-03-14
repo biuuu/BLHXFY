@@ -1,8 +1,8 @@
 id,name,text,trans
 0-chapter_name,,手を取り合えば,如果合力
-0-synopsis,,姬塔達はクレイゴーレムを撃破し祭壇に急ぐが、アンの魔力はすでに殆ど消えかかっていた。グレアがアンに悲痛な思いで呼びかけると、思いが通じた様に眩い光が辺り一面に降り注ぎ、アンの幼児化が解かれる。元の姿に戻ったアンは、自分一人の力では何もできないことを改めて知り、仲間達と共に新たな気持ちで学院の復興に取り組むのだった。,击破人偶后，一行人赶忙将安放在祭坛上，然而安的魔力还是消失殆尽。悲痛的古蕾雅呼喊着，这时祭坛上的光芒照射在安身上，让安变了回去。恢复的安知道了自己一个人无法办到所有事情，重整旗鼓与同伴一起开始复兴学院。
+0-synopsis,,姬塔達はクレイゴーレムを撃破し祭壇に急ぐが、アンの魔力はすでに殆ど消えかかっていた。グレアがアンに悲痛な思いで呼びかけると、思いが通じた様に眩い光が辺り一面に降り注ぎ、アンの幼児化が解かれる。元の姿に戻ったアンは、自分一人の力では何もできないことを改めて知り、仲間達と共に新たな気持ちで学院の復興に取り組むのだった。,击退人偶后，一行人赶忙将安放在祭坛上，然而安的魔力还是消失殆尽。悲痛的古蕾雅呼喊着，这时祭坛上的光芒照射在安身上，让安变了回去。恢复的安知道了自己一个人无法办到所有事情，重整旗鼓与同伴一起开始复兴学院。
 6,クレイゴーレム,ンゴゴ……,哐哐……
-8,,<span class='scene-font-katari'>見事クレイゴーレムを</span><br><span class='scene-font-katari'>撃破した姬塔達。</span>,<span class='scene-font-katari'>姬塔一行干劲利落地</span><br><span class='scene-font-katari'>解决了人偶。</span>
+8,,<span class='scene-font-katari'>見事クレイゴーレムを</span><br><span class='scene-font-katari'>撃破した姬塔達。</span>,<span class='scene-font-katari'>姬塔一行干净利落地</span><br><span class='scene-font-katari'>解决了人偶。</span>
 9,,<span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>アンを抱えて</span><br><span class='scene-font-katari'>祭壇に急ぐのだった。</span>,<span class='scene-font-katari'>一行人，</span><br><span class='scene-font-katari'>抱着安，</span><br><span class='scene-font-katari'>急急地向祭坛跑去。</span>
 14,オーウェン/欧文,姫様！<br>こちらです！,公主！<br>这边！
 15,アン/安,はぁ……はぁ……,哈……哈……
@@ -10,7 +10,7 @@ id,name,text,trans
 17,アン/安,だいじょうぶ……<br>なかない……で……,没关系……<br>不要……哭……
 18,グレア/古蕾雅,……アン！　<br>……アンッ！,……安！　<br>……安！
 19,アン/安,<span class='scene-font-2'>ぐれ……あ……</span>,<span class='scene-font-2'>古蕾……雅……</span>
-25,,<span class='scene-font-katari'>その時、グレアの思いが通じた様に</span><br><span class='scene-font-katari'>祭壇を覆うばかりの眩い光が、</span><br><span class='scene-font-katari'>辺り一面に降り注ぐのだった。</span>,<span class='scene-font-katari'>这时，祭坛像是回应古蕾雅一般</span><br><span class='scene-font-katari'>炫目的白光，</span><br><span class='scene-font-katari'>从一边注射下来。</span>
+25,,<span class='scene-font-katari'>その時、グレアの思いが通じた様に</span><br><span class='scene-font-katari'>祭壇を覆うばかりの眩い光が、</span><br><span class='scene-font-katari'>辺り一面に降り注ぐのだった。</span>,<span class='scene-font-katari'>这时，祭坛像是回应古蕾雅一般</span><br><span class='scene-font-katari'>炫目的白光，</span><br><span class='scene-font-katari'>从一边照射下来。</span>
 26,グレア/古蕾雅,キャッ……,唔啊……
 27,オーウェン/欧文,凄まじい力だ……,何等强大的力量……
 28,ビィ/碧,なんだこのすげぇ光は！,这光怎么这么厉害！
