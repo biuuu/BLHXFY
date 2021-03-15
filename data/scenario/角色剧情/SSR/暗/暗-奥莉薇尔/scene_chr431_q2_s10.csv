@@ -10,12 +10,12 @@ id,name,text,trans
 8,村の女性/村里的女性,いいえ……もう何人か大怪我を……<br>私もなんとか包囲を抜けて、<br>助けを呼びに来たのです……,不……已经有好多人身负重伤……<br>我也是好不容易突破包围，<br>来寻求帮助……
 9,ビィ/碧,良く見りゃ姉ちゃん、<br>あちこち怪我してるじゃねぇか！<br>早く手当しねぇと……,仔细一看姐姐你，<br>不是浑身是伤吗！<br>要快点处理……
 10,村の女性/村里的女性,私のことはいいんです、<br>それより村を、村をどうか……！,不要管我了<br>快救救村子，请救救……！
-11,,<span class='scene-font-katari'>切迫した状況を知った姬塔は、</span><br><span class='scene-font-katari'>村を包囲する魔物の群れを</span><br><span class='scene-font-katari'>撃破するために出発する。</span>,<span class='scene-font-katari'>姬塔明白这是刻不容缓的事态</span><br><span class='scene-font-katari'>于是立刻出发</span><br><span class='scene-font-katari'>前往了被魔物包围的村子。</span>
+11,,<span class='scene-font-katari'>切迫した状況を知った姬塔は、</span><br><span class='scene-font-katari'>村を包囲する魔物の群れを</span><br><span class='scene-font-katari'>撃破するために出発する。</span>,<span class='scene-font-katari'>姬塔明白事态刻不容缓，</span><br><span class='scene-font-katari'>于是立刻出发</span><br><span class='scene-font-katari'>前往了被魔物包围的村子。</span>
 12,,<span class='scene-font-katari'>オリヴィエもまた、</span><br><span class='scene-font-katari'>姬塔に頼まれ</span><br><span class='scene-font-katari'>他の団員達に続いた。</span>,<span class='scene-font-katari'>奥莉薇尔也被</span><br><span class='scene-font-katari'>姬塔拜托</span><br><span class='scene-font-katari'>和其他的团员一起去了。</span>
 15,,<span class='scene-font-katari'>村を急いで救うため、</span><br><span class='scene-font-katari'>姬塔は団員達に</span><br><span class='scene-font-katari'>作戦を告げる。</span>,<span class='scene-font-katari'>为了尽快解救村庄</span><br><span class='scene-font-katari'>姬塔把战术</span><br><span class='scene-font-katari'>告诉团员。</span>
 16,オリヴィエ/奥莉薇尔,団員をチームに分ける？,把团员分成小队？
-17,オリヴィエ/奥莉薇尔,なるほど……村を囲む魔物の群れも、<br>幾つかの小さな群れに分かれている。<br>各個撃破を狙うわけだな。,原来如此……包围村子的魔物，<br>也分为各个小队。<br>是要把它们各个击破吧。
-18,オリヴィエ/奥莉薇尔,戦力の分散にはなるが……<br>しかし、村に魔物がなだれ込む<br>可能性を考えれば致し方ない、か。,战力分散开了……<br>但是，考虑到可能有魔物混进村子的话<br>也没有办法啊。
+17,オリヴィエ/奥莉薇尔,なるほど……村を囲む魔物の群れも、<br>幾つかの小さな群れに分かれている。<br>各個撃破を狙うわけだな。,原来如此……包围村子的魔物，<br>也分成了各个小队。<br>是要把它们各个击破吧。
+18,オリヴィエ/奥莉薇尔,戦力の分散にはなるが……<br>しかし、村に魔物がなだれ込む<br>可能性を考えれば致し方ない、か。,战力分散了……<br>但是，考虑到可能有魔物混进村子，<br>也没有办法啊。
 19,オリヴィエ/奥莉薇尔,了解した、作戦に従おう。<br>私は姬塔殿に<br>同行すればいいんだな？,我明白了，就这样吧。<br>我和姬塔阁下<br>一同前往就好了吗？
-20,,<span class='scene-font-katari'>手早く組を分けた姬塔は、</span><br><span class='scene-font-katari'>近くにいる魔物達を倒しに向かう。</span>,<span class='scene-font-katari'>将组分好的姬塔</span><br><span class='scene-font-katari'>去将近处的魔物打倒。</span>
+20,,<span class='scene-font-katari'>手早く組を分けた姬塔は、</span><br><span class='scene-font-katari'>近くにいる魔物達を倒しに向かう。</span>,<span class='scene-font-katari'>姬塔迅速分好队伍，</span><br><span class='scene-font-katari'>准备去打倒近处的魔物。</span>
 info,麻友桑的话筒,,scene_chr431_q2_s10

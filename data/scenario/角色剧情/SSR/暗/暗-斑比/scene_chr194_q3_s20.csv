@@ -1,0 +1,89 @@
+id,name,text,trans
+0-chapter_name,,おいしいスープ,美味汤
+0-synopsis,,ヴァンパイアという未知の存在に脅える村人達だったが、ヴァンピィの作ったスープを飲んで涙を流すヴァンパイアの女性の姿に心を動かされ、和解を申し出る。以来、ヴァンパイアを客人として温かく迎えた村人達の姿を見て、スープ一杯で種族の壁を越えさせたヴァンピィに、一行は王としての資質を見たのであった。,虽然村民们警戒着吸血鬼这一未知的存在，可看到，因斑比的汤而留下泪水的女吸血鬼的身影，他们的内心融化了，于是提出和解。看着用一碗汤打破种族隔阂，让村民们将吸血鬼看作可客人的斑比，一行人感受到了她身上王者的气概。
+0,,<span class='scene-font-katari'>一行は自衛団の無力化に成功する。</span><br><span class='scene-font-katari'>だが、村人達は一行に対し、</span><br><span class='scene-font-katari'>強い怖れを抱いている様子を見せた。</span>,<span class='scene-font-katari'>一行人击败自卫团后。</span><br><span class='scene-font-katari'>但是，村民们还是</span><br><span class='scene-font-katari'>很害怕一行人。</span>
+1,,<span class='scene-font-katari'>そんな村人達を見て、</span><br><span class='scene-font-katari'>ヴァンピィは深く息を吸い込んだ。</span>,<span class='scene-font-katari'>看着这样的村民们，</span><br><span class='scene-font-katari'>斑比深深地吸了一口气。</span>
+2,ヴァンピィ/斑比,ぜーいん！！<br>しょくどーへしゅーごー！！,啊ー真是的！！<br>向食堂ー进ー发ー！！
+3,村の若者１/年轻的村民１,っ！？<br>……え？,！？<br>……诶？
+4,ヴァンピィ/斑比,すーぷ作るの！！<br>だからしゅーごー！！<br>そして案内しなさい！！,要做汤！！<br>所以去食ー堂ー！！<br>你们快点带我去！！
+5,村の若者１/年轻的村民１,えっ！？　あ、え……,诶！？　啊，可……
+6,ヴァンピィ/斑比,はやく！！,快点！！
+7,村の若者１/年轻的村民１,は、はい！！,好，好的！！
+8,村の若者２/年轻的村民２,な、なんだ……？,怎，怎么了……？
+9,村長/村长,い、いったい何をする気なんだ……？,到底是要干什么啊……？
+10,ラカム/拉卡姆,おい、村長さんよ。<br>ちょっと話があるんだが……,喂，村长。<br>能否借一步说话……
+12,,<span class='scene-font-katari'>ラカムは村長と村人達に、</span><br><span class='scene-font-katari'>ヴァンパイアの女性が凶悪な魔物を</span><br><span class='scene-font-katari'>追い払っていたことを説明する。</span>,<span class='scene-font-katari'>拉卡姆向村长及村民们</span><br><span class='scene-font-katari'>说明了吸血鬼的女性</span><br><span class='scene-font-katari'>将魔物驱赶的事实。</span>
+13,,<span class='scene-font-katari'>村人達は半信半疑になりつつも、</span><br><span class='scene-font-katari'>一旦、食堂へ集まることに決める。</span>,<span class='scene-font-katari'>虽然村民们对此半信半疑，</span><br><span class='scene-font-katari'>但还是，决定在食堂集合。</span>
+14,,<span class='scene-font-katari'>ヴァンピィは姬塔と共に</span><br><span class='scene-font-katari'>スープを作り始め、</span><br><span class='scene-font-katari'>村人と一行は食堂で待機していた。</span>,<span class='scene-font-katari'>斑比和姬塔一起</span><br><span class='scene-font-katari'>开始做汤，</span><br><span class='scene-font-katari'>而村民则与剩下的人一起待在食堂 。</span>
+16,ヴァンピィ/斑比,ほらほらけんぞくぅ！<br>お野菜ちゃんと切ってー！,快来快来眷属！<br>来切菜ー！
+17,ヴァンピィ/斑比,そーそー！<br>じょーずじょーずぅ！,对ー对ー！<br>干得好ー干得好ー！
+18,,<span class='scene-font-katari'>厨房から聞こえてくる声とは裏腹に、</span><br><span class='scene-font-katari'>食堂には剣吞な空気が流れていた。</span>,<span class='scene-font-katari'>与厨房传来的轻松气氛正相反，</span><br><span class='scene-font-katari'>食堂里一股剑拔弩张的气氛。</span>
+19,村の若者１/年轻的村民１,あのヴァンパイア……<br>村を救ったらしいが本当か……？,那个吸血鬼……<br>真的是她救了村子吗……？
+20,村の若者２/年轻的村民２,信じられねぇ……<br>俺達を油断させて食おうとしてるに<br>決まってる……,少骗人……<br>她肯定会毫不犹豫地<br>把我们都吃掉的……
+21,ヴァンパイアの女性/女性吸血鬼,うう……,唔唔……
+22,ラカム/拉卡姆,大丈夫だ。<br>なにかあったら俺達がなんとかするさ。,别担心。<br>出事了有我们担着呢。
+24,,<span class='scene-font-katari'>しばらくすると、</span><br><span class='scene-font-katari'>ヴァンピィと姬塔が</span><br><span class='scene-font-katari'>スープを運んでやってくる。</span>,<span class='scene-font-katari'>过了一段时间，</span><br><span class='scene-font-katari'>斑比和姬塔</span><br><span class='scene-font-katari'>将汤送了出来。</span>
+26,ヴァンピィ/斑比,おまたせー！！<br>あったかすーぷだよ！！,就等了ー！！<br>新出炉的汤来了ー！！
+27,ルリア/露莉亚,わぁー……<br>とってもおいしそうですねー！！,哇啊ー……<br>看起来好好吃啊ー！！
+28,ヴァンピィ/斑比,あたりまえでしょ！<br>それにおいしそう、じゃなくてー<br>おいしーんだから！,那是自然！<br>而且，不是看起来ー<br>是很好吃ー！
+29,ヴァンピィ/斑比,はい、みんな食べていいよー！<br>はやくはやく！<br>さめないうちにー！！,行了，大家都来吃ー！<br>快点快点！<br>趁热吃ー！！
+30,ラカム/拉卡姆,どれどれ……<br>そんじゃいただきまーっす……,我看看我看看……<br>那我就开吃了ー……
+31,,<span class='scene-font-katari'>村人達とヴァンパイアの女性も、</span><br><span class='scene-font-katari'>恐る恐る口へスープを運んでいく。</span>,<span class='scene-font-katari'>村民们和女吸血鬼</span><br><span class='scene-font-katari'>也诚惶诚恐地喝着汤。</span>
+32,ヴァンピィ/斑比,どーお？　どーお？,如ー何？　如ー何？
+33,ラカム/拉卡姆,こ、これは……,这，这……
+34,村の若者１/年轻的村民１,な、なんとも……,居，居然……
+35,村の若者２/年轻的村民２,形容しがたい……<br>なんの味だこれ……,无法形容……<br>这是什么味道……
+36,ヴァンピィ/斑比,えっ！？<br>なんの、って……,欸！？<br>什么，是……
+37,ルリア/露莉亚,え、えっと……<br>とっても個性的な味です！,呃，呃……<br>这个味道很有个性！
+38,ヴァンピィ/斑比,そ、それってどーいう意味！？<br>ねぇ、アンタは！？<br>おいしーよね！？,你，你这是什么意思！？<br>嗳，你来说！？<br>很好吃吧！？
+39,ヴァンパイアの女性/女性吸血鬼,……率直に申し上げて<br>……不味い、です。,……恕我直言<br>……很，不好吃。
+40,ヴァンパイアの女性/女性吸血鬼,けど……こんなに、お腹が……<br>心が温まるスープは……初めて……,但是……我从来没……<br>喝过这么……温暖心灵的汤了……
+41,ヴァンパイアの女性/女性吸血鬼,本当に……本当に、温かい……,真的……真的，很温暖……
+42,,<span class='scene-font-katari'>ヴァンパイアの女性は</span><br><span class='scene-font-katari'>スープを口へ運びながら、</span><br><span class='scene-font-katari'>涙を流す。</span>,<span class='scene-font-katari'>女吸血鬼一边</span><br><span class='scene-font-katari'>喝着汤，</span><br><span class='scene-font-katari'>一边流着泪。</span>
+43,,<span class='scene-font-katari'>ヴァンパイアの女性の</span><br><span class='scene-font-katari'>頬を伝う涙を見て、</span><br><span class='scene-font-katari'>村人達は皆、息を飲んだ。</span>,<span class='scene-font-katari'>村民们看到女吸血鬼</span><br><span class='scene-font-katari'>留下的泪水，</span><br><span class='scene-font-katari'>都屏住了呼吸。</span>
+44,村の若者１/年轻的村民１,涙……,泪……
+45,村の若者２/年轻的村民２,あのヴァンパイアにも……<br>俺達と、同じ心があるんだな……,那个吸血鬼……<br>也和我们有着一样的心吗……
+46,村の若者１/年轻的村民１,な、なぁ姉ちゃん！<br>アンタ空腹なんだろ？<br>そこの騎空士さんから聞いたよ。,喂，喂姐姐！<br>你饿了吧？<br>我听那边的骑空士说了。
+47,村の若者１/年轻的村民１,それなら、<br>なんか作って来てやるよ。<br>何が食いたい？,那，<br>我给你做点什么吧。<br>想吃什么？
+48,ヴァンパイアの女性/女性吸血鬼,い、いいんですか……？,可，可以吗……？
+49,村の若者２/年轻的村民２,ああ……俺達アンタを誤解してたよ。<br>村を救ってくれたのも……<br>きっと本当なんだろう。,嗯……我们误会你了。<br>你救了这个村子……<br>当然可以啊。
+50,村長/村长,都合がよく……今さらで……<br>不快に思うかもしれないが……<br>歓迎させてはくれないだろうか？,正好……虽然有些迟了……<br>可能会让你觉得不舒服……<br>能让我们欢迎你吗？
+51,ヴァンパイアの女性/女性吸血鬼,…………はい！,…………当然！
+52,,<span class='scene-font-katari'>温かな空気に食堂が包まれる中、</span><br><span class='scene-font-katari'>一人だけ、不機嫌そうに</span><br><span class='scene-font-katari'>頬を膨らませる者が居た。</span>,<span class='scene-font-katari'>在祥和的气氛中</span><br><span class='scene-font-katari'>只有一人，不满地</span><br><span class='scene-font-katari'>鼓起腮帮。</span>
+53,ヴァンピィ/斑比,ちょっとー！！<br>まずいってどういうことー！？,等等ー！！<br>不好吃是怎么回事ー！？
+54,ヴァンピィ/斑比,ラカム兄ちゃん！！<br>おいしーよね！？　ねっ！？,拉卡姆大哥！！<br>好吃的吧ー！？　嗯！？
+55,ラカム/拉卡姆,あ、いや……その……<br>おい、ビィ……どうだ……？,啊，不是……那个……<br>喂，碧……怎么说啊……？
+56,ビィ/碧,んなっ！？<br>お、オイラにふるなよ……！！<br>えっと、うーん……,啊！？<br>别，别扔给我啊……！！<br>呃，嗯ー……
+57,ヴァンピィ/斑比,はっきりこたえなさーい！！,痛痛快快地说ー！！
+58,ビィ/碧,いて、いててて！！<br>つね、つねるなぁ！！,好疼，好疼好疼！！<br>别，别拧我啊！！
+59,ヴァンパイアの女性/女性吸血鬼,ふふっ……不思議、ですね……<br>あれほど、子供っぽい方なのに<br>確かに、王たるものを持っている……,呵呵……真是，不可思议……<br>看起来这么像孩子的人，<br>却，拥有着王者的气概……
+60,ヴァンパイアの女性/女性吸血鬼,ヴァンパイアの私と……<br>人間達を……たった一杯のスープで<br>つなげて下さった……,将吸血鬼的我……<br>与人类……仅仅用一碗汤<br>就连接起来……
+61,ヴァンピィ/斑比,まずくなんかないもん！！<br>ぜったいおいしいもん！！,才没有不好吃！！<br>绝对很好吃！！
+62,ヴァンパイアの女性/女性吸血鬼,……あの方は、無自覚なようですが……,……那位大人，看起来毫无自觉啊……
+63,ヴァンパイアの女性/女性吸血鬼,ヴァンピィ様はやがて、本当に<br>私達ヴァンパイアの思想を、<br>未来を、きっと変えてくれるでしょう。,斑比大人真的，<br>会改变我们吸血鬼的未来<br>总有一天，。
+64,ヴァンパイアの女性/女性吸血鬼,私が言うことでは<br>ないのかもしれませんが……,虽然这不是我<br>该说的话……
+65,ヴァンパイアの女性/女性吸血鬼,彼女の成長をどうか、<br>手助けしてあげてください。,请务必，<br>帮助她成长。
+66,,<span class='scene-font-katari'>ヴァンパイアの女性の言葉に、</span><br><span class='scene-font-katari'>姬塔は深く頷いた。</span>,<span class='scene-font-katari'>听了女吸血鬼的话，</span><br><span class='scene-font-katari'>姬塔深深地点了点头。</span>
+67,ヴァンピィ/斑比,ちょっとー！！<br>ちょっとけんぞくぅ！！<br>こっちへきなさい！！,不是ー！！<br>眷属！！<br>来这边！！
+68,ヴァンピィ/斑比,……みんなね、不味いっていうの。<br>ヴァンピィちゃん、<br>一生懸命作ったのに……,……大家，都说不好吃。<br>斑比ちゃん，<br>很努力了……
+69,ヴァンピィ/斑比,ねぇ……本当においしくない……？,嗳……真的不好吃吗……？
+70,,<span class='scene-font-katari'>ヴァンピィは不安そうに、</span><br><span class='scene-font-katari'>姬塔にスープが入った皿を</span><br><span class='scene-font-katari'>手渡してきた。</span>,<span class='scene-font-katari'>斑比一脸不安地，</span><br><span class='scene-font-katari'>将盛着汤的盘子</span><br><span class='scene-font-katari'>递到姬塔的手上。</span>
+70-sel1_txt,,<span class='scene-font-katari'>全部持ってこい。</span>,<span class='scene-font-katari'>都拿过来。</span>
+70-sel2_txt,,<span class='scene-font-katari'>よくがんばった。</span>,<span class='scene-font-katari'>你很努力了。</span>
+71,,<span class='scene-font-katari'>姬塔はスープを飲み干し</span><br><span class='scene-font-katari'>力強く、そう言い放った。</span>,<span class='scene-font-katari'>姬塔将汤一饮而尽</span><br><span class='scene-font-katari'>豪爽地扔出一句话。</span>
+72,ヴァンピィ/斑比,けんぞくぅ……<br>……えへへっ！<br>ありがとっ！,眷属……<br>……欸嘿嘿！<br>谢谢！
+73,ヴァンピィ/斑比,わかった！<br>ほら、けんぞくぅが飲むんだから、<br>みんな飲まないなら返してー！！,好的！<br>看吧，眷属会喝的<br>你们要是不喝的话就拿过来ー！！
+74,,<span class='scene-font-katari'>その後、姬塔は</span><br><span class='scene-font-katari'>ヴァンピィが作ったスープを</span><br><span class='scene-font-katari'>全て飲み干した。</span>,<span class='scene-font-katari'>那之后，姬塔</span><br><span class='scene-font-katari'>把斑比做的汤</span><br><span class='scene-font-katari'>统统喝光了。</span>
+75,ヴァンピィ/斑比,けんぞくぅ……<br>ほめてくれるの……？,眷属……<br>你会夸赞我吗……？
+76,ヴァンピィ/斑比,そ・れ・な・ら～！！<br>全部飲んでー！！<br>ヴァンピィちゃんのすーぷ！！,这・样・的・话～！！<br>全部喝光ー！！<br>斑比ちゃん做的汤全ー部！！
+77,ヴァンピィ/斑比,ほらほら遠慮しないでー！！<br>飲んで飲んでー！！,不要客气不要客气ー！！<br>喝吧喝吧ー！！
+78,,<span class='scene-font-katari'>その後、姬塔は</span><br><span class='scene-font-katari'>ヴァンピィが作ったスープを</span><br><span class='scene-font-katari'>全て、無理やり飲まされた。</span>,<span class='scene-font-katari'>之后，姬塔被迫</span><br><span class='scene-font-katari'>把斑比做的汤</span><br><span class='scene-font-katari'>全部喝光了。</span>
+79,ヴァンピィ/斑比,えへへー！<br>おいしかったよね？<br>けんぞくぅ！,欸嘿嘿ー！<br>好喝吧？<br>眷属！
+80,ラカム/拉卡姆,オマエ……！！<br>よくやった……よくやったよ！！,你啊……！！<br>干得漂亮……干得漂亮！！
+81,ヴァンピィ/斑比,それじゃあ今度は<br>ヴァンピィちゃんのお腹を満たしてね！<br>もーおなかぺこぺこなんだから！,那这次<br>轮到斑比ちゃん吃饱喝足了！<br>肚子ー已经咕咕叫了！
+82,ヴァンピィ/斑比,早くすーぷつくって？<br>ね、けんぞくぅー？,快点ー做汤给我？<br>嗳，眷属ー？
+83,,<span class='scene-font-katari'>姬塔は力無く頷き、</span><br><span class='scene-font-katari'>ヴァンピィは心より嬉しそうに微笑んだ。</span>,<span class='scene-font-katari'>姬塔无奈地点了点头，</span><br><span class='scene-font-katari'>斑比真心地微笑起来。</span>
+84,ヴァンピィ/斑比,えへへへー！<br>ありがとー！　けんぞくぅー！,欸嘿嘿ー！<br>谢谢你ー！　眷属ー！
+85,,<span class='scene-font-katari'>二人のやり取りを見て、</span><br><span class='scene-font-katari'>村人達、ヴァンパイアの女性は</span><br><span class='scene-font-katari'>楽しげに微笑んだ。</span>,<span class='scene-font-katari'>看着二人的互动，</span><br><span class='scene-font-katari'>村民们，还有女吸血鬼，</span><br><span class='scene-font-katari'>都开心地笑起来。</span>
+86,,<span class='scene-font-katari'>一行はその晩、村に泊まり</span><br><span class='scene-font-katari'>とても温かで優しい</span><br><span class='scene-font-katari'>一夜を過ごすのだった。</span>,<span class='scene-font-katari'>当晚，一行人留在村子里</span><br><span class='scene-font-katari'>度过了温暖的一个晚上。</span>
+info,麻友桑的话筒,,scene_chr194_q3_s20
