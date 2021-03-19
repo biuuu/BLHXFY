@@ -911,10 +911,10 @@ raid/,召喚石情報,召唤石信息,
 /listall/content,リサイクル状況,回收状况,10
 /listall/content,精錬完了まで,距精炼完毕还有,10
 /listall/content,キャラ数,角色数,7
+/enhancement_weapon/content,素材を選択してください（最大20個）,请选择素材（最大20个）,
+/enhancement_weapon/content,素材にできる武器がありません,没有可作为素材的武器,
 /enhancement_weapon/content,ベース武器を選択してください,请选择基础武器,
 /enhancement_weapon/content,ベースにできる武器がありません,没有可作为基础的武器,
-/enhancement_weapon/content,素材を選択してください（最大20個）,请选择素材（最大20个),
-/enhancement_weapon/content,素材にできる武器がありません,没有可作为素材的武器,
 /enhancement_weapon/content/material,素材武器を選択してください,请选择素材武器,5
 /enhancement_weapon/content,育成アイテムを使用できます,可使用育成道具
 /party/content/set_poses,スキン・POSE切り替え,皮肤·POSE切换,
@@ -965,3 +965,6 @@ raid/,召喚石情報,召唤石信息,
 /evolution_summon/content/material,ガチャ,卡池,
 /evolution_summon/content/material,育成アイテムが使用できます。,可使用育成道具,
 /evolution_summon/content/material,召喚石上限解放TOPに戻る,回到召唤石上限解放TOP页面,
+/quest/content/,次の条件を満たすことで<br>フェイトエピソードが解放されます。,满足下记条件后<br>可解放剧情。,
+/archive/content/detail,このエピソードは以下のキャラや<br>スキンの有無でシナリオが変化します。,这个剧情的剧本会根据以下角色<br>和皮肤的有无发生变化。,
+/archive/content/detail,加入済のキャラや所持しているスキンの場合、<br>シナリオパターンを選択することができます。,在角色已加入和已拥有皮肤时，<br>可以选择不同剧本。,
