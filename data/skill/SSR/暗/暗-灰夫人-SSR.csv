@@ -1,12 +1,13 @@
 ﻿id,name,detail
 npc,灰夫人,3040005000
 special,禁忌之爱,暗属性伤害(特大)
-special-フォビドゥンラヴァー,死亡华尔兹,暗属性伤害(特大)/赋予敌人僵尸效果
-special-Death March,死亡华尔兹,暗属性伤害(特大)/赋予敌人僵尸效果
-skill-1,黑暗,对敌方单体造成暗属性伤害(中)/暗属性防御DOWN(10%)
-skill-2,深渊,敌方防御DOWN(25%)
-skill-2++,深渊,敌方防御DOWN(30%)/缓速效果
-skill-3,灾厄,对敌方单体造成暗属性伤害/中毒效果
-support-1,爱憎的冲动,攻击UP
-support-2,黑结界,我方全体对弱化效果的抗性UP
-skill-lb,LB技能,有概率将弱化效果造成的伤害转换为HP恢复
+special-ボーン・デスワルツ,死亡华尔兹,暗属性伤害(特大)/<span class=text-blue>◆对处于中毒状态的敌人进行暗属性技能追击</span>
+special-Death March,死亡华尔兹,暗属性伤害(特大)/<span class=text-blue>◆对处于中毒状态的敌人进行暗属性技能追击</span>
+skill-1,黑暗,<div class=prt-text-small>对敌方单体造成暗属性伤害/施加减速效果/<span class=text-blue>◆对处于10个或更多弱化状态的敌人该技能发动两次</span></div>
+skill-2,深渊,敌方防御DOWN(25%)/暗属性防御DOWN(15%)
+skill-2++,深渊,<div class=prt-text-small>驱散一个敌方的强化状态/敌方防御DOWN(25%)/暗属性防御DOWN(15%)</div>
+skill-3,祸源,对敌方单体造成暗属性伤害/中毒效果
+skill-カラミティベイン,灾厄祸源,<div class=prt-text-small>对敌方全体造成暗属性伤害/中毒效果/麻痹效果/致命绿雾效果</div>
+support-1,爱憎的冲动,根据敌人的弱化数量，自身获得奥义伤害UP/奥义伤害上限UP
+support-2,黑结界,我方全体弱化抗性UP，战斗开始时，我方暗属性角色获得弱化无效(1次)
+skill-lb,LB技能,一定概率将弱化效果造成的伤害转换为恢复效果
