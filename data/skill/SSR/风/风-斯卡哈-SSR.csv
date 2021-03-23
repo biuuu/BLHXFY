@@ -10,6 +10,6 @@ skill-2++,力量追求,<div class=prt-text-small>对敌方单体造成风属性�
 skill-3,巨龙之心,我方单体获得屏障效果(效果量为自身25%MHP，最大5000)<span class=text-blue>◆消耗自身25%MHP</span>
 support-1,真龙的勾爪,对土属性敌人伤害20%UP
 support-2,久远的睿智,风属性攻击UP效果中，自身攻击30%UP/连击率UP
-support-2+,久远的睿智,<div class=prt-text-small>风属性攻击UP效果中，自身攻击30%UP/连击率UP/赋予有屏障效果的我方成员10%风属性追击效果</div>
-skill-lb,LB技能,风属性攻击UP效果中，回避率UP
+support-2+,久远的睿智,<div class=prt-text-small>风属性攻击UP效果中，自身攻击30%UP/连续攻击率UP/赋予有屏障效果的我方成员10%风属性追击效果</div>
+skill-lb,LB技能,风属性攻击UP效果中，在本回合概率获得全回避
 intro,护国真龙,真龙与人类签订契约，自与星之民争斗的时代起就在阿尔斯塔岛上闭门不出。在经历了可以认为是永远的孤独后，她开始于人类交流，并且被激起了好奇心。解放那如风一般自由的内心的时刻到了。

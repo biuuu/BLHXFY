@@ -1,0 +1,8 @@
+﻿id,name,detail
+npc,圣德芬,3040312000
+special,无限之光,土属性伤害(特大)/自身下一次黄道发动两次
+skill-1,定法囚牢,对敌方单体造成土属性伤害/元素不和/审判之槛
+skill-2,黄道,<div class=prt-text-small>对敌方单体造成土属性伤害/随机夺取一个四大元素<span class=text-blue>◆夺取元素对应的敌方属性攻击力DOWN，我方属性攻击力UP</span></div>
+skill-3,恶,驱散自身以外的敌我全部强化效果/奥义即刻发动/奥义性能提升
+support-1,四大天司之羽,<div class=prt-text-small>根据拥有的四属性攻击力UP状态，获得对应的属性追击效果/拥有全部四属性攻击力UP状态时，获得驱散免疫</div>
+support-2,自己存在的意义,<div class=prt-text-small>自身无法回复HP/受到的回合伤害均会转化为治疗/每回合损失一定HP/暴击率UP/防御力UP/必定连击/伤害上限提升20%</div>

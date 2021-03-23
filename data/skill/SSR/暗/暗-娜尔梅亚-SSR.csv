@@ -10,8 +10,8 @@ special-Freeflutter Dance II,蝴蝶刃改·神乐舞,<div class=prt-text-small>�
 skill-1,蝴蝶刃,<div class=prt-text-small>切换架势/获得弱点属性追击效果 <br><span class=text-blue>◆每次切换架势自身获得攻击UP/防御DOWN</span></div>
 skill-2,泡沫梦幻,<div class=prt-text-small>对敌方单体造成暗属性伤害/赋予蝴蝶相克效果 <br>◆源氏架势：效果中必定二连击<br><span class=text-blue>◆神乐架势：敌人的CT越多，降低防御越多</span></div>
 skill-2++,泡沫梦幻,<div class=prt-text-small>对敌方单体造成暗属性伤害/赋予蝴蝶相克效果 <br>◆源氏架势：效果中必定三连击<br><span class=text-blue>◆神乐架势：敌人防御DOWN</span></div>
-skill-3,镜花水月,<div class=prt-text-small>源氏架势：驱散敌人1个强化效果/赋予SLOW效果<br><span class=text-blue>◆神乐架势：自身攻击大幅UP(对带有蝴蝶相克的敌人/1次)/暴击率UP</span></div>
-skill-4,蝴蝶双舞,自身奥义性能UP(1次)/高昂效果/蝴蝶双舞效果
+skill-3,镜花水月,<div class=prt-text-small>◆源氏架势：驱散敌人1个强化效果/赋予减速效果<br><span class=text-blue>◆神乐架势：自身攻击大幅UP(对带有蝴蝶相克的敌人/1次)/暴击率UP</span></div>
+skill-4,蝴蝶双舞,自身奥义性能UP(1次)/高扬效果/蝴蝶双舞效果
 support-1,质朴刚毅,强化效果不会被驱散/一场战斗中有一次不死身效果
 support-2,交锋,有极小概率反射伤害
 support-2+,交锋,有极小概率反射伤害/使用镜花水月时反射必定发动
