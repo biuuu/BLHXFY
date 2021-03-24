@@ -1,9 +1,9 @@
 ﻿id,name,detail
 npc,伊尔莎,3040148000
-special,爆裂抹消,土属性伤害(特大)/敌方二连击率DOWN/装填所有子弹
-skill-1,圣洁地狱,对敌方单体造成无属性伤害(5%敌HP)/赋予敌方恐怖效果/装填所有子弹 <span class=text-blue>◆仅能在子弹为0时使用</span>
-skill-2,赞美诗,对敌方单体造成土属性伤害/敌方防御25%DOWN <span class=text-blue>◆消耗1子弹</span>
-skill-3,尖鸣,消耗所有子弹，对敌方单体造成土属性伤伤害<span class=text-blue>◆根据残弹数量，伤害UP/伤害上限UP</span>
-support-1,第九颗子弹,普攻消耗子弹 <span class=text-blue>◆战斗开始时子弹数量为9(最大9)</span>
-support-2,调停之枪尼巴斯,子弹有剩余时，伤害UP/子弹耗尽时，不进行普攻，装填子弹
-skill-lb,LB技能,普攻有概率攻击全体敌人
+special,爆破抹杀,土属性伤害(特大)/敌方连击率DOWN/获得满层「子弹」
+skill-1,神圣地狱,<div class=prt-text-small>对敌方单体造成基于当前HP的无属性伤害/恐怖效果/获得满层「子弹」<span class=text-blue>◆仅能在「子弹」为0时使用</span></div>
+skill-2,赞美诗,对敌方单体造成土属性伤害/防御力DOWN(25%)<span class=text-blue>◆消耗1层「子弹」</span>
+skill-3,尖鸣,<div class=prt-text-small>消耗所有「子弹」，对敌方单体造成土属性伤害<span class=text-blue>◆根据「子弹」数量，伤害性能UP</span></div>
+support-1,第九颗子弹,<div class=prt-text-small>普通攻击时需要根据连击数消耗「子弹」 <span class=text-blue>◆战斗开始时「子弹」数量为9层(最大9层)</span></div>
+support-2,调停之枪尼巴斯,<div class=prt-text-small>「子弹」有剩余时，伤害UP/「子弹」耗尽时，不进行普攻，装填「子弹」</div>
+skill-lb,LB技能,普通攻击时概率攻击全体化/暴击率UP

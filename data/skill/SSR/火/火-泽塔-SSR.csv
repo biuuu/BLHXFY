@@ -1,13 +1,13 @@
 id,name,detail
 npc,泽塔,3040028000
 special,日珥之枪,火属性伤害(特大)/自身暴击率UP
-special-シリウスロア,天狼星的咆哮,<div class=prt-text-small>火属性伤害(特大)/自身暴击率UP <span class=text-blue>◆对附有「阿尔贝斯之缚」状态的敌人，奥义性能UP</span></div>
-skill-1,阿尔贝斯之枪,对敌方单体造成火属性伤害/赋予敌人标记「阿尔贝斯之缚」
-skill-1++,阿尔贝斯之枪,<div class=prt-text-small>对敌方单体造成火属性伤害/赋予敌人标记「阿贝斯之缚」/下次攻击必定三连击</div>
-skill-2,狂想曲,<div class=prt-text-small>自己的攻击大幅UP(仅对附有「阿尔贝斯之缚」状态的敌人有效/1次)<span class=text-blue>◆对象处于Break状态时攻击UP</span></div>
+special-シリウスロア,天狼星的咆哮,<div class=prt-text-small>火属性伤害(特大)/自身暴击率UP <span class=text-blue>◆对处于「阿尔贝斯之缚」的目标，奥义性能UP</span></div>
+skill-1,阿尔贝斯之枪,对敌方单体造成火属性伤害/「阿尔贝斯之缚」
+skill-1++,阿尔贝斯之枪,<div class=prt-text-small>对敌方单体造成火属性伤害/「阿尔贝斯之缚」/自身该回合必定三连击</div>
+skill-2,狂想曲,<div class=prt-text-small>自身攻击力UP(对处于「阿尔贝斯之缚」的目标攻击力大幅UP/1次)<span class=text-blue>◆目标处于Break状态时攻击力UP</span></div>
 skill-3,千炎,对敌方全体造成火属性伤害/驱散一个强化效果
-skill-4,狂怒之雨,根据敌人现在的HP对其造成无属性伤害/赋予减速效果
-support-1,阿尔贝斯的契约者,发动暴击时的伤害上限UP/发动三连击时造成火属性追击效果
-support-2,穿光的激情,技能伤害不会消费追击/使用狂想曲的回合，自身的攻击技能在本回合均可以使用两次
-skill-lb,LB技能,对于附有「阿尔贝斯之缚」状态的敌人，暴击率UP
+skill-4,狂怒之雨,根据目标现在的HP对其造成无属性伤害/赋予减速效果
+support-1,阿尔贝斯的契约者,自身暴击时，伤害上限UP/三连击时附加火属性追击效果
+support-2,穿光的激情,技能伤害不会消耗追讨与标记追讨/使用「狂想曲」的回合，自身的攻击技能均可以使用两次
+skill-lb,LB技能,自身对处于「阿尔贝斯之缚」的目标，暴击率UP
 intro,真红的穿光,为了夸示自己的力量，她眼中闪烁青光，一直盯着猎物。用她的意志和燃烧的枪尖，穿透任何障壁，任何敌人。与她如花般的美貌相反，她的话语如她手中的枪一样锐利无比，但这也是因为她是个强者。
