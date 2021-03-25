@@ -1,10 +1,10 @@
 id,name,detail
 npc,蝴蝶忍,3040310000
 special,虫之呼吸 蝶之舞·戏弄,风属性伤害(特大)/低概率造成即死效果<span class=text-blue>◆对中毒状态的目标奥义性能UP</span>
-skill-1,六连突刺,<div class=prt-text-small>对敌方造成6次风属性伤害/中毒效果/「紫藤花毒」<span class=text-blue>◆敌方使用特殊技时，消耗「紫藤花毒」对敌方全体造成无属性伤害/5层「毒药调合」时，追加麻痹效果</span></div>
+skill-1,六连突刺,<div class=prt-text-small>对敌方造成6次风属性伤害/中毒效果/「紫藤花毒」<span class=text-blue>◆5层「毒药调合」时，追加麻痹效果</span></div>
 skill-2,用毒者,自身攻击力大幅度UP/获得1层「毒药调合」(最大5层)
-skill-3,药学的知识,<div class=prt-text-small>回复我方全体HP(上限2000)/净化一个弱化效果<span class=text-blue>◆5层「毒药调合」效果时，追加全体奥义值上升(20%)</span></div>
+skill-3,药学的知识,<div class=prt-text-small>我方全体HP回复(上限2000)/净化一个弱化效果<span class=text-blue>◆5层「毒药调合」效果时，追加全体奥义值UP(20%)</span></div>
 support-1,虫柱,<div class=prt-text-small>自身回避率UP/根据「毒药调合」层数，攻击力UP/连续攻击率UP/技能性能UP</div>
 support-2,沉静的愤怒,<div class=prt-text-small>自身成为敌方攻击目标的回合，获得1层「毒药调合」</div>
-skill-lb,LB技能,自身普通攻击处于中毒效果的敌人时，附带风属性追击
+skill-lb,LB技能,自身普通攻击处于中毒效果的敌人时，附加风属性追击效果
 intro,舞蝶的毒针,切不断鬼的脖颈的小个头队员从身体内侧制好了侵蚀之毒。正如她沉稳的笑容下隐藏着的愤怒，她的毒会入侵敌人的肉体，瞬间吸尽其生命。

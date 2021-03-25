@@ -3,7 +3,7 @@ npc,德朗克,3040119000
 special,第九时刻,水属性伤害(特大)/火属性攻击力DOWN/水属性防御力DOWN
 skill-1,诡计花招,<div class=prt-text-small>对敌方全体造成5倍水属性伤害<br><span class=text-blue>◆策谋之术:敌方全体弱化耐性DOWN/减速效果</span><br><span class=text-blue>◆烟涛之术:我方全体回复HP(上限1500)/奥义值UP(10%)</span></div>
 skill-2,策略切换,(蓝)披露烟涛之术/(红)披露策谋之术
-skill-3,阻断陷阱,驱散敌方单体1个强化效果/攻防DOWN
+skill-3,阻断陷阱,驱散敌方单体一个强化效果/攻防DOWN
 support-1,策谋一闪,<div class=prt-text-small>策谋之术效果中，回合结束时攻击性能UP(累积)/自身发动奥义后，追加发动1次「诡计花招」</div>
 support-2,烟涛一闪,<div class=prt-text-small>烟涛之术效果中，回合结束时防御性能UP(累积)/敌方使用特殊技的回合，自动发动1次「诡计花招」</div>
 skill-lb,LB技能,自身回复性能HP

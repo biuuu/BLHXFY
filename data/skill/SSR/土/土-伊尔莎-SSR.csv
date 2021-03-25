@@ -6,4 +6,4 @@ skill-2,赞美诗,对敌方单体造成土属性伤害/防御力DOWN(25%)<span c
 skill-3,尖鸣,<div class=prt-text-small>消耗所有「子弹」，对敌方单体造成土属性伤害<span class=text-blue>◆根据「子弹」数量，伤害性能UP</span></div>
 support-1,第九颗子弹,<div class=prt-text-small>普通攻击时需要根据连击数消耗「子弹」 <span class=text-blue>◆战斗开始时「子弹」数量为9层(最大9层)</span></div>
 support-2,调停之枪尼巴斯,<div class=prt-text-small>「子弹」有剩余时，伤害UP/「子弹」耗尽时，不进行普攻，装填「子弹」</div>
-skill-lb,LB技能,普通攻击时概率攻击全体化/暴击率UP
+skill-lb,LB技能,自身普通攻击时概率获得攻击全体化/暴击率UP

@@ -1,6 +1,6 @@
 ﻿id,name,detail
 npc,欧罗巴,3040190000
-special,金牛座光辉,水属性伤害(特大)/我方全体特殊强化(三连击率上升)
+special,金牛座光辉,水属性伤害(特大)/我方全体三连击率UP
 skill-1,魔力迸发,对敌方随机造成3次水属性伤害/我方全体HP回复/净化一个弱化效果
 skill-2,泰洛斯壁垒,<div class=prt-text-small>我方全体攻击力UP/受到的伤害转为火属性/火属性伤害减轻<br><span class=text-blue>◆受到两次伤害解除</span></div>
 skill-3,昴星团,<div class=prt-text-small>对敌方单体造成7倍水属性伤害/自身该回合必定三连击/获得水属性追击效果</div>

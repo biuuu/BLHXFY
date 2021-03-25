@@ -1,7 +1,8 @@
 id,name,detail
 npc,碧卡拉,3020073000
 special,子子尊尊,<div class=prt-text-small>耳朵、去哪儿了……？</div>
-skill-1,,<div class=prt-text-small>啊，请不用在意我……<br><span class=text-blue>◆没有任何效果</span></div>
+skill-1,背阴处,<div class=prt-text-small>啊，请不用在意我……<br><span class=text-blue>◆没有任何效果</span></div>
 skill-2,妄想交流,<div class=prt-text-small>呜……果然还是不行……<br><span class=text-blue>◆没有任何效果</span></div></div>
-support-1,孑然一身的假日,自身无法进行攻击/只要前排还有其他角色就不会成为目标/我方暗属性角色奥义伤害+50%/奥义伤害上限+10%
+support-1,孑然一身的假日,自身无法进行攻击/获得潜伏效果/我方暗属性角色奥义性能UP
+support-2,暗中守护,我方暗属性角色奥义伤害UP
 intro,全空最弱的子神,对作为十二神将之一的少女而言，戴耳朵是阴的自己通向阳的钥匙。然而失去了它就只是一般人罢了，或者说还不如一般人？这种状态真的还能守护世界的安宁吗……
