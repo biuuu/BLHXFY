@@ -1,12 +1,12 @@
 id,name,detail
 npc,赫莱尔·本·夏蕾姆,3040251000
-special,混沌军团,<div class=prt-text-small>暗属性伤害(特大)/我方全体暗属性攻击UP<br><span class=text-blue>◆对处于宵之宣告的敌人进行技能追击</span></div>
-skill-1,清算,<div class=prt-text-small>8倍暗属性伤害/施加宵之宣告</div>
-skill-1+,清算,<div class=prt-text-small>8倍暗属性伤害/施加宵之宣告</div>
-skill-2,不可视之触,<div class=prt-text-small>我方单体获得护盾效果/闪避敌方所有攻击(1次)</div>
-skill-2+,不可视之触,<div class=prt-text-small>我方单体获得护盾效果/闪避敌方所有攻击(1次)</div>
-skill-3,终末,<div class=prt-text-small>敌方全体攻击DOWN/连续攻击率DOWN/特殊技伤DOWN/命中率DOWN</div>
-support-1,审问与拒绝的先知,奥义发动时获得1层失神(最大3层)<br><span class=text-blue>◆根据失神层数，连续攻击率UP/失神3层时增幅大幅提升</span>
-support-2,神话中迷失的孩子,根据敌人弱体效果获得奥义伤害UP/奥义伤害上限UP/暗属性追击效果
-skill-lb,LB技能,根据敌人的弱化状态数量，三连击概率UP
+special,混沌军团,<div class=prt-text-small>暗属性伤害(特大)/我方全体获得暗属性攻击力UP<br><span class=text-blue>◆若目标处于「宵之宣告」则发动技能追击，造成暗属性伤害</span></div>
+skill-1,清算,<div class=prt-text-small>对敌方单体造成8倍暗属性伤害/「宵之宣告」</div>
+skill-1+,清算,<div class=prt-text-small>对敌方单体造成8倍暗属性伤害/「宵之宣告」</div>
+skill-2,不可视之触,<div class=prt-text-small>我方单体获得屏障效果/闪避敌方所有的攻击(1次)</div>
+skill-2+,不可视之触,<div class=prt-text-small>我方单体获得屏障效果/闪避敌方所有的攻击(1次)</div>
+skill-3,终末,<div class=prt-text-small>敌方全体攻击力DOWN/连续攻击率DOWN/特殊技伤害DOWN/命中率DOWN</div>
+support-1,审问与拒绝的先知,<div class=prt-text-small>奥义发动时获得1层「失神」(最大3层)<br><span class=text-blue>◆自身根据「失神」层数，连续攻击率UP/「失神」3层时自身攻击力UP/暴击率UP/伤害上限UP</span></div>
+support-2,神话中迷失的孩子,根据敌人的弱体效果自身获得奥义性能UP/暗属性追击效果
+skill-lb,LB技能,根据敌人弱化效果的数量，自身三连击率UP
 intro,黄昏审问者,于远古时代诞生的神使，再度降临现世。那里对她来说是未来。记忆的缺失令她迷茫，为了填补神话中的空白，她决心踏上空之旅程。

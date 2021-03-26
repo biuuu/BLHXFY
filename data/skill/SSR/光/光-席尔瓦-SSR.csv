@@ -1,10 +1,10 @@
 ﻿id,name,detail
 npc,席尔瓦,3040187000
-special,神力射击,光属性伤害(特大)/对象处于弱点效果中时，伤害50%UP，上限20%UP/自身奥义值20%UP
-skill-1,隐形之鹰,<div class=prt-text-small>潜伏，敌对心DOWN/自身暴击率UP(70%概率造成1.75倍伤害)/奥义伤害上限40%UP/高扬效果(20%)/防御50%DOWN</div>
-skill-2,天才射手,敌方单体攻防30%DOWN/付与弱点效果
-skill-3,潜伏射击,<div class=prt-text-small>与一名后排成员调换　<span class=text-blue>◆调换之后进行掩护设计</span></div>
-support-1,侦查员,光属性成员暴击时伤害上限3%UP
-support-2,并行子弹,<div class=prt-text-small>自身为后排成员时，奥义4连击时对敌人单体造成2倍光属性伤害</div>
+special,神力射击,光属性伤害(特大)/<span class=text-blue>◆目标处于「弱点」时，奥义性能UP/自身奥义值UP(20%)</span>
+skill-1,隐形之鹰,<div class=prt-text-small>自身获得潜伏效果/敌对心DOWN/暴击率UP/奥义伤害上限UP/高扬效果/防御DOWN</div>
+skill-2,洞悉,敌方单体攻防DOWN(30%)/「弱点」
+skill-3,潜伏射击,<div class=prt-text-small>自身与一名后排角色交换位置　<span class=text-blue>◆交换角色攻击后自身发动1次「掩护射击」对敌方单体造成光属性伤害</span></div>
+support-1,侦查员,我方光属性角色暴击时伤害上限UP
+skill-sub,并行子弹,<div class=prt-text-small>我方光属性奥义4连击时，对敌方单体造成光属性伤害</div>
 skill-lb,LB技能,对附有弱点效果的敌人有自属性追击效果
 intro,锐才的射手,驰名全空，身经百战的狙击手，为了需要保护的伙伴扣住了扳机。当一声鸿亮的枪声回响在天空中时，她的又一个伟业就被记录进了历史中。

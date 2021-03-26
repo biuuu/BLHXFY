@@ -1,13 +1,13 @@
 ﻿id,name,detail
 npc,灰夫人,3040005000
 special,禁忌之爱,暗属性伤害(特大)
-special-ボーン・デスワルツ,死亡华尔兹,暗属性伤害(特大)/<span class=text-blue>◆对处于中毒状态的敌人进行暗属性技能追击</span>
-special-Death March,死亡华尔兹,暗属性伤害(特大)/<span class=text-blue>◆对处于中毒状态的敌人进行暗属性技能追击</span>
-skill-1,黑暗,<div class=prt-text-small>对敌方单体造成暗属性伤害/施加减速效果/<span class=text-blue>◆对处于10个或更多弱化状态的敌人该技能发动两次</span></div>
-skill-2,深渊,敌方防御DOWN(25%)/暗属性防御DOWN(15%)
-skill-2++,深渊,<div class=prt-text-small>驱散一个敌方的强化状态/敌方防御DOWN(25%)/暗属性防御DOWN(15%)</div>
+special-ボーン・デスワルツ,死亡华尔兹,暗属性伤害(特大)<span class=text-blue>◆若目标处于中毒效果则发动技能追击，造成暗属性伤害</span>
+special-Death March,死亡华尔兹,暗属性伤害(特大)<span class=text-blue>◆若目标处于中毒效果则发动技能追击，造成暗属性伤害</span>
+skill-1,黑暗,<div class=prt-text-small>对敌方单体造成暗属性伤害/减速效果/<span class=text-blue>◆对处于10个以上弱化效果的目标该技能发动两次</span></div>
+skill-2,深渊,敌方单体防御力DOWN(25%)/暗属性防御力OWN(15%)
+skill-2++,深渊,<div class=prt-text-small>驱散敌方单体一个强化效果/防御力DOWN(25%)/暗属性防御力DOWN(15%)</div>
 skill-3,祸源,对敌方单体造成暗属性伤害/中毒效果
-skill-カラミティベイン,灾厄祸源,<div class=prt-text-small>对敌方全体造成暗属性伤害/中毒效果/麻痹效果/致命绿雾效果</div>
-support-1,爱憎的冲动,根据敌人的弱化数量，自身获得奥义伤害UP/奥义伤害上限UP
+skill-カラミティベイン,灾厄祸源,<div class=prt-text-small>对敌方全体造成暗属性伤害/中毒效果/麻痹效果/「致命绿雾」</div>
+support-1,爱憎的冲动,根据敌人的弱化效果数量，自身获得奥义性能UP
 support-2,黑结界,我方全体弱化抗性UP，战斗开始时，我方暗属性角色获得弱化无效(1次)
-skill-lb,LB技能,一定概率将弱化效果造成的伤害转换为恢复效果
+skill-lb,LB技能,弱化效果造成的伤害概率转换为恢复效果

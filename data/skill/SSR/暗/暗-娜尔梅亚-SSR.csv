@@ -1,19 +1,19 @@
 ﻿id,name,detail
 npc,娜尔梅亚,3040063000
-special,蝴蝶刃·源氏舞,暗属性伤害(特大)/强化蝴蝶刃获得的攻击UP效果
-special-胡蝶刃・神楽舞,蝴蝶刃·神乐舞,暗属性伤害(特大)/移除胡蝶刃造成的防御力DOWN效果
-special-胡蝶刃改・源氏舞,蝴蝶刃改·源氏舞,<div class=prt-text-small>暗属性伤害(特大)/暗属性攻击30%UP/自身获得15%攻击UP(累积/最大50%/独立/永续)</div>
-special-胡蝶刃改・神楽舞,蝴蝶刃改·神乐舞,<div class=prt-text-small>暗属性伤害(特大)/移除自身由胡蝶刃造成的防御力DOWN/幻影效果(2次)</div>
-special-Freeflutter Dance,蝴蝶刃·神乐舞,暗属性伤害(特大)/移除自身由胡蝶刃造成的防御力DOWN
-special-Dawnfly Dance II,蝴蝶刃改·源氏舞,<div class=prt-text-small>暗属性伤害(特大)/暗属性攻击30%UP/自身获得15%攻击UP(累积/最大50%/独立/永续)</div>
-special-Freeflutter Dance II,蝴蝶刃改·神乐舞,<div class=prt-text-small>暗属性伤害(特大)/移除自身由胡蝶刃造成的防御力DOWN/幻影效果(2次)</div>
-skill-1,蝴蝶刃,<div class=prt-text-small>切换架势/获得弱点属性追击效果 <br><span class=text-blue>◆每次切换架势自身获得攻击UP/防御DOWN</span></div>
-skill-2,泡沫梦幻,<div class=prt-text-small>对敌方单体造成暗属性伤害/赋予蝴蝶相克效果 <br>◆源氏架势：效果中必定二连击<br><span class=text-blue>◆神乐架势：敌人的CT越多，降低防御越多</span></div>
-skill-2++,泡沫梦幻,<div class=prt-text-small>对敌方单体造成暗属性伤害/赋予蝴蝶相克效果 <br>◆源氏架势：效果中必定三连击<br><span class=text-blue>◆神乐架势：敌人防御DOWN</span></div>
-skill-3,镜花水月,<div class=prt-text-small>◆源氏架势：驱散敌人1个强化效果/赋予减速效果<br><span class=text-blue>◆神乐架势：自身攻击大幅UP(对带有蝴蝶相克的敌人/1次)/暴击率UP</span></div>
-skill-4,蝴蝶双舞,自身奥义性能UP(1次)/高扬效果/蝴蝶双舞效果
-support-1,质朴刚毅,强化效果不会被驱散/一场战斗中有一次不死身效果
-support-2,交锋,有极小概率反射伤害
-support-2+,交锋,有极小概率反射伤害/使用镜花水月时反射必定发动
-skill-lb,LB技能,对于蝴蝶相克状态的敌人，暴击率UP
+special,蝴蝶刃·源氏舞,暗属性伤害(特大)/自身攻击力UP(累积)
+special-胡蝶刃・神楽舞,蝴蝶刃·神乐舞,暗属性伤害(特大)/移除自身由「胡蝶刃」造成的防御力DOWN
+special-胡蝶刃改・源氏舞,蝴蝶刃改·源氏舞,<div class=prt-text-small>暗属性伤害(特大)/自身攻击力UP/暗属性攻击力UP</div>
+special-胡蝶刃改・神楽舞,蝴蝶刃改·神乐舞,<div class=prt-text-small>暗属性伤害(特大)/移除自身由「胡蝶刃」造成的防御力DOWN/幻影效果(2次)</div>
+special-Freeflutter Dance,蝴蝶刃·神乐舞,暗属性伤害(特大)/移除自身由「胡蝶刃」造成的防御力DOWN
+special-Dawnfly Dance II,蝴蝶刃改·源氏舞,<div class=prt-text-small>暗属性伤害(特大)/自身攻击力UP/暗属性攻击力UP</div>
+special-Freeflutter Dance II,蝴蝶刃改·神乐舞,<div class=prt-text-small>暗属性伤害(特大)/移除自身由「胡蝶刃」造成的防御力DOWN/幻影效果(2次)</div>
+skill-1,蝴蝶刃,<div class=prt-text-small>切换架势/获得弱点属性追击效果 <br><span class=text-blue>◆每次切换架势自身获得攻击力UP/防御力DOWN</span></div>
+skill-2,泡沫梦幻,<div class=prt-text-small>对敌方单体造成暗属性伤害/「蝴蝶相克」 <br>◆源氏架势：效果中必定二连击<br><span class=text-blue>◆神乐架势：目标防御力DOWN(随CT个数增强7%~25%，3个时最大)</span></div>
+skill-2++,泡沫梦幻,<div class=prt-text-small>对敌方单体造成暗属性伤害/「蝴蝶相克」 <br>◆源氏架势：效果中必定三连击<br><span class=text-blue>◆神乐架势：目标防御力DOWN(25%)</span></div>
+skill-3,镜花水月,<div class=prt-text-small>◆源氏架势：驱散目标一个强化效果/减速效果<br><span class=text-blue>◆神乐架势：自身攻击力UP(对带有「蝴蝶相克」的目标攻击力大幅UP/1次)/暴击率UP</span></div>
+skill-4,蝴蝶双舞,自身奥义性能UP(1次)/高扬效果/「蝴蝶双舞」
+support-1,质朴刚毅,自身获得驱散免疫效果/不死身效果(1次)
+support-2,交锋,自身有极小概率反射伤害
+support-2+,交锋,自身有极小概率反射伤害/使用镜花水月时反射必定发动
+skill-lb,LB技能,自身对处于「蝴蝶相克」的目标，暴击率UP
 intro,摇曳的斩姬,她笔直前进，可以说已经一心一意到有点疯狂。泰然自若积攒着异常锻炼的剑豪，在通往最强的阶梯上不断攀登。然而，走在遥远前方统治着天空的强者仍未回头。
