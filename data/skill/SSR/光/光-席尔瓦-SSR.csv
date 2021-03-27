@@ -1,6 +1,6 @@
 ﻿id,name,detail
 npc,席尔瓦,3040187000
-special,神力射击,光属性伤害(特大)/<span class=text-blue>◆目标处于「弱点」时，奥义性能UP/自身奥义值UP(20%)</span>
+special,神力射击,光属性伤害(特大)<span class=text-blue>◆目标处于「弱点」时，奥义性能UP/自身奥义值UP(20%)</span>
 skill-1,隐形之鹰,<div class=prt-text-small>自身获得潜伏效果/敌对心DOWN/暴击率UP/奥义伤害上限UP/高扬效果/防御DOWN</div>
 skill-2,洞悉,敌方单体攻防DOWN(30%)/「弱点」
 skill-3,潜伏射击,<div class=prt-text-small>自身与一名后排角色交换位置　<span class=text-blue>◆交换角色攻击后自身发动1次「掩护射击」对敌方单体造成光属性伤害</span></div>
