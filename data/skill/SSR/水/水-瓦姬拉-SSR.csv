@@ -1,12 +1,16 @@
 ﻿id,name,detail
 npc,瓦姬拉,3040147000
-special,金牙神然,水属性伤害(特大)/我方全体获得强化效果　★累积后效果UP
-special-犬衣無縫,犬衣无缝,水属性伤害(特大)/我方全体获得强化效果　★累积后效果UP
-special-Barksplosion!,犬衣无缝,水属性伤害(特大)/我方全体获得强化效果　★累积后效果UP
-skill-1,大口真神,对敌方全体造成水属性伤害/弱化效果抗性DOWN(累積)
-skill-2,犬牙相制,赋予敌方单体恐惧效果
-skill-3,飞鹰走狗,<div class=prt-text-small>一回合行动两次/与卡尔加纳一起战斗　<span class=text-blue>◆消耗30％奥义值</span></div>
-support-1,犬神宮之主,奥义值的最大值增加
+special,金牙神然,<div class=prt-text-small>水属性伤害(特大)/我方全体获得「仁义八行」(最大5层)<span class=text-blue>◆根据「仁义八行」层数获得强化效果</span></div>
+special-犬真爛漫,犬真烂漫,<div class=prt-text-small>水属性伤害(特大)/驱散一个强化效果/我方全体获得「仁义八行」(最大5层)<span class=text-blue>◆根据「仁义八行」层数获得强化效果</span></div>
+special-Dogged Innocence,犬真烂漫,<div class=prt-text-small>水属性伤害(特大)/驱散一个强化效果/我方全体获得「仁义八行」(最大5层)<span class=text-blue>◆根据「仁义八行」层数获得强化效果</span></div>
+skill-1,大口真神,对敌方全体造成水属性伤害/弱化抗性DOWN(累积)
+skill-1++,大口真神,对敌方全体造成水属性伤害/弱化抗性DOWN(累积)/攻防DOWN(累积)
+skill-2,犬牙相制,敌方单体恐怖效果/减速效果
+skill-3,飞鹰走狗,<div class=prt-text-small>自身获得再攻击效果/「召唤卡鲁加纳」<span class=text-blue>◆消耗30％奥义值</span></div>
+skill-3+,飞鹰走狗,<div class=prt-text-small>自身获得再攻击效果/「召唤卡鲁加纳」/必定三连击<span class=text-blue>◆消耗100%奥义值「飞鹰走狗」持续时间延长至4回合</span></div>
+skill-4,狛戌犬虑,<div class=prt-text-small>自身获得「狛戌犬虑」<span class=text-blue>◆奥义连击时发动技能追击，对敌方单体造成水属性伤害/自身获得随机强化效果</span></div>
+support-1,犬神宮之主,奥义值最大值变为200%
+support-1+,犬神宮之主,奥义值最大值变为200%/自身发动奥义时，「召唤卡鲁加纳」与「狛戌犬虑」的持续时间延长2回合
 support-2,仁义八行,奥义连击时，根据连击数增加自身的奥义值
-skill-lb,LB技能,卡尔加纳在场时，连击率UP
+skill-lb,LB技能,自身处于「召唤卡鲁加纳」时，连续攻击率UP
 intro,西北西的守护神,守护西北西方位，十二神将之一。身为半身的嘉尔加纳伴随左右，犬神优雅地追求着强大的尽头。少女作为斗神驰名天下，她无垢的心倾听着满溢于天地间各种声音，一定能可靠地指引众人的旅途。

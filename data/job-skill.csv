@@ -86,16 +86,16 @@ id,ja,en,name,detail
 6009,トレジャーハントIV,Bounty Hunter IV,财宝猎手IV,<div class=prt-text-small>对敌人造成自属性伤害/敌人的物品掉落率UP(3回) <span class=text-blue>◆根据掉宝等级提高伤害性能</span></div>
 200741,楼門五三桐,,楼门五三桐,<div class=prt-text-small>赋予敌方全体强袭效果/根据掉宝等级赋予我方全体自属性追击效果（最大60%）</div>
 30087,トレジャーエイム,Eyes on the Prize,寻宝之眼,宝藏猎手成功概率UP/根据掉宝LV攻击力UP/金币获得量UP
-1200,ディレイ,Stall,指针倒退,对敌人造成自属性伤害/赋予SLOW效果
+1200,ディレイ,Stall,指针倒退,对敌人造成自属性伤害/赋予减速效果
 200,エレメンタルフォース,Elemental Focus,元素之力,所有参战者的技能伤害UP（小）
 201,エレメンタルフォースII,Elemental Focus II,元素之力II,所有参战者的技能伤害UP（大）
 220,クイック,Quick Strike,加速,我方全体的连续攻击概率UP
-1201,ディレイII,Stall II,指针倒退II,对敌人造成自属性伤害/赋予SLOW效果
+1201,ディレイII,Stall II,指针倒退II,对敌人造成自属性伤害/赋予减速效果
 1600,ミゼラブルミスト,Miserable Mist,惨雾,全体敌人攻击力DOWN/防御力DOWN
 1500,グラビティ,Gravity Wave,重力,增加敌人的最大CT
 30029,サボタージ,Sabotage,破坏,弱化成功概率UP
 30031,ヘイスティアクション,Hasty action,重整架势,所有技能的冷却时间减少一回合
-1226,ディレイIII,Stall III,指针倒退III,对敌人造成自属性伤害/赋予SLOW效果
+1226,ディレイIII,Stall III,指针倒退III,对敌人造成自属性伤害/赋予减速效果
 6220,ブラッドソード,Blood Sword,血剑,根据通常攻击的伤害回复HP
 977,アップリフト,Uprising,强力提升,赋予我方单人攻击UP/二连击几率UP/高扬效果
 200091,アブソーブ,Absorption,吸收,赋予我方全体伤害吸收效果(30%)

@@ -5,5 +5,5 @@ skill-1,冰煌一挥,<div class=prt-text-small>对敌方全体造成水属性伤
 skill-2,冰雹风暴,<div class=prt-text-small>对敌方单体造成水属性伤害/减速效果<br><span class=text-blue>◆玉水的刻印5层时发动2次</span></div>
 skill-3,冻封大地,<div class=prt-text-small>敌方全体攻击力DOWN/重力效果/冰结效果</div>
 support-1,白银的冰华,回合结束时若有敌方处于「银华」，则追加发动1次「冰煌一挥」
-support-2,美丽的冷公主,水属性角色根据玉水的刻印的层数技能性能UP<br><span class=text-blue>◆自身处于后排时也生效</span>
+support-2,美丽的冷公主,水属性角色根据玉水的刻印的层数获得技能性能UP
 skill-lb,LB技能,我方全体获得火属性伤害减轻<span class=text-blue>◆仅前排有效</span>

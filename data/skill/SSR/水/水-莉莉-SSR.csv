@@ -8,7 +8,7 @@ skill-2,冰冻风暴,对敌方全体造成水属性伤害/冰结效果
 skill-2++,冰冻风暴,<div class=prt-text-small>对敌方全体造成水属性伤害/冰结效果/攻防DOWN(累积)<br><span class=text-blue>◆根据战斗队员的种族数量提升性能</div></span>
 skill-3,纯白治愈,我方全体HP回复(上限1500)/净化一个弱化效果
 support-1,闪烁的结晶,自身防御力UP
-support-1+,闪烁的结晶,<div class=prt-text-small>我方全体防御力UP/水属性角色根据各自玉水的刻印层数减轻受到的火属性伤害<br><span class=text-blue>◆减轻火属性伤害的效果在自身处于后排时也有效</div></span>
+support-1+,闪烁的结晶,<div class=prt-text-small>我方全体防御力UP/水属性角色根据各自玉水的刻印层数获得火属性伤害减轻<br><span class=text-blue>◆减轻火属性伤害的效果在自身处于后排时也有效</div></span>
 support-2,冰晶宫的特使,队伍前排的种族数越多，自身攻击力越高
 skill-lb,LB技能,我方全体获得火属性伤害减轻<span class=text-blue>◆仅前排有效</span>
 intro,冰国的希望,在永远的白色大地上，幼小的公主有生之年都在奉献安宁的祈祷。刚强的公主脸上虽然没有泪痕，但她内心充满了不会消失的对烂漫盛开的鲜花的憧憬。

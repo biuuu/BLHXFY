@@ -6,6 +6,6 @@ skill-1+,黑龙双击波,对敌方单体造成4~5倍暗属性伤害
 skill-2,战吼,<div class=prt-text-small>敌方全体攻击力DOWN(累积)/我方全体暗属性攻击力UP(累积)/获得1层幽暗的刻印</div>
 skill-3,苍天魔龙导,<div class=prt-text-small>自身暴击率UP/连击率UP<span class=text-blue>◆7回合后追加全体化效果</span></div>
 support-1,吾之霸道磊落轶荡,自身每回合攻击力UP
-support-2,天空的霸者,<div class=prt-text-small>暗属性角色根据各自幽暗的刻印层数提升技能性能<br><span class=text-blue>◆技能性能UP效果在自己在后备时也会发动</span></div>
+support-2,天空的霸者,<div class=prt-text-small>暗属性角色根据各自幽暗的刻印层数获得技能性能UP</div>
 skill-lb,LB技能,自身普通攻击时概率获得攻击力UP(累积)
 intro,魔龙统领者,统领魔龙的高贵战士，以压倒性的力量驰名全空。她在钻研、锻炼、纷争中度过每日，同时亦在追求酣畅淋漓的战斗。

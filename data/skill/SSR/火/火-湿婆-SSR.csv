@@ -6,7 +6,7 @@ skill-1,三叉戟,<div class=prt-text-small>对敌方单体造成8倍火属性�
 skill-1+,三叉戟,<div class=prt-text-small>对敌方单体造成8倍火属性伤害/「恶灭之炎」(攻防DOWN/每回合损失一定HP)</div>
 skill-2,梵·楼陀罗,我方全体攻击力UP/伤害上限UP/格挡效果
 skill-2+,梵·楼陀罗,我方全体攻击力UP/伤害上限UP/格挡效果
-skill-3,坦达瓦之舞,<div class=prt-text-small>自身效果中必定三连击/反击效果(回避·受伤/2次)/风属性伤害减轻/暴击率UP</div>
+skill-3,坦达瓦之舞,<div class=prt-text-small>自身必定三连击/反击效果(回避·受伤/2次)/风属性伤害减轻/暴击率UP</div>
 support-1,破坏的舞蹈,<div class=prt-text-small>自身奥义值上升量DOWN/普通攻击伤害UP/发动奥义时获得1层「破导」(最大5层)<span class=text-blue>◆自身根据「破导」层数，攻击力UP/三连击率UP</span></div>
 support-2,崇拜的尊神,我方拥有火属性攻击力UP的角色，该效果额外增加30%<span class=text-blue>◆仅前排有效</span>
 skill-lb,LB技能,自身获得风属性伤害减轻
