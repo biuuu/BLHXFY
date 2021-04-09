@@ -1,7 +1,7 @@
 ﻿id,name,detail
 npc,莉莉,3040007000
 special,冰封视象,水属性伤害(特大)/我方全体水属性攻击力UP
-special-フローズン・ブルーム,冰封绽放,<div class=prt-text-small>水属性伤害(特大)/我方全体水属性攻击力UP<span class=text-blue>◆对处于冰结效果的敌人，奥义性能UP</div></span>
+special-フローズン・ブルーム,冰封绽放,<div class=prt-text-small>水属性伤害(特大)/我方全体水属性攻击力UP<span class=text-blue>◆对处于冰结效果的目标奥义性能UP</div></span>
 skill-1,冰晶结界,我方全体获得火属性伤害减免(70%)
 skill-1++,冰晶结界,<div class=prt-text-small>我方全体获得火属性伤害减免(70%)/玉水的刻印/自身获得3层「春风」<span class=text-blue>◆敌方使用特殊技的回合，消耗1层「春风」自动发动1次「纯白治愈」</div></span>
 skill-2,冰冻风暴,对敌方全体造成水属性伤害/冰结效果
