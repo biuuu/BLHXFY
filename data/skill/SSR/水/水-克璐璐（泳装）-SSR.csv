@@ -1,7 +1,7 @@
 id,name,detail
 npc,克璐璐,3040283000
 special,破鸣一击,<div class=prt-text-small>水属性伤害(特大)/「晒斑」立即可用<br><span class=text-blue>◆对处于黑暗效果的目标奥义性能UP</span></div>
-skill-1,晒斑,<div class=prt-text-small>牺牲自身HP，我方全体水属性角色获得攻击力UP/防御力大幅UP/连续攻击率UP)/玉水的刻印</div>
+skill-1,晒斑,<div class=prt-text-small>牺牲自身HP，我方全体水属性角色获得攻击力UP/防御力大幅UP/连续攻击率UP/1层玉水的刻印</div>
 skill-2,切斯特！,<div class=prt-text-small>对敌方单体造成6次水属性伤害/黑暗效果/防御力DOWN<span class=text-blue>◆玉水的刻印3层以上时，此技能变更为「切斯特奥古斯提！」</span></div>
 skill-ちぇすとアウギュステ！,切斯特奥古斯提！,对敌方单体造成12次水属性伤害/黑暗效果/防御力DOWN/我方全体获得逆境效果(HP越少攻击力越高)
 skill-3,亮闪闪闪亮！,<div class=prt-text-small>自身获得高扬效果/无敌效果(2次)<br><span class=text-blue>◆自身处于濒死状态时追加获得屏障效果/逆境效果(HP越少攻击力越高)</span></div>
