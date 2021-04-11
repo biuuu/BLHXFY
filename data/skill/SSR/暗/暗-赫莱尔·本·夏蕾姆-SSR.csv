@@ -3,8 +3,8 @@ npc,赫莱尔·本·夏蕾姆,3040251000
 special,混沌军团,<div class=prt-text-small>暗属性伤害(特大)/我方全体获得暗属性攻击力UP<br><span class=text-blue>◆对处于「宵之宣告」的目标发动技能追击，造成暗属性伤害</span></div>
 skill-1,清算,<div class=prt-text-small>对敌方单体造成8倍暗属性伤害/「宵之宣告」</div>
 skill-1+,清算,<div class=prt-text-small>对敌方单体造成8倍暗属性伤害/「宵之宣告」</div>
-skill-2,不可视之触,<div class=prt-text-small>我方单体获得屏障效果/闪避敌方所有的攻击(1次)</div>
-skill-2+,不可视之触,<div class=prt-text-small>我方单体获得屏障效果/闪避敌方所有的攻击(1次)</div>
+skill-2,不可视之触,<div class=prt-text-small>我方单体获得屏障效果/完全回避效果(1次)</div>
+skill-2+,不可视之触,<div class=prt-text-small>我方单体获得屏障效果/完全回避效果(1次)</div>
 skill-3,终末,<div class=prt-text-small>敌方全体攻击力DOWN/连续攻击率DOWN/特殊技伤害DOWN/命中率DOWN</div>
 support-1,审问与拒绝的先知,<div class=prt-text-small>奥义发动时获得1层「失神」(最大3层)<br><span class=text-blue>◆自身根据「失神」层数，连续攻击率UP/「失神」3层时自身攻击力UP/暴击率UP/伤害上限UP</span></div>
 support-2,神话中迷失的孩子,根据敌人的弱体效果自身获得奥义性能UP/暗属性追击效果
