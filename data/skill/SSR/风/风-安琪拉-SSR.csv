@@ -10,6 +10,6 @@ skill-3,韦编三绝,<div class=prt-text-small>我方全体获得「韦编三绝
 skill-3+,韦编三绝,<div class=prt-text-small>我方全体获得「韦编三绝」/攻防UP/弱化成功率UP/连续攻击率UP<span class=text-blue>◆第2次发动时追加暴击率UP，第3次发动时追加伤害上限UP</span></div>
 skill-4,三令五申,<div class=prt-text-small>对敌方全体造成风属性伤害/「三猿」(最大3层)<br><span class=text-blue>◆根据发动「三令五申」的次数「三猿」性能UP</span></div>
 support-1,猿神宫之主,回合开始时我方全体概率在本回合获得全回避效果
-support-2,身外身之术,<div class=prt-text-small>自身发动奥义时获得「身外身之术」/攻击力UP/连续攻击率UP/风属性追击效果/完全回避(1次)<br><span class=text-blue>◆回避成功后解除「身外身之术」</span></div>
+support-2,身外身之术,<div class=prt-text-small>自身发动奥义后获得攻击力UP/连续攻击率UP/风属性追击效果/完全回避(1次)<br><span class=text-blue>◆回避成功后解除</span></div>
 skill-lb,LB技能,普通攻击时概率缩短1回合技能使用间隔
 intro,西南西的守护神,守护西南西方位，十二神将之一。对过去祖先前往的理想乡抱有梦想的猿神，遵从命运的相会踏上了旅途。少女小小的身躯中蕴藏的坚定不移的意志，将会成为对众人强有力的支持。
