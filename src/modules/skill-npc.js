@@ -127,6 +127,11 @@ const parseSkill = async (data, pathname) => {
       const key1 = item[0]
       const key2 = item[1]
       let ability = data[key1]
+      if (key1 === 'support_ability_of_npczenith') {
+        for (let _k in ability) {
+          ability = ability[_k]
+        }
+      }
       if (!ability) {
         if (!data.ability) continue
         ability = data.ability[key1]
@@ -169,6 +174,7 @@ const parseSkill = async (data, pathname) => {
       const trans = skillData['npc']
       if (trans && trans.name) {
         data.master.name = trans.name
+        data.master.short_name = trans.name
         const intro = skillData['intro']
         if (intro && intro.name) data.master.evo_name = `[${intro.name}]${trans.name}`
       }
