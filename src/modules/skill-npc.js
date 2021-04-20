@@ -127,15 +127,15 @@ const parseSkill = async (data, pathname) => {
       const key1 = item[0]
       const key2 = item[1]
       let ability = data[key1]
-      if (key1 === 'support_ability_of_npczenith') {
+      if (key1 === 'support_ability_of_npczenith' && !Array.isArray(ability)) {
         for (let _k in ability) {
           ability = ability[_k]
         }
       }
-      if (!ability) {
+      if (!ability || (Array.isArray(ability) && !ability.length)) {
         if (!data.ability) continue
         ability = data.ability[key1]
-        if (!ability) continue
+        if (!ability || (Array.isArray(ability) && !ability.length)) continue
       }
 
       if (ability.recast_comment) {
@@ -174,7 +174,9 @@ const parseSkill = async (data, pathname) => {
       const trans = skillData['npc']
       if (trans && trans.name) {
         data.master.name = trans.name
-        data.master.short_name = trans.name
+        if (data.master.short_name === data.master.name) {
+          data.master.short_name = trans.name
+        }
         const intro = skillData['intro']
         if (intro && intro.name) data.master.evo_name = `[${intro.name}]${trans.name}`
       }
