@@ -73,4 +73,5 @@ id,name,text,trans
 113,,<span class='scene-font-katari'>レオニスは改めて、</span><br><span class='scene-font-katari'>姬塔と固い握手を交わし、</span><br><span class='scene-font-katari'>戦場を共にする者として互いを認める。</span>,<span class='scene-font-katari'>雷欧尼斯与姬塔握手，<br>作为战场上的同伴互相认可了对方。</span>
 114,,<span class='scene-font-katari'>迫る決戦の日に向け、</span><br><span class='scene-font-katari'>一同は更に策を詰めるべく</span><br><span class='scene-font-katari'>再び机に向き直ったのだった。</span>,<span class='scene-font-katari'>为即将到来的决战之日，<br>大家再次转向桌子，<br>寻找更多可行的策略。</span>
 info,,,scene_evt200429_cp5_q1_s10
-译者,Lunatis@秋庭月,初稿完成于2020.5.4,
+译者,Lunatis,,
+备注,初稿完成于2020.5.4,,

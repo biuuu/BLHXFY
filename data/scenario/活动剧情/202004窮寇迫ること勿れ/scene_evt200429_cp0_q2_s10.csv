@@ -200,4 +200,5 @@ id,name,text,trans
 283,,<span class='scene-font-katari'>それはまた、別のお話で。</span>,<span class='scene-font-katari'>这就是另一个故事了。</span>
 289,,<span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　　　　　　　　　　　　　　　──完</span>,<span class='scene-font-katari'>　<br>　　　　　　　　　　　　　　　──完</span>
 info,,,scene_evt200429_cp0_q2_s10
-译者,Lunati@秋庭月,初稿完成于2020.5.7,
+译者,Lunatis,,
+备注,初稿完成于2020.5.7,

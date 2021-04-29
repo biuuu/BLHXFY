@@ -67,4 +67,5 @@ id,name,text,trans
 108,,<span class='scene-font-katari'>ユラントスク軍が動き出す頃には、</span><br><span class='scene-font-katari'>すでにタタル基地の司令官は、</span><br><span class='scene-font-katari'>エルデニの手に落ちていた。</span>,<span class='scene-font-katari'>尤兰托斯克军再一次准备行动的时候，<br>塔塔尔基地的司令官已经落入埃尔德尼的手中。</span>
 109,,<span class='scene-font-katari'>こうしてエルデニ軍は、敵にも味方にも</span><br><span class='scene-font-katari'>ほとんど血を流すことなく、</span><br><span class='scene-font-katari'>タタル基地を陥落させたのだった。</span>,<span class='scene-font-katari'>就这样，埃尔德尼人自身毫发无损，<br>也没有让敌人流一滴血，<br>就这样成功占领了塔塔尔基地。</span>
 info,,,scene_evt200429_cp2_q3_s10
-译者,Lunatis@秋庭月,初稿完成于2020.5.2,
+译者,Lunatis,,
+备注,初稿完成于2020.5.2,,

@@ -60,4 +60,5 @@ id,name,text,trans
 84,,<span class='scene-font-katari'>来たる最後の決戦に向け、</span><br><span class='scene-font-katari'>各々の戦う相手を</span><br><span class='scene-font-katari'>はっきりと意識する姬塔達。</span>,<span class='scene-font-katari'>为了即将到来的最后决战，<br>姬塔一行确定了各自的战斗对手。</span>
 85,,<span class='scene-font-katari'>ザハ市を巡る戦記は、</span><br><span class='scene-font-katari'>ひとつの結末に向かい</span><br><span class='scene-font-katari'>徐々に収束を始めているのだった。</span>,<span class='scene-font-katari'>围绕着扎哈市战役，<br>故事向着某一个结局慢慢开始收束。</span>
 info,,,scene_evt200429_cp5_q3_s10
-译者,Lunatis@秋庭月,初稿完成于2020.5.5,
+译者,Lunatis,,
+备注,初稿完成于2020.5.5,,

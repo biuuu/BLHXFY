@@ -92,4 +92,5 @@ id,name,text,trans
 131,,<span class='scene-font-katari'>姬塔は咄嗟に駆けるも、</span><br><span class='scene-font-katari'>僅かにビィに手が届かない。</span>,<span class='scene-font-katari'>姬塔疾驰向前，<br>仅差一点就能碰到碧。</span>
 136,,<span class='scene-font-katari'>しかし、</span><br><span class='scene-font-katari'>戦禍に蹂躙される平原に響いたのは、</span><br><span class='scene-font-katari'>鋼と刃が奏でる、勇ましい音だった。</span>,<span class='scene-font-katari'>在这饱受战祸蹂躏的平原上，<br>响起了钢铁和刀刃共同奏出的<br>铿锵有力的声音。</span>
 info,,,scene_evt200429_cp3_q3_s10
-译者,Lunatis@秋庭月,初稿完成于2020.5.3,
+译者,Lunatis,,
+备注,初稿完成于2020.5.3,,

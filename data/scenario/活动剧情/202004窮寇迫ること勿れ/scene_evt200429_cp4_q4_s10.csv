@@ -35,4 +35,5 @@ id,name,text,trans
 68,,<span class='scene-font-katari'>ロウファは誓いを立てるよう、</span><br><span class='scene-font-katari'>ランファを抱く腕に</span><br><span class='scene-font-katari'>強く力を籠める。</span>,<span class='scene-font-katari'>罗法像是对自己发誓一样，<br>用力抱住兰华。</span>
 73,,<span class='scene-font-katari'>悲劇に塗れたふたりの道行を、</span><br><span class='scene-font-katari'>薄闇の中、ただ月光だけが</span><br><span class='scene-font-katari'>照らしているのだった。</span>,<span class='scene-font-katari'>微暗之中，<br>只有月光侵染了两人悲惨的前路。</span>
 info,,,scene_evt200429_cp4_q4_s10
-译者,Lunatis@秋庭月,初稿完成于2020.5.4,
+译者,Lunatis,,
+备注,初稿完成于2020.5.4,,

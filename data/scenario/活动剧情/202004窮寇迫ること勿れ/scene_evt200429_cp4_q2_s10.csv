@@ -48,4 +48,5 @@ id,name,text,trans
 49,,<span class='scene-font-katari'>興味を示すユラントスク王に</span><br><span class='scene-font-katari'>ヴィターリーはゆっくりと</span><br><span class='scene-font-katari'>暗躍の内容を告げる。</span>,<span class='scene-font-katari'>面对表现出兴趣的尤兰托斯克国王，<br>维塔利缓缓说出了他暗中所做的事。</span>
 50,,<span class='scene-font-katari'>それは勝者を生まぬ戦乱に、</span><br><span class='scene-font-katari'>なお悲劇を重ねる</span><br><span class='scene-font-katari'>最悪の結果を引き起こすのだった。</span>,<span class='scene-font-katari'>那将在没有胜利者的战乱中，<br>造成悲剧不断的、最坏的结果。</span>
 info,,,scene_evt200429_cp4_q2_s10
-译者,Lunatis@秋庭月,初稿完成于2020.5.4,
+译者,Lunatis,,
+备注,初稿完成于2020.5.4,,

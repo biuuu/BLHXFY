@@ -122,4 +122,5 @@ id,name,text,trans
 128,,<span class='scene-font-katari'>複雑な表情を浮かべつつも</span><br><span class='scene-font-katari'>了承したシュラは、</span><br><span class='scene-font-katari'>一度深呼吸して気持ちを切り替える。</span>,<span class='scene-font-katari'>虽然脸上浮现出复杂的表情，<br>秋罗还是答应了。<br>她深呼吸了一下，转换了心情。</span>
 129,,<span class='scene-font-katari'>その目には以前のような迷いはなく、</span><br><span class='scene-font-katari'>己に絡む因縁と決着を付けるため、</span><br><span class='scene-font-katari'>勇ましく駆け出して行くのだった。</span>,<span class='scene-font-katari'>她的眼神不再像以前那样迷茫了，<br>为了解决与自己有关的因缘，<br>她勇敢地向前迈出了这一步。</span>
 info,,,scene_evt200429_cp6_q2_s10
-译者,Lunati@秋庭月,初稿完成于2020.5.6,
+译者,Lunatis,,
+备注,初稿完成于2020.5.6,,

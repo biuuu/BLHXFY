@@ -44,4 +44,5 @@ id,name,text,trans
 53,アルタイル/阿尔泰尔,エルデニの兵達が撤退する時間を稼ぎ、<br>隙を見てこちらも撤退します。<br>よろしいですね？,我们争取到时间，<br>让埃尔德尼的军队撤退，<br>之后我们再趁机撤退吧。
 54,,<span class='scene-font-katari'>アルタイルが告げた言葉に</span><br><span class='scene-font-katari'>姬塔は頷きを返し、</span><br><span class='scene-font-katari'>一騎当千の大男を見据えるのだった。</span>,<span class='scene-font-katari'>听到阿尔泰尔的话，<br>姬塔点点头，<br>凝视着这个一骑当千的男人。</span>
 info,,,scene_evt200429_cp3_q4_s20
-译者,Lunatis@秋庭月,初稿完成于2020.5.3,
+译者,Lunatis,,
+备注,初稿完成于2020.5.3,,

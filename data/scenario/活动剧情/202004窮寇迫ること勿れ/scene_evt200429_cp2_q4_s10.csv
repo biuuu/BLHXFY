@@ -84,4 +84,5 @@ id,name,text,trans
 122,,<span class='scene-font-katari'>来たる最悪の戦禍の名を聞き、</span><br><span class='scene-font-katari'>姬塔達は気を引き締める。</span>,<span class='scene-font-katari'>听到即将到来的最糟糕的战祸的名字，<br>姬塔他们绷紧了神经。</span>
 123,,<span class='scene-font-katari'>その衝突の足音は、</span><br><span class='scene-font-katari'>既にすぐ近くにまで</span><br><span class='scene-font-katari'>迫っていたのだった。</span>,<span class='scene-font-katari'>冲突的脚步声，已然近在咫尺。</span>
 info,,,scene_evt200429_cp2_q4_s10
-译者,Lunatis@秋庭月,初稿完成于2020.5.3,
+译者,Lunatis,,
+备注,初稿完成于2020.5.3,,

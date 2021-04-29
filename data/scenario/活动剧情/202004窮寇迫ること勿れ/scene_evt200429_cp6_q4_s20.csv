@@ -154,4 +154,5 @@ id,name,text,trans
 218,アルタイル/阿尔泰尔,これが正真正銘の決戦です。<br>全力を以て迎撃せよ！,现在开始就是真正的决战了。<br>全力迎击吧！
 220,一同/众人,<span class='scene-font-5'>おおー！</span>,<span class='scene-font-5'>哦哦——！</span>
 info,,,scene_evt200429_cp6_q4_s20
-译者,Lunati@秋庭月,初稿完成于2020.5.6,
+译者,Lunatis,,
+备注,初稿完成于2020.5.6,,

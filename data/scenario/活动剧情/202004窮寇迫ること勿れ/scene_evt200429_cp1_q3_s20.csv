@@ -91,4 +91,5 @@ id,name,text,trans
 143,アルタイル/阿尔泰尔,<span class='scene-font-4'>全軍に通達！</span><br><span class='scene-font-4'>目標を沈黙させよ！</span>,<span class='scene-font-4'>通知全军！</span><br><span class='scene-font-4'>让这些人闭嘴吧！！</span>
 144,エルデニ兵達,<span class='scene-font-4'>おおおおおー！！</span>,<span class='scene-font-4'>哦哦哦哦哦！！</span>
 info,,,scene_evt200429_cp1_q3_s20
-译者,Lunatis@秋庭月,初稿完成于2020.5.1,
+译者,Lunatis,,
+备注,初稿完成于2020.5.1,,

@@ -75,4 +75,5 @@ id,name,text,trans
 83,,<span class='scene-font-katari'>逆転までの道筋を見つけたかのように、</span><br><span class='scene-font-katari'>アルタイルは自信に満ちた声色で</span><br><span class='scene-font-katari'>そう宣言する。</span>,<span class='scene-font-katari'>像是找到了逆转战况的方法，</span><br><span class='scene-font-katari'>阿尔泰尔用充满自信的声音</span><br><span class='scene-font-katari'>这样宣告着。</span>
 84,,<span class='scene-font-katari'>その瞳は鋭い光を湛え、</span><br><span class='scene-font-katari'>戦場の未来までもを、</span><br><span class='scene-font-katari'>見通しつつあるのだった。</span>,<span class='scene-font-katari'>他的眼中满是锐利的光芒，</span><br><span class='scene-font-katari'>哪怕是战场的未来</span><br><span class='scene-font-katari'>在他面前亦一览无余。</span>
 info,,,scene_evt200429_cp1_q2_s10
-译者,Lunatis@秋庭月,初稿完成于2020.4.30,
+译者,Lunatis,,
+备注,初稿完成于4.30,,

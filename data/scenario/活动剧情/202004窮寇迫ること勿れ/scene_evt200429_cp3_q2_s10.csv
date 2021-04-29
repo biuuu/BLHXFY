@@ -62,4 +62,5 @@ id,name,text,trans
 81,,<span class='scene-font-katari'>互いの国の存亡をかけた、</span><br><span class='scene-font-katari'>エルデニによるザハ市奪還の攻防。</span>,<span class='scene-font-katari'>埃尔德尼夺回扎哈市的战斗，<br>一攻一守，关系到两个国家的生死存亡。</span>
 82,,<span class='scene-font-katari'>その火蓋は、今まさに</span><br><span class='scene-font-katari'>切られようとしているのだった。</span>,<span class='scene-font-katari'>枪已上膛。</span>
 info,,,scene_evt200429_cp3_q2_s10
-译者,Lunatis@秋庭月,初稿完成于2020.5.3,
+译者,Lunatis,,
+备注,初稿完成于2020.5.3,,

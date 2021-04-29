@@ -89,4 +89,5 @@ id,name,text,trans
 132,ザウラ/扎乌拉,首都側からの航路を取れば、<br>ユラントスク軍に邪魔されずに<br>砦に入れるでしょう。,从首都那侧航行的话，<br>就不会被尤兰托斯克的军队干扰，<br>顺利进入堡垒。
 133,,<span class='scene-font-katari'>こうして、ザウラの依頼を受けた</span><br><span class='scene-font-katari'>姬塔達はエルデニの最前線、</span><br><span class='scene-font-katari'>アヨール山脈に向かうのだった。</span>,<span class='scene-font-katari'>就这样，接受了扎乌拉的委托，</span><br><span class='scene-font-katari'>姬塔一行人前往战争的最前线，</span><br><span class='scene-font-katari'>阿约尔山脉。</span>
 info,,,scene_evt200429_cp1_q1_s10
-译者,Lunatis@秋庭月,初稿完成于2020.4.30,校对于2020.5.7
+译者,Lunatis,,
+备注,初稿完成于2020.4.30,校对于2020.5.7,

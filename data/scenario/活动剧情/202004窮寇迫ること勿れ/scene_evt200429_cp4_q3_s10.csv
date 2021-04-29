@@ -44,4 +44,5 @@ id,name,text,trans
 95,ロウファ/罗法,<span class='scene-font-gray'>だから俺は、力を、権力を得るために</span><br><span class='scene-font-gray'>どんな手をも厭わない。</span><br><span class='scene-font-gray'>そう決めたのだ、この瞬間に。</span>,<span class='scene-font-gray'>所以，为了获得权力和力量，<br>我不惜采取任何手段。<br>就在那个瞬间，我得到了这个答案。</span>
 96,,<span class='scene-font-katari'>記憶の中で、妹の亡骸を抱きながら</span><br><span class='scene-font-katari'>慟哭する幼い頃の自分を見つめ、</span><br><span class='scene-font-katari'>ロウファは静かに呟くのだった。</span>,<span class='scene-font-katari'>记忆中幼小的自己<br>抱着妹妹的遗体失声痛哭。<br>罗法望着这一切，静静地说道。</span>
 info,,,scene_evt200429_cp4_q3_s10
-译者,Lunatis@秋庭月,初稿完成于2020.5.4,
+译者,Lunatis,,
+备注,初稿完成于2020.5.4,,

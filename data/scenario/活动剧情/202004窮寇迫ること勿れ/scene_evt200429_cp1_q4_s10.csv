@@ -84,4 +84,5 @@ id,name,text,trans
 134,シュラ/秋罗,…………,……
 135,,<span class='scene-font-katari'>アルタイルの視線に気づいていた</span><br><span class='scene-font-katari'>シュラは、やや居心地が悪そうに</span><br><span class='scene-font-katari'>視線を逸らすのだった。</span>,<span class='scene-font-katari'>秋罗注意到了阿尔泰尔的目光，</span><br><span class='scene-font-katari'>有些不自在地移开了视线。</span>
 info,,,scene_evt200429_cp1_q4_s10
-译者,Lunatis@秋庭月,初稿完成于2020.5.1,
+译者,Lunatis,,
+备注,初稿完成于2020.5.1,,

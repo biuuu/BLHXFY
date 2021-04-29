@@ -132,4 +132,5 @@ id,name,text,trans
 161,,<span class='scene-font-katari'>そう静かに語ったロウファは、</span><br><span class='scene-font-katari'>ランファと共に惨劇の場を後にする。</span>,<span class='scene-font-katari'>如此平静地说完后，<br>罗法和兰华一起离开了惨剧现场。</span>
 162,,<span class='scene-font-katari'>その目には、</span><br><span class='scene-font-katari'>深い絶望と憤怒に染まる</span><br><span class='scene-font-katari'>黒い炎が渦巻いていたのだった。</span>,<span class='scene-font-katari'>罗法的眼里，<br>如今只剩下了深深的绝望和愤怒。</span>
 info,,,scene_evt200429_cp6_q1_s10
-译者,Lunati@秋庭月,初稿完成于2020.5.6,
+译者,Lunatis,,
+备注,初稿完成于2020.5.6,,

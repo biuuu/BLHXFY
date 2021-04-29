@@ -98,4 +98,5 @@ id,name,text,trans
 148,,<span class='scene-font-katari'>そう小さく呟くと共に、</span><br><span class='scene-font-katari'>ポラリスの双眸からは</span><br><span class='scene-font-katari'>光が失われる。</span>,<span class='scene-font-katari'>喃喃自语的同时，<br>珀拉莉丝的眼眸失去了光芒。</span>
 149,,<span class='scene-font-katari'>虚ろに空を映す瞳からは、</span><br><span class='scene-font-katari'>一筋の雫が落ちるのだった。</span>,<span class='scene-font-katari'>从映着天空的空洞瞳孔中，<br>一滴泪水悄悄地滑落而下。</span>
 info,,,scene_evt200429_cp5_q2_s10
-译者,Lunatis@秋庭月,初稿完成于2020.5.4,
+译者,Lunatis,,
+备注,初稿完成于2020.5.4,,
