@@ -1,9 +1,9 @@
 id,name,detail
 npc,零,3040265000
-special,五眼掌握・寂光浄土,<div class=prt-text-small>对敌单体施加<span class=text-blue>天网的星眼</span>/驱散1个强化效果/弱体耐性DOWN/光属性攻击力DOWN/连续攻击率DOWN<br><span class=text-blue>天网的星眼:承受的伤害提升10%</span></div>
-skill-1,阿頼耶識,<div class=prt-text-small>自身以外的我方指定暗属性角色获得<span class=text-blue>再攻击</span><br><span class=text-blue>◆再次使用(或自身离开前排)时解除</span></div>
-skill-2,解脱,<div class=prt-text-small>自身与第一名后备队员交换位置/如其是暗属性/使其获得<span class=text-blue>解脱◆解脱:攻击UP/必定TA/伤害上限UP/回避率UP/防御力DOWN</span></div>
-skill-3,白眼視,<div class=prt-text-small>对敌方全体施加<span class=text-blue>白眼视</span><br><span class=text-blue>白眼视:造成的伤害归0</span></div>
-skill-4,天の逆手,<div class=prt-text-small>本回合结束时的经过回合数额外加5</div>
-support-1,悟りの智慧,零在使用操纵型技能期间，无法进行攻击
-support-2,子を見守る母,暗属性角色对处于天网的星眼的敌人奥义性能增加
+special,五眼掌握・寂光浄土,<div class=prt-text-small>敌方单体「天网的星眼」/驱散1个强化效果/弱化耐性DOWN/光属性攻击力DOWN/连续攻击率DOWN</div>
+skill-1,阿赖耶识,<div class=prt-text-small>自身以外的我方指定暗属性角色获得再攻击效果<br><span class=text-blue>◆再次使用「阿赖耶识」或自身离开前排时解除效果</span></div>
+skill-2,解脱,<div class=prt-text-small>自身与第一名后备队员交换位置/交换的暗属性角色获得攻击力UP/必定三连击/伤害上限UP/回避率UP/防御力DOWN<span class=text-blue>◆自身返回前排时效果解除</span></div>
+skill-3,白眼视,<div class=prt-text-small>敌方全体「白眼视」<br><span class=text-blue>◆敌方处于「白眼视」时该回合造成的伤害归0，自身离场时移除「白眼视」</span></div>
+skill-4,天之逆手,<div class=prt-text-small>本回合结束时的经过回合数额外加5<br><span class=text-blue>◆回合结束时自身处于前排生效</span></div>
+support-1,悟性的智慧,自身使用操纵型技能期间，无法进行攻击
+support-2,守护孩子的母亲,我方暗属性角色对处于「天网的星眼」的目标奥义性能增加

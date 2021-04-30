@@ -1,13 +1,15 @@
 ﻿id,name,detail
 npc,圣德芬,3040153000
-special,无限之光,<div class=prt-text-small>光属性伤害(特大)/审判之钟效果</div>
-special++,无限之光,<div class=prt-text-small>光属性伤害(特大)/审判之钟效果<span class=text-blue><br>◆下一次奥义转为「失乐园」</span></div>
-special-パラダイス・ロスト,失乐园,<div class=prt-text-small>光属性伤害(特大)/审判之钟效果/自身光属性攻击UP/光属性追击效果/乐园追放效果</div>
-skill-1,孤身在天堂,<div class=prt-text-small>自身连击概率UP(DA50%/TA10%)/防御UP(15%)/反击効果(受伤害时/5次)</div>
-skill-1++,孤身在天堂,<div class=prt-text-small>自身连击概率UP(DA50%/TA10%)/防御UP(30%)/反击効果(受伤害时/5次)/仇恨值UP</div>
-skill-2,日食,对敌人造成光属性伤害/恢复自身HP
-skill-3,一人之力,全体成员的暴击概率UP(30%，1.5倍)/伤害值提升(敌HP1%/上限10000)
-support-1,抗命,一定概率在回合开始时净化自身一个弱化效果(70%)
-support-2,为了兑现约定,第一次无法战斗时以HP1继续战斗
-skill-lb,LB技能,发动奥义时自身攻击UP(10%/累积/上限30%)
+special,无限之光,<div class=prt-text-small>光属性伤害(特大)/「审判之钟」</div>
+special++,无限之光,<div class=prt-text-small>光属性伤害(特大)/「审判之钟」/自身获得「白羽」<span class=text-blue><br>◆处于「白羽」时下次奥义变为「失乐园」</span></div>
+special-パラダイス・ロスト,失乐园,<div class=prt-text-small>光属性伤害(特大)/「审判之钟」/自身光属性攻击力UP/光属性追击效果/下一次「黄道」发动2次</div>
+skill-1,独守天堂,<div class=prt-text-small>自身连续攻击率UP/防御力UP/反击効果(回避/5次)</div>
+skill-1++,独守天堂,<div class=prt-text-small>自身连续攻击率UP/防御力UP/反击効果(回避/5次)/敌对心UP</div>
+skill-2,黄道,对敌方单体造成光属性伤害/自身HP回复(上限900)
+skill-2++,黄道,对敌方单体造成光属性伤害/自身HP回复(上限1000)
+skill-3,一人之力,我方全体暴击率UP/伤害UP
+support-1,抗命,回合开始时概率净化自身一个弱化效果
+support-1+,抗命,回合开始时净化自身一个弱化效果/常驻活性效果
+support-2,为了兑现约定,自身受到致命攻击时保留1HP继续战斗(1次)
+skill-lb,LB技能,自身发动奥义后攻击力UP(累积)
 intro,复仇的天司,从长久的沉眠中再次苏醒的天司被托付了天司长路西菲尔的遗志。过去没有职责的天司背负着罪孽，为了实现约定成为了复仇的天司。
