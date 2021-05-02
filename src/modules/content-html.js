@@ -52,7 +52,7 @@ const getHtml = async (encodedHtml, pathname) => {
     return encodedHtml
   }
   if (CONFIG.log) {
-    console.log({
+    console.info({
       [pathname]: html.trim()
     })
   }

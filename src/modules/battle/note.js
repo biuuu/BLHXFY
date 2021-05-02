@@ -78,7 +78,7 @@ win.printBattleNote = () => {
   if (questMap.has(rid)) {
     str = `quest-${questMap.get(rid)}.note.csv\n\n${str}`
   }
-  console.log(str)
+  console.info(str)
 }
 
 const startData = (data) => {

@@ -54,7 +54,7 @@ const requestRouter = async (data, type, list) => {
             await handle(data, type)
           }
         } catch (e) {
-          console.log(e)
+          console.info(e)
         }
       }
     }

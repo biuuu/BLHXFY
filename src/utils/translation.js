@@ -107,7 +107,7 @@ const googleTrans = async (source, from = 'ja') => {
     joinBr(list, br, transArr)
     return transArr
   } catch (e) {
-    console.log(e)
+    console.info(e)
     return []
   }
 }
@@ -124,7 +124,7 @@ const caiyunTrans = async (source, from) => {
     joinBr(list, br, transArr)
     return transArr
   } catch (e) {
-    console.log(e)
+    console.info(e)
     return []
   }
 }

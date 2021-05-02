@@ -161,7 +161,7 @@ const getSkillData = async (npcId) => {
       setSkillMap(list)
     } catch (e) {
       state.failed.add(csvName)
-      console.log(e)
+      console.info(e)
     }
   }
   return state

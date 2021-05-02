@@ -59,7 +59,7 @@ const fetchData = async (pathname) => {
       url, flag
     }, config.origin)
   } catch (e) {
-    console.log(e)
+    console.info(e)
     return ''
   }
   return new Promise((rev, rej) => {

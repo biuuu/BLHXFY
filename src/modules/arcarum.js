@@ -8,7 +8,7 @@ let textTempArr = []
 const debounceLog = debounce(() => {
   if (!textTempArr.length) return
   const text = textTempArr.join(',\n')
-  console.log(text + ',')
+  console.info(text + ',')
   textTempArr = []
 }, 200)
 
