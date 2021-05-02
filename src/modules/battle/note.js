@@ -92,6 +92,7 @@ const startData = (data) => {
     localStorage.setItem('blhxfy:name', data.nickname)
   }
   if (isObject(data.battle_condition)) {
+    transNote(data.battle_condition, 'title')
     transNote(data.battle_condition, 'body')
   }
 }

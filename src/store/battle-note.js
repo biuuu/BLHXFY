@@ -40,7 +40,7 @@ const getBattleNoteQuest = async (id) => {
   if (questNote[id]) {
     let questNoteData = getLocalData('battle-note-quest')
     if (!questNoteData || !questNoteData[id]) {
-      let csv = await fetchData(`/blhxfy/data/battle/note/${questNote[id]}`)
+      let csv = await fetchData(`/blhxfy/data/battle/${questNote[id]}.csv`)
       questNoteData = { [id]: csv }
       setLocalData('battle-note-quest', questNoteData)
     }

@@ -167,12 +167,12 @@ const collectSkillId = async () => {
 
 const collectBattleNoteId = async () => {
   console.log('battle note...')
-  const files = await glob.promise('./data/battle/note/**/*.note.csv')
+  const files = await glob.promise('./dist/blhxfy/data/battle/note/**/*.note.csv')
   const prims = files.map(async file => {
     let rgs = file.match(/quest-(\d+)\.note\.csv/)
     if (rgs && rgs[1]) {
       const hash = (await md5(file)).slice(0, 7)
-      await fse.copy(file, `./dist/blhxfy/data/battle/${hash}.csv`, {
+      await fse.move(file, `./dist/blhxfy/data/battle/${hash}.csv`, {
         overwrite: false, errorOnExist: true
       })
       return [rgs[1], hash]
