@@ -1,0 +1,9 @@
+id,name,detail
+npc,菲莉,3040209000
+special,以太之光・祈祷,<div class=prt-text-small>暗属性伤害(特大)/我方全体暗属性攻击力UP/连击率UP</div>
+skill-1,蓝色幽灵,<div class=prt-text-small>驱散敌方单体一个强化效果/攻防DOWN(25%)/「幽想之槛」</div>
+skill-2,祝福II,<div class=prt-text-small>我方全体HP回复(上限1500)/活性效果/奥义值UP(20%)</div>
+skill-3,逆转,<div class=prt-text-small>自身以外的我方指定暗属性角色获得「恐惧之灵」<br><span class=text-blue>◆10回合后追加3回攻击效果</span></div>
+support-1,居间者,我方全体获得光属性伤害减轻/暗属性伤害减轻<span class=text-blue>◆仅前排有效</span>
+support-2,幽兽的呼应,我方全体普通攻击处于「幽想之槛」的目标时，附加暗属性追击效果<span class=text-blue>◆仅前排有效</span>
+skill-lb,LB技能,回合开始时自身概率在本回合获得全回避效果

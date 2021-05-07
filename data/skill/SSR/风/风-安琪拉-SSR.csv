@@ -6,8 +6,8 @@ skill-1,不生不灭,<div class=prt-text-small>回复我方全体所有HP/防御
 skill-2,君子万年,我方指定角色获得屏障效果(2500)/敌对心UP
 skill-2+,君子万年,我方指定角色获得屏障效果(3500)/敌对心UP
 skill-2++,君子万年,<div class=prt-text-small>我方指定角色获得屏障效果(4000)/敌对心UP/风属性追击效果(持续至受到伤害)</div>
-skill-3,韦编三绝,<div class=prt-text-small>我方全体获得「韦编三绝」/攻防UP/弱化成功率UP/连续攻击率UP<span class=text-blue>◆强化效果随持续时间增强，3回合后达到顶峰，随后效果逐渐减少</span></div>
-skill-3+,韦编三绝,<div class=prt-text-small>我方全体获得「韦编三绝」/攻防UP/弱化成功率UP/连续攻击率UP<span class=text-blue>◆第2次发动时追加暴击率UP，第3次发动时追加伤害上限UP</span></div>
+skill-3,韦编三绝,<div class=prt-text-small>我方全体获得攻防UP/弱化成功率UP/连续攻击率UP<span class=text-blue>◆强化效果随持续时间增强，3回合后达到顶峰，随后效果逐渐减少</span></div>
+skill-3+,韦编三绝,<div class=prt-text-small>我方全体获得攻防UP/弱化成功率UP/连续攻击率UP<span class=text-blue>◆第2次发动时追加暴击率UP，第3次发动时追加伤害上限UP</span></div>
 skill-4,三令五申,<div class=prt-text-small>对敌方全体造成风属性伤害/「三猿」(最大3层)<br><span class=text-blue>◆根据发动「三令五申」的次数「三猿」性能UP</span></div>
 support-1,猿神宫之主,回合开始时我方全体概率在本回合获得全回避效果
 support-2,身外身之术,<div class=prt-text-small>自身发动奥义后获得攻击力UP/连续攻击率UP/风属性追击效果/完全回避(1次)<br><span class=text-blue>◆回避成功后解除</span></div>

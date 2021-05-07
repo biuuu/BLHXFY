@@ -7,7 +7,7 @@ skill-1++,鼓舞激励,我方全体获得攻防UP/连续攻击率UP/奥义伤害
 skill-2,云散鸟没,对敌方单体造成土属性伤害/防御力DOWN(15%)/土属性防御力DOWN
 skill-2++,云散鸟没,<div class=prt-text-small>对敌方单体造成土属性伤害/防御力DOWN(15%)/土属性防御力DOWN/连续攻击率DOWN</div>
 skill-3,花鸟风月,我方全体获得攻击力UP/土属性追击効果
-skill-4,鸡往开来,<div class=prt-text-small>自身获得「鸡往开来」/回避率UP/回合结束时对敌方全体造成土属性伤害<br><span class=text-blue>◆前排角色的「鼓音」层数均为最大时，消耗全部「鼓音」获得1个「全体治疗药水」</span></div>
+skill-4,鸡往开来,<div class=prt-text-small>自身获得回避率UP/回合结束时对敌方全体造成土属性伤害<span class=text-blue>◆前排角色的「鼓音」层数均为最大时，消耗全部「鼓音」获得1个「全体治疗药水」</span></div>
 support-1,鸟神宫之主,<div class=prt-text-small>我方全体根据攻击敌方的次数获得「鼓音」(最大10层)<br><span class=text-blue>◆仅前排有效</span></div>
 support-2,宛如飞翔,<div class=prt-text-small>我方全体根据各自的「鼓音」层数获得伤害UP，10层「鼓音」时获得弱化无效(1次)，触发后消耗所有「鼓音」<span class=text-blue>◆仅前排有效</span></div>
 skill-lb,LB技能,回合开始时我方全体概率在本回合获得全回避效果<span class=text-blue>◆仅前排有效</span>
