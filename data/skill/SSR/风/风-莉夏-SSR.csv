@@ -3,7 +3,7 @@ npc,莉夏,3040101000
 special,黄昏之剑,风属性伤害(特大)/驱散敌方全体1个强化效果
 skill-1,音速出击,对敌方单体造成风属性伤害/1层「白翼的加护」(最大3层)
 skill-2,紧急治疗,<div class=prt-text-small>我方指定角色HP回复/净化1个弱化效果/若该成员处于濒死状态则赋予屏障效果(1000)</div>
-skill-3,勇气号令,<div class=prt-text-small>开启时自身获得「号令」(最大5层)/再使用时关闭并根据期间第一个使用的技能类型发动相应的效果<span class=text-blue>◆决定类型后使用的同类型技能会叠加「号令」的层数增强性能</span></div>
+skill-3,勇气号令,<div class=prt-text-small>开启时自身获得「号令」(最大5层)/再使用时关闭并根据期间第一个使用的技能类型发动相应的效果<span class=text-blue>◆使用同类型技能会叠加「号令」的层数增强性能</span></div>
 support-1,秩序骑空团代理团长,<div class=prt-text-small>根据「白翼的加护」层数，我方全体获得攻防UP/技能伤害性能UP/技能命中率UP/回复性能UP</div>
 support-2,拂晓之剑,<div class=prt-text-small>我方使用技能时自身获得1层「空晓之刃」(最大3层)<span class=text-blue>◆3层「空晓之刃」我方使用技能后对敌方全体造成风属性伤害/自身获得1层「号令」/重置「空晓之刃」层数</span></div>
 skill-lb,LB技能,「勇气号令」开启期间，回合结束时自身概率获得1层「号令」
