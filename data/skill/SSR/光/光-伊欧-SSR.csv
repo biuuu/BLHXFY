@@ -1,7 +1,7 @@
 id,name,detail
 npc,伊欧,3040065000
 special,水晶之风,<div class=prt-text-small>光属性伤害(特大)/根据自身「魔力漩涡」层数强化奥义性能/我方全体根据「魔力漩涡」层数依次获得再生效果/强壮效果/伤害上限UP<br><span class=text-blue>◆消耗全部「魔力漩涡」</span></div>
-special-エレメンタル・オーバーリミット,元素溢限,<div class=prt-text-small>光属性伤害(特大)/根据自身「魔力漩涡」层数强化奥义性能/我方全体根据「魔力漩涡」层数依次获得再生效果/强壮效果/伤害上限UP<span class=text-blue>◆消耗1层「魔力漩涡」</span></div>
+special-エレメンタル・オーバーリミット,元素溢限,<div class=prt-text-small>光属性伤害(特大)/根据自身「魔力漩涡」层数强化奥义性能/我方全体根据「魔力漩涡」层数依次获得再生效果/强壮效果/伤害上限UP<br><span class=text-blue>◆消耗1层「魔力漩涡」</span></div>
 skill-1,花耀七闪,对敌方随机造成7次弱点属性伤害
 skill-1++,花耀七闪,<div class=prt-text-small>对敌方随机造成7次弱点属性伤害<br><span class=text-blue>◆根据「魔力漩涡」层数提升伤害次数和伤害性能</span></div>
 skill-2,治愈III,我方全体HP回复(上限5000)
