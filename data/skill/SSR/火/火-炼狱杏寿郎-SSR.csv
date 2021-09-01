@@ -1,10 +1,10 @@
 id,name,detail
 npc,炼狱杏寿郎,3040309000
-special,炎之呼吸 玖之型·炼狱,<div class=prt-text-small>火属性伤害(极大)/炎之呼吸 壹之型·不知火能够立刻使用<span class=text-blue>◆消耗练气效果才可发动</span></div>
+special,炎之呼吸 玖之型·炼狱,<div class=prt-text-small>火属性伤害(极大)/炎之呼吸 壹之型·不知火能够立刻使用<br><span class=text-blue>◆消耗练气效果才可发动</span></div>
 skill-1,炎之呼吸 壹之型·不知火,对敌方单体造成火属性伤害/自身该回合必定三连击
 skill-2,炎之呼吸 贰之型·炎天升腾,对敌方单体造成火属性伤害/减速效果
 skill-3,炎之呼吸 肆之型·盛炎之涡卷,对敌方全体造成火属性伤害/减免我方全体受到的伤害(70%)
-support-1,炎柱,<div class=prt-text-small>自身攻击力UP/火属性攻击力UP/第一次无法战斗时以1HP继续战斗</div>
-support-2,炼狱的炎赫刀,<div class=prt-text-small>自身每4回合或回合结束时处于濒死状态，获得「练气」<span class=text-blue>◆处于「练气」时伤害上限UP</span></div>
+support-1,炎柱,<div class=prt-text-small>自身获得即死回避效果(1次)/攻击力UP/火属性攻击力UP</div>
+support-2,炼狱的炎赫刀,<div class=prt-text-small>自身每4回合或回合结束时处于濒死状态，获得「练气」<br><span class=text-blue>◆处于「练气」时伤害上限UP</span></div>
 skill-lb,LB技能,自身处于「练气」时，连续攻击率UP
 intro,闪耀的炎刀,磨砺自身达到自己极限强度的柱用热情的火焰点亮其刀刃，烧尽蔓延的一切威胁。立于罪孽深重之人面前，守护万千性命的这个男人的身姿，是如此地耀眼、炽热、高洁。

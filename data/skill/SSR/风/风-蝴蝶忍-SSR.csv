@@ -1,7 +1,7 @@
 id,name,detail
 npc,蝴蝶忍,3040310000
-special,虫之呼吸 蝶之舞·戏弄,风属性伤害(特大)/低概率即死效果<span class=text-blue>◆对处于中毒效果的目标奥义性能UP</span>
-skill-1,六连突刺,<div class=prt-text-small>对敌方造成6次风属性伤害/中毒效果/「紫藤花毒」<span class=text-blue>◆5层「毒药调合」时，追加麻痹效果</span></div>
+special,虫之呼吸 蝶之舞·戏弄,<div class=prt-text-small>风属性伤害(特大)/低概率即死效果<br><span class=text-blue>◆对处于中毒效果的目标奥义性能UP</span></div>
+skill-1,六连突刺,<div class=prt-text-small>对敌方造成6次风属性伤害/中毒效果/「紫藤花毒」<br><span class=text-blue>◆5层「毒药调合」时，追加麻痹效果</span></div>
 skill-2,用毒者,自身攻击力大幅度UP/获得1层「毒药调合」(最大5层)
 skill-3,药学的知识,<div class=prt-text-small>我方全体HP回复(上限2000)/净化一个弱化效果<span class=text-blue>◆5层「毒药调合」效果时，追加全体奥义值UP(20%)</span></div>
 support-1,虫柱,<div class=prt-text-small>自身回避率UP/根据「毒药调合」层数，攻击力UP/连续攻击率UP/技能性能UP</div>
