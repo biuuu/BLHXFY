@@ -1,0 +1,84 @@
+id,name,text,trans
+0-chapter_name,,第3話 アジトの奥へ,第3话 闯入基地
+0-synopsis,,ジョイの中にいたビカラはネズミのつけ耳を落とす。技師によってつけ耳が捨てられそうになり、思わずビカラはジョイの中から出てしまう。つけ耳は取り戻せたが、技師と揉み合った勢いでジョヤの性能テスト場へ運ばれる。テスト場から抜け出して身を潜めていると、組頭の男が現れてジョヤに改造を加える。そこへ手下が現れ、ユイシス達がホールに着くと男に報告する。,碧卡拉的老鼠耳朵从乔伊的身体里掉了出来。技师们打算把耳朵扔掉，结果碧卡拉忍不住跑了出来。和技师争夺耳朵时，碧卡拉和乔伊被意外传送到除夜的测试场地。等他们逃出测试场地躲进暗处后，领头的男子出现并对除夜进行改造。这时他的手下也跑了过来，告诉他优希斯等人就要冲到大厅了。
+1,技師１,そこのワゴンに乗せるぞ。<br><span class='scene-font-4'>せーのっ！</span>,把它放到推车上。<br><span class='scene-font-4'>一、二、三！</span>
+4,ビカラ,<span class='scene-font-kokoro'>（あっ！　ネズ耳が……！）</span>,<span class='scene-font-kokoro'>（啊！　我的老鼠耳朵……！）</span>
+5,技師２,ん、なんか鐘の中から落ちたっすよ。<br>ネズミのつけ耳っすか？,嗯？有东西从里面掉出来了。<br>这是戴在头上的老鼠耳朵吗？
+6,技師１,うへぇ、なんでそんなもんが<br>入ってたんだよ？,哎，为什么里面会有这种东西啊。
+7,技師２,さぁ……？<br>というか、なんでそんなに<br>嫌そうな顔してるんすか？,谁知道呢。<br>话说你为什么一脸嫌弃啊。
+8,技師１,俺はネズミが大嫌いなんだ。<br>子供の頃、食べようとした菓子の袋から<br>飛び出してからもう……大の苦手だ。,我最讨厌老鼠了。<br>我小时候有次正要吃点心，结果有老鼠突然从点心袋子里冲出来……吓死我了。
+9,技師２,そりゃあ災難だったっすね……,那还真是灾难……
+10,技師１,わかったら捨ててきてくれ。<br>俺はテストの様子を見てくる。,你快把这东西扔了吧。<br>我去看看测试进行得怎么样。
+12,技師２,わかりました。この量産型も、<br>後でそっちに持っていきますね。,好。这个量产型样品我等下送去那边。
+13,,<span class='scene-font-katari'>ドラフの技師は疲れたような溜め息を</span><br><span class='scene-font-katari'>つきながら、部屋から出ていった。</span>,<span class='scene-font-katari'>牛族的技师心累地叹了口气走出了房间。</span>
+16,技師２,俺はネズミ好きなんだけどなぁ～<br>残念だ。,我倒挺喜欢老鼠的～<br>扔了怪可惜的。
+17,ビカラ,<span class='scene-font-4'>ああ～～、す、捨て……！？</span>,<span class='scene-font-4'>啊啊～～别、扔……！？</span>
+18,ジョイ,シーッ！　ウゴイチャ、ダメ！,嘘！ 不要动！
+19,,<span class='scene-font-katari'>技師はつけ耳を捨てようと</span><br><span class='scene-font-katari'>廃棄用のバケツの蓋を開ける。</span>,<span class='scene-font-katari'>技师打开垃圾箱的盖子准备把老鼠耳朵扔掉。</span>
+20,ビカラ,あ……,啊……
+21,技師２,<span class='scene-font-4'>うわぁ！？</span><br>ど、どっから出てきたんだ！？,<span class='scene-font-4'>呜哇！？</span><br>你、你从哪里钻出来的！？
+22,ジョイ,<span class='scene-font-4'>ビカラ、ダメ、ダヨ！</span><br><span class='scene-font-4'>ハヤク、モドッテ！</span>,<span class='scene-font-4'>碧卡拉、不行！快点、回来！</span>
+23,ビカラ,返して……,还给我……
+24,技師２,あ……？<br>なんか言ったか？,啊……？<br>你说什么？
+25,ビカラ,<span class='scene-font-4'>……っ！</span>,<span class='scene-font-4'>……！</span>
+28,技師２,<span class='scene-font-4'>な、なんなんだよ、あんた！？</span>,<span class='scene-font-4'>什、什么意思啊你！？</span>
+29,ビカラ,か、返してください……<br>そそ、それ……捨てないで……<br>あたしの……あたしのなんです……,把、那个还给我……<br>那那、那个……不要扔掉<br>那个是、我的……是我的……
+30,ビカラ,そ、それがないと、あたし駄目で……<br>なにも……<br>なにもできなくなっちゃうんです……,没、没有那个的话、我就不行……<br>什么都……什么都做不到……
+31,技師２,何ブツブツ言ってんだよ！？<br>これ、あんたのなのか？,你嘟囔什么呢？<br>这个是你的？
+35,ドーマウス,<span class='scene-font-4'>──ッッッ！！</span>,<span class='scene-font-4'>————！！</span>
+36,技師２,<span class='scene-font-4'>ぎぃゃぁぁあああ！！！</span>,<span class='scene-font-4'>啊啊啊啊——！！！</span>
+44,ジョイ,<span class='scene-font-5'>ワアア！</span>,<span class='scene-font-5'>哇啊啊！</span>
+51,ビカラ,へ？　何の音？,哎？ 什么声音？
+52,技師２,<span class='scene-font-4'>まずい！</span><br>そのレーンの先は試験機のテスト場だ！,<span class='scene-font-4'>糟了！</span><br>传送带前面是试验场地！
+53,技師２,緊急停止のレバーは……<br>これか？　違う、これか？,紧急停止的开关呢……<br>这个？ 不对，是这个吗？
+57,ジョイとビカラ,<span class='scene-font-4'>ワアアアア！！！</span><br><span class='scene-font-4'>きゃぁぁああ！！！</span>,<span class='scene-font-4'>哇啊啊啊！！！</span><br><span class='scene-font-4'>啊啊啊啊！！！</span>
+64,ジョイ,ゴ、ン……,咣……
+67,ビカラ,あぁぅあうぁぁ～……<br>世界が回るぅ～……,嗷嗷呜啊呜啊～……<br>世界在转啊～……
+73,ビカラ,<span class='scene-font-4'>ひぇぇぇーーっ！？</span><br>なんで打ち上げられてるのぉーー！！？,<span class='scene-font-4'>哎————！？</span><br>为什么会被发射啊！！？
+74,ジョイ,<span class='scene-font-4'>アガル、アガル、アガル、</span><br><span class='scene-font-4'>オチル、オチル、オチル……！</span>,<span class='scene-font-4'>上升、上升、上升、</span><br><span class='scene-font-4'>下落、下落、下落……！</span>
+83,？？？,──……,——……
+84,ジョイ,アレ？<br>キミハ……？,咦？<br>你是……
+85,ビカラ,煩悩の気配……<br>もしかして、そこにジョヤがいるの！？,烦恼的气息……<br>难道说除夜在这里！？
+86,ジョヤ/除夜,<span class='scene-font-4'>ゴォォォーーンン！！！</span><br><span class='scene-font-4'>ゴォォォーーンン！！！</span>,<span class='scene-font-4'>咣————！！！</span><br><span class='scene-font-4'>咣————！！！</span>
+89,ドーマウス,<span class='scene-font-4'>──ッッ！！</span>,<span class='scene-font-4'>——！！</span>
+90,ジョイ,<span class='scene-font-4'>ゴン！？</span><br>ア、ドーマウス！,<span class='scene-font-4'>咣！？</span><br>啊、是睡鼠！
+91,ドーマウス,<span class='scene-font-4'>──ッッ！！</span>,<span class='scene-font-4'>——！！</span>
+92,ビカラ,え……ジョヤの攻撃が来るって？,咦……你说除夜要攻击了？
+93,ビカラ,ああ、あたし絶対死ぬ……<br>クビラさん……ごめんなさい……<br>せめて遺書ぐらい残したかった……,啊、我真的要死了……<br>库碧拉……对不起……<br>真想留下遗书啊……
+94,ジョイ,<span class='scene-font-4'>ビカラ、ダイジョーブ！</span><br>ジョイヲ、シンジテ！,<span class='scene-font-4'>碧卡拉、没事的！</span><br>相信、乔伊！
+95,ビカラ,信じてって言われましても、<br>飛べでもしなきゃ<br>このまま一緒に木っ端微塵に……,你说相信你，可是我们没法飞走，要被炸成碎片了……
+96,ビカラ,あ、そっか……<br>ジョイさんは飛べるんでした。,啊、对了……<br>乔伊会飞。
+105,ジョイ,<span class='scene-font-4'>ゴォォォーーンン！！！</span>,<span class='scene-font-4'>咣————！！！</span>
+123,,<span class='scene-font-katari'>ジョヤの放った攻撃をどうにか避け、</span><br><span class='scene-font-katari'>ジョイとビカラはレーンを通って</span><br><span class='scene-font-katari'>テスト場の外に出る。</span>,<span class='scene-font-katari'>乔伊和碧卡拉勉强躲过了除夜的攻击，顺着传送带出了实验场地。</span>
+124,ジョイ,ウゥゥ……アブナカッタ……,呜呜呜……好险……
+125,ビカラ,うぼえ゛ぇ……あ゛ぁぁ～……<br>もう駄目……<br>今日、５回くらい死んだ……,呜呜呜……啊啊～……<br>不行了……<br>今天已经死了5次了……
+126,？？？,ほんで、結果はどないやったんけ？<br>ワイの天才的な改良で<br>収束率ようなったやろ、ワレ？,话嗦，结果咋样咧？<br>爷天才般的改良似不似让收敛速度又提高咯？
+127,ジョイ,ダレカ、クル！<br>ビカラ、カクレテ！,有人、来了！<br>碧卡拉、躲起来！
+129,ビカラ,え？<br>あ、ちょ……<br>ちょっと待ってください……,咦？<br>啊、等……<br>等一下……
+131,ビカラ,これでよし……と！<br>うん、わかった。,好了……！<br>嗯，我知道了。
+134,技師１,はい、ご推察の通り、<br>収束率が10％も改善されました。<br>煩熱変換効率も最高値です。,是，您说的对，收敛速度提高了10％。<br>烦热变换效率也达到了最高值。
+135,派手な格好の男,せやろ？<br>葬儀場をぶっ壊したくらいで<br>満足しとったらアカンのじゃい！,对叭？<br>只砸个葬礼会场妹有排面嗷！
+136,ビカラ,<span class='scene-font-kokoro'>（あの人がこのアジトのリーダー？</span><br><span class='scene-font-kokoro'>エキセントリックな格好してるな）</span>,<span class='scene-font-kokoro'>（那个人就是基地里的老大？穿得稀奇古怪的）</span>
+137,,<span class='scene-font-katari'>物陰に隠れて様子を窺っていると、</span><br><span class='scene-font-katari'>男の前のレーンが動き、</span><br><span class='scene-font-katari'>ジョヤが運ばれてきた。</span>,<span class='scene-font-katari'>碧卡拉躲在暗处观察，看见男人面前的传送带起动，把除夜运送过来。</span>
+139,ジョヤ/除夜,…………,
+140,派手な格好の男,イヒヒヒヒ、遂に完成やで！<br>こない早よぅ仕上げてまうなんて<br>自分の才能がほんまに恐ろしいのぅ。,咿嘻嘻、终于完成咯！<br>妹想到能这么快搞成，爷的才能属实让人颤抖。
+141,派手な格好の男,大暴走を起こして世界を混乱に陥れた<br>っちゅうその力、今度はワイのために<br>つこうてもらうど！,发生大暴走让世界陷入混乱的力量，现在要变成爷的东西咯！
+142,,<span class='scene-font-katari'>男は嬉々とした様子で</span><br><span class='scene-font-katari'>壁の操作盤をいじり始める。</span>,<span class='scene-font-katari'>男人高兴地开始操纵墙壁上的操纵盘。</span>
+145,ジョヤ/除夜,<span class='scene-font-bold scene-font-gray'>助けて……</span>,<span class='scene-font-bold scene-font-gray'>救救我……</span>
+146,ジョイ,エ？　イマ、ナンテ……？,咦？ 你说、什么……？
+147,ジョヤ/除夜,<span class='scene-font-bold scene-font-gray'>た……す…………</span><br><span class='scene-font-bold scene-font-gray'>……………………</span>,<span class='scene-font-bold scene-font-gray'>救……救…………</span><br><span class='scene-font-bold scene-font-gray'>……………………</span>
+148,ジョイ,ドウシタノ？<br>キコエナイヨ。,怎么了？<br>我听不清。
+149,ビカラ,ジョイくん？<br>一体誰と話してるんだい？,乔伊？<br>你在和谁说话？
+150,ジョイ,ジョヤ、ダヨ。<br>ビカラ、キコエナイノ？,和、除夜。<br>碧卡拉、听不见？
+151,派手な格好の男,これでええ。<br>臨界点に達したら<br>すぐに連絡せぇよ、ワレ。,整完咯。<br>到达临界点的时候就来通知爷嗷。
+153,手下２,<span class='scene-font-4'>か……頭ぁ！</span><br>あの女が間もなくホールに来まんで！,<span class='scene-font-4'>头……头儿！</span><br>辣个女人马上就要冲到大厅来了！
+154,派手な格好の男,なんや、エライ早いやんけ。<br>ワイが渡したトラップは<br>どないしたんや？,啥子哦，这么快。<br>爷整的那么多陷阱咧？
+155,手下２,それが、ことごとく<br>突破されてしまいまして……,陷阱、都被他们一个一个突破了……
+156,派手な格好の男,ほうか。せやったら、<br>ジョヤの準備が終わるまで<br>ワイが直々に相手したるで。,是吗。等除夜准备，那之前爷亲自当他们的对手。
+157,,<span class='scene-font-katari'>男は奇妙な装置を抱えると、</span><br><span class='scene-font-katari'>技師を残して部屋から出ていった。</span>,<span class='scene-font-katari'>男人抱起一个古怪的装置，留下技师离开了。</span>
+158,ジョイ,ジョヤ……,除夜……
+159,,<span class='scene-font-katari'>助けを訴えていたジョヤも</span><br><span class='scene-font-katari'>今は眠ったように沈黙している。</span>,<span class='scene-font-katari'>刚才发出求救的除夜现在却像睡着了一般沉默着。</span>
+160,,<span class='scene-font-katari'>近くにいるのに、</span><br><span class='scene-font-katari'>助けを求めていたのに、</span><br><span class='scene-font-katari'>何も出来ない──</span>,<span class='scene-font-katari'>除夜明明近在咫尺还向它求救，它却什么都做不到——</span>
+161,,<span class='scene-font-katari'>ジョイは無力な自分を</span><br><span class='scene-font-katari'>悔しく思うのだった。</span>,<span class='scene-font-katari'>乔伊感到非常不甘。</span>
+info,,,scene_evt191228_cp3_q3_s10
+译者,,,

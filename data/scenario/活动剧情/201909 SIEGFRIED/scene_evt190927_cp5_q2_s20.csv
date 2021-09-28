@@ -1,0 +1,31 @@
+id,name,text,trans
+0-chapter_name,,第5話 絶望,第5话 绝望
+0-synopsis,,一行が白竜騎士団の団員と共に龍脈のある国境付近を目指して進んでいると、ジークフリートが姿を現す。しかしその様子は尋常ではなく、獣のような唸り声と共に姬塔達へと襲い掛かる。ランスロットの制止の声は届かず、姬塔はランスロット、パーシヴァル、ルリアと共にジークフリートを止めに入るのだった。,率领着白龙骑士团团员，一行人朝着国境附近的龙脉地前进着。途中却遇到了模样怪异的齐格飞。齐格飞不时地发出猛兽般的低吼朝着姬塔等人袭击过来，就连兰斯洛特大声的劝止也无济于事。于是姬塔和兰斯洛特、帕西瓦尔、露利亚为阻止齐格飞展开了战斗。
+1,,<span class='scene-font-katari'>ランスロット達が龍脈のある</span><br><span class='scene-font-katari'>国境付近を目指して進んでいると、</span><br><span class='scene-font-katari'>前方から何者かが近づいて来る。</span>,<span class='scene-font-katari'>兰斯洛特等人朝着龙脉</span><br><span class='scene-font-katari'>在国境附近跋涉的途中，</span><br><span class='scene-font-katari'>前方忽然隐约有人影在靠近。</span>
+3,ジークフリート/齐格飞,…………,…………
+4,ランスロット/兰斯洛特,待て……あれは……,等下……那是……
+5,パーシヴァル/帕西瓦尔,ジークフリート……？,齐格飞……？
+6,ビィ/碧,何だ……ジークフリートのやつ<br>やっぱり自力で逃げて来たのか？,什么……齐格飞这家伙<br>真就凭自己本事逃了出来吗？
+7,ルリア/露莉亚,でも……<br>なにか様子が変です……,但是……总觉得样子很奇怪……
+10,ジークフリート/齐格飞,<span class='scene-font-4'>ウゥ……</span><br><span class='scene-font-4'>ウガァァァァァッッ！</span>,<span class='scene-font-4'>呜……</span><br><span class='scene-font-4'>呜啊啊啊啊啊啊！</span>
+13,白竜騎士団団員１,ひっ……,噫……
+14,,<span class='scene-font-katari'>人間離れしたスピードで</span><br><span class='scene-font-katari'>近くにいた白竜騎士団の団員に</span><br><span class='scene-font-katari'>切りかかるジークフリート。</span>,<span class='scene-font-katari'>齐格飞以人类所不及的速度</span><br><span class='scene-font-katari'>朝着白龙骑士团团员们</span><br><span class='scene-font-katari'>飞快的冲了过来。</span>
+14-sel1_txt,,<span class='scene-font-katari'>危ない！</span>,<span class='scene-font-katari'>危险！</span>
+24,ジークフリート/齐格飞,ウガッ……！,呜啊……！
+25,,<span class='scene-font-katari'>すんでの所で、</span><br><span class='scene-font-katari'>団員とジークフリートとの間に</span><br><span class='scene-font-katari'>割って入る姬塔。</span>,<span class='scene-font-katari'>千钧一发之际，</span><br><span class='scene-font-katari'>姬塔挡下了齐格飞</span><br><span class='scene-font-katari'>砍向团员的刀。</span>
+26,白竜騎士団団員１,た、助かりました……,得，得救了……
+27,ランスロット/兰斯洛特,ありがとう……姬塔。,谢谢你……姬塔。
+28,ジークフリート/齐格飞,ウグッ……ガァァァ……,呜呜……啊啊啊啊……
+29,ランスロット/兰斯洛特,ジークフリートさん！<br>俺です！　ランスロットです！,齐格飞！<br>是我！兰斯洛特！
+30,ジークフリート/齐格飞,グ……グガギギギ……,咕……咕啊啊啊……
+31,,<span class='scene-font-katari'>ジークフリートは瞳に</span><br><span class='scene-font-katari'>怪しい光を点らせている。</span>,<span class='scene-font-katari'>齐格飞的瞳孔中，</span><br><span class='scene-font-katari'>散发着诡异的光。</span>
+32,パーシヴァル/帕西瓦尔,ランスロット、<br>ジークフリートは正気を失っている。,兰斯洛特，<br>齐格飞失去了理智。
+33,ランスロット/兰斯洛特,くっ……<br>お前達は下がっていろ！,呜……<br>你们快退后些！
+34,白竜騎士団団員１,はっ……はいっ！,是……是！
+36,パーシヴァル/帕西瓦尔,ここは俺達が相手をする。<br>ランスロット、姬塔！<br>行けるか！,这里就由我们作为他的对手。<br>兰斯洛特、姬塔！<br>准备好了吗！
+37,ランスロット/兰斯洛特,ああ……俺達で<br>ジークフリートさんを止めるぞ！,嗯……让我们<br>把齐格飞阻止下来吧！
+37-sel1_txt,,<span class='scene-font-katari'>分かった！</span>,<span class='scene-font-katari'>没问题！</span>
+38,ビィ/碧,訳が分からねぇけど<br>戦うしかねぇみえてぇだな！,虽然不知道情况<br>但现在只能上了！
+39,ルリア/露莉亚,私も援護します！,我也会援助大家的！
+info,,,scene_evt190927_cp5_q2_s20
+译者,,,

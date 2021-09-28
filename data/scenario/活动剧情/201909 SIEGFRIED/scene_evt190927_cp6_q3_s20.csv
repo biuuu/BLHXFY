@@ -1,0 +1,26 @@
+id,name,text,trans
+0-chapter_name,,第6話 決戦,第6話 決戦
+0-synopsis,,グンターの隠れ家に向かう途中で、激しい地響きを感じる姬塔達。不穏な気配を感じ、一行はグンターの隠れ家へと急ぐ。到着した一行を出迎えたのは、不敵な笑みを浮かべるグンターだった。姬塔とランスロット、パーシヴァル、ヴェインがグンターがけしかけた竜種の群れの相手を引き受け、ジークフリートはグンターの元へ急ぐのだった。,在向古达的隐藏地行进的途中，感受到强烈地面震动的姬塔们。她们感觉到不安的气息，向隐藏地更加加快了步伐。而迎接一行人的，是自信地浮现笑容的古达。姬塔和兰斯洛特，帕西瓦尔，维恩承担了古达煽动的龙群的袭击，齐格飞则向着古达所在的地方急速赶去。
+1,,<span class='scene-font-katari'>グンターの隠れ家を目指す一行は、</span><br><span class='scene-font-katari'>辺りに異変を感じ取る。</span>,<span class='scene-font-katari'>以古达的隐藏地为目的的一行</span><br><span class='scene-font-katari'>在周边感受到了不安的气息。</span>
+2,ヴェイン/维恩,うわっ……！<br>なんだ地震か！？,呜哇……！<br>什么是地震吗？！
+3,ジークフリート/齐格飞,いかんな……<br>グンターが先手を打った様だ！<br>急ぐぞ、お前達！,不好……<br>古达事先准备出手了！<br>加快点，各位！
+4,ランスロット/兰斯洛特,はいっ！,是！
+10,,<span class='scene-font-katari'>先導するジークフリートの後に</span><br><span class='scene-font-katari'>続く一行は、地下にある</span><br><span class='scene-font-katari'>隠れ家らしき場所に辿り着いた。</span>,<span class='scene-font-katari'>跟着引导的齐格飞</span><br><span class='scene-font-katari'>一行人找到了位于地下</span><br><span class='scene-font-katari'>看起来像隐藏地的地方。</span>
+12,ジークフリート/齐格飞,<span class='scene-font-4'>グンター！</span>,<span class='scene-font-4'>古达！</span>
+13,グンター,来たか……<br>ジークフリート。,来了吗……<br>齐格飞。
+14,ジークフリート/齐格飞,この魔法陣は……,这个魔法阵是……
+15,グンター,くくくく……,哈哈哈……
+16,ジークフリート/齐格飞,何をする気だ！<br>これ以上の無茶は止めろ！,你打算干什么！<br>这以上的乱来就此为止吧！
+17,グンター,邪魔はさせない……,不会让你搅乱我的……
+18,グンター,アイツ等を足止めしろ！,让他们的步伐停下来！
+24,ニーズヘッグ,<span class='scene-font-4'>ギャァァァァッ！</span>,<span class='scene-font-4'>嘎啊啊啊啊！</span>
+25,,<span class='scene-font-katari'>グンターの命令に応じて</span><br><span class='scene-font-katari'>どこからともなく</span><br><span class='scene-font-katari'>竜種の群れが集まって来る。</span>,<span class='scene-font-katari'>听从古达的命令</span><br><span class='scene-font-katari'>从各个方向</span><br><span class='scene-font-katari'>龙群都聚集过来。</span>
+27,ジークフリート/齐格飞,お前達！<br>俺はグンターを止める！,各位！<br>由我来阻止古达！
+28,ジークフリート/齐格飞,竜種はお前達に任せたぞ！,龙群就交给你们了！
+29,３人,<span class='scene-font-4'>はいっ！</span><br><span class='scene-font-4'>わかった！</span><br><span class='scene-font-4'>任せて下さい！</span>,<span class='scene-font-4'>好！</span><br><span class='scene-font-4'>明白了！</span><br><span class='scene-font-4'>交给我们吧！</span>
+30,ビィ/碧,オイラ達も戦うぜ！,我们也来战斗吧！
+31,ルリア/露莉亚,はいっ！　行きましょう！<br>姬塔！,好的，一起上吧！<br>姬塔！
+31-sel1_txt,,<span class='scene-font-katari'>急ごう！</span>,<span class='scene-font-katari'>加紧点</span>
+33,,<span class='scene-font-katari'>一行は力を合わせて、</span><br><span class='scene-font-katari'>グンターと竜種に</span><br><span class='scene-font-katari'>立ち向かうのだった。</span>,<span class='scene-font-katari'>一行人合力</span><br><span class='scene-font-katari'>向古达和龙群</span><br><span class='scene-font-katari'>奋力冲去。</span>
+info,,,scene_evt190927_cp6_q3_s20
+译者,,,

@@ -1,0 +1,40 @@
+﻿id,name,text,trans
+0-chapter_name,,5: With Condolences to None,传达不到的哀痛
+0-synopsis,,"The elder explains that they'll be able to pry the demon blade from Corwell's hands if they can just extract the X-factor sliver from it. Learning for the first time of the origin of demon blades, Sevilbarra laments that none of the tragedy would have happened had he given up the family treasure sooner.",长老解释说，如果想要让克洛威尔放弃妖刀，就需要从克洛威尔身上提取出一种植入妖刀内部的，会让刀的主人失去心智的【碎片】。第一次知道家传妖刀真相的萨比尔巴拉后悔没有早些放弃这个家传遗物。
+2,,The elder and Sevilbarra place Corwell in a confinement cell and then return to the room where the crew is waiting.,把克洛威尔锁在牢房中，长老和萨比尔巴拉回到了众人等待的房间。
+3,Elder/老人,First let me thank you skyfarers for capturing this man and transporting him here.,首先，我要感谢抓住并把他带到这里来的各位骑空士大人们。
+4,Lyria/露莉亚,"You don't have to bow to us like that, Elder! We were only trying to help out our friend Sevilbarra.",别这样，请把头抬起来，长老！我们只是想要稍微帮助一下一同旅行的萨比尔巴拉先生而已。
+5,Lyria/露莉亚,"Isn't that right, 姬塔?",是这样吧，姬塔？
+6,,姬塔 agrees with Lyria that the elder needn't humble himself to such a degree.,姬塔同意露莉亚的话，并告诉长老不用行此大礼。
+7,Elder/老人,"I owe you a great deal, skyfarer.",深表感激，骑空士大人。
+8,Elder/老人,"Ah, my apologies for being overdue with refreshments. Allow me to serve some tea.",啊，还没有款待各位十分抱歉，我现在就去把茶点端过来。
+9,,The elder brings out tea and snacks. 姬塔 questions the elder while enjoying his hospitality.,在众人享受长老带来的茶点时，姬塔向长老提出问题。
+10,Elder/老人,So you wish to know how the demon blade will be separated from that man?,嗯，怎样才能让那个男人松开妖刀，吗。
+11,Elder/老人,The answer to that depends on the nature of the demon blade.,要得到答案，首先要了解妖刀的本质。
+12,Elder/老人,The manner in which a demon blade was forged can't be determined at present.,……妖刀这种武器，是怎么锻造出来的，至今还不确定。
+13,Elder/老人,"But all demon blades have a source of power, a variable origin known as the ""X factor.""",但是所有的妖刀的力量都来源于寄宿在其中的——【何物】
+14,Lyria/露莉亚,X factor?,【何物】……吗？
+15,Elder/老人,"Yes. Despite many years of research, nothing can be confirmed as of yet.",没错，其本质在经过多年的研究之后也没有判明。
+16,Elder/老人,What is certain is that each demon blade has one X factor within it. The X factor's power determines the blade's nature.,可以确定的是，每一振妖刀都含有一个【何物】，正是【何物】的性质决定了妖刀的性质。
+17,Vyrn/碧,"What do you mean by ""the blade's nature""?",妖刀的性质……？
+18,Elder/老人,Each blade exhibits a different power once it starts consuming its wielder's body and soul.,妖刀通过侵蚀持有者的身心并活性化，每一振都具有不同的力量。
+19,Elder/老人,"Generally speaking, the wielder's strength is greatly amplified, forcing opponents to falter from the difference in might. Just suffering a cut can spread decay through the body.",强化使用者的身体素质，发出令对手恐惧的威压，让身体从被砍伤的地方腐烂。
+20,Elder/老人,It's a terrifying power any way you look at it. But still it probably wasn't enough to oppose the Astrals.,全都是非常可怕的能力，但是对于对抗星之民还是不够强大。
+21,Sevilbarra/萨比尔巴拉,"To give you an example, my family's demon blade grows sharper with each soul it takes.",我家传下来的妖刀，具有斩杀的人越多就越锋利的特性。
+22,Vyrn/碧,Whoa... No wonder they're called demon blades...,哇……怪不得被称为妖刀呢。
+23,Elder/老人,My family tried to determine whether it's possible to remove the X factor in order to render demon blades powerless.,我们家族为了使妖刀无力化，一直在研究是否能从妖刀中提取出作为力量之源的【何物】。
+24,Elder/老人,Such a method for excising the X factor has yet to be found...,现在还没有办法抽取出【何物】本身……
+25,Elder/老人,"But what <span class='scene-font-italic'>can</span> be extracted is the ""X-factor sliver."" The sliver is planted in the wielder, driving them mad and allowing them to be controlled.",但是能够抽取出对手持妖刀之人产生影响，使他们发疯，将其置于妖刀支配之下的【何物的碎片】。
+26,Elder/老人,"If we can extract the sliver from Corwell, the incredible power bestowed by the X factor should be severed.",如果能从那个男人那里抽取出【何物的碎片】的话，那么在【何物】影响下发挥出来的怪力也会消失。
+27,Sevilbarra/萨比尔巴拉,"So each demon blade has an X factor within it, and the corruption experienced by the wielder comes from an implanted X-factor sliver...",妖刀中的【何物】……侵蚀所有者心智的【何物的碎片】……
+28,Sevilbarra/萨比尔巴拉,Why haven't I heard of this before?,这些我都是第一次听到。
+29,Elder/老人,Your family used sword arts passed down from generation to generation to take up the blade.,您的家族一直传承着的是使用妖刀战斗的方法。
+30,Elder/老人,Therefore the demon blade itself didn't become the sole source of power. Thank goodness for that foresight.,为此，并不需要知道妖刀的由来，只是那样就好了。
+31,Sevilbarra/萨比尔巴拉,What would've been better is if my ancestors had confined its usage to their era—the era of the War.,那样就好……是对于流派诞生的时代……霸空战争时代来说吧。
+32,Sevilbarra/萨比尔巴拉,Why wasn't my family willing to relinquish the demon blade and the sword arts after the War ended?,战争结束以后，为什么我的家族对妖刀和流派都没能放手呢。
+33,Sevilbarra/萨比尔巴拉,"If only I'd decided to forgo this demon blade sooner, none of this would've happened...",如果我……早点做出放弃妖刀的决定……那种事……
+34,Lyria/露莉亚,Sevilbarra...,萨比尔巴拉先生……
+35,,"姬塔 and Lyria huddle close to the Harvin, sharing in his pain.",姬塔和露莉亚靠近萨比尔巴拉，试图安慰他。
+36,Elder/老人,"Hindsight, Sevilbarra. When you're able to say what <span class='scene-font-italic'>should've</span> been done, then it's already too late.",已经晚了，萨比尔巴拉，正因为你说的是<span class='scene-font-italic'>如果</span> ……所以没有改正的余地。
+37,Sevilbarra/萨比尔巴拉,Yes... It is as you say.,没错……正如你所说……
+info,,,scene_evt181130_cp5_q2_s10

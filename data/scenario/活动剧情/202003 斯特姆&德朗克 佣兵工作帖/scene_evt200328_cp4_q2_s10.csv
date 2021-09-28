@@ -1,0 +1,114 @@
+id,name,text,trans
+0-chapter_name,,第4話 小休止、あるいは美味しい酒場,短暂的休息，或者是美味的酒馆
+0-synopsis,,酒場で姬塔達騎空団について話すスツルムとドランクに、酔った傭兵達が絡んでくる。騎空士や兵士達を傭兵の商売敵として悪し様に言う傭兵達。「下らん」と一蹴したスツルムが傭兵に掴みあげられた時、スツルムの懐から手紙が落ちる。傭兵が手紙を拾った瞬間ドランクがそれを奪い返し、スツルムとドランクの名前を聞いた傭兵達は慌てて逃げ去るのだった。,在酒馆里谈论姬塔团长他们骑空团的斯特姆和德朗克，被醉酒的佣兵们纠缠。把骑空士和士兵们作为佣兵的商业敌人说着坏话的佣兵们。因一句“无聊”而被佣兵抓住斯特姆衣服的时候，从怀里掉出一封信。佣兵捡到信的瞬间，德朗克把信夺回来，听到斯特姆和德朗克名字的佣兵们慌张张张地逃走了。
+2,酒場の店員,いらっしゃい！<br>お好きな席へ。,欢迎光临！<br>请随便坐。
+3,ドランク/德朗克,は～<br>おなかすいたねぇ。,哈~<br>肚子饿了啊。
+4,スツルム/斯特姆,そうだな……,是啊……
+7,ドランク/德朗克,あ、スツルム殿～<br>何か落としたよ。,啊，斯特姆殿下~<br>有什么掉了。
+8,スツルム/斯特姆,ん？,嗯？
+9,ドランク/德朗克,はいどうぞ～,那个，请看~
+10,,<span class='scene-font-katari'>ドランクが拾い上げて</span><br><span class='scene-font-katari'>スツルムに返したのは、</span><br><span class='scene-font-katari'>封筒に入った手紙のようだった。</span>,<span class='scene-font-katari'>德朗克捡起来</span><br><span class='scene-font-katari'>交给斯特姆的</span><br><span class='scene-font-katari'>像是装在信封里的信。</span>
+11,スツルム/斯特姆,ああ、悪いな。,啊，抱歉。
+12,ドランク/德朗克,いえいえ～,没事没事~
+13,,<span class='scene-font-katari'>ドランクは、</span><br><span class='scene-font-katari'>何を問うでもなくへらりと笑って</span><br><span class='scene-font-katari'>酒場のテーブルにつく。</span>,<span class='scene-font-katari'>德朗克什么也没问，</span><br><span class='scene-font-katari'>唠唠叨叨的笑着坐在了酒吧的吧台上。</span>
+14,ドランク/德朗克,何食べる？<br>あ、まずはお酒頼む？,吃什么？<br>啊，首先来酒？
+15,スツルム/斯特姆,麦酒。<br>つまみは任せる。,麦酒<br>下酒菜你看着点。
+16,ドランク/德朗克,はいはい～,好的好的~
+17,ドランク/德朗克,店員さーん！,服务员——！
+18,酒場の店員,へーい！,嘿——！
+24,,<span class='scene-font-katari'>仕事終わりのおいしい酒と食事に</span><br><span class='scene-font-katari'>舌鼓を打ちながら、ふたりの話題は</span><br><span class='scene-font-katari'>自然とつい先ごろの出来事へと及ぶ。</span>,<span class='scene-font-katari'>工作结束后的美酒美食让人咂摸嘴</span><br><span class='scene-font-katari'>两人的话题顺势流转到最近的事情中。</span>
+25,ドランク/德朗克,それにしてもさぁ、<br>今回みたいなことがあると<br>騎空艇って便利だなって思うよね。,说起来的话，<br>这次这样的事情有骑空艇，<br>我觉得还真是方便啊。
+26,スツルム/斯特姆,欲しい、とか言い出すんじゃ<br>ないだろうな。,你不是要说<br>想要吧。
+27,ドランク/德朗克,流石にそこまでは言わないけどね。<br>僕らふたりだけじゃあ、艇なんて<br>維持するにも持てあましちゃうしさぁ。,怎么也说不到这个份上啦。<br>我们只有两人，没办法维持飞艇的运转。
+28,スツルム/斯特姆,なくても仕事はできる。,就算没有也能干活儿。
+29,ドランク/德朗克,だよね～,也是呢~
+30,ドランク/德朗克,場合によっちゃあ今回みたいに<br>姬塔さん達に<br>協力をお願いすればいいしね。,如果需要的话，<br>像这次一样，<br>让姬塔团长他们帮忙就好了。
+31,スツルム/斯特姆,騎空団も騎空艇も<br>使いようだからな。,骑空团、骑空艇，<br>都可以拿来用。
+32,ドランク/德朗克,またまた～<br>スツルム殿ってば<br>そんな言い方しちゃってさぁ。,又来了~<br>斯特姆殿下又用这种说法。
+33,ドランク/德朗克,姬塔さん達の騎空団と<br>仲良くしてて助かったことって<br>これまでもたくさんあるでしょ～？,因为和姬塔团长他们的骑空团关系好<br>而受到帮助的时候不是很多吗~？
+34,ドランク/德朗克,だからスツルム殿も──,所以说斯特姆殿下也——
+36,？？？,おいおい、そこのお兄さん方よぉ！,喂喂，那边的小哥哟！
+37,ドランク/德朗克,ん～？,嗯~？
+38,酔った傭兵１,見たところ、お前らも傭兵だろ？,看起来，你们也是佣兵吧？
+39,ドランク/德朗克,まぁ、そうだけど……？,嘛，虽然是这样……？
+40,酔った傭兵１,話が聞こえちまったんだが<br>お前ら、傭兵のくせに<br>騎空士なんかと慣れあってんのかよぉ？,刚刚的话可听见了，<br>你们俩明明是佣兵，<br>居然会依靠骑空士？
+41,酔った傭兵２,ったく、こういう奴らが増えてきて<br>困ってんだよな！,真是，就是因为这样的家伙增加了，<br>给人添麻烦啊。
+42,ドランク/德朗克,えー……？,哎——……？
+43,,<span class='scene-font-katari'>明らかに酒に酔った様子の</span><br><span class='scene-font-katari'>男達に絡まれて</span><br><span class='scene-font-katari'>ドランクは苦笑する。</span>,<span class='scene-font-katari'>被明显醉酒的男人们纠缠上</span><br><span class='scene-font-katari'>德朗克苦笑着。</span>
+44,酔った傭兵２,わかってんのか？<br>騎空士は傭兵にとって<br>商売敵なんだぞ？,知道吗？<br>骑空士是佣兵商业上的敌人哦！
+45,ドランク/德朗克,はぁ……,哈……
+46,酔った傭兵１,騎空士なんかに頼ってるって<br>ところを見ると、お前らも<br>大した腕じゃないんだろうけどよぉ。,从你们会依赖骑空士来看，<br>也没什么本事啊。
+47,酔った傭兵２,だからって、騎空士どもが調子に<br>乗るようなことを、同じ傭兵連中に<br>されちゃー困るんだよ！,所以说，让骑空士得意忘形，<br>同是佣兵的人们很困扰啊！
+48,酔った傭兵１,プライドはねぇのかって話だぜぇ！,是说你们没有尊严呢！
+49,ドランク/德朗克,はは、それはそれは……,哈哈，那可真是……
+50,,<span class='scene-font-katari'>赤らんだ顔で管を巻く男達に、</span><br><span class='scene-font-katari'>ドランクは適当な相槌を返す。</span>,<span class='scene-font-katari'>对着红着脸卷起衣袖的男人们</span><br><span class='scene-font-katari'>德朗克随意的应和着。</span>
+51,,<span class='scene-font-katari'>その傍ら、スツルムは</span><br><span class='scene-font-katari'>まるで我関せずという顔で</span><br><span class='scene-font-katari'>料理を頬張っていた。</span>,<span class='scene-font-katari'>一旁的斯特姆</span><br><span class='scene-font-katari'>好像事不关己的样子</span><br><span class='scene-font-katari'>大口吃着菜。</span>
+52,スツルム/斯特姆,もぐもぐ……,“大口吃菜”……
+53,ドランク/德朗克,<span class='scene-font-2'>ちょっとちょっと～</span><br><span class='scene-font-2'>スツルム殿～……</span>,<span class='scene-font-2'>喂喂~</span><br><span class='scene-font-2'>斯特姆殿下~……</span>
+54,スツルム/斯特姆,<span class='scene-font-2'>知らん。</span><br><span class='scene-font-2'>お前が相手しろ。</span>,<span class='scene-font-2'>不管。</span><br><span class='scene-font-2'>交给你了。</span>
+55,ドランク/德朗克,<span class='scene-font-2'>え～そんなぁ……</span>,<span class='scene-font-2'>嗨~怎么这样……</span>
+56,酔った傭兵１,<span class='scene-font-4'>おい！</span><br><span class='scene-font-4'>聞いてるかぁ！？</span>,<span class='scene-font-4'>喂！</span><br><span class='scene-font-4'>听到没有！？</span>
+57,酔った傭兵２,俺達が、傭兵としての<br>矜持ってもんを<br>教えてやるって言ってんだよ！,让我们教教你<br>佣兵的尊严是个什么吧！
+58,ドランク/德朗克,はは、そりゃどうも恐れ入りますぅ～,哈哈，那还真是不好意思~
+59,酔った傭兵２,俺らはこの前、<br>近くの島に駐屯してる兵団から、<br>兵士の訓練を依頼されたんだ。,我们之前，<br>收到了这附近刀语驻扎的兵团邀请，<br>进行士兵的训练的委托。
+60,酔った傭兵１,ま、この時点で<br>生半可な腕の奴らにゃあ<br>来ない仕事ではあるんだよなぁ！,嘛，<br>对现在还是水平还是一般的家伙来说<br>还是接不到的委托啊！
+61,酔った傭兵２,はははは！<br>当然だぜ！,哈哈哈哈……！<br>可不是！
+62,酔った傭兵２,だが俺らはそれじゃあ終わらねぇ。,但是，我们不仅仅是这样。
+63,ドランク/德朗克,もぐもぐ……,“大口吃菜”……
+64,酔った傭兵１,<span class='scene-font-4'>おい、聞いてんのかぁ！？</span>,<span class='scene-font-4'>喂，你在听吗！？</span>
+65,ドランク/德朗克,むぐ……もっちろん！<br>僕のおススメの<span class='scene-font-place'>アガスティア</span>名物は、<br>おでんっていう煮込み料理で……,“吞咽”……当然了！<br>我推荐的<span class='scene-font-place'>阿加丝提亚</span>的特色菜<br>是杂烩乱炖的煮菜……
+66,酔った傭兵２,んな話してねーよ！　ちゃんと聞け！<br>ったく、仕方ねぇな……,不是这！ 好好听着！<br>真是没办法……
+67,酔った傭兵２,俺達は優秀な傭兵だからな。<br>兵士の訓練を依頼されても、<br>それだけじゃあ終わらねぇ。,因为我们是优秀的佣兵。<br>除了士兵训练的委托还没完。
+68,酔った傭兵１,手を抜いてやったのさぁ！<br>兵士の訓練なんざ、<br>真面目にやるわきゃねーのよ！,偷懒了啊！<br>士兵的训练，怎么可能认真做啊！
+69,酔った傭兵２,はははは！<br>なんでわざわざ、後の商売敵を<br>育ててやらなきゃならねーんだっての！,哈哈哈哈……！<br>为什么要特意把之后的商业竞争对手不得不培养出来啊！
+70,ドランク/德朗克,へぇ、はぁ、それはそれは……<br>そういうもんですかね～,哎，哈，那可真是……<br>还真是这样呢~
+71,酔った傭兵１,兵士共が頼りなければ頼りない程<br>こっちの仕事が増えるってなぁ！,士兵们越是靠不住的话，<br>这边的功能工作就会增加了！
+72,酔った傭兵２,それがこの世界のしくみってもんだ。<br>わかったかー？,这就是这个世界的构成。<br>知道了吗——？
+74,スツルム/斯特姆,……ふん。,……哼。
+75,スツルム/斯特姆,下らん。,无聊。
+76,酔った傭兵１,あぁん？,昂？
+77,,<span class='scene-font-katari'>スツルムの声は小さかったが</span><br><span class='scene-font-katari'>男のひとりが反応して眉を跳ね上げる。</span>,<span class='scene-font-katari'>斯特姆的声音虽然小</span><br><span class='scene-font-katari'>有一个男人做出了反应扬起了眉毛。</span>
+78,酔った傭兵１,おいおい、そっちの女ぁ。<br>さっきから態度が悪いんじゃねぇか？<br>あぁ？,喂喂，那边的女的。<br>刚才就是态度是不是太差了？<br>啊？
+79,スツルム/斯特姆,まだ耳が聞こえてたのか。<br>ひどい有様なのは、<br>酔いのせいじゃないらしいな。,还能听见啊。<br>垃圾样，大概也不是因为喝醉了。
+80,酔った傭兵１,んだとテメェ！？,你说什么？
+81,スツルム/斯特姆,…………,…………
+82,酔った傭兵１,生意気な……！,这么狂……！
+84,,<span class='scene-font-katari'>傭兵の男に掴みあげられた</span><br><span class='scene-font-katari'>スツルムの懐から、</span><br><span class='scene-font-katari'>先ほど仕舞った封筒が滑り落ちた。</span>,<span class='scene-font-katari'>被佣兵男握住衣服</span><br><span class='scene-font-katari'>从斯特姆怀里滑落了刚刚的信封。</span>
+85,酔った傭兵１,んだこれは……,这是啥……
+86,スツルム/斯特姆,っ……！,……！
+87,,<span class='scene-font-katari'>床を滑った手紙は、</span><br><span class='scene-font-katari'>スツルムよりも先に</span><br><span class='scene-font-katari'>男が拾い上げる。</span>,<span class='scene-font-katari'>比起斯特姆</span><br><span class='scene-font-katari'>男人先拾起了落到地板上的信</span>
+88,酔った傭兵１,手紙ぃ？,信？
+90,ドランク/德朗克,<span class='scene-font-4'>はい！</span><br>そこまで～！　ね？,<span class='scene-font-4'>好了！</span><br>到此为止~！吧？
+91,酔った傭兵１,んだよ！？,说什么你！？
+92,ドランク/德朗克,それ、返してくれる？,那个，能还回来吗？
+93,,<span class='scene-font-katari'>ドランクは、制止するように掴んだ</span><br><span class='scene-font-katari'>男の手首を、涼しい顔のまま</span><br><span class='scene-font-katari'>強く締め上げた。</span>,<span class='scene-font-katari'>德朗克制止似的握住男子的手腕</span><br><span class='scene-font-katari'>保持着清爽的脸色</span><br><span class='scene-font-katari'>但禁禁的握住。</span>
+94,酔った傭兵１,<span class='scene-font-4'>いっ……痛ってぇ！？</span>,<span class='scene-font-4'>疼……好疼！？</span>
+95,酔った傭兵２,<span class='scene-font-4'>おいっ！</span><br>何してんだ！<br>やるってのか！？,<span class='scene-font-4'>喂！</span><br>你干什么！想打架吗！？
+96,ドランク/德朗克,えー？<br>お店の人に迷惑かけるの、<br>僕は嫌なんだけどなぁ……,哎——？<br>我可不想给店里的人添麻烦呢……
+97,酔った傭兵１,<span class='scene-font-4'>痛てててててっ！！</span>,<span class='scene-font-4'>疼疼疼疼疼！！</span>
+98,スツルム/斯特姆,もういい。,算了。
+99,,<span class='scene-font-katari'>割り込んだスツルムが</span><br><span class='scene-font-katari'>ドランクの手を抑える。</span>,<span class='scene-font-katari'>插入的斯特姆</span><br><span class='scene-font-katari'>按住了德朗克的手。</span>
+100,スツルム/斯特姆,やめろ、ドランク。,算了，德朗克。
+101,,<span class='scene-font-katari'>そしてスツルムは、</span><br><span class='scene-font-katari'>緩んだ男の手から手紙を取り返した。</span>,<span class='scene-font-katari'>然后</span><br><span class='scene-font-katari'>斯特姆从僵住的男子手里取回了信。</span>
+102,ドランク/德朗克,そーう？<br>まぁ、スツルム殿が言うなら……,这样吗——？<br>嘛，斯特姆殿下这么说的话……
+103,,<span class='scene-font-katari'>男の手を解放したドランクは</span><br><span class='scene-font-katari'>へらりと笑って見せる。</span>,<span class='scene-font-katari'>放开男子的手的德朗克</span><br><span class='scene-font-katari'>笑嘻嘻的看着。</span>
+104,ドランク/德朗克,痛かった？<br>ごめんねぇ。,弄疼了？<br>抱歉啦。
+105,酔った傭兵１,てっめぇ……！,你这家伙……！
+106,酔った傭兵２,おい、待て！,喂，等！
+107,酔った傭兵１,<span class='scene-font-4'>止めんなぁ！</span><br>コイツが……！,<span class='scene-font-4'>别阻止我！</span><br>这家伙……！
+108,酔った傭兵２,ドランク……と、スツルム？<br>今、そう言ったか？,德朗克……和斯特姆？<br>你们刚刚说？
+109,スツルム/斯特姆,悪いか？,不行吗？
+110,酔った傭兵２,いや、それって……,不，那就是说……
+111,酔った傭兵１,<span class='scene-font-4'>おい、どうした！？</span><br><span class='scene-font-4'>なんだってんだぁ！</span>,<span class='scene-font-4'>喂，怎么了！？</span><br><span class='scene-font-4'>怎么回事！</span>
+112,酔った傭兵２,お前だって知ってんだろ！？<br>有名なふたり組の傭兵……,你也应该知道吧！？<br>有名的两人佣兵组合……
+113,酔った傭兵２,ドラフのスツルムと、<br>エルーンのドランク。,多拉夫的斯特姆，<br>和艾伦的德朗克。
+114,酔った傭兵１,そりゃあ知ってるけどよぉ……<br>え？　コイツらがあの疾風怒濤……！？,这点是当然知道啊……<br>哎？他们俩就是那个疾风怒涛……！？
+115,ドランク/德朗克,やだ、僕達ってば有名人？<br>サインとか用意しちゃう？,哎呀，我们俩是有名人？<br>要不要签名啊？
+116,スツルム/斯特姆,はぁ……下らない。,哈……真无聊。
+117,酔った傭兵１,マジ、なのかよ……！？,真的，假的啊……！？
+118,酔った傭兵２,と、とにかくもう行こうぜ！,总，总而言之先走了！
+120,酔った傭兵１,<span class='scene-font-4'>待ってくれ！</span><br><span class='scene-font-4'>俺も行く！</span>,<span class='scene-font-4'>等一下！</span><br><span class='scene-font-4'>我也走！</span>
+122,ドランク/德朗克,あーあ、<br>行っちゃった。,啊——啊，<br>走掉了。
+123,スツルム/斯特姆,折角の夕食が台無しだ。,好好的晚餐都毁了。
+info,,,scene_evt200328_cp4_q2_s10
+译者,,,非常交易

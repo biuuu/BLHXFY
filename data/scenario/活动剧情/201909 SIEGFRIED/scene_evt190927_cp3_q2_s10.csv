@@ -1,0 +1,50 @@
+id,name,text,trans
+0-chapter_name,,第3話 因縁,第3话 因缘
+0-synopsis,,ブルグント地方に入ってすぐジークフリートの追跡を開始したランスロットに、パーシヴァルと姬塔一行が合流する。進み始めてすぐ、一行の前に切迫した様子のアーサーとモルドレッドが現れる。ふたりからジークフリートの窮地を聞かされた一行は、ジークフリートの元へ急行するのだった。,帕西瓦尔和姬塔一行人，与在齐格飞进入勃艮第地区后便开始追踪的兰斯洛特汇合。刚开始前行，亚瑟和莫德雷德便一脸急迫地出现在了一行人的面前。从两人口中得知齐格飞陷入困境的一行人，立即赶往齐格飞所在之地。
+1,,<span class='scene-font-katari'>その頃、先ほどジークフリート達が</span><br><span class='scene-font-katari'>立ち寄った村に到着する</span><br><span class='scene-font-katari'>ランスロット率いる白竜騎士団。</span>,<span class='scene-font-katari'>这时，兰斯洛特率领的白龙骑士团</span><br><span class='scene-font-katari'>到达了方才齐格飞等人</span><br><span class='scene-font-katari'>经过的村庄。</span>
+2,,<span class='scene-font-katari'>ランスロットは、村人から聞いた</span><br><span class='scene-font-katari'>情報を頼りにジークフリートの</span><br><span class='scene-font-katari'>後を追っていた。</span>,<span class='scene-font-katari'>兰斯洛特凭借</span><br><span class='scene-font-katari'>从村民口中得到的情报</span><br><span class='scene-font-katari'>追寻齐格飞的足迹。</span>
+3,ランスロット/兰斯洛特,ジークフリートさんは<br>こっちの方角へ向かったらしいな。,齐格飞先生<br>似乎是往这边的方向去了。
+4,ランスロット/兰斯洛特,よし……お前達は怪我人の救護と、<br>残った竜種がいないか探して<br>見つけ次第討伐に当たってくれ。,很好……你们负责救助伤员，以及<br>探查是否还有剩下的龙种，<br>如有发现便立即讨伐。
+5,白竜騎士団団員,はっ！　承知致しました！,是！　明白了！
+7,ランスロット/兰斯洛特,さてと……<br>俺はジークフリートさんの<br>後を追うか。,接下来……<br>我去追上<br>齐格飞先生。
+8,,<span class='scene-font-katari'>ランスロットが、</span><br><span class='scene-font-katari'>村を出ようとすると</span><br><span class='scene-font-katari'>突然声をかけられる。</span>,<span class='scene-font-katari'>兰斯洛特</span><br><span class='scene-font-katari'>正打算出村，</span><br><span class='scene-font-katari'>便被突然叫住。</span>
+9,パーシヴァル/帕西瓦尔,おい、ランスロット！,喂，兰斯洛特！
+10,ランスロット/兰斯洛特,パーシヴァル！<br>それに姬塔達も！,帕西瓦尔！<br>还有姬塔你们！
+11,ランスロット/兰斯洛特,でも、どうしてここに？,但，你们为什么在这里？
+12,ルリア/露莉亚,アグロヴァルさんから<br>ブルグント地方が<br>大変だって聞いて……,我们从阿古罗瓦尔先生那听说<br>勃艮第地区<br>似乎发生了什么糟糕的事……
+13,ビィ/碧,フェードラッヘのみんなが<br>心配だったんで、オイラ達も<br>様子を見に来てみたんだ！,担心菲都拉赫的各位<br>所以我们也来<br>看看情况！
+13-sel1_txt,,<span class='scene-font-katari'>一緒に行ってもいい？</span>,<span class='scene-font-katari'>我们可以一起吗？</span>
+13-sel2_txt,,<span class='scene-font-katari'>パーシヴァルが焦ってたよ</span>,<span class='scene-font-katari'>帕西瓦尔可焦急了</span>
+14,ランスロット/兰斯洛特,ああ！　もちろんだとも！<br>姬塔達も来てくれるなんて、<br>これほど心強いことは無い。,啊啊！　当然！<br>没有什么比姬塔你们能来<br>更令人安心的了。
+15,パーシヴァル/帕西瓦尔,俺は別に焦ってなどいない。,我才没有焦急呢。
+16,パーシヴァル/帕西瓦尔,ブルグント地方は交易路の要所だ、<br>早々に騒ぎを収めんことには<br>周辺の民にしわ寄せが行くからな。,勃艮第地区是交易通道的要处，<br>如不赶快收拾这场骚乱<br>会给周边居民带来麻烦。
+17,ランスロット/兰斯洛特,うん、そうだな！<br>とにかくありがとう！<br>姬塔もパーシヴァルも。,嗯，的确！<br>总之多谢你们！<br>姬塔，还有帕西瓦尔。
+18,パーシヴァル/帕西瓦尔,情報の共有がてら<br>俺達も同行させてもらうぞ。,为了情报共有<br>让我们也同行。
+19,ランスロット/兰斯洛特,ああ、助かる。<br>ここからは俺について来てくれ。,啊啊，帮了大忙了。<br>接下来请跟上我。
+20,,<span class='scene-font-katari'>こうして、ランスロットと合流した</span><br><span class='scene-font-katari'>パーシヴァルと姬塔達は、</span><br><span class='scene-font-katari'>ジークフリートの足取りを追う。</span>,<span class='scene-font-katari'>就这样帕西瓦尔与姬塔等人</span><br><span class='scene-font-katari'>与兰斯洛特合流，</span><br><span class='scene-font-katari'>追寻齐格飞的足迹。</span>
+26,パーシヴァル/帕西瓦尔,既にジークフリートが<br>先行して動いていたか。,齐格飞已经先行一步<br>采取行动了吗。
+27,ランスロット/兰斯洛特,ああ、村人達の話じゃ<br>竜種の後を追って<br>この方角へ向かったらしい。,啊啊，听村民们说<br>他追着龙种<br>似乎向这个方向去了。
+28,パーシヴァル/帕西瓦尔,だが、竜種が村を襲うとは<br>ただ事ではないな。,但是，龙种会袭击村庄<br>可是非同寻常。
+29,,<span class='scene-font-katari'>周りをきょろきょろと見回す</span><br><span class='scene-font-katari'>ランスロットは、何か思い出した様子で</span><br><span class='scene-font-katari'>パーシヴァルに問いかける。</span>,<span class='scene-font-katari'>不安地环视周围，</span><br><span class='scene-font-katari'>兰斯洛特似乎想起了什么的样子</span><br><span class='scene-font-katari'>询问帕西瓦尔。</span>
+30,ランスロット/兰斯洛特,確か……この辺りって、<br>俺達が副団長になってすぐに、<br>反乱軍と戦った場所に近いよな？,没错的话……这一带离<br>我们刚当上副团长时，<br>与叛军战斗的地方很近？
+31,パーシヴァル/帕西瓦尔,ふむ……どうやらその様だな。,嗯……似乎的确如此。
+32,,<span class='scene-font-katari'>突然、ランスロット一行の</span><br><span class='scene-font-katari'>前方の茂みががさがさと揺れる。</span>,<span class='scene-font-katari'>突然，兰斯洛特一行人</span><br><span class='scene-font-katari'>前方的树丛摇动起来。</span>
+33,ランスロット/兰斯洛特,……さっそくお出ましか？,……立即出现了吗？
+34,パーシヴァル/帕西瓦尔,気を抜くなよ、<br>ランスロット、姬塔。,不要放松警惕，<br>兰斯洛特，姬塔。
+35,ランスロット/兰斯洛特,ああ、分かってるって。,啊啊，我知道。
+36,,<span class='scene-font-katari'>だが、目の前の茂みから</span><br><span class='scene-font-katari'>飛び出して来たのは……</span>,<span class='scene-font-katari'>但是，从前方的树丛中</span><br><span class='scene-font-katari'>跳出来的是……</span>
+38,アーサー/亚瑟,ラ、ランスロット団長！,兰、兰斯洛特团长！
+39,モルドレッド/莫德雷德,姬塔さんと<br>パーシヴァルさんも……！,还有姬塔<br>和帕西瓦尔先生……！
+40,ランスロット/兰斯洛特,アーサー、モルドレッド！<br>お前達がどうしてここに！,亚瑟、莫德雷德！<br>你们为什么在这里！
+41,アーサー/亚瑟,ランスロット団長……<br>ジ、ジークフリートさんを<br>助けて下さい！,兰斯洛特团长……<br>救、救救<br>齐格飞先生！
+42,モルドレッド/莫德雷德,姬塔さんと<br>パーシヴァルさんも<br>お、お願いします……！,还有姬塔和<br>帕西瓦尔先生<br>也拜托你们……！
+43,,<span class='scene-font-katari'>必死に感情を抑えていたふたりは</span><br><span class='scene-font-katari'>堰を切った様に号泣する。</span>,<span class='scene-font-katari'>拼命压抑住感情的两人</span><br><span class='scene-font-katari'>像决堤一般大哭起来。</span>
+44,ランスロット/兰斯洛特,状況が呑み込めないが、<br>ひとまず落ち着け。,虽然我还不了解情况，<br>但你们先冷静下来。
+45,パーシヴァル/帕西瓦尔,話は道中で聞く、<br>ジークフリートを助けたいなら<br>俺達をそこへ案内しろ。,你们的话我们边走边听，<br>想救齐格飞的话<br>就给我们带路。
+46,アーサー/亚瑟,は、はいっ！,是，是的！
+47,モルドレッド/莫德雷德,こ、こっちです！<br>付いて来てください！,这，这边！<br>请跟我们来！
+48,ビィ/碧,オイラ達も急ごうぜ！,我们也赶快！
+49,ルリア/露莉亚,はいっ！<br>行きましょう、姬塔！,是！<br>走吧，姬塔！
+50,,<span class='scene-font-katari'>一行は、アーサーとモルドレッドの</span><br><span class='scene-font-katari'>案内に従って、ジークフリートの</span><br><span class='scene-font-katari'>元に急行するのだった。</span>,<span class='scene-font-katari'>一行人在亚瑟和莫德雷德的带领下</span><br><span class='scene-font-katari'>急急赶往</span><br><span class='scene-font-katari'>齐格飞所在之处。</span>
+info,,,scene_evt190927_cp3_q2_s10
+译者,,,

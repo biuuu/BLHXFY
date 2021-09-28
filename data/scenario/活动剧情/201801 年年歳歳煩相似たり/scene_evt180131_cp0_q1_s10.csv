@@ -1,0 +1,83 @@
+id,name,text,trans
+0-synopsis,,世界の均衡を崩す者の排斥、及び抹消を使命とするゾーイは、大事が起こることを察し<span class='scene-font-place'>アウギュステ</span>を訪れた。はるか高空“宇宙”で煩悩を撒き散らすジョヤを止めるためにゾーイはジョヤに剣を向けるが、煩悩を持たぬゾーイにジョヤの暴走は止められない。煩悩に抗う力を必要としたゾーイは一時撤退を余儀なくされる。,以排除并抹消破坏世界平衡的存在为使命的佐伊察觉到将有大事发生，来到了<span class='scene-font-place'>奥古斯特</span>。为了阻止在“宇宙”发散烦恼的除夜，佐伊拔剑与之对峙，但没有烦恼的佐伊无法阻止除夜的暴走。佐伊不得已只好撤退，寻找能与烦恼对抗的力量。
+1,ゾーイ/佐伊,ふふ……<br>海はいつ訪れても変わらず綺麗だな。,呵呵……<br>不管什么时候来，大海都这么美丽。
+2,,<span class='scene-font-katari'>弾ける笑顔を浮かべ、</span><br><span class='scene-font-katari'>海に咲く花の様なうら若き少女。</span>,<span class='scene-font-katari'>少女浮起灿烂的笑容，宛如盛开于海面的花朵。</span>
+3,,<span class='scene-font-katari'>彼女の名は「ゾーイ」。</span>,<span class='scene-font-katari'>她名叫「佐伊」。</span>
+4,,<span class='scene-font-katari'>この世界が辿る運命に関わる</span><br><span class='scene-font-katari'>使命を負った少女である。</span>,<span class='scene-font-katari'>肩负着影响世界命运的使命。</span>
+11,,<span class='scene-font-katari'>──ジ・オーダー・グランデ──</span>,<span class='scene-font-katari'>——The Order Grande——</span>
+10,,<span class='scene-font-katari'>その実体は、</span><br><span class='scene-font-katari'>世界の均衡を守る為に存在する星晶獣。</span>,<span class='scene-font-katari'>她的本体是守护世界平衡的星晶兽。</span>
+12,,<span class='scene-font-katari'>「ゾーイ」という名は彼女と共に旅する</span><br><span class='scene-font-katari'>仲間達から与えられたものであり……</span>,<span class='scene-font-katari'>「佐伊」是与她一起旅行的伙伴为她取的名字……</span>
+13,,<span class='scene-font-katari'>可憐な少女の姿は、</span><br><span class='scene-font-katari'>ジ・オーダー・グランデが</span><br><span class='scene-font-katari'>受肉した姿であった。</span>,<span class='scene-font-katari'>可爱的少女身姿则是The Order Grande所托身的肉体。</span>
+14,,<span class='scene-font-katari'>世界の均衡を崩す者の排斥、</span><br><span class='scene-font-katari'>及び抹消──</span><br><span class='scene-font-katari'>それが彼女の使命である。</span>,<span class='scene-font-katari'>排除并抹消破坏世界平衡的存在——这就是她的使命。</span>
+20,ゾーイ/佐伊,空よりも澄んでいる。<br>ずっと眺めていたいな……,比天空更加澄澈。<br>真想一直看下去啊……
+21,ゾーイ/佐伊,だが……<br>今は遊んでいる暇はない。,但是……<br>现在没时间游玩了。
+22,,<span class='scene-font-katari'>そんな彼女が</span><br><span class='scene-font-katari'>常夏の島</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>に</span><br><span class='scene-font-katari'>降り立ったのには理由があった。</span>,<span class='scene-font-katari'>她来到常夏之岛</span><span class='scene-font-place'>奥古斯特</span><span class='scene-font-katari'>是有原因的。</span>
+28,,<span class='scene-font-katari'>世界の均衡を崩す可能性が生まれた時、</span><br><span class='scene-font-katari'>彼女はこの世に顕現する。</span>,<span class='scene-font-katari'>当世界的平衡出现崩溃的可能性时，她就会显现于世。</span>
+29,,<span class='scene-font-katari'>星晶獣アーカーシャの起動に端を発し</span><br><span class='scene-font-katari'>「ゾーイ」はこの世に誕生した。</span>,<span class='scene-font-katari'>以星晶兽阿卡夏被起动为开端，「佐伊」诞生在这个世界。</span>
+30,,<span class='scene-font-katari'>だが、この世にはアーカーシャを</span><br><span class='scene-font-katari'>差し引いても食い止めるべき危機が</span><br><span class='scene-font-katari'>散りばめられている。</span>,<span class='scene-font-katari'>然而，除了阿卡夏以外，世界上还有许多必须要阻止的危机。</span><
+36,,<span class='scene-font-katari'>この</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>を発端とする</span><br><span class='scene-font-katari'>未曾有の大事が起こり得ることを察し</span><br><span class='scene-font-katari'>現地偵察へやってきたのだった。</span>,<span class='scene-font-katari'>她注意到</span><span class='scene-font-place'>奥古斯特</span><span class='scene-font-katari'>可能发生前所未有的大事，因此前来实地侦查。</span>
+39,ゾーイ/佐伊,これは……,这是……
+40,,<span class='scene-font-katari'>刹那、突風が巻き起こった。</span><br><span class='scene-font-katari'>突風は瞬く間にゾーイの眼前を</span><br><span class='scene-font-katari'>通り抜けると遥か高空へと消えていく。</span>,<span class='scene-font-katari'>刹那间，一阵狂风卷起，掠过佐伊眼前，随后消失在遥远的上空。</span>
+46,,<span class='scene-font-katari'>ゾーイは、今し方起こった突風に紛れ</span><br><span class='scene-font-katari'>謎の飛行物体が飛んでいくのを</span><br><span class='scene-font-katari'>その目で捉えていた。</span>,<span class='scene-font-katari'>佐伊的视线捕捉到风中有神秘物体飞了过去。</span>
+52,ゾーイ/佐伊,あいつか……,是那家伙么……
+53,ゾーイ/佐伊,世界の敵となる者ならば、<br>私がこの手で排除するまでだ。,威胁世界的敌人，就由我亲手排除。
+67,ジョヤ/除夜,ゴォォォォン！<br>ゴォォォォォン！,咣——！<br>咣——！
+70,ゾーイ/佐伊,止まれ。,停下。
+73,ジョヤ/除夜,……ゴォォォン！？<br>ゴォォォォォン！！,……咣——！？<br>咣——！！
+74,ゾーイ/佐伊,お前はジョヤだな。,你就是除夜吧。
+75,ゾーイ/佐伊,空の世界の<span class='scene-font-spword'>『煩悩』</span>を集め、<br>人の欲望の均衡を守るために<br>存在しているお前が……,收集空之世界的<span class='scene-font-spword'>『烦恼』</span>，守护人类欲望平衡的你竟然……
+76,ゾーイ/佐伊,なぜこんなところに居る？,为什么会在这里？
+77,ゾーイ/佐伊,祠に保管されているはずだろう。,你应该被保管在祠堂里才对。
+80,ジョヤ/除夜,<span class='scene-font-4'>ゴォォォン！！</span>,<span class='scene-font-4'>咣——！！</span>
+81,ゾーイ/佐伊,煩悩を撒くのを今すぐに止めろ。<br>お前の使命は煩悩を集めることだろう。,马上停止传播烦恼。<br>你的使命是收集烦恼才对。
+82,,<span class='scene-font-katari'>ジョヤはゾーイの言葉に反発するように</span><br><span class='scene-font-katari'>体を打ち震わせ、</span><br><span class='scene-font-katari'>ゾーイを目掛けて煩悩を撒き散らす。</span>,<span class='scene-font-katari'>除夜仿佛对佐伊的话感到排斥，对准佐伊吐出烦恼。</span>
+83,ジョヤ/除夜,ゴォォォォン！！<br>ゴォォォォォォォン！！,咣——！<br>咣——！！
+84,ゾーイ/佐伊,む……,唔……
+88,,<span class='scene-font-katari'>避けるには遅く、</span><br><span class='scene-font-katari'>ゾーイはジョヤが撒いた煩悩に</span><br><span class='scene-font-katari'>塗れてしまう。</span>,<span class='scene-font-katari'>佐伊来不及躲闪，被除夜吐出的烦恼笼罩。</span>
+90,,<span class='scene-font-katari'>だが、ゾーイに付着したと思われた</span><br><span class='scene-font-katari'>煩悩は、弾かれたように</span><br><span class='scene-font-katari'>再びジョヤの中へと飛び戻った。</span>,<span class='scene-font-katari'>然而，就要附着在佐伊身上的烦恼又被弹回除夜体内。</span>
+91,ゾーイ/佐伊,…………,
+92,ジョヤ/除夜,ゴーン……？,咣……？
+93,ゾーイ/佐伊,無駄だったな。<br>私には煩悩は効かないようだ。,看来没有用。<br>烦恼对我无效。
+94,ジョヤ/除夜,ゴーン！？,咣！？
+95,ゾーイ/佐伊,次はこちらの番だな。,接下来轮到我了。
+96,ゾーイ/佐伊,少し本気を出す。ついてこれるか。,我要开始认真了。你能挡下吗？
+97,,<span class='scene-font-katari'>臨戦態勢を取るゾーイ。</span>,<span class='scene-font-katari'>佐伊进入战斗状态。</span>
+98,ジョヤ/除夜,ゴォォォォン！,咣——！
+108,,<span class='scene-font-katari'>ジョヤは高速で逃げるものの、</span><br><span class='scene-font-katari'>世界の均衡を崩す存在を排除する</span><br><span class='scene-font-katari'>力を持つゾーイに敵う余地はない。</span>,<span class='scene-font-katari'>除夜高速逃跑，但面对佐伊排除破坏世界平衡的存在的力量，它并不是对手。</span>
+110,ゾーイ/佐伊,はっ！,哈！
+114,,<span class='scene-font-katari'>高速で繰り出されるゾーイの剣技に</span><br><span class='scene-font-katari'>圧倒され、ジョヤは手を出せない。</span>,<span class='scene-font-katari'>在佐伊高速的剑技猛攻之下，除夜没有出手的余地。</span>
+115,,<span class='scene-font-katari'>だが、ゾーイが繰り出す攻撃は、</span><br><span class='scene-font-katari'>ジョヤに衝撃を与えるばかりで、</span><br><span class='scene-font-katari'>煩悩が辺りに飛び散っていく。</span>,<span class='scene-font-katari'>然而佐伊的攻击只对除夜造成了冲击，烦恼还是继续向周围扩散。</span>
+121,,<span class='scene-font-katari'>暴走したジョヤから散った強い煩悩は</span><br><span class='scene-font-katari'>そのまま空の世界へと落ちていった。</span>,<span class='scene-font-katari'>从暴走的除夜散发出的强烈烦恼，径直落向了空之世界。</span>
+122,ゾーイ/佐伊,まさか……<br>私の攻撃が煩悩を散らして<br>しまっているのか……！？,怎么会……<br>我的攻击在让烦恼扩散……！？
+123,,<span class='scene-font-katari'>その事実に気づいたゾーイは</span><br><span class='scene-font-katari'>やむなく攻撃の手を止める。</span>,<span class='scene-font-katari'>察觉到这一点的佐伊只好停止攻击。</span>
+124,ジョヤ/除夜,ゴー……ン……,咣……
+125,ジョヤ/除夜,<span class='scene-font-4'>ゴォォォォン……！！ </span><br>,<span class='scene-font-4'>咣——……！！ </span>
+126,,<span class='scene-font-katari'>ゾーイの攻撃が止むのを機に、</span><br><span class='scene-font-katari'>ジョヤは形勢逆転の機会を得ようと、</span><br><span class='scene-font-katari'>フルパワーを発揮した。</span>,<span class='scene-font-katari'>除夜趁佐伊停下攻击，抓住机会想要逆转形势，发挥出它的最大的力量。</span>
+127,ジョヤ/除夜,<span class='scene-font-4'>ゴォォォォン……！！</span><br><span class='scene-font-4'>ゴォォォォォォォォン！！</span>,<span class='scene-font-4'>咣——……！！</span><br><span class='scene-font-4'>咣——！！</span>
+128,ジョヤ/除夜,<span class='scene-font-4'>ゴォォォォォォン！！</span><br><span class='scene-font-kokoro'>（煩悩を持たぬお主が煩悩を</span><br><span class='scene-font-kokoro'>打ち消そうなど無駄な事よ）</span>,<span class='scene-font-4'>咣——！！</span><br><span class='scene-font-kokoro'>（没有烦恼的你是无法消除烦恼的。）</span>
+129,ゾーイ/佐伊,なん、だと……？,什、么……？
+130,ジョヤ/除夜,ゴォォォォン！！<br>ゴォォォォォォン！！,咣——！！<br>咣——！！
+131,,<span class='scene-font-katari'>ジョヤは人の煩悩の強さを</span><br><span class='scene-font-katari'>ゾーイに見せつける。</span>,<span class='scene-font-katari'>除夜向佐伊展现人类烦恼的强大。</span>
+137,,<span class='scene-font-katari'>飛び散る煩悩はゾーイをすり抜け、</span><br><span class='scene-font-katari'>空の世界へ落ちていく。</span>,<span class='scene-font-katari'>飞散的烦恼擦过佐伊，落向空之世界。</span>
+143,,<span class='scene-font-katari'>これにより、他を圧倒する</span><br><span class='scene-font-katari'>超絶的な力を有するゾーイにとって、</span><br><span class='scene-font-katari'>唯一の欠点とも呼べる事実が判明。</span>,<span class='scene-font-katari'>由此可以判明，拥有超绝力量的佐伊也有唯一的缺点。</span>
+144,,<span class='scene-font-katari'>それは、ゾーイは</span><br><span class='scene-font-katari'>煩悩が“効かない”のではなく、</span><br><span class='scene-font-katari'>煩悩を“持てない”ということ。</span>,<span class='scene-font-katari'>烦恼并非对佐伊“无效”，而是因为佐伊没有“烦恼”。</span>
+145,,<span class='scene-font-katari'>調停者が煩悩を抱き偏った思考を持てば</span><br><span class='scene-font-katari'>世界の均衡は一瞬にして</span><br><span class='scene-font-katari'>失われてしまう。</span>,<span class='scene-font-katari'>如果调停者拥有烦恼，思考方式有所偏倚，那么世界的平衡会在一瞬间崩溃。</span>
+146,,<span class='scene-font-katari'>世界の均衡を司る星晶獣である</span><br><span class='scene-font-katari'>ゾーイが煩悩を持ち得ないのは</span><br><span class='scene-font-katari'>当然のことだった。</span>,<span class='scene-font-katari'>作为司掌世界平衡的星晶兽，佐伊没有烦恼也是理所当然的。</span>
+147,,<span class='scene-font-katari'>ジョヤはそれを逆手に取ったのだった。</span>,<span class='scene-font-katari'>除夜利用这点反将一军。</span>
+157,ジョヤ/除夜,<span class='scene-font-4'>────！！</span>,<span class='scene-font-4'>————！！</span>
+164,ゾーイ/佐伊,このままでは空の世界が<br>煩悩に支配されてしまう。,这样下去空之世界会被烦恼支配。
+165,ゾーイ/佐伊,ジョヤは、空の世界の均衡を<br>保つために必要な存在だ。,除夜对维持世界平衡来说是必要的存在。
+166,ゾーイ/佐伊,だからこそ今ここで、<br>ジョヤを滅ぼすことはできない……,所以不能在这里消灭除夜……
+167,ジョヤ/除夜,ゴォォォォン！！<br>ゴォォォォォォン！！,咣——！！<br>咣——！！
+168,ゾーイ/佐伊,だが……<br>今のままでは世界は破滅へ<br>向かってしまう。,但是……<br>这样下去的话世界会毁灭的。
+169,ゾーイ/佐伊,どうすれば、いいんだ……！<br>今の私にできることは<br>ないのか……！,怎么办才好……！<br>难道我什么都做不了吗……！？
+172,ジョヤ/除夜,ゴォォォォォォン！！<br><span class='scene-font-kokoro'>（煩悩を持たぬお主が煩悩を</span><br><span class='scene-font-kokoro'>打ち消そうなど無駄な事よ）</span>,咣——！！<br><span class='scene-font-kokoro'>（没有烦恼的你是无法消除烦恼的。）</span>
+176,ジョヤ/除夜,ゴォォォォン！！<br>ゴォォォォォォン！！,咣——！！<br>咣——！！
+177,ゾーイ/佐伊,煩悩……,烦恼……
+178,ゾーイ/佐伊,…………,
+179,ゾーイ/佐伊,今は一時撤退して、戦況を立て直そう。,现在只有暂时撤退，重整战况。
+180,ゾーイ/佐伊,……そのためには力が要る。,……为此我需要别的力量。
+181,ゾーイ/佐伊,煩悩に対抗できる強力な人の手が。,需要能够对抗烦恼的强者来协助。
+186,ジョヤ/除夜,ゴォォォォン！！<br>ゴォォォォォォン！！,咣——！！<br>咣——！！
+info,,,scene_evt180131_cp0_q1_s10
+译者,,,

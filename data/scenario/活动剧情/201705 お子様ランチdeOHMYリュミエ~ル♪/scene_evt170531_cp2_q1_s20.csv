@@ -1,0 +1,77 @@
+id,name,text,trans
+0-chapter_name,,第2話 食材選びは重要であります！,第2话 挑选食材很重要！
+0-synopsis,,大人っぽいランチとは何かを議論した結果、姬塔達は刺激のある『トウガラシ』が使えるのではないかと考え、食材を調達しにフェアタイル島の山へ向かう。トウガラシだけでなく、他にも山菜やウットリュフまで自生しているのを見つけ、収穫しようとする。しかし、山の主らしきイノシシに見つかり襲われてしまう。,姬塔他们讨论大人样的午餐该是怎样之后，想要使用有刺激性的『辣椒』，为了获得食材去到费阿提尔岛的山里。不仅是辣椒，看到还生长着野菜甚至是松茸，他们收获颇丰。但是，仿佛是山主的野猪发现并袭击了他们。
+0,ルリア/露莉亚,ふむふむ……,呼姆呼姆……
+1,ビィ/碧,ほえ～……リンゴを使った料理って<br>沢山あるんだなぁ。<br>どれも旨そうだぜ。,哇~……用到苹果的料理有好多啊。不管哪个看起来都好好吃啊。
+2,ルリア/露莉亚,わわぁ～！<br>アンキモツって美味しそうです～！,哇哇~！鮟鱇肝看起来也好美味~！
+3,,<span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>ルリアがカタリナから借りてきたという</span><br><span class='scene-font-katari'>料理本に目を通していた。</span>,<span class='scene-font-katari'>姬塔几人正聚在一起翻阅着由露莉亚从卡塔莉娜那里借来的料理书。</span>
+4,,<span class='scene-font-katari'>姬塔はスパイスの法則、</span><br><span class='scene-font-katari'>ルリアは珍味大全、ビィは</span><br><span class='scene-font-katari'>フルーツ料理学という本を読んでいる。</span>,<span class='scene-font-katari'>姬塔兰在看着《香料的法则》，露莉亚抱着《美食大全》，碧则是翻着一本《水果料理学》。</span>
+5,ルリア/露莉亚,はわっ！　見てください！　<br>密林にはオパールエヴィ<br>というエヴィがいるそうです！,哈哇！快来看啊！密林里好像有被称作棱镜虾的大龙虾耶！
+6,ビィ/碧,オパールエヴィ？<br>なんだよそれ。,棱镜虾？啥玩意啊那是。
+7,ルリア/露莉亚,<span class='scene-font-gray'>“全身が極彩色に輝き、</span><br><span class='scene-font-gray'>まさに密林の宝石と呼ばれている……”</span>,<span class='scene-font-gray'>“全身闪耀着彩色的光辉，被称作密林的宝石……”</span>
+8,ルリア/露莉亚,なんでも、この珍味大全に載っている<br>幻とされているものの中でも<br>かなりレアな食材だそうですよ。,在这本美食大全记载的诸多幻之食材之中也是相当稀有的食材哟！
+9,ビィ/碧,へぇ～<br>幻の食材か～そんなの<br>手に入ったらすげぇなぁ！,嘿~幻之食材啊~要是能入手这玩意的话可就厉害了啊！
+10,ルリア/露莉亚,世界にはこんなに沢山の<br>珍しい食材があるんですね！<br>三大珍味なんて物も……興味深いです！,世界上原来还有这么多稀有的食材啊！我对其中被叫做三大珍味的东西特别感兴趣！
+11,,<span class='scene-font-katari'>姬塔チームの手元にある</span><br><span class='scene-font-katari'>食材は、食料庫に残っていた</span><br><span class='scene-font-katari'>『卵』と『調味料』のみ。</span>,<span class='scene-font-katari'>姬塔队手边的食材，只有储藏库里剩下的鸡蛋和调味料而已。</span>
+12,,<span class='scene-font-katari'>手元にあるそれらの食材で</span><br><span class='scene-font-katari'>何が作れるかを</span><br><span class='scene-font-katari'>調べていたのだが──</span>,<span class='scene-font-katari'>虽然说是在调查手边的材料能够做些什么料理，但是——</span>
+13,ビィ/碧,卵だけじゃそもそも足りねぇよな。<br>本ばっか読んでても進まねぇし<br>とりあえず、食材調達に行こうぜ！,说到底只有蛋的话也不够做什么啊，别在这里看书了，总之先去把食材的问题解决吧！
+14,ルリア/露莉亚,そうですね。でも……<br>大人様ランチを作るのに必要な<br>大人っぽい食材って何でしょう？,说的也是。不过……做大人午餐需要的大人风格的食材是什么呢？
+15,,<span class='scene-font-katari'>ルリアの問いかけに、</span><br><span class='scene-font-katari'>姬塔は読んでいた本の</span><br><span class='scene-font-katari'>とあるページを指し示す。</span>,<span class='scene-font-katari'>顺着露莉亚的疑问，姬塔的手指向了手中正在读着的书本的某一页。</span>
+16,ビィ/碧,トウガラシだって！？,居然是辣椒吗！？
+17,ルリア/露莉亚,なるほど……<br>確かに辛い物が食べられる人は<br>大人な感じがします……！,原来如此……确实辣的食物吃起来很有大人的感觉呢……！
+18,ビィ/碧,なになに、<span class='scene-font-gray'>“フェアタイル島に自生する</span><br><span class='scene-font-gray'>トウガラシは辛みと甘みのバランスが</span><br><span class='scene-font-gray'>良く……”</span>,什么什么，<span class='scene-font-gray'>“费阿提尔岛上生长的辣椒在辣味和甜味之间有着绝妙平衡……”</span>
+19,ビィ/碧,へぇ！　いいじゃねぇか！,欸！这个不错嘛！
+20,ルリア/露莉亚,フェアタイル島の山なら、<br>他の食材も手に入るかもしれませんね。,费阿提尔岛的山里的话，说不定也能入手其他的食材呢！
+21,ビィ/碧,他のチームに後れを取るわけには<br>いかねぇしな。<br>そんじゃさっさと向かうとするか！,可不能比其他队伍要落后，咱们快点动身吧！
+27,ルリア/露莉亚,えーっと、マップによると<br>トウガラシが生っているのは<br>確かこの辺りなんですが……,那个，地图上说辣椒生长的地点应该就在这附近才对……
+28,,<span class='scene-font-katari'>スパイスの法則の付録に付いていた</span><br><span class='scene-font-katari'>“フェアタイル島山菜マップ”を手に、</span><br><span class='scene-font-katari'>山の奥へと歩み進める姬塔達。</span>,<span class='scene-font-katari'>姬塔一行人拿着《香料的法则》里附赠的“费阿提尔岛野菜地图”在山里前行着。</span>
+29,ビィ/碧,おっ！　これじゃねぇか？<br>姬塔、ルリア、<br>ここに沢山自生してるぜ！　,啊！难道说是这个？姬塔，露莉亚，这里长着好多啊！
+30,ルリア/露莉亚,わぁ！　本当です！<br>沢山ありますね！,啊！是真的！有一大堆呢！
+31,ビィ/碧,なぁ、ちょっとこのトウガラシ<br>食ってみねぇか？　採りたてなら<br>なんでも美味いかもしれねぇし。,我说，要不要稍微尝一尝这个辣椒？都特意来找了应该很美味吧。
+32,ルリア/露莉亚,えぇっ！　お料理に入ってるなら<br>まだしも、このまま食べるのは<br>ちょ、ちょっと怖いです……！,欸！加在料理里面还好，就这样空口吃什么的，有，有点可怕……！
+33,ビィ/碧,へへっ！　ルリアはビビりだな！<br>姬塔はどうだ？<br>挑戦してみねぇか？,嘿嘿，露莉亚害怕了！姬塔你怎么样？要挑战一下吗？
+33-sel1_txt,,<span class='scene-font-katari'>いかせてもらおう</span>,<span class='scene-font-katari'>那我就来试试吧</span>
+33-sel2_txt,,<span class='scene-font-katari'>ビィどうぞ</span>,<span class='scene-font-katari'>碧你请</span>
+34,ビィ/碧,さすが姬塔だぜ！,真不愧是姬塔！
+35,ビィ/碧,へへっ！<br>一気にいってみろよ！,嘿嘿！一口气吃下去嘛！
+36,,<span class='scene-font-katari'>姬塔は、手に持っていた</span><br><span class='scene-font-katari'>トウガラシに勢いよく噛り付いた。</span>,<span class='scene-font-katari'>姬塔手里拿着辣椒，一口气咬了下去。</span>
+37,,<span class='scene-font-katari'>味を確かめるように咀嚼する</span><br><span class='scene-font-katari'>姬塔。余裕そうな表情に</span><br><span class='scene-font-katari'>見えたものの──</span>,<span class='scene-font-katari'>为了仔细品味而咀嚼着的姬塔，脸上还是尚有余裕的表情——</span>
+39,,<span class='scene-font-katari'>過剰な刺激に姬塔の</span><br><span class='scene-font-katari'>口内が悲鳴を上げた。</span>,<span class='scene-font-katari'>然后过度的刺激在姬塔的嘴里化作悲鸣迸发而出。</span>
+40,ビィ/碧,やべぇ！　<br>姬塔の顔真っ赤だ！,糟了！姬塔的脸好红！
+41,,<span class='scene-font-katari'>唇、口内すべてを焼き尽くすように</span><br><span class='scene-font-katari'>容赦なく襲い掛かる痛み。</span>,<span class='scene-font-katari'>仿佛要将嘴唇，口腔全部烧成灰的痛感毫不留情地袭来。</span>
+42,ルリア/露莉亚,はわわっ！<br>お、お水、お水！！<br>これ飲んでください、姬塔！！,哈哇哇！水，水！！快把这个喝掉，姬塔！！
+43,,<span class='scene-font-katari'>余りの辛さに涙を浮かべ激辛に悶絶する</span><br><span class='scene-font-katari'>姬塔にオロオロすることしか</span><br><span class='scene-font-katari'>できないビィとルリア。</span>,<span class='scene-font-katari'>面对着因为太辣而痛苦不堪、眼泪直冒的姬塔，碧和露莉亚除了手忙脚乱以外什么也做不到。</span>
+48,ビィ/碧,わ、悪ぃ姬塔、<br>そんな辛いとは思わなくて……！,抱，抱歉啊姬塔，没想到会这么辣……！
+49,,<span class='scene-font-katari'>姬塔は過剰な辛さが</span><br><span class='scene-font-katari'>生み出すのは、辛味ではなく</span><br><span class='scene-font-katari'>痛みであることを学んだ。</span>,<span class='scene-font-katari'>姬塔学到了一件事，过度的辣味得到的不是辣味，而是疼痛。</span>
+50,ルリア/露莉亚,少し落ち着きましたか……？,稍微好一些了吗……？
+51,,<span class='scene-font-katari'>激辛を乗り越えた先にある勇気を</span><br><span class='scene-font-katari'>手に入れた姬塔は、どこか</span><br><span class='scene-font-katari'>誇らしげな顔を浮かべるのだった。</span>,<span class='scene-font-katari'>有勇气跨越了变态辣的姬塔，脸上不知为何浮现出了自豪的表情。</span>
+52,ビィ/碧,さすが姬塔だぜ……！,真不愧是姬塔……！
+54,ビィ/碧,へへっ、いいぜ！<br>オイラだって男だ！<br>これぐらいの辛さ耐えてやるぜっ！,嘿嘿，好啊！我也是男子汉！这点辣我就忍给你看！
+55,,<span class='scene-font-katari'>ビィは、姬塔が手に</span><br><span class='scene-font-katari'>持っていたトウガラシに</span><br><span class='scene-font-katari'>勢いよく噛り付いた。</span>,<span class='scene-font-katari'>碧气势满满地咬了一口姬塔手里的辣椒。</span>
+56,ビィ/碧,うん？<br>なんだ、思ったより大したことな──,嗯？哎呀，比想象的还要不辣——
+59,ビィ/碧,げえっほ！<br>ごほっごほっ！！<br>ぐぇぇぇっげほごほっ！,咳咳！咳咳！！咕诶诶诶咳咳咳！
+61,ルリア/露莉亚,はわっ！<br>だ、大丈夫ですか、ビィさん！！,哈哇！没，没事吧，碧！！
+62,ビィ/碧,<span class='scene-font-4'>っうえええええ！！</span><br>かっれぇぇぇ！！<br>み、水くれ水～！！,<span class='scene-font-4'>呜诶诶诶诶诶！！</span>好辣啊啊啊！！水，给我水~！！
+63,,<span class='scene-font-katari'>姬塔は慌てた様子で</span><br><span class='scene-font-katari'>ビィに水を飲ませる。</span>,<span class='scene-font-katari'>姬塔慌张地让碧喝下水。</span>
+64,ビィ/碧,ええ～べぇ～<br>なんだよ、これイテェ！<br>口の中がいてぇぞ！？,诶诶~诶~什么啊，这份痛楚！嘴巴里面好痛啊！？
+65,ルリア/露莉亚,はわわ……！<br>見てるだけでも辛いです……！,哈哇哇……！光是看着就觉得很辣了……！
+66,,<span class='scene-font-katari'>ビィに申し訳ない気持ちを抱きつつも</span><br><span class='scene-font-katari'>そんなビィが可愛くも思える</span><br><span class='scene-font-katari'>姬塔なのだった。</span>,<span class='scene-font-katari'>虽然觉得很对不起碧，但姬塔觉得那样的碧也很可爱。</span>
+72,,<span class='scene-font-katari'>ひとしきりトウガラシを取り終え、</span><br><span class='scene-font-katari'>他にも何か食材はないかと、</span><br><span class='scene-font-katari'>山の中を歩き進めていると──</span>,<span class='scene-font-katari'>采完辣椒一段时间之后，众人边想着是不是还有什么其他食材边继续朝着山里前进——</span>
+73,ルリア/露莉亚,すんすん。<br>なんだかいい香りがしますね。<br>山菜でしょうか？,嗅嗅，总觉得有股香味呢，是野菜的味道吗？
+74,ビィ/碧,あ！　おい、見てみろよ！<br>山菜だけじゃねぇ！<br>あれってウットリュフだよな！？,啊！喂，快看啊！不止是野菜啊！那个是松茸吧！？
+75,,<span class='scene-font-katari'>ビィが指し示す先には、</span><br><span class='scene-font-katari'>確かに地面からウットリュフが</span><br><span class='scene-font-katari'>顔を出していた。</span>,<span class='scene-font-katari'>顺着碧指示的方向，确实能看见从地面上冒出头来的松茸。</span>
+76,ルリア/露莉亚,ほんとうです！<br>どうしてこんな珍しいキノコが<br>こんなところに？,真的诶！为什么这么珍稀的蘑菇会在这种地方？
+77,ビィ/碧,へへっ！<br>でもラッキーだぜ！<br>これも料理に使えるよな！,嘿嘿！但是很走运啊！把这个也用在料理里吧！
+78,？？？,ブルルル……,呼噜噜噜……
+79,ルリア/露莉亚,え？　ビィさん何か言いましたか？,欸？碧你说了什么吗？
+80,ビィ/碧,いや？<br>姬塔何か言ったか？,没有啊？姬塔有说什么吗？
+81,,<span class='scene-font-katari'>姬塔が首を横に振るのと</span><br><span class='scene-font-katari'>同時に、姬塔達の足元が</span><br><span class='scene-font-katari'>大きく揺れ出した。</span>,<span class='scene-font-katari'>姬塔摇摇头，就在这时，几人的脚下开始剧烈的晃动起来。</span>
+82,ルリア/露莉亚,きゃあっ！？<br>地面が盛り上がって──,呀啊！？地面升起来了——
+85,イノシシ,<span class='scene-font-4'>ブルルルルルゥ！！！</span>,<span class='scene-font-4'>呼噜噜噜噜！！！</span>
+86,ビィ/碧,うわっ！　何だぁ！？<br>地面かと思ったらデッケェ<br>イノシシじゃねぇか！,呜哇！啥啊！？还以为是地面，结果这不是头大野猪吗！
+87,ルリア/露莉亚,あっ！　見てください、姬塔！<br>イノシシさんから、<br>ウットリュフが生えてます！,啊！姬塔快看！野猪背上长着松茸！
+88,ビィ/碧,この山の主か！？<br>あいつからウットリュフの胞子が<br>ここいらに撒かれてんだな！,这座山的主人吗！？就是那家伙把松茸的孢子撒到这里来了吧！
+89,イノシシ,<span class='scene-font-4'>ブヒィィィィン！！</span>,<span class='scene-font-4'>噗咻——！！</span>
+90,ビィ/碧,って、やべぇ！<br>ここは応戦するしかねぇ！<br>構えろ、姬塔！,这，不妙啊！这里只能应战了，姬塔快拔剑啊！
+info,,,scene_evt170531_cp2_q1_s20
+译者,,,

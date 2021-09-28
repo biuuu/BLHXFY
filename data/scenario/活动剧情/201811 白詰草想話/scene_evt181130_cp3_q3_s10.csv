@@ -1,0 +1,30 @@
+﻿id,name,text,trans
+0-chapter_name,,第3話 想ひ随に 狂ふ踊沓,第3话 纵狂舞刀
+0-synopsis,,姬塔達はグランサイファーに乗り込みコルウェルの小型艇を追う。差はぐんぐんと縮まり、コルウェルの騎空艇は煙を吹き始めたが、それに構わずコルウェルの艇はどんどん高度を上げていく。サビルバラが、コルウェルがグランサイファーに小型艇を墜とすつもりであることに気が付き、一行はすんでのところで墜落してくる小型艇を回避したのだった。,姬塔等人乘上格兰赛法追逐小型艇。距离渐渐缩短，克洛威尔的骑空艇开始冒烟，但依旧不断提升高度。萨比尔巴拉察觉到克洛威尔企图让小型艇击坠格兰赛法。多亏他的警告，众人得以在关键时刻让格兰赛法避开坠落的小型艇。
+1,,<span class='scene-font-katari'>姬塔達が</span><br><span class='scene-font-katari'>乗り込んだ騎空艇は、</span><br><span class='scene-font-katari'>夜の空へと駆け上がる。</span>,<span class='scene-font-katari'>姬塔一行乘着骑空艇飞上夜空。</span>
+2,ルリア/露莉亚,追いつけるでしょうか……！？,不知道能不能追上他……！？
+3,サビルバラ/萨比尔巴拉,……奴の艇はオンボロぜよ。<br>型が古いだけじゃあなく、<br>手入れも不十分なようだ。,……他的骑空艇破的要命。<br>不仅是型号旧，维护也没有在做。
+4,ビィ/碧,だったら、オイラ達の<br>グランサイファーなら<br>絶対追いつけるはずだぜ！,那咱们的格兰赛法肯定能追上的！
+5,,<span class='scene-font-katari'>ビィの言葉通り、</span><br><span class='scene-font-katari'>姬塔達の騎空艇は</span><br><span class='scene-font-katari'>驚くべき速度で距離を縮めていく。</span>,<span class='scene-font-katari'>正如碧所说，姬塔一行以惊人的速度与克洛威尔缩短了距离。</span>
+10,ルリア/露莉亚,もうちょっと……もうちょっとです！,还差一点……还差一点！
+11,ビィ/碧,……追いついたら、<br>どうすりゃいいんだ？<br>あっちの甲板に飛び移るしかねぇかな。,……追上他之后怎么办？<br>只能跑到对面的船上去了吧。
+12,サビルバラ/萨比尔巴拉,……わしが行ってくるきに。<br>姬塔達は<br>騎空艇の操縦を……,……我去吧。<br>姬塔你们负责开骑空艇……
+21,ルリア/露莉亚,わわっ！？<br>た、大変ですっ！,哇！？<br>不、不好了！
+22,ルリア/露莉亚,あの騎空艇、煙を吹いてますーっ！！,那艘骑空艇冒烟了！！
+23,サビルバラ/萨比尔巴拉,この艇から逃げるために、<br>機関に負担を掛け過ぎちょるんだ！,他为了甩掉我们，开到最大功率超过了骑空艇的负荷！
+24,ビィ/碧,ってことは……このままじゃ、<br>負担がかかり過ぎて機関がダメになって<br>……空の底に落ちちまうんじゃ……,那也就是说……这样下去船会抛锚……<br>然后掉下去吗……
+25,,<span class='scene-font-katari'>予想に顔を見合わせる</span><br><span class='scene-font-katari'>ビィと姬塔。</span>,<span class='scene-font-katari'>碧说着道，和姬塔面面相觑。</span>
+26,,<span class='scene-font-katari'>だが、ふたりの予想を裏切って</span><br><span class='scene-font-katari'>旧式の艇は突然ぐんぐんと</span><br><span class='scene-font-katari'>高度を上げ始めた。</span>,<span class='scene-font-katari'>然而事实并非他们料想的那样。旧式骑空艇突然开始提升高度。</span>
+27,ルリア/露莉亚,何をするつもりなんでしょう……！？,他打算做什么……！？
+28,ビィ/碧,わからねぇけど、あの艇にいる<br>コルウェルってのを捕まえるなら<br>オイラ達も高度を上げねぇと！,不知道。但是咱们要抓住他的话，也得跟上去才行！
+29,,<span class='scene-font-katari'>急ぎこちらも高度を稼ぐべく</span><br><span class='scene-font-katari'>操舵室に出す姬塔の声を</span><br><span class='scene-font-katari'>サビルバラの叫びがかき消す。</span>,<span class='scene-font-katari'>这时，萨比尔巴拉突然叫住跑去操舵室准备上升的姬塔。</span>
+30,サビルバラ/萨比尔巴拉,<span class='scene-font-4'>いかん！</span><br>姬塔、舵を切るぜよ！,<span class='scene-font-4'>不行！</span><br>姬塔，快调转方向！
+31,サビルバラ/萨比尔巴拉,奴は……この騎空艇に、<br>あの小型艇を墜とすつもりだ！！,那家伙……打算用他的小型艇把我们也一起击坠！！
+32,ビィ/碧,んなっ……！<br>そんなのお互い無事じゃ……,什么……！<br>可是那样的话，他自己也……
+33,サビルバラ/萨比尔巴拉,議論は後ぜよ！！　早く！！,先别废话了！！快点！
+34,,<span class='scene-font-katari'>乗員の安全を半ば無視して、</span><br><span class='scene-font-katari'>姬塔達の騎空艇は</span><br><span class='scene-font-katari'>機首を翻す。</span>,<span class='scene-font-katari'>来不及考虑船上成员的安全，骑空艇猛地调转方向。</span>
+35,,<span class='scene-font-katari'>その直後、サビルバラの言葉通り</span><br><span class='scene-font-katari'>機関から煙と炎を吹く小型艇が</span><br><span class='scene-font-katari'>こちらに向かって墜落してきた。</span>,<span class='scene-font-katari'>下一秒，正如萨比尔巴拉所料，小型艇在火焰与黑烟中向格兰赛法砸来。</span>
+36,ルリア/露莉亚,<span class='scene-font-4'>きゃぁああああああっ！！</span>,<span class='scene-font-4'>啊啊啊啊啊啊啊啊！！</span>
+37,,<span class='scene-font-katari'>グランサイファーの外装を掠め、</span><br><span class='scene-font-katari'>小型艇は空の底へと落ちていく。</span>,<span class='scene-font-katari'>小型艇擦过格兰赛法，坠向天底。</span>
+38,,<span class='scene-font-katari'>ルリアが甲板から転げ落ちないよう</span><br><span class='scene-font-katari'>強く腕を回した姬塔は、</span><br><span class='scene-font-katari'>半ば呆然とそれを見送った。</span>,<span class='scene-font-katari'>姬塔拉住了差点摔倒的露莉亚，呆呆地看着小型艇远去。</span>
+info,,,scene_evt181130_cp3_q3_s10

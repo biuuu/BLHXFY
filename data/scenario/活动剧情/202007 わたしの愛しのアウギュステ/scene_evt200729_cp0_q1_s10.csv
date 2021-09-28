@@ -1,0 +1,36 @@
+id,name,text,trans
+0-synopsis,,ファータ・グランデ空域の辺境にある島に住む少女メグは、慌てて出港間近の定期船に駆け込んだ。艇の行き先は<span class='scene-font-place'>アウギュステ</span>。他の島にはない「海」を持つ列島として知られている。メグは幼い頃からそこでバカンスを過ごすことを夢見ていた。故郷のカフェで働きながらこつこつと旅費を貯めたメグは、ついにこの日、憧れの地へ向かうのだった。,住在法塔·格兰德空域边境小岛的少女梅格，慌张地跑向快要出航的定期船。船的目的地是<span class='scene-font-place'>奥古斯提</span>。因为拥有别的岛屿所没有的「海」而闻名四方。梅格从小时候起就梦想在那里度假。她在故乡的咖啡厅打工攒钱，终于在这一天出发去往憧憬的目的地。
+1,,<span class='scene-font-katari'>ファータ・グランデ空域の辺境にある</span><br><span class='scene-font-katari'>なんの変哲もない小さな島の港に</span><br><span class='scene-font-katari'>１隻の定期船が泊まっていた。</span>,<span class='scene-font-katari'>在法塔·格兰德空域边境，</span><br><span class='scene-font-katari'>一个平凡无奇的小岛上停着一艘定期船。</span>
+2,,<span class='scene-font-katari'>定期船は乗客や船員の大半を乗せ終え、</span><br><span class='scene-font-katari'>間もなく島を発つ様子を見せている。</span>,<span class='scene-font-katari'>大部分乘客和船员已经乘上了定期船，</span><br><span class='scene-font-katari'>看起来马上就要发船了。</span
+3,,<span class='scene-font-katari'>そこへ軽快な足音を鳴らして</span><br><span class='scene-font-katari'>街から駆けてくる小さな人影があった。</span>,<span class='scene-font-katari'>这时候轻快的脚步声传来，</span><br><span class='scene-font-katari'>有一个小小的身影从街上跑来。</span>
+5,メグ/梅格,<span class='scene-font-4'>いっけな～い！</span><br><span class='scene-font-4'>遅刻遅刻～！</span>,<span class='scene-font-4'>不～好！</span><br><span class='scene-font-4'>要迟到了～！</span>
+6,メグ/梅格,<span class='scene-font-4'>そこの艇、ちょっと待って～！</span><br><span class='scene-font-4'>乗りま～す！</span>,<span class='scene-font-4'>那里的船，等一下～！</span><br><span class='scene-font-4'>我要上船～！</span>
+7,,<span class='scene-font-katari'>通りを走る少女は</span><br><span class='scene-font-katari'>港に見える艇に向かって</span><br><span class='scene-font-katari'>大きく手を振る。</span>,<span class='scene-font-katari'>少女在街上跑着，</span><br><span class='scene-font-katari'>朝港口里的船用力挥手。</span>
+12,メグ/梅格,<span class='scene-font-gray'>わたし、メグ！</span><br><span class='scene-font-gray'>この平凡な島で生まれ育った、</span><br><span class='scene-font-gray'>どこにでもいるフツーの女の子！</span>,<span class='scene-font-gray'>我是梅格！</span><br><span class='scene-font-gray'>是在这个平凡的岛上出生长大，</span><br><span class='scene-font-gray'>随处可见的普通女生！</span>
+13,メグ/梅格,<span class='scene-font-gray'>だけど今日はちょっぴり特別なの☆</span><br><span class='scene-font-gray'>なんたって……</span>,<span class='scene-font-gray'>但是今天的我稍微有点特别☆</span><br><span class='scene-font-gray'>毕竟……</span>
+14,,<span class='scene-font-katari'>メグは係員にチケットを見せ、</span><br><span class='scene-font-katari'>急いで定期船に乗り込んだ。</span>,<span class='scene-font-katari'>梅格给检票员看了票后，</span><br><span class='scene-font-katari'>急急忙忙跑上了定期船。</span>
+19,メグ/梅格,<span class='scene-font-gray'>これから憧れの</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-gray'>に行くんだもん♪</span>,<span class='scene-font-gray'>现在我就要去一直憧憬着的</span><span class='scene-font-place'>奥古斯提</span><span class='scene-font-gray'>了♪</span>
+24,,<span class='scene-font-katari'>定期船が向かう</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>は</span><br><span class='scene-font-katari'>他の島にはない「海」を持つ列島として</span><br><span class='scene-font-katari'>その名を広く知らしめている。</span>,<span class='scene-font-katari'>定期船要前往的</span><span class='scene-font-place'>奥古斯提</span><span class='scene-font-katari'>列岛</span><br><span class='scene-font-katari'>因为拥有别的岛所没有的「海」而闻名遐迩。</span>
+25,メグ/梅格,<span class='scene-font-gray'>でも</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-gray'>は</span><br><span class='scene-font-gray'>それだけじゃないんだから！</span><br><span class='scene-font-gray'>とっても有名なリゾート地なの！</span>,<span class='scene-font-gray'>但是</span><span class='scene-font-place'>奥古斯提</span><span class='scene-font-gray'>还不仅如此！</span><br><span class='scene-font-gray'>还是非常有名的度假胜地！</span>
+30,メグ/梅格,<span class='scene-font-gray'>旅費を貯めるため地元のカフェで</span><br><span class='scene-font-gray'>これまでせっせと働いてきたけど、</span><br><span class='scene-font-gray'>その努力がついに報われるんだ♪</span>,<span class='scene-font-gray'>为了攒旅费我一直在家乡咖啡店努力打工，</span><br><span class='scene-font-gray'>现在这个努力终于有所回报了♪</span>
+35,船員,お嬢さん、おひとりですか？<br>さっきはすごい勢いで<br>駆け込んできたけども。,小姐，你是一个人吗？<br>刚才非常猛地冲了进来啊。
+36,メグ/梅格,あ、ごめんなさい。<br>昨日はちょっと興奮しちゃって<br>明け方まで眠れなくって……えへへ……,啊，对不起。<br>昨天稍微有点兴奋，<br>到天亮都没睡着……诶嘿嘿……
+37,船員,ははーん……<br>初めての<span class='scene-font-place'>アウギュステ</span>だね？,哈哈……，<br>你是第一次去<span class='scene-font-place'>奥古斯提</span>吧？
+38,メグ/梅格,あ、はいっ！,啊，是的！
+39,メグ/梅格,<span class='scene-font-place'>アウギュステ</span><span class='scene-font-gray'>で過ごす素敵なバカンスは</span><br><span class='scene-font-gray'>女の子なら誰でも夢見ることだよね♪</span>,<span class='scene-font-gray'>女孩子的话都会梦想，</span><br><span class='scene-font-gray'>在</span><span class='scene-font-place'>奥古斯提</span><span class='scene-font-gray'>度过一个美好假期♪</span>
+40,メグ/梅格,<span class='scene-font-gray'>だって友達はみんな行きたがってるし、</span><br><span class='scene-font-gray'>まぁわたしはこれから行くわけだけど☆</span>,<span class='scene-font-gray'>因为我的朋友们也都很想去，</span><br><span class='scene-font-gray'>不过我现在正要去就是了☆</span>
+41,メグ/梅格,えへへ、友達にナイショで来たんです。<br>休み明けに行ってきたって言って<br>びっくりさせちゃおっかなって……,诶嘿嘿，我是瞒着朋友们来的。<br>等放假结束了和她们说自己去过<br>然后吓她们一跳……
+42,船員,おやおや……そいつは楽しみだ。,哦哟哦哟……那可真是让人期待啊。
+43,,<span class='scene-font-katari'>自分を羨む友達の顔を想像すると</span><br><span class='scene-font-katari'>メグは早くも優越感を覚え、</span><br><span class='scene-font-katari'>沸き上がる笑みを隠しきれない。</span>,<span class='scene-font-katari'>想象着朋友们羡慕着自己的表情，</span><br><span class='scene-font-katari'>梅格早早就有了优越感，</span><br><span class='scene-font-katari'>脸上的笑容藏都藏不住。</span>
+49,,<span class='scene-font-katari'>もはや素敵なバカンスは</span><br><span class='scene-font-katari'>約束されたようなものだと確信し、</span><br><span class='scene-font-katari'>夢見心地で２日半ほどを過ごした頃……</span>,<span class='scene-font-katari'>就在梅格确信度假会非常美妙，</span><br><span class='scene-font-katari'>想着度过迷人心醉的2日半的时候……</span>
+50,船員,お嬢さん、見えてきたよ。<br>ごらん？<br>あの島だ。,小姐，已经快到了哦。<br>看吧~<br>就是那座岛。
+51,メグ/梅格,わぁ……！<br>あれが<span class='scene-font-place'>アウギュステ</span>？,呜啊……！<br>那就是<span class='scene-font-place'>奥古斯提</span>？
+55,メグ/梅格,あの青いのが全部……水！？,那蓝蓝的都是……水！？
+56,船員,そうさ。<br>あれが海だ。,是啊。<br>那就是海。
+57,メグ/梅格,あれが……海……,那就是……海……
+62,メグ/梅格,<span class='scene-font-4'>すごい……すごいすごいっ！</span>,<span class='scene-font-4'>好厉害……真的好厉害！</span>
+63,メグ/梅格,<span class='scene-font-kokoro'>（行ったことある人のお話や</span><br><span class='scene-font-kokoro'>絵画でしか見たことなかった海を</span><br><span class='scene-font-kokoro'>わたし、この目で見てるんだ……！）</span>,<span class='scene-font-kokoro'>（我终于亲自看到了，</span><br><span class='scene-font-kokoro'>之前只是听去过的人说起</span><br><span class='scene-font-kokoro'>或是在画里出现的海……！）</span>
+64,,<span class='scene-font-katari'>青くきらめく海を遠くから眺め、</span><br><span class='scene-font-katari'>すでにメグの胸は高鳴っていた。</span>,<span class='scene-font-katari'>眺望着这折射着蓝色光芒的大海，</span><br><span class='scene-font-katari'>梅格感到非常兴奋。</span>
+65,,<span class='scene-font-katari'>ドキドキわくわくのバカンスが、</span><br><span class='scene-font-katari'>いまここに幕を開ける。</span>,<span class='scene-font-katari'>心跳不已期待已久的度假，</span><br><span class='scene-font-katari'>就此拉开帷幕。</span>
+info,,,scene_evt200729_cp0_q1_s10
+译者,,,卜葛

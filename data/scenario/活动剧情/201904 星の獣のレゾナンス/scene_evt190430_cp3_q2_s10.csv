@@ -1,0 +1,53 @@
+id,name,text,trans
+0-chapter_name,,第3話 いつもの口喧嘩,第3话 一如既往的争吵
+0-synopsis,,先ほど感じた不審な気配を追ったバアルは、待ち受けていたジオと相対する。バアルは自らとジオの精神を共鳴させジオの企みを暴こうとするが、ジオの中にある無数の自我にたじろぐ。さらにジオはバアルの内面を読み取りはじめ、バアルにも探し物があることを暴くと「君達皆、俺が救ってあげる。それが使命なんだから」と告げるのだった。,巴尔追踪着可疑气息来到某处，在那里见到了等候已久的吉欧。巴尔试图使自己和吉欧的精神发生共鸣以此获知吉欧的企图，但被吉欧体内无数的自我镇住。而吉欧反而读取了巴尔的内心，说出巴尔想找的东西，并告诉巴尔「我会拯救你们，因为那是我的使命」。
+2,バアル/巴尔,さっきの気配は……<br>確かこの辺りだったか。,刚才的气息……<br>应该是这边。
+3,,<span class='scene-font-katari'>一行から離れたバアルは</span><br><span class='scene-font-katari'>ひとり、島のとある場所まで</span><br><span class='scene-font-katari'>やって来ていた。</span>,<span class='scene-font-katari'>巴尔独自来到岛屿的某处。</span>
+4,バアル/巴尔,<span class='scene-font-kokoro'>（一瞬だけ、あいつの姉の気配らしき</span><br><span class='scene-font-kokoro'>共鳴が急激に大きくなり、</span><br><span class='scene-font-kokoro'>すぐに消えた……）</span>,<span class='scene-font-kokoro'>（有那么一瞬间，类似她姐姐的气息传来的共鸣急剧增强，但很快消失了……）</span>
+5,バアル/巴尔,あの変拍子はいったい……,那个节拍变化到底是……
+6,バアル/巴尔,っ……！,……！
+7,,<span class='scene-font-katari'>何者かの気配を察知したバアルが</span><br><span class='scene-font-katari'>険しい表情で振り返る。</span>,<span class='scene-font-katari'>巴尔察觉到其他人的气息，警觉地回头。</span>
+8,バアル/巴尔,……やはりお前か。,……果然是你么。
+10,ジオ/吉欧,あれれ？<br>君が来るっていうのは<br>予想外だったな。,咦？<br>我倒没想到你会来呢。
+11,ジオ/吉欧,「やはり」ってことは<br>君の方はわかってたってこと？<br>で、ひとりで来たの？,既然你说”果然“，也就是说你发现了？<br>所以才一个人来的？
+12,バアル/巴尔,ひとりで来て正解だった。<br>予想通り、罠だったようだからな。,还好我一个人来了。<br>看来和我想的一样，这是个陷阱。
+13,ジオ/吉欧,罠とは人聞きが悪いなぁ……,陷阱，说得这么难听……
+14,ジオ/吉欧,でも、そう思いながら<br>ひとりで来たっていうのは、<br>星トモのためって感じかな？,不过，明知是陷阱还一个人过来，是为了你的星友吗？
+15,バアル/巴尔,御託はいい。<br>お前が何者かは知らないが、<br>企みは暴かせてもらうぞ。,别废话了。<br>我不知道你是谁，但我会揭露你的阴谋。
+17,バアル/巴尔,<span class='scene-font-kokoro'>（その中身、見せてもらう……！）</span>,<span class='scene-font-kokoro'>（让我看看的你的内心……！）</span>
+21,,<span class='scene-font-katari'>ギターをかき鳴らしたバアルは</span><br><span class='scene-font-katari'>自らとジオの精神を共鳴させ、</span><br><span class='scene-font-katari'>その奥底へと潜っていく。</span>,<span class='scene-font-katari'>巴尔奏响吉他，让自己和吉欧的精神共鸣，潜入吉欧的意识深处。</span>
+26,バアル/巴尔,…………,
+27,バアル/巴尔,<span class='scene-font-kokoro'>（深い……</span><br><span class='scene-font-kokoro'>いや、広い……？）</span>,<span class='scene-font-kokoro'>（很深……不对，很广阔……？）</span>
+28,バアル/巴尔,どこかに核が……,核心应该在某个地方……
+31,バアル/巴尔,意識……自我……<br>だが、これは……,意识……自我……<br>但、这是……
+38,バアル/巴尔,っ……！,唔……！
+39,,<span class='scene-font-katari'>深く潜ったその先、</span><br><span class='scene-font-katari'>そこに広がる混沌に、</span><br><span class='scene-font-katari'>バアルはたじろいだ。</span>,<span class='scene-font-katari'>继续下潜的巴尔因出现在眼前的混沌而退缩。</span>
+40,バアル/巴尔,こんなものが、<br>存在するはずが……！,为什么会有这种东西存在……！
+46,バアル/巴尔,なん、だ……！？,怎么、回事……！
+48,バアル/巴尔,ぐ、耳が……くそっ！,呜、耳朵……该死！
+54,バアル/巴尔,っ、はぁ、はぁ……,哈、哈……
+55,バアル/巴尔,<span class='scene-font-kokoro'>（信じられない……</span><br><span class='scene-font-kokoro'>なんなんだコイツは……！？）</span>,<span class='scene-font-kokoro'>（难以置信……这家伙到底怎么回事……！？）</span>
+56,バアル/巴尔,<span class='scene-font-kokoro'>（無数の自我と意識が反響して……</span><br><span class='scene-font-kokoro'>耳が痛いくらいだった）</span>,<span class='scene-font-kokoro'>（无数个自我和意识在回响……震得我耳朵疼）</span>
+57,バアル/巴尔,<span class='scene-font-kokoro'>（あんな……まともな精神を</span><br><span class='scene-font-kokoro'>たもっていられるはずが……）</span>,<span class='scene-font-kokoro'>（那个样子……不可能维持精神正常的……）</span>
+58,バアル/巴尔,お前は、いったい何者だ！？,你到底是谁！？
+59,ジオ/吉欧,……へぇ？<br>お前、なかなか面白い力を<br>持っていやがるなぁ？,……嗯？<br>你的力量还挺有趣的嘛。
+60,バアル/巴尔,っ！？,！？
+61,ジオ/吉欧,そちらが一方的に<br>こちらを覗くのでは、<br>フェアじゃありませんね。,只有你单方面窥探我的内心，有点不公平吧。
+62,ジオ/吉欧,うんうん。<br>俺にも教えてよ、君のこと。,嗯嗯。<br>也让我了解了解你啊。
+63,,<span class='scene-font-katari'>一歩前に出たジオに</span><br><span class='scene-font-katari'>気圧されるように、</span><br><span class='scene-font-katari'>バアルは思わず後ずさる。</span>,<span class='scene-font-katari'>忌惮着上前一步的吉欧，巴尔不由得往后退。</span>
+64,バアル/巴尔,な、にを……,你想、怎样……
+65,ジオ/吉欧,大丈夫だって。<br>怖がらなくてもいいよ。,没事啦。<br>又不用害怕。
+66,,<span class='scene-font-katari'>ジオはにっこりと笑って</span><br><span class='scene-font-katari'>バアルに向かって手を掲げた。</span>,<span class='scene-font-katari'>吉欧笑着举起手伸向巴尔。</span>
+69,バアル/巴尔,くっ……,唔……
+70,ジオ/吉欧,ふむふむ……<br>へぇ、君にも<br>探し物があるってわけかぁ。,嗯嗯……<br>原来你也在找东西啊。
+71,ジオ/吉欧,それでそれで……？,然后呢然后呢……？
+72,ジオ/吉欧,……あ、これが<br>大切なものだね。<br>君の……,……啊，这就是你最重要的……你的……
+73,バアル/巴尔,<span class='scene-font-4'>やめろ！！</span>,<span class='scene-font-4'>住手！！</span>
+76,バアル/巴尔,はっ……はぁ、はぁ……<br>……やめろ！,哈、……哈、哈……<br>……给我停下！
+77,ジオ/吉欧,あれれ？<br>どうして怒るんだい？,咦？<br>为什么要生气啊？
+78,バアル/巴尔,テメェ……<br>何のつもりだ？,你这家伙……<br>到底想干什么？
+79,ジオ/吉欧,そんなに警戒しないでよ。<br>俺は君の……<br>君達の味方なんだから。,不要这么戒备啊。<br>我是你的……我是你的同伴啊。
+80,ジオ/吉欧,俺はね、君の悩みなんて<br>簡単に解決できるんだよ？<br>探し物もすぐに見つけてあげる。,我呢，可以很容易地解决你的烦恼哦？<br>很快就能找到你想找的东西了。
+81,ジオ/吉欧,君だけじゃない。<br>君の友達だって皆、<br>俺が救ってあげる。,不只是你。<br>你的朋友，还有大家，都由我来拯救。
+82,ジオ/吉欧,だって、それが俺の使命なんだから。,因为，那是我的使命啊。
+info,,,scene_evt190430_cp3_q2_s10

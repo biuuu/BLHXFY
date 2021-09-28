@@ -1,0 +1,48 @@
+id,name,text,trans
+0-chapter_name,,第2話 贄,第2话 牺牲品
+0-synopsis,,堕天使達の実験場跡地の執務室で記録を読み解いていたカリオストロは、ルシファーが神に反抗するため、赤き地平に在る混沌を用いて世界を無に帰そうとしていたこと、そのためにパンデモニウムを用いて次元と次元の垣根である境界を崩壊させようとしていたことを知る。この“終末”の計画を知らせるため、カリオストロとガブリエルはパンデモニウムへ急ぐのだった。,卡莉奥斯特萝解读了堕天司实验场遗址中的办公室记录，发现路西法为了反抗神，打算利用赤色地平的混沌让世界回归虚无，为此准备用伏魔殿让作为次元间墙壁的境界崩坏。为了把这个“终末”计划告知其他人，卡莉奥斯特萝和加百列急忙赶往伏魔殿。
+1,,<span class='scene-font-katari'>実験場跡地を探索する、</span><br><span class='scene-font-katari'>ガブリエルとカリオストロ。</span>,<span class='scene-font-katari'>探索实验场遗址的加百列和</span><br><span class='scene-font-katari'>卡莉奥斯特萝。</span>
+2,,<span class='scene-font-katari'>その奥にある執務室に辿り着き、</span><br><span class='scene-font-katari'>大量にある記録を読み解いていると……</span>,<span class='scene-font-katari'>到达遗址深处的办公室，</span><br><span class='scene-font-katari'>解读了大量的记录后……</span>
+5,ガブリエル/加百列,この調査報告書は……！,这个调查报告书是……！
+6,カリオストロ/卡莉奥斯特萝,あぁ。<br>ここの連中がまとめたもんだろう。,对，应该是这里的人整理的。
+7,カリオストロ/卡莉奥斯特萝,要は赤き地平の所見だが……<br>問題なのは実験云々よりも、<br>ルシファーの発言を集めた箇所だ。,主要是赤色地平的所见……<br>但比起各种实验问题主要集中<br>在路西法言论的部分。
+8,カリオストロ/卡莉奥斯特萝,正直に言って驚いたぜ。<br>不特定要素の仮定が全て正解だった。<br>オレ様の他に本物の天才がいたとは。,说实话我很吃惊，<br>不特定要素的假设全部是正确的。<br>没想到除我以外还有真正的天才。
+9,ガブリエル/加百列,…………,…………
+10,カリオストロ/卡莉奥斯特萝,どうした？<br>なんか気になる事でもあるのか？,怎么了？<br>有什么在意的吗？
+11,ガブリエル/加百列,あ、うぅん。<br>でも本当にすごいものを見つけたわね。,啊，没事。<br>但真的找到了很了不得的东西。
+12,カリオストロ/卡莉奥斯特萝,記録装置の整理に法則性があった。<br>他にも色々と面白ぇ情報も見つけたぜ。<br>原初の星晶獣を封印する方法とかなァ。,记录装置的整理是有法则性的，<br>我还找到了其他各种有趣的资料，<br>比如封印原初星晶兽方法之类的。
+13,ガブリエル/加百列,ウフフ、興味津々ね。<br>とりあえず私にも読ませて貰える？,呵，你很有兴致啊。<br>能不能给我也看看？
+14,ガブリエル/加百列,えっと──,我看看——
+18,調査報告書,<span class='scene-font-katari'>赤き地平とは何か？</span><br><span class='scene-font-katari'>神が世界を創造するより以前に、</span><br><span class='scene-font-katari'>其処に広がっていた次元である。</span>,<span class='scene-font-katari'>赤色地平是什么？</span><br><span class='scene-font-katari'>是神在创造世界之前，</span><br><span class='scene-font-katari'>就存在于此的次元。</span>
+19,調査報告書,<span class='scene-font-katari'>いわば絵画におけるカンヴァスであり、</span><br><span class='scene-font-katari'>世界は白地に絵具を乗せたようなもの。</span>,<span class='scene-font-katari'>可以说是绘画中的画布，</span><br><span class='scene-font-katari'>世界就是在白布上用颜料绘出的画。</span>
+20,調査報告書,<span class='scene-font-katari'>赤き地平の性質は完全なる混沌……</span><br><span class='scene-font-katari'>様々な次元の思念・概念・時間軸が、</span><br><span class='scene-font-katari'>無秩序に混在している状態と言える。</span>,<span class='scene-font-katari'>赤色地平的性质完全的混沌……</span><br><span class='scene-font-katari'>可以说是各种次元的思念、概念、时间轴</span><br><span class='scene-font-katari'>无秩序混合在一起的状态。</span>
+21,調査報告書,<span class='scene-font-katari'>一方で世界の性質は摂理である。</span><br><span class='scene-font-katari'>神の作為たる理・因果・物理法則は、</span><br><span class='scene-font-katari'>あらゆる事象に規則性を与えている。</span>,<span class='scene-font-katari'>另一方面，世界的性质是天理。</span><br><span class='scene-font-katari'>神所创造的真理、因果、物理法则，</span><br><span class='scene-font-katari'>赋予各种事物规则性。</span>
+22,調査報告書,<span class='scene-font-katari'>両者は相反する性質であり、</span><br><span class='scene-font-katari'>より深層にある混沌は摂理を侵蝕する。</span>,<span class='scene-font-katari'>两者有着相反的性质，</span><br><span class='scene-font-katari'>处于更深层的混沌可以侵蚀天理。</span>
+23,ガブリエル/加百列,混沌、摂理、侵蝕……？,混沌，天理，侵蚀……？
+24,ガブリエル/加百列,この研究は真実なの？<br>ルシファーは何をどこまで知って……,这个研究是真的吗？<br>路西法到底知道些什么，<br>知道了多少……
+25,カリオストロ/卡莉奥斯特萝,真実かどうか確かめる術はねぇさ。<br>だがその理屈で説明できる現象は多い。,虽然没法验证这个的真假，<br>但很多现象都可以用这个理论解释。
+26,カリオストロ/卡莉奥斯特萝,まぁそこまではただの粗い論考だ。<br>オレ様達に関わるのは次の項目だぜ──,算了，反正到这里只是粗略的概论。<br>和我们有关的是下一个项目——
+30,調査報告書,<span class='scene-font-katari'>神に否定の意思を示す方法は、</span><br><span class='scene-font-katari'>カンヴァスに描いた絵の抹消……</span><br><span class='scene-font-katari'>被造物たる世界を無に帰すこと。</span>,<span class='scene-font-katari'>展示拒绝神明意志的方法，</span><br><span class='scene-font-katari'>就是消除画在画布上的画……</span><br><span class='scene-font-katari'>将被创造的世界回归虚无。</span>
+31,調査報告書,<span class='scene-font-katari'>そのためには赤き地平に在る、</span><br><span class='scene-font-katari'>混沌を用いる事が適切である。</span>,<span class='scene-font-katari'>因此适当的方法是利用存在于</span><br><span class='scene-font-katari'>赤色地平的混沌。</span>
+32,調査報告書,<span class='scene-font-katari'>現世と幽世の次元を隔てる</span><span class='scene-font-spword'>『境界』</span><span class='scene-font-katari'>……</span><br><span class='scene-font-katari'>この力場を崩壊させる事で混沌が噴出、</span><br><span class='scene-font-katari'>摂理を侵蝕する結果になると推測する。</span>,<span class='scene-font-katari'>隔离了现世和幽世次元的</span><span class='scene-font-spword'>『境界』</span><span class='scene-font-katari'>……</span><br><span class='scene-font-katari'>推测出只要破坏这个力场，</span><br><span class='scene-font-katari'>混沌就会喷涌而出从而侵蚀天理。</span>
+33,調査報告書,<span class='scene-font-katari'>境界の崩壊に必要であろう質量は、</span><br><span class='scene-font-katari'>既にパンデモニウムに組み込んだ。</span><br><span class='scene-font-katari'>“終末”の計画の骨子は揃いつつある。</span>,<span class='scene-font-katari'>境界崩坏所需要的质量，</span><br><span class='scene-font-katari'>已经放进伏魔殿里了。</span><br><span class='scene-font-katari'>“终末”计划的要点正在逐步收集。</span>
+34,調査報告書,<span class='scene-font-katari'>残る問題点は</span><span class='scene-font-spword'>『神の塔』</span><span class='scene-font-katari'>だが、</span><br><span class='scene-font-katari'>この対応には検討を重ねる必要がある。</span>,<span class='scene-font-katari'>剩下的问题是</span><span class='scene-font-spword'>『神之塔』</span><span class='scene-font-katari'>，</span><br><span class='scene-font-katari'>但关于这个需要更慎重的讨论。</span>
+37,ガブリエル/加百列,…………,…………
+38,カリオストロ/卡莉奥斯特萝,そこまで読めばＯＫだ。<br>要旨のみ留めた内輪の議事録だが……<br>まぁ言いたい事は至ってシンプルさ。,读到这里就OK了。<br>虽然是只保留了要点的内部议事录……<br>但想说的话已经很明显。
+39,カリオストロ/卡莉奥斯特萝,要は神に中指を突き立てるために、<br>被造物たる世界をブッ潰す計画だ。,这是为了向神明竖中指，<br>准备把作为被造物的世界毁掉的计划。
+40,カリオストロ/卡莉奥斯特萝,その方法はパンデモニウムを使い、<br>次元と次元の垣根である境界を崩壊……,方法就是使用伏魔殿，<br>把次元与次元间墙壁的境界破坏掉。
+41,カリオストロ/卡莉奥斯特萝,赤き地平の混沌ってヤバイもんを、<br>空の世界に撒き散らすつもりなんだよ。,将赤色地平名为混沌的麻烦物质<br>散播到空之世界来。
+42,ガブリエル/加百列,そうなるわね……<br>ありがとう、お陰で落ち着いてきたわ。,是这样啊……<br>谢谢，托你的福我冷静下来了。
+43,ガブリエル/加百列,ルシファーの目的は“終末”……<br>その計画に沿って堕天司は動いたのね。,路西法的目的是“终末”……<br>堕天司们是以这个计划在行动吧。
+44,カリオストロ/卡莉奥斯特萝,軌道修正は多々あったんだろうけどな。<br>そもそも発案者のルシファーが不在だ。,应该很多地方有修正吧，<br>毕竟计划的立案人路西法已经不在了。
+45,ガブリエル/加百列,今日まで時間が掛かったものね。<br>最後の神の塔というのはわかる？,到现在为止已经用了不少时间，<br>最后那个神之塔你知道吗？
+46,カリオストロ/卡莉奥斯特萝,まだなんとも。<br>そこはあまりに曖昧すぎてな……,还不知道。<br>这一点实在太暧昧了……
+48,カリオストロ/卡莉奥斯特萝,まぁ収穫はあった。<br>他の天司達の情報と統合するためにも、<br>オレ様達もパンデモニウムに急ごうぜ。,总之收获不小。<br>我们也赶紧前往伏魔殿和<br>其他天司互通情报吧。
+49,ガブリエル/加百列,わかったわ、今度は飛ばすわよ。<br>うっかり私の腕を離さないようにね？,明白了，这次要迅速，<br>可别不小心放开我的手腕啊。
+50,カリオストロ/卡莉奥斯特萝,あ～……<br>なんか他に移動方法はないのかよ？<br>まるで足場のない空中ブランコだぜ。,啊~……<br>难道就没有别的移动方式了吗？<br>简直像是没有落脚点的空中秋千。
+51,ガブリエル/加百列,ウフフ、あるけどヒミツ♪<br>貴方の怖がる姿がかわいいもの。,呵呵，虽然有但不告诉你♪<br>你害怕的样子真是可爱。
+52,カリオストロ/卡莉奥斯特萝,いい性格してやがる……,你性格可真好……
+54,ガブリエル/加百列,<span class='scene-font-kokoro'>（でもなぜ……？）</span>,<span class='scene-font-kokoro'>（但是为什么……？）</span>
+55,ガブリエル/加百列,<span class='scene-font-kokoro'>（なぜ重要な資料が未だに残って……）</span>,<span class='scene-font-kokoro'>（为什么这么重要的资料还保留着……）</span>
+56,ガブリエル/加百列,<span class='scene-font-kokoro'>（…………）</span>,<span class='scene-font-kokoro'>（…………）</span>
+info,,,scene_evt190228_cp2_q3_s10

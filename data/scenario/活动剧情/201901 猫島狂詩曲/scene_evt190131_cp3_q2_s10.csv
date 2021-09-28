@@ -1,0 +1,69 @@
+id,name,text,trans
+0-chapter_name,,第3話 セン、壁を破る,第3话 千，冲破壁障
+0-synopsis,,沢山の猫を身体にしがみつかせたまま、センは脱出のために壁を壊そうとするがうまくいかない。その時、若い猫が水に飛び込んで壁がうすいと思われる場所をセンに教えようとする。言葉が通じないセンにリベラやムクタも必死にその意図を伝え、戸惑いながらもなんとか理解したセンは壁のその部分を攻撃するのだった。,在背着一群猫咪的状态下，千尝试破坏墙壁逃走，但并不顺利。这时，那只年轻的猫咪跳入水中想要告诉千哪里的墙壁比较脆弱。由于语言不通，利贝拉和木库塔拼命向千解释。最后千终于明白了猫咪们的意思，找到墙壁脆弱的部分进行攻击。
+2,リベラ,娘！<br>このままではまずいぞ！,小姑娘！<br>这样下去就糟了！
+3,,<span class='scene-font-katari'>センの肩にしがみついた</span><br><span class='scene-font-katari'>リベラが懸命に訴える。</span>,<span class='scene-font-katari'>利贝拉抓着千的肩膀慌张地说道。</span>
+4,セン,リベラさん、<br>しっかりつかまっててくださいね！<br>皆さんも落ちないように……,利贝拉，你要抓紧哦！<br>大家都小心点，不要掉下去……
+5,ムクタ,水がすごい勢いで増えてる！<br>何とかしねぇと！,水涨的太快了！<br>得赶紧想个办法！
+6,毛の長い猫,おい！<br>もっと上に上がってくれー！,喂！<br>再让我上去点！
+7,古株の猫,テメェ、場所かわれ！<br>俺が上に行く！,喂，你跟我换位子！<br>我要在上面！
+8,ヴァパウス,えっ！？<br>やだってば！,咦！？<br>我才不要呢！
+9,若い猫,くそ……っ！,可恶……！
+10,セン,このままじゃ全員溺れちゃいます……<br>なんとか外に出ないと！,这样下去我们都会溺水的……<br>得想个办法逃出去！
+11,セン,えいっ！,嘿！
+13,セン,この壁……！,这个墙壁……！
+15,セン,思ったより硬くて……！,比我想的要坚硬……！
+17,セン,<span class='scene-font-4'>壊れません！！</span>,<span class='scene-font-4'>打不破！！</span>
+18,,<span class='scene-font-katari'>全身に猫を鈴なりにぶら下げたまま、</span><br><span class='scene-font-katari'>センは部屋の壁を壊そうと</span><br><span class='scene-font-katari'>奮闘するが報われない。</span>,<span class='scene-font-katari'>全身上下挂着猫咪的千就算用力砸墙也没有任何效果。</span>
+22,若い猫,くっ……<br>水位がまた上がってきた……！,唔……<br>水位又上涨了……！
+23,毛の長い猫,<span class='scene-font-4'>ひえええっ！</span><br><span class='scene-font-4'>もうダメだーー！！</span>,<span class='scene-font-4'>啊啊啊！</span><br><span class='scene-font-4'>不行了——！！</span>
+24,ヴァパウス,<span class='scene-font-4'>ダメダメ！</span><br>俺、本当に水はダメなんだってー！！,<span class='scene-font-4'>不要不要！</span><br>我真的不想碰水！！
+25,みぅちゃん,あーん、やだやだー<br>なんでみんなセンに登ってくるのー！？<br>センはみぅを抱っこするんだもん！！,啊！讨厌！<br>为什么大家都跑到千身上了嘛！？<br>千还要给咪呜抱抱的！
+26,,<span class='scene-font-katari'>逃げ場のない状況に、猫達は更に</span><br><span class='scene-font-katari'>混乱を極めていく。</span>,<span class='scene-font-katari'>面对无处可逃的险境，猫咪们更加混乱了。</span>
+27,セン,痛っ！　痛いです！<br>あの、すみません、ちょっと……！,好痛！ 好痛的！<br>那个，大家能不能……！
+28,セン,皆さんすみません！<br>爪を、その……！,听我说，大家能不能别用爪子……！
+29,古株の猫,お、おい！<br>動くんじゃねぇよ！<br>人間！！,喂、喂！<br>别乱动啊人类！！
+30,ムクタ,お前が爪をたてるからだ！<br>やめろ！<br>センが痛がってるだろ！,都怪你用爪子抓啊！<br>快住手！<br>你把千弄疼了！
+31,セン,っ……<br>そうですよね、怖いですよね……,唔……<br>是啊，大家都很害怕吧……
+32,,<span class='scene-font-katari'>水はもう、センの膝の高さを</span><br><span class='scene-font-katari'>超える量になっていた。</span>,<span class='scene-font-katari'>水位已经没过了千的膝盖。</span>
+33,セン,ごめんなさい皆さん！<br>私、早く壁を壊しますから……<br>はやく……！,对不起，大家！<br>我得快点破坏墙壁才行……<br>要快点……！
+34,エレフセリア,セン、がんばってください！,千，加油！
+35,ヴァパウス,ああーうわー！<br>また水が増えてきた！<br>もうダメだ……！,啊啊啊！<br>水又变多了！<br>我不行了……！
+36,若い猫,……闇雲にやってても<br>無駄だろーが！,……像你这样乱打一气是没用的！
+37,リベラ,む？,嗯？
+38,若い猫,……くそっ！,……可恶！
+42,赤毛の猫,<span class='scene-font-4'>ぎゃー！？</span>,<span class='scene-font-4'>哇！？</span>
+43,,<span class='scene-font-katari'>突然、センの腰にしがみついていた</span><br><span class='scene-font-katari'>若い猫が水に飛び込む。</span>,<span class='scene-font-katari'>突然，挂在千腰上的那只年轻的猫跳入了水中。</span>
+44,ヴァパウス,何してんの？<br>何してんの！？,你在干嘛啊？<br>你在干嘛啊！？
+45,若い猫,ぐ……ふがっ……！,唔……噶……！
+46,ムクタ,おい、大丈夫か！？<br>しっかりしろ！,喂，你没事吧！？<br>坚持住！
+47,セン,猫さんっ！？<br>ど、どうしたんですか！？,猫咪先生！？<br>请问怎么了吗！？
+48,若い猫,むぐ……はっ、は……,唔唔……哈、哈……
+49,,<span class='scene-font-katari'>慌てるセン達の前で、若い猫は</span><br><span class='scene-font-katari'>ほとんど溺れるような勢いでもがき、</span><br><span class='scene-font-katari'>部屋の壁へとたどり着く。</span>,<span class='scene-font-katari'>在慌乱的千和其他猫咪的注视下，年轻的猫咪呛水挣扎着游到了墙壁旁。</span>
+50,若い猫,っ……はぁ、はっ……<br>ここ……！,唔……哈、哈……<br>这里……！
+51,リベラ,そこの壁か？,那边的墙壁么？
+52,若い猫,前、爪とぎした、時にっ……<br>ぅ……ふぐっ……,之前、磨爪子的时候……<br>呜……咕……
+53,若い猫,ここだけ、音が……違ったっ！,只有这里……声音、不一样！
+54,セン,猫さん！<br>しっかりしてください！,猫咪先生！<br>坚持住！
+56,,<span class='scene-font-katari'>溺れそうになりながら</span><br><span class='scene-font-katari'>懸命に壁の一部をひっかく</span><br><span class='scene-font-katari'>若い猫をセンが抱き上げる。</span>,<span class='scene-font-katari'>千把一边呛水一边挠着墙壁的猫抱了起来。</span>
+57,若い猫,はっ、はっ……だから、<br>ここは薄いかもしれない……！,哈、哈……所以啊，我说这里的墙壁也许比较薄……！
+58,ムクタ,なるほどそれなら……！,原来如此！那……
+59,リベラ,おい、娘！<br>そこの壁を狙え！,喂，小姑娘！<br>瞄准那边的墙壁！
+60,,<span class='scene-font-katari'>リベラは、</span><br><span class='scene-font-katari'>センの肩にしがみつきながらも、</span><br><span class='scene-font-katari'>訴えるように壁の方へ身を乗り出した。</span>,<span class='scene-font-katari'>利贝拉紧紧抓住千的肩膀，一边还探出身体向千示意。</span>
+61,セン,リベラさんどうしたんですか？<br>何ですか？,利贝拉，你怎么了？<br>是想说什么？
+62,ヴァパウス,セン、頼むから早くしてくれー！<br>俺もう限界だから！<br>これ以上は無理だから！！,千，拜托你快点！<br>我到极限了！<br>快受不了了！！
+63,ムクタ,セン！<br>壁だ！　急げ！,千！<br>瞄准那边的墙壁，快点！
+64,,<span class='scene-font-katari'>ムクタは、その尻尾を</span><br><span class='scene-font-katari'>大きく壁の方へと振り上げる。</span>,<span class='scene-font-katari'>木库塔把它的尾巴朝着墙壁方向甩。</span>
+65,セン,えっと……<br>この壁がどうかしたんですかね……？,嗯……<br>墙壁怎么了吗……？
+66,若い猫,ぐずぐずすんじゃねぇよ人間！,别给我磨蹭了，人类！
+67,若い猫,……くそっ！<br>伝われよ！,……可恶！<br>差不多给我听懂啊！
+71,,<span class='scene-font-katari'>再び水に飛び込んだ若い猫は</span><br><span class='scene-font-katari'>懸命に壁をひっかいた。</span>,<span class='scene-font-katari'>年轻的猫咪再次跳入水中，拼命地挠着墙壁。</span>
+72,若い猫,ここだ！<br><span class='scene-font-4'>さっさとここを殴れ！！</span>,这里！<br><span class='scene-font-4'>快打这里啊！！</span>
+73,セン,猫さん！<br>えっと……,猫咪先生！<br>那个……
+74,,<span class='scene-font-katari'>壁をひっかく合間に、訴えかけるように</span><br><span class='scene-font-katari'>見上げてくる若い猫に、</span><br><span class='scene-font-katari'>センは躊躇いながら頷く。</span>,<span class='scene-font-katari'>看着年轻猫咪一边挠墙一边看自己的眼神，千犹豫着点了点头。</span>
+75,セン,わ、わかりました！<br>あんまりわからないけど……<br>たぶんわかりました！,我、我明白了！<br>虽然不是很明白……<br>但是已经明白了！
+76,セン,皆さん、<br>しっかりつかまってて下さいね！,大家等我一下！
+77,,<span class='scene-font-katari'>センは、水につかった足を</span><br><span class='scene-font-katari'>しっかりと踏ん張って構える。</span>,<span class='scene-font-katari'>千移动水中的双腿摆出架势。</span>
+78,セン,せーの……,一、二……
+80,セン,<span class='scene-font-4'>とりゃー！！</span>,<span class='scene-font-4'>看招！！</span>
+info,,,scene_evt190131_cp3_q2_s10

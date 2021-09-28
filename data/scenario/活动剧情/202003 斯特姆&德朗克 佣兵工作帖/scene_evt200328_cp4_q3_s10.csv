@@ -1,0 +1,50 @@
+id,name,text,trans
+0-chapter_name,,第4話 小休止、あるいは美味しい酒場,短暂的休息，或者是美味的酒馆
+0-synopsis,,酒場を出たスツルムとドランク。スツルムは、手紙が自分の家族からのものであると明かし、家族について語る。スツルムには５人の弟妹と、仕事で家を空けがちだが家族思いの父親、優しい母親がいた。スツルムは子供時代、決して裕福とは言えなかったが、平凡で幸せな家族の中で育ったのだった。,出了酒馆的斯特姆和德朗克。斯特姆坦言信是自己家人寄来的，并讲述了家人的事情。斯特姆有5个弟弟妹妹，工作上常常不在家，但想着家人的父亲，和温柔的母亲。斯特姆的孩童时代，在说不上富裕，但平凡而幸福的家庭中长大的。
+1,,<span class='scene-font-katari'>騒がせてしまったことを店員に謝罪し</span><br><span class='scene-font-katari'>スツルムとドランクのふたりは</span><br><span class='scene-font-katari'>酒場を後にした。</span>,<span class='scene-font-katari'>因为骚乱向店员道歉后</span><br><span class='scene-font-katari'>斯特姆和德朗克两人从酒馆离开。</span>
+3,ドランク/德朗克,あーあ、おいしいお店だったけど<br>なんだかもう一度行くのは<br>気がひけちゃうねぇ。,啊——啊，虽然是家味道不错的店<br>但有些害羞不太想再去了啊。
+4,スツルム/斯特姆,お前は、つまらないことを<br>気にしすぎだ。,你呀，太在意无聊的事情了。
+5,ドランク/德朗克,え～？<br>そうかなぁ？,哎~？<br>是这样吗？
+6,,<span class='scene-font-katari'>そのまま暫く、</span><br><span class='scene-font-katari'>特に会話もなく街を歩いた後、</span><br><span class='scene-font-katari'>スツルムがぽつりと口を開く。</span>,<span class='scene-font-katari'>就这样无言的在街道上走着</span><br><span class='scene-font-katari'>然后斯特姆嘟囔着张开了口。</span>
+7,スツルム/斯特姆,お前……,你……
+8,スツルム/斯特姆,あたしが受け取ってる手紙が<br>家族からのものだと<br>気づいてたのか？,注意到了<br>我收到的信是从家人那里寄过来的吗？
+9,ドランク/德朗克,えー？<br>いやぁ……知らなかったよ？,哎——？<br>呀……不知道哟？
+10,ドランク/德朗克,って言っても、今聞いちゃったから<br>わかっちゃったけどねぇ……<br>良かったの？,虽是这么说。<br>现在听到了也知道了……<br>没关系吗？
+11,スツルム/斯特姆,別に。,无所谓。
+12,ドランク/德朗克,そっか……,好吧……
+13,ドランク/德朗克,まぁ、なんとなくだけど<br>すごく大切なものなのかなぁとは<br>思ってたんだけどね。,嘛，就是有种感觉<br>觉得是非常重要的东西。
+14,ドランク/德朗克,結構頻繁にギルド本部に届いてる手紙。<br>スツルム殿、すごく<br>楽しみにしてる感じはしてたから。,相当频繁寄到公会的信。<br>感觉斯特姆殿下有种非常期待着的感觉。
+15,スツルム/斯特姆,……ひとの様子を観察するな。<br>相変わらず趣味が悪い。,……不要总观察别人的样子。<br>还是一如既往恶趣味。
+16,ドランク/德朗克,その言い方はひどくない！？,这种说法不会太过分了！？
+17,ドランク/德朗克,観察してなくったって<br>一緒にいたらわかるってば。,不是观察<br>只是在一起就明白了。
+18,,<span class='scene-font-katari'>大げさに肩を竦めて見せた後、</span><br><span class='scene-font-katari'>ドランクは穏やかな声色で続ける。</span>,<span class='scene-font-katari'>耸了耸肩之后</span><br><span class='scene-font-katari'>德朗克用平稳的语气继续说着。</span>
+19,ドランク/德朗克,手紙、ご家族からだったんだねぇ。,信件，是从家人那里寄来的呐。
+20,スツルム/斯特姆,ああ……弟や妹達からだ。,啊……是弟弟妹妹们寄的。
+26,長男,<span class='scene-font-4'>姉ちゃーん！</span><br><span class='scene-font-4'>父ちゃん帰ってきたー！</span>,<span class='scene-font-4'>姐姐！</span><br><span class='scene-font-4'>爸爸回来啦——！</span>
+27,次女,お父さんだー！,是爸爸——！
+28,三男,わーい！　父ちゃーん！,哎——！爸爸——！
+29,父,ただいまお前達！！,我回来了，小不点们！！
+30,,<span class='scene-font-katari scene-font-gray'>父は、傭兵だった。</span>,<span class='scene-font-katari scene-font-gray'>父亲是佣兵。</span>
+31,父,皆いい子にしてたかー？,大家有乖乖听话吗——？
+32,,<span class='scene-font-katari scene-font-gray'>仕事で家をあけることが多かったが</span><br><span class='scene-font-katari scene-font-gray'>とても家族思いで、いつだって</span><br><span class='scene-font-katari scene-font-gray'>皆が父の帰宅を待ちわびていた。</span>,<span class='scene-font-katari scene-font-gray'因为工作经常离开家</span><br><span class='scene-font-katari scene-font-gray'>非常想念家人</span><br><span class='scene-font-katari scene-font-gray'>大家总是翘首盼着父亲回来。</span>
+33,次男,いい子だった！,我有好好听话哦！
+34,三女,ちゃんと、<br>お母さんのお手伝いしたよ？,我有好好帮妈妈的忙哦。
+35,父,そうかそうか。<br>えらかったなぁ。<br>ありがとうなぁ！,是吗是吗。<br>真是了不起呀，帮大忙啦！
+36,母,ふふふ。皆、沢山助けてくれたわよ。<br>でも、それと同じだけ<br>腕白もしたけどねぇ。,呋呋呋，大家帮了很多忙。<br>不过也有一样的淘气呢。
+37,,<span class='scene-font-katari scene-font-gray'>一番下の弟を産んだ時に身体を</span><br><span class='scene-font-katari scene-font-gray'>壊した母は、伏せることも多かったが</span><br><span class='scene-font-katari scene-font-gray'>とても明るく優しい人だった。</span>,<span class='scene-font-katari scene-font-gray'>生下最小的弟弟时弄垮了身体的妈妈</span><br><span class='scene-font-katari scene-font-gray'>经常会摔倒</span><br><span class='scene-font-katari scene-font-gray'>但是是一个非常开朗十分善良的人。</span>
+38,母,やっぱりお姉ちゃんが<br>すごく頼りになったわ。,果然，姐姐非常值得依靠呢。
+39,幼いスツルム/幼年斯特姆,あたしは別に……<br>普通にしてるだけ。,我也没有……<br>只是简单做了些。
+40,父,いつもありがとうなぁ。<br>お前のおかげで、<br>俺は安心して働きにいけるよ。,一直以来辛苦你了。<br>因为有你在，我才能安心的工作。
+42,幼いスツルム/幼年斯特姆,ふふ……,嘿嘿……
+43,,<span class='scene-font-katari scene-font-gray'>撫でてくれる父の大きな手が</span><br><span class='scene-font-katari scene-font-gray'>大好きだった。</span>,<span class='scene-font-katari scene-font-gray'>我最爱抚摸着我的父亲的大手。</span>
+44,次男,姉ちゃんばっかりズルいー！,姐姐真狡猾——！
+45,三女,私も私もぉー！,我也要我也要——！
+46,長男,こら、お前らー！<br>我がまま言うなってば！,喂，你们几个——！<br>不要说任性的话啊！
+47,,<span class='scene-font-katari scene-font-gray'>まとわりついてくる弟妹達の体温は</span><br><span class='scene-font-katari scene-font-gray'>とても温かく心地良い。</span>,<span class='scene-font-katari scene-font-gray'>围绕在身边的弟弟妹妹们的身体</span><br><span class='scene-font-katari scene-font-gray'>非常温暖，让人心里舒服。</span>
+48,母,ほらほら皆、<br>家に入りなさい！<br>ご飯にしましょう。,好了好了，大家快回家里！<br>准备吃饭吧。
+49,,<span class='scene-font-katari scene-font-gray'>母の声を聞いていると、世界には</span><br><span class='scene-font-katari scene-font-gray'>何も怖いものなどないと思えた。</span>,<span class='scene-font-katari scene-font-gray'>听到妈妈的声音</span><br><span class='scene-font-katari scene-font-gray'>就觉得这世上没有什么可怕的事情。</span>
+50,幼いスツルム/幼年斯特姆,あたしも一緒に作った。<br>お父さん帰ってくるから……,因为父亲要回来<br>我一起帮忙做的。
+51,父,そうかそうか！<br>それは楽しみだ！,是吗是吗！<br>那还真是让人期待啊！
+52,,<span class='scene-font-katari scene-font-gray'>裕福とは言いがたかったけれど、</span><br><span class='scene-font-katari scene-font-gray'>どこにでもある、平凡で平和な、</span><br><span class='scene-font-katari scene-font-gray'>とても幸せな家族だったのだ。</span>,<span class='scene-font-katari scene-font-gray'>虽然说不上富裕</span><br><span class='scene-font-katari scene-font-gray'>但是也是随处可见，平凡平和的</span><br><span class='scene-font-katari scene-font-gray'>非常幸福的一家。</span>
+info,,,scene_evt200328_cp4_q3_s10
+译者,,,

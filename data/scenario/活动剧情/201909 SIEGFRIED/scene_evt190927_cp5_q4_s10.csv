@@ -1,0 +1,75 @@
+id,name,text,trans
+0-chapter_name,,第5話 絶望,第5话 绝望
+0-synopsis,,アグロヴァルと姬塔がジークフリートを相手取る間に、ランスロットとパーシヴァルは、ジークフリートが操られている原因は体内に流れるファフニールの血にあると気付き、かつてファフニールを封印する際に用いた縛竜の封印術でジークフリートを鎮めることに成功する。撤退したグンターを深追いすることなく、一行はアグロヴァルと別れ、王都へと帰還するのだった。,在阿古罗瓦尔和姬塔招架着齐格飞的期间，兰斯洛特以及帕西瓦尔注意到了齐格飞之所以被操纵，是由于其体内流淌的法芙娜之血作祟。在使用曾经封印了法芙娜的缚龙封印术后，齐格飞成功恢复了理智。众人未深追逃跑的古达，而是在和阿古罗瓦尔告别后，返回了王都
+2,ジークフリート/齐格飞,<span class='scene-font-4'>グアアアアアアアッ！</span>,<span class='scene-font-4'>咕啊啊啊啊啊啊啊！</span>
+3,アグロヴァル,つまらん……<br>所詮、力任せの単調な動きだな。,无趣……<br>到底不过本能支配的单调动作。
+4,アグロヴァル,合わせろ……姬塔！,快上……姬塔！
+4-sel1_txt,,<span class='scene-font-katari'>分かった！</span>,<span class='scene-font-katari'>明白了！</span>
+7,アグロヴァル,<span class='scene-font-4'>はぁぁぁぁぁっ！</span>,<span class='scene-font-4'>哈啊啊啊啊啊！</span>
+7-sel1_txt,,<span class='scene-font-katari'>はぁぁぁぁぁっ！</span>,<span class='scene-font-katari'>哈啊啊啊啊啊！</span>
+10,ジークフリート/齐格飞,グガッ！,咕啊！
+11,,<span class='scene-font-katari'>ジークフリートの動きを</span><br><span class='scene-font-katari'>完璧に封殺するアグロヴァルと</span><br><span class='scene-font-katari'>姬塔。</span>,<span class='scene-font-katari'>齐格飞</span><br><span class='scene-font-katari'>被阿古罗瓦尔和姬塔</span><br><span class='scene-font-katari'>完美地封杀住。</span>
+13,アグロヴァル,ランスロット、パーシヴァル！<br>準備は出来たか！,兰斯洛特，帕西瓦尔！<br>准备好了吗！
+14,2人,<span class='scene-font-4'>はいっ！</span>,<span class='scene-font-4'>是！</span>
+15,,<span class='scene-font-katari'>アグロヴァルと姬塔が</span><br><span class='scene-font-katari'>ジークフリートの動きを</span><br><span class='scene-font-katari'>封じている間……</span>,<span class='scene-font-katari'>在阿古罗瓦尔和姬塔</span><br><span class='scene-font-katari'>将齐格飞的行动</span><br><span class='scene-font-katari'>封杀着的期间……</span>
+16,,<span class='scene-font-katari'>ランスロットとパーシヴァルは</span><br><span class='scene-font-katari'>ジークフリートを助ける術について</span><br><span class='scene-font-katari'>必死に考えを巡らせていた。</span>,<span class='scene-font-katari'>兰斯洛特和帕西瓦尔</span><br><span class='scene-font-katari'>则在奋力地思索着</span><br><span class='scene-font-katari'>救助齐格飞的策略。</span>
+22,ランスロット/兰斯洛特,初めにグンターと戦った時に、<br>あいつは竜を召喚する<br>魔法陣を使っていた……,最初与古达一战时，<br>那家伙使用了召唤龙的魔法阵……
+23,パーシヴァル/帕西瓦尔,ああ、恐らくヤツは、<br>ジークフリートにも何らかの<br>魔法をかけた可能性が高い。,没错，恐怕那家伙，<br>很有可能对齐格飞<br>施加了某种魔法。
+24,パーシヴァル/帕西瓦尔,更に、ヤツは竜を召喚しただけでなく<br>竜を操っている様なそぶりを見せた。,并且，那家伙不仅召唤出了龙，<br>更是有着操控龙的手段。
+25,ランスロット/兰斯洛特,確かに、竜を操る……<br>まさかジークフリートさんの<br>竜の力に作用している？,确实，操控龙……<br>难道说是因为齐格飞<br>体内龙之力的缘故？
+26,パーシヴァル/帕西瓦尔,確証は持てないがな……<br>そういう類の魔法である可能性は高い。,没有十足的证据……<br>但是由于某种魔法所致的可能性很高。
+27,パーシヴァル/帕西瓦尔,以前からジークフリートの肉体には<br>ファフニールの血の力の影響が<br>出ていたのだろう？,从前齐格飞的肉体，<br>也有受法芙娜血之力的影响对吧？
+28,ランスロット/兰斯洛特,ああ……ジークフリートさんは<br>あまり話してくれないが、<br>そうみたいだな。,是的……齐格飞他<br>不怎么和我们提，<br>但似乎是这样没错。
+29,パーシヴァル/帕西瓦尔,ジークフリートにかけられた<br>魔法の術式をこの場で解くのは<br>容易なことでは無い。,要在这里解掉施加给齐格飞的<br>魔法的术式并非易事。
+30,パーシヴァル/帕西瓦尔,だが、ファフニールの力……<br>竜の力を活性化させているなら<br>対策は考えられる。,但若是由于法芙娜之力……<br>也就是龙之力被激活了的缘故，<br>倒是有所对策。
+31,ランスロット/兰斯洛特,縛竜の封印術か……！,缚龙封印术吗……！
+32,パーシヴァル/帕西瓦尔,そうだ、縛竜の術を使って<br>ジークフリートの中の<br>ファフニールの力を鎮める。,没错，使用缚龙封印术<br>就可以把齐格飞体内的<br>法芙娜之力给封印住。
+33,ランスロット/兰斯洛特,試してみる価値はあるな……！,有值得一试的价值……！
+34,パーシヴァル/帕西瓦尔,ああ、これに懸ける価値はある。,嗯，值得在这上面赌一把。
+35,ランスロット/兰斯洛特,俺は以前にファフニールを封印した時に<br>やったことがあるが……,我之前在封印法芙娜时倒是做过……
+36,ランスロット/兰斯洛特,パーシヴァル……<br>お前、急に言われて出来るのか？,帕西瓦尔……<br>你一上来能成功吗？
+37,パーシヴァル/帕西瓦尔,ふっ……ランスロット、<br>俺を誰だと思っている？,呵……兰斯洛特，<br>你以为我是谁？
+38,,<span class='scene-font-katari'>そうしてランスロットと</span><br><span class='scene-font-katari'>パーシヴァルは、その場に縛竜の術を</span><br><span class='scene-font-katari'>施した魔法陣を描いていた。</span>,<span class='scene-font-katari'>这般推敲后</span><br><span class='scene-font-katari'>兰斯洛特与帕西瓦尔当场将</span><br><span class='scene-font-katari'>缚龙封印术魔法阵施展了出来。</span>
+44,グンター,<span class='scene-font-kokoro'>（あれは……縛竜の……！）</span>,<span class='scene-font-kokoro'>（那是……缚龙……！）</span>
+45,グンター,<span class='scene-font-4'>させるかぁぁぁぁっ！</span>,<span class='scene-font-4'>休想得逞！</span>
+54,アグロヴァル,<span class='scene-font-4'>姬塔！</span><br>このまま俺はジークフリートの動きを<br>氷牢で封じておく！,<span class='scene-font-4'>姬塔！</span><br>接下来我会用冰牢<br>继续封住齐格飞！
+55,アグロヴァル,あやつをジークフリートに<br>近づかせるな！,你别让那家伙接近齐格飞！
+55-sel1_txt,,<span class='scene-font-katari'>任せて──！</span>,<span class='scene-font-katari'>交给我了！</span>
+57,,<span class='scene-font-katari'>ランスロットとパーシヴァルの</span><br><span class='scene-font-katari'>縛竜の術を邪魔しようとする</span><br><span class='scene-font-katari'>グンターを止める姬塔。</span>,<span class='scene-font-katari'>欲干扰兰斯洛特和帕西瓦尔</span><br><span class='scene-font-katari'>缚龙之术的古达</span><br><span class='scene-font-katari'>被姬塔阻挡了下来。</span>
+58,グンター,<span class='scene-font-4'>貴様等ぁぁぁぁぁぁっ！</span>,<span class='scene-font-4'>就凭你们！</span>
+59,アグロヴァル,ランスロット、パーシヴァル！,兰斯洛特、帕西瓦尔！
+60,アグロヴァル,今だ……やれっ！,就是现在……动手！
+62,2人,<span class='scene-font-4'>はぁぁぁぁぁぁっ！</span>,<span class='scene-font-4'>喝啊啊啊啊啊啊！</span>
+63,,<span class='scene-font-katari'>ランスロットとパーシヴァルが</span><br><span class='scene-font-katari'>己の魔力を魔法陣に流し込む。</span>,<span class='scene-font-katari'>兰斯洛特和帕西瓦尔将自己的魔力</span><br><span class='scene-font-katari'>注入到魔法阵之中。</span>
+64,,<span class='scene-font-katari'>すると、ジークフリートの真下に</span><br><span class='scene-font-katari'>魔法陣が展開するのだった。</span>,<span class='scene-font-katari'>顷刻间，在齐格飞足下</span><br><span class='scene-font-katari'>一道魔法阵展开而来。</span>
+69,ジークフリート/齐格飞,グッ……ウグァァァァッ！,咕……啊啊啊啊！
+74,,<span class='scene-font-katari'>苦しそうに咆哮するジークフリートを</span><br><span class='scene-font-katari'>眩い光の柱が包み込む。</span>,<span class='scene-font-katari'>在痛苦中咆哮着的齐格飞</span><br><span class='scene-font-katari'>被眩目的光柱所包围起来。</span>
+76,,<span class='scene-font-katari'>次の瞬間。</span><br><span class='scene-font-katari'>力尽きた様子のジークフリートが</span><br><span class='scene-font-katari'>その場に倒れ伏していた。</span>,<span class='scene-font-katari'>下一个瞬间。</span><br><span class='scene-font-katari'>齐格飞像是用尽了全力</span><br><span class='scene-font-katari'>整个人倒在了地上。</span>
+77,ランスロット/兰斯洛特,<span class='scene-font-4'>ジークフリートさん！</span>,<span class='scene-font-4'>齐格飞！</span>
+78,パーシヴァル/帕西瓦尔,<span class='scene-font-4'>大丈夫か！　ジークフリート！</span>,<span class='scene-font-4'>不要紧吗！齐格飞！</span>
+79,ジークフリート/齐格飞,ランスロット……<br>パーシヴァル……,兰斯洛特……<br>帕西瓦尔……
+80,,<span class='scene-font-katari'>ジークフリートの瞳からは</span><br><span class='scene-font-katari'>怪しい光も消えていた。</span>,<span class='scene-font-katari'>齐格飞瞳孔中</span><br><span class='scene-font-katari'>怪异的光消失了。</span>
+81,グンター,まさか……<br>竜化が治まっただと！,怎么会……<br>龙化被治愈了！
+82,アグロヴァル,やれやれ……<br>間に合ったか。,哎呀哎呀……<br>赶上了吗。
+83,アグロヴァル,フッ……<br>お前達がもう少し遅かったら<br>我が引導を渡していた所だぞ？,呵……<br>你们再迟一些的话<br>恐怕就可以请人超度我了？
+84,パーシヴァル/帕西瓦尔,兄上……<br>ご助力に感謝いたします。,兄长……<br>感谢你的协助。
+85,ランスロット/兰斯洛特,本当に……<br>なんとお礼を言ったらよいか。,真是……<br>不知该如何道谢。
+85-sel1_txt,,<span class='scene-font-katari'>ありがとう。</span>,<span class='scene-font-katari'>谢谢。</span>
+86,アグロヴァル,ふん……<br>礼を言われる筋合いなどない。,哼……<br>没有什么该谢的。
+87,アグロヴァル,我はただ、<br>ウェールズへの影響を危惧して<br>助力したまでよ。,我不过是担忧对威尔兹的影响，<br>才破例出手的。
+88,アグロヴァル,<span class='scene-font-kokoro'>（お前達は、我が犯した過ちを</span><br><span class='scene-font-kokoro'>穏便に収めてくれたからな。</span><br><span class='scene-font-kokoro'>その借りを返したまでだ）</span>,<span class='scene-font-kokoro'>（你们对我犯下的错</span><br><span class='scene-font-kokoro'>宽容地的原谅了。</span><br><span class='scene-font-kokoro'>这不过是还下欠你们的人情罢了）</span>
+89,アグロヴァル,さて、興も覚めた。<br>帰るぞ、お前達。,那么，闹剧结束。<br>该返程了，各位。
+90,ウェールズ兵達,はっ！,是！
+91,,<span class='scene-font-katari'>そう言い残して、</span><br><span class='scene-font-katari'>アグロヴァルは何事も無かったかの様に</span><br><span class='scene-font-katari'>立ち去ってしまった。</span>,<span class='scene-font-katari'>留下这番话语后，</span><br><span class='scene-font-katari'>阿古罗瓦尔便仿佛无事发生般</span><br><span class='scene-font-katari'>带着人马离去了。</span>
+93,グンター,貴様等……<br>ぐっ……,就凭你们……<br>呜……
+94,,<span class='scene-font-katari'>旗色が悪いとみるや、</span><br><span class='scene-font-katari'>すぐさま撤退するグンター</span>,<span class='scene-font-katari'>感觉形势不妙的古达，</span><br><span class='scene-font-katari'>当即撤退了。</span>
+96,白竜騎士団団員１,待てっ！　逃がすか！,站住！别想逃！
+97,ランスロット/兰斯洛特,今は追わなくていい！,现在不用深追！
+98,白竜騎士団団員２,ですが……,可是……
+99,ランスロット/兰斯洛特,皆の傷を癒すのが先決だ。,先以治疗伤势为重。
+100,ランスロット/兰斯洛特,いったん王都に帰って、<br>態勢を立て直すぞ。,现在暂时返回王都，<br>重整旗鼓再作行动。
+101,白竜騎士団団員達,はっ！,是！
+102,,<span class='scene-font-katari'>こうして、アグロヴァルの加勢もあって</span><br><span class='scene-font-katari'>最悪の事態を免れ、</span><br><span class='scene-font-katari'>ジークフリートの救出に成功した一行。</span>,<span class='scene-font-katari'>如此，在阿古罗瓦尔的帮助下</span><br><span class='scene-font-katari'>避免了最坏的情况发生，</span><br><span class='scene-font-katari'>一行人成功救出了齐格飞。</span>
+103,,<span class='scene-font-katari'>一行はグンターの後を追うのを諦め、</span><br><span class='scene-font-katari'>気絶したジークフリートを連れて</span><br><span class='scene-font-katari'>王都へと帰還するのだった。</span>,<span class='scene-font-katari'>放弃对古达追击的众人，</span><br><span class='scene-font-katari'>决定带着失去意识的齐格飞</span><br><span class='scene-font-katari'>踏上返回王都的路。</span>
+info,,,scene_evt190927_cp5_q4_s10
+译者,,,

@@ -1,0 +1,36 @@
+id,name,text,trans
+0-chapter_name,,第3話 Same feeling,第3話 Same feeling
+0-synopsis,,ブルースを弱らせた姬塔一行。しかしブルースは攻撃を緩めることは無く、姬塔一行は対処に困り果てる。するとサメハンターが樽爆弾を抱えてブルースの口に飛び込み、自爆する。これにより騒動は決着し、サメの脅威は<span class='scene-font-place'>アウギュステ</span>から去ったのだった。,想要把布鲁斯揍老实的姬塔一行人。但是布鲁斯没有停下攻击的倾向，姬塔一行人开始不知所措。这时候鲨鱼猎人抱着炸弹桶跳进了布鲁斯的嘴里，选择了自爆。这下骚动的得到了解决。<span class='scene-font-place'>奥古斯特</span>也远离了的鲨鱼的威胁。
+1,ブルース,Shark……,Shark……
+2,ハールート/哈露特,はぁ……はぁ……<br>いい加減に降参するんだ！,哈……哈……<br>赶紧投降啊！
+3,マールート/玛露特,おねがい……！<br>私達の目的は駆除ではないの！,拜托了……！<br>我们的目的不是驱除你！
+4,ブルース,…………,…………
+5,アズラエル/亚兹拉尔,およよ……？<br>なんだかちょっと落ち着いてきた？,哦哟哟……？<br>好像有点冷静下来了？
+6,サンダルフォン/圣德芬,はぁ……<br>さすがに鎮まったようだな。,哈……<br>终于安静下来了啊。
+7,サンダルフォン/圣德芬,サリエル。<br>縄を持って来て貰えるか？<br>ブルースを船体に括って移送する──,沙利叶，能不能把绳子拿来？<br>把布鲁斯绑在船上运走——
+8,サリエル/沙利叶,…………！<br>サンダルフォン！,…………！<br>圣德芬！
+9,ブルース,<span class='scene-font-4'>Sharrrk！</span>,<span class='scene-font-4'>Sharrrk！</span>
+10,ルリア/露莉亚,きゃあ！？<br>最後の力が残ってるみたいです……！,呀啊！<br>好像还留着最后的力气……！
+11,サンダルフォン/圣德芬,この……！<br>この期に及んで降参のフリなど……,这家伙……！<br>都到这时候了还能装出投降的样子……
+12,ビィ/碧,ズル賢いヤツだなぁ……！<br>まるでどっかのひねだるふぉんだぜ！,狡猾又聪明的家伙……!<br>就像哪个别扭芬！
+13,サンダルフォン/圣德芬,…………！？<br>その件は悪かったと言っている！,…………！？<br>那事我都道过谦了！
+15,サメハンター,どいてろ兄ちゃん……<br>ここは俺の出番だ。,小哥让一下……<br>这里轮到我出场了。
+16,海洋学者,マーティン……？<br>あなた何を抱えて……,马汀……？<br>你抱着什么……
+17,サメハンター,なぁブルース。<br>初めて遭ったのは何年前になる？<br>思えば俺達の因縁も長いよなぁ。,呐布鲁斯。<br>我们第一次见面是多少年之前了？<br>仔细想来我们的因缘还挺长的。
+18,ブルース,<span class='scene-font-4'>Shark！ Shark！ Shark！</span>,<span class='scene-font-4'>Shark！ Shark！ Shark！</span>
+19,サメハンター,はは……,哈哈……
+20,サメハンター,エレンの研究を聞いてわかったんだ。<br>お前は生物として間違っちゃいない。<br>悪いのはきっと俺達人間なんだろう。,听了艾莲的研究内容我知道了。<br>你作为生物并没有做错什么。<br>是我们人类不好。
+21,サメハンター,だが……！,但是……！
+24,サリエル/沙利叶,マーティン……？<br>例の特注の武器を──,马汀……？<br>你拿的是那个特制武器——
+25,サメハンター,<span class='scene-font-4'>この樽爆弾で因縁に終止符だ！</span>,<span class='scene-font-4'>让这个炸弹桶结束我们的因缘吧！</span>
+26,ルリア/露莉亚,た、樽……！？,炸，炸弹桶……！？
+27,サメハンター,<span class='scene-font-4'>ウオォォォ！</span>,<span class='scene-font-4'>唔噢噢噢噢！</span>
+28,ブルース,<span class='scene-font-4'>Sharrrk！</span>,<span class='scene-font-4'>Sharrrk！</span>
+29,サンダルフォン/圣德芬,馬鹿！<br>口に突っ込んで行ってどうする！？,笨蛋！<br>跳到嘴里是准备做什么！？
+30,海洋学者,<span class='scene-font-4'>マーティィィン──</span>,<span class='scene-font-4'>马汀——</span>
+49,海洋学者,<span class='scene-font-gray'>その初夏に起きた騒動は、</span><br><span class='scene-font-gray'>短気で呑気でバツイチの、</span><br><span class='scene-font-gray'>ひとりの英雄によって決着を見た。</span>,<span class='scene-font-gray'>一个离婚过的又急躁又从容的英雄</span><br><span class='scene-font-gray'>解决了这个初夏的骚动</span>
+50,海洋学者,<span class='scene-font-gray'>樽爆弾を抱えてブルースに走り、</span><br><span class='scene-font-gray'>大口に飛び込んで行った彼の勇気は、</span><br><span class='scene-font-gray'>島の記録に残り語り継がれるだろう。</span>,<span class='scene-font-gray'>他抱着炸药桶冲向布鲁斯，</span><br><span class='scene-font-gray'>跳进它的大嘴里的勇气，</span><br><span class='scene-font-gray'>会留在这座岛的历史里被人传颂下去吧。</span>
+51,海洋学者,<span class='scene-font-gray'>私達は彼が守ったモノを、</span><br><span class='scene-font-gray'>今後も守り続けなければならない。</span>,<span class='scene-font-gray'>今后我们应该继续守护他所守护的东西。</span>
+52,海洋学者,<span class='scene-font-gray'>いつか人間と海洋生物の間に、</span><br><span class='scene-font-gray'>本当の絆が芽生える事を信じて──</span>,<span class='scene-font-gray'>并相信着，将来有一天，</span><br><span class='scene-font-gray'>人类可以和海洋生物可以产生牵绊的萌芽——</span>
+58,,<span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　　　　　　　　　　　　　　　──完</span>,<span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　　　　　　　　　　　　　　　──完</span>
+info,,,scene_evt190627_cp3_q4_s30

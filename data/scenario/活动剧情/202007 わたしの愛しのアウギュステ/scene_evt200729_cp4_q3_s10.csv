@@ -1,0 +1,51 @@
+id,name,text,trans
+0-chapter_name,,第4話 ポーチャーズ・メグ,第4话 偷猎者・梅格
+0-synopsis,,夜、メグはシェロカルテが届けてくれたベンディク島の名産ンニに舌鼓を打つ。料理は例の騎空団が作ってくれたものであるといい、シェロカルテはメグに騎空団の人々を紹介することを提案。しかしメグは断る。個性的な人間といると自分の平凡さを直視することになり、そんな状況が苦手なのだ。ひとりになるとメグは外を散策して夜の海を楽しむが、唐突に魔物が現れるのだった。,夜晚，梅格美美地品尝了榭洛科特带来的本迪克岛名特产海胆。榭洛科特说这些料理都是那个骑空团做的，她提议把骑空团的人介绍给梅格。但梅格却拒绝了。会被富有个性的人们看到自己的平凡之处，她说她不擅长应对这种场面。之后梅格只身一人外出散步享受夜晚的海，却突然被魔物袭击了。
+1,メグ/梅格,<span class='scene-font-4'>お～いし～い！</span>,<span class='scene-font-4'>超～好～吃！</span>
+2,シェロカルテ/榭洛科特,ふふふ～<br>それはよかったです～,呵呵呵～<br>那就好～
+3,,<span class='scene-font-katari'>夜になるとシェロカルテが</span><br><span class='scene-font-katari'>ベンディク島の名産である</span><br><span class='scene-font-katari'>ンニを差し入れしてくれた。</span>,<span class='scene-font-katari'>到了晚上，榭洛科特带来了本迪克岛的名特产海胆。</span>
+4,,<span class='scene-font-katari'>濃厚な甘みととろける食感は</span><br><span class='scene-font-katari'>精神の均衡を失いかけたメグを</span><br><span class='scene-font-katari'>存分に癒すのだった。</span>,<span class='scene-font-katari'>那浓郁的甜味和入口即化的口感，</span><br><span class='scene-font-katari'>完全治愈了精神崩溃的梅格。</span>
+5,メグ/梅格,そのままもおいしいけど、<br>姬塔ダにも合うし、<br>魚卵と和えたのも最高なんだけど！,就这么直接吃也很好吃，<br>和沙拉也很搭，<br>和鱼子混在一起吃最棒了！
+6,メグ/梅格,これ全部、<br>シェロカルテさんが作ったんですか？<br>すごいすごい！,这些全部都是榭洛科特你做的吗？<br>好厉害啊！
+7,シェロカルテ/榭洛科特,いえいえ～<br>例の騎空団の方が<br>作ってくれたんですよ～,不是不是～<br>是那个骑空团的人做的哟～
+8,シェロカルテ/榭洛科特,お料理上手の方が<br>たくさんいらっしゃる団ですので<br>お願いしたんです～,因为他们团里有很多擅长料理的人，<br>所以拜托了他们做～
+9,メグ/梅格,あ……そうなんですか……<br><span class='scene-font-kokoro'>（ほんと、何者なの……？）</span>,啊……是这样啊……<br><span class='scene-font-kokoro'>（那些人，到底是何方神圣……？）</span>
+10,シェロカルテ/榭洛科特,でもメグさん、<br>おひとりでいてよろしいんですか～？,但是梅格<br>你一个人待着真的好吗～？
+11,メグ/梅格,え？,诶？
+12,シェロカルテ/榭洛科特,おひとりでは味気ないようでしたら、<br>騎空団の方々をご紹介しましょうか～？,如果觉得一个人很无聊的话，<br>要不要我把骑空团的人介绍给你呢～？
+13,シェロカルテ/榭洛科特,みなさん気さくな方ですから<br>サクッとメグさんも仲良くなれますよ～<br>気さくにサクッと……うぷぷ……,大家都是很随和的人，<br>肯定能很快和梅格打好关系的～<br>随和而很快地……呵呵呵……<br><span class='scene-font-2'><span class='scene-font-place'>原文随和后两个音和很快前两个音一样，在玩发音梗</span></span>
+14,メグ/梅格,わたしが……あの騎空団と、ですか？<br>シェロさん、本気？,我和……那个骑空团，吗？<br>榭洛你是认真的？
+15,シェロカルテ/榭洛科特,もちろんです～<br>大勢で過ごせば<br>きっと楽しいと思いますよ～,那是当然～<br>和很多人一起度假的话，<br>我想肯定会很开心的～
+16,シェロカルテ/榭洛科特,とっても個性的な方々が集まった<br>騎空団でして～<br>いつお会いしても飽きませんね～,而且骑空团聚集了很多富有个性的人～<br>不管遇见他们多少次都不会腻呢～
+17,メグ/梅格,あの騎空団が個性派ぞろいなのは<br>ある程度は知ってます……<br>でもそれなら、なおさらダメですね。,某种程度上我已经知道那骑空团是多么个性派齐聚了……<br>但是那样的话就更不行了。
+18,シェロカルテ/榭洛科特,はい～？,诶～？
+19,メグ/梅格,わたし、フツーですから。<br>これといって特技とかないし、<br>おもしろいことも言えないし……,因为我很普通。<br>没有值得展示的特技，<br>也不会说有趣的话……
+20,メグ/梅格,個性的な人といると自分の平凡さを<br>突きつけられてるみたいで……<br>そういう状況、ちょっとイヤなんです。,把自己的平凡暴露在个性鲜明的人面前……<br>我很讨厌这样。
+21,メグ/梅格,わたし、小さい頃から<span class='scene-font-place'>アウギュステ</span>に<br>憧れてたのは本当だけど、<br>個性を求めて来たってのもあって……,虽说我确实是从小时候一直憧憬<span class='scene-font-place'>奥古斯提</span>，<br>但也有部分原因是为了寻求个性……
+22,シェロカルテ/榭洛科特,個性を求めて<span class='scene-font-place'>アウギュステ</span>に……<br>とは～？,向<span class='scene-font-place'>奥古斯提</span>寻求个性……<br>你是指～？
+23,メグ/梅格,<span class='scene-font-place'>アウギュステ</span>に行ったことがある<br>ただひとりの女の子……<br>になれたらいいなって思ったんです。,我想要成为唯一一个……<br>去过<span class='scene-font-place'>奥古斯提</span>的女孩子。
+24,メグ/梅格,それって田舎ではけっこう<br>すごいステータスなんですよ。<br><span class='scene-font-place'>アウギュステ</span>はみんなの憧れですから！,那在乡下地方已经是很高的水准了哦。<br><span class='scene-font-place'>奥古斯提</span>可是大家的憧憬呢！
+30,メグ/梅格,でも初めて来た時、<br>まりっぺっていう友達も来てて<br>それも無駄になっちゃいました。,但是第一次来的时候，<br>因为有个叫玛丽丽的朋友也来了，<br>所以我的期望落空了。
+31,メグ/梅格,<span class='scene-font-place'>アウギュステ</span>に行ったことがあるのは<br>わたしだけ、とは<br>言えなくなっちゃったんです……,去过<span class='scene-font-place'>奥古斯提</span>的只有我！<br>这句话也说不出口了……
+37,メグ/梅格,不純な願いだから<br>バチが当たったんですかね……,是因为我动机不纯所以受到惩罚了吧……
+38,シェロカルテ/榭洛科特,…………,…………
+39,メグ/梅格,ごめんなさい、変な話しして……<br>とにかくわたしは……<br>ひとりでいたいんです……,抱歉，说了些奇怪的话……<br>总之……<br>我一个人待着就行了……
+40,シェロカルテ/榭洛科特,そうですか～……,是嘛～……
+42,,<span class='scene-font-katari'>シェロカルテが去ると、</span><br><span class='scene-font-katari'>メグは望み通り</span><br><span class='scene-font-katari'>ひとりぼっちになった。</span>,<span class='scene-font-katari'>榭洛科特离开后，</span><br><span class='scene-font-katari'>梅格如愿以偿变成了孤身一人。</span>
+43,,<span class='scene-font-katari'>だが静かになった外に興味をひかれ、</span><br><span class='scene-font-katari'>せめて旅を楽しみたいという</span><br><span class='scene-font-katari'>気持ちが芽生えるのだった。</span>,<span class='scene-font-katari'>她被变得安静的外面引起了兴趣，</span><br><span class='scene-font-katari'>生出了难得的旅行想要开心度过这一念头。</span>
+44,メグ/梅格,騒ぎはおさまったって<br>シェロカルテさんも言ってたし、<br>ちょっと散歩するくらいいいよね。,榭洛科特也说了骚乱已经平息了，<br>稍微去散下步也是可以的吧。
+50,メグ/梅格,わぁ……！<br>夜の海ってこんななんだぁ……,哇啊……！<br>夜晚的海是这个样子的啊……
+51,メグ/梅格,暗闇から波の音が響いてきて素敵……<br>なんだかリラックスできるなぁ……,好美啊，黑暗中回响着海浪的拍打声……<br>总觉得身心都放松下来了……
+54,シェロカルテ/榭洛科特,おひとりでは味気ないようでしたら、<br>騎空団の方々をご紹介しましょうか～？,如果觉得一个人很无聊的话，<br>要不要我把骑空团的人介绍给你呢？
+57,,<span class='scene-font-katari'>ふいにシェロカルテの顔が浮かぶと、</span><br><span class='scene-font-katari'>メグは慌てて頭を振った。</span>,<span class='scene-font-katari'>脑海中突然浮现出榭洛科特的脸，</span><br><span class='scene-font-katari'>梅格慌张地甩甩头。</span>
+58,メグ/梅格,いやいや……<br>わたしは別に<br>友達がいないわけじゃないし……,不不不……<br>我又不是没有朋友……
+59,メグ/梅格,<span class='scene-font-kokoro'>（ちょっと溶け込めきれてない感じが</span><br><span class='scene-font-kokoro'>昔からたまに……</span><br><span class='scene-font-kokoro'>たま～にするぐらいなだけだし……）</span>,<span class='scene-font-kokoro'>（只是从以前就偶尔，</span><br><span class='scene-font-kokoro'>感觉到自己有些融入不了……</span><br><span class='scene-font-kokoro'>只是偶尔而已啦……）</span>
+60,メグ/梅格,<span class='scene-font-kokoro'>（だから自分がみんなの</span><br><span class='scene-font-kokoro'>話題の中心になれるかもと思って</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-kokoro'>に来たわけだけど……）</span>,<span class='scene-font-kokoro'>（因为这说不定能成为大家话题的中心，</span><br><span class='scene-font-kokoro'>所以我才想来</span><span class='scene-font-place'>奥古斯提</span><span class='scene-font-kokoro'>的……）</span>
+62,メグ/梅格,あー、ダメダメ、<br>変なこと考えちゃ。<br>せっかくの<span class='scene-font-place'>アウギュステ</span>なのに……,啊，不行不行，<br>不小心在想些奇怪的事了。<br>明明是难得的<span class='scene-font-place'>奥古斯提</span>之旅……
+63,メグ/梅格,もっと楽しまなくちゃね！,必须玩得更开心啊！
+65,魔物,…………,…………
+66,メグ/梅格,そうだよね？　カニさん♪,你说对吧？螃蟹先生♪
+67,魔物,…………！,…………！
+68,メグ/梅格,カニさん、なんかでかくない！？,螃蟹先生，你是不是有点大啊！？
+info,,,scene_evt200729_cp4_q3_s10
+译者,,,

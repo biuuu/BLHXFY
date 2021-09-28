@@ -1,0 +1,88 @@
+id,name,text,trans
+0-chapter_name,,第1話 窮鳥入懐,
+0-synopsis,,アルタイルの奇策により、アヨール山脈に潜んでいたユラントスク軍を同士討ちさせ壊滅に追い込んだエルデニ軍の兵士達は、小さいながらも久方振りの勝利を喜ぶ。そんな中、アルタイルに「スフィリアを辞め、母国であるスイ国へ戻ったはずのシュラがなぜエルデニの軍人としてここにいるのか」と問われたシュラは、言葉を濁し視線を逸らすのだった。,在阿尔泰尔的谋略下，埃尔德尼士兵们把潜伏在阿约尔山脉的尤兰托斯克军队尽数消灭。虽然相当微小，但久违的胜利依旧激励了士兵们。中途，被阿尔泰尔问到“从斯菲利亚离开，想要回到祖国苏伊的你，为什么会在这里做埃尔德尼的军师？”的秋罗含糊其辞，转移了视线。
+1,,<span class='scene-font-katari'>シュラの陣より見て十時の方角。</span><br><span class='scene-font-katari'>アヨール山脈に展開する、</span><br><span class='scene-font-katari'>ユラントスク軍の本営。</span>,<span class='scene-font-katari'>以秋罗的营地为中心，</span><br><span class='scene-font-katari'>十点钟方向。</span><br><span class='scene-font-katari'>是尤兰托斯克军队在阿约尔山脉的阵地。</span>
+2,,<span class='scene-font-katari'>そこでは、アヨール山脈における</span><br><span class='scene-font-katari'>ユラントスク軍の本隊が</span><br><span class='scene-font-katari'>斥候部隊からの報告を待っていた。</span>,<span class='scene-font-katari'>在那里，尤兰托斯克军队</span><br><span class='scene-font-katari'>在等待侦察部队</span><br><span class='scene-font-katari'>从阿约尔山脉带来的报告。</span>
+3,ユラントスク上等兵,斥候は何をしている！<br>連絡はまだなのか！？,侦察兵在干什么？<br>怎么还没有联络？！
+4,ユラントスク上等兵,ええい、忌々しい霧め！<br>晴れていれば、この程度の山など<br>早々に制圧しているものを！,哎，这个天气真是！<br>如果是晴天的话，<br>这种山早就可以攻破了！
+7,ユラントスク兵,報告します！<br>斥候部隊が突如乱心し、<br>同士討ちを始めたとの情報が！,报告长官！<br>斥候部队突然变得神经错乱，<br>好像开始误击友军了！
+8,ユラントスク上等兵,何ぃ！？<br>どういうことだ！,什么？！<br>这是怎么回事！
+9,ユラントスク兵,く、詳しくは分かりませんが、<br>赤いトカゲの咆哮を聞いた者達が<br>味方を襲い始めたと……,我，我不知道更详细的，<br>但是听到红色蜥蜴咆哮的人，<br>就好像开始攻击自己人了……
+10,ユラントスク上等兵,赤いトカゲだと？<br>何をふざけたことを……,红色蜥蜴? <br>开什么玩笑……
+13,ユラントスク兵４,ほ、報告します！<br>周囲の警戒に当たっていた、<br>第二、第三小隊が襲撃を受けました！,报、报告！<br>负责周围警戒的<br>第二、第三小队遭到袭击！
+14,ユラントスク兵４,襲撃者はユラントスク軍……<br>一部の者達が乱心した模様です！,袭击者是尤兰托斯克士兵……<br>一些人似乎精神错乱了！
+15,ユラントスク上等兵,馬鹿な……！？<br>その赤いトカゲの咆哮とやらで、<br>本当に造反者が出ているというのか！？,不可能……！<br>什么红色蜥蜴的咆哮啊，<br>有造反者出现了吗 ！？
+16,,<span class='scene-font-katari'>その時、視界の端に赤い何かが映り、</span><br><span class='scene-font-katari'>思わずそちらに気を取られる。</span>,<span class='scene-font-katari'>这时，视线边缘出现了红色的什么东西，</span><br><span class='scene-font-katari'>不由得被那边吸引了注意力。</span>
+17,ユラントスク上等兵,お前……あ、赤いトカゲ！,你……啊，红色蜥蜴！
+18,ビィ/碧,…………,…………
+20,ユラントスク上等兵,なんだ今のは……<br>まさかエルデニの新兵器か！？,怎么回事……<br>那难道是埃尔德尼的新武器吗! ？
+21,ユラントスク上等兵,咆哮を聞いた者を乱心させるとは……,让听到咆哮的人心乱如麻……
+22,ユラントスク上等兵,<span class='scene-font-4'>くそっ！</span><br>エルデニの奴らめ、厄介なものを……！,<span class='scene-font-4'>可恶！</span><br>埃尔德尼那些人，<br>找来了什么麻烦的东西……！
+23,,<span class='scene-font-katari'>先の異様な報告が、現実の脅威となり、</span><br><span class='scene-font-katari'>上等兵は顔を強張らせる。</span>,<span class='scene-font-katari'>先前奇怪的报告成了现实的威胁，</span><br><span class='scene-font-katari'>上等士兵的脸色变得很差。</span>
+25,ユラントスク兵５,はぁ……はぁ……<br>くそ、どうなってるんだ……,哈啊……哈啊……<br>可恶，到底怎么回事……
+26,ユラントスク兵５,これじゃあもう、<br>いったい誰が味方なんだか……,这么说来，<br>现在到底谁是自己人……
+27,ユラントスク上等兵,<span class='scene-font-4'>おい、貴様！</span>,<span class='scene-font-4'>喂，那边的！</span>
+28,ユラントスク兵５,ひっ……！？<br>ち、違う！　違います！<br>俺は違います！　乱心してません！,咿……！<br>不、不是的！<br>我没有，我没有疯！
+29,ユラントスク上等兵,<span class='scene-font-4'>落ち着け！</span><br>お前は赤いトカゲを見たか！？<br>あれは今、どこにいる！？,<span class='scene-font-4'>冷静点！</span><br>你看到红色蜥蜴了吗！<br> 那东西现在在哪里！？
+30,ユラントスク兵５,あ、赤いトカゲなら、<br>さっき、この辺りで……,红、红色蜥蜴的话，<br>刚才就在这附近……
+31,ユラントスク兵５,ッ！？<br>じゃ、じゃあ、<br>アンタもとっくに乱心して……？,啊？！那就是说，您的精神或许也……？
+32,ユラントスク上等兵,何を馬鹿な！　上官を疑うとは……<br>貴様のほうこそ<br>乱心しているのではあるまいな！,胡说八道！居然怀疑长官……<br>你是不是才是精神错乱的那个？！
+33,ユラントスク兵５,だ、騙そうったってそうはいくか！<br>俺は正気だ……俺は騙されないぞ！,你、你还想骗我！<br>我很正常……我不会被骗的！
+34,,<span class='scene-font-katari'>半狂乱の兵士は上官である男に対し、</span><br><span class='scene-font-katari'>大きく刃を振り上げ詰め寄る。</span>,<span class='scene-font-katari'>半狂乱的士兵对上了他的长官，</span><br><span class='scene-font-katari'>挥舞着手中的大刀逼近他。</span>
+35,ユラントスク上等兵,なっ……！？<br><span class='scene-font-4'>やめろ！　貴様ぁッ！！</span>,你……！？<br><span class='scene-font-4'>住手! 你这家伙! ！</span>
+37,,<span class='scene-font-katari'>その場に動く者が居なくなるまで</span><br><span class='scene-font-katari'>深い霧の中、ユラントスク兵は</span><br><span class='scene-font-katari'>同士討ちを続けたのだった。</span>,<span class='scene-font-katari'>在浓雾中，</span><br><span class='scene-font-katari'>尤兰托斯克士兵自相残杀着，</span><br><span class='scene-font-katari'>直到不久后，一切归于寂静。</span>
+43,ビィ/碧,アルタイルに言われた通り、<br>適当に飛び回ってたけどよ……<br>本当にあれだけでよかったのか？,就像阿尔泰尔说的那样<br>随便跳来跳去……<br>真的就那么简单吗？
+44,アルタイル/阿尔泰尔,ええ、上出来です。<br>今頃、兵達はかなりの疑心暗鬼に<br>陥っているはずです。,是的，你做得很好。<br>现在士兵们应该已经开始疑神疑鬼了。
+46,アルタイル/阿尔泰尔,ユラントスクの斥候部隊を、<br>わざわざ生け捕りにした<br>甲斐がありました。,费了那么大力气<br>活捉了尤兰托斯克的侦察部队，<br>还是值得的。
+47,,<span class='scene-font-katari'>ユラントスクの斥候部隊が</span><br><span class='scene-font-katari'>乱心したという報告は、</span><br><span class='scene-font-katari'>変装したアルタイルの嘘だった。</span>,<span class='scene-font-katari'>尤兰托斯克的斥候部队</span><br><span class='scene-font-katari'>乱了阵脚的报告，</span><br><span class='scene-font-katari'>是阿尔泰尔变装后给出的误报。</span>
+59,,<span class='scene-font-katari'>斥候部隊を打ち倒し、</span><br><span class='scene-font-katari'>その鎧を手に入れたアルタイルは</span><br><span class='scene-font-katari'>味方にユラントスク兵への変装を指示。</span>,<span class='scene-font-katari'>阿尔泰尔打倒了一个侦察兵，</span><br><span class='scene-font-katari'>得到了他的盔甲，</span><br><span class='scene-font-katari'>还指示埃尔德尼士兵伪装成尤兰托斯克人。</span>
+76,,<span class='scene-font-katari'>そうして、ユラントスク兵を襲うことで</span><br><span class='scene-font-katari'>同士討ちが起きたかのように錯覚させ、</span><br><span class='scene-font-katari'>敵を混乱に陥れたのだった。</span>,<span class='scene-font-katari'>就这样，袭击尤兰托斯克士兵的行为</span><br><span class='scene-font-katari'>让人产生了友军误击的错觉，</span><br><span class='scene-font-katari'>使敌人陷入了混乱。</span>
+82,ビィ/碧,最初に作戦を聞いた時、<br>すぐバレるって思ったけどよ……<br>意外と皆信じちまうんだな。,第一次听说作战计划的时候，<br>还以为马上就会被识破……<br>没想到大家都相信了。
+83,アルタイル/阿尔泰尔,視界を奪う霧に、慣れぬ山道……<br>そして何より、戦場という極限の状況。,迷蒙的雾气、陌生的山路……<br>最重要的是，现在身在战场这种极端的地方。
+84,アルタイル/阿尔泰尔,彼らの精神は、<br>そもそも健全な状態では<br>ありませんでした。,他们的精神，<br>本从一开始就不安定。
+85,アルタイル/阿尔泰尔,後はそこに<span class='scene-font-spword'>「赤いトカゲ」</span>という、<br>より異質な条件を付けてやることで、<br>それが引き金となり、狂気は伝染する。,接下来，我们加上一个更加不同的条件，<br><span class='scene-font-spword'>“红色蜥蜴”</span><br>这个条件一旦触发，疯狂就会传染。
+86,アルタイル/阿尔泰尔,状況と環境が揃ったおかげで、<br>予想以上の効果が出たようですね。,万事俱备的条件下，<br>效果好像比预想的要好很多。
+88,エルデニ伝令兵３,報告します！<br>アヨール山脈におけるユラントスク軍<br>本隊の消滅を確認致しました。,报告长官！<br>在阿约尔山脉消灭了尤兰托斯克军本队。
+89,エルデニ伝令兵３,もはや軍を維持できるほどの<br>人員はおらず、<br>生存者は各自撤退し始めたようです。,现在对方已经没有<br>足够的人力维持军队，<br>幸存者们开始各自撤退。
+90,アルタイル/阿尔泰尔,分かりました。<br>では、迎撃部隊とシュラの部隊に<br>砦まで撤退するよう指示を。,明白了。<br>命令拦截部队和秋罗的部队<br>撤退到阿约尔山脉的堡垒。
+91,エルデニ伝令兵３,は……お言葉ですが、<br>敵兵が混乱している今ならば、<br>追撃し一網打尽にするチャンスでは？,嗯……恕我直言，<br>在敌兵混乱的现在，<br>难道不是我们追击并一网打尽的机会吗？
+92,アルタイル/阿尔泰尔,もうじき霧が晴れます。<br>そうすれば、こんな子供騙しは<br>通用しなくなるでしょう。,雾很快就会散去。<br>这样一来，<br>这种骗小孩的计策就行不通了。
+93,アルタイル/阿尔泰尔,既に敵の本隊は崩壊しました。<br>ならば、深追いは禁物です。,敌人的主力部队已经崩溃了。<br>穷鸟入怀，猎师不杀。<br>此刻穷追不舍亦是禁忌。
+94,エルデニ伝令兵３,はっ！<br>了解致しました。<br>両隊に伝えます。,是，长官。<br>我明白了，这就立刻转告两队。
+95,,<span class='scene-font-katari'>去っていく伝令兵を見送り、</span><br><span class='scene-font-katari'>アルタイルは、</span><br><span class='scene-font-katari'>姬塔に声を掛ける。</span>,<span class='scene-font-katari'>目送离开的传令兵，</span><br><span class='scene-font-katari'>阿尔泰尔向姬塔说道。</span>
+96,アルタイル/阿尔泰尔,私達も砦へ戻りましょう。<br>ここに長居する理由も<br>ありません。,我们也回堡垒去吧，<br>也没有理由在这里呆太久。
+97,,<span class='scene-font-katari'>そう告げるアルタイルに頷いた</span><br><span class='scene-font-katari'>姬塔は、深い霧に紛れ</span><br><span class='scene-font-katari'>前線の砦へと戻るのだった。</span>,<span class='scene-font-katari'>姬塔点点头，</span><br><span class='scene-font-katari'>两人在浓雾中回到了前线的堡垒。</span>
+103,エルデニ兵６,まさか、怪我人ひとり出さずに<br>ユラントスクを<br>撤退させてしまうとは！,竟然连一个伤员都没有出现<br>就让尤兰托斯克军队向后撤退了！
+104,エルデニ兵７,ああ……<br>これだけ見事な勝利は久しぶりだ！,啊……<br>好久没有打过这么漂亮的胜仗了！！
+105,,<span class='scene-font-katari'>今回の勝利によってエルデニ軍全体が、</span><br><span class='scene-font-katari'>アルタイル達の実力を認め始めていた。</span>,<span class='scene-font-katari'>伴随着此次胜利，</span><br><span class='scene-font-katari'>整个埃尔德尼军队开始认识到阿尔泰尔的实力。</span>
+106,,<span class='scene-font-katari'>兵達が抱く感情の変化を</span><br><span class='scene-font-katari'>ありありと感じて、姬塔と</span><br><span class='scene-font-katari'>ビィは安堵の表情で顔を見合わせる。</span>,<span class='scene-font-katari'>感觉到士兵们的感情变化，</span><span class='scene-font-katari'>姬塔和碧相视一笑。</span>
+107,ルリア/露莉亚,姬塔！<br>皆さん怪我はありませんか？,姬塔！<br>大家都没受伤吧？
+108,ビィ/碧,おう！<br>姬塔もアルタイルも<br>ピンピンしてるぜ！,没有！<br>姬塔和阿尔泰尔都很精神！
+109,,<span class='scene-font-katari'>それを聞き、後方支援部隊の兵達と</span><br><span class='scene-font-katari'>一足先に砦へ戻っていたルリアは</span><br><span class='scene-font-katari'>ほっとしたような表情を浮かべる。</span>,<span class='scene-font-katari'>听到消息，</span><br><span class='scene-font-katari'>露莉亚和作为支援的士兵们先回到了堡垒。</span><br><span class='scene-font-katari'>此时露出了松了一口气的表情。</span>
+110,シュラ/秋罗,アルタイル様！,阿尔泰尔大人！
+111,シュラ/秋罗,相変わらずの<br>見事な采配でございました。<br>兵達も久々の勝利を喜んでおります。,您的指挥还是一如既往的优秀。<br>士兵们也为久违的胜利感到高兴。
+112,シュラ/秋罗,そちらの方も、<br>まさに一騎当千の<br>見事な戦いぶりでございました。,那边那位也是，<br>简直可以说是一骑当千，<br>相当精彩的战斗。
+113,シュラ/秋罗,貴方が、アルタイル様が<br>お仕えしているという<br>姬塔様でございますね。,您应该就是<br>如今阿尔泰尔大人所效力的<br>姬塔大人吧。
+114,シュラ/秋罗,ご挨拶が遅れて申し訳ございません。<br>私の名はシュラ。<br>エルデニで軍師を務めております。,很抱歉，还没介绍自己。<br>我的名字是秋罗，<br>是埃尔德尼的军师。
+115,シュラ/秋罗,此度の援軍、誠に感謝致します。<br>先程の戦闘を見せて頂きましたが、<br>御年に見合わぬ強さをお持ちの様子。,非常感谢这次的援助，<br>刚才的战斗，<br>让我看到了与您的年龄完全不相符的强大。
+116,シュラ/秋罗,「銀の軍師」アルタイル様に続き、<br>これほど心強い味方はありません。<br>引き続き、よろしくお願い致します。,继“银之军师”阿尔泰尔大人之后，<br>又有了如此强大的盟友，<br>真是令人安心。还请继续帮助我们吧！
+117,,<span class='scene-font-katari'>そう言って、姬塔と</span><br><span class='scene-font-katari'>握手を交わしたシュラは</span><br><span class='scene-font-katari'>視線をルリアとビィに向ける。</span>,<span class='scene-font-katari'>秋罗一边说着，</span><br><span class='scene-font-katari'>和姬塔握了手，</span><br><span class='scene-font-katari'>视线随即转向露莉亚和碧。</span>
+118,シュラ/秋罗,ポラリス様よりお話は伺っています。<br>おふたりも、騎空団に属する<br>騎空士なのだとか。,从珀拉莉丝大人那里听说了，<br>两位也是骑空团的骑空士？
+119,ルリア/露莉亚,初めまして！<br>私はルリアって言います。<br>そして、こっちはビィさんです！,很高兴见到你！<br>我叫露莉亚。<br>这边这位是阿碧！
+120,シュラ/秋罗,改めまして、よろしくお願い致します。<br>ルリア様、ビィ様。,很高兴见到你们。<br>露莉亚大人，碧大人。
+121,,<span class='scene-font-katari'>シュラからの挨拶を受け、</span><br><span class='scene-font-katari'>ふと、気になった様子で、</span><br><span class='scene-font-katari'>ルリアは声を上げる。</span>,<span class='scene-font-katari'>与秋罗问好后，</span><br><span class='scene-font-katari'>露莉亚想起在意的事，</span><br><span class='scene-font-katari'>好奇地出声。</span>
+122,ルリア/露莉亚,そういえば……<br>アルタイルさんとシュラさんは<br>お知り合いなんですよね。,这么说……<br>阿尔泰尔先生和秋罗小姐<br>是旧识吧。
+123,アルタイル/阿尔泰尔,ええ……<br>シュラは私が<br>スフィリアに属していた時の部下です。,是的……<br>秋罗是我从属斯菲利亚时的部下。
+124,アルタイル/阿尔泰尔,私がスフィリアを離れる前に、<br>母国であるスイに帰ったと<br>記憶していたのですが……,我记得在我离开斯菲利亚之前，<br>你就已经回到了祖国苏伊……
+125,アルタイル/阿尔泰尔,エルデニとスイは友好国であっても、<br>軍事同盟は結んでいなかったはず。<br>あなたは何故エルデニに？,即使埃尔德尼和苏伊是友邦，<br>两国也不可能建立军事联盟。<br>你为什么来埃尔德尼？
+126,,<span class='scene-font-katari'>何気ないアルタイルの問いに、</span><br><span class='scene-font-katari'>一瞬だけシュラの視線が泳ぐ。</span>,<span class='scene-font-katari'>面对阿尔泰尔不经意的提问，</span><br><span class='scene-font-katari'>秋罗的视线在一瞬间游移。</span>
+127,シュラ/秋罗,それは色々と、<br>事情がありまして……<br>ええ、まぁ。,有很多原因的……<br>嗯，算是这样。
+128,アルタイル/阿尔泰尔,…………,…………
+131,エルデニ兵４,アルタイル様！<br>お話し中申し訳ありません、<br>少々ご相談が……,阿尔泰尔大人！<br>很抱歉打扰您谈话，<br>我有要事相谈……
+132,アルタイル/阿尔泰尔,分かりました。<br>この後の動きについて、<br>私の方からも話があります。,我知道了。<br>关于接下来的行动，<br>我也有话要说。
+133,,<span class='scene-font-katari'>シュラに何か言いたげな</span><br><span class='scene-font-katari'>目を向けながら、アルタイルは</span><br><span class='scene-font-katari'>エルデニ兵と共に去っていく。</span>,<span class='scene-font-katari'>他看着秋罗，</span><br><span class='scene-font-katari'>似乎想说些什么，</span><br><span class='scene-font-katari'>但还是跟埃尔德尼士兵一起离开了。</span>
+134,シュラ/秋罗,…………,……
+135,,<span class='scene-font-katari'>アルタイルの視線に気づいていた</span><br><span class='scene-font-katari'>シュラは、やや居心地が悪そうに</span><br><span class='scene-font-katari'>視線を逸らすのだった。</span>,<span class='scene-font-katari'>秋罗注意到了阿尔泰尔的目光，</span><br><span class='scene-font-katari'>有些不自在地移开了视线。</span>
+info,,,scene_evt200429_cp1_q4_s10
+译者,Lunatis,,
+备注,初稿完成于2020.5.1,,

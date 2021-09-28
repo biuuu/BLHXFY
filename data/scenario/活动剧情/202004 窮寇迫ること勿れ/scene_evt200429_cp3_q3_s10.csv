@@ -1,0 +1,96 @@
+id,name,text,trans
+0-chapter_name,,第3話 三軍暴骨,
+0-synopsis,,タタル基地を奪還してから四日目、遂にエルデニ軍はヌフ平原へと進軍する。しかし、そこへ現れたロウファの一撃によりエルデニ軍の前線は崩壊。圧倒的な力を前に戦意を失った兵達を見て、アルタイルは即座に撤退を指示する。しかし、エルデニ軍後方に現れたシュラの実妹であるランファ率いるユラントスクの増援部隊により挟撃され、エルデニ軍は絶体絶命の窮地に陥るのだった。,在夺回塔塔尔基地的第四天，埃尔德尼军队终于向努夫平原挺进。 但是，在罗法的攻击下，埃尔德尼的前线崩溃了。看到在压倒性的力量面前失去战斗意志的士兵们，阿尔泰尔下达了立即撤退的指示。但是，在埃尔德尼军后方出现了兰华，她率领尤兰托斯克增援部队进行夹击，埃尔德尼军陷入了绝境。
+1,,<span class='scene-font-katari'>それは、エルデニ軍が</span><br><span class='scene-font-katari'>タタル基地を奪還してから</span><br><span class='scene-font-katari'>四日目の早朝の事だった。</span>,<span class='scene-font-katari'>那是埃尔德尼军队<br>夺回塔塔尔基地的第四天清晨。</span>
+3,エルデニ兵２/埃尔德尼士兵2,<span class='scene-font-4'>た、大変です！　アルタイル様！</span>,不、不好了！<br>阿尔泰尔大人！
+4,アルタイル/阿尔泰尔,何です？<br>朝から騒々しい……,怎么了？从早上开始就很吵……
+5,エルデニ兵２/埃尔德尼士兵2,ザハ市の偵察に出ていた<br>斥候部隊が帰って来たのですが……,去扎哈市侦察的士兵们回来了……
+6,エルデニ兵２/埃尔德尼士兵2,ユラントスク軍に発見されたため<br>重傷を負っており、<br>部隊の数名が捕まってしまったと……,因为被尤兰托斯克军队发现而受了重伤，<br>小队中的几个人还被抓走了……
+7,アルタイル/阿尔泰尔,っ……！？,唔……！？
+8,,<span class='scene-font-katari'>報告を聞いたアルタイルは、</span><br><span class='scene-font-katari'>すぐさま基地の医務室へと走る。</span>,<span class='scene-font-katari'>听到报告的阿尔泰尔，<br>马上跑向了基地的医疗室。</span>
+15,アルタイル/阿尔泰尔,状況は？,情况怎么样？
+16,シュラ/秋罗,はっ。<br>一通りの手当ては済んでおり、<br>皆、容態は安定しております。,报告。医师已经处理好了，<br>大家的情况都很稳定。
+17,,<span class='scene-font-katari'>そう告げられ、</span><br><span class='scene-font-katari'>案内されたベッドの傍らには、</span><br><span class='scene-font-katari'>ポラリスの姿があった。</span>,<span class='scene-font-katari'>回答的是秋罗，珀拉莉丝则站在床边。</span>
+18,ポラリス/珀拉莉丝,今眠ったところよ。<br>話なら私が聞いておいたから、<br>そっとしてあげてほしいのだわ。,他们刚刚睡下。<br>传回的情报，我已经代为接收了，<br>希望你不要介意。
+19,アルタイル/阿尔泰尔,わかりました……<br>報告をお願いします。,我明白了……那么请报告。
+20,,<span class='scene-font-katari'>アルタイル達は斥候部隊を気遣い、</span><br><span class='scene-font-katari'>医務室を離れて</span><br><span class='scene-font-katari'>状況の確認を行う。</span>,<span class='scene-font-katari'>牵挂着被掳走的侦察部队，<br>阿尔泰尔他们离开了医务室进行情况确认。</span>
+25,ポラリス/珀拉莉丝,ユラントスク軍は、<br>ザハ市の手前に<br>陣を展開しているみたい。,尤兰托斯克军队似乎<br>驻扎在了扎哈市附近。
+26,ポラリス/珀拉莉丝,本営自体は<br>ザハ市に置いてるみたいだけど、<br>基本的には将校の滞在用ね。,大本营倒是在扎哈市，<br>基本上是给军官住宿用的。
+27,シュラ/秋罗,そうしますと……<br>決戦はやはり、<br>ヌフ平原が舞台となりそうですね。,这样的话……<br>看来决战还是以努夫平原为舞台的。
+28,アルタイル/阿尔泰尔,ザハ市には、これまでの砦や基地と違い<br>エルデニ、ユラントスク両国の<br>民間人が多数暮らしています。,扎哈市有许多来自<br>埃尔德尼和尤兰托斯克两国的平民，<br>不同于以往的堡垒和基地。
+29,アルタイル/阿尔泰尔,都市は人あってのもの。<br>我々の目的としても、<br>ザハ市を戦場にすることは出来ません。,城市因人而存在。<br>我们的目标<br>也不是把扎哈市变成战场。
+30,,<span class='scene-font-katari'>アルタイルは</span><br><span class='scene-font-katari'>いつになく緊迫した様子で、</span><br><span class='scene-font-katari'>口元に手をあて頭を悩ませる。</span>,<span class='scene-font-katari'>阿尔泰尔显得比任何时候都紧张，<br>他用手碰了碰嘴<br>竭尽全力思索着。</span>
+31,アルタイル/阿尔泰尔,やむを得ませんね……<br>我々もすぐ出陣しましょう。,没办法了……<br>我们也马上出阵吧。
+32,アルタイル/阿尔泰尔,こちらの情報が<br>漏れてしまっていた場合、<br>動かずにいることは何よりの下策です。,如果我方信息已被泄露，<br>按兵不动是最差的策略。
+33,アルタイル/阿尔泰尔,囚われた斥候を救い出すにしても、<br>とにかく今は進むしかありません。,无论如何，我们现在只能前进，<br>救出那些被关押的侦察兵。
+34,,<span class='scene-font-katari'>ポラリス、シュラもまた、</span><br><span class='scene-font-katari'>同意を示すように</span><br><span class='scene-font-katari'>視線と頷きを返す。</span>,<span class='scene-font-katari'>珀拉莉丝和秋罗都点头表示同意。</span>
+35,,<span class='scene-font-katari'>こうしてエルデニ軍は、</span><br><span class='scene-font-katari'>ザハ市奪還のための最後の戦場へ</span><br><span class='scene-font-katari'>出陣するのだった。</span>,<span class='scene-font-katari'>就这样，埃尔德尼军队来到了<br>夺回扎哈城的最后战场。</span>
+41,アルタイル/阿尔泰尔,──この出陣は<br>あくまで威力偵察に留めます。<br>情報の収集が最優先です。,这次行动只是为了侦查敌方的威力，<br>收集情报是首要任务。
+42,アルタイル/阿尔泰尔,各自、戦闘が発生したら、<br>最低限の応戦の後、<br>すぐに撤退するようにしてください。,如果发生战斗，<br>请在最低限度的应战后立即撤退。
+43,エルデニ兵達/埃尔德尼士兵们,<span class='scene-font-4'>はっ！</span>,<span class='scene-font-4'>是！</span>
+44,,<span class='scene-font-katari'>改めてアルタイルから指示を受けると、</span><br><span class='scene-font-katari'>兵士達は各々の持ち場へと戻っていく。</span>,<span class='scene-font-katari'>接到阿尔泰尔的指示，<br>士兵们各自返回自己负责的区域。</span>
+45,ビィ/碧,いよいよ一番でっけぇ戦い<br>なんだよな……,终于到了最激烈的战斗了啊……
+45-sel1_txt,,<span class='scene-font-katari'>頑張ろう</span>,<span class='scene-font-katari'>我会加油的！</span>
+45-sel2_txt,,<span class='scene-font-katari'>緊張してきた</span>,<span class='scene-font-katari'>我开始紧张了……</span>
+47,アルタイル/阿尔泰尔,姬塔殿の力は<br>頼りにしていますが、<br>気負い過ぎることはありません。,姬塔殿下的力量很强，<br>但也不要太过自信。
+48,アルタイル/阿尔泰尔,何より戦場では、<br>生き延びることが最も大切です。<br>それを忘れないようにしてください。,在战场上，活下来是最重要的……<br>请不要忘记这一点。
+50,アルタイル/阿尔泰尔,警戒する、ということは、<br>気を張るということでもあります。,多警戒周围，提高警惕。
+51,アルタイル/阿尔泰尔,油断するよりかは、よほど賢明です。<br>戦場では、<br>常に何が起こるかわかりませんからね。,不要疏忽大意，<br>你永远不知道在战场上会发生什么。
+52,,<span class='scene-font-katari'>周囲を索敵しながらも、</span><br><span class='scene-font-katari'>ヌフ平原を進むエルデニ軍。</span>,<span class='scene-font-katari'>埃尔德尼军队在努夫平原上行进，<br>侦察着周围的敌人。</span>
+53,,<span class='scene-font-katari'>ザハ市までの道のりを半分も越えた頃、</span><br><span class='scene-font-katari'>上空から進路を見ていたビィが、</span><br><span class='scene-font-katari'>不思議そうな声を上げる。</span>,<span class='scene-font-katari'>离扎哈市还有一半路程的时候，<br>从半空中看着前进方向的碧<br>发出了不可思议的声音。</span>
+56,ビィ/碧,んん？<br>なんだありゃあ……？,嗯？？那是什么啊……？
+59,ビィ/碧,なぁなぁ、ザハ市の方から誰か来るぜ。<br>ひとりでこっちに<br>歩いて来てるんだけどよぅ……,呐呐，<br>扎哈市那边有谁过来了！<br>一个人向这边走来了哦……
+60,アルタイル/阿尔泰尔,ひとりで……？<br>その人物の詳細は分かりますか？,一个人……？<br>能知道那个人的详细情况吗？
+61,ビィ/碧,でっかいおっさんだぜ！<br>たぶんドラフの……,是个大块头大叔啊！<br>也许是多拉夫族的……
+62,ビィ/碧,あ、いや、角が無いから、<br>ドラフじゃねーか……,啊，不。<br>他没有角，<br>应该不是多拉夫族吧……
+63,アルタイル/阿尔泰尔,<span class='scene-font-kokoro'>（ドラフ男性と</span><br><span class='scene-font-kokoro'>見間違えるほどの大男……？）</span>,（一个足以让你误以为<br>是多拉夫男人的大块头……？）
+64,アルタイル/阿尔泰尔,<span class='scene-font-kokoro'>（ッ！？　まさか……）</span>,（！？难道……）
+65,,<span class='scene-font-katari'>アルタイルは最悪の事態を予感し、</span><br><span class='scene-font-katari'>すぐさま声を張り上げる。</span>,<span class='scene-font-katari'>阿尔泰尔预感到了最坏的情况，<br>立即提高了声音。</span>
+66,アルタイル/阿尔泰尔,<span class='scene-font-4'>全隊停止！</span><br>すぐに迎撃態勢を──,<span class='scene-font-4'>全军停止！进入迎击状态！</span>
+67,,<span class='scene-font-katari'>しかし、それはわずかに手遅れだった。</span>,<span class='scene-font-katari'>然而，为时已晚。</span>
+68,ロウファ/罗法,<span class='scene-font-4'>おおおおっ！！</span>,<span class='scene-font-4'>哦哦哦哦——！！</span>
+76,,<span class='scene-font-katari'>獣のような咆哮と共に、</span><br><span class='scene-font-katari'>部隊前線には衝撃と破壊音が広がる。</span>,<span class='scene-font-katari'>伴随着野兽般的咆哮，<br>部队前线传来了冲击和破坏声。</span>
+77,,<span class='scene-font-katari'>ロウファの一撃は大きく地面を抉り、</span><br><span class='scene-font-katari'>数十名の兵士達を</span><br><span class='scene-font-katari'>再起不能としたのだった。</span>,<span class='scene-font-katari'>罗法的一击撕裂了地面，<br>使数十名士兵倒在了地上。</span>
+78,エルデニ兵３/埃尔德尼士兵3,な、何が起きたんだ……？,到、到底发生了什么……？
+79,エルデニ兵４/埃尔德尼士兵4,あいつ……！<br>ひとりでザハを陥落させた……,那家伙……！<br>是一个人攻陷了扎哈市的那个……
+81,ロウファ/罗法,…………,…………
+82,エルデニ兵１/埃尔德尼士兵1,くそっ！<br>また好きになんてさせるか！<br>こっちにゃ銀の軍師がついてんだ！,可恶！不会让他再为所欲为了！<br>我们这边可是有银之军师呢！
+85,アルタイル/阿尔泰尔,っ！？<br><span class='scene-font-4'>いけません！　退きなさい！</span>,<span class='scene-font-4'>！？<br>不！快退后！</span>
+86,,<span class='scene-font-katari'>アルタイルの静止も虚しく、</span><br><span class='scene-font-katari'>数名の兵士が</span><br><span class='scene-font-katari'>無謀にもロウファへと襲い掛かる。</span>,<span class='scene-font-katari'>阿尔泰尔的指示成了徒劳，<br>数名士兵鲁莽地朝罗法攻去。</span>
+87,エルデニ兵１/埃尔德尼士兵1,<span class='scene-font-4'>うおおおお！！</span>,<span class='scene-font-4'>哦哦哦哦——！！</span>
+88,ロウファ/罗法,<span class='scene-font-4'>ふんっ！</span>,<span class='scene-font-4'>哼！</span>
+93,,<span class='scene-font-katari'>ロウファが無造作に振るった一撃は、</span><br><span class='scene-font-katari'>かすっただけで</span><br><span class='scene-font-katari'>兵士達を物言わぬ骸に変える。</span>,<span class='scene-font-katari'>罗法随意挥出的一击，<br>仅仅擦过士兵们，<br>就让他们变成了地上沉默的尸骸。</span>
+94,ロウファ/罗法,脆い……<br>所詮はこんなものか……,真弱……终究是这样啊……
+95,エルデニ兵３/埃尔德尼士兵3,ひっ……,咿……
+96,アルタイル/阿尔泰尔,<span class='scene-font-kokoro'>（最初の一撃で、</span><br><span class='scene-font-kokoro'>前線が崩壊……）</span>,<span class='scene-font-kokoro'>（他的第一击，就已经使前线崩溃……）</span>
+97,アルタイル/阿尔泰尔,<span class='scene-font-kokoro'>（何より、あの異常な強さに、</span><br><span class='scene-font-kokoro'>兵が完全に呑まれてしまっている……</span><br><span class='scene-font-kokoro'>とても戦える状態じゃない……）</span>,<span class='scene-font-kokoro'>（更重要的是，<br>那种异常的强大已经把士兵完全吞没了……<br>军队已经没了战斗的状态……）</span>
+98,,<span class='scene-font-katari'>アルタイルは瞬時に状況を判断し、</span><br><span class='scene-font-katari'>声を張り上げて指示を伝える。</span>,<span class='scene-font-katari'>阿尔泰尔在瞬间判断情况后<br>提高声音传达指示。</span>
+99,アルタイル/阿尔泰尔,<span class='scene-font-4'>全軍撤退！</span><br>陣形は放棄して構いません！<br>タタル基地まで生きて戻るのです！,<span class='scene-font-4'>全军撤退！<br>放弃阵型也没关系！<br>我们要活着回到塔塔尔基地！</span>
+100,,<span class='scene-font-katari'>アルタイルの決断に、</span><br><span class='scene-font-katari'>エルデニ兵達は蜘蛛の子を散らすように</span><br><span class='scene-font-katari'>来た道を引き返していく。</span>,<span class='scene-font-katari'>阿尔泰尔的指示下，<br>埃尔德尼的士兵们<br>七零八落地沿着原路返回。</span>
+104,,<span class='scene-font-katari'>しかし、撤退は敵の読み通りであり、</span><br><span class='scene-font-katari'>最後尾にはまた別の脅威が、</span><br><span class='scene-font-katari'>立ち塞がっているのだった。</span>,<span class='scene-font-katari'>但是，这次撤退正中敌方下怀，<br>在他们的前方<br>还有另一个威胁阻挡着他们。</span>
+105,ランファ/兰华,ここは通しません。<br>すべては、ロウファ様の<br>お心のままに……！,我不会让你们过去的。<br>一切都在罗法大人的掌控之中……！
+106,シュラ/秋罗,ランファ……！<br>貴方は……,兰华……！你……
+107,,<span class='scene-font-katari'>祖国を裏切り、</span><br><span class='scene-font-katari'>今また敵国の将として</span><br><span class='scene-font-katari'>行く手を遮る罪深き妹。</span>,<span class='scene-font-katari'>背叛祖国，<br>现在又成为敌国之将的<br>罪孽深重的妹妹。
+108,,<span class='scene-font-katari'>その姿を捉えたシュラは、</span><br><span class='scene-font-katari'>沸き上がる感情のまま武器を握り、</span><br><span class='scene-font-katari'>その首を討ち取らんと睨みつけた。</span>,<span class='scene-font-katari'>看到她的身影，<br>秋罗拔出了武器，<br>看着她的目光中充斥着战意。</span>
+109,エルデニ兵５/埃尔德尼士兵5,シュ、シュラ様！<br>このままでは挟み撃ちです！<br>どうかご指示を！,秋罗大人！<br>这样下去会被夹击的！<br>还请指示！
+110,シュラ/秋罗,っ……！,唔……！
+111,シュラ/秋罗,<span class='scene-font-kokoro'>（私は何を……</span><br><span class='scene-font-kokoro'>感情に飲まれてはいけないと</span><br><span class='scene-font-kokoro'>言われた矢先に……！）</span>,<span class='scene-font-kokoro'>（我在做什么……<br>明明不久前还被提醒<br>不能被私情影响的……!）</span>
+112,シュラ/秋罗,撤退する前衛部隊と合流し、<br>即席で陣を作り突破します！<br>縦隊となるよう誘導してください！,与撤退的先锋队汇合，<br>组成纵队的阵势突破！
+113,エルデニ兵５/埃尔德尼士兵5,は、はいっ！,是、是！
+115,ランファ/兰华,…………,…………
+119,,<span class='scene-font-katari'>一方、</span><br><span class='scene-font-katari'>ロウファが猛威を振るう前線には、</span><br><span class='scene-font-katari'>徐々に兵の姿が無くなりつつあった。</span>,<span class='scene-font-katari'>另一边，在罗法所在的前线上，<br>士兵的身影逐渐消失。</span>
+121,ロウファ/罗法,残ったのは「銀の軍師」と、<br>騎空士と言えど年端もいかぬ童か。,留下的是“银之军师”<br>和虽说是骑空士，<br>但看起来年龄很小的孩子么。
+122,ロウファ/罗法,貴様らごときで、<br>このロウファに相対する<br>殿が務まると思っているのか？,你以为凭你们这种人，<br>就能跟我罗法对抗吗？
+123,ビィ/碧,へへっ……<br>子供だからって、<br>見くびってもらっちゃ困るぜ！,嘿嘿……就算是小孩子，<br>也不能以貌取人啊！
+124,ビィ/碧,姬塔は、<br>そこらのやつより、<br>よっぽど強いんだからな！,姬塔可比你这家伙强多了！
+125,ロウファ/罗法,赤いトカゲ……<br>アヨール山脈より<br>逃げ帰った兵の報告にあったな。,红色蜥蜴……<br>从阿约尔山脉逃回来的<br>士兵的报告中出现的东西。
+126,ロウファ/罗法,エルデニの新兵器だとかなんとか……<br>真偽のほどはわからぬが、<br>目障りには違いない。,还以为是埃尔德尼的新武器……<br>虽然不知道报告内容是真是假，<br>但应该只是个障眼法。
+127,ロウファ/罗法,<span class='scene-font-4'>ここで潰れておけ！</span><br><span class='scene-font-4'>トカゲェ！！</span>,<span class='scene-font-4'>在这里被我砍倒吧！蜥蜴！</span>
+128,ビィ/碧,ひっ！？,呀！？
+128-sel1_txt,,<span class='scene-font-katari'>ビィ！</span>,<span class='scene-font-katari'>碧！</span>
+130,,<span class='scene-font-katari'>ロウファはその巨体に見合わぬ速さで、</span><br><span class='scene-font-katari'>瞬時にビィを間合いに捉え、</span><br><span class='scene-font-katari'>地をも砕く一撃を叩き込もうとする。</span>,<span class='scene-font-katari'>罗法以与他庞大的身躯不相称的速度，<br>在瞬间捕捉到了碧的身影，<br>准备发起能将大地击碎的重击。</span>
+131,,<span class='scene-font-katari'>姬塔は咄嗟に駆けるも、</span><br><span class='scene-font-katari'>僅かにビィに手が届かない。</span>,<span class='scene-font-katari'>姬塔疾驰向前，<br>仅差一点就能碰到碧。</span>
+136,,<span class='scene-font-katari'>しかし、</span><br><span class='scene-font-katari'>戦禍に蹂躙される平原に響いたのは、</span><br><span class='scene-font-katari'>鋼と刃が奏でる、勇ましい音だった。</span>,<span class='scene-font-katari'>在这饱受战祸蹂躏的平原上，<br>响起了钢铁和刀刃共同奏出的<br>铿锵有力的声音。</span>
+info,,,scene_evt200429_cp3_q3_s10
+译者,Lunatis,,
+备注,初稿完成于2020.5.3,,

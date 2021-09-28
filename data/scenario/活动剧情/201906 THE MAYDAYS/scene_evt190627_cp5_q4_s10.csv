@@ -1,0 +1,29 @@
+id,name,text,trans
+0-chapter_name,,第5話 ワニワニビーツ,第5話 ワニワニビツ
+0-synopsis,,浜辺の避難誘導が終了したのを確認し、サメ達を殲滅すべく力を解放しようとするサンダルフォン。しかし商工会の代表のひとりがサメを駆除しようと現れ、サメ達の標的になる。サンダルフォンは人間の無謀さに呆れて毒づきながらも庇い、サメ達に応戦するのだった。,确认了海滩的避难诱导结束，为了歼灭鲨鱼而打算解放力量的圣德芬。但是工商会代表中的一人为了驱逐鲨鱼而现身，成为了鲨鱼们的目标。圣德芬虽然无奈人类的无谋出言训斥但还是上前庇护，应战起了鲨鱼。
+2,,<span class='scene-font-katari'>ブルースの咆哮が響き渡る頃、</span><br><span class='scene-font-katari'>サンダルフォンは奮闘を続けており……</span>,<span class='scene-font-katari'>就在布鲁斯的咆哮响彻之时，</span><br><span class='scene-font-katari'>圣德芬还在继续奋战……</span>
+3,サンダルフォン/圣德芬,はあぁ！,哈啊啊！
+8,サンダルフォン/圣德芬,失せろ！,消失吧！
+11,サメ,<span class='scene-font-4'>Shark……！</span>,<span class='scene-font-4'>Shark……！</span>
+13,サンダルフォン/圣德芬,フン……<br>浜辺の避難誘導は終わったようだな。,哼……<br>沙滩的避难诱导好像结束了啊。
+14,サンダルフォン/圣德芬,では本気を出させて貰おう。<br>何匹いようと一気に終わらせてやる。,那就让我拿出全力吧。<br>无论有多少条我都一口气让你们结束。
+15,サンダルフォン/圣德芬,天司の力を舐めるなよ──,不要小瞧天司的力量──
+21,繁華街の商人/繁华街的商人,クソッタレ！<br>この害獣共め！,混蛋！<br>你们这些害兽！
+22,サンダルフォン/圣德芬,人間だと？<br>なぜわざわざ前線に来て……,竟是人类？<br>为什么要特地来前线……
+23,繁華街の商人/繁华街的商人,避難など必要あるか！<br>さっさと駆除せねば経済が回らん！,根本就没必要避难！<br>不快点驱除它们经济就不会恢复！
+24,サンダルフォン/圣德芬,<span class='scene-font-4'>馬鹿！</span><br>奴等の餌食になりたいのか！？,<span class='scene-font-4'>笨蛋！</span><br>你想成为那些家伙的饵食吗！？
+25,繁華街の商人/繁华街的商人,<span class='scene-font-4'>ウルサァァァイ！</span>,<span class='scene-font-4'>吵死了啊啊啊！</span>
+29,サメ/鲨鱼,<span class='scene-font-4'>Shark！ Shark！ Shark！</span>,<span class='scene-font-4'>Shark！ Shark！ Shark！</span>
+31,繁華街の商人/繁华街的商人,ヒィッ……！？,呀……！？
+32,サンダルフォン/圣德芬,チィッ！<br>馬鹿すぎて始末に負えん……！,切！<br>真是太蠢了都不好处理……！
+33,サンダルフォン/圣德芬,だが……,但是……
+34,サンダルフォン/圣德芬,<span class='scene-font-4'>クソォォォ！</span>,<span class='scene-font-4'>可恶啊啊啊！</span>
+35,サメ,<span class='scene-font-4'>Sharrrk！</span>,<span class='scene-font-4'>Sharrrk！</span>
+41,サンダルフォン/圣德芬,…………ッ！,…………！
+42,サンダルフォン/圣德芬,邪魔だ……<br>さっさとどこかに隠れていろ！,碍手碍脚的……<br>快给我滚到一边藏起来！
+43,繁華街の商人/繁华街的商人,あ、あぁ……！,啊，啊啊……！
+48,サメ/鲨鱼,<span class='scene-font-4'>Shark！ Shark！ Shark！</span>,<span class='scene-font-4'>Shark！ Shark！ Shark！</span>
+49,サンダルフォン/圣德芬,来い……<br>俺を狙え。<br>俺の血を嗅いで集まって来い。,来吧……<br>瞄准我。<br>闻着我的血腥味过来吧。
+50,サンダルフォン/圣德芬,<span class='scene-font-4'>この空は俺達が守る──</span>,<span class='scene-font-4'>这片天空由我们来保护──</span>
+info,,,scene_evt190627_cp5_q4_s10
+,,,

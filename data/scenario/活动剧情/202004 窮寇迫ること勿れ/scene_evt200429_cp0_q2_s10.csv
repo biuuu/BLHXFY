@@ -1,0 +1,204 @@
+id,name,text,trans
+0-chapter_name,,エンディング,终章
+0-synopsis,,姬塔達に敗れた飛将軍は、ロウファの姿へと戻る。ロウファの真意を知ったレオニスは、ロウファに対し捕虜として捕らえていたランファと共に過酷な山奥への流刑を言い渡し、エルデニ国を身分による差別のない国にしてみせると誓う。その後、姬塔とアルタイル達は見事ザハ市を奪還し、戦争を停戦へと導いたのだった。,败给姬塔一行的飞将军变回了罗法。得知罗法的真正意图后，雷欧尼斯对罗法宣判，将他与作为俘虏的兰华一起流放到环境严酷的深山里。他发誓要把埃尔德尼国建设成没有血统歧视的国家。姬塔和阿尔泰尔成功夺回了扎哈市，结束了这场战争。
+
+4,飛将軍,<span class='scene-font-4'>ぐ、ぉぉぉぉッ……！！</span>,<span class='scene-font-4'>唔、唔唔唔唔……！！</span>
+18,,<span class='scene-font-katari'>激闘の末、</span><br><span class='scene-font-katari'>遂に飛将軍はその合体を解き、</span><br><span class='scene-font-katari'>地面へと膝をつく。</span>,<span class='scene-font-katari'>经过一番激烈的战斗，<br>飞将军终于解开了合体，<br>跪倒在地。</span>
+19,エルデニ兵/埃尔德尼士兵,勝った……,赢了……
+20,エルデニ兵/埃尔德尼士兵,<span class='scene-font-4'>俺達、勝ったんだ！！</span>,<span class='scene-font-4'>我们赢了！</span>
+21,,<span class='scene-font-katari'>兵のひとりが呟いた言葉をきっかけに、</span><br><span class='scene-font-katari'>エルデニ兵達から地を震わせるほどの</span><br><span class='scene-font-katari'>歓声が巻き起こる。</span>,<span class='scene-font-katari'>一名士兵的话<br>引起了埃尔德尼士兵们欢呼，<br>声响响彻了整个城市。</span>
+22,星晶獣セキトバ,────……,————……
+23,ロウファ/罗法,見事なり……<br>我の、完敗だ。,太漂亮了……<br>是我输了。
+24,,<span class='scene-font-katari'>ただ感服した様子のロウファに、</span><br><span class='scene-font-katari'>レオニスはゆっくりと近づいていく。</span>,<span class='scene-font-katari'>雷欧尼斯慢慢地走近<br>露出钦佩表情的罗法。</span>
+25,レオニス/雷欧尼斯,無様だな、ロウファ。<br>義父を殺し、国を滅ぼし、<br>果ては主すら殺めた男。,真是丢脸啊，罗法。<br>杀死义父，毁灭国家，<br>最后甚至杀死了自己效忠的对象。
+26,レオニス/雷欧尼斯,何が、お前をそうさせた。<br>お前の望みは一体何だったんだ。,你为什么这么做，<br>你到底想要什么。
+27,ロウファ/罗法,我は……,我……
+32,,<span class='scene-font-katari'>ロウファはただ空を仰いだまま、</span><br><span class='scene-font-katari'>ゆっくりと口を開く。</span>,<span class='scene-font-katari'>罗法只是仰望着天空，<br>慢慢地开口。</span>
+38,ロウファ/罗法,我はただ、「普通」が欲しかった。<br>人として当たり前の日々に、<br>焦がれていたのだ。,我只想做一个“普通”的人。<br>作为一个人，<br>对未来的日子感到焦虑。
+39,ロウファ/罗法,この身体も、怪力も、身分も、<br>生まれも血筋も。<br>我が望んで得たものではない。,我的身体、我的怪力、<br>我的身份、我的出身和血统，<br>全都不是我想要的。
+40,ロウファ/罗法,ただの<span class='scene-font-spword'>“人”</span>になりたい。<br>人として、当たり前に生きたい。<br>そう願うのは、罪だったのだろうか。,我只是想成为一个<span class='scene-font-spword'>“人”</span>。<br>作为一个人、活得堂堂正正。<br>难道这个希望是一种罪过吗。
+
+46,,<span class='scene-font-katari'>僅かに震えるその声に、</span><br><span class='scene-font-katari'>ロウファの本心を見たレオニスは</span><br><span class='scene-font-katari'>そっと唇を噛み、目を伏せた。</span>,<span class='scene-font-katari'>罗法的声音有些颤抖，<br>雷欧尼斯听到他的真实想法，<br>轻轻咬住嘴唇，垂下了视线。</span>
+47,,<span class='scene-font-katari'>そんなレオニスを一瞥したロウファは、</span><br><span class='scene-font-katari'>ゆっくりと半身を起こす。</span>,<span class='scene-font-katari'>罗法看了雷欧尼斯一眼，<br>慢慢地坐了起来。</span>
+50,ロウファ/罗法,……やはり、下肢は動かぬか。,……果然，下肢还是动不了么……
+51,ロウファ/罗法,皮肉よな。<br>人に化物と蔑まれながら、<br>真の化物にはなり切れぬとは。,真讽刺啊，虽然一直被人说成怪物，<br>却不能成为真正的怪物。
+52,レオニス/雷欧尼斯,お前は人だ。<br>人を超えた力を持ってはいたが、<br>化物の胎から生まれたわけではない。,你是人。<br>虽然拥有超越人类的力量，<br>但不是从妖怪的胚胎中诞生的。
+53,ロウファ/罗法,いいや、エルデニの王よ。<br>我は人に非ず。<br>奴隷は人になり得ぬのだ。,不，埃尔德尼的国王啊，<br>我不是人类。<br>奴隶是不可能变成人的。
+54,ロウファ/罗法,力を持たぬものは、<br>人として認められない。<br>それが世の理。,没有力量的人，不能被当作人。<br>这就是这个世界的道理。
+55,ロウファ/罗法,誰よりそれが身に染みているがゆえに、<br>我はそれを否定したかった……,正因为我比任何人都清楚这一点，<br>所以我想否认它……
+56,ロウファ/罗法,力とは武力ではない。<br>真の力とは、権力なのだ。,因为这句话中的力量<br>不是武力，而是权力。
+60,ロウファ/罗法,我は武力しか持たなかった。<br>故に、たったひとつだけ、<br>守りたかったものも守れなかった。,我除了武力一无所有。<br>因此，我唯一想保护的东西，也无法保护。
+66,レオニス/雷欧尼斯,だから権力を求め、父上を殺し、<br>ユラントスクへ下ったか。,所以你才去寻求权力，杀了我的父亲，<br>然后去投靠了尤兰托斯克。
+67,,<span class='scene-font-katari'>レオニスの問いに、</span><br><span class='scene-font-katari'>ロウファは何も答えることなく</span><br><span class='scene-font-katari'>ただ薄く笑う。</span>,<span class='scene-font-katari'>对于雷欧尼斯的问题，<br>罗法没有回答，只是笑了笑。</span>
+68,ロウファ/罗法,どう足掻こうが、<br>我は権力者の奴隷から<br>抜け出すことは叶わなかった。,无论如何挣扎，<br>我都无法摆脱当权者的奴役。
+69,レオニス/雷欧尼斯,ロウファ……お前は……,罗法……你……
+70,ロウファ/罗法,貴様らに負けた以上、<br>我に最早生きる意味は無し。,既然被你们打败了，<br>我活下去也没有意义了。
+
+71,,<span class='scene-font-katari'>そう呟いたロウファの手には、</span><br><span class='scene-font-katari'>折れた鉾が握られていた。</span>,<span class='scene-font-katari'>说着，罗法的手中握住了他断掉的武器。
+72,ロウファ/罗法,全てに決着をつけよう。<br>我が死を以て。,让我的死来结束这一切。
+73,レオニス/雷欧尼斯,<span class='scene-font-4'>っ！！</span><br><span class='scene-font-4'>待て、ロウファ！</span>,<span class='scene-font-4'>等等，罗法！</span>
+74,,<span class='scene-font-katari'>ロウファが己に幕を引こうとした、</span><br><span class='scene-font-katari'>まさにその時──</span>,<span class='scene-font-katari'>就在罗法想要结束自己生命的时候——</span>
+75,？？？,<span class='scene-font-4'>ロウファ様！！</span>,罗法大人！
+76,,<span class='scene-font-katari'>響いた声に、</span><br><span class='scene-font-katari'>ロウファは動きを止め</span><br><span class='scene-font-katari'>何故と唇の動きだけで呟く。</span>,<span class='scene-font-katari'>听到这声音，罗法停止了动作，<br>他的嘴唇颤抖，好像在念叨着什么。</span>
+77,,<span class='scene-font-katari'>声のした方を見れば、</span><br><span class='scene-font-katari'>そこには拘束された</span><br><span class='scene-font-katari'>ランファの姿があった。</span>,<span class='scene-font-katari'>他看向声音的方向，<br>那里有被捉住的兰华的身影。</span>
+78,ロウファ/罗法,討たれたのではなかったのか……,不是被杀了吗……
+79,レオニス/雷欧尼斯,彼女は捕虜として捕らえさせた。<br>エルデニとは直接関係は無いが、<br>とはいえ友好国を滅ぼした元凶だ。,她现在是我们的俘虏。<br>虽然和埃尔德尼没有直接关系，<br>但她是毁灭友邦的元凶。
+80,レオニス/雷欧尼斯,奴はお前の弱点であると同時に、<br>ユラントスク側にとっても、<br>価値のある人物らしいからな。,她既是你的弱点，<br>对尤兰托斯克来说，<br>也是一个有价值的人物。
+
+81,,<span class='scene-font-katari'>淡々と述べるレオニスに、</span><br><span class='scene-font-katari'>ロウファの表情はみるみる歪んでいく。</span>,<span class='scene-font-katari'>雷欧尼斯淡淡地说着，<br>罗法的表情立刻扭曲了。</span>
+82,ロウファ/罗法,<span class='scene-font-4'>貴様、まさかランファを</span><br><span class='scene-font-4'>取引の道具にするつもりか！！</span>,你，难道要把兰华<br>当成交易的工具吗！！
+83,レオニス/雷欧尼斯,さぁな。<br>捕虜をどう使うかは我々の自由だ。,谁知道呢，<br>如何处置俘虏是我们的自由。
+84,レオニス/雷欧尼斯,そして、前王暗殺犯であり<br>敗戦の将たるお前の処遇を<br>決めるのも我々だ。,你既是暗杀前国王的犯人，<br>又是战败国将军，<br>我们同样会决定你的归路。
+85,ロウファ/罗法,くっ……！,咕……！
+86,,<span class='scene-font-katari'>冷めた目で見下ろすレオニスに、</span><br><span class='scene-font-katari'>怒りに染まる双眸を向けるロウファ。</span>,<span class='scene-font-katari'>罗法怒视着冷漠的雷欧尼斯。</span>
+87,,<span class='scene-font-katari'>しかし、</span><br><span class='scene-font-katari'>何かを悟ったように瞳を伏せると、</span><br><span class='scene-font-katari'>ロウファはゆっくりと口を開いた。</span>,<span class='scene-font-katari'>但是，<br>他似乎想到了什么似的垂下视线，<br>慢慢地开口说道。</span>
+
+88,ロウファ/罗法,ランファに罪は無い。<br>元はと言えば、我がスイから<br>ランファを拉致したのだ。,兰华没有罪，<br>原本就是我把她从苏伊绑架过来的。
+89,ランファ/兰华,ロウファ様、何を……<br>それは違──,罗法大人，你在说什么……不是——
+90,,<span class='scene-font-katari'>否定しようとするランファを目で制し、</span><br><span class='scene-font-katari'>ロウファは強い意志を以て</span><br><span class='scene-font-katari'>レオニスへと視線を向ける。</span>,<span class='scene-font-katari'>用眼神制止想否认的兰华，<br>罗法凭借强烈的意志<br>将视线投向雷欧尼斯。</span>
+
+91,ロウファ/罗法,全ては我の罪だ。<br>エルデニの王を殺したのも、<br>スイを滅ぼしたのも。,一切都是我的错。<br>我杀了埃尔德尼的国王，<br>也毁灭了苏伊。
+92,ロウファ/罗法,そして、我は自らのために<br>ユラントスクの王をも<br>この手に掛けた。,为了一己私欲，<br>我还杀死了尤兰托斯克的国王。
+93,ロウファ/罗法,我こそが、唯一の罪人である。<br>全ての罪は我にあり。<br>故に、全ての罰を受ける義務がある。,我是唯一的罪人，<br>所有的罪都在我一人身上。<br>因此，我有义务接受所有的惩罚。
+94,レオニス/雷欧尼斯,全ての罪を自分が背負う代わりに、<br>ランファは見逃せと？,自己揽下所有的罪，<br>让我们放过兰华？
+95,ロウファ/罗法,そうだ。<br>見せしめに処刑するも、<br>首を取りユラントスクに送るもよし。,是的。<br>当众处刑也好，<br>斩首送往尤兰托斯克也好。
+96,ロウファ/罗法,一度は捨てた命だ。<br>貴様らの好きに──,反正这条命已经被抛弃了，<br>就随你们——
+
+98,,<span class='scene-font-katari'>その瞬間、</span><br><span class='scene-font-katari'>レオニスはロウファの横っ面を</span><br><span class='scene-font-katari'>渾身の力で殴り飛ばした。</span>,<span class='scene-font-katari'>刹那间，雷欧尼斯使出浑身解数，<br>甩了罗法一巴掌。</span>
+99,,<span class='scene-font-katari'>呻くロウファの胸倉を掴み上げ、</span><br><span class='scene-font-katari'>喰いかかるようにして</span><br><span class='scene-font-katari'>レオニスは声を荒げる。</span>,<span class='scene-font-katari'>罗法痛苦地发出了呻吟，<br>雷欧尼斯紧紧抓住他，大声喊道。</span>
+
+100,レオニス/雷欧尼斯,<span class='scene-font-4'>たわけ！</span><br><span class='scene-font-4'>何様のつもりだお前は！！</span>,<span class='scene-font-4'>你以为你是谁啊！</span>
+101,レオニス/雷欧尼斯,一度は捨てた命だと？<br>ならば、それを捧げたところで、<br>償いになどなるものか！,你说你这命已经被抛弃了？<br>既然如此，我们要它又有什么用呢？
+102,ロウファ/罗法,<span class='scene-font-4'>ッ！！</span><br><span class='scene-font-4'>ならばどうする、見逃すか！！</span><br><span class='scene-font-4'>貴様の仇を！！</span>,<span class='scene-font-4'>啧！！那么怎么办？<br>难道让我逃走？<br>我可是你的仇人！！</span>
+103,ロウファ/罗法,<span class='scene-font-4'>お前の父を殺したのは</span><br><span class='scene-font-4'>俺だぞ、レオニス！！</span>,<span class='scene-font-4'>是我杀了你父亲，<br>雷欧尼斯！</span>
+104,レオニス/雷欧尼斯,だが、お前にその道を選ばせたのは<br>おれ達エルデニの人間だ！！,但是，让你选择了这条路的，<br>是我们埃尔德尼人！
+105,ロウファ/罗法,なっ……！！,什……！！
+
+106,,<span class='scene-font-katari'>レオニスはロウファの胸倉を</span><br><span class='scene-font-katari'>掴んだまま言葉を続ける。</span>,<span class='scene-font-katari'>雷欧尼斯抓住罗法的衣领继续说道。</span>
+107,レオニス/雷欧尼斯,おれと父上は知っていた。<br>お前がエルデニの官僚達から<br>影で何と呼ばれ、蔑まれていたか。,我和父亲都知道，<br>你被埃尔德尼的人们怎么对待。
+108,レオニス/雷欧尼斯,いくら理想を語ろうと、<br>お前を守りきれなかったことは<br>揺るぎない事実。,不管我们说着什么理想，<br>我们都没能保护你，<br>这是不可动摇的事实。
+109,レオニス/雷欧尼斯,半端な覚悟でお前を受け入れ、<br>その結果、傷つけた。<br>それはおれが背負うべき罪だ。,抱着并不彻底的觉悟接受了你，<br>结果，又一次伤害了你。<br>那是我应该背负的罪。
+110,ロウファ/罗法,…………,…………
+111,,<span class='scene-font-katari'>俯き、口を閉ざすロウファを一瞥し、</span><br><span class='scene-font-katari'>胸倉から手を放すと</span><br><span class='scene-font-katari'>レオニスはひとつ息を吐く。</span>,<span class='scene-font-katari'>雷欧尼斯放开罗法，<br>俯视着紧闭着嘴巴的他，<br>吐出一口气。</span>
+113,レオニス/雷欧尼斯,王殺しの国賊、ロウファ。<br>そして傾国の悪女、ランファ。,弑君者，罗法。<br>还有倾国恶女，兰华。
+114,レオニス/雷欧尼斯,お前達をユラントスク、エルデニ両国に<br>跨る死と静寂の山……<br>ハロス峠への流刑と処す。,……我决定将你们流放到哈罗斯隘口，<br>那个横跨了尤兰托斯克和埃尔德尼<br>两国间的死亡与寂静之山。
+115,,<span class='scene-font-katari'>レオニスから下された処罰の内容に、</span><br><span class='scene-font-katari'>ロウファとランファは目を見開いた。</span>,<span class='scene-font-katari'>雷欧尼斯说出的话，<br>让罗法和兰华瞪大了眼睛。</span>
+120,,<span class='scene-font-katari'>ハロス峠。</span><br><span class='scene-font-katari'>そこは遥か昔から、多くの重罪人が</span><br><span class='scene-font-katari'>追放された流刑地だった。</span>,<span class='scene-font-katari'>哈罗斯隘口。<br>那里是从很久很久以前开始，<br>很多重罪犯被流放的流放地。</span>
+121,,<span class='scene-font-katari'>食料となるものもろくに存在せず、</span><br><span class='scene-font-katari'>長い冬が全ての音と色彩を奪い、</span><br><span class='scene-font-katari'>どんな屈強な者も狂気の中に自害した。</span>,<span class='scene-font-katari'>那里不存在什么可以作为食物的东西，<br>漫长的冬天剥夺了所有的声音和色彩，<br>最强大的人进了那里也会在疯狂中自杀。</span>
+126,,<span class='scene-font-katari'>故に、付いた異名は死と静寂の山。</span><br><span class='scene-font-katari'>二国の国境上にあるその山は、唯一</span><br><span class='scene-font-katari'>どの国にも属さない禁忌の地だった。</span>,<span class='scene-font-katari'>因此，它也被称作死亡与寂静之山。<br>位于两国边境上的那座山，<br>是唯一不属于任何国家的禁忌之地。</span>
+131,レオニス/雷欧尼斯,以降、エルデニはお前達に<br>一切の関与をしない。,从那以后，埃尔德尼跟你们就没有关系了。
+132,レオニス/雷欧尼斯,だが、一歩でもエルデニの地に<br>足を踏み入れてみろ。その時は<br>重罪人として相応の罰が下ると思え。,但是，一旦你踏上了埃尔德尼的土地。<br>哪怕只有一步，你都会受到重罪的惩罚。
+133,,<span class='scene-font-katari'>淡々と告げたレオニスは、</span><br><span class='scene-font-katari'>そこで一度言葉を切ると</span><br><span class='scene-font-katari'>短く息を吐く。</span>,<span class='scene-font-katari'>淡淡地说完的雷欧尼斯停顿了一下，<br>短暂地吐了一口气。</span>
+134,レオニス/雷欧尼斯,おれからはそれだけだ……<br>生きるも死ぬも、<br>あとはお前達の勝手にしろ。,我只有这些要说了……<br>活着也好，死了也罢，<br>剩下的就随你们的便了。
+135,,<span class='scene-font-katari'>吐き出された言葉の裏に隠された、</span><br><span class='scene-font-katari'>レオニスの真の想い。</span>,<span class='scene-font-katari'>雷欧尼斯的真实感受<br>隐藏在他吐出的话语的背后。</span>
+136,,<span class='scene-font-katari'>それに気づいたロウファは、</span><br><span class='scene-font-katari'>暫し言葉を失ったあと、小さく笑む。</span>,<span class='scene-font-katari'>罗法注意到这一点，<br>他一时间说不出话来，<br>只是小声地笑了起来。</span>
+137,ロウファ/罗法,やはりお前は、<br>あのカノプスの息子だけある。<br>非情になり切れぬ甘い男よ。,你果然是卡诺普斯的儿子，<br>你们两个都天真地可怕。
+138,レオニス/雷欧尼斯,おれは、<br>父上の希望を<br>諦めはしない。,我不会放弃父亲的希望。
+139,レオニス/雷欧尼斯,志半ばで死んだ父上に代わり、<br>必ず為してみせるさ。<br>父上の望んだ、平等なる国を。,我一定会代替他，<br>建设一个他想要的平等的国家。
+140,ロウファ/罗法,人の意識を変えるのは、<br>そう簡単なことではない。<br>それでもお前は成すと言うか。,要改变一个人的意识，<br>可不是那么容易的事……<br>即使这样你也会做到吗？
+141,レオニス/雷欧尼斯,ああ、必ず。,是的，一定会。
+142,ロウファ/罗法,……そうか。,……是吗。
+
+143,,<span class='scene-font-katari'>真剣な表情で告げる</span><br><span class='scene-font-katari'>レオニスの言葉を受け、</span><br><span class='scene-font-katari'>ロウファは不敵な笑みを浮かべる。</span>,<span class='scene-font-katari'>雷欧尼斯以严肃的表情说出这句话后，<br>罗法露出了一个略显可怕的笑容。</span>
+144,ロウファ/罗法,ならば精々、励むが良い。<br>我が<span class='scene-font-spword'>“義弟”</span>よ。,那就尽力而为吧，<br>我的<span class='scene-font-spword'>“义弟”</span>。
+145,レオニス/雷欧尼斯,ああ、言われずとも。<br>……さらばだ、<span class='scene-font-spword'>“義兄上”</span>。,啊……不用你告诉我。<br>……再见了，<span class='scene-font-spword'>“义兄”</span>。
+146,,<span class='scene-font-katari'>それきり口を閉ざした</span><br><span class='scene-font-katari'>ロウファの表情は、</span><br><span class='scene-font-katari'>どこか穏やかなものに満ちていた。</span>,<span class='scene-font-katari'>之后再也没有说话的罗法，<br>表情相当地平静。</span>
+
+
+152,,<span class='scene-font-katari'>ロウファの身柄は拘束され、</span><br><span class='scene-font-katari'>ハロス峠へ送られるべく</span><br><span class='scene-font-katari'>馬車へと収容された。</span>,<span class='scene-font-katari'>罗法的身体被禁锢，<br>被送入了前往哈罗斯隘口的马车。</span>
+153,,<span class='scene-font-katari'>ロウファとの関係と捕虜という立場から</span><br><span class='scene-font-katari'>別の馬車で送られることになった</span><br><span class='scene-font-katari'>ランファは、黙したまま宙を見つめる。</span>,<span class='scene-font-katari'>兰华因为与罗法的关系和她被俘虏的身份，<br>她会被另一辆马车送走。<br>兰华就这么默默地凝视着天空。</span>
+154,シュラ/秋罗,ロウファは既にハロス峠へ<br>出立しました。<br>この馬車も間もなく出立します。,罗法已经出发去哈罗斯隘口了。<br>你的这辆马车很也就要出发了。
+155,ランファ/兰华,……そう。,……是吗。
+156,,<span class='scene-font-katari'>虚ろに宙を見つめるばかりの妹に、</span><br><span class='scene-font-katari'>シュラは唇を噛む。</span>,<span class='scene-font-katari'>秋罗咬着嘴唇，<br>看着茫然地望着天空的妹妹。</span>
+
+157,シュラ/秋罗,ごめんなさい……,对不起……
+158,ランファ/兰华,なぜ、あやまるの。<br>あなたはなにもしていないわ。,你为什么要道歉？你什么都没做。
+159,シュラ/秋罗,わたしの行動が、選択が、<br>貴方の人生を狂わせてしまった。,我的行为和我的选择，<br>打乱了你的生活。
+160,ランファ/兰华,ふふ、なんて自意識過剰な人。<br>傲慢にもほどがあるわ。,呵呵，<br>真是个自我意识过剩的人。<br>你太傲慢了。
+161,ランファ/兰华,言ったでしょう？<br>わたくしは、自分でこの道を<br>選んだのだと。,我告诉过你的，对吧？<br>是我自己选择了这条路。
+162,ランファ/兰华,あなたの行動に関わらず、<br>わたくしはきっと同じ道を選んでいた。,不管做出什么样的事，<br>我都会选择同样的道路。
+163,ランファ/兰华,後悔なんてしないわ。<br>たとえ、惨めに飢え死ぬことになっても<br>あの方と一緒なら。,如果我能和他在一起，<br>即使我悲惨地饿死，我也不后悔。
+
+164,,<span class='scene-font-katari'>虚ろに語っていたランファが、</span><br><span class='scene-font-katari'>ようやくシュラに視線を向ける。</span>,<span class='scene-font-katari'>空洞地说着话的兰华，<br>终于将视线转向秋罗。</span>
+165,ランファ/兰华,あなたはもう関係ない。<br>わたくしはずっとひとりだった。<br>姉なんていなかった。,你已经无关紧要了。<br>我一直都是一个人，我没有姐姐。
+166,,<span class='scene-font-katari'>そう告げたランファの顔には、</span><br><span class='scene-font-katari'>明確な拒絶の色が浮かんでいた。</span>,<span class='scene-font-katari'>这么说着，<br>兰华的脸上浮现出明确的拒绝表情。</span>
+167,ランファ/兰华,あなた、誰かと勘違いしているわ。<br>だってわたくしには<br>姉なんていないもの。,你应该是认错人了？<br>因为我啊，根本没有姐姐。
+168,ランファ/兰华,わたくしは、ただの罪人。<br>家族も姉妹もいない、<br>奴隷から成り上がろうとした悪女。,我只是一个罪人。<br>没有家人，没有姐妹，<br>只是一个想逃离奴隶身份的恶女。
+169,,<span class='scene-font-katari'>そこで、ランファは言葉を区切り、</span><br><span class='scene-font-katari'>強い意思を秘めた声色で</span><br><span class='scene-font-katari'>はっきりと告げる。</span>,<span class='scene-font-katari'>兰华停顿了一下，<br>用含有强烈意志的声音清楚地说出来。</span>
+170,ランファ/兰华,シュラ……<br>あなたの妹はわたくしじゃない。<br>わたくしのような穢れた罪人じゃない。,秋罗……你的妹妹不是我，<br>不是我这样罪孽深重的人。
+171,ランファ/兰华,だからもう、放っておいて。<br>あなたのような人が、いつまでも<br>罪人と戯れているべきではないわ。,所以不要再管我了，<br>像你这样的人不应该跟罪人打交道。
+172,,<span class='scene-font-katari'>諭すようなランファの言葉に、</span><br><span class='scene-font-katari'>シュラは静かに息を呑む。</span>,<span class='scene-font-katari'>兰华的话，<br>让秋罗倒吸了一口凉气。</span>
+173,,<span class='scene-font-katari'>そして、ランファがなぜ</span><br><span class='scene-font-katari'>こんなことを言い出したのか、</span><br><span class='scene-font-katari'>その理由に思い当たり、顔を伏せる。</span>,<span class='scene-font-katari'>她明白了兰华为什么会说出这样的话，<br>低下了头。</span>
+174,シュラ/秋罗,……ええ、貴方の仰る通りです。<br>ですが最後にひとつだけ、<br>お聞かせ願えますか。,……是的，正如你所说。<br>那我还有最后一个问题。
+175,ランファ/兰华,なにかしら。,是什么呢？
+176,シュラ/秋罗,貴方は、<br>本当に後悔していないのですね？,你真的不后悔吗？
+177,,<span class='scene-font-katari'>震える声で投げかけられた</span><br><span class='scene-font-katari'>シュラの言葉に、</span><br><span class='scene-font-katari'>ランファはゆっくりと頷く。</span>,<span class='scene-font-katari'>秋罗用颤抖的声音说道，<br>兰华慢慢点了点头。</span>
+178,ランファ/兰华,ええ、もちろん。<br>だって、わたくしは<br>一番欲しいものを得られたのだから。,是的，当然。<br>因为我得到了我最想要的东西。
+179,,<span class='scene-font-katari'>ふわり、と。</span><br><span class='scene-font-katari'>花が綻ぶように浮かんだ笑みに、</span><br><span class='scene-font-katari'>偽りの色は無い。</span>,<span class='scene-font-katari'>她的话语轻飘飘的，<br>灿烂的笑容没有丝毫的虚伪。</span>
+180,,<span class='scene-font-katari'>ランファの笑みを見たシュラは、</span><br><span class='scene-font-katari'>開きかけた口を噤み、</span><br><span class='scene-font-katari'>背を向けた。</span>,<span class='scene-font-katari'>秋罗看着兰华的笑容，<br>闭上了嘴，转过身去。</span>
+181,シュラ/秋罗,では、私が貴方にかける言葉は<br>もうありません。<br>さようなら、ランファ。,那么，我已经没有话要对你说了。<br>再见，兰华。
+183,ランファ/兰华,シュラ。<br>あなたの妹は、<br>きっとどこかで幸せに暮らしているわ。,秋罗。<br>你的妹妹一定会在某处幸福地生活着。
+184,ランファ/兰华,いつか妹に逢えるといいわね。<br>お元気で、エルデニの軍師さん。,真希望有一天你能见到她。<br>保重了，埃尔德尼的军师。
+187,,<span class='scene-font-katari'>背に投げかけられた言葉を受け止め、</span><br><span class='scene-font-katari'>シュラは逃げるように</span><br><span class='scene-font-katari'>その場から立ち去る。</span>,<span class='scene-font-katari'>听着从背后传来的话，<br>秋罗像是要逃跑似地离开了。</span>
+190,,<span class='scene-font-katari'>それから間もなくして、</span><br><span class='scene-font-katari'>ランファを乗せた馬車も流刑地を</span><br><span class='scene-font-katari'>目指し出立したのだった。</span>,<span class='scene-font-katari'>没过多久，<br>兰华的马车也出发去流放地了。</span>
+197,,<span class='scene-font-katari'>ロウファ討伐より数日後。</span>,在讨伐罗法几天后。</span>
+198,,<span class='scene-font-katari'>残っていたユラントスクの残党を</span><br><span class='scene-font-katari'>完全撤退まで追い込み、</span><br><span class='scene-font-katari'>ついにエルデニはザハ市を奪還。</span>,<span class='scene-font-katari'>把留下的尤兰托斯克残余势力<br>逼到完全撤退的地步，<br>最终埃尔德尼夺回了扎哈市。</span>
+199,,<span class='scene-font-katari'>本国の内乱が激化したことを受け</span><br><span class='scene-font-katari'>ユラントスク軍の侵攻は止まり、</span><br><span class='scene-font-katari'>両国の戦争は一時停戦の運びとなった。</span>,<span class='scene-font-katari'>随着本国内乱的加剧，<br>尤兰托斯克军队的进攻停下了，<br>两国的战争也暂时停止了。</span>
+200,レオニス/雷欧尼斯,改めて……<br>此度の働き、実に見事だった！,我必须得再说一次……<br>这次的工作完成的太棒了！
+201,,<span class='scene-font-katari'>ザハ市を奪還し、</span><br><span class='scene-font-katari'>ユラントスクとの停戦が決まってから</span><br><span class='scene-font-katari'>およそ二日。</span>,<span class='scene-font-katari'>夺回扎哈市，<br>与尤兰托斯克决定停火大约两天后。</span>
+202,,<span class='scene-font-katari'>復興に向けての作業が始まる</span><br><span class='scene-font-katari'>ザハ市の中心で、</span><br><span class='scene-font-katari'>レオニスは朗らかにそう告げた。</span>,<span class='scene-font-katari'>在重建工作开始的扎哈市中心，<br>雷欧尼斯爽朗地说道。</span>
+203,レオニス/雷欧尼斯,この戦争で失ったものは<br>計り知れないが、<br>それでも最悪の結果だけは免れた。,在这场战争中失去的东西是无法估量的，<br>但我们避免了最糟糕的后果。
+204,レオニス/雷欧尼斯,姬塔。<br>我が国の依頼を受けてくれたこと、<br>心から感謝する。,姬塔。<br>我衷心感谢你接受我国的委托。
+205,シュラ/秋罗,改めて、私からも感謝を。<br>本当にありがとうございました。,我也很感谢您。
+206,ビィ/碧,へへっ！<br>力になれて良かったぜ！,嘿嘿！咱也很高兴能帮上忙！
+207,ルリア/露莉亚,こうして平和になったことを、<br>ポラリスさんも、ザウラさんも、<br>きっと喜んでくれていますよね……,对于现在的和平，<br>珀拉莉丝和扎乌拉一定都会很高兴的……
+208,レオニス/雷欧尼斯,そうだな……<br>あいつらの墓前には、<br>後で改めて報告に行こう。,是啊……<br>过会儿我们再去那些家伙的墓前汇报吧。
+209,シュラ/秋罗,ザハ市も此度の戦いで大きな被害を<br>受けてしまいましたし……<br>まだまだ復興には時間がかかりますね。,扎哈市在这次的战斗中也遭受了很大的损失……<br>复兴还需要一段时间。
+210,,<span class='scene-font-katari'>そう言って、周囲を見渡すシュラの</span><br><span class='scene-font-katari'>後を追うように姬塔も</span><br><span class='scene-font-katari'>視線を巡らせる。</span>,<span class='scene-font-katari'>说着，秋罗向四周张望着，<br>姬塔也环顾四周。</span>
+211,,<span class='scene-font-katari'>建物に残された生々しい痕跡が、</span><br><span class='scene-font-katari'>ここで起きた戦いの激しさを</span><br><span class='scene-font-katari'>物語っていた。</span>,<span class='scene-font-katari'>建筑物上留下的鲜活的痕迹，<br>说明了这里发生的战斗的激烈程度。</span>
+212,レオニス/雷欧尼斯,ところで、<br>お前達はすぐにここを離れるのか？,顺便问一句，<br>你们要马上离开吗？
+213,ルリア/露莉亚,あ、いえ。アルタイルさんの<br>石碑解読が終わるまでは<br>滞在していくつもりです。,啊，没有。<br>我们打算在阿尔泰尔先生的<br>石碑解读结束后再离开。
+214,ビィ/碧,久しぶりに気合入ってたからなぁ……<br>ありゃあ結構長引きそうだぜ。,他好久没这么投入了……<br>看来要拖很久了。
+215,,<span class='scene-font-katari'>今この場にいないアルタイルの事を</span><br><span class='scene-font-katari'>思い浮かべ、姬塔達は</span><br><span class='scene-font-katari'>苦笑を浮かべる。</span>,<span class='scene-font-katari'>想到现在不在场的阿尔泰尔，<br>姬塔一行露出了苦笑。</span>
+
+
+222,アルタイル/阿尔泰尔,<span class='scene-font-4'>……はっくしょん！</span>,……阿嚏！
+223,,<span class='scene-font-katari'>姬塔達が</span><br><span class='scene-font-katari'>アルタイルのことを噂していた</span><br><span class='scene-font-katari'>丁度その頃。</span>,<span class='scene-font-katari'>就在姬塔一行议论阿尔泰尔的时候。</span>
+224,,<span class='scene-font-katari'>盛大なくしゃみをしたアルタイルは、</span><br><span class='scene-font-katari'>その拍子に落としかけた虫眼鏡を</span><br><span class='scene-font-katari'>慌てて掴む。</span>,<span class='scene-font-katari'>打了一个大喷嚏的阿尔泰尔<br>急忙抓住正要掉下来的放大镜。</span>
+225,アルタイル/阿尔泰尔,危ない、危ない……<br>貴重な石碑に傷を付けるわけには<br>いきませんからね。,太危险了，太危险了……<br>可不能伤害宝贵的石碑。
+226,,<span class='scene-font-katari'>視線を落とした先には、</span><br><span class='scene-font-katari'>いくつもの文字が刻まれた</span><br><span class='scene-font-katari'>石碑が鎮座していた。</span>,<span class='scene-font-katari'>视线的尽头，是一块刻有好几个字的石碑。</span>
+231,,<span class='scene-font-katari'>ザウラとポラリスの墓前に勝利の報告と</span><br><span class='scene-font-katari'>祈りを捧げたアルタイルは、その足で</span><br><span class='scene-font-katari'>ザハ市の資料館を訪れていた。</span>,<span class='scene-font-katari'>在扎乌拉和珀拉莉丝的墓前<br>进行胜利报告和祈祷后，<br>阿尔泰尔正在亲自参观扎哈市的资料馆。</span>
+236,,<span class='scene-font-katari'>戦いを勝利に導いた褒賞として、</span><br><span class='scene-font-katari'>レオニスから本来ならば非公開の</span><br><span class='scene-font-katari'>石碑の閲覧許可が降りたのである。</span>,<span class='scene-font-katari'>作为对战争胜利的奖励，<br>他从雷欧尼斯那里得到了<br>非公开纪念碑的阅览许可。</span>
+241,,<span class='scene-font-katari'>王直々の許可を得たアルタイルは、</span><br><span class='scene-font-katari'>一秒でも時間が惜しいと資料館に籠り</span><br><span class='scene-font-katari'>延々と石碑に向き合い続けていた。</span>,<span class='scene-font-katari'>得到许可的阿尔泰尔一秒都没有浪费，<br>直接躲进了资料馆里，面对着石碑。</span>
+242,,<span class='scene-font-katari'>石碑に刻まれていた文字からは、</span><br><span class='scene-font-katari'>間違いなく創世神話の神髄に迫る</span><br><span class='scene-font-katari'>何らかの記述が確認できる。</span>,<span class='scene-font-katari'>从刻在石碑上的文字中<br>可以确认逼近创世神话神髓的某种记述。</span>
+243,,<span class='scene-font-katari'>しかし、その全容を正しく</span><br><span class='scene-font-katari'>解析するにはかなりの時間が</span><br><span class='scene-font-katari'>かかるだろうと予測していた。</span>,<span class='scene-font-katari'>但是，他预测，<br>要正确分析这些数据，<br>需要相当长的时间。</span>
+244,アルタイル/阿尔泰尔,これを読み解いた時、<br>一体どんな真実が明らかになるのか……<br>ふふふ、楽しみですね。,解读这段文字时，<br>究竟会揭露出怎样的真相……<br>呵呵，真是令人期待啊。
+245,アルタイル/阿尔泰尔,次は三行目のこの部分から……,接下来从第三行的这部分开始……
+246,,<span class='scene-font-katari'>戦場よりも生き生きとした表情で、</span><br><span class='scene-font-katari'>難解な石碑の文字と向き合う</span><br><span class='scene-font-katari'>アルタイル。</span>,<span class='scene-font-katari'>阿尔泰尔以比面对战场时更生动的表情<br>面对难解的石碑文字。</span>
+
+249,アルタイル/阿尔泰尔,<span class='scene-font-spword'>“預言者”</span>……？<br>これは人名か？,<span class='scene-font-spword'>“先知”</span>……？这是人名吗？
+250,アルタイル/阿尔泰尔,匣に塞ぎし宵の預言者……<br>その名を……,被匣子封住的宵之先知……他的名字……
+251,アルタイル/阿尔泰尔,ヘ……ルベ、シャ、レム……？,赫……本、夏、蕾姆……？
+252,アルタイル/阿尔泰尔,……シャレム？<br>シャレム、シャレム……<br>確か、艇に同じ名前の者が……,……夏蕾姆？夏蕾姆、夏蕾姆……<br>确实，在骑空艇里有同名的家伙。
+253,アルタイル/阿尔泰尔,いや……<br>まぁ、偶然の一致でしょう。,不……应该只是巧合吧。
+254,,<span class='scene-font-katari'>石碑の中に見つけた名前に、</span><br><span class='scene-font-katari'>アルタイルの脳裏には</span><br><span class='scene-font-katari'>ある人物の姿が浮かぶ。</span>,<span class='scene-font-katari'>在石碑中发现的名字<br>让阿尔泰尔联想到骑空艇中的某人。</span>
+259,,<span class='scene-font-katari'>それは、</span><br><span class='scene-font-katari'>最近姬塔が連れて来た</span><br><span class='scene-font-katari'>新たな団員だという謎の少女。</span>,<span class='scene-font-katari'>那是最近姬塔带来的新团员，<br>一个神秘少女。</span>
+264,アルタイル/阿尔泰尔,いや、まだ確証はない。<br>この石碑を読み解いていけば、<br>他に人物像を表す記述があるやも……,不，还没有确凿的证据。<br>解读这块石碑，<br>也许还能找到其他代表人物形象的记述……
+265,アルタイル/阿尔泰尔,ふふふ、燃えてきましたよ……！<br>この石碑を解き明かした時、<br>私は歴史の真実に近づくことが出来る！,呵呵，我燃烧起来了……！<br>当我揭开这块石碑的时候，<br>就可以接近历史的真相！
+
+
+266,アルタイル/阿尔泰尔,<span class='scene-font-spword'>“預言者”</span>……？<br>これは人名か？,<span class='scene-font-spword'>“先知”</span>……？这是人名吗？
+267,アルタイル/阿尔泰尔,へ……シャ……,赫……夏……
+268,アルタイル/阿尔泰尔,いや、肝心なところが<br>削れていて読めませんね。,不，关键的地方被消除了，看不清啊。
+269,アルタイル/阿尔泰尔,ですが、この石碑を読み解いていけば、<br>他にもこの預言者について<br>記述があるかもしれません。,但是，<br>如果继续解读这块碑文，<br>也许还会有其他关于这位先知的描述。
+270,アルタイル/阿尔泰尔,ふふふ、燃えてきましたよ……！<br>この石碑を解き明かした時、<br>私は歴史の真実に近づくことが出来る！,呵呵，我燃烧起来了……！<br>当我揭开这块石碑谜团的时候，<br>就可以接近历史的真相！
+
+271,,<span class='scene-font-katari'>そう意気込んだアルタイルは、</span><br><span class='scene-font-katari'>真剣な表情で再び石碑に向き合う。</span>,<span class='scene-font-katari'>意气风发的阿尔泰尔<br>再次以严肃的表情面对石碑。</span>
+276,,<span class='scene-font-katari'>様々な計略で戦況を逆転させ、</span><br><span class='scene-font-katari'>長きに渡った戦争を終わらせた</span><br><span class='scene-font-katari'>天才軍師、アルタイル。</span>,<span class='scene-font-katari'>用各种计谋扭转战局，<br>结束长期战争的天才军师阿尔泰尔。</span>
+277,,<span class='scene-font-katari'>彼が次に挑むのは、</span><br><span class='scene-font-katari'>果てなき歴史の闇に埋もれた</span><br><span class='scene-font-katari'>創世の時代の真実。</span>,<span class='scene-font-katari'>他接下来要挑战的是<br>被历史的黑暗掩埋的创世时代的真相。</span>
+282,,<span class='scene-font-katari'>果たして彼は、</span><br><span class='scene-font-katari'>真実をその手に得ることが出来るのか。</span>,<span class='scene-font-katari'>他能得到真相吗？</span>
+283,,<span class='scene-font-katari'>それはまた、別のお話で。</span>,<span class='scene-font-katari'>这就是另一个故事了。</span>
+289,,<span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　</span><br><span class='scene-font-katari'>　　　　　　　　　　　　　　　──完</span>,<span class='scene-font-katari'>　<br>　　　　　　　　　　　　　　　──完</span>
+info,,,scene_evt200429_cp0_q2_s10
+译者,Lunatis,,
+备注,初稿完成于2020.5.7,

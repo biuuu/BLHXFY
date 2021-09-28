@@ -1,0 +1,19 @@
+id,name,text,trans
+0-chapter_name,,第2話 冱返る,第2话 返寒
+0-synopsis,,眠りについていた姬塔達は、突如村人の激しいノックに起こされる。隣村が夜盗に襲われたという話を聞いた一行は、雪が降る中、急ぎ隣村へと向かうのだった。,沉睡的姬塔等人突然听见村民激烈的敲门声。听说强盗袭击了邻村后，众人在雪中向邻村赶去。
+2,ビィ/碧,ふわっ！？<br>な、なんだなんだ！？,哇！？<br>怎、怎么啦！？
+4,,<span class='scene-font-katari'>激しいノックで</span><br><span class='scene-font-katari'>姬塔達を叩き起こしたのは、</span><br><span class='scene-font-katari'>村の老人だった。</span>,<span class='scene-font-katari'>猛拍着门叫众人起床的正是那位老人。</span>
+7,村の老人,申し訳ない、騎空士さん……！<br>力を、力を貸してもらえませんか……！,实在抱歉，骑空士们……！<br>请你们、请你们帮帮我们吧……！
+8,ルリア/露莉亚,何かあったんですか、お爺さん！,发生什么事了，老爷爷！？
+9,村の老人,……隣村が、夜盗に襲われました。<br>数人逃げて来たのですが、<br>皆ひどい怪我を負っていて……,……邻村，被强盗袭击了。<br>有几个人逃到我们村来了，都受了重伤……
+10,ビィ/碧,なんだってぇ！？<br>一大事じゃねぇか！,什么！？<br>出大事了啊！
+11,村の老人,村の衆では夜盗退治なぞ<br>無理な相談です……<br>だから、どうか……！,光凭我们村的人不可能和强盗作对的……<br>所以，求求你们……！
+12,ビィ/碧,任せといてくれ、爺ちゃん！<br>すぐ助けに行くからよ！<br>なっ、姬塔！？,包在咱们身上，老爷爷！<br>咱们马上出发！<br>你说呢，姬塔！？
+13,,<span class='scene-font-katari'>姬塔はビィに頷くと、</span><br><span class='scene-font-katari'>手早く身支度をして宿を出る。</span>,<span class='scene-font-katari'>姬塔对碧点点头，马上整理行装走出住处。</span>
+18,,<span class='scene-font-katari'>宿の外では、すでに準備を終えた</span><br><span class='scene-font-katari'>サビルバラが一同を待っていた。</span>,<span class='scene-font-katari'>早已准备好的萨比尔巴拉已经在外等待。</span>
+20,サビルバラ/萨比尔巴拉,強行軍でも上流を探るべきだった……<br>……いや、今言ってもなんにもならん。,早知道这样，不睡觉也应该去上流看看的……<br>……不，现在说也无济于事。
+21,サビルバラ/萨比尔巴拉,急いで隣村へ向かうぜよ、<br>姬塔！,赶快去邻村吧，姬塔！
+22,ルリア/露莉亚,はいっ！　急ぎましょう！,嗯！ 我们抓紧吧！
+28,,<span class='scene-font-katari'>村の青年を案内役に、</span><br><span class='scene-font-katari'>姬塔達は</span><br><span class='scene-font-katari'>隣村へ続く道をひた走る。</span>,<span class='scene-font-katari'>在村民的带领下，姬塔一行向邻村赶去。</span>
+29,,<span class='scene-font-katari'>先に待つ危険を知らぬ気に、</span><br><span class='scene-font-katari'>空からはしんしんと</span><br><span class='scene-font-katari'>雪が降り注いでいた。</span>,<span class='scene-font-katari'>不顾前方等待众人的危险，大雪还在事不关己地下着。</span>
+info,,,scene_evt181130_cp2_q4_s10

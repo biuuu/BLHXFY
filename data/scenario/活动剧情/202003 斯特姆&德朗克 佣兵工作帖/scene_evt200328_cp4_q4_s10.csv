@@ -1,0 +1,80 @@
+id,name,text,trans
+0-chapter_name,,第4話 小休止、あるいは美味しい酒場,短暂的休息，或者是美味的酒馆
+0-synopsis,,スツルムは、父親が事故で亡くなってからは家計を支えていた。しかし今は弟妹達もひとり立ちしているため、いやな思い出のある昔の伝手を使ってまで仕事を取って来る必要はない、と暗にドランクに告げる。その後スツルムが家族への手紙でドランクの話をしていることが判明し、喜ぶドランクと照れ隠しに怒るスツルム。ふたりは騒々しく別の酒場へと向かうのだった。,斯特姆在父亲因事故去世后一直支撑着家计。但是现在弟弟妹妹们也独立了，所以没有必要因为工作而触发令人讨厌回忆。在那之后，德朗克发现斯特姆在给家人的信中在说他的话。高兴的德朗克和为了掩饰害羞而生气的斯特姆。两个人吵吵嚷嚷地走向别的酒馆。
+3,幼いスツルム/幼年斯特姆,<span class='scene-font-4'>はっ！</span><br><span class='scene-font-4'>たぁっ！</span>,<span class='scene-font-4'>嘿！</span><br><span class='scene-font-4'>嗒！</span>
+4,父,いいぞ！<br>そこで切り返せ！,啊！<br>在这反击！
+6,幼いスツルム/幼年斯特姆,っ……！<br><span class='scene-font-4'>せいっ！</span>,啊……！<br><span class='scene-font-4'>噻！</span>
+9,父,──よし！<br>ここまで！,——好了！<br>就到这里！
+10,幼いスツルム/幼年斯特姆,はぁ、はぁ……！,哈，哈……！
+11,父,うーん、やっぱりお前は筋がいいなぁ。,嗯——，果然你的天赋很好啊。
+12,,<span class='scene-font-katari'>剣を教えてくれたのは</span><br><span class='scene-font-katari'>仕事の合間に帰宅した父だった。</span>,<span class='scene-font-katari'>教给我剑术的</span><br><span class='scene-font-katari'>是工作间隙回到家里的父亲。</span>
+13,幼いスツルム/幼年斯特姆,本当？<br>あたし、お父さんくらい<br>強くなれるかな？,真的？<br>我能变得像父亲那样强吗？
+14,父,いやぁ、この分じゃあ<br>父さんはあっという間に<br>抜かれちまうかもなぁ！,不，以这种情况<br>眨眼间就能超过爸爸了！
+15,,<span class='scene-font-katari'>今思えば、父はおそらく</span><br><span class='scene-font-katari'>あまり腕が立つ方ではなかった。</span>,<span class='scene-font-katari'>现在想想</span><br><span class='scene-font-katari'>父亲的身手恐怕并不是很好。</span>
+16,,<span class='scene-font-katari'>けれど、この頃の父の教えがなければ</span><br><span class='scene-font-katari'>剣の腕で身を立てることは</span><br><span class='scene-font-katari'>できなかっただろう。</span>,<span class='scene-font-katari'>但是如果没有这时候父亲的教导</span><br><span class='scene-font-katari'>恐怕就没有我用剑术立身之本了吧。</span>
+22,幼いスツルム/幼年斯特姆,お母さん、<br>あたしがちゃんと稼いでくるから。,妈妈，<br>我会去打工赚钱的。
+23,母,お前……,你……
+24,,<span class='scene-font-katari'>父が死んだのは、</span><br><span class='scene-font-katari'>仕事中の事故だった。</span>,<span class='scene-font-katari'>父亲的死因</span><br><span class='scene-font-katari'>是工作中的事故。</span>
+25,,<span class='scene-font-katari'>悲しかった。</span>,<span class='scene-font-katari'>很悲伤。</span>
+26,,<span class='scene-font-katari'>けれどそれ以上に、これからは自分が</span><br><span class='scene-font-katari'>家族を支えていかなければ、という</span><br><span class='scene-font-katari'>責任を強く感じていた。</span>,<span class='scene-font-katari'>但这之上</span><br><span class='scene-font-katari'>是今后要由我支撑起家里</span><br><span class='scene-font-katari'>强力的责任感。</span>
+27,幼いスツルム/幼年斯特姆,大丈夫。<br>お父さんが教えてくれたから、<br>あたしはやれる。,没问题。<br>父亲教过我了，<br>我能做得到。
+28,母,……無理だけは<br>しておくれじゃないよ？,……但是不要勉强自己哦。
+29,幼いスツルム/幼年斯特姆,うん、任せて。,嗯，交给我吧。
+35,,<span class='scene-font-katari'>はじめは、住んでいた村で</span><br><span class='scene-font-katari'>もらえる仕事を片っ端からこなした。</span>,<span class='scene-font-katari'>一开始</span><br><span class='scene-font-katari'>是从住着的村子接手的工作一件件完成了。</span>
+40,,<span class='scene-font-katari'>そのうちに、少し遠くの街まで</span><br><span class='scene-font-katari'>でかけていくようになり……</span>,<span class='scene-font-katari'>不久</span><br><span class='scene-font-katari'>去到稍微远一点的城市工作……</span>
+41,,<span class='scene-font-katari'>やがて、剣の腕を活かすことを</span><br><span class='scene-font-katari'>覚えてから、格段に稼ぎが良くなった。</span>,<span class='scene-font-katari'>最终</span><br><span class='scene-font-katari'>我学会了使用我的剑术，赚了很多钱。</span>
+46,次女,お姉ちゃん、次はいつ帰ってくるの？<br>無理しないでね。,姐姐，下次会是什么时候回来呢？<br>不要勉强自己哦。
+47,長男,俺、今度から村の鍛冶場の手伝いを<br>することになったんだ。<br>ちゃんと稼いでくるよ。,我，现在开始在村子里的炼铁工坊帮忙<br>会好好赚钱的。
+48,三男,姉ちゃんあのね、<br>この前裏の森で、<br>大きな鳥を捕まえたんだよ。,姐姐，<br>之前在森林里，<br>我抓到了大只的飞鸟哦。
+53,,<span class='scene-font-katari'>いつだって、どんな時だって</span><br><span class='scene-font-katari'>家族は己の一部だった。</span>,<span class='scene-font-katari'>一直，不论何时</span><br><span class='scene-font-katari'>家人就是我的一部分。</span>
+54,,<span class='scene-font-katari'>彼らのために、剣を振るって</span><br><span class='scene-font-katari'>稼ぎを得ることを苦に思ったことは</span><br><span class='scene-font-katari'>本当に、一度だってない。</span>,<span class='scene-font-katari'>为了他们而挥剑赚钱</span><br><span class='scene-font-katari'>我真的一次都没觉得苦。</span>
+60,スツルム/斯特姆,父より数年遅れて、<br>伏せりがちだった母も亡くなった。,比父亲晚了几年，<br>病重的母亲也去世了。
+61,スツルム/斯特姆,でも、その頃にはすぐ下の弟や妹は<br>随分としっかりしてきていたからな……,但是，那时候比我小的弟弟妹妹们<br>变得十分坚强了。
+62,ドランク/德朗克,そっか……,是吗……
+67,スツルム/斯特姆,ドナに出会って、彼女がギルドを<br>立ち上げてからは……,遇到多娜，<br>她建立起公会之后……
+68,スツルム/斯特姆,ギルド本部を、家族からの手紙の<br>宛先にさせてもらってる。,公会本部<br>就成了家里的信寄送的地址。
+73,ドランク/德朗克,確かに、普段は移動が多いから<br>それが一番確実な方法だよね。,确实，因为平常的移动很频繁<br>那是最有效地办法了。
+74,スツルム/斯特姆,ああ。,啊。
+75,,<span class='scene-font-katari'>もう語り終えた、とでも言うように</span><br><span class='scene-font-katari'>スツルムはそこで口を閉じた。</span>,<span class='scene-font-katari'>语闭</span><br><span class='scene-font-katari'>不论说什么，斯特姆都不再开口。</span>
+76,ドランク/德朗克,……ねぇスツルム殿、<br>どうして話してくれたの？,……呐，斯特姆殿下，<br>为什么告诉我？
+77,スツルム/斯特姆,別に……<br>最初から、隠していたつもりもない。,没什么……<br>一开始也没准备隐瞒。
+78,ドランク/德朗克,そう？,真的吗？
+79,スツルム/斯特姆,お前が……,你……
+80,ドランク/德朗克,何？,什么？
+81,スツルム/斯特姆,…………,…………
+82,スツルム/斯特姆,弟も妹も……全員もう立派に<br>ひとり立ちしていて、<br>あたしの庇護は必要ない。,弟弟妹妹们……全都已经能独当一面了<br>不再需要我的庇护了。
+83,ドランク/德朗克,うん。そうなんだ。,嗯。这样呢。
+84,スツルム/斯特姆,だから……,所以……
+85,スツルム/斯特姆,今あたしは、あたしひとりが<br>生きる分だけを稼げればそれでいい。,现在的我，<br>只需要为了我生活的份来工作就可以了。
+86,ドランク/德朗克,あー……うん。,啊——……嗯。
+87,スツルム/斯特姆,だから、お前が無理して<br>仕事をとってくる必要はない。,所以，你没有必要<br>去接一些勉强的工作。
+88,ドランク/德朗克,……別に、無理したって程じゃあ<br>ないんだけどなぁ……,……没有啊，<br>也不是勉强的程度呀……
+89,ドランク/德朗克,あの人はさ、昔からのちょっとした<br>知り合いなのね。,那个人的话，<br>是以前认识的人。
+94,ドランク/德朗克,家に出入りしてた貿易商で……<br>まぁ、あの家と関わってるにしては<br>人が良くってね。,是和家里经常往来的贸易商……<br>嘛，和那个家有关联的人都还不错。
+95,ドランク/德朗克,僕も、嫌いじゃない人だから……,因为也是我不讨厌的人……
+100,スツルム/斯特姆,無理をしてるわけじゃないならいい。,不是勉强的事就好。
+101,スツルム/斯特姆,払いの良い相手だったしな。<br>今後の取引も前向きに検討する。,付款方是一个好的合作者。<br>今后也要积极考虑合作啊。
+102,ドランク/德朗克,あはは、スツルム殿には<br>敵わないなぁ。,啊哈哈，<br>真是比不上斯特姆殿下呐。
+103,ドランク/德朗克,あ、そうだ！　僕もそのうち、<br>スツルム殿の家族に会ってみたいなぁ。<br>紹介してよ～スツルム殿～,啊，对了！趁这段时间<br>斯特姆殿下的家人介绍给我看看吧~<br>斯特姆殿下~
+104,スツルム/斯特姆,紹介も何も……<br>手紙で、お前の話はしてる。,介绍什么的……<br>信里，写了你的事。
+105,ドランク/德朗克,<span class='scene-font-4'>えっ！？</span>,<span class='scene-font-4'>哎！？</span>
+106,スツルム/斯特姆,な、なんだその反応は……,那，那是什么反应……
+107,ドランク/德朗克,えぇ～何それ！<br>めちゃくちゃ嬉しいんだけど！？<br>スツルム殿が！？　家族に僕の話を！？,哎~什么嘛！<br>超级高兴的！<br>斯特姆殿下居然向家人说我的事情！？
+108,スツルム/斯特姆,ち、違う！<br>他に話題がなかった時に<br>仕方なく書いただけだ！,不，不是！<br>没有他话题的时候，没有办法才写的！
+109,ドランク/德朗克,いやいや……<br>ちょっと、もう、どういうこと！？,不是不是……<br>稍微，有点，怎么回事！？
+110,スツルム/斯特姆,<span class='scene-font-4'>ひとの話を聞け！</span>,<span class='scene-font-4'>听我说的！</span>
+112,ドランク/德朗克,痛っ……いけど、<br>今は痛くない！,疼……虽然疼，<br>但现在不疼！
+113,スツルム/斯特姆,お前……！,你……！
+114,ドランク/德朗克,あ、待って。<br>スツルム殿もしかして酔ってる？<br>酔ってるからそんなことを……,啊，等一下。<br>斯特姆殿下莫不是醉了？<br>因为喝醉了所以……
+115,スツルム/斯特姆,あの程度の酒で酔うか！,我会因为这点酒就醉吗！
+116,ドランク/德朗克,そりゃそうか……<br>そうだよね。<br>ふふふ～,说的也是……<br>是呀。<br>哼哼哼~
+117,スツルム/斯特姆,もう知らん！<br>別の店で飲みなおす！,不管了！<br>再去别的店喝酒
+119,ドランク/德朗克,あ、待ってよスツルム殿～<br>僕も行くってば～！,啊，等一下斯特姆殿下~<br>我也去啦~！
+120,スツルム/斯特姆,うるさい！<br>ついてくるな！,闭嘴！<br>别跟过来！
+122,ドランク/德朗克,痛い痛い！<br>今、本気だったでしょ！？,好疼好疼！<br>刚刚这下是认真的吗！？
+123,スツルム/斯特姆,当たり前だ！,当然了！
+124,ドランク/德朗克,も～<br>スツルム殿ったら<br>照れちゃって～,切~<br>斯特姆殿下害羞了~
+125,スツルム/斯特姆,<span class='scene-font-4'>照れてない！</span>,<span class='scene-font-4'>才没有！</span>
+126,,<span class='scene-font-katari'>騒々しいくらいのふたりの声は、</span><br><span class='scene-font-katari'>街灯が淡く照らす夜道を</span><br><span class='scene-font-katari'>勢いよく転がっていくのだった。</span>,<span class='scene-font-katari'>两人喧闹的声音</span><br><span class='scene-font-katari'>在路灯淡淡撒着的路上</span><br><span class='scene-font-katari'>翻滚着。</span>
+info,,,scene_evt200328_cp4_q4_s10
+译者,,,

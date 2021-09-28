@@ -1,0 +1,36 @@
+id,name,text,trans
+0-chapter_name,,第4話 煩悩と人の心,第4话 烦恼与人心
+0-synopsis,,ユイシスは強靭な精神力で煩悩に抗うも、抑えきれずに姬塔に斬りかかってしまう。クビラは十二神将の力でユイシスから煩悩を払おうとするが、ユイシスはじっとしていることが出来ず叶わない。そこへ階下からジョイに乗ったビカラが現れる。クビラとビカラは姬塔にユイシスの注意を引きつけるように言い、煩悩を払うべく戦いを挑む。,优希斯虽有强大的精神力与烦恼抗衡，最终还是抑制不住地向姬塔砍来。库碧拉想要用十二神将的力量为优希斯驱除烦恼，但无法让优希斯站住不动。这时，乔伊托着碧卡拉从楼下浮了上来。库碧拉和碧卡拉让姬塔吸引优希斯的注意，她们两个来尝试驱除烦恼。
+2,ユイシス/优希斯,うぅ……うぅぅ……,呜……呜呜……
+3,ルリア/露莉亚,ユイシスさん！,优希斯！
+4,クビラ/库碧拉,近づいちゃダメ、ルリアちゃん！<br>今のユイシスさんは、<br>強い『瞋』にとり憑かれてる。,不要靠近她，露莉亚！<br>现在的优希斯被强烈的『嗔』控制了。
+5,ビィ/碧,『瞋』って言えば強い怒りだったよな？<br>復讐を考えてる姉ちゃんには<br>一番厄介な煩悩じゃねぇか！,『嗔』是指强烈的愤怒吧？<br>对想着复仇的她来说是最棘手的烦恼了！
+6,ユイシス/优希斯,姬塔、お願いよ……<br>今のうちに私を殺してッ！,姬塔，拜托了……<br>趁现在，杀了我！
+6-sel1_txt,,<span class='scene-font-katari'>そんなことは出来ない！</span>,<span class='scene-font-katari'>做不到！</span>
+8,ユイシス/优希斯,甘えたことを言っている場合では<br>ないの！　今の私なら、<br>姬塔も殺してしまうかもしれない！,别天真了！<br>现在的我、可能会把姬塔也杀掉的！
+9,ユイシス/优希斯,アイツの顔が嫌でも頭に浮かぶ……<br>考えたくないのに、気持ちが<br>どうしても抑えきれない……,我满脑子都是那家伙的脸……<br>明明不想去想，但根本无法控制自己的情绪……
+10,ユイシス/优希斯,体が、言うことを聞かない……<br>目眩が、して……,我的身体、不受控制了……<br>开始、头晕……
+11,,<span class='scene-font-katari'>全空から集められた高濃度の『瞋』に</span><br><span class='scene-font-katari'>強靭な精神力で抗い続けるユイシス。</span>,<span class='scene-font-katari'>优希斯依靠强大的精神力对抗着从全空收集的高浓度的『嗔』。</span>
+12,,<span class='scene-font-katari'>しかしかつて大事な人を奪われた</span><br><span class='scene-font-katari'>深い憎しみが『瞋』によって増幅され、</span><br><span class='scene-font-katari'>強い衝動を抑えきれなくなっていた。</span>,<span class='scene-font-katari'>然而被夺走家人的深仇大恨在『嗔』的影响下进一步增幅，她再也抑制不住自己的冲动。</span>
+12-sel1_txt,,<span class='scene-font-katari'>気をしっかり持って！</span>,<span class='scene-font-katari'>坚持住！</span>
+14,ユイシス/优希斯,<span class='scene-font-4'>ううぅ、</span><br><span class='scene-font-4'>ああぁあぁぁぁーーー！！</span>,<span class='scene-font-4'>呜呜、</span><br><span class='scene-font-4'>啊啊啊啊啊——！！</span>
+18,,<span class='scene-font-katari'>錯乱状態で振りかぶった剣を、</span><br><span class='scene-font-katari'>姬塔は自分の得物で</span><br><span class='scene-font-katari'>どうにか受け止める。</span>,<span class='scene-font-katari'>陷入错乱的优希斯向姬塔砍来，姬塔勉强用自己的武器挡下了。</span>
+20,,<span class='scene-font-katari'>錯乱状態で振りかぶった剣を、</span><br><span class='scene-font-katari'>姬塔は自分の得物で</span><br><span class='scene-font-katari'>どうにか受け止める。</span>,<span class='scene-font-katari'>陷入错乱的优希斯向姬塔砍来，姬塔勉强用自己的武器挡下了。</span>
+21,クビラ/库碧拉,今のうちに私が<br>ユイシスさんから煩悩を払う！<br>少しだけじっとして──,我来驱除优希斯身上的烦恼！<br>暂时别动就——
+24,クビラ/库碧拉,うわっ！,哇啊！
+25,,<span class='scene-font-katari'>つば競り合いをしていた</span><br><span class='scene-font-katari'>ユイシスの武器がするりと抜け、</span><br><span class='scene-font-katari'>クビラのすぐ近くをかすめる。</span>,<span class='scene-font-katari'>僵持中，优希斯的武器突然向后抽出，划过库碧拉身旁。</span>
+26,ユイシス/优希斯,う、うぅ……<br>せめて今のうちに逃げて……お願い……,呜、呜……<br>趁现在逃吧……拜托了……
+27,クビラ/库碧拉,くっ……！<br>煩悩を払うためには、<br>ちゃんと近づかないと……,唔……！<br>要驱除烦恼必须靠近她才行……
+29,ビカラ,叫び声が聞こえたけど大丈夫かい！？,我刚才听到喊叫声了，你们没事吧！？
+30,,<span class='scene-font-katari'>その時、下の階にいたビカラが</span><br><span class='scene-font-katari'>ジョイに乗って浮上してきた。</span>,<span class='scene-font-katari'>这时，碧卡拉乘着乔伊从下一层浮了上来。</span>
+31,ルリア/露莉亚,あっ、ビカラちゃんにジョイ君！<br>無事だったんですね！,啊、是碧卡拉和乔伊！<br>你们没事！
+32,ジョイ,ヘンナ、カンジ、スル。<br>モシカシテ、コレガ、ボンノー？,有种、奇怪的、感觉。<br>这就是、烦恼、吗？
+33,ビカラ,なるほど、<br>とりあえず状況はわかったよ。,原来如此。<br>我明白现在的情况了。
+34,ビカラ,クビラ、ぼくと力を合わせて<br>ユイシスから煩悩を払おう！,库碧拉 ，我们两个一起把优希斯身上的烦恼驱除掉吧！
+35,クビラ/库碧拉,うん、ふたりならなんとか……！<br>ビカラちゃん、術を使うタイミングは<br>任せたよ！,嗯，两个人的话应该能行……！<br>碧卡拉，使用术式的时机就由你来把握了！
+36,ビカラ,悪いけど、姬塔は<br>ユイシスの注意を引きつけて。<br>その間にクビラと煩悩を払うよ！,抱歉，姬塔可以帮忙吸引优希斯的注意吗？<br>我和碧卡拉会抓住机会驱除烦恼的！
+36-sel1_txt,,<span class='scene-font-katari'>わかった！</span>,<span class='scene-font-katari'>明白了！</span>
+37,,<span class='scene-font-katari'>姬塔、ビカラ、クビラの３人は</span><br><span class='scene-font-katari'>慎重にユイシスの前に歩みを進める。</span>,<span class='scene-font-katari'>姬塔、库碧拉、碧卡拉三人慎重地接近优希斯。</span>
+38,,<span class='scene-font-katari'>姬塔、ビカラ、クビラの３人は</span><br><span class='scene-font-katari'>慎重にユイシスの前に歩みを進める。</span>,<span class='scene-font-katari'>姬塔、库碧拉、碧卡拉三人慎重地接近优希斯。</span>
+info,,,scene_evt191228_cp4_q3_s20
+译者,,,
