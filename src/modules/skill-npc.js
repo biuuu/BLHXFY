@@ -123,13 +123,20 @@ const parseSkill = async (data, pathname) => {
   const translated = new Map()
   const keys = skillState.skillKeys
   if (skillData) {
+    let lbCount = 0
     for (let item of keys) {
       const key1 = item[0]
       const key2 = item[1]
       let ability = data[key1]
       if (key1 === 'support_ability_of_npczenith' && !Array.isArray(ability)) {
+        let lbLoopCount = 0
         for (let _k in ability) {
-          ability = ability[_k]
+          if (lbCount <= lbLoopCount) {
+            ability = ability[_k]
+            lbCount++
+            break
+          }
+          lbLoopCount++
         }
       }
       if (!ability || (Array.isArray(ability) && !ability.length)) {
