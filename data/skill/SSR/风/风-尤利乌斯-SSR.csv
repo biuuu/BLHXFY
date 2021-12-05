@@ -1,9 +1,14 @@
 id,name,detail
 npc,尤里乌斯,3040199000
-special,デューク・ラミナ,<div class=prt-text-small>对敌方单体造成4.5倍风属性伤害<br><span class=text-blue>自身获得奥义值+20%</div>
-skill-1,トゥルーインクワイア,<div class=prt-text-small>对敌方全体施加<span class=text-blue>攻防DOWN(累积)/随机弱体效果1种</span><br><span class=text-blue>◆消耗10%奥义值</span></div>
-skill-2,パワーエクストラクション,<div class=prt-text-small>吸收敌方单体1点CT，吸收成功时<span class=text-blue>自身获得30%奥义值</span></div>
-skill-3,ネゲートインフルエンス,<div class=prt-text-small>驱散敌方单体1个强化效果，驱散成功时<span class=text-blue>自身获得30%奥义值</span></div>
-support-1,真理の探究,使用技能时，获得1层真理的探究<br><span class=text-blue>◆每层增加奥义伤害与奥义伤害上限(最大10层)
+special,公爵阶层,对敌方单体造成风属性伤害（特大）/自身的奥义值UP（20%）
+special-テンタクル・サルタティオ,触手窜动,对敌方单体造成风属性伤害（特大）/自身的奥义值UP（20%）/技能CD缩短1回合
+skill-1,寻求真理,<div class=prt-text-small>对敌方全体施加<span class=text-blue>攻防DOWN(累积)/随机弱体效果1种</span><br><span class=text-blue>◆消耗10%奥义值</span></div>
+skill-2,能量萃取,吸收敌方单体1点CT变换成自己的奥义值（成功时30%）
+skill-3,效果否决,<div class=prt-text-small>驱散敌方单体1个强化效果，驱散成功时<span class=text-blue>自身获得30%奥义值</span></div>
+skill-3+,效果否决,<div class=prt-text-small>驱散敌方单体1个强化效果/赋予敌人风属性防御DOWN <span class=text-blue>◆驱散成功时自身获得30%奥义值</span></div>
+skill-4,消蚀,<div class=prt-text-small>对敌人造成风属性伤害/赋予侵蚀效果/恢复自己的HP <span class=text-blue>◆敌人身上的弱体效果数量在10个以上时，发动2次</span></div>
+support-1,真理的探究,<div class=prt-text-small>使用技能时，获得1层真理的探究<br><span class=text-blue>◆根据真理的探究LV获得奥义性能UP（最大10层)</div>
+support-1+,真理的探究,<div class=prt-text-small>使用技能时，获得1层真理的探究<br><span class=text-blue>◆根据真理的探究LV获得奥义性能UP/造成的伤害上升（最大10层)</div>
 support-2,知略縦横,根据敌方弱体效果的数量，自身连续攻击几率提升
 skill-lb,LB技能,战斗开始时，自身获得5%/8%/10%奥义值
+intro,决意的知爵,曾经堕入黑暗的探求者，他面临着祖国的复兴，发誓不再走错道路。抬头看着雷维翁天空中一贯厚厚的黑云，他的眼瞳内，存在着暗自动摇的觉悟。

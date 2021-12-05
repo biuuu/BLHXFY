@@ -1,10 +1,15 @@
 id,name,detail
 npc,欧根,3040077000
-special,狩猎炮火,土属性伤害(特大)/自身攻击20%UP(3回合)
-skill-1,截击II,反击效果(回避时/3次)/自身敌对心UP<span class=text-blue>◆消耗30%奥义值</span>
+special,狩猎炮火,土属性伤害(特大)/赋予我方全体土属性攻击UP/二连击几率UP
+special-ディー・バンデ・カノーネ,猎团炮火,<div class=prt-text-small>土属性伤害(特大)/土属性防御DOWN（累积）/赋予我方全体土属性攻击UP/二连击几率UP</div>
+skill-1,截击II,赋予自己反击效果(回避时/3次)/敌对心UP<span class=text-blue>◆消耗30%奥义值</span>
+skill-デトネイト・エイム,瞄准引爆,<div class=prt-text-small>赋予自己反击效果(回避时/4次)/敌对心UP/暴击率UP/会心效果</div>
 skill-2,突击,赋予1名土属性角色武装效果/高扬效果
-skill-3,自动点火,发动时自身奥义值上升至100%/净化1个弱化效果<span class=text-blue>◆效果中回合结束时奥义值上升至100%</span>
-support-1,通古斯卡爆炸,成为敌方攻击目标时，奥义连击伤害UP(10%，累积，最大100%)
+skill-3,自动点火,<div class=prt-text-small>发动时自身奥义值上升至100%/净化1个弱体效果<span class=text-blue>◆效果中回合结束时奥义值上升至100%</span></div>
+skill-3+,自动点火,<div class=prt-text-small>自己可立刻发动奥义/恢复所有弱体效果<span class=text-blue>◆效果中回合结束时奥义值上升至100%/效果结束时获得奥义再发动（1次）</span></div>
+skill-4,羁绊之铳,对敌人造成10倍土属性伤害/赋予自己苍醒弹5个
+support-1,通古斯卡爆炸,成为敌方攻击目标时，奥义连击性能UP(累积)
 support-2,爆头,暴击时伤害上限UP
+support-デトネイトショット,爆破射击,<div class=prt-text-small>暴击时伤害上限UP/奥义发动时根据苍醒弹的数量造成追加伤害（最大5次）通常攻击后消费1个苍醒弹对敌人造成土属性伤害</div>
 skill-lb,LB技能,发动奥义时攻击UP(累积，最大30%，永续)
 intro,苍醒的志士,老辣的枪手终于倾吐心中的悔恨。若同处因果纠葛中的那女子听闻，定会为其母感到愤慨。而他只是相信二人会重归于好，静静等待。
