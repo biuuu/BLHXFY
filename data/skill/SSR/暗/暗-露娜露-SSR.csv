@@ -1,8 +1,14 @@
 ﻿id,name,detail
 npc,露娜露,3040172000
-special,Calamity Comics,完成一张原稿/我方全体奥义值10%UP
-skill-1,摹本 II,自身高昂效果/复制我方成员的技能(复制可能时)
-skill-2,Handsome Gorilla DA,暗属性角色Tension UP/必定连击(三连击率20%UP)/自身HP减少20%
-skill-3,灵感,可即时使用奥义与技能1/自身HP减少10%
+special,漫画浩劫,完成一张原稿/我方全体奥义值10%UP/奥义伤害UP（累积）/奥义伤害上限UP（累积）
+special-ディザスター・コミックス,漫画灾难,<div class=prt-text-small>暗属性伤害(特大)完成一张原稿/我方全体奥义值10%UP/奥义伤害UP（累积）/奥义伤害上限UP（累积）</div>
+skill-1,复写II,赋予自己高扬效果/复制我方成员的技能(复制可能时)
+skill-2,帅气猩猩DA,暗属性角色激奏UP/必定连击 <span class=text-blue>◆减少露娜露最大HP的20%</span>
+skill-2++,帅气猩猩DA,暗属性角色激奏UP/奥义值上升量UP/必定连续攻击 <span class=text-blue>◆减少露娜露最大HP的20%</span>
+skill-3,灵感,可即时使用奥义与复写II <span class=text-blue>◆减少露娜露最大HP的30%</span>
 support-1,截稿日,根据自身HP减少量，我方全体攻防UP
-support-2,质量上升,每完成1张原稿，暗属性角色奥义性能UP
+support-1+,截稿日,根据自身HP减少量，我方全体攻防UP/伤害上限UP
+support-2,质量上升,回合结束时，根据完成的原稿数量提高自己的奥义值
+support-3,原稿完成,完成3张原稿后露娜露无法战斗时，将完成的原稿赋予暗属性角色
+skill-lb,LB技能,喝下帅气猩猩DA时有几率暴发野性
+intro,妄想少女X,通过空之旅途抵达了梦想中的舞台，画师创造出了耽美原稿。但这对她来说只是开始的第一步。朝着更大的飞跃，绘画学习永无止境。
