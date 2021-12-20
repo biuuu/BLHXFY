@@ -28,6 +28,7 @@ const parseRegExp = (str, nounRE) => {
 const transSkill = (comment, { commSkillMap, nounMap, nounRE, autoTransCache }) => {
   if (autoTransCache.has(comment)) return autoTransCache.get(comment)
   let result = comment
+  if (!result) return comment
   for (let [key, value] of commSkillMap) {
     if (!trim(key)) continue
     const { trans, type } = value
