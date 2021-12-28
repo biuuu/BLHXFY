@@ -8,8 +8,8 @@ special-Meteor Thrust,流星冲击,土属性伤害(特大)/切换到斧形态/�
 special-Astro Destruction,星体毁灭,土属性伤害(特大)/切换到剑形态/自身土属性攻击力UP
 special-Annihilation Nova,湮灭新星,土属性伤害(特大)/切换到斧形态/对目标发动追击，造成2次999999无属性伤害
 skill-1,枭首之怒,<div class=prt-text-small>对敌方单体造成土属性伤害/自身获得逆境效果(HP越少攻击力越高)/根据所处形态发动效果<br>斧:自身获得吸收效果 <span class=text-blue>剑:自身普通攻击伤害UP</span></div>
-skill-2,愤怒铸就,<div class=prt-text-small>自身根据所处形态发动效果<br>斧:自身获得反击效果(回避·3次)<br><span class=text-blue>剑:自身不经过回合发动一次普通攻击</span></div>
-skill-2++,愤怒铸就,<div class=prt-text-small>自身获得必定三连击/根据所处形态发动效果<br>斧:自身敌对心UP/反击效果(回避·3次)<br><span class=text-blue>剑:自身获得土属性追击效果/不经过回合发动一次普通攻击</span></div>
+skill-2,愤怒铸就,<div class=prt-text-small>自身根据所处形态发动效果<br>斧:自身获得反击效果(回避·受伤/3次)<br><span class=text-blue>剑:自身不经过回合发动一次普通攻击</span></div>
+skill-2++,愤怒铸就,<div class=prt-text-small>自身获得必定三连击/根据所处形态发动效果<br>斧:自身敌对心UP/反击效果(回避·受伤/3次)<br><span class=text-blue>剑:自身获得土属性追击效果/不经过回合发动一次普通攻击</span></div>
 skill-3,原爆点,牺牲自身HP对敌方全体造成无属性伤害/自身获得屏障效果
 skill-3+,原爆点,<div class=prt-text-small>牺牲自身HP对敌方全体造成无属性伤害/土属性防御力DOWN/自身获得屏障效果</div>
 skill-4,三寅之祝福,<div class=prt-text-small>自身可以立即发动奥义/回合结束时奥义值变为100%(3回合)/攻击力UP/奥义伤害上限UP<br><span class=text-blue>◆无法再次使用</span></div>
