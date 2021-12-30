@@ -202,13 +202,13 @@ id,ja,en,name,detail
 7100,朧,Haze,胧,<div class=prt-text-small>对敌人造成自属性伤害 <span class=text-blue>刀：赋予自身失明效果/二连攻击概率UP<br>格斗：自身的攻击UP/防御DOWN/奥义槽上升量UP</span></div>
 30052,隠密,Spy,隐秘,低概率回避所有攻击
 30053,打剣,Striking Sword,打剑,风魔手里剑的效果UP
-200231,エレメンタルキャスト,Runeweaving,元素分配,借助四大元素的力量发动魔法
+200231,エレメンタルキャスト,Runeweaving,元素祈咒,使用四大元素发动魔法，根据不同顺序获得不同效果
 7110,焙烙玉,Home-Made Bomb,焙烙玉,5回合后对敌方全体造成自属性伤害
-200401,マナバースト,Mana Burst,玛娜爆发,根据赋予自身的魔法阵的数量，对敌方全体造成大幅伤害
-200411,ドラゴンブレイク,Dragon Break,破龙击,<div class=prt-text-small>根据赋予自身的魔法阵，赋予我方全体自属性追击效果(最大80%)<br><span class=text-blue>◆消费所有魔法阵</span></div>
-200431,スペルブースト,Spell Boost,爆速咏唱,<div class=prt-text-small>赋予自身的魔法阵各自增加一层/缩短2回合元素分配的冷却时间　<span class=text-blue>◆消费30%奥义槽</span></div>
-30198,エンチャントスペル,Enhanced Spellweaving,咏唱增幅,自己的强化効果「属性攻击UP」的効果UP
-30199,エレメンタルチャージ,Elemental Charge,元素积蓄,奥义发动时追加自属性魔法阵各1个(各属性最大2)
+200401,マナバースト,Mana Burst,法力爆发,根据自身获得「魔法阵」的数量，对敌方全体造成自属性伤害
+200411,ドラゴンブレイク,Dragon Break,龙力破击,<div class=prt-text-small>我方全体根据自身「魔法阵」数量获得自属性追击效果<br><span class=text-blue>◆消耗所有「魔法阵」</span></div>
+200431,スペルブースト,Spell Boost,强化施法,<div class=prt-text-small>自身所有「魔法阵」层数增加1层/缩短2回合「元素祈咒」技能使用间隔<span class=text-blue>◆消耗30%奥义值</span></div>
+30198,エンチャントスペル,Enhanced Spellweaving,施法增幅,自身获得属性攻击力UP时效果UP
+30199,エレメンタルチャージ,Elemental Charge,元素充能,自身发动奥义后获得1层自属性「魔法阵」<span class=text-blue>◆同种元素「魔法阵」上限2层</span>
 7000,画竜点睛,Finishing Touch,画龙点睛,连续攻击几率UP<br><span class=text-blue>◆在受到伤害前维持效果</span>
 7010,瞑想,Self Reflection,冥想,<div class=prt-text-small>自己的攻击力UP/暴击率UP/恢复全部弱体效果<span class=text-blue>◆消费30%奥义槽</span></div>
 7020,鴉雀無声,Quiet Strategy,鸦雀无声,<div class=prt-text-small>自己的防御力UP<span class=text-blue> 刀：赋予自己幻影效果（1次）/自己的攻击力DOWN 弓：自己的攻击力UP/连续攻击几率DOWN/奥义槽DOWN</span></div>

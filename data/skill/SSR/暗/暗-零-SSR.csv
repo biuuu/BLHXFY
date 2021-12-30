@@ -7,3 +7,5 @@ skill-3,白眼视,<div class=prt-text-small>敌方全体「白眼视」<br><span
 skill-4,天之逆手,<div class=prt-text-small>本回合结束时的经过回合数额外加5<br><span class=text-blue>◆回合结束时自身处于前排生效</span></div>
 support-1,悟性的智慧,自身使用操纵型技能期间，无法进行攻击
 support-2,守护孩子的母亲,我方暗属性角色对处于「天网的星眼」的目标奥义性能增加
+skill-lb,LB技能,我方全体获得光属性伤害减轻<span class=text-blue>◆仅前排有效</span>
+intro,悟心瞳师,这眼瞳能看透天上天下的森罗万象。久远的少女以一己之力将天空的污秽扫净，将纯洁的孩子们引入安宁之地。fan
