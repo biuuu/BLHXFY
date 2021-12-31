@@ -129,8 +129,16 @@ const parseSkill = async (data, pathname) => {
       const key1 = item[0]
       const key2 = item[1]
       let ability = data[key1]
+
+      if (!ability || (Array.isArray(ability) && !ability.length)) {
+        if (!data.ability) continue
+        ability = data.ability[key1]
+        if (!ability || (Array.isArray(ability) && !ability.length)) continue
+      }
+
       if (key1 === 'support_ability_of_npczenith' && !Array.isArray(ability)) {
         let lbLoopCount = 0
+        let abTemp = ability
         for (let _k in ability) {
           if (lbCount <= lbLoopCount) {
             ability = ability[_k]
@@ -139,11 +147,9 @@ const parseSkill = async (data, pathname) => {
           }
           lbLoopCount++
         }
-      }
-      if (!ability || (Array.isArray(ability) && !ability.length)) {
-        if (!data.ability) continue
-        ability = data.ability[key1]
-        if (!ability || (Array.isArray(ability) && !ability.length)) continue
+        if (abTemp === ability) {
+          continue
+        }
       }
 
       if (ability.recast_comment) {
