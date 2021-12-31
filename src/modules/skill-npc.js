@@ -155,6 +155,9 @@ const parseSkill = async (data, pathname) => {
       if (ability.recast_comment) {
         ability.recast_comment = replaceTurn(ability.recast_comment)
       }
+      if (ability.recast_additional_comment) {
+        ability.recast_additional_comment.replace('リンクアビリティで連動', 'Link技能')
+      }
       const [plus1, plus2] = getPlusStr(ability.name)
       let trans = skillData[`skill-${ability.name}`]
       if (!trans) {
