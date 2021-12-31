@@ -423,6 +423,13 @@ path,text,trans,count
 /detail/content/detail,推しキャラ設定を外す,取消喜欢的角色,
 /detail/content/detail,おまかせ編成の対象から除外,从自动编成的对象里排除,
 /detail/content/detail,おまかせ編成の対象に含める,包含到自动编成的对象里,
+/detail/content/detail,効果時間,持续时间,
+/detail/content/detail,使用間隔,冷却时间,33
+/detail/content/detail,使用可能,使用限制,33
+/detail/content/detail,初回召喚,首次召唤,33
+/detail/content/detail,習得条件,解锁条件,33
+/detail/content/detail,ターン,回合,66
+/detail/content/detail,ターン後,回合后,66
 /content,閉じる,关闭,15
 /content,撤退する,撤退,15
 raid/,使用制限数に達しているため,因达到使用次数上限,
@@ -704,9 +711,9 @@ raid/,召喚石情報,召唤石信息,
 /setting,クエスト開始時にAP・BPが不足している場合、自動的にアイテムを必要数使用しAP・BPを回復します,任务开始时若AP、BP不足，则自动消费对应数量道具补充AP、BP,
 /setting,※詳細設定で使用するアイテムの種類を設定できます,※可在详细设定中设定使用道具的种类,
 /setting,自動回復する,自动回复,2
-/setting,自動アイテム使用時の通知設定,自动使用道具时的通知设定
-/setting,自動回復後のアイテム使用完了通知を非表示にします,不显示自动回复后的道具使用完毕通知
-/setting,※通知を非表示にしている場合、自動的に消費したアイテムの補填依頼に応じられない場合があります。あらかじめご了承ください,※如设定不显示通知，可能会出现无法自动应对消费道具补充委托的情况。请知悉。
+/setting,自動アイテム使用時の通知設定,自动使用道具时的通知设定,
+/setting,自動回復後のアイテム使用完了通知を非表示にします,不显示自动回复后的道具使用完毕通知,
+/setting,※通知を非表示にしている場合、自動的に消費したアイテムの補填依頼に応じられない場合があります。あらかじめご了承ください,※如设定不显示通知，可能会出现无法自动应对消费道具补充委托的情况。请知悉。,
 /setting,回復,回复,2
 /setting,条件を設定してください,请设置条件,
 /setting,レアリティ,稀有度,
@@ -940,7 +947,7 @@ raid/,召喚石情報,召唤石信息,
 /enhancement_weapon/content,ベース武器を選択してください,请选择基础武器,
 /enhancement_weapon/content,ベースにできる武器がありません,没有可作为基础的武器,
 /enhancement_weapon/content/material,素材武器を選択してください,请选择素材武器,5
-/enhancement_weapon/content,育成アイテムを使用できます,可使用育成道具
+/enhancement_weapon/content,育成アイテムを使用できます,可使用育成道具,
 /party/content/set_poses,スキン・POSE切り替え,皮肤·POSE切换,
 /party/content/set_poses,スキンを選択してください,请选择皮肤,
 /party/content/set_poses,推しキャラTwitter投稿画像,喜爱角色Twitter投稿画像,
