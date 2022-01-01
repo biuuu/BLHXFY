@@ -91,7 +91,7 @@ id,ja,en,name,detail
 201,エレメンタルフォースII,Elemental Focus II,元素之力II,所有参战者的技能伤害UP（大）
 220,クイック,Quick Strike,加速,我方全体的连续攻击概率UP
 1201,ディレイII,Stall II,指针倒退II,对敌人造成自属性伤害/赋予减速效果
-1600,ミゼラブルミスト,Miserable Mist,惨雾,全体敌人攻击力DOWN/防御力DOWN
+1600,ミゼラブルミスト,Miserable Mist,惨雾,敌方全体攻击力DOWN/防御力DOWN
 1500,グラビティ,Gravity Wave,重力,增加敌人的最大CT
 30029,サボタージ,Sabotage,破坏,弱化成功概率UP
 30031,ヘイスティアクション,Hasty action,重整架势,所有技能的冷却时间减少一回合
@@ -164,7 +164,7 @@ id,ja,en,name,detail
 4512,レゾナンスサージ,Resonating Surge,共鸣电流,对敌人造成自属性伤害/自身的技能伤害UP（累积）
 30048,ヴォリショナル,Volitional,长柄好手,装备枪时攻击力UP<br>装备斧时防御力UP
 30049,クライシスブロウ,Crisis Blow,危险扳机,共鸣电流造成的伤害UP
-9537,雷光水明,Thunder on the Water,雷光水明,<div class=prt-text-small>对敌人造成自属性伤害　<span class=text-blue>枪：维持Break状态/所有参战者的技能伤害UP 斧：减少OD条/我方全体的奥义槽UP</span></div>
+9537,雷光水明,Thunder on the Water,雷光水明,<div class=prt-text-small>对敌人造成自属性伤害<span class=text-blue>枪：维持Break状态/所有参战者的技能伤害UP 斧：减少OD条/我方全体的奥义槽UP</span></div>
 249,エインフェリアル,Einherjar,英灵化,每回合攻击力UP <span class=text-blue>◆受到伤害解除</span>
 608,湧水の羽衣,Springwater Robe,涌水的羽衣,赋予自己幻影效果(2回)/涌水的羽衣効果
 9531,狂信演舞,Dance of Zeal,狂信演舞,除自己以外的己方队员攻击UP/防御DOWN/赋予自己献身效果
@@ -173,18 +173,18 @@ id,ja,en,name,detail
 5061,ランドグリース,Randgrith,碎盾者,降低敌人的防御
 200801,霹靂閃電,,霹雳闪电,<div class=prt-text-small>枪得意角色必定三连击/斧得意角色通常攻击造成的伤害UP</div>
 30097,水の中で動くもの、雲の海に生きるもの,"Swim Like a Bird, Fly Like a Fish",游于水中，翱翔云海,攻击力UP/防御力UP<br>枪装备时连续攻击概率UP<br>斧装备时在单次攻击时追加自属性伤害
-200481,アナザーブレード,Blade Swap,另一把武器,<div class=prt-text-small>效果中，奥义变化为双持武器的奥义/奥义伤害UP(1次)<br><span class=text-blue>◆仅装备双持武器时可以使用</span></div>
-200491,ツインサーキュラー,Twin Coil,双剑闪,对敌方全体造成2次自属性伤害
-200501,ディストリーム,Decimate,连斩风暴,<div class=prt-text-small>对敌人造成5次弱点属性伤害<br><span class=text-blue>◆装备双持武器时：攻击回数2倍</span></div>
-30211,二刀流,Two-Sword Style,二刀流,装备双持武器时能力UP/同一回合中发动的第二次奥义变化为双持武器的奥义
-200531,アナザーブレードII,Blade Swap II,另一把武器II,<div class=prt-text-small>效果中，奥义变化为双持武器的奥义/自己的奥义性能UP(1次)<br><span class=text-blue>◆仅装备双持武器时可以使用</span></div>
-200561,アーセガル,Aurum Flow,金色洪流,<div class=prt-text-small>对敌人造成自属性伤害/自己的奥义槽UP（20%）<br><span class=text-blue>◆装备双持武器时：发动2次</span></div>
-200511,クロスガード,Cross Guard,交叉防护,<div class=prt-text-small>我方全体获得全属性伤害减免（40%）<br><span class=text-blue>◆装备双持武器时：追加赋予自己掩护效果</span></div>
-200521,チェイスブレード,Chase Blade,追击之刃,<div class=prt-text-small>效果中必定三连击/赋予自己伤害上升效果<br><span class=text-blue>◆仅装备双持武器时可以使用</span></div>
-200541,デュアルアーツ,Dual Arts,战斗艺术,<div class=prt-text-small>效果中自己发动2次奥义<br><span class=text-blue>◆仅装备双持武器时可以使用</span></div>
-200551,ディプティク,Diptych,折叠攻击,<div class=prt-text-small>效果中回合进行时进行2次攻击行动/赋予自己自属性追击效果<span class=text-blue>◆消费20%奥义槽/仅装备双持武器时可以使用</span></div>
-30216,デュアルブレード,Dual Blades' Authority,战斗武器,装备双持武器时能力UP/同一回合中发动的第二次奥义变化为双持武器的奥义
-30218,メイルブレイク,Mailbreaker,披甲破坏者,发动连续攻击时，有概率赋予敌人防御DOWN（累积）<br><span class=text-blue>◆装备双持武器时</span>
+200481,アナザーブレード,Blade Swap,剑刃切换,<div class=prt-text-small>自身发动奥义时使用副手武器的效果/奥义伤害UP(1次)<br><span class=text-blue>◆仅装备副手武器时可用</span></div>
+200491,ツインサーキュラー,Twin Coil,双重打击,对敌方全体造成2次自属性伤害
+200501,ディストリーム,Decimate,粉碎切割,<div class=prt-text-small>对敌方随机造成造成5次弱点属性伤害<br><span class=text-blue>◆装备副手武器时攻击次数翻倍</span></div>
+200511,クロスガード,Cross Guard,交叉防御,<div class=prt-text-small>我方全体获得全属性伤害减免(40%)<br><span class=text-blue>◆装备副手武器时自身额外获得格挡效果</span></div>
+200521,チェイスブレード,Chase Blade,追击剑刃,<div class=prt-text-small>自身必定三连击/伤害UP<br><span class=text-blue>◆仅装备副手武器时可用</span></div>
+30211,二刀流,Two-Sword Style,二刀流,<div class=prt-text-small>自身装备副手武器时获得攻击力UP/防御力UP/连击率UP/三连击时第三击攻击力UP/同一回合中发动的第二次奥义使用副手武器的奥义效果</div>
+200531,アナザーブレードII,Blade Swap II,剑刃切换II,<div class=prt-text-small>自身发动奥义时使用副手武器的效果/奥义性能UP(1次)<br><span class=text-blue>◆仅装备副手武器时可用</span></div>
+200541,デュアルアーツ,Dual Arts,双刃技艺,<div class=prt-text-small>自身获得奥义再发动效果<br><span class=text-blue>◆仅装备副手武器时可用</span></div>
+200551,ディプティク,Diptych,镜像攻击,<div class=prt-text-small>自身获得再攻击效果/自属性追击效果<span class=text-blue>◆消耗20%奥义值/仅装备副手武器时可用</span></div>
+200561,アーセガル,Aurum Flow,黄金流转,<div class=prt-text-small>对敌方单体造成自属性伤害/自身奥义值UP(20%)<br><span class=text-blue>◆装备副手武器时发动2次</span></div>
+30216,デュアルブレード,Dual Blades' Authority,双刃,<div class=prt-text-small>自身装备副手武器时获得攻击力UP/防御力UP/连击率UP/三连击时第三击攻击力UP/同一回合中发动的第二次奥义使用副手武器的奥义效果</div>
+30218,メイルブレイク,Mailbreaker,穿甲之刃,自身连续攻击时概率使目标防御力DOWN(累积)<br><span class=text-blue>◆仅装备副手武器时</span>
 3110,錬成:キュアポーション,Alchemize Green Potion,炼成：治愈膏药,生成治愈膏药
 3120,メディク,Just the Cure,治愈,回复我方全体HP
 3130,士気向上,A Little Pick-Me-Up,士气向上,所以参战者的奥义槽UP
@@ -200,27 +200,27 @@ id,ja,en,name,detail
 7030,忍術,Ninjutsu,忍术,通过结印发动忍术
 7070,風魔手裏剣,Fuma Shuriken,风魔手里剑,<div class=prt-text-small>对敌人造成自属性伤害/根据印记发动追加效果<br><span class=text-blue> 刀：自身再次使用忍术的冷却时间缩短<br>格斗：自身的二连攻击概率UP/攻击力UP</span></div>
 7100,朧,Haze,胧,<div class=prt-text-small>对敌人造成自属性伤害 <span class=text-blue>刀：赋予自身失明效果/二连攻击概率UP<br>格斗：自身的攻击UP/防御DOWN/奥义槽上升量UP</span></div>
+7110,焙烙玉,Home-Made Bomb,焙烙弹,自身5回合后对敌方全体造成自属性伤害
 30052,隠密,Spy,隐秘,低概率回避所有攻击
 30053,打剣,Striking Sword,打剑,风魔手里剑的效果UP
-200231,エレメンタルキャスト,Runeweaving,元素祈咒,使用四大元素发动魔法，根据不同顺序获得不同效果
-7110,焙烙玉,Home-Made Bomb,焙烙玉,5回合后对敌方全体造成自属性伤害
-200401,マナバースト,Mana Burst,法力爆发,根据自身获得「魔法阵」的数量，对敌方全体造成自属性伤害
+200231,エレメンタルキャスト,Runeweaving,元素祈咒,使用四大元素发动魔法，并根据顺序获得不同效果
+200401,マナバースト,Mana Burst,法力爆发,根据自身获得的「魔法阵」数量，对敌方全体造成自属性伤害
 200411,ドラゴンブレイク,Dragon Break,龙力破击,<div class=prt-text-small>我方全体根据自身「魔法阵」数量获得自属性追击效果<br><span class=text-blue>◆消耗所有「魔法阵」</span></div>
 200431,スペルブースト,Spell Boost,强化施法,<div class=prt-text-small>自身所有「魔法阵」层数增加1层/缩短2回合「元素祈咒」技能使用间隔<span class=text-blue>◆消耗30%奥义值</span></div>
 30198,エンチャントスペル,Enhanced Spellweaving,施法增幅,自身获得属性攻击力UP时效果UP
-30199,エレメンタルチャージ,Elemental Charge,元素充能,自身发动奥义后获得1层自属性「魔法阵」<span class=text-blue>◆同种元素「魔法阵」上限2层</span>
+30199,エレメンタルチャージ,Elemental Charge,元素充能,自身发动奥义后获得1层自属性「魔法阵」<span class=text-blue>◆同元素「魔法阵」上限2层</span>
 7000,画竜点睛,Finishing Touch,画龙点睛,连续攻击几率UP<br><span class=text-blue>◆在受到伤害前维持效果</span>
 7010,瞑想,Self Reflection,冥想,<div class=prt-text-small>自己的攻击力UP/暴击率UP/恢复全部弱体效果<span class=text-blue>◆消费30%奥义槽</span></div>
 7020,鴉雀無声,Quiet Strategy,鸦雀无声,<div class=prt-text-small>自己的防御力UP<span class=text-blue> 刀：赋予自己幻影效果（1次）/自己的攻击力DOWN 弓：自己的攻击力UP/连续攻击几率DOWN/奥义槽DOWN</span></div>
-30050,武士道,Samurai Chivalry,武士道,奥义槽的最大值200
+3108,雲散霧消,Into Thin Air,云散雾消,自身获得完全回避效果
+30050,武士道,Samurai Chivalry,武士道,奥义值上限变为200%
 30051,虚心坦懐,Without Reserve,虚心坦怀,鸦雀无声的效果UP
-200191,剣禅一如,One with the Blade,剑禅一如,<div class=prt-text-small>对自己进行特殊强化（连续攻击率UP）/暴击率UP<br><span class=text-blue>◆在受到伤害前保持特殊强化效果</span></div>
-200201,大鷲返し,Eagle Reversal,大鹫返,反击效果(回避・受到伤害/2次)
-3108,雲散霧消,Into Thin Air,烟消云散,回避敌人所有攻击
-200211,無明斬,No More Doubt,无明斩,<div class=prt-text-small>效果中回合进行时进行3次攻击行动<br><span class=text-blue>◆消耗40%奥义槽</span></div>
-200221,烈刀一閃,Rending Flash,烈刀一闪,<div class=prt-text-small>对敌人造成自属性伤害/自己的奥义性能UP<br><span class=text-blue>◆消耗60%奥义槽</span></div>
-30186,心空,Shinku,心空,增加奥义槽的最大值
-30187,雲耀,Unyou,云耀,发动奥义时赋予自己云耀效果（根据云耀LV攻击性能UP/奥义伤害UP）
+200191,剣禅一如,One with the Blade,剑禅一如,<div class=prt-text-small>自身获得「无念无想」/暴击率UP<br><span class=text-blue>◆处于「无念无想」时自身连续攻击率UP(持续至受到伤害)</span></div>
+200201,大鷲返し,Eagle Reversal,大鹫返击,自身获得反击效果(回避・受到伤害/2次)
+200211,無明斬,No More Doubt,无明斩,自身获得三回攻击效果<br><span class=text-blue>◆消耗40%奥义值</span>
+200221,烈刀一閃,Rending Flash,烈刀一闪,<div class=prt-text-small>对敌方单体造成自属性伤害/自身奥义性能UP<br><span class=text-blue>◆消耗60%奥义值</span></div>
+30186,心空,Shinku,心空,奥义值上限变为200%
+30187,雲耀,Unyou,云耀,<div class=prt-text-small>自身发动奥义后获得1层「云耀」(最大5层)<span class=text-blue>◆自身根据「云耀」层数获得攻击力UP/奥义伤害UP/连续攻击率UP</span></div>
 7210,剣神解放,,剑神解放,将主手武器中隐藏的力量唤醒
 7211,剣神共鳴,,剑神共鸣,根据主手武器变化为不同的技能
 7216,集気,Energize,集气,恢复剑气<br><span class=text-blue>◆消费30%奥义槽</span>
