@@ -109,9 +109,9 @@ id,ja,en,name,detail
 3050,内功,Chi Channeler,内功,回复自身HP/防御力UP
 251,カウンターII,Counter II,防守反击II,反击效果（回避/3次）/自己的攻击力UP
 4100,闘気,Fighting Spirit,斗气,对敌人造成自属性伤害/奥义槽UP
-270,羅喉阿修羅陣,Pandemonium,罗喉阿修罗阵,自己的奥义槽上升量UP
+270,羅喉阿修羅陣,Pandemonium,罗喉阿修罗阵,自身奥义值上升量UP
 30095,虎襲の構え,Tigerstrike Solace,猛虎势,攻击力UP
-30043,武神の極意,War God's Wrath,武神的极致,罗喉阿修罗阵的奥义槽上升量UP/冷却时间缩短
+30043,武神の極意,War God's Wrath,武神的极致,罗喉阿修罗阵的奥义值上升量UP/冷却时间缩短
 285,ナイフハンド・ストライク,Knifehand Strike,刽子手强袭,反击效果（受到伤害/3次）自己的防御力UP/敌对心UP
 243,練気,Spirit of Training,练气,自己的攻击UP（累积）
 6131,ファイティングスピリット,Ring Ruler,战斗之魂,赋予自己战斗之魂状态　<span class=text-blue>◆受到伤害后解除效果</span>
