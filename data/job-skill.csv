@@ -198,8 +198,8 @@ id,ja,en,name,detail
 30207,医療の心得,Medical Expertise,医疗的心得,我方全体收到的治愈膏药和全治膏药的效果量UP
 30208,ライフセービング,Lifesaver,生命救护,有濒死状态的我方人员在场时，回合结束时回复我方全体人员HP
 7030,忍術,Ninjutsu,忍术,通过结印发动忍术
-7070,風魔手裏剣,Fuma Shuriken,风魔手里剑,<div class=prt-text-small>对敌人造成自属性伤害/根据印记发动追加效果<br><span class=text-blue> 刀：自身再次使用忍术的冷却时间缩短<br>格斗：自身的二连攻击概率UP/攻击力UP</span></div>
-7100,朧,Haze,胧,<div class=prt-text-small>对敌人造成自属性伤害 <span class=text-blue>刀：赋予自身失明效果/二连攻击概率UP<br>格斗：自身的攻击UP/防御DOWN/奥义槽上升量UP</span></div>
+7070,風魔手裏剣,Fuma Shuriken,风魔手里剑,<div class=prt-text-small>对敌方单体造成自属性伤害/根据印记发动追加效果 刀：「忍术」技能使用间隔缩短2回合<span class=text-blue>格斗：自身连击率UP/攻击力UP</span></div>
+7100,朧,Haze,胧,<div class=prt-text-small>对敌方单体造成自属性伤害 刀：自身获得失明效果/连击率UP<span class=text-blue>格斗：自身攻击力UP/防御力DOWN/奥义值上升量UP</span></div>
 7110,焙烙玉,Home-Made Bomb,焙烙弹,自身5回合后对敌方全体造成自属性伤害
 30052,隠密,Spy,隐秘,低概率回避所有攻击
 30053,打剣,Striking Sword,打剑,风魔手里剑的效果UP
