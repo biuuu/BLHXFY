@@ -1,0 +1,10 @@
+id,name,detail
+npc,湿婆,3040352000
+special,恒河化身,光属性伤害(极大)/自身获得攻击大幅UP
+skill-1,赞神诗,<div class=prt-text-small>对敌方随机造成20次光属性伤害/驱散敌方全体1个强化效果/自身获得「赞神诗」<span class=text-blue>◆「赞神诗」：「天照的旭光」效果UP</span></div>
+skill-2,吉祥天尊,<div class=prt-text-small>我方全体获得弱化无效(1次)/自身获得「吉祥天尊」<span class=text-blue>◆「吉祥天尊」：「再生之净火」效果UP(上限1000)</span></div>
+skill-3,至高天,自身可以立即发动奥义<span class=text-blue>◆10回合后自身追加获得奥义再发动效果</span>
+support-1,天照的旭光,我方光属性角色对暗属性伤害UP<span class=text-blue>◆仅前排有效</span>
+support-2,再生之净火,回合结束时我方全体UP回复(上限500)<span class=text-blue>◆仅前排有效</span>
+support-3,净灭之光,自身普攻无法获得奥义值/普通攻击伤害UP/必定三连击/驱散免疫
+intro,圣凉风雅踊王,舞乃烬灭之韵、奏乃再生之调。如潺潺流水、亦如呼啸狂风。他的舞蹈将生与死同等净化，引向万物运行的正轨。即便是迷失在黑暗中的灵魂，他也会用熊熊烈火之辉引领他们走上安宁之路。
