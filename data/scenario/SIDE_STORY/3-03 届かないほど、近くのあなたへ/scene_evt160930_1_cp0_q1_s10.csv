@@ -1,0 +1,15 @@
+id,name,text,trans
+0-synopsis,,王国の後継者と目される青年が、長く争う敵国の姫と恋に落ちた。ふたりの恋は引き裂かれてしまうのか、それとも成就することができるのか。恋人達の仲を取り持つ騎空士の物語が今、始まる。,作为王国继承人的青年，与长期中处于争斗的敌国公主坠入了爱河。两个人的恋爱是就此破裂？亦或是幸福美满？撮合两人恋爱关系的骑空士物语从现在开始。
+0,,<span class='scene-font-katari'>しんと静まり返った舞台上。</span>\n<span class='scene-font-katari'>下手から一人の男が歩いてくる。\n,<span class='scene-font-katari'>寂静的舞台上。</span>\n<span class='scene-font-katari'>一个男人从下边走来。\n
+1,,<span class='scene-font-katari'>舞台中央で歩みを止める男は、</span>\n<span class='scene-font-katari'>含みのある落ち着いた声色で</span>\n<span class='scene-font-katari'>雄弁に語り始める。\n,<span class='scene-font-katari'>他在舞台中央停止脚步，</span>\n<span class='scene-font-katari'>用含蓄沉稳的声音</span>\n<span class='scene-font-katari'>开始大声说话。\n
+2,？？？,神の恩威が満つ島に\n壁を隔てる二つの国家。,在神之恩威的岛上\n有被墙壁隔开的两个国家。
+3,？？？,十と一つの年を経て\n国を挙げての血煙る戦。,经过了十一年\n举国上下的血战。
+4,？？？,あわれ敵の親を持つ\n不幸な空の恋人たち。,可悲的敌对关系中保持亲近\n不幸的恋人们。
+5,？？？,純な二人が選ぶのは\n果たして国か恋情か。,单纯的二人选择的\n到底是国家还是恋情。
+6,？？？,これよりご覧に入れますは\n二人の仲を取り持つべく――,现在您映入眼帘的是\n撮合了两人关系――
+7,？？？,二つの国を飛び回る\nある騎空士の物語。,在两个国家间飞行的\n某位骑空士的物语。
+8,？？？,悲喜こもごもの六幕の詩、\n最後までご静聴願います。,悲喜交集的六幕之诗、\n请静听。
+9,,<span class='scene-font-katari'>威厳をたたえながら、</span>\n<span class='scene-font-katari'>堂々と退場していく男。\n,<span class='scene-font-katari'>威严地歌颂着、</span>\n<span class='scene-font-katari'>男人堂堂正正地退场。\n
+10,,<span class='scene-font-katari'>舞台の幕が、今、</span>\n<span class='scene-font-katari'>ゆっくりと上がり始める。\n,<span class='scene-font-katari'>舞台的帷幕</span>\n<span class='scene-font-katari'>、现在缓缓升起\n
+info,,,scene_evt160930_1_cp0_q1_s10
+译者,,,

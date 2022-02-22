@@ -1,0 +1,48 @@
+id,name,text,trans
+0-chapter_name,,第8話 君,第8話 君
+0-synopsis,,空の底に向かって落ち続け、意識を失いかける姬塔。すると謎の咆哮が鳴り響き、頭の中に言葉が流れ込んでくる。姬塔を『特異点』と称する謎の存在は、やがて訪れる姬塔の過酷な運命を暗示し、その力と覚悟を問う。問答の末、仲間の存在こそが姬塔を『特異点』たらしめているのだと示唆され、姬塔は夢から覚めるのだった。,姬塔持续向空底坠落，失去了意识，神秘的咆哮声响彻，不知是谁的声音传进了脑海之中。称姬塔为『特异点』的迷之存在暗示残酷的命运即将造访，询问其力量与觉悟。询问的最后，神秘存在暗示同伴的存在正是姬塔成为『特异点』的理由，随后姬塔从梦中醒来。
+2,,<span class='scene-font-katari'>空……</span><br><span class='scene-font-katari'>一面に広がる澄んだ蒼……</span>,<span class='scene-font-katari'>天空……</span><br><span class='scene-font-katari'>一片无垠的碧蓝……</span>
+3,,<span class='scene-font-katari'>こうして何時間が過ぎたのか。</span><br><span class='scene-font-katari'>あるいは数秒しか経っていないのか。</span>,<span class='scene-font-katari'>就这样不知过去了多少小时，</span><br><span class='scene-font-katari'>又或者只有几秒。</span>
+4,,<span class='scene-font-katari'>時間の感覚を失い、</span><br><span class='scene-font-katari'>上下左右の概念も狂い、</span><br><span class='scene-font-katari'>ただ空に身を任せるより他ない中……</span>,<span class='scene-font-katari'>失去了时间的感觉，</span><br><span class='scene-font-katari'>上下左右的概念也已经混乱，</span><br><span class='scene-font-katari'>只是把身体交给天空任其坠落……</span>
+5,,<span class='scene-font-katari'>姬塔の胸に去来するのは、</span><br><span class='scene-font-katari'>ビィとルリアと仲間達の姿だった。</span>,<span class='scene-font-katari'>浮现在姬塔脑海中的，</span><br><span class='scene-font-katari'>是碧和露莉亚，与同伴们的身姿。</span>
+12,ビィ/碧,――なぁなぁ。<br>オマエ、本当に<br>村を出るつもりなのかぁ？,呐呐，<br>你真的打算离开村子吗？
+16,ルリア/露莉亚,あのね、あのね！<br>あの人、私を助けてくれて……<br>すっごくカッコ良かったんだよ！,那个那个，<br>那个人救了我……<br>好帅啊！
+20,カタリナ/卡塔莉娜,怪我はないようだな。<br>君達がルリアを守ってくれたのか？,似乎没受伤。<br>是你们保护了露莉亚吗？
+24,ラカム/拉卡姆,仮にも騎空団を名乗るってんなら、<br>操舵士のひとりでも仲間にしてから<br>名乗るこったな。,如果想组骑空团的话，<br>至少也得有个操舵士入伙才行啊。
+28,イオ/伊欧,ど、どーも……<br>世話になったみたいね。<br>助かったわ。,谢，谢谢……<br>好像受你照顾了，感谢。
+32,オイゲン/欧根,うーい、ご苦労さん。<br>妙な連中を捕まえたんだって？,喂，辛苦了。<br>听说你抓到了奇怪的家伙？
+36,ロゼッタ/萝赛塔,そんなに驚かれると傷つくわね……<br>怪しい者じゃないわ。<br>見ての通りの、か弱い乙女よ。,你这么惊讶的反应真伤人啊……<br>我又不是怪人，如你所见，<br>只是个柔弱的女孩子哦。
+40,,<span class='scene-font-katari'>数々の思い出に浸り、</span><br><span class='scene-font-katari'>意識を失いかける姬塔。</span>,<span class='scene-font-katari'>姬塔沉浸在回忆中，</span><br><span class='scene-font-katari'>失去了意识。</span>
+44,,<span class='scene-font-katari'>すると謎の咆哮が鳴り響き、</span><br><span class='scene-font-katari'>頭の中に言葉が流れ込んできた。</span>,<span class='scene-font-katari'>突然迷之咆哮响起，</span><br><span class='scene-font-katari'>脑海中响起了谁说话的声音。</span>
+50,大いなる存在,<span class='scene-font-gray'>空の子よ……</span>,<span class='scene-font-gray'>空之子哟……</span>
+51,大いなる存在,<span class='scene-font-gray'>我は始祖にして終焉なる者……</span><br><span class='scene-font-gray'>裂かれし身に寄りて刹那に顕現せり……</span>,<span class='scene-font-gray'>我既是始祖亦是终焉……</span><br><span class='scene-font-gray'>寄于分裂之身刹那显现……</span>
+52,大いなる存在,<span class='scene-font-gray'>今こそ汝を試さん……</span><br><span class='scene-font-spword'>特異点</span><span class='scene-font-gray'>たる力と覚悟を……</span>,<span class='scene-font-gray'>现在考验你……</span><br><span class='scene-font-gray'>身为</span><span class='scene-font-spword'>特异点</span><span class='scene-font-gray'>的力量与觉悟……</span>
+53,,<span class='scene-font-katari'>有無を言わさぬ重圧感。</span><br><span class='scene-font-katari'>思わず従いそうになる神々しさ。</span><br><span class='scene-font-katari'>その謎の存在は尚も語り続ける。</span>,<span class='scene-font-katari'>不容分说的重压感，</span><br><span class='scene-font-katari'>令人不由臣服的神圣，</span><br><span class='scene-font-katari'>迷之存在继续道来。</span>
+54,大いなる存在,<span class='scene-font-spword'>特異点</span><span class='scene-font-gray'>……</span><br><span class='scene-font-gray'>世界の行末を左右する因子のひとり……</span>,<span class='scene-font-spword'>特异点</span><span class='scene-font-gray'>……</span><br><span class='scene-font-gray'>左右世界结局的因子之一……</span>
+55,大いなる存在,<span class='scene-font-gray'>赤き竜と蒼の少女を伴えば、</span><br><span class='scene-font-gray'>相反する宿命の狭間に惑い、</span><br><span class='scene-font-gray'>汝は数多なる苦難に苛まれるだろう……</span>,<span class='scene-font-gray'>赤色龙与苍之少女为伴，</span><br><span class='scene-font-gray'>困惑于相反宿命的夹缝之中，</span><br><span class='scene-font-gray'>你经历了太多苦难吧……</span>
+56,大いなる存在,<span class='scene-font-gray'>それは此度の禍の如き大いなる苦難……</span>,<span class='scene-font-gray'>如今正遭受灾难般的苦难……</span>
+57,大いなる存在,<span class='scene-font-gray'>それでも尚……</span><br><span class='scene-font-spword'>空の果て</span><span class='scene-font-gray'>を目指さんとするか？</span>,<span class='scene-font-gray'>即使如此……</span><br><span class='scene-font-gray'>你依然要前往</span><span class='scene-font-spword'>空之尽头</span><span class='scene-font-gray'>吗？</span>
+57-sel1_txt,,<span class='scene-font-katari'>もちろん</span>,<span class='scene-font-katari'>当然</span>
+57-sel2_txt,,<span class='scene-font-katari'>宿命なんて信じない</span>,<span class='scene-font-katari'>不相信宿命</span>
+59,大いなる存在,<span class='scene-font-gray'>…………</span>,<span class='scene-font-gray'>…………</span>
+60,大いなる存在,<span class='scene-font-gray'>ふたつの宿命の交錯は、</span><br><span class='scene-font-gray'>やがて全ての世界を無に帰すもの……</span>,<span class='scene-font-gray'>两个命运的交错会令</span><br><span class='scene-font-gray'>全部世界回归虚无……</span>
+62,大いなる存在,<span class='scene-font-gray'>信じようと信じまいと、</span><br><span class='scene-font-gray'>必ず後悔が訪れるだろう……</span>,<span class='scene-font-gray'>不论你相不相信，</span><br><span class='scene-font-gray'>都一定会后悔……</span>
+63,大いなる存在,<span class='scene-font-gray'>ふたつの宿命の交錯は、</span><br><span class='scene-font-gray'>やがて全ての世界を無に帰すもの……</span>,<span class='scene-font-gray'>两个命运的交错会令</span><br><span class='scene-font-gray'>全部世界回归虚无……</span>
+64,大いなる存在,<span class='scene-font-gray'>その時、汝は選択できるか？</span><br><span class='scene-font-gray'>禍を迎えし時、友か魂の共有者を……</span>,<span class='scene-font-gray'>那时你还能做出选择吗？</span><br><span class='scene-font-gray'>灾祸来临之时，<br>是朋友还是灵魂共有者……</span>
+64-sel1_txt,,<span class='scene-font-katari'>ふたりとも救う</span>,<span class='scene-font-katari'>两个都要救</span>
+64-sel2_txt,,<span class='scene-font-katari'>そんな時は来ない</span>,<span class='scene-font-katari'>不会有那一天</span>
+66,大いなる存在,<span class='scene-font-gray'>大それた事を……</span>,<span class='scene-font-gray'>真是狂妄……</span>
+68,大いなる存在,<span class='scene-font-gray'>随分と異な事を……</span>,<span class='scene-font-gray'>真是奇特……</span>
+69,大いなる存在,<span class='scene-font-gray'>……では最後だ、</span><span class='scene-font-spword'>特異点</span><span class='scene-font-gray'>よ。</span>,<span class='scene-font-gray'>最后一个问题，</span><span class='scene-font-spword'>特异点哟</span><span class='scene-font-gray'>。</span>
+70,大いなる存在,<span class='scene-font-gray'>汝に其処まで断言させるものは何だ？</span><br><span class='scene-font-gray'>なにゆえ破滅の旅を恐れずにいられる？</span>,<span class='scene-font-gray'>你如此断言的理由是什么？</span><br><span class='scene-font-gray'>是什么让你不惧怕灭亡的旅途？</span>
+70-sel1_txt,,<span class='scene-font-katari'>仲間がいるから</span>,<span class='scene-font-katari'>因为我有伙伴</span>
+70-sel2_txt,,<span class='scene-font-katari'>ひとりじゃないから</span>,<span class='scene-font-katari'>因为我不是一个人</span>
+72,大いなる存在,<span class='scene-font-gray'>それが汝の力……</span><br><span class='scene-font-gray'>幼き人の身を</span><span class='scene-font-spword'>特異点</span><span class='scene-font-gray'>せしめるもの……</span>,<span class='scene-font-gray'>这就是你的力量……</span><br><span class='scene-font-gray'>以弱小的人类之躯成为</span><span class='scene-font-spword'>特异点</span><span class='scene-font-gray'>的理由……</span>
+74,大いなる存在,<span class='scene-font-gray'>それが汝の力……</span><br><span class='scene-font-gray'>幼き人の身を</span><span class='scene-font-spword'>特異点</span><span class='scene-font-gray'>せしめるもの……</span>,<span class='scene-font-gray'>这就是你的力量……</span><br><span class='scene-font-gray'>以弱小的人类之躯成为</span><span class='scene-font-spword'>特异点</span><span class='scene-font-gray'>的理由……</span>
+75,大いなる存在,<span class='scene-font-gray'>余りにも拙き覚悟……</span><br><span class='scene-font-gray'>極めて脆弱なる力……</span>,<span class='scene-font-gray'>无比稚嫩的觉悟……</span><br><span class='scene-font-gray'>极度脆弱的力量……</span>
+76,大いなる存在,<span class='scene-font-gray'>だが、故に可能性は……</span>,<span class='scene-font-gray'>但，正因如此才有着可能性……</span>
+82,？？？,……て！,醒来……！
+83,？？？,……きろよぉ！,快起来……！
+84,？？？,姬塔！<br>おねがい、起きて……！,姬塔！<br>拜托了，快醒过来……！
+85,？？？,姬塔！<br>頼む、起きろよぉ……！,姬塔！<br>拜托，快醒来啊……！
+info,,,scene_evt170301_cp7_q1_s10

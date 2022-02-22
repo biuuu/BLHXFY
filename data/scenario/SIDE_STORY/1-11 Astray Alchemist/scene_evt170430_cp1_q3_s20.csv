@@ -1,0 +1,48 @@
+id,name,text,trans
+0-chapter_name,,第1話 真理への道標,第1话 通往真理的路标
+0-synopsis,,研究所を訪れた姬塔達一行。しかし、研究所はすでにもぬけの空になっていた。それを不審に思いながらも一行は残された研究資料を探していく。そんな中、突如、白い人型の塊が現れ、姬塔達に襲い掛かってくるのであった。,姬塔一行来到研究所，但研究所已经空了。众人感到怀疑，但还是决定搜集没被带走的研究资料。就在这时，一个白色的人型物体出现，向众人发动攻击。
+0,ビィ/碧,ここが村の奴らが言ってた<br>研究所か……,这里就是村民们说的研究所吗……
+1,ルリア/露莉亚,でも、人の気配が全然しませんね……<br>どうしたんでしょう？,可是，完全没有人的气息啊……<br>到底怎么回事？
+2,,<span class='scene-font-katari'>村人から研究所の場所を聞いた</span><br><span class='scene-font-katari'>姬塔達一行。</span>,<span class='scene-font-katari'>姬塔一行从村民口中得知了研究所的位置。</span>
+3,,<span class='scene-font-katari'>しかし、研究所に辿りついたものの、</span><br><span class='scene-font-katari'>そこは何故か、</span><br><span class='scene-font-katari'>もぬけの殻になっていた。</span>,<span class='scene-font-katari'>但当他们来到研究所时，里面已经空了。</span>
+4,カリオストロ/卡莉奥斯特萝,研究資料は……<br>全部なくなってやがる……か。,研究资料……<br>全都没了……么。
+5,カリオストロ/卡莉奥斯特萝,ちっ、どうやら、<br>一歩、遅かったみたいだな。,切，看来我们晚来了一步。
+5-sel1_txt,,<span class='scene-font-katari'>とりあえず調べよう</span>,<span class='scene-font-katari'>总之先调查看看吧</span>
+5-sel2_txt,,<span class='scene-font-katari'>嫌な予感がする</span>,<span class='scene-font-katari'>有种不祥的预感</span>
+6,カリオストロ/卡莉奥斯特萝,ああ、賛成だ。<br>この様子だと、まだ何か残っている<br>可能性は高い。,我赞成。<br>看样子他们很可能留下了什么。
+7,カリオストロ/卡莉奥斯特萝,隅から隅まで徹底的に調べるぞ。,别放过任何一个角落。
+8,ルリア/露莉亚,はい……<br>私もさっきから<br>何か変な感じがして……,是的……<br>我也有种不好的感觉……
+9,カリオストロ/卡莉奥斯特萝,同感だな……<br>だが、ここまで来て<br>手ぶらじゃ帰れねぇ。,我也一样……<br>但来都来了，不能空手而归。
+10,カリオストロ/卡莉奥斯特萝,とりあえず、軽くでも調べるぞ。,总之先调查一遍吧。
+11,カリオストロ/卡莉奥斯特萝,一応、何があってもいいように<br>警戒だけはしとけ。,你们都提高警惕，任何事都有可能发生。
+12,ルリア/露莉亚,は、はい。,好、好的。
+13,ビィ/碧,おうさ！,哦！
+16,カリオストロ/卡莉奥斯特萝,ん？　今の音は……,嗯？ 刚才的声音是……
+17,カリオストロ/卡莉奥斯特萝,って、あぶねぇ<br>姬塔！<br>後ろだっ！,危险！<br>姬塔！看后面！
+18,,<span class='scene-font-katari'>声に振り向いた姬塔に、</span><br><span class='scene-font-katari'>白く、人型に似た塊が牙を剥く。</span>,<span class='scene-font-katari'>姬塔应声回头，只见一个白色的人型物体袭来。</span>
+19,,<span class='scene-font-katari'>その白い塊から放たれた</span><br><span class='scene-font-katari'>膨大な熱量を持つ光線は、</span><br><span class='scene-font-katari'>しっかりと姬塔を捉えていた。</span>,<span class='scene-font-katari'>白色人型块释放出具有庞大热量的光线，瞄准了姬塔。</span>
+21,ルリア/露莉亚,<span class='scene-font-４'>だめぇぇっ！</span>,<span class='scene-font-４'>不行！</span>
+22,カリオストロ/卡莉奥斯特萝,ちっ……！,切……！
+28,,<span class='scene-font-katari'>間一髪、カリオストロは、</span><br><span class='scene-font-katari'>展開した障壁によって、</span><br><span class='scene-font-katari'>姬塔を庇う。</span>,<span class='scene-font-katari'>千钧一发之际，卡莉奥斯特萝展开屏障保护姬塔。</span>
+40,,<span class='scene-font-katari'>しかし、</span><br><span class='scene-font-katari'>白い人型の塊が放つ光線の熱量は、</span><br><span class='scene-font-katari'>削るように障壁にヒビを入れていく。</span>,<span class='scene-font-katari'>但光线的热量在屏障上刻出了裂痕。</span>
+41,カリオストロ/卡莉奥斯特萝,くうっ……っ！,呃……！
+45,,<span class='scene-font-katari'>遂に障壁は破壊され、その衝撃は</span><br><span class='scene-font-katari'>カリオストロと姬塔を</span><br><span class='scene-font-katari'>地面へと叩きつける。</span>,<span class='scene-font-katari'>屏障被破坏，卡莉奥斯特萝和姬塔被冲击掀倒在地。</span>
+47,ルリア/露莉亚,だ、大丈夫ですかっ！<br>カリオストロさんっ！<br>姬塔っ！,没、没事吧！<br>卡莉奥斯特萝！<br>姬塔！
+48,カリオストロ/卡莉奥斯特萝,…………,
+49,ルリア/露莉亚,カリオストロさん！？,卡莉奥斯特萝！？
+50,カリオストロ/卡莉奥斯特萝,あっ？　あ、ああ……<br>オレ様は大丈夫だ。<br>それよりも姬塔は……,啊？哦、哦……<br>我没事。<br>姬塔呢……
+50-sel1_txt,,<span class='scene-font-katari'>カリオストロのおかげで助かった</span>,<span class='scene-font-katari'>多亏卡莉奥斯特萝救我</span>
+50-sel2_txt,,<span class='scene-font-katari'>あまり無茶しないでほしい</span>,<span class='scene-font-katari'>你别太乱来啊</span>
+51,カリオストロ/卡莉奥斯特萝,そうか、ならいい……<br>まっ、怪我がなくて何よりだ。,是么……<br>你没受伤就好。
+52,カリオストロ/卡莉奥斯特萝,それよりも油断するなよ。<br>アレはどうやら、オレ様達と<br>仲良くするつもりは……,比起这个，你们都小心点。<br>看来那东西并不喜欢我们……
+53,カリオストロ/卡莉奥斯特萝,ありがとう、姬塔さんっ☆<br>カリオストロのこと心配してくれてっ☆,谢谢你担心卡莉奥斯特萝☆姬塔☆
+54,カリオストロ/卡莉奥斯特萝,でもその言葉、<br>まんま姬塔に返すぞ。,但这话我原封不动地还给你，姬塔。
+55,カリオストロ/卡莉奥斯特萝,いつも無茶してんのは<br>そっちだろうが。,每次最乱来的都是你吧。
+56,ビィ/碧,だよな……オイラ達、<br>いっつもヒヤヒヤしてんだぜ。<br>姬塔も気を付けてくれよ？,是啊……咱们每次都吓得冒汗呢。<br>姬塔你也为咱们想想啊？
+57,,<span class='scene-font-katari'>その言葉に苦笑を浮かべる、</span><br><span class='scene-font-katari'> 姬塔。</span>,<span class='scene-font-katari'>听到这话，姬塔露出苦笑。</span>
+58,カリオストロ/卡莉奥斯特萝,それよりも油断するなよ。<br>アレはどうやら、オレ様達と<br>仲良くするつもりは……,比起这个，你们都小心点。<br>看来那东西并不喜欢我们……
+60,カリオストロ/卡莉奥斯特萝,……ぐっ！？,……呃！？
+61,,<span class='scene-font-katari'>次の瞬間、カリオストロは</span><br><span class='scene-font-katari'>身体をふらつかせ、倒れそうになる。</span>,<span class='scene-font-katari'>下一瞬间，卡莉奥斯特萝摇晃着差些倒下。</span>
+62,ビィ/碧,お、おい、本当に大丈夫か？<br>なんか、身体がふらついてるけどよ……,喂、你真的没事吗？<br>感觉你站不稳了……
+63,カリオストロ/卡莉奥斯特萝,ああ……大丈夫だ。<br>そんな事よりも今はあいつを<br>ぶっとばさねーと気がすまねぇ！,嗯……没事。<br>比起这个，我现在不狠揍这家伙一顿就咽不下这口气！
+info,,,scene_evt170430_cp1_q3_s20

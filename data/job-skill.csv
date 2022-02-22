@@ -320,5 +320,7 @@ id,ja,en,name,detail
 201071,タクティカル・シールド,,战术护盾,<div class=prt-text-small>我方全体获得屏障效果(2000)/弱化无效(1次)/格挡效果<br><span class=text-blue>◆每层机械元胞增加500的屏障效果(最大4500)<span></div>
 201081,リミットバースト,,极限起爆,<div class=prt-text-small>我方全体获得奥义值UP(25%)/奥义性能UP(1次)<br><span class=text-blue>◆消耗所有机械元胞并提升强化效果<span></div>
 201101,ブリッツレイド,,闪击突袭,自身不经过回合发动一次普通攻击<br><span class=text-blue>◆消耗1层机械元胞<span>
+201501,オーグメント・マギア,,魔能增幅,<div class=prt-text-small>自身获得5层机械元胞(最大5层)/HP回复<br><span class=text-blue>◆HP50%以上时获得强壮效果/HP50%以下时获得逆境效果<span></div>
 30291,レリック・キラー,,星遗杀手,<div class=prt-text-small>自身敌对心UP/防御力DOWN/普通攻击伤害UP<span class=text-blue>◆机械元胞2层及以上时获得无敌效果(1次)触发后消耗1层机械元胞<span></div>
 30292,パーパチュアル・モーション,,永续动力源,<div class=prt-text-small>拥有机械元胞时根据主手武器获得以下效果并在普通攻击后消耗1层机械元胞<br><span class=text-blue>◆剑：攻击力UP/普通攻击伤害UP/必定三连击<br>◆铳：普通攻击后对敌方全体进行自属性技能追击<span></div>
+30318,アージェント・アクティベーション,,,受到大伤害时，自动发动魔能增幅

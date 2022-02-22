@@ -1,0 +1,17 @@
+id,name,text,trans
+0-chapter_name,,第9話 ０００,第9话 ０００
+0-synopsis,,ルシファーを追い詰めた姬塔一行。ルシファーは最後まで退かず、サンダルフォンと一騎打ちとなる。ルシフェルの意思と共に放ったサンダルフォンのパラダイス・ロストがルシファーの技に打ち勝ち、ついに一行はルシファーを倒すのだった。,姬塔一行终于把路西法逼入绝境。路西法直到最后也丝毫不退，和圣德芬展开了单挑对决。圣德芬与路西菲尔的意志一同施放的Paradise Lost战胜了路西法的招式，一行人终于击败了路西法。
+3,ルシファー/路西法,…………！,…………！
+4,サンダルフォン/圣德芬,はぁ……はぁ……！<br>追い詰めたぞ、ルシファー！,哈啊……哈啊……！<br>你已经走投无路了，路西法！
+5,ルシファー/路西法,フン……,哼……
+6,ルシファー/路西法,不用品に特異点……<br>摂理に沿わぬ竜と少女か……,废弃品和特异点……<br>还有不遵循常理的龙和少女吗……
+7,ルシファー/路西法,決定要因は明白だな。<br>あまりにイレギュラーが過ぎる。,决定因素虽然明显，<br>但实在太不合常理了。
+8,サンダルフォン/圣德芬,<span class='scene-font-4'>はあああぁぁぁ──</span>,<span class='scene-font-4'>哈啊——</span>
+10,ルシファー/路西法,だが俺は俺の自由意思を譲らん。,但我不会让我的自由意志妥协。
+13,ルシファー/路西法,<span class='scene-font-4'>パラダイス・ロスト──！</span>,<span class='scene-font-4'>Paradise・Lost——！</span>
+24,サンダルフォン/圣德芬,<span class='scene-font-4'>パラダイス・ロスト──！</span>,<span class='scene-font-4'>Paradise・Lost——！</span>
+32,ルシファー/路西法,…………──！,…………！
+37,,<span class='scene-font-katari'>光と闇が交錯する中、</span><br><span class='scene-font-katari'>姬塔は確かに、</span><br><span class='scene-font-katari'>堕天司の王が膝を屈する様を見た。</span>,<span class='scene-font-katari'>光与暗的交错中，</span><br><span class='scene-font-katari'>姬塔确切看到了堕天司之王</span><br><span class='scene-font-katari'>终于屈膝的样子。</span>
+38,,<span class='scene-font-katari'>様々な者の心を乗せた十二枚羽と、</span><br><span class='scene-font-katari'>何者にも染まらぬ黒き十二枚羽は、</span><br><span class='scene-font-katari'>その因縁に決着をつけたのだった。</span>,<span class='scene-font-katari'>包含众人的心意的十二枚羽翼，</span><br><span class='scene-font-katari'>与不为任何人所染的十二枚黑羽，</span><br><span class='scene-font-katari'>终于决出了因缘的胜负。</span>
+39,,<span class='scene-font-katari'>だがエテメンアンキの墜落は、</span><br><span class='scene-font-katari'>一刻の猶予もないほど迫っており……</span>,<span class='scene-font-katari'>但埃特曼安吉的坠落已经</span><br><span class='scene-font-katari'>到了千钧一发的时刻……</span>
+info,,,scene_evt190228_cp9_q4_s30

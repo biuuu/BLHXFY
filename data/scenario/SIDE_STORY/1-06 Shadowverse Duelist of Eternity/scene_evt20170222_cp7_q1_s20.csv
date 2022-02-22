@@ -1,0 +1,42 @@
+﻿id,name,text,trans
+0-chapter_name,,永久の決闘者,
+0-synopsis,,モルディカイに押され、苦戦する姬塔。そこに帝国兵が襲い掛かってくる。アリサは混乱に乗じてルナを捕まえ、そのまま抱えて走り出す。姬塔もモルディカイの隙を付いて背を向け、ルリアの手を取って駆ける。ルリアの手を引き逃げていく姬塔を見やったモルディカイに生前の記憶が蘇り、突如として帝国兵へと斬りかかるのだった。,被莫迪凯压制，姬塔陷入了苦战。这时，帝国兵向大家袭来，亚里莎趁乱抓住了露娜并抱起她跑了出去。姬塔也抓住莫迪凯的空隙转身拉起露莉亚的手离开。看着逃跑的露莉亚和姬塔，莫迪凯生前的记忆复苏了，突然向着帝国兵们斩去。
+2,モルディカイ/莫迪凯,どうした。こんなものか。<br>命を賭せ、我が宿敵よ。,怎么了。就只是这样吗。<br>赌上性命，我的宿敌。
+6,ビィ/碧,嘘だろ……<br>姬塔が剣で<br>押されてるなんてよ！,骗人的吧……姬塔的剑居然被压制住了！
+7,モルディカイ/莫迪凯,足りない。<br>これでは……足りない！,还不够。这样的话……还不够！
+8,,<span class='scene-font-katari'>その目に浮かぶ炎を碧く揺らめかせ、</span><br><span class='scene-font-katari'>モルディカイは剣を振るう。</span><br><span class='scene-font-katari'>そこへ──</span>,<span class='scene-font-katari'>眼中碧绿的火焰不停晃动，莫迪凯挥舞着剑。在那里——</span>
+12,帝国兵１/帝国士兵１,反撃だ！<br>あの怪物と子供を倒せ！<br>このまま黙っていられるか！,反击了！打倒那个怪物和孩子！不能就这样什么都不做！
+14,アリサ/亚里莎,……っ！？<br>みんな、来たよ！,……呃！？大家，要来了！
+15,ビィ/碧,おいおい、こんな時に……,喂喂，在这个时候……
+16,帝国兵１/帝国士兵１,あれは回収命令が出ていた少女か！<br>ちょうどいい！<br>まとめて片付けるぞ！,那个是回收命令中的少女吗！<br>正好！快点收拾掉她！
+17,ビィ/碧,こ……こりゃ面倒な事に<br>なってきたぜ！,变……变成麻烦的事情了！
+18,帝国兵１/帝国士兵１,二班に別れろ！<br>一方はあの怪物共を！<br>もう一方は少女の回収だ！,两个班分开！一边去和怪物战斗，另一边去回收少女！
+19,帝国兵２/帝国士兵２,<span class='scene-font-4'>はっ！</span>,<span class='scene-font-4'>是！</span>
+23,アリサ/亚里莎,……ルナちゃん！,……小露娜！
+24,,<span class='scene-font-katari'>アリサは帝国兵らが隊列を整える間に</span><br><span class='scene-font-katari'>ルナへと駆け寄り──</span>,<span class='scene-font-katari'>亚里莎在帝国兵整队的时候冲向了露娜。</span>
+27,アリサ/亚里莎,よしっ！　捕まえたよ！,好的！我抓住你了！
+28,ルナ/露娜,え……！<br>やだ！　やだ！　離して！<br>ルナ、お友達作るの！,诶……！不要！不要！放开我！露娜，在交朋友！
+29,アリサ/亚里莎,駄目だよ、ルナちゃん！<br>今は大人しくして！,不行的小露娜，现在要老老实实地！
+30,ビィ/碧,ってか、そのガキンチョだけじゃなくて<br>オイラ達もやべえって！<br>このままじゃ逃げ道塞がれちまうぞ！,话说，不止是那个小鬼，这样下去我们也要不妙了，逃跑的路要被堵住了！
+31,,<span class='scene-font-katari'>ルナを抱えて駆け出したアリサ。</span><br><span class='scene-font-katari'>それを追い、姬塔も</span><br><span class='scene-font-katari'>モルディカイの隙を突いて背を向ける。</span>,<span class='scene-font-katari'>亚里莎抱着露娜跑了出来，姬塔也抓住莫迪凯的破绽转身跟着亚里莎离开。</span>
+32,モルディカイ/莫迪凯,…………！,…………！
+33,ルリア/露莉亚,逃げましょう、姬塔！,赶紧逃吧，姬塔！
+34,,<span class='scene-font-katari'>姬塔はルリアの手を取り、</span><br><span class='scene-font-katari'>帝国兵らの間を縫って走り出す。</span>,<span class='scene-font-katari'>姬塔抓住露莉亚的手，在帝国兵之间寻找间隙奔跑。</span>
+35,モルディカイ/莫迪凯,…………,…………
+36,帝国兵１/帝国士兵１,くっ……！　逃がすな！,咕……！别跑！
+39,帝国兵１/帝国士兵１,<span class='scene-font-4'>ぐあっ！</span>,<span class='scene-font-4'>咕啊！</span>
+41,,<span class='scene-font-katari'>モルディカイは、ルリアの手を引いて</span><br><span class='scene-font-katari'>走る姬塔の背中を見て、</span><br><span class='scene-font-katari'>何を思ったのか──</span>,<span class='scene-font-katari'>莫迪凯看到拉着露莉亚的手奔跑着的姬塔的身影，想到了什么——</span>
+42,,<span class='scene-font-katari'>突如、姬塔らを追う</span><br><span class='scene-font-katari'>帝国兵に斬りかかった。</span>,<span class='scene-font-katari'>突然，他向追赶姬塔一行人的帝国兵们斩了过去。</span>
+43,帝国兵２/帝国士兵２,こ……こいつ！,这……这家伙！
+44,モルディカイ/莫迪凯,…………,…………
+49,？？？,<span class='scene-font-gray'>行け！</span><br><span class='scene-font-gray'>ここは私が引き受ける！</span>,<span class='scene-font-gray'>快走！这里交给我！</span>
+54,モルディカイ/莫迪凯,……行け。<br>ここは私が引き受ける。,……走吧。这里就交给我。
+55,,<span class='scene-font-katari'>姬塔らに背を向けた</span><br><span class='scene-font-katari'>モルディカイは、肩ごしに</span><br><span class='scene-font-katari'>姬塔へと呼びかける。</span>,<span class='scene-font-katari'>莫迪凯背对着姬塔一行人，越过肩膀向姬塔说到。</span>
+59,？？？,<span class='scene-font-gray'>お前は姫を連れて逃げるんだ！</span>,<span class='scene-font-gray'>你要带着公主逃走！</span>
+63,モルディカイ/莫迪凯,……連れて、逃げろ。,……带她走，快逃。
+64,ルリア/露莉亚,はぁ……はぁ……<br>あの骸骨さん、私達の味方を<br>してくれているんでしょうか……？,哈……哈……那具骸骨，是不是站在我们这边了呢？
+68,？？？,<span class='scene-font-gray'>ふっ……私をあなどるな。</span><br><span class='scene-font-gray'>お前以外の手で死ぬ男ではない。</span><br><span class='scene-font-gray'>お前との決着は……</span>,<span class='scene-font-gray'>哼……别小看我了。我不是会死在除你以外的人手里的。和你的决斗……</span>
+72,モルディカイ/莫迪凯,決着は、この後に預けよう。<br>……行け。,决斗，就留在这之后吧。<br>……去吧。
+73,ビィ/碧,お陰で<br>オイラ達を追ってくる連中は<br>かなり少ないみてえだな……,多亏了他，追我们的人少了很多啊……
+74,ビィ/碧,迷う事ねえや！<br>行っちまおうぜ！　姬塔！,不要犹豫了！快走吧！姬塔！
+info,,,scene_evt20170222_cp7_q1_s20

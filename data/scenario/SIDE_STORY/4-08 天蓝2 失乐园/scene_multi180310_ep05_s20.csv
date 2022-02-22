@@ -1,0 +1,56 @@
+id,name,text,trans
+0-chapter_name,,光の試練,光之试练
+0-synopsis,,ある日の朝、起床した姬塔達が部屋の扉を開けると、突如目の前に青空と雲海が広がっていた。とまどう姬塔達は、そこでメタトロンと名乗る“ルシファーの遺産”と邂逅する。黒き怪物の対として作られ空の世界を守る役割を持つというメタトロンは、特異点である姬塔の力を試すため光の試練を課すのだった。,某一天的清晨，姬塔一行起床后打开房门时，面前出现一片晴空和云海，“路西法的遗产”梅塔特隆与一行人见面。作为与黑色怪物对立，拥有守护空之世界职责的梅塔特隆为考验姬塔一行的力量，发起了光之试练。
+1,,<span class='scene-font-katari'>ある日の朝、起床して部屋を出ようと</span><br><span class='scene-font-katari'>扉を開けた姬塔達。</span><br><span class='scene-font-katari'>すると──</span>,<span class='scene-font-katari'>某天清晨，</span><br><span class='scene-font-katari'>姬塔等人起床后打开房门，</span><br><span class='scene-font-katari'>突然——</span>
+8,,<span class='scene-font-katari'>目の前には青空が広がっており、</span><br><span class='scene-font-katari'>姬塔達はなぜか</span><br><span class='scene-font-katari'>足場もない状態で宙に浮いていた。</span>,<span class='scene-font-katari'>一片无垠的青空展现在众人面前，</span><br><span class='scene-font-katari'>他们也悬浮在空中。</span>
+9,ビィ/碧,<span class='scene-font-4'>どどど、どうなってんだぁ！？</span>,<span class='scene-font-4'>怎怎怎，怎么回事！？</span>
+10,ルリア/露莉亚,私達、姬塔を起こして……<br>部屋を出ようとして……<br>まだ夢の中なんでしょうか！？,我们叫醒了姬塔……<br>想要出房间……<br>难道还在做梦吗！？
+11,,<span class='scene-font-katari'>澄み渡る青空、雄大に広がる雲海。</span><br><span class='scene-font-katari'>僅かに風の音のみが聴こえる中、</span><br><span class='scene-font-katari'>茫然と佇む姬塔達。</span>,<span class='scene-font-katari'>姬塔等人茫然地看着澄澈</span><br><span class='scene-font-katari'>蓝天中壮阔的云海，</span><br><span class='scene-font-katari'>耳边只能听到微风吹拂的声音。</span>
+12,,<span class='scene-font-katari'>事態が呑み込めずにいると、</span><br><span class='scene-font-katari'>ふと風に乗って</span><br><span class='scene-font-katari'>声のようなものが耳に届いた。</span>,<span class='scene-font-katari'>一行人完全无法理解眼前的状况，</span><br><span class='scene-font-katari'>突然，一道像是乘风而来的声音</span><br><span class='scene-font-katari'>在耳边响起。</span>
+13,？？？,以前に起きた島々の落下──<br>あの時、四大天司の顕現を契機として、<br>世界は大きく動き出している。,曾经发生的岛屿下落——<br>那时，以四大天司的显现为契机，<br>世界发生了很大变化。
+14,？？？,その速度は、最早誰にも<br>止められぬ程だ。,那个速度，<br>已经没人能阻止了。
+15,？？？,彼らの目的は現状推し量れない。<br>だがこのままでは恐らく、多くの命が<br>望まぬ結末を迎えることになるだろう。,现在还无法推断他们的目的。<br>但这样下去可能会有很多人<br>的生命迎来不想见到的结果。
+16,？？？,そしてそれは、<br>ルシフェルも望んでいない。,而且，路西菲尔不希望这样。
+17,ルリア/露莉亚,あ、あの！<br>あなたは一体誰ですか？,那，那个！<br>你到底是谁？
+18,メタトロン,メタトロン、と名付けられた<br><span class='scene-font-spword'>『ルシファーの遺産』</span>。<br>そう呼ばれている。,梅塔特隆，被取名<span class='scene-font-spword'>『路西法的遗产』</span>。
+19,メタトロン,先に顕現した<span class='scene-font-spword'>黒き者</span>も<br>そう呼ばれていたが、俺はアレの……<br>そう、対の存在のようなもの。,之前显现的<span class='scene-font-spword'>漆黑者</span>也被这样称呼，<br>但我是他的……<br>对，是与他相对的存在。
+20,ビィ/碧,<span class='scene-font-4'>えぇっ！？</span><br>あのヤベェやつの対の存在だぁ！？,<span class='scene-font-4'>诶！？</span><br>是那个糟糕家伙相对的存在！？
+21,メタトロン,神殿が崩壊した際に我らの封印が<br>解かれたが、俺は覚醒が遅れ、<br>空の底に落ち肉体を失ってしまった。,神殿崩坏时我们的封印被解除，<br>但我觉醒的迟了，<br>掉到空之底失去了肉身。
+22,メタトロン,君達の近くに居る、サンダルフォン。,在你们身边的圣德芬。
+23,メタトロン,あれのコアを媒介に、かろうじて<br>残留思念を空に繋ぎ止め、<br>今こうして言葉を伝えている。,我以他的核心做媒介，<br>勉强将自己的残留思念与空连接，<br>像现在这样对你们传话。
+24,ビィ/碧,よくわかんねぇけど、<br>幻聴とかじゃねぇってことか……,虽然听的不是很懂，<br>总之不是幻听对吧……
+25,メタトロン,俺と<span class='scene-font-spword'>黒き者</span>は、彼の<span class='scene-font-spword'>星の民</span>……<br>ルシファーの手により造られた<br>虚ろな存在。,我和<span class='scene-font-spword'>漆黑者</span>是那个<span class='scene-font-spword'>星之民</span>……<br>路西法亲手创造的虚无的存在。
+26,メタトロン,そしてその虚ろな魂故、<br>大いなる力を委ねられた。<br>それこそ天司長に迫るほどの……,被赋予了巨大的力量，<br>那份力量是足以逼近天司长的程度……
+27,メタトロン,しかし天司長程の力を持つということは<br>この自然界において奇跡のようなもの。,拥有天司长那种程度的力量<br>对这个自然界来说已经<br>称得上是奇迹了。
+28,メタトロン,<span class='scene-font-spword'>黒き者</span>……<br>アレは力を持て余し、結果──,<span class='scene-font-spword'>漆黑者</span>……<br>他无法应付那力量，结果——
+29,メタトロン,純粋な破壊衝動のみで行動し、<br>この世の全てを破壊し尽くすまで<br>果てなく動く失敗作となった。,被纯粹的破坏冲动驱使，<br>成了不将世界全部破坏殆尽<br>就不会停止的失败品。
+30,メタトロン,そしてその歯止め役として<br>造られたのが──俺だ。,然后我被创造出来制止他。
+31,メタトロン,アレと同等の力を備えつつ、<br>秩序を宿した、よりルシフェルに<br>近い存在というわけだ。,装备了与其同等的力量，<br>并寄予了秩序，<br>是更加接近路西菲尔的存在。
+31-sel1_txt,,<span class='scene-font-katari'>天司長は結局どうなるの？</span>,<span class='scene-font-katari'>天司长最终怎么样了？</span>
+31-sel2_txt,,<span class='scene-font-katari'>ルシフェルも死んだ</span>,<span class='scene-font-katari'>路西菲尔已经死了</span>
+32,メタトロン,それは、君達も見たはずだ。<br>あの白く輝く６枚羽を。,你们也已经见到了，<br>那洁白光辉的六枚羽翼。
+33,メタトロン,あれは想定外の出来事だった……<br>だが、臨時とはいえ新たな天司長が<br>誕生したのは僥倖と言える。,那是意料之外的事……<br>但即使是临时的，<br>新的天司长诞生也可谓是侥幸。
+34,メタトロン,新たな天司長、サンダルフォン。<br>ルシフェルの近くに居た彼なら<br>役割を果たすに足るはずだ。,新天司长，圣德芬。<br>在路西菲尔身边的他，<br>一定可以完成职责。
+35,メタトロン,ルシフェルも死の際でそれを認めた。<br>四大天司も従うことだろう。,路西菲尔也在临死时认可了他，<br>四大天司也会跟随他吧。
+36,ビィ/碧,アンタ、今やべぇ状況なんだろ？<br>そんな時に、なんでわざわざ<br>オイラ達のところに……,你现在的状况很糟糕吧？<br>这种时候为什么要特地<br>来我们这里……
+37,,<span class='scene-font-katari'>ビィが問いかけたその時、</span><br><span class='scene-font-katari'>一面、視界が眩しい光に覆われた。</span>,<span class='scene-font-katari'>碧在提问时，</span><br><span class='scene-font-katari'>眼前突然被耀眼的光芒覆盖。</span>
+38,ビィ/碧,うおっ！？　眩し──,呜哦！？ 好耀眼——
+49,ルリア/露莉亚,あなたが……メタトロンさん？,你就是……<br>梅塔特隆？
+50,メタトロン,残された全ての力をここで使い、<br>そして消えるとしよう。,我将剩余的力量全部用在这里，<br>然后消失吧。
+51,,<span class='scene-font-katari'>その姿を現したメタトロン。</span><br><span class='scene-font-katari'>元の肉体を無理に再現しているのか</span><br><span class='scene-font-katari'>早々に四肢の先端から崩れていく。</span>,<span class='scene-font-katari'>现出身形的梅塔特隆似乎</span><br><span class='scene-font-katari'>是因为强行再现原来的肉身，</span><br><span class='scene-font-katari'>四肢的前端很快开始脱落。</span>
+52,ビィ/碧,おいおい……無茶すんなって！,喂喂……你不要勉强啊！
+53,メタトロン,──かつてルシフェルが課した<br><span class='scene-font-spword'>『竜の試練』</span>……<br>君は見事それを乗り越えた。,路西菲尔曾经发出的<span class='scene-font-spword'>『龙之试练』</span>……<br>你们很漂亮地跨越过去了。
+54,メタトロン,それは君が、この世界の<br><span class='scene-font-spword'>特異点</span>であることの証左でもある。,那也能证明你就是这个<br>世界的<span class='scene-font-spword'>特异点</span>。
+55,メタトロン,しかし、此度現れた堕天司と<br>もう一人の男。あれは見覚えがある。,但是，这次出现的堕天司<br>和另一个男人，我见过他们。
+56,メタトロン,ルシファーと同じ<span class='scene-font-spword'>星の民</span>だったが、<br>今や人ならざるおぞましい存在だ。,和路西法一样曾是<span class='scene-font-spword'>星之民</span>，<br>但现在已经是不能称为人<br>的可怕存在。
+57,メタトロン,この世界に存在するにはあまりに歪……<br>あれもまた、<br>今や<span class='scene-font-spword'>特異点</span>であるかもしれない。,他还存在于这个世界上实在很不合理……<br>现在的他可能也是<span class='scene-font-spword'>特异点</span>。
+58,メタトロン,世界が対消滅する可能性も<br>考慮するべきだろう。,现在正考虑着让世界<br>消灭的可能性吧。
+59,メタトロン,君が動かす世界と、奴が動かす世界。<br>それにより生まれる摩擦が<br>何をもたらすのか……,你影响的世界，<br>与他影响的世界。<br>将会相互摩擦发生什么……
+60,メタトロン,<span class='scene-font-spword'>黒き者</span>と同じく、俺自身、<br>本来は思考という概念を持たない。<br>己に課された役割を果たすだけの存在。,与<span class='scene-font-spword'>漆黑者</span>相同，<br>我自身本来并没有思考的概念，<br>仅仅是为完成职责的存在。
+61,メタトロン,近い未来、漆黒の悪意と闇が<br>世界を覆い尽くす。<br><span class='scene-font-spword'>黒き者</span>の覚醒はその予兆だ。,不久的将来，<br>漆黑的恶意与黑暗将笼罩世界，<br><span class='scene-font-spword'>漆黑者</span>的觉醒就是前兆。
+62,メタトロン,それを阻止するのが俺の役目であり<br>存在理由でもあったが、<br>最早それも叶わない。,阻止它原本是我的职责，<br>也是我存在的理由，<br>但如今已经无法完成了。
+63,メタトロン,そしてそれを成すには<br>サンダルフォンだけではなく<br><span class='scene-font-spword'>特異点</span>である君の力が必要だ。,为了完成它，<br>不仅需要圣德芬，<br><span class='scene-font-spword'>特异点</span>的你也是必要的。
+64,メタトロン,ルシフェルが信じた、<br>空の世界の力と可能性……<br>俺も同じく信じよう。,路西菲尔坚信的，<br>空之世界的力量与可能性……<br>我也相信吧。
+65,メタトロン,ただ……改めて今一度、<br>事実を更新するため、ここで<br>代理として試練を与える。,但是……<br>现在我想重新证明这个事实，<br>作为代理对你们发出试练。
+68,メタトロン,──<span class='scene-font-spword'>『光の試練』</span>を！,<span class='scene-font-spword'>『光之试练』</span>──！
+info,,,scene_multi180310_ep05_s20

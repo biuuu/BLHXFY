@@ -1,0 +1,18 @@
+﻿id,en,jp,trans
+0-chapter_name,,第2話 ある帝国兵の葛藤, 第2话  某个帝国士兵的纠葛
+0-synopsis,,ユーリは、襲ってきた帝国兵を手近な木に縛り付け、いずれ助けに来る事を密かに約束する。再び歩き出した一行。ファラは、ユーリの問いに対して答え、姬塔の騎空団を抜けて帝国軍に戻る気は無いと語る。そして、帝国軍時代に比べて角の取れたカタリナの事を話題にあげ、なおさら騎空団を離れたくないと口にするのだった。, 尤利他、把袭击过来的帝国兵绑在附近的树上、秘密地和他约定之后一定会来救他的。再次前进的一行人。法拉、回答了尤利的问题、说道没有打算离开姬塔的骑空团回到帝国军。然后、说到卡塔莉娜现在比在帝国军的时候更平易近人的话题、说道现在更没有要离开骑空团的想法了。<br>翻译报错到NGA@mirror0420
+0,,クッ……放せ！, 咕……放开我！
+1,,悪いが……<br>ここでしばらく大人しくしてもらう。, 抱歉了……<br>请你老老实实地在这里呆一会吧。
+2,,<span class='scene-font-kokoro'>（大人しくしてくれ！</span><br><span class='scene-font-kokoro'>俺は裏切ったんじゃない！</span><br><span class='scene-font-kokoro'>「フリ」をしているだけなんだ！）</span>,<span class='scene-font-kokoro'>（请你不要乱动了！</span><br><span class='scene-font-kokoro'>我没有背叛！</span><br><span class='scene-font-kokoro'>只是「假装」背叛了的啊！）</span>
+3,,<span class='scene-font-kokoro'>（お前……！</span><br><span class='scene-font-kokoro'>自分が何をやっているのか</span><br><span class='scene-font-kokoro'>わかっているのか！）</span>,<span class='scene-font-kokoro'>（你……！</span><br><span class='scene-font-kokoro'>你知道你自己</span><br><span class='scene-font-kokoro'>到底在做什么吗！）</span>
+4,,<span class='scene-font-kokoro'>（ファラ達の説得を終えたら……</span><br><span class='scene-font-kokoro'>後で必ず助けに来る！</span><br><span class='scene-font-kokoro'>それまでここで待っていてくれ！）</span>,<span class='scene-font-kokoro'>（等我说服好法拉她们……</span><br><span class='scene-font-kokoro'>我一定会立刻赶来放你的！</span><br><span class='scene-font-kokoro'>在这之前请你待在这儿吧！）</span>
+6,,……っておい！<br>こんな場所に放置するな！<br>おい！, ……啊喂！<br>不要把我留在这种地方！<br>喂！
+11,,さっきの話っすけど。<br>自分、帝国に戻る気は無いっす。, 回到刚才的话题。<br>我、完全没有想过要回帝国。
+12,,先輩と姬塔についてくって<br>決めたっすから。<br>帝国に戻る事なんか考えないっす。, 我已经决定了<br>要一直跟随前辈和姬塔。<br>想回帝国之类的我想都没想过。
+13,,決意は固いってわけか。, 是说决心非常坚定吗。
+14,,先輩と姬塔のおかげで自分、<br>凄く成長できたと思ってるっす。, 多亏了前辈和姬塔、<br>我觉得自己成长了很多。
+15,,先輩も……口には出さないっすけど、<br>きっと帝国抜けてよかったと<br>思ってるハズっす。, 前辈也是……虽然她没有说出来、<br>不过她肯定也认为<br>脱离帝国是正确的选择。
+16,,表情の厳しさが和らいだ気がするっす。<br>昔の先輩、もっとピリピリしてたっす。, 我发现她最近的表情变得柔和了许多。<br>以前的前辈、感觉更加战战兢兢的说。
+17,,そうか？<br>まあ言われてみれば、そんな気も……, 是吗？<br>不过听过你说之后、好像的确是……
+18,,……と、また魔物が出て来たな。<br>行くぞ！, ……啊、魔物又出现了。<br>我們上吧！
+info,,1,scene_evt140930_cp2_q2_s20

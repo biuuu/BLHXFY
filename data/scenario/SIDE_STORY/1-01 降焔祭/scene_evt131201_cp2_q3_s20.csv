@@ -1,0 +1,22 @@
+id,name,text,trans
+0-chapter_name,,2: A Firey Acquaintance,第2话 火焰的因缘
+0-synopsis,,Lyria notes that the escaped monsters stalking the town entrance aren't usually found around Port Breeze. Richard explains that they were most likely brought from another island because they share a connection to the festival.,露莉亚发现聚集在小镇入口的逃跑的魔兽们在微风港并不常见。理查德解释说它们可能是从别的岛上带过来的，因为它们与这个节日有某种联系。
+0,,The crew arrive at the town entrance and are awestruck by the massive horde of monsters before them.,一行人到了城镇门口，被他们面前的巨大怪物群惊到了。
+1,Katalina/卡塔莉娜,Looks like quite a few monsters got loose. This could be trouble.,似乎不少魔物都被放出来了。这的确是个麻烦。
+2,Vyrn/碧,We gotta take 'em out before someone gets hurt!,我们得在有人受伤之前解决他们。
+3,Richard,"Hah! Such uncouth beasts could never match me in skill. I shall defeat them for you, Therese, my sweet. En garde!",哈哈，这些粗鲁的魔物根本不可能是我的对手。我要为你击败他们，特蕾莎，我的宝贝。预备！
+4,Lyria/露莉亚,"Hmm, you don't often see these kinds of monsters around Port Breeze...",嗯，你在微风港不常见这类的魔物...
+5,Richard,"They're most likely from another island, brought here because they have some kind of connection to the festival.",很可能他们是从其它岛上来被带到这里来的，因为与节日有某种关系。
+6,Lyria/露莉亚,"Monsters connected to the festival, huh...",与节日有关的魔物们，呃...
+7,Richard,"Well, Port Breeze's Festival of Falling Flame originally comes from an old legend about a powerful fire monster.",微风港的阵焰祭最开始就起源于一头强大的火焰魔物的古老传说。
+8,Richard,Makes sense that people would bring fire monsters from far away to add to the spectacle.,这样的话，人们把火怪从远方带到这里，增添这一壮观景象的行为就说得通了。
+9,Vyrn/碧,So what exactly is this whole legend thing with the fire monster?,那么，与这个火焰魔物的传说具体是什么呢？
+10,Richard,"Well, I must confess: I myself have only heard it from one of the old-timers who frequents the tavern.",首先我得说，我自己也是从一位常去酒馆的老人口中听说的。
+11,Richard,"If his word is to be believed, then the festival is not just connected to any old monster, but a primal beast, no less.",如果他的话是真的，那么这个节日不是与任何古老的魔物有关，而是至少与一位星晶兽有关。
+12,Richard,The legend tells of a mighty primal beast of fire that visits the island but once a year... The immortal Phoenix.,这个传说述说了一位神奇的星晶兽，它每年都会来一次这座岛...不朽的菲尼克斯
+13,Lyria/露莉亚,Phoenix?,菲尼克斯？
+14,Katalina/卡塔莉娜,"Hm, an interesting story. Perhaps you could tell us more?",嗯，是个有趣的故事。或许你能给我们讲述更多？
+15,Fire Monster,...!,...！
+16,Vyrn/碧,We've got more troublemakers to deal with first!,我们得先处理一些麻烦！
+info,,,scene_evt131201_cp2_q3_s20
+译者,,,swhoro

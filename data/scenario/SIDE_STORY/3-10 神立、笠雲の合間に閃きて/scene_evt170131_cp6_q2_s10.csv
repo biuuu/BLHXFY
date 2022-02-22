@@ -1,0 +1,36 @@
+id,name,text,trans
+0-chapter_name,,第6話 真実,第6话 真相
+0-synopsis,,過去を明かすユリウスの想いの欠片。ユリウスは、レヴィオン王の落胤でありながら疎んじられてきたが、騎士団の仲間に支えられ、矜持を高く持つことで『星の零涙』の誘いの声を退けてきた。しかし、王はユリウス率いる研究部門を閉鎖し、『天雷剣』もアルベールに下賜すると宣言する。ユリウスは王への怒りで星晶獣の力を抑えられなくなり異形化してしまう。そんなユリウスを、王はアルベールを使い謀殺しようとしたのだった。,回忆的碎片让众人知晓了尤里乌斯的过去。尤里乌斯是雷维翁王的私生子，一直遭受国王冷落。但他有骑士团伙伴们的支持，所以能够抗拒『星泪』的声音。然而，国王决定解散尤里乌斯领导的研究部门，并宣言将『天雷剑』赐给阿尔贝尔。对国王的愤怒使尤里乌斯无法抑制星晶兽的力量而化为怪物。而国王打算唆使阿尔贝尔杀死那样的尤里乌斯。
+2,ユリウス/尤里乌斯,<span class='scene-font-gray'>……公爵家の嫡男。</span><br><span class='scene-font-gray'>それが、生まれた後に</span><br><span class='scene-font-gray'>私へ与えられた立場だった。</span>,<span class='scene-font-gray'>……公爵家的嫡男。这是我出生后被赋予的立场。</span>
+3,ユリウス/尤里乌斯,<span class='scene-font-gray'>生まれる前？</span><br><span class='scene-font-gray'>単なる、王城で働く</span><br><span class='scene-font-gray'>女官の子に過ぎない。</span>,<span class='scene-font-gray'>出生之前？只是城堡里一个侍女的孩子罢了。</span>
+4,ユリウス/尤里乌斯,<span class='scene-font-gray'>……ただその父親が、</span><br><span class='scene-font-gray'>現国王だったというだけで。</span>,<span class='scene-font-gray'>……只不过，我的父亲是当下的国王。</span>
+5,ユリウス/尤里乌斯,<span class='scene-font-gray'>血統主義の彼は、</span><br><span class='scene-font-gray'>同時に武勇に優れた者を好む。</span>,<span class='scene-font-gray'>他看重血统，同时喜欢勇武之人。</span>
+6,ユリウス/尤里乌斯,<span class='scene-font-gray'>……学究肌の私のことなど</span><br><span class='scene-font-gray'>忘れたも同然だっただろう。</span><br><span class='scene-font-gray'>それについて責めるつもりはなかった。</span>,<span class='scene-font-gray'>……喜欢研究的我对他来说就像不存在一样。这一点我也不怪他。</span>
+7,ユリウス/尤里乌斯,<span class='scene-font-gray'>彼について考えるよりも、</span><br><span class='scene-font-gray'>もっと私が考えるべきことは</span><br><span class='scene-font-gray'>いくらでもあった。</span>,<span class='scene-font-gray'>有时间去烦恼这些，还不如思考其他问题。</span>
+8,ユリウス/尤里乌斯,<span class='scene-font-gray'>研究に明け暮れる私を</span><br><span class='scene-font-gray'>受け入れてくれた騎士団の仲間達という</span><br><span class='scene-font-gray'>素晴らしい友人もいた。</span>,<span class='scene-font-gray'>我还有朋友们，骑士团的同伴，他们接纳了埋头研究的我。</span>
+9,ユリウス/尤里乌斯,<span class='scene-font-gray'>王の血を受けているとはいえ、</span><br><span class='scene-font-gray'>それだけとも言える私には</span><br><span class='scene-font-gray'>過ぎた居場所だ。</span>,<span class='scene-font-gray'>虽然我继承了国王的血脉，但对我来说，拥有这个归宿已经非常奢侈了。</span>
+10,ユリウス/尤里乌斯,<span class='scene-font-gray'>この場所を守ること。</span><br><span class='scene-font-gray'>それは国を守ることでもある。</span><br><span class='scene-font-gray'>私はそう信じていた。</span>,<span class='scene-font-gray'>守护这个地方，也意味着守护这个国家。我一直这样相信着。</span>
+11,ユリウス/尤里乌斯,<span class='scene-font-gray'>信じていたからこそ、</span><br><span class='scene-font-gray'>『星の零涙』の誘いの声を</span><br><span class='scene-font-gray'>退けることができたのだ。</span>,<span class='scene-font-gray'>正因为相信，我才能够抗拒『星泪』的声音。</span>
+12,ユリウス/尤里乌斯,<span class='scene-font-gray'>だが、私の信頼は揺らいだ。</span>,<span class='scene-font-gray'>但是，我动摇了。</span>,
+13,ユリウス/尤里乌斯,<span class='scene-font-gray'>あの日父王……陛下は私に</span><br><span class='scene-font-gray'>研究部門の閉鎖を告げ、『天雷剣』を</span><br><span class='scene-font-gray'>アルベールに下賜すると宣言した。</span>,<span class='scene-font-gray'>那一天，父王……陛下宣布解散研究部门，并将『天雷剑』赐给阿尔贝尔。</span>
+16,レヴィオン王/雷维翁王,この剣は、<br>真にこの国を憂う者にこそ、<br>相応しい……！,只有真正忧国之人才配拥有这把剑……！
+17,ユリウス/尤里乌斯,<span class='scene-font-gray'>……見ないふりをしてきたものが、</span><br><span class='scene-font-gray'>父の言葉で</span><br><span class='scene-font-gray'>心の奥底から引きずり出される。</span>,<span class='scene-font-gray'>……父王的话语让我回想起那些我一直努力忽视的东西。</span>
+18,ユリウス/尤里乌斯,<span class='scene-font-gray'>血の繋がらぬ公爵の下で</span><br><span class='scene-font-gray'>冷たい目を向けられて育った幼い日々。</span>,<span class='scene-font-gray'>在毫无血缘关系的公爵冷眼相看下度过童年。</span>
+19,ユリウス/尤里乌斯,<span class='scene-font-gray'>どこからともなく知られた生まれを、</span><br><span class='scene-font-gray'>見知らぬ相手に嗤われる日常。</span>,<span class='scene-font-gray'>时常被初次见面的陌生人嗤笑出身。</span>
+20,ユリウス/尤里乌斯,<span class='scene-font-gray'>生まれを疎むまい。</span><br><span class='scene-font-gray'>育ちを蔑むまい。</span><br><span class='scene-font-gray'>なにより、己を貶めることなかれ。</span>,<span class='scene-font-gray'>不可疎嫌生父。不可怨恨养父。更不能贬低自己。</span>
+21,ユリウス/尤里乌斯,<span class='scene-font-gray'>矜持も戒めも</span><br><span class='scene-font-gray'>その瞬間全てが意味を成さなかった。</span>,<span class='scene-font-gray'>但我的自持，我的自警，在那一瞬间显得毫无意义。</span>,
+22,ユリウス/尤里乌斯,<span class='scene-font-gray'>そうして私の中で弾けたのは</span><br><span class='scene-font-gray'>陛下への怒りと……</span><br><span class='scene-font-gray'>……抑え込んでいた星晶獣の力だった。</span>,<span class='scene-font-gray'>在我心中爆发的是，对陛下的愤恨……和压抑已久的星晶兽的力量。</span>
+28,アルベール/阿尔贝尔,お前……<br>その、姿は……！？,你……<br>怎么会变成那样……！？
+29,アルベール/阿尔贝尔,王よ！　これは……！,王！ 这是……！
+30,ユリウス/尤里乌斯,<span class='scene-font-gray'>友よ。</span><br><span class='scene-font-gray'>それを、彼に問うのか。</span>,<span class='scene-font-gray'>我的朋友啊，为什么先问他？</span>
+31,レヴィオン王/雷维翁王,ほ、『星の零涙』じゃ……！<br>その者は、畏れ多くも<br>『星の零涙』の力を利用し……,是、是『星泪』……！他使用了『星泪』的力量……
+32,レヴィオン王/雷维翁王,密かに我を亡き者にしようと<br>企てておったのだ……！,他是想致我于死地，一直在密谋啊……！
+33,ユリウス/尤里乌斯,<span class='scene-font-gray'>父よ。</span><br><span class='scene-font-gray'>そんなにも私が疎ましいか。</span>,<span class='scene-font-gray'>父王啊，你就如此地厌恶我吗？</span>
+34,アルベール/阿尔贝尔,まさか……<br>ユリウスが、そのような……,怎么会……<br>尤里乌斯怎么可能做出那种……
+35,レヴィオン王/雷维翁王,ええい、何をしておるか！<br>そやつは王国を狙う敵であるぞ……！<br>即刻始末せよ！,你还磨蹭什么！<br>他是企图篡权的逆贼……！<br>马上把他给我除掉！
+36,レヴィオン王/雷维翁王,その姿が、何よりの証拠であろうが！,看他那个样子，不就是最好的证据吗！？
+37,ユリウス/尤里乌斯,<span class='scene-font-gray'>叩きつけられた声に従い、</span><br><span class='scene-font-gray'>アルベールが私を見た。</span>,<span class='scene-font-gray'>阿尔贝尔顺着他的声音看向我。</span>
+38,ユリウス/尤里乌斯,<span class='scene-font-gray'>半信半疑のその瞳。<br><span class='scene-font-gray'>私達の信頼と友情を、<br><span class='scene-font-gray'>王への忠義で曇らせる双眸。</span>,<span class='scene-font-gray'>他的眼神半信半疑。我们之间的信赖与友情，此刻因他对国王的忠诚而蒙上阴影。</span>
+39,ユリウス/尤里乌斯,<span class='scene-font-gray'>ああ……</span><br><span class='scene-font-gray'>……なんて、馬鹿馬鹿しいんだろう！</span>,<span class='scene-font-gray'>啊…………这是多么荒唐！</span>
+40,ユリウス/尤里乌斯,<span class='scene-font-gray'>王の命令に従うがいい、アルベール。</span></span><br><span class='scene-font-gray'>……私も、私に与えられた役を</span></span><br><span class='scene-font-gray'>演じようじゃないか！！</span>,<span class='scene-font-gray'>那你就听从国王的命令吧，阿尔贝尔。……我也会，演好我被赋予的角色！！</span>
+info,,,scene_evt170131_cp6_q2_s10

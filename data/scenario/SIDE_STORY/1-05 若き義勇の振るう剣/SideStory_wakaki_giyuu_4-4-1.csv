@@ -1,0 +1,33 @@
+﻿id,en,jp,trans
+0-chapter_name,,第4話 潜入、カルナ砦, 第4话  潜入、卡露娜要塞
+0-synopsis,,目的の部屋に辿り着き、帝国軍の作戦書を発見した姬塔達。作戦書によれば、星晶獣ポセイドンを給水手段として利用しようとしているらしい。また、そこにはポセイドンが怒れば島を破壊しかねないという事が記されていた。無関係の人々だけが犠牲になるリスクを抱えた作戦に、外道を許せぬ男・ユーリの怒りが爆発するのであった。, 到达了目标房间、找到计划书的姬塔他们。作战书上写的、是打算把星晶兽波塞顿作为供水方法来使用。而且、还写有如果波塞顿失控的话会把岛整个摧毁。对这种有可以会牺牲无辜平民的计划、不容邪道的男人・尤利的怒火爆发了。<br>翻译报错到NGA@mirror0420
+0,,資料は確か……この先の部屋に。, 数据好像在……前面的房间。
+1,,役に立つ情報がある事を祈るよ。, 希望能有派得上用场的情报。
+2,,それより気をつけるっす。<br>そろそろ<br>騒ぎになりそうな気がするっす！, 比起这个还是多小心点吧。<br>我觉得差不多<br>他们该注意到我们引起的骚动了！
+7,,<span class='scene-font-katari'>資料がある部屋に辿り着いた</span><br><span class='scene-font-katari'>姬塔達は、気になる</span><br><span class='scene-font-katari'>文書を見つける。,<span class='scene-font-katari'>终于到达放有资料的房间的</span><br><span class='scene-font-katari'>姬塔他们、发现了</span><br><span class='scene-font-katari'>一些让他们在意的文件。</span>
+8,,<span class='scene-font-bold scene-font-blue'>『星晶獣ポセイドン捕縛作戦』</span><br>……これか。, <span class='scene-font-bold scene-font-blue'>『星晶兽波塞顿捕获作战』</span><br>……这个吗。
+9,,自分、読んでみるっす。, 让我来、念出来吧。
+10,,<span class='scene-font-bold scene-font-blue'>『水を司る本星晶獣に魔晶を移植。</span><br><span class='scene-font-bold scene-font-blue'>意思を奪った後、艦内水道に埋め込み</span><br><span class='scene-font-bold scene-font-blue'>新たな給水手段として──』</span>,<span class='scene-font-bold scene-font-blue'>『对这个掌管水的星晶兽植入魔晶。</span><br><span class='scene-font-bold scene-font-blue'>夺取它的意识后、放进舰内的水系统里</span><br><span class='scene-font-bold scene-font-blue'>作为新的供水方法──』</span>
+11,,き、給水手段！？<br>星晶獣をそんな事に！？, 供、供水方法！？<br>把星晶兽用在这种事上！？
+12,,また、帝国軍って奴は<br>とんでもねえ事を考えやがるな……, 真是、帝国军的人<br>都在考虑这种荒诞的事吗……
+13,,<span class='scene-font-bold scene-font-blue'>『本作戦において危険視すべきは</span><br><span class='scene-font-bold scene-font-blue'>本星晶獣の気位の高さである。』</span>,<span class='scene-font-bold scene-font-blue'>『本作戦最应该重视的危险是</span><br><span class='scene-font-bold scene-font-blue'>星晶獣的自尊非常高。』</span>
+14,,<span class='scene-font-bold scene-font-blue'>『ポセイドンが一度怒りを覚えれば</span><br><span class='scene-font-bold scene-font-blue'>島民及び島そのものに危害加える可</span><br><span class='scene-font-bold scene-font-blue'>能性極めて高し。念頭に置くべし。』</span>,<span class='scene-font-bold scene-font-blue'>『一旦波塞顿被惹怒</span><br><span class='scene-font-bold scene-font-blue'>会对岛民和岛本身进行攻击的</span><br><span class='scene-font-bold scene-font-blue'>可能性极高。请务必牢记。』</span>
+15,,<span class='scene-font-bold scene-font-blue'>『また島を破壊する兆しが見えた際</span><br><span class='scene-font-bold scene-font-blue'>速やかに島から退却できるよう</span><br><span class='scene-font-bold scene-font-blue'>入念に準備を──』</span>,<span class='scene-font-bold scene-font-blue'>『为了在岛要被破坏的征兆出现时</span><br><span class='scene-font-bold scene-font-blue'>能迅速离开岛上</span><br><span class='scene-font-bold scene-font-blue'>做好随时出航的准备──』</span>
+16,,……ファラ、今、何て言った？, ……法拉、刚刚、你说什么？
+17,,帝国は……ポンメルン大尉は、<br>この島が破壊される事も視野に入れて<br>作戦を立てたという事か？, 帝国……伯梅伦大尉他、<br>在知道岛可以会被破坏的情况下<br>还是执行作战了吗？
+18,,この作戦の立案には<br>フュリアスも絡んでいるようだ。<br>奴なら──, 这个作战的立案<br>好像和菲利亚斯也有关系<br>是他的话──
+19,,<span class='scene-font-4'>馬鹿な！</span>,<span class='scene-font-4'>怎么可能！</span>
+20,,ユーリ、残念だが……<br>帝国は裏で非道な事もやっている。<br>それは事実だ……, 尤利、虽然很可惜……<br>但是帝国背地里在做一些非人道的事。<br>这是事实……
+21,,嘘だ……帝国軍は……<br>小国と呼ばれたエルステを<br>一大帝国に押し上げた英雄だろう？, 说谎……帝国军是……<br>让被称为小国的埃尔斯特<br>一跃而变成为大帝国的英雄才对吧？
+22,,親父はそれをいつも<br>誇らしげに語ってた……<br>騙されてたのか、俺も、親父も……, 我父亲一直都<br>引以为傲地说的……<br>我们都被骗了吗、我和、父亲都……
+23,,ここにいるルリアだって<br>帝国に幽閉されてたし……, 在这里的露莉亚也是<br>一直被帝国军关起来……
+24,,オイラや姬塔の故郷も<br>ポンメルンに焼かれちまったぜ……, 我和姬塔的故乡也<br>被伯梅伦他放火烧掉了……
+25,,そんな……許せねえ……<br>エルステは……腐ってやがる！, 怎么会……不可饶恕……<br>埃尔斯特……已经腐败了！
+26,,そして……そんな事を知りもせず<br>国のためと思って戦っていた俺が……<br>俺の事が、俺は一番許せねえッ！！, 而且……对这些事一无所知<br>一直以为自己是在为国家而战……<br>这样的我、是最不能饶恕的！！
+27,,畜生！　ポンメルン！　ああ、畜生ッ！, 可恶！　伯梅伦！　啊啊、可恶！
+28,,あの野郎、もはや上官なんかじゃねえ！<br>正々堂々、真正面からぶっ潰してやる！, 那个混蛋、他再也不是我的长官了！<br>我要堂堂正正、从正面打倒他！
+29,,ゆ……ユーリがプッツンしたっす！, 尤……尤利他发怒了的说！
+30,,帝国兵はこの部屋にも隠れてやがるぞ！<br>いいか！　よく見ろ！, 帝国兵埋伏在这房间里！<br>知道了吗！　看清楚点！
+31,,お……お前！　ユーリ！<br>作戦は……！, 喂……你啊！　尤利！<br>作战呢……！
+32,,もはや……語る言葉は持たん！, 我已经……没话想和你们说了！
+info,,1,scene_evt140930_cp4_q4_s20

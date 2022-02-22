@@ -1,0 +1,25 @@
+﻿id,en,jp,trans
+0-chapter_name,,第3話 浪客は彷徨う,第3话 浪客彷徨中
+0-synopsis,,一行との真剣勝負に敗れたジンは、その身を翻して逃走する。逃げるジンを断崖絶壁に追い詰めた<span>姬塔</span>たち。武士の矜持を守り、自ら命を絶とうとするジンを、<span>姬塔</span>の言葉が救うのだった。,与一行人在对决中败走的仁，转身逃走。姬塔将逃跑的仁逼至断崖绝壁处。为了守护武士的矜持，决定自绝性命的仁，因为姬塔的话语而得救。
+0,,くっ……<br>お主らが、まさかここまでやるとは……,啧……<br>各位，竟然能打到这种地步……
+2,,待て！<br>逃がさんぞ！,站住！<br>你逃不掉的！
+4,,あ……ま、待って！<br>姬塔さん！<br>二人を……追いかけて下さい！,啊……等，等等！<br>姬塔！<br>请快去追那两个人！
+5,,<span class='scene-font-katari'>戦いに敗れ、その身を翻して</span><br><span class='scene-font-katari'>逃げ出すジンを追いかける一行。</span>,<span class='scene-font-katari'>追逐战斗中败北，</span><br><span class='scene-font-katari'>转身逃跑的仁的一行人。</span>
+9,,<span class='scene-font-katari'>逃げるジンを断崖絶壁に追い詰めた</span><br><span class='scene-font-katari'>姬塔一行は、ジンとの間を</span><br><span class='scene-font-katari'>少しずつ詰めていく。</span>,<span class='scene-font-katari'>将逃跑的仁逼至断崖绝壁，</span><br><span class='scene-font-katari'>姬塔一行人，</span><br><span class='scene-font-katari'>逐渐缩短和仁之间的距离。</span>
+10,,もう逃げ場はないぞ！<br>武器を置いて大人しく投降しろ！,你无处可逃了！<br>丢掉武器老实投降！
+11,,無念……<br>もはやこれまでか……,遗憾……<br>已经到此为止了吗……
+12,,あ……おい、おっさん！<br>早まるなって！,喂……喂，大叔！<br>不要仓促行事啊！
+13,,某とて武士の端くれ……<br>生き恥をさらす程<br>落ちぶれてはおらん！,即便是某人这样武士中的蝼蚁……<br>也绝不会落魄到活着受辱！
+14,,姬塔！<br>ジンさんを助けて下さい！,姬塔！<br>请你救救仁先生！
+14-sel1_txt,,<span class='scene-font-katari'>命を粗末にするな！</span>,<span class='scene-font-katari'>不要白白浪费生命！</span>
+14-sel2_txt,,<span class='scene-font-katari'>真実を確かめるんだ！</span>,<span class='scene-font-katari'>要去确认真相！</span>
+15,,ふふ……優しいな、姬塔殿。<br>だが……某は勝負に負けてまで<br>生きようとは思わん！,呵呵……真是温柔啊，姬塔殿下。<br>不过，某人既然输掉了对决，<br>就不会再苟且偷生！
+16,,ジンさんは、憧れの人に再会するん<br>じゃないんですか？　腕を上げるって！<br>あの言葉は……嘘だったんですか？,仁先生，不是要和憧憬之人再会吗？<br>勤加练习什么的！<br>难道那些话语……是骗人的吗？
+17,,確かに……<br>このままでは、死んでも死にきれんな……,确实……<br>如此下去，就是死也是死不瞑目……
+18,,<span class='scene-font-katari'>その時姬塔は、</span><br><span class='scene-font-katari'>一瞬の隙をついて</span><br><span class='scene-font-katari'>ジンの懐に飛びこんだ。</span>,<span class='scene-font-katari'>这时候的姬塔，</span><br><span class='scene-font-katari'>在一瞬间的破绽之中，</span><br><span class='scene-font-katari'>扑向了仁的怀中。</span>
+21,,うっ……<br>姬塔……<br>お主ら……,呜……<br>姬塔……<br>各位……
+22,,<span class='scene-font-katari'>ジンはそれ以上抵抗することも無く</span><br><span class='scene-font-katari'>ただ、静かにうなだれるのだった。</span>,<span class='scene-font-katari'>仁不再抵抗，</span><br><span class='scene-font-katari'>只是，静静地消沉着。</span>
+23,,姬塔殿、サラ殿……今度は、<br>お主らに命を助けられるとはな……<br>某もまだまだ未熟者だということか。,姬塔殿下，莎拉殿下……<br>没想到会被你们救起这条性命……<br>看来某人也还是个半吊子啊。
+24,,<span class='scene-font-katari'>間一髪のところで、</span><br><span class='scene-font-katari'>ジンの命を繋ぎとめた姬塔。</span>,<span class='scene-font-katari'>千钧一发之际，</span><br><span class='scene-font-katari'>姬塔保住了仁的性命</span>
+25,,<span class='scene-font-katari'>姬塔の言葉に</span><br><span class='scene-font-katari'>心を打たれたジンは降参し、</span><br><span class='scene-font-katari'>全てを打ち明けるのだった。</span>,<span class='scene-font-katari'>被姬塔的话语感动的仁认输了，</span><br><span class='scene-font-katari'>并将所有事情和盘托出。</span>
+info,,1,scene_evt140531_cp3_q4_s30

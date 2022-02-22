@@ -1,0 +1,32 @@
+id,name,text,trans
+0-chapter_name,,STAGE6 ふたり の ゼロ,STAGE6 两个ZERO
+0-synopsis,,翌日、ゼロは薬で眠らせたナナリーを連れ、ふたりだけで指定のポイントへ行き、デルフィナと対峙する。デルフィナはギアスを使ってゼロの思考を読み取り、ゼロが無策のままデルフィナの持つ抗ウイルス薬欲しさにやってきたと知る。ゼロに銃口を向けて勝ち誇るデルフィナ。なす術のないゼロが黙っている中、鋭い銃声が洞窟内に響き渡るのだった。,第二天，ZERO带着喝过药睡着了的娜娜莉，两个人去到了指定的场所，和黛尔菲娜当面对峙。黛尔菲娜使用了Geass读取了ZERO的内心，知悉了ZERO只是想要德尔芬娜手里的抗病毒药，而毫无谋算地来了这一事实。用枪对着ZERO夸耀着自己的胜利的黛尔菲娜。和束手无策沉默着的ZERO，就在这时，洞窟里响起了激烈的枪声。
+1,,<span class='scene-font-katari'>約束の時間が近づき、</span><br><span class='scene-font-katari'>偽ゼロの指定したポイントへ向かう</span><br><span class='scene-font-katari'>ふたりの人物がいた。</span>,<span class='scene-font-katari'>快到了约定的时间，</span><br><span class='scene-font-katari'>向着冒牌ZERO指定的地点，</span><br><span class='scene-font-katari'>两个人前行着。</span>
+2,,<span class='scene-font-katari'>ひとりは病魔に侵されたナナリー</span><br><span class='scene-font-katari'>薬を飲んで眠っているのか、</span><br><span class='scene-font-katari'>車椅子の上で身動きひとつしない。</span>,<span class='scene-font-katari'>一个是正被病魔侵扰着的娜娜莉，</span><br><span class='scene-font-katari'>不知是不是因为喝了药睡着了，</span><br><span class='scene-font-katari'>坐在轮椅上一动不动。</span>
+3,,<span class='scene-font-katari'>そしてもうひとりは</span><br><span class='scene-font-katari'>ナナリーの車椅子を押す仮面の男。</span><br><span class='scene-font-katari'>ルルーシュが作り出したゼロである。</span>,<span class='scene-font-katari'>然后还有一个是，</span><br><span class='scene-font-katari'>推着娜娜莉轮椅的假面男子。</span><br><span class='scene-font-katari'>由鲁鲁修“创造”出来的ZERO。</span>
+10,ルルーシュ/鲁鲁修,あの注射痕を除けば、<br>ナナリーの体に傷や痣は一切なかった。,除了那个注射留下的针孔，<br>娜娜莉的身体上没有一处伤口或淤青。
+11,ルルーシュ/鲁鲁修,恐らく丁寧な扱いを<br>受けていたのだろう。,一定是，<br>受到了细心的照顾了吧。
+12,ルルーシュ/鲁鲁修,しかし、<br>偽ゼロ自身は俺に自害させるため、<br>躊躇なくウイルスを打った。,但是，<br>冒牌ZERO那家伙为了让我自杀，<br>可是毫不犹豫地给娜娜莉注射了病毒啊。
+13,ルルーシュ/鲁鲁修,そうなると、<br>今回ナナリーの身柄を要求するのは、<br>不可解だ。,这么一说，<br>这次要求我带娜娜莉来，<br>还真是令人难以理解的行为。
+14,,<span class='scene-font-katari'>思案顔のルルーシュは、</span><br><span class='scene-font-katari'>ひとつの結論を導き出す。</span>,<span class='scene-font-katari'>一脸忧虑的鲁鲁修，</span><br><span class='scene-font-katari'>得出了一个结论。</span>
+15,ルルーシュ/鲁鲁修,ナナリーが死ぬことは<br>偽ゼロにとっても不都合。,娜娜莉的死亡，<br>对于冒牌ZERO来说很麻烦。
+16,ルルーシュ/鲁鲁修,それゆえにナナリーの身柄を欲する。<br>だからこそ、あの抗ウイルス薬は<br>本物だと確信できる。,所以才想要我带娜娜莉来。<br>正因如此可以肯定，<br>那个抗病毒药是真货。
+23,ゼロ/ZERO,…………,…………
+24,ゼロ/ZERO,……！,……！
+25,偽ゼロ/冒牌ZERO,時間通りだな……,准时来了呢……
+26,,<span class='scene-font-katari'>ふと足音に顔を上げる。</span><br><span class='scene-font-katari'>するとそこにはよく似た姿をした</span><br><span class='scene-font-katari'>偽ゼロが立っていた。</span>,<span class='scene-font-katari'>听到突然响起的脚步声ZERO抬起了头。</span><br><span class='scene-font-katari'>看到的是和这边十分相似的身影，</span><br><span class='scene-font-katari'>是站在那里的冒牌ZERO。</span>
+40,偽ゼロ/冒牌ZERO,本当にお前たちだけで来たようだな。<br>いいだろう。<br>では約束の物を寄こせ。,真的只有你们两个人来了的样子呢。<br>好吧。<br>那么就把约定的东西给我吧。
+41,,<span class='scene-font-katari'>ゼロは深く頷き、</span><br><span class='scene-font-katari'>懐に入れた薬瓶を偽ゼロに差し出した。</span>,<span class='scene-font-katari'>ZERO重重地点了点头，</span><br><span class='scene-font-katari'>把放在怀里的药瓶交给了冒牌ZERO。</span>
+42,偽ゼロ/冒牌ZERO,これは本物か？,这是真货吧？
+43,,<span class='scene-font-katari'>薬瓶を受け取った偽ゼロは</span><br><span class='scene-font-katari'>ゼロに問う。</span>,<span class='scene-font-katari'>冒牌ZERO收下了药</span><br><span class='scene-font-katari'>向着ZERO问道。</span>
+49,偽ゼロ/冒牌ZERO,いや、答えなくていい。<br>本物だと分かったからな。,算了，你不回答也无所谓，<br>反正我知道这是真的。
+50,偽ゼロ/冒牌ZERO,さて、では次に<br>ナナリーを元の世界に返してやる。<br>ナナリーの身柄をこちらに……,那么接下来，<br>就让娜娜莉回到原来的世界去吧。<br>把娜娜莉送到这里……
+51,ゼロ/ZERO,…………,…………
+52,,<span class='scene-font-katari'>一瞬躊躇するゼロを見て、</span><br><span class='scene-font-katari'>勝ち誇った様子の偽ゼロが</span><br><span class='scene-font-katari'>懐に手を入れる。</span>,<span class='scene-font-katari'>看到一瞬间犹豫了的ZERO，</span><br><span class='scene-font-katari'>自满着胜利的冒牌ZERO，</span><br><span class='scene-font-katari'>把手伸进了怀里。</span>
+53,偽ゼロ/冒牌ZERO,<span class='scene-font-4'>ハハハハッ！</span><br>希代のテロリストがこうも無策とは。,<span class='scene-font-4'>哈哈哈哈！</span><br>绝代的恐怖分子竟然也有这幅束手无策的模样啊。
+54,偽ゼロ/冒牌ZERO,さすがに異世界という非常識な世界では<br>打つ手なしのようだな。,不愧是超出常理的异世界啊<br>你也无计可施了呢。
+56,偽ゼロ/冒牌ZERO,さぁ……お終いだ、ゼロ。<br>正直にお前たち二人だけで<br>来たのが敗因だったな。,那么……就到此为止了呢，ZERO。<br>实话说当你们俩单独来的时候，<br>就注定你们会败给我了呢。
+57,偽ゼロ/冒牌ZERO,心配するな。<br>ナナリーの面倒は見てやる。<br>姉さんと一緒にな……,你不必担心。<br>娜娜莉就交给我来照顾了，<br>当然是和姐姐一起……
+60,,<span class='scene-font-katari'>偽ゼロの構えた銃の照準器の</span><br><span class='scene-font-katari'>レーザー光がゼロの心臓を捉える。</span>,<span class='scene-font-katari'>冒牌ZERO将手持的枪对着ZERO，</span><br><span class='scene-font-katari'>枪的准星瞄准了ZERO的心脏。</span>
+63,,<span class='scene-font-katari'>直後、鋭い銃声が</span><br><span class='scene-font-katari'>冷え切った洞窟内に響き渡るのだった。</span>,<span class='scene-font-katari'>紧接着，激烈的枪声，</span><br><span class='scene-font-katari'在冰冷的洞窟中响彻。</span>
+info,,,scene_evt190614_cp6_q1_s10

@@ -1,0 +1,93 @@
+﻿id,en,jp,trans
+0-synopsis,,とある帝国軍の研究施設でフュリアスは、奇妙な石を用いた危険な実験を行っていた。実験により爆発が起き、異世界へ続く「穴」が次々に出現する。一方、穴の向こうの世界では、親友を救うため森を出たエルフの少女アリサが、他人を友達にするために殺そうとする奇妙な少女ルナと知り合う。だがその直後、突然現れた巨大な穴にルナが飲み込まれてしまう。アリサは消えたルナを追い、穴へと飛び込んでいくのだった。,在某处帝国军的研究设施里，弗里亚斯在用一种奇怪的石头进行危险的实验。随着实验意外发生，异世界开始不停的出现「洞」。另一边，在洞出现的那边世界，为了救出好友而离开森林的精灵少女亚里莎遇见了一个为了成为朋友就要把他人杀死的奇怪少女。突然，一个巨大的黑洞将露娜吞噬了进去。亚里莎为了追上消失的露娜，也飞身跳入了巨大的黑洞。
+0,,よーし……<br>それじゃ次の実験だ！<br>試料にかける魔晶の負荷を倍に増やせ！,很好……<br>那么开始下一个实验！<br>把试验用的魔晶量加倍！
+1,,<span class='scene-font-katari'>とある山中にある</span><br><span class='scene-font-katari'>帝国軍の研究施設にて。</span>,<span class='scene-font-katari'>某座山中，帝国军队研究设施。</span>
+2,,<span class='scene-font-katari'>フュリアスはとある場所で</span><br><span class='scene-font-katari'>採取された奇妙な石を調査する</span><br><span class='scene-font-katari'>実験を行っていた。</span>,<span class='scene-font-katari'>弗里亚斯在对从某处开采来的奇怪的石头进行调查实验。</span>
+3,,……閣下、恐れながら。<br>あの試料にかける負荷を<br>一度に上げ過ぎては……,……阁下，恕我直言。那种试料一旦超过负荷的话……
+4,,……何？<br>お前、ボクのやりたい事に<br>文句でもあんの？,……什么？<br>你对我的决定有什么意见吗？
+5,,い……いえ！　そんな事は！<br>しかし、何が起こるか<br>わからないゆえ……,不，不敢！那种事情！<br>但是，因为不知道会发生什么……
+6,,いいんだよ！<br>色々出てきた方が面白いだろ！,没事的！<br>发生些什么事情才会更有趣对吧？
+7,,……それともお前もあの穴通って<br>「アッチ側」に行きたいの？<br>ソッチの実験に参加したい？,……还是说你也想通过那个洞去「彼处」？所以才想参加此处的实验？
+8,,…………！,…………！
+9,,<span class='scene-font-5'>ほら！　やれよ！</span>,<span class='scene-font-5'>快点！动手！</span>
+10,,……御意。,……遵命。
+16,,<span class='scene-font-katari'>フュリアスの視線の先には、</span><br><span class='scene-font-katari'>ぼんやりと薄青く光る石があった。</span>,<span class='scene-font-katari'>在弗里亚斯的视线前方隐隐约约能看到一块淡蓝色的石头。</span>
+17,,<span class='scene-font-katari'>魔晶による干渉を受け、</span><br><span class='scene-font-katari'>石は光の強さを増していく。</span><br><span class='scene-font-katari'>そして──</span>,<span class='scene-font-katari'>因为受到了魔晶的影响，那块石头发出了越来越强的光。然后——</span>
+20,,おっ？　おお！？<br>あはは！　何か起きそうだ！<br>おい！　もっと負荷あげろよ！,哦？哦哦！？<br>啊哈哈！有什么反应了的样子！喂！继续加大负荷！
+21,,……は、はっ！,……好，好的！
+22,,ぷっ……あはははっ！<br>次は何が出てくるのかなー……,噗……啊哈哈哈哈！<br>下一次会出现什么呢——……
+24,,……ん？,……嗯？
+33,,『災いの樹』に、異変が……,『灾厄之树』，异变了……
+34,,<span class='scene-font-katari'>物憂げな表情を浮かべた神官は、</span><br><span class='scene-font-katari'>空に描かれた不可思議な構造物──</span><br><span class='scene-font-katari'>災いの樹と呼ばれる存在を眺めている。</span>,<span class='scene-font-katari'>表情犹豫的神官远眺着天空中不可思议的构造物——</span><br><span class='scene-font-katari'>被称作灾厄之树的存在。</span>
+35,,『災いの樹』に干渉出来るのは<br>ネクサス様だけのはず……<br>一体、誰がこんな事を……,能干涉『灾厄之树』应该只有涅克萨斯大人才是……<br>到底是谁做的这件事……
+36,,何者かが、この世界に<br>新たな過酷を呼び込もうと<br>しているのでしょうか……,到底是谁，在这个世界呼唤新的残酷……
+40,,<span class='scene-font-katari'>神官が向けた目線のはるか先では、</span><br><span class='scene-font-katari'>ひとりの少女が歩いていた。</span>,<span class='scene-font-katari'>在神官视线的前方，有一位少女正在走着。</span>
+46,,<span class='scene-font-4'>きゃっ！？</span>,<span class='scene-font-4'>咿呀！？</span>
+47,,びっくりしたぁ……<br>さっきから何の音だろう？,吓我一跳……<br>刚刚那是什么声音？
+48,,<span class='scene-font-katari'>彼女の名はアリサ。</span><br><span class='scene-font-katari'>森の番人を目指す、</span><br><span class='scene-font-katari'>エルフ族の少女である。</span>,<span class='scene-font-katari'>少女名为亚里莎。</span><br><span class='scene-font-katari'>是一名以成为森林守护者为目标的精灵族少女。</span>
+49,,雷とかじゃ、なさそうだけど……,也不像是雷声的样子……
+50,,ううん、そんな事より……<br>今はロザリアを探さなきゃ！,不，比起那种事……<br>现在还是找萝莎莉亚更重要！
+51,,<span class='scene-font-katari'>突如各地に現れた怪物、「虚の影」に</span><br><span class='scene-font-katari'>さらわれた親友ロザリアを取り戻すため</span><br><span class='scene-font-katari'>アリサは森を出たのであった。</span>,<span class='scene-font-katari'>突然从各地出现的名为虚空之影的怪物抓走了亚里莎的好友萝莎莉亚，亚里莎为了救出好友而离开了森林。</span>
+52,,<span class='scene-font-katari'>不穏な雲行きの中歩いていると、</span><br><span class='scene-font-katari'>どこからともなく</span><br><span class='scene-font-katari'>何者かが争う声が聞こえてくる。</span>,<span class='scene-font-katari'>走在流行的云雾中，不知道从哪里传来了什么人争吵的声音。</span>
+53,,悪い人……！<br>こっちにこないで！,大坏蛋……！不要过来！
+54,,<span class='scene-font-4'>グオオオ……！</span>,<span class='scene-font-4'>咕</span>哦哦哦哦……！
+55,,あの声……！　ロザリアをさらった<br>怪物の声だ！　もしかして、<br>誰かが怪物に襲われてるのかも……！,那个声音……！是抓走了萝莎莉亚的怪物的声音！说不定，有人正被那个怪物袭击……！
+56,,助けてあげなきゃ！<br>今行くから、待っててね！,得去救他！<br>现在就出发，要等我啊！
+60,,パパ、ママ……！<br>ルナを守って！,爸爸、妈妈……！<br>保护露娜吧！
+61,,<span class='scene-font-4'>グオオオ！</span>,<span class='scene-font-4'>咕</span>哦哦哦哦！
+64,,<span class='scene-font-4'>させないっ！</span>,<span class='scene-font-4'>休想得逞！</span>
+68,,<span class='scene-font-katari'>少女を襲う怪物の姿を認めたアリサは</span><br><span class='scene-font-katari'>怪物を射抜く。</span>,<span class='scene-font-katari'>确认了袭击少女的怪物身影后，亚里莎对准怪物进行射击。</span>
+69,,グオオオ……,咕哦哦哦……
+71,,……ふぅ。<br>えっと……大丈夫？,……呼。<br>那个……没事吧？
+72,,お姉さん、もしかして……<br>ルナを助けに来てくれたの？,大姐姐，难道说……<br>是来帮助露娜的吗？
+73,,……うん、うん。,……嗯，嗯。
+74,,そっかぁ！　ルナがいいこだから<br>助けてくれたんだ！,原来如此！因为露娜是好孩子所以就来帮助的呐！
+75,,……えっと。<br>ルナちゃん、でいいのかな？<br>ケガは……ないみたいだね。,……那个。<br>小露娜，这么叫可以的吗？<br>受伤……看来没有呢。
+76,,うん！　だいじょうぶだよ！,嗯！没事的哟！
+77,,……ねぇ、パパ、ママ。<br>このお姉さんならいいかな？,……呐，爸爸、妈妈。<br>这个大姐姐可以吗？
+78,,あはは！　そうだよね！<br>ルナもそう思う！,啊哈哈！是这样呢！<br>露娜也是这么想的！
+79,,…………？<br><span class='scene-font-kokoro'>（この子、</span><br><span class='scene-font-kokoro'>誰と喋ってるんだろう……？）</span>,…………？<span class='scene-font-kokoro'>（这个孩子，在和谁说话呢……？）</span>
+80,,あのね、お姉さん。<br>ルナ、お願いがあるの。<br>ルナのお友達になってほしいんだ。,那个，大姐姐。<br>露娜，有一个请求。<br>想要你成为露娜的朋友呐！
+81,,え……？　お友達？,诶……？朋友？
+82,,う、うん！　いいよ！,嗯，嗯！可以哦！
+83,,やったあ！,太好了！
+84,,じゃあ、ルナちゃん。<br>一緒に安全な所に行こう？<br>ここはあの怪物が出るみたいだし……,那么，小露娜。<br>一起到安全的地方去吧？这里好像还会出现那种怪物的样子……
+85,,<span class='scene-font-kokoro'>（ロザリアを探す途中だけど、</span><br><span class='scene-font-kokoro'>この子のことも放っておけないよね……）</span>,<span class='scene-font-kokoro'>（虽然是在找萝莎莉亚的途中，但是也不能放着这个孩子不管呢……）</span>
+86,,安全な所？<br>ここは安全だよ？<br>だってパパとママがいるもん。,安全的地方？<br>这里就很安全哦？因为爸爸妈妈都在呢。
+87,,パパと、ママ……？,爸爸和，妈妈……？
+88,,どこにも行かなくていいから……<br>早くお友達になってよ！,到哪去都无所谓的啦……<br>快点成为露娜的朋友吧！
+89,,え、えっと……<br>もう、お友達になったよ？<br>……たぶん。,那，那个……<br>现在，已经是朋友了哟？<br>……大概。
+90,,お姉さん、なに言ってるの？<br>まだお友達じゃないよ。,大姐姐，在说什么呢？<br>还没有成为朋友的呢。
+94,,だって……<br>まだお姉さんのこと<br>殺してないし。,因为……<br>还没有把大姐姐杀掉呢。
+95,,えっ！？,诶！？
+98,,<span class='scene-font-4'>きゃあぁっ！</span>,<span class='scene-font-4'>咿呀！</span>
+100,,<span class='scene-font-katari'>突如衝撃に襲われ、</span><br><span class='scene-font-katari'>目を白黒させるアリサ。</span>,<span class='scene-font-katari'>突如其来的冲击让亚里莎眼前一黑。</span>
+101,,痛ったぁ……何が起きてるの……！,好痛……发生了什么……？
+102,,あ……お姉さんまだ死なないね？<br>パパ、ママ、どうしよう？,啊……大姐姐还没有死呢？<br>爸爸、妈妈，怎么办呢？
+103,,……うん、うん！　わかった!<br>もう一回やってみるね！,……嗯，嗯！我明白了！<br>再来一次呢！
+104,,え……もしかしてこれ、<br>ルナちゃんが……！？,诶……难道是，小露娜做的……！？
+105,,どうしてこんな事するの！,为什么要做这种事！
+106,,お友達になってくれるんでしょ？<br>だから殺そうとしてるんだよ。<br>死ねばお友達になれるから。,因为说了要成为朋友对吧？<br>所以就得杀了你哦。<br>死了就能成为朋友了！
+107,,えっ……！？<br>ルナちゃん、何言ってるの……！？,诶……！？<br>小露娜，你在说什么……！？
+108,,ルナのパパとママも、<br>死んでルナと一緒にいるの！<br>だからお姉さんも死んでね！,露娜的爸爸妈妈也是，死了就和露娜在一起了！<br>所以大姐姐也去死嘛！
+109,,…………！　また来る！？,…………！又来了！？
+111,,<span class='scene-font-katari'>笑いながら次々と攻撃を繰り返すルナ。</span><br><span class='scene-font-katari'>その無邪気な殺意にアリサは</span><br><span class='scene-font-katari'>恐怖心を抱く。</span>,<span class='scene-font-katari'>露娜笑着进行了下一次的攻击。</span><br><span class='scene-font-katari'>那份毫无邪念的杀意让亚里莎感到十分恐惧。</span>
+112,,<span class='scene-font-kokoro'>（どうしよう、本気だ……！</span><br><span class='scene-font-kokoro'>私、こんな小さい子と</span><br><span class='scene-font-kokoro'>戦いたくないよ……！）</span>,<span class='scene-font-kokoro'>（怎么办，她是认真的……！我不想和这么小的孩子战斗啊。）</span>
+113,,でも……！<br>ロザリアを取り戻すまで、<br>私は……！,但是……！<br>在把萝莎莉亚救回来之前，我……！
+117,,<span class='scene-font-4'>きゃあっ！</span>,<span class='scene-font-4'>啊！</span>
+118,,<span class='scene-font-kokoro'>（また、あの雷みたいな音……！）</span>,<span class='scene-font-kokoro'>（又来了，那个像是雷声的声音……！）</span>
+119,,る……ルナちゃん！<br>うしろ！,露……小露娜！后面！
+120,,…………？<br>おっきな、穴……？,…………？<br>巨大的，洞……？
+121,,<span class='scene-font-4'>きゃっ！？</span>,<span class='scene-font-4'>呀！？</span>
+122,,<span class='scene-font-4'>ルナちゃん！</span>,<span class='scene-font-4'>小露娜！</span>
+123,,<span class='scene-font-katari'>ルナは、突如現れた巨大な穴へと</span><br><span class='scene-font-katari'>飲みこまれていってしまう。</span><br><span class='scene-font-katari'>その光景に言葉を失うアリサ。</span>,<span class='scene-font-katari'>露娜被突然出现的巨大黑洞所吞噬。那个光景让亚里莎一时之间不知道说什么。</span>
+124,,何が起きてるんだろう……<br>……ルナちゃん、どうなっちゃったの？,发生了什么……<br>小露娜，会怎么样呢？
+125,,…………,…………
+126,,やっぱり、ほっとけない！,果然，放心不下！
+130,,<span class='scene-font-4'>き、きゃあああああっ！？</span>,<span class='scene-font-4'>呃，咿呀呀呀呀呀呀呀！？</span>
+136,,……『災いの樹』が震えている。<br>一体、何が起きている<br>と言うのでしょうか。,……『灾厄之树』在震动。<br>到底发生了什么。
+137,,<span class='scene-font-katari'>災いの樹の周囲に、</span><br><span class='scene-font-katari'>黒い穴が次々と生まれ、</span><br><span class='scene-font-katari'>泡のように広がってゆく。</span>,<span class='scene-font-katari'>『灾厄之树』的周围出现了许多黑洞，它们像泡沫一样不停地扩大。</span>
+138,,……ネクサス様。<br>これはあなたが齎した<br>救いなのですか？,……涅克萨斯大人。<br>这是您带来的救赎吗？
+139,,それとも……<br>この世界に新たな過酷が<br>訪れたのでしょうか……,还是说……<br>新的残酷到访了这个世界呢……
+140,,<span class='scene-font-katari'>「穴」は増殖を続け、ルナとアリサを</span><br><span class='scene-font-katari'>飲みこんだように、地上に生きる者達を</span><br><span class='scene-font-katari'>虚空へと消し去っていった。</span>,<span class='scene-font-katari'>「洞」在继续不停的增殖，像露娜和亚里莎一样，地上许多其他的生者都消失在了虚空的尽头。</span>
+info,,1,scene_evt20170222_cp0_q1_s10

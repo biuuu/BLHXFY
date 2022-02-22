@@ -1,0 +1,20 @@
+﻿id,en,jp,trans
+0-chapter_name,,第2話 ある帝国兵の葛藤, 第2话  某个帝国士兵的纠葛
+0-synopsis,,カタリナとファラが、帝国軍時代と異なる顔を見せている事に困惑するユーリ。二人を説得する材料が見つからないまま、ひとまず話を切り出す決意をする。ユーリは、帝国軍を抜けてからの事をファラに尋ねるが、そこを帝国兵に見つかってしまう。脱走兵と勘違いされたユーリは、やむなく帝国兵相手に剣を抜くのだった。, 看到卡塔莉娜和法拉、露出和帝国军时代不同的表情之后的尤利开始感到动摇、。在还没有找到如何说服二人的情况下、决定先把能说的都说了。尤利、向法拉请教脱离帝国军之后的事、突然被帝国兵发现了。被认为是逃兵的尤利、不得已地向那名帝国兵拔剑了。<br>翻译报错到NGA@mirror0420
+0,,<span class='scene-font-katari'>ファラとカタリナを連れ戻すべく</span><br><span class='scene-font-katari'>姬塔の騎空団に</span><br><span class='scene-font-katari'>潜入したユーリ。</span>,<span class='scene-font-katari'>为了把法拉和卡塔莉娜带回帝国</span><br><span class='scene-font-katari'>潜入了姬塔骑空団的</span><br><span class='scene-font-katari'>尤利。</span>
+1,,<span class='scene-font-katari'>必死で思考を巡らせ、</span><br><span class='scene-font-katari'>説得の糸口を探していた。</span>,<span class='scene-font-katari'>正在拼命地思考、</span><br><span class='scene-font-katari'>可以从什么地方开始说服。</span>
+2,,<span class='scene-font-kokoro'>（そろそろ説得を始めなければ……）</span>,<span class='scene-font-kokoro'>（差不多该开始去说服她们了……）</span>
+3,,<span class='scene-font-kokoro'>（こいつらと一緒にいる所を</span><br><span class='scene-font-kokoro'>見つかったら大事だ。</span><br><span class='scene-font-kokoro'>俺まで反逆者扱いされてはたまらん！）</span>,<span class='scene-font-kokoro'>（要是不小心被其他人</span><br><span class='scene-font-kokoro'>看到我和她们一起行动。</span><br><span class='scene-font-kokoro'>把我也当作背叛者的就麻烦了！）</span>
+4,,<span class='scene-font-kokoro'>（しかし……</span><br><span class='scene-font-kokoro'>説得する材料が見つからん！）</span>,<span class='scene-font-kokoro'>（不过……</span><br><span class='scene-font-kokoro'>我还没有找到能说服她们的材料啊！）</span>
+5,,<span class='scene-font-kokoro'>（ええい！　ままよ！</span><br><span class='scene-font-kokoro'>とりあえず切り出すだけ切り出す！）</span>,<span class='scene-font-kokoro'>（不管了！　直接去吧！</span><br><span class='scene-font-kokoro'>总之先把想到的全都说完再算！）</span>
+6,,なあ、ファラ。, 吶、法拉。
+7,,何すか？, 怎么了？
+8,,その……なんだ。<br>帝国に戻るって事を考えたりするか？, 那个……对了。<br>你有没有想过要回到帝国去啊？
+9,,帝国に戻る……っすか？<br>どうしたっすか？　突然。, 回到帝国去……吗？<br>怎么了？　突然问这种问题。
+10,,軍を抜けるってどんな事なのか、<br>今のうちから知っておきたくてな。, 逃离军队之后到底要面对什么、<br>我想趁现在先了解一下。
+11,,……面白そうな話をしているな。, ……你们好像在谈很有趣的说题呢。
+12,,げっ！, 欸！
+13,,帝国兵！,帝国兵！
+14,,貴様ら、脱走兵か？<br>帝国軍の面汚し共め！, 你这家伙、是逃兵吗？<br>你们这些丢帝国军脸的家伙！
+15,,脱走を野放しにすれば規律が乱れる……<br>見せしめとなってもらおう！<br>,放任逃兵不管是会影响军队纪律的……<br>就让我拿你们来示众吧！<br>你们、准备受死吧！
+info,,1,scene_evt140930_cp2_q1_s20

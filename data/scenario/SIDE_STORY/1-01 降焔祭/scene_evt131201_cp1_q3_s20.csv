@@ -1,0 +1,15 @@
+id,name,text,trans
+0-chapter_name,,1: The Zealous Gambler,第1话 热情的赌徒
+0-synopsis,,"The crew realizes their card-playing savior, Richard, is nowhere to be seen after defeating the thug at his own game. They look around, when suddenly Richard appears again with a monster on his tail.",战胜暴徒之后，一行人发现帮他们赢得卡牌游戏的理查德不见了。他们四处寻找，突然理查德随着魔物一起出现了。
+1,Thug/暴徒,...!,...!
+3,Katalina/卡塔莉娜,Phew...,呼...
+4,Vyrn/碧,All right! Looks like we're done here. Let's get back to town already!,似乎这里也没我们什么事了。我们回镇上去吧！
+5,Katalina/卡塔莉娜,Hm? Where did Richard go? I don't see him anywhere...,嗯？理查德去哪了？我一直没看到他...
+6,Vyrn/碧,...!,...!
+7,Vyrn/碧,"He's the one who said to take it outside, but I don't see him out here!",他说要去外面解决，但是我在外面也没看到他！
+15,Richard/理查德,Help! A m-monster... In the bu-bushes! Help meeee!,救命！有怪...怪物在草丛里！救命啊啊啊啊啊！
+16,Monster/魔物,Groaaar!,嗷~!
+17,Vyrn/碧,"Huh? Hey, what the! Why're monsters after him?",嗯？怎么回事！为什么有怪物在追他？
+18,Katalina/卡塔莉娜,"Come on, we have to help him. Let's go!",快，我们得帮助他。走吧！
+info,,,scene_evt131201_cp1_q3_s20
+译者,,,swhoro

@@ -1,0 +1,30 @@
+id,name,text,trans
+0-chapter_name,,第1話 交錯するは、それぞれの,第1话 各自交错着的
+0-synopsis,,姬塔達はシェロカルテから、城塞都市ヴェローナのモンタギュー領で上演される舞台のチケットを貰う。突風で手紙の後半が吹き飛ばされてしまったものの、姬塔一行は残されたチケットを持ってヴェローナへ向かうのだった。,姬塔一行从榭洛科特那里得到了将在城塞都市维罗纳的蒙太古领地上演的舞台剧门票。虽然突如其来的风将信的后半吹走了，但姬塔一行还是带着剩下的门票去了维罗纳。
+0,,<span class='scene-font-katari'>澄み渡る青空の下。</span>\n<span class='scene-font-katari'>グランサイファーの甲板で、</span>\n<span class='scene-font-katari'>思い思いの時を過ごす一行。,<span class='scene-font-katari'>在湛蓝的天空下。</span>\n<span class='scene-font-katari'>在格兰塞法的甲板上、</span>\n<span class='scene-font-katari'>一群人在随意打发时光的。
+1,,<span class='scene-font-katari'>そこに、何かの紙片を手にした</span>\n<span class='scene-font-katari'>ルリアが勢いよく駆け込んでくる。,<span class='scene-font-katari'>在那里，露莉亚手里拿着一张什么纸</span>\n<span class='scene-font-katari'>冲了过来。
+2,ルリア/露莉亚,皆さーん、見てくださーい！\nシェロさんから、\nお手紙が届いてましたよ～！,大家，来看看这个！\n我从收到谢洛小姐那里收到了一封信喔~！
+3,ビィ/碧,へぇ～\nで、よろず屋のヤツ\nなんて書いてんだ？,诶～\n那万事屋的家伙信里都写了什么？
+4,ルリア/露莉亚,ちょっと待ってくださいね！\nんーっと……,等我一下! \n嗯……
+5,,<span class='scene-font-katari'>丁寧に手紙を開封するルリアは、</span>\n<span class='scene-font-katari'>折りたたまれた便箋を広げて</span>\n<span class='scene-font-katari'>文面を読み上げる。,<span class='scene-font-katari'>露莉亚小心翼翼地打开信、</span>\n<span class='scene-font-katari'>摊开折叠的信纸</span>\n<span class='scene-font-katari'>读起信上的内容。
+6,ルリア/露莉亚,前略、団長殿……\nこの度は、突然のお便り\n失礼します。,前略，团长殿下……\n请原谅我突然的来信。
+7,ルリア/露莉亚,急遽、仕事の関係で\n行けなくなってしまった……\n舞台の招待券を同封します。,因为工作上有点急事没法过去，信里附有舞台剧的招待券。
+8,ルリア/露莉亚,ご都合が合えば、ぜひ皆さんで……\n行ってみてください。,如果方便的话，请大家一定要去看看。
+9,ルリア/露莉亚,会場は……<span class='scene-font-place'>城塞都市ヴェローナ</span>の\n<span class='scene-font-place'>モンタギュー領</span>……,会场在……<span class='scene-font-place'>城塞都市维罗纳</span>的\n<span class='scene-font-place'>蒙太古领土</span>……
+10,ルリア/露莉亚,きゃっ！,呀！
+11,,<span class='scene-font-katari'>その時。</span>\n<span class='scene-font-katari'>ルリアの手元を風が浚う。,<span class='scene-font-katari'>就在这时。</span>\n<span class='scene-font-katari'>露莉亚的手上的信被风吹走。
+12,ルリア/露莉亚,ああーっ！？,啊啊—— ! ？
+13,,<span class='scene-font-katari'>ハラハラと甲板に舞い散る</span>\n<span class='scene-font-katari'>招待券を慌ててつかみ取る一行。,<span class='scene-font-katari'>信在甲板上到处飘舞</span>\n<span class='scene-font-katari'>人们匆忙地抓住了甲板上的招待券。
+14,ビィ/碧,……危ねぇ危ねぇ。\nこれで全部か？,……好险好险。\n就只有这些吗？
+15,ビィ/碧,それで……\n手紙の続きには何て……,那么……\n信的后面说的什么……
+16,ルリア/露莉亚,……あれ？\nご、ごめんなさい！,……咦? \n对、对不起！
+17,ルリア/露莉亚,今の風で……手紙の続きを\n無くしちゃったみたいです……,刚刚的风……\n好像把信的后续给吹走了……
+18,,<span class='scene-font-katari'>姬塔は</span>\n<span class='scene-font-katari'>しょんぼりと肩をすくめる</span>\n<span class='scene-font-katari'>ルリアを慰める。,<span class='scene-font-katari'>姬塔</span>\n<span class='scene-font-katari'>安慰着</span>\n<span class='scene-font-katari'>垂头丧气的露莉娅。
+19,ビィ/碧,まぁ、その……\nとにかく<span class='scene-font-place'>城塞都市ヴェローナ</span>の…… ,嘛，那个……\n总之,只要朝着<span class='scene-font-place'>城塞都市维罗纳</span>的……
+20,ビィ/碧,<span class='scene-font-place'>モンタギュー領</span>って場所を\n目指せばいいんだろ？,<span class='scene-font-place'>蒙太古领地</span>前进就可以了吧？
+21,ルリア/露莉亚,は、はい……\nそれは間違いないです！,是、是的……\n确实是这样没错！
+22,,<span class='scene-font-katari'>姬塔は気落ちするルリアを</span>\n<span class='scene-font-katari'>慰める様に、新たな進路を告げる。,<span class='scene-font-katari'>姬塔为了安慰垂头丧气的露莉亚</span>\n<span class='scene-font-katari'>通告了新的航线。
+23,ビィ/碧,よっしゃ！\n城塞都市ヴェローナに向けて、\n出発しんこーう！,好耶！\n那就向城塞都市维罗纳出发！！
+24,,こうして、姬塔一行は\n<span class='scene-font-katari'>城塞都市ヴェローナにある</span>\n<span class='scene-font-katari'>モンタギュー領へ向けて舵を取る。</span>,就这样、姬塔她们掌舵向着\n<span class='scene-font-katari'>城塞都市维罗纳的蒙太古领土前进</span>
+info,,,scene_evt160930_1_cp1_q1_s10
+译者,,,

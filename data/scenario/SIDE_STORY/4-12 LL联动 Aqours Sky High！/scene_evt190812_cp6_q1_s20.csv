@@ -1,0 +1,13 @@
+id,name,text,trans
+0-chapter_name,,#6 ソラノトビラ,#6 通往天空之门
+0-synopsis,,消えてしまった穂乃果達を探し街を駆ける姬塔達。しかしそこに異界の魔物達が現れ襲い掛かって来る。,姬塔她们在街道上四处奔走，寻找消失的穗乃果等人。可是就在这时，异界的魔物出现，向她们袭来。
+10,ビィ/碧,くっそぉ……！<br>あの嬢ちゃん達、<br>どこに消えちまったんだよ！,可恶……！<br>那帮姑娘们到底消失到哪里去了！
+11,アイナ/爱娜,なにか……<br>なにか手がかりがあるはず……！,应该……<br>应该有什么线索才对……！
+12,,<span class='scene-font-katari'>消えた穂乃果達を探して</span><br><span class='scene-font-katari'>街を駆ける姬塔達。</span>,<span class='scene-font-katari'>为了寻找消失的穗乃果她们，</span><br><span class='scene-font-katari'>姬塔等人在城里四处奔走。</span>
+13,,<span class='scene-font-katari'>しかし土地勘もなく、</span><br><span class='scene-font-katari'>右も左もわからぬ場所を走っても</span><br><span class='scene-font-katari'>いたずらに時間を費やすだけだった。</span>,<span class='scene-font-katari'>可是众人对当地的街区排布</span><br><span class='scene-font-katari'>一无所知，像这样毫无头绪地</span><br><span class='scene-font-katari'>四处乱找也只是浪费时间。</span>
+18,アテナ/雅典娜,ルリアさん。やはり星晶獣の気配から<br>力の出所を探り、<br>彼女達を見つけ出すのは難しいですか？,露莉亚。想通过星晶兽的气息<br>来寻找她们的所在地，<br>果然还是有点困难吗？
+19,ルリア/露莉亚,はい……<br>星晶獣の中にいるせいで、<br>気配が混ざり合ってしまって……,是的……<br>因为我们在星晶兽体内，<br>各种气息都混杂在一起……
+20,メドゥーサ/美杜莎,……さて。<br>どうしたもんかしらね。,……那么。<br>要怎么办才好啊。
+28,異界の魔物/异界的魔物,うううおおお……,呜呜呜哦哦哦……
+29,メドゥーサ/美杜莎,ニコ達は見つからないし、<br>魔物は出てくるし……！<br>八方ふさがりじゃない！,既找不到妮可她们，<br>这里又都是魔物……！<br>这不是走投无路了吗！
+info,,,scene_evt190812_cp6_q1_s20

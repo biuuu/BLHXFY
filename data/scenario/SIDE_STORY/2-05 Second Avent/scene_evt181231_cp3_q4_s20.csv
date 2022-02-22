@@ -1,0 +1,59 @@
+id,name,text,trans
+0-chapter_name,,第3話 敵か、味方か,
+0-synopsis,,ひとり抜け出して施設内のとある部屋にたどり着いたカシウスは、背後からユーステスに銃を突きつけられる。隙を突き、ノインによって部屋に眠る機神セスラカを起動させることに成功させるカシウスだったが、セスラカは頭部を失っており、カシウスもろとも攻撃を仕掛けてくる。そこに姬塔達やゼタ達が合流し、一行は暴れまわるセスラカと戦うのだった。,卡西乌斯一个人来到设施的某个房间，却遭到了尤斯缇斯的偷袭。卡西乌斯抓住机会利用诺因启动了机神塞斯拉卡，但失去头部的塞斯拉卡却突然暴走袭击了二人。这时姬塔及时与他们汇合并与赛斯拉卡展开了战斗。
+1,,<span class='scene-font-katari'>カシウスは迷う素振りも無く</span><br><span class='scene-font-katari'>ひとり廊下の奥へと進んでいく。</span>,卡西乌斯毫无迷茫地走向设施深处。
+6,,<span class='scene-font-katari'>するとやがて、</span><br><span class='scene-font-katari'>暗闇が広がる部屋へと辿り着いた。</span>,然后他在一间漆黑的大房间前停了下来。
+7,,<span class='scene-font-katari'>おもむろに槍──ノインを掲げると</span><br><span class='scene-font-katari'>それが「なにか」に反応したことを</span><br><span class='scene-font-katari'>確認し、小さく頷く。</span>,他举起了诺因，确认了“那个东西”的反应后点了点头。
+9,カシウス,ッ……！,唔…!
+10,,<span class='scene-font-katari'>歩を進めようとしたカシウスだが、</span><br><span class='scene-font-katari'>後頭部に硬く冷たいものを</span><br><span class='scene-font-katari'>押し付けられ、その足を止める。</span>,卡西乌斯正要走入房间，却因脑后冰凉的触感而停了下来。
+11,ユーステス/尤斯缇斯,こんなところで<br>一体、なにをしている。,你在这里干什么。
+12,カシウス,つけていたのか。,被跟踪了吗。
+14,ユーステス/尤斯缇斯,質問に答えろ。,回答我的问题。
+15,カシウス,なにをしているか、か。<br>なにもしていない。,在这干什么，吗。我什么也没有做。
+16,ユーステス/尤斯缇斯,ふざけているのか。,你在开玩笑吗。
+17,カシウス,合理的な問答をしたい。<br>事実を告げたまでだ。,我只是在合理地回答你的问题，说了事实而已。
+18,カシウス,俺は「まだ」なにもしていない。,我还“没”干什么。
+19,,<span class='scene-font-katari'>カシウスは背後を振り返らず、</span><br><span class='scene-font-katari'>最小限の動きで槍を</span><br><span class='scene-font-katari'>ユーステスに向けて振るう。</span>,卡西乌斯背对着尤斯缇斯用最小限度的动作将枪挥向了他。
+22,ユーステス/尤斯缇斯,くッ！？,！？
+23,,<span class='scene-font-katari'>予備動作の無い動きに</span><br><span class='scene-font-katari'>ユーステスは虚をつかれ、</span><br><span class='scene-font-katari'>思わずその場から飛び退く。</span>,尤斯缇斯被突如其来的虚晃所骗，本能地跳向后方。
+25,,<span class='scene-font-katari'>ユーステスは</span><br><span class='scene-font-katari'>即座に体勢を整え、</span><br><span class='scene-font-katari'>カシウスに向け、引き金を引く。</span>,尤斯缇斯立刻稳住了身体，对卡西乌斯射击。
+26,,<span class='scene-font-katari'>しかし闇にまぎれたカシウスに</span><br><span class='scene-font-katari'>銃弾が当たることは無かった。</span>,但因为周围光线黑暗并没有打中他。
+27,,<span class='scene-font-katari'>目を凝らし、狙いを定める</span><br><span class='scene-font-katari'>ユーステスだが、カシウスは</span><br><span class='scene-font-katari'>悠然と槍を中空へ突き刺した。</span>,卡西乌斯悠然地将枪刺向正在绷紧神经瞄准他的尤斯缇斯。
+29,ユーステス/尤斯缇斯,チッ……,切…
+30,,<span class='scene-font-katari'>突然、点灯した照明に、</span><br><span class='scene-font-katari'>ユーステスは目を晦ます。</span>,这时周围的照明一齐打开，尤斯缇斯被突如其来的光线闪到了眼睛。
+31,,<span class='scene-font-katari'>すぐにユーステスは目を慣らすが、</span><br><span class='scene-font-katari'>カシウスの傍に佇むあるものを見て、</span><br><span class='scene-font-katari'>驚愕する。</span>,尤斯缇斯虽然立即恢复了视力，却被卡西乌斯身边的物体震惊了。
+32,？？？,…………,……………
+33,ユーステス/尤斯缇斯,これはセスラカか……！？<br>なぜ、ここに……！？,这就是塞斯拉卡吗…！？为什么会在这里…！？
+34,カシウス,フッ……,哼…
+35,,<span class='scene-font-katari'>目を見開くユーステスを前に、</span><br><span class='scene-font-katari'>カシウスはセスラカに近づき、</span><br><span class='scene-font-katari'>槍を振るう。</span>,卡西乌斯在尤斯缇斯的眼前走向了塞斯拉卡，
+36,カシウス,ｽｲﾄﾅ ﾄｿﾆｶﾁｶﾆﾗﾐ.,RESUSCITATION
+40,,<span class='scene-font-katari'>カシウスが言葉とも歌とも</span><br><span class='scene-font-katari'>似つかぬ音を口にした瞬間、</span><br><span class='scene-font-katari'>セスラカが駆動音を鳴らす。</span>,卡西乌斯说出似语非语的话后，塞斯拉卡发出了启动的轰鸣声。
+42,セスラカ,…………！！,……!!
+43,ユーステス/尤斯缇斯,チッ、これが目的か！,切，这才是真的目的吗！
+44,,<span class='scene-font-katari'>即座にユーステスは</span><br><span class='scene-font-katari'>カシウスを撃ち貫こうとするが、</span><br><span class='scene-font-katari'>さらに驚愕する出来事が起きる。</span>,尤斯缇斯立即向卡西乌斯射击，但更加惊人的事发生了。
+45,セスラカ,…………！！！！,………!!!
+51,カシウス・ユーステス,ッ！？,！？
+53,,<span class='scene-font-katari'>セスラカが激しく振動すると、</span><br><span class='scene-font-katari'>その首を床に落としたのだ。</span>,塞斯卡拉剧烈震动后，头部掉了下来。
+54,,<span class='scene-font-katari'>カシウスにとっても</span><br><span class='scene-font-katari'>想定外の出来事だったらしく、</span><br><span class='scene-font-katari'>彼は一瞬硬直してしまっていた。</span>,似乎是预料外的情况，卡西乌斯呆然片刻。
+55,カシウス,……なに？　これは──,…什么？这到底是——
+56,セスラカ,…………！！！！,………!!!
+59,,<span class='scene-font-katari'>セスラカはその次の瞬間、</span><br><span class='scene-font-katari'>その巨躯からは想像もつかぬ速さで</span><br><span class='scene-font-katari'>尾を振り、カシウスを突き飛ばす。</span>,塞斯拉卡突然甩了一下尾巴，以巨躯极不相称的速度击飞了卡西乌斯。
+60,カシウス,ぐあっ……,呜啊……
+61,,<span class='scene-font-katari'>カシウスは衝撃で槍を</span><br><span class='scene-font-katari'>手放してしまうも、</span><br><span class='scene-font-katari'>なんとか受け身を取った。</span>,卡西乌斯因为强烈的撞击放开了武器才勉强保持住了平衡。
+62,カシウス,バカ、な……<br>理解、不能……,不可能…不能…理解…
+63,ユーステス/尤斯缇斯,フン、すぐにでも<br>貴様を詰問したいが……,哼，虽然马上就想质问你…
+64,セスラカ,…………！！！！,………!
+65,ユーステス/尤斯缇斯,コイツの対処が先か。,还要先对付这家伙。
+66,,<span class='scene-font-katari'>ユーステスは暴れまわる</span><br><span class='scene-font-katari'>セスラカに数発銃弾を撃ち、</span><br><span class='scene-font-katari'>動きを牽制する。</span>,尤斯缇斯射出几发子弹，牵制了塞斯拉卡的行动。
+67,,<span class='scene-font-katari'>すると、ちょうど</span><br><span class='scene-font-katari'>騒ぎを聞きつけたベアトリクスと</span><br><span class='scene-font-katari'>姬塔一行が現れる。</span>,就在这时听到了响声的姬塔一行和贝阿朵丽丝赶了过来。
+68,ベアトリクス/贝阿朵丽丝,な、何の音だ今の！！,刚、刚才那个声音是什么呀！！
+69,ルリア/露莉亚,カシウスさん！？<br>それに、ユーステスさん！,卡西乌斯！？还有尤斯缇斯也在！
+70,バザラガ/巴萨拉卡,バカな……<br>なぜ、機神がここに……！,不可能…为什么这里会有机神…！
+71,ゼタ/泽塔,わけわかんない！<br>どういうこと！？,完全搞不懂！到底怎么回事！？
+72,ユーステス/尤斯缇斯,話はあとだ……<br>まずはコイツの対処が先だ。,稍后再说…要先把这个处理掉。
+73,イルザ/伊尔莎,あ、ああ……！<br>終わり次第、<br>状況の説明をして貰う！,好、好的…！在这之后你要交代清楚是怎么回事！
+74,,<span class='scene-font-katari'>姬塔一行と組織メンバーは</span><br><span class='scene-font-katari'>暴れ出したセスラカと</span><br><span class='scene-font-katari'>交戦を始める。</span>,姬塔一行和组织成员们开始与塞斯拉卡展开战斗。
+78,？？？,…………,……………
+79,,<span class='scene-font-katari'>その様子をじぃっと観察する</span><br><span class='scene-font-katari'>影がいるとも知らずに……</span>,然而他们并不知道周围一直有人在观察着他们。
+info,,,scene_evt181231_cp3_q4_s20
+,,,

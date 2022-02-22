@@ -1,0 +1,19 @@
+﻿id,en,jp,trans
+0-chapter_name,,第1話 ある帝国兵の野望, 第1话  某个帝国士兵的野心
+0-synopsis,,姬塔らと行動を共にして、一行を手ごわい騎空団だと感じたユーリ。自分の意図が露見して戦う羽目になるのではないかと不安に思いながら、ファラとカタリナの説得方法を思案する。道中、ファラはカタリナがユーリの剣術を褒めた事が気に入らず、「本気の技を見せる」と言って魔物に戦いを挑むのだった。, 经过和姬塔他们一起行动、开始感觉到这个骑空团很棘手的尤利。想到一旦自己的目的被发现之后会演变成不得不战斗的情况而感到不安、不断在想如何能说服法拉和卡塔莉娜。路上、法拉对卡塔莉娜称赞尤利的剑术而感到不满、说道「让你看看我的真正实力」就跑去和魔物战斗了。<br>翻译报错到NGA@mirror0420
+0,,<span class='scene-font-kokoro'>（この騎空団……なかなかの戦力だな）</span>,<span class='scene-font-kokoro'>（这个骑空团……战斗力不一般啊）</span>
+1,,<span class='scene-font-kokoro'>（長い間帝国軍を</span><br><span class='scene-font-kokoro'>苦しめてきたというのも</span><br><span class='scene-font-kokoro'>嘘ではないようだ……）</span>,<span class='scene-font-kokoro'>（长期让帝国军</span><br><span class='scene-font-kokoro'>头痛不堪</span><br><span class='scene-font-kokoro'>看来不是流言啊……）</span>
+2,,<span class='scene-font-kokoro'>（主力はカタリナ中尉と</span><br><span class='scene-font-kokoro'>思っていたが……</span><br><span class='scene-font-kokoro'>姬塔も結構やるな……）</span>,<span class='scene-font-kokoro'>（一直以为</span><br><span class='scene-font-kokoro'>主力是卡塔莉娜中尉</span><br><span class='scene-font-kokoro'>但是姬塔的实力也很强啊……）</span>
+3,,<span class='scene-font-kokoro'>（俺の目的がバレて</span><br><span class='scene-font-kokoro'>戦う事にでもなればまずい……）</span>,<span class='scene-font-kokoro'>（要是我的目的暴露了</span><br><span class='scene-font-kokoro'>要和他们打起来就不妙了……）</span>
+4,,<span class='scene-font-kokoro'>（慎重に行動しなければ……）</span>,<span class='scene-font-kokoro'>（必需要小心行事啊……）</span>
+9,,ユーリは帝国式の剣術が<br>なかなか板についているな。, 尤利你那帝国式剑术<br>用得非常不错啊。
+10,,光栄です！<br>同じく帝国軍人である父の教えに従って<br>毎日の訓練は欠かしませんでした！, 我很荣幸！<br>遵循同为帝国军人的父亲的教诲<br>毎日的训练全都没有落下的！
+11,,君の父上も帝国の軍人だったのか。, 你的父亲也是帝国军人啊。
+12,,はい！<br>誇り高き帝国軍人の心得は<br>父から叩き込まれました！, 是的！<br>帝国军人的崇高理念<br>父亲已经让我牢牢记住了！
+13,,これだけの腕に育て上げたなら、<br>父上も鼻が高いだろうな。, 能够把你培养得这么优秀、<br>令尊肯定会觉得很自豪的。
+14,,ぐぐぐぐぐぐ！, 咕咕咕咕咕咕！
+15,,ずるいっす！<br>ユーリばっかり褒められるのは<br>納得いかないっすよ！, 太过份了！<br>为什么一个劲儿的在夸尤利一个<br>我不能接受！
+16,,いや、<br>決して彼ばかり褒めているつもりは……<br>ファラだって以前に増して……, 不是、<br>我没有打算只夸他一个的……<br>法拉也是比以前更……
+17,,先輩！　自分の剣術も見てくれっす！<br>今度は本気の技をお見せするっすよ！, 前辈！　好好看着我的剑术！<br>我会让你看看我的真正实力！
+18,,<span class='scene-font-katari'>言うが早いか、ファラは魔物の群れに</span><br><span class='scene-font-katari'>向かっていくのだった。</span>,<span class='scene-font-katari'>话还没说完、法拉就向着</span><br><span class='scene-font-katari'>一群魔物冲过去了。</span>
+info,,1,scene_evt140930_cp1_q3_s10

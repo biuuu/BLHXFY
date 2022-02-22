@@ -1,0 +1,38 @@
+﻿id,name,text,trans
+0-chapter_name,,永久の決闘者,永久的决斗者
+0-synopsis,,激闘を制した姬塔だったが、モルディカイは一息つく間もなく傷ひとつない状態で蘇ってくる。先程の決着を忘れた様子で、再び姬塔に向かってくるモルディカイ。さらにその周囲には土塊の魔物の群れも出現する。混迷する状況の中、姬塔は再びモルディカイに立ち向かう。,虽然取得了最终的胜利，但是莫迪凯在毫发无伤的状态下复活了。它看上去已经忘记了刚才的决斗，并再次奔向姬塔。甚至在它的周围出现了一群泥土魔物。在混乱的情况下，姬塔再次面对莫迪凯。
+2,モルディカイ/莫迪凯,<span class='scene-font-4'>ぐああっ！</span>,<span class='scene-font-4'>啊啊啊！</span>
+3,,<span class='scene-font-katari'>姬塔の剣が</span><br><span class='scene-font-katari'>モルディカイの眉間をとらえ、</span><br><span class='scene-font-katari'>その頭蓋を砕く。</span>,<span class='scene-font-katari'>姬塔的剑捕捉到了莫迪凯的眉间，击碎了它的头盖骨。</span>
+4,モルディカイ/莫迪凯,見事な腕前だな……,出色的本领……
+13,ビィ/碧,あ……あぶねえ所だったぜ……！,啊……真的是好危险……！
+14,ルリア/露莉亚,大丈夫ですか？　姬塔。,你没事吧？姬塔。
+15,,<span class='scene-font-katari'>辛くも勝利した姬塔は、</span><br><span class='scene-font-katari'>心配させまいと微笑んでうなずく。</span>,<span class='scene-font-katari'>辛苦取得胜利的姬塔点点头，露出不用担心的微笑。</span>
+16,ルナ/露娜,モルちゃん……<br>ねぇ、モルちゃんは？<br>どこに行っちゃったの？,小莫迪……呐，小莫迪去哪了？
+17,ビィ/碧,わかんねえな。元々死んでたんだろ？<br>って事は死んだってワケじゃ<br>ねえだろうし……,我也不知道。本来就是死了的吧？说它死了好像也不太对……
+18,ビィ/碧,まあ、ともかく、あとは嬢ちゃん達を<br>元いた場所に帰せば<br>一件落着って事だな！,总之，剩下的事情就是将小姑娘们送回原来的地方就完了呢！
+19,ルリア/露莉亚,はい！　私達の騎空艇で<br>送ってあげましょうよ！,是的！我们用骑空艇送你们一程吧！
+20,ビィ/碧,そりゃあいいや！<br>ふたりとも乗ってくだろ？,那太好了！你们两位都会乘上来吧？
+21,アリサ/亚里莎,ありがとう！<br>……ルナちゃんも、一緒に来るよね？,谢谢你！<br>……小露娜也会一起来的吧？
+22,ルナ/露娜,どうしようかな……,怎么办好呢……
+23,,<span class='scene-font-katari'>恐ろしい敵を倒し、一息ついた</span><br><span class='scene-font-katari'>姬塔達。まずは帝国の施設を</span><br><span class='scene-font-katari'>離れようと歩き出すと──</span>,<span class='scene-font-katari'>姬塔一行人打到可怕的敌人后，一口气走出帝国设施的时候——</span>
+31,モルディカイ/莫迪凯,…………,…………
+32,ビィ/碧,<span class='scene-font-4'>うぎゃーっ！？</span>,呜呀——！？
+33,,<span class='scene-font-katari'>傷ひとつない状態で甦った</span><br><span class='scene-font-katari'>モルディカイを見て驚く一行。</span>,<span class='scene-font-katari'>看到没有任何伤口复活的莫迪凯，众人都十分的惊讶。</span>
+34,,<span class='scene-font-katari'>剣を握ったままの姬塔を</span><br><span class='scene-font-katari'>まじまじと見つめ、モルディカイは</span><br><span class='scene-font-katari'>何かを察した様子である。</span>,<span class='scene-font-katari'>正视握着剑的姬塔，莫迪凯似乎察觉到了什么。</span>
+35,モルディカイ/莫迪凯,この剣気……<br>そうか……お前か……,这股剑气……是吗……是你吗……
+43,,<span class='scene-font-katari'>まるで姬塔との邂逅を</span><br><span class='scene-font-katari'>やり直すかのように、モルディカイは</span><br><span class='scene-font-katari'>同じ口調で同じ言葉を口にする。</span>,<span class='scene-font-katari'>就好像要重新开始与姬塔的邂逅一般，莫迪凯用同样的语调说出同样的话。</span>
+44,ビィ/碧,いや待てって！<br>さっき決着はついたじゃねえか！,不是，等等！刚才决斗不是已经结束了吗！
+61,土塊の魔物,<span class='scene-font-4'>ンゴゴー！</span>,<span class='scene-font-4'>嗯高高！</span>
+62,,<span class='scene-font-katari'>モルディカイの鎧の隙間で</span><br><span class='scene-font-katari'>光が瞬いたかと思った次の瞬間、</span><br><span class='scene-font-katari'>その傍らに土塊の魔物が出現していた。</span>,<span class='scene-font-katari'>在莫迪凯铠甲的缝隙中，一道光芒闪烁后，四周出现了许多土块魔物。</span>
+63,ビィ/碧,どういうこった！？<br>ガイコツの中からあの泥人形まで<br>出てきやがったぞ！,这是怎么回事！从骸骨怪物中出现了泥人偶！
+65,モルディカイ/莫迪凯,ゆくぞ、我が宿敵よ。,来吧，我的宿敌。
+66,アリサ/亚里莎,…………？,…………?
+67,ビィ/碧,やっべえ！　来るぞ姬塔！,不好！要来了，姬塔！
+69,アリサ/亚里莎,<span class='scene-font-kokoro'>（なんだろう、あの骸骨の鎧から</span><br><span class='scene-font-kokoro'>時々漏れる光……</span><br><span class='scene-font-kokoro'>どこかで見たような……）</span>,<span class='scene-font-kokoro'>（那道从骸骨盔甲上是不是露出来的光是什么……就像我在哪里看到的一样。）</span>
+72,土塊の魔物,<span class='scene-font-4'>ンゴゴゴゴゴ……！</span>,<span class='scene-font-4'>嗯高高高高高……！</span>
+73,アリサ/亚里莎,うわっ！？<br>人形達が、<br>こっちに来てるよ！,哇！？人偶们要过来了！
+74,ビィ/碧,これ、収拾つかねえぞ……！,这个，没办法收拾啊……！
+76,モルディカイ/莫迪凯,……いざ、尋常に。,……一决高下吧。
+77,,<span class='scene-font-katari'>鋭い太刀筋で姬塔に迫る</span><br><span class='scene-font-katari'>モルディカイ。</span>,<span class='scene-font-katari'>莫迪凯操着锐利的太刀向姬塔逼近。</span>
+78,,<span class='scene-font-katari'>倒しても復活する敵を相手に</span><br><span class='scene-font-katari'>姬塔はどうするのか──</span>,<span class='scene-font-katari'>面对即使倒下也会复活的对手，姬塔会怎么做呢——</span>
+info,,,scene_evt20170222_cp8_q1_s30

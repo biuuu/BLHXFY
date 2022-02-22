@@ -1,0 +1,47 @@
+id,name,text,trans
+0-chapter_name,,第1話 闇,第1話 闇
+0-synopsis,,原因不明に暴れる星晶獣達の光景は、人々に災厄の再来を思わせる。しかしそこに火の天司ミカエルが顕現し、星晶獣を次々と撃破すると、ミカエルはハールートとマールートという双子の天司に姬塔達を安全な場所へ案内させるのだった。,星晶兽开始不明原因地暴走，人们都觉得灾厄要再次降临了。这时火之天司米迦勒显现，将星晶兽陆续击破后，派出名叫哈露特和玛露特的双子天司带领姬塔众人前往安全区域。
+4,光の星晶獣,<span class='scene-font-4'>ウオォォォン！</span>,<span class='scene-font-4'>呜哦哦哦哦！</span>
+5,闇の星晶獣,<span class='scene-font-4'>アアァァァッ！</span>,<span class='scene-font-4'>啊啊啊啊啊！</span>
+6,,<span class='scene-font-katari'>突如として明滅する空、</span><br><span class='scene-font-katari'>そして激突する光と闇の星晶獣。</span>,<span class='scene-font-katari'>天空突然忽明忽暗，</span><br><span class='scene-font-katari'>光与暗的星晶兽也开始暴走。</span>
+7,,<span class='scene-font-katari'>人々はかつてない光景に、</span><br><span class='scene-font-katari'>呆然と上空を見つめる他なかった。</span>,<span class='scene-font-katari'>人们呆滞地看着</span><br><span class='scene-font-katari'>这前所未有的光景。</span>
+8,,<span class='scene-font-katari'>だがその衝撃の余波は、</span><br><span class='scene-font-katari'>やがて街にも波及して……</span>,<span class='scene-font-katari'>但冲击的余波最终波及地面……</span>
+13,観光客１,うわぁ！？<br>危ない、巻き込まれるぞ！,呜哇！？<br>危险！要被卷进去了！
+14,観光客２,ひ、避難だ！<br>騎空艇で脱出するんだ……！,快，快避难！<br>乘骑空艇离开这里……！
+17,警備隊長,待ちたまえ、移動は危険だ！<br>報告では平野にも異常が発生している！,等等，现在移动很危险！<br>报告说平原上也有异常发生！
+18,魔导士,じゃあどうすればいいの！？<br>このままだと災厄の二の舞になるわよ！,那该怎么办啊！？<br>再这样下去又会和上次灾厄一样！
+21,碧,なんてこった……<br>一体どうなってるんだよ！,怎么会这样……<br>到底发生了什么啊！
+22,榭洛科特,ルリアさん……！<br>何かわかる事はありますか～！？,露莉亚……！<br>你能感受到什么吗~！？
+23,露莉亚,はい、えっと……！,嗯……那个……！
+25,露莉亚,この感じ……暴走というより<br>混乱して、怯えて<br>凶暴化してるみたいです……,这个感觉……与其说是暴走，<br>更应该是因为混乱、恐惧而变得凶暴……
+26,露莉亚,それにこの……<br>気配、の数は……,而且这个……<br>气息的数量……
+27,露莉亚,島中の、いえ……<br>ひょっとしたら全空中の──,整个岛，不……<br>说不定全空都——
+29,光の星晶獣,<span class='scene-font-4'>ガルアァァァァ！</span>,<span class='scene-font-4'>嘎啊啊啊啊！</span>
+30,碧,ヤベェ！<br>別のヤツが街に突っ込んで来たぞ！<br>構えろ、姬塔！,糟了！<br>又有其他家伙冲到街上来了！<br>快准备好，姬塔！
+31,,<span class='scene-font-katari'>姬塔は頷き、</span><br><span class='scene-font-katari'>星晶獣に向かって全力で剣を振るった。</span>,<span class='scene-font-katari'>姬塔点头，</span><br><span class='scene-font-katari'>对星晶兽全力地挥出剑。</span>
+34,,<span class='scene-font-katari'>すると星晶獣の突進は止まったが、</span><br><span class='scene-font-katari'>その戦意が失われた様子は見られず、</span><br><span class='scene-font-katari'>再び襲いかからんと牙を剥いている。</span>,<span class='scene-font-katari'>星晶兽虽然停止了进攻，</span><br><span class='scene-font-katari'>但看上去完全没有失去战意，</span><br><span class='scene-font-katari'>呲着牙准备随时再次发动袭击。</span>
+35,露莉亚,うぅ……！<br>さすがに一筋縄にはいきませんね……！,呜呜……！<br>果然一般办法行不通啊……！
+36,碧,上空の二体もなんとかしねぇと……<br>他のヤツらと合流して<br>対策を練る時間を──,也得对付上空的那两只……<br>还是先和其他人汇合再考虑对策——
+37,観光客１,うわぁ！？<br>今度は東の門に別の星晶獣が現れたぞ！<br>人間を襲ってきた！,呜哇！？<br>这次东门又有其他星晶兽出现了！<br>正在袭击人！
+38,観光客２,な、なんてこった……！<br>また災厄が起きるってのかよ！？,怎，怎么会这样……！<br>难道灾厄又要来了吗！？
+39,露莉亚,そんな……！？,怎么会这样……！？
+40,碧,クソォ、冗談じゃねぇ！<br>また災厄なんて起こさせるもんか！,可恶，开什么玩笑！<br>绝对要阻止灾厄再起！
+49,米迦勒,──その通りだ、<span class='scene-font-spword'>特異点</span>達よ。,就是这样──<span class='scene-font-spword'>特异点</span>们。
+50,露莉亚,ミカエルさん！？,米迦勒！？
+51,米迦勒,獣は妾が引き受ける。<br>貴様等は街の者達を避難させろ。,兽由我来对付。<br>你们带众人去避难。
+52,碧,お、おぅ、わかったぜ！<br>でもひとりじゃあさすがに……,哦，哦，知道啦！<br>但是你一个人……
+53,米迦勒,妾を誰だと思っておる？<br>あの災厄では醜態を晒したが……,你以为我是什么人？<br>虽然在那次灾厄中露出了丑态……
+54,米迦勒,<span class='scene-font-4'>はあぁぁぁ！</span>,<span class='scene-font-4'>哈啊啊啊！</span>
+58,光の星晶獣,グオォォォ……！,咕哦哦哦哦……！
+60,榭洛科特,た、たった一撃で星晶獣を～……！？,只，只用一击就把星晶兽……！？
+61,米迦勒,この空域も光と闇の機能不全か。<br>やはり原因は<span class='scene-font-spword'>『エーテル』</span>の横溢……,这片空域光与暗的机能不全吗？<br>原因果然是<span class='scene-font-spword'>『以太』</span>横溢……
+62,米迦勒,天司長の御身に一体、何が……,天司长的御身到底发生了什么……
+63,露莉亚,エーテル……？<br>天司長ってルシフェルさんの──,以太……？<br>天司长是指路西菲尔——
+69,？？？,諸君、話は後だ。<br>まずは僕達の張った結界の中に避難を。<br>街の人間達も誘導しよう。,各位，稍后再说。<br>先到我们展开的结界内避难，<br>带街上的人类们一起来吧。
+70,碧,<span class='scene-font-4'>うわぁ！？</span><br>なんだぁ、いきなりなんか出て来たぞ？,<span class='scene-font-4'>呜哇！？</span><br>什么啊，突然有什么东西冒出来了。
+76,？？？,こんにちは♪<br>さあ、急いで移動しましょ？<br>ミカエル様の邪魔になるわ。,大家好♪来吧，<br>赶紧离开这里。<br>会妨碍到米迦勒大人的。
+77,米迦勒,安心しろ、<span class='scene-font-spword'>特異点</span>。<br>その者達も天司だ。,放心吧，<span class='scene-font-spword'>特异点</span>。<br>她们也是天司。
+78,米迦勒,……頼んだぞ。<br>ハールート、マールート。,交给你们了……<br>哈露特，玛露特。
+79,哈露特,承知しました！<br>ミカエル様も、ご武運を！,明白了！<br>也愿米迦勒大人武运昌隆！
+80,玛露特,はいはーい♪<br>では<span class='scene-font-spword'>特異点</span>さん達、参りましょ！,好啦好啦♪<br><span class='scene-font-spword'>特异点</span>们，走吧！
+info,,,scene_evt180228_cp1_q3_s10

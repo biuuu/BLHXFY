@@ -1,0 +1,21 @@
+﻿id,en,jp,trans
+0-chapter_name,,第3話 ルネーレの決戦, 第3话  露妮蕾之战
+0-synopsis,,点呼に出なかった事で脱走兵扱いされてはたまらないと、ユーリは姬塔達を連れながら先を急ぐ。ようやく集合地点に辿り着いたユーリは、隊長に事情を説明しようとするのだが、ユーリはすでに反逆者として扱われていた。容赦なく襲い掛かってくるユーリの同僚達。己の身を守るため、ユーリは仕方なしに剣を抜くのだった。, 不想因为无法出席点名而被当成逃兵、尤利带着姬塔他们不断赶路。终于到达集合地点的尤利、打算和队长说明原由、但发现自己已经被当成逃兵了。面对不由分说向自已袭击过来的同僚。为了保护自己、尤利只好把剑拔出来。<br>翻译报错到NGA@mirror0420
+0,,<span class='scene-font-katari'>脱走兵の説得のために潜伏する──</span><br><span class='scene-font-katari'>その報告を果たせないまま</span><br><span class='scene-font-katari'>隊と別行動をしていたユーリ。</span>,<span class='scene-font-katari'>这是为了说服逃兵的行动──</span><br><span class='scene-font-katari'>还没有把这件事向上级报告</span><br><span class='scene-font-katari'>就脱离队伍独自行动的尤利。</span>
+1,,<span class='scene-font-katari'>このままでは</span><br><span class='scene-font-katari'>自分まで反逆者として扱われてしまう。</span><br><span class='scene-font-katari'>ユーリは焦りを募らせていた。</span>,<span class='scene-font-katari'>继续这样的话</span><br><span class='scene-font-katari'>害怕这样下去也被当成背叛者。</span><br><span class='scene-font-katari'>尤利心里的焦躁越来越严重了。</span>
+2,,次の順路ですが、<br>この近くの村を通ろうと思います。, 关于之后的路线、<br>我打算穿过这附近的村庄。
+3,,<span class='scene-font-kokoro'>（合流地点は村のすぐ近く……</span><br><span class='scene-font-kokoro'>なんとか隊長に連絡せねば！）</span>,<span class='scene-font-kokoro'>（集合地点离村子很近……</span><br><span class='scene-font-kokoro'>得想办法和队长联络才行！）</span>
+4,,<span class='scene-font-kokoro'>（俺まで脱走兵扱いされては</span><br><span class='scene-font-kokoro'>親父に顔向けできん！）</span>,<span class='scene-font-kokoro'>（要是我也被当作逃兵的话</span><br><span class='scene-font-kokoro'>我就没脸去见老爸了！）</span>
+5,,<span class='scene-font-katari'>内心で焦るユーリ。</span><br><span class='scene-font-katari'>そんな中、一行の前に</span><br><span class='scene-font-katari'>ついに帝国軍が姿を現す。</span>,<span class='scene-font-katari'>心急如焚的尤利。</span><br><span class='scene-font-katari'>在他们一行人面前、</span><br><span class='scene-font-katari'>最终帝国军还是出现了。</span>
+6,,見つけたぞ！　ユーリ！<br>そして脱走兵ども！, 找到你了！　尤利！<br>还有你们这些逃兵！
+7,,げっ！　隊長！, 呃！　队长！
+8,,帝国軍！？,帝国军！ ？
+9,,ユーリ！　話は聞いたぞ！<br>脱走兵どもと一緒に帝国兵を<br>襲っているそうだな！, 尤利！　我已经听过报告了！<br>你是在和逃兵一起<br>袭击帝国军对吧！
+10,,げっ！　そ、それは……<br><span class='scene-font-kokoro'>（情報が伝わるのが……</span><br><span class='scene-font-kokoro'>思ったよりずっと早かったか！）</span>,呃！　那、那是因为……<br><span class='scene-font-kokoro'>（情报比我想象中……</span><br><span class='scene-font-kokoro'>传得还要快吗！）</span>
+11,,合流地点に来ないと思えば……<br>脱走兵に感化されたか！　ユーリよ！, 还在想为什么没来集合……<br>原来是被逃兵影响了吗！　尤利！
+12,,待ってください隊長！<br>俺の話を！, 等一下队长！<br>听我解释！
+13,,貴様も脱走に加わるというのなら……<br>まとめて叩き斬ってくれるわ！, 你也打算成为逃兵的话……<br>我就把你和他们一起砍了！
+14,,総員、剣を抜けい！, 全员、拔剑！
+15,,数では勝っているが油断はするな！<br>相手はあのカタリナ中尉だ！<br>心して挑め！, 虽然数量上我们有优势但不要太意！<br>对手是那个卡塔莉娜中尉！<br>集中精神上吧！
+16,,サー！　イエス！　サー！, SIR！　YES！　SIR！
+info,,1,scene_evt140930_cp3_q1_s20

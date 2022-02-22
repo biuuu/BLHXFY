@@ -1,0 +1,20 @@
+id,name,text,trans
+0-chapter_name,,1: The Zealous Gambler,第1话 热情的赌徒
+0-synopsis,,Richard explains that he had approached a strange light in the bushes nearby and was attacked by a fire monster. Katalina notes that these monsters are rarely seen in Port Breeze.,理查德解释说他在附近的草丛中碰到了一束奇怪的光，然后就被火怪袭击了。卡特莉娜注意到这些怪物在微风港并不常见。
+1,Richard/理查德,"Whew, thanks for saving me... ",呼，感谢救我一命。
+2,Richard/理查德,And you even took out that trickster for me too? I owe you one.,你们为我教训了那个骗子？我欠你们一个人情。
+3,Vyrn/碧,Sure thing. But what were you doing over there anyway?,没事。但是你在那儿干嘛呢？
+4,Richard/理查德,"I saw a strange light over in the bushes, so I went to take a look, when all of a sudden... Well, you know what happened next.",我看到草丛中有束奇怪的光，想近一点看一下，但是突然就...你知道后面发生什么事了。
+5,Lyria/露莉亚,I'm guessing that's when the fire monster attacked you?,我猜火怪就是那时攻击你的？
+6,Richard/理查德,Yes. It's supposed to be a monster very rarely seen on this island.,是的。在这个岛上那种魔物应该很难见到。
+7,Katalina/卡塔莉娜,It certainly had a powerful command over fire. Those creatures are often drawn to bonfires and other large blazes.,毫无疑问，它有很强的火焰能力。那些生物经常被篝火和大型火光吸引。
+8,Lyria/露莉亚,"Wow, you know a lot about them, Katalina!",哇，你知道的好多啊，卡塔利娜！
+9,Katalina/卡塔莉娜,"Not at all. That's quite common knowledge, really.",并不...只是常识而已。
+10,Vyrn/碧,"Yeah, but there's no bonfire or anything around here...",但是，这附近也没有篝火之类的东西...
+11,Katalina/卡塔莉娜,"They wouldn't be so out of place in Valtz, but Port Breeze? Hm...",如果是在瓦尔兹这些怪物的确很常见，但是在微风港？嗯...
+13,Lyria/露莉亚,...,...
+14,Katalina/卡塔莉娜,"Is everything all right, Lyria?",怎么了，露莉亚？
+15,Lyria/露莉亚,Hm... I must be imagining things...,嗯...我一定是多虑了...
+16,,"Having taken care of the trickster, 姬塔 and company return to town.",教训过骗子后，姬塔一行人回到了镇上。
+info,,,scene_evt131201_cp1_q3_s30
+译者,,,swhoro

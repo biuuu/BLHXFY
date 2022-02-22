@@ -1,0 +1,61 @@
+id,name,text,trans
+0-chapter_name,,第1話 蒼海を征くメグ,第1话 征服苍海的梅格
+0-synopsis,,ついにやってきた<span class='scene-font-place'>アウギュステ</span>で、メグは地元の友人であるまりっぺとばったり出会ってしまった。ひとりで来たことを笑われて不愉快な思いもしたが、予約していたホテルに行くと創業100万人目の客として祝われて仰天。特典としてユディスティラ島への渡航と宿泊がセットになったツアーをプレゼントされる。メグはそれをすぐに使いたいと申し出るのだった。,终于来到<span class='scene-font-place'>奥古斯提</span>的梅格与故乡的友人玛丽丽巧遇了。虽然被嘲笑一个人过来感到不开心，但是去了预约的酒店后，自己竟是第100万名的顾客被送上了奖品，非常开心。奖品是迪斯提拉岛的渡航住宿套票。梅格立即就申请使用了。
+3,？？？,あれ、メグ？<br>なんでこんなトコにいるの？,咦，梅格？<br>你怎么在这里？
+4,メグ/梅格,<span class='scene-font-4'>まりっぺ！？</span><br>ど、どうして<span class='scene-font-place'>アウギュステ</span>に？,<span class='scene-font-4'>玛丽丽！？</span><br>为、为什么你会在<span class='scene-font-place'>奥古斯提</span>？
+5,まりっぺ,はぁ？<br>先に聞いたのこっちなんだけど。,哈？<br>是我先问你的啊。
+6,メグ/梅格,あ、ごめん……<br>わたしは旅行で、<br>ついさっき着いたんだけど……,啊，对不起……<br>我是来旅游的，刚刚才到……
+7,まりっぺ,え、メグひとり？<br>ウケる！<br>アタシは彼氏とだよ。,诶，梅格一个人？<br>太逊了！<br>我是和男朋友一起的哟。
+8,,<span class='scene-font-katari'>するとまりっぺは笑いまじりに</span><br><span class='scene-font-katari'>となりに立つ男性に話しかけた。</span>,<span class='scene-font-katari'>然后玛丽丽笑着向旁边站着的男人出声了。</span>
+9,まりっぺ,ねぇ、このコ、<br>地元の友達のマーガレットっていうの。<br>アタシらはメグって呼んでるけど。,那个，<br>这孩子是我的家乡的朋友玛格丽特。<br>我叫她梅格。
+10,まりっぺの彼氏,チーッス、メグちゃん。<br>はじめまして～,嘿，梅格。你好啊～
+11,メグ/梅格,ど、どうも……,你、你好……
+12,まりっぺ,メグって小さい頃から人一倍、<br><span class='scene-font-place'>アウギュステ</span>に<br>行きたがってたのよ。,梅格从小时候开始<br>就比别人多一倍的想去<span class='scene-font-place'>奥古斯提</span>呢。
+13,まりっぺ,でもまさか<br>ひとりで来るとは<br>思わなかったわ～,但是没想到<br>竟然自己一个人来了～
+14,メグ/梅格,<span class='scene-font-kokoro'>（あーあ……</span><br><span class='scene-font-kokoro'>まさかまりっぺも</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-kokoro'>に来てたなんて……）</span>,<span class='scene-font-kokoro'>（啊ー啊……</span><br><span class='scene-font-kokoro'>没想到玛丽丽也来</span><br><span class='scene-font-place'>奥古斯提</span><span class='scene-font-kokoro'>了……）</span>
+20,メグ/梅格,<span class='scene-font-gray'>この子はまりっぺ。</span><br><span class='scene-font-gray'>本名は、マリリン。</span><br><span class='scene-font-gray'>昔から一緒に遊んでいた子。</span>,<span class='scene-font-gray'>这孩子是玛丽丽。</span><br><span class='scene-font-gray'>本名是玛丽琳。</span><br><span class='scene-font-gray'>是以前就一起玩的朋友。</span>
+21,メグ/梅格,<span class='scene-font-gray'>わたしと違って堂々としてるし、</span><br><span class='scene-font-gray'>仲良しグループのリーダー的存在で、</span><br><span class='scene-font-gray'>男子からもモテてる。</span>,<span class='scene-font-gray'>和我不一样非常落落大方，</span><br><span class='scene-font-gray'>在小圈子里是相当于一个领导人的存在，</span><br><span class='scene-font-gray'>也很受男孩子欢迎。</span>
+22,メグ/梅格,<span class='scene-font-gray'>でもちょっと気が強くて、</span><br><span class='scene-font-gray'>グループで目立たないわたしは</span><br><span class='scene-font-gray'>まりっぺのそんなところが少し苦手……</span>,但是玛丽丽有点强势，对于团体里不太起眼的我来说相处起来有点难……
+28,まりっぺ,メグさ、アタシらに秘密で<br><span class='scene-font-place'>アウギュステ</span>に来たわけじゃない。<br>それって……どうなの？,梅格啊，你这不是背着我们来<span class='scene-font-place'>奥古斯提</span>的嘛。所以……这是怎么回事？
+29,メグ/梅格,え……ど、どうって……？,呃……怎，怎么回事……？
+30,まりっぺ,帰ったらみんなに、<br><span class='scene-font-place'>アウギュステ</span>に行ってきたんだ～<br>って自慢するつもりだったんでしょ？,你是打算等回去了和大家炫耀，我去了<span class='scene-font-place'>奥古斯提</span>～吧？
+31,まりっぺ,羨ましがるアタシらを見て<br>優越感に浸ろうとしたとか？,然后想看着很羡慕的大家<br>沉浸在优越感中吧？
+32,メグ/梅格,そ、そんなことないって……！<br><span class='scene-font-kokoro'>（あるけど……）</span>,才，才没有那样……！<br><span class='scene-font-kokoro'>（其实有……）</span>
+33,メグ/梅格,で、でもまりっぺも……<br><span class='scene-font-place'>アウギュステ</span>に行くなんて<br>みんなに言ってなかった……よね？,但、但是玛丽丽……也没和大家说，要去<span class='scene-font-place'>奥古斯提</span>……吧？
+34,まりっぺ,は？<br>そんなこと言う義務ないでしょ？,哈？<br>没有说的义务吧？
+35,メグ/梅格,えぇ……<br><span class='scene-font-kokoro'>（自分はいいの！？）</span>,诶……<br><span class='scene-font-kokoro'>（自己就可以！？））</span>
+36,,<span class='scene-font-katari'>メグの反応がおもしろくなかったのか、</span><br><span class='scene-font-katari'>まりっぺは彼氏にふたたび語りかけた。</span>,<span class='scene-font-katari'>大概因为梅格的反应并不是很有趣，</span><br><span class='scene-font-katari'>玛丽丽再次开始对着男友说起了话。</span>
+37,まりっぺ,ねぇ、聞いてよ。<br>メグったら、<br>白馬の王子様を待ってんのよ。,那个，你听我说啊。<br>梅格啊，<br>在等着她的白马王子哟。
+38,まりっぺの彼氏,白馬の王子様？<br>なにそれ？,白马王子，<br>那是什么？
+39,まりっぺ,メグの好きな男のタイプ！<br>金髪で、瞳の色が明るくてぇ……<br>憂いを帯びた顔つきの正義漢、だっけ？,梅格喜欢的男孩子的类型！<br>是金发，瞳色明亮……<br>表情看起来少许忧郁的正义男子吧？
+40,まりっぺの彼氏,ぶはっ……なにそれ！<br>めっちゃ具体的じゃん！,噗哈……那是啥！<br>好具体啊！
+41,まりっぺ,そうなの！<br>昔からこのコ、これ言ってるから<br>アタシもすっかり覚えちゃった！,是啊！<br>从以前开始这孩子就一直这么说，<br>我都记得好清楚了！
+42,メグ/梅格,あ、あはは……<br>恥ずかしいよ～まりっぺ……,啊，啊哈哈……<br>羞死人了啊～玛丽丽……
+43,メグ/梅格,あ、わたし、そろそろ<br>ホテルにチェックインしないとだ！<br>ごめんね。,啊，我该要要去酒店登记入住了！<br>不好意思。
+44,,<span class='scene-font-katari'>メグはふたりをその場に残し、</span><br><span class='scene-font-katari'>足早にホテルへと向かった。</span>,<span class='scene-font-katari'>梅格把那两个人晾在那里，</span><br><span class='scene-font-katari'>快步走向了酒店。</span>
+50,メグ/梅格,はぁ……最悪だよ……<br>せっかく誰もいないリゾート地で<br>わたしも成長するつもりだったのに……,哈……真是糟透了……<br>本来想在谁都不在的度假地，<br>自己也能有所成长的……
+51,メグ/梅格,<span class='scene-font-kokoro'>（いや、ダメだ、メグ……！</span><br><span class='scene-font-kokoro'>念願の</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-kokoro'>に来たってのに</span><br><span class='scene-font-kokoro'>こんな落ち込んだ気分じゃ……！）</span>,<span class='scene-font-kokoro'>（（不，不能这样，梅格……</span><br><span class='scene-font-kokoro'>都来了心心念念的</span><span class='scene-font-place'>奥古斯提</span><span class='scene-font-kokoro'>了，怎么能变成沮丧的心情……！）</span>
+52,,<span class='scene-font-katari'>どうにか自分を奮い立たせたメグは</span><br><span class='scene-font-katari'>ホテルのフロントで呼び鈴を鳴らした。</span>,<span class='scene-font-katari'>梅格总算振作了起来，</span><br><span class='scene-font-katari'>按响了酒店接待的服务铃。</span>
+53,？？？,はい、お呼びでしょうか？,来了，请问有什么事吗？
+54,メグ/梅格,えっと……今日からひと部屋、<br>マーガレットの名前で<br>予約しているんですけど……,那个……我以玛格丽特的名字<br>预约了今天的单人间……
+55,ホテル支配人,マーガレット様、<br>お待ちしておりました。<br>私はこのホテルの支配人でございます。,玛格丽特大人，<br>我恭候已久了。<br>我是这个酒店的管理人。
+56,メグ/梅格,あ、どうもご丁寧に……<br>今日からよろしくお願いします。<br>わたしのことはメグと呼んでください。,啊，不客气……<br>今天开始请多指教。<br>请请叫我梅格就好。
+57,ホテル支配人,長旅でお疲れのところ大変恐縮ですが、<br>メグ様にお伝えしなければ<br>ならないことがございます……,您长时间旅程现在肯定甚是疲惫，<br>但是我有事情必须要向梅格大人传达……
+58,メグ/梅格,え？,诶？
+59,,<span class='scene-font-katari'>するとメグを取り囲むように</span><br><span class='scene-font-katari'>多数の従業員が奥から現れた。</span>,<span class='scene-font-katari'>然后像是要把梅格围住一样，</span><br><span class='scene-font-katari'>数名职员从后方出现了。</span>
+60,メグ/梅格,<span class='scene-font-4'>んえっ！？</span><br>な、なになに……？,<span class='scene-font-4'>诶！？</span><br>什，什么什么……？
+61,ホテル支配人,メグ様は当ホテル創業<br>100万人目のお客様となります！<br><span class='scene-font-4'>おめでとうございまーす！</span>,梅格大人是本酒店开店以来的<br>第100万个客人！<br><span class='scene-font-4'>恭喜ー！</span>
+64,メグ/梅格,<span class='scene-font-4'>え、えええぇぇぇぇぇっ！？</span><br>わ、わたしが……？,<span class='scene-font-4'>诶，诶诶诶诶诶！？</span><br>我，我是……？
+65,,<span class='scene-font-katari'>従業員や他の客から拍手を送られ、</span><br><span class='scene-font-katari'>メグが目をパチクリさせていると、
+</span><br><span class='scene-font-katari'>支配人は巨大なチケットを差し出した。</span>,<span class='scene-font-katari'>职员和别的旅客都为梅格送上了掌声，</span><br><span class='scene-font-katari'>就在梅格惊讶不已的时候，</span><br><span class='scene-font-katari'>管理人拿出了巨大的票券。</span>
+66,ホテル支配人,記念すべき100万人目の<br>ご宿泊者であるメグ様には<br>特典としまして……,为了纪念梅格大人成为了第100万名客人，<br>我们为您准备了这份礼物……
+67,ホテル支配人,おいしい海鮮料理で有名な<br>ユディスティラ島への特別ツアーを<br>プレゼントさせていただきま～す！,奖品就是～以美味海鲜而闻名的<br>由迪斯提拉岛的旅游套票～！
+68,メグ/梅格,<span class='scene-font-4'>えええぇぇぇぇっ！？</span>,<span class='scene-font-4'>诶诶诶诶诶诶！？</span>
+69,ホテル支配人,こちらのツアーは渡航・宿泊が<br>セットになっております。<br>いつでも無料でお使いいただけますよ！,这个是渡航与住宿的套票。<br>一直都可以免费使用！
+70,メグ/梅格,<span class='scene-font-kokoro'>（うっそ～！？</span><br><span class='scene-font-kokoro'>ラッキーすぎるにもほどがあること</span><br><span class='scene-font-kokoro'>この上ないったらありゃしないよ！）</span>,,<span class='scene-font-kokoro'>（不会吧～！？</span><br><span class='scene-font-kokoro'>真的没有这个更幸运的事了！）</span>
+71,メグ/梅格,<span class='scene-font-kokoro'>（ユディスティラ島って</span><br><span class='scene-font-kokoro'>旅行ガイドブックにも</span><br><span class='scene-font-kokoro'>載ってた有名な島なんだけど！）</span>,<span class='scene-font-kokoro'>（由迪斯提拉岛是旅游攻略书里也有提到的非常有名的岛屿啊！）</span>
+72,,<span class='scene-font-katari'>メグはしばし考え、</span><br><span class='scene-font-katari'>意を決して口を開いた。</span>,<span class='scene-font-katari'>梅格思考了一下，</span><br><span class='scene-font-katari'>打定了主意后，开了口。</span>
+73,メグ/梅格,あ、あの……これって……<br>いますぐに使えたりしますか！？,那、那个……这个……<br>现在马上可以用吗！？
+74,,<span class='scene-font-katari'>メグは身の丈ほどもある</span><br><span class='scene-font-katari'>巨大なチケットを抱えながら</span><br><span class='scene-font-katari'>支配人に詰め寄った。</span>,<span class='scene-font-katari'>梅格一边抱着和自己差不多大的票券，</span><br><span class='scene-font-katari'>一边凑向了管理人。</span>
+info,,,scene_evt200729_cp1_q2_s10
+译者,,,卜葛
