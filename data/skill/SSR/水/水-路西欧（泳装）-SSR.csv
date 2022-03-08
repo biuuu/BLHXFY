@@ -1,7 +1,8 @@
 id,name,detail
 npc,路西欧,3040286000
-special,失乐园,<div class=prt-text-small>水属性伤害(特大)/我方全体获得再生/高扬</div>
-skill-1,启示录,<div class=prt-text-small>我方全体水属性追击效果/奥义值UP(20%)</div>
+special,失乐园,水属性伤害(特大)/我方全体获得再生/高扬
+special-ブレス・オブ・エラ,纪元吐息,水属性伤害(特大)/我方全体获得再生/高扬
+skill-1,启示录,我方全体水属性追击效果/奥义值UP(20%)
 skill-2,地狱之眼,<div class=prt-text-small>我方全体获得无敌(1次)/对敌方全体施加连续攻击DOWN/命中率DOWN</div>
 skill-3,没有你,<div class=prt-text-small>我方水属性单体获得水属性追击/必TA/火属性伤害减轻(70%)/弱体耐性UP</div>
 support-1,给我也来一杯咖啡,免疫睡眠/每3t自身获得HP回复/1层咖啡时光
