@@ -1,10 +1,10 @@
 ﻿id,name,detail
 npc,朱丽叶,3040096000
-special,救赎之光,光属性伤害(特大)/英灵存在时，消耗1英灵额外造成3倍光属性伤害
-skill-1,白闪落雷,我方全体光属性攻击20%UP/减免20%暗属性伤害/消耗1英灵，敌方单体光属性防御20%DOWN
-skill-2,福音,我方单体获得活性效果/防御50%UP/消耗1英灵，获得屏障(2500)
-skill-3,上天的恩典,回复5英灵 <span class=text-blue>◆消耗20%奥义值</span>
-support-1,维罗纳的守护精灵,每过5回合，回复5英灵/无英灵时，攻击50%DOWN/普攻及技能消耗1英灵
-support-2,英灵的加护,英灵存在时，攻防30%UP
+special,救赎之光,光属性伤害(特大)/赋予自己极光刻印 <span class=text-blue>◆消耗1英灵额外造成伤害</span>
+skill-1,白闪落雷,<div class=prt-text-small>赋予我方全体光属性攻击UP/暗属性伤害减免/极光刻印 <span class=text-blue>◆英灵效果中，消费1英灵追加赋予敌方全体光属性防御DOWN效果</span></div>
+skill-2,福音,<div class=prt-text-small>赋予我方单体防御UP/活性效果/2层极光刻印 <span class=text-blue>◆英灵效果中，消费1英灵追加赋予屏障效果</span></div>
+skill-3,天赐恩典,<div class=prt-text-small>赋予我方全体奥义性能UP（1次）/奥义槽30%UP <span class=text-blue>◆英灵效果中，消费1英灵追加赋予光属性追击（1次）</span></div>
+support-1,维罗纳的守护精灵,<div class=prt-text-small>英灵效果存在时，攻防UP/每过5回合，回复5英灵<span class=text-blue>◆普攻消耗1英灵</span></div>
+support-2,英灵的加护,回合结束时若极光刻印在3层以上，消费2层回复我方全体HP/奥义槽20%UP
 skill-lb,LB技能,使用技能有概率不消耗英灵
 intro,圣王女,圣王凯普莱特的独生女，下任王位继承人。因为幼时起就一直意识到自己背负着凯普莱特一族，所以比实际年龄更加可靠。至今为止没有恋爱经验，但某日突然与蒙泰古的罗密欧坠入爱河。但是因为她强烈的责任感，让她没有办法逃避到两人的恋爱世界，最终把周围的人都卷入事件并不断痛苦。

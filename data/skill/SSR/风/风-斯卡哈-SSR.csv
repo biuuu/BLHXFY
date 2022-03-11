@@ -6,10 +6,10 @@ special-Lia Talma,天纹灭尽,风属性伤害(特大)/下一次发动的「力�
 skill-1,迪尔德丽的加护,我方全体风属性攻击力UP
 skill-1++,迪尔德丽的加护,我方全体风属性攻击力UP/净化一个弱化效果
 skill-2,力量追求,对敌方单体造成风属性伤害 <span class=text-blue>◆自身HP越少「力量追求」的伤害越高</span>
-skill-2++,力量追求,<div class=prt-text-small>对敌方单体造成风属性伤害/自身获得逆境效果(HP越少攻击力越高)<br><span class=text-blue>◆自身HP越少「力量追求」的伤害越高</span></div>
-skill-3,巨龙之心,<div class=prt-text-small>我方指定角色获得屏障效果(效果量为自身最大HP的25%，上限5000)<br><span class=text-blue>◆消耗自身最大HP的25%</span></div>
-support-1,真龙的钩爪,自身对土属性目标伤害UP
-support-2,久远的睿智,自身处于风属性攻击力UP时，攻击力UP/连续攻击率UP
-support-2+,久远的睿智,<div class=prt-text-small>自身处于风属性攻击力UP时，攻击力UP/连续攻击率UP/我方带有屏障效果的角色普通攻击时附加风属性追击效果</div>
-skill-lb,LB技能,回合开始时，若自身处于风属性攻击力UP，则在本回合概率获得全回避效果
+skill-2++,力量追求,<div class=prt-text-small>对敌方单体造成风属性伤害/自身获得逆境效果/必定三连击<br><span class=text-blue>◆自身HP越少伤害越高</span></div>
+skill-3,巨龙之心,<div class=prt-text-small>我方全体获得最大HP25%的屏障效果(最大5000)<br><span class=text-blue>◆消耗我方全体最大HP的25%</span></div>
+support-1,真龙的钩爪,自身剩余HP越少，我方全体攻击提升越大
+support-2,久远的睿智,身上有风属性攻击力UP的队友攻击力UP/连续攻击率UP
+support-2+,久远的睿智,<div class=prt-text-small>身上有风属性攻击力UP的队友，攻击力UP/连续攻击率UP/我方带有屏障效果的角色普通攻击时附加风属性追击效果</div>
+skill-lb,LB技能,身上有风属性攻击力UP的队友，回避率UP
 intro,护国真龙,真龙与人类签订契约，自与星之民争斗的时代起就在阿尔斯塔岛上闭门不出。在经历了可以认为是永远的孤独后，她开始于人类交流，并且被激起了好奇心。解放那如风一般自由的内心的时刻到了。

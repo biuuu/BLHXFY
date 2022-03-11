@@ -1,10 +1,10 @@
 ﻿id,name,detail
 npc,鲍特欧达,3040124000
-special,神圣天罚,光属性伤害(特大)/追加伤害
-skill-1,英勇之盾,<div class=prt-text-small>自身获得圣盾效果 <span class=text-blue> ◆再使用技能时解除/效果中对敌伤害减少，无连击</span></div>
-skill-2,神圣狂澜,对敌方全体造成4～5倍光属性伤害/自身免疫伤害(1次)
-skill-3,高贵的牺牲,我方全体伤害减免(60%)
-support-1,圣盾,<div class=prt-text-small>自身防御性能UP/敌对心UP/受伤时奥义伤害UP/奥义伤害上限UP(最大Lv5)</div>
-support-2,卫兵,有概率减轻伤害
+special,天堂之罚,光属性伤害(特大)/圣盾效果中对敌人造成4次光属性追加伤害
+skill-1,英勇护盾,自身获得圣盾效果 <span class=text-blue> ◆圣盾效果中防御大幅UP/获得援护效果</span>
+skill-2,神圣波动,对敌方全体造成4～5倍光属性伤害/自身免疫伤害(1次)
+skill-3,崇高牺牲,我方全体伤害减免(60%)
+support-1,圣盾,<div class=prt-text-small>圣盾效果中成为敌人目标时神圣LV上升1（最大5）<span class=text-blue> ◆根据LV依次获得效果（奥义性能UP/受到伤害减少/弱体无效/通常攻击造成的伤害上升/反击（受伤/3次））</span></div>
+support-2,近卫骑兵,敌人使用特殊技时发动“神圣波动”/缩短自己的强化技能再使用间隔1回合
 skill-lb,LB技能,圣盾效果中，回合结束时奥义值上升
 intro,正义的圣骑士,清正廉洁誉满天下的圣骑士穿上了新的装备。无论拥有多么大的荣光，他清正的心也绝不会浑浊，如他所揭示的剑一样清亮。
