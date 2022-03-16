@@ -1,0 +1,9 @@
+﻿id,name,detail
+npc,佐伊,3040092000
+special,伽马射线,暗属性伤害(特大)
+skill-1,决心,<div class=prt-text-small>对敌方单体造成克制属性伤害/自身获得逆境效果(HP越少攻击力越高)<span class=text-blue>◆自身HP越少「决心」的伤害越高</span></div>
+skill-2,连结,<div class=prt-text-small>我方全体角色HP变为1/无敌效果/吸收效果</div>
+skill-3,雷电,<div class=prt-text-small>对敌方全体造成暗属性伤害/随机弱化效果<span class=text-blue>◆攻防DOWN(累积)/弱化抗性DOWN(累积)</span></div>
+support-1,调停的使徒,我方前排角色属性越多，自身性能越强
+skill-lb,LB技能,单回合自身累积受到大量伤害时获得幻影效果(1次)
+intro,于夏天游乐的调停者,司掌调停的少女身穿可爱的泳装，降临到苍海。背负着世界的少女暂时忘记了自己的职责，与亲友一起度过盛夏。
