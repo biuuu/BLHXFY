@@ -11,5 +11,5 @@ skill-4,封魔之杖,<div class=prt-text-small>自身消耗3层「魔力漩涡�
 support-1,水晶纱幕,我方全体获得暗属性伤害减轻<span class=text-blue>◆仅前排有效</span>
 support-2,幻魔之光,我方全体根据「魔力漩涡」层数获得光属性攻击力UP<span class=text-blue>◆仅前排有效</span>
 support-2+,幻魔之光,我方全体根据「魔力漩涡」层数获得光属性攻击力UP/弱化耐性UP<span class=text-blue>◆仅前排有效</span>
-skill-lb,LB技能,使用技能时自身奥义值UP
+skill-lb,LB技能,自身使用技能时奥义值UP
 intro,苍翠的魔法少女,在天空的旅途中，魔导师少女将师父的言语铭记心中，完成了华丽的变身。就像是让小小的花蕾开放出鲜花一般，象征着她自身内心的成长。
