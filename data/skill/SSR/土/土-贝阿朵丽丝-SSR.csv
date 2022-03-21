@@ -1,0 +1,9 @@
+id,name,detail
+npc,贝阿朵丽丝,3040328000
+special,不朽突袭,<div class=prt-text-small>土属性伤害(极大)/追加发动1次「因果破溅」/自身获得必定三连击<span class=text-blue>◆消耗「不朽群青」才可发动</span></div>
+skill-1,因果破溅,<div class=prt-text-small>对敌方随机造成3次土属性伤害/自身获得攻防UP(累积)<span class=text-blue>◆每层「时钟指针」使技能发动次数增加1次(最大4次)</span></div>
+skill-2,绝对生存,<div class=prt-text-small>自身获得反击效果(回避·受伤/2次)/不死身效果(1次)<span class=text-blue>◆每层「时钟指针」使反击效果次数增加2次(最大8次)</span></div>
+skill-3,兴跃新星,<div class=prt-text-small>自身获得逆境效果(HP越少攻击力越高)/土属性追击效果/再攻击效果<span class=text-blue>◆消耗最大HP的40%</span></div>
+support-1,艾伯拉斯克的共鸣,<div class=prt-text-small>自身必定连击/三连击率UP/奥义值上升量DOWN/自身HP越少我方土属性角色攻击力越高<span class=text-blue>◆仅前排有效</span></div>
+support-2,德尔塔时针,<div class=prt-text-small>自身三连击时获得1层「时钟指针」(最大3层)/回合结束时自身HP低于50%获得「不朽群青」<span class=text-blue>◆自身处于「不朽群青」时获得土属性追击效果</span></div>
+intro,无穷的群青,不灭的群青以命相托，终于夺回自己的可靠搭档。与心意相通的搭档一同，她定能将这蔓延全空的蛮横因果吞食殆尽吧。
