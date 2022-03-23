@@ -3,7 +3,7 @@ npc,湿婆,3040352000
 special,恒河化身,光属性伤害(极大)/自身获得攻击大幅UP
 skill-1,赞神诗,<div class=prt-text-small>对敌方随机造成20次光属性伤害/驱散敌方全体1个强化效果/自身获得「赞神诗」<br><span class=text-blue>◆「赞神诗」:「天照的旭光」效果UP</span></div>
 skill-2,吉祥天尊,<div class=prt-text-small>我方全体获得弱化无效(1次)/自身获得「吉祥天尊」<span class=text-blue>◆「吉祥天尊」:「再生之净火」效果UP(上限1000)</span></div>
-skill-3,至高天,自身可以立即发动奥义<span class=text-blue>◆10回合后自身追加获得奥义再发动效果</span>
+skill-3,至高天,自身可以立即发动奥义<span class=text-blue>◆10回合后追加奥义再发动效果</span>
 support-1,天照的旭光,我方光属性角色对暗属性伤害UP<br><span class=text-blue>◆仅前排有效</span>
 support-2,再生之净火,回合结束时我方全体UP回复(上限500)<br><span class=text-blue>◆仅前排有效</span>
 support-3,净灭之光,自身获得普通攻击伤害UP/必定三连击/驱散免疫/普通攻击无法获得奥义值
