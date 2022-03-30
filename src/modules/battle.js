@@ -8,6 +8,7 @@ import { getPlusStr, removeHtmlTag, race } from '../utils/'
 import CONFIG from '../config'
 import { transSkill } from './skill-npc'
 import getBossName from '../store/name-boss'
+import transBuff from './buff'
 
 const skillTemp = new Map()
 const posMap = new Map()
@@ -92,6 +93,9 @@ const battle = async function battle(data, mode) {
                 if (!skillTemp.has(name)) skillTemp.set(name, { name, detail: tsDetail })
               }
               skill['duration-type'] = replaceTurn(skill['duration-type'])
+              if (skill['ability_detail']) {
+                await transBuff(skill['ability_detail'])
+              }
             }
           }
         } else if (item.mode === 'npc') {
