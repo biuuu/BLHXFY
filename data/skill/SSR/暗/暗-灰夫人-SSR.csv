@@ -1,14 +1,14 @@
 ﻿id,name,detail
 npc,灰夫人,3040005000
 special,禁忌之爱,暗属性伤害(特大)
-special-ボーン・デスワルツ,死亡华尔兹,暗属性伤害(特大)<span class=text-blue>◆对处于中毒效果的目标发动技能追击，造成暗属性伤害</span>
-special-Death March,死亡华尔兹,暗属性伤害(特大)<span class=text-blue>◆若目标处于中毒效果则发动技能追击，造成暗属性伤害</span>
+special-ボーン・デスワルツ,死亡华尔兹,暗属性伤害(特大)<span class=text-blue>◆对处于中毒效果的目标进行技能追击造成暗属性伤害</span>
+special-Death March,死亡华尔兹,暗属性伤害(特大)<span class=text-blue>◆对处于中毒效果的目标进行技能追击造成暗属性伤害</span>
 skill-1,黑暗,<div class=prt-text-small>对敌方单体造成暗属性伤害/减速效果<span class=text-blue>◆对处于10个以上弱化效果的目标该技能发动两次</span></div>
-skill-2,深入,敌方单体防御力DOWN(25%)/暗属性防御力DOWN(15%)
-skill-2++,深入,<div class=prt-text-small>驱散敌方单体一个强化效果/防御力DOWN(25%)/暗属性防御力DOWN(15%)</div>
+skill-2,深入,敌方单体防御力DOWN/暗属性防御力DOWN
+skill-2++,深入,<div class=prt-text-small>驱散敌方单体1个强化效果/防御力DOWN/暗属性防御力DOWN</div>
 skill-3,祸源,对敌方单体造成暗属性伤害/中毒效果
 skill-カラミティベイン,灾厄祸源,<div class=prt-text-small>对敌方全体造成暗属性伤害/中毒效果/麻痹效果/「致命绿雾」</div>
-support-1,爱憎的冲动,根据敌人的弱化效果数量，自身获得奥义性能UP
-support-2,黑结界,我方全体弱化抗性UP，战斗开始时，我方暗属性角色获得弱化无效(1次)
-skill-lb,LB技能,弱化效果造成的伤害概率转换为恢复效果
+support-1,爱憎的冲动,根据敌方弱化效果数量自身获得奥义性能UP
+support-2,黑结界,我方全体弱化抗性UP/战斗开始时我方暗属性角色获得弱化无效(1次)<br><span class=text-blue>◆仅前排有效</span>
+skill-lb,LB技能,自身概率将回合类伤害转化为HP回复
 intro,心眼的双葬女,真爱在黄泉的彼岸。由于死而复生的爱情，她学会了操纵死灵的方法。然而，其背后却没有悲壮感，作为淑女经常浮现出爽朗的笑容。

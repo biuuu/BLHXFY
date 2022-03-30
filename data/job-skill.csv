@@ -204,11 +204,13 @@ id,ja,en,name,detail
 30052,隠密,Spy,隐秘,低概率回避所有攻击
 30053,打剣,Striking Sword,打剑,风魔手里剑的效果UP
 200231,エレメンタルキャスト,Runeweaving,元素祈咒,使用四大元素发动魔法，并根据顺序获得不同效果
+201531,エレメンタルキャスト,Runeweaving,元素祈咒,使用四大元素发动魔法，并根据顺序获得不同效果/自身奥义值UP(30%)
 200401,マナバースト,Mana Burst,法力爆发,根据自身获得的「魔法阵」数量，对敌方全体造成自属性伤害
 200411,ドラゴンブレイク,Dragon Break,龙力破击,<div class=prt-text-small>我方全体根据自身「魔法阵」数量获得自属性追击效果<br><span class=text-blue>◆消耗所有「魔法阵」</span></div>
 200431,スペルブースト,Spell Boost,强化施法,<div class=prt-text-small>自身所有「魔法阵」层数增加1层/缩短2回合「元素祈咒」技能使用间隔<span class=text-blue>◆消耗30%奥义值</span></div>
-30198,エンチャントスペル,Enhanced Spellweaving,施法增幅,自身获得属性攻击力UP时效果UP
+30198,エンチャントスペル,Enhanced Spellweaving,咒文增幅,自身获得属性攻击力UP时效果UP
 30199,エレメンタルチャージ,Elemental Charge,元素充能,自身发动奥义后获得1层自属性「魔法阵」<span class=text-blue>◆同元素「魔法阵」上限2层</span>
+30408,スペルガイザー,Spell Geyser,魔法喷涌,战斗开始时自身随机获得2种「魔法阵」1层
 7000,画竜点睛,Finishing Touch,画龙点睛,连续攻击几率UP<br><span class=text-blue>◆在受到伤害前维持效果</span>
 7010,瞑想,Self Reflection,冥想,<div class=prt-text-small>自己的攻击力UP/暴击率UP/恢复全部弱体效果<span class=text-blue>◆消费30%奥义槽</span></div>
 7020,鴉雀無声,Quiet Strategy,鸦雀无声,<div class=prt-text-small>自己的防御力UP<span class=text-blue> 刀：赋予自己幻影效果（1次）/自己的攻击力DOWN 弓：自己的攻击力UP/连续攻击几率DOWN/奥义槽DOWN</span></div>
@@ -323,4 +325,4 @@ id,ja,en,name,detail
 201501,オーグメント・マギア,,魔能增幅,<div class=prt-text-small>自身获得5层机械元胞(最大5层)/HP回复<br><span class=text-blue>◆HP50%以上时获得强壮效果/HP50%以下时获得逆境效果<span></div>
 30291,レリック・キラー,,星遗杀手,<div class=prt-text-small>自身敌对心UP/防御力DOWN/普通攻击伤害UP<span class=text-blue>◆机械元胞2层及以上时获得无敌效果(1次)触发后消耗1层机械元胞<span></div>
 30292,パーパチュアル・モーション,,永续动力源,<div class=prt-text-small>拥有机械元胞时根据主手武器获得以下效果并在普通攻击后消耗1层机械元胞<br><span class=text-blue>◆剑：攻击力UP/普通攻击伤害UP/必定三连击<br>◆铳：普通攻击后对敌方全体进行自属性技能追击<span></div>
-30318,アージェント・アクティベーション,,,受到大伤害时，自动发动魔能增幅
+30318,アージェント・アクティベーション,,代理激活,自身1回合内受到大量伤害时自动发动1次「魔能增幅」
