@@ -1,10 +1,10 @@
 id,name,detail
 npc,玛裘拉·玛利乌斯,3040213000
 special,巨人之地,水属性伤害(特大)/「银华」/我方全体HP回复(上限1200)
-skill-1,冰煌一挥,<div class=prt-text-small>对敌方全体造成水属性伤害/自身获得1层玉水的刻印/奥义值UP(20%)<br><span class=text-blue>◆根据玉水的刻印层数强化性能</span></div>
-skill-2,冰雹风暴,<div class=prt-text-small>对敌方单体造成水属性伤害/减速效果<br><span class=text-blue>◆玉水的刻印5层时发动2次</span></div>
-skill-3,冻封大地,<div class=prt-text-small>敌方全体攻击力DOWN/重力效果/冰结效果</div>
-support-1,白银的冰华,回合结束时若有敌方处于「银华」，则追加发动1次「冰煌一挥」
-support-2,美丽的冷公主,水属性角色根据玉水的刻印的层数获得技能性能UP
-skill-lb,LB技能,我方全体获得火属性伤害减轻<span class=text-blue>◆仅前排有效</span>
-intro,玉尘的裁姬,保护自然，给予自然仇人审判的少女，散落六花，在苍蓝的天空中显现。但是，污染自然的愚蠢之人，对于少女来说也是应该保护的、值得爱的自然的一部分。每当冻碎心爱的邻居时，她那比冰还脆弱、温暖的心就会出现裂缝。
+skill-1,冰煌一挥,<div class=prt-text-small>对敌方全体造成水属性伤害/自身获得1层玉水的刻印/奥义值UP(10%)<br><span class=text-blue>◆根据自身玉水的刻印层数强化伤害性能</span></div>
+skill-2,冰雹风暴,<div class=prt-text-small>对敌方单体造成水属性伤害/减速效果<br><span class=text-blue>◆自身处于5层玉水的刻印时该技能发动2次</span></div>
+skill-3,冻封大地,<div class=prt-text-small>敌方全体获得攻击力DOWN/重力效果/冰结效果</div>
+support-1,白银的冰华,回合结束时若有敌方处于「银华」则自动发动1次「冰煌一挥」<br><span class=text-blue>◆仅前排有效</span>
+support-2,华丽的冷姬,我方水属性角色根据各自玉水的刻印层数获得技能性能UP
+skill-lb,LB技能,我方全体获得火属性伤害减轻<br><span class=text-blue>◆仅前排有效</span>
+intro,玉尘的裁姬,保护自然，给予自然仇人审判的少女，散落雪花，在苍蓝的天空中显现。但是，污染自然的愚蠢之人，对于少女来说也是应该保护的、值得爱的自然的一部分。每当冻碎心爱的邻居时，她那比冰还脆弱、温暖的心就会出现裂缝。

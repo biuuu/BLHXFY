@@ -1,9 +1,9 @@
 id,name,detail
 npc,赫莱尔·本·夏蕾姆,3040351000
 special,混沌冲击,水属性伤害(特大)/驱散1个强化效果/减速效果
-skill-1,侵犯,<div class=prt-text-small>敌方全体攻击力DOWN(累积)/防御力DOWN(累积)/随机弱化效果<br><span class=text-blue>◆消耗10%奥义值</span></div>
+skill-1,侵犯,<div class=prt-text-small>敌方全体获得攻防DOWN(累积)/随机弱化效果<br><span class=text-blue>◆消耗自身奥义值(10%)</span></div>
 skill-2,业报,<div class=prt-text-small>对敌方全体造成水属性伤害/我方水属性角色技能使用间隔缩短3回合/我方所有角色获得「召唤封印」</div>
-skill-3,丑角,敌方全体无法行动/连续攻击率DOWN/命中率DOWN
-support-1,令我刮目相看的人类们,自身HPDOWN/攻击力UP/奥义值上升量UP/连续攻击率UP
-support-2,常夏的迷失之子,<div class=prt-text-small>根据敌方的弱化效果数量获得奥义性能UP<br><span class=text-blue>◆对处于10个弱化效果的目标，自身获得奥义再发动效果</span></div>
+skill-3,丑角,<div class=prt-text-small>敌方全体获得「掌握」/连续攻击率DOWN/命中率DOWN<br><span class=text-blue>◆若敌方处于「掌握」则无法行动</span></div>
+support-1,令我刮目相看的人类们,自身常驻最大HPDOWN/攻击力UP/奥义值上升量UP/连续攻击率UP
+support-2,常夏的迷失之子,<div class=prt-text-small>自身根据敌方的弱化效果数量获得奥义性能UP<br><span class=text-blue>◆自身对处于10个弱化效果的目标获得奥义再发动效果</span></div>
 intro,魅惑的审问者,神使了解了新的世界，学习了新的文化，迎来了新的夏天。在那里拾起失去的记忆，缅怀着古代的同伴。

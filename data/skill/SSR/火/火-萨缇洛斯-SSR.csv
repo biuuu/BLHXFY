@@ -1,10 +1,10 @@
 id,name,detail
 npc,萨缇洛斯,3040280000
 special,魅爱之咒,火属性伤害(特大)/自身获得2层「闪耀」
-skill-1,转身跳,<div class=prt-text-small>对敌方全体造成火属性伤害/攻防DOWN(累积)<br><span class=text-blue>◆消耗1层「闪耀」发动2次</span></div>
+skill-1,转身跳,<div class=prt-text-small>对敌方全体造成火属性伤害/攻防DOWN(累积)<br><span class=text-blue>◆消耗1层「闪耀」该技能发动2次</span></div>
 skill-2,无邪之心,<div class=prt-text-small>自身HP回复(上限2000)/弱化效果缩短2回合<br><span class=text-blue>◆消耗1层「闪耀」效果全体化</span></div>
 skill-3,向前步,<div class=prt-text-small>自身获得援护效果<br><span class=text-blue>◆消耗1层「闪耀」追加获得风属性伤害减轻</span></div>
 support-1,星之舞女,<div class=prt-text-small>战斗开始时自身获得2层「闪耀」(最大3层)<br><span class=text-blue>◆敌方使用特殊技的回合自动发动1次「无邪之心」/「向前步」立即可用</span></div>
 support-2,星友的牵绊,<div class=prt-text-small>回合开始时自身根据队伍前排中「星晶兽」的数量依次获得风属性伤害减轻/受到伤害时的奥义值上升量UP/活性效果</div>
 skill-lb,LB技能,自身发动技能时概率不消耗「闪耀」<br><span class=text-blue>◆包括自动发动的「无邪之心」</span>
-intro,羁绊的琥珀,知晓与他人的联系之温暖的星晶兽，以真心待真心。羁绊的温暖是无限大的力量。在空之世界轻松来去的爱之旅者，今天也露出甜美的笑容。
+intro,系绊的琥珀,知晓与他人的联系之温暖的星晶兽，以真心待真心。羁绊的温暖是无限大的力量。在空之世界轻松来去的爱之旅者，今天也露出甜美的笑容。

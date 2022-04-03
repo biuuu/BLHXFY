@@ -1,9 +1,9 @@
 id,name,detail
 npc,泽塔,3040323000
-special,天狼新星·最终俯冲,水属性伤害(极大)/追加发动一次「阿尔贝斯之枪」/自身奥义值UP(30%)<br><span class=text-blue>◆消耗最大HP的15%</span>
-skill-1,阿尔贝斯之枪,<div class=prt-text-small>对敌方单体造成水属性伤害/防御力DOWN/「阿尔贝斯印记」<span class=text-blue>◆敌方处于「阿尔贝斯印记」时自身获得水属性追击效果</span></div>
-skill-2,狂想曲,自身获得追讨效果/攻击力UP/标记追讨效果「阿尔贝斯印记」
-skill-3,血红宣泄,<div class=prt-text-small>自身获得再攻击效果/奥义值DOWN(100%)<span class=text-blue>◆濒死时根据消耗的奥义值自身UP回复(无上限)</span></div>
-support-1,阿尔贝斯的共鸣,<div class=prt-text-small>自身必定三连击/奥义值上升量DOWN/我方水属性角色三连击时攻击附加水属性追击效果<br><span class=text-blue>◆仅前排有效</span></div>
-support-2,贯穿信条之牙,自身防御力DOWN/暴击时伤害上限UP
+special,天狼新星·最终俯冲,水属性伤害(极大)/追加发动一次「阿尔贝斯之枪」/自身奥义值UP(30%)<br><span class=text-blue>◆消耗自身最大HP的15%</span>
+skill-1,阿尔贝斯之枪,<div class=prt-text-small>对敌方单体造成水属性伤害/防御力DOWN/「阿尔贝斯之缚」<span class=text-blue>◆敌方处于「阿尔贝斯之缚」时自身获得水属性追击效果</span></div>
+skill-2,狂想曲,自身获得追讨效果/攻击力UP/标记追讨「阿尔贝斯之缚」
+skill-3,血红宣泄,<div class=prt-text-small>自身获得再攻击效果<span class=text-blue>◆消耗自身所有奥义值/濒死时根据消耗奥义值自身HP回复(无上限)</span></div>
+support-1,阿尔贝斯的共鸣,<div class=prt-text-small>自身获得必定三连击/奥义值上升量DOWN/我方水属性角色三连击时附加水属性追击效果<br><span class=text-blue>◆仅前排有效</span></div>
+support-2,贯穿信条之牙,自身获得防御力DOWN/暴击时伤害上限UP
 intro,真红觉醒,长枪作为骑士之牙，曾帮助她克服千难万险。为了激发出枪中蕴含的真正力量，她陷入了沉思。骑士追溯遗迹，察看镜中自我的造型。她的斗志正熊熊燃烧，正如镜中升腾的苍白火焰。

@@ -1,9 +1,9 @@
 id,name,detail
 npc,涅莫涅,3040306000
 special,盖亚的礼物,火属性伤害(特大)/根据「涅莫」层数我方全体获得攻防UP/连续攻击率UP
-skill-1,圣诞·快乐,主角获得援护效果/风属性伤害减轻/受到的伤害转为风属性<br><span class=text-blue>◆再使用不可</span>
+skill-1,圣诞快乐,主角获得援护效果/风属性伤害减轻/受到的伤害转为风属性<br><span class=text-blue>◆再使用不可</span>
 skill-2,洛神花环,<div class=prt-text-small>对敌方随机造成3次火属性伤害/我方全体随机获得HP回复/幻影效果(1次)/屏障效果/奥义值UP(15%)<span class=text-blue>◆自身拥有5层「涅莫」时攻击次数翻倍</span></div>
 skill-3,洁白完美,自身获得完全回避效果(2次)
-support-1,交给圣涅老莫吧！,<div class=prt-text-small>自身没有受到伤害的回合获得1层「涅莫」(最大5层)<span class=text-blue>◆自身拥有5层「涅莫」没有受到伤害的回合自动发动1次「洛神花环」</span></div>
+support-1,交给圣涅老莫吧！,<div class=prt-text-small>自身没有受到伤害的回合获得1层「涅莫」(最大5层)<span class=text-blue>◆自身处于5层「涅莫」没有受到伤害的回合自动发动1次「洛神花环」</span></div>
 support-2,礼物就是我啦,我方全体被回复上限UP<br><span class=text-blue>◆仅前排有效</span>
 intro,驰骋于圣夜的摇云,为了给姐姐和妹妹还有骑空团的同伴们以及全空的人们送去礼物，凡事总露出一副随随便便态度的少女迈着轻快的步伐在圣夜中奔走。隐藏在内心的温暖思念若是被他人知晓，少女的脸颊一定会染上与她的衣装相同的红色吧。
