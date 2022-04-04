@@ -1,9 +1,9 @@
 id,name,detail
 npc,库皮坦,3040379000
 special,虹之弓,水属性伤害(特大)/「星相轨迹」立即可用
-skill-1,星相轨迹,<div class=prt-text-small>对敌方单体造成7次水属性伤害/根据自身「虹之矢」层数追加额外效果</div>
+skill-1,星相轨迹,<div class=prt-text-small>对敌方单体造成7次水属性伤害/根据自身「虹之矢」种类追加额外效果</div>
 skill-2,雨霁辉光,<div class=prt-text-small>对敌方单体造成7次水属性伤害/吸收1点CT<br><span class=text-blue>◆吸收CT成功时自身获得奥义值UP(30%)</span></div>
 skill-3,虹霓绚绘,自身其他技能立即可用/攻击技能均可以使用2次
-support-1,七彩万花筒,<div class=prt-text-small>自身使用强化技能或发动奥义时随机获得2种「虹之矢」(最多7种)<span class=text-blue>◆自身根据「虹之矢」种类获得技能伤害上限UP</span></div>
+support-1,七彩万花筒,<div class=prt-text-small>自身使用强化技能或发动奥义时随机获得2种「虹之矢」(最多7种)<br><span class=text-blue>◆自身根据「虹之矢」种类获得技能伤害上限UP</span></div>
 support-2,双鱼宫的彩光,我方水属性角色获得技能伤害UP<br><span class=text-blue>◆仅前排有效</span>
 intro,虹色纯情,身披虹彩的少女与新朋友一起踏上旅程。但她对挚友的眷恋非但没有褪色，反而散发出灿烂的七彩光辉。少女近乎愚顽地坚信着，在那彩虹的尽头，定会迎来一个童话般幸福的结局——

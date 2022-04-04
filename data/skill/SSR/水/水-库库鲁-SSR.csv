@@ -5,6 +5,6 @@ skill-1,大桶爆弹,<div class=prt-text-small>消耗所有「火药桶」对敌
 skill-2,赶尽杀绝,<div class=prt-text-small>对敌方全体造成4倍水属性伤害/攻防DOWN(累积)/「压制射击」<br><span class=text-blue>◆回合结束时自动发动1次「赶尽杀绝」</span></div>
 skill-3,武器学,我方指定角色获得攻击性能UP/回避率UP
 support-1,膛线,<div class=prt-text-small>自身发动奥义时获得1层「膛线」(最大2层)<br><span class=text-blue>◆根据「膛线」层数「赶尽杀绝」技能性能UP</span></div>
-support-2,火药桶,<div class=prt-text-small>战斗开始时自身获得3层「火药桶」(最大5层)/回合结束时获得1层/受伤减少1层/自身根据「火药桶」层数获得连续攻击率UP</div>
+support-2,火药桶,<div class=prt-text-small>战斗开始时自身获得3层「火药桶」(最大5层)/回合结束时获得1层/受到伤害的回合减少1层/自身根据「火药桶」层数获得连续攻击率UP</div>
 skill-lb,LB技能,我方得意武器为「铳」的角色获得三连击率UP<br><span class=text-blue>◆仅前排有效</span>
 intro,创意的铳设计士,制作了自负为最好的铳以后，设计士的少女开始烦恼，接下来自己要做的铳究竟是什么样子的呢。作为设计士，作为骑空士，她正要突破一个独自的世界。
