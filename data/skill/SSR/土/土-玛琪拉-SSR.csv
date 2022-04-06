@@ -1,14 +1,14 @@
 id,name,detail
 npc,玛琪拉,3040107000
 special,金牙神然,土属性伤害(特大)/我方全体获得5层「鼓音」
-special-鳥明叡知,鸟明睿智,土属性伤害(特大)/我方全体获得5层「鼓音」/延长「鼓舞激励」的持续时间2回合
-skill-1,鼓舞激励,我方全体根据消耗「鼓音」的总层数获得攻防UP/连续攻击率UP/奥义伤害上限UP
+special-鳥明叡知,鸟明睿智,土属性伤害(特大)/我方全体获得5层「鼓音」/「鼓舞激励」持续时间延长2回合
+skill-1,鼓舞激励,<div class=prt-text-small>我方全体根据「鼓音」层数获得攻防UP/连续攻击率UP/奥义伤害上限UP<span class=text-blue>◆消耗全部「鼓音」</span></div>
 skill-1++,鼓舞激励,我方全体获得攻防UP/连续攻击率UP/奥义伤害上限UP
-skill-2,云散鸟没,对敌方单体造成土属性伤害/防御力DOWN(15%)/土属性防御力DOWN
-skill-2++,云散鸟没,<div class=prt-text-small>对敌方单体造成土属性伤害/防御力DOWN(15%)/土属性防御力DOWN/连续攻击率DOWN</div>
-skill-3,花鸟风月,我方全体获得攻击力UP/土属性追击効果
-skill-4,鸡往开来,<div class=prt-text-small>自身获得回避率UP/回合结束时对敌方全体造成土属性伤害<span class=text-blue>◆前排角色的「鼓音」层数均为最大时，消耗全部「鼓音」获得1个「全体治疗药水」</span></div>
+skill-2,云散鸟没,对敌方单体造成土属性伤害/防御力DOWN/土属性防御力DOWN
+skill-2++,云散鸟没,<div class=prt-text-small>对敌方单体造成土属性伤害/防御力DOWN/土属性防御力DOWN/连续攻击率DOWN</div>
+skill-3,花鸟风月,我方全体获得攻击力UP/土属性追击效果
+skill-4,鸡往开来,<div class=prt-text-small>自身获得回避率UP/回合结束时对敌方全体造成土属性伤害<span class=text-blue>◆我方全体「鼓音」层数均为最大时消耗所有「鼓音」获得1个「全体治疗药水」</span></div>
 support-1,鸟神宫之主,<div class=prt-text-small>我方全体根据攻击敌方的次数获得「鼓音」(最大10层)<br><span class=text-blue>◆仅前排有效</span></div>
-support-2,宛如飞翔,<div class=prt-text-small>我方全体根据各自的「鼓音」层数获得伤害UP，10层「鼓音」时获得弱化无效(1次)，触发后消耗所有「鼓音」<span class=text-blue>◆仅前排有效</span></div>
-skill-lb,LB技能,回合开始时我方全体概率在本回合获得全回避效果<span class=text-blue>◆仅前排有效</span>
-intro,西之守护神,守护西方，十二神将之一。没有翅膀的鸟神憧憬着天空踏上旅途。其小小的身体中秘藏着的知性和独创性将来会将空之世界的人们引向遥远的天空之上。
+support-2,宛如飞行,<div class=prt-text-small>我方全体根据各自「鼓音」层数获得伤害UP/10层「鼓音」时追加获得弱化无效(1次)触发后消耗所有「鼓音」<br><span class=text-blue>◆仅前排有效</span></div>
+skill-lb,LB技能,回合开始时我方全体概率在本回合获得全回避效果<br><span class=text-blue>◆仅前排有效</span>
+intro,正西的守护神,守护西方位，十二神将之一。没有翅膀的鸟神憧憬着天空踏上旅途。其小小的身体中秘藏着的知性和独创性将来会将空之世界的人们引向遥远的天空之上。
