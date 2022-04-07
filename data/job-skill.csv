@@ -81,7 +81,7 @@ id,ja,en,name,detail
 5452,ブレイクアサシンIII,Crack Shot III,要害痛击III,自身的攻击力大幅度UP（敌人Break状态时/1次）/暴击概率UP
 7500,ルピフリップ,Rupie Flip,乾坤一掷,对敌人造成无属性伤害  <span class=text-blue>◆消费卢比</span>
 5070,フォーススナッチ,Force Snatch,强夺,驱散敌人一个强化效果/效果中必定TA
-716,ホワイトスモーク,White Smoke,白色烟雾,我方全体弱体效果无效（1次）/赋予幻影効果(1回)
+716,ホワイトスモーク,White Smoke,白色烟雾,我方全体弱体效果无效（1次）/赋予幻影效果(1回)
 5020,ブレイクキープ,Extend Break,破坏维持,维持敌人BREAK状态  ★根据掉宝等级提高性能
 6009,トレジャーハントIV,Bounty Hunter IV,财宝猎手IV,<div class=prt-text-small>对敌人造成自属性伤害/敌人的物品掉落率UP(3回) <span class=text-blue>◆根据掉宝等级提高伤害性能</span></div>
 200741,楼門五三桐,,楼门五三桐,<div class=prt-text-small>赋予敌方全体强袭效果/根据掉宝等级赋予我方全体自属性追击效果（最大60%）</div>
@@ -166,7 +166,7 @@ id,ja,en,name,detail
 30049,クライシスブロウ,Crisis Blow,危险扳机,共鸣电流造成的伤害UP
 9537,雷光水明,Thunder on the Water,雷光水明,<div class=prt-text-small>对敌人造成自属性伤害<span class=text-blue>枪：维持Break状态/所有参战者的技能伤害UP 斧：减少OD条/我方全体的奥义槽UP</span></div>
 249,エインフェリアル,Einherjar,英灵化,每回合攻击力UP <span class=text-blue>◆受到伤害解除</span>
-608,湧水の羽衣,Springwater Robe,涌水的羽衣,赋予自己幻影效果(2回)/涌水的羽衣効果
+608,湧水の羽衣,Springwater Robe,涌水的羽衣,赋予自己幻影效果(2回)/涌水的羽衣效果
 9531,狂信演舞,Dance of Zeal,狂信演舞,除自己以外的己方队员攻击UP/防御DOWN/赋予自己献身效果
 9532,水鳥の歌詠,Swan Song,水鸟的歌咏,<div class=prt-text-small>所有参战者的奥义槽上升量UP<br><span class=text-blue>枪：所有参战者的暴击率UP<br>斧：赋予我方全体HP吸收效果/弱体成功率UP</span></div>
 200111,曼珠沙華,Crestfallen Flower,曼珠沙華,<div class=prt-text-small>自己的弱体耐性UP<br><span class=text-blue>枪：赋予我方全体浑身效果<br>斧：赋予我方全体逆境效果</span></div>
@@ -319,7 +319,7 @@ id,ja,en,name,detail
 30278,義勇のアウトロー,,义勇的法外狂徒,<div class=prt-text-small>根据敌人身上的弱体效果数量获得攻击性能UP/回避率UP/发动奥义时2个补充奔狐的嚆矢（最大3）<br><span class=text-blue>◆战斗开始时奔狐的嚆矢为3个<span></div>
 30281,フォックストロット,,狐舞步,<div class=prt-text-small>使用伤害技能时，对敌人造成2倍自属性伤害/赋予自身连续攻击率UP效果（累积）；使用弱体技能时，对敌人造成2倍自属性伤害/赋予敌人攻防DOWN效果（累积）<br><span class=text-blue>◆消费1个奔狐的嚆矢<span></div>
 201061,オーグメント・マギア,,魔能增幅,<div class=prt-text-small>自身获得5层机械元胞(最大5层)/HP回复(上限2000)<br><span class=text-blue>◆HP50%以上时获得强壮效果<span></div>
-201071,タクティカル・シールド,,战术护盾,<div class=prt-text-small>我方全体获得屏障效果(2000)/弱化无效(1次)/格挡效果<br><span class=text-blue>◆每层机械元胞增加500的屏障效果(最大4500)<span></div>
+201071,タクティカル・シールド,,战术护盾,<div class=prt-text-small>我方全体获得屏障效果/弱化无效(1次)/格挡效果<br><span class=text-blue>◆每层机械元胞增加500的屏障效果(最大4500)<span></div>
 201081,リミットバースト,,极限起爆,<div class=prt-text-small>我方全体获得奥义值UP(25%)/奥义性能UP(1次)<br><span class=text-blue>◆消耗所有机械元胞并提升强化效果<span></div>
 201101,ブリッツレイド,,闪击突袭,自身不经过回合发动一次普通攻击<br><span class=text-blue>◆消耗1层机械元胞<span>
 201501,オーグメント・マギア,,魔能增幅,<div class=prt-text-small>自身获得5层机械元胞(最大5层)/HP回复<br><span class=text-blue>◆HP50%以上时获得强壮效果/HP50%以下时获得逆境效果<span></div>

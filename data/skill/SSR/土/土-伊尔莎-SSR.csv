@@ -4,7 +4,7 @@ special,爆破抹杀,土属性伤害(特大)/敌方连击率DOWN/自身获得9�
 skill-1,神圣地狱,<div class=prt-text-small>对敌方单体造成基于当前HP的无属性伤害/恐怖效果/获得9层「子弹」<br><span class=text-blue>◆「子弹」层数为0时才能使用</span></div>
 skill-2,赞美诗,<div class=prt-text-small>对敌方单体造成土属性伤害/防御力DOWN<br><span class=text-blue>◆消耗1层「子弹」</span></div>
 skill-3,耳畔尖鸣,<div class=prt-text-small>对敌方单体造成土属性伤害<br><span class=text-blue>◆消耗所有「子弹」并根据层数获得伤害性能UP</span></div>
-support-1,第九颗子弹,<div class=prt-text-small>普通攻击时根据连击数消耗「子弹」<br><span class=text-blue>◆自身战斗开始时获得9层「子弹」(最大9层)</span></div>
+support-1,第九颗子弹,<div class=prt-text-small>普通攻击时根据连击数消耗「子弹」<br><span class=text-blue>◆战斗开始时自身获得9层「子弹」(最大9层)</span></div>
 support-2,调停之铳尼巴斯,<div class=prt-text-small>自身拥有「子弹」时伤害UP/「子弹」层数为0时无法普攻并获得9层「子弹」</div>
 skill-lb,LB技能,自身普通攻击时概率获得攻击全体化/暴击率UP
 intro,严格的鬼教官,为了传授在战场上生存的方法，她把心变成了鬼。辛辣的语言背后隐藏着战士的觉悟和教官的决心。为了完成被憎恨和恐惧的使命，她今天也发出了怒吼。

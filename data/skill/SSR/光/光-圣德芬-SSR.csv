@@ -3,8 +3,8 @@ npc,圣德芬,3040153000
 special,无限光,<div class=prt-text-small>光属性伤害(特大)/「审判之钟」</div>
 special++,无限光,<div class=prt-text-small>光属性伤害(特大)/「审判之钟」/自身获得「白羽」<span class=text-blue><br>◆处于「白羽」时下次奥义变为「失乐园」</span></div>
 special-パラダイス・ロスト,失乐园,<div class=prt-text-small>光属性伤害(特大)/「审判之钟」/自身光属性攻击力UP/光属性追击效果/下一次「黄道」发动2次</div>
-skill-1,独守天堂,自身连续攻击率UP/防御力UP/反击効果(回避/5次)
-skill-1++,独守天堂,自身连续攻击率UP/防御力UP/反击効果(回避/5次)/敌对心UP
+skill-1,独守天堂,自身连续攻击率UP/防御力UP/反击效果(回避/5次)
+skill-1++,独守天堂,自身连续攻击率UP/防御力UP/反击效果(回避/5次)/敌对心UP
 skill-2,黄道,对敌方单体造成光属性伤害/自身HP回复(上限900)
 skill-2++,黄道,对敌方单体造成光属性伤害/自身HP回复(上限1000)
 skill-3,一人之力,我方全体暴击率UP/伤害UP

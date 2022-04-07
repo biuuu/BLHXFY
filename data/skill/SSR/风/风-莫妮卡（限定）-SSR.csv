@@ -1,11 +1,11 @@
 id,name,detail
 npc,莫妮卡,3040238000
-special,旋风雷闪击锁斩,<div class=prt-text-small>风属性伤害(特大)/追加发动1次「紫电之闪」</div>
-skill-1,霸旋雷闪,<div class=prt-text-small>对敌方单体造成风属性伤害/自身获得弱点属性追击效果<br><span class=text-blue>◆根据使用次数增强追击效果性能(最大2次)</span></div>
-skill-2,紧急救援,<div class=prt-text-small>我方全体HP回复(上限2000)/净化1个弱化效果<br><span class=text-blue>◆根据使用次数增强回复性能(最大2次)</span></div>
+special,旋风雷闪击锁斩,风属性伤害(特大)/追加发动1次「紫电之闪」</div>
+skill-1,霸旋雷闪,<div class=prt-text-small>对敌方单体造成风属性伤害/自身获得弱点属性追击效果<br><span class=text-blue>◆根据使用次数增强效果(最大3次)</span></div>
+skill-2,紧急救援,<div class=prt-text-small>我方全体HP回复(上限2000)/净化1个弱化效果<br><span class=text-blue>◆根据使用次数增强回复效果(最大3次)</span></div>
 skill-3,白翼之风,<div class=prt-text-small>我方全体风属性角色暴击率UP<br><span class=text-blue>◆第2次发动追加会心效果/第3次发动追加伤害上限UP</span></div>
 skill-4,雷瞬闪,<div class=prt-text-small>驱散敌方单体1个强化效果<br><span class=text-blue>◆第2次发动追加减速效果/第3次发动追加麻痹效果</span></div>
-support-1,雷之军刀,<div class=prt-text-small>自身回避率UP/回避时发动1次「紫电之闪」对敌方全体造成风属性攻击/攻防DOWN(累积)/自身奥义值UP(20%)</div>
-support-2,苍空指令,自身使用技能后必定三连击/敌对心UP/回避率UP
+support-1,雷之军刀,<div class=prt-text-small>自身回避率UP/回避时发动1次「紫电之闪」对敌方全体造成风属性伤害/攻防DOWN(累积)/自身奥义值UP(20%)</div>
+support-2,苍空指令,自身使用技能时获得必定三连击/敌对心UP/回避率UP
 skill-lb,LB技能,回合开始时自身概率在本回合获得全回避效果
 intro,自由之剑闪,秩序的使徒邀上自己的姐妹，来到街上。她脱下身穿的制服，换上了按照自身意愿选择的便服。于她而言，这是切换公私状态的标志。身着便服的她脸上洋溢着与外观相称的笑容，与姐妹一同享受着购物时光。
