@@ -1,11 +1,11 @@
 id,name,detail
 npc,雷维恩姐妹 麦姆＆米姆＆梅姆,3040193000
-special,三矢降雷,<div class=prt-text-small>光属性伤害(特大)/自身必定三连击</div>
-skill-1,水之刃,<div class=prt-text-small>对敌方全体造成光属性攻击/防御力DOWN(累积)/自身获得光属性攻击力UP</div>
-skill-2,勇敢斗争,<div class=prt-text-small>对敌方单体造成2次光属性伤害/气绝效果</div>
-skill-3,治疗进化,<div class=prt-text-small>我方全体HP回复(上限1500)/净化一个弱化效果</div>
-skill-4,三重力量,<div class=prt-text-small>自身必定三连击/我方全体获得光属性追击效果</div>
-support-1,骑士的防御,我方全体获得暗属性伤害减轻<span class=text-blue>◆仅前排有效</span>
-support-2,蕾维恩骑士团,自身必定连击/三连击时附加光属性追击效果
-skill-lb,LB技能,使用连锁技能时，自身获得攻击力UP(累积)
+special,三矢降雷,光属性伤害(特大)/自身获得必定三连击
+skill-1,水之刃,对敌方全体造成光属性伤害/防御力DOWN(累积)/自身获得光属性攻击力UP
+skill-2,勇敢斗争,对敌方单体造成2次光属性伤害/气绝效果
+skill-3,治疗进化,我方全体HP回复(上限1500)/净化1个弱化效果
+skill-4,三重力量,自身获得必定三连击/我方全体获得光属性追击效果
+support-1,骑士的防御,我方全体获得暗属性伤害减轻<br><span class=text-blue>◆仅前排有效</span>
+support-2,雷维恩骑士团,自身获得必定连击/三连击时附加光属性追击效果
+skill-lb,LB技能,自身使用连接技能时获得攻击力UP(累积)
 intro,可靠的姐妹,保护王国和平的3名骑士，充分发挥着姐妹的牵绊，完成自己的职责。对各自优缺了如指掌的她们集中力量时，就能发挥战胜任何苦境的力量。

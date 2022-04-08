@@ -1,9 +1,9 @@
 id,name,detail
 npc,辛妲拉,3040377000
-special,金牙神然,土属性伤害(特大)/自身下一次连接技能同时获得两方效果/所有连接技能立即可用
+special,金牙神然,土属性伤害(特大)/自身获得下一次连接技能同时获得两方效果/所有连接技能立即可用
 skill-1,恶运散虎,<div class=prt-text-small>对敌方单体造成土属性伤害/攻防DOWN(累积)<br><span class=text-blue>◆根据目标「虎带」层数随机追加弱化效果</span></div>
 skill-2,良运招虎,自身获得攻防UP(累积)<span class=text-blue>◆根据目标「虎带」层数随机追加强化效果</span>
 skill-3,双虎风水,<div class=prt-text-small>自身获得完全回避效果/全体援护效果/无法进行攻击/下回合获得攻击大幅UP/必定三连击</div>
 support-1,寅神宫之主,<div class=prt-text-small>自身获得敌对心UP/弱化耐性DOWN/攻击力UP/必定连击/三连击时目标获得1层「虎带」(最大5层)/攻防DOWN</div>
-support-2,灾转福为,<div class=prt-text-small>自身没有进行攻击行动的回合结束时获得HP回复(上限2022)/净化全部弱化效果/再攻击效果/土属性追击效果</div>
+support-2,灾转福为,<div class=prt-text-small>自身没有进行攻击行动的回合结束时获得HP回复(上限2022)/弱化效果解除/再攻击效果/土属性追击效果</div>
 intro,东北东的守护神,守护东北东方位、十二神将中的一位。不，两位。其真实身份是自桃中诞生的非凡双子。以风水掌控运势，决定场面吉凶。只要身边有了这对姐妹，无论走向何方，前途都会大吉大利吧。
