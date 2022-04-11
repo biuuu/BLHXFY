@@ -5,11 +5,11 @@ special-リアタルマ,天纹灭尽,风属性伤害(特大)/自身下一次发�
 special-Lia Talma,天纹灭尽,风属性伤害(特大)/自身下一次发动的「力量追求」性能UP/「力量追求」立即可用
 skill-1,迪尔德丽的加护,我方全体风属性攻击力UP
 skill-1++,迪尔德丽的加护,我方全体风属性攻击力UP/净化1个弱化效果
-skill-2,力量追求,对敌方单体造成风属性伤害<br><span class=text-blue>◆自身HP越少「力量追求」的伤害越高</span>
-skill-2++,力量追求,<div class=prt-text-small>对敌方单体造成风属性伤害/自身获得逆境效果(HP越少攻击力越高)/必定三连击<br><span class=text-blue>◆自身HP越少「力量追求」的伤害越高</span></div>
+skill-2,力量追求,对敌方单体造成风属性伤害<br><span class=text-blue>◆自身HP越少「力量追求」伤害越高</span>
+skill-2++,力量追求,<div class=prt-text-small>对敌方单体造成风属性伤害/自身获得逆境效果(HP越少攻击力越高)/必定三连击<br><span class=text-blue>◆自身HP越少「力量追求」伤害越高</span></div>
 skill-3,巨龙之心,<div class=prt-text-small>我方全体获得屏障效果<br><span class=text-blue>◆消耗我方全体最大HP的25%</span></div>
 support-1,真龙的钩爪,自身HP越少我方全体攻击力越高<br><span class=text-blue>◆仅前排有效</span>
-support-2,久远的睿智,我方处于风属性攻击力UP的角色攻击力UP/连续攻击率UP<br><span class=text-blue>◆仅前排有效</span>
-support-2+,久远的睿智,<div class=prt-text-small>我方处于风属性攻击力UP的角色攻击力UP/连续攻击率UP/处于屏障效果的角色普通攻击时附加风属性追击效果<br><span class=text-blue>◆仅前排有效</span></div>
-skill-lb,LB技能,我方处于风属性攻击力UP的角色回避率UP
+support-2,久远的睿智,我方处于风属性攻击力UP的角色获得攻击性能UP<br><span class=text-blue>◆仅前排有效</span>
+support-2+,久远的睿智,<div class=prt-text-small>我方处于风属性攻击力UP的角色获得攻击性能UP/处于屏障效果的角色普通攻击时附加风属性追击效果<br><span class=text-blue>◆仅前排有效</span></div>
+skill-lb,LB技能,我方处于风属性攻击力UP的角色获得回避率UP
 intro,护国真龙,真龙与人类签订契约，自与星之民争斗的时代起就在阿尔斯塔岛上闭门不出。在经历了可以认为是永远的孤独后，她开始于人类交流，并且被激起了好奇心。解放那如风一般自由的内心的时刻到了。

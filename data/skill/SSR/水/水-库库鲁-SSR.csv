@@ -1,7 +1,7 @@
 ﻿id,name,detail
 npc,库库鲁,3040159000
 special,轰炸奇袭,水属性伤害(特大)/「抑止」<br><span class=text-blue>◆若敌方处于「抑止」则无法行动</span></div>
-skill-1,大桶爆弹,<div class=prt-text-small>消耗所有「火药桶」对敌方单体造成水属性伤害<br><span class=text-blue>◆根据消耗的「火药桶」层数强化技能</span></div>
+skill-1,大桶爆弹,<div class=prt-text-small>消耗所有「火药桶」对敌方单体造成水属性伤害<br><span class=text-blue>◆根据消耗的「火药桶」层数强化该技能</span></div>
 skill-2,赶尽杀绝,<div class=prt-text-small>对敌方全体造成4倍水属性伤害/攻防DOWN(累积)/「压制射击」<br><span class=text-blue>◆回合结束时自动发动1次「赶尽杀绝」</span></div>
 skill-3,武器学,我方指定角色获得攻击性能UP/回避率UP
 support-1,膛线,<div class=prt-text-small>自身发动奥义时获得1层「膛线」(最大2层)<br><span class=text-blue>◆根据「膛线」层数「赶尽杀绝」技能性能UP</span></div>

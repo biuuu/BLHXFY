@@ -4,7 +4,7 @@ special,虫之呼吸 蝶之舞·戏弄,<div class=prt-text-small>风属性伤害
 skill-1,六连突刺,<div class=prt-text-small>对敌方单体造成6次风属性伤害/中毒效果/「紫藤花毒」<span class=text-blue>◆敌方使用特殊技时消耗「紫藤花毒」对敌方全体造成999999无属性伤害</span></div>
 skill-2,用毒者,自身获得攻击大幅度UP/1层「毒药调合」
 skill-3,药学知识,<div class=prt-text-small>我方全体HP回复(上限2000)/净化1个弱化效果<br><span class=text-blue>◆5层「毒药调合」效果时追加全体奥义值UP(20%)</span></div>
-support-1,虫柱,<div class=prt-text-small>自身获得回避率UP/根据「毒药调合」层数攻击力UP/连续攻击率UP/技能性能UP</div>
+support-1,虫柱,<div class=prt-text-small>自身获得回避率UP/根据「毒药调合」层数攻击性能UP/技能性能UP</div>
 support-2,寂静的愤怒,<div class=prt-text-small>自身成为敌方攻击目标的回合获得1层「毒药调合」/根据「毒药调合」层数中毒效果伤害上限UP(最大6万)/5层「毒药调合」时「六连突刺」追加麻痹效果</div>
 skill-lb,LB技能,自身普通攻击处于中毒效果的目标时附加风属性追击效果
 intro,舞蝶的毒针,无法斩下恶鬼头颅的娇小队士，研制出了能从内部腐蚀躯体的毒药。正如她掩藏在平和笑容之下的愤怒，那毒药侵蚀着敌人血肉，将敌人的生命一寸寸吸干。

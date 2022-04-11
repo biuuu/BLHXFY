@@ -5,10 +5,10 @@ special-フローズン・ブルーム,冰封绽放,<div class=prt-text-small>�
 skill-1,冰晶结界,我方全体获得火属性伤害减免(70%)
 skill-1++,冰晶结界,<div class=prt-text-small>我方全体获得火属性伤害减免(70%)/1层玉水的刻印/自身获得3层「春风」<span class=text-blue>◆敌方使用特殊技的回合消耗1层「春风」自动发动1次「纯白治疗」</div></span>
 skill-2,冰封狂风,对敌方全体造成水属性伤害/冰结效果
-skill-2++,冰封狂风,<div class=prt-text-small>对敌方全体造成水属性伤害/冰结效果/攻防DOWN(累积)<br><span class=text-blue>◆根据我方队伍前排的种族数量强化技能</div></span>
+skill-2++,冰封狂风,<div class=prt-text-small>对敌方全体造成水属性伤害/冰结效果/攻防DOWN(累积)<br><span class=text-blue>◆根据我方前排种族数量强化该技能</div></span>
 skill-3,纯白治疗,我方全体HP回复(上限1500)/净化1个弱化效果
 support-1,闪耀水晶,自身防御力UP
 support-1+,闪耀水晶,<div class=prt-text-small>我方全体获得防御力UP/水属性角色根据各自玉水的刻印层数获得火属性伤害减轻<br><span class=text-blue>◆仅前排有效/火属性伤害减轻效果前后排均有效</div></span>
-support-2,冰晶宫的特使,我方队伍前排的种族数量越多自身攻击力越高
+support-2,冰晶宫的特使,自身根据我方前排种族数量获得攻击力UP
 skill-lb,LB技能,我方全体获得火属性伤害减轻<br><span class=text-blue>◆仅前排有效</span>
 intro,冰国的希望,在永远的白色大地上，幼小的公主有生之年都在奉献安宁的祈祷。刚强的公主脸上虽然没有泪痕，但她内心充满了不会消失的对烂漫盛开的鲜花的憧憬。

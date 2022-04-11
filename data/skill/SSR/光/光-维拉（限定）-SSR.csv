@@ -1,7 +1,7 @@
 ﻿id,name,detail
 npc,维拉,3040141000
 special,伊利亚特幻影,<div class=prt-text-small>光属性伤害(特大)/自身获得6层「浮游体」<br><span class=text-blue>◆自身发动奥义的回合不会消耗「浮游体」</span></div>
-skill-1,模式·圣佑护身,<div class=prt-text-small>自身获得弱化效果解除/「圣佑护身」<br><span class=text-blue>◆回合结束时消耗1层「浮游体」/自身不处于「浮游体」时效果提前结束<span></div>
+skill-1,模式：圣佑护身,<div class=prt-text-small>自身获得弱化效果解除/「圣佑护身」<br><span class=text-blue>◆回合结束时消耗1层「浮游体」/自身不处于「浮游体」时效果提前结束<span></div>
 skill-2,光之剑,对敌方全体造成光属性伤害/驱散1个强化效果
 skill-3,神圣武器,<div class=prt-text-small>自身获得必定三连击/奥义值上升量UP/光属性攻击力UP<span class=text-blue>◆处于「圣佑护身」时效果全体化<span></div>
 support-1,星晶浮游体,<div class=prt-text-small>战斗开始时自身获得3层「浮游体」(最大6层)/普通攻击的回合消耗1层「浮游体」<br><span class=text-blue>◆自身处于「浮游体」时获得暴击率UP/对暗属性目标伤害UP/与天司武器效果可以叠加<span></div>
