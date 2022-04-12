@@ -5,5 +5,5 @@ skill-1,侵犯,<div class=prt-text-small>敌方全体获得攻防DOWN(累积)/�
 skill-2,业报,<div class=prt-text-small>对敌方全体造成水属性伤害/我方水属性角色技能使用间隔缩短3回合/我方所有角色获得「召唤封印」</div>
 skill-3,丑角,<div class=prt-text-small>敌方全体获得「掌握」/连续攻击率DOWN/命中率DOWN<br><span class=text-blue>◆若敌方处于「掌握」则无法行动</span></div>
 support-1,令我刮目相看的人类们,自身获得HP最大值DOWN/攻击力UP/奥义值上升量UP/连续攻击率UP
-support-2,常夏的迷失之子,<div class=prt-text-small>自身根据敌方弱化效果数量获得奥义性能UP<br><span class=text-blue>◆自身对处于10个弱化效果的目标获得奥义再发动效果</span></div>
+support-2,常夏的迷失之子,<div class=prt-text-small>自身根据目标弱化效果数量获得奥义性能UP<br><span class=text-blue>◆自身对处于10个弱化效果的目标获得奥义再发动效果</span></div>
 intro,魅惑的审问者,神使了解了新的世界，学习了新的文化，迎来了新的夏天。在那里拾起失去的记忆，缅怀着古代的同伴。

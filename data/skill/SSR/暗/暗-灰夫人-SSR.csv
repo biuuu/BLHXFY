@@ -8,7 +8,7 @@ skill-2,深入,敌方单体获得防御力DOWN/暗属性防御力DOWN
 skill-2++,深入,<div class=prt-text-small>驱散敌方单体1个强化效果/防御力DOWN/暗属性防御力DOWN</div>
 skill-3,祸源,对敌方单体造成暗属性伤害/中毒效果
 skill-カラミティベイン,灾厄祸源,<div class=prt-text-small>对敌方全体造成暗属性伤害/中毒效果/麻痹效果/承受伤害UP</div>
-support-1,爱憎的冲动,自身根据敌方弱化效果数量获得奥义性能UP
+support-1,爱憎的冲动,自身根据目标弱化效果数量获得奥义性能UP
 support-2,黑结界,我方全体弱化抗性UP/战斗开始时我方暗属性角色获得弱化无效(1次)<br><span class=text-blue>◆仅前排有效</span>
 skill-lb,LB技能,自身概率将回合类伤害转化为HP回复
 intro,心眼的双葬女,真爱在黄泉的彼岸。由于死而复生的爱情，她学会了操纵死灵的方法。然而，其背后却没有悲壮感，作为淑女经常浮现出爽朗的笑容。

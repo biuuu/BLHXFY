@@ -1,0 +1,10 @@
+id,name,detail
+npc,赫莱尔·本·夏蕾姆,3040251000
+special,混沌军团,<div class=prt-text-small>暗属性伤害(特大)/我方全体获得暗属性攻击力UP<br><span class=text-blue>◆对处于「宵之宣告」的目标进行技能追击造成暗属性伤害</span></div>
+skill-1,清算,对敌方单体造成暗属性伤害/「宵之宣告」/防御力DOWN/弱化抗性DOWN
+skill-2,不可视之触,我方指定角色获得屏障效果/完全回避效果(1次)
+skill-3,终末,<div class=prt-text-small>敌方全体获得攻击力DOWN/连续攻击率DOWN/特殊技伤害DOWN/命中率DOWN</div>
+support-1,审问与排斥的预言者,<div class=prt-text-small>自身发动奥义时获得1层「失神」(最大3层)<br><span class=text-blue>◆自身根据「失神」层数获得连续攻击率UP/「失神」3层时自身获得攻击力UP/暴击率UP/伤害上限UP</span></div>
+support-2,来自神话的迷失之子,自身根据目标弱化效果数量获得奥义性能UP/暗属性追击效果
+skill-lb,LB技能,自身根据目标弱化效果数量获得三连击率UP
+intro,宵之审问者,于远古时代诞生的神使，再度降临现世。那里对她来说是未来。记忆的缺失令她迷茫，为了填补神话中的空白，她决心踏上空之旅程。
