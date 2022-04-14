@@ -29,7 +29,6 @@ const keyMap = new Map([
   ['hide-sidebar', 'hideSidebar'],
   ['trans-ja', 'transJa'],
   ['trans-en', 'transEn'],
-  ['keep-bgm', 'keepBgm'],
   ['trans-api', 'transApi'],
   ['story-only', 'storyOnly'],
   ['show-translator', 'showTranslator'],

@@ -29,7 +29,6 @@ const config = {
   localHash: '',
   transJa: true,
   transEn: true,
-  keepBgm: false,
   originText: false,
   defaultFont: false,
   cacheTime: 30,
@@ -49,7 +48,7 @@ const getLocalConfig = () => {
   }
   const keys = [
     'autoDownload', 'bottomToolbar', 'displayName', 'removeScroller', 'hideSidebar', 'originText', 'storyOnly', 'showTranslator',
-    'transJa', 'transEn', 'keepBgm', 'font', 'transApi', 'fontBold', 'plainText', 'battleTrans', 'log', 'defaultFont'
+    'transJa', 'transEn', 'font', 'transApi', 'fontBold', 'plainText', 'battleTrans', 'log', 'defaultFont'
   ]
   keys.forEach(key => {
     let value = setting[key]

@@ -160,10 +160,6 @@ const template = `
 						<label for="default-font-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">调整字体</label>
 					</div>
 					<div style="margin-top:5px;">
-						<input id="keep-bgm-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'keep-bgm', this.checked)" type="checkbox" value="">
-						<label for="keep-bgm-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">保持BGM</label>
-					</div>
-					<div style="margin-top:5px;">
 						<input id="origin-text-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'origin-text', this.checked);window.blhxfy.sendEvent('setting', 'fast-mode', event);" type="checkbox" value="" data-post-name="scene_fast_text_mode" name="scene-fast-text-mode">
 						<label for="origin-text-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">原文对照</label>
 					</div>
