@@ -14,7 +14,7 @@ export default function () {
       }, 100)
     })
     $('#wrapper').off('click.blhxfy-dlcsv2')
-    .on('click.blhxfy-dlcsv2', '.pop-synopsis .btn-usual-ok', function () {
+    .on('click.blhxfy-dlcsv2', '.pop-synopsis .btn-usual-ok,.btn-scene-skip', function () {
       if (!downloaded) {
         win.blhxfy.sendEvent('dlStoryCsv')
       }
