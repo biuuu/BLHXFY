@@ -2,8 +2,8 @@ id,name,detail
 npc,塔维娜,3040350000
 special,闪电回响,暗属性伤害(特大)/追加发动1次「阳炎刃舞」
 skill-1,阳炎刃舞,对敌方单体造成4次暗属性伤害/自身获得完全回避效果(1次)/2层「狩猎的箭筒」
-skill-2,侵蚀之浪,<div class=prt-text-small>对敌方单体造成4次暗属性伤害/攻防DOWN(累积)/随机追加弱化效果<span class=text-blue>◆消耗1层「狩猎的箭筒」</span></div>
-skill-3,爱之舞蹈,<div class=prt-text-small>我方暗属性角色获得「爱之舞蹈」/弱化成功率UP/技能性能UP/伤害UP<span class=text-blue>◆受到2次伤害后解除效果</span></div>
-support-1,砂滨的猎人,<div class=prt-text-small>自身战斗开始时获得4层「狩猎的箭筒」(最大4层)<span class=text-blue>◆回合结束时消耗1层「狩猎的箭筒」自动发动1次「侵蚀之浪」</span></div>
+skill-2,侵蚀之浪,<div class=prt-text-small>对敌方单体造成4次暗属性伤害/攻防DOWN(累积)/随机追加弱化效果<br><span class=text-blue>◆消耗1层「狩猎的箭筒」</span></div>
+skill-3,爱之舞蹈,<div class=prt-text-small>我方暗属性角色获得「爱之舞蹈」/弱化成功率UP/技能性能UP/伤害UP<br><span class=text-blue>◆受到2次伤害后解除效果</span></div>
+support-1,砂滨的猎人,<div class=prt-text-small>战斗开始时自身获得4层「狩猎的箭筒」(最大4层)<br><span class=text-blue>◆回合结束时消耗1层「狩猎的箭筒」自动发动1次「侵蚀之浪」</span></div>
 support-2,爱的香料,<div class=prt-text-small>自身根据目标弱化效果数量获得回避率UP/自身回避时对敌方随机造成4次暗属性伤害/我方全体奥义值UP(10%)</div>
 intro,华丽的千金,华丽的千金小姐，第一次为大海激动不已。一切目中所见、指尖所触，都是如此可爱动人。她发誓下次要和命中注定的爱人一起来。此情此景之中，她找到了自己的使命，燃起了经商之魂。这心情来势强烈，有如烈火。一切都是为了传播塔赫尔·玛萨拉。

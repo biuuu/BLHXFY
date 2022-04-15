@@ -2,7 +2,7 @@ id,name,detail
 npc,夏托拉,3020074000
 special,无我梦丑,<div class=prt-text-small>想着你……<br><span class=text-blue>◆无法发动</span></div>
 skill-1,安稳的睡,<div class=prt-text-small>呼……呼……<br><span class=text-blue>◆没有任何效果</span></div>
-skill-2,开心的睡,<div class=prt-text-small>唔呀……唔嘻嘻嘻♪<br><span class=text-blue>◆没有任何效果</span></div>
-support-1,不只是做梦的我吗……♪,自身无法进行攻击/我方土属性角色奥义值上升量UP<br><span class=text-blue>◆仅前排有效</span>
-skill-sub,恋爱中少女的梦想,我方土属性角色三连击率UP
+skill-2,开心的睡,<div class=prt-text-small>唔呀……唔嘻嘻嘻……♪<br><span class=text-blue>◆没有任何效果</span></div>
+support-1,不只是做梦的我吗……♪,自身获得无法进行攻击/我方土属性角色获得奥义值上升量UP<br><span class=text-blue>◆仅前排有效</span>
+skill-sub,恋爱中少女的梦想,我方土属性角色获得三连击率UP
 intro,梦中丑神,沉迷恋爱的少女所做之梦，曾经只存在于合眼入睡之时。但现在不一样了。睁开眼睛，迈开双腿，哪怕步伐如牛般迟缓，也会一步一步走下去。为了把梦想变成现实，少女的脚步不会停止。
