@@ -181,8 +181,8 @@ id,ja,en,name,detail
 30211,二刀流,Two-Sword Style,二刀流,<div class=prt-text-small>自身装备副手武器时获得攻击力UP/防御力UP/连击率UP/三连击时第三击攻击力UP/同一回合中发动的第二次奥义使用副手武器的奥义效果</div>
 200531,アナザーブレードII,Blade Swap II,剑刃切换II,<div class=prt-text-small>自身发动奥义时使用副手武器的效果/奥义性能UP(1次)<br><span class=text-blue>◆仅装备副手武器时可用</span></div>
 200541,デュアルアーツ,Dual Arts,双刃技艺,<div class=prt-text-small>自身获得奥义再发动效果<br><span class=text-blue>◆仅装备副手武器时可用</span></div>
-200551,ディプティク,Diptych,镜像攻击,<div class=prt-text-small>自身获得再攻击效果/自属性追击效果<span class=text-blue>◆消耗20%奥义值/仅装备副手武器时可用</span></div>
-200561,アーセガル,Aurum Flow,黄金流转,<div class=prt-text-small>对敌方单体造成自属性伤害/自身奥义值UP(20%)<br><span class=text-blue>◆装备副手武器时发动2次</span></div>
+200551,ディプティク,Diptych,镜像攻击,<div class=prt-text-small>自身获得再攻击效果/自属性追击效果<br><span class=text-blue>◆消耗20%奥义值/仅装备副手武器时可用</span></div>
+200561,アーセガル,Aurum Flow,黄金流转,<div class=prt-text-small>对敌方单体造成自属性伤害/自身获得奥义值UP(20%)<br><span class=text-blue>◆装备副手武器时发动2次</span></div>
 30216,デュアルブレード,Dual Blades' Authority,双刃,<div class=prt-text-small>自身装备副手武器时获得攻击力UP/防御力UP/连击率UP/三连击时第三击攻击力UP/同一回合中发动的第二次奥义使用副手武器的奥义效果</div>
 30218,メイルブレイク,Mailbreaker,穿甲之刃,自身连续攻击时概率使目标防御力DOWN(累积)<br><span class=text-blue>◆仅装备副手武器时</span>
 3110,錬成:キュアポーション,Alchemize Green Potion,炼成：治愈膏药,生成治愈膏药
