@@ -1,6 +1,6 @@
 id,name,detail
 npc,湿婆,3040196000
-special,第三之目·开眼,<div class=prt-text-small>火属性伤害(特大)/自身获得攻击UP/「第三之目」<br><span class=text-blue>◆处于「第三之目」时下次奥义变为「摩诃迦罗」</span></div>
+special,第三之目，开眼,<div class=prt-text-small>火属性伤害(特大)/自身获得攻击UP/「第三之目」<br><span class=text-blue>◆处于「第三之目」时下次奥义变为「摩诃迦罗」</span></div>
 special-マハーカーラ,摩诃迦罗,火属性伤害(特大)<span class=text-blue>◆消耗「第三之目」自身获得奥义性能UP</span>
 skill-1,三叉戟,<div class=prt-text-small>对敌方单体造成火属性伤害/攻防DOWN/每回合损失HP(上限5万)</div>
 skill-1+,三叉戟,<div class=prt-text-small>对敌方单体造成火属性伤害/攻防DOWN/每回合损失HP(上限5万)</div>
