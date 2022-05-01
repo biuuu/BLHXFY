@@ -50,7 +50,7 @@ path,text,trans,count
 /content,レガリアシリーズ,2.0武器,6
 /content,マグナシリーズ,岛主系列,6
 /content,オールド・<br>プライマルシリーズ,1.5方阵武器,6
-/content,ミーレスシリーズ,战火系列<br>（新沙盒掉落）,6
+/content,ミーレスシリーズ,星士系列<br>（新沙盒掉落）,6
 /content,虚ろなる神器,虚空神器,6
 /content,アストラルウェポン,星幽武,6
 /content,ローズシリーズ,萝赛塔武器,6
@@ -58,6 +58,8 @@ path,text,trans,count
 /content,バハムートウェポン,巴武,6
 /content,エピックウェポン,大马武器,6
 /content,エニアドシリーズ,九柱神,6
+/content,マリスシリーズ,玛丽斯系列<br>黑风妈泥鳅光妈,6
+/content,メナスシリーズ,危恐系列<br>校长&群神,6
 /content,コスモスシリーズ,大公武器,6
 /content,アンセスタル<br>シリーズ,多人六龙武器,6
 /content,スペリオルシリーズ,石油武,6
@@ -82,6 +84,7 @@ path,text,trans,count
 /content,MAXのみ,仅MAX,10
 /content,ONのみ,仅ON,10
 /content,OFFのみ,仅OFF,10
+/content,自動リサイクル,自动回收,10
 /content,発動,发动,10
 /content,習得,习得,21
 /content,変更,变更,9
