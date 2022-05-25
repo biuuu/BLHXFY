@@ -1,11 +1,11 @@
 ﻿id,name,detail
 npc,伊休米尔,3040126000
-special,寒冰冲击,水属性伤害(特大)/清除冰剑效果
-skill-1,约顿海姆,获得1层冰剑效果/攻击UP(10%，累积，最大20%)
+special,寒冰冲击,水属性伤害（特大）/冰结LV上升1（最大10）
+skill-1,约顿海姆,获得1层冰剑效果/奥义值15%UP
 skill-2,暴风雪,获得暴风雪场地效果(场上全体攻击力UP)
 skill-2+,暴风雪,获得暴风雪场地效果(场上全体攻击力UP)/我方全体攻击力15%UP
-skill-3,苍白冰龙,对敌方单体造成2.5~4倍水属性伤害/消耗1层冰剑效果，可发动2次该技能
-support-1,仲夏夜之梦,最大HP减少15%/防御力DOWN(20%)，剩余HP越多，我方全体攻击力UP
-support-2,纯白剑锋,根据冰剑效果层数，奥义性能UP<span class=text-blue>◆冰剑效果最大2层</span>
+skill-3,苍白冰龙,<div class=prt-text-small>对敌人造成4次水属性伤害/赋予其水属性防御DOWN（累积）/冰结LV上升1（最大10） <span class=text-blue>◆消费1个冰剑</span></div>
+support-1,仲夏夜之梦,<div class=prt-text-small>剩余HP越多我方全体攻击提高越多/根据敌人的冰结LV，水属性角色的奥义性能UP <span class=text-blue>◆奥义性能UP效果后排有效</span></div>
+support-2,纯白剑锋,<div class=prt-text-small>根据冰剑数量获得攻击UP/奥义性能UP <span class=text-blue>◆冰剑最多2把</span></div>
 skill-lb,LB技能,暴雪效果中回避率UP
 Intro,常夏的幻冰,冰之少女来到了与她的存在不相称的常夏度假地。接受了即将结束的自己的命运，预感着与骑空士的离别，紧咬瞬间的一刻。
