@@ -221,6 +221,9 @@ path,text,trans,count
 /lobby/content/room_,バトル開始承認,开始战斗的确认,
 /lobby/content/room_,承認あり,需要确认,2
 /lobby/content/room_,承認なし,不用确认,2
+/lobby/content/room_,トライアル設定,练习房设定,2
+/lobby/content/room_,通常マルチ,常规多人本,2
+/lobby/content/room_,トライアルマルチ,练习用多人本,2
 /lobby/content/room_,コメント,描述,
 /lobby/content/room_,24文字以内で入力してください。,请输入24字以内的简介,
 /lobby/content/room_,募集の投稿・掲載,募集的投稿・发布,
