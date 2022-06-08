@@ -1,0 +1,30 @@
+id,name,text,trans
+0-chapter_name,,第5話 首,第5話 首
+0-synopsis,,重い身体を引きずり、ルシフェルの気配を辿るサンダルフォン。完璧なる力を誇るルシフェルに危機が訪れたことを信じられない反面、焦り、その居場所と思しき部屋に辿り着く。そこでサンダルフォンが目にしたのは、“ルシフェルの残骸”だった。,圣德芬拖着沉重的身体向路西菲尔的气息走去。他不敢相信完美的路西菲尔会遭遇危机，又焦虑着来到了疑似路西菲尔所在的房间。“路西菲尔的残骸”呈现在他的眼前。
+2,,<span class='scene-font-katari'>意図せぬ顕現をした身体は、</span><br><span class='scene-font-katari'>まるで鉛のように重かった。</span>,<span class='scene-font-katari'>非自身意识显现的身体</span><br><span class='scene-font-katari'>如同灌了铅一般的沉重。</span>
+3,,<span class='scene-font-katari'>平衡感覚も定まらず、</span><br><span class='scene-font-katari'>足は泥沼に浸かっているようで……</span>,<span class='scene-font-katari'>无法掌握平衡，</span><br><span class='scene-font-katari'>双脚也如同陷进了沼泽……</span>
+4,,<span class='scene-font-katari'>それでもサンダルフォンは、</span><br><span class='scene-font-katari'>ルシフェルの痕跡を辿って、</span><br><span class='scene-font-katari'>神殿の長い回廊を進んでいた。</span>,<span class='scene-font-katari'>即使如此圣德芬也为</span><br><span class='scene-font-katari'>寻找路西菲尔的痕迹，</span><br><span class='scene-font-katari'>在神殿漫长的走廊里继续走着。</span>
+7,サンダルフォン/圣德芬,はぁ……はぁ……,哈啊……哈啊……
+8,サンダルフォン/圣德芬,この先の扉か……？<br>もう気配を読み取る力もないな……,是前面这道门吗……？<br>已经没有力气感知气息了……
+9,サンダルフォン/圣德芬,なんのつもりか知らんが、<br>ずいぶんと胡乱な真似を──,虽然不知道你有什么打算，<br>但还真是胡来——
+10,サンダルフォン/圣德芬,ウッ！？,呃！？
+12,,<span class='scene-font-katari'>小石に足をとられ、</span><br><span class='scene-font-katari'>柱にもたれかかるサンダルフォン。</span>,<span class='scene-font-katari'>圣德芬的脚被小石头绊住，</span><br><span class='scene-font-katari'>连忙靠在了柱子上。</span>
+13,サンダルフォン/圣德芬,フ、フフフ……<br>ただの小石で転がり回るとは……,呵，呵呵呵……<br>只是一块小石头就能绊倒我……
+23,,<span class='scene-font-katari'>姿勢を戻そうとすると、</span><br><span class='scene-font-katari'>支えの柱が崩れ、砕けた石片に</span><br><span class='scene-font-katari'>押しつぶされてしまった。</span>,<span class='scene-font-katari'>圣德芬想要恢复姿势时，</span><br><span class='scene-font-katari'>靠着的柱子却突然崩塌，</span><br><span class='scene-font-katari'>碎石把他压在了地上。</span>
+27,サンダルフォン/圣德芬,ぬ、うぅ……,呃，呃……
+28,サンダルフォン/圣德芬,ハハ、ハ……,哈哈，哈哈……
+29,サンダルフォン/圣德芬,無様だ、あまりにも……<br>アンタが見たかったのは、この光景か？,真是难看……<br>你想看到的，就是这种场景吗？
+30,サンダルフォン/圣德芬,……クソ！,可恶……！
+39,サンダルフォン/圣德芬,はぁ……はぁ……！,哈啊……哈啊……！
+40,サンダルフォン/圣德芬,来たぞ、ルシフェル……<br>この騒動の目的を教えて貰おうか。,我来了，路西菲尔……<br>告诉我这场骚动的理由吧。
+48,サンダルフォン/圣德芬,うん……？<br>誰もいない……？,嗯……？<br>没有人……？
+49,サンダルフォン/圣德芬,ここではなかったのか……<br>あるいはすでに移動したか……,不是这里吗……<br>还是说已经去别的地方……
+50,サンダルフォン/圣德芬,フン……<br>馬鹿馬鹿しい。<br>やはり関わるんじゃなかったな。,哼……真是愚蠢。<br>我果然不该扯上关系。
+55,？？？,<span class='scene-font-gray'>誰か……</span>,<span class='scene-font-gray'>谁……</span>
+56,サンダルフォン/圣德芬,…………？,…………？
+57,？？？,<span class='scene-font-gray'>誰か……そこにいるのか……</span>,<span class='scene-font-gray'>有谁……在那里吗……</span>
+58,サンダルフォン/圣德芬,この微かな思念……<br>まさかアンタなのか……？,这份微弱的思念……<br>难道是你吗……？
+59,,<span class='scene-font-katari'>頭の中に響き渡る思念。</span><br><span class='scene-font-katari'>その弱々しい筋道を辿ると、</span><br><span class='scene-font-katari'>そこにルシフェルが有った。</span>,<span class='scene-font-katari'>脑海中回响着传达过来的思念。</span><br><span class='scene-font-katari'>圣德芬循着那微弱之气，</span><br><span class='scene-font-katari'>见到了路西菲尔。</span>
+60,,<span class='scene-font-katari'>──ルシフェルの残骸が有った。</span>,<span class='scene-font-katari'>——见到了路西菲尔的残骸</span>
+61,サンダルフォン/圣德芬,ルシフェル──,路西菲尔——
+info,,,scene_evt180228_cp5_q2_s10

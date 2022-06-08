@@ -1,0 +1,20 @@
+id,name,text,trans
+0-chapter_name,,第1話 蒼海を征くメグ,第1话 征服苍海的梅格
+0-synopsis,,メグは初めての<span class='scene-font-place'>アウギュステ</span>に到着すると、真っ先にビーチにやってきた。青い海と白い砂浜を自分の目で見ることができて感激するメグ。行き交う観光客も<span class='scene-font-place'>アウギュステ</span>にいるというだけでどこか魅力的に見えるほどだ。胸を高鳴らせていると、ふと背後から声がかかるのだった。,梅格到了第一次来的<span class='scene-font-place'>奥古斯提</span>，首先去了海滩。梅格对于能亲眼看到蓝色的大海和白色的沙滩而非常感动。连人数众多的观光客这点也对她非常有魅力。在这样心情高涨的时候，突然从背后传来了向她搭话的声音。
+11,,<span class='scene-font-katari'>メグが降り立った</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>の首都、</span><br><span class='scene-font-katari'>水上都市ミザレアの街並みには</span><br><span class='scene-font-katari'>見たことない文化が根づいていた。</span>,<span class='scene-font-katari'>梅格来到了</span><span class='scene-font-place'>奥古斯提</span><span class='scene-font-katari'>的首都，</span><br><span class='scene-font-katari'>水上都市梅萨雷亚，</span><br><span class='scene-font-katari'>在那里，从未看过的充满异域文化的街景映入眼帘。</span>
+12,,<span class='scene-font-katari'>だが刺激的な風景に目を奪われつつも</span><br><span class='scene-font-katari'>メグが真っ先に向かったのは</span><br><span class='scene-font-katari'>予約しているホテルではなく……</span>,<span class='scene-font-katari'>虽是被令人兴奋的异域风景吸引住了眼球，</span><br><span class='scene-font-katari'></span>但梅格首先去往的不是预约的酒店……</span>
+17,メグ/梅格,<span class='scene-font-4 scene-font-gray'>青い海！</span>,<span class='scene-font-4 scene-font-gray'>蓝蓝的海！</span>
+18,メグ/梅格,<span class='scene-font-4 scene-font-gray'>白い砂浜！</span>,<span class='scene-font-4 scene-font-gray'>白色的沙滩！</span>
+19,メグ/梅格,<span class='scene-font-4 scene-font-gray'>あと青い空！</span>,<span class='scene-font-4 scene-font-gray'>还有蓝蓝的天空！</span>
+20,メグ/梅格,海だ……,是海……
+21,メグ/梅格,<span class='scene-font-4'>海だぁ～っ！！</span>,是海啊～！！
+22,,<span class='scene-font-katari'>周囲の観光客が怪訝な顔を見せようが</span><br><span class='scene-font-katari'>メグはおかまいなしで</span><br><span class='scene-font-katari'>ふたつの瞳をキラキラと輝かせた。</span>,<span class='scene-font-katari'>就算周围的游客露出怪异的表情，</span><br><span class='scene-font-katari'>梅格也完全不在意，双眼闪闪发光。</span>
+23,メグ/梅格,<span class='scene-font-kokoro'>（わは～！　なんて素敵なの……！）</span>,<span class='scene-font-kokoro'>（哇哈～！ 太棒了……！）</span>
+24,メグ/梅格,<span class='scene-font-kokoro'>（こんなきれいな景色が</span><br><span class='scene-font-kokoro'>この世にあるなんて</span><br><span class='scene-font-kokoro'>目の前にしても信じられないよ……）</span>,<span class='scene-font-kokoro'>（就算亲眼看到了还是不太相信，</span><br><span class='scene-font-kokoro'>原来世界上有这么漂亮的景色……）</span>
+34,メグ/梅格,それにしても人がたくさん……<br>お祭りってわけでもないのに……<br>みんな、わたしと同じ観光客？,不过现在人还真是多啊……<br>明明现在也不是在开祭典……大家，和我一样都是游客吗？
+35,メグ/梅格,でもなんだか<br><span class='scene-font-place'>アウギュステ</span>にいるっていうだけで<br>どの人もオシャレに見えるなぁ。,是因为在<span class='scene-font-place'>奥古斯提</span>吗，<br>感觉每个人看起来都好时髦。
+36,メグ/梅格,はっ……ということは……<br>わたしも他人から<br>そう見えてるってこと？,嗯……也就是说……<br>别人看我也是这个感觉吗？
+37,メグ/梅格,<span class='scene-font-kokoro'>（もしかしてだけど……</span><br><span class='scene-font-kokoro'>ナンパとかされちゃったりして……</span><br><span class='scene-font-kokoro'>ちょっと緊張しちゃうんだけど ……）</span>,<span class='scene-font-kokoro'>（说不定……还会被搭讪……</span><br><span class='scene-font-kokoro'>都有点紧张起来了……）</span>
+39,,<span class='scene-font-katari'>メグがそんなことを考えていると、</span><br><span class='scene-font-katari'>ふと背後から声がかかるのだった。</span>,<span class='scene-font-katari'>就在梅格这么思考着的时候，</span><br><span class='scene-font-katari'>突然从背后传来了向她搭话的声音。</span>
+info,,,scene_evt200729_cp1_q1_s10
+译者,,,卜葛

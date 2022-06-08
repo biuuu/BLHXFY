@@ -1,0 +1,41 @@
+id,name,text,trans
+0-chapter_name,,STAGE1 異世界 の ゼロ,STAGE1 异世界的Zero
+0-synopsis,,犯人に追いついたカレンは、ゼロの信条に反する行為をしたことから、犯人はゼロではなく偽者だと断定する。そこへ追いついたルルーシュに犯人は「嚮主様の予想は的中していたようだ。ルルーシュ・ヴィ・ブリタニア。貴様を待っていた」と言い、囚われたナナリーの写真を渡す。その後犯人は謎の星晶獣の気配とともに逃走してしまうのだった。,卡莲追上了犯人，因犯人的所为违背Zero的信条从而断定眼前的Zero是其他人假扮的。犯人对着赶到的鲁鲁修说道，「看来正如向主大人所料。鲁鲁修·V·布里塔尼亚。我等你很久了！」，并拿出娜娜莉被抓的照片给他看。随后犯人和一阵星晶兽的气息一起逃离了现场。
+2,カレン/卡莲,はぁ……はぁ……,哈……哈……
+3,ゼロ？,…………,
+4,,<span class='scene-font-katari'>町を抜けた先で</span><br><span class='scene-font-katari'>カレンはゼロの格好をした</span><br><span class='scene-font-katari'>謎の人物に追いつく。</span>,<span class='scene-font-katari'>穿过市区之后，卡莲追上了那个打扮成Zero的人。</span>
+5,カレン/卡莲,本物の……ゼロなの？,你是……真的Zero？
+6,,<span class='scene-font-katari'>長いマントを風にはためかせ、</span><br><span class='scene-font-katari'>肯定も否定もしない仮面の人物を見て、</span><br><span class='scene-font-katari'>カレンは断じる。</span>,<span class='scene-font-katari'>犯人沉默着，长披风在风中飘动。卡莲看着他，做出了判断。</span>
+7,カレン/卡莲,アンタ、本物のゼロじゃないね。<br>ゼロなら弱い者を襲ったりはしない。,你，不是真正的Zero。<br>Zero不会袭击弱者。
+8,,<span class='scene-font-katari'>仮面の人物を睨みつけたカレンは、</span><br><span class='scene-font-katari'>姿勢を低く下げ、戦闘態勢を取る。</span>,<span class='scene-font-katari'>卡莲盯着戴着假面的犯人，放低重心摆出准备战斗的架势。</span>
+10,ルルーシュ,はぁ……はぁ……,哈……哈……
+11,ルルーシュ,カレン、一人だと危険だ。<br>アイツの目的がわからない以上……,卡莲，你一个人太危险了。<br>我们还不知道他的目的……
+12,ゼロ？,クークックックック……！<br>嚮主様の予想は的中していたようだ。,哼哼哼哼哼哼……！<br>看来正如向主大人所料。
+13,,<span class='scene-font-katari'>沈黙を貫いていた仮面の人物が</span><br><span class='scene-font-katari'>突然奇妙な声色で笑い出す。</span>,<span class='scene-font-katari'>一直保持沉默的假面人突然发出诡异的笑声。</span>
+14,ゼロ？,ルルーシュ・ヴィ・ブリタニア、<br>いや、ゼロ。<br>貴様を待っていた！,鲁鲁修·V·布里塔尼亚，不，Zero。<br>我等你很久了！
+15,ルルーシュ,なにっ！？,什么！？
+16,ルルーシュ,<span class='scene-font-kokoro'>（俺を知っている？</span><br><span class='scene-font-kokoro'>こいつはゼロの正体を……！）</span>,<span class='scene-font-kokoro'>（他知道我是谁？知道Zero的真实身份……！）</span>
+17,ゼロ？,クックックック……,哼哼哼哼……
+18,,<span class='scene-font-katari'>仮面の人物は懐から</span><br><span class='scene-font-katari'>１枚の紙を取り出すと、</span><br><span class='scene-font-katari'>ルルーシュのもとに投げてよこした。</span>,<span class='scene-font-katari'>假面人从怀中取出一张纸扔给鲁鲁修。</span>
+19,,<span class='scene-font-katari'>警戒しながら、ルルーシュは</span><br><span class='scene-font-katari'>地面に落ちた紙を</span><br><span class='scene-font-katari'>慎重に拾い上げる。</span>,<span class='scene-font-katari'>鲁鲁修谨慎地从地上捡起它。</span>
+20,ルルーシュ,<span class='scene-font-kokoro'>（写真か……？）</span>,<span class='scene-font-kokoro'>（照片……？）</span>
+25,ルルーシュ,<span class='scene-font-4'>なっ！　ナナリー！</span>,<span class='scene-font-4'>什么！　娜娜莉！</span>
+26,,<span class='scene-font-katari'>渡された写真には牢に入れられ、</span><br><span class='scene-font-katari'>無力に項垂れるルルーシュの最愛の妹</span><br><span class='scene-font-katari'>ナナリーの姿が写っていた。</span>,<span class='scene-font-katari'>照片上是鲁鲁修最亲爱的妹妹娜娜莉被关在牢中无精打采的样子。</span>
+27,ルルーシュ,ナナリーが……<br>何の真似だ？<br>ナナリーをどうするつもりだ！,娜娜莉……<br>这是什么？<br>你们想对娜娜莉做什么！？
+28,ゼロ？,クク……<br>それはお前次第……,哼哼……<br>这要看你了……
+30,ルリア/露莉亚,あっ、いました！<br>犯人も一緒です！,啊，在这边！<br>犯人也在！
+31,ビィ/碧,絶対に許さねぇ！<br>姬塔、畳みかけるぞ！,无法原谅！<br>姬塔，上吧！
+33,,<span class='scene-font-katari'>姬塔は剣を構え、</span><br><span class='scene-font-katari'>仮面の人物に向かって駆け出す。</span>,<span class='scene-font-katari'>姬塔架起剑冲向假面人。</span>
+34,ゼロ？,クックック……,哼哼哼……
+36,,<span class='scene-font-katari'>姬塔が振りかぶった瞬間、</span><br><span class='scene-font-katari'>仮面の人物は深く踏み込み、</span><br><span class='scene-font-katari'>素早く飛び上がる。</span>,<span class='scene-font-katari'>姬塔挥剑的瞬间，假面人重重地踏地，飞速跳起。</span>
+41,,<span class='scene-font-katari'>そのまま、おおよそ人の身では</span><br><span class='scene-font-katari'>到達しえない高さまで跳躍し、</span><br><span class='scene-font-katari'>そびえ立つ崖の上に降り立った。</span>,<span class='scene-font-katari'>犯人就这样跳至常人绝对无法达到的高度，降落在山崖上。</span>
+42,カレン/卡莲,あんな場所までどうやって！,怎么跳那么高的！
+43,ルリア/露莉亚,この気配……どうして星晶獣が！？,这个气息……是星晶兽的气息！？
+44,ゼロ？,…………,
+49,ビィ/碧,アイツ、あんなところに<br>小型騎空艇を隠してやがった！,那家伙，在那里藏了小型骑空艇！
+49-sel1_txt,,<span class='scene-font-katari'>急いで後を追おう！</span>,<span class='scene-font-katari'>快点追上去吧！</span>
+51,ルリア/露莉亚,はい！<br>いまならグランサイファーで<br>追いつけるかもしれません！,好！<br>现在回格兰赛法的话可能还能追上！
+52,ルルーシュ,逃がしてたまるか……！,不会让你逃走的……！
+53,,<span class='scene-font-katari'>仮面の人物を乗せた小型騎空艇を</span><br><span class='scene-font-katari'>目で追いながら、</span><br><span class='scene-font-katari'>一行は艇のある発着場へと急ぐ。</span>,<span class='scene-font-katari'>众人一边确认着假面人乘的小型骑空艇的去向，一边赶回格兰赛法所在的停船场。</span>
+54,,<span class='scene-font-katari'>しかし懸命な追跡も虚しく、</span><br><span class='scene-font-katari'>発着場に着いた時には小型騎空艇は</span><br><span class='scene-font-katari'>遠くの空に消えてしまうのだった。</span>,<span class='scene-font-katari'>然而，他们的追踪徒劳无功，等他们抵达停船场时，小型骑空艇早已消失在远处的天空。</span>
+info,,,scene_evt190614_cp1_q4_s10

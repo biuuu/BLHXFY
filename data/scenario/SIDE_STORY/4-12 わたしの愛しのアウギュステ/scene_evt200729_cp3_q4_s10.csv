@@ -1,0 +1,51 @@
+id,name,text,trans
+0-chapter_name,,第3話 メグ、来たりて,第3话 梅格，到来
+0-synopsis,,メグはジンと名乗る男に助けられた。ジン曰く、メグにぶつかったのはウオノタユウという魚であるらしい。また、ジンは例の騎空団の一員でもあるらしく、たちまち騎空団の面々は波打ち際でその巨大魚と戦い始めた。メグは彼らが戦う光景をぼう然と眺めながら、もう<span class='scene-font-place'>アウギュステ</span>には来ないと誓う。こんな目に遭うのはもう耐えられないのだった。,梅格被一名自称仁的男人救了。仁说，撞上她好像是翻车鱼。然后，仁好像也是之前的骑空团的一员，下一刻，骑空团的成员开始在岸边和那条巨大的鱼战斗了起来。看着他们战斗的情景，梅格暗自发誓，今后再也不会来<span class='scene-font-place'>奥古斯提</span>了。她已经受够了遇到的倒霉事了。
+2,,<span class='scene-font-katari'>意識を取り戻すと、</span><br><span class='scene-font-katari'>メグは重いまぶたを開くよりも先に</span><br><span class='scene-font-katari'>そこがビーチであることに気づいた。</span>,<span class='scene-font-katari'>恢复意识后，</span><br><span class='scene-font-katari'>梅格在撑开沉重的眼皮前，</span><br><span class='scene-font-katari'>察觉到自己正处于沙滩上。</span>
+3,,<span class='scene-font-katari'>背中一面に触れる熱い砂の感触と、</span><br><span class='scene-font-katari'>寄せては返す波の音が</span><br><span class='scene-font-katari'>生きている実感を与えてくれたのだ。</span>,<span class='scene-font-katari'>背后一整面贴着热砂的触感，</span><br><span class='scene-font-katari'>和若远若近的海浪拍打声，</span><br><span class='scene-font-katari'>让她感觉到自己还活着。</span>
+4,,<span class='scene-font-katari'>そして自分の後頭部を支えてくれる</span><br><span class='scene-font-katari'>分厚い手のひらの感触も……</span>,<span class='scene-font-katari'>而且扶在自己头后部的厚实的手掌的触感也是……</span>
+5,メグ/梅格,<span class='scene-font-kokoro'>（男の人だ……</span><br><span class='scene-font-kokoro'>わたしを助けてくれたの？）</span>,（是位男性……</span><br><spanclass='scene-font-kokoro'>救了我吗？）</span>
+6,メグ/梅格,<span class='scene-font-kokoro'>（ヤダ……わたし、</span><br><span class='scene-font-kokoro'>いまどんな格好してるんだろう……）</span>,（讨厌……我现在是一副什么样子啊……）</span>
+11,,<span class='scene-font-katari'>精いっぱいの力を込めて、</span><br><span class='scene-font-katari'>まぶたを開こうとすると、</span><br><span class='scene-font-katari'>その隙間に見えたのは……</span>,<span class='scene-font-katari'>就在梅格使劲</span><br><span class='scene-font-katari'>睁开了沉重的眼皮后</span><br><span class='scene-font-katari'>在缝隙间，她看到的是……</span>
+13,メグ/梅格,う……<br><span class='scene-font-kokoro'>（え、なにか白いのが……）</span>,呜……<br><span class='scene-font-kokoro'>（诶，好像是有什么白的……）</span>
+14,メグ/梅格,<span class='scene-font-kokoro'>（もしかして……白馬の王子様？）</span>,<span class='scene-font-kokoro'>（难道说……是白马王子？）</span>
+15,,<span class='scene-font-katari'>徐々に焦点が定まってくると、</span><br><span class='scene-font-katari'>メグが見つめる白い物体は</span><br><span class='scene-font-katari'>ついに輪郭を表した。</span>,<span class='scene-font-katari'>梅格渐渐地把视线的焦距对准，</span><br><span class='scene-font-katari'>终于看清了那白色物体的轮廓。</span>
+19,？？？,良かった、気が付いたか！,太好了，你醒啦！
+21,メグ/梅格,<span class='scene-font-4'>ふぎゃあっ！！</span>,<span class='scene-font-4'>呜呀！！</span>
+22,？？？,おっと！　急に起き上がると<br>気分が悪くなるかもしれない。<br>まだ横になっていた方がいい。,哦哟！ 说不定是突然坐起来<br>你又不太舒服了。<br>你还是再躺一躺比较好。
+23,メグ/梅格,あ、あ……あぁ……！,啊、啊……啊啊……！
+24,,<span class='scene-font-katari'>衝撃的な目覚めを体験して</span><br><span class='scene-font-katari'>心臓が早鐘を打つメグに対し、</span><br><span class='scene-font-katari'>その男は言った。</span>,<span class='scene-font-katari'>受到了激烈的梦醒冲击</span><br><span class='scene-font-katari'>梅格心脏猛跳不停，</span><br><span class='scene-font-katari'>而那个男人继续向她说道。</span>
+25,ジン/仁,某はジンと申す。<br>海水浴客を狙う巨大魚を仕留めようと<br>沖合に出ていたのだが……,我叫仁。<br>为了收拾以海水浴游客为目标的巨大的鱼<br>来到了远海……
+26,ジン/仁,お主のうしろに迫り来る<br>あのウオノタユウを見つけた時には<br>すでに時遅く……,在我看到你身后的那条翻车鱼向你袭来的时候<br>已经为时已晚了……
+27,ジン/仁,出来たのは声を掛けることだけ。<br>面目ない……,我那时只能对你叫上一声。<br>真的是过于丢人……
+29,メグ/梅格,えと……あなたがわたしを<br>助けてくれたんですか……？<br>あ、ありがとうございます……,那个……是你救了我吗……？<br>谢、谢谢你救了我……
+30,ジン/仁,礼には及ばない……というよりも、<br>謝るべきはこちらの方かもしれん。,不必道谢……要这么说，<br>也应该是我向你道歉才是。
+35,ジン/仁,実は、我々の船が無人島へ向かう道中、<br>あの魚の縄張りに踏み込み<br>刺激してしまったようなのだ。,其实，我们的船在驶向无人岛的途中，<br>闯进了那条鱼的地盘，<br>好像是把它刺激了。
+36,メグ/梅格,はぁ……<br>無人島……？,哈……<br>无人岛……？
+37,ジン/仁,ああ。そこならばスイカが<br>手に入ると聞いてな。,啊啊。我们听说<br>去那里能摘到西瓜。
+42,ジン/仁,だがまさか、超巨大スイカとの<br>激闘が待ち受けているとは<br>夢にも思わなかったが……,但是没想到，等待着我们的<br>竟然是一场和超巨大西瓜的激斗<br>这我真是做梦都没想到过。
+43,,<span class='scene-font-katari'>ジンと名乗る男が話すことを</span><br><span class='scene-font-katari'>メグはさっぱり理解できなかったが、</span><br><span class='scene-font-katari'>ふいに海の方が騒がしくなり……</span>,<span class='scene-font-katari'>梅格完全无法理解这自称仁的男人所说的话，</span><br><span class='scene-font-katari'>就在这时，海边突然热闹了起来……</span>
+44,？？？,おい、ジン！<br>なにしてんだ？<br>ウオノタユウがまた出たみたいだぜ！,喂，仁！<br>你在做些什么啊？<br>翻车鱼好像又出来了啊！
+45,ヘルナル,本当にしつこいヤツだね。<br>いい加減にケリをつけないと、<br>ビーチから美女がいなくなっちゃうよ！,真是个烦人家伙啊。<br>不再快点把它收拾掉的话<br>海滩的美女都要没了！
+46,ジン/仁,承知！,了解！
+47,ジン/仁,具合が悪いところ、<br>医者にも連れて行けずすまない。<br>某は行かねば！,因为实在有事，<br>不能把你带到医生那儿，十分抱歉。<br>我必须得过去了！
+48,メグ/梅格,わたしはもう大丈夫なので……<br>ど、どうぞどうぞ……,我已经没关系了……<br>你、你就请过去吧……
+49,ジン/仁,かたじけない！<br>気をつけて帰られよ！,感激不尽！<br>那你回去的时候务必小心！
+51,,<span class='scene-font-katari'>男は波打ち際へ向かっていった。</span>,男人就这么往海边跑过去了。
+52,,<span class='scene-font-katari'>そして残されたメグは</span><br><span class='scene-font-katari'>男と共に戦う人影を目にすると、</span><br><span class='scene-font-katari'>こう思わざるを得なかった。</span>,<span class='scene-font-katari'>然后留在原地的梅格</span><br><span class='scene-font-katari'>看着和那男人一起战斗的人的身影，</span><br><span class='scene-font-katari'>一股想法油然而生。</span>
+53,メグ/梅格,<span class='scene-font-kokoro'>（おかしい人が現れたと思ったら、</span><br><span class='scene-font-kokoro'>やっぱりあのおかしな人達だったか</span><br><span class='scene-font-kokoro'>騎空団……とかいったっけ……）</span>,<span class='scene-font-kokoro'>（每次一想着遇到了什么奇怪的人，</span><br><span class='scene-font-kokoro'>那果然就是那奇怪的团体里的啊</span><br><span class='scene-font-kokoro'>好像说是……骑空团什么的……）</span>
+59,ビィ/碧,<span class='scene-font-4'>おい、そっち行ったぞ！</span>,<span class='scene-font-4'>喂，它去那边了啊！</span>
+60,ルリア/露莉亚,気をつけてください！,小心点哦！
+61,ヘルナル,わかってる！<br>オレが引きつけるよ！,知道！<br>我来勾引它！
+62,ジン/仁,観念してもらおう！<br><span class='scene-font-4'>ソイヤァアアアッ！！</span>,你就放弃挣扎吧！<br><span class='scene-font-4'>嘿呀呀呀呀呀呀呀呀！！</span>
+63,ウオノタユウ,…………！！,…………！！
+68,メグ/梅格,<span class='scene-font-kokoro'>（あの人達はどうして</span><br><span class='scene-font-kokoro'>あそこまで頑張って戦うんだろう……）</span>,<span class='scene-font-kokoro'>（为什么那些人</span><br><span class='scene-font-kokoro'>要那么努力去战斗啊……）</span>
+69,メグ/梅格,<span class='scene-font-kokoro'>（ここはバカンスの聖地、</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-kokoro'>だっていうのに……）</span>,<span class='scene-font-kokoro'>（明明这里是名为</span><span class='scene-font-place'>奥古斯提</span><span class='scene-font-kokoro'>的度假圣地啊……）</span>
+70,メグ/梅格,<span class='scene-font-kokoro'>（まぁいいや……</span><br><span class='scene-font-kokoro'>わたし、もう</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-kokoro'>には来ない。</span><br><span class='scene-font-kokoro'>こんな思いをし続けるのはムリ……）</span>,<span class='scene-font-kokoro'>（唉还是算啦……</span><br><span class='scene-font-kokoro'>我以后是再也不会来</span><span class='scene-font-place'>奥古斯提</span><span class='scene-font-kokoro'>了。</span><br><span class='scene-font-kokoro'>真的不想再继续这样的回忆了……）</span>
+71,メグ/梅格,<span class='scene-font-kokoro'>（今度こそさよなら……</span><br><span class='scene-font-kokoro'>わたしの</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-kokoro'>……）</span>,<span class='scene-font-kokoro'>（这次真的是不会再见了……</span><br><span class='scene-font-kokoro'>我心爱的</span><span class='scene-font-place'>奥古斯提</span><span class='scene-font-kokoro'>……）</span>
+72,,<span class='scene-font-katari'>騎空団と巨大魚が繰り広げる</span><br><span class='scene-font-katari'>波間の戦闘を</span><br><span class='scene-font-katari'>膝を抱えてぼんやり眺めていると……</span>,<span class='scene-font-katari'>梅格就这么静静地抱着膝盖</span><br><span class='scene-font-katari'>远眺着骑空团和巨大的鱼的战斗</span><br><span class='scene-font-katari'>就在那时……</span>
+74,まりっぺ,ヘルナル～？<br>ヘルナル、どこに行ったの～？,赫尔纳尔～？<br>赫尔纳尔，你去哪了啊～？
+75,,<span class='scene-font-katari'>姿をくらましたひと夏の相手を</span><br><span class='scene-font-katari'>探すまりっぺを横目に見ながら……</span>,<span class='scene-font-katari'>又一边侧眼看向</span><br><span class='scene-font-katari'>寻找着她的夏日玩伴的玛丽丽……</span>
+76,,<span class='scene-font-katari'>メグの夏は</span><br><span class='scene-font-katari'>今年も虚しく過ぎていくのだった。</span>,<span class='scene-font-katari'>梅格今年的这个夏天也是白过了。</span>
+info,,,scene_evt200729_cp3_q4_s10
+译者,,,Van

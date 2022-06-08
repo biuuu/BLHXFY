@@ -1,0 +1,105 @@
+id,name,text,trans
+0-chapter_name,,エンディング,エンディング
+0-synopsis,,ついに黒き怪物を撃破した一行とサンダルフォンは、それでもなお再生を図ろうとする怪物に驚愕する。しかしそこに駆けつけた四大天司ミカエル、ガブリエル、ラファエル、ウリエルの力を借りて、やっとのことでカナンに平穏を取り戻すことが出来た。こうして空の世界は災厄の再来を未然に防ぎ、一行は今後も共闘することになったサンダルフォンと共に旅を再開させるのだった。,姬塔一行和圣德芬终于击破黑色怪物，可即使如此那怪物竟然又开始恢复。最终借着四大天司米迦勒、加百列、拉斐尔、乌列尔的力量，才终于让迦南取回平静。就这样，为了防止灾厄再度来袭空之世界，一行人和今后会再次联手的圣德芬共同展开了旅程。
+1,,<span class='scene-font-katari'>予期せぬ共闘により、</span><br><span class='scene-font-katari'>アバターを倒した一行。</span>,<span class='scene-font-katari'>一行人凭借预料之外的联手，</span><br><span class='scene-font-katari'>总算将阿凡达打倒了。</span>
+2,,<span class='scene-font-katari'>気流も安定したところで</span><br><span class='scene-font-katari'>やっと一息つき、</span><br><span class='scene-font-katari'>帰路の算段をしていると……</span>,<span class='scene-font-katari'>气流也也终于安定下来，</span><br><span class='scene-font-katari'>总算能喘口气，计划回去时……</span>
+3,サンダルフォン/圣德芬,終わったのか、本当に。,真的结束了吗？
+4,ビィ/碧,うん？<br>何やってんだ、空の底なんか見てよ。,嗯？<br>你看着空底做什么？
+5,ルリア/露莉亚,あの、一緒に休憩しませんか？<br>珈琲じゃなくてお水ですけど……,那个，<br>要不要一起休息下？<br>不过没有咖啡只有水……
+6,サンダルフォン/圣德芬,俺はいい。<br>ただ、気になるんだ。,不用管我，<br>我只是有点不放心。
+7,サンダルフォン/圣德芬,ヤツの再生能力は常軌を逸して──,那家伙的再生能力超乎寻常——
+15,サンダルフォン/圣德芬,……！,……！
+41,アバターの咆哮,ゥ……オ……オオオ……,唔……哦……<br>哦哦哦……
+50,ラカム/拉卡姆,嘘だろ……！<br>まだ生きてるってのかよ！？,骗人的吧……！<br>它还活着啊！？
+51,カタリナ/卡塔莉娜,どうする……！<br>だがここでやらなければ……！,怎么办……！<br>不过必须得在这里了结……！
+52,サンダルフォン/圣德芬,クソ、無限のコアか……<br>いいだろう、無限に破壊してやる──,可恶，无限的核心吗……<br>也好，那就无限的破坏——
+61,ミカエル/米迦勒,なるほど。<br>単純だが、良い案だ。,原来如此。<br>虽然很简单，但是个好方法。
+62,サンダルフォン/圣德芬,なっ……,什……
+63,ミカエル/米迦勒,<span class='scene-font-4'>……はあぁぁぁ！</span>,<span class='scene-font-4'>哈啊……！</span>
+67,アバター,オオォ……！,哦哦哦……！
+68,イオ/伊欧,ミカエルさん！？<br>他の天司さん達も……！,米迦勒！<br>还有其他天司们……！
+77,ガブリエル/加百列,ふぅ……<br>良かった、間に合ったみたいね。,呵……<br>太好了，似乎赶上了。
+78,ウリエル/乌列尔,やれやれ、ここは俺らにとっちゃ<br>不利な地なんだけどな……<br>ただ見てるわけにもいかねぇだろ。,唉，虽然这里对我们<br>来说是不便之地……<br>但也不能袖手旁观啊。
+79,ラファエル/拉斐尔,…………,…………
+80,ハールート/哈露特,皆様……！<br>いらして下さったのですね！,大人们……！<br>你们来了！
+81,ミカエル/米迦勒,ご苦労だった、ふたりとも。<br>エーテルの安定と天国の門の崩壊で、<br>カナンまで直行する事が出来たのだ。,辛苦你们两个了。<br>因为以太得以安定和天国之门崩坏，<br>我们才能到达迦南。
+82,マールート/玛露特,ですが、天司長様は……,但是天司长大人他……
+83,ガブリエル/加百列,わかっているわ……<br>でも今は目の前の事に集中しましょう？,我们知道……<br>但现在先把精力集中<br>在眼前的事吧？
+84,サンダルフォン/圣德芬,……どうするつもりだ？,你们要做什么……？
+85,ミカエル/米迦勒,サンダルフォン……<br>どうするも何もない。<br>貴様が先刻、宣言したとおりだ。,圣德芬……<br>我们没想怎么样。<br>就如你刚才的宣言。
+86,ミカエル/米迦勒,<span class='scene-font-4'>……無限に破壊するぞ！</span>,<span class='scene-font-4'>无限地破坏吧……！</span>
+90,,<span class='scene-font-katari'>その言葉を合図に、</span><br><span class='scene-font-katari'>四大天司はアバターに全力を放った。</span>,<span class='scene-font-katari'>以那句话为信号，</span><br><span class='scene-font-katari'>四大天司全力迎击阿凡达。</span>
+91,ラファエル/拉斐尔,フンッ……！,哼……！
+95,アバター,オオオォォォ……,哦哦哦……
+96,,<span class='scene-font-katari'>その攻撃は止まる事を知らず……</span>,<span class='scene-font-katari'>攻击毫无停止之势……</span>
+97,ガブリエル/加百列,<span class='scene-font-4'>はあぁぁぁ！</span>,<span class='scene-font-4'>哈啊……！</span>
+101,,<span class='scene-font-katari'>アバターを抑え込み、</span><br><span class='scene-font-katari'>ついには追い詰めたのだった。</span>,<span class='scene-font-katari'>阿凡达被压制住，</span><br><span class='scene-font-katari'>终于被逼到了绝境。</span>
+102,ウリエル/乌列尔,おらおらおらぁ！,哦啦哦啦哦啦！
+106,アバター,ゥ……オ……,唔……
+109,ミカエル/米迦勒,今だ特異点、ヤツにとどめを！<br>空の未来を切り拓くのだ！！,趁现在特异点，结束那家伙！<br>开拓天空的未来！
+112,,<span class='scene-font-katari'>姬塔は頷き、</span><br><span class='scene-font-katari'>颯爽とアバターに飛び移った。</span>,<span class='scene-font-katari'>姬塔点点头，</span><br><span class='scene-font-katari'>飒爽地朝阿凡达冲去。</span>
+112-sel1_txt,,<span class='scene-font-katari'>剣を突き立てる</span>,<span class='scene-font-katari'>用剑刺去</span>
+117,アバター,グォォ！,咕哦！
+117-sel1_txt,,<span class='scene-font-katari'>剣でアバターの胸を貫く</span>,<span class='scene-font-katari'>贯穿阿凡达的胸口</span>
+129,アバター,オ……オオォ！！,哦……哦哦哦！
+130,ウリエル/乌列尔,コアは貫いた！<br>そのまま切り離せェ！！,刺中核心了！<br>就这样斩断它！！
+130-sel1_txt,,<span class='scene-font-katari'>剣でアバターを両断する</span>,<span class='scene-font-katari'>用剑将阿凡达斩断</span>
+136,,<span class='scene-font-katari'>姬塔の猛攻により、</span><br><span class='scene-font-katari'>アバターの心核とも言えるコアに、</span><br><span class='scene-font-katari'>決定的一撃を見舞ったのだった。</span>,<span class='scene-font-katari'>姬塔的猛攻对阿凡达可以说是</span><br><span class='scene-font-katari'>心核的核心发出最后一击。</span>
+139,アバター,ァァァ……！,啊啊啊……！
+139-sel1_txt,,<span class='scene-font-katari'>ルリア！！</span>,<span class='scene-font-katari'>露莉亚！！</span>
+140,ルリア/露莉亚,はい……！,好的……！
+146,ルリア/露莉亚,始原の竜、闇の炎の子。,原始之龙，暗之炎之子。
+147,ルリア/露莉亚,汝の名は……バハムート！,你的名字是……巴哈姆特！
+155,プロトバハムート,<span class='scene-font-4'>────！</span>,<span class='scene-font-4'>────！</span>
+176,ラカム/拉卡姆,やったか！？,成功了吗！？
+184,カタリナ/卡塔莉娜,その、ようだ……,似乎，是的……
+185,ミカエル/米迦勒,フッ……<br>流石だな。,呵……不愧是你。
+191,,<span class='scene-font-katari'>数日後……</span>,<span class='scene-font-katari'>几天后……</span>
+196,,<span class='scene-font-place'>ポート・ブリーズ</span><span class='scene-font-katari'>では、</span><br><span class='scene-font-katari'>復興記念祭を再開して、</span><br><span class='scene-font-katari'>更なる賑わいを見せていた。</span>,<span class='scene-font-place'>微风港</span><span class='scene-font-katari'>的复兴纪念祭再开，</span><br><span class='scene-font-katari'>这次更加热闹了。</span>
+197,元悪党１/原恶党１,やっぱ天才だぜ、ラカムは！<br>あの天国の門を突破するなんてよ！,拉卡姆果然是天才啊！<br>竟然能突破那个天国之门！
+198,ラカム/拉卡姆,はっはっは、何を言ってやがる。<br>お前さん達の協力あってこそだぜ！,哈哈哈，说什么呢。<br>是有你们的协助才办到的啊！
+199,元悪党２/原恶党２,オイゲンさん、あの……<br>騎空士ってどうやってなるんですかね？<br>資格試験とかあるんですか？,欧根，那个……<br>要怎么才能成为骑空士啊？<br>有资格考试什么的吗？
+200,オイゲン/欧根,なんだ、おい？<br>お前、騎空士になりてぇのか？<br>まぁ根性は合格ってとこだな！,什么啊喂？<br>你想做骑空士吗？<br>凭你的毅力倒是合格！
+201,魔導士/魔导士,えっ、本当にいいの？<br>ネックレス、譲って貰っても……,诶，真的可以吗？<br>你把项链让给我……
+202,イオ/伊欧,うん！　ねっ？　ロゼッタ。<br>みんなのお陰で、<br>最後まで頑張れたんだもん。,嗯！对吧？萝赛塔。<br>多亏了大家，<br>我们才能坚持到最后。
+203,ロゼッタ/萝赛塔,ふふふ、そうね。<br>ぜひ受け取って頂戴。<br>ちょっとした友情の証よ。,呵呵呵，是啊。<br>请务必收下，<br>这是我们的友情见证。
+206,警備隊長/警备队长,カタリナ殿～！<br>ぜひ受け取って頂きたい！<br>我が国の軍事顧問の勲章をッッッ！,卡塔莉娜~！<br>请务必接受我国军事顾问的勋章！
+211,カタリナ/卡塔莉娜,だ、だから……！<br>その気はないと言っているだろう！？,所，所以说……！<br>我说过没那个打算啊！？
+221,,<span class='scene-font-katari'>そんな喧騒の中、</span><br><span class='scene-font-katari'>姬塔達は艇に戻ると、</span><br><span class='scene-font-katari'>そこには鋭い視線を送る男がいた。</span>,<span class='scene-font-katari'>在这喧闹之中，</span><br><span class='scene-font-katari'>姬塔等人回到艇内，</span><br><span class='scene-font-katari'>那里有一个投来尖锐视线的男人。</span>
+222,サンダルフォン/圣德芬,ん……<br>まだ出発しないのか、特異点。,嗯……<br>还不打算出发吗，特异点？
+223,ビィ/碧,あのよぅ……<br>その呼び方、なんとかなんねぇのか？<br>呼びづれぇんじゃねーか？,那个啊……<br>你那称呼不变变吗？<br>叫起来不顺口吧？
+224,サンダルフォン/圣德芬,フン……<br>呼びづらいのは事実ではあるが。<br>善処しよう。,哼……<br>确实有点不顺口，<br>我会妥善处理的。
+225,,<span class='scene-font-katari'>サンダルフォンは、</span><br><span class='scene-font-katari'>今後も一行と共闘する事になった。</span>,<span class='scene-font-katari'>圣德芬今后将和一行人同行。</span>
+226,,<span class='scene-font-katari'>ルシフェルの力と意思を継ぎ、</span><br><span class='scene-font-katari'>まだどこかに眠っているかもしれぬ、</span><br><span class='scene-font-spword'>『ルシファーの遺産』</span><span class='scene-font-katari'>を破壊するために。</span>,<span class='scene-font-katari'>为了继承路西菲尔的力量与意志，</span><br><span class='scene-font-katari'>破坏可能还在哪里休眠的</span><br><span class='scene-font-spword'>『路西法的遗产』</span><span class='scene-font-katari'>。</span>
+227,,<span class='scene-font-katari'>一行もまた空の世界を守るため、</span><br><span class='scene-font-katari'>ルシファーに関わる存在を看過できず、</span><br><span class='scene-font-katari'>お互い利害と目的が一致したのだった。</span>,<span class='scene-font-katari'>一行人也为守护空之世界，</span><br><span class='scene-font-katari'>无法忽视与路西法有关的存在，</span><br><span class='scene-font-katari'>两边利害一致。</span>
+228,サンダルフォン/圣德芬,もどかしいな……<br>天司長の力さえ満ちれば……,好焦急……<br>如果天司长的力量充足的话……
+229,ビィ/碧,そんなに焦んなって。<br>あいかわらず四六時中、<br>張り詰めてやがんなぁ。,别那么着急啦，<br>你还真是一天到晚都紧绷绷的。
+230,サンダルフォン/圣德芬,……君等が緩んでいるのでは？,不是你们太松懈了吗……？
+231,ビィ/碧,な、なんだとぉ！？<br>ほんと憎たらしいヤツだぜ……<br>ちゃんと空を守る気あるのか？,什，什么！？<br>真是讨厌的家伙……<br>你真的有保护天空的念头吗？
+232,ルリア/露莉亚,ま、まぁまぁビィさん……<br>サンダルフォンさんも、ね？<br>空を守って罪を償うんですよね。,算，算啦碧……<br>圣德芬也要保护天空<br>来补偿罪责对吧。
+233,サンダルフォン/圣德芬,結果論的にね。<br>あの御方の意思のために俺は在る。<br>それは偶々、空を守る事にもなる。,就结果来说是的。<br>为了那位大人的意志我才在这里。<br>然后偶尔做点保护天空的事。
+234,ビィ/碧,うわぁ……<br>心底ひねてやがる……,呜哇……<br>还真是别扭的家伙……
+235,ルリア/露莉亚,す、素直じゃないんですよ。<br>心の中では色々ちゃんと考えてて……,就，就是不坦率而已啦，<br>他心里一定有很多考虑……
+236,サンダルフォン/圣德芬,フッ……<br>ナンセンスだ。,哼……无聊。
+247,サンダルフォン/圣德芬,<span class='scene-font-kokoro'>（どうして空は蒼いのか。</span><br><span class='scene-font-kokoro'>願いとなった問いに、貴方は</span><br><span class='scene-font-kokoro'>ひどく惹かれていた）</span>,<span class='scene-font-kokoro'>（为什么天空如此湛蓝。</span><br><span class='scene-font-kokoro'>化为心愿的提问，</span><br><span class='scene-font-kokoro'>非常牵动您的思绪。）</span>
+248,サンダルフォン/圣德芬,<span class='scene-font-kokoro'>（非合理な思考であるからこそ</span><br><span class='scene-font-kokoro'>俺たち獣も羨望するのだろうか？）</span>,<span class='scene-font-kokoro'>（但这种不合常理的思考正是</span><br><span class='scene-font-kokoro'>我们兽羡慕的地方吧？）</span>
+249,サンダルフォン/圣德芬,<span class='scene-font-kokoro'>（親である</span><span class='scene-font-spword'>星の民</span><span class='scene-font-kokoro'>には</span><br><span class='scene-font-kokoro'>備わっていないものだから……</span><br><span class='scene-font-kokoro'>自立できる未来を夢見て……）</span>,<span class='scene-font-kokoro'>（因为这是我们的亲属</span><span class='scene-font-spword'>星之民</span><br><span class='scene-font-kokoro'>所不具备的……</span><br><span class='scene-font-kokoro'>梦想着能够独立的未来……）</span>
+250,サンダルフォン/圣德芬,<span class='scene-font-kokoro'>（貴方の言う進化の道筋。</span><br><span class='scene-font-kokoro'>その先を、見届けてみせます）</span>,<span class='scene-font-kokoro'>（今后我会看着您说的进化之道。）</span>
+251,,<span class='scene-font-katari'>こうして再び、</span><br><span class='scene-font-katari'>一行は空の旅を続けるのだった。</span>,<span class='scene-font-katari'>就这样，</span><br><span class='scene-font-katari'>一行人的空之旅途再次启动。</span>
+261,,<span class='scene-font-katari'>だが、その一方で……</span>,<span class='scene-font-katari'>但是，另一方面……</span>
+266,黒衣の男/黑衣男,成る程……,原来如此……
+267,黒衣の男/黑衣男,カナンの崩壊によって天司長の<br>残り香も消え失せたと思ったが<br>後継が機能したのは予想外だったな。,本以为破坏了迦南，<br>天司长的余香就会消失，<br>后继者的机能启动出乎我的意料。
+268,黒衣の男/黑衣男,だがそれは瑣末な事か。<br>それよりも──,但那都是小事，<br>比起这个——
+269,黒衣の男/黑衣男,二対の<span class='scene-font-spword'>『ルシファーの遺産』</span>……<br>白の方は惜しくも失ったが<br>黒を得られただけでも僥倖よ。,两个<span class='scene-font-spword'>『路西法的遗产』</span>……<br>失去了白的虽然有点可惜，<br>但能得手黑的真是侥幸。
+270,アバターの残滓,ゥゥ……ァ……,唔唔……啊……
+271,黒衣の男/黑衣男,もうすぐだ……<br>長き時を経て、計画は最終段階に来た。,快了……<br>长久以来的计划到了最终阶段。
+272,黒衣の男/黑衣男,ルシファー……見ているか？<br>貴様との戦いは、<br>世界の統合を以って決着よ。,路西法……你在看着吗？<br>你和我的争斗，<br>就以世界的统一来终结吧。
+273,黒衣の男/黑衣男,全てを一に束ね、<br>余は全となる。,一切归一，<br>其余变得完整。
+279,ベリアル/贝利尔,あ～あ……<br>結局バブさんが一番楽しやがった。<br>一番身体張ったのオレだよ。,啊啊~<br>到头来最开心的的是巴布，<br>明明最卖力的是我来着。
+280,ベリアル/贝利尔,まぁ〜いいか。<br>お陰で「身体」は手に入った。<br>後は「首」をどうするか、だけど……,不过算了，<br>托他的福「身体」得手了。<br>接下来是「头」该怎么办……
+281,ベリアル/贝利尔,バブさんにはちょっと萎えたし<br>オレも遊んでみよっかなあ？,对巴布没什么兴趣了，<br>我也来玩玩好了？
+282,,<span class='scene-font-katari'>邪悪なる意思は、</span><br><span class='scene-font-katari'>その手を再び空に伸ばさんとする。</span>,<span class='scene-font-katari'>邪恶的意志之手，</span><br><span class='scene-font-katari'>再次伸向天空。</span>
+283,,<span class='scene-font-katari'>「世界」に向けられた</span><br><span class='scene-font-katari'>圧倒的な「悪意」との衝突は</span><br><span class='scene-font-katari'>最早避けられない。</span>,<span class='scene-font-katari'>对「世界」压倒性的「恶意」</span><br><span class='scene-font-katari'>和那冲击已经无法避免。</span>
+284,,<span class='scene-font-katari'>近い未来、天司達の因縁は</span><br><span class='scene-font-katari'>最後の決着を迎える事となる──</span>,<span class='scene-font-katari'>在不久的将来，</span><br><span class='scene-font-katari'>与天司们的因缘即将迎来<br><span class='scene-font-katari'><span>最终的了结——</span>
+289,,　<br>　<br><span class='scene-font-katari'>　　　　　　　　　　　　　　　──完</span>,　<br>　<br><span class='scene-font-katari'>　　　　　　　　　　　　　　　──完</span>
+info,,,scene_evt180228_cp0_q2_s10

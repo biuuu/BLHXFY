@@ -1,0 +1,47 @@
+id,name,text,trans
+0-chapter_name,,第1話 蒼海を征くメグ,第1话 征服苍海的梅格
+0-synopsis,,屋外から聞こえてきたのは、お祭りを楽しむ人々の声かもしれない。そう考えたメグは自分も参加できないだろうかとご機嫌で扉を開ける。しかし目の前に現れたのは巨大魚。さらに巨大魚と戦う無数の人影も目にしたが、あまりの衝撃的な光景に気を失ってしまう。それ以降、トラウマを抱えたメグは一歩も外に出られなくなり、そのまま帰郷の日を迎えたのだった。,屋外传来的也许是参加祭典的人们的欢呼声。这么想着的梅格想看看自己能不能参加而心情愉快地打开了门。但是在她眼前出现的是巨大的鱼。然后还有无数与巨大的鱼战斗的身影。因为这画面过于冲击而失去了意识。在那之后，心灵收到创伤的梅格无法跨出门一步，就这样迎来了回家的日子。
+3,？？？,私達も行きましょう！,我们也去吧！
+4,？？？,よぉし！<br>気合い入れてけ！,好！鼓起精神！
+8,メグ/梅格,な、なになになになに？<br>いったい外でなにをやってるの？,什，什么什么什么什么？<br>外面到底在干什么？
+9,,<span class='scene-font-katari'>屋外がやけに騒がしくなったことで</span><br><span class='scene-font-katari'>メグは不安に駆られたが、</span><br><span class='scene-font-katari'>しばらくして思い当たった。</span>,<span class='scene-font-katari'>屋子外的喧嚣让梅格感到不安，</span><br><span class='scene-font-katari'>但很快她就有了想法。</span>
+10,メグ/梅格,もしかして……,难道说……
+11,メグ/梅格,ユディスティラ島って<br>夜にお祭りをするのかな？,由迪斯提拉岛<br>在晚上晚上会举行什么祭典吗？
+12,メグ/梅格,<span class='scene-font-kokoro'>（そっか～！</span><br><span class='scene-font-kokoro'>リゾート地だもんね～）</span>,<span class='scene-font-kokoro'>（也是哦～！</span><br><span class='scene-font-kokoro'>毕竟是度假胜地呢～）</span>
+13,メグ/梅格,ちょっと覗いちゃお♪<br>わたしも参加できるのかな？,让我瞥一眼♪<br>说不定还能参加呢？
+20,,<span class='scene-font-katari'>上機嫌で屋外に出ると、</span><br><span class='scene-font-katari'>メグはなにか大きなものが</span><br><span class='scene-font-katari'>目の前にあることに気づいた。</span>,<span class='scene-font-katari'>梅格开开心心地出了门，</span><br><span class='scene-font-katari'>随后，她注意到自己面前有什么非常巨大的东西。</span>
+21,？？？,…………,…………
+22,メグ/梅格,うん……？<br>なんだろ、これ……<br>こんなのあったっけ？,嗯……？<br>什么啊，这是……？<br>还有这种东西存在吗？
+23,,<span class='scene-font-katari'>明るい室内から暗い外に出たメグは</span><br><span class='scene-font-katari'>正面の物体をペタペタと触ってみるが、</span><br><span class='scene-font-katari'>その正体は見当もつかない。</span>,<span class='scene-font-katari'>从明亮的室内到黑暗的外面的梅格，</span><br><span class='scene-font-katari'>虽然试着摸了摸面前黏糊糊的物体，</span><br><span class='scene-font-katari'>但实在是猜不出那到底是什么。</span>
+24,メグ/梅格,う～ん……？,嗯～……？
+25,,<span class='scene-font-katari'>じっと目を凝らしていると、</span><br><span class='scene-font-katari'>それは次第に輪郭を持ち、</span><br><span class='scene-font-katari'>やがてはっきりと正体を現した。</span>,<span class='scene-font-katari'>稍微盯着看了下，</span><br><span class='scene-font-katari'>逐渐有了轮廓，</span><br><span class='scene-font-katari'>终于看出了原来的样子。</span>
+28,？？？,…………！！,…………！！
+29,メグ/梅格,<span class='scene-font-4'>ほんぎゃああああぁぁぁッ！？</span>,<span class='scene-font-4'>什么啊啊啊啊啊！？</span>
+31,？？？,そっちへ行ったぞ！　シグ！,它去那里了！ 希格！
+32,？？？,ああ、任せておきな！,啊，交给我！
+33,？？？,…………！？,…………！？
+34,？？？,<span class='scene-font-5'>うおおぉぉッ！！</span>,<span class='scene-font-5'>呜哦哦！！</span>
+35,？？？,<span class='scene-font-4'>…………！！</span>,<span class='scene-font-4'>…………！！</span>
+39,メグ/梅格,あ、あああ、あわわわばばばば……,啊，啊啊啊，啊哇哇哇吧吧吧吧……
+40,？？？,<span class='scene-font-4'>よっしゃあ！</span><br>ようやく倒したな！,<span class='scene-font-4'>好！</span><br>终于打倒了！
+41,？？？,やりましたね、シグさん！,做得好啊，希格！
+42,,<span class='scene-font-katari'>メグが暗がりに見たのは、</span><br><span class='scene-font-katari'>目の前に現れた巨大な魚と</span><br><span class='scene-font-katari'>それと戦う無数の不審な人影……</span>,<span class='scene-font-katari'>梅格在暗处看到的，</span><br><span class='scene-font-katari'>是与面前的巨大的鱼和战斗的</span><br><span class='scene-font-katari'>无数奇怪的人影……</span>
+43,メグ/梅格,う～ん……,嗯～……
+50,,<span class='scene-font-katari'>現実離れした光景を目撃したメグは</span><br><span class='scene-font-katari'>その衝撃を受け止めきれず、</span><br><span class='scene-font-katari'>気を失ってしまうのだった。</span>,<span class='scene-font-katari'>梅格看到了脱离了现实的画面，</span><br><span class='scene-font-katari'>承受不住内心的冲击，</span><br><span class='scene-font-katari'>就这么失去了意识。</span>
+51,,<span class='scene-font-katari'>そして……</span>,<span class='scene-font-katari'>然后……</span>
+55,,<span class='scene-font-katari'>後に巨大魚の名前が</span><br><span class='scene-font-katari'>アルバコアということを聞かされたが、</span><br><span class='scene-font-katari'>それで恐怖が和らぐことはなく……</span>,<span class='scene-font-katari'>虽然之后知道了那个巨大的鱼的名字</span><br><span class='scene-font-katari'>叫长鳍金枪鱼，</span><br><span class='scene-font-katari'>但是完全无法缓和内心的恐惧感……</span>
+61,,<span class='scene-font-katari'>メグはこのバカンス中、</span><br><span class='scene-font-katari'>一歩も外に出ることができなくなり、</span><br><span class='scene-font-katari'>そのまま帰郷の日を迎えたのだった。</span>,<span class='scene-font-katari'>梅格在度假中变得完全无法出门，</span><br><span class='scene-font-katari'>就这样迎来了回家的日子。</span>
+67,船員,おや、お嬢さん！<br><span class='scene-font-place'>アウギュステ</span>は楽しめたかな？,哦，小姐！在<br><span class='scene-font-place'>奥古斯提</span>玩得开心吗？
+68,メグ/梅格,<span class='scene-font-2'>…………</span>,<span class='scene-font-2'>…………</span>
+69,船員,ん？<br>お、お嬢さん……？,嗯？<br>小、小姐……？
+72,メグ/梅格,<span class='scene-font-2'>アルバ怖いアルバ怖いアルバ怖い……</span>,<span class='scene-font-2'>金枪鱼可怕金枪鱼可怕金枪鱼可怕……</span>
+73,ホテル支配人,あの……お客様はユディスティラ島で<br>トラブルに巻き込まれてしまい……<br>それ以来、この調子でして……,那个……这位客人在由迪斯提拉岛被卷入了事故……<br>然后从那时起就一直这样……
+74,船員,えぇ？　そうなのかい……？<br>あんなに<span class='scene-font-place'>アウギュステ</span>を<br>楽しみにしてたっていうのに……,诶？ 这样啊……？<br>明明对<span class='scene-font-place'>奥古斯特</span>这么期待的……
+75,ホテル支配人,本当に気の毒なことで……<br>どうかこちらのお客様を……<br>メグ様をよろしくお願いいたします。,真的非常不幸……还请多照顾这位客人……<br>梅格大人就拜托你了。
+76,メグ/梅格,<span class='scene-font-2'>アルバ怖いアルバ怖いアルバ怖い……</span>,<span class='scene-font-2'>金枪鱼可怕金枪鱼可怕金枪鱼可怕……</span>
+77,,<span class='scene-font-katari'>支配人は船員に</span><br><span class='scene-font-katari'>放心状態のメグを預けると、</span><br><span class='scene-font-katari'>定期船を降りて港に戻った。</span>,<span class='scene-font-katari'>管理人把六神无主的梅格交给船员后，</span><br><span class='scene-font-katari'>就从下了船回到了港口。</span>
+78,,<span class='scene-font-katari'>そして甲板の隅で膝を抱えて</span><br><span class='scene-font-katari'>つぶやき続けるメグをそのままに、
+</span><br><span class='scene-font-katari'>艇は</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>を発つのだった。</span>,
+<span class='scene-font-katari'>就这样带着在甲板上抱着膝盖不停小声咕嘟的梅格，</span><br><span class='scene-font-katari'>船离开了</span><span class='scene-font-place'>奥古斯提</span>。
+info,,,scene_evt200729_cp1_q4_s10
+译者,,,卜葛
