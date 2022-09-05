@@ -3,7 +3,7 @@ id,name,text,trans
 0-synopsis,,知恵を求めて賢者ゼエンの住む<span class='scene-font-place'>クルーガー島</span>を訪れた一行は、幽霊の少女・フェリと再会する。フェリは幽世を通して姬塔の声を聞き、助けに来たのだという。「幽世から連れ戻すには命のリンクのような引き合う力が必要」というフェリの助言から、空図の欠片を利用することを思いつく一行。しかし、空図の欠片が足りないことに頭を悩ませていると、そこへゼエンが現れる。,访问了寻求智慧的贤者泽恩所在的克鲁加岛的一行人，与幽灵的少女菲利再会了。菲利是在幽世听到了姬塔他们的声音后，来帮他们的。“如果想要把他们从幽世带回来的话，需要像是生命连接这样的吸引力”，听了菲利的助言后，一行人明白了空图碎片的利用方法。但是，正在他们为空图的碎片不足而烦恼的时候，泽恩现身了。
 1,,<span class='scene-font-katari'>幽世に連れて行かれた</span></span><br><span class='scene-font-katari'>ルリア達の救出に向け動き出す</span></span><br><span class='scene-font-katari'>姬塔一行。</span></span>,为了拯救落入幽世的<br>露莉亚一行的姬塔等人。
 2,,<span class='scene-font-katari'>一行は知恵と手がかりを求め、</span></span><br><span class='scene-font-katari'>賢者とも呼ばれるゼエンの住む</span></span><br><span class='scene-font-place'>クルーガー島</span><span class='scene-font-katari'>へと艇を進める。</span>,驾驶着飞艇，<br>到达了寻求着智慧的贤者，<br>也就是泽恩所在的克鲁加岛。
-8,,<span class='scene-font-katari'>辿りついた賢者の島では、</span></span><br><span class='scene-font-katari'>思わぬ再会が</span></span><br><span class='scene-font-katari'>姬塔を出迎えるのだった。</span></span>,到达了贤者的岛上以后，<br>未曾想过的再会<br>出来迎接了姬塔。
+8,,<span class='scene-font-katari'>辿りついた賢者の島では、</span></span><br><span class='scene-font-katari'>思わぬ再会が</span></span><br><span class='scene-font-katari'>姬塔を出迎えるのだった。</span></span>,到达了贤者的岛上以后，<br>姬塔迎来了<br>未曾想过的再会。
 9,フェリ/菲莉,──姬塔っ！,——姬塔！
 9-sel1_txt,,<span class='scene-font-katari'>フェリ！？</span></span>,菲利！？
 9-sel2_txt,,<span class='scene-font-katari'>フェリちゃん！？</span></span>,菲利酱！？
@@ -14,7 +14,7 @@ id,name,text,trans
 16,フェリ/菲莉,私も力になる。<br>あの<span class='scene-font-place'>霧の島</span>で姬塔が、<br>私を救ってくれたように。,我也会成为你的力量。<br>就像姬塔在那个雾之岛救了我一样。
 17,イオ/伊欧,えっと……<br>なんで？　どうしてフェリがここに？,那个……为什么？<br>为什么菲利会在这里？
 19,フェリ/菲莉,ああ、ええと……<br>どこから説明したものかな……,啊啊，那个……<br>应该从哪里开始说明好呢……
-20,,<span class='scene-font-katari'>フェリは姬塔から離れると、</span></span><br><span class='scene-font-katari'>考えをまとめるように手を動かす。</span></span>,菲利在离开了姬塔等人之后，<br>整理了思绪后才决定行动的。
+20,,<span class='scene-font-katari'>フェリは姬塔から離れると、</span></span><br><span class='scene-font-katari'>考えをまとめるように手を動かす。</span></span>,菲利在放开了姬塔之后，<br>整理了思绪后才决定行动的。
 21,フェリ/菲莉,とにかく声が聞こえたんだ。<br>おそらくは幽世を通して、<br>姬塔の声が。,总之就是我听到了你们的声音。<br>恐怕是通过幽世传来的，<br>姬塔的声音。
 22,ロゼッタ/萝赛塔,幽世を通して……？,通过幽世……？
 23,フェリ/菲莉,そう。<br>みんなも知っての通り、私は幽霊だ。<br>生者であり死者でもある。,没错。<br>正如大家知道的那样，我是幽灵。<br>既是生者也是死者。
@@ -55,7 +55,7 @@ id,name,text,trans
 72,フェリ/菲莉,ありがとう……<br>そう言ってもらえると私も救われる。,谢谢……<br>如果你这么说的话我可就得救了。
 73,フェリ/菲莉,ふふ……<br>礼を言われることじゃないさ。,呼呼……<br>不必道谢。
 74,フェリ/菲莉,私が君を<br>放っておけなかっただけの話だからな。,我只是不能放着你不管而已。
-75,,<span class='scene-font-katari'>フェリは空気を切り替えるように、</span></span><br><span class='scene-font-katari'>咳払いをひとつすると、</span></span><br><span class='scene-font-katari'>背筋を正す。</span></span>,菲利就像是要转变氛围是的，<br>咳了一声吼，挺直了背。
+75,,<span class='scene-font-katari'>フェリは空気を切り替えるように、</span></span><br><span class='scene-font-katari'>咳払いをひとつすると、</span></span><br><span class='scene-font-katari'>背筋を正す。</span></span>,菲利就像是要转变氛围似的，<br>咳了一声后，挺直了背。
 76,フェリ/菲莉,とにかく私は、<br>姬塔達を<br>手助けするために来たんだ。,总之，我是来帮姬塔你们的。
 77,フェリ/菲莉,状況はだいたいわかってる。<br>その上で私には<br>力になれることがある。,状况我大概知道了。<br>在这里，也有我的力量能做到的事。
 78,フェリ/菲莉,私は生と死の狭間に立つ者だから、<br>幽世からこちらの世界へ来るための、<br>目印になるみたいなんだ。,我是在生与死的夹缝中存在的人，<br>要从幽世返回这边的世界，<br>我能当做道标。

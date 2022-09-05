@@ -18,7 +18,7 @@ id,name,text,trans
 37,フュリアス/弗里亚斯,やめろ！　来るな！　近づくな！<br>僕の顔で近づいてくるな！,不要啊！别过来！不要靠近我！<br>不要离我的脸那么近！
 38,フュリアス/弗里亚斯,この……<br><span class='scene-font-4'>偽物の分際でぇェェェ！！</span>,你这个……明明是个假冒品！！！
 42,,<span class='scene-font-gray'>ほとんど満身創痍の相手を始末するのは</span><br><span class='scene-font-gray'>あまりに容易いことだった。</span>,处理掉几乎是满身疮痍的对手，<br>简直太容易了。
-43,,<span class='scene-font-gray'>こうしてオリジナルを始末した僕は、</span><br><span class='scene-font-gray'>晴れて偽物から本物になった。</span>,就这样处理到原型的我，<br>毫无疑问已经不实在是假货，<br>而是本尊了。
+43,,<span class='scene-font-gray'>こうしてオリジナルを始末した僕は、</span><br><span class='scene-font-gray'>晴れて偽物から本物になった。</span>,就这样处理掉原型的我，<br>毫无疑问已经不实在是假货，<br>而是本尊了。
 44,,<span class='scene-font-gray'>──そのはずだった。</span>,——就是这样。
 49,フュリアス/弗里亚斯,僕が……本物を始末した。,我……把本尊给处理掉了。
 50,フュリアス/弗里亚斯,本物は僕だ。<br>僕が本物、僕がオリジナル……,我就是本尊。<br>本尊就是我，我就是原型……
@@ -39,7 +39,7 @@ id,name,text,trans
 69,フュリアス/弗里亚斯,いい……僕は最初からもう長くない。<br>治癒は無意味だ。<br>そういう歪んだ存在なんだ。,不了……我本来就活不长。<br>治疗是无意义的。<br>我就是这种扭曲的存在啊。
 70,イオ/伊欧,なにそれ……,那是什么……
 71,ロゼッタ/萝赛塔,やっぱり貴方……<br>ただあのフュリアスが<br>生き延びたわけじゃないのね？,果然你……<br>不只是那个菲利亚斯生命的延续而已吗？
-72,フュリアス/弗里亚斯,さぁ……どうだかな。,
+72,フュリアス/弗里亚斯,さぁ……どうだかな。,呵……谁知道呢。
 73,,<span class='scene-font-katari'>息も絶え絶えに、</span><br><span class='scene-font-katari'>ハーヴィンの青年は</span><br><span class='scene-font-katari'>ロイドの行方について説明する。</span>,断断续续呼吸着的矮人族青年，<br>说明着罗伊德的去向。
 74,フュリアス/弗里亚斯,ロイドは<br>紫の騎士の小型艇に積んである。<br>もう<span class='scene-font-place'>バルツ</span>を発っているだろうがな。,罗伊德被放在紫之骑士的小型艇里，<br>正要从巴尔兹出发。
 75,フュリアス/弗里亚斯,ただ、ロイドから<br>アーカーシャを取り出すのは、<br>誰にでも出来ることじゃない。,只不过，<br>把阿卡夏从罗伊德的身体里取出，<br>并不是谁都做不到的事。
@@ -73,7 +73,7 @@ id,name,text,trans
 107,オルキス/欧尔姬丝,はぁ……はぁ……<br>追いついた……,哈……哈……<br>终于追上了。
 108,オーキス/欧姬丝,姬塔さん……<br>この状況は……,姬塔……这状况是……
 109,ツヴァイ,あ……ああ……,啊……啊啊……
-110,,<span class='scene-font-katari'>振り返れば、</span><br><span class='scene-font-katari'>己の身を焦がすほど憎んだ</span><br><span class='scene-font-katari'>オリジナルがいる。</span>,回过看去，<br>在那里的是自己恨不得要把她<br>烧焦的原型。
+110,,<span class='scene-font-katari'>振り返れば、</span><br><span class='scene-font-katari'>己の身を焦がすほど憎んだ</span><br><span class='scene-font-katari'>オリジナルがいる。</span>,回头看去，<br>在那里的是自己恨不得要把她<br>烧焦的原型。
 111,,<span class='scene-font-katari'>その炎は弱まりつつあったものの、</span><br><span class='scene-font-katari'>その存在を受け入れるには、</span><br><span class='scene-font-katari'>少女にはまだ時間が必要だった。</span>,虽然仇恨的火炎减弱了不少，<br>但要接受她的存在，<br>少女还需要一段时间。
 112,,<span class='scene-font-katari'>そして正面。</span><br><span class='scene-font-katari'>そこには血濡れのフュリアスを抱く、</span><br><span class='scene-font-katari'>姬塔達の姿。</span>,然后正面的是。<br>就这么抱着满身鲜血的菲利亚斯<br>的姬塔。
 113,,<span class='scene-font-katari'>それは正義の結果なのかもしれない。</span><br><span class='scene-font-katari'>しかし、善悪を問わず、</span><br><span class='scene-font-katari'>少女にはその血の赤さだけが目につく。</span>,也许这是正义的结局。<br>但与善恶无关，<br>少女的眼中只有宛如鲜血一般的赤红。
@@ -85,7 +85,7 @@ id,name,text,trans
 119,ツヴァイ,…………,…………
 120,オルキス/欧尔姬丝,待って！　だめっ！,等等！不可以！
 121,ルリア/露莉亚,ツヴァイちゃんっ！！,zwei酱！！
-124,,<span class='scene-font-katari'>少女はロキの手を取り、</span><br><span class='scene-font-katari'>瞬く間に姬塔達の前から</span><br><span class='scene-font-katari'>姿を消す。</span>,少女牵起了洛基的手。<br>瞬间在姬塔等人消失了身影。
+124,,<span class='scene-font-katari'>少女はロキの手を取り、</span><br><span class='scene-font-katari'>瞬く間に姬塔達の前から</span><br><span class='scene-font-katari'>姿を消す。</span>,少女牵起了洛基的手。<br>瞬间从姬塔等人面前消失了身影。
 125,,<span class='scene-font-katari'>その時、</span><span class='scene-font-place'>バルツ公国</span><span class='scene-font-katari'>の地下には、</span><br><span class='scene-font-katari'>まるで死のような静寂だけが、</span><br><span class='scene-font-katari'>ただただ響いていたのだった。</span>,这是，巴尔兹公国的地下，<br>宛如死一般的寂静，<br>正不断回响着。
 131,,<span class='scene-font-katari'>激戦の末、エルステ王国軍の手により、</span><br><span class='scene-font-place'>バルツ</span><span class='scene-font-katari'>は無事、</span><br><span class='scene-font-katari'>占領状態から解放される。</span>,在激战的最后，在埃尔斯特王国军的<br>努力之下，巴尔兹顺利地<br>从占领状态被解放了。
 132,,<span class='scene-font-katari'>指導者を失った神聖エルステ帝国は、</span><br><span class='scene-font-katari'>なし崩し的にそのまま瓦解。</span>,失去了指挥者的神圣埃尔斯特帝国，<br>就这么崩溃瓦解掉了。

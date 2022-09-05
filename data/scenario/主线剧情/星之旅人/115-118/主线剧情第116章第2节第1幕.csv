@@ -20,7 +20,7 @@ id,name,text,trans
 31,神聖エルステ帝国兵１,全軍撤退！　撤退しろ！<br>この戦場はただちに放棄する！,全军撤退！撤退！<br>放弃这个战场！
 32,,<span class='scene-font-katari'>姬塔達の登場により、</span><br><span class='scene-font-katari'>戦況は一変しつつあった。</span>,姬塔等人的登场，<br>改变了这一战局。
 33,ビィ/碧,お？<br>あいつら、<br>自分とこの艇に帰り始めたぜ！,哦？<br>那些家伙开始返回<br>自己的骑空艇上了！
-34,オイゲン/欧根,おう、退いとけ退いとけ！<br>オレ達も、徹底的にやり合おう、<br>ってんじゃあねぇからな！,哦，别逃啊别套啊！<br>我们还没打得尽兴呢！
+34,オイゲン/欧根,おう、退いとけ退いとけ！<br>オレ達も、徹底的にやり合おう、<br>ってんじゃあねぇからな！,哦，别逃啊别逃啊！<br>我们还没打得尽兴呢！
 35,オルキス/欧尔姬丝,すごい……<br>姬塔さん達が来た途端、<br>あっという間に……,真厉害……<br>姬塔他们来的瞬间，<br>就变成了这样……
 36,ポンメルン/伯梅伦,やれやれ……<br>さすがに今回は、<br>肝を冷やしましたネェ……,哎呀哎呀……<br>这回可真是，<br>让人吓破了胆呀……
 37,,<span class='scene-font-katari'>わずかに弛緩した空気が漂う中、</span><br><span class='scene-font-katari'>帝国軍戦艦を注視していたイオが、</span><br><span class='scene-font-katari'>何かに気付いた様子で声を上げる。</span>,趁着氛围变得稍微轻松了些，<br>伊欧注视着帝国军的战舰，<br>然后就像是察觉到了什么似的叫出了声。
@@ -40,7 +40,7 @@ id,name,text,trans
 53,オルキス/欧尔姬丝,<span class='scene-font-kokoro'>（確かに似てる……</span><br><span class='scene-font-kokoro'>けど、あれはオーキスじゃない）</span>,（确实很相似……<br>但那并不是欧姬丝）
 54,オルキス/欧尔姬丝,<span class='scene-font-kokoro'>（でも、それじゃあ、</span><br><span class='scene-font-kokoro'>あの子はいったい……誰？）</span>,（但是，这么一来的话，<br>那孩子到底是……谁？）
 62,,<span class='scene-font-katari'>成り行きではあったものの、</span><br><span class='scene-font-katari'>オルキス達に加勢し、</span><br><span class='scene-font-katari'>神聖エルステ帝国軍を撤退させた一行。</span>,一行人趁着这个机会，<br>支援着欧尔姬丝等人，击退了神圣埃尔斯特帝国军。
-63,,<span class='scene-font-katari'>互いの無事を喜び合うのも束の間、</span><br><span class='scene-font-katari'>オルキス達と姬塔達は、</span><br><span class='scene-font-katari'>互いのこれまでを確認し合うのだった。</span>,在为对方的平安无事开心之时，<br>欧尔姬丝一行和姬塔异性，<br>相互确认起了迄今为止的动向。
+63,,<span class='scene-font-katari'>互いの無事を喜び合うのも束の間、</span><br><span class='scene-font-katari'>オルキス達と姬塔達は、</span><br><span class='scene-font-katari'>互いのこれまでを確認し合うのだった。</span>,在为对方的平安无事开心之时，<br>欧尔姬丝一行和姬塔一行，<br>相互确认起了迄今为止的动向。
 64,オルキス/欧尔姬丝,──そっか。<br>ナル・グランデ空域で、<br>そんなことがあったんだ……,——原来如此。<br>在纳尔格兰迪空域，<br>竟然发生了这样的事……
 65,オルキス/欧尔姬丝,うん……<br>はぐれちゃったオーキス達のことも<br>心配だけど……,嗯……<br>虽然我也很担心走散了的欧姬丝他们……
 66,オルキス/欧尔姬丝,ひとまず……<br>おかえりなさい！　姬塔さん！<br>それに皆さんも！,首先……欢迎回来！<br>姬塔也是！大家也是！
@@ -71,7 +71,7 @@ id,name,text,trans
 95,イオ/伊欧,バ、<span class='scene-font-place'>バルツ</span>だって！<br><span class='scene-font-place'>バルツ</span>には師匠もいるのに……<br>なんで……！？,巴、巴尔兹也被！<br>明明老师就在那边……<br>为什么还被……！？
 96,,<span class='scene-font-place'>ガロンゾ</span><span class='scene-font-katari'>と</span><span class='scene-font-place'>バルツ</span><span class='scene-font-katari'>が占領され、</span><br><span class='scene-font-katari'>狼狽える一行に対し、</span><br><span class='scene-font-katari'>ポンメルンは苦々しげに語る。</span>,面对听到噶隆索和巴尔兹被占领后，<br>略显狼狈的一行人，<br>伯梅伦艰难地开口道。
 97,ポンメルン/伯梅伦,オーキスを名乗るゴーレムの少女……<br>その存在が大きかったようですネェ。,打着欧姬丝名号的人偶少女……<br>她的存在有着很大的作用。
-98,ポンメルン/伯梅伦,ファータ・グランデ空域には、<br>貴方達の冒険、<br>英雄譚が広まっているんですヨォ。,在法塔格兰迪空域，<br>你们的冒险，已经成了英雄坛<br>一样的东西，并且流传开了。
+98,ポンメルン/伯梅伦,ファータ・グランデ空域には、<br>貴方達の冒険、<br>英雄譚が広まっているんですヨォ。,在法塔格兰迪空域，<br>你们的冒险，已经成了英雄故事<br>一样的东西，并且流传开了。
 100,ポンメルン/伯梅伦,悪の帝国と戦う正義の騎空士達。<br>その冒険の果てに生まれた<br>奇跡のゴーレム……,和邪恶帝国交战的正义骑空士们。<br>在冒险的尽头所诞生的，<br>被称作奇迹的人偶……
 101,ポンメルン/伯梅伦,「オーキス」はいまや、<br>ファータ・グランデ空域にとって、<br>正義の象徴のような存在ですネェ。,“欧姬丝”现在，<br>在法塔格兰迪空域中，<br>是象征着正义一般的存在。
 103,ポンメルン/伯梅伦,その「オーキス」が、<br>神聖エルステ帝国に<br>味方しているとなれば……,如果说那个“欧姬丝”<br>是神圣埃尔斯特帝国的同伴……
@@ -119,7 +119,7 @@ id,name,text,trans
 149,,<span class='scene-font-katari'>その空気を切り替えるように、</span><br><span class='scene-font-katari'>オイゲンは困った様子で声を上げる。</span>,像是要打破这股气氛似的，<br>欧根非常困扰地说。
 150,オイゲン/欧根,しかし参ったな、こいつぁよ。<br><span class='scene-font-place'>ガロンゾ</span>が占領されちまった、<br>ってこたぁ……,这些家伙，我可真是服了。<br>竟然把噶隆索给占领了……
 151,オイゲン/欧根,グランサイファーを直すにゃ、<br>まず<span class='scene-font-place'>ガロンゾ</span>を<br>取り戻さなきゃなんねぇか。,想要修理格兰塞法的话，<br>必须夺回噶隆索不可。
-152,ラカム/拉卡姆,そうだな……<br>それに、<span class='scene-font-place'>ガロンゾ</span>がそんな状態なら、<br>ノアのことも気になる。,也是……而且噶隆索是那种装备，<br>我也很在意诺亚。
+152,ラカム/拉卡姆,そうだな……<br>それに、<span class='scene-font-place'>ガロンゾ</span>がそんな状態なら、<br>ノアのことも気になる。,也是……而且，噶隆索是那种状态的话，<br>我也很在意诺亚。
 153,イオ/伊欧,<span class='scene-font-place'>バルツ</span>だって放っておけないんだから！<br>早く師匠や街の人達を解放しないと！,也不能放着巴尔兹不管！<br>得早点把老师和街上的人们解放出来！
 153-sel1_txt,,<span class='scene-font-katari'>ガロンゾへ行こう</span>,先去噶隆索吧
 153-sel2_txt,,<span class='scene-font-katari'>バルツへ行こう</span>,先去巴尔兹吧

@@ -4,7 +4,7 @@ id,name,text,trans
 2,,<span class='scene-font-katari'>父の戦友ヴァルフリートから、</span><br><span class='scene-font-katari'>騎空艇グランスルースの動力部を</span><br><span class='scene-font-katari'>もらい受けた姬塔。</span>,从父亲的战友瓦尔弗里德那<br>继承了骑空艇格兰斯鲁斯动力部的姬塔。
 8,,<span class='scene-font-place'>ポート・ブリーズ</span><span class='scene-font-katari'>に戻った一行は、</span><br><span class='scene-font-katari'>すぐさまグランサイファーを</span><br><span class='scene-font-katari'>貨物艇で</span><span class='scene-font-place'>ガロンゾ</span><span class='scene-font-katari'>へと運び込む。</span>,立刻返回波特布里兹，<br>用货物艇把格兰塞法给运送到了噶隆索。
 14,,<span class='scene-font-katari'>そして、</span><br><span class='scene-font-katari'>騎空艇グランスルースから</span><br><span class='scene-font-katari'>騎空艇グランサイファーへ……</span>,然后，开始进行从<br>骑空艇格兰斯鲁斯到<br>骑空艇格兰塞法的……
-15,,<span class='scene-font-katari'>兄弟艇間での動力部の移植が</span><br><span class='scene-font-katari'>腕利きの職人達の手を借りながら、</span><br><span class='scene-font-katari'>速やかに進められていた。</span>,兄弟艇之间的动力部一直。<br>当然有非常麻利的手艺人帮忙，<br>尽可能快地进行着。
+15,,<span class='scene-font-katari'>兄弟艇間での動力部の移植が</span><br><span class='scene-font-katari'>腕利きの職人達の手を借りながら、</span><br><span class='scene-font-katari'>速やかに進められていた。</span>,兄弟艇之间的动力部移植。<br>当然有非常麻利的手艺人帮忙，<br>尽可能快地进行着。
 21,ラカム/拉卡姆,よーし……<br>この調子で慎重に進めてくれよ！,好的……<br>就按这个感觉慎重地进行下去哦！
 22,ガロンゾの職人,はっはっはっ！<br>そう心配しなさんな！,哈哈哈！不用这么担心！
 23,ガロンゾの職人,確かに難しい改修だが、<br>恩義には全力で報いるのが<br><span class='scene-font-place'>ガロンゾ</span>の職人ってもんだ！,确实该修有些复杂，<br>但我们噶隆索的手艺人们<br>也会拼尽全力报恩的！
@@ -41,7 +41,7 @@ id,name,text,trans
 50,ラカム/拉卡姆,まぁ、俺達の旅は<br>ここで終わりじゃねぇんだ。,嘛，<br>我们的旅行也不会在这里结束啊。
 51,ラカム/拉卡姆,多少時間はかかっても、<br>この先の旅で困らねぇよう、<br>ここでしっかりとだな──,虽然会花上不少的时间，<br>但为了不给之后的旅途添麻烦，<br>现在得好好做才行——
 54,シェロカルテ/榭洛科特,た、大変です～！,不、不好了~！
-55,ラカム/拉卡姆,うお！　びっくりした……<br>どうした？　そんなに慌てて。,u哦！吓我一跳……<br>怎么了？这么慌张。
+55,ラカム/拉卡姆,うお！　びっくりした……<br>どうした？　そんなに慌てて。,呜哦！吓我一跳……<br>怎么了？这么慌张。
 56,シェロカルテ/榭洛科特,神聖エルステ帝国軍が、<br>今度はエルステ王国の<br><span class='scene-font-place'>ラビ島</span>に現れました～！,神圣埃尔斯特帝国军，<br>这次在埃尔斯特王国的拉比岛出现了~！
 57,シェロカルテ/榭洛科特,タイタンスーツ相手では、<br>ゴーレムも歯が立たないそうで、<br>至急応援がほしいとのことです～！,和泰坦装甲进行战斗，<br>魔偶们似乎也吃不消了，<br>希望你们快去帮忙~！
 58,ロゼッタ/萝赛塔,事態は一刻を争うようね……,事态真是争分夺秒啊……
@@ -71,9 +71,9 @@ id,name,text,trans
 79,ラカム/拉卡姆,まぁ……どこで戦ってても、<br>グランサイファーが<br>気になっちまってただろうからな……,嘛……不论在哪战斗，<br>格兰塞法应该都很在意……
 80,ラカム/拉卡姆,それで姬塔達の<br>足を引っ張っちまうよりは、<br>よほどいいだろ。,但比起拖姬塔你们的后腿，<br>要好太多了。
 81,,<span class='scene-font-katari'>姬塔の決断に対し、</span><br><span class='scene-font-katari'>ラカムは納得している様子で</span><br><span class='scene-font-katari'>頷きを見せる。</span>,面对姬塔的决断，<br>拉卡姆心领神会地点了点头。
-82,ラカム/拉卡姆,それじゃあ、<br>神聖エルステ帝国の件は頼んだぜ、<br>姬塔。,那么，<br>神圣埃尔斯特帝国的事就交个你了，姬塔。
+82,ラカム/拉卡姆,それじゃあ、<br>神聖エルステ帝国の件は頼んだぜ、<br>姬塔。,那么，<br>神圣埃尔斯特帝国的事就交给你了，姬塔。
 83,ラカム/拉卡姆,こっちはこっちで、<br>グランサイファーを<br>最高の状態にして待ってっからよ！,我们就做好手头的事，<br>让格兰塞法以最棒的状态等着你们！
-84,,<span class='scene-font-katari'>その言葉に頷きを返すと、</span><br><span class='scene-font-katari'>姬塔達は</span><span class='scene-font-place'>ラビ島</span><span class='scene-font-katari'>へ向かうため、</span><br><span class='scene-font-katari'>港へと駆けていく。</span>,对这番话点了点头后，<br>姬塔等人便立刻向着港口跑去，<br>朝着拉比岛触发。
+84,,<span class='scene-font-katari'>その言葉に頷きを返すと、</span><br><span class='scene-font-katari'>姬塔達は</span><span class='scene-font-place'>ラビ島</span><span class='scene-font-katari'>へ向かうため、</span><br><span class='scene-font-katari'>港へと駆けていく。</span>,对这番话点了点头后，<br>姬塔等人便立刻向着港口跑去，<br>朝着拉比岛出发。
 85,,<span class='scene-font-katari'>しかし、その頃すでに</span><span class='scene-font-place'>ラビ島</span><span class='scene-font-katari'>では、</span><br><span class='scene-font-katari'>取り返しのつかない事態が</span><br><span class='scene-font-katari'>進行しつつあるのだった。</span>,但是，这时候的拉比岛上，<br>已经发生了不可挽回的事态。
 info,,,scene_cp120_q3_s10
 译者,,,rei
