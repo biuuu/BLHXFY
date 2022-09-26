@@ -23,7 +23,7 @@ const init = () => {
         observer.disconnect()
       }
     }
-    
+
     const mutationCallback = (mutationsList) => {
       for (let mutation of mutationsList) {
         const type = mutation.type
@@ -37,21 +37,20 @@ const init = () => {
         }
       }
     }
-    
+
     const obConfig = {
       childList: true
     }
-    
+
     const targetNode = document.head
     const observer = new MutationObserver(mutationCallback)
     observer.observe(targetNode, obConfig)
   }
 }
 
-if (window.unsafeWindow) {
+let win = (window.unsafeWindow || window)
+if (win.document.readyState != 'loading') {
   init()
 } else {
-  window.addEventListener('load', () => {
-    init()
-  })
+  win.addEventListener('DOMContentLoaded', init)
 }
