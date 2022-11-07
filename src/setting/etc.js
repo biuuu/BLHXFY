@@ -10,8 +10,11 @@ const addCss = () => {
   }
   if (config.hideSidebar) {
     css += `
-    body>div:first-child>div:first-child>div:first-child[data-reactid] {
+    body.jssdk>div:first-child>div:first-child>div:first-child[data-reactid] {
       display: none;
+    }
+    body.jssdk>div:first-child>div:nth-child(2) {
+      margin-left: 0 !important;
     }`
   }
   if (config.defaultFont) {
