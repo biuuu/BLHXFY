@@ -28,7 +28,7 @@ if (!bid) {
 
 const testCookies = async () => {
   await getHash()
-  const res = await request('https://biz.caiyunapp.com/test_cookies', { 
+  const res = await request('https://biz.caiyunapp.com/test_cookies', {
     cors: true,
     credentials: 'include',
     headers: {
@@ -45,11 +45,13 @@ const testCookies = async () => {
 
 const getAuth = async () => {
   const res = await request('https://api.interpreter.caiyunai.com/v1/page/auth', {
-    cors: true,
+    // cors: true,
     method: 'POST',
     headers: {
       'X-Authorization': `token ${fetchInfo.data.cyweb_token}`,
-      'Content-Type': 'application/json'
+      'Content-Type': 'application/json',
+      'origin': 'https://fanyi.caiyunapp.com',
+      'referer': 'https://fanyi.caiyunapp.com/'
     },
     data: JSON.stringify({
       browser_id: bid,
