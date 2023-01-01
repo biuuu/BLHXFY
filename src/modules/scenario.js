@@ -232,7 +232,7 @@ const transStart = async (data, pathname) => {
         obj[info.type] = transList[index] || ''
         if (!transNotice && info.index === startIndex && info.type === 'detail' && transList.length > 0) {
           if (transList[0] === 'caiyunoutoflimit') {
-            obj[info.type] = `<span style="color:#fd8484;font-size:10px;">彩云小译超出使用次数，请尝试登录彩云账号后再使用。可以通过点击右上角Log按钮，然后点击链接打开登录页面：</span><a style="color:#62dccb;font-size:10px;" href="http://www.caiyunapp.com/user/login/" target="_blank">彩云用户登录</a>`
+            // obj[info.type] = ``
           } else {
             obj[info.type] = `<a href="${apiData[1]}" target="_blank" class="autotrans-hint-blhxfy ${config.transApi}-blhxfy"> </a>${obj[info.type]}`
           }
