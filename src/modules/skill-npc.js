@@ -80,7 +80,7 @@ const parseBuff = async (data) => {
 }
 
 const previewSkill = (npcId) => {
-  $('#cnt-detail')
+  jQuery('#cnt-detail')
   .off('click.blhxfy')
   .on('click.blhxfy', '.prt-evolution-star>div:eq(1)', function () {
     const csv = window.prompt('粘贴要预览的技能翻译CSV文本')

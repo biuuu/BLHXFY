@@ -32,14 +32,16 @@ const build = async function (type = '') {
   const bundle = await rollup.rollup({
     input: './src/main.js',
     plugins: [
-      resolve({ preferBuiltins: false }),
+      resolve(),
       cmjs({ ignore: ['stream'] }),
       json(),
       babel({
         exclude: 'node_modules/**',
         presets: [['@babel/preset-env', {
           modules: false,
-          targets: targets
+          targets: targets,
+          useBuiltIns: 'entry',
+          corejs: '3.27.1'
         }]]
       })
     ]

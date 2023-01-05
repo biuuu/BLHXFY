@@ -1042,9 +1042,9 @@ camelcase@^4.0.0:
   integrity sha1-1UVjW+HjPFQmScaRc+Xeas+uNN0=
 
 caniuse-lite@^1.0.30001219:
-  version "1.0.30001228"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001228.tgz#bfdc5942cd3326fa51ee0b42fbef4da9d492a7fa"
-  integrity sha512-QQmLOGJ3DEgokHbMSA8cj2a+geXqmnpyOFT0lhQV6P3/YOJvGDEwoedcwxEQ30gJIwIIunHIicunJ2rzK5gB2A==
+  version "1.0.30001442"
+  resolved "https://registry.npmmirror.com/caniuse-lite/-/caniuse-lite-1.0.30001442.tgz"
+  integrity sha512-239m03Pqy0hwxYPYR5JwOIxRJfLTWtle9FV8zosfV5pHg+/51uD4nxcUlM8+mWWGfwKtt8lJNHnD3cWw9VZ6ow==
 
 chalk@2.4.1:
   version "2.4.1"
@@ -1142,15 +1142,15 @@ core-js-compat@^3.8.0:
     browserslist "^4.16.1"
     semver "7.0.0"
 
-core-js@3:
-  version "3.3.2"
-  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.3.2.tgz#cd42da1d7b0bb33ef11326be3a721934277ceb42"
-  integrity sha512-S1FfZpeBchkhyoY76YAdFzKS4zz9aOK7EeFaNA2aJlyXyA+sgqz6xdxmLPGXEAf0nF44MVN1kSjrA9Kt3ATDQg==
-
 core-js@^2.6.5:
   version "2.6.11"
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-2.6.11.tgz#38831469f9922bded8ee21c9dc46985e0399308c"
   integrity sha512-5wjnpaT/3dV+XB4borEsnAYQchn00XSgTAWKDkEqv+K8KevjbzmofK6hfJ9TZIlpj2N0xQpazy7PiRQiWHqzWg==
+
+core-js@^3.27.1:
+  version "3.27.1"
+  resolved "https://registry.npmmirror.com/core-js/-/core-js-3.27.1.tgz#23cc909b315a6bb4e418bf40a52758af2103ba46"
+  integrity sha512-GutwJLBChfGCpwwhbYoqfv03LAfmiz7e7D/BNxzeMxwQf10GRSzqiOjx7AmtEk+heiD/JWmBuyBPgFtx0Sg1ww==
 
 cross-env@^5.2.0:
   version "5.2.0"
@@ -1206,9 +1206,9 @@ define-properties@^1.1.2:
     object-keys "^1.0.12"
 
 dompurify@^2.0.17:
-  version "2.0.17"
-  resolved "https://registry.yarnpkg.com/dompurify/-/dompurify-2.0.17.tgz#505ffa126a580603df4007e034bdc9b6b738668e"
-  integrity sha512-nNwwJfW55r8akD8MSFz6k75bzyT2y6JEa1O3JrZFBf+Y5R9JXXU4OsRl0B9hKoPgHTw2b7ER5yJ5Md97MMUJPg==
+  version "2.4.1"
+  resolved "https://registry.npmmirror.com/dompurify/-/dompurify-2.4.1.tgz#f9cb1a275fde9af6f2d0a2644ef648dd6847b631"
+  integrity sha512-ewwFzHzrrneRjxzmK6oVz/rZn9VWspGFRDb4/rRtIsM1n36t9AKma/ye8syCpcw+XJ25kOK/hOG7t1j2I2yBqA==
 
 electron-to-chromium@^1.3.723:
   version "1.3.736"
@@ -1496,7 +1496,7 @@ jsonfile@^4.0.0:
 
 lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.19, lodash@^4.17.21:
   version "4.17.21"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  resolved "https://registry.npmmirror.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
   integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 lru-cache@^4.0.1:
@@ -1637,15 +1637,15 @@ p-finally@^1.0.0:
   resolved "https://registry.yarnpkg.com/p-finally/-/p-finally-1.0.0.tgz#3fbcfb15b899a44123b34b6dcc18b724336a2cae"
   integrity sha1-P7z7FbiZpEEjs0ttzBi3JDNqLK4=
 
-pako@^1.0.11:
+pako@1.0.11:
   version "1.0.11"
-  resolved "https://registry.yarnpkg.com/pako/-/pako-1.0.11.tgz#6c9599d340d54dfd3946380252a35705a6b992bf"
+  resolved "https://registry.npmmirror.com/pako/-/pako-1.0.11.tgz#6c9599d340d54dfd3946380252a35705a6b992bf"
   integrity sha512-4hLB8Py4zZce5s4yd9XzopqwVv/yGNhV1Bl8NTmCq1763HeK2+EwVTv+leGeL13Dnh2wfbqowVPXCIO0z4taYw==
 
-papaparse@^5.2.0:
-  version "5.2.0"
-  resolved "https://registry.yarnpkg.com/papaparse/-/papaparse-5.2.0.tgz#97976a1b135c46612773029153dc64995caa3b7b"
-  integrity sha512-ylq1wgUSnagU+MKQtNeVqrPhZuMYBvOSL00DHycFTCxownF95gpLAk1HiHdUW77N8yxRq1qHXLdlIPyBSG9NSA==
+papaparse@^5.3.2:
+  version "5.3.2"
+  resolved "https://registry.npmmirror.com/papaparse/-/papaparse-5.3.2.tgz#d1abed498a0ee299f103130a6109720404fbd467"
+  integrity sha512-6dNZu0Ki+gyV0eBsFKJhYr+MdQYAzFUGlBMNj3GNrmHxmz1lfRa24CjFObPXtjcetlOv5Ad299MhIK0znp3afw==
 
 path-is-absolute@^1.0.0:
   version "1.0.1"
@@ -2083,7 +2083,7 @@ uri-js@^4.2.2:
 
 urijs@^1.19.11:
   version "1.19.11"
-  resolved "https://registry.yarnpkg.com/urijs/-/urijs-1.19.11.tgz#204b0d6b605ae80bea54bea39280cdb7c9f923cc"
+  resolved "https://registry.npmmirror.com/urijs/-/urijs-1.19.11.tgz#204b0d6b605ae80bea54bea39280cdb7c9f923cc"
   integrity sha512-HXgFDgDommxn5/bIv0cnQZsPhHDA90NPHD6+c/v21U5+Sx5hoP8+dP9IZXBU1gIfvdRfhG8cel9QNPeionfcCQ==
 
 url-search-params@^1.1.0:

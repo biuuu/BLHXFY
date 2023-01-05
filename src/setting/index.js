@@ -1,6 +1,5 @@
 import './etc'
 import throttle from 'lodash/throttle'
-import isPlainObject from 'lodash/isPlainObject'
 import config from '../config'
 
 const saveToLocalstorage = (key, value) => {
@@ -12,7 +11,7 @@ const saveToLocalstorage = (key, value) => {
     console.error(err)
   }
 
-  if (!isPlainObject(data)) {
+  if (typeof data !== 'object') {
     data = {}
   }
   data[key] = value
@@ -44,29 +43,29 @@ const keyMap = new Map([
 const setting = (type, value) => {
   if (type === 'show') {
     for (let [id, key] of keyMap) {
-      const ipt = $(`#${id}-setting-blhxfy`)
+      const ipt = jQuery(`#${id}-setting-blhxfy`)
       if (!ipt.length) continue
       if (ipt.attr('type') === 'checkbox') {
         ipt[0].checked = config[key]
       } else if (ipt[0].tagName.toUpperCase() === 'SELECT') {
         ipt.val(config[key])
         const text = ipt.find('option:selected').text()
-        $(`#${id}-setting-blhxfy-txt`).text(text)
+        jQuery(`#${id}-setting-blhxfy-txt`).text(text)
       } else {
         ipt.val(config[key])
       }
     }
-    $('#blhxfy-setting-modal').addClass('show')
+    jQuery('#blhxfy-setting-modal').addClass('show')
   } else if (type === 'hide') {
-    $('#blhxfy-setting-modal').removeClass('show')
+    jQuery('#blhxfy-setting-modal').removeClass('show')
   } else if (type === 'language' || type === 'fast-mode') {
     require(['view/setting/index'], function (sett) {
       sett.prototype.onChangePostAsyncInput({ currentTarget: value.target})
     })
   } else {
     if (type === 'trans-api') {
-      const text = $('#trans-api-setting-blhxfy').find('option:selected').text()
-      $('#trans-api-setting-blhxfy-txt').text(text)
+      const text = jQuery('#trans-api-setting-blhxfy').find('option:selected').text()
+      jQuery('#trans-api-setting-blhxfy-txt').text(text)
     }
     saveToLocalstorage(keyMap.get(type), value)
   }

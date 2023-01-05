@@ -166,14 +166,14 @@ export default function () {
   <link type="text/css" rel="stylesheet" href="${Game.cssUri}/setting/index.css">
   ${extraHtml}
   `
-  const cont = $('.cnt-quest-scene')
-  const tool = $('#blhxfy-story-tool')
+  const cont = jQuery('.cnt-quest-scene')
+  const tool = jQuery('#blhxfy-story-tool')
   if (tool[0]) return
   if (cont[0]) {
     cont.prepend(html)
     const langVal = { ja: 1, en: 2 }
-    $('#language-type-blhxfy').val(langVal[Game.lang])
-    $('#plain-text-blhxfy')[0].checked = config.plainText
+    jQuery('#language-type-blhxfy').val(langVal[Game.lang])
+    jQuery('#plain-text-blhxfy')[0].checked = config.plainText
     if (config.originText) {
       cont.find('.prt-scene-comment').prepend(`<div class="blhxfy-btn-origin-text"></div>`)
     }

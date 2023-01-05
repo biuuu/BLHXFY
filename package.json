@@ -1,27 +1,27 @@
 {
   "name": "blhxfy",
-  "version": "2.4.9",
+  "version": "2.5.0",
   "description": "碧蓝幻想汉化脚本",
   "main": "./src/main.js",
   "scripts": {
     "build": "node ./script/build.js",
     "data": "node ./script/data.js",
-    "deploy": "yarn build && yarn data && node ./script/deploy.js",
+    "deploy": "npm run build && npm run data && node ./script/deploy.js",
     "deployc": "node ./script/index.js",
-    "travis_deploy": "cross-env TRAVIS=true yarn deploy",
-    "deploy_action": "cross-env CUSTOM_DOMAIN=true GITHUB_ACTION=true yarn deploy",
+    "travis_deploy": "cross-env TRAVIS=true npm run deploy",
+    "deploy_action": "cross-env CUSTOM_DOMAIN=true GITHUB_ACTION=true npm run deploy",
     "server": "node ./script/server.js",
-    "dev": "cross-env DEV=true LOCAL_HOST=true yarn build && yarn data && yarn server"
+    "dev": "cross-env DEV=true LOCAL_HOST=true npm run build && npm run data && npm run server"
   },
   "author": "biuuu",
   "license": "MIT",
   "dependencies": {
-    "core-js": "3",
+    "core-js": "^3.27.1",
     "dompurify": "^2.0.17",
     "events": "^3.0.0",
     "lodash": "^4.17.21",
-    "pako": "^1.0.11",
-    "papaparse": "^5.2.0",
+    "pako": "1.0.11",
+    "papaparse": "^5.3.2",
     "urijs": "^1.19.11",
     "url-search-params": "^1.1.0"
   },

@@ -1,8 +1,4 @@
-import EventEmitter  from 'events'
 import config from './config'
-
-let ee = new EventEmitter()
-let lacia
 
 const insertCSS = () => {
   const link = document.createElement('link')
@@ -10,72 +6,6 @@ const insertCSS = () => {
   link.rel = 'stylesheet'
   link.href = `${config.origin}/blhxfy/data/static/style/BLHXFY.css?lacia=${config.hash['BLHXFY.css'] || ''}`
   document.head.appendChild(link)
-}
-
-let timeoutStyleInserted = false
-const timeoutStyle = () => {
-  if (timeoutStyleInserted) return
-  timeoutStyleInserted = true
-  const style = document.createElement('style')
-  style.innerHTML = `
-  .wrapper .cnt-global-header .prt-head-current {
-    color: #ff6565;
-  }
-  `
-  document.head.appendChild(style)
-}
-
-let loadIframe = () => {
-  return new Promise((rev, rej) => {
-    window.addEventListener('load', () => {
-      const iframe = document.createElement('iframe')
-      iframe.src = `${config.origin}/blhxfy/lacia.html`
-      iframe.style.display = 'none'
-      document.body.appendChild(iframe)
-      lacia = iframe.contentWindow
-    })
-    let timer = setTimeout(() => {
-      rej(`加载iframe超时`)
-    }, config.timeout * 1000)
-    ee.once('loaded', () => {
-      clearTimeout(timer)
-      rev()
-    })
-  })
-}
-
-let iframeLoaded = false
-const fetchData = async (pathname) => {
-  const url = pathname
-  const flag = Math.random()
-  try {
-    if (!iframeLoaded) {
-      loadIframe = loadIframe()
-      iframeLoaded = true
-    }
-    await loadIframe
-    lacia.postMessage({
-      type: 'fetch',
-      url, flag
-    }, config.origin)
-  } catch (e) {
-    console.info(e)
-    return ''
-  }
-  return new Promise((rev, rej) => {
-    let timer = setTimeout(() => {
-      rej(`加载${pathname}超时`)
-      timeoutStyle()
-    }, config.timeout * 1000)
-    ee.once(`response${flag}`, function (data) {
-      clearTimeout(timer)
-      if (data.error) {
-        rej(data.error)
-      } else {
-        rev(data.data)
-      }
-    })
-  })
 }
 
 let fetchInfo = {
@@ -127,7 +57,7 @@ const tryFetch = async () => {
 }
 
 const request = async (pathname) => {
-  if (true || fetchInfo.result) {
+  if (fetchInfo.result) {
     return new Promise((rev, rej) => {
       fetch(`${config.origin}${pathname}`)
       .then(res => {
@@ -142,8 +72,6 @@ const request = async (pathname) => {
         return res.text()
       }).then(rev).catch(rej)
     })
-  } else {
-    return await fetchData(pathname)
   }
 }
 
@@ -163,11 +91,6 @@ let getHash = () => {
           rev(fetchInfo.data.hashes)
         } else {
           rej('加载manifest.json失败')
-          // fetchData('/blhxfy/manifest.json').then(data => {
-          //   beforeStart(data)
-          //   fetchInfo.data = data
-          //   rev(data.hash)
-          // })
         }
       }).catch(rej)
     } else {
@@ -186,19 +109,6 @@ const fetchWithHash = async (pathname, hash) => {
   return data
 }
 
-const receiveMessage = (event) => {
-  if (event.origin !== config.origin) return
-  if (event.data && event.data.type) {
-    if (event.data.type === 'response') {
-      ee.emit(`response${event.data.flag}`, event.data)
-    } else if (event.data.type === 'loaded') {
-      ee.emit('loaded')
-    }
-  }
-}
-
-
-window.addEventListener("message", receiveMessage, false)
 
 export default fetchWithHash
 export { getHash, insertCSS, fetchInfo }

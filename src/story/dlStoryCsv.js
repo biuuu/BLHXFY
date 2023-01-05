@@ -2,7 +2,6 @@ import { scenarioCache, replaceChar } from '../modules/scenario'
 import { tryDownload, replaceWords, removeTag, removeHtmlTag, simpleHtml } from '../utils/'
 import CONFIG from '../config'
 import CSV from 'papaparse/papaparse.min'
-import cloneDeep  from 'lodash/cloneDeep'
 
 const txtKeys = ['chapter_name', 'synopsis', 'detail', 'sel1_txt', 'sel2_txt', 'sel3_txt', 'sel4_txt', 'sel5_txt', 'sel6_txt']
 
@@ -22,7 +21,7 @@ const replaceName = (content, userName) => {
 
 const dataToCsv = (data, fill, isTrans, isAutoTrans) => {
   const result = []
-  const _data = cloneDeep(data)
+  const _data = structuredClone(data)
   _data.forEach(item => {
     let name = removeTag(item.charcter1_name)
     replaceChar('charcter1_name', item, scenarioCache.nameMap, scenarioCache.name)
