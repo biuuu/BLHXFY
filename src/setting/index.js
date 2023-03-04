@@ -11,7 +11,7 @@ const saveToLocalstorage = (key, value) => {
     console.error(err)
   }
 
-  if (typeof data !== 'object') {
+  if (!data || typeof data !== 'object') {
     data = {}
   }
   data[key] = value

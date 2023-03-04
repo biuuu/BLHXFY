@@ -6,7 +6,7 @@ import fetchData from '../fetch'
 import config from '../config'
 import insertToolHtml from '../story/insertToolHtml'
 import autoDownloadCsv from '../setting/autoDownloadCsv'
-import { getPreviewCsv, replaceWords, removeHtmlTag, restoreHtml } from '../utils/'
+import { getPreviewCsv, replaceWords, removeHtmlTag, restoreHtml, deepClone } from '../utils/'
 import filter from '../utils/XSSFilter'
 import transApi from '../utils/translation'
 import setFont from '../setting/scenarioFont'
@@ -201,7 +201,7 @@ const transStart = async (data, pathname) => {
   autoDownloadCsv()
   const startIndex = getStartIndex(data)
   const scenarioName = sNameTemp
-  scenarioCache.data = structuredClone(data)
+  scenarioCache.data = deepClone(data)
   scenarioCache.name = scenarioName
   scenarioCache.hasTrans = false
   scenarioCache.hasAutoTrans = false

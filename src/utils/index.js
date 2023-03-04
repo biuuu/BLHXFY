@@ -50,6 +50,7 @@ const removeHtmlTag = (str, count = 0, wrap) => {
 
 
 const isFullTag = (text) => {
+  if (!/^<\w+[^>]*>/.test(text)) return false
   let _text = trim(text.replace(/<br\s?\/?>/ig, ''))
   let isFull = true
   let type = ''
@@ -164,6 +165,10 @@ const race = (func, time = 500) => {
   }
 }
 
+const deepClone = (data) => {
+  return JSON.parse(JSON.stringify(data))
+}
+
 export {
   trim,
   tryDownload,
@@ -177,5 +182,6 @@ export {
   getPlusStr,
   race,
   simpleHtml,
-  restoreHtml
+  restoreHtml,
+  deepClone
 }
