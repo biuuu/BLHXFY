@@ -90,8 +90,8 @@ const transMulti = async (list, nameMap, nounMap, nounFixMap, caiyunPrefixMap) =
     return txt
   })
   const transList = await transApi(_list, lang)
-  if (transList[0] === 'caiyunoutoflimit') return transList
-  const fixedList = transList.map(txt => {
+  if (transList[0] === 'caiyunoutoflimit') return ['机翻失败，请刷新重试']
+  ;const fixedList = transList.map(txt => {
     let _str = txt
     if (_str) {
       _str = _str.replace(/\n/g, '<br>')

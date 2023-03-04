@@ -4,8 +4,7 @@ import x64hash128 from './x64hash128'
 
 let bid = ''
 let uid = ''
-let pid = ''
-let auth = null
+let pid = location.host === 'gbf.game.mbga.jp' ? 1369959 : 89607
 let limited = false
 
 const setBid = () => {
@@ -71,11 +70,7 @@ const getAuth = async () => {
 }
 
 const translator = async (list, from = 'ja') => {
-  await getAuth()
-  await auth
-  if (limited) {
-    return ['caiyunoutoflimit']
-  }
+  // await getAuth()
   const res = await request('https://api.interpreter.caiyunai.com/v1/page/translator', {
     cors: true,
     method: 'POST',
@@ -88,7 +83,7 @@ const translator = async (list, from = 'ja') => {
       os_type: 'web',
       page_id: pid,
       replaced: true,
-      request_id: bid || uid,
+      request_id: bid,
       source: list,
       trans_type: `${from}2zh`,
       url: document.URL
@@ -96,6 +91,8 @@ const translator = async (list, from = 'ja') => {
   })
   if (res && res.target) {
     return res.target.map(item => item.target)
+  } else if (res.rc) {
+    return ['caiyunoutoflimit']
   }
   return []
 }
