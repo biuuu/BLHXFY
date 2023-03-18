@@ -92,6 +92,7 @@ const translator = async (list, from = 'ja') => {
   if (res && res.target) {
     return res.target.map(item => item.target)
   } else if (res.rc) {
+    setBid()
     return ['caiyunoutoflimit']
   }
   return []
