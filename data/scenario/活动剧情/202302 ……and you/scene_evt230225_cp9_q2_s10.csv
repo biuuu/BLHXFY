@@ -1,5 +1,5 @@
 id,name,text,trans
-0-chapter_name,,第9話 ・│・│・│・│,
+0-chapter_name,,第9話 ・│・│・│・│,第9话 ・│・│・│・│
 0-synopsis,,復活を繰り返す演算世界の六竜達を相手取る六竜達のもとに、姬塔達が駆けつける。シンシャから『涯て』の魔力を得たネクタルは生と死を隔てる楔・カムヅミの権能を用い、演算世界の六竜達を消滅させる。さらに十天衆達は六竜達の力を借り、天星器を通じて『涯て』の力を操れるように。そこに、「潰えた可能性」に取り込まれ暴走した、竜の姿のオロロジャイアが顕現するのだった。,姬塔等人前来帮助以不断复活的演算世界的六龙为对手的六龙。从辛夏那里得到『涯』之魔力的奈克塔尔，使用了分割生死的楔子————神实的权能，消灭了演算世界的六龙。此外，十天众借助六龙的力量，激发了天星器从而能够操纵『涯』的力量。此时，被「破灭的可能性」所吞噬而失控的欧罗罗伽亚以龙的姿态出现了。
 4,イーヴィル,クケケケケケケケッ！！,嗷————！
 9,ワムデュス,えーい。,嘿————！
@@ -28,7 +28,7 @@ id,name,text,trans
 120,ワムデュス,うーん、ちょっと困った。\n負けないけど勝てない。,嗯，真麻烦啊。\n不输也不赢的。
 121,ガレヲン,…………！,真是的……
 125,イーウィヤ,満を持して！\nイーウィヤ参上なのじゃ！！,收获满满！\n伊维亚到来！
-130,ル・オー,やれやれ……,
+130,ル・オー,やれやれ……,真是的……
 131,フェディエル,やっと来たぞよ！\nカムヅミとその番！,神实和它的伴侣\n终于来了啊。
 132,イーウィヤ,ふっふ～ん♪\n計画を滞りなく成立させた\nイーウィヤに感謝するのじゃ～,哼哼～\n计划顺利进行也要感谢伊维亚呀～
 133,ル・オー,…………,
@@ -62,7 +62,7 @@ id,name,text,trans
 204,フェディエル,これでもまだ因果が成立している以上、\nオロロジャイアはギリギリのところで\n耐えておるぞよ。,既然因果已经成立了，\n那么欧罗罗伽亚\n也快承受到极限了吧。
 205,ル・オー,その限界も近いが……ね。,已经快到极限了吗………
 206,ルリア/露莉亚,あの、オロロジャイアさんを\n助ける方法ってないんでしょうか……？,那个……\n就没有能救欧罗罗伽亚先生的办法吗…？
-207,フェディエル,今の人格ごと「潰えた可能性」を\n『涯て』の力で払えば、\n楔として新たな人格が生まれるぞよ。,如果将涯之力注入\n现在的人格和破灭的可能性\n，就能作为楔子诞生出崭新的人格。
+207,フェディエル,今の人格ごと「潰えた可能性」を\n『涯て』の力で払えば、\n楔として新たな人格が生まれるぞよ。,如果将涯之力注入\n现在的人格和破灭的可能性，\n就能作为楔子诞生出崭新的人格。
 208,ル・オー,……ヒトの子は、それを\n「助ける」とは言わない、と\n言いたいのかね？,……人之子，\n你想说这称不上是救助，是吗？
 209,ルリア/露莉亚,……はい。助けられるなら、\nオロロジャイアさんの今の人格を\n助けたいんです。,……是的。如果要救的话，\n我想拯救欧罗罗伽亚先生现在的人格。
 210,ガレヲン,謝意。\n<span class='scene-font-kokoro'>（空の命のその優しさを、</span>\n<span class='scene-font-kokoro'>尊いと感じています。ですが……）</span>,谢意。\n<span class='scene-font-kokoro'>（我能确实感受到</span>\n<span class='scene-font-kokoro'>空之生命的温柔。但是……）</span>
@@ -85,7 +85,7 @@ id,name,text,trans
 227,ル・オー,そう、濃い響涯因子を持ち、\n<span class='scene-font-spword'>天星器</span>を持つ君達の力がね。,是的，我们需要拥有\n大量响涯因子的人，也就是\n拥有<span class='scene-font-spword'>天星器</span>的你们。
 228,エッセル/艾瑟尔,<span class='scene-font-spword'>天星器</span>……,
 229,ガレヲン,励起。\n<span class='scene-font-kokoro'>（</span><span class='scene-font-spword'>天星器</span><span class='scene-font-kokoro'>は、覇空戦争時代に作られた</span>\n<span class='scene-font-kokoro'>響涯因子を励起する器）</span>,激发。\n<span class='scene-font-kokoro'>（</span><span class='scene-font-spword'>天星器</span><span class='scene-font-kokoro'>是霸空战争时代被制造出来</span>\n<span class='scene-font-kokoro'>激发响涯因子的器具）</span>
-230,ガレヲン,調略。\n<span class='scene-font-kokoro'>（</span><span class='scene-font-spword'>天星器</span><span class='scene-font-kokoro'>を通して、『涯て』の力を操り</span>\n<span class='scene-font-kokoro'>戦ってください）</span>,计划。\n<span class='scene-font-kokoro'>（</span>请使用<span class='scene-font-spword'>天星器</span><span class='scene-font-kokoro'>操控『涯』之力</span>\n<span class='scene-font-kokoro'>来进行战斗）</span>
+230,ガレヲン,調略。\n<span class='scene-font-kokoro'>（</span><span class='scene-font-spword'>天星器</span><span class='scene-font-kokoro'>を通して、『涯て』の力を操り</span>\n<span class='scene-font-kokoro'>戦ってください）</span>,计划。\n<span class='scene-font-kokoro'>（请使用</span><span class='scene-font-spword'>天星器</span><span class='scene-font-kokoro'>操控『涯』之力</span>\n<span class='scene-font-kokoro'>来进行战斗）</span>
 231,フュンフ/芬芙,でも、あちし達<span class='scene-font-spword'>天星器</span>を持っても\n『涯て』と繋がったことないよ？,但是，就算我们持有着天星器，\n也没有与『涯』连接过呀？
 232,ウーノ/乌诺,そうだね……シエテ以外は。,是啊……除了希耶提。
 233,ワムデュス,そこはだいじょぶ。\n特異点に流れこむ『涯て』の力を\nちょうせいした時に……,这方面没问题。\n在调整流入特异点的『涯』之力的时候……
