@@ -29,7 +29,7 @@ id,name,text,trans
 54,,<span class='scene-font-katari'>気付けば周囲には見慣れぬ空が広がり、</span><br><span class='scene-font-katari'>意識は形無く、空の只中を漂っていた。</span>,等回过神来的时候，<br>身边已经是看惯了的，广阔的天空。<br>意识无形地漂浮在半空中。
 54-sel1_txt,,<span class='scene-font-katari'>ここは……</span>,这里是……
 55,？？？,──貴方は、戦いを望むの？,——你，渴望战斗吗？
-56,？？？,ビィもルリアも守ろうとすれば、<br>空の神にも星の神にも従わず、<br>戦い続けることになる。,守护碧以及露莉亚的话，<br>也就意味着不服从空之神与星之神，<br>战斗也会继续下去。
+56,？？？,ビィもルリアも守ろうとすれば、<br>空の神にも星の神にも従わず、<br>戦い続けることになる。,选择守护碧以及露莉亚的话，<br>也就意味着不服从空之神与星之神，<br>战斗也会继续下去。
 57,,<span class='scene-font-katari'>物悲しげに語る女性の背後には、</span><br><span class='scene-font-katari'>いつの間にか巨大な竜の姿があった。</span>,在悲伤地说着话的女性背后，<br>不知何时出现了一只巨大的龙。
 58,？？？,────,————
 59,,<span class='scene-font-katari'>纏う神気は絶対の破壊を司る</span><br><span class='scene-font-katari'>神のそれであり、</span><br><span class='scene-font-katari'>相対する全ての者に畏怖を与える。</span>,浑身缠绕着神力的、<br>司掌着绝对破坏的神明降临于此，<br>将畏惧与恐怖赋予了与之面对的所有人。
@@ -42,12 +42,14 @@ id,name,text,trans
 65,？？？,────！！,————！！
 77,,<span class='scene-font-katari'>姬塔の意識は</span><br><span class='scene-font-katari'>再び闇に包まれる。</span>,姬塔的意识，<br>再度被黑暗所包裹。
 78,,<span class='scene-font-katari'>しかし今度は、</span><br><span class='scene-font-katari'>浮遊にも似た落下の感覚が</span><br><span class='scene-font-katari'>全身にまとわりついていた。</span>,但是这次，<br>类似浮游以及下落的感觉，<br>席卷着全身。
+79,,<span class='scene-font-katari'>姬塔の意識は</span><br><span class='scene-font-katari'>再び闇に包まれる。</span>,姬塔的意识，<br>再度被黑暗所包裹。
+80,,<span class='scene-font-katari'>しかし今度は、</span><br><span class='scene-font-katari'>浮遊にも似た落下の感覚が</span><br><span class='scene-font-katari'>全身にまとわりついていた。</span>,但是这次，<br>类似浮游以及下落的感觉，<br>席卷着全身。
 81,？？？,こっち……こっちです。,这边……到这边来。
 82,,<span class='scene-font-katari'>耳に届く懐かしい声。</span><br><span class='scene-font-katari'>響きは光となり、</span><br><span class='scene-font-katari'>姬塔は必死に手を伸ばす。</span>,传到耳里的令人怀念的声音化作光芒，<br>姬塔拼命地向她伸出了手。
 83,？？？,……だい……じょうぶ、だから。,……已经……没事了。
 84,,<span class='scene-font-katari'>温かさを手繰り寄せるように、</span><br><span class='scene-font-katari'>姬塔は精一杯手を伸ばし、</span><br><span class='scene-font-katari'>その光に触れる。</span>,就像是要抓住那份温暖似的，<br>姬塔拼命地伸长手臂，<br>触碰到了那份光芒。
 85,ルリア/露莉亚,やっと……届いた。,终于……传达到了。
-91,,<span class='scene-font-katari'>眩い空間に目が慣れてくると、</span><br><span class='scene-font-katari'>そこには運命を誓った、</span><br><span class='scene-font-katari'>蒼い髪を持つ少女の姿があった。</span>,习惯了炫目的空间以后，<br>映入眼帘的是一起发誓同生共死的，<br>拥有蓝色长发的少女。
+91,,<span class='scene-font-katari'>眩い空間に目が慣れてくると、</span><br><span class='scene-font-katari'>そこには運命を誓った、</span><br><span class='scene-font-katari'>蒼い髪を持つ少女の姿があった。</span>,习惯了的空间以后，<br>映入眼帘的是一起发誓同生共死的，<br>拥有蓝色长发的少女。
 92,ルリア/露莉亚,えへへ……<br>とっても久しぶりな感じです。,诶嘿嘿……<br>真是感到有好久没见了呢。
 92-sel1_txt,,<span class='scene-font-katari'>そうだね</span>,是啊
 92-sel2_txt,,<span class='scene-font-katari'>ちょっとくすぐったい</span>,有点难为情
@@ -76,8 +78,8 @@ id,name,text,trans
 116,ルリア/露莉亚,はいっ！<br>よろしくお願いします！,是！<br>那就拜托你了！
 117,,<span class='scene-font-katari'>ルリアと姬塔は</span><br><span class='scene-font-katari'>フェリを道標にしながら</span><br><span class='scene-font-katari'>光の中を進んでいく。</span>,露莉亚和姬塔在菲利的引导之下，<br>在光芒之中前进着。
 118,,<span class='scene-font-katari'>やがて心地よい温かさの中で、</span><br><span class='scene-font-katari'>姬塔はゆっくりと</span><br><span class='scene-font-katari'>目を閉じるのだった。</span>,终于在舒适的温暖之中，<br>姬塔缓缓地闭上了眼睛。
-132,ビィ/碧,っ！！<br>目ぇ覚ましたんだな！<br>姬塔！,啧！！<br>快睁开眼啊！姬塔！！
-133,,<span class='scene-font-katari'>姬塔が意識を取り戻すと、</span><br><span class='scene-font-katari'>小さくも頼もしい背中が</span><br><span class='scene-font-katari'>エキドナの攻撃から皆を守っていた。</span>,正在姬塔取回意识之时，<br>一个小小的背影，<br>正在艾奇多娜的攻击之中保护着大家。
+132,ビィ/碧,っ！！<br>目ぇ覚ましたんだな！<br>姬塔！,！！<br>你醒过来了！姬塔！！
+133,,<span class='scene-font-katari'>姬塔が意識を取り戻すと、</span><br><span class='scene-font-katari'>小さくも頼もしい背中が</span><br><span class='scene-font-katari'>エキドナの攻撃から皆を守っていた。</span>,正在姬塔取回意识之时，<br>一个娇小却充满力量的背影，<br>正在艾奇多娜的攻击之中保护着大家。
 134,ルリア/露莉亚,間に合いましたね……！,赶上了呢……！
 135,イオ/伊欧,ルリア！　良かったぁ……！,露莉亚！太好了……！
 136,イオ/伊欧,でもこれ……<br>新しい星晶獣の力……？,但是这个……<br>是新的星晶兽的力量……？
