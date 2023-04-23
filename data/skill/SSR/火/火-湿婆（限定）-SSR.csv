@@ -1,13 +1,19 @@
 id,name,detail
 npc,湿婆,3040196000
-special,第三之目，开眼,<div class=prt-text-small>火属性伤害(特大)/自身获得攻击UP/「第三之目」<br><span class=text-blue>◆处于「第三之目」时下次奥义变为「摩诃迦罗」</span></div>
-special-マハーカーラ,摩诃迦罗,火属性伤害(特大)<span class=text-blue>◆消耗「第三之目」自身获得奥义性能UP</span>
-skill-1,三叉戟,<div class=prt-text-small>对敌方单体造成火属性伤害/攻防DOWN/每回合损失HP(上限5万)</div>
-skill-1+,三叉戟,<div class=prt-text-small>对敌方单体造成火属性伤害/攻防DOWN/每回合损失HP(上限5万)</div>
+special,第三之目，开眼,<div class=prt-text-small>火属性伤害(特大)/自身获得攻击UP/「第三之目」<br><span class=text-blue>◆自身处于「第三之目」时下次奥义变为「摩诃迦罗」</span></div>
+special-マハーカーラ,摩诃迦罗,火属性伤害(特大)<span class=text-blue>◆自身消耗「第三之目」获得奥义性能UP</span>
+special-悪滅の雷霆,恶灭之雷霆,<div class=prt-text-small>火属性伤害(特大)/自身获得攻击UP/「第三之目」/技能使用间隔缩短1回合<br><span class=text-blue>◆自身处于「第三之目」时下次奥义变为「兽主法宝」</span></div>
+special-パーシュパターストラ,兽主法宝,火属性伤害(特大)/自身获得2层「破导」<span class=text-blue>◆自身消耗「第三之目」获得奥义性能UP</span>
+skill-1,三叉戟,对敌方单体造成火属性伤害/攻防DOWN/每回合损失HP(上限5万)
+skill-1+,三叉戟,对敌方单体造成火属性伤害/攻防DOWN/每回合损失HP(上限5万)
 skill-2,梵·楼陀罗,我方全体获得攻击力UP/伤害上限UP/格挡效果
 skill-2+,梵·楼陀罗,我方全体获得攻击力UP/伤害上限UP/格挡效果
 skill-3,坦达瓦之舞,<div class=prt-text-small>自身获得必定三连击/反击效果(回避·受伤/2次)/风属性伤害减轻/暴击率UP</div>
-support-1,破坏的舞踏,<div class=prt-text-small>自身获得普通攻击伤害UP/奥义值上升量DOWN/发动奥义时获得1层「破导」(最大5层)<br><span class=text-blue>◆自身根据「破导」层数攻击力UP/三连击率UP</span></div>
+skill-3+,坦达瓦之舞,<div class=prt-text-small>自身获得必定三连击/反击效果(回避·受伤/2次)/风属性伤害减轻/暴击率UP<br><span class=text-blue>◆自身处于7层「破导」时效果全体化</span></div>
+skill-4,冠月赐福,<div class=prt-text-small>对敌方全体造成10次火属性伤害/我方全体获得净化弱化效果/HP全回复<br><span class=text-blue>◆自身处于10层「破导」时可用/再使用不可</span></div>
+support-1,破坏的舞踏,<div class=prt-text-small>自身获得普通攻击伤害UP/奥义值上升量DOWN/发动奥义时获得1层「破导」(最大5层)<br><span class=text-blue>◆自身根据「破导」层数获得攻击力UP/三连击率UP</span></div>
+support-1+,破坏的舞踏,<div class=prt-text-small>自身获得普通攻击伤害UP/奥义值上升量DOWN/发动奥义时获得1层「破导」(最大10层)<br><span class=text-blue>◆自身根据「破导」层数获得攻防UP/三连击率UP/奥义值上升量UP</span></div>
 support-2,崇拜的尊神,我方全体获得火属性攻击力UP时效果UP<br><span class=text-blue>◆仅前排有效</span>
+support-2+,崇拜的尊神,我方全体获得火属性攻击力UP时效果UP/伤害上限UP<br><span class=text-blue>◆仅前排有效</span>
 skill-lb,LB技能,自身获得风属性伤害减轻
 intro,究极不变恶灭善护,司掌救赎的勇猛武神，他非常贴近人们的生活，响应人们坚强的心显现于世。神希望，组成世界的人类能够返回正道。
