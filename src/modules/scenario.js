@@ -70,21 +70,14 @@ const transMulti = async (list, nameMap, nounMap, nounFixMap, caiyunPrefixMap) =
   const userName = config.userName
   const lang = Game.lang
   const _list = list.map(txt => {
-    if (config.transApi === 'google') {
-      if (lang === 'en') {
-        txt = replaceWords(txt, nameMap, lang)
-      }
-      txt = replaceWords(txt, nounMap, lang)
-    } else if (config.transApi === 'caiyun') {
-      txt = replaceWords(txt, caiyunPrefixMap, lang)
-    }
+
+    txt = replaceWords(txt, caiyunPrefixMap, lang)
+
     if (userName) {
       let _lang = lang
       if (!/^\w+$/.test(userName)) _lang = 'unknown'
       if (lang === 'en') {
         txt = replaceWords(txt, new Map([[userName, config.defaultEnName]]), _lang)
-      } else if (config.transApi !== 'google') {
-        txt = replaceWords(txt, new Map([[userName, config.defaultName]]), _lang)
       }
     }
     return txt
@@ -221,8 +214,6 @@ const transStart = async (data, pathname) => {
       const transList = await transMulti(txtList, nameMap, nounMap, nounFixMap, caiyunPrefixMap)
       let transNotice = false
       const transApiName = {
-        google: ['Google翻译', 'https://translate.google.cn'],
-        baidu: ['百度翻译', 'https://fanyi.baidu.com/'],
         caiyun: ['彩云小译', 'https://fanyi.caiyunapp.com/']
       }
       const apiData = transApiName[config.transApi]

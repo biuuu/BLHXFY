@@ -77,15 +77,6 @@ const template = `
 					<li>在一些使用场景下，可能不会生效</li>
 				</ul>
 				<div class="prt-button">
-					<div class="prt-select-box" style="margin:0 6px 0 0">
-						<div style="width:103px" id="trans-api-setting-blhxfy-pulldown" class="prt-list-pulldown btn-sort">
-							<div id="trans-api-setting-blhxfy-txt" class="txt-selected">彩云小译</div>
-							<select id="trans-api-setting-blhxfy" class="frm-list-select" onchange="window.blhxfy.sendEvent('setting', 'trans-api', this.value)">
-							<option value="google">Google翻译</option>
-							<option value="caiyun" selected>彩云小译</option>
-							</select>
-						</div>
-					</div>
 					<div>
 						<input id="trans-ja-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'trans-ja', this.checked)" type="checkbox" value="">
 						<label for="trans-ja-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">日语机翻</label>

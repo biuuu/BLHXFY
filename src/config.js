@@ -48,16 +48,13 @@ const getLocalConfig = () => {
   }
   const keys = [
     'autoDownload', 'bottomToolbar', 'displayName', 'removeScroller', 'hideSidebar', 'originText', 'storyOnly', 'showTranslator',
-    'transJa', 'transEn', 'font', 'transApi', 'fontBold', 'plainText', 'battleTrans', 'log', 'defaultFont'
+    'transJa', 'transEn', 'font', 'fontBold', 'plainText', 'battleTrans', 'log', 'defaultFont'
   ]
   keys.forEach(key => {
     let value = setting[key]
     if (isString(value)) value = filter(value.trim())
     if (isBoolean(value) || value) {
       config[key] = value
-    }
-    if (key === 'transApi' && value === 'baidu') {
-      config[key] = 'caiyun'
     }
   })
 }

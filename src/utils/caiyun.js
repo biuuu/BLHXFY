@@ -1,99 +1,96 @@
 import request from './request'
-import { fetchInfo, getHash } from '../fetch'
+import { fetchInfo } from '../fetch'
 import x64hash128 from './x64hash128'
+import { Base64 } from 'js-base64'
 
 let bid = ''
-let uid = ''
-let pid = location.host === 'gbf.game.mbga.jp' ? 1369959 : 89607
+let jwt = ''
 let limited = false
 
-const setBid = () => {
+const reset = () => {
   let str = '0123456789abcdefghijklmnopqrstuvwxyz'
   let text = ''
   for (let i = 0; i < 33; i++) {
     text += str[Math.floor(Math.random() * str.length)]
   }
   bid = x64hash128(text, 31)
+  jwt = ''
   localStorage.setItem('blhxfy:bid', bid)
+  localStorage.setItem('blhxfy:caiyun-jwt', jwt)
+}
+
+function transform (e) {
+  const t = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
+    , i = "NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm"
+    , a = n=>t.indexOf(n)
+    , o = n=>a(n) > -1 ? i[a(n)] : n;
+  return e.split("").map(o).join("")
 }
 
 try {
   bid = localStorage.getItem('blhxfy:bid')
+  jwt = localStorage.getItem('blhxfy:caiyun-jwt')
 } catch (e) {}
 
 if (!bid) {
-  setBid()
-}
-
-const testCookies = async () => {
-  await getHash()
-  const res = await request('https://biz.caiyunapp.com/test_cookies', {
-    cors: true,
-    credentials: 'include',
-    headers: {
-      'X-Authorization': `token ${fetchInfo.data.cyweb_token}`
-    }
-  })
-  if (res.status === 'ok' && res.cookies.cy_user) {
-    const data =  JSON.parse(decodeURIComponent(res.cookies.cy_user))
-    uid = data._id || defaultUid
-  } else {
-    return false
-  }
+  reset()
 }
 
 const getAuth = async () => {
-  const res = await request('https://api.interpreter.caiyunai.com/v1/page/auth', {
-    // cors: true,
+  if (jwt) return
+  const res = await request('https://api.interpreter.caiyunai.com/v1/user/jwt/generate', {
     method: 'POST',
     headers: {
-      'X-Authorization': `token ${fetchInfo.data.cyweb_token}`,
+      'X-Authorization': `token:${fetchInfo.data.cyweb_token}`,
       'Content-Type': 'application/json',
       'origin': 'https://fanyi.caiyunapp.com',
-      'referer': 'https://fanyi.caiyunapp.com/'
+      'referer': 'https://fanyi.caiyunapp.com/',
+      'Device-Id': bid
     },
     data: JSON.stringify({
-      browser_id: bid,
-      device_id: '',
-      os_type: 'web',
-      title: 'グランブルーファンタジー',
-      url: document.URL,
-      user_id: uid
+      browser_id: bid
     })
   })
-  if (res.auth_type === -1 || !res.page_id) {
+  if (!res.jwt) {
     limited = true
-    setBid()
+    reset()
   } else {
-    pid = res.page_id
+    limited = false
+    jwt = res.jwt
+    localStorage.setItem('blhxfy:caiyun-jwt', jwt)
   }
 }
 
 const translator = async (list, from = 'ja') => {
-  // await getAuth()
-  const res = await request('https://api.interpreter.caiyunai.com/v1/page/translator', {
+  await getAuth()
+  if (!jwt) return []
+  const res = await request('https://api.interpreter.caiyunai.com/v1/translator', {
     cors: true,
     method: 'POST',
     headers: {
-      'X-Authorization': `token ${fetchInfo.data.cyweb_token}`,
-      'Content-Type': 'application/json'
+      'X-Authorization': `token:${fetchInfo.data.cyweb_token}`,
+      'Content-Type': 'application/json',
+      'Device-Id': bid,
+      'T-Authorization': jwt
     },
     data: JSON.stringify({
       cached: true,
       os_type: 'web',
-      page_id: pid,
       replaced: true,
-      request_id: bid,
+      request_id: 'web_fanyi',
       source: list,
       trans_type: `${from}2zh`,
-      url: document.URL
+      style: 'formal',
+      media: 'text',
+      dict: true,
+      detect: true,
+      browser_id: bid
     })
   })
   if (res && res.target) {
-    return res.target.map(item => item.target)
+    return res.target.map(str => Base64.decode(transform(str)))
   } else if (res.rc) {
-    setBid()
-    return ['caiyunoutoflimit']
+    reset()
   }
   return []
 }

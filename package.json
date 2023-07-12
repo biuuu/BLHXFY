@@ -1,6 +1,6 @@
 {
   "name": "blhxfy",
-  "version": "2.5.3",
+  "version": "2.5.4",
   "description": "碧蓝幻想汉化脚本",
   "main": "./src/main.js",
   "scripts": {
@@ -19,6 +19,7 @@
     "core-js": "^3.27.1",
     "dompurify": "^2.0.17",
     "events": "^3.0.0",
+    "js-base64": "^3.7.5",
     "lodash": "^4.17.21",
     "pako": "1.0.11",
     "papaparse": "^5.3.2",

@@ -79,7 +79,5 @@ const caiyunTrans = async (source, from) => {
 export default async function (...args) {
   if (config.transApi === 'caiyun') {
     return caiyunTrans(...args)
-  } else if (config.transApi === 'google') {
-    return googleTrans(...args)
   }
 }

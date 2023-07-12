@@ -6,7 +6,7 @@ const CSV = require('papaparse')
 const path = require('path')
 const pako = require('pako')
 
-const cyweb_token = 't4d0s9zds4fw272poa11'
+const cyweb_token = 'qgemv4jr1y38jyq6vhvi'
 
 const Glob = glob.Glob
 glob.promise = function (pattern, options) {
