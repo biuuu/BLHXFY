@@ -29,10 +29,12 @@ function transform (e) {
 }
 
 const checkJwt = () => {
-  const { exp } = jwt_decode(jwt)
-  if (exp * 1000 < Date.now()) {
-    jwt = ''
-  }
+  try {
+    const { exp } = jwt_decode(jwt)
+    if (exp * 1000 < Date.now()) {
+      jwt = ''
+    }
+  } catch (e) {}
 }
 
 try {
