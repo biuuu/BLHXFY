@@ -6,7 +6,7 @@ const joinBr = (list, br, transArr) => {
   br.forEach(count => {
     let i = count
     let str = ''
-    while (i >= 0) {
+    while (i >= 0 && list.length) {
       i--
       let _str = list.shift()
       str += _str + '\n'
