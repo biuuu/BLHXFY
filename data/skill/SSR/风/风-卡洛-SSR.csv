@@ -1,0 +1,9 @@
+id,name,detail
+npc,卡洛,3040460000
+special,艺术之心,<div class=prt-text-small>对敌方单体造成4.5倍风属性伤害/使八角展厅立即可用</div>
+skill-1,宝座圣母像,<div class=prt-text-small>赋予队伍中的风属性角色圣母宝座像效果<span class=text-blue>◆根据队伍中乐器得意角色的人数，缩短该技能再使用间隔回合数</span></div>
+skill-2,八角展厅,<div class=prt-text-small>对敌方全体造成风属性伤害/调律层数上升1层（最大10层）/功防DOWN（累计）<span class=text-blue>◆根据敌方调律层数增加技能发生次数（最大6次）</span></div>
+skill-3,今夜无人入睡,<div class=prt-text-small>使风属性角色获得弱点属性追击效果</div><span class=text-blue>◆敌方调律层数7以上：追加攻击大幅度上升（1次）/调律层数10（10回合以后）：追加再攻击效果</span></div>
+support-1,热爱艺术的守护者,<div class=prt-text-small>根据队伍中乐器得意角色的数量，以此获得以下效果（攻击UP/防御UP/必定三连击/闪避率UP/奥义值上升量UP）</div>
+support-2,希望的音色,<div class=prt-text-small>根据敌方调律层数，使我方乐器得意角色攻击UP/伤害上限UP</div>
+intro,艺术爱好者们的邻人,长年守护着艺术之岛的星晶兽，在岛民的推动下迈向未知的天空。相信作为一名真正的旅人度过的日子定会成为他的珍宝，即便对于永生的他来说，这时光不过是弹指一瞬。
