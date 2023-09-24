@@ -3,11 +3,11 @@ npc,尼娅,3040169000
 special,哀伤･死亡舞蹈,暗属性伤害(特大)/爱的拯救越少奥义性能UP
 special-オムニア・アナイアレイト,悉皆销殒,暗属性伤害(特大)/爱的拯救越少奥义性能UP  <span class=text-blue>◆根据爱的拯救的数量追加暗属性伤害(最多6次)</div>
 skill-1,死与爱的世界,战斗场地展开领域 死与爱的世界
-skill-2,所爱之人,<div class=prt-text-small>自身与我方指定暗属性角色获得必定三连击/受到伤害减轻50%<br><span class=text-blue>◆消耗两层爱的拯救/仅可赋予我方一人</div></div>
+skill-2,所爱之人,<div class=prt-text-small>自身与指定暗属性角色获得必定三连击/受到伤害减轻50%<br><span class=text-blue>◆消耗两层爱的拯救/仅可赋予一人</div></div>
 skill-3,终焉之爱,指定暗属性角色获得奥义再发动（1次）<br><span class=text-blue>◆消耗一层爱的拯救</div>
 skill-4,永久誓言,自身获得永久誓言的效果<span class=text-blue>  ◆发动「恋人的正位置」后才可使用/消耗四层爱的拯救/不可再次使用</div>
 support-1,渴望爱的意志,<div class=prt-text-small>拥有独有效果爱的拯救（战斗开始时，获得13层，回合结束时，失去2层，若回合结束时爱的拯救归0，则自身强制战斗不能）<span class=text-blue>◆除该效果外的场合战斗不能时，给予敌我全体弱化效果。</div></div>
-support-2,死之抱拥,<div class=prt-text-small>延长死亡与爱的世界的效果时间/在领域「死亡与爱的世界」效果下，技能使用时不消耗爱的拯救</div>
+support-2,死之抱拥,延长死亡与爱的世界的效果时间/在领域「死亡与爱的世界」效果下，技能使用时不消耗爱的拯救
 skill-sub,死的逆位置,暗属性主角不是濒死状态时，当前回合处于不死身状态(13次)
 skill-sub+,死的逆位置,暗属性主角不是濒死状态时，当前回合处于不死身状态(13次)/强化效果不会被无效化
 skill-main,恋人的正位置,暗属性角色获得渴望效果(自动复活效果/吸收受到伤害效果)<br><span class=text-blue>◆不可再次使用</div>
