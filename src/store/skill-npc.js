@@ -11,17 +11,17 @@ const skillMap = new Map()
 
 const skillKeys = [
   ['special_skill', 'special'],
-  ['action_ability1', 'skill-1'],
-  ['action_ability2', 'skill-2'],
-  ['action_ability3', 'skill-3'],
-  ['action_ability4', 'skill-4'],
-  ['support_ability1', 'support-1'],
-  ['support_ability2', 'support-2'],
-  ['support_ability3', 'support-3'],
+  ['ability', 'skill-1'],
+  ['ability', 'skill-2'],
+  ['ability', 'skill-3'],
+  ['ability', 'skill-4'],
+  ['support_ability', 'support-1'],
+  ['support_ability', 'support-2'],
+  ['support_ability', 'support-3'],
   ['support_ability_of_npczenith', 'skill-lb'],
   ['support_ability_of_npczenith', 'skill-lb2'],
   ['appear_ability', 'skill-main'],
-  ['backmember_ability1', 'skill-sub']
+  ['backmember_ability', 'skill-sub']
 ]
 
 const keys = ['skill-1', 'skill-2', 'skill-3', 'skill-4', 'special']

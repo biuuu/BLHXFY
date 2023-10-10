@@ -17,7 +17,7 @@ const getSkillData = async (id) => {
     const list = parseCsv(csv)
     list.forEach(item => {
       if (item && item.id) {
-        const _id = trim(item.id)
+        const _id = trim(item.id) | 0
         const _en = trim(item.en)
         const _ja = trim(item.ja)
         if (_id) {

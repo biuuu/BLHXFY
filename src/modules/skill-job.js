@@ -25,8 +25,8 @@ const startTrans = async (data) => {
 }
 
 const replaceSkill = async (data) => {
-  if (data.action_ability) {
-    data.action_ability = await startTrans(data.action_ability)
+  if (data.ability) {
+    data.ability = await startTrans(data.ability)
   }
   if (data.support_ability) {
     data.support_ability = await startTrans(data.support_ability)

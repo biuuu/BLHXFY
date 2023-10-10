@@ -12,7 +12,7 @@ const getSkinData = async () => {
     list.forEach(item => {
       const name = filter(item.name)
       const comment = filter(item.comment)
-      const id = item.id
+      const id = item.id | 0
       if (id && comment) {
         skinMap.set(id, { name, comment })
       }

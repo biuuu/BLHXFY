@@ -152,6 +152,15 @@ const parseSkill = async (data, pathname) => {
         }
       }
 
+      if (key2 !== 'special' && !key2.startsWith('skill-lb')) {
+        const matched = key2.match(/(\d)$/)
+        const order = matched ? matched[1] : '1'
+        ability = ability[order]
+        if (!ability) {
+          continue
+        }
+      }
+
       if (ability.recast_comment) {
         ability.recast_comment = replaceTurn(ability.recast_comment)
       }
