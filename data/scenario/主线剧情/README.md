@@ -6,4 +6,8 @@
 
 晓之空88第3节第1幕-110章：[rei](https://github.com/reizuki01)
 
-星之旅人111章-？：[rei](https://github.com/reizuki01)
+星之旅人111章-129章：[rei](https://github.com/reizuki01)
+
+星之旅人130章第1节第1幕：BAIN
+
+星之旅人130章第2节第1幕-：[雨降星](https://github.com/Amefuri-boshi)
