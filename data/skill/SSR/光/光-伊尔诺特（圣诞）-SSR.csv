@@ -1,0 +1,8 @@
+﻿id,name,detail
+npc,伊尔诺特,3040496000
+special,Piece by Piece,光属性伤害(特大)/技能1与技能2即刻使用可能
+skill-1,喷涂糖霜,<div class=prt-text-small>对敌方单体造成4次光属性伤害/神秘墨水效果<span class=text-blue>◆每次使用，神秘墨水性能强化(最大Lv3)/圣诞作品7层时，我方全体免疫弱体效果(1次)</span></div>
+skill-2,装饰墙壁,对敌方单体造成光属性伤害/缓速效果/驱散1种强化效果<span class=text-blue>◆圣诞作品7层时发动2次</span>
+skill-3,涂遍全圣城,<div class=prt-text-small>对敌方全体造成光属性伤害/自身获得涂料效果<span class=text-blue>◆仅在圣诞作品7层时可使用/根据我方攻击技能数量提升攻击次数(最大10次)</span></div>
+support-1,平安夜之王,<div class=prt-text-small>光属性角色使用攻击技能时，自身获得1圣诞作品(最大7/)根据圣诞作品数量攻防UP/连击率UP/伤害上限UP<span class=text-blue>◆光属性角色普攻时，根据圣诞作品层数对敌方单体造成多次伤害(最多4次)</span></div>
+support-2,圣诞涂鸦,涂料效果中，光属性角色技能性能UP/攻击技能cd缩短1回合
