@@ -1,16 +1,16 @@
 id,name,detail
 npc,双人女仆 多萝西&克劳迪娅,3040134000
-special,严酷之炎,
-special-フルメタル・インパクト,全金属冲击,
-special-Fullmetal Impact,全金属冲击,
-special-チェック・メイド,制胜二手,
-special-Checkmaid,制胜二手,
+special,严酷之炎,光属性伤害(特大)/二连击率DOWN
+special-フルメタル・インパクト,全金属冲击,光属性伤害(特大)/防御DOWN
+special-Fullmetal Impact,全金属冲击,光属性伤害(特大)/防御DOWN
+special-チェック・メイド,制胜二手,光属性伤害(特大)/二连击率DOWN/防御DOWN/奥义连击伤害上限UP
+special-Checkmaid,制胜二手,光属性伤害(特大)/二连击率DOWN/防御DOWN/奥义连击伤害上限UP
 skill-1,明确分工,对敌方单体造成3.5倍光属性伤害/换人/获得仆从誓言效果(独立攻击30%)
 skill-2,顶级服务,主角攻击50%UP/二连击概率60%UP/50%光属性追伤
-skill-ヴェヒター,贴身护卫,
-skill-Wachter,贴身护卫,
-skill-Door Knocker,破门而入,
-skill-ドア・ノッカー,破门而入,
+skill-ヴェヒター,贴身护卫,自身伤害上升效果/暴击率UP
+skill-Wachter,贴身护卫,自身伤害上升效果/暴击率UP
+skill-Door Knocker,破门而入,对敌方全体造成5倍光属性伤害/CT增加
+skill-ドア・ノッカー,破门而入,对敌方全体造成5倍光属性伤害/CT增加
 skill-3,全部消毒,对敌方全体造成2.5倍光属性伤害，驱散1个强化效果
 skill-4,仆从前锋,获得100%奥义值
 support-1,忠诚的女仆,多萝西:普攻对所有敌人有效/普攻有概率赋予敌人防御DOWN效果(5%，累积，最大20%)
