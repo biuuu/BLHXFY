@@ -184,7 +184,7 @@ path,text,trans,count
 /user/content/index,累計,累计,3
 /user/content/index,栄誉の輝き,荣誉之辉光,
 /user/content/index,騎空団ボーナス,骑空团奖励,
-/user/content/index,アーカルムポイント,塔罗牌点数,
+/user/content/index,アーカルムポイント,塔罗点数,
 /lobby/content/room,初回消費なし,初次无消耗,3
 /lobby/content/room,あと<%= can_quest_start_count %>回挑戦します（全<%= max_quest_start_count %>回）,还剩<%= can_quest_start_count %>回挑战（一共<%= max_quest_start_count %>回）,
 /lobby/content/room,このクエストに挑戦します。,准备挑战这个任务,2
@@ -260,7 +260,7 @@ path,text,trans,count
 /coopraid/content/offer,バトル開始承認,开始战斗的确认,
 /coopraid/content/offer,承認あり,需要确认,
 /coopraid/content/offer,承認なし,不用确认,
-/arcarum/content/stage,アーカルムの転世TOPへ,返回塔罗首页,
+/arcarum/content/stage,アーカルムの転世TOPへ,返回阿卡姆的转世首页,
 /arcarum/content/stage,この場所に移動します,移动到这个地点,3
 /arcarum/content/stage,TPが0のため移動できません,TP为0无法继续前进了,2
 /arcarum/content/stage,移動する,移动,4
@@ -309,7 +309,7 @@ path,text,trans,count
 /shop_exchange/content/list,六竜討伐戦,六龙讨伐战,
 /shop_exchange/content/list,四象降臨,四象降临,
 /shop_exchange/content/list,究竟の証,究竟之证,
-/shop_exchange/content/list,アーカルムの契約者,阿尔卡那的契约者,
+/shop_exchange/content/list,アーカルムの契約者,阿卡姆的契约者,
 /shop_exchange/content/list,窮極への道,通往究极之路,
 /shop_exchange/content/list,限界超越,超越极限,
 /shop_exchange/content/list,ショップTOPへ,返回商店首页,
@@ -815,13 +815,13 @@ raid/,召喚石情報,召唤石信息,
 /setting,マイページに表示しているキャラクターやスキンに専用のBGMが設定されている場合、専用BGMを再生するかどうか設定します,设置主页上显示的角色或皮肤带有专用BGM的场合是否播放专用BGM,
 /setting,専用BGMを再生,播放专用BGM,
 /setting,マイページバナー表示設定,主页横幅显示设置,
-/setting,「アーカルムの転世」のバナーをマイページに表示します,在主页上显示“阿卡尔姆的转世”的横幅,
+/setting,「アーカルムの転世」のバナーをマイページに表示します,在主页上显示“阿卡姆的转世”的横幅,
 /setting,「遊び方ガイド」のバナーをマイページに表示します,在主页上显示“游戏方法导航”的横幅,
 /setting,「カジノ」のバナーをマイページに表示します,在主页上显示“赌场”横幅,
 /setting,PCブラウザ版設定,PC浏览器版设定,3
 /setting,フッター表示,显示底边栏,
-/setting,非アクティブ時のサウンド再生,非活动窗口时播放音乐
-/setting,ゲームウィンドウが非アクティブな状態でもサウンドを再生したままにするかどうか設定します,设定是否在游戏窗口处于非活动状态时继续播放音乐
+/setting,非アクティブ時のサウンド再生,非活动窗口时播放音乐,
+/setting,ゲームウィンドウが非アクティブな状態でもサウンドを再生したままにするかどうか設定します,设定是否在游戏窗口处于非活动状态时继续播放音乐,
 /setting,サイドメニュー表示,侧边栏显示,
 /setting,左端のサイドメニューを展開した際に、ゲーム画面に重ねて表示するか、ゲーム画面をスライドさせて表示させるかを設定します,设定展开左侧的侧边栏面板时的形式。覆盖游戏画面或者游戏画面整体右移。,
 /setting,重ねて表示,覆盖游戏,
