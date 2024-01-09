@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,阿古罗瓦尔,3040322000
+special,,光属性伤害(特大)/自身技能cd缩短1回合<span class=text-blue>◆根据「极光刻印」层数追加光属性伤害(最多5次)</span>
+skill-1,,<div class=prt-text-small>对敌方单体造成光属性伤害/赋予我方全体「极光刻印」/随机强化效果<span class=text-blue>◆根据使用时「极光刻印」的层数，强化效果数量增加</span></div>
+skill-2,,对敌方全体造成光属性伤害/攻防DOWN(累积)<span class=text-blue>◆根据「极光刻印」层数，发动次数UP</span>
+skill-3,,对敌方单体造成光属性伤害/自身可即刻发动奥义/其他能力可即刻使用
+support-1,,<div class=prt-text-small>根据「极光刻印」层数依次获得以下效果：攻击UP/防御UP/连击率UP/伤害UP/技能伤害上限UP</div>
+support-2,,奥义连击发生时，赋予我方全体「极光刻印」<span class=text-blue>处于后排时同样发动</span>时
+skill-lb,LB技能,连击时有几率赋予自身1层「极光刻印」
+intro,领袖的玉座,
