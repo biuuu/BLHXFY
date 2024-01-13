@@ -1,14 +1,16 @@
 ﻿id,name,detail
 npc,阿露露梅娅,3040019000
 special,月神天赐,土属性伤害(特大)
-special-セレネ・ティモリア,月神天罚,<span class=prt-text-small>土属性伤害(特大)/随机获得1个事象投影效果/投影解放冷却刷新/我方全体奥义值UP(10%)</span>
-special-Selene Timoria,月神天罚,<span class=prt-text-small>土属性伤害(特大)/随机获得1个事象投影效果/投影解放冷却刷新/我方全体奥义值UP(10%)</span>
-skill-1,月天,对敌方全体造成土属性伤害/攻击DOWN
-skill-1++,月天,对敌方全体造成土属性伤害)(4.5倍)/攻击DOWN(25%，片面类)/水属性攻击DOWN(10%)
-skill-2,空白状态,我方全体免疫弱化效果(1次)/技能伤害UP
-skill-2+,空白状态,我方全体免疫弱化效果(1次)/技能伤害UP(50%)
-skill-2++,空白状态,我方全体免疫弱化效果(1次)/技能伤害UP(50%)/技能伤害上限UP(10%)
-skill-3,月星座,对敌方单体造成土属性伤害(2.5-3倍)/缓慢效果
-skill-4,,<div class=prt-text-small>在水晶中投影事象<span class=text-blue>◆映出的梦境对应不同的效果</span>/再使用时赋予我方全体映出的强化效果</div>
-support-1,神谕,防御UP(10%)
+special-セレネ・ティモリア,月神天罚,<span class=prt-text-small>土属性伤害(特大)/我方全体奥义值10%UP/技能4即刻使用可能/技能1发动</span>
+special-Selene Timoria,月神天罚,<span class=prt-text-small>土属性伤害(特大)/我方全体奥义值10%UP/技能4即刻使用可能/技能1发动</span>
+skill-1,月天,对敌方全体造成1.5倍土属性伤害/攻击DOWN(累积)
+skill-1+,月天,对敌方全体造成2倍土属性伤害/攻击DOWN(累积)
+skill-1++,月天,对敌方全体造成4~4.5倍土属性伤害/攻击DOWN(累积)/水属性攻击10%DOWN
+skill-2,空白状态,我方全体免疫弱体效果(1次)/技能伤害20%UP
+skill-2+,空白状态,我方全体免疫弱体效果(1次)/技能伤害30%UP
+skill-2++,空白状态,我方全体免疫弱体效果(1次)/技能伤害60%UP/屏障效果
+skill-3,月星座,对敌方单体造成2~2.5倍土属性伤害/缓速效果
+skill-4,,<div class=prt-text-small>解放水晶中投影的事象<span class=text-blue>◆土属性角色获得随机强化效果/根据使用次数，强化效果数量增加(最多3次)</span></div>
+support-1,神谕,敌方使用特殊技能时，我方全体弱体效果缩短2回合
+support-2,未来幻视,回合结束时敌方处于最大CT状态时，我方全体获得水属性伤害减轻效果
 skill-lb,LB技能,我方全体受到的水属性伤害减轻

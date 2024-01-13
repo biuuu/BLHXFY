@@ -1,10 +1,15 @@
 ﻿id,name,detail
 npc,安,3040132000
-special,震慑之枪,水属性伤害（极大）/发动阻碍术/赋予我方全体防驱散盾（1次）
-skill-1,阻碍术,赋予我方全体防御力100%UP/格挡效果 <span class=text-blue>◆根据英灵LV提高防御（累积）</span>
-skill-2,公主的引领,<div class=prt-text-small>赋予自己反击效果（受伤/2次）/敌对心UP/不进行回合发动普攻</div>
-skill-3,光之召唤,<div class=prt-text-small>自己的奥义槽25%UP/HP回复/净化1个弱体效果 <span class=text-blue>◆英灵LV3及5以上时性能强化</span> </div>
-support-1,学院的守护姬,<div class=prt-text-small>成为敌人目标时英灵LV上升1（最大5） <span class=text-blue>◆根据LV等级获得攻防UP/连续攻击率UP/敌对心UP</span></div>
+special,震慑之枪,水属性伤害（极大）/发动技能1/我方全体获得免疫驱散效果（1次）
+special-ディターレントイクシード,震慑之界,水属性伤害（极大）/驱散1种强化效果/发动技能1/我方全体获得免疫驱散效果（1次）
+special-Overwhelming Deterrent,震慑之界,水属性伤害（极大）/驱散1种强化效果/发动技能1/我方全体获得免疫驱散效果（1次）
+skill-1,阻碍术,我方全体防御力100%UP/格挡效果 <span class=text-blue>◆根据英灵LV防御UP（累积）</span>
+skill-1++,阻碍术,我方全体防御力100%UP/格挡效果/火属性伤害40%减免<span class=text-blue>◆根据英灵LV防御UP（累积）</span>
+skill-2,公主的引领,<div class=prt-text-small>反击效果（承伤/2次）/敌对心UP/不计入回合发动普攻</div>
+skill-3,光之召唤,<div class=prt-text-small>自己的奥义值25%UP/HP回复(上限1500)/净化1个弱体效果 <span class=text-blue>◆英灵LV3及5以上时性能强化</span> </div>
+skill-4,英灵召回,自身获得「英灵召回」效果/<span class=text-blue>◆仅英灵Lv5时可使用/全技能可即刻使用</span>
+support-1,学院的守护姬,<div class=prt-text-small>成为敌人目标时英灵LV上升1（最大5） <span class=text-blue>◆根据LV等级攻防UP/连击率UP/敌对心UP</span></div>
 support-2,伟大的魔术师,<div class=prt-text-small>最大奥义值为200 <span class=text-blue>◆仅200奥义值时可发动奥义</span> </div>
+support-3,召导的英灵姬,反击效果中，自身必定三连击/水属性追击效果
 skill-lb,LB技能,防御UP/敌对心UP
 intro,玛娜利亚公主,通过强大魔力和守护他人的决心，与古代英灵缔结契约的公主殿下。她拥有与“天才”之名相匹配的实力，却并不骄傲，能够和他人没有隔阂地亲切往来的身姿，被冠以“学院之花”之名。

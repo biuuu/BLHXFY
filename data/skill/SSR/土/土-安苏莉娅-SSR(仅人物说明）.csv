@@ -1,3 +1,10 @@
 id,name,detail
 npc,安苏莉娅,3040369000
+special,,土属性伤害(特大)/我方全体获得土属性追击效果/激奏UP
+skill-1,,<div class=prt-text-small>土属性角色弱体耐性UP/免疫驱散/承伤转化为水属性/水属性伤害减轻(消去不可)<span class=text-blue>◆</span>2次承伤解除</div>
+skill-2,,效果时间中自身与主角在回合中发动2次攻击行动
+skill-3,,自身与主角获得「圣艳之舞」效果(消去不可)
+support-1,,<div class=prt-text-small>自身与主角容易成为敌人攻击目标但回避率UP<span class=text-blue>◆自身回避成功时，回复我方全体HP/激奏效果延长1回合</span></div>
+support-2,,受到主角的回复或强化技能效果时，技能cd缩短2回合
+skill-lb,LB技能,普攻有极小几率使技能cd缩短1回合
 intro,清艳的舞主,心中藏着思念的少女身着艳丽的礼服，准备与思念的人一起参加派对。 并结成虚假的恋人关系。 但是，少女会利用这个机会来积极地展示自己。 因为有着想把这段关系从假变真的强烈愿望与想法。
