@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,伊维亚,3040452000
+special,,风属性伤害(特大)/发动技能2
+skill-1,,赋予自身以外风属性角色以及敌方全体美国效果/自身回避敌方全部攻击(1次)
+skill-2,,对敌方随机目标造成5次风属性伤害/敌方全体强化效果时间缩短1回合/自身奥义值20%UP
+skill-3,,<div class=prt-text-small>自身获得「『翠』之恵风」效果/自身以外风属性角色获得随机强化效果<span class=text-blue>◆第5次发动时，仅一次，风属性角色获得再攻击效果</span></div>
+support-1,,<div class=prt-text-small>免疫弱体效果「魅惑」/风属性角色不会因「魅惑」而无法进行攻击/「魅惑」效果中的风属性角色状态大幅UP</div>
+support-2,,Fatal Chain发动时，我方全体必定三连击(1次)/风属性追击效果(1次)
+skill-lb,LB技能,
+intro,,

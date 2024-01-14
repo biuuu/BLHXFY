@@ -6,3 +6,4 @@ skill-2,光之心,<div class=prt-text-small>自身获得援护(全体)<br><span 
 skill-3,极限过载,<div class=prt-text-small>自身HP回复/净化1个弱体状态/回复2层满腹度<br><span class=text-blue>◆消耗20%奥义值</span></div>
 support-1,……肚子饿了,战斗开始时获得3层满腹度(最大5层)<br><span class=text-blue>◆回合结束奥义值20%以上时发动极限过载</span>
 support-2,大口吃东西的放浪女孩,有满腹度时，攻防大幅UP/敌对心UP/必连击/根据被伤害次数消耗满腹度进行反击(最大5次)
+skill-lb,LB技能,奥义值上升量UP

@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,一发,3040382000
+special,,暗属性伤害(特大)/回复5层上瘾程度/技能cd缩短1回合
+skill-1,,暗属性角色奥义值30%UP/奥义性能UP(1次)
+skill-2,,对敌方全体造成暗属性伤害/驱散1种强化效果
+skill-3,,对敌方单体造成暗属性伤害/缓速效果
+support-1,,<div class=prt-text-small>必定三连击，但使用技能或普攻后上瘾程度上升1层(最大7)<span class=text-blue>◆回合结束时上瘾程度为7，则无法行动/防御DOWN</span></div>
+support-2,,连击时爱神奥义值5%UP
+skill-lb,LB技能,
+intro,,

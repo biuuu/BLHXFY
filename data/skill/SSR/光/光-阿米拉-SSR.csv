@@ -1,9 +1,13 @@
 ﻿id,name,detail
 npc,阿米拉,3040051000
 special,阿瓦隆幻想,光属性伤害(特大)
+special-インヒューマン・ランペイジ,非人狂击,半神半魔时：光/暗属性伤害(特大)
+special-Inhuman Rampage,非人狂击,半神半魔时：光/暗属性伤害(特大)
+special-インヒューマン・ランペイジ++,非人狂击,半神半魔时：光/暗属性伤害(特大)/自身技能cd缩短1回合
+special-Inhuman Rampage++,非人狂击,半神半魔时：光/暗属性伤害(特大)/自身技能cd缩短1回合
 skill-1,巴尔萨格斯,我方全体连续攻击几率UP/奥义槽上升量UP
-skill-2,,吸收敌人能量条条与我方奥义值，转化为自身奥义值
-skill-2++,,<div class=prt-text-small>吸收敌人能量条与我方奥义值，转化为自身奥义值/奥义伤害UP(1次)</div>
+skill-2,潜藏之力,吸收敌人能量条与队友奥义值，转化为自身奥义值
+skill-2++,潜藏之力,<div class=prt-text-small>吸收敌人能量条与队友奥义值，转化为自身奥义值/奥义伤害UP(1次)</div>
 skill-3,半神半魔,获得暗属性特性　<span class=text-blue>◆消耗100％奥义值</span>
 support-1,单翼的悪魔,奥义值上升量UP
 support-2,隐秘之钥,半神半魔时攻防UP/必定连击/弱化效果免疫/受伤害时反击(1次)
