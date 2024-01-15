@@ -1,8 +1,8 @@
 id,name,detail
 npc,维拉,3040053000
-special,凶狂剑冲,土/暗属性伤害(特大)/魅惑效果/缩短2回合自己的技能再使用间隔
-skill-1,蛊惑,赋予敌人SLOW效果/消去1个强化效果
-skill-2,星灵,<div class=prt-text-small>对敌人造成土属性伤害/回复我方全体HP<br><span class=text-blue>◆自己的HP在50%以上时追加赋予我方全体浑身效果</span></div>
+special,凶狂剑冲,土/暗属性伤害(特大)/魅惑效果/技能cd缩短2回合
+skill-1,蛊惑,赋予敌人缓速效果/驱散1个强化效果
+skill-2,星灵,<div class=prt-text-small>对敌方单体造成土属性伤害/回复我方全体HP<br><span class=text-blue>◆自己的HP在50%以上时追加赋予我方全体强壮效果</span></div>
 skill-3,激情,<div class=prt-text-small>自己可以立即发动奥义/追加5层爱热之剑(最大5)</div>
 support-1,翻涌的热意,我方全体对敌mode条减少量UP
 support-2,火热的身体,爱热之剑效果中攻防UP/连续攻击几率UP/吸收效果<br><span class=text-blue>◆爱热之剑每回合结束后减少1</span>
