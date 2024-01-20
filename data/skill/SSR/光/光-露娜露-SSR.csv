@@ -3,7 +3,7 @@ npc,露娜露,3040364000
 special,黑暗浩劫,光属性伤害(特大)/防御力DOWN(累积)
 skill-1,闪光突袭,<div class=prt-text-small>自身获得可以立即发动奥义/奥义性能UP/HP最大值DOWN(累积)<br><span class=text-blue>◆HP最大值DOWN(30%)</span></div>
 skill-2,消隐无踪,<div class=prt-text-small>自身模仿上一个我方其他角色使用的技能/强化效果延长2回合/HP最大值DOWN(累积)<br><span class=text-blue>◆HP最大值DOWN(30%)</span></div>
-skill-3,黑白奔行,<div class=prt-text-small>自身获得三回攻击效果/HP最大值DOWN(累积)<br><span class=text-blue>◆HP最大值DOWN(30%)</span>
+skill-3,黑白奔行,<div class=prt-text-small>自身获得三回攻击效果/HP最大值DOWN(累积)<br><span class=text-blue>◆HP最大值DOWN(30%)</span></div>
 support-1,邪眼之最强剑士,自身根据HP最大值DOWN(累积)次数获得奥义性能UP<br><span class=text-blue>◆3次后自身追加获得奥义再发动效果</span>
 support-2,我的邪眼·此时解放！,自身使用技能时获得必定三连击/援护效果/完全回避效果
 intro,物语介入妄想少女Z,驾驭邪眼、与魔作战，飒爽地向彷徨的皇子施以援手的那位剑士，其真实身份，世上无人知晓。晓得真相的唯有一人，那便是创造出这位剑士的少女。

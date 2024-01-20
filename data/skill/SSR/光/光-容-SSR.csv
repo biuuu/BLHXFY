@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,容,3040393000
+special,,光属性伤害(特大)/根据「爱缘」层数奥义性能UP
+skill-1,,<div class=prt-text-small>对敌方单体造成光属性伤害/赋予狐火<span class=text-blue>◆根据「爱缘」层数伤害次数UP(最大6次/无「爱缘」则无法使用)</span></div>
+skill-2,,援护效果/回避敌方所有攻击
+skill-3,全部烧成碳！,<div class=prt-text-small>自身攻击大幅UP(1次)/光属性追击效果(1次)<span class=text-blue>◆消耗2层「爱缘」</span></div>
+support-1,兄妹之绊,最大HP和防御力低，但必定三连击
+support-2,爱缘之器,<div class=prt-text-small>战斗开始时自身奥义值100%UP/6层「爱缘」(最大6)<span class=text-blue>◆根据「爱缘」层数攻击UP/伤害上限UP/受到致死伤害时，消耗1层「爱缘」继续战斗</span></div>
+skill-lb,LB技能,
+intro,,
