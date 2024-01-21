@@ -1,0 +1,10 @@
+id,name,detail
+npc,玛琪拉,3040372000
+special,,<div class=prt-text-small>光属性伤害(特大)/我方全体获得浑身效果/护盾效果<span class=text-blue>◆对光慧状态中的敌人造成光属性追加伤害</span></div>
+skill-1,,对敌方单体造成光属性伤害/光慧效果<span class=text-blue>◆随使用次数增加，攻击次数增加(最大5次)</span>
+skill-2,,<div class=prt-text-small>对敌方全体造成光属性伤害/暗属性攻击DOWN/光属性防御DOWN<span class=text-blue>◆第2次发动追加连击率DOWN/第3次发动追加缓速效果</span></div>
+skill-3,,<div class=prt-text-small>单体光属性角色获得鸟神的鼓舞效果<span class=text-blue>◆鸟神的鼓舞效果中，HP回复/弱体效果回复追加为全部回复</span></div>
+support-1,,<div class=prt-text-small>敌人使用特殊技能时自身技能cd缩短1回合/10回合以后，每回合可连续使用2次同一技能</div>
+support-2,,<div class=prt-text-small>鸟神的鼓舞效果中的角色在奥义发动时回复自身HP/1种弱体效果</div>
+skill-lb,LB技能,我方全体暗属性伤害减轻
+intro,纯白的礼物,被纯白的羽毛包裹着身体的鸟神，飞驰在圣夜的天空中。她的眼睛因好奇心而闪烁着星星般的光芒，她的小手将温暖的礼物送给所有的人。
