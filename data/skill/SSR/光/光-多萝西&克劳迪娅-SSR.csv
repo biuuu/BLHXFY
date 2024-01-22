@@ -1,20 +1,13 @@
 id,name,detail
 npc,双人女仆 多萝西&克劳迪娅,3040134000
-special,严酷之炎,光属性伤害(特大)/二连击率DOWN
-special-フルメタル・インパクト,全金属冲击,光属性伤害(特大)/防御DOWN
-special-Fullmetal Impact,全金属冲击,光属性伤害(特大)/防御DOWN
-special-チェック・メイド,制胜二手,光属性伤害(特大)/二连击率DOWN/防御DOWN/奥义连击伤害上限UP
-special-Checkmaid,制胜二手,光属性伤害(特大)/二连击率DOWN/防御DOWN/奥义连击伤害上限UP
+special,严酷之炎/全金属冲击/制胜二手,<div class=prt-text-small>多萝西:光属性伤害(特大)/二连击率DOWN<br>克劳迪娅：光属性伤害(特大)/防御DOWN<br>双人：光属性伤害(特大)/二连击率DOWN/防御DOWN/奥义连击伤害上限UP</div>
 skill-1,明确分工,对敌方单体造成3.5倍光属性伤害/换人/获得仆从誓言效果(独立攻击30%)
-skill-2,顶级服务,主角攻击50%UP/二连击概率60%UP/50%光属性追伤
-skill-ヴェヒター,贴身护卫,自身伤害上升效果/暴击率UP
-skill-Wachter,贴身护卫,自身伤害上升效果/暴击率UP
+skill-2,顶级服务/贴身护卫,<div class=prt-text-small>多萝西:主角攻击50%UP/二连击概率60%UP/50%光属性追伤<br>克劳迪娅：自身伤害上升效果/暴击率UP</div>
 skill-Door Knocker,破门而入,对敌方全体造成5倍光属性伤害/CT增加
-skill-ドア・ノッカー,破门而入,对敌方全体造成5倍光属性伤害/CT增加
-skill-3,全部消毒,对敌方全体造成2.5倍光属性伤害，驱散1个强化效果
+skill-ドア・ノッカー,,
+skill-3,全部消毒/破门而入,<div class=prt-text-small>多萝西:对敌方全体造成2.5倍光属性伤害，驱散1个强化效果<br>克劳迪娅：对敌方全体造成5倍光属性伤害/CT增加</div>
 skill-4,仆从前锋,获得100%奥义值
-support-1,忠诚的女仆,多萝西:普攻对所有敌人有效/普攻有概率赋予敌人防御DOWN效果(5%，累积，最大20%)
-support-1,忠诚的女仆,<div class=prt-text-small>多萝西：普通攻击全体化<br><span class=text-blue>克劳迪娅：普攻有概率降低敌人防御(5%，累积，最大20%)</span></div>
+support-1,忠诚的女仆,<div class=prt-text-small>多萝西：普通攻击全体化<br>克劳迪娅：普攻有概率降低敌人防御(5%，累积，最大20%)</div>
 support-2,行动一致,奥义值最大200%<span class=text-blue>◆200%奥义值并在仆从誓言效果中，可发动合体奥义</span>
 skill-lb,LB技能,使用技能时奥义值上升
 intro,主人&,2位女仆终于再会，踏上了原本目的的旅途。她的火焰照亮道路，她的铁拳击溃障壁，无论有什么困难她们都会追随自己认定的主人。
