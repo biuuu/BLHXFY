@@ -1,0 +1,11 @@
+﻿id,name,detail
+npc,哪吒,3040332000
+special,火尖枪,<div class=prt-text-small>风/火伤害(特大)/技能2课即刻使用<span class=text-blue>◆根据神力Lv火属性伤害性能UP</span></div>
+skill-1,炎闪岚枪,对敌方单体造成风·火属性伤害/自身奥义30%UP/回复HP
+skill-2,风火招来,<div class=prt-text-small>我方全体风·火属性攻击UP/火属性伤害20%减轻<span class=text-blue>◆神力Lv5时，追加火属性追击效果</span></div>
+skill-3,混天绫,敌方全体防御DOWN/风属性防御DOWN/火属性防御DOWN
+support-1,霸空武神,<div class=prt-text-small>使用强化技能或承受火属性伤害时神力Lv上升1(最大5)<span class=text-blue>◆L
+v5时，获得火属性追击效果/回合结束时发动技能1</span></div>
+support-2,至知晓「终结」之日,<div class=prt-text-small>根据队伍中「星晶兽」的数量依次获得以下效果：无视敌人火属性耐性/攻击UP/必定三连击/防御UP/奥义值上升量UP</div>
+skill-lb,LB技能,战斗开始时神力Lv上升
+intro,,
