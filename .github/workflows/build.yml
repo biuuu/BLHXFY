@@ -22,13 +22,17 @@ jobs:
     - name: Move data files
       run: cp -r group/data/ ./
     - name: Use Node.js
-      uses: actions/setup-node@v1
+      uses: actions/setup-node@v4
       with:
-        node-version: '12.x'
+        node-version: '18.x'
+    - name: Use pnpm
+      uses: pnpm/action-setup@v2
+      with:
+        version: 8
     - name: Install dependencies
-      run: yarn --frozen-lockfile
+      run: pnpm install
     - name: Build data
-      run: yarn deploy_action
+      run: pnpm deploy_action
     - name: Deploy
       if: success()
       uses: crazy-max/ghaction-github-pages@v2
