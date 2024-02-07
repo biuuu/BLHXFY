@@ -2,7 +2,7 @@
 npc,菲奥莉托,3040305000
 special,,土属性伤害(特大)/驱散1种强化效果
 skill-1,,根据装备的「格斗」武器数量对敌方单体造成土属性伤害/防御25%DOWN
-skill-2,,牺牲80%HP在回合中进行2次普攻
+skill-2,,牺牲80%HP在回合中进行2次攻击行动
 skill-3,,<div class=prt-text-small>食用增肌餐来使腹肌之玫瑰盛放<br><span class=text-blue>◆获得4层「玫瑰花」(最大6层)/净化所有弱体效果</span></div>
 support-1,,<div class=prt-text-small>自身HP越少，攻防UP/濒死状态下，在回合结束时发动技能1/受到致死伤害时，消耗1层「玫瑰花」继续战斗</div>
 support-2,,<div class=prt-text-small>根据装备的「格斗」武器数量依次获得以下效果：攻击UP/防御UP/必定连击/伤害上限UP/土属性追击效果</div>

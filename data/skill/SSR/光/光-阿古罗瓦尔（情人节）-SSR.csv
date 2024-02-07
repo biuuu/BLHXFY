@@ -5,6 +5,6 @@ skill-1,,<div class=prt-text-small>对敌方单体造成光属性伤害/赋予�
 skill-2,,对敌方全体造成光属性伤害/攻防DOWN(累积)<span class=text-blue>◆根据「极光刻印」层数，发动次数UP</span>
 skill-3,,对敌方单体造成光属性伤害/自身可即刻发动奥义/其他能力可即刻使用
 support-1,,<div class=prt-text-small>根据「极光刻印」层数依次获得以下效果：攻击UP/防御UP/连击率UP/伤害UP/技能伤害上限UP</div>
-support-2,,奥义连击发生时，赋予我方全体「极光刻印」<span class=text-blue>处于后排时同样发动</span>时
+support-2,,奥义连击发生时，赋予我方全体「极光刻印」<span class=text-blue>◆处于后排时同样发动</span>
 skill-lb,LB技能,连击时有几率赋予自身1层「极光刻印」
 intro,领袖的玉座,
