@@ -108,11 +108,13 @@ const repalceSkillText = function(ability, key1, key2, skillData, translated, ch
         trans = skillData[key2 + plus2]
         if (!trans && !changed) {
           trans = skillData[key2]
-          if (!trans) return
         }
       }
     }
   }
+
+  if (!trans) return
+  
   if (trans.name) {
     ability.name = trans.name + plus1
   }
@@ -187,11 +189,12 @@ const parseSkill = async (data, pathname) => {
 
     if (!skillData) continue
 
-    const extraSkillKeys = ['display_action_ability_info', 'form_change_display_action_ability_info']
+    const extraSkillKeys = ['display_action_ability_info', 'form_change_display_action_ability_info', 'select_display_action_ability_info']
     for (let extraKey of extraSkillKeys) {
       if (ability[extraKey] && ability[extraKey].action_ability) {
         const changedSkills = ability[extraKey].action_ability
         for (let item of changedSkills) {
+          await transBuff(item.ability_detail)
           if (item.action_id !== ability.action_id) {
             if (item.name === ability.name) {
               // 因为切换后的技能名跟原技能名相同，所以必须给技能名加上 ex 标识来区分
