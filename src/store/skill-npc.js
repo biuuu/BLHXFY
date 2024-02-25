@@ -11,6 +11,7 @@ const skillMap = new Map()
 
 const skillKeys = [
   ['special_skill', 'special'],
+  ['power_up_special_skill', 'special'],
   ['ability', 'skill-1'],
   ['ability', 'skill-2'],
   ['ability', 'skill-3'],

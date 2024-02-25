@@ -64,21 +64,6 @@ const transSkill = (comment, { commSkillMap, nounMap, nounRE, autoTransCache }) 
   return result
 }
 
-const parseBuff = async (data) => {
-  for (let item of skillKeys) {
-    const key = item[0]
-    let ability = data[key]
-    if (!ability) {
-      if (!data.ability) continue
-      ability = data.ability[key]
-      if (!ability) continue
-    }
-    if (ability.ability_detail) {
-      await transBuff(ability.ability_detail)
-    }
-  }
-}
-
 const previewSkill = (npcId) => {
   jQuery('#cnt-detail')
   .off('click.blhxfy')
@@ -99,6 +84,44 @@ const previewSkill = (npcId) => {
   })
 }
 
+const repalceSkillText = function(ability, key1, key2, skillData, translated, changed) {
+  if (ability.recast_comment) {
+    ability.recast_comment = replaceTurn(ability.recast_comment)
+  }
+  if (ability.recast_additional_comment) {
+    ability.recast_additional_comment.replace('リンクアビリティで連動', 'Link技能')
+  }
+
+  const abilityName = changed === 'ex' ? 'ex-' + ability.name : ability.name
+  const [plus1, plus2, name] = getPlusStr(abilityName)
+  let trans = skillData[`skill-${abilityName}`] || skillData[`skill-${name}`]
+  if (!trans) {
+    trans = skillData[`special-${abilityName}`] || skillData[`special-${name}`]
+    if (!trans) {
+      let list = skillData[key2 + '-lv']
+      list && list.forEach(item => {
+        if (level >= item.level) {
+          trans = item.data
+        }
+      })
+      if (!trans) {
+        trans = skillData[key2 + plus2]
+        if (!trans && !changed) {
+          trans = skillData[key2]
+          if (!trans) return
+        }
+      }
+    }
+  }
+  if (trans.name) {
+    ability.name = trans.name + plus1
+  }
+  if (trans.detail) {
+    ability.comment = trans.detail
+    translated.set(key1, true)
+  }
+}
+
 const parseSkill = async (data, pathname) => {
   if (Game.lang === 'en') return data
   let npcId
@@ -113,7 +136,6 @@ const parseSkill = async (data, pathname) => {
     level = data.max_level
   }
 
-  await parseBuff(data)
   previewSkill(npcId)
 
   let skillState = getLocalSkillData(npcId)
@@ -123,79 +145,71 @@ const parseSkill = async (data, pathname) => {
   const skillData = skillState.skillMap.get(npcId)
   const translated = new Map()
   const keys = skillState.skillKeys
-  if (skillData) {
-    let lbCount = 0
-    for (let item of keys) {
-      const key1 = item[0]
-      const key2 = item[1]
-      let ability = data[key1]
 
-      if (!ability || (Array.isArray(ability) && !ability.length)) {
-        if (!data.ability) continue
-        ability = data.ability[key1]
-        if (!ability || (Array.isArray(ability) && !ability.length)) continue
-      }
+  let lbCount = 0
+  for (let item of keys) {
+    const key1 = item[0]
+    const key2 = item[1]
+    let ability = data[key1]
 
-      if (key1 === 'support_ability_of_npczenith' && !Array.isArray(ability)) {
-        let lbLoopCount = 0
-        let abTemp = ability
-        for (let _k in ability) {
-          if (lbCount <= lbLoopCount) {
-            ability = ability[_k]
-            lbCount++
-            break
-          }
-          lbLoopCount++
-        }
-        if (abTemp === ability) {
-          continue
-        }
-      }
+    if (!ability || (Array.isArray(ability) && !ability.length)) {
+      if (!data.ability) continue
+      ability = data.ability[key1]
+      if (!ability || (Array.isArray(ability) && !ability.length)) continue
+    }
 
-      if (key2 !== 'special' && !key2.startsWith('skill-lb')) {
-        const matched = key2.match(/(\d)$/)
-        const order = matched ? matched[1] : '1'
-        ability = ability[order]
-        if (!ability) {
-          continue
+    if (key1 === 'support_ability_of_npczenith' && !Array.isArray(ability)) {
+      let lbLoopCount = 0
+      let abTemp = ability
+      for (let _k in ability) {
+        if (lbCount <= lbLoopCount) {
+          ability = ability[_k]
+          lbCount++
+          break
         }
+        lbLoopCount++
       }
-
-      if (ability.recast_comment) {
-        ability.recast_comment = replaceTurn(ability.recast_comment)
-      }
-      if (ability.recast_additional_comment) {
-        ability.recast_additional_comment.replace('リンクアビリティで連動', 'Link技能')
-      }
-      const [plus1, plus2] = getPlusStr(ability.name)
-      let trans = skillData[`skill-${ability.name}`]
-      if (!trans) {
-        trans = skillData[`special-${ability.name}`]
-        if (!trans) {
-          let list = skillData[key2 + '-lv']
-          list && list.forEach(item => {
-            if (level >= item.level) {
-              trans = item.data
-            }
-          })
-          if (!trans) {
-            trans = skillData[key2 + plus2]
-            if (!trans) {
-              trans = skillData[key2]
-              if (!trans) continue
-            }
-          }
-        }
-      }
-      if (trans.name) {
-        ability.name = trans.name + plus1
-      }
-      if (trans.detail) {
-        ability.comment = trans.detail
-        translated.set(key1, true)
+      if (abTemp === ability) {
+        continue
       }
     }
 
+    if (key2 !== 'special' && !key2.startsWith('skill-lb')) {
+      const matched = key2.match(/(\d)$/)
+      const order = matched ? matched[1] : '1'
+      ability = ability[order]
+      if (!ability) {
+        continue
+      }
+    }
+
+    await transBuff(ability.ability_detail)
+
+    if (!skillData) continue
+
+    const extraSkillKeys = ['display_action_ability_info', 'form_change_display_action_ability_info']
+    for (let extraKey of extraSkillKeys) {
+      if (ability[extraKey] && ability[extraKey].action_ability) {
+        const changedSkills = ability[extraKey].action_ability
+        for (let item of changedSkills) {
+          if (item.action_id !== ability.action_id) {
+            if (item.name === ability.name) {
+              // 因为切换后的技能名跟原技能名相同，所以必须给技能名加上 ex 标识来区分
+              repalceSkillText(item, key1, key2, skillData, translated, 'ex')
+            } else {
+              repalceSkillText(item, key1, key2, skillData, translated, 'changed')
+            }
+          } else {
+            repalceSkillText(item, key1, key2, skillData, translated)
+          }
+        }
+      }
+    }
+
+    repalceSkillText(ability, key1, key2, skillData, translated)
+  }
+
+  if (skillData) {
     if (data.master) {
       const trans = skillData['npc']
       if (trans && trans.name) {
