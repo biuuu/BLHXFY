@@ -1,10 +1,10 @@
 id,name,detail
 npc,玛琪拉,3040372000
-special,,<div class=prt-text-small>光属性伤害(特大)/我方全体获得浑身效果/护盾效果<span class=text-blue>◆对光慧状态中的敌人造成光属性追加伤害</span></div>
-skill-1,,对敌方单体造成光属性伤害/光慧效果<span class=text-blue>◆随使用次数增加，攻击次数增加(最大5次)</span>
-skill-2,,<div class=prt-text-small>对敌方全体造成光属性伤害/暗属性攻击DOWN/光属性防御DOWN<span class=text-blue>◆第2次发动追加连击率DOWN/第3次发动追加缓速效果</span></div>
-skill-3,,<div class=prt-text-small>单体光属性角色获得鸟神的鼓舞效果<span class=text-blue>◆鸟神的鼓舞效果中，HP回复/弱体效果回复追加为全部回复</span></div>
-support-1,,<div class=prt-text-small>敌人使用特殊技能时自身技能cd缩短1回合/10回合以后，每回合可连续使用2次同一技能</div>
-support-2,,<div class=prt-text-small>鸟神的鼓舞效果中的角色在奥义发动时回复自身HP/1种弱体效果</div>
-skill-lb,LB技能,我方全体暗属性伤害减轻
+special,天鸟行空,<div class=prt-text-small>光属性伤害(特大)/我方全体获得强壮效果(HP越多攻击力越高)/屏障效果<br><span class=text-blue>◆对处于「光慧」的目标进行技能追击造成光属性伤害</span></div>
+skill-1,浮圣雪响,<div class=prt-text-small>对敌方单体造成光属性伤害/「光慧」/攻击力DOWN<br><span class=text-blue>◆对处于「光慧」的目标累积造成一定光属性技能伤害后造成无属性伤害/驱散1个强化效果</span></div>
+skill-2,鸟风弄月,<div class=prt-text-small>对敌方全体造成光属性伤害/暗属性攻击力DOWN/光属性防御力DOWN<br><span class=text-blue>◆根据「鸟风弄月」发动次数追加连续攻击率DOWN/减速效果</span></div>
+skill-3,飞鸟龙文,<div class=prt-text-small>我方指定角色获得「鸟神的鼓舞」/光属性攻击力UP/防御力UP/伤害上限UP/回避率UP<span class=text-blue>◆若目标处于「鸟神的鼓舞」则获得HP回复(上限1万)/净化全部弱化效果/回避时对敌方单体造成4次光属性伤害</span></div>
+support-1,未熟透的圣诞老人,敌方使用特殊技的回合自身技能使用间隔缩短1回合<br><span class=text-blue>◆10回合以后自身技能在1回合内均可以使用2次</span>
+support-2,圣夜的装扮,<div class=prt-text-small>我方处于「鸟神的鼓舞」的角色发动奥义时获得HP回复(上限1000)/净化1个弱化效果<br><span class=text-blue>◆仅前排有效</span></div>
+skill-lb,LB技能,我方全体获得暗属性伤害减轻<br><span class=text-blue>◆仅前排有效</span>
 intro,纯白的礼物,被纯白的羽毛包裹着身体的鸟神，飞驰在圣夜的天空中。她的眼睛因好奇心而闪烁着星星般的光芒，她的小手将温暖的礼物送给所有的人。
