@@ -59,7 +59,8 @@ const tryFetch = async () => {
 const request = async (pathname) => {
   if (fetchInfo.result) {
     return new Promise((rev, rej) => {
-      fetch(`${config.origin}${pathname}`)
+      const url = /^https?:\/\//.test(pathname) ? pathname :`${config.origin}${pathname}`
+      fetch(url)
       .then(res => {
         if (!res.ok) {
           rej(`${res.status} ${res.url}`)

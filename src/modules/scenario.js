@@ -1,8 +1,7 @@
-import pako from 'pako/dist/pako_inflate.min.js'
 import getNameData, { getNounData } from '../store/name-npc'
+import { getStoryCSV } from '../store/story'
 import transName from '../utils/trans-name'
 import parseCsv from '../utils/parseCsv'
-import fetchData from '../fetch'
 import config from '../config'
 import insertToolHtml from '../story/insertToolHtml'
 import autoDownloadCsv from '../setting/autoDownloadCsv'
@@ -102,19 +101,16 @@ const transMulti = async (list, nameMap, nounMap, nounFixMap, caiyunPrefixMap) =
   return fixedList
 }
 
-let scenarioData
 const getScenario = async (name) => {
   let csv = getPreviewCsv(name)
+  let isLLMTrans = false
   if (!csv) {
-    if (!scenarioData) {
-      const binaryString = await fetchData('/blhxfy/data/story-map.json')
-      scenarioData = JSON.parse(pako.inflate(binaryString, { to: 'string' }))
-    }
-    const pathname = scenarioData[name]
-    if (!pathname) {
+    const [text, isAI] = await getStoryCSV(name)
+    if (!text) {
       return { transMap: null, csv: '' }
     }
-    csv = await fetchData(`/blhxfy/data/story/${pathname}`)
+    csv = text
+    isLLMTrans = isAI
   }
   const list = parseCsv(csv)
   const transMap = new Map()
@@ -134,7 +130,7 @@ const getScenario = async (name) => {
       transMap.set(id, obj)
     }
   })
-  return { transMap, csv }
+  return { transMap, csv, isLLMTrans }
 }
 
 const collectNameHtml = (str) => {
@@ -199,7 +195,7 @@ const transStart = async (data, pathname) => {
   scenarioCache.hasTrans = false
   scenarioCache.hasAutoTrans = false
   scenarioCache.transMap = null
-  let { transMap, csv } = await getScenario(scenarioName)
+  let { transMap, csv, isLLMTrans } = await getScenario(scenarioName)
   if (transMap && transMap.has('filename')) {
     scenarioCache.originName = transMap.get('filename').detail
   }
@@ -267,7 +263,8 @@ const transStart = async (data, pathname) => {
           if (transMap.has('translator')) {
             name = transMap.get('translator').detail || name
           }
-          item[key] = `<a class="autotrans-hint-blhxfy translator-blhxfy" data-text="译者：${name}"> </a>${item[key]}`
+          const translatorHint = isLLMTrans ? `本节使用 ${name} 机翻` : `译者：${name}`
+          item[key] = `<a class="autotrans-hint-blhxfy translator-blhxfy" data-text="${translatorHint}"> </a>${item[key]}`
         }
       }
     })
