@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,多萝赛尔,3040464000
+special,,恢复我方全体HP/护盾效果/获得1张VIP券(最大2)/技能cd缩短1回合
+skill-1,准备茶会！,选哪个呢<span class=text-blue>◆将选择茶会上的茶点</span>
+skill-2,优雅绝杀！,敌方全体攻击DOWN/防御DOWN/受伤增加
+skill-3,认真上了！,<div class=prt-text-small>对敌方随机目标造成3次光属性伤害/驱散敌方全体1种强化效果<span class=text-blue>◆消耗1张VIP券/随使用次数增加，攻击次数增加(最大8次)</span></div>
+support-1,俱乐部邀请,战斗开始时获得2张VIP券(最大2)
+support-2,帽子上的小伙伴,<div class=prt-text-small>每消耗1张VIP券，名流Lv上升1(最大5)<span class=text-blue>◆根据名流Lv，防御UP/连击率UP</span></div>
+skill-lb,LB技能,
+intro,,

@@ -1,0 +1,9 @@
+id,name,detail
+npc,诺亚,3040255000
+special,神圣天球,<div class=prt-text-small>光属性伤害(特大)/我方全体DA率UP/奥义上升量UP</div>
+skill-1,放射冲击II,<div class=prt-text-small>驱散敌方单体1个强化效果/付与安宁的渡鸟</div>
+skill-2,神圣护盾,<div class=prt-text-small>对敌方全体造成光属性攻击.我方全体无敌(1次)/驱散无效(1次)</div>
+skill-3,祷告虹膜,<div class=prt-text-small>自身以外的光属性角色单体获得奥义即刻发动/旅途的祝福效果<br><span class=text-blue>◆10回合之后追加奥义再发动(1次)</span></div>
+support-1,虹色的彼方,处于旅途的祝福的角色奥义发动时，祷告虹膜的使用间隔缩短1回合
+support-2,造船的星晶兽,我方光属性角色对处于安宁的渡鸟的敌人奥义性能UP
+intro,空艇的引导者,司掌造船的星晶兽决定与人一起踏上孕育文化的道路。所往之处的天空虽然没有向导，但航路上吹拂着祝福之风。
