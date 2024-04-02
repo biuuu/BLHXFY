@@ -3,7 +3,7 @@ npc,科斯莫斯,3040467000
 special,均衡,光属性伤害(特大)/自身技能cd缩短1回合<span class=text-blue>◆「调停之光」效果中发动2次</span>
 skill-1,起爆清除,<div class=prt-text-small>对敌方全体造成6次全属性攻击/驱散1种强化效果<span class=text-blue>◆「调停之光」效果中，发动奥义后发动</span></div>
 skill-2,轰爆抹消,<div class=prt-text-small>对敌方单体造成光属性伤害/连击率DOWN(累积)/自身奥义值20%UP<span class=text-blue>◆「调停之光」效果中，普攻后发动</span></div>
-skill-3,调停之光,<div class=prt-text-small>自身获得「调停之光」效果/可即刻发动奥义/HP最大值减半/1回合免疫伤害<span class=text-blue>◆第2次发动时其他技能可即刻使用/同一攻击技能可连续使用2次</span></div>
+skill-3,调停之光,<div class=prt-text-small>自身获得「调停之光」效果/可即刻发动奥义/当前HP变为最大HP的50%/1回合免疫伤害<span class=text-blue>◆第2次发动时其他技能可即刻使用/同一攻击技能可连续使用2次</span></div>
 support-1,祈愿的延续,<div class=prt-text-small>无视敌人的火·水·土·风·暗耐性/无视敌人属性进行弱点属性攻击/受到光属性角色回复或强化技能，「调停之光」的缓冲和冷确时间各缩短1回合</div>
 support-2,通往旅途的入口,<div class=prt-text-small>「调停之光」效果中，自身HP越接近50%，光属性角色攻击UP/防御UP/奥义性能UP/技能性能UP</div>
 skill-lb,LB技能,
