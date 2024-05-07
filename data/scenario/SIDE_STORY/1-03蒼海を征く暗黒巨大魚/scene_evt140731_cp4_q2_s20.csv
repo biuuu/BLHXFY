@@ -1,0 +1,27 @@
+id,name,text,trans
+0-chapter_name,,4: Advent of Chaos,4:混乱降临
+0-synopsis,,"Even Sig, who has fought Albacore for a long time, isn't sure what it's capable of. Io and Lyria begin to panic in the dark, and Sig makes matters worse with a tale of a ghost ship. ","众人各自思索着会不会是多条Albacore同时出现了的情况，但即便是与之斗争多年的Sig也有很多不明白的地方，结果也没能得出答案。伊欧和露莉亚在洞窟内行进时被道路上的影子吓到，卡塔莉娜想让两人冷静下来，但Sig却开始讲述恐怖的幽灵船传闻来吓唬她们，就在这时魔物出现了。"
+0,Io/伊欧,"So, uh... Do you really think that a bunch of Albacore showed up all at once?","我说……Albacore真的一下子出现了很多吗?"
+1,Sig,"Who can say? Albacore has been my sworn enemy for so many years, but it's still a mystery to me.","谁知道呢?虽然它是我多年的宿敌,但它身上还有许多未解之谜"
+2,Katalina/卡塔莉娜,"This is a primal beast we're talking about, after all. It's safe to say that common sense doesn't always apply.","对方可是星晶兽啊。我们的常识恐怕是不管用的吧。"
+3,Walder,Humph. Common sense exists only to be smashed!,"哼,常识就是用来打破的！"
+4,Vyrn/碧,"Nah, I think you could use a little more common sense, actually.","不是,Walder,我觉得你还是稍微搞清楚常识是什么意思吧？"
+5,Walder,What was that?,"什么!?"
+6,Lyria/露莉亚,"Now, now, it's all right! That's what makes Walder so interesting!","好、好啦好啦……这不是挺好的吗！这说明Walder先生是个有趣的人嘛！"
+7,Io/伊欧,I'd say that Lyria has the same problem as—mmph!,"虽然你说得像是事不关己，但露莉亚你的常识也……唔嗯！？"
+9,Katalina/卡塔莉娜,"Haha... ha... Come on, you guys, let's keep moving!","哈、哈哈哈……总之现在，还是继续前进吧！"
+15,Io/伊欧,Eek! Did you see that?,"咿……！？刚、刚才是不是有什么！？"
+16,Lyria/露莉亚,H-huh? Wh-where?,"诶、诶！？在、在哪里！？"
+17,Katalina/卡塔莉娜,"Haha. Calm down, you two. I'm sure it was just your imagination.","哈哈……你们两个冷静点。一定是看错了什么吧。"
+18,Lyria/露莉亚,Yeah... Not a ghost or anything...,"呜呜……会、会不会是幽灵什么的？"
+19,Io/伊欧,"No, cut it out! There's no such things as ghosts!","等、别、别说了！幽、幽幽、幽灵什么的不可能存在的吧！"
+20,Sig,You're saying ghosts don't exist? I'm not so sure about that.,"哎呀，不能说的这么绝对哦。"
+21,Io/伊欧,Liar! Are you saying you've seen a ghost?,"什、什么啊！那么，Sig你见过幽灵吗？"
+22,Sig,"No, I haven't, but I did hear a rumor about a ghost ship recently...","不，我倒是没有，但之前，我听说过幽灵船的传闻……"
+23,Sig,"They say it skulks through the fog, manned by a crew of ghosts!","据说幽灵船会从雾中，飘飘悠悠地出现……船上载着一群幽灵……！"
+24,Lyria/露莉亚,Eeek! Io! What's that!,"咿！伊、伊欧！看那个！"
+25,Io/伊欧,Humph! Don't try to scare me like that!,"哼、哼！想吓唬我，没那么容易！"
+26,Monster/魔物,Grrrr!,"呜哇哇哇!"
+27,Katalina/卡塔莉娜,"No, Io, it's a monster! We have to fight back, 姬塔!","不是吓你，伊欧！是魔物！准备迎战,姬塔！"
+info,,,scene_evt140731_cp4_q2_s20
+sym1018,,,

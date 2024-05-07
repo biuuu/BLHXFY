@@ -1,0 +1,28 @@
+id,name,text,trans
+0-chapter_name,,2: Fate and Destiny,2:宿命与因缘
+0-synopsis,,"Albacore follows a set route through the skies, passing by Yudhisthira Island at regular intervals. Sig deduces this is the best chance of catching Albacore. Burdened by the expectations of her fellow fishermen, Sig tries to strengthen her resolve.","Albacore沿着固定的路线穿过天空,定期经过Yudhisthira岛.Sig推断这是抓住Albacore的最好机会.由于同伴的期望,Sig试图加强她的决心."
+0,Scallywag 1,"C'mon! Pick up the pace, landlubbers!","喂,旱鸭子们,你们搞快点"
+1,Lyria/露莉亚,Huff... Please wait!,"哈..哈..请等一下!"
+2,Sig,Hey! Quit giving our friends a hard time!,"嘿!别再为难我们的朋友了!"
+3,Scallywag 1,"Yikes! Forgive me, Boss!","咦!对不起!老大"
+4,,The crew is helping the Druga Pirates with their patrols.,"船员们正在帮助Druga渔团进行巡逻。"
+5,Sig,"Right, then! Put some wind in your sails! Show 姬塔's crew what we're made of!","来!给船帆加点风!让他们看看我们是什么做的!"
+6,Scallywags,Aye-aye!,"遵命!"
+8,Sig,Hrm... So where were we?,"那么,我们说到哪了?"
+9,Walder,"Ah, yes. I believe I was halfway through a tale involving me and Jade...","啊,是的,我想我已经讲到一半了关于我和Jade的故事."
+10,Katalina/卡塔莉娜,"Um, let's save that for another time, shall we?","额,那个下次再说好吗?"
+11,Katalina/卡塔莉娜,You were saying that Albacore migrates around the Sky Realm?,"你刚才说星晶兽Albacore在天空周围移动？"
+12,Sig,"Aye, that's right! That beast is constantly on the move.","是,是,那家伙一直在移动!"
+13,Sig,"Its speed is unbelievable. I've seen it rip holes through countless airships, as if they were made of paper.","它的速度令人难以置信,我见过它撕开无数的骑空艇,好像它们是用纸做的一样."
+14,Vyrn/碧,Gulp. It could hit us too...,"咕噜,我们也可能被击中."
+15,Sig,"However, Albacore loses speed when it enters the water.","然而,Albacore在进入水中时会降低速度。"
+16,Sig,"Furthermore, its migration pattern runs past Yudhisthira, so it appears at fixed intervals.","此外它会定期经过Yudhisthira."
+17,Sig,"Given these two conditions, our best chance of taking down that beast is here on this island.","所以,我们打败它最好的机会就是在这座岛上"
+18,Walder,A fate that lasts for seven generations is no joke.,"七代人的命运真是了不起"
+19,Walder,"I mean, the forest rangers have been entrusted with the forest for generations, but...","我的意思是,森林游侠世世代代都被赋予守护森林的使命,但也没有.."
+20,Katalina/卡塔莉娜,It's amazing that you've continued this battle with Albacore for so long.,"你和长鳍金枪鱼的因缘从那么就就开始真是令人惊讶."
+21,Scallywag 1,"Yeah, but our boss is definitely gonna be the one to end it!","是啊,但我们首领绝对会是结束这一切的人!"
+22,Scallywag 2,"Yeah, the boss is the greatest out of all of 'em! Uh, no offense to the previous generations...","是的,首领是他们中最伟大的!没有冒犯前几代人的意思..."
+23,Sig,It's all right. I'll be the one to settle the score this generation...,"啊...没关系.我绝对会斩断这段因缘!"
+info,,,scene_evt140731_cp2_q1_s10
+sym1018,,,

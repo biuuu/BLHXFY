@@ -1,0 +1,17 @@
+id,name,text,trans
+0-chapter_name,,3: The Cave of Misgivings,3:疑惑的洞窟
+0-synopsis,,"Based on eyewitness reports, Albacore is expected to pass by Harjuna Cave. The crew must fight off monsters before they can enter the cave.","姬塔及其团员根据目击情报等预测星晶兽Albacore可能会经过Harjuna洞窟.在Sig的鼓舞下,海盗团一行人的士气也随之上升.一行人在陌生的Harjuna洞窟持续行进中,突然遭到怪物袭击."
+0,Sierokarte/榭洛科特,"If I may be so bold, the Knickknack Shack's very own Siero is here to explain the situation!","恕我僭越,请允许我万事屋Siero特别说明一下"
+1,Sierokarte/榭洛科特,"According to eyewitness reports and the trail it's left behind, here's the projection of Albacore's path.","根据Albacore的目击情况,以及Albacore经过的痕迹,这里是预测的迁徙路线"
+2,,Siero unfurls a map and points to a line drawn across it.,说着,Siero指着摊开的地图上的路线.
+3,Sierokarte/榭洛科特,If you consider Albacore's speed and its migration pattern around this island...,"考虑到Albacore只在这个岛上迁徙的习性及其速度."
+4,Sierokarte/榭洛科特,"It's probably going to pass by here, Harjuna Cave, very soon.","恐怕它很快就会经过这里,Harjuna洞窟"
+5,Sig,Perfect. There shouldn't be any tourists or islanders there.,"Harjuna洞窟啊...正好,岛上的居民和游客平常都不会靠近这里."
+6,Scallywag 1,"This is it, Boss.","老大..终于要.."
+7,Sig,"Aye! Let's be off, you sea dogs! This is the last time Albacore roams free!","哈!来吧,小的们!这次将是阿尔巴可的末日!"
+13,Katalina/卡塔莉娜,This cave is flowing with water. I guess places like this are common in the Auguste Isles.,"充满水的洞窟啊……拥有大海的奥古斯特列岛上,也有这样的地方啊."
+14,Sig,"Is it that unusual? Sorry, but you'll have to save the sightseeing for next time.","很不寻常吗?但是不好意思,想旅游的话还请先等一下"
+15,Monster/魔物,Grrrr!,"呜哇哇哇"
+16,Sig,We'll need to fight our way in! Give it your all!,"不先把这些家伙解决掉的话,也进不了洞窟啊!全力迎战!"
+info,,,scene_evt140731_cp3_q1_s20
+sym1018,,,

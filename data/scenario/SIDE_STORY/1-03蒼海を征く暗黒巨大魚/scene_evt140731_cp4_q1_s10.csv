@@ -1,0 +1,17 @@
+id,name,text,trans
+0-chapter_name,,4: Advent of Chaos,4:混乱降临
+0-synopsis,,"Io rushes into the cave with news that Albacore has been spotted all over the island. Io is unable to provide any more information, so the party hurries toward the cave exit to assess the situation.","慌慌张张跑来的伊欧告诉我们，Albacore似乎出现在了岛上的各个地方。她本人也没有完全掌握情况，一行人急忙朝洞窟出口赶去。"
+0,Io/伊欧,"It's an emergency, 姬塔!","姬塔,紧..紧急情况!"
+1,,A flustered and out of breath Io appears from the darkness of the cave.,"上气不接下气的伊欧慌慌张张地冲进了洞窟。"
+2,Katalina/卡塔莉娜,Io! What's wrong?,"伊欧！怎么了？怎么这么慌张"
+3,Io/伊欧,"It's that fishy primal, Albacore! It's popping up all over the island!","那条长得像鱼的星晶兽Albacore似乎出现在岛上的各个地方！"
+4,Sig,What? How can that be?,"什么?怎么回事?"
+5,Io/伊欧,Don't ask me! People are reporting sightings of Albacore everywhere!,"我也不知道啊！但是，到处都在传Albacore出现在岛上……"
+6,Io/伊欧,"I've only heard about this from others, so I don't really know what's going on.","我也只是从别人那里听来的，所以搞不清楚到底发生了什么"
+7,Lyria/露莉亚,I have a bad feeling about this. It feels like something's building in my chest.,"但是，有种不祥的预感……感觉心里毛毛的"
+8,Sig,"Whatever this is, it's something we've never seen before.","总觉得好像发生了一些前所未有的事情。"
+9,Vyrn/碧,Oh no... Now I'm starting to feel nervous.,"呜……不知为何连我也紧张起来了……"
+10,Walder,"No matter what kind of opponent arises, an ocean ranger never yields!","无论出现什么样的敌人，海洋游侠都绝不会屈服！"
+11,Katalina/卡塔莉娜,"Haha, that's our Walder! Head for the exit, 姬塔!","呵呵……真让人安心。来，赶紧离开洞窟吧！姬塔！"
+info,,,scene_evt140731_cp4_q1_s10
+sym1018,,,

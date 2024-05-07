@@ -1,0 +1,15 @@
+id,name,text,trans
+0-chapter_name,,3: The Cave of Misgivings,3:疑惑的洞窟
+0-synopsis,,"The monster is driven away, but the crew is disappointed to go back empty-handed. Just then, a young girl's voice comes echoing through the cave.","虽然姬塔她们成功击退了来袭的魔物,但是在Harjuna洞窟找不到任何线索,令他们失望不已.虽然又回到了起点,但这并不是白跑一趟,在这次的战斗中获得自信的Sig,为了下一场战斗重新下定了决心.这时,为了向一行人通报紧急事态,一位少女慌慌张张地出现了."
+0,,姬塔 and company are able to fend off the attacking monster.,"面对来袭的魔物,姬塔一行人让他们安静了下来"
+1,,"However, they find no clues in Harjuna Cave that can lead them to Albacore.","但是,在Harjuna洞窟中并没有发现与星晶兽Albacore相关的东西."
+2,Katalina/卡塔莉娜,In the end we're back to where we started.,"结果,又回到开始了吗..."
+3,Sig,"Come now, keep your chin up. We'll get another chance.","好吧,别那么垂头丧气.我相信还有机会."
+4,Vyrn/碧,"Shouldn't you be feeling down, Sig? Especially after coming all the way out here for nothing?","话说,为什么Sig不沮丧呢?我们白跑了一趟啊"
+5,Sig,"I wouldn't say it was for nothing. At the very least, I regained some confidence in myself.","不,不是白跑一趟...至少我找到了自信."
+6,Sig,"Being with all of you has restored my conviction. The next time we meet Albacore, I'm sure I'll—","和姬塔你们一起一定能干掉Albacore.经过刚才的战斗,我如此确信..."
+7,???,"This is bad, bad, bad! It's a disaster!","哦,天哪! 情况紧急!"
+8,,"A young girl's voice echoes through the cave, interrupting Sig.","少女的声音打断Sig诉说决心的话语,在洞窟中回荡."
+9,,"The crew doesn't know it yet, but she is about to reveal to them an unimaginable turn of events.","这给姬塔一行人带来了意想不到的转折."
+info,,,scene_evt140731_cp3_q4_s30
+sym1018,,,

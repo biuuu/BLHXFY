@@ -1,0 +1,20 @@
+id,name,text,trans
+0-chapter_name,,1: Crisis at the Coast,1:海岸危机
+0-synopsis,,"Monsters swarm toward the woman as she pursues the giant fish, which Lyria senses is a primal beast. Before the crew can catch up to the woman, they deal with Walder's antics and the monsters.","魔物们聚集在追逐谜之巨鱼的女性身边,Lyria从巨鱼身上感受到星晶兽的气息.担心女性安危的众人追寻巨鱼而去,一边劝阻失控的Walder,一边追寻巨鱼和女性下落的众人遭到了魔物袭击"
+0,???,!,"!"
+1,???,"You're a stubborn one, I'll give you that! Be nice and accept your fate!","真是个死性不改的家伙!七代人的因缘就在我这里斩断吧!"
+4,Katalina/卡塔莉娜,Is that... a fish? And there's a woman chasing after it...,"那是什么...鱼吗?追着它的那个人是?"
+5,Sierokarte/榭洛科特,"Oh, it's what's her name.","哦,她的名字应该是..."
+6,Lyria/露莉亚,"Katalina! I can feel the presence of a primal beast, and it's coming from that fish!","Katalina! 那条鱼身上有星晶兽的气息"
+7,Katalina/卡塔莉娜,"Are you serious? No, it can't be...","什么?不,难道...难以置信..."
+8,Vyrn/碧,Oh no! A bunch of monsters are going after her!,"喂!追着那条鱼的大姐被一群魔物包围了!"
+9,Walder,Heh. This looks like a job for Ocean Ranger Walder!,"哼,看来这里正是海洋游侠Walder大显身手的时候!"
+10,Walder,Now watch in awe as the green flash streaks across the beach at the speed of light!,"来,看好了!在海滩奔驰的绿色闪光!"
+12,Vyrn/碧,"You dummy, you're going the wrong way! Someone grab Walder, and let's go after her!","喂,你这家伙!不是那个方向啊!把Walder那家伙拽回来,接着去追那个大姐!"
+18,Walder,Vicious monsters block my path. Such is the fate of an ocean ranger.,"前有魔物阻拦,这也是身为海洋游侠的宿命吗?"
+19,Vyrn/碧,"Sigh. We don't have time for games, Walder.","哈...要不是费时间把Walder拉回来,也不会变成这样..."
+20,Walder,My apologies.,"...抱歉"
+21,Katalina/卡塔莉娜,"In any case, we have to hurry! I know where that woman and the fish are headed.","总..总之赶快把!那条鱼和女性前进的方向是知道的"
+22,Katalina/卡塔莉娜,Let's make quick work of these monsters and save her!,"把魔物题为,快点去救他,姬塔!"
+info,,,scene_evt140731_cp1_q1_s20
+sym1018,,,

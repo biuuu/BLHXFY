@@ -1,0 +1,20 @@
+id,name,text,trans
+0-chapter_name,,6: A Fateful Finish,6:了结因缘
+0-synopsis,,"According to Lyria, the smaller Albacore and the Giant Albacore are all part of a single primal beast. The Druga Pirates momentarily lose their will in the face of the terrifying enemy, but Sig rallies her crew to protect their home.","露莉亚告诉姬塔一行，其实无数的Albacore和巨大的Albacore加在一起构成了一个星晶兽。面对逼近眼前的巨大Albacore，Druga渔团的渔夫们感到恐惧，Sig却说「守护尤迪斯蒂拉岛的Druga渔团不能畏惧威胁岛屿的存在」，给他们打气。"
+1,Giant Albacore,...,"..."
+4,Sig,"Tell me, Lyria, is this Albacore's true form?","露莉亚，说到底，这家伙就是Albacore的真面目吗？"
+5,Lyria/露莉亚,"Yes, I think so.","嗯……我想是的。"
+6,Lyria/露莉亚,All of these Albacore and that enormous one together make up one primal beast.,"大量的Albacore，和那个巨大的Albacore加在一起，构成了一个星晶兽……"
+7,Katalina/卡塔莉娜,So it's like a colony. That's quite the formidable adversary.,"群体型的星晶兽吗……是最棘手的对手了。"
+8,Walder,The problem isn't just the numbers... How do we beat that mountain-like creature?,"问题不只是数量……那样……像山一样的怪物……我们真的能打倒吗？"
+9,Io/伊欧,What's wrong with you? How can you become a crybaby at a time like this?,"什么啊！这种时候才畏畏缩缩的！"
+10,Walder,"I'm no crybaby! I was just a little surprised, that's all!","不、不是啊！我才没有畏缩！只是，那个……有点吓到了……"
+11,Vyrn/碧,Ngh... We're in a real pinch here.,"呜……这就是走投无路吗。"
+12,Giant Albacore,...,"..."
+13,Scallywag 2,Ahhh!,"咿……"
+14,Sig,"Oh please, a fisherman shouldn't be afraid of a fish, even if it's a primal beast!","真是的……就算是星晶兽，渔夫怎么能被鱼吓到啊！"
+15,Walder,"Erm, isn't it a bit unreasonable to call that humongous thing a fish?","不、不是……那么大的家伙还说是鱼，是不是有点勉强啊？"
+16,Sig,"A fish is a fish! And even if it isn't, we can't be afraid of it.","鱼就是鱼！再说就算不是鱼，我们也不能被吓倒……"
+17,Sig,Because we're the protectors of Yudhisthira Island! Let me hear your battle cry!,"守护尤迪斯蒂拉岛的是我们啊！来，打起精神上吧！"
+info,,,scene_evt140731_cp6_q2_s20
+sym1018,,,

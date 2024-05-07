@@ -1,0 +1,20 @@
+id,name,text,trans
+0-chapter_name,,5: A School Visit,5:接近鱼群
+0-synopsis,,"With monster numbers dwindling, the party can finally focus on the Albacore. Sig and the crew prepare to bring an end to seven generations of conflict.","姬塔一行总算设法减少了魔物的数量。但是Albacore仍然不计其数，众人重新鼓足干劲，现在才是真正的关键时刻。Sig说，多亏有姬塔在，无论Albacore有多少条，她都不觉得会输。为了了结持续七代的宿命，Sig向星晶兽Albacore发起挑战。"
+0,Sig,The swarm of monsters is finally winding down.,"聚集的魔物数量也减少了不少啊……"
+1,Sig,"It's time to confront the Albacore, wouldn't you say?","终于要和Albacore见面了吗？"
+2,Vyrn/碧,Yeah! Just a little more to go!,"是啊！再加把劲吧！"
+3,Katalina/卡塔莉娜,"Still, just how many of these primal beasts are there?","话虽如此,那个星晶兽Albacore现在到底有多少条啊？"
+4,Sig,"Hah! All the more reason to fight! This is it, mateys!","哼！那么从现在开始才是真正的关键时刻！"
+5,Sig,"I'm going all out, so make sure you keep up with me, 姬塔!","我会冲在前面，你要紧紧跟上来啊！姬塔！"
+6,Albacore,...,"..."
+13,Sig,Huh. 'Tis strange.,"呵……不知为何……"
+14,Sig,It wasn't that long ago that I had doubts about facing even a single Albacore.,"直到刚才，哪怕只是面对一条Albacore，我都充满了不安……"
+15,Sig,"But now, as I stand before an entire school of them, I feel as if I can't lose.","但是，现在不管有多少条，我都不觉得会输！"
+16,Sig,"It must be thanks to you, 姬塔.","这是因为有姬塔在的缘故吧？"
+17,Vyrn/碧,See? 姬塔's surprisingly reliable!,"姬塔意外地很可靠啊！"
+18,Sig,I wouldn't say it's surprising at all. Thank you for putting my heart at ease.,"说是意外就太失礼了。真的很令人安心……非常感谢你。"
+19,Sig,I can finally break this loop of fate once and for all!,"这样我一定能斩断这个宿怨！"
+20,Sig,"Prepare yourself, Albacore! Our eternal struggle ends now!","来吧！做好觉悟吧，Albacore！持续了七代的宿怨，就在此了结！"
+info,,,scene_evt140731_cp5_q4_s20
+sym1018,,,

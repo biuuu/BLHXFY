@@ -1,0 +1,16 @@
+id,name,text,trans
+0-chapter_name,,3: The Cave of Misgivings,3:疑惑的洞窟
+0-synopsis,,The air grows colder as they go farther in. Walder tries to regale the party with his tales but is interrupted by an ambush.,"一行人在寒冷的洞窟的瑟瑟发抖地前进.韦尔德回忆起过去,开始叙述过去冒险的日子,这时突然出现了魔物向他袭来."
+0,Katalina/卡塔莉娜,Brrr! I would've worn my armor if I'd known it was going to be this cold.,"呜呜...这么冷的洞窟,应该穿上铠甲的..."
+1,Sig,"Seriously? If you were wearing armor, you'd barely be able to crawl, let alone swim.","铠甲?如果穿着那个,当你遇险时,就不能游泳了."
+2,Katalina/卡塔莉娜,"But it'd be safer to wear armor while fighting monsters and such, wouldn't you agree?","但是,和魔物战斗时穿上铠甲会比较安全吧?"
+3,Sig,"Hah! When you go into battle, you already know there's no guarantee of safety.","哈!战斗从一开始就就保证不了安全."
+4,Sig,You either attack or be attacked. Charging in and being prepared for the worst is how we do things here on Yudhisthira!,"总是只能攻击或者被攻击.在Yudhisthira的战斗要为最坏的情况做好准备!"
+10,Walder,"Ahh, this pitch-black cave really brings back memories of my adventures back in the day...","这样...在漆黑的洞窟中前进,不禁让人想起过去冒险的日子..."
+11,Walder,"The cavern that Jade and I explored was cold and mysterious, just like this one.","和Jade挑战的那个洞窟,也是这样寒冷、诡异的洞窟..."
+12,Walder,"We walked cautiously, step by step, when—","就在我和Jade一起,一步一步小心翼翼前进的时候..."
+13,Monster/魔物,Groaar!,"呜哇哇哇!"
+14,Walder,"Ah yes, a monster suddenly appeared behind us, just like that.","没错...就是这样,魔物出现在我们背后..."
+15,Vyrn/碧,"Snap of out it, Walder! That's a real monster coming for us!","喂,喂!现在可不是沉浸在回忆里的时候!魔物真的出现了!"
+info,,,scene_evt140731_cp3_q3_s20
+sym1018,,,

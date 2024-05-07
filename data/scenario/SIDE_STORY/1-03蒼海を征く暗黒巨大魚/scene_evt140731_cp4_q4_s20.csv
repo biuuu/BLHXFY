@@ -1,0 +1,25 @@
+id,name,text,trans
+0-chapter_name,,4: Advent of Chaos,4:混乱降临
+0-synopsis,,"The party finally leaves the cave. At that moment, Lyria senses not one, but multiple presences of primal beasts, none of which feel like the so-called guardian of Auguste.","姬塔一行朝着洞窟出口前进。就在这时，露莉亚感应到了星晶兽的气息。一行人猜测Albacore正在接近，但据露莉亚所言，她感应到远处有多个气息。Sig说他从未听说过yostiyala岛上出现过Albacore以外的星晶兽，但露莉亚却说气息多得数不胜数。"
+1,Lyria/露莉亚,Huh? Ah!,"诶！？呃……诶诶！？"
+2,Katalina/卡塔莉娜,"What is it, Lyria? Why are you...","怎么了，露莉亚！发生什么了"
+3,Lyria/露莉亚,I can feel it.,"星、星晶兽的气息……"
+4,Sig,Really? Is Albacore coming this way?,"什么……？Albacore正朝这边，接近吗？"
+5,Walder,"In that case, I, the great Walder, will defeat it before it can attack!","那么，就由我Walder大人，将它打得落花流水！"
+6,Io/伊欧,Whatever! Stop saying things that are never going to happen!,"真是的！不要说自己做不到的事情啊！"
+7,Walder,Yeesh... You don't have to be so harsh about it...,"呜,不、不用全盘否定吧……"
+8,Lyria/露莉亚,"No, you're wrong!","不、不是的！"
+9,Walder,"Oh! See, Lyria understands me. That primal beast doesn't stand a chance.","哦哦！露莉亚你能理解我吗！我一定也能对付星晶兽……"
+10,Lyria/露莉亚,"Sorry, that's not what I meant...","啊，那个……不是说这个……"
+11,Lyria/露莉亚,It's not coming toward us.,"星晶兽的气息不是在接近这里……"
+12,Lyria/露莉亚,"It's kind of far away, but I sense a lot of them!","在稍微远一点的地方……但是……有很多很多的气息！"
+13,Vyrn/碧,"No way! We've gotta see it for ourselves! Come on, no time to rest!","喂喂喂……总之看来，只能继续前进了……"
+19,Katalina/卡塔莉娜,Several primal beasts? I wonder what could be happening on this island.,"多个星晶兽吗?现在这座岛上到底发生了什么？"
+20,Io/伊欧,Do other primal beasts besides Albacore ever appear on this island?,"我说,这座岛上除了Albacore以外,还会出现其他星晶兽吗？"
+21,Sig,Not to my knowledge. The stories my ancestors told me never mentioned something like that.,"从没听说过啊,即使是上一代和上上代也从来没提到过这样的事。"
+22,Sig,I've heard that a serpentine primal beast rules over the seas of the main island of Auguste.,"倒是听说过奥古斯特列岛的本岛那边有司掌大海的海龙星晶兽……"
+23,Lyria/露莉亚,It's not just two though. There are so many that I can't count them all!,"不是……两个。还有更多、更多……无数的气息……！"
+24,Monster/魔物,Groaar!,"呜哇哇哇!"
+25,Sig,The situation is getting out of hand. We need to deal with this small fry and rejoin the others!,"总觉得情况有点不妙啊,赶紧解决掉这些魔物，尽快和大家汇合吧！"
+info,,,scene_evt140731_cp4_q4_s20
+sym1018,,,

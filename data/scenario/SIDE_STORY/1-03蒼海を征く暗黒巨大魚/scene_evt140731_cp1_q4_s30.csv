@@ -1,0 +1,18 @@
+id,name,text,trans
+0-chapter_name,,1: Crisis at the Coast,1:海岸危机
+0-synopsis,,"Witnessing the hardheadedness of the crew, Sig finally relents and allows them to work together with the Druga Pirates.","目睹了团员的固执之后,Sig终于软下心来允许他们与Druga渔团合作"
+0,Walder,Ugh! I can't seem to get my footing...,"咕,在这种不熟悉的地形中,很难随心所欲的行动..."
+1,Lyria/露莉亚,Walder! Behind you!,"Walder!后面!"
+2,Walder,What?,"什么!"
+3,Monster/魔物,Grrrr!,"呜哇哇哇!"
+5,Sig,"You all right there, bucko?","没受伤吧?大哥"
+6,Walder,Sig...,"你是!"
+7,Sig,What a pitiful sight. You guys have absolutely no clue how to fight on a beach.,"真是让人看不下去,你们完全不懂在海边作战是什么样的"
+8,Sig,"Still, you're a good-hearted bunch.","不过嘛...你们是蠢到了极点的老好人这点我也知道了"
+9,Sig,"Plus, something tells me you're not good listeners. You got me. I won't try to stop you anymore.","还有,不听人说话这点,我认输了.我不打算再阻止你们了"
+10,Lyria/露莉亚,"Yay! Thank you, Sig!","好耶!非常感谢!Sig小姐!"
+11,Sig,"On one condition. We act together, all right?","不过!,有个条件,要和我们一起行动,明白吗?"
+12,,The crew finally wear Sig down and are allowed to join in the defense of Yudhisthira Island.,"姬塔一行终于让Sig同意让他们一起为了Yudhisthira岛而战."
+13,,"And so, an alliance is formed with the Druga Pirates.","就这样,姬塔一行人与Druga渔团建立了合作关系"
+info,,,scene_evt140731_cp1_q4_s30
+sym1018,,,

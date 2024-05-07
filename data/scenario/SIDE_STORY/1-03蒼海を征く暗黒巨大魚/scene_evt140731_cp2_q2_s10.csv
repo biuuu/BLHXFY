@@ -1,0 +1,24 @@
+id,name,text,trans
+0-chapter_name,,2: Fate and Destiny,2:宿命与因缘
+0-synopsis,,"Walder gives a rousing speech that stirs the spirits of the crew, despite having his weakness exposed: large crowds. Walder's crewmates do their best to reassure him it's no big deal.","Walder发表了激动人心的演讲,鼓舞了船员们的士气,尽管也暴露了他的弱点:害怕人群. Walder的队友们尽最大努力让他放心,说这没什么大不了."
+0,Scallywag 1,"Oh ho, so yer travelin' to the end of the sky, ye say.","诶,你说你们旅行是要到天空的尽头去吗?"
+1,Walder,Correct. My name shall surpass even the sky and echo throughout the world.,"没错,我的名字将会超越天际,响彻全世界."
+2,Katalina/卡塔莉娜,"Those lofty ambitions of yours just keep rising higher, don't they, Walder?","Walder的野心越来越大了..."
+3,Vyrn/碧,There's nothing wrong with that! That's what makes him so dependable!,"这不是很好吗!有这样的气概才值得信赖啊!"
+4,Vyrn/碧,"But we've got ambitions too! Isn't that right, 姬塔?","我们也不会输的!对吧!姬塔!"
+5,Walder,Huh?,"嗯?"
+7,Sig,Hm? Is something wrong? Why are you cowering all of a sudden?,"嗯?怎么了?突然躲到暗处..."
+8,Walder,"Er, no, I was just thinking that there are a lot of people here.","没.没什么.我只是觉得这附近人好多."
+9,Sig,"That's true, but what of it? Can't you just be your normal, enthusiastic self?","那又怎样?像往常一样,堂堂正正的不就行了吗?"
+10,Walder,"No, no, no. You've got it all wrong! As a forest ranger—no wait, right now I'm an ocean ranger...","不..不..不..等等!森林游侠.现..现在是海洋游侠."
+11,Walder,Whatever! The point is a ranger must always take clandestine actions!,"不管怎样!作为一名游侠,必须秘密地行动!"
+12,Sig,"Well, from what I've seen, you don't exactly seem to be the low-key type...","嗯,据我观察,你似乎不是那种低调的人."
+13,Vyrn/碧,"Hehe! Nice try, Walder! Truth is he's not very good at dealing with busy places.","嘿嘿!不是这样的对吧,Walder?Walder只是不喜欢人多的地方."
+14,Walder,How dare you! The great Walder has no weaknesses!,"胡..胡说什么!怎..怎么可能会有Walder大人不擅长的东西"
+15,Katalina/卡塔莉娜,Sounds like the desperate words of a man at the end of his rope.,"你这副狼狈相,旁人看了都觉得可怜..."
+16,Lyria/露莉亚,"Everyone has weaknesses, Walder. There's no need to hide them!","Walder先生!谁都有自己不喜欢的东西!没什么好隐瞒的!"
+17,Walder,Is that so? Then is there anything even you wouldn't eat?,"是..是吗?那露莉亚讨厌的食物呢?"
+18,Lyria/露莉亚,Huh? Let me think. Umm...,"哎?呃..嗯..嗯嗯嗯嗯嗯..."
+19,Katalina/卡塔莉娜,"Well, it's good that you're not a picky eater, Lyria! Good girl!","嘛..嘛..不挑食是件好事!了不起,露莉亚!"
+info,,,scene_evt140731_cp2_q2_s10
+sym1018,,,

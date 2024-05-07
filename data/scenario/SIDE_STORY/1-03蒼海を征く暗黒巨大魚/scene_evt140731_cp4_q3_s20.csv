@@ -1,0 +1,17 @@
+id,name,text,trans
+0-chapter_name,,4: Advent of Chaos,4:混乱降临
+0-synopsis,,"Io and Walder get into a spat as everyone's patience begins to wear thin. As tensions rise, they find monsters that block the exit, but the party charges straight ahead.","伊欧开始对昏暗的洞窟发牢骚。看到这一幕的Walder开始取笑伊欧，两人因此吵了起来。为了走出这个让人人心浮气躁的狭窄洞窟，一行人急忙朝出口赶去。但在洞窟出口的前方，魔物仿佛是要阻止一行人逃跑一般埋伏在那里。Sig挑衅地向魔物喊话，向它发起挑战。"
+0,Io/伊欧,Ngh... I'm so sick and tired of this dumb cave.,"呜呜……昏暗的洞窟，我已经受够了!"
+1,Walder,Is this cave too much for you? Forest rangers traverse countless numbers of forests and caves!,"这种程度就发牢骚的话,可是会被潜行于无数森林和洞窟的森林游侠嘲笑的"
+2,Walder,"I, the great Walder, can't help but laugh! Hah-hah-hah!","也就是说！会被在下，Walder大人,嘲笑的哦！哈哈哈！"
+3,Io/伊欧,"Stuff it, Bandana Man!","头巾男,你给我稍微安静点！"
+4,Lyria/露莉亚,Oh... Please don't fight!,"呜呜……不、不能吵架啊！"
+5,Vyrn/碧,"Uh oh. Maybe it's because this cave's so cramped, but everyone's getting cranky.","哎呀哎呀……是因为在狭窄的洞窟里的缘故吗，气氛有点剑拔弩张啊。"
+6,Katalina/卡塔莉娜,"Well, those two would probably be fighting anyway. Just keep moving!","不，这个嘛……我觉得那两个人的话,和气氛无关,总之先往前走吧！"
+12,Vyrn/碧,I see it! There's the exit!,"哦！看到洞窟出口了！"
+13,Monster/魔物,Grrrr!,"呜哇哇哇!"
+14,Katalina/卡塔莉娜,Monsters are blocking our way out. It's as if they don't want us to escape.,"但是，魔物竟然在这里出现了……简直就像是要阻止我们逃跑一样。"
+15,Sig,Those vermin think they can stop us?,"对它们来说，我们就是猎物吗……"
+16,Sig,"They've got some guts, but they should really take a look at who they're dealing with! Kick 'em out, 姬塔!","虽然欣赏你们的胆量,但下次要好好看清对手啊！来，把它们踢飞吧！姬塔！"
+info,,,scene_evt140731_cp4_q3_s20
+sym1018,,,

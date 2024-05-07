@@ -1,0 +1,20 @@
+id,name,text,trans
+0-chapter_name,,5: A School Visit,5:接近鱼群
+0-synopsis,,"Sig and the crew are dumbfounded by the number of Albacore, but they have other enemies to worry about first. No matter how many monsters are defeated, there doesn't seem to be any end in sight.","姬塔一行被突然出现的大量Albacore吓呆了。虽然还没完全掌握情况，但他们暂且先将聚集在增多的Albacore周围的魔物一一击溃。然而魔物仍源源不断，众人忙于讨伐，甚至没有时间思考现状。"
+0,Albacore,...,"..."
+7,Sig,Do my eyes deceive me? How's this possible?,"这到底是……怎、怎么回事？"
+8,Sierokarte/榭洛科特,I have no idea! They all suddenly showed up and surrounded the island.,"连榭洛酱也搞不清楚～Albacore突然成群结队，包围了整个岛～"
+9,Sig,What...,"怎么会……"
+10,Scallywag 1,Boss! Ye gotta stay calm!,"老大！清醒一点！"
+11,Io/伊欧,So that's what people meant when they said they saw it everywhere.,"所谓Albacore到处出现，原来就是字面上的意思啊……"
+12,Vyrn/碧,"Don't look now, but monsters are being lured in by the Albacore!","喂！被Albacore吸引的魔物们正在聚集！"
+13,Walder,What a sticky situation. This is the perfect time for my true strength to shine!,"事情变得棘手起来了啊……现在正是展现我真正实力的时候！"
+14,Vyrn/碧,So cool!,"好、好帅……！"
+15,Vyrn/碧,"Oops! Forget I said that! Let's do it, 姬塔!","咳咳！现在可不是说这个的时候！上吧！姬塔！"
+16,Katalina/卡塔莉娜,"As the number of Albacore increases, so do the number of monsters.","随着Albacore聚集，魔物的数量也在不断增加……"
+17,Lyria/露莉亚,This is the first time I've ever been scared of fish...,"呜呜……我还是第一次觉得鱼会这么可怕……"
+18,Io/伊欧,How can primal beasts just suddenly multiply like that? What's up with these fish?,"为什么星晶兽会突然增加啊！那些鱼到底是什么！"
+19,Walder,"The way I see it, there must be a leader somewhere...","依我看，那些星晶兽大概，有个头目……"
+20,Io/伊欧,Agh! I don't want to hear any more of your theories! Let's just beat up these monsters already!,"啊，真是的！吵死了！总之先把魔物打倒吧！姬塔！"
+info,,,scene_evt140731_cp5_q1_s20
+sym1018,,,

@@ -1,0 +1,22 @@
+id,name,text,trans
+0-chapter_name,,3: The Cave of Misgivings,3:疑惑的洞窟
+0-synopsis,,"The party fumbles through the dark cave, the mood surprisingly light. Walder keeps up his usual bravado as the crew heads deeper in, though the cave's inhabitants have no patience for Walder's tomfoolery.","一行人在黑暗的洞穴中摸索着,气氛出奇地轻松.当团员们深入洞穴时,Walder保持着他一贯的虚张声势,尽管洞穴的魔兽对Walder的愚蠢行为没有耐心."
+0,Lyria/露莉亚,"Ungh, it's so dark and slippery in here. I feel like something's going to jump out at us...","唔..天又黑,脚下又很滑..我总预感会有什么东西会突然跳出来."
+1,Katalina/卡塔莉娜,"Are you all right, Lyria? If you feel like you're going to slip you can take my arm—","你没事吧?露莉亚.要是怕摔倒,我的胳膊借你."
+2,Katalina/卡塔莉娜,Eep!,"哇!"
+4,Sig,You okay? Don't try to act all cool if you're just going to slip and fall yourself.,"喂.你没事吧?要是想装酷自己可不能摔倒啊"
+5,Katalina/卡塔莉娜,Oof. How embarrassing.,"唔..真没面子."
+6,Vyrn/碧,Hehehe! I can just fly—,"嘿嘿!这种时候,轮到能飞的我出场了"
+7,Vyrn/碧,Yeowch!,"啊呀!"
+9,Lyria/露莉亚,"Vyrn? Was that you? Be careful, the ceiling's low here—","没,没事吧!阿碧!洞窟的天花板很低,一定要小心."
+10,Lyria/露莉亚,Eek!,"啊呀!"
+12,Lyria/露莉亚,Ow... I bumped into something.,"痛痛痛...啊呜...我撞到屁股了."
+13,Sig,"For crying out loud... Is everyone all right? Just walking through the cave is dangerous enough, but I'll remind you there are monsters too. Stay on your toes!","天哪..你没事吧?本来就很危险,魔物也可能会出现.谨慎一点!"
+14,Monster/魔物,Grrrr!,"呜哇哇哇"
+15,Walder,Here it comes! Prepare to be punished by the great ocean ranger—,"来了吗,魔物们,准备接受海洋游侠的惩戒吧!"
+16,Walder,Waaah!,"哇哇!"
+18,Walder,Urgh. To think that someone like me could slip... No! It must've been a trap set by those sneaky monsters!,"咕咕..失,失策...我竟然会摔倒...难道是卑劣魔物设下的陷阱吗!?"
+19,Sig,"Aye, that must be it. So how long are you going to sit there for? You're easy pickings!","好的好的...注意,如果一直倒在地上,你会成为魔物的食物的!"
+20,Walder,"Hey, wait! I'm still preparing for battle! Hey!","欸!? 等,等一下! 我还没做好战斗的准备...等等!!"
+info,,,scene_evt140731_cp3_q2_s20
+sym1018,,,

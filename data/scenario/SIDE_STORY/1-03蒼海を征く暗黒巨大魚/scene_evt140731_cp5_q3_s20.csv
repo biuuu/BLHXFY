@@ -1,0 +1,18 @@
+id,name,text,trans
+0-chapter_name,,5: A School Visit,5:接近鱼群
+0-synopsis,,"A reinvigorated Sig and the pirates knock out monsters while the crew provides support. In the midst of battle, Walder spots a huge shadow in the distance, but Io brushes it off.","Druga渔团和Sig一展身手，将出现在海上的魔物们打得落花流水。姬塔一行也不甘示弱地协助Sig他们。战斗正酣时，Walder不经意地凝视远方。他跟伊欧说好像看到了一个巨大的影子，但被一口回绝说他大概是看错了,那应该是云彩之类的东西。"
+0,Sig,"Hahaha! What a catch! Monsters, fish, and primal beasts... Haul them all in!","哈哈哈哈！大丰收啊！不管是魔物还是鱼还是星晶兽！全都一网打尽！"
+1,Scallywags,Aye!,"喔！！"
+2,Vyrn/碧,Whoa! Look at 'em go! That's the real strength of the Drugas!,"哇啊……！Druga渔团，感觉是在一展身手啊！"
+3,Lyria/露莉亚,I'm glad Sig seems to be in good spirits again!,"Sig小姐也好像恢复精神了，太好了！"
+4,Katalina/卡塔莉娜,Indeed. A gloomy face doesn't really suit her. We can't slack off either!,"阴沉的表情可不适合她啊。来，我们也去帮忙吧！"
+5,Walder,Hm?,"嗯……？"
+6,Io/伊欧,What is it? You've been scowling off into the distance.,"怎么了？一脸严肃地望着远处……"
+7,Walder,"Well, I thought I saw a gigantic shadow over there...","不是，刚才那边好像看到一个超级大的影子……"
+8,Io/伊欧,"Yeah, an Albacore, right? There's a ton of them!","是Albacore吧？刚才那家伙到处都是"
+9,Walder,"No, it was much larger than any of these Albacore.","不是……比Albacore还要大的影子……"
+10,Io/伊欧,Huh? Maybe you got it mixed up with a cloud.,"哈？是不是看错云彩之类的了？"
+11,Walder,I guess that's possible. I could've sworn I saw something though...,"是……吗？总觉得确实看到了什么……"
+12,Io/伊欧,"C'mon, c'mon, don't space out! You too, 姬塔! There are still monsters to deal with!","喂，姬塔也是，不要发呆了！我们也得去对付魔物啊！"
+info,,,scene_evt140731_cp5_q3_s20
+sym1018,,,

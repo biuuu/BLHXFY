@@ -1,0 +1,22 @@
+id,name,text,trans
+0-chapter_name,,2: Fate and Destiny,2:宿命与因缘
+0-synopsis,,The Drugas and the crew share a moment of fun at Sig's expense. Sig promises to hold a banquet for the crew after dealing with Albacore.,"Druga渔团和团员们在Sig的陪伴下度过了一段欢乐时光.Sig承诺在处理完Albacore后为团员们举办一场宴会。
+"
+0,Walder,Hi-yah!,"哈啊啊啊!"
+1,Monster/魔物,Gyaah!,"呜哇哇哇!"
+3,Scallywag 1,"Nice one! Not bad, bucko!","哦,你还挺能干的嘛,小哥"
+4,Walder,"Er, you think so? I mean, it was nothing special...","哎?是,是吗?哎呀.我觉得没什么大不了的."
+5,Scallywag 2,"Aye, ye might even be better than us! Say, wanna be a Druga?","哈,一点也不比我们差!怎么样!小哥也加入Druga渔团怎么样?"
+6,Walder,"Sorry, but I belong to 姬塔's crew. I can't just pick up and leave.","不..因为我是姬塔骑空团的团员. 不能就这样..."
+7,Scallywag 1,"Ye'll love callin' Sig the boss too, ye know. I can guarantee ye that.","把Sig称为老大并服侍她,感觉挺不错的哦"
+8,Walder,Er... I'm not sure what you mean...,"什..什么?你在说什么啊"
+9,Vyrn/碧,Are they always like this?,"喂,他们都是那样的吗?"
+10,Sig,Sigh. I'll train them properly one of these days.,"哈啊.下次我会好好教育你的."
+11,Vyrn/碧,"So I was wondering, do the Druga Pirates actually do any fishing?","我说啊!我很好奇Druga渔团也会好好捕鱼吗?"
+12,Sig,"Of course we do! We're still fishermen, after all.","当然了!我们毕竟还算是渔民。"
+13,Sig,"Once this is all settled, we'll have a grand feast featuring the freshest catches of the day.","对了!等一切都处理好了,我们就请你吃我们捕到的鱼."
+14,Sig,It's the least we can do to thank you for helping us.,"这是我们能做的最基本的事,以感谢您对我们的帮助?"
+15,Lyria/露莉亚,"Yay, seafood! Is that a promise, Sig?","烤鱼!说好了哦! Sig小姐!"
+16,Sig,"Aye, 'tis a promise! Now let's clear these vermin!","嗯,我保证!但是,在此之前,我们还是赶快把魔物解决掉吧!"
+info,,,scene_evt140731_cp2_q3_s20
+sym1018,,,

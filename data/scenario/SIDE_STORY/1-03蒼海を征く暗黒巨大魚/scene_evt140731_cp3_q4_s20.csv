@@ -1,0 +1,23 @@
+id,name,text,trans
+0-chapter_name,,3: The Cave of Misgivings,3:疑惑的洞窟
+0-synopsis,,"Sig informs the crew that dead ends don't apply to Albacore, yet the cave path leads to a dead end with no signs of Albacore anywhere. However, Harjuna Cave is home to another monster.","团员们小心翼翼地穿过洞穴.一行人担心前方可能是死胡同,Sig神情严肃地告诉他们,星晶兽Albacore所到之处根本不存在死胡同.但是,姬塔她们被不应存在的死胡同挡住了去路,而且得知Harjuna洞窟是与星晶兽无关的魔物们的地盘."
+0,Sig,"How about it, Lyria? To my understanding, you're able to detect the presence of primal beasts.","怎么样?露莉亚.露莉亚你能感觉到星晶兽的气息对吧?"
+1,Sig,Do you sense it anywhere in this cave?,"在这个洞窟深处,有星晶兽的气息吗?"
+2,Lyria/露莉亚,"Hrm... I feel a faint hint of something, but I can't really tell...","嗯...目前看不出来.但好像有可疑的迹象..."
+3,Katalina/卡塔莉娜,Hold that thought. Aren't we heading toward a dead end?,"等下,前面不是死胡同吗?"
+4,Katalina/卡塔莉娜,"If Albacore never stops moving on its migration, it would never swim into a dead end.","如果Albacore永远不会停止洄游,那就不会出现在死胡同里"
+5,Sig,There's no such thing as dead ends as far as that beast's concerned.,"对它来说,没有死胡同这种东西..."
+6,Sig,Of course they tried using nets and cages to try to catch it many years ago.,"好像好几代以前也有过用网和笼子捕捉它的事"
+7,Sig,"Regardless of the material used or magic cast, that thing ripped right through them.","不管用什么材料制作的陷阱,施展什么魔法,据说都被破坏掉了."
+8,Katalina/卡塔莉娜,I see. Then we'll have to continue to focus and keep our wits about us.,"唔...这样啊.那么我们鼓起精神,继续前进."
+9,Sig,"Aye, proceed with caution. Albacore could come flying in at any moment!","嗯,小心点,谁知道Albacore会从哪里冒出来呢!"
+15,Sig,What? A dead end?,"什么...死,死胡同?"
+16,Katalina/卡塔莉娜,I don't see any holes that Albacore could've squeezed through.,"看来哪里都没有那个星晶兽钻过的洞啊..."
+17,Lyria/露莉亚,Maybe it's hiding somewhere?,"嗯...会不会是躲在什么地方了?"
+18,Walder,Surely these forest-trained eyes of mine would've spotted it in the dark by now...,"不管躲在哪里,我这双在夜晚森林里锻炼出来的双眼眨眼间..."
+19,Vyrn/碧,"Um, what's that?","喂,喂! 那个"
+20,Kraken,...,"..."
+21,Katalina/卡塔莉娜,Looks like we've wandered into some other monster's territory.,"看来这里是无关魔物的地盘啊..."
+22,Sig,"It doesn't look like it's going to let us leave either. Show no quarter, 姬塔!","话虽这么说,但现在可不是能让我平安回去的气氛啊.上吧!姬塔!"
+info,,,scene_evt140731_cp3_q4_s20
+sym1018,,,
