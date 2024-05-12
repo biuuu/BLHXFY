@@ -18,7 +18,7 @@ id,name,text,trans
 19,,<span class='scene-font-katari'>決意を固めようとする</span><br><span class='scene-font-katari'>オイゲンの脳裏には、</span><br><span class='scene-font-katari'>どうにもアルテミシアの姿が浮かぶ。</span>,可是，在拼尽全力下定决心的欧根的脑海里，总能浮现阿尔提米希亚的身影。
 20,オイゲン/欧根,<span class='scene-font-kokoro'>（ここは現実じゃねぇ……！</span><br><span class='scene-font-kokoro'>こんな過去は無かったんだ……）</span>,(这里并不是现实…… ！ 我也从来没有经历过这样的过去……)
 21,オイゲン/欧根,<span class='scene-font-kokoro'>（この世界はきっと、</span><br><span class='scene-font-kokoro'>夢みてぇなもんだ……</span><br><span class='scene-font-kokoro'>だから、オレは……）</span>,(这个世界只不过是个梦罢了…… 所以，我……)
-22,,<span class='scene-font-katari'>オイゲンは必死に雑念と戦いながら、</span><br><span 继续向赞尼斯高地前进着。
+22,,<span class='scene-font-katari'>オイゲンは必死に雑念と戦いながら、</span><br>,欧根一边思考一边向赞尼斯高地前进。
 24,,<span class='scene-font-katari'>そうしてオイゲンがたどり着いたのは、</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>で最も海が良く見える、</span><br><span class='scene-font-katari'>という、海に面した丘だった。</span>,就这样，欧根来到了一座面向大海的小山上，那里是整个奥古斯景色最好的地方。
 25,オイゲン/欧根,ここなら……,如果是这里的话……
 26,オイゲン/欧根,ああ、いや、そうか。<br>ここは……,啊，对了。 这里是……
@@ -53,5 +53,5 @@ id,name,text,trans
 65,黒騎士？/黑骑士？,お前の選択を……<br>答えを聞きに来たぞ、オイゲン。,我……是来倾听你的选择的，欧根。
 66,黒騎士？/黑骑士？,私こそが、<br>お前の言うこの世界の鍵……<br>この理想世界の核だ。,我才是你所说的这个世界的钥匙…… 也就是这个理想世界的核心。
 67,,<span class='scene-font-katari'>黒い鎧の騎士が告げる内容に、</span><br><span class='scene-font-katari'>オイゲンは驚きから言葉を失う。</span>,听到黑骑士所说的话后，欧根惊讶得说不出话来。
-68,,<span class='scene-font-katari'>しかし、鎧の騎士は淡々と、</span><br><span class='scene-font-katari'>オイゲンに残酷な選択を</span><br><span class='scene-font-katari'>突き付けていくのだった。</span>,然而，黑其实却毫不留情地让欧根做出选择。
+68,,<span class='scene-font-katari'>しかし、鎧の騎士は淡々と、</span><br><span class='scene-font-katari'>オイゲンに残酷な選択を</span><br><span class='scene-font-katari'>突き付けていくのだった。</span>,然而，黑骑士却毫不留情地让欧根做出选择。
 info,,,scene_cp96_q4_s10

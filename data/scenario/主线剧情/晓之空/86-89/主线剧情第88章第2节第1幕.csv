@@ -31,9 +31,9 @@ id,name,text,trans
 39,,<span class='scene-font-katari'>ラカムの言葉通り、</span><br><span class='scene-font-katari'>一行は近辺の警備を行っていた</span><br><span class='scene-font-katari'>レム王国兵に囲まれる。</span>,<span class='scene-font-katari'>随着拉卡姆的指令，众人被附近警戒的雷姆王国军包围了。</span>
 40,,<span class='scene-font-katari'>しかし、ラカムの取り次ぎにより、</span><br><span class='scene-font-katari'>一行は、この制圧軍の指揮官に</span><br><span class='scene-font-katari'>面会を許されたのだった。</span>,<span class='scene-font-katari'>但拉卡姆</span>
 47,？？？,ラカム……敵国に捕まった貴方と、<br>こうして再び相見えることが出来るとは<br>夢にも思いませんでしたよ。,拉卡姆，你被帝国抓捕，又以这种方式相见，真是做梦都想不到啊。
-48,ラカム/拉卡姆,そりゃどーも……,
+48,ラカム/拉卡姆,そりゃどーも……,很高兴再见到你...
 49,？？？,そして……<br>貴方がイデルバのカイン将軍ですね？,然后，你就是伊迪尔瓦的该隐将军吗？
-50,ギルベルト,私はギルベルト。<br>栄光あるレム王国において、<br>王の補佐を務める者です。,我是吉尔伯特，在XXXX的雷姆王国辅佐王于左右。
+50,ギルベルト,私はギルベルト。<br>栄光あるレム王国において、<br>王の補佐を務める者です。,我是吉尔伯特，在雷姆王国辅佐国王。
 51,ギルベルト,それで、<br>この制圧軍の指揮官は私ですが――,而且我也是压制部队的指挥官。
 52,,<span class='scene-font-katari'>ギルベルトは柔和な態度を保ちながらも、</span><br><span class='scene-font-katari'>値踏みするように</span><br><span class='scene-font-katari'>鋭い視線をカインに向ける。</span>,<span class='scene-font-katari'>吉尔伯特带着温和的态度，像是估价一般，将锐利的视线刺向该隐。</span>
 53,ギルベルト,――人質の交換とは、<br>いったい、どういうおつもりですか？,人质交换…你到底有何企图呢？
