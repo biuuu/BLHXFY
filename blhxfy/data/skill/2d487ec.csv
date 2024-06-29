@@ -1,0 +1,10 @@
+id,name,detail
+npc,碧卡拉,3040252000
+special,金牙神然,<div class=prt-text-small>暗属性伤害(特大)/自身获得完全回避(1次)</div>
+skill-1,多酱的问好,<div class=prt-text-small>对敌方单体造成5次暗属性攻击/施加多酱效果<br><span class=text-blue>◆敌方使用特殊技时陷阱发动对敌方全体造成无属性攻击/施加捕获效果</span></div>
+skill-2,梦幻之境,<div class=prt-text-small>欢迎来到梦想和闪光的乌~托邦！</div>
+skill-3,一子之梦,<div class=prt-text-small>我方全体暗属性角色奥义上升量UP/奥义性能UP/回避率UP<br><span class=text-blue>◆被攻击2回解除</span></div>
+support-1,鼠神宫之主,乌~托邦领域展开时，自身必TA/敌对心UP/回避率UP/奥义发动时我方全体获得激奏
+support-2,律动之鼠,回避时对敌方全体造成暗属性攻击/驱散1个强化效果
+skill-lb,LB技能,乌~托邦领域展开时，自身获得暗属性追击
+intro,北的守护神,守护北方位的十二神将之一。向世人展现华丽的梦想和希望的是阳光的一面。忧郁自己、忍受世界的是阴暗的一面。拥有两种极端在的子神最终选择在天空寻找希望、紧靠在同伴身边。
