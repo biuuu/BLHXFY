@@ -1,0 +1,9 @@
+id,name,detail
+npc,星空凛&小泉花阳&西木野真姬,3040229000
+special,一定能听见青春,<div class=prt-text-small>风属性伤害(特大)/我方全体风属性攻击UP/HP回复</div>
+skill-1,开始紧张了喵！,<div class=prt-text-small>交给我们吧！喵<br><span class=text-blue>◆自身敌对心UP/回避率UP/回避成功我方全体获得激奏</span></div>
+skill-2,做饭了！,<div class=prt-text-small>我方全体HP回复/净化1个弱体效果</div>
+skill-3,什么意思啊！,<div class=prt-text-small>我方全体获得奥义值UP(30%)</div>
+skill-4,真姬凛花阳,<div class=prt-text-small>我方全体获得再生/奥义上升量UP</div>
+support-1,国立音乃木坂学院1年级,我方全体被回复上限UP
+skill-lb,LB技能,μ's成员攻击力UP

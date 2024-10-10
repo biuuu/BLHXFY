@@ -1,0 +1,10 @@
+id,name,detail
+npc,盖森伯格,3040162000
+special,榴弹重拳,光属性伤害(特大)/自身获得天来效果
+skill-1,铁拳,对敌方随机目标造成17次光属性伤害/自身获得敌对心UP/1层铁腕效果
+skill-2,无畏,自身获得援护效果/反击效果(受伤/3次)
+skill-3,赌上我的灵魂,<div class=prt-text-small>自身获得不落的孤城效果/效果结束时自身强制战斗不能<span class=text-blue>◆受到我方其他光属性角色的回复技能或强化技能影响时，效果时间延长一回合/再次使用技能时不论当前剩余回合数，均重置为5回合</span></div>
+support-1,寻求斗争的重铠,<div class=prt-text-small>自身普通攻击伤害增加10%/奥义值上升量减少35%<span class=text-blue>◆与铁腕效果加算</span></div>
+skill-sub,星的逆位置,<div class=prt-text-small>我方光属性角色受到的单次暗属性伤害，最大值锁定为10000</div>
+skill-main,战车的正位置,<div class=prt-text-small>自身获得倾星的铠拳效果/自身处于天来效果时必定连续攻击/反击(受伤/每回合1次)<span class=text-blue>◆再使用不可</span></div>
+skill-lb,LB技能,我方全体获得暗属性伤害减轻

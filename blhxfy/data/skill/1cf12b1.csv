@@ -1,0 +1,10 @@
+id,name,detail
+npc,布列迪塔,3040278000
+special,千爪,暗属性伤害(特大)/自身获得反击效果(回避/2次)
+skill-1,突袭猛击,对敌方单体造成8次暗属性伤害/黑暗效果/强袭效果
+skill-2,蠕行暗影,<div class=prt-text-small>自身获得逆境效果(HP越少攻击力越高)/暗属性追击效果/再攻击效果<br><span class=text-blue>◆消耗自身最大HP的40%</span></div>
+skill-3,狞笑幻象,自身获得追讨效果/攻击力UP/暴击率UP<span class=text-blue>◆濒死时追加完全回避效果(1次)</span>
+support-1,复仇的捕食者,自身防御力DOWN/必定三连击/回避率UP
+support-2,步于阴影的黑泪,自身UP越少我方全体攻击力越高<br><span class=text-blue>◆仅前排有效</span>
+skill-lb,LB技能,回合开始时自身概率在本回合获得全回避效果
+intro,黑百合的镇魂歌,赌上性命只为复仇的她，内心隐燃着翻腾的怨叹火焰。她在沉默中打磨锐利的刀刃，直到达成悲愿，她都会焦急等待那一瞬间的到来。

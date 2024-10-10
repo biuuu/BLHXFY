@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,库皮坦,3040468000
+special,,<div class=prt-text-small>暗属性伤害(特大)/根据七色之矢数量追加伤害/赋予随机弱体效果<span class=text-blue>◆消耗全部七色之矢</span></div>
+skill-1,,对敌方单体造成7次暗属性伤害/暗属性防御DOWN(累积)/侵蚀效果/自身获得1七色之矢
+skill-2,,自身可即刻发动奥义/奥义再发动效果(1次)<span class=text-blue>◆仅在七色之矢数量最大时可使用</span>
+skill-3,,敌方全体攻击性能大幅DOWN/防御大幅DOWN/承伤上升
+support-1,,战斗开始时获得7七色之矢(最大7)/暗属性角色使用弱体技能时，库皮坦获得1七色之矢
+support-2,,<div class=prt-text-small>普攻不积累奥义值，但普攻与奥义发动后有几率发动技能1<span class=text-blue>◆敌方弱体效果数量越多，发动几率UP</span></div>
+skill-lb,LB技能,
+intro,,

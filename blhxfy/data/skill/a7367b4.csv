@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,亚当,3040432000
+special,,土属性伤害(特大)/回复自身HP/格挡效果<span class=text-blue>◆「欧蓍草」效果中：奥义性能UP</span>
+skill-1,,<div class=prt-text-small>土属性角色获得屏障效果(最大10000)/「救援」效果<span class=text-blue>◆「救援」效果中，奥义性能UP/高扬效果/2次承伤解除</span></div>
+skill-2,,对敌方单体造成7倍土属性伤害/驱散一个强化效果<span class=text-blue>◆「欧蓍草」效果中：发动2次</span>
+skill-3,,我方全体水属性伤害70%减免
+support-1,,<div class=prt-text-small>战斗开始时获得「欧蓍草」效果/回合结束时，HP在80%以上则获得「欧蓍草」效果<span class=text-blue>◆「欧蓍草」效果中，土属性角色攻击UP/防御UP/连击率UP</span></div>
+support-2,,敌方造成的水属性伤害最大值固定在5000
+skill-lb,LB技能,
+intro,,

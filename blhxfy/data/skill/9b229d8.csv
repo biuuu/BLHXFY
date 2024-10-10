@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,名字,3040412000
+special,绝望熔火风暴,<div class=prt-text-small>暗属性伤害(特大)/技能1可即刻使用<span class=text-blue>◆根据幽暗刻印数量造成暗属性追加伤害(最多5次)</span></div>
+skill-1,潮汐线,<div class=prt-text-small>对敌方单体造成5次暗属性伤害/驱散1种强化效果/自身获得幽暗刻印<span class=text-blue>◆使用时根据幽暗刻印数量攻击次数UP(最大10次)</span></div>
+skill-2,夏日蜃景,<div class=prt-text-small>对敌方单体造成暗属性伤害/我方全体获得幽暗刻印/随机强化效果<span class=text-blue>◆使用时根据幽暗刻印数量增加强化效果数量</span></div>
+skill-3,绚日明珠,<div class=prt-text-small>对敌方单体造成暗属性伤害/自身可即刻发动奥义/其他技能可即刻使用</div>
+support-1,契约与代价,<div class=prt-text-small>根据幽暗刻印数量依次获得以下效果：攻击UP/防御UP/必定连击/暗属性追击效果/魔神进行掩护攻击</div>
+support-2,魔道探究者,暗属性角色的幽暗刻印达到5时，消耗1层幽暗刻印免疫1次驱散
+skill-lb,LB技能,
+intro,,
