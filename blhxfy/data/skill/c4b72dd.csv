@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,沃夫与蕾妮,3040174000
+special,虚空起爆,暗属性伤害(特大)/回复自身HP/消除3孤狼之伤
+skill-1,钢铁之躯,<div class=prt-text-small>自身获得反击效果(回避·受伤时/5次)/伤害提升(敌MHP1%，上限20000)<span class=text-blue>◆消耗30%奥义值</span></div>
+skill-2,蕾妮的眼泪,<div class=prt-text-small>蕾妮的眼泪使沃夫性能大幅UP/消除所有孤狼之伤/回复自身HP<span class=text-blue>◆孤狼之伤达到5时可使用/消耗所有奥义值</span></div>
+skill-3,高吼,回避率50%UP/奥义值20%UP
+support-1,战士,必定三连击，但奥义值上升速度35%DOWN
+support-2,孤狼,<div class=prt-text-small>攻击高，但攻击时增加1孤狼之伤(最大5)<span class=text-blue>◆根据孤狼之伤数量敌对心UP/达到5时无法攻击/防御DOWN</span></div>
+skill-lb,LB技能,弱化效果抗性UP
+intro,人狼与少女,孤独的人狼遇到了孤独的少女。故意找借口解释各自的温暖，背离无偿的庇护，然而那些日子确实是两人安宁的乐园。被迫逃离那里的两人在这苍空的尽头会看到什么……
