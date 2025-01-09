@@ -1,14 +1,14 @@
 @charset "UTF-8";
-.pop-global-menu .txt-global-profile,
-.pop-global-menu .txt-global-archive,
-.pop-global-menu .txt-global-guild,
-.pop-global-menu .txt-global-item,
-.pop-global-menu .txt-global-shop,
-.pop-global-menu .txt-global-present,
-.pop-global-menu .txt-global-list,
-.pop-global-menu .txt-global-container,
-.pop-global-menu .txt-global-friend,
-.pop-global-menu .txt-global-world {
+#wrapper .pop-global-menu .txt-global-profile,
+#wrapper .pop-global-menu .txt-global-archive,
+#wrapper .pop-global-menu .txt-global-guild,
+#wrapper .pop-global-menu .txt-global-item,
+#wrapper .pop-global-menu .txt-global-shop,
+#wrapper .pop-global-menu .txt-global-present,
+#wrapper .pop-global-menu .txt-global-list,
+#wrapper .pop-global-menu .txt-global-container,
+#wrapper .pop-global-menu .txt-global-friend,
+#wrapper .pop-global-menu .txt-global-world {
   background: none;
   display: inline-flex !important;
   align-items: center;
