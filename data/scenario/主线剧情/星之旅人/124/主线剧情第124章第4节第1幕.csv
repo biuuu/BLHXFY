@@ -104,7 +104,7 @@ id,name,text,trans
 106,,<span class='scene-font-katari'>出そろった情報を、</span><br><span class='scene-font-katari'>ビィは指折り数えて確認する。</span>,对于各自说出的情报，<br>碧掰着手指进行着确认。
 107,ビィ/碧,……んん？<br>なぁなぁ、それでいくと、<br>あとひとつ足りないんじゃねーか？,……嗯嗯？那个，不管怎么数，<br>都少了一个诶？
 108,カタリナ/卡塔莉娜,目星がついたものも含めて<br>これで３つか……<br>残りひとつはどこにあるんだ？,我们有目标的，就有三个了……<br>剩下的那个在哪里呢？
-109,,<span class='scene-font-katari'>カタリナの問いに対し、</span><br><span class='scene-font-katari'>しかし、ミカボシは、</span><br><span class='scene-font-katari'>どこか気まずそうに目をそらす。</span>,卡塔丽娜虽然提出了疑问，<br>但是，米卡波西却只是尴尬地离开了视线。
+109,,<span class='scene-font-katari'>カタリナの問いに対し、</span><br><span class='scene-font-katari'>しかし、ミカボシは、</span><br><span class='scene-font-katari'>どこか気まずそうに目をそらす。</span>,卡塔莉娜虽然提出了疑问，<br>但是，米卡波西却只是尴尬地离开了视线。
 110,ミカボシ,…………,…………
 110-sel1_txt,,<span class='scene-font-katari'>ミカちゃん？</span>,米卡？
 111,ミカボシ,……無い。,……没有。
@@ -118,7 +118,7 @@ id,name,text,trans
 119,ロゼッタ/萝赛塔,ねぇ……ちょっと待って頂戴。,那个……麻烦稍微等下。
 120,ミカボシ,なに？<br>私だって失敗したとは思ってるけど──,什么？<br>虽然我觉得只是我的失败——
 121,カタリナ/卡塔莉娜,<span class='scene-font-4'>──避けろッ！　後ろだ！</span>,——躲开！在后面！
-122,,<span class='scene-font-katari'>カタリナの声にミカボシが振り返ると、</span><br><span class='scene-font-katari'>そこには土煙を上げ疾駆する</span><br><span class='scene-font-katari'>幽世の巨体があった。</span>,听到卡塔丽娜的声音而回过头的米卡波西，<br>看见了一只扬起烟尘快速奔跑着的，<br>巨大的幽世。
+122,,<span class='scene-font-katari'>カタリナの声にミカボシが振り返ると、</span><br><span class='scene-font-katari'>そこには土煙を上げ疾駆する</span><br><span class='scene-font-katari'>幽世の巨体があった。</span>,听到卡塔莉娜的声音而回过头的米卡波西，<br>看见了一只扬起烟尘快速奔跑着的，<br>巨大的幽世。
 123,幽世の住人１,────！！,————！！
 124,ミカボシ,くっ……！,唔……！
 126,,<span class='scene-font-katari'>ミカボシは身を捻り、</span><br><span class='scene-font-katari'>巨体の突進をかわすが──</span>,米卡波西转过身，<br>躲开了巨大幽世的突进——
@@ -158,8 +158,8 @@ id,name,text,trans
 216,幽世の住人１,────！！,————！！
 217,カタリナ/卡塔莉娜,はああぁぁっ！,哈啊啊啊啊！
 219,カタリナ/卡塔莉娜,<span class='scene-font-kokoro'>（ッ！？</span><br><span class='scene-font-kokoro'>まずい……！</span><br><span class='scene-font-kokoro'>押し切られる……！？）</span>,（啧！？糟了……！<br>被切断了……！！）
-220,ルリア/露莉亚,<span class='scene-font-4'>カタリナっ！</span>,卡塔丽娜！
-221,,<span class='scene-font-katari'>幽世の住人の突進を受け止め、</span><br><span class='scene-font-katari'>体勢を崩しかけたカタリナの背へと、</span><br><span class='scene-font-katari'>咄嗟にルリアの手が伸びる。</span>,为了阻止幽世的住民突进，<br>在体态崩溃的卡塔丽娜背后的，<br>是露莉亚立刻伸向她的手。
+220,ルリア/露莉亚,<span class='scene-font-4'>カタリナっ！</span>,卡塔莉娜！
+221,,<span class='scene-font-katari'>幽世の住人の突進を受け止め、</span><br><span class='scene-font-katari'>体勢を崩しかけたカタリナの背へと、</span><br><span class='scene-font-katari'>咄嗟にルリアの手が伸びる。</span>,为了阻止幽世的住民突进，<br>在体态崩溃的卡塔莉娜背后的，<br>是露莉亚立刻伸向她的手。
 228,,<span class='scene-font-katari'>しかし、それを読んでいたように、</span><br><span class='scene-font-katari'>ルリア達の背後には</span><br><span class='scene-font-katari'>大きく奈落が口を開く。</span>,但是，就像是预见到了一般，<br>莉莉娅等人的背后<br>打开了一个巨大的奈落色的洞口。
 229,カタリナ/卡塔莉娜,なっ……！？,什……！？
 230,ルリア/露莉亚,あっ……,啊……

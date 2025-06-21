@@ -1,6 +1,6 @@
 id,name,text,trans
 0-chapter_name,,第117章　新たな脅威,第117章 新的威胁
-0-synopsis,,前線を蹂躙していた兵士を退ける姬塔達。そこへ現れたフュリアスの命令により、新兵器である「タイタンスーツ」を纏う兵士の群れが一行へと襲い掛かってくる。激しい戦いの中、カタリナを打ち負かした兵士がルリアを確保しようと迫る。絶体絶命の一行の前に、ドランクとスツルム、そして、オーキスが加勢に現れたのだった。,姬塔一行人击退了在前线被蹂躏的士兵。在现身的菲利亚斯的命令之下，带着新兵器“泰坦装甲”的士兵，朝着姬塔一行人席卷而来。在激战之中，士兵们为了打败卡塔丽娜，逼迫着她保护露莉亚。在穷途末路的一行人面前，德朗克、斯特姆以及欧姬丝突然出现，加入了战斗。
+0-synopsis,,前線を蹂躙していた兵士を退ける姬塔達。そこへ現れたフュリアスの命令により、新兵器である「タイタンスーツ」を纏う兵士の群れが一行へと襲い掛かってくる。激しい戦いの中、カタリナを打ち負かした兵士がルリアを確保しようと迫る。絶体絶命の一行の前に、ドランクとスツルム、そして、オーキスが加勢に現れたのだった。,姬塔一行人击退了在前线被蹂躏的士兵。在现身的菲利亚斯的命令之下，带着新兵器“泰坦装甲”的士兵，朝着姬塔一行人席卷而来。在激战之中，士兵们为了打败卡塔莉娜，逼迫着她保护露莉亚。在穷途末路的一行人面前，德朗克、斯特姆以及欧姬丝突然出现，加入了战斗。
 1,カタリナ/卡塔莉娜,はあぁぁッ！！,哈啊啊啊！！
 6,タイタンスーツ兵１,おおッ！？,哦哦！？
 7,タイタンスーツ兵１,く、くそっ！<br>馬鹿なッ……！,可、可恶！<br>不可能……！
@@ -52,14 +52,14 @@ id,name,text,trans
 67,イオ/伊欧,そう言われて、「はい、そうですか」<br>って諦めるなら、<br>最初からこんなことになってないわよ！,这么说了以后，<br>你以为我会回答“啊，原来如此”然后投降吗？<br>这种事从最开始就不会发生！
 72,,<span class='scene-font-katari'>姬塔の仲間達は、</span><br><span class='scene-font-katari'>それぞれ持てる力の全てを駆使して、</span><br><span class='scene-font-katari'>タイタンスーツへ対抗していく。</span>,姬塔等人的同伴正驱使着全部力量，<br>与泰坦装甲对抗着。
 73,カタリナ/卡塔莉娜,ルリア……<br>君は私と姬塔のそばを、<br>離れないようにしていてくれ。,露莉亚……<br>千万不要离开我和姬塔的身边。
-74,ルリア/露莉亚,っ！？<br>カタリナっ！　後ろっ！！,唔！？<br>卡塔丽娜！身后！
+74,ルリア/露莉亚,っ！？<br>カタリナっ！　後ろっ！！,唔！？<br>卡塔莉娜！身后！
 75,カタリナ/卡塔莉娜,っ！？,啧！？
 76,タイタンスーツ兵３,<span class='scene-font-4'>おおおおおッ！！</span>,哦哦哦哦哦！
 77,カタリナ/卡塔莉娜,<span class='scene-font-4'>はああぁあっ！！</span>,哈啊啊啊啊！
-83,,<span class='scene-font-katari'>振り向きざまのカタリナの太刀筋は、</span><br><span class='scene-font-katari'>タイタンスーツの剣閃を</span><br><span class='scene-font-katari'>確かに捕らえるが……</span>,卡塔丽娜挥舞着的剑轨，<br>确实捕捉到了泰坦装甲的剑闪……
+83,,<span class='scene-font-katari'>振り向きざまのカタリナの太刀筋は、</span><br><span class='scene-font-katari'>タイタンスーツの剣閃を</span><br><span class='scene-font-katari'>確かに捕らえるが……</span>,卡塔莉娜挥舞着的剑轨，<br>确实捕捉到了泰坦装甲的剑闪……
 86,カタリナ/卡塔莉娜,がはっ……！,咳啊……！
-87,,<span class='scene-font-katari'>タイタンスーツに</span><br><span class='scene-font-katari'>押し負けたカタリナは、</span><br><span class='scene-font-katari'>あえなく吹き飛ばされてしまう。</span>,力量不及泰坦装甲的卡塔丽娜，<br>就这么被击飞了出去。
-88,ルリア/露莉亚,<span class='scene-font-4'>カタリナっ！！</span>,卡塔丽娜！！
+87,,<span class='scene-font-katari'>タイタンスーツに</span><br><span class='scene-font-katari'>押し負けたカタリナは、</span><br><span class='scene-font-katari'>あえなく吹き飛ばされてしまう。</span>,力量不及泰坦装甲的卡塔莉娜，<br>就这么被击飞了出去。
+88,ルリア/露莉亚,<span class='scene-font-4'>カタリナっ！！</span>,卡塔莉娜！！
 89,カタリナ/卡塔莉娜,くっ、げほっ……,唔，咳咳……
 90,タイタンスーツ兵３,機密の少女だな！？<br>手荒にはなるが、<br>ここで確保させてもらう！,这是机密少女吧！？<br>虽然会有些粗暴，<br>请在这里跟我走吧！
 90-sel1_txt,,<span class='scene-font-katari'>ルリアッ！！</span>,露莉亚！！
@@ -84,27 +84,27 @@ id,name,text,trans
 119,オーキス/欧姬丝,ルリア、オルキス……<br>あとは……任せて。,露莉亚，欧姬丝……<br>接下来……就交给我们。
 120,,<span class='scene-font-katari'>思わぬ加勢に、</span><br><span class='scene-font-katari'>戦況はひとまず均衡を取り戻す。</span>,在意料之外的支援之下，<br>战况逐渐取得了平衡。
 121,,<span class='scene-font-katari'>しかし、</span><br><span class='scene-font-katari'>それでも平静を取り戻せぬ者もいた。</span>,但是，<br>依然也有没能归于平静的人。
-123,ルリア/露莉亚,カタリナっ！<br>大丈夫？　怪我してない？,卡塔丽娜！<br>没事吧？有受伤吗？
+123,ルリア/露莉亚,カタリナっ！<br>大丈夫？　怪我してない？,卡塔莉娜！<br>没事吧？有受伤吗？
 124,カタリナ/卡塔莉娜,あ、ああ……,啊、啊啊……
 125,ビィ/碧,ふぃぃ……<br>いまのはさすがに、<br>肝が冷えたぜ……,呼……刚才可真是……<br>把我给吓破了胆诶……
 125-sel1_txt,,<span class='scene-font-katari'>ふたりとも無事で良かった</span>,你们俩没事太好了
 126,ルリア/露莉亚,はいっ！,是的！
 127,ルリア/露莉亚,でも、気をつけなきゃいけませんね。<br>あの新兵器が、<br>あんなに強いなんて……,但是，必须要多多小心呢。<br>没想到那个兵器，有那么强……
 128,カタリナ/卡塔莉娜,…………,…………
-129,,<span class='scene-font-katari'>目は確かにルリアを捉えていたが、</span><br><span class='scene-font-katari'>その耳に声は届かず、</span><br><span class='scene-font-katari'>カタリナはただ思考に沈みつつあった。</span>,虽然眼睛确实捕捉到了露莉亚，<br>可卡塔丽娜却在心底沉思着，<br>无法传达给露莉亚的话。
+129,,<span class='scene-font-katari'>目は確かにルリアを捉えていたが、</span><br><span class='scene-font-katari'>その耳に声は届かず、</span><br><span class='scene-font-katari'>カタリナはただ思考に沈みつつあった。</span>,虽然眼睛确实捕捉到了露莉亚，<br>可卡塔莉娜却在心底沉思着，<br>无法传达给露莉亚的话。
 130,カタリナ/卡塔莉娜,<span class='scene-font-kokoro'>（いま、私は……</span><br><span class='scene-font-kokoro'>ルリアを守れなかった）</span>,（现在的我……<br>是没办法保护露莉亚的）
 131,カタリナ/卡塔莉娜,<span class='scene-font-kokoro'>（…………反応は追いついていた。</span><br><span class='scene-font-kokoro'>ただ単純に剣で負けて、</span><br><span class='scene-font-kokoro'>ルリアを失うところだった……）</span>,（……明明反应过来了。<br>却只是单纯地输了剑技，<br>就差点失去了露莉亚……）
 132,カタリナ/卡塔莉娜,<span class='scene-font-kokoro'>（もしあの時、</span><br><span class='scene-font-kokoro'>彼らの助けが入らなかったら……）</span>,（如果那个时候，<br>他们没来帮忙的话……）
-133,,<span class='scene-font-katari'>最悪の想像に、</span><br><span class='scene-font-katari'>カタリナはひとり身を震わせる。</span>,想着最坏的后果，<br>卡塔丽娜的身体不由得颤抖了起来。
-134,ルリア/露莉亚,カタリナ……？,卡塔丽娜……？
+133,,<span class='scene-font-katari'>最悪の想像に、</span><br><span class='scene-font-katari'>カタリナはひとり身を震わせる。</span>,想着最坏的后果，<br>卡塔莉娜的身体不由得颤抖了起来。
+134,ルリア/露莉亚,カタリナ……？,卡塔莉娜……？
 135,カタリナ/卡塔莉娜,…………,…………
 136,カタリナ/卡塔莉娜,<span class='scene-font-kokoro'>（私は……</span><br><span class='scene-font-kokoro'>私の力はもう……</span><br><span class='scene-font-kokoro'>この戦いに通用しないのか？）</span>,（我……我的力量已经……<br>在这战场上行不通了吗？）
 137,カタリナ/卡塔莉娜,<span class='scene-font-kokoro'>（ルリアを守るためには……</span><br><span class='scene-font-kokoro'>ルリアを守り続けるためには、</span><br><span class='scene-font-kokoro'>私にも、もっと力が……）</span>,（为了守护露莉亚……<br>为了继续守护莉莉娅，<br>我也想要，更强的力量……）
-138,ルリア/露莉亚,カタリナっ？　ねぇ、大丈夫？<br>やっぱり気分が悪いんじゃ……,卡塔丽娜？<br>那个，没事吧？<br>果然还是有些不舒服吗……
+138,ルリア/露莉亚,カタリナっ？　ねぇ、大丈夫？<br>やっぱり気分が悪いんじゃ……,卡塔莉娜？<br>那个，没事吧？<br>果然还是有些不舒服吗……
 139,カタリナ/卡塔莉娜,…………<br>い、いや……<br>大丈夫……大丈夫だ。,……不，没事，没事的……
 140,カタリナ/卡塔莉娜,行こう……<br>まずは目の前の問題から<br>片づけなければ……,走吧……<br>首先要把眼前的问题给解决掉……
 141,カタリナ/卡塔莉娜,ルリアは、姬塔のそばを<br>離れないようにしてくれ！,露莉亚，可不要离开<br>姬塔的身边哦！
-142,,<span class='scene-font-katari'>己を鼓舞するように力強く告げると、</span><br><span class='scene-font-katari'>カタリナもまたタイタンスーツと</span><br><span class='scene-font-katari'>相対していく。</span>,就像是为了给自己打气一般，<br>卡塔丽娜再次面对泰坦装甲。
+142,,<span class='scene-font-katari'>己を鼓舞するように力強く告げると、</span><br><span class='scene-font-katari'>カタリナもまたタイタンスーツと</span><br><span class='scene-font-katari'>相対していく。</span>,就像是为了给自己打气一般，<br>卡塔莉娜再次面对泰坦装甲。
 143,？？？,…………,…………
 144,？？？,…………,…………
 145,,<span class='scene-font-katari'>そしてそこには、</span><br><span class='scene-font-katari'>姬塔達の戦いを観察する、</span><br><span class='scene-font-katari'>ふたつの影があるのだった。</span>,可是在哪里，<br>有两个观察着姬塔等人战斗的<br>人影。
