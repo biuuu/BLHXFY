@@ -1,42 +1,42 @@
 id,en,jp,trans
 0-chapter_name,70: Erste Kingdom,第70章　エルステ王国,70：埃尔斯特王国
 0-synopsis,The note appears to be a list of islands that 姬塔's father and Walfrid visited on their journey to gather map pieces.,ヴァルフリートがリーシャに託したメモは、ロゼッタ曰く、姬塔の父やヴァルフリート達と旅をしていた頃、みんなで空図の欠片を手に入れた島を忘れないよう書き留めていたものだという。聞いたこともない島ばかりが記されている中、そのメモに記されていた島の一つである、かつて立ち寄ったことのある<span class='scene-font-place'>ラビ島メフォラシュ</span>へ、姬塔一行は騎空艇を進める。,萝赛塔说瓦佛利特所托付的笔记是在过去与姬塔的父亲一起旅行时，为了不至于忘记可以入手空图碎片的岛屿因而记录下来的。上面也记载着一些闻所未闻的岛屿。众人按照笔记提示，乘坐骑空艇前往过去曾来过的</span><span class='scene-font-place'>拉比岛的美佛拉修</span>。
-0,All righty then! Let's huddle up before we land in Mephorash.,うっし……<br>んじゃ、<span class='scene-font-place'>メフォラシュ</span>に着く前に、<br>改めて確認するぞ。,好嘞！那么，在到达<span class='scene-font-place'>美佛拉修</span>之前重新确认一下。
+0,All righty then！ Let's huddle up before we land in Mephorash.,うっし……<br>んじゃ、<span class='scene-font-place'>メフォラシュ</span>に着く前に、<br>改めて確認するぞ。,好嘞！那么，在到达<span class='scene-font-place'>美佛拉修</span>之前重新确认一下。
 1,"With everyone gathered on the deck, Rackam stands before the crew.",<span class='scene-font-katari'>甲板に集まった騎空団の面々を前に、</span><br><span class='scene-font-katari'>ラカムは説明をするように口を開く。</span>,<span class='scene-font-katari'>骑空团成员们在甲板上聚集，拉卡姆用说明的语气开口说道。
-2,"First off, are we sure that note is what we were supposed to find?",まず伝言から見つけたメモってのは、<br>それで間違いねぇんだよな？,首先按照传话找到这个笔记，这一点没有搞错吧？
+2,"First off, are we sure that note is what we were supposed to find？",まず伝言から見つけたメモってのは、<br>それで間違いねぇんだよな？,首先按照传话找到这个笔记，这一点没有搞错吧？
 3,Rackam nods at the slip of paper in Lecia's hand.,<span class='scene-font-katari'>そう言いながら、</span><br><span class='scene-font-katari'>ラカムはリーシャの手にある</span><br><span class='scene-font-katari'>一枚の古びた紙を指し示す。</span>,<span class='scene-font-katari'>拉卡姆一边这么说着，一边指了指莉夏手中有些古旧的纸张。
 4,Yes. There was nothing else in the drawer that he could have spoken of.,はい……<br>引き出しの中には他に、<br>それらしいものはありませんでした。,是的，按照指示在那个抽屉里并没有看到其他类似的东西了。
-5,"So, the Blue Knight Walfrid has entrusted us with a memo?",碧の騎士ヴァルフリートが、<br>私達に託したメモ、か……,碧之骑士瓦佛利特托付给我们的笔记么。
+5,"So, the Blue Knight Walfrid has entrusted us with a memo？",碧の騎士ヴァルフリートが、<br>私達に託したメモ、か……,碧之骑士瓦佛利特托付给我们的笔记么。
 6,The crew gathers closer to take a peak at the note.,<span class='scene-font-katari'>皆で検分するように、</span><br><span class='scene-font-katari'>ヴァルフリートが託したメモを覗き込む。</span>,<span class='scene-font-katari'>大家像是在仔细检查瓦佛利特托付的那份笔记一样盯着它。
 7,"There's a bunch of islands here, but it looks like more than one person wrote it. Look at the handwriting here and here.",島の名前がたくさん書いてあるけど……<br>これ、何人かで書いてるみたいよね。<br>ほら、こっちとこっちで字が全然違うし。,虽然上面记录了很多岛屿的名字，但是看上去像是多个人分别写的。你看，这里和这里的字迹完全不一样。
 8,I think this is my father's. It looks like the handwriting in his journal. But I don't recognize the others.,こっちは父さんの字だと思うんです。<br>手記の字とも癖が同じだし。<br>でも、他のはちょっと……,这里的笔迹应该是父亲大人的，和之前手记上的字迹也一样。但是其他的就不太认得了。
-9,"I know that handwriting. This is your dad's handwriting, right?",やっぱりオイラ……<br>こっちの字は、<br>親父さんの字だと思うんだよな……,我想这里的字迹果然是老爹的字迹吧。
+9,"I know that handwriting. This is your dad's handwriting, right？",やっぱりオイラ……<br>こっちの字は、<br>親父さんの字だと思うんだよな……,我想这里的字迹果然是老爹的字迹吧。
 9-sel1_txt,It could be.,<span class='scene-font-katari'>どうかな</span>,到底是不是呢。
 9-sel2_txt,It's just like the letter.,<span class='scene-font-katari'>手紙の字と一緒だ</span>,和信上的字迹一样。
 10,"Sorry, but it all looks the same to me.",うう……ごめんなさい。<br>私には全部、<br>同じ人の字に見えちゃいます……,呜，对不起，在我看来都像是一个人写的。
-11,"Hey, you've got your dad's letter, right? Let's have a look!",なぁなぁ、<br>親父さんからの手紙持ってるだろ？<br>あれと見比べてみよーぜ！,呐呐，你那里不是带着老爹的信吗，和那个比对一下就知道了呀。
+11,"Hey, you've got your dad's letter, right？ Let's have a look！",なぁなぁ、<br>親父さんからの手紙持ってるだろ？<br>あれと見比べてみよーぜ！,呐呐，你那里不是带着老爹的信吗，和那个比对一下就知道了呀。
 12,姬塔 takes out the letter and compares the handwriting.,<span class='scene-font-katari'>姬塔は</span><br><span class='scene-font-katari'>父親からの手紙を取り出し、</span><br><span class='scene-font-katari'>その筆跡を見比べる。</span>,<span class='scene-font-katari'>姬塔拿出父亲的信并比较笔迹。
-13,Look at that. It's your dad's handwriting for sure!,やっぱりこれ……<br>親父さんの字で間違いねーよな？,果然这个就是老爹的字迹吧。
-15,Yeah! Of course!,だよなっ！<br>ってことはこれ……,是啊！当然是！
-16,"That means that Lecia's dad and your dad wrote this list, right?",リーシャの親父さんだけじゃなくて、<br>姬塔の親父さんも<br>一緒に書いてたってことだよな？,这意味着这是由莉夏的老爹和姬塔的老爹一起写的吧！
+13,Look at that. It's your dad's handwriting for sure！,やっぱりこれ……<br>親父さんの字で間違いねーよな？,果然这个就是老爹的字迹吧。
+15,Yeah！ Of course！,だよなっ！<br>ってことはこれ……,是啊！当然是！
+16,"That means that Lecia's dad and your dad wrote this list, right？",リーシャの親父さんだけじゃなくて、<br>姬塔の親父さんも<br>一緒に書いてたってことだよな？,这意味着这是由莉夏的老爹和姬塔的老爹一起写的吧！
 17,It seems so. Everyone on the journey with 姬塔's dad contributed to the note.,そうね……<br>姬塔さんのお父さんとの旅の間、<br>みんなでメモを書いていたの。,是的，和姬塔的父亲一起旅行的过程中，大家一起写了这份笔记。
 18,So they wouldn't forget where they got the map pieces.,<span class='scene-font-spword'>空図の欠片</span>を手に入れた島を<br>忘れないように、ね……,为了不忘记是在哪里得到</span><span class='scene-font-spword'>空图碎片</span>的。
 19,"But to leave a note like that... Hm, he was very precise.",でもまさか、<br>あの時のメモを残してるなんて……<br>やっぱりあの子は几帳面ね。,但是没想到那时候的笔记还保管到现在，那个孩子还真是一丝不苟呢。
-20,So these islands here really are places where we can get map pieces?,じゃあやっぱり……<br>ここに書いてあるのは、<br><span class='scene-font-spword'>空図の欠片</span>が手に入る島々なんですね？,那么果然，这上面写着的都是可以入手<span class='scene-font-spword'>空图碎片</span>的岛屿吧。
+20,So these islands here really are places where we can get map pieces？,じゃあやっぱり……<br>ここに書いてあるのは、<br><span class='scene-font-spword'>空図の欠片</span>が手に入る島々なんですね？,那么果然，这上面写着的都是可以入手<span class='scene-font-spword'>空图碎片</span>的岛屿吧。
 21,"Yes, I've no doubt.",そうね……<br>間違いないと思うわ。,是的，毫无疑问。
 22,Eugen sighs as he looks over the list of islands.,<span class='scene-font-katari'>書き連ねられた島の名前を眺め、</span><br><span class='scene-font-katari'>オイゲンは呆れたように息をつく。</span>,<span class='scene-font-katari'>欧根瞟了一眼一连串的岛名，像是呆住了一般叹气说道。</span>
 23,"The more I hear about yer father, 姬塔, the more absurd he gets.",しっかし、姬塔の親父さんは、<br>知れば知るほど、<br>とんでもねぇ奴だな……,但是，对你的父亲了解的越多，就越觉得是个不得了的家伙啊。
 24,Eugen points to an island on the list.,<span class='scene-font-katari'>そう言うと、</span><br><span class='scene-font-katari'>オイゲンは一つの島の名前を指さす。</span>,<span class='scene-font-katari'>欧根指向名单上的一个岛屿。
 25,Take this island here. No one's ever come back from that place and lived to tell the tale.,この島なんかは、<br>生きて帰ってきたってぇ奴の話は<br>まったく聞かねぇぞ……,能从这个岛无事生还的人我可是一个都不知道呢。
 26,"As for this one, I've never even heard of it.",こっちの島は、<br>オレですら聞いたこともねぇ名前だ。,而这个岛的名字我是完全没听说过。
-27,"How about this one? I don't know anything about it, but how about you, Eugen?",こっちのはどうだ？<br>俺はわからねぇが……<br>オイゲン、わかるか？,这个怎么样？我是什么都不知道，但你呢，欧根？
+27,"How about this one？ I don't know anything about it, but how about you, Eugen？",こっちのはどうだ？<br>俺はわからねぇが……<br>オイゲン、わかるか？,这个怎么样？我是什么都不知道，但你呢，欧根？
 28,"No siree. I've heard of the place, but I don't know anything about it either.",いやぁ……<br>名前を耳にしたことはあるが、<br>場所まではわからねぇな……,不，只是名字的话是有所听闻，但是但是连在哪里这样的信息都不知道啊。
 29,"In that case, there's only one place on this list we should head to.",そうするとやはり、<br>この中で私達が向かうべきは……,这么说来果然我们可以去的其中一个岛屿是…
 30,Ravi Island. It's the only place to start.,<span class='scene-font-place'>ラビ島メフォラシュ</span>……<br>ここしか無いようですね。,<span class='scene-font-place'>拉比岛美佛拉修</span>，只有这里了吧。
-31,"Mephorash is where Orchid is, right?",<span class='scene-font-place'>メフォラシュ</span>って、<br>オーキスちゃんの島ですよね？,</span><span class='scene-font-place'>美佛拉修</span>是欧姬丝酱所在的岛屿吧？
+31,"Mephorash is where Orchid is, right？",<span class='scene-font-place'>メフォラシュ</span>って、<br>オーキスちゃんの島ですよね？,</span><span class='scene-font-place'>美佛拉修</span>是欧姬丝酱所在的岛屿吧？
 32,I want to see her again.,私、また会いたいです、<br>オーキスちゃんに……,我想与欧姬丝酱见面。
-33,Of course we'll see her again! Ravi Island is like her home after all.,きっと会えるわよ！<br>オーキスにとってこの島は、<br>故郷みたいなものなんだから！,当然会再见到的！这座岛对她来说就是家乡吧。
-34,"You know, we've dropped by this place before. Is there even a primal beast here?",しかし、一度は立ち寄ってっけどよ……<br>あの島に<span class='scene-font-spword'>空図の欠片</span>を持ってるような<br>星晶獣なんているのか？,但是已经去过一次了呀。那个岛上真的有持有<span class='scene-font-spword'>空图碎片</span>的星晶兽吗？
-35,"We won't know until we get there. And it seems we're just about to arrive, so keep an eye out for monsters!",行けばわかるわ……<br>さぁ、もう島は目の前よ。<br>残った魔物も片付けちゃいましょ。,去了就知道了，就在前方了。不过先把魔物都收拾了吧。
+33,Of course we'll see her again！ Ravi Island is like her home after all.,きっと会えるわよ！<br>オーキスにとってこの島は、<br>故郷みたいなものなんだから！,当然会再见到的！这座岛对她来说就是家乡吧。
+34,"You know, we've dropped by this place before. Is there even a primal beast here？",しかし、一度は立ち寄ってっけどよ……<br>あの島に<span class='scene-font-spword'>空図の欠片</span>を持ってるような<br>星晶獣なんているのか？,但是已经去过一次了呀。那个岛上真的有持有<span class='scene-font-spword'>空图碎片</span>的星晶兽吗？
+35,"We won't know until we get there. And it seems we're just about to arrive, so keep an eye out for monsters！",行けばわかるわ……<br>さぁ、もう島は目の前よ。<br>残った魔物も片付けちゃいましょ。,去了就知道了，就在前方了。不过先把魔物都收拾了吧。
 info,1,1,scene_cp70_q2_s20
 ,,,

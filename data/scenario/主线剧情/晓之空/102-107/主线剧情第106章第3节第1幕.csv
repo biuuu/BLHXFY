@@ -9,7 +9,7 @@ id,name,text,trans
 8,緋色の騎士,おっと……,哎哟……
 9,,<span class='scene-font-katari'>アリアは意識を失いかけ</span><br><span class='scene-font-katari'>転びそうになるが、</span><br><span class='scene-font-katari'>バラゴナが咄嗟にそれを支える。</span>,失去意识的艾莉亚差点摔倒，站在后方的巴拉戈那却稳稳地扶住了她。
 10,緋色の騎士,先の戦闘から、<br>まだ回復していないようですね。<br>よろしければ肩をお貸ししましょう。,看起来你还没从上次的战斗中恢复过来。 如果你不介意的话，我可以把肩膀借给你哦。
-11,黄金の騎士/黄金骑士,っ！！　触るな！<br>誰が貴様の世話になど！,! ！ 别碰我！谁让你来照顾我了！
+11,黄金の騎士/黄金骑士,っ！！　触るな！<br>誰が貴様の世話になど！,！ ！ 别碰我！谁让你来照顾我了！
 12,,<span class='scene-font-katari'>アリアは</span><br><span class='scene-font-katari'>バラゴナを振り払うと距離を置き、</span><br><span class='scene-font-katari'>仇であるかのように睨みつける。</span>,艾莉亚甩开巴拉戈纳，并且和他保持着距离。艾莉亚狠狠地盯着巴拉戈那，就好像它们是仇人一样。
 13,黄金の騎士/黄金骑士,そういう貴様はどうなのだ。<br>彼らに屈した割には、<br>ずいぶんと元気そうじゃないか。,那样的话你又如何。屈服于他之下的你，看起来还真是有精神得很啊。
 14,黄金の騎士/黄金骑士,貴様、本気ではなかったろう。<br>手を抜いて彼らと相対したな？,你这家伙，不是认真的对吧。你一定在私底下做了些什么，对吗？
@@ -67,7 +67,7 @@ id,name,text,trans
 69,黄金の騎士/黄金骑士,なに……？,什么…… ？
 70,,<span class='scene-font-katari'>それだけ告げると、</span><br><span class='scene-font-katari'>バラゴナはアリアに背を向ける。</span>,说完这些，巴拉戈纳转身背对艾莉亚。
 72,黄金の騎士/黄金骑士,待て！　話はまだ──,等等！我们的话还没说完——
-73,黄金の騎士/黄金骑士,ぐっ！？,唔! ？
+73,黄金の騎士/黄金骑士,ぐっ！？,唔！ ？
 75,,<span class='scene-font-katari'>アリアはバラゴナを追おうとするが、</span><br><span class='scene-font-katari'>その身に走る激痛に、</span><br><span class='scene-font-katari'>思わず膝をつき立ち止まる。</span>,艾莉亚本来打算追上巴拉戈那。可由于游走在身体中的疼痛，不由得跪了下去。
 76,黄金の騎士/黄金骑士,<span class='scene-font-kokoro'>（凄まじい連中だ……</span><br><span class='scene-font-kokoro'>鎧越しにも関わらず、</span><br><span class='scene-font-kokoro'>ここまでのダメージを残すとは……）</span>,(这些家伙太可怕了……即使穿着盔甲，也能造成这种程度的伤害……)
 77,,<span class='scene-font-katari'>顔を上げると、</span><br><span class='scene-font-katari'>そこにはすでにバラゴナの姿は無く、</span><br><span class='scene-font-katari'>アリアは虚空に向かって呟く。</span>,她抬起头，此时巴拉戈纳已不见踪影，只能对着虚空喃喃自语道。

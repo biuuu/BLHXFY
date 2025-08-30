@@ -4,14 +4,14 @@ id,name,text,trans
 2,,<span class='scene-font-katari'>酷くなる嵐と地響きの中、</span><br><span class='scene-font-katari'>ラカムとティアマトは、</span><br><span class='scene-font-katari'>もうひとりのラカムを探す。</span>,在变得越来越猛烈的暴风的轰鸣声中，拉卡姆和提亚马特正在寻找着另一个拉卡姆。
 3,,<span class='scene-font-katari'>しかし、先ほど出会った</span><br><span class='scene-font-katari'>城下町の入り口には、</span><br><span class='scene-font-katari'>すでに彼の姿はなかった。</span>,可是，在刚才遇到他的城市入口处，已经没有他的身影了。
 5,ラカム/拉卡姆,くっ……！　もう時間がねぇ……<br>闇雲に探したんじゃ、<br>間に合わねぇな……,可恶…… ！ 已经没有时间了…… 如果漫无目的地去找的话，就来不及了……
-6,ラカム/拉卡姆,<span class='scene-font-kokoro'>（考えろ……</span><br><span class='scene-font-kokoro'>この嵐の中、</span><br><span class='scene-font-kokoro'>あいつはいったいどこへ行く？）</span>,(仔细思考吧！…… 在这场风暴中，那家伙会去哪里?)
+6,ラカム/拉卡姆,<span class='scene-font-kokoro'>（考えろ……</span><br><span class='scene-font-kokoro'>この嵐の中、</span><br><span class='scene-font-kokoro'>あいつはいったいどこへ行く？）</span>,(仔细思考吧！…… 在这场风暴中，那家伙会去哪里？)
 7,ラカム/拉卡姆,<span class='scene-font-kokoro'>（あいつは俺だ……</span><br><span class='scene-font-kokoro'>弱腰だったとしても、</span><br><span class='scene-font-kokoro'>あいつが語ったのは確かに俺の本心だ）</span>,(那家伙就是我…… 即使我很软弱，但那家伙说的确就是我的真心话。)
 8,ラカム/拉卡姆,<span class='scene-font-kokoro'>（あいつもきっと、</span><br><span class='scene-font-kokoro'>この世界と同じだ……）</span>,(那家伙一定，也和这个世界一样……)
 9,ラカム/拉卡姆,<span class='scene-font-kokoro'>（あり得たかもしれない可能性……</span><br><span class='scene-font-kokoro'>悲劇を辿った世界の末路……）</span>,(在寻找着虚无缥缈的可能性…… 等待着这个世界走到悲剧的末路……)
 10,ラカム/拉卡姆,<span class='scene-font-kokoro'>（もしもあの時……</span><br><span class='scene-font-kokoro'>ティアマトが暴走したあの時……）</span>,(如果那时候…… 提亚玛特暴走的那个时候……)
 11,ラカム/拉卡姆,<span class='scene-font-kokoro'>（何の手立ても持たず、</span><br><span class='scene-font-kokoro'>ただ滅びを受け入れるしか</span><br><span class='scene-font-kokoro'>なかったとしたら……）</span>,(如果我没有办法，只能等待世界毁灭的话……)
-12,ラカム/拉卡姆,<span class='scene-font-kokoro'>（その時俺は……</span><br><span class='scene-font-kokoro'>どこで最後の時を迎えようとする？）</span>,(那时我…… 将会在哪里迎接最后的时刻?)
-13,ラカム/拉卡姆,――んなもん、<br>決まってんだろ……！！,——那种事，我在就该知道了不是吗…… ! ！
+12,ラカム/拉卡姆,<span class='scene-font-kokoro'>（その時俺は……</span><br><span class='scene-font-kokoro'>どこで最後の時を迎えようとする？）</span>,(那时我…… 将会在哪里迎接最后的时刻？)
+13,ラカム/拉卡姆,――んなもん、<br>決まってんだろ……！！,——那种事，我在就该知道了不是吗…… ！ ！
 14,,<span class='scene-font-katari'>閃いた答えに、</span><br><span class='scene-font-katari'>ラカムは苦々しげな笑みを浮かべる。</span>,对于脑中一闪而过的答案，拉卡姆露出了苦涩的笑容。
 15,ラカム/拉卡姆,あいつの場所はわかった！<br>行くぞ、ティアマト！,我知道他在哪儿了！ 走吧，提亚玛特！
 17,ティアマト/提亚玛特,――――！,————！
@@ -31,7 +31,7 @@ id,name,text,trans
 35,ラカム/拉卡姆,それが、<br>俺がティアマトと繋がったことで、<br>こうして形を成したんじゃねぇのか？,把事情弄成这样的，不就是因为我和提亚玛特的关系吗？
 36,,<span class='scene-font-katari'>ラカムの出した答えに対し、</span><br><span class='scene-font-katari'>もうひとりのラカムは、</span><br><span class='scene-font-katari'>静かに応じる。</span>,对于拉克姆的回答，另一个拉克姆轻声说道。
 37,ラカム？/拉卡姆？,残念だが……それじゃあ半分だな。,真遗憾…… 你只对了一半。
-38,ラカム？/拉卡姆？,<span class='scene-font-place'>ポート・ブリーズ</span>の崩壊を恐れたのは、<br>俺だけじゃねぇんだよ……！！,我不是唯一一个担心波特布里茨崩溃的人…… ! ! ！
+38,ラカム？/拉卡姆？,<span class='scene-font-place'>ポート・ブリーズ</span>の崩壊を恐れたのは、<br>俺だけじゃねぇんだよ……！！,我不是唯一一个担心波特布里茨崩溃的人…… ！ ！ ！
 56,ティアマト・マリス/提亚玛特・マリス,――！？,——！？
 57,ラカム？/拉卡姆？,こいつはな、<br>ティアマトを襲ったかもしれねぇ<br>悲劇の姿だ。,这个家伙，袭击了这里的提亚马特竟然是那种悲剧的姿态……
 58,ラカム？/拉卡姆？,俺だけじゃねぇんだ……<br>この世界は、俺とティアマトの<br>未来への恐怖から生まれたんだよ。,不只是我…… 这个世界，也正是我和提亚玛特对未来的恐惧造就的。

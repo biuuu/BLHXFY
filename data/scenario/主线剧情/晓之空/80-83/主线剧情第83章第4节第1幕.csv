@@ -4,16 +4,16 @@ id,en,jp,trans
 0,Katalina sighs heavily as the crew heads to an Idelva airship.,<span class='scene-font-katari'>カイン達と共に、</span><br><span class='scene-font-katari'>イデルバ王国の騎空艇へと向かいながら、</span><br><span class='scene-font-katari'>カタリナは大きく息をつく。</span>,<span class='scene-font-katari'>就在与该隐一起前往伊迪尔瓦王国的骑空艇时，卡塔莉娜突然叹气。</span>
 1,For a while I wasn't sure what tomorrow would bring.,一時は明日のことすら、<br>どうなるかわからなかったが……,虽然现在不知道明日会怎样。
 2,"And although we're not quite back on track yet, I feel as if we can rest easy for now.",状況はあまり好転していないにせよ、<br>ひとまず、<br>当面の心配はなくなったようだな。,尽管还不能说状况已经好转，但眼下的担忧算是解决了吧。
-3,You said it. We can finally take a breather!,やれやれ……<br>ようやく一安心だぜ……,呀嘞呀嘞，总算安心了。
+3,You said it. We can finally take a breather！,やれやれ……<br>ようやく一安心だぜ……,呀嘞呀嘞，总算安心了。
 4,"Vyrn lets out a sigh as well, but Cain's expression becomes visibly tense.",<span class='scene-font-katari'>ビィもまた安堵の息を漏らすが、</span><br><span class='scene-font-katari'>しかし、カインは緊迫した様子で告げる。</span>,<span class='scene-font-katari'>碧也安心地说道，但是该隐却有些紧张的样子。
 5,"Well, not exactly... I forgot to mention that it's a little soon to let down your guard.",いや、ごめん。<br>言ってなかったけど、<br>安心するにはまだ早いんだ。,不，抱歉。之前没有说，但是现在就放心为时尚早。
-6,Huh? What do you mean?,えっ……？<br>それって……,呃…？那是……
+6,Huh？ What do you mean？,えっ……？<br>それって……,呃…？那是……
 7,Just then the sound of breaking metal rips through the air.,<span class='scene-font-katari'>ルリアが首を傾げたその瞬間、</span><br><span class='scene-font-katari'>不意に破壊音が周囲に響き渡る。</span>,<span class='scene-font-katari'>露莉亚歪过头的一瞬间，突然周围响起了某种东西破坏的声音。
-8,Raaah!,<span class='scene-font-4'>おおおぉぉッ！！</span>,<span class='scene-font-4'>哦噢噢噢！！</span>
+8,Raaah！,<span class='scene-font-4'>おおおぉぉッ！！</span>,<span class='scene-font-4'>哦噢噢噢！！</span>
 10,"Having broken his restraints, Reinhardtzar swings a thick arm toward Cain.",<span class='scene-font-katari'>手錠を破壊したラインハルザは、</span><br><span class='scene-font-katari'>その剛腕をカインへと向け</span><br><span class='scene-font-katari'>大きく振りかぶる。</span>,<span class='scene-font-katari'>莱茵哈萨破坏了手铐，他的豪腕大角度地挥向该隐。</span>
 17,...,…………,…………
 18,"But due to Leona's foresight, his strike doesn't land.",<span class='scene-font-katari'>しかし、ラインハルザの一撃は、</span><br><span class='scene-font-katari'>先回りをしていたレオナに</span><br><span class='scene-font-katari'>防がれてしまう。</span>,<span class='scene-font-katari'>但是，莱茵哈萨的一击被先下手的蕾欧娜防住了。</span>
-19,"Tch... You saw that coming too, huh?",ちっ……<br>ここまで読んでやがったのか。,嘁，能看穿到这一步吗。
+19,"Tch... You saw that coming too, huh？",ちっ……<br>ここまで読んでやがったのか。,嘁，能看穿到这一步吗。
 20,I figured you'd try something before we left the island.,この島を出る前に、<br>どこかで仕掛けてくるとは思っていたさ。,我还想着离开这个岛之前，你会到哪才动手呢。
 21,Because I know that you're not one to give up like that.,お前がそう簡単に諦めないことは、<br>わかってた。,你不会那么轻易地放弃，我知道的。
 22,"But with your men outnumbered, the only way to save their lives was to surrender.",ただ、数に勝る敵に囲まれた以上、<br>仲間の命を優先するなら、<br>降伏以外に道は無い。,但是，被数量占优的敌人包围，你就要优先保护同伴的性命，除投降之外别无他法。
@@ -21,42 +21,42 @@ id,en,jp,trans
 24,Then you'd take a chance to get the biggest victory at the smallest cost.,最小の犠牲で<br>最大の戦果を得られる賭けに出る。,那你就会赌一把，用最小的牺牲取得最大的战果。
 25,"In other words you'd try crushing the general... that general being me. ",それはつまり、己の身一つで、<br>敵の大将……<br>つまり、俺を潰すことだ。,也就是说，以自己一条命，击败敌方大将——也就是我。
 26,Reinhardtzar sneers at Cain.,<span class='scene-font-katari'>カインの説明に、</span><br><span class='scene-font-katari'>ラインハルザは鼻で笑う。</span>,<span class='scene-font-katari'>莱茵哈萨对该隐的说明嗤之以鼻。</span>
-27,Just because you think you know me... don't you dare think you can stop me!,ふっ、わかっていたところで……<br>オレを止められると思うな……！！,哼，既然你明白，就别以为能阻止我了！
-34,"Might makes right! Influence, military strength... ",最後にものを言うのは力だ！<br>権力、軍事力、なんだっていい……,最后说了算的是力量！权力、兵力，什么都好…
-35,"Take your pick! No matter what kind, overwhelming power repels all.",それがどんな力であろうと、<br>圧倒的な力は全てを退ける！！,无论哪种，只要有压倒性的力量就能全数击败。
+27,Just because you think you know me... don't you dare think you can stop me！,ふっ、わかっていたところで……<br>オレを止められると思うな……！！,哼，既然你明白，就别以为能阻止我了！
+34,"Might makes right！ Influence, military strength... ",最後にものを言うのは力だ！<br>権力、軍事力、なんだっていい……,最后说了算的是力量！权力、兵力，什么都好…
+35,"Take your pick！ No matter what kind, overwhelming power repels all.",それがどんな力であろうと、<br>圧倒的な力は全てを退ける！！,无论哪种，只要有压倒性的力量就能全数击败。
 36,"As a glow envelops Reinhardtzar, Lyria lets out a gasp.",<span class='scene-font-katari'>ラインハルザの纏う力に、</span><br><span class='scene-font-katari'>ルリアは驚きの声をあげる。</span>,<span class='scene-font-katari'>看到莱茵哈萨身上缠绕的力量，露莉亚惊讶地说道。</span>
-37,That power! It feels like primal beast power...,こ、これ……！？<br>この力、魔晶に似て……,这，这个…！？这个力量，和魔晶很像！
+37,That power！ It feels like primal beast power...,こ、これ……！？<br>この力、魔晶に似て……,这，这个…！？这个力量，和魔晶很像！
 38,"Nope, this power is totally different. Reinhardtzar used to be a Torhid soldier after all.",いや、それとこれは別の力だ。<br>ラインハルザは元々、<br>トリッド王国の軍人らしいからな。,不，那是另一种力量。莱茵哈萨原先似乎是特利得王国的军人。
-39,What? What's that supposed to mean?,な、なんだぁ……？<br>どーいう意味だよ、それ！,什，什么？那是什么意思啊？
+39,What？ What's that supposed to mean？,な、なんだぁ……？<br>どーいう意味だよ、それ！,什，什么？那是什么意思啊？
 40,"I'll explain later. But if he goes unhinged, then his very life will be in danger.",詳しい話は後だ。<br>このまま暴走させたら、<br>こいつ自身の命が危ない。,具体的之后再说，他继续暴走的话恐怕会伤及自己的性命。
 41,So we've gotta hurry...,だから、早いとこ……,所以，早点……
-42,Nghh!,くっ……！？,くっ……！？
+42,Nghh！,くっ……！？,くっ……！？
 44,"Cain crouches down suddenly, clutching his leg.",<span class='scene-font-katari'>不意にカインは態勢を崩し、</span><br><span class='scene-font-katari'>足を庇うようにしてうずくまる。</span>,<span class='scene-font-katari'>该隐突然失去站姿，蹲下身捂住腿部。</span>
 45,Cain... Don't tell me...,カイン……！？<br>君、まさか……,该隐…你，难道…
 46,Leona abruptly kicks Cain in the leg.,<span class='scene-font-katari'>レオナはおもむろに、</span><br><span class='scene-font-katari'>カインの足に蹴りを入れる。</span>,<span class='scene-font-katari'>蕾欧娜突然踢了该隐的脚。</span>
-47,Ow! Leo... You could've just asked...,ぐおっ！？　レ、レオ姉……<br>確認するにしても、<br>もうちょっと方法が……,咕哦！？蕾，蕾欧姐…要确认的话也用稍微正常一点的方法…
-48,Since back then?,あのときから？,从那时起就？
+47,Ow！ Leo... You could've just asked...,ぐおっ！？　レ、レオ姉……<br>確認するにしても、<br>もうちょっと方法が……,咕哦！？蕾，蕾欧姐…要确认的话也用稍微正常一点的方法…
+48,Since back then？,あのときから？,从那时起就？
 49,Yeah...,はい……,是的……
 50,Ahhh...,はぁ……,哈啊……
-51,What's wrong? Are you all right?,ど、どうした？　大丈夫か？,怎，怎么了？没事吧？
+51,What's wrong？ Are you all right？,ど、どうした？　大丈夫か？,怎，怎么了？没事吧？
 52,Leona hesitates a moment before making a plea to 姬塔 and the crew.,<span class='scene-font-katari'>心配する姬塔達に対し、</span><br><span class='scene-font-katari'>レオナは申し訳なさそうに告げる。</span>,<span class='scene-font-katari'>姬塔等人都为之担心，蕾欧娜很抱歉地回答道。</span>
-53,"姬塔. I hate to ask this of you, but could you take care of this battle for us?",姬塔さん……<br>申し訳ありませんが、<br>この場をお願い出来ますか？,姬塔，很抱歉，这里能交给你们吗？
-54,Wait! Leo! I can still fight...,ちょ、待てよ、レオ姉！<br>俺だってまだ戦え……,等，等等，蕾欧姐！我还能战斗…
-56,Ow!,ぐぁっ……！？,咕啊！？
+53,"姬塔. I hate to ask this of you, but could you take care of this battle for us？",姬塔さん……<br>申し訳ありませんが、<br>この場をお願い出来ますか？,姬塔，很抱歉，这里能交给你们吗？
+54,Wait！ Leo！ I can still fight...,ちょ、待てよ、レオ姉！<br>俺だってまだ戦え……,等，等等，蕾欧姐！我还能战斗…
+56,Ow！,ぐぁっ……！？,咕啊！？
 58,Cain howls after a second swift kick from Leona.,<span class='scene-font-katari'>レオナの容赦ない蹴りに、</span><br><span class='scene-font-katari'>カインは悶絶する。</span>,<span class='scene-font-katari'>蕾欧娜毫不留情地踢了一脚，该隐晕了过去。</span>
 59,"Cain, you'll only hold us back in the state you're in.",カイン、<br>いまの君は足手まといだから。,该隐，现在的你只会碍手碍脚。
-60,How can you say you won't let anyone die when you're on the verge of death yourself?,それに、誰も死なせたくない、<br>って言いながら、<br>自分が死にそうになってどうするの？,而且，说着不想让任何人死，结果自己先死了是要怎样？
+60,How can you say you won't let anyone die when you're on the verge of death yourself？,それに、誰も死なせたくない、<br>って言いながら、<br>自分が死にそうになってどうするの？,而且，说着不想让任何人死，结果自己先死了是要怎样？
 61,...,…………,…………
 62,"Cain goes quiet, and Leona uses the opportunity to speak again to 姬塔.",<span class='scene-font-katari'>沈黙するカインに、</span><br><span class='scene-font-katari'>レオナは改めて</span><br><span class='scene-font-katari'>姬塔達に向き直る。</span>,<span class='scene-font-katari'>该隐沉默，蕾欧娜重新转向姬塔等人。</span>
-63,I'm really sorry... but could you lend us your strength just once more?,本当にごめんなさい……<br>けれど、<br>いまだけでも力を貸してくれませんか？,真的很抱歉，但是仅此一次，可以能借助你们的力量吗？
-64,"I'm sorry too, 姬塔... But can I count on you?",悪い……<br>頼めるか、姬塔。,对不住，拜托你们了，姬塔。
+63,I'm really sorry... but could you lend us your strength just once more？,本当にごめんなさい……<br>けれど、<br>いまだけでも力を貸してくれませんか？,真的很抱歉，但是仅此一次，可以能借助你们的力量吗？
+64,"I'm sorry too, 姬塔... But can I count on you？",悪い……<br>頼めるか、姬塔。,对不住，拜托你们了，姬塔。
 64-sel1_txt,We're on it.,<span class='scene-font-katari'>任せて</span>,交给我们吧
 64-sel2_txt,Be good in the meantime.,<span class='scene-font-katari'>大人しくしてて</span>,你就老实待着吧
 65,You know... you're a real stand-up crew.,本当に……<br>頼もしい方々ですね。,你们真的，很可靠呢。
 66,"Don't worry. If he tries anything, then I'll be sure to stop him.",安心してください。<br>カインがまた無茶をしようとすれば、<br>私が無理にでも止めますから。,请放心，该隐如果该隐还要乱来的话，我无论如何也会阻止他。
-67,"Heh heh! Well, we can't leave you now as far as we've come together!",へへっ……<br>まぁ、ここまできて、<br>見捨てるなんて出来ねーよな！,诶嘿嘿。嘛，事已至此，也不能见死不救嘛！
-68,"Right! And we can still put up a fight, so you just stay there and rest, Cain.",そうです！<br>それに、私達はまだ戦えますし……<br>カインさんはゆっくり休んでてください。,是的！而且我们还能战斗，该隐就先好好休息一会就好了。
+67,"Heh heh！ Well, we can't leave you now as far as we've come together！",へへっ……<br>まぁ、ここまできて、<br>見捨てるなんて出来ねーよな！,诶嘿嘿。嘛，事已至此，也不能见死不救嘛！
+68,"Right！ And we can still put up a fight, so you just stay there and rest, Cain.",そうです！<br>それに、私達はまだ戦えますし……<br>カインさんはゆっくり休んでてください。,是的！而且我们还能战斗，该隐就先好好休息一会就好了。
 69,"Besides, there's nowhere to for us to run anymore.",いまさら逃げることなど、<br>出来るわけがないからな……,事到如今也不可能逃走。
-71,"This is it! Get ready for a fight, 姬塔!",最後の正念場だ。<br>油断するなよ！　姬塔！,最后关头，不要大意了，姬塔！
+71,"This is it！ Get ready for a fight, 姬塔！",最後の正念場だ。<br>油断するなよ！　姬塔！,最后关头，不要大意了，姬塔！
 info,1,1,scene_cp83_q4_s10
 ,,,

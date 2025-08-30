@@ -4,9 +4,9 @@ id,en,jp,trans
 0,姬塔 and the crew take out the outlaws who had threatened Lyria and Katalina.,<span class='scene-font-katari'>ルリア、カタリナを取り囲んでいた</span><br><span class='scene-font-katari'>盗賊達を軒並み気絶させる</span><br><span class='scene-font-katari'>姬塔達。</span>,<span class='scene-font-katari'>姬塔等人打晕了成排包围起露莉亚、卡塔莉娜的盗贼。</span>
 1,It's such a relief... I was worried when we didn't see any of the crew here.,よかった……<br>他の皆がどこに行っちゃったのか、<br>ずっと不安で……,太好了，想着其他人都去哪里了，一直都很不安。
 2,"I thought I'd never see you again, 姬塔...",もう二度と、<br>姬塔に<br>会えないかと思っちゃいました……,我以为我再也见不到你了，姬塔……
-3,What happened exactly on that peak in the Eoniho Mountains?,あの山……エオニオ山脈の頂上で、<br>いったい何が起こったんだ……？,那座山…艾欧尼欧山脉的山顶上到底发生了什么？
-4,"Even with all the map pieces, why did the Grim Basin close up like that?",<span class='scene-font-spword'>空図の欠片</span>は揃っていたというのに、<br>どうして瘴流域が……,明明已经集齐了<span class='scene-font-spword'>空图碎片</span>，为什么瘴流域却…
-5,"And where are we? I've never seen a sky like this before, but could it be... ",それに、ここは一体どこなんだ？<br>見たことのない空だが、<br>まさか……,而且这里到底是哪？这片未曾见过的天空，难道是…
+3,What happened exactly on that peak in the Eoniho Mountains？,あの山……エオニオ山脈の頂上で、<br>いったい何が起こったんだ……？,那座山…艾欧尼欧山脉的山顶上到底发生了什么？
+4,"Even with all the map pieces, why did the Grim Basin close up like that？",<span class='scene-font-spword'>空図の欠片</span>は揃っていたというのに、<br>どうして瘴流域が……,明明已经集齐了<span class='scene-font-spword'>空图碎片</span>，为什么瘴流域却…
+5,"And where are we？ I've never seen a sky like this before, but could it be... ",それに、ここは一体どこなんだ？<br>見たことのない空だが、<br>まさか……,而且这里到底是哪？这片未曾见过的天空，难道是…
 6,姬塔 explains that all they know for sure is they've landed in Nalhegrande Skydom.,<span class='scene-font-katari'>姬塔は、自分達も、</span><br><span class='scene-font-katari'>ここがナル・グランデ空域であること</span><br><span class='scene-font-katari'>以上はわからない、と話す。</span>,<span class='scene-font-katari'>姬塔陈述了现在他们正处于纳尔格兰德空域中，但是更多的就不知道了。</span>
 7,I see. And you've yet to run into anyone else from the crew...,そうか……それに姬塔達も、<br>他の仲間とはまだ、<br>合流出来ていないんだな……,我懂了。而且姬塔你们还没和其他的同伴汇合。
 8,"Although Lyria and Katalina have been found, 姬塔 grows quiet at the grim reality of their situation.",<span class='scene-font-katari'>ルリア、カタリナと合流は出来たものの、</span><br><span class='scene-font-katari'>変わらず絶望的な状況に、</span><br><span class='scene-font-katari'>姬塔は口をつぐむ。</span>,<span class='scene-font-katari'>即使已经和卡塔莉娜、露莉亚汇合了，但是情况还是很绝望，姬塔缄口不语。</span>
@@ -14,30 +14,30 @@ id,en,jp,trans
 10,"Sorry, you know, for listening in on all that...",ごめん……<br>いまのだいたい<br>聞かせてもらったんだけどさ……,对不起，我刚刚也听到了大概的情况。
 11,But for now let's all go to the village where I'm staying.,とりあえず、<br>俺の泊まってる村まで<br>一緒に行こうぜ。,总之就一起去我寄宿的村子里吧。
 12,"I'm sure you're exhausted, so it'd be better to rest up a bit before deciding what to do next.",疲れてるだろうし、<br>一度ゆっくり休んでから、<br>次の行動を考えたほうがいい。,既然已经疲累了，就好好休息一下再考虑接下来的行动比较好。
-13,And you are?,君は……？,你是？
+13,And you are？,君は……？,你是？
 14,姬塔 introduces Cain to Katalina.,<span class='scene-font-katari'>姬塔はカタリナに、</span><br><span class='scene-font-katari'>カインを紹介する。</span>,<span class='scene-font-katari'>姬塔向卡塔莉娜介绍了该隐的事。</span>
 15,"My job here's done, so I'll guide you to the village.",俺ももう調べものは終わったし、<br>村まで案内するよ。,我要调查的事情已经搞定了，就让我带你们去村子里吧。
 16,"Well, I suppose that plan makes sense...",確かに……<br>彼の言うことも一理あるな。,确实，他说的在理。
 17,"Then it's settled. Now there might still be some outlaws around, so keep quiet as we go.",んじゃ決まり。<br>まだ盗賊がいるかもしれないから、<br>静かに付いて来てくれ。,那么就这么决定了，也许还会有盗贼，安静一点赶路吧。
 18,Cain begins walking in the opposite direction of the giant structure Vyrn saw earlier.,<span class='scene-font-katari'>そう言うと、カインは</span><br><span class='scene-font-katari'>ビィが見つけた巨大な建造物とは</span><br><span class='scene-font-katari'>逆方向へと歩き始める。</span>,<span class='scene-font-katari'>说完，该隐向着碧发现的那座巨大建筑物的反方向走去。</span>
-19,Huh? Wait now... Wouldn't the village be close to that big building over there?,あれ……？<br>なぁなぁ、村って、<br>あのデッケぇ建物のほうじゃねーのか？,啊嘞？呐呐，村子不是指那座超大的建筑物吗？
+19,Huh？ Wait now... Wouldn't the village be close to that big building over there？,あれ……？<br>なぁなぁ、村って、<br>あのデッケぇ建物のほうじゃねーのか？,啊嘞？呐呐，村子不是指那座超大的建筑物吗？
 20,Ah... I was wondering about that too. It looks like some sort of military facility.,ああ……<br>私も気になっていたんだが、<br>あれは何らかの軍事施設だろう？,啊……我也挺在意的，那个是不是某种军事设施啊？
-21,"With something that big, I assumed that it would attract lots of residents. The village would be around it somewhere, no?",あれだけ大きな施設なら、<br>そこを中心に人が集まるだろうし、<br>村があるならその近くじゃないのか？,既然有那么大的设施在，那中心也应该聚集了很多人，既然这里有村子的话不应该就在那附近吗？
+21,"With something that big, I assumed that it would attract lots of residents. The village would be around it somewhere, no？",あれだけ大きな施設なら、<br>そこを中心に人が集まるだろうし、<br>村があるならその近くじゃないのか？,既然有那么大的设施在，那中心也应该聚集了很多人，既然这里有村子的话不应该就在那附近吗？
 22,"Cain scratches his head, uneasy about answering Vyrn and Katalina.",<span class='scene-font-katari'>ビィとカタリナの問いに、</span><br><span class='scene-font-katari'>カインは困ったように頭をかく。</span>,<span class='scene-font-katari'>碧和卡塔莉娜的问题让该隐困扰地挠头。</span>
-23,"I see... You've really no idea, have you?",そっか……<br>本当に何にも知らねぇんだもんな。,这样啊…还真是什么都不知道啊。
+23,"I see... You've really no idea, have you？",そっか……<br>本当に何にも知らねぇんだもんな。,这样啊…还真是什么都不知道啊。
 24,Indeed that fortress is the heart of this place. It's the Merkmal Island symbol.,確かに、あの砦はこの島……<br><span class='scene-font-place'>メルクマール島</span>の中心であり、象徴だ。,确实，那座要塞是这座岛——<span class='scene-font-place'>美克马尔岛</span>中心的象征物。
 25,"But, you see, if you've got no business there, then it's best to keep away from it.",けどまぁ……<br>よっぽどの用がない限り、<br>近づくべきじゃないだろうな。,但是，如果没有很重要的事的话，还是不要靠近那里比较好。
-26,I see... But why's that?,そんな……<br>でも、どうしてなんですか？,那样啊……但是为什么呢？
+26,I see... But why's that？,そんな……<br>でも、どうしてなんですか？,那样啊……但是为什么呢？
 27,Because the people of this island aren't the type you want to mess around with...,そりゃ、この島の中心的な奴らが、<br>なるべく関わりたくない連中だからな。,因为在这座岛中心的那些家伙都是些最好不要搭上关系的家伙啊。
 28,Cain casts a steely gaze at the looming fortress.,<span class='scene-font-katari'>カインは、</span><br><span class='scene-font-katari'>険しい表情で巨大な砦を睨む。</span>,<span class='scene-font-katari'>该隐以一副严肃的表情望向巨大的要塞。</span>
 29,Merkmal Island is run by an enormous gang of outlaws.,この<span class='scene-font-place'>メルクマール島</span>は、<br>ある巨大な盗賊団に支配されてんだ。,这座<span class='scene-font-place'>美克马尔岛</span>是被某个巨大的盗贼团支配的。
 30,And their den is that very fortress.,その盗賊団のアジトこそが、<br>あの巨大な砦なんだよ。,那个盗贼团的窝点就是那座巨大的要塞。
 31,"Upon learning of the tense state of the island, the crew is at a loss for words.",<span class='scene-font-katari'>カインが告げる</span><br><span class='scene-font-place'>メルクマール島</span><span class='scene-font-katari'>の現状に、</span><br><span class='scene-font-katari'>一行は言葉を失う。</span>,<span class='scene-font-katari'>该隐将</span><span class='scene-font-place'>美克马尔岛</span><span class='scene-font-katari'>的现状介绍了一番，众人哑口无言。</span>
 37,"Meanwhile in that same den, a man receives a report.",<span class='scene-font-katari'>そして、ほぼ時を同じくして、</span><br><span class='scene-font-katari'>そのアジトの中では、</span><br><span class='scene-font-katari'>一人の男が部下からの報告を聞いていた。</span>,<span class='scene-font-katari'>然后与此同时，那个窝点中，某个男子听到了从部下发来的报告。</span>
-40,Tzar! I've got bad news!,キング！　大変だ！,老大！不好了！
-41,Huh?,あん？,啊？
-42,Our men who were on guard near the seal were taken out by a strange gang of people!,封印の近くを守ってた奴らが、<br>妙な連中にやられたらしい。,守卫在封印附近的家伙似乎被一群奇怪的人打倒了。
-43,"Near the seal? And what's become of them? The seal isn't broken, is it?",封印の……？<br>それでそいつらはどうしたんだ？<br>まだ封印は破られてねぇだろ？,封印的？然后那些家伙怎么了？封印还没被打破吧？
+40,Tzar！ I've got bad news！,キング！　大変だ！,老大！不好了！
+41,Huh？,あん？,啊？
+42,Our men who were on guard near the seal were taken out by a strange gang of people！,封印の近くを守ってた奴らが、<br>妙な連中にやられたらしい。,守卫在封印附近的家伙似乎被一群奇怪的人打倒了。
+43,"Near the seal？ And what's become of them？ The seal isn't broken, is it？",封印の……？<br>それでそいつらはどうしたんだ？<br>まだ封印は破られてねぇだろ？,封印的？然后那些家伙怎么了？封印还没被打破吧？
 44,No... It looks like they didn't come for the seal. They turned back toward the village.,ああ……<br>封印に用があったわけじゃないみたいで、<br>そのまま村に向かった。,是的，他们似乎并不是冲着封印去的，之后就赶向村子那边了。
 45,"On hearing this, the man called Tzar pauses a moment to think.",<span class='scene-font-katari'>それを聞き、</span><br><span class='scene-font-katari'>キングと呼ばれる男は、</span><br><span class='scene-font-katari'>やや思案するような表情を浮かべる。</span>,<span class='scene-font-katari'>听后，被叫做老大的这个男子，浮现出一副在盘算着什么的表情。</span>
 46,Fine. Post two or three more guards to the seal for more protection.,わかった……<br>封印には、もう２、３人多く<br>手練れを回しとけ。,明白了。封印那边再多布置两三个强点的家伙做守卫。

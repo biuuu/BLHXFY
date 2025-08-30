@@ -76,7 +76,7 @@ id,name,text,trans
 82,,<span class='scene-font-katari'>フォリアは決意のこもった瞳で、</span><br><span class='scene-font-katari'>ギルベルトを睨みつける。</span>,芙莉雅用坚定的眼神盯着吉尔伯特。
 83,フォリア/芙莉亚,しかしな……,但是……
 85,フォリア/芙莉亚,お主の勝手な野望のために、<br>この命、くれてやるつもりは――,如果是为了你的野心，我是不会送上性命的——
-92,フォリア/芙莉亚,ぐっ……！？,唔…… ! ？
+92,フォリア/芙莉亚,ぐっ……！？,唔…… ！ ？
 95,ギルベルト,抵抗は想定済みです。<br>意識のある状態で連れて行こうとは<br>最初から思っていません。,我原本就觉得你会做出抵抗。所以我并没有决定要带走有意识的你。
 96,,<span class='scene-font-katari'>フォリアの力が刃となるより早く、</span><br><span class='scene-font-katari'>ギルベルトの放った幽世の力が、</span><br><span class='scene-font-katari'>フォリアを昏倒させる。</span>,还没等芙莉雅亮出刀刃，吉尔伯特便抢先一步使用了幽世之力，打晕了芙莉雅。
 98,,<span class='scene-font-katari'>鎖を破壊し、</span><br><span class='scene-font-katari'>ギルベルトはフォリアを抱え、</span><br><span class='scene-font-katari'>牢から出ようとするが……</span>,破坏了锁链后，吉尔伯特就这么抱着芙莉雅，走出了牢房。
@@ -108,10 +108,10 @@ id,name,text,trans
 128,ハル/哈尔,ドランクさん……,德朗克先生……
 129,,<span class='scene-font-katari'>ドランク達の登場により、</span><br><span class='scene-font-katari'>ハルは安堵の笑みを浮かべる。</span>,哈尔的脸上露出了放心的笑容。
 130,,<span class='scene-font-katari'>しかし、対照的に、</span><br><span class='scene-font-katari'>ギルベルトは苛立った様子で、</span><br><span class='scene-font-katari'>彼らを睨みつけていた。</span>,只不过，相比之下，吉尔伯特却显得焦躁不安，一直瞪着他们。
-131,ギルベルト,ちっ……<br>どいつもこいつも……ッ！！,切…… 你们一个两个的都…… ! ！
+131,ギルベルト,ちっ……<br>どいつもこいつも……ッ！！,切…… 你们一个两个的都…… ！ ！
 138,スツルム/斯特姆,ッ！？,ッ！？
 148,,<span class='scene-font-katari'>ギルベルトは</span><br><span class='scene-font-katari'>瞬発的に力を膨れ上がらせ、</span><br><span class='scene-font-katari'>力の奔流で周囲を吹き飛ばす。</span>,吉尔伯特的力量瞬间膨胀起来，巨大的力量将周围的一切吹散。
-149,スツルム/斯特姆,くっ……<br>お前ら無事か！？　,唔…… 你们没事吧! ？
+149,スツルム/斯特姆,くっ……<br>お前ら無事か！？　,唔…… 你们没事吧！ ？
 151,ドランク/德朗克,問題ないねぇ～<br>スツルム殿も大丈夫？,当然没事噜~斯特姆小姐也没事吧？
 152,,<span class='scene-font-katari'>ドランクは咄嗟に宝珠で障壁を作り、</span><br><span class='scene-font-katari'>周囲を破壊から守っていた。</span>,之间德朗克拿出宝珠做出了屏障，从能够破坏一切的攻击中守住了大家。
 153,スツルム/斯特姆,怪我は無い。<br>だが、奴に逃げられた……追うぞ！,我没受伤。 只不过他逃走了，我们去追他！

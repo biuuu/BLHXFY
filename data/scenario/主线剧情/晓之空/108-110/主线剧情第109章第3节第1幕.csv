@@ -1,20 +1,20 @@
 id,name,text,trans
 0-chapter_name,,第109章　抗う者達,第109章　抗う者達
 0-synopsis,,幽世の力の断末魔に呼応し、ギルベルトの身体を通して異形の存在が顕現する。そこに突如ハクタクと共に現れ、ギルベルトを圧倒するレオナ。ハクタクの「認知」を支配する能力により、レオナは自身の痛覚や限界を認識しない状態だった。カインはレオナの身を案じるが、レオナの決意は揺るがない。ラカム達も合流し、姬塔達はギルベルトとの戦いに臨むのだった。,在垂死挣扎之中，附在吉尔伯特身上的幽世之力以异形的存在显现了出来。正在这时蕾欧娜和白泽突然出现，压制住了吉尔伯特。在白泽拥有的支配「认知」的能力之下，蕾欧娜正处於无法感到疼痛的极限状态。该隐非常担心蕾欧娜的状态，却依然无法动摇她的决心。随着拉卡姆等人的加入，姬塔一行将与吉尔伯特决一死战。
-2,カタリナ/卡塔莉娜,<span class='scene-font-4'>はああぁぁッ！！</span>,啊啊啊! ！
+2,カタリナ/卡塔莉娜,<span class='scene-font-4'>はああぁぁッ！！</span>,啊啊啊！ ！
 7,？？？,────,————
 8,,<span class='scene-font-katari'>カタリナの最後の一閃により、</span><br><span class='scene-font-katari'>幽世の力の塊は完全に沈黙する。</span>,由于卡塔莉娜的最后一击，幽世之力的集合体完全沉默了。
 9,カタリナ/卡塔莉娜,ふぅ……<br>これでひとまずは──,呼…… 这样一来——
-10,カタリナ/卡塔莉娜,<span class='scene-font-4'>ッ！？</span><br>危ないッ！　ビィくんッ！,啊！ 危险 ! ! 碧！
-12,ビィ/碧,んえっ！？,嗯诶! ？
+10,カタリナ/卡塔莉娜,<span class='scene-font-4'>ッ！？</span><br>危ないッ！　ビィくんッ！,啊！ 危险 ！ ！ 碧！
+12,ビィ/碧,んえっ！？,嗯诶！ ？
 13,ギルベルト,シネ……,去死……
 14,カイン/该隐,<span class='scene-font-kokoro'>（くそっ……！　油断した！</span><br><span class='scene-font-kokoro'>あいつまだ力を持ってたのか！？）</span>,（可恶……！大意了！原来那家伙还有力量！）
 17,,<span class='scene-font-katari'>カインはビィを庇うように、</span><br><span class='scene-font-katari'>咄嗟にギルベルトの前に出る。</span>,该隐就像是要保护碧一般，突然闪到了吉尔伯特面前
 18,ラインハルザ/莱茵哈萨,ッ……！！,啧……！！
-21,カイン/该隐,うおっ！？,呜哇! ？
+21,カイン/该隐,うおっ！？,呜哇！ ？
 22,,<span class='scene-font-katari'>しかし、その直後、</span><br><span class='scene-font-katari'>ラインハルザの体当たりにより、</span><br><span class='scene-font-katari'>カインはビィごと弾き飛ばされる。</span>,但是在那之后，莱茵哈撒的就代替该隐和碧被击飞了出去。
-23,カイン/该隐,ラインハルザっ……！！,莱茵哈撒…… ! ！
-24,ギルベルト,<span class='scene-font-4'>ガアアァァッ！！</span>,啊啊啊! ！
+23,カイン/该隐,ラインハルザっ……！！,莱茵哈撒…… ！ ！
+24,ギルベルト,<span class='scene-font-4'>ガアアァァッ！！</span>,啊啊啊！ ！
 34,,<span class='scene-font-katari'>土煙が晴れるも、</span><br><span class='scene-font-katari'>そこにラインハルザの姿は無く……</span>,烟尘已经散去，但到处都没有莱茵哈撒的踪影。
 35,,<span class='scene-font-katari'>ギルベルトの攻撃によって</span><br><span class='scene-font-katari'>叩き割られた地面からは、</span><br><span class='scene-font-katari'>空の底まで見通すことが出来た。</span>,在吉尔伯特的攻击之下，地面就像是开了个洞一般，能够透过去直接看到空之底。
 36,カイン/该隐,あ……,啊……
@@ -36,13 +36,13 @@ id,name,text,trans
 59,？？？,<span class='scene-font-4'>────ッ！！</span>,————嘶！！
 60,カイン/该隐,……っ！？,……唔！？
 61,カタリナ/卡塔莉娜,な、なんだ……！？<br>何が起きている！？,搞，搞什么…… ！发生什么了！？
-62,ギルベルト,<span class='scene-font-4'>ぐあっ……！</span><br><span class='scene-font-4'>がああああッ！！</span>,咕啊…… ！ 啊啊啊啊啊! ！
+62,ギルベルト,<span class='scene-font-4'>ぐあっ……！</span><br><span class='scene-font-4'>がああああッ！！</span>,咕啊…… ！ 啊啊啊啊啊！ ！
 63,ギルベルト,あがっ！　がはっ！<br>ぐおぇ……ぐあ……,来了！ 哈哈！ 呜呜…… 呜啊……
 64,,<span class='scene-font-katari'>幽世の力の断末魔に呼応するように、</span><br><span class='scene-font-katari'>ギルベルトは苦しげに頭を抱える。</span>,吉尔伯特痛苦地抱着头，就像是在呼应着垂死的幽世之力一般。
 65,ギルベルト,や、やめろ……！<br>ごほっ……これ、以上、くるな……,不、不要……！咳咳……不要再……不要再……来了……
 66,ギルベルト,これ以上……<br>俺の、中に……,不要再来……我的……身体中……
-67,ギルベルト,<span class='scene-font-4'>入ってくるなぁぁッ！！</span>,不要来了啊啊啊啊! ！
-72,ギルベルト,<span class='scene-font-4'>あああああッ！！</span><br>がはっ……！,啊啊啊啊啊! ！ 哈哈哈哈…… ！
+67,ギルベルト,<span class='scene-font-4'>入ってくるなぁぁッ！！</span>,不要来了啊啊啊啊！ ！
+72,ギルベルト,<span class='scene-font-4'>あああああッ！！</span><br>がはっ……！,啊啊啊啊啊！ ！ 哈哈哈哈…… ！
 73,ギルベルト,うぉえっ……<br>ぐえっ……おぇっ……,唔唔唔…… 唔唔…… 唔唔……
 76,カタリナ/卡塔莉娜,何か……<br>吐き出しているのか……？,他……在吐什么东西么？
 77,ルリア/露莉亚,あれは……力です。<br>ギルベルトさんが吐き出してるのは。,那些就……力量。被吉尔伯特吐出来的东西。
@@ -53,7 +53,7 @@ id,name,text,trans
 94,カイン/该隐,…………,…………
 96,ラインハルザ/莱茵哈萨,何があっても、お前は前に進め。<br>オレはその時、お前の隣にいる。,无论发生什么，你都只管向前看。到那时候，我会在你的身边。
 98,カイン/该隐,わかったよ……ラインハルザ。,我知道了……莱茵哈撒。
-99,ギルベルト,<span class='scene-font-4'>オオオオォッ！！</span>,哦哦哦! ！
+99,ギルベルト,<span class='scene-font-4'>オオオオォッ！！</span>,哦哦哦！ ！
 99-sel1_txt,,<span class='scene-font-katari'>カインっ！</span>,该隐！
 112,カイン/该隐,これでいいんだよな、ラインハルザ。,这样就可以了吧，莱茵哈撒。
 113,カイン/该隐,俺は進み続けるぜ……<br>お前を置いていくことになっても。,就算被你抛下了……我也会继续前进的。
@@ -65,10 +65,10 @@ id,name,text,trans
 124,ルリア/露莉亚,あっ！　あれって……！,啊！那是…… ！
 125,,<span class='scene-font-katari'>そこにあったのは、</span><br><span class='scene-font-katari'>ラインハルザの姿だけではなかった。</span>,在那里的，不仅仅只是莱茵哈撒而已。
 126,,<span class='scene-font-katari'>ラインハルザを背に乗せ現れたのは、</span><br><span class='scene-font-katari'>星晶獣ハクタクであり、</span><br><span class='scene-font-katari'>その背には、レオナの姿もあった。</span>,此时载着莱茵哈撒的除了星晶兽白泽以外，还有蕾欧娜。
-129,レオナ/蕾欧娜,<span class='scene-font-4'>はあぁぁっ！！</span>,啊啊啊啊! ！
-131,ギルベルト,ぐっ……！？,咕…… ! ？
+129,レオナ/蕾欧娜,<span class='scene-font-4'>はあぁぁっ！！</span>,啊啊啊啊！ ！
+131,ギルベルト,ぐっ……！？,咕…… ！ ？
 132,,<span class='scene-font-katari'>レオナはハクタクの背から飛び降り、</span><br><span class='scene-font-katari'>その勢いをそのまま</span><br><span class='scene-font-katari'>ギルベルトへとぶつける。</span>,蕾欧娜从白泽身上跳下后，顺势劈向了吉尔伯特。
-136,レオナ/蕾欧娜,<span class='scene-font-4'>はぁっ！！</span>,哈! ！
+136,レオナ/蕾欧娜,<span class='scene-font-4'>はぁっ！！</span>,哈！ ！
 138,ギルベルト,<span class='scene-font-4'>なぁッ！？</span><br><span class='scene-font-4'>馬鹿なッ……！？</span>,什么……！？不可能……！？
 139,,<span class='scene-font-place'>シュテルケ島</span><span class='scene-font-katari'>に降り立ったレオナは、</span><br><span class='scene-font-katari'>幽世の力をまとうギルベルトと、</span><br><span class='scene-font-katari'>互角以上に切り結ぶのだった。</span>,降落在修特尔克岛上的蕾欧娜，竟然与持有幽世之力的吉尔伯特展开了不分胜负的对决。
 140,カイン/该隐,<span class='scene-font-4'>ラインハルザっ！</span><br>無事だったんだな！,莱茵哈撒！原来你没事啊！
@@ -78,7 +78,7 @@ id,name,text,trans
 145,,<span class='scene-font-katari'>そう言いながらラインハルザは、</span><br><span class='scene-font-katari'>同じく傍らに降り立った</span><br><span class='scene-font-katari'>ハクタクを指し示す。</span>,莱因哈特一边这么说着，一边指着同样降落在旁边的白泽。
 146,カタリナ/卡塔莉娜,心強い……<br>貴殿らも助力に来てくれたのだな。,真厉害…… 原来你们也是来帮忙的啊。
 147,ハクタク/白泽,むしろ、我が王の忠臣として、<br>駆けつけるのが遅くなったことを<br>お詫び申し上げます。,不如说，我作为王的忠臣，现在才赶来真的是非常抱歉。
-148,レオナ/蕾欧娜,<span class='scene-font-4'>はぁぁっ！！</span>,啊啊! ！
+148,レオナ/蕾欧娜,<span class='scene-font-4'>はぁぁっ！！</span>,啊啊！ ！
 156,ギルベルト,っ！？,唔！？
 160,,<span class='scene-font-katari'>レオナの一薙ぎに対し、</span><br><span class='scene-font-katari'>その巨躯をもっても耐え切れず、</span><br><span class='scene-font-katari'>ギルベルトは吹き飛ばされる。</span>,蕾欧娜不断挥舞着薙刀，在她的攻击之下，吉尔伯特巨大的身体也无法承受，就这么飞了出去。
 161,レオナ/蕾欧娜,…………,…………
@@ -86,7 +86,7 @@ id,name,text,trans
 163,ハクタク/白泽,いえ、長くはもちません。<br>すぐに止めないと……,不，她撑不了太久。必须马上制止她……
 165,レオナ/蕾欧娜,こふっ……,唔唔……
 166,,<span class='scene-font-katari'>レオナの表情に陰りは無いものの、</span><br><span class='scene-font-katari'>その口からは鮮血がこぼれる。</span>,虽然蕾欧娜的脸上没有一丝阴霾，但她的嘴边却流出了鲜血。
-167,カイン/该隐,レオ姉っ！？,蕾欧姐! ？
+167,カイン/该隐,レオ姉っ！？,蕾欧姐！ ？
 168,,<span class='scene-font-katari'>カインは咄嗟にレオナに駆け寄り、</span><br><span class='scene-font-katari'>その身体を支える。</span>,该隐立刻跑向蕾欧娜，支撑着她的身体
 169,レオナ/蕾欧娜,大丈夫だよ、カイン……<br>私はもう、痛くないから。,没关系的，该隐……我已经，不会感到疼了。
 170,カイン/该隐,いや、でも、血が……！,不，但是，血…… ！

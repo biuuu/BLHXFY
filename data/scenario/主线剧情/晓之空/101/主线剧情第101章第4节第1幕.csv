@@ -45,7 +45,7 @@ id,name,text,trans
 64,,<span class='scene-font-katari'>やがて堂々たる軍靴の音と共に、</span><br><span class='scene-font-katari'>レム王国軍が姿を現す。</span>,紧接着，从不远处传来了雷姆王国军队的脚步声。
 65,,<span class='scene-font-katari'>その先頭には、</span><br><span class='scene-font-katari'>涼やかな笑みを浮かべた</span><br><span class='scene-font-katari'>男の姿があった。</span>,走在最前面的是一名正在微笑的男人。
 66,ギルベルト,ふふ……,哼哼……
-67,カイン/该隐,ギルベルト……！！,吉尔伯特…… ! ！
+67,カイン/该隐,ギルベルト……！！,吉尔伯特…… ！ ！
 68,ギルベルト,これはこれは……<br>思っていたよりも<br>早い再会となりましたね。,哎呀……这么快就再次见面了，还真是比我想象中要快很多呢。
 69,カイン/该隐,そうか……<br>この状況は全て、<br>ギルベルト、お前が……！,果然…… 这一切，吉尔伯特，都是你…… ！
 70,,<span class='scene-font-katari'>カインは声を張り上げ、</span><br><span class='scene-font-katari'>周囲にも聞こえるよう、</span><br><span class='scene-font-katari'>ギルベルトを糾弾する。</span>,该隐故意提高声音来声讨吉尔伯特，好让周围的人都能听见。
@@ -53,7 +53,7 @@ id,name,text,trans
 72,カイン/该隐,いかに戦争とはいえ、<br>出鱈目な風説を流布させ、<br>王の威光に泥を塗るとは……恥を知れ！,虽然这确实是战争，但散播这种给国王抹黑的谣言……吉尔伯特，你不知廉耻！
 73,ギルベルト,…………,…………
 74,カイン/该隐,<span class='scene-font-kokoro'>（正直なところ、</span><br><span class='scene-font-kokoro'>噂の真偽は、</span><br><span class='scene-font-kokoro'>まだ俺にもわからねぇ……）</span>,(老实说，有关流言的真伪，我也不知道……)
-75,カイン/该隐,<span class='scene-font-kokoro'>（だが、これを聞いて、</span><br><span class='scene-font-kokoro'>皆の士気が</span><br><span class='scene-font-kokoro'>少しでも戻ってくれれば……！）</span>,(但是，如果听到这个消息，大家的士气能稍微恢复一点的话…… !)
+75,カイン/该隐,<span class='scene-font-kokoro'>（だが、これを聞いて、</span><br><span class='scene-font-kokoro'>皆の士気が</span><br><span class='scene-font-kokoro'>少しでも戻ってくれれば……！）</span>,(但是，如果听到这个消息，大家的士气能稍微恢复一点的话…… ！)
 76,,<span class='scene-font-katari'>カインは望みをかけ、</span><br><span class='scene-font-katari'>あえて大声でギルベルトの罪を問う。</span>,抱着一丝希望，该隐大声地追究起了吉尔伯特的罪行。
 77,,<span class='scene-font-katari'>しかし、それに対しギルベルトは</span><br><span class='scene-font-katari'>眉一つ動かさず、</span><br><span class='scene-font-katari'>穏やかな表情を崩さない。</span>,对此，吉尔伯特就连眉毛都没有皱一下，表情依然平静。
 78,ギルベルト,謹んで申し上げましょう……<br>カイン将軍。,恕我直言…… 该隐将军。
@@ -79,7 +79,7 @@ id,name,text,trans
 98,,<span class='scene-font-katari'>思案するフォリアに対し、</span><br><span class='scene-font-katari'>カインはすがるように、</span><br><span class='scene-font-katari'>必死に問いかける。</span>,看着陷入沉思的芙莉雅，该隐咬着牙，平明地问道。
 99,カイン/该隐,頼む……教えてくれ、陛下！<br>ギルベルトの言うことは、<br>陛下が大罪人だというのは……,求求你……请告诉我，陛下！ 吉尔伯特所说的，关于陛下是大罪人的事情……
 100,フォリア/芙莉亚,事実じゃ……<br>奴が広めた内容に嘘偽りは無い。,那些，确实是事实………他所说的话里，没有半句谎言。
-101,カイン/该隐,なっ……！？,什…… ! ？
+101,カイン/该隐,なっ……！？,什…… ！ ？
 102,フォリア/芙莉亚,すまぬ……<br>こればかりは、<br>嘘をつくわけにはいかぬのでな。,对不起…… 对于这件事，我是不会说谎的。
 103,フォリア/芙莉亚,ただ……<br>ナル・グランデを平和にしたい、と、<br>そう掲げた心は真実じゃ。,只只不过…… 我确实渴望着纳尔格兰迪空域的和平，这也是我的真心。
 104,フォリア/芙莉亚,まぁ、<br>いまさら信じてくれ、というのも、<br>虫がよすぎる話じゃがの……,哎，虽然我现在想让你相信我，但这个要求似乎太过自私了……

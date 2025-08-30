@@ -9,7 +9,7 @@ id,name,text,trans
 6,ラカム/拉卡姆,<span class='scene-font-kokoro'>（しかし、最初っから、</span><br><span class='scene-font-kokoro'>誰もいなかった、</span><br><span class='scene-font-kokoro'>って感じじゃねぇな……）</span>,(但是，最开始这里却并没有给我杳无人烟的感觉……)
 7,,<span class='scene-font-katari'>ラカムは注意深く、</span><br><span class='scene-font-katari'>街にある全てのものを観察する。</span>,拉卡姆小心翼翼的观察着城镇里的布置。
 8,,<span class='scene-font-katari'>そんな中で一際目を引いたのは、</span><br><span class='scene-font-katari'>嵐の中、</span><br><span class='scene-font-katari'>置き去りにされた市場の跡だった。</span>,其中最引人注目的，果然是在暴风中被遗弃的市场。
-9,ラカム/拉卡姆,<span class='scene-font-kokoro'>（こんだけの嵐の中、</span><br><span class='scene-font-kokoro'>片づけもせずに、</span><br><span class='scene-font-kokoro'>市場から人が撤収したのか……？）</span>,(既然风暴这么强，市场里的人难道没有进行任何收拾就这么离开了吗…… ?)
+9,ラカム/拉卡姆,<span class='scene-font-kokoro'>（こんだけの嵐の中、</span><br><span class='scene-font-kokoro'>片づけもせずに、</span><br><span class='scene-font-kokoro'>市場から人が撤収したのか……？）</span>,(既然风暴这么强，市场里的人难道没有进行任何收拾就这么离开了吗…… ？)
 10,ラカム/拉卡姆,<span class='scene-font-kokoro'>（荷台も天幕も風で目茶目茶だ……</span><br><span class='scene-font-kokoro'>しかも、売り物だって、</span><br><span class='scene-font-kokoro'>置きっぱなしじゃねぇか……）</span>,(帐篷和小摊都被风吹得乱七八糟的…… 而且，拿来卖的商品也就这样随意地堆放着……)
 11,ラカム/拉卡姆,ちっとお行儀はよくねぇが……,虽然有点不礼貌……
 13,,<span class='scene-font-katari'>そう言いながら、</span><br><span class='scene-font-katari'>ラカムは露店の天幕を物色する。</span>,拉卡姆一边说着，一边观察着摊位上的帐篷。
@@ -47,7 +47,7 @@ id,name,text,trans
 57,ポート・ブリーズの住人１,けどラカム……お前も残ったんだな。<br>いや、そうか……<br>そういう奴だよな、お前は。,但是，拉卡姆…… 你也留下了啊。 不，应该…… 你就是这种人吧。
 58,ラカム/拉卡姆,悪い……<br>ちっと状況が飲み込めねぇんだが……,对不起…… 我有点无法理解现在的状况……
 59,ラカム/拉卡姆,聞かせてくれねぇか……<br><span class='scene-font-place'>ポート・ブリーズ</span>に、<br>いったい何があったのか……,能不能告诉我…… 波特布里茨 到底发生了什么事……
-64,ラカム/拉卡姆,<span class='scene-font-4'>なっ……！？</span><br><span class='scene-font-4'>ティアマトが</span><br><span class='scene-font-4'>暴走させられただぁ！？</span>,什么…… ！ ? 提亚马特暴走了 ！？
+64,ラカム/拉卡姆,<span class='scene-font-4'>なっ……！？</span><br><span class='scene-font-4'>ティアマトが</span><br><span class='scene-font-4'>暴走させられただぁ！？</span>,什么…… ！ ？ 提亚马特暴走了 ！？
 65,,<span class='scene-font-katari'>そう聞かされたラカムは、</span><br><span class='scene-font-katari'>慌てて傍らのティアマトを見る。</span>,听到这话时，拉卡姆连忙看了一眼身边的提亚玛特。
 66,ティアマト/提亚玛特,……？,……？
 67,,<span class='scene-font-katari'>しかし、ティアマトもまた、</span><br><span class='scene-font-katari'>困惑した様子で首を振る。</span>,但是提亚玛特只是困惑地摇了摇头。
@@ -88,7 +88,7 @@ id,name,text,trans
 106,,<span class='scene-font-katari'>ラカムは嘆く人々をよそに、</span><br><span class='scene-font-katari'>避難所の出口へと向かう。</span>,抛下了发出悲叹的人群，拉卡姆朝避难所的出口走去。
 107,ラカム/拉卡姆,行くぞ……ティアマト。,走吧…… 提亚玛特。
 108,ティアマト/提亚玛特,────,————
-109,ラカム/拉卡姆,ここがどういう世界であれ、<br>この街を<br>空の底に落としてたまるか……！！,不论这是什么世界，我都不会让这座城市坠入空底的…… ! ！
+109,ラカム/拉卡姆,ここがどういう世界であれ、<br>この街を<br>空の底に落としてたまるか……！！,不论这是什么世界，我都不会让这座城市坠入空底的…… ！ ！
 110,ラカム/拉卡姆,助けるんだ……！<br>いまからでも遅くねぇ……,去拯救她把！ 现在还不晚……
 111,ラカム/拉卡姆,<span class='scene-font-4'>まずはもうひとりの俺を</span><br><span class='scene-font-4'>探し出すぞ！！</span>,首先，必须得找到另一个我！
 112,,<span class='scene-font-katari'>ラカムの気合いに、</span><br><span class='scene-font-katari'>ティアマトもまた強い頷きを返す。</span>,像是回应拉卡姆的气势一般，提亚玛特也用力地点了点头。

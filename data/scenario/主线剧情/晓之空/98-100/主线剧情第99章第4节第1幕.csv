@@ -47,8 +47,8 @@ id,name,text,trans
 69,フォリア/芙莉亚,やれやれ……<br>噂をすれば何とやら、じゃな。,哎呀哎呀…… 说曹操曹操到。
 70,,<span class='scene-font-katari'>響く足音と共に、</span><br><span class='scene-font-katari'>衛兵達のやり取りが、</span><br><span class='scene-font-katari'>玉座の間にまで響き渡る。</span>,随着脚步声一同，卫兵们的呼喊声响彻了整个王座厅。
 71,衛兵１/卫兵１,レオナ様……？<br>陛下への謁見でしたら、<br>いまは……,蕾欧娜大人…… ？ 如果是谒见陛下的话，现在还……
-73,衛兵１/卫兵１,がはっ……！？,啊哈…… ! ？
-74,衛兵２/卫兵２,なっ！？<br>レオナ様！？　乱心でもなされ……,什么！ ? 蕾欧娜大人 ！？ 请不要让我为难……
+73,衛兵１/卫兵１,がはっ……！？,啊哈…… ！ ？
+74,衛兵２/卫兵２,なっ！？<br>レオナ様！？　乱心でもなされ……,什么！ ？ 蕾欧娜大人 ！？ 请不要让我为难……
 76,衛兵２/卫兵２,ぐあっ……,咕啊……
 78,,<span class='scene-font-katari'>衛兵達の悲鳴を響かせ、</span><br><span class='scene-font-katari'>玉座の間の扉を開け放ったのは、</span><br><span class='scene-font-katari'>正気を失った様子のレオナだった。</span>,伴随着卫兵们的悲鸣，蕾欧娜推开了王座之间的大门。她的样子看起来已经失去了理智。
 79,レオナ/蕾欧娜,陛下……<br>私はアベルの仇を<br>討たなくてはなりません。,陛下…… 我必须为亚伯报仇才行。
@@ -61,7 +61,7 @@ id,name,text,trans
 86,,<span class='scene-font-katari'>フォリアの言葉に、</span><br><span class='scene-font-katari'>レオナは黒い炎を瞳に躍らせ、</span><br><span class='scene-font-katari'>己の得物を構える。</span>,听到芙莉亚的话后，黑色的火炎出现在了蕾欧娜的眼中，然后她拔出了自己的武器。
 87,レオナ/蕾欧娜,お覚悟を、陛下……,请做好觉悟吧，陛下……
 88,レオナ/蕾欧娜,アベルの仇……,为了亚伯的仇……
-89,レオナ/蕾欧娜,<span class='scene-font-4'>お前のその首、</span><br><span class='scene-font-4'>もらい受けるッ！！</span>,你的项上人头，我就不客气了! ！
+89,レオナ/蕾欧娜,<span class='scene-font-4'>お前のその首、</span><br><span class='scene-font-4'>もらい受けるッ！！</span>,你的项上人头，我就不客气了！ ！
 90,,<span class='scene-font-katari'>お互いに譲れぬもののため、</span><br><span class='scene-font-katari'>避け得ぬ死闘が幕を開ける。</span>,因为谁都无法做出让步，这场无法避免的死斗终于拉开了帷幕。
 91,,<span class='scene-font-katari'>しかし、その譲れぬ思いすら全て、</span><br><span class='scene-font-katari'>悪しき野望の礎でしかないのだった。</span>,然而，造成这一切的，只不过是某个邪恶的野心家实现愿望的第一步。
 info,,,scene_cp99_q4_s10

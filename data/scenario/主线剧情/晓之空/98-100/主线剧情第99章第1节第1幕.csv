@@ -7,7 +7,7 @@ id,name,text,trans
 8,イオ/伊欧,ん……,嗯……
 15,,<span class='scene-font-katari'>そうしてイオが目にしたのは、</span><br><span class='scene-font-katari'>見たこともない、</span><br><span class='scene-font-katari'>鬱蒼と生い茂る森だった。</span>,在这里，伊欧看到了从未见过的茂密的森林。
 16,イオ/伊欧,ここ……どこ？,这里…… 是哪里？
-17,イオ/伊欧,っていうか、<br>ロゼッタとエキドナは……！？,话说回来，罗塞塔和艾奇多娜…… ! ？
+17,イオ/伊欧,っていうか、<br>ロゼッタとエキドナは……！？,话说回来，罗塞塔和艾奇多娜…… ！ ？
 18,イオ/伊欧,あたし、さっきまで、<br><span class='scene-font-place'>ベスティエ島</span>に居たわよね……？,怎么回事，我刚才还在贝斯缇耶岛呢…… ？
 19,,<span class='scene-font-katari'>イオは確認するように</span><br><span class='scene-font-katari'>周囲の緑を見回す。</span>,伊欧像是确认似的环顾翠绿的四周。
 20,イオ/伊欧,<span class='scene-font-kokoro'>（ここ……</span><br><span class='scene-font-place'>ベスティエ島</span><span class='scene-font-kokoro'>でも、</span><br><span class='scene-font-place'>ルーマシー</span><span class='scene-font-kokoro'>でもない……）</span>,(这里…… 不是贝斯缇耶岛，也不是罗马西群岛……)
@@ -33,12 +33,12 @@ id,name,text,trans
 44,イオ/伊欧,<span class='scene-font-kokoro'>（あたしはロゼッタに、</span><br><span class='scene-font-kokoro'>そういう憧れを</span><br><span class='scene-font-kokoro'>押し付けてたのかな……）</span>,(我是不是把这样的憧憬，强加给了罗塞塔……)
 45,イオ/伊欧,…………,…………
 46,イオ/伊欧,しっかりしないと……<br>いまはそんなこと考えてる場合じゃ<br>ないよね。,如果不振作起来的话…… 现在可不是想这个的时候。
-47,イオ/伊欧,<span class='scene-font-kokoro'>（とにかくロゼッタならきっと大丈夫。</span><br><span class='scene-font-kokoro'>それを信じて、</span><br><span class='scene-font-kokoro'>あたしも頑張らないと……！）</span>,(罗塞塔的话肯定没问题的。 相信她的同时，我也要加油…… !)
+47,イオ/伊欧,<span class='scene-font-kokoro'>（とにかくロゼッタならきっと大丈夫。</span><br><span class='scene-font-kokoro'>それを信じて、</span><br><span class='scene-font-kokoro'>あたしも頑張らないと……！）</span>,(罗塞塔的话肯定没问题的。 相信她的同时，我也要加油…… ！)
 48,,<span class='scene-font-katari'>イオは悩みを振り払うようにしながら、</span><br><span class='scene-font-katari'>森の奥へと進んでいく。</span>,伊欧一边抛开烦恼，一边向森林深处走去。
 53,イオ/伊欧,ううっ……<br>知らない森でひとりって、<br>思った以上に心細いわね。,呜呜…… 一个人在陌生的森林里，比想象中还要寂寞呢。
 54,イオ/伊欧,それに、<br>進んでも進んでも<br>景色が変わらないし……,而且，无论怎么前进，景色都没有发生任何改变……
 55,イオ/伊欧,まさかあたし、<br>道に迷ったんじゃ……,难道说，我迷路了吗……
-57,イオ/伊欧,っ！？<br>だ、誰……！？,啊！ ? 是，是谁…… ！？
+57,イオ/伊欧,っ！？<br>だ、誰……！？,啊！ ？ 是，是谁…… ！？
 58,,<span class='scene-font-katari'>突然の物音に、</span><br><span class='scene-font-katari'>イオは飛び上がって警戒し、</span><br><span class='scene-font-katari'>杖を構える。</span>,突如其来的声音使伊欧提高了警惕，举起了手杖。
 59,イオ/伊欧,誰……？<br>ロゼッタなの……？,谁…… ？ 是罗塞塔吗？
 62,魔物,キュィィ……,好疼……
@@ -73,9 +73,9 @@ id,name,text,trans
 111,イオ/伊欧,……ん？<br>あれ……<br>もしかしてこれ……,…… 嗯？ 咦…… 这个莫非是……
 112,,<span class='scene-font-katari'>ふと、届いた音に、</span><br><span class='scene-font-katari'>イオは耳を澄ませる。</span>,突然传来的声音让伊欧屏住了气息。
 113,イオ/伊欧,<span class='scene-font-kokoro'>（これ……話し声よね）</span>,(这是…… 说话的声音吧)
-114,イオ/伊欧,<span class='scene-font-kokoro'>（良かったぁ……！</span><br><span class='scene-font-kokoro'>誰かいるなら、</span><br><span class='scene-font-kokoro'>ロゼッタのことを聞けるかも！）</span>,(太好了…… ！ 如果有人在的话，也许能打听到罗塞塔的事!)
+114,イオ/伊欧,<span class='scene-font-kokoro'>（良かったぁ……！</span><br><span class='scene-font-kokoro'>誰かいるなら、</span><br><span class='scene-font-kokoro'>ロゼッタのことを聞けるかも！）</span>,(太好了…… ！ 如果有人在的话，也许能打听到罗塞塔的事！)
 115,,<span class='scene-font-katari'>こうしてイオは、喜び勇んで、</span><br><span class='scene-font-katari'>話し声のするほうへと駆けていく。</span>,就这样，伊欧兴高采烈地向说话的声音跑去。
-120,魔物,<span class='scene-font-4'>キュィィィッ！！</span>,kyuiiiiiiiiiii! ！
+120,魔物,<span class='scene-font-4'>キュィィィッ！！</span>,kyuiiiiiiiiiii！ ！
 121,兵士１,このっ！,混蛋！
 123,魔物,キュィィィ……,kyiiiiii……
 127,兵士２,おい、何してんだ！<br>早く薪持って来い、薪！,嘿，你在干什么！ 快把柴火还拿过来，柴火！
@@ -85,11 +85,11 @@ id,name,text,trans
 134,森の動物,グルルル……！,咕噜咕噜…… ！
 135,兵士２,なんだお前は！<br>邪魔をするな！,你在干什么！ 别挡我的路！
 136,,<span class='scene-font-katari'>兵士が森の動物を</span><br><span class='scene-font-katari'>蹴り上げようとした、その時。</span>,士兵就像是要一脚踹飞森林里的动物一般。
-140,兵士２,ぐへっ！？,咕嘿! ？
-141,兵士１,な、なんだ！？　新手か！？,搞、搞什么！ ? 新手啊 ！？
+140,兵士２,ぐへっ！？,咕嘿！ ？
+141,兵士１,な、なんだ！？　新手か！？,搞、搞什么！ ？ 新手啊 ！？
 144,イオ/伊欧,ちょっと！<br>あんた達、なんてことしてるわけ！？,为！ 你们在干什么？
 145,兵士２,何だお前は……<br><span class='scene-font-spword'>星の民</span>……いや、あの星晶獣の手先か？<br>洗脳でもされたか……,你是…… 星之民…… 不，是那个星晶兽的爪牙吗？ 被洗脑了吗……
-146,兵士１,そ、そんなことまで出来るのか！？<br>あの星晶獣は……,你，你能做到哪一步！ ? 那个星晶兽是……
+146,兵士１,そ、そんなことまで出来るのか！？<br>あの星晶獣は……,你，你能做到哪一步！ ？ 那个星晶兽是……
 147,兵士２,わからない。<br>だが現に、こんな子供が……,我不知道。 但是，这样的孩子居然会出现在这里……
 148,イオ/伊欧,<span class='scene-font-spword'>星の民</span>……？<br>あんた達、何の話してるの？,星之民…… ？ 你们在说什么？
 149,兵士１,可哀想だが……<br>いま、連れ出すだけの余裕はないな……,可怜的家伙…… 现在已经没有带上她的余裕了……

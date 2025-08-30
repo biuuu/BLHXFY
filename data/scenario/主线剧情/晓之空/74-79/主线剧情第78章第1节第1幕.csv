@@ -9,14 +9,14 @@ id,en,jp,trans
 5,Enough of the chit-chat. The miasma's thick enough here already. We don't need a speech about it.,御託はいい……<br>ここも瘴気が薄いわけじゃないんだ、<br>無駄話は後にしろ。,少自说自话了，这里瘴气并不薄，闲言泼语都留到之后再说吧。
 6,"The light is pointing that way, so Drang should be up ahead.",宝珠の光は、確かにこの先を指してる。<br>ドランクはこの先に居るはずなんだ……,宝珠的光芒确实指向这前方，德朗克应该就在那里。
 7,Sturm squeezes the glowing object in her hand as she speaks.,<span class='scene-font-katari'>そう呟くと、スツルムは改めて、</span><br><span class='scene-font-katari'>ドランクの残した宝珠を強く握る。</span>,<span class='scene-font-katari'>斯特姆轻声细语，然后再次用力握住了德朗克的宝珠。</span>
-8,"The miasma is harmful, they say... But we can't stay here any longer. 姬塔 and Lyria, are you ready?",瘴気は人体にとって、有害だからな……<br>確かに長居は無用だ。<br>姬塔、ルリア、準備はいいな？,瘴气对人体确实有害，这里不宜长期停留。姬塔，露莉亚，准备好了吗？
-9,R-roger!,は、はい……っ！,已经准备好了！
+8,"The miasma is harmful, they say... But we can't stay here any longer. 姬塔 and Lyria, are you ready？",瘴気は人体にとって、有害だからな……<br>確かに長居は無用だ。<br>姬塔、ルリア、準備はいいな？,瘴气对人体确实有害，这里不宜长期停留。姬塔，露莉亚，准备好了吗？
+9,R-roger！,は、はい……っ！,已经准备好了！
 9-sel1_txt,I'm pretty nervous...,<span class='scene-font-katari'>緊張する……</span>,好紧张啊
-9-sel2_txt,Let's go already!,<span class='scene-font-katari'>さっさとやろう</span>,赶紧搞定吧
+9-sel2_txt,Let's go already！,<span class='scene-font-katari'>さっさとやろう</span>,赶紧搞定吧
 10,Ah... Me too. Even though I knew our journey would bring us here one day.,うう……私もです。<br>ここが、いままでの旅の、<br>一つのゴールなんですもんね……,呜……我也是，这也是至今为止旅行的目的之一呢。
 11,姬塔 and Lyria pull out the ten map pieces from a satchel.,<span class='scene-font-katari'>姬塔とルリアは、</span><br><span class='scene-font-katari'>荷物の中から、</span><br><span class='scene-font-katari'>１０の</span><span class='scene-font-spword'>空図の欠片</span><span class='scene-font-katari'>を取り出す。</span>,<span class='scene-font-katari'>姬塔和露莉亚从行李中取出了10块<span class='scene-font-spword'>空图碎片</span><span class='scene-font-katari'>。</span>
 12,I knew you wouldn't flinch at a time like this.,この状況でも動じないなんて、<br>相変わらず大した奴だぜ……,可以感受到强大的力量…空图碎片放在一起，使彼此的力量都得到了增幅。
-13,But we knew our journey would bring us here one day! I see why you're rarin' to go!,でも、瘴流域を越えるのも、<br>旅の目標の一つだったもんな！<br>早く、って気持ちもわからなくないぜ！,但是，穿越瘴流域也是我们旅途的目的之一呀，这种急迫的心情也不是不能理解。
+13,But we knew our journey would bring us here one day！ I see why you're rarin' to go！,でも、瘴流域を越えるのも、<br>旅の目標の一つだったもんな！<br>早く、って気持ちもわからなくないぜ！,但是，穿越瘴流域也是我们旅途的目的之一呀，这种急迫的心情也不是不能理解。
 14,姬塔 and Lyria pull out the ten map pieces from a satchel.,<span class='scene-font-katari'>姬塔とルリアは、</span><br><span class='scene-font-katari'>荷物の中から、</span><br><span class='scene-font-katari'>１０の</span><span class='scene-font-spword'>空図の欠片</span><span class='scene-font-katari'>を取り出す。</span>,<span class='scene-font-katari'>姬塔和露莉亚从行李中取出了10块<span class='scene-font-spword'>空图碎片</span><span class='scene-font-katari'>。</span>
 15,I feel a strong force... As if they're amplifying each other's power.,強い力を感じます……<br>それぞれが、<br>それぞれの力を増幅させるような……,我感受到了强大的力量……彼此都在放大各自的力量……
 16,"The map pieces in 姬塔 and Lyria's hands begin to glow, lighting the area around them.",<span class='scene-font-katari'>姬塔とルリアの手の中で、</span><br><span class='scene-font-spword'>空図の欠片</span><span class='scene-font-katari'>達は光を帯び、</span><br><span class='scene-font-katari'>周囲に輝きを放ち始める。</span>,<span class='scene-font-katari'>姬塔和露莉亚手中的</span><span class='scene-font-spword'>空图碎片</span><span class='scene-font-katari'>的光连成带状，并进一步迸发出更强的光芒。</span>
@@ -26,9 +26,9 @@ id,en,jp,trans
 26,So this is the power of the map pieces...,これが……<span class='scene-font-spword'>空図の欠片</span>の力か。,这就是…<span class='scene-font-spword'>空图碎片</span>的力量吗。
 27,Oh... But the miasma is as thick as ever.,ほお……<br>しかし、瘴気が晴れるってわけじゃ<br>ねぇんだな。,噢…但是，瘴气并非是消散了。
 28,It's like... a path. A path through the Grim Basin.,道……みたいですね。<br>瘴流域を通り抜けるための。,看上去是一条可以穿过瘴流域的道路呢。
-29,I wonder how far this thing goes... Is there another skydom up ahead?,どこまで続いてんだ、これ……<br>この先が、隣の空域に続いてんのか？,这个到底延伸到什么地方了呀？难道一直到隔壁的空域了吗？
+29,I wonder how far this thing goes... Is there another skydom up ahead？,どこまで続いてんだ、これ……<br>この先が、隣の空域に続いてんのか？,这个到底延伸到什么地方了呀？难道一直到隔壁的空域了吗？
 30,"Realizing the gravity of Vyrn's words, they stare at the path in a quiet daze.",<span class='scene-font-katari'>ビィのその言葉に、</span><br><span class='scene-font-katari'>一同は切り拓かれた道を見やり、</span><br><span class='scene-font-katari'>息を飲む。</span>,<span class='scene-font-katari'>碧的这句话，让众人都不禁屏息凝视这条开辟出的道路。</span>
-31,"Who knows? The light is guiding us ahead, and that's where Drang is waiting.",さぁな……<br>ただ、宝珠の光はこの奥に続いてる。<br>この先に居るんだ、ドランクが。,谁知道呢。但是，宝珠的光芒指向了这深处，德朗克一定就在这前方。
-32,"We've finally found a way forward, 姬塔. Now let's hurry and save that annoying jerk already!",ようやく道が出来たんだ……<br>さっさとあの馬鹿を助けに行くぞ！<br>姬塔！,终于有路可走了，赶紧去救出那个笨蛋吧，姬塔！
+31,"Who knows？ The light is guiding us ahead, and that's where Drang is waiting.",さぁな……<br>ただ、宝珠の光はこの奥に続いてる。<br>この先に居るんだ、ドランクが。,谁知道呢。但是，宝珠的光芒指向了这深处，德朗克一定就在这前方。
+32,"We've finally found a way forward, 姬塔. Now let's hurry and save that annoying jerk already！",ようやく道が出来たんだ……<br>さっさとあの馬鹿を助けに行くぞ！<br>姬塔！,终于有路可走了，赶紧去救出那个笨蛋吧，姬塔！
 info,1,1,scene_cp78_q1_s10
 ,,,

@@ -4,10 +4,10 @@ id,en,jp,trans
 2,Nghh...,ぐふっ……,ぐふっ……
 3,"Forgive me, Tzar...",すまねぇ、キング……,对不起，老大……
 5,"Good job, 姬塔. That should be the last of them...",流石だな、姬塔。<br>これで、粗方片付いたか……,不愧是姬塔，这样就全部收拾掉了吧。
-6,Now all we have to do is wait for directions from Cain!,これで後は、<br>カインからの指示を待つだけだな！,这之后只需要等该隐那边发出指示了。
+6,Now all we have to do is wait for directions from Cain！,これで後は、<br>カインからの指示を待つだけだな！,这之后只需要等该隐那边发出指示了。
 7,"Right. But don't let your guard down, Vyrn.",ああ……<br>だが、本当に気を付けるんだぞ、<br>ビィ君……,是的，但是真的要小心啊，碧君。
-8,"Of course! I might be small, but I'm a skyfarer all the same!",あたぼうよ！<br>オイラだってこう見えて、<br>騎空団の一員だからな！,当然啦！别看我这样，我也是骑空团的一员呢！
-9,"Well, if I see anything, I'll let you know!",んじゃ、<br>何かあったらすぐ知らせるぜ！,那么发生了什么我立刻通知你们。
+8,"Of course！ I might be small, but I'm a skyfarer all the same！",あたぼうよ！<br>オイラだってこう見えて、<br>騎空団の一員だからな！,当然啦！别看我这样，我也是骑空团的一员呢！
+9,"Well, if I see anything, I'll let you know！",んじゃ、<br>何かあったらすぐ知らせるぜ！,那么发生了什么我立刻通知你们。
 10,And with that Vyrn flies away high into the air.,<span class='scene-font-katari'>そう言うと、</span><br><span class='scene-font-katari'>ビィは空高く飛び上がっていく。</span>,<span class='scene-font-katari'>说完碧就飞到高空。</span>
 11,To think he'd use Vyrn's ability to fly to send messages between us...,空を自在に飛ぶことの出来るビィ君を、<br>合図や連絡の手段に使う、か……,将能够自由飞行于空中的碧君作为传达信号或者进行联络的手段吗…
 12,I can't believe we never thought of that. But it still leaves me a little concerned...,これもまた、<br>私達にはない発想だったな。<br>しかし、心配でもあるが……,这也是我们没能想到的，但是确实也有点担心。
@@ -17,7 +17,7 @@ id,en,jp,trans
 14,"Now that I think about it, I bet that's true.",ふふっ……<br>言われてみれば、確かにそうだな。,呵呵，说起来好像是那个样子。
 15,He adores helping others especially when it's something only he can do.,自分にしか出来ない仕事で、<br>人に頼られるというのは、<br>誰にとっても嬉しいものだ。,被别人拜托了只有自己能做的事，碧可是比谁都更高兴呢。
 16,"姬塔 and Katalina smile at each other, but Lyria's gaze is fixed on the stone slab in the brush.",<span class='scene-font-katari'>カタリナ達が柔らかな笑みを浮かべる中、</span><br><span class='scene-font-katari'>ルリアはどうにも気になる様子で、</span><br><span class='scene-font-katari'>石碑のある茂みを見やる。</span>,<span class='scene-font-katari'>卡塔莉娜和姬塔微笑着，露莉雅一副无论如何都很在意的样子盯着埋在茂密草木中的石碑看。</span>
-17,So what do you think the seal is exactly?,それにしても……<br>この「封印」って、<br>いったい何なんでしょうか……,说起来，这个“封印”到底是什么呢？
+17,So what do you think the seal is exactly？,それにしても……<br>この「封印」って、<br>いったい何なんでしょうか……,说起来，这个“封印”到底是什么呢？
 18,"Katalina gazes at the slab as well, looking perplexed.",<span class='scene-font-katari'>ルリアの呟きに、</span><br><span class='scene-font-katari'>カタリナも首を傾げながら</span><br><span class='scene-font-katari'>石碑を見やる。</span>,<span class='scene-font-katari'>听到露莉雅的喃喃自语，卡塔莉娜也歪着头纳闷地看着石碑。</span>
 19,The only thing Cain told us was to break the seal on his signal...,カインからは、合図があったら、<br>この「封印」を破壊するようにとしか<br>言われていないからな……,之前说的是该隐那边发出信号后就破坏掉这个“封印”。
 19-sel1_txt,Let's trust Cain.,<span class='scene-font-katari'>カインを信じよう</span>,信任该隐吧
@@ -26,7 +26,7 @@ id,en,jp,trans
 21,"I'm slightly worried about what it could be, but let's just see his plan through to the end.",不甲斐なく思わないでもないが、<br>いまは彼の作戦に全てを託そう。,也并非没有想过会行不通，但是现在只能全部押在他的作战上了。
 23,You're right. Our job here isn't done yet.,そうですね……<br>まだ私達のお仕事は<br>終わりじゃないんですよね。,是啊，我们这边的任务还没有完成呢。
 24,We need to be ready to go at his signal...,カインさんから合図があったら、<br>すぐに動けるようにしておかないと……,等该隐的信号发出，我们得立刻行动才行呢。
-28,Impossible... Who are you? How could you have known about the self-destruct seal?,ありえねぇ……お前、何者だ！？<br>どうして自壊封印のことを<br>知ってやがる！？,不可能，你到底是什么人？为什么会知道“自坏封印”的事情。
+28,Impossible... Who are you？ How could you have known about the self-destruct seal？,ありえねぇ……お前、何者だ！？<br>どうして自壊封印のことを<br>知ってやがる！？,不可能，你到底是什么人？为什么会知道“自坏封印”的事情。
 29,Then that m-means the seal's just been...,じゃ、じゃあ、いまのはまさか、<br>自壊封印を……？,那，那么，刚刚那个是，自坏封印被…？
 30,No. Not yet. That's impossible.,いや、それはまだだ。<br>それはありえねぇ。,不，还没有，那是不可能的。
 31,As Reinhardtzar speaks he looks toward their hideout towering in the distance.,<span class='scene-font-katari'>ラインハルザはそう言いながら、</span><br><span class='scene-font-katari'>高くそびえる自分達のアジトを見やる。</span>,<span class='scene-font-katari'>莱茵哈萨如此说道，然后他望向自己那座高耸的要塞。</span>
@@ -36,76 +36,76 @@ id,en,jp,trans
 35,"All I have to do is give them the signal, and they'll destroy the seal.",後は、俺から合図を出せば、<br>いつでも姬塔達は、<br>自壊封印をぶっ壊せるぜ。,之后由我发出信号，姬塔他们随时都可以破坏自坏封印。
 36,Why you...,てめぇ……！！,混账！！
 37,"While still fearful of an enraged Reinhardtzar, a villager timidly calls out to Cain.",<span class='scene-font-katari'>怒気を纏うラインハルザに怯えながら、</span><br><span class='scene-font-katari'>村人はカインに疑問を投げかける。</span>,<span class='scene-font-katari'>因为愤怒的莱茵哈萨也有些胆怯，村民向该隐提问了。</span>
-38,Pardon m-me... But what's this seal you've been going on about?,な、なぁ……<br>さっきからアンタ達が言ってる、<br>「封印」ってなんのことだ？,那，那个，刚才你说的“封印”的事到底是什么？
+38,Pardon m-me... But what's this seal you've been going on about？,な、なぁ……<br>さっきからアンタ達が言ってる、<br>「封印」ってなんのことだ？,那，那个，刚才你说的“封印”的事到底是什么？
 39,"I'm not sure what's going on, but if it's something dangerous on the island...",なんだか知らないが、<br>島であまり物騒なことは……,不知道到底是什么东西，但是如果是让这座岛陷入危险的东西…
-40,"Don't you fret! Even if the self-destruct seal is broken, no harm will come to the village.",心配いらねぇよ。<br>自壊封印を壊しても、<br>村に被害は出ねぇもん。,不用担心，即便破坏了自坏封印，村子也不会遭受损失。
-41,"But that's not the case for you, is it, Reinhardtzar?",ただ、お前はあれを壊されちゃ困る。<br>そうだろ？　ラインハルザ。,只是，那个被破坏了会让你很困扰，是吧，莱茵哈萨？
+40,"Don't you fret！ Even if the self-destruct seal is broken, no harm will come to the village.",心配いらねぇよ。<br>自壊封印を壊しても、<br>村に被害は出ねぇもん。,不用担心，即便破坏了自坏封印，村子也不会遭受损失。
+41,"But that's not the case for you, is it, Reinhardtzar？",ただ、お前はあれを壊されちゃ困る。<br>そうだろ？　ラインハルザ。,只是，那个被破坏了会让你很困扰，是吧，莱茵哈萨？
 42,...,…………,…………
-43,But what's this... self-destruct seal anyway?,だからその、<br>自壊封印、ってのは……？,所以那个自坏封印到底是…？
+43,But what's this... self-destruct seal anyway？,だからその、<br>自壊封印、ってのは……？,所以那个自坏封印到底是…？
 44,Cain decides to take a moment to explain what exactly the seal does.,<span class='scene-font-katari'>村人の問いにカインは、</span><br><span class='scene-font-katari'>一度間を置き、</span><br><span class='scene-font-katari'>丁寧に説明するように口を開く。</span>,<span class='scene-font-katari'>该隐暂时没有回应村民的问题，而是十分细心地开始说明。</span>
 45,"The self-destruct seal is a seal that, once broken, will make Sturren Fort collapse.",自壊封印、ってのは、<br>あの砦……<span class='scene-font-place'>シュテルンフォート</span>を<br>破壊するためのものなんだ。,自坏封印是为了破坏那座<span class='scene-font-place'>修特伦要塞</span>所作出的东西。
-46,That fortress will collapse? But why was such a thing...,あの砦を破壊……？<br>なんでそんなものが……,破坏那座要塞？为什么会有这样的东西…
+46,That fortress will collapse？ But why was such a thing...,あの砦を破壊……？<br>なんでそんなものが……,破坏那座要塞？为什么会有这样的东西…
 47,"Long story short, Sturren Fort was built by the Astrals a long time ago.",んー。細かい話は省略するけど、<br><span class='scene-font-place'>シュテルンフォート</span>は、<br>かつて星の民が作ったものなんだ。,嗯…过于细致的事情就省略了，那座<span class='scene-font-place'>修特伦要塞</span>过去是星之民做出的东西。
-48,Haven't you ever wondered why this island on the Nalhegrande border has a fortress?,そもそも、<br>ナル・グランデの辺境であるこの島に、<br>どうして砦があるのか……,说起来，为什么在纳尔・格兰德边境的这座岛上，会有那座要塞呢。
-49,Or even what battle it was built for in the first place?,いったい何と戦うためのものなのか……<br>考えたことはないか？,到底是为了与什么战斗而做的东西呢——就没有考虑过这样的事情吗？
+48,Haven't you ever wondered why this island on the Nalhegrande border has a fortress？,そもそも、<br>ナル・グランデの辺境であるこの島に、<br>どうして砦があるのか……,说起来，为什么在纳尔・格兰德边境的这座岛上，会有那座要塞呢。
+49,Or even what battle it was built for in the first place？,いったい何と戦うためのものなのか……<br>考えたことはないか？,到底是为了与什么战斗而做的东西呢——就没有考虑过这样的事情吗？
 50,Well... no...,い、いや……,不，没有……
 51,"Ah... That's not so important for now, so we'll leave that for later.",まぁ、それはいま、<br>そこまで重要じゃあないから、<br>後に回すとして……,嘛，那件事现在也不是那么重要，可以之后再说。
 52,The Astrals who built the fortress were thinking ahead. Thinking about the worst-case scenario.,砦を作った星の民は考えたんだ。<br>この砦に、<br>もしものことがあったときのことを。,建造要塞的星之民们考虑到了，这座要塞万一出事的情况。
-53,Worst-case scenario?,もしものこと……？,万一的情况？
+53,Worst-case scenario？,もしものこと……？,万一的情况？
 54,Right. A scenario where the fortress fell into enemy hands.,そう……<br>砦が敵に<br>占領されてしまったときのことだ。,没错，就是指要塞被敌人占领时的情况。
 55,"By taking the fortress, the enemy would have a stronghold where they could continue launching attacks.",敵に砦を奪われては、<br>今度は敵がこの砦を拠点に、<br>どんどん攻めてくるかもしれない……,敌人攻下要塞就意味着说不定这次敌人就可以利用要塞作为据点，肆意发动攻势。
-56,"And so the Astrals placed a secret seal far away from the fortress that could destroy the compound itself, see?",だから星の民は極秘で、<br>砦から離れた位置に、<br>砦を崩壊させる封印を作ったのさ。,所以星之民就十分机密地在离要塞有一段距离的地方设置了让要塞自己破坏的封印。
+56,"And so the Astrals placed a secret seal far away from the fortress that could destroy the compound itself, see？",だから星の民は極秘で、<br>砦から離れた位置に、<br>砦を崩壊させる封印を作ったのさ。,所以星之民就十分机密地在离要塞有一段距离的地方设置了让要塞自己破坏的封印。
 57,"So when the time came, they could destroy the enemy and the fortress in one strike.",もしも砦が敵の手に渡ったときに、<br>その敵を砦ごと、<br>一網打尽にするために。,万一要塞落在了敌人的手上，就可以将敌人和那座要塞一起，一网打尽。
-58,And you're saying... that's what this self-destruct seal really is?,それが、その……<br>自壊封印、だって言うのか？,就是说，那个…就是自坏封印的真面目吗。
+58,And you're saying... that's what this self-destruct seal really is？,それが、その……<br>自壊封印、だって言うのか？,就是说，那个…就是自坏封印的真面目吗。
 59,Reinhardtzar nods in answer as understanding begins to seep into the villager's expression.,<span class='scene-font-katari'>ゆっくりと納得した様子を見せる村人へ、</span><br><span class='scene-font-katari'>ラインハルザは頷きを返す。</span>,<span class='scene-font-katari'>莱茵哈萨也点头回应那些看上去慢慢接受了这个说法的村民们。</span>
 60,He's right. But that story is over five hundred years old...,そうだ……<br>だがそれは、<br>もう５００年以上も前の話だ。,是的，但是这已经是500年以前的事情了。
 61,"If I hadn't been sent to investigate this island while in the Torhid military, I'd never have known.",トリッド王国の正規軍として、<br>この島を調査することがなければ、<br>オレも知ることはなかっただろう。,如果不是作为特利得王国的正规军对这座岛进行了一番调查，我恐怕也不会知道这件事。
 62,"And the things you've said, including the Astrals' motives, could only be known by a member of their secret intelligence section.",お前の話した内容は、<br>ナル・グランデの星の民の動向も含め、<br>軍の諜報部くらいしか知りえない内容だ。,你刚刚说的那些内容，包含了纳尔・格兰德空域内星之民动向的信息，应该是只有军队情报部才能知道的东西。
-63,But those traveling skyfarers don't look like the type... So just who are you exactly?,ただの旅人だの騎空士だのが、<br>知ってるはずはねぇ……<br>お前はいったい何者だ……？,区区的旅人也好骑空士也好，是不可能知道这件事的…你到底是什么人？
+63,But those traveling skyfarers don't look like the type... So just who are you exactly？,ただの旅人だの騎空士だのが、<br>知ってるはずはねぇ……<br>お前はいったい何者だ……？,区区的旅人也好骑空士也好，是不可能知道这件事的…你到底是什么人？
 64,"Reinhardtzar's inquiry seems threatening, but Cain is unfazed.",<span class='scene-font-katari'>恫喝するようなラインハルザの問いに、</span><br><span class='scene-font-katari'>それでもカインが怯むことはない。</span>,<span class='scene-font-katari'>莱茵哈萨恫吓地提问，即便如此该隐也没有胆怯。</span>
-65,"Reinhardtzar. Most of your men are still inside that fortress, aren't they?",ラインハルザ……<br>あの砦にはお前の仲間の<br>ほとんどがまだ残ってるよな。,莱茵哈萨，你的同伴大多都还待在那座要塞里吧。
-66,What do you think will happen when the structure collapses on top of them?,そんな状態で、<br>砦が崩壊を始めたらどうなると思う？,这种状态下要塞开始崩坏，你觉得会怎么样？
-67,"Humph. I know you're bluffing. It's those soft-hearted folks who're waiting at the seal, right?",ふん……はったりだな。<br>封印を制圧しに行ったのは、<br>あのお人好し達だろう？,哼，虚张声势。去镇压封印那边的是那群老好人吧？
+65,"Reinhardtzar. Most of your men are still inside that fortress, aren't they？",ラインハルザ……<br>あの砦にはお前の仲間の<br>ほとんどがまだ残ってるよな。,莱茵哈萨，你的同伴大多都还待在那座要塞里吧。
+66,What do you think will happen when the structure collapses on top of them？,そんな状態で、<br>砦が崩壊を始めたらどうなると思う？,这种状态下要塞开始崩坏，你觉得会怎么样？
+67,"Humph. I know you're bluffing. It's those soft-hearted folks who're waiting at the seal, right？",ふん……はったりだな。<br>封印を制圧しに行ったのは、<br>あのお人好し達だろう？,哼，虚张声势。去镇压封印那边的是那群老好人吧？
 68,"Knowing them, they don't have the guts to pull the trigger on something that'll hurt innocents or even enemies.",あの連中が、敵とはいえ、<br>何十人もの命を奪う<br>引き金を引けるとは思えねぇ。,那些家伙，就算是对敌人也好，我也不觉得他们会忍心扣下夺取数十人性命的扳机。
 69,You've got a point... So I didn't tell them the truth.,そうだな……だから、言ってない。,确实是这样的。所以，我没和他们说。
-70,What!,なっ……！？,什么！？
+70,What！,なっ……！？,什么！？
 71,姬塔 and the others don't know what will happen. They've got no idea.,言ってないんだよ、何が起こるか。<br>姬塔達にはな。,到底会发生怎样的事情，我没有告诉姬塔他们哦。
 72,"What they do know is that it's necessary, and the village won't be harmed. They're just waiting on my signal.",ただ必要だから、<br>そして村に被害が出ることはないから、<br>合図があったら壊してくれと伝えてある。,这是必要的，而且也不会对村子造成损失，一旦发出信号就破坏封印——只传达了这些而已。
-73,You rat! You've fooled them into becoming your pawns!,クズが……！！<br>てめぇはあいつらも騙して、<br>利用してるってのか！？,你这个人渣！连他们都要欺骗，加以利用吗？
+73,You rat！ You've fooled them into becoming your pawns！,クズが……！！<br>てめぇはあいつらも騙して、<br>利用してるってのか！？,你这个人渣！连他们都要欺骗，加以利用吗？
 74,"If that's how you see it, then fine. Taking the brunt of your anger is a small price to pay.",そう捉えてもらって構わない。<br>俺一人が罵られて済むなら、<br>安いもんだ。,这事被逮住了也没关系，只骂我一个人就能解决事态，代价微不足惜。
 75,This is the best idea I could come up with to counter you and your hostage threat.,村人を人質にしたお前らに対抗するには<br>これくらいしか<br>策が思いつかなかったからな。,与劫持村民为人质的你们对抗，我必须拿出这种程度的对策。
 76,Reinhardtzar hears the matter-of-fact tone of Cain's voice.,<span class='scene-font-katari'>カインはあくまで淡々と、</span><br><span class='scene-font-katari'>ラインハルザに告げる。</span>,<span class='scene-font-katari'>该隐一直保持着淡漠的态度与莱茵哈萨对话。</span>
-77,"Now we're in a stalemate. So what's your next move, Your Majesty?",これで状況は五分だぜ。<br>さぁ、どうする、盗賊王。,这样局势就对半开了，那么你该怎么办，盗贼王？
-78,Well... you're holding all my men hostage in the fortress. So what are your demands?,お前は……<br>砦に居るオレの仲間全てを人質にして、<br>何を要求するってんだ？,你把要塞中我的所有同伴都当成人质，打算提出什么要求？
+77,"Now we're in a stalemate. So what's your next move, Your Majesty？",これで状況は五分だぜ。<br>さぁ、どうする、盗賊王。,这样局势就对半开了，那么你该怎么办，盗贼王？
+78,Well... you're holding all my men hostage in the fortress. So what are your demands？,お前は……<br>砦に居るオレの仲間全てを人質にして、<br>何を要求するってんだ？,你把要塞中我的所有同伴都当成人质，打算提出什么要求？
 79,Release the villagers. And hand the island back over to the Idelva Kingdom without any further resistance.,村人の解放。<br>それとこの島を無抵抗で<br>イデルバ王国に明け渡してほしい。,释放村民，并且无抵抗地将这座岛交还给伊迪尔瓦王国。
 80,Reinhardtzar pauses a moment to think before giving a curt answer.,<span class='scene-font-katari'>カインの要求に対し、</span><br><span class='scene-font-katari'>ラインハルザはわずかに間を置き、</span><br><span class='scene-font-katari'>しかし、ハッキリと答えを返す。</span>,<span class='scene-font-katari'>对于该隐的要求，莱茵哈萨特意停顿片刻，然后明确地给予回复。</span>
-81,I refuse. You say you'll break the seal? Then let's see you do it.,断わる。<br>自壊封印の破壊？<br>やれるもんならやってみろよ。,我拒绝，破坏自坏封印？能做得到的话就去做啊。
+81,I refuse. You say you'll break the seal？ Then let's see you do it.,断わる。<br>自壊封印の破壊？<br>やれるもんならやってみろよ。,我拒绝，破坏自坏封印？能做得到的话就去做啊。
 82,Tzar... But then the men in the fortress...,キ、キング……？<br>それじゃあ、砦の奴らは……,老…老大，那样的话要塞里的家伙就…
 83,"Reinhardtzar... If you think we're lying about our hold on the seal, you're dead wrong.",ラインハルザ……<br>俺達が自壊封印を制圧したってのは、<br>嘘なんかじゃねぇぞ……,莱茵哈萨，我们已经镇压了自坏封印方面的事可不是谎言。
-84,But you can't do it... Can you?,だが、お前には出来ない……<br>そうだろ？,但是你办不到，是这样吧？
+84,But you can't do it... Can you？,だが、お前には出来ない……<br>そうだろ？,但是你办不到，是这样吧？
 85,...,…………,…………
-86,You said they're only waiting on your signal. Then why don't you hurry up and give them one?,後は合図を出すだけと言ったな。<br>だったら何故、<br>さっさと砦を落とさない？,你刚刚说只要发出信号就可以了吧，那么为何不干脆摧毁掉要塞？
+86,You said they're only waiting on your signal. Then why don't you hurry up and give them one？,後は合図を出すだけと言ったな。<br>だったら何故、<br>さっさと砦を落とさない？,你刚刚说只要发出信号就可以了吧，那么为何不干脆摧毁掉要塞？
 87,"If we lose our stronghold, then it's only a matter of time until we're annihilated. But we'll put up a fight to the end.",拠点を失えば、<br>オレ達は遅かれ早かれ壊滅する。<br>もちろん、最後まで抵抗はするがな。,如果我们失去了据点，我们迟早会被干掉，当然我们会抵抗到最后的。
-88,"Cain... You're soft-hearted too, aren't you? You hate bloodshed, and that's why you've come to negotiate.",カイン……お前もお人好しだろう？<br>血を見るのを嫌う。<br>だから、こんな交渉を持ちかけてきた。,该隐，你不也是个烂好人吗？讨厌见血，所以才会这样过来交涉。
+88,"Cain... You're soft-hearted too, aren't you？ You hate bloodshed, and that's why you've come to negotiate.",カイン……お前もお人好しだろう？<br>血を見るのを嫌う。<br>だから、こんな交渉を持ちかけてきた。,该隐，你不也是个烂好人吗？讨厌见血，所以才会这样过来交涉。
 89,...,っ……,っ……
 90,If that fortress collapses then hundreds of lives will be lost.,あの砦が崩れれば、<br>それだけで何十人も命を落とす。,如果那个要塞崩塌，那么将会有数十人殒命。
 91,"But the rest of us will keep fighting without fear of death. After all, we'll have nothing left to lose.",そして残されたオレ達は、<br>死にもの狂いで抵抗するさ。<br>何せもう、失うもんがねぇからな。,然后剩下的我们就会殊死抵抗，毕竟已经没有可以失去的东西了。
 92,"The village will find itself in danger then. With no consequences to fear, I could destroy the village all on my own.",村にも当然被害が出る。<br>後先を考えなけりゃあ、<br>オレだけで村を壊滅させることも出来る。,村子当然也会受害，不需要考虑任何后果的话，只凭我们也能摧毁掉这个村子。
 93,But you can't...,そんな……,怎么这样…
-94,Cain. Can you shoulder a burden like that on your own?,カイン……<br>お前には、その全てが背負えるのか？,该隐，你能背负这一切吗？
+94,Cain. Can you shoulder a burden like that on your own？,カイン……<br>お前には、その全てが背負えるのか？,该隐，你能背负这一切吗？
 95,Cain seems flustered for a moment but then opens his mouth to respond.,<span class='scene-font-katari'>ラインハルザの言葉に</span><br><span class='scene-font-katari'>狼狽えた様子を見せながら、</span><br><span class='scene-font-katari'>カインもまた口を開く。</span>,<span class='scene-font-katari'>莱茵哈萨的话让该隐有些惊慌失措，然后该隐说道。</span>
-96,But weren't you trying to build a country for your comrades?,お前は……仲間のために<br>国を建てようと<br>してたんじゃねぇのかよ？,你不是为了同伴才想建立国家的吗？
+96,But weren't you trying to build a country for your comrades？,お前は……仲間のために<br>国を建てようと<br>してたんじゃねぇのかよ？,你不是为了同伴才想建立国家的吗？
 97,Don't lie... Not even you could abandon your friends like that.,お前だって……<br>仲間を見捨てるなんて出来ないだろ。,就算是你，也不可能舍弃自己的同伴吧？
 98,"Oh yes, I could.",いいや、出来る。,不，我可以。
-99,...!,ッ！？,ッ！？
+99,...！,ッ！？,ッ！？
 100,I'm absolutely serious. There's no turning back for me.,オレは本気だ……<br>もう後には引けねぇんだ。,我是认真的，我已经不能回头了。
 101,"Reinhardtzar turns to a villager, fist clenched menacingly.",<span class='scene-font-katari'>そう言うとラインハルザは、</span><br><span class='scene-font-katari'>村人に対して</span><br><span class='scene-font-katari'>自らの拳を振りかぶる。</span>,<span class='scene-font-katari'>莱茵哈萨一边说道一边向村民挥拳。</span>
 102,Eep...,ひっ……！！,ひっ……！！
-103,I'm not running anymore! I don't care what it takes!,もうオレは逃げねぇ……！！<br>何を犠牲にしようと、<br>オレはッ……！！,我决不会再逃避了！！无论要牺牲什么，我都不会！！
-104,No!,やめっ……！！,住手…！
+103,I'm not running anymore！ I don't care what it takes！,もうオレは逃げねぇ……！！<br>何を犠牲にしようと、<br>オレはッ……！！,我决不会再逃避了！！无论要牺牲什么，我都不会！！
+104,No！,やめっ……！！,住手…！
 108,"With eyes squeezed shut, the villager prepares for the impact of Reinhardtzar's massive fist.",<span class='scene-font-katari'>自らの眼前に迫る</span><br><span class='scene-font-katari'>巨大な拳に身構えるように、</span><br><span class='scene-font-katari'>村人は咄嗟に目を瞑る。</span>,<span class='scene-font-katari'>村民立刻紧闭双眼，准备承受挥到眼前的巨拳。</span>
 109,"But instead of pain, the villager only hears the sound of a loud thunk.",<span class='scene-font-katari'>しかし、音はすれども痛みは現れず、</span><br><span class='scene-font-katari'>村人は不思議そうに</span><br><span class='scene-font-katari'>ゆっくりと瞼を上げる。</span>,<span class='scene-font-katari'>但是，只听到声音却没有感受到疼痛，村民有些不可思议地慢慢睁开眼。</span>
-113,...?,……？,……？
+113,...？,……？,……？
 114,The villager gazes up to see Reinhardtzar's fist stopped mid-swing against a piece of brilliant steel glinting in the sunlight.,<span class='scene-font-katari'>その目に映ったのは、</span><br><span class='scene-font-katari'>ラインハルザの拳を止め、</span><br><span class='scene-font-katari'>陽光を反射する鮮やかな鋼の色。</span>,<span class='scene-font-katari'>他看见了，阻止了莱茵哈萨那一拳的，在阳光反射下熠熠生辉的铁钢之色。</span>
 115,Looks like we're just in time.,――間に合いましたね。,赶上了呢。
 116,"Having stopped Reinhardtzar with her weapon, the woman slowly exhales to calm her nerves.",<span class='scene-font-katari'>その女性は</span><br><span class='scene-font-katari'>自らの得物でラインハルザの拳を止め、</span><br><span class='scene-font-katari'>衝撃を殺すように息を吐く。</span>,<span class='scene-font-katari'>这位女性用自己的武器阻止了莱茵哈萨的那一拳，为了缓解冲击吐了口气。</span>

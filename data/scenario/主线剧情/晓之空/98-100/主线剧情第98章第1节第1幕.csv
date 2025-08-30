@@ -11,7 +11,7 @@ id,name,text,trans
 10,,<span class='scene-font-katari'>内容の書き加えられた</span><br><span class='scene-font-katari'>無数の資料を前に、</span><br><span class='scene-font-katari'>レオナは一つの可能性に気付く。</span>,面对着无数的资料，蕾欧娜发现了一种可能性。
 11,レオナ/蕾欧娜,まさか……逆？,难道是…… 反过来？
 12,レオナ/蕾欧娜,<span class='scene-font-kokoro'>（書かれていることが</span><br><span class='scene-font-kokoro'>変わったんじゃなくて……）</span>,(不是改变了上面记载着的东西……)
-13,レオナ/蕾欧娜,<span class='scene-font-kokoro'>（書かれていることに、</span><br><span class='scene-font-kokoro'>私がさっきまで</span><br><span class='scene-font-kokoro'>気付いていなかった……？）</span>,(而是我没能注意到…… ?)
+13,レオナ/蕾欧娜,<span class='scene-font-kokoro'>（書かれていることに、</span><br><span class='scene-font-kokoro'>私がさっきまで</span><br><span class='scene-font-kokoro'>気付いていなかった……？）</span>,(而是我没能注意到…… ？)
 14,レオナ/蕾欧娜,<span class='scene-font-kokoro'>（でもこれだけの情報、</span><br><span class='scene-font-kokoro'>単純に読み過ごした、ってことは……）</span>,(但是如此大量的情报，我不可能就这么忽略掉……)
 15,レオナ/蕾欧娜,…………,…………
 16,レオナ/蕾欧娜,気付けないようにさせられていた……？<br>おそらく、ハクタクさんの能力で……,难道说是什么力量令我没能注意到…… ？ 恐怕，这就是白泽的能力吧……
@@ -49,7 +49,7 @@ id,name,text,trans
 54,カイン/该隐,なら、何を迷っている。,那么，你到底在犹豫什么。
 55,カイン/该隐,討つべき相手を見つけながら、<br>それを成さないのは、<br>アベルに対する裏切りだ。,明明已经找到了应该复仇的对象，却没有立刻付出行动。这就是对亚伯的背叛。
 56,カイン/该隐,お前の思いなど、<br>所詮は己の保身を優先できる、<br>その程度のものだったんだ。,你心中想着的，说到头来只是自保这种程度的东西。
-57,レオナ/蕾欧娜,<span class='scene-font-4'>違うッ！！</span><br>私はアベルを……<br>そのためなら、なんだって……！！,不是! ！我会为了亚伯………为了他，所以才…… ! ！
+57,レオナ/蕾欧娜,<span class='scene-font-4'>違うッ！！</span><br>私はアベルを……<br>そのためなら、なんだって……！！,不是！ ！我会为了亚伯………为了他，所以才…… ！ ！
 58,カイン/该隐,ならば迷うな。<br>仇を討ち、無念を晴らせ。,那就别犹豫。 为他报仇，为他雪除冤屈吧。
 59,レオナ/蕾欧娜,ッ……！！,唔……！！
 61,,<span class='scene-font-katari'>レオナは妄執にかられた様子で、</span><br><span class='scene-font-katari'>振り返ることなく、</span><br><span class='scene-font-katari'>資料庫を飛び出していく。</span>,蕾欧娜皱着眉头，头也不回地冲出了资料库。

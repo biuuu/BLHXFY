@@ -4,7 +4,7 @@ id,name,text,trans
 1,,<span class='scene-font-katari'>イスタバイオン軍の兵士達から、</span><br><span class='scene-font-katari'>その目的を察知した姬塔達。</span>,从伊斯塔拜昂军队的士兵们身上察觉到其目的的姬塔一行人。
 2,,<span class='scene-font-katari'>彼らの目的である</span><br><span class='scene-font-katari'>エキドナの身を案じた一行は、</span><br><span class='scene-font-katari'>急ぎ、彼女の元へと戻る。</span>,由于担心作为目标的艾奇多娜出事，大家连忙向她所在的地方赶去。
 4,ルリア/露莉亚,あっ、あれ……！,看啊…… ！
-4-sel1_txt,,<span class='scene-font-katari'>エキドナっ！！</span>,艾奇多娜! ！
+4-sel1_txt,,<span class='scene-font-katari'>エキドナっ！！</span>,艾奇多娜！ ！
 5,エキドナ/艾奇多娜,……！<br>ああ、良かった……<br>貴方達は無事だったのね……,……！啊，太好了！你们平安无事啊。
 6,エキドナ/艾奇多娜,大丈夫？　怪我したりしてない？<br>打ち身程度でも、<br>ちゃんと治療しなきゃだめよ？,你们还好吗？ 有没有受伤？ 就算只是擦伤，也得好好治疗哦？
 7,ロゼッタ/萝赛塔,ふふ……貴方の言う通り、<br>過酷な旅を続けてきたんだもの。<br>これくらいどうってことないわ。,哈哈……正如你之前所说，我们一直都在经历残酷的战斗。这点小伤，没什么大不了的。
