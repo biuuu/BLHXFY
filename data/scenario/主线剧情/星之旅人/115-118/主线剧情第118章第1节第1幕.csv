@@ -1,6 +1,6 @@
 id,name,text,trans
 0-chapter_name,,第118章　憧憬からの問い,第118章 憧憬的问询
-0-synopsis,,多くの謎を残しながらもひとまず<span class='scene-font-place'>ガロンゾ</span>の奪還を果たし、はぐれてしまっていたオーキス達とも合流できたことに安堵する姬塔一行。そんな一行の前に、戦いの間身を隠していたというノアが姿を見せる。グランサイファーの損傷が激しいことを感じていたノアに、すぐに<span class='scene-font-place'>ポート・ブリーズ</span>に向かおうと進言された一行は急ぎ騎空艇へと駆け戻るのだった。,虽然还有很多谜团，但噶隆索已经被夺回，也和分别依旧的欧姬丝等人会合了，姬塔等人稍微安心了一些。在一行人面前，在战斗时一直隐藏着身姿的诺亚出现了。听到格兰塞法受了很重的伤后，便激动地让大家立刻乘上骑空艇返回波特·布里兹。
+0-synopsis,,多くの謎を残しながらもひとまず<span class='scene-font-place'>ガロンゾ</span>の奪還を果たし、はぐれてしまっていたオーキス達とも合流できたことに安堵する姬塔一行。そんな一行の前に、戦いの間身を隠していたというノアが姿を見せる。グランサイファーの損傷が激しいことを感じていたノアに、すぐに<span class='scene-font-place'>ポート・ブリーズ</span>に向かおうと進言された一行は急ぎ騎空艇へと駆け戻るのだった。,虽然还有很多谜团，但噶隆索已经被夺回，也和分别依旧的欧姬丝等人会合了，姬塔等人稍微安心了一些。在一行人面前，在战斗时一直隐藏着身姿的诺亚出现了。听到格兰赛法受了很重的伤后，便激动地让大家立刻乘上骑空艇返回波特·布里兹。
 1,,<span class='scene-font-katari'>謎は深まるばかりであるものの、</span><br><span class='scene-font-katari'>ひとまず、</span><span class='scene-font-place'>ガロンゾ</span><span class='scene-font-katari'>を奪還した、</span><br><span class='scene-font-katari'>姬塔達。</span>,虽然还有很多尚未解开的谜团，<br>但姬塔等人<br>总算是夺回了噶隆索。
 2,,<span class='scene-font-katari'>さらに、はぐれてしまっていた</span><br><span class='scene-font-katari'>オーキス達との合流も果たし、</span><br><span class='scene-font-katari'>一行の間には安堵した空気が流れる。</span>,而且还和走散的欧姬丝等人再次相遇了，<br>大家也暂时放下了心。
 3,オーキス/欧姬丝,とりあえず……ただいま。,总而言之……我回来了。
@@ -65,11 +65,11 @@ id,name,text,trans
 79,ノア/诺亚,ところで君達は<br>ずいぶん遠くまで行ってきたようだね。<br>無事に戻ってこられて、 何より…… <br>,这么说来，你们到达了相当远的地方呢。<br>平安归来比什么都……
 80,ノア/诺亚,と、言いたいところなのだけれど……<br>無事では済まなかった仲間が<br>いるようだね。,虽然、想这么说……<br>但好像也有没法被称之为平安无事的同伴啊。
 81,,<span class='scene-font-katari'>ノアの言葉に、</span><br><span class='scene-font-katari'>ラカムは驚きながらも、</span><br><span class='scene-font-katari'>神妙な様子で口を開く。</span>,诺亚的话把拉卡姆吓到了，<br>他小心翼翼地问道。
-82,ラカム/拉卡姆,わかるのか……？<br>いま、グランサイファーが、<br>どういう状態なのか。,你知道吗……？<br>现在，格兰塞法处在怎样的状态。
+82,ラカム/拉卡姆,わかるのか……？<br>いま、グランサイファーが、<br>どういう状態なのか。,你知道吗……？<br>现在，格兰赛法处在怎样的状态。
 83,ノア/诺亚,大まかにはね。<br>ただ、詳しいことは、<br>やはり目の前にしなければわからない。,大概知道。<br>但详细的，果然还是亲眼去看才行。
 84,ノア/诺亚,だから、<br>すぐに<span class='scene-font-place'>ポート・ブリーズ</span>へ向かおう。,所以说，<br>赶快回波特布里兹去。
-85,ノア/诺亚,グランサイファーを<br>あのままにしておくのは、<br>僕としても忍びないからね。,我可不忍心<br>就这么把格兰塞法放在那边不管。
+85,ノア/诺亚,グランサイファーを<br>あのままにしておくのは、<br>僕としても忍びないからね。,我可不忍心<br>就这么把格兰赛法放在那边不管。
 86,,<span class='scene-font-katari'>ノアの言葉に頷きを返し、</span><br><span class='scene-font-katari'>一行はノアを連れ、</span><br><span class='scene-font-katari'>騎空艇へと駆け戻る。</span>,听了诺亚的话后，<br>一行人点了点头，<br>带着诺亚一起乘上了骑空艇。
-87,,<span class='scene-font-katari'>神聖エルステ帝国との戦いの果てに、</span><br><span class='scene-font-katari'>ようやくグランサイファー復活の</span><br><span class='scene-font-katari'>兆しが見え始めたのだった。</span>,与神圣埃尔斯特帝国交战的最后，<br>格兰塞法终于有了复活的希望。
+87,,<span class='scene-font-katari'>神聖エルステ帝国との戦いの果てに、</span><br><span class='scene-font-katari'>ようやくグランサイファー復活の</span><br><span class='scene-font-katari'>兆しが見え始めたのだった。</span>,与神圣埃尔斯特帝国交战的最后，<br>格兰赛法终于有了复活的希望。
 info,,,scene_cp118_q1_s10
 译者,,,rei

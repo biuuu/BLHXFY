@@ -1,6 +1,6 @@
 id,name,text,trans
 0-chapter_name,,第114章　福音からの帰還,第114章 从福音归来
-0-synopsis,,教えの最奥の力を使いこなすロキは姬塔達を圧倒すると、ミカをつれてフェンリルと共に姿を消してしまう。無力感に襲われる一行だったが、そこに境界の民が現れ、「神火」の発生が近いことを告げる。一行は惜しみながらもシトリと別れ、決意を新たにグランサイファーに乗り込むと、「神火」によってなんとか空の世界へ帰還するのだった。,使用了教义力量的洛基以压倒性的实力压制了姬塔一行，并带着米卡和芬里尔一同离开了。深深的无力感袭向姬塔一行，正在这时，境界之民现出了身姿，告知了“神火”即将爆发的事。虽然很可惜，但一行人还是与志鸟道别，怀揣着全新的决意乘上了格兰塞法，借着“神火”回到了空之世界。
+0-synopsis,,教えの最奥の力を使いこなすロキは姬塔達を圧倒すると、ミカをつれてフェンリルと共に姿を消してしまう。無力感に襲われる一行だったが、そこに境界の民が現れ、「神火」の発生が近いことを告げる。一行は惜しみながらもシトリと別れ、決意を新たにグランサイファーに乗り込むと、「神火」によってなんとか空の世界へ帰還するのだった。,使用了教义力量的洛基以压倒性的实力压制了姬塔一行，并带着米卡和芬里尔一同离开了。深深的无力感袭向姬塔一行，正在这时，境界之民现出了身姿，告知了“神火”即将爆发的事。虽然很可惜，但一行人还是与志鸟道别，怀揣着全新的决意乘上了格兰赛法，借着“神火”回到了空之世界。
 7,ラカム/拉卡姆,ぐあっ……！,唔啊……！
 13,ラカム/拉卡姆,く、そ……<br>バケモノか、あいつ……！！,可、恶……<br>那家伙……是怪物吗……！！
 14,ロキ/洛基,ふふ……,呼呼……
@@ -47,8 +47,8 @@ id,name,text,trans
 72,境界の民１,そうだ……<br>もう数刻もしないうちに、<br>「神火」が発生する。,是的……<br>十几分钟后，<br>“神火”就会喷发。
 73,境界の民１,君達はすぐに騎空艇に乗り込むんだ。,你们必须立刻乘上骑空艇。
 74,,<span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>消えてしまったロキを</span><br><span class='scene-font-katari'>追うすべを持たない。</span>,姬塔一行人已经没有余裕<br>去追消失的洛基了。
-75,,<span class='scene-font-katari'>一行は境界の民に促され、</span><br><span class='scene-font-katari'>「神火」の発生に備えるべく、</span><br><span class='scene-font-katari'>グランサイファーへ乗り込むのだった。</span>,在境界之民的催促下，<br>为了顺利乘上“神火”，<br>一行人回到了格兰塞法的身边。
-80,,<span class='scene-font-katari'>グランサイファーに、</span><br><span class='scene-font-katari'>最後の荷物の積み込みを行う一行。</span>,将最后的货物运进格兰塞法后
+75,,<span class='scene-font-katari'>一行は境界の民に促され、</span><br><span class='scene-font-katari'>「神火」の発生に備えるべく、</span><br><span class='scene-font-katari'>グランサイファーへ乗り込むのだった。</span>,在境界之民的催促下，<br>为了顺利乘上“神火”，<br>一行人回到了格兰赛法的身边。
+80,,<span class='scene-font-katari'>グランサイファーに、</span><br><span class='scene-font-katari'>最後の荷物の積み込みを行う一行。</span>,将最后的货物运进格兰赛法后
 81,,<span class='scene-font-katari'>ほんのわずかに許された時間で、</span><br><span class='scene-font-katari'>一行は境界の民達に別れを告げる。</span>,向境界之民告别的时间，<br>已经所剩无几了。
 86,シトリ,……ごめん。<br>いま私には、何も言えそうにない。,……对不起。<br>现在的我，还是不知道说什么。
 86-sel1_txt,,<span class='scene-font-katari'>こっちこそごめん</span>,我们才应该说对不起
@@ -76,7 +76,7 @@ id,name,text,trans
 104-sel2_txt,,<span class='scene-font-katari'>ありがとう</span>,谢谢
 105,境界の民１,すまない……<br>私達がしてやれるのはここまでだ。,对不起……<br>我们只能帮你们到这儿了。
 106,境界の民１,君達の旅路に、<br>幸多からんことを祈っているよ。,我忠心祝愿你们，<br>一路顺利。
-107,,<span class='scene-font-katari'>姬塔は、</span><br><span class='scene-font-katari'>グランサイファーに戻ろうとするが、</span><br><span class='scene-font-katari'>最後にひとつだけ、シトリに問う。</span>,姬塔在返回格兰塞法前，<br>向志鸟提出了最后一个问题。
+107,,<span class='scene-font-katari'>姬塔は、</span><br><span class='scene-font-katari'>グランサイファーに戻ろうとするが、</span><br><span class='scene-font-katari'>最後にひとつだけ、シトリに問う。</span>,姬塔在返回格兰赛法前，<br>向志鸟提出了最后一个问题。
 107-sel1_txt,,<span class='scene-font-katari'>一緒に来る？</span>,要一起来吗？
 108,シトリ,…………,…………
 109,シトリ,ありがとう……<br>でも、私はここに残るよ。,谢谢……<br>但是，我要留在这里。
@@ -89,15 +89,15 @@ id,name,text,trans
 116,,<span class='scene-font-katari'>少しだけ立ち直った様子で、</span><br><span class='scene-font-katari'>その瞳に強い光を秘め、</span><br><span class='scene-font-katari'>シトリは告げる。</span>,终于打起精神的志鸟，<br>眼中闪着光芒。她这样说道。
 117,シトリ,強くなって……会いに行くよ。<br>君達にも……母さんにも。,等我变强了以后……就去找你们。<br>不论是你们……还是母亲。
 118,シトリ,もう封印は解かれてしまったから、<br>次に母さんに会うときには、<br>強くなってなきゃいけないんだ。,如今封印已经被解除了，<br>下次我见到母亲的时候，<br>必须变得更强。
-119,シトリ,自分の力で<br>母さんを止められるくらい、<br>強くならなくちゃいけない。,我的力量<br>必须强到能够亲手阻止母亲才行。
-120,シトリ,幸い、<br>空の民でも<span class='scene-font-spword'>星の民</span>と渡り合う方法は、<br>君達が見せてくれたから。,还好，<br>你们让我见识到了星之民与空之民的战斗。
+119,シトリ,自分の力で<br>母さんを止められるくらい、<br>強くならなくちゃいけない。,我必须变得足够强大，<br>强大到能够凭自己的力量阻止母亲。
+120,シトリ,幸い、<br>空の民でも<span class='scene-font-spword'>星の民</span>と渡り合う方法は、<br>君達が見せてくれたから。,幸运的是，<br>你们让我见识到了哪怕身为空之民，<br>也能与星之民抗衡的战斗方法。
 121,シトリ,必ず強くなるよ。<br>そして会いに行く。,我一定会变强的。<br>然后来找你们。
 122,シトリ,だからその時……<br>また誘ってくれると嬉しいな。,如果那个时候，<br>你还能邀请我的话。<br>我会很开心的。
 122-sel1_txt,,<span class='scene-font-katari'>もちろん</span>,当然
 122-sel2_txt,,<span class='scene-font-katari'>待ってるよ</span>,我等你
 123,シトリ,ありがとう……約束だよ。,谢谢……约好了哦。
-124,,<span class='scene-font-katari'>わずかに笑顔を交わし合うと、</span><br><span class='scene-font-katari'>姬塔は、</span><br><span class='scene-font-katari'>グランサイファーに乗り込むのだった。</span>,回以微笑后，<br>姬塔回到了格兰塞法的船舱之中。
-129,,<span class='scene-font-katari'>グランサイファーの甲板では、</span><br><span class='scene-font-katari'>騎空団の仲間達が、</span><br><span class='scene-font-katari'>姬塔を待っていた。</span>,在格兰塞法的甲板上，<br>骑空团的同伴们正等着姬塔。
+124,,<span class='scene-font-katari'>わずかに笑顔を交わし合うと、</span><br><span class='scene-font-katari'>姬塔は、</span><br><span class='scene-font-katari'>グランサイファーに乗り込むのだった。</span>,回以微笑后，<br>姬塔回到了格兰赛法的船舱之中。
+129,,<span class='scene-font-katari'>グランサイファーの甲板では、</span><br><span class='scene-font-katari'>騎空団の仲間達が、</span><br><span class='scene-font-katari'>姬塔を待っていた。</span>,在格兰赛法的甲板上，<br>骑空团的同伴们正等着姬塔。
 130,ラカム/拉卡姆,おう……もう行けるのか？,哦……已经可以了吗？
 131,ロゼッタ/萝赛塔,いよいよ、この境界ともお別れね。,终于，要和这个境界说再见了。
 132,イオ/伊欧,最後の最後で、<br>すっごくスッキリしないけど……,最后的最后，<br>也没能特别爽快……
@@ -113,7 +113,7 @@ id,name,text,trans
 139-sel1_txt,,<span class='scene-font-katari'>……行こう！！</span>,……出发吧！！
 140,,<span class='scene-font-katari'>姬塔は、</span><br><span class='scene-font-katari'>旅への新たな決意を高らかに告げる。</span>,姬塔大声抒发着<br>对崭新旅途的决意。
 145,,<span class='scene-font-katari'>その意思に呼応するかのように、</span><br><span class='scene-font-katari'>地面は鳴動を始め──</span>,就像是呼应其意志一般，<br>地面开始震动——
-151,,<span class='scene-font-katari'>まるで福音のように、</span><br><span class='scene-font-katari'>星晶獣ヱビスはグランサイファーを</span><br><span class='scene-font-katari'>空へと高く打ち上げたのだった。</span>,就像是福音一般，<br>星晶兽惠比寿把格兰塞法<br>高高地抛上了天空。
+151,,<span class='scene-font-katari'>まるで福音のように、</span><br><span class='scene-font-katari'>星晶獣ヱビスはグランサイファーを</span><br><span class='scene-font-katari'>空へと高く打ち上げたのだった。</span>,就像是福音一般，<br>星晶兽惠比寿把格兰赛法<br>高高地抛上了天空。
 158,ラカム/拉卡姆,ぐっ……<br>だ、大丈夫かお前ら！<br>誰も吹っ飛ばされちゃいねぇな！？,唔……<br>大、大家都没事吧！<br>没有谁被吹走吧！？
 158-sel1_txt,,<span class='scene-font-katari'>なんとか……</span>,还好……
 160,カタリナ/卡塔莉娜,し、しかし……<br>すさまじい圧が……！,但、但是……<br>这压力也太大了！
@@ -131,18 +131,18 @@ id,name,text,trans
 183,,<span class='scene-font-katari'>異変に気付いて見上げたその先。</span>,大家察觉到了前方出现的异变。
 184,ルリア/露莉亚,あ、あれって……！,那、那是……！
 184-sel1_txt,,<span class='scene-font-katari'>島だ……！</span>,岛屿……！！
-187,,<span class='scene-font-katari'>急上昇する</span><br><span class='scene-font-katari'>グランサイファーの軌道には、</span><br><span class='scene-font-katari'>果ての見えない巨大な岩塊……</span>,在急速上升的格兰塞法的前方，<br>有一座看不见边际的巨大岩块……
+187,,<span class='scene-font-katari'>急上昇する</span><br><span class='scene-font-katari'>グランサイファーの軌道には、</span><br><span class='scene-font-katari'>果ての見えない巨大な岩塊……</span>,在急速上升的格兰赛法的前方，<br>有一座看不见边际的巨大岩块……
 188,,<span class='scene-font-katari'>ひとつの島の底部が待ち構えていた。</span>,就像是一座岛屿的底部一般。
 190,カタリナ/卡塔莉娜,まずいぞ……！<br>このままでは島の底部に直撃だ！,糟糕了……！在这么下去的话我们会直接装上去！
 191,イオ/伊欧,で、でも！<br>島なんて壊せないわよ！？,但、但是！<br>小岛也没法破坏啊！
 192,ラカム/拉卡姆,避けようにも、<br>舵がまったくきかねぇ……！,虽然我想避开，<br>可是舵完全没用……！
-193,ラカム/拉卡姆,いま、グランサイファーは、<br>下から打ち上げられた、<br>弾丸みてーな状態だ！,现在，格兰塞法就像是<br>至下而上的子弹一般的状态！
+193,ラカム/拉卡姆,いま、グランサイファーは、<br>下から打ち上げられた、<br>弾丸みてーな状態だ！,现在，格兰赛法就像是<br>至下而上的子弹一般的状态！
 194,ルリア/露莉亚,ど、どうすれば……！,怎、怎么办……！
 195,ルリア/露莉亚,きゃっ……！？,呀……！？
 200,コロッサス/科罗萨斯,────,————
 201,イオ/伊欧,コロッサス……！？<br>なんで……！？,科罗萨斯……！？<br>为什么……！？
 202,オイゲン/欧根,<span class='scene-font-4'>おい、ぶつかるぞ！！</span>,喂！要撞上了！！
-204,,<span class='scene-font-katari'>グランサイファーが、</span><br><span class='scene-font-katari'>島の底部へとぶつかるその瞬間──</span>,就在格兰塞法即将撞上岛屿底部的瞬间——
+204,,<span class='scene-font-katari'>グランサイファーが、</span><br><span class='scene-font-katari'>島の底部へとぶつかるその瞬間──</span>,就在格兰赛法即将撞上岛屿底部的瞬间——
 206,コロッサス/科罗萨斯,<span class='scene-font-4'>────！！</span>,————！！
 212,,<span class='scene-font-katari'>コロッサスは甲板に仁王立ちし、</span><br><span class='scene-font-katari'>渾身の力を込めて、</span><br><span class='scene-font-katari'>島の底部に剣を叩き付けた。</span>,科罗萨斯稳稳地站在甲板上，<br>并用尽全身力气，<br>将剑刺入了岛屿的底部。
 213,ラカム/拉卡姆,っ……！？<br>軌道が変わった……！？<br>殴って軌道を変えたのか！？,唔……！？轨道变了……！！<br>是攻击改变了轨道吗！？
@@ -152,7 +152,7 @@ id,name,text,trans
 225,ユグドラシル/尤格多拉希尔,────,————！
 230,ティアマト/提亚玛特,────,————
 231,ルリア/露莉亚,せ、星晶獣達が……！,星、星晶兽们……！
-236,,<span class='scene-font-katari'>次々と顕現した星晶獣達は、</span><br><span class='scene-font-katari'>己の司る力を使い、</span><br><span class='scene-font-katari'>グランサイファーを守り抜く。</span>,依次显现的星晶兽分别用自己司掌的力量，守护着格兰塞法。
+236,,<span class='scene-font-katari'>次々と顕現した星晶獣達は、</span><br><span class='scene-font-katari'>己の司る力を使い、</span><br><span class='scene-font-katari'>グランサイファーを守り抜く。</span>,依次显现的星晶兽分别用自己司掌的力量，守护着格兰赛法。
 237,,<span class='scene-font-katari'>リヴァイアサンは、</span><br><span class='scene-font-katari'>その水で衝撃を和らげ──</span>,利维坦用水的力量中和着冲击力——
 242,,<span class='scene-font-katari'>ユグドラシルは、</span><br><span class='scene-font-katari'>土塊で軌道を調整し──</span>,尤格多拉希尔用土块调整着前进的轨道——
 244,,<span class='scene-font-katari'>ティアマトは、</span><br><span class='scene-font-katari'>風で優しく艇を包む──</span>,提亚马特用风将骑空艇温柔地包裹——

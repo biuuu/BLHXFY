@@ -1,7 +1,7 @@
 id,name,text,trans
 0-chapter_name,,第125章　欠片を求めて,第125章 寻找碎片
 0-synopsis,,ルリア達を幽世に落とされ、失意の中<span class='scene-font-place'>ベスティエ島</span>から避難せざるをえない姬塔達。ロキは姬塔に対し「幽世はそれほど離れた場所じゃない。だから君はまだ生きてる。後は君次第だ」と告げて去っていく。その言葉から、姬塔と一心同体であるルリアはまだ生きている、と希望を見出した一行は、仲間達を救う決意と共に艇を出すのだった。,因为露莉亚他们落入幽世而吸纳入失意的姬塔一行人，从贝斯缇耶岛进行了避难。洛基对姬塔说完“幽世并不是那么容易离开的地方，所以你要活着，然后就靠你自己了”后，就离开了。听了这番话后，大家觉得和姬塔一心同体的露莉亚还活着，并从中看到了希望。下定了拯救同伴的决心后，众人一起从骑空艇中出来了。
-1,,<span class='scene-font-katari'>ひとまず</span><span class='scene-font-place'>ベスティエ島</span><span class='scene-font-katari'>を出て、</span><br><span class='scene-font-katari'>グランサイファーに乗りこむ</span><br><span class='scene-font-katari'>姬塔一行。</span>,总之先从贝斯缇耶岛出来，<br>坐上了格兰塞法的姬塔一行人。
+1,,<span class='scene-font-katari'>ひとまず</span><span class='scene-font-place'>ベスティエ島</span><span class='scene-font-katari'>を出て、</span><br><span class='scene-font-katari'>グランサイファーに乗りこむ</span><br><span class='scene-font-katari'>姬塔一行。</span>,总之先从贝斯缇耶岛出来，<br>坐上了格兰赛法的姬塔一行人。
 2,,<span class='scene-font-katari'>そこには、見送りかのように、</span><br><span class='scene-font-katari'>星晶獣フェンリルを連れた</span><br><span class='scene-font-katari'>ロキの姿があった。</span>,此时，<br>带着星晶兽芬里尔的洛基，<br>就像是在目送着他们一般。
 3,,<span class='scene-font-katari'>消沈する姬塔を見て、</span><br><span class='scene-font-katari'>フェンリルは呆れたように呟く。</span>,看着消沉的姬塔，<br>芬里尔呆呆地嘟哝道。
 4,フェンリル/芬里尔,見る影もねーな……<br>蒼の少女が居ないと、<br>こんなことになっちまうのか。,没看过的脸啊……<br>苍之少女不在的话，<br>居然会变成这个样子啊。
@@ -34,7 +34,7 @@ id,name,text,trans
 28,ビィ/碧,そりゃそうだけどよ……<br>でも、この状態じゃ……,虽然是这么说……<br>但是，这个状态的话……
 29,ロキ/洛基,さて、僕達もあまり時間が無いからね。<br>行こうか、フェンリル。,那么，我们的时间也所剩无几了。<br>走吧，芬里尔。
 30,フェンリル/芬里尔,けっ……<br>相変わらずお前は、<br>そういう奴だよな……,啧……<br>你这家伙，还是老样子……
-31,,<span class='scene-font-katari'>星晶獣フェンリルを従えると、</span><br><span class='scene-font-katari'>ロキは何事も無かったかのように、</span><br><span class='scene-font-katari'>グランサイファーから去っていく。</span>,带着星晶兽芬里尔的洛基，<br>就像是什么都没发生似的，<br>从格兰塞法离去了。
+31,,<span class='scene-font-katari'>星晶獣フェンリルを従えると、</span><br><span class='scene-font-katari'>ロキは何事も無かったかのように、</span><br><span class='scene-font-katari'>グランサイファーから去っていく。</span>,带着星晶兽芬里尔的洛基，<br>就像是什么都没发生似的，<br>从格兰赛法离去了。
 32,イオ/伊欧,……何だったのよ、あいつ。,……搞什么啊，那家伙。
 33,オイゲン/欧根,深く考えるんじゃあねぇ。<br>ああいう手合いの言うことにゃあ、<br>大した意味はねぇのさ。,别想太多。<br>那种糊弄人的话，<br>肯定没什么特别的意义。
 34,ロゼッタ/萝赛塔,それは……どうかしらね？,到底……怎么样呢？

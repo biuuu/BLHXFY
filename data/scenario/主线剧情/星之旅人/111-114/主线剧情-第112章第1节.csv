@@ -26,7 +26,7 @@ id,name,text,trans
 26,,<span class='scene-font-katari'>案内されたシトリ達の村で、</span><br><span class='scene-font-katari'>姬塔達は改めて</span><br><span class='scene-font-katari'>詳しい説明を受けようとするが……</span>,<span class='scene-font-katari'>到达志鸟所在的村落后，姬塔一行人正准备听取详细的说明时……</span>
 27,？？？,シぃートぉーリぃー！,志——鸟——！
 31,シトリ,ぐふっ……<br>た、ただいま、ミカ。,咳……我、我回来了，米卡。
-32,ミカ,おかえり！　シトリ！<br>怪我はない？　大丈夫？,欢迎回来！ ！志鸟你没受伤吧？身体还好吧？
+32,ミカ,おかえり！　シトリ！<br>怪我はない？　大丈夫？,欢迎回来！！志鸟你没受伤吧？身体还好吧？
 33,シトリ,大丈夫。<br>ひとりにしてごめんね、ミカ。,没问题的，把你一个人留在这里，抱歉哦米卡。
 34,ミカ,平気……じゃないけど、<br>でも、あたし待てるよ。,虽然……也不是没关系啦，<br>但是我可以等的。
 35,ミカ,シトリは約束を破らないもん。<br>ずーっと一緒に居てくれるって、<br>約束！,志鸟是不会违反约定的。我们会永远在一起的，约好了哦！
@@ -40,7 +40,7 @@ id,name,text,trans
 43,ミカ,わぁ……！　可愛いトカゲさん！<br>お名前はなんていうの？,哇……！好可爱的蜥蜴先生！<br>你叫什么名字？
 44,ビィ/碧,オイラはトカゲじゃねーってーの！,咱才不是蜥蜴！
 44-sel1_txt,,<span class='scene-font-katari'>名前はビィだよ</span>,名字是碧
-45,ミカ,ビィ！　ビィビィビィ！<br>可愛い名前だね！,碧！ 碧碧碧！好可爱的名字！
+45,ミカ,ビィ！　ビィビィビィ！<br>可愛い名前だね！,碧！碧碧碧！好可爱的名字！
 46,ミカ,それで？<br>貴方のお名前は──,那么你的名字是──
 47,,<span class='scene-font-katari'>ふと、</span><br><span class='scene-font-katari'>姬塔の顔を見たミカは、</span><br><span class='scene-font-katari'>言葉を詰まらせる。</span>,<span class='scene-font-katari'>看见姬塔的脸，米卡突然停止了话语。</span>
 48,ミカ,えっ、うそ……<br>あれ？　でも……,诶，骗人……嗯？但是……
@@ -51,7 +51,7 @@ id,name,text,trans
 53,シトリ,ただお話を<br>聞かせてもらっていただけで……,只是听他讲见闻而已……
 54,,<span class='scene-font-katari'>ミカは姬塔の手を取り、</span><br><span class='scene-font-katari'>真剣な様子で、</span><br><span class='scene-font-katari'>正面から真っ直ぐに見つめる。</span>,<span class='scene-font-katari'>米卡握住姬塔的手，一脸认真地直视着她。</span>
 55,ミカ,ねぇ、教えて！<br>お父さんも貴方と同じ<br>騎空士だった？,呐，告诉我！你父亲也和你一样是骑空士吗？
-56,ミカ,それも、<br>すごく、すごーく<br>立派な騎空士じゃなかった！？,而且是非常非常了不起的骑空士吗！ ？
+56,ミカ,それも、<br>すごく、すごーく<br>立派な騎空士じゃなかった！？,而且是非常非常了不起的骑空士吗！？
 56-sel1_txt,,<span class='scene-font-katari'>そうだよ</span>,<span class='scene-font-katari'>是的</span>
 56-sel2_txt,,<span class='scene-font-katari'>たぶん、そう</span>,<span class='scene-font-katari'>大概，是吧</span>
 57,ミカ,やっぱり！<br>じゃあ、そうなんだ！,果然！那么果然就是这样！
@@ -59,7 +59,7 @@ id,name,text,trans
 59,ミカ,この人が、おじさんの子供なんだ！,这个人，是大叔的孩子！
 59-sel1_txt,,<span class='scene-font-katari'>まさか……！</span>,难道……！
 60,シトリ,うん、そのまさか。<br>私達は、貴方のお父さんと、<br>会ったことがある。,嗯，看来没错了。<br>我们……曾经见过你的父亲。
-61,ビィ/碧,んなっ！？<br>親父さんを知ってるってのか！？,什么！ ？认识老爹！ ？
+61,ビィ/碧,んなっ！？<br>親父さんを知ってるってのか！？,什么！？认识老爹！？
 62,ミカ,うん！　すごく楽しかった！<br>いっぱい遊んでくれたし、<br>たくさんお話も聞かせてくれたよ！,嗯！我们在一起的时候非常开心！<br>和他一起玩，还从他那里听了很多故事！
 63,,<span class='scene-font-katari'>思わぬ場所で得た、</span><br><span class='scene-font-katari'>思わぬ人物の足跡に、</span><br><span class='scene-font-katari'>一行はにわかに色めき立つ。</span>,在意料之外的地方发现了意料之外的痕迹，众人感到十分兴奋。</span>
 64,シトリ,どことなく面影があったんだ。<br>だから、会ったときから、<br>まさかとは思ってた。,总觉得有些面熟。<br>所以在遇见的时候就想该不会是那样。
@@ -109,7 +109,7 @@ id,name,text,trans
 117,福音の民,よもや貴様らは、<br>元の世界に戻りたいなどとは<br>言うまいな？,你们该不会<br>也说些想要回到原来世界的蠢话吧？
 117-sel1_txt,,<span class='scene-font-katari'>戻らなきゃいけない</span>,<span class='scene-font-katari'>必须要回去</span>
 117-sel2_txt,,<span class='scene-font-katari'>目指す場所がある</span>,<span class='scene-font-katari'>我有要前往的地方</span>
-118,ビィ/碧,そうだぜ！<br>オイラ達は<span class='scene-font-spword'>星の島</span>に<br>行かなきゃなんねーんだからな！！,就是啊，咱，<br>可是要去星之岛的！ ！
+118,ビィ/碧,そうだぜ！<br>オイラ達は<span class='scene-font-spword'>星の島</span>に<br>行かなきゃなんねーんだからな！！,就是啊，咱，<br>可是要去星之岛的！！
 119,福音の民,<span class='scene-font-spword'>星の島</span>……？<br>それにその目、見たことがある。<br>貴様、あの男の血縁だな？,星之岛……？<br>我见过你那双眼睛。<br>你和那个男人有血缘关系吧？
 120,,<span class='scene-font-katari'>相対する福音の民は、</span><br><span class='scene-font-katari'>引きつれてきた仲間達に合図を送る。</span>,<span class='scene-font-katari'>与众人对峙的那名福音之民，向其他同伴们发出了指示。</span>
 122,福音の民,正しい導きを<br>与えなければならない相手が<br>どうやら増えてしまったらしい……,看来需要接受正确引导的人增加了呢……
