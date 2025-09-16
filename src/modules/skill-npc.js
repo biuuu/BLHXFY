@@ -126,7 +126,6 @@ const repalceSkillText = function(ability, key1, key2, skillData, translated, ch
     const uname = config.displayName || config.userName
     const text = filter(detail.replace(rep, uname))
     ability.comment = text
-    //todo
     translated.set(key1, true)
   }
 }

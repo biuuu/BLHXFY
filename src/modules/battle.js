@@ -9,6 +9,7 @@ import CONFIG from '../config'
 import { transSkill } from './skill-npc'
 import getBossName from '../store/name-boss'
 import transBuff from './buff'
+import filter from '../utils/XSSFilter'
 
 const skillTemp = new Map()
 const posMap = new Map()
@@ -119,7 +120,13 @@ const battle = async function battle(data, mode) {
                   let tsDetail = skill['text-data']
                   if (trans) {
                     if (trans.name) tsName = trans.name + plus1
-                    if (trans.detail) tsDetail = trans.detail
+                    if (trans.detail) {
+                      const detail = trans.detail
+                      const rep = new RegExp(CONFIG.defaultName, 'g')
+                      const uname = CONFIG.displayName || CONFIG.userName
+                      const text = filter(detail.replace(rep, uname))
+                      tsDetail = text
+                    }
                   }
                   if (tsDetail === skill['text-data']) {
                     tsDetail = await transSkill(skill['text-data'], state)
