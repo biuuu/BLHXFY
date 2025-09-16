@@ -2,6 +2,8 @@ import getSkillData, { skillKeys, getLocalSkillData, getCommSkillMap, saveAutoTr
 import replaceTurn from '../utils/replaceTurn'
 import transBuff from './buff'
 import { splitSingleLineSkill, getPlusStr, trim } from '../utils/'
+import config from '../config'
+import filter from '../utils/XSSFilter'
 
 const elemtRE = '([光闇水火風土無全]|light|dark|water|wind|earth|fire|plain|all)'
 const elemtMap = {
@@ -114,12 +116,17 @@ const repalceSkillText = function(ability, key1, key2, skillData, translated, ch
   }
 
   if (!trans) return
-  
+
   if (trans.name) {
     ability.name = trans.name + plus1
   }
   if (trans.detail) {
-    ability.comment = trans.detail
+    const detail = trans.detail
+    const rep = new RegExp(config.defaultName, 'g')
+    const uname = config.displayName || config.userName
+    const text = filter(detail.replace(rep, uname))
+    ability.comment = text
+    //todo
     translated.set(key1, true)
   }
 }
