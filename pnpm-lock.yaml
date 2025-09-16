@@ -62,14 +62,14 @@ devDependencies:
     specifier: ^7.3.1
     version: registry.npmmirror.com/open@7.4.2
   rollup:
-    specifier: ^1.4.1
-    version: registry.npmmirror.com/rollup@1.32.1
+    specifier: ^2.79.2
+    version: 2.79.2
   rollup-plugin-babel:
     specifier: ^4.4.0
-    version: registry.npmmirror.com/rollup-plugin-babel@4.4.0(@babel/core@7.23.9)(rollup@1.32.1)
+    version: registry.npmmirror.com/rollup-plugin-babel@4.4.0(@babel/core@7.23.9)(rollup@2.79.2)
   rollup-plugin-commonjs:
     specifier: 10.1.0
-    version: registry.npmmirror.com/rollup-plugin-commonjs@10.1.0(rollup@1.32.1)
+    version: registry.npmmirror.com/rollup-plugin-commonjs@10.1.0(rollup@2.79.2)
   rollup-plugin-json:
     specifier: ^4.0.0
     version: registry.npmmirror.com/rollup-plugin-json@4.0.0
@@ -176,6 +176,14 @@ packages:
   /fs.realpath@1.0.0:
     resolution: {integrity: sha512-OO0pH2lK6a0hZnAdau5ItzHPI6pUlvI7jMVnxUQRtw4owF2wk8lOSabtGDCTP4Ggrg2MbGnWO9X8K1t4+fGMDw==}
     dev: true
+
+  /fsevents@2.3.3:
+    resolution: {integrity: sha512-5xoDfX+fL7faATnagmWPpbFtwh/R77WmMMqqHGS65C3vvB0YHrgF+B1YmZ3441tMj5n63k0212XNoJwzlhffQw==}
+    engines: {node: ^8.16.0 || ^10.6.0 || >=11.0.0}
+    os: [darwin]
+    requiresBuild: true
+    dev: true
+    optional: true
 
   /gh-pages@5.0.0:
     resolution: {integrity: sha512-Nqp1SjkPIB94Xw/3yYNTUL+G2dxlhjvv1zeN/4kMC1jfViTEqhtVz/Ba1zSXHuvXCN9ADNS1dN4r5/J/nZWEQQ==}
@@ -322,6 +330,14 @@ packages:
     engines: {node: '>=8'}
     dependencies:
       find-up: 4.1.0
+    dev: true
+
+  /rollup@2.79.2:
+    resolution: {integrity: sha512-fS6iqSPZDs3dr/y7Od6y5nha8dW1YnbgtsyotCVvoFGKbERG++CVRFv1meyGDE1SNItQA8BrnCw7ScdAhRJ3XQ==}
+    engines: {node: '>=10.0.0'}
+    hasBin: true
+    optionalDependencies:
+      fsevents: 2.3.3
     dev: true
 
   /semver@6.3.1:
@@ -1907,14 +1923,6 @@ packages:
       negotiator: registry.npmmirror.com/negotiator@0.6.3
     dev: true
 
-  registry.npmmirror.com/acorn@7.4.1:
-    resolution: {integrity: sha512-nQyp0o1/mNdbTO1PO6kHkwSrmgZ0MT/jCCpNiwbUjGoRN4dlBhqJtoQuCnEOKzgTVwg0ZWiCoQy6SxMebQVh8A==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/acorn/-/acorn-7.4.1.tgz}
-    name: acorn
-    version: 7.4.1
-    engines: {node: '>=0.4.0'}
-    hasBin: true
-    dev: true
-
   registry.npmmirror.com/ajv@6.5.3:
     resolution: {integrity: sha512-LqZ9wY+fx3UMiiPd741yB2pj3hhil+hQc8taf4o2QGRFpWgZ2V5C8HA165DY9sS3fJwsk7uT7ZlFEyC3Ig3lLg==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/ajv/-/ajv-6.5.3.tgz}
     name: ajv
@@ -2909,7 +2917,7 @@ packages:
       supports-preserve-symlinks-flag: registry.npmmirror.com/supports-preserve-symlinks-flag@1.0.0
     dev: true
 
-  registry.npmmirror.com/rollup-plugin-babel@4.4.0(@babel/core@7.23.9)(rollup@1.32.1):
+  registry.npmmirror.com/rollup-plugin-babel@4.4.0(@babel/core@7.23.9)(rollup@2.79.2):
     resolution: {integrity: sha512-Lek/TYp1+7g7I+uMfJnnSJ7YWoD58ajo6Oarhlex7lvUce+RCKRuGRSgztDO3/MF/PuGKmUL5iTHKf208UNszw==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/rollup-plugin-babel/-/rollup-plugin-babel-4.4.0.tgz}
     id: registry.npmmirror.com/rollup-plugin-babel/4.4.0
     name: rollup-plugin-babel
@@ -2921,11 +2929,11 @@ packages:
     dependencies:
       '@babel/core': registry.npmmirror.com/@babel/core@7.23.9
       '@babel/helper-module-imports': registry.npmmirror.com/@babel/helper-module-imports@7.22.15
-      rollup: registry.npmmirror.com/rollup@1.32.1
+      rollup: 2.79.2
       rollup-pluginutils: registry.npmmirror.com/rollup-pluginutils@2.8.2
     dev: true
 
-  registry.npmmirror.com/rollup-plugin-commonjs@10.1.0(rollup@1.32.1):
+  registry.npmmirror.com/rollup-plugin-commonjs@10.1.0(rollup@2.79.2):
     resolution: {integrity: sha512-jlXbjZSQg8EIeAAvepNwhJj++qJWNJw1Cl0YnOqKtP5Djx+fFGkp3WRh+W0ASCaFG5w1jhmzDxgu3SJuVxPF4Q==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/rollup-plugin-commonjs/-/rollup-plugin-commonjs-10.1.0.tgz}
     id: registry.npmmirror.com/rollup-plugin-commonjs/10.1.0
     name: rollup-plugin-commonjs
@@ -2938,7 +2946,7 @@ packages:
       is-reference: registry.npmmirror.com/is-reference@1.2.1
       magic-string: registry.npmmirror.com/magic-string@0.25.9
       resolve: registry.npmmirror.com/resolve@1.22.8
-      rollup: registry.npmmirror.com/rollup@1.32.1
+      rollup: 2.79.2
       rollup-pluginutils: registry.npmmirror.com/rollup-pluginutils@2.8.2
     dev: true
 
@@ -2969,17 +2977,6 @@ packages:
     version: 2.8.2
     dependencies:
       estree-walker: registry.npmmirror.com/estree-walker@0.6.1
-    dev: true
-
-  registry.npmmirror.com/rollup@1.32.1:
-    resolution: {integrity: sha512-/2HA0Ec70TvQnXdzynFffkjA6XN+1e2pEv/uKS5Ulca40g2L7KuOE3riasHoNVHOsFD5KKZgDsMk1CP3Tw9s+A==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/rollup/-/rollup-1.32.1.tgz}
-    name: rollup
-    version: 1.32.1
-    hasBin: true
-    dependencies:
-      '@types/estree': registry.npmmirror.com/@types/estree@1.0.5
-      '@types/node': registry.npmmirror.com/@types/node@20.11.13
-      acorn: registry.npmmirror.com/acorn@7.4.1
     dev: true
 
   registry.npmmirror.com/safe-buffer@5.1.2:
