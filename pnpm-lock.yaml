@@ -9,8 +9,8 @@ dependencies:
     specifier: ^3.27.1
     version: registry.npmmirror.com/core-js@3.35.1
   dompurify:
-    specifier: ^2.0.17
-    version: registry.npmmirror.com/dompurify@2.4.7
+    specifier: ^3.2.4
+    version: 3.2.4
   events:
     specifier: ^3.0.0
     version: registry.npmmirror.com/events@3.3.0
@@ -85,6 +85,12 @@ devDependencies:
 
 packages:
 
+  /@types/trusted-types@2.0.7:
+    resolution: {integrity: sha512-ScaPdn1dQczgbl0QFTeTOmVHFULt394XJgOQNoyVhZ6r2vLnMLJfBPd53SB52T/3G36VI1/g2MZaX0cwDuXsfw==}
+    requiresBuild: true
+    dev: false
+    optional: true
+
   /array-union@1.0.2:
     resolution: {integrity: sha512-Dxr6QJj/RdU/hCaBjOfxW+q6lyuVE6JFWIrAUpuOOhoJJoQ99cUn3igRaHVB5P9WrgFVN0FfArM3x0cueOU8ng==}
     engines: {node: '>=0.10.0'}
@@ -123,6 +129,12 @@ packages:
   /concat-map@0.0.1:
     resolution: {integrity: sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg==}
     dev: true
+
+  /dompurify@3.2.4:
+    resolution: {integrity: sha512-ysFSFEDVduQpyhzAob/kkuJjf5zWkZD8/A9ywSp1byueyuCfHamrCBa14/Oc2iiB0e51B+NpxSl5gmzn+Ms/mg==}
+    optionalDependencies:
+      '@types/trusted-types': 2.0.7
+    dev: false
 
   /email-addresses@5.0.0:
     resolution: {integrity: sha512-4OIPYlA6JXqtVn8zpHpGiI7vE6EQOAg16aGnDMIAlZVinnoZ8208tW1hAbjWydgN/4PLTT9q+O1K6AH/vALJGw==}
@@ -2252,12 +2264,6 @@ packages:
     version: 0.6.0
     engines: {node: '>=4.0.0'}
     dev: true
-
-  registry.npmmirror.com/dompurify@2.4.7:
-    resolution: {integrity: sha512-kxxKlPEDa6Nc5WJi+qRgPbOAbgTpSULL+vI3NUXsZMlkJxTqYI9wg5ZTay2sFrdZRWHPWNi+EdAhcJf81WtoMQ==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/dompurify/-/dompurify-2.4.7.tgz}
-    name: dompurify
-    version: 2.4.7
-    dev: false
 
   registry.npmmirror.com/electron-to-chromium@1.4.651:
     resolution: {integrity: sha512-jjks7Xx+4I7dslwsbaFocSwqBbGHQmuXBJUK9QBZTIrzPq3pzn6Uf2szFSP728FtLYE3ldiccmlkOM/zhGKCpA==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/electron-to-chromium/-/electron-to-chromium-1.4.651.tgz}
