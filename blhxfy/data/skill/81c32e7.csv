@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,阿尔贝尔,3040334000
+special,,暗属性伤害(特大)/自身获得暗属性追击效果/技能1可即刻使用
+skill-1,,对敌方全体造成暗属性伤害/感电Lv上升1(最大10)/缓速效果
+skill-2,,<div class=prt-text-small>对敌方单体造成6次暗属性伤害/暗属性防御DOWN<span class=text-blue>◆敌人感电Lv5以上时：2倍攻击次数</span></div>
+skill-3,,<div class=prt-text-small>对敌方单体造成暗属性伤害/自身可即刻发动奥义/其他技能可即刻使用</div>
+support-1,,<div class=prt-text-small>弱体效果「麻痹」无效/根据敌人的感电Lv，连击率UP<span class=text-blue>◆Lv5以上时可能发动四连击</span></div>
+support-2,,<div class=prt-text-small>根据敌人的感电Lv，暗属性角色技能性能UP<span class=text-blue>◆自身处于后排时同样有效</span></div>
+skill-lb,LB技能,使用奥义有几率使敌人的感电Lv上升1
+intro,,
