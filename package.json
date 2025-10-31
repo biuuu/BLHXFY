@@ -1,6 +1,6 @@
 {
   "name": "blhxfy",
-  "version": "2.7.3",
+  "version": "2.7.4",
   "description": "碧蓝幻想汉化脚本",
   "main": "./src/main.js",
   "scripts": {
@@ -19,6 +19,7 @@
     "core-js": "^3.27.1",
     "dompurify": "^2.0.17",
     "events": "^3.0.0",
+    "glob": "^11.0.3",
     "js-base64": "^3.7.5",
     "jwt-decode": "^3.1.2",
     "lodash": "^4.17.21",
@@ -35,13 +36,11 @@
     "fs-extra": "^5.0.0",
     "gh-pages": "^5.0.0",
     "md5-file": "^5.0.0",
-    "open": "^7.3.1",
     "rollup": "^1.4.1",
     "rollup-plugin-babel": "^4.4.0",
     "rollup-plugin-commonjs": "10.1.0",
     "rollup-plugin-json": "^4.0.0",
     "rollup-plugin-node-resolve": "^4.0.1",
-    "serve": "^11.3.0",
     "shelljs": "^0.8.5"
   }
 }

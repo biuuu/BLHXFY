@@ -273,20 +273,107 @@ const transStart = async (data, pathname) => {
   return data
 }
 
-export default async function (data, pathname) {
-  if (Array.isArray(data)) {
-    return await transStart(data, pathname)
-  } else if (Array.isArray(data.scene_list)) {
-    return Object.assign(data, {
-      scene_list: await transStart(data.scene_list, pathname)
-    })
-  } else if (Array.isArray(data.scenario)) {
-    return Object.assign(data, {
-      scenario: await transStart(data.scenario, pathname)
-    })
-  } else {
-    return data
+
+// ↓ gemini
+/**
+ * 根据给定的路径列表，安全地从对象中获取嵌套属性值。
+ * @param {object} obj - 要访问的对象。
+ * @param {string[]} path - 描述属性路径的字符串数组，例如 ['scenario', 'scene_list']。
+ * @returns {*} 找到的属性值，如果路径无效则返回 undefined。
+ */
+const getValueByPath = (obj, path) => {
+  // 使用 reduce 方法沿着路径逐层深入对象
+  return path.reduce((currentObject, key) => {
+    // 如果当前对象有效且包含下一个键，则继续深入，否则返回 undefined
+    return currentObject && currentObject[key] !== undefined ? currentObject[key] : undefined;
+  }, obj);
+};
+
+/**
+ * 以不可变的方式，根据路径设置对象中的嵌套属性值。
+ * 这意味着它会返回一个新对象，而不是修改原始对象。
+ * @param {object} obj - 要更新的对象。
+ * @param {string[]} path - 描述属性路径的字符串数组。
+ * @param {*} value - 要设置的新值。
+ * @returns {object} 一个新的、更新了值的对象。
+ */
+const setValueByPath = (obj, path, value) => {
+  // 创建一个对象的浅拷贝，避免直接修改原始对象
+  const newObj = { ...obj };
+
+  // lastKey 指向路径的最后一个键，例如 'scene_list'
+  const lastKey = path[path.length - 1];
+  // parentPath 指向除最后一个键之外的路径，例如 ['scenario']
+  const parentPath = path.slice(0, -1);
+
+  // 逐层深入到目标属性的父对象
+  let currentLevel = newObj;
+  parentPath.forEach(key => {
+    // 为了保证不可变性，路径上的每个对象也需要被拷贝
+    // 如果当前层级的对象不存在或不是对象，就创建一个新对象
+    currentLevel[key] = (currentLevel[key] && typeof currentLevel[key] === 'object') ? { ...currentLevel[key] } : {};
+    currentLevel = currentLevel[key];
+  });
+
+  // 在父对象上设置新值
+  currentLevel[lastKey] = value;
+
+  return newObj;
+};
+
+/**
+ * 递归处理数据对象，查找并转换指定路径下的数组。
+ * @param {object} data - 原始数据对象。
+ * @param {string[][]} keyPaths - 一个包含多个路径的数组，每个路径本身也是一个键的数组。
+ * @param {any} pathname - 传递给 transStart 的参数。
+ * @returns {Promise<object>} 返回处理后的数据对象。
+ */
+async function processDataByPaths(data, keyPaths, pathname) {
+  // 遍历所有预设的可能路径
+  for (const path of keyPaths) {
+    // 根据当前路径获取目标值
+    const targetArray = getValueByPath(data, path);
+
+    // 检查获取到的值是否为数组
+    if (Array.isArray(targetArray)) {
+      // 如果是数组，使用 transStart 函数进行处理
+      const processedArray = await transStart(targetArray, pathname);
+      // 将处理后的数组放回原有的嵌套结构中，并返回一个新的对象
+      return setValueByPath(data, path, processedArray);
+    }
   }
+
+  // 如果遍历完所有路径都没有找到数组，则返回原始数据
+  return data;
+}
+
+/**
+ * 主处理函数，根据不同的数据结构，对其中的数组部分进行转换。
+ * @param {object|Array} data - 输入的数据，可能是一个数组，或包含数组的复杂对象。
+ * @param {any} pathname - 传递给 transStart 的参数。
+ * @returns {Promise<object|Array>} 返回转换后的数据。
+ */
+export default async function (data, pathname) {
+  // 1. 定义所有需要检查的嵌套路径
+  // 如果将来有新的路径，只需在这里添加即可
+  const keyPaths = [
+    ['scene_list'],           // 对应 data.scene_list
+    ['scenario'],             // 对应 data.scenario
+    ['scenario', 'scene_list']  // 对应 data.scenario.scene_list
+  ];
+
+  // 2. 首先处理最简单的情况：data 本身就是一个数组
+  if (Array.isArray(data)) {
+    return await transStart(data, pathname);
+  }
+
+  // 3. 如果 data 是一个对象，则调用辅助函数来处理定义的各个路径
+  if (data && typeof data === 'object') {
+     return await processDataByPaths(data, keyPaths, pathname);
+  }
+
+  // 4. 如果 data 不是数组也不是对象，直接返回
+  return data;
 }
 
 export { scenarioCache, replaceChar }

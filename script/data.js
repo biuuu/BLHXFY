@@ -1,21 +1,12 @@
 const fse = require('fs-extra')
 const md5 = require('md5-file')
 const { version } = require('../package.json')
-const glob = require('glob')
+const { glob } = require('glob')
 const CSV = require('papaparse')
 const path = require('path')
 const pako = require('pako')
 
 const cyweb_token = 'qgemv4jr1y38jyq6vhvi'
-
-const Glob = glob.Glob
-glob.promise = function (pattern, options) {
-  return new Promise(function (resolve, reject) {
-    var g = new Glob(pattern, options)
-    g.once('end', resolve)
-    g.once('error', reject)
-  })
-}
 
 const readCsv = async (csvPath, silence) => {
   try {
@@ -50,7 +41,7 @@ const writeCsv = async (csvPath, list) => {
 
 const collectStoryId = async () => {
   console.log('story...')
-  const files = await glob.promise('./data/scenario/**/*.csv')
+  const files = await glob('./data/scenario/**/*.csv')
   const chapterName = []
   const titleSet = new Set()
   const result = []
@@ -137,7 +128,7 @@ const collectStoryId = async () => {
 const collectSkillId = async () => {
   console.log('skill...')
   await fse.emptyDir('./dist/blhxfy/data/skill/')
-  const files = await glob.promise('./data/skill/**/*.csv')
+  const files = await glob('./data/skill/**/*.csv')
   const prims = files.map(async file => {
     const list = await readCsv(file)
     for (let i = 0; i < list.length; i++) {
@@ -167,7 +158,7 @@ const collectSkillId = async () => {
 
 const collectBattleNoteId = async () => {
   console.log('battle note...')
-  const files = await glob.promise('./dist/blhxfy/data/battle/note/**/*.note.csv')
+  const files = await glob('./dist/blhxfy/data/battle/note/**/*.note.csv')
   const prims = files.map(async file => {
     let rgs = file.match(/quest-(\d+)\.note\.csv/)
     if (rgs && rgs[1]) {
@@ -191,7 +182,7 @@ const collectBattleNoteId = async () => {
 
 const collectVoice = async () => {
   console.log('voice...')
-  const files = await glob.promise('{./data/scenario/**/voice.csv,./data/voice.csv}')
+  const files = await glob('{./data/scenario/**/voice.csv,./data/voice.csv}')
   let voiceList = []
   const prims = files.map(file => {
     return readCsv(file).then(list => {
@@ -217,7 +208,7 @@ const getDate = (offset = 0) => {
 }
 
 const md5File = async () => {
-  const files = await glob.promise('{battle/*,*}.{csv,json}', {
+  const files = await glob('{battle/*,*}.{csv,json}', {
     nodir: true, cwd: path.resolve(process.cwd(), './dist/blhxfy/data/')
   })
   const data = {}
@@ -242,7 +233,7 @@ const start = async () => {
   await fse.copy('./data/', './dist/blhxfy/data/')
 
   console.log('move etc...')
-  const etcFiles = await glob.promise('./dist/blhxfy/data/etc/**/*.csv')
+  const etcFiles = await glob('./dist/blhxfy/data/etc/**/*.csv')
   for (let file of etcFiles) {
     const name = path.basename(file)
     await fse.move(file, `./dist/blhxfy/data/${name}`)
