@@ -1,0 +1,764 @@
+@charset "UTF-8";
+#wrapper .pop-global-menu .txt-global-profile,
+#wrapper .pop-global-menu .txt-global-archive,
+#wrapper .pop-global-menu .txt-global-guild,
+#wrapper .pop-global-menu .txt-global-item,
+#wrapper .pop-global-menu .txt-global-shop,
+#wrapper .pop-global-menu .txt-global-present,
+#wrapper .pop-global-menu .txt-global-list,
+#wrapper .pop-global-menu .txt-global-container,
+#wrapper .pop-global-menu .txt-global-friend,
+#wrapper .pop-global-menu .txt-global-world {
+  background: none;
+  display: inline-flex !important;
+  align-items: center;
+  justify-content: center;
+  height: 20px;
+  color: #c3e6e7;
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.5), -1px -1px 1px rgba(0,0,0,0.5), -1px 1px 1px rgba(0,0,0,0.5), 1px -1px 1px rgba(0,0,0,0.5);
+  font-weight: bold;
+  font-size: 1.05em;
+  font-family: "Microsoft Jhenghei";
+}
+.txt-global-profile::after {
+  content: '个人资料'
+}
+.txt-global-archive::after {
+  content: '露莉亚日记'
+}
+.txt-global-guild::after {
+  content: '骑空团'
+}
+.txt-global-item::after {
+  content: '道具'
+}
+.txt-global-shop::after {
+  content: '商店'
+}
+.txt-global-present::after {
+  content: '礼物'
+}
+.txt-global-list::after {
+  content: '列表'
+}
+.txt-global-container::after {
+  content: '仓库'
+}
+.txt-global-friend::after {
+  content: '好友'
+}
+.txt-global-world::after {
+  content: '世界'
+}
+
+.txt-info-content,
+.txt-room-id,
+.prt-battle-id {
+  user-select: all !important;
+}
+/* buttons */
+body .btn-usual-close::after {
+  content: "关闭";
+}
+body .btn-usual-cancel::after {
+  content: "取消";
+}
+body .prt-buttons .btn-remove.party-npc::after,
+body .prt-buttons-enhance .btn-remove.party-npc::after {
+  content: "移出队伍";
+}
+body .prt-buttons .btn-change.party-npc::after,
+body .prt-buttons-enhance .btn-change.party-npc::after {
+  content: "替换角色";
+}
+body .pop-recycle-item-setting.pop-usual .prt-popup-footer .btn-usual-ok::after,
+body .pop-recycle-item-setting.pop-usual .prt-popup-footer-sm .btn-usual-ok::after,
+body .pop-auto-detail-setting.pop-usual .btn-usual-ok::after {
+  content: '设置';
+}
+body div#pop-deck div.prt-register div.btn-usual-register::after {
+  content: "复制当前队伍配置到此队伍" !important;
+}
+.pop-confirm-battle.pop-usual .btn-usual-ok.retry-quest::after, .pop-startatonce.pop-usual .btn-usual-ok.retry-quest::after {
+  content: "任务挑战";
+}
+body .pop-cleared-episode .btn-episode-event::after {
+  content: '只看剧情';
+}
+body .btn-usual-questlist::after {
+  content: "去任务列表";
+}
+body .prt-user-status .prt-user-bp .txt-bp-remaining::before {
+  content: "还有";
+}
+body .prt-user-status .prt-user-stamina .txt-stamina-remaining::before {
+  content: "还有";
+}
+body .prt-daily-popup .prt-player-info .btn-usual-lineup::after {
+  content: "任务报酬确认";
+}
+body .list-innner-present .lis-present .prt-right-box .prt-detail-box .prt-present-btn .btn-present-get::after {
+  content: "领取";
+}
+body .btn-control[data-buton-name="イベントTOPへ"]::after {
+  content: "回到活动";
+}
+body .prt-mypage-box .prt-button-mypage .prt-input-mypage-button:checked+.btn-mypage-enhancement:after {
+  content: "选择中";
+}
+body .btn-retry[data-buton-name="もう一度挑戦"]::after {
+  content: "再次挑战";
+}
+body .btn-control[data-buton-name="クエストリストへ"]::after {
+  content: "返回任务列表";
+}
+body .btn-control[data-buton-name="フェイト一覧へ"]::after {
+  content: "返回Fate列表";
+}
+body #cnt-room-alter .prt-entry-frame .prt-entry .btn-entry-room::after {
+  content: "开始招募";
+}
+body .prt-button-area .btn-control[data-buton-name="エクストラクエストへ"]::after {
+  content: "选择任务";
+  font-size: 12px;
+}
+body .btn-control[data-buton-name="探索に戻る"]::after {
+  content: "继续探索";
+}
+body .btn-control[data-buton-name="ルームへ"]::after {
+  content: "回到房间";
+}
+body .btn-usual-dismiss::after {
+  content: "解散队伍";
+}
+body .cnt-index .btn-usual-asset::after {
+  content: "编队设置";
+}
+body .cnt-material-bottombox .btn-add::after {
+  content: "素材选择";
+}
+body .cnt-material-bottombox .btn-synthesis::after {
+  content: "开始强化";
+}
+body .pop-synopsis.pop-usual .btn-usual-ok::after {
+  content: '确定';
+}
+body #view-deal-main .deal-confirm .btn-usual-ok::after {
+  content: "选择";
+}
+body .pop-get-skypiece .btn-usual-ok::after {
+  content: '露莉亚日记';
+}
+body .pop-search-room.pop-usual .prt-popup-footer .btn-search-start::after {
+  content: "显示";
+}
+body .pop-get-skypiece .btn-usual-cancel::after {
+  content: '关闭';
+}
+body .prt-material-button .btn-usual-material::after {
+  content: "制作页面";
+}
+body .pop-confirm-start-stage .btn-usual-ok:after {
+  content: '开始探索';
+}
+body .btn-unclaimed[data-buton-name="未確認バトルへ"]::after {
+  content: "未结算的战斗";
+}
+body .pop-condition .prt-condition-list .lis-conditon .prt-detail .txt-remain::before {
+  content: "还剩";
+}
+body .pop-condition .prt-condition-list .lis-conditon .prt-detail .turn::after {
+  content: "回合";
+}
+body .pop-condition .prt-condition-list .lis-conditon .prt-detail .turn.one::after {
+  content: "回合";
+}
+body .pop-next-stage .prt-popup-footer .btn-usual-ok:after {
+  content: '前进';
+}
+body .pop-confirm-retire .prt-popup-footer .btn-usual-ok:after, .pop-confirm-quest-retire .prt-popup-footer .btn-usual-ok:after {
+  content: '结束探索';
+}
+body .pop-check-point .prt-popup-footer .btn-usual-ok:after {
+  content: '塔罗首页';
+}
+body .pop-confirm .prt-popup-footer .btn-usual-ok.exchange:after {
+  content: '交换';
+}
+body .pop-sort-enhancement .btn-usual-cancel::after,
+body .pop-filter-enhancement .btn-usual-cancel::after,
+.pop-filter-setting .btn-usual-cancel::after {
+    content: '返回排序设置';
+}
+body .pop-sort-enhancement .btn-usual-ok::after,
+body .pop-filter-enhancement .btn-usual-ok::after,
+.pop-filter-setting .btn-usual-ok::after {
+  content: '选择完成';
+}
+body #lis-inner-weapon .btn-item.selected::before,
+body #lis-inner-summon .btn-item.selected::before,
+body .prt-listup .prt-list-item .btn-item.selected::before {
+  content: '选择中';
+}
+body .pop-recommend-setting.pop-usual .prt-popup-footer .btn-usual-ok::after {
+  content: '设置';
+}
+body .pop-set-sort-filter .btn-usual-ok::after {
+  content: '显示';
+}
+body .prt-buttons .btn-remove::after, .prt-buttons-enhance .btn-remove::after {
+  content: "移除装备";
+}
+body .prt-buttons .btn-change.party-weapon::after, .prt-buttons-enhance .btn-change.party-weapon::after {
+  content: "更换武器";
+}
+body .pop-mypage .prt-popup-footer .btn-usual-ok::after {
+  content: '去主页';
+}
+body .btn-tweet-post:after {
+  content: '发送';
+}
+body .btn-usual-trajectory::after {
+  content: "轨迹水滴商店";
+}
+body .pop-start-assist .btn-check.all::before {
+  content: '全体';
+}
+body .pop-start-assist .btn-check.friend::before {
+  content: '好友';
+}
+body .pop-start-assist .btn-check.guild::before {
+  content: '骑空团';
+}
+body .prt-buttons .btn-remove-cancel::after,
+body .prt-buttons .btn-back-cancel::after,
+body .prt-buttons-enhance .btn-remove-cancel::after,
+body .prt-buttons-enhance .btn-back-cancel::after {
+  content: "取消";
+}
+body .prt-buttons .btn-base-change::after,
+body .prt-buttons .btn-material-change::after,
+body .prt-buttons-enhance .btn-base-change::after,
+body .prt-buttons-enhance .btn-material-change::after {
+  content: "变更";
+}
+body #pop .popRestartQuest .prt-popup-body .prt-select .btn-usual-ok::after {
+  content: '继续';
+}
+body .pop-result-withdraw .btn-usual-ok::after {
+  content: "撤退";
+}
+body .pop-raid-extra.pop-usual .btn-usual-cancel::after,
+body .pop-usual.pop-raid-extra2 .btn-usual-cancel::after,
+body .pop-usual.pop-raid-extra4 .btn-usual-cancel::after,
+body .pop-usual.pop-raid-extra5 .btn-usual-cancel::after {
+  content: '关闭';
+}
+body .pop-confirm-continue-quest.pop-usual .prt-popup-footer .btn-usual-ok::after,
+body .pop-confirm-continue-quest.pop-usual .pop-room-detail.pop-usual .prt-popup-footer .btn-usual-join::after,
+body .pop-room-detail.pop-usual .pop-confirm-continue-quest.pop-usual .prt-popup-footer .btn-usual-join::after {
+  content: '参加';
+}
+body .cnt-order-box .cnt-btn-bottombox .btn-evolution:not(.disapprove)::after {
+  content: "上限解放";
+}
+.prt-module-evolution .btn-cancel,
+.prt-module-evolution, .btn-decompose-confirm,
+.prt-module-evolution .btn-follow-base[data-location-href*="npc"],
+.popRestartQuest .btn-withdraw,
+#cnt-arcarum-stage .cnt-division-list .prt-division-list .btn-move-division,
+#btn-bug-list,
+.btn-usual-text[data-href="quest/assist/unclaimed"],
+#tab-multi, #tab-event, #tab-id,
+.btn-decompose[data-location-href^="decompose/"],
+.btn-decompose[data-location-href^="detail/decompose/"],
+.prt-move-container .btn-container,
+#tab-npc, #tab-weapon, #tab-summon, #tab-skin,
+.prt-error-infomation .btn-mypage,
+.btn-evolution[data-location-href^="evolution/"],
+.prt-condition .btn-quest,
+#main_story_tab, #event_story_tab, #coop_story_tab,
+.prt-follow-button-enhance .btn-follow-again,
+.prt-follow-button .btn-follow-again,
+.btn-title[data-href="title/add/advent/"],
+.btn-gacha-attention,
+.btn-usual-appearance[data-href^="gacha/appear/legend/"],
+.prt-gacha-topic .btn-release-list,
+.btn-character[data-location-href^="gacha"] .prt-character-small,
+#tab-legend, #tab-lupi,
+#member-list-tabs, #chat-list-tabs, #item-list-tabs,
+.prt-order-button .btn-order-sell,
+.prt-order-button .btn-order-container,
+.cnt-present .btn-tabs,
+.btn-get-all,
+.cnt-base-status .btn-base-chenge,
+.prt-follow-button-enhance .btn-follow-base,
+.prt-recommend-buttons .btn-recommend,
+.prt-current-job .btn-job-change,
+.prt-current-job .btn-ability-list,
+.btn-reset-bonus[data-location-href^="zenith/reset_bonus/"],
+.prt-symbolmark .btn-symbolmark-l,
+.prt-npc .btn-index-all-setting,
+.prt-job-button .btn-job-change,
+#pop-deck .prt-select .btn-deck-cancel,
+.prt-zenith-button .btn-zenith,
+.prt-set-poses .btn-set-poses,
+.prt-enhance-button .btn-enhance {
+  font-size: 0 !important;
+}
+.prt-enhance-button .btn-enhance::after,
+.prt-follow-button-enhance .btn-follow-base.js-location-enhancement-base::after {
+  content: "强化";
+  font-size: 12px;
+}
+.prt-set-poses .btn-set-poses::after {
+  content: "皮肤 · POSE 切换设置";
+  font-size: 12px;
+}
+.prt-zenith-button .btn-zenith::after {
+  content: "能力强化";
+  font-size: 12px;
+}
+.prt-module-evolution .btn-cancel::after,
+#pop-deck .prt-select .btn-deck-cancel::after {
+  content: "取消";
+  font-size: 12px;
+}
+.prt-job-button .btn-job-change::after {
+  content: "职业详情";
+  font-size: 12px;
+}
+.prt-npc .btn-index-all-setting::after {
+  content: "自动组队";
+  font-size: 12px;
+}
+.prt-symbolmark .btn-symbolmark-l::after {
+  content: "修改队伍图标";
+  font-size: 12px;
+}
+.btn-reset-bonus[data-location-href^="zenith/reset_bonus/"]::after {
+  content: "能力重置";
+  font-size: 12px;
+}
+.prt-current-job .btn-job-change::after {
+  content: "更换职业";
+  font-size: 12px;
+}
+.prt-current-job .btn-ability-list::after {
+  content: "职业状态";
+  font-size: 12px;
+}
+.prt-recommend-buttons .btn-recommend::after {
+  content: "自动选择";
+  font-size: 12px;
+}
+.cnt-base-status .btn-base-chenge::after {
+  font-size: 12px;
+}
+.prt-follow-button-enhance .btn-follow-base::after {
+  font-size: 12px;
+}
+.prt-module-evolution .btn-follow-base[data-location-href*="npc"]::after,
+.cnt-base-status .btn-base-chenge[data-location-href*="npc"]::after {
+  content: "更换角色";
+  font-size: 12px;
+}
+.cnt-base-status .btn-base-chenge[data-location-href*="/weapon"]::after {
+  content: "更换武器";
+}
+.cnt-base-status .btn-base-chenge[data-location-href*="/summon"]::after {
+  content: "更换召唤石";
+}
+.prt-module-enhancement .btn-follow-again::after {
+  content: "继续强化";
+  font-size: 12px;
+}
+.prt-follow-button-enhance .btn-follow-base.js-location-evolution-base::after,
+.prt-module-evolution .btn-follow-again::after {
+  content: "继续上限解放";
+  font-size: 12px;
+}
+.prt-follow-button-enhance .btn-follow-base[data-location-href*="/npc"]::after {
+  content: "更换角色";
+}
+.prt-follow-button-enhance .btn-follow-base[data-location-href*="/weapon"]::after {
+  content: "更换武器";
+}
+.prt-follow-button-enhance .btn-follow-base[data-location-href*="/summon"]::after {
+  content: "更换召唤石";
+}
+.btn-get-all::after {
+  content: "批量领取";
+  font-size: 12px;
+}
+.cnt-present .btn-tabs::after {
+  font-size: 14px;
+}
+.cnt-present .btn-tabs.infinite::before {
+  content: "无期限";
+  font-size: 14px;
+}
+.cnt-present .btn-tabs.termed::before {
+  content: "有期限";
+  font-size: 14px;
+}
+.cnt-present .btn-tabs.history::after {
+  content: "领取记录";
+}
+/* .prt-order-button .btn-order-sell[data-category="summon"]::after {
+  content: "出售召唤石";
+  font-size: 12px;
+}
+.prt-order-button .btn-order-sell[data-category="weapon"]::after {
+  content: "出售武器";
+  font-size: 12px;
+}
+.prt-order-button .btn-order-container[data-category="summon"]::after {
+  content: "召唤石移到仓库";
+  font-size: 12px;
+}
+.prt-order-button .btn-order-container[data-category="weapon"]::after {
+  content: "武器移到仓库";
+  font-size: 12px;
+} */
+#member-list-tabs::after {
+  content: "队友";
+  font-size: 14px;
+}
+#chat-list-tabs::after {
+  content: "聊天";
+  font-size: 14px;
+}
+#item-list-tabs::after {
+  content: "道具";
+  font-size: 14px;
+}
+.btn-character[data-location-href^="gacha"] .prt-character-small::after {
+  content: "角色详情";
+  font-size: 10px;
+}
+.prt-gacha-topic .btn-release-list::after {
+  content: "查看当前卡池角色列表";
+  font-size: 12px;
+}
+.btn-usual-appearance[data-href^="gacha/appear/legend/"]::after {
+  content: "出现概率";
+  font-size: 12px;
+}
+.btn-gacha-attention::after {
+  content: "抽卡帮助";
+  font-size: 12px;
+}
+.btn-title[data-href="title/add/advent/"]::after {
+  content: "活动称号";
+  font-size: 12px;
+}
+#main_story_tab::after {
+  font-size: 12px;
+  content: "主线剧情";
+}
+#event_story_tab::after {
+  font-size: 12px;
+  content: "活动";
+}
+#coop_story_tab::after {
+  font-size: 12px;
+  content: "其他";
+}
+.prt-condition .btn-quest::after {
+  font-size: 12px;
+  content: "解锁任务";
+}
+.btn-evolution[data-location-href^="evolution/"]::after {
+  font-size: 12px;
+  content: "上限解放";
+}
+.prt-error-infomation .btn-mypage::after {
+  font-size: 12px;
+  content: "主页";
+}
+#tab-npc::after {
+  font-size: 12px;
+  content: "角色";
+}
+#tab-weapon::after {
+  font-size: 12px;
+  content: "武器";
+}
+#tab-summon::after {
+  font-size: 12px;
+  content: "召唤石";
+}
+#tab-skin::after {
+  font-size: 12px;
+  content: "皮肤";
+}
+.prt-move-container .btn-container::after {
+  font-size: 12px;
+  content: "存入仓库";
+}
+.btn-decompose[data-location-href^="decompose/"]::after {
+  font-size: 12px;
+  content: "批量分解";
+}
+.prt-module-evolution, .btn-decompose-confirm:after,
+.btn-decompose[data-location-href^="detail/decompose/"]::after {
+  font-size: 12px;
+  content: "分解";
+}
+#tab-multi::after {
+  font-size: 14px;
+  content: "多人战";
+}
+#tab-event::after {
+  font-size: 14px;
+  content: "活动";
+}
+#tab-id::after {
+  font-size: 14px;
+  content: "输入ID";
+}
+.btn-usual-text[data-href="quest/assist/unclaimed"]::after {
+  font-size: 12px;
+  content: "未结算的战斗";
+}
+#btn-bug-list::after {
+  font-size: 12px;
+  content: "已知 BUG";
+}
+#cnt-arcarum-stage .cnt-division-list .prt-division-list .btn-move-division::after {
+  font-size: 12px;
+  content: "移动";
+}
+.popRestartQuest .btn-withdraw::after {
+  font-size: 12px;
+  content: "撤退";
+}
+
+/* ui */
+body .prt-scene-comment .prt-message-area {
+  padding: 20px 15px 0 25px;
+}
+
+@font-face {
+  font-family: 'yaheiSymbol';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Microsoft Yahei');
+  unicode-range: U+3000-303F, U+FF00-FFEF;
+}
+
+@font-face {
+  font-family: 'jpkana';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Yu Gothic');
+  unicode-range: U+30A0-30FF, U+3040-309F, U+31F0-31FF, U+0020-0204;
+}
+
+@font-face {
+  font-family: 'FZShuiYJW';
+  src: local('Microsoft Yahei');
+}
+
+@font-face {
+  font-family: 'blhxfywf';
+  src: local('Microsoft Yahei');
+}
+
+.prt-user-info .prt-info-profile .btn-user-name,
+.prt-user-name .txt-user-name {
+  font-family: jpkana, yaheiSymbol, "Microsoft Jhenghei", "Yu Gothic", "Meiryo", sans-serif !important;
+}
+
+.contents .scene-font-gray {
+  color: #b0aead
+}
+
+body .prt-request-info .txt-request {
+  overflow: visible;
+}
+
+#box-sub-blhxfy {
+  position: absolute;
+  top: 272px;
+  left: 0;
+  width: 260px;
+  margin: 0 30px;
+  box-sizing: border-box;
+  white-space: pre-line;
+  min-height: 24px;
+  z-index: 9999;
+  backface-visibility: hidden;
+  box-shadow: 0px 1px 2px 0px rgb(47, 34, 21, 0.66);
+  line-height: 1.4;
+  color: #2c2c2c;
+  font-size: 12px;
+  text-align: justify;
+  transition: opacity 0.5s;
+  opacity: 0;
+  pointer-events: none;
+}
+
+#box-sub-blhxfy > div {
+  background-color: #e9e6de;
+  padding: 10px 15px;
+  border-radius: 6px;
+  box-shadow: inset 0 0 5px 2px #98937b;
+  border: 1.2px solid #6e7270;
+  color: #333;
+}
+
+/* image */
+body .prt-chat-show .prt-global-chat-log .btn-chat-log,
+body .prt-global-chat-log .btn-chat-log {
+  background-image: url(../image/btn-chat-log.png)
+}
+body #cnt-room-index .prt-room-members .prt-view-menu .prt-global-chat-log .btn-chat-log {
+  background: url(../image/btn-chat-log-coop.png) no-repeat 0 1px;
+  background-size: 265px 27px;
+}
+
+body #wrapper .cnt-setting [id^=prt-setting-index] .btn-setting-graphics {
+  background: url(../image/setting-thumb.png?lacia) no-repeat 0 -180px;
+  background-size: 92px auto;
+}
+body #wrapper .cnt-setting [id^=prt-setting-index] .btn-setting-sound {
+  background: url(../image/setting-thumb.png?lacia) no-repeat 0 -360px;
+  background-size: 92px auto;
+}
+body #wrapper .cnt-setting [id^=prt-setting-index] .btn-setting-battle {
+  background: url(../image/setting-thumb.png?lacia) no-repeat 0 0;
+  background-size: 92px auto;
+}
+body #wrapper .cnt-setting [id^=prt-setting-index] .btn-setting-chat {
+  background: url(../image/setting-thumb.png?lacia) no-repeat 0 -300px;
+  background-size: 92px auto;
+}
+body #wrapper .cnt-setting [id^=prt-setting-index] .btn-setting-mypage {
+  background: url(../image/setting-thumb.png?lacia) no-repeat 0 -60px;
+  background-size: 92px auto;
+}
+body #wrapper .cnt-setting [id^=prt-setting-index] .btn-setting-public {
+  background: url(../image/setting-thumb.png?lacia) no-repeat 0 -240px;
+  background-size: 92px auto;
+}
+body #wrapper .cnt-setting [id^=prt-setting-index] .btn-setting-useful {
+  background: url(../image/setting-thumb.png?lacia) no-repeat 0 -420px;
+  background-size: 92px auto;
+}
+body #wrapper .cnt-setting [id^=prt-setting-index] .btn-setting-questuseful {
+  background: url(../image/setting-thumb.png?lacia) no-repeat 0 -120px;
+  background-size: 92px auto;
+}
+.comic-transtag-blhxfy {
+  position: absolute;
+  color: #c20d0d;
+  right: 11px;
+  font-weight: bold;
+  top: 11px;
+  text-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+  font-size: 0;
+  width: 14px;
+  height: 14px;
+  background: url(../image/star.png);
+  background-size: cover;
+}
+.btn-episode {
+  position: relative;
+}
+body .cnt-raid .prt-raid-log {
+  pointer-events: none;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+.autotrans-hint-blhxfy {
+  display: none;
+}
+.txt-message .autotrans-hint-blhxfy {
+  position: absolute;
+  top: 30px;
+  font-size: 10px;
+  right: 16px;
+  color: #2dc7ab;
+  display: block;
+  text-decoration: none;
+  font-style: italic;
+}
+.autotrans-hint-blhxfy.caiyun-blhxfy::before {
+  content: '(本节使用彩云小译机翻，可通过右上Log-设置关闭)'
+}
+.autotrans-hint-blhxfy.baidu-blhxfy::before {
+  content: '(本节使用百度机翻，可通过右上Log-设置关闭)'
+}
+.autotrans-hint-blhxfy.google-blhxfy::before {
+  content: '(本节使用Google翻译机翻，可通过右上Log-设置关闭)'
+}
+.autotrans-hint-blhxfy.translator-blhxfy::before {
+  content: attr(data-text);
+}
+.txt-message .autotrans-hint-blhxfy.translator-blhxfy {
+  color: #8bc34a;
+  font-style: normal;
+}
+.blhxfy-btn-origin-text {
+  position: absolute;
+  width: 64px;
+  height: 105px;
+  top: 26px;
+  left: 8px;
+  z-index: 1;
+}
+.blhxfy-origin-text {
+  position: absolute;
+  top: 42px;
+  left: 25px;
+  width: 280px;
+  display: none;
+  white-space: pre-line;
+}
+.blhxfy-origin-text:before {
+  content: attr(data-text)
+}
+.blhxfy-btn-origin-text:hover ~ .prt-message-area .txt-message {
+  font-size: 0;
+}
+.blhxfy-btn-origin-text:hover ~ div,
+.blhxfy-btn-origin-text:hover ~ div * {
+  font-family: inherit !important;
+}
+.blhxfy-btn-origin-text:hover ~ .prt-message-area .blhxfy-origin-text {
+  display: block;
+  font-size: 14px;
+}
+.cnt-detail #box-sub-blhxfy {
+  top: 248px;
+}
+
+.block-story-only {
+  position: absolute;
+  top: 100px;
+  left: 5px;
+}
+
+.note-blhx {
+  margin: 0 0.2em;
+  cursor: help;
+  border-bottom: 0.5px dashed #dad6d6;
+}
+
+.note-blhx+.note-blhx{
+  margin-left:-0.2em;
+}
+
+body #loading, body #ready, body #opaque-mask {
+  height: 100%;
+  bottom: auto;
+}
+
+body .active-mask#multi-btn-mask {
+  height: 84px;
+}
+
+body .cnt-raid {
+  padding-bottom: 20px;
+}

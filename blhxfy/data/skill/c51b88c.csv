@@ -1,0 +1,8 @@
+id,name,detail
+npc,卢西乌斯,3040254000
+special,绝・白刃一扫,<div class=prt-text-small>暗属性伤害(特大)/灼热/下一次白刃斩击与恶鬼无骨发动2次</div>
+skill-1,白刃炎斩,<div class=prt-text-small>对敌方单体造成暗属性攻击/对灼热状态的敌人追加伤害</div>
+skill-2,恶鬼无骨,<div class=prt-text-small>对敌方全体造成暗属性攻击/施加暗属性防御DOWN(累积)</div>
+skill-3,急・改,<div class=prt-text-small>对敌方单体造成暗属性攻击/自身可立即发动奥义/其它技能可立即使用</div>
+support-1,圣剑的继承者,使用伤害技能时鬼滅层数上升(最大6层)<br><span class=text-blue>◆根据鬼滅层数对应攻击UP/奥义性能UP</span>
+support-2,无间斩击,随着战斗回合数自身获得连击率UP

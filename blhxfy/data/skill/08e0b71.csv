@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,芙罗伦斯,3040299000
+special,,风属性伤害(特大)/驱散1种强化效果/自身获得狂风刻印
+skill-1,,敌方全体攻击DOWN/连击率DOWN/命中率DOWN
+skill-2,,<div class=prt-text-small>我方全体土属性伤害40%减轻/承伤转变为土属性/赋予狂风刻印<span class=text-blue>◆狂风刻印3层以上时，追加再生效果</span></div>
+skill-3,,<div class=prt-text-small>单体风属性角色可即刻发动奥义/即刻使用技能<span class=text-blue>◆消耗5层狂风刻印</span></div>
+support-1,,自身剩余HP越多，我方全体攻击大幅UP
+support-2,,<div class=prt-text-small>风属性角色根据各自狂风刻印层数，弱体成功率UP<span class=text-blue>◆自身处于后排时同样发动</span></div>
+skill-lb,LB技能,普攻有几率赋予自身1层狂风刻印
+intro,,

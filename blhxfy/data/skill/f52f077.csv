@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,艾丽卡,3040421000
+special,,水属性伤害(特大)/技能2可即刻使用/获得「指令」
+skill-1,,<div class=prt-text-small>自身以外单体水属性角色可不计入回合地发动普攻<span class=text-blue>◆消耗「指令」可再次使用该技能</span></div>
+skill-2,,单体水属性角色的技能cd缩短1回合/暴击率UP/会心效果/普攻伤害UP
+skill-3,,驱散敌方单体1种强化效果/防御DOWN/水属性防御DOWN
+support-1,,<div class=prt-text-small>攻击力低但不易成为敌人目标<span class=text-blue>◆未承伤的回合结束时回复水属性角色HP(上限500)/奥义值10%UP</span></div>
+support-2,,自身以外水属性角色不计入回合普攻时发动掩护射击
+skill-lb,LB技能,
+intro,新生的少女,

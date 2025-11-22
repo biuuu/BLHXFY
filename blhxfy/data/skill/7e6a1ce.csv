@@ -1,0 +1,8 @@
+﻿id,name,detail
+npc,梅格&玛丽佩,3040482000
+special,狂战鲨袭来,暗属性伤害(特大)/技能3可即刻使用
+skill-1,加油梅格！,<div class=prt-text-small>自身获得「幸运石」效果/消去「鲨鱼发射器」效果<span class=text-blue>◆「幸运石」效果中攻防UP/必定三连击/回合结束时回复自身HP/奥义值20%</span></div>
+skill-2,我也上了，梅格！,<div class=prt-text-small>自身获得「鲨鱼发射器」效果/消去「幸运石」效果<span class=text-blue>◆「鲨鱼发射器」效果中普攻时对敌方全体造成3次暗属性伤害/攻防DOWN/暗属性防御DOWN(累积)</span></div>
+skill-3,星晶涡潮,对敌方全体造成4次暗属性伤害/赋予2种随机弱体效果
+support-1,非常普通的女孩,<div class=prt-text-small>并肩作战的伙伴越多，守护奥古斯都的意志越强<span class=text-blue>◆根据战斗成员数量自身攻击UP/奥义值上升量UP/技能伤害上限UP</span></div>
+support-2,普通是什么来着,赋予敌人的弱体效果最大数量在5以上时，技能3发动2次

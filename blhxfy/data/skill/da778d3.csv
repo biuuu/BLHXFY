@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,菲奥莉托,3040435000
+special,,暗属性伤害(特大)/技能2可即刻使用
+skill-1,,<div class=prt-text-small>对敌方单体造成暗属性伤害/自身获得随机强化效果<span class=text-blue>◆装备的「格斗」武器越多，伤害性能UP/强化效果数量追加</span></div>
+skill-2,,牺牲自身HP，回合中进行2次攻击行动
+skill-3,,自身其他技能可即刻使用/自身获得「圣诞块乐」效果<span class=text-blue>◆塑形Lv5时可使用</span>
+support-1,,<div class=prt-text-small>暗属性角色使用消耗HP/最大HP的能力时，该角色塑形Lv上升1(最大5)<span class=text-blue>◆</span>处于后排时同样发动</div>
+support-2,,<div class=prt-text-small>暗属性角色根据各自塑形Lv攻防UP/伤害上限UP<span class=text-blue>◆</span>处于后排时同样发动</div>
+skill-lb,LB技能,
+intro,,

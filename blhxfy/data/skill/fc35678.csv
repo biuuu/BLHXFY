@@ -1,0 +1,14 @@
+﻿id,name,detail
+npc,灰夫人,3040005000
+special,禁忌的爱人,暗属性伤害(特大)
+special-ボーン・デスワルツ,死亡华尔兹,暗属性伤害(特大)/对处于中毒效果的目标进行技能追击造成暗属性伤害
+special-Death March,死亡华尔兹,暗属性伤害(特大)/对处于中毒效果的目标进行技能追击造成暗属性伤害
+skill-1,黑暗,<div class=prt-text-small>对敌方单体造成暗属性伤害/减速效果<span class=text-blue>◆对处于10个以上弱化效果的目标该技能发动2次</span></div>
+skill-2,深入,敌方单体获得防御力DOWN/暗属性防御力DOWN
+skill-2++,深入,<div class=prt-text-small>驱散敌方单体1个强化效果/防御力DOWN/暗属性防御力DOWN</div>
+skill-3,祸源,对敌方单体造成暗属性伤害/中毒效果
+skill-カラミティベイン,灾厄祸源,<div class=prt-text-small>对敌方全体造成暗属性伤害/中毒效果/麻痹效果/承受伤害UP</div>
+support-1,爱憎的冲动,自身根据目标弱化效果数量获得奥义性能UP
+support-2,黑结界,我方全体弱化抗性UP/战斗开始时我方暗属性角色获得弱化无效(1次)<br><span class=text-blue>◆仅前排有效</span>
+skill-lb,LB技能,自身概率将回合类伤害转化为HP回复
+intro,心眼的双葬女,真爱已逝往黄泉彼岸。死而复生的爱变得愈发强烈，驱使她学会了操纵死灵的方法。但她身上却没有丝毫悲壮之感。作为淑女的她，脸上总是挂着明朗的笑容。

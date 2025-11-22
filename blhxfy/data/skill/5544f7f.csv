@@ -1,0 +1,9 @@
+id,name,detail
+npc,战争三女神,3040218000
+special,三相之翼,<div class=prt-text-small>风属性伤害(特大)/我方全体风属性攻击UP/土属性伤害减免</div>
+skill-1,图哈德达南,<div class=prt-text-small>对敌方造成8倍风属性伤害/驱散1个强化效果</div>
+skill-2,胜利,<div class=prt-text-small>自身以外的指定风属性单体获得胜利效果<br><span class=text-blue>◆同时只能赋予1人</span></div>
+skill-3,尼曼,<div class=prt-text-small>我方全体获得反射(3回)<br><span class=text-blue>◆处于胜利效果中的角色获得分身(1次)</span></div>
+support-1,荣耀与死亡的螺旋,我方其它角色战斗不能时，自身技能即刻可用
+support-2,依偎英雄之兽,处于胜利效果中的角色攻击力UP/TA几率UP
+skill-lb,LB技能,我方全体获得土属性伤害减轻

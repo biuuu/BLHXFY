@@ -1,0 +1,9 @@
+id,name,detail
+npc,红月卡莲,3040221000
+special,辐射波动机构,<div class=prt-text-small>火属性伤害(特大)/自身防御DOWN/重置辐射波动层数<br><span class=text-blue>◆根据辐射波动层数奥义性能UP</span></div>
+skill-1,43mm榴弹发射器,<div class=prt-text-small>对敌方单体造成火属性攻击/施加重力</div>
+skill-2,干扰烟雾弹,<div class=prt-text-small>对敌方全体施加黑暗/连击率DOWN</div>
+skill-3,红的斗志,<div class=prt-text-small>自身火属性攻击力UP/暴击率UP/增加1层辐射波动</div>
+support-1,人形自在战斗装甲骑,自身最大HPUP/防御力UP/奥义值DOWN
+support-2,黑之骑士团 零番队队长,<br>每回合辐射波动层数上升(最大5层)<span class=text-blue>◆根据辐射波动从层数对应伤害上限/火属性追击</span>
+skill-lb,LB技能,处于火属性攻击力UP时，自身连击率UP

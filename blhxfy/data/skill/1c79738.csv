@@ -1,0 +1,9 @@
+id,name,detail
+npc,猫,3020072000
+special,必杀猫猫拳,<div class=prt-text-small>自属性伤害(小)/我方全体HP回复(上限500)<br><span class=text-blue>◆根据「好心情」层数获得回复上限UP(最大1250)</span></div>
+skill-1,喵——！,<div class=prt-text-small>我方其他角色获得奥义值UP(5%)<br><span class=text-blue>◆根据「好心情」层数获得奥义值UP(最大20%)</span></div>
+skill-2,喵？,敌方单体获得攻防DOWN/魅惑效果
+support-1,摸摸,<div class=prt-text-small>自身拥有「好心情」(最大3层)/受到我方回复技能或强化技能时概率获得1层「好心情」/受到伤害的回合消耗1层「好心情」<br><span class=text-blue>◆获得「好心情」时自身技能使用间隔缩短1回合</span></div>
+skill-sub,小小骑空士,我方全体获得防御力UP/回合结束时概率获得奥义值UP(10%)
+skill-lb,LB技能,回合结束时自身概率获得1层「好心情」
+intro,年轻的自由猫,年轻的猫儿见识到某个男人的生活方式，自己也踏上了探索“自由”的空之旅途。

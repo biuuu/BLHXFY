@@ -1,0 +1,37 @@
+id,trans
+filename,scene_evt200729_trust6
+translator,Van
+info,scene_evt200729_trust6
+43,<span class='scene-font-spword'>梅格的信赖度上升了50！！</span>
+41,梅格你还是个武斗派啊！
+40,是啊。<br>不管是吃的方面还是怎么样，<br>我都想向电鳗报仇啊！
+39,话说回来，<br>我之前都没吃到鳗鱼呢……
+31,希、希拉斯……<br>在那里我被电鳗电了……
+29,<span class='scene-font-spword'>梅格的信赖度上升了75！！</span>
+27,冷、冷静点，玛丽丽……<br>你怎么了啊……？
+26,<span class='scene-font-4'>哈！？</span><br>喂喂喂，那是怎么回事！？<br>是哪来的臭男人啊！！
+25,话说回来，我在那里<br>好像经历了我人生的第一次搭讪啊。
+24,是个不错的地方呢。<br>你推荐的是高级的度假胜地，这是在是……
+23,那确实要最推荐的话就是金星海滩呢。
+21,<span class='scene-font-spword'>梅格的信赖度上升了100！！</span>
+19,梅格……
+18,当然啊！<br>我的<span class='scene-font-place'>奥古斯提</span>度假<br>可不能没有玛丽丽啊！
+17,诶……你是在邀请我吗？
+16,玛丽丽，我们下次<br>就一起去特诺西岛吧！
+15,寿司啊……<br>好想吃吃看呢……<br>是一种怎么样的食物啊？
+14,诶～！<br>我都不知道呢。
+13,是从金星海滩坐船过去吗？
+12,诺西岛？<br>那是在哪啊？ 那座岛……
+10-sel3_txt,<span class='scene-font-katari'>去希拉斯岛吃鳗鱼</span>
+10-sel2_txt,<span class='scene-font-katari'>一等度假地金星海滩</span>
+10-sel1_txt,<span class='scene-font-katari'>去托诺西岛吃寿司</span>
+10,姬塔，<br>在<span class='scene-font-place'>奥古斯提</span>有什么好玩的地方向我们推荐吗？
+9,啊，也是哦！<br>毕竟骑空团经常都会来这里。
+8,我在问姬塔<span class='scene-font-place'>奥古斯提</span><br>有什么推荐去游玩的地方。<br>你不也很想知道嘛？
+7,真的吗……？<br>不过我很在意啊～……
+6,没有没有。<br>只是在聊些日常，你别担心啦。
+5,诶，那是啥！？<br>在聊我丢脸的事情吗？
+4,呵呵！<br>我在和姬塔<br>聊着关于你的话题呢
+3,你们两个怎么了啊？<br>突然间人就不见了<br>我还在找你们呢。
+1,<span class='scene-font-katari'>就在姬塔</span><br><span class='scene-font-katari'>和玛丽丽说着话的时候</span><br><span class='scene-font-katari'>梅格出现了。</span>
+0-chapter_name,喜欢的地方
