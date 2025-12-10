@@ -1,13 +1,13 @@
 ﻿id,en,jp,trans
 0-chapter_name,,第5章　燈の島,第5章  灯之岛
-0-synopsis,,ドランク、スツルムからの手紙に従い、<span class='scene-font-place'>バルツ公国</span>を訪れた<span>姬塔</span>一行。鉄鋼業で栄えるドラフの島では、とある事件が<span>姬塔</span>達を待ち構えていた。,看了德朗克与斯特姆留下的信，<span>姬塔</span>一行来到了<span class='scene-font-place'>瓦尔兹公国</span>。在这个靠钢铁产业繁荣发展的牛角族岛屿，早有事件等待着姬塔</span>等人。
+0-synopsis,,ドランク、スツルムからの手紙に従い、<span class='scene-font-place'>バルツ公国</span>を訪れた<span>姬塔</span>一行。鉄鋼業で栄えるドラフの島では、とある事件が<span>姬塔</span>達を待ち構えていた。,看了德朗克与斯特姆留下的信，<span>姬塔</span>一行来到了<span class='scene-font-place'>瓦尔兹公国</span>。在这个靠钢铁产业繁荣发展的多拉夫族岛屿，早有事件等待着姬塔</span>等人。
 1,,"<span class='scene-font-katari'>謎の手紙と好奇心を道標に</span><br>
 <span class='scene-font-place'>バルツ公国</span><span class='scene-font-katari'>へと辿り着いた一同を、</span><br>
 <span class='scene-font-katari'>煙突の並ぶ赤茶けた大地が出迎えた。</span>",<span class='scene-font-katari'>在神秘信件与好奇心的指引下，一行人来到</span><br><span class='scene-font-place'>瓦尔兹公国。</span><span class='scene-font-katari'>迎接他们的是高耸的烟囱与棕红的土地。</span>
 4,,"ふ～ん、さすが群島界の工場、<br>
 活気があるねぇ。<br>
-ドラフ族の人が多いや。",嘿，不愧是群岛界的工厂，生机勃勃啊。这里牛角族的人可真多。
-5,,鉄の職人と言えば、ドラフだからな。,毕竟牛角族是最好的铁匠啊。
+ドラフ族の人が多いや。",嘿，不愧是群岛界的工厂，生机勃勃啊。这里多拉夫族的人可真多。
+5,,鉄の職人と言えば、ドラフだからな。,毕竟多拉夫族是最好的铁匠啊。
 6,,"……というか、なにか<br>
 空気がピリピリしてるな？",……不过，你们有没有觉得这里的氛围有些紧张？
 7,,"そうですね、姬塔<br>
@@ -36,7 +36,7 @@
 <span class='scene-font-1'>エージェントと接触して下さい～</span>",<span class='scene-font-1'>因为是一项机密任务，请你们去指定地点，与这个岛，<span class='scene-font-place scene-font-1'>瓦尔兹公国</span><span class='scene-font-1'>的特工接头～</span>
 19,,"あと、今は街中が物騒なので<br>
 お気を付け下さい～<br>
-私もマークされてるっぽいので～",另外，现在城里也不太平呐，务必多加小心哦〜我好像也被盯上了呢〜
+私もマークされてるっぽいので～",另外，现在城里也不太平呐，务必多加小心哦～我好像也被盯上了呢～
 20,,"お前なぁ、いきなり<br>
 そんな危ない仕事を……",你啊，怎么突然就给我们介绍这么危险的工作……
 info,,1,scene_cp5_q1_s10
