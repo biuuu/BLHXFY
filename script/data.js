@@ -8,14 +8,38 @@ const pako = require('pako')
 
 const cyweb_token = 'qgemv4jr1y38jyq6vhvi'
 
+// 简单的并发限制实现，防止 EMFILE 错误
+const pLimit = (limit) => {
+  const queue = []
+  let activeCount = 0
+  const next = () => {
+    activeCount--
+    if (queue.length > 0) queue.shift()()
+  }
+  return (fn) => new Promise((resolve, reject) => {
+    const run = () => {
+      activeCount++
+      fn().then(resolve).catch(reject).finally(next)
+    }
+    if (activeCount < limit) run()
+    else queue.push(run)
+  })
+}
+
+const limit = pLimit(100) // 限制同时打开 100 个文件
+
+// 缓存 MD5 以减少重复计算
+const md5Cache = new Map()
+const getMd5 = async (file) => {
+  if (md5Cache.has(file)) return md5Cache.get(file)
+  const hash = (await md5(file)).slice(0, 7)
+  md5Cache.set(file, hash)
+  return hash
+}
+
 const readCsv = async (csvPath, silence) => {
   try {
-    const data = await new Promise((rev, rej) => {
-      fse.readFile(csvPath, 'utf-8', (err, data) => {
-        if (err) rej(err)
-        rev(data)
-      })
-    })
+    const data = await fse.readFile(csvPath, 'utf-8')
     return CSV.parse(data.replace(/^\ufeff/, ''), { header: true }).data
   } catch (err) {
     if (!silence) {
@@ -28,12 +52,7 @@ const readCsv = async (csvPath, silence) => {
 const writeCsv = async (csvPath, list) => {
   try {
     const text = CSV.unparse(list)
-    await new Promise((rev, rej) => {
-      fse.writeFile(csvPath, text, (err) => {
-        if (err) rej(err)
-        rev()
-      })
-    })
+    await fse.writeFile(csvPath, text)
   } catch (err) {
     console.error(`写入csv失败：${err.message}\n${err.stack}`)
   }
@@ -46,57 +65,54 @@ const collectStoryId = async () => {
   const titleSet = new Set()
   const result = []
   await fse.ensureDir('./dist/blhxfy/data/story/')
-  const prims = files.map(async file => {
-    const list = await readCsv(file)
+  
+  const prims = files.map(file => limit(async () => {
+    const [list, csvHash] = await Promise.all([
+      readCsv(file),
+      getMd5(file)
+    ])
+
     const shortList = []
-    let translatorName = ''
-    let csvHash = ''
     shortList.push({
       id: 'filename',
       trans: path.basename(file, '.csv')
     })
+
+    let infoLoaded = false
     for (let i = list.length - 1; i >= 0; i--) {
-      let infoLoaded = false
-      if (list[i].id && list[i].trans && list[i].id !== '译者') {
+      const row = list[i]
+      if (row.id && row.trans && row.id !== '译者') {
         shortList.push({
-          id: list[i].id,
-          trans: list[i].trans
+          id: row.id,
+          trans: row.trans
         })
       }
-      if (!infoLoaded && list[i].id === 'info') {
-        if (list[i].trans) {
-          const name = list[i].trans.trim()
+      if (!infoLoaded && row.id === 'info') {
+        if (row.trans) {
+          const name = row.trans.trim()
           if (name) {
-            try {
-              csvHash = (await md5(file)).slice(0, 7)
-              // await fse.copy(file, `./dist/blhxfy/data/story/${hash}.csv`, {
-              //   overwrite: false, errorOnExist: true
-              // })
-              result.push([name, file.replace(/^\.\/data\/scenario\//, ''), `${csvHash}.csv`])
-              infoLoaded = true
-            } catch (e) {
-              console.log(e.message)
-            }
+            result.push([name, file.replace(/^\.\/data\/scenario\//, ''), `${csvHash}.csv`])
+            infoLoaded = true
           }
         }
-      } else if (/\d-chapter_name/.test(list[i].id)) {
-        if (list[i].trans) {
-          const trans = list[i].trans.trim()
-          let title = list[i].text || list[i].jp
+      } else if (/\d-chapter_name/.test(row.id)) {
+        if (row.trans) {
+          const trans = row.trans.trim()
+          let title = row.text || row.jp
           title = title.trim()
           if (!titleSet.has(title) && title && trans) {
             titleSet.add(title)
             chapterName.push([title, trans])
           }
         }
-      } else if (list[i].id === '译者') {
+      } else if (row.id === '译者') {
         let arr = []
-        for (let key in list[i]) {
-          if (key !== 'id' && list[i][key]) {
-            arr.push(list[i][key])
+        for (let key in row) {
+          if (key !== 'id' && row[key]) {
+            arr.push(row[key])
           }
         }
-        translatorName = arr.join('-')
+        const translatorName = arr.join('-')
         if (translatorName) {
           shortList.push({
             id: 'translator',
@@ -108,8 +124,10 @@ const collectStoryId = async () => {
     if (csvHash) {
       await writeCsv(`./dist/blhxfy/data/story/${csvHash}.csv`, shortList)
     }
-  })
+  }))
+  
   await Promise.all(prims)
+  
   const storyData = {}
   const storyDataPast = {}
   result.forEach(item => {
@@ -120,23 +138,25 @@ const collectStoryId = async () => {
   })
   let storyc = pako.deflate(JSON.stringify(storyData), { to: 'string' })
   let storyp = pako.deflate(JSON.stringify(storyDataPast), { to: 'string' })
-  await fse.writeJson('./dist/blhxfy/data/story.json', storyp)
-  await fse.writeJson('./dist/blhxfy/data/story-map.json', storyc)
-  await fse.writeJSON('./dist/blhxfy/data/chapter-name.json', chapterName)
+  await Promise.all([
+    fse.writeJson('./dist/blhxfy/data/story.json', storyp),
+    fse.writeJson('./dist/blhxfy/data/story-map.json', storyc),
+    fse.writeJSON('./dist/blhxfy/data/chapter-name.json', chapterName)
+  ])
 }
 
 const collectSkillId = async () => {
   console.log('skill...')
-  await fse.emptyDir('./dist/blhxfy/data/skill/')
+  await fse.ensureDir('./dist/blhxfy/data/skill/')
   const files = await glob('./data/skill/**/*.csv')
-  const prims = files.map(async file => {
+  const prims = files.map(file => limit(async () => {
     const list = await readCsv(file)
     for (let i = 0; i < list.length; i++) {
       if (list[i].id === 'npc') {
         if (list[i].detail) {
           const id = list[i].detail.trim()
           if (id) {
-            const hash = (await md5(file)).slice(0, 7)
+            const hash = await getMd5(file)
             await fse.copy(file, `./dist/blhxfy/data/skill/${hash}.csv`, {
               overwrite: false, errorOnExist: true
             })
@@ -145,7 +165,7 @@ const collectSkillId = async () => {
         }
       }
     }
-  })
+  }))
   const result = await Promise.all(prims)
   const skillData = {}
   result.forEach(item => {
@@ -158,20 +178,17 @@ const collectSkillId = async () => {
 
 const collectBattleNoteId = async () => {
   console.log('battle note...')
-  const files = await glob('./dist/blhxfy/data/battle/note/**/*.note.csv')
-  const prims = files.map(async file => {
+  const files = await glob('./data/battle/note/**/*.note.csv') // 改为从源码读
+  const prims = files.map(file => limit(async () => {
     let rgs = file.match(/quest-(\d+)\.note\.csv/)
     if (rgs && rgs[1]) {
-      const hash = (await md5(file)).slice(0, 7)
-      await fse.move(file, `./dist/blhxfy/data/battle/${hash}.csv`, {
-        overwrite: false, errorOnExist: true
-      })
+      const hash = await getMd5(file)
+      await fse.copy(file, `./dist/blhxfy/data/battle/${hash}.csv`) // 改为 copy
       return [rgs[1], hash]
     }
-  })
+  }))
   const result = await Promise.all(prims)
   const battleNoteData = {}
-  const battleNoteDataPast = {}
   result.forEach(item => {
     if (item && item[0] && item[1]) {
       battleNoteData[item[0]] = item[1]
@@ -184,15 +201,16 @@ const collectVoice = async () => {
   console.log('voice...')
   const files = await glob('{./data/scenario/**/voice.csv,./data/voice.csv}')
   let voiceList = []
-  const prims = files.map(file => {
-    return readCsv(file).then(list => {
-      voiceList = voiceList.concat(list.filter(item => item.path))
-    })
-  })
+  const prims = files.map(file => limit(async () => {
+    const list = await readCsv(file)
+    voiceList = voiceList.concat(list.filter(item => item.path))
+  }))
   await Promise.all(prims)
   const csv = CSV.unparse(voiceList)
-  await fse.outputFile('./dist/blhxfy/data/voice-mypage.csv', csv)
-  await fse.outputFile('./dist/blhxfy/data/voice.csv', csv)
+  await Promise.all([
+    fse.outputFile('./dist/blhxfy/data/voice-mypage.csv', csv),
+    fse.outputFile('./dist/blhxfy/data/voice.csv', csv)
+  ])
 }
 
 const getDate = (offset = 0) => {
@@ -212,13 +230,13 @@ const md5File = async () => {
     nodir: true, cwd: path.resolve(process.cwd(), './dist/blhxfy/data/')
   })
   const data = {}
-  const prms = files.map(file => {
-    return md5(path.resolve(process.cwd(), './dist/blhxfy/data/', file)).then(hash => {
-      data[file] = hash.slice(0, 7)
-    })
-  })
-  const cssMd5 = await md5('./dist/blhxfy/data/static/style/BLHXFY.css')
-  data['BLHXFY.css'] = cssMd5.slice(0, 7)
+  const prms = files.map(file => limit(async () => {
+    const fullPath = path.resolve(process.cwd(), './dist/blhxfy/data/', file)
+    const hash = await getMd5(fullPath)
+    data[file] = hash
+  }))
+  const cssMd5 = await getMd5('./dist/blhxfy/data/static/style/BLHXFY.css')
+  data['BLHXFY.css'] = cssMd5
   await Promise.all(prms)
   return data
 }
@@ -229,32 +247,37 @@ const start = async () => {
   console.log(hash)
   const date = getDate(8)
 
-  console.log('move data files...')
-  await fse.copy('./data/', './dist/blhxfy/data/')
+  console.log('move static files...')
+  // 只复制静态资源和必要的子目录，跳过 scenario 这种巨大的处理目录
+  await Promise.all([
+    fse.copy('./data/static/', './dist/blhxfy/data/static/'),
+    fse.copy('./src/lacia.html', './dist/blhxfy/lacia.html')
+  ])
 
   console.log('move etc...')
-  const etcFiles = await glob('./dist/blhxfy/data/etc/**/*.csv')
-  for (let file of etcFiles) {
-    const name = path.basename(file)
-    await fse.move(file, `./dist/blhxfy/data/${name}`)
-  }
+  const etcFiles = await glob('./data/etc/**/*.csv')
+  const rootCsvFiles = await glob('./data/*.csv')
+  
+  const moveFiles = [
+    ...etcFiles.map(file => ({ file, name: path.basename(file) })),
+    ...rootCsvFiles.map(file => ({ file, name: path.basename(file) }))
+  ]
 
-  console.log('move iframe...')
-  await fse.copy('./src/lacia.html', './dist/blhxfy/lacia.html')
+  await Promise.all(moveFiles.map(({ file, name }) => limit(async () => {
+    return fse.copy(file, `./dist/blhxfy/data/${name}`)
+  })))
 
-  await collectBattleNoteId()
-
-  await collectStoryId()
-
-  await collectSkillId()
-
-  await collectVoice()
+  // 并行执行所有的 collection 任务，全部从源码目录读取
+  await Promise.all([
+    collectBattleNoteId(),
+    collectStoryId(),
+    collectSkillId(),
+    collectVoice()
+  ])
 
   const hashes = await md5File()
 
   await fse.writeJSON('./dist/blhxfy/manifest.json', { hash, version, date, hashes, cyweb_token })
-
-  await fse.emptyDir('./dist/blhxfy/data/scenario/')
 }
 
 if (require.main === module) {
