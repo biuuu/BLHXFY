@@ -6,10 +6,8 @@
   "scripts": {
     "build": "node ./script/build.js",
     "data": "node ./script/data.js",
-    "deploy": "npm run build && npm run data && node ./script/deploy.js",
     "deployc": "node ./script/index.js",
-    "travis_deploy": "cross-env TRAVIS=true npm run deploy",
-    "deploy_action": "cross-env CUSTOM_DOMAIN=true GITHUB_ACTION=true npm run deploy",
+    "deploy_action": "cross-env CUSTOM_DOMAIN=true GITHUB_ACTION=true npm run build && npm run data && node ./script/deploy.js",
     "server": "node ./script/server.js",
     "dev": "node ./script/dev.js"
   },
@@ -41,7 +39,6 @@
     "cross-env": "^10.1.0",
     "esbuild": "^0.27.3",
     "fs-extra": "^11.3.4",
-    "gh-pages": "^6.3.0",
     "md5-file": "^5.0.0",
     "rollup": "^2.80.0",
     "rollup-plugin-esbuild": "^6.2.1",
