@@ -27,8 +27,11 @@ const config = {
   showTranslator: true,
   log: false,
   localHash: '',
-  transJa: true,
-  transEn: true,
+  traditionalTrans: true,
+  aiTrans: false,
+  aiApiKey: '',
+  aiApiEndpoint: '',
+  aiModel: '',
   originText: false,
   defaultFont: false,
   cacheTime: 30,
@@ -46,14 +49,20 @@ const getLocalConfig = () => {
   if (LOCAL_HOST) {
     config.origin = 'http://127.0.0.1:15945'
   }
+  
+  // 兼容旧设置：如果存在 transJa 或 transEn 且为 true，则开启 traditionalTrans
+  if (setting.transJa === true || setting.transEn === true) {
+    config.traditionalTrans = true
+  }
+
   const keys = [
     'autoDownload', 'bottomToolbar', 'displayName', 'removeScroller', 'hideSidebar', 'originText', 'storyOnly', 'showTranslator',
-    'transJa', 'transEn', 'font', 'fontBold', 'plainText', 'battleTrans', 'log', 'defaultFont'
+    'traditionalTrans', 'aiTrans', 'aiApiKey', 'aiApiEndpoint', 'aiModel', 'font', 'fontBold', 'plainText', 'battleTrans', 'log', 'defaultFont'
   ]
   keys.forEach(key => {
     let value = setting[key]
     if (isString(value)) value = filter(value.trim())
-    if (isBoolean(value) || value) {
+    if (isBoolean(value) || (value !== undefined && value !== null)) {
       config[key] = value
     }
   })

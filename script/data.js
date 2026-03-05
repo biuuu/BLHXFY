@@ -278,6 +278,10 @@ const start = async () => {
   const hashes = await md5File()
 
   await fse.writeJSON('./dist/blhxfy/manifest.json', { hash, version, date, hashes, cyweb_token })
+
+  if (process.env.CUSTOM_DOMAIN) {
+    await fse.outputFile('./dist/CNAME', 'blhx.danmu9.com')
+  }
 }
 
 if (require.main === module) {

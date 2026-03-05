@@ -47,9 +47,12 @@ const build = async function (type = '') {
     'run-at': 'document-body',
     grant: 'GM_xmlhttpRequest',
     connect: [
-      'translate.google.cn',
       'api.interpreter.caiyunai.com',
-      'fanyi.baidu.com'
+      'api.openai.com',
+      'api.anthropic.com',
+      'api.deepseek.com',
+      'generativelanguage.googleapis.com',
+      'openrouter.ai'
     ],
     updateURL: `https://blhx.danmu9.com/blhxfy/extension${type ? '.' + type : ''}.user.js`,
     supportURL: 'https://github.com/biuuu/BLHXFY/issues'

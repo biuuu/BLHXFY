@@ -34,6 +34,11 @@ const template = `
 #blhxfy-setting-modal input[type=text]::placeholder {
   color: #aaa;
 }
+.autotrans-hint-blhxfy.ai-blhxfy:after {
+  content: "AI";
+  background-color: #4d6671;
+  color: #fff;
+}
 </style>
 <div id="blhxfy-setting-modal">
 <div class="cnt-setting">
@@ -43,8 +48,8 @@ const template = `
 		<div class="txt-setting-title">插件设置</div>
 
 		<div class="block-story-only prt-button">
-		<input id="story-only-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'story-only', this.checked)" type="checkbox" value="">
-		<label for="story-only-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">只翻译剧情</label>
+			<input id="story-only-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'story-only', this.checked)" type="checkbox" value="">
+			<label for="story-only-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">只翻译剧情</label>
 		</div>
 
 		<div class="prt-setting-frame">
@@ -74,17 +79,39 @@ const template = `
 			<div class="prt-setting-article">
 				<div class="txt-article-title">机翻设置</div>
 				<ul class="txt-article-lead">
-					<li>在一些使用场景下，可能不会生效</li>
+					<li>在没有人工翻译的情况下尝试机翻</li>
 				</ul>
-				<div class="prt-button">
-					<div>
-						<input id="trans-ja-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'trans-ja', this.checked)" type="checkbox" value="">
-						<label for="trans-ja-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">日语机翻</label>
+				<div class="prt-button" style="display:flex;flex-wrap:wrap;">
+					<div style="width:100%">
+						<input id="ai-trans-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'ai-trans', this.checked); document.getElementById('ai-settings-group').style.display = this.checked ? 'block' : 'none'" type="checkbox" value="">
+						<label for="ai-trans-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">AI 机翻</label>
 					</div>
-					<div>
-						<input id="trans-en-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'trans-en', this.checked)" type="checkbox" value="">
-						<label for="trans-en-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">英语机翻</label>
+					<ul class="txt-article-lead" style="margin-bottom:10px;">
+						<li>支持 OpenAI 格式接口</li>
+					</ul>
+					
+					<div id="ai-settings-group" style="margin: 10px 0; padding: 10px; border: 1px solid #78bbd8; border-radius: 4px; display: none; width: calc(100% - 22px);">
+						<div style="margin-bottom:10px; display: flex; align-items: center;">
+							<div class="txt-article-title" style="font-size:10px; flex: 0 0 60px; margin-bottom: 0;">API密钥</div>
+							<input style="flex: 1; box-sizing: border-box;" id="ai-api-key-setting-blhxfy" oninput="window.blhxfy.sendEvent('setting', 'ai-api-key', this.value)" type="text" value="" placeholder="sk-...">
+						</div>
+						<div style="margin-bottom:10px; display: flex; align-items: center;">
+							<div class="txt-article-title" style="font-size:10px; flex: 0 0 60px; margin-bottom: 0;">API地址</div>
+							<input style="flex: 1; box-sizing: border-box;" id="ai-api-endpoint-setting-blhxfy" oninput="window.blhxfy.sendEvent('setting', 'ai-api-endpoint', this.value)" type="text" value="" placeholder="https://api.example.com/v1">
+						</div>
+						<div style="display: flex; align-items: center;">
+							<div class="txt-article-title" style="font-size:10px; flex: 0 0 60px; margin-bottom: 0;">模型名称</div>
+							<input style="flex: 1; box-sizing: border-box;" id="ai-model-setting-blhxfy" oninput="window.blhxfy.sendEvent('setting', 'ai-model', this.value)" type="text" value="" placeholder="model-name">
+						</div>
 					</div>
+
+					<div style="width:100%">
+						<input id="traditional-trans-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'traditional-trans', this.checked)" type="checkbox" value="">
+						<label for="traditional-trans-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">传统机翻</label>
+					</div>
+					<ul class="txt-article-lead">
+						<li>使用彩云小译接口</li>
+					</ul>
 				</div>
 			</div>
 

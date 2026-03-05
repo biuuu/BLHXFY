@@ -26,8 +26,11 @@ const keyMap = new Map([
   ['username', 'displayName'],
   ['remove-scroller', 'removeScroller'],
   ['hide-sidebar', 'hideSidebar'],
-  ['trans-ja', 'transJa'],
-  ['trans-en', 'transEn'],
+  ['traditional-trans', 'traditionalTrans'],
+  ['ai-trans', 'aiTrans'],
+  ['ai-api-key', 'aiApiKey'],
+  ['ai-api-endpoint', 'aiApiEndpoint'],
+  ['ai-model', 'aiModel'],
   ['trans-api', 'transApi'],
   ['story-only', 'storyOnly'],
   ['show-translator', 'showTranslator'],
@@ -56,6 +59,7 @@ const setting = (type, value) => {
       }
     }
     jQuery('#blhxfy-setting-modal').addClass('show')
+    jQuery('#ai-settings-group').css('display', config.aiTrans ? 'block' : 'none')
   } else if (type === 'hide') {
     jQuery('#blhxfy-setting-modal').removeClass('show')
   } else if (type === 'language' || type === 'fast-mode') {

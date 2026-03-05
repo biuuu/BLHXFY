@@ -9,6 +9,8 @@ import { getPreviewCsv, replaceWords, removeHtmlTag, restoreHtml, deepClone } fr
 import filter from '../utils/XSSFilter'
 import transApi from '../utils/translation'
 import setFont from '../setting/scenarioFont'
+import { dataToCsv, dataToJson } from '../utils/scenarioData'
+import aiTransApi from '../utils/aiTrans'
 
 const txtKeys = ['chapter_name', 'synopsis', 'detail', 'sel1_txt', 'sel2_txt', 'sel3_txt', 'sel4_txt', 'sel5_txt', 'sel6_txt']
 
@@ -101,21 +103,29 @@ const transMulti = async (list, nameMap, nounMap, nounFixMap, caiyunPrefixMap) =
   return fixedList
 }
 
-const getScenario = async (name) => {
-  let csv = getPreviewCsv(name)
-  let isLLMTrans = false
-  if (!csv) {
-    const [text, isAI] = await getStoryCSV(name)
-    if (!text) {
-      return { transMap: null, csv: '' }
-    }
-    csv = text
-    isLLMTrans = isAI
-  }
+const csvToMap = (csv, nameMap) => {
   const list = parseCsv(csv)
   const transMap = new Map()
+  const aiNameMap = new Map()
   list.forEach(item => {
-    if (item.id) {
+    if (!item.id) return
+
+    if (item.id === 'name_map') {
+      if (item.trans && nameMap) {
+        const pairs = item.trans.split('|')
+        pairs.forEach(pair => {
+          const parts = pair.split(/[:：\uff1a]\s*/)
+          if (parts.length >= 2) {
+            const jp = parts[0].trim()
+            const cn = parts[1].trim()
+            if (jp && cn) {
+              aiNameMap.set(jp, cn)
+              if (!nameMap.has(jp)) nameMap.set(jp, cn)
+            }
+          }
+        })
+      }
+    } else {
       const idArr = item.id.split('-')
       const id = idArr[0]
       const type = idArr[1] || 'detail'
@@ -130,7 +140,22 @@ const getScenario = async (name) => {
       transMap.set(id, obj)
     }
   })
-  return { transMap, csv, isLLMTrans }
+  return { transMap, aiNameMap }
+}
+
+const getScenario = async (name, nameMap) => {
+  let csv = getPreviewCsv(name)
+  let isLLMTrans = false
+  if (!csv) {
+    const [text, isAI] = await getStoryCSV(name)
+    if (!text) {
+      return { transMap: null, csv: '', aiNameMap: new Map() }
+    }
+    csv = text
+    isLLMTrans = isAI
+  }
+  const { transMap, aiNameMap } = csvToMap(csv, nameMap)
+  return { transMap, csv, isLLMTrans, aiNameMap }
 }
 
 const collectNameHtml = (str) => {
@@ -174,6 +199,44 @@ const getUsernameFromTutorial = (data) => {
   }
 }
 
+const getRefinedNameMap = (data, nameMap) => {
+  const refinedMap = new Map()
+
+  // 1. 核心固定角色 (日文 -> 中文)
+  const coreNames = {
+    'ルリア': '露莉亚',
+    'ビィ': '碧',
+    'カタリナ': '卡塔莉娜',
+    'ラカム': '拉卡姆',
+    'イオ': '伊欧',
+    'オイゲン': '欧根',
+    'ロゼッタ': '萝赛塔',
+    'シェロカルテ': '谢洛卡特',
+    'グラン': '古兰',
+    'ジータ': '姬塔'
+  }
+
+  for (let [jp, cn] of Object.entries(coreNames)) {
+    refinedMap.set(jp, cn)
+  }
+
+  // 2. 扫描当前剧情涉及的其他名字
+  const currentNames = new Set()
+  data.forEach(item => {
+    if (item.charcter1_name) currentNames.add(item.charcter1_name.trim())
+    if (item.charcter2_name) currentNames.add(item.charcter2_name.trim())
+    if (item.charcter3_name) currentNames.add(item.charcter3_name.trim())
+  })
+
+  currentNames.forEach(name => {
+    if (!refinedMap.has(name) && nameMap.has(name)) {
+      refinedMap.set(name, nameMap.get(name))
+    }
+  })
+
+  return refinedMap
+}
+
 const transStart = async (data, pathname) => {
   const pathRst = pathname.match(/\/[^/]*?scenario.*?\/(scene[^\/]+)\/?/)
   if (!pathRst || !pathRst[1]) return data
@@ -195,15 +258,80 @@ const transStart = async (data, pathname) => {
   scenarioCache.hasTrans = false
   scenarioCache.hasAutoTrans = false
   scenarioCache.transMap = null
-  let { transMap, csv, isLLMTrans } = await getScenario(scenarioName)
-  if (transMap && transMap.has('filename')) {
-    scenarioCache.originName = transMap.get('filename').detail
-  }
   const nameData = await getNameData()
   const nameMap = Game.lang !== 'ja' ? nameData['enNameMap'] : nameData['jpNameMap']
   scenarioCache.nameMap = nameMap
+
+  let { transMap, csv, isLLMTrans, aiNameMap } = await getScenario(scenarioName, nameMap)
+  if (transMap && transMap.has('filename')) {
+    scenarioCache.originName = transMap.get('filename').detail
+  }
+
+  // AI 翻译逻辑
+  if (!transMap && config.aiTrans) {
+    try {
+      const sourceData = dataToJson(data)
+      const refinedNameMap = getRefinedNameMap(data, nameMap)
+      console.info('AI translation started, please wait...')
+      const aiPromise = aiTransApi(sourceData, refinedNameMap)
+      const raceTimeout = new Promise(resolve => setTimeout(() => resolve('timeout'), 150000))
+
+      const result = await Promise.race([aiPromise, raceTimeout])
+
+      if (result && result !== 'timeout') {
+        const aiData = result
+        transMap = new Map()
+        
+        // 1. 处理名词映射
+        if (aiData.name_map) {
+          for (let [jp, cn] of Object.entries(aiData.name_map)) {
+            const _jp = jp.trim()
+            const _cn = cn.trim()
+            if (_jp && _cn) {
+              nameMap.set(_jp, _cn)
+            }
+          }
+        }
+
+        // 2. 处理对话翻译
+        if (aiData.trans_map) {
+          for (let [id, text] of Object.entries(aiData.trans_map)) {
+            const idArr = id.split('-')
+            const mainId = idArr[0]
+            const type = idArr[1] || 'detail'
+            const obj = transMap.get(mainId) || {}
+            
+            // 兜底：自动剥离 AI 可能误加的角色名前缀，如 "角色名: " 或 "角色名："
+            let cleanText = text.replace(/^[^:：\uff1a]+[:：\uff1a]\s*/, '')
+
+            const rep = new RegExp(config.defaultName, 'g')
+            const uname = config.displayName || config.userName
+            const str = filter(cleanText.replace(rep, uname))
+            obj[type] = str.replace(/<span\sclass="nickname"><\/span>/g, `<span class='nickname'></span>`)
+            obj[`${type}-origin`] = cleanText
+            transMap.set(mainId, obj)
+          }
+        }
+
+        isLLMTrans = true
+        scenarioCache.hasAutoTrans = true
+        scenarioCache.transMap = transMap
+        scenarioCache.nameMap = nameMap
+        const transObj = transMap.get('translator') || {}
+        transObj.detail = config.aiModel || 'AI'
+        transMap.set('translator', transObj)
+        console.info('AI translation finished.')
+      } else if (result === 'timeout') {
+        console.warn('AI translation taking too long (>150s), skipping...')
+      }
+    } catch (aiErr) {
+      console.error('AI Translation Process Error:', aiErr)
+    }
+  }
+
   if (!transMap) {
-    if ((config.transJa && Game.lang === 'ja') || (config.transEn && Game.lang === 'en')) {
+    isLLMTrans = false // 明确重置，防止误显示 AI 提示
+    if (config.traditionalTrans) {
       const { nounMap, nounFixMap, caiyunPrefixMap } = await getNounData()
       transMap = new Map()
       const { txtList, infoList } = collectTxt(data)
@@ -258,7 +386,7 @@ const transStart = async (data, pathname) => {
         } else {
           item[key] = restoreHtml(obj[key], item[key])
         }
-        if (scenarioCache.hasTrans && config.showTranslator && key === 'detail' && index === startIndex) {
+        if ((scenarioCache.hasTrans || (scenarioCache.hasAutoTrans && isLLMTrans)) && config.showTranslator && key === 'detail' && index === startIndex) {
           let name = '我们仍未知道翻译这篇剧情的骑空士的名字'
           if (transMap.has('translator')) {
             name = transMap.get('translator').detail || name
