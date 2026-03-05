@@ -71,4 +71,8 @@ const start = async () => {
   }
 }
 
-start()
+if (require.main === module) {
+  start()
+}
+
+module.exports = { build, start }

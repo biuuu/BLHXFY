@@ -30,14 +30,17 @@ const mimeTypes = {
 
 // 3. 创建 HTTP 服务器
 const server = http.createServer((request, response) => {
-  console.log(`收到请求: ${request.method} ${request.url}`);
-
   // 设置 CORS 跨域头，允许所有来源访问
   response.setHeader('Access-Control-Allow-Origin', '*');
 
   // 4. 构建安全的文件路径
-  // 解析请求的路径，例如从 "/blhxfy/script.js?v=1" 变为 "/blhxfy/script.js"
   const requestedUrl = new URL(request.url, `http://${request.headers.host}`);
+  
+  // 过滤掉暴力猴频繁轮询脚本文件的日志
+  if (!requestedUrl.pathname.endsWith('.user.js')) {
+    console.log(`收到请求: ${request.method} ${requestedUrl.pathname}`);
+  }
+
   let filePath = path.join(process.cwd(), PUBLIC_DIR, requestedUrl.pathname);
 
   // 防止目录遍历攻击，确保最终路径仍在 public 目录下
@@ -84,30 +87,38 @@ const server = http.createServer((request, response) => {
 });
 
 // 8. 启动服务器并自动打开浏览器
-server.listen(PORT, () => {
-  console.log(`本地服务器已启动: http://127.0.0.1:${PORT}`);
+const startServer = () => {
+  server.listen(PORT, () => {
+    console.log(`本地服务器已启动: http://127.0.0.1:${PORT}`);
 
-  // 根据不同的操作系统执行不同的打开命令
-  let command;
-  switch (process.platform) {
-    case 'darwin': // macOS
-      command = `open "${URL_TO_OPEN}"`;
-      break;
-    case 'win32': // Windows
-      command = `start "" "${URL_TO_OPEN}"`; // start 命令的奇怪语法
-      break;
-    default: // Linux, etc.
-      command = `xdg-open "${URL_TO_OPEN}"`;
-      break;
-  }
-
-  // 执行命令
-  exec(command, (err) => {
-    if (err) {
-      console.error(`自动打开浏览器失败: ${err.message}`);
-      console.log(`请手动访问: ${URL_TO_OPEN}`);
-    } else {
-      console.log(`已在浏览器中打开: ${URL_TO_OPEN}`);
+    // 根据不同的操作系统执行不同的打开命令
+    let command;
+    switch (process.platform) {
+      case 'darwin': // macOS
+        command = `open "${URL_TO_OPEN}"`;
+        break;
+      case 'win32': // Windows
+        command = `start "" "${URL_TO_OPEN}"`; // start 命令的奇怪语法
+        break;
+      default: // Linux, etc.
+        command = `xdg-open "${URL_TO_OPEN}"`;
+        break;
     }
+
+    // 执行命令
+    exec(command, (err) => {
+      if (err) {
+        console.error(`自动打开浏览器失败: ${err.message}`);
+        console.log(`请手动访问: ${URL_TO_OPEN}`);
+      } else {
+        console.log(`已在浏览器中打开: ${URL_TO_OPEN}`);
+      }
+    });
   });
-});
+}
+
+if (require.main === module) {
+  startServer()
+}
+
+module.exports = { startServer }

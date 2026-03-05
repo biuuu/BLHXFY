@@ -1,6 +1,6 @@
 {
   "name": "blhxfy",
-  "version": "2.7.4",
+  "version": "2.8.0",
   "description": "碧蓝幻想汉化脚本",
   "main": "./src/main.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "travis_deploy": "cross-env TRAVIS=true npm run deploy",
     "deploy_action": "cross-env CUSTOM_DOMAIN=true GITHUB_ACTION=true npm run deploy",
     "server": "node ./script/server.js",
-    "dev": "cross-env DEV=true LOCAL_HOST=true npm run build && npm run data && npm run server"
+    "dev": "node ./script/dev.js"
   },
   "author": "biuuu",
   "license": "MIT",

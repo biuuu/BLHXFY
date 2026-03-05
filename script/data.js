@@ -257,4 +257,8 @@ const start = async () => {
   await fse.emptyDir('./dist/blhxfy/data/scenario/')
 }
 
-start()
+if (require.main === module) {
+  start()
+}
+
+module.exports = { start }
