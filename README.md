@@ -1,5 +1,5 @@
 # 碧蓝幻想翻译
-[![Build Status](https://github.com/biuuu/BLHXFY/workflows/Build/badge.svg?branch=master)](https://github.com/biuuu/BLHXFY/actions?query=workflow%3ABuild)
+[![Build](https://github.com/biuuu/BLHXFY/actions/workflows/build.yml/badge.svg)](https://github.com/biuuu/BLHXFY/actions/workflows/build.yml)
 <a href="http://game.granbluefantasy.jp/#quest/index"><img alt="Port Breeze" src="https://img.shields.io/badge/Port-Breeze-green.svg"></a>
 
 [☁检查更新](https://blhx.danmu9.com/blhxfy/extension.user.js)
@@ -16,20 +16,23 @@
 
 提交翻译：[说明](https://github.com/BLHXFY-Group/BLHXFY)
 
-## Devlopment
+## Development
 
 ```bash
-# 全局安装 yarn
-npm install -g yarn
+# 安装模块
+pnpm install
 
-# 用 yarn 安装模块
-yarn install
+# 开发模式（监听代码和数据变更，自动重构并开启本地 HTTP 服务）
+pnpm dev
 
 # 构建用户脚本
-yarn build
+pnpm build
 
-# 打包CSV和构建用户脚本，并push到当前repo的gh-pages分支
-yarn deploy
+# 构建数据
+pnpm data
+
+# 部署
+pnpm deploy
 ```
 
 ## License
