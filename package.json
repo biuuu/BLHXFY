@@ -46,5 +46,10 @@
     "rollup": "^2.80.0",
     "rollup-plugin-esbuild": "^6.2.1",
     "shelljs": "^0.8.5"
+  },
+  "pnpm": {
+    "overrides": {
+      "minimatch": "^10.2.3"
+    }
   }
 }
