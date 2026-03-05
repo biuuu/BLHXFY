@@ -279,7 +279,7 @@ const start = async () => {
 
   await fse.writeJSON('./dist/blhxfy/manifest.json', { hash, version, date, hashes, cyweb_token })
 
-  if (process.env.CUSTOM_DOMAIN) {
+  if (process.env.CUSTOM_DOMAIN || process.env.GITHUB_ACTION) {
     await fse.outputFile('./dist/CNAME', 'blhx.danmu9.com')
   }
 }

@@ -118,8 +118,8 @@ const build = async function (type = '') {
 }
 
 const start = async () => {
-  console.log('clean dist')
-  await fse.emptyDir('./dist/')
+  console.log('ensure dist dir')
+  await fse.ensureDir('./dist/blhxfy/')
   console.log('building userscript...')
   await build()
   if (process.env.DEV !== 'true') {
