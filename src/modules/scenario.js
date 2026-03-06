@@ -103,29 +103,11 @@ const transMulti = async (list, nameMap, nounMap, nounFixMap, caiyunPrefixMap) =
   return fixedList
 }
 
-const csvToMap = (csv, nameMap) => {
+const csvToMap = (csv) => {
   const list = parseCsv(csv)
   const transMap = new Map()
-  const aiNameMap = new Map()
   list.forEach(item => {
-    if (!item.id) return
-
-    if (item.id === 'name_map') {
-      if (item.trans && nameMap) {
-        const pairs = item.trans.split('|')
-        pairs.forEach(pair => {
-          const parts = pair.split(/[:：\uff1a]\s*/)
-          if (parts.length >= 2) {
-            const jp = parts[0].trim()
-            const cn = parts[1].trim()
-            if (jp && cn) {
-              aiNameMap.set(jp, cn)
-              if (!nameMap.has(jp)) nameMap.set(jp, cn)
-            }
-          }
-        })
-      }
-    } else {
+    if (item.id) {
       const idArr = item.id.split('-')
       const id = idArr[0]
       const type = idArr[1] || 'detail'
@@ -140,22 +122,22 @@ const csvToMap = (csv, nameMap) => {
       transMap.set(id, obj)
     }
   })
-  return { transMap, aiNameMap }
+  return transMap
 }
 
-const getScenario = async (name, nameMap) => {
+const getScenario = async (name) => {
   let csv = getPreviewCsv(name)
   let isLLMTrans = false
   if (!csv) {
     const [text, isAI] = await getStoryCSV(name)
     if (!text) {
-      return { transMap: null, csv: '', aiNameMap: new Map() }
+      return { transMap: null, csv: '' }
     }
     csv = text
     isLLMTrans = isAI
   }
-  const { transMap, aiNameMap } = csvToMap(csv, nameMap)
-  return { transMap, csv, isLLMTrans, aiNameMap }
+  const transMap = csvToMap(csv)
+  return { transMap, csv, isLLMTrans }
 }
 
 const collectNameHtml = (str) => {
@@ -262,7 +244,7 @@ const transStart = async (data, pathname) => {
   const nameMap = Game.lang !== 'ja' ? nameData['enNameMap'] : nameData['jpNameMap']
   scenarioCache.nameMap = nameMap
 
-  let { transMap, csv, isLLMTrans, aiNameMap } = await getScenario(scenarioName, nameMap)
+  let { transMap, csv, isLLMTrans } = await getScenario(scenarioName)
   if (transMap && transMap.has('filename')) {
     scenarioCache.originName = transMap.get('filename').detail
   }
@@ -272,7 +254,6 @@ const transStart = async (data, pathname) => {
     try {
       const sourceData = dataToJson(data)
       const refinedNameMap = getRefinedNameMap(data, nameMap)
-      console.info('AI translation started, please wait...')
       const aiPromise = aiTransApi(sourceData, refinedNameMap)
       const raceTimeout = new Promise(resolve => setTimeout(() => resolve('timeout'), 150000))
 
@@ -281,13 +262,13 @@ const transStart = async (data, pathname) => {
       if (result && result !== 'timeout') {
         const aiData = result
         transMap = new Map()
-        
+
         // 1. 处理名词映射
         if (aiData.name_map) {
           for (let [jp, cn] of Object.entries(aiData.name_map)) {
             const _jp = jp.trim()
             const _cn = cn.trim()
-            if (_jp && _cn) {
+            if (_jp && _cn && !nameMap.has(_jp)) {
               nameMap.set(_jp, _cn)
             }
           }
@@ -300,16 +281,20 @@ const transStart = async (data, pathname) => {
             const mainId = idArr[0]
             const type = idArr[1] || 'detail'
             const obj = transMap.get(mainId) || {}
-            
+
             // 兜底：自动剥离 AI 可能误加的角色名前缀，如 "角色名: " 或 "角色名："
             let cleanText = text.replace(/^[^:：\uff1a]+[:：\uff1a]\s*/, '')
 
-            const rep = new RegExp(config.defaultName, 'g')
             const uname = config.displayName || config.userName
-            const str = filter(cleanText.replace(rep, uname))
+            // 转换换行符为 <br>
+            const textWithBr = cleanText.replace(/\n/g, '<br>')
+            // 同时替换 姬塔 和 古兰
+            const textWithUname = textWithBr.replace(/(姬塔|古兰)/g, uname)
+            const str = filter(textWithUname)
             obj[type] = str.replace(/<span\sclass="nickname"><\/span>/g, `<span class='nickname'></span>`)
             obj[`${type}-origin`] = cleanText
             transMap.set(mainId, obj)
+
           }
         }
 
@@ -320,7 +305,6 @@ const transStart = async (data, pathname) => {
         const transObj = transMap.get('translator') || {}
         transObj.detail = config.aiModel || 'AI'
         transMap.set('translator', transObj)
-        console.info('AI translation finished.')
       } else if (result === 'timeout') {
         console.warn('AI translation taking too long (>150s), skipping...')
       }
@@ -328,7 +312,6 @@ const transStart = async (data, pathname) => {
       console.error('AI Translation Process Error:', aiErr)
     }
   }
-
   if (!transMap) {
     isLLMTrans = false // 明确重置，防止误显示 AI 提示
     if (config.traditionalTrans) {

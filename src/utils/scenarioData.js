@@ -21,7 +21,7 @@ const replaceName = (content, userName) => {
 const dataToCsv = (data, { nameMap, name, transMap, hasTrans, hasAutoTrans } = {}, fill, isTrans, isAutoTrans) => {
   const result = []
   const _data = deepClone(data)
-  
+
   // 提取原本 scenario.js 中的 replaceChar 核心逻辑以避免依赖
   const getTransName = (nameStr, map) => {
     if (!nameStr) return ''
@@ -30,7 +30,8 @@ const dataToCsv = (data, { nameMap, name, transMap, hasTrans, hasAutoTrans } = {
     if (rgs && rgs[1]) {
       _name = rgs[1]
     }
-    return map.has(_name) ? map.get(_name) : _name
+    if (map && map.has(_name)) return map.get(_name)
+    return _name
   }
 
   _data.forEach(item => {
@@ -41,23 +42,25 @@ const dataToCsv = (data, { nameMap, name, transMap, hasTrans, hasAutoTrans } = {
       rawName = CONFIG.defaultName
       hasTransName = false
     }
-    
+
     txtKeys.forEach(key => {
       let txt = item[key]
       let hasName = key === 'detail' && rawName && rawName !== 'null'
       if (txt) {
+        // --- 还原你原始的完善逻辑 ---
         txt = txt.replace(/\n/g, '')
         txt = simpleHtml(txt)
+
         let trans = ''
         if (isTrans && transMap) {
           const obj = transMap.get(item.id)
           if (obj && obj[`${key}-origin`]) {
-            trans = obj[`${key}-origin`]
+            trans = obj[`${key}-origin`].replace(/\n/g, '\\n')
           }
         } else if (isAutoTrans && transMap) {
           const obj = transMap.get(item.id)
           if (obj && obj[key]) {
-            trans = obj[key]
+            trans = obj[key].replace(/<br\s?\/?>/g, '\\n').replace(/\n/g, '\\n')
           }
         } else if (fill) {
           trans = txt
@@ -77,7 +80,7 @@ const dataToCsv = (data, { nameMap, name, transMap, hasTrans, hasAutoTrans } = {
       }
     })
   })
-  
+
   let translator = ''
   if (isTrans && transMap && transMap.has('translator')) {
     translator = transMap.get('translator').detail
@@ -101,6 +104,7 @@ const dataToCsv = (data, { nameMap, name, transMap, hasTrans, hasAutoTrans } = {
 
 const dataToJson = (data) => {
   const result = []
+  const userName = CONFIG.userName
   data.forEach(item => {
     const rawName = removeTag(item.charcter1_name || '')
     txtKeys.forEach(key => {
@@ -108,6 +112,14 @@ const dataToJson = (data) => {
       if (txt) {
         txt = txt.replace(/\n/g, '')
         txt = simpleHtml(txt)
+        
+        // 统一主角名字为“姬塔”
+        if (userName) {
+          let _lang = Game.lang
+          if (!/^\w+$/.test(userName)) _lang = 'unknown'
+          txt = replaceWords(txt, new Map([[userName, CONFIG.defaultName]]), _lang)
+        }
+
         if (CONFIG.plainText) {
           txt = removeHtmlTag(txt)
         }
