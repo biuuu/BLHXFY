@@ -493,6 +493,12 @@ body .cnt-order-box .cnt-btn-bottombox .btn-evolution:not(.disapprove)::after {
   font-size: 12px;
   content: "皮肤";
 }
+#tab-npc > div:first-child,
+#tab-weapon > div:first-child,
+#tab-summon > div:first-child,
+#tab-skin > div:first-child {
+  display: none;
+}
 .prt-move-container .btn-container::after {
   font-size: 12px;
   content: "存入仓库";

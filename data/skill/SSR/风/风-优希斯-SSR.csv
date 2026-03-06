@@ -1,19 +1,30 @@
-﻿id,name,detail
+id,name,detail
 npc,优希斯,3040105000
-special,破煌刃・星薙,<div class=prt-text-small>星薙形态：风属性伤害(特大)/侠气Lv上升/获得吸血效果<br>天终形态：风属性伤害(特大)/侠气Lv上升/获得20%风属性追击效果</div>
-special-破煌刃・暁天,破煌刃・晓天,<div class=prt-text-small>星薙形态：风属性伤害(特大)/侠气Lv上升/获得吸血效果/承伤吸血效果<br>天终形态：风属性伤害(特大)侠气Lv上升/获得20%风属性追击效果</div>
-special-破煌刃・天終,破煌刃・天终,<div class=prt-text-small>风属性伤害(特大)侠气Lv上升/获得20%风属性追击效果</div>
-special-Skyblade Heavensbane,破煌刃・天终,<div class=prt-text-small>风属性伤害(特大)侠气Lv上升/获得20%风属性追击效果</div>
-skill-1,坚定信念,切换为天终之型<br>再使用切换回星薙之型
+special-1,破煌刃・星薙,风属性伤害(特大)/侠气Lv上升/获得吸收效果
+special-破煌刃・暁天,破煌刃・晓天,风属性伤害(特大)/侠气Lv上升/获得吸收效果/承伤吸收效果
+special-Skyblade Sunrise,破煌刃・晓天,风属性伤害(特大)/侠气Lv上升/获得吸收效果/承伤吸收效果
+special-破煌刃・天終,破煌刃・天终,风属性伤害(特大)侠气Lv上升/获得风属性追击效果
+special-Skyblade Heavensbane,破煌刃・天终,风属性伤害(特大)侠气Lv上升/获得风属性追击效果
+special-破煌刃・神薙,破煌刃・神薙,<div class=prt-text-small>风属性伤害(特大)侠气Lv上升/获得风属性追击效果<span class=text-blue>◆根据侠气Lv造成风属性伤害(最大5次)</span></div>
+special-Skyblade Godslayer,破煌刃・神薙,<div class=prt-text-small>风属性伤害(特大)侠气Lv上升/获得风属性追击效果<span class=text-blue>◆根据侠气Lv造成风属性伤害(最大5次)</span></div>
+skill-1,坚定信念,切换为天终之型
 skill-不忠への報い,惩戒不忠,切换为星薙之型
 skill-No Regrets,惩戒不忠,切换为星薙之型
-skill-2,杯之庇护,<div class=prt-text-small>星薙形态：援护效果/减免70%全属性伤害/弱体效果无效（1次）<span class=text-blue>◆消耗20%奥义值</span><br>天终形态：自身攻击大幅UP(1次)/奥义值30%UP<span class=text-blue>◆消耗20%HP</span></div>
-skill-一刀専心,一刀专心,自身获得一刀专心效果(1次/无法驱散)◆消耗20%最大HP
-skill-Ardent Blade,一刀专心,自身获得一刀专心效果(1次/无法驱散)◆消耗20%最大HP
-skill-3,叛意即斩,<div class=prt-text-small>星薙形态：自身获得反击效果(受伤时/2次)/减轻土属性伤害<br>天终形态：效果中必定连击/高扬效果</div>
-skill-仇花散華,仇花散华,自身必定二连击/高扬效果
-skill-Unfettered,仇花散华,自身必定二连击/高扬效果
+skill-2,杯之庇护,<div class=prt-text-small>援护效果/减免70%全属性伤害/弱体效果无效（1次）<span class=text-blue>◆消耗20%奥义值</span></div>
+skill-2+,杯之庇护,<div class=prt-text-small>援护效果/减免70%全属性伤害/弱体效果无效（1次）/将受到的伤害变为土属性<span class=text-blue>◆消耗20%奥义值</span></div>
+skill-Ardent Blade,一刀专心,自身攻击大幅UP(1次)/奥义值30%UP<span class=text-blue>◆消耗20%最大HP</span>
+skill-一刀専心,一刀专心,自身攻击大幅UP(1次)/奥义值30%UP<span class=text-blue>◆消耗20%最大HP</span>
+skill-一刀専心++,一刀专心,自身攻击大幅UP(1次)/奥义值30%UP/可即刻发动奥义/奥义 伤害特殊上限UP
+skill-Ardent Blade++,一刀专心,自身攻击大幅UP(1次)/奥义值30%UP/可即刻发动奥义/奥义 伤害特殊上限UP
+skill-3,叛意即斩,自身获得反击效果(受伤时/2次)/减轻土属性伤害
+skill-仇花散華,仇花散华,自身必定连击/高扬效果
+skill-Unfettered,仇花散华,自身必定连击/高扬效果
+skill-彩花の契り,,自身HP及弱体效果全部恢复/可以即刻使用其他技能
+skill-Shining Bloom's Oath,,自身HP及弱体效果全部恢复/可以即刻使用其他技能
+skill-ex-彩花の契り,,自身风属性攻击UP/风属性追击效果/暴击率UP/伤害上限UP/侠气Lv上升2
+skill-ex-Shining Bloom's Oath,,自身风属性攻击UP/风属性追击效果/暴击率UP/伤害上限UP/侠气Lv上升2
 support-1,迪特利亚流剑术・星薙式,<div class=prt-text-small>星薙之型下防御UP/敌对心UP/活性效果<span class=text-blue>◆根据侠气Lv奥义值上升量UP/回复性能UP</span></div>
 support-2,迪特利亚流剑术・天终式,<div class=prt-text-small>天终之型下攻击UP/敌对心DOWN/强化效果不会被驱散<span class=text-blue>◆根据侠气Lv奥义伤害UP/奥义上限UP</span></div>
+support-3,忠义的魔具,<div class=prt-text-small>战斗开始时，位于1、3号位，获得不死之身效果(3次)/战斗开始时，位于2、4号位，自身侠气Lv上升2，切换至天终之型</div>
 skill-lb,LB技能,使用“杯之庇护”或“一刀专心”时侠气Lv有几率上升
 intro,寻求再兴的侠义骑士,心怀义理与人情，少女踏上了去往遥远天空的旅程。手中握着的魔具，是她头领地位的证明……她只有一个希求：不忘组内的纠纷，然后成为合适的头领。而这旅途遍布险阻，且难见其终。她则直视前方，毫不动摇地前进着。只要带着侠义之心前进……
