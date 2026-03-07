@@ -1,0 +1,9 @@
+﻿id,name,detail
+npc,尤妮,3040495000
+special,璀璨宇宙,暗属性伤害(特大)/发动技能1
+skill-1,烁星之祷,暗属性角色奥义值15%UP/弱体效果缩短2回合<span class=text-blue>◆圣夜爱子增加1层</span>
+skill-2,欢笑使者,自身以外单体暗属性角色奥义再发动(1次)效果/奥义值100%UP<span class=text-blue>◆圣夜爱子减少7层</span>
+skill-3,繁星夜幕,将暗属性角色的承伤转换为光属性/弱体效果无效(1次)/格挡效果<span class=text-blue>◆圣夜爱子减少10层</span>
+skill-4,翱翔天空的少女,自身获得调停的圣夜效果<span class=text-blue>◆圣夜爱子减少10层</span>
+support-1,见习圣诞老人,暗属性奥义连击发动时，根据连击数回复全体HP<span class=text-blue>◆奥义4连击及以上时，圣夜爱子增加1层</span>
+support-2,烁星点缀白色街道,调停的圣夜效果中，暗属性角色奥义值特殊上限UP/奥义伤害UP/暗属性奥义连击发动时，连击数+2

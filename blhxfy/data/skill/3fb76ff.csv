@@ -1,0 +1,9 @@
+id,name,detail
+npc,莉夏,3040263000
+special,破晓之剑,<div class=prt-text-small>水属性伤害(特大)/自身获得2层秩序的英气/自身技能上限UP(累积)</div>
+special-レイディアント・オーダー,辉光指令,<div class=prt-text-small>水属性伤害(极大)/驱散敌方3个强化效果</div>
+skill-1,牵制射击,<div class=prt-text-small>对敌方随机目标造成4次水属性伤害/施加敌方全体随机3个弱体状态<br><span class=text-blue>◆消耗1层秩序的英气</span></div>
+skill-2,强袭射击,<div class=prt-text-small>对敌方全体造成水属性伤害/防御DOWN(累积)/水属性防御DOWN(累积)<br><span class=text-blue>◆消耗1层秩序的英气</span></div>
+skill-3,必先备战,<div class=prt-text-small>自身获得4层秩序的英气/下次奥义变为「辉光指令」/我方全体奥义值UP(30%)</div>
+support-1,第四骑空团，出击！,战斗开始时获得4层秩序的英气(最大4层)/我方全体技能命中率UP
+support-2,支援火力,(仅在后排有效)水属性CB发生时，根据CB数量进行技能追击
