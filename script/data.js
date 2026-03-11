@@ -257,14 +257,17 @@ const start = async () => {
   console.log('move etc...')
   const etcFiles = await glob('./data/etc/**/*.csv')
   const rootCsvFiles = await glob('./data/*.csv')
+  const battleFiles = await glob('./data/battle/*.csv')
   
   const moveFiles = [
-    ...etcFiles.map(file => ({ file, name: path.basename(file) })),
-    ...rootCsvFiles.map(file => ({ file, name: path.basename(file) }))
+    ...etcFiles.map(file => ({ file, dest: `./dist/blhxfy/data/${path.basename(file)}` })),
+    ...rootCsvFiles.map(file => ({ file, dest: `./dist/blhxfy/data/${path.basename(file)}` })),
+    ...battleFiles.map(file => ({ file, dest: `./dist/blhxfy/data/battle/${path.basename(file)}` }))
   ]
 
-  await Promise.all(moveFiles.map(({ file, name }) => limit(async () => {
-    return fse.copy(file, `./dist/blhxfy/data/${name}`)
+  await Promise.all(moveFiles.map(({ file, dest }) => limit(async () => {
+    await fse.ensureDir(path.dirname(dest))
+    return fse.copy(file, dest)
   })))
 
   // 并行执行所有的 collection 任务，全部从源码目录读取
