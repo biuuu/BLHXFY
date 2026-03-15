@@ -1,0 +1,14 @@
+id,name,detail
+npc,尤斯提斯,3040198000
+special,蚀怒之嚎,<div class=prt-text-small>暗属性伤害(特大)/攻击DOWN/黑暗/充填LV重置</div>
+special-デッドエンド・フォール,死命天降,暗属性伤害(特大)/攻击DOWN/黑暗/缩短自己的技能冷却时间2回合/充填LV重置
+skill-1,二位一体,<div class=prt-text-small>自身与我方指定角色获得二位一体<br><span class=text-blue>◆同时只能付与一个人</span></div>
+skill-2,永远是你的,<div class=prt-text-small>对敌方造成4次暗属性伤害/防御DOWN(累积)<br><span class=text-blue>◆根据使用次数增加攻击次数(最大6次)</span></div>
+skill-3,流着你的血,<div class=prt-text-small>赋予暗属性角色暴击率UP/会心效果/伤害上限UP <span class=text-blue>◆奥义值80%以上时，下一次自身奥义发动后追加一次技伤</span></div>
+skill-4,疯狂竞争,使用炸弹 <br><span class=text-blue>◆根据选择的炸弹变化效果</span>
+support-1,近身作战,二位一体效果中的自身与指定角色获得连击率UP/暗属性追击/回避率UP 
+support-1+,近身作战,二位一体效果中的自身与指定角色必定连续攻击/暗属性追击/回避率UP/高扬 
+support-2,震狼,根据充填LV层数，获得攻击UP/奥义伤害UP/奥义伤害上限UP<br><span class=text-blue>◆使用技能时充填LV上升(最大3层)</span>
+support-2+,震狼,<div class=prt-text-small>根据充填LV层数，获得攻击UP/奥义性能UP <span class=text-blue>◆使用技能时充填LV上升(最大4层)/LV4时超越・弗拉梅克的效果造成的追加伤害性能UP</span></div>
+skill-lb,LB技能,普通攻击时，几率获得攻击力UP(累积)
+intro,暗跃的震狼,孤高之狼找到了新的想要保护的平稳和寂静。为了保护融化冰冷内心的灯火，为其开拓通往未来的道路，他磨利了尖牙暗中活跃。

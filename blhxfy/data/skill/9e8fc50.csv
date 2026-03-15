@@ -1,0 +1,9 @@
+id,name,detail
+npc,美杜莎,3040214000
+special,最后的美杜希亚娜,<div class=prt-text-small>土属性伤害(特大)/自身获得反击(回避·受伤/2次)</div>
+skill-1,强大的眼睛,<div class=prt-text-small>我方全体土属性角色获得荒土的刻印1层/土属性攻击UP/水属性伤害减轻(20%)</div>
+skill-2,石化视野,<div class=prt-text-small>对敌方全体施加攻击DOWN/防御DOWN/中毒<br><span class=text-blue>◆消耗1层荒土的刻印追加减速/弱体命中率UP</span></div>
+skill-3,美杜希亚娜行动,<div class=prt-text-small>自身获得反击(回避·受伤/2次)/土属性追击<br><span class=text-blue>◆消耗2层荒土的刻印效果全体化</span></div>
+support-1,报复的美杜希亚娜,处于反击时，自身必TA/受到大幅伤害时，对敌方全体造成伤害/魔眼的石化
+support-2,不只是你的命,土属性觉得根据荒土的刻印层数对应水属性伤害减轻<br><span class=text-blue>◆自身处于后排时也生效</span>
+skill-lb,LB技能,普通攻击时，有几率获得1层荒土的刻印

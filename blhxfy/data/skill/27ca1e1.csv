@@ -1,0 +1,14 @@
+﻿id,name,detail
+npc,高文,3040298000
+special,,光属性伤害(特大)/技能1发动<br><span class=text-blue>◆自身处于濒死状态时，奥义性能UP</span>
+special-流天神斬,,<div class=prt-text-small>光属性伤害(特大)/技能1发动/我方全体减免20%暗属性伤害<span class=text-blue>◆自身处于濒死状态时，奥义性能UP</span></div>
+skill-1,,<div class=prt-text-small>对敌方单体造成光属性伤害/光属性防御DOWN/回复自身HP<br><span class=text-blue>◆自身处于濒死状态时，发动2次</span></div>
+skill-1++,,<div class=prt-text-small>对敌方单体造成光属性伤害/光属性防御DOWN/回复自身HP<br><span class=text-blue>◆自身处于濒死状态时，追加敌方攻防DOWN(累积)/自身获得高扬效果/防消去效果(1次)</span></div>
+skill-2,,<div class=prt-text-small>自身获得逆境效果/光属性追击效果/回合中进行2次攻击	<span class=text-blue>◆消耗HP最大值的40%</span></div>
+skill-3,,<div class=prt-text-small>效果中必定三连击/暴击率UP<br><span class=text-blue>◆自身处于濒死状态时，获得屏障/免疫伤害(2次)</span></div>
+skill-4,,我方全体获得伤害减轻效果
+support-1,,<div class=prt-text-small>奥义值积攒量减少，普攻伤害提高/自身处于濒死状态时，获得光属性追击效果<span class=text-blue>◆若攻击开始时处于濒死状态，性能UP/免疫弱体效果</span></div>
+support-1,,<div class=prt-text-small>奥义值积攒量减少，普攻伤害提高/光属性追击效果	<span class=text-blue>◆若攻击开始时处于濒死状态，性能UP/免疫弱体效果</span></div>
+support-2,,仅一次，无法战斗时以HP1的状态继续战斗/高文的HP越少，我方全体攻击大幅UP
+skill-lb,LB技能,自身HP在50%以下时，防御UP
+intro,达尔摩的英雄,
