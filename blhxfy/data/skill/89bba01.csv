@@ -1,0 +1,10 @@
+id,name,detail
+npc,可露瓦,3040127000
+special,纯白丝线,<div class=prt-text-small>我方全体风属性角色HP回复(上限2500)/风属性追击效果/自身获得3层「丝线」/1层「灵感」(最大3层)</div>
+skill-1,夏日弧线,<div class=prt-text-small>我方指定风属性角色获得风属性攻击力UP/连续攻击率UP/再攻击效果/伤害上限UP<br><span class=text-blue>◆消耗3层「丝线」</span></div>
+skill-2,沁凉冰丝,<div class=prt-text-small>我方指定风属性角色获得防御力UP/弱化抗性UP/格挡效果<br><span class=text-blue>◆消耗3层「丝线」</span></div>
+skill-3,夏日模特,<div class=prt-text-small>我方全体风属性角色获得攻击大幅UP(1次)<br><span class=text-blue>◆消耗10层「丝线」</span></div>
+support-1,纺线,战斗开始时自身获得6层「丝线」(最大10层)/回合结束时获得1层「丝线」
+support-2,新作发表,根据「灵感」层数我方风属性角色奥义性能UP<br><span class=text-blue>◆仅前排有效</span>
+skill-lb,LB技能,我方全体获得土属性伤害减轻<br><span class=text-blue>◆仅前排有效</span>
+intro,幸福的编织者,追求着人们幸福结果的她，自己的HAPPYEND究竟是什么。编织者一边在海边寻找着幸福的故事，一边思索，最后发觉。原来幸福就在她的手里。

@@ -1,0 +1,16 @@
+﻿id,name,detail
+npc,埃斯塔利奥拉,3040163000
+special,,风属性伤害(极大)/风属性角色攻击UP(1次)<span class=text-blue>◆消耗「隐者的觉醒」发动</span>
+special-レアリゼ・レーヴ,,﻿<div class=prt-text-small>风属性伤害(极大)/对敌方造成随机弱体效果/风属性角色攻击UP(1次)<span class=text-blue>◆消耗「隐者的觉醒」发动</span></div>
+skill-1,,<div class=prt-text-small>对敌方全体造成风属性伤害/消去1个强化效果<br><span class=text-blue>◆回合结束时自动发动/禁忌的水瓶充满魔力</span></div>
+skill-2,,对敌方全体造成风属性伤害/节制效果<br><span class=text-blue>◆敌方发动特殊技时自动发动/禁忌的水瓶充满魔力</span>
+skill-3,,<div class=prt-text-small>对敌方全体造成风属性伤害/我方全体回复HP<br><span class=text-blue>◆受伤时自动发动/禁忌的水瓶充满魔力</span></div>
+skill-4,,<div class=prt-text-small>自身获得「隐者的觉醒」效果/风属性角色奥义性能UP(累积)/造成伤害上升(累积)<br><span class=text-blue>◆「隐者之正位」发动后，回合开始时奥义值100%时自动发动</span></div>
+support-1,,﻿<div class=prt-text-small>不进行普攻/无法使用技能<br><span class=text-blue>◆禁忌的水瓶充满魔力9次后，对敌方全体造成风属性伤害/自身获得「隐者的觉醒」效果</span></div>
+support-2,,自身自动发动伤害类技能时，自身奥义值10%UP
+skill-sub,,发生风属性奥义连锁时，风属性角色获得随机强化效果
+skill-sub+,,发生风属性奥义连锁时，风属性角色获得随机强化效果<span class=text-blue>◆根据连锁数，发动次数UP</span>
+skill-main,,自身获得梦幻效果(回合结束时风属性角色获得随机强化效果)<span class=text-blue>◆再发动不可</span>
+skill-main+,,自身获得梦幻效果(回合结束时风属性角色获得随机强化效果)/可即刻发动奥义<span class=text-blue>◆再发动不可</span>
+skill-lb,LB技能,回合开始时我方全体回复HP/攻击UP
+intro,,

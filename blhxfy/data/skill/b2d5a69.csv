@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,津岛善子＆国木田花丸＆黑泽露比,3040184000
+special,Waku-Waku-Week!,土属性伤害(特大)/我方全体土属性攻击15%UP/HP回复(500)
+skill-1,和我一起堕天吧,赋予敌方单体致盲效果/重力效果
+skill-2,未来呲啦～,回复我方全体HP(上限1500)
+skill-3,加油露比！,净化我方全体1个弱化效果/防御20%UP
+skill-4,真实即是正义,回避敌方所有攻击<span class=text-blue>◆回避时回复我方全体HP(上限1000)</span>
+support-1,浦之星女子学院1年级学生,HP在50%以下时自身回复性能50%UP
+skill-lb,LB技能,Aqours成员攻击UP
+,,

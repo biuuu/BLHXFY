@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,名字,编号
+special,,暗属性伤害(特大)/自身获得幽暗刻印/伤害上升效果(最大100000)
+skill-1,,对敌方随机目标造成8次暗属性伤害/敌方全体弱体耐性DOWN(累积)/自身获得幽暗刻印
+skill-2,,对敌方全体造成暗属性伤害/攻防DOWN(累积)<span class=text-blue>◆根据幽暗刻印数量发动次数UP</span>
+skill-3,,化妆，自身奥义值30%UP/自身获得幽暗刻印/回复HP/净化全部弱体效果/暗玛尔Lv减少3
+support-1,,根据幽暗刻印数量依次获得以下效果：攻击UP/防御UP/连击率UP/伤害上升/技能伤害上限UP
+support-2,,<div class=prt-text-small>承伤时发动技能2/暗玛尔Lv上升(最大6)<span class=text-blue>◆回合结束时暗玛尔Lv到达6则无法行动/防御DOWN</span></div>
+skill-lb,LB技能,
+intro,,

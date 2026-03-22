@@ -1,0 +1,41 @@
+id,trans
+filename,scene_seraphic04_02_ep1
+info,scene_seraphic04_02_ep1
+64,<span class='scene-font-spword'>极限任务</span><br><span class='scene-font-spword'>已可于『四大天司的试炼』中</span><br><span class='scene-font-spword'>向拉斐尔发起挑战</span>
+63,<span class='scene-font-katari'>一瞬的静寂之后，姬塔睁开双眼，</span><br><span class='scene-font-katari'>发现自己已经回到了骑空艇上的寝室中。</span>
+53,<span class='scene-font-katari'>语音刚落，</span><span class='scene-font-spword'>拉斐尔之弓</span><span class='scene-font-katari'>便发出夺目的光芒，</span><br><span class='scene-font-katari'>顷刻之间覆盖了姬塔的视野──
+52,<span class='scene-font-gray'>既如此，吾便考验与汝。</span><br><span class='scene-font-gray'>于夜中思吾之名罢。</span>
+51,<span class='scene-font-katari'>这时，</span><span class='scene-font-spword'>拉斐尔之弓</span><br><span class='scene-font-katari'>忽然开始激烈颤动。</span>
+50,<span class='scene-font-katari'>拉斐尔用指尖轻抚姬塔手上的</span><br><span class='scene-font-spword'>拉斐尔之弓</span><span class='scene-font-katari'>。</span>
+49,<span class='scene-font-gray'>不错……</span>
+48,<span class='scene-font-katari'>作为回应，姬塔朝拉斐尔投去了坚定的目光。</span>
+47,<span class='scene-font-gray'>此去前路险如天堑，</span><br><span class='scene-font-gray'>汝惧否。</span>
+44,<span class='scene-font-katari'>只见拉斐尔轻笑一声，</span><br><span class='scene-font-katari'>气势重又威严起来，</span><br><span class='scene-font-katari'>与姬塔拉开了距离。</span>
+41,<span class='scene-font-gray'>呵……</span>
+40,<span class='scene-font-katari'>姬塔甫一说出脑海中浮现的名字，</span><br><span class='scene-font-katari'>眼前威风凛凛的男子的唇角便柔和了下来。</span>
+39-sel1_txt,<span class='scene-font-katari'>拉斐尔……？</span>
+39,<span class='scene-font-gray'>寄宿之物在你手上啊……</span>
+38,<span class='scene-font-katari'>姬塔放眼望向四周，</span><br><span class='scene-font-katari'>只见自己身后伫立着一个身影。</span>
+37,<span class='scene-font-katari'>不知是否因为身处纯白的空间之内</span><br><span class='scene-font-katari'>距离感完全不起作用，</span><br><span class='scene-font-katari'>这声音就像是在脑海中直接响起一般。</span>
+36,<span class='scene-font-gray'>…………</span>
+35-sel1_txt,<span class='scene-font-katari'>这里到底是……</span>
+35,<span class='scene-font-katari'>入目尽是一片雪白。</span><br><span class='scene-font-katari'>在这异样的空间中</span><br><span class='scene-font-katari'>姬塔呆呆站立着。</span>
+28,<span class='scene-font-katari'>突然间，弓身光芒大作，</span><br><span class='scene-font-katari'>姬塔瞬时被猛烈的光辉夺去了视野──</span>
+26,<span class='scene-font-katari'>当晚。不知怎么的，姬塔有些在意</span><br><span class='scene-font-katari'>靠立在墙边的</span><span class='scene-font-spword'>拉斐尔之弓</span><span class='scene-font-katari'>。于是便</span><br><span class='scene-font-katari'>伸出手，将弓拿了起来。</span>
+18,<span class='scene-font-katari'>于是，得到了新武器的姬塔一行人</span><br><span class='scene-font-katari'>离开了万事屋。</span>
+17,原来如此啊！<br>这还真是得到了个好东西啊！
+16,一开始感觉到的强烈的属性之力，<br>果然是拉斐尔大人的风之力啊。
+15,顺便一提～<br>要是装备上这把风属性的武器，<br>在与土属性敌人对阵时会具有优势哦～
+14,其名为<span class='scene-font-spword'>『拉斐尔之弓』</span>～
+13,这把武器正是被冠以了天司之名～
+12,哦～<br>那可真是些大人物啊。
+11,民间流传的<span class='scene-font-spword'>『四大天司』</span>的传说中～<br>四位天司维持着自然界的平衡……
+10,嗯～、你应该知道，在这个世界上有着<br>掌管“水火土风”四大元素的<span class='scene-font-spword'>『天司』</span><br>这样的存在～</span>
+9,请问……<br>这把武器叫什么名字呢？
+8,<span class='scene-font-katari'>姬塔深深地吸了口气，</span><br><span class='scene-font-katari'>从榭洛科特手中接过武器，</span><br><span class='scene-font-katari'>让其再次展现于阳光之下。</span>
+6,<span class='scene-font-katari'>榭洛科特依约取出</span><br><span class='scene-font-katari'>散发着神圣光辉的武器，</span><br><span class='scene-font-katari'>递到姬塔等人面前。</span>
+4,按照先前所说的～<br>这把武器就做为谢礼<br>交给你们了～
+3,嘿嘿，这对我们来说可是小菜一碟！
+2,帮了我大忙呢～<br>真是太感谢了～
+1,<span class='scene-font-katari'>姬塔一行受榭洛科特所托，</span><br><span class='scene-font-katari'>将收集到的物品都搬进万事屋里。</span>
+0-synopsis,收集到指定交换品后，姬塔一行从榭洛科特手上得到了冠以『风之天司・拉斐尔』之名的武器——『拉斐尔之弓』。当晚，姬塔被拉斐尔之弓放出的光芒引导进了一处异空间，并在那里与拉斐尔邂逅。拉斐尔向姬塔暗示，不久的将来，众人将会遇到困境。为了抗争这宿命，姬塔接受了来自拉斐尔的考验。

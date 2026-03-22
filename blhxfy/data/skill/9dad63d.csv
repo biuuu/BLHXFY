@@ -1,0 +1,8 @@
+id,name,detail
+npc,德朗克,3040269000
+special,球体崩坏,<div class=prt-text-small>火属性伤害(特大)/完全回避(1次)</div>
+skill-1,堇紫冲击,<div class=prt-text-small>对敌方单体造成火属性攻击/弱体耐性DOWN(累积)/攻击DOWN(累积)</div>
+skill-2,后备保险,<div class=prt-text-small>我方指定火属性单体获得驱散防御/屏障/完全回避(1次)</div>
+skill-3,迷雾之外,<div class=prt-text-small>敌方单体CT加1施加风属性攻击DOEN/火属性防御DOWN/特殊技伤害DOWN</div>
+support-1,闪耀的烟雾,根据攻击的敌方弱体属性对应回避率UP
+support-2,愤怒的士兵,自身回避成功时，发动1次堇紫冲击

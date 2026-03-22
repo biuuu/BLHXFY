@@ -1,0 +1,15 @@
+id,name,detail
+npc,伊欧,3040065000
+special,水晶之风,<div class=prt-text-small>光属性伤害(特大)/我方全体根据「魔力之涡」层数依次获得再生效果(上限500)/强壮效果(HP越多攻击力越高)/伤害上限UP<br><span class=text-blue>◆消耗所有「魔力之涡」</span></div>
+special-エレメンタル・オーバーリミット,元素溢限,<div class=prt-text-small>光属性伤害(特大)/我方全体根据「魔力之涡」层数依次获得再生效果(上限1000)/强壮效果(HP越多攻击力越高)/伤害上限UP<br><span class=text-blue>◆消耗1层「魔力之涡」</span></div>
+skill-1,花耀七闪,对敌方随机造成7次弱点属性伤害<br><span class=text-blue>◆根据「魔力之涡」层数该技能伤害上限UP</span>
+skill-1++,花耀七闪,<div class=prt-text-small>对敌方随机造成7次弱点属性伤害<br><span class=text-blue>◆根据「魔力之涡」层数强化该技能</span></div>
+skill-2,治疗III,我方全体HP回复(上限5000)
+skill-2,圣念祈愿,我方全体HP回复(上限5000)/攻防UP<br><span class=text-blue>◆根据「魔力之涡」层数强化该技能</span>
+skill-3,魔力之涡,<div class=prt-text-small>自身获得「魔力之涡」(最大3层)/根据「魔力之涡」层数奥义性能UP<br><span class=text-blue>◆每消耗25%奥义值获得1层「魔力之涡」</span></div>
+skill-4,封魔之杖,<div class=prt-text-small>自身消耗3层「魔力之涡」获得「魔封杖」<span class=text-blue>◆自身发动奥义后追加发动1次「花耀七闪」/我方光属性角色每使用5次技能自动发动1次「花耀七闪」</span></div>
+support-1,水晶纱帷,我方全体获得暗属性伤害减轻<br><span class=text-blue>◆仅前排有效</span>
+support-2,幻魔之光,我方全体根据「魔力之涡」层数获得光属性攻击力UP<br><span class=text-blue>◆仅前排有效</span>
+support-2+,幻魔之光,我方全体根据「魔力之涡」层数获得光属性攻击力UP/弱化耐性UP<br><span class=text-blue>◆仅前排有效</span>
+skill-lb,LB技能,自身使用技能时获得奥义值UP
+intro,苍翠的魔法少女,在天空的旅途中，魔导师少女将师父的言语铭记心中，完成了华丽的变身。就像是让小小的花蕾开放出鲜花一般，象征着她自身内心的成长。
