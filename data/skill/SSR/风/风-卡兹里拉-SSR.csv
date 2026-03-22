@@ -1,0 +1,13 @@
+﻿id,name,detail
+npc,卡兹里拉,3040166000
+special,,风属性伤害(特大)/我方全体土属性伤害减轻/将受到的伤害转换为土属性
+special-ガルゲニア行進曲『栄光と繁栄』,,风属性伤害(特大)/我方全体土属性伤害减轻/将受到的伤害转换为土属性/奥义值UP
+skill-1,,回合中风属性角色特殊强化/再使用解除<span class=text-blue>◆每回合出自身以外角色消耗30%奥义值</span>
+skill-2,,风属性角色奥义值UP/奥义性能UP(1次)
+skill-3,,﻿<div class=prt-text-small>自身以外风属性角色单体防御UP/即死回避/援护效果(全体)<span class=text-blue>◆消耗自身30%奥义值</span></div>
+skill-4,,﻿<div class=prt-text-small>自身获得「继位的旋律」效果<br><span class=text-blue>◆对于奥义值最大的风属性角色，奥义值UP效果发动时，对敌方全体造成风属性伤害/受伤UP(2次)/「皇帝之正位」发动时才可使用</span></div>
+support-1,,风属性角色消耗奥义值时，根据消耗值回复HP
+skill-sub,,风属性角色无弱体效果时，HP渐渐回复/有弱体效果时，攻击UP
+skill-main,,风属性角色获得「再征之战律」效果<br><span class=text-blue>◆再发动不可</span>
+skill-lb,LB技能,我方全体土属性伤害减轻
+intro,,
