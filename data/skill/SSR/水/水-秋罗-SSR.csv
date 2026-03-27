@@ -1,6 +1,6 @@
 id,name,detail
 npc,秋罗,3040273000
-special,苍华风刃,<div class=prt-text-small>水属性伤害(极大)/自身获得苍华效果<br><span class=text-blue>◆</span></div>
+special,苍华风刃,<div class=prt-text-small>水属性伤害(极大)/自身获得苍华效果<br><span class=text-blue>◆消耗武成而非奥义值</span></div>
 skill-1,战术策：宝典,<div class=prt-text-small>我方全体攻击力UP/水属性攻击力UP<br><span class=text-blue>◆奥义值120%以上时，变为「战术策：舜典」</span></div>
 skill-戦術策：舜典,战术策：舜典,<div class=prt-text-small>我方全体攻击力UP/水属性攻击力UP/攻击UP<br><span class=text-blue>
 skill-2,苍丽的策略,<div class=prt-text-small>自身获得武成</div>
