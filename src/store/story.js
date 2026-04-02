@@ -10,12 +10,12 @@ export const getStoryCSV = async (name) => {
     const binaryString = await fetchData('/blhxfy/data/story-map.json')
     storyData = JSON.parse(pako.inflate(binaryString, { to: 'string' }))
   }
-  if ((config.transJa && Game.lang === 'ja') || (config.transEn && Game.lang === 'en')) {
-    if (!storyDataAI) {
-      try {
-        const binaryString = await fetchData('https://blhx-ai.danmu9.com/blhxfy/story-map.json')
-        storyDataAI = JSON.parse(pako.inflate(binaryString, { to: 'string' }))
-      } finally {}
+  if (!storyDataAI) {
+    try {
+      const binaryString = await fetchData('https://blhx-ai.danmu9.com/blhxfy/story-map.json')
+      storyDataAI = JSON.parse(pako.inflate(binaryString, { to: 'string' }))
+    } catch (err) {
+      storyDataAI = {}
     }
   }
   let isAI = false
