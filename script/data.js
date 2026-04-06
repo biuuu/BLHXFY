@@ -98,7 +98,7 @@ const collectStoryId = async () => {
       } else if (/\d-chapter_name/.test(row.id)) {
         if (row.trans) {
           const trans = row.trans.trim()
-          let title = row.text || row.jp
+          let title = row.text || row.jp || ''
           title = title.trim()
           if (!titleSet.has(title) && title && trans) {
             titleSet.add(title)
