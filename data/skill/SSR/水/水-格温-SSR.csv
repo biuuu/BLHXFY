@@ -1,9 +1,9 @@
 ﻿id,name,detail
 npc,格温,3040406000
 special,,水属性伤害(特大)/根据自身HP造成无属性追加伤害(最大3次)
-skill-1,,﻿<div class=prt-text-small>赋予自身3个「解放单元」(最大5)<br><span class=text-blue>◆HP在50%以上时，回合中进行2次攻击</span></div>
-skill-2,,﻿<div class=prt-text-small>自身攻击大幅UP(消去/延长不可)<br><span class=text-blue>◆消耗最大3个「解放单元」，按消耗数量延长效果</span></div>
-skill-3,,﻿<div class=prt-text-small>消耗1个「爆裂弹」，对敌方造成3次水属性伤害/不经过回合即刻进行普攻<br><span class=text-blue>◆「爆裂弹」在战斗开始时数量为3</span></div>
+skill-1,,<div class=prt-text-small>赋予自身3个「解放单元」(最大5)<br><span class=text-blue>◆HP在50%以上时，回合中进行2次攻击</span></div>
+skill-2,,<div class=prt-text-small>自身攻击大幅UP(消去/延长不可)<br><span class=text-blue>◆消耗最大3个「解放单元」，按消耗数量延长效果</span></div>
+skill-3,,<div class=prt-text-small>消耗1个「爆裂弹」，对敌方造成3次水属性伤害/不经过回合即刻进行普攻<br><span class=text-blue>◆「爆裂弹」在战斗开始时数量为3</span></div>
 support-1,,<div class=prt-text-small>战斗开始时与发动奥义时，获得2个「解放单元」/普攻时消耗「解放单元」必定三连击/获得水属性追击效果</div>
 support-2,,<div class=prt-text-small>得意武器为「剑」的水属性角色技能伤害性能UP/得意武器为「铳」的水属性角色奥义性能UP</div>
 skill-lb,LB技能,使用技能3时有概率不消耗「爆裂弹」
