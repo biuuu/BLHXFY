@@ -18,13 +18,13 @@ importers:
         specifier: ^3.4.0
         version: 3.4.0
       events:
-        specifier: ^3.0.0
+        specifier: ^3.3.0
         version: 3.3.0
       glob:
         specifier: ^11.1.0
         version: 11.1.0
       js-base64:
-        specifier: ^3.7.5
+        specifier: ^3.7.8
         version: 3.7.8
       jwt-decode:
         specifier: ^3.1.2
@@ -43,10 +43,10 @@ importers:
         version: 1.19.11
     devDependencies:
       '@babel/core':
-        specifier: ^7.12.10
+        specifier: ^7.28.5
         version: 7.28.5
       '@babel/preset-env':
-        specifier: ^7.12.11
+        specifier: ^7.28.5
         version: 7.28.5(@babel/core@7.28.5)
       '@rollup/plugin-babel':
         specifier: ^7.0.0
@@ -893,8 +893,8 @@ packages:
     engines: {node: '>=6.0.0'}
     hasBin: true
 
-  brace-expansion@5.0.4:
-    resolution: {integrity: sha512-h+DEnpVvxmfVefa4jFbCf5HdH5YMDXRsmKflpf1pILZWRFlTbJpxeU55nJl4Smt5HQaGzg1o6RHFPJaOqnmBDg==}
+  brace-expansion@5.0.6:
+    resolution: {integrity: sha512-kLpxurY4Z4r9sgMsyG0Z9uzsBlgiU/EFKhj/h91/8yHu0edo7XuixOIH3VcJ8kkxs6/jPzoI6U9Vj3WqbMQ94g==}
     engines: {node: 18 || 20 || >=22}
 
   browserslist@4.27.0:
@@ -2200,7 +2200,7 @@ snapshots:
 
   baseline-browser-mapping@2.10.0: {}
 
-  brace-expansion@5.0.4:
+  brace-expansion@5.0.6:
     dependencies:
       balanced-match: 4.0.4
 
@@ -2415,7 +2415,7 @@ snapshots:
 
   minimatch@10.2.4:
     dependencies:
-      brace-expansion: 5.0.4
+      brace-expansion: 5.0.6
 
   minipass@7.1.2: {}
 
