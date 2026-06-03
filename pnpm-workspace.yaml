@@ -1,0 +1,6 @@
+overrides:
+  minimatch: "^10.2.3"
+
+allowBuilds:
+  core-js: true
+  esbuild: true
