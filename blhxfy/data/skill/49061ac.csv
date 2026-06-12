@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,托路,3040336000
+special,,水属性伤害(特大)/我方全体获得会心效果
+skill-1,,使用幻视之力再现自身或同伴的技能/自身暴击率UP
+skill-2,,对随机目标造成5次水属性伤害/敌方全体水属性防御DOWN(累积)
+skill-3,,对敌方造成盲暗/恐惧/命中率DOWN效果
+support-1,,<div class=prt-text-small>暴击时「圣剑的记忆」Lv上升1(最大5)/根据「圣剑的记忆」Lv性能UP<span class=text-blue>◆Lv5时，暴击时对随机目标造成3次水属性伤害</span></div>
+support-2,,水属性角色暴击率UP/暴击时造成伤害上升
+skill-lb,LB技能,使用技能时，自身获得造成伤害上升效果(累积)
+intro,,

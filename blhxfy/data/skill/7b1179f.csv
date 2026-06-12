@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,米迦勒,3040440000
+special,,火属性伤害(特大)/我方全体火属性攻击UP/高扬效果
+skill-1,,自身以外单体火属性角色可即刻发动奥义/奥义再发动效果(1次)
+skill-2,,<div class=prt-text-small>对敌方单体造成11倍火属性伤害/火属性角色获得「劫火的护封」效果<span class=text-blue>◆承伤3次后「劫火的护封」效果解除</span></div>
+skill-3,,对敌方全体根据其HP造成无属性伤害/驱散1种强化效果/缓速效果
+support-1,,<div class=prt-text-small>火属性角色发动奥义时，自身获得1层「爆炎」(最大9)/回合结束时消耗3层「爆炎」发动技能3</div>
+support-2,,<div class=prt-text-small>「火」「業火」「紅蓮」「機炎方陣」效果20%UP<span class=text-blue>◆自身处于后排时同样发动</span></div>
+skill-lb,LB技能,
+intro,火天司,

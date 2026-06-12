@@ -1,0 +1,8 @@
+id,name,detail
+npc,塞鲁艾尔,3040250000
+special,伊伯梅丝之光,<div class=prt-text-small>风属性伤害(特大)/我方全体获得屏障/自身获得1层狂风的刻印</div>
+skill-1,贵族之刃,<div class=prt-text-small>对敌方单体造成风属性攻击/攻击DOWN/土属性攻击DOWN/风属性防御DOWN</div>
+skill-2,闪耀之星,<div class=prt-text-small>我方全体连击率UP/暴击率UP/回避率UP<br><span class=text-blue>◆受到2次伤害解除</span></div>
+skill-3,光明恩典,<div class=prt-text-small>我方全体获得土属性伤害减免(70%)/1层狂风的刻印</div>
+support-1,请允许我来护送,自身没有弱体效果时，我方全体连击率UP
+support-2,无冕的守护者,我方风属性角色根据狂风的刻印层数获得土属性伤害减免/战斗开始时获得弱体无效(1回)<br><span class=text-blue>◆自身在后排时也有效</span>

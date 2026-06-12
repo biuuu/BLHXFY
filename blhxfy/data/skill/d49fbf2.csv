@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,莉莉,3040463000
+special,,风属性伤害(特大)/我方全体回避率UP/自身获得狂风刻印
+skill-1,,风属性角色获得狂风刻印/格挡效果/再生效果/自身获得春风效果(3次)
+skill-2,,<div class=prt-text-small>回复我方全体HP/奥义值10%UP/净化1种弱体效果<span class=text-blue>◆弱体效果净化成功时，我方全体奥义值30%UP/风属性角色获得1纯白赠礼(最大3)</span></div>
+skill-3,,<div class=prt-text-small>对敌方全体造成10次风属性伤害/驱散5种强化效果/回复风属性角色HP(最大10000)<span class=text-blue>◆狂风刻印5层时可使用</span></div>
+support-1,,风属性角色根据各自狂风刻印层数获得土属性伤害减轻效果<span class=text-blue>◆自身处于后排时同样发动</span>
+support-2,,风属性角色根据各自纯白赠礼数量依次获得以下效果：活性效果/奥义值上升量UP/奥义性能UP
+skill-lb,LB技能,
+intro,,

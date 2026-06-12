@@ -1,0 +1,9 @@
+id,name,detail
+npc,布洛蒂亚,3040232000
+special,刃镜螺旋,<div class=prt-text-small>土属性伤害(特大)/2回合内，回合结束时发动布尔德布兰特</div>
+skill-1,不可侵神域,<div class=prt-text-small>净化自身全部弱体状态/展开不可侵神域<br><span class=text-blue>◆每回合花费刃镜/回合结束时刃镜为0解除(最大3回合)</span></div>
+skill-2,布尔德布兰特,<div class=prt-text-small>对敌方全体造成土属性攻击/我方全体防御UP(累积/永续)/自身展开1层刃镜</div>
+skill-3,尼伯龙根之沙,<div class=prt-text-small>对敌方全体施加水属性攻击DOWN/重力<br><span class=text-blue>◆消耗1层刃镜追加命中率DOWN</span></div>
+support-1,刃镜灿然,根据刃镜的层数对应攻防UP<br><span class=text-blue>◆回合开始时刃镜3层(最大5层)/刃镜3层以上时自身获得再生效果</span>
+support-2,全力的假期,不可侵神域展开时防御UP/弱体耐性UP/援护(全体)/被攻击转化为水属性单次最大伤害为1500<br><span class=text-blue>◆全体攻击时，受到的伤害和遭受的一致</span>
+skill-lb,LB技能,自身没有弱体状态时，连击率UP

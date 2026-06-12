@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,厄倪俄,3040470000
+special,,火属性伤害(特大)/发动技能1
+skill-1,,<div class=prt-text-small>自身伤害上限UP<span class=text-blue>◆每次发动依次获得以下效果：必定三连击/强壮效果/火属性追击效果/普攻伤害上限UP</span></div>
+skill-2,,对敌方全体造成火属性伤害/弱体耐性DOWN(累积)/「爪痕」效果
+skill-3,,自身获得伤害上升效果(累积)/不计入回合地发动普攻
+support-1,,随着回合经过自身火属性追击效果UP/风属性防御DOWN
+support-2,,敌人使用特殊技能时技能3可即刻使用/自身奥义值20%UP
+skill-lb,LB技能,
+intro,,

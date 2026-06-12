@@ -1,0 +1,12 @@
+﻿id,name,detail
+npc,U·Friday,3040442000
+special,,风属性伤害(特大)/防御DOWN<span class=text-blue>◆在星期五，奥义变化为「Premium Night Forever」</span>
+special-プレミアムナイト・フォーエバー,Premium Night Forever,风属性伤害(极大)/防御DOWN
+special-Premium Night Forever,Premium Night Forever,风属性伤害(极大)/防御DOWN
+skill-1,,<div class=prt-text-small>对敌方随机目标造成7次风属性伤害/敌方全体风属性防御DOWN(累积)<span class=text-blue>◆强化时：攻击次数2倍/驱散敌方全体2种强化效果</span></div>
+skill-2,,<div class=prt-text-small>自身攻防UP/奥义性能UP/奥义值30%UP<span class=text-blue>◆强化时：对象变为风属性角色</span></div>
+skill-3,,<div class=prt-text-small>回复自身全部HP/净化全部弱体效果<br><span class=text-blue>◆强化时：对象变为风属性角色</span></div>
+support-1,,星期五时自身技能强化
+support-2,,风属性角色奥义伤害上升/敌人使用特殊技能时发动技能1
+skill-lb,LB技能,
+intro,,

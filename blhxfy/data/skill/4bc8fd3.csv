@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,乌列尔,3040501000
+special,,<div class=prt-text-small>土属性伤害(特大)/我方全体土属性攻击UP/获得3个「山铜」/技能3cd缩短2回合</div>
+skill-1,,对敌方单体造成2次土属性伤害/承伤UP(6次)
+skill-2,,<div class=prt-text-small>对敌方全体造成3次土属性伤害/土属性角色奥义值30%UP/「荒土的护封」效果<span class=text-blue>◆「荒土的护封」效果3次承伤解除</span></div>
+skill-3,,<div class=prt-text-small>对敌方全体造成12倍土属性伤害/驱散3种强化效果/自身必定三连击/回合中进行2次攻击</div>
+support-1,,<div class=prt-text-small>土属性角色使用攻击技能时，乌列尔获得1个「山铜」(最大9)/普攻后消耗3「山铜」发动技能1</div>
+support-2,,<div class=prt-text-small>「土」「大地」「地裂」「创树方阵」的效果20%UP<span class=text-blue>◆自身处于后排时同样发动</span></div>
+skill-lb,LB技能,
+intro,,

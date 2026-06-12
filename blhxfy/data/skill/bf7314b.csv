@@ -1,0 +1,15 @@
+id,name,detail
+npc,美黛拉,3040012000
+special,神速击毁,风属性伤害(特大)/获得1层空灵箭
+special-Gleaming Pulverize,闪耀击毁,风属性伤害(特大)/获得2层空灵箭
+special-グリーム・パルパーション,闪耀击毁,风属性伤害(特大)/获得2层空灵箭
+skill-1,绣弓,对敌方单体造成风属性伤害/魅惑效果 <span class=text-blue>◆消耗空灵箭：发动两次</span>
+skill-1+,绣弓,对敌方单体造成3倍风属性伤害/魅惑效果 <span class=text-blue>◆消耗空灵箭：发动两次</span>
+skill-1++,绣弓,对敌方单体造成3倍风属性伤害/魅惑效果 <span class=text-blue>◆消耗空灵箭：发动两次/追加恼杀效果</span>
+skill-2,耀星,5次风属性伤害，目标随机/敌方攻击8%DOWN(累积，最大30%) <span class=text-blue>◆消耗空灵箭：发动两次</span>
+skill-2+,耀星,5次风属性伤害，目标随机/敌方攻击8%DOWN(累积，最大30%) <span class=text-blue>◆消耗空灵箭：发动两次</span>
+skill-2++,耀星,<div class=prt-text-small>5次风属性伤害，目标随机/敌方攻击DOWN20%(累积，最大50%) <span class=text-blue>◆消耗空灵箭：发动两次/获得风属性追伤效果(80%)</span></div>
+skill-3,隼落之击,对敌方单体造成4~4.5倍风属性伤害/缓慢效果 <span class=text-blue>◆消耗空灵箭：发动两次</span>
+support-1,非凡之相,对有弱化效果的敌人攻击15%UP
+support-2,魔导结界,战斗开始时获得2层空灵箭(最大2层)/消耗空灵箭发动技能时，自身的奥义值+15%
+skill-lb,LB技能,对魅惑状态的敌人造成额外风属性伤害

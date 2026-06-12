@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,尤达拉哈,3040259000
+special,,风属性伤害(特大)/根据自身三幕层数造成风属性追击效果
+skill-1,,消耗1层三幕，自身攻击大幅UP<span class=text-blue>◆消耗100%奥义值，回合中进行2次攻击行动</span>
+skill-2,,自身可即刻发动奥义/奥义性能UP(1次)<span class=text-blue>◆最大HP减少30%</span>
+skill-3,,自身获得3三幕<span class=text-blue>◆仅在无三幕效果时可使用</span>
+support-1,,<div class=prt-text-small>每4回合赋予自身3三幕/三幕效果中必定三连击/无三幕效果时无法普攻/防御与敌对心大幅DOWN<span class=text-blue>◆普攻消耗1三幕，战斗开始时拥有3三幕(最大3)</span></div>
+support-2,觉悟与誓言的白色装束,风属性追击效果中，回避率UP
+skill-lb,LB技能,普攻有几率获得攻击UP效果(累积)
+intro,,

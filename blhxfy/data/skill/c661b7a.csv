@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,安娜,3040402000
+special,,火属性伤害(特大)/技能1可即刻使用<span class=text-blue>◆对火伤状态的敌人奥义性能UP</span>
+skill-1,,对敌方全体造成火属性伤害/火伤Lv上升1(最大10)/缓速效果
+skill-2,,对敌方全体造成火属性伤害/盲暗效果/魅惑效果
+skill-3,,对敌方单体造成10次火属性伤害/自身攻击大幅UP<span class=text-blue>◆敌人火伤Lv5以上时：攻击次数2倍</span>
+support-1,,每3回合玩偶猫将根据安娜的状态行动
+support-2,,根据敌人的火伤Lv，火属性角色技能性能UP<span class=text-blue>◆自身处于后排时同样发动</span>
+skill-lb,LB技能,
+intro,,

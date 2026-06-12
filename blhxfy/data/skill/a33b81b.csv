@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,奥克塔维亚,3040644000
+special,,<div class=prt-text-small>水属性伤害(极大)/自身攻击大幅UP/自身强化效果延长1回合<span class=text-blue>◆仅在机巧启动时发动可能</span></div>
+skill-1,,<div class=prt-text-small>水属性角色获得防消去盾(1次)/水属性追击效果/三连击概率UP/自身在回合内进行2次攻击行动</div>
+skill-2,,对敌方造成4次水属性伤害/连击率DOWN/消去1个强化效果
+skill-3,,<div class=prt-text-small>消耗蓄电Lv10层启动机巧/水属性角色获得受伤无效化(1次)/弱体效果无效(1次)<span class=text-blue>◆仅在机巧未启动时使用可能/机巧启动中，自身获得乱击效果/造成伤害上升/普攻时对敌人造成3次水属性伤害</span></div>
+support-1,,<div class=prt-text-small>我方全体每对敌方造成50次攻击，自身蓄电Lv上升1(最大10)/伤害上限UP(累积)/蓄电Lv达到10层时，技能1使用可能<span class=text-blue>◆战斗开始时，蓄电Lv为10</span></div>
+support-2,,<div class=prt-text-small>最大HP较低但普攻造成伤害UP/回避率UP/敌方使用特殊技时发动技能2</div>
+skill-lb,LB技能,
+intro,绿骑士,
