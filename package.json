@@ -37,7 +37,7 @@
     "@ungap/url-search-params": "^0.2.2",
     "baseline-browser-mapping": "^2.10.0",
     "cross-env": "^10.1.0",
-    "esbuild": "^0.27.3",
+    "esbuild": "^0.28.1",
     "fs-extra": "^11.3.4",
     "md5-file": "^5.0.0",
     "rollup": "^2.80.0",
