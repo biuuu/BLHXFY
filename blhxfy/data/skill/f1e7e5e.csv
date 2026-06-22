@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,戴安萨,3040296000
+special,,回复土属性角色HP/净化1种弱体效果/激奏效果延长2回合
+skill-1,,自身获得表演效果/屏障效果(4000)<span class=text-blue>◆承伤后解除表演效果</span>
+skill-2,,<div class=prt-text-small>我方全体连击率UP/激奏UP<span class=text-blue>◆自身激奏层数为4时，连击率UP效果UP/追加普攻伤害UP效果</span></div>
+skill-3,,土属性角色获得1种随机强化效果<span class=text-blue>◆根据自身激奏层数追加强化效果数量(最大5种)</span>
+support-1,,我方全体根据各自激奏层数获得土属性追击效果
+support-2,,土属性主人公伤害上限UP<span class=text-blue>◆自身处于后排时同样发动</span>
+skill-lb,LB技能,使用奥义时有技能2有几率可即刻使用
+intro,,

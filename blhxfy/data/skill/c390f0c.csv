@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,格里姆尼尔,3040261000
+special,天佑神助晄,<div class=prt-text-small>我方全体获得屏障效果(4000)/风属性角色暴击率UP/会心效果(4回合)/自身飓风Lv上升2</div>
+skill-1,燦煌闪,对敌方随机目标造成6次风属性伤害/飓风Lv上升1(最大10)
+skill-2,神圣暴风,<div class=prt-text-small>对敌方随机目标造成20次风属性伤害/敌方全体攻击DOWN/连击率DOWN/暴威之岚效果<span class=text-blue>◆消耗7层飓风Lv</span></div>
+skill-3,辉罗·神圣灭暗晄,吾右腕之戒解放之时！当天震地裂！！灭尽邪恶！！！<span class=text-blue>◆消耗10层飓风Lv</span></div>
+support-1,情人节什么的没什么兴趣呢〜,必定三连击，但奥义值积累较慢/普攻1次对随机目标造成3次打击
+support-2,没兴趣是假的！,我方全体对目标敌人造成30以上攻击的回合结束时，飓风Lv上升1
+skill-lb,LB技能,我方全体获得土属性伤害减轻效果
+intro,,

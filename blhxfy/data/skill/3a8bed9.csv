@@ -1,0 +1,9 @@
+﻿id,name,detail
+npc,齐格飞,3040485000
+special,巨牙,光属性伤害(特大)/技能2可即刻使用<span class=text-blue>◆孤龙奋斗7层时，发动技能1 </span>
+skill-1,重斩,对敌方全体造成光属性伤害/攻防DOWN(累积)/回复自身HP<span class=text-blue>◆孤龙奋斗7层时，普攻后发动 </span>
+skill-2,贯通刺,对敌方单体造成光属性伤害/驱散1种强化效果/自身获得光属性追击效果<span class=text-blue>◆驱散成功时发动不计回合的普攻</span>
+skill-3,孤胆英雄,<div class=prt-text-small>自身获得龙血活性效果<span class=text-blue>◆龙血活性效果中敌对心大幅UP/格挡效果/暗属性承伤最大值固定为5000/全力反击效果 </span></div>
+support-1,忠义无瑕,<div class=prt-text-small>战斗开始时忽的不死身效果(1次)/普攻使孤龙奋斗Lv上升1(最大7)<span class=text-blue>◆根据孤龙奋斗层数攻击UP/连击率UP/普攻伤害UP/奥义性能UP</span></div>
+support-2,龙血的脉搏,受伤反击(1次)/回合结束时回复HP/净化1种弱体效果<span class=text-blue>◆龙血活性效果中性能UP</span>
+intro,弑君冤罪,

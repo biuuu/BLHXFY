@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,伊尔诺特,3040345000
+special,,土属性伤害(特大)/消耗1「画作」发动技能1
+skill-1,,对敌方单体造成土属性伤害/缓速效果/驱散1种强化效果<span class=text-blue>◆消耗1「画作」，发动2次</span>
+skill-2,,我方全体三连击率UP/土属性追击效果/短路效果<span class=text-blue>◆消耗我方全体100%奥义值</span>
+skill-3,,敌方全体攻击性能大幅DOWN/防御大幅DOWN/承伤上升(消去不可)
+support-1,,战斗开始时自己为作战成员时，土属性角色奥义值40%UP
+support-2,,成为敌人目标时，获得1「画作」(最大3)
+skill-lb,LB技能,普攻有几率获得1「画作」
+intro,禁忌之夜的邀约,

@@ -1,0 +1,11 @@
+id,name,detail
+npc,零,3040265000
+special,五眼掌握·寂光净土,<div class=prt-text-small>「天网之星眼」/驱散1个强化效果/弱化耐性DOWN/光属性攻击力DOWN/连续攻击率DOWN</div>
+skill-1,阿赖耶识,<div class=prt-text-small>自身以外的我方指定暗属性角色获得再攻击效果<br><span class=text-blue>◆再次使用该技能或自身离开前排时解除效果</span></div>
+skill-2,解脱,<div class=prt-text-small>自身与首名后排角色交换位置/交换的暗属性角色获得攻击力UP/必定三连击/伤害上限UP/回避率UP/防御力DOWN<span class=text-blue>◆自身返回前排时效果解除</span></div>
+skill-3,白眼视,<div class=prt-text-small>敌方全体获得「白眼视」<br><span class=text-blue>◆敌方处于「白眼视」时该回合造成的伤害归0/自身离场时移除「白眼视」</span></div>
+skill-4,天之逆手,<div class=prt-text-small>本回合结束时的经过回合数额外加5<br><span class=text-blue>◆回合结束时自身处于前排生效</span></div>
+support-1,证悟的智慧,自身使用操纵型技能期间无法进行攻击
+support-2,守护孩子的母亲,我方暗属性角色对处于「天网之星眼」的目标获得奥义性能UP
+skill-lb,LB技能,我方全体获得光属性伤害减轻<br><span class=text-blue>◆仅前排有效</span>
+intro,悟心瞳师,这眼瞳能看透天上天下的森罗万象。久远的少女以一己之力将天空的污秽扫净，将纯洁的孩子们引入安宁之地。

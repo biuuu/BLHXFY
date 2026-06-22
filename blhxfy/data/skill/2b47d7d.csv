@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,妲奴亚时,3040256000
+special,,光属性伤害(特大)/恐怖效果(4回合)
+skill-1,,对敌方全体造成光属性伤害/攻击DOWN/连击率DOWN
+skill-2,,<div class=prt-text-small>回合中进行2次攻击行动/每回合HP减少/无法回复HP<br><span class=text-blue>◆受到光属性角色的强化或回复技能时延长效果时间</span></div>
+skill-3,,我方全体连击率UP<span class=text-blue>◆有恐惧状态的敌人时性能UP</span>
+support-1,,我方全体弱体成功率UP
+support-2,,自身HP越低，攻击UP/回合伤害不会导致无法战斗
+skill-lb,LB技能,概率将中毒·灼热·腐败等回合伤害转换为回复HP
+intro,,

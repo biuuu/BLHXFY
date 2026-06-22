@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,尤格多拉希尔,3040380000
+special,,风属性伤害(特大)/自身获得狂风刻印/发动技能3
+skill-1,,风属性角色获得「创树的新芽」效果：免疫驱散/受伤减轻/吸收效果
+skill-2,,风属性奥义值30%UP/获得狂风刻印
+skill-3,,回复我方全体HP/弱体效果缩短2回合<span class=text-blue>◆狂风刻印5层时，发动2次</span>
+support-1,,<div class=prt-text-small>攻击力低，但不容易成为敌人攻击目标<span class=text-blue>◆未承伤的回合结束时，风属性角色回复HP/奥义值10%UP</span></div>
+support-2,,<div class=prt-text-small>风属性角色根据各自疯狂刻印层数奥义值上升量UP<span class=text-blue>◆自身处于后排时同样发动</span></div>
+skill-lb,LB技能,我方全体获得土属性伤害减轻效果
+intro,,

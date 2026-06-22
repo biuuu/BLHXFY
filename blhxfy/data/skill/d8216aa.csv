@@ -1,0 +1,17 @@
+id,name,detail
+npc,冈达葛萨,3040052000
+special,莲天红我正拳突刺,火属性伤害(特大)/自身暴击率UP(30%概率造成1.3倍伤害)<span class=text-blue>◆消去古今无双流效果</span>
+special-怒髪驚天正拳突き,怒发惊天正拳突刺,火属性伤害(特大)/自身暴击率UP(30%概率造成1.3倍伤害)/格挡效果<span class=text-blue>◆消去古今无双流效果</span>
+special-Fist of Hair-Raising Fury,怒发惊天正拳突刺,火属性伤害(特大)/自身暴击率UP(30%概率造成1.3倍伤害)/格挡效果<span class=text-blue>◆消去古今无双流效果</span>
+skill-1,破天道,赋予敌方全体日晕效果
+skill-灼滅・破天道,灼灭・破天道,赋予敌方全体日晕效果/对敌方全体造成5倍火属性伤害
+skill-Infernal Skybreaker,灼灭・破天道,赋予敌方全体日晕效果/对敌方全体造成5倍火属性伤害
+skill-2,印可掌,获得反击效果(回避·受伤时/4次/3.5倍伤害)
+skill-2+,印可掌,获得反击效果(回避·受伤时/4次/5倍伤害)
+skill-瞬撃・印可掌,瞬击・印可掌,获得反击效果(回避·受伤时/4次/5倍伤害)/可以立刻发动奥义 <span class=text-blue>◆直接获得10层古今无双流层数</span>
+skill-3,无明白昼,我方全体火属性攻击20%UP/二连击30%率UP
+skill-真・无明白天,真・无明白昼,<span class=prt-text-small>我方全体火属性攻击20%UP/二连击率30%UP/赋予自身「无双霸气」效果(回合结束时古今无双流等级+1)(5回合)</span>
+support-1,古今無双流,得意武器为「格斗」的角色二连击率10%UP
+support-2,古今独歩大拳豪,每次攻击赋予自身1层古今无双流效果　<span class=text-blue>◆古今无双流效果等级越高，攻击UP/奥义性能UP</span>
+skill-lb,LB技能,普攻时有概率获得攻击UP效果(累积)
+intro,,

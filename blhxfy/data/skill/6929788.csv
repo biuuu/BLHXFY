@@ -1,0 +1,9 @@
+id,name,detail
+npc,可可萝,3040201000
+special,极光,<div class=prt-text-small>我方全体HP回复/风属性攻击UP/特殊强化(攻击UP/连击率UP)</div>
+skill-1,提速,<div class=prt-text-small>我方全体伤害上限提升/奥义值UP(25%)</div>
+skill-2,三重斩击,<div class=prt-text-small>对敌方随机目标造成3次攻击</div>
+skill-3,蔻灵之矛,<div class=prt-text-small>对敌方单体造成风属性攻击/防御DOWN</div>
+support-1,精灵的启示,我方全体的强化效果「风属性攻击UP」的效果UP
+support-2,泛滥的母性,风属性角色的连击率UP
+skill-lb,LB技能,一定几率获得完全回避

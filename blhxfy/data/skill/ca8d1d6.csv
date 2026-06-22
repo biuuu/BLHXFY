@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,索菲亚,3040397000
+special,,<div class=prt-text-small>回复我方全体HP/连击率UP/免疫驱散(1次)/护盾效果/高扬效果/自身奥义封印</div>
+skill-1,,水属性角色特殊强化(攻防UP)/回合承伤减轻
+skill-2,,敌方单体火属性攻击DOWN/连击率DOWN/驱散1种强化效果
+skill-3,,<div class=prt-text-small>进入「治愈祈祷」状态，回合结束时回复水属性角色HP/净化1种弱体效果<span class=text-blue>◆「治愈祈祷」状态中不进行普攻</span></div>
+support-1,,<div class=prt-text-small>拥有高扬效果的水属性角色获得水属性追击效果/敌人使用特殊技能时技能1cd缩短2回合</div>
+support-2,,<div class=prt-text-small>「治愈祈祷」状态中，发动奥义的回合结束时，自身以外水属性角色获得再攻击效果</div>
+skill-lb,LB技能,
+intro,,

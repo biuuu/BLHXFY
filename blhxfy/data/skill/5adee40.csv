@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,古蕾娅,3040355000
+special,,光属性伤害(特大)/驱散1种强化效果
+skill-1,,<div class=prt-text-small>光属性角色奥义性能UP(1次)/奥义值上升量UP<span class=text-blue>◆追加效果：奥义值30%UP</span></div>
+skill-2,,<div class=prt-text-small>光属性角色获得强壮效果/光属性攻击UP<span class=text-blue>◆追加效果：连击率UP</span></div>
+skill-3,,<div class=prt-text-small>光属性角色防御UP/净化1种弱体效果<span class=text-blue>◆追加效果：暗属性伤害减轻</span></div>
+support-1,,<div class=prt-text-small>战斗开始及每3回合自身获得「纯白决意」效果<span class=text-blue>◆消耗「纯白决意」使技能获得追加效果</span></div>
+support-2,,<div class=prt-text-small>我方全体根据自身强化效果的数量奥义性能UP/若古蕾娅拥有10种以上强化效果，回合结束时回复我方全体HP</div>
+skill-lb,LB技能,对弱体效果「技能封印」耐性UP
+intro,,

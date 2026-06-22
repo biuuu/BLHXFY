@@ -1,0 +1,9 @@
+id,name,detail
+npc,枢木朱雀,3040220000
+special,GEASS的诅咒,<div class=prt-text-small>风属性伤害(特大)/MVS可立即使用<br><span class=text-blue>◆绝对遵守的GEASS效果中奥义性能UP</span></div>
+skill-1,MVS,<div class=prt-text-small>对敌方单体造成风属性攻击/自身DA率UP/反击(受伤/2次)</div>
+skill-2,火烁,<div class=prt-text-small>自身获得援护/弱体耐性UP</div>
+skill-3,白骑士,<div class=prt-text-small>对敌方单体造成5倍风属性攻击/自身获得逆境效果<br><span class=text-blue>◆消费自身30%最大HP</span></div>
+support-1,噩梦构架,自身最大HPUP/防御力UP/奥义值-25%
+support-2,我必须活下去,自身HP越少连击率UP/即死回避(1次/消去不可)<br><span class=text-blue>◆处于濒死状态的回合结束时，发动绝对遵守的GEASS</span>
+skill-lb,LB技能,普通攻击时，一定几率可立即使用MVS

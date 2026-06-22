@@ -1,0 +1,10 @@
+id,name,detail
+npc,尤斯提斯,3040099000
+special,致命一击,土属性伤害(特大)/黑暗效果/重置填充Lv
+skill-1,弗拉梅克之雷,对敌方全体造成土属性伤害/赋予敌人麻痹效果/填充Lv+2
+skill-2,夜翼天翔,<div class=prt-text-small>对敌方单体造成2.5~3.5倍土属性伤害/土属性防御DOWN <br><span class=text-blue>◆消费2层填充lv发动2次伤害/弱体效果命中率UP</span></div>
+skill-3,废土,<div class=prt-text-small>土属性角色的暴击率UP/连续攻击率UP<br><span class=text-blue>◆消费2层填充lv追加会心效果</span></div>
+support-1,弗拉梅克使用者,没有受到伤害时，回合结束后无视目标造成4次土属性伤害
+support-2,雷狼,随填充Lv提升，攻击UP/奥义性能UP<br><span class=text-blue>◆填充lv每回合上升2(最大10)</span>
+skill-lb,LB技能,对弱化效果「奥义封印」的抗性UP
+intro,暗夜的苍雷,黑衣之狼追踪着在饗宴之夜蠢蠢欲动的阴谋。撕裂黑暗的雷鸣恰如献给红月的挽歌。尔后他静静叹息着融入了重新造访的平和喧嚣。
