@@ -34,6 +34,19 @@ const template = `
 #blhxfy-setting-modal input[type=text]::placeholder {
   color: #aaa;
 }
+#ai-trans-priority-wrap-blhxfy {
+	display: none;
+	align-items: center;
+	white-space: nowrap;
+	flex: 0 0 auto;
+	padding: 0 !important;
+}
+#ai-trans-priority-wrap-blhxfy label {
+	white-space: nowrap;
+}
+#ai-trans-priority-hint-blhxfy {
+	display: none;
+}
 .autotrans-hint-blhxfy.ai-blhxfy:after {
   content: "AI";
   background-color: #4d6671;
@@ -79,17 +92,24 @@ const template = `
 			<div class="prt-setting-article">
 				<div class="txt-article-title">机翻设置</div>
 				<ul class="txt-article-lead">
-					<li>在没有人工翻译的情况下尝试机翻</li>
+					<li>默认会在没有现成剧情翻译时尝试机翻</li>
 				</ul>
 				<div class="prt-button" style="display:flex;flex-wrap:wrap;">
-					<div style="width:100%">
-						<input id="ai-trans-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'ai-trans', this.checked); document.getElementById('ai-settings-group').style.display = this.checked ? 'block' : 'none'" type="checkbox" value="">
+					<div style="width:100%;display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+						<input id="ai-trans-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'ai-trans', this.checked)" type="checkbox" value="">
 						<label for="ai-trans-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">AI 机翻</label>
+						<div id="ai-trans-priority-wrap-blhxfy" class="prt-button-l">
+							<input id="ai-trans-priority-setting-blhxfy" onchange="window.blhxfy.sendEvent('setting', 'ai-trans-priority', this.checked)" type="checkbox" value="">
+							<label for="ai-trans-priority-setting-blhxfy" class="btn-usual-setting-new adjust-font-s">优先使用AI翻译</label>
+						</div>
 					</div>
 					<ul class="txt-article-lead" style="margin-bottom:10px;">
 						<li>支持 OpenAI 格式接口</li>
 					</ul>
-					
+					<ul id="ai-trans-priority-hint-blhxfy" class="txt-article-lead" style="margin-bottom:10px;">
+						<li>开启“优先使用AI翻译”后，会先尝试实时 AI 翻译；失败或超时后，再回退到现有剧情翻译数据</li>
+					</ul>
+
 					<div id="ai-settings-group" style="margin: 10px 0; padding: 10px; border: 1px solid #78bbd8; border-radius: 4px; display: none; width: calc(100% - 22px);">
 						<div style="margin-bottom:10px; display: flex; align-items: center;">
 							<div class="txt-article-title" style="font-size:10px; flex: 0 0 60px; margin-bottom: 0;">API密钥</div>

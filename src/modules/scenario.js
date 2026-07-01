@@ -140,6 +140,63 @@ const getScenario = async (name) => {
   return { transMap, csv, isLLMTrans }
 }
 
+const getAiScenario = async (data, nameMap) => {
+  try {
+    const sourceData = dataToJson(data)
+    const refinedNameMap = getRefinedNameMap(data, nameMap)
+    const aiPromise = aiTransApi(sourceData, refinedNameMap)
+    const raceTimeout = new Promise(resolve => setTimeout(() => resolve('timeout'), 150000))
+
+    const result = await Promise.race([aiPromise, raceTimeout])
+    if (!result || result === 'timeout') {
+      if (result === 'timeout') {
+        console.warn('AI translation taking too long (>150s), skipping...')
+      }
+      return null
+    }
+
+    const transMap = new Map()
+
+    if (result.name_map) {
+      for (let [jp, cn] of Object.entries(result.name_map)) {
+        const _jp = jp.trim()
+        const _cn = cn.trim()
+        if (_jp && _cn && !nameMap.has(_jp)) {
+          nameMap.set(_jp, _cn)
+        }
+      }
+    }
+
+    if (result.trans_map) {
+      for (let [id, text] of Object.entries(result.trans_map)) {
+        const idArr = id.split('-')
+        const mainId = idArr[0]
+        const type = idArr[1] || 'detail'
+        const obj = transMap.get(mainId) || {}
+
+        let cleanText = text.replace(/^[^:：\uff1a]+[:：\uff1a]\s*/, '')
+
+        const uname = config.displayName || config.userName
+        const textWithBr = cleanText.replace(/\n/g, '<br>')
+        const textWithUname = textWithBr.replace(/(姬塔|古兰)/g, uname)
+        const str = filter(textWithUname)
+        obj[type] = str.replace(/<span\sclass="nickname"><\/span>/g, `<span class='nickname'></span>`)
+        obj[`${type}-origin`] = cleanText
+        transMap.set(mainId, obj)
+      }
+    }
+
+    const transObj = transMap.get('translator') || {}
+    transObj.detail = config.aiModel || 'AI'
+    transMap.set('translator', transObj)
+
+    return { transMap, isLLMTrans: true }
+  } catch (aiErr) {
+    console.error('AI Translation Process Error:', aiErr)
+    return null
+  }
+}
+
 const collectNameHtml = (str) => {
   if (!str) return str
   let name = str
@@ -244,73 +301,41 @@ const transStart = async (data, pathname) => {
   const nameMap = Game.lang !== 'ja' ? nameData['enNameMap'] : nameData['jpNameMap']
   scenarioCache.nameMap = nameMap
 
-  let { transMap, csv, isLLMTrans } = await getScenario(scenarioName)
+  let transMap = null
+  let csv = ''
+  let isLLMTrans = false
+
+  if (config.aiTrans && config.aiTransPriority) {
+    const aiScenario = await getAiScenario(data, nameMap)
+    if (aiScenario) {
+      transMap = aiScenario.transMap
+      isLLMTrans = aiScenario.isLLMTrans
+    }
+  }
+
+  if (!transMap) {
+    const scenario = await getScenario(scenarioName)
+    transMap = scenario.transMap
+    csv = scenario.csv
+    isLLMTrans = scenario.isLLMTrans
+  }
+
   if (transMap && transMap.has('filename')) {
     scenarioCache.originName = transMap.get('filename').detail
   }
 
   // AI 翻译逻辑
   if (!transMap && config.aiTrans) {
-    try {
-      const sourceData = dataToJson(data)
-      const refinedNameMap = getRefinedNameMap(data, nameMap)
-      const aiPromise = aiTransApi(sourceData, refinedNameMap)
-      const raceTimeout = new Promise(resolve => setTimeout(() => resolve('timeout'), 150000))
-
-      const result = await Promise.race([aiPromise, raceTimeout])
-
-      if (result && result !== 'timeout') {
-        const aiData = result
-        transMap = new Map()
-
-        // 1. 处理名词映射
-        if (aiData.name_map) {
-          for (let [jp, cn] of Object.entries(aiData.name_map)) {
-            const _jp = jp.trim()
-            const _cn = cn.trim()
-            if (_jp && _cn && !nameMap.has(_jp)) {
-              nameMap.set(_jp, _cn)
-            }
-          }
-        }
-
-        // 2. 处理对话翻译
-        if (aiData.trans_map) {
-          for (let [id, text] of Object.entries(aiData.trans_map)) {
-            const idArr = id.split('-')
-            const mainId = idArr[0]
-            const type = idArr[1] || 'detail'
-            const obj = transMap.get(mainId) || {}
-
-            // 兜底：自动剥离 AI 可能误加的角色名前缀，如 "角色名: " 或 "角色名："
-            let cleanText = text.replace(/^[^:：\uff1a]+[:：\uff1a]\s*/, '')
-
-            const uname = config.displayName || config.userName
-            // 转换换行符为 <br>
-            const textWithBr = cleanText.replace(/\n/g, '<br>')
-            // 同时替换 姬塔 和 古兰
-            const textWithUname = textWithBr.replace(/(姬塔|古兰)/g, uname)
-            const str = filter(textWithUname)
-            obj[type] = str.replace(/<span\sclass="nickname"><\/span>/g, `<span class='nickname'></span>`)
-            obj[`${type}-origin`] = cleanText
-            transMap.set(mainId, obj)
-
-          }
-        }
-
-        isLLMTrans = true
-        scenarioCache.hasAutoTrans = true
-        scenarioCache.transMap = transMap
-        scenarioCache.nameMap = nameMap
-        const transObj = transMap.get('translator') || {}
-        transObj.detail = config.aiModel || 'AI'
-        transMap.set('translator', transObj)
-      } else if (result === 'timeout') {
-        console.warn('AI translation taking too long (>150s), skipping...')
-      }
-    } catch (aiErr) {
-      console.error('AI Translation Process Error:', aiErr)
+    const aiScenario = await getAiScenario(data, nameMap)
+    if (aiScenario) {
+      transMap = aiScenario.transMap
+      isLLMTrans = aiScenario.isLLMTrans
     }
+  }
+  if (transMap && isLLMTrans) {
+    scenarioCache.hasAutoTrans = true
+    scenarioCache.transMap = transMap
+    scenarioCache.nameMap = nameMap
   }
   if (!transMap) {
     isLLMTrans = false // 明确重置，防止误显示 AI 提示

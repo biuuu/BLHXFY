@@ -2,6 +2,16 @@ import './etc'
 import throttle from 'lodash/throttle'
 import config from '../config'
 
+const updateAiSettingVisibility = () => {
+  const showAiSettings = config.aiTrans ? 'block' : 'none'
+  const showAiPriority = config.aiTrans ? 'inline-flex' : 'none'
+  const showAiPriorityHint = config.aiTrans && config.aiTransPriority ? 'block' : 'none'
+
+  jQuery('#ai-settings-group').css('display', showAiSettings)
+  jQuery('#ai-trans-priority-wrap-blhxfy').css('display', showAiPriority)
+  jQuery('#ai-trans-priority-hint-blhxfy').css('display', showAiPriorityHint)
+}
+
 const saveToLocalstorage = (key, value) => {
   let data
   try {
@@ -28,6 +38,7 @@ const keyMap = new Map([
   ['hide-sidebar', 'hideSidebar'],
   ['traditional-trans', 'traditionalTrans'],
   ['ai-trans', 'aiTrans'],
+  ['ai-trans-priority', 'aiTransPriority'],
   ['ai-api-key', 'aiApiKey'],
   ['ai-api-endpoint', 'aiApiEndpoint'],
   ['ai-model', 'aiModel'],
@@ -59,7 +70,7 @@ const setting = (type, value) => {
       }
     }
     jQuery('#blhxfy-setting-modal').addClass('show')
-    jQuery('#ai-settings-group').css('display', config.aiTrans ? 'block' : 'none')
+    updateAiSettingVisibility()
   } else if (type === 'hide') {
     jQuery('#blhxfy-setting-modal').removeClass('show')
   } else if (type === 'language' || type === 'fast-mode') {
@@ -72,6 +83,9 @@ const setting = (type, value) => {
       jQuery('#trans-api-setting-blhxfy-txt').text(text)
     }
     saveToLocalstorage(keyMap.get(type), value)
+    if (type === 'ai-trans' || type === 'ai-trans-priority') {
+      updateAiSettingVisibility()
+    }
   }
 }
 

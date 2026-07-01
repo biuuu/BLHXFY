@@ -29,6 +29,7 @@ const config = {
   localHash: '',
   traditionalTrans: true,
   aiTrans: false,
+  aiTransPriority: false,
   aiApiKey: '',
   aiApiEndpoint: '',
   aiModel: '',
@@ -49,7 +50,7 @@ const getLocalConfig = () => {
   if (LOCAL_HOST) {
     config.origin = 'http://127.0.0.1:15945'
   }
-  
+
   // 兼容旧设置：如果存在 transJa 或 transEn 且为 true，则开启 traditionalTrans
   if (setting.transJa === true || setting.transEn === true) {
     config.traditionalTrans = true
@@ -57,7 +58,7 @@ const getLocalConfig = () => {
 
   const keys = [
     'autoDownload', 'bottomToolbar', 'displayName', 'removeScroller', 'hideSidebar', 'originText', 'storyOnly', 'showTranslator',
-    'traditionalTrans', 'aiTrans', 'aiApiKey', 'aiApiEndpoint', 'aiModel', 'font', 'fontBold', 'plainText', 'battleTrans', 'log', 'defaultFont'
+    'traditionalTrans', 'aiTrans', 'aiTransPriority', 'aiApiKey', 'aiApiEndpoint', 'aiModel', 'font', 'fontBold', 'plainText', 'battleTrans', 'log', 'defaultFont'
   ]
   keys.forEach(key => {
     let value = setting[key]
