@@ -13,6 +13,11 @@ const updateAiSettingVisibility = () => {
 }
 
 const saveToLocalstorage = (key, value) => {
+  if (key === 'aiApiKey') {
+    config[key] = value
+    sessionStorage.setItem('blhxfy:aiApiKey', value)
+    return
+  }
   let data
   try {
     const str = localStorage.getItem('blhxfy:setting')
