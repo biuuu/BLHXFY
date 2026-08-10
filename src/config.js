@@ -58,7 +58,7 @@ const getLocalConfig = () => {
 
   const keys = [
     'autoDownload', 'bottomToolbar', 'displayName', 'removeScroller', 'hideSidebar', 'originText', 'storyOnly', 'showTranslator',
-    'traditionalTrans', 'aiTrans', 'aiTransPriority', 'aiApiKey', 'aiApiEndpoint', 'aiModel', 'font', 'fontBold', 'plainText', 'battleTrans', 'log', 'defaultFont'
+    'traditionalTrans', 'aiTrans', 'aiTransPriority', 'aiApiEndpoint', 'aiModel', 'font', 'fontBold', 'plainText', 'battleTrans', 'log', 'defaultFont'
   ]
   keys.forEach(key => {
     let value = setting[key]
@@ -67,6 +67,8 @@ const getLocalConfig = () => {
       config[key] = value
     }
   })
+  const savedApiKey = sessionStorage.getItem('blhxfy:aiApiKey')
+  if (savedApiKey) config.aiApiKey = savedApiKey
 }
 
 const getLocalHash = () => {
