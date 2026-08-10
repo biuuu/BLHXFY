@@ -174,7 +174,8 @@ const getAiScenario = async (data, nameMap) => {
         const type = idArr[1] || 'detail'
         const obj = transMap.get(mainId) || {}
 
-        let cleanText = text.replace(/^[^:：\uff1a]+[:：\uff1a]\s*/, '')
+        // let cleanText = text.replace(/^[^:：\uff1a]+[:：\uff1a]\s*/, '')
+        let cleanText = text
 
         const uname = config.displayName || config.userName
         const textWithBr = cleanText.replace(/\n/g, '<br>')
