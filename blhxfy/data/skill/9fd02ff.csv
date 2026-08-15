@@ -1,0 +1,8 @@
+id,name,detail
+npc,飞龙与吸血姬 斑比&贝丝,3040264000
+special,龙息,<div class=prt-text-small>水属性伤害(极大)/自身HP回复/消耗2层龙之果<br><span class=text-blue>◆龙之果2层以上才可发动</span></div>
+skill-1,血之钟情,<div class=prt-text-small>对敌方单体造成水属性攻击/驱散敌方1个强化效果/付与自身1层龙之果<br><span class=text-blue>◆成功驱散时追加1层龙之果</span></div>
+skill-2,好运气,<div class=prt-text-small>完全回避(2次)</div>
+skill-3,猩红赠礼,<div class=prt-text-small>我方全体水属性攻击UP/吸收/屏障<br><span class=text-blue>◆根据龙之果的层数强化性能</span></div>
+support-1,斑比酱和贝丝是最强的！,根据龙之果层数对应攻击UP/伤害上限UP/连击率UP/防御DOWN<br><span class=text-blue>◆回合结束时获得1层龙之果(战斗开始时2层/最大5层)</span>
+support-2,嘎呜……,被攻击时减少2层龙之果，下次被攻击敌对心DOWN

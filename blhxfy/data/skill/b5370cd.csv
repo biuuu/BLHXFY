@@ -1,0 +1,9 @@
+id,name,detail
+npc,丹特＆福莱海特,3040205000
+special,反复无常的雪崩,<div class=prt-text-small>土属性伤害(特大)/自身剩余HP越高，奥义伤害越高<br><span class=text-blue>◆消耗1层黑猫棒术进行技能追击</span></div>
+skill-1,理想,<div class=prt-text-small>回复黑猫棒术5层/猫爪效果(必定发动被动2)<br><span class=text-blue>◆消耗30%奥义值</span></div>
+skill-2,猫的自由,<div class=prt-text-small>自身获得必定TA<br><span class=text-blue>◆消耗1层黑猫棒术提升追加性能</span></div>
+skill-3,爆炸,<div class=prt-text-small>不经过回合，自身发动1次普通攻击</div>
+support-1,猫眼,每5回合回复黑猫棒术/拥有黑猫棒术时攻防UP<br><span class=text-blue>◆战斗开始时获得5层</span>
+support-2,进攻与补给,拥有黑猫棒术时普通攻击结束后进行技能追击/有可能使我方全体获得随机强化效果<br><span class=text-blue>◆普通攻击消耗1层黑猫棒术</span>
+skill-lb,LB技能,普通攻击时，一定几率不消耗黑猫棒术

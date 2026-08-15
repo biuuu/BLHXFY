@@ -1,0 +1,8 @@
+﻿id,name,detail
+npc,巴洛瓦&萨娅,3040493000
+special,最终审判,火属性伤害(特大)/技能1与技能2即刻使用可能
+skill-1,我就是名侦探,对敌方单体造成10倍火属性伤害/奥义值20%UP<span class=text-blue>◆有几率即刻使用可能(1回合最多10次)</span>
+skill-2,我灵光一现,对敌方 单体造成3次火属性伤害/攻防DOWN(累积)/驱散一个强化效果
+skill-3,真相只有一个,<div class=prt-text-small>对敌方全体造成5次火属性伤害/驱散5个强化效果/驱散成功时其他技能即刻使用可能<span class=text-blue>◆拍档Lv5以上时使用可能</span></div>
+support-1,最佳拍档,必定连击/使用技能时，拍档Lv上升1(最大10)<span class=text-blue>◆根据拍档Lv，自身技能性能UP</span>
+support-2,最强肌肉与最强大脑,<div class=prt-text-small>驱散强化效果成功时，赋予敌人揭露犯罪效果/攻击开始时若场上有揭露犯罪效果中的敌人，则火属性角色获得火属性追击效果(1次)</div>

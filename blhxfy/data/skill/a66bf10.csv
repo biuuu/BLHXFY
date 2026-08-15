@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,利威尔,3040142000
+special,刃卷振风,风属性伤害(特大)/根据刀片数量追加额外伤害
+skill-1,活在当下,更换刀片 <span class=text-blue>◆消耗30%奥义值</span>
+skill-2,罪不可赦,对敌方单体造成4倍风属性伤害/盲暗效果
+skill-3,巨人狩猎,自身攻击大幅UP(100%，1次)
+support-1,半刃裁刀,每过5回合更换刀片/刀片消耗完毕则无法普攻/回避率DOWN <span class=text-blue>◆每次普攻消耗1刀片</span>
+support-2,立体机动装置,防御70%DOWN，必定三连击，回避率40%UP
+skill-lb,LB技能,普攻有概率不消耗刀片
+intro,,

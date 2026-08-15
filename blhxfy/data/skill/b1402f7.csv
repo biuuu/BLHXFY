@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,佐伊,3040150000
+special,伽马射线,光属性伤害(特大)/屏障效果(2000)
+skill-1,聚集,<div class=prt-text-small>2次光属性伤害，目标随机/效果中必定连击(三连击率25%UP)/敌对心大幅UP</div>
+skill-2,射线冲击,<div class=prt-text-small>对敌方单体造成4～5倍光属性伤害/回避率40%UP<br><span class=text-blue>◆回避时追加效果：对敌方单体造成光属性伤害<span></div>
+skill-3,最后的祈愿,<div class=prt-text-small>对敌方单体造成10倍光属性伤害/光属性人物全体特殊強化(攻防100%UP)/HP吸収效果(5%，最大1000)</div>
+support-1,调停之泪,<div class=prt-text-small>每次受到队伍成员的回血或强化效果，技能「最后的祈愿」的缓冲回合数及冷却回合数缩短1回合</div>
+support-2,星晶的鼓动,随回合数增加，自身暴击率与回避率UP
+skill-lb,LB技能,强化效果「回避率UP」的效果UP
+intro,觉醒的调停者,世界面临前所未有的危机，调停者选择变回她真正的姿态。然而——她变得太像人类了。

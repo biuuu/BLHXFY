@@ -1,0 +1,8 @@
+﻿id,name,detail
+npc,丹特,3040489000
+special,黑影梦魇,土属性伤害(特大)/自身奥义值20%UP
+skill-1,影猫,借助猫的力量，自身必定三连击<span class=text-blue>◆根据「无可替代」层数追加强化效果</span>
+skill-2,自由舞台,我方全体攻防/土属性攻击力UP<span class=text-blue>◆根据「无可替代」层数性能UP</span>
+skill-3,躲猫猫,自身获得屏障/弱体效果无效(1次)/消去无效(1次)<span class=text-blue>◆消耗全部奥义值，根据消耗的奥义值性能UP</span>
+support-1,无可替代,每回合「无可替代」上升1(最大4)/根据「无可替代」层数，攻击/伤害上限UP)<span class=text-blue>◆战斗开始时为2层/承伤时消耗2层</span>
+support-2,月夜的猫绅士,自身三连击时，技能1cd缩短1回合/土属性角色三连击时获得土属性追击效果

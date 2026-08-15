@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,阿尔贝尔,3040290000
+special,,风属性伤害(特大)/自身获得风属性追击效果/雷迅Lv上升3
+skill-1,,对敌方全体造成风属性伤害/缓速效果/风属性防御DOWN
+skill-2,,自身暴击率UP/会心效果<span class=text-blue>◆雷迅Lv5以上时，效果全体化</span>
+skill-3,,效果中自身必定三连击/无法发动奥义<span class=text-blue>◆雷迅Lv10时发动可能/效果结束时赋予自身带电效果</span>
+support-1,,普攻第2击以后对随机目标进行2次攻击/第3击以后伤害上升(最大50000)/第4击获得50%风属性追击效果
+support-2,,连击时雷迅Lv根据连击数上升(最大10)<span class=text-blue>◆根据雷迅Lv，连击率UP/雷迅Lv7以上时有可能发动四连击</span>
+skill-lb,LB技能,发动奥义有几率使技能1即刻发动可能
+intro,热血英雄,

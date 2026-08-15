@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,贾米尔,3040404000
+special,,土属性伤害(特大)/技能1可即刻使用
+skill-1,,<div class=prt-text-small>对敌方单体造成8倍土属性伤害/造成随机弱体效果<span class=text-blue>◆每次使用伤害性能UP/赋予的弱体效果数量增加(最大3次)</span></div>
+skill-2,,对敌方单体造成土属性伤害/弱体耐性DOWN(累积)/命中率DOWN
+skill-3,,回避敌方全部攻击(2次)
+support-1,,防御力低，但必定连击/奥义值上升量UP/潜伏效果
+support-2,,未承伤的回合结束时奥义值20%UP
+skill-lb,LB技能,
+intro,,

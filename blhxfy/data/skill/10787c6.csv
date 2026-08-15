@@ -1,0 +1,9 @@
+﻿id,name,detail
+npc,贝阿朵丽丝,3040110000
+special,不死强袭,火属性伤害(特大)(4.5倍)/自身火属性攻击UP(30%)
+skill-1,苍之时刻,<div class=prt-text-small>自身连击率UP(DA60%/100%，TA30%/90%，独有类)/防御DOWN(50%/75%)/敌对心UP(+50/+50)<span class=text-blue>◆再使用时效果再次UP</span></div>
+skill-2,赤之时刻,<div class=prt-text-small>自身攻击大幅UP(仅限敌人OD状态/1次)/敌人mode条减少量UP</div>
+skill-3,上升之星,<div class=prt-text-small>自身HP越少，攻击强化量越大　<span class=text-blue>◆消耗自身40%的最大HP</span></div>
+support-1,不灭的决断,自身HP越少，暴击率UP/回避率UP
+support-2,停一下！,自身HP少于一半时有概率回复/第一次无法战斗时以HP1继续战斗
+skill-lb,LB技能,极小概率回避并反击单体攻击

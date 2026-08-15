@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,维拉,3040385000
+special,慕心之焰,火属性伤害(特大)/技能1即刻使用可能
+skill-1,光之牢笼,对敌方全体造成火属性伤害/缓速效果/「圣狱」效果
+skill-2,圣盾加护·朱红,<div class=prt-text-small>消耗「朱红光玉」，效果中防御UP/弱体耐性UP/援护效果(包含全体攻击)/承伤转化为风属性/敌方普攻无效化</div>
+skill-3,赤红情愫,<div class=prt-text-small>自身可即刻发动奥义/「赤红情愫」效果<span class=text-blue>◆效果中回合结束时奥义值变为100%</span></div>
+support-1,终将与你在同一片天空下,<div class=prt-text-small>HP上限低但攻击UP/必定连击/奥义性能UP/敌方造成的风属性伤害最大值固定在5000</div>
+support-2,吾爱不灭,战斗开始及每过5回合时获得「朱红光玉」<span class=text-blue>◆拥有「朱红光玉」时，获得高扬效果</span>
+skill-lb,LB技能,受到致死伤害时有几率以1HP继续战斗
+intro,,

@@ -1,0 +1,8 @@
+﻿id,name,detail
+npc,缇可,3040487000
+special,地狱护士,暗属性伤害(特大)/暗属性角色获得屏障/格挡效果
+skill-1,万圣之光,对敌方全体造成暗属性伤害/自身可即刻发动奥义/暗属性角色回复量上限UP
+skill-2,营养剂,暗属性角色获得即死回避效果/营养剂效果<span class=text-blue>◆对象最大HP减少10%(最大90%减少)</span>
+skill-3,可疑糖果,<div class=prt-text-small>暗属性角色消耗自身HP获得刺激剂效果(3次)<span class=text-blue>◆回合结束时消耗1层刺激剂，消耗当前HP的20%赋予自己强化效果/第三次发动时回复HP</span></div>
+support-1,採血时间到！,敌人使用特殊技时发动技能1/暗属性角色回复性能UP(累积)
+support-2,血腥护士,战斗开始时追加1个群愈药水<span class=text-blue>◆自身处于后排时同样发动</span>

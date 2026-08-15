@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,尤斯缇斯,3040411000
+special,,风属性伤害(特大)/攻击DOWN(累积/最大3次)/土属性攻击DOWN
+skill-1,,我方单体与自身获得「二人组」效果<span class=text-blue>◆「二人组」效果仅可赋予我方其中一人</span>
+skill-2,,<div class=prt-text-small>「二人组」效果中的自身与队友奥义值100%UP<span class=text-blue>◆若存在感电Lv为10的敌人，则追加奥义再发动效果(1次)</span></div>
+skill-3,,我方全体受伤减轻(3000)<span class=text-blue>◆「二人组」效果中的自身与队友获得屏障效果(3000)</span>
+support-1,,<div class=prt-text-small>「二人组」效果中的自身与队友奥义性能UP/高扬效果(20%)/奥义发动时，对敌方单体造成风属性追加伤害，感电Lv上升1(最大10)</div>
+support-2,,风属性角色对感电状态的敌人奥义性能UP
+skill-lb,LB技能,
+intro,,

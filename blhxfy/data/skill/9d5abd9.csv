@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,克拉莉丝,3040413000
+special,,水属性伤害(特大)/水属性防御DOWN/火属性攻击DOWN/自身获得玉水刻印
+skill-1,,<div class=prt-text-small>自身攻击大幅UP(1次)/强壮效果/获得玉水刻印<br><span class=text-blue>◆玉水刻印5层时则消耗所有刻印，效果全体化并追加普攻造成伤害UP效果</span></div>
+skill-2,,自身与水属性主人公三连击概率UP(1次/100%)/水属性追击效果(1次/80%)
+skill-3,,对敌方全体造成无属性伤害/元素缩合效果/最大CT增加
+support-1,,<div class=prt-text-small>战斗开始时自身为战斗成员，则水属性主人公攻击UP/最大HPUP/伤害上限UP<span class=text-blue>◆该效果在战斗不能后依旧有效</span></div>
+support-2,,<div class=prt-text-small>水属性角色使用消去敌方强化效果的技能时，对敌方造成无属性伤害/缓速效果/自身获得玉水刻印</div>
+skill-lb,LB技能,奥义值上升量UP
+intro,,

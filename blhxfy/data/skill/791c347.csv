@@ -1,0 +1,10 @@
+id,name,detail
+npc,园田海末&高板惠乃果&南小鸟,3040230000
+special,我们活在当下,<div class=prt-text-small>光属性伤害(特大)/我方全体光属性攻击UP/HP回复</div>
+skill-1,爱神之箭Shoot！,<div class=prt-text-small>对敌方单体施加魅惑/攻防DOWN</div>
+skill-2,加油哦！,<div class=prt-text-small>我方全体获得浑身</div>
+skill-3,不能忘记微笑,<div class=prt-text-small>我方全体获得弱体无效(1次)</div>
+skill-4,START:DASH!,<div class=prt-text-small>自身奥义可即刻使用</div>
+support-1,国立音乃木坂学院2年级,我方全体奥义伤害UP
+skill-lb,LB技能,μ's成员攻击力UP
+intro,,被召唤而来的少女们举办了演唱会。为了实现自己希望的梦想……而那个愿望被实现，人们充满笑容的日子并不遥远。
