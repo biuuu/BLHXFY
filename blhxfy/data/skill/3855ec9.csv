@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,帕西瓦尔,3040425000
+special,,火属性伤害(极大)/火伤Lv上升2(最大10)/自身获得燦炎效果
+skill-1,,<div class=prt-text-small>对敌方单体造成火属性伤害/火伤Lv上升1(最大10)/连击率DOWN(累积)/自身奥义值20%UP<span class=text-blue>◆敌人火伤Lv5以上时发动2次</span></div>
+skill-2,,赋予敌方单体平伏效果/恐惧效果
+skill-3,,<div class=prt-text-small>对敌方全体造成火属性伤害/火属性角色火属性攻击UP/火属性追击效果(1次)/不计入回合地进行普攻<span class=text-blue>◆发动后消耗燦炎效果</span></div>
+support-1,,<div class=prt-text-small>普攻不积累奥义值但伤害UP/必定三连击/强化效果不会被消去<span class=text-blue>◆战斗开始时自身获得燦炎效果</span></div>
+support-2,,普攻后敌人火伤Lv在7以上时，对敌方全体造成10倍火属性伤害/攻防DOWN/承伤UP(6次)
+skill-lb,LB技能,
+intro,,

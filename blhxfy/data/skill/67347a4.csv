@@ -1,0 +1,10 @@
+id,name,detail
+npc,涉谷凛&岛村卯月&本田未央,3040275000
+special,奇迹革命,<div class=prt-text-small>光属性伤害(特大)/自身连锁技能可立即使用</div>
+skill-1,宁静笑容,<div class=prt-text-small>我方全体奥义值UP(20%)/奥义上升量UP</div>
+skill-2,堇青石绽放,<div class=prt-text-small>对敌方单体造成光属性攻击/施加冰牢</div>
+skill-3,幸福之星,<div class=prt-text-small>我方全体HP回复/净化1个弱体状态</div>
+skill-4,流星奇迹,<div class=prt-text-small>自身获得魔法之绊效果</div>
+support-1,奇迹魔法,必TA/奥义上升量DOWN
+skill-lb,LB技能,使用连锁技能时，自身获得攻击力UP(累积)
+intro,New Generations,聚集到空之世界的偶像们互相握住手，不断歌唱起舞。直到某天能够为所有人送上笑容。

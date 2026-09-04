@@ -1,0 +1,9 @@
+id,name,detail
+npc,扭蛋平,3040248000
+special,扭蛋平之剑,<div class=prt-text-small>风shǔ xìng伤害(特大)/自身连xù攻jī率UP</div>
+skill-1,扭蛋墙,<div class=prt-text-small>wǒ fāng 全体获得全属性伤害100%减免<br><span class=text-blue>◆消费7层能量球</span></div>
+skill-2,扭蛋雾,<div class=prt-text-small>对dí fāng全体施加以下弱体<br><span class=text-blue>◆消耗4层能量球</span></div>
+skill-3,扭蛋砰爆发,<div class=prt-text-small>wǒ fāng 全体风shǔ xìng 角色奥义即刻发动(｢`･ω･)｢ 噶哦ー！<br><span class=text-blue>◆消耗7层能量球</span></div>
+support-1,能量球,「它们在我挑战形形色色的新鲜事物时给我勇气和力量。」<br><span class=text-blue>◆战斗开始时，获得7层能量球(最大7层)</span>
+support-2,受到大家的欢迎,「大家，请为我应援！」<br><span class=text-blue>◆受到我方回复技能或者强化技能影响时，获得1层能量球</span>
+skill-lb,LB技能,自身TA发动时进行风属性追击

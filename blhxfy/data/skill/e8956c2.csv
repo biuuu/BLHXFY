@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,艾扎克,3040327000
+special,,水属性伤害(特大)/自身获得屏障效果/技能1可即刻使用
+skill-1,,对敌方全体造成11倍水属性伤害/攻防DOWN
+skill-2,,对敌方全体造成水属性伤害/自身奥义值20%UP
+skill-3,,<div class=prt-text-small>自身可即刻发动奥义/「能量充满」效果<span class=text-blue>◆</span>效果中回合结束时使奥义值变为100%</div>
+support-1,,连击率低但普攻伤害UP/普攻后发动技能2
+support-2,,<div class=prt-text-small>战斗开始时自身获得屏障效果/屏障效果中免疫弱体效果/火属性承伤最大值固定在5000</div>
+skill-lb,LB技能,技能伤害上限UP
+intro,,

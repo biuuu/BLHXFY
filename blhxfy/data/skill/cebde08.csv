@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,征于霸道的主从 阿古罗瓦尔&拓,3040426000
+special,,土属性伤害(特大)/技能1可即刻使用<br><span class=text-blue>◆对于冰结状态的敌人奥义性能UP</span>
+skill-1,,对敌方全体造成土属性伤害/冰结Lv上升1(最大10)/土属性防御DOWN(累积)
+skill-2,,自身获得强壮效果/屏障效果/奥义值20%UP<span class=text-blue>◆无秘策时效果全体化</span>
+skill-3,,<div class=prt-text-small>对敌方全体造成6次土属性伤害/我方全体必定三连击(1次)/土属性追击效果(1次)<span class=text-blue>◆消耗1秘策</span></div>
+support-1,,必定连击/队伍人数越多，自身攻击UP/奥义伤害UP<br><span class=text-blue>◆战斗开始时拥有2秘策(最大2)</span>
+support-2,,普攻后敌人冰结Lv在7以上时，对敌方全体造成7～8倍土属性伤害/自身奥义值10%UP
+skill-lb,LB技能,
+intro,,

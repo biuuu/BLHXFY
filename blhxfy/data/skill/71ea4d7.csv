@@ -1,0 +1,10 @@
+id,name,detail
+npc,齐格飞,3040128000
+special,漆黑之爪,风属性伤害(特大)/赋予自己黑龙之爪效果
+skill-1,解放,<div class=prt-text-small>对敌方造成风属性伤害/风属性防御DOWN <br><span class=text-blue>◆消费黑龙之爪：伤害发动2次/弱体效果命中率UP</span></div>
+skill-2,风信,<div class=prt-text-small>对敌方全体造成风属性伤害/赋予自己逆境效果<br><span class=text-blue>◆消费自身HP最大值的30%</span></div>
+skill-3,昨日之影,<div class=prt-text-small>自身防御UP/敌对心UP/反击效果(受伤时/3次)<br><span class=text-blue>◆消费黑龙之爪：追加伤害上限UP效果</span></div>
+support-1,不惜身命,战斗开始时自身附带黑龙之爪效果/第一次无法战斗时以HP1继续战斗
+support-2,身浴邪龙之血,受伤时奥义值上升量UP/自身HP越少防御越高
+skill-lb,LB技能,防御UP/敌对心UP
+intro,风雅的剑客,在风中流浪的剑客，从傍晚的鲜花上看到了什么。如在夜空中闪耀的光华一般，他强力斩杀敌人的样子实在是美丽无比。愿他平稳的日常能够一直持续下去。

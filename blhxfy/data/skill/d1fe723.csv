@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,扎哈梅丽娜,3040349000
+special,幻日祈祷,光属性伤害(特大)/我方全体光属性攻击UP/暗属性伤害20%减少
+skill-1,蜃景,光属性角色获得护盾效果/幻影效果(1次)/格挡效果
+skill-2,日曜照显,发动场地效果「日曜照显」
+skill-3,耀阳,光属性角色暴击率UP/伤害上限UP/光属性追击效果
+support-1,日轮的加护,<div class=prt-text-small>光属性角色的暗属性负伤减轻/战斗开始时赋予光属性角色弱体效果无效(1次)<span class=text-blue>◆自身为后备成员时同样发动</span></div>
+support-2,日光灿然,光属性角色暴击时造成的伤害UP
+skill-lb,LB技能,场地效果「日曜照显」发动时连击率UP
+intro,,

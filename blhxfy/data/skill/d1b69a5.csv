@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,碧卡拉,3040408000
+special,,回复土属性角色HP/弱体效果缩短2回合/连击率UP/土属性追击效果/技能2发动
+skill-1,,土属性角色回避敌方全部攻击(1次)<span class=text-blue>◆消耗自身最大HP的25%</span>
+skill-2,,自身以外的土属性角色在回合内进行2次攻击行动/自身获得奥义封印效果
+skill-3,,<div class=prt-text-small>自身与后排成员替换位置<span class=text-blue>◆来到前排的土属性角色在碧卡拉缺席时戴上鼠耳状态大幅UP/防御DOWN</span></div>
+support-1,,不进行普攻，拥有潜伏效果/土属性角色奥义性能UP/回合结束时土属性角色奥义值10%UP
+support-2,,承伤时全力反击(3次)<span class=text-blue>◆自身剩余HP越少，反击伤害UP</span>
+skill-lb,LB技能,
+intro,,

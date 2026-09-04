@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,奈克塔尔,3040318000
+special,,风属性伤害(极大)/延长2回合魔力供给状态<span class=text-blue>◆仅魔力供给状态中可使用</span>
+skill-1,,<div class=prt-text-small>对敌方单体造成7倍风属性伤害/防御DOWN<span class=text-blue>◆魔力供给中，赋予强袭效果</span></div>
+skill-2,,<div class=prt-text-small>反击效果(回避·承伤/3次)/普攻伤害UP<span class=text-blue>◆魔力供给中，自身攻击大幅UP(仅限敌人break状态/1次)</span></div>
+skill-3,,<div class=prt-text-small>进入魔力供给状态/其他技能可即刻使用<span class=text-blue>◆消耗100%奥义值</span></div>
+support-1,,魔力供给中，自身必定三连击/风属性追击效果/高扬效果/敌对心UP
+support-2,,<div class=prt-text-small>仅一次，陷入无法战斗状态时以1HP继续战斗/仅一次，若回合结束自身处于濒死状态，则奥义值100%UP/技能3可即刻使用</div>
+skill-lb,LB技能,使用技能时奥义值UP
+intro,,
