@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,朱丽叶,3040293000
+special,,水属性伤害(特大)/自身获得1个玉水刻印<span class=text-blue>◆消耗1英灵造成追加伤害</span>
+skill-1,,<div class=prt-text-small>水属性角色获得玉水刻印/幻影效果/水属性追击效果<span class=text-blue>◆追击效果持续至受到伤害</span></div>
+skill-2,,<div class=prt-text-small>对敌方造成3次水属性伤害/水属性防御DOWN(累积/MAX4次)/自身获得玉水刻印<br><span class=text-blue>◆消耗1英灵发动2次</span></div>
+skill-3,,<div class=prt-text-small>水属性角色获得玉水刻印/屏障效果(4000)/奥义值100UP<span class=text-blue>◆消耗1英灵</span></div>
+support-1,,英灵效果中攻防UP/每5回合获得英灵效果(开始时5层)<span class=text-blue>◆普攻消耗1英灵</span>
+support-2,,回合结束时若玉水刻印在3以上，消耗2回复我方全体HP(最大2000)/缩短2回合弱体效果
+skill-lb,LB技能,普攻有概率获得1玉水刻印
+intro,纯白新娘,

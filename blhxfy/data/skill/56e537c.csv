@@ -1,0 +1,8 @@
+﻿id,name,detail
+npc,瑟蕾菲拉,3040175000
+special,沉醉交响曲,风属性伤害(特大)/我方全体获得活性效果
+skill-1,渐弱,<div class=prt-text-small>对敌方全体造成2~3倍风属性伤害/防御25%DOWN<span class=text-blue>◆第二次发动追加土属性攻击DOWN/第三次追加对风属性防御10%DOWN</span></div>
+skill-2,热情回旋曲,<div class=prt-text-small>我方全体风属性攻击30%UP<span class=text-blue>◆第二次发动追加风属性追击效果/第三次追加奥义伤害20%UP</span></div>
+skill-3,即兴曲,回复我方全体10%HP(上限2000)/可即时使用自身其他技能
+support-1,赤诚的提琴,回合开始时有概率净化自身1个弱化效果
+support-2,演奏家兼骑空士,自身无弱化效果时，奥义值上升量15%UP

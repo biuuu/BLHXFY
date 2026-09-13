@@ -1,0 +1,10 @@
+id,name,detail
+npc,巫妖,3040357000
+special,死亡终局,暗属性伤害(特大)/减速效果/自身技能使用间隔缩短1回合
+skill-1,幻痛,<div class=prt-text-small>对敌方随机造成6次暗属性伤害/我方全体获得死之祝福效果/受到的伤害转为光属性</div>
+skill-2,腐化,全体获得光属性攻击力DOWN/暗属性防御力DOWN/中毒效果/腐败效果
+skill-3,受诅咒的魂灵,<div class=prt-text-small>自身获得「不死王再临」/自动复活效果/复活时获得「不净」每回合损失HP(上限3000)/回合结束时奥义值DOWN(10%)<span class=text-blue>◆再使用不可</span></div>
+support-1,不死的召唤声,<div class=prt-text-small>自身获得诅咒效果/死之祝福效果/每回合损失HP(上限1000)/攻防UP/必定连击/奥义性能UP</div>
+support-2,魂魅进军,<div class=prt-text-small>回合结束时根据我方弱化效果数量对敌方全体造成暗属性伤害/自身根据我方弱化效果数量获得奥义值UP</div>
+skill-lb,LB技能,自身处于「不死王再临」时获得防御力UP/敌对心UP
+intro,阴气阴湿阴险少女,曾身缠高贵之暗的星晶兽，为找回失去的力量不得不四处奔波。时而整蛊作怪愚弄人类，时而兴风作浪惹火烧身，都不过是她面对心理健全者的方式罢了。

@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,娜尔梅亚,3040392000
+special,,光属性伤害(特大)/万华Lv上升2
+skill-1,,<div class=prt-text-small>对敌方单体造成8次光属性伤害/吸收1CT转化为自身奥义值<span class=text-blue>◆回合结束时消耗8层万华Lv自动发动</span></div>
+skill-2,,<div class=prt-text-small>对敌方单体造成8次光属性伤害/驱散1种强化效果<span class=text-blue>◆敌人使用特殊技能时自动发动</span></div>
+skill-3,,自身与光属性主角获得奥义再发动效果(1次)
+support-1,,<div class=prt-text-small>光属性角色发动奥义时，万华Lv上升1(最大8)<span class=text-blue>◆战斗开始时，万华Lv为4</span></div>
+support-2,,<div class=prt-text-small>光属性主角发动奥义时，对敌人造成无属性伤害/主角奥义值10%UP<span class=text-blue>◆处于后排时同样发动</span></div>
+skill-lb,LB技能,
+intro,,
