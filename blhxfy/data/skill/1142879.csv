@@ -1,0 +1,8 @@
+﻿id,name,detail
+npc,帕里斯,3040483000
+special,晓之歌,土属性伤害(特大)/自身回避敌方所有攻击(1次)/奥义值20%UP
+skill-1,守势,自身获得援护效果/反击效果(回避/2次)/伤害上升<span class=text-blue>◆ 消耗30%奥义值/根据「完美发挥」层数增加反击次数</span>
+skill-2,高贵之风,对敌方单体造成土属性伤害/驱散一种强化效果<span class=text-blue>◆ 「完美发挥」Lv5时，发动2次</span>
+skill-3,优雅截击,不计入回合发动普攻<span class=text-blue>◆「完美发挥」Lv5时，自身获得土属性追击效果/必定三连击 </span>
+support-1,公爵的自豪,援护自身以外HP最低的角色
+support-2,历经磨练的剑戟,<div class=prt-text-small>承伤时回避率UP(累积)奥义值10%UP/「完美发挥」Lv上升1(最大5)<span class=text-blue>◆ 根据「完美发挥」层数攻击UP/连击率UP/土属性追击效果

@@ -1,0 +1,17 @@
+id,name,detail
+npc,湿婆,3040196000
+special,第三之目，开眼,<div class=prt-text-small>火属性伤害(特大)/自身攻击大幅UP<span class=text-blue>◆第三之目开眼，下次奥义性能大幅UP</span></div>
+special-マハーカーラ,摩诃迦罗,火属性伤害(特大)<span class=text-blue>◆第三之目闭眼</span>
+special-悪滅の雷霆,恶灭之雷霆,<div class=prt-text-small>火属性伤害(特大)/自身攻击大幅UP/技能使用间隔缩短1回合<br><span class=text-blue>◆第三之目开眼，下次奥义性能大幅UP</span></div>
+special-パーシュパターストラ,兽主法宝,火属性伤害(特大)/技能使用间隔缩短1回合/自身获得2层「破导」<span class=text-blue>◆第三之目闭眼</span>
+skill-1,三叉戟,对敌方单体造成8倍火属性伤害/恶灭之炎效果/火伤Lv上升1(最大10)<span class=text-blue>◆月冠效果中，伤害次数UP</span>
+skill-2,梵·楼陀罗,我方全体获得攻击力UP/伤害上限UP/受伤减轻效果/再生效果
+skill-3,坦达瓦之舞,<div class=prt-text-small>自身获得反击效果(回避·受伤/2次)/圣灰效果</div>
+skill-3+,坦达瓦之舞,<div class=prt-text-small>我方全体获得反击效果(回避·受伤/2次)/圣灰效果</div>
+skill-4,冠月赐福,<div class=prt-text-small>对敌方全体造成10次火属性伤害/我方全体获得净化弱化效果/HP全回复/自身获得月冠效果<br><span class=text-blue>◆自身处于10层「破导」时可用/再使用不可</span></div>
+support-1,破坏的舞踏,<div class=prt-text-small>自身获得普通攻击伤害UP/奥义值上升量DOWN/发动奥义时获得1层「破导」(最大5层)<br><span class=text-blue>◆自身根据「破导」层数获得攻击力UP/三连击率UP</span></div>
+support-1+,破坏的舞踏,<div class=prt-text-small>自身获得普通攻击伤害UP/奥义值上升量DOWN/发动奥义时或三连击时获得1层「破导」(最大10层)<br><span class=text-blue>◆自身根据「破导」层数获得攻防UP/三连击率UP/防御UP/奥义值上升量UP</span></div>
+support-2,崇拜的尊神,我方全体强化效果「火属性攻击UP」效果UP(累积除外)
+support-2+,崇拜的尊神,我方全体强化效果「火属性攻击UP」效果UP(累积除外)/火属性攻击UP效果中，伤害上限UP
+skill-lb,LB技能,自身获得风属性伤害减轻
+intro,究极不变恶灭善护,司掌救赎的勇猛武神，他非常贴近人们的生活，响应人们坚强的心显现于世。神希望，组成世界的人类能够返回正道。

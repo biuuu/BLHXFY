@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,莉琪,3040427000
+special,,风属性伤害(特大)/自身奥义值20%UP/技能cd缩短1回合
+skill-1,,<div class=prt-text-small>对敌方全体造成6次风属性伤害/驱散1种强化效果/攻防DOWN(累积)<span class=text-blue>◆根据自身弱体效果数量攻击次数UP(最大10次)</span></div>
+skill-2,,敌方全体土属性攻击DOWN/风属性防御DOWN/中毒效果/腐败效果
+skill-3,,自身获得「不死之王的恶作剧」效果
+support-1,,风属性角色根据各自弱体效果数量依次获得一下效果：一部分回合伤害转换为回复HP/奥义值上升量UP/攻击UP/伤害上限UP
+support-2,,若回合结束时奥义值在50%以上，消耗30%奥义值对敌方全体造成风属性伤害/缓速效果
+skill-lb,LB技能,
+intro,,

@@ -1,0 +1,15 @@
+﻿id,name,detail
+npc,圣德芬,3040153000
+special,无限光,<div class=prt-text-small>光属性伤害(特大)/「审判之钟」<span class=text-blue>◆自身对处于「审判之钟」的目标获得奥义性能UP</span></div>
+special++,无限光,<div class=prt-text-small>光属性伤害(特大)/「审判之钟」/自身获得「白羽」<span class=text-blue>◆自身对处于「审判之钟」的目标获得奥义性能UP/自身处于「白羽」时下一次奥义变为「失乐园」</span></div>
+special-パラダイス・ロスト,失乐园,<div class=prt-text-small>光属性伤害(特大)/「审判之钟」/自身获得光属性攻击力UP/光属性追击效果/「乐园追放」<span class=text-blue>◆自身对处于「审判之钟」的目标获得奥义性能UP</span></div>
+skill-1,独守天堂,自身连续攻击率UP/防御力UP/反击效果(回避/5次)
+skill-1++,独守天堂,自身连续攻击率UP/防御力UP/反击效果(回避/5次)/敌对心UP
+skill-2,黄道,<div class=prt-text-small>对敌方单体造成光属性伤害/自身HP回复(上限900)<span class=text-blue>◆自身处于「乐园追放」时该技能发动2次</span></div>
+skill-2++,黄道,<div class=prt-text-small>对敌方单体造成光属性伤害/自身HP回复(上限1000)<span class=text-blue>◆自身处于「乐园追放」时该技能发动2次</span></div>
+skill-3,一人之力,我方全体获得暴击率UP/伤害UP
+support-1,抗命,自身获得回合开始时概率净化1个弱化效果
+support-1+,抗命,自身获得活性效果/回合开始时净化1个弱化效果
+support-2,为了我的约定,自身获得即死回避效果(1次)
+skill-lb,LB技能,自身发动奥义时获得攻击力UP(累积)
+intro,复仇的天司,从长久的沉眠中再次苏醒的天司，被托付了天司长路西菲尔的遗志。过去没有职责的天司背负着罪孽，为了实现约定成为了复仇的天司。

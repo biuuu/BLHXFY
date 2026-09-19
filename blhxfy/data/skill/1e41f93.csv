@@ -1,0 +1,8 @@
+﻿id,name,detail
+npc,拉加佐,3040481000
+special,Melt Brain Burst,火属性伤害(极大)<span class=text-blue>◆「超越」效果中发动2次</span>
+skill-1,烈焰炮击,对敌方全体造成火属性伤害/自身获得伤害上升效果<span class=text-blue>◆消耗1能量每回合普攻2次</span>
+skill-2,炮火打击,对地方单体造成3次火属性伤害/驱散1种强化效果<span class=text-blue>◆消耗1能量发动2次</span>
+skill-3,更待何时,牺牲自身HP获得「超越」效果/可即刻发动奥义
+support-1,被星座的命运捉弄的少年,普攻不增长奥义值，但攻击UP/必定三连击/受伤时反击(1次)
+support-2,做了断的方式,<div class=prt-text-small>普攻时消耗1能量对敌方全体造成火属性伤害<span class=text-blue>◆战斗开始时能量为5(不可回复)/「超越」效果中可不消耗能量发动</span></div>

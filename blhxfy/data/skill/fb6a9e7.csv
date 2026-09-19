@@ -1,0 +1,9 @@
+id,name,detail
+npc,莉莉,3040311000
+special,冰封烁光,<div class=prt-text-small>光属性伤害(特大)/我方全体净化一个弱化效果</div>
+skill-1,圣诞之光,<div class=prt-text-small>我方全体获得光属性攻击力UP/奥义值上升量UP/HP回复(上限2000)</div>
+skill-2,圣晶结界,<div class=prt-text-small>我方全体获得屏障效果/弱化无效(1次)<br><span class=text-blue>◆根据前排角色的种族数量自身额外获得幻影效果(1次)/格挡效果</span></div>
+skill-3,冰封颂歌,<div class=prt-text-small>敌方全体攻击力DOWN/重力效果/冰结效果</div>
+support-1,闪光水晶,我方前排角色的种族数量越多自身攻击性能越高
+support-2,圣诞快乐小队,我方光属性奥义4连击时，自动发动「圣诞之光」/我方全体奥义值UP(10%)<span class=text-blue>◆仅前排有效
+intro,圣夜的使命,年幼的公主为了给人们带去笑容，肩负起了圣夜的使命。但这使命不再是由她一人所承担的试炼，而是需要与同伴们协力完成的挑战。小小的身体中所蕴藏的巨大的希望，将在关键时刻给予人们笑容。

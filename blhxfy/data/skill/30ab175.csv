@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,米兰达,3040339000
+special,,火属性伤害(特大)/我方全体回复1个弱体效果
+skill-1,,我方全体火属性攻击UP/奥义值上升量UP/回复HP
+skill-2,,<div class=prt-text-small>我方全体获得弱体效果无效(1次)/受到伤害无效化(1次)/驱散强化效果无效(1次)</div>
+skill-3,,<div class=prt-text-small>使敌人CT增加1，我方全体获得屏障效果/风属性伤害减轻效果</div>
+support-1,,<div class=prt-text-small>敌人使用特殊技时自身技能cd缩短1回合<span class=text-blue>◆若敌人使用咏唱技，泽缩短3回合</span></div>
+support-2,,<div class=prt-text-small>火属性角色使用技能时，圣魔术Lv上升<span class=text-blue>◆达到Lv7，火属性角色使用技能时发动技能1/圣魔术Lv重置</span></div>
+skill-lb,LB技能,我方全体皆无弱体效果时攻击UP
+intro,活力四射的指导者,

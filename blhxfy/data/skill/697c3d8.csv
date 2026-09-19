@@ -1,0 +1,9 @@
+id,name,detail
+npc,哈雷泽娜,3040240000
+special,极狂之夜,<div class=prt-text-small>光属性伤害(特大)/<br><span class=text-blue>◆根据永夜派对层数对应追加伤害</span></div>
+skill-1,把你切碎！！,<div class=prt-text-small>对敌人造成4次伤害/攻防DOWN(累积)/永夜派对层数上升1<br>
+skill-2,绝非嬉戏,<div class=prt-text-small>自身获得反击(回避/3次)/光属性追击<br><span class=text-blue>◆消耗奥义值30%</span></div>
+skill-3,派对梦魇,<div class=prt-text-small>敌方全体攻击UP/连击率UP/光属性角色必TA/伤害上限提升(最大100000)<br><span class=text-blue>◆永夜派对3层以上才可使用</span></div>
+support-1,狂欢至天明~！,每回合消耗一定奥义值必TA/永夜派对层数对应攻击UP/防御DOWN<br><span class=text-blue>◆永夜派对每回合上升1层(最大5)</span>
+support-2,注意别整过头了！,被攻击时消耗两层永夜派对/下一回合敌对心DOWN
+skill-lb,LB技能,回合开始时,有几率获得全回避
