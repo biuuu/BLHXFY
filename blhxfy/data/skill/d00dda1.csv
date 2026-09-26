@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,瓦姬拉,3040407000
+special,,暗属性伤害(特大)/自身回避敌方全部攻击(1次)/犬阔Lv上升1(最大5)
+skill-1,,<div class=prt-text-small>对敌方全体造成暗属性伤害/犬阔Lv上升1<span class=text-blue>◆根据犬阔Lv性能UP</span></div>
+skill-2,,<div class=prt-text-small>敌方单体弱体耐性DOWN(累积)/攻防DOWN(累积)<span class=text-blue>◆消耗1犬阔Lv</span></div>
+skill-3,,<div class=prt-text-small>自身奥义值100%UP/奥义性能UP(1次)<span class=text-blue>◆犬阔Lv5时，效果全体化</span></div>
+support-1,,奥义最大值为200/攻击行动中发动2次奥义时，自身获得再攻击效果
+support-2,,回避成功时发动技能1
+skill-lb,LB技能,
+intro,,

@@ -1,0 +1,11 @@
+﻿id,name,detail
+npc,雅琪玛,3040566000
+special,,<div class=prt-text-small>水属性伤害(特大)/技能1发动<span class=text-blue>◆记录同步效果中，变化为水属性伤害(极大)</span></div>
+skill-1,,<div class=prt-text-small>对敌方造成6次水属性伤害/劣化尖晶效果/驱散1个强化效果/自身获得水属性追击效果<span class=text-blue>◆劣化尖晶根据发动次数强化性能(最大Lv5)/根据α适应Lv增加攻击次数(最大10次)</span></div>
+skill-2,,<div class=prt-text-small>水属性角色防御UP/格挡效果/免疫驱散(1次)<span class=text-blue>◆根据δ适应Lv增加格挡效果性能</span></div>
+skill-3,,<div class=prt-text-small>自身造成的伤害上升/不经过回合进行普攻/<span class=text-blue>◆记录同步效果中，对象变化为水属性角色</span></div>
+support-1,,<div class=prt-text-small>自身每对敌方造成15次攻击α适应Lv上升1(最大4)/成为敌人攻击目标时δ适应Lv上升1(最大4)<span class=text-blue>◆根据α适应Lv暴击率UP/弱点属性追击效果/根据δ适应Lv受伤减轻/弱体耐性UP</span></div>
+support-2,,<div class=prt-text-small>α适应Lv与δ适应Lv皆为4的回合结束时，自身获得记录同步效果/技能3可即刻使用<span class=text-blue>◆记录同步效果中性能大幅UP/自身获得α适应Lv与δ适应Lv的机制对水属性角色适用</span></div>
+support-3,,<div class=prt-text-small>无视敌方的火·土·风·光·暗耐性/无视敌人属性触发属性弱点/普攻与反击变为火·土·风属性<span class=text-blue>◆记录同步效果中，普攻后对敌方造成光·暗·水属性伤害/防御DOWN</span></div>
+skill-lb,LB技能,
+intro,,

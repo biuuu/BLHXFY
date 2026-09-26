@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,尤利,3040509000
+special,,<div class=prt-text-small>水属性伤害(特大)/自身获得水属性追击效果<span class=text-blue>◆搭档也同样获得效果</span></div>
+skill-1,,<div class=prt-text-small>与我方单体组成搭档<span class=text-blue>◆与我方单体组成搭档/3回合后自身与搭档获得追击效果(仅对紧绷粉碎效果中的敌人/1次)</span></div>
+skill-2,,<div class=prt-text-small>自身免疫弱体效果(1次)/免疫驱散效果(1次)/高扬效果<span class=text-blue>◆搭档也同样获得效果</span></div>
+skill-3,,<div class=prt-text-small>对敌方造成水属性伤害/驱散1个强化效果<span class=text-blue>◆驱散成功时，自身获得再攻击效果</span></div>
+support-1,,<div class=prt-text-small>组成搭档的尤利与队友必定三连击/暴击率UP/暴击时造成伤害上升/搭档普攻时，尤利对敌方全体造成水属性伤害/赋予紧绷粉碎效果</div>
+support-2,,<div class=prt-text-small>技能伤害不消耗追击效果(仅对紧绷粉碎效果中的敌人/1次)/敌方使用特殊技时，技能3可即刻使用</div>
+skill-lb,LB技能,
+intro,,

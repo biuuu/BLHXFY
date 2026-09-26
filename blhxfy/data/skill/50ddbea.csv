@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,安,3040524000
+special,,<div class=prt-text-small>光属性伤害(极大)/我方全体暗属性受伤减轻(20%)/自身伤害技能可即刻使用</div>
+skill-1,,<div class=prt-text-small>光属性角色防御大幅UP/攻防UP(累积)/免疫弱体效果(1次)/免疫驱散(1次)</div>
+skill-2,,<div class=prt-text-small>对敌方造成3次光属性伤害/光属性防御DOWN(累积)/自身奥义值20%UP</div>
+skill-3,,对敌方造成光属性伤害/驱散1个强化效果<span class=text-blue>◆英灵Lv5时，发动2次</span>
+support-1,,<div class=prt-text-small>奥义最大值200/若回合结束时自身拥有10个以上强化效果，奥义值20%UP/技能1的cd缩短1回合<span class=text-blue>◆仅在奥义值200%时可使用奥义</span></div>
+support-2,,<div class=prt-text-small>受到光属性角色的回复或强化技能时，英灵Lv上升(最大5)/根据英灵Lv自身连击率UP<span class=text-blue>◆英灵Lv5时受到光属性角色的回复或强化技能则发动技能2</span></div>
+skill-lb,LB技能,
+intro,玛娜利亚战斗召唤师,

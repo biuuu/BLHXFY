@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,可可匹欧,3040677000
+special,,<div class=prt-text-small>火属性伤害(特大)/发动回合中，火属性角色防御大幅UP/回复自身HP<span class=text-blue>◆根据尊护身术Lv发动火属性追加伤害(最大5次)</span></div>
+skill-1,,<div class=prt-text-small>对敌方造成3次火属性伤害/连击率DOWN(累积)/自身攻击UP(累积)<span class=text-blue>◆根据尊护身术Lv攻击次数UP(最大8次)/Lv5时，追加驱散1个强化效果</span></div>
+skill-2,,<div class=prt-text-small>自身获得镜身解放效果/不死之身效果(1次)<span class=text-blue>◆镜身解放效果中，援护效果(全体)/受击时全力反击(5次/每触发反击)/部分承伤吸收为HP/回合结束时Fatal Chain值100%UP</span></div>
+skill-3,,<div class=prt-text-small>火属性角色获得风属性受伤减轻70%/承伤转化为风属性/弱体耐性大幅UP/免疫驱散效果(1次)</div>
+support-1,,<div class=prt-text-small>受击时发动技能1/自身尊护身术Lv上升1(最大5)/强化技能cd缩短1回合<span class=text-blue>◆根据尊护身术Lv普攻造成伤害UP/连击率UP/吸收效果</span></div>
+support-2,,<div class=prt-text-small>援护自身以外HP最低的角色/受到敌方风属性伤害最大值固定在5000/反击性能大幅UP</div>
+skill-lb,LB技能,
+intro,,

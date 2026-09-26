@@ -1,0 +1,8 @@
+﻿id,name,detail
+npc,空蝉,3040491000
+special,夢現抱擁,光属性伤害(特大)/自身回避敌人全部攻击(1次)
+skill-1,花魁道中,自身攻击大幅UP(仅限敌人break状态/1次)/赋予强袭效果<span class=text-blue>◆2次发动自身获得再攻击效果/3次发动获得乱击效果(3次攻击)</span>
+skill-2,夜见世之乐,光属性角色特殊强化(攻击/连击率UP)/回避率UP/光属性追击效果<span class=text-blue>◆敌场上有人处于break状态时，效果时间延长</span>
+skill-3,梦火鸟,对敌方随机目标造成4次光属性伤害/驱散敌方全体1种强化效果<span class=text-blue>◆2敌场上有人处于break状态时，普攻与奥义后发动</span>
+support-1,梦的引路人,容易成为目标，但回避率UP/回避时对敌方全体造成光属性伤害/命中率DOWN
+support-2,唐鶸屋头牌花魁,技能伤害不消耗追击/对break状态的敌人必定三连击

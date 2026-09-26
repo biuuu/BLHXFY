@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,席尔瓦,3040187000
+special,神腕射击,<div class=prt-text-small>光属性伤害(特大)/自身获得奥义值UP(20%)<br><span class=text-blue>◆自身对处于「弱点」的目标获得奥义性能UP</span></div>
+skill-1,无形翔鹰,<div class=prt-text-small>自身获得潜伏效果/暴击率UP/奥义伤害上限UP/高扬效果/防御力DOWN</div>
+skill-2,洞悉,敌方单体获得攻防DOWN/「弱点」<br><span class=text-blue>◆敌方处于「弱点」时获得承受伤害UP</span>
+skill-3,隐蔽射击,<div class=prt-text-small>自身与首名后排角色交换位置<span class=text-blue>◆交换角色获得「掩护射击」/攻击后自身进行技能追击对敌方单体造成光属性伤害/自身返回前排时提前解除效果</span></div>
+support-1,侦察员,我方光属性角色暴击时获得伤害上限UP<br><span class=text-blue>◆仅前排有效</span>
+skill-sub,追加弹丸,我方光属性奥义4连击时对敌方单体造成光属性伤害
+skill-lb,LB技能,自身普通攻击处于「弱点」的目标时附加光属性追击效果
+intro,锐才的射手,驰名全空，身经百战的狙击手，为了需要保护的伙伴扣住了扳机。当一声鸿亮的枪声回响在天空中时，她的又一个伟业就被记录进了历史中。

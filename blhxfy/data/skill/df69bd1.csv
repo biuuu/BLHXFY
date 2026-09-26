@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,米琳,3040534000
+special,,对敌方造成风属性伤害(特大)/风属性角色奥义值上升量UP/技能2发动
+skill-1,,<div class=prt-text-small>对敌方造成8次风属性伤害/驱散1个强化效果<span class=text-blue>◆敌方使用特殊技时发动</span></div>
+skill-2,,<div class=prt-text-small>对敌方造成4次风属性伤害/风属性防御DOWN(累积)/自身奥义值20%UP</div>
+skill-3,,<div class=prt-text-small>自身奥义值100%UP/奥义再发动(1次)/反击效果(回避/2次)<span class=text-blue>◆武士力为3时，效果时间内回合结束时奥义值100%UP</span></div>
+support-1,,<div class=prt-text-small>奥义值最大200/若攻击开始时奥义值在100%以上，伤害上限UP/必定三连击<span class=text-blue>◆奥义发动时，消耗200%UP奥义性能UP/10次风属性追加伤害</span></div>
+support-2,,<div class=prt-text-small>奥义连锁在5连及以上时，自身武士力上升1(最大3)/根据武士力层数风属性角色奥义性能UP/奥义值造成伤害上升</div>
+skill-lb,LB技能,
+intro,,

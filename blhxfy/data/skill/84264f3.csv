@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,阿莉亚,3040431000
+special,,风属性伤害(特大)/驱散一个强化效果
+skill-1,,赋予自身3种随机强化效果
+skill-2,,<div class=prt-text-small>对敌方全体造成风属性伤害/延长自身强化效果3回合<span class=text-blue>◆效果时间仅1回合地强化效果除外</span></div>
+skill-3,,<div class=prt-text-small>投影自身或队友的技能<span class=text-blue>◆投影成功时，自身奥义值30%UP</span></div>
+support-1,,<div class=prt-text-small>根据自身拥有的强化效果奥义伤害UP/奥义伤害上限UP/奥义值上升量UP</div>
+support-2,,强化效果不会被消去/接受主人公强化技能时，赋予自身1种随机强化效果
+skill-lb,LB技能,
+intro,,

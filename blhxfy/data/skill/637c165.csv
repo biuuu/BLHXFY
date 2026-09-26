@@ -1,0 +1,13 @@
+﻿id,name,detail
+npc,索利兹,3040170000
+special,破岩溢冲,土属性伤害(特大)/赋予自己浑身效果
+special-拳褌軼敵・岩砕衝,拳裈轶敌・岩碎冲,土属性伤害(特大)/赋予自己浑身效果/拳裈效果
+skill-1,不挠不屈,敌方6次土属性伤害/自身HP回复   <span class=text-blue>◆每次使用回复量上升(最大5次)</span>
+skill-1++,不挠不屈,<div class=prt-text-small>对敌人造成6次土属性伤害/恢复自身HP/连续攻击率UP（累积）   <span class=text-blue>◆每次使用回复量上升(最大5次)</span></div>
+skill-2,肉弹气焰,敌方6次土属性伤害/防御下降(累积)   <span class=text-blue>◆每次使用攻击次数上升(最大10次)</span>
+skill-3,男子汉的最后通牒,可以立即使用不挠不屈和肉弹气焰   <span class=text-blue>◆以这拳头起誓绝不会让你们碰小姑娘们的!(自身防御大幅上升/对女性角色保护效果/攻击上升(随队伍女性角色数量上升))</span>
+support-1,老当益壮,更容易成为敌人目标但最大HP上升
+support-1+,老当益壮,<div class=prt-text-small>更容易成为敌人目标但最大HP上升/使用了「男子汉的最后通牒」的回合，同种伤害技能可连续使用2次</div>
+support-2,肌肉反应,受到伤害「刚破」等级上升1(最大10)   <span class=text-blue>根据「刚破」等级给予伤害上升(每层+5000，最大10层50000)</span>
+support-2+,肌肉反应,<div class=prt-text-small>受到伤害及使用伤害技能时，「刚破」等级上升1(最大10) <span class=text-blue>◆根据「刚破」等级，攻防UP/造成的伤害上升/伤害上限UP</span></div>
+skill-lb,LB技能,发动奥义时有几率刷新「肉弹气焰」的CD

@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,莫德雷德,3040675000
+special,,<div class=prt-text-small>暗属性伤害(特大)/自身暴击率UP/伤害技能可即刻使用</div>
+skill-1,,<div class=prt-text-small>对敌方全体造成暗属性伤害/自身获得逆境效果/屏障效果/技能造成伤害上升</div>
+skill-2,,暗属性角色暗属性攻击UP/光属性受伤减轻/免疫驱散(1次)
+skill-3,,<div class=prt-text-small>对敌方造成6次暗属性伤害/攻防DOWN(累积)/弱体耐性DOWN(累积)<span class=text-blue>◆消耗自身HP最大值的40%可再次使用此技能</span></div>
+support-1,,<div class=prt-text-small>自身使用伤害技能时获得1层宝剑的鸣动(最大3层)<span class=text-blue>◆宝剑的鸣动3层时，消耗全部宝剑的鸣动，自身在1回合内封印技能但普攻造成伤害UP/必定三连击/暗属性追击效果</span></div>
+support-2,,<div class=prt-text-small>仅一次，不会陷入无法战斗状态，以1HP继续战斗/自身HP越少连击率UP/伤害上限UP/普攻时若处于濒死状态，对随机目标造成4次暗属性伤害</div>
+skill-lb,LB技能,
+intro,,

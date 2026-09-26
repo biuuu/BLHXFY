@@ -1,0 +1,11 @@
+﻿id,name,detail
+npc,玛努·珀努玛乌,3040653000
+special,,<div class=prt-text-small>暗属性伤害(特大)/驱散1个强化效果<span class=text-blue>◆自身处于特制头盔效果中时，造成暗属性追加伤害</span></div>
+skill-1,,<div class=prt-text-small>对敌方造成4次暗属性伤害/攻防DOWN(累积)/自身技能造成伤害上升(累积)<span class=text-blue>◆自身处于特制头盔效果中时，普攻时发动</span></div>
+skill-2,,暗属性角色获得强壮效果/格挡效果/免疫弱体效果(1次)
+skill-3,,<div class=prt-text-small>自身与一名后排队员换位，使其获得坚硬头盔/自身获得悠闲之力效果<span class=text-blue>◆仅在后排队员全为暗属性时可使用/坚硬头盔效果中防御UP/光属性受伤减轻/免疫弱体效果/受到敌方的光属性伤害最大值固定在5000/奥义上升量DOWN/珀努玛乌回到前排时坚硬头盔效果消失/再使用不可</span></div>
+support-1,,奥义值上升缓慢、连击率低，但防御大幅UP
+skill-sub,,<div class=prt-text-small>为前排队友发放慰问品，每三回合在回合结束时回复暗属性角色HP/回复1个弱体效果<span class=text-blue>◆若有濒死状态的队友在场，回复性能UP</span></div>
+skill-main,,<div class=prt-text-small>消耗悠闲之力效果/获得特制头盔<span class=text-blue>◆效果中攻击UP/连击率UP/技能造成伤害UP/光属性受伤减轻/免疫弱体效果/受到敌方的光属性伤害最大值固定在5000/敌对心UP</span></div>
+skill-lb,LB技能,
+intro,,

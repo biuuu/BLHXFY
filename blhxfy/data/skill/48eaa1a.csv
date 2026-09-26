@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,美杜莎,3040151000
+special,魔法转星甜美★美杜莎,土属性伤害(特大)/发动魔力美杜西安娜
+skill-1,闪亮眨眼,<div class=prt-text-small>赋予敌方魔眼石化效果/土属性防御25%DOWN <span class=text-blue>◆消耗20%奥义槽</span>></div>
+skill-2,魔力美杜西安娜,<div class=prt-text-small>对敌方单体造成土属性伤害/中毒效果/甘蛇LV上升1（最大7）<span class=text-blue>◆甘蛇LV为7时发动3次</span>></div>
+skill-3,热情之眼,<div class=prt-text-small>我方全体获得反射盾(40%，2次)<br><span class=text-blue>◆敌方使用特殊技时我方全体奥义槽50%UP/奥义性能UP（1次）</span></div>
+support-1,甜美魅惑,根据甘蛇LV提升奥义性能
+support-2,甘蛇姬,敌人使用特殊技时，该回合中发动1次魔力美杜西安娜
+skill-lb,LB技能,对中毒状态的敌人暴击率UP
+intro,甜蜜荡漾魔眼姬,在人世间知晓了新的游戏，拥有魔眼的高傲的星晶兽。她在自己让人怜爱的裙摆上附上了甜蜜荡漾的魔法，魅惑了苍空。

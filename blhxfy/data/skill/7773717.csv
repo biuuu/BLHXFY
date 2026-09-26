@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,雪莉,3040590000
+special,,光属性伤害(特大)/自身获得吸收效果/1回合内受伤减轻
+skill-1,,对敌方造成8倍光属性伤害/防御DOWN/驱散1个强化效果
+skill-2,,<div class=prt-text-small>对随机目标造成5次光属性伤害/敌方全体受伤加重/自身潜血的切望Lv上升1<span class=text-blue>◆潜血的切望Lv5时，攻击次数翻倍</span></div>
+skill-3,,<div class=prt-text-small>自身三连击率UP/光属性追击效果/乱击(3Hit)/潜血的切望Lv上升1<span class=text-blue>◆消耗自身最大HP的20%</span></div>
+support-1,,<div class=prt-text-small>最大HP低，但自身HP越少攻击UP/三连击发动时第三击造成伤害上升</div>
+support-2,,<div class=prt-text-small>受伤时与攻击开始时自身潜血的切望Lv上升1(最大10)<span class=text-blue>◆若回合结束时潜血的切望Lv达到10，则重置Lv且1回合内无法行动/3回合内自身防御DOWN/敌对心UP/技能封印</span></div>
+skill-lb,LB技能,
+intro,,
