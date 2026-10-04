@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,伽莱翁,3040544000
+special,,<div class=prt-text-small>风属性伤害(极大)/自身技能cd缩短1回合/丰穰的基石效果<span class=text-blue>◆效果中三连击率UP/普攻造成伤害UP/风属性追击效果</span></div>
+skill-1,,风属性主人公获得金之至爱效果/风属性追击效果(1次)/攻击大幅UP(1次)
+skill-2,,<div class=prt-text-small>对敌方全体造成3次风属性伤害/防御DOWN/受伤加重</div>
+skill-3,,<div class=prt-text-small>风属性角色防御大幅UP/受伤减轻/免疫驱散(1次)<span class=text-blue>◆对金之至爱效果效果中的主人公性能UP</span></div>
+support-1,,<div class=prt-text-small>战斗开始时自身获得丰穰的基石效果/普攻不累积奥义值，但若回合中未行动，回合结束时自身可即刻发动奥义<span class=text-blue>◆非丰穰的基石效果中，不进行普攻</span></div>
+support-2,,<div class=prt-text-small>风属性角色未进行攻击行动时，回合结束时对敌方造成风属性伤害/驱散1个强化效果<span class=text-blue>◆根据未进行攻击行动的风属性角色人数攻击次数UP(最大4次)</span></div>
+skill-lb,LB技能,
+intro,,

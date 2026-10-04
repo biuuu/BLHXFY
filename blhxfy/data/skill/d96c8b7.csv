@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,赫丽雅,3040271000
+special,佣兵之刃,土属性伤害（特大）/无视目标随机造成7次土属性伤害/自己的攻防UP（累积）
+skill-1,钢剑,<div class=prt-text-small>无视目标随机造成7次土属性伤害/自己的攻防UP（累积）<span class=text-blue>◆消费3层继战</span></div>
+skill-2,困境下的守势,<div class=prt-text-small>自己获得援护效果/防御10倍UP<span class=text-blue>◆消费30%奥义值</span></div>
+skill-3,佣兵的直觉,回复自己的HP/净化1个弱体效果/继战LV上升3
+support-1,铁枪佣兵团首领,<div class=prt-text-small>回合结束时根据受到伤害的次数提高奥义值（5%/最大50%）/继战LV上升（最大9）<span class=text-blue>◆回合结束时若HP在50%以下，则发动佣兵的直觉</span></div>
+support-2,生而为剑,得意武器为剑的土属性角色的技能伤害性能UP
+skill-lb,LB技能,技能造成的伤害上升
+intro,千锤百炼的佣兵头领,铁枪佣兵团的年轻头领，有时会因为对自己立场的责任感过强而迷失方向。但正因为她坚持自己的信念，大道才会在她面前显现。

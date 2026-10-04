@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,杰西卡,3040423000
+special,,<div class=prt-text-small>暗属性伤害(极大)/我方全体奥义性能UP(1次)/奥义值15%UP/消耗1炮弹<span class=text-blue>◆仅在炮弹1以上时可发动</span></div>
+skill-1,,对敌方全体造成暗属性伤害/最大CT增加/我方全体获得高扬效果/免疫弱体效果(1次)
+skill-2,,<div class=prt-text-small>自身以外单体暗属性角色获得奥义再发动效果(1次)/奥义值100%UP<span class=text-blue>◆消耗1炮弹</span></div>
+skill-3,,自身可即刻发动奥义/必定三连击(1次)
+support-1,,暗属性角色发动奥义时回复自身HP/攻防UP(累积)
+support-2,,<div class=prt-text-small>每5回合或三连击时追加1炮弹<span class=text-blue>◆战斗开始时拥有2炮弹(最大3)</span></div>
+skill-lb,LB技能,
+intro,,

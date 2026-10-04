@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,阿尔芭,3040679000
+special,,水属性伤害(特大)/技能1发动
+skill-1,,<div class=prt-text-small>对敌方造成2次水属性伤害/防御DOWN(累积)<span class=text-blue>◆每次发动依次追加以下效果(自身获得水属性追击效果/强壮效果/伤害上限UP/驱散敌方1个强化效果)</span></div>
+skill-2,,<div class=prt-text-small>水属性角色三连击率UP/暴击率UP/会心效果/自身不经过回合发动普攻<span class=text-blue>◆第2次发动消耗彩煌的装身效果使自身以外的水属性角色不经过回合进行普攻</span></div>
+skill-3,,赋予敌方全体魅惑效果/攻击DOWN/特殊技伤害DOWN/受伤加重
+support-1,,<div class=prt-text-small>每次普攻对随机目标造成2Hit/非彩煌的装身状态时，自身攻击UP/技能性能UP/回避率UP<span class=text-blue>◆战斗开始时即处于彩煌的装身状态/离开前排时不会消去</span></div>
+support-2,,<div class=prt-text-small>得意武器「枪」的水属性角色伤害上限UP/得意武器「枪」的水属性角色每进行3次普攻则发动技能1/技能2的cd缩短1回合</div>
+skill-lb,LB技能,
+intro,,

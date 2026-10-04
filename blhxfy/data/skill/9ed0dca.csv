@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,美杜莎,3040547000
+special,,<div class=prt-text-small>土属性伤害(特大)/缓速效果/自身回避敌方所有攻击(1次)<span class=text-blue>◆根据共鸣Lv造成土属性追加伤害(最大4次)</span></div>
+skill-1,,<div class=prt-text-small>对随机目标造成10次土属性伤害/驱散敌方全体1个强化效果/剧毒Lv上升1(最大10)</div>
+skill-2,,<div class=prt-text-small>对敌方造成9被土属性伤害/蛇之咬裂效果<span class=text-blue>◆蛇之咬裂效果根据发动次数获得性能强化(最大Lv3)</span></div>
+skill-3,,1回合内封印敌方全体行动/连击率DOWN/命中率DOWN
+support-1,,<div class=prt-text-small>根据队伍中「星晶兽」种族数量依次获得以下效果(攻击UP/技能伤害上限UP/技能造成伤害上升/敌方使用特殊技时，伤害技能可即刻使用/1回合内科连续使用2次同一个伤害技能)</div>
+support-2,,<div class=prt-text-small>受到土属性「星晶兽」的回复或强化技能时，自身共鸣Lv上升1(最大4)/共鸣Lv4时，仅一次，土属性「星晶兽」可即刻发动技能<span class=text-blue>◆根据共鸣Lv土属性「星晶兽」依次获得以下效果(防御UP/水属性受伤减轻/回避率UP/免疫驱散)</span></div>
+skill-lb,LB技能,
+intro,,

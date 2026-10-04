@@ -1,0 +1,9 @@
+id,name,detail
+npc,萨缇洛斯,3040375000
+special,魅爱之咒,土属性伤害(特大)/自身获得奥义值UP(15%)/1层「闪耀」
+skill-1,激情演出,<div class=prt-text-small>自身获得无法普通攻击/格挡效果/敌对心UP<br><span class=text-blue>◆回合结束时我方土属性角色获得奥义值UP(15%)/奥义性能UP(累积)</span></div>
+skill-2,无邪之心,<div class=prt-text-small>自身HP回复(上限2000)/弱化效果缩短2回合<br><span class=text-blue>◆消耗1层「闪耀」效果全体化</span></div>
+skill-3,迹指天空,对敌方全体造成土属性伤害/攻防DOWN(累积)/驱散1个强化效果
+support-1,星之歌手,敌方使用特殊技的回合自动发动1次「无邪之心」/自身技能使用间隔缩短1回合
+support-2,☆to-Mo的牵绊,<div class=prt-text-small>自身成为敌方攻击目标的回合或我方土属性角色发动奥义时自身获得1层「闪耀」(最大9层)<br><span class=text-blue>◆回合结束时消耗2层「闪耀」自动发动1次「迹指天空」</span></div>
+intro,真爱的黑琉璃,星晶兽梦想着跨越种族藩篱的联系，受到音乐节的启发，她穿上了酷炫的服装。与他人偶尔碰撞却又相互理解的场景与微笑一同，唤起了过去的回忆。

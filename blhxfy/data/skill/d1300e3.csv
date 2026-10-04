@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,达里达拉,3040631000
+special,,<div class=prt-text-small>水属性伤害(特大)/无属性追加伤害/技能3的cd缩短1回合<span class=text-blue>◆NewBigLv达到10时，发动技能2</span></div>
+skill-1,,<div class=prt-text-small>自身获得大男子汉的矜持效果<span class=text-blue>◆效果中，攻防UP/三连击率UP/暴击率UP/会心效果/无视敌方属性触发弱点效果/成为敌方目标时，效果时间延长1回合</span></div>
+skill-2,,对敌方造成水属性伤害/驱散1个强化效果/水属性防御DOWN/回复自身HP
+skill-3,,<div class=prt-text-small>自身获得水属性追击效果(1次)/不经过回合进行普攻<span class=text-blue>◆NewBigLv达到10时，追加自身攻击大幅UP</span></div>
+support-1,,<div class=prt-text-small>自身暴击时NewBigLv上升1(最大10)<span class=text-blue>◆根据NewBigLv伤害上限UP/普攻造成伤害UP</span></div>
+support-2,,<div class=prt-text-small>容易成为敌方目标但最大HPUP/受伤时反击(1次)/受到来自敌方的火属性伤害最大值固定在5000</div>
+skill-lb,LB技能,
+intro,,

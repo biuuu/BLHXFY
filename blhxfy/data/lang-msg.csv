@@ -1,0 +1,2516 @@
+﻿id,jp,en,trans
+air_space_1,空域図,Skydoms,空域图
+arcade_mode_1,アーケードモード,ARCADE MODE,
+arcarum_1,アーカルムの転世,Arcarum: The World Beyond,阿尔卡那的转世
+arcarum_10,確認,TP,确认
+arcarum_11,星導の天球儀,Globe of the Starways,
+arcarum_12,ステージクリア,Stage Cleared,通关
+arcarum_13,次のステージに進みますか？,Continue on to the next stage?,是否前往下一关？
+arcarum_14,チェックポイント到達,Checkpoint Reached,抵达存档点
+arcarum_15,アイテム,Items,道具
+arcarum_16,アイテム入手,Treasure,获得道具
+arcarum_17,強化発動,Status Effect,发动强化效果
+arcarum_18,？？？,???,？？？
+arcarum_19,ステータス効果,Status Effects,状态效果
+arcarum_2,ポイント詳細情報,Arcapoint Details,点数详情
+arcarum_20,探索完了,Expedition,完成探索
+arcarum_21,チュートリアル完了,Tutorial Complete,教学关已完成
+arcarum_22,「アーカルムの転世」の<br>チュートリアルを完了しました。,You completed the Arcarum tutorial.,「阿尔卡那的转世」教学关已结束。
+arcarum_23,確認,Note,确认
+arcarum_25,ポイント交換はチュートリアル完了後<br>解放されます。,Complete the tutorial to unlock the trader.,点数兑换功能将在完成教学关后开启。
+arcarum_26,アイテムを使用,Use Item,使用道具
+arcarum_27,称号獲得,Trophy Achieved,获得称号
+arcarum_28,他称号を%s個獲得しました,You got %s other trophy.,以及其他%s个称号。
+arcarum_29,進行中のクエストから撤退し、<br>探索を終了しました。,You retreated from the quest.<br>The expedition has ended.,从进行中的任务中撤退，结束探索。
+arcarum_3,出発確認,Departure Check,确认出发
+arcarum_32,アイテム追加,New Item,增加道具
+arcarum_33,TPが0になったため<br>進行中のクエストから撤退し、<br>探索を終了しました。,You have no TP left.<br>The expedition has ended.,TP已为0，退出当前任务，结束探索。
+arcarum_34,通知設定,Reminder,通知设置
+arcarum_35,アイテム通知,Item Reminder,道具提醒
+arcarum_36,簡易探索,Fast Expedition,简易探索
+arcarum_4,再開確認,Resume,继续任务
+arcarum_5,探索終了,Expedition,结束探索
+arcarum_6,探索を終了しました。,This expedition has ended.,探索已结束
+arcarum_7,確認,Expedition,确认
+arcarum_8,%s個入手しました。,You got %s.,获得%s个
+arcarum_9,移動不可,Impassable,无法移动
+arcarum_debuff_off_1,ステージ効果解除,Active Effect,解除效果
+arcarum_enemy_lock_1,アクイラ・キーストーン,Aquila Keythorn,天鹰之柱
+arcarum_enhancement_1,アーカルム召喚石,Arcarum Series Summons,阿尔卡那召唤石
+arcarum_enhancement_10,一括外し確認,Unequip All,卸下装备确认
+arcarum_enhancement_11,全ての編成から装備を外します。<br>よろしいですか？<br><br><div class='txt-attention'>※メイン召喚石に装備している<br>場合は外れません</div>,This summon will be unequipped<br>from all parties.<br><br><div class='txt-attention'>Main summons won't be unequipped.</div>,确定从所有队伍中卸下该装备吗？？<div class='txt-attention'>※主召唤石不会自动解除装备</div>
+arcarum_enhancement_12,一括外し,Unequip All,一键卸下装备
+arcarum_enhancement_13,装備を外しました。,This summon was unequipped.,已卸下当前装备
+arcarum_enhancement_14,選択された召喚石は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,This summon is currently favorited.<br>Unfavorite it and try again.,该召唤石在保护中，无法选择。请取消保护后重试。
+arcarum_enhancement_15,入手,pick up this summon,获取
+arcarum_enhancement_16,上限解放,uncap this summon now,上限解放
+arcarum_enhancement_17,入手後の召喚石詳細を見る,Stats After Select,查看获取后的召唤石详情
+arcarum_enhancement_18,上限解放後の召喚石詳細を見る,Stats After Uncap,查看上限解放后的召唤石详情
+arcarum_enhancement_2,入手,Arcarum Summons,获取
+arcarum_enhancement_3,上限解放,Lvl Uncap,上限解放
+arcarum_enhancement_4,%s確認,%s,%s确认
+arcarum_enhancement_5,%s完了,%s,%s成功
+arcarum_enhancement_6,アイテム詳細,Item Details,道具详情
+arcarum_enhancement_7,ベース召喚石が条件を満たしていない、<br>倉庫に格納されている、もしくは<br>必要素材が不足しているため、<br>%sできません。,"You can't %s.<br>You don't have enough treasures,<br>the base summon is in your stash,<br>or other requirements haven't been met.",因召唤石未满足条件，或被收纳于仓库，或材料不足，%s失败。
+arcarum_enhancement_8,召喚石の所持数が最大に達しているため、<br>入手することができません。<br>所持数に空きを作ることで入手できるようになります。,You can't pick up this summon. Your inventory is full.,召唤石数量已满，无法获得新召唤石。请整理后重试。
+arcarum_inter_mission_1,インターミッションに突入したためバトルを終了します,,进入中场休息，战斗结束。
+arcarum_open_difficulty_body_1,難易度HARDが解放されました。,Hard difficulty has been unlocked.,HARD难度解放。
+arcarum_open_difficulty_body_2,難易度EXTREMEが解放されました。,Extreme difficulty has been unlocked.,EXTREME难度解放。
+arcarum_open_difficulty_head_1,HARD解放,Unlocked,HARD解放
+arcarum_open_difficulty_head_2,EXTREME解放,Unlocked,EXTREME解放
+arcarum_param_1,TP,TP,
+arcarum_point_1,ポイント詳細情報,Arcapoint Details,点数详情
+arcarum_quest_1,クエストの有効期限が切れました。<br><br>アーカルムの転世<br>クエスト 「%s1」<br><br>TPを%s2消費してバトルから撤退しました。,This quest is no longer available.<br><br>Arcarum: The World Beyond<br>%s1<br><br>%s2 TP was used to retreat from this quest.,任务超时。从阿尔卡那的转世任务「%s1」消耗%s2TP撤退。
+arcarum_quest_10,・," / ",
+arcarum_quest_11,「%s」,%s,
+arcarum_quest_12,種族,,
+arcarum_quest_13,%sキャラ編成禁止,The following character types can't be<br>in your party: %s,禁止出现%s角色
+arcarum_quest_14,," / ",
+arcarum_quest_2,クエストの有効期限が切れました。<br><br>アーカルムの転世<br>クエスト 「%s1」<br><br><span class='txt-retire-attention'>撤退に必要なTPが不足しているため<br>探索を終了しました。</span>,This quest is no longer available.<br><br>Arcarum: The World Beyond<br>%s1<br><br><span class='txt-retire-attention'>You don't have enough TP.<br>The expedition was ended.</span>,任务超时。阿尔卡那的转世任务「%s1」<span class='txt-retire-attention'>因剩余TP不足无法撤退，结束探索。</span>
+arcarum_quest_3,アーカルムの転世に戻る,Arcarum: The World Beyond,返回阿尔卡那的转世
+arcarum_quest_4,探索を終了した場合、チェックポイント以降の<br>進行状況は保存されません。<br><br><div class='txt-lose-attention'>本当に探索を終了しますか？</div>,Any progress from the last checkpoint<br>won't be saved.<br><br><span class='txt-lose-attention'>Are you sure you want to end this expedition?</span>,若结束探索，上一存档点以后的进度将消失。确定结束探索吗？
+arcarum_quest_5,探索終了,Expedition,探索结束
+arcarum_quest_6,進行中のクエストから撤退し、<br>探索を終了しました。,You retreated from the quest.<br>The expedition has ended.,从当前任务撤退，探索结束。
+arcarum_quest_7,%sキャラ編成禁止,%s characters can't be used,禁止出现%s角色
+arcarum_quest_8,%s属性キャラ編成禁止,The following elemental characters can't be<br>in your party: %s,禁止出现%s属性角色
+arcarum_quest_9,・," and ",
+arcarum_stage_effect_1,ステージ効果発動,Stage Effect Active,发动状态效果
+arcarum_stage_effect_2,ステータス「毒」発生,Poisoned,进入「中毒」状态
+arcarum_stage_effect_3,奥義使用不可,Can't use charge attacks,无法使用奥义
+arcarum_stage_effect_4,アビリティ使用不可,Can't use skills,无法使用技能
+arcarum_stage_effect_5,連続攻撃確率DOWN,Hit to multiattack rate,连续攻击概率DOWN
+arcarum_tutorial_1,撤退確認,Tutorial,确认撤退
+arcarum_tutorial_2,チュートリアル中のため<br>撤退できません。,You can't retreat.<br>The tutorial is still in progress.,教学关无法撤退。
+arcarum_tutorial_3,バトルから撤退し<br>チュートリアルを再開します。,You're about to retreat from this battle.<br>The tutorial will restart.,撤退并重新进入教学关。
+arcarum_tutorial_quest_1,撤退確認,Tutorial,确认撤退
+arcarum_tutorial_quest_2,チュートリアル中のため<br>撤退できません。,You can't retreat.<br>The tutorial is still in progress.,教学关无法撤退。
+arcarum_unopened_difficulty_1,難易度HARDは、難易度NORMALの<br>各ポイントをすべて踏破すると挑戦可能に<br>なります。,Hard difficulty will unlock after<br>all Normal points have been cleared.,HARD难度将在NORMAL难度各路线通关后开启。
+arcarum_unopened_difficulty_2,難易度EXTREMEは、難易度HARDの<br>各ポイントをすべて踏破すると挑戦可能に<br>なります。,Extreme difficulty will unlock after<br>all Hard points have been cleared.,EXTREME难度将在HARD难度各路线通关后开启。
+archaic_1,特殊武器,Weapon Series,特殊武器
+archaic_10,武器選択,Weapon Select,武器选择
+archaic_11,選択された武器は装備中のため、<br>素材として選択できません。<br><br>装備を外した状態で選択してください。,Equipped weapons can't be absorbed.<br><br><br>Unequip and try again.,该武器在队伍中，无法作为素材。请解除装备后重试。
+archaic_12,選択された武器は保護中のため、<br>素材として選択できません。<br><br>保護を外した状態で再度選択してください。,Favorited weapons can't be absorbed.<br><br><br>Unfavorite it and try again.,该武器已被保护，无法作为素材。请取消保护后重试。
+archaic_13,武器のさらなる強化をするために、<br>シェロちゃんの設備拡充に<br>ご協力ください～！,Looks like I'll need a new slot<br>to upgrade your weapon!<br>Could you help?,为进一步强化武器，请帮助榭洛扩充设备~！
+archaic_14,実行確認,Use Items,确认使用
+archaic_15,シェロカルテに設備拡充のための<br>素材を渡しますか？,Use these items<br>to create a slot?,确定将素材交给榭洛科特扩充设备吗？
+archaic_16,実行完了,Use Items,完成
+archaic_17,シェロカルテに設備拡充のための<br>素材を渡しました。,Your items were used to create a slot.,已将素材交给榭洛科特扩充设备。
+archaic_18,シェロカルテに渡す<br>ルピ、もしくは必要素材が不足しています。,You don't have enough rupies or items.,交给榭洛科特的卢比或素材不足。
+archaic_19,必要数分の素材が選択されていません。,Not enough items have been selected.,素材未选择完全。
+archaic_2,アイテム詳細,Item Details,道具详情
+archaic_20,強化確認,Upgrade,确认强化
+archaic_21,強化完了,Upgrade,强化完成
+archaic_22,フェイトエピソード解放,Fate Episode Unlocked,人物剧情解放
+archaic_23,必要素材が不足しているため、<br>強化ができません。,You don't have enough items to continue.,素材不足，强化失败。
+archaic_24,必要素材が不足しているため、<br>製作ができません。,You don't have enough items to continue.,素材不足，制作失败。
+archaic_25,設備拡充に戻る,Slot Creation,返回设备扩充
+archaic_26,天星器一覧に戻る,Revenant Weapons,返回天星器一览
+archaic_27,依代を複数所持しているため、<br>使用する依代を選択してください。,You have multiple relics.<br>Please select a relic to use.,您持有多件依代，请选择本次使用的依代。
+archaic_28,貴重な武器への交換、製作は<br>こちらでできちゃいます～,Cast and trade for superior weapons here!,在这里能够兑换与制作贵重武器哦~
+archaic_29,強化確認,Upgrade,确认强化
+archaic_3,製作確認,Forge,确认制作
+archaic_30,一括外し確認,Unequip all,卸下装备确认
+archaic_31,全ての編成から装備を外します。<br>よろしいですか？,This item will be unequipped from all parties.,确定从所有队伍中卸下该装备吗？
+archaic_32,一括外し,Unequip all,一键卸下装备
+archaic_33,装備を外しました。,This item was unequipped.,已卸下当前装备
+archaic_34,戦,PWR,战
+archaic_35,攻,ATK,
+archaic_36,Lv,Lvl,
+archaic_37,H,HP,
+archaic_4,製作完了,Forge,制作完成
+archaic_5,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、製作ができません。,"This weapon can't be reforged now.<br>You don't have enough treasures,<br>or other requirements haven't been met.",基础武器未满足条件，或素材不足，无法制作。
+archaic_6,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,This weapon is currently eqipped.<br>Unequip it and try again.,该武器在队伍中，无法选择。请解除装备后重试。
+archaic_7,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,This weapon is currently favorited.<br>Unfavorite it and try again.,该武器已被保护，无法选择。请取消保护后重试。
+archaic_8,素材武器を選択してください,Select weapons to absorb.,请选择素材武器
+archaic_9,武器製作に戻る,Weapons Upgrade,返回武器制作
+archaic_bahamut_1,特殊武器,,
+archaic_bahamut_10,強化確認,,确认强化
+archaic_bahamut_11,強化完了,Upgrade,强化成功
+archaic_bahamut_12,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、強化ができません。,"This weapon can't be upgraded now.<br>You don't have enough treasures,<br>or other requirements haven't been met.",基础武器未满足条件，或素材不足，无法制作。
+archaic_bahamut_13,ノヴムの覚醒に戻る,,返回新星之觉醒
+archaic_bahamut_14,武器選択,,武器选择
+archaic_bahamut_15,天地開闢の器に戻る,,返回天地开辟之器
+archaic_bahamut_16,強化確認,Upgrade,确认强化
+archaic_bahamut_17,一括外し確認,,卸下装备确认
+archaic_bahamut_18,全ての編成から装備を外します。<br>よろしいですか？,,确定从所有队伍中卸下该装备吗？
+archaic_bahamut_19,一括外し,,一键卸下装备
+archaic_bahamut_2,天地開闢の器 ‐バハムートウェポン誕生‐,,天地开辟之器 -巴哈姆特武器诞生-
+archaic_bahamut_20,装備を外しました。,,已卸下当前装备
+archaic_bahamut_21,フツルスの大成 -終焉の神器-,,选召之大成 -终焉之神器-
+archaic_bahamut_22,フツルスの大成に戻る,,返回选召之大成
+archaic_bahamut_23,戦,,战
+archaic_bahamut_24,攻,,
+archaic_bahamut_25,Lv,,
+archaic_bahamut_26,H,,
+archaic_bahamut_3,ノヴムの覚醒 ‐進化の道程‐,,新星之觉醒 -进化之路-
+archaic_bahamut_4,アイテム詳細,,道具详情
+archaic_bahamut_5,製作確認,,确认制作
+archaic_bahamut_6,製作完了,,制作成功
+archaic_bahamut_7,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、製作ができません。,,基础武器未满足条件，或素材不足，无法制作。
+archaic_bahamut_8,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,,该武器在队伍中，无法选择。请解除装备后重试。
+archaic_bahamut_9,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,,该武器已被保护，无法选择。请取消保护后重试。
+archaic_job_1,特殊武器,Weapon Series,
+archaic_job_10,依代を複数所持しているため、<br>使用する依代を選択してください。,You have multiple relics.<br>Please select a relic to use.,您持有多件依代，请选择本次使用的依代。
+archaic_job_11,強化確認,Upgrade,确认强化
+archaic_job_12,一括外し確認,Unequip all,卸下装备确认
+archaic_job_13,全ての編成から装備を外します。<br>よろしいですか？,This item will be unequipped from all parties.,确定从所有队伍中卸下该装备吗？
+archaic_job_14,一括外し,Unequip all,一键卸下装备
+archaic_job_15,装備を外しました。,This item was unequipped.,已卸下当前装备
+archaic_job_16,戦,PWR,战
+archaic_job_17,攻,ATK,
+archaic_job_18,Lv,Lvl,
+archaic_job_19,H,HP,
+archaic_job_2,英雄武器に戻る,Class Champion Weapons,返回英雄武器
+archaic_job_3,武器選択,Weapon Select,武器选择
+archaic_job_4,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,This weapon is equipped.<br>Unequip it and try again.,该武器在队伍中，无法选择。请解除装备后重试。
+archaic_job_5,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,This weapon is currently favorited.<br>Unfavorite it and try again.,该武器已被保护，无法选择。请取消保护后重试。
+archaic_job_6,アイテム詳細,Item Details,道具详情
+archaic_job_7,製作確認,Forge,确认制作
+archaic_job_8,製作完了,Forge,制作完成
+archaic_job_9,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、製作ができません。,"This weapon can't be reforged now.<br>You don't have enough treasures,<br>or other requirements haven't been met.",基础武器未满足条件，或素材不足，无法制作。
+archaic_numbers_1,強化後の武器詳細を見る,Stats After Upgrading,查看强化后的武器详情
+archaic_numbers_2,製作後の武器詳細を見る,Stats After Forging,查看制作后的武器详情
+archaic_omega_1,オメガウェポンの作成・強化,Forge Weapon,究极武器的制作·强化
+archaic_omega_10,強化確認,Upgrade,确认强化
+archaic_omega_13,無垢なる魂の回帰に戻る,Atma Recollection,返回无垢之魂的回归
+archaic_omega_14,武器選択,Weapon Select,武器选择
+archaic_omega_15,オメガの極点に戻る,Ultima Vertex,返回终焉之极点
+archaic_omega_17,一括外し確認,Unequip all,卸下装备确认
+archaic_omega_18,全ての編成から装備を外します。<br>よろしいですか？,This item will be unequipped from all parties.,确定从所有队伍中卸下该装备吗？
+archaic_omega_19,一括外し,Unequip all,一键卸下装备
+archaic_omega_2,無垢なる魂の回帰,Atma Recollection,无垢之魂的回归
+archaic_omega_20,装備を外しました。,This item was unequipped.,已卸下当前装备
+archaic_omega_21,戦,PWR,战
+archaic_omega_22,攻,ATK,
+archaic_omega_23,Lv,Lvl,
+archaic_omega_24,H,HP,
+archaic_omega_3,オメガの極点,Ultima Vertex,终焉之极点
+archaic_omega_4,アイテム詳細,Item Details,道具详情
+archaic_omega_5,製作確認,Forge,确认制作
+archaic_omega_6,製作完了,Forge,制作成功
+archaic_omega_7,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、製作ができません。,"This weapon can't be reforged now.<br>You don't have enough treasures,<br>or other requirements haven't been met.",基础武器未满足条件，或素材不足，无法制作
+archaic_omega_8,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,This weapon is currently eqipped.<br>Unequip it and try again.,该武器在队伍中，无法选择。请解除装备后重试。
+archaic_omega_9,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,This weapon is currently favorited.<br>Unfavorite it and try again.,该武器已被保护，无法选择。请取消保护后重试。
+archaic_seraphic_1,特殊武器,,
+archaic_seraphic_10,%s完了,,%s成功
+archaic_seraphic_11,称号獲得,,获得称号
+archaic_seraphic_12,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、強化ができません。,,基础武器未满足条件，或素材不足，强化失败。
+archaic_seraphic_13,称号獲得,,获得称号
+archaic_seraphic_14,武器選択,,武器选择
+archaic_seraphic_15,%s確認,,确认%s
+archaic_seraphic_16,装備を外しました。,,已卸下当前装备
+archaic_seraphic_17,一括外し確認,,卸下装备确认
+archaic_seraphic_18,全ての編成から装備を外します。<br>よろしいですか？,,确定从所有队伍中卸下该装备吗？
+archaic_seraphic_19,一括外し,,一键卸下装备
+archaic_seraphic_2,セラフィックウェポン一覧,,天司武器一览
+archaic_seraphic_20,武器リストの所持数が最大に達しているため、武器の製作ができません。所持数に空きを作ることで製作できるようになります。,,武器数量已满，无法获得新武器。请整理后重试。
+archaic_seraphic_3,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、%sができません。,,基础武器未满足条件，或素材不足，%s失败。
+archaic_seraphic_4,アイテム詳細,,道具详情
+archaic_seraphic_5,製作,,制作
+archaic_seraphic_6,上限解放,,上限解放
+archaic_seraphic_7,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、製作ができません。,,基础武器未满足条件，或素材不足，无法制作。
+archaic_seraphic_8,装備を外しました。,,已卸下当前装备
+archaic_seraphic_9,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,,该武器已被保护，无法选择。请取消保护后重试。
+archaic_xeno_1,特殊武器,,
+archaic_xeno_10,強化確認,,确认强化
+archaic_xeno_11,強化完了,,强化成功
+archaic_xeno_12,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、強化ができません。,,基础武器未满足条件，或素材不足，强化失败。
+archaic_xeno_14,武器選択,,武器选择
+archaic_xeno_15,六道武器一覧に戻る,,返回六道武器一览
+archaic_xeno_16,強化確認,,确认强化
+archaic_xeno_17,一括外し確認,,卸下装备确认
+archaic_xeno_18,全ての編成から装備を外します。<br>よろしいですか？,,确定从所有队伍中卸下该装备吗？
+archaic_xeno_19,一括外し,,一键卸下装备
+archaic_xeno_2,六道武器一覧,,六道武器一览
+archaic_xeno_20,装備を外しました。,,已卸下当前装备
+archaic_xeno_21,戦,,战
+archaic_xeno_22,攻,,
+archaic_xeno_23,Lv,,
+archaic_xeno_24,H,,
+archaic_xeno_3,ノヴムの覚醒 ‐進化の道程‐,,新星之觉醒 -进化之路-
+archaic_xeno_4,アイテム詳細,,道具详情
+archaic_xeno_5,製作確認,,确认制作
+archaic_xeno_6,製作完了,,制作成功
+archaic_xeno_7,ベース武器が打ち直し条件を<br>満たしていない、もしくは必要素材が<br>不足しているため、製作ができません。,,基础武器未满足条件，或素材不足，无法制作。
+archaic_xeno_8,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,,该武器在队伍中，无法选择。请解除装备后重试。
+archaic_xeno_9,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,,该武器已被保护，无法选择。请取消保护后重试。
+archive_1,用語集,Archive,用语集
+archive_10,シナリオパターン選択,Select Scenario,选择剧情
+archive_11,ルリアノート,Journal,露丽亚日记
+archive_2,信頼度,"Loyalty: ",信赖度
+archive_3,フェイト,Fate,人物剧情
+archive_35,図鑑,Field Notes,图鉴
+archive_36,プロフィールに戻る,Profile,返回个人资料
+archive_37,ストーリー,Story,剧情
+archive_38,オープニング,Opening,序章
+archive_39,旅立ち,Setting Off on an Adventure,启程
+archive_4,%sエピソード未クリア,%s Episode (Not Cleared),%s该章未通关
+archive_40,エピソード1,Episode 1,第1章
+archive_41,エピソード2,Episode 2,第2章
+archive_42,エピソード3,Episode 3,第3章
+archive_43,エピソード4,Episode 4,第4章
+archive_44,降焔祭,Festival of Falling Flame,
+archive_45,臆病勇者と囚われの姫君,The Cowardly Hero and the Captive Princess,
+archive_46,不屈の勇者と熱砂の動乱,The Dauntless Hero and the Restless Sands,
+archive_47,プロローグ,Prologue,开幕
+archive_48,ストーリーはありません,No stories.,无剧情
+archive_49,図鑑 武器一覧に戻る,Field Notes: Weapons,返回图鉴 武器一览
+archive_5,%sエピソード解放,%s Episode Unlocked,%s剧情解放
+archive_50,図鑑 召喚石一覧に戻る,Field Notes: Summons,返回图鉴 召唤石一览
+archive_51,図鑑 キャラ一覧に戻る,Field Notes: People,返回图鉴 人物一览
+archive_52,このエピソードは<br>イベントでの謎解きに対する解答が<br>「正解」か「不正解」かによって<br>一部内容が異なります。<br><br>どちらの内容で再生しますか？,The contents of this episode vary according to whether your puzzle answer is Incorrect or Correct.<br><br>Which version would you like to play?,该剧情根据活动中玩家的回答是否正确有细微差异。请选择想要查看的剧情版本。
+archive_53,不正解,Incorrect,回答错误
+archive_54,正解,Correct,回答正确
+archive_55,メッセージ選択,View Message,
+archive_56,メインシナリオ,Main Quests,主线剧情
+archive_6,%sエピソード解放条件,%s Episode Unlock Requirements,%s剧情解放条件
+archive_9,アイテム獲得,Items,获得道具
+archive_back_btn_1,図鑑に戻る,Field Notes,返回图鉴
+assist_bonus_1,アシストボーナス,Assist Bonus,等级加成
+battle_service_1,バトルサービス,Battle Supplements,
+battle_service_2,<br><span class='txt-red-color'>スコアが不足しています。</span>,<br><span class='txt-red-color'>You don't have enough points.</span>,<br><span class='txt-red-color'>分数不足。</span>
+battle_service_3,<br><span class='txt-red-color'>これ以上使用できません。</span>,<br><span class='txt-red-color'>You can't use this anymore.</span>,<br><span class='txt-red-color'>无法使用。</span>
+battle_service_4,<br><span class='txt-yellow-color'>あと%s回使用できます。</span>,<br><span class='txt-yellow-color'>You can use this %s more time.</span>,<br><span class='txt-yellow-color'>剩余%s次。</span>
+battle_service_5,<br><span class='txt-yellow-color'>あと%s回使用できます。</span>,<br><span class='txt-yellow-color'>You can use this %s more times.</span>,<br><span class='txt-yellow-color'>剩余%s次。</span>
+bookmark_1,お気に入り登録確認,Favorite,添加收藏任务确认
+bookmark_2,お気に入りの登録数が最大数に達しているため、<br>登録ができませんでした。,Your favorites are full.<br>This quest couldn't be favorited.,收藏数已满，无法添加收藏。
+bookmark_3,「%s1」<br>このクエストを登録しますか？<br><br>現在のお気に入り登録数<br>%s2/%s3,%s1<br>Favorite this quest?<br><br>Slots filled:<br>%s2/%s3,「%s1」<br>是否收藏此任务？<br><br>现在的收藏数<br>%s2/%s3
+bookmark_4,お気に入りに登録しました。<br><br>現在のお気に入り登録数<br>%s1/%s2,This quest was added to your favorites:<br><br>Slots filled:<br>%s1/%s2,收藏成功。<br><br>现在的收藏数<br>%s1/%s2
+bookmark_quest_1,お気に入りクエスト登録,Favorite this quest?,是否收藏此任务
+bookmark_quest_2,これ以上登録できません,You can't favorite any more quests.,无法添加收藏
+cannot_summon_1,このバトルでは召喚できません,Summons can't be used in this quest.,此任务无法使用召唤石
+casino_1,カジノ,Casino,赌场
+casino_10,ゲーム終了,Forfeit,结束游戏
+casino_11,%sを終了しました。,Forfeited %s,%s已结束
+casino_12,ダブルアップの種類選択,Higher-or-Lower,选择翻倍的牌类
+casino_13,メンテナンス中,Under Maintenance,维护中
+casino_14,メダル購入,Buy Chips,购买筹码
+casino_15,通信中...,Connecting...,连接中…
+casino_16,メダル購入確認,Buy Chips,购买筹码确认
+casino_17,メダル購入完了,Buy Chips,购买筹码成功
+casino_18,購入しました。,You bought some chips.,已购入。
+casino_19,カジノTOP,Casino,赌场首页
+casino_2,スロット,Slots,老虎机
+casino_20,メダルゲット,Chips,获得筹码
+casino_21,景品交換,Casino Cage,奖品兑换
+casino_22,交換確認,Trade Treasure,确认兑换
+casino_23,交換完了,Trade Treasure,兑换成功
+casino_24,アイテム詳細,Item Details,道具详情
+casino_25,ジャックポット当選者,Jackpot Winners,幸运榜
+casino_26,交換する,Trade,兑换
+casino_27,TOP,,
+casino_28,あと%s枚購入可能,%s more chip can be bought.,您还能购买%s枚筹码。
+casino_3,ポーカー,Poker,扑克
+casino_4,ビンゴ,Bingo,宾果
+casino_5,ルール（%s),%s,规则（%s)
+casino_6,%sTOPに戻る,%s,返回%s首页
+casino_7,メダル不足,Chips,筹码不足
+casino_8,メダルが足りません。<br>メダルは%sTOPで<br>購入することができます。,More chips are needed.<br>Buy chips on the %s screen.,筹码不足。请前往%s首页购入筹码。
+casino_9,終了確認,Forfeit,确认结束游戏
+casino_bingo_1,ビンゴ結果,Bingo,宾果
+casino_bingo_2,メダルがありません。<br><br>1ゲーム最低%s枚必要です。,You need more chips.<br><br> %s chips are needed to place the minimum bet,筹码不足。一局游戏至少需要%s枚筹码。
+casino_bingo_3,ビンゴゲーム中ですが退室しますか？<br>ゲームが終了した場合<br>もう一度ビンゴを選択すると<br>リザルトから始まります。,This game hasn't finished yet. The results screen will appear if the game finishes before you return.<br>Leave this room?,您在宾果游戏中，是否退出房间？若本局结束后您再次选择宾果，将首先看到本局结果页面。
+casino_bingo_4,ビンゴプレイ中,Bingo,宾果进行中
+casino_bingo_5,EXIT,QUIT,
+casino_bingo_6,メダルがありません。<br><br>1ゲーム最低%s枚必要です。,You need more chips.<br><br> %s chip is needed to place the minimum bet,筹码不足。一局游戏至少需要%s枚筹码。
+casino_bingo_7,1ゲーム最低%s枚必要です。<br>追加BETすることもできます。,The minimum bet for this room is %s chip.<br>Tap Raise to increase the bet.,一局游戏至少需要%s枚筹码。您可以提高赌注。
+casino_poker_1,ポーカーを始めます,Tap Deal to play.,开始扑克游戏。
+casino_poker_2,ダブルアップに挑戦しますか？,Play Higher-or-Lower?,是否继续挑战翻倍？
+casino_poker_3,%s回目のダブルアップ<div class='text2'>続けて挑戦しますか？</div>,"Round %s<div class=""text2"">Play another round?</div>",<div class='text2'>是否继续挑战</div>第%s次翻倍
+casino_poker_4,ホールドするカードを選択,Tap the cards you want to keep.,选择保留的手牌
+casino_poker_5,ポーカーTOPに戻りますか？,Return to the poker tables?,是否返回扑克首页？
+casino_poker_6,メダル不足,Chips,筹码不足。
+casino_poker_7,メダルがなくなりました。,You need more chips.,您的筹码不足。
+casino_poker_8,カジノへ,Casino,返回赌场
+casino_poker_9,EXIT,QUIT,
+casino_poker_no_game,ゲーム終了,Game Timeout,游戏结束
+casino_slot_1,スロット,Slots,老虎机
+casino_slot_2,スロットTOPに戻りますか？,Return to the Slot Machines?,是否返回老虎机首页？
+casino_slot_3,メダル不足,Chips,筹码不足。
+casino_slot_4,メダルがなくなりました。,You need more chips.,您的筹码不足。
+casino_slot_5,カジノへ,Casino,返回赌场
+casino_slot_6,EXIT,QUIT,
+caution_pop_1,難易度「%s1」のクエストを<br>開始しているため<br>難易度「%s2」のクエストを<br>開始することが出来ません。<br><br>制限は毎日AM5:00にリセットされます。,This %s2 quest can't be played. A %s1-difficulty quest was started first.<br><br>Quest-difficulty selection resets each day at 5 a.m. (JST).,您已进行了「%s1」难度的当前任务，无法再进行「%s2」难度。<br><br>限制将于每天AM5：00重置（GMT+9）。
+change_symbolmark_1,シンボルマーク変更,Change Icon,变更标记
+change_symbolmark_2,シンボルマークを変更しました。,You changed the icon for this party group.,变更标记成功
+cjs_npc_evolution_1,%sの\n最大Lvが%s→%sになった！,%s's level cap rose\nfrom %s to %s!,%s的\n最大Lv由%s变为%s！
+cjs_summon_evolution_1,%sの\n最大Lvが%s→%sになった！,%s's level cap rose\nfrom %s to %s!,%s的\n最大Lv由%s变为%s！
+comic_1,シナリオパターン選択,Choose Your Route,选择剧情
+comic_1,ぐらぶるっ!,Grand Blues,四格漫画
+comic_2,ぐらぶるっ! タイトル一覧,Grand Blues,四格漫画目录
+container_22,倉庫,Stash,仓库
+container_25,召喚石,Summons,召唤石
+container_26,移動先倉庫選択,Stash,选择目标仓库
+container_28,選択した倉庫内がいっぱいのため<br>移動できません。,The stash you selected is full. Select another one.,该仓库已满，转移失败。
+container_29,倉庫名を変更,Rename,变更仓库名
+container_31,何も入力されていません。,You haven't typed anything.,输入为空
+container_32,倉庫名を変更,Rename,变更仓库名
+container_33,倉庫の名前を<br><br>,This stash has been renamed <br><br>,仓库名已变更为<br><br>
+container_34,<br><br>に変更しました。,<br><br>,<br><br>
+container_35,売却,Sell,出售
+container_36,武器,weapon,武器
+container_37,召喚石,summon,召唤石
+container_38,売却確認,Sell,确认出售
+container_40,売却,Sell,出售
+container_41,売却結果,Sell,出售结果
+container_42,移動させる,Move,转移
+container_43,武器,Weapons,武器
+container_44,召喚石,Summons,召唤石
+container_45,移動,Move,转移
+container_65,倉庫TOP,Stash,仓库首页
+container_66,倉庫を所持していません,Stash,无仓库
+container_67,ショップへ,Shop,商店
+container_68,戦,PWR,战
+container_69,攻,ATK,
+container_70,Lv,Lvl,
+container_71,H,HP,
+container_move_target_1,リスト,the Inventory,列表
+container_move_target_2,倉庫,another Stash,仓库
+container_pop_1,リストに戻す,Add to Inventory,返回列表
+container_pop_10,以下の%sを売却しました。,You sold %s.,出售以下%s
+container_pop_11,所持ルピ　<span class='txt-lupi-after'>%s</span>ルピ,Held: <span class='txt-lupi-after'>%s</span> rupie,所持卢比　<span class='txt-lupi-after'>%s</span>卢比
+container_pop_2,所持数がいっぱいのため<br>移動できません。,Your inventory is full.,所持数已满，转移失败。
+container_pop_3,倉庫に移す,Move to Stash,转移至仓库
+container_pop_4,倉庫がいっぱいのため<br>移動できません。,The stash you selected is full.,仓库已满，转移失败。
+container_pop_5,売却価格　<span class='txt-sell-price'>%s</span>ルピ,Total: <span class='txt-sell-price'>%s</span> rupie,售出价格　<span class='txt-sell-price'>%s</span>卢比
+container_pop_6,所持ルピ　<span class='txt-lupi-before'>%s1</span> → <span class='txt-lupi-after'>%s2</span>ルピ,Held: <span class='txt-lupi-before'>%s1</span> &gt;&gt; <span class='txt-lupi-after'>%s2</span> rupie,所持卢比　<span class='txt-lupi-before'>%s1</span> → <span class='txt-lupi-after'>%s2</span>卢比
+container_pop_7,レア以上の%sを<br>売却しようとしています！,You're about to sell an R-SSR<br>%s.,您将出售R以上%s！
+container_pop_8,以下の%sを売却します。<br>よろしいですか？,Sell the %s below?,是否出售以下%s？
+container_pop_9,ボーナス　獲得ルピ＋%s,Bonus: %s rupie,获得额外卢比＋%s
+container_select_item_1,武器,weapons,武器
+container_select_item_2,召喚石,summons,召唤石
+coopraid_1,共闘,Co-op,共斗
+coopraid_10,%s が解放されました！,Unlocked %s!,%s已解放！
+coopraid_100,AP・BPはMAXですが投稿しますか？,Your AP and EP are full. Tweet anyway?,您的AP·BP已满，是否继续投稿？
+coopraid_101,認証完了,Link Twitter Account,认证成功
+coopraid_102,Twitterとの連携を認証しました。,Your Granblue Fantasy account and Twitter account are now linked.,您已绑定推特账号。
+coopraid_103,禁止ワードが含まれています。,This message is invalid.,含有敏感词汇。
+coopraid_104,ルーム作成,Create a Room,创建房间
+coopraid_105,コメントが未入力です。,Type a message,您未输入描述。
+coopraid_106,コメントは24文字までです。,Type up to 24 characters.,描述最多24字。
+coopraid_107,禁止ワードが含まれています。,This message is invalid.,含有敏感词汇。
+coopraid_108,ルーム情報変更,Room,房间信息更新
+coopraid_109,ルームチャット一覧,Room Chat,房间聊天一览
+coopraid_11,ステージ解放,Stage Unlocked,解放关卡
+coopraid_110,スタンプを送りました。,Sticker was sent.,表情已发送。
+coopraid_111,チャットを送りました。,Message was sent.,聊天已发送。
+coopraid_112,共闘クエスト戦績,Co-op Log,共斗任务战绩
+coopraid_113,確認できるバトルはありません。,There is nothing here.,您有未确认结果的战斗。
+coopraid_114,ミッション報酬,Mission Rewards,任务奖励
+coopraid_115,交換完了,Trade Treasure,兑换成功
+coopraid_116,ミッション報酬のリセット,Mission Points,重置任务奖励
+coopraid_117,ミッション報酬を全て受け取りました。<br>ミッション報酬在庫をリセットします。,All items have been traded for. Mission rewards will now be reset.,您已兑换全部奖励。刷新任务奖励。
+coopraid_118,ステータス,Progress,进程
+coopraid_119,参加する,Join a Room,参加
+coopraid_12,編成へ,Party,队伍
+coopraid_120,参加,Join,参加
+coopraid_121,マルチバトル撤退,Raid Battle,从多人战斗中撤退
+coopraid_122,マルチバトルから撤退しました。,You retreated from the raid battle.,已从多人战斗中撤退。
+coopraid_123,クエスト[%s]の有効期限が切れました,%s is no longer available.,任务[%s]已超时
+coopraid_124,クエストを開始できません,Quest,无法开始任务
+coopraid_125,退室したプレイヤーをサポーターに<br>設定しているメンバーがいるため<br>クエストを開始できません。,One of the players who left the room was<br>loaning a summon to another member.<br>You can't start the quest.,房间内有成员选择了已退出玩家的支援召唤石，任务无法开始。
+coopraid_126,以下の属性キャラがパーティに<br>編成されているため、このクエストを<br>開始することが出来ません。,The following elements can't<br>be used on this quest. Edit<br>your party and try again.,以下属性的人物在队伍中，任务无法开始。
+coopraid_127,以下のキャラがパーティに<br>編成されているため、このクエストを<br>開始することが出来ません。,The following characters can't<br>be used on this quest. Edit<br>your party and try again.,以下人物在队伍中，任务无法开始。
+coopraid_128,以下の指定属性以外のキャラが<br>編成されているため、このクエストを<br>開始することが出来ません。,Only the following elements<br>can be used on this quest.<br>Edit your party and try again.,以下属性以外的人物在队伍中，任务无法开始。
+coopraid_129,%s属性キャラ<br>,%s characters<br>,%s属性人物
+coopraid_13,共闘クエストデイリーミッション,Co-op Quest Daily Missions,共斗每日任务
+coopraid_130,以下のキャラがパーティに<br>編成されていないため、このクエストを<br>開始することが出来ません。,The following characters need<br>to be used on this quest. Edit<br>your party and try again.,以下人物不在队伍中，任务无法开始。
+coopraid_131,以下の指定レアリティの条件を<br>満たしていないため、このクエストを<br>開始することが出来ません。,The following rarity requirements<br>aren't being met. Edit<br>your party and try again.,队伍未满足以下稀有度条件，任务无法开始。
+coopraid_132,以下の指定種族の条件を<br>満たしていないため、このクエストを<br>開始することが出来ません。,You can't play this quest.<br>You must include the following<br>character types:,队伍未满足以下指定种族条件，任务无法开始。
+coopraid_133,※初回クリア時まで<br>,(Until it's cleared once.),※初次通关后解除限制
+coopraid_134,&lt;開始条件&gt;,&lt;Quest&gt;,
+coopraid_135,以下のクエスト開始条件を<br>満たしていないため、このクエストを<br>開始することが出来ません。,You don't meet the<br>requirements to play<br>this quest.,未满足以下条件，任务无法开始。
+coopraid_136,マルチバトルで使用している編成は<br>チャレンジクエストでは使用できません。,You raid quest party can't be<br>used in challenge battles.,挑战任务无法使用多人战斗队伍。
+coopraid_137,挑戦条件を満たしていないため、<br>クエストを開始できません。<br><br>必要Rank: %s以上,You don't have the right rank to play this quest.<br><br>Required rank: %s,未满足挑战条件，任务无法开始。
+coopraid_138,AP使用確認,AP,AP使用确认
+coopraid_139,APが足りません,More AP Needed,AP不足
+coopraid_14,詳細,Details,详情
+coopraid_140,以下の条件を満たしていないため、<br>このクエストを開始する事ができません。,,未满足以下条件，任务无法开始。
+coopraid_141,BP,EP,BP
+coopraid_142,送信完了,Message,已发送
+coopraid_143,送信完了,Stickers,已发送
+coopraid_144,クエストが開始されていますが、<br>以下の召喚石がパーティに編成されているため<br>クエストに参加できません。<br>パーティの編成をしてから<br>クエストに参加してください。,The following summons can't<br>be used on this quest.<br>Edit your party and try again.,以下召唤石在队伍中，无法参加任务。请整理队伍后重试。
+coopraid_145,開始ボタンでクエストを開始します。,Tap Start to begin.,请按开始键开始任务。
+coopraid_146,Error Code: %s<br>%s,Error Code: %s<br>%s,
+coopraid_15,対象クエスト,Quests,当前任务
+coopraid_16,ルーム,Room,房间
+coopraid_17,残り %s分,Closes in %s min,剩余 %s分
+coopraid_18,残り %s秒,Closes in %s sec,剩余 %s秒
+coopraid_19,残り %s分%s秒,Closes in %s min %s sec,剩余 %s分%s秒
+coopraid_2,確認できるバトルはありません。,There is nothing here.,无待确认结果的战斗。
+coopraid_20,アイテムエフェクト確認,Item Effects,道具效果确认
+coopraid_21,挑戦するクエストを設定してください。,Select a quest.,请选择要挑战的任务。
+coopraid_22,サポーターを選択してください。,Select a support summon.,请选择支援召唤石。
+coopraid_23,サポーターを選択してください。,There are no support summons for you to select.,请选择支援召唤石。
+coopraid_24,ルームメンバーの準備を待ちましょう。,The other players are getting ready.,请等待房间内其他玩家准备。
+coopraid_25,ルームメンバーの準備が整いました。<br>開始ボタンでクエストを開始します。,Everyone is ready.<br>Tap Start to begin.,所有玩家准备完毕。
+coopraid_26,準備が整ったら準備OKを宣言しましょう。,Tap Ready when you are ready to start the quest.,若准备完毕，请按准备OK键。
+coopraid_27,準備OKを宣言しました。<br>クエストの開始を待ちましょう。,You have tapped Ready.<br>Now wait for the quest to start.,准备OK。请等待任务开始。
+coopraid_28,クエスト確認,Quest,任务确认
+coopraid_29,最大AP不足,AP,最大AP不足
+coopraid_3,入力確認,Quests,确认输入
+coopraid_30,クエストを実行するためのAPが<br>現在の最大APを上回っています。<br>APはRankを上げることで<br>最大値が上昇します。,This quest requires more AP than you can have yet.<br>Raise your rank to get more AP.,该任务消耗的AP超过现AP最大值。AP最大值会随等级提升而增加。
+coopraid_31,クエスト変更,Cancel Quest,变更任务
+coopraid_32,他のプレイヤーにより<br>すでにクエストが設定されています。,Another player has already chosen a quest.,其他玩家已设置任务。
+coopraid_33,設定したクエストを変更します。<br>よろしいですか？,Change the selected quest?,是否变更已选择的任务？
+coopraid_34,クエストを取り下げました。,The quest was cancelled.,已取消当前任务。
+coopraid_35,準備OK,,准备OK
+coopraid_36,準備OKを宣言しました。,,准备OK。
+coopraid_37,準備取り下げ,Quest,取消准备。
+coopraid_38,クエスト準備を取り下げます。<br>よろしいですか？,You are about to cancel this quest. Proceed?,是否取消当前任务？
+coopraid_39,準備を取り下げました。,,已取消当前任务。
+coopraid_4,&lt;禁止条件&gt;,&lt;Quest&gt;,
+coopraid_40,%s…,%s...,
+coopraid_41,強制退室確認,Remove Player,强制退出确认
+coopraid_42,強制退室,Remove Player,强制退出
+coopraid_43,強制退室完了,Done Removing Player,强制退出成功
+coopraid_44,強制退室を実行しました。,The player has been removed from the room.,强制退出执行成功。
+coopraid_45,このメンバーはすでに退室しています。,This player already left.,该玩家已退出房间。
+coopraid_46,アイテム使用確認,Use Item,道具使用确认
+coopraid_47,回復量が取得できません,Can't get the amount for recovery.,无法回复指定量HP
+coopraid_48,アイテム使用不可,This item can't be used.,无法使用该道具
+coopraid_49,既に全回復しているため<br>アイテムを使用できません。,All players have full health.<br>This item wasn't used.,所有玩家HP已满，无法使用该道具。
+coopraid_5,クエストが開始されていますが、<br>以下のキャラがパーティに編成されているため<br>クエストに参加できません。<br>パーティの編成をしてから<br>クエストに参加してください。,"The quest has started, but there <br>is a character in your party <br>that can't be used in this quest.<br>Edit your party to participate.",以下人物在队伍中，无法参加任务。请整理队伍后重试。
+coopraid_50,アイテムを使用しました。,You used an item.,道具已使用
+coopraid_51,使用上限に達しているため<br>アイテムを使用できませんでした。,You can't use any more of this item.,使用次数已达上限，无法使用该道具。
+coopraid_52,すでにクエストを開始しています。<br>アイテムを使用できません。,The quest has already started.<br>This item wasn't used.,任务已开始。无法使用该道具。
+coopraid_53,ルームが解散しました。<br>アイテムを使用できません。,This room has been closed.<br>The item wasn't used.,房间已解散。无法使用该道具。
+coopraid_54,60分が経過したため、共闘クエストを終了します。<br>アイテムを使用できません。,This room's time has ended.<br>The item wasn't used.,60分钟已到，共斗任务结束。无法使用该道具。
+coopraid_55,解散確認,Room,解散确认
+coopraid_56,ルームを解散しますか？,Close this room?,是否解散房间？
+coopraid_57,解散,Yes,解散
+coopraid_58,解散完了,Room,解散成功
+coopraid_59,ルームを解散しました。,You closed this room.,房间已解散。
+coopraid_6,確認,Room,确认
+coopraid_60,退室確認,Room,退出确认
+coopraid_61,ルームから退室しますか？,Leave this room?,是否退出当前房间？
+coopraid_62,退室,Yes,退出
+coopraid_63,退室完了,Room,已退出
+coopraid_64,ルームから退室しました。,You left this room.,您已退出房间。
+coopraid_65,ルームメンバー全員が<br>準備OKを宣言しているため、<br>%sできません。,You can't %s. All players are ready to start.,所有玩家准备OK，无法%s。
+coopraid_66,チャット(スタンプ),Stickers,聊天（表情）
+coopraid_67,コメントを入力してください。,Type a message.,请输入信息。
+coopraid_68,%s文字以内で入力してください。,Type a message of up to %s characters.,请输入%s字以内的信息。
+coopraid_69,チャット,Chat,聊天
+coopraid_7,オーナーにより解散が実行された、<br>または、ルームの制限時間を超過しました。,The room leader closed the room<br>or the room's time limit was exceeded.,房主已解散房间，或房间时限已过。
+coopraid_70,削除確認,Message Board,删除确认
+coopraid_71,削除完了,Message Board,删除成功
+coopraid_72,削除しました。,Message was deleted.,已删除
+coopraid_73,削除失敗,Message Board,删除失败
+coopraid_74,削除できませんでした。,Message can't be deleted.,删除失败
+coopraid_75,交換確認,Trade Treasure,兑换确认
+coopraid_76,交換する,Trade,兑换
+coopraid_77,交換エラー,Trade Treasure,兑换错误
+coopraid_78,交換できませんでした。,Technical issues are occurring. Treasure couldn't be traded.,兑换失败。
+coopraid_79,%s個入手しました。,You got %s.,获得%s个。
+coopraid_8,オーナーの要請により<br>ルームから退室しました。,You were removed from the room.,房主已将您请出房间。
+coopraid_80,本日の交換個数制限　残り%s個,Only %s more available today.,今日的兑换个数限制 还剩%s个
+coopraid_81,残り%s個,%s more.,%s个
+coopraid_82,（所持数　%s）,(Held: %s),
+coopraid_83,アイテム詳細,Item Details,道具详情
+coopraid_84,ルーム情報確認,Room Details,房间信息确认
+coopraid_85,誰でもOK,Anyone,所有玩家
+coopraid_86,フレンド限定,Friends Only,仅好友
+coopraid_87,騎空団員限定,Crew Members Only,仅骑空团员
+coopraid_88,パンデモニウム,Pandemonium,伏魔殿
+coopraid_89,ドロップ狙い,Item Hunting,掉宝
+coopraid_9,%s<br>%s が解放されました！,%s<br>%s is unlocked!,%s<br>%s已解放！
+coopraid_90,デイリーミッション,Daily Mission,每日任务
+coopraid_91,設定なし,None,暂无设置
+coopraid_92,[グラブル]共闘クエスト参加者募集！\nルームID：%s\n募集対象・目的：%s\n%s\n%s,I need people to fight with me in co-op quests! The room code is %s and the room type is %s. %s,
+coopraid_93,パソコンからのご利用について,Play on a Computer,关于电脑端的使用
+coopraid_94,Twitter投稿,Post to Twitter,分享至推特
+coopraid_95,Twitter連携,Link Twitter Account,绑定Twitter
+coopraid_96,Twitterに投稿しました。,The tweet was posted to Twitter.,已分享至Twitter
+coopraid_97,送信完了,Post to Twitter,已分享
+coopraid_98,Twitterに投稿することでAP・BPが回復します。,Post to Twitter to recover AP and EP.,分享至推特可回复AP与BP。
+coopraid_99,投稿によるAP・BPの回復は、1日1回までとなります。<br>回数制限は毎朝AM5:00にリセットされます。,You can post to Twitter to restore AP and EP<br>once daily from 5 a.m. (JST).,推特分享回复AP·BP一日仅限一次。<br>每日AM5：00（GMT+9）重置。
+coopraid_index_pop_1,ルーム作成,Create a Room,创建房间
+coopraid_pop_title_1,CAUTION!,Quest,
+coopraid_pop_treasureraid_1,残り%s回挑戦できます。,This quest can be played %s more time.,还能进行%s次。
+coopraid_pop_treasureraid_2,%sへの挑戦,%s,挑战%s
+coopraid_pop_treasureraid_3,マルチバトル撤退,Raid Battle,从多人战斗撤退
+coopraid_pop_treasureraid_4,マルチバトルから撤退しました。,You retreated from the raid battle.,已从多人战斗中撤退。
+coopraid_search_room_1,絞り込んで表示する,Filter Room Posts,筛选
+coupon_mcdonalds_title,キャンペーンについて,キャンペーンについて,关于活动
+daily_mission_1,デイリーミッション,,
+daily_mission_2,"下記日時にデイリーミッションの<br>追加を予定しております。<br><br><span class=""txt-orange"">%s</span>",,
+datail_pushed_npc_1,推しキャラ設定,Star Character Settings,设置推荐人物
+datail_pushed_npc_2,推しキャラ入れ替え,Change,更换推荐人物
+datail_pushed_npc_3,推しキャラ設定の解除・入れ替えが<br>現在制限されています。<br>%sまで<br>解除・入れ替えをすることができません。,You can't star or unstar characters until %s.,您在%s前无法解除·更换推荐人物。
+datail_pushed_npc_4,推しキャラの設定を解除しました。,Character has been unstarred.,已解除推荐人物
+datail_pushed_npc_5,推しキャラ,Star Character,推荐人物
+datail_pushed_npc_6,推しキャラ選択,Star Character,选择推荐人物
+datail_pushed_npc_7,プロフィールに戻る,Profile,返回个人资料
+datail_to_npc_zenith_1,能力強化,Use Points,
+deal_1,,"%s1 scored <span class=""user-score"">%s2</span>.",
+deal_10,,Item Details,道具详情
+deal_11,,New Loot,获得新道具
+deal_12,,Got Loot,已获得道具
+deal_13,,Discard,放弃
+deal_14,,Weapons,武器
+deal_15,,Share Chest,战利品
+deal_16,,Are you sure you want to discard this weapon?,是否放弃该武器？
+deal_17,,Share Chest,战利品
+deal_18,,Share Chests,战利品
+deal_19,,Share Chests,战利品
+deal_2,,The share chest item has already been awarded.,其他玩家已获得该战利品。
+deal_20,,Expired share chest battles have been removed from this list.,已删除失效战利品。
+deal_3,,You've already picked a share chest.,您已经选择过战利品。
+deal_4,,Charge Attack:,奥义
+deal_5,,Skill,技能
+deal_6,,Call,召唤石
+deal_7,,Aura,加护
+deal_8,,Pick a Chest,请选择想要的战利品
+deal_9,,You earned a share chest item!,您获得一件战利品！
+deal_rock_popup,未完了のディールまたは<br>ディール対象バトルが5件あるため<br>このバトルを開始することが出来ません。,,您还有未结束的蓝箱分配，或您还有5场掉落蓝箱的战斗未结束，无法开始当前战斗。
+deal_rock_popup_1,CAUTION!,Unable to Proceed,
+deal_rock_popup_2,未完了のディールまたは<br>ディール対象バトルが5件あるため<br>このバトルを開始することができません。,You can't start this battle. There are five unopened share chests or pending battles with share chests.,您还有未结束的蓝箱分配，或您还有5场掉落蓝箱的战斗未结束，无法开始当前战斗。
+decompose_1,エレメント化,Reduce Multiple,批量分解
+decompose_10,アイテム詳細,Item Details,道具详情
+decompose_11,エレメント化確認,Reduce,分解确认
+decompose_12,エレメント化結果,Reduce,分解结果
+decompose_13,<span class='txt-rarity-name'>SSレア</span>の%sが含まれています！,An <span class='txt-rarity-name'>SSR</span> %s will be reduced.,<span class='txt-rarity-name'>SSR</span> %s将被分解！
+decompose_14,以下の%sをエレメントに変換します。,The following %s will be reduced.,以下%s将被分解
+decompose_15,これらの%sは失われますが、<br>よろしいですか？,You will lose this %s. Proceed?,你会失去这些%s<br>没问题吗？
+decompose_16,%sがエレメントに変換され<br>プレゼントリストに送られました。,The %s was reduced. Items were sent to your crate.,%s已被分解<br>道具已发送到你的邮箱。
+decompose_2,武器,weapon,武器
+decompose_3,召喚石,summon,召唤石
+decompose_4,戦,PWR,战
+decompose_5,攻,ATK,攻
+decompose_6,Lv,Lvl,Lv
+decompose_7,H,HP,HP
+decompose_8,ルピ," rupie",卢比
+decompose_9,%sルピ,%s rupie,%s卢比
+detail_1,強化する,Upgrade,强化
+detail_10,ボーナスリセット完了,Bonuses,重置技能点
+detail_11,エレメント化,Reduce,拆解
+detail_12,アイテム詳細,Item Details,道具详情
+detail_13,武器,weapon,武器
+detail_14,召喚石,summon,召唤石
+detail_15,エレメント化確認,Reduce,确认拆解
+detail_16,エレメント化結果,Reduce,拆解结果
+detail_17,アイテム獲得,Items,获得道具
+detail_18,リスト,Inventory,列表
+detail_19,リストに戻る,Inventory,返回列表
+detail_2,上限解放する,Uncap,上限解放
+detail_20,売却確認,Sell,确认售出
+detail_21,売却,Sell,售出
+detail_22,売却結果,Sell,售出结果
+detail_23,移動先倉庫選択,Stash,选择目标仓库
+detail_24,選択した倉庫内がいっぱいのため<br>移動できません。,The stash you selected is full. Select another one.,该仓库已满，转移失败。
+detail_25,移動完了,Stash,转移成功
+detail_26,武器強化に戻る,Weapons Upgrade,返回武器强化
+detail_27,武器製作に戻る,Weapons Upgrade,返回武器制作
+detail_28,特殊武器,Weapon Series,
+detail_29,編成,Party,队伍
+detail_3,保護設定,Favorite,保护设置
+detail_30,召喚石一覧に戻る,Summons,返回召唤石一览
+detail_31,キャンセル,Cancel,取消
+detail_32,装備する,Select,装备
+detail_33,メイン召喚石には除外中の<br>召喚石を設定することができません。<br><br>除外設定を解除して装備しました。,A summon can't be equipped as<br>a main summon while it is excluded<br>from auto select. It is now included.,自动组队时设为忽略的召唤石无法设为主召唤。请取消忽略后重试。
+detail_34,武器詳細,Weapons,武器详情
+detail_35,召喚石詳細,Summons,召唤石详情
+detail_36,キャラ詳細,Details,人物详情
+detail_37,プロフィールに戻る,Profile,返回个人资料
+detail_38,アイテム獲得,Items,获得道具
+detail_39,武器強化,Weapons Upgrade,武器强化
+detail_4,%s<br>保護しました。<br><br>保護を解除するまで<br>売却や強化素材にすることができません。,%s<br>has been favorited. It can't be sold<br>or absorbed until it is unfavorited.,已保护%s。在取消保护前无法作为强化素材使用。
+detail_40,武器強化TOPに戻る,Weapons Upgrade,返回武器强化TOP
+detail_41,召喚石強化,Summons Upgrade,召唤石强化
+detail_42,召喚石強化TOPに戻る,Summons Upgrade,返回召唤石强化首页
+detail_43,キャラ強化,Character Upgrade,人物强化
+detail_44,キャラ強化TOPに戻る,Character Upgrade,返回人物强化首页
+detail_45,武器上限解放,Uncap Weapon Level,武器上限解放
+detail_46,武器上限解放TOPに戻る,Uncap Weapon Level,返回武器上限解放首页
+detail_47,召喚石上限解放,Uncap Summon Level,召唤石上限解放
+detail_48,召喚石上限解放TOPに戻る,Uncap Summon Level,返回召唤石上限解放首页
+detail_49,キャラ上限解放,Character Level Cap,角色上限解放
+detail_5,保護解除,Favorite,取消保护
+detail_50,キャラ上限解放TOPに戻る,Uncap Character Level,返回角色上限解放首页
+detail_51,固定召喚石,Support Summon,固定召唤石
+detail_52,固定召喚石選択,Select Support Summon,选择固定召唤石
+detail_53,設定する,Select,设置
+detail_54,設定を外す,Remove,解除设置
+detail_55,召喚石入れ替え,Change,更换召唤石
+detail_56,召喚石設定,Support Summon,召唤石设置
+detail_57,編成TOPに戻る,Party,返回队伍首页
+detail_58,武器一覧に戻る,Weapons,返回武器一览
+detail_59,武器装備,Auto Select,武器装备
+detail_6,%s<br>保護を解除しました。<br><br>売却や強化素材に使用することができます。,%s<br>has been unfavorited. It can be sold or absorbed.,%s的保护已取消。可以售出或选为强化素材。
+detail_60,キャラ一覧に戻る,Characters,返回人物一览
+detail_61,編成する,Select,选择
+detail_62,倉庫,Stash,仓库
+detail_63,倉庫に戻る,Stash,返回仓库
+detail_64,%sに戻る,%s,返回%s
+detail_65,リストに戻す,Return to Inventory,从仓库取出
+detail_66,倉庫へ移動しました,Moved to storage.,已转移至仓库
+detail_67,リストへ移動しました,Moved to Inventory.,已转移至列表
+detail_68,武器移動,Move Weapon,转移武器
+detail_69,召喚石移動,Move Summon,转移召唤石
+detail_7,注意,Notes,
+detail_70,バレット確認,Bullet Casting,
+detail_71,装備外し確認,Unequip,解除装备确认
+detail_72,装備外し,Unequip,解除装备
+detail_73,装備を外しました。,This item was unequipped.,解除装备成功
+detail_74,メッセージ選択,View Message,
+detail_75,%s<br>保護しました。,%s<br>has been favorited.,已保护<br>%s。
+detail_76,%s<br>保護を解除しました。,%s<br>has been unfavorited.,已取消保护<br>%s。
+detail_77,所持ルピ　<span class='txt-held-lupi'>%s</span>ルピ,Held: <span class='txt-held-lupi'>%s</span> rupie,所持卢比　<span class='txt-held-lupi'>%s</span>卢比
+detail_78,確認,Change Skill,确认
+detail_79,一括外し確認,Unequip all,卸下装备确认
+detail_8,ボーナスリセット確認,Bonuses,重置点数
+detail_80,全ての編成から装備を外します。<br>よろしいですか？,This item will be unequipped from all parties.,确定从所有队伍中卸下该装备吗？
+detail_81,一括外し,Unequip all,一键卸下装备
+detail_82,装備を外しました。,This item was unequipped.,已卸下当前装备
+detail_83,スキル変更,Change Skill,变更技能
+detail_84,スキル変更確認,Change Skill,变更技能确认
+detail_85,スキル変更完了,Change Skill,变更技能成功
+detail_86,アイテム使用最終確認,Change Skill,使用道具最终确认
+detail_87,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外しますか？,This weapon is currently favorited.<br><br>Unfavorite it and try again?,该武器已被保护，无法选择。<br><br>是否取消保护？
+detail_9,交換する,Trade,兑换
+detail_common_1,装備,Equip,装备
+detail_common_2,武器,Weapons,武器
+detail_common_3,召喚石,Summons,召唤石
+detail_common_4,編成,Party,队伍
+detail_common_5,キャラ,Characters,角色
+detail_common_6,該当の%sが存在しません。,There are no items that match %s.,不存在符合条件的%s。
+detail_common_7,%s中のため<br>除外することができません。,The item couldn't be excluded because it may be equipped or favorited.,该装备在%s中，无法在自动装备时跳过该装备。
+detail_common_8,予期しないエラーにより<br>除外することができませんでした。,This item couldn't be excluded<br>because there was an unexpected error.,发生未知错误，操作失败。
+detail_common_9,予期しないエラーにより<br>編成対象に含めることが<br>できませんでした。,This item couldn't be included in auto select<br>because there was an unexpected error.,发生未知错误，操作失败。
+detail_decompose_1,ルピ," rupie",卢比
+detail_decompose_2,%sルピ,%s rupie,%s卢比
+detail_fate_pop,フェイトエピソード,Fate Episodes,人物剧情
+detail_fate_pop_2,フェイトエピソード解放条件,Fate Episodes,人物剧情解放条件
+end_1,イベント終了,,活动结束
+end_8,台詞集,,台词集
+end_9,台詞集では、<br>イベントストーリーをクリアしていると<br>イベントTOPで表示されていた<br>キャラクター、台詞、音声を楽しむことができます。,,若您已经通关全部活动剧情，您可以在台词集中回放活动主页显示的人物、台词、配音。
+enhancement_abstract_11,SSレア,SSR,SSR
+enhancement_abstract_12,Sレア,SR,SR
+enhancement_abstract_13,レア,R,R
+enhancement_abstract_14,素材確認,Upgrade,素材确认
+enhancement_abstract_15,強化結果,Congratulations!,强化结果
+enhancement_caution_1,%sの武器が含まれています！,An %s weapon will be absorbed.,素材中含有%s武器！
+enhancement_material_detail_1,素材詳細,Details,素材详情
+enhancement_npc_1,キャラ強化,Character Upgrade,角色强化
+enhancement_npc_10,おすすめ一括強化設定,Auto Select,推荐素材设置
+enhancement_npc_11,戦,PWR,战
+enhancement_npc_12,攻,ATK,
+enhancement_npc_13,Lv,Lvl,
+enhancement_npc_14,H,HP,
+enhancement_npc_15,Class,EM Lvl,
+enhancement_npc_2,アビリティ覚醒,Skill Enhanced,技能觉醒
+enhancement_npc_3,サポートアビリティ獲得,Support Skill Unlocked,习得辅助技能
+enhancement_npc_4,アビリティ習得,Skill Unlocked,习得技能
+enhancement_npc_6,武器、召喚石の各素材と育成アイテムは<br>同時に選択することはできません。,Power-up items can't be absorbed at the<br>same time as summons or weapons.,武器、召唤石素材与经验道具无法同时使用。
+enhancement_npc_7,すでに素材が選択されています,Upgrade,您已选择强化素材
+enhancement_npc_8,おすすめ強化,Auto Select,一键强化
+enhancement_npc_9,おすすめ素材がありません。,There are no matching absorbable materials.,无指定推荐素材
+enhancement_summon_1,召喚石強化,Summons Upgrade,召唤石强化
+enhancement_summon_10,Lv,Lvl,
+enhancement_summon_11,H,HP,
+enhancement_summon_2,倉庫に戻る,Stash,返回仓库
+enhancement_summon_3,武器、召喚石の各素材と育成アイテムは<br>同時に選択することはできません。,Power-up items can't be absorbed at the<br>same time as summons or weapons.,武器、召唤石素材与经验道具无法同时使用。
+enhancement_summon_4,すでに素材が選択されています,Upgrade,
+enhancement_summon_5,おすすめ強化,Auto Select,您已选择强化素材
+enhancement_summon_6,おすすめ素材がありません。,There are no matching absorbable materials.,无指定推荐素材
+enhancement_summon_7,おすすめ一括強化設定,Auto Select,推荐素材设置
+enhancement_summon_8,戦,PWR,战
+enhancement_summon_9,攻,ATK,
+enhancement_weapon_1,武器強化,Weapons Upgrade,武器强化
+enhancement_weapon_10,戦,PWR,战
+enhancement_weapon_11,攻,ATK,
+enhancement_weapon_12,Lv,Lvl,
+enhancement_weapon_13,H,HP,
+enhancement_weapon_14,アイテム使用,Use Item,使用道具
+enhancement_weapon_15,武器選択,Weapon Select,武器选择
+enhancement_weapon_16,選択された武器は保護中のため、<br>ベースとして選択できません。<br><br>保護を外した状態で再度選択してください。,This weapon is currently favorited.<br>Unfavorite it and try again.,该武器已被保护，无法选择。请取消保护后重试。
+enhancement_weapon_17,選択された武器は装備中のため、<br>ベースとして選択できません。<br><br>装備を外した状態で選択してください。,This weapon is currently eqipped.<br>Unequip it and try again.,该武器在装备中，无法选择。请解除装备后重试。
+enhancement_weapon_18,スキル追加確認,Add Skill,添加技能确认
+enhancement_weapon_19,一度スキル追加したら戻すことはできませんできません。がよろしいですか,一度スキル追加したら戻すことはできませんできません。がよろしいですか,技能添加后无法还原。确认添加技能吗？技能添加后无法还原。
+enhancement_weapon_2,倉庫に戻る,Stash,返回仓库
+enhancement_weapon_20,スキル追加完了,Add Skill,已添加技能
+enhancement_weapon_21,一括外し,Unequip all,一键卸下装备
+enhancement_weapon_22,武器リストの所持数が最大に達しているため、武器の製作ができません。所持数に空きを作ることで製作できるようになります。,"You can't hold any more weapons. Make space in your inventory, then forge this weapon.",武器数量已满，无法获得新武器。请整理后重试。
+enhancement_weapon_23,アイテム使用最終確認,Use Item,使用道具最终确认
+enhancement_weapon_24,※武器Lv、スキルLvは引き継がれます<br>※スキル追加後、元に戻すことはできません,Weapon lvl and skill lvl will carry over.<br>Adding a skill can't be undone.,※武器等级、技能等级不会重置※添加技能后无法还原。
+enhancement_weapon_25,一括外し確認,Unequip all,卸下装备确认
+enhancement_weapon_26,全ての編成から装備を外します。<br>よろしいですか？,This item will be unequipped from all parties.,确定从所有队伍中卸下该装备吗？
+enhancement_weapon_27,一括外し,Unequip all,一键卸下装备
+enhancement_weapon_28,装備を外しました。,This item was unequipped.,已卸下当前装备
+enhancement_weapon_29,アイテム使用確認,Use Item,道具使用确认
+enhancement_weapon_3,武器スキル習得,Weapon Skill Unlocked,武器技能习得
+enhancement_weapon_30,スキル変更確認,Change Skill,技能变更确认
+enhancement_weapon_31,スキル変更完了,Change Skill,技能变更成功
+enhancement_weapon_4,武器スキル覚醒,Weapon Skill Enhanced,武器技能觉醒
+enhancement_weapon_5,武器、召喚石の各素材と育成アイテムは<br>同時に選択することはできません。,Power-up items can't be absorbed at the<br>same time as summons or weapons.,武器、召唤石素材与经验道具无法同时使用。
+enhancement_weapon_6,すでに素材が選択されています,Upgrade,您已选择强化素材
+enhancement_weapon_7,おすすめ強化,Auto Select,一键强化
+enhancement_weapon_8,おすすめ素材がありません。,There are no matching absorbable materials.,无指定推荐素材
+enhancement_weapon_9,おすすめ一括強化設定,Auto Select,推荐素材设置
+enhancement_weapon_open_fate_1,クエスト解放,Quest Unlocked!,任务解放
+evolution_npc_1,武器上限解放,Uncap Weapon Level,武器上限解放
+evolution_npc_10,攻,ATK,
+evolution_npc_11,Lv,Lvl,
+evolution_npc_12,H,HP,
+evolution_npc_13,Class,EM Lvl,
+evolution_npc_2,素材キャラを選択してください,Select a character to absorb.,请选择素材人物
+evolution_npc_3,キャラ上限解放,Uncap Character Level,人物上限解放
+evolution_npc_4,キャラ上限解放TOPに戻る,Uncap Character Level,返回人物上限解放首页
+evolution_npc_5,上限解放結果,Congratulations!,上限解放结果
+evolution_npc_6,アイテム詳細,Item Details,道具详情
+evolution_npc_7,育成アイテム選択,Select Power-Ups,选择上限解放道具
+evolution_npc_8,アイテム使用確認,Use Item,道具使用确认
+evolution_npc_9,戦,PWR,战
+evolution_summon_1,召喚石上限解放,Uncap Summon Level,召唤石上限解放
+evolution_summon_10,アイテム詳細,Item Details,道具详情
+evolution_summon_11,この組み合わせで上限解放しますか？<br>,Use this summon to raise the level cap?<br>,确认使用当前素材来上限解放吗？
+evolution_summon_12,戦,PWR,战
+evolution_summon_13,攻,ATK,
+evolution_summon_14,Lv,Lvl,
+evolution_summon_15,H,HP,
+evolution_summon_2,素材召喚石を選択してください,Select a summon to absorb.,请选择素材召唤石
+evolution_summon_3,素材にできる召喚石がありません,You don't have any summons to absorb.,无可供上限解放的素材
+evolution_summon_4,倉庫に戻る,Stash,返回仓库
+evolution_summon_7,上限解放段階が高い装備を素材にしています！<br>また、これを素材にしても上限解放は一段階のみ行われます。<br><br>本当によろしいですか？,You're about to absorb a highly uncapped summon.<br>It will only uncap the absorbing summon some.<br><br>Continue?,素材中含有高阶召唤石！以此为素材只能解放一个阶段。是否继续？
+evolution_summon_8,素材がすでに上限解放されています。<br>また、これを素材にしても上限解放は一段階のみ行われます。<br><br>本当によろしいですか？,You're about to absorb an uncapped summon.<br>The absorbing summon will only be uncapped some.<br><br>Continue?,素材中含有高阶召唤石！以此为素材只能解放一个阶段。是否继续？
+evolution_summon_9,素材確認,,素材确认
+evolution_weapon_1,武器上限解放,Uncap Weapon Level,武器上限解放
+evolution_weapon_10,戦,PWR,战
+evolution_weapon_11,攻,ATK,
+evolution_weapon_12,Lv,Lvl,
+evolution_weapon_13,H,HP,
+evolution_weapon_14,六道武器は最終上限解放を行うことで、<br><span class='txt-caution'>特殊武器強化「真化」を<br>行うことができなくなります。</span><br><br>最終上限解放を行いますか？,"Xeno weapons can either be fully uncapped or forged.<br><span class='txt-caution'>If you fully uncap your weapon, you can no longer forge it.</span><br><br>Uncap anyways?",六道武器最终上限解放后，无法进行「真化」。是否继续最终上限解放？
+evolution_weapon_15,CAUTION!,CAUTION!,
+evolution_weapon_16,この組み合わせで上限解放しますか？<br>,Use this weapon to raise the level cap?<br>,确认使用当前素材来上限解放吗？
+evolution_weapon_3,素材武器を選択してください,Select a weapon to absorb.,请选择素材武器
+evolution_weapon_4,素材にできる武器がありません,You don't have any weapons to absorb.,无可供上限解放的武器
+evolution_weapon_5,倉庫に戻る,Stash,返回仓库
+evolution_weapon_6,上限解放段階が高い装備を素材にしています！<br>また、これを素材にしても上限解放は一段階のみ行われます。<br><br>本当によろしいですか？,You're about to absorb a highly uncapped weapon.<br>It will only uncap the absorbing weapon some.<br><br>Continue?,素材中含有高阶武器！以此为素材只能解放一个阶段。是否继续？
+evolution_weapon_7,素材がすでに上限解放されています。<br>また、これを素材にしても上限解放は一段階のみ行われます。<br><br>本当によろしいですか？,You're about to absorb an uncapped weapon.<br>The absorbing weapon will only be uncapped some.<br><br>Continue?,素材中含有高阶武器！以此为素材只能解放一个阶段。是否继续？
+evolution_weapon_8,素材確認,Upgrade,素材确认
+evolution_weapon_9,アイテム詳細,Item Details,道具详情
+friend_1,フレンド検索,Search,搜索好友
+friend_10,取り消す,Cancel,取消
+friend_11,確認,Respond,确认
+friend_12,挨拶,Message Board,留言板
+friend_13,挨拶を入力してください。,Type a message.,请输入留言
+friend_14,30文字以内で入力してください。,Messages can be up to 30 characters.,请输入30字以内的留言。
+friend_15,送信完了,Message,已发送
+friend_16,挨拶を送りました。,Message was sent.,留言已发表
+friend_17,挨拶,Message Board,留言板
+friend_18,挨拶(スタンプ),Stickers,留言（表情）
+friend_19,スタンプを送りました。,Sticker was sent.,表情已发送
+friend_2,%sさんに<br>申請しました。,Friend request sent<br>to %s,已申请添加玩家%s为好友。
+friend_20,挨拶,Message Board,留言板
+friend_21,申請中,Cancel Request,申请中
+friend_22,%s<br><br>このプレイヤーへの申請を取り消しますか？,%s<br><br>You will cancel your friend request to this player.,%s<br><br>是否撤回向当前玩家发出的好友申请？
+friend_23,申請を取り消しました。,The friend request was cancelled.,好友申请已取消
+friend_24,申請の取り消しに失敗しました。,The friend request couldn't be canceled.,取消好友申请失败
+friend_25,%s さんからの、<br>フレンド申請がきています。,You have a friend request<br>from %s,玩家%s申请添加您为好友。
+friend_26,%s さんからの、<br>フレンド申請を本当に却下しますか？,Decline friend request<br>from %s?,是否拒绝玩家%s的好友申请？
+friend_27,フレンド申請を却下しました。,Friend request declined.,已拒绝
+friend_28,フレンド申請の却下に失敗しました。,Friend request couldn't be declined.,拒绝好友申请失败
+friend_29,未承認,Pending,未确认
+friend_3,フレンド申請,Friend Request,好友申请
+friend_30,%s さんには<br><br>これ以上フレンド登録できません！,%s<br><br> can't be added. Your friend list is full.,您的好友人数已满。
+friend_31,申請は取り消されました。,Request was canceled.,好友申请已取消。
+friend_32,登録完了,Friend Request,已添加好友
+friend_33,%s さんを<br><br>フレンド登録しました！,You added %s<br><br>as a friend.,您已添加玩家%s为好友！
+friend_34,挨拶,Message Board,留言板
+friend_4,招待済み,Invited,已邀请
+friend_5,すでに招待しています。,An invitation has already been sent.,您已向该玩家发出过邀请。
+friend_6,フレンド数 %s/%s 人,Friends: %s/%s,好友人数 %s/%s 人
+friend_7,申請人数 %s人,Requested: %s,申请人数 %s人
+friend_8,フレンド一覧,Friend List,好友列表
+friend_9,挨拶する,Message,留言
+friend_summon_attr1,火属性固定召喚石,,
+friend_summon_attr2,水属性固定召喚石,,
+friend_summon_attr3,土属性固定召喚石,,
+friend_summon_attr4,風属性固定召喚石,,
+friend_summon_attr5,光属性固定召喚石,,
+friend_summon_attr6,闇属性固定召喚石,,
+friend_summon_attr7,フリー固定召喚石,,
+friend_summon_detail,サポーター専用召喚石詳細,,
+friend_summon_list,サポーター専用召喚石一覧,,
+friend_summon_private,サポーター召喚石が非公開設定です,,
+gachaSetting_1,便利設定,,快捷设置
+gachaSetting_2,自動売却条件設定,,自动出售设置
+gacha_1,ガチャ結果,Draw,抽卡结果
+gacha_10,チケットが足りません,You don't have enough tickets.,扭蛋券不足
+gacha_11,レジェンドガチャ,Premium Draw,高级卡池
+gacha_12,ガチャを引くことができません。<br>恐れいりますが、再読み込みをしてから<br>もう一度お試しください。,The Premium draw is unavailable.<br>Please reload the screen and then<br>try again.,抽取失败。<br>请刷新后重试。
+gacha_13,通信処理中,Communicating,连接中
+gacha_14,通信処理を行っています。<br>アイテムは、処理が完了すると<br>プレゼントリストへ贈られます。<br>少し待ってから、プレゼントリストを<br>確認してください。," your loot will appear on the Crate screen. Please wait",正在连接。系统将在处理成功后将该道具发往您的礼物列表。请稍后收取。
+gacha_15,本当にリセットしますか？,Refill the box?,确认重置卡池吗？
+gacha_16,ボックスをリセットしました<br><br>%s,You refilled the box.<br><br>%s,重置卡池成功<br><br>%s
+gacha_17,このキャンペーンは終了しました。,This draw has ended.,活动已结束
+gacha_18,ガチャ出現キャラ一覧,All Included Characters,查看卡池中出现的所有人物
+gacha_19,出現装備一覧,All Included Content,查看卡池中出现的所有装备
+gacha_2,%s連ガチャセットを購入,Get Another %s-Part Draw,您已购买%s连抽卡套餐
+gacha_20,プロフィールに戻る,Profile,返回个人资料
+gacha_21,武器紹介,Weapons,武器介绍
+gacha_22,出現装備一覧に戻る,All Weapons,返回出现装备查看页
+gacha_23,注意事項・詳細,Notes,注意事项·详情
+gacha_24,フェイトエピソード紹介,Fate Episodes,人物剧情介绍
+gacha_25,提供割合,Draw Rates,出现概率
+gacha_26,更新確認,Reloading,确认更新
+gacha_27,5時を経過したためガチャTOPページへ遷移します。,Five hours have passed. The Draw screen will now appear.,已过去5小时，返回抽卡首页。
+gacha_28,このキャンペーンは終了しました。,This draw has ended.,活动已结束
+gacha_29,エピソード解放,Episode Unlocked,人物剧情解放
+gacha_3,更新確認,Reloading,确认更新
+gacha_30,攻撃力 %s,ATK %s,攻击力 %s
+gacha_31,奥義 %s,Charge Attack %s,奥义 %s
+gacha_32,召喚 %s,Sommon %s,召唤%s
+gacha_33,キャンペーン当選,Congratulations!,
+gacha_34,キャンペーン,Exclusive Offer,
+gacha_35,召喚石紹介,Summon Details,召唤石介绍
+gacha_36,キャラ紹介,Character Details,人物介绍
+gacha_37,キャンペーン,Exclusive Offer,
+gacha_38,購入確認,Trade,确认购买
+gacha_39,交換確認,Trade Treasure,确认兑换
+gacha_4,5時を経過したためガチャTOPページへ遷移します。,Five hours have passed. The Draw screen will now appear.,已过去5小时，返回抽卡首页。
+gacha_40,1個入手しました。,You got 1.,您已获得1个。
+gacha_41,交換完了,Trade Treasure,兑换成功
+gacha_42,交換エラー,Trade Treasure,兑换错误
+gacha_43,交換できませんでした。,Technical issues are occurring. Treasure couldn't be traded.,兑换失败
+gacha_44,ガチャ,Draw,抽卡
+gacha_45,※初回限定ガチャは通常のレジェンド10連ガチャとは提供割合、およびキャンペーン内容が異なります。,• The draw rates and details for the Welcome draw and Premium 10-part draw are different.,※初回限定抽卡的出现概率以及内容与普通10连不同。
+gacha_46,5時を経過したため画面を更新します。,Five hours have passed. This screen will reload.,已过去5小时，返回抽卡首页。
+gacha_47,初回限定で10連ガチャが<br>無料で引けます！,Welcome to Granblue Fantasy! Here's a free 10-part draw!,您可以免费抽取初回限定10连抽卡！
+gacha_48,初回限定ガチャ,Welcome Draw,初回限定卡池
+gacha_49,宝晶石ガチャ,Crystal,宝晶石卡池
+gacha_5,使用確認,Draw,确认使用
+gacha_50,レジェンドガチャ提供割合（出現率）,Premium Draw Draw Rates,高级卡池提供概率
+gacha_51,Sレア以上確定ガチャ提供割合（出現率）,SR Draw Draw Rates,必出SR以上卡池提供概率
+gacha_52,SSレア確定ガチャ提供割合（出現率）,SSR Draw Draw Rates,必出SSR卡池提供概率
+gacha_53,レジェンドガチャ出現一覧,All Included Items,高级卡池提供装备一览
+gacha_54,Sレア以上確定ガチャ出現一覧,All Included Items,必出SR以上卡池提供装备一览
+gacha_55,SSレア確定ガチャ出現一覧,All Included Items,必出SSR卡池提供装备一览
+gacha_56,レジェンド10連ガチャ,Premium 10-part draw,高级10连卡池
+gacha_57,(W)スターレジェンド10連ガチャ,Star Premium 10-part draw,必得10连卡池
+gacha_58,Sレア以上確定ガチャ,SR-SSR,必出SR以上卡池
+gacha_59,SSレア確定ガチャ,SSR,必出SSR卡池
+gacha_6,宝晶石ガチャ,Draw with Crystals,宝晶石卡池
+gacha_60,出現装備一覧に戻る,All Summons,返回出现装备查看页
+gacha_61,レジェンド10連ガチャ,Premium 10-Part Draw,高级10连卡池
+gacha_62,(W)スターレジェンド10連ガチャ,Star Premium 10-Part Draw,必得10连卡池
+gacha_7,宝晶石が足りません<br>所持宝晶石：%s,You don't have enough crystals.<br>Crystals held: %s,您的宝晶石不足<br>所持宝晶石：%s
+gacha_8,チケットを利用します。<br>よろしいですか？,Use a ticket?,是否使用扭蛋券？
+gacha_9,チケットガチャ,Ticket Draw,扭蛋券卡池
+gacha_appear_10draw_1,%s10連ガチャ,,
+gacha_appear_10draw_2,%s10連ガチャ,,
+gacha_appear_draw,%s属性SSレア確定ガチャ,,
+gacha_appear_list,%sガチャ出現一覧,,
+gacha_appear_normal_legend,レジェンドガチャ,,
+gacha_appear_ratio,%sガチャ提供割合（出現率）,,
+gacha_apper_1,初心者限定ガチャ提供割合（出現率）,Beginner's Draw Draw Rates,新手限定卡池提供概率
+gacha_apper_2,初心者限定ガチャ出現一覧,All Included Items,新手限定卡池提供装备一览
+gacha_ceiling_1,装備品獲得,Trade Sparks,获得新装备
+gacha_ceiling_2,装備品獲得の確認,Choose Item,确认获得新装备
+gacha_ceiling_3,装備品がプレゼントに送られました。,This was sent to the Crate screen.,装备已送往您的礼物列表
+gacha_ceiling_4,'獲得エラー,Error,获取失败
+gacha_ceiling_5,'獲得できませんでした。,You can't get any items,获取失败
+gacha_confirm_select_title,購入確認,,
+gacha_index_1,ヘルプ,Help,帮助
+gacha_index_2,ご利用の前に,Cerulean Sparks,使用须知
+gacha_index_3,レジェンドガチャが更新されました,Updated Premium Draw,高级卡池已更新
+gacha_index_4,蒼光の御印,Cerulean Sparks,
+gacha_index_5,蒼光の輝石,Cerulean Stones,
+gacha_index_6,蒼光の御印,cerulean spark,
+gacha_index_7,蒼光の輝石,cerulean stone,
+gacha_index_8,蒼光の御印,cerulean sparks,
+gacha_index_9,蒼光の輝石,cerulean stones,
+gacha_normal_1,ガチャ結果,Draw,抽卡结果
+gacha_normal_2,使用確認,Draw,确认使用
+gacha_normal_3,チケットを利用します。<br>よろしいですか？,Use a ticket?,是否使用扭蛋券
+gacha_normal_4,チケットガチャ,Ticket Draw,扭蛋券卡池
+gacha_normal_5,ガチャを引くことができません。<br>恐れいりますが、再読み込みをしてから<br>もう一度お試しください。,'The Ticket draw is unavailable.<br>Please reload the screen and then<br>try again.,抽取失败。<br>请刷新后重试。
+gacha_normal_6,通信処理中,Communicating,连接中
+gacha_normal_7,通信処理を行っています。<br>アイテムは、処理が完了すると<br>プレゼントリストへ贈られます。<br>少し待ってから、プレゼントリストを<br>確認してください。," your loot will appear on the Crate screen. Please wait",正在连接。系统将在处理成功后将该道具发往您的礼物列表。请稍后收取。
+gacha_result_1,,Help,帮助
+gacha_typeup_legendgacha_1,%s属性出現UPガチャ,,%s属性出现率UP卡池
+gacha_typeup_legendgacha_2,%s属性出現UPガチャ,,%s属性出现率UP卡池
+gacha_typeup_legendgacha_list,%s属性出現UPガチャ出現一覧,,%s属性出现率UP卡池一览
+game_1,トップページ,,首页
+game_10,AP・BPはMAXですが投稿しますか？,,您的AP·BP已满，是否继续投稿？
+game_11,Twitter投稿,,分享至Twitter
+game_12,Twitter連携,,绑定Twitter
+game_13,Twitterに投稿しました。,,已分享至推特
+game_14,Twitter投稿により<br>AP・BPが回復しました。,,AP·BP已回复。
+game_15,送信完了,,已发送
+game_16,認証完了,,验证成功
+game_17,Twitterとの連携を認証しました。,,已成功绑定Twitter
+game_18,次のページへは移動できません,,无法前往下一页
+game_19,PC版からの移動が制限されているページの為<br>このボタンからのページ移動はできません。,,PC版无法查看此页，点击该按钮无法前往下一页。
+game_2,設定の変更,,变更设置
+game_20,Error Code: %s<br>%s,,
+game_3,アカウント制裁措置の実施について,,关于违规账号的处罚
+game_4,アカウント制裁措置の実施についての説明,,关于违规账号的处罚
+game_5,アプリ版キャッシュ設定,,APP版缓存设置
+game_6,キャッシュクリアを行いました。,,已清除缓存
+game_7,パソコンからのご利用について,,	关于电脑端的使用
+game_8,Twitterに投稿することでAP・BPが回復します。,,
+game_9,投稿によるAP・BPの回復は、1日1回までとなります。<br>回数制限は毎朝AM5:00にリセットされます。,,推特分享回复AP·BP一日仅限一次。<br>每日AM5：00（GMT+9）重置。
+game_pop_1,一部コンテンツについて,,
+game_pop_2,Game Logout,,
+game_pop_3,現在のゲームログイン状態を解除します。<br>チュートリアル進行中の場合は、進行状況がリセットされます。<br>プラットフォームのログイン状態は保持されます。<br><br>よろしいですか？,,
+game_pop_ca_expired,ChromeApps版について,,
+game_pop_ca_expired_btn_1,AndApp版,,
+game_pop_ca_expired_btn_2,PCブラウザ版,,
+get_score_1,ポイント獲得,Points Gained,获得点数
+get_score_2,獲得ポイント,Points Gained,获得点数
+get_suppression_1,制圧力獲得,Might marks earned,获得制压力
+get_suppression_2,獲得制圧力,Might Marks,获得制压力
+guild_main_1,騎空団団員リスト（解雇）,Remove Crew Member,骑空团团员列表（解雇）
+guild_main_10,所持ルピより多く入力されています。,You can't donate more rupies than you have.,您输入的数值超过您所持卢比总数。
+guild_main_100,団長任命,Captain Assignment,任命团长
+guild_main_101,騎空団チャット,Crew Chat,骑空团聊天室
+guild_main_102,チャット(スタンプ),Chat Stickers,聊天（表情）
+guild_main_103,送信完了,Message,已发送
+guild_main_105,%s文字以内で入力してください。,Messages can be up to %s characters.,请输入%s字以内的信息。
+guild_main_106,チャットを送りました。,Message was sent.,已发送。
+guild_main_107,禁止ワードが含まれています。,This message is invalid.,含有敏感词。
+guild_main_108,チャット,Chat,聊天
+guild_main_109,削除確認,Message Board,确认删除
+guild_main_11,寄付ルピを入力してください。,Enter an amount of rupies to donate.,请输入您捐赠的金额。
+guild_main_110,削除完了,Message Board,删除成功
+guild_main_111,削除しました。,Message was deleted.,已删除。
+guild_main_112,削除失敗,Message Board,删除失败
+guild_main_113,削除できませんでした。,Message can't be deleted.,删除失败。
+guild_main_114,スタンプを送りました。,Sticker was sent.,已发送表情。
+guild_main_115,騎空団イベント戦績,Crew Event Results,骑空团活动战绩
+guild_main_116,騎空団サポート,Crew Skills,骑空团支援效果
+guild_main_117,騎空団サポートが発動しました。,Crew skills activated.,骑空团支援效果已发动
+guild_main_118,発動中の騎空団サポート,Active Crew Skills,发动中的骑空团支援效果
+guild_main_119,%sへ入団申請中,Applied to %s,您已申请加入%s
+guild_main_12,騎空団ランキング,Crew Ranking,骑空团排行榜
+guild_main_120,[ %s]<br>への申請を取り下げますか？,Cancel your application to<br>[ %s ]?,您确定取消加入<br>[ %s]吗？
+guild_main_122,[ %s]に入団申請をしました。,Application was sent to[ %s ].,您已申请加入[ %s]。
+guild_main_123,騎空団管理,Crew Settings,骑空团管理
+guild_main_124,%sを退団しました,%s left the crew.,%s已退团
+guild_main_125,騎空団名変更,Edit Crew Name,骑空团名变更
+guild_main_126,何も入力されていません。,You haven't typed anything.,输入为空
+guild_main_128,騎空団名称変更完了,Edit Crew Name,变更骑空团名称成功
+guild_main_129,騎空団の名称を変更しました。,The crew's name was changed.,骑空团名称已变更。
+guild_main_13,騎空団NEWS,Crew News,骑空团新闻
+guild_main_130,紹介文の編集,Edit Greeting,编辑介绍文
+guild_main_131,騎空団紹介文変更完了,Edit Greeting,编辑骑空团介绍文成功
+guild_main_132,騎空団紹介文を変更しました。,The greeting was changed.,骑空团介绍文已变更
+guild_main_133,騎空団の解散,Disband Crew,解散骑空团
+guild_main_134,%sを解散しました。,%s was disbanded.,%s已解散。
+guild_main_135,アサルトタイム,Strike Time,突击时间
+guild_main_136,アサルトタイム設定完了,Strike Time Settings Complete,突击时间设置完毕
+guild_main_137,役職の権限,Permissions,职位权限
+guild_main_138,チャット通知設定,Chat Notifications,聊天通知设置
+guild_main_139,チャット通知設定完了,Chat notification settings were saved.,聊天通知设置完毕
+guild_main_14,ジュークボックス,Jukebox,点唱机
+guild_main_140,設定しました。,Your changes have been saved.,设置完毕
+guild_main_141,アサルトタイムについて,About Strike Time,关于突击时间
+guild_main_142,入団条件設定,Scout Settings,入团条件设置
+guild_main_143,団長が二週間ログインしなかった為、<br />あなたが団長になりました。<br />団長を他の人に移譲する場合は<br />騎空団管理より行ってください。,"The captain has not logged in for 2 weeks,<br>so you have been assigned captain<br>To assign a different captain, go to<br>Crew Settings.",原团长已两周未登入，<br />您成为了新团长。<br />若想将团长一职移交他人，<br />请在骑空团管理中设置。
+guild_main_144,チャット機能の有効化,Enable Chat,启用聊天功能
+guild_main_145,利用制限,Message Board,关于聊天
+guild_main_146,先の利用から5秒経過すると<br>再度利用可能です。,Messages and stickers can<br>be sent again in 5 seconds.,发送消息后须经5秒<br>进行下一次消息发送。
+guild_main_147,チャット(スタンプ),Chat Stickers,聊天（表情）
+guild_main_148,エラーにより送信できませんでした。,An error occurred. Message couldn't be sent.,发生错误。消息发送失败。
+guild_main_149,1文字以上入力してください。,Type at least 1 character.,请至少输入1字。
+guild_main_15,次の曲の演奏ができるのは,"The crew theme can be reset in ",以下期限后才能重新设置骑空团背景音乐
+guild_main_150,%s文字以内で入力してください。,Messages can be up to %s characters.,请输入%s字以内的信息。
+guild_main_151,送信完了,Chat,已发送
+guild_main_152,Lv,"Lvl ",
+guild_main_153,レア以上の武器を<br>素材にしようとしています！,An R–SSR weapon<br>is about to be absorbed.,素材中含有稀有武器！
+guild_main_154,レア以上の武器を<br>素材にしようとしています！,R–SSR weapons<br>are about to be absorbed.,素材中含有稀有武器！
+guild_main_155,戦,PWR,战
+guild_main_156,攻,ATK,
+guild_main_157,Lv,Lvl,
+guild_main_158,H,HP,
+guild_main_159,",",", ",
+guild_main_16,後です。,.,后
+guild_main_17,0分,0 min,
+guild_main_18,"%s日 ",%s d,%s天
+guild_main_19,"%s時間 ",%s h,%s小时
+guild_main_2,解雇する団員がいません。,There are no members to remove.,没有可移除的团员。
+guild_main_20,%s分,%s m,
+guild_main_21,スカウトリスト,Scout List,邀请列表
+guild_main_22,団員スカウト,Scout,邀请入团
+guild_main_23,<span style='%s'>%s</span>さんをスカウトしました,<span style='%s'>%s</span> was scouted.,已邀请<span style='%s'>%s</span>
+guild_main_24,このプレイヤーは、<br>第4章 をクリアしていないため、<br>スカウトできません。,This player can't be<br>scouted because they<br>haven't cleared chapter four yet.,该玩家未通关第4章，无法邀请。
+guild_main_25,団員人数が上限に達しているため、<br>スカウトできませんでした。<br><br>団員を解雇するか、<br>スカウトを取り下げてください。,This player can't be scouted because<br>your crew is full. Either remove a crew<br>member or cancel scouting.,团员人数已满，邀请失败。请移除团员，或取消本次邀请。
+guild_main_26,人数上限です,Scout,人数已满
+guild_main_27,現在の役職が変更されたため、<br>スカウトできませんでした<br><br>騎空団TOPへ戻ります。,You can't scout because your position<br>in the crew has changed.<br>The Crew screen will now appear.,您的职位发生改变，无法发送邀请。返回骑空团首页。
+guild_main_28,スカウトできません,Scout,邀请失败
+guild_main_29,既にスカウト済みです。,has already been scouted.,您已向该玩家发出过邀请。
+guild_main_3,団員を解雇,Remove Member,解雇团员
+guild_main_30,現在他の騎空団からスカウトされているためスカウトできません。<br><br>時間を置いてもう一度スカウトしてください。<br>,has already been scouted by another crew.<br><br>Please try again at a later time.<br>,该玩家已被其他骑空团邀请。<br><br>请稍后再试。
+guild_main_31,既に入団待ち状態です。,has already been scouted.,您已向该玩家发出过邀请。
+guild_main_32,現在他の騎空団の入団待ち状態です。,has already been sent a scout request.,该玩家已被其他骑空团邀请。
+guild_main_33,既に同じ騎空団に所属しています。,is already in your crew.,该玩家已在您的骑空团。
+guild_main_34,同じ騎空団に入団申請を出しています。,is already in your crew.,该玩家已在您的骑空团。
+guild_main_35,スカウトできません。<br><br>時間を置いてもう一度スカウトしてください。,Unable to scout.<br><br>Please try again at a later time.,邀请失败。<br><br>请稍后再试。
+guild_main_36,コメントを入力してください。,Type a message.,请输入留言。
+guild_main_37,<div class='prt-scout-msg prt-popup-frame'>%s</div>このメッセージを送り、スカウトしますか？,<div class='prt-scout-msg prt-popup-frame'>%s</div>Send this player a message to scout them?,<div class='prt-scout-msg prt-popup-frame'>%s</div>是否发送该留言，邀请该玩家入团？
+guild_main_38,エラー,Error,错误
+guild_main_39,招待済み,Invited,已邀请
+guild_main_4,解雇,Remove,解雇
+guild_main_40,すでに招待しています。,An invitation has already been sent.,您已向该玩家发出过邀请。
+guild_main_41,騎空艇パーツ,Airship Parts,骑空艇部件
+guild_main_42,解放される騎空団サポート,Buy Airship Part,解放新的骑空团支援效果
+guild_main_43,騎空艇強化,Airship Upgrade,骑空团强化
+guild_main_44,武器で強化する,Upgrade with Weapons,使用武器强化
+guild_main_45,強化結果,Congratulations!,强化结果
+guild_main_46,おすすめ強化,Upgrade Using Auto Select,一键强化
+guild_main_47,おすすめ素材がありません。,There are no matching absorbable materials.,无指定推荐素材
+guild_main_48,おすすめ一括強化設定,Auto Select,推荐素材设置
+guild_main_49,騎空艇,Airship,骑空艇
+guild_main_5,団員を解雇しました。,The crew member was removed.,已移除该团员
+guild_main_50,騎空艇詳細,Airship Info,骑空艇详情
+guild_main_51,騎空団サポート一覧,Available Crew Skills,骑空团支援效果一览
+guild_main_52,改造パーツで強化する,,使用改造部件强化
+guild_main_53,ルピで強化する,,使用卢比强化
+guild_main_54,騎空団検索リスト,Crew List,骑空团成员检索
+guild_main_55,該当騎空団がありません,No Matches,找不到该成员
+guild_main_56,騎空団申請,Crew Application,骑空团申请
+guild_main_57,騎空団を利用するには、<br>第4章 をクリアする必要があります。,You must clear chapter 4<br>to join a crew.,骑空团功能将在第4章通关后解放。
+guild_main_58,[ %s ]に入団申請をしました。,Application was sent to[ %s ].,您已申请加入[ %s ]。
+guild_main_59,申請中の騎空団id,Crew ID (Applied),申请中的骑空艇id
+guild_main_6,騎空艇リスト,Airship List,骑空艇列表
+guild_main_60,騎空団,Crew,骑空团
+guild_main_61,Rankを指定しない,No Minimum Rank,无等级限制
+guild_main_62,Rank10以上,Rank 10 or higher,Rank10以上
+guild_main_63,Rank20以上,Rank 20 or higher,
+guild_main_64,Rank30以上,Rank 30 or higher,
+guild_main_65,プレイスタイルを設定しない,Any Gaming Style,无游戏频率限制
+guild_main_66,楽しくプレイ,Just For Fun,随便玩玩
+guild_main_67,マイペースにプレイ,Easy Pace,量力而行
+guild_main_68,静かにプレイ,Stealth Players,默默肝耘
+guild_main_69,積極的にイベントに参加,Full Event Participation,古战场警察
+guild_main_7,騎空団サポート発動中,Crew Skills Active,骑空团支援效果发动中
+guild_main_70,マイページに戻る,Home,返回主页
+guild_main_71,申請中の騎空団TOPに戻る,Crew,返回申请中的骑空团主页
+guild_main_72,騎空団検索画面に戻る,Crew Search,返回骑空团搜索页
+guild_main_73,騎空団TOP,Crew,骑空团主页
+guild_main_74,騎空団申請取り下げ,Cancel Application,取消申请
+guild_main_75,[ %s ]<br>への申請を取り下げますか？,Cancel your application to<br>[ %s ]?,是否取消申请加入[ %s ]？
+guild_main_76,[ %s]への申請を取り下げました。,Your application to [ %s] was canceled.,已取消申请
+guild_main_77,騎空団スカウト受理,Accept Scout Request,接受骑空团邀请
+guild_main_78,騎空団申請不可,Can't Apply,无法申请
+guild_main_79,騎空団結成,Form Crew,创建骑空团
+guild_main_8,騎空艇の購入,Buy Airship,购买骑空艇
+guild_main_80,騎空団名が入力されていません。<br>騎空団名を入力してください。,The crew name is not typed.<br>Please type the crew name.,骑空团名为空。<br>请输入骑空团名。
+guild_main_81,騎空団名は10文字以内で入力してください。,Crew name can be up to 10 characters.,请输入10字以内的骑空团名。
+guild_main_82,[ %s ] <br>この名前で騎空団を結成します。,Your crew name is<br>%s.,是否命名为<br>%s？
+guild_main_83,騎空団 団員リスト,Crew Member List,骑空团 团员列表
+guild_main_84,入団待ちの人はいません。,No applicants.,无申请入团的玩家。
+guild_main_85,スカウト中の人はいません。,No one is being scouted.,无邀请中的玩家。
+guild_main_86,役職設定,Change Position,职位设置
+guild_main_87,役職変更できません。,Can't change position.,无法变更职位。
+guild_main_88,このプレイヤーは既に退団しているため、<br>役職を変更できませんでした。,"This player has already left the crew,<br>so their position couldn't be changed.",该玩家已退团，<br>无法变更职位。
+guild_main_89,入団待ち,Applicants,入团申请
+guild_main_9,ルピを寄付する,Donate Rupies,捐赠团费
+guild_main_90,入団を本当に拒否しますか？,Dismiss this scout request?,是否拒绝入团邀请？
+guild_main_91,入団申請,Apply,入团申请
+guild_main_92,入団申請依頼を拒否しました。,Dismissed this player's application to your crew.,您已拒绝加入。
+guild_main_93,入団を拒否することができませんでした,Application couldn't be dismissed.,拒绝失败
+guild_main_94,スカウト,Scout,邀请
+guild_main_95,このプレイヤーのスカウトを取り下げますか？,Cancel the scout request for this player?,是否取消邀请该玩家？
+guild_main_96,模様替え,Change Background,变更背景
+guild_main_97,あと,"Reset in: ",还剩
+guild_main_98,騎空団団員リスト（任命）,Assign Crew Member,骑空团团员列表（任命）
+help_1,HELP,Help,
+island_1,空域間の移動,Travel Skydoms,选择空域
+item_1,アイテム,Items,道具
+item_10,チケット,Tickets,扭蛋券
+item_11,アイテム使用確認,Use Item,确认使用道具
+item_12,回復量が取得できません,Can't get the amount for recovery.,无法回复指定量HP
+item_13,バトル中のパーティがいます,You have a party in battle right now.,您还处于战斗中
+item_14,既に全回復しているためアイテムを使用できません,All players have full health so your item wasn't used.,所有玩家HP已满，无法使用该道具。
+item_15,チケット使用確認,Use Ticket,确认使用
+item_16,大事なもの,Wonders,宝物
+item_2,これ以上強化できません。,This bonus has full stars.,无法继续强化
+item_23,アイテムについて,About Items,关于道具
+item_26,アイテム詳細,Item Details,道具详情
+item_27,アイテム使用結果,Use Item,道具使用结果
+item_28,BP,EP,BP
+item_3,これ以上上限解放できません。,The level cap can't be raised any higher.,无法继续上限解放
+item_4,レ・フィーエ,,宝石姬
+item_5,セブンス・ペイン,,七色伤痛
+item_6,アイテム一覧,Item List,道具一览
+item_7,回復アイテム,Recovery Items,回复道具
+item_8,育成アイテム,Power-Ups,经验/上限解放道具
+item_9,トレジャー,Treasure,物品素材
+job_skillitem_01,特殊武器,,
+job_weapon_icon_1,剣,Sabre,
+job_weapon_icon_10,刀,Katana,
+job_weapon_icon_2,短剣,Dagger,
+job_weapon_icon_3,槍,Spear,
+job_weapon_icon_4,斧,Axe,
+job_weapon_icon_5,杖,Staff,
+job_weapon_icon_6,銃,Gun,
+job_weapon_icon_7,格闘,Melee,
+job_weapon_icon_8,弓,Bow,
+job_weapon_icon_9,楽器,Harp,
+latter_ending,,additional story's ending,
+limited_1,サイコー！FANTASY,,
+limited_10,個," ",
+limited_11,人,,
+limited_12,%sがパーティに加入しました。,,%s已成为伙伴
+limited_13,本日の交換個数制限　残り%s,Only %s more available today.,今日的兑换个数限制 还剩%s
+limited_14,残り%s,,还剩%s
+limited_15,（所持数　%s）,(Held: %s),
+limited_16,アイテム詳細,Item Details,道具详情
+limited_17,獲得キャラクター,,获得人物
+limited_18,交換確認,Trade Treasure,确认兑换
+limited_19,本日の交換個数制限　残り%s個,Only %s more available today.,今日的兑换个数限制 还剩%s个
+limited_2,時限クエスト出現,,限时任务出现
+limited_20,残り%s個,%s more.,还剩%s个
+limited_21,ほっほっほっほ。受け取っておくれ。,,吼~吼~吼~吼。收下吧。
+limited_22,%sにこれをあげよう,,送给%s这个吧。
+limited_23,これは、わしからのお礼じゃよ。,,这是我给你们的礼物。
+limited_24,良い子には贈り物をあげんとな。,,是你们这些好孩子应得的。
+limited_25,%s達へのプレゼントじゃよ。,,你们就收下吧。
+limited_26,プレゼントリストに送られました。,,已发送到礼物列表
+limited_27,コラボキャンペーン,,联动
+limited_28,報酬受取,,奖励收取
+limited_29,次のページへは移動できません,,无法前往下一页
+limited_3,交換確認,Trade Treasure,确认兑换
+limited_30,PC版からの移動が制限されているページの為<br>このボタンからのページ移動はできません。,,PC版无法查看此页，点击该按钮无法前往下一页。
+limited_31,クエスト再開,Resume Quests,回归任务
+limited_32,マルチバトル撤退,Raid Battle,从多人战斗中撤退
+limited_33,マルチバトルから撤退しました。,You retreated from the raid battle.,已从多人战斗中撤退。
+limited_34,クエスト撤退,Retreat,从任务中撤退
+limited_35,進行中のクエストから撤退しました。,You retreated from the quest.,已从当前任务撤退
+limited_36,<br><br>未クリアクエストのため、<br>AP%sが返却されました。<br><br>AP: %s→<span class='txt-after-ap'>%s</span>,<br><br>This is an uncleared quest. <br>AP will be returned: %s<br><br>%s&gt;&gt;<span class='txt-after-ap'>%s</span>,<br><br>因您未成功通关该任务，<br>消耗的%sAP已回复。<br><br>AP: %s→<span class='txt-after-ap'>%s</span>
+limited_37,撤退確認,Retreat,确认撤退
+limited_4,仲間にする,,招募该伙伴
+limited_5,交換する,Trade,确认兑换
+limited_6,交換エラー,Trade Treasure,兑换错误
+limited_7,交換できませんでした。,Technical issues are occurring. Treasure couldn't be traded.,兑换失败
+limited_8,交換完了,Trade Treasure,兑换成功
+limited_9,%s個入手しました。,You got %s.,获得%s个。
+limited_time_1,ホワイトデーの贈り物,,白色情人节的礼物
+limited_title_1,追加された称号,New Trophies,新称号
+limited_title_2,称号確認,Display Trophy,称号确认
+limited_title_3,称号設定完了,Display Trophy,称号设置成功
+limited_title_4,称号を設定しました。,You displayed a trophy.,已设置该称号。
+lineup_1,全てのアイテムと交換しました。,You've traded for all remaining items.,您已兑换剩余的全部道具
+listall_1,武器,Weapons,武器
+listall_10,Lv,Lvl,
+listall_11,H,HP,
+listall_12,Class,EM Lvl,
+listall_13,倉庫に移動,Move to Stash,转移至仓库
+listall_2,召喚石,Summons,召唤石
+listall_3,倉庫に移す,Move to Stash,转移至仓库
+listall_4,移動完了,Stash,转移成功
+listall_5,リスト,Inventory,列表
+listall_6,移動先倉庫選択,Stash,选择目标仓库
+listall_7,選択した倉庫内がいっぱいのため<br>移動できません。,The stash you selected is full. Select another one.,该仓库已满，转移失败。
+listall_8,戦,PWR,战
+listall_9,攻,ATK,
+listall_move_1,武器,weapon,武器
+listall_move_2,召喚石,summon,召唤石
+listall_move_3,武器,weapons,武器
+listall_move_4,召喚石,summons,召唤石
+listall_pop_1,倉庫に移す,Move to Stash,转移至仓库
+listall_pop_2,倉庫がいっぱいのため<br>移動できません。,The stash you selected is full.,该仓库已满，转移失败。
+listall_pushed_1,プロフィール,Profile,个人资料
+listall_pushed_2,推しキャラ選択,Star Character,选择推荐角色
+lobby_approval_pop_1,マルチバトル承認,Ready Check,多人战斗准备
+lobby_authority_pop_1,クエスト権変更,Quest Setter Permissions,变更任务设置权
+lobby_authority_pop_2,%sにクエスト権を変更しますか？,Change %s's quest setter permissions?,是否将任务设置权转移给%s？
+lobby_authority_pop_3,%sにクエスト権を変更しました,You changed %s's quest setter permissions.,已将任务设置权转移给%s
+lobby_authority_title_1,クエスト権変更,Quest Setters,任务设置权
+lobby_chat_pop_1,チャット(スタンプ),Chat Stickers,聊天（表情）
+lobby_chat_pop_10,削除しました。,Message was deleted.,已删除
+lobby_chat_pop_11,スタンプを送りました。,Sticker was sent.,已发送
+lobby_chat_pop_12,削除失敗,Message Board,删除失败
+lobby_chat_pop_13,削除できませんでした。,Message can't be deleted.,删除失败
+lobby_chat_pop_2,禁止ワードが含まれています。,This message is invalid.,含有敏感词。
+lobby_chat_pop_3,チャット,Chat,聊天
+lobby_chat_pop_4,コメントを入力してください。,Type a message.,请输入信息。
+lobby_chat_pop_5,%s文字以内で入力してください。,Messages can be up to %s characters.,请输入%s字以内的信息。
+lobby_chat_pop_6,送信完了,Chat,已发送
+lobby_chat_pop_7,チャットを送りました。,Message was sent.,消息已发送。
+lobby_chat_pop_8,削除確認,Message Board,确认删除
+lobby_chat_pop_9,削除完了,Message Board,删除成功
+lobby_chat_title_1,共闘チャット,Co-op Chat,共斗聊天
+lobby_entry_error_1,コメントは24文字までです。,Type up to 24 characters.,请输入24字以内的信息。
+lobby_entry_error_2,禁止ワードが含まれています。,This message is invalid.,含有敏感词。
+lobby_entry_title_1,ルーム作成,Create a Room,创建房间
+lobby_entry_title_2,ルーム情報変更,Room,房间信息更新
+lobby_force_leave_pop_1,強制退室,Remove Player,强制退出
+lobby_force_leave_pop_10,強制退室は却下されました。,An approval request to remove a player has been denied.,强制退出请求被拒绝。
+lobby_force_leave_pop_2,強制退室確認,Remove Player,强制退出确认
+lobby_force_leave_pop_3,強制退室完了,Done Removing Player,强制退出成功
+lobby_force_leave_pop_4,強制退室を実行しました。,The player has been removed from the room.,强制退出执行成功。
+lobby_force_leave_pop_5,強制退室承認中,Remove Player,强制退出请求正在审核
+lobby_force_leave_pop_6,強制退室承認依頼,Approval Request,同意强制退出
+lobby_force_leave_pop_7,強制退室成立,Remove Player,强制退出请求通过
+lobby_force_leave_pop_8,%sさんを強制退室しました。,%s has been removed from the room.,%s已退出房间。
+lobby_force_leave_pop_9,強制退室不成立,Remove Player,强制退出请求失败
+lobby_index_1,<span class='txt-current-num'>%s1</span>/<span class='txt-max-num'>%s2</span>参加中,Players: <span class='txt-current-num'>%s1</span> / <span class='txt-max-num'>%s2</span>,
+lobby_index_count_1,残り %s分,Closes in %s min,剩余 %s分
+lobby_index_count_2,残り %s秒,Closes in %s sec,剩余 %s秒
+lobby_index_count_3,残り %s分%s秒,Closes in %s min %s sec,剩余 %s分%s秒
+lobby_index_pop_1,ルーム情報確認,Room Details,房间信息确认
+lobby_index_pop_10,認証完了,Link Twitter Account,绑定成功
+lobby_index_pop_11,Twitterとの連携を認証しました。,Your Granblue Fantasy account and Twitter account are now linked.,您已绑定推特账号。
+lobby_index_pop_12,誰でもOK,Anyone,所有玩家
+lobby_index_pop_13,フレンド限定,Friends Only,仅好友
+lobby_index_pop_14,騎空団員限定,Crew Members Only,仅骑空团员
+lobby_index_pop_15,設定なし,None,无设置
+lobby_index_pop_16,承認あり,Ready Check Enabled,需确认准备
+lobby_index_pop_17,承認なし,Ready Check Disabled,无需确认准备
+lobby_index_pop_18,[グラブル]マルチバトル参加者募集！\nルームID：%s\n募集対象：%s\n参戦人数：%s人\n%s\n%s\n%s,Join my Granblue Fantasy raid room!\nRoom ID: %s\nPlayer Type: %s\nLimit: %s\n%s\n%s\n%s,
+lobby_index_pop_2,パソコンからのご利用について,Play on a Computer,关于电脑端的使用
+lobby_index_pop_20,クエスト選択,Select Quest,选择任务
+lobby_index_pop_21,クエスト確認,Quest,任务确认
+lobby_index_pop_22,最大AP不足,AP,
+lobby_index_pop_23,クエストを実行するためのAPが<br>現在の最大APを上回っています。<br>APはRankを上げることで<br>最大値が上昇します。,This quest requires more AP than you can have yet.<br>Raise your rank to get more AP.,该任务消耗的AP超过现AP最大值。AP最大值会随等级提升而增加。
+lobby_index_pop_24,マルチバトル撤退,Raid Battle,从多人战斗中撤退
+lobby_index_pop_25,マルチバトルから撤退しました。,You retreated from the raid battle.,已从多人战斗中撤退。
+lobby_index_pop_26,クエスト[%s]の有効期限が切れました,%s is no longer available.,任务[%s]已超时
+lobby_index_pop_27,クエストを開始できません,Quest,任务无法开始
+lobby_index_pop_28,退室したプレイヤーをサポーターに<br>設定しているメンバーがいるため<br>クエストを開始できません。,One of the players who left the room was<br>loaning a summon to another member.<br>You can't start the quest.,房间内有成员选择了已退出玩家的支援召唤石，任务无法开始。
+lobby_index_pop_29,CAUTION!,Quest,
+lobby_index_pop_3,Twitter投稿,Post to Twitter,分享至推特
+lobby_index_pop_30,挑戦条件を満たしていないため、<br>クエストを開始できません。<br><br>必要Rank: %s以上,You don't have the right rank to play this quest.<br><br>Required rank: %s,未满足挑战条件，任务无法开始。<br><br>必要Rank: %s以上
+lobby_index_pop_31,AP使用確認,AP,AP使用确认
+lobby_index_pop_32,APが足りません,More AP Needed,AP使用确认
+lobby_index_pop_33,解散確認,Room,解散确认
+lobby_index_pop_34,ルームを解散しますか？,Close this room?,是否解散房间？
+lobby_index_pop_35,解散,Yes,
+lobby_index_pop_36,解散完了,Room,解散成功
+lobby_index_pop_37,ルームを解散しました。,You closed this room.,房间已解散
+lobby_index_pop_38,退室確認,Room,退出房间确认
+lobby_index_pop_39,ルームから退室しますか？,Leave this room?,是否退出房间？
+lobby_index_pop_4,Twitter連携,Link Twitter Account,绑定Twitter
+lobby_index_pop_40,退室,Yes,退出
+lobby_index_pop_41,退室完了,Room,退出成功
+lobby_index_pop_42,ルームから退室しました。,You left this room.,您已退出房间
+lobby_index_pop_43,ルームメンバー全員が<br>準備OKを宣言しているため、<br>%sできません。,You can't %s. All players are ready to start.,所有玩家准备OK，无法%s。
+lobby_index_pop_44,%sへの挑戦,%s,向%s发起挑战
+lobby_index_pop_45,確認,Room,确认
+lobby_index_pop_46,他のプレイヤーにより<br>すでにクエストが設定されています。,Another player has already chosen a quest.,其他玩家已设置任务。
+lobby_index_pop_47,自分が発見したマルチバトルが<br>進行中のため、クエストを設定できません。,Quest can't be selected because there is a raid battle<br>in progress that you started.,您有自发的多人战斗还在进行中，任务设置失败
+lobby_index_pop_48,回数制限に達しているため<br>このクエストを開始することが出来ません。<br><br>回数制限は毎日AM5:00に<br>リセットされます。,You have already played this quest<br>as many times as you can. Try again<br>at 5 a.m. (JST).,进行次数已达上限，任务无法开始。<br>每日AM5：00（GMT+9）重置。
+lobby_index_pop_49,クエストを開始できません,Quest,任务无法开始
+lobby_index_pop_5,Twitterに投稿しました。,The tweet was posted to Twitter.,已分享至Twitter
+lobby_index_pop_50,CAUTION!,Quest,
+lobby_index_pop_51,チャット機能の有効化,Enable Chat,启用聊天功能
+lobby_index_pop_52,？？？,???,
+lobby_index_pop_53,クエストを設定できません,Set a Quest,无法设置任务
+lobby_index_pop_54,すでにクエストが設定されています。<br>このクエストを設定するためには、<br>設定済みのクエストを取り下げる<br>必要があります。,"A quest is already set. To select a new quest, first cancel the quest that is already selected.",您已设置任务。<br>若要变更任务，请先取消当前任务。
+lobby_index_pop_55,残り%s回挑戦できます。,This quest can be played %s more time.,还能挑战%s
+lobby_index_pop_56,クエスト権変更,Quest Setter Permissions,变更任务设置权
+lobby_index_pop_57,ルームオーナーから<br>クエスト権を受け取りました。<br>任意のマルチバトルを<br>設定することができます。,The room leader has given you quest setter permissions.<br>You can select quests for this room.,房主已授予您任务设置权。<br>您能够设置任意的多人战斗。
+lobby_index_pop_58,%sにクエスト権が変更されました,%s now has quest setter permissions.,任务设置权已转移给%s。
+lobby_index_pop_59,退室したプレイヤーを<br>サポーターに設定しているため<br>クエストを開始できません。,You can't start this quest.<br>A player is borrowing a summon from a player who is no longer in the room.,房间内有成员选择了已退出玩家的支援召唤石，任务无法开始。
+lobby_index_pop_6,送信完了,Post to Twitter,已分享
+lobby_index_pop_60,承認待ち,Remove Player,待通过
+lobby_index_pop_61,クエスト確認,Quest,任务确认
+lobby_index_pop_62,[グラブル]マルチバトル参加者募集！\nルームID：%s\n募集対象：%s\n%s\n%s\n連続クエスト設定：%s回連続\n%s,Join my Granblue Fantasy raid room!\nRoom ID: %s\nPlayer Type: %s\n%s\n%s\nRepeating Quest Settings: %s times\n%s,
+lobby_index_pop_63,Error Code: %s<br>%s,Error Code: %s<br>%s,
+lobby_index_pop_7,Twitterに投稿することでAP・BPが回復します。,Post to Twitter to recover AP and EP.,分享至推特可回复AP与BP。
+lobby_index_pop_8,投稿によるAP・BPの回復は、1日1回までとなります。<br>回数制限は毎朝AM5:00にリセットされます。,You can post to Twitter to restore AP and EP<br>once daily from 5 a.m. (JST).,推特分享回复AP·BP一日仅限一次。<br>每日AM5：00（GMT+9）重置。
+lobby_index_pop_9,AP・BPはMAXですが投稿しますか？,Your AP and EP are full. Tweet anyway?,您的AP·BP已满，是否继续投稿？
+lobby_index_pop_error_1,終了しているマルチバトルです。<br>ルームに戻ります。,This raid battle has already ended.<br>The Room screen will now appear.,该多人战斗已结束，返回房间。
+lobby_index_pop_error_2,マルチバトルの制限時間が切れています。<br>ルームに戻ります。,This raid battle has run out of time.<br>The Room screen will now appear.,该多人战斗已超时，返回房间。
+lobby_index_pop_error_3,バトルポイントが足りません。<br>ルームに戻ります。,You don't have enough EP.<br>The Room screen will now appear.,BP不足，返回房间。
+lobby_index_pop_error_4,このバトルは参加可能人数上限に達しています。<br>ルームに戻ります。,This raid battle is already full.<br>The Room screen will now appear.,参战人数已达上限，返回房间。
+lobby_index_pop_error_5,不明なエラーです。<br>ルームに戻ります。,An unknown issue has occurred.<br>The Room screen will now appear.,发生未知错误，返回房间。
+lobby_index_pop_event_1,期間外イベント,Event Concluded,活动已结束。
+lobby_index_pop_event_2,期間外のイベントのため選択できません。,This event has concluded.,活动已结束，无法选择。
+lobby_index_title_1,ルーム,Room,房间
+lobby_member_title_1,メンバー,Players,成员
+lobby_room_close_pop_1,ルーム解散承認中,Close Room,解散房间请求审核中
+lobby_room_close_pop_2,ルーム解散承認依頼,Close Request,解散房间请求
+lobby_room_close_pop_3,ルーム解散承認結果,Close Room Check Results,解散房间请求结果
+lobby_room_close_pop_4,ルーム解散は却下されました。,The room won't be closed.,解散房间失败
+logout_error_01,エラー,Error,错误
+logout_error_02,かんたん会員の方はログアウトできません。,Error,错误，简易会员无法登出
+menu_pop_1,共闘,Co-op,共斗
+menu_pop_2,移動先選択,Select Destination,选择目的地
+multi_ability_confirm,同一のアビリティを参戦者が使用したため<br>効果が重複する可能性があります。<br>このままアビリティを使用しますか？,Another player used the same skill.<br>Do you still want to use this skill? (Skill effect may overlap.),已有玩家使用该技能，效果有可能重复。是否继续使用技能？
+new_pose_1,新規POSE追加,New Pose Unlocked,解锁新姿态
+notice_sidestory_campaign_1,サイドストーリーキャンペーン開催！<br>サイドストーリーを遊んで<br>仲間キャラとSSレア武器をGET！,Side Story Campaign!<br>Play the side stories to recruit characters<br>and get SSR weapons!,番外故事活动开始！<br>阅读番外故事，获得新同伴与SSR武器！
+notice_sidestory_unlock_title,キャンペーンについて,Side Story Campaign,活动详情
+open_fate_1,エピソード解放,Episode Unlocked,人物剧情解放
+over_monthly_payment_limit_title,購入金額通知,,
+party_1,編成,Party,队伍
+party_10,ジョブ一覧に戻る,Classes,返回职业一览
+party_101,メイン武器に『%s』を<br>装備しているため、<br>スキン変更はできません。,Outfit can't be changed while %s<br>is equipped as your main weapon.,您将『%s』设为了主手武器，无法变更皮肤。
+party_102,JP,CP,
+party_106,セットできるEXアビリティは<br>2つまでです。,You can only set up to 2 subskills,您只能设置2种EX技能。
+party_107,セットできるリミットアビリティは<br>2つまでです。,You can only set up to 2 subskills,您只能设置两种附加技能。
+party_108,ジョブチェンジに戻る,Switch Class,返回职业变更
+party_109,セット不可,Subskill,无法设置
+party_11,EXアビリティ解除,Remove Subskill,解除EX技能
+party_110,セットできるEXアビリティは<br>2つまでです,You can only set up to 2 subskills,您只能设置2种EX技能。
+party_111,セットできるリミットアビリティは<br>2つまでです,You can only set up to 2 subskills,您只能设置两种附加技能。
+party_112,設定されているアビリティがありません,There are no matching skills.,未设置技能
+party_113,戦,PWR,战
+party_114,攻,ATK,
+party_115,Lv,Lvl,
+party_116,H,HP,
+party_117,Class,EM Lvl,
+party_118,セットできるベースアビリティは<br>2つまでです,You can only set up to 2 base skills,您只能设置两种基础技能。
+party_12,セット中のEXアビリティと同じ<br>アビリティが存在する為、<br>セット中のEXアビリティは解除されました。,The subskill has been removed<br>because it's already a skill<br>for this class.,现有技能中已存在该技能，故当前EX技能已解除。
+party_13,スキン変更解禁,Outfits,解锁皮肤变更
+party_14,%sのジョブスキンが<br>変更できるようになりました！<br><br>ジョブの見た目を変更できます。,You can now change into the %s outfit.<br><br>You can change your class outfit.," 您可以变更%s的职业皮肤了！您可以改变职业外观。"
+party_15,スキン変更,Outfits,变更皮肤
+party_16,%s1の見た目を<br><br><span class='txt-color-orange'>%s2</span><br><br>に変更しました。,You changed into the %s2 outfit.,%s的外观已变更为<span class='txt-color-orange'>%s2</span>。
+party_18,EXアビリティ,Subskill,SX技能
+party_19,セット出来るEXアビリティがありません。,There are no matching subskills.,无可设置EX技能
+party_2,武器一覧に戻る,Weapons,返回武器一览
+party_20,ボーナス確認,Bonuses,确认加成数据
+party_21,Limit Bonus解禁,Extended Mastery,技能点数解锁
+party_23,編成する,Select,选择
+party_24,全タイプ,All Styles,所有类型
+party_25,ジョブチェンジ,Switch Class,更换职业
+party_26,ジョブ変更確認,Switch Class,更换职业确认
+party_27,現在のジョブです。,Current Class,您现在的职业
+party_28,アビリティ詳細,Skills,技能详情
+party_29,EXアビリティ解除,Subskill,EX技能解除
+party_3,キャンセル,Cancel,取消
+party_30,このジョブでは設定できない<br>EXアビリティのため解除しました。,The subskill has been removed<br>it doesn't match this class.,该职业无法使用的EX技能已被移除。
+party_31,編成確認,Reequip,选择武器
+party_32,編成で武器を確認しますか？,Reequip weapons to match this class?,是否返回队伍选择主手武器？
+party_33,確認する,Yes,确定
+party_34,ジョブ一覧,Unlocked Classes,职业一览
+party_35,未取得ジョブ一覧,Locked Classes,未获得职业一览
+party_36,スキン変更,Change Outfit,皮肤变更
+party_37,スキン変更確認,Change Outfit,皮肤变更确认
+party_38,に変更します。," "," "
+party_39,%sの見た目を<br>,Your %s's outfit<br>will change to,%s的外观已更换为
+party_4,装備する,Select,装备
+party_40,現在設定しているスキンです。<br><br>変更したいスキンを選んでください。,This is your current outfit.<br><br>Select the outfit you want to wear.,这是当前的皮肤。<br><br>请选择您想要显示的皮肤。
+party_42,マイページ,Home,主页
+party_43,マイページで表示するPOSEを設定できます。,Select a Home screen pose,选择主页显示的POSE。
+party_44,リスト,Inventory,列表
+party_45,リストで使用するPOSEを設定できます。,Select an Inventory pose,选择列表显示的POSE。
+party_46,編成・詳細,Party,队伍·详情
+party_47,編成・詳細で使用する<br>POSEを設定できます。,Select a party pose,选择队伍·详情页显示的POSE。
+party_48,バトル,Battle,战斗
+party_49,バトル中のキャラクターアイコンで使用する<br>POSEを設定できます。,Select a battle pose,选择战斗中显示的POSE。
+party_5,武器装備,Select a Weapon,武器装备
+party_50,バトル中キャラクター,"Battle ",战斗
+party_51,バトル中のキャラクターアニメーションで使用するPOSEを設定できます。,Select a sprite pose,选择战斗中人物动画的POSE。
+party_52,選択したPOSEによって、バトルのアニメーションや一部エフェクトが変化します。一部特殊な演出のアビリティ使用時はPOSEが反映されない場合があります。,Battle animations and visual effects will change based on the sprite pose. The sprite pose might change briefly when certain skills with special animations are used.,不同的POSE有不同的战斗动画及效果。个别使用特殊动画的技能不会反应您选择的POSE。
+party_53,奥義,Charge Attack,奥义
+party_54,奥義のカットインで使用する<br>POSEを設定できます。,Select a charge attack pose,选择发动奥义时显示的POSE。
+party_55,チェインバースト,Chain Burst,奥义连击
+party_56,チェインバーストで使用する<br>POSEを設定できます。,Select a chain burst pose,选择奥义连击显示的POSE。
+party_57,キャラ詳細に戻る,Character Stats,返回人物详情
+party_58,設定しました。,Your changes have been saved.,设置成功
+party_59,変更できませんでした。<br>マイページに移動します。,Your changes couldn't be made.<br>The Home screen will appear.,设置失败。返回主页。
+party_6,ジョブ詳細,Classes,职业详情
+party_60,スキン・POSE切り替え,Change Outfits and Poses,变更皮肤·POSE
+party_61,スキン切り替え,Change Outfit,变更皮肤
+party_62,スキンを選択してください,Select an outfit.,请选择皮肤
+party_63,なし,None,无
+party_64,EXアビリティ選択,Select a Subskill,EX技能选择
+party_65,該当するアビリティがありません,There are no matching subskills.,无技能
+party_67,以下のアビリティを<br>EXアビリティにセットします。,This skill will be set<br>as your subskill.,是否选择该技能作为EX技能？
+party_68,確認,Skills,确认
+party_69,セット済みのアビリティ,Set Skills,现有技能
+party_7,ジョブの取得,Get Class,获得职业
+party_70,このアビリティは現在のジョブに<br>セットされています。,This skill is a part of<br>your current class.,该技能属于当前职业技能。
+party_71,EXアビリティを解除しますか？,Remove subskill?,是否解除EX技能？
+party_72,EXアビリティ解除,Remove Subskill,解除EX技能
+party_73,解除する,Remove,解除
+party_74,習得可能ステータス一覧,Class Stats,查看可习得加成
+party_75,おまかせ編成しました。,You used auto select to form a party!,自动组队完毕。
+party_76,おまかせ編成,Auto Select,自动组队
+party_77,武器を一括装備しました。,Weapons have been auto selected.,武器自动装备完毕。
+party_78,武器装備,Auto Select,武器自动装备
+party_79,召喚石を一括装備しました。,Summons have been auto selected,召唤石自动装备完毕。
+party_8,ジョブの取得条件,Requirements,职业获得条件
+party_80,召喚石装備,Select a Summon,召唤石装备
+party_81,%s<br>を装備しました。,%s was equipped,已装备%s。
+party_82,武器装備,Select a Weapon,武器装备
+party_83,%s<br>をパーティに加えました。,%s was added to your party,%s加入队伍。
+party_84,キャラ入れ替え,Switch Out,更换人物
+party_85,武器装備,Select a Weapon,武器装备
+party_86,召喚石装備,Select a Summon,召唤石装备
+party_87,発動中のスキル,Weapon Skills,武器技能
+party_88,おまかせ編成確認,Auto Select,自动组队确认
+party_89,武器おまかせ装備確認,Auto Select,武器自动装备确认
+party_9,編成TOPに戻る,Party,返回队伍首页
+party_90,召喚石おまかせ装備確認,Auto Select,召唤石自动装备
+party_91,ヒント,Help,帮助
+party_92,パーティ解散,Disband Party,解散队伍
+party_93,パーティを解散します。<br>本当によろしいですか？<br>（メイン召喚石を除く全てが外れます）,You are about to disband your party.<br>Everything will be removed<br>except for your main summon.,是否解散队伍？除主召唤以外的装备将全部卸下。
+party_94,ボーナス確認,Bonuses,确认加成数据
+party_95,%sに\nジョブチェンジした!!,Your class is now\n %s!,您的职业变更为\n %s！！
+party_96,バレット確認,Bullets,
+party_97,登録先編成セット選択,Save Party,选择预设
+party_98,%sの編成内容を<br>セット%sに登録しました。,%s was saved<br>in slot %s,%s的队伍已保存<br>为预设%s。
+party_99,セット上限に達しているため、<br>編成を登録できませんでした。,There aren't enough slots to save this party.,预设数量已达上限，队伍保存失败。
+party_asset_1,登録編成名を変更,Set Name,变更预设队伍名称
+party_asset_10,保管所について,About Temporary Slots,关于保管所
+party_asset_11,スキル詳細,Skill Details,技能详情
+party_asset_2,何も入力されていません。,You haven't typed anything.,输入为空
+party_asset_3,登録編成の名前を<br>%s<br>に変更しました。,This party's name is now<br>%s.,预设队伍名称变更为<br>%s
+party_asset_4,編成登録,Save Party,保存预设
+party_asset_5,登録先編成セット選択,Save Party,选择预设
+party_asset_6,バレット確認,Load Bullet,
+party_asset_7,%sの編成内容を<br>セット%sに登録しました。,Party %s was saved in<br>slot %s,%s的队伍已保存<br>为预设%s。
+party_asset_8,セット上限に達しているため、<br>編成を登録できませんでした。,There aren't enough slots to save this party.,预设数量已达上限，队伍保存失败。
+party_asset_9,セットを所持していません,Save Party,无预设
+party_assumed_damage_1,予測ダメージ,Estimated DMG,预测伤害
+party_pop_get_limited_1,ジョブ取得,Unlock Class,获得职业
+party_set_pose_1,スキン・POSE切り替え設定,Outfit and Pose Settings,皮肤 · POSE 切换设置
+party_set_pose_2,リスト,Inventory,列表
+party_set_pose_3,リストで使用するPOSEを設定できます。,Select an Inventory pose,选择列表显示的POSE。
+party_set_pose_4,編成,Party,队伍
+party_set_pose_5,編成で使用するPOSEを設定できます。,Select a Party pose,选择队伍显示的POSE。
+party_set_pose_6,キャラクター詳細,Character Details,人物详情
+party_set_pose_7,キャラクター詳細で使用するPOSEを設定できます。,Select a Character Details pose,选择人物详情页显示的POSE。
+party_set_pose_8,選択したPOSEによって、バトル中のボイスが変化する場合があります。「バトル中キャラクター」の設定によっては奥義などの演出とボイスが一致しない場合があります。,"The character's battle voice might change based on the battle pose. Other battle voices for this character, such as charge attack calls, might not match the battle pose if certain sprite poses have been set.",不同的POSE可能有不同的战斗语音。语音可能与「战斗」一栏所设置的奥义动画不匹配。
+party_set_pose_9,選択したPOSEによって、バトルリザルト画面でのリミットボーナスクラス上昇時の演出が連動して変化します。,The Extended Mastery animation for level increase that displays on the Battle Results screen will change based on the pose.,战斗结果页面的LB级别上升动画按照设置POSE显示。
+pop_can_not_multi_battle_1,%s1をクリアすることで<br>%s2が仲間に加わります。<br>クエストを進行しますか？,Clear Chapter %s1<br>and %s2 will join your party.<br>Play this quest?,完成%s1章节后，%s2将成为新伙伴。<br>是否进行此任务？
+pop_common_auto_setting_1,自動売却・騎空艇の自動強化設定,Auto-Sell and Auto-Upgrade Settings,自动出售·骑空艇自动强化设置
+pop_common_auto_setting_2,条件設定,Settings,条件设置
+pop_common_auto_setting_3,設定条件,Auto-Upgrade Settings,设置条件
+pop_common_auto_setting_4,騎空団の強化はメインクエスト第4章クリア後から<br>「騎空団」に入団することで設定が可能です。,Auto-upgrade can only be used when you are in a crew. You can start or join a crew after clearing chapter 4 of the main quest.,骑空团强化功能将在主线剧情第4章通关、加入「騎空団」后开启。
+pop_custom_auto_setting_1,騎空艇の自動強化,Airship Upgraded,骑空艇自动强化
+pop_disabled_item,特別な上限解放,Can't Uncap,使用失败
+pop_guild_info_1,騎空団情報,Crew Details,骑空团情报
+pop_polling_error_1,設定,Applying Settings,设置
+pop_polling_error_2,通信の処理中です。,Your changes are still being applied,数据处理中。
+pop_setting_chromeapp,パソコンからのご利用について,Play on a Computer,关于电脑端的使用
+pop_setting_public_1,騎空団公開設定,Crew Privacy Settings,骑空团公开设置
+pop_setting_teamraid_1,古戦場設定,U&F Settings,古战场设置
+pop_setting_twitter_1,Twitter連携,Link Twitter Account,绑定Twitter
+pop_setting_twitter_2,認証完了,Link Twitter Account,绑定成功
+pop_setting_twitter_3,Twitterとの連携を認証しました。,Your Granblue Fantasy account and Twitter account are now linked.,您已绑定推特账号。
+pop_skill_boost_1,スキルブースト,Survival Boost,技能强化
+pop_startatonce_no_ap_1,AP消費のないクエストを開始します。<br>特別な編成で挑むクエストのため<br>サポーター召喚石の選択はありません。,No AP is required for this quest.<br>Support summons aren't available here.,该任务不消耗AP。<br>您将以特殊队伍挑战该任务，无法选择支援召唤石。
+pop_treasure_title,トレジャー,Treasure,物品
+present_1,プレゼントリスト,Crate,礼物列表
+present_10,プレゼントの受取期限が過ぎています。,This item has expired.,该礼物已过期
+present_11,以下のプレゼントを<br>まとめて受け取りました,You picked up<br>these items.,共收取以下礼物
+present_12,召喚,Call,召唤
+present_13,召喚石,Summons,召唤石
+present_14,キャラ,Characters,角色
+present_15,引換券,Draw Tickets,兑换券
+present_16,ベッティングカード,Betting Cards,下注卡
+present_17,スキン,Outfit,皮肤
+present_18,強化,Upgrade,强化
+present_19,編成,Party,队伍
+present_2,%s個,%s,%s个
+present_20,リスト,Inventory,列表
+present_21,アイテム,Items,道具
+present_22,ガチャ,Draw,抽卡
+present_23,碧空の結晶,Blue Sky Crystal,碧空的结晶
+present_24,ショップ,Shop,商店
+present_25,ブックメーカー,Bookmaker,作家
+present_26,うねる影塊,Meandering Shadow,扭曲的黑影
+present_27,イベントTOP,Event Home,活动主页
+present_28,ショップ,Shop,商店
+present_29,ラッキーガチャ,Lucky Draw,幸运抽卡
+present_3,現在の所持武器数,Current Weapons Held,当前武器总数
+present_30,上限解放,Level Cap,
+present_31,交換する,Trade,兑换
+present_32,カジノ,Casino,赌场
+present_33,フレンド,Friends,好友
+present_34,プロフィール,Profile,个人资料
+present_35,イベントトップ,Event Home,活动主页
+present_36,プレゼント詳細,Item Details,道具详情
+present_37,ステラストーン,Stellar Stones,星石
+present_38,キャンペーン,,活动
+present_39,,Unload,整理
+present_4,現在の所持召喚石数,Current Summons Held,当前召唤石总数
+present_40,,No matching loot.,
+present_41,設定,Unload Loot,设置
+present_42,,You are about to sell <span class='txt-orange'>SR items</span>.<br><br>Proceed?,自动出售设置中包含该设置包含<span class='txt-orange'>SR装备</span>。<br><br>是否继续？
+present_43,武器,Weapons,武器
+present_44,売却完了,Sell,出售成功
+present_45,%sを売却,Sell %s,已售出%s
+present_46,%sを倉庫に移動,Stash %s,转移%s至仓库
+present_47,売却,Sell,出售
+present_48,移動,Move,转移
+present_49,倉庫に移動,Move to Stash,转移至仓库
+present_5,現在のキャラ数,Current Characters Held,当前人物总数
+present_51,グラブルコイン,Granblue Coins,Granblue Coins
+present_52,モバコイン,MobaCoin,MobaCoin
+present_53,ショップへ,Shop,前往商店
+present_54,移動先倉庫選択,Move to Stash,选择目标仓库
+present_55,選択した倉庫内がいっぱいのため、<br>移動できません。,The stash you selected is full.<br>Select another one.,该仓库已满，转移失败
+present_56,移動完了,Stash,转移成功
+present_57,武器,weapons,武器
+present_58,召喚石,summons,召唤石
+present_59,スタンプ,Stickers,表情
+present_6,%s人,%s,
+present_60,リンクス交換チケット,Links Pick Ticket,
+present_7,所持数オーバー,Too many items,超过所持上限
+present_8,プレゼント受取,Item Pickup,收取礼物
+present_9,プレゼント受取不可,Item Pickup,无法收取礼物
+present_arcarum_1,アーカルムの転世,Arcarum,阿尔卡那的转世
+present_coin_1,,GREE Coin,GREE Coin
+present_do_1,ディフェンドオーダーTOP,Defense Order,
+present_do_2,防衛勲功交換,Trade Shields,
+present_new_filter_1,特殊,Filtered,
+profile_1,挨拶,Message Board,留言板
+profile_10,プレイヤー名変更,Player Name Change,变更昵称
+profile_100,Twitterに投稿することでAP・BPが回復します。,Post to Twitter to recover AP and EP.,分享至推特可回复AP与BP。
+profile_101,投稿によるAP・BPの回復は、1日1回までとなります。<br>回数制限は毎朝AM5:00にリセットされます。,You can post to Twitter to restore AP and EP<br>once daily from 5 a.m. (JST).,推特分享回复AP·BP一日仅限一次。<br>每日AM5：00（GMT+9）重置。
+profile_102,<br>AP・BPはMAXですが投稿しますか？,<br>Your AP and EP are full. Tweet anyway?,您的AP·BP已满，是否继续投稿？
+profile_103,Twitter投稿,Post to Twitter,分享至推特
+profile_104,Twitterに投稿しました。,The tweet was posted to Twitter.,已分享至Twitter
+profile_105,Twitter投稿により<br>AP・BPが回復しました。,Your AP and EP have recovered.,AP·BP已回复。
+profile_106,送信完了,Post to Twitter,已分享
+profile_107,宝晶原石を使う,Use origin crystals,使用宝晶原石
+profile_108,正しく数を入力してください。,Enter the correct number.,请输入正确数值。
+profile_109,1以上の数を入力してください。,Enter a number higher than 0.,请输入1以上的数值。
+profile_11,プレイヤー名を変更しました,You changed your name.,已变更昵称
+profile_110,所持数より多く入力されています。,You entered a number higher than the number of crystals you have.,您输入的数值大于所持数
+profile_111,確認,Skills,确认
+profile_112,入団待ち,Applicants,入团申请
+profile_113,入団を本当に拒否しますか？,Dismiss this scout request?,是否拒绝申请？
+profile_114,入団申請,Apply,入团申请
+profile_115,入団申請依頼を拒否しました。,Dismissed this player's application to your crew.,您已拒绝该入团申请。
+profile_116,輝き詳細情報,Pendant Details,
+profile_117,挨拶,Message Board,留言板
+profile_118,宝晶原石を %s 個使用します。<br><span class='txt-notice'>宝晶原石を使用すると<br>相手プレイヤーに宝晶石が生まれます。</span><br>よろしいですか？,You are about to use %s origin crystal to give another player crystals. Proceed?,是否使用 %s 个宝晶原石？<br><span class='txt-notice'>使用宝晶原石后<br>对方玩家将获得宝晶石。</span><br>是否继续？
+profile_119,戦,PWR,战
+profile_12,誕生日設定,Date of Birth,生日设置
+profile_120,攻,ATK,
+profile_121,Lv,Lvl,
+profile_122,H,HP,
+profile_123,Error Code: %s<br>%s,Error Code: %s<br>%s,
+profile_124,性別設定,Gender,性别设置
+profile_18,固定召喚石選択,Support Summon,支援召唤石选择
+profile_19,回想,Events,
+profile_2,削除確認,Message Board,删除确认
+profile_26,召喚石設定,Support Summon,召唤石设置
+profile_27,プロフィール,Profile,个人资料
+profile_28,フリー固定召喚石,Misc. Support Summon,任意属性支援召唤石
+profile_29,火属性固定召喚石,Fire Support Summon,火属性支援召唤石
+profile_3,削除完了,Message Board,已删除
+profile_30,水属性固定召喚石,Water Support Summon,水属性支援召唤石
+profile_31,土属性固定召喚石,Earth Support Summon,土属性支援召唤石
+profile_32,風属性固定召喚石,Wind Support Summon,风属性支援召唤石
+profile_33,光属性固定召喚石,Light Support Summon,光属性支援召唤石
+profile_34,闇属性固定召喚石,Dark Support Summon,暗属性支援召唤石
+profile_35,%s<br>を設定しました。,<br>%s was selected.,%s<br>已设置。
+profile_36,<span class='txt-attr%s'></span>に設定されていた<br>サポーター召喚石の固定を解除しました。,<span class='txt-attr%s'></span> support summon was removed.,<span class='txt-attr%s'></span>支援召唤石已解除。
+profile_37,フリーに設定されていた<br>サポーター召喚石の固定を解除しました。,Misc. support summon was removed.,任意属性支援召唤石已解除
+profile_38,コメント編集,Edit Message,输入评价
+profile_39,コメントが未入力です。,Type a message,未输入评价
+profile_4,削除しました。,Message was deleted.,已删除
+profile_40,コメントは30文字までです。,Messages can be up to 30 characters.,请输入30字以内的文字。
+profile_41,禁止ワードが含まれています。,This message is invalid.,含有敏感词
+profile_42,武器,Weapons,武器
+profile_43,装備中のメイン武器がありません。,You don't have a main weapon equipped.,您没有装备主手武器
+profile_44,コメントを入力してください。,Type a message.,请输入信息
+profile_45,30文字以内で入力してください。,Messages can be up to 30 characters.,请输入30字以内的文字。
+profile_46,送信完了,Message,已发送
+profile_47,挨拶を送りました。,Message was sent.,留言已发送
+profile_48,禁止ワードが含まれています。,This message is invalid.,含有敏感词
+profile_49,挨拶,Message Board,留言板
+profile_5,削除失敗,Message Board,删除失败
+profile_50,挨拶(スタンプ),Stickers,留言（表情）
+profile_51,スタンプを送りました。,Sticker was sent.,表情已发送
+profile_52,申請中,Pending,申请中
+profile_53,%s<br><br>このプレイヤーへの申請を取り消しますか？,%s<br><br>Cancel this friend request?,%s<br><br>取消申请此玩家为好友吗？
+profile_54,申請を取り消しました。,The friend request was cancelled.,申请已取消
+profile_55,申請の取り消しに失敗しました。,Request couldn't be cancelled.,取消申请失败
+profile_56,フレンド申請,Friend Request,好友申请
+profile_57,申請取り消し,Cancel Request,取消申请
+profile_58,%s さんからの、<br>フレンド申請を本当に却下しますか？,Decline friend request from %s?,是否拒绝%s的好友申请？
+profile_59,フレンド申請を却下しました。,Friend request declined.,已拒绝
+profile_6,削除できませんでした。,Message can't be deleted.,删除失败
+profile_60,フレンド申請の却下に失敗しました。,Friend request couldn't be declined.,取消好友申请失败
+profile_61,未承認,Pending,未通过
+profile_62,%s さんには<br><br>これ以上フレンド登録できません！,%s<br><br> can't be added. Your friend list is full.,您的好友人数已满！
+profile_63,フレンド解除,Unfriend,删除好友
+profile_64,登録完了,Friends,已添加为好友
+profile_65,%s さんを<br><br>フレンド登録しました！,You added %s<br><br>as a friend.,已添加%s为好友！
+profile_66,本当にフレンドを解除しますか？,This player will be unfriended.,确认删除该好友？
+profile_67,フレンドを解除しました。,Player was unfriended.,已删除
+profile_68,フレンドの解除に失敗しました。,Player couldn't be unfriended.,删除失败
+profile_69,団員スカウト,Scout,邀请入团
+profile_7,称号・名前変更,Trophies and Name Change,变更称号·昵称
+profile_70,%sさんをスカウトしました。,You scouted %s.,已邀请%s入团。
+profile_71,スカウト取り下げ,Cancel,取消入团邀请
+profile_72,このプレイヤーは、<br>第4章 をクリアしていないため、<br>スカウトできません。,This player can't be<br>scouted because they<br>haven't cleared chapter four yet.,该玩家未通关第4章，无法邀请。
+profile_73,団員人数が上限に達しているため、<br>スカウトできませんでした。<br><br>団員を解雇するか、<br>スカウトを取り下げてください。,This player can't be scouted because<br>your crew is full. Either remove a crew<br>member or cancel scouting.,团员人数已满，邀请失败。请移除团员，或取消本次邀请。
+profile_74,人数上限です,Scout,人数已达上限
+profile_75,現在の役職が変更されたため、<br>スカウトできませんでした<br><br>騎空団TOPへ戻ります。,You can't scout because your position<br>in the crew has changed.<br>The Crew screen will now appear.,您的职位发生改变，无法发送邀请。返回骑空团首页。
+profile_76,スカウトできません,Scout,邀请失败
+profile_77,既にスカウト済みです。,has already been scouted.,您已向该玩家发出过邀请。
+profile_78,現在他の騎空団からスカウトされているためスカウトできません。<br><br>時間を置いてもう一度スカウトしてください。,has already tried to scout this player. Try again later.,该玩家已被其他骑空团邀请。<br><br>请稍后再试。
+profile_79,既に入団待ち状態です。,has already been scouted.,您已向该玩家发出过邀请。
+profile_8,何も入力されていません。,You haven't typed anything.,输入为空。
+profile_80,現在他の騎空団の入団待ち状態です。,has already been sent a scout request.,该玩家已被其他骑空团邀请。
+profile_81,既に同じ騎空団に所属しています。,is already in your crew.,该玩家已在您的骑空团。
+profile_82,同じ騎空団に入団申請を出しています。,is already in your crew.,该玩家已在您的骑空团。
+profile_83,スカウトできません。<br><br>時間を置いてもう一度スカウトしてください。,Unable to scout.<br><br>Please try again at a later time.,邀请失败。<br><br>请稍后再试。
+profile_84,コメントを入力してください。,Type a message.,请输入信息。
+profile_85,団員スカウト,Scout,邀请入团
+profile_86,このメッセージを送り、スカウトしますか？,Send this player a message to scout them?,是否发送该留言，邀请该玩家入团？
+profile_87,スカウト,Scout,邀请
+profile_88,このプレイヤーへのスカウトを取り下げますか？,Cancel scouting this player?,是否取消邀请该玩家？
+profile_89,騎空団にスカウト,Scout,邀请入团
+profile_9,新しい名前が変更前の名前と同じです。,This is the same as your previous name.,新昵称与就昵称相同。
+profile_90,削除確認,Message Board,删除确认
+profile_91,削除完了,Message Board,删除成功
+profile_92,削除しました。,Message was deleted.,已删除。
+profile_93,削除失敗,Message Board,删除失败
+profile_94,削除できませんでした。,Message can't be deleted.,删除失败
+profile_95,パソコンからのご利用について,Play on a Computer,关于电脑端的使用
+profile_96,Twitter連携,Link Twitter Account,绑定Twitter
+profile_97,認証完了,Link Twitter Account,绑定成功
+profile_98,Twitterとの連携を認証しました。,Your Granblue Fantasy account and Twitter account are now linked.,您已绑定推特账号。
+profile_99,%sさんに<br>申請しました。,You sent a friend request to<br>%s.,已向%s发出好友申请。
+profile_pushed_1,コメントは45文字までです。,Messages can be up to 45 characters.,请输入45字以内的信息。
+profile_skycompass_1,グラパスと連携する,グラパスと連携する,绑定GranblueSkyCompass
+quest_1,マルチバトル一覧,Raids,副本列表
+quest_10,クエスト開始条件,Quest,任务开始条件
+quest_100,回数制限に達しているため<br>このクエストを開始することが出来ません。,You have already played this quest as many times as you can.,进行次数已达上限，任务无法开始。
+quest_101,回数制限に達しているため<br>このクエストを開始することが出来ません。<br><br>回数制限は毎日AM5:00に<br>リセットされます。,进行次数已达上限，任务无法开始。<br>每日AM5：00（GMT+9）重置。You have already played this quest<br>as many times as you can. Try again<br>at 5 a.m. (JST).,
+quest_102,このクエストを開始するには<br>%sルピが必要です。,"To start this quest, you<br> need %s more rupies.",进行此任务需要消%s卢比。
+quest_103,"所持ルピ ","Held: ","所持卢比 "
+quest_104,このクエストはあと%s回挑戦できます。,This quest can be played %s more time.,这个任务还能进行%s次
+quest_105,クエスト再開,Resume Quests,继续任务
+quest_106,離脱する,Retreat,离开
+quest_107,撤退確認,Retreat,撤退确认
+quest_108,離脱確認,Retreat,离开确认
+quest_109,進行中のクエストから撤退しました。,You retreated from the quest.,已从当前任务撤退
+quest_11,サポーター選択,Select a Summon,选择支援召唤石
+quest_110,クエスト離脱,Retreat,离开任务
+quest_111,進行中のクエストから離脱しました。,You retreated from the quest.,已离开当前任务
+quest_112,終了しているマルチバトルです。<br>マイページに戻ります。,This raid battle has already ended. The Home screen will now appear.,该多人战斗已结束，返回主页。
+quest_113,マルチバトルの制限時間が切れています。<br>マイページに戻ります。,This raid battle has run out of time.<br>The Home screen will now appear.,该多人战斗已超时，返回主页。
+quest_114,バトルポイントが足りません。<br>マイページに戻ります。,You don't have enough EP.<br>The Home screen will now appear.,BP不足，返回主页。
+quest_115,このバトルは参加可能人数上限に達しています。<br>マイページに戻ります。,This raid battle is already full.<br>The Home screen will now appear.,参战人数已达上限，返回主页。
+quest_116,TGS限定イベントに<br>チェックインしていないため<br>参加できません。,"This event is only playable at the Tokyo Game Show.<br>You haven't checked in, so you can't play.",东京游戏展限定任务。您未参加东京游戏展，无法开始任务。
+quest_117,不明なエラーです。<br>マイページに戻ります。,An unknown issue has occurred.<br>The Home screen will now appear.,出现未知错误，返回主页。
+quest_118,編成,Party,队伍
+quest_119,必要なRankに達していないため<br>参戦出来ません。,You can't play this battle. Your rank isn't high enough.,等级不足<br>无法加入战斗。
+quest_12,&lt;禁止条件&gt;,&lt;Quest&gt;,
+quest_120,未確認バトル,Pending Battles,未确认战斗
+quest_121,バトル履歴,Battle Log,战斗履历
+quest_124,剣,,剑
+quest_125,短剣,,短剑
+quest_126,槍,,枪
+quest_129,銃,,铳
+quest_13,以下の属性キャラがパーティに<br>編成されているため、このクエストを<br>開始することが出来ません。,The following elements can't<br>be used on this quest. Edit<br>your party and try again.,这个任务不能使用以下属性的角色。请编辑队伍后再试。
+quest_130,格闘,,格斗
+quest_132,楽器,,乐器
+quest_134,セットを所持していません,Save Party,无预设
+quest_135,CAUTION!,Quest,
+quest_136,1度参戦したのでこれ以上は<br>参戦することができません。,,您已进行过该任务，无法再次进行。
+quest_137,以下の条件を満たしていないため、<br>このクエストを開始することができません。,This quest can be played %s more times.,以下条件未满足，任务无法开始。
+quest_138,BP,EP,
+quest_139,このクエストを開始するには<br>%sルピが必要です。,"To start this quest, you<br> need %s more rupie.",进行此任务需要消%s卢比。
+quest_14,%s属性キャラ<br>,%sParty,%s属性人物
+quest_140,このクエストはあと%s回挑戦できます。,This quest can be played %s more times.,这个任务还能挑战 %s 次。
+quest_141,敵の弱点属性について,Elemental Damage,敌方弱点属性
+quest_142,クエスト撤退,Retreat,撤退
+quest_143,開始条件を満たしていないため<br>このクエストを開始することが出来ません。,First satisfy the requirements to start this quest.,未满足开始条件，无法开始任务。
+quest_15,以下のキャラがパーティに<br>編成されているため、このクエストを<br>開始することが出来ません。,The following characters can't<br>be used on this quest. Edit<br>your party and try again.,以下人物在队伍中，任务无法开始。
+quest_16,以下の指定属性以外のキャラが<br>編成されているため、このクエストを<br>開始することが出来ません。,Only the following elements<br>can be used on this quest.<br>Edit your party and try again.,以下属性以外的人物在队伍中，任务无法开始。
+quest_17,選択中のパーティにGuestキャラが編成されているため、このクエストを開始することができません。<br><br>進行中のクエストをクリアまたは撤退することで、開始できるようになります。,You play can't this battle. There is a guest character in your party. First clear this quest or retreat.,该队伍含有Guest人物，无法开始任务。<br><br>请完成进行中的任务或者撤退后开始。
+quest_18,以下のキャラがパーティに<br>編成されていないため、このクエストを<br>開始することが出来ません。,The following characters need<br>to be used on this quest. Edit<br>your party and try again.,以下人物不在队伍中，任务无法开始。
+quest_19,以下の指定レアリティの条件を<br>満たしていないため、このクエストを<br>開始することが出来ません。,The following rarity requirements<br>aren't being met. Edit<br>your party and try again.,队伍未满足以下稀有度条件，任务无法开始。
+quest_2,古戦場の魔物のお出ましだぁ！<br>騎空団の仲間と協力して倒そうぜぇ！,It's the Unite and Fight monsters!<br>Work with your crew to destroy them!,古战场魔兽出现！和骑空团成员一起打败它们吧！
+quest_20,以下の指定種族の条件を<br>満たしていないため、このクエストを<br>開始することが出来ません。,You can't play this quest. You must include the following character types:,队伍未满足以下指定种族条件，任务无法开始。
+quest_21,※初回クリア時まで<br>,(Until it's cleared once.),※初次通关后解除限制
+quest_22,&lt;開始条件&gt;,&lt;Quest&gt;,&lt;开始条件&gt
+quest_23,以下のクエスト開始条件を<br>満たしていないため、このクエストを<br>開始することが出来ません。,You don't meet the<br>requirements to play<br>this quest.,未满足开始条件，无法开始任务。
+quest_24,必要なアイテムが不足しているため<br>このクエストを開始することが出来ません。,You don't have enough of the required<br>items to play this quest.,所需道具不足，任务无法开始。
+quest_25,マルチバトルで使用している編成は<br>チャレンジクエストでは使用できません。,You raid quest party can't be<br>used in challenge battles.,挑战任务无法使用多人战斗队伍。
+quest_26,おすすめ編成,Auto Select,自动编队
+quest_27,おまかせ編成完了,Auto Select,自动编队
+quest_28,おまかせ編成しました。,You used auto select to form a party!,自动编队完成
+quest_29,パーティ編成変更,Party,编队变更
+quest_3,消費なし,None Used,无消耗
+quest_30,現在のパーティ編成を変更しますか？,Change your party members?,是否修改当前队伍？
+quest_31,APが足りません,Not Enough AP,AP 不足
+quest_32,クエストリスト,Quest,任务列表
+quest_33,AP使用確認,Use AP,使用 AP
+quest_37,サポーターの召喚石が変更されました。<br>再度サポーターを選択してください。,This player is loaning another summon now.<br>Select another  summon.,您选择的支援召唤石已被更换。请重新选择。
+quest_38,最大AP不足,Not Enough AP,最大AP不足
+quest_39,クエストを実行するためのAPが現在の<br>最大APを上回っています。<br><br>APはRankを上げることで最大値が<br>上昇します。,This quest requires more AP than you can have yet.<br>Raise your rank to get more AP.,该任务消耗的AP超过现AP最大值。AP最大值会随等级提升而增加。
+quest_4,未確認のバトルはありません。,There aren't any pending battles now.,无未确认结果的战斗。
+quest_40,おまかせ編成確認,Auto Select,自动组队确认
+quest_41,このクエストから撤退しました。,You withdrew from this quest.<br><br>,您已从当前任务中撤退。
+quest_42,<br><br>未クリアクエストのため、<br>AP%sが返却されました。<br><br>AP: %s→<span class='txt-after-ap'>%s</span>,<br><br>This is an uncleared quest. <br>AP will be returned: %s<br><br>%s&gt;&gt;<span class='txt-after-ap'>%s</span>,<br><br>任务失败，返还%sAP。
+quest_43,クエスト撤退確認,Quest,撤退确认
+quest_44,進行中のクエストがあります。<br>島を移動するには<br>進行中のクエストから撤退する必要があります。<br><br>クエストから撤退しますか？,%s is in progress. You must first retreat before travelling to another island.,您有进行中的任务。前往其他岛屿需要先从当前任务中撤退。<br><br>是否撤退？
+quest_45,カジノ艇,Casino Liner,移动赌场
+quest_46,クエスト撤退,Retreat,撤退
+quest_47,進行中のクエストから撤退しました。<br><br>未クリアクエストのため、<br>AP%sが返却されました。<br><br>AP: %s→<span class='txt-after-ap'>%s</span>,You withdrew from a quest in progress.<br><br>This is an uncleared quest. <br>AP will be returned: %s<br><br>%s&gt;&gt;<span class='txt-after-ap'>%s</span>,已从当前任务中撤退。<br><br>任务失败，返还%sAP。
+quest_48,%sが足りません,Not enough %s,%s不足。
+quest_49,使用個数確認,Use Item,使用个数确认
+quest_5,バトル履歴はありません。,There aren't any battles here now.,无战斗履历
+quest_50,アイテム使用完了,Use Item,道具已使用
+quest_51,%s時間%s分,%sh %sm %ss,%s小时%s分
+quest_52,%s分,%sm,%s分
+quest_53,アイテム使用,Use Item,使用道具
+quest_54,時間経過により%sが回復したため<br>アイテムは消費されませんでした。,"%s recovered, so<br>you couldn't use this item.",%s已回复。道具未消耗。
+quest_55,%s不足,Not enough %s,
+quest_56,交換確認,Trade Treasure,兑换确认
+quest_57,交換エラー,Trade Treasure,兑换错误
+quest_58,交換できませんでした。,Technical issues are occurring. Treasure couldn't be traded.,兑换失败
+quest_59,交換完了,Trade Treasure,兑换成功
+quest_6,マルチバトル,Raids,多人战斗
+quest_60,%s個交換しました。,You traded away %s.,已兑换%s个。
+quest_61,第2章クリアでラカムが仲間に！,Clear chapter 2 to get Rackam!,通关第2章后，拉卡姆将加入队伍！
+quest_62,「想いは陽炎の如く」,The Veil Is Lifted,
+quest_63,「征野の邂逅」,A Chance Encounter,
+quest_64,「薔薇散る剣閃」,Rose-Petal Glint,
+quest_65,お気に入りが登録されていません,Quests added to your favorites will appear here.,无收藏任务
+quest_66,既にバトルは終了しました。<br>未確認バトルをご確認ください。,This raid battle has ended.<br>Check your pending battles.,战斗已结束。<br>请确认尚未确认结果的战斗。
+quest_67,クエストid:%s<br>レベル:%s<br>イメージ:%s<br>レベル:%s<br>AP:%s<br>クエスト数:%s<br>クリアクエスト数:%s<br>報酬タイプ:%s,Quest ID:%s<br>Lvl:%s<br>Image:%s<br>Lvl:%s<br>AP:%s<br>Quests:%s<br>Quests Cleared:%s<br>Reward:%s,任务id:%s<br>等级:%s<br>イメージ:%s<br>等级:%s<br>AP:%s<br>任务数:%s<br>完成任务数:%s<br>奖励类型:%s
+quest_68,%sへの挑戦,%s,向%s发起挑战
+quest_69,以下のクエスト開始条件を<br>満たしていないため、このクエストを<br>開始することが出来ません。<br><br><div class='ng'><開始条件>,You don't meet the<br>requirements to play<br>this quest.<br><br><div class='ng'>Requirements:,未满足以下开始条件，无法开始任务：<br><br><div class='ng'><開始条件>
+quest_7,救援できるマルチバトルは最大3つまでです。,You can only provide backup in up to three raid battles at once.,您最多能同时参加3场多人战斗。
+quest_70,アイテム使用確認,Use Item,使用道具确认
+quest_71,バトルのないクエストのため、<br>イベントスキップ設定をONにしている状態で<br>クエストを開始することが出来ません。<br><br>イベントスキップ設定をOFFにすることで<br>クエストを開始することが出来ます。,This quest does not have<br>a battle part. Turn off<br>Skip Cutscenes to start.,当前任务无战斗，并且已设置默认跳过剧情，因此无法开始任务。
+quest_72,クエスト解放,Chapter Unlocked!,任务解放
+quest_73,閉じる,Close,关闭
+quest_74,メインクエスト,Main Quest,主线任务
+quest_75,フリークエスト,Free Quest,支线任务
+quest_76,キャラクタークエスト,Character Quest,人物剧情任务
+quest_77,マラソンクエスト,Marathon Quest,多连任务
+quest_79,お気に入りクエスト解除,Favorite Quests,取消收藏
+quest_8,未確認バトルが%s件以上あるため、<br>クエストの開始・マルチバトルへの<br>参加ができません。<br><br>未確認バトルを確認して下さい。,There are more than %s pending battles.<br>You can't start quests or play raid battles now.<br><br>Check your pending battles.,您有%s场战斗尚未确认结果，无法开始新任务·多人战斗。
+quest_80,「%s」<br><br>このクエストをお気に入りから外しますか？,Remove %s from your favorites?,「%s」<br><br>是否取消收藏此任务？
+quest_81,マルチバトル撤退,Raid Battle,从多人战斗中撤退
+quest_82,マルチバトルから撤退しました。,You retreated from the raid battle.,已从多人战斗中撤退。
+quest_83,クエスト[%s]の有効期限が切れました,%s is no longer available.,	任务[%s]已超时
+quest_84,アサルトタイムについて,About Strike Time,关于突击时间
+quest_85,対象クエスト,Quests,目标任务
+quest_86,新キャラ獲得条件,Unlock Character,新人物获得条件
+quest_87,騎空団とは？,About Crews,关于骑空团
+quest_88,時限クエスト出現,Limited-Time Quests,限时任务出现
+quest_89,エクストラクエスト,Special Quest,特别任务
+quest_9,効果:味方全員の攻撃力100%UP,Effect: 100% boost to alllies' ATK,效果：全体攻击力100%UP
+quest_90,進行中のマルチバトルがあるので実行できません。,You are currently taking part in a raid battle. You can't play this quest.,您有进行中的多人战斗，无法开始此任务。
+quest_91,フェイトエピソード,Fate Episodes,人物剧情
+quest_92,フェイトエピソード解放条件,Fate Episodes,人物剧情解放条件
+quest_93,次の条件を満たすことで<br>フェイトエピソードが解放されます。<br><br><span class='txt-condition'>「%s」クリア</span>,Complete these requirements<br>to unlock this fate episode:<br><br><span class='txt-condition'>Clear %s</span>,该人物剧情解放条件：<br><br><span class='txt-condition'>「%s」完成</span>
+quest_95,<div class='txt-ng'>&lt;禁止条件&gt;</div><div class='txt-ng-list'>%s</div>,<div class='txt-ng'>&lt;Quest&gt;</div><div class='txt-ng-list'>%s</div>,
+quest_96,ワールド,World,世界
+quest_97,クエストクリア,Quest Clear,任务完成
+quest_98,獲得アイテムを清算してクエストを終了します。,"The items that you get will be totalled, and the quest will end.",清算获得的道具并结束任务。
+quest_99,Rank%sに達していないため<br>このクエストを開始することが出来ません。,Only players rank %s or higher can start this quest.,等级不满Rank%s，无法开始此任务。
+quest_abstract_1,クエスト確認,Quest,任务确认
+quest_abstract_2,APを%s消費してクエストを開始します。<br>特別な編成で挑むクエストのため<br>サポーター召喚石の選択はありません。,Use %s AP to start this quest?<br>Support summons aren't available here.,该任务将消耗%sAP。<br>您将以特殊队伍挑战该任务，无法选择支援召唤石。
+quest_abstract_3,AP%sを消費してクエストを開始します。<br>バトルがないクエストのため<br>サポーター召喚石の選択はありません。,There's no battle in this %s-AP quest.<br>No support summon is used.,该任务将消耗%sAP。<br>因任务中无战斗环节，无法选择支援召唤石。
+quest_adventure_1,スキップ確認,Skip Side-Scrolling Scene,跳过
+quest_adventure_2,アドベンチャーパートをスキップしますか？<br><span class='color-yellow'>スキップしてもアイテムは入手できます。</span>,You are about to skip this side-scrolling scene.<br><span class='color-yellow'>You can still receive items you might pick up.</span>,确认跳过冒险环节吗？<br><span class='color-yellow'>依旧能够获得道具。</span>
+quest_adventure_3,アイテム入手,Items Picked Up,获得道具
+quest_airspace_guide_1,空域間の移動,Travel Skydoms,切换空域
+quest_assist_pop_1,救援依頼表示設定,Battle Filter,筛选救援请求
+quest_assist_pop_2,イベント「%s」を表示します<br><br>※非表示に戻すことは出来ません,You're about to unhide requests from the %s event.<br><br>This can't be undone.,显示活动「%s」的任务。br><br>※该操作无法撤销。
+quest_do_1,防衛指令確認,Your Defense Order,
+quest_do_2,CAUTION!,Defense Order,
+quest_extra_1,エクストラクエスト出現時間終了,Special Quest,任务出现时间结束
+quest_extra_2,チャレンジクエスト,Challenge Quest,挑战任务
+quest_limitation_job_1,以下の条件を満たしていないため、<br>このクエストを開始することができません。,,未满足以下开始条件，无法开始任务。
+quest_limitation_summon_1,以下の召喚石がパーティに<br>編成されているため、このクエストを<br>開始することが出来ません。,The following summons can't<br>be used on this quest.<br>Edit your party and try again.,以下召唤石在队伍中，无法参加任务。请整理队伍后重试。
+quest_limitation_summon_2,&lt;禁止条件&gt;,Remove these summons from your party:,
+quest_list_sub_1,%sへの挑戦,,
+quest_list_sub_2,"以下のクエスト開始条件を<br>満たしていないため、このクエストを<br>開始することが出来ません。<br><br><div class=ng""><開始条件>""",,
+quest_list_sub_3,バトルのないクエストのため、<br>イベントスキップ設定をONにしている状態で<br>クエストを開始することが出来ません。<br><br>イベントスキップ設定をOFFにすることで<br>クエストを開始することが出来ます。,,
+quest_list_sub_6,アサルトタイムについて,,
+quest_list_sub_7,イベントクエスト解放,,
+quest_list_sub_8,マルチバトル解放,,
+quest_list_sub_9,信頼度エピソード,,
+quest_lobby_pop_1,クエストを開始できません,Quest,无法开始任务
+quest_no_skill,このクエストでは、装備中の武器のスキル、召喚石の加護効果が適用されない特殊制限バトルになります。,Weapon skills and summon auras don't take effect in this quest.,该任务中，装备武器技能以及召唤石加护效果无效。
+quest_numbers_fate_1,このクエストでは、装備中の武器のスキル、召喚石の加護効果、騎空団サポートが適用されない特殊制限バトルになります。,"Weapon skills, summon auras, and crew skills don't take effect in this quest.",该任务中，装备武器技能、召唤石加护效果、骑空团支援效果无效。
+quest_solo_multi_pop_1,イベントマルチバトル,Event Raid Battles,活动多人战斗
+quest_start_numbers_name_1,メイン武器に「%s」を装備,Equip %s as your main weapon to start this quest.,装备主手武器「%s」
+quest_supporter_5,風,wind,风
+quest_supporter_7,闇,dark,暗
+quest_supporter_confirm_1,認証完了,Verification Complete,认证成功
+quest_supporter_confirm_2,ご協力ありがとうございました。,Thank you for your cooperation.,感谢您的配合。
+quest_teamraid_supporter_1,イベントTOPへ,Event Home,活动主页
+quest_teamraid_supporter_2,グラッジチャンク設置上限数が%s個に設定されているため、%sに挑戦することができません。,You can't fight %s when your bait chunk cap is set to %s.,您当前的肉块上限数量为%s个，无法挑战%s。
+quest_teamraid_supporter_3,チャンクキャンドル設置上限数が%s個に設定されているため、%sに挑戦することができません。,You can't fight %s when your eerie candle cap is set to %s.,您当前的肉块上限数量为%s个，无法挑战%s。
+quest_teamraid_supporter_4,メメントチャンク設置上限数が%s個に設定されているため、%sに挑戦することができません。,You can't fight %s when your snow clone cap is set to %s.,您当前的肉块上限数量为%s个，无法挑战%s。
+quest_use_ceiling_1,蒼光の輝石が足りません。,You don't have enough cerulean stones.,您的苍光辉石不足。
+quest_without_summon_1,AP%sを消費してクエストを開始します。<br>召喚石使用不可のクエストのため<br>サポーター召喚石の選択はありません。,Use %s AP to start this quest? No summons can be used here.,该任务将消耗%sAP。<br>任务中不可使用召唤石，无法选择支援召唤石。
+rai_56,<br>楽器や歌による攻撃でゲージが大幅DOWN！,,<br>通过乐器或歌声发动的攻击能使Mode条大幅下降！
+raid_10,アビリティ効果,Skill Effect,技能效果
+raid_11,ブーストアイテム入手,Upgraders,获得经验道具
+raid_12,読み込み中,Loading...,读取中……
+raid_13,アイテムを使用,Use Item,使用道具
+raid_14,使用できるメンバーがいません。,This can't be used on any members.,没有可以使用该道具的成员
+raid_15,バトルメニュー,Battle Menu,战斗菜单
+raid_16,救援依頼,Request Backup,救援请求
+raid_17,救援依頼を送りました。,You requested backup.,救援请求已发送
+raid_18,マイページに戻る,Home,返回主页
+raid_19,イベントTOPに戻る,Event,返回活动主页
+raid_2,アイテム選択,Select Items,选择道具
+raid_20,撤退確認,Retreat,撤退确认
+raid_21,撤退,Retreat,撤退
+raid_22,離脱,Leave,离开
+raid_23,アイテム使用確認,Use Item,道具使用
+raid_24,アイテム使用不可,This item can't be used.,无法使用该道具
+raid_25,閉じる,Close,关闭
+raid_26,撤退する,Retreat,撤退
+raid_27,参戦メンバーの応援,Salute Participants,给战斗中的队友加油
+raid_28,応援する,Salute,应援
+raid_29,応援,Salute,应援
+raid_3,なし,None,无
+raid_30,コンティニュー,Continue,继续
+raid_31,交換確認,Trade Treasure,兑换确认
+raid_32,交換エラー,Trade Treasure,兑换错误
+raid_33,交換できませんでした。,Technical issues are occurring. Treasure couldn't be traded.,兑换失败
+raid_34,交換完了,Trade Treasure,兑换成功
+raid_35,%s個交換しました。,Traded for %s.,已兑换%s个
+raid_36,マルチバトルでも有効,This is usable in raid battles.,多人战斗中也能使用
+raid_37,"使用間隔: ","Cooldown:  ","使用间隔: "
+raid_38,"効果時間: ","Lasts:  ","效果时间: "
+raid_39,ターン," turn",回合
+raid_4,マルチバトル一覧,Raid,多人战斗列表
+raid_40,秒," sec",秒
+raid_41,キャラクターを選択してください。,Select a Character,选择人物
+raid_42,フレンドでないため加護は発動しません,You are not friends. The aura won't take effect.,非好友的支援召唤石，无法发动加护。
+raid_43,メイン召喚でないため加護は発動しません,This isn't your main summon. The aura won't take effect.,非主召唤，无法发动加护
+raid_44,召喚不可,Summon,无法召唤
+raid_45,主人公が倒れたため召喚できません。,You have been knocked out. You can't use summons.,主人公已倒下，无法召唤
+raid_46,注意事項,Notes,注意事项
+raid_47,これ以上救援依頼を出せません。,You can't request any more backup.,无法再发送救援请求。
+raid_48,スタンプ,Stickers,表情
+raid_49,チャット,Chat,聊天
+raid_50,マルチバトルログ,Raid Log,战斗日志
+raid_51,敵が<span class'red'>OVERDRIVE</span>した！,"A foe's <span class""red"">overdrive</span> took effect!",敌人<span class'red'>OVERDRIVE</span>！
+raid_52,敵が<span class'yellow'>BREAK</span>した！,"A foe's <span class""yellow"">break</span> took effect!",敌人<span class'yellow'>BREAK</span>！
+raid_53,ログがありません,There is nothing here.,无数据。
+raid_54,このバトルは終了しました,This battle has ended.,战斗结束。
+raid_55,敵が倒されたため、<br>このバトルは終了しました。,This battle has ended.<br>The foe was defeated.,敌人已经倒下，战斗结束。
+raid_56,<br>楽器や歌による攻撃でゲージが大幅DOWN！,<br>Harp and song attacks supercharge the bar!,<br>通过乐器或歌声发动的攻击能使Mode条大幅下降！
+raid_57,<br>発動までのチャージターンが短縮された！,<br>The charge bar now fills in fewer turns!,<br>发动前的缓冲回合数缩短！
+raid_58,オーバードライブ発動！<br>モンスターが強力な技の発動準備に入った！%s%s,Overdrive took effect!<br>The foe is preparing a special attack! %s%s,OVERDRIVE！<br>敌人准备发动强力攻击！
+raid_59,ブレイク発生！<br>モンスターが技を使用できなくなった！<br>さらに味方のダブル・トリプルアタック発動率アップ！,Break took effect!<br>The foe can't use its special attack.<br>Allies' multiattack rate is boosted!,BREAK！<br>敌人无法使用强力攻击！<br>我方DA·TA率UP！
+raid_6,%sがダブルアタック,%s made a double attack.,%s二连击！
+raid_60,召喚不可,Summon,无法召唤
+raid_61,主人公が召喚不可状態<br>のため召喚できません。,You aren't able to use summons now.,主人公当前无法发动召唤。
+raid_62,ブーストアイテム獲得,Power-ups,获得经验道具
+raid_63,クエスト撤退,Retreat,撤退
+raid_64,進行中のクエストから撤退しました。<br><br>未クリアクエストのため、<br>AP%sが返却されました。<br><br>AP: %s→<span class='txt-after-ap'>%s</span>,"You retreated from the quest.<br><br>It hasn't been cleared yet, so %s AP were returned to you.<br><br>AP: %s→<span class='txt-after-ap'>%s</span>",已从当前任务中撤退。<br><br>任务失败，返还%sAP。
+raid_65,Twitter投稿,Post to Twitter,分享至推特
+raid_66,Twitter連携,Link Twitter Account,绑定Twitter
+raid_67,Twitterに投稿しました。,The tweet was posted to Twitter.,已分享至Twitter
+raid_68,送信完了,Post to Twitter,已分享
+raid_69,認証完了,Link Twitter Account,绑定成功
+raid_7,%sがトリプルアタック,%s made a triple attack.,%s三连击！
+raid_70,Twitterとの連携を認証しました。,Your Granblue Fantasy account and Twitter account are now linked.,您已绑定推特账号。
+raid_71,次のページへは移動できません,Inaccessible Screen,无法前往下一页
+raid_72,PC版からの移動が制限されているページの為<br>このボタンからのページ移動はできません。,The button you tapped leads to a screen that can't be accessed from a computer.,PC版无法查看此页，点击该按钮无法前往下一页。
+raid_73,%sが発動！<br><span class='yellow'>%s</span>,"%s activated!<br><span class=""yellow"">%s</span>",%s发动！<br><span class='yellow'>%s</span>
+raid_74,回復するメンバーをタッチしてください。,Tap a member to heal.,请点击需要回血的成员。
+raid_75,貢献度,Honors,贡献度
+raid_77,アビリティ使用による獲得%sが上限に達しているため、これ以上%sを獲得できません,You have %s honors. You can't get any more honors from the use of this skill.,技能贡献%s已达上限，无法再获得%s。
+raid_78,ターン," turn",回合
+raid_79,秒," sec",秒
+raid_8,バトルログ,Battle Log,战斗日志
+raid_80,時間切れのため、<br>このバトルは終了しました。,This battle has ended.<br>Time ran out.,任务超时，战斗结束。
+raid_81,発動中のフィールド効果,Active Field Effects,发动中的场地效果。
+raid_82,アビリティ使用,Skill,使用技能
+raid_83,アビリティ使用不可状態のため発動できません,You are debuffed and can't use skills.,当前无法发动技能
+raid_84,アビリティレール,Skill Queue,技能槽
+raid_85,バトルメンバーが変わったため、<br>アビリティレールをリセットしました,Allies changed.<br>Skills have been removed from the queue.,战斗成员改变，技能槽已清空。
+raid_86,HPが最大のため、<br>アビリティを使用できませんでした,Your HP is full.,HP已满，无法使用该技能
+raid_87,アビリティ,Skill,技能
+raid_88,%sが発動！,%s activated!,%s发动！
+raid_89,使用アビリティの効果が変更されたため、<br>アビリティレールをリセットしました,Skill effects have changed.<br>Skills have been removed from the queue.,技能效果改变，技能槽已清空。
+raid_9,ヒール,Heal,回复
+raid_ability_1,選択中,Selected,选择中
+raid_ability_2,一人目を選択してください,Select the first ally.,请选择第一名成员。
+raid_ability_3,二人目を選択してください,Select the second ally.,请选择第二名成员。
+raid_ability_4,サブメンバーは一人までしか選択できません,You can only select one sub member at a time.,您至多能选择一名替补成员。
+raid_ability_error_revive,復活させるメンバーがいないため、<br>アビリティを使用できませんでした,There are no party members to revive.,无可复活的成员，无法发动技能。
+raid_setting_1,表示・演出設定,Screen,显示·动画设置
+raid_setting_2,救援設定,Backup,救援设置
+raid_setting_3,チャット設定,Chat,聊天设置
+raid_summon_first_call_title,"初回召喚: ","First call: ","初次召唤: "
+raid_summon_first_call_unit,ターン後," turn",回合后
+raid_summon_once,1回だけ召喚可能です,One-time only,只能召唤1次
+raid_trial_1,Tエリクシール,Trial Elixir,T复活药
+raid_trial_2,注意事項,Trial Battles,注意事项
+reset_quest_1,クエスト取り下げ,Cancel Quest,取消任务
+reset_quest_2,設定したクエストを取り下げます。<br>よろしいですか？,You're about to cancel this quest. Proceed?,是否取消当前设置的任务？
+reset_quest_3,クエストを取り下げました。,The quest was cancelled.,任务已取消
+result_1,獲得したアイテムやルピの所持数が上限に達している場合、<br>自動で期限ありプレゼントに送られます。,"If you can't hold any more items or rupies,<br>extras are sent to your crate.",当您所持的道具或卢比数量已达上限，<br>战利品将自动发送至限时礼物列表。
+result_11,」<br>このクエストを登録しますか？<br><br>現在のお気に入り登録数<br>,<br>Favorite this quest?<br><br>Slots filled:<br>,」<br>是否收藏此任务？<br><br>现在的收藏数<br>
+result_12,お気に入り登録確認,Favorite,	添加收藏任务确认
+result_13,お気に入りに登録しました。<br><br>現在のお気に入り登録数<br>,This quest was added to your favorites:<br><br>Slots filled:<br>,收藏成功。<br><br>现在的收藏数<br>
+result_14,Rankアップ,Rank Rose,等级提升
+result_15,Limit Bonus Classアップ,Extended mastery,Limit Bonus UP
+result_16,獲得経験値,EXP Gained,获得经验值
+result_17,奥義：,"Charge Attack: ",奥义：
+result_18,スキル：,"Skill: ",技能：
+result_19,スキル：,"Skill: ",技能：
+result_2,データ取得エラー,Data Loading Error,获取数据失败
+result_20,召喚：,"Call: ",召唤
+result_21,加護：,"Aura: ",加护
+result_22,新アイテム入手,New Loot,获得新道具
+result_23,獲得アイテム,Loot Collected,获得道具
+result_24,マスターボーナス習得,Championship Bonus!,Master Bonus习得
+result_25,Limit Bonus解禁,Extended Mastery Unlocked!,Limit Bonus解放
+result_26,のジョブスキンが<br>,'s class outfit<br>,的职业皮肤
+result_27,変更できるようになりました！<br><br>,can now be changed!<br><br>,可以变更！<br><br>
+result_28,ジョブ詳細画面より変更できます。,Change it on the Class Details screen.,可在职业详情页面设置。
+result_29,スキン変更解禁,Outfits,解锁皮肤变更
+result_3,データの取得ができません。<br>お手数ですがTOPページかマイページから<br>ゲームを再開してください。,Data couldn't be loaded.<br>Please return to the Home screen<br>and try again.,获取数据失败。请返回登录界面或主页重新进入游戏。
+result_30,アビリティ習得,Skills,获得技能
+result_31,イベントアイテム獲得,Event Items,获得活动道具
+result_32,四象の輝き,Four Symbols pendants,四象的光辉
+result_33,イベントアイテム獲得,Event Items,获得活动道具
+result_34,次のバトルへ,Next Battle,前往下一场战斗
+result_35,アビリティ覚醒,Skills,技能觉醒
+result_36,アビリティ獲得,Skills,获得技能
+result_37,サポートアビリティ獲得,Support Skills,获得辅助技能
+result_38,時限クエスト出現,Limited-Time Quests,限时任务出现
+result_39,クエストコンプリート報酬,Completion Loot,任务奖励
+result_4,確認,Communcation Error,确认
+result_40,クエストコンプリート報酬,Completion Loot,任务奖励
+result_41,クエストコンプリート報酬,Completion Loot,任务奖励
+result_42,クエストコンプリート報酬,Completion Loot,任务奖励
+result_43,エピソード解放,Episode Unlocked,人物剧情解放
+result_44,クエストコンプリート報酬,Completion Loot,任务奖励
+result_46,クエストコンプリート報酬,Quest Completion Reward,任务奖励
+result_47,RANK上限解放,Rank Uncapped,等级上限解放
+result_48,デイリーミッション,Daily Missions,每日任务
+result_49,達成報酬,Loot Won,达成奖励
+result_5,通信に問題が発生したため<br>クエスト結果画面を表示できませんでした。<br>経験値や報酬は正常に獲得しています。<br><br>お手数ですがマイページから<br>ゲームを再開してください。,There has been an issue with communicating with the server.<br>The quest results screen couldn't be shown<br>You will still receive EXP and loot.<br><br>Please return to the Home screen<br>and try again.,网络连接出现问题，无法显示任务结果页面。<br>您已正常获得经验值与任务奖励。<br><br>请返回主页重新进入游戏。
+result_50,イベントボーナス,Event Bonus,活动加成
+result_51,未解放のクエストだったため<br>クリア報酬とイベントボーナスは<br>得られませんでした。,"The quest wasn't unlocked.<br>You get no event bonus or<br>rewards for clearing. ",该任务未解放。您未获得通关奖励与活动加成。
+result_52,イベントボーナス,Event Bonus,活动加成
+result_53,称号獲得,Trophy Achieved,获得称号
+result_54,獲得キャラクター,New Characters,获得人物
+result_55,フレンド申請,Friend Request,申请好友
+result_56,フレンド,Friends,好友
+result_57,フレンド申請,Friend Request,申请好友
+result_58,フレンド申請,Friend Request,申请好友
+result_59,フレンド申請,Friend Request,申请好友
+result_6,マイページ,Home,主页
+result_60,フレンド申請を行いました。,You sent a friend request.,好友申请已发送。
+result_61,終了してPP獲得,Quit this quest and get VP?,退出并获得PP
+result_62,終了してPP獲得,Quit this quest and get VP?,退出并获得PP
+result_63,終了してPP獲得,Quit this quest and get VP?,退出并获得PP
+result_64,クエスト終了,End Quest,结束任务
+result_65,イベントTOPへ,Event Home,前往活动主页
+result_66,APが足りません,More AP Needed,AP不足
+result_67,使用個数確認,Use Item,使用个数确认
+result_68,アイテム使用完了,Use Item,道具已使用
+result_7,お気に入り登録確認,Favorite,添加收藏任务确认
+result_70,交換確認,Trade Treasure,兑换确认
+result_71,交換完了,Trade Treasure,兑换成功
+result_72,%s個交換しました。,You traded away %s.,已兑换%s个。
+result_73,報酬受け取り済み,Loot Picked Up,已收取奖励
+result_74,データ取得エラー,Data Loading Error,获取数据失败
+result_75,データの取得ができません。<br>お手数ですがTOPページかマイページから<br>ゲームを再開してください。,Data couldn't be loaded.<br>Please return to the Home screen<br>and try again.,获取数据失败。请返回登录界面或主页重新进入游戏。
+result_76,確認,Communication Error,确认
+result_77,通信に問題が発生したため<br>クエスト結果画面を表示できませんでした。<br>経験値や報酬は正常に獲得しています。<br><br>お手数ですがマイページから<br>ゲームを再開してください。,There has been an issue with communicating with the server.<br>The quest results screen couldn't be shown<br>You will still receive EXP and loot.<br><br>Please return to the Home screen<br>and try again.,网络连接出现问题，无法显示任务结果页面。<br>您已正常获得经验值与任务奖励。<br><br>请返回主页重新进入游戏。
+result_78,マイページ,Home,主页
+result_79,バトル履歴,Battle Log,战斗履历
+result_8,お気に入りの登録数が最大数に達しているため、<br>登録ができませんでした。,Your favorites are full.<br>This quest couldn't be favorited.,收藏数已满，无法添加收藏。
+result_80,ディール対象アイテム獲得,Share Chest Item,获得分配奖励
+result_81,他称号を%s個獲得しました,You got %s other trophy.,获得其他%s个称号
+result_9,お気に入り登録確認,Favorite,添加收藏任务确认
+result_aliza_1,アリーザの一言,Aliza's Advice,亚里莎的建议
+result_auto_custom_1,強化詳細,Airship Upgrade,强化详情
+result_auto_custom_2,使用アイテム,Used Items,使用道具
+result_auto_sell_1,武器 × %s,%s weapon,
+result_auto_sell_2,召喚石 × %s,%s summon,召唤 × %s
+result_auto_sell_3,売却詳細,Details,售出详情
+result_auto_sell_4,売却アイテム,Sold Items,售出道具
+result_get_casinomedal,メダルゲット,De La Fille Found Chips!,获得筹码
+result_get_stone_title,宝晶石獲得,Got Crystals,获得宝晶石
+result_journal_update,ルリアノート,New Journal Entry,露丽亚日记
+result_sidestory_1,ストーリー解放,Story Unlocked!,剧情解放
+result_skin_exp_1,熟練度,Proficiency,熟练度
+result_trajectory_title,軌跡の雫 新着情報,Journey Drops,轨迹水滴
+result_zenith_1,Limit Bonus 解放,,
+revenge_bonus_1,リベンジボーナス,Rebound Bonus,再挑战加成
+revenge_bonus_2,進行中のクエストから撤退しました。,You retreated from the quest.,已从当前任务中撤退
+revenge_bonus_select_1,リベンジボーナス確認,Rebound Bonus,确认再挑战加成
+revival002_exception_title,なァ……,Heyo,呐……
+reward_1,アイテム詳細,,道具详情
+reward_2,報酬受取,,收取奖励
+reward_3,所持数オーバー,,超过最大所持数
+reward_pop_title_1,クエストクリア報酬,Completion Loot,通关奖励
+riddle_battle_1,地下洞窟を脱出せよ！,Escape the Cavern,逃出地下洞窟！
+riddle_text_1,あきらめる,Give Up,放弃
+season_voice_01,,View Message,
+seasonmessage_1,メッセージ選択,View Message,
+seasonmessage_2,モルフェ,Morphe,墨菲
+seasonmessage_3,ヴェトル,Phoebe,菲托尔
+seasonmessage_4,性別について,Playing as Male / Female,关于性别
+seasonmessage_valentine_1,女性キャラからメッセージを受け取るには、<br>性別を男性にする必要があります。,The main character needs to be male to see Valentine's Day cut scenes with female characters.,只有性别设置为男性时<br>才能与女性角色进行对话
+seasonmessage_valentine_10,ハッピーバレンタイン！,Happy Valentine's Day!,
+seasonmessage_valentine_2,男性キャラからメッセージを受け取るには、<br>性別を女性にする必要があります。,The main character needs to be female to see Valentine's Day cut scenes with male characters.,只有性别设置为女性时<br>才能与男性角色进行对话
+seasonmessage_valentine_3,性別確認,Character Cut Scenes,性别确认
+seasonmessage_valentine_4,受け渡し確認,Give Item,确认送礼
+seasonmessage_valentine_5,チョコ受け取り,For You,接受巧克力
+seasonmessage_valentine_6,バレンタインチョコ購入,Chocolate Shack,购买情人节巧克力
+seasonmessage_valentine_7,購入完了,Chocolate Shack,购买成功
+seasonmessage_valentine_8,購入エラー,Chocolate Shack,发生错误
+seasonmessage_valentine_9,購入できませんでした,You can't buy any chocolate. Try again later.,购买失败
+seasonmessage_white_1,ホワイトデーの贈り物購入,Gift Shack,购买白色情人节礼物
+seasonmessage_white_2,購入完了,Gift Shack,购买成功
+seasonmessage_white_3,購入エラー,Gift Shack,发生错误
+seasonmessage_white_4,購入できませんでした,You can't buy any gifts. Try again later.,购买失败
+seasonmessage_white_5,女性キャラからメッセージを受け取るには、<br>性別を男性にする必要があります。,The main character needs to be male to see White Day cut scenes with female characters.,只有性别设置为男性时<br>才能与女性角色进行对话
+seasonmessage_white_6,男性キャラからメッセージを受け取るには、<br>性別を女性にする必要があります。,The main character needs to be female to see White Day cut scenes with male characters.,只有性别设置为女性时<br>才能与男性角色进行对话
+seasonmessage_white_7,贈り物受け取り,For You,接受礼物
+seasonmessage_white_8,ハッピーホワイトデー！,Happy White Day!,白色情人节快乐！
+sell_stash_filter_1,整頓,Unload,整顿
+sell_stash_filter_10,移動,Move,转移
+sell_stash_filter_11,売却完了,Sell,出售成功
+sell_stash_filter_12,倉庫に移動,Move to Stash,转移至仓库
+sell_stash_filter_13,倉庫があれば武器や召喚石を<br>倉庫1つあたり200個まで保管できます<br><br>倉庫は%s、宝晶石で<br>購入することができます,A stash can hold 200 weapons or summons.<br>Stashes can be bought with %s or crystals.,每个仓库能够收纳武器或召唤石共200个<br><br>您可以通过%s或者宝晶石购买仓库
+sell_stash_filter_14,モバコイン,MobaCoin,MobaCoin
+sell_stash_filter_15,グラブルコイン,Granblue Coins,Granblue Coins
+sell_stash_filter_16,ショップへ,Shop,前往商店
+sell_stash_filter_17,移動先倉庫選択,Move to Stash,选择目标仓库
+sell_stash_filter_18,選択した倉庫内がいっぱいのため、<br>移動できません。,The stash you selected is full.<br>Select another one.,该仓库已满，转移失败。
+sell_stash_filter_19,移動完了,Stash,转移成功
+sell_stash_filter_2,条件にあうプレゼントが<br>ありませんでした,No matching loot.,没有符合条件的礼物
+sell_stash_filter_20,リスト,Inventory,列表
+sell_stash_filter_21,プレゼントリスト,Crate,礼物列表
+sell_stash_filter_22,条件にあう武器が<br>ありませんでした,There are no matching weapons.,没有符合条件的武器
+sell_stash_filter_23,条件にあう召喚石が<br>ありませんでした,There are no matching summons.,没有符合条件的召唤石
+sell_stash_filter_24,売却確認,Sell,确认售出
+sell_stash_filter_25,所持ルピ　<span class='txt-held-lupi'>%s</span>ルピ,Held: <span class='txt-held-lupi'>%s</span> rupie,所持卢比　<span class='txt-held-lupi'>%s</span>卢比
+sell_stash_filter_26,ボーナス　獲得ルピ＋%s,Bonus: %s rupie,	获得额外卢比＋%s
+sell_stash_filter_27,所持ルピ　%s1 → <span class='txt-lupi-after'>%s2</span>ルピ,Held: %s1 &gt;&gt; <span class='txt-lupi-after'>%s2</span> rupie,
+sell_stash_filter_28,所持ルピ　<span class='txt-yellow'>%s</span>ルピ,Held: <span class='txt-yellow'>%s</span> rupie,所持卢比　<span class='txt-yellow'>%s</span>卢比
+sell_stash_filter_29,%s1%s2個移動しました,%s2 %s1 was stashed.,转移%s1%s2个
+sell_stash_filter_3,CAUTION!,CAUTION!,
+sell_stash_filter_30,移動する%sがありませんでした,There are no matching %s to stash.,无符合条件的%s可转移
+sell_stash_filter_4,<span class='txt-orange'>Sレア</span>が売却設定されています。<br><br>本当によろしいですか？<br><br>,You are about to sell <span class='txt-orange'>SR items</span>.<br><br>Proceed?,自动出售设置中包含该设置包含<span class='txt-orange'>SR装备</span>。<br><br>是否继续？
+sell_stash_filter_5,%sを売却,Sell %s,出售%s
+sell_stash_filter_6,%sを倉庫に移動,Stash %s,转移%s至仓库
+sell_stash_filter_7,武器,weapons,武器
+sell_stash_filter_8,召喚石,summons,召唤石
+sell_stash_filter_9,売却,Sell,出售
+setting_1,設定,Game Settings,设置
+setting_10,絵柄入れ替え,Replace,表情替换
+setting_11,%s番目と%s番目のスタンプの<br>表示順を入れ替えます。,You will replace sticker %s<br>with sticker %s.,调换%s号表情与%s号表情的位置。
+setting_12,このスタンプを%s番目に設定します。,This sticker will be set to position %s.,设置该表情为%s号表情。
+setting_13,条件設定,Settings,条件设置
+setting_14,設定条件,Auto-Upgrade Settings,设置条件
+setting_15,騎空団の強化はメインクエスト第4章クリア後から<br>「騎空団」に入団することで設定が可能です。,Auto-upgrade can only be used when you are in a crew. You can start or join a crew after clearing chapter 4 of the main quest.,骑空团强化功能将在主线剧情第4章通关、加入「骑空团」后开启。
+setting_2,設定しました。,Your changes have been saved.,设置完毕
+setting_3,認証を解除しました。,Your Granblue Fantasy account and Twitter account are no longer linked.,取消绑定
+setting_4,計算中,Calculating...,计算中……
+setting_5,スタンプセット編集,Edit Sticker Set,编辑表情
+setting_6,スタンプの移動先を選んでください,Select where to move the sticker.,选择表情移动位置
+setting_7,%s番目に設定する絵柄を選んでください,Tap a sticker to replace sticker %s.,选择替换%s号表情的其他表情
+setting_8,%s番目に設定しているスタンプを<br>%s番目に移動します。,You will move this sticker from<br>position %s to %s.,将当前%s号表情将移动至%s号位。
+setting_9,順番変更,Change Order,变更顺序
+setting_title_1,映像設定,Graphics,显示设置
+setting_title_10,PCブラウザ版設定,Browser Version Settings,PC游览器版设置
+setting_title_2,サウンド設定,Sound,声音设置
+setting_title_3,バトル設定,Battle,战斗设置
+setting_title_4,チャット・スタンプ設定,Chat/Stickers,聊天·表情设置
+setting_title_5,マイページ設定,Home Screen,主页设置
+setting_title_6,公開設定,Privacy,公开设置
+setting_title_7,連携設定,Linked Accounts,绑定设置
+setting_title_8,便利設定,Miscellaneous,偏好设置
+setting_title_9,アプリ版専用設定,App Settings,APP版专用设置
+shop_1,ショップ,Shop,商店
+shop_10,交換できませんでした。,Technical issues are occurring. Treasure couldn't be traded.,兑换失败
+shop_11,交換完了,Trade Treasure,兑换成功
+shop_12,<br>（現在の上限 %s）,<br>(Current limit: %s）,<br>（现在的上限 %s）
+shop_13,バトルに戻る,Battle,继续战斗
+shop_14,個,,个
+shop_15,%s1%s2交換しました。%s3,You exchanged for %s1%s2%s3.,已兑换%s1%s2。
+shop_16,購入完了,Buy,购买成功
+shop_18,ホリデーセール,Holiday Sale,假期特惠
+shop_19,アイテム詳細,Item Details,道具详情
+shop_3,グラブルコインショップ,Granblue Coin Shop,Granblue Coin Shop
+shop_4,回復アイテムはこちらですよ～<br>所持数拡張もおススメです～,Try out my recovery items<br>and inventory slots!,在这里可以购买回复道具哦~也可以扩大背包容量~
+shop_5,宝晶石ショップ,Crystal Shop,宝晶石商店
+shop_56,ショップ,Shop,商店
+shop_6,集めた宝晶石で<br>便利なアイテムをゲットです～,Get great items<br>with the crystals you've collected!,用宝晶石购买便利的道具~
+shop_7,交換確認,Trade Treasure,兑换确认
+shop_8,購入確認,Trade,购买确认
+shop_9,交換エラー,Trade Treasure,兑换错误
+shop_archaic_2,と～っても貴重な武器のレプリカと<br>交換ができちゃいます～,,在这里可以兑换超~级贵重武器的复制品~
+shop_exchange_1,トレジャー交換,Treasure,物品兑换
+shop_exchange_10,セット," "," "
+shop_exchange_11,個," ",个
+shop_exchange_12,%sがパーティに加入しました。,%s joined you!,%s已成为伙伴
+shop_exchange_13,%s1%s2入手しました。<br>獲得した報酬はプレゼントリスト(期限なし)に<br>送られます。,You got %s1.<br>Loot will be sent to the No Limit tab of your crate.,获得%s1%s2。<br>奖励已发送至无期限礼物列表。
+shop_exchange_14,%s1%s2入手しました。,You got %s1.,获得%s1%s2
+shop_exchange_15,本日の交換%s1数制限　残り%s2%s3,There are %s2%s1 more available today.,今日的兑换%s1限制 还剩%s2%s3
+shop_exchange_16,残り%s1%s2,%s1%s2 left,还剩%s1%s2
+shop_exchange_17,（所持数　%s）,(Held: %s),（持有数　%s）
+shop_exchange_18,ルピの所持限界を超えてしまうため<br>売却できません。,You can't sell this. You have too many rupies.,您的卢比满额，无法出售。
+shop_exchange_19,所持数が不足しているため<br>売却できません。,You don't have enough to sell.,所持不足，无法出售。
+shop_exchange_2,冒険で手に入れたトレジャーと<br>アイテムの交換ができちゃいます～,I'll trade you for treasures<br>you find on your adventure.,在这里可以用冒险中获得的物品<br>和道具兑换商品哦~
+shop_exchange_20,売却確認,Sell,确认出售
+shop_exchange_21,売却,Sell,出售
+shop_exchange_22,売却不可,Sell,无法出售
+shop_exchange_23,売却完了,Sell,出售成功
+shop_exchange_24,%s個売却しました。,%s were sold.,售出%s个
+shop_exchange_25,確認,Skills,确认
+shop_exchange_26,進行中のクエストがあります。<br>島を移動する場合はクエストから撤退し<br>途中経過を破棄する必要があります。,<%= title %> is in progress. You must first retreat before travelling to another island.,您有进行中的任务。前往其他岛屿会自动从任务中撤退。
+shop_exchange_27,アイテム詳細,Item Details,道具详情
+shop_exchange_28,武勲・栄誉の輝き交換,Pendant Trade,武勋·荣誉的辉光交换
+shop_exchange_29,輝きはマルチバトルに参加すれば<br>手に入れることができますよ～,Collect pendants from raid battles and trade them here!,辉光可以通过参加多人战斗获得哦~
+shop_exchange_3,交換確認,Trade Treasure,确认兑换
+shop_exchange_30,本日の交換%s1数制限　残り%s2%s3,There is %s2%s1 more available today.,今日的兑换%s1限制 还剩%s2%s3
+shop_exchange_31,バハムートの鉤爪交換,Trade Bahamut Claws,兑换巴哈姆特的勾爪
+shop_exchange_32,サモン・クレイドル交換,Trade Summon Cradle,兑换劣化神石
+shop_exchange_33,SGFポイント交換,GSR Point Trade,SGF点数兑换
+shop_exchange_4,仲間にする,Add to Party,招募伙伴
+shop_exchange_5,交換する,Trade,兑换
+shop_exchange_6,交換エラー,Trade Treasure,兑换错误
+shop_exchange_7,交換できませんでした。,Technical issues are occurring. Treasure couldn't be traded.,兑换失败
+shop_exchange_8,交換完了,Trade Treasure,兑换成功
+shop_exchange_ceiling_1,蒼光の輝石交換,Trade Cerulean Stones,苍光辉石兑换
+shop_exchange_ceiling_2,手に入れた蒼光の輝石と<br>アイテムの交換ができちゃいます〜,I'll trade you for cerulean stones<br>that you collect on your adventure.,在这里可以用苍光辉石兑换道具哦~
+shop_exchange_links_1,リンクス交換チケット,Links Pick Ticket,
+shop_exchange_moon_1,ムーン交換,Trade Moons,月亮交换
+shop_exchange_moon_2,シェロカルテの特別交換券,Siero's Special Pick Tickets,榭洛科特的特别交换券
+shop_exchange_moon_3,%s個入手しました。,You got %s.,已获得%s个。
+shop_exchange_moon_4,%sルピ入手しました。," You got %s rupies.",已获得%s卢比。
+shop_exchange_moon_5,%sJP入手しました。,You got %s CP.,已获得%sJP。
+shop_exchange_pop_1,発動中のよろず屋サポート,Current Shop Skills,发动中的万事屋支援效果
+shop_exchange_pop_2,発動確認,Select Length,发动确认
+shop_exchange_pop_3,よろず屋サポート,Shop Skill,万事屋支援效果
+shop_exchange_pop_4,軌跡の雫が足りません。,You don't have enough journey drops.,轨迹水滴不足
+shop_exchange_present_1,プレゼントリストに送られました。,Loot will appear in your crate.,已发送至礼物列表
+shop_exchange_trajectory_1,軌跡の雫ショップ,Journey Drops,轨迹水滴商店
+shop_exchange_trajectory_2,冒険をすればするほど<br>その軌跡が形になるそうですよ〜,Mark how far you've come with<br>handy-dandy journey drops!,多多冒险才会形成轨迹哦~
+shop_exchange_trajectory_3,軌跡の雫 新着情報,Journey Drops,轨迹水滴
+shop_exchange_trajectory_4,軌跡の雫,Journey Drops,轨迹水滴
+shop_exchange_trajectory_5,よろず屋サポート効果UPキャンペーン,Shop Skill Boost,万事屋支援效果UP活动
+shop_exchange_trajectory_common_1,快適な空の旅への支度は、よろず屋にお任せください～,Swing back by Siero's for all your skyfaring needs!,舒适的旅行，就交给万事屋吧~
+shop_exchange_trajectory_common_2,シェロちゃんとよろず屋を今後ともご贔屓に～！,Come on back to the Knickknack Shack!,以后也多多惠顾哦~！
+shop_exchange_trajectory_type1_1,「騎空士の道は一日にしてならず」ですよ～<br>頑張ってくださいね～,Great crews aren't built in a day! Keep it up!,有句话叫「成功的骑空士不是一蹴而就的」~继续加油哦~
+shop_exchange_trajectory_type1_2,準備完了です～<br>張り切っていきましょ～！,"You're ready to go!<br>Go, go, go!",准备好了~加油吧~！
+shop_exchange_trajectory_type2_1,いってらっしゃ～い！<br>旅のご無事を祈っています～,I'm rooting for you! Good luck out there!,一路平安！祝你好运哦~
+shop_exchange_trajectory_type2_2,今日は絶好の冒険日和ですね～,It's another great day for adventure!,今天很适合冒险哦~
+shop_exchange_trajectory_type3_1,装備品の強化は、今日から頑張りましょう～<br>なんて……うぷぷぷ,Boosting your upgrade percent? I agree 100 percent!,从今天起努力强化装备吧~……呵呵呵
+shop_exchange_trajectory_type3_2,装備品のことなら、そう！ビィさんに～<br>なんて……<br>うぷぷぷ,Let Vyrn upturn<br>your EXP earned!,要给阿碧也买一套装备吗？开玩笑啦……呵呵呵
+shop_exchange_trajectory_type4_1,装備品の強化も、<br>よろず屋に、よろ～ず！<br>うぷぷぷ,Grand successes sure are grand! Hehe.,装备强化也交给万事屋吧！呵呵呵
+shop_exchange_trajectory_type4_2,大成功したら、シェロちゃんに見せいこう～！<br>うぷぷぷ,"If you get a showstopper, stop and show me!",大成功的时候要让榭洛也看看哦~！
+shop_exchange_trajectory_type5_1,お金は大切にしましょうね～<br>お金はおっかね～！<br>ですので～,"Money is funny but<br>don't drop it, sonny!",金钱不是万能的~没有钱是万万不能的~！
+shop_exchange_trajectory_type5_2,お金を拾ったら披露しましょう～拾うだけに。<br>うぷぷぷ,Sharing is caring!<br>Let us treasure<br>your treasure!,捡到钱不能隐瞒哦~要告诉别人你捡到钱啦。呵呵呵
+shop_exchange_trajectory_type6_1,今日はなにか良いことが起きる予感がしますね～,I have a feeling something great is coming!,感觉今天会有好事发生呢~
+shop_exchange_trajectory_type6_2,お宝を見つけたからといって、油断してはいけませんよ～,"X marks the spot,<br>but don't become<br>the mark!",发现宝藏的时候也不能大意哦~
+shop_pop_1,一部コンテンツについて,Regarding Certain Content,关于部分内容
+shop_skycompass_1,グラパス,,GrablueSkyCompass
+shop_skycompass_2,連携確認,,绑定确认
+shop_skycompass_3,ページを開けません。アドレスが無効です。,,无法打开页面。地址无效。
+shop_title,モバコインショップ,MobaCoin Shop,MobaCoin Shop
+shop_title_dmm,DMMポイントショップ,DMM Coin Shop,DMM Coin Shop
+shop_title_g,グリーコインショップ,GREE Coin Shop,GREE Coin Shop
+shop_title_yahoo,グラブルコインショップ,Granblue Coin Shop,Granblue Coin Shop
+sidestory_archive_1,ストーリー図鑑,,故事图鉴
+sidestory_archive_2,確認条件,,确认条件
+sidestory_campaign_1,キャンペーンについて,,活动详情
+sidestory_index_1,サイドストーリー,,番外故事
+sidestory_navi_1,バトル前,,战斗前
+sidestory_navi_2,討伐章,,讨伐张
+sidestory_navi_3,戦貨,,战货
+sidestory_navi_4,貢献度,,贡献度
+sidestory_navi_5,台詞集,,台词集
+sidestory_navi_6,次回予告！,,下集预告
+sidestory_quest_1,クエスト,,任务
+sidestory_quest_2,クエスト解放,,任务解放
+sidestory_quest_3,謎解きクエスト,,解谜任务
+sidestory_title_1,追加された称号,,新称号
+sidestory_title_2,称号確認,,称号确认
+sidestory_title_3,称号設定完了,,称号设置成功
+sidestory_title_4,称号を設定しました。,,称号设置成功
+sidestory_title_5,ストーリー称号,,剧情称号
+sidestory_top_1,獲得キャラクター,,获得新同伴
+sidestory_top_10,%s1%s2入手しました。,,获得%s1%s2
+sidestory_top_11,%sがパーティに加入しました。,,%s已成为同伴
+sidestory_top_12,本日の交換%s1数制限　残り%s2%s3,,今日的兑换%s1限制 还剩%s2%s3
+sidestory_top_13,残り%s1%s2,,还剩%s1%s2
+sidestory_top_14,（所持数　%s）,,（持有数　%s）
+sidestory_top_15,アイテム詳細,,道具详情
+sidestory_top_17,クエスト解放,,任务解放
+sidestory_top_18,ルピ,,卢比
+sidestory_top_19,本日の交換%s1数制限　残り%s2%s3,,今日的兑换%s1限制 还剩%s2%s3
+sidestory_top_2,交換確認,,确认兑换
+sidestory_top_20,台詞集解放,,台词集解放
+sidestory_top_21,台詞集,,台词集
+sidestory_top_23,クエストに挑戦可能となりました。,,任务限制解除，可以挑战任务
+sidestory_top_24,%sを入手しました。,,已获得%s
+sidestory_top_26,プレゼントリストに送られました。,,已发送至礼物列表
+sidestory_top_3,交換する,,兑换
+sidestory_top_4,仲間にする,,招募伙伴
+sidestory_top_5,個,,个
+sidestory_top_7,交換エラー,,兑换错误
+sidestory_top_8,交換できませんでした。,,兑换失败
+sidestory_top_9,交換完了,,兑换成功
+sort_filter_1,未選択,Select Filter,未选择
+sort_filter_10,スキルレベル,Skill Lvl,技能等级
+sort_filter_100,キャラの属性:火/水〜,CHRCTR Element Group A,人物属性:火/水〜
+sort_filter_101,キャラの属性:闇/光〜,CHRCTR Element Group B,人物属性:暗/光〜
+sort_filter_102,キャラのタイプ:A,Style Group A,人物类型
+sort_filter_103,キャラのタイプ:B,Style Group B,人物类型
+sort_filter_104,属性:火/水〜,Element Group A,属性:火/水〜
+sort_filter_105,属性:闇/光〜,Element Group B,属性:暗/光〜
+sort_filter_106,種類:剣/短剣〜,WPN Group A,种类：剑/短剑〜
+sort_filter_107,種類:刀/楽器〜,WPN Group B,种类：刀/乐器〜
+sort_filter_108,LB Class:高,EM Lvl (High),
+sort_filter_109,LB Class:高い順,EM Lvl (Highest),LB Class:从高到低
+sort_filter_11,Ｌｖ:高,Lvl (High),
+sort_filter_110,LB Class:低,EM Lvl (Low),
+sort_filter_111,LB Class:低い順,EM Lvl (Lowest),LB Class:从低到高
+sort_filter_112,LB Class,EM Lvl,
+sort_filter_12,Ｌｖ:高い順,Lvl (Highest),LV：从高到低
+sort_filter_13,Ｌｖ:低,Lvl (Low),LV：低
+sort_filter_14,Ｌｖ:低い順,Lvl (Lowest),LV：从低到高
+sort_filter_15,戦力:高,PWR (High),战力:高
+sort_filter_16,戦力:高い順,PWR (Highest),战力:从高到低
+sort_filter_17,戦力:低,PWR (Low),战力:低
+sort_filter_18,戦力:低い順,PWR (Lowest),战力：从低到高
+sort_filter_19,攻撃力:高,ATK (High),攻击力：高
+sort_filter_2,攻撃力,ATK,攻击力
+sort_filter_20,攻撃力:高い順,ATK (Highest),攻击力:从高到低
+sort_filter_21,攻撃力:低,ATK (Low),攻击力：低
+sort_filter_22,攻撃力:低い順,ATK (Lowest),攻击力：从低到高
+sort_filter_23,ＨＰ:高,HP (High),HP：高
+sort_filter_24,ＨＰ:高い順,HP (Highest),HP:从高到低
+sort_filter_25,ＨＰ:低,HP (Low),HP：低
+sort_filter_26,ＨＰ:低い順,HP (Lowest),HP从低到高
+sort_filter_27,レア度:高,Rarity (High),稀有度:高
+sort_filter_28,レア度:高い順,Rarity (Highest),稀有度:从高到低
+sort_filter_29,レア度:低,Rarity (Low),稀有度:低
+sort_filter_3,戦力,PWR,战力
+sort_filter_30,レア度:低い順,Rarity (Lowest),稀有度:从低到高
+sort_filter_31,上限解放:高,Uncapped (More),上限解放：高
+sort_filter_32,上限解放段階:高い順,Uncapped (More),上限解放阶段：从高到低
+sort_filter_33,上限解放:低,Uncapped (Less),上限解放：低
+sort_filter_34,上限解放段階:低い順,Uncapped (Less),上限解放阶段：从低到高
+sort_filter_35,スキルLv:高,Skill Level (High),技能LV：高
+sort_filter_36,武器スキルLv:高い順,Skill Level (Highest),武器技能LV：从高到低
+sort_filter_37,スキルLv:低,Skill Level (Low),技能LV：低
+sort_filter_38,武器スキルLv:低い順,Skill Level (Lowest),武器技能LV：从低到高
+sort_filter_39,最近入手,Got (Recent),最近获得
+sort_filter_4,レア度,Rarity,稀有度
+sort_filter_40,最近入手した順,Got (Recent),最近获得
+sort_filter_41,昔に入手,Got (Not Recent),过去获得
+sort_filter_42,昔に入手した順,Got (Not Recent),过去获得
+sort_filter_43,武器種順:Ｂ,Weapon Group B,武器顺序：B
+sort_filter_44,刀/楽器/弓/格闘/銃〜,"Katana, Harp, Bow, Gun, etc.",刀/乐器/弓/格斗/铳〜
+sort_filter_45,武器種順:Ａ,Weapon Group A,武器顺序：A
+sort_filter_46,剣/短剣/槍/斧/杖〜,"Sabre, Dagger, Spear, Axe, Staff, etc.",剑/短剑/枪/斧/杖〜
+sort_filter_47,属性順:Ｂ,Element Group B,属性顺序：B
+sort_filter_48,闇/光/風/土/水/火,"Dark, Light, Wind, Earth, Water, Fire",暗/光/风/土/水/火
+sort_filter_49,属性順:Ａ,Element Group A,属性顺序：A
+sort_filter_50,火/水/土/風/光/闇,"Fire, Water, Earth, Wind, Light, Dark",火/水/土/风/光/暗
+sort_filter_51,ソート設定,Sort,查找设置
+sort_filter_52,並び替えて表示する,Change Order,改变顺序查找
+sort_filter_53,絞り込んで表示する,Filter,缩小范围查找
+sort_filter_54,武器の最大攻撃力:高い順,Weapon Max ATK (Highest),武器最大攻击力：从高到低
+sort_filter_55,武器の最大攻撃力:低い順,Weapon Max ATK (Lowest),武器最大攻击力：从低到高
+sort_filter_56,武器の最大HP:高い順,Weapon Max HP (Highest),武器最大HP：从高到低
+sort_filter_57,武器の最大HP:低い順,Weapon Max HP (Lowest),武器最大HP：从低到高
+sort_filter_58,武器の属性:火/水〜,"Weapon Element (Fire, Water, etc.)",武器属性:火/水〜
+sort_filter_59,武器の属性:闇/光〜,"Weapon Element (Dark, Light, etc.)",武器属性:暗/光〜
+sort_filter_6,入手,New,获得
+sort_filter_60,武器の種類:剣/短剣〜,"Sabre, Dagger, Spear, Axe, Staff, etc.",武器种类:剑/短剑〜
+sort_filter_61,武器の種類:刀/楽器〜,"Katana, Harp, Bow, Gun, etc.",武器种类:刀/乐器〜
+sort_filter_62,キャラの最大攻撃力:高い順,Character Max ATK (Highest),人物最大攻击力：从高到低
+sort_filter_63,キャラの最大攻撃力:低い順,Character Max ATK (Lowest),人物最大攻击力：从低到高
+sort_filter_64,キャラの最大HP:高い順,Character Max HP (Highest),人物最大HP：从高到低
+sort_filter_65,キャラの最大HP:低い順,Character Max HP (Lowest),人物最大HP：从低到高
+sort_filter_66,キャラの属性:火/水〜,"Character Element (Fire, Water, etc.)",人物属性:火/水〜
+sort_filter_67,キャラの属性:闇/光〜,"Character Element (Dark, Light, etc.)",人物属性：暗/光〜
+sort_filter_68,キャラのタイプ:バランス/攻撃〜,"Character Style (BAL, ATK, etc.)",人物类型：平衡/攻击〜
+sort_filter_69,キャラのタイプ:特殊/回復〜,"Character Style (SPEC, HEAL, etc.)",人物类型：特殊/回复〜
+sort_filter_7,レベル,Level,LV
+sort_filter_70,最大攻撃力:高い順,Max ATK (Highest),最大攻击力：从高到低
+sort_filter_71,最大攻撃力:低い順,Max ATK (Lowest),最大攻击力：从低到高
+sort_filter_72,最大HP:高い順,Max HP (Highest),最大HP：从高到低
+sort_filter_73,最大HP:低い順,Max HP (Lowest),最大HP：从低到高
+sort_filter_74,属性:火/水〜,"Fire, Water, Earth, Wind, Light, Dark",属性:火/水〜
+sort_filter_75,属性:闇/光〜,"Dark, Light, Wind, Earth, Water, Fire",属性:暗/光〜
+sort_filter_76,種類:剣/短剣〜,"Sabre, Dagger, Spear, Axe, Staff, etc.",种类:剑/短剑〜
+sort_filter_77,種類:刀/楽器〜,"Katana, Harp, Bow, Gun, etc.",种类:刀/乐器〜
+sort_filter_78,HP,HP,
+sort_filter_79,武器攻撃力,Weapon Max ATK,武器攻击力
+sort_filter_8,上限解放,Level Cap,
+sort_filter_80,武器HP,Weapon Max HP,
+sort_filter_81,武器属性,Weapon Element,
+sort_filter_82,キャラ攻撃力,Character Max ATK,人物攻击力
+sort_filter_83,キャラHP,Character Max HP,人物HP
+sort_filter_84,キャラ属性,Character Element,人物属性
+sort_filter_85,キャラタイプ,Character Style,人物类型
+sort_filter_86,最大攻撃力,Max ATK,最大攻击力
+sort_filter_88,武器の最大攻撃力:高,WPN Max ATK (Highest),武器最大攻击力：高
+sort_filter_89,武器の最大攻撃力:低,WPN Max ATK (Lowest),武器最大攻击力：低
+sort_filter_9,武器種,Group,武器种类
+sort_filter_90,武器の最大HP:高い順,WPN Max HP (Highest),武器最大HP：从高到低
+sort_filter_91,武器の最大HP:低い順,WPN Max HP (Lowest),武器最大HP：从低到高
+sort_filter_92,武器の属性:火/水〜,WPN Element Group A,武器属性:火/水〜
+sort_filter_93,武器の属性:闇/光〜,WPN Element Group B,武器属性:暗/光〜
+sort_filter_94,武器の種類:剣/短剣〜,WPN Group A,武器种类:剑/短剑〜
+sort_filter_95,武器の種類:刀/楽器〜,WPN Group B,武器种类:刀/乐器〜
+sort_filter_96,キャラの最大攻撃力:高,CHRCTR Max ATK (Highest),人物最大攻击力：高
+sort_filter_97,キャラの最大攻撃力:低,CHRCTR Max ATK (Lowest),人物最大攻击力：低
+sort_filter_98,キャラの最大HP:高い順,CHRCTR Max HP (Highest),人物最大HP：从高到低
+sort_filter_99,キャラの最大HP:低い順,CHRCTR Max HP (Lowest),人物最大HP：从低到高
+start_recast_1,使用可能: %sターン後,Ready in %s turn,%s回合后可使用
+start_recast_2,使用可能,Ready,可使用
+start_recast_3,使用済み,Already used,已使用
+staticpage_1,課金アイテム確認,,
+staticpage_2,ストーリーTOPに戻る,回到剧情TOP,
+summon_lyria_1,ルリアが召喚不可状態<br>のため召喚できません。,You aren't able to use summons now.,露丽亚当前无法发动召唤。
+summon_lyria_2,ルリアが倒れたため召喚できません。,Lyria has been knocked out. You can't use summons.,露丽亚已倒下，无法召唤
+survival_mode_1,サバイバルモード,SURVIVAL MODE,生存模式
+title_1,称号設定,Display a Trophy,称号设置
+title_10,該当する報酬がありません。,No rewards available.,无奖励
+title_11,%s件,%s,
+title_12,報酬受取,Pick Up Loot,收取奖励
+title_13,所持数がいっぱいです,You can't hold any more items.,您的所持已达上限
+title_14,所持数が限界のため、<br>受け取ることが出来ません。,You can't pick up rewards because you've<br> reached the maximum amount you can hold.,所持已达上限，无法收取。
+title_15,謎解きトップへ,Event Home,返回解谜首页
+title_16,称号設定完了,Display Trophy,称号设置成功
+title_17,称号を設定しました。,You displayed a trophy.,称号设置成功
+title_18,イベント称号,Event Trophies,活动称号
+title_19,フェイトエピソード解放,Fate Episode Unlocked,人物剧情解放
+title_2,称号設定完了,Display Trophy,称号设置成功
+title_20,獲得キャラクター,New Characters,获得新人物
+title_3,称号を設定しました。,You displayed a trophy.,称号设置成功
+title_4,追加された称号,New Trophies,新称号
+title_5,称号,Trophies,
+title_6,称号確認,Display Trophy,称号确认
+title_7,称号設定完了,Display a Trophy,称号设置成功
+title_8,称号を設定しました。,You displayed a trophy.,称号设置成功
+title_9,称号報酬,Trophy Rewards,称号奖励
+top_10,台詞集,,
+top_11,"イベントTOPにて<br>「台詞集」が解放されました。<br><br><span class=""txt-orange"">台詞集では、イベントTOPで表示されている<br>キャラクター、台詞、音声を楽しむことができます。</span>",,
+top_12,ストーリーを全てクリアすると<br>確認できるようになります。<br>,,
+top_4,時限クエスト出現,,
+top_5,クエスト解放,,
+top_6,エクストラストーリー解放,,
+top_7,獲得キャラクター,,
+top_8,アシストボーナス,,
+top_9,"アシストボーナスで<br>イベントを有利に進めよう！<br><br>イベントのマルチバトルでは、<br>現在のRankに応じて攻撃力・最大HPに<br>以下のボーナスがつきます。<div class=""txt-effetct""><div>攻撃力・最大HP %s%UP (Rank%sまで)</div></div>",,
+trialbattle_1,トライアルバトル,,
+trialbattle_2,獲得キャラクター,,
+trialbattle_3,確認,,
+trialbattle_npc_1,キャラ紹介,,
+unclear_multi_comment_1,<div class='txt-unclear-comment'>マルチバトルをクリアすると物語は結末へ……！</div>,,
+user_1,新着情報,News,最新资讯
+user_10,騎空団サポート,Crew Skills,骑空团支援效果
+user_11,称号獲得,Trophy Achieved,获得新称号
+user_12,レビュー書き込み,Write a Review!,评分
+user_13,レビューを書くと、<br>「レジェンドガチャチケット」1枚<br>を獲得できます。<br>レジェンドガチャチケットは<br>プレゼントリストに送られます。,Write a review to get one Premium<br>draw ticket. The draw ticket will<br>appear in your crate.,评分后将获得「高级卡池扭蛋券」1张。高级卡池扭蛋券将发送至礼物列表
+user_14,アイテム獲得！,Item Received,获得新道具
+user_15,%s<br>を手に入れたぜ！,Look what you got:<br>%s!,获得%s！
+user_16,所持上限,Inventory Full,
+user_17,所持上限に達しているので、これ以上所持できません。,You already have the maximum number that can be held at once. You can't carry any more.,所持已达上限，无法收取。
+user_18,天星器交換チケットを使用できます。,Revenant weapon exchange ticket available!,您可以使用天星器兑换券。
+user_19,超得！！スタートダッシュガチャセットが<br />購入できます。,Deeply discounted Beginner's draw set on sale!,新手超得！！现在可以购买新手特别扭蛋券！
+user_2,編成することができなくなりました,This can't be equipped anymore.,这个已经不能再装备更多了
+user_20,サプライズ！！スペシャルガチャセットが<br />購入できます。,Surprise Special draw set on sale!,大惊喜！！现在可以购买特别扭蛋券！
+user_21,無料ガチャが引けます。,Draw once for free!,可以进行免费抽卡。
+user_22,フェイトエピソードがあります！,You have new fate episodes!,有未通关的人物剧情！
+user_23,フレンド申請が来ています。,You have a friend request!,有未处理的好友申请！
+user_24,招待チャットを送信して、報酬GET！！,Invite a friend to Granblue Fantasy and get loot!,邀请朋友加入碧蓝幻想，可获奖励！
+user_25,騎空団に入団申請が来ています。,Someone applied to your crew!,有未处理的骑空团入团申请。
+user_26,称号報酬が獲得出来ます。,You got a new trophy!,有未领取的称号奖励。
+user_27,%sが購入できます。,"%s is now available. ",现在可以购买%s。
+user_28,騎空団%sからのスカウトがあります。,You were scouted by %s!,骑空团%s向你发出邀请。
+user_29,未確認バトルがあります。,Check your raid battles!,有未确认结果的战斗。
+user_3,イベント終了,Event Concluded,活动结束
+user_30,未確認の共闘バトルがあります。,Check your co-op battles!,有未确认结果的共斗任务。
+user_31,未確認のイベント共闘バトルがあります。,Check your co-op event battles!,有未确认结果的活动共斗任务。
+user_32,挨拶が%s件あります。,There is %s message on your message board.,有%s人在你的主页留言。
+user_33,キャンペーンの当選結果が来ています。,You were selected!,你在活动中当选！
+user_34,誕生日が未設定です。,Enter your birthday.,未设置生日
+user_35,お誕生日おめでとうございます！,Happy Birthday from Granblue Fantasy!,生日快乐！
+user_36,レビュー書き込みで報酬を獲得できます。,Write a review and get some loot.,评分可获得奖励。
+user_37,アプリケーションに新しいバージョンがあります。,There is an newer version of this app.,APP有新版本。
+user_38,会員登録をするとニックネームを変更できます。,Register with Mobage to change your nickname.,登录梦宝谷会员后可变更昵称。
+user_39,お誕生日おめでとうございます！,Happy Birthday from Granblue Fantasy!,生日快乐！
+user_4,プレゼント,Crate,礼物
+user_40,<span class='txt-birthday'>%s1%s2日は%s3さんの誕生日です！</span>マイページやルリアノートで、<br>特定のキャラクターからあなたの誕生日の<br>お祝いメッセージを聞くことができます。,<span class='txt-birthday'>%s1 %s2 is %s3's birthday!</span>Certain characters will have a special birthday message for you on the Home screen and in your Journal.,<span class='txt-birthday'>%s1%s2日是你的生日！</span>在主页和露丽亚日记中可以听到大家对你的生日祝福。
+user_41,読み込みエラー:e001\nお手数ですが、ページを再読み込みしてください。,Loading error :e001\nPlease tap the Reload button.,读取失败：e001\n请刷新页面。
+user_42,発動中の騎空団サポート,Active Crew Skills,发动中的骑空团支援效果
+user_43,初回限定で10連ガチャが<br>無料で引けます！,Welcome to Granblue Fantasy! Here's a free 10-part draw!,可以免费抽取初回限定10连抽卡！
+user_44,初回限定ガチャ,Welcome Draw,初回限定卡池
+user_45,第2章「操舵士の決意」をクリアすることで<br />ラカムが仲間に加わります。<br />クエストを進行しますか？,Clear Chapter 2: A Helmsman's Resolve.<br />Rackam will join your party then.<br />Play this quest?,完成第2章「操舵士の決意」章节后，拉卡姆将成为新伙伴。<br>是否进行此任务？
+user_46,クエストを進めよう！,Play the Quest!,进行任务吧！
+user_47,カジノ艇,Casino Liner,移动赌场
+user_48,パソコンからのご利用について,Play on a Computer,关于电脑端的使用
+user_49,Twitterに投稿することでAP・BPが回復します。,Post to Twitter to recover AP and EP.,分享至推特可回复AP与BP。
+user_5,新着情報,News,最新资讯
+user_50,Twitter投稿,Post to Twitter,分享至推特
+user_51,Twitter連携,Link Twitter Account,绑定Twitter
+user_52,Twitterに投稿しました。,The tweet was posted to Twitter.,已分享至Twitter
+user_53,Twitter投稿により<br>AP・BPが回復しました。,Your AP and EP have recovered.,AP·BP已回复。
+user_54,送信完了,Post to Twitter,已分享
+user_55,Twitterに投稿することでAP・BPが回復します。,Post to Twitter to recover AP and EP.,分享至推特可回复AP与BP。
+user_56,認証完了,Link Twitter Account,认证成功
+user_57,Twitterとの連携を認証しました。,Your Granblue Fantasy account and Twitter account are now linked.,您已绑定推特账号。
+user_58,次のページへは移動できません,Inaccessible Screen,无法前往下一页
+user_59,PC版からの移動が制限されているページの為<br>このボタンからのページ移動はできません。,The button you tapped leads to a screen that can't be accessed from a computer.,PC版无法查看此页，点击该按钮无法前往下一页。
+user_6,48時間限定！<br>超得！！スタートダッシュガチャセットが購入できます！,48 hours only!<br>Deeply discounted Beginner's draw set!,48小时限定！现在可以购买新手特别扭蛋券！
+user_60,投稿によるAP・BPの回復は、1日1回までとなります。<br>回数制限は毎朝AM5:00にリセットされます。,You can post to Twitter to restore AP and EP<br>once daily from 5 a.m. (JST).,推特分享回复AP·BP一日仅限一次。<br>每日AM5：00（GMT+9）重置。
+user_61,AP・BPはMAXですが投稿しますか？,Your AP and EP are full. Tweet anyway?,	您的AP·BP已满，是否继续投稿？
+user_62,プレゼントリストに送られました。,Loot sent to your crate.,已发送至礼物列表
+user_63,挨拶が%s件あります。,There are %s messages on your message board.,您收到了%s条留言
+user_64,未確定のディールがあります,You have an unopened share chest.,您有未确认的蓝箱
+user_65,未確認のディールがあります,You have an unopened share chest.,您有未确认的蓝箱
+user_66,"日 "," day ",天
+user_67,"時間 "," hour ",小时
+user_68,"分 "," min ",分
+user_69,秒," sec",秒
+user_7,人のフレンドと、<br>," friends and <br>",名好友
+user_70,輝き詳細情報,Pendant Details,辉光详情
+user_73,他称号を%s個獲得しました,You got %s other trophy.,获得其他%s个称号
+user_74,Error Code: %s<br>%s,Error Code: %s<br>%s,
+user_75,LinksMateについて,LinksMate,关于LinkMate
+user_8,"人の他プレイヤーのサポートに選ばれました。<br><br>報酬として "," other players borrowed your summon.<br><br>You received ","名玩家使用了您的召唤支援，获得"
+user_9,ルピ を受け取りました！," rupies as a reward!",卢比
+user_anniversary_notification_1,4thAnniversaryガチャセットが購入できます。,4th Birthday draw set now on sale!,可购买4周年抽卡券套餐！
+user_endroll_1,ルリアノート,Journal,露莉亚日记
+user_free_legend_roulette_1,無料で10連ガチャが引けます！,You can draw the 10-part draw for free!,可进行免费十连抽卡！
+user_journal_update_npc,獲得キャラクター,You Got A New Character!,获得新人物
+user_limited_time_1,ホワイトデーの贈り物,,白色情人节的礼物
+user_limited_time_2,購入完了,,购买成功
+user_limited_time_3,ハッピーホワイトデー！,,白色情人节快乐！
+user_news_1,Anniversaryスキンセットが購入できます。,Buy birthday outfit sets!,可购买周年庆皮肤套餐！
+user_pop_1,発動中のサポート,Current Skills,发动中的支援效果
+user_pop_2,よろず屋サポート,Shop Skills,万事屋支援效果
+user_selectablecampaign_1,応募可能なキャンペーンがあります。,応募可能なキャンペーンがあります。,
+user_selectablecampaign_2,えらべるグラブル！お中元キャンペーン,えらべるグラブル！お中元キャンペーン,
+user_selectablecampaign_3,「えらべるグラブル！お中元キャンペーン」<br>開催中です！<br>お知らせやキャンペーンバナーから応募できます。,「えらべるグラブル！お中元キャンペーン」<br>開催中です！<br>お知らせやキャンペーンバナーから応募できます。,
+user_selectablecampaign_4,えらべるグラブル！お中元キャンペーンに当選しました！,You've won a prize!,
+user_selectablecampaign_5,えらべるグラブル！お中元キャンペーン,Choose Your Granblue Giveaway,
+user_selectablecampaign_6,新着情報をご確認ください。<br>「えらべるグラブル！お中元キャンペーン」に当選しています。<br>※既にご確認済の場合はご容赦ください。,Winners for the Choose Your Granblue giveaway have been selected. Check the News screen to see if you've won.,
+user_trajectory_1,軌跡の雫,Journey Drops,轨迹水滴
+user_trajectory_2,よろず屋サポートの効果を<br>最大<span>Lv.%s1</span>まで発動できます。<br>最大<span>%s2つ</span>まで同時に発動できます。,Shop skills can be used up to <span>level %s1</span>.<br>Up to <span>%s2 shop skill</span> can be active at a time.,万事屋支援效果最高<span>Lv.%s1</span>，最多同时发动<span>%s2个</span>。
+weapon_detail_1,武器詳細,Weapon Details,武器详情
+weapon_skin_1,武器スキン設定,Choose a Skin,设置武器皮肤
+weapon_skin_2,武器スキン,Choose a Skin,武器皮肤
+zenith_1,リミットアビリティ習得,Extended Mastery Skills,习得附加技能
+zenith_10,能力強化を行っていません。<br>能力強化は、LBまたはジェムを<br>使用することで行うことができます。,There are no starred extended mastery bonuses.<br>Use EMP or gems to add stars.,未强化能力。您可以用LB或者晶石来强化能力。
+zenith_11,能力強化一覧,Extended Mastery Bonuses,能力强化一览
+zenith_12,能力強化,Use Points,能力强化
+zenith_13,能力強化を行っていません。<br>能力強化は、LBまたはジェムを<br>使用することで行うことができます。,There are no starred extended mastery bonuses.<br>Use EMP or gems to add stars.,未强化能力。您可以用LB或者晶石来强化能力。
+zenith_15,使用確認,,使用确认
+zenith_16,能力強化,,能力强化
+zenith_17,ステータス上書き確認,,确认覆盖
+zenith_2,習得できるリミットアビリティはありません,No skills.,无可习得的附加能力
+zenith_3,変換確認,Get EMP,兑换确认
+zenith_4,変換する,Trade,兑换
+zenith_5,ジェム,Gems,晶石
+zenith_6,ジェムの入手,Get Gems,获得晶石
+zenith_7,LB入手,Get EMP,获得LB
+zenith_8,能力リセット,Reset Bonuses,重置能力
+zenith_9,リセットする,Reset,重置
+pop_setting_recycle_item_1,リサイクル化使用設定,,回收功能的设置

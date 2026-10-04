@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,菲尔基丝,3040651000
+special,,<div class=prt-text-small>土属性伤害(特大)/土属性追加伤害/自身奥义值30%UP<span class=text-blue>◆超级安多琳娜效果中：变化为土属性伤害(极大)</span></div>
+skill-1,,我方全体水属性受伤减轻/奥义值30%UP/免疫弱体效果(1次)
+skill-2,,<div class=prt-text-small>消耗20%奥义值对敌方全体造成3次土属性伤害/攻防DOWN(累积)/自身连击率UP(累积)<span class=text-blue>◆1回合内可使用2次/超级安多琳娜效果中，追加驱散1个强化效果</span></div>
+skill-3,,<div class=prt-text-small>自身获得超级安多琳娜效果/奥义值100%UP<span class=text-blue>◆仅电流Lv5时可使用/效果中，奥义以及技能不消耗奥义值</span></div>
+support-1,,<div class=prt-text-small>回合结束时，根据自身强化效果数量奥义值UP(最大20%)</div>
+support-2,,<div class=prt-text-small>普攻时消耗25%奥义值对敌方造成土属性伤害/每累积消耗50%奥义值电流Lv上升1(最大5)<span class=text-blue>◆根据电流Lv依次获得以下效果(攻击UP/防御UP/奥义值上升量UP/技能性能UP/技能造成伤害UP)</span></div>
+skill-lb,LB技能,
+intro,,

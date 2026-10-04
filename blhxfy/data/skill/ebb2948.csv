@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,坎妲缇,3040461000
+special,,风属性伤害(特大)/敌方全体调律Lv上升1(最大10)/自身技能cd缩短1回合
+skill-1,,对敌方单体造成6次风属性伤害/弱体耐性DOWN(累积)/风属性防御DOWN(累积)
+skill-2,,<div class=prt-text-small>对敌方全体造成风属性伤害/调律Lv上升1(最大10)/驱散1种强化效果<span class=text-blue>◆敌人调律Lv在5以上时，发动2次</span></div>
+skill-3,,<div class=prt-text-small>得意武器为「乐器」的风属性角色回复全部HP/净化所有弱体效果/技能可即刻使用/自身获得格拉佩里效果<span class=text-blue>◆存在调律Lv10以上的敌人时可使用</span></div>
+support-1,,普攻后敌人的调律Lv在7以上时，对敌方单体造成3次风属性伤害/自身奥义值10%UP
+support-2,,根据队伍中得意武器为「乐器」的角色数量，技能性能UP
+skill-lb,LB技能,
+intro,,

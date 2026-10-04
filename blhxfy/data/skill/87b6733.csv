@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,米卡波西,3040658000
+special,,<div class=prt-text-small>火属性伤害(极大)/火属性防御DOWN/自身获得火属性追击效果<span class=text-blue>◆星燐缠衣效果中，奥义伤害特殊上限UP</span></div>
+skill-1,,<div class=prt-text-small>对敌方造成8倍火属性伤害/攻击DOWN(累积)/驱散1个强化效果<span class=text-blue>◆星燐缠衣效果中，伤害性能UP</span></div>
+skill-2,,<div class=prt-text-small>回复自身全部HP/星燐缠衣效果<span class=text-blue>◆该技能变化为「星燐跃动」/效果中，每回合受到伤害但攻击UP/防御大幅UP/免疫驱散/回合中进行2次攻击行动</span></div>
+skill-3,,<div class=prt-text-small>自身获得火属性追击效果/普攻造成伤害UP/吸收效果<span class=text-blue>◆星燐缠衣效果中，性能UP</span></div>
+support-1,,<div class=prt-text-small>容易成为敌方目标且普攻不累积奥义值，但必定三连击/免疫弱体效果/每进行3次攻击行动奥义值30%UP/伤害上限UP(累积)</div>
+support-2,,<div class=prt-text-small>消耗自身HP的回合结束时，获得烈华效果/技能的预备回合与冷却回合缩短1回合<span class=text-blue>◆烈华效果中，红属性攻击力UP/普攻时发动技能1</span></div>
+skill-lb,LB技能,
+intro,,

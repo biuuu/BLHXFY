@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,美杜莎,3040389000
+special,,火属性伤害(特大)/我方全体获得幻影效果(1次)/自身回避敌方所有攻击(1次)
+skill-1,,我方全体反射部分伤害(1次)/免疫弱体效果(1次)<span class=text-blue>◆波蛇Lv5时，追加屏障效果/反击效果(回避·受伤/2次)</span>
+skill-2,,对随机目标在成5次火属性伤害/驱散敌方全体1个强化效果/中毒效果<span class=text-blue>◆根据波蛇Lv攻击次数UP(最大10次)</span>
+skill-3,,1回合内封印敌方全体行动/连击率DOWN/命中率DOWN
+support-1,,<div class=prt-text-small>根据队伍中「星晶兽」种族数量依次获得以下效果(攻击UP/防御UP/必定三连击/回避率UP/伤害上限UP)</div>
+support-2,,<div class=prt-text-small>美杜莎未受到伤害的回合波蛇Lv上升1(最大5)<span class=text-blue>◆Lv5时，未受到伤害的回合结束时发动技能2</span></div>
+skill-lb,LB技能,小概率回避敌方所有攻击
+intro,,

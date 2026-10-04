@@ -1,0 +1,8 @@
+﻿id,name,detail
+npc,菲迪埃尔,3040472000
+special,死之途,水属性伤害(特大)/自身技能cd缩短1回合<span class=text-blue>◆「黑之清凉」效果中，发动2次</span>
+skill-1,凉爽屏障,<div class=prt-text-small>消耗25%HP，水属性角色获得屏障效果/「黑之清凉」效果<span class=text-blue>◆「黑之清凉」效果中，奥义值上升量UP/每回合受到伤害/奥义发动时追加伤害</span></div>
+skill-2,逆转之爪,对敌方单体造成8倍水属性伤害/连击率DOWN(累积)/自身奥义值20%UP
+skill-3,强击黑羽,<div class=prt-text-small>对敌方随机目标根据其HP造成4次无属性伤害/敌方全体水属性防御DOWN(累积)/驱散1种强化效果<span class=text-blue>◆</span>「黑之清凉」效果中，发动2次</div>
+support-1,『黑』的假日,「黑之清凉」效果中，回合结束时发动技能2
+support-2,咒蚀的祝福,受到回合伤害时，自身奥义值10%UP/水属性角色奥义伤害上升(累积)

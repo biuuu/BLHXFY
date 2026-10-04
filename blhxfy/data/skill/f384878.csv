@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,诺瓦尔,3040549000
+special,,风属性伤害(特大)/自身回避敌方所有攻击(1次)
+skill-1,,<div class=prt-text-small>对敌方全体造成风属性伤害/赋予狂气的虏囚效果/自身获得狂气开眼效果</div>
+skill-2,,对敌方造成3次风属性伤害/风属性防御DOWN(累积)
+skill-3,,<div class=prt-text-small>牺牲自身HP获得逆境效果/暴击率UP/会心效果/普攻造成伤害UP/回合中进行2次攻击行动</div>
+support-1,,诺瓦尔剩余HP越少，风属性角色攻击大幅UP
+support-2,,<div class=prt-text-small>有HP在50%以下的敌人在场时，自身必定三连击/风属性追击效果/普攻的第2Hit对随机目标发生2次，第3Hit对随机目标发生3次/免疫驱散<span class=text-blue>◆狂气开眼效果中无视敌人血量条件发动</span></div>
+skill-lb,LB技能,
+intro,,

@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,诺托斯,3040661000
+special,,风属性伤害(特大)/连击率DOWN/命中率DOWN
+skill-1,,<div class=prt-text-small>对敌方造成2次风属性伤害/风属性防御DOWN(累积)/自身造成伤害上升(累积)<span class=text-blue>◆送风Lv5时，普攻后发动/回风Lv5时，攻击次数翻倍</span></div>
+skill-2,,<div class=prt-text-small>风属性角色免疫驱散(1次)/三连击率UP<span class=text-blue>◆第2次发动追加回复HP</span></div>
+skill-3,,<div class=prt-text-small>自身获得风来之祈效果<span class=text-blue>◆2回合后根据送风Lv使风属性角色依次获得以下强化效果(风属性攻击UP/普攻造成伤害UP/伤害上限UP/暴击率UP/会心效果)/根据回风Lv使风属性角色技能cd缩短(最大3回合)/再使用不可</span></div>
+support-1,,<div class=prt-text-small>风属性角色使用伤害技能时，诺托斯的送风Lv上升1(最大5)/送风Lv为5时，诺托斯对敌方造成风属性伤害/风属性角色使用强化技能时，诺托斯的回风Lv上升1(最大5)/回风Lv为5时，风属性角色回避率UP(累积)<span class=text-blue>◆根据送风Lv获得攻击UP/根据回风Lv防御UP</span></div>
+support-2,,<div class=prt-text-small>若回合结束时敌人CT最大，下一回合风属性角色免疫弱体效果(1次)</div>
+skill-lb,LB技能,
+intro,,

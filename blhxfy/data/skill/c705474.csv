@@ -1,0 +1,11 @@
+﻿id,name,detail
+npc,巴多拉,3040674000
+special,,<div class=prt-text-small>光属性伤害(极大)/自身获得白象招来效果<span class=text-blue>◆白象招来效果中，攻击开始时对敌方全体造成13次光属性伤害/受伤加重/无法发动奥义</span></div>
+skill-1,,<div class=prt-text-small>自身获得1层红之抽象(最大5)<span class=text-blue>◆红之抽象在敌人使用特殊技或自身以外光属性角色累积使用3次伤害或削弱技能时获得1层</span></div>
+skill-2,,<div class=prt-text-small>自身获得1层黄之抽象(最大5)<span class=text-blue>◆黄之抽象在敌人使用特殊技或自身以外光属性角色累积使用3次强化或回复技能时获得1层</span></div>
+skill-3,,<div class=prt-text-small>自身以外的光属性角色获得悟得奉迎效果<span class=text-blue>◆仅在红之抽象与黄之抽象皆为5层时可使用/效果中，技能性能UP/技能造成伤害UP/普攻时对敌方造成3次光属性伤害/再使用不可</span></div>
+support-1,,<div class=prt-text-small>奥义最大值200/获得红之抽象与黄之抽象时，对敌方全体造成光属性伤害/回合结束时若存在濒死状态的队友，仅一次，回复光属性角色全部HP与弱体效果/战斗开始时若自身处于前排，则全队光属性角色获得不死之身效果(1次)<span class=text-blue>◆仅在奥义值200%时可使用奥义</span></div>
+support-2,,<div class=prt-text-small>根据自身的红之抽象层数自身技能性能UP/技能造成伤害UP/普攻时对敌方造成光属性伤害(最大5次)<span class=text-blue>◆普攻时根据红之抽象效果依次发动以下效果(攻击DOWN(累积)/防御DOWN(累积)/特殊技伤害DOWN(累积)/弱体耐性DOWN(累积)/驱散1个强化效果)</span></div>
+support-3,,<div class=prt-text-small>根据自身的黄之抽象层数自身连击率UP/光属性角色依次获得以下效果(再生效果/高扬效果/受伤减轻/免疫驱散/弱体耐性UP)</div>
+skill-lb,LB技能,
+intro,,

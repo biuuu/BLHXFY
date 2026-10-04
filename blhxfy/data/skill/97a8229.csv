@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,兰德尔,3040368000
+special,,风属性伤害(特大)/根据疾旋脚Lv造成追加伤害(最多5次)
+skill-1,,对敌方单体造成5倍风属性伤害/自身奥义值30%UP/疾旋脚Lv上升1(最大5)
+skill-2,,对敌方单体造成6次风属性伤害/自身回避敌方全部攻击/敌对心UP
+skill-3,,<div class=prt-text-small>自身可即刻发动奥义/其他技能可即刻使用/奥义发动2次<span class=text-blue>◆仅疾旋脚Lv5时可使用</span></div>
+support-1,,<div class=prt-text-small>容易成为敌方目标但回避率大幅UP<span class=text-blue>◆回避成功时发动技能1</span></div>
+support-2,,<div class=prt-text-small>奥义发动时疾旋脚Lv上升1(最大5)<span class=text-blue>◆根据疾旋脚Lv攻击UP/伤害上限UP</span></div>
+skill-lb,LB技能,战斗开始时疾旋脚Lv上升
+intro,,

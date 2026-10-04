@@ -1,0 +1,10 @@
+id,name,detail
+npc,佩可莉姆,3040200000
+special,公主挥击,<div class=prt-text-small>光属性伤害(特大)/自身获得格挡</div>
+skill-1,坠落斩,<div class=prt-text-small>对敌方单体造成光属性伤害/自身HP回复</div>
+skill-2,皇家庇护,<div class=prt-text-small>自身获得援护(全体)/防御力UP</div>
+skill-3,公主之力,<div class=prt-text-small>自身获得高扬/暗属性伤害减轻</div>
+support-1,午饭时间,每3回合自身HP回复
+support-2,不得了呀☆,自身敌对心UP/最大HPUP
+skill-lb,LB技能,处于援护时，弱体耐性UP
+intro,肚子扁扁,来自“阿斯托莱雅”的工会【美食殿】的一员，一直饿着肚子精神满满的少女。对食物比常人更加拘泥，无论是什么东西，只要是食材就绝对不会浪费。她感谢所有的生命，对所有的食材抱有敬意。这是她的信念。

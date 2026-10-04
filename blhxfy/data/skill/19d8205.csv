@@ -1,0 +1,13 @@
+﻿id,name,detail
+npc,乌露琪,3040526000
+special,,<div class=prt-text-small>水属性伤害(特大)/冰结Lv上升1(最大10)/发动回合中自身减免火属性伤害(100%)<span class=text-blue>◆敌方冰结Lv在7以上时，技能2可即刻使用</span></div>
+skill-1,,对敌方造成水属性伤害/水属性角色奥义值10%UP
+skill-1++,,对敌方造成水属性伤害/水属性角色奥义值10%UP/回复HP
+skill-2,,对敌方全体造成12倍水属性伤害/冰结Lv上升1(最大10)
+skill-2++,,对敌方全体造成12倍水属性伤害/冰结Lv上升1(最大10)/缓速效果
+skill-3,,<div class=prt-text-small>消耗自身最大HP的20%，自身获得援护效果(全体)/免疫弱体效果(1次)</div>
+skill-3+,,<div class=prt-text-small>消耗自身最大HP的20%，自身获得援护效果(全体)/免疫弱体效果(1次)/奥义可即刻发动</div>
+support-1,,<div class=prt-text-small>连击率低但回合结束时发动技能1/水属性奥义连锁发动时，连锁数+2</div>
+support-2,,<div class=prt-text-small>技能「海神方阵」的效果10%UP<span class=text-blue>◆自身处于后排时同样发动</span></div>
+skill-lb,LB技能,
+intro,,

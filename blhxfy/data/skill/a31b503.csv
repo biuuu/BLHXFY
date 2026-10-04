@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,席尔瓦,3040391000
+special,,火属性伤害(极大)/奥义发动回合对敌方施加受伤加重(6次)
+skill-1,,自身获得「静默瞄准」效果(消去不可)
+skill-2,,火属性角色奥义值30%UP<span class=text-blue>◆2次发动追加奥义性能UP(1次)/3次发动追加伤害上限UP</span>
+skill-3,,<div class=prt-text-small>敌方风属性攻击DOWN/连击率DOWN<br><span class=text-blue>◆2次发动追加增加最大CT/3次发动追加命中率DOWN</span></div>
+support-1,,普攻不增加奥义值，但席尔瓦未进行攻击的回合，回合结束后可即刻发动奥义
+support-2,,无视敌方幻影效果，奥义可命中敌方/火属性4连及以上奥义连锁发动时，技能2使用间隔缩短2回合
+skill-lb,LB技能,HP最大时，奥义伤害上限UP
+intro,,

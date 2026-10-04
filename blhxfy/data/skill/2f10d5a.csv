@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,涅槃,3040341000
+special,,回复光属性角色HP/净化1种弱体效果/奥义值15%UP/自身技能cd缩短3回合
+skill-1,,<div class=prt-text-small>自身以外光属性角色获得灰灭效果<span class=text-blue>◆效果中攻击UP/光属性追击效果/伤害上升/弱体耐性大幅DOWN</span></div>
+skill-2,,<div class=prt-text-small>自身以外光属性角色获得狼汤效果<span class=text-blue>◆效果中必定三连击/奥义值上升量UP/回避率UP/防御大幅DOWN</span></div>
+skill-3,,<div class=prt-text-small>自身以外光属性角色回合中进行2次攻击行动<span class=text-blue>◆减少对象30%最大HP(至多减少90%)</span></div>
+support-1,,最大HP减少20%/防御力低但回避率高/回避成功时，对敌方单体造成6次光属性伤害
+support-2,,若战斗开始时自身处于前排，自身以外光属性角色获得即死回避效果
+skill-lb,LB技能,极小几率回避敌方所有攻击
+intro,,
