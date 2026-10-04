@@ -1253,8 +1253,8 @@ packages:
     resolution: {integrity: sha512-BR7VvDCVHO+q2xBEWskxS6DJE1qRnb7DxzUrogb71CWoSficBxYsiAGd+Kl0mmq/MprG9yArRkyrQxTO6XjMzA==}
     hasBin: true
 
-  serialize-javascript@7.0.4:
-    resolution: {integrity: sha512-DuGdB+Po43Q5Jxwpzt1lhyFSYKryqoNjQSA9M92tyw0lyHIOur+XCalOUe0KTJpyqzT8+fQ5A0Jf7vCx/NKmIg==}
+  serialize-javascript@7.1.2:
+    resolution: {integrity: sha512-GL2BWwVa6JydKO6l/ljVgjAZF4QJ3S7dWDWi53s5GZT8PJzD2fNxi67HANQGKAqPrwEpL5ba7gUBGi0Ls/sEoQ==}
     engines: {node: '>=20.0.0'}
 
   shebang-command@2.0.0:
@@ -2205,7 +2205,7 @@ snapshots:
 
   '@rollup/plugin-terser@1.0.0(rollup@2.80.0)':
     dependencies:
-      serialize-javascript: 7.0.4
+      serialize-javascript: 7.1.2
       smob: 1.6.1
       terser: 5.46.0
     optionalDependencies:
@@ -2582,7 +2582,7 @@ snapshots:
 
   semver@6.3.1: {}
 
-  serialize-javascript@7.0.4: {}
+  serialize-javascript@7.1.2: {}
 
   shebang-command@2.0.0:
     dependencies:
