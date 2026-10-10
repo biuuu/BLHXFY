@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,斯平纳,3040523000
+special,,风属性伤害(特大)/技能2发动
+skill-1,,<div class=prt-text-small>效果中回合中进行2次攻击行动<span class=text-blue>◆旋转Lv在5以上时，追加风属性追击效果</span></div>
+skill-2,,<div class=prt-text-small>自身获得免疫驱散效果(1次)/幻影效果(1次)/回避敌方所有攻击(1次)/旋转Lv上升2</div>
+skill-3,,<div class=prt-text-small>自身普攻造成伤害上升/乱击(3Hit)<span class=text-blue>◆仅在旋转Lv10时可使用/重置旋转Lv</span></div>
+support-1,,攻击力低但必定三连击
+support-2,,<div class=prt-text-small>我方全体对选中敌人造成30次以上攻击的回合结束时，自身旋转Lv上升1(最大10)<span class=text-blue>◆战斗开始时，旋转Lv为10/旋转Lv为0时，自身获得风属性追击效果</span></div>
+skill-lb,LB技能,
+intro,,

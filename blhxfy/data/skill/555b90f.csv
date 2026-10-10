@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,弗雷,3040387000
+special,,风属性伤害(特大)/自身获得3神圣剑
+skill-1,,<div class=prt-text-small>对敌方单体造成6次风属性伤害/自身在回合中进行2次攻击行动<span class=text-blue>◆消耗2神圣剑</span></div>
+skill-2,,<div class=prt-text-small>对敌方全体造成3次风属性伤害/攻防DOWN(累积)/驱散1种强化效果<span class=text-blue>◆消耗1神圣剑</span></div>
+skill-3,,<div class=prt-text-small>风属性角色攻击性能UP/防御性能UP/奥义伤害UP/奥义连击性能UP/弱体成功率UP/免疫弱体效果(1次)/免疫驱散(1次)</div>
+support-1,,战斗开始时获得3神圣剑(最大3)<span class=text-blue>◆拥有神圣剑效果时，必定三连击</span>
+support-2,,若战斗开始时自身处于前排，风属性角色获得再生效果
+skill-lb,LB技能,奥义上升量UP
+intro,,

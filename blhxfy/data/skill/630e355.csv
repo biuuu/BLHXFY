@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,伊尔莎,3040599000
+special,,水属性伤害(特大)/技能1与技能2可即刻使用
+skill-1,,<div class=prt-text-small>对随机目标造成4次水属性上海/驱散敌方全体1个强化效果/水属性角色技能造成伤害上升(累积)/自身获得1护卫子弹<span class=text-blue>◆得意武器「铳」「弓」的水属性角色累计发动3次三连击时发动该技能</span></div>
+skill-2,,<div class=prt-text-small>对敌方造成10倍水属性伤害/火属性攻击DOWN/水属性防御DOWN/受伤加重(累积)/自身获得1护卫子弹<span class=text-blue>◆得意武器「铳」「弓」的水属性角色对选定目标造成60次以上攻击的回合结束时发动</span></div>
+skill-3,,<div class=prt-text-small>对敌方造成12次合计48倍水属性伤害/自身与水属性主人公在回合中进行2次攻击行动<br><span class=text-blue>◆消耗12护卫子弹</span></div>
+support-1,,<div class=prt-text-small>战斗开始时，自身获得3护卫子弹(最大12)/奥义值积累缓慢但必定三连击/每次普攻对随机目标造成2Hit</div>
+support-2,,<div class=prt-text-small>根据前排得意武器「铳」「弓」的水属性角色数量，得意武器「铳」「弓」的水属性角色依次获得以下效果(普攻造成伤害上升/弱点属性追击效果/普攻Hit数增加1/伤害上限UP)</div>
+skill-lb,LB技能,
+intro,,

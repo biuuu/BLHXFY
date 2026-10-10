@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,露·欧,3040449000
+special,,光属性伤害(特大)<span class=text-blue>◆场地效果「生命的后光」展开时，追加无属性伤害</span>
+skill-1,,<div class=prt-text-small>HP在40%以上的光属性角色获得诞光的祝词效果<span class=text-blue>◆诞光的祝词效果中获得活性效果/攻击UP/暴击率UP/会心效果/HP不满40%时解除</span></div>
+skill-2,,<div class=prt-text-small>对敌方造成6次光属性伤害/攻击DOWN(累积)/特殊技伤害DOWN(累积/回复不可)<span class=text-blue>◆「生命的后光」展开时，自身普攻后自动发动</span></div>
+skill-3,,展开场地效果「生命的后光」<span class=text-blue>◆再使用不可</span>
+support-1,,<div class=prt-text-small>场地效果「生命的后光」展开时，光属性角色弱体耐性UP/连击率UP/奥义性能UP</div>
+support-2,,Fatal Chain发动时，驱散敌方全体1个强化效果
+skill-lb,LB技能,场地效果「生命的后光」展开时，光属性角色回复性能UP
+intro,,

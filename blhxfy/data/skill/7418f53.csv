@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,阿莉亚,3040648000
+special,,<div class=prt-text-small>水属性伤害(极大)/自身奥义值50%UP/弱点属性追击效果<span class=text-blue>◆消耗清风庇佑而非奥义值发动奥义/即使设置奥义温存也同样发动</span></div>
+skill-1,,<div class=prt-text-small>就由我黄金骑士来守护你吧<span class=text-blue>◆仅在主人公为水属性时可使用/效果中，自身援护主人公/火属性受伤减轻/将受到的伤害转化为火属性/敌方造成的火属性伤害最大值固定为5000/活性效果/高扬效果/再使用不可</span></div>
+skill-2,,<div class=prt-text-small>对敌方造成2次水属性伤害/驱散1个强化效果/回复水属性角色HP<span class=text-blue>◆普攻时消耗50%奥义值发动</span></div>
+skill-3,,<div class=prt-text-small>自身与水属性主人公在回合中的攻击行动数增加1次/暴击率UP/伤害上限UP/自身获得清风庇佑效果<span class=text-blue>◆仅在络绊Lv5时可使用</span></div>
+support-1,,<div class=prt-text-small>水属性主人公未受伤的回合结束时自身络绊Lv上升1(最大5)<span class=text-blue>◆根据Lv自身与水属性主人公依次获得以下效果(攻防UP/三连击率UP/普攻造成伤害UP/免疫弱体效果/免疫驱散)</span></div>
+support-2,,<div class=prt-text-small>战斗开始时获得不死之身效果(1次)/若回合结束时自身处于濒死状态，仅一次，回复自身全部HP以及全部弱体效果</div>
+skill-lb,LB技能,
+intro,,

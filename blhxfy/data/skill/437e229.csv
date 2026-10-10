@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,拉维利塔,3040591000
+special,,<div class=prt-text-small>火属性伤害(特大)/火属性角色火属性攻击UP/自身获得2层「资本」</div>
+skill-1,,对敌方造成5次火属性伤害/缓速效果/自身造成伤害上升(累积)
+skill-2,,<div class=prt-text-small>对敌方全体造成火属性伤害/火属性角色获得随机强化效果，或者敌方全体被赋予随机弱体效果<span class=text-blue>◆根据商人Lv发动次数UP(最大6次)</span></div>
+skill-3,,使用魔道具<span class=text-blue>◆根据所选的魔道具变化效果</span>
+support-1,,<div class=prt-text-small>战斗开始时追加3层「资本」/自身三连击时，追加1层「资本」<span class=text-blue>◆通过魔道具消耗5层「资本」的回合中，普攻后发动技能1</span></div>
+support-2,,<div class=prt-text-small>火属性角色累积4次三连击后，自身商人Lv上升1(最大5)<span class=text-blue>◆根据商人Lv依次获得以下效果(攻击UP/防御UP/伤害上限UP/普攻造成伤害UP/攻击开始时若「资本」为5层，发动1个随机魔道具)</span></div>
+skill-lb,LB技能,
+intro,,

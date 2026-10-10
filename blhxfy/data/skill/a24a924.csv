@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,破弓成双 米拉奥尔&扎莉莉亚欧,3040272000
+special,,水属性伤害(特大)/自身回避率UP(3回合)
+skill-1,,对敌方单体造成水属性伤害/火属性攻击20%DOWN/命中率DOWN
+skill-2,,效果中必定二连击/回合中进行3次攻击行动<span class=text-blue>◆消耗100%奥义值</span>
+skill-3,,<div class=prt-text-small>对敌方单体造成水属性伤害/自身奥义值20%UP<span class=text-blue>◆根据队伍中得意武器为「弓」「铳」的角色数量，发动次数UP(最大6次)</span></div>
+support-1,,普攻的第1击与第3击伤害上升(最大40000)
+support-2,,普攻的第2击对随机目标发动2次/普攻第3击发动水属性追加伤害
+skill-lb,LB技能,普攻有几率使技能cd缩短1回合
+intro,,

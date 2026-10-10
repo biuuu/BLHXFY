@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,蕾·芬耶,3040520000
+special,,<div class=prt-text-small>暗属性伤害(特大)/技能2可即刻使用/暗属性角色获得暗属性追击效果<span class=text-blue>◆根据七宝石Lv造成暗属性追加伤害</span></div>
+skill-1,,<div class=prt-text-small>对敌方全体造成暗属性伤害/暗属性角色强化效果延长1回合<span class=text-blue>◆七宝石Lv7时，攻击次数变为3倍/对效果时间为1回合的强化效果无效</span></div>
+skill-2,,<div class=prt-text-small>回复暗属性角色HP/奥义值10%UP/回复1个弱体效果<span class=text-blue>◆七宝石Lv7时，暗属性角色获得屏障</span></div>
+skill-3,,<div class=prt-text-small>暗属性角色获得宝石之护效果<span class=text-blue>◆效果中，奥义值上升量UP/将承伤转化为光属性/光属性受伤减轻/活性效果</span></div>
+support-1,,<div class=prt-text-small>使用技能时，七宝石Lv上升1(最大7)<span class=text-blue>◆根据七宝石Lv攻防UP/连击率UP/回复性能UP</span></div>
+support-2,,<div class=prt-text-small>若回合结束时敌方CT最大，技能3的cd缩短1回合</div>
+skill-lb,LB技能,
+intro,,

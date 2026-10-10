@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,诺伊修,3040281000
+special,虹光,风属性伤害(特大)/我方全体风属性攻击力UP/连续攻击率UP
+skill-1,骑士,<div class=prt-text-small>对敌方单体造成风属性伤害/攻防DOWN(累积)/自身获得连续攻击率UP(累积)<br><span class=text-blue>◆消耗1层「骑士的箭筒」</span></div>
+skill-2,六型弓射,<div class=prt-text-small>对敌方单体造成10次风属性伤害/驱散1个强化效果<br><span class=text-blue>◆消耗3层「骑士的箭筒」该技能立即可用</span></div>
+skill-3,掩蔽,<div class=prt-text-small>我方指定风属性角色获得潜伏效果/攻击力UP/风属性追击效果(受到伤害时解除)/防御力DOWN</div>
+support-1,马上的弓技,<div class=prt-text-small>战斗开始时自身获得4层「骑士的箭筒」(最大4层)/每过4回合获得4层/没有受到伤害的回合获得1层</div>
+support-2,真龙的友爱,自身处于风属性攻击力UP时攻防UP
+skill-lb,LB技能,回合开始时自身概率在本回合获得全回避效果
+intro,伽罗弓骑士,清廉的男性骑士，在罪与旅途的尽头得到了海纳百川的度量。如今他与父亲一样成了被称为英雄的存在。愿他与同伴所行之路蒙受祝福，不被周身的血绊住脚步。

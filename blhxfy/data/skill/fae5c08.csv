@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,克璐璐,3040529000
+special,,<div class=prt-text-small>土属性伤害(特大)/自身获得逆境效果/技能2与技能3可即刻使用</div>
+skill-1,,<div class=prt-text-small>土属性角色攻击UP/技能性能UP/技能造成伤害上升/赋予荒土刻印</div>
+skill-2,,<div class=prt-text-small>对敌方全体造成5次土属性伤害/攻防DOWN(累积)<span class=text-blue>◆消耗自身最大HP的40%可再次使用/自身拥有5层荒土刻印时，发动2次</span></div>
+skill-3,,自身获得荒土刻印/防御大幅UP/屏障效果/回复1个弱体效果
+support-1,,<div class=prt-text-small>自身处于濒死状态时必定三连击/回合结束时发动技能2</div>
+support-2,,<div class=prt-text-small>土属性角色根据各自荒土刻印层数技能造成伤害上升<span class=text-blue>◆自身处于后排时同样发动</span></div>
+skill-lb,LB技能,
+intro,,

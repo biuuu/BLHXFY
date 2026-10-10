@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,天照,3040634000
+special,,光属性伤害(特大)/命中率DOWN/光属性角色获得再生效果
+skill-1,,<div class=prt-text-small>对敌方全体造成3次光属性伤害/光属性防御DOWN(累积)/驱散1个强化效果<span class=text-blue>◆阳神Lv7时，攻击次数翻倍</span></div>
+skill-2,,<div class=prt-text-small>光属性角色获得极光刻印/回复HP/回复1个弱体效果<span class=text-blue>◆敌方使用特殊技时可即刻使用</span></div>
+skill-3,,<div class=prt-text-small>光属性角色获得绚烂阳光效果/自动复活效果<span class=text-blue>◆仅在阳神Lv7时可使用/绚烂阳光效果中/技能造成伤害上升/受伤减轻/技能cd缩短1回合/再使用不可</span></div>
+support-1,,<div class=prt-text-small>队友使用赋予极光刻印的技能时，自身阳神Lv上升1(最大7)<span class=text-blue>◆根据阳神Lv攻防UP/技能性能UP/阳神Lv7时，队友使用赋予极光刻印的技能则发动技能1</span></div>
+support-2,,<div class=prt-text-small>光属性角色根据各自极光刻印层数回复性能UP<span class=text-blue>◆自身处于后排时同样发动</span></div>
+skill-lb,LB技能,
+intro,,

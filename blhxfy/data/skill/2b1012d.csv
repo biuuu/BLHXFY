@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,瓦姆杜斯,3040639000
+special,,<div class=prt-text-small>暗属性伤害(特大)/技能1发动/暗属性角色攻防UP(累积)<span class=text-blue>◆『碧』之甘味Lv10时，发动2次</span></div>
+skill-1,,对敌方造成6次暗属性伤害/攻击DOWN(累积)/剧毒Lv上升1(最大10)
+skill-2,,暗属性角色奥义值20%UP/受伤减轻效果/回复HP
+skill-3,,<div class=prt-text-small>根据敌方现有HP造成无属性伤害/驱散1个强化效果，Fatal Chain值20%UP<span class=text-blue>◆『碧』之甘味Lv10时，发动2次</span></div>
+support-1,,<div class=prt-text-small>最大HPUP/暗属性角色发动奥义时，自身『碧』之甘味Lv上升1(最大10)/奥义值10%UP<span class=text-blue>◆根据『碧』之甘味Lv暗属性角色奥义性能UP/技能性能UP</span></div>
+support-2,,<div class=prt-text-small>暗属性奥义连锁4连及以上时，技能2发动/暗属性Fatal Chain发动时，自身必定三连击/乱击(4次)效果/回合中进行2次攻击行动</div>
+skill-lb,LB技能,
+intro,,

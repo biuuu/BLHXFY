@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,芙劳,3040600000
+special,,土属性伤害(特大)/土属性角色技能性能UP
+skill-1,,<div class=prt-text-small>对敌方造成土属性伤害/驱散1个强化效果/噩梦的邀请效果<span class=text-blue>◆恶魔的花嫁Lv5时，攻击次数翻倍</span></div>
+skill-2,,<div class=prt-text-small>对敌方造成土属性伤害/回复土属性角色HP/回复1个弱体效果<span class=text-blue>◆恶魔的花嫁Lv5时，攻击次数翻倍</span></div>
+skill-3,,<div class=prt-text-small>对敌方造成土属性伤害/赋予随机弱体效果<span class=text-blue>◆根据使用次数发动次数UP(最大5次)</span></div>
+support-1,,<div class=prt-text-small>根据恶魔的花嫁Lv自身与土属性主人公连击率UP/技能性能UP/技能造成伤害UP/若敌方使用特殊技时恶魔的花嫁为Lv5，技能2发动</div>
+support-2,,<div class=prt-text-small>得意武器「格斗」的土属性角色使用伤害技能时，芙劳获得1层蛊惑的花瓣<span class=text-blue>◆回合结束时消耗5层蛊惑的花瓣使自身恶魔的花嫁Lv上升1(最大5)/伤害技能可即刻使用</span></div>
+skill-lb,LB技能,
+intro,,

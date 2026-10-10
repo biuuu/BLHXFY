@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,尤斯缇斯,3040646000
+special,,火属性伤害(特大)/自身技能cd缩短1回合
+skill-1,,<div class=prt-text-small>对敌方造成6次火属性伤害/受伤加重/感电Lv上升1(最大10)/火属性角色奥义值20%UP</div>
+skill-2,,<div class=prt-text-small>对敌方全体造成火属性伤害/赋予2个随机弱体效果<span class=text-blue>◆充填Lv10时，1回合中可连续使用2次</span></div>
+skill-3,,<div class=prt-text-small>自身与火属性主人公获得唤醒效果/奥义值100%UP<span class=text-blue>◆充填Lv10时，追加奥义再发动效果/唤醒效果中，奥义性能UP/奥义值特殊上限UP/奥义发动时，对敌方造成火属性伤害</span></div>
+support-1,,<div class=prt-text-small>若火属性奥义连锁发动时包含自身与火属性角色发动的奥义，自身填充Lv上升1(最大10)<span class=text-blue>◆奥义连锁5连及以上时，Lv上升2/根据充填Lv自身与火属性主人公技能性能UP/技能造成伤害UP/奥义值上升量UP</span></div>
+support-2,,<div class=prt-text-small>火属性奥义连锁4连及以上发动的回合结束时，对敌方全体造成火属性伤害<span class=text-blue>◆充填Lv10时，发动2次</span></div>
+skill-lb,LB技能,
+intro,,

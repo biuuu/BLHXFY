@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,法斯提瓦,3040217000
+special,,土属性伤害(特大)/技能1可即刻使用<span class=text-blue>◆对象处于擒拿状态时奥义性能UP</span>
+skill-1,,赋予敌人擒拿效果，准备进行火热的攻防战
+skill-2,,对敌方造成土属性伤害/防御DOWN<span class=text-blue>◆对象处于擒拿状态时追加气绝效果</span>
+skill-3,,<div class=prt-text-small>我方全体连击率UP/激奏UP<span class=text-blue>◆有处于擒拿状态的敌人在场时，追加我方全体普攻伤害UP效果</span></div>
+support-1,,被处于擒拿状态的敌人选为攻击目标时对敌方全体造成土属性伤害/缓速效果
+support-2,,容易被敌人攻击但最大HPUP/有处于擒拿状态的敌人在场时敌对心UP
+skill-lb,LB技能,对处于擒拿状态的敌人追加自属性追击效果
+intro,,

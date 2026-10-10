@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,圣德芬,3040515000
+special,,<div class=prt-text-small>光属性伤害(特大)/光属性角色获得活性效果/极彩色之翼效果延长2回合<span class=text-blue>◆白辉的加护效果中，变化为光属性伤害(极大)</span></div>
+skill-1,,<div class=prt-text-small>光属性角色获得极彩色之翼效果<span class=text-blue>◆白辉的加护效果中，追加光属性角色获得完全回避效果(1次)</span></div>
+skill-2,,<div class=prt-text-small>不经过回合进行普攻/敌方攻防DOWN(累积)/驱散1个强化效果<span class=text-blue>◆极彩色之翼效果，1回合内可连续使用2次</span></div>
+skill-3,,<div class=prt-text-small>自身可即刻发动奥义/奥义再发动(1次)效果/白辉的加护效果<span class=text-blue>◆白辉的加护效果中，追加回复自身HP/若回合结束时拥有每回合回复HP效果，则预备回合与冷却回合缩短1回合</span></div>
+support-1,,<div class=prt-text-small>极彩色之翼效果，自身必定三连击/同时拥有极彩色之翼效果与白辉的加护效果时，每次普攻对随机目标造成4Hit</div>
+support-2,,<div class=prt-text-small>技能「光」「雷电」「天光」「骑解方阵」效果20%UP<span class=text-blue>◆自身处于后排时同样发动</span></div>
+skill-lb,LB技能,
+intro,,

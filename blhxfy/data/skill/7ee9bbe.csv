@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,桑琪拉,3040633000
+special,,<div class=prt-text-small>火属性伤害(特大)/根据成就的慧矢数量依次获得以下效果(技能1可即刻使用/自身奥义性能UP(累积)/强化技能cd缩短1回合/赋予敌方火属性防御DOWN(累积)/弱体耐性DOWN(累积)/对随机目标造成12次火属性追加伤害)</div>
+skill-1,,<div class=prt-text-small>对敌方造成火属性伤害/攻防DOWN(累积)/连击率DOWN(累积)/驱散1个强化效果<span class=text-blue>◆成就的慧矢达到6时，1回合内可连续使用2次</span></div>
+skill-2,,<div class=prt-text-small>火属性角色获得天马效果<span class=text-blue>◆效果中，火属性攻击力UP/三连击率UP/每回合奥义值上升，奥义值不上升时则回复HP</span></div>
+skill-3,,火属性角色免疫伤害/Fatal Chain值100%UP
+support-1,,<div class=prt-text-small>受到火属性角色的奥义值UP效果时，自身获得1成就的慧矢(最大6)/成就的慧矢达到6时，所有技能可即刻使用</div>
+support-2,,<div class=prt-text-small>Fatal Chain最大值为200/Fatal Chain性能UP/Fatal Chain发动时，自身奥义值100%UP/奥义再发动效果(1次)<span class=text-blue>◆桑琪拉离开前排时，Fatal Chain最大值复原</span></div>
+skill-lb,LB技能,
+intro,,

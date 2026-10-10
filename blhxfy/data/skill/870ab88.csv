@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,梅丽莎贝尔,3040207000
+special,,光属性伤害(特大)/技能2发动
+skill-1,,<div class=prt-text-small>对随机目造成5次光属性伤害/敌方全体防御DOWN(累积)/光属性防御DOWN(累积)</div>
+skill-2,,对敌方造成光属性伤害/驱散1个强化效果/自身获得1个巧克力
+skill-3,,自身获得援护效果(全体)/减轻受到伤害的80%/技能伤害UP
+support-1,,<div class=prt-text-small>受到巨大伤害时获得1个巧克力(最大3)<span class=text-blue>◆若回合结束时有3个巧克力，消耗其全部对随机目标造成20次光属性伤害/回复自身HP</span></div>
+support-2,,<div class=prt-text-small>根据被敌人攻击的次数，回合结束时对随机目标造成光属性伤害(最大10次)</div>
+skill-lb,LB技能,援护效果中弱体耐性UP
+intro,,

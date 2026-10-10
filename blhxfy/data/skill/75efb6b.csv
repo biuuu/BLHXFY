@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,阿波罗尼亚,3040645000
+special,,土属性伤害(特大)/恐怖效果/缓速效果/发动奥义的回合自身受伤减轻
+skill-1,,<div class=prt-text-small>对敌方造成2次土属性伤害/土属性防御DOWN(累积)/特殊技伤害DOWN(累积)/驱散1个强化效果</div>
+skill-2,,<div class=prt-text-small>对敌方全体造成土属性伤害/回复土属性角色HP/弱体效果缩短2回合<span class=text-blue>◆对濒死状态的土属性角色回复性能UP</span></div>
+skill-3,,<div class=prt-text-small>自身获得黑凤之护剑效果<span class=text-blue>◆效果中，攻击UP/必定三连击/土属性追击效果/造成伤害上升/敌方造成的属性伤害最大值固定在5000/普攻时技能1发动</span></div>
+support-1,,<div class=prt-text-small>自身成功驱散敌方强化效果时，技能3的cd缩短1回合/自身攻防UP(累积)/乱击(3Hit)效果(1次)</div>
+support-2,,<div class=prt-text-small>援护自身后一位角色/回合结束时存在濒死状态或承受大伤害的队友时，技能2发动</div>
+skill-lb,LB技能,
+intro,,

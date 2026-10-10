@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,本努,3040627000
+special,,<div class=prt-text-small>土属性伤害(极大)/自身技能cd缩短2回合/暴击率UP</div>
+skill-1,,<div class=prt-text-small>对敌方全体造成4次土属性伤害/土属性防御DOWN(累积)/自身奥义值20%UP</div>
+skill-2,,土属性角色土属性攻击力UP/弱点属性追击效果/活性效果
+skill-3,,<div class=prt-text-small>自身获得森鸟的守护者效果<span class=text-blue>◆效果中，三连击率UP/暴击率UP/回合中进行2次攻击行动/普攻时发动技能1</span></div>
+support-1,,<div class=prt-text-small>战斗开始时获得不死之身效果/普攻不积累奥义值但普攻造成伤害UP/免疫驱散/自身三连击时技能1的cd缩短1回合</div>
+support-2,,<div class=prt-text-small>若自身结束攻击时，回合内进行了2次以上攻击行动，赋予敌方破爆之龟裂效果<span class=text-blue>◆效果中，土属性暴击伤害加重/累积遭受40次以上暴击伤害后，回合结束时消去破爆之龟裂效果并造成无属性伤害/受伤加重</span></div>
+skill-lb,LB技能,
+intro,,

@@ -1,0 +1,9 @@
+id,name,detail
+npc,巴尔,3040215000
+special,强化共鸣,<div class=prt-text-small>土属性伤害(特大)/我方全体奥义连锁性能UP<br><span class=text-blue>◆处于即兴演奏的自身与我方角色获得HP回复</span></div>
+skill-1,阿达德之境界,<div class=prt-text-small>对敌方全体造成土属性攻击/攻防DOWN(累积)<br><span class=text-blue>◆共鸣增幅3层时发动2次</span></div>
+skill-2,即兴演奏,<div class=prt-text-small>自身与我方指定角色获得即兴演奏<br><span class=text-blue>◆即兴演奏效果同时只能付与1人</span></div>
+skill-3,纳什维尔,<div class=prt-text-small>对随机目标造成3次攻击/驱散敌方全体1个强化效果/调律效果</div>
+support-1,双人合奏,即兴演奏效果中的自身与指定角色连击率UP/土属性追击效果/防御UP/敌对心UP
+support-2,共鸣增幅,奥义连锁发生时共鸣增幅上升1层(最大3层)/我方全体强化<br><span class=text-blue>◆根据共鸣增幅的层数对应性能强化</span>
+skill-lb,LB技能,我方全体获得水属性伤害减轻(仅在前排有效)
