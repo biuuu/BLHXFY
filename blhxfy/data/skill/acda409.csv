@@ -1,0 +1,15 @@
+﻿id,name,detail
+npc,维拉,3040141000
+special,伊利亚特幻影,<div class=prt-text-small>光属性伤害(特大)/自身获得6层「浮游体」<br><span class=text-blue>◆自身发动奥义的回合不会消耗「浮游体」</span></div>
+special-イーリアス・ジャッジメント,伊利亚特裁断,<div class=prt-text-small>光属性伤害(特大)/自身获得6层「浮游体」<br><span class=text-blue>◆自身发动奥义的回合不会消耗「浮游体」/追加发动1次「光之剑」</span></div>
+skill-1,模式：圣佑护身,<div class=prt-text-small>自身获得弱化效果解除/「圣佑护身」<br><span class=text-blue>◆回合结束时消耗1层「浮游体」/自身不处于「浮游体」时效果提前结束<span></div>
+skill-2,光之剑,对敌方全体造成光属性伤害/驱散1个强化效果
+skill-2++,光之剑,<div class=prt-text-small>对敌方全体造成光属性伤害/驱散1个强化效果<br><span class=text-blue>◆根据发动该技能次数追加额外伤害(最大2次)<span></div>
+skill-3,神圣武器,<div class=prt-text-small>自身获得必定三连击/奥义值上升量UP/光属性攻击力UP<br><span class=text-blue>◆处于「圣佑护身」时效果全体化<span></div>
+skill-4,命运之斧,自身获得可以立即发动奥义/奥义再发动效果
+support-1,星晶浮游体,<div class=prt-text-small>战斗开始时自身获得3层「浮游体」(最大6层)/普通攻击过的回合消耗1层「浮游体」<br><span class=text-blue>◆自身处于「浮游体」时获得暴击率UP/对暗属性目标伤害UP/与天司武器效果可以叠加<span></div>
+support-1+,星晶浮游体,<div class=prt-text-small>战斗开始时自身获得6层「浮游体」(最大6层)/普通攻击过的回合消耗1层「浮游体」<br><span class=text-blue>◆自身处于「浮游体」时获得暴击率UP/对暗属性目标伤害UP/与天司武器效果可以叠加<span></div>
+support-2,绝对守护障壁,<div class=prt-text-small>自身处于「圣佑护身」时获得防御力UP/弱化耐性UP/全体援护效果/再生效果(上限999)</div>
+support-2+,绝对守护障壁,<div class=prt-text-small>自身处于「圣佑护身」时获得防御力UP/弱化耐性UP/全体援护效果/再生效果(上限2000)/承受伤害减少效果</div>
+skill-lb,LB技能,自身普通攻击时概率缩短技能使用间隔1回合
+intro,庄严的双刃,软弱的内心让噩梦乘虚而入，不断重复再现侵蚀着少女的内心。为了保护主人骑士站了出来。无论它的方法如何滑稽可笑也要完成使命。

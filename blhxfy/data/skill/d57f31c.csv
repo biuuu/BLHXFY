@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,缇拉,3040503000
+special,,暗属性伤害(特大)/自身技能cd缩短1回合<span class=text-blue>◆暴龙狂怒效果中：无属性追加伤害</span>
+skill-1,,对敌方全体造成7倍暗属性伤害/驱散1种强化效果/暗属性防御DOWN(累积)
+skill-2,,对敌方随机目标造成8次暗属性伤害/自身获得2种随机强化效果
+skill-3,,自身必定三连击/乱击(2hit)效果/伤害类技能发动2次/免疫驱散<span class=text-blue>◆3次承伤解除</span>
+support-1,,敌人使用特殊技能时发动技能1
+support-2,,战斗成员越多，自身攻击UP/奥义伤害UP
+skill-lb,LB技能,
+intro,,

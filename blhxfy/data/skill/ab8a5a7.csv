@@ -1,0 +1,15 @@
+id,name,detail
+npc,德朗克,3040119000
+special,第九时刻,水属性伤害(特大)/火属性攻击力DOWN/水属性防御力DOWN
+special-レジェンダリー･スフィア,,<div class=prt-text-small>水属性伤害(特大)/火属性攻击力DOWN/水属性防御力DOWN<span class=text-blue>◆策谋之术Lv5时，奥义伤害特殊上限UP/烟涛之术Lv5时，驱散1个强化效果</span></div>
+skill-1,诡计花招,对敌方全体造成3次水属性伤害/回复水属性角色HP/奥义值10%UP
+skill-2,策略切换,<div class=prt-text-small>水属性角色获得随机强化效果/敌方全体获得随机弱体效果<span class=text-blue>◆根据策谋之术Lv增加强化效果数量/根据烟涛之术Lv增加弱体效果数量</span></div>
+skill-2++,策略切换,<div class=prt-text-small>水属性角色免疫驱散(1次)/获得随机强化效果/敌方全体获得随机弱体效果/自身策谋之术与烟涛之术Lv上升1<span class=text-blue>◆根据策谋之术Lv增加强化效果数量/根据烟涛之术Lv增加弱体效果数量</span></div>
+skill-3,阻断陷阱,驱散敌方单体1个强化效果/阻断陷阱效果
+skill-4,双星,<div class=prt-text-small>自身获得双星效果/可即刻发动奥义<span class=text-blue>◆策谋之术与烟涛之术Lv为5时可使用/效果中技能1攻击次数翻倍/奥义发动时对敌方全体造成水属性伤害</span></div>
+support-1,策谋一闪,<div class=prt-text-small>水属性角色发动奥义的回合结束时发动技能1/自身策谋之术Lv上升1(最大5)<span class=text-blue>◆根据策谋之术Lv自身攻防UP/连击率UP</span></div>
+support-1+,策谋一闪,<div class=prt-text-small>水属性角色发动奥义的回合结束时发动技能1/水属性角色攻防UP(累积)/自身策谋之术Lv上升1(最大5)<span class=text-blue>◆根据策谋之术Lv自身攻防UP/连击率UP</span></div>
+support-2,烟涛一闪,<div class=prt-text-small>敌方发动特殊技时发动技能1/敌方使用特殊技时或中断敌方的预兆时自身烟涛之术Lv上升1(最大5)<span class=text-blue>◆根据烟涛之术Lv自身奥义性能UP</span></div>
+support-2+,烟涛一闪,<div class=prt-text-small>敌方发动特殊技时发动技能1/水属性角色弱体效果缩短1回合/敌方使用特殊技时或中断敌方的预兆时自身烟涛之术Lv上升1(最大5)<span class=text-blue>◆根据烟涛之术Lv自身奥义性能UP</span></div>
+skill-lb,LB技能,自身回复性能HP
+intro,深蓝的游兵,风尘中玩世不恭的男子，究竟是浪子还是战士。笑面下真面目依旧不为人知，如摇荡的水面令人捉摸不透。

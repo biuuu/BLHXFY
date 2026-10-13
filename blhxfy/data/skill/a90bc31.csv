@@ -1,0 +1,8 @@
+﻿id,name,detail
+npc,凯瑟琳,3040484000
+special,兼烈,风属性伤害(特大)/发动技能1
+skill-1,诱捕,赋予敌方单体魅惑效果<span class=text-blue>◆赋予魅惑状态的敌人诱惑效果/赋予诱惑状态的敌人笼络效果</span>
+skill-2,粉红陷阱,对敌方单体造成3次风属性伤害/偷走CT变换为自身奥义值<span class=text-blue>◆对诱惑状态和笼络状态的敌人性能依次UP</span>
+skill-3,隐匿,<div class=prt-text-small>与后排角色互换，互换的风属性角色攻击时获得追加伤害效果，性能大幅UP<span class=text-blue>◆根据选择道具的不同赋予「敌方全体连击率DOWN/命中率DOWN/盲暗效果」或「对敌方单体造成2次风属性伤害/攻防DOWN/承伤上升」</span></div>
+support-1,烟雾之猫游走夜色,<div class=prt-text-small>对魅惑状态的敌人发动风属性追击效果/若攻击开始时场上有笼络状态的敌人，攻击2次<span class=text-blue>◆对诱惑状态和笼络状态的敌人风属性追击效果依次UP</span></div>
+support-2,烟雾之心随风飘荡,若回合结束时场上有笼络状态的敌人，技能2cd缩短1回合

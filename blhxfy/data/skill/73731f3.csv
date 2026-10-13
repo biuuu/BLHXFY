@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,乌露琪,3040676000
+special,,风属性伤害(特大)/风属性角色获得屏障/技能造成的伤害上升
+skill-1,,<div class=prt-text-small>对敌方造成8次风属性伤害/防御DOWN(累积)/自身技能性能UP(累积)/奥义值20%UP</div>
+skill-2,,回复风属性角色HP/回复1个弱体效果/回复性能UP(累积)
+skill-3,,<div class=prt-text-small>对随机目标造成10次风属性伤害/敌方全体攻击DOWN/弱体耐性DOWN/命中率DOWN<span class=text-blue>◆第二次发动攻击次数翻倍</span></div>
+support-1,,<div class=prt-text-small>普攻不积累奥义值但防御UP/普攻时发动技能1/敌方使用特殊技时，技能2可即刻使用</div>
+support-2,,<div class=prt-text-small>我方全体对选中目标赋予5个以上弱体效果的回合结束时，乌露琪的技能cd缩短1回合</div>
+skill-lb,LB技能,
+intro,毛茸茸企鹅形态,

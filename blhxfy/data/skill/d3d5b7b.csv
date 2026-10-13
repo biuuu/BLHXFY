@@ -1,0 +1,13 @@
+﻿id,name,detail
+npc,蔻刻,3040571000
+special,,<div class=prt-text-small>暗属性伤害(特大)/暗属性角色技能性能UP/自身技能可即刻使用</div>
+skill-1,,对敌方全体造成暗属性攻击/暗属性角色攻防UP(累积)
+skill-1++,,<div class=prt-text-small>对敌方全体造成暗属性攻击/暗属性角色攻防UP(累积)/免疫驱散(1次)</div>
+skill-2,,对敌方造成4次暗属性伤害/攻防DOWN(累积)
+skill-2++,,对敌方造成4次暗属性伤害/弱体耐性DOWN(累积)/攻防DOWN(累积)
+skill-3,,<div class=prt-text-small>根据敌人现有HP造成无属性伤害/驱散1个强化效果<span class=text-blue>◆若回合结束时敌人有5个以上强化效果，该技能可即刻使用</span></div>
+skill-3+,,<div class=prt-text-small>根据敌人现有HP造成无属性伤害/驱散1个强化效果<span class=text-blue>◆若回合结束时敌人有5个以上强化效果，该技能可即刻使用/根据使用次数发动次数UP(最大3次)</span></div>
+support-1,,<div class=prt-text-small>奥义值积累缓慢，奥义伤害低，但技能造成伤害UP/受到暗属性角色的回复或强化技能时自身奥义值50%UP</div>
+support-2,,<div class=prt-text-small>技能「黑雾方阵」效果10%UP<span class=text-blue>◆自身处于后排时同样发动</span></div>
+skill-lb,LB技能,
+intro,,

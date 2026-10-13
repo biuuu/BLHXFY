@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,可爱的师徒 卡莉奥斯特萝&克拉莉丝,3040593000
+special,,<div class=prt-text-small>风属性伤害(特大)/风属性追加伤害/攻防DOWN(累积)/<span class=text-blue>◆炼金光辉效果中发动2次</span></div>
+skill-1,,<div class=prt-text-small>对敌方全体造成8倍风属性伤害/驱散1个强化效果/自身技能性能UP(累积)<span class=text-blue>◆炼金光辉效果中发动2次</span></div>
+skill-2,,<div class=prt-text-small>回复风属性角色HP/回复1个弱体效果/自身回复性能UP(累积)</div>
+skill-3,,<div class=prt-text-small>风属性角色暴击率UP/防御UP/格挡效果<span class=text-blue>◆下一次此技能变为「ファンタズマル・レガシー」</span></div>
+support-1,,<div class=prt-text-small>风属性角色成功驱散敌方强化效果时，根据敌方现有HP造成无属性伤害/敌方原子衰变Lv上升1(最大10)/技能3的cd缩短1回合<span class=text-blue>◆根据原子衰变Lv敌方连击率DOWN/受到技能伤害上升</span></div>
+support-2,,<div class=prt-text-small>必定连击/敌方使用特殊技时发动技能2/技能1可即刻使用</div>
+skill-lb,LB技能,
+intro,,

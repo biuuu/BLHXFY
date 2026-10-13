@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,贝尔索,3040612000
+special,,<div class=prt-text-small>土属性伤害(特大)/无属性追加伤害/自身技能cd缩短1回合</div>
+skill-1,,<div class=prt-text-small>土属性角色获得庇护之壳翼效果/屏障效果<span class=text-blue>◆庇护之壳翼效果中，格挡效果/活性效果/回合结束时回复1个弱体效果</span></div>
+skill-2,,<div class=prt-text-small>对敌方造成3次土属性伤害/土属性角色攻击UP(累积)/伤害上限UP(累积)/连击率UP(累积)<span class=text-blue>◆自身拥有10个以上强化效果时，发动2次</span></div>
+skill-3,,对敌方全体造成土属性伤害/驱散1个强化效果/特殊技伤害DOWN
+support-1,,<div class=prt-text-small>根据自身强化效果数量土属性角色普攻造成伤害UP/从自身以外土属性角色获得5个以上强化效果的回合攻击开始时，自身获得盈满效果<span class=text-blue>◆盈满效果中，普攻时发动技能2/土属性角色三连击率UP/土属性追击效果</span></div>
+support-2,,有濒死状态的队友在场时，自身防御大幅UP/援护效果
+skill-lb,LB技能,
+intro,,

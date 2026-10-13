@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,紫苑,3040410000
+special,,<div class=prt-text-small>风属性伤害(特大)/反击效果(闪避/2次)<span class=text-blue>◆根据队伍中得意武器为「刀」的角色数量造成追加伤害(最多6次)</span></div>
+skill-1,,<div class=prt-text-small>对敌方全体造成风属性伤害/驱散1种强化效果/攻击DOWN(累积)<span class=text-blue>◆自身奥义值在50%以上时，发动2次</span></div>
+skill-2,,<div class=prt-text-small>风属性角色弱体耐性UP/格挡效果/吸收效果<span class=text-blue>◆根据队伍中得意武器为「刀」的角色数量延长效果时间</span></div>
+skill-3,,<div class=prt-text-small>对敌方单体造成4次风属性伤害/回避敌方全部攻击/敌对心UP<span class=text-blue>◆回避的同时发动「一念太刀」是也</span></div>
+support-1,,最大奥义值200/未承伤的回合结束时奥义值20%UP
+support-2,,<div class=prt-text-small>敌人使用特殊技能时，发动技能1/反击时自身技能cd缩短1回合</div>
+skill-lb,LB技能,
+intro,,

@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,哈蕾泽娜,3040240000
+special,,光属性伤害(特大)/兴致高涨！<span class=text-blue>◆根据狂欢之夜Lv追加伤害(最大5)</span>
+skill-1,,对敌方造成4次光属性伤害/攻防DOWN(累积)/狂欢之夜Lv上升1
+skill-2,,自身获得反击效果(回避/3次)/光属性追击效果<span class=text-blue>◆消耗30%奥义值</span>
+skill-3,,<div class=prt-text-small>敌方全体攻击UP/连击率UP/光属性角色必定三连击/造成伤害上升(最大100000)<br><span class=text-blue>◆狂欢之夜Lv在3以上时可使用</span></div>
+support-1,,<div class=prt-text-small>必定三连击但奥义值上升缓慢/根据狂欢之夜Lv攻击UP/防御DOWN<br><span class=text-blue>◆狂欢之夜Lv每回合上升1(最大5)</span></div>
+support-2,,受到攻击时狂欢之夜Lv减少2，下回合敌对心DOWN
+skill-lb,LB技能,小概率回避敌人的所有攻击
+intro,,

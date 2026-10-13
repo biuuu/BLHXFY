@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,阿特曼,3040665000
+special,,<div class=prt-text-small>火属性伤害(特大)/技能1的cd根据自身激奏层数缩短相应回合(最大4回合)<span class=text-blue>◆澎湃的热情效果中，变化为火属性伤害(极大)</span></div>
+skill-1,,<div class=prt-text-small>对敌方全体造成6倍火属性伤害/回复火属性角色HP/弱体效果缩短3回合<span class=text-blue>◆根据自身激奏层数攻击次数UP(最大5次)</span></div>
+skill-2,,<div class=prt-text-small>火属性角色激奏层数UP/获得随机强化效果<span class=text-blue>◆我方全体4层激奏时，获得强化效果的数量增加</span></div>
+skill-3,,<div class=prt-text-small>自身获得澎湃的热情效果/可即刻发动奥义<span class=text-blue>◆根据自身激奏层数延长效果时间/效果中奥义伤害特殊上限UP/回合结束时可即刻发动奥义</span></div>
+support-1,,<div class=prt-text-small>根据自身激奏层数防御UP/奥义值上升量UP/自身处于激奏层数上升效果中时，仅一次，技能3可即刻使用/火属性角色奥义再发动效果(1次)</div>
+support-2,,<div class=prt-text-small>火属性奥义连锁4连及以上发动时，技能2发动<span class=text-blue>◆自身处于后排时同样发动</span></div>
+skill-lb,LB技能,
+intro,,

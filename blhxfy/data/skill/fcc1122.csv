@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,兰斯洛特,3040618000
+special,,风属性伤害(特大)/技能3的cd缩短2回合
+skill-1,,<div class=prt-text-small>对敌方造成5次风属性伤害/驱散1个强化效果/连击率DOWN(累积)/风属性角色获得狂风刻印</div>
+skill-2,,<div class=prt-text-small>对敌方造成8倍风属性伤害/风属性角色免疫弱体效果(1次)/免疫驱散(1次)<span class=text-blue>◆黑猫的赠礼5层时，攻击次数翻倍</span></div>
+skill-3,,<div class=prt-text-small>自身回避敌方所有攻击(1次)/获得微笑的糕点效果<span class=text-blue>◆效果中，风属性角色技能造成伤害上升，普攻时兰斯洛特对敌方造成风属性伤害/3次受伤解除</span></div>
+support-1,,<div class=prt-text-small>回避率UP/自身未受伤的回合结束时发动技能1/黑猫的赠礼层数上升1(最大5)<span class=text-blue>◆根据黑猫的赠礼层数自身攻防UP/连击率UP/技能性能UP</span></div>
+support-2,,<div class=prt-text-small>若回合结束时自身拥有5层狂风刻印，消耗全部刻印对敌方全体造成10倍风属性伤害/风属性角色的伤害技能cd缩短1回合/自身回避敌方所有攻击(1次)</div>
+skill-lb,LB技能,
+intro,,

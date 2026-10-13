@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,萨缇洛斯,3040554000
+special,,<div class=prt-text-small>暗属性伤害(特大)/自身获得2层闪耀/吸收效果<span class=text-blue>◆闪耀7层以上时，技能3可即刻使用</span></div>
+skill-1,,<div class=prt-text-small>对敌方造成暗属性伤害?/攻防DOWN/恶作剧玩偶效果<span class=text-blue>◆根据队伍中「星晶兽」种族数量伤害次数UP(最大6次)/萨缇洛斯离开前排时，恶作剧玩偶效果消去</span></div>
+skill-2,,<div class=prt-text-small>暗属性角色技能性能UP(累积)/回复HP/弱体效果缩短2回合<span class=text-blue>◆敌方使用特殊技时消耗1层闪耀发动</span></div>
+skill-3,,<div class=prt-text-small>自身获得援护效果(全体)/光属性受伤减轻(80%)/吸收所受伤害/受伤时全力反击(3次)<span class=text-blue>◆消耗4层闪耀使暗属性角色获得屏障</span></div>
+support-1,,<div class=prt-text-small>战斗开始时获得不死之身效果(1次)/恶作剧玩偶状态的敌人对暗属性角色造成伤害减轻/根据经过回合数暗属性角色攻防UP/连击率UP/恢复性能UP</div>
+support-2,,<div class=prt-text-small>成为敌方目标以及「星晶兽」种族的暗属性角色使用技能时自身获得1层闪耀(最大9)/回合结束时消耗2层闪耀发动技能1</div>
+skill-lb,LB技能,
+intro,,

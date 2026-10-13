@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,荷鲁斯,3040518000
+special,,<div class=prt-text-small>光属性伤害(特大)/技能1发动<span class=text-blue>◆乌加特之眼效果中，发动2次</span></div>
+skill-1,,<div class=prt-text-small>对敌方造成光属性伤害/攻防DOWN(累积)/赋予2个随机弱体效果<span class=text-blue>◆乌加特之眼效果中，发动2次</span></div>
+skill-2,,<div class=prt-text-small>对敌方全体造成3次光属性伤害/弱体耐性DOWN/连击率DOWN/特殊技伤害DOWN</div>
+skill-3,,<div class=prt-text-small>光属性角色可即刻发动奥义/Fatal Chain值100%UP<span class=text-blue>◆仅在乌加特之眼效果中可使用</span></div>
+support-1,,<div class=prt-text-small>战斗开始时自身获得乌加特之眼效果/光属性奥义连锁4连及以上或Fatal Chain发动时获得乌加特之眼效果/技能cd缩短1回合<span class=text-blue>◆乌加特之眼效果中，防御UP/弱体耐性UP/回合结束时回复我方全体HP/奥义值10%UP</span></div>
+support-2,,<div class=prt-text-small>自身发动奥义时，获得1层闪耀(最大10)<span class=text-blue>◆根据闪耀层数奥义性能UP/奥义连锁造成伤害UP/Fatal Chain造成伤害UP/闪耀Lv10时，奥义特殊上限UP</span></div>
+skill-lb,LB技能,
+intro,,

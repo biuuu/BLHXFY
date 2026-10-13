@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,拜修拉,3040630000
+special,,<div class=prt-text-small>土属性伤害(特大)/发动技能2/自身奥义值10%UP</div>
+skill-1,,<div class=prt-text-small>对敌方造成12次土属性伤害/具戒清净效果/连击率DOWN(累积)/土属性角色奥义值10%UP<span class=text-blue>◆具戒清净效果根据发动字数获得性能强化(最大Lv5)</span></div>
+skill-2,,<div class=prt-text-small>土属性角色奥义性能UP(累积)/奥义造成伤害上升(累积)/回复HP</div>
+skill-3,,<div class=prt-text-small>土属性角色获得善逝护将效果<span class=text-blue>◆仅在琉璃光Lv5时可使用/效果中，防御UP/受伤减轻/技能伤害UP/再使用不可</span></div>
+support-1,,<div class=prt-text-small>奥义最大值200/若回合结束时自身处于善逝护将状态，回复土属性角色HP/奥义值10%UP/若战斗开始时自身处于前排，队伍中土属性角色奥义值40%UP/奥义再发动效果(1次)</div>
+support-2,,<div class=prt-text-small>土属性角色每累积发动6次奥义发动技能1/自身琉璃光Lv上升1(最大5)<span class=text-blue>◆根据琉璃光Lv自身技能性能UP/奥义伤害特殊上限UP</span></div>
+skill-lb,LB技能,
+intro,,

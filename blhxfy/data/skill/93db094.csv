@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,哈泽丽拉,3040609000
+special,,<div class=prt-text-small>对敌方造成风属性伤害(极大)/风属性角色奥义值20%UP<span class=text-blue>◆抱月效果中，对敌方造成10次风属性追加伤害/不消耗奥义值发动</span></div>
+skill-1,,<div class=prt-text-small>对敌方造成3次风属性伤害/风属性奥义值10%UP<span class=text-blue>◆抱月效果中，1回合内可连续使用2次/回合结束时可即刻使用</span></div>
+skill-2,,<div class=prt-text-small>将自身奥义值分配给风属性角色<span class=text-blue>◆消耗50%奥义值</span></div>
+skill-3,,自身奥义值100%UP/奥义再发动效果(1次)/风属性角色获得高扬效果
+support-1,,<div class=prt-text-small>若回合结束时光明Lv达到10，则重置Lv获得抱月效果/奥义值200%UP<span class=text-blue>◆回合结束时在该回合内每消耗50%奥义值自身光明Lv上升1(最大10)</span></div>
+support-2,,<div class=prt-text-small>奥义最大值200/战斗开始时自身奥义值100%UP<span class=text-blue>◆仅在奥义值200%时可使用奥义</span></div>
+skill-lb,LB技能,
+intro,,

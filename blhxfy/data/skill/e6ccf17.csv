@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,诺伊修,3040354000
+special,,火属性伤害(特大)/根据龙徒Lv造成火属性追加伤害(最大5次)
+skill-1,,<div class=prt-text-small>我方全体获得全属性伤害减免(50%)/风属性伤害减免(20%)<span class=text-blue>◆消耗自身最大HP的20%</span></div>
+skill-2,,<div class=prt-text-small>对敌方造成火属性伤害/攻击DOWN(积累)<span class=text-blue>◆根据龙徒Lv发动次数UP</span></div>
+skill-3,,<div class=prt-text-small>自身获得援护效果<span class=text-blue>◆龙徒Lv在3以上时，追加攻击大幅UP效果</span></div>
+support-1,,<div class=prt-text-small>我方角色使用消耗HP或最大HP的技能时，龙徒Lv上升1(最大5)<span class=text-blue>◆根据龙徒Lv普攻造成伤害UP/受到致死伤害时，消耗1龙徒Lv继续战斗</span></div>
+support-2,,奥义值上升缓慢但必定三连击/受击时反击(2次)
+skill-lb,LB技能,普攻时龙徒Lv有概率上升1
+intro,,

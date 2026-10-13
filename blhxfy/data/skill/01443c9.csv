@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,安洁,3040642000
+special,,水属性伤害(特大)/自身暴击率UP/会心效果
+skill-1,,对敌方造成8倍水属性伤害/防御DOWN/自身水属性攻击UP
+skill-2,,<div class=prt-text-small>自身获得水属性追击效果/不经过回合进行普攻<span class=text-blue>◆肩并肩效果中的队友也同样获得效果</span></div>
+skill-3,,<div class=prt-text-small>自身与后一位水属性角色获得肩并肩效果/回避敌方所有攻击(1次)/自身其他技能可即刻使用<span class=text-blue>◆肩并肩效果中，回合中进行2次攻击行动/三连击率UP/仅在后一位角色为女性时可使用</span></div>
+support-1,,<div class=prt-text-small>自身与后一位女性角色在回合中累积进行4次以上攻击行动的回合结束时，对敌方造成2次水属性伤害/消去1个强化效果/技能3的预备回合与冷却回合缩短1回合</div>
+support-2,,<div class=prt-text-small>普攻不累积奥义值但必定连击/回避率UP/回避成功时技能1发动</div>
+skill-lb,LB技能,
+intro,白马王子,

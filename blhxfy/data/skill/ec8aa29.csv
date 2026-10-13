@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,麦考伊,3040637000
+special,,土属性伤害(特大)/自身回避敌方所有攻击(1次)
+skill-1,,<div class=prt-text-small>土属性角色获得水属性受伤减轻/免疫弱体效果(1次)/免疫驱散(1次)</div>
+skill-2,,<div class=prt-text-small>对敌方造成5次土属性伤害/攻防DOWN(累积)/水属性攻击DOWN<span class=text-blue>◆自身处于密侦的秘策效果中时，未受到伤害的回合结束时发动</span></div>
+skill-3,,<div class=prt-text-small>对敌方造成10倍土属性伤害/假死，与后排成员替换<span class=text-blue>◆仅在后排只有土属性角色时可使用/替换到前排的土属性角色获得密侦的记录，弱体成功率UP/暴击率UP/回避率UP/会心效果/麦考伊回到前排时，密侦的记录效果消失，土属性角色获得密侦的秘策效果/再使用不可</span></div>
+support-1,,<div class=prt-text-small>根据敌方弱体效果数量，土属性角色防御UP<span class=text-blue>◆自身处于后排时同样发动</span></div>
+skill-sub,,<div class=prt-text-small>前排成员获得麦考伊的掩护，每3回合在回合开始时赋予敌方全体随机弱体效果</div>
+skill-lb,LB技能,
+intro,,

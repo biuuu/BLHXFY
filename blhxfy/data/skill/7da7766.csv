@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,米琳,3040307000
+special,,水属性伤害(特大)/自身获得反击效果(回避/2次)/获得1个蜜柑
+skill-1,,<div class=prt-text-small>对敌方造成3次水属性伤害/水属性防御DOWN(累积)<span class=text-blue>◆消耗所有蜜柑，根据消耗数量发动次数UP(最大4次)</span></div>
+skill-2,,<div class=prt-text-small>自身奥义值20%UP/回复HP/弱体效果时间缩短2回合<span class=text-blue>◆消耗1个蜜柑效果全体化</span></div>
+skill-3,,<div class=prt-text-small>回避敌方所有攻击/援护效果(全体)<span class=text-blue>◆回避时发动「凰寒见切」</span></div>
+support-1,,奥义最大值200/战斗开始时追加1个蜜柑(最大3)
+support-2,,<div class=prt-text-small>发动反击时自身技能cd缩短1回合/自身拥有反击效果时必定三连击</div>
+skill-lb,LB技能,
+intro,武士的假期,

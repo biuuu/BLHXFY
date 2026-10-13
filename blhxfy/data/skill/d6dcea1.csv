@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,玛利亚・特蕾莎,3040629000
+special,,火属性伤害(特大)/技能1可即刻使用
+skill-1,,<div class=prt-text-small>对敌方造成2次火属性伤害/火属性防御DOWN(累积)/驱散1个强化效果</div>
+skill-2,,<div class=prt-text-small>使火属性角色HP平均化/再生效果/回复1个弱体效果<span class=text-blue>◆前排剩余HP比例之差大于30%时，此技能变为「ジュスタ・ミズラツィオーネ」:追加伤害减轻效果</span></div>
+skill-3,,<div class=prt-text-small>火属性角色获得圣夜的礼物效果/回复全部HP与全部弱体效果<span class=text-blue>◆圣夜的礼物效果中，攻防UP/受伤减轻/再使用不可</span></div>
+support-1,,<div class=prt-text-small>回合结束时，若前排剩余HP比例之差小于50%时，火属性角色技能性能UP(累积)/自身奥义值20%UP/若大于50%，变化后的技能2发动</div>
+support-2,,<div class=prt-text-small>火属性角色对咎人状态的敌人技能造成伤害UP/火属性角色使用驱散敌方强化效果的技能时，玛利亚・特蕾莎对敌方全体造成火属性伤害/赋予咎人效果(攻防DOWN)/技能3的预备回合缩短1回合</div>
+skill-lb,LB技能,
+intro,,

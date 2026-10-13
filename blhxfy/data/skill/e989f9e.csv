@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,厄倪俄,3040365000
+special,,风属性伤害(特大)/技能1发动
+skill-1,,<div class=prt-text-small>自身伤害上限UP<span class=text-blue>◆每次发动依次获得以下效果：必定三连击/吸收效果/风属性追击效果/奥义性能UP(1次)</span></div>
+skill-2,,对敌方随机目标造成5次风属性伤害/敌方全体防御DOWN(累积)/弱体耐心DOWN(累积)
+skill-3,,驱散敌方单体1种强化效果/风属性防御DOWN/恐惧效果
+support-1,,<div class=prt-text-small>成为敌人目标时「女神的恍惚」Lv上升1(最大Lv5)/技能2攻击次数+1<span class=text-blue>◆</span>Lv5时，成为敌人目标后自动发动技能2</div>
+support-2,,<div class=prt-text-small>我方成功驱散敌人强化效果时，对敌方全体造成10倍风属性伤害/缓速效果/自身奥义可即刻发动</div>
+skill-lb,LB技能,技能伤害上升
+intro,,

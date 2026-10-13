@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,菲琳,3040314000
+special,,<div class=prt-text-small>水属性伤害(特大)/技能2强化效果延长2回合/自身伤害技能可即刻使用<span class=text-blue>◆</span></div>
+skill-1,,<div class=prt-text-small>对敌方造成水属性伤害/攻防DOWN(累积)/银冰吐息效果<span class=text-blue>◆对银冰吐息状态的敌人发动2次</span></div>
+skill-2,,水属性角色水属性攻击UP/技能伤害性能UP
+skill-3,,对敌方造成6次水属性伤害/冰结Lv上升1(最大10)/缓速效果
+support-1,,队友使用赋予敌方冰结或冰牢效果的技能时发动技能1
+support-2,,银冰吐息状态的敌人对水属性角色造成的伤害减轻20%
+skill-lb,LB技能,对银冰吐息状态的敌人追加自属性追击效果
+intro,,

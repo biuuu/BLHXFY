@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,奈克塔尔,3040535000
+special,,水属性伤害(特大)/自身技能cd缩短2回合
+skill-1,,<div class=prt-text-small>对敌方造成3次水属性伤害/自身三连击率UP/水属性追击效果(1次)/犬刀效果</div>
+skill-2,,<div class=prt-text-small>对敌方全体造成6倍水属性伤害/消去1个强化效果/自身互动额猿拳效果</div>
+skill-3,,对敌方造成8倍水属性伤害/防御DOWN/自身获得鸟锋效果
+support-1,,<div class=prt-text-small>使用技能时自身祓刃Lv上升1(最大2)<span class=text-blue>◆祓刃Lv1时，使用联动技能时同时发动1个其他联动技能/祓刃Lv2时，使用联动技能时同时发动其他所有联动技能</span></div>
+support-2,,<div class=prt-text-small>根据拥有的犬刀/猿拳/鸟锋效果数量依次获得以下效果(攻击UP/技能造成伤害UP/伤害上限UP)</div>
+skill-lb,LB技能,
+intro,,

@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,罗艾因,3040500000
+special,,<div class=prt-text-small>暗属性伤害(特大)/自身获得屏障效果/逆境效果<span class=text-blue>◆香槟塔效果中，追加暗属性角色激奏UP效果</span></div>
+skill-1,,<div class=prt-text-small>招待自身以外单体暗属性角色<span class=text-blue>◆招待内容根据角色类型变化/除去已被招待的角色</span></div>
+skill-2,,消耗自身最大HP的20%，自身攻击UP(累积)/香槟Lv上升1/技能1可即刻使用
+skill-3,,<div class=prt-text-small>招牌料理人为您带来香槟塔！<span class=text-blue>◆自身获得香槟塔效果/暗属性角色激奏UP/奥义值100%UP/香槟Lv10时使用可能</span></div>
+support-1,,<div class=prt-text-small>技能1赋予的角色发动奥义时，罗艾因对敌方单体造成暗属性伤害/罗艾因的香槟Lv上升1(最大10)<span class=text-blue>◆根据香槟Lv回复性能UP/连击率UP/奥义值上升量UP</span></div>
+support-2,,香槟塔效果中，暗属性角色奥义性能UP/奥义伤害上升/回合结束时奥义值10%上升
+skill-lb,LB技能,
+intro,,

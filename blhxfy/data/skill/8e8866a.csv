@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,玛尔斯,3040592000
+special,,<div class=prt-text-small>光属性伤害(特大)/光属性角色暴击率UP/会心效果/技能2的cd缩短2回合<span class=text-blue>◆炎将Lv10时，发动技能3</span></div>
+skill-1,,<div class=prt-text-small>对敌方全体造成光属性伤害/受伤加重<span class=text-blue>◆战炎效果中，攻击次数翻倍/炎将Lv10时，普攻后发动</span></div>
+skill-2,,<div class=prt-text-small>自身与后一位光属性角色获得战炎效果<span class=text-blue>◆第2次发动时自身与后一位光属性角色不经过回合进行普攻</span></div>
+skill-3,,光属性角色攻防UP(累积)/连击率UP(累积)/伤害上限UP(累积)
+support-1,,<div class=prt-text-small>光属性角色的普攻暴击时，玛尔斯的炎将Lv上升1(最大10)<span class=text-blue>◆根据炎将Lv获得光属性追击效果/造成伤害上升/若回合结束时炎将Lv为10，光属性角色的普攻造成伤害上升(累积)</span></div>
+support-2,,奥义值积累缓慢但普攻造成伤害UP
+skill-lb,LB技能,
+intro,,

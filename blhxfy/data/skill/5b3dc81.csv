@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,可露瓦,3040602000
+special,,<div class=prt-text-small>回复光属性角色HP/回复1个弱体效果/免疫驱散(1次)/光属性攻击UP(累积)/伤害上限UP(累积)/自身获得1层蓝丝线与1层红丝线</div>
+skill-1,,<div class=prt-text-small>消耗10层蓝丝线，自身前一位光属性角色获得援护效果(全体)/弱体耐性大幅UP/格挡效果<span class=text-blue>◆2次发动追加受伤时全力反击效果(6次)/3次发动追加不死之身效果(1次)</span></div>
+skill-2,,<div class=prt-text-small>消耗10层红丝线，自身后一位光属性角色获得三连击率UP/光属性追击效果/乱击(3Hit)效果<span class=text-blue>◆2次发动追加攻击大幅UP效果/3次发动不经过回合进行普攻</span></div>
+skill-3,,<div class=prt-text-small>自身可即刻发动奥义/回复性能UP(累积)</div>
+support-1,,<div class=prt-text-small>回合结束时获得1层蓝丝线(最大10)/自身前一位光属性角色成为敌方目标时获得1层蓝丝线<span class=text-blue>◆战斗开始时拥有10层蓝丝线</span></div>
+support-2,,<div class=prt-text-small>回合结束时获得1层红丝线(最大10)/自身前一位光属性角色累积进行2次以上攻击行动的回合结束时获得1层红丝线<span class=text-blue>◆战斗开始时拥有10层红丝线</span></div>
+skill-lb,LB技能,
+intro,,

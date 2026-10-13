@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,伊欧,3040659000
+special,,<div class=prt-text-small>土属性伤害(极大)/自身互动额魔力觉醒效果/技能可即刻使用<span class=text-blue>◆消耗10层魔力之涡而非奥义值发动/魔力觉醒效果中，攻防UP/技能造成伤害UP/普攻时发动技能1</span></div>
+skill-1,,<div class=prt-text-small>对随机目标造成7次土属性伤害/敌方全体攻击DOWN(累积)/土属性防御DOWN(累积)<span class=text-blue>◆魔力觉醒效果中，发动2次</span></div>
+skill-2,,<div class=prt-text-small>土属性角色攻防UP(累积)/自身获得安宁之境效果<span class=text-blue>◆安宁之境效果中，回合结束时回复土属性角色HP/回复1个弱体效果</span></div>
+skill-3,,<div class=prt-text-small>土属性角色获得格挡效果/免疫驱散(1次)/赋予2个随机强化效果<span class=text-blue>◆魔力觉醒效果中，强化效果数量增加至4</span></div>
+support-1,,<div class=prt-text-small>无视敌方火·水·光·暗属性耐性/无视敌方属性触发弱点属性/回合结束时，消耗25%奥义值随机发动以下魔法/魔力之涡Lv上升1(最大10)/重复行动直至无法继续消耗奥义值(最大4次)<span class=text-blue>◆火:对敌方造成火属性伤害/防御DOWN;冰:对敌方造成水属性伤害/防御DOWN;雷:对敌方造成光属性伤害/连击率DOWN;魔球:对敌方造成暗属性伤害/受伤加重</span></div>
+support-2,,<div class=prt-text-small>根据自身强化效果数量连击率UP/使用技能时，自身奥义值15%UP</div>
+skill-lb,LB技能,
+intro,Lady Go！,

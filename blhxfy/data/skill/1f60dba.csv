@@ -1,0 +1,15 @@
+﻿id,name,detail
+npc,夏托拉,3040313000
+special,,风属性伤害(特大)/自身技能cd缩短3回合
+special-王丑円満,,<div class=prt-text-small>风属性伤害(特大)/风属性追加伤害/风属性防御DOWN(累积)/自身技能cd缩短3回合</div>
+special-Head Over Hooves,,<div class=prt-text-small>风属性伤害(特大)/风属性追加伤害/风属性防御DOWN(累积)/自身技能cd缩短3回合</div>
+skill-1,,<div class=prt-text-small>自身及主角奥义值100%UP/回复HP<span class=text-blue>◆第2次发动回复所有弱体效果/第3次发动获得奥义再发动效果(1次)</span></div>
+skill-1++,,<div class=prt-text-small>自身及主角奥义值100%UP/回复HP/回复所有弱体效果/奥义再发动效果(1次)<span class=text-blue>◆HP全部回复时获得活性效果</span></div>
+skill-2,,<div class=prt-text-small>对敌方随机目标造成12次风属性伤害/赋予敌方全体竹篦效果<span class=text-blue>◆根据使用次数，伤害次数UP/竹篦效果性能UP(最大5次)</span></div>
+skill-3,,<div class=prt-text-small>消耗60%奥义值进入「加档」状态<span class=text-blue>◆每回合消耗60%奥义值/奥义值不足或再使用时解除</span></div>
+skill-3+,,<div class=prt-text-small>消耗30%奥义值进入「加档」模式<span class=text-blue>◆每回合消耗60%奥义值/奥义值不足或再使用时解除</span></div>
+skill-4,,<div class=prt-text-small>自身与主角获得丑顶天效果/其余风属性角色获得幸丑云效果<span class=text-blue>◆仅主角在场时可使用</span></div>
+support-1,,自身与主角回复性能UP/奥义上升量UP
+support-2,,「加档」状态中必定三连击/伤害上升(最大50000)/风属性追击效果/防御DOWN
+skill-lb,LB技能,普攻有极小概率使技能cd缩短1回合
+intro,,

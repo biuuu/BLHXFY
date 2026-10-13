@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,诗寇蒂,3040596000
+special,,风属性伤害(特大)/风属性角色技能性能UP(累积)
+skill-1,,<div class=prt-text-small>对敌方造成6次风属性伤害/攻防DOWN(累积)<span class=text-blue>◆自身拥有15个以上强化效果时，发动2次</span></div>
+skill-2,,<div class=prt-text-small>风属性角色奥义值30%UP/再生效果<span class=text-blue>◆风属性角色根据各自强化技能数量依次获得以下效果(可即刻发动奥义/效果时间内回合结束时奥义值变化为100%)</span></div>
+skill-3,,<div class=prt-text-small>风属性角色风属性攻击UP/奥义性能UP<span class=text-blue>◆风属性角色根据各自伤害技能数量依次获得以下效果(奥义发动时追加风属性伤害/奥义再发动效果(1次))</span></div>
+support-1,,<div class=prt-text-small>风属性奥义连锁4连及以上发动时，自身奥义连锁性能UP(累积)/技能3的预备回合与冷却回合缩短1回合</div>
+support-2,,<div class=prt-text-small>根据自身拥有的强化效果奥义性能UP<span class=text-blue>◆强化效果在15个以上时，奥义发动2次</span></div>
+skill-lb,LB技能,
+intro,,
