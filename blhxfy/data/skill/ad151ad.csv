@@ -1,0 +1,14 @@
+﻿id,name,detail
+npc,萝赛塔,3040068000
+special,无尽玫瑰,<div class=prt-text-small>风属性伤害(特大)/我方全体弱化成功率UP<span class=text-blue>◆自身处于「蔷薇结界」时改为获得防御力UP</span></div>
+special-エターニティ・ローズ,永恒玫瑰,<div class=prt-text-small>风属性伤害(特大)/我方全体弱化成功率UP/连续攻击率UP<span class=text-blue>◆自身处于「蔷薇结界」时改为获得防御力UP/奥义值UP(30%)</span></div>
+skill-1,蔷薇结界,<div class=prt-text-small>自身获得1层「蔷薇结界」(最大5层)/解除时我方全体根据层数获得强化效果<span class=text-blue>◆回合结束时奥义值不足30%/5层「蔷薇结界」/再次使用时解除效果</span></div>
+skill-2,铁处女,对敌方全体造成风属性伤害/我方全体获得伤害UP
+skill-2++,铁处女,<div class=prt-text-small>对敌方全体造成风属性伤害/我方全体获得伤害UP/攻击力UP</div>
+skill-3,梦之城,自身获得全体援护效果/格挡效果
+skill-3+,梦之城,<div class=prt-text-small>自身获得全体援护效果/格挡效果/受伤时奥义值UP(5%)</div>
+skill-4,永恒主宰,<div class=prt-text-small>对敌方随机造成8次风属性伤害/承受伤害UP/使用特殊技时对敌方全体造成999999无属性伤害</div>
+support-1,蔷薇的女王,<div class=prt-text-small>自身处于「蔷薇结界」时获得敌对心UP/再生效果(上限500)/反射效果/攻击力DOWN/受到伤害的回合获得1层「蔷薇结界」</div>
+support-2,蔷薇的摇篮,<div class=prt-text-small>回合结束时自身根据本回合受到的伤害次数对敌方随机造成相同次数的风属性伤害(最大10次)</div>
+skill-lb,LB技能,自身使用「铁处女」时概率获得1层「蔷薇结界」
+intro,苍丽的蔷薇,她旅途的足迹划遍空域，妖娆的微笑背后总藏掖着真相。女人的眼神里曾有无数景色随时光来往过却。 作为今昔之连结者，她一直悉心照料着那株“小小的”未来。

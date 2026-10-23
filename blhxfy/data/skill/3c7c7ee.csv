@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,无限,3040428000
+special,,光属性伤害(特大)/回复光属性角色HP
+skill-1,,援护我方单体角色/暗属性受伤减轻/将受到的伤害转化为暗属性<span class=text-blue>◆再使用不可</span>
+skill-2,,<div class=prt-text-small>光属性角色光属性攻击UP/暴击率UP/伤害上限UP/普攻造成伤害UP<span class=text-blue>◆减少对象最大HP的30%(最多减少90%)</span></div>
+skill-3,,自身获得祭戏之躯效果/不死之身效果(3次)<span class=text-blue>◆减少最大HP的30%</span>
+support-1,,容易成为敌方目标但受伤时对随机目标造成6次光属性伤害
+support-2,,<div class=prt-text-small>减少最大HP30%以上HP的光属性角色获得光属性追击效果<span class=text-blue>◆根据HP减少量效果UP</span></div>
+skill-lb,LB技能,自身防御力UP/敌对心UP
+intro,,

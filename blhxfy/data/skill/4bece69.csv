@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,贞德,3040420000
+special,,水属性伤害(特大)/技能1可即刻使用
+skill-1,,牺牲自身HP，水属性角色获得逆境效果<br><span class=text-blue>◆根据欲望Lv，水属性攻击UP/水属性追击效果</span>
+skill-2,,敌方全体火属性攻击DOWN/水属性防御DOWN/盲暗效果/自身获得不净效果
+skill-3,,<div class=prt-text-small>自身获得月镜效果(受到致命伤害可以以HP1状态继续战斗(消去不可/延长不可)/弱体耐性UP(消去不可/延长不可))<span class=text-blue>◆效果结束后无法战斗</span>
+support-1,,<div class=prt-text-small>我方角色使用消耗HP或最大HP的技能时，欲望Lv上升1(最大5)<span class=text-blue>◆根据欲望Lv获得水属性追击效果/普攻造成伤害UP</span></div>
+support-2,,受到伤害时，自身三连击率UP(1次)/奥义值上升20%
+skill-lb,LB技能,自身HP在50%以下时敌对心上升
+intro,,

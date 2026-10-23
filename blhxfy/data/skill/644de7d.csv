@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,希耶提,3040451000
+special,,风属性伤害(特大)/自身获得即死回避效果
+skill-1,,反击效果(承伤/7次)/敌对心UP
+skill-2,,对敌方随机目标造成10次风属性伤害/回复自身HP
+skill-3,,<div class=prt-text-small>根据所装备的「剑」的数量获得风属性追击效果(最大77%)/不计入回合发动普攻</div>
+support-1,,奥义值积累缓慢但普攻伤害高
+support-2,,根据所装备的「剑」的数量攻击UP/防御UP/连击率UP(最大7把)
+skill-lb,LB技能,发动反击时奥义值UP
+intro,,

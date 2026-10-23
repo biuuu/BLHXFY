@@ -1,0 +1,11 @@
+﻿id,name,detail
+npc,沙利叶,3040611000
+special,,<div class=prt-text-small>暗属性伤害(特大)/技能1发动/技能2的cd缩短2回合/自身获得执行者的假面效果</div>
+skill-1,,对敌方全体造成8倍暗属性伤害/刑死效果/剧毒Lv上升1(最大10)
+skill-2,,<div class=prt-text-small>暗属性角色获得黑影的加护效果<span class=text-blue>◆效果中，获得暗属性追击效果/吸收效果/免疫驱散</span></div>
+skill-3,,<div class=prt-text-small>执行者的假面效果变化为执行者的镰刃效果<span class=text-blue>◆执行者的镰刃效果中无法发动奥义但必定三连击/回合中进行3次攻击行动/普攻时发动技能1</span></div>
+support-1,,<div class=prt-text-small>对刑死效果中的敌人，暗属性角色造成伤害上升/刑死效果中的敌人造成的伤害减轻</div>
+support-2,,奥义值累积缓慢但战斗开始时获得执行者的镰刃效果
+support-3,,<div class=prt-text-small>技能「暗」「憎恶」「奈落」「黑雾方阵」效果20%UP<span class=text-blue>◆自身处于后排时同样发动</span></div>
+skill-lb,LB技能,
+intro,,

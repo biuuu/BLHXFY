@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,哈乌赫特,3040597000
+special,,<div class=prt-text-small>火属性伤害(特大)/自身获得再生效果/技能2的cd缩短2回合/奥义值10%UP<span class=text-blue>◆根据敌人的火伤Lv奥义值上升的效果UP</span></div>
+skill-1,,对敌方造成3次火属性伤害/驱散1个强化效果/火伤Lv上升1(最大10)
+skill-2,,<div class=prt-text-small>火属性角色获得终焉劫火效果<span class=text-blue>◆终焉劫火效果中攻击性能UP/每回合受到伤害/发动2次时终焉劫火效果追加伤害上限UP/火属性追击效果</span></div>
+skill-3,,<div class=prt-text-small>对敌方全体造成8倍火属性伤害/攻防DOWN(累积/回复不可)/弱体耐性DOWN(累积/回复不可/特殊技伤害DOWN(累积/回复不可)/自身以外的火属性角色获得随机弱体效果)<span class=text-blue>◆有火伤Lv10的敌人在场时，1回合内能够连续使用2次</span></div>
+support-1,,<div class=prt-text-small>一部分回合伤害能够转化为回复量/自身处于终焉劫火效果中，普攻时发动技能1</div>
+support-2,,<div class=prt-text-small>回合结束时，处于终焉劫火效果中且濒死的角色获得攻击大幅UP(1次)</div>
+skill-lb,LB技能,
+intro,,

@@ -1,0 +1,14 @@
+﻿id,name,detail
+npc,罗贝利亚,3040165000
+special,,土属性伤害(特大)/追加伤害
+special-ル・デルニエ・コンセール,,土属性伤害(特大)/追加伤害/自身追加1魔术刻印
+skill-1,,<div class=prt-text-small>对敌方造成土属性伤害/自身三连击率UP/土属性追击效果(1次)<span class=text-blue>◆追加1魔术刻印</span></div>
+skill-2,,<div class=prt-text-small>对敌方全体造成10倍土属性伤害/土属性角色技能cd缩短3回合<span class=text-blue>◆消耗5魔术刻印</span></div>
+skill-3,,土属性角色获得灾祸之雷槌效果<span class=text-blue>◆消耗10魔术刻印</span>
+skill-4,,<div class=prt-text-small>对敌方造成土属性伤害/受伤加重<span class=text-blue>◆仅在「魔術師の正位置」发动后可使用/根据魔术刻印层数攻击次数UP(最大11次)</span></div>
+support-1,,<div class=prt-text-small>每3回合对敌方全体造成土属性伤害<span class=text-blue>◆每次使用效果UP(最大3次)/追加1魔术刻印(最大10)</span></div>
+support-2,,被动技能1发动时，回复我方全体HP
+skill-sub,,土属性角色使用技能时技能伤害上限UP(累积/最大5次)
+skill-main,,追加10魔术刻印<span class=text-blue>◆再发动不可</span>
+skill-lb,LB技能,使用联动技能时自身防御UP(累积)
+intro,,

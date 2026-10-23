@@ -1,0 +1,10 @@
+id,name,detail
+npc,维拉,3040243000
+special,限制固定,<div class=prt-text-small>火属性伤害(特大)/技能冷却缩短1回合</div>
+skill-1,绯红誓言,<div class=prt-text-small>4倍火属性伤害/并施加防御力DOWN(累计)<br><span class=text-blue>◆处于真红之爱时我方全体获得生命恢复</span></div>
+skill-1+,绯红誓言,<div class=prt-text-small>4倍火属性伤害/并施加防御力DOWN(累计)<br><span class=text-blue>◆处于真红之爱时我方全体获得生命恢复</span></div>
+skill-2,庇护华尔兹,<div class=prt-text-small>我方全体获得弱体无效(1次)/DA+30%/TA+15%</span></div>
+skill-2+,庇护华尔兹,<div class=prt-text-small>我方全体获得弱体无效(1次)/DA+30%/TA+15%</span></div>
+skill-3,衣冠楚楚,<div class=prt-text-small>奥义即刻发动/自身获得5层真红之爱</div>
+support-1,真红连衣裙,处于真红之爱时自身获得攻击UP(30%)/防御UP(50%)/吸收/绯红誓言追加额外效果<br><span class=text-blue>◆真红之爱每回合结束时减少1层</span>
+skill-lb,LB技能,使用技能时增加奥义条

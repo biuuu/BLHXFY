@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,妲奴亚,3040616000
+special,,<div class=prt-text-small>暗属性伤害(特大)/回复自身HP/技能2的cd缩短1回合</div>
+skill-1,,<div class=prt-text-small>对敌方造成2次暗属性伤害/自身必定三连击/暗属性追击效果</div>
+skill-2,,<div class=prt-text-small>自身获得「グロー・リッパー」效果<span class=text-blue>◆效果中，回合进行时发动2次攻击行动/回合结束时消耗HP最大值的15%</span></div>
+skill-3,,<div class=prt-text-small>自身暗属性攻击UP/造成伤害上升/乱击(2Hit)<span class=text-blue>◆无畏Lv5时，技能强化对象变为暗属性角色</span></div>
+support-1,,<div class=prt-text-small>同一暗属性角色在一回合内进行2次以上攻击行动时，自身无畏Lv上升1(最大5)/根据无畏Lv依次获得以下效果(攻击UP/普攻造成伤害UP/伤害上限UP/三连击时附加暗属性追击效果/回合结束时发动技能1)<span class=text-blue>◆无畏Lv5时，技能3可即刻使用</span></div>
+support-2,,<div class=prt-text-small>战斗开始时获得不死之身效果(1次)/妲奴亚剩余HP越少，暗属性角色攻击大幅UP</div>
+skill-lb,LB技能,
+intro,,

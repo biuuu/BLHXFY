@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,梅嘉丝,3040517000
+special,,暗属性伤害(特大)/自身伤害技能可即刻使用
+skill-1,,<div class=prt-text-small>对敌方造成6次暗属性伤害/驱散1个强化效果/自身奥义10%UP<span class=text-blue>◆对于黑暗之咒状态的敌人伤害次数UP</span></div>
+skill-2,,<div class=prt-text-small>对敌方全体造成8倍暗属性伤害/腐败效果/侵蚀效果/剧毒Lv上升1(最大10)/冰结Lv上升1(最大10)<span class=text-blue>◆有黑暗之咒状态的敌人在场时，伤害性能UP</span></div>
+skill-3,,<div class=prt-text-small>赋予敌方全体黑暗之咒效果<span class=text-blue>◆回合结束时若有黑暗之咒状态的敌人在场，梅嘉丝的HP减少/梅嘉丝陷入无法战斗状态时，敌方全体黑暗之咒效果消去</span></div>
+support-1,,回合结束时敌人弱体效果数量在10个以上时，发动技能1
+support-2,,<div class=prt-text-small>有黑暗之咒状态的敌人在场时，暗属性角色攻击UP/技能命中率上升/技能造成伤害上升</div>
+skill-lb,LB技能,
+intro,,

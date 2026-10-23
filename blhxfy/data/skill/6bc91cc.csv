@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,理查德,3040513000
+special,,<div class=prt-text-small>风属性伤害(特大)/自身奥义值30%UP<span class=text-blue>◆筹码在5枚以上时，技能3发动</span></div>
+skill-1,,<div class=prt-text-small>消耗30%奥义值获得1枚筹码(最大10)<span class=text-blue>◆筹码在3枚以上时无法使用</span></div>
+skill-2,,<div class=prt-text-small>押注，根据牌型获得筹码(最大10)<span class=text-blue>◆散牌时失去筹码/皇家同花顺时自身攻击大幅UP</span></div>
+skill-3,,<div class=prt-text-small>对敌方造成5次风属性伤害/连击率DOWN(累积)<span class=text-blue>◆根据筹码数量增加攻击次数(最大15)</span></div>
+support-1,,<div class=prt-text-small>根据自身筹码枚数，风属性角色获得连击率UP/风属性追击效果/造成伤害上升<span class=text-blue>◆拥有10枚筹码时，风属性角色获得乱击(2Hit)效果</span></div>
+support-2,,<div class=prt-text-small>我方全体对选中目标造成33次以上攻击的回合结束时，自身幸运绽放Lv上升1(最大3)<span class=text-blue>◆Lv3时使用技能2则重置Lv且必定出好牌</span></div>
+skill-lb,LB技能,
+intro,,

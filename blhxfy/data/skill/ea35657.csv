@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,斯特姆,3040268000
+special,,水属性伤害(特大)/灼热效果/攻防DOWN(累积)
+skill-1,,对敌方单体造成水属性伤害/对灼热状态的敌人造成追加伤害
+skill-2,,<div class=prt-text-small>敌方单体连击率UP/自身获得水属性追击效果/暴击率UP/会心效果</div>
+skill-3,,使敌方单体增加1CT，自身下一次奥义发动2次
+support-1,,敌人拥有强化效果时，自身必定三连击
+support-2,,敌人使用特殊技能时，技能1发动
+skill-lb,LB技能,普攻有几率使自身攻击UP(累积)
+intro,,

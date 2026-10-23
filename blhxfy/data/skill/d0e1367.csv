@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,迷你哥布,3040570000
+special,,<div class=prt-text-small>光属性伤害(特大)/回复光属性角色1个弱体效果/自身亮闪闪Lv上升1(最大3)<span class=text-blue>◆亮闪闪Lv3时，自身的削弱技能可即刻使用</span></div>
+skill-1,,敌方攻防DOWN/驱散1个强化效果/缓速效果
+skill-2,,<div class=prt-text-small>对随机目标造成7次光属性伤害/赋予敌方全体3个随机弱体效果<span class=text-blue>◆根据自身亮闪闪Lv增加弱体效果数量(最大6)</span></div>
+skill-3,,<div class=prt-text-small>对敌方全体造成5次光属性伤害/延长1回合弱体效果<span class=text-blue>◆根据敌方的弱体效果最大数量攻击次数UP(最大10次)</span></div>
+support-1,,根据亮闪闪Lv连击率UP/技能性能UP
+support-2,,<div class=prt-text-small>回合结束时若有拥有弱体效果的敌方在场，有概率对敌方全体造成光属性伤害/自身奥义值5%UP<span class=text-blue>◆敌方全体的弱体效果数量越多发动概率UP/根据亮闪闪Lv发动次数UP(最大4次)</span></div>
+skill-lb,LB技能,
+intro,,

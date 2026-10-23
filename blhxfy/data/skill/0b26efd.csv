@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,欧姬丝,3040446000
+special,,土属性伤害(特大)/自身技能cd缩短1回合
+skill-1,,对敌方单体造成土属性伤害/水属性攻击DOWN/命中率DOWN
+skill-2,,自身状态大幅UP<span class=text-blue>◆3次承伤解除</span>
+skill-3,,赋予敌方全体「木偶线」效果/自身回避敌方全部攻击(2次)
+support-1,,最大HP低，但赋予土属性角色土属性追击效果
+support-2,,技能2效果中免疫弱体效果/强化效果不可消去
+skill-lb,LB技能,
+intro,,

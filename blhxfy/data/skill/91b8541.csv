@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,巴萨拉卡,3040324000
+special,,<div class=prt-text-small>火属性伤害(极大)/技能2可即可使用/回复自身最大HP的30%<span class=text-blue>◆仅在濒死状态时发动可能</span></div>
+skill-1,,对敌方全体造成火属性伤害/自身奥义值30%UP/回复HP
+skill-2,,自身获得逆境效果/防御UP/援护效果(全体)/坚毅效果<span class=text-blue>◆消耗自身最大HP的25%</span>
+skill-3,,自身攻击性能大幅UP/普攻时，赋予敌人防御DOWN效果(累积)<span class=text-blue>◆消耗100%奥义值</span>
+support-1,,奥义值上升缓慢但防御大幅UP/敌人发动特殊技时，技能1发动
+support-2,,<div class=prt-text-small>不处于濒死状态时，免疫弱体效果/强化效果不会被消去/濒死状态时，回合结束时发动技能1</div>
+skill-lb,LB技能,自身HP在50%以上时敌对心上升
+intro,,

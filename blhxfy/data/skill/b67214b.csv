@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,巴尔,3040466000
+special,,火属性伤害(特大)/火属性角色获得高扬效果
+skill-1,,对随机目标造成8次火属性伤害/敌方全体弱体耐性DOWN(累积)
+skill-2,,对敌方全体造成火属性伤害/驱散1个强化效果
+skill-3,,自身与下一位队友激奏UP/可即刻发动奥义
+support-1,,<div class=prt-text-small>自身激奏层数达到4时，普攻后发动技能1/回合结束时发动技能2</div>
+support-2,,发生奥义连锁时，火属性角色激奏UP
+skill-lb,LB技能,普攻时有概率使自身激奏UP
+intro,星光GIG,

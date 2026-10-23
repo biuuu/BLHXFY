@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,艾奇多娜,3040649000
+special,,风属性伤害(特大)/风属性角色获得强壮效果
+skill-1,,<div class=prt-text-small>回复风属性角色HP/回复1和弱体效果/防御UP(累积)<span class=text-blue>◆有濒死状态的风属性角色在场时，发动2次</span></div>
+skill-2,,<div class=prt-text-small>对敌方造成风属性伤害/攻击DOWN(累积)/连击率DOWN/特殊技伤害DOWN(累积)<span class=text-blue>◆攻击开始时敌人CT处于最大或敌人表示预兆时发动</span></div>
+skill-3,,<div class=prt-text-small>风属性角色获得白鳞的拥抱效果<span class=text-blue>◆效果中，风属性攻击UP/连击率UP/技能性能UP/受伤减轻</span></div>
+support-1,,<div class=prt-text-small>容易被敌方选中但最大HPUP/受击时自身技能cd缩短1回合<span class=text-blue>◆白鳞的拥抱效果中，追加对敌方造成10次风属性伤害</span></div>
+support-2,,<div class=prt-text-small>回合结束时有概率发动技能1<span class=text-blue>◆我方弱体效果数量越多发动概率UP</span></div>
+skill-lb,LB技能,
+intro,,

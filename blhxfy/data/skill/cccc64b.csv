@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,永远亲爱 尤艾尔&苏丝雅,3040430000
+special,苍红之舞·融炎,暗属性伤害(特大)/赋予敌人狐火/自身技能cd缩短2回合
+skill-1,红之舞·唐红,<div class=prt-text-small>自身获得「红之舞·唐红」效果<span class=text-blue>◆「红之舞·唐红」效果中，回合中进行2次攻击行动/2次承伤解除</span></div>
+skill-2,苍之舞·胧月,<div class=prt-text-small>自身获得「苍之舞·胧月」效果<span class=text-blue>◆「苍之舞·胧月」效果中，免疫弱体效果/受伤减轻/2次承伤解除</span></div>
+skill-3,双狐舞踊,<div class=prt-text-small>对敌方全体造成2次暗属性伤害/攻防DOWN(累积)<span class=text-blue>◆「红之舞·唐红」效果中：伤害性能UP/「苍之舞·胧月」效果中：发动2次</span></div>
+support-1,朱之封手,必定连击/对狐火状态敌人的攻击回避率UP
+support-2,苍之愈手,敌人使用特殊技能时发动技能3/未承伤的回合结束时发动技能3
+skill-lb,LB技能,
+intro,,

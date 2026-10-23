@@ -1,0 +1,13 @@
+﻿id,name,detail
+npc,啤酒,3040587000
+special,,<div class=prt-text-small>光属性伤害(特大)/技能1发动/自身获得祝酒效果</div>
+skill-1,,<div class=prt-text-small>对敌方全体造成6次光属性伤害/光属性角色光属性攻击UP(累积)</div>
+skill-1++,,<div class=prt-text-small>对敌方全体造成6次光属性伤害/光属性角色光属性攻击UP(累积)/奥义性能UP(累积)</div>
+skill-2,,<div class=prt-text-small>光属性角色奥义值10%UP/回复1个弱体效果<span class=text-blue>◆回复弱体效果成功时，对敌方造成10次光属性伤害/自身奥义值20%UP</span></div>
+skill-2++,,<div class=prt-text-small>光属性角色奥义值10%UP/回复HP/回复1个弱体效果<span class=text-blue>◆回复弱体效果成功时，对敌方造成10次光属性伤害/自身奥义值20%UP</span></div>
+skill-3,,<div class=prt-text-small>光属性角色获得屏障效果/防御UP/暗属性受伤减轻</div>
+skill-3+,,<div class=prt-text-small>光属性角色获得屏障效果/防御UP/暗属性受伤减轻/自身可即刻发动奥义</div>
+support-1,,<div class=prt-text-small>免疫弱体效果「亡灵化」/若战斗开始时自身处于前排，光属性角色获得自动复活效果/前排光属性角色奥义值30%UP</div>
+support-2,,<div class=prt-text-small>技能「骑解方阵」效果10%UP<span class=text-blue>◆自身处于后排时同样发动</span></div>
+skill-lb,LB技能,
+intro,,
