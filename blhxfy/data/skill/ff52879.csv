@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,蕾娜,3040340000
+special,,土属性伤害(特大)/魔生花效果/自身技能cd缩短2回合
+skill-1,,<div class=prt-text-small>对随机目标造成6次土属性伤害/敌方全体土属性防御DOWN(累积)<span class=text-blue>◆有魔生花状态的敌人在场时，发动2次</span></div>
+skill-2,,回复我方全体HP/回复1个弱体效果
+skill-3,,<div class=prt-text-small>吸收队友的奥义值变换为自身奥义值/我方全体受伤减轻/被回复上限UP</div>
+support-1,,土属性角色对魔生花状态的敌人获得吸收效果/造成伤害上升
+support-2,,<div class=prt-text-small>回合结束时有概率发动技能2<span class=text-blue>◆我方弱体效果越多，发动概率UP</span></div>
+skill-lb,LB技能,我方全体无弱体效果时防御UP
+intro,,

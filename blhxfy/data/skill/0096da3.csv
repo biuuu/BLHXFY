@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,露萝赫萝,3040635000
+special,,风属性伤害(特大)/自身以外风属性角色激奏UP
+skill-1,,<div class=prt-text-small>战斗就交给你们了~♪<span class=text-blue>◆仅在前排有自身以外风属性角色时可使用/3回合内不进行攻击行动/自身以外风属性角色暴击率UP/会心效果/免疫驱散(1次)</span></div>
+skill-2,,<div class=prt-text-small>呀——！龙卷风~！<span class=text-blue>◆对随机目标造成7次风属性伤害/敌方全体防御DOWN/受伤加重/命中率DOWN</span></div>
+skill-3,,<div class=prt-text-small>钱的话我有！<span class=text-blue>◆自身敌对心UP/回避率UP/效果中，成为敌方攻击目标时发动技能2</span></div>
+support-1,,<div class=prt-text-small>感觉会很有趣<span class=text-blue>◆将战斗交给队友期间，攻击开始时获得以下随机效果中的1中(对敌方造成风属性伤害/驱散2个强化效果/自身以外风属性角色必定三连击/弱点属性追击效果/乱击(6Hit)效果)</span></div>
+support-2,,<div class=prt-text-small>好有趣，来领报酬吧！<span class=text-blue>◆战斗结束时有概率获得金币/自身处于后排时同样发动</span></div>
+skill-lb,LB技能,
+intro,,

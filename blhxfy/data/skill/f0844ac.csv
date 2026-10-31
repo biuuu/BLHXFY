@@ -1,0 +1,10 @@
+id,name,detail
+npc,伊维亚,3040378000
+special,,风属性伤害(特大)/自身技能cd缩短1回合
+skill-1,,(特别摸摸许可~)<span class=text-blue>◆进行摸摸的单体角色激奏UP</span>
+skill-2,,(大家来逗伊维亚~)<span class=text-blue>◆自身以外风属性角色特殊强化(攻防UP/连击率UP)</span>
+skill-3,,(午睡时间到~)<span class=text-blue>◆自身与后排成员交换/交替上场的风属性角色获得摸摸效果</span>
+support-1,,<div class=prt-text-small>不进行普攻，每回合奥义值30%UP/剩余血量最高成员为自身抵挡伤害<span class=text-blue>◆未承伤时使自身以外随机风属性角色获得摸摸效果</span></div>
+support-2,,<div class=prt-text-small>风属性角色回避率UP/回避成功的风属性角色在回合结束时回复HP/回复1种弱体效果<span class=text-blue>◆自身处于后排时同样发动</span></div>
+skill-lb,LB技能,奥义发动时回复我方全体HP
+intro,『翠』之化猫,拥有华丽长毛，趾高气昂的一只『猫』。没错，是猫。不论怎么看都完美无瑕，受人尊崇，谁看了都想宠爱一番的猫。……虽然本人坚信如此，但其真实身份却是创造风之元素、身为世界之理的六龙之『翠』。祂的自尊无法接受自己化为人形，于是借用了受千万人宠爱的上位存在的模样。但是为啥、为啥啊特异点！本猫伊维亚不过是搞了些恶作剧而已，为啥骂我啊~！？

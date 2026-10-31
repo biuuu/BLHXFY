@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,伊维亚,3040680000
+special,,暗属性伤害(特大)/技能1的cd缩短3回合
+skill-1,,<div class=prt-text-small>自身获得魔猫的冥风效果<br><span class=text-blue>◆自身无魔猫的冥风或魔猫的響冥风时使用可能/效果中，回合中进行2次攻击行动/必定三连击/回合中第2次后的攻击行动造成伤害上升/普攻攻击UP/伤害上限UP</span></div>
+skill-2,,<div class=prt-text-small>对敌方全体造成5次暗属性伤害/受伤加重<br><span class=text-blue>◆自身处于魔猫的冥风或魔猫的響冥风效果中时，在普攻后发动</span></div>
+skill-3,,暗属性角色回避敌方所有攻击(1次)/暴击率UP
+support-1,,<div class=prt-text-small>自身最大HP在60000以上时，战斗开始时获得魔猫的冥风效果/乱击(2Hit)效果</div>
+support-2,,<div class=prt-text-small>同一暗属性角色回合中进行2次以上攻击行动时，魅惑点心减少1层/无魅惑点心时，下一次技能1变化为魔猫的響冥风且可即刻使用<span class=text-blue>◆战斗开始时拥有6层魅惑点心</span></div>
+skill-lb,LB技能,
+intro,,

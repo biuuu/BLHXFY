@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,尤艾尔,3040580000
+special,,<div class=prt-text-small>火属性伤害(特大)/火属性防御DOWN(累积)/自身造成伤害上升(累积)<span class=text-blue>◆红之舞·晓效果中，发动2次</span></div>
+skill-1,,<div class=prt-text-small>对敌方造成2次火属性伤害/驱散1个强化效果/赋予狐火效果/火伤Lv上升1(最大10)</div>
+skill-2,,<div class=prt-text-small>上演红之舞·镇<span class=text-blue>◆使用后，火属性奥义连锁或自身三连击累积发动6次后技能变化为「红之舞·跃」且可即刻使用/再使用不可</span></div>
+skill-3,,<div class=prt-text-small>自身获得乱击(3Hit)效果(1次)/不经过回合进行普攻<span class=text-blue>◆红之舞·晓效果中，1回合中可连续使用2次</span></div>
+support-1,,<div class=prt-text-small>对于狐火状态的敌人火属性角色普攻造成伤害UP/连击率UP/对于狐火状态的敌人攻击回避率UP</div>
+support-2,,红之舞·晓效果中，火属性角色暴击率UP/伤害上限UP
+skill-lb,LB技能,
+intro,,

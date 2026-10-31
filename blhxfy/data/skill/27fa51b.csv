@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,库库鲁,3040539000
+special,,<div class=prt-text-small>光属性伤害(特大)/自身技能cd缩短1回合/获得1个水箱</div>
+skill-1,,<div class=prt-text-small>对随机目标造成6次光属性伤害/光属性角色暴击率UP/技能造成伤害上升</div>
+skill-2,,对敌方造成4次光属性伤害/防御DOWN/穿甲弹效果
+skill-3,,<div class=prt-text-small>自身必定三连击/不经过回合进行普攻<span class=text-blue>◆有穿甲弹效果的敌人在场时，追加乱击(3Hit)效果</span></div>
+support-1,,光属性角色普攻暴击时，获得光属性追击效果
+support-2,,<div class=prt-text-small>光属性角色普攻暴击时，库库鲁获得1水箱(最大5)/回合结束时消耗全部水箱对敌方造成光属性伤害<span class=text-blue>◆根据消耗的水箱发动次数UP(最大5次)</span></div>
+skill-lb,LB技能,
+intro,,

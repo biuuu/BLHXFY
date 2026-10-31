@@ -1,0 +1,12 @@
+﻿id,name,detail
+npc,克拉莉丝,3040067000
+special,炼金之光,土属性伤害(特大)/α崩坏·β崩坏等级上升3级
+special-ニュートロン・スター,中子星,<div class=prt-text-small>土属性伤害(特大)/根据α崩坏·β崩坏的等级发动场地效果原子崩坏</div>
+special-Neutron Star,中子星,<div class=prt-text-small>土属性伤害(特大)/根据α崩坏·β崩坏的等级发动场地效果原子崩坏</div>
+skill-1,原子湮灭,<div class=prt-text-small>根据目标HP给敌方单体造成无属性伤害/二连击率DOWN/消去1个强化效果</div>
+skill-2,α崩坏,敌方单体防御DOWN(累积)/α崩坏等级↑4，β崩坏等级↓1
+skill-3,β崩坏,敌方单体防御DOWN(累积)/β崩坏等级↑4，α崩坏等级↓1
+skill-4,无定型,<div class=prt-text-small>切换至辐射模式　<span class=text-blue>◆再使用时解除</div>
+support-1,克拉莉丝最可爱☆,我方全体弱化效果成功率UP
+support-2,辐射模式,<div class=prt-text-small>技能使用间隔缩短一半/奥义连击伤害UP/每回合受到伤害/场地效果「原子崩坏」发动时，攻击力UP</div>
+skill-lb,LB技能,场地效果「原子崩坏」发动时，连击率UP

@@ -1,0 +1,9 @@
+id,name,detail
+npc,赫尔艾斯,3040208000
+special,阿多杜瓦卡,<div class=prt-text-small>风属性伤害(特大)/自身风属性攻击UP<br><span class=text-blue>◆当自身处于风属性攻击UP时奥义性能UP</span></div>
+skill-1,幻影突击,<div class=prt-text-small>对敌方单体造成7-8倍风属性攻击/自身获得幻影</div>
+skill-2,清算之日,<div class=prt-text-small>效果中必TA/风属性追击<br><span class=text-blue>◆被攻击解除</span></div>
+skill-3,皇家连祷,<div class=prt-text-small>我方全体攻击大幅UP(反骨(1次))/敌人MODE条消减UP(大)</div>
+support-1,真龙的羁绊,自身处于风属性攻击UP时攻击UP/回避率UP
+support-2,王女的号令,我方全体对处于OD的敌人攻击UP/处于BREAK的敌人连击率UP
+skill-lb,LB技能,回合开始时有几率自身全回避

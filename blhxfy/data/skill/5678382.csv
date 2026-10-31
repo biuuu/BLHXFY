@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,尤达拉哈,3040064000
+special,万结一闪,水属性伤害(特大)/消耗所有三幕效果，每一层效果造成333333无属性伤害
+skill-1,十起,对敌方三体造成4~5倍水属性伤害<span class=text-blue>◆存在三幕效果时，发动2次</span>
+skill-2,百承,回避敌方所有攻击<span class=text-blue>◆存在三幕效果时，成为攻击目标</span>
+skill-3,千转,回复所有三幕效果
+support-1,绝句,<div class=prt-text-small>每4回合回复三幕效果(最大3)/无三幕效果时性能大幅DOWN<span class=text-blue>◆每次普攻·技能消耗1三幕效果</span></div>
+support-2,二重刃,三幕效果中必定三连击
+skill-lb,LB技能,普攻时有概率获得攻击10%UP效果(累积，最大30%)
+,,

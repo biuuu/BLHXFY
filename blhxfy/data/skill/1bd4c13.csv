@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,威尔,3040557000
+special,,暗属性伤害(特大)/发动奥义的回合自身回避敌方所有攻击
+skill-1,,<div class=prt-text-small>对敌方造成4次暗属性伤害/连击率DOWN(累积)/缓速效果<span class=text-blue>◆赦罪执行效果中，强袭效果/自身获得追击效果(敌人break时/1次)</span></div>
+skill-2,,回复暗属性角色HP/奥义值10%UP/自身回复性能UP(累积)
+skill-3,,暗属性角色弱体耐性UP/屏障效果/免疫驱散效果(1次)
+support-1,,<div class=prt-text-small>容易成为攻击目标但回避率大幅UP/回避成功的回合结束时发动技能1/罪科目录Lv上升1(最大3)/罪科目录Lv达到3时，重置Lv使自身获得赦罪执行效果/技能可即刻使用<span class=text-blue>◆赦罪执行效果中必定三连击/普攻后对敌方造成8次暗属性伤害/驱散1个强化效果</span></div>
+support-2,,敌方发动特殊技时发动技能2
+skill-lb,LB技能,
+intro,,

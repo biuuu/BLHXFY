@@ -1,0 +1,11 @@
+﻿id,name,detail
+npc,茉莉,3040459000
+special,,回复暗属性角色HP(上限2000)/自身调药Lv上升1(最大3)/技能cd缩短1回合
+special+,,回复暗属性角色HP(上限2500)/自身调药Lv上升1(最大3)/技能cd缩短1回合
+skill-1,,暗属性角色获得疫苗效果/回复HP(上限2000)
+skill-2,,暗属性角色弱体耐性100%UP/格挡效果/吸收效果(消去不可)
+skill-3,,生成1个治愈药水/暗属性角色免疫驱散(1次)<span class=text-blue>◆消耗1层调药Lv</span>
+support-1,,使用治愈药水时消耗1调药Lv<span class=text-blue>◆对象为暗属性角色时，攻击大幅UP(1次)</span>
+support-2,,战斗开始时追加1个治愈药水<span class=text-blue>◆自身处于后排时同样发动</span>
+skill-lb,LB技能,
+intro,,

@@ -1,0 +1,9 @@
+id,name,detail
+npc,席尔瓦,3040291000
+special,神腕射击,<div class=prt-text-small>土属性伤害(特大)/驱散敌方1个强化效果/减速</div>
+skill-1,度假的鹰眼,<div class=prt-text-small>自身奥义可立即使用/奥义性能UP(1次)<br><span class=text-blue>◆消耗30%HP</span></div>
+skill-2,刺眼阳光,<div class=prt-text-small>对敌方单体施加攻击DOWN/黑暗/命中率DOWN</div>
+skill-3,援护齐射,<div class=prt-text-small>自身与1名指定后备队员交换<br><span class=text-blue>◆交换的土属性角色获得数据大幅UP/防御DOWN</span></div>
+support-1,沙滩的狙击手,防御力低/奥义性能UP/潜伏/高扬
+support-2,海洋弹丸,(仅在后排有效)土属性最大奥义连锁「Diastrofism」发生时，对敌方造成土属性伤害
+intro,辉夏的秀类,就算是努力的天才狙击手，与姐妹及友人一起到度假地以后也能放松身心享受假期。更不用说之前担心的没有血缘关系的伯父现在已经变成了个能够依靠的大人。就连事故也会变成假期中的一个期待点。

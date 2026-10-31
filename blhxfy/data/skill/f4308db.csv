@@ -1,0 +1,11 @@
+﻿id,name,detail
+npc,菲露露卡,3040652000
+special,,土属性伤害(特大)/弱体耐性DOWN/命中率DOWN
+skill-1,,对敌方施加火之祭坛/水之祭坛/风之祭坛
+skill-2,,<div class=prt-text-small>土属性角色弱体耐性大幅UP/免疫驱散/再生效果<span class=text-blue>◆第2次发动追加格挡效果/伤害减轻效果</span></div>
+skill-3,,<div class=prt-text-small>解放敌方全体所有山土祭坛，造成12次合计48倍土属性伤害/封印敌方行动1回合/重置CT/驱散3个强化效果/自身获得女王檄令效果/仅在有被施加6个山土祭坛的敌方在成时可使用<span class=text-blue>◆</span></div>
+support-1,,<div class=prt-text-small>战斗开始时自身获得屏障效果/未受伤的回合结束时，土属性角色三连击率UP(1次)</div>
+support-2,,<div class=prt-text-small>无视敌方火·水·风属性耐性/无视敌方属性触发弱点属性/女王檄令效果中，土属性角色获得乱击(2Hit)效果/伤害上限UP/普攻造成伤害上升</div>
+support-3,,<div class=prt-text-small>敌方发动特殊技时，火之祭坛启动对被赋予祭坛的敌方造成火属性伤害/驱散1个强化效果/敌方普攻时，水之祭坛启动对呗赋予祭坛的敌方造成水属性伤害/连击率DOWN/发动奥义连锁时，风之祭坛启动对被赋予祭坛的敌人造成风属性伤害/受伤加重<span class=text-blue>◆消耗启动的祭坛，对被赋予祭坛的敌人施加1个山土祭坛(最大5)</span></div>
+skill-lb,LB技能,
+intro,,

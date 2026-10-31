@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,缇可,3040337000
+special,,光属性伤害(特大)/光属性角色获得疫苗效果(回合结束时回复所有弱体效果)
+skill-1,,光属性角色特殊强化(攻防UP)/减轻回合伤害
+skill-2,,对敌方全体造成光属性伤害/自身回复性能UP/可即刻发动奥义
+skill-3,,<div class=prt-text-small>进入集中治疗状态，回合结束时回复光属性角色HP/回复1个弱体效果<br><span class=text-blue>◆集中治疗状态不发动普攻/再使用解除</span></div>
+support-1,,<div class=prt-text-small>敌人使用特殊技能时发动技能2/技能1cd缩短2回合</div>
+support-2,,战斗开始时追加1个全体回复药水
+skill-lb,LB技能,集中治疗状态中奥义上限UP
+intro,,

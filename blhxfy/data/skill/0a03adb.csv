@@ -1,0 +1,10 @@
+id,name,detail
+npc,尤妮,3040390000
+special,无相宇宙,光属性伤害(特大)/发动1次「活力焕然」
+skill-1,活力焕然,<div class=prt-text-small>我方光属性角色获得奥义值UP(10%)/HP回复(上限1000)/弱化效果缩短2回合<br><span class=text-blue>◆自身获得1层「爱子之愿」</span></div>
+skill-2,把握今朝,<div class=prt-text-small>自身以外的我方指定光属性角色获得技能立即可用/同一个技能在一回合内可以使用2次<br><span class=text-blue>◆消耗7层「爱子之愿」</span></div>
+skill-3,意志之力,<div class=prt-text-small>敌方获得可解除预兆解除/敌方全体CT清空<br><span class=text-blue>◆消耗10层「爱子之愿」</span></div>
+skill-4,位面之门,自身获得「调停之愿」<br><span class=text-blue>◆消耗10层「爱子之愿」</span>
+support-1,调停使者,自身获得弱化免疫/驱散免疫
+support-2,为了见到空之世界的明天,<div class=prt-text-small>自身处于「调停之愿」时我方光属性角色获得攻防UP/连续攻击率UP/伤害上限UP/技能使用间隔减少1回合(最多减少至1回合)</div>
+intro,调停的爱子,长年跟随在调停者身边的小龙，以崭新的身躯和名字现身于空之世界。为了实现所爱之主的心愿、找到属于自己的期望，蒙受调停者祝福的少女展翅面向遥远的未来。

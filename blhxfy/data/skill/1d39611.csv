@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,梅利甘斯,3040572000
+special,,<div class=prt-text-small>土属性伤害(特大)/技能1和技能2可即刻使用/技能3的cd缩短1回合<span class=text-blue>◆根据烈活Lv造成土属性追加伤害(最大4次)</span></div>
+skill-1,,<div class=prt-text-small>土属性角色防御UP/水属性伤害减轻(20%)/将受到的伤害转为水属性/回合伤害减轻</div>
+skill-2,,<div class=prt-text-small>对敌方造成土属性伤害/驱散1个强化效果/自身获得土属性追击效果<span class=text-blue>◆驱散成功时，不经过回合进行普攻</span></div>
+skill-3,,<div class=prt-text-small>牺牲自身HP获得援护效果(全体)/逆境效果/必定三连击/弱体耐性大幅UP/免疫驱散/不死之身效果(1次)</div>
+support-1,,奥义值累积缓慢但受击时进行全力反击(2次)
+support-2,,<div class=prt-text-small>土属性角色使用消耗HP或最大HP的技能时，自身烈活Lv上升1(最大4)<span class=text-blue>◆根据烈活Lv依次获得以下效果(攻防UP/吸收效果/普攻造成伤害UP/全力反击次数UP(2次))</span></div>
+skill-lb,LB技能,
+intro,,

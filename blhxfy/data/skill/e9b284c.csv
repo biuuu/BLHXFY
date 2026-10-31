@@ -1,0 +1,15 @@
+id,name,detail
+npc,斯特姆,3040115000
+special,地狱使者,火属性伤害(特大)/技能1可即刻使用
+special-フロム･インフェルノ,,火属性伤害(特大)/技能1可即刻使用/强化技能cd缩短2回合
+skill-1,闪电突袭,<div class=prt-text-small>对敌方造成火属性伤害/灼热效果/缓速效果/自身攻击大幅UP</div>
+skill-2,剑刃转换,<div class=prt-text-small>自身奥义值25%UP/对随机目标造成2次火属性伤害<span class=text-blue>◆力压之刃Lv5时，攻击次数翻倍/技练之刃Lv时，1回合中可使用2次</span></div>
+skill-2++,剑刃转换,<div class=prt-text-small>自身奥义值25%UP/伤害上限UP(累积)对随机目标造成2次火属性伤害<span class=text-blue>◆力压之刃Lv5时，攻击次数翻倍/技练之刃Lv时，1回合中可使用2次</span></div>
+skill-3,再强化,自身获得火属性追击效果/普攻造成伤害UP/回合中进行2次攻击行动/回避敌方所有攻击(1次)
+skill-4,剑哮,<div class=prt-text-small>自身获得剑哮效果/可即刻发动奥义<span class=text-blue>◆力压之刃与技练之刃Lv皆为5时可使用/效果中，攻击行动次数加1/攻击前消耗50%奥义值，下一次普攻每次攻击对随机目标造成2hit/下一次普攻时，对敌方造成2次火属性伤害</span></div>
+support-1,力压之刃,<div class=prt-text-small>普攻时，自身力压之刃Lv上升1(最大5)/对灼热状态的敌人发动火属性追击<span class=text-blue>◆根据力压之刃Lv自身攻防UP/连击率UP</span></div>
+support-1+,力压之刃,<div class=prt-text-small>普攻时，自身力压之刃Lv上升1(最大5)/对灼热状态的敌人发动火属性追击<span class=text-blue>◆根据力压之刃Lv自身攻防UP/连击率UP/Lv5时暴击率UP</span></div>
+support-2,技练之刃,<div class=prt-text-small>使用技能时自身技练之刃Lv上升1(最大5)/技能伤害不会消耗攻击大幅UP效果/回避时发动技能1<span class=text-blue>◆根据技练之刃Lv自身奥义性能UP/技能伤害上升</span></div>
+support-2,技练之刃,<div class=prt-text-small>使用技能时自身技练之刃Lv上升1(最大5)/技能伤害不会消耗攻击大幅UP效果/回避时发动技能1<span class=text-blue>◆根据技练之刃Lv自身奥义性能UP/技能伤害上升/Lv5时回避率UP</span></div>
+skill-lb,LB技能,偶尔回避敌人所有攻击
+intro,战焰的佣兵,以卓越的剑技闻名于世的历战佣兵，她所相信的只有合同和报酬。然而她寡默的眼瞳深处内藏的火焰正在熊熊燃烧。

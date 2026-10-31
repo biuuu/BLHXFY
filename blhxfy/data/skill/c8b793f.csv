@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,泽黑库,3040316000
+special,,暗属性伤害(特大)/技能1发动/自身获得吸收效果
+skill-1,,<div class=prt-text-small>对敌方单体造成4次暗属性攻击/敌人与自身攻防DOWN(累积)<span class=text-blue>◆魔力的刺痛最大层数时伤害性能UP</span></div>
+skill-2,,驱散敌方单体2种强化效果<span class=text-blue>◆驱散成功时自身获得等量弱体效果</span>
+skill-3,,增加敌人最大CT/我方全体弱体耐性UP/受伤减轻
+support-1,,<div class=prt-text-small>弱体效果中，回合开始时净化1种弱体效果/获得1层魔力的刺痛(最大5)<span class=text-blue>◆根据魔力的刺痛层数状态UP/每回合受到伤害</span></div>
+support-2,,回合伤害不会导致无法战斗/受到致命伤时，消耗3层魔力的刺痛继续战斗
+skill-lb,LB技能,普攻有几率获得1层魔力的刺痛
+intro,身携异形者,

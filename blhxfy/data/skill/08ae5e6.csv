@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,纱都,3040533000
+special,,<div class=prt-text-small>火属性伤害(特大)/回避敌方所有攻击(1次)<span class=text-blue>◆敌人的火伤Lv在7以上时，发动技能1</span></div>
+skill-1,,<div class=prt-text-small>对敌方造成6次火属性伤害/火伤Lv上升1(最大10)/驱散1个强化效果<span class=text-blue>◆结成临之印/若已结成斗之印，则切换为者之印</span></div>
+skill-2,,<div class=prt-text-small>自身敌对心大幅UP/反击效果(回避·受击/6次)/火属性角色获得高扬效果<span class=text-blue>◆结成斗之印/若已结成临之印，则切换为兵之印</span></div>
+skill-3,,<div class=prt-text-small>使用选择的忍法<span class=text-blue>◆根据所结之印获得追加效果/忍法Lv到达5时，1回合可以连续使用2次</span></div>
+support-1,,<div class=prt-text-small>未受伤的回合结束时，忍法Lv上升1/根据忍法Lv依次获得以下效果(攻击UP/必定三连击/回避率UP/技能造成伤害上升/未受伤的回合结束时发动技能1)</div>
+support-2,,<div class=prt-text-small>火属性奥义连锁发动时，技能3的cd缩短1回合<span class=text-blue>◆火属性奥义连锁4连及以上时，对敌方全体造成10次火属性伤害</span></div>
+skill-lb,LB技能,
+intro,,

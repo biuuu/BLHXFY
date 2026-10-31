@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,卡托尔,3040565000
+special,,<div class=prt-text-small>火属性伤害(特大)/驱散敌方1个强化效果/技能3可即刻使用/下一次技能3发动2次</div>
+skill-1,,<div class=prt-text-small>自身获得追击效果(仅在敌人break时/1次)/赋予敌方全体强袭效果<span class=text-blue>◆有break状态的敌人在场时，追加火属性角色普攻造成伤害UP</span></div>
+skill-2,,<div class=prt-text-small>对敌方造成4次火属性伤害/弱体耐性DOWN(累积)<span class=text-blue>◆有break状态的敌人在场时，在普攻后发动</span></div>
+skill-3,,敌方攻防DOWN(累积)/赋予2个随机弱体效果
+support-1,,<div class=prt-text-small>技能伤害不消耗追击效果/追击效果中的火属性角色每次普攻对随机目标造成2Hit</div>
+support-2,,对break状态的敌人攻击UP/必定三连击/火属性追击效果
+skill-lb,LB技能,
+intro,,

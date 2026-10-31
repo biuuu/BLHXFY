@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,梅格&玛丽佩,3040662000
+special,,<div class=prt-text-small>风属性伤害(特大)/6次风属性追加伤害<span class=text-blue>◆幸福宣言Lv5时，发动2次</span></div>
+skill-1,,<div class=prt-text-small>自身可即刻发动奥义/玛丽佩的爱上升5层(最大10)<span class=text-blue>◆幸福宣言Lv5时，追加Fatal Chain值20%UP</span></div>
+skill-2,,<div class=prt-text-small>对敌方造成6次风属性伤害/风属性防御DOWN(累积)/赋予2个随机弱体效果/驱散1个强化效果<span class=text-blue>◆消耗3层玛丽佩的爱可再次使用该技能</span></div>
+skill-3,,<div class=prt-text-small>风属性角色获得奥义焕发效果/风属性奥义追击效果<span class=text-blue>◆幸福宣言Lv5时，将敌方造成的属性伤害变为0</span></div>
+support-1,,<div class=prt-text-small>奥义发动次数越多，二人羁绊越深，队友也兴致高涨力量不断涌现<span class=text-blue>◆自身发动奥义时，幸福宣言Lv上升1(最大5)/根据幸福宣言Lv风属性角色防御UP/奥义性能UP/奥义造成伤害上升</span></div>
+support-2,,<div class=prt-text-small>风属性奥义连锁4连及以上发动时，获得1层玛丽佩的爱(最大10)/强化技能cd缩短1回合/回复风属性角色HP/奥义值20%UP</div>
+skill-lb,LB技能,
+intro,奥古斯特婚礼,

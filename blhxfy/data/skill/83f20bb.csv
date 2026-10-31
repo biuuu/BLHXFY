@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,碧卡拉,3040585000
+special,,<div class=prt-text-small>光属性伤害(特大)/自身伤害技能可即刻使用/技能3的cd缩短1回合<span class=text-blue>◆祭鼠Lv3时，追加光属性角色激奏UP效果</span></div>
+skill-1,,<div class=prt-text-small>对敌方全体造成10次光属性伤害/和小多一起享受祭典<span class=text-blue>◆碧卡拉离开前排时小多也同时离开</span></div>
+skill-2,,<div class=prt-text-small>对敌方造成5次光属性伤害/攻防DOWN(累积)/驱散1个强化效果<span class=text-blue>◆祭鼠Lv3时，攻击次数翻倍</span></div>
+skill-3,,<div class=prt-text-small>光属性角色获得宵祭云菓效果<span class=text-blue>◆效果中，技能造成伤害UP/弱体耐性UP/受伤减轻/再生效果</span></div>
+support-1,,<div class=prt-text-small>我方全体对目标敌方造成15次以上技能伤害的回合结束时，技能2发动/自身祭鼠Lv上升1(最大3)<span class=text-blue>◆根据祭鼠Lv光属性角色攻防UP/三连击率UP/回避率UP/祭鼠Lv3时，光属性角色技能造成伤害上升</span></div>
+support-2,,祭鼠Lv3时，攻击开始时光属性角色获得光属性追击效果(1次)
+skill-lb,LB技能,
+intro,,
