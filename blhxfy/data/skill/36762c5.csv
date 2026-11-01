@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,塞瓦斯蒂安,3040548000
+special,,<div class=prt-text-small>暗属性伤害(特大)/自身回避敌方所有攻击(1次)<span class=text-blue>◆血风斗乱状态中发动2次</span></div>
+skill-1,,<div class=prt-text-small>进入血风斗乱状态<span class=text-blue>◆效果中必定三连击/暗属性追击效果/技能性能UP/每回合消耗HP，可即刻使用伤害技能/陷入濒死状态解除</span></div>
+skill-2,,对敌方造成8次暗属性伤害/自身攻防UP(累积)/造成伤害上升(累积)
+skill-3,,对敌方全体造成暗属性伤害/暗属性防御DOWN(累积)/驱散1个强化效果
+support-1,,非血风斗乱状态中，潜伏效果/回合结束时回复HP
+support-2,,<div class=prt-text-small>若战斗开始时自身为参战成员，队伍中的暗属性角色防御UP/再生效果/免疫弱体效果(1次)</div>
+skill-lb,LB技能,
+intro,,

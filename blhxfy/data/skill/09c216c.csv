@@ -1,0 +1,8 @@
+﻿id,name,detail
+npc,尤里乌斯,3040473000
+special,深渊公爵,光属性伤害(特大)/自身奥义值20%UP
+skill-1,触手生成,敌方全体攻防DOWN(累积)/随机弱体效果<span class=text-blue>◆消耗10%奥义值</span>
+skill-2,触手突袭,<div class=prt-text-small>对敌方全体造成6次光属性伤害/回复光属性角色HP/净化1种弱体效果<span class=text-blue>◆根据敌方弱体效果最大数量，攻击次数UP</span></div>
+skill-3,珍贵发现,对敌方单体造成光属性伤害/驱散1种强化效果<span class=text-blue>◆敌方弱体效果数量在10以上时，发动2次</span>
+support-1,知爵的假日,我方全体对目标中的敌方造成5种以上弱体效果后，回合结束时，技能2发动
+support-2,触手自由型,根据敌方弱体效果数量，技能伤害UP

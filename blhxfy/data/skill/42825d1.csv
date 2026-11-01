@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,蕾欧娜,3040285000
+special,,土属性伤害(特大)/我方全体获得会心效果<span class=text-blue>◆根据一狮当千Lv追加土属性伤害</span>
+skill-1,,对敌方全体造成土属性伤害/云裂效果/最大CT增加
+skill-2,,<div class=prt-text-small>自身暴击率UP/格挡效果/连击率UP/免疫弱体效果/伤害上限UP</div>
+skill-3,,单体土属性角色可即刻发动奥义/回避敌方所有攻击(1次)
+support-1,,<div class=prt-text-small>暴击时一狮当千Lv上升1(最大5)/技能2的强化效果延长1回合<span class=text-blue>◆根据一狮当千Lv攻击UP</span></div>
+support-2,,土属性角色暴击时伤害上限UP
+skill-lb,LB技能,使用技能2时奥义值UP
+intro,,

@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,艾瑟尔,3040619000
+special,,<div class=prt-text-small>水属性伤害(特大)/技能1可即刻使用/下一回合中可连续使用2次技能1</div>
+skill-1,,<div class=prt-text-small>对随机目标造成10次水属性伤害/敌方全体攻防DOWN(累积)/战利品掉落率UP(3次)</div>
+skill-2,,<div class=prt-text-small>对敌方造成水属性伤害/受伤加重/强袭效果/自身获得追击效果(仅敌方break时/1次)<span class=text-blue>◆根据寻宝效果层数伤害次数UP(最大10次)</span></div>
+skill-3,,<div class=prt-text-small>对敌方全体造成10倍水属性伤害/水属性角色获得幽幻灯效果<span class=text-blue>◆效果中，攻击UP/必定三连击/水属性追击效果/普攻时对敌方造成2倍水属性伤害</span></div>
+support-1,,<div class=prt-text-small>赋予寻宝效果必定成功/技能伤害不消耗追击效果/有break状态的敌人在场时，每次普攻对随机目标造成2Hit</div>
+support-2,,<div class=prt-text-small>水属性角色使用伤害技能时，技能3的预备回合与冷却回合缩短1回合/自身获得1层幻夜蝶(最大5)/回合结束时消耗所有幻夜蝶根据其层数造成相应次数的水属性伤害(最大5次)</div>
+skill-lb,LB技能,
+intro,哥特修女,

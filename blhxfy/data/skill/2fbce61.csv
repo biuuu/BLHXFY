@@ -1,0 +1,8 @@
+﻿id,name,detail
+npc,阿妮拉,3040479000
+special,羊彩陆离,水属性伤害(特大)/技能2即刻使用可能/技能3cd缩短1回合
+skill-1,落庆法羊,对敌方全体造成5次水属性伤害/缓速效果/水属性防御DOWN
+skill-2,凤鸣朝羊,自身必定三连击/获得强壮效果/回复HP<span class=text-blue>◆「光羊」Lv在3以上时，效果全体化</span>
+skill-3,羊华绚烂,<div class=prt-text-small>对敌方随机目标造成15次水属性伤害/水属性角色不计回合地进行普攻/自身无法使用技能<span class=text-blue>◆「光羊」Lv5时可使用</span></div>
+support-1,仲夏大舞台！,<div class=prt-text-small>每次普攻，对敌方随机目标造成2次攻击/我方全体对自身目标中的地方造成20次伤害时，该回合结束我方全体获得弱点属性追击效果/自身「光羊」Lv上升1(最大5)</div>
+support-2,月下羊神,根据「光羊」Lv依次获得以下效果：必定连击/攻击UP/普通伤害UP/伤害上限UP/强化效果不会被无效化

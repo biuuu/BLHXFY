@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,琪琪莉,3040621000
+special,,水属性伤害(特大)/缓速效果/水属性角色获得格挡效果
+skill-1,,<div class=prt-text-small>对敌方造成4次水属性伤害/弱体耐性DOWN(累积)/特殊技伤害DOWN(累积)<span class=text-blue>◆根据发动次数增加攻击次数(最大8次)</span></div>
+skill-2,,水属性角色奥义上升量UP/连击率UP(累积)/回避率UP(累积)
+skill-3,,<div class=prt-text-small>自身获得可怜扬扬效果/奥义值100%UP<span class=text-blue>◆效果中，奥义值上升量UP/奥义性能UP/奥义发动2次</span></div>
+support-1,,<div class=prt-text-small>受到自身以外水属性角色的奥义值UP效果时，自身饰钺Lv上升1(最大2)<span class=text-blue>◆饰钺Lv2时，若受到自身以外水属性角色的奥义值UP效果，重置Lv并发动技能1/技能3的cd缩短1回合</span></div>
+support-2,,<div class=prt-text-small>水属性奥义连锁4连及以上发动时，发动技能2<span class=text-blue>◆水属性奥义连锁5连及以上发动时，回复水属性角色HP</span></div>
+skill-lb,LB技能,
+intro,,

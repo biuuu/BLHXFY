@@ -1,0 +1,8 @@
+id,name,detail
+npc,阿比,3040284000
+special,怒斧攻击,<div class=prt-text-small>火属性伤害(特大)/愤怒之臂DX效果延长2回合</div>
+skill-1,小姆，来我身边！,<div class=prt-text-small>自身获得小姆，来我身边！效果<br><span class=text-blue>◆效果中根据满足条件不同发动效果</span></div>
+skill-2,愤怒之臂DX,<div class=prt-text-small>自身攻击UP(特大)/伤害上限UP/连击率UP<br><span class=text-blue>◆自身HP处于50%以上时追加强壮</span></div>
+skill-3,小姆扑杀拳,<div class=prt-text-small>对敌方单体造成火属性伤害/减速/自身奥义可立即发动</div>
+support-1,砍了再说！,战斗开始时若自身处于强壮状态中，自身获得奥义性能UP/再生
+support-2,劈成两半,阿比剩余的HP越高，我方全体攻击大幅UP

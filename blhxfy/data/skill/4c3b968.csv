@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,莉夏,3040263000
+special,,水属性伤害(特大)/获得2层秩序的英气/自身技能伤害上限UP(累积/最大3次)
+skill-1,,<div class=prt-text-small>对随机目标造成4次水属性伤害/赋予敌方全体2个随机弱体效果<span class=text-blue>◆消耗1层秩序的英气</span></div>
+skill-2,,<div class=prt-text-small>对敌方全体造成水属性伤害/防御DOWN(累积)/水属性防御DOWN(累积)<span class=text-blue>◆消耗1层秩序的英气</span></div>
+skill-3,,<div class=prt-text-small>获得4层秩序的英气/下一次奥义变化为「レイディアント・オーダー」(水属性伤害(极大)/驱散敌方3个强化效果)/我方全体奥义值30%UP</div>
+support-1,,战斗开始时获得4层秩序的英气(最大4)/我方全体技能命中率UP
+skill-sub,,水属性奥义连锁发动时，根据连锁数对敌方造成水属性伤害
+skill-lb,LB技能,
+intro,,

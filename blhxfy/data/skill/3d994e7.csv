@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,阿雷提亚,3040567000
+special,,暗属性伤害(特大)/驱散1个强化效果/技能2可即刻使用
+skill-1,,<div class=prt-text-small>对敌方造成8倍暗属性伤害/防御DOWN(累积)/暗属性角色技能性能UP<span class=text-blue>◆幽玄二刃效果中，伤害性能UP</span></div>
+skill-2,,<div class=prt-text-small>对敌方造成4次暗属性伤害/自身获得乱击(2hit)效果<span class=text-blue>◆幽玄二刃效果中，攻击次数翻倍</span></div>
+skill-3,,<div class=prt-text-small>对敌方造成2次暗属性伤害/自身获得幽玄二刃效果/其他技能可即刻使用<span class=text-blue>◆暗属性角色使用伤害技能时，使用可能回合与cd缩短1回合</span></div>
+support-1,,<div class=prt-text-small>暗属性角色使用伤害技能时，利刃Lv上升1(最大6)/回避时消耗Lv3利刃，发动技能1<span class=text-blue>◆利刃Lv在3以上时，回避敌方所有攻击</span></div>
+support-2,,<div class=prt-text-small>得意武器为「剑」「刀」的暗属性角色攻防UP/连击率UP/伤害技能cd缩短1回合</div>
+skill-lb,LB技能,
+intro,,

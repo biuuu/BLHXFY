@@ -1,0 +1,12 @@
+﻿id,name,detail
+npc,阿弥,3040528000
+special,,风属性伤害(特大)/自身技能cd缩短1回合
+skill-1,,对敌方造成风属性伤害/风属性防御DOWN(累积)
+skill-1++,,<div class=prt-text-small>对敌方造成风属性伤害/风属性防御DOWN(累积)/连击率DOWN(累积)</div>
+skill-2,,<div class=prt-text-small>对随机目标造成10次风属性伤害<span class=text-blue>◆根据敌方的弱体效果最大数量攻击次数UP(最大20次)</span></div>
+skill-2++,,<div class=prt-text-small>对随机目标造成10次风属性伤害/驱散敌方全体1个强化效果<span class=text-blue>◆根据敌方的弱体效果最大数量攻击次数UP(最大20次)</span></div>
+skill-3,,对敌方全体造成各种弱体效果
+support-1,,<div class=prt-text-small>最大HP低，但有弱体效果中的敌人在场时，普攻后有概率发动技能1<span class=text-blue>◆敌方弱体效果越多发动概率UP</span></div>
+support-2,,<div class=prt-text-small>技能「岚龙方阵」效果10%UP<span class=text-blue>◆自身处于后排时同样发动</span></div>
+skill-lb,LB技能,
+intro,,

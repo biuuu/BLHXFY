@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,夏洛特,3040438000
+special,,风属性伤害(特大)/追加伤害/自身伤害技能可即刻使用
+skill-1,,风属性角色1回合内免疫伤害<span class=text-blue>◆第10回合后：追加吸收效果</span>
+skill-2,,<div class=prt-text-small>对敌方单体造成风属性伤害/我方全体「崇高指令」效果延长2回合<span class=text-blue>◆第2次发动追加奥义性能UP效果(累积)/第三次发动追加奥义值15%UP</span></div>
+skill-3,,<div class=prt-text-small>对敌方单体造成10次风属性伤害/驱散1种强化效果<span class=text-blue>◆第2次发动追加命中率DOWN效果/第3次发动追加缓速效果</span></div>
+support-1,,第10回合后，奥义发动2次/1回合内同一技能可使用2次
+support-2,,若战斗开始时自身处于前排，则风属性角色奥义值40%UP/获得「崇高指令」效果(攻防UP/弱体耐性UP/5回合)
+skill-lb,LB技能,
+intro,,

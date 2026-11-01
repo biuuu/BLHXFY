@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,维恩,3040360000
+special,,风属性伤害(特大)/回复自身HP/技能2可即刻使用
+skill-1,,对敌方单体造成风属性伤害/土属性攻击DOWN/风属性防御DOWN
+skill-2,,反击效果(回避·承伤/5次)
+skill-3,,自身普攻伤害UP/防御性能UP/奥义性能UP/奥义连击性能UP
+support-1,,反击效果中，自身必定三连击/风属性追击效果
+support-2,,风属性角色防御50%UP<span class=text-blue>◆自身处于后排时同样发动</span>
+skill-lb,LB技能,反击伤害UP
+intro,,

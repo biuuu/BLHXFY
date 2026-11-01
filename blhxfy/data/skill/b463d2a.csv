@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,齐格飞,3040595000
+special,,<div class=prt-text-small>土属性伤害(特大)/技能2发动<span class=text-blue>◆龙灭的鼓动达到3层时，变化为土属性伤害(极大)</span></div>
+skill-1,,对敌方造成2次土属性伤害/土属性防御DOWN(累积)/受伤加重(6次)
+skill-2,,<div class=prt-text-small>自身攻击UP/防御UP/伤害上限UP<span class=text-blue>◆每次发动依次获得以下效果(必定三连击/土属性追击效果/普攻造成伤害UP)</span></div>
+skill-3,,<div class=prt-text-small>对敌方造成16倍土属性伤害/驱散1个强化效果/土属性角色水属性受伤减轻/将承伤转换为水属性</div>
+support-1,,<div class=prt-text-small>奥义发动时自身获得1层龙灭的鼓动(最大3)<span class=text-blue>◆根据龙灭的鼓动层数依次获得以下效果(普攻后发动技能1/奥义发动时自身伤害技能可即刻使用/奥义发动时造成土属性追加伤害)</span></div>
+support-2,,<div class=prt-text-small>免疫弱体效果/免疫驱散/受到敌方水属性伤害的最大值固定为5000/战斗开始时获得不死之身效果(1次)</div>
+skill-lb,LB技能,
+intro,,

@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,翠,3040531000
+special,,<div class=prt-text-small>光属性伤害(特大)/调律Lv上升1(最大10)/技能2的cd缩短2回合</div>
+skill-1,,<div class=prt-text-small>对敌方造成6次光属性伤害/调律Lv上升1(最大10)/自身奥义值50%UP<span class=text-blue>◆10回合以后：奥义值UP的对象变化为光属性角色</span></div>
+skill-2,,<div class=prt-text-small>回复光属性角色HP/弱体效果缩短2回合/自身回复性能UP(累积)<span class=text-blue>◆10回合以后：追加光属性角色获得免疫驱散效果(1次)</span></div>
+skill-3,,<div class=prt-text-small>自身与后一位光属性角色获得神器·绯缘绳效果<span class=text-blue>◆10回合以后：神器·绯缘绳效果时间延长/攻击大幅UP(1次)/追加光属性追击效果(1次)</span></div>
+support-1,,随着回合数增加光属性角色攻击UP/连击率UP/奥义性能UP
+support-2,,<div class=prt-text-small>神器·绯缘绳效果中我方发动奥义时，技能1的cd缩短1回合</div>
+skill-lb,LB技能,
+intro,,

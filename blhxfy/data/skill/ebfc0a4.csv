@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,瓦姆杜斯,3040419000
+special,,水属性伤害(极大)/水属性角色1回合间受伤减轻
+skill-1,,瓦姆，肚子饿了<span class=text-blue>◆选择一种吸入</span>
+skill-2,,<div class=prt-text-small>对敌方造成6次水属性伤害/麻痹效果/毒效果/剧毒Lv上升1(最大10)<span class=text-blue>◆受伤时自动发动</span></div>
+skill-3,,自身获得『碧』之月晕效果<span class=text-blue>◆再使用不可</span>
+support-1,,<div class=prt-text-small>最大HP数值高，但奥义值积累缓慢/最大奥义值为200<span class=text-blue>◆奥义值达到200%时才能使用奥义</span></div>
+support-2,,Fatal Chain发动，水属性角色在1回合间受伤减轻
+skill-lb,LB技能,使用技能1时有概率获得再攻击效果
+intro,,

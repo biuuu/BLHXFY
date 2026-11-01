@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,伊卡洛斯,3040462000
+special,,火属性伤害(特大)/赋予自身业火刻印<span class=text-blue>◆对恐怖状态的敌人奥义性能UP</span>
+skill-1,,对敌方单体造成火属性伤害/火伤Lv上升1(最大10)/恐惧效果
+skill-2,,效果中必定三连击/赋予自身业火刻印/不计入回合发动普攻
+skill-3,,<div class=prt-text-small>自身获得火属性追击效果(90%)/回合中进行两次攻击行动/免疫弱体效果/免疫驱散/每回合HP减少<span class=text-blue>◆仅业火刻印为5时可使用</span></div>
+support-1,,<div class=prt-text-small>免疫弱体效果「恐惧」/根据业火刻印数量依次获得以下效果：攻击UP/防御UP/必定连击/伤害上升/普攻伤害UP</div>
+support-2,,战斗登场时：赋予自身5层业火刻印<span class=text-blue>◆再发动不可</span>
+skill-lb,LB技能,
+intro,,

@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,无限,3040267000
+special,无限全力攻击,<div class=prt-text-small>火属性伤害(特大)/技能2可即刻使用<br>灭尽状态中：火属性伤害(极大)/自身获得随机强化效果(永续/消去不可)</div>
+skill-1,钢体之护,自身获得援护效果(全体)/承伤减免50%
+skill-2,童子之歌,赋予我方全体随机强化效果(永续/消去不可)/奥义值20%UP
+skill-3,天衣之躯,回复自身HP(最大10000)
+support-1,缓慢的毁灭中,<div class=prt-text-small>回合结束时存在濒死状态的队友时，进入灭尽状态，回复全部HP和弱体效果<span class=text-blue>◆灭尽状态中，攻击性能大幅UP/敌对心UP/免疫弱体效果/无法使用技能</span></div>
+support-2,无我冲动,<div class=prt-text-small>灭尽状态中，每3回合根据自身状态做出行动/奥义值100%时，即便设置奥义温存依旧发动奥义</div>
+skill-lb,LB技能,受到致死伤害有极小概率以1HP继续战斗
+intro,,

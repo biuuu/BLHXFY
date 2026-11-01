@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,斑特,3040532000
+special,,风属性伤害(特大)/吸收1CT变化为风属性角色奥义值
+skill-1,,自身与后一位风属性角色可即刻发动奥义
+skill-2,,<div class=prt-text-small>敌方全体弱体耐性DOWN/土属性攻击DOWN/风属性防御DOWN/最大CT增加</div>
+skill-3,,<div class=prt-text-small>使敌方全体CT增加至最大并造成风属性伤害/风属性角色获得屏障效果/誇血盟约效果<span class=text-blue>◆根据增加CT的数量增加攻击次数(最大8次)/誇血盟约的效果时间延长</span></div>
+support-1,,<div class=prt-text-small>风属性角色吸收敌方CT时，自身获得1层骄傲之血(最大5)/根据骄傲之血层数获得以下效果(攻击UP/必定连击/奥义性能UP/奥义伤害特殊上限UP/高扬效果)</div>
+support-2,,<div class=prt-text-small>自身吸收敌方HP时，回合中对敌方造成1次风属性伤害/攻防DOWN(累积)</div>
+skill-lb,LB技能,
+intro,,

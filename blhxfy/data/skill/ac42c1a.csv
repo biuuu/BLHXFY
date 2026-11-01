@@ -1,0 +1,11 @@
+﻿id,name,detail
+npc,拉结尔,3040538000
+special,,<div class=prt-text-small>土属性伤害(特大)/土属性角色获得再生效果<span class=text-blue>◆红之刻印或黄之刻印达到10层时，造成土属性追加伤害/二者皆为10层时，发动2次土属性追加伤害</span></div>
+skill-1,,<div class=prt-text-small>对随机目标造成4次土属性攻击/敌方全体土属性防御DOWN(累积)/受伤加重(累积)/驱散1个强化效果<span class=text-blue>◆红之刻印10层时，在普攻后发动</span></div>
+skill-2,,<div class=prt-text-small>土属性角色获得神秘的加护效果<span class=text-blue>◆黄之刻印10层时，追加造成伤害上升效果</span></div>
+skill-3,,<div class=prt-text-small>土属性角色攻击UP/三连击率UP/土属性追击效果(1次)/乱击(3Hit)效果(1次)/不经过回合进行普攻<span class=text-blue>◆仅在红之刻印以及黄之刻印达到10层时可使用/再使用不可</span></div>
+support-1,,<div class=prt-text-small>战斗开始时，根据前排成员的伤害技能数量追加红之刻印(最大10)/土属性角色每使用3次伤害技能追加1红之刻印，技能1的cd缩短1回合<span class=text-blue>◆根据红之刻印数量攻击UP/10层时获得土属性追击效果/离开前排时红之刻印数量不重置</span></div>
+support-2,,<div class=prt-text-small>战斗开始时，根据前排成员的强化技能数量追加黄之刻印(最大10)/土属性角色每使用3次强化技能追加1黄之刻印，技能2的cd缩短1回合<span class=text-blue>◆根据黄之刻印数量三连击率UP/10层时普攻对随机目标造成3Hit/离开前排时黄之刻印数量不重置</span></div>
+support-3,,满足所有武器技能的得意武器条件
+skill-lb,LB技能,
+intro,,

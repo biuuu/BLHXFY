@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,莱茵哈萨,3040626000
+special,,<div class=prt-text-small>土属性伤害(极大)/技能1发动/下一回合中进行2次攻击行动<span class=text-blue>◆仅在奥义值200%且烈气解放至最大阶段时可发动</span></div>
+skill-1,,<div class=prt-text-small>对随机目标造成8次土属性伤害/敌方全体水属性攻击DOWN/土属性防御DOWN</div>
+skill-2,,<div class=prt-text-small>自身获得安夜的美酒效果中，弱体耐性UP/援护效果(全体)/受伤减轻/吸收效果/受伤时奥义值上升量UP/不死之身效果(3次)<span class=text-blue>◆安夜的美酒效果中，弱体耐性UP/援护效果(全体)/受伤减轻/吸收效果/受伤时奥义值上升量UP</span></div>
+skill-3,,<div class=prt-text-small>消耗50%奥义值解放烈气<span class=text-blue>◆烈气解放中，必定三连击/普攻造成伤害UP/伤害上限UP/此技能变化为「烈气解放·贰」</span></div>
+support-1,,<div class=prt-text-small>奥义值最大值为200/防御大幅UP/免疫驱散/根据烈气解放阶段受伤时进行全力反击(最大3次)</div>
+support-2,,<div class=prt-text-small>根据自身强化效果数量攻击UP/被回复上限UP<span class=text-blue>◆回合结束时若自身拥有15个以上强化效果且烈气解放至最大阶段，下一回合自身攻击大幅UP</span></div>
+skill-lb,LB技能,
+intro,,

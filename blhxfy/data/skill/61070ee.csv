@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,特蕾丝,3040433000
+special,,风属性伤害(特大)/自身的技能之一可即刻使用
+skill-1,,对敌方随机目标造成6~15次风属性伤害<span class=text-blue>◆「头奖」效果中，伤害次数必定在10以上</span>
+skill-2,,自身必定三连击/风属性追击效果<span class=text-blue>◆消耗自身最大HP的25%</span>
+skill-3,,自身回合内行动次数发生变化<span class=text-blue>◆「头奖」效果中，更容易增加行动次数</span>
+support-1,,仅一次，陷入无法战斗状态后，以1HP继续战斗/若回合结束时自身处于濒死状态，有几率获得「头奖」效果
+support-2,,自身HP越少，反击几率UP/回避率UP
+skill-lb,LB技能,
+intro,,

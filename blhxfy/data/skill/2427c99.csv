@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,欧根,3040684000
+special,,<div class=prt-text-small>风属性伤害(特大)/自身伤害技能可即刻使用/所有榴弹起爆，根据其数量对敌方全体造成风属性追加伤害(最大3次)/受伤加重(6次)</div>
+skill-1,,对敌方造成4次风属性伤害/攻击DOWN(累积)/驱散1个强化效果
+skill-2,,对敌方全体造成10次风属性伤害/缓速效果/弱体耐性DOWN
+skill-3,,<div class=prt-text-small>使敌人CT增加1/自身可即刻发动奥义/零式点火效果<span class=text-blue>◆效果中，风属性奥义追击效果/免疫弱体效果/回合结束时，自身获得反击效果(回避/4次)/可即刻发动奥义</span></div>
+support-1,,<div class=prt-text-small>普攻伤害较低，技能与奥义造成的伤害UP/奥义伤害特殊上限UP/回避率UP/无视敌方的回避与幻影效果命中敌人</div>
+support-2,,<div class=prt-text-small>未受到伤害的回合结束时，对敌方使用榴弹/技能3的cd缩短1回合<span class=text-blue>◆榴弹对被投掷的敌人设定/最多同时设定3榴弹/根据回合中使用技能的次数增加榴弹的可使用数量(最大3)</span></div>
+skill-lb,LB技能,
+intro,,

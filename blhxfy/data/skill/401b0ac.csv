@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,桑德莉咏,3040445000
+special,,暗属性伤害(特大)/技能2发动
+skill-1,,对敌方随机目标造成8次暗属性伤害/敌方全体防御DOWN(累积)
+skill-2,,对敌方全体造成暗属性伤害/驱散1种强化效果
+skill-3,,多给点吧！(交付10000金币，赋予奥义再发动效果(1次))
+support-1,,最大HP和防御力低，但奥义性能UP/战斗开始时奥义值100%UP
+support-2,,<div class=prt-text-small>敌人使用特殊技时，自身技能cd缩短1回合<span class=text-blue>◆若特殊技能为架势技，技能2可即刻使用</span></div>
+skill-lb,LB技能,
+intro,,

@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,巴萨拉卡,3040471000
+special,,水属性伤害(特大)/技能2可即刻使用
+skill-1,,对敌方全体造成水属性伤害/自身奥义值30%UP/回复HP
+skill-2,,自身获得援护效果(全体)/反击效果(受伤/3次)/即死回避效果
+skill-3,,自身获得重担效果<span class=text-blue>◆消耗100%奥义值/再使用不可</span>
+support-1,,奥义值积累缓慢但必定三连击/最大HPUP
+support-2,,<div class=prt-text-small>若攻击开始时处于非濒死状态，免疫弱体效果/免疫驱散/若回合结束时处于濒死状态，我方全体获得火属性受伤减轻效果</div>
+skill-lb,LB技能,我方全体获得火属性受伤减轻效果
+intro,,

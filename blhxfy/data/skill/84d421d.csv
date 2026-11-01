@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,娜维,3040550000
+special,,光属性伤害(特大)/技能1效果延长2回合
+skill-1,,<div class=prt-text-small>不进行普攻，但回合结束时光属性角色光属性攻击UP/奥义值20%UP/技能2发动</div>
+skill-2,,<div class=prt-text-small>对随机目标造成3次光属性伤害/敌方全体调律Lv上升1(最大10)/防御DOWN(累积)<span class=text-blue>◆根据敌方调律Lv攻击次数UP(最大8次)</span></div>
+skill-3,,<div class=prt-text-small>对随机目标造成14次光属性伤害/驱散1个强化效果/回复光属性角色HP<span class=text-blue>◆自身拥有15个以上强化效果时，攻击次数翻倍</span></div>
+support-1,,<div class=prt-text-small>光属性角色未发动攻击行动时，回合结束时对随机目标造成光属性伤害/技能3的预备回合与冷却回合缩短1回合<span class=text-blue>◆根据未发动攻击行动的光属性角色人数发动次数UP(最大4次)</span></div>
+support-2,,得意武器为「乐器」的光属性角色根据各自强化效果数量攻防UP
+skill-lb,LB技能,
+intro,,

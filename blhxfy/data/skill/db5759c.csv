@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,艾米莉亚,3040444000
+special,,土属性伤害(特大)/我方全体土属性攻击力UP/连击率UP
+skill-1,,<div class=prt-text-small>对敌方随机目标造成5次土属性伤害/土属性角色获得活性效果/净化1种弱体效果<br><span class=text-blue>◆强化时：攻击次数翻倍/追加格挡效果</span></div>
+skill-2,,<div class=prt-text-small>土属性角色暴击率UP/会心效果<br><span class=text-blue>◆强化时：追加水属性伤害减轻效果</span></div>
+skill-3,,<div class=prt-text-small>单体土属性角色技能cd缩短1回合/回合中进行2次攻击行动<br><span class=text-blue>◆强化时：追加必定三连击效果</span></div>
+support-1,,<div class=prt-text-small>仅一次，无法战斗时以1HP继续战斗/自身拥有12种以上强化效果时，技能得到强化</div>
+support-2,,敌人使用特殊技能时，自身技能cd缩短1回合/发动技能1
+skill-lb,LB技能,
+intro,,

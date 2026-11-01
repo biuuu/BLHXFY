@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,凯撒,3040632000
+special,,<div class=prt-text-small>光属性伤害(特大)/回复自身HP/辉白破刃效果/技能3的cd缩短1回合<span class=text-blue>◆回合结束时若有3个以上强化效果的敌人在场，则消耗辉白破刃发动技能1</span></div>
+skill-1,,<div class=prt-text-small>对敌方全体造成8次光属性伤害/暗属性攻击DOWN/光属性防御DOWN/驱散3个强化效果</div>
+skill-2,,<div class=prt-text-small>光属性角色造成伤害上升(累积)/回复HP/回复1个弱体效果/自身奥义值20%UP</div>
+skill-3,,自身获得援护效果(全体)/受伤减轻效果
+support-1,,<div class=prt-text-small>援护自身以外HP最低的角色/回合结束时根据自身以外未受到伤害的人数获得忠诚之剑层数(最大6)<span class=text-blue>◆普攻前消耗3层忠诚之剑，下一次普攻自身暴击率UP/会心效果/乱击效果(3Hit)/光属性追击效果</span></div>
+support-2,,<div class=prt-text-small>必定连击/免疫弱体效果/受到敌方的暗属性伤害最大值固定为5000/敌方使用特殊技时发动技能2</div>
+skill-lb,LB技能,
+intro,,

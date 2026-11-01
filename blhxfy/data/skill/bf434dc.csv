@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,哈伊拉,3040672000
+special,,<div class=prt-text-small>光属性伤害(极大)/自身获得辰神海游效果/回避敌方所有攻击(1次)<span class=text-blue>◆辰神海游效果中，攻击UP/光属性追击效果/2次受伤解除</span></div>
+skill-1,,<div class=prt-text-small>光属性角色三连击率UP/普攻造成伤害UP/自身回合中进行2次攻击行动<span class=text-blue>◆2次发动追加光属性角色获得光属性追击效果</span></div>
+skill-2,,<div class=prt-text-small>光属性角色的强化效果延长1回合/弱体耐性UP/免疫驱散效果(1次)<span class=text-blue>◆效果时间为1回合的强化效果除外</span></div>
+skill-3,,<div class=prt-text-small>对敌方全体造成10次光属性伤害/感电Lv上升2(最大10)/攻防大幅DOWN/受伤加重<span class=text-blue>◆再使用不可</span></div>
+support-1,,<div class=prt-text-small>普攻不积累奥义值但受伤减轻/回合中在进行第2次以后的攻击行动时攻击大幅UP/战斗开始时自身获得辰神海游效果/回避敌方所有攻击(1次)</div>
+support-2,,<div class=prt-text-small>自身以外的光属性角色发动三连击时，哈伊拉的奥义值10%UP/获得1层海色甘露(最大12)/若回合结束时海色甘露达到12层，全部消耗使技能1可即刻使用</div>
+skill-lb,LB技能,
+intro,,

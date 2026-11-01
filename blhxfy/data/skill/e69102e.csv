@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,伊尔莎,3040148000
+special,爆破抹杀,土属性伤害（特大）/装弹/效果中必定三连击
+skill-1,神圣地狱,<div class=prt-text-small>根据敌人现在的HP造成无属性伤害/赋予恐怖效果 <span class=text-blue>◆消费2个子弹</span></div>
+skill-2,赞美诗,<div class=prt-text-small>对敌人造成3次土属性伤害/赋予其防御DOWN<br><span class=text-blue>◆消耗1个子弹</span></div>
+skill-3,耳畔尖鸣,<div class=prt-text-small>消费所有子弹对敌人造成土属性伤害 <br><span class=text-blue>◆根据消费的子弹数增加伤害次数/提高奥义值</span></div>
+support-1,第九颗子弹,<div class=prt-text-small>普攻时消费子弹获得攻击UP（累积）<br><span class=text-blue>◆战斗开始时自身获得9个子弹(最大9)</span></div>
+support-2,调停之铳尼巴斯,<div class=prt-text-small>自身拥有子弹时伤害UP/子弹剩余数0时无法普攻并获得9个子弹</div>
+skill-lb,LB技能,自身普通攻击时概率获得攻击全体化/暴击率UP
+intro,严格的鬼教官,为了传授在战场上生存的方法，她把心变成了鬼。辛辣的语言背后隐藏着战士的觉悟和教官的决心。为了完成被憎恨和恐惧的使命，她今天也发出了怒吼。

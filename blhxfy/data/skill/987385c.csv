@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,英格威,3040342000
+special,,风属性伤害(特大)/效果中必定三连击
+skill-1,,进入「全金属模式」/不死身效果(1次)
+skill-2,,对敌方全体造成风属性伤害/回复自身HP
+skill-3,,敌方单体攻击DOWN/盲暗效果/命中率DOWN
+support-1,,<div class=prt-text-small>「全金属模式」中，防御6倍UP/弱体耐性UP/援护效果(劝退)/普攻伤害UP/反击效果(承伤/5次)/无法发动奥义</div>
+support-2,,若回合结束时HP在50%一下，则发动技能2
+skill-lb,LB技能,「全金属模式」中有几率全力反击
+intro,,

@@ -1,0 +1,8 @@
+﻿id,name,detail
+npc,伽莱翁,3040405000
+special,大地脉动,土属性伤害(特大)/自身技能cd缩短3回合
+skill-1,祝福之吻,<div class=prt-text-small>对自身以外的单体土属性角色赋予「岩迫祝福」效果<span class=text-blue>◆若对象已处于该效果中，则回复HP/净化所有弱体效果</span></div>
+skill-2,降砂岩,<div class=prt-text-small>根据敌方HP对敌方随机目标造成6次无属性伤害/驱散敌方全体1种强化效果/缓速效果<span class=text-blue>◆『金』之楔石效果中每4回合发动1次</span></div>
+skill-3,『金』之楔石,自身获得『金』之楔石效果<span class=text-blue>◆再使用不可</span>
+support-1,大地之母的仁爱,<div class=prt-text-small>回合结束时，该回合未进行攻击的角色攻击大幅UP(1次)/奥义值20%UP</div>
+support-2,理外之『金』,Fatal Chain发动时，回复土属性角色HP/弱体效果缩短2回合

@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,哪吒,3040455000
+special,火演枪,火/风属性伤害(特大)/自身技能cd与预备回合数缩短3回合
+skill-1,炎闪岚枪,对敌人造成火·风属性伤害/自身奥义值上升30%
+skill-2,,对敌方全体造成火属性伤害/火属性防御DOWN/赋予2个随机弱体效果
+skill-3,,<div class=prt-text-small>对随机目标造成20次火·风属性伤害/自身获得九龙神火罩效果<br><span class=text-blue>◆再使用不可</span></div>
+support-1,武神的剑舞,普攻时奥义值不上升，但普攻后发动技能1
+support-2,复兴失传的传统,<div class=prt-text-small>根据队伍中「星晶兽」种族的数量依次获得以下效果(无视敌方风属性耐性/攻击UP/必定三连击/技能性能UP/技能造成伤害上升)</div>
+skill-lb,LB技能,技能造成伤害上升
+intro,演舞的武神,

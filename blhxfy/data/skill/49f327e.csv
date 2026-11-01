@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,佐伊,3040564000
+special,,<div class=prt-text-small>光属性伤害(特大)/6次光属性追加伤害/光属性角色奥义值上升量UP</div>
+skill-1,,<div class=prt-text-small>光属性角色防御UP/格挡效果/免疫驱散<span class=text-blue>◆前排成员剩余HP比例在30%以下时，追加受伤减轻效果</span></div>
+skill-2,,光属性角色HP平均化/回复HP/回复1个弱体效果
+skill-3,,<div class=prt-text-small>自身获得静默祈愿效果<span class=text-blue>◆静默祈愿效果中，自身奥义性能UP/奥义造成伤害上升/奥义发动时造成光属性追加伤害/第2次发动时对象变化为光属性角色</span></div>
+support-1,,<div class=prt-text-small>受到光属性角色的回复或强化技能时，自身强化技能cd缩短1回合<span class=text-blue>◆受到「星晶兽」种族角色的回复或强化技能时，技能2的cd缩短1回合/3次后自身获得奥义再发动效果(1次)</span></div>
+support-2,,<div class=prt-text-small>回合结束时前排成员剩余HP比例在30%以下时，光属性角色光属性攻击UP(累积)/造成伤害上升(累积)/奥义值20%UP</div>
+skill-lb,LB技能,
+intro,,

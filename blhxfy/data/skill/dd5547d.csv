@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,维恩,3040551000
+special,,<div class=prt-text-small>风属性伤害(特大)/自身获得风属性追击效果<span class=text-blue>◆不屈效果中，变化为风属性伤害(极大)</span></div>
+skill-1,,<div class=prt-text-small>对敌方全体造成风属性伤害/防御DOWN/援护效果(全体)<span class=text-blue>◆不屈效果中，该技能变为：对敌方造成2次风属性伤害/攻防DOWN/自身受伤减轻/援护效果(全体)/不死之身效果(1次)</span></div>
+skill-2,,<div class=prt-text-small>对敌方造成风属性伤害/驱散1个强化效果/自身必定三连击<span class=text-blue>◆不屈效果中，追加回复自身HP</span></div>
+skill-3,,<div class=prt-text-small>回复自身全部HP与弱体效果/不屈效果<span class=text-blue>◆仅在誓守Lv3时能够发动/再使用不可</span></div>
+support-1,,<div class=prt-text-small>战斗开始时若处于前排，消耗最大HP的30%获得不死之身效果(3次)/自身以外风属性角色获得屏障效果(10000)/自身承受致死伤害时，誓守Lv上升1(最大3)<span class=text-blue>◆根据誓守Lv依次获得以下效果(受伤反击(2次)/回合结束时发动技能2/回复性能UP)</span></div>
+support-2,,<div class=prt-text-small>容易成为敌方目标但最大HPUP/自身剩余HP越少造成伤害UP<span class=text-blue>◆不屈效果中，造成伤害UP效果与剩余HP无关始终处于最大效果</span></div>
+skill-lb,LB技能,
+intro,,

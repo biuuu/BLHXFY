@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,拉莫拉克,3040615000
+special,,风属性伤害(特大)/风属性角色获得幻影效果(1次)/技能1发动
+skill-1,,<div class=prt-text-small>对敌方造成5倍风属性伤害/敌方全体攻防DOWN(累积)/风属性角色获得狂风刻印</div>
+skill-2,,<div class=prt-text-small>自身获得绿之风杖效果<span class=text-blue>◆效果中，风属性角色攻防UP/连击率UP/造成伤害上升/回合结束时弱体效果缩短2回合/自身消耗1层狂风刻印/再使用或狂风刻印为0时解除</span></div>
+skill-3,,<div class=prt-text-small>自身前一位与后一位风属性角色获得风属性追击效果/乱击(3Hit)效果/不经过回合进行普攻</div>
+support-1,,<div class=prt-text-small>风属性角色三连击时，自身暗助绿炎Lv上升1(最大3)<span class=text-blue>◆暗助绿炎Lv达到3时，重置Lv并发动技能1</span></div>
+support-2,,<div class=prt-text-small>被风属性角色赋予狂风刻印时，技能3的预备回合与冷却回合缩短1回合/回避率UP(累积)</div>
+skill-lb,LB技能,
+intro,,
