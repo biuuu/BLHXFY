@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,卡西乌斯,3040604000
+special,,风属性伤害(特大)/自身技能cd缩短2回合
+skill-1,,<div class=prt-text-small>对敌方造成3次风属性伤害/攻防DOWN(累积)/自身获得风属性追击效果<span class=text-blue>◆2次发动自身获得乱击(2Hit)效果/3次发动追加造成伤害上升效果</span></div>
+skill-2,,<div class=prt-text-small>对随机目标造成8次风属性伤害/驱散敌方全体1个强化效果/回复风属性角色HP/回复1个弱体效果</div>
+skill-3,,<div class=prt-text-small>对敌方全体造成10倍风属性伤害/自身获得同化效果/其他技能可即刻使用<span class=text-blue>◆仅在度假之艺Lv5时可使用/效果中，回合中进行2次攻击行动/普攻时发动技能2</span></div>
+support-1,,<div class=prt-text-small>普攻不积累奥义值但必定三连击/普攻时技能cd缩短1回合/自身度假之艺Lv上升1(最大5)<span class=text-blue>◆根据度假之艺Lv依次获得以下效果(攻击UP/防御UP/技能伤害上限UP/回复性能UP/技能cd缩短1回合)</span></div>
+support-2,,敌方使用特殊技时，技能2发动
+skill-lb,LB技能,
+intro,,

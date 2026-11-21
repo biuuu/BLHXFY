@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,玛琪拉,3040584000
+special,,<div class=prt-text-small>风属性伤害(特大)/技能1的cd缩短3回合/为鼓传翼效果中的角色获得乱击(2Hit)效果(1次)</div>
+skill-1,,<div class=prt-text-small>自身的后一位风属性角色获得为鼓传翼效果/免疫驱散(1次)<span class=text-blue>◆若对象已处于为鼓传翼效果，则追加攻击大幅UP效果(1次)</span></div>
+skill-2,,<div class=prt-text-small>对敌方造成4次风属性伤害/连击率DOWN(累积)<span class=text-blue>◆3次发动追加敌方受伤加重效果</span></div>
+skill-3,,<div class=prt-text-small>风属性角色获得强壮效果/奥义值30%UP/免疫弱体效果(1次)<span class=text-blue>◆为鼓传翼效果中的角色追加普攻造成伤害UP效果</span></div>
+support-1,,<div class=prt-text-small>为鼓传翼效果中的角色普攻时，技能2发动/回合结束时若为鼓传翼效果中的角色处于濒死状态，则回复HP/回复1个弱体效果</div>
+support-2,,战斗时登场的风属性角色获得为鼓传翼效果
+skill-lb,LB技能,
+intro,,

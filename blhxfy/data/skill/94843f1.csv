@@ -1,0 +1,8 @@
+﻿id,name,detail
+npc,赫莱尔·本·夏蕾姆,3040497000
+special,混沌之光,<div class=prt-text-small>土属性伤害(特大)/古代拘束减少1层/技能cd缩短1回合<span class=text-blue>◆消耗宵之鸣动效果：变为土属性伤害(极大)</span></div>
+skill-1,蔽目之影,敌方全体攻防DOWN(累积/不可消去)/赋予随机弱体效果
+skill-2,赐礼军团,对敌方单体造成9倍土属性伤害/驱散1个强化效果
+skill-3,朗格兰领域,<div class=prt-text-small>展开郎格兰领域◆效果中，反射99%承伤/不发动普攻，敌对心大幅UP/弱体耐性大幅UP/发动奥义时，同时发动技能2</span></div>
+support-1,记忆中的节日,<div class=prt-text-small>战斗开始时，自身附加古代拘束2层<span class=text-blue>◆无古代拘束时，必定连击/弱体技能与奥义发动2次</span></div>
+support-2,预言者的轰响,自身未发动攻击的回合，回合结束时获得奥义即刻发动效果/宵之鸣动效果

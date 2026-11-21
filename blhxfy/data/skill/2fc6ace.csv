@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,美黛拉,3040347000
+special,,<div class=prt-text-small>土属性伤害(特大)/技能3的cd缩短2回合<span class=text-blue>◆根据空灵印层数造成土属性追加伤害(最大5次)</span></div>
+skill-1,,<div class=prt-text-small>对敌方造成5次土属性伤害/自身获得空灵印(5层)<span class=text-blue>◆使用时根据空灵印层数赋予敌方随机弱体效果</span></div>
+skill-2,,<div class=prt-text-small>对敌方造成土属性伤害/缓速效果<span class=text-blue>◆敌方弱体效果数量在10以上时，发动2次</span></div>
+skill-3,,<div class=prt-text-small>对敌方造成土属性伤害/自身可即刻发动奥义/自身其他技能可即刻使用</div>
+support-1,,普攻后消耗1层空灵印对敌方全体造成4次土属性伤害/攻防DOWN(累积)
+support-2,,土属性角色的技能造成伤害上升
+skill-lb,LB技能,根据敌方弱体效果数量三连击率UP
+intro,,

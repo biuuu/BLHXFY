@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,古茵,3040670000
+special,,<div class=prt-text-small>风属性伤害(特大)/自身获得10个夏祭之弹/技能3的cd缩短1回合</div>
+skill-1,,对敌方造成3次风属性伤害/攻防DOWN/自身三连击率UP(累积)
+skill-2,,<div class=prt-text-small>消耗1层紫藤花的回忆对敌方全体造成风属性伤害/自身获得风属性追击效果(1次)/不经过回合进行普攻</div>
+skill-3,,<div class=prt-text-small>自身攻击大幅UP<span class=text-blue>◆2次发动使效果时间延长/自身获得一层紫藤花的回忆(最大3)</span></div>
+support-1,,<div class=prt-text-small>普攻前消耗5个夏祭之弹下一次普攻时必定三连击/普攻造成伤害UP/下一次普攻时发动技能1/技能3的cd缩短1回合<span class=text-blue>◆战斗开始时拥有3层紫藤花的回忆/拥有10个夏祭之弹/风属性角色发动三连击时，获得1个夏祭之弹</span></div>
+support-2,,得意武器「剑」「铳」的风属性角色伤害上限UP/技能性能UP
+skill-lb,LB技能,
+intro,,

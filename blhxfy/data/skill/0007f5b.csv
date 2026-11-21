@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,瓦姬拉,3040617000
+special,,光属性伤害(极大)/自身回避敌方所有攻击(1次)
+skill-1,,<div class=prt-text-small>对敌方全体造成5次光属性伤害/驱散1个强化效果/攻防DOWN(累积)/自身奥义值10%UP</div>
+skill-2,,<div class=prt-text-small>自身获得犬神战舞效果<span class=text-blue>◆效果中，回合中进行2次攻击行动/光属性追击效果/普攻时发动技能1</span></div>
+skill-3,,<div class=prt-text-small>光属性角色在回合中的攻击行动次数增加1/造成伤害上升/回避率UP/自身其他技能可即刻使用<span class=text-blue>◆仅在宵宴糖菓5层时可使用</span></div>
+support-1,,<div class=prt-text-small>普攻不积累奥义值但必定三连击/每次普攻对随机目标造成2Hit</div>
+support-2,,<div class=prt-text-small>光属性角色每发动3次三连击，对敌方全体造成光属性伤害/自身获得1层宵宴糖菓(最大5)<span class=text-blue>◆根据宵宴糖菓层数依次获得以下效果(攻击UP/防御UP/普攻造成伤害上升/免疫弱体效果/免疫驱散)</span></div>
+skill-lb,LB技能,
+intro,,

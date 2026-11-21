@@ -1,0 +1,11 @@
+﻿id,name,detail
+npc,欧罗罗伽亚,3040536000
+special,,<div class=prt-text-small>暗属性伤害(特大)/我方全体的神秘之金效果延长1回合<span class=text-blue>◆因果干涉Lv为4时，奥义性能UP</span></div>
+skill-1,,<div class=prt-text-small>暗属性角色获得神秘之金效果/免疫弱体效果(1次)<span class=text-blue>◆神秘之金效果中，根据欧罗罗伽亚的因果干涉Lv攻击性能UP</span></div>
+skill-2,,<div class=prt-text-small>对敌方造成8倍暗属性伤害/攻击DOWN(累积)/驱散一个强化效果</div>
+skill-3,,<div class=prt-text-small>暗属性角色的技能cd缩短1回合/攻防UP(累积)<span class=text-blue>◆因果干涉Lv为4时，此技能变为「ヴィンケレ・カルクルス」</span></div>
+support-1,,<div class=prt-text-small>使用强化技能时自身因果干涉Lv上升1(最大4)<span class=text-blue>◆根据因果干涉Lv依次获得以下效果(攻击UP/必定三连击/三连击时获得暗属性追击效果/回避率UP)/因果干涉Lv在离开战斗队伍时不会重置</span></div>
+support-2,,<div class=prt-text-small>因果干涉Lv到达4时，「ヴィンケレ・カルクルス」可即刻使用/因果干涉Lv为4时，每5回合发动技能3</div>
+support-3,,最大HP与弱体耐性较低但回合结束时若存在濒死状态的队友，仅一次，暗属性角色HP回复为最大值，净化所有弱体效果/防御UP/神秘之金效果中，主人公普攻时欧罗罗伽亚发动技能2
+skill-lb,LB技能,
+intro,,

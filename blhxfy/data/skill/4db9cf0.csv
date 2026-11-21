@@ -1,0 +1,15 @@
+﻿id,name,detail
+npc,尤格多拉希尔,3040125000
+special,世界轴,土属性伤害(特大)/奥义值UP(20%)
+special-創世のルミノックス,创世之辉,土属性伤害(特大)/奥义值UP(20%)/HP回复/赋予自己荒土的刻印
+skill-1,小小的花儿・诺恩,<div class=prt-text-small>赋予我方全体攻击UP(中)/防御UP(中)/奥义值上升量UP<span class=text-blue>　◆消耗10%奥义值</span></div>
+skill-1++,小小的花儿・诺恩,<div class=prt-text-small>赋予我方全体特殊强化（攻防UP）/奥义值上升量UP/荒土的刻印</div>
+skill-2,金字形神塔,<div class=prt-text-small>土属性角色的暴击概率UP/给予自己以外的角色屏障效果<span class=text-blue>　◆消耗20%奥义值</span></div>
+skill-2++,金字形神塔,<div class=prt-text-small>土属性角色的暴击概率UP/给予自己以外的角色屏障效果<span class=text-blue>　◆消耗20%奥义值/荒土的刻印3层以上时变化为Eunir</span></div>
+skill-エ・ウ・ニル,Eunir,土属性角色的暴击概率UP/给予自己以外的角色屏障效果/赋予自己创树的大器效果
+skill-3,酸樱的恩赐,回复我方全体HP/再生效果/净化1个弱体效果
+support-1,慈爱的大树,虽然会更容易被敌人当成目标但受伤时的奥义值上升量UP
+support-2,永恒不变的灵魂,对水属性敌人的伤害UP
+support-2+,永恒不变的灵魂,<div class=prt-text-small>土属性角色对水属性的敌人造成的伤害UP/根据各自的荒土刻印的层数获得回复性能UP <span class=text-blue>　◆回复性能UP效果在自己在后排时也有效</span></div>
+skill-lb,LB技能,我方全体的被回复上限UP
+intro,创树的守人,注视着万象的安静的见证者，现在追求起了不可思议的旅行。她仔细观察着各处，积累了许多知识，记忆着历史的真实。但是她不叙述正史，只将记忆藏于心中，又是为什么呢……

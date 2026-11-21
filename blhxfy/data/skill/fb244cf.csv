@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,瓦尔弗利德,3040641000
+special,,<div class=prt-text-small>风属性伤害(特大)/根据得意武器「剑」的队友数量造成风属性追加伤害(最大4次)</div>
+skill-1,,<div class=prt-text-small>对敌方造成2次风属性伤害/受伤加重/驱散1个强化效果<span class=text-blue>◆强化时：攻击次数翻倍</span></div>
+skill-2,,<div class=prt-text-small>自身获得乱击(3Hit)效果(1次)/不经过回合进行普攻<span class=text-blue>◆强化时：追加自身攻击大幅UP(1次)效果</span></div>
+skill-3,,<div class=prt-text-small>风属性角色获得突击战术效果<span class=text-blue>◆效果中三连击率UP/暴击率UP/受伤减轻/免疫驱散/根据得意武器「剑」的前排队友数量延长效果时间</span></div>
+support-1,,<div class=prt-text-small>突击战术效果中，自身普攻时对敌方造成风属性伤害/自身伤害技能强化/回合结束时自身技能可即刻使用</div>
+support-2,,<div class=prt-text-small>得意武器「剑」的风属性角色普攻造成伤害上升/发动三连击时获得风属性追击效果</div>
+skill-lb,LB技能,
+intro,,

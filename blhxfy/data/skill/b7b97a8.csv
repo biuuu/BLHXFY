@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,希尔薇娅,3040613000
+special,,<div class=prt-text-small>水属性伤害(特大)/驱散1个强化效果/技能2可即刻使用</div>
+skill-1,,<div class=prt-text-small>对敌方造成9倍水属性伤害/攻防DOWN(累积)/赋予2个随机弱体效果</div>
+skill-2,,水属性角色奥义值20%UP/回复HP/弱体效果缩短2回合
+skill-3,,<div class=prt-text-small>自身奥义值200%UP/受伤无效化(2次)/回合中进行2次攻击行动<span class=text-blue>◆断罪Lv5时，其他技能可即刻使用/追加技能再使用效果</span></div>
+support-1,,<div class=prt-text-small>奥义最大值200/回合中发动2次以上奥义的水属性角色的所有攻击行动后发动技能1/自身奥义值20%UP</div>
+support-2,,<div class=prt-text-small>水属性奥义连锁在5连以上时，自身断罪Lv上升1(最大5)/技能3的cd缩短1回合<span class=text-blue>◆根据断罪Lv，水属性角色攻防UP/奥义性能UP/奥义伤害特殊上限UP/奥义造成伤害上升</span></div>
+skill-lb,LB技能,
+intro,,

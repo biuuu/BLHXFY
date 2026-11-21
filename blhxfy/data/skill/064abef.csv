@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,淑库拉,3040589000
+special,,水属性伤害(特大)/自身技能cd缩短1回合
+skill-1,,<div class=prt-text-small>对随机目标造成6次水属性伤害/敌方全体水属性防御DOWN(累积)/剧毒Lv上升1(最大10)<span class=text-blue>◆圣仙Lv5时，发动2次</span></div>
+skill-2,,<div class=prt-text-small>使敌方命中率DOWN/赋予2个随机弱体效果<span class=text-blue>◆圣仙Lv5时，赋予弱体效果数量增加2</span></div>
+skill-3,,<div class=prt-text-small>消耗30%奥义值，自身普攻造成伤害UP/效果中必定三连击/回避率大幅UP<span class=text-blue>◆圣仙Lv5时，自身获得再攻击效果</span></div>
+support-1,,<div class=prt-text-small>必定连击/每次普攻对随机目标造成2Hit/回合结束时若敌人拥有12个以上弱体效果/自身获得水属性追击效果(1次)</div>
+support-2,,<div class=prt-text-small>未受到伤害的回合结束时自身圣仙Lv上升1(最大5)/圣仙Lv5时，技能3可即刻使用<span class=text-blue>◆根据圣仙Lv依次获得以下效果(攻击UP/暴击率UP/造成伤害上升/每次普攻对随机目标造成3Hit/未受到伤害的回合结束时发动技能1)</span></div>
+skill-lb,LB技能,
+intro,,

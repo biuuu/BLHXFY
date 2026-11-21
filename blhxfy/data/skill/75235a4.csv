@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,拉姆丽妲,3040319000
+special,,土属性伤害(特大)/自身获得土属性追击效果(1次)
+skill-1,,对敌方单体造成6次土属性伤害/攻防DOWN(累积)<span class=text-blue>◆消耗1酒仙Lv</span>
+skill-2,,援护效果/反击效果(回避·承伤/5次)/普攻伤害UP<span class=text-blue>◆消耗1酒仙Lv</span>
+skill-3,,回复我方全体HP/净化1种弱体效果<span class=text-blue>◆消耗1酒仙Lv</span>
+support-1,,<div class=prt-text-small>每4回合回复全部酒仙Lv，解除烂醉状态(战斗开始时酒仙Lv为6/最大6)/反击效果中自身必定三连击</div>
+support-2,,<div class=prt-text-small>回合结束时消耗1酒仙Lv/酒仙Lv为0时，进入烂醉状态<span class=text-blue>◆烂醉状态中，防御DOWN/无法攻击/无法使用技能/回合结束时用酒瓶殴打敌人造成土属性伤害</span></div>
+skill-lb,LB技能,普攻有几率使酒仙Lv上升1
+intro,,

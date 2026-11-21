@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,斯卡哈,3040260000
+special,,火属性伤害(特大)/我方全体获得逆境效果/技能3可即刻使用
+skill-1,,<div class=prt-text-small>我方全体获得各自最大HP25%的屏障效果(最大5000)<br><span class=text-blue>◆我方全体消耗HP最大值的25%</span></div>
+skill-2,,<div class=prt-text-small>我方全体火属性攻击UP(积累)/回复1个弱体效果/回复HP<br><span class=text-blue>◆根据甘露数量性能UP</span></div>
+skill-3,,<div class=prt-text-small>根据甘露数量对敌方造成最大24倍火属性伤害/消去1个强化效果</div>
+support-1,,<div class=prt-text-small>自身受击时追加1甘露(最大5)/自身濒死状态的回合结束时回复火属性角色全部HP(仅1次)</div>
+support-2,,<div class=prt-text-small>敌方发动特殊技能时，消耗2甘露发动技能2/拥有屏障的我方角色获得火属性追击效果/风属性伤害减轻效果</div>
+skill-lb,LB技能,回复性能UP
+intro,仁爱真龙,

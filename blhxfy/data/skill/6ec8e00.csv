@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,莉露露,3040383000
+special,你和我的奇迹演唱会,火属性伤害(特大)/魅惑效果/我方全体减免20%风属性伤害
+skill-1,梦色☆奇迹,<div class=prt-text-small>我方全体激奏UP/奥义值UP<span class=text-blue>◆根据自身激奏层数，奥义值UP性能UP</span></div>
+skill-2,发现这颗小星星,<div class=prt-text-small>火属性角色获得屏障效果/免疫驱散(1次)<span class=text-blue>◆根据自身激奏层数，屏障性能UP</span></div>
+skill-3,打动你的心,回复我方全体HP/净化1种弱体效果
+support-1,跨越时空的偶像,<div class=prt-text-small>回合结束时，根据自身激奏层数，奥义值UP(5%/最大20%)<span class=text-blue>◆激奏层数为4时，发动技能3</span></div>
+support-2,偶像梦,我方全体根据各自激奏层数，奥义性能UP
+skill-lb,LB技能,普攻时有几率激奏层数UP
+intro,跨越时空的偶像,

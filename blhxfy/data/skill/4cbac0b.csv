@@ -1,0 +1,11 @@
+id,name,detail
+npc,可露瓦,3040081000
+special,白色丝线,强化·延长可露瓦赋予我方全体的技能效果 <span class=text-blue>◆消耗全部丝线</span>
+skill-1,黑与白,我方全体特殊强化(攻击20%UP/弱化效果成功率5%UP)<span class=text-blue>◆消耗2丝线</span>
+skill-2,盛装,我方全体特殊强化(连击率UP)<span class=text-blue>◆消耗5丝线</span>
+skill-2+,盛装,我方全体特殊强化(连击率UP)<span class=text-blue>◆消耗4丝线</span>
+skill-3,冰丝,我方单体特殊强化(防御50%UP/再生效果)<span class=text-blue>◆消耗3丝线</span>
+support-1,纺线,每回合回复2丝线(最大10)
+support-2,职业精神,受伤时回复2丝线
+skill-lb,LB技能,减轻我方全体受到的土属性伤害
+intro,,

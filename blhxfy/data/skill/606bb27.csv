@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,涅槃,3040511000
+special,,<div class=prt-text-small>回复火属性角色HP/自身技能cd缩短3回合</div>
+skill-1,,<div class=prt-text-small>自身以外单体火属性角色获得甘味养荣效果<span class=text-blue>◆消耗自身最大HP的25%</span></div>
+skill-2,,<div class=prt-text-small>自身以外单体火属性角色获得益气滋补效果/可即刻发动奥义<span class=text-blue>◆</span>消耗自身最大HP的30%</div>
+skill-3,,<div class=prt-text-small>火属性角色获得屏障效果/弱体耐性大幅UP/免疫驱散强化效果<span class=text-blue>◆消耗自身最大HP的25%</span></div>
+support-1,,<div class=prt-text-small>防御力低但回避率高/未受伤的回合结束时，对敌方造成6次火属性伤害</div>
+support-2,,<div class=prt-text-small>甘味养荣效果中的角色获得反击(受击/2次)/甘味养荣效果中的角色发动奥义时，涅槃的奥义值20%UP/受伤减轻</div>
+skill-lb,LB技能,
+intro,,

@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,萝赛塔,3040301000
+special,,<div class=prt-text-small>水属性伤害(特大)/回复全部青之花瓣/技能2的cd缩短1回合</div>
+skill-1,,<div class=prt-text-small>回复自身所有弱体效果/展开青蔷薇的结界<span class=text-blue>◆每回合消耗青之花瓣/回合结束时无青之花瓣则解除(最大3回合)</span></div>
+skill-2,,<div class=prt-text-small>敌方攻防DOWN/赋予幽艳花蕾效果<span class=text-blue>◆敌方使用特殊技时花蕾绽放，赋予敌方全体顺从效果/驱散1个强化效果/回复我方全体HP</span></div>
+skill-3,,<div class=prt-text-small>对随机目标造成8次水属性伤害/我方全体获得屏障效果/免疫弱体效果(1次)</div>
+support-1,,<div class=prt-text-small>受伤时，在回合结束时对随机目标造成水属性伤害/自身奥义值上升10%<span class=text-blue>◆根据受伤次数攻击次数UP/性能强化(最大5次)/回合结束时自身HP小于50%时，仅一次，回复全部HP以及弱体效果，回复全部青之花瓣/技能1可即刻使用</span></div>
+support-2,,<div class=prt-text-small>根据经过回合数自身攻击UP/连击率UP/暴击率UP<span class=text-blue>◆战斗开始时获得3层青之花瓣(最大5)</span></div>
+skill-lb,LB技能,我方全体火属性受伤减轻
+intro,,

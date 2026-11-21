@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,仁,3040257000
+special,,土属性伤害(特大)/自身获得高扬效果<span class=text-blue>◆根据尚武Lv奥义性能UP</span>
+skill-1,,自身可即刻发动奥义
+skill-2,,对敌方单体造成土属性伤害/自身获得残心效果<span class=text-blue>◆尚武Lv在2以上时，驱散1种强化效果</span>
+skill-3,,<div class=prt-text-small>自身其他技能可即刻使用<span class=text-blue>◆消耗全部奥义值，根据消耗的奥义值缩短此技能cd</span></div>
+support-1,,<div class=prt-text-small>残心效果中，敌人使用特殊技能时，对敌方单体造成土属性伤害/自身尚武Lv上升1(最大5)<span class=text-blue>◆尚武Lv为5时，奥义值上升量50%UP</span></div>
+support-2,,受到大伤害时，尚武Lv上升1
+skill-lb,LB技能,使用奥义时有尚武Lv有几率上升
+intro,,

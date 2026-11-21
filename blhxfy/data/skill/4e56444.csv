@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,莉琪,3040603000
+special,,土属性伤害(特大)/土属性角色攻击UP(累积)/奥义性能UP(累积)
+skill-1,,<div class=prt-text-small>对敌方全体造成6次土属性伤害/攻防DOWN(累积)/土属性角色获得死之祝福效果</div>
+skill-2,,<div class=prt-text-small>对敌方全体造成土属性伤害/敌我全体水属性攻击DOWN/土属性防御DOWN/腐败效果/灼热效果</div>
+skill-3,,<div class=prt-text-small>土属性角色获得不死王的羡望效果<span class=text-blue>◆效果中奥义值上升量UP/将受到的伤害转化为水属性/水属性受伤减轻</span></div>
+support-1,,<div class=prt-text-small>土属性奥义连锁发动时，对敌方全体造成土属性伤害/驱散1个强化效果/自身技能cd缩短1回合<span class=text-blue>◆土属性奥义连锁4连及以上发动时，效果发动2次</span></div>
+support-2,,<div class=prt-text-small>回合结束时若我方附有弱体效果，对敌方全体造成土属性伤害/土属性角色奥义值20%UP<span class=text-blue>◆根据弱体效果数量共计次数UP(最大10次)</span></div>
+skill-lb,LB技能,
+intro,,

@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,伊德,3040683000
+special,,<div class=prt-text-small>暗属性伤害(特大)/自身攻击大幅UP/追加2层异能槽(最大4)</div>
+skill-1,,<div class=prt-text-small>对敌方造成暗属性伤害/暗属性防御DOWN(累积)/驱散1个强化效果<span class=text-blue>◆非神威一体状态下，追加1层异能槽(最大4)/神威一体状态下，在普攻后发动</span></div>
+skill-2,,<div class=prt-text-small>对敌方全体造成10倍暗属性伤害/缓速效果/回复自身HP<span class=text-blue>◆非神威一体状态下，追加1层异能槽(最大4)/神威一体状态下，攻击次数翻倍</span></div>
+skill-3,,<div class=prt-text-small>自身获得赎罪效果<br><span class=text-blue>◆神威一体状态下，延长赎罪效果的效果时间/效果中，援护效果(全体)/受伤减轻/效果结束时，根据效果中的受击次数对敌方全体造成暗属性伤害(最大10次)/自身奥义值UP(10%/最大100%)</span></div>
+support-1,,<div class=prt-text-small>若回合结束时异能槽为4，重置层数并进入神威一体状态/自身技能可即刻使用<span class=text-blue>◆神威一体效果中，自身攻防UP/必定三连击/造成伤害UP/伤害上限UP/暗属性追击效果/受到的伤害最大值固定在5000/免疫弱体效果/回合中进行2次攻击行动/回合结束时技能2的cd缩短3回合/无法发动奥义</span></div>
+support-2,,<div class=prt-text-small>神威一体状态结束的回合结束时，仅一次，延长神威一体状态5回合/回复自身全部HP 与弱体效果/攻击大幅UP</div>
+skill-lb,LB技能,
+intro,,

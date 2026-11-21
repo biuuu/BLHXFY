@@ -1,0 +1,9 @@
+id,name,detail
+npc,杰西卡,3040227000
+special,盛开的光芒,<div class=prt-text-small>土属性伤害(特大)/黑暗/净化我方全体的1个弱体状态
+skill-1,关护射击,<div class=prt-text-small>对敌方全体造成土属性攻击/我方全体HP回复<br><span class=text-blue>◆3回合内回合结束时，发动一次「救命射击」</span></div>
+skill-2,焰火,<div class=prt-text-small>我方全体获得特殊强化(攻防UP/连击率UP)/弱体成功率UP<br><span class=text-blue>◆火力支援层数大于1时，伤害上限上升</span></div>
+skill-3,围观者,<div class=prt-text-small>我方指定土属性单体获得屏障(等同自身最大HP的70%/最大4000)/土属性追击<br><span class=text-blue>◆受伤时不消除追击效果</span></div>
+support-1,姐姐和抬头看到的夏日景色,攻击开始时我方有濒死状态角色时，自身必TA/回复性能UP
+support-2,这个夏天的装扮,奥义使用时救命射击效果盐城2回合/获得1层火力支援(最大2层)<br><span class=text-blue>◆根据火力支援层数对应关护射击和救命射击的攻击性能UP</span>
+skill-lb,LB技能,我方全体收到处于黑暗的敌人的伤害减轻

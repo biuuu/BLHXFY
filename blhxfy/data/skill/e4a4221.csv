@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,夏诺瓦,3040093000
+special,幻影怪盗,水属性伤害（特大）/回避敌人所有攻击（1次）<span class=text-blue>◆对预告状态的敌人造成4次水属性追加伤害</span>
+skill-1,大胆的预告,赋予敌人预告效果/攻防DOWN
+skill-2,请解谜,<div class=prt-text-small>吸收敌人1个CT变换为我方全体奥义值/自己的谜语LV上升 <span class=text-blue>◆对预告状态的敌人发动2次</span></div>
+skill-3,华丽盗取,<div class=prt-text-small>表演变换自如的妙技 <span class=text-blue>◆效果根据选择的妙技变化</span></div>
+support-1,怪盗的流派,对预告状态的敌人，暴击率UP/回避UP
+support-2,制造幻象,<div class=prt-text-small>回避成功时谜语LV上升1（最大5）<span class=text-blue>◆根据LV等级依次获得攻击UP/必定连续攻击/奥义性能UP/活性效果/回避成功时造成4次水属性伤害</span></div>
+skill-lb,LB技能,对预告状态的敌人发动自属性追击
+intro,世纪的大怪盗,通过变换自如的变装技术，和各种异想天开的诡计，轰动世界的不明身份的大怪盗。宝物一旦被他盯上，最后都会伴随着附带香水的预告函，从任何地方被他华丽地盗走。

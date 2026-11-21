@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,希尔芙,3040388000
+special,,火属性伤害(特大)/缓速效果<span class=text-blue>◆为获得 「灵蝶的祝福」的队友回复HP</span>
+skill-1,,自身以外的火属性角色单体获得「灵蝶的祝福」效果
+skill-2,,自身以外的火属性角色单体可即刻发动奥义/奥义性能UP
+skill-3,,敌方全体攻击DOWN/防御DOWN/连击率DOWN/命中率DOWM
+support-1,,获得 「灵蝶的祝福」的队友发动奥义时，希尔芙的强化技能再使用间隔缩短1回合
+support-2,,根据获得 「灵蝶的祝福」的队友数量，奥义性能UP
+skill-lb,LB技能,回复性能UP
+intro,,

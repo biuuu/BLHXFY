@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,安琪拉,3040330000
+special,飞猿·如意大海棒,水属性伤害(特大)/技能2cd缩短2回合<span class=text-blue>◆对水猿状态的敌人造成水属性追加伤害</span>
+skill-1,三伏五申,对敌方全体造成水属性伤害/赋予水猿效果
+skill-2,莲华宝土,我方全体奥义值UP/连击率UP/伤害上限UP<span class=text-blue>◆根据使用次数性能UP(最多3次)</span>
+skill-3,君子万年,水属性角色单体奥义值100%UP/屏障效果<span class=text-blue>◆不处于「紧箍儿」效果中时，效果全体化</span>
+support-1,身外身法,<div class=prt-text-small>奥义发动时赋予自身「身外身法」效果<span class=text-blue>◆效果中奥义发动2次/回避敌人所有攻击(回避成功时解除)</span></div>
+support-2,常夏装束,<div class=prt-text-small>战斗开始时附带「紧箍儿」效果<span class=text-blue>◆10回合之后，回合结束时消耗「紧箍儿」效果回复水属性角色全部弱体效果与全部HP/自身连击率UP</span></div>
+skill-lb,LB技能,使用技能3时有几率赋予自身「身外身法」效果
+intro,,

@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,波塞冬,3040348000
+special,,水属性伤害(特大)/我方全体水属性攻击UP(30%)<span class=text-blue>◆对水神裁决状态的敌人追加伤害</span>
+skill-1,,对敌方造成水属性伤害/水神裁决效果/感电Lv上升1(最大10)
+skill-2,,<div class=prt-text-small>对敌方全体造成水属性伤害/我方全体攻防UP(累积)/奥义值上升20%<span class=text-blue>◆消耗全部水神Lv，根据消耗层数性能UP</span></div>
+skill-3,,我方全体弱化效果耐性UP/受伤减轻(20%)/获得吸收效果
+support-1,,必定三连击但奥义值上升缓慢/每一次普攻对随机目标进行3次打击
+support-2,,水属性角色发动奥义时，波塞冬奥义值10%UP/水神Lv上升(最大9)
+skill-lb,LB技能,我方全体火属性伤害减轻
+intro,,

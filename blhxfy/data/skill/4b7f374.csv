@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,莫妮卡,3040454000
+special,,光属性伤害(特大)/自身回避敌方所有攻击
+skill-1,,<div class=prt-text-small>对敌方造成光属性伤害/攻防DOWN(累积)/感电Lv上升1(最大10)</div>
+skill-2,,<div class=prt-text-small>光属性角色获得光渚之风效果<span class=text-blue>◆光渚之风效果中弱体耐性大幅上升/免疫驱散/再生效果/2次受伤后解除</span></div>
+skill-3,,<div class=prt-text-small>自身获得援护效果<span class=text-blue>◆有感电Lv10的敌方在场时，追加攻击大幅UP效果</span></div>
+support-1,,<div class=prt-text-small>防御力低但必定三连击/回避率大幅UP<span class=text-blue>◆回避时发动技能1</span></div>
+support-2,,<div class=prt-text-small>根据敌方感电Lv光属性角色技能性能UP<span class=text-blue>◆自身处于后排时同样发动</span></div>
+skill-lb,LB技能,奥义发动时技能1有概率可即刻使用
+intro,,

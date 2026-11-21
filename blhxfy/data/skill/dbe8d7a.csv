@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,拉加佐,3040542000
+special,,<div class=prt-text-small>光属性伤害(极大)/自身热量Lv上升1(最大10)/1回合内受伤减轻<span class=text-blue>◆热量Lv10时，技能3的cd缩短1回合</span></div>
+skill-1,,<div class=prt-text-small>对敌方造成2次光属性伤害/自身光属性攻击UP(累积)/造成伤害上升(累积)/热量Lv上升1</div>
+skill-2,,<div class=prt-text-small>对敌方全体造成光属性伤害/攻防DOWN/自身奥义值20%UP/热量Lv上升1<span class=text-blue>◆热量Lv10时，追加驱散2个强化效果span></div>
+skill-3,,<div class=prt-text-small>自身攻击大幅UP/不经过回合进行普攻<span class=text-blue>◆仅在热量Lv10时可使用</span></div>
+support-1,,<div class=prt-text-small>根据热量Lv自身攻击UP/防御UP/三连击率UP/伤害上限UP/普攻造成伤害UP<span class=text-blue>◆热量Lv10时，回合中进行2次攻击行动，免疫驱散</span></div>
+support-2,,<div class=prt-text-small>普攻不积累奥义值，但普攻后发动技能1/敌方使用特殊技时发动技能2</div>
+skill-lb,LB技能,
+intro,未知的邂逅,

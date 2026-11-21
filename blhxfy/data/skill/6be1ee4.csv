@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,阿尔泰尔,3040373000
+special,,火属性伤害(特大)/我方全体暴击率UP/赋予自身业火刻印
+skill-1,,<div class=prt-text-small>火属性角色暴击率UP/会心效果/赋予业火刻印<span class=text-blue>◆业火刻印5时，该技能变为「战术策：军争」：消耗5业火刻印，火属性角色暴击率UP/会心效果/火属性追击效果/伤害上限UP</span></div>
+skill-2,,敌方全体攻防DOWN(积累)/2种随机弱体效果<span class=text-blue>◆业火5时，发动2次</span>
+skill-3,,驱散敌方单体1种强化效果/火属性防御DOWN<span class=text-blue>◆驱散成功时赋予我方全体业火刻印</span>
+support-1,,火属性角色普攻暴击时，获得火属性追击效果
+support-2,,火属性角色根据各自业火刻印数量暴击率UP<span class=text-blue>◆处于后排时同样发动</span>
+skill-lb,LB技能,普攻有几率赋予自身1业火刻印
+intro,,

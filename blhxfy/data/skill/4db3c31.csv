@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,赫卡忒,3040450000
+special,梦幻终宵,火属性伤害(特大)/赋予自身业火刻印/技能cd缩短1回合
+skill-1,火光照耀的月夜,<div class=prt-text-small>对敌方随机目标造成8次火属性伤害/敌方全体攻防DOWN/赋予自身业火刻印</div>
+skill-2,宵暗的诱惑,<div class=prt-text-small>对敌方单体造成火属性伤害/赋予我方全体业火刻印/随机强化效果<span class=text-blue>◆根据业火刻印层数，强化效果数量增加</span></div>
+skill-3,月神的拥抱,自身以外的单体火属性角色获得「月神的拥抱」效果
+support-1,真月的飨宴,每3回合对敌方全体造成7倍火属性伤害/魅惑效果
+support-2,月火妖炎,<div class=prt-text-small>根据业火刻印层数依次获得以下效果：攻击UP/防御UP/必定连击/技能伤害上限UP/承伤时发动技能1</div>
+skill-lb,LB技能,
+intro,妖艳冥妃,

@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,泰芙努特,3040537000
+special,,水属性伤害(极大)/缓速效果/随机2个弱体效果
+skill-1,,<div class=prt-text-small>对随机目标造成5次水属性伤害/敌方全体水属性防御DOWN/消去1个强化效果/水属性角色奥义值UP<span class=text-blue>◆幻景Lv5时，追加敌方受伤加重(6次)</span></div>
+skill-2,,<div class=prt-text-small>敌方全体获得黯然之雾效果/弱体耐性DOWN/连击率DOWN<span class=text-blue>◆幻景Lv5时，水属性角色获得防消去盾(1次)/幻影效果(1次)/回避敌方所有攻击(1次)</span></div>
+skill-3,,<div class=prt-text-small>自身获得凉丽的小睡效果(不进行普攻/回避率大幅UP/奥义发动时泰芙努特后置位的水属性角色获得再攻击效果/水属性追击效果/回合结束时发动泰芙努特技能1(消去不可))</div>
+support-1,,<div class=prt-text-small>泰芙努特未受到伤害的回合结束时，自身以外的水属性角色获得必定三连击效果(1次)/伤害上限UP/造成伤害上升/自身幻景Lv上升1<span class=text-blue>◆根据幻景Lv自身以外的水属性角色攻击UP/连击率UP/回避率UP/奥义值上升量UP</span></div>
+support-2,,<div class=prt-text-small>普攻不会增长奥义值，若回合中未进行攻击，回合结束时可即刻发动奥义</div>
+skill-lb,LB技能,
+intro,,

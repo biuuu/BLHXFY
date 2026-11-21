@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,斯特姆,3040415000
+special,,光属性伤害(特大)/自身回复2海滨之刃
+skill-1,,<div class=prt-text-small>对敌方造成8次光属性伤害/攻防DOWN(累积)<br><span class=text-blue>◆消耗2海滨之刃/敌人发动特殊技能时不消耗海滨之刃自动发动</span></div>
+skill-2,,<div class=prt-text-small>回复自身HP/回复1个弱体效果/奥义值10%UP<br><span class=text-blue>◆消耗1海滨之刃/承伤时不消耗海滨之刃自动发动</span></div>
+skill-3,,自身获得奥义再发动(1次)效果/奥义性能UP(1次)<span class=text-blue>◆消耗8海滨之刃</span>
+support-1,,战斗开始时海滨之刃为6(最大10)<span class=text-blue>◆海滨之刃每回合回复1</span>
+support-2,,最大HP较低但攻击UP/必定连击/奥义值上升量UP
+skill-lb,LB技能,技能造成的伤害上升
+intro,,

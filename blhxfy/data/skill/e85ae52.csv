@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,拉结尔,3040516000
+special,,<div class=prt-text-small>光属性伤害(特大)/自身获得再生效果/获得3层神秘<span class=text-blue>◆10回合以后：再生效果全体化</span></div>
+skill-1,,<div class=prt-text-small>敌方全体暗属性攻击DOWN/光属性防御DOWN/最大CT增加<span class=text-blue>◆消耗1层神秘</span></div>
+skill-2,,<div class=prt-text-small>对随机目标造成16次光属性伤害<span class=text-blue>◆消耗1层神秘</span></div>
+skill-3,,<div class=prt-text-small>我方全体攻防UP/连击率UP/回避率UP<span class=text-blue>◆消耗1层神秘</span></div>
+support-1,,<div class=prt-text-small>根据经过的回合自身连击率UP/光属性追击效果UP<span class=text-blue>◆战斗开始时获得3层神秘</span></div>
+support-2,,满足所有武器技能的得以武器发动条件
+skill-lb,LB技能,普攻有概率使技能2可即刻使用
+intro,,

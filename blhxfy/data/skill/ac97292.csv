@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,露·欧,3040583000
+special,,<div class=prt-text-small>土属性伤害(特大)/驱散1个强化效果/技能1可即刻使用<span class=text-blue>◆『白』之救光Lv10时，发动2次</span></div>
+skill-1,,<div class=prt-text-small>对敌方造成5次土属性伤害/攻防DOWN(累积)<span class=text-blue>◆根据『白』之救光Lv攻击次数UP(最大10次)/HP在40%以上时，1回合内可连续使用2次</span></div>
+skill-2,,<div class=prt-text-small>土属性角色获得高扬效果/再生效果/Fatal Chain值30%UP<span class=text-blue>◆根据『白』之救光Lv效果时间延长</span></div>
+skill-3,,<div class=prt-text-small>回复土属性角色全部HP和全部弱体效果<span class=text-blue>◆『白』之救光Lv10时，追加奥义值100%UP效果</span></div>
+support-1,,<div class=prt-text-small>土属性奥义连锁4连及以上或Fatal Chain发动时，自身『白』之救光Lv上升1(最大10)/自身剩余HP越多，土属性角色奥义值UP<span class=text-blue>◆根据『白』之救光Lv土属性攻防UP/连击率UP</span></div>
+support-2,,<div class=prt-text-small>攻击开始时，HP在40%以下的土属性角色获得格挡效果<span class=text-blue>◆预兆表示中，无视土属性角色HP发动</span></div>
+skill-lb,LB技能,
+intro,,

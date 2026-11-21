@@ -1,0 +1,13 @@
+﻿id,name,detail
+npc,翼,3040180000
+special,烈弩绯威斗・红罗狩,<div class=prt-text-small>火属性伤害(极大)/火属性角色火属性攻击UP/自身奥义值50%UP<span class=text-blue>◆消耗"出发"效果而非奥义值发动奥义/即使设置奥义温存也同样发动奥义</span></div>
+special-仏恥義理・蛇苦成威斧,,<div class=prt-text-small>火属性伤害(极大)/根据速度造成火属性追加伤害(最大5次)/火属性角色火属性攻击UP/自身奥义值50%UP<span class=text-blue>◆消耗"出发"效果而非奥义值发动奥义/即使设置奥义温存也同样发动奥义</span></div>
+skill-1,"对决的""瞬间""",<div class=prt-text-small>对敌方单体造成火属性伤害/突进效果<span class=text-blue>◆突进效果中，敌方不积累CT，无法发动特殊技</span></div>
+skill-1++,"对决的""瞬间""",<div class=prt-text-small>对敌方单体造成火属性伤害/突进效果/驱散1个强化效果<span class=text-blue>◆突进效果中，敌方不积累CT，无法发动特殊技</span></div>
+skill-2,"""干架""时间",<div class=prt-text-small>使敌方CT增加1/攻击UP/连击率UP/火属性角色获得强壮效果/暴击率UP<span class=text-blue>◆2次发动追加火属性角色获得火属性追击效果</span></div>
+skill-3,特攻,<div class=prt-text-small>自身获得'出发"效果/火属性角色获得"暴走"效果<span class=text-blue>◆"暴走"效果中，攻击UP/连击率UP/3次受伤解除</span></div>
+skill-3+,特攻,<div class=prt-text-small>自身获得'出发"效果/火属性角色获得"暴走"效果<span class=text-blue>◆"暴走"效果中，攻击UP/连击率UP/免疫驱散/3次受伤解除</span></div>
+skill-4,,<div class=prt-text-small>对敌方造成火属性伤害/随机弱体效果<span class=text-blue>◆1回合中可连续使用2次/速度5层时，可连续使用3次</span></div>
+support-1,"""烈弩宇威愚""的疾风",<div class=prt-text-small>普攻后消耗100%奥义加速(最大5层)/技能1可即刻使用，技能2的cd缩短1回合<span class=text-blue>◆根据速度攻击UP/回避率UP/普攻后根据速度对敌方造成对应次数的火属性伤害(最大5次)</span></div>
+support-2,"咱们是""伙伴""",<div class=prt-text-small>自身以外的火属性角色受击的回合结束时，自身奥义值20%UP</div>
+intro,玛那利亚的特攻总长,玛那利亚魔法学院头等的不良学生现在以憧憬的已故父亲的人生为榜样，对这世道贯彻自己的“威势”。少年的目标是“苍空的对岸”——他已自己的拳头和率直的心为武器，今天也驾驶着搭档的单车飞驰。
