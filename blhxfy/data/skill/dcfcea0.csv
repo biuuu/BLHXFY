@@ -1,0 +1,14 @@
+﻿id,name,detail
+npc,沃夫与蕾妮,3040174000
+special,虚空起爆,<div class=prt-text-small>暗属性伤害(特大)/受伤加重/回复自身HP<span class=text-blue>◆蕾妮的眼泪效果中，HP回复量UP</span></div>
+special-フル･ブラスト,,<div class=prt-text-small>暗属性伤害(特大)/受伤加重/回复自身HP/技能1与技能3可即刻使用<span class=text-blue>◆蕾妮的眼泪效果中，HP回复量UP</span></div>
+skill-1,钢铁之躯,<div class=prt-text-small>自身获得反击效果(回避·受伤时/5次)/造成伤害上升/敌对心大幅UP/不经过回合进行普攻</div>
+skill-1++,钢铁之躯,<div class=prt-text-small>自身获得反击效果(回避·受伤时/5次)/造成伤害上升/敌对心大幅UP/不经过回合进行普攻<span class=text-blue>◆蕾妮的眼泪效果中，攻击大幅UP</span></div>
+skill-2,蕾妮的眼泪,<div class=prt-text-small>消除所有孤狼之伤/蕾妮的眼泪效果<span class=text-blue>◆孤狼之伤达到5时可使用/效果中攻防UP/暗属性追击效果/暴击率UP/格挡效果/敌对心UP/再使用不可</span></div>
+skill-3,高吼,<div class=prt-text-small>根据敌方现有HP造成无属性伤害/驱散1个强化效果/自身伤害上限UP(累积)/奥义性能UP(1次)</div>
+skill-4,,<div class=prt-text-small>对敌方造成2次暗属性伤害/月夜的恐慌效果/自身获得乱击效果(2Hit)/再攻击效果<span class=text-blue>◆仅在蕾妮的眼泪效果中可使用/月夜的恐慌效果中，连击率DOWN/特殊技伤害DOWN/攻击行动有概率被限制</span></div>
+support-1,战士,奥义值积累缓慢，但必定三连击
+support-1+,战士,奥义值积累缓慢，但攻击UP/必定三连击/免疫驱散/敌方使用特殊技时自身可即刻发动奥义
+support-2,孤狼,<div class=prt-text-small>非蕾妮的眼泪效果中，攻击时增加1孤狼之伤(最大5)<span class=text-blue>◆孤狼之伤5层时防御大幅DOWN</span></div>
+skill-lb,LB技能,弱化效果抗性UP
+intro,人狼与少女,孤独的人狼遇到了孤独的少女。故意找借口解释各自的温暖，背离无偿的庇护，然而那些日子确实是两人安宁的乐园。被迫逃离那里的两人在这苍空的尽头会看到什么……

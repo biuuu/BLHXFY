@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,圣德芬,3040447000
+special,,风属性伤害(极大)/缓速效果/技能1可即刻使用
+skill-1,,<div class=prt-text-small>对敌方全体造成风属性伤害/驱散1种强化效果/最大CT增加<span class=text-blue>◆根据敌方全体最大CT之和造成追加伤害(最大8次)</span></div>
+skill-2,,回复我方全体HP/净化1种弱体效果<span class=text-blue>◆根据敌方全体最大CT之和，回复性能UP</span>
+skill-3,,<div class=prt-text-small>我方全体免疫弱体效果(1次)/免疫伤害(1次)<span class=text-blue>◆根据敌方全体最大CT之和，技能cd缩短</span></div>
+support-1,,<div class=prt-text-small>普攻不积累奥义值但普攻伤害UP/必定三连击/活性效果</div>
+support-2,,敌人使用特殊技能时发动技能2/自身奥义值上升30%UP
+skill-lb,LB技能,
+intro,,

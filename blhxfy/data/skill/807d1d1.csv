@@ -1,0 +1,8 @@
+id,name,detail
+npc,高垣枫,3040276000
+special,神圣和风,<div class=prt-text-small>风属性伤害(特大)/我方全体获得再生</div>
+skill-1,恋风,<div class=prt-text-small>我方全体获得特殊钱啊规划(攻击UP/连击率UP)</div>
+skill-2,神秘气质,<div class=prt-text-small>我方全体获得高扬/被回复上限UP</div>
+skill-3,灵光一闪♪,<div class=prt-text-small>对敌方全体施加随机弱体状态<br><span class=text-blue>◆消费10%奥义值</span></div>
+support-1,新绿的淑女,活性/奥义发动时情感满溢效果延长2回合
+skill-lb,LB技能,战斗开始时，自身获得奥义值

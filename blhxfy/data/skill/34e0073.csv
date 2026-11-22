@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,莫妮卡,3040321000
+special,,土属性伤害(特大)/自身的联动技能可即刻使用/发动紫电之闪
+skill-1,,<div class=prt-text-small>我方全体奥义值上升30%<span class=text-blue>◆追加效果：奥义性能UP(1次)</span></div>
+skill-2,,<div class=prt-text-small>自身必定三连击/弱点属性追击效果<span class=text-blue>◆追加效果：伤害上限UP</span></div>
+skill-3,,<div class=prt-text-small>我方全体再生效果/弱体效果无效(1次)<span class=text-blue>◆追加效果：免疫驱散(1次)</span></div>
+support-1,,<div class=prt-text-small>根据自身拥有的强化效果数量回避率UP/敌对心UP/回避时发动紫电之闪<span class=text-blue>◆对敌方全体造成土属性伤害/自身攻防UP(累积)</span></div>
+support-2,,<div class=prt-text-small>我方全体根据各自强化效果数量攻防UP/自身强化效果在12个以上时，技能获得追加效果</div>
+skill-lb,LB技能,我方全体获得水属性伤害减轻效果
+intro,,

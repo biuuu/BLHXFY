@@ -1,0 +1,18 @@
+﻿id,name,detail
+npc,士郎,3040315000
+special,,光属性伤害(特大)/技能1发动
+special-カイザー・カタストネシス,,光/火/水/土/风/暗伤害(极大)/自身攻击大幅UP(1次)
+special-Kaiser Catastronesis,,光/火/水/土/风/暗伤害(极大)/自身攻击大幅UP(1次)
+skill-1,,<div class=prt-text-small>对敌方造成光属性伤害/防御DOWN(累积)<span class=text-blue>◆「超越界限」达到5时，回合中进行2次攻击行动</span></div>
+skill-カイザースマッシャー,,<div class=prt-text-small>对敌方全体造成10倍伤害/重置CT/自身可即刻发动奥义<span class=text-blue>◆再使用不可</span></div>
+skill-Kaiser Smash,,<div class=prt-text-small>对敌方全体造成10倍伤害/重置CT/自身可即刻发动奥义<span class=text-blue>◆再使用不可</span></div>
+skill-2,,<div class=prt-text-small>对敌方造成4次光属性伤害/回避敌方所有攻击/敌对心UP<span class=text-blue>◆回避时发动技能1</span></div>
+skill-超斥力ギガントスラッシャー,,<div class=prt-text-small>对敌方全体造成10倍伤害/效果中必定三连击/光属性追击效果(90%)<span class=text-blue>◆再使用不可</span></div>
+skill-Gigante Repulsion Slash,,<div class=prt-text-small>对敌方全体造成10倍伤害/效果中必定三连击/光属性追击效果(90%)<span class=text-blue>◆再使用不可</span></div>
+skill-3,,<div class=prt-text-small>搭乘巨神凯撒！<span class=text-blue>◆仅在「超越界限」达到5时可使用/全部技能课即刻使用</span></div>
+skill-超斥力エリアシールド,,暗属性伤害减免(100%)/将受到的伤害转换为暗属性<span class=text-blue>◆再使用不可</span>
+skill-Area Repulsion Shield,,暗属性伤害减免(100%)/将受到的伤害转换为暗属性<span class=text-blue>◆再使用不可</span>
+support-1,,<div class=prt-text-small>初始技能1发动时，「超越界限」上升(最大5)/根据「超越界限」等级连击率UP/回避率UP<span class=text-blue>◆Lv5时攻击性能UP/奥义性能UP</span></div>
+support-2,,<div class=prt-text-small>搭乘巨神凯撒时会解除部分强化效果但性能大幅UP/5回合后停止搭乘/自身以外的队友无法参与战斗</div>
+skill-lb,LB技能,奥义值上升量UP
+intro,,

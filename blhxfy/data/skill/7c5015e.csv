@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,企小鹅,3040282000
+special,超☆绝☆特制彩弹枪,土属性伤害(特大)<span class=text-blue>◆根据P-EN数量奥义性能UP/消耗全部P-EN</span>
+skill-1,P-EN再充能,回复10P-EN<span class=text-blue>◆再使用不可</span>
+skill-2,企鹅鹅！,对敌方单体造成土属性伤害/防御DOWN
+skill-3,企鹅企鹅企鹅鹅！,不计入回合进行普攻<span class=text-blue>◆消耗2P-EN</span>
+support-1,企鹅能量,<div class=prt-text-small>普攻消耗1P-EN必定三连击/对敌方全体造成土属性伤害<br><span class=text-blue>◆战斗开始时拥有10P-EN</span></div>
+support-2,装甲过热,<div class=prt-text-small>回合结束时P-EN为0则进入倒计时状态<span class=text-blue>◆倒计时结束对敌方全体造成7倍土属性伤害/自身陷入无法战斗状态</span></div>
+skill-lb,LB技能,普攻有几率回复1P-EN
+intro,大家的英雄,

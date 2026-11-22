@@ -1,0 +1,11 @@
+﻿id,name,detail
+npc,波曼,3040424000
+special,,暗属性伤害(特大)/自身获得暗属性追击效果(50%/6回合)
+skill-1,,<div class=prt-text-small>对敌方单体造成2次暗属性伤害/回复自身HP(上限2000)/将敌对心转移给随机队友<span class=text-blue>◆敌人使用特殊技能时自动发动</span></div>
+skill-1+,,<div class=prt-text-small>对敌方单体造成2次暗属性伤害/回复自身HP(上限3000)/将敌对心转移给随机队友<span class=text-blue>◆敌人使用特殊技能时自动发动</span></div>
+skill-2,,对敌方单体造成3次暗属性伤害/暗属性防御DOWN(累积/最大4次)<span class=text-blue>◆普攻后自动发动</span>
+skill-3,,对敌方单体造成暗属性伤害/自身获得随机强化效果<span class=text-blue>◆奥义发动时自动发动</span>
+support-1,,<div class=prt-text-small>技能无法主动使用，但满足条件后自动发动/攻击UP/必定三连击/承伤反击(1次)</div>
+support-2,,奥义值达到100%时，即使设定奥义温存依旧发动奥义/奥义性能UP
+skill-lb,LB技能,
+intro,,

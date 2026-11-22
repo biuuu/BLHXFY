@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,米蕾耶&莉赛特,3040302000
+special,,土属性伤害(特大)/发动技能1
+skill-1,,<div class=prt-text-small>自身普攻造成伤害UP/土属性追击效果/赋予荒土刻印<span class=text-blue>◆每次使用性能UP(最大5次/包括奥义时发动的次数)</span></div>
+skill-2,,自身获得援护效果/回避敌方所有攻击
+skill-3,,<div class=prt-text-small>消耗2层荒土刻印，自身攻击大幅UP<span class=text-blue>◆消耗5层荒土刻印，回合中进行两次攻击行动</span></div>
+support-1,,防御力与弱体耐性低但必定三连击/根据荒土刻印层数土属性攻击力UP
+support-2,,<div class=prt-text-small>土属性角色根据各自荒土刻印层数造成伤害上升<span class=text-blue>◆自身处于后排时同样发动</span></div>
+skill-lb,LB技能,普攻时自身有概率获得1层荒土刻印
+intro,,

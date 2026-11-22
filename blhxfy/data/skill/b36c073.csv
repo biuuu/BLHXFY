@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,容,3040671000
+special,,<div class=prt-text-small>水属性伤害(极大)/自身回避敌方所有攻击(1次)/技能2发动<span class=text-blue>◆消耗自身HP最大值的15%</span></div>
+skill-1,,<div class=prt-text-small>消耗自身当前HP 的60%对敌方造成10倍水属性伤害/自身获得逆境效果/普攻造成伤害UP/不死之身效果(1次)</div>
+skill-2,,<div class=prt-text-small>对敌方造成3次水属性伤害/攻防DOWN(累积)/赋予狐火<span class=text-blue>◆对狐火状态的敌人攻击次数翻倍</span></div>
+skill-3,,<div class=prt-text-small>自身可即刻发动奥义/奥义性能UP(1次)/回合中进行2次攻击行动<span class=text-blue>◆爱炎效果中，自身后一位水属性角色获得同样效果</span></div>
+support-1,,<div class=prt-text-small>若回合结束时自身处于濒死状态，仅一次，自身获得屏障效果(10000)/回复全部弱体效果/所有技能可即刻使用/爱炎效果</div>
+support-2,,<div class=prt-text-small>自身HP在50%以下时，必定三连击/弱点属性追击效果/免疫驱散/每次普攻对随机目标造成2Hit/普攻时技能2发动<span class=text-blue>◆爱炎效果中，追加免疫弱体效果/受伤时全力反击(2次)/回合结束时技能cd缩短1回合</span></div>
+skill-lb,LB技能,
+intro,,

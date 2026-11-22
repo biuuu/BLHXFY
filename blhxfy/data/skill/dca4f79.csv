@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,茵妲拉,3040569000
+special,,<div class=prt-text-small>暗属性伤害(特大)/技能1与技能2可即刻使用/自身蛇纹Lv上升1(最大5)<span class=text-blue>◆蛇纹Lv5时，重置Lv使自身获得不休活期效果</span></div>
+skill-1,,<div class=prt-text-small>对敌方全体造成暗属性伤害/连击率DOWN(累积)/剧毒Lv上升1(最大10)<span class=text-blue>◆存在剧毒Lv7以上的敌人时，发动2次</span></div>
+skill-2,,<div class=prt-text-small>对随机目标造成4次暗属性伤害/暗属性角色奥义值10%UP<span class=text-blue>◆存在剧毒Lv7以上的敌人时，攻击次数翻倍</span></div>
+skill-3,,<div class=prt-text-small>暗属性角色技能性能UP/技能造成伤害UP/自身可即刻发动奥义<span class=text-blue>◆自身不休活期效果缩短3回合</span></div>
+support-1,,<div class=prt-text-small>免疫弱体效果「毒」/战斗开始时自身获得不休活期效果<span class=text-blue>◆不休活期效果中，弱体效果无效/1回合内可连续发动2次同一个伤害技能以及削弱技能/效果结束时，自身获得睡眠效果</span></div>
+support-2,,<div class=prt-text-small>暗属性角色使用使敌方剧毒Lv上升的技能时，敌方凶疫Lv上升1(最大10)<span class=text-blue>◆凶疫Lv1以上的敌人在茵妲拉处于前排时，根据Lv攻防DOWN/技能受伤加重/Lv10时，可被驱散的强化效果效果时间缩短5回合</span></div>
+skill-lb,LB技能,
+intro,,

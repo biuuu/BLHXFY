@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,美黛拉,3040620000
+special,,<div class=prt-text-small>风属性伤害(极大)/10次风属性追加伤害/自身获得1层空灵印(最大10)</div>
+skill-1,,<div class=prt-text-small>消耗10层空灵印对敌方造成合计10次24倍风属性伤害/自身获得空灵奥秘效果<span class=text-blue>◆效果中，必定三连击/风属性追击效果/造成伤害上升/回合结束时技能2与技能3可即刻使用</span></div>
+skill-2,,<div class=prt-text-small>对随机目标造成10次风属性伤害/驱散敌方全体1个强化效果/缓速效果</div>
+skill-3,,<div class=prt-text-small>对敌方全体造成8倍风属性伤害/攻防DOWN(累积)/自身回避敌方所有攻击(1次)</div>
+support-1,,<div class=prt-text-small>普攻不累积奥义值但技能造成伤害UP/回避率UP/普攻时对敌方造成4次风属性伤害</div>
+support-2,,<div class=prt-text-small>回避成功时发动技能2/自身获得1层空灵印<span class=text-blue>◆战斗开始拥有10层空灵印</span></div>
+skill-lb,LB技能,
+intro,,

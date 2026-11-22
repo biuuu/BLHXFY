@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,梓,3040453000
+special,,暗属性伤害(特大)/8倍暗属性追加伤害/该回合暗属性角色受伤50%减轻
+skill-1,,<div class=prt-text-small>自身获得5层无境效果(最大5)/可即刻发动奥义<span class=text-blue>◆根据无境层数，普攻与技能与奥义命中率UP</span></div>
+skill-2,,<div class=prt-text-small>命中率低，但对敌方随机目标造成10次合计50倍暗属性伤害</div>
+skill-3,,<div class=prt-text-small>不进行普攻，受伤80%减轻/敌对心大幅UP/回合结束时其余技能cd缩短1回合/自身获得1层无境</div>
+support-1,,<div class=prt-text-small>攻击与伤害上限大幅UP/普攻与技能与奥义可能无法命中</div>
+support-2,,<div class=prt-text-small>普攻与技能与奥义命中时消耗1层无境回复我方全体HP</div>
+skill-lb,LB技能,
+intro,,

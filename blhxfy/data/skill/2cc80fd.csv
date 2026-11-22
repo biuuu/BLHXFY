@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,拉斐尔,3040568000
+special,,<div class=prt-text-small>风属性伤害(特大)/驱散1个强化效果/我方全体风属性攻击UP/自身获得2层翡翠(最大10)</div>
+skill-1,,<div class=prt-text-small>风属性角色奥义值上升量UP/奥义性能UP/回避敌方所有攻击(1次)</div>
+skill-2,,<div class=prt-text-small>对随机目标造成16次风属性伤害/风属性角色获得烈风的护封效果<span class=text-blue>◆烈风的护封效果在3次受伤后解除</span></div>
+skill-3,,<div class=prt-text-small>对敌方全体造成10倍风属性伤害/雄烈恐风效果/自身可即刻发动奥义/奥义再发动效果(1次)</div>
+support-1,,<div class=prt-text-small>风属性角色发动奥义时，自身获得1层翡翠/风属性奥义连锁4连及以上发动时，消耗8层翡翠对敌方造成10次风属性伤害/风属性角色攻防UP(累积)</div>
+support-2,,<div class=prt-text-small>技能「风」「龙卷」「乱气」「岚龙方阵」效果20%UP<span class=text-blue>◆自身处于后排时同样发动</span></div>
+skill-lb,LB技能,
+intro,,

@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,欧罗巴,3040663000
+special,,<div class=prt-text-small>光属性伤害(特大)/根据冰结Lv造成光属性追加伤害(最大10次)<span class=text-blue>◆处于欧罗巴城内时变化为光属性伤害(特大)</span></div>
+skill-1,,<div class=prt-text-small>对敌方造成8次光属性伤害/冰结Lv上升1(最大10)/攻击DOWN(累积)/弱体耐性DOWN(累积)<span class=text-blue>◆处于欧罗巴城内时普攻时发动</span></div>
+skill-2,,<div class=prt-text-small>光属性主人公获得乱击(3Hit)效果(1次)/不经过回合进行普攻<span class=text-blue>◆处于欧罗巴城内时回合结束该技能可即刻使用</span></div>
+skill-3,,<div class=prt-text-small>光属性角色获得屏障效果/极光守护效果<span class=text-blue>◆极光守护效果中三连击率UP/光属性追击效果/受伤减轻/再生效果/3次受伤解除</span></div>
+support-1,,<div class=prt-text-small>我方全体对目标敌人造成50次以上攻击的回合结束时，自身冰姬的舞踏Lv上升1(最大5)/冰姬的舞踏Lv5时，重置Lv发动场地效果欧罗巴城/自身所有技能可即刻使用<span class=text-blue>◆欧罗巴城效果中冰姬的舞踏Lv不会上升但光属性角色造成伤害上升/免疫驱散/敌方可驱散的强化效果时间缩短2回合/欧罗巴城在3回合后融化</span></div>
+support-2,,<div class=prt-text-small>欧罗巴城效果中光属性主人公进行攻击行动时，欧罗巴也进行相同次数的相同攻击行动<span class=text-blue>◆仅在欧罗巴为主人公后一位时发动</span></div>
+skill-lb,LB技能,
+intro,,

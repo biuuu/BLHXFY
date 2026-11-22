@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,千,3040448000
+special,,水属性伤害(特大)/我方全体获得幻影效果(1次)/回复1个弱体效果
+skill-1,,对敌方全体造成水属性伤害/回复我方全体HP(上限1500)
+skill-2,,对敌方全体造成水属性伤害/自身奥义值15%UP/奥义性能UP(累积)
+skill-3,,<div class=prt-text-small>进入绝爱爪状态，敌对心UP/反击造成的伤害UP<span class=text-blue>◆绝爱爪状态中不进行普攻/再使用解除</span></div>
+support-1,,<div class=prt-text-small>防御力低但战斗开始时获得反击效果(回避/5次)<span class=text-blue>◆回合结束时根据在场队友数量概率获得反击效果(回避/5次)</span></div>
+support-2,,受伤时发动技能1/未受到伤害的回合结束时发动技能2
+skill-lb,LB技能,极小概率在绝爱爪状态中也进行普攻
+intro,,

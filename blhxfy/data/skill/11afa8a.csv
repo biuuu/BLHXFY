@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,哈伊拉,3040502000
+special,,<div class=prt-text-small>水属性伤害(极大)/自身技能cd缩短2回合/再攻击效果/奥义封印效果</div>
+skill-1,,<div class=prt-text-small>消耗「至宝之煌星」对敌方全体造成10次水属性伤害/感电Lv上升1(最大10)/自身回合内攻击行动增加<span class=text-blue>◆根据消耗数量攻击行动次数UP/无「至宝之煌星」时无法使用</span></div>
+skill-2,,水属性角色获得云龙效果
+skill-3,,<div class=prt-text-small>回避敌方全部攻击/援护效果(全体)/自身以外的水属性角色回合内进行2次攻击行动</div>
+support-1,,<div class=prt-text-small>普攻不积累奥义值，最大HP低，但攻击UP/防御大幅UP/普攻伤害UP/必定三连击/回合内第2次以后的攻击行动攻击大幅UP</div>
+support-2,,<div class=prt-text-small>同一水属性角色回合内进行2次以上攻击行动时，追加1「至宝之煌星」(最大5)/奥义值20%UP</div>
+skill-lb,LB技能,
+intro,,

@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,奥莉薇尔,3040508000
+special,,土属性伤害(特大)/缓速效果
+skill-1,,<div class=prt-text-small>对敌方全体造成土属性伤害/攻防DOWN/连击率DOWN/宵暗的恐怖效果</div>
+skill-2,,<div class=prt-text-small>自身与后一位土属性角色获得宵暗的加护效果<span class=text-blue>◆此技能会变化为「トゥギャザー・アズ・エヴァー」</span></div>
+skill-3,,自身获得土属性追击效果/不经过回合进行普攻
+support-1,,<div class=prt-text-small>三连击与发动奥义时「トゥギャザー・アズ・エヴァー」的cd缩短1回合</div>
+support-2,,<div class=prt-text-small>自身拥有12个以上强化效果时，每次普攻对随机目标造成2Hit/普攻造成伤害上升</div>
+skill-lb,LB技能,
+intro,,

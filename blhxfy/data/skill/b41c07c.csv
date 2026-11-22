@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,希耶提,3040586000
+special,,<div class=prt-text-small>暗属性伤害(极大)/发动回合中暗属性角色免疫伤害<span class=text-blue>◆消耗宁日的风车而非奥义值发动奥义</span></div>
+skill-1,,<div class=prt-text-small>暗属性角色免疫弱体效果(1次)/免疫驱散(1次)<span class=text-blue>◆刀光Lv5时，自身获得宁日的风车</span></div>
+skill-2,,<div class=prt-text-small>对随机目标在成10次暗属性伤害/驱散敌方全体1个强化效果/自身奥义值100%UP</div>
+skill-3,,<div class=prt-text-small>自身获得反击效果(回避·受伤/3次)/不经过回合进行普攻<span class=text-blue>◆刀光Lv5时，追加攻击大幅UP(1次)效果</span></div>
+support-1,,<div class=prt-text-small>普攻前消耗70%奥义值，自身刀光Lv上升1(最大5)/下次普攻必定三连击/根据刀光Lv依次获得以下效果(攻击UP/暴击率UP/弱点属性追击效果/普攻造成伤害UP/伤害上限UP)<span class=text-blue>◆刀光Lv5时，自身所有技能可即刻使用</span></div>
+support-2,,奥义值最大200/奥义值上升量不会减少
+skill-lb,LB技能,
+intro,,

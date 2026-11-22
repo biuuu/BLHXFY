@@ -1,0 +1,14 @@
+﻿id,name,detail
+npc,库库鲁,3040159000
+special,轰炸奇袭,<div class=prt-text-small>水属性伤害(特大)/「抑止」效果/缓速效果<br><span class=text-blue>◆若敌方处于「抑止」，攻击DOWN/受伤加重</span></div>
+special-サンテブリッツ,,<div class=prt-text-small>水属性伤害(特大)/「抑止」效果/缓速效果/技能3可即刻使用<br><span class=text-blue>◆若敌方处于「抑止」，攻击DOWN/受伤加重</span></div>
+skill-1,大桶爆弹,对敌方造成8倍水属性伤害/连击率DOWN/最大CT增加
+skill-2,赶尽杀绝,<div class=prt-text-small>对敌方全体造成水属性伤害/攻防DOWN(累积)/「压制射击」效果<br><span class=text-blue>◆压制射击效果中，回合结束时对敌方全体造成水属性伤害/攻防DOWN(累积)</span></div>
+skill-2++,赶尽杀绝,<div class=prt-text-small>对敌方全体造成2次水属性伤害/攻防DOWN(累积)/弱体耐性DOWN(累积)/「压制射击」效果<br><span class=text-blue>◆压制射击效果中，回合结束时对敌方全体造成2次水属性伤害/攻防DOWN(累积)/弱体耐性DOWN(累积)</span></div>
+skill-3,武器学,<div class=prt-text-small>水属性角色获得组装效果<br><span class=text-blue>◆效果中，获得格挡效果/暴击率UP/技能造成伤害上升</span></div>
+skill-4,,<div class=prt-text-small>对随机目标造成6次水属性伤害/根据队伍内得意武器「铳」人数自身获得水属性追击效果(最大90%)/不经过回合进行普攻<span class=text-blue>◆膛线Lv2时，攻击次数翻倍/自身追加再攻击效果</span></div>
+support-1,膛线,<div class=prt-text-small>自身发动奥义时获得1层「膛线」(最大2层)<br><span class=text-blue>◆根据「膛线」层数技能性能UP</span></div>
+support-1+,膛线,<div class=prt-text-small>自身发动奥义时获得1层「膛线」(最大2层)<br><span class=text-blue>◆根据「膛线」层数依次获得以下效果(技能性能UP/技能2的cd缩短2回合)</span></div>
+support-2,火药桶,<div class=prt-text-small>必定连击/使用技能3时自身获得乱击(2Hit)效果/敌方使用特殊技时技能1可即刻使用</div>
+skill-lb,LB技能,我方得意武器为「铳」的角色获得三连击率UP<br><span class=text-blue>◆仅前排有效</span>
+intro,创意的铳设计士,制作了自负为最好的铳以后，设计士的少女开始烦恼，接下来自己要做的铳究竟是什么样子的呢。作为设计士，作为骑空士，她正要突破一个独自的世界。

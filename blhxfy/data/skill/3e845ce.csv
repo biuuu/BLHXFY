@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,索恩,3040541000
+special,,火属性伤害(特大)/技能1发动
+skill-1,,<div class=prt-text-small>对敌方全体造成2次火属性伤害/火属性防御DOWN(累积)<span class=text-blue>◆3次发动追加回复火属性角色1个弱体效果/5次发动驱散1个强化效果</span></div>
+skill-2,,赋予敌方各种弱体效果/即死效果
+skill-3,,<div class=prt-text-small>自身必定三连击/火属性追击效果/乱击(3Hit)效果/心眼效果<span class=text-blue>◆消耗100%奥义值</span></div>
+support-1,,<div class=prt-text-small>根据敌方弱体效果数量自身攻防UP/连击率UP/普攻造成伤害UP</div>
+support-2,,<div class=prt-text-small>战斗开始时自身奥义值100%UP/敌方使用特殊技时发动技能1</div>
+skill-lb,LB技能,
+intro,,

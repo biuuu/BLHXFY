@@ -1,0 +1,11 @@
+﻿id,name,detail
+npc,缇可,3040414000
+special,,回复我方全体HP(上限1500)/屏障效果(4000)/疫苗效果(回合结束时净化全部弱体效果)
+special+,,回复我方全体HP(上限2000)/屏障效果(4000)/疫苗效果(回合结束时净化全部弱体效果)
+skill-1,,回复土属性角色全部HP
+skill-2,,复活我方单体角色
+skill-3,,<div class=prt-text-small>驱散敌方全体全部强化效果<span class=text-blue>◆第10回合以后，根据驱散成功的效果数量赋予土属性角色强化效果</span></div>
+support-1,,发生奥义连击时，土属性角色弱体效果缩短1回合<span class=text-blue>◆自身处于后排时同样发动</span>
+support-2,,战斗开始时追加一个全体治愈药水<span class=text-blue>◆自身处于后排时同样发动</span>
+skill-lb,LB技能,
+intro,,

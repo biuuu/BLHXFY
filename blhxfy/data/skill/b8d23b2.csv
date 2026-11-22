@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,威尔纳斯,3040553000
+special,,光属性伤害(极大)/效果中必定三连击
+skill-1,,对敌方全体造成10倍光属性伤害/受伤加重(6次)/自身攻击大幅UP
+skill-2,,<div class=prt-text-small>对敌方造成8倍光属性伤害/受伤加重(累积)/自身奥义值10%UP<span class=text-blue>◆前排仅有光属性角色时，Fatal Chain值10%UP</span></div>
+skill-3,,光属性角色获得『朱』之奖励效果
+support-1,,<div class=prt-text-small>不进行连击且普攻不累积奥义值，但普攻造成伤害UP/受伤反击(1次)/普攻后发动技能2</div>
+support-2,,<div class=prt-text-small>光属性Fatal Chain发动时，技能1发动/敌方预兆的解除条件减少/光属性角色『朱』之奖励效果延长2回合/自身在回合中进行2次攻击行动</div>
+skill-lb,LB技能,
+intro,,

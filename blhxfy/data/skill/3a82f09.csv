@@ -1,0 +1,10 @@
+﻿id,name,detail
+npc,该隐,3040436000
+special,圣福·太极阵,火属性伤害(特大)/赋予火属性角色3种随机强化效果
+skill-1,五稜斩·星刻,<div class=prt-text-small>对敌方单体造成4次火属性伤害/自身奥义值20%UP<span class=text-blue>◆根据自身拥有的强化效果数量，发动次数UP(最大3次)</span></div>
+skill-2,晓雪之功,火属性角色暴击率UP/伤害上限UP/火属性追击效果
+skill-3,星贯迅速,火属性角色强化效果延长<span class=text-blue>◆效果时间为1回合地强化效果除外</span>
+support-1,冰原之火,<div class=prt-text-small>根据自身拥有的强化效果数量，奥义伤害UP/奥义伤害上限UP<span class=text-blue>◆强化效果数量在15以上时，奥义发动2次</span></div>
+support-2,予旅途以祝福,<div class=prt-text-small>火属性角色风属性伤害减轻/战斗开始时火属性角色获得免疫驱散效果(1次)<span class=text-blue>◆自身处于后排时同样发动</span></div>
+skill-lb,LB技能,
+intro,,
